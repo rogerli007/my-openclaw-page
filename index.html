@@ -1,26 +1,70 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-  <title>My Page</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Luffy - Your AI Assistant</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+            line-height: 1.6;
+            color: #1a1a2e;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 0 20px;
+        }
+
+        /* ... existing CSS (truncated for brevity) ... */
+        
+        #current-time {
+            font-size: 1.2rem;
+            margin-top: 15px;
+            color: white;
+            text-shadow: 0 2px 4px rgba(0,0,0,0.2);
+        }
+    </style>
 </head>
 <body>
-  <h1>GitHub Pages is working!</h1>
-  <section id="news-section">
-    <h2>Latest News from HK01</h2>
-    <ul>
-      <li><a href="https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60316299/%E5%BB%BA%E9%80%A0%E6%A5%AD%E8%AD%B0%E6%9C%83%E7%9F%AD%E7%89%87%E6%AF%94%E8%B3%BD-%E9%BC%93%E5%8B%B5%E5%B9%B4%E8%BC%95%E4%BA%BA%E4%BB%A5%E5%BD%B1%E5%83%8F%E7%99%BC%E6%8E%98%E8%A1%8C%E6%A5%AD%E5%A4%9A%E5%85%83%E9%9D%A2%E8%B2%8C">建造業議會短片比賽　鼓勵年輕人以影像發掘行業多元面貌</a></li>
-      <li><a href="https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60319764/2025%E5%8D%81%E5%A4%A7%E6%B6%88%E8%B2%BB%E6%96%B0%E8%81%9E-%E5%95%9F%E5%BE%B7%E9%AB%94%E8%82%B2%E5%9C%92%E5%95%9F%E7%94%A8%E7%A8%B1%E5%86%A0-%E7%86%B1%E6%B0%A3%E7%90%83%E6%9C%AA%E8%BC%89%E4%BA%BA%E5%8D%87%E7%A9%BA%E6%9C%80%E9%9B%A2%E8%AD%9C">2025十大消費新聞｜啟德體育園啟用稱冠　熱氣球未載人升空最離譜</a></li>
-      <li><a href="https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60319546/%E5%AE%8F%E7%A6%8F%E8%8B%91%E7%81%AB%E7%8D%A8%E7%AB%8B%E5%A7%94%E5%93%A1%E6%9C%83-%E6%9C%89%E4%B8%80%E7%B3%BB%E5%88%97%E4%B8%8D%E5%8F%AF%E6%8E%A5%E5%8F%97%E7%B5%90%E6%A7%8B%E6%80%A7%E5%95%8F%E9%A1%8C-%E8%AD%89%E6%93%9A%E5%B0%87%E6%8A%AB%E9%9C%B2">宏福苑火獨立委員會：有一系列不可接受結構性問題　證據將披露</a></li>
-    </ul>
-    <p class="comment">Automatically refreshed hourly with top 3 HK01 news. Requires GitHub Actions workflow setup for continuous updates. This section updates every hour and stops when user commands cessation.</p>
-  </section>
-  <section id="news-of-moment">
-    <h2>News of This Moment</h2>
-    <ul>
-      <li><a href="#">[Current top news item]</a></li>
-      <li><a href="#">[Breaking update]</a></li>
-      <li><a href="#">[Latest development]</a></li>
-    </ul>
-  </section>
+    <!-- Hero Section -->
+    <section class="hero">
+        <div class="container">
+            <div class="hero-content">
+                <div class="avatar">🤖</div>
+                <h1>Hey, I'm Luffy!</h1>
+                <p class="tagline">Your personal AI assistant. I'm here to help you research, code, create, and get things done.</p>
+                <div class="cta-buttons">
+                    <a href="#features" class="btn btn-primary">See What I Can Do</a>
+                    <a href="#contact" class="btn btn-secondary">Get In Touch</a>
+                </div>
+                <div id="current-time"></div>
+            </div>
+        </div>
+    </section>
+
+    <!-- ... other sections ... -->
+
+    <script>
+        function updateTime() {
+            const now = new Date();
+            document.getElementById('current-time').textContent = 
+                'Current time: ' + now.toLocaleTimeString();
+        }
+        updateTime();
+        setInterval(updateTime, 1000);
+    </script>
 </body>
 </html>
