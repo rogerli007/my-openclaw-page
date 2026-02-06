@@ -39,29 +39,20 @@ jobs:
               
               console.log(`📌 Parsed title: ${title}`);
               
-              // Get current timestamp
-              const now = new Date();
-              const timestamp = now.toLocaleString('en-US', {
-                year: 'numeric',
-                month: '2-digit',
-                day: '2-digit',
-                hour: '2-digit',
-                minute: '2-digit',
-                hour12: false
-              }).replace(/‎/g, ''); // Clean bidirectional marks
-              
-              // Read index.html
+              // Read index.html and update
               let content = fs.readFileSync('index.html', 'utf8');
               
-              // Update news link
-              const newsLinkRegex = /(<a [^>]*class="news-link">)[^<]*(</a>)/;
-              content = content.replace(newsLinkRegex, `$1${title}$2`);
+              // Key fix: Use proper HTML entities and escape regex 
+              content = content.replace(
+                /(<a [^>]*class="news-link">)[^<]*(<\/a>)/,
+                `$1${title}$2`
+              );
               
-              // Update timestamp
-              const timestampRegex = /(<p class="small">)Selected.*(<\/p>)/;
-              content = content.replace(timestampRegex, `$1Updated: ${timestamp} | Selected from HK01$2`);
+              content = content.replace(
+                /(<p class="small">)Selected.*(<\/p>)/,
+                `$1Updated: ${new Date().toISOString().replace('T', ' ').substring(0, 16)} | Selected from HK01$2`
+              );
               
-              // Save changes
               fs.writeFileSync('index.html', content);
               console.log('✅ News section updated successfully');
               
@@ -81,11 +72,11 @@ jobs:
         run: |
           node update-news.js
           
-          # Commit changes if index.html was modified
-          if git diff --quiet index.html; then
-            echo "ℹ️ No changes needed"
-          else
+          # Commit changes
+          if ! git diff --quiet index.html; then
             git config --global user.email "action@github.com"
             git config --global user.name "GitHub Actions"
-            git commit -am "📰 News updated via Node.js" && git push origin main
+            git commit -am "📰 News updated" && git push origin main
+          else
+            echo "ℹ️ No changes needed"
           fi
