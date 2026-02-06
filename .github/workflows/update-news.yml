@@ -1,0 +1,31 @@
+name: Update News Content
+
+on:
+  schedule:
+    - cron: '*/15 * * * *'
+
+jobs:
+  update-news:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Update news section
+        run: |
+          # Fetch latest HK01 headline
+          HEADLINE=$(curl -s 'https://www.hk01.com' | grep -oP '<a href="(.*?)".*?>.*?港鐵.*?</a>' | head -n 1)
+          
+          # Extract news link and title
+          LINK=$(echo "$HEADLINE" | grep -oP 'href="\K[^"]+')
+          TITLE=$(echo "$HEADLINE" | grep -oP '>(.*?)<\\/a>' | sed 's/<[^>]*>//g')
+          
+          # Update index.html with new content
+          if [ -n "$LINK" ] && [ -n "$TITLE" ]; then
+            sed -i "s|<a href=".*" class="news-link">.*</a>|<a href="$LINK" class="news-link">$TITLE</a>|" index.html
+            sed -i "s|<p class="small">Selected.*</p>|<p class="small">Updated: $(date '+%Y-%m-%d %H:%M') | Selected from HK01</p>|" index.html
+            git config --global user.email "action@github.com"
+            git config --global user.name "GitHub Actions"
+            git commit -am " chore: Update news content - $(date '+%Y-%m-%d %H:%M') " || true
+            git push origin main
+          fi
