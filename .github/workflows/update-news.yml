@@ -12,65 +12,80 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v4
 
-      - name: Install GitHub CLI
-        run: |
-          sudo apt-get update
-          sudo apt-get install -y gh
+      - name: Install Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '20.x'
 
-      - name: Configure GitHub CLI
+      - name: Create news update script
+        run: |
+          cat << 'EOF' > update-news.js
+          const fs = require('fs');
+          const axios = require('axios');
+          const cheerio = require('cheerio');
+
+          (async () => {
+            try {
+              // Fetch HK01 homepage
+              const { data } = await axios.get('https://www.hk01.com', {
+                headers: { 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64)' }
+              });
+              
+              // Parse HTML
+              const $ = cheerio.load(data);
+              const article = $('a[data-test="article-item"]').first();
+              const title = article.text().trim() || 'Latest news update';
+              const url = article.attr('href') || '/';
+              
+              console.log(`📌 Parsed title: ${title}`);
+              
+              // Get current timestamp
+              const now = new Date();
+              const timestamp = now.toLocaleString('en-US', {
+                year: 'numeric',
+                month: '2-digit',
+                day: '2-digit',
+                hour: '2-digit',
+                minute: '2-digit',
+                hour12: false
+              }).replace(/‎/g, ''); // Clean bidirectional marks
+              
+              // Read index.html
+              let content = fs.readFileSync('index.html', 'utf8');
+              
+              // Update news link
+              const newsLinkRegex = /(<a [^>]*class="news-link">)[^<]*(</a>)/;
+              content = content.replace(newsLinkRegex, `$1${title}$2`);
+              
+              // Update timestamp
+              const timestampRegex = /(<p class="small">)Selected.*(<\/p>)/;
+              content = content.replace(timestampRegex, `$1Updated: ${timestamp} | Selected from HK01$2`);
+              
+              // Save changes
+              fs.writeFileSync('index.html', content);
+              console.log('✅ News section updated successfully');
+              
+            } catch (error) {
+              console.error('❌ Failed to update news:', error.message);
+              process.exit(1);
+            }
+          })();
+          EOF
+
+      - name: Install dependencies
+        run: npm install axios cheerio
+
+      - name: Run news update
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          echo "✅ Authenticating with GitHub CLI..."
-          gh auth login --with-token <<< "$GITHUB_TOKEN"
-
-      - name: Download HTML parser
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: |
-          echo "🔍 Downloading pup v0.4.0 via GitHub CLI..."
+          node update-news.js
           
-          # Use GitHub CLI to handle API requests properly
-          if ! gh release download v0.4.0 -R ericchiang/pup -p 'pup_v0.4.0_linux_amd64.tar.gz' -O pup.tar.gz; then
-            echo "❌ GitHub CLI download failed - using direct URL with authentication"
-            curl -L -H "Authorization: token $GITHUB_TOKEN" \
-              -H "Accept: application/octet-stream" \
-              -o pup.tar.gz \
-              'https://github.com/ericchiang/pup/releases/download/v0.4.0/pup_v0.4.0_linux_amd64.tar.gz'
-          fi
-          
-          # Verify download
-          if ! file pup.tar.gz | grep -q 'gzip'; then
-            echo "❌ Invalid file type detected!" 
-            head -c 50 pup.tar.gz | xxd
-            exit 1
-          fi
-          
-          tar xzf pup.tar.gz
-          chmod +x pup
-          sudo mv pup /usr/local/bin/
-          echo "✅ pup installed successfully!"
-
-      - name: Fetch and update news
-        run: |
-          echo "⏰ Workflow started at: $(date)"
-          
-          # Robust title extraction
-          TITLE=$(curl -s 'https://www.hk01.com' | \
-            grep -Po '<a data-test="article-item"\s*href="[^>]+>\K[^<]+' | \
-            head -1)
-          
-          if [ -z "$TITLE" ]; then
-            TITLE="News update"
-          fi
-          
-          # Update content
-          sed -i "s|<a href=".*" class="news-link">.*</a>|<a href="/" class="news-link">$TITLE</a>|" index.html
-          sed -i "s|<p class="small">Selected.*</p>|<p class="small">Updated: $(date '+%Y-%m-%d %H:%M') | Selected from HK01</p>|" index.html
-          
-          # Commit changes
-          if ! git diff --quiet; then
+          # Commit changes if index.html was modified
+          if git diff --quiet index.html; then
+            echo "ℹ️ No changes needed"
+          else
             git config --global user.email "action@github.com"
             git config --global user.name "GitHub Actions"
-            git commit -am "📰 News updated: $TITLE" && git push origin main
+            git commit -am "📰 News updated via Node.js" && git push origin main
           fi
