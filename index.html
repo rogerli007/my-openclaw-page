@@ -43,24 +43,7 @@
     <section id="news" style="margin:3rem 0;padding:0 1rem;">
     <h2>Hong Kong News (HK01)</h2>
     <p id="hk01_article">Fetching latest headline…</p>
-    <script>
-        async function loadNews(){
-            try {
-                const resp = await fetch('https://api.allorigins.win/raw?url=https://hk01.com/');
-                const txt = await resp.text();
-                const temp = document.createElement('div');
-                temp.innerHTML = txt;
-                const headline = temp.querySelector('h1, a[href]');
-                document.getElementById('hk01_article').textContent =
-                    headline ? headline.textContent.trim() : 'No headline found.';
-            } catch (e) {
-                document.getElementById('hk01_article').textContent =
-                    'Unable to fetch headline.';
-                console.error(e);
-            }
-        }
-        loadNews();
-    </script>
+    <p id="hk01_article">Today's headline (static): 今天的頭條為「在網上實現跨境投資」</p>
 </section>
 </nav>
 </body>
