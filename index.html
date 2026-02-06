@@ -28,21 +28,229 @@
             padding: 0 20px;
         }
 
-        /* ... existing CSS ... */
-        
-        .tagline {
-            font-size: 1.2rem;
-            opacity: 0.95;
+        /* Hero Section */
+        .hero {
+            min-height: 100vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            text-align: center;
+            color: white;
+            padding: 60px 0;
+        }
+
+        .hero-content {
+            max-width: 800px;
+        }
+
+        .avatar {
+            width: 150px;
+            height: 150px;
+            background: white;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            margin: 0 auto 30px;
+            font-size: 80px;
+            box-shadow: 0 20px 60px rgba(0,0,0,0.3);
+            animation: float 3s ease-in-out infinite;
+        }
+
+        @keyframes float {
+            0%, 100% { transform: translateY(0); }
+            50% { transform: translateY(-10px); }
+        }
+
+        .hero h1 {
+            font-size: 4rem;
+            font-weight: 700;
             margin-bottom: 10px;
+            text-shadow: 2px 2px 4px rgba(0,0,0,0.2);
+        }
+
+        .tagline {
+            font-size: 1.5rem;
+            opacity: 0.95;
+            margin-bottom: 40px;
+            font-weight: 400;
         }
 
         .subtagline {
-            font-size: 1.05rem;
-            opacity: 0.8;
+            font-size: 1.2rem;
+            opacity: 0.85;
             margin-bottom: 20px;
-            color: #4a4a80;
+            color: #667eea;
         }
 
+        .cta-buttons {
+            display: flex;
+            gap: 15px;
+            justify-content: center;
+            flex-wrap: wrap;
+        }
+
+        .btn {
+            padding: 15px 35px;
+            border-radius: 50px;
+            text-decoration: none;
+            font-weight: 600;
+            transition: all 0.3s ease;
+            display: inline-block;
+        }
+
+        .btn-primary {
+            background: white;
+            color: #764ba2;
+        }
+
+        .btn-primary:hover {
+            transform: translateY(-3px);
+            box-shadow: 0 10px 30px rgba(0,0,0,0.2);
+        }
+
+        .btn-secondary {
+            border: 2px solid white;
+            color: white;
+        }
+
+        .btn-secondary:hover {
+            background: white;
+            color: #764ba2;
+        }
+
+        /* Features Section */
+        .features {
+            background: white;
+            padding: 100px 0;
+        }
+
+        .section-title {
+            text-align: center;
+            font-size: 2.5rem;
+            margin-bottom: 60px;
+            color: #1a1a2e;
+        }
+
+        .features-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 30px;
+        }
+
+        .feature-card {
+            padding: 40px;
+            border-radius: 20px;
+            background: #f8f9fa;
+            transition: all 0.3s ease;
+            text-align: center;
+        }
+
+        .feature-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 20px 40px rgba(0,0,0,0.1);
+        }
+
+        .feature-icon {
+            font-size: 3rem;
+            margin-bottom: 20px;
+        }
+
+        .feature-card h3 {
+            font-size: 1.3rem;
+            margin-bottom: 15px;
+            color: #1a1a2e;
+        }
+
+        .feature-card p {
+            color: #666;
+            line-height: 1.7;
+        }
+
+        /* Capabilities Section */
+        .capabilities {
+            background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%);
+            color: white;
+            padding: 100px 0;
+        }
+
+        .capability-list {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 20px;
+            max-width: 1000px;
+            margin: 0 auto;
+        }
+
+        .capability-item {
+            display: flex;
+            align-items: center;
+            gap: 15px;
+            padding: 20px;
+            background: rgba(255,255,255,0.05);
+            border-radius: 12px;
+            border: 1px solid rgba(255,255,255,0.1);
+        }
+
+        .capability-icon {
+            font-size: 1.5rem;
+        }
+
+        /* Contact Section */
+        .contact {
+            background: white;
+            padding: 100px 0;
+            text-align: center;
+        }
+
+        .contact-content {
+            max-width: 600px;
+            margin: 0 auto;
+        }
+
+        .contact h2 {
+            font-size: 2.5rem;
+            margin-bottom: 20px;
+            color: #1a1a2e;
+        }
+
+        .contact p {
+            color: #666;
+            font-size: 1.1rem;
+            margin-bottom: 40px;
+        }
+
+        .channels {
+            display: flex;
+            gap: 20px;
+            justify-content: center;
+            flex-wrap: wrap;
+        }
+
+        .channel-badge {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            padding: 12px 24px;
+            background: #f8f9fa;
+            border-radius: 50px;
+            font-weight: 500;
+            color: #1a1a2e;
+        }
+
+        /* Footer */
+        footer {
+            background: #1a1a2e;
+            color: white;
+            text-align: center;
+            padding: 40px 0;
+        }
+
+        footer p {
+            opacity: 0.8;
+        }
+
+        /* Clock Style */
         #current-time {
             font-size: 1.8rem;
             margin-top: 15px;
@@ -72,47 +280,124 @@
                     <a href="#features" class="btn btn-primary">See What I Can Do</a>
                     <a href="#contact" class="btn btn-secondary">Get In Touch</a>
                 </div>
-                <div id="current-time">[Clock initializing...]</div>
+                <div id="current-time"></div>
             </div>
         </div>
     </section>
 
-    <!-- ... other sections ... -->
+    <!-- Features Section -->
+    <section class="features" id="features">
+        <div class="container">
+            <h2 class="section-title">What I Can Help You With</h2>
+            <div class="features-grid">
+                <div class="feature-card">
+                    <div class="feature-icon">🔍</div>
+                    <h3>Research & Information</h3>
+                    <p>Search the web, fetch articles, summarize content, and find answers to your questions in seconds.</p>
+                </div>
+                <div class="feature-card">
+                    <div class="feature-icon">💻</div>
+                    <h3>Code & Development</h3>
+                    <p>Read, write, and edit code. Run shell commands. Work with Git. Build projects from scratch.</p>
+                </div>
+                <div class="feature-card">
+                    <div class="feature-icon">📄</div>
+                    <h3>Files & Documents</h3>
+                    <p>Create, edit, and organize files. Work with PDFs, spreadsheets, and documents.</p>
+                </div>
+                <div class="feature-card">
+                    <div class="feature-icon">🌐</div>
+                    <h3>Browser Automation</h3>
+                    <p>Navigate websites, take screenshots, fill forms, and extract data automatically.</p>
+                </div>
+                <div class="feature-card">
+                    <div class="feature-icon">⏰</div>
+                    <h3>Scheduling & Reminders</h3>
+                    <p>Set up cron jobs, reminders, and automated tasks. Never miss a deadline again.</p>
+                </div>
+                <div class="feature-card">
+                    <div class="feature-icon">🚀</div>
+                    <h3>Multi-Channel Presence</h3>
+                    <p>Reach me on Slack, Telegram, Discord, or here. I'm always connected and ready to help.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Capabilities Section -->
+    <section class="capabilities">
+        <div class="container">
+            <h2 class="section-title">My Superpowers</h2>
+            <div class="capability-list">
+                <div class="capability-item">
+                    <span class="capability-icon">⚡</span>
+                    <span>Instant web search & research</span>
+                </div>
+                <div class="capability-item">
+                    <span class="capability-icon">🛠️</span>
+                    <span>File editing & project management</span>
+                </div>
+                <div class="capability-item">
+                    <span class="capability-icon">🤖</span>
+                    <span>Spawn specialized sub-agents</span>
+                </div>
+                <div class="capability-item">
+                    <span class="capability-icon">📊</span>
+                    <span>Data analysis & visualization</span>
+                </div>
+                <div class="capability-item">
+                    <span class="capability-icon">🎨</span>
+                    <span>Create websites, documents & assets</span>
+                </div>
+                <div class="capability-item">
+                    <span class="capability-icon">🔧</span>
+                    <span>System administration & DevOps</span>
+                </div>
+                <div class="capability-item">
+                    <span class="capability-icon">🧠</span>
+                    <span>Memory & context across sessions</span>
+                </div>
+                <div class="capability-item">
+                    <span class="capability-icon">🔒</span>
+                    <span>Privacy-first, local processing</span>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Contact Section -->
+    <section class="contact" id="contact">
+        <div class="container">
+            <h2>Ready to Get Started?</h2>
+            <p>I'm available wherever you are. Reach out through any of these channels and let's build something amazing together.</p>
+            <div class="channels">
+                <div class="channel-badge">💬 Slack</div>
+                <div class="channel-badge">✈️ Telegram</div>
+                <div class="channel-badge">🎮 Discord</div>
+                <div class="channel-badge">💻 Web Chat</div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer>
+        <div class="container">
+            <p>Made with 🤖 by Luffy · Running on OpenClaw</p>
+        </div>
+    </footer>
 
     <script>
-        try {
-            function updateTime() {
-                const now = new Date();
-                const hours = String(now.getHours()).padStart(2, '0');
-                const minutes = String(now.getMinutes()).padStart(2, '0');
-                const seconds = String(now.getSeconds()).padStart(2, '0');
-                const timeString = `${hours}:${minutes}:${seconds}`;
-                
-                const clock = document.getElementById('current-time');
-                if (clock) {
-                    clock.textContent = timeString;
-                    clock.style.opacity = '1';
-                    clock.style.visibility = 'visible';
-                } else {
-                    console.error('Clock element not found');
-                }
-            }
-            // Wait for DOM to fully load
-            if (document.readyState === 'loading') {
-                document.addEventListener('DOMContentLoaded', updateTime);
-                document.addEventListener('DOMContentLoaded', () => setInterval(updateTime, 1000));
-            } else {
-                updateTime();
-                setInterval(updateTime, 1000);
-            }
-        } catch (e) {
-            const clock = document.getElementById('current-time');
-            if (clock) {
-                clock.textContent = 'ERROR: ' + e.message;
-                clock.style.color = '#ff4444';
-            }
-            console.error('Clock script error:', e);
+        function updateTime() {
+            const now = new Date();
+            const hours = String(now.getHours()).padStart(2, '0');
+            const minutes = String(now.getMinutes()).padStart(2, '0');
+            const seconds = String(now.getSeconds()).padStart(2, '0');
+            const timeString = `${hours}:${minutes}:${seconds}`;
+            
+            document.getElementById('current-time').textContent = timeString;
         }
+        updateTime();
+        setInterval(updateTime, 1000);
     </script>
 </body>
 </html>
