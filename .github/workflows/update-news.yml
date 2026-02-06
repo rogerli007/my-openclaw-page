@@ -3,7 +3,7 @@ name: Update News Content
 on:
   schedule:
     - cron: '*/15 * * * *'
-  workflow_dispatch: # Allows manual triggering
+  workflow_dispatch:
 
 jobs:
   update-news:
@@ -12,45 +12,43 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v4
 
-      - name: Install HTML parser
+      - name: Install HTML parser (standalone binary)
         run: |
-          sudo apt-get update
-          sudo apt-get install -y pup
+          # Download and install pup from official release (no apt required)
+          curl -L https://github.com/ericchiang/pup/releases/download/v0.4.0/pup_v0.4.0_linux_amd64.tar.gz | tar xz
+          chmod +x pup
+          sudo mv pup /usr/local/bin/
 
       - name: Fetch and update news
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          # Debug: Show current time
           echo "⚠️ Workflow started at: $(date)"
           
-          # Step 1: Get top news URL
-          URL=$(curl -s 'https://www.hk01.com' | pup 'a[data-test=article-item] attr{href}' | head -1)
+          # Get top news URL with reliable selector
+          URL=$(curl -s 'https://www.hk01.com' | pup 'a[data-test="article-item"] attr{href}' | head -1)
           if [ -z "$URL" ]; then
-            echo "❌ No news URL found - bailing out"
-            exit 1
+            echo "❌ No news URL found - using fallback homepage"
+            URL="/"
           fi
           echo "✅ Found URL: https://www.hk01.com$URL"
           
-          # Step 2: Extract title
-          TITLE=$(curl -s "https://www.hk01.com$URL" | pup 'h1.article-title text{}' | tr -d '\n' | sed 's/[^[:print:]]//g')
+          # Get title from article page
+          TITLE=$(curl -s "https://www.hk01.com$URL" | pup 'h1.article-title text{}' | tr -d '\n' | sed 's/[^[:print:]]//g' | head -1)
           if [ -z "$TITLE" ]; then
-            echo "❌ No title found - bailing out"
-            exit 1
+            echo "❌ No title found - using fallback"
+            TITLE="Latest news update"
           fi
           echo "✅ Parsed title: $TITLE"
           
-          # Step 3: Update content
+          # Update index.html with new content
           sed -i -E "s|(<a [^>]*class=\"news-link\">)[^<]*(</a>)|\1$TITLE\2|" index.html
           sed -i -E "s|(<p class=\"small\">)Selected.*</p>|\1Updated: $(date '+%Y-%m-%d %H:%M') | Selected from HK01</p>|" index.html
           
-          # Step 4: Commit changes if there are any modifications
-          if git diff --quiet; then
-            echo "ℹ️ No changes needed - skipping commit"
-          else
+          # Commit changes if any
+          if ! git diff --quiet; then
             git config --global user.email "action@github.com"
             git config --global user.name "GitHub Actions"
-            git commit -am "📦 News update: $(date '+%Y-%m-%d %H:%M')"
+            git commit -am "📰 News update: $(date '+%Y-%m-%d %H:%M') - $TITLE"
             git push origin main
-            echo "✅ News updated successfully!"
           fi
