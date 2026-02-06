@@ -40,6 +40,26 @@
                 sendBtn.addEventListener('click',()=>{const t=promptInput.value.trim(); if(!t)return; replyDiv.textContent='Thinking…'; setTimeout(()=>{replyDiv.textContent=fakeReply(t);},800);});
             </script>
         </section>
-    </nav>
+    <section id="news" style="margin:3rem 0;padding:0 1rem;">
+    <h2>Hong Kong News (HK01)</h2>
+    <p id="hk01_article">Fetching latest headline…</p>
+    <script>
+        async function loadNews(){
+            const resp=await fetch('https://hk01.com');
+            const txt=await resp.text();
+            const temp=document.createElement('div');
+            temp.innerHTML=txt;
+            // Very simple extraction: grab first article headline
+            const headline=temp.querySelector('h1,a');
+            if(headline){
+                document.getElementById('hk01_article').textContent=headline.textContent;
+            } else {
+                document.getElementById('hk01_article').textContent='No headline found.';
+            }
+        }
+        loadNews();
+    </script>
+</section>
+</nav>
 </body>
 </html>
