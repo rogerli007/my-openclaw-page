@@ -12,44 +12,80 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v4
 
-      - name: Install HTML parser (corrected binary URL)
+      - name: Install HTML parser (debuggable)
         run: |
-          # Download pup binary with proper redirect handling
-          curl -L -o pup.tar.gz 'https://github.com/ericchiang/pup/releases/latest/download/pup_linux_amd64.tar.gz'
-          if [ $? -ne 0 ]; then
-            echo "❌ Failed to download pup binary"
+          # Attempt to download with browser-like headers
+          echo "🔍 Attempting to download pup with diagnostic checks..."
+          curl -L -A "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" \
+            -H "Accept: application/octet-stream" \
+            -o pup.tar.gz \
+            'https://github.com/ericchiang/pup/releases/download/v0.4.0/pup_v0.4.0_linux_amd64.tar.gz'
+          
+          # Verify what was downloaded
+          if [ ! -s pup.tar.gz ]; then
+            echo "❌ Download failed: zero-byte file"
+            ls -la pup.tar.gz
             exit 1
           fi
-          tar xzf pup.tar.gz
-          chmod +x pup
-          sudo mv pup /usr/local/bin/
+          
+          FILETYPE=$(file pup.tar.gz)
+          echo "📝 Download result: $FILETYPE"
+          if echo "$FILETYPE" | grep -q "gzip compressed data"; then
+            echo "✅ Valid gzip archive - proceeding with extraction"
+            tar xzf pup.tar.gz
+            chmod +x pup
+            sudo mv pup /usr/local/bin/
+          else
+            echo "❌ Invalid file type detected! First 100 bytes:"
+            head -c 100 pup.tar.gz | xxd
+            echo "❌ Full error - workflow will fail now"
+            exit 1
+          fi
 
       - name: Fetch and update news
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          echo "⚠️ Workflow started at: $(date)"
+          echo "⏰ Workflow started at: $(date)"
           
-          # Get top news URL with robust selector
-          URL=$(curl -s 'https://www.hk01.com' | pup 'a[data-test="article-item"] attr{href}' | head -1)
+          # Get top news URL with maximum fallbacks
+          URL=$(curl -s 'https://www.hk01.com' | grep -Po 'a\s+data-test="article-item" href="\K/[^" ]+' | head -1)
           if [ -z "$URL" ]; then
-            echo "⚠️ Using homepage as fallback URL"
+            URL=$(curl -s 'https://www.hk01.com' | grep -Po 'a\s+class="title" href="\K/[^" ]+' | head -1)
+          fi
+          if [ -z "$URL" ]; then
             URL="/"
+            echo "⚠️ Using homepage as fallback"
           fi
           
-          # Get title with fallback
-          TITLE=$(curl -s "https://www.hk01.com$URL" | pup 'h1.article-title text{}' | head -1 | sed 's/[^[:print:]]//g')
+          # Get title with 4-layer fallback
+          TITLE=$(curl -s "https://www.hk01.com$URL" | grep -Po '<h1\s+class="article-title">\K[^<]+' | head -1)
           if [ -z "$TITLE" ]; then
-            TITLE="Latest news update"
-            echo "⚠️ Using fallback title"
+            TITLE=$(curl -s "https://www.hk01.com$URL" | grep -Po '<title>\K[^<]+(?=</title>)' | sed 's/- hk01.com$//' | head -1)
+          fi
+          if [ -z "$TITLE" ]; then
+            TITLE=$(curl -s "https://www.hk01.com$URL" | grep -Po 'meta\s+property="og:title"\s+content="\K[^"]+' | head -1)
+          fi
+          if [ -z "$TITLE" ]; then
+            TITLE="News update"
+            echo "⚠️ Using generic fallback title"
           fi
           
-          # Update content
-          sed -i -E "s|(<a [^>]*class=\"news-link\">)[^<]*(</a>)|\1$TITLE\2|" index.html
-          sed -i -E "s|(<p class=\"small\">)Selected.*</p>|\1Updated: $(date '+%Y-%m-%d %H:%M') | Selected from HK01</p>|" index.html
+          # Clean non-printable characters
+          TITLE="$(echo $TITLE | tr -cd '[:print:]')"
+          echo "📋 Final title: $TITLE"
           
-          # Commit changes
-          git config --global user.email "action@github.com"
-          git config --global user.name "GitHub Actions"
-          git commit -am "✅ News update: $TITLE" || echo "No changes to commit"
-          git push origin main
+          # Update content with debug logging
+          CHANGED=false
+          if ! grep -q "$TITLE" index.html; then
+            sed -i -E "s|(<a [^>]*class=\"news-link\">)[^<]*(</a>)|\1$TITLE\2|" index.html
+            sed -i -E "s|(<p class=\"small\">)Selected.*</p>|\1Updated: $(date '+%Y-%m-%d %H:%M') | Selected from HK01</p>|" index.html
+            CHANGED=true
+          fi
+          
+          # Commit only if changed
+          if $CHANGED; then
+            git config --global user.email "action@github.com"
+            git config --global user.name "GitHub Actions"
+            git commit -am "🔄 Auto-updated news: $TITLE" && git push origin main
+          else
+            echo "ℹ️ No content change detected - skipping commit"
+          fi
