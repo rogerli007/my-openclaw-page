@@ -54,16 +54,44 @@
                 sendBtn.addEventListener('click',()=>{const t=promptInput.value.trim(); if(!t)return; replyDiv.textContent='Thinking…'; setTimeout(()=>{replyDiv.textContent=fakeReply(t);},800);});
             </script>
         </section>
+    <section id="search" style="margin-top:2rem;background:var(--card);border-radius:12px;box-shadow:0 4px 6px rgba(0,0,0,.2);padding:2rem;">
+        <h2>Search the web</h2>
+        <div class="search-bar" style="display:flex;gap:.5rem;margin-bottom:1rem;">
+            <input id="query" placeholder="Type a query…" style="flex:1;padding:.8rem;font-size:1rem;border:1px solid var(--muted);border-radius:8px;background:var(--bg);color:var(--text);"/>
+            <button id="go" style="padding:.8rem 1.5rem;font-size:1rem;border:none;border-radius:8px;background:var(--accent);color:var(--text);cursor:pointer;">Search</button>
+        </div>
+        <div id="search-results"></div>
+    </section>
     <section id="news" style="margin:2rem 0;background:var(--card);border-radius:12px;box-shadow:0 4px 6px rgba(0,0,0,.2);padding:2rem;">
     <h2>Hong Kong News (HK01)</h2>
     <div class="news-card" style="display:flex;gap:1.5rem;flex-wrap:wrap;">
         <img src="https://via.placeholder.com/600x300?text=HK01" alt="HK01 Headline" style="width:100%;max-width:400px;border-radius:8px;" />
         <div class="news-content" style="flex:1 1 300px;">
-            <h3 style="margin-top:0;color:var(--accent);">Latest headline from HK01</h3>
-            <p style="margin:0.5rem 0;color:var(--text);">Placeholder headline. Once you fetch data, replace with real title and summary.</p>
+            <h3 style="margin-top:0;color:var(--accent);">Example Domain</h3>
+            <p style="margin:0.5rem 0;color:var(--text);">Example Domain, replace with real title and summary.</p>
         </div>
     </div>
 </section>
+
+    <script>
+        document.getElementById('go').addEventListener('click', async () => {
+            const q = document.getElementById('query').value.trim();
+            if (!q) return;
+            const res = await fetch('/search?q=' + encodeURIComponent(q), { headers: { 'Accept': 'application/json' } });
+            const data = await res.json();
+            const container = document.getElementById('search-results');
+            container.innerHTML = '';
+            if (!data.results || data.results.length === 0) {
+                container.innerHTML = '<p>No results found.</p>';
+                return;
+            }
+            data.results.forEach(r => {
+                const li = document.createElement('li');
+                li.innerHTML = `<h3>${r.title}</h3><p>${r.description}</p><a href="${r.url}" target="_blank" style="color:#4c9eed;text-decoration:none;">Read more →</a>`;
+                container.appendChild(li);
+            });
+        });
+    </script>
 </nav>
 </body>
 </html>
