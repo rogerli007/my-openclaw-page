@@ -12,10 +12,15 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v4
 
-      - name: Install HTML parser (standalone binary)
+      - name: Install HTML parser (corrected binary URL)
         run: |
-          # Download and install pup from official release (no apt required)
-          curl -L https://github.com/ericchiang/pup/releases/download/v0.4.0/pup_v0.4.0_linux_amd64.tar.gz | tar xz
+          # Download pup binary with proper redirect handling
+          curl -L -o pup.tar.gz 'https://github.com/ericchiang/pup/releases/latest/download/pup_linux_amd64.tar.gz'
+          if [ $? -ne 0 ]; then
+            echo "❌ Failed to download pup binary"
+            exit 1
+          fi
+          tar xzf pup.tar.gz
           chmod +x pup
           sudo mv pup /usr/local/bin/
 
@@ -25,30 +30,26 @@ jobs:
         run: |
           echo "⚠️ Workflow started at: $(date)"
           
-          # Get top news URL with reliable selector
+          # Get top news URL with robust selector
           URL=$(curl -s 'https://www.hk01.com' | pup 'a[data-test="article-item"] attr{href}' | head -1)
           if [ -z "$URL" ]; then
-            echo "❌ No news URL found - using fallback homepage"
+            echo "⚠️ Using homepage as fallback URL"
             URL="/"
           fi
-          echo "✅ Found URL: https://www.hk01.com$URL"
           
-          # Get title from article page
-          TITLE=$(curl -s "https://www.hk01.com$URL" | pup 'h1.article-title text{}' | tr -d '\n' | sed 's/[^[:print:]]//g' | head -1)
+          # Get title with fallback
+          TITLE=$(curl -s "https://www.hk01.com$URL" | pup 'h1.article-title text{}' | head -1 | sed 's/[^[:print:]]//g')
           if [ -z "$TITLE" ]; then
-            echo "❌ No title found - using fallback"
             TITLE="Latest news update"
+            echo "⚠️ Using fallback title"
           fi
-          echo "✅ Parsed title: $TITLE"
           
-          # Update index.html with new content
+          # Update content
           sed -i -E "s|(<a [^>]*class=\"news-link\">)[^<]*(</a>)|\1$TITLE\2|" index.html
           sed -i -E "s|(<p class=\"small\">)Selected.*</p>|\1Updated: $(date '+%Y-%m-%d %H:%M') | Selected from HK01</p>|" index.html
           
-          # Commit changes if any
-          if ! git diff --quiet; then
-            git config --global user.email "action@github.com"
-            git config --global user.name "GitHub Actions"
-            git commit -am "📰 News update: $(date '+%Y-%m-%d %H:%M') - $TITLE"
-            git push origin main
-          fi
+          # Commit changes
+          git config --global user.email "action@github.com"
+          git config --global user.name "GitHub Actions"
+          git commit -am "✅ News update: $TITLE" || echo "No changes to commit"
+          git push origin main
