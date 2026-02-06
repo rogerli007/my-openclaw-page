@@ -54,10 +54,15 @@
                 sendBtn.addEventListener('click',()=>{const t=promptInput.value.trim(); if(!t)return; replyDiv.textContent='Thinking…'; setTimeout(()=>{replyDiv.textContent=fakeReply(t);},800);});
             </script>
         </section>
-    <section id="news" style="margin:3rem 0;padding:0 1rem;">
+    <section id="news" style="margin:2rem 0;background:var(--card);border-radius:12px;box-shadow:0 4px 6px rgba(0,0,0,.2);padding:2rem;">
     <h2>Hong Kong News (HK01)</h2>
-    <p id="hk01_article">Fetching latest headline…</p>
-    <p id="hk01_article">Today's headline (static): 今天的頭條為「在網上實現跨境投資」</p>
+    <div class="news-card" style="display:flex;gap:1.5rem;flex-wrap:wrap;">
+        <img src="https://via.placeholder.com/600x300?text=HK01" alt="HK01 Headline" style="width:100%;max-width:400px;border-radius:8px;" />
+        <div class="news-content" style="flex:1 1 300px;">
+            <h3 style="margin-top:0;color:var(--accent);">Latest headline from HK01</h3>
+            <p style="margin:0.5rem 0;color:var(--text);">Placeholder headline. Once you fetch data, replace with real title and summary.</p>
+        </div>
+    </div>
 </section>
 </nav>
 </body>
