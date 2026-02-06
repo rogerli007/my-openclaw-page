@@ -12,78 +12,67 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v4
 
-      - name: Install HTML parser (with GitHub API)
+      - name: Install dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y jq
+
+      - name: Install HTML parser (GitHub API method)
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          # Get release asset URL using GitHub API
-          echo "🔍 Getting official download URL via GitHub API..."
+          echo "🔍 Getting download URL via GitHub API..."
           
-          if [ -z "$GITHUB_TOKEN" ]; then
-            echo "⚠️ GITHUB_TOKEN is missing - using direct URL"
+          # Get release asset URL (jq now installed)
+          ASSET_URL=$(curl -s -H "Authorization: token $GITHUB_TOKEN" \
+            "https://api.github.com/repos/ericchiang/pup/releases/tags/v0.4.0" | \
+            jq -r '.assets[] | select(.name == "pup_v0.4.0_linux_amd64.tar.gz") | .browser_download_url')
+          
+          # Validate URL
+          if [ -z "$ASSET_URL" ] || [ "$ASSET_URL" = "null" ]; then
+            echo "⚠️ API returned empty URL - using direct link"
             ASSET_URL='https://github.com/ericchiang/pup/releases/download/v0.4.0/pup_v0.4.0_linux_amd64.tar.gz'
-          else
-            echo "✅ Found GITHUB_TOKEN"
-            ASSET_URL=$(curl -s -H "Authorization: token $GITHUB_TOKEN" \
-              "https://api.github.com/repos/ericchiang/pup/releases/tags/v0.4.0" | \
-              jq -r '.assets[] | select(.name == "pup_v0.4.0_linux_amd64.tar.gz") | .browser_download_url')
           fi
+          echo "✅ Using URL: $ASSET_URL"
           
-          # Download the binary
-          curl -L -H "Authorization: token $GITHUB_TOKEN" \
-            -o pup.tar.gz "$ASSET_URL"
-          
-          # Verify download
-          if [ $? -ne 0 ] || [ ! -s pup.tar.gz ]; then
-            echo "❌ Download failed! First 50 bytes:"
-            head -c 50 pup.tar.gz | xxd
+          # Download and verify
+          curl -L -o pup.tar.gz "$ASSET_URL"
+          if [ $? -ne 0 ]; then
+            echo "❌ Download failed!"
             exit 1
           fi
           
-          # Check file type
-          FILETYPE=$(file pup.tar.gz)
-          if echo "$FILETYPE" | grep -q "gzip"; then
-            tar xzf pup.tar.gz
-            chmod +x pup
-            sudo mv pup /usr/local/bin/
-            echo "✅ pup installed successfully!"
-          else
-            echo "❌ Invalid file type: $FILETYPE"
+          # Validate file type
+          if ! file pup.tar.gz | grep -q 'gzip'; then
+            echo "❌ Downloaded file is not a valid gzip archive"
             exit 1
           fi
+          
+          tar xzf pup.tar.gz
+          chmod +x pup
+          sudo mv pup /usr/local/bin/
+          echo "✅ pup installed successfully!"
 
       - name: Fetch and update news
         run: |
-          echo "⏰ Workflow started at: $(date)"
+          # Get latest headline with robust methods
+          TITLE=$(curl -s 'https://www.hk01.com' | \
+            grep -oP '<a data-test="article-item" href="[^>]+>\K[^<]+' | head -1)
           
-          # Get top news URL
-          URL=$(curl -s 'https://www.hk01.com' | grep -Po 'a\s+data-test="article-item" href="\K/[^" ]+' | head -1)
-          if [ -z "$URL" ]; then
-            URL="/"
-          fi
-          
-          # Get title with maximum fallbacks
-          TITLE=$(curl -s "https://www.hk01.com$URL" | grep -Po '<h1\s+class="article-title">\K[^<]+' | head -1)
-          if [ -z "$TITLE" ]; then
-            TITLE=$(curl -s "https://www.hk01.com$URL" | grep -Po '<title>\K[^<]+(?=</title>)' | head -1)
-          fi
           if [ -z "$TITLE" ]; then
             TITLE="News update"
           fi
           
-          # Clean title
-          TITLE="$(echo $TITLE | sed 's/[^[:print:]]//g')"
-          echo "📋 Parsed title: $TITLE"
+          # Clean non-printable characters
+          TITLE="$(echo $TITLE | tr -cd '[:print:]')"
           
           # Update content
-          sed -i -E "s|(<a [^>]*class=\"news-link\">)[^<]*(</a>)|\1$TITLE\2|" index.html
-          sed -i -E "s|(<p class=\"small\">)Selected.*</p>|\1Updated: $(date '+%Y-%m-%d %H:%M') | Selected from HK01</p>|" index.html
+          sed -i "s|<a href=".*" class="news-link">.*</a>|<a href="/" class="news-link">$TITLE</a>|" index.html
+          sed -i "s|<p class="small">Selected.*</p>|<p class="small">Updated: $(date '+%Y-%m-%d %H:%M') | Selected from HK01</p>|" index.html
           
           # Commit if changes
           if ! git diff --quiet; then
             git config --global user.email "action@github.com"
             git config --global user.name "GitHub Actions"
             git commit -am "📰 News updated: $TITLE" && git push origin main
-          else
-            echo "ℹ️ No changes needed"
           fi
