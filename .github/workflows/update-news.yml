@@ -12,65 +12,57 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v4
 
-      - name: Install dependencies
-        run: |
-          sudo apt-get update
-          sudo apt-get install -y jq
-
-      - name: Install HTML parser (GitHub API method)
+      - name: Install HTML parser
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          echo "🔍 Getting download URL via GitHub API..."
+          echo "🔍 Downloading pup with browser-like headers"
+          # Use GitHub's direct download endpoint with proper authentication
+          curl -L \
+            -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" \
+            -H "Accept: application/octet-stream" \
+            -o pup.tar.gz \
+            'https://github.com/ericchiang/pup/releases/download/v0.4.0/pup_v0.4.0_linux_amd64.tar.gz'
           
-          # Get release asset URL (jq now installed)
-          ASSET_URL=$(curl -s -H "Authorization: token $GITHUB_TOKEN" \
-            "https://api.github.com/repos/ericchiang/pup/releases/tags/v0.4.0" | \
-            jq -r '.assets[] | select(.name == "pup_v0.4.0_linux_amd64.tar.gz") | .browser_download_url')
-          
-          # Validate URL
-          if [ -z "$ASSET_URL" ] || [ "$ASSET_URL" = "null" ]; then
-            echo "⚠️ API returned empty URL - using direct link"
-            ASSET_URL='https://github.com/ericchiang/pup/releases/download/v0.4.0/pup_v0.4.0_linux_amd64.tar.gz'
-          fi
-          echo "✅ Using URL: $ASSET_URL"
-          
-          # Download and verify
-          curl -L -o pup.tar.gz "$ASSET_URL"
-          if [ $? -ne 0 ]; then
-            echo "❌ Download failed!"
+          # Verify download integrity
+          if [ -s pup.tar.gz ]; then
+            FILETYPE=$(file pup.tar.gz)
+            echo "📝 Download result: $FILETYPE"
+            
+            if echo "$FILETYPE" | grep -q "gzip"; then
+              tar xzf pup.tar.gz
+              chmod +x pup
+              sudo mv pup /usr/local/bin/
+              echo "✅ pup installed successfully!"
+            else
+              echo "❌ File is not a valid gzip archive"
+              head -c 50 pup.tar.gz | xxd
+              exit 1
+            fi
+          else
+            echo "❌ Download failed - zero-byte file"
             exit 1
           fi
-          
-          # Validate file type
-          if ! file pup.tar.gz | grep -q 'gzip'; then
-            echo "❌ Downloaded file is not a valid gzip archive"
-            exit 1
-          fi
-          
-          tar xzf pup.tar.gz
-          chmod +x pup
-          sudo mv pup /usr/local/bin/
-          echo "✅ pup installed successfully!"
 
       - name: Fetch and update news
         run: |
-          # Get latest headline with robust methods
+          echo "⏰ Workflow started at: $(date)"
+          
+          # Get latest headline using direct HTML parsing
           TITLE=$(curl -s 'https://www.hk01.com' | \
-            grep -oP '<a data-test="article-item" href="[^>]+>\K[^<]+' | head -1)
+            grep -Po '<a data-test="article-item"\s*href="[^>]+>\K[^<]+' | \
+            head -1)
           
           if [ -z "$TITLE" ]; then
             TITLE="News update"
           fi
           
-          # Clean non-printable characters
-          TITLE="$(echo $TITLE | tr -cd '[:print:]')"
-          
-          # Update content
+          # Clean and update content
+          TITLE="$(echo $TITLE | sed 's[^[:print:]][]g')"
           sed -i "s|<a href=".*" class="news-link">.*</a>|<a href="/" class="news-link">$TITLE</a>|" index.html
           sed -i "s|<p class="small">Selected.*</p>|<p class="small">Updated: $(date '+%Y-%m-%d %H:%M') | Selected from HK01</p>|" index.html
           
-          # Commit if changes
+          # Commit changes
           if ! git diff --quiet; then
             git config --global user.email "action@github.com"
             git config --global user.name "GitHub Actions"
