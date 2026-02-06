@@ -12,20 +12,27 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Update news section
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          # Fetch latest HK01 headline
-          HEADLINE=$(curl -s 'https://www.hk01.com' | grep -oP '<a href="(.*?)".*?>.*?港鐵.*?</a>' | head -n 1)
-          
-          # Extract news link and title
-          LINK=$(echo "$HEADLINE" | grep -oP 'href="\K[^"]+')
-          TITLE=$(echo "$HEADLINE" | grep -oP '>(.*?)<\\/a>' | sed 's/<[^>]*>//g')
-          
-          # Update index.html with new content
-          if [ -n "$LINK" ] && [ -n "$TITLE" ]; then
-            sed -i "s|<a href=".*" class="news-link">.*</a>|<a href="$LINK" class="news-link">$TITLE</a>|" index.html
-            sed -i "s|<p class="small">Selected.*</p>|<p class="small">Updated: $(date '+%Y-%m-%d %H:%M') | Selected from HK01</p>|" index.html
+          # Fetch latest HK01 headline with robust parsing
+          if [ -z $(command -v pup) ]; then
+            sudo apt-get update && sudo apt-get install -y pup
+          fi
+
+          # Extract top headline using HTML parser instead of regex
+          URL=$(curl -s 'https://www.hk01.com' | pup 'a[data-test=article-item] attr{href}' | head -1)
+          TITLE=$(curl -s "https://www.hk01.com$URL" | pup 'h1.article-title text{}' | sed 's/[^[:print:]]//g')
+
+          if [ -n "$URL" ] && [ -n "$TITLE" ]; then
+            # Update news section with flexible pattern matching
+            sed -i -E "s|(<a [^>]*class="news-link">)[^<]*(</a>)|\1$TITLE\2|" index.html
+            sed -i -E "s|(<p class="small">)Selected.*</p>|\1Updated: $(date '+%Y-%m-%d %H:%M') | Selected from HK01</p>|" index.html
+
             git config --global user.email "action@github.com"
             git config --global user.name "GitHub Actions"
-            git commit -am " chore: Update news content - $(date '+%Y-%m-%d %H:%M') " || true
+            git commit -am " chore: Update news content - $(date '+%Y-%m-%d %H:%M') " || echo "No changes to commit"
             git push origin main
+          else
+            echo "⚠️ No valid news content found - skipping update"
           fi
