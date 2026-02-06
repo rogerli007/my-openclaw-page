@@ -1,0 +1,9 @@
+{
+  "name": "hk01-search",
+  "version": "1.0.0",
+  "description": "Brave Search function for HK01 project",
+  "main": "index.js",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}
