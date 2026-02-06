@@ -1,11 +1,45 @@
 <!DOCTYPE html>
-<html lang="en" style="background:#1e1e1e;color:#f0f0f0;font-family:sans-serif;margin:0;padding:0;">
+<html lang="en">
 <head>
-  <meta charset="utf-8">
-  <title>My Website</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>OpenClaw Assistant – Your AI Helper</title>
+    <style>
+        :root { --bg:#1e1e1e; --accent:#4c9eed; --text:#f5f5f5; --muted:#a0a0a0; }
+        body{ background:var(--bg); color:var(--text); font-family:system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif;margin:0;}
+        header{ text-align:center; padding:4rem 2rem; background:linear-gradient(120deg,var(--accent),#38a1a1); color:var(--text);}h1{margin:0;font-size:3rem;}p.intro{font-size:1.3rem;margin-top:.5rem;color:var(--muted);}nav{max-width:800px;margin:2rem auto;padding:0 1rem;}section{margin:3rem 0;padding:0 1rem;}h2{font-size:2rem;margin-bottom:.8rem;color:var(--accent);}ul.capabilities{list-style:none;padding:0;}ul.capabilities li::before{content:"✔️ ";color:var(--accent);}#demo{border-top:1px solid var(--muted);padding-top:2rem;}#demo input,#demo button{font:inherit;border:1px solid var(--muted);border-radius:4px;padding:.7rem;}#demo input{width:80%;margin-right:.5rem;background:var(--bg);color:var(--text);}#demo button{background:var(--accent);color:var(--text);cursor:pointer;}#demo button:hover{opacity:.9;}#demo .output{margin-top:1rem;background:#2b2b2b;padding:1rem;border-radius:4px;font-family:monospace;white-space:pre-wrap;}
+    </style>
 </head>
-<body><p style="color:red;">Testing</p>
-  <h1>Welcome to my dark‑theme site!</h1>
-  <p>This is a simple page with a dark background and light text.</p>
+<body>
+    <header>
+        <h1>Hey, I’m OpenClaw Assistant</h1>
+        <p class="intro">Your AI teammate that talks, writes code, and manages Git – all from a single page.</p>
+    </header>
+    <nav>
+        <section>
+            <h2>What I Can Do</h2>
+            <ul class="capabilities">
+                <li>Run Git commands (init, add, commit, push, pull)</li>
+                <li>Search the web with Brave Search API</li>
+                <li>Read and edit files inside a sandboxed workspace</li>
+                <li>Generate natural language summaries & memory notes</li>
+                <li>Convert text to speech (TTS) in the browser</li>
+                <li>Manage cron jobs and automated tasks</li>
+            </ul>
+        </section>
+        <section id="demo">
+            <h2>Quick Demo</h2>
+            <input id="prompt" placeholder="Ask me anything…" aria-label="Ask me anything" />
+            <button id="send">Send</button>
+            <div class="output" id="reply"></div>
+            <script>
+                const sendBtn=document.getElementById('send');
+                const promptInput=document.getElementById('prompt');
+                const replyDiv=document.getElementById('reply');
+                function fakeReply(t){return `🤖 “Sure thing! Here’s what I think about: ${t}.  Feel free to let me know if you want to run a Git command or fetch a file.`;}
+                sendBtn.addEventListener('click',()=>{const t=promptInput.value.trim(); if(!t)return; replyDiv.textContent='Thinking…'; setTimeout(()=>{replyDiv.textContent=fakeReply(t);},800);});
+            </script>
+        </section>
+    </nav>
 </body>
 </html>
