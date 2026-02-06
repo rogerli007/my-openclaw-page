@@ -45,16 +45,18 @@
     <p id="hk01_article">Fetching latest headline…</p>
     <script>
         async function loadNews(){
-            const resp=await fetch('https://hk01.com');
-            const txt=await resp.text();
-            const temp=document.createElement('div');
-            temp.innerHTML=txt;
-            // Very simple extraction: grab first article headline
-            const headline=temp.querySelector('h1,a');
-            if(headline){
-                document.getElementById('hk01_article').textContent=headline.textContent;
-            } else {
-                document.getElementById('hk01_article').textContent='No headline found.';
+            try {
+                const resp = await fetch('https://api.allorigins.win/raw?url=https://hk01.com/');
+                const txt = await resp.text();
+                const temp = document.createElement('div');
+                temp.innerHTML = txt;
+                const headline = temp.querySelector('h1, a[href]');
+                document.getElementById('hk01_article').textContent =
+                    headline ? headline.textContent.trim() : 'No headline found.';
+            } catch (e) {
+                document.getElementById('hk01_article').textContent =
+                    'Unable to fetch headline.';
+                console.error(e);
             }
         }
         loadNews();
