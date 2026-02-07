@@ -21,7 +21,8 @@ jobs:
       - name: Install dependencies
         run: npm install
         
+      - name: Install Chrome for Puppeteer
+        run: npx puppeteer browsers install chrome
+        
       - name: Run Puppeteer scraper
         run: node scrape-hk01.js
-        env:
-          PUPPETEER_CACHE_DIR: ${{ github.workspace }}/.cache/puppeteer
