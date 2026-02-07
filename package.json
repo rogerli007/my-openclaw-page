@@ -1,0 +1,9 @@
+{
+  "name": "hk01-scraper",
+  "version": "1.0.0",
+  "description": "HK01 news scraper using Puppeteer",
+  "main": "scrape-hk01.js",
+  "dependencies": {
+    "puppeteer": "^21.0.0"
+  }
+}
