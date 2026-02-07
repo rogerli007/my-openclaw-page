@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 // scrape-hk01.js - Puppeteer script to scrape HK01 latest news
-// Extracts first article from .section-group__normal
+// Extracts first article from .content-card__main elements
 
 const puppeteer = require('puppeteer');
 const fs = require('fs');
@@ -28,36 +28,35 @@ async function scrapeHK01() {
         });
         
         // Wait for content to load
-        console.log('Waiting for content...');
-        await page.waitForSelector('.section-group__normal, article, [data-testid]', { timeout: 10000 });
+        console.log('Waiting for .content-card__main...');
+        await page.waitForSelector('.content-card__main', { timeout: 10000 });
         
-        // Extract first article from .section-group__normal
+        // Extract first article from .content-card__main
         const article = await page.evaluate(() => {
-            // Try to find .section-group__normal first
-            const section = document.querySelector('.section-group__normal');
-            const container = section || document;
+            // Find all content-card__main elements
+            const cards = document.querySelectorAll('.content-card__main');
             
-            // Find first article/card
-            const articleEl = container.querySelector('article, .content-card, [data-testid*="article"], .card');
-            
-            if (!articleEl) {
+            if (!cards || cards.length === 0) {
                 return null;
             }
             
-            // Extract headline
-            const titleEl = articleEl.querySelector('h1, h2, h3, .title, [class*="title"], a[data-testid]');
+            // Use the first card
+            const card = cards[0];
+            
+            // Extract headline - look for title in the card
+            const titleEl = card.querySelector('h1, h2, h3, h4, .card-title, .title, [class*="title"]');
             const headline = titleEl ? titleEl.textContent.trim() : '';
             
             // Extract summary/description
-            const descEl = articleEl.querySelector('p, .description, [class*="desc"], .summary');
+            const descEl = card.querySelector('p, .card-desc, .description, [class*="desc"], [class*="summary"]');
             const summary = descEl ? descEl.textContent.trim() : '';
             
             // Extract image
-            const imgEl = articleEl.querySelector('img');
+            const imgEl = card.querySelector('img');
             const image = imgEl ? imgEl.src : '';
             
-            // Extract link
-            const linkEl = articleEl.querySelector('a');
+            // Extract link - look for anchor in parent or self
+            const linkEl = card.querySelector('a') || card.closest('a');
             const url = linkEl ? linkEl.href : 'https://www.hk01.com/latest';
             
             return { headline, summary, image, url };
