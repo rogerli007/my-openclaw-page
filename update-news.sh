@@ -1,5 +1,6 @@
 #!/usr/bin/env bash
 # update-news.sh - Fetch HK01 latest news and update js/news.js
+# Extracts first post from .section-group__normal
 # Usage: ./update-news.sh
 
 set -euo pipefail
@@ -12,13 +13,31 @@ NEWS_FILE="${SCRIPT_DIR}/js/news.js"
 echo "Fetching HK01 latest news..."
 HTML=$(curl -s "https://api.allorigins.win/raw?url=https://www.hk01.com/latest")
 
-# Extract headline - look for article titles (adjust selectors based on actual HTML structure)
-# Try to find the first article headline
-HEADLINE=$(echo "$HTML" | grep -oP '<h[1-6][^>]*>.*?<\/h[1-6]>' | sed 's/<[^>]*>//g' | head -1 || echo "")
+# Extract content from .section-group__normal - get first post
+# Look for the section and extract first article
+SECTION_HTML=$(echo "$HTML" | grep -oP 'class="[^"]*section-group__normal[^"]*".*?</section>' | head -1 || echo "")
 
-# Fallback: try to find title in article links
+# If section found, extract from it; otherwise use full HTML
+if [[ -n "$SECTION_HTML" ]]; then
+    SOURCE="$SECTION_HTML"
+    echo "Found .section-group__normal section"
+else
+    SOURCE="$HTML"
+    echo "Section not found, using full HTML"
+fi
+
+# Extract headline from first article in section
+# Look for article titles within the section
+HEADLINE=$(echo "$SOURCE" | grep -oP '<h[1-6][^>]*class="[^"]*title[^"]*"[^>]*>[^<]+' | head -1 | sed 's/.*>//' || echo "")
+
+# Fallback: any h tag
 if [[ -z "$HEADLINE" ]]; then
-    HEADLINE=$(echo "$HTML" | grep -oP 'class="[^"]*title[^"]*"[^>]*>[^<]+' | sed 's/.*>//' | head -1 || echo "")
+    HEADLINE=$(echo "$SOURCE" | grep -oP '<h[1-6][^>]*>[^<]+</h[1-6]>' | sed 's/<[^>]*>//g' | head -1 || echo "")
+fi
+
+# Second fallback: look for article link text
+if [[ -z "$HEADLINE" ]]; then
+    HEADLINE=$(echo "$SOURCE" | grep -oP '<a[^>]*href="[^"]*article[^"]*"[^>]*>[^<]+' | head -1 | sed 's/.*>//' || echo "")
 fi
 
 # If still empty, use a default
@@ -26,16 +45,21 @@ if [[ -z "$HEADLINE" ]]; then
     HEADLINE="無法獲取最新新聞"
 fi
 
-# Extract image URL (first image from article)
-IMAGE=$(echo "$HTML" | grep -oP 'src="[^"]+\.(jpg|jpeg|png|webp)"' | head -1 | sed 's/src="//;s/"$//' || echo "")
+# Extract image URL from first article in section
+IMAGE=$(echo "$SOURCE" | grep -oP 'src="[^"]+\.(jpg|jpeg|png|webp)"' | head -1 | sed 's/src="//;s/"$//' || echo "")
 
 # Fallback image
 if [[ -z "$IMAGE" ]]; then
     IMAGE="https://via.placeholder.com/600x300?text=HK01"
 fi
 
-# Extract summary (first paragraph)
-SUMMARY=$(echo "$HTML" | grep -oP '<p[^>]*>[^<]+</p>' | sed 's/<[^>]*>//g' | head -1 || echo "")
+# Extract summary/description from first article
+SUMMARY=$(echo "$SOURCE" | grep -oP '<p[^>]*class="[^"]*desc[^"]*"[^>]*>[^<]+' | head -1 | sed 's/.*>//' || echo "")
+
+# Fallback: any paragraph
+if [[ -z "$SUMMARY" ]]; then
+    SUMMARY=$(echo "$SOURCE" | grep -oP '<p[^>]*>[^<]+</p>' | sed 's/<[^>]*>//g' | head -1 || echo "")
+fi
 
 if [[ -z "$SUMMARY" ]]; then
     SUMMARY="點擊查睇詳情"
@@ -88,7 +112,7 @@ echo "✅ Updated ${NEWS_FILE}"
 
 # Git operations
 cd "$SCRIPT_DIR"
-git add js/news.js
-git commit -m "Update HK01 news: ${HEADLINE}" || true
+git add js/news.js update-news.sh
+git commit -m "Update HK01 news from .section-group__normal: ${HEADLINE}" || true
 git push
 echo "✅ Pushed to GitHub"

@@ -1,13 +1,13 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by update-news.sh script
-// Last updated: 2026-02-07T13:12:31Z
+// Last updated: 2026-02-07T15:43:22Z
 
 const hk01News = {
-    headline: "即時",
-    summary: "緊貼時事，捕捉最新資訊",
+    headline: "無法獲取最新新聞",
+    summary: "點擊查睇詳情",
     image: "https://via.placeholder.com/600x300?text=HK01",
     url: "https://www.hk01.com/latest",
-    timestamp: "2026-02-07T13:12:31Z"
+    timestamp: "2026-02-07T15:43:22Z"
 };
 
 // Function to render news into the page
