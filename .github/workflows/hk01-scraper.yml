@@ -22,7 +22,10 @@ jobs:
         run: npm install
         
       - name: Install Chrome for Puppeteer
-        run: npx puppeteer browsers install chrome
+        run: |
+          npx puppeteer browsers install chrome
+          echo "Chrome installed at:"
+          find ~/.cache/puppeteer -name "chrome" -type f 2>/dev/null | head -1
         
       - name: Run Puppeteer scraper
         run: node scrape-hk01.js

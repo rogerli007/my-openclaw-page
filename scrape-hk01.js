@@ -5,14 +5,43 @@
 const puppeteer = require('puppeteer');
 const fs = require('fs');
 const { execSync } = require('child_process');
+const path = require('path');
+
+async function findChrome() {
+    // Check environment variable first
+    if (process.env.PUPPETEER_EXECUTABLE_PATH) {
+        return process.env.PUPPETEER_EXECUTABLE_PATH;
+    }
+    
+    // Try to find Chrome in puppeteer cache
+    const puppeteerCache = path.join(require('os').homedir(), '.cache', 'puppeteer');
+    if (fs.existsSync(puppeteerCache)) {
+        const files = fs.readdirSync(puppeteerCache, { recursive: true });
+        const chromePath = files.find(f => f.includes('chrome') && f.endsWith('chrome'));
+        if (chromePath) {
+            return path.join(puppeteerCache, chromePath);
+        }
+    }
+    
+    return null;
+}
 
 async function scrapeHK01() {
     console.log('Launching browser...');
     
-    const browser = await puppeteer.launch({
+    const chromePath = await findChrome();
+    console.log('Chrome path:', chromePath || 'Using bundled Chromium');
+    
+    const launchOptions = {
         headless: 'new',
         args: ['--no-sandbox', '--disable-setuid-sandbox']
-    });
+    };
+    
+    if (chromePath) {
+        launchOptions.executablePath = chromePath;
+    }
+    
+    const browser = await puppeteer.launch(launchOptions);
     
     try {
         const page = await browser.newPage();
