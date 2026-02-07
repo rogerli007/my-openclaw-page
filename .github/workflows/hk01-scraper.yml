@@ -19,11 +19,9 @@ jobs:
           node-version: '20'
         
       - name: Install dependencies
-        working-directory: my-website/my-openclaw-page
         run: npm install
         
       - name: Run Puppeteer scraper
-        working-directory: my-website/my-openclaw-page
         run: node scrape-hk01.js
         env:
           PUPPETEER_CACHE_DIR: ${{ github.workspace }}/.cache/puppeteer
