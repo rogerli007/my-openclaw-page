@@ -1,0 +1,31 @@
+name: HK01 News Scraper
+
+on:
+  schedule:
+    - cron: '*/15 * * * *'  # Every 15 minutes
+  workflow_dispatch:  # Manual trigger
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'  # ✅ Caches node_modules!
+          cache-dependency-path: my-openclaw-page/package-lock.json
+        
+      - name: Install dependencies (cached)
+        working-directory: ./my-openclaw-page
+        run: npm ci  # Faster than npm install, uses cache
+        
+      - name: Run scraper
+        working-directory: ./my-openclaw-page
+        run: node scrape-hk01.js
+        env:
+          PUPPETEER_CACHE_DIR: ${{ github.workspace }}/.cache/puppeteer
