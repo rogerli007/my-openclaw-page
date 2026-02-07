@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>OpenClaw Assistant – Your AI Helper</title>
+    <script src="js/news.js"></script>
     <style>
         @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap');
         :root { --bg:#111; --accent:#4c9eed; --text:#e0e0e0; --muted:#888; --card:#1e1e1e; }
@@ -22,6 +23,7 @@
         #news{margin-top:2rem;background:var(--card);border-radius:12px;box-shadow:0 4px 6px rgba(0,0,0,.2);padding:2rem;}
         #news h2{font-size:2rem;color:var(--accent);margin-bottom:.8rem;}
         #news p{font-size:1.2rem;color:var(--text);} 
+        #news .timestamp{font-size:0.9rem;color:var(--muted);margin-top:0.5rem;}
 </style>
 </head>
 <body>
@@ -54,17 +56,19 @@
                 sendBtn.addEventListener('click',()=>{const t=promptInput.value.trim(); if(!t)return; replyDiv.textContent='Thinking…'; setTimeout(()=>{replyDiv.textContent=fakeReply(t);},800);});
             </script>
         </section>
-    <section id="news" style="margin:2rem 0;background:var(--card);border-radius:12px;box-shadow:0 4px 6px rgba(0,0,0,.2);padding:2rem;">
-    <h2>Hong Kong News (HK01)</h2>
-    <div class="news-card" style="display:flex;gap:1.5rem;flex-wrap:wrap;">
-        <img src="https://via.placeholder.com/600x300?text=HK01" alt="HK01 Headline" style="width:100%;max-width:400px;border-radius:8px;" />
-        <div class="news-content" style="flex:1 1 300px;">
-            <h3 style="margin-top:0;color:var(--accent);">Example Domain</h3>
-            <p style="margin:0.5rem 0;color:var(--text);">Example Domain, replace with real title and summary.</p>
-        </div>
-    </div>
-</section>
-
-</nav>
+        <section id="news">
+            <h2>Hong Kong News (HK01)</h2>
+            <div class="news-card" style="display:flex;gap:1.5rem;flex-wrap:wrap;">
+                <a id="hk01-link" href="https://www.hk01.com/latest" target="_blank">
+                    <img id="hk01-image" src="https://via.placeholder.com/600x300?text=HK01" alt="HK01 Headline" style="width:100%;max-width:400px;border-radius:8px;" />
+                </a>
+                <div class="news-content" style="flex:1 1 300px;">
+                    <h3 id="hk01-headline" style="margin-top:0;color:var(--accent);">Loading...</h3>
+                    <p id="hk01-summary" style="margin:0.5rem 0;color:var(--text);">Fetching latest news...</p>
+                    <p class="timestamp" id="hk01-timestamp"></p>
+                </div>
+            </div>
+        </section>
+    </nav>
 </body>
 </html>
