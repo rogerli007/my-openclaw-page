@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-08T22:14:29.421Z
+// Last updated: 2026-02-08T22:31:30.558Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "觀塘道近翠屏道貨車撞老婦　送院時昏迷",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260209/1097415030187495424015928.jpeg/fks4KwyC6ZyVJInZoA4mMKZEeNF6-xlCa9YDEGvWAxA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60320475/%E8%A7%80%E5%A1%98%E9%81%93%E8%BF%91%E7%BF%A0%E5%B1%8F%E9%81%93%E8%B2%A8%E8%BB%8A%E6%92%9E%E8%80%81%E5%A9%A6-%E9%80%81%E9%99%A2%E6%99%82%E6%98%8F%E8%BF%B7",
+    "timestamp": "2026-02-08T22:31:30.558Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "胡楓94歲圈中異性緣強勁　71歲喪夫女星激咀塊面追求做「男友」",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260208/1097317745952821248129348.jpeg/-W3gyEEFWrGl-71syQFOrAJaHNSQu0VzA0r4cQNK-HE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60320451/%E5%9C%8B%E6%B3%B080%E5%91%A8%E5%B9%B4-%E6%8E%A8%E5%85%A8%E6%96%B0%E7%A4%BE%E5%8D%80%E8%A8%88%E5%8A%83%E5%8F%8A%E5%90%88%E4%BD%9C%E9%A0%85%E7%9B%AE-%E6%96%99%E6%83%A0%E5%8F%8A8%E8%90%AC%E4%BA%BA",
     "timestamp": "2026-02-08T16:52:38.599Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "黃澤鋒6歲女兒自爆公園被人摸？　恨做小演員目標全班考第一",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260208/1097278313874853888493028.png/mw4gPIDfrg-Y2Dp2cINjeEzm3vFcZmLYjRR1gY0UdYE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60320438/%E9%BB%83%E6%BE%A4%E9%8B%926%E6%AD%B2%E5%A5%B3%E5%85%92%E8%87%AA%E7%88%86%E5%85%AC%E5%9C%92%E8%A2%AB%E4%BA%BA%E6%91%B8-%E6%81%A8%E5%81%9A%E5%B0%8F%E6%BC%94%E5%93%A1%E7%9B%AE%E6%A8%99%E5%85%A8%E7%8F%AD%E8%80%83%E7%AC%AC%E4%B8%80",
-    "timestamp": "2026-02-08T16:33:18.308Z",
     "strategy": ".content-card__main"
   }
 ];
