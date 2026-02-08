@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-08T15:31:13.611Z
-// Total items: 2
+// Last updated: 2026-02-08T15:47:43.428Z
+// Total items: 3
 
 const hk01News = [
+  {
+    "headline": "十大屋苑本周末8宗成交　按周急跌57.9%　屬5個周末新低",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250217/968225726950019072340968.jpeg/56vWwe7I1md5_U0GGUspuH7Iy7N54roBjPy1oLr8taA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60320450/%E5%8D%81%E5%A4%A7%E5%B1%8B%E8%8B%91%E6%9C%AC%E5%91%A8%E6%9C%AB8%E5%AE%97%E6%88%90%E4%BA%A4-%E6%8C%89%E5%91%A8%E6%80%A5%E8%B7%8C57-9-%E5%B1%AC5%E5%80%8B%E5%91%A8%E6%9C%AB%E6%96%B0%E4%BD%8E",
+    "timestamp": "2026-02-08T15:47:43.428Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "錦綉花園5億維修｜水務署：水管位於私人土地　業主錯誤詮釋地契",
     "summary": "",
