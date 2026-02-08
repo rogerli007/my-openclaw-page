@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-08T23:35:03.493Z
+// Last updated: 2026-02-08T23:59:42.927Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "貝森特指金市波動涉中國交易失序　出現投機性衝頂回落",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260121/1090458288912338944092876.jpeg/HtZvLdrnjEfkOkL1PihE6YA19eBfADdMHmO1NB5jtTQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60320482/%E8%B2%9D%E6%A3%AE%E7%89%B9%E6%8C%87%E9%87%91%E5%B8%82%E6%B3%A2%E5%8B%95%E6%B6%89%E4%B8%AD%E5%9C%8B%E4%BA%A4%E6%98%93%E5%A4%B1%E5%BA%8F-%E5%87%BA%E7%8F%BE%E6%8A%95%E6%A9%9F%E6%80%A7%E8%A1%9D%E9%A0%82%E5%9B%9E%E8%90%BD",
+    "timestamp": "2026-02-08T23:59:42.927Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "珍惜生命｜柴灣峰華邨14歲少女墮樓倒棚架　清醒送院",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250204/963438597011410944619348.jpeg/gwZSGYYFK3INnAjMcircA1VLy76oBySoyATZ48gE2eM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60320456/%E5%B0%96%E6%B2%99%E6%B2%B9%E9%85%92%E5%BA%97%E5%A4%96%E7%B6%B2%E7%B4%84%E8%BB%8A%E7%96%91%E9%81%B2%E5%88%B0%E6%8E%80%E7%B3%BE%E7%B4%9B-%E5%8F%B8%E6%A9%9F%E6%B6%89%E6%89%93%E5%82%B7%E9%9B%99%E7%A8%8B%E8%AD%89%E5%AE%A2%E5%BE%8C%E9%96%8B%E8%BB%8A%E9%80%83%E5%8E%BB",
     "timestamp": "2026-02-08T18:01:40.992Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "尖沙油酒店外網約車疑遲到掀糾紛　司機涉打傷雙程證客後開車逃去",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250204/963438597011410944619348.jpeg/gwZSGYYFK3INnAjMcircA1VLy76oBySoyATZ48gE2eM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60320456/%E5%B0%96%E6%B2%99%E6%B2%B9%E9%85%92%E5%BA%97%E5%A4%96%E7%B6%B2%E7%B4%84%E8%BB%8A%E7%96%91%E9%81%B2%E5%88%B0%E6%8E%80%E7%B3%BE%E7%B4%9B-%E5%8F%B8%E6%A9%9F%E6%B6%89%E6%89%93%E5%82%B7%E9%9B%99%E7%A8%8B%E8%AD%89%E5%AE%A2%E5%BE%8C%E9%96%8B%E8%BB%8A%E9%80%83%E5%8E%BB",
-    "timestamp": "2026-02-08T17:49:21.715Z",
     "strategy": ".content-card__main"
   }
 ];
