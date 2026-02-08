@@ -1,13 +1,14 @@
 // /js/news.js - HK01 News Data
-// This file is auto-updated by update-news.sh script
-// Last updated: 2026-02-07T15:43:22Z
+// This file is auto-updated by scrape-hk01.js script
+// Strategy used: .content-card__main
+// Last updated: 2026-02-08T13:38:32.449Z
 
 const hk01News = {
-    headline: "無法獲取最新新聞",
-    summary: "點擊查睇詳情",
-    image: "https://via.placeholder.com/600x300?text=HK01",
-    url: "https://www.hk01.com/latest",
-    timestamp: "2026-02-07T15:43:22Z"
+    headline: "《中年2》「翻版容祖兒」爆發燒入院　隔離十多天：驚恐絕望擔心",
+    summary: "",
+    image: "https://cdn.hk01.com/di/media/images/dw/20260208/1097247462713724928350182.png/OgUrUevkaPtsEDGr5z0zxrHZMK5wU4vItjrk27Y65Ns?v=w1920r16_9",
+    url: "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60320426/%E7%BE%85%E6%B2%9B%E7%90%AA%E8%87%AA%E7%88%86%E7%99%BC%E7%87%92%E5%85%A5%E9%99%A2-%E8%88%87%E5%A4%96%E7%95%8C%E9%9A%94%E7%B5%95%E5%8D%81%E5%A4%9A%E5%A4%A9-%E9%A9%9A%E6%81%90%E7%B5%95%E6%9C%9B%E6%93%94%E5%BF%83",
+    timestamp: "2026-02-08T13:38:32.449Z"
 };
 
 // Function to render news into the page
