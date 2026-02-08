@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-08T22:50:50.550Z
+// Last updated: 2026-02-08T23:17:27.941Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "AI教母李飛飛教授｜通往人工智慧關鍵拼圖Spatial 3D AI｜蘇仲成",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260204/1095726097586196480456297.jpeg/2CRxZV-kY-PWCbguXWfxGHeYdhgQrH13qfedKKn3nSg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%B6%B2%E7%A7%913.0/60319179/ai%E6%95%99%E6%AF%8D%E6%9D%8E%E9%A3%9B%E9%A3%9B%E6%95%99%E6%8E%88-%E9%80%9A%E5%BE%80%E4%BA%BA%E5%B7%A5%E6%99%BA%E6%85%A7%E9%97%9C%E9%8D%B5%E6%8B%BC%E5%9C%96spatial-3d-ai-%E8%98%87%E4%BB%B2%E6%88%90",
+    "timestamp": "2026-02-08T23:17:27.941Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "公司晚宴竟雲集娛樂圈半壁江山藝人　原來大有來頭好多人靠佢搵食",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260209/1097334142925803520542731.jpeg/TTw6Kkc2TGfCQEEzWg9_vvnK8WjOXt8az028zM9NvMw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60320454/%E6%97%A5%E6%9C%AC%E5%A4%A7%E9%81%B8-%E8%87%AA%E6%B0%91%E9%BB%A8%E7%8D%A8%E4%BD%94%E4%B8%89%E5%88%86%E4%BA%8C%E5%B8%AD%E6%AC%A1-%E9%87%8E%E7%94%B0%E4%BD%B3%E5%BD%A5%E7%A8%B1%E7%82%BA-%E4%B8%AD%E9%81%93-%E6%85%98%E6%95%97%E8%B2%A0%E8%B2%AC",
     "timestamp": "2026-02-08T17:32:16.800Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "國泰80周年｜推全新社區計劃及合作項目　料惠及8萬人",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260208/1097317745952821248129348.jpeg/-W3gyEEFWrGl-71syQFOrAJaHNSQu0VzA0r4cQNK-HE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60320451/%E5%9C%8B%E6%B3%B080%E5%91%A8%E5%B9%B4-%E6%8E%A8%E5%85%A8%E6%96%B0%E7%A4%BE%E5%8D%80%E8%A8%88%E5%8A%83%E5%8F%8A%E5%90%88%E4%BD%9C%E9%A0%85%E7%9B%AE-%E6%96%99%E6%83%A0%E5%8F%8A8%E8%90%AC%E4%BA%BA",
-    "timestamp": "2026-02-08T17:16:16.728Z",
     "strategy": ".content-card__main"
   }
 ];
