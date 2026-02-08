@@ -194,43 +194,96 @@ async function main() {
     const headline = (article.headline || '').replace(/"/g, '\\"');
     const summary = (article.summary || '').replace(/"/g, '\\"');
     
+    // Read existing news array or create new one
+    let newsHistory = [];
+    const newsFilePath = 'js/news.js';
+    
+    if (fs.existsSync(newsFilePath)) {
+        try {
+            const existingContent = fs.readFileSync(newsFilePath, 'utf8');
+            // Try to extract existing array using regex
+            const match = existingContent.match(/const\s+hk01News\s*=\s*(\[[\s\S]*?\]);/);
+            if (match) {
+                newsHistory = JSON.parse(match[1]);
+                console.log(`Loaded ${newsHistory.length} existing news items`);
+            }
+        } catch (e) {
+            console.log('Could not parse existing news, starting fresh');
+        }
+    }
+    
+    // Create new article entry
+    const newArticle = {
+        headline: headline,
+        summary: summary,
+        image: article.image || '',
+        url: article.url || 'https://www.hk01.com/latest',
+        timestamp: timestamp,
+        strategy: article.strategy || 'unknown'
+    };
+    
+    // Add to beginning of array (newest first)
+    newsHistory.unshift(newArticle);
+    
+    // Limit to last 20 items to prevent file from growing too large
+    if (newsHistory.length > 20) {
+        newsHistory = newsHistory.slice(0, 20);
+    }
+    
+    console.log(`News history now has ${newsHistory.length} items`);
+    
     const jsContent = `// /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Strategy used: ${article.strategy || 'unknown'}
 // Last updated: ${timestamp}
+// Total items: ${newsHistory.length}
 
-const hk01News = {
-    headline: "${headline}",
-    summary: "${summary}",
-    image: "${article.image || ''}",
-    url: "${article.url || 'https://www.hk01.com/latest'}",
-    timestamp: "${timestamp}"
-};
+const hk01News = ${JSON.stringify(newsHistory, null, 2)};
 
-// Function to render news into the page
+// Function to render latest news into the page
 function renderNews() {
+    // Get the latest (first) article
+    const latest = hk01News[0];
+    if (!latest) return;
+    
     const newsTitle = document.getElementById('hk01-headline');
     const newsSummary = document.getElementById('hk01-summary');
     const newsImage = document.getElementById('hk01-image');
     const newsLink = document.getElementById('hk01-link');
     const newsTimestamp = document.getElementById('hk01-timestamp');
     
-    if (newsTitle) newsTitle.textContent = hk01News.headline;
-    if (newsSummary) newsSummary.textContent = hk01News.summary;
-    if (newsImage) newsImage.src = hk01News.image;
-    if (newsLink) newsLink.href = hk01News.url;
+    if (newsTitle) newsTitle.textContent = latest.headline;
+    if (newsSummary) newsSummary.textContent = latest.summary;
+    if (newsImage) newsImage.src = latest.image;
+    if (newsLink) newsLink.href = latest.url;
     if (newsTimestamp) {
-        const date = new Date(hk01News.timestamp);
-        newsTimestamp.textContent = 'Updated: ' + date.toLocaleString('zh-HK');
+        const date = new Date(latest.timestamp);
+        newsTimestamp.textContent = 'Updated: ' + date.toLocaleString('zh-HK') + ' | ' + hk01News.length + ' articles in history';
     }
 }
 
+// Function to render all news as a list (optional)
+function renderNewsHistory() {
+    const container = document.getElementById('hk01-history');
+    if (!container) return;
+    
+    container.innerHTML = hk01News.map((item, index) => \`
+        <div class="news-item" style="margin-bottom: 1rem; padding: 1rem; background: var(--card); border-radius: 8px;">
+            <h4 style="margin: 0 0 0.5rem 0;"><a href="\${item.url}" target="_blank">\${item.headline}</a></h4>
+            <p style="margin: 0; font-size: 0.9rem; color: var(--muted);">\${item.summary}</p>
+            <small style="color: var(--muted);">\${new Date(item.timestamp).toLocaleString('zh-HK')}</small>
+        </div>
+    \`).join('');
+}
+
 // Render when DOM is ready
-document.addEventListener('DOMContentLoaded', renderNews);
+document.addEventListener('DOMContentLoaded', () => {
+    renderNews();
+    renderNewsHistory();
+});
 `;
     
-    fs.writeFileSync('js/news.js', jsContent);
-    console.log('✅ Updated js/news.js');
+    fs.writeFileSync(newsFilePath, jsContent);
+    console.log('✅ Updated js/news.js with history (' + newsHistory.length + ' items)');
     
     // Git operations
     try {
@@ -257,7 +310,7 @@ document.addEventListener('DOMContentLoaded', renderNews);
             // Debug files are optional
         }
         
-        execSync(`git commit -m "Update HK01 news [${article.strategy}]: ${headline.substring(0, 30)}" || true`, { stdio: 'inherit' });
+        execSync(`git commit -m "Update HK01 news [${article.strategy}]: ${headline.substring(0, 30)} (${newsHistory.length} items)" || true`, { stdio: 'inherit' });
         execSync('git push', { stdio: 'inherit' });
         console.log('✅ Pushed to GitHub');
     } catch (e) {
