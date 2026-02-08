@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-08T18:19:59.769Z
-// Total items: 10
+// Last updated: 2026-02-08T18:52:21.158Z
+// Total items: 11
 
 const hk01News = [
+  {
+    "headline": "尖沙咀酒店外網約車疑遲到掀糾紛　司機涉打傷雙程證客後開車逃去",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250204/963438597011410944619348.jpeg/gwZSGYYFK3INnAjMcircA1VLy76oBySoyATZ48gE2eM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60320456/%E5%B0%96%E6%B2%99%E5%92%80%E9%85%92%E5%BA%97%E5%A4%96%E7%B6%B2%E7%B4%84%E8%BB%8A%E7%96%91%E9%81%B2%E5%88%B0%E6%8E%80%E7%B3%BE%E7%B4%9B-%E5%8F%B8%E6%A9%9F%E6%B6%89%E6%89%93%E5%82%B7%E9%9B%99%E7%A8%8B%E8%AD%89%E5%AE%A2%E5%BE%8C%E9%96%8B%E8%BB%8A%E9%80%83%E5%8E%BB",
+    "timestamp": "2026-02-08T18:52:21.158Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "尖沙咀酒店外網約車疑遲到掀糾紛　司機涉打傷雙程證客後開車逃去",
     "summary": "",
