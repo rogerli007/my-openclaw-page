@@ -1,14 +1,14 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
 // Strategy used: .content-card__main
-// Last updated: 2026-02-08T14:37:22.396Z
+// Last updated: 2026-02-08T15:00:12.462Z
 
 const hk01News = {
-    headline: "日眾院選舉自民黨大勝　高市：將就參拜靖國神社爭取周邊國家理解",
+    headline: "TVB視帝近照竟撞樣劉松仁？   一面相特徵竟遭網民批：條友幾花心",
     summary: "",
-    image: "https://cdn.hk01.com/di/media/images/dw/20260202/1094958496702533632523468.jpeg/BWJiEaN2kndzOdnShE5YKfkUiwFLYw-enjqhB546oQc?v=w1920r16_9",
-    url: "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60320442/%E6%97%A5%E7%9C%BE%E9%99%A2%E9%81%B8%E8%88%89%E8%87%AA%E6%B0%91%E9%BB%A8%E5%A4%A7%E5%8B%9D-%E9%AB%98%E5%B8%82-%E5%B0%87%E5%B0%B1%E5%8F%83%E6%8B%9C%E9%9D%96%E5%9C%8B%E7%A5%9E%E7%A4%BE%E7%88%AD%E5%8F%96%E5%91%A8%E9%82%8A%E5%9C%8B%E5%AE%B6%E7%90%86%E8%A7%A3",
-    timestamp: "2026-02-08T14:37:22.396Z"
+    image: "https://cdn.hk01.com/di/media/images/dw/20260208/1097293569460277248874260.jpeg/iI26kAunxy8q_iMJ3ji3BScEO9nb4UEo6_7Ocuv-znI?v=w1920r16_9",
+    url: "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60320371/%E7%8E%8B%E6%B5%A9%E4%BF%A1%E8%BF%91%E7%85%A7%E7%AB%9F%E6%92%9E%E6%A8%A3%E5%8A%89%E6%9D%BE%E4%BB%81-%E4%B8%80%E9%9D%A2%E7%9B%B8%E7%89%B9%E5%BE%B5%E9%81%AD%E7%B6%B2%E6%B0%91%E7%8B%A0%E6%89%B9-%E6%A2%9D%E5%8F%8B%E5%B9%BE%E8%8A%B1%E5%BF%83",
+    timestamp: "2026-02-08T15:00:12.462Z"
 };
 
 // Function to render news into the page
