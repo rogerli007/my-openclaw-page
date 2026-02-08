@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-08T20:49:32.708Z
-// Total items: 18
+// Last updated: 2026-02-08T21:03:11.741Z
+// Total items: 19
 
 const hk01News = [
+  {
+    "headline": "華荔邨單位天花燈起火　男鄰居協助撲救　與女戶主同吸入濃煙不適",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260209/1097385601612648448825631.jpeg/U2Zwh-W26bRI9zeubS0cJGicoianhKegDR5rBigeawY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60320467/%E8%8F%AF%E8%8D%94%E9%82%A8%E5%96%AE%E4%BD%8D%E5%A4%A9%E8%8A%B1%E7%87%88%E8%B5%B7%E7%81%AB-%E7%94%B7%E9%84%B0%E5%B1%85%E5%8D%94%E5%8A%A9%E6%92%B2%E6%95%91-%E8%88%87%E5%A5%B3%E6%88%B6%E4%B8%BB%E5%90%8C%E5%90%B8%E5%85%A5%E6%BF%83%E7%85%99%E4%B8%8D%E9%81%A9",
+    "timestamp": "2026-02-08T21:03:11.741Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "高巿早苗稱日美同盟潛力無限　貝森特：高巿是偉大盟友",
     "summary": "",
