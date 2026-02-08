@@ -5,6 +5,9 @@ on:
     - cron: '*/15 * * * *'  # Every 15 minutes
   workflow_dispatch:  # Manual trigger
 
+permissions:
+  contents: write  # Allow pushing to repo
+
 jobs:
   scrape:
     runs-on: ubuntu-latest
@@ -12,6 +15,13 @@ jobs:
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}  # Use token for push
+          
+      - name: Setup Git
+        run: |
+          git config --global user.email "action@github.com"
+          git config --global user.name "GitHub Actions"
         
       - name: Setup Node.js
         uses: actions/setup-node@v4
@@ -23,3 +33,5 @@ jobs:
         
       - name: Run Puppeteer scraper
         run: node scrape-hk01.js
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

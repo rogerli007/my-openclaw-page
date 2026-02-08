@@ -234,6 +234,14 @@ document.addEventListener('DOMContentLoaded', renderNews);
     
     // Git operations
     try {
+        // Configure git (in case not set)
+        try {
+            execSync('git config user.email "action@github.com"', { stdio: 'pipe' });
+            execSync('git config user.name "GitHub Actions"', { stdio: 'pipe' });
+        } catch (e) {
+            // Already configured or will fail later
+        }
+        
         // Add news.js (always exists)
         execSync('git add js/news.js', { stdio: 'inherit' });
         
