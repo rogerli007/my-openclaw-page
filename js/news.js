@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-08T15:14:54.147Z
-// Total items: 1
+// Last updated: 2026-02-08T15:31:13.611Z
+// Total items: 2
 
 const hk01News = [
+  {
+    "headline": "錦綉花園5億維修｜水務署：水管位於私人土地　業主錯誤詮釋地契",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260126/1092502584335273984943105.jpeg/LRnQ3fha2udg7P6VW6fxBngUFhWEwfFOkjdLPpI3Sz4?v=w1920r16_9",
+    "url": "https://www.hk01.com/18%E5%8D%80%E6%96%B0%E8%81%9E/60320445/%E9%8C%A6%E7%B6%89%E8%8A%B1%E5%9C%925%E5%84%84%E7%B6%AD%E4%BF%AE-%E6%B0%B4%E5%8B%99%E7%BD%B2-%E6%B0%B4%E7%AE%A1%E4%BD%8D%E6%96%BC%E7%A7%81%E4%BA%BA%E5%9C%9F%E5%9C%B0-%E6%A5%AD%E4%B8%BB%E9%8C%AF%E8%AA%A4%E8%A9%AE%E9%87%8B%E5%9C%B0%E5%A5%91",
+    "timestamp": "2026-02-08T15:31:13.611Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "香港仔搶AirPods｜3疑犯全落網　事主認識1人　眼神問題捱打掠財",
     "summary": "",
