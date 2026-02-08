@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-08T23:17:27.941Z
+// Last updated: 2026-02-08T23:35:03.493Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "珍惜生命｜柴灣峰華邨14歲少女墮樓倒棚架　清醒送院",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260209/1097429608657063936729380.jpeg/gFq3bUE_RlqHAiGt-DIAKq5dC33cl5iIM6BJYjOgSWI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60320478/%E7%8F%8D%E6%83%9C%E7%94%9F%E5%91%BD-%E6%9F%B4%E7%81%A3%E5%B3%B0%E8%8F%AF%E9%82%A814%E6%AD%B2%E5%B0%91%E5%A5%B3%E5%A2%AE%E6%A8%93%E5%80%92%E6%A3%9A%E6%9E%B6-%E6%B8%85%E9%86%92%E9%80%81%E9%99%A2",
+    "timestamp": "2026-02-08T23:35:03.493Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "AI教母李飛飛教授｜通往人工智慧關鍵拼圖Spatial 3D AI｜蘇仲成",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250204/963438597011410944619348.jpeg/gwZSGYYFK3INnAjMcircA1VLy76oBySoyATZ48gE2eM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60320456/%E5%B0%96%E6%B2%99%E6%B2%B9%E9%85%92%E5%BA%97%E5%A4%96%E7%B6%B2%E7%B4%84%E8%BB%8A%E7%96%91%E9%81%B2%E5%88%B0%E6%8E%80%E7%B3%BE%E7%B4%9B-%E5%8F%B8%E6%A9%9F%E6%B6%89%E6%89%93%E5%82%B7%E9%9B%99%E7%A8%8B%E8%AD%89%E5%AE%A2%E5%BE%8C%E9%96%8B%E8%BB%8A%E9%80%83%E5%8E%BB",
     "timestamp": "2026-02-08T17:49:21.715Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "日本大選｜自民黨獨佔三分二席次　野田佳彥稱為「中道」慘敗負責",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260209/1097334142925803520542731.jpeg/TTw6Kkc2TGfCQEEzWg9_vvnK8WjOXt8az028zM9NvMw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60320454/%E6%97%A5%E6%9C%AC%E5%A4%A7%E9%81%B8-%E8%87%AA%E6%B0%91%E9%BB%A8%E7%8D%A8%E4%BD%94%E4%B8%89%E5%88%86%E4%BA%8C%E5%B8%AD%E6%AC%A1-%E9%87%8E%E7%94%B0%E4%BD%B3%E5%BD%A5%E7%A8%B1%E7%82%BA-%E4%B8%AD%E9%81%93-%E6%85%98%E6%95%97%E8%B2%A0%E8%B2%AC",
-    "timestamp": "2026-02-08T17:32:16.800Z",
     "strategy": ".content-card__main"
   }
 ];
