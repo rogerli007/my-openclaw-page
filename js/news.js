@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-08T17:16:16.728Z
-// Total items: 6
+// Last updated: 2026-02-08T17:32:16.800Z
+// Total items: 7
 
 const hk01News = [
+  {
+    "headline": "日本大選｜自民黨獨佔三分二席次　野田佳彥稱為「中道」慘敗負責",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260209/1097334142925803520542731.jpeg/TTw6Kkc2TGfCQEEzWg9_vvnK8WjOXt8az028zM9NvMw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60320454/%E6%97%A5%E6%9C%AC%E5%A4%A7%E9%81%B8-%E8%87%AA%E6%B0%91%E9%BB%A8%E7%8D%A8%E4%BD%94%E4%B8%89%E5%88%86%E4%BA%8C%E5%B8%AD%E6%AC%A1-%E9%87%8E%E7%94%B0%E4%BD%B3%E5%BD%A5%E7%A8%B1%E7%82%BA-%E4%B8%AD%E9%81%93-%E6%85%98%E6%95%97%E8%B2%A0%E8%B2%AC",
+    "timestamp": "2026-02-08T17:32:16.800Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "國泰80周年｜推全新社區計劃及合作項目　料惠及8萬人",
     "summary": "",
