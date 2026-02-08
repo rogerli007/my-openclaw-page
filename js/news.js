@@ -1,14 +1,14 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
 // Strategy used: .content-card__main
-// Last updated: 2026-02-08T13:38:32.449Z
+// Last updated: 2026-02-08T14:03:15.341Z
 
 const hk01News = {
-    headline: "《中年2》「翻版容祖兒」爆發燒入院　隔離十多天：驚恐絕望擔心",
+    headline: "泰國大選投票結束　出口民調：無政黨過半　泰自豪黨獲最多議席",
     summary: "",
-    image: "https://cdn.hk01.com/di/media/images/dw/20260208/1097247462713724928350182.png/OgUrUevkaPtsEDGr5z0zxrHZMK5wU4vItjrk27Y65Ns?v=w1920r16_9",
-    url: "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60320426/%E7%BE%85%E6%B2%9B%E7%90%AA%E8%87%AA%E7%88%86%E7%99%BC%E7%87%92%E5%85%A5%E9%99%A2-%E8%88%87%E5%A4%96%E7%95%8C%E9%9A%94%E7%B5%95%E5%8D%81%E5%A4%9A%E5%A4%A9-%E9%A9%9A%E6%81%90%E7%B5%95%E6%9C%9B%E6%93%94%E5%BF%83",
-    timestamp: "2026-02-08T13:38:32.449Z"
+    image: "https://cdn.hk01.com/di/media/images/dw/20260208/1097062270451585024347862.jpeg/Gy6UsMbCMf1WL506mzV_4eJ-BOEzJSAZ26n0idup9Ik?v=w1920r16_9",
+    url: "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60320439/%E6%B3%B0%E5%9C%8B%E5%A4%A7%E9%81%B8%E6%8A%95%E7%A5%A8%E7%B5%90%E6%9D%9F-%E5%87%BA%E5%8F%A3%E6%B0%91%E8%AA%BF-%E7%84%A1%E6%94%BF%E9%BB%A8%E9%81%8E%E5%8D%8A-%E6%B3%B0%E8%87%AA%E8%B1%AA%E9%BB%A8%E7%8D%B2%E6%9C%80%E5%A4%9A%E8%AD%B0%E5%B8%AD",
+    timestamp: "2026-02-08T14:03:15.341Z"
 };
 
 // Function to render news into the page
