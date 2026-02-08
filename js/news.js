@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-08T21:59:11.134Z
+// Last updated: 2026-02-08T22:14:29.421Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "胡楓94歲圈中異性緣強勁　71歲喪夫女星激咀塊面追求做「男友」",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260208/1097300807780405248326591.jpeg/MC1f0W6OOyEZaBDlx1NBEf17dRQVCb7c-L6MWPi-jFg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60320376/%E8%83%A1%E6%A5%9394%E6%AD%B2%E5%9C%88%E4%B8%AD%E7%95%B0%E6%80%A7%E7%B7%A3%E5%BC%B7%E5%8B%81-71%E6%AD%B2%E8%82%A5%E5%AA%BD%E6%BF%80%E5%92%80%E5%A1%8A%E9%9D%A2%E8%BF%BD%E6%B1%82%E8%AA%8D%E5%81%9A-%E7%94%B7%E5%8F%8B",
+    "timestamp": "2026-02-08T22:14:29.421Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "華荔邨單位天花燈起火　男鄰居協助撲救　與女戶主同吸入濃煙不適",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260208/1097278313874853888493028.png/mw4gPIDfrg-Y2Dp2cINjeEzm3vFcZmLYjRR1gY0UdYE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60320438/%E9%BB%83%E6%BE%A4%E9%8B%926%E6%AD%B2%E5%A5%B3%E5%85%92%E8%87%AA%E7%88%86%E5%85%AC%E5%9C%92%E8%A2%AB%E4%BA%BA%E6%91%B8-%E6%81%A8%E5%81%9A%E5%B0%8F%E6%BC%94%E5%93%A1%E7%9B%AE%E6%A8%99%E5%85%A8%E7%8F%AD%E8%80%83%E7%AC%AC%E4%B8%80",
     "timestamp": "2026-02-08T16:33:18.308Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "十大屋苑本周末8宗成交　按周急跌57.9%　屬5個周末新低",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250217/968225726950019072340968.jpeg/56vWwe7I1md5_U0GGUspuH7Iy7N54roBjPy1oLr8taA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60320450/%E5%8D%81%E5%A4%A7%E5%B1%8B%E8%8B%91%E6%9C%AC%E5%91%A8%E6%9C%AB8%E5%AE%97%E6%88%90%E4%BA%A4-%E6%8C%89%E5%91%A8%E6%80%A5%E8%B7%8C57-9-%E5%B1%AC5%E5%80%8B%E5%91%A8%E6%9C%AB%E6%96%B0%E4%BD%8E",
-    "timestamp": "2026-02-08T15:47:43.428Z",
     "strategy": ".content-card__main"
   }
 ];
