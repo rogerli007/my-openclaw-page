@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-08T22:31:30.558Z
+// Last updated: 2026-02-08T22:50:50.550Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "公司晚宴竟雲集娛樂圈半壁江山藝人　原來大有來頭好多人靠佢搵食",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260208/1097293336823205888540267.jpeg/5IJboijKo4hEyAUkkaCs-TqvTvbSXOSJM7XfDzO13w8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60319567/%E5%85%AC%E5%8F%B8%E6%99%9A%E5%AE%B4%E7%AB%9F%E9%9B%B2%E9%9B%86%E5%A8%9B%E6%A8%82%E5%9C%88%E5%8D%8A%E5%A3%81%E6%B1%9F%E5%B1%B1%E8%97%9D%E4%BA%BA-%E5%8E%9F%E4%BE%86%E5%A4%A7%E6%9C%89%E4%BE%86%E9%A0%AD%E5%A5%BD%E5%A4%9A%E4%BA%BA%E9%9D%A0%E4%BD%A2%E6%90%B5%E9%A3%9F",
+    "timestamp": "2026-02-08T22:50:50.550Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "觀塘道近翠屏道貨車撞老婦　送院時昏迷",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260208/1097317745952821248129348.jpeg/-W3gyEEFWrGl-71syQFOrAJaHNSQu0VzA0r4cQNK-HE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60320451/%E5%9C%8B%E6%B3%B080%E5%91%A8%E5%B9%B4-%E6%8E%A8%E5%85%A8%E6%96%B0%E7%A4%BE%E5%8D%80%E8%A8%88%E5%8A%83%E5%8F%8A%E5%90%88%E4%BD%9C%E9%A0%85%E7%9B%AE-%E6%96%99%E6%83%A0%E5%8F%8A8%E8%90%AC%E4%BA%BA",
     "timestamp": "2026-02-08T17:16:16.728Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "國泰80周年｜推全新社區計劃及合作項目　料惠及8萬人",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260208/1097317745952821248129348.jpeg/-W3gyEEFWrGl-71syQFOrAJaHNSQu0VzA0r4cQNK-HE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60320451/%E5%9C%8B%E6%B3%B080%E5%91%A8%E5%B9%B4-%E6%8E%A8%E5%85%A8%E6%96%B0%E7%A4%BE%E5%8D%80%E8%A8%88%E5%8A%83%E5%8F%8A%E5%90%88%E4%BD%9C%E9%A0%85%E7%9B%AE-%E6%96%99%E6%83%A0%E5%8F%8A8%E8%90%AC%E4%BA%BA",
-    "timestamp": "2026-02-08T16:52:38.599Z",
     "strategy": ".content-card__main"
   }
 ];
