@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-08T15:47:43.428Z
-// Total items: 3
+// Last updated: 2026-02-08T16:33:18.308Z
+// Total items: 4
 
 const hk01News = [
+  {
+    "headline": "黃澤鋒6歲女兒自爆公園被人摸？　恨做小演員目標全班考第一",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260208/1097278313874853888493028.png/mw4gPIDfrg-Y2Dp2cINjeEzm3vFcZmLYjRR1gY0UdYE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60320438/%E9%BB%83%E6%BE%A4%E9%8B%926%E6%AD%B2%E5%A5%B3%E5%85%92%E8%87%AA%E7%88%86%E5%85%AC%E5%9C%92%E8%A2%AB%E4%BA%BA%E6%91%B8-%E6%81%A8%E5%81%9A%E5%B0%8F%E6%BC%94%E5%93%A1%E7%9B%AE%E6%A8%99%E5%85%A8%E7%8F%AD%E8%80%83%E7%AC%AC%E4%B8%80",
+    "timestamp": "2026-02-08T16:33:18.308Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "十大屋苑本周末8宗成交　按周急跌57.9%　屬5個周末新低",
     "summary": "",
