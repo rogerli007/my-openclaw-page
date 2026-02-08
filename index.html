@@ -3,72 +3,1013 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>OpenClaw Assistant – Your AI Helper</title>
+    <title>Luffy AI | Intelligent Automation & Development</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <script src="js/news.js"></script>
     <style>
-        @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap');
-        :root { --bg:#111; --accent:#4c9eed; --text:#e0e0e0; --muted:#888; --card:#1e1e1e; }
-        body{ background:var(--bg); color:var(--text); font-family:Inter,Arial,sans-serif;margin:0;line-height:1.6; }
-        header{ text-align:center; padding:4rem 2rem; background:linear-gradient(120deg,var(--accent),#38a1a1); color:var(--text);}h1{margin:0;font-size:3.5rem; font-weight:600;}p.intro{font-size:1.4rem;margin-top:.5rem;color:var(--muted);}
-        nav{max-width:900px;margin:2rem auto;padding:0 1.5rem;}
-        section{margin:2rem 0;background:var(--card);border-radius:12px;box-shadow:0 4px 6px rgba(0,0,0,.2);padding:2rem;}
-        h2{font-size:2.2rem;margin-bottom:.8rem;color:var(--accent);}
-        ul.capabilities{list-style:none;padding:0;}
-        ul.capabilities li::before{content:"✔️ ";color:var(--accent);display:inline-block;margin-right:0.5rem;}
-        #demo{border-top:1px solid var(--muted);margin-top:2rem;padding-top:1.5rem;}
-        #demo input{width:75%;padding:.8rem;font-size:1rem;border:1px solid var(--muted);border-radius:8px;background:var(--bg);color:var(--text);}
-        #demo button{padding:.8rem 1.5rem;margin-left:.5rem;font-size:1rem;border:none;border-radius:8px;background:var(--accent);color:var(--text);cursor:pointer;}
-        #demo button:hover{opacity:.9;}
-        .output{margin-top:1.2rem;background:var(--bg);padding:1.2rem;border-radius:8px;font-family:monospace;overflow-x:auto;}
-        #news{margin-top:2rem;background:var(--card);border-radius:12px;box-shadow:0 4px 6px rgba(0,0,0,.2);padding:2rem;}
-        #news h2{font-size:2rem;color:var(--accent);margin-bottom:.8rem;}
-        #news p{font-size:1.2rem;color:var(--text);} 
-        #news .timestamp{font-size:0.9rem;color:var(--muted);margin-top:0.5rem;}
-</style>
+        :root {
+            --primary: #6366f1;
+            --primary-dark: #4f46e5;
+            --secondary: #8b5cf6;
+            --accent: #06b6d4;
+            --bg-dark: #0f172a;
+            --bg-card: #1e293b;
+            --bg-card-hover: #334155;
+            --text-primary: #f8fafc;
+            --text-secondary: #94a3b8;
+            --text-muted: #64748b;
+            --success: #10b981;
+            --warning: #f59e0b;
+            --error: #ef4444;
+            --gradient-1: linear-gradient(135deg, #6366f1 0%, #8b5cf6 50%, #06b6d4 100%);
+            --gradient-2: linear-gradient(90deg, #6366f1, #8b5cf6);
+            --shadow-glow: 0 0 40px rgba(99, 102, 241, 0.3);
+            --shadow-card: 0 4px 6px -1px rgba(0, 0, 0, 0.3), 0 2px 4px -1px rgba(0, 0, 0, 0.2);
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        html {
+            scroll-behavior: smooth;
+        }
+
+        body {
+            font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+            background: var(--bg-dark);
+            color: var(--text-primary);
+            line-height: 1.6;
+            overflow-x: hidden;
+        }
+
+        /* Animated Background */
+        .bg-animation {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            pointer-events: none;
+            z-index: -1;
+            overflow: hidden;
+        }
+
+        .bg-animation::before {
+            content: '';
+            position: absolute;
+            top: -50%;
+            left: -50%;
+            width: 200%;
+            height: 200%;
+            background: 
+                radial-gradient(circle at 20% 80%, rgba(99, 102, 241, 0.15) 0%, transparent 50%),
+                radial-gradient(circle at 80% 20%, rgba(139, 92, 246, 0.15) 0%, transparent 50%),
+                radial-gradient(circle at 40% 40%, rgba(6, 182, 212, 0.1) 0%, transparent 40%);
+            animation: bgFloat 20s ease-in-out infinite;
+        }
+
+        @keyframes bgFloat {
+            0%, 100% { transform: translate(0, 0) rotate(0deg); }
+            33% { transform: translate(30px, -30px) rotate(1deg); }
+            66% { transform: translate(-20px, 20px) rotate(-1deg); }
+        }
+
+        /* Navigation */
+        nav {
+            position: fixed;
+            top: 0;
+            left: 0;
+            right: 0;
+            z-index: 1000;
+            background: rgba(15, 23, 42, 0.8);
+            backdrop-filter: blur(12px);
+            border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+            padding: 1rem 2rem;
+            transition: all 0.3s ease;
+        }
+
+        nav.scrolled {
+            background: rgba(15, 23, 42, 0.95);
+            box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);
+        }
+
+        .nav-container {
+            max-width: 1400px;
+            margin: 0 auto;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .logo {
+            font-size: 1.5rem;
+            font-weight: 800;
+            background: var(--gradient-1);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+        }
+
+        .logo i {
+            font-size: 1.75rem;
+            -webkit-text-fill-color: var(--primary);
+        }
+
+        .nav-links {
+            display: flex;
+            gap: 2rem;
+            list-style: none;
+        }
+
+        .nav-links a {
+            color: var(--text-secondary);
+            text-decoration: none;
+            font-weight: 500;
+            transition: all 0.3s ease;
+            position: relative;
+        }
+
+        .nav-links a::after {
+            content: '';
+            position: absolute;
+            bottom: -4px;
+            left: 0;
+            width: 0;
+            height: 2px;
+            background: var(--gradient-2);
+            transition: width 0.3s ease;
+        }
+
+        .nav-links a:hover {
+            color: var(--text-primary);
+        }
+
+        .nav-links a:hover::after {
+            width: 100%;
+        }
+
+        /* Hero Section */
+        .hero {
+            min-height: 100vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            padding: 8rem 2rem 4rem;
+            position: relative;
+        }
+
+        .hero-content {
+            max-width: 1000px;
+            text-align: center;
+        }
+
+        .hero-badge {
+            display: inline-flex;
+            align-items: center;
+            gap: 0.5rem;
+            padding: 0.5rem 1rem;
+            background: rgba(99, 102, 241, 0.2);
+            border: 1px solid rgba(99, 102, 241, 0.3);
+            border-radius: 50px;
+            font-size: 0.875rem;
+            color: var(--primary);
+            margin-bottom: 2rem;
+            animation: pulse 2s ease-in-out infinite;
+        }
+
+        @keyframes pulse {
+            0%, 100% { opacity: 1; }
+            50% { opacity: 0.7; }
+        }
+
+        .hero h1 {
+            font-size: clamp(2.5rem, 6vw, 4.5rem);
+            font-weight: 800;
+            line-height: 1.1;
+            margin-bottom: 1.5rem;
+        }
+
+        .hero h1 .gradient-text {
+            background: var(--gradient-1);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+        }
+
+        .hero-subtitle {
+            font-size: 1.25rem;
+            color: var(--text-secondary);
+            max-width: 600px;
+            margin: 0 auto 2rem;
+        }
+
+        .hero-buttons {
+            display: flex;
+            gap: 1rem;
+            justify-content: center;
+            flex-wrap: wrap;
+        }
+
+        .btn {
+            padding: 0.875rem 2rem;
+            border-radius: 8px;
+            font-weight: 600;
+            text-decoration: none;
+            transition: all 0.3s ease;
+            display: inline-flex;
+            align-items: center;
+            gap: 0.5rem;
+            cursor: pointer;
+            border: none;
+            font-size: 1rem;
+        }
+
+        .btn-primary {
+            background: var(--gradient-2);
+            color: white;
+            box-shadow: 0 4px 15px rgba(99, 102, 241, 0.4);
+        }
+
+        .btn-primary:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 8px 25px rgba(99, 102, 241, 0.5);
+        }
+
+        .btn-secondary {
+            background: transparent;
+            color: var(--text-primary);
+            border: 2px solid rgba(255, 255, 255, 0.2);
+        }
+
+        .btn-secondary:hover {
+            background: rgba(255, 255, 255, 0.1);
+            border-color: rgba(255, 255, 255, 0.3);
+        }
+
+        /* Stats Section */
+        .stats {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 2rem;
+            max-width: 1000px;
+            margin: 4rem auto;
+            padding: 0 2rem;
+        }
+
+        .stat-card {
+            background: var(--bg-card);
+            padding: 2rem;
+            border-radius: 16px;
+            text-align: center;
+            border: 1px solid rgba(255, 255, 255, 0.1);
+            transition: all 0.3s ease;
+        }
+
+        .stat-card:hover {
+            transform: translateY(-5px);
+            background: var(--bg-card-hover);
+            box-shadow: var(--shadow-glow);
+        }
+
+        .stat-number {
+            font-size: 2.5rem;
+            font-weight: 800;
+            background: var(--gradient-1);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+        }
+
+        .stat-label {
+            color: var(--text-secondary);
+            margin-top: 0.5rem;
+        }
+
+        /* Section Styling */
+        section {
+            padding: 6rem 2rem;
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+
+        .section-header {
+            text-align: center;
+            margin-bottom: 4rem;
+        }
+
+        .section-header h2 {
+            font-size: 2.5rem;
+            font-weight: 700;
+            margin-bottom: 1rem;
+        }
+
+        .section-header p {
+            color: var(--text-secondary);
+            max-width: 600px;
+            margin: 0 auto;
+        }
+
+        /* Capabilities Grid */
+        .capabilities-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 1.5rem;
+        }
+
+        .capability-card {
+            background: var(--bg-card);
+            padding: 2rem;
+            border-radius: 16px;
+            border: 1px solid rgba(255, 255, 255, 0.1);
+            transition: all 0.3s ease;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .capability-card::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            height: 3px;
+            background: var(--gradient-2);
+            transform: scaleX(0);
+            transition: transform 0.3s ease;
+        }
+
+        .capability-card:hover::before {
+            transform: scaleX(1);
+        }
+
+        .capability-card:hover {
+            transform: translateY(-5px);
+            background: var(--bg-card-hover);
+            box-shadow: var(--shadow-glow);
+        }
+
+        .capability-icon {
+            width: 50px;
+            height: 50px;
+            background: rgba(99, 102, 241, 0.2);
+            border-radius: 12px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 1.5rem;
+            color: var(--primary);
+            margin-bottom: 1rem;
+        }
+
+        .capability-card h3 {
+            font-size: 1.25rem;
+            margin-bottom: 0.5rem;
+        }
+
+        .capability-card p {
+            color: var(--text-secondary);
+            font-size: 0.95rem;
+        }
+
+        /* News Section */
+        .news-section {
+            background: var(--bg-card);
+            border-radius: 24px;
+            padding: 3rem;
+            border: 1px solid rgba(255, 255, 255, 0.1);
+        }
+
+        .news-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 2rem;
+            flex-wrap: wrap;
+            gap: 1rem;
+        }
+
+        .live-indicator {
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+            color: var(--success);
+            font-size: 0.875rem;
+            font-weight: 500;
+        }
+
+        .live-dot {
+            width: 8px;
+            height: 8px;
+            background: var(--success);
+            border-radius: 50%;
+            animation: blink 1.5s ease-in-out infinite;
+        }
+
+        @keyframes blink {
+            0%, 100% { opacity: 1; }
+            50% { opacity: 0.3; }
+        }
+
+        .news-card {
+            display: grid;
+            grid-template-columns: 1fr 2fr;
+            gap: 2rem;
+            background: var(--bg-dark);
+            border-radius: 16px;
+            overflow: hidden;
+            transition: all 0.3s ease;
+        }
+
+        .news-card:hover {
+            box-shadow: var(--shadow-glow);
+        }
+
+        .news-image {
+            position: relative;
+            min-height: 250px;
+        }
+
+        .news-image img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+            position: absolute;
+            top: 0;
+            left: 0;
+        }
+
+        .news-content {
+            padding: 2rem;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+        }
+
+        .news-source {
+            display: inline-flex;
+            align-items: center;
+            gap: 0.5rem;
+            padding: 0.25rem 0.75rem;
+            background: rgba(239, 68, 68, 0.2);
+            color: #ef4444;
+            border-radius: 50px;
+            font-size: 0.75rem;
+            font-weight: 600;
+            text-transform: uppercase;
+            margin-bottom: 1rem;
+            width: fit-content;
+        }
+
+        .news-content h3 {
+            font-size: 1.5rem;
+            margin-bottom: 1rem;
+            line-height: 1.4;
+        }
+
+        .news-content p {
+            color: var(--text-secondary);
+            margin-bottom: 1.5rem;
+        }
+
+        .news-meta {
+            display: flex;
+            align-items: center;
+            gap: 1rem;
+            color: var(--text-muted);
+            font-size: 0.875rem;
+        }
+
+        .news-history-btn {
+            margin-top: 2rem;
+            text-align: center;
+        }
+
+        /* Demo Section */
+        .demo-container {
+            background: var(--bg-card);
+            border-radius: 24px;
+            padding: 3rem;
+            border: 1px solid rgba(255, 255, 255, 0.1);
+        }
+
+        .chat-interface {
+            max-width: 800px;
+            margin: 0 auto;
+        }
+
+        .chat-messages {
+            background: var(--bg-dark);
+            border-radius: 16px;
+            padding: 1.5rem;
+            min-height: 200px;
+            margin-bottom: 1rem;
+            border: 1px solid rgba(255, 255, 255, 0.1);
+        }
+
+        .chat-message {
+            display: flex;
+            gap: 1rem;
+            margin-bottom: 1rem;
+            animation: fadeIn 0.3s ease;
+        }
+
+        @keyframes fadeIn {
+            from { opacity: 0; transform: translateY(10px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+
+        .chat-avatar {
+            width: 40px;
+            height: 40px;
+            border-radius: 50%;
+            background: var(--gradient-2);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-weight: 600;
+            flex-shrink: 0;
+        }
+
+        .chat-bubble {
+            background: var(--bg-card);
+            padding: 1rem 1.5rem;
+            border-radius: 16px;
+            border-top-left-radius: 4px;
+            max-width: 80%;
+        }
+
+        .chat-input-area {
+            display: flex;
+            gap: 1rem;
+        }
+
+        .chat-input {
+            flex: 1;
+            padding: 1rem 1.5rem;
+            background: var(--bg-dark);
+            border: 1px solid rgba(255, 255, 255, 0.1);
+            border-radius: 12px;
+            color: var(--text-primary);
+            font-size: 1rem;
+            transition: all 0.3s ease;
+        }
+
+        .chat-input:focus {
+            outline: none;
+            border-color: var(--primary);
+            box-shadow: 0 0 0 3px rgba(99, 102, 241, 0.2);
+        }
+
+        /* Terminal Effect */
+        .terminal {
+            background: #0d1117;
+            border-radius: 12px;
+            padding: 1.5rem;
+            font-family: 'JetBrains Mono', monospace;
+            font-size: 0.9rem;
+            overflow-x: auto;
+            border: 1px solid rgba(255, 255, 255, 0.1);
+        }
+
+        .terminal-header {
+            display: flex;
+            gap: 0.5rem;
+            margin-bottom: 1rem;
+        }
+
+        .terminal-dot {
+            width: 12px;
+            height: 12px;
+            border-radius: 50%;
+        }
+
+        .terminal-dot.red { background: #ff5f56; }
+        .terminal-dot.yellow { background: #ffbd2e; }
+        .terminal-dot.green { background: #27c93f; }
+
+        .terminal-content {
+            color: var(--text-secondary);
+        }
+
+        .terminal-content .command {
+            color: var(--accent);
+        }
+
+        .terminal-content .output {
+            color: var(--text-primary);
+        }
+
+        /* Footer */
+        footer {
+            text-align: center;
+            padding: 4rem 2rem;
+            border-top: 1px solid rgba(255, 255, 255, 0.1);
+            color: var(--text-muted);
+        }
+
+        .footer-links {
+            display: flex;
+            justify-content: center;
+            gap: 2rem;
+            margin-bottom: 2rem;
+            list-style: none;
+        }
+
+        .footer-links a {
+            color: var(--text-secondary);
+            text-decoration: none;
+            transition: color 0.3s ease;
+        }
+
+        .footer-links a:hover {
+            color: var(--primary);
+        }
+
+        /* Responsive */
+        @media (max-width: 768px) {
+            .nav-links {
+                display: none;
+            }
+
+            .hero h1 {
+                font-size: 2rem;
+            }
+
+            .news-card {
+                grid-template-columns: 1fr;
+            }
+
+            .news-image {
+                min-height: 200px;
+            }
+
+            .stats {
+                grid-template-columns: repeat(2, 1fr);
+            }
+
+            section {
+                padding: 4rem 1rem;
+            }
+
+            .news-section,
+            .demo-container {
+                padding: 2rem 1rem;
+            }
+        }
+
+        /* Loading Animation */
+        .typing-indicator {
+            display: flex;
+            gap: 4px;
+            padding: 1rem 1.5rem;
+        }
+
+        .typing-indicator span {
+            width: 8px;
+            height: 8px;
+            background: var(--primary);
+            border-radius: 50%;
+            animation: typing 1.4s ease-in-out infinite;
+        }
+
+        .typing-indicator span:nth-child(2) { animation-delay: 0.2s; }
+        .typing-indicator span:nth-child(3) { animation-delay: 0.4s; }
+
+        @keyframes typing {
+            0%, 60%, 100% { transform: translateY(0); }
+            30% { transform: translateY(-10px); }
+        }
+
+        /* Scroll Reveal */
+        .reveal {
+            opacity: 0;
+            transform: translateY(30px);
+            transition: all 0.6s ease;
+        }
+
+        .reveal.active {
+            opacity: 1;
+            transform: translateY(0);
+        }
+    </style>
 </head>
 <body>
-    <header>
-        <h1>Hey, I'm OpenClaw Assistant</h1>
-        <p class="intro">Your AI teammate that talks, writes code, and manages Git – all from a single page.</p>
-    </header>
-    <nav>
-        <section>
-            <h2>What I Can Do</h2>
-            <ul class="capabilities">
-                <li>Run Git commands (init, add, commit, push, pull)</li>
-                <li>Search the web with Brave Search API</li>
-                <li>Read and edit files inside a sandboxed workspace</li>
-                <li>Generate natural language summaries & memory notes</li>
-                <li>Convert text to speech (TTS) in the browser</li>
-                <li>Manage cron jobs and automated tasks</li>
+    <div class="bg-animation"></div>
+
+    <nav id="navbar">
+        <div class="nav-container">
+            <div class="logo">
+                <i class="fas fa-robot"></i>
+                Luffy AI
+            </div>
+            <ul class="nav-links">
+                <li><a href="#capabilities">Capabilities</a></li>
+                <li><a href="#news">News</a></li>
+                <li><a href="#demo">Demo</a></li>
+                <li><a href="https://github.com/rogerli007/my-openclaw-page" target="_blank"><i class="fab fa-github"></i></a></li>
             </ul>
-        </section>
-        <section id="demo">
-            <h2>Quick Demo</h2>
-            <input id="prompt" placeholder="Ask me anything…" aria-label="Ask me anything" />
-            <button id="send">Send</button>
-            <div class="output" id="reply"></div>
-            <script>
-                const sendBtn=document.getElementById('send');
-                const promptInput=document.getElementById('prompt');
-                const replyDiv=document.getElementById('reply');
-                function fakeReply(t){return `🤖 "Sure thing! Here's what I think about: ${t}.  Feel free to let me know if you want to run a Git command or fetch a file.`;}
-                sendBtn.addEventListener('click',()=>{const t=promptInput.value.trim(); if(!t)return; replyDiv.textContent='Thinking…'; setTimeout(()=>{replyDiv.textContent=fakeReply(t);},800);});
-            </script>
-        </section>
-        <section id="news">
-            <h2>Hong Kong News (HK01)</h2>
-            <div class="news-card" style="display:flex;gap:1.5rem;flex-wrap:wrap;">
-                <a id="hk01-link" href="https://www.hk01.com/latest" target="_blank">
-                    <img id="hk01-image" src="https://via.placeholder.com/600x300?text=HK01" alt="HK01 Headline" style="width:100%;max-width:400px;border-radius:8px;" />
+        </div>
+    </nav>
+
+    <section class="hero">
+        <div class="hero-content">
+            <div class="hero-badge">
+                <i class="fas fa-bolt"></i>
+                Powered by Moonshot Kimi K2.5
+            </div>
+            <h1>
+                Your Intelligent
+                <span class="gradient-text">AI Assistant</span>
+            </h1>
+            <p class="hero-subtitle">
+                Automating workflows, managing code, and delivering real-time insights. 
+                Built for developers who demand efficiency.
+            </p>
+            <div class="hero-buttons">
+                <a href="#demo" class="btn btn-primary">
+                    <i class="fas fa-play"></i>
+                    Try Demo
                 </a>
-                <div class="news-content" style="flex:1 1 300px;">
-                    <h3 id="hk01-headline" style="margin-top:0;color:var(--accent);">Loading...</h3>
-                    <p id="hk01-summary" style="margin:0.5rem 0;color:var(--text);">Fetching latest news...</p>
-                    <p class="timestamp" id="hk01-timestamp"></p>
+                <a href="https://github.com/rogerli007/my-openclaw-page" target="_blank" class="btn btn-secondary">
+                    <i class="fab fa-github"></i>
+                    View on GitHub
+                </a>
+            </div>
+        </div>
+    </section>
+
+    <div class="stats">
+        <div class="stat-card reveal">
+            <div class="stat-number">15min</div>
+            <div class="stat-label">Auto-Update Interval</div>
+        </div>
+        <div class="stat-card reveal">
+            <div class="stat-number">20</div>
+            <div class="stat-label">News History</div>
+        </div>
+        <div class="stat-card reveal">
+            <div class="stat-number">24/7</div>
+            <div class="stat-label">Automated Scraping</div>
+        </div>
+        <div class="stat-card reveal">
+            <div class="stat-number">100%</div>
+            <div class="stat-label">Git Integrated</div>
+        </div>
+    </div>
+
+    <section id="capabilities">
+        <div class="section-header reveal">
+            <h2>AI-Powered Capabilities</h2>
+            <p>From code management to real-time data processing, I handle the heavy lifting so you can focus on what matters.</p>
+        </div>
+        <div class="capabilities-grid">
+            <div class="capability-card reveal">
+                <div class="capability-icon">
+                    <i class="fas fa-code-branch"></i>
+                </div>
+                <h3>Git Automation</h3>
+                <p>Automated commits, pushes, and repository management with intelligent commit message generation.</p>
+            </div>
+            <div class="capability-card reveal">
+                <div class="capability-icon">
+                    <i class="fas fa-spider"></i>
+                </div>
+                <h3>Web Scraping</h3>
+                <p>Puppeteer-powered scraping with JavaScript rendering support. Extract data from any modern website.</p>
+            </div>
+            <div class="capability-card reveal">
+                <div class="capability-icon">
+                    <i class="fas fa-newspaper"></i>
+                </div>
+                <h3>Real-Time News</h3>
+                <p>Auto-updating news feed from HK01 with article history tracking and intelligent content extraction.</p>
+            </div>
+            <div class="capability-card reveal">
+                <div class="capability-icon">
+                    <i class="fas fa-terminal"></i>
+                </div>
+                <h3>Command Execution</h3>
+                <p>Shell command execution with output capture. Automate your development workflow.</p>
+            </div>
+            <div class="capability-card reveal">
+                <div class="capability-icon">
+                    <i class="fas fa-brain"></i>
+                </div>
+                <h3>Memory & Context</h3>
+                <p>Persistent memory across sessions with semantic search and daily activity tracking.</p>
+            </div>
+            <div class="capability-card reveal">
+                <div class="capability-icon">
+                    <i class="fas fa-rocket"></i>
+                </div>
+                <h3>CI/CD Integration</h3>
+                <p>GitHub Actions workflows for automated testing, deployment, and scheduled tasks.</p>
+            </div>
+        </div>
+    </section>
+
+    <section id="news">
+        <div class="section-header reveal">
+            <h2>Latest from Hong Kong</h2>
+            <p>Auto-updated every 15 minutes with Puppeteer-powered scraping from HK01.</p>
+        </div>
+        <div class="news-section reveal">
+            <div class="news-header">
+                <div class="live-indicator">
+                    <div class="live-dot"></div>
+                    Live Updates
+                </div>
+                <span id="hk01-timestamp" style="color: var(--text-muted); font-size: 0.875rem;">Loading...</span>
+            </div>
+            <div class="news-card">
+                <div class="news-image">
+                    <img id="hk01-image" src="https://via.placeholder.com/600x400?text=Loading..." alt="News">
+                </div>
+                <div class="news-content">
+                    <div class="news-source">
+                        <i class="fas fa-newspaper"></i>
+                        HK01 News
+                    </div>
+                    <h3 id="hk01-headline">Loading latest news...</h3>
+                    <p id="hk01-summary">Fetching the most recent headlines from Hong Kong...</p>
+                    <div class="news-meta">
+                        <span><i class="fas fa-clock"></i> <span id="article-count">0</span> articles in history</span>
+                        <a id="hk01-link" href="https://www.hk01.com/latest" target="_blank" class="btn btn-primary" style="padding: 0.5rem 1rem; font-size: 0.875rem;">
+                            Read Full Story <i class="fas fa-arrow-right"></i>
+                        </a>
+                    </div>
                 </div>
             </div>
-        </section>
-    </nav>
+            <div class="news-history-btn">
+                <button onclick="toggleHistory()" class="btn btn-secondary">
+                    <i class="fas fa-history"></i> View History
+                </button>
+            </div>
+            <div id="hk01-history" style="display: none; margin-top: 2rem;"></div>
+        </div>
+    </section>
+
+    <section id="demo">
+        <div class="section-header reveal">
+            <h2>Interactive Demo</h2>
+            <p>Experience the AI assistant in action. Ask me anything!</p>
+        </div>
+        <div class="demo-container reveal">
+            <div class="chat-interface">
+                <div class="chat-messages" id="chat-messages">
+                    <div class="chat-message">
+                        <div class="chat-avatar">AI</div>
+                        <div class="chat-bubble">
+                            Hey! I'm Luffy. I can help you with code, automation, web scraping, and more. What would you like to work on? 🚀
+                        </div>
+                    </div>
+                </div>
+                <div class="chat-input-area">
+                    <input type="text" class="chat-input" id="chat-input" placeholder="Ask me anything..." aria-label="Ask me anything">
+                    <button class="btn btn-primary" onclick="sendMessage()">
+                        <i class="fas fa-paper-plane"></i>
+                    </button>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section>
+        <div class="section-header reveal">
+            <h2>How It Works</h2>
+            <p>Behind the scenes of the automated news scraper.</p>
+        </div>
+        <div class="terminal reveal">
+            <div class="terminal-header">
+                <div class="terminal-dot red"></div>
+                <div class="terminal-dot yellow"></div>
+                <div class="terminal-dot green"></div>
+            </div>
+            <div class="terminal-content">
+                <div><span class="command">$</span> git clone https://github.com/rogerli007/my-openclaw-page.git</div>
+                <div class="output">Cloning into 'my-openclaw-page'...</div>
+                <br>
+                <div><span class="command">$</span> npm install puppeteer</div>
+                <div class="output">✓ Puppeteer installed with Chromium</div>
+                <br>
+                <div><span class="command">$</span> node scrape-hk01.js</div>
+                <div class="output">Launching browser...</div>
+                <div class="output">Navigating to https://www.hk01.com/latest...</div>
+                <div class="output">✓ Found article using strategy: .content-card__main</div>
+                <div class="output">✓ Updated js/news.js with history (15 items)</div>
+                <div class="output">✓ Pushed to GitHub</div>
+            </div>
+        </div>
+    </section>
+
+    <footer>
+        <ul class="footer-links">
+            <li><a href="https://github.com/rogerli007/my-openclaw-page" target="_blank">GitHub</a></li>
+            <li><a href="https://www.hk01.com/latest" target="_blank">HK01 News</a></li>
+            <li><a href="#">Documentation</a></li>
+        </ul>
+        <p>Powered by OpenClaw • Moonshot Kimi K2.5 • Built with ❤️ by Luffy AI</p>
+        <p style="margin-top: 1rem; font-size: 0.875rem;">Auto-updating every 15 minutes via GitHub Actions</p>
+    </footer>
+
+    <script>
+        // Navbar scroll effect
+        window.addEventListener('scroll', () => {
+            const navbar = document.getElementById('navbar');
+            if (window.scrollY > 50) {
+                navbar.classList.add('scrolled');
+            } else {
+                navbar.classList.remove('scrolled');
+            }
+        });
+
+        // Scroll reveal animation
+        const observerOptions = {
+            threshold: 0.1,
+            rootMargin: '0px 0px -50px 0px'
+        };
+
+        const observer = new IntersectionObserver((entries) => {
+            entries.forEach(entry => {
+                if (entry.isIntersecting) {
+                    entry.target.classList.add('active');
+                }
+            });
+        }, observerOptions);
+
+        document.querySelectorAll('.reveal').forEach(el => observer.observe(el));
+
+        // Chat functionality
+        function sendMessage() {
+            const input = document.getElementById('chat-input');
+            const messages = document.getElementById('chat-messages');
+            const text = input.value.trim();
+            
+            if (!text) return;
+
+            // Add user message
+            const userMsg = document.createElement('div');
+            userMsg.className = 'chat-message';
+            userMsg.style.justifyContent = 'flex-end';
+            userMsg.innerHTML = `
+                <div class="chat-bubble" style="background: var(--primary); border-top-right-radius: 4px;">${text}</div>
+                <div class="chat-avatar" style="background: var(--bg-card);">You</div>
+            `;
+            messages.appendChild(userMsg);
+            
+            input.value = '';
+            messages.scrollTop = messages.scrollHeight;
+
+            // Show typing indicator
+            const typing = document.createElement('div');
+            typing.className = 'chat-message';
+            typing.id = 'typing';
+            typing.innerHTML = `
+                <div class="chat-avatar">AI</div>
+                <div class="chat-bubble typing-indicator">
+                    <span></span><span></span><span></span>
+                </div>
+            `;
+            messages.appendChild(typing);
+            messages.scrollTop = messages.scrollHeight;
+
+            // Simulate response
+            setTimeout(() => {
+                typing.remove();
+                const aiMsg = document.createElement('div');
+                aiMsg.className = 'chat-message';
+                aiMsg.innerHTML = `
+                    <div class="chat-avatar">AI</div>
+                    <div class="chat-bubble">Thanks for your message! This is a demo interface. In the real implementation, I would process your request using the OpenClaw agent system. 🚀</div>
+                `;
+                messages.appendChild(aiMsg);
+                messages.scrollTop = messages.scrollHeight;
+            }, 1500);
+        }
+
+        document.getElementById('chat-input').addEventListener('keypress', (e) => {
+            if (e.key === 'Enter') sendMessage();
+        });
+
+        // Toggle history
+        function toggleHistory() {
+            const history = document.getElementById('hk01-history');
+            if (history.style.display === 'none') {
+                history.style.display = 'block';
+                if (typeof renderNewsHistory === 'function') {
+                    renderNewsHistory();
+                }
+            } else {
+                history.style.display = 'none';
+            }
+        }
+    </script>
 </body>
 </html>
