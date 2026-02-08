@@ -25,9 +25,12 @@ async function scrapeHK01() {
         // Navigate to HK01 latest
         console.log('Navigating to https://www.hk01.com/latest...');
         await page.goto('https://www.hk01.com/latest', {
-            waitUntil: 'networkidle2',
-            timeout: 30000
+            waitUntil: 'domcontentloaded',  // Faster than networkidle2
+            timeout: 60000  // Increase to 60 seconds
         });
+        
+        // Wait for network to be idle after initial load
+        await page.waitForTimeout(5000);
         
         // Wait a bit for JavaScript to render
         console.log('Waiting for page to fully render...');
@@ -159,6 +162,16 @@ async function scrapeHK01() {
     } catch (error) {
         console.error('❌ Error scraping:', error.message);
         console.error(error.stack);
+        
+        // Try to save debug HTML even on error
+        try {
+            const html = await page.content();
+            fs.writeFileSync('debug-hk01-error.html', html);
+            console.log('Saved error debug HTML to debug-hk01-error.html');
+        } catch (e) {
+            console.log('Could not save debug HTML:', e.message);
+        }
+        
         return {
             headline: '無法獲取最新新聞',
             summary: '點擊查睇詳情: ' + error.message,
@@ -221,7 +234,21 @@ document.addEventListener('DOMContentLoaded', renderNews);
     
     // Git operations
     try {
-        execSync('git add js/news.js debug-hk01.html', { stdio: 'inherit' });
+        // Add news.js (always exists)
+        execSync('git add js/news.js', { stdio: 'inherit' });
+        
+        // Try to add debug files if they exist
+        try {
+            if (fs.existsSync('debug-hk01.html')) {
+                execSync('git add debug-hk01.html', { stdio: 'inherit' });
+            }
+            if (fs.existsSync('debug-hk01-error.html')) {
+                execSync('git add debug-hk01-error.html', { stdio: 'inherit' });
+            }
+        } catch (e) {
+            // Debug files are optional
+        }
+        
         execSync(`git commit -m "Update HK01 news [${article.strategy}]: ${headline.substring(0, 30)}" || true`, { stdio: 'inherit' });
         execSync('git push', { stdio: 'inherit' });
         console.log('✅ Pushed to GitHub');
