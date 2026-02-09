@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-09T20:22:43.156Z
+// Last updated: 2026-02-09T20:53:12.119Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "愛潑斯坦案｜英王對安德魯醜聞表關切　白金漢宮：將支持警方調查",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260210/1097744659360256000126780.jpeg/enLrA9Rel7PbgiNB0yf9lJBtO4FmccxjPxwKdT8cCnU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60320830/%E6%84%9B%E6%BD%91%E6%96%AF%E5%9D%A6%E6%A1%88-%E8%8B%B1%E7%8E%8B%E5%B0%8D%E5%AE%89%E5%BE%B7%E9%AD%AF%E9%86%9C%E8%81%9E%E8%A1%A8%E9%97%9C%E5%88%87-%E7%99%BD%E9%87%91%E6%BC%A2%E5%AE%AE-%E5%B0%87%E6%94%AF%E6%8C%81%E8%AD%A6%E6%96%B9%E8%AA%BF%E6%9F%A5",
+    "timestamp": "2026-02-09T20:53:12.119Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "半山豪宅露台燒烤疑燒著罐裝氣體起火　住戶自行救熄無人傷│有片",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20241121/936057949745451008260345.jpeg/uowbfVykZhyI-JGifcSSqEg0qNXTrKRVLidnzS4nZ80?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60320751/bithumb%E8%AA%A4%E6%B4%BE62%E8%90%AC%E6%9E%9Abitcoin-%E8%B7%AF%E9%80%8F-%E9%9F%93%E7%9B%A3%E7%AE%A1%E6%A9%9F%E6%A7%8B%E8%A6%81%E5%BE%9E%E5%9A%B4%E7%AE%A1%E7%90%86%E5%B9%BD%E9%9D%88%E5%B9%A3",
     "timestamp": "2026-02-09T10:15:08.994Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "香港電訊末期分派47.97仙　全年分派增3.8%至81.77分",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20200603/344910400711692288.jpeg/MWCKkzuWkcMV9z3weI-ChtYtyo0BOrD0AX8GGgF_Bho?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60320738/%E9%A6%99%E6%B8%AF%E9%9B%BB%E8%A8%8A%E6%9C%AB%E6%9C%9F%E5%88%86%E6%B4%BE47-97%E4%BB%99-%E5%85%A8%E5%B9%B4%E5%88%86%E6%B4%BE%E5%A2%9E3-8-%E8%87%B381-77%E5%88%86",
-    "timestamp": "2026-02-09T09:43:21.317Z",
     "strategy": ".content-card__main"
   }
 ];
