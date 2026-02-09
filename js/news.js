@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-09T17:39:43.667Z
+// Last updated: 2026-02-09T18:09:10.232Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "界限街住宅15歲仔被人以電腦椅襲擊受傷　警拘60歲父涉虐兒",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/2837138/org/b907424f50c0dd65f040649a4425715a.jpg/u6EwOOwP393nOvgnKkEBk3aoA6soa-X38sAv2_LAL9s?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60320824/%E7%95%8C%E9%99%90%E8%A1%97%E4%BD%8F%E5%AE%8515%E6%AD%B2%E4%BB%94%E8%A2%AB%E4%BA%BA%E4%BB%A5%E9%9B%BB%E8%85%A6%E6%A4%85%E8%A5%B2%E6%93%8A%E5%8F%97%E5%82%B7-%E8%AD%A6%E6%8B%9860%E6%AD%B2%E7%88%B6%E6%B6%89%E8%99%90%E5%85%92",
+    "timestamp": "2026-02-09T18:09:10.232Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "界限街住宅15歲仔被人以電腦椅襲擊受傷　警拘60歲父涉虐兒",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260209/1097535636157501440567234.jpeg/UfewbCvokMdXKSLnurT_tnRcZ56xcnjaZGU_rmRlP64?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60320592/iphone-18-pro-max%E9%A6%96%E5%BC%95%E5%85%A5%E9%80%99%E9%BB%91%E7%A7%91%E6%8A%80-%E4%BA%BA%E5%83%8F%E6%94%9D%E5%BD%B1%E8%99%9B%E5%8C%96%E5%B0%87%E5%8F%AF%E5%AA%B2%E7%BE%8E%E5%96%AE%E5%8F%8D",
     "timestamp": "2026-02-09T07:44:12.140Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "泰國大選｜總理阿努廷誓言：將建造泰柬邊境牆並關閉邊境",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260209/1097547500149018624768204.jpeg/piQFQBA4pzZue9XxZlioNrw87n9d80qJHOm7Phzpuz4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60320646/%E6%B3%B0%E5%9C%8B%E5%A4%A7%E9%81%B8-%E7%B8%BD%E7%90%86%E9%98%BF%E5%8A%AA%E5%BB%B7%E8%AA%93%E8%A8%80-%E5%B0%87%E5%BB%BA%E9%80%A0%E6%B3%B0%E6%9F%AC%E9%82%8A%E5%A2%83%E7%89%86%E4%B8%A6%E9%97%9C%E9%96%89%E9%82%8A%E5%A2%83",
-    "timestamp": "2026-02-09T07:15:35.220Z",
     "strategy": ".content-card__main"
   }
 ];
