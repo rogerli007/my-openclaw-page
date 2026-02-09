@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-09T06:01:35.709Z
+// Last updated: 2026-02-09T06:41:02.476Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "蘭花入境｜漁護署：勿帶或網購沒許可證瀕危動植物　高危物種一覽",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260113/1087553794948337664596034.jpeg/Twwd7VTImHlFdZrDHxndpYJLRVJIhf1zfRLyjFgS8ow?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60320623/%E8%98%AD%E8%8A%B1%E5%85%A5%E5%A2%83-%E6%BC%81%E8%AD%B7%E7%BD%B2-%E5%8B%BF%E5%B8%B6%E6%88%96%E7%B6%B2%E8%B3%BC%E6%B2%92%E8%A8%B1%E5%8F%AF%E8%AD%89%E7%80%95%E5%8D%B1%E5%8B%95%E6%A4%8D%E7%89%A9-%E9%AB%98%E5%8D%B1%E7%89%A9%E7%A8%AE%E4%B8%80%E8%A6%BD",
+    "timestamp": "2026-02-09T06:41:02.476Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "香港故宮文化博物館草地起火　警拘一男涉縱火",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260209/1097383067292536832380496.jpeg/u-4wAxBXlQlnwiKP1_J4qMglxHqm5XM1q7cKbau3Cm0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60320465/%E9%AB%98%E5%B7%BF%E6%97%A9%E8%8B%97%E7%A8%B1%E6%97%A5%E7%BE%8E%E5%90%8C%E7%9B%9F%E6%BD%9B%E5%8A%9B%E7%84%A1%E9%99%90-%E8%B2%9D%E6%A3%AE%E7%89%B9-%E9%AB%98%E5%B7%BF%E6%98%AF%E5%81%89%E5%A4%A7%E7%9B%9F%E5%8F%8B",
     "timestamp": "2026-02-08T20:31:33.319Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "英超｜曼城作客2：1勝利物浦　夏蘭特補時奠勝",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260209/1097356170290532352723904.jpeg/JXfwDIbnESU_4Fl4Y4gEWFX34F_bacflgh4wsYIeMLE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60320459/%E8%8B%B1%E8%B6%85-%E6%9B%BC%E5%9F%8E%E4%BD%9C%E5%AE%A22-1%E5%8B%9D%E5%88%A9%E7%89%A9%E6%B5%A6-%E5%A4%8F%E8%98%AD%E7%89%B9%E8%A3%9C%E6%99%82%E5%A5%A0%E5%8B%9D",
-    "timestamp": "2026-02-08T20:14:16.276Z",
     "strategy": ".content-card__main"
   }
 ];
