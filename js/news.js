@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-09T22:52:34.814Z
+// Last updated: 2026-02-09T23:22:18.475Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "建生邨冷氣機去水喉工程　房委會投｢關鍵一票｣通過：評估多項因素",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260210/1097785642097577984374015.jpeg/IKKFawoNY11FOow4YxuCu0N8rLOX1GpNpcWv6qXFr-o?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60320816/%E5%BB%BA%E7%94%9F%E9%82%A8%E5%86%B7%E6%B0%A3%E6%A9%9F%E5%8E%BB%E6%B0%B4%E5%96%89%E5%B7%A5%E7%A8%8B-%E6%88%BF%E5%A7%94%E6%9C%83%E6%8A%95-%E9%97%9C%E9%8D%B5%E4%B8%80%E7%A5%A8-%E9%80%9A%E9%81%8E-%E8%A9%95%E4%BC%B0%E5%A4%9A%E9%A0%85%E5%9B%A0%E7%B4%A0",
+    "timestamp": "2026-02-09T23:22:18.475Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "58歲周慧敏走過出軌風波勁靚女　北上名氣大隱退後復出春晚綵排",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260206/1096541702153310208214895.jpeg/75xOZhzoKnidzZuozgJY-z1zMqjsOuJkPbUqUD21KlA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60320782/%E5%B1%AF%E9%96%80%E4%BA%95%E9%A0%AD%E4%B8%AD%E6%9D%91%E7%94%B7%E5%AD%90%E5%80%92%E6%96%83%E5%B1%8B%E5%85%A7-%E9%A0%AD%E9%83%A8%E6%9C%89%E5%82%B7-%E8%AD%A6%E8%AA%BF%E6%9F%A5%E6%9C%89%E5%90%A6%E5%8F%AF%E7%96%91",
     "timestamp": "2026-02-09T12:34:43.705Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "主教山僭建｜芳姐拒地政總署拆毛澤東像　石上企8小時　離場灑淚",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260209/1097609004378492928243560.jpeg/oZC15cnbj0fm1MdEetqSymdwcL48b28w3a4wiN2uMIg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60320772/%E4%B8%BB%E6%95%99%E5%B1%B1%E5%83%AD%E5%BB%BA-%E8%8A%B3%E5%A7%90%E6%8B%92%E5%9C%B0%E6%94%BF%E7%B8%BD%E7%BD%B2%E6%8B%86%E6%AF%9B%E6%BE%A4%E6%9D%B1%E5%83%8F-%E7%9F%B3%E4%B8%8A%E4%BC%818%E5%B0%8F%E6%99%82-%E9%9B%A2%E5%A0%B4%E7%81%91%E6%B7%9A",
-    "timestamp": "2026-02-09T12:04:40.357Z",
     "strategy": ".content-card__main"
   }
 ];
