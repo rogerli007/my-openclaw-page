@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-09T13:01:48.878Z
+// Last updated: 2026-02-09T13:43:42.243Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "愛潑斯坦｜受文德森所累　英國高官接連辭職　施紀賢：無計劃下台",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250203/963092551068291072839241.jpeg/_IcQQ1U1g9_pXpBwP1Y6HbvPharC5P1fxHDjksRw45I?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60320791/%E6%84%9B%E6%BD%91%E6%96%AF%E5%9D%A6-%E5%8F%97%E6%96%87%E5%BE%B7%E6%A3%AE%E6%89%80%E7%B4%AF-%E8%8B%B1%E5%9C%8B%E9%AB%98%E5%AE%98%E6%8E%A5%E9%80%A3%E8%BE%AD%E8%81%B7-%E6%96%BD%E7%B4%80%E8%B3%A2-%E7%84%A1%E8%A8%88%E5%8A%83%E4%B8%8B%E5%8F%B0",
+    "timestamp": "2026-02-09T13:43:42.243Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "港鐵油塘站乘客拖篋搭扶手梯　失平衡向後跌再撞低3人",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260209/1097468231439880192701895.jpeg/fGDHsfsAON2rbnM-FptVPqPOmyTLzNJLUPAJvlDwCb4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60320480/%E4%B8%BB%E6%95%99%E5%B1%B1%E5%83%AD%E5%BB%BA-%E7%A7%BB%E6%AF%9B%E6%BE%A4%E6%9D%B1%E5%83%8F%E6%9C%80%E5%BE%8C%E9%99%90%E6%9C%9F-%E6%89%93%E7%90%86%E4%BA%BA%E8%8A%B3%E5%A7%90%E9%98%BB%E5%9C%B0%E6%94%BF-%E4%BD%A0%E5%92%AA%E6%8B%89%E6%88%91%E5%9B%89",
     "timestamp": "2026-02-09T02:25:21.804Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "高盛警告美股拋售尚未結束　若標指失此關或致800億美元",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20251017/1055875744955109376304867.jpeg/xDpXLLEFEIPYDFv5lDYAcicnK4RDcbLSEprTYBKa02A?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60320487/%E9%AB%98%E7%9B%9B%E8%AD%A6%E5%91%8A%E7%BE%8E%E8%82%A1%E6%8B%8B%E5%94%AE%E5%B0%9A%E6%9C%AA%E7%B5%90%E6%9D%9F-%E8%8B%A5%E6%A8%99%E6%8C%87%E5%A4%B1%E6%AD%A4%E9%97%9C%E6%88%96%E8%87%B4800%E5%84%84%E7%BE%8E%E5%85%83",
-    "timestamp": "2026-02-09T01:20:58.827Z",
     "strategy": ".content-card__main"
   }
 ];
