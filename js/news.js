@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-09T12:34:43.705Z
+// Last updated: 2026-02-09T13:01:48.878Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "港鐵油塘站乘客拖篋搭扶手梯　失平衡向後跌再撞低3人",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260209/1097632797134295040830795.jpeg/umDSsqyFYpilq_7fDaLWYB44byXG1W2s7ryN4e68jeE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60320786/%E6%B8%AF%E9%90%B5%E6%B2%B9%E5%A1%98%E7%AB%99%E4%B9%98%E5%AE%A2%E6%8B%96%E7%AF%8B%E6%90%AD%E6%89%B6%E6%89%8B%E6%A2%AF-%E5%A4%B1%E5%B9%B3%E8%A1%A1%E5%90%91%E5%BE%8C%E8%B7%8C%E5%86%8D%E6%92%9E%E4%BD%8E3%E4%BA%BA",
+    "timestamp": "2026-02-09T13:01:48.878Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "屯門井頭中村男子倒斃屋內　頭部有傷　警調查有否可疑",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20251017/1055875744955109376304867.jpeg/xDpXLLEFEIPYDFv5lDYAcicnK4RDcbLSEprTYBKa02A?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60320487/%E9%AB%98%E7%9B%9B%E8%AD%A6%E5%91%8A%E7%BE%8E%E8%82%A1%E6%8B%8B%E5%94%AE%E5%B0%9A%E6%9C%AA%E7%B5%90%E6%9D%9F-%E8%8B%A5%E6%A8%99%E6%8C%87%E5%A4%B1%E6%AD%A4%E9%97%9C%E6%88%96%E8%87%B4800%E5%84%84%E7%BE%8E%E5%85%83",
     "timestamp": "2026-02-09T01:20:58.827Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普：習近平將於今年底前訪問美國",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/cis/5d26f2f044631e73a85dd862.jpg/dp4ZjdfaYykbyFK8DojguOsBUJy6vRauOMHXKDjB1yg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60320485/%E7%89%B9%E6%9C%97%E6%99%AE-%E7%BF%92%E8%BF%91%E5%B9%B3%E5%B0%87%E6%96%BC%E4%BB%8A%E5%B9%B4%E5%BA%95%E5%89%8D%E8%A8%AA%E5%95%8F%E7%BE%8E%E5%9C%8B",
-    "timestamp": "2026-02-09T00:47:13.806Z",
     "strategy": ".content-card__main"
   }
 ];
