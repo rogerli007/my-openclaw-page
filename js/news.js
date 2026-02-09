@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-09T09:12:05.059Z
+// Last updated: 2026-02-09T09:43:21.317Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "香港電訊末期分派47.97仙　全年分派增3.8%至81.77分",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20200603/344910400711692288.jpeg/MWCKkzuWkcMV9z3weI-ChtYtyo0BOrD0AX8GGgF_Bho?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60320738/%E9%A6%99%E6%B8%AF%E9%9B%BB%E8%A8%8A%E6%9C%AB%E6%9C%9F%E5%88%86%E6%B4%BE47-97%E4%BB%99-%E5%85%A8%E5%B9%B4%E5%88%86%E6%B4%BE%E5%A2%9E3-8-%E8%87%B381-77%E5%88%86",
+    "timestamp": "2026-02-09T09:43:21.317Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "重返青春劇情｜最新追劇日曆/播出時間+演員關係圖+角色簡介",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260208/1097300807780405248326591.jpeg/MC1f0W6OOyEZaBDlx1NBEf17dRQVCb7c-L6MWPi-jFg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60320376/%E8%83%A1%E6%A5%9394%E6%AD%B2%E5%9C%88%E4%B8%AD%E7%95%B0%E6%80%A7%E7%B7%A3%E5%BC%B7%E5%8B%81-71%E6%AD%B2%E8%82%A5%E5%AA%BD%E6%BF%80%E5%92%80%E5%A1%8A%E9%9D%A2%E8%BF%BD%E6%B1%82%E8%AA%8D%E5%81%9A-%E7%94%B7%E5%8F%8B",
     "timestamp": "2026-02-08T22:14:29.421Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "華荔邨單位天花燈起火　男鄰居協助撲救　與女戶主同吸入濃煙不適",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260209/1097386748868562944219078.jpeg/bvw0TkgeCpKAa-sn7lEF1YtIXM6FyA20KufVBA_n1QQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60320467/%E8%8F%AF%E8%8D%94%E9%82%A8%E5%96%AE%E4%BD%8D%E5%A4%A9%E8%8A%B1%E7%87%88%E8%B5%B7%E7%81%AB-%E7%94%B7%E9%84%B0%E5%B1%85%E5%8D%94%E5%8A%A9%E6%92%B2%E6%95%91-%E8%88%87%E5%A5%B3%E6%88%B6%E4%B8%BB%E5%90%8C%E5%90%B8%E5%85%A5%E6%BF%83%E7%85%99%E4%B8%8D%E9%81%A9",
-    "timestamp": "2026-02-08T21:59:11.134Z",
     "strategy": ".content-card__main"
   }
 ];
