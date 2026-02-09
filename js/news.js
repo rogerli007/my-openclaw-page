@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-09T03:37:20.344Z
+// Last updated: 2026-02-09T04:40:08.030Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "泰國大選｜泰自豪黨成為「大贏家」　學者指因邊境衝突與地方深耕",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260208/1097060369328771072860397.jpeg/ExQ_pq3zl5xH-xgZ0yt0iPZopCPTUOPTcyXJGXMlyRk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%9C%8B%E9%9A%9B%E5%88%86%E6%9E%90/60320552/%E6%B3%B0%E5%9C%8B%E5%A4%A7%E9%81%B8-%E6%B3%B0%E8%87%AA%E8%B1%AA%E9%BB%A8%E6%88%90%E7%82%BA-%E5%A4%A7%E8%B4%8F%E5%AE%B6-%E5%AD%B8%E8%80%85%E6%8C%87%E5%9B%A0%E9%82%8A%E5%A2%83%E8%A1%9D%E7%AA%81%E8%88%87%E5%9C%B0%E6%96%B9%E6%B7%B1%E8%80%95",
+    "timestamp": "2026-02-09T04:40:08.030Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "特朗普推美國優先武器戰略　內地學者指為擴大對台軍售鋪路",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260209/1097356170290532352723904.jpeg/JXfwDIbnESU_4Fl4Y4gEWFX34F_bacflgh4wsYIeMLE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60320459/%E8%8B%B1%E8%B6%85-%E6%9B%BC%E5%9F%8E%E4%BD%9C%E5%AE%A22-1%E5%8B%9D%E5%88%A9%E7%89%A9%E6%B5%A6-%E5%A4%8F%E8%98%AD%E7%89%B9%E8%A3%9C%E6%99%82%E5%A5%A0%E5%8B%9D",
     "timestamp": "2026-02-08T19:46:51.978Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "英超｜曼城作客2：1勝利物浦　夏蘭特補時奠勝",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260209/1097356170290532352723904.jpeg/JXfwDIbnESU_4Fl4Y4gEWFX34F_bacflgh4wsYIeMLE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60320459/%E8%8B%B1%E8%B6%85-%E6%9B%BC%E5%9F%8E%E4%BD%9C%E5%AE%A22-1%E5%8B%9D%E5%88%A9%E7%89%A9%E6%B5%A6-%E5%A4%8F%E8%98%AD%E7%89%B9%E8%A3%9C%E6%99%82%E5%A5%A0%E5%8B%9D",
-    "timestamp": "2026-02-08T19:33:24.861Z",
     "strategy": ".content-card__main"
   }
 ];
