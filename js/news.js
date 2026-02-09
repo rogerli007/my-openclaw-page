@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-09T20:53:12.119Z
+// Last updated: 2026-02-09T21:22:44.507Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "愛潑斯坦案｜英王對安德魯醜聞表關切　白金漢宮：將支持警方調查",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260210/1097744659360256000126780.jpeg/enLrA9Rel7PbgiNB0yf9lJBtO4FmccxjPxwKdT8cCnU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60320830/%E6%84%9B%E6%BD%91%E6%96%AF%E5%9D%A6%E6%A1%88-%E8%8B%B1%E7%8E%8B%E5%B0%8D%E5%AE%89%E5%BE%B7%E9%AD%AF%E9%86%9C%E8%81%9E%E8%A1%A8%E9%97%9C%E5%88%87-%E7%99%BD%E9%87%91%E6%BC%A2%E5%AE%AE-%E5%B0%87%E6%94%AF%E6%8C%81%E8%AD%A6%E6%96%B9%E8%AA%BF%E6%9F%A5",
+    "timestamp": "2026-02-09T21:22:44.507Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "愛潑斯坦案｜英王對安德魯醜聞表關切　白金漢宮：將支持警方調查",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260130/1093973751302721536074659.jpeg/nA7o0JZBgw-LoGjFXqEXmM-qOqG7UbV9Z4yqIGeMqiA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60320697/%E5%AE%8F%E7%A6%8F%E7%81%AB-%E6%94%BF%E5%BA%9C%E5%80%A1%E6%A5%AD%E4%B8%BB%E6%8E%88%E6%AC%8A%E7%A5%A8%E8%A8%AD%E4%B8%8A%E9%99%90-%E6%B0%91%E5%BB%BA%E8%81%AF%E8%91%89%E5%82%B2%E5%86%AC%E6%86%82%E7%AA%92%E7%A4%99%E6%B3%95%E5%9C%98%E9%96%8B%E6%9C%83",
     "timestamp": "2026-02-09T10:43:00.668Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "Bithumb誤派62萬枚Bitcoin　路透︰韓監管機構要從嚴管理幽靈幣",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20241121/936057949745451008260345.jpeg/uowbfVykZhyI-JGifcSSqEg0qNXTrKRVLidnzS4nZ80?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60320751/bithumb%E8%AA%A4%E6%B4%BE62%E8%90%AC%E6%9E%9Abitcoin-%E8%B7%AF%E9%80%8F-%E9%9F%93%E7%9B%A3%E7%AE%A1%E6%A9%9F%E6%A7%8B%E8%A6%81%E5%BE%9E%E5%9A%B4%E7%AE%A1%E7%90%86%E5%B9%BD%E9%9D%88%E5%B9%A3",
-    "timestamp": "2026-02-09T10:15:08.994Z",
     "strategy": ".content-card__main"
   }
 ];
