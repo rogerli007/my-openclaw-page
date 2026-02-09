@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-09T14:17:20.179Z
+// Last updated: 2026-02-09T14:44:13.817Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "威廉凱特首度就安德魯涉愛潑斯坦案發聲：感擔憂　始終牽掛受害者",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260209/1097654847366238208982407.jpeg/EYikdci0c6srVRc12O8pzmcvYFXTR2o51A_Ax9QPwMc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60320797/%E5%A8%81%E5%BB%89%E5%87%B1%E7%89%B9%E9%A6%96%E5%BA%A6%E5%B0%B1%E5%AE%89%E5%BE%B7%E9%AD%AF%E6%B6%89%E6%84%9B%E6%BD%91%E6%96%AF%E5%9D%A6%E6%A1%88%E7%99%BC%E8%81%B2-%E6%84%9F%E6%93%94%E6%86%82-%E5%A7%8B%E7%B5%82%E7%89%BD%E6%8E%9B%E5%8F%97%E5%AE%B3%E8%80%85",
+    "timestamp": "2026-02-09T14:44:13.817Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "殿堂級女星拖買餸車仔辦年貨　網民大讚貼地仲話個樣好好笑",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260208/1097060369328771072860397.jpeg/ExQ_pq3zl5xH-xgZ0yt0iPZopCPTUOPTcyXJGXMlyRk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%9C%8B%E9%9A%9B%E5%88%86%E6%9E%90/60320552/%E6%B3%B0%E5%9C%8B%E5%A4%A7%E9%81%B8-%E6%B3%B0%E8%87%AA%E8%B1%AA%E9%BB%A8%E6%88%90%E7%82%BA-%E5%A4%A7%E8%B4%8F%E5%AE%B6-%E5%AD%B8%E8%80%85%E6%8C%87%E5%9B%A0%E9%82%8A%E5%A2%83%E8%A1%9D%E7%AA%81%E8%88%87%E5%9C%B0%E6%96%B9%E6%B7%B1%E8%80%95",
     "timestamp": "2026-02-09T04:40:08.030Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普推美國優先武器戰略　內地學者指為擴大對台軍售鋪路",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250906/1040860912296136704837041.jpeg/42w7pyNlab7560crnsKFjIRvLlwcncyl3f4PgN3-D4A?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60320549/%E7%89%B9%E6%9C%97%E6%99%AE%E6%8E%A8%E7%BE%8E%E5%9C%8B%E5%84%AA%E5%85%88%E6%AD%A6%E5%99%A8%E6%88%B0%E7%95%A5-%E5%85%A7%E5%9C%B0%E5%AD%B8%E8%80%85%E6%8C%87%E7%82%BA%E6%93%B4%E5%A4%A7%E5%B0%8D%E5%8F%B0%E8%BB%8D%E5%94%AE%E9%8B%AA%E8%B7%AF",
-    "timestamp": "2026-02-09T03:37:20.344Z",
     "strategy": ".content-card__main"
   }
 ];
