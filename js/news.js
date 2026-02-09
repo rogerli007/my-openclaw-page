@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-09T08:09:03.590Z
+// Last updated: 2026-02-09T08:37:38.604Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "華懋慈善基金向商人借錢4千萬打官司案　就利率計算准上訴終院",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20220118/560190091956457472823517.jpeg/XW60FoNxxrOO96eWqLU2yuryAGsgbyJ8QpCUmGeQlJg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60320693/%E8%8F%AF%E6%87%8B%E6%85%88%E5%96%84%E5%9F%BA%E9%87%91%E5%90%91%E5%95%86%E4%BA%BA%E5%80%9F%E9%8C%A24%E5%8D%83%E8%90%AC%E6%89%93%E5%AE%98%E5%8F%B8%E6%A1%88-%E5%B0%B1%E5%88%A9%E7%8E%87%E8%A8%88%E7%AE%97%E5%87%86%E4%B8%8A%E8%A8%B4%E7%B5%82%E9%99%A2",
+    "timestamp": "2026-02-09T08:37:38.604Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "婆婆心臟驟停！護士趕搶救　同房病人家屬1句惹公憤　網民：自私",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260209/1097385601612648448825631.jpeg/U2Zwh-W26bRI9zeubS0cJGicoianhKegDR5rBigeawY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60320467/%E8%8F%AF%E8%8D%94%E9%82%A8%E5%96%AE%E4%BD%8D%E5%A4%A9%E8%8A%B1%E7%87%88%E8%B5%B7%E7%81%AB-%E7%94%B7%E9%84%B0%E5%B1%85%E5%8D%94%E5%8A%A9%E6%92%B2%E6%95%91-%E8%88%87%E5%A5%B3%E6%88%B6%E4%B8%BB%E5%90%8C%E5%90%B8%E5%85%A5%E6%BF%83%E7%85%99%E4%B8%8D%E9%81%A9",
     "timestamp": "2026-02-08T21:34:52.251Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "華荔邨單位天花燈起火　男鄰居協助撲救　與女戶主同吸入濃煙不適",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260209/1097385601612648448825631.jpeg/U2Zwh-W26bRI9zeubS0cJGicoianhKegDR5rBigeawY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60320467/%E8%8F%AF%E8%8D%94%E9%82%A8%E5%96%AE%E4%BD%8D%E5%A4%A9%E8%8A%B1%E7%87%88%E8%B5%B7%E7%81%AB-%E7%94%B7%E9%84%B0%E5%B1%85%E5%8D%94%E5%8A%A9%E6%92%B2%E6%95%91-%E8%88%87%E5%A5%B3%E6%88%B6%E4%B8%BB%E5%90%8C%E5%90%B8%E5%85%A5%E6%BF%83%E7%85%99%E4%B8%8D%E9%81%A9",
-    "timestamp": "2026-02-08T21:17:50.994Z",
     "strategy": ".content-card__main"
   }
 ];
