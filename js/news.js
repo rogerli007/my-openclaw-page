@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-09T00:47:13.806Z
+// Last updated: 2026-02-09T01:20:58.827Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "高盛警告美股拋售尚未結束　若標指失此關或致800億美元",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20251017/1055875744955109376304867.jpeg/xDpXLLEFEIPYDFv5lDYAcicnK4RDcbLSEprTYBKa02A?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60320487/%E9%AB%98%E7%9B%9B%E8%AD%A6%E5%91%8A%E7%BE%8E%E8%82%A1%E6%8B%8B%E5%94%AE%E5%B0%9A%E6%9C%AA%E7%B5%90%E6%9D%9F-%E8%8B%A5%E6%A8%99%E6%8C%87%E5%A4%B1%E6%AD%A4%E9%97%9C%E6%88%96%E8%87%B4800%E5%84%84%E7%BE%8E%E5%85%83",
+    "timestamp": "2026-02-09T01:20:58.827Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "特朗普：習近平將於今年底前訪問美國",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250204/963438597011410944619348.jpeg/gwZSGYYFK3INnAjMcircA1VLy76oBySoyATZ48gE2eM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60320456/%E5%B0%96%E6%B2%99%E5%92%80%E9%85%92%E5%BA%97%E5%A4%96%E7%B6%B2%E7%B4%84%E8%BB%8A%E7%96%91%E9%81%B2%E5%88%B0%E6%8E%80%E7%B3%BE%E7%B4%9B-%E5%8F%B8%E6%A9%9F%E6%B6%89%E6%89%93%E5%82%B7%E9%9B%99%E7%A8%8B%E8%AD%89%E5%AE%A2%E5%BE%8C%E9%96%8B%E8%BB%8A%E9%80%83%E5%8E%BB",
     "timestamp": "2026-02-08T18:52:21.158Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "尖沙咀酒店外網約車疑遲到掀糾紛　司機涉打傷雙程證客後開車逃去",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250204/963438597011410944619348.jpeg/gwZSGYYFK3INnAjMcircA1VLy76oBySoyATZ48gE2eM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60320456/%E5%B0%96%E6%B2%99%E5%92%80%E9%85%92%E5%BA%97%E5%A4%96%E7%B6%B2%E7%B4%84%E8%BB%8A%E7%96%91%E9%81%B2%E5%88%B0%E6%8E%80%E7%B3%BE%E7%B4%9B-%E5%8F%B8%E6%A9%9F%E6%B6%89%E6%89%93%E5%82%B7%E9%9B%99%E7%A8%8B%E8%AD%89%E5%AE%A2%E5%BE%8C%E9%96%8B%E8%BB%8A%E9%80%83%E5%8E%BB",
-    "timestamp": "2026-02-08T18:19:59.769Z",
     "strategy": ".content-card__main"
   }
 ];
