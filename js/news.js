@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-09T04:40:08.030Z
+// Last updated: 2026-02-09T05:24:47.601Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "工人不滿被妻拒性交　鞋帶綁妻手兼見妻泛淚光下施暴　判囚6年",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260209/1097516998255972352503691.jpeg/Oy2p2GSry_iqEMc_RhpHm4ulhoxaDhJ5tpNOlraTTpY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60320584/%E5%B7%A5%E4%BA%BA%E4%B8%8D%E6%BB%BF%E8%A2%AB%E5%A6%BB%E6%8B%92%E6%80%A7%E4%BA%A4-%E9%9E%8B%E5%B8%B6%E7%B6%81%E5%A6%BB%E6%89%8B%E5%85%BC%E8%A6%8B%E5%A6%BB%E6%B3%9B%E6%B7%9A%E5%85%89%E4%B8%8B%E6%96%BD%E6%9A%B4-%E5%88%A4%E5%9B%9A6%E5%B9%B4",
+    "timestamp": "2026-02-09T05:24:47.601Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "泰國大選｜泰自豪黨成為「大贏家」　學者指因邊境衝突與地方深耕",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260209/1097356170290532352723904.jpeg/JXfwDIbnESU_4Fl4Y4gEWFX34F_bacflgh4wsYIeMLE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60320459/%E8%8B%B1%E8%B6%85-%E6%9B%BC%E5%9F%8E%E4%BD%9C%E5%AE%A22-1%E5%8B%9D%E5%88%A9%E7%89%A9%E6%B5%A6-%E5%A4%8F%E8%98%AD%E7%89%B9%E8%A3%9C%E6%99%82%E5%A5%A0%E5%8B%9D",
     "timestamp": "2026-02-08T19:58:19.597Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "英超｜曼城作客2：1勝利物浦　夏蘭特補時奠勝",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260209/1097356170290532352723904.jpeg/JXfwDIbnESU_4Fl4Y4gEWFX34F_bacflgh4wsYIeMLE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60320459/%E8%8B%B1%E8%B6%85-%E6%9B%BC%E5%9F%8E%E4%BD%9C%E5%AE%A22-1%E5%8B%9D%E5%88%A9%E7%89%A9%E6%B5%A6-%E5%A4%8F%E8%98%AD%E7%89%B9%E8%A3%9C%E6%99%82%E5%A5%A0%E5%8B%9D",
-    "timestamp": "2026-02-08T19:46:51.978Z",
     "strategy": ".content-card__main"
   }
 ];
