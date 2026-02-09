@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-09T21:52:42.573Z
+// Last updated: 2026-02-09T22:21:07.128Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "李龍基不滿被歐錦棠消費　反擊臨時推劇指控因一事決定不合作為妙",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260209/1097654843251625984896354.jpeg/jLFUOl6kCdUobgHbZ6Y4KUgBPz0H_lQfVYmQklWJkJI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60320777/%E6%9D%8E%E9%BE%8D%E5%9F%BA%E4%B8%8D%E6%BB%BF%E8%A2%AB%E6%AD%90%E9%8C%A6%E6%A3%A0%E6%B6%88%E8%B2%BB-%E5%8F%8D%E6%93%8A%E8%87%A8%E6%99%82%E6%8E%A8%E5%8A%87%E6%8C%87%E6%8E%A7%E5%9B%A0%E4%B8%80%E4%BA%8B%E6%B1%BA%E5%AE%9A%E4%B8%8D%E5%90%88%E4%BD%9C%E7%82%BA%E5%A6%99",
+    "timestamp": "2026-02-09T22:21:07.128Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美媒：特朗普將於4月首周訪華",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260126/1092524960888393728019578.jpeg/glFgY4fie3dU3e3IVNGBa-7JkcwhjaDwUpu2plKbtqY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%AB%87%E6%83%85%E8%AA%AA%E6%80%A7/60316360/%E5%B7%B4%E9%88%BA13%E5%B9%B4%E5%A9%9A%E5%A7%BB%E6%9B%BE%E9%99%B7%E4%BD%8E%E6%BD%AE-%E5%91%BC%E5%90%B8%E9%83%BD%E8%A8%8E%E5%8E%AD-%E6%83%B3%E9%9B%A2%E5%A9%9A-%E9%9D%A0%E7%94%9F%E7%90%86%E6%9C%AC%E8%83%BD%E6%89%BE%E5%9B%9E%E6%84%9B",
     "timestamp": "2026-02-09T11:37:51.324Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "米蘭冬奧會獲國際奧委會主席讚「最智能」　中國科技支撐功不可沒",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260208/1097138850515390464408735.jpeg/nDlY5slUtUBCKZ0vR0hu_dsiFN3vijSzXcqPA13KjwM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E4%B8%96%E7%95%8C%E5%B0%88%E9%A1%8C/60320678/%E7%B1%B3%E8%98%AD%E5%86%AC%E5%A5%A7%E6%9C%83%E7%8D%B2%E5%9C%8B%E9%9A%9B%E5%A5%A7%E5%A7%94%E6%9C%83%E4%B8%BB%E5%B8%AD%E8%AE%9A-%E6%9C%80%E6%99%BA%E8%83%BD-%E4%B8%AD%E5%9C%8B%E7%A7%91%E6%8A%80%E6%94%AF%E6%92%90%E5%8A%9F%E4%B8%8D%E5%8F%AF%E6%B2%92",
-    "timestamp": "2026-02-09T11:12:43.445Z",
     "strategy": ".content-card__main"
   }
 ];
