@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-09T15:41:01.700Z
+// Last updated: 2026-02-09T16:12:47.285Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "山東招遠一金礦發生墜罐事故　造成7人死亡",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260209/1097680322557906944857096.jpeg/IRgZsNEwDMH-OF0kFWKZsgklofUtZRCi1vb7MNb2-zA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60320817/%E5%B1%B1%E6%9D%B1%E6%8B%9B%E9%81%A0%E4%B8%80%E9%87%91%E7%A4%A6%E7%99%BC%E7%94%9F%E5%A2%9C%E7%BD%90%E4%BA%8B%E6%95%85-%E9%80%A0%E6%88%907%E4%BA%BA%E6%AD%BB%E4%BA%A1",
+    "timestamp": "2026-02-09T16:12:47.285Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美知名主持人爆「內幕」︰比特幣跌至6萬　特朗普便會填滿儲備",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260113/1087553794948337664596034.jpeg/Twwd7VTImHlFdZrDHxndpYJLRVJIhf1zfRLyjFgS8ow?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60320623/%E8%98%AD%E8%8A%B1%E5%85%A5%E5%A2%83-%E6%BC%81%E8%AD%B7%E7%BD%B2-%E5%8B%BF%E5%B8%B6%E6%88%96%E7%B6%B2%E8%B3%BC%E6%B2%92%E8%A8%B1%E5%8F%AF%E8%AD%89%E7%80%95%E5%8D%B1%E5%8B%95%E6%A4%8D%E7%89%A9-%E9%AB%98%E5%8D%B1%E7%89%A9%E7%A8%AE%E4%B8%80%E8%A6%BD",
     "timestamp": "2026-02-09T06:41:02.476Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "香港故宮文化博物館草地起火　警拘一男涉縱火",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250708/1019289424954920960457096.jpeg/Uu2mcqa9zatbxqbuyuWvmML9mVQNIrzcxayycMWssnA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60320603/%E9%A6%99%E6%B8%AF%E6%95%85%E5%AE%AE%E6%96%87%E5%8C%96%E5%8D%9A%E7%89%A9%E9%A4%A8%E8%8D%89%E5%9C%B0%E8%B5%B7%E7%81%AB-%E8%AD%A6%E6%8B%98%E4%B8%80%E7%94%B7%E6%B6%89%E7%B8%B1%E7%81%AB",
-    "timestamp": "2026-02-09T06:01:35.709Z",
     "strategy": ".content-card__main"
   }
 ];
