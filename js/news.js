@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-09T14:44:13.817Z
+// Last updated: 2026-02-09T15:12:43.260Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "黎智英判囚｜政府：強烈譴責外部勢力污衊抹黑法庭判刑",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260209/1097460569516150784043817.jpeg/3oPSAp0ZsS5MQ7opNV5dpC2SlykFpYCV3kc1XN5HNVw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60320803/%E9%BB%8E%E6%99%BA%E8%8B%B1%E5%88%A4%E5%9B%9A-%E6%94%BF%E5%BA%9C-%E5%BC%B7%E7%83%88%E8%AD%B4%E8%B2%AC%E5%A4%96%E9%83%A8%E5%8B%A2%E5%8A%9B%E6%B1%A1%E8%A1%8A%E6%8A%B9%E9%BB%91%E6%B3%95%E5%BA%AD%E5%88%A4%E5%88%91",
+    "timestamp": "2026-02-09T15:12:43.260Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "威廉凱特首度就安德魯涉愛潑斯坦案發聲：感擔憂　始終牽掛受害者",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260209/1097516998255972352503691.jpeg/Oy2p2GSry_iqEMc_RhpHm4ulhoxaDhJ5tpNOlraTTpY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60320584/%E5%B7%A5%E4%BA%BA%E4%B8%8D%E6%BB%BF%E8%A2%AB%E5%A6%BB%E6%8B%92%E6%80%A7%E4%BA%A4-%E9%9E%8B%E5%B8%B6%E7%B6%81%E5%A6%BB%E6%89%8B%E5%85%BC%E8%A6%8B%E5%A6%BB%E6%B3%9B%E6%B7%9A%E5%85%89%E4%B8%8B%E6%96%BD%E6%9A%B4-%E5%88%A4%E5%9B%9A6%E5%B9%B4",
     "timestamp": "2026-02-09T05:24:47.601Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "泰國大選｜泰自豪黨成為「大贏家」　學者指因邊境衝突與地方深耕",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260208/1097060369328771072860397.jpeg/ExQ_pq3zl5xH-xgZ0yt0iPZopCPTUOPTcyXJGXMlyRk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%9C%8B%E9%9A%9B%E5%88%86%E6%9E%90/60320552/%E6%B3%B0%E5%9C%8B%E5%A4%A7%E9%81%B8-%E6%B3%B0%E8%87%AA%E8%B1%AA%E9%BB%A8%E6%88%90%E7%82%BA-%E5%A4%A7%E8%B4%8F%E5%AE%B6-%E5%AD%B8%E8%80%85%E6%8C%87%E5%9B%A0%E9%82%8A%E5%A2%83%E8%A1%9D%E7%AA%81%E8%88%87%E5%9C%B0%E6%96%B9%E6%B7%B1%E8%80%95",
-    "timestamp": "2026-02-09T04:40:08.030Z",
     "strategy": ".content-card__main"
   }
 ];
