@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-09T05:24:47.601Z
+// Last updated: 2026-02-09T06:01:35.709Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "香港故宮文化博物館草地起火　警拘一男涉縱火",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250708/1019289424954920960457096.jpeg/Uu2mcqa9zatbxqbuyuWvmML9mVQNIrzcxayycMWssnA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60320603/%E9%A6%99%E6%B8%AF%E6%95%85%E5%AE%AE%E6%96%87%E5%8C%96%E5%8D%9A%E7%89%A9%E9%A4%A8%E8%8D%89%E5%9C%B0%E8%B5%B7%E7%81%AB-%E8%AD%A6%E6%8B%98%E4%B8%80%E7%94%B7%E6%B6%89%E7%B8%B1%E7%81%AB",
+    "timestamp": "2026-02-09T06:01:35.709Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "工人不滿被妻拒性交　鞋帶綁妻手兼見妻泛淚光下施暴　判囚6年",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260209/1097356170290532352723904.jpeg/JXfwDIbnESU_4Fl4Y4gEWFX34F_bacflgh4wsYIeMLE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60320459/%E8%8B%B1%E8%B6%85-%E6%9B%BC%E5%9F%8E%E4%BD%9C%E5%AE%A22-1%E5%8B%9D%E5%88%A9%E7%89%A9%E6%B5%A6-%E5%A4%8F%E8%98%AD%E7%89%B9%E8%A3%9C%E6%99%82%E5%A5%A0%E5%8B%9D",
     "timestamp": "2026-02-08T20:14:16.276Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "英超｜曼城作客2：1勝利物浦　夏蘭特補時奠勝",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260209/1097356170290532352723904.jpeg/JXfwDIbnESU_4Fl4Y4gEWFX34F_bacflgh4wsYIeMLE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60320459/%E8%8B%B1%E8%B6%85-%E6%9B%BC%E5%9F%8E%E4%BD%9C%E5%AE%A22-1%E5%8B%9D%E5%88%A9%E7%89%A9%E6%B5%A6-%E5%A4%8F%E8%98%AD%E7%89%B9%E8%A3%9C%E6%99%82%E5%A5%A0%E5%8B%9D",
-    "timestamp": "2026-02-08T19:58:19.597Z",
     "strategy": ".content-card__main"
   }
 ];
