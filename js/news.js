@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-09T13:43:42.243Z
+// Last updated: 2026-02-09T14:17:20.179Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "殿堂級女星拖買餸車仔辦年貨　網民大讚貼地仲話個樣好好笑",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260209/1097580818324262912608245.jpeg/R49PkNWDzEGEfVSCQ9XXeIMxlhmf9PBgRGZXnkRmV54?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60320711/%E6%B1%AA%E6%98%8E%E8%8D%83%E4%B8%8D%E6%96%BD%E8%84%82%E7%B2%89%E6%8B%96%E8%B2%B7%E9%A4%B8%E8%BB%8A%E4%BB%94%E8%BE%A6%E5%B9%B4%E8%B2%A8-%E7%B6%B2%E6%B0%91%E5%A4%A7%E8%AE%9A%E8%B2%BC%E5%9C%B0%E4%BB%B2%E8%A9%B1%E5%80%8B%E6%A8%A3%E5%A5%BD%E5%A5%BD%E7%AC%91",
+    "timestamp": "2026-02-09T14:17:20.179Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "愛潑斯坦｜受文德森所累　英國高官接連辭職　施紀賢：無計劃下台",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250906/1040860912296136704837041.jpeg/42w7pyNlab7560crnsKFjIRvLlwcncyl3f4PgN3-D4A?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60320549/%E7%89%B9%E6%9C%97%E6%99%AE%E6%8E%A8%E7%BE%8E%E5%9C%8B%E5%84%AA%E5%85%88%E6%AD%A6%E5%99%A8%E6%88%B0%E7%95%A5-%E5%85%A7%E5%9C%B0%E5%AD%B8%E8%80%85%E6%8C%87%E7%82%BA%E6%93%B4%E5%A4%A7%E5%B0%8D%E5%8F%B0%E8%BB%8D%E5%94%AE%E9%8B%AA%E8%B7%AF",
     "timestamp": "2026-02-09T03:37:20.344Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "主教山僭建｜移毛澤東像最後限期　打理人芳姐阻地政：你咪拉我囉",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260209/1097468231439880192701895.jpeg/fGDHsfsAON2rbnM-FptVPqPOmyTLzNJLUPAJvlDwCb4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60320480/%E4%B8%BB%E6%95%99%E5%B1%B1%E5%83%AD%E5%BB%BA-%E7%A7%BB%E6%AF%9B%E6%BE%A4%E6%9D%B1%E5%83%8F%E6%9C%80%E5%BE%8C%E9%99%90%E6%9C%9F-%E6%89%93%E7%90%86%E4%BA%BA%E8%8A%B3%E5%A7%90%E9%98%BB%E5%9C%B0%E6%94%BF-%E4%BD%A0%E5%92%AA%E6%8B%89%E6%88%91%E5%9B%89",
-    "timestamp": "2026-02-09T02:25:21.804Z",
     "strategy": ".content-card__main"
   }
 ];
