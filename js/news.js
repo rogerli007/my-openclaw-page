@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-09T11:37:51.324Z
+// Last updated: 2026-02-09T12:04:40.357Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "主教山僭建｜芳姐拒地政總署拆毛澤東像　石上企8小時　離場灑淚",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260209/1097609004378492928243560.jpeg/oZC15cnbj0fm1MdEetqSymdwcL48b28w3a4wiN2uMIg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60320772/%E4%B8%BB%E6%95%99%E5%B1%B1%E5%83%AD%E5%BB%BA-%E8%8A%B3%E5%A7%90%E6%8B%92%E5%9C%B0%E6%94%BF%E7%B8%BD%E7%BD%B2%E6%8B%86%E6%AF%9B%E6%BE%A4%E6%9D%B1%E5%83%8F-%E7%9F%B3%E4%B8%8A%E4%BC%818%E5%B0%8F%E6%99%82-%E9%9B%A2%E5%A0%B4%E7%81%91%E6%B7%9A",
+    "timestamp": "2026-02-09T12:04:40.357Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "巴鈺13年婚姻曾陷低潮：「呼吸都討厭」想離婚　靠生理本能找回愛",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260121/1090458288912338944092876.jpeg/HtZvLdrnjEfkOkL1PihE6YA19eBfADdMHmO1NB5jtTQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60320482/%E8%B2%9D%E6%A3%AE%E7%89%B9%E6%8C%87%E9%87%91%E5%B8%82%E6%B3%A2%E5%8B%95%E6%B6%89%E4%B8%AD%E5%9C%8B%E4%BA%A4%E6%98%93%E5%A4%B1%E5%BA%8F-%E5%87%BA%E7%8F%BE%E6%8A%95%E6%A9%9F%E6%80%A7%E8%A1%9D%E9%A0%82%E5%9B%9E%E8%90%BD",
     "timestamp": "2026-02-08T23:59:42.927Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "珍惜生命｜柴灣峰華邨14歲少女墮樓倒棚架　清醒送院",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260209/1097429608657063936729380.jpeg/gFq3bUE_RlqHAiGt-DIAKq5dC33cl5iIM6BJYjOgSWI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60320478/%E7%8F%8D%E6%83%9C%E7%94%9F%E5%91%BD-%E6%9F%B4%E7%81%A3%E5%B3%B0%E8%8F%AF%E9%82%A814%E6%AD%B2%E5%B0%91%E5%A5%B3%E5%A2%AE%E6%A8%93%E5%80%92%E6%A3%9A%E6%9E%B6-%E6%B8%85%E9%86%92%E9%80%81%E9%99%A2",
-    "timestamp": "2026-02-08T23:35:03.493Z",
     "strategy": ".content-card__main"
   }
 ];
