@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-09T11:12:43.445Z
+// Last updated: 2026-02-09T11:37:51.324Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "巴鈺13年婚姻曾陷低潮：「呼吸都討厭」想離婚　靠生理本能找回愛",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260126/1092524960888393728019578.jpeg/glFgY4fie3dU3e3IVNGBa-7JkcwhjaDwUpu2plKbtqY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%AB%87%E6%83%85%E8%AA%AA%E6%80%A7/60316360/%E5%B7%B4%E9%88%BA13%E5%B9%B4%E5%A9%9A%E5%A7%BB%E6%9B%BE%E9%99%B7%E4%BD%8E%E6%BD%AE-%E5%91%BC%E5%90%B8%E9%83%BD%E8%A8%8E%E5%8E%AD-%E6%83%B3%E9%9B%A2%E5%A9%9A-%E9%9D%A0%E7%94%9F%E7%90%86%E6%9C%AC%E8%83%BD%E6%89%BE%E5%9B%9E%E6%84%9B",
+    "timestamp": "2026-02-09T11:37:51.324Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "米蘭冬奧會獲國際奧委會主席讚「最智能」　中國科技支撐功不可沒",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260209/1097429608657063936729380.jpeg/gFq3bUE_RlqHAiGt-DIAKq5dC33cl5iIM6BJYjOgSWI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60320478/%E7%8F%8D%E6%83%9C%E7%94%9F%E5%91%BD-%E6%9F%B4%E7%81%A3%E5%B3%B0%E8%8F%AF%E9%82%A814%E6%AD%B2%E5%B0%91%E5%A5%B3%E5%A2%AE%E6%A8%93%E5%80%92%E6%A3%9A%E6%9E%B6-%E6%B8%85%E9%86%92%E9%80%81%E9%99%A2",
     "timestamp": "2026-02-08T23:35:03.493Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "AI教母李飛飛教授｜通往人工智慧關鍵拼圖Spatial 3D AI｜蘇仲成",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260204/1095726097586196480456297.jpeg/2CRxZV-kY-PWCbguXWfxGHeYdhgQrH13qfedKKn3nSg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%B6%B2%E7%A7%913.0/60319179/ai%E6%95%99%E6%AF%8D%E6%9D%8E%E9%A3%9B%E9%A3%9B%E6%95%99%E6%8E%88-%E9%80%9A%E5%BE%80%E4%BA%BA%E5%B7%A5%E6%99%BA%E6%85%A7%E9%97%9C%E9%8D%B5%E6%8B%BC%E5%9C%96spatial-3d-ai-%E8%98%87%E4%BB%B2%E6%88%90",
-    "timestamp": "2026-02-08T23:17:27.941Z",
     "strategy": ".content-card__main"
   }
 ];
