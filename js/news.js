@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-09T10:43:00.668Z
+// Last updated: 2026-02-09T11:12:43.445Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "米蘭冬奧會獲國際奧委會主席讚「最智能」　中國科技支撐功不可沒",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260208/1097138850515390464408735.jpeg/nDlY5slUtUBCKZ0vR0hu_dsiFN3vijSzXcqPA13KjwM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E4%B8%96%E7%95%8C%E5%B0%88%E9%A1%8C/60320678/%E7%B1%B3%E8%98%AD%E5%86%AC%E5%A5%A7%E6%9C%83%E7%8D%B2%E5%9C%8B%E9%9A%9B%E5%A5%A7%E5%A7%94%E6%9C%83%E4%B8%BB%E5%B8%AD%E8%AE%9A-%E6%9C%80%E6%99%BA%E8%83%BD-%E4%B8%AD%E5%9C%8B%E7%A7%91%E6%8A%80%E6%94%AF%E6%92%90%E5%8A%9F%E4%B8%8D%E5%8F%AF%E6%B2%92",
+    "timestamp": "2026-02-09T11:12:43.445Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "宏福火｜政府倡業主授權票設上限　民建聯葉傲冬憂窒礙法團開會",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260204/1095726097586196480456297.jpeg/2CRxZV-kY-PWCbguXWfxGHeYdhgQrH13qfedKKn3nSg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%B6%B2%E7%A7%913.0/60319179/ai%E6%95%99%E6%AF%8D%E6%9D%8E%E9%A3%9B%E9%A3%9B%E6%95%99%E6%8E%88-%E9%80%9A%E5%BE%80%E4%BA%BA%E5%B7%A5%E6%99%BA%E6%85%A7%E9%97%9C%E9%8D%B5%E6%8B%BC%E5%9C%96spatial-3d-ai-%E8%98%87%E4%BB%B2%E6%88%90",
     "timestamp": "2026-02-08T23:17:27.941Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "公司晚宴竟雲集娛樂圈半壁江山藝人　原來大有來頭好多人靠佢搵食",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260208/1097293336823205888540267.jpeg/5IJboijKo4hEyAUkkaCs-TqvTvbSXOSJM7XfDzO13w8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60319567/%E5%85%AC%E5%8F%B8%E6%99%9A%E5%AE%B4%E7%AB%9F%E9%9B%B2%E9%9B%86%E5%A8%9B%E6%A8%82%E5%9C%88%E5%8D%8A%E5%A3%81%E6%B1%9F%E5%B1%B1%E8%97%9D%E4%BA%BA-%E5%8E%9F%E4%BE%86%E5%A4%A7%E6%9C%89%E4%BE%86%E9%A0%AD%E5%A5%BD%E5%A4%9A%E4%BA%BA%E9%9D%A0%E4%BD%A2%E6%90%B5%E9%A3%9F",
-    "timestamp": "2026-02-08T22:50:50.550Z",
     "strategy": ".content-card__main"
   }
 ];
