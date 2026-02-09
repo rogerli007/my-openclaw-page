@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-09T23:22:18.475Z
+// Last updated: 2026-02-09T23:52:29.769Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "珍惜生命│男子倒斃金鐘太古廣場對開　疑從酒店平台墮下",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260210/1097790286597197824936825.jpeg/VCTGXNURKimxAp6iS6JKlIZOXNJsofk3ZbXYMEC12DA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60320834/%E7%8F%8D%E6%83%9C%E7%94%9F%E5%91%BD-%E7%94%B7%E5%AD%90%E5%80%92%E6%96%83%E9%87%91%E9%90%98%E5%A4%AA%E5%8F%A4%E5%BB%A3%E5%A0%B4%E5%B0%8D%E9%96%8B-%E7%96%91%E5%BE%9E%E9%85%92%E5%BA%97%E5%B9%B3%E5%8F%B0%E5%A2%AE%E4%B8%8B",
+    "timestamp": "2026-02-09T23:52:29.769Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "建生邨冷氣機去水喉工程　房委會投｢關鍵一票｣通過：評估多項因素",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260209/1097632797134295040830795.jpeg/umDSsqyFYpilq_7fDaLWYB44byXG1W2s7ryN4e68jeE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60320786/%E6%B8%AF%E9%90%B5%E6%B2%B9%E5%A1%98%E7%AB%99%E4%B9%98%E5%AE%A2%E6%8B%96%E7%AF%8B%E6%90%AD%E6%89%B6%E6%89%8B%E6%A2%AF-%E5%A4%B1%E5%B9%B3%E8%A1%A1%E5%90%91%E5%BE%8C%E8%B7%8C%E5%86%8D%E6%92%9E%E4%BD%8E3%E4%BA%BA",
     "timestamp": "2026-02-09T13:01:48.878Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "屯門井頭中村男子倒斃屋內　頭部有傷　警調查有否可疑",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260206/1096541702153310208214895.jpeg/75xOZhzoKnidzZuozgJY-z1zMqjsOuJkPbUqUD21KlA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60320782/%E5%B1%AF%E9%96%80%E4%BA%95%E9%A0%AD%E4%B8%AD%E6%9D%91%E7%94%B7%E5%AD%90%E5%80%92%E6%96%83%E5%B1%8B%E5%85%A7-%E9%A0%AD%E9%83%A8%E6%9C%89%E5%82%B7-%E8%AD%A6%E8%AA%BF%E6%9F%A5%E6%9C%89%E5%90%A6%E5%8F%AF%E7%96%91",
-    "timestamp": "2026-02-09T12:34:43.705Z",
     "strategy": ".content-card__main"
   }
 ];
