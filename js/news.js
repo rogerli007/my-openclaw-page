@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-09T06:41:02.476Z
+// Last updated: 2026-02-09T07:15:35.220Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "泰國大選｜總理阿努廷誓言：將建造泰柬邊境牆並關閉邊境",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260209/1097547500149018624768204.jpeg/piQFQBA4pzZue9XxZlioNrw87n9d80qJHOm7Phzpuz4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60320646/%E6%B3%B0%E5%9C%8B%E5%A4%A7%E9%81%B8-%E7%B8%BD%E7%90%86%E9%98%BF%E5%8A%AA%E5%BB%B7%E8%AA%93%E8%A8%80-%E5%B0%87%E5%BB%BA%E9%80%A0%E6%B3%B0%E6%9F%AC%E9%82%8A%E5%A2%83%E7%89%86%E4%B8%A6%E9%97%9C%E9%96%89%E9%82%8A%E5%A2%83",
+    "timestamp": "2026-02-09T07:15:35.220Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "蘭花入境｜漁護署：勿帶或網購沒許可證瀕危動植物　高危物種一覽",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260209/1097383067292536832380496.jpeg/u-4wAxBXlQlnwiKP1_J4qMglxHqm5XM1q7cKbau3Cm0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60320465/%E9%AB%98%E5%B7%BF%E6%97%A9%E8%8B%97%E7%A8%B1%E6%97%A5%E7%BE%8E%E5%90%8C%E7%9B%9F%E6%BD%9B%E5%8A%9B%E7%84%A1%E9%99%90-%E8%B2%9D%E6%A3%AE%E7%89%B9-%E9%AB%98%E5%B7%BF%E6%98%AF%E5%81%89%E5%A4%A7%E7%9B%9F%E5%8F%8B",
     "timestamp": "2026-02-08T20:49:32.708Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "高巿早苗稱日美同盟潛力無限　貝森特：高巿是偉大盟友",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260209/1097383067292536832380496.jpeg/u-4wAxBXlQlnwiKP1_J4qMglxHqm5XM1q7cKbau3Cm0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60320465/%E9%AB%98%E5%B7%BF%E6%97%A9%E8%8B%97%E7%A8%B1%E6%97%A5%E7%BE%8E%E5%90%8C%E7%9B%9F%E6%BD%9B%E5%8A%9B%E7%84%A1%E9%99%90-%E8%B2%9D%E6%A3%AE%E7%89%B9-%E9%AB%98%E5%B7%BF%E6%98%AF%E5%81%89%E5%A4%A7%E7%9B%9F%E5%8F%8B",
-    "timestamp": "2026-02-08T20:31:33.319Z",
     "strategy": ".content-card__main"
   }
 ];
