@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-09T08:37:38.604Z
+// Last updated: 2026-02-09T09:12:05.059Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "重返青春劇情｜最新追劇日曆/播出時間+演員關係圖+角色簡介",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260202/1095010004773113856283570.jpeg/8b0OWwNrXieK1kvLOpyoCnuKTtam_CAqL2bP1i9mz9Y?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60318462/%E9%87%8D%E8%BF%94%E9%9D%92%E6%98%A5%E5%8A%87%E6%83%85-%E6%9C%80%E6%96%B0%E8%BF%BD%E5%8A%87%E6%97%A5%E6%9B%86-%E6%92%AD%E5%87%BA%E6%99%82%E9%96%93-%E6%BC%94%E5%93%A1%E9%97%9C%E4%BF%82%E5%9C%96-%E8%A7%92%E8%89%B2%E7%B0%A1%E4%BB%8B",
+    "timestamp": "2026-02-09T09:12:05.059Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "華懋慈善基金向商人借錢4千萬打官司案　就利率計算准上訴終院",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260209/1097386748868562944219078.jpeg/bvw0TkgeCpKAa-sn7lEF1YtIXM6FyA20KufVBA_n1QQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60320467/%E8%8F%AF%E8%8D%94%E9%82%A8%E5%96%AE%E4%BD%8D%E5%A4%A9%E8%8A%B1%E7%87%88%E8%B5%B7%E7%81%AB-%E7%94%B7%E9%84%B0%E5%B1%85%E5%8D%94%E5%8A%A9%E6%92%B2%E6%95%91-%E8%88%87%E5%A5%B3%E6%88%B6%E4%B8%BB%E5%90%8C%E5%90%B8%E5%85%A5%E6%BF%83%E7%85%99%E4%B8%8D%E9%81%A9",
     "timestamp": "2026-02-08T21:59:11.134Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "華荔邨單位天花燈起火　男鄰居協助撲救　與女戶主同吸入濃煙不適",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260209/1097385601612648448825631.jpeg/U2Zwh-W26bRI9zeubS0cJGicoianhKegDR5rBigeawY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60320467/%E8%8F%AF%E8%8D%94%E9%82%A8%E5%96%AE%E4%BD%8D%E5%A4%A9%E8%8A%B1%E7%87%88%E8%B5%B7%E7%81%AB-%E7%94%B7%E9%84%B0%E5%B1%85%E5%8D%94%E5%8A%A9%E6%92%B2%E6%95%91-%E8%88%87%E5%A5%B3%E6%88%B6%E4%B8%BB%E5%90%8C%E5%90%B8%E5%85%A5%E6%BF%83%E7%85%99%E4%B8%8D%E9%81%A9",
-    "timestamp": "2026-02-08T21:34:52.251Z",
     "strategy": ".content-card__main"
   }
 ];
