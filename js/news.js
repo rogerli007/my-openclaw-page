@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-09T01:20:58.827Z
+// Last updated: 2026-02-09T02:25:21.804Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "主教山僭建｜移毛澤東像最後限期　打理人芳姐阻地政：你咪拉我囉",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260209/1097468231439880192701895.jpeg/fGDHsfsAON2rbnM-FptVPqPOmyTLzNJLUPAJvlDwCb4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60320480/%E4%B8%BB%E6%95%99%E5%B1%B1%E5%83%AD%E5%BB%BA-%E7%A7%BB%E6%AF%9B%E6%BE%A4%E6%9D%B1%E5%83%8F%E6%9C%80%E5%BE%8C%E9%99%90%E6%9C%9F-%E6%89%93%E7%90%86%E4%BA%BA%E8%8A%B3%E5%A7%90%E9%98%BB%E5%9C%B0%E6%94%BF-%E4%BD%A0%E5%92%AA%E6%8B%89%E6%88%91%E5%9B%89",
+    "timestamp": "2026-02-09T02:25:21.804Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "高盛警告美股拋售尚未結束　若標指失此關或致800億美元",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260209/1097356170290532352723904.jpeg/JXfwDIbnESU_4Fl4Y4gEWFX34F_bacflgh4wsYIeMLE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60320459/%E8%8B%B1%E8%B6%85-%E6%9B%BC%E5%9F%8E%E4%BD%9C%E5%AE%A22-1%E5%8B%9D%E5%88%A9%E7%89%A9%E6%B5%A6-%E5%A4%8F%E8%98%AD%E7%89%B9%E8%A3%9C%E6%99%82%E5%A5%A0%E5%8B%9D",
     "timestamp": "2026-02-08T19:16:58.152Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "尖沙咀酒店外網約車疑遲到掀糾紛　司機涉打傷雙程證客後開車逃去",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250204/963438597011410944619348.jpeg/gwZSGYYFK3INnAjMcircA1VLy76oBySoyATZ48gE2eM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60320456/%E5%B0%96%E6%B2%99%E5%92%80%E9%85%92%E5%BA%97%E5%A4%96%E7%B6%B2%E7%B4%84%E8%BB%8A%E7%96%91%E9%81%B2%E5%88%B0%E6%8E%80%E7%B3%BE%E7%B4%9B-%E5%8F%B8%E6%A9%9F%E6%B6%89%E6%89%93%E5%82%B7%E9%9B%99%E7%A8%8B%E8%AD%89%E5%AE%A2%E5%BE%8C%E9%96%8B%E8%BB%8A%E9%80%83%E5%8E%BB",
-    "timestamp": "2026-02-08T18:52:21.158Z",
     "strategy": ".content-card__main"
   }
 ];
