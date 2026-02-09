@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-09T18:09:10.232Z
+// Last updated: 2026-02-09T18:40:18.089Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "油尖區內掃黃及打擊黑工　執法部門拘33人年齡介乎18至65歲",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260210/1097716374664384512153820.jpeg/ph09ppbjK2-bSJJKZl-M5G-gV3yqK1wiE9FuLxPRbi8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60320828/%E6%B2%B9%E5%B0%96%E5%8D%80%E5%85%A7%E6%8E%83%E9%BB%83%E5%8F%8A%E6%89%93%E6%93%8A%E9%BB%91%E5%B7%A5-%E5%9F%B7%E6%B3%95%E9%83%A8%E9%96%80%E6%8B%9833%E4%BA%BA%E5%B9%B4%E9%BD%A1%E4%BB%8B%E4%B9%8E18%E8%87%B365%E6%AD%B2",
+    "timestamp": "2026-02-09T18:40:18.089Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "界限街住宅15歲仔被人以電腦椅襲擊受傷　警拘60歲父涉虐兒",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260205/1096121869150457856285916.jpeg/9JXFIM5vx_ZPTbNqA7Pon2XZMnteOAPFHI0QLByNECw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60319520/%E5%A9%86%E5%A9%86%E5%BF%83%E8%87%9F%E9%A9%9F%E5%81%9C-%E8%AD%B7%E5%A3%AB%E8%B6%95%E6%90%B6%E6%95%91-%E5%90%8C%E6%88%BF%E7%97%85%E4%BA%BA%E5%AE%B6%E5%B1%AC1%E5%8F%A5%E6%83%B9%E5%85%AC%E6%86%A4-%E7%B6%B2%E6%B0%91-%E8%87%AA%E7%A7%81",
     "timestamp": "2026-02-09T08:09:03.590Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "iPhone 18 Pro Max首引入這黑科技！人像攝影虛化將可媲美單反？",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260209/1097535636157501440567234.jpeg/UfewbCvokMdXKSLnurT_tnRcZ56xcnjaZGU_rmRlP64?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60320592/iphone-18-pro-max%E9%A6%96%E5%BC%95%E5%85%A5%E9%80%99%E9%BB%91%E7%A7%91%E6%8A%80-%E4%BA%BA%E5%83%8F%E6%94%9D%E5%BD%B1%E8%99%9B%E5%8C%96%E5%B0%87%E5%8F%AF%E5%AA%B2%E7%BE%8E%E5%96%AE%E5%8F%8D",
-    "timestamp": "2026-02-09T07:44:12.140Z",
     "strategy": ".content-card__main"
   }
 ];
