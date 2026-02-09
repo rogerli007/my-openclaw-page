@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-09T02:25:21.804Z
+// Last updated: 2026-02-09T03:37:20.344Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "特朗普推美國優先武器戰略　內地學者指為擴大對台軍售鋪路",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250906/1040860912296136704837041.jpeg/42w7pyNlab7560crnsKFjIRvLlwcncyl3f4PgN3-D4A?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60320549/%E7%89%B9%E6%9C%97%E6%99%AE%E6%8E%A8%E7%BE%8E%E5%9C%8B%E5%84%AA%E5%85%88%E6%AD%A6%E5%99%A8%E6%88%B0%E7%95%A5-%E5%85%A7%E5%9C%B0%E5%AD%B8%E8%80%85%E6%8C%87%E7%82%BA%E6%93%B4%E5%A4%A7%E5%B0%8D%E5%8F%B0%E8%BB%8D%E5%94%AE%E9%8B%AA%E8%B7%AF",
+    "timestamp": "2026-02-09T03:37:20.344Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "主教山僭建｜移毛澤東像最後限期　打理人芳姐阻地政：你咪拉我囉",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260209/1097356170290532352723904.jpeg/JXfwDIbnESU_4Fl4Y4gEWFX34F_bacflgh4wsYIeMLE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60320459/%E8%8B%B1%E8%B6%85-%E6%9B%BC%E5%9F%8E%E4%BD%9C%E5%AE%A22-1%E5%8B%9D%E5%88%A9%E7%89%A9%E6%B5%A6-%E5%A4%8F%E8%98%AD%E7%89%B9%E8%A3%9C%E6%99%82%E5%A5%A0%E5%8B%9D",
     "timestamp": "2026-02-08T19:33:24.861Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "英超｜曼城作客2：1勝利物浦　夏蘭特補時奠勝",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260209/1097356170290532352723904.jpeg/JXfwDIbnESU_4Fl4Y4gEWFX34F_bacflgh4wsYIeMLE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60320459/%E8%8B%B1%E8%B6%85-%E6%9B%BC%E5%9F%8E%E4%BD%9C%E5%AE%A22-1%E5%8B%9D%E5%88%A9%E7%89%A9%E6%B5%A6-%E5%A4%8F%E8%98%AD%E7%89%B9%E8%A3%9C%E6%99%82%E5%A5%A0%E5%8B%9D",
-    "timestamp": "2026-02-08T19:16:58.152Z",
     "strategy": ".content-card__main"
   }
 ];
