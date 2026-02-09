@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-09T09:43:21.317Z
+// Last updated: 2026-02-09T10:15:08.994Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "Bithumb誤派62萬枚Bitcoin　路透︰韓監管機構要從嚴管理幽靈幣",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20241121/936057949745451008260345.jpeg/uowbfVykZhyI-JGifcSSqEg0qNXTrKRVLidnzS4nZ80?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60320751/bithumb%E8%AA%A4%E6%B4%BE62%E8%90%AC%E6%9E%9Abitcoin-%E8%B7%AF%E9%80%8F-%E9%9F%93%E7%9B%A3%E7%AE%A1%E6%A9%9F%E6%A7%8B%E8%A6%81%E5%BE%9E%E5%9A%B4%E7%AE%A1%E7%90%86%E5%B9%BD%E9%9D%88%E5%B9%A3",
+    "timestamp": "2026-02-09T10:15:08.994Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "香港電訊末期分派47.97仙　全年分派增3.8%至81.77分",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260209/1097415030187495424015928.jpeg/fks4KwyC6ZyVJInZoA4mMKZEeNF6-xlCa9YDEGvWAxA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60320475/%E8%A7%80%E5%A1%98%E9%81%93%E8%BF%91%E7%BF%A0%E5%B1%8F%E9%81%93%E8%B2%A8%E8%BB%8A%E6%92%9E%E8%80%81%E5%A9%A6-%E9%80%81%E9%99%A2%E6%99%82%E6%98%8F%E8%BF%B7",
     "timestamp": "2026-02-08T22:31:30.558Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "胡楓94歲圈中異性緣強勁　71歲喪夫女星激咀塊面追求做「男友」",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260208/1097300807780405248326591.jpeg/MC1f0W6OOyEZaBDlx1NBEf17dRQVCb7c-L6MWPi-jFg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60320376/%E8%83%A1%E6%A5%9394%E6%AD%B2%E5%9C%88%E4%B8%AD%E7%95%B0%E6%80%A7%E7%B7%A3%E5%BC%B7%E5%8B%81-71%E6%AD%B2%E8%82%A5%E5%AA%BD%E6%BF%80%E5%92%80%E5%A1%8A%E9%9D%A2%E8%BF%BD%E6%B1%82%E8%AA%8D%E5%81%9A-%E7%94%B7%E5%8F%8B",
-    "timestamp": "2026-02-08T22:14:29.421Z",
     "strategy": ".content-card__main"
   }
 ];
