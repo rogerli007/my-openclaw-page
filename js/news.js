@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-09T15:12:43.260Z
+// Last updated: 2026-02-09T15:41:01.700Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美知名主持人爆「內幕」︰比特幣跌至6萬　特朗普便會填滿儲備",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20251202/1072587371309961216854972.jpeg/mIcVaBOJVTjWSnMDWq_6EQO7ai2PAbaEYb9qf2G_an8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60320811/%E7%BE%8E%E7%9F%A5%E5%90%8D%E4%B8%BB%E6%8C%81%E4%BA%BA%E7%88%86-%E5%85%A7%E5%B9%95-%E6%AF%94%E7%89%B9%E5%B9%A3%E8%B7%8C%E8%87%B36%E8%90%AC-%E7%89%B9%E6%9C%97%E6%99%AE%E4%BE%BF%E6%9C%83%E5%A1%AB%E6%BB%BF%E5%84%B2%E5%82%99",
+    "timestamp": "2026-02-09T15:41:01.700Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "黎智英判囚｜政府：強烈譴責外部勢力污衊抹黑法庭判刑",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250708/1019289424954920960457096.jpeg/Uu2mcqa9zatbxqbuyuWvmML9mVQNIrzcxayycMWssnA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60320603/%E9%A6%99%E6%B8%AF%E6%95%85%E5%AE%AE%E6%96%87%E5%8C%96%E5%8D%9A%E7%89%A9%E9%A4%A8%E8%8D%89%E5%9C%B0%E8%B5%B7%E7%81%AB-%E8%AD%A6%E6%8B%98%E4%B8%80%E7%94%B7%E6%B6%89%E7%B8%B1%E7%81%AB",
     "timestamp": "2026-02-09T06:01:35.709Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "工人不滿被妻拒性交　鞋帶綁妻手兼見妻泛淚光下施暴　判囚6年",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260209/1097516998255972352503691.jpeg/Oy2p2GSry_iqEMc_RhpHm4ulhoxaDhJ5tpNOlraTTpY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60320584/%E5%B7%A5%E4%BA%BA%E4%B8%8D%E6%BB%BF%E8%A2%AB%E5%A6%BB%E6%8B%92%E6%80%A7%E4%BA%A4-%E9%9E%8B%E5%B8%B6%E7%B6%81%E5%A6%BB%E6%89%8B%E5%85%BC%E8%A6%8B%E5%A6%BB%E6%B3%9B%E6%B7%9A%E5%85%89%E4%B8%8B%E6%96%BD%E6%9A%B4-%E5%88%A4%E5%9B%9A6%E5%B9%B4",
-    "timestamp": "2026-02-09T05:24:47.601Z",
     "strategy": ".content-card__main"
   }
 ];
