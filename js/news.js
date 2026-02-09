@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-09T16:12:47.285Z
+// Last updated: 2026-02-09T17:39:43.667Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "界限街住宅15歲仔被人以電腦椅襲擊受傷　警拘60歲父涉虐兒",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/2837138/org/b907424f50c0dd65f040649a4425715a.jpg/u6EwOOwP393nOvgnKkEBk3aoA6soa-X38sAv2_LAL9s?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60320824/%E7%95%8C%E9%99%90%E8%A1%97%E4%BD%8F%E5%AE%8515%E6%AD%B2%E4%BB%94%E8%A2%AB%E4%BA%BA%E4%BB%A5%E9%9B%BB%E8%85%A6%E6%A4%85%E8%A5%B2%E6%93%8A%E5%8F%97%E5%82%B7-%E8%AD%A6%E6%8B%9860%E6%AD%B2%E7%88%B6%E6%B6%89%E8%99%90%E5%85%92",
+    "timestamp": "2026-02-09T17:39:43.667Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "山東招遠一金礦發生墜罐事故　造成7人死亡",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260209/1097547500149018624768204.jpeg/piQFQBA4pzZue9XxZlioNrw87n9d80qJHOm7Phzpuz4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60320646/%E6%B3%B0%E5%9C%8B%E5%A4%A7%E9%81%B8-%E7%B8%BD%E7%90%86%E9%98%BF%E5%8A%AA%E5%BB%B7%E8%AA%93%E8%A8%80-%E5%B0%87%E5%BB%BA%E9%80%A0%E6%B3%B0%E6%9F%AC%E9%82%8A%E5%A2%83%E7%89%86%E4%B8%A6%E9%97%9C%E9%96%89%E9%82%8A%E5%A2%83",
     "timestamp": "2026-02-09T07:15:35.220Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "蘭花入境｜漁護署：勿帶或網購沒許可證瀕危動植物　高危物種一覽",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260113/1087553794948337664596034.jpeg/Twwd7VTImHlFdZrDHxndpYJLRVJIhf1zfRLyjFgS8ow?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60320623/%E8%98%AD%E8%8A%B1%E5%85%A5%E5%A2%83-%E6%BC%81%E8%AD%B7%E7%BD%B2-%E5%8B%BF%E5%B8%B6%E6%88%96%E7%B6%B2%E8%B3%BC%E6%B2%92%E8%A8%B1%E5%8F%AF%E8%AD%89%E7%80%95%E5%8D%B1%E5%8B%95%E6%A4%8D%E7%89%A9-%E9%AB%98%E5%8D%B1%E7%89%A9%E7%A8%AE%E4%B8%80%E8%A6%BD",
-    "timestamp": "2026-02-09T06:41:02.476Z",
     "strategy": ".content-card__main"
   }
 ];
