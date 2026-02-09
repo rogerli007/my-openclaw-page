@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-09T07:15:35.220Z
+// Last updated: 2026-02-09T07:44:12.140Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "iPhone 18 Pro Max首引入這黑科技！人像攝影虛化將可媲美單反？",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260209/1097535636157501440567234.jpeg/UfewbCvokMdXKSLnurT_tnRcZ56xcnjaZGU_rmRlP64?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60320592/iphone-18-pro-max%E9%A6%96%E5%BC%95%E5%85%A5%E9%80%99%E9%BB%91%E7%A7%91%E6%8A%80-%E4%BA%BA%E5%83%8F%E6%94%9D%E5%BD%B1%E8%99%9B%E5%8C%96%E5%B0%87%E5%8F%AF%E5%AA%B2%E7%BE%8E%E5%96%AE%E5%8F%8D",
+    "timestamp": "2026-02-09T07:44:12.140Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "泰國大選｜總理阿努廷誓言：將建造泰柬邊境牆並關閉邊境",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260209/1097385601612648448825631.jpeg/U2Zwh-W26bRI9zeubS0cJGicoianhKegDR5rBigeawY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60320467/%E8%8F%AF%E8%8D%94%E9%82%A8%E5%96%AE%E4%BD%8D%E5%A4%A9%E8%8A%B1%E7%87%88%E8%B5%B7%E7%81%AB-%E7%94%B7%E9%84%B0%E5%B1%85%E5%8D%94%E5%8A%A9%E6%92%B2%E6%95%91-%E8%88%87%E5%A5%B3%E6%88%B6%E4%B8%BB%E5%90%8C%E5%90%B8%E5%85%A5%E6%BF%83%E7%85%99%E4%B8%8D%E9%81%A9",
     "timestamp": "2026-02-08T21:03:11.741Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "高巿早苗稱日美同盟潛力無限　貝森特：高巿是偉大盟友",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260209/1097383067292536832380496.jpeg/u-4wAxBXlQlnwiKP1_J4qMglxHqm5XM1q7cKbau3Cm0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60320465/%E9%AB%98%E5%B7%BF%E6%97%A9%E8%8B%97%E7%A8%B1%E6%97%A5%E7%BE%8E%E5%90%8C%E7%9B%9F%E6%BD%9B%E5%8A%9B%E7%84%A1%E9%99%90-%E8%B2%9D%E6%A3%AE%E7%89%B9-%E9%AB%98%E5%B7%BF%E6%98%AF%E5%81%89%E5%A4%A7%E7%9B%9F%E5%8F%8B",
-    "timestamp": "2026-02-08T20:49:32.708Z",
     "strategy": ".content-card__main"
   }
 ];
