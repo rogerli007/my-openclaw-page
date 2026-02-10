@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-10T00:51:22.996Z
+// Last updated: 2026-02-10T01:46:19.574Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "直播｜李家超行會前見記者　黎智英案判刑及安全帶之亂料成為焦點",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260127/1092803370005041152084315.jpeg/zB3ews60jHflFfVlu9m2KKVvjP-9RHyt61gRB85YEQc?v=w1920",
+    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60320568/%E7%9B%B4%E6%92%AD-%E6%9D%8E%E5%AE%B6%E8%B6%85%E8%A1%8C%E6%9C%83%E5%89%8D%E8%A6%8B%E8%A8%98%E8%80%85-%E9%BB%8E%E6%99%BA%E8%8B%B1%E6%A1%88%E5%88%A4%E5%88%91%E5%8F%8A%E5%AE%89%E5%85%A8%E5%B8%B6%E4%B9%8B%E4%BA%82%E6%96%99%E6%88%90%E7%82%BA%E7%84%A6%E9%BB%9E",
+    "timestamp": "2026-02-10T01:46:19.574Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美國海事管理局：美國商船應遠離伊朗領海",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260209/1097580818324262912608245.jpeg/R49PkNWDzEGEfVSCQ9XXeIMxlhmf9PBgRGZXnkRmV54?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60320711/%E6%B1%AA%E6%98%8E%E8%8D%83%E4%B8%8D%E6%96%BD%E8%84%82%E7%B2%89%E6%8B%96%E8%B2%B7%E9%A4%B8%E8%BB%8A%E4%BB%94%E8%BE%A6%E5%B9%B4%E8%B2%A8-%E7%B6%B2%E6%B0%91%E5%A4%A7%E8%AE%9A%E8%B2%BC%E5%9C%B0%E4%BB%B2%E8%A9%B1%E5%80%8B%E6%A8%A3%E5%A5%BD%E5%A5%BD%E7%AC%91",
     "timestamp": "2026-02-09T14:17:20.179Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "愛潑斯坦｜受文德森所累　英國高官接連辭職　施紀賢：無計劃下台",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250203/963092551068291072839241.jpeg/_IcQQ1U1g9_pXpBwP1Y6HbvPharC5P1fxHDjksRw45I?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60320791/%E6%84%9B%E6%BD%91%E6%96%AF%E5%9D%A6-%E5%8F%97%E6%96%87%E5%BE%B7%E6%A3%AE%E6%89%80%E7%B4%AF-%E8%8B%B1%E5%9C%8B%E9%AB%98%E5%AE%98%E6%8E%A5%E9%80%A3%E8%BE%AD%E8%81%B7-%E6%96%BD%E7%B4%80%E8%B3%A2-%E7%84%A1%E8%A8%88%E5%8A%83%E4%B8%8B%E5%8F%B0",
-    "timestamp": "2026-02-09T13:43:42.243Z",
     "strategy": ".content-card__main"
   }
 ];
