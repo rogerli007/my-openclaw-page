@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-10T13:57:39.108Z
+// Last updated: 2026-02-10T14:39:37.969Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "《寶貝智多星》飾演媽媽女星Catherine O'Hara突離世　死因終曝光",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260210/1097923540541247488891504.jpeg/iYcfwNPalXAnjLl5v7Xi3kbGKRg5d1iXhWNiBYVjYgU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60320985/%E5%AF%B6%E8%B2%9D%E6%99%BA%E5%A4%9A%E6%98%9F-%E9%A3%BE%E6%BC%94%E5%AA%BD%E5%AA%BD%E5%A5%B3%E6%98%9Fcatherine-o-hara%E7%AA%81%E9%9B%A2%E4%B8%96-%E6%AD%BB%E5%9B%A0%E7%B5%82%E6%9B%9D%E5%85%89",
+    "timestamp": "2026-02-10T14:39:37.969Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "土瓜灣金寶肉食公司鼠患嚴重　食環署指滅鼠措施未達標　拒絕解封",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260210/1097847660599054336857193.jpeg/UBve-Wv0ZLBRwYXLJ3_liWN4x-UcWH0KvGc7MLxnOzA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60320883/%E7%BE%8E%E5%9C%8B%E7%9F%B3%E6%B2%B9%E5%B0%81%E9%8E%96-%E5%8F%A4%E5%B7%B4%E8%A2%AB%E8%BF%AB%E6%9A%AB%E5%81%9C%E8%88%AA%E7%A9%BA%E7%87%83%E6%B2%B9%E4%BE%9B%E6%87%89-%E5%8A%A0%E8%88%AA%E5%81%9C%E9%A3%9B%E7%95%B6%E5%9C%B0%E8%88%AA%E7%8F%AD",
     "timestamp": "2026-02-10T03:50:55.365Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "主教山僭建｜地政接管土地　毛澤東雕像今已被移走",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260210/1097835680035246080208349.jpeg/ZVZn9ci-Vx7-fiAidejYtugvaVrHp2ZVogwyM5sMMjM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60320875/%E4%B8%BB%E6%95%99%E5%B1%B1%E5%83%AD%E5%BB%BA-%E5%9C%B0%E6%94%BF%E6%8E%A5%E7%AE%A1%E5%9C%9F%E5%9C%B0-%E6%AF%9B%E6%BE%A4%E6%9D%B1%E9%9B%95%E5%83%8F%E4%BB%8A%E5%B7%B2%E8%A2%AB%E7%A7%BB%E8%B5%B0",
-    "timestamp": "2026-02-10T02:47:14.207Z",
     "strategy": ".content-card__main"
   }
 ];
