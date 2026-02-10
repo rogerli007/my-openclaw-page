@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-10T07:20:04.812Z
+// Last updated: 2026-02-10T07:47:17.435Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "新年禁忌2026｜初一忌催起床沖涼都唔好？19禁忌做錯隨時全年衰運",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260210/1097916940757766144183527.jpeg/OYP9ETy5Wryg0L62GXxSmpr4h2AEGbAjVL2FulS9hbo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%A3%9F%E7%8E%A9%E8%B2%B7/60320709/%E6%96%B0%E5%B9%B4%E7%A6%81%E5%BF%8C2026-%E5%88%9D%E4%B8%80%E5%BF%8C%E5%82%AC%E8%B5%B7%E5%BA%8A%E6%B2%96%E6%B6%BC%E9%83%BD%E5%94%94%E5%A5%BD-19%E7%A6%81%E5%BF%8C%E5%81%9A%E9%8C%AF%E9%9A%A8%E6%99%82%E5%85%A8%E5%B9%B4%E8%A1%B0%E9%81%8B",
+    "timestamp": "2026-02-10T07:47:17.435Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "冬奧｜特朗普痛斥美滑雪名將　谷愛凌：很遺憾，完全違背奧運初衷",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260210/1097716374664384512153820.jpeg/ph09ppbjK2-bSJJKZl-M5G-gV3yqK1wiE9FuLxPRbi8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60320828/%E6%B2%B9%E5%B0%96%E5%8D%80%E5%85%A7%E6%8E%83%E9%BB%83%E5%8F%8A%E6%89%93%E6%93%8A%E9%BB%91%E5%B7%A5-%E5%9F%B7%E6%B3%95%E9%83%A8%E9%96%80%E6%8B%9833%E4%BA%BA%E5%B9%B4%E9%BD%A1%E4%BB%8B%E4%B9%8E18%E8%87%B365%E6%AD%B2",
     "timestamp": "2026-02-09T19:21:02.300Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "油尖區內掃黃及打擊黑工　執法部門拘33人年齡介乎18至65歲",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260210/1097716374664384512153820.jpeg/ph09ppbjK2-bSJJKZl-M5G-gV3yqK1wiE9FuLxPRbi8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60320828/%E6%B2%B9%E5%B0%96%E5%8D%80%E5%85%A7%E6%8E%83%E9%BB%83%E5%8F%8A%E6%89%93%E6%93%8A%E9%BB%91%E5%B7%A5-%E5%9F%B7%E6%B3%95%E9%83%A8%E9%96%80%E6%8B%9833%E4%BA%BA%E5%B9%B4%E9%BD%A1%E4%BB%8B%E4%B9%8E18%E8%87%B365%E6%AD%B2",
-    "timestamp": "2026-02-09T18:40:18.089Z",
     "strategy": ".content-card__main"
   }
 ];
