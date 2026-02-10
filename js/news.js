@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-10T23:23:39.905Z
+// Last updated: 2026-02-10T23:52:30.500Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "特朗普威脅阻美加大橋通車　卡尼：已提醒對方建築費全由加方承擔",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260124/1091770973805350912092716.jpeg/qrje-KnlsiX4cZ0Bq4MW2sxRW7LZcEJKnf-0Kp3_tCo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60321211/%E7%89%B9%E6%9C%97%E6%99%AE%E5%A8%81%E8%84%85%E9%98%BB%E7%BE%8E%E5%8A%A0%E5%A4%A7%E6%A9%8B%E9%80%9A%E8%BB%8A-%E5%8D%A1%E5%B0%BC-%E5%B7%B2%E6%8F%90%E9%86%92%E5%B0%8D%E6%96%B9%E5%BB%BA%E7%AF%89%E8%B2%BB%E5%85%A8%E7%94%B1%E5%8A%A0%E6%96%B9%E6%89%BF%E6%93%94",
+    "timestamp": "2026-02-10T23:52:30.500Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "熱水爐悲劇｜兒洗澡遇故障漏電觸電　父急救子衝入浴室變雙屍命案",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260210/1097923540541247488891504.jpeg/iYcfwNPalXAnjLl5v7Xi3kbGKRg5d1iXhWNiBYVjYgU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60320985/%E5%AF%B6%E8%B2%9D%E6%99%BA%E5%A4%9A%E6%98%9F-%E9%A3%BE%E6%BC%94%E5%AA%BD%E5%AA%BD%E5%A5%B3%E6%98%9Fcatherine-o-hara%E7%AA%81%E9%9B%A2%E4%B8%96-%E6%AD%BB%E5%9B%A0%E7%B5%82%E6%9B%9D%E5%85%89",
     "timestamp": "2026-02-10T14:39:37.969Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "土瓜灣金寶肉食公司鼠患嚴重　食環署指滅鼠措施未達標　拒絕解封",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260210/1097998803023171584604532.jpeg/c9Aq2TCBdRIs-G2d3FhzRRXrdrMVCvpXt9thArfbYQI?v=w1920r16_9",
-    "url": "https://www.hk01.com/18%E5%8D%80%E6%96%B0%E8%81%9E/60321152/%E5%9C%9F%E7%93%9C%E7%81%A3%E9%87%91%E5%AF%B6%E8%82%89%E9%A3%9F%E5%85%AC%E5%8F%B8%E9%BC%A0%E6%82%A3%E5%9A%B4%E9%87%8D-%E9%A3%9F%E7%92%B0%E7%BD%B2%E6%8C%87%E6%BB%85%E9%BC%A0%E6%8E%AA%E6%96%BD%E6%9C%AA%E9%81%94%E6%A8%99-%E6%8B%92%E7%B5%95%E8%A7%A3%E5%B0%81",
-    "timestamp": "2026-02-10T13:57:39.108Z",
     "strategy": ".content-card__main"
   }
 ];
