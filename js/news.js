@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-10T19:16:47.612Z
+// Last updated: 2026-02-10T19:46:14.767Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "習近平北京考察慰問快遞員等基層　向全國人民及港澳台同胞拜年",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260211/1098073149817229312650273.png/OnT2vX-Az9iJJ_dFmuFY39v4QcONoGiCd7odBne6HQY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60321193/%E7%BF%92%E8%BF%91%E5%B9%B3%E5%8C%97%E4%BA%AC%E8%80%83%E5%AF%9F%E6%85%B0%E5%95%8F%E5%BF%AB%E9%81%9E%E5%93%A1%E7%AD%89%E5%9F%BA%E5%B1%A4-%E5%90%91%E5%85%A8%E5%9C%8B%E4%BA%BA%E6%B0%91%E5%8F%8A%E6%B8%AF%E6%BE%B3%E5%8F%B0%E5%90%8C%E8%83%9E%E6%8B%9C%E5%B9%B4",
+    "timestamp": "2026-02-10T19:46:14.767Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "紅磡地舖燒臘店閉門失火　消防開喉灌救　樓上大廈60人自行疏散",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20200603/344910400711692288.jpeg/MWCKkzuWkcMV9z3weI-ChtYtyo0BOrD0AX8GGgF_Bho?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60321098/viutv%E5%8E%BB%E5%B9%B4%E6%94%B6%E7%9B%8A10-3%E5%84%84%E5%85%83-%E6%AF%8D%E4%BC%81%E9%9B%BB%E7%9B%88%E8%99%A7%E6%90%8D%E9%99%8D%E8%87%B32-53%E5%84%84-%E6%9C%AB%E6%9C%9F%E6%81%AF28-48%E4%BB%99",
     "timestamp": "2026-02-10T09:43:06.697Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "TVB去年轉賺5千萬元　全年地面免費頻道廣告收入按年錄雙位數增幅",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20231206/809145810993287168870953.jpeg/H2wuserPnbdhRaygQZRfK1MVEJgV0JeSh7-nIoe_pyI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60321076/tvb%E5%8E%BB%E5%B9%B4%E8%BD%89%E8%B3%BA5%E5%8D%83%E8%90%AC%E5%85%83-%E5%85%A8%E5%B9%B4%E5%9C%B0%E9%9D%A2%E5%85%8D%E8%B2%BB%E9%A0%BB%E9%81%93%E5%BB%A3%E5%91%8A%E6%94%B6%E5%85%A5%E6%8C%89%E5%B9%B4%E9%8C%84%E9%9B%99%E4%BD%8D%E6%95%B8%E5%A2%9E%E5%B9%85",
-    "timestamp": "2026-02-10T09:13:18.064Z",
     "strategy": ".content-card__main"
   }
 ];
