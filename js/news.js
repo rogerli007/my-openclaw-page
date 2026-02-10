@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-10T15:47:15.268Z
+// Last updated: 2026-02-10T16:18:05.712Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "昔日童星健康亮紅燈：我出事個女點算？　張國榮曾點名讚最有潛質",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260210/1097976847511064576357890.jpeg/GJ3QKQQGz8NcmnYUe1Z16HnjVycuDKQcoFrbyKBa28g?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60321004/%E9%84%A7%E4%B8%80%E5%90%9B%E5%81%A5%E5%BA%B7%E4%BA%AE%E7%B4%85%E7%87%88-%E6%88%91%E5%87%BA%E4%BA%8B%E5%80%8B%E5%A5%B3%E9%BB%9E%E7%AE%97-%E5%BC%B5%E5%9C%8B%E6%A6%AE%E6%9B%BE%E9%BB%9E%E5%90%8D%E8%AE%9A%E6%9C%80%E6%9C%89%E6%BD%9B%E8%B3%AA",
+    "timestamp": "2026-02-10T16:18:05.712Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "六合彩2.12頭獎$800萬｜6個最旺號碼+2招增中獎機會+幸運投注站",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260210/1097893803244654592510792.jpeg/P4CF12tbPufjo5GDj4-0V-sGVAutxz4k0AtN-9ALTfs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60320975/%E8%AD%89%E7%9B%A3%E6%9C%83-%E5%85%A9%E5%90%8D-%E5%94%B1%E9%AB%98%E6%95%A3%E8%B2%A8-%E4%B8%BB%E8%85%A6%E5%88%86%E5%88%A5%E8%A2%AB%E5%88%A4%E7%9B%A322%E5%80%8B%E6%9C%88%E5%8F%8A24%E5%80%8B%E6%9C%88",
     "timestamp": "2026-02-10T06:16:02.439Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "跳舞機械人趕新春檔期「幹冒煙」　租賃供不應求　日薪高達8000",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260210/1097872022823768064683749.png/rgm7n82mgWAUUQcDa_tAqC9e5QlqV4qN-kJRP_pCUT8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60320940/%E8%B7%B3%E8%88%9E%E6%A9%9F%E6%A2%B0%E4%BA%BA%E8%B6%95%E6%96%B0%E6%98%A5%E6%AA%94%E6%9C%9F-%E5%B9%B9%E5%86%92%E7%85%99-%E7%A7%9F%E8%B3%83%E4%BE%9B%E4%B8%8D%E6%87%89%E6%B1%82-%E6%97%A5%E8%96%AA%E9%AB%98%E9%81%948000",
-    "timestamp": "2026-02-10T05:41:33.806Z",
     "strategy": ".content-card__main"
   }
 ];
