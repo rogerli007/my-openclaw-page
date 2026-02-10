@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-10T01:46:19.574Z
+// Last updated: 2026-02-10T02:47:14.207Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "主教山僭建｜地政接管土地　毛澤東雕像今已被移走",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260210/1097835680035246080208349.jpeg/ZVZn9ci-Vx7-fiAidejYtugvaVrHp2ZVogwyM5sMMjM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60320875/%E4%B8%BB%E6%95%99%E5%B1%B1%E5%83%AD%E5%BB%BA-%E5%9C%B0%E6%94%BF%E6%8E%A5%E7%AE%A1%E5%9C%9F%E5%9C%B0-%E6%AF%9B%E6%BE%A4%E6%9D%B1%E9%9B%95%E5%83%8F%E4%BB%8A%E5%B7%B2%E8%A2%AB%E7%A7%BB%E8%B5%B0",
+    "timestamp": "2026-02-10T02:47:14.207Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "直播｜李家超行會前見記者　黎智英案判刑及安全帶之亂料成為焦點",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260209/1097654847366238208982407.jpeg/EYikdci0c6srVRc12O8pzmcvYFXTR2o51A_Ax9QPwMc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60320797/%E5%A8%81%E5%BB%89%E5%87%B1%E7%89%B9%E9%A6%96%E5%BA%A6%E5%B0%B1%E5%AE%89%E5%BE%B7%E9%AD%AF%E6%B6%89%E6%84%9B%E6%BD%91%E6%96%AF%E5%9D%A6%E6%A1%88%E7%99%BC%E8%81%B2-%E6%84%9F%E6%93%94%E6%86%82-%E5%A7%8B%E7%B5%82%E7%89%BD%E6%8E%9B%E5%8F%97%E5%AE%B3%E8%80%85",
     "timestamp": "2026-02-09T14:44:13.817Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "殿堂級女星拖買餸車仔辦年貨　網民大讚貼地仲話個樣好好笑",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260209/1097580818324262912608245.jpeg/R49PkNWDzEGEfVSCQ9XXeIMxlhmf9PBgRGZXnkRmV54?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60320711/%E6%B1%AA%E6%98%8E%E8%8D%83%E4%B8%8D%E6%96%BD%E8%84%82%E7%B2%89%E6%8B%96%E8%B2%B7%E9%A4%B8%E8%BB%8A%E4%BB%94%E8%BE%A6%E5%B9%B4%E8%B2%A8-%E7%B6%B2%E6%B0%91%E5%A4%A7%E8%AE%9A%E8%B2%BC%E5%9C%B0%E4%BB%B2%E8%A9%B1%E5%80%8B%E6%A8%A3%E5%A5%BD%E5%A5%BD%E7%AC%91",
-    "timestamp": "2026-02-09T14:17:20.179Z",
     "strategy": ".content-card__main"
   }
 ];
