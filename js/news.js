@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-10T18:43:01.624Z
+// Last updated: 2026-02-10T19:16:47.612Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "紅磡地舖燒臘店閉門失火　消防開喉灌救　樓上大廈60人自行疏散",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260211/1098083548423786496794850.jpeg/RkMxP-3qkc13tDVyVq6_pya-0FcVY_j4hJIlIb6SJSE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60321196/%E7%B4%85%E7%A3%A1%E5%9C%B0%E8%88%96%E7%87%92%E8%87%98%E5%BA%97%E9%96%89%E9%96%80%E5%A4%B1%E7%81%AB-%E6%B6%88%E9%98%B2%E9%96%8B%E5%96%89%E7%81%8C%E6%95%91-%E6%A8%93%E4%B8%8A%E5%A4%A7%E5%BB%8860%E4%BA%BA%E8%87%AA%E8%A1%8C%E7%96%8F%E6%95%A3",
+    "timestamp": "2026-02-10T19:16:47.612Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "上水清河邨單位起火　消防開喉灌救　逾300人漏夜疏散",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20231206/809145810993287168870953.jpeg/H2wuserPnbdhRaygQZRfK1MVEJgV0JeSh7-nIoe_pyI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60321076/tvb%E5%8E%BB%E5%B9%B4%E8%BD%89%E8%B3%BA5%E5%8D%83%E8%90%AC%E5%85%83-%E5%85%A8%E5%B9%B4%E5%9C%B0%E9%9D%A2%E5%85%8D%E8%B2%BB%E9%A0%BB%E9%81%93%E5%BB%A3%E5%91%8A%E6%94%B6%E5%85%A5%E6%8C%89%E5%B9%B4%E9%8C%84%E9%9B%99%E4%BD%8D%E6%95%B8%E5%A2%9E%E5%B9%85",
     "timestamp": "2026-02-10T09:13:18.064Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "滙豐研究稱馬年聚焦五大投資主題　予長建等3港股買入評級",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260210/1097929182186311680592874.png/20npvFwt7ACBz5F4WaZRwIR0pLXftWjXAFpItABaSLQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60321057/%E6%BB%99%E8%B1%90%E7%A0%94%E7%A9%B6%E7%A8%B1%E9%A6%AC%E5%B9%B4%E8%81%9A%E7%84%A6%E4%BA%94%E5%A4%A7%E6%8A%95%E8%B3%87%E4%B8%BB%E9%A1%8C-%E4%BA%88%E9%95%B7%E5%BB%BA%E7%AD%893%E6%B8%AF%E8%82%A1%E8%B2%B7%E5%85%A5%E8%A9%95%E7%B4%9A",
-    "timestamp": "2026-02-10T08:36:36.968Z",
     "strategy": ".content-card__main"
   }
 ];
