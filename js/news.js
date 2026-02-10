@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-10T22:06:52.170Z
+// Last updated: 2026-02-10T22:34:07.580Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "TVB男星開戲做老闆簽星二代身價暴增　人氣堪比視帝出騷歡呼不斷",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260210/1098005561854660608248937.jpeg/CxK_xUktnPPOqmdyBAetbc_or71Vn6InMXUIszF1CLM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60321019/tvb%E7%94%B7%E6%98%9F%E9%96%8B%E6%88%B2%E5%81%9A%E8%80%81%E9%97%86%E7%B0%BD%E6%98%9F%E4%BA%8C%E4%BB%A3%E8%BA%AB%E5%83%B9%E6%9A%B4%E5%A2%9E-%E4%BA%BA%E6%B0%A3%E5%A0%AA%E6%AF%94%E8%A6%96%E5%B8%9D%E5%87%BA%E9%A8%B7%E6%AD%A1%E5%91%BC%E4%B8%8D%E6%96%B7",
+    "timestamp": "2026-02-10T22:34:07.580Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "馬德鐘廣州開演唱會網民感離奇有咩歌唱？　最貴飛賣呢個價有福利",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260108/1085926601574584320506423.jpeg/62mFzC3HMUG8sLnYxcP-HXIzjhSGFIS4g4SFlYOEhZU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60321137/%E8%97%A5%E6%A5%AD%E5%85%AC%E5%8F%B8%E9%AB%98%E5%B1%A4%E9%82%B1%E5%81%89%E8%87%A3%E8%88%87%E7%A7%98%E6%9B%B8%E5%85%AC%E5%8F%B8%E8%91%A3%E4%BA%8B%E5%91%A8%E6%9F%8F%E8%B1%AA%E8%AA%8D%E5%90%88%E8%AC%80%E8%A9%90%E9%A8%99%E6%9C%8D%E5%8B%99%E8%B2%BB110%E8%90%AC",
     "timestamp": "2026-02-10T12:40:49.259Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "失婚影后豪掃貨全方位照顧19歲留學大仔　塞爆車尾箱戰利品超上心",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260210/1097976737972621312938165.png/9cUcvYmvY_Tgwsje30s2thoSNYUUoNEcNlB4czZQeHM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60321133/%E5%BC%B5%E6%9F%8F%E8%8A%9D%E8%B1%AA%E6%8E%83%E8%B2%A8%E5%85%A8%E6%96%B9%E4%BD%8D%E7%85%A7%E9%A1%A719%E6%AD%B2%E7%95%99%E5%AD%B8%E5%A4%A7%E4%BB%94-%E5%A1%9E%E7%88%86%E8%BB%8A%E5%B0%BE%E7%AE%B1%E6%88%B0%E5%88%A9%E5%93%81%E8%B6%85%E4%B8%8A%E5%BF%83",
-    "timestamp": "2026-02-10T12:06:42.812Z",
     "strategy": ".content-card__main"
   }
 ];
