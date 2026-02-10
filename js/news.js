@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-10T17:18:15.178Z
+// Last updated: 2026-02-10T17:45:27.775Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "農曆新年｜車公廟年廿九及初二通宵開放　限帶3支細香",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250203/963079021171052544852061.jpeg/CcwInYDhVnAP56v8CBUflmGCA_L5xUe4Bpcx1ByXMdQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60321187/%E8%BE%B2%E6%9B%86%E6%96%B0%E5%B9%B4-%E8%BB%8A%E5%85%AC%E5%BB%9F%E5%B9%B4%E5%BB%BF%E4%B9%9D%E5%8F%8A%E5%88%9D%E4%BA%8C%E9%80%9A%E5%AE%B5%E9%96%8B%E6%94%BE-%E9%99%90%E5%B8%B63%E6%94%AF%E7%B4%B0%E9%A6%99",
+    "timestamp": "2026-02-10T17:45:27.775Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "日本關西國際機場：1月中國航班旅客急跌58%　港澳航班旅客減12%",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260210/1097916940757766144183527.jpeg/OYP9ETy5Wryg0L62GXxSmpr4h2AEGbAjVL2FulS9hbo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%A3%9F%E7%8E%A9%E8%B2%B7/60320709/%E6%96%B0%E5%B9%B4%E7%A6%81%E5%BF%8C2026-%E5%88%9D%E4%B8%80%E5%BF%8C%E5%82%AC%E8%B5%B7%E5%BA%8A%E6%B2%96%E6%B6%BC%E9%83%BD%E5%94%94%E5%A5%BD-19%E7%A6%81%E5%BF%8C%E5%81%9A%E9%8C%AF%E9%9A%A8%E6%99%82%E5%85%A8%E5%B9%B4%E8%A1%B0%E9%81%8B",
     "timestamp": "2026-02-10T07:47:17.435Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "冬奧｜特朗普痛斥美滑雪名將　谷愛凌：很遺憾，完全違背奧運初衷",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250204/963472863560732672368921.jpeg/7Wvc-iPh-1N_33MEADPtQNDnGCCot9DircYp063GKdM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60320993/%E7%B1%B3%E8%98%AD%E5%86%AC%E5%A5%A7-%E7%89%B9%E6%9C%97%E6%99%AE%E7%97%9B%E6%96%A5hunter-hess-%E8%B0%B7%E6%84%9B%E5%87%8C-%E5%AE%8C%E5%85%A8%E9%81%95%E8%83%8C%E5%A5%A7%E9%81%8B%E5%88%9D%E8%A1%B7",
-    "timestamp": "2026-02-10T07:20:04.812Z",
     "strategy": ".content-card__main"
   }
 ];
