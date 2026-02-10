@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-10T16:46:57.854Z
+// Last updated: 2026-02-10T17:18:15.178Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "日本關西國際機場：1月中國航班旅客急跌58%　港澳航班旅客減12%",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260211/1098057416391528448506943.jpeg/ekc0x-LCATQ7c7bvsh-pLbxpxI5hI5SHsr-LbrK_i24?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60321185/%E6%97%A5%E6%9C%AC%E9%97%9C%E8%A5%BF%E5%9C%8B%E9%9A%9B%E6%A9%9F%E5%A0%B4-1%E6%9C%88%E4%B8%AD%E5%9C%8B%E8%88%AA%E7%8F%AD%E6%97%85%E5%AE%A2%E6%80%A5%E8%B7%8C58-%E6%B8%AF%E6%BE%B3%E8%88%AA%E7%8F%AD%E6%97%85%E5%AE%A2%E6%B8%9B12",
+    "timestamp": "2026-02-10T17:18:15.178Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "宏福苑火災｜穗禾苑棚網下架兩個月　終獲集體採購送抵屋苑",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250204/963472863560732672368921.jpeg/7Wvc-iPh-1N_33MEADPtQNDnGCCot9DircYp063GKdM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60320993/%E7%B1%B3%E8%98%AD%E5%86%AC%E5%A5%A7-%E7%89%B9%E6%9C%97%E6%99%AE%E7%97%9B%E6%96%A5hunter-hess-%E8%B0%B7%E6%84%9B%E5%87%8C-%E5%AE%8C%E5%85%A8%E9%81%95%E8%83%8C%E5%A5%A7%E9%81%8B%E5%88%9D%E8%A1%B7",
     "timestamp": "2026-02-10T07:20:04.812Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "兄弟賣樓分身家　435萬售友光大廈三房　移民客入市作探親落腳點",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260210/1097867777978404864539487.jpeg/MrcuFLnx5myvLEe6u543oIqjeKW_Hstl7no-S-56Pks?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60320935/%E5%85%84%E5%BC%9F%E8%B3%A3%E6%A8%93%E5%88%86%E8%BA%AB%E5%AE%B6-435%E8%90%AC%E5%94%AE%E5%8F%8B%E5%85%89%E5%A4%A7%E5%BB%88%E4%B8%89%E6%88%BF-%E7%A7%BB%E6%B0%91%E5%AE%A2%E5%85%A5%E5%B8%82%E4%BD%9C%E6%8E%A2%E8%A6%AA%E8%90%BD%E8%85%B3%E9%BB%9E",
-    "timestamp": "2026-02-10T06:47:57.404Z",
     "strategy": ".content-card__main"
   }
 ];
