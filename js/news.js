@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-10T15:15:20.132Z
+// Last updated: 2026-02-10T15:47:15.268Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "六合彩2.12頭獎$800萬｜6個最旺號碼+2招增中獎機會+幸運投注站",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260210/1098013463818539008071653.jpeg/foG-MqkQueX0lMkoCh_1b7O8wuAOODR2AL4H1wC-B9c?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60321168/%E5%85%AD%E5%90%88%E5%BD%A92-12%E9%A0%AD%E7%8D%8E-800%E8%90%AC-6%E5%80%8B%E6%9C%80%E6%97%BA%E8%99%9F%E7%A2%BC-2%E6%8B%9B%E5%A2%9E%E4%B8%AD%E7%8D%8E%E6%A9%9F%E6%9C%83-%E5%B9%B8%E9%81%8B%E6%8A%95%E6%B3%A8%E7%AB%99",
+    "timestamp": "2026-02-10T15:47:15.268Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "調查揭長者同住孤獨：40%受訪長者有心事無人講　近半與兒孫同住",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260210/1097872022823768064683749.png/rgm7n82mgWAUUQcDa_tAqC9e5QlqV4qN-kJRP_pCUT8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60320940/%E8%B7%B3%E8%88%9E%E6%A9%9F%E6%A2%B0%E4%BA%BA%E8%B6%95%E6%96%B0%E6%98%A5%E6%AA%94%E6%9C%9F-%E5%B9%B9%E5%86%92%E7%85%99-%E7%A7%9F%E8%B3%83%E4%BE%9B%E4%B8%8D%E6%87%89%E6%B1%82-%E6%97%A5%E8%96%AA%E9%AB%98%E9%81%948000",
     "timestamp": "2026-02-10T05:41:33.806Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "渣打委Peter Burrill為暫任財務總監　即日生效",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260205/1096158481276211200628735.jpeg/_rQmKpOY90SyV_egnaDl1R-1P0mrJi0B3mYuHt5mLh4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60320944/%E6%B8%A3%E6%89%93%E5%A7%94peter-burrill%E7%82%BA%E6%9A%AB%E4%BB%BB%E8%B2%A1%E5%8B%99%E7%B8%BD%E7%9B%A3-%E5%8D%B3%E6%97%A5%E7%94%9F%E6%95%88",
-    "timestamp": "2026-02-10T04:56:06.636Z",
     "strategy": ".content-card__main"
   }
 ];
