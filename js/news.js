@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-10T08:36:36.968Z
+// Last updated: 2026-02-10T09:13:18.064Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "TVB去年轉賺5千萬元　全年地面免費頻道廣告收入按年錄雙位數增幅",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20231206/809145810993287168870953.jpeg/H2wuserPnbdhRaygQZRfK1MVEJgV0JeSh7-nIoe_pyI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60321076/tvb%E5%8E%BB%E5%B9%B4%E8%BD%89%E8%B3%BA5%E5%8D%83%E8%90%AC%E5%85%83-%E5%85%A8%E5%B9%B4%E5%9C%B0%E9%9D%A2%E5%85%8D%E8%B2%BB%E9%A0%BB%E9%81%93%E5%BB%A3%E5%91%8A%E6%94%B6%E5%85%A5%E6%8C%89%E5%B9%B4%E9%8C%84%E9%9B%99%E4%BD%8D%E6%95%B8%E5%A2%9E%E5%B9%85",
+    "timestamp": "2026-02-10T09:13:18.064Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "滙豐研究稱馬年聚焦五大投資主題　予長建等3港股買入評級",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260210/1097744659360256000126780.jpeg/enLrA9Rel7PbgiNB0yf9lJBtO4FmccxjPxwKdT8cCnU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60320830/%E6%84%9B%E6%BD%91%E6%96%AF%E5%9D%A6%E6%A1%88-%E8%8B%B1%E7%8E%8B%E5%B0%8D%E5%AE%89%E5%BE%B7%E9%AD%AF%E9%86%9C%E8%81%9E%E8%A1%A8%E9%97%9C%E5%88%87-%E7%99%BD%E9%87%91%E6%BC%A2%E5%AE%AE-%E5%B0%87%E6%94%AF%E6%8C%81%E8%AD%A6%E6%96%B9%E8%AA%BF%E6%9F%A5",
     "timestamp": "2026-02-09T20:53:12.119Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "半山豪宅露台燒烤疑燒著罐裝氣體起火　住戶自行救熄無人傷│有片",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260210/1097740394818441216730294.jpeg/Jtqwhxz8FzLw4ifVGlBD_YL1wDMgbjBxB5HNRAeRzUQ",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60320831/%E5%8D%8A%E5%B1%B1%E8%B1%AA%E5%AE%85%E9%9C%B2%E5%8F%B0%E7%87%92%E7%83%A4%E7%96%91%E7%87%92%E8%91%97%E7%BD%90%E8%A3%9D%E6%B0%A3%E9%AB%94%E8%B5%B7%E7%81%AB-%E4%BD%8F%E6%88%B6%E8%87%AA%E8%A1%8C%E6%95%91%E7%86%84%E7%84%A1%E4%BA%BA%E5%82%B7-%E6%9C%89%E7%89%87",
-    "timestamp": "2026-02-09T20:22:43.156Z",
     "strategy": ".content-card__main"
   }
 ];
