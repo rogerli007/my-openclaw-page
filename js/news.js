@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-10T12:06:42.812Z
+// Last updated: 2026-02-10T12:40:49.259Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "藥業公司高層邱偉臣與秘書公司董事周柏豪認合謀詐騙服務費110萬",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260108/1085926601574584320506423.jpeg/62mFzC3HMUG8sLnYxcP-HXIzjhSGFIS4g4SFlYOEhZU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60321137/%E8%97%A5%E6%A5%AD%E5%85%AC%E5%8F%B8%E9%AB%98%E5%B1%A4%E9%82%B1%E5%81%89%E8%87%A3%E8%88%87%E7%A7%98%E6%9B%B8%E5%85%AC%E5%8F%B8%E8%91%A3%E4%BA%8B%E5%91%A8%E6%9F%8F%E8%B1%AA%E8%AA%8D%E5%90%88%E8%AC%80%E8%A9%90%E9%A8%99%E6%9C%8D%E5%8B%99%E8%B2%BB110%E8%90%AC",
+    "timestamp": "2026-02-10T12:40:49.259Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "失婚影后豪掃貨全方位照顧19歲留學大仔　塞爆車尾箱戰利品超上心",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20230918/780555067106267136648931.jpeg/rFRgI---1LBcIpZUWshNyYgGdbkLUYhJ8eBZX_HgWV8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60320829/%E7%BE%8E%E5%9C%8B%E6%B5%B7%E4%BA%8B%E7%AE%A1%E7%90%86%E5%B1%80-%E7%BE%8E%E5%9C%8B%E5%95%86%E8%88%B9%E6%87%89%E9%81%A0%E9%9B%A2%E4%BC%8A%E6%9C%97%E9%A0%98%E6%B5%B7",
     "timestamp": "2026-02-10T00:51:22.996Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "珍惜生命│男子倒斃金鐘太古廣場對開　疑從酒店平台墮下",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260210/1097790286597197824936825.jpeg/VCTGXNURKimxAp6iS6JKlIZOXNJsofk3ZbXYMEC12DA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60320834/%E7%8F%8D%E6%83%9C%E7%94%9F%E5%91%BD-%E7%94%B7%E5%AD%90%E5%80%92%E6%96%83%E9%87%91%E9%90%98%E5%A4%AA%E5%8F%A4%E5%BB%A3%E5%A0%B4%E5%B0%8D%E9%96%8B-%E7%96%91%E5%BE%9E%E9%85%92%E5%BA%97%E5%B9%B3%E5%8F%B0%E5%A2%AE%E4%B8%8B",
-    "timestamp": "2026-02-09T23:52:29.769Z",
     "strategy": ".content-card__main"
   }
 ];
