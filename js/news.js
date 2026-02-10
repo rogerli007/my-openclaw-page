@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-10T04:56:06.636Z
+// Last updated: 2026-02-10T05:41:33.806Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "跳舞機械人趕新春檔期「幹冒煙」　租賃供不應求　日薪高達8000",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260210/1097872022823768064683749.png/rgm7n82mgWAUUQcDa_tAqC9e5QlqV4qN-kJRP_pCUT8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60320940/%E8%B7%B3%E8%88%9E%E6%A9%9F%E6%A2%B0%E4%BA%BA%E8%B6%95%E6%96%B0%E6%98%A5%E6%AA%94%E6%9C%9F-%E5%B9%B9%E5%86%92%E7%85%99-%E7%A7%9F%E8%B3%83%E4%BE%9B%E4%B8%8D%E6%87%89%E6%B1%82-%E6%97%A5%E8%96%AA%E9%AB%98%E9%81%948000",
+    "timestamp": "2026-02-10T05:41:33.806Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "渣打委Peter Burrill為暫任財務總監　即日生效",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260209/1097680322557906944857096.jpeg/IRgZsNEwDMH-OF0kFWKZsgklofUtZRCi1vb7MNb2-zA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60320817/%E5%B1%B1%E6%9D%B1%E6%8B%9B%E9%81%A0%E4%B8%80%E9%87%91%E7%A4%A6%E7%99%BC%E7%94%9F%E5%A2%9C%E7%BD%90%E4%BA%8B%E6%95%85-%E9%80%A0%E6%88%907%E4%BA%BA%E6%AD%BB%E4%BA%A1",
     "timestamp": "2026-02-09T16:12:47.285Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美知名主持人爆「內幕」︰比特幣跌至6萬　特朗普便會填滿儲備",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20251202/1072587371309961216854972.jpeg/mIcVaBOJVTjWSnMDWq_6EQO7ai2PAbaEYb9qf2G_an8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60320811/%E7%BE%8E%E7%9F%A5%E5%90%8D%E4%B8%BB%E6%8C%81%E4%BA%BA%E7%88%86-%E5%85%A7%E5%B9%95-%E6%AF%94%E7%89%B9%E5%B9%A3%E8%B7%8C%E8%87%B36%E8%90%AC-%E7%89%B9%E6%9C%97%E6%99%AE%E4%BE%BF%E6%9C%83%E5%A1%AB%E6%BB%BF%E5%84%B2%E5%82%99",
-    "timestamp": "2026-02-09T15:41:01.700Z",
     "strategy": ".content-card__main"
   }
 ];
