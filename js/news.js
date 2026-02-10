@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-10T12:40:49.259Z
+// Last updated: 2026-02-10T13:16:47.185Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "維園年宵2026｜學生賣$68馬公仔　有檔主指市道差：不敢定價太高",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260210/1097969770336096256926780.jpeg/DmO6BnwjAkV-Cd7qBDewYHhv_t3CA4LFhKe27oSntu4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60321113/%E7%B6%AD%E5%9C%92%E5%B9%B4%E5%AE%B52026-%E5%AD%B8%E7%94%9F%E8%B3%A3-68%E9%A6%AC%E5%85%AC%E4%BB%94-%E6%9C%89%E6%AA%94%E4%B8%BB%E6%8C%87%E5%B8%82%E9%81%93%E5%B7%AE-%E4%B8%8D%E6%95%A2%E5%AE%9A%E5%83%B9%E5%A4%AA%E9%AB%98",
+    "timestamp": "2026-02-10T13:16:47.185Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "藥業公司高層邱偉臣與秘書公司董事周柏豪認合謀詐騙服務費110萬",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260127/1092803370005041152084315.jpeg/zB3ews60jHflFfVlu9m2KKVvjP-9RHyt61gRB85YEQc?v=w1920",
     "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60320568/%E7%9B%B4%E6%92%AD-%E6%9D%8E%E5%AE%B6%E8%B6%85%E8%A1%8C%E6%9C%83%E5%89%8D%E8%A6%8B%E8%A8%98%E8%80%85-%E9%BB%8E%E6%99%BA%E8%8B%B1%E6%A1%88%E5%88%A4%E5%88%91%E5%8F%8A%E5%AE%89%E5%85%A8%E5%B8%B6%E4%B9%8B%E4%BA%82%E6%96%99%E6%88%90%E7%82%BA%E7%84%A6%E9%BB%9E",
     "timestamp": "2026-02-10T01:46:19.574Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美國海事管理局：美國商船應遠離伊朗領海",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20230918/780555067106267136648931.jpeg/rFRgI---1LBcIpZUWshNyYgGdbkLUYhJ8eBZX_HgWV8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60320829/%E7%BE%8E%E5%9C%8B%E6%B5%B7%E4%BA%8B%E7%AE%A1%E7%90%86%E5%B1%80-%E7%BE%8E%E5%9C%8B%E5%95%86%E8%88%B9%E6%87%89%E9%81%A0%E9%9B%A2%E4%BC%8A%E6%9C%97%E9%A0%98%E6%B5%B7",
-    "timestamp": "2026-02-10T00:51:22.996Z",
     "strategy": ".content-card__main"
   }
 ];
