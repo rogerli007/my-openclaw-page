@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-10T06:16:02.439Z
+// Last updated: 2026-02-10T06:47:57.404Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "兄弟賣樓分身家　435萬售友光大廈三房　移民客入市作探親落腳點",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260210/1097867777978404864539487.jpeg/MrcuFLnx5myvLEe6u543oIqjeKW_Hstl7no-S-56Pks?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60320935/%E5%85%84%E5%BC%9F%E8%B3%A3%E6%A8%93%E5%88%86%E8%BA%AB%E5%AE%B6-435%E8%90%AC%E5%94%AE%E5%8F%8B%E5%85%89%E5%A4%A7%E5%BB%88%E4%B8%89%E6%88%BF-%E7%A7%BB%E6%B0%91%E5%AE%A2%E5%85%A5%E5%B8%82%E4%BD%9C%E6%8E%A2%E8%A6%AA%E8%90%BD%E8%85%B3%E9%BB%9E",
+    "timestamp": "2026-02-10T06:47:57.404Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "證監會︰兩名「唱高散貨」主腦分別被判監22個月及24個月",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/2837138/org/b907424f50c0dd65f040649a4425715a.jpg/u6EwOOwP393nOvgnKkEBk3aoA6soa-X38sAv2_LAL9s?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60320824/%E7%95%8C%E9%99%90%E8%A1%97%E4%BD%8F%E5%AE%8515%E6%AD%B2%E4%BB%94%E8%A2%AB%E4%BA%BA%E4%BB%A5%E9%9B%BB%E8%85%A6%E6%A4%85%E8%A5%B2%E6%93%8A%E5%8F%97%E5%82%B7-%E8%AD%A6%E6%8B%9860%E6%AD%B2%E7%88%B6%E6%B6%89%E8%99%90%E5%85%92",
     "timestamp": "2026-02-09T18:09:10.232Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "界限街住宅15歲仔被人以電腦椅襲擊受傷　警拘60歲父涉虐兒",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/2837138/org/b907424f50c0dd65f040649a4425715a.jpg/u6EwOOwP393nOvgnKkEBk3aoA6soa-X38sAv2_LAL9s?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60320824/%E7%95%8C%E9%99%90%E8%A1%97%E4%BD%8F%E5%AE%8515%E6%AD%B2%E4%BB%94%E8%A2%AB%E4%BA%BA%E4%BB%A5%E9%9B%BB%E8%85%A6%E6%A4%85%E8%A5%B2%E6%93%8A%E5%8F%97%E5%82%B7-%E8%AD%A6%E6%8B%9860%E6%AD%B2%E7%88%B6%E6%B6%89%E8%99%90%E5%85%92",
-    "timestamp": "2026-02-09T17:39:43.667Z",
     "strategy": ".content-card__main"
   }
 ];
