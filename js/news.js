@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-10T14:39:37.969Z
+// Last updated: 2026-02-10T15:15:20.132Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "調查揭長者同住孤獨：40%受訪長者有心事無人講　近半與兒孫同住",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260210/1097969847242854400594612.jpeg/Zsevgen31EMEM0USWHbfxQQifbknFCD3PTiKZT04imU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60321127/%E8%AA%BF%E6%9F%A5%E6%8F%AD%E9%95%B7%E8%80%85%E5%90%8C%E4%BD%8F%E5%AD%A4%E7%8D%A8-40-%E5%8F%97%E8%A8%AA%E9%95%B7%E8%80%85%E6%9C%89%E5%BF%83%E4%BA%8B%E7%84%A1%E4%BA%BA%E8%AC%9B-%E8%BF%91%E5%8D%8A%E8%88%87%E5%85%92%E5%AD%AB%E5%90%8C%E4%BD%8F",
+    "timestamp": "2026-02-10T15:15:20.132Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "《寶貝智多星》飾演媽媽女星Catherine O'Hara突離世　死因終曝光",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260205/1096158481276211200628735.jpeg/_rQmKpOY90SyV_egnaDl1R-1P0mrJi0B3mYuHt5mLh4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60320944/%E6%B8%A3%E6%89%93%E5%A7%94peter-burrill%E7%82%BA%E6%9A%AB%E4%BB%BB%E8%B2%A1%E5%8B%99%E7%B8%BD%E7%9B%A3-%E5%8D%B3%E6%97%A5%E7%94%9F%E6%95%88",
     "timestamp": "2026-02-10T04:56:06.636Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美國石油封鎖 　古巴被迫暫停航空燃油供應　加航停飛當地航班",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260210/1097847660599054336857193.jpeg/UBve-Wv0ZLBRwYXLJ3_liWN4x-UcWH0KvGc7MLxnOzA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60320883/%E7%BE%8E%E5%9C%8B%E7%9F%B3%E6%B2%B9%E5%B0%81%E9%8E%96-%E5%8F%A4%E5%B7%B4%E8%A2%AB%E8%BF%AB%E6%9A%AB%E5%81%9C%E8%88%AA%E7%A9%BA%E7%87%83%E6%B2%B9%E4%BE%9B%E6%87%89-%E5%8A%A0%E8%88%AA%E5%81%9C%E9%A3%9B%E7%95%B6%E5%9C%B0%E8%88%AA%E7%8F%AD",
-    "timestamp": "2026-02-10T03:50:55.365Z",
     "strategy": ".content-card__main"
   }
 ];
