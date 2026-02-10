@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-10T11:40:06.526Z
+// Last updated: 2026-02-10T12:06:42.812Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "失婚影后豪掃貨全方位照顧19歲留學大仔　塞爆車尾箱戰利品超上心",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260210/1097976737972621312938165.png/9cUcvYmvY_Tgwsje30s2thoSNYUUoNEcNlB4czZQeHM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60321133/%E5%BC%B5%E6%9F%8F%E8%8A%9D%E8%B1%AA%E6%8E%83%E8%B2%A8%E5%85%A8%E6%96%B9%E4%BD%8D%E7%85%A7%E9%A1%A719%E6%AD%B2%E7%95%99%E5%AD%B8%E5%A4%A7%E4%BB%94-%E5%A1%9E%E7%88%86%E8%BB%8A%E5%B0%BE%E7%AE%B1%E6%88%B0%E5%88%A9%E5%93%81%E8%B6%85%E4%B8%8A%E5%BF%83",
+    "timestamp": "2026-02-10T12:06:42.812Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "波蘭9歲神童2.76秒解扭計骰破世界紀錄　成史上首位破3秒大關的人",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260210/1097790286597197824936825.jpeg/VCTGXNURKimxAp6iS6JKlIZOXNJsofk3ZbXYMEC12DA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60320834/%E7%8F%8D%E6%83%9C%E7%94%9F%E5%91%BD-%E7%94%B7%E5%AD%90%E5%80%92%E6%96%83%E9%87%91%E9%90%98%E5%A4%AA%E5%8F%A4%E5%BB%A3%E5%A0%B4%E5%B0%8D%E9%96%8B-%E7%96%91%E5%BE%9E%E9%85%92%E5%BA%97%E5%B9%B3%E5%8F%B0%E5%A2%AE%E4%B8%8B",
     "timestamp": "2026-02-09T23:52:29.769Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "建生邨冷氣機去水喉工程　房委會投｢關鍵一票｣通過：評估多項因素",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260210/1097785642097577984374015.jpeg/IKKFawoNY11FOow4YxuCu0N8rLOX1GpNpcWv6qXFr-o?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60320816/%E5%BB%BA%E7%94%9F%E9%82%A8%E5%86%B7%E6%B0%A3%E6%A9%9F%E5%8E%BB%E6%B0%B4%E5%96%89%E5%B7%A5%E7%A8%8B-%E6%88%BF%E5%A7%94%E6%9C%83%E6%8A%95-%E9%97%9C%E9%8D%B5%E4%B8%80%E7%A5%A8-%E9%80%9A%E9%81%8E-%E8%A9%95%E4%BC%B0%E5%A4%9A%E9%A0%85%E5%9B%A0%E7%B4%A0",
-    "timestamp": "2026-02-09T23:22:18.475Z",
     "strategy": ".content-card__main"
   }
 ];
