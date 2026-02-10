@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-10T03:50:55.365Z
+// Last updated: 2026-02-10T04:56:06.636Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "渣打委Peter Burrill為暫任財務總監　即日生效",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260205/1096158481276211200628735.jpeg/_rQmKpOY90SyV_egnaDl1R-1P0mrJi0B3mYuHt5mLh4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60320944/%E6%B8%A3%E6%89%93%E5%A7%94peter-burrill%E7%82%BA%E6%9A%AB%E4%BB%BB%E8%B2%A1%E5%8B%99%E7%B8%BD%E7%9B%A3-%E5%8D%B3%E6%97%A5%E7%94%9F%E6%95%88",
+    "timestamp": "2026-02-10T04:56:06.636Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美國石油封鎖 　古巴被迫暫停航空燃油供應　加航停飛當地航班",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20251202/1072587371309961216854972.jpeg/mIcVaBOJVTjWSnMDWq_6EQO7ai2PAbaEYb9qf2G_an8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60320811/%E7%BE%8E%E7%9F%A5%E5%90%8D%E4%B8%BB%E6%8C%81%E4%BA%BA%E7%88%86-%E5%85%A7%E5%B9%95-%E6%AF%94%E7%89%B9%E5%B9%A3%E8%B7%8C%E8%87%B36%E8%90%AC-%E7%89%B9%E6%9C%97%E6%99%AE%E4%BE%BF%E6%9C%83%E5%A1%AB%E6%BB%BF%E5%84%B2%E5%82%99",
     "timestamp": "2026-02-09T15:41:01.700Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "黎智英判囚｜政府：強烈譴責外部勢力污衊抹黑法庭判刑",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260209/1097460569516150784043817.jpeg/3oPSAp0ZsS5MQ7opNV5dpC2SlykFpYCV3kc1XN5HNVw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60320803/%E9%BB%8E%E6%99%BA%E8%8B%B1%E5%88%A4%E5%9B%9A-%E6%94%BF%E5%BA%9C-%E5%BC%B7%E7%83%88%E8%AD%B4%E8%B2%AC%E5%A4%96%E9%83%A8%E5%8B%A2%E5%8A%9B%E6%B1%A1%E8%A1%8A%E6%8A%B9%E9%BB%91%E6%B3%95%E5%BA%AD%E5%88%A4%E5%88%91",
-    "timestamp": "2026-02-09T15:12:43.260Z",
     "strategy": ".content-card__main"
   }
 ];
