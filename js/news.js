@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-10T02:47:14.207Z
+// Last updated: 2026-02-10T03:50:55.365Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美國石油封鎖 　古巴被迫暫停航空燃油供應　加航停飛當地航班",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260210/1097847660599054336857193.jpeg/UBve-Wv0ZLBRwYXLJ3_liWN4x-UcWH0KvGc7MLxnOzA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60320883/%E7%BE%8E%E5%9C%8B%E7%9F%B3%E6%B2%B9%E5%B0%81%E9%8E%96-%E5%8F%A4%E5%B7%B4%E8%A2%AB%E8%BF%AB%E6%9A%AB%E5%81%9C%E8%88%AA%E7%A9%BA%E7%87%83%E6%B2%B9%E4%BE%9B%E6%87%89-%E5%8A%A0%E8%88%AA%E5%81%9C%E9%A3%9B%E7%95%B6%E5%9C%B0%E8%88%AA%E7%8F%AD",
+    "timestamp": "2026-02-10T03:50:55.365Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "主教山僭建｜地政接管土地　毛澤東雕像今已被移走",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260209/1097460569516150784043817.jpeg/3oPSAp0ZsS5MQ7opNV5dpC2SlykFpYCV3kc1XN5HNVw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60320803/%E9%BB%8E%E6%99%BA%E8%8B%B1%E5%88%A4%E5%9B%9A-%E6%94%BF%E5%BA%9C-%E5%BC%B7%E7%83%88%E8%AD%B4%E8%B2%AC%E5%A4%96%E9%83%A8%E5%8B%A2%E5%8A%9B%E6%B1%A1%E8%A1%8A%E6%8A%B9%E9%BB%91%E6%B3%95%E5%BA%AD%E5%88%A4%E5%88%91",
     "timestamp": "2026-02-09T15:12:43.260Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "威廉凱特首度就安德魯涉愛潑斯坦案發聲：感擔憂　始終牽掛受害者",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260209/1097654847366238208982407.jpeg/EYikdci0c6srVRc12O8pzmcvYFXTR2o51A_Ax9QPwMc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60320797/%E5%A8%81%E5%BB%89%E5%87%B1%E7%89%B9%E9%A6%96%E5%BA%A6%E5%B0%B1%E5%AE%89%E5%BE%B7%E9%AD%AF%E6%B6%89%E6%84%9B%E6%BD%91%E6%96%AF%E5%9D%A6%E6%A1%88%E7%99%BC%E8%81%B2-%E6%84%9F%E6%93%94%E6%86%82-%E5%A7%8B%E7%B5%82%E7%89%BD%E6%8E%9B%E5%8F%97%E5%AE%B3%E8%80%85",
-    "timestamp": "2026-02-09T14:44:13.817Z",
     "strategy": ".content-card__main"
   }
 ];
