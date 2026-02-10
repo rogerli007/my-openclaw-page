@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-10T08:11:04.887Z
+// Last updated: 2026-02-10T08:36:36.968Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "滙豐研究稱馬年聚焦五大投資主題　予長建等3港股買入評級",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260210/1097929182186311680592874.png/20npvFwt7ACBz5F4WaZRwIR0pLXftWjXAFpItABaSLQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60321057/%E6%BB%99%E8%B1%90%E7%A0%94%E7%A9%B6%E7%A8%B1%E9%A6%AC%E5%B9%B4%E8%81%9A%E7%84%A6%E4%BA%94%E5%A4%A7%E6%8A%95%E8%B3%87%E4%B8%BB%E9%A1%8C-%E4%BA%88%E9%95%B7%E5%BB%BA%E7%AD%893%E6%B8%AF%E8%82%A1%E8%B2%B7%E5%85%A5%E8%A9%95%E7%B4%9A",
+    "timestamp": "2026-02-10T08:36:36.968Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "髮菜蠔豉燜冬菇食譜｜簡易賀年菜髮菜浸幾耐？專家教加1物更柔滑",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260210/1097740394818441216730294.jpeg/Jtqwhxz8FzLw4ifVGlBD_YL1wDMgbjBxB5HNRAeRzUQ",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60320831/%E5%8D%8A%E5%B1%B1%E8%B1%AA%E5%AE%85%E9%9C%B2%E5%8F%B0%E7%87%92%E7%83%A4%E7%96%91%E7%87%92%E8%91%97%E7%BD%90%E8%A3%9D%E6%B0%A3%E9%AB%94%E8%B5%B7%E7%81%AB-%E4%BD%8F%E6%88%B6%E8%87%AA%E8%A1%8C%E6%95%91%E7%86%84%E7%84%A1%E4%BA%BA%E5%82%B7-%E6%9C%89%E7%89%87",
     "timestamp": "2026-02-09T20:22:43.156Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "油尖區內掃黃及打擊黑工　執法部門拘33人年齡介乎18至65歲",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260210/1097716374664384512153820.jpeg/ph09ppbjK2-bSJJKZl-M5G-gV3yqK1wiE9FuLxPRbi8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60320828/%E6%B2%B9%E5%B0%96%E5%8D%80%E5%85%A7%E6%8E%83%E9%BB%83%E5%8F%8A%E6%89%93%E6%93%8A%E9%BB%91%E5%B7%A5-%E5%9F%B7%E6%B3%95%E9%83%A8%E9%96%80%E6%8B%9833%E4%BA%BA%E5%B9%B4%E9%BD%A1%E4%BB%8B%E4%B9%8E18%E8%87%B365%E6%AD%B2",
-    "timestamp": "2026-02-09T19:58:56.259Z",
     "strategy": ".content-card__main"
   }
 ];
