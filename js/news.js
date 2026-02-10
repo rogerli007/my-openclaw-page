@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-10T10:13:31.662Z
+// Last updated: 2026-02-10T10:40:52.848Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "AI讓人更笨還是更強？他憂思考能力下降　網揭「高強度腦力用法」",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260207/1096609506684571648235761.jpeg/gV_Q03iBNG1Ld5sYbutIEsTS9vR3YDOjfpf7wSeX-8E?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60321051/ai%E8%AE%93%E4%BA%BA%E6%9B%B4%E7%AC%A8%E9%82%84%E6%98%AF%E6%9B%B4%E5%BC%B7-%E4%BB%96%E6%86%82%E6%80%9D%E8%80%83%E8%83%BD%E5%8A%9B%E4%B8%8B%E9%99%8D-%E7%B6%B2%E6%8F%AD-%E9%AB%98%E5%BC%B7%E5%BA%A6%E8%85%A6%E5%8A%9B%E7%94%A8%E6%B3%95",
+    "timestamp": "2026-02-10T10:40:52.848Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "機場中場客運廊火警｜3登機橋需暫時關閉　部份航機改泊遠方機位",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260209/1097654843251625984896354.jpeg/jLFUOl6kCdUobgHbZ6Y4KUgBPz0H_lQfVYmQklWJkJI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60320777/%E6%9D%8E%E9%BE%8D%E5%9F%BA%E4%B8%8D%E6%BB%BF%E8%A2%AB%E6%AD%90%E9%8C%A6%E6%A3%A0%E6%B6%88%E8%B2%BB-%E5%8F%8D%E6%93%8A%E8%87%A8%E6%99%82%E6%8E%A8%E5%8A%87%E6%8C%87%E6%8E%A7%E5%9B%A0%E4%B8%80%E4%BA%8B%E6%B1%BA%E5%AE%9A%E4%B8%8D%E5%90%88%E4%BD%9C%E7%82%BA%E5%A6%99",
     "timestamp": "2026-02-09T22:21:07.128Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美媒：特朗普將於4月首周訪華",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20251114/1066020653993299968905612.jpeg/qUCXsZXrZSYtI4kHlG0kXqKdCvYl-uv2OTy8fDk8vHw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60320832/%E7%BE%8E%E5%AA%92-%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%87%E6%96%BC4%E6%9C%88%E9%A6%96%E5%91%A8%E8%A8%AA%E8%8F%AF",
-    "timestamp": "2026-02-09T21:52:42.573Z",
     "strategy": ".content-card__main"
   }
 ];
