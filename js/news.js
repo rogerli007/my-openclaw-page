@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-10T13:16:47.185Z
+// Last updated: 2026-02-10T13:57:39.108Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "土瓜灣金寶肉食公司鼠患嚴重　食環署指滅鼠措施未達標　拒絕解封",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260210/1097998803023171584604532.jpeg/c9Aq2TCBdRIs-G2d3FhzRRXrdrMVCvpXt9thArfbYQI?v=w1920r16_9",
+    "url": "https://www.hk01.com/18%E5%8D%80%E6%96%B0%E8%81%9E/60321152/%E5%9C%9F%E7%93%9C%E7%81%A3%E9%87%91%E5%AF%B6%E8%82%89%E9%A3%9F%E5%85%AC%E5%8F%B8%E9%BC%A0%E6%82%A3%E5%9A%B4%E9%87%8D-%E9%A3%9F%E7%92%B0%E7%BD%B2%E6%8C%87%E6%BB%85%E9%BC%A0%E6%8E%AA%E6%96%BD%E6%9C%AA%E9%81%94%E6%A8%99-%E6%8B%92%E7%B5%95%E8%A7%A3%E5%B0%81",
+    "timestamp": "2026-02-10T13:57:39.108Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "維園年宵2026｜學生賣$68馬公仔　有檔主指市道差：不敢定價太高",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260210/1097835680035246080208349.jpeg/ZVZn9ci-Vx7-fiAidejYtugvaVrHp2ZVogwyM5sMMjM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60320875/%E4%B8%BB%E6%95%99%E5%B1%B1%E5%83%AD%E5%BB%BA-%E5%9C%B0%E6%94%BF%E6%8E%A5%E7%AE%A1%E5%9C%9F%E5%9C%B0-%E6%AF%9B%E6%BE%A4%E6%9D%B1%E9%9B%95%E5%83%8F%E4%BB%8A%E5%B7%B2%E8%A2%AB%E7%A7%BB%E8%B5%B0",
     "timestamp": "2026-02-10T02:47:14.207Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "直播｜李家超行會前見記者　黎智英案判刑及安全帶之亂料成為焦點",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260127/1092803370005041152084315.jpeg/zB3ews60jHflFfVlu9m2KKVvjP-9RHyt61gRB85YEQc?v=w1920",
-    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60320568/%E7%9B%B4%E6%92%AD-%E6%9D%8E%E5%AE%B6%E8%B6%85%E8%A1%8C%E6%9C%83%E5%89%8D%E8%A6%8B%E8%A8%98%E8%80%85-%E9%BB%8E%E6%99%BA%E8%8B%B1%E6%A1%88%E5%88%A4%E5%88%91%E5%8F%8A%E5%AE%89%E5%85%A8%E5%B8%B6%E4%B9%8B%E4%BA%82%E6%96%99%E6%88%90%E7%82%BA%E7%84%A6%E9%BB%9E",
-    "timestamp": "2026-02-10T01:46:19.574Z",
     "strategy": ".content-card__main"
   }
 ];
