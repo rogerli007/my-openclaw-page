@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-10T10:40:52.848Z
+// Last updated: 2026-02-10T11:13:04.795Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "少女助兩男勒索嫖客　上訴庭指原審太重視年紀不當　囚18月變4年",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260210/1097968216426156032092751.jpeg/YNFmigE-v-kQ-rVlPoLbhAXNewBh4htXFcH9bxXB_W8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60321128/%E5%B0%91%E5%A5%B3%E5%8A%A9%E5%85%A9%E7%94%B7%E5%8B%92%E7%B4%A2%E5%AB%96%E5%AE%A2-%E4%B8%8A%E8%A8%B4%E5%BA%AD%E6%8C%87%E5%8E%9F%E5%AF%A9%E5%A4%AA%E9%87%8D%E8%A6%96%E5%B9%B4%E7%B4%80%E4%B8%8D%E7%95%B6-%E5%9B%9A18%E6%9C%88%E8%AE%8A4%E5%B9%B4",
+    "timestamp": "2026-02-10T11:13:04.795Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "AI讓人更笨還是更強？他憂思考能力下降　網揭「高強度腦力用法」",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260209/1097659958574452736456039.jpeg/pslghlJq88KhbDdMvglfLLPxpPXF2LL6ICwVyCAsFcg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60320671/%E5%91%A8%E6%85%A7%E6%95%8F%E5%8C%97%E4%B8%8A%E5%90%8D%E6%B0%A3%E5%A4%A7%E9%9A%B1%E9%80%80%E5%BE%8C%E5%BE%A9%E5%87%BA%E6%98%A5%E6%99%9A%E7%B6%B5%E6%8E%92-58%E6%AD%B2%E8%B5%B0%E9%81%8E%E5%87%BA%E8%BB%8C%E9%A2%A8%E6%B3%A2%E5%8B%81%E9%9D%9A%E5%A5%B3",
     "timestamp": "2026-02-09T22:52:34.814Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "李龍基不滿被歐錦棠消費　反擊臨時推劇指控因一事決定不合作為妙",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260209/1097654843251625984896354.jpeg/jLFUOl6kCdUobgHbZ6Y4KUgBPz0H_lQfVYmQklWJkJI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60320777/%E6%9D%8E%E9%BE%8D%E5%9F%BA%E4%B8%8D%E6%BB%BF%E8%A2%AB%E6%AD%90%E9%8C%A6%E6%A3%A0%E6%B6%88%E8%B2%BB-%E5%8F%8D%E6%93%8A%E8%87%A8%E6%99%82%E6%8E%A8%E5%8A%87%E6%8C%87%E6%8E%A7%E5%9B%A0%E4%B8%80%E4%BA%8B%E6%B1%BA%E5%AE%9A%E4%B8%8D%E5%90%88%E4%BD%9C%E7%82%BA%E5%A6%99",
-    "timestamp": "2026-02-09T22:21:07.128Z",
     "strategy": ".content-card__main"
   }
 ];
