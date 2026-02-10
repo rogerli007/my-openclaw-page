@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-10T21:35:26.396Z
+// Last updated: 2026-02-10T22:06:52.170Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "馬德鐘廣州開演唱會網民感離奇有咩歌唱？　最貴飛賣呢個價有福利",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260210/1097957047548252160245036.jpeg/OJln44hgXQ2GslBiRoG6VQ__JgHH3lU4Bjm3XQY5t10?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60321033/%E9%A6%AC%E5%BE%B7%E9%90%98%E5%BB%A3%E5%B7%9E%E9%96%8B%E6%BC%94%E5%94%B1%E6%9C%83%E7%B6%B2%E6%B0%91%E6%84%9F%E9%9B%A2%E5%A5%87%E6%9C%89%E5%92%A9%E6%AD%8C%E5%94%B1-%E6%9C%80%E8%B2%B4%E9%A3%9B%E8%B3%A3%E5%91%A2%E5%80%8B%E5%83%B9%E6%9C%89%E7%A6%8F%E5%88%A9",
+    "timestamp": "2026-02-10T22:06:52.170Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "加州華裔男子非法充當中國代理人　判監4年",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260210/1097976737972621312938165.png/9cUcvYmvY_Tgwsje30s2thoSNYUUoNEcNlB4czZQeHM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60321133/%E5%BC%B5%E6%9F%8F%E8%8A%9D%E8%B1%AA%E6%8E%83%E8%B2%A8%E5%85%A8%E6%96%B9%E4%BD%8D%E7%85%A7%E9%A1%A719%E6%AD%B2%E7%95%99%E5%AD%B8%E5%A4%A7%E4%BB%94-%E5%A1%9E%E7%88%86%E8%BB%8A%E5%B0%BE%E7%AE%B1%E6%88%B0%E5%88%A9%E5%93%81%E8%B6%85%E4%B8%8A%E5%BF%83",
     "timestamp": "2026-02-10T12:06:42.812Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "波蘭9歲神童2.76秒解扭計骰破世界紀錄　成史上首位破3秒大關的人",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260210/1097943972304654336349708.png/xhUDhPPAzP0vucH2GwQgLJW7ByspJ0OTAUxmeQFMZnk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60321094/%E6%B3%A2%E8%98%AD9%E6%AD%B2%E7%A5%9E%E7%AB%A52-76%E7%A7%92%E8%A7%A3%E6%89%AD%E8%A8%88%E9%AA%B0%E7%A0%B4%E4%B8%96%E7%95%8C%E7%B4%80%E9%8C%84-%E6%88%90%E5%8F%B2%E4%B8%8A%E9%A6%96%E4%BD%8D%E7%A0%B43%E7%A7%92%E5%A4%A7%E9%97%9C%E7%9A%84%E4%BA%BA",
-    "timestamp": "2026-02-10T11:40:06.526Z",
     "strategy": ".content-card__main"
   }
 ];
