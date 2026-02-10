@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-10T21:07:30.599Z
+// Last updated: 2026-02-10T21:35:26.396Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "加州華裔男子非法充當中國代理人　判監4年",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20240623/881486239910334464173098.jpeg/30JXhyNye3G5ECd3Oc4lUMTFx3oNq3ozxrvYVsa72FY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60321202/%E5%8A%A0%E5%B7%9E%E8%8F%AF%E8%A3%94%E7%94%B7%E5%AD%90%E9%9D%9E%E6%B3%95%E5%85%85%E7%95%B6%E4%B8%AD%E5%9C%8B%E4%BB%A3%E7%90%86%E4%BA%BA-%E5%88%A4%E7%9B%A34%E5%B9%B4",
+    "timestamp": "2026-02-10T21:35:26.396Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "加州華裔男子非法充當中國代理人　判監4年",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260210/1097943972304654336349708.png/xhUDhPPAzP0vucH2GwQgLJW7ByspJ0OTAUxmeQFMZnk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60321094/%E6%B3%A2%E8%98%AD9%E6%AD%B2%E7%A5%9E%E7%AB%A52-76%E7%A7%92%E8%A7%A3%E6%89%AD%E8%A8%88%E9%AA%B0%E7%A0%B4%E4%B8%96%E7%95%8C%E7%B4%80%E9%8C%84-%E6%88%90%E5%8F%B2%E4%B8%8A%E9%A6%96%E4%BD%8D%E7%A0%B43%E7%A7%92%E5%A4%A7%E9%97%9C%E7%9A%84%E4%BA%BA",
     "timestamp": "2026-02-10T11:40:06.526Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "少女助兩男勒索嫖客　上訴庭指原審太重視年紀不當　囚18月變4年",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260210/1097968216426156032092751.jpeg/YNFmigE-v-kQ-rVlPoLbhAXNewBh4htXFcH9bxXB_W8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60321128/%E5%B0%91%E5%A5%B3%E5%8A%A9%E5%85%A9%E7%94%B7%E5%8B%92%E7%B4%A2%E5%AB%96%E5%AE%A2-%E4%B8%8A%E8%A8%B4%E5%BA%AD%E6%8C%87%E5%8E%9F%E5%AF%A9%E5%A4%AA%E9%87%8D%E8%A6%96%E5%B9%B4%E7%B4%80%E4%B8%8D%E7%95%B6-%E5%9B%9A18%E6%9C%88%E8%AE%8A4%E5%B9%B4",
-    "timestamp": "2026-02-10T11:13:04.795Z",
     "strategy": ".content-card__main"
   }
 ];
