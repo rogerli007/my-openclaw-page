@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-10T06:47:57.404Z
+// Last updated: 2026-02-10T07:20:04.812Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "冬奧｜特朗普痛斥美滑雪名將　谷愛凌：很遺憾，完全違背奧運初衷",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250204/963472863560732672368921.jpeg/7Wvc-iPh-1N_33MEADPtQNDnGCCot9DircYp063GKdM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60320993/%E7%B1%B3%E8%98%AD%E5%86%AC%E5%A5%A7-%E7%89%B9%E6%9C%97%E6%99%AE%E7%97%9B%E6%96%A5hunter-hess-%E8%B0%B7%E6%84%9B%E5%87%8C-%E5%AE%8C%E5%85%A8%E9%81%95%E8%83%8C%E5%A5%A7%E9%81%8B%E5%88%9D%E8%A1%B7",
+    "timestamp": "2026-02-10T07:20:04.812Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "兄弟賣樓分身家　435萬售友光大廈三房　移民客入市作探親落腳點",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260210/1097716374664384512153820.jpeg/ph09ppbjK2-bSJJKZl-M5G-gV3yqK1wiE9FuLxPRbi8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60320828/%E6%B2%B9%E5%B0%96%E5%8D%80%E5%85%A7%E6%8E%83%E9%BB%83%E5%8F%8A%E6%89%93%E6%93%8A%E9%BB%91%E5%B7%A5-%E5%9F%B7%E6%B3%95%E9%83%A8%E9%96%80%E6%8B%9833%E4%BA%BA%E5%B9%B4%E9%BD%A1%E4%BB%8B%E4%B9%8E18%E8%87%B365%E6%AD%B2",
     "timestamp": "2026-02-09T18:40:18.089Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "界限街住宅15歲仔被人以電腦椅襲擊受傷　警拘60歲父涉虐兒",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/2837138/org/b907424f50c0dd65f040649a4425715a.jpg/u6EwOOwP393nOvgnKkEBk3aoA6soa-X38sAv2_LAL9s?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60320824/%E7%95%8C%E9%99%90%E8%A1%97%E4%BD%8F%E5%AE%8515%E6%AD%B2%E4%BB%94%E8%A2%AB%E4%BA%BA%E4%BB%A5%E9%9B%BB%E8%85%A6%E6%A4%85%E8%A5%B2%E6%93%8A%E5%8F%97%E5%82%B7-%E8%AD%A6%E6%8B%9860%E6%AD%B2%E7%88%B6%E6%B6%89%E8%99%90%E5%85%92",
-    "timestamp": "2026-02-09T18:09:10.232Z",
     "strategy": ".content-card__main"
   }
 ];
