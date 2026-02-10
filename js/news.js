@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-10T18:15:18.094Z
+// Last updated: 2026-02-10T18:43:01.624Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "上水清河邨單位起火　消防開喉灌救　逾300人漏夜疏散",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260211/1098070622761652224179523.jpeg/d_xuXinbLB24GxM0VKvIgJViW1bbLZXMY1D3wkZQ98I?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60321192/%E4%B8%8A%E6%B0%B4%E6%B8%85%E6%B2%B3%E9%82%A8%E5%96%AE%E4%BD%8D%E8%B5%B7%E7%81%AB-%E6%B6%88%E9%98%B2%E9%96%8B%E5%96%89%E7%81%8C%E6%95%91-%E9%80%BE300%E4%BA%BA%E6%BC%8F%E5%A4%9C%E7%96%8F%E6%95%A3",
+    "timestamp": "2026-02-10T18:43:01.624Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "上水清河邨單位起火　消防開喉灌救　逾300人漏夜疏散",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260210/1097929182186311680592874.png/20npvFwt7ACBz5F4WaZRwIR0pLXftWjXAFpItABaSLQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60321057/%E6%BB%99%E8%B1%90%E7%A0%94%E7%A9%B6%E7%A8%B1%E9%A6%AC%E5%B9%B4%E8%81%9A%E7%84%A6%E4%BA%94%E5%A4%A7%E6%8A%95%E8%B3%87%E4%B8%BB%E9%A1%8C-%E4%BA%88%E9%95%B7%E5%BB%BA%E7%AD%893%E6%B8%AF%E8%82%A1%E8%B2%B7%E5%85%A5%E8%A9%95%E7%B4%9A",
     "timestamp": "2026-02-10T08:36:36.968Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "髮菜蠔豉燜冬菇食譜｜簡易賀年菜髮菜浸幾耐？專家教加1物更柔滑",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20240131/829404659436228608516087.jpeg/oxeJJb7iejO67DdacXDqTv38fxydnFt33s_I0d7PyNE",
-    "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/289828/%E9%AB%AE%E8%8F%9C%E8%A0%94%E8%B1%89%E7%87%9C%E5%86%AC%E8%8F%87%E9%A3%9F%E8%AD%9C-%E7%B0%A1%E6%98%93%E8%B3%80%E5%B9%B4%E8%8F%9C%E9%AB%AE%E8%8F%9C%E6%B5%B8%E5%B9%BE%E8%80%90-%E5%B0%88%E5%AE%B6%E6%95%99%E5%8A%A01%E7%89%A9%E6%9B%B4%E6%9F%94%E6%BB%91",
-    "timestamp": "2026-02-10T08:11:04.887Z",
     "strategy": ".content-card__main"
   }
 ];
