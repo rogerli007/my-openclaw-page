@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-10T09:43:06.697Z
+// Last updated: 2026-02-10T10:13:31.662Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "機場中場客運廊火警｜3登機橋需暫時關閉　部份航機改泊遠方機位",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260210/1097925454746095616396582.jpeg/f-kTQ2YZiM012lx_Tg6c7iBgXUP0q-VteJyWe3iclns",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60321096/%E6%A9%9F%E5%A0%B4%E4%B8%AD%E5%A0%B4%E5%AE%A2%E9%81%8B%E5%BB%8A%E7%81%AB%E8%AD%A6-3%E7%99%BB%E6%A9%9F%E6%A9%8B%E9%9C%80%E6%9A%AB%E6%99%82%E9%97%9C%E9%96%89-%E9%83%A8%E4%BB%BD%E8%88%AA%E6%A9%9F%E6%94%B9%E6%B3%8A%E9%81%A0%E6%96%B9%E6%A9%9F%E4%BD%8D",
+    "timestamp": "2026-02-10T10:13:31.662Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "ViuTV去年收益10.3億元　母企電盈虧損降至2.53億　末期息28.48仙",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20251114/1066020653993299968905612.jpeg/qUCXsZXrZSYtI4kHlG0kXqKdCvYl-uv2OTy8fDk8vHw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60320832/%E7%BE%8E%E5%AA%92-%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%87%E6%96%BC4%E6%9C%88%E9%A6%96%E5%91%A8%E8%A8%AA%E8%8F%AF",
     "timestamp": "2026-02-09T21:52:42.573Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "愛潑斯坦案｜英王對安德魯醜聞表關切　白金漢宮：將支持警方調查",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260210/1097744659360256000126780.jpeg/enLrA9Rel7PbgiNB0yf9lJBtO4FmccxjPxwKdT8cCnU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60320830/%E6%84%9B%E6%BD%91%E6%96%AF%E5%9D%A6%E6%A1%88-%E8%8B%B1%E7%8E%8B%E5%B0%8D%E5%AE%89%E5%BE%B7%E9%AD%AF%E9%86%9C%E8%81%9E%E8%A1%A8%E9%97%9C%E5%88%87-%E7%99%BD%E9%87%91%E6%BC%A2%E5%AE%AE-%E5%B0%87%E6%94%AF%E6%8C%81%E8%AD%A6%E6%96%B9%E8%AA%BF%E6%9F%A5",
-    "timestamp": "2026-02-09T21:22:44.507Z",
     "strategy": ".content-card__main"
   }
 ];
