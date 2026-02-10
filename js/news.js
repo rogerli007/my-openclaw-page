@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-10T22:57:13.539Z
+// Last updated: 2026-02-10T23:23:39.905Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "熱水爐悲劇｜兒洗澡遇故障漏電觸電　父急救子衝入浴室變雙屍命案",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260210/1097968676470001664752906.png/N4WZsUHgZ86HqWNjrai5ohAgv4lVAQd6UZadNVGWnTU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E8%A9%B1%E9%A1%8C/60320968/%E7%86%B1%E6%B0%B4%E7%88%90%E6%82%B2%E5%8A%87-%E5%85%92%E6%B4%97%E6%BE%A1%E9%81%87%E6%95%85%E9%9A%9C%E6%BC%8F%E9%9B%BB%E8%A7%B8%E9%9B%BB-%E7%88%B6%E6%80%A5%E6%95%91%E5%AD%90%E8%A1%9D%E5%85%A5%E6%B5%B4%E5%AE%A4%E8%AE%8A%E9%9B%99%E5%B1%8D%E5%91%BD%E6%A1%88",
+    "timestamp": "2026-02-10T23:23:39.905Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "港鐵港島綫灣仔站附近列車服務暫停　港鐵指有物件阻礙路軌",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260210/1097998803023171584604532.jpeg/c9Aq2TCBdRIs-G2d3FhzRRXrdrMVCvpXt9thArfbYQI?v=w1920r16_9",
     "url": "https://www.hk01.com/18%E5%8D%80%E6%96%B0%E8%81%9E/60321152/%E5%9C%9F%E7%93%9C%E7%81%A3%E9%87%91%E5%AF%B6%E8%82%89%E9%A3%9F%E5%85%AC%E5%8F%B8%E9%BC%A0%E6%82%A3%E5%9A%B4%E9%87%8D-%E9%A3%9F%E7%92%B0%E7%BD%B2%E6%8C%87%E6%BB%85%E9%BC%A0%E6%8E%AA%E6%96%BD%E6%9C%AA%E9%81%94%E6%A8%99-%E6%8B%92%E7%B5%95%E8%A7%A3%E5%B0%81",
     "timestamp": "2026-02-10T13:57:39.108Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "維園年宵2026｜學生賣$68馬公仔　有檔主指市道差：不敢定價太高",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260210/1097969770336096256926780.jpeg/DmO6BnwjAkV-Cd7qBDewYHhv_t3CA4LFhKe27oSntu4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60321113/%E7%B6%AD%E5%9C%92%E5%B9%B4%E5%AE%B52026-%E5%AD%B8%E7%94%9F%E8%B3%A3-68%E9%A6%AC%E5%85%AC%E4%BB%94-%E6%9C%89%E6%AA%94%E4%B8%BB%E6%8C%87%E5%B8%82%E9%81%93%E5%B7%AE-%E4%B8%8D%E6%95%A2%E5%AE%9A%E5%83%B9%E5%A4%AA%E9%AB%98",
-    "timestamp": "2026-02-10T13:16:47.185Z",
     "strategy": ".content-card__main"
   }
 ];
