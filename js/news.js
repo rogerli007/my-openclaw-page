@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-10T20:35:21.272Z
+// Last updated: 2026-02-10T21:07:30.599Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "加州華裔男子非法充當中國代理人　判監4年",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20240623/881486239910334464173098.jpeg/30JXhyNye3G5ECd3Oc4lUMTFx3oNq3ozxrvYVsa72FY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60321202/%E5%8A%A0%E5%B7%9E%E8%8F%AF%E8%A3%94%E7%94%B7%E5%AD%90%E9%9D%9E%E6%B3%95%E5%85%85%E7%95%B6%E4%B8%AD%E5%9C%8B%E4%BB%A3%E7%90%86%E4%BA%BA-%E5%88%A4%E7%9B%A34%E5%B9%B4",
+    "timestamp": "2026-02-10T21:07:30.599Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "特朗普：假如與伊朗談判破裂　或派第二艘航母打擊群前往中東",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260210/1097968216426156032092751.jpeg/YNFmigE-v-kQ-rVlPoLbhAXNewBh4htXFcH9bxXB_W8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60321128/%E5%B0%91%E5%A5%B3%E5%8A%A9%E5%85%A9%E7%94%B7%E5%8B%92%E7%B4%A2%E5%AB%96%E5%AE%A2-%E4%B8%8A%E8%A8%B4%E5%BA%AD%E6%8C%87%E5%8E%9F%E5%AF%A9%E5%A4%AA%E9%87%8D%E8%A6%96%E5%B9%B4%E7%B4%80%E4%B8%8D%E7%95%B6-%E5%9B%9A18%E6%9C%88%E8%AE%8A4%E5%B9%B4",
     "timestamp": "2026-02-10T11:13:04.795Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "AI讓人更笨還是更強？他憂思考能力下降　網揭「高強度腦力用法」",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260207/1096609506684571648235761.jpeg/gV_Q03iBNG1Ld5sYbutIEsTS9vR3YDOjfpf7wSeX-8E?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60321051/ai%E8%AE%93%E4%BA%BA%E6%9B%B4%E7%AC%A8%E9%82%84%E6%98%AF%E6%9B%B4%E5%BC%B7-%E4%BB%96%E6%86%82%E6%80%9D%E8%80%83%E8%83%BD%E5%8A%9B%E4%B8%8B%E9%99%8D-%E7%B6%B2%E6%8F%AD-%E9%AB%98%E5%BC%B7%E5%BA%A6%E8%85%A6%E5%8A%9B%E7%94%A8%E6%B3%95",
-    "timestamp": "2026-02-10T10:40:52.848Z",
     "strategy": ".content-card__main"
   }
 ];
