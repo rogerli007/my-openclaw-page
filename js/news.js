@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-10T22:34:07.580Z
+// Last updated: 2026-02-10T22:57:13.539Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "港鐵港島綫灣仔站附近列車服務暫停　港鐵指有物件阻礙路軌",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260211/1098146218078375936673940.jpeg/OBqDpqchrpN7JnC3es4uasW3U7KZksEkMlRf9DJUX_Q?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60321210/%E6%B8%AF%E9%90%B5%E6%B8%AF%E5%B3%B6%E7%B6%AB%E7%81%A3%E4%BB%94%E7%AB%99%E9%99%84%E8%BF%91%E5%88%97%E8%BB%8A%E6%9C%8D%E5%8B%99%E6%9A%AB%E5%81%9C-%E6%B8%AF%E9%90%B5%E6%8C%87%E6%9C%89%E7%89%A9%E4%BB%B6%E9%98%BB%E7%A4%99%E8%B7%AF%E8%BB%8C",
+    "timestamp": "2026-02-10T22:57:13.539Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "TVB男星開戲做老闆簽星二代身價暴增　人氣堪比視帝出騷歡呼不斷",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260210/1097969770336096256926780.jpeg/DmO6BnwjAkV-Cd7qBDewYHhv_t3CA4LFhKe27oSntu4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60321113/%E7%B6%AD%E5%9C%92%E5%B9%B4%E5%AE%B52026-%E5%AD%B8%E7%94%9F%E8%B3%A3-68%E9%A6%AC%E5%85%AC%E4%BB%94-%E6%9C%89%E6%AA%94%E4%B8%BB%E6%8C%87%E5%B8%82%E9%81%93%E5%B7%AE-%E4%B8%8D%E6%95%A2%E5%AE%9A%E5%83%B9%E5%A4%AA%E9%AB%98",
     "timestamp": "2026-02-10T13:16:47.185Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "藥業公司高層邱偉臣與秘書公司董事周柏豪認合謀詐騙服務費110萬",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260108/1085926601574584320506423.jpeg/62mFzC3HMUG8sLnYxcP-HXIzjhSGFIS4g4SFlYOEhZU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60321137/%E8%97%A5%E6%A5%AD%E5%85%AC%E5%8F%B8%E9%AB%98%E5%B1%A4%E9%82%B1%E5%81%89%E8%87%A3%E8%88%87%E7%A7%98%E6%9B%B8%E5%85%AC%E5%8F%B8%E8%91%A3%E4%BA%8B%E5%91%A8%E6%9F%8F%E8%B1%AA%E8%AA%8D%E5%90%88%E8%AC%80%E8%A9%90%E9%A8%99%E6%9C%8D%E5%8B%99%E8%B2%BB110%E8%90%AC",
-    "timestamp": "2026-02-10T12:40:49.259Z",
     "strategy": ".content-card__main"
   }
 ];
