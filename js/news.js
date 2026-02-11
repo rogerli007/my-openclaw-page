@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-11T14:34:59.981Z
+// Last updated: 2026-02-11T15:13:32.808Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美股｜美非農新增職位勝預期　道指早段曾漲逾300點",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250930/1049830299971620864836107.jpeg/Zi8zOhWF2220rO4q9qvIco1UCsGv6ofY7xNO5u8TTuY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60321548/%E7%BE%8E%E8%82%A1-%E7%BE%8E%E9%9D%9E%E8%BE%B2%E6%96%B0%E5%A2%9E%E8%81%B7%E4%BD%8D%E5%8B%9D%E9%A0%90%E6%9C%9F-%E9%81%93%E6%8C%87%E6%97%A9%E6%AE%B5%E6%9B%BE%E6%BC%B2%E9%80%BE300%E9%BB%9E",
+    "timestamp": "2026-02-11T15:13:32.808Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "許惠菁揭Bob親自招攬內幕　對演戲保持開放態度：有冇天份呢？",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20251206/1074002810892193792527601.jpeg/IqH_lFBWfx1-btOMx7JYcpQT4FZq2PQkCGjusQho7rE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60321326/%E6%B4%BE%E6%8B%89%E8%92%99%E7%BA%8C%E5%B0%8B%E6%B1%82%E6%94%B6%E8%B3%BC%E8%8F%AF%E7%B4%8D%E5%85%84%E5%BC%9F%E6%8E%A2%E7%B4%A2-%E9%A1%98%E4%BB%A3%E4%BB%98%E4%BA%88netflix%E5%88%86%E6%89%8B%E8%B2%BB-%E7%BE%8E%E8%82%A1",
     "timestamp": "2026-02-11T04:43:27.284Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "咖啡禁忌｜咖啡忌與4種保健品同吃恐無效！鐵吸收減54%幾時食最好",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260211/1098220655834304512183576.jpeg/3eAwqxPiY8_FCKQf6TGfBKT_ik5s6C4WokqTiqJKk4o?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60314523/%E5%92%96%E5%95%A1%E7%A6%81%E5%BF%8C-%E5%92%96%E5%95%A1%E5%BF%8C%E8%88%874%E7%A8%AE%E4%BF%9D%E5%81%A5%E5%93%81%E5%90%8C%E5%90%83%E6%81%90%E7%84%A1%E6%95%88-%E9%90%B5%E5%90%B8%E6%94%B6%E6%B8%9B54-%E5%B9%BE%E6%99%82%E9%A3%9F%E6%9C%80%E5%A5%BD",
-    "timestamp": "2026-02-11T03:49:26.221Z",
     "strategy": ".content-card__main"
   }
 ];
