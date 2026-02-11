@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-11T02:46:28.580Z
+// Last updated: 2026-02-11T03:49:26.221Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "咖啡禁忌｜咖啡忌與4種保健品同吃恐無效！鐵吸收減54%幾時食最好",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260211/1098220655834304512183576.jpeg/3eAwqxPiY8_FCKQf6TGfBKT_ik5s6C4WokqTiqJKk4o?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60314523/%E5%92%96%E5%95%A1%E7%A6%81%E5%BF%8C-%E5%92%96%E5%95%A1%E5%BF%8C%E8%88%874%E7%A8%AE%E4%BF%9D%E5%81%A5%E5%93%81%E5%90%8C%E5%90%83%E6%81%90%E7%84%A1%E6%95%88-%E9%90%B5%E5%90%B8%E6%94%B6%E6%B8%9B54-%E5%B9%BE%E6%99%82%E9%A3%9F%E6%9C%80%E5%A5%BD",
+    "timestamp": "2026-02-11T03:49:26.221Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "穩定幣｜首批合規穩定幣牌照料3月底發放　滙豐與渣打據報跑出",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260211/1098052258664288256917045.jpeg/DjExlA_lHfMkhIJ0n75siTT9KYjgH3cVPREVmT0RFZk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60321182/%E5%AE%8F%E7%A6%8F%E8%8B%91%E7%81%AB%E7%81%BD-%E7%A9%97%E7%A6%BE%E8%8B%91%E6%A3%9A%E7%B6%B2%E4%B8%8B%E6%9E%B6%E5%85%A9%E5%80%8B%E6%9C%88-%E7%B5%82%E7%8D%B2%E9%9B%86%E9%AB%94%E6%8E%A1%E8%B3%BC%E9%80%81%E6%8A%B5%E5%B1%8B%E8%8B%91",
     "timestamp": "2026-02-10T16:46:57.854Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "昔日童星健康亮紅燈：我出事個女點算？　張國榮曾點名讚最有潛質",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260210/1097976847511064576357890.jpeg/GJ3QKQQGz8NcmnYUe1Z16HnjVycuDKQcoFrbyKBa28g?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60321004/%E9%84%A7%E4%B8%80%E5%90%9B%E5%81%A5%E5%BA%B7%E4%BA%AE%E7%B4%85%E7%87%88-%E6%88%91%E5%87%BA%E4%BA%8B%E5%80%8B%E5%A5%B3%E9%BB%9E%E7%AE%97-%E5%BC%B5%E5%9C%8B%E6%A6%AE%E6%9B%BE%E9%BB%9E%E5%90%8D%E8%AE%9A%E6%9C%80%E6%9C%89%E6%BD%9B%E8%B3%AA",
-    "timestamp": "2026-02-10T16:18:05.712Z",
     "strategy": ".content-card__main"
   }
 ];
