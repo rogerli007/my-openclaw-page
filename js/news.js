@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-11T06:02:06.503Z
+// Last updated: 2026-02-11T06:39:56.111Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "情人節理想慶祝大不同　男人揀睇戲、女人想購物　預算同「縮水」",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260211/1098258062851969024482703.jpeg/H8l1TlRaTA6KbbsqZXPWHfSnB-crV8Iei9HaiYvR2ok?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60321348/%E6%83%85%E4%BA%BA%E7%AF%80%E7%90%86%E6%83%B3%E6%85%B6%E7%A5%9D%E5%A4%A7%E4%B8%8D%E5%90%8C-%E7%94%B7%E4%BA%BA%E6%8F%80%E7%9D%87%E6%88%B2-%E5%A5%B3%E4%BA%BA%E6%83%B3%E8%B3%BC%E7%89%A9-%E9%A0%90%E7%AE%97%E5%90%8C-%E7%B8%AE%E6%B0%B4",
+    "timestamp": "2026-02-11T06:39:56.111Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "AI × STEAM+01｜教師卓越 AI 應用獎　妙法寺劉金龍中學教案稱冠",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260211/1098070622761652224179523.jpeg/d_xuXinbLB24GxM0VKvIgJViW1bbLZXMY1D3wkZQ98I?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60321192/%E4%B8%8A%E6%B0%B4%E6%B8%85%E6%B2%B3%E9%82%A8%E5%96%AE%E4%BD%8D%E8%B5%B7%E7%81%AB-%E6%B6%88%E9%98%B2%E9%96%8B%E5%96%89%E7%81%8C%E6%95%91-%E9%80%BE300%E4%BA%BA%E6%BC%8F%E5%A4%9C%E7%96%8F%E6%95%A3",
     "timestamp": "2026-02-10T18:43:01.624Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "上水清河邨單位起火　消防開喉灌救　逾300人漏夜疏散",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260211/1098070622761652224179523.jpeg/d_xuXinbLB24GxM0VKvIgJViW1bbLZXMY1D3wkZQ98I?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60321192/%E4%B8%8A%E6%B0%B4%E6%B8%85%E6%B2%B3%E9%82%A8%E5%96%AE%E4%BD%8D%E8%B5%B7%E7%81%AB-%E6%B6%88%E9%98%B2%E9%96%8B%E5%96%89%E7%81%8C%E6%95%91-%E9%80%BE300%E4%BA%BA%E6%BC%8F%E5%A4%9C%E7%96%8F%E6%95%A3",
-    "timestamp": "2026-02-10T18:15:18.094Z",
     "strategy": ".content-card__main"
   }
 ];
