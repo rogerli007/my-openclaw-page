@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-11T07:42:58.638Z
+// Last updated: 2026-02-11T08:07:23.107Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "四月習特會添變數？200億美元對台軍售傳聞考驗中美紅線",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20251106/1063047295089512448514862.jpeg/rgRtjCqUs8Hcrzwk9ae5fJApu6U2KiEiqNLFMKjSxTA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E4%B8%AD%E5%9C%8B%E8%A7%80%E5%AF%9F/60320967/%E5%9B%9B%E6%9C%88%E7%BF%92%E7%89%B9%E6%9C%83%E6%B7%BB%E8%AE%8A%E6%95%B8-200%E5%84%84%E7%BE%8E%E5%85%83%E5%B0%8D%E5%8F%B0%E8%BB%8D%E5%94%AE%E5%82%B3%E8%81%9E%E8%80%83%E9%A9%97%E4%B8%AD%E7%BE%8E%E7%B4%85%E7%B7%9A",
+    "timestamp": "2026-02-11T08:07:23.107Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "證監︰有騙徒假冒知名股評人「唱高散貨」　已向警方報案",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260206/1096303268453158912968430.jpeg/ef9sHYOWlNnYFu_lBlqJNP2EznH3yPt7MAphNTAKYTU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60321198/%E7%89%B9%E6%9C%97%E6%99%AE-%E5%81%87%E5%A6%82%E8%88%87%E4%BC%8A%E6%9C%97%E8%AB%87%E5%88%A4%E7%A0%B4%E8%A3%82-%E6%88%96%E6%B4%BE%E7%AC%AC%E4%BA%8C%E8%89%98%E8%88%AA%E6%AF%8D%E6%89%93%E6%93%8A%E7%BE%A4%E5%89%8D%E5%BE%80%E4%B8%AD%E6%9D%B1",
     "timestamp": "2026-02-10T20:10:12.235Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "習近平北京考察慰問快遞員等基層　向全國人民及港澳台同胞拜年",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260211/1098073149817229312650273.png/OnT2vX-Az9iJJ_dFmuFY39v4QcONoGiCd7odBne6HQY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60321193/%E7%BF%92%E8%BF%91%E5%B9%B3%E5%8C%97%E4%BA%AC%E8%80%83%E5%AF%9F%E6%85%B0%E5%95%8F%E5%BF%AB%E9%81%9E%E5%93%A1%E7%AD%89%E5%9F%BA%E5%B1%A4-%E5%90%91%E5%85%A8%E5%9C%8B%E4%BA%BA%E6%B0%91%E5%8F%8A%E6%B8%AF%E6%BE%B3%E5%8F%B0%E5%90%8C%E8%83%9E%E6%8B%9C%E5%B9%B4",
-    "timestamp": "2026-02-10T19:46:14.767Z",
     "strategy": ".content-card__main"
   }
 ];
