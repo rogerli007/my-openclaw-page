@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-11T03:49:26.221Z
+// Last updated: 2026-02-11T04:43:27.284Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "派拉蒙續尋求收購華納兄弟探索　願代付予Netflix分手費｜美股",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20251206/1074002810892193792527601.jpeg/IqH_lFBWfx1-btOMx7JYcpQT4FZq2PQkCGjusQho7rE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60321326/%E6%B4%BE%E6%8B%89%E8%92%99%E7%BA%8C%E5%B0%8B%E6%B1%82%E6%94%B6%E8%B3%BC%E8%8F%AF%E7%B4%8D%E5%85%84%E5%BC%9F%E6%8E%A2%E7%B4%A2-%E9%A1%98%E4%BB%A3%E4%BB%98%E4%BA%88netflix%E5%88%86%E6%89%8B%E8%B2%BB-%E7%BE%8E%E8%82%A1",
+    "timestamp": "2026-02-11T04:43:27.284Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "咖啡禁忌｜咖啡忌與4種保健品同吃恐無效！鐵吸收減54%幾時食最好",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260211/1098057416391528448506943.jpeg/ekc0x-LCATQ7c7bvsh-pLbxpxI5hI5SHsr-LbrK_i24?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60321185/%E6%97%A5%E6%9C%AC%E9%97%9C%E8%A5%BF%E5%9C%8B%E9%9A%9B%E6%A9%9F%E5%A0%B4-1%E6%9C%88%E4%B8%AD%E5%9C%8B%E8%88%AA%E7%8F%AD%E6%97%85%E5%AE%A2%E6%80%A5%E8%B7%8C58-%E6%B8%AF%E6%BE%B3%E8%88%AA%E7%8F%AD%E6%97%85%E5%AE%A2%E6%B8%9B12",
     "timestamp": "2026-02-10T17:18:15.178Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "宏福苑火災｜穗禾苑棚網下架兩個月　終獲集體採購送抵屋苑",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260211/1098052258664288256917045.jpeg/DjExlA_lHfMkhIJ0n75siTT9KYjgH3cVPREVmT0RFZk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60321182/%E5%AE%8F%E7%A6%8F%E8%8B%91%E7%81%AB%E7%81%BD-%E7%A9%97%E7%A6%BE%E8%8B%91%E6%A3%9A%E7%B6%B2%E4%B8%8B%E6%9E%B6%E5%85%A9%E5%80%8B%E6%9C%88-%E7%B5%82%E7%8D%B2%E9%9B%86%E9%AB%94%E6%8E%A1%E8%B3%BC%E9%80%81%E6%8A%B5%E5%B1%8B%E8%8B%91",
-    "timestamp": "2026-02-10T16:46:57.854Z",
     "strategy": ".content-card__main"
   }
 ];
