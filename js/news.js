@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-11T16:43:45.912Z
+// Last updated: 2026-02-11T17:15:28.342Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "黎智英判刑｜崔建春發表署名文章：判決結果是法治及正義的勝利",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250621/1013067839143284736729801.jpeg/3t-trwcjDErLxBQ82QBvfK9RUsL_kw1cvnriuJt64rg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60321564/%E9%BB%8E%E6%99%BA%E8%8B%B1%E5%88%A4%E5%88%91-%E5%B4%94%E5%BB%BA%E6%98%A5%E7%99%BC%E8%A1%A8%E7%BD%B2%E5%90%8D%E6%96%87%E7%AB%A0-%E5%88%A4%E6%B1%BA%E7%B5%90%E6%9E%9C%E6%98%AF%E6%B3%95%E6%B2%BB%E5%8F%8A%E6%AD%A3%E7%BE%A9%E7%9A%84%E5%8B%9D%E5%88%A9",
+    "timestamp": "2026-02-11T17:15:28.342Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "氫能試驗｜增3項目原則上獲批　包括氫燃料電池冷鏈貨車跨境運輸",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260211/1098271455646322688207451.jpeg/2Dd7i_LFeOXqT4Tfxz0mD0u9dhRvnMTp34-jhN-Po4Q?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60321385/%E9%99%B3%E8%8C%82%E6%B3%A2-%E6%AD%A3%E6%95%B2%E5%AE%9A%E8%99%9B%E6%93%AC%E8%B3%87%E7%94%A2%E4%BA%A4%E6%98%93%E5%95%86%E8%88%87%E8%A8%97%E7%AE%A1%E6%9C%8D%E5%8B%99%E6%96%B0%E7%89%8C%E5%88%B6-%E4%BB%8A%E5%A4%8F%E5%BC%95%E7%9B%B8%E9%97%9C%E7%AB%8B%E6%B3%95",
     "timestamp": "2026-02-11T07:15:20.915Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "情人節理想慶祝大不同　男人揀睇戲、女人想購物　預算同「縮水」",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260211/1098258062851969024482703.jpeg/H8l1TlRaTA6KbbsqZXPWHfSnB-crV8Iei9HaiYvR2ok?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60321348/%E6%83%85%E4%BA%BA%E7%AF%80%E7%90%86%E6%83%B3%E6%85%B6%E7%A5%9D%E5%A4%A7%E4%B8%8D%E5%90%8C-%E7%94%B7%E4%BA%BA%E6%8F%80%E7%9D%87%E6%88%B2-%E5%A5%B3%E4%BA%BA%E6%83%B3%E8%B3%BC%E7%89%A9-%E9%A0%90%E7%AE%97%E5%90%8C-%E7%B8%AE%E6%B0%B4",
-    "timestamp": "2026-02-11T06:39:56.111Z",
     "strategy": ".content-card__main"
   }
 ];
