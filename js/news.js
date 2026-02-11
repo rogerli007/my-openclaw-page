@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-11T15:42:39.179Z
+// Last updated: 2026-02-11T16:14:35.920Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "啤酒需求下降　喜力擬全球裁員最多6000人",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260211/1098404588026859520597106.jpeg/N1a1lyjHbQ7zkT6zNl38W-1Uc_O8N2NWGp6dZhqenWY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60321555/%E5%95%A4%E9%85%92%E9%9C%80%E6%B1%82%E4%B8%8B%E9%99%8D-%E5%96%9C%E5%8A%9B%E6%93%AC%E5%85%A8%E7%90%83%E8%A3%81%E5%93%A1%E6%9C%80%E5%A4%9A6000%E4%BA%BA",
+    "timestamp": "2026-02-11T16:14:35.920Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "陳凱詠開紅館騷綵排勁精彩　4字回應傳陳慧琳做嘉賓",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260211/1098248044530372608079216.jpeg/JsPIcNxXUx9Hq_BM51k6cN0OTZXOXAWezoNwFc6DcBU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%95%99%E8%82%B2%E7%99%BC%E5%B1%95/60314389/ai-steam-01-%E6%95%99%E5%B8%AB%E5%8D%93%E8%B6%8A-ai-%E6%87%89%E7%94%A8%E7%8D%8E-%E5%A6%99%E6%B3%95%E5%AF%BA%E5%8A%89%E9%87%91%E9%BE%8D%E4%B8%AD%E5%AD%B8%E6%95%99%E6%A1%88%E7%A8%B1%E5%86%A0",
     "timestamp": "2026-02-11T06:02:06.503Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "冬奧熱話︱不一樣的得獎感言　挪威選手出軌哭求已分手女友原諒",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260211/1098213791390240768498761.jpeg/TZaoGH7hJ-o3JaenJSxUge9Y33Z_lvm3DnRyyw50css?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60321285/%E5%86%AC%E5%A5%A7%E7%86%B1%E8%A9%B1-%E4%B8%8D%E4%B8%80%E6%A8%A3%E7%9A%84%E5%BE%97%E7%8D%8E%E6%84%9F%E8%A8%80-%E6%8C%AA%E5%A8%81%E9%81%B8%E6%89%8B%E5%87%BA%E8%BB%8C%E5%93%AD%E6%B1%82%E5%B7%B2%E5%88%86%E6%89%8B%E5%A5%B3%E5%8F%8B%E5%8E%9F%E8%AB%92",
-    "timestamp": "2026-02-11T05:24:59.076Z",
     "strategy": ".content-card__main"
   }
 ];
