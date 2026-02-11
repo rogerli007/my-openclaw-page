@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-11T01:46:10.931Z
+// Last updated: 2026-02-11T02:46:28.580Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "穩定幣｜首批合規穩定幣牌照料3月底發放　滙豐與渣打據報跑出",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250815/1033044460247715840269841.jpeg/EBQVVHCtTo2kZSlRZNJv_sQB506OtAQnRNFhPUTRYT0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60321267/%E7%A9%A9%E5%AE%9A%E5%B9%A3-%E9%A6%96%E6%89%B9%E5%90%88%E8%A6%8F%E7%A9%A9%E5%AE%9A%E5%B9%A3%E7%89%8C%E7%85%A7%E6%96%993%E6%9C%88%E5%BA%95%E7%99%BC%E6%94%BE-%E6%BB%99%E8%B1%90%E8%88%87%E6%B8%A3%E6%89%93%E6%93%9A%E5%A0%B1%E8%B7%91%E5%87%BA",
+    "timestamp": "2026-02-11T02:46:28.580Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "人行稱續實施適度寬鬆貨幣政策　靈活運用降準減息等政策工具",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260210/1097976847511064576357890.jpeg/GJ3QKQQGz8NcmnYUe1Z16HnjVycuDKQcoFrbyKBa28g?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60321004/%E9%84%A7%E4%B8%80%E5%90%9B%E5%81%A5%E5%BA%B7%E4%BA%AE%E7%B4%85%E7%87%88-%E6%88%91%E5%87%BA%E4%BA%8B%E5%80%8B%E5%A5%B3%E9%BB%9E%E7%AE%97-%E5%BC%B5%E5%9C%8B%E6%A6%AE%E6%9B%BE%E9%BB%9E%E5%90%8D%E8%AE%9A%E6%9C%80%E6%9C%89%E6%BD%9B%E8%B3%AA",
     "timestamp": "2026-02-10T16:18:05.712Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "六合彩2.12頭獎$800萬｜6個最旺號碼+2招增中獎機會+幸運投注站",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260210/1098013463818539008071653.jpeg/foG-MqkQueX0lMkoCh_1b7O8wuAOODR2AL4H1wC-B9c?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60321168/%E5%85%AD%E5%90%88%E5%BD%A92-12%E9%A0%AD%E7%8D%8E-800%E8%90%AC-6%E5%80%8B%E6%9C%80%E6%97%BA%E8%99%9F%E7%A2%BC-2%E6%8B%9B%E5%A2%9E%E4%B8%AD%E7%8D%8E%E6%A9%9F%E6%9C%83-%E5%B9%B8%E9%81%8B%E6%8A%95%E6%B3%A8%E7%AB%99",
-    "timestamp": "2026-02-10T15:47:15.268Z",
     "strategy": ".content-card__main"
   }
 ];
