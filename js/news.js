@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-11T20:56:07.036Z
+// Last updated: 2026-02-11T21:22:10.938Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "中方：美國指責中國核爆試驗毫無依據　圖為自身重啟核試編造藉口",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20251110/1064601543698812928527638.jpeg/D4N5TBnFk_ViZKCtBqUb3Ykn01EdVrzgjVOAoo1TgKI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60321577/%E4%B8%AD%E6%96%B9-%E7%BE%8E%E5%9C%8B%E6%8C%87%E8%B2%AC%E4%B8%AD%E5%9C%8B%E6%A0%B8%E7%88%86%E8%A9%A6%E9%A9%97%E6%AF%AB%E7%84%A1%E4%BE%9D%E6%93%9A-%E5%9C%96%E7%82%BA%E8%87%AA%E8%BA%AB%E9%87%8D%E5%95%9F%E6%A0%B8%E8%A9%A6%E7%B7%A8%E9%80%A0%E8%97%89%E5%8F%A3",
+    "timestamp": "2026-02-11T21:22:10.938Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "澤連斯基否認將宣布舉行大選　稱須先獲得安全保障和達成停火協議",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260211/1098266771703468032103745.png/DtXn8XiP56oTOfyeCYfDgeG6Ik9TYqHuwLHhOMCx4Tg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60321372/%E5%8D%9E%E6%85%B6%E8%8F%AF%E6%9B%BE%E8%A9%A6%E9%8F%A1%E8%A2%AB%E5%A5%B3%E6%98%9F%E5%AB%8C-%E5%98%B4%E6%9C%89%E5%B1%8E%E5%91%B3-%E9%81%AD%E6%8F%9B%E8%A7%92-%E8%87%B3%E4%BB%8A%E9%83%BD%E6%9C%83%E4%BA%8B%E5%85%88%E9%A3%9F%E9%A6%99%E5%8F%A3%E8%86%A0",
     "timestamp": "2026-02-11T11:37:45.460Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "叫「Lau Ka Wing」都有份！房協免費送新年利市封　即睇領取方法",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260211/1098318529754566656305194.png/PoOTi7gGJLp1cUG0RBRmgCKwt0IP6_RyoIkK9KCJCvQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60321423/%E5%8F%AB-lau-ka-wing-%E9%83%BD%E6%9C%89%E4%BB%BD-%E6%88%BF%E5%8D%94%E5%85%8D%E8%B2%BB%E9%80%81%E6%96%B0%E5%B9%B4%E5%88%A9%E5%B8%82%E5%B0%81-%E5%8D%B3%E7%9D%87%E9%A0%98%E5%8F%96%E6%96%B9%E6%B3%95",
-    "timestamp": "2026-02-11T11:11:27.267Z",
     "strategy": ".content-card__main"
   }
 ];
