@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-11T10:38:55.350Z
+// Last updated: 2026-02-11T11:11:27.267Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "叫「Lau Ka Wing」都有份！房協免費送新年利市封　即睇領取方法",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260211/1098318529754566656305194.png/PoOTi7gGJLp1cUG0RBRmgCKwt0IP6_RyoIkK9KCJCvQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60321423/%E5%8F%AB-lau-ka-wing-%E9%83%BD%E6%9C%89%E4%BB%BD-%E6%88%BF%E5%8D%94%E5%85%8D%E8%B2%BB%E9%80%81%E6%96%B0%E5%B9%B4%E5%88%A9%E5%B8%82%E5%B0%81-%E5%8D%B3%E7%9D%87%E9%A0%98%E5%8F%96%E6%96%B9%E6%B3%95",
+    "timestamp": "2026-02-11T11:11:27.267Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "年宵市場2026｜香港16大花市開放時間/地點+維園旺角花市交通安排",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260211/1098146218078375936673940.jpeg/OBqDpqchrpN7JnC3es4uasW3U7KZksEkMlRf9DJUX_Q?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60321210/%E6%B8%AF%E9%90%B5%E6%B8%AF%E5%B3%B6%E7%B6%AB%E7%81%A3%E4%BB%94%E7%AB%99%E9%99%84%E8%BF%91%E5%88%97%E8%BB%8A%E6%9C%8D%E5%8B%99%E6%9A%AB%E5%81%9C-%E6%B8%AF%E9%90%B5%E6%8C%87%E6%9C%89%E7%89%A9%E4%BB%B6%E9%98%BB%E7%A4%99%E8%B7%AF%E8%BB%8C",
     "timestamp": "2026-02-10T22:57:13.539Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "TVB男星開戲做老闆簽星二代身價暴增　人氣堪比視帝出騷歡呼不斷",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260210/1098005561854660608248937.jpeg/CxK_xUktnPPOqmdyBAetbc_or71Vn6InMXUIszF1CLM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60321019/tvb%E7%94%B7%E6%98%9F%E9%96%8B%E6%88%B2%E5%81%9A%E8%80%81%E9%97%86%E7%B0%BD%E6%98%9F%E4%BA%8C%E4%BB%A3%E8%BA%AB%E5%83%B9%E6%9A%B4%E5%A2%9E-%E4%BA%BA%E6%B0%A3%E5%A0%AA%E6%AF%94%E8%A6%96%E5%B8%9D%E5%87%BA%E9%A8%B7%E6%AD%A1%E5%91%BC%E4%B8%8D%E6%96%B7",
-    "timestamp": "2026-02-10T22:34:07.580Z",
     "strategy": ".content-card__main"
   }
 ];
