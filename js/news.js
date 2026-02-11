@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-11T18:12:35.408Z
+// Last updated: 2026-02-11T18:41:53.210Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "荷蘭法院下令查安世半導體　聞泰科技：循一切合法途徑恢復控制權",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260212/1098428456447774720759486.jpeg/OQm_uYi11JkNw_Wi2u4gHqeinNxM4lJHPeGAjj3hgI4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60321565/%E8%8D%B7%E8%98%AD%E6%B3%95%E9%99%A2%E4%B8%8B%E4%BB%A4%E6%9F%A5%E5%AE%89%E4%B8%96%E5%8D%8A%E5%B0%8E%E9%AB%94-%E8%81%9E%E6%B3%B0%E7%A7%91%E6%8A%80-%E5%BE%AA%E4%B8%80%E5%88%87%E5%90%88%E6%B3%95%E9%80%94%E5%BE%91%E6%81%A2%E5%BE%A9%E6%8E%A7%E5%88%B6%E6%AC%8A",
+    "timestamp": "2026-02-11T18:41:53.210Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "荷蘭法院下令查安世半導體　聞泰科技：循一切合法途徑恢復控制權",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260211/1098282467791474688195732.jpeg/dc1kQimoaW3zyDLzBqW1LyJuRFOiSvm-5hsnnOYbJ5w?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60321388/iphone-17-pro%E5%AE%87%E5%AE%99%E6%A9%99%E9%85%8D%E8%89%B2%E4%BB%A4%E4%B8%AD%E5%9C%8B%E7%87%9F%E6%94%B6%E6%9A%B4%E5%A2%9E38-%E4%B8%8B%E4%BB%A3%E6%96%B0%E8%89%B2%E8%BE%A8%E8%AD%98%E5%BA%A6%E6%9B%B4%E9%AB%98",
     "timestamp": "2026-02-11T08:36:23.189Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "四月習特會添變數？200億美元對台軍售傳聞考驗中美紅線",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20251106/1063047295089512448514862.jpeg/rgRtjCqUs8Hcrzwk9ae5fJApu6U2KiEiqNLFMKjSxTA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E4%B8%AD%E5%9C%8B%E8%A7%80%E5%AF%9F/60320967/%E5%9B%9B%E6%9C%88%E7%BF%92%E7%89%B9%E6%9C%83%E6%B7%BB%E8%AE%8A%E6%95%B8-200%E5%84%84%E7%BE%8E%E5%85%83%E5%B0%8D%E5%8F%B0%E8%BB%8D%E5%94%AE%E5%82%B3%E8%81%9E%E8%80%83%E9%A9%97%E4%B8%AD%E7%BE%8E%E7%B4%85%E7%B7%9A",
-    "timestamp": "2026-02-11T08:07:23.107Z",
     "strategy": ".content-card__main"
   }
 ];
