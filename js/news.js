@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-11T17:42:31.926Z
+// Last updated: 2026-02-11T18:12:35.408Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "荷蘭法院下令查安世半導體　聞泰科技：循一切合法途徑恢復控制權",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260212/1098428456447774720759486.jpeg/OQm_uYi11JkNw_Wi2u4gHqeinNxM4lJHPeGAjj3hgI4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60321565/%E8%8D%B7%E8%98%AD%E6%B3%95%E9%99%A2%E4%B8%8B%E4%BB%A4%E6%9F%A5%E5%AE%89%E4%B8%96%E5%8D%8A%E5%B0%8E%E9%AB%94-%E8%81%9E%E6%B3%B0%E7%A7%91%E6%8A%80-%E5%BE%AA%E4%B8%80%E5%88%87%E5%90%88%E6%B3%95%E9%80%94%E5%BE%91%E6%81%A2%E5%BE%A9%E6%8E%A7%E5%88%B6%E6%AC%8A",
+    "timestamp": "2026-02-11T18:12:35.408Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "黎智英判刑｜崔建春發表署名文章：判決結果是法治及正義的勝利",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20251106/1063047295089512448514862.jpeg/rgRtjCqUs8Hcrzwk9ae5fJApu6U2KiEiqNLFMKjSxTA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E4%B8%AD%E5%9C%8B%E8%A7%80%E5%AF%9F/60320967/%E5%9B%9B%E6%9C%88%E7%BF%92%E7%89%B9%E6%9C%83%E6%B7%BB%E8%AE%8A%E6%95%B8-200%E5%84%84%E7%BE%8E%E5%85%83%E5%B0%8D%E5%8F%B0%E8%BB%8D%E5%94%AE%E5%82%B3%E8%81%9E%E8%80%83%E9%A9%97%E4%B8%AD%E7%BE%8E%E7%B4%85%E7%B7%9A",
     "timestamp": "2026-02-11T08:07:23.107Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "證監︰有騙徒假冒知名股評人「唱高散貨」　已向警方報案",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20251024/1058442269666840576071384.jpeg/O90aabkL9NaGQfAcapMK-Q9eMgSVZpB1pahAQqWoQEI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60321401/%E8%AD%89%E7%9B%A3-%E6%9C%89%E9%A8%99%E5%BE%92%E5%81%87%E5%86%92%E7%9F%A5%E5%90%8D%E8%82%A1%E8%A9%95%E4%BA%BA-%E5%94%B1%E9%AB%98%E6%95%A3%E8%B2%A8-%E5%B7%B2%E5%90%91%E8%AD%A6%E6%96%B9%E5%A0%B1%E6%A1%88",
-    "timestamp": "2026-02-11T07:42:58.638Z",
     "strategy": ".content-card__main"
   }
 ];
