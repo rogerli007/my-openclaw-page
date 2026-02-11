@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-10T23:52:30.500Z
+// Last updated: 2026-02-11T00:50:36.258Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "39歲巴籍男赴北京行李內藏伸縮棍　涉違反《航空保安條例》被捕",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250922/1046761689359454208532186.jpeg/V9xQu2EL3PsK87ro5OBXXiqJsfqPuzcJsPfwzJX38Mw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60321220/39%E6%AD%B2%E5%B7%B4%E7%B1%8D%E7%94%B7%E8%B5%B4%E5%8C%97%E4%BA%AC%E8%A1%8C%E6%9D%8E%E5%85%A7%E8%97%8F%E4%BC%B8%E7%B8%AE%E6%A3%8D-%E6%B6%89%E9%81%95%E5%8F%8D-%E8%88%AA%E7%A9%BA%E4%BF%9D%E5%AE%89%E6%A2%9D%E4%BE%8B-%E8%A2%AB%E6%8D%95",
+    "timestamp": "2026-02-11T00:50:36.258Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "特朗普威脅阻美加大橋通車　卡尼：已提醒對方建築費全由加方承擔",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260210/1097969847242854400594612.jpeg/Zsevgen31EMEM0USWHbfxQQifbknFCD3PTiKZT04imU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60321127/%E8%AA%BF%E6%9F%A5%E6%8F%AD%E9%95%B7%E8%80%85%E5%90%8C%E4%BD%8F%E5%AD%A4%E7%8D%A8-40-%E5%8F%97%E8%A8%AA%E9%95%B7%E8%80%85%E6%9C%89%E5%BF%83%E4%BA%8B%E7%84%A1%E4%BA%BA%E8%AC%9B-%E8%BF%91%E5%8D%8A%E8%88%87%E5%85%92%E5%AD%AB%E5%90%8C%E4%BD%8F",
     "timestamp": "2026-02-10T15:15:20.132Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "《寶貝智多星》飾演媽媽女星Catherine O'Hara突離世　死因終曝光",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260210/1097923540541247488891504.jpeg/iYcfwNPalXAnjLl5v7Xi3kbGKRg5d1iXhWNiBYVjYgU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60320985/%E5%AF%B6%E8%B2%9D%E6%99%BA%E5%A4%9A%E6%98%9F-%E9%A3%BE%E6%BC%94%E5%AA%BD%E5%AA%BD%E5%A5%B3%E6%98%9Fcatherine-o-hara%E7%AA%81%E9%9B%A2%E4%B8%96-%E6%AD%BB%E5%9B%A0%E7%B5%82%E6%9B%9D%E5%85%89",
-    "timestamp": "2026-02-10T14:39:37.969Z",
     "strategy": ".content-card__main"
   }
 ];
