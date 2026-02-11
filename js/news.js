@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-11T05:24:59.076Z
+// Last updated: 2026-02-11T06:02:06.503Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "AI × STEAM+01｜教師卓越 AI 應用獎　妙法寺劉金龍中學教案稱冠",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260211/1098248044530372608079216.jpeg/JsPIcNxXUx9Hq_BM51k6cN0OTZXOXAWezoNwFc6DcBU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%95%99%E8%82%B2%E7%99%BC%E5%B1%95/60314389/ai-steam-01-%E6%95%99%E5%B8%AB%E5%8D%93%E8%B6%8A-ai-%E6%87%89%E7%94%A8%E7%8D%8E-%E5%A6%99%E6%B3%95%E5%AF%BA%E5%8A%89%E9%87%91%E9%BE%8D%E4%B8%AD%E5%AD%B8%E6%95%99%E6%A1%88%E7%A8%B1%E5%86%A0",
+    "timestamp": "2026-02-11T06:02:06.503Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "冬奧熱話︱不一樣的得獎感言　挪威選手出軌哭求已分手女友原諒",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260211/1098070622761652224179523.jpeg/d_xuXinbLB24GxM0VKvIgJViW1bbLZXMY1D3wkZQ98I?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60321192/%E4%B8%8A%E6%B0%B4%E6%B8%85%E6%B2%B3%E9%82%A8%E5%96%AE%E4%BD%8D%E8%B5%B7%E7%81%AB-%E6%B6%88%E9%98%B2%E9%96%8B%E5%96%89%E7%81%8C%E6%95%91-%E9%80%BE300%E4%BA%BA%E6%BC%8F%E5%A4%9C%E7%96%8F%E6%95%A3",
     "timestamp": "2026-02-10T18:15:18.094Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "農曆新年｜車公廟年廿九及初二通宵開放　限帶3支細香",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250203/963079021171052544852061.jpeg/CcwInYDhVnAP56v8CBUflmGCA_L5xUe4Bpcx1ByXMdQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60321187/%E8%BE%B2%E6%9B%86%E6%96%B0%E5%B9%B4-%E8%BB%8A%E5%85%AC%E5%BB%9F%E5%B9%B4%E5%BB%BF%E4%B9%9D%E5%8F%8A%E5%88%9D%E4%BA%8C%E9%80%9A%E5%AE%B5%E9%96%8B%E6%94%BE-%E9%99%90%E5%B8%B63%E6%94%AF%E7%B4%B0%E9%A6%99",
-    "timestamp": "2026-02-10T17:45:27.775Z",
     "strategy": ".content-card__main"
   }
 ];
