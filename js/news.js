@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-11T19:43:13.169Z
+// Last updated: 2026-02-11T20:05:19.018Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "以色列加入和平委員會　特朗普晤內塔尼亞胡：傾向與伊朗繼續談判",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260212/1098461839148191744689417.jpeg/UNsWwTdEtOoSpojD2uSmMAiTjlUrWpMsvZLDxb2Sw8U?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60321570/%E4%BB%A5%E8%89%B2%E5%88%97%E5%8A%A0%E5%85%A5%E5%92%8C%E5%B9%B3%E5%A7%94%E5%93%A1%E6%9C%83-%E7%89%B9%E6%9C%97%E6%99%AE%E6%99%A4%E5%85%A7%E5%A1%94%E5%B0%BC%E4%BA%9E%E8%83%A1-%E5%82%BE%E5%90%91%E8%88%87%E4%BC%8A%E6%9C%97%E7%B9%BC%E7%BA%8C%E8%AB%87%E5%88%A4",
+    "timestamp": "2026-02-11T20:05:19.018Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "奶粉回收｜法國調查第3宗嬰兒死亡個案　曾食用需回收奶粉",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260211/1098311892587253760978523.jpeg/wg1CmLcu0xPs8cFziPIJgtfWJ1NE3OZ7OqGRDTqhkQ0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%81%B7%E5%A0%B4/60321374/%E5%83%B1%E5%93%A1%E5%86%8D%E5%9F%B9%E8%A8%93%E5%B1%80%E7%9F%AD%E6%9C%9F%E5%85%A7%E6%94%B9%E5%90%8D-%E6%94%B9%E9%9D%A9%E5%8A%A9%E5%85%A8%E6%B8%AF%E6%89%93%E5%B7%A5%E4%BB%94%E5%A2%9E%E5%80%BC-%E8%AA%B2%E7%A8%8B%E5%BC%95%E5%85%A5ai%E5%85%83%E7%B4%A0",
     "timestamp": "2026-02-11T10:12:01.651Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "賴清德促審議國防預算確保武器交付　憂台灣跌出美國優先名單",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260211/1098275990519418880468902.jpeg/4PtM5Eb6ee_qvbKcRAzovzuln1-scS6qMOHCSzDhwks?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8F%B0%E7%81%A3%E6%96%B0%E8%81%9E/60321364/%E8%B3%B4%E6%B8%85%E5%BE%B7%E4%BF%83%E5%AF%A9%E8%AD%B0%E5%9C%8B%E9%98%B2%E9%A0%90%E7%AE%97%E7%A2%BA%E4%BF%9D%E6%AD%A6%E5%99%A8%E4%BA%A4%E4%BB%98-%E6%86%82%E5%8F%B0%E7%81%A3%E8%B7%8C%E5%87%BA%E7%BE%8E%E5%9C%8B%E5%84%AA%E5%85%88%E5%90%8D%E5%96%AE",
-    "timestamp": "2026-02-11T09:40:33.767Z",
     "strategy": ".content-card__main"
   }
 ];
