@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-11T07:15:20.915Z
+// Last updated: 2026-02-11T07:42:58.638Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "證監︰有騙徒假冒知名股評人「唱高散貨」　已向警方報案",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20251024/1058442269666840576071384.jpeg/O90aabkL9NaGQfAcapMK-Q9eMgSVZpB1pahAQqWoQEI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60321401/%E8%AD%89%E7%9B%A3-%E6%9C%89%E9%A8%99%E5%BE%92%E5%81%87%E5%86%92%E7%9F%A5%E5%90%8D%E8%82%A1%E8%A9%95%E4%BA%BA-%E5%94%B1%E9%AB%98%E6%95%A3%E8%B2%A8-%E5%B7%B2%E5%90%91%E8%AD%A6%E6%96%B9%E5%A0%B1%E6%A1%88",
+    "timestamp": "2026-02-11T07:42:58.638Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "陳茂波：正敲定虛擬資產交易商與託管服務新牌制　今夏引相關立法",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260211/1098073149817229312650273.png/OnT2vX-Az9iJJ_dFmuFY39v4QcONoGiCd7odBne6HQY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60321193/%E7%BF%92%E8%BF%91%E5%B9%B3%E5%8C%97%E4%BA%AC%E8%80%83%E5%AF%9F%E6%85%B0%E5%95%8F%E5%BF%AB%E9%81%9E%E5%93%A1%E7%AD%89%E5%9F%BA%E5%B1%A4-%E5%90%91%E5%85%A8%E5%9C%8B%E4%BA%BA%E6%B0%91%E5%8F%8A%E6%B8%AF%E6%BE%B3%E5%8F%B0%E5%90%8C%E8%83%9E%E6%8B%9C%E5%B9%B4",
     "timestamp": "2026-02-10T19:46:14.767Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "紅磡地舖燒臘店閉門失火　消防開喉灌救　樓上大廈60人自行疏散",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260211/1098083548423786496794850.jpeg/RkMxP-3qkc13tDVyVq6_pya-0FcVY_j4hJIlIb6SJSE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60321196/%E7%B4%85%E7%A3%A1%E5%9C%B0%E8%88%96%E7%87%92%E8%87%98%E5%BA%97%E9%96%89%E9%96%80%E5%A4%B1%E7%81%AB-%E6%B6%88%E9%98%B2%E9%96%8B%E5%96%89%E7%81%8C%E6%95%91-%E6%A8%93%E4%B8%8A%E5%A4%A7%E5%BB%8860%E4%BA%BA%E8%87%AA%E8%A1%8C%E7%96%8F%E6%95%A3",
-    "timestamp": "2026-02-10T19:16:47.612Z",
     "strategy": ".content-card__main"
   }
 ];
