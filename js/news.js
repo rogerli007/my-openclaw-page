@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-11T21:51:18.099Z
+// Last updated: 2026-02-11T22:17:22.935Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "天氣｜今日大致多雲最高約21度　明日至年廿九均日間溫暖",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260212/1098499348687491072628430.jpeg/mOS-t69iBh8wPX53P1kxFbfaW_pS1IL_h010OodNdDo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60321563/%E5%A4%A9%E6%B0%A3-%E4%BB%8A%E6%97%A5%E5%A4%A7%E8%87%B4%E5%A4%9A%E9%9B%B2%E6%9C%80%E9%AB%98%E7%B4%8421%E5%BA%A6-%E6%98%8E%E6%97%A5%E8%87%B3%E5%B9%B4%E5%BB%BF%E4%B9%9D%E5%9D%87%E6%97%A5%E9%96%93%E6%BA%AB%E6%9A%96",
+    "timestamp": "2026-02-11T22:17:22.935Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "加拿大校園槍擊案9死　警方：槍手是18歲變性女子曾有精神問題",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260211/1098345312931549184634908.jpeg/XWr35FljO1RQ4GQGE2k5J9JvfAgq6Yxl_1l3fP9Zd3w?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60321452/%E7%94%A8ai%E5%87%BA%E8%B2%93-%E7%9F%B3%E7%A1%A4%E5%B0%BE%E5%B0%8F%E5%85%AD%E7%94%9F%E7%96%91%E5%81%B7%E7%94%A8ai%E7%94%9F%E6%88%90%E6%BC%94%E8%AC%9B%E7%A8%BF%E6%87%89%E8%80%83%E5%8F%A3%E8%A9%A6-%E5%85%A8%E7%8F%AD%E9%9C%80%E9%87%8D%E8%80%83",
     "timestamp": "2026-02-11T12:38:03.380Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "谷歌天價收購加碼雲計算　歐盟批准其320億美元收購Wiz",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250624/1014247073744162816921634.jpeg/VBHugdBn5y1xz4VcUfsgfXWLEPvfM7An0pwR9NKcEfQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60321494/%E8%B0%B7%E6%AD%8C%E5%A4%A9%E5%83%B9%E6%94%B6%E8%B3%BC%E5%8A%A0%E7%A2%BC%E9%9B%B2%E8%A8%88%E7%AE%97-%E6%AD%90%E7%9B%9F%E6%89%B9%E5%87%86%E5%85%B6320%E5%84%84%E7%BE%8E%E5%85%83%E6%94%B6%E8%B3%BCwiz",
-    "timestamp": "2026-02-11T12:05:46.054Z",
     "strategy": ".content-card__main"
   }
 ];
