@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-11T09:40:33.767Z
+// Last updated: 2026-02-11T10:12:01.651Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "僱員再培訓局短期內改名　改革助全港打工仔增值　課程引入AI元素",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260211/1098311892587253760978523.jpeg/wg1CmLcu0xPs8cFziPIJgtfWJ1NE3OZ7OqGRDTqhkQ0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%81%B7%E5%A0%B4/60321374/%E5%83%B1%E5%93%A1%E5%86%8D%E5%9F%B9%E8%A8%93%E5%B1%80%E7%9F%AD%E6%9C%9F%E5%85%A7%E6%94%B9%E5%90%8D-%E6%94%B9%E9%9D%A9%E5%8A%A9%E5%85%A8%E6%B8%AF%E6%89%93%E5%B7%A5%E4%BB%94%E5%A2%9E%E5%80%BC-%E8%AA%B2%E7%A8%8B%E5%BC%95%E5%85%A5ai%E5%85%83%E7%B4%A0",
+    "timestamp": "2026-02-11T10:12:01.651Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "賴清德促審議國防預算確保武器交付　憂台灣跌出美國優先名單",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260210/1097957047548252160245036.jpeg/OJln44hgXQ2GslBiRoG6VQ__JgHH3lU4Bjm3XQY5t10?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60321033/%E9%A6%AC%E5%BE%B7%E9%90%98%E5%BB%A3%E5%B7%9E%E9%96%8B%E6%BC%94%E5%94%B1%E6%9C%83%E7%B6%B2%E6%B0%91%E6%84%9F%E9%9B%A2%E5%A5%87%E6%9C%89%E5%92%A9%E6%AD%8C%E5%94%B1-%E6%9C%80%E8%B2%B4%E9%A3%9B%E8%B3%A3%E5%91%A2%E5%80%8B%E5%83%B9%E6%9C%89%E7%A6%8F%E5%88%A9",
     "timestamp": "2026-02-10T22:06:52.170Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "加州華裔男子非法充當中國代理人　判監4年",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20240623/881486239910334464173098.jpeg/30JXhyNye3G5ECd3Oc4lUMTFx3oNq3ozxrvYVsa72FY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60321202/%E5%8A%A0%E5%B7%9E%E8%8F%AF%E8%A3%94%E7%94%B7%E5%AD%90%E9%9D%9E%E6%B3%95%E5%85%85%E7%95%B6%E4%B8%AD%E5%9C%8B%E4%BB%A3%E7%90%86%E4%BA%BA-%E5%88%A4%E7%9B%A34%E5%B9%B4",
-    "timestamp": "2026-02-10T21:35:26.396Z",
     "strategy": ".content-card__main"
   }
 ];
