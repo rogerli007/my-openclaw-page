@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-11T21:22:10.938Z
+// Last updated: 2026-02-11T21:51:18.099Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "加拿大校園槍擊案9死　警方：槍手是18歲變性女子曾有精神問題",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260212/1098482316503683072162749.jpeg/19187L8u4eihSi1v5pOcLA2FoPHcmNufsMnHqrDJx6o?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60321578/%E5%8A%A0%E6%8B%BF%E5%A4%A7%E6%A0%A1%E5%9C%92%E6%A7%8D%E6%93%8A%E6%A1%889%E6%AD%BB-%E8%AD%A6%E6%96%B9-%E6%A7%8D%E6%89%8B%E6%98%AF18%E6%AD%B2%E8%AE%8A%E6%80%A7%E5%A5%B3%E5%AD%90%E6%9B%BE%E6%9C%89%E7%B2%BE%E7%A5%9E%E5%95%8F%E9%A1%8C",
+    "timestamp": "2026-02-11T21:51:18.099Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "中方：美國指責中國核爆試驗毫無依據　圖為自身重啟核試編造藉口",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250624/1014247073744162816921634.jpeg/VBHugdBn5y1xz4VcUfsgfXWLEPvfM7An0pwR9NKcEfQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60321494/%E8%B0%B7%E6%AD%8C%E5%A4%A9%E5%83%B9%E6%94%B6%E8%B3%BC%E5%8A%A0%E7%A2%BC%E9%9B%B2%E8%A8%88%E7%AE%97-%E6%AD%90%E7%9B%9F%E6%89%B9%E5%87%86%E5%85%B6320%E5%84%84%E7%BE%8E%E5%85%83%E6%94%B6%E8%B3%BCwiz",
     "timestamp": "2026-02-11T12:05:46.054Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "34歲男星試鏡被女星嫌「嘴有屎味」遭換角　至今都會事先食香口膠",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260211/1098266771703468032103745.png/DtXn8XiP56oTOfyeCYfDgeG6Ik9TYqHuwLHhOMCx4Tg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60321372/%E5%8D%9E%E6%85%B6%E8%8F%AF%E6%9B%BE%E8%A9%A6%E9%8F%A1%E8%A2%AB%E5%A5%B3%E6%98%9F%E5%AB%8C-%E5%98%B4%E6%9C%89%E5%B1%8E%E5%91%B3-%E9%81%AD%E6%8F%9B%E8%A7%92-%E8%87%B3%E4%BB%8A%E9%83%BD%E6%9C%83%E4%BA%8B%E5%85%88%E9%A3%9F%E9%A6%99%E5%8F%A3%E8%86%A0",
-    "timestamp": "2026-02-11T11:37:45.460Z",
     "strategy": ".content-card__main"
   }
 ];
