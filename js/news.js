@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-11T11:37:45.460Z
+// Last updated: 2026-02-11T12:05:46.054Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "谷歌天價收購加碼雲計算　歐盟批准其320億美元收購Wiz",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250624/1014247073744162816921634.jpeg/VBHugdBn5y1xz4VcUfsgfXWLEPvfM7An0pwR9NKcEfQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60321494/%E8%B0%B7%E6%AD%8C%E5%A4%A9%E5%83%B9%E6%94%B6%E8%B3%BC%E5%8A%A0%E7%A2%BC%E9%9B%B2%E8%A8%88%E7%AE%97-%E6%AD%90%E7%9B%9F%E6%89%B9%E5%87%86%E5%85%B6320%E5%84%84%E7%BE%8E%E5%85%83%E6%94%B6%E8%B3%BCwiz",
+    "timestamp": "2026-02-11T12:05:46.054Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "34歲男星試鏡被女星嫌「嘴有屎味」遭換角　至今都會事先食香口膠",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260124/1091770973805350912092716.jpeg/qrje-KnlsiX4cZ0Bq4MW2sxRW7LZcEJKnf-0Kp3_tCo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60321211/%E7%89%B9%E6%9C%97%E6%99%AE%E5%A8%81%E8%84%85%E9%98%BB%E7%BE%8E%E5%8A%A0%E5%A4%A7%E6%A9%8B%E9%80%9A%E8%BB%8A-%E5%8D%A1%E5%B0%BC-%E5%B7%B2%E6%8F%90%E9%86%92%E5%B0%8D%E6%96%B9%E5%BB%BA%E7%AF%89%E8%B2%BB%E5%85%A8%E7%94%B1%E5%8A%A0%E6%96%B9%E6%89%BF%E6%93%94",
     "timestamp": "2026-02-10T23:52:30.500Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "熱水爐悲劇｜兒洗澡遇故障漏電觸電　父急救子衝入浴室變雙屍命案",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260210/1097968676470001664752906.png/N4WZsUHgZ86HqWNjrai5ohAgv4lVAQd6UZadNVGWnTU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E8%A9%B1%E9%A1%8C/60320968/%E7%86%B1%E6%B0%B4%E7%88%90%E6%82%B2%E5%8A%87-%E5%85%92%E6%B4%97%E6%BE%A1%E9%81%87%E6%95%85%E9%9A%9C%E6%BC%8F%E9%9B%BB%E8%A7%B8%E9%9B%BB-%E7%88%B6%E6%80%A5%E6%95%91%E5%AD%90%E8%A1%9D%E5%85%A5%E6%B5%B4%E5%AE%A4%E8%AE%8A%E9%9B%99%E5%B1%8D%E5%91%BD%E6%A1%88",
-    "timestamp": "2026-02-10T23:23:39.905Z",
     "strategy": ".content-card__main"
   }
 ];
