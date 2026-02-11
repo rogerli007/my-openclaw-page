@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-11T22:17:22.935Z
+// Last updated: 2026-02-11T22:34:32.438Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "英超｜利物浦作客1：0勝新特蘭　雲迪積克奠勝",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260212/1098496615859097600084936.jpeg/lNkGhBw6_xaQAB7vp3M-r19hdFLUT4rBnytJ8p8rSfI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60321582/%E8%8B%B1%E8%B6%85-%E5%88%A9%E7%89%A9%E6%B5%A6%E4%BD%9C%E5%AE%A21-0%E5%8B%9D%E6%96%B0%E7%89%B9%E8%98%AD-%E9%9B%B2%E8%BF%AA%E7%A9%8D%E5%85%8B%E5%A5%A0%E5%8B%9D",
+    "timestamp": "2026-02-11T22:34:32.438Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "天氣｜今日大致多雲最高約21度　明日至年廿九均日間溫暖",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260211/1098357597469151232705463.jpeg/VdRG-j-pwuBJAopk2UkmI1MxYlpA2lwYEwKorRMCqK0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60321528/%E5%AE%8F%E7%A6%8F%E8%8B%91%E7%81%AB%E7%81%BD-%E5%A4%9A%E4%BA%BA%E6%B6%89%E9%81%95%E5%9C%8B%E5%AE%89%E8%A2%AB%E6%8D%95-%E5%89%AF%E8%99%95%E9%95%B7%E6%89%B9%E6%9C%89%E4%BA%BA%E5%80%9F%E4%B8%8D%E5%8F%AF%E6%8A%97%E5%8A%9B%E7%90%86%E7%94%B1%E6%8A%BA%E9%BB%91",
     "timestamp": "2026-02-11T13:16:36.243Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "用AI出貓｜石硤尾小六生疑偷用AI生成演講稿應考口試　全班需重考",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260211/1098345312931549184634908.jpeg/XWr35FljO1RQ4GQGE2k5J9JvfAgq6Yxl_1l3fP9Zd3w?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60321452/%E7%94%A8ai%E5%87%BA%E8%B2%93-%E7%9F%B3%E7%A1%A4%E5%B0%BE%E5%B0%8F%E5%85%AD%E7%94%9F%E7%96%91%E5%81%B7%E7%94%A8ai%E7%94%9F%E6%88%90%E6%BC%94%E8%AC%9B%E7%A8%BF%E6%87%89%E8%80%83%E5%8F%A3%E8%A9%A6-%E5%85%A8%E7%8F%AD%E9%9C%80%E9%87%8D%E8%80%83",
-    "timestamp": "2026-02-11T12:38:03.380Z",
     "strategy": ".content-card__main"
   }
 ];
