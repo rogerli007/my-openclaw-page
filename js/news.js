@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-11T08:36:23.189Z
+// Last updated: 2026-02-11T09:10:37.288Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "抗老飲食｜宵夜吃1物是皮膚老化元兇！營養師推6大營養素美肌抗老",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260211/1098257058513293312063148.jpeg/ldaa7YnOCvaLMxvWBDQvmcNtvc5CBPPMmCXz6Zgl8-k?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60306902/%E6%8A%97%E8%80%81%E9%A3%B2%E9%A3%9F-%E5%AE%B5%E5%A4%9C%E5%90%831%E7%89%A9%E6%98%AF%E7%9A%AE%E8%86%9A%E8%80%81%E5%8C%96%E5%85%83%E5%85%87-%E7%87%9F%E9%A4%8A%E5%B8%AB%E6%8E%A86%E5%A4%A7%E7%87%9F%E9%A4%8A%E7%B4%A0%E7%BE%8E%E8%82%8C%E6%8A%97%E8%80%81",
+    "timestamp": "2026-02-11T09:10:37.288Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "iPhone 17 Pro宇宙橙配色令中國營收暴增38%　下代新色辨識度更高",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20240623/881486239910334464173098.jpeg/30JXhyNye3G5ECd3Oc4lUMTFx3oNq3ozxrvYVsa72FY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60321202/%E5%8A%A0%E5%B7%9E%E8%8F%AF%E8%A3%94%E7%94%B7%E5%AD%90%E9%9D%9E%E6%B3%95%E5%85%85%E7%95%B6%E4%B8%AD%E5%9C%8B%E4%BB%A3%E7%90%86%E4%BA%BA-%E5%88%A4%E7%9B%A34%E5%B9%B4",
     "timestamp": "2026-02-10T21:07:30.599Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普：假如與伊朗談判破裂　或派第二艘航母打擊群前往中東",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260206/1096303268453158912968430.jpeg/ef9sHYOWlNnYFu_lBlqJNP2EznH3yPt7MAphNTAKYTU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60321198/%E7%89%B9%E6%9C%97%E6%99%AE-%E5%81%87%E5%A6%82%E8%88%87%E4%BC%8A%E6%9C%97%E8%AB%87%E5%88%A4%E7%A0%B4%E8%A3%82-%E6%88%96%E6%B4%BE%E7%AC%AC%E4%BA%8C%E8%89%98%E8%88%AA%E6%AF%8D%E6%89%93%E6%93%8A%E7%BE%A4%E5%89%8D%E5%BE%80%E4%B8%AD%E6%9D%B1",
-    "timestamp": "2026-02-10T20:35:21.272Z",
     "strategy": ".content-card__main"
   }
 ];
