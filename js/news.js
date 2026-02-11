@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-11T11:11:27.267Z
+// Last updated: 2026-02-11T11:37:45.460Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "34歲男星試鏡被女星嫌「嘴有屎味」遭換角　至今都會事先食香口膠",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260211/1098266771703468032103745.png/DtXn8XiP56oTOfyeCYfDgeG6Ik9TYqHuwLHhOMCx4Tg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60321372/%E5%8D%9E%E6%85%B6%E8%8F%AF%E6%9B%BE%E8%A9%A6%E9%8F%A1%E8%A2%AB%E5%A5%B3%E6%98%9F%E5%AB%8C-%E5%98%B4%E6%9C%89%E5%B1%8E%E5%91%B3-%E9%81%AD%E6%8F%9B%E8%A7%92-%E8%87%B3%E4%BB%8A%E9%83%BD%E6%9C%83%E4%BA%8B%E5%85%88%E9%A3%9F%E9%A6%99%E5%8F%A3%E8%86%A0",
+    "timestamp": "2026-02-11T11:37:45.460Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "叫「Lau Ka Wing」都有份！房協免費送新年利市封　即睇領取方法",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260210/1097968676470001664752906.png/N4WZsUHgZ86HqWNjrai5ohAgv4lVAQd6UZadNVGWnTU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E8%A9%B1%E9%A1%8C/60320968/%E7%86%B1%E6%B0%B4%E7%88%90%E6%82%B2%E5%8A%87-%E5%85%92%E6%B4%97%E6%BE%A1%E9%81%87%E6%95%85%E9%9A%9C%E6%BC%8F%E9%9B%BB%E8%A7%B8%E9%9B%BB-%E7%88%B6%E6%80%A5%E6%95%91%E5%AD%90%E8%A1%9D%E5%85%A5%E6%B5%B4%E5%AE%A4%E8%AE%8A%E9%9B%99%E5%B1%8D%E5%91%BD%E6%A1%88",
     "timestamp": "2026-02-10T23:23:39.905Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "港鐵港島綫灣仔站附近列車服務暫停　港鐵指有物件阻礙路軌",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260211/1098146218078375936673940.jpeg/OBqDpqchrpN7JnC3es4uasW3U7KZksEkMlRf9DJUX_Q?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60321210/%E6%B8%AF%E9%90%B5%E6%B8%AF%E5%B3%B6%E7%B6%AB%E7%81%A3%E4%BB%94%E7%AB%99%E9%99%84%E8%BF%91%E5%88%97%E8%BB%8A%E6%9C%8D%E5%8B%99%E6%9A%AB%E5%81%9C-%E6%B8%AF%E9%90%B5%E6%8C%87%E6%9C%89%E7%89%A9%E4%BB%B6%E9%98%BB%E7%A4%99%E8%B7%AF%E8%BB%8C",
-    "timestamp": "2026-02-10T22:57:13.539Z",
     "strategy": ".content-card__main"
   }
 ];
