@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-11T04:43:27.284Z
+// Last updated: 2026-02-11T05:24:59.076Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "冬奧熱話︱不一樣的得獎感言　挪威選手出軌哭求已分手女友原諒",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260211/1098213791390240768498761.jpeg/TZaoGH7hJ-o3JaenJSxUge9Y33Z_lvm3DnRyyw50css?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60321285/%E5%86%AC%E5%A5%A7%E7%86%B1%E8%A9%B1-%E4%B8%8D%E4%B8%80%E6%A8%A3%E7%9A%84%E5%BE%97%E7%8D%8E%E6%84%9F%E8%A8%80-%E6%8C%AA%E5%A8%81%E9%81%B8%E6%89%8B%E5%87%BA%E8%BB%8C%E5%93%AD%E6%B1%82%E5%B7%B2%E5%88%86%E6%89%8B%E5%A5%B3%E5%8F%8B%E5%8E%9F%E8%AB%92",
+    "timestamp": "2026-02-11T05:24:59.076Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "派拉蒙續尋求收購華納兄弟探索　願代付予Netflix分手費｜美股",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250203/963079021171052544852061.jpeg/CcwInYDhVnAP56v8CBUflmGCA_L5xUe4Bpcx1ByXMdQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60321187/%E8%BE%B2%E6%9B%86%E6%96%B0%E5%B9%B4-%E8%BB%8A%E5%85%AC%E5%BB%9F%E5%B9%B4%E5%BB%BF%E4%B9%9D%E5%8F%8A%E5%88%9D%E4%BA%8C%E9%80%9A%E5%AE%B5%E9%96%8B%E6%94%BE-%E9%99%90%E5%B8%B63%E6%94%AF%E7%B4%B0%E9%A6%99",
     "timestamp": "2026-02-10T17:45:27.775Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "日本關西國際機場：1月中國航班旅客急跌58%　港澳航班旅客減12%",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260211/1098057416391528448506943.jpeg/ekc0x-LCATQ7c7bvsh-pLbxpxI5hI5SHsr-LbrK_i24?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60321185/%E6%97%A5%E6%9C%AC%E9%97%9C%E8%A5%BF%E5%9C%8B%E9%9A%9B%E6%A9%9F%E5%A0%B4-1%E6%9C%88%E4%B8%AD%E5%9C%8B%E8%88%AA%E7%8F%AD%E6%97%85%E5%AE%A2%E6%80%A5%E8%B7%8C58-%E6%B8%AF%E6%BE%B3%E8%88%AA%E7%8F%AD%E6%97%85%E5%AE%A2%E6%B8%9B12",
-    "timestamp": "2026-02-10T17:18:15.178Z",
     "strategy": ".content-card__main"
   }
 ];
