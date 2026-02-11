@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-11T08:07:23.107Z
+// Last updated: 2026-02-11T08:36:23.189Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "iPhone 17 Pro宇宙橙配色令中國營收暴增38%　下代新色辨識度更高",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260211/1098282467791474688195732.jpeg/dc1kQimoaW3zyDLzBqW1LyJuRFOiSvm-5hsnnOYbJ5w?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60321388/iphone-17-pro%E5%AE%87%E5%AE%99%E6%A9%99%E9%85%8D%E8%89%B2%E4%BB%A4%E4%B8%AD%E5%9C%8B%E7%87%9F%E6%94%B6%E6%9A%B4%E5%A2%9E38-%E4%B8%8B%E4%BB%A3%E6%96%B0%E8%89%B2%E8%BE%A8%E8%AD%98%E5%BA%A6%E6%9B%B4%E9%AB%98",
+    "timestamp": "2026-02-11T08:36:23.189Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "四月習特會添變數？200億美元對台軍售傳聞考驗中美紅線",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260206/1096303268453158912968430.jpeg/ef9sHYOWlNnYFu_lBlqJNP2EznH3yPt7MAphNTAKYTU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60321198/%E7%89%B9%E6%9C%97%E6%99%AE-%E5%81%87%E5%A6%82%E8%88%87%E4%BC%8A%E6%9C%97%E8%AB%87%E5%88%A4%E7%A0%B4%E8%A3%82-%E6%88%96%E6%B4%BE%E7%AC%AC%E4%BA%8C%E8%89%98%E8%88%AA%E6%AF%8D%E6%89%93%E6%93%8A%E7%BE%A4%E5%89%8D%E5%BE%80%E4%B8%AD%E6%9D%B1",
     "timestamp": "2026-02-10T20:35:21.272Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普：假如與伊朗談判破裂　或派第二艘航母打擊群前往中東",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260206/1096303268453158912968430.jpeg/ef9sHYOWlNnYFu_lBlqJNP2EznH3yPt7MAphNTAKYTU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60321198/%E7%89%B9%E6%9C%97%E6%99%AE-%E5%81%87%E5%A6%82%E8%88%87%E4%BC%8A%E6%9C%97%E8%AB%87%E5%88%A4%E7%A0%B4%E8%A3%82-%E6%88%96%E6%B4%BE%E7%AC%AC%E4%BA%8C%E8%89%98%E8%88%AA%E6%AF%8D%E6%89%93%E6%93%8A%E7%BE%A4%E5%89%8D%E5%BE%80%E4%B8%AD%E6%9D%B1",
-    "timestamp": "2026-02-10T20:10:12.235Z",
     "strategy": ".content-card__main"
   }
 ];
