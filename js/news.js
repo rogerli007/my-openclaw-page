@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-11T09:10:37.288Z
+// Last updated: 2026-02-11T09:40:33.767Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "賴清德促審議國防預算確保武器交付　憂台灣跌出美國優先名單",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260211/1098275990519418880468902.jpeg/4PtM5Eb6ee_qvbKcRAzovzuln1-scS6qMOHCSzDhwks?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8F%B0%E7%81%A3%E6%96%B0%E8%81%9E/60321364/%E8%B3%B4%E6%B8%85%E5%BE%B7%E4%BF%83%E5%AF%A9%E8%AD%B0%E5%9C%8B%E9%98%B2%E9%A0%90%E7%AE%97%E7%A2%BA%E4%BF%9D%E6%AD%A6%E5%99%A8%E4%BA%A4%E4%BB%98-%E6%86%82%E5%8F%B0%E7%81%A3%E8%B7%8C%E5%87%BA%E7%BE%8E%E5%9C%8B%E5%84%AA%E5%85%88%E5%90%8D%E5%96%AE",
+    "timestamp": "2026-02-11T09:40:33.767Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "抗老飲食｜宵夜吃1物是皮膚老化元兇！營養師推6大營養素美肌抗老",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20240623/881486239910334464173098.jpeg/30JXhyNye3G5ECd3Oc4lUMTFx3oNq3ozxrvYVsa72FY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60321202/%E5%8A%A0%E5%B7%9E%E8%8F%AF%E8%A3%94%E7%94%B7%E5%AD%90%E9%9D%9E%E6%B3%95%E5%85%85%E7%95%B6%E4%B8%AD%E5%9C%8B%E4%BB%A3%E7%90%86%E4%BA%BA-%E5%88%A4%E7%9B%A34%E5%B9%B4",
     "timestamp": "2026-02-10T21:35:26.396Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "加州華裔男子非法充當中國代理人　判監4年",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20240623/881486239910334464173098.jpeg/30JXhyNye3G5ECd3Oc4lUMTFx3oNq3ozxrvYVsa72FY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60321202/%E5%8A%A0%E5%B7%9E%E8%8F%AF%E8%A3%94%E7%94%B7%E5%AD%90%E9%9D%9E%E6%B3%95%E5%85%85%E7%95%B6%E4%B8%AD%E5%9C%8B%E4%BB%A3%E7%90%86%E4%BA%BA-%E5%88%A4%E7%9B%A34%E5%B9%B4",
-    "timestamp": "2026-02-10T21:07:30.599Z",
     "strategy": ".content-card__main"
   }
 ];
