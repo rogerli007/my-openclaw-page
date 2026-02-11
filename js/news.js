@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-11T12:05:46.054Z
+// Last updated: 2026-02-11T12:38:03.380Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "用AI出貓｜石硤尾小六生疑偷用AI生成演講稿應考口試　全班需重考",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260211/1098345312931549184634908.jpeg/XWr35FljO1RQ4GQGE2k5J9JvfAgq6Yxl_1l3fP9Zd3w?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60321452/%E7%94%A8ai%E5%87%BA%E8%B2%93-%E7%9F%B3%E7%A1%A4%E5%B0%BE%E5%B0%8F%E5%85%AD%E7%94%9F%E7%96%91%E5%81%B7%E7%94%A8ai%E7%94%9F%E6%88%90%E6%BC%94%E8%AC%9B%E7%A8%BF%E6%87%89%E8%80%83%E5%8F%A3%E8%A9%A6-%E5%85%A8%E7%8F%AD%E9%9C%80%E9%87%8D%E8%80%83",
+    "timestamp": "2026-02-11T12:38:03.380Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "谷歌天價收購加碼雲計算　歐盟批准其320億美元收購Wiz",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250922/1046761689359454208532186.jpeg/V9xQu2EL3PsK87ro5OBXXiqJsfqPuzcJsPfwzJX38Mw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60321220/39%E6%AD%B2%E5%B7%B4%E7%B1%8D%E7%94%B7%E8%B5%B4%E5%8C%97%E4%BA%AC%E8%A1%8C%E6%9D%8E%E5%85%A7%E8%97%8F%E4%BC%B8%E7%B8%AE%E6%A3%8D-%E6%B6%89%E9%81%95%E5%8F%8D-%E8%88%AA%E7%A9%BA%E4%BF%9D%E5%AE%89%E6%A2%9D%E4%BE%8B-%E8%A2%AB%E6%8D%95",
     "timestamp": "2026-02-11T00:50:36.258Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普威脅阻美加大橋通車　卡尼：已提醒對方建築費全由加方承擔",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260124/1091770973805350912092716.jpeg/qrje-KnlsiX4cZ0Bq4MW2sxRW7LZcEJKnf-0Kp3_tCo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60321211/%E7%89%B9%E6%9C%97%E6%99%AE%E5%A8%81%E8%84%85%E9%98%BB%E7%BE%8E%E5%8A%A0%E5%A4%A7%E6%A9%8B%E9%80%9A%E8%BB%8A-%E5%8D%A1%E5%B0%BC-%E5%B7%B2%E6%8F%90%E9%86%92%E5%B0%8D%E6%96%B9%E5%BB%BA%E7%AF%89%E8%B2%BB%E5%85%A8%E7%94%B1%E5%8A%A0%E6%96%B9%E6%89%BF%E6%93%94",
-    "timestamp": "2026-02-10T23:52:30.500Z",
     "strategy": ".content-card__main"
   }
 ];
