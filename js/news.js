@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-11T20:33:18.544Z
+// Last updated: 2026-02-11T20:56:07.036Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "澤連斯基否認將宣布舉行大選　稱須先獲得安全保障和達成停火協議",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260205/1095959700358303744109256.jpeg/5XW9yfJAUXmFUwiNqVzQkVdOG2VkYB9GXoIWAV6CFgE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60321575/%E6%BE%A4%E9%80%A3%E6%96%AF%E5%9F%BA%E5%90%A6%E8%AA%8D%E5%B0%87%E5%AE%A3%E5%B8%83%E8%88%89%E8%A1%8C%E5%A4%A7%E9%81%B8-%E7%A8%B1%E9%A0%88%E5%85%88%E7%8D%B2%E5%BE%97%E5%AE%89%E5%85%A8%E4%BF%9D%E9%9A%9C%E5%92%8C%E9%81%94%E6%88%90%E5%81%9C%E7%81%AB%E5%8D%94%E8%AD%B0",
+    "timestamp": "2026-02-11T20:56:07.036Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "澤連斯基否認將宣布舉行大選　稱須先獲得安全保障和達成停火協議",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260211/1098318529754566656305194.png/PoOTi7gGJLp1cUG0RBRmgCKwt0IP6_RyoIkK9KCJCvQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60321423/%E5%8F%AB-lau-ka-wing-%E9%83%BD%E6%9C%89%E4%BB%BD-%E6%88%BF%E5%8D%94%E5%85%8D%E8%B2%BB%E9%80%81%E6%96%B0%E5%B9%B4%E5%88%A9%E5%B8%82%E5%B0%81-%E5%8D%B3%E7%9D%87%E9%A0%98%E5%8F%96%E6%96%B9%E6%B3%95",
     "timestamp": "2026-02-11T11:11:27.267Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "年宵市場2026｜香港16大花市開放時間/地點+維園旺角花市交通安排",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260210/1097932790000783360314602.jpeg/GWdXoGsHmaA8RLucc9_1G2Tk9o2UWbq254qgjeeKoI0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%A3%9F%E7%8E%A9%E8%B2%B7/60314060/%E5%B9%B4%E5%AE%B5%E5%B8%82%E5%A0%B42026-%E9%A6%99%E6%B8%AF16%E5%A4%A7%E8%8A%B1%E5%B8%82%E9%96%8B%E6%94%BE%E6%99%82%E9%96%93-%E5%9C%B0%E9%BB%9E-%E7%B6%AD%E5%9C%92%E6%97%BA%E8%A7%92%E8%8A%B1%E5%B8%82%E4%BA%A4%E9%80%9A%E5%AE%89%E6%8E%92",
-    "timestamp": "2026-02-11T10:38:55.350Z",
     "strategy": ".content-card__main"
   }
 ];
