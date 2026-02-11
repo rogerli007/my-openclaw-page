@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-11T13:55:33.618Z
+// Last updated: 2026-02-11T14:34:59.981Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "許惠菁揭Bob親自招攬內幕　對演戲保持開放態度：有冇天份呢？",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260211/1098323136643862528207149.jpeg/sSEkS0QIh-tBvl8nIt5Ns7mjRmiudcUyl1_s1KFf7NQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60321461/%E8%A8%B1%E6%83%A0%E8%8F%81%E6%8F%ADbob%E8%A6%AA%E8%87%AA%E6%8B%9B%E6%94%AC%E5%85%A7%E5%B9%95-%E5%B0%8D%E6%BC%94%E6%88%B2%E4%BF%9D%E6%8C%81%E9%96%8B%E6%94%BE%E6%85%8B%E5%BA%A6-%E6%9C%89%E5%86%87%E5%A4%A9%E4%BB%BD%E5%91%A2",
+    "timestamp": "2026-02-11T14:34:59.981Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "黎智英判囚｜保安局長建議剔除《蘋果》3公司註冊　已通知可申訴",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260211/1098220655834304512183576.jpeg/3eAwqxPiY8_FCKQf6TGfBKT_ik5s6C4WokqTiqJKk4o?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60314523/%E5%92%96%E5%95%A1%E7%A6%81%E5%BF%8C-%E5%92%96%E5%95%A1%E5%BF%8C%E8%88%874%E7%A8%AE%E4%BF%9D%E5%81%A5%E5%93%81%E5%90%8C%E5%90%83%E6%81%90%E7%84%A1%E6%95%88-%E9%90%B5%E5%90%B8%E6%94%B6%E6%B8%9B54-%E5%B9%BE%E6%99%82%E9%A3%9F%E6%9C%80%E5%A5%BD",
     "timestamp": "2026-02-11T03:49:26.221Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "穩定幣｜首批合規穩定幣牌照料3月底發放　滙豐與渣打據報跑出",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250815/1033044460247715840269841.jpeg/EBQVVHCtTo2kZSlRZNJv_sQB506OtAQnRNFhPUTRYT0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60321267/%E7%A9%A9%E5%AE%9A%E5%B9%A3-%E9%A6%96%E6%89%B9%E5%90%88%E8%A6%8F%E7%A9%A9%E5%AE%9A%E5%B9%A3%E7%89%8C%E7%85%A7%E6%96%993%E6%9C%88%E5%BA%95%E7%99%BC%E6%94%BE-%E6%BB%99%E8%B1%90%E8%88%87%E6%B8%A3%E6%89%93%E6%93%9A%E5%A0%B1%E8%B7%91%E5%87%BA",
-    "timestamp": "2026-02-11T02:46:28.580Z",
     "strategy": ".content-card__main"
   }
 ];
