@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-11T12:38:03.380Z
+// Last updated: 2026-02-11T13:16:36.243Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "宏福苑火災｜多人涉違國安被捕　副處長批有人借不可抗力理由抺黑",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260211/1098357597469151232705463.jpeg/VdRG-j-pwuBJAopk2UkmI1MxYlpA2lwYEwKorRMCqK0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60321528/%E5%AE%8F%E7%A6%8F%E8%8B%91%E7%81%AB%E7%81%BD-%E5%A4%9A%E4%BA%BA%E6%B6%89%E9%81%95%E5%9C%8B%E5%AE%89%E8%A2%AB%E6%8D%95-%E5%89%AF%E8%99%95%E9%95%B7%E6%89%B9%E6%9C%89%E4%BA%BA%E5%80%9F%E4%B8%8D%E5%8F%AF%E6%8A%97%E5%8A%9B%E7%90%86%E7%94%B1%E6%8A%BA%E9%BB%91",
+    "timestamp": "2026-02-11T13:16:36.243Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "用AI出貓｜石硤尾小六生疑偷用AI生成演講稿應考口試　全班需重考",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250122/958803020752097280405937.jpeg/75LJabLwf3mVyt9b-vlxGy4j5hDoaAT_-OCq7_jgqu8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60321233/%E4%BA%BA%E8%A1%8C%E7%A8%B1%E7%BA%8C%E5%AF%A6%E6%96%BD%E9%81%A9%E5%BA%A6%E5%AF%AC%E9%AC%86%E8%B2%A8%E5%B9%A3%E6%94%BF%E7%AD%96-%E9%9D%88%E6%B4%BB%E9%81%8B%E7%94%A8%E9%99%8D%E6%BA%96%E6%B8%9B%E6%81%AF%E7%AD%89%E6%94%BF%E7%AD%96%E5%B7%A5%E5%85%B7",
     "timestamp": "2026-02-11T01:46:10.931Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "39歲巴籍男赴北京行李內藏伸縮棍　涉違反《航空保安條例》被捕",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250922/1046761689359454208532186.jpeg/V9xQu2EL3PsK87ro5OBXXiqJsfqPuzcJsPfwzJX38Mw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60321220/39%E6%AD%B2%E5%B7%B4%E7%B1%8D%E7%94%B7%E8%B5%B4%E5%8C%97%E4%BA%AC%E8%A1%8C%E6%9D%8E%E5%85%A7%E8%97%8F%E4%BC%B8%E7%B8%AE%E6%A3%8D-%E6%B6%89%E9%81%95%E5%8F%8D-%E8%88%AA%E7%A9%BA%E4%BF%9D%E5%AE%89%E6%A2%9D%E4%BE%8B-%E8%A2%AB%E6%8D%95",
-    "timestamp": "2026-02-11T00:50:36.258Z",
     "strategy": ".content-card__main"
   }
 ];
