@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-11T22:34:32.438Z
+// Last updated: 2026-02-11T22:54:13.397Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "熱水爐悲劇｜兒洗澡遇故障漏電觸電　父急救子衝入浴室變雙屍命案",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260210/1097968676470001664752906.png/N4WZsUHgZ86HqWNjrai5ohAgv4lVAQd6UZadNVGWnTU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E8%A9%B1%E9%A1%8C/60320968/%E7%86%B1%E6%B0%B4%E7%88%90%E6%82%B2%E5%8A%87-%E5%85%92%E6%B4%97%E6%BE%A1%E9%81%87%E6%95%85%E9%9A%9C%E6%BC%8F%E9%9B%BB%E8%A7%B8%E9%9B%BB-%E7%88%B6%E6%80%A5%E6%95%91%E5%AD%90%E8%A1%9D%E5%85%A5%E6%B5%B4%E5%AE%A4%E8%AE%8A%E9%9B%99%E5%B1%8D%E5%91%BD%E6%A1%88",
+    "timestamp": "2026-02-11T22:54:13.397Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "英超｜利物浦作客1：0勝新特蘭　雲迪積克奠勝",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/1515061/org/9591e258ee766527cdcee72275d6a77c.jpg/gKyv9aMFCW-LV4TFZhdcnOES8LukHYjSaWWLAGlliwA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60321533/%E9%BB%8E%E6%99%BA%E8%8B%B1%E5%88%A4%E5%9B%9A-%E4%BF%9D%E5%AE%89%E5%B1%80%E9%95%B7%E5%BB%BA%E8%AD%B0%E5%89%94%E9%99%A4-%E8%98%8B%E6%9E%9C-3%E5%85%AC%E5%8F%B8%E8%A8%BB%E5%86%8A-%E5%B7%B2%E9%80%9A%E7%9F%A5%E5%8F%AF%E7%94%B3%E8%A8%B4",
     "timestamp": "2026-02-11T13:55:33.618Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "宏福苑火災｜多人涉違國安被捕　副處長批有人借不可抗力理由抺黑",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260211/1098357597469151232705463.jpeg/VdRG-j-pwuBJAopk2UkmI1MxYlpA2lwYEwKorRMCqK0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60321528/%E5%AE%8F%E7%A6%8F%E8%8B%91%E7%81%AB%E7%81%BD-%E5%A4%9A%E4%BA%BA%E6%B6%89%E9%81%95%E5%9C%8B%E5%AE%89%E8%A2%AB%E6%8D%95-%E5%89%AF%E8%99%95%E9%95%B7%E6%89%B9%E6%9C%89%E4%BA%BA%E5%80%9F%E4%B8%8D%E5%8F%AF%E6%8A%97%E5%8A%9B%E7%90%86%E7%94%B1%E6%8A%BA%E9%BB%91",
-    "timestamp": "2026-02-11T13:16:36.243Z",
     "strategy": ".content-card__main"
   }
 ];
