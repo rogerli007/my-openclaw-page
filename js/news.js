@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-11T15:13:32.808Z
+// Last updated: 2026-02-11T15:42:39.179Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "陳凱詠開紅館騷綵排勁精彩　4字回應傳陳慧琳做嘉賓",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260211/1098349893300260864184072.png/wf68xKEtOkfulZF-ruJgETaAfCgqz5LhTJejrEyXo6w?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60321512/%E9%99%B3%E5%87%B1%E8%A9%A0%E9%96%8B%E7%B4%85%E9%A4%A8%E9%A8%B7%E7%B6%B5%E6%8E%92%E5%8B%81%E7%B2%BE%E5%BD%A9-4%E5%AD%97%E5%9B%9E%E6%87%89%E5%82%B3%E9%99%B3%E6%85%A7%E7%90%B3%E5%81%9A%E5%98%89%E8%B3%93",
+    "timestamp": "2026-02-11T15:42:39.179Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美股｜美非農新增職位勝預期　道指早段曾漲逾300點",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260211/1098213791390240768498761.jpeg/TZaoGH7hJ-o3JaenJSxUge9Y33Z_lvm3DnRyyw50css?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60321285/%E5%86%AC%E5%A5%A7%E7%86%B1%E8%A9%B1-%E4%B8%8D%E4%B8%80%E6%A8%A3%E7%9A%84%E5%BE%97%E7%8D%8E%E6%84%9F%E8%A8%80-%E6%8C%AA%E5%A8%81%E9%81%B8%E6%89%8B%E5%87%BA%E8%BB%8C%E5%93%AD%E6%B1%82%E5%B7%B2%E5%88%86%E6%89%8B%E5%A5%B3%E5%8F%8B%E5%8E%9F%E8%AB%92",
     "timestamp": "2026-02-11T05:24:59.076Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "派拉蒙續尋求收購華納兄弟探索　願代付予Netflix分手費｜美股",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20251206/1074002810892193792527601.jpeg/IqH_lFBWfx1-btOMx7JYcpQT4FZq2PQkCGjusQho7rE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60321326/%E6%B4%BE%E6%8B%89%E8%92%99%E7%BA%8C%E5%B0%8B%E6%B1%82%E6%94%B6%E8%B3%BC%E8%8F%AF%E7%B4%8D%E5%85%84%E5%BC%9F%E6%8E%A2%E7%B4%A2-%E9%A1%98%E4%BB%A3%E4%BB%98%E4%BA%88netflix%E5%88%86%E6%89%8B%E8%B2%BB-%E7%BE%8E%E8%82%A1",
-    "timestamp": "2026-02-11T04:43:27.284Z",
     "strategy": ".content-card__main"
   }
 ];
