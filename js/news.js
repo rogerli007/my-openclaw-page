@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-11T13:16:36.243Z
+// Last updated: 2026-02-11T13:55:33.618Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "黎智英判囚｜保安局長建議剔除《蘋果》3公司註冊　已通知可申訴",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/1515061/org/9591e258ee766527cdcee72275d6a77c.jpg/gKyv9aMFCW-LV4TFZhdcnOES8LukHYjSaWWLAGlliwA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60321533/%E9%BB%8E%E6%99%BA%E8%8B%B1%E5%88%A4%E5%9B%9A-%E4%BF%9D%E5%AE%89%E5%B1%80%E9%95%B7%E5%BB%BA%E8%AD%B0%E5%89%94%E9%99%A4-%E8%98%8B%E6%9E%9C-3%E5%85%AC%E5%8F%B8%E8%A8%BB%E5%86%8A-%E5%B7%B2%E9%80%9A%E7%9F%A5%E5%8F%AF%E7%94%B3%E8%A8%B4",
+    "timestamp": "2026-02-11T13:55:33.618Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "宏福苑火災｜多人涉違國安被捕　副處長批有人借不可抗力理由抺黑",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250815/1033044460247715840269841.jpeg/EBQVVHCtTo2kZSlRZNJv_sQB506OtAQnRNFhPUTRYT0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60321267/%E7%A9%A9%E5%AE%9A%E5%B9%A3-%E9%A6%96%E6%89%B9%E5%90%88%E8%A6%8F%E7%A9%A9%E5%AE%9A%E5%B9%A3%E7%89%8C%E7%85%A7%E6%96%993%E6%9C%88%E5%BA%95%E7%99%BC%E6%94%BE-%E6%BB%99%E8%B1%90%E8%88%87%E6%B8%A3%E6%89%93%E6%93%9A%E5%A0%B1%E8%B7%91%E5%87%BA",
     "timestamp": "2026-02-11T02:46:28.580Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "人行稱續實施適度寬鬆貨幣政策　靈活運用降準減息等政策工具",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250122/958803020752097280405937.jpeg/75LJabLwf3mVyt9b-vlxGy4j5hDoaAT_-OCq7_jgqu8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60321233/%E4%BA%BA%E8%A1%8C%E7%A8%B1%E7%BA%8C%E5%AF%A6%E6%96%BD%E9%81%A9%E5%BA%A6%E5%AF%AC%E9%AC%86%E8%B2%A8%E5%B9%A3%E6%94%BF%E7%AD%96-%E9%9D%88%E6%B4%BB%E9%81%8B%E7%94%A8%E9%99%8D%E6%BA%96%E6%B8%9B%E6%81%AF%E7%AD%89%E6%94%BF%E7%AD%96%E5%B7%A5%E5%85%B7",
-    "timestamp": "2026-02-11T01:46:10.931Z",
     "strategy": ".content-card__main"
   }
 ];
