@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-11T06:39:56.111Z
+// Last updated: 2026-02-11T07:15:20.915Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "陳茂波：正敲定虛擬資產交易商與託管服務新牌制　今夏引相關立法",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260211/1098271455646322688207451.jpeg/2Dd7i_LFeOXqT4Tfxz0mD0u9dhRvnMTp34-jhN-Po4Q?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60321385/%E9%99%B3%E8%8C%82%E6%B3%A2-%E6%AD%A3%E6%95%B2%E5%AE%9A%E8%99%9B%E6%93%AC%E8%B3%87%E7%94%A2%E4%BA%A4%E6%98%93%E5%95%86%E8%88%87%E8%A8%97%E7%AE%A1%E6%9C%8D%E5%8B%99%E6%96%B0%E7%89%8C%E5%88%B6-%E4%BB%8A%E5%A4%8F%E5%BC%95%E7%9B%B8%E9%97%9C%E7%AB%8B%E6%B3%95",
+    "timestamp": "2026-02-11T07:15:20.915Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "情人節理想慶祝大不同　男人揀睇戲、女人想購物　預算同「縮水」",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260211/1098083548423786496794850.jpeg/RkMxP-3qkc13tDVyVq6_pya-0FcVY_j4hJIlIb6SJSE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60321196/%E7%B4%85%E7%A3%A1%E5%9C%B0%E8%88%96%E7%87%92%E8%87%98%E5%BA%97%E9%96%89%E9%96%80%E5%A4%B1%E7%81%AB-%E6%B6%88%E9%98%B2%E9%96%8B%E5%96%89%E7%81%8C%E6%95%91-%E6%A8%93%E4%B8%8A%E5%A4%A7%E5%BB%8860%E4%BA%BA%E8%87%AA%E8%A1%8C%E7%96%8F%E6%95%A3",
     "timestamp": "2026-02-10T19:16:47.612Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "上水清河邨單位起火　消防開喉灌救　逾300人漏夜疏散",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260211/1098070622761652224179523.jpeg/d_xuXinbLB24GxM0VKvIgJViW1bbLZXMY1D3wkZQ98I?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60321192/%E4%B8%8A%E6%B0%B4%E6%B8%85%E6%B2%B3%E9%82%A8%E5%96%AE%E4%BD%8D%E8%B5%B7%E7%81%AB-%E6%B6%88%E9%98%B2%E9%96%8B%E5%96%89%E7%81%8C%E6%95%91-%E9%80%BE300%E4%BA%BA%E6%BC%8F%E5%A4%9C%E7%96%8F%E6%95%A3",
-    "timestamp": "2026-02-10T18:43:01.624Z",
     "strategy": ".content-card__main"
   }
 ];
