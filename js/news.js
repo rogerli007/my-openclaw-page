@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-11T19:15:39.357Z
+// Last updated: 2026-02-11T19:43:13.169Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "奶粉回收｜法國調查第3宗嬰兒死亡個案　曾食用需回收奶粉",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/2153114/org/978b4111a2366130911e0318113698d6.jpg/nzJWUkNQZ-iNh3mWT0Ky-nJP8Ba5GAjaEXi4QxF4uEM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60321569/%E5%A5%B6%E7%B2%89%E5%9B%9E%E6%94%B6-%E6%B3%95%E5%9C%8B%E8%AA%BF%E6%9F%A5%E7%AC%AC3%E5%AE%97%E5%AC%B0%E5%85%92%E6%AD%BB%E4%BA%A1%E5%80%8B%E6%A1%88-%E6%9B%BE%E9%A3%9F%E7%94%A8%E9%9C%80%E5%9B%9E%E6%94%B6%E5%A5%B6%E7%B2%89",
+    "timestamp": "2026-02-11T19:43:13.169Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "奶粉回收｜法國調查第3宗嬰兒死亡個案　曾食用需回收奶粉",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260211/1098275990519418880468902.jpeg/4PtM5Eb6ee_qvbKcRAzovzuln1-scS6qMOHCSzDhwks?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8F%B0%E7%81%A3%E6%96%B0%E8%81%9E/60321364/%E8%B3%B4%E6%B8%85%E5%BE%B7%E4%BF%83%E5%AF%A9%E8%AD%B0%E5%9C%8B%E9%98%B2%E9%A0%90%E7%AE%97%E7%A2%BA%E4%BF%9D%E6%AD%A6%E5%99%A8%E4%BA%A4%E4%BB%98-%E6%86%82%E5%8F%B0%E7%81%A3%E8%B7%8C%E5%87%BA%E7%BE%8E%E5%9C%8B%E5%84%AA%E5%85%88%E5%90%8D%E5%96%AE",
     "timestamp": "2026-02-11T09:40:33.767Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "抗老飲食｜宵夜吃1物是皮膚老化元兇！營養師推6大營養素美肌抗老",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260211/1098257058513293312063148.jpeg/ldaa7YnOCvaLMxvWBDQvmcNtvc5CBPPMmCXz6Zgl8-k?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60306902/%E6%8A%97%E8%80%81%E9%A3%B2%E9%A3%9F-%E5%AE%B5%E5%A4%9C%E5%90%831%E7%89%A9%E6%98%AF%E7%9A%AE%E8%86%9A%E8%80%81%E5%8C%96%E5%85%83%E5%85%87-%E7%87%9F%E9%A4%8A%E5%B8%AB%E6%8E%A86%E5%A4%A7%E7%87%9F%E9%A4%8A%E7%B4%A0%E7%BE%8E%E8%82%8C%E6%8A%97%E8%80%81",
-    "timestamp": "2026-02-11T09:10:37.288Z",
     "strategy": ".content-card__main"
   }
 ];
