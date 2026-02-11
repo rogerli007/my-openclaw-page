@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-11T00:50:36.258Z
+// Last updated: 2026-02-11T01:46:10.931Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "人行稱續實施適度寬鬆貨幣政策　靈活運用降準減息等政策工具",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250122/958803020752097280405937.jpeg/75LJabLwf3mVyt9b-vlxGy4j5hDoaAT_-OCq7_jgqu8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60321233/%E4%BA%BA%E8%A1%8C%E7%A8%B1%E7%BA%8C%E5%AF%A6%E6%96%BD%E9%81%A9%E5%BA%A6%E5%AF%AC%E9%AC%86%E8%B2%A8%E5%B9%A3%E6%94%BF%E7%AD%96-%E9%9D%88%E6%B4%BB%E9%81%8B%E7%94%A8%E9%99%8D%E6%BA%96%E6%B8%9B%E6%81%AF%E7%AD%89%E6%94%BF%E7%AD%96%E5%B7%A5%E5%85%B7",
+    "timestamp": "2026-02-11T01:46:10.931Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "39歲巴籍男赴北京行李內藏伸縮棍　涉違反《航空保安條例》被捕",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260210/1098013463818539008071653.jpeg/foG-MqkQueX0lMkoCh_1b7O8wuAOODR2AL4H1wC-B9c?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60321168/%E5%85%AD%E5%90%88%E5%BD%A92-12%E9%A0%AD%E7%8D%8E-800%E8%90%AC-6%E5%80%8B%E6%9C%80%E6%97%BA%E8%99%9F%E7%A2%BC-2%E6%8B%9B%E5%A2%9E%E4%B8%AD%E7%8D%8E%E6%A9%9F%E6%9C%83-%E5%B9%B8%E9%81%8B%E6%8A%95%E6%B3%A8%E7%AB%99",
     "timestamp": "2026-02-10T15:47:15.268Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "調查揭長者同住孤獨：40%受訪長者有心事無人講　近半與兒孫同住",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260210/1097969847242854400594612.jpeg/Zsevgen31EMEM0USWHbfxQQifbknFCD3PTiKZT04imU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60321127/%E8%AA%BF%E6%9F%A5%E6%8F%AD%E9%95%B7%E8%80%85%E5%90%8C%E4%BD%8F%E5%AD%A4%E7%8D%A8-40-%E5%8F%97%E8%A8%AA%E9%95%B7%E8%80%85%E6%9C%89%E5%BF%83%E4%BA%8B%E7%84%A1%E4%BA%BA%E8%AC%9B-%E8%BF%91%E5%8D%8A%E8%88%87%E5%85%92%E5%AD%AB%E5%90%8C%E4%BD%8F",
-    "timestamp": "2026-02-10T15:15:20.132Z",
     "strategy": ".content-card__main"
   }
 ];
