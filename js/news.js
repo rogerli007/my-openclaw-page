@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-11T16:14:35.920Z
+// Last updated: 2026-02-11T16:43:45.912Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "氫能試驗｜增3項目原則上獲批　包括氫燃料電池冷鏈貨車跨境運輸",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260212/1098412602947538944891240.jpeg/IUaLNaE-bLze_NYP8RJTNPvP8VTBCy3NHfILlh3yC5Y?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60321561/%E6%B0%AB%E8%83%BD%E8%A9%A6%E9%A9%97-%E5%A2%9E3%E9%A0%85%E7%9B%AE%E5%8E%9F%E5%89%87%E4%B8%8A%E7%8D%B2%E6%89%B9-%E5%8C%85%E6%8B%AC%E6%B0%AB%E7%87%83%E6%96%99%E9%9B%BB%E6%B1%A0%E5%86%B7%E9%8F%88%E8%B2%A8%E8%BB%8A%E8%B7%A8%E5%A2%83%E9%81%8B%E8%BC%B8",
+    "timestamp": "2026-02-11T16:43:45.912Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "啤酒需求下降　喜力擬全球裁員最多6000人",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260211/1098258062851969024482703.jpeg/H8l1TlRaTA6KbbsqZXPWHfSnB-crV8Iei9HaiYvR2ok?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60321348/%E6%83%85%E4%BA%BA%E7%AF%80%E7%90%86%E6%83%B3%E6%85%B6%E7%A5%9D%E5%A4%A7%E4%B8%8D%E5%90%8C-%E7%94%B7%E4%BA%BA%E6%8F%80%E7%9D%87%E6%88%B2-%E5%A5%B3%E4%BA%BA%E6%83%B3%E8%B3%BC%E7%89%A9-%E9%A0%90%E7%AE%97%E5%90%8C-%E7%B8%AE%E6%B0%B4",
     "timestamp": "2026-02-11T06:39:56.111Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "AI × STEAM+01｜教師卓越 AI 應用獎　妙法寺劉金龍中學教案稱冠",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260211/1098248044530372608079216.jpeg/JsPIcNxXUx9Hq_BM51k6cN0OTZXOXAWezoNwFc6DcBU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%95%99%E8%82%B2%E7%99%BC%E5%B1%95/60314389/ai-steam-01-%E6%95%99%E5%B8%AB%E5%8D%93%E8%B6%8A-ai-%E6%87%89%E7%94%A8%E7%8D%8E-%E5%A6%99%E6%B3%95%E5%AF%BA%E5%8A%89%E9%87%91%E9%BE%8D%E4%B8%AD%E5%AD%B8%E6%95%99%E6%A1%88%E7%A8%B1%E5%86%A0",
-    "timestamp": "2026-02-11T06:02:06.503Z",
     "strategy": ".content-card__main"
   }
 ];
