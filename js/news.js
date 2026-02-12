@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-12T14:16:21.586Z
+// Last updated: 2026-02-12T14:40:49.790Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "64歲日本世紀賤男死性不改　涉餐廳強吻非禮兩女　19年第4度被捕",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260211/1098318927907262464629134.png/V2hwn9CoIeSJ48_7ZNA4pv_vTWc24kKeh0AQPodAED4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E5%A8%9B%E6%A8%82/60321492/64%E6%AD%B2%E6%97%A5%E6%9C%AC%E4%B8%96%E7%B4%80%E8%B3%A4%E7%94%B7%E6%AD%BB%E6%80%A7%E4%B8%8D%E6%94%B9-%E6%B6%89%E9%A4%90%E5%BB%B3%E5%BC%B7%E5%90%BB%E9%9D%9E%E7%A6%AE%E5%85%A9%E5%A5%B3-19%E5%B9%B4%E7%AC%AC4%E5%BA%A6%E8%A2%AB%E6%8D%95",
+    "timestamp": "2026-02-12T14:40:49.790Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "有片｜雙層九巴疑誤闖圓方停車場入口　車頂直剷天花卡住進退兩難",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260212/1098604070970593280537906.jpeg/aiqDJGonXM3Qv3NuOE-g6gL_a05TG265_J2UzfydlM0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%A3%9F%E7%8E%A9%E8%B2%B7/60321432/%E9%BB%83%E5%A4%A7%E4%BB%99%E6%96%B0%E5%B9%B4%E6%B4%BB%E5%8B%95-%E9%A0%AD%E7%82%B7%E9%A6%99-%E6%8E%A5%E8%B2%A1%E7%A5%9E-%E6%8B%9C%E6%9C%88%E8%80%81-1%E9%A1%9E%E4%BA%BA%E5%85%8D%E8%B2%BB%E6%8B%9C%E5%A4%AA%E6%AD%B2-%E9%80%81%E9%87%91%E5%B9%A3",
     "timestamp": "2026-02-12T05:14:45.719Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "法國七旬男半世紀全球侵犯89未成年人　警籲各地潛在受害者發聲",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260212/1098587730721378304126589.png/DK5fH3hlA6DyRadcFCt-vIMHQFz15WGhsnQUs7J0FLM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60321650/%E6%B3%95%E5%9C%8B%E4%B8%83%E6%97%AC%E7%94%B7%E5%8D%8A%E4%B8%96%E7%B4%80%E5%85%A8%E7%90%83%E4%BE%B5%E7%8A%AF89%E6%9C%AA%E6%88%90%E5%B9%B4%E4%BA%BA-%E8%AD%A6%E7%B1%B2%E5%90%84%E5%9C%B0%E6%BD%9B%E5%9C%A8%E5%8F%97%E5%AE%B3%E8%80%85%E7%99%BC%E8%81%B2",
-    "timestamp": "2026-02-12T04:24:54.091Z",
     "strategy": ".content-card__main"
   }
 ];
