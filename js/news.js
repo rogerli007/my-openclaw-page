@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-12T00:45:31.103Z
+// Last updated: 2026-02-12T01:18:48.346Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "人定勝鼠！大角咀大廈滅鼠通告再熱傳　幽默口吻引讚好：好有梗！",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260210/1097932915746017280965238.png/n8zQu6T8llJUZwSPcbiRa6KmzcB0-BvY9PwPS_T8D0s?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60320955/%E4%BA%BA%E5%AE%9A%E5%8B%9D%E9%BC%A0-%E5%A4%A7%E8%A7%92%E5%92%80%E5%A4%A7%E5%BB%88%E6%BB%85%E9%BC%A0%E9%80%9A%E5%91%8A%E5%86%8D%E7%86%B1%E5%82%B3-%E5%B9%BD%E9%BB%98%E5%8F%A3%E5%90%BB%E5%BC%95%E8%AE%9A%E5%A5%BD-%E5%A5%BD%E6%9C%89%E6%A2%97",
+    "timestamp": "2026-02-12T01:18:48.346Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "JF-17戰機出口潮：中國藉巴基斯坦合營規式　撼動中東亞洲市場?",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260212/1098412602947538944891240.jpeg/IUaLNaE-bLze_NYP8RJTNPvP8VTBCy3NHfILlh3yC5Y?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60321561/%E6%B0%AB%E8%83%BD%E8%A9%A6%E9%A9%97-%E5%A2%9E3%E9%A0%85%E7%9B%AE%E5%8E%9F%E5%89%87%E4%B8%8A%E7%8D%B2%E6%89%B9-%E5%8C%85%E6%8B%AC%E6%B0%AB%E7%87%83%E6%96%99%E9%9B%BB%E6%B1%A0%E5%86%B7%E9%8F%88%E8%B2%A8%E8%BB%8A%E8%B7%A8%E5%A2%83%E9%81%8B%E8%BC%B8",
     "timestamp": "2026-02-11T16:43:45.912Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "啤酒需求下降　喜力擬全球裁員最多6000人",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260211/1098404588026859520597106.jpeg/N1a1lyjHbQ7zkT6zNl38W-1Uc_O8N2NWGp6dZhqenWY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60321555/%E5%95%A4%E9%85%92%E9%9C%80%E6%B1%82%E4%B8%8B%E9%99%8D-%E5%96%9C%E5%8A%9B%E6%93%AC%E5%85%A8%E7%90%83%E8%A3%81%E5%93%A1%E6%9C%80%E5%A4%9A6000%E4%BA%BA",
-    "timestamp": "2026-02-11T16:14:35.920Z",
     "strategy": ".content-card__main"
   }
 ];
