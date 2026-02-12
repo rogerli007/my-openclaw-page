@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-12T20:02:07.742Z
+// Last updated: 2026-02-12T20:22:29.466Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "宏福苑大火｜涉煽動被捕中大生被踢出校　曾就火災提訴求及搞聯署",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20251130/1071795231659134976650317.jpeg/qO3S79e4NKKfeyRw0lAO4B1TijPzVKfgcoi_R3KIv0c?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60321933/%E5%AE%8F%E7%A6%8F%E8%8B%91%E5%A4%A7%E7%81%AB-%E6%B6%89%E7%85%BD%E5%8B%95%E8%A2%AB%E6%8D%95%E4%B8%AD%E5%A4%A7%E7%94%9F%E8%A2%AB%E8%B8%A2%E5%87%BA%E6%A0%A1-%E6%9B%BE%E5%B0%B1%E7%81%AB%E7%81%BD%E6%8F%90%E8%A8%B4%E6%B1%82%E5%8F%8A%E6%90%9E%E8%81%AF%E7%BD%B2",
+    "timestamp": "2026-02-12T20:22:29.466Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "梅窩碼頭45歲男涉襲警被捕　男警臉部受傷送醫治理",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260210/1098026061717049344934286.jpeg/Rmtz31YR0Rm1pwz-U4dEn1siBK7wgUt6gsIMEoLCDBI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60321842/%E7%94%9F%E8%A0%94%E9%A3%9F%E7%89%A9%E4%B8%AD%E6%AF%92-%E8%A2%81%E5%9C%8B%E5%8B%87-%E8%A0%94%E9%81%8E%E6%BF%BE%E9%80%B2%E9%A3%9F%E5%B0%87%E8%AB%BE%E5%A6%82%E7%97%85%E6%AF%92%E6%BF%83%E7%B8%AE99%E5%80%8D-%E7%B1%B2%E5%8B%BF%E7%94%9F%E9%A3%9F",
     "timestamp": "2026-02-12T10:27:09.905Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "65歲配樂大師范宗沛傳因心肌梗塞辭世　曾獲金馬、金曲、金鐘三獎",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260212/1098660289252954112276415.png/lqs_rNwniv46CYTtnUL4moaWq2Lo-223fAOUrHwDlKw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60321792/65%E6%AD%B2%E9%85%8D%E6%A8%82%E5%A4%A7%E5%B8%AB%E8%8C%83%E5%AE%97%E6%B2%9B%E5%82%B3%E5%9B%A0%E5%BF%83%E8%82%8C%E6%A2%97%E5%A1%9E%E8%BE%AD%E4%B8%96-%E6%9B%BE%E7%8D%B2%E9%87%91%E9%A6%AC-%E9%87%91%E6%9B%B2-%E9%87%91%E9%90%98%E4%B8%89%E7%8D%8E",
-    "timestamp": "2026-02-12T09:54:10.724Z",
     "strategy": ".content-card__main"
   }
 ];
