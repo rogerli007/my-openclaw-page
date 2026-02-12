@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-12T23:17:52.085Z
+// Last updated: 2026-02-12T23:35:42.951Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "麥玲玲偕視帝鄭嘉穎陳山聰逛花市　冧爆十萬粉絲",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260213/1098776910592217088367102.jpeg/_V4YPAQNSnG2NTw2QD-tA5upN7HBDdmYYh-Kn1Qfip8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60321928/%E9%BA%A5%E7%8E%B2%E7%8E%B2%E5%81%95%E8%A6%96%E5%B8%9D%E9%84%AD%E5%98%89%E7%A9%8E%E9%99%B3%E5%B1%B1%E8%81%B0%E9%80%9B%E8%8A%B1%E5%B8%82-%E5%86%A7%E7%88%86%E5%8D%81%E8%90%AC%E7%B2%89%E7%B5%B2",
+    "timestamp": "2026-02-12T23:35:42.951Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "小米Xiaomi智能變頻抽濕機一週實測｜快速抽濕＋智慧控濕極寧靜",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260212/1098621238231699456706245.jpeg/JogWfFz89P05vBI38uKfuNjQeXEE5n4xsNjnM7DY5zM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60321665/80%E5%B9%B4%E4%BB%A3%E7%9F%A5%E5%90%8D%E7%AB%A5%E6%98%9F%E8%AE%8A%E7%8F%A0%E6%B5%B7%E6%A8%93%E7%A5%9E-%E6%8B%8D%E7%89%87%E8%B8%A2%E7%88%86%E5%85%A7%E5%9C%B0-%E6%B0%B4%E9%AD%9A%E7%9B%A4-%E5%B0%88%E5%91%83%E6%B8%AF%E4%BA%BA",
     "timestamp": "2026-02-12T15:10:48.656Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "64歲日本世紀賤男死性不改　涉餐廳強吻非禮兩女　19年第4度被捕",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260211/1098318927907262464629134.png/V2hwn9CoIeSJ48_7ZNA4pv_vTWc24kKeh0AQPodAED4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E5%A8%9B%E6%A8%82/60321492/64%E6%AD%B2%E6%97%A5%E6%9C%AC%E4%B8%96%E7%B4%80%E8%B3%A4%E7%94%B7%E6%AD%BB%E6%80%A7%E4%B8%8D%E6%94%B9-%E6%B6%89%E9%A4%90%E5%BB%B3%E5%BC%B7%E5%90%BB%E9%9D%9E%E7%A6%AE%E5%85%A9%E5%A5%B3-19%E5%B9%B4%E7%AC%AC4%E5%BA%A6%E8%A2%AB%E6%8D%95",
-    "timestamp": "2026-02-12T14:40:49.790Z",
     "strategy": ".content-card__main"
   }
 ];
