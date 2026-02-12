@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-12T15:39:56.940Z
+// Last updated: 2026-02-12T16:11:26.275Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "古天樂與東張女神麥詩晴訪問有講有笑　毫無隔膜抹清寸爆TVB事件",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260212/1098703867568197632943210.jpeg/C-iZhR7vmYePlgW_Jkyz-hImDWmH2Jr3Pq27yD6tu8g?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60321822/%E5%8F%A4%E5%A4%A9%E6%A8%82%E8%88%87%E6%9D%B1%E5%BC%B5%E5%A5%B3%E7%A5%9E%E9%BA%A5%E8%A9%A9%E6%99%B4%E8%A8%AA%E5%95%8F%E6%9C%89%E8%AC%9B%E6%9C%89%E7%AC%91-%E6%AF%AB%E7%84%A1%E9%9A%94%E8%86%9C%E6%8A%B9%E6%B8%85%E5%AF%B8%E7%88%86tvb%E4%BA%8B%E4%BB%B6",
+    "timestamp": "2026-02-12T16:11:26.275Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "日昇小食韭菜餅觀塘年宵市場賣貴逾一倍　老闆開口解釋3件$50原因",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260212/1098605242506809344056219.jpeg/N_QhdeaxdiYuv4-rao0VdNq2hWh7qAedUfD0JlHw9CY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%9C%8B%E9%9A%9B%E5%88%86%E6%9E%90/60321673/%E7%B1%B3%E8%98%AD%E5%86%AC%E5%A5%A7-%E8%B0%B7%E6%84%9B%E5%87%8C%E6%91%98%E9%8A%80alysa-liu%E5%A5%AA%E9%87%91-%E8%83%8C%E5%BE%8C%E6%98%AF%E4%B8%AD%E7%BE%8E%E5%83%B9%E5%80%BC%E8%A7%80%E7%9B%B8%E7%88%AD",
     "timestamp": "2026-02-12T06:47:00.088Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "Donki再現鼠蹤！壽司凍櫃驚見老鼠亂竄　網民籲報食環：唔敢食了",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260212/1098612892648869888715293.png/IRbZaHsTD8BL_3fvDQu3pmvwQSeEc1qa24HmQNuB5kA",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60321599/donki%E5%86%8D%E7%8F%BE%E9%BC%A0%E8%B9%A4-%E5%A3%BD%E5%8F%B8%E5%87%8D%E6%AB%83%E9%A9%9A%E8%A6%8B%E8%80%81%E9%BC%A0%E4%BA%82%E7%AB%84-%E7%B6%B2%E6%B0%91%E7%B1%B2%E5%A0%B1%E9%A3%9F%E7%92%B0-%E5%94%94%E6%95%A2%E9%A3%9F%E4%BA%86",
-    "timestamp": "2026-02-12T06:18:37.628Z",
     "strategy": ".content-card__main"
   }
 ];
