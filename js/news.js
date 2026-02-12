@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-12T14:40:49.790Z
+// Last updated: 2026-02-12T15:10:48.656Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "80年代知名童星變珠海樓神　拍片踢爆內地「水魚盤」專呃港人",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260212/1098621238231699456706245.jpeg/JogWfFz89P05vBI38uKfuNjQeXEE5n4xsNjnM7DY5zM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60321665/80%E5%B9%B4%E4%BB%A3%E7%9F%A5%E5%90%8D%E7%AB%A5%E6%98%9F%E8%AE%8A%E7%8F%A0%E6%B5%B7%E6%A8%93%E7%A5%9E-%E6%8B%8D%E7%89%87%E8%B8%A2%E7%88%86%E5%85%A7%E5%9C%B0-%E6%B0%B4%E9%AD%9A%E7%9B%A4-%E5%B0%88%E5%91%83%E6%B8%AF%E4%BA%BA",
+    "timestamp": "2026-02-12T15:10:48.656Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "64歲日本世紀賤男死性不改　涉餐廳強吻非禮兩女　19年第4度被捕",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260212/1098604661193052160475389.jpeg/mMZY6WxUvnadiQuc4HdAg8OhV0N7sQzEmdWU0r_VlNI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60321701/%E6%83%85%E4%BA%BA%E7%AF%80%E9%81%87%E5%91%A8%E5%85%AD%E9%9B%A3-%E6%9B%AC%E5%91%BD-%E8%8A%B1%E6%AA%94%E6%AD%A3%E6%97%A5%E9%80%81%E8%BE%A6%E5%85%AC%E5%AE%A4%E5%96%AE%E6%B8%9B8%E6%88%90-%E6%8F%90%E6%97%A9%E5%91%A8%E4%BA%94%E9%80%81",
     "timestamp": "2026-02-12T05:49:58.478Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "黃大仙新年活動｜頭炷香/接財神/拜月老　1類人免費拜太歲+送金幣",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260212/1098604070970593280537906.jpeg/aiqDJGonXM3Qv3NuOE-g6gL_a05TG265_J2UzfydlM0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%A3%9F%E7%8E%A9%E8%B2%B7/60321432/%E9%BB%83%E5%A4%A7%E4%BB%99%E6%96%B0%E5%B9%B4%E6%B4%BB%E5%8B%95-%E9%A0%AD%E7%82%B7%E9%A6%99-%E6%8E%A5%E8%B2%A1%E7%A5%9E-%E6%8B%9C%E6%9C%88%E8%80%81-1%E9%A1%9E%E4%BA%BA%E5%85%8D%E8%B2%BB%E6%8B%9C%E5%A4%AA%E6%AD%B2-%E9%80%81%E9%87%91%E5%B9%A3",
-    "timestamp": "2026-02-12T05:14:45.719Z",
     "strategy": ".content-card__main"
   }
 ];
