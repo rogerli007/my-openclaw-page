@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-12T07:43:36.393Z
+// Last updated: 2026-02-12T08:05:56.968Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "李國麟女兒古裝造型令人眼前一亮獲激讚　父女檔上陣拍戲令人期待",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260212/1098617990217207808976018.png/WYhPxYvdpVNqCSdD4oAWfzP6CF2V_XqhRoiR7EaIkew?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60321696/%E6%9D%8E%E5%9C%8B%E9%BA%9F%E5%A5%B3%E5%85%92%E5%8F%A4%E8%A3%9D%E9%80%A0%E5%9E%8B%E4%BB%A4%E4%BA%BA%E7%9C%BC%E5%89%8D%E4%B8%80%E4%BA%AE%E7%8D%B2%E6%BF%80%E8%AE%9A-%E7%88%B6%E5%A5%B3%E6%AA%94%E4%B8%8A%E9%99%A3%E6%8B%8D%E6%88%B2%E4%BB%A4%E4%BA%BA%E6%9C%9F%E5%BE%85",
+    "timestamp": "2026-02-12T08:05:56.968Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "浙江13歲體操冠軍墮樓重傷　母揭遭2教練體罰索款4萬　警立案調查",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20251110/1064601543698812928527638.jpeg/D4N5TBnFk_ViZKCtBqUb3Ykn01EdVrzgjVOAoo1TgKI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60321577/%E4%B8%AD%E6%96%B9-%E7%BE%8E%E5%9C%8B%E6%8C%87%E8%B2%AC%E4%B8%AD%E5%9C%8B%E6%A0%B8%E7%88%86%E8%A9%A6%E9%A9%97%E6%AF%AB%E7%84%A1%E4%BE%9D%E6%93%9A-%E5%9C%96%E7%82%BA%E8%87%AA%E8%BA%AB%E9%87%8D%E5%95%9F%E6%A0%B8%E8%A9%A6%E7%B7%A8%E9%80%A0%E8%97%89%E5%8F%A3",
     "timestamp": "2026-02-11T21:22:10.938Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "澤連斯基否認將宣布舉行大選　稱須先獲得安全保障和達成停火協議",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260205/1095959700358303744109256.jpeg/5XW9yfJAUXmFUwiNqVzQkVdOG2VkYB9GXoIWAV6CFgE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60321575/%E6%BE%A4%E9%80%A3%E6%96%AF%E5%9F%BA%E5%90%A6%E8%AA%8D%E5%B0%87%E5%AE%A3%E5%B8%83%E8%88%89%E8%A1%8C%E5%A4%A7%E9%81%B8-%E7%A8%B1%E9%A0%88%E5%85%88%E7%8D%B2%E5%BE%97%E5%AE%89%E5%85%A8%E4%BF%9D%E9%9A%9C%E5%92%8C%E9%81%94%E6%88%90%E5%81%9C%E7%81%AB%E5%8D%94%E8%AD%B0",
-    "timestamp": "2026-02-11T20:56:07.036Z",
     "strategy": ".content-card__main"
   }
 ];
