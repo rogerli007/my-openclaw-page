@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-12T21:37:27.361Z
+// Last updated: 2026-02-12T22:02:20.549Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "天氣｜今日大致天晴最高23度　情人節至年廿九溫暖及較潮濕",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260213/1098857761665716224374056.jpeg/rYP_TwVBNy4EjAQp0b9mh3vl3W5jeBVavkGq4L5BquA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60321935/%E5%A4%A9%E6%B0%A3-%E4%BB%8A%E6%97%A5%E5%A4%A7%E8%87%B4%E5%A4%A9%E6%99%B4%E6%9C%80%E9%AB%9823%E5%BA%A6-%E6%83%85%E4%BA%BA%E7%AF%80%E8%87%B3%E5%B9%B4%E5%BB%BF%E4%B9%9D%E6%BA%AB%E6%9A%96%E5%8F%8A%E8%BC%83%E6%BD%AE%E6%BF%95",
+    "timestamp": "2026-02-12T22:02:20.549Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "農曆新年除夕交通　港鐵主要路線通宵服務　機場快線延長行駛時間",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250108/953703077553115136407856.jpeg/iQ1hjy36fdyqvp-V-vFye42DdGlxMVBNlKdYB5SnWAc",
     "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/583893/%E9%A6%AC%E8%B9%84%E7%B3%95%E9%A3%9F%E8%AD%9C-%E9%BB%83%E6%B7%91%E5%84%80%E9%A6%AC%E8%B9%84%E7%B3%95%E5%81%9A%E6%B3%95%E6%9D%90%E6%96%99%E6%AF%94%E4%BE%8B%E5%BF%85%E5%82%993%E7%A8%AE%E7%B2%89-%E5%8A%A01%E7%89%A9%E6%B8%85%E7%94%9C%E8%A7%A3%E6%AF%92",
     "timestamp": "2026-02-12T12:27:19.277Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "谷婭溦怒轟「某大師」博流量！嫌疑人火速發文回應　網民竟唔認同",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260212/1098682985978269696356179.png/iqkURftUQ82jEgE_Umw8nH-sARD8afwWdj6DFHY-gxQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60321831/%E8%B0%B7%E5%A9%AD%E6%BA%A6%E6%80%92%E8%BD%9F-%E6%9F%90%E5%A4%A7%E5%B8%AB-%E5%8D%9A%E6%B5%81%E9%87%8F-%E5%AB%8C%E7%96%91%E4%BA%BA%E7%81%AB%E9%80%9F%E7%99%BC%E6%96%87%E5%9B%9E%E6%87%89-%E7%B6%B2%E6%B0%91%E7%AB%9F%E5%94%94%E8%AA%8D%E5%90%8C",
-    "timestamp": "2026-02-12T11:52:27.143Z",
     "strategy": ".content-card__main"
   }
 ];
