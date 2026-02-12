@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-12T04:24:54.091Z
+// Last updated: 2026-02-12T05:14:45.719Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "黃大仙新年活動｜頭炷香/接財神/拜月老　1類人免費拜太歲+送金幣",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260212/1098604070970593280537906.jpeg/aiqDJGonXM3Qv3NuOE-g6gL_a05TG265_J2UzfydlM0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%A3%9F%E7%8E%A9%E8%B2%B7/60321432/%E9%BB%83%E5%A4%A7%E4%BB%99%E6%96%B0%E5%B9%B4%E6%B4%BB%E5%8B%95-%E9%A0%AD%E7%82%B7%E9%A6%99-%E6%8E%A5%E8%B2%A1%E7%A5%9E-%E6%8B%9C%E6%9C%88%E8%80%81-1%E9%A1%9E%E4%BA%BA%E5%85%8D%E8%B2%BB%E6%8B%9C%E5%A4%AA%E6%AD%B2-%E9%80%81%E9%87%91%E5%B9%A3",
+    "timestamp": "2026-02-12T05:14:45.719Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "法國七旬男半世紀全球侵犯89未成年人　警籲各地潛在受害者發聲",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260212/1098428456447774720759486.jpeg/OQm_uYi11JkNw_Wi2u4gHqeinNxM4lJHPeGAjj3hgI4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60321565/%E8%8D%B7%E8%98%AD%E6%B3%95%E9%99%A2%E4%B8%8B%E4%BB%A4%E6%9F%A5%E5%AE%89%E4%B8%96%E5%8D%8A%E5%B0%8E%E9%AB%94-%E8%81%9E%E6%B3%B0%E7%A7%91%E6%8A%80-%E5%BE%AA%E4%B8%80%E5%88%87%E5%90%88%E6%B3%95%E9%80%94%E5%BE%91%E6%81%A2%E5%BE%A9%E6%8E%A7%E5%88%B6%E6%AC%8A",
     "timestamp": "2026-02-11T18:41:53.210Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "荷蘭法院下令查安世半導體　聞泰科技：循一切合法途徑恢復控制權",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260212/1098428456447774720759486.jpeg/OQm_uYi11JkNw_Wi2u4gHqeinNxM4lJHPeGAjj3hgI4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60321565/%E8%8D%B7%E8%98%AD%E6%B3%95%E9%99%A2%E4%B8%8B%E4%BB%A4%E6%9F%A5%E5%AE%89%E4%B8%96%E5%8D%8A%E5%B0%8E%E9%AB%94-%E8%81%9E%E6%B3%B0%E7%A7%91%E6%8A%80-%E5%BE%AA%E4%B8%80%E5%88%87%E5%90%88%E6%B3%95%E9%80%94%E5%BE%91%E6%81%A2%E5%BE%A9%E6%8E%A7%E5%88%B6%E6%AC%8A",
-    "timestamp": "2026-02-11T18:12:35.408Z",
     "strategy": ".content-card__main"
   }
 ];
