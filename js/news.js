@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-12T13:40:44.921Z
+// Last updated: 2026-02-12T14:16:21.586Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "有片｜雙層九巴疑誤闖圓方停車場入口　車頂直剷天花卡住進退兩難",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260212/1098734382409060352013648.jpeg/rm6cvB1yzplN5fyQ2G9-t1DQShAjuUyP-oJb2_qCW9s",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60321903/%E6%9C%89%E7%89%87-%E9%9B%99%E5%B1%A4%E4%B9%9D%E5%B7%B4%E7%96%91%E8%AA%A4%E9%97%96%E5%9C%93%E6%96%B9%E5%81%9C%E8%BB%8A%E5%A0%B4%E5%85%A5%E5%8F%A3-%E8%BB%8A%E9%A0%82%E7%9B%B4%E5%89%B7%E5%A4%A9%E8%8A%B1%E5%8D%A1%E4%BD%8F%E9%80%B2%E9%80%80%E5%85%A9%E9%9B%A3",
+    "timestamp": "2026-02-12T14:16:21.586Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "中國海軍南海開展對岸打擊、對海作戰等實戰化訓練考核",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260212/1098587730721378304126589.png/DK5fH3hlA6DyRadcFCt-vIMHQFz15WGhsnQUs7J0FLM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60321650/%E6%B3%95%E5%9C%8B%E4%B8%83%E6%97%AC%E7%94%B7%E5%8D%8A%E4%B8%96%E7%B4%80%E5%85%A8%E7%90%83%E4%BE%B5%E7%8A%AF89%E6%9C%AA%E6%88%90%E5%B9%B4%E4%BA%BA-%E8%AD%A6%E7%B1%B2%E5%90%84%E5%9C%B0%E6%BD%9B%E5%9C%A8%E5%8F%97%E5%AE%B3%E8%80%85%E7%99%BC%E8%81%B2",
     "timestamp": "2026-02-12T04:24:54.091Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美賓州28歲華女遭槍殺　曾報警稱被性侵跟蹤　前男友自首辯｢走火｣",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260212/1098574408953368576108342.png/-7pqHm6SS3ZOpocaFBNmkDWFidwo6kNGNtL46jbS-Oo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60321637/%E7%BE%8E%E8%B3%93%E5%B7%9E28%E6%AD%B2%E8%8F%AF%E5%A5%B3%E9%81%AD%E6%A7%8D%E6%AE%BA-%E6%9B%BE%E5%A0%B1%E8%AD%A6%E7%A8%B1%E8%A2%AB%E6%80%A7%E4%BE%B5%E8%B7%9F%E8%B9%A4-%E5%89%8D%E7%94%B7%E5%8F%8B%E8%87%AA%E9%A6%96%E8%BE%AF-%E8%B5%B0%E7%81%AB",
-    "timestamp": "2026-02-12T03:25:18.162Z",
     "strategy": ".content-card__main"
   }
 ];
