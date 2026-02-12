@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-12T17:14:23.552Z
+// Last updated: 2026-02-12T17:43:29.222Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "特朗普邊境沙皇：將結束在明尼蘇達打擊非法移民執法行動",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260213/1098780245252640768047361.jpeg/2rhz42oc1eVLNdVhtEAE_U83o2-7PyCbknSAQZJ0gEE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60321931/%E7%89%B9%E6%9C%97%E6%99%AE%E9%82%8A%E5%A2%83%E6%B2%99%E7%9A%87-%E5%B0%87%E7%B5%90%E6%9D%9F%E5%9C%A8%E6%98%8E%E5%B0%BC%E8%98%87%E9%81%94%E6%89%93%E6%93%8A%E9%9D%9E%E6%B3%95%E7%A7%BB%E6%B0%91%E5%9F%B7%E6%B3%95%E8%A1%8C%E5%8B%95",
+    "timestamp": "2026-02-12T17:43:29.222Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "特朗普邊境沙皇：將結束在明尼蘇達打擊非法移民執法行動",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260212/1098617990217207808976018.png/WYhPxYvdpVNqCSdD4oAWfzP6CF2V_XqhRoiR7EaIkew?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60321696/%E6%9D%8E%E5%9C%8B%E9%BA%9F%E5%A5%B3%E5%85%92%E5%8F%A4%E8%A3%9D%E9%80%A0%E5%9E%8B%E4%BB%A4%E4%BA%BA%E7%9C%BC%E5%89%8D%E4%B8%80%E4%BA%AE%E7%8D%B2%E6%BF%80%E8%AE%9A-%E7%88%B6%E5%A5%B3%E6%AA%94%E4%B8%8A%E9%99%A3%E6%8B%8D%E6%88%B2%E4%BB%A4%E4%BA%BA%E6%9C%9F%E5%BE%85",
     "timestamp": "2026-02-12T08:05:56.968Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "浙江13歲體操冠軍墮樓重傷　母揭遭2教練體罰索款4萬　警立案調查",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260212/1098565045949829120573864.jpeg/MNLXcw6wpw8TramYhkyYrY4mrWVX3vLthwSm4YcEpuE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60321628/%E6%B5%99%E6%B1%9F13%E6%AD%B2%E9%AB%94%E6%93%8D%E5%86%A0%E8%BB%8D%E5%A2%AE%E6%A8%93%E9%87%8D%E5%82%B7-%E6%AF%8D%E6%8F%AD%E9%81%AD2%E6%95%99%E7%B7%B4%E9%AB%94%E7%BD%B0%E7%B4%A2%E6%AC%BE4%E8%90%AC-%E8%AD%A6%E7%AB%8B%E6%A1%88%E8%AA%BF%E6%9F%A5",
-    "timestamp": "2026-02-12T07:43:36.393Z",
     "strategy": ".content-card__main"
   }
 ];
