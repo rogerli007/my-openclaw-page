@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-12T17:43:29.222Z
+// Last updated: 2026-02-12T18:40:41.801Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "民建聯區議員潘志成違泊緊急消防通道　 致歉稱日後會多加留意",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260213/1098793923284832256156394.jpeg/MG6I2MNFra_SyVKwexN-lMJOhlrfwEDxM9jA3zPYwN8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60321934/%E6%B0%91%E5%BB%BA%E8%81%AF%E5%8D%80%E8%AD%B0%E5%93%A1%E6%BD%98%E5%BF%97%E6%88%90%E9%81%95%E6%B3%8A%E7%B7%8A%E6%80%A5%E6%B6%88%E9%98%B2%E9%80%9A%E9%81%93-%E8%87%B4%E6%AD%89%E7%A8%B1%E6%97%A5%E5%BE%8C%E6%9C%83%E5%A4%9A%E5%8A%A0%E7%95%99%E6%84%8F",
+    "timestamp": "2026-02-12T18:40:41.801Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "特朗普邊境沙皇：將結束在明尼蘇達打擊非法移民執法行動",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260212/1098655560410075136617420.jpeg/5FanCcxx8Wvp0wOqVxlbcwp4s-FvzlEs9wE8kvcBPJI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60321796/%E6%94%9C%E9%80%BE-13%E8%90%AC%E5%8F%A6%E9%A1%9E%E5%90%B8%E7%85%99%E7%94%A2%E5%93%81%E5%8F%8A%E7%A7%81%E7%85%99-31%E6%AD%B2%E5%A5%B3%E9%81%AD%E6%B5%B7%E9%97%9C%E6%8B%98%E6%8D%95-%E5%88%A4%E7%9B%A3%E5%8D%8A%E5%B9%B4%E7%BD%B0%E6%AC%BE",
     "timestamp": "2026-02-12T08:34:23.984Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "李國麟女兒古裝造型令人眼前一亮獲激讚　父女檔上陣拍戲令人期待",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260212/1098617990217207808976018.png/WYhPxYvdpVNqCSdD4oAWfzP6CF2V_XqhRoiR7EaIkew?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60321696/%E6%9D%8E%E5%9C%8B%E9%BA%9F%E5%A5%B3%E5%85%92%E5%8F%A4%E8%A3%9D%E9%80%A0%E5%9E%8B%E4%BB%A4%E4%BA%BA%E7%9C%BC%E5%89%8D%E4%B8%80%E4%BA%AE%E7%8D%B2%E6%BF%80%E8%AE%9A-%E7%88%B6%E5%A5%B3%E6%AA%94%E4%B8%8A%E9%99%A3%E6%8B%8D%E6%88%B2%E4%BB%A4%E4%BA%BA%E6%9C%9F%E5%BE%85",
-    "timestamp": "2026-02-12T08:05:56.968Z",
     "strategy": ".content-card__main"
   }
 ];
