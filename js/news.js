@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-12T08:59:26.364Z
+// Last updated: 2026-02-12T09:28:25.185Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "Seedance 2.0 AI 香港免費試玩方法｜影片難分真假小心惹私隱爭議",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260212/1098666000347303936410827.jpeg/7eQ-ghBpqaUipH8her8cCIM2iz3xcLFHjKA6O4ygOjs",
+    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60321794/seedance-2-0-ai-%E9%A6%99%E6%B8%AF%E5%85%8D%E8%B2%BB%E8%A9%A6%E7%8E%A9%E6%96%B9%E6%B3%95-%E5%BD%B1%E7%89%87%E9%9B%A3%E5%88%86%E7%9C%9F%E5%81%87%E5%B0%8F%E5%BF%83%E6%83%B9%E7%A7%81%E9%9A%B1%E7%88%AD%E8%AD%B0",
+    "timestamp": "2026-02-12T09:28:25.185Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "觀音借庫2026懶人包｜吉日＋祭品＋9大禁忌　開庫觀音廟名單+地址",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260212/1098496615859097600084936.jpeg/lNkGhBw6_xaQAB7vp3M-r19hdFLUT4rBnytJ8p8rSfI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60321582/%E8%8B%B1%E8%B6%85-%E5%88%A9%E7%89%A9%E6%B5%A6%E4%BD%9C%E5%AE%A21-0%E5%8B%9D%E6%96%B0%E7%89%B9%E8%98%AD-%E9%9B%B2%E8%BF%AA%E7%A9%8D%E5%85%8B%E5%A5%A0%E5%8B%9D",
     "timestamp": "2026-02-11T22:34:32.438Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "天氣｜今日大致多雲最高約21度　明日至年廿九均日間溫暖",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260212/1098499348687491072628430.jpeg/mOS-t69iBh8wPX53P1kxFbfaW_pS1IL_h010OodNdDo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60321563/%E5%A4%A9%E6%B0%A3-%E4%BB%8A%E6%97%A5%E5%A4%A7%E8%87%B4%E5%A4%9A%E9%9B%B2%E6%9C%80%E9%AB%98%E7%B4%8421%E5%BA%A6-%E6%98%8E%E6%97%A5%E8%87%B3%E5%B9%B4%E5%BB%BF%E4%B9%9D%E5%9D%87%E6%97%A5%E9%96%93%E6%BA%AB%E6%9A%96",
-    "timestamp": "2026-02-11T22:17:22.935Z",
     "strategy": ".content-card__main"
   }
 ];
