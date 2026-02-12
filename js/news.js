@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-12T18:40:41.801Z
+// Last updated: 2026-02-12T19:15:31.244Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "泰校園槍擊案｜女校長中槍身亡　自願當人質換取學生獲釋被譽英雄",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260213/1098810564534079488201639.jpeg/ujVFPPDpv5IIul4bLud9tMEY_sbw1nhZhujnh4bo54c?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60321937/%E6%B3%B0%E6%A0%A1%E5%9C%92%E6%A7%8D%E6%93%8A%E6%A1%88-%E5%A5%B3%E6%A0%A1%E9%95%B7%E4%B8%AD%E6%A7%8D%E8%BA%AB%E4%BA%A1-%E8%87%AA%E9%A1%98%E7%95%B6%E4%BA%BA%E8%B3%AA%E6%8F%9B%E5%8F%96%E5%AD%B8%E7%94%9F%E7%8D%B2%E9%87%8B%E8%A2%AB%E8%AD%BD%E8%8B%B1%E9%9B%84",
+    "timestamp": "2026-02-12T19:15:31.244Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "民建聯區議員潘志成違泊緊急消防通道　 致歉稱日後會多加留意",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260212/1098661575625019392596201.jpeg/IioV3CJSl6y0V0moqBnqWxOtfBFk3OBR9vNDlvbzQ5Y?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%A3%9F%E7%8E%A9%E8%B2%B7/60321632/%E8%A7%80%E9%9F%B3%E5%80%9F%E5%BA%AB2026%E6%87%B6%E4%BA%BA%E5%8C%85-%E5%90%89%E6%97%A5-%E7%A5%AD%E5%93%81-9%E5%A4%A7%E7%A6%81%E5%BF%8C-%E9%96%8B%E5%BA%AB%E8%A7%80%E9%9F%B3%E5%BB%9F%E5%90%8D%E5%96%AE-%E5%9C%B0%E5%9D%80",
     "timestamp": "2026-02-12T08:59:26.364Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "攜逾$13萬另類吸煙產品及私煙　31歲女遭海關拘捕　判監半年罰款",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260212/1098655560410075136617420.jpeg/5FanCcxx8Wvp0wOqVxlbcwp4s-FvzlEs9wE8kvcBPJI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60321796/%E6%94%9C%E9%80%BE-13%E8%90%AC%E5%8F%A6%E9%A1%9E%E5%90%B8%E7%85%99%E7%94%A2%E5%93%81%E5%8F%8A%E7%A7%81%E7%85%99-31%E6%AD%B2%E5%A5%B3%E9%81%AD%E6%B5%B7%E9%97%9C%E6%8B%98%E6%8D%95-%E5%88%A4%E7%9B%A3%E5%8D%8A%E5%B9%B4%E7%BD%B0%E6%AC%BE",
-    "timestamp": "2026-02-12T08:34:23.984Z",
     "strategy": ".content-card__main"
   }
 ];
