@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-12T08:05:56.968Z
+// Last updated: 2026-02-12T08:34:23.984Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "攜逾$13萬另類吸煙產品及私煙　31歲女遭海關拘捕　判監半年罰款",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260212/1098655560410075136617420.jpeg/5FanCcxx8Wvp0wOqVxlbcwp4s-FvzlEs9wE8kvcBPJI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60321796/%E6%94%9C%E9%80%BE-13%E8%90%AC%E5%8F%A6%E9%A1%9E%E5%90%B8%E7%85%99%E7%94%A2%E5%93%81%E5%8F%8A%E7%A7%81%E7%85%99-31%E6%AD%B2%E5%A5%B3%E9%81%AD%E6%B5%B7%E9%97%9C%E6%8B%98%E6%8D%95-%E5%88%A4%E7%9B%A3%E5%8D%8A%E5%B9%B4%E7%BD%B0%E6%AC%BE",
+    "timestamp": "2026-02-12T08:34:23.984Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "李國麟女兒古裝造型令人眼前一亮獲激讚　父女檔上陣拍戲令人期待",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260212/1098482316503683072162749.jpeg/19187L8u4eihSi1v5pOcLA2FoPHcmNufsMnHqrDJx6o?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60321578/%E5%8A%A0%E6%8B%BF%E5%A4%A7%E6%A0%A1%E5%9C%92%E6%A7%8D%E6%93%8A%E6%A1%889%E6%AD%BB-%E8%AD%A6%E6%96%B9-%E6%A7%8D%E6%89%8B%E6%98%AF18%E6%AD%B2%E8%AE%8A%E6%80%A7%E5%A5%B3%E5%AD%90%E6%9B%BE%E6%9C%89%E7%B2%BE%E7%A5%9E%E5%95%8F%E9%A1%8C",
     "timestamp": "2026-02-11T21:51:18.099Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "中方：美國指責中國核爆試驗毫無依據　圖為自身重啟核試編造藉口",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20251110/1064601543698812928527638.jpeg/D4N5TBnFk_ViZKCtBqUb3Ykn01EdVrzgjVOAoo1TgKI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60321577/%E4%B8%AD%E6%96%B9-%E7%BE%8E%E5%9C%8B%E6%8C%87%E8%B2%AC%E4%B8%AD%E5%9C%8B%E6%A0%B8%E7%88%86%E8%A9%A6%E9%A9%97%E6%AF%AB%E7%84%A1%E4%BE%9D%E6%93%9A-%E5%9C%96%E7%82%BA%E8%87%AA%E8%BA%AB%E9%87%8D%E5%95%9F%E6%A0%B8%E8%A9%A6%E7%B7%A8%E9%80%A0%E8%97%89%E5%8F%A3",
-    "timestamp": "2026-02-11T21:22:10.938Z",
     "strategy": ".content-card__main"
   }
 ];
