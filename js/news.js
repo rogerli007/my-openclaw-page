@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-11T23:59:43.827Z
+// Last updated: 2026-02-12T00:45:31.103Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "JF-17戰機出口潮：中國藉巴基斯坦合營規式　撼動中東亞洲市場?",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260211/1098288589373968384768312.jpeg/je_j809ZTFOcAiPd3lIRUnf7EL1jz6aqM_APgDPwD4A?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%9C%8B%E9%9A%9B%E5%88%86%E6%9E%90/60321456/jf-17%E6%88%B0%E6%A9%9F%E5%87%BA%E5%8F%A3%E6%BD%AE-%E4%B8%AD%E5%9C%8B%E8%97%89%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E5%90%88%E7%87%9F%E8%A6%8F%E5%BC%8F-%E6%92%BC%E5%8B%95%E4%B8%AD%E6%9D%B1%E4%BA%9E%E6%B4%B2%E5%B8%82%E5%A0%B4",
+    "timestamp": "2026-02-12T00:45:31.103Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "港媒：特朗普將於4月初訪華　中美有望延長貿易休戰期",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260211/1098404588026859520597106.jpeg/N1a1lyjHbQ7zkT6zNl38W-1Uc_O8N2NWGp6dZhqenWY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60321555/%E5%95%A4%E9%85%92%E9%9C%80%E6%B1%82%E4%B8%8B%E9%99%8D-%E5%96%9C%E5%8A%9B%E6%93%AC%E5%85%A8%E7%90%83%E8%A3%81%E5%93%A1%E6%9C%80%E5%A4%9A6000%E4%BA%BA",
     "timestamp": "2026-02-11T16:14:35.920Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "陳凱詠開紅館騷綵排勁精彩　4字回應傳陳慧琳做嘉賓",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260211/1098349893300260864184072.png/wf68xKEtOkfulZF-ruJgETaAfCgqz5LhTJejrEyXo6w?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60321512/%E9%99%B3%E5%87%B1%E8%A9%A0%E9%96%8B%E7%B4%85%E9%A4%A8%E9%A8%B7%E7%B6%B5%E6%8E%92%E5%8B%81%E7%B2%BE%E5%BD%A9-4%E5%AD%97%E5%9B%9E%E6%87%89%E5%82%B3%E9%99%B3%E6%85%A7%E7%90%B3%E5%81%9A%E5%98%89%E8%B3%93",
-    "timestamp": "2026-02-11T15:42:39.179Z",
     "strategy": ".content-card__main"
   }
 ];
