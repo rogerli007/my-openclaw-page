@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-12T21:19:19.835Z
+// Last updated: 2026-02-12T21:37:27.361Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "農曆新年除夕交通　港鐵主要路線通宵服務　機場快線延長行駛時間",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260212/1098422748390494208307195.jpeg/KJdXz1K8W0DXok_f-adsebzcn3UyGmg8hmldJpxpXSY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60321943/%E8%BE%B2%E6%9B%86%E6%96%B0%E5%B9%B4%E9%99%A4%E5%A4%95%E4%BA%A4%E9%80%9A-%E6%B8%AF%E9%90%B5%E4%B8%BB%E8%A6%81%E8%B7%AF%E7%B7%9A%E9%80%9A%E5%AE%B5%E6%9C%8D%E5%8B%99-%E6%A9%9F%E5%A0%B4%E5%BF%AB%E7%B7%9A%E5%BB%B6%E9%95%B7%E8%A1%8C%E9%A7%9B%E6%99%82%E9%96%93",
+    "timestamp": "2026-02-12T21:37:27.361Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "農曆新年｜政府預計1138萬人次出入境　周六情人節離港高峰期",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260212/1098682985978269696356179.png/iqkURftUQ82jEgE_Umw8nH-sARD8afwWdj6DFHY-gxQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60321831/%E8%B0%B7%E5%A9%AD%E6%BA%A6%E6%80%92%E8%BD%9F-%E6%9F%90%E5%A4%A7%E5%B8%AB-%E5%8D%9A%E6%B5%81%E9%87%8F-%E5%AB%8C%E7%96%91%E4%BA%BA%E7%81%AB%E9%80%9F%E7%99%BC%E6%96%87%E5%9B%9E%E6%87%89-%E7%B6%B2%E6%B0%91%E7%AB%9F%E5%94%94%E8%AA%8D%E5%90%8C",
     "timestamp": "2026-02-12T11:52:27.143Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "機場貨機墮海｜疑飛機迷網售殘骸碎片　警：新界南重案組積極跟進",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260211/1098358619570704384618327.jpeg/Gu8lwlHeQLdTURZj-Dtnmiiiac_npoAcr7BzDq-wcw4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60321874/%E6%A9%9F%E5%A0%B4%E8%B2%A8%E6%A9%9F%E5%A2%AE%E6%B5%B7-%E7%96%91%E9%A3%9B%E6%A9%9F%E8%BF%B7%E7%B6%B2%E5%94%AE%E6%AE%98%E9%AA%B8%E7%A2%8E%E7%89%87-%E8%AD%A6-%E6%96%B0%E7%95%8C%E5%8D%97%E9%87%8D%E6%A1%88%E7%B5%84%E7%A9%8D%E6%A5%B5%E8%B7%9F%E9%80%B2",
-    "timestamp": "2026-02-12T11:26:50.052Z",
     "strategy": ".content-card__main"
   }
 ];
