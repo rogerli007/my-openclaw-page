@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-12T11:26:50.052Z
+// Last updated: 2026-02-12T11:52:27.143Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "谷婭溦怒轟「某大師」博流量！嫌疑人火速發文回應　網民竟唔認同",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260212/1098682985978269696356179.png/iqkURftUQ82jEgE_Umw8nH-sARD8afwWdj6DFHY-gxQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60321831/%E8%B0%B7%E5%A9%AD%E6%BA%A6%E6%80%92%E8%BD%9F-%E6%9F%90%E5%A4%A7%E5%B8%AB-%E5%8D%9A%E6%B5%81%E9%87%8F-%E5%AB%8C%E7%96%91%E4%BA%BA%E7%81%AB%E9%80%9F%E7%99%BC%E6%96%87%E5%9B%9E%E6%87%89-%E7%B6%B2%E6%B0%91%E7%AB%9F%E5%94%94%E8%AA%8D%E5%90%8C",
+    "timestamp": "2026-02-12T11:52:27.143Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "機場貨機墮海｜疑飛機迷網售殘骸碎片　警：新界南重案組積極跟進",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260211/1098288589373968384768312.jpeg/je_j809ZTFOcAiPd3lIRUnf7EL1jz6aqM_APgDPwD4A?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%9C%8B%E9%9A%9B%E5%88%86%E6%9E%90/60321456/jf-17%E6%88%B0%E6%A9%9F%E5%87%BA%E5%8F%A3%E6%BD%AE-%E4%B8%AD%E5%9C%8B%E8%97%89%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E5%90%88%E7%87%9F%E8%A6%8F%E5%BC%8F-%E6%92%BC%E5%8B%95%E4%B8%AD%E6%9D%B1%E4%BA%9E%E6%B4%B2%E5%B8%82%E5%A0%B4",
     "timestamp": "2026-02-12T00:45:31.103Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "港媒：特朗普將於4月初訪華　中美有望延長貿易休戰期",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20251031/1061014006526906368724058.jpeg/czvpox0IAaQqDDtZ7uGWaNa4dcrIvBlsXY6OhV2OjoU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60321583/%E6%B8%AF%E5%AA%92-%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%87%E6%96%BC4%E6%9C%88%E5%88%9D%E8%A8%AA%E8%8F%AF-%E4%B8%AD%E7%BE%8E%E6%9C%89%E6%9C%9B%E5%BB%B6%E9%95%B7%E8%B2%BF%E6%98%93%E4%BC%91%E6%88%B0%E6%9C%9F",
-    "timestamp": "2026-02-11T23:59:43.827Z",
     "strategy": ".content-card__main"
   }
 ];
