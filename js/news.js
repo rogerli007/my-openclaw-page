@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-12T01:18:48.346Z
+// Last updated: 2026-02-12T02:07:30.030Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "港鐵灣仔站事故｜陳恒鑌促調查有否依足程序：好彩非繁忙時間發生",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260211/1098169941842071552613785.jpeg/8-bNCSisT3fNYFVs8NNoU5hgf75EozBU-bpiRfm6YkU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60321596/%E6%B8%AF%E9%90%B5%E7%81%A3%E4%BB%94%E7%AB%99%E4%BA%8B%E6%95%85-%E9%99%B3%E6%81%92%E9%91%8C%E4%BF%83%E8%AA%BF%E6%9F%A5%E6%9C%89%E5%90%A6%E4%BE%9D%E8%B6%B3%E7%A8%8B%E5%BA%8F-%E5%A5%BD%E5%BD%A9%E9%9D%9E%E7%B9%81%E5%BF%99%E6%99%82%E9%96%93%E7%99%BC%E7%94%9F",
+    "timestamp": "2026-02-12T02:07:30.030Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "人定勝鼠！大角咀大廈滅鼠通告再熱傳　幽默口吻引讚好：好有梗！",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250621/1013067839143284736729801.jpeg/3t-trwcjDErLxBQ82QBvfK9RUsL_kw1cvnriuJt64rg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60321564/%E9%BB%8E%E6%99%BA%E8%8B%B1%E5%88%A4%E5%88%91-%E5%B4%94%E5%BB%BA%E6%98%A5%E7%99%BC%E8%A1%A8%E7%BD%B2%E5%90%8D%E6%96%87%E7%AB%A0-%E5%88%A4%E6%B1%BA%E7%B5%90%E6%9E%9C%E6%98%AF%E6%B3%95%E6%B2%BB%E5%8F%8A%E6%AD%A3%E7%BE%A9%E7%9A%84%E5%8B%9D%E5%88%A9",
     "timestamp": "2026-02-11T17:15:28.342Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "氫能試驗｜增3項目原則上獲批　包括氫燃料電池冷鏈貨車跨境運輸",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260212/1098412602947538944891240.jpeg/IUaLNaE-bLze_NYP8RJTNPvP8VTBCy3NHfILlh3yC5Y?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60321561/%E6%B0%AB%E8%83%BD%E8%A9%A6%E9%A9%97-%E5%A2%9E3%E9%A0%85%E7%9B%AE%E5%8E%9F%E5%89%87%E4%B8%8A%E7%8D%B2%E6%89%B9-%E5%8C%85%E6%8B%AC%E6%B0%AB%E7%87%83%E6%96%99%E9%9B%BB%E6%B1%A0%E5%86%B7%E9%8F%88%E8%B2%A8%E8%BB%8A%E8%B7%A8%E5%A2%83%E9%81%8B%E8%BC%B8",
-    "timestamp": "2026-02-11T16:43:45.912Z",
     "strategy": ".content-card__main"
   }
 ];
