@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-12T07:18:03.154Z
+// Last updated: 2026-02-12T07:43:36.393Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "浙江13歲體操冠軍墮樓重傷　母揭遭2教練體罰索款4萬　警立案調查",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260212/1098565045949829120573864.jpeg/MNLXcw6wpw8TramYhkyYrY4mrWVX3vLthwSm4YcEpuE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60321628/%E6%B5%99%E6%B1%9F13%E6%AD%B2%E9%AB%94%E6%93%8D%E5%86%A0%E8%BB%8D%E5%A2%AE%E6%A8%93%E9%87%8D%E5%82%B7-%E6%AF%8D%E6%8F%AD%E9%81%AD2%E6%95%99%E7%B7%B4%E9%AB%94%E7%BD%B0%E7%B4%A2%E6%AC%BE4%E8%90%AC-%E8%AD%A6%E7%AB%8B%E6%A1%88%E8%AA%BF%E6%9F%A5",
+    "timestamp": "2026-02-12T07:43:36.393Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "蔡章閣中學助理校長擬否認妨礙司法罪　同案女被告獲撤離港限制",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260205/1095959700358303744109256.jpeg/5XW9yfJAUXmFUwiNqVzQkVdOG2VkYB9GXoIWAV6CFgE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60321575/%E6%BE%A4%E9%80%A3%E6%96%AF%E5%9F%BA%E5%90%A6%E8%AA%8D%E5%B0%87%E5%AE%A3%E5%B8%83%E8%88%89%E8%A1%8C%E5%A4%A7%E9%81%B8-%E7%A8%B1%E9%A0%88%E5%85%88%E7%8D%B2%E5%BE%97%E5%AE%89%E5%85%A8%E4%BF%9D%E9%9A%9C%E5%92%8C%E9%81%94%E6%88%90%E5%81%9C%E7%81%AB%E5%8D%94%E8%AD%B0",
     "timestamp": "2026-02-11T20:56:07.036Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "澤連斯基否認將宣布舉行大選　稱須先獲得安全保障和達成停火協議",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260205/1095959700358303744109256.jpeg/5XW9yfJAUXmFUwiNqVzQkVdOG2VkYB9GXoIWAV6CFgE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60321575/%E6%BE%A4%E9%80%A3%E6%96%AF%E5%9F%BA%E5%90%A6%E8%AA%8D%E5%B0%87%E5%AE%A3%E5%B8%83%E8%88%89%E8%A1%8C%E5%A4%A7%E9%81%B8-%E7%A8%B1%E9%A0%88%E5%85%88%E7%8D%B2%E5%BE%97%E5%AE%89%E5%85%A8%E4%BF%9D%E9%9A%9C%E5%92%8C%E9%81%94%E6%88%90%E5%81%9C%E7%81%AB%E5%8D%94%E8%AD%B0",
-    "timestamp": "2026-02-11T20:33:18.544Z",
     "strategy": ".content-card__main"
   }
 ];
