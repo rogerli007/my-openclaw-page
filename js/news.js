@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-12T22:37:50.254Z
+// Last updated: 2026-02-12T23:01:42.489Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "TVB一線藝人「自救」接連外闖謀出路　力捧小生東莞榮升「老總」",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260212/1098709783344582656268734.jpeg/zblToN571cdi4bH6YzaHMkFopHDXo7vrpu4ISabuCEk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60321788/tvb%E4%B8%80%E7%B7%9A%E8%97%9D%E4%BA%BA%E6%8E%A5%E9%80%A3%E5%A4%96%E9%97%96-%E8%87%AA%E6%95%91-%E8%AC%80%E5%87%BA%E8%B7%AF-%E5%8A%9B%E6%8D%A7%E5%B0%8F%E7%94%9F%E6%9D%B1%E8%8E%9E%E6%A6%AE%E5%8D%87-%E8%80%81%E7%B8%BD",
+    "timestamp": "2026-02-12T23:01:42.489Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "TVB一線藝人「自救」接連外闖謀出路　力捧小生東莞榮升「老總」",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260212/1098734382409060352013648.jpeg/rm6cvB1yzplN5fyQ2G9-t1DQShAjuUyP-oJb2_qCW9s",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60321903/%E6%9C%89%E7%89%87-%E9%9B%99%E5%B1%A4%E4%B9%9D%E5%B7%B4%E7%96%91%E8%AA%A4%E9%97%96%E5%9C%93%E6%96%B9%E5%81%9C%E8%BB%8A%E5%A0%B4%E5%85%A5%E5%8F%A3-%E8%BB%8A%E9%A0%82%E7%9B%B4%E5%89%B7%E5%A4%A9%E8%8A%B1%E5%8D%A1%E4%BD%8F%E9%80%B2%E9%80%80%E5%85%A9%E9%9B%A3",
     "timestamp": "2026-02-12T14:16:21.586Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "中國海軍南海開展對岸打擊、對海作戰等實戰化訓練考核",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260212/1098665384740917248647902.jpeg/kgdyZngf-dKfx1YDTITIPmJ-PM-Grw_nrVNdvq1TXb4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60321823/%E4%B8%AD%E5%9C%8B%E6%B5%B7%E8%BB%8D%E5%8D%97%E6%B5%B7%E9%96%8B%E5%B1%95%E5%B0%8D%E5%B2%B8%E6%89%93%E6%93%8A-%E5%B0%8D%E6%B5%B7%E4%BD%9C%E6%88%B0%E7%AD%89%E5%AF%A6%E6%88%B0%E5%8C%96%E8%A8%93%E7%B7%B4%E8%80%83%E6%A0%B8",
-    "timestamp": "2026-02-12T13:40:44.921Z",
     "strategy": ".content-card__main"
   }
 ];
