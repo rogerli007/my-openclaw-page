@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-12T09:54:10.724Z
+// Last updated: 2026-02-12T10:27:09.905Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "生蠔食物中毒｜袁國勇：蠔過濾進食將諾如病毒濃縮99倍　籲勿生食",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260210/1098026061717049344934286.jpeg/Rmtz31YR0Rm1pwz-U4dEn1siBK7wgUt6gsIMEoLCDBI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60321842/%E7%94%9F%E8%A0%94%E9%A3%9F%E7%89%A9%E4%B8%AD%E6%AF%92-%E8%A2%81%E5%9C%8B%E5%8B%87-%E8%A0%94%E9%81%8E%E6%BF%BE%E9%80%B2%E9%A3%9F%E5%B0%87%E8%AB%BE%E5%A6%82%E7%97%85%E6%AF%92%E6%BF%83%E7%B8%AE99%E5%80%8D-%E7%B1%B2%E5%8B%BF%E7%94%9F%E9%A3%9F",
+    "timestamp": "2026-02-12T10:27:09.905Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "65歲配樂大師范宗沛傳因心肌梗塞辭世　曾獲金馬、金曲、金鐘三獎",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260204/1095544590976421888582061.png/bI-OPV8yBeFPyMWm71a1cx207xWL9vvY_viNDf74jQ0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E8%A9%B1%E9%A1%8C/60319014/%E7%A8%B1%E9%81%AD%E5%A6%B9%E5%A4%AB%E6%80%A7%E4%BE%B5-%E5%A5%B9%E5%93%AD%E8%A8%B4-%E8%85%B9%E9%83%A8%E6%B2%BE%E6%BB%BFdna-2%E6%AC%A1%E5%AF%A9%E7%90%86%E8%A2%AB%E5%91%8A1%E5%8E%9F%E5%9B%A0%E7%B6%AD%E6%8C%81%E7%84%A1%E7%BD%AA",
     "timestamp": "2026-02-11T23:18:33.150Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "熱水爐悲劇｜兒洗澡遇故障漏電觸電　父急救子衝入浴室變雙屍命案",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260210/1097968676470001664752906.png/N4WZsUHgZ86HqWNjrai5ohAgv4lVAQd6UZadNVGWnTU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E8%A9%B1%E9%A1%8C/60320968/%E7%86%B1%E6%B0%B4%E7%88%90%E6%82%B2%E5%8A%87-%E5%85%92%E6%B4%97%E6%BE%A1%E9%81%87%E6%95%85%E9%9A%9C%E6%BC%8F%E9%9B%BB%E8%A7%B8%E9%9B%BB-%E7%88%B6%E6%80%A5%E6%95%91%E5%AD%90%E8%A1%9D%E5%85%A5%E6%B5%B4%E5%AE%A4%E8%AE%8A%E9%9B%99%E5%B1%8D%E5%91%BD%E6%A1%88",
-    "timestamp": "2026-02-11T22:54:13.397Z",
     "strategy": ".content-card__main"
   }
 ];
