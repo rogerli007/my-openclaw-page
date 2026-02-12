@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-12T06:18:37.628Z
+// Last updated: 2026-02-12T06:47:00.088Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "米蘭冬奧｜谷愛凌摘銀、劉美賢奪金　學者：背後是中美價值觀相爭",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260212/1098605242506809344056219.jpeg/N_QhdeaxdiYuv4-rao0VdNq2hWh7qAedUfD0JlHw9CY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%9C%8B%E9%9A%9B%E5%88%86%E6%9E%90/60321673/%E7%B1%B3%E8%98%AD%E5%86%AC%E5%A5%A7-%E8%B0%B7%E6%84%9B%E5%87%8C%E6%91%98%E9%8A%80alysa-liu%E5%A5%AA%E9%87%91-%E8%83%8C%E5%BE%8C%E6%98%AF%E4%B8%AD%E7%BE%8E%E5%83%B9%E5%80%BC%E8%A7%80%E7%9B%B8%E7%88%AD",
+    "timestamp": "2026-02-12T06:47:00.088Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "Donki再現鼠蹤！壽司凍櫃驚見老鼠亂竄　網民籲報食環：唔敢食了",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260212/1098461839148191744689417.jpeg/UNsWwTdEtOoSpojD2uSmMAiTjlUrWpMsvZLDxb2Sw8U?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60321570/%E4%BB%A5%E8%89%B2%E5%88%97%E5%8A%A0%E5%85%A5%E5%92%8C%E5%B9%B3%E5%A7%94%E5%93%A1%E6%9C%83-%E7%89%B9%E6%9C%97%E6%99%AE%E6%99%A4%E5%85%A7%E5%A1%94%E5%B0%BC%E4%BA%9E%E8%83%A1-%E5%82%BE%E5%90%91%E8%88%87%E4%BC%8A%E6%9C%97%E7%B9%BC%E7%BA%8C%E8%AB%87%E5%88%A4",
     "timestamp": "2026-02-11T20:05:19.018Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "奶粉回收｜法國調查第3宗嬰兒死亡個案　曾食用需回收奶粉",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/2153114/org/978b4111a2366130911e0318113698d6.jpg/nzJWUkNQZ-iNh3mWT0Ky-nJP8Ba5GAjaEXi4QxF4uEM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60321569/%E5%A5%B6%E7%B2%89%E5%9B%9E%E6%94%B6-%E6%B3%95%E5%9C%8B%E8%AA%BF%E6%9F%A5%E7%AC%AC3%E5%AE%97%E5%AC%B0%E5%85%92%E6%AD%BB%E4%BA%A1%E5%80%8B%E6%A1%88-%E6%9B%BE%E9%A3%9F%E7%94%A8%E9%9C%80%E5%9B%9E%E6%94%B6%E5%A5%B6%E7%B2%89",
-    "timestamp": "2026-02-11T19:43:13.169Z",
     "strategy": ".content-card__main"
   }
 ];
