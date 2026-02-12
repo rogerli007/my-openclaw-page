@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-12T03:25:18.162Z
+// Last updated: 2026-02-12T04:24:54.091Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "法國七旬男半世紀全球侵犯89未成年人　警籲各地潛在受害者發聲",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260212/1098587730721378304126589.png/DK5fH3hlA6DyRadcFCt-vIMHQFz15WGhsnQUs7J0FLM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60321650/%E6%B3%95%E5%9C%8B%E4%B8%83%E6%97%AC%E7%94%B7%E5%8D%8A%E4%B8%96%E7%B4%80%E5%85%A8%E7%90%83%E4%BE%B5%E7%8A%AF89%E6%9C%AA%E6%88%90%E5%B9%B4%E4%BA%BA-%E8%AD%A6%E7%B1%B2%E5%90%84%E5%9C%B0%E6%BD%9B%E5%9C%A8%E5%8F%97%E5%AE%B3%E8%80%85%E7%99%BC%E8%81%B2",
+    "timestamp": "2026-02-12T04:24:54.091Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美賓州28歲華女遭槍殺　曾報警稱被性侵跟蹤　前男友自首辯｢走火｣",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260212/1098428456447774720759486.jpeg/OQm_uYi11JkNw_Wi2u4gHqeinNxM4lJHPeGAjj3hgI4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60321565/%E8%8D%B7%E8%98%AD%E6%B3%95%E9%99%A2%E4%B8%8B%E4%BB%A4%E6%9F%A5%E5%AE%89%E4%B8%96%E5%8D%8A%E5%B0%8E%E9%AB%94-%E8%81%9E%E6%B3%B0%E7%A7%91%E6%8A%80-%E5%BE%AA%E4%B8%80%E5%88%87%E5%90%88%E6%B3%95%E9%80%94%E5%BE%91%E6%81%A2%E5%BE%A9%E6%8E%A7%E5%88%B6%E6%AC%8A",
     "timestamp": "2026-02-11T18:12:35.408Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "黎智英判刑｜崔建春發表署名文章：判決結果是法治及正義的勝利",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250621/1013067839143284736729801.jpeg/3t-trwcjDErLxBQ82QBvfK9RUsL_kw1cvnriuJt64rg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60321564/%E9%BB%8E%E6%99%BA%E8%8B%B1%E5%88%A4%E5%88%91-%E5%B4%94%E5%BB%BA%E6%98%A5%E7%99%BC%E8%A1%A8%E7%BD%B2%E5%90%8D%E6%96%87%E7%AB%A0-%E5%88%A4%E6%B1%BA%E7%B5%90%E6%9E%9C%E6%98%AF%E6%B3%95%E6%B2%BB%E5%8F%8A%E6%AD%A3%E7%BE%A9%E7%9A%84%E5%8B%9D%E5%88%A9",
-    "timestamp": "2026-02-11T17:42:31.926Z",
     "strategy": ".content-card__main"
   }
 ];
