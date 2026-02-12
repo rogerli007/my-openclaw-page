@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-12T12:27:19.277Z
+// Last updated: 2026-02-12T12:55:23.821Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "稱英國正被移民「殖民」　曼聯班主拉傑夫致歉",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260212/1098720041341292544931062.jpeg/ODG267Id9f3LkUHmUH1ixvyCUWtj0KFPHzPQdB8z0HQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60321893/%E7%A8%B1%E8%8B%B1%E5%9C%8B%E6%AD%A3%E8%A2%AB%E7%A7%BB%E6%B0%91-%E6%AE%96%E6%B0%91-%E6%9B%BC%E8%81%AF%E7%8F%AD%E4%B8%BB%E6%8B%89%E5%82%91%E5%A4%AB%E8%87%B4%E6%AD%89",
+    "timestamp": "2026-02-12T12:55:23.821Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "馬蹄糕食譜｜黃淑儀馬蹄糕做法材料比例必備3種粉　加1物清甜解毒",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260211/1098169941842071552613785.jpeg/8-bNCSisT3fNYFVs8NNoU5hgf75EozBU-bpiRfm6YkU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60321596/%E6%B8%AF%E9%90%B5%E7%81%A3%E4%BB%94%E7%AB%99%E4%BA%8B%E6%95%85-%E9%99%B3%E6%81%92%E9%91%8C%E4%BF%83%E8%AA%BF%E6%9F%A5%E6%9C%89%E5%90%A6%E4%BE%9D%E8%B6%B3%E7%A8%8B%E5%BA%8F-%E5%A5%BD%E5%BD%A9%E9%9D%9E%E7%B9%81%E5%BF%99%E6%99%82%E9%96%93%E7%99%BC%E7%94%9F",
     "timestamp": "2026-02-12T02:07:30.030Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "人定勝鼠！大角咀大廈滅鼠通告再熱傳　幽默口吻引讚好：好有梗！",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260210/1097932915746017280965238.png/n8zQu6T8llJUZwSPcbiRa6KmzcB0-BvY9PwPS_T8D0s?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60320955/%E4%BA%BA%E5%AE%9A%E5%8B%9D%E9%BC%A0-%E5%A4%A7%E8%A7%92%E5%92%80%E5%A4%A7%E5%BB%88%E6%BB%85%E9%BC%A0%E9%80%9A%E5%91%8A%E5%86%8D%E7%86%B1%E5%82%B3-%E5%B9%BD%E9%BB%98%E5%8F%A3%E5%90%BB%E5%BC%95%E8%AE%9A%E5%A5%BD-%E5%A5%BD%E6%9C%89%E6%A2%97",
-    "timestamp": "2026-02-12T01:18:48.346Z",
     "strategy": ".content-card__main"
   }
 ];
