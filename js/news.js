@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-12T11:52:27.143Z
+// Last updated: 2026-02-12T12:27:19.277Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "馬蹄糕食譜｜黃淑儀馬蹄糕做法材料比例必備3種粉　加1物清甜解毒",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250108/953703077553115136407856.jpeg/iQ1hjy36fdyqvp-V-vFye42DdGlxMVBNlKdYB5SnWAc",
+    "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/583893/%E9%A6%AC%E8%B9%84%E7%B3%95%E9%A3%9F%E8%AD%9C-%E9%BB%83%E6%B7%91%E5%84%80%E9%A6%AC%E8%B9%84%E7%B3%95%E5%81%9A%E6%B3%95%E6%9D%90%E6%96%99%E6%AF%94%E4%BE%8B%E5%BF%85%E5%82%993%E7%A8%AE%E7%B2%89-%E5%8A%A01%E7%89%A9%E6%B8%85%E7%94%9C%E8%A7%A3%E6%AF%92",
+    "timestamp": "2026-02-12T12:27:19.277Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "谷婭溦怒轟「某大師」博流量！嫌疑人火速發文回應　網民竟唔認同",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260210/1097932915746017280965238.png/n8zQu6T8llJUZwSPcbiRa6KmzcB0-BvY9PwPS_T8D0s?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60320955/%E4%BA%BA%E5%AE%9A%E5%8B%9D%E9%BC%A0-%E5%A4%A7%E8%A7%92%E5%92%80%E5%A4%A7%E5%BB%88%E6%BB%85%E9%BC%A0%E9%80%9A%E5%91%8A%E5%86%8D%E7%86%B1%E5%82%B3-%E5%B9%BD%E9%BB%98%E5%8F%A3%E5%90%BB%E5%BC%95%E8%AE%9A%E5%A5%BD-%E5%A5%BD%E6%9C%89%E6%A2%97",
     "timestamp": "2026-02-12T01:18:48.346Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "JF-17戰機出口潮：中國藉巴基斯坦合營規式　撼動中東亞洲市場?",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260211/1098288589373968384768312.jpeg/je_j809ZTFOcAiPd3lIRUnf7EL1jz6aqM_APgDPwD4A?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%9C%8B%E9%9A%9B%E5%88%86%E6%9E%90/60321456/jf-17%E6%88%B0%E6%A9%9F%E5%87%BA%E5%8F%A3%E6%BD%AE-%E4%B8%AD%E5%9C%8B%E8%97%89%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E5%90%88%E7%87%9F%E8%A6%8F%E5%BC%8F-%E6%92%BC%E5%8B%95%E4%B8%AD%E6%9D%B1%E4%BA%9E%E6%B4%B2%E5%B8%82%E5%A0%B4",
-    "timestamp": "2026-02-12T00:45:31.103Z",
     "strategy": ".content-card__main"
   }
 ];
