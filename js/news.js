@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-12T02:07:30.030Z
+// Last updated: 2026-02-12T03:25:18.162Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美賓州28歲華女遭槍殺　曾報警稱被性侵跟蹤　前男友自首辯｢走火｣",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260212/1098574408953368576108342.png/-7pqHm6SS3ZOpocaFBNmkDWFidwo6kNGNtL46jbS-Oo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60321637/%E7%BE%8E%E8%B3%93%E5%B7%9E28%E6%AD%B2%E8%8F%AF%E5%A5%B3%E9%81%AD%E6%A7%8D%E6%AE%BA-%E6%9B%BE%E5%A0%B1%E8%AD%A6%E7%A8%B1%E8%A2%AB%E6%80%A7%E4%BE%B5%E8%B7%9F%E8%B9%A4-%E5%89%8D%E7%94%B7%E5%8F%8B%E8%87%AA%E9%A6%96%E8%BE%AF-%E8%B5%B0%E7%81%AB",
+    "timestamp": "2026-02-12T03:25:18.162Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "港鐵灣仔站事故｜陳恒鑌促調查有否依足程序：好彩非繁忙時間發生",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250621/1013067839143284736729801.jpeg/3t-trwcjDErLxBQ82QBvfK9RUsL_kw1cvnriuJt64rg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60321564/%E9%BB%8E%E6%99%BA%E8%8B%B1%E5%88%A4%E5%88%91-%E5%B4%94%E5%BB%BA%E6%98%A5%E7%99%BC%E8%A1%A8%E7%BD%B2%E5%90%8D%E6%96%87%E7%AB%A0-%E5%88%A4%E6%B1%BA%E7%B5%90%E6%9E%9C%E6%98%AF%E6%B3%95%E6%B2%BB%E5%8F%8A%E6%AD%A3%E7%BE%A9%E7%9A%84%E5%8B%9D%E5%88%A9",
     "timestamp": "2026-02-11T17:42:31.926Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "黎智英判刑｜崔建春發表署名文章：判決結果是法治及正義的勝利",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250621/1013067839143284736729801.jpeg/3t-trwcjDErLxBQ82QBvfK9RUsL_kw1cvnriuJt64rg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60321564/%E9%BB%8E%E6%99%BA%E8%8B%B1%E5%88%A4%E5%88%91-%E5%B4%94%E5%BB%BA%E6%98%A5%E7%99%BC%E8%A1%A8%E7%BD%B2%E5%90%8D%E6%96%87%E7%AB%A0-%E5%88%A4%E6%B1%BA%E7%B5%90%E6%9E%9C%E6%98%AF%E6%B3%95%E6%B2%BB%E5%8F%8A%E6%AD%A3%E7%BE%A9%E7%9A%84%E5%8B%9D%E5%88%A9",
-    "timestamp": "2026-02-11T17:15:28.342Z",
     "strategy": ".content-card__main"
   }
 ];
