@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-12T10:27:09.905Z
+// Last updated: 2026-02-12T10:53:42.936Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "二狗脫口秀2026澳門棟篤笑｜門票攻略＋購票連結＋座位表",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260212/1098681845794476032620543.jpeg/Gh_zETrbWhbd-C_Kdg7t4A_eMcdQPkzCqhdYdaoXWHU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60321858/%E4%BA%8C%E7%8B%97%E8%84%AB%E5%8F%A3%E7%A7%802026%E6%BE%B3%E9%96%80%E6%A3%9F%E7%AF%A4%E7%AC%91-%E9%96%80%E7%A5%A8%E6%94%BB%E7%95%A5-%E8%B3%BC%E7%A5%A8%E9%80%A3%E7%B5%90-%E5%BA%A7%E4%BD%8D%E8%A1%A8",
+    "timestamp": "2026-02-12T10:53:42.936Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "生蠔食物中毒｜袁國勇：蠔過濾進食將諾如病毒濃縮99倍　籲勿生食",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20251031/1061014006526906368724058.jpeg/czvpox0IAaQqDDtZ7uGWaNa4dcrIvBlsXY6OhV2OjoU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60321583/%E6%B8%AF%E5%AA%92-%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%87%E6%96%BC4%E6%9C%88%E5%88%9D%E8%A8%AA%E8%8F%AF-%E4%B8%AD%E7%BE%8E%E6%9C%89%E6%9C%9B%E5%BB%B6%E9%95%B7%E8%B2%BF%E6%98%93%E4%BC%91%E6%88%B0%E6%9C%9F",
     "timestamp": "2026-02-11T23:36:20.978Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "稱遭妹夫性侵！她哭訴︰腹部沾滿DNA　 2次審理被告1原因維持無罪",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260204/1095544590976421888582061.png/bI-OPV8yBeFPyMWm71a1cx207xWL9vvY_viNDf74jQ0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E8%A9%B1%E9%A1%8C/60319014/%E7%A8%B1%E9%81%AD%E5%A6%B9%E5%A4%AB%E6%80%A7%E4%BE%B5-%E5%A5%B9%E5%93%AD%E8%A8%B4-%E8%85%B9%E9%83%A8%E6%B2%BE%E6%BB%BFdna-2%E6%AC%A1%E5%AF%A9%E7%90%86%E8%A2%AB%E5%91%8A1%E5%8E%9F%E5%9B%A0%E7%B6%AD%E6%8C%81%E7%84%A1%E7%BD%AA",
-    "timestamp": "2026-02-11T23:18:33.150Z",
     "strategy": ".content-card__main"
   }
 ];
