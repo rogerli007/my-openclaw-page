@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-12T22:02:20.549Z
+// Last updated: 2026-02-12T22:19:23.408Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "英超｜阿仙奴作客遭賓福特逼和1：1　續居榜首領先曼城4分",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260213/1098858543253032960360574.jpeg/ZwxyIxuhNyoKHXJjWuXQTzbs7dev56GkTLOOfEyzjnw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60321945/%E8%8B%B1%E8%B6%85-%E9%98%BF%E4%BB%99%E5%A5%B4%E4%BD%9C%E5%AE%A2%E9%81%AD%E8%B3%93%E7%A6%8F%E7%89%B9%E9%80%BC%E5%92%8C1-1-%E7%BA%8C%E5%B1%85%E6%A6%9C%E9%A6%96%E9%A0%98%E5%85%88%E6%9B%BC%E5%9F%8E4%E5%88%86",
+    "timestamp": "2026-02-12T22:19:23.408Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "天氣｜今日大致天晴最高23度　情人節至年廿九溫暖及較潮濕",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260212/1098720041341292544931062.jpeg/ODG267Id9f3LkUHmUH1ixvyCUWtj0KFPHzPQdB8z0HQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60321893/%E7%A8%B1%E8%8B%B1%E5%9C%8B%E6%AD%A3%E8%A2%AB%E7%A7%BB%E6%B0%91-%E6%AE%96%E6%B0%91-%E6%9B%BC%E8%81%AF%E7%8F%AD%E4%B8%BB%E6%8B%89%E5%82%91%E5%A4%AB%E8%87%B4%E6%AD%89",
     "timestamp": "2026-02-12T12:55:23.821Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "馬蹄糕食譜｜黃淑儀馬蹄糕做法材料比例必備3種粉　加1物清甜解毒",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250108/953703077553115136407856.jpeg/iQ1hjy36fdyqvp-V-vFye42DdGlxMVBNlKdYB5SnWAc",
-    "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/583893/%E9%A6%AC%E8%B9%84%E7%B3%95%E9%A3%9F%E8%AD%9C-%E9%BB%83%E6%B7%91%E5%84%80%E9%A6%AC%E8%B9%84%E7%B3%95%E5%81%9A%E6%B3%95%E6%9D%90%E6%96%99%E6%AF%94%E4%BE%8B%E5%BF%85%E5%82%993%E7%A8%AE%E7%B2%89-%E5%8A%A01%E7%89%A9%E6%B8%85%E7%94%9C%E8%A7%A3%E6%AF%92",
-    "timestamp": "2026-02-12T12:27:19.277Z",
     "strategy": ".content-card__main"
   }
 ];
