@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-12T05:14:45.719Z
+// Last updated: 2026-02-12T05:49:58.478Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "情人節遇周六難「曬命」　花檔正日送辦公室單減8成　提早周五送",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260212/1098604661193052160475389.jpeg/mMZY6WxUvnadiQuc4HdAg8OhV0N7sQzEmdWU0r_VlNI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60321701/%E6%83%85%E4%BA%BA%E7%AF%80%E9%81%87%E5%91%A8%E5%85%AD%E9%9B%A3-%E6%9B%AC%E5%91%BD-%E8%8A%B1%E6%AA%94%E6%AD%A3%E6%97%A5%E9%80%81%E8%BE%A6%E5%85%AC%E5%AE%A4%E5%96%AE%E6%B8%9B8%E6%88%90-%E6%8F%90%E6%97%A9%E5%91%A8%E4%BA%94%E9%80%81",
+    "timestamp": "2026-02-12T05:49:58.478Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "黃大仙新年活動｜頭炷香/接財神/拜月老　1類人免費拜太歲+送金幣",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/2153114/org/978b4111a2366130911e0318113698d6.jpg/nzJWUkNQZ-iNh3mWT0Ky-nJP8Ba5GAjaEXi4QxF4uEM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60321569/%E5%A5%B6%E7%B2%89%E5%9B%9E%E6%94%B6-%E6%B3%95%E5%9C%8B%E8%AA%BF%E6%9F%A5%E7%AC%AC3%E5%AE%97%E5%AC%B0%E5%85%92%E6%AD%BB%E4%BA%A1%E5%80%8B%E6%A1%88-%E6%9B%BE%E9%A3%9F%E7%94%A8%E9%9C%80%E5%9B%9E%E6%94%B6%E5%A5%B6%E7%B2%89",
     "timestamp": "2026-02-11T19:15:39.357Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "荷蘭法院下令查安世半導體　聞泰科技：循一切合法途徑恢復控制權",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260212/1098428456447774720759486.jpeg/OQm_uYi11JkNw_Wi2u4gHqeinNxM4lJHPeGAjj3hgI4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60321565/%E8%8D%B7%E8%98%AD%E6%B3%95%E9%99%A2%E4%B8%8B%E4%BB%A4%E6%9F%A5%E5%AE%89%E4%B8%96%E5%8D%8A%E5%B0%8E%E9%AB%94-%E8%81%9E%E6%B3%B0%E7%A7%91%E6%8A%80-%E5%BE%AA%E4%B8%80%E5%88%87%E5%90%88%E6%B3%95%E9%80%94%E5%BE%91%E6%81%A2%E5%BE%A9%E6%8E%A7%E5%88%B6%E6%AC%8A",
-    "timestamp": "2026-02-11T18:41:53.210Z",
     "strategy": ".content-card__main"
   }
 ];
