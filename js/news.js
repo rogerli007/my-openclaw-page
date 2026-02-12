@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-12T12:55:23.821Z
+// Last updated: 2026-02-12T13:40:44.921Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "中國海軍南海開展對岸打擊、對海作戰等實戰化訓練考核",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260212/1098665384740917248647902.jpeg/kgdyZngf-dKfx1YDTITIPmJ-PM-Grw_nrVNdvq1TXb4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60321823/%E4%B8%AD%E5%9C%8B%E6%B5%B7%E8%BB%8D%E5%8D%97%E6%B5%B7%E9%96%8B%E5%B1%95%E5%B0%8D%E5%B2%B8%E6%89%93%E6%93%8A-%E5%B0%8D%E6%B5%B7%E4%BD%9C%E6%88%B0%E7%AD%89%E5%AF%A6%E6%88%B0%E5%8C%96%E8%A8%93%E7%B7%B4%E8%80%83%E6%A0%B8",
+    "timestamp": "2026-02-12T13:40:44.921Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "稱英國正被移民「殖民」　曼聯班主拉傑夫致歉",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260212/1098574408953368576108342.png/-7pqHm6SS3ZOpocaFBNmkDWFidwo6kNGNtL46jbS-Oo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60321637/%E7%BE%8E%E8%B3%93%E5%B7%9E28%E6%AD%B2%E8%8F%AF%E5%A5%B3%E9%81%AD%E6%A7%8D%E6%AE%BA-%E6%9B%BE%E5%A0%B1%E8%AD%A6%E7%A8%B1%E8%A2%AB%E6%80%A7%E4%BE%B5%E8%B7%9F%E8%B9%A4-%E5%89%8D%E7%94%B7%E5%8F%8B%E8%87%AA%E9%A6%96%E8%BE%AF-%E8%B5%B0%E7%81%AB",
     "timestamp": "2026-02-12T03:25:18.162Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "港鐵灣仔站事故｜陳恒鑌促調查有否依足程序：好彩非繁忙時間發生",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260211/1098169941842071552613785.jpeg/8-bNCSisT3fNYFVs8NNoU5hgf75EozBU-bpiRfm6YkU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60321596/%E6%B8%AF%E9%90%B5%E7%81%A3%E4%BB%94%E7%AB%99%E4%BA%8B%E6%95%85-%E9%99%B3%E6%81%92%E9%91%8C%E4%BF%83%E8%AA%BF%E6%9F%A5%E6%9C%89%E5%90%A6%E4%BE%9D%E8%B6%B3%E7%A8%8B%E5%BA%8F-%E5%A5%BD%E5%BD%A9%E9%9D%9E%E7%B9%81%E5%BF%99%E6%99%82%E9%96%93%E7%99%BC%E7%94%9F",
-    "timestamp": "2026-02-12T02:07:30.030Z",
     "strategy": ".content-card__main"
   }
 ];
