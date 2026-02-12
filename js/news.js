@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-12T20:22:29.466Z
+// Last updated: 2026-02-12T20:51:03.222Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "英媒：安德魯曾向父母及查理斯三世借1.3億解決性侵案　分毫未還",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260213/1098830041690673152605923.jpeg/y1hFUyE-d5DG4vbKVlPxPNvUzgiXYGSXu8ehybvHock?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60321939/%E8%8B%B1%E5%AA%92-%E5%AE%89%E5%BE%B7%E9%AD%AF%E6%9B%BE%E5%90%91%E7%88%B6%E6%AF%8D%E5%8F%8A%E6%9F%A5%E7%90%86%E6%96%AF%E4%B8%89%E4%B8%96%E5%80%9F1-3%E5%84%84%E8%A7%A3%E6%B1%BA%E6%80%A7%E4%BE%B5%E6%A1%88-%E5%88%86%E6%AF%AB%E6%9C%AA%E9%82%84",
+    "timestamp": "2026-02-12T20:51:03.222Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "宏福苑大火｜涉煽動被捕中大生被踢出校　曾就火災提訴求及搞聯署",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260212/1098681845794476032620543.jpeg/Gh_zETrbWhbd-C_Kdg7t4A_eMcdQPkzCqhdYdaoXWHU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60321858/%E4%BA%8C%E7%8B%97%E8%84%AB%E5%8F%A3%E7%A7%802026%E6%BE%B3%E9%96%80%E6%A3%9F%E7%AF%A4%E7%AC%91-%E9%96%80%E7%A5%A8%E6%94%BB%E7%95%A5-%E8%B3%BC%E7%A5%A8%E9%80%A3%E7%B5%90-%E5%BA%A7%E4%BD%8D%E8%A1%A8",
     "timestamp": "2026-02-12T10:53:42.936Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "生蠔食物中毒｜袁國勇：蠔過濾進食將諾如病毒濃縮99倍　籲勿生食",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260210/1098026061717049344934286.jpeg/Rmtz31YR0Rm1pwz-U4dEn1siBK7wgUt6gsIMEoLCDBI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60321842/%E7%94%9F%E8%A0%94%E9%A3%9F%E7%89%A9%E4%B8%AD%E6%AF%92-%E8%A2%81%E5%9C%8B%E5%8B%87-%E8%A0%94%E9%81%8E%E6%BF%BE%E9%80%B2%E9%A3%9F%E5%B0%87%E8%AB%BE%E5%A6%82%E7%97%85%E6%AF%92%E6%BF%83%E7%B8%AE99%E5%80%8D-%E7%B1%B2%E5%8B%BF%E7%94%9F%E9%A3%9F",
-    "timestamp": "2026-02-12T10:27:09.905Z",
     "strategy": ".content-card__main"
   }
 ];
