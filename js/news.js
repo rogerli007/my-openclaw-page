@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-12T23:01:42.489Z
+// Last updated: 2026-02-12T23:17:52.085Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "小米Xiaomi智能變頻抽濕機一週實測｜快速抽濕＋智慧控濕極寧靜",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260210/1098019077999300608790358.jpeg/ovci_4X-wtN9g-GUs41BUXvLYLtk_ctAjhVI8I4VSPA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60320827/%E5%B0%8F%E7%B1%B3xiaomi%E6%99%BA%E8%83%BD%E8%AE%8A%E9%A0%BB%E6%8A%BD%E6%BF%95%E6%A9%9F%E4%B8%80%E9%80%B1%E5%AF%A6%E6%B8%AC-%E5%BF%AB%E9%80%9F%E6%8A%BD%E6%BF%95-%E6%99%BA%E6%85%A7%E6%8E%A7%E6%BF%95%E6%A5%B5%E5%AF%A7%E9%9D%9C",
+    "timestamp": "2026-02-12T23:17:52.085Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "TVB一線藝人「自救」接連外闖謀出路　力捧小生東莞榮升「老總」",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260211/1098318927907262464629134.png/V2hwn9CoIeSJ48_7ZNA4pv_vTWc24kKeh0AQPodAED4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E5%A8%9B%E6%A8%82/60321492/64%E6%AD%B2%E6%97%A5%E6%9C%AC%E4%B8%96%E7%B4%80%E8%B3%A4%E7%94%B7%E6%AD%BB%E6%80%A7%E4%B8%8D%E6%94%B9-%E6%B6%89%E9%A4%90%E5%BB%B3%E5%BC%B7%E5%90%BB%E9%9D%9E%E7%A6%AE%E5%85%A9%E5%A5%B3-19%E5%B9%B4%E7%AC%AC4%E5%BA%A6%E8%A2%AB%E6%8D%95",
     "timestamp": "2026-02-12T14:40:49.790Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "有片｜雙層九巴疑誤闖圓方停車場入口　車頂直剷天花卡住進退兩難",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260212/1098734382409060352013648.jpeg/rm6cvB1yzplN5fyQ2G9-t1DQShAjuUyP-oJb2_qCW9s",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60321903/%E6%9C%89%E7%89%87-%E9%9B%99%E5%B1%A4%E4%B9%9D%E5%B7%B4%E7%96%91%E8%AA%A4%E9%97%96%E5%9C%93%E6%96%B9%E5%81%9C%E8%BB%8A%E5%A0%B4%E5%85%A5%E5%8F%A3-%E8%BB%8A%E9%A0%82%E7%9B%B4%E5%89%B7%E5%A4%A9%E8%8A%B1%E5%8D%A1%E4%BD%8F%E9%80%B2%E9%80%80%E5%85%A9%E9%9B%A3",
-    "timestamp": "2026-02-12T14:16:21.586Z",
     "strategy": ".content-card__main"
   }
 ];
