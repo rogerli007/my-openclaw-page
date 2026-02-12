@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-12T16:42:10.077Z
+// Last updated: 2026-02-12T17:14:23.552Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "特朗普邊境沙皇：將結束在明尼蘇達打擊非法移民執法行動",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260213/1098780245252640768047361.jpeg/2rhz42oc1eVLNdVhtEAE_U83o2-7PyCbknSAQZJ0gEE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60321931/%E7%89%B9%E6%9C%97%E6%99%AE%E9%82%8A%E5%A2%83%E6%B2%99%E7%9A%87-%E5%B0%87%E7%B5%90%E6%9D%9F%E5%9C%A8%E6%98%8E%E5%B0%BC%E8%98%87%E9%81%94%E6%89%93%E6%93%8A%E9%9D%9E%E6%B3%95%E7%A7%BB%E6%B0%91%E5%9F%B7%E6%B3%95%E8%A1%8C%E5%8B%95",
+    "timestamp": "2026-02-12T17:14:23.552Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "Sony WF-1000XM6藍牙耳機$2599開售：QN3e晶片降噪進化值得升級嗎",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260212/1098565045949829120573864.jpeg/MNLXcw6wpw8TramYhkyYrY4mrWVX3vLthwSm4YcEpuE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60321628/%E6%B5%99%E6%B1%9F13%E6%AD%B2%E9%AB%94%E6%93%8D%E5%86%A0%E8%BB%8D%E5%A2%AE%E6%A8%93%E9%87%8D%E5%82%B7-%E6%AF%8D%E6%8F%AD%E9%81%AD2%E6%95%99%E7%B7%B4%E9%AB%94%E7%BD%B0%E7%B4%A2%E6%AC%BE4%E8%90%AC-%E8%AD%A6%E7%AB%8B%E6%A1%88%E8%AA%BF%E6%9F%A5",
     "timestamp": "2026-02-12T07:43:36.393Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "蔡章閣中學助理校長擬否認妨礙司法罪　同案女被告獲撤離港限制",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260212/1098634429376761856687413.jpeg/6QYSbqrmZhE4C5V7m-BADKlMPgOzGqp_maXfN7yl3zc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60321752/%E8%94%A1%E7%AB%A0%E9%96%A3%E4%B8%AD%E5%AD%B8%E5%8A%A9%E7%90%86%E6%A0%A1%E9%95%B7%E6%93%AC%E5%90%A6%E8%AA%8D%E5%A6%A8%E7%A4%99%E5%8F%B8%E6%B3%95%E7%BD%AA-%E5%90%8C%E6%A1%88%E5%A5%B3%E8%A2%AB%E5%91%8A%E7%8D%B2%E6%92%A4%E9%9B%A2%E6%B8%AF%E9%99%90%E5%88%B6",
-    "timestamp": "2026-02-12T07:18:03.154Z",
     "strategy": ".content-card__main"
   }
 ];
