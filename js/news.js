@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-12T10:53:42.936Z
+// Last updated: 2026-02-12T11:26:50.052Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "機場貨機墮海｜疑飛機迷網售殘骸碎片　警：新界南重案組積極跟進",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260211/1098358619570704384618327.jpeg/Gu8lwlHeQLdTURZj-Dtnmiiiac_npoAcr7BzDq-wcw4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60321874/%E6%A9%9F%E5%A0%B4%E8%B2%A8%E6%A9%9F%E5%A2%AE%E6%B5%B7-%E7%96%91%E9%A3%9B%E6%A9%9F%E8%BF%B7%E7%B6%B2%E5%94%AE%E6%AE%98%E9%AA%B8%E7%A2%8E%E7%89%87-%E8%AD%A6-%E6%96%B0%E7%95%8C%E5%8D%97%E9%87%8D%E6%A1%88%E7%B5%84%E7%A9%8D%E6%A5%B5%E8%B7%9F%E9%80%B2",
+    "timestamp": "2026-02-12T11:26:50.052Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "二狗脫口秀2026澳門棟篤笑｜門票攻略＋購票連結＋座位表",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20251031/1061014006526906368724058.jpeg/czvpox0IAaQqDDtZ7uGWaNa4dcrIvBlsXY6OhV2OjoU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60321583/%E6%B8%AF%E5%AA%92-%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%87%E6%96%BC4%E6%9C%88%E5%88%9D%E8%A8%AA%E8%8F%AF-%E4%B8%AD%E7%BE%8E%E6%9C%89%E6%9C%9B%E5%BB%B6%E9%95%B7%E8%B2%BF%E6%98%93%E4%BC%91%E6%88%B0%E6%9C%9F",
     "timestamp": "2026-02-11T23:59:43.827Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "港媒：特朗普將於4月初訪華　中美有望延長貿易休戰期",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20251031/1061014006526906368724058.jpeg/czvpox0IAaQqDDtZ7uGWaNa4dcrIvBlsXY6OhV2OjoU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60321583/%E6%B8%AF%E5%AA%92-%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%87%E6%96%BC4%E6%9C%88%E5%88%9D%E8%A8%AA%E8%8F%AF-%E4%B8%AD%E7%BE%8E%E6%9C%89%E6%9C%9B%E5%BB%B6%E9%95%B7%E8%B2%BF%E6%98%93%E4%BC%91%E6%88%B0%E6%9C%9F",
-    "timestamp": "2026-02-11T23:36:20.978Z",
     "strategy": ".content-card__main"
   }
 ];
