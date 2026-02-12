@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-12T09:28:25.185Z
+// Last updated: 2026-02-12T09:54:10.724Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "65歲配樂大師范宗沛傳因心肌梗塞辭世　曾獲金馬、金曲、金鐘三獎",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260212/1098660289252954112276415.png/lqs_rNwniv46CYTtnUL4moaWq2Lo-223fAOUrHwDlKw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60321792/65%E6%AD%B2%E9%85%8D%E6%A8%82%E5%A4%A7%E5%B8%AB%E8%8C%83%E5%AE%97%E6%B2%9B%E5%82%B3%E5%9B%A0%E5%BF%83%E8%82%8C%E6%A2%97%E5%A1%9E%E8%BE%AD%E4%B8%96-%E6%9B%BE%E7%8D%B2%E9%87%91%E9%A6%AC-%E9%87%91%E6%9B%B2-%E9%87%91%E9%90%98%E4%B8%89%E7%8D%8E",
+    "timestamp": "2026-02-12T09:54:10.724Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "Seedance 2.0 AI 香港免費試玩方法｜影片難分真假小心惹私隱爭議",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260210/1097968676470001664752906.png/N4WZsUHgZ86HqWNjrai5ohAgv4lVAQd6UZadNVGWnTU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E8%A9%B1%E9%A1%8C/60320968/%E7%86%B1%E6%B0%B4%E7%88%90%E6%82%B2%E5%8A%87-%E5%85%92%E6%B4%97%E6%BE%A1%E9%81%87%E6%95%85%E9%9A%9C%E6%BC%8F%E9%9B%BB%E8%A7%B8%E9%9B%BB-%E7%88%B6%E6%80%A5%E6%95%91%E5%AD%90%E8%A1%9D%E5%85%A5%E6%B5%B4%E5%AE%A4%E8%AE%8A%E9%9B%99%E5%B1%8D%E5%91%BD%E6%A1%88",
     "timestamp": "2026-02-11T22:54:13.397Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "英超｜利物浦作客1：0勝新特蘭　雲迪積克奠勝",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260212/1098496615859097600084936.jpeg/lNkGhBw6_xaQAB7vp3M-r19hdFLUT4rBnytJ8p8rSfI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60321582/%E8%8B%B1%E8%B6%85-%E5%88%A9%E7%89%A9%E6%B5%A6%E4%BD%9C%E5%AE%A21-0%E5%8B%9D%E6%96%B0%E7%89%B9%E8%98%AD-%E9%9B%B2%E8%BF%AA%E7%A9%8D%E5%85%8B%E5%A5%A0%E5%8B%9D",
-    "timestamp": "2026-02-11T22:34:32.438Z",
     "strategy": ".content-card__main"
   }
 ];
