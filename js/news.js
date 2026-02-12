@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-12T08:34:23.984Z
+// Last updated: 2026-02-12T08:59:26.364Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "觀音借庫2026懶人包｜吉日＋祭品＋9大禁忌　開庫觀音廟名單+地址",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260212/1098661575625019392596201.jpeg/IioV3CJSl6y0V0moqBnqWxOtfBFk3OBR9vNDlvbzQ5Y?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%A3%9F%E7%8E%A9%E8%B2%B7/60321632/%E8%A7%80%E9%9F%B3%E5%80%9F%E5%BA%AB2026%E6%87%B6%E4%BA%BA%E5%8C%85-%E5%90%89%E6%97%A5-%E7%A5%AD%E5%93%81-9%E5%A4%A7%E7%A6%81%E5%BF%8C-%E9%96%8B%E5%BA%AB%E8%A7%80%E9%9F%B3%E5%BB%9F%E5%90%8D%E5%96%AE-%E5%9C%B0%E5%9D%80",
+    "timestamp": "2026-02-12T08:59:26.364Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "攜逾$13萬另類吸煙產品及私煙　31歲女遭海關拘捕　判監半年罰款",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260212/1098499348687491072628430.jpeg/mOS-t69iBh8wPX53P1kxFbfaW_pS1IL_h010OodNdDo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60321563/%E5%A4%A9%E6%B0%A3-%E4%BB%8A%E6%97%A5%E5%A4%A7%E8%87%B4%E5%A4%9A%E9%9B%B2%E6%9C%80%E9%AB%98%E7%B4%8421%E5%BA%A6-%E6%98%8E%E6%97%A5%E8%87%B3%E5%B9%B4%E5%BB%BF%E4%B9%9D%E5%9D%87%E6%97%A5%E9%96%93%E6%BA%AB%E6%9A%96",
     "timestamp": "2026-02-11T22:17:22.935Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "加拿大校園槍擊案9死　警方：槍手是18歲變性女子曾有精神問題",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260212/1098482316503683072162749.jpeg/19187L8u4eihSi1v5pOcLA2FoPHcmNufsMnHqrDJx6o?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60321578/%E5%8A%A0%E6%8B%BF%E5%A4%A7%E6%A0%A1%E5%9C%92%E6%A7%8D%E6%93%8A%E6%A1%889%E6%AD%BB-%E8%AD%A6%E6%96%B9-%E6%A7%8D%E6%89%8B%E6%98%AF18%E6%AD%B2%E8%AE%8A%E6%80%A7%E5%A5%B3%E5%AD%90%E6%9B%BE%E6%9C%89%E7%B2%BE%E7%A5%9E%E5%95%8F%E9%A1%8C",
-    "timestamp": "2026-02-11T21:51:18.099Z",
     "strategy": ".content-card__main"
   }
 ];
