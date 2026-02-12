@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-12T20:51:03.222Z
+// Last updated: 2026-02-12T21:19:19.835Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "農曆新年｜政府預計1138萬人次出入境　周六情人節離港高峰期",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260210/1098041490007003136980713.jpeg/ZK4CvSx19hpb4Hjz5uCsImssj2InzMLEeR6_uWMev7k?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60321941/%E8%BE%B2%E6%9B%86%E6%96%B0%E5%B9%B4-%E6%94%BF%E5%BA%9C%E9%A0%90%E8%A8%881138%E8%90%AC%E4%BA%BA%E6%AC%A1%E5%87%BA%E5%85%A5%E5%A2%83-%E5%91%A8%E5%85%AD%E6%83%85%E4%BA%BA%E7%AF%80%E9%9B%A2%E6%B8%AF%E9%AB%98%E5%B3%B0%E6%9C%9F",
+    "timestamp": "2026-02-12T21:19:19.835Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "英媒：安德魯曾向父母及查理斯三世借1.3億解決性侵案　分毫未還",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260211/1098358619570704384618327.jpeg/Gu8lwlHeQLdTURZj-Dtnmiiiac_npoAcr7BzDq-wcw4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60321874/%E6%A9%9F%E5%A0%B4%E8%B2%A8%E6%A9%9F%E5%A2%AE%E6%B5%B7-%E7%96%91%E9%A3%9B%E6%A9%9F%E8%BF%B7%E7%B6%B2%E5%94%AE%E6%AE%98%E9%AA%B8%E7%A2%8E%E7%89%87-%E8%AD%A6-%E6%96%B0%E7%95%8C%E5%8D%97%E9%87%8D%E6%A1%88%E7%B5%84%E7%A9%8D%E6%A5%B5%E8%B7%9F%E9%80%B2",
     "timestamp": "2026-02-12T11:26:50.052Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "二狗脫口秀2026澳門棟篤笑｜門票攻略＋購票連結＋座位表",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260212/1098681845794476032620543.jpeg/Gh_zETrbWhbd-C_Kdg7t4A_eMcdQPkzCqhdYdaoXWHU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60321858/%E4%BA%8C%E7%8B%97%E8%84%AB%E5%8F%A3%E7%A7%802026%E6%BE%B3%E9%96%80%E6%A3%9F%E7%AF%A4%E7%AC%91-%E9%96%80%E7%A5%A8%E6%94%BB%E7%95%A5-%E8%B3%BC%E7%A5%A8%E9%80%A3%E7%B5%90-%E5%BA%A7%E4%BD%8D%E8%A1%A8",
-    "timestamp": "2026-02-12T10:53:42.936Z",
     "strategy": ".content-card__main"
   }
 ];
