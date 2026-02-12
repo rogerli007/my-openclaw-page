@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-12T05:49:58.478Z
+// Last updated: 2026-02-12T06:18:37.628Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "Donki再現鼠蹤！壽司凍櫃驚見老鼠亂竄　網民籲報食環：唔敢食了",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260212/1098612892648869888715293.png/IRbZaHsTD8BL_3fvDQu3pmvwQSeEc1qa24HmQNuB5kA",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60321599/donki%E5%86%8D%E7%8F%BE%E9%BC%A0%E8%B9%A4-%E5%A3%BD%E5%8F%B8%E5%87%8D%E6%AB%83%E9%A9%9A%E8%A6%8B%E8%80%81%E9%BC%A0%E4%BA%82%E7%AB%84-%E7%B6%B2%E6%B0%91%E7%B1%B2%E5%A0%B1%E9%A3%9F%E7%92%B0-%E5%94%94%E6%95%A2%E9%A3%9F%E4%BA%86",
+    "timestamp": "2026-02-12T06:18:37.628Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "情人節遇周六難「曬命」　花檔正日送辦公室單減8成　提早周五送",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/2153114/org/978b4111a2366130911e0318113698d6.jpg/nzJWUkNQZ-iNh3mWT0Ky-nJP8Ba5GAjaEXi4QxF4uEM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60321569/%E5%A5%B6%E7%B2%89%E5%9B%9E%E6%94%B6-%E6%B3%95%E5%9C%8B%E8%AA%BF%E6%9F%A5%E7%AC%AC3%E5%AE%97%E5%AC%B0%E5%85%92%E6%AD%BB%E4%BA%A1%E5%80%8B%E6%A1%88-%E6%9B%BE%E9%A3%9F%E7%94%A8%E9%9C%80%E5%9B%9E%E6%94%B6%E5%A5%B6%E7%B2%89",
     "timestamp": "2026-02-11T19:43:13.169Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "奶粉回收｜法國調查第3宗嬰兒死亡個案　曾食用需回收奶粉",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/2153114/org/978b4111a2366130911e0318113698d6.jpg/nzJWUkNQZ-iNh3mWT0Ky-nJP8Ba5GAjaEXi4QxF4uEM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60321569/%E5%A5%B6%E7%B2%89%E5%9B%9E%E6%94%B6-%E6%B3%95%E5%9C%8B%E8%AA%BF%E6%9F%A5%E7%AC%AC3%E5%AE%97%E5%AC%B0%E5%85%92%E6%AD%BB%E4%BA%A1%E5%80%8B%E6%A1%88-%E6%9B%BE%E9%A3%9F%E7%94%A8%E9%9C%80%E5%9B%9E%E6%94%B6%E5%A5%B6%E7%B2%89",
-    "timestamp": "2026-02-11T19:15:39.357Z",
     "strategy": ".content-card__main"
   }
 ];
