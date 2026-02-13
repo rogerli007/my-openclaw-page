@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-13T08:53:17.615Z
+// Last updated: 2026-02-13T09:26:51.485Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "方大籌辦全港首個藥學學士課程　大圍校舍最快27年底首階段啟用",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260213/1099026013859352576913768.jpeg/AR-h8d_43WxAPhuzBcYdwnhIhuCDbRT-Frn7mxa5-5s?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%B0%88%E4%B8%8A%E6%95%99%E8%82%B2/60322173/%E6%96%B9%E5%A4%A7%E7%B1%8C%E8%BE%A6%E5%85%A8%E6%B8%AF%E9%A6%96%E5%80%8B%E8%97%A5%E5%AD%B8%E5%AD%B8%E5%A3%AB%E8%AA%B2%E7%A8%8B-%E5%A4%A7%E5%9C%8D%E6%A0%A1%E8%88%8D%E6%9C%80%E5%BF%AB27%E5%B9%B4%E5%BA%95%E9%A6%96%E9%9A%8E%E6%AE%B5%E5%95%9F%E7%94%A8",
+    "timestamp": "2026-02-13T09:26:51.485Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "炎亞綸驚爆遭飛輪海全員性騷擾　吳尊汪東城伸手入褲摸下體當遊戲",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260213/1098858543253032960360574.jpeg/ZwxyIxuhNyoKHXJjWuXQTzbs7dev56GkTLOOfEyzjnw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60321945/%E8%8B%B1%E8%B6%85-%E9%98%BF%E4%BB%99%E5%A5%B4%E4%BD%9C%E5%AE%A2%E9%81%AD%E8%B3%93%E7%A6%8F%E7%89%B9%E9%80%BC%E5%92%8C1-1-%E7%BA%8C%E5%B1%85%E6%A6%9C%E9%A6%96%E9%A0%98%E5%85%88%E6%9B%BC%E5%9F%8E4%E5%88%86",
     "timestamp": "2026-02-12T22:19:23.408Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "天氣｜今日大致天晴最高23度　情人節至年廿九溫暖及較潮濕",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260213/1098857761665716224374056.jpeg/rYP_TwVBNy4EjAQp0b9mh3vl3W5jeBVavkGq4L5BquA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60321935/%E5%A4%A9%E6%B0%A3-%E4%BB%8A%E6%97%A5%E5%A4%A7%E8%87%B4%E5%A4%A9%E6%99%B4%E6%9C%80%E9%AB%9823%E5%BA%A6-%E6%83%85%E4%BA%BA%E7%AF%80%E8%87%B3%E5%B9%B4%E5%BB%BF%E4%B9%9D%E6%BA%AB%E6%9A%96%E5%8F%8A%E8%BC%83%E6%BD%AE%E6%BF%95",
-    "timestamp": "2026-02-12T22:02:20.549Z",
     "strategy": ".content-card__main"
   }
 ];
