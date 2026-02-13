@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-13T00:47:56.022Z
+// Last updated: 2026-02-13T01:22:36.266Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "人行今日進行1萬億人民幣買斷式逆回購　專家料短期內降準機會減",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20240613/877985997239881728387901.jpeg/4ftmoPjukix-JCVpSQTKxcATS7hb6iotWkBv7FpAb-w?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60321961/%E4%BA%BA%E8%A1%8C%E4%BB%8A%E6%97%A5%E9%80%B2%E8%A1%8C1%E8%90%AC%E5%84%84%E4%BA%BA%E6%B0%91%E5%B9%A3%E8%B2%B7%E6%96%B7%E5%BC%8F%E9%80%86%E5%9B%9E%E8%B3%BC-%E5%B0%88%E5%AE%B6%E6%96%99%E7%9F%AD%E6%9C%9F%E5%85%A7%E9%99%8D%E6%BA%96%E6%A9%9F%E6%9C%83%E6%B8%9B",
+    "timestamp": "2026-02-13T01:22:36.266Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "練美娟自爆諮詢過雪卵　卻怕身體負荷唔到：個人會脹",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260212/1098705334433746944853762.png/Rbt-CXDlTwdAecS0auKWM_mV6dyaK6KZdrd5NXa3eTU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60321855/sony-wf-1000xm6%E8%97%8D%E7%89%99%E8%80%B3%E6%A9%9F-2599%E9%96%8B%E5%94%AE-qn3e%E6%99%B6%E7%89%87%E9%99%8D%E5%99%AA%E9%80%B2%E5%8C%96%E5%80%BC%E5%BE%97%E5%8D%87%E7%B4%9A%E5%97%8E",
     "timestamp": "2026-02-12T16:42:10.077Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "古天樂與東張女神麥詩晴訪問有講有笑　毫無隔膜抹清寸爆TVB事件",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260212/1098703867568197632943210.jpeg/C-iZhR7vmYePlgW_Jkyz-hImDWmH2Jr3Pq27yD6tu8g?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60321822/%E5%8F%A4%E5%A4%A9%E6%A8%82%E8%88%87%E6%9D%B1%E5%BC%B5%E5%A5%B3%E7%A5%9E%E9%BA%A5%E8%A9%A9%E6%99%B4%E8%A8%AA%E5%95%8F%E6%9C%89%E8%AC%9B%E6%9C%89%E7%AC%91-%E6%AF%AB%E7%84%A1%E9%9A%94%E8%86%9C%E6%8A%B9%E6%B8%85%E5%AF%B8%E7%88%86tvb%E4%BA%8B%E4%BB%B6",
-    "timestamp": "2026-02-12T16:11:26.275Z",
     "strategy": ".content-card__main"
   }
 ];
