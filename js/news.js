@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-13T14:35:51.303Z
+// Last updated: 2026-02-13T15:07:59.138Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "《她很漂亮》黃靜茵挪用公款43億韓元被判刑　現送舊玩具又遭炮轟",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260213/1099020651764649984239657.png/dzlDkvGa1uWxNWALzChxmfobLXYS8oPfGJHOUxiRzlM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60322168/%E5%A5%B9%E5%BE%88%E6%BC%82%E4%BA%AE-%E9%BB%83%E9%9D%9C%E8%8C%B5%E6%8C%AA%E7%94%A8%E5%85%AC%E6%AC%BE43%E5%84%84%E9%9F%93%E5%85%83%E8%A2%AB%E5%88%A4%E5%88%91-%E7%8F%BE%E9%80%81%E8%88%8A%E7%8E%A9%E5%85%B7%E5%8F%88%E9%81%AD%E7%82%AE%E8%BD%9F",
+    "timestamp": "2026-02-13T15:07:59.138Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "懷孕妻揭夫偷食岳母22年　驚覺3弟恐是老公骨肉　母女曾同時懷孕",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20230321/714809482491858944509763.jpeg/5P-pJwJbSws0ClW7pwsJj_87dj-qACcUnNsoP7bbKD8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60322071/%E5%B7%A5%E4%BA%BA%E5%9C%A8%E5%AE%89%E9%81%94%E8%87%A3%E9%81%93%E5%9C%B0%E7%9B%A4%E5%A4%B1%E8%B6%B3%E5%A2%AE%E6%96%83-%E9%81%BA%E5%AD%80%E5%85%A5%E7%A8%9F%E5%90%91%E7%91%9E%E5%AE%89%E6%89%BF%E5%BB%BA%E7%B4%A2%E5%84%9F",
     "timestamp": "2026-02-13T05:50:38.652Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "時代廣場行李寄存櫃爆滿？多件行李堵塞走火通道　網民：報消防啦",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260210/1097975185920757760478162.png/YsyHDQGXVSX8LrPplaMYftz4a-LS3nxxBh7lowYe5aM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60321089/%E6%99%82%E4%BB%A3%E5%BB%A3%E5%A0%B4%E8%A1%8C%E6%9D%8E%E5%AF%84%E5%AD%98%E6%AB%83%E7%88%86%E6%BB%BF-%E5%A4%9A%E4%BB%B6%E8%A1%8C%E6%9D%8E%E5%A0%B5%E5%A1%9E%E8%B5%B0%E7%81%AB%E9%80%9A%E9%81%93-%E7%B6%B2%E6%B0%91-%E5%A0%B1%E6%B6%88%E9%98%B2%E5%95%A6",
-    "timestamp": "2026-02-13T05:19:38.539Z",
     "strategy": ".content-card__main"
   }
 ];
