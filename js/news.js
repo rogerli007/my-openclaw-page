@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-13T23:02:33.576Z
+// Last updated: 2026-02-13T23:20:41.768Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "已婚副教授約女舊生看夜景！車內強抱狂吻　她崩潰報警拒和解",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260205/1095948436613632000968531.png/YRTqMSLe8DQ_iP8_IrbGdr2-seAddEBaoRb2z6EW9s8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E8%A9%B1%E9%A1%8C/60319386/%E5%B7%B2%E5%A9%9A%E5%89%AF%E6%95%99%E6%8E%88%E7%B4%84%E5%A5%B3%E8%88%8A%E7%94%9F%E7%9C%8B%E5%A4%9C%E6%99%AF-%E8%BB%8A%E5%85%A7%E5%BC%B7%E6%8A%B1%E7%8B%82%E5%90%BB-%E5%A5%B9%E5%B4%A9%E6%BD%B0%E5%A0%B1%E8%AD%A6%E6%8B%92%E5%92%8C%E8%A7%A3",
+    "timestamp": "2026-02-13T23:20:41.768Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "冬奧運動員精力過剩？　選手村派安全套3日被搶光供貨無期｜有片",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260213/1099020651764649984239657.png/dzlDkvGa1uWxNWALzChxmfobLXYS8oPfGJHOUxiRzlM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60322168/%E5%A5%B9%E5%BE%88%E6%BC%82%E4%BA%AE-%E9%BB%83%E9%9D%9C%E8%8C%B5%E6%8C%AA%E7%94%A8%E5%85%AC%E6%AC%BE43%E5%84%84%E9%9F%93%E5%85%83%E8%A2%AB%E5%88%A4%E5%88%91-%E7%8F%BE%E9%80%81%E8%88%8A%E7%8E%A9%E5%85%B7%E5%8F%88%E9%81%AD%E7%82%AE%E8%BD%9F",
     "timestamp": "2026-02-13T15:07:59.138Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "懷孕妻揭夫偷食岳母22年　驚覺3弟恐是老公骨肉　母女曾同時懷孕",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260213/1098945263533297664435610.png/fPu_EWDU-60LdsWAERM0Z43hBNYYzwbLvJO1VNaTtVQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E8%A9%B1%E9%A1%8C/60322032/%E6%87%B7%E5%AD%95%E5%A6%BB%E6%8F%AD%E5%A4%AB%E5%81%B7%E9%A3%9F%E5%B2%B3%E6%AF%8D22%E5%B9%B4-%E9%A9%9A%E8%A6%BA3%E5%BC%9F%E6%81%90%E6%98%AF%E8%80%81%E5%85%AC%E9%AA%A8%E8%82%89-%E6%AF%8D%E5%A5%B3%E6%9B%BE%E5%90%8C%E6%99%82%E6%87%B7%E5%AD%95",
-    "timestamp": "2026-02-13T14:35:51.303Z",
     "strategy": ".content-card__main"
   }
 ];
