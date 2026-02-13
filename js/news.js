@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-13T09:26:51.485Z
+// Last updated: 2026-02-13T09:53:42.738Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "AIA嘉年華2026門票｜7類人免費入場+雜技團買1送1+玩機動攤位遊戲",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260211/1098228343418916864821756.jpeg/1YJLe9YoeAyvv79z6V5gxU2uXFJ29dQLD79aew-_Wns",
+    "url": "https://www.hk01.com/%E9%A3%9F%E7%8E%A9%E8%B2%B7/60301596/aia%E5%98%89%E5%B9%B4%E8%8F%AF2026%E9%96%80%E7%A5%A8-7%E9%A1%9E%E4%BA%BA%E5%85%8D%E8%B2%BB%E5%85%A5%E5%A0%B4-%E9%A6%AC%E6%88%B2%E5%9C%98%E8%B2%B71%E9%80%811-%E7%8E%A9%E6%A9%9F%E5%8B%95%E6%94%A4%E4%BD%8D%E9%81%8A%E6%88%B2",
+    "timestamp": "2026-02-13T09:53:42.738Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "方大籌辦全港首個藥學學士課程　大圍校舍最快27年底首階段啟用",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260212/1098709783344582656268734.jpeg/zblToN571cdi4bH6YzaHMkFopHDXo7vrpu4ISabuCEk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60321788/tvb%E4%B8%80%E7%B7%9A%E8%97%9D%E4%BA%BA%E6%8E%A5%E9%80%A3%E5%A4%96%E9%97%96-%E8%87%AA%E6%95%91-%E8%AC%80%E5%87%BA%E8%B7%AF-%E5%8A%9B%E6%8D%A7%E5%B0%8F%E7%94%9F%E6%9D%B1%E8%8E%9E%E6%A6%AE%E5%8D%87-%E8%80%81%E7%B8%BD",
     "timestamp": "2026-02-12T22:37:50.254Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "英超｜阿仙奴作客遭賓福特逼和1：1　續居榜首領先曼城4分",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260213/1098858543253032960360574.jpeg/ZwxyIxuhNyoKHXJjWuXQTzbs7dev56GkTLOOfEyzjnw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60321945/%E8%8B%B1%E8%B6%85-%E9%98%BF%E4%BB%99%E5%A5%B4%E4%BD%9C%E5%AE%A2%E9%81%AD%E8%B3%93%E7%A6%8F%E7%89%B9%E9%80%BC%E5%92%8C1-1-%E7%BA%8C%E5%B1%85%E6%A6%9C%E9%A6%96%E9%A0%98%E5%85%88%E6%9B%BC%E5%9F%8E4%E5%88%86",
-    "timestamp": "2026-02-12T22:19:23.408Z",
     "strategy": ".content-card__main"
   }
 ];
