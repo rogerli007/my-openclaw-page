@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-13T19:51:54.622Z
+// Last updated: 2026-02-13T20:20:17.530Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "警獅隧口設路障拘2司機　1醉駕1販毒檢大麻產品　扣查2車非法改裝",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260214/1099188047490060288214698.jpeg/vjZ-S5lsSBoJDoQcwkaPLV9rQdS3ueXK_6oJFMWqCRQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60322321/%E8%AD%A6%E7%8D%85%E9%9A%A7%E5%8F%A3%E8%A8%AD%E8%B7%AF%E9%9A%9C%E6%8B%982%E5%8F%B8%E6%A9%9F-1%E9%86%89%E9%A7%951%E8%B2%A9%E6%AF%92%E6%AA%A2%E5%A4%A7%E9%BA%BB%E7%94%A2%E5%93%81-%E6%89%A3%E6%9F%A52%E8%BB%8A%E9%9D%9E%E6%B3%95%E6%94%B9%E8%A3%9D",
+    "timestamp": "2026-02-13T20:20:17.530Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "特朗普起訴哈佛大學　指控其拒絕提供調查招生紀錄所需文件",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260213/1099046758543527936954702.jpeg/K0eEAdPTPh-G90BqdLAAMNNDab_VeMThJweAfAIHgHw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60322252/%E9%83%AD%E4%BF%8A%E5%B3%AF%E9%A0%90%E8%A8%88%E5%9B%9B%E6%9C%88%E9%80%80%E4%BC%91-%E8%A2%AB%E5%95%8F%E6%9C%89%E5%90%A6%E6%89%93%E7%AE%97%E5%8A%A0%E5%85%A5%E6%94%BF%E5%BA%9C-%E6%9A%AB%E6%99%82%E6%9C%AA%E8%80%83%E6%85%AE%E6%9C%AA%E4%BE%86%E8%A8%88%E5%8A%83",
     "timestamp": "2026-02-13T11:21:19.847Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "六合彩新春金多寶｜2億頭獎史上最高　2.21開獎　即睇5大最旺號碼",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20240214/834446623026188288136758.jpeg/MVxLvr68hxRNw53uKELfC9B5wl4hlnm9MggwSTIIMEk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60322241/%E5%85%AD%E5%90%88%E5%BD%A9%E6%96%B0%E6%98%A5%E9%87%91%E5%A4%9A%E5%AF%B6-2%E5%84%84%E9%A0%AD%E7%8D%8E%E5%8F%B2%E4%B8%8A%E6%9C%80%E9%AB%98-2-21%E9%96%8B%E7%8D%8E-%E5%8D%B3%E7%9D%875%E5%A4%A7%E6%9C%80%E6%97%BA%E8%99%9F%E7%A2%BC",
-    "timestamp": "2026-02-13T10:53:05.402Z",
     "strategy": ".content-card__main"
   }
 ];
