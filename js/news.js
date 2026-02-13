@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-13T12:28:22.508Z
+// Last updated: 2026-02-13T12:54:37.227Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "東張西望｜芳姨指控郭秀雲「偷龍轉鳳」扣起鸚鵡　疑前雀義工搞事",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260213/1099078963700961280385196.jpeg/_JgqRnJ7bfR6BsdPxBvjB4FTGcbTupH27kbO-O5Gzvg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60322264/%E6%9D%B1%E5%BC%B5%E8%A5%BF%E6%9C%9B-%E8%8A%B3%E5%A7%A8%E6%8C%87%E6%8E%A7%E9%83%AD%E7%A7%80%E9%9B%B2-%E5%81%B7%E9%BE%8D%E8%BD%89%E9%B3%B3-%E6%89%A3%E8%B5%B7%E9%B8%9A%E9%B5%A1-%E7%96%91%E5%89%8D%E9%9B%80%E7%BE%A9%E5%B7%A5%E6%90%9E%E4%BA%8B",
+    "timestamp": "2026-02-13T12:54:37.227Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "38歲男被控冒認宏福苑大火災民　圖騙取援助　准保釋候訊",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260212/1098546853290446848128435.jpeg/yd-kbiXd4fwamnimhKs7szDTF4Sz6bGRHDqlDhw6pQ4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60321981/%E4%BA%BA%E6%B0%91%E5%B9%A3%E5%81%8F%E8%BB%9F-%E9%9B%A2%E5%B2%B8%E5%83%B9%E8%B7%8C62%E9%BB%9E-%E5%9B%9E%E8%90%BD%E8%87%B36-9%E4%BB%A5%E4%B8%8B",
     "timestamp": "2026-02-13T02:25:15.519Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "人行今日進行1萬億人民幣買斷式逆回購　專家料短期內降準機會減",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20240613/877985997239881728387901.jpeg/4ftmoPjukix-JCVpSQTKxcATS7hb6iotWkBv7FpAb-w?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60321961/%E4%BA%BA%E8%A1%8C%E4%BB%8A%E6%97%A5%E9%80%B2%E8%A1%8C1%E8%90%AC%E5%84%84%E4%BA%BA%E6%B0%91%E5%B9%A3%E8%B2%B7%E6%96%B7%E5%BC%8F%E9%80%86%E5%9B%9E%E8%B3%BC-%E5%B0%88%E5%AE%B6%E6%96%99%E7%9F%AD%E6%9C%9F%E5%85%A7%E9%99%8D%E6%BA%96%E6%A9%9F%E6%9C%83%E6%B8%9B",
-    "timestamp": "2026-02-13T01:22:36.266Z",
     "strategy": ".content-card__main"
   }
 ];
