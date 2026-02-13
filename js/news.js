@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-13T04:36:09.108Z
+// Last updated: 2026-02-13T05:19:38.539Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "時代廣場行李寄存櫃爆滿？多件行李堵塞走火通道　網民：報消防啦",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260210/1097975185920757760478162.png/YsyHDQGXVSX8LrPplaMYftz4a-LS3nxxBh7lowYe5aM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60321089/%E6%99%82%E4%BB%A3%E5%BB%A3%E5%A0%B4%E8%A1%8C%E6%9D%8E%E5%AF%84%E5%AD%98%E6%AB%83%E7%88%86%E6%BB%BF-%E5%A4%9A%E4%BB%B6%E8%A1%8C%E6%9D%8E%E5%A0%B5%E5%A1%9E%E8%B5%B0%E7%81%AB%E9%80%9A%E9%81%93-%E7%B6%B2%E6%B0%91-%E5%A0%B1%E6%B6%88%E9%98%B2%E5%95%A6",
+    "timestamp": "2026-02-13T05:19:38.539Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "台北燒烤店貼｢在台陸人無台灣身分證勿入｣公告　引違法與歧視爭議",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260213/1098810564534079488201639.jpeg/ujVFPPDpv5IIul4bLud9tMEY_sbw1nhZhujnh4bo54c?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60321937/%E6%B3%B0%E6%A0%A1%E5%9C%92%E6%A7%8D%E6%93%8A%E6%A1%88-%E5%A5%B3%E6%A0%A1%E9%95%B7%E4%B8%AD%E6%A7%8D%E8%BA%AB%E4%BA%A1-%E8%87%AA%E9%A1%98%E7%95%B6%E4%BA%BA%E8%B3%AA%E6%8F%9B%E5%8F%96%E5%AD%B8%E7%94%9F%E7%8D%B2%E9%87%8B%E8%A2%AB%E8%AD%BD%E8%8B%B1%E9%9B%84",
     "timestamp": "2026-02-12T19:15:31.244Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "民建聯區議員潘志成違泊緊急消防通道　 致歉稱日後會多加留意",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260213/1098793923284832256156394.jpeg/MG6I2MNFra_SyVKwexN-lMJOhlrfwEDxM9jA3zPYwN8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60321934/%E6%B0%91%E5%BB%BA%E8%81%AF%E5%8D%80%E8%AD%B0%E5%93%A1%E6%BD%98%E5%BF%97%E6%88%90%E9%81%95%E6%B3%8A%E7%B7%8A%E6%80%A5%E6%B6%88%E9%98%B2%E9%80%9A%E9%81%93-%E8%87%B4%E6%AD%89%E7%A8%B1%E6%97%A5%E5%BE%8C%E6%9C%83%E5%A4%9A%E5%8A%A0%E7%95%99%E6%84%8F",
-    "timestamp": "2026-02-12T18:40:41.801Z",
     "strategy": ".content-card__main"
   }
 ];
