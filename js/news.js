@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-13T15:58:08.105Z
+// Last updated: 2026-02-13T16:26:09.938Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "日本扣押一艘中國漁船並逮捕船長　日媒：晚上已獲釋",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260213/1099130331228803072843197.jpeg/iWWUqrWnUUKXS_7ubNdkUdXlP7iByc_dlhE-UZYRPlE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60322313/%E6%97%A5%E6%9C%AC%E6%89%A3%E6%8A%BC%E4%B8%80%E8%89%98%E4%B8%AD%E5%9C%8B%E6%BC%81%E8%88%B9%E4%B8%A6%E9%80%AE%E6%8D%95%E8%88%B9%E9%95%B7-%E6%97%A5%E5%AA%92-%E6%99%9A%E4%B8%8A%E5%B7%B2%E7%8D%B2%E9%87%8B",
+    "timestamp": "2026-02-13T16:26:09.938Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "生蠔食物中毒｜酒店低調變招轉食蟹　有蠔店稱法國直運不涉供應商",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260213/1098992273560965120823719.png/fHCjd5vJohRsrbrGdMtiCJpM_MsgL0YGUI6WV1COllc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60322095/cia%E7%99%BC%E5%BD%B1%E7%89%87%E6%8B%9B%E6%94%AC%E4%B8%AD%E5%9C%8B%E8%BB%8D%E4%BA%BA%E5%81%9A%E5%85%A7%E7%B7%9A-%E4%B8%AD%E6%96%B9%E8%AD%B4%E8%B2%AC-%E5%9A%B4%E9%87%8D%E4%BE%B5%E7%8A%AF%E5%9C%8B%E5%AE%B6%E5%88%A9%E7%9B%8A",
     "timestamp": "2026-02-13T07:31:18.345Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "李家誠告周秀娜｜聲明提到一關鍵時間　使李認為事情已超合理界線",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260213/1098984444548616192564218.jpeg/iMyoCuLkA_XtIyfAvBoRZ1R44P-YpCywz20kkM9tJJA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60322109/%E6%9D%8E%E5%AE%B6%E8%AA%A0%E5%91%8A%E5%91%A8%E7%A7%80%E5%A8%9C-%E8%81%B2%E6%98%8E%E6%8F%90%E5%88%B0%E4%B8%80%E9%97%9C%E9%8D%B5%E6%99%82%E9%96%93-%E4%BD%BF%E6%9D%8E%E8%AA%8D%E7%82%BA%E4%BA%8B%E6%83%85%E5%B7%B2%E8%B6%85%E5%90%88%E7%90%86%E7%95%8C%E7%B7%9A",
-    "timestamp": "2026-02-13T06:59:53.785Z",
     "strategy": ".content-card__main"
   }
 ];
