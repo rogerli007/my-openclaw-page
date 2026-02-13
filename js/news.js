@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-13T06:59:53.785Z
+// Last updated: 2026-02-13T07:31:18.345Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "CIA發影片招攬中國軍人做內線　中方譴責：嚴重侵犯國家利益",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260213/1098992273560965120823719.png/fHCjd5vJohRsrbrGdMtiCJpM_MsgL0YGUI6WV1COllc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60322095/cia%E7%99%BC%E5%BD%B1%E7%89%87%E6%8B%9B%E6%94%AC%E4%B8%AD%E5%9C%8B%E8%BB%8D%E4%BA%BA%E5%81%9A%E5%85%A7%E7%B7%9A-%E4%B8%AD%E6%96%B9%E8%AD%B4%E8%B2%AC-%E5%9A%B4%E9%87%8D%E4%BE%B5%E7%8A%AF%E5%9C%8B%E5%AE%B6%E5%88%A9%E7%9B%8A",
+    "timestamp": "2026-02-13T07:31:18.345Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "李家誠告周秀娜｜聲明提到一關鍵時間　使李認為事情已超合理界線",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260213/1098830041690673152605923.jpeg/y1hFUyE-d5DG4vbKVlPxPNvUzgiXYGSXu8ehybvHock?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60321939/%E8%8B%B1%E5%AA%92-%E5%AE%89%E5%BE%B7%E9%AD%AF%E6%9B%BE%E5%90%91%E7%88%B6%E6%AF%8D%E5%8F%8A%E6%9F%A5%E7%90%86%E6%96%AF%E4%B8%89%E4%B8%96%E5%80%9F1-3%E5%84%84%E8%A7%A3%E6%B1%BA%E6%80%A7%E4%BE%B5%E6%A1%88-%E5%88%86%E6%AF%AB%E6%9C%AA%E9%82%84",
     "timestamp": "2026-02-12T20:51:03.222Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "宏福苑大火｜涉煽動被捕中大生被踢出校　曾就火災提訴求及搞聯署",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20251130/1071795231659134976650317.jpeg/qO3S79e4NKKfeyRw0lAO4B1TijPzVKfgcoi_R3KIv0c?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60321933/%E5%AE%8F%E7%A6%8F%E8%8B%91%E5%A4%A7%E7%81%AB-%E6%B6%89%E7%85%BD%E5%8B%95%E8%A2%AB%E6%8D%95%E4%B8%AD%E5%A4%A7%E7%94%9F%E8%A2%AB%E8%B8%A2%E5%87%BA%E6%A0%A1-%E6%9B%BE%E5%B0%B1%E7%81%AB%E7%81%BD%E6%8F%90%E8%A8%B4%E6%B1%82%E5%8F%8A%E6%90%9E%E8%81%AF%E7%BD%B2",
-    "timestamp": "2026-02-12T20:22:29.466Z",
     "strategy": ".content-card__main"
   }
 ];
