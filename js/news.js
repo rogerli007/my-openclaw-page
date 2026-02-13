@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-13T05:19:38.539Z
+// Last updated: 2026-02-13T05:50:38.652Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "工人在安達臣道地盤失足墮斃　遺孀入稟向瑞安承建索償",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20230321/714809482491858944509763.jpeg/5P-pJwJbSws0ClW7pwsJj_87dj-qACcUnNsoP7bbKD8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60322071/%E5%B7%A5%E4%BA%BA%E5%9C%A8%E5%AE%89%E9%81%94%E8%87%A3%E9%81%93%E5%9C%B0%E7%9B%A4%E5%A4%B1%E8%B6%B3%E5%A2%AE%E6%96%83-%E9%81%BA%E5%AD%80%E5%85%A5%E7%A8%9F%E5%90%91%E7%91%9E%E5%AE%89%E6%89%BF%E5%BB%BA%E7%B4%A2%E5%84%9F",
+    "timestamp": "2026-02-13T05:50:38.652Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "時代廣場行李寄存櫃爆滿？多件行李堵塞走火通道　網民：報消防啦",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260213/1098820587742040064057169.jpeg/RX4E8Q6WDZ6Tro823d50K1L_cr9M-5RHo_EGAaPxBgE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60321938/%E6%A2%85%E7%AA%A9%E7%A2%BC%E9%A0%AD45%E6%AD%B2%E7%94%B7%E6%B6%89%E8%A5%B2%E8%AD%A6%E8%A2%AB%E6%8D%95-%E7%94%B7%E8%AD%A6%E8%87%89%E9%83%A8%E5%8F%97%E5%82%B7%E9%80%81%E9%86%AB%E6%B2%BB%E7%90%86",
     "timestamp": "2026-02-12T19:42:07.608Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "泰校園槍擊案｜女校長中槍身亡　自願當人質換取學生獲釋被譽英雄",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260213/1098810564534079488201639.jpeg/ujVFPPDpv5IIul4bLud9tMEY_sbw1nhZhujnh4bo54c?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60321937/%E6%B3%B0%E6%A0%A1%E5%9C%92%E6%A7%8D%E6%93%8A%E6%A1%88-%E5%A5%B3%E6%A0%A1%E9%95%B7%E4%B8%AD%E6%A7%8D%E8%BA%AB%E4%BA%A1-%E8%87%AA%E9%A1%98%E7%95%B6%E4%BA%BA%E8%B3%AA%E6%8F%9B%E5%8F%96%E5%AD%B8%E7%94%9F%E7%8D%B2%E9%87%8B%E8%A2%AB%E8%AD%BD%E8%8B%B1%E9%9B%84",
-    "timestamp": "2026-02-12T19:15:31.244Z",
     "strategy": ".content-card__main"
   }
 ];
