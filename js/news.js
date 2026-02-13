@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-13T21:04:44.967Z
+// Last updated: 2026-02-13T21:24:20.975Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "默茨：基於規則的世界秩序已不存在　美國領導地位遭挑戰或已喪失",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260214/1099189088361123840054716.jpeg/-6WYzA9qq0-WUn66QHdPIznZVH8gu3CuOfgY2zn4GNs?v=w1920",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60322324/%E9%BB%98%E8%8C%A8-%E5%9F%BA%E6%96%BC%E8%A6%8F%E5%89%87%E7%9A%84%E4%B8%96%E7%95%8C%E7%A7%A9%E5%BA%8F%E5%B7%B2%E4%B8%8D%E5%AD%98%E5%9C%A8-%E7%BE%8E%E5%9C%8B%E9%A0%98%E5%B0%8E%E5%9C%B0%E4%BD%8D%E9%81%AD%E6%8C%91%E6%88%B0%E6%88%96%E5%B7%B2%E5%96%AA%E5%A4%B1",
+    "timestamp": "2026-02-13T21:24:20.975Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "默茨：基於規則的世界秩序已不存在　美國領導地位遭挑戰或已喪失",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20251210/1075359707893600256608237.jpeg/lVL1tcp6zLIRCbwel1YVwpzBt16Py5ZMOXMllDlzJZQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60322272/38%E6%AD%B2%E7%94%B7%E8%A2%AB%E6%8E%A7%E5%86%92%E8%AA%8D%E5%AE%8F%E7%A6%8F%E8%8B%91%E5%A4%A7%E7%81%AB%E7%81%BD%E6%B0%91-%E5%9C%96%E9%A8%99%E5%8F%96%E6%8F%B4%E5%8A%A9-%E5%87%86%E4%BF%9D%E9%87%8B%E5%80%99%E8%A8%8A",
     "timestamp": "2026-02-13T12:28:22.508Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "武漢客5年前購入2700克金條　日前賣出淨賺196萬",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260213/1099008915477106688951742.jpeg/I8qVmSxAqnkvJYl0xtuN2QHdJ21BhO2IZVN0i2VTdIs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60322152/%E6%AD%A6%E6%BC%A2%E5%AE%A25%E5%B9%B4%E5%89%8D%E8%B3%BC%E5%85%A52700%E5%85%8B%E9%87%91%E6%A2%9D-%E6%97%A5%E5%89%8D%E8%B3%A3%E5%87%BA%E6%B7%A8%E8%B3%BA196%E8%90%AC",
-    "timestamp": "2026-02-13T12:02:42.149Z",
     "strategy": ".content-card__main"
   }
 ];
