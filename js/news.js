@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-13T09:53:42.738Z
+// Last updated: 2026-02-13T10:24:38.020Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "非常檢控觀｜丘梓謙認罪哭戲大爆演技　擺脫大細路形象獲網民激讚",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260213/1098991076166864896381624.jpeg/0KhR1guHGSnxfEDdkKdV4GuxzW_eqiZsb1ndmW9Z3Zk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60322105/%E9%9D%9E%E5%B8%B8%E6%AA%A2%E6%8E%A7%E8%A7%80-%E4%B8%98%E6%A2%93%E8%AC%99%E8%AA%8D%E7%BD%AA%E5%93%AD%E6%88%B2%E5%A4%A7%E7%88%86%E6%BC%94%E6%8A%80-%E6%93%BA%E8%84%AB%E5%A4%A7%E7%B4%B0%E8%B7%AF%E5%BD%A2%E8%B1%A1%E7%8D%B2%E7%B6%B2%E6%B0%91%E6%BF%80%E8%AE%9A",
+    "timestamp": "2026-02-13T10:24:38.020Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "AIA嘉年華2026門票｜7類人免費入場+雜技團買1送1+玩機動攤位遊戲",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260212/1098709783344582656268734.jpeg/zblToN571cdi4bH6YzaHMkFopHDXo7vrpu4ISabuCEk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60321788/tvb%E4%B8%80%E7%B7%9A%E8%97%9D%E4%BA%BA%E6%8E%A5%E9%80%A3%E5%A4%96%E9%97%96-%E8%87%AA%E6%95%91-%E8%AC%80%E5%87%BA%E8%B7%AF-%E5%8A%9B%E6%8D%A7%E5%B0%8F%E7%94%9F%E6%9D%B1%E8%8E%9E%E6%A6%AE%E5%8D%87-%E8%80%81%E7%B8%BD",
     "timestamp": "2026-02-12T23:01:42.489Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "TVB一線藝人「自救」接連外闖謀出路　力捧小生東莞榮升「老總」",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260212/1098709783344582656268734.jpeg/zblToN571cdi4bH6YzaHMkFopHDXo7vrpu4ISabuCEk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60321788/tvb%E4%B8%80%E7%B7%9A%E8%97%9D%E4%BA%BA%E6%8E%A5%E9%80%A3%E5%A4%96%E9%97%96-%E8%87%AA%E6%95%91-%E8%AC%80%E5%87%BA%E8%B7%AF-%E5%8A%9B%E6%8D%A7%E5%B0%8F%E7%94%9F%E6%9D%B1%E8%8E%9E%E6%A6%AE%E5%8D%87-%E8%80%81%E7%B8%BD",
-    "timestamp": "2026-02-12T22:37:50.254Z",
     "strategy": ".content-card__main"
   }
 ];
