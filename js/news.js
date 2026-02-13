@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-13T02:25:15.519Z
+// Last updated: 2026-02-13T03:37:02.249Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "陳海寧到廟拜「月老」 行街被大叔埋身「抄牌」：唔好意思我好忙",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260212/1098695104484347904627051.jpeg/zrqCEgKa9ktLrFjN9Rr2dCZSoNoeh_FeJN8GJx7fBic?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60321875/%E9%99%B3%E6%B5%B7%E5%AF%A7%E5%88%B0%E5%BB%9F%E6%8B%9C-%E6%9C%88%E8%80%81-%E8%A1%8C%E8%A1%97%E8%A2%AB%E5%A4%A7%E5%8F%94%E5%9F%8B%E8%BA%AB-%E6%8A%84%E7%89%8C-%E5%94%94%E5%A5%BD%E6%84%8F%E6%80%9D%E6%88%91%E5%A5%BD%E5%BF%99",
+    "timestamp": "2026-02-13T03:37:02.249Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "人民幣偏軟　離岸價跌62點　回落至6.9以下",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260213/1098780245252640768047361.jpeg/2rhz42oc1eVLNdVhtEAE_U83o2-7PyCbknSAQZJ0gEE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60321931/%E7%89%B9%E6%9C%97%E6%99%AE%E9%82%8A%E5%A2%83%E6%B2%99%E7%9A%87-%E5%B0%87%E7%B5%90%E6%9D%9F%E5%9C%A8%E6%98%8E%E5%B0%BC%E8%98%87%E9%81%94%E6%89%93%E6%93%8A%E9%9D%9E%E6%B3%95%E7%A7%BB%E6%B0%91%E5%9F%B7%E6%B3%95%E8%A1%8C%E5%8B%95",
     "timestamp": "2026-02-12T17:43:29.222Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普邊境沙皇：將結束在明尼蘇達打擊非法移民執法行動",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260213/1098780245252640768047361.jpeg/2rhz42oc1eVLNdVhtEAE_U83o2-7PyCbknSAQZJ0gEE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60321931/%E7%89%B9%E6%9C%97%E6%99%AE%E9%82%8A%E5%A2%83%E6%B2%99%E7%9A%87-%E5%B0%87%E7%B5%90%E6%9D%9F%E5%9C%A8%E6%98%8E%E5%B0%BC%E8%98%87%E9%81%94%E6%89%93%E6%93%8A%E9%9D%9E%E6%B3%95%E7%A7%BB%E6%B0%91%E5%9F%B7%E6%B3%95%E8%A1%8C%E5%8B%95",
-    "timestamp": "2026-02-12T17:14:23.552Z",
     "strategy": ".content-card__main"
   }
 ];
