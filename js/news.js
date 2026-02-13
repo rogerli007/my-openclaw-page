@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-13T16:26:09.938Z
+// Last updated: 2026-02-13T16:53:50.692Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "日本扣押一艘中國漁船並逮捕船長　日媒：晚上已獲釋",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260213/1099130331228803072843197.jpeg/iWWUqrWnUUKXS_7ubNdkUdXlP7iByc_dlhE-UZYRPlE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60322313/%E6%97%A5%E6%9C%AC%E6%89%A3%E6%8A%BC%E4%B8%80%E8%89%98%E4%B8%AD%E5%9C%8B%E6%BC%81%E8%88%B9%E4%B8%A6%E9%80%AE%E6%8D%95%E8%88%B9%E9%95%B7-%E6%97%A5%E5%AA%92-%E6%99%9A%E4%B8%8A%E5%B7%B2%E7%8D%B2%E9%87%8B",
+    "timestamp": "2026-02-13T16:53:50.692Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "日本扣押一艘中國漁船並逮捕船長　日媒：晚上已獲釋",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260213/1098978084108898304496723.jpeg/cLxPBzJvOoUVYhOudmcA-QHTiovsL2TsHsrMbh7KzG4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60322068/%E6%9C%80%E6%96%B0%E7%A0%94%E7%A9%B6-%E8%BF%9190-%E7%89%B9%E6%9C%97%E6%99%AE%E9%97%9C%E7%A8%85%E6%88%90%E6%9C%AC%E7%94%B1%E7%BE%8E%E5%9C%8B%E6%B6%88%E8%B2%BB%E8%80%85%E5%92%8C%E4%BC%81%E6%A5%AD%E6%89%BF%E6%93%94",
     "timestamp": "2026-02-13T07:55:14.998Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "CIA發影片招攬中國軍人做內線　中方譴責：嚴重侵犯國家利益",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260213/1098992273560965120823719.png/fHCjd5vJohRsrbrGdMtiCJpM_MsgL0YGUI6WV1COllc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60322095/cia%E7%99%BC%E5%BD%B1%E7%89%87%E6%8B%9B%E6%94%AC%E4%B8%AD%E5%9C%8B%E8%BB%8D%E4%BA%BA%E5%81%9A%E5%85%A7%E7%B7%9A-%E4%B8%AD%E6%96%B9%E8%AD%B4%E8%B2%AC-%E5%9A%B4%E9%87%8D%E4%BE%B5%E7%8A%AF%E5%9C%8B%E5%AE%B6%E5%88%A9%E7%9B%8A",
-    "timestamp": "2026-02-13T07:31:18.345Z",
     "strategy": ".content-card__main"
   }
 ];
