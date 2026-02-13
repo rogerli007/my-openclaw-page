@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-13T13:36:56.147Z
+// Last updated: 2026-02-13T14:12:12.202Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "登革熱｜22歲菲律賓女子訪港後6日器官衰竭離世　列輸入個案",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/1759210/org/15f9750da1d0d25eeaa172722907e51e.JPG/G1E-IYCK0kFOx7vNRSGjjr3ZRkKHBJo5C0uz-gtLs_o?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60322297/%E7%99%BB%E9%9D%A9%E7%86%B1-22%E6%AD%B2%E8%8F%B2%E5%BE%8B%E8%B3%93%E5%A5%B3%E5%AD%90%E8%A8%AA%E6%B8%AF%E5%BE%8C6%E6%97%A5%E5%99%A8%E5%AE%98%E8%A1%B0%E7%AB%AD%E9%9B%A2%E4%B8%96-%E5%88%97%E8%BC%B8%E5%85%A5%E5%80%8B%E6%A1%88",
+    "timestamp": "2026-02-13T14:12:12.202Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "《鬼滅之刃》蛇柱聲優鈴村健一確診「適應障礙」　宣佈已全面停工",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260213/1098928840245252096862704.png/EeDNwcQXUCNzZ5o8qstuGOsegliXlseBNvrM6zb6zOs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8F%B0%E7%81%A3%E6%96%B0%E8%81%9E/60321996/%E5%8F%B0%E5%8C%97%E7%87%92%E7%83%A4%E5%BA%97%E8%B2%BC-%E5%9C%A8%E5%8F%B0%E9%99%B8%E4%BA%BA%E7%84%A1%E5%8F%B0%E7%81%A3%E8%BA%AB%E5%88%86%E8%AD%89%E5%8B%BF%E5%85%A5-%E5%85%AC%E5%91%8A-%E5%BC%95%E9%81%95%E6%B3%95%E8%88%87%E6%AD%A7%E8%A6%96%E7%88%AD%E8%AD%B0",
     "timestamp": "2026-02-13T04:36:09.108Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "陳海寧到廟拜「月老」 行街被大叔埋身「抄牌」：唔好意思我好忙",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260212/1098695104484347904627051.jpeg/zrqCEgKa9ktLrFjN9Rr2dCZSoNoeh_FeJN8GJx7fBic?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60321875/%E9%99%B3%E6%B5%B7%E5%AF%A7%E5%88%B0%E5%BB%9F%E6%8B%9C-%E6%9C%88%E8%80%81-%E8%A1%8C%E8%A1%97%E8%A2%AB%E5%A4%A7%E5%8F%94%E5%9F%8B%E8%BA%AB-%E6%8A%84%E7%89%8C-%E5%94%94%E5%A5%BD%E6%84%8F%E6%80%9D%E6%88%91%E5%A5%BD%E5%BF%99",
-    "timestamp": "2026-02-13T03:37:02.249Z",
     "strategy": ".content-card__main"
   }
 ];
