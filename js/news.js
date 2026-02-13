@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-13T11:48:45.986Z
+// Last updated: 2026-02-13T12:02:42.149Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "武漢客5年前購入2700克金條　日前賣出淨賺196萬",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260213/1099008915477106688951742.jpeg/I8qVmSxAqnkvJYl0xtuN2QHdJ21BhO2IZVN0i2VTdIs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60322152/%E6%AD%A6%E6%BC%A2%E5%AE%A25%E5%B9%B4%E5%89%8D%E8%B3%BC%E5%85%A52700%E5%85%8B%E9%87%91%E6%A2%9D-%E6%97%A5%E5%89%8D%E8%B3%A3%E5%87%BA%E6%B7%A8%E8%B3%BA196%E8%90%AC",
+    "timestamp": "2026-02-13T12:02:42.149Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "非常檢控觀｜吳偉豪游嘉欣開Live逼爆聊天室　貓鼠CP互窒放閃",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260212/1098688853021036544561439.jpeg/q9j9vCwecz-kMhk_JjUksxlpSx1NxvWljQh1L7cIdS8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60321868/%E7%B7%B4%E7%BE%8E%E5%A8%9F%E8%87%AA%E7%88%86%E8%AB%AE%E8%A9%A2%E9%81%8E%E9%9B%AA%E5%8D%B5-%E5%8D%BB%E6%80%95%E8%BA%AB%E9%AB%94%E8%B2%A0%E8%8D%B7%E5%94%94%E5%88%B0-%E5%80%8B%E4%BA%BA%E6%9C%83%E8%84%B9",
     "timestamp": "2026-02-13T00:47:56.022Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "冬奧｜烏克蘭選手因悼念同胞頭盔遭DQ　澤連斯基：勇氣比獎牌重要",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260213/1098880645154738176134086.jpeg/HjDCcktfzTpnEsG_sswqOhpRYadRy0C7mJ8PVZifD1U?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60321949/%E5%86%AC%E5%A5%A7-%E7%83%8F%E5%85%8B%E8%98%AD%E9%81%B8%E6%89%8B%E5%9B%A0%E6%82%BC%E5%BF%B5%E5%90%8C%E8%83%9E%E9%A0%AD%E7%9B%94%E9%81%ADdq-%E6%BE%A4%E9%80%A3%E6%96%AF%E5%9F%BA-%E5%8B%87%E6%B0%A3%E6%AF%94%E7%8D%8E%E7%89%8C%E9%87%8D%E8%A6%81",
-    "timestamp": "2026-02-13T00:00:03.584Z",
     "strategy": ".content-card__main"
   }
 ];
