@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-13T12:02:42.149Z
+// Last updated: 2026-02-13T12:28:22.508Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "38歲男被控冒認宏福苑大火災民　圖騙取援助　准保釋候訊",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20251210/1075359707893600256608237.jpeg/lVL1tcp6zLIRCbwel1YVwpzBt16Py5ZMOXMllDlzJZQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60322272/38%E6%AD%B2%E7%94%B7%E8%A2%AB%E6%8E%A7%E5%86%92%E8%AA%8D%E5%AE%8F%E7%A6%8F%E8%8B%91%E5%A4%A7%E7%81%AB%E7%81%BD%E6%B0%91-%E5%9C%96%E9%A8%99%E5%8F%96%E6%8F%B4%E5%8A%A9-%E5%87%86%E4%BF%9D%E9%87%8B%E5%80%99%E8%A8%8A",
+    "timestamp": "2026-02-13T12:28:22.508Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "武漢客5年前購入2700克金條　日前賣出淨賺196萬",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20240613/877985997239881728387901.jpeg/4ftmoPjukix-JCVpSQTKxcATS7hb6iotWkBv7FpAb-w?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60321961/%E4%BA%BA%E8%A1%8C%E4%BB%8A%E6%97%A5%E9%80%B2%E8%A1%8C1%E8%90%AC%E5%84%84%E4%BA%BA%E6%B0%91%E5%B9%A3%E8%B2%B7%E6%96%B7%E5%BC%8F%E9%80%86%E5%9B%9E%E8%B3%BC-%E5%B0%88%E5%AE%B6%E6%96%99%E7%9F%AD%E6%9C%9F%E5%85%A7%E9%99%8D%E6%BA%96%E6%A9%9F%E6%9C%83%E6%B8%9B",
     "timestamp": "2026-02-13T01:22:36.266Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "練美娟自爆諮詢過雪卵　卻怕身體負荷唔到：個人會脹",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260212/1098688853021036544561439.jpeg/q9j9vCwecz-kMhk_JjUksxlpSx1NxvWljQh1L7cIdS8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60321868/%E7%B7%B4%E7%BE%8E%E5%A8%9F%E8%87%AA%E7%88%86%E8%AB%AE%E8%A9%A2%E9%81%8E%E9%9B%AA%E5%8D%B5-%E5%8D%BB%E6%80%95%E8%BA%AB%E9%AB%94%E8%B2%A0%E8%8D%B7%E5%94%94%E5%88%B0-%E5%80%8B%E4%BA%BA%E6%9C%83%E8%84%B9",
-    "timestamp": "2026-02-13T00:47:56.022Z",
     "strategy": ".content-card__main"
   }
 ];
