@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-13T10:53:05.402Z
+// Last updated: 2026-02-13T11:21:19.847Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "郭俊峯預計四月退休　被問有否打算加入政府：暫時未考慮未來計劃",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260213/1099046758543527936954702.jpeg/K0eEAdPTPh-G90BqdLAAMNNDab_VeMThJweAfAIHgHw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60322252/%E9%83%AD%E4%BF%8A%E5%B3%AF%E9%A0%90%E8%A8%88%E5%9B%9B%E6%9C%88%E9%80%80%E4%BC%91-%E8%A2%AB%E5%95%8F%E6%9C%89%E5%90%A6%E6%89%93%E7%AE%97%E5%8A%A0%E5%85%A5%E6%94%BF%E5%BA%9C-%E6%9A%AB%E6%99%82%E6%9C%AA%E8%80%83%E6%85%AE%E6%9C%AA%E4%BE%86%E8%A8%88%E5%8A%83",
+    "timestamp": "2026-02-13T11:21:19.847Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "六合彩新春金多寶｜2億頭獎史上最高　2.21開獎　即睇5大最旺號碼",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260213/1098776910592217088367102.jpeg/_V4YPAQNSnG2NTw2QD-tA5upN7HBDdmYYh-Kn1Qfip8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60321928/%E9%BA%A5%E7%8E%B2%E7%8E%B2%E5%81%95%E8%A6%96%E5%B8%9D%E9%84%AD%E5%98%89%E7%A9%8E%E9%99%B3%E5%B1%B1%E8%81%B0%E9%80%9B%E8%8A%B1%E5%B8%82-%E5%86%A7%E7%88%86%E5%8D%81%E8%90%AC%E7%B2%89%E7%B5%B2",
     "timestamp": "2026-02-12T23:35:42.951Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "小米Xiaomi智能變頻抽濕機一週實測｜快速抽濕＋智慧控濕極寧靜",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260210/1098019077999300608790358.jpeg/ovci_4X-wtN9g-GUs41BUXvLYLtk_ctAjhVI8I4VSPA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60320827/%E5%B0%8F%E7%B1%B3xiaomi%E6%99%BA%E8%83%BD%E8%AE%8A%E9%A0%BB%E6%8A%BD%E6%BF%95%E6%A9%9F%E4%B8%80%E9%80%B1%E5%AF%A6%E6%B8%AC-%E5%BF%AB%E9%80%9F%E6%8A%BD%E6%BF%95-%E6%99%BA%E6%85%A7%E6%8E%A7%E6%BF%95%E6%A5%B5%E5%AF%A7%E9%9D%9C",
-    "timestamp": "2026-02-12T23:17:52.085Z",
     "strategy": ".content-card__main"
   }
 ];
