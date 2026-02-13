@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-13T07:55:14.998Z
+// Last updated: 2026-02-13T08:24:47.226Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "內地AI惡搞片「超人痛毆高市早苗」引日本網民轟　版權商出手檢舉",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260213/1098984376093380608316280.jpeg/AHrS1xGqHgTEcXgaWaRe9qiCskBnurUqUJwu21CcLts?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60322089/%E5%85%A7%E5%9C%B0ai%E6%83%A1%E6%90%9E%E7%89%87-%E8%B6%85%E4%BA%BA%E7%97%9B%E6%AF%86%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97-%E5%BC%95%E6%97%A5%E6%9C%AC%E7%B6%B2%E6%B0%91%E8%BD%9F-%E7%89%88%E6%AC%8A%E5%95%86%E5%87%BA%E6%89%8B%E6%AA%A2%E8%88%89",
+    "timestamp": "2026-02-13T08:24:47.226Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "最新研究：近90%特朗普關稅成本由美國消費者和企業承擔",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260212/1098422748390494208307195.jpeg/KJdXz1K8W0DXok_f-adsebzcn3UyGmg8hmldJpxpXSY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60321943/%E8%BE%B2%E6%9B%86%E6%96%B0%E5%B9%B4%E9%99%A4%E5%A4%95%E4%BA%A4%E9%80%9A-%E6%B8%AF%E9%90%B5%E4%B8%BB%E8%A6%81%E8%B7%AF%E7%B7%9A%E9%80%9A%E5%AE%B5%E6%9C%8D%E5%8B%99-%E6%A9%9F%E5%A0%B4%E5%BF%AB%E7%B7%9A%E5%BB%B6%E9%95%B7%E8%A1%8C%E9%A7%9B%E6%99%82%E9%96%93",
     "timestamp": "2026-02-12T21:37:27.361Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "農曆新年｜政府預計1138萬人次出入境　周六情人節離港高峰期",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260210/1098041490007003136980713.jpeg/ZK4CvSx19hpb4Hjz5uCsImssj2InzMLEeR6_uWMev7k?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60321941/%E8%BE%B2%E6%9B%86%E6%96%B0%E5%B9%B4-%E6%94%BF%E5%BA%9C%E9%A0%90%E8%A8%881138%E8%90%AC%E4%BA%BA%E6%AC%A1%E5%87%BA%E5%85%A5%E5%A2%83-%E5%91%A8%E5%85%AD%E6%83%85%E4%BA%BA%E7%AF%80%E9%9B%A2%E6%B8%AF%E9%AB%98%E5%B3%B0%E6%9C%9F",
-    "timestamp": "2026-02-12T21:19:19.835Z",
     "strategy": ".content-card__main"
   }
 ];
