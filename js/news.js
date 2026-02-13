@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-13T12:54:37.227Z
+// Last updated: 2026-02-13T13:36:56.147Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "《鬼滅之刃》蛇柱聲優鈴村健一確診「適應障礙」　宣佈已全面停工",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260213/1099003507815485440916845.png/_IPHl9Toyj8-5Fz2HGexEi1RWzSAOTrYiEnpMohJ6TI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60322140/%E9%AC%BC%E6%BB%85%E4%B9%8B%E5%88%83-%E8%9B%87%E6%9F%B1%E8%81%B2%E5%84%AA%E9%88%B4%E6%9D%91%E5%81%A5%E4%B8%80%E7%A2%BA%E8%A8%BA-%E9%81%A9%E6%87%89%E9%9A%9C%E7%A4%99-%E5%AE%A3%E4%BD%88%E5%B7%B2%E5%85%A8%E9%9D%A2%E5%81%9C%E5%B7%A5",
+    "timestamp": "2026-02-13T13:36:56.147Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "東張西望｜芳姨指控郭秀雲「偷龍轉鳳」扣起鸚鵡　疑前雀義工搞事",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260212/1098695104484347904627051.jpeg/zrqCEgKa9ktLrFjN9Rr2dCZSoNoeh_FeJN8GJx7fBic?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60321875/%E9%99%B3%E6%B5%B7%E5%AF%A7%E5%88%B0%E5%BB%9F%E6%8B%9C-%E6%9C%88%E8%80%81-%E8%A1%8C%E8%A1%97%E8%A2%AB%E5%A4%A7%E5%8F%94%E5%9F%8B%E8%BA%AB-%E6%8A%84%E7%89%8C-%E5%94%94%E5%A5%BD%E6%84%8F%E6%80%9D%E6%88%91%E5%A5%BD%E5%BF%99",
     "timestamp": "2026-02-13T03:37:02.249Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "人民幣偏軟　離岸價跌62點　回落至6.9以下",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260212/1098546853290446848128435.jpeg/yd-kbiXd4fwamnimhKs7szDTF4Sz6bGRHDqlDhw6pQ4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60321981/%E4%BA%BA%E6%B0%91%E5%B9%A3%E5%81%8F%E8%BB%9F-%E9%9B%A2%E5%B2%B8%E5%83%B9%E8%B7%8C62%E9%BB%9E-%E5%9B%9E%E8%90%BD%E8%87%B36-9%E4%BB%A5%E4%B8%8B",
-    "timestamp": "2026-02-13T02:25:15.519Z",
     "strategy": ".content-card__main"
   }
 ];
