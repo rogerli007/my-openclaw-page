@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-13T00:00:03.584Z
+// Last updated: 2026-02-13T00:47:56.022Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "練美娟自爆諮詢過雪卵　卻怕身體負荷唔到：個人會脹",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260212/1098688853021036544561439.jpeg/q9j9vCwecz-kMhk_JjUksxlpSx1NxvWljQh1L7cIdS8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60321868/%E7%B7%B4%E7%BE%8E%E5%A8%9F%E8%87%AA%E7%88%86%E8%AB%AE%E8%A9%A2%E9%81%8E%E9%9B%AA%E5%8D%B5-%E5%8D%BB%E6%80%95%E8%BA%AB%E9%AB%94%E8%B2%A0%E8%8D%B7%E5%94%94%E5%88%B0-%E5%80%8B%E4%BA%BA%E6%9C%83%E8%84%B9",
+    "timestamp": "2026-02-13T00:47:56.022Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "冬奧｜烏克蘭選手因悼念同胞頭盔遭DQ　澤連斯基：勇氣比獎牌重要",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260212/1098703867568197632943210.jpeg/C-iZhR7vmYePlgW_Jkyz-hImDWmH2Jr3Pq27yD6tu8g?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60321822/%E5%8F%A4%E5%A4%A9%E6%A8%82%E8%88%87%E6%9D%B1%E5%BC%B5%E5%A5%B3%E7%A5%9E%E9%BA%A5%E8%A9%A9%E6%99%B4%E8%A8%AA%E5%95%8F%E6%9C%89%E8%AC%9B%E6%9C%89%E7%AC%91-%E6%AF%AB%E7%84%A1%E9%9A%94%E8%86%9C%E6%8A%B9%E6%B8%85%E5%AF%B8%E7%88%86tvb%E4%BA%8B%E4%BB%B6",
     "timestamp": "2026-02-12T16:11:26.275Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "日昇小食韭菜餅觀塘年宵市場賣貴逾一倍　老闆開口解釋3件$50原因",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260212/1098757714609180672713628.jpeg/fPsAXkdbVMj7mzyfNlHr6aU9mvdD9EC7yKa3Qsimt0I?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60321910/%E6%97%A5%E6%98%87%E5%B0%8F%E9%A3%9F%E9%9F%AD%E8%8F%9C%E9%A4%85%E8%A7%80%E5%A1%98%E5%B9%B4%E5%AE%B5%E5%B8%82%E5%A0%B4%E8%B3%A3%E8%B2%B4%E9%80%BE%E4%B8%80%E5%80%8D-%E8%80%81%E9%97%86%E9%96%8B%E5%8F%A3%E8%A7%A3%E9%87%8B3%E4%BB%B6-50%E5%8E%9F%E5%9B%A0",
-    "timestamp": "2026-02-12T15:39:56.940Z",
     "strategy": ".content-card__main"
   }
 ];
