@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-13T18:24:59.293Z
+// Last updated: 2026-02-13T18:54:00.554Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "SpaceX 龍飛船成功升空　將4名太空人送上國際太空站｜有片",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260214/1099170793692073984423107.jpeg/7I5X6fBDNDsw72jxRJufWpJ2s32tA6Cnwv5hMcL-YTE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60322320/spacex-%E9%BE%8D%E9%A3%9B%E8%88%B9%E6%88%90%E5%8A%9F%E5%8D%87%E7%A9%BA-%E5%B0%874%E5%90%8D%E5%A4%AA%E7%A9%BA%E4%BA%BA%E9%80%81%E4%B8%8A%E5%9C%8B%E9%9A%9B%E5%A4%AA%E7%A9%BA%E7%AB%99-%E6%9C%89%E7%89%87",
+    "timestamp": "2026-02-13T18:54:00.554Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "年近歲晚警中環放蛇搭的士去尖東　黑的司機索$350車資　當場被捕",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260211/1098228343418916864821756.jpeg/1YJLe9YoeAyvv79z6V5gxU2uXFJ29dQLD79aew-_Wns",
     "url": "https://www.hk01.com/%E9%A3%9F%E7%8E%A9%E8%B2%B7/60301596/aia%E5%98%89%E5%B9%B4%E8%8F%AF2026%E9%96%80%E7%A5%A8-7%E9%A1%9E%E4%BA%BA%E5%85%8D%E8%B2%BB%E5%85%A5%E5%A0%B4-%E9%A6%AC%E6%88%B2%E5%9C%98%E8%B2%B71%E9%80%811-%E7%8E%A9%E6%A9%9F%E5%8B%95%E6%94%A4%E4%BD%8D%E9%81%8A%E6%88%B2",
     "timestamp": "2026-02-13T09:53:42.738Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "方大籌辦全港首個藥學學士課程　大圍校舍最快27年底首階段啟用",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260213/1099026013859352576913768.jpeg/AR-h8d_43WxAPhuzBcYdwnhIhuCDbRT-Frn7mxa5-5s?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%B0%88%E4%B8%8A%E6%95%99%E8%82%B2/60322173/%E6%96%B9%E5%A4%A7%E7%B1%8C%E8%BE%A6%E5%85%A8%E6%B8%AF%E9%A6%96%E5%80%8B%E8%97%A5%E5%AD%B8%E5%AD%B8%E5%A3%AB%E8%AA%B2%E7%A8%8B-%E5%A4%A7%E5%9C%8D%E6%A0%A1%E8%88%8D%E6%9C%80%E5%BF%AB27%E5%B9%B4%E5%BA%95%E9%A6%96%E9%9A%8E%E6%AE%B5%E5%95%9F%E7%94%A8",
-    "timestamp": "2026-02-13T09:26:51.485Z",
     "strategy": ".content-card__main"
   }
 ];
