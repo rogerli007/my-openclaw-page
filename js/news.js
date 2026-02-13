@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-13T20:20:17.530Z
+// Last updated: 2026-02-13T20:40:32.384Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "默茨：基於規則的世界秩序已不存在　美國領導地位遭挑戰或已喪失",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260214/1099189088361123840054716.jpeg/-6WYzA9qq0-WUn66QHdPIznZVH8gu3CuOfgY2zn4GNs?v=w1920",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60322324/%E9%BB%98%E8%8C%A8-%E5%9F%BA%E6%96%BC%E8%A6%8F%E5%89%87%E7%9A%84%E4%B8%96%E7%95%8C%E7%A7%A9%E5%BA%8F%E5%B7%B2%E4%B8%8D%E5%AD%98%E5%9C%A8-%E7%BE%8E%E5%9C%8B%E9%A0%98%E5%B0%8E%E5%9C%B0%E4%BD%8D%E9%81%AD%E6%8C%91%E6%88%B0%E6%88%96%E5%B7%B2%E5%96%AA%E5%A4%B1",
+    "timestamp": "2026-02-13T20:40:32.384Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "警獅隧口設路障拘2司機　1醉駕1販毒檢大麻產品　扣查2車非法改裝",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260213/1099013456163508224429507.jpeg/h9gWe95zWE8-KUMHQHQOaGSDIgYaoGvnnQMn5Z0DJ-U?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60322141/%E9%9D%9E%E5%B8%B8%E6%AA%A2%E6%8E%A7%E8%A7%80-%E5%90%B3%E5%81%89%E8%B1%AA%E6%B8%B8%E5%98%89%E6%AC%A3%E9%96%8Blive%E9%80%BC%E7%88%86%E8%81%8A%E5%A4%A9%E5%AE%A4-%E8%B2%93%E9%BC%A0cp%E4%BA%92%E7%AA%92%E6%94%BE%E9%96%83",
     "timestamp": "2026-02-13T11:48:45.986Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "郭俊峯預計四月退休　被問有否打算加入政府：暫時未考慮未來計劃",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260213/1099046758543527936954702.jpeg/K0eEAdPTPh-G90BqdLAAMNNDab_VeMThJweAfAIHgHw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60322252/%E9%83%AD%E4%BF%8A%E5%B3%AF%E9%A0%90%E8%A8%88%E5%9B%9B%E6%9C%88%E9%80%80%E4%BC%91-%E8%A2%AB%E5%95%8F%E6%9C%89%E5%90%A6%E6%89%93%E7%AE%97%E5%8A%A0%E5%85%A5%E6%94%BF%E5%BA%9C-%E6%9A%AB%E6%99%82%E6%9C%AA%E8%80%83%E6%85%AE%E6%9C%AA%E4%BE%86%E8%A8%88%E5%8A%83",
-    "timestamp": "2026-02-13T11:21:19.847Z",
     "strategy": ".content-card__main"
   }
 ];
