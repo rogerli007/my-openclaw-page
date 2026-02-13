@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-13T06:34:03.622Z
+// Last updated: 2026-02-13T06:59:53.785Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "李家誠告周秀娜｜聲明提到一關鍵時間　使李認為事情已超合理界線",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260213/1098984444548616192564218.jpeg/iMyoCuLkA_XtIyfAvBoRZ1R44P-YpCywz20kkM9tJJA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60322109/%E6%9D%8E%E5%AE%B6%E8%AA%A0%E5%91%8A%E5%91%A8%E7%A7%80%E5%A8%9C-%E8%81%B2%E6%98%8E%E6%8F%90%E5%88%B0%E4%B8%80%E9%97%9C%E9%8D%B5%E6%99%82%E9%96%93-%E4%BD%BF%E6%9D%8E%E8%AA%8D%E7%82%BA%E4%BA%8B%E6%83%85%E5%B7%B2%E8%B6%85%E5%90%88%E7%90%86%E7%95%8C%E7%B7%9A",
+    "timestamp": "2026-02-13T06:59:53.785Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "漸進鏡｜編輯體驗配鏡七大流程：量身訂製個人化眼鏡、老花也能配",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20251130/1071795231659134976650317.jpeg/qO3S79e4NKKfeyRw0lAO4B1TijPzVKfgcoi_R3KIv0c?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60321933/%E5%AE%8F%E7%A6%8F%E8%8B%91%E5%A4%A7%E7%81%AB-%E6%B6%89%E7%85%BD%E5%8B%95%E8%A2%AB%E6%8D%95%E4%B8%AD%E5%A4%A7%E7%94%9F%E8%A2%AB%E8%B8%A2%E5%87%BA%E6%A0%A1-%E6%9B%BE%E5%B0%B1%E7%81%AB%E7%81%BD%E6%8F%90%E8%A8%B4%E6%B1%82%E5%8F%8A%E6%90%9E%E8%81%AF%E7%BD%B2",
     "timestamp": "2026-02-12T20:22:29.466Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "梅窩碼頭45歲男涉襲警被捕　男警臉部受傷送醫治理",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260213/1098820587742040064057169.jpeg/RX4E8Q6WDZ6Tro823d50K1L_cr9M-5RHo_EGAaPxBgE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60321938/%E6%A2%85%E7%AA%A9%E7%A2%BC%E9%A0%AD45%E6%AD%B2%E7%94%B7%E6%B6%89%E8%A5%B2%E8%AD%A6%E8%A2%AB%E6%8D%95-%E7%94%B7%E8%AD%A6%E8%87%89%E9%83%A8%E5%8F%97%E5%82%B7%E9%80%81%E9%86%AB%E6%B2%BB%E7%90%86",
-    "timestamp": "2026-02-12T20:02:07.742Z",
     "strategy": ".content-card__main"
   }
 ];
