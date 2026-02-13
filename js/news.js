@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-13T18:54:00.554Z
+// Last updated: 2026-02-13T19:26:17.426Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "SpaceX 龍飛船成功升空　將4名太空人送上國際太空站｜有片",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260214/1099170793692073984423107.jpeg/7I5X6fBDNDsw72jxRJufWpJ2s32tA6Cnwv5hMcL-YTE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60322320/spacex-%E9%BE%8D%E9%A3%9B%E8%88%B9%E6%88%90%E5%8A%9F%E5%8D%87%E7%A9%BA-%E5%B0%874%E5%90%8D%E5%A4%AA%E7%A9%BA%E4%BA%BA%E9%80%81%E4%B8%8A%E5%9C%8B%E9%9A%9B%E5%A4%AA%E7%A9%BA%E7%AB%99-%E6%9C%89%E7%89%87",
+    "timestamp": "2026-02-13T19:26:17.426Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "SpaceX 龍飛船成功升空　將4名太空人送上國際太空站｜有片",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260213/1098991076166864896381624.jpeg/0KhR1guHGSnxfEDdkKdV4GuxzW_eqiZsb1ndmW9Z3Zk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60322105/%E9%9D%9E%E5%B8%B8%E6%AA%A2%E6%8E%A7%E8%A7%80-%E4%B8%98%E6%A2%93%E8%AC%99%E8%AA%8D%E7%BD%AA%E5%93%AD%E6%88%B2%E5%A4%A7%E7%88%86%E6%BC%94%E6%8A%80-%E6%93%BA%E8%84%AB%E5%A4%A7%E7%B4%B0%E8%B7%AF%E5%BD%A2%E8%B1%A1%E7%8D%B2%E7%B6%B2%E6%B0%91%E6%BF%80%E8%AE%9A",
     "timestamp": "2026-02-13T10:24:38.020Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "AIA嘉年華2026門票｜7類人免費入場+雜技團買1送1+玩機動攤位遊戲",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260211/1098228343418916864821756.jpeg/1YJLe9YoeAyvv79z6V5gxU2uXFJ29dQLD79aew-_Wns",
-    "url": "https://www.hk01.com/%E9%A3%9F%E7%8E%A9%E8%B2%B7/60301596/aia%E5%98%89%E5%B9%B4%E8%8F%AF2026%E9%96%80%E7%A5%A8-7%E9%A1%9E%E4%BA%BA%E5%85%8D%E8%B2%BB%E5%85%A5%E5%A0%B4-%E9%A6%AC%E6%88%B2%E5%9C%98%E8%B2%B71%E9%80%811-%E7%8E%A9%E6%A9%9F%E5%8B%95%E6%94%A4%E4%BD%8D%E9%81%8A%E6%88%B2",
-    "timestamp": "2026-02-13T09:53:42.738Z",
     "strategy": ".content-card__main"
   }
 ];
