@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-13T08:24:47.226Z
+// Last updated: 2026-02-13T08:53:17.615Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "炎亞綸驚爆遭飛輪海全員性騷擾　吳尊汪東城伸手入褲摸下體當遊戲",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20241123/937038163539398656482061.jpeg/ic1FmTx3LgBP04PxzeQyZIpqXnFA9kPiET4aqxE-Gqs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E5%A8%9B%E6%A8%82/60321799/%E7%82%8E%E4%BA%9E%E7%B6%B8%E9%A9%9A%E7%88%86%E9%81%AD%E9%A3%9B%E8%BC%AA%E6%B5%B7%E5%85%A8%E5%93%A1%E6%80%A7%E9%A8%B7%E6%93%BE-%E5%90%B3%E5%B0%8A%E6%B1%AA%E6%9D%B1%E5%9F%8E%E4%BC%B8%E6%89%8B%E5%85%A5%E8%A4%B2%E6%91%B8%E4%B8%8B%E9%AB%94%E7%95%B6%E9%81%8A%E6%88%B2",
+    "timestamp": "2026-02-13T08:53:17.615Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "內地AI惡搞片「超人痛毆高市早苗」引日本網民轟　版權商出手檢舉",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260213/1098857761665716224374056.jpeg/rYP_TwVBNy4EjAQp0b9mh3vl3W5jeBVavkGq4L5BquA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60321935/%E5%A4%A9%E6%B0%A3-%E4%BB%8A%E6%97%A5%E5%A4%A7%E8%87%B4%E5%A4%A9%E6%99%B4%E6%9C%80%E9%AB%9823%E5%BA%A6-%E6%83%85%E4%BA%BA%E7%AF%80%E8%87%B3%E5%B9%B4%E5%BB%BF%E4%B9%9D%E6%BA%AB%E6%9A%96%E5%8F%8A%E8%BC%83%E6%BD%AE%E6%BF%95",
     "timestamp": "2026-02-12T22:02:20.549Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "農曆新年除夕交通　港鐵主要路線通宵服務　機場快線延長行駛時間",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260212/1098422748390494208307195.jpeg/KJdXz1K8W0DXok_f-adsebzcn3UyGmg8hmldJpxpXSY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60321943/%E8%BE%B2%E6%9B%86%E6%96%B0%E5%B9%B4%E9%99%A4%E5%A4%95%E4%BA%A4%E9%80%9A-%E6%B8%AF%E9%90%B5%E4%B8%BB%E8%A6%81%E8%B7%AF%E7%B7%9A%E9%80%9A%E5%AE%B5%E6%9C%8D%E5%8B%99-%E6%A9%9F%E5%A0%B4%E5%BF%AB%E7%B7%9A%E5%BB%B6%E9%95%B7%E8%A1%8C%E9%A7%9B%E6%99%82%E9%96%93",
-    "timestamp": "2026-02-12T21:37:27.361Z",
     "strategy": ".content-card__main"
   }
 ];
