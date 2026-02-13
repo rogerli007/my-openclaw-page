@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-13T21:52:04.001Z
+// Last updated: 2026-02-13T22:18:13.543Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "【星之谷】置易付成二手樓交易新選項　資金安全迎保障",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260213/1099034492858798080420378.jpeg/O9tMu9cQHVbOwwcAZALzTrGaaRQDRiI2l2Gvr5dhr68?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60322061/%E6%98%9F%E4%B9%8B%E8%B0%B7-%E7%BD%AE%E6%98%93%E4%BB%98%E6%88%90%E4%BA%8C%E6%89%8B%E6%A8%93%E4%BA%A4%E6%98%93%E6%96%B0%E9%81%B8%E9%A0%85-%E8%B3%87%E9%87%91%E5%AE%89%E5%85%A8%E8%BF%8E%E4%BF%9D%E9%9A%9C",
+    "timestamp": "2026-02-13T22:18:13.543Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "默茨：基於規則的世界秩序已不存在　美國領導地位遭挑戰或已喪失",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260213/1099003507815485440916845.png/_IPHl9Toyj8-5Fz2HGexEi1RWzSAOTrYiEnpMohJ6TI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60322140/%E9%AC%BC%E6%BB%85%E4%B9%8B%E5%88%83-%E8%9B%87%E6%9F%B1%E8%81%B2%E5%84%AA%E9%88%B4%E6%9D%91%E5%81%A5%E4%B8%80%E7%A2%BA%E8%A8%BA-%E9%81%A9%E6%87%89%E9%9A%9C%E7%A4%99-%E5%AE%A3%E4%BD%88%E5%B7%B2%E5%85%A8%E9%9D%A2%E5%81%9C%E5%B7%A5",
     "timestamp": "2026-02-13T13:36:56.147Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "東張西望｜芳姨指控郭秀雲「偷龍轉鳳」扣起鸚鵡　疑前雀義工搞事",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260213/1099078963700961280385196.jpeg/_JgqRnJ7bfR6BsdPxBvjB4FTGcbTupH27kbO-O5Gzvg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60322264/%E6%9D%B1%E5%BC%B5%E8%A5%BF%E6%9C%9B-%E8%8A%B3%E5%A7%A8%E6%8C%87%E6%8E%A7%E9%83%AD%E7%A7%80%E9%9B%B2-%E5%81%B7%E9%BE%8D%E8%BD%89%E9%B3%B3-%E6%89%A3%E8%B5%B7%E9%B8%9A%E9%B5%A1-%E7%96%91%E5%89%8D%E9%9B%80%E7%BE%A9%E5%B7%A5%E6%90%9E%E4%BA%8B",
-    "timestamp": "2026-02-13T12:54:37.227Z",
     "strategy": ".content-card__main"
   }
 ];
