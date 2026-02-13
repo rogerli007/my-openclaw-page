@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-13T11:21:19.847Z
+// Last updated: 2026-02-13T11:48:45.986Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "非常檢控觀｜吳偉豪游嘉欣開Live逼爆聊天室　貓鼠CP互窒放閃",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260213/1099013456163508224429507.jpeg/h9gWe95zWE8-KUMHQHQOaGSDIgYaoGvnnQMn5Z0DJ-U?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60322141/%E9%9D%9E%E5%B8%B8%E6%AA%A2%E6%8E%A7%E8%A7%80-%E5%90%B3%E5%81%89%E8%B1%AA%E6%B8%B8%E5%98%89%E6%AC%A3%E9%96%8Blive%E9%80%BC%E7%88%86%E8%81%8A%E5%A4%A9%E5%AE%A4-%E8%B2%93%E9%BC%A0cp%E4%BA%92%E7%AA%92%E6%94%BE%E9%96%83",
+    "timestamp": "2026-02-13T11:48:45.986Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "郭俊峯預計四月退休　被問有否打算加入政府：暫時未考慮未來計劃",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260213/1098880645154738176134086.jpeg/HjDCcktfzTpnEsG_sswqOhpRYadRy0C7mJ8PVZifD1U?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60321949/%E5%86%AC%E5%A5%A7-%E7%83%8F%E5%85%8B%E8%98%AD%E9%81%B8%E6%89%8B%E5%9B%A0%E6%82%BC%E5%BF%B5%E5%90%8C%E8%83%9E%E9%A0%AD%E7%9B%94%E9%81%ADdq-%E6%BE%A4%E9%80%A3%E6%96%AF%E5%9F%BA-%E5%8B%87%E6%B0%A3%E6%AF%94%E7%8D%8E%E7%89%8C%E9%87%8D%E8%A6%81",
     "timestamp": "2026-02-13T00:00:03.584Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "麥玲玲偕視帝鄭嘉穎陳山聰逛花市　冧爆十萬粉絲",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260213/1098776910592217088367102.jpeg/_V4YPAQNSnG2NTw2QD-tA5upN7HBDdmYYh-Kn1Qfip8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60321928/%E9%BA%A5%E7%8E%B2%E7%8E%B2%E5%81%95%E8%A6%96%E5%B8%9D%E9%84%AD%E5%98%89%E7%A9%8E%E9%99%B3%E5%B1%B1%E8%81%B0%E9%80%9B%E8%8A%B1%E5%B8%82-%E5%86%A7%E7%88%86%E5%8D%81%E8%90%AC%E7%B2%89%E7%B5%B2",
-    "timestamp": "2026-02-12T23:35:42.951Z",
     "strategy": ".content-card__main"
   }
 ];
