@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-13T22:36:07.115Z
+// Last updated: 2026-02-13T23:02:33.576Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "冬奧運動員精力過剩？　選手村派安全套3日被搶光供貨無期｜有片",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260214/1099233186715537408413597.jpeg/xCWRX9lzmecaG7utNA6SVRGPHs5NyjXefr2jRH69o0Q?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%92%B0%E7%90%83%E8%B6%A3%E8%81%9E/60322329/%E5%86%AC%E5%A5%A7%E9%81%8B%E5%8B%95%E5%93%A1%E7%B2%BE%E5%8A%9B%E9%81%8E%E5%89%A9-%E9%81%B8%E6%89%8B%E6%9D%91%E6%B4%BE%E5%AE%89%E5%85%A8%E5%A5%973%E6%97%A5%E8%A2%AB%E6%90%B6%E5%85%89%E4%BE%9B%E8%B2%A8%E7%84%A1%E6%9C%9F-%E6%9C%89%E7%89%87",
+    "timestamp": "2026-02-13T23:02:33.576Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "【星之谷】置易付成二手樓交易新選項　資金安全迎保障",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260213/1098945263533297664435610.png/fPu_EWDU-60LdsWAERM0Z43hBNYYzwbLvJO1VNaTtVQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E8%A9%B1%E9%A1%8C/60322032/%E6%87%B7%E5%AD%95%E5%A6%BB%E6%8F%AD%E5%A4%AB%E5%81%B7%E9%A3%9F%E5%B2%B3%E6%AF%8D22%E5%B9%B4-%E9%A9%9A%E8%A6%BA3%E5%BC%9F%E6%81%90%E6%98%AF%E8%80%81%E5%85%AC%E9%AA%A8%E8%82%89-%E6%AF%8D%E5%A5%B3%E6%9B%BE%E5%90%8C%E6%99%82%E6%87%B7%E5%AD%95",
     "timestamp": "2026-02-13T14:35:51.303Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "登革熱｜22歲菲律賓女子訪港後6日器官衰竭離世　列輸入個案",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/1759210/org/15f9750da1d0d25eeaa172722907e51e.JPG/G1E-IYCK0kFOx7vNRSGjjr3ZRkKHBJo5C0uz-gtLs_o?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60322297/%E7%99%BB%E9%9D%A9%E7%86%B1-22%E6%AD%B2%E8%8F%B2%E5%BE%8B%E8%B3%93%E5%A5%B3%E5%AD%90%E8%A8%AA%E6%B8%AF%E5%BE%8C6%E6%97%A5%E5%99%A8%E5%AE%98%E8%A1%B0%E7%AB%AD%E9%9B%A2%E4%B8%96-%E5%88%97%E8%BC%B8%E5%85%A5%E5%80%8B%E6%A1%88",
-    "timestamp": "2026-02-13T14:12:12.202Z",
     "strategy": ".content-card__main"
   }
 ];
