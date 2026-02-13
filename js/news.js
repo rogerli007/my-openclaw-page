@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-13T19:26:17.426Z
+// Last updated: 2026-02-13T19:51:54.622Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "特朗普起訴哈佛大學　指控其拒絕提供調查招生紀錄所需文件",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260214/1099175446982955008495178.jpeg/g4vQpZGI-S1ltbDfrVEEDHCneMXjiDWe8aSRVfGkkVU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60322322/%E7%89%B9%E6%9C%97%E6%99%AE%E8%B5%B7%E8%A8%B4%E5%93%88%E4%BD%9B%E5%A4%A7%E5%AD%B8-%E6%8C%87%E6%8E%A7%E5%85%B6%E6%8B%92%E7%B5%95%E6%8F%90%E4%BE%9B%E8%AA%BF%E6%9F%A5%E6%8B%9B%E7%94%9F%E7%B4%80%E9%8C%84%E6%89%80%E9%9C%80%E6%96%87%E4%BB%B6",
+    "timestamp": "2026-02-13T19:51:54.622Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "SpaceX 龍飛船成功升空　將4名太空人送上國際太空站｜有片",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20240214/834446623026188288136758.jpeg/MVxLvr68hxRNw53uKELfC9B5wl4hlnm9MggwSTIIMEk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60322241/%E5%85%AD%E5%90%88%E5%BD%A9%E6%96%B0%E6%98%A5%E9%87%91%E5%A4%9A%E5%AF%B6-2%E5%84%84%E9%A0%AD%E7%8D%8E%E5%8F%B2%E4%B8%8A%E6%9C%80%E9%AB%98-2-21%E9%96%8B%E7%8D%8E-%E5%8D%B3%E7%9D%875%E5%A4%A7%E6%9C%80%E6%97%BA%E8%99%9F%E7%A2%BC",
     "timestamp": "2026-02-13T10:53:05.402Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "非常檢控觀｜丘梓謙認罪哭戲大爆演技　擺脫大細路形象獲網民激讚",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260213/1098991076166864896381624.jpeg/0KhR1guHGSnxfEDdkKdV4GuxzW_eqiZsb1ndmW9Z3Zk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60322105/%E9%9D%9E%E5%B8%B8%E6%AA%A2%E6%8E%A7%E8%A7%80-%E4%B8%98%E6%A2%93%E8%AC%99%E8%AA%8D%E7%BD%AA%E5%93%AD%E6%88%B2%E5%A4%A7%E7%88%86%E6%BC%94%E6%8A%80-%E6%93%BA%E8%84%AB%E5%A4%A7%E7%B4%B0%E8%B7%AF%E5%BD%A2%E8%B1%A1%E7%8D%B2%E7%B6%B2%E6%B0%91%E6%BF%80%E8%AE%9A",
-    "timestamp": "2026-02-13T10:24:38.020Z",
     "strategy": ".content-card__main"
   }
 ];
