@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-13T16:53:50.692Z
+// Last updated: 2026-02-13T17:26:31.363Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "警深水埗搗釣魚機賭檔　6人被捕",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260214/1099146068953665536812375.jpeg/ULKGqzjxeNEJfjMZfASOQgvbEnmwavXO3mLGHN5ixhw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60322316/%E8%AD%A6%E6%B7%B1%E6%B0%B4%E5%9F%97%E6%90%97%E9%87%A3%E9%AD%9A%E6%A9%9F%E8%B3%AD%E6%AA%94-6%E4%BA%BA%E8%A2%AB%E6%8D%95",
+    "timestamp": "2026-02-13T17:26:31.363Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "日本扣押一艘中國漁船並逮捕船長　日媒：晚上已獲釋",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260213/1098984376093380608316280.jpeg/AHrS1xGqHgTEcXgaWaRe9qiCskBnurUqUJwu21CcLts?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60322089/%E5%85%A7%E5%9C%B0ai%E6%83%A1%E6%90%9E%E7%89%87-%E8%B6%85%E4%BA%BA%E7%97%9B%E6%AF%86%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97-%E5%BC%95%E6%97%A5%E6%9C%AC%E7%B6%B2%E6%B0%91%E8%BD%9F-%E7%89%88%E6%AC%8A%E5%95%86%E5%87%BA%E6%89%8B%E6%AA%A2%E8%88%89",
     "timestamp": "2026-02-13T08:24:47.226Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "最新研究：近90%特朗普關稅成本由美國消費者和企業承擔",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260213/1098978084108898304496723.jpeg/cLxPBzJvOoUVYhOudmcA-QHTiovsL2TsHsrMbh7KzG4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60322068/%E6%9C%80%E6%96%B0%E7%A0%94%E7%A9%B6-%E8%BF%9190-%E7%89%B9%E6%9C%97%E6%99%AE%E9%97%9C%E7%A8%85%E6%88%90%E6%9C%AC%E7%94%B1%E7%BE%8E%E5%9C%8B%E6%B6%88%E8%B2%BB%E8%80%85%E5%92%8C%E4%BC%81%E6%A5%AD%E6%89%BF%E6%93%94",
-    "timestamp": "2026-02-13T07:55:14.998Z",
     "strategy": ".content-card__main"
   }
 ];
