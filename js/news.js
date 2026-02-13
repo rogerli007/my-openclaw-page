@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-13T15:34:11.145Z
+// Last updated: 2026-02-13T15:58:08.105Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "生蠔食物中毒｜酒店低調變招轉食蟹　有蠔店稱法國直運不涉供應商",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260210/1098026061717049344934286.jpeg/Rmtz31YR0Rm1pwz-U4dEn1siBK7wgUt6gsIMEoLCDBI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60322237/%E7%94%9F%E8%A0%94%E9%A3%9F%E7%89%A9%E4%B8%AD%E6%AF%92-%E9%85%92%E5%BA%97%E4%BD%8E%E8%AA%BF%E8%AE%8A%E6%8B%9B%E8%BD%89%E9%A3%9F%E8%9F%B9-%E6%9C%89%E8%A0%94%E5%BA%97%E7%A8%B1%E6%B3%95%E5%9C%8B%E7%9B%B4%E9%81%8B%E4%B8%8D%E6%B6%89%E4%BE%9B%E6%87%89%E5%95%86",
+    "timestamp": "2026-02-13T15:58:08.105Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "跨部門大角咀和九龍灣搗2個非法加油站　3人被捕",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260213/1098984444548616192564218.jpeg/iMyoCuLkA_XtIyfAvBoRZ1R44P-YpCywz20kkM9tJJA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60322109/%E6%9D%8E%E5%AE%B6%E8%AA%A0%E5%91%8A%E5%91%A8%E7%A7%80%E5%A8%9C-%E8%81%B2%E6%98%8E%E6%8F%90%E5%88%B0%E4%B8%80%E9%97%9C%E9%8D%B5%E6%99%82%E9%96%93-%E4%BD%BF%E6%9D%8E%E8%AA%8D%E7%82%BA%E4%BA%8B%E6%83%85%E5%B7%B2%E8%B6%85%E5%90%88%E7%90%86%E7%95%8C%E7%B7%9A",
     "timestamp": "2026-02-13T06:59:53.785Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "漸進鏡｜編輯體驗配鏡七大流程：量身訂製個人化眼鏡、老花也能配",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260213/1098964142485671936567329.jpeg/amAuvO4OtEqGHnSBsJy1C5bOnt41HaC9oEQdKaBEHSk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/60317339/%E6%BC%B8%E9%80%B2%E9%8F%A1-%E7%B7%A8%E8%BC%AF%E9%AB%94%E9%A9%97%E9%85%8D%E9%8F%A1%E4%B8%83%E5%A4%A7%E6%B5%81%E7%A8%8B-%E9%87%8F%E8%BA%AB%E8%A8%82%E8%A3%BD%E5%80%8B%E4%BA%BA%E5%8C%96%E7%9C%BC%E9%8F%A1-%E8%80%81%E8%8A%B1%E4%B9%9F%E8%83%BD%E9%85%8D",
-    "timestamp": "2026-02-13T06:34:03.622Z",
     "strategy": ".content-card__main"
   }
 ];
