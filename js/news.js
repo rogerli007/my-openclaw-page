@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-13T01:22:36.266Z
+// Last updated: 2026-02-13T02:25:15.519Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "人民幣偏軟　離岸價跌62點　回落至6.9以下",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260212/1098546853290446848128435.jpeg/yd-kbiXd4fwamnimhKs7szDTF4Sz6bGRHDqlDhw6pQ4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60321981/%E4%BA%BA%E6%B0%91%E5%B9%A3%E5%81%8F%E8%BB%9F-%E9%9B%A2%E5%B2%B8%E5%83%B9%E8%B7%8C62%E9%BB%9E-%E5%9B%9E%E8%90%BD%E8%87%B36-9%E4%BB%A5%E4%B8%8B",
+    "timestamp": "2026-02-13T02:25:15.519Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "人行今日進行1萬億人民幣買斷式逆回購　專家料短期內降準機會減",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260213/1098780245252640768047361.jpeg/2rhz42oc1eVLNdVhtEAE_U83o2-7PyCbknSAQZJ0gEE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60321931/%E7%89%B9%E6%9C%97%E6%99%AE%E9%82%8A%E5%A2%83%E6%B2%99%E7%9A%87-%E5%B0%87%E7%B5%90%E6%9D%9F%E5%9C%A8%E6%98%8E%E5%B0%BC%E8%98%87%E9%81%94%E6%89%93%E6%93%8A%E9%9D%9E%E6%B3%95%E7%A7%BB%E6%B0%91%E5%9F%B7%E6%B3%95%E8%A1%8C%E5%8B%95",
     "timestamp": "2026-02-12T17:14:23.552Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "Sony WF-1000XM6藍牙耳機$2599開售：QN3e晶片降噪進化值得升級嗎",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260212/1098705334433746944853762.png/Rbt-CXDlTwdAecS0auKWM_mV6dyaK6KZdrd5NXa3eTU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60321855/sony-wf-1000xm6%E8%97%8D%E7%89%99%E8%80%B3%E6%A9%9F-2599%E9%96%8B%E5%94%AE-qn3e%E6%99%B6%E7%89%87%E9%99%8D%E5%99%AA%E9%80%B2%E5%8C%96%E5%80%BC%E5%BE%97%E5%8D%87%E7%B4%9A%E5%97%8E",
-    "timestamp": "2026-02-12T16:42:10.077Z",
     "strategy": ".content-card__main"
   }
 ];
