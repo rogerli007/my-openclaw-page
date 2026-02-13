@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-13T10:24:38.020Z
+// Last updated: 2026-02-13T10:53:05.402Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "六合彩新春金多寶｜2億頭獎史上最高　2.21開獎　即睇5大最旺號碼",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20240214/834446623026188288136758.jpeg/MVxLvr68hxRNw53uKELfC9B5wl4hlnm9MggwSTIIMEk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60322241/%E5%85%AD%E5%90%88%E5%BD%A9%E6%96%B0%E6%98%A5%E9%87%91%E5%A4%9A%E5%AF%B6-2%E5%84%84%E9%A0%AD%E7%8D%8E%E5%8F%B2%E4%B8%8A%E6%9C%80%E9%AB%98-2-21%E9%96%8B%E7%8D%8E-%E5%8D%B3%E7%9D%875%E5%A4%A7%E6%9C%80%E6%97%BA%E8%99%9F%E7%A2%BC",
+    "timestamp": "2026-02-13T10:53:05.402Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "非常檢控觀｜丘梓謙認罪哭戲大爆演技　擺脫大細路形象獲網民激讚",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260210/1098019077999300608790358.jpeg/ovci_4X-wtN9g-GUs41BUXvLYLtk_ctAjhVI8I4VSPA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60320827/%E5%B0%8F%E7%B1%B3xiaomi%E6%99%BA%E8%83%BD%E8%AE%8A%E9%A0%BB%E6%8A%BD%E6%BF%95%E6%A9%9F%E4%B8%80%E9%80%B1%E5%AF%A6%E6%B8%AC-%E5%BF%AB%E9%80%9F%E6%8A%BD%E6%BF%95-%E6%99%BA%E6%85%A7%E6%8E%A7%E6%BF%95%E6%A5%B5%E5%AF%A7%E9%9D%9C",
     "timestamp": "2026-02-12T23:17:52.085Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "TVB一線藝人「自救」接連外闖謀出路　力捧小生東莞榮升「老總」",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260212/1098709783344582656268734.jpeg/zblToN571cdi4bH6YzaHMkFopHDXo7vrpu4ISabuCEk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60321788/tvb%E4%B8%80%E7%B7%9A%E8%97%9D%E4%BA%BA%E6%8E%A5%E9%80%A3%E5%A4%96%E9%97%96-%E8%87%AA%E6%95%91-%E8%AC%80%E5%87%BA%E8%B7%AF-%E5%8A%9B%E6%8D%A7%E5%B0%8F%E7%94%9F%E6%9D%B1%E8%8E%9E%E6%A6%AE%E5%8D%87-%E8%80%81%E7%B8%BD",
-    "timestamp": "2026-02-12T23:01:42.489Z",
     "strategy": ".content-card__main"
   }
 ];
