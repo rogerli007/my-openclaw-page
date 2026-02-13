@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-12T23:35:42.951Z
+// Last updated: 2026-02-13T00:00:03.584Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "冬奧｜烏克蘭選手因悼念同胞頭盔遭DQ　澤連斯基：勇氣比獎牌重要",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260213/1098880645154738176134086.jpeg/HjDCcktfzTpnEsG_sswqOhpRYadRy0C7mJ8PVZifD1U?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60321949/%E5%86%AC%E5%A5%A7-%E7%83%8F%E5%85%8B%E8%98%AD%E9%81%B8%E6%89%8B%E5%9B%A0%E6%82%BC%E5%BF%B5%E5%90%8C%E8%83%9E%E9%A0%AD%E7%9B%94%E9%81%ADdq-%E6%BE%A4%E9%80%A3%E6%96%AF%E5%9F%BA-%E5%8B%87%E6%B0%A3%E6%AF%94%E7%8D%8E%E7%89%8C%E9%87%8D%E8%A6%81",
+    "timestamp": "2026-02-13T00:00:03.584Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "麥玲玲偕視帝鄭嘉穎陳山聰逛花市　冧爆十萬粉絲",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260212/1098757714609180672713628.jpeg/fPsAXkdbVMj7mzyfNlHr6aU9mvdD9EC7yKa3Qsimt0I?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60321910/%E6%97%A5%E6%98%87%E5%B0%8F%E9%A3%9F%E9%9F%AD%E8%8F%9C%E9%A4%85%E8%A7%80%E5%A1%98%E5%B9%B4%E5%AE%B5%E5%B8%82%E5%A0%B4%E8%B3%A3%E8%B2%B4%E9%80%BE%E4%B8%80%E5%80%8D-%E8%80%81%E9%97%86%E9%96%8B%E5%8F%A3%E8%A7%A3%E9%87%8B3%E4%BB%B6-50%E5%8E%9F%E5%9B%A0",
     "timestamp": "2026-02-12T15:39:56.940Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "80年代知名童星變珠海樓神　拍片踢爆內地「水魚盤」專呃港人",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260212/1098621238231699456706245.jpeg/JogWfFz89P05vBI38uKfuNjQeXEE5n4xsNjnM7DY5zM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60321665/80%E5%B9%B4%E4%BB%A3%E7%9F%A5%E5%90%8D%E7%AB%A5%E6%98%9F%E8%AE%8A%E7%8F%A0%E6%B5%B7%E6%A8%93%E7%A5%9E-%E6%8B%8D%E7%89%87%E8%B8%A2%E7%88%86%E5%85%A7%E5%9C%B0-%E6%B0%B4%E9%AD%9A%E7%9B%A4-%E5%B0%88%E5%91%83%E6%B8%AF%E4%BA%BA",
-    "timestamp": "2026-02-12T15:10:48.656Z",
     "strategy": ".content-card__main"
   }
 ];
