@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-13T17:26:31.363Z
+// Last updated: 2026-02-13T17:51:42.862Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "警深水埗搗釣魚機賭檔　6人被捕",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260214/1099146068953665536812375.jpeg/ULKGqzjxeNEJfjMZfASOQgvbEnmwavXO3mLGHN5ixhw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60322316/%E8%AD%A6%E6%B7%B1%E6%B0%B4%E5%9F%97%E6%90%97%E9%87%A3%E9%AD%9A%E6%A9%9F%E8%B3%AD%E6%AA%94-6%E4%BA%BA%E8%A2%AB%E6%8D%95",
+    "timestamp": "2026-02-13T17:51:42.862Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "警深水埗搗釣魚機賭檔　6人被捕",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20241123/937038163539398656482061.jpeg/ic1FmTx3LgBP04PxzeQyZIpqXnFA9kPiET4aqxE-Gqs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E5%A8%9B%E6%A8%82/60321799/%E7%82%8E%E4%BA%9E%E7%B6%B8%E9%A9%9A%E7%88%86%E9%81%AD%E9%A3%9B%E8%BC%AA%E6%B5%B7%E5%85%A8%E5%93%A1%E6%80%A7%E9%A8%B7%E6%93%BE-%E5%90%B3%E5%B0%8A%E6%B1%AA%E6%9D%B1%E5%9F%8E%E4%BC%B8%E6%89%8B%E5%85%A5%E8%A4%B2%E6%91%B8%E4%B8%8B%E9%AB%94%E7%95%B6%E9%81%8A%E6%88%B2",
     "timestamp": "2026-02-13T08:53:17.615Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "內地AI惡搞片「超人痛毆高市早苗」引日本網民轟　版權商出手檢舉",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260213/1098984376093380608316280.jpeg/AHrS1xGqHgTEcXgaWaRe9qiCskBnurUqUJwu21CcLts?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60322089/%E5%85%A7%E5%9C%B0ai%E6%83%A1%E6%90%9E%E7%89%87-%E8%B6%85%E4%BA%BA%E7%97%9B%E6%AF%86%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97-%E5%BC%95%E6%97%A5%E6%9C%AC%E7%B6%B2%E6%B0%91%E8%BD%9F-%E7%89%88%E6%AC%8A%E5%95%86%E5%87%BA%E6%89%8B%E6%AA%A2%E8%88%89",
-    "timestamp": "2026-02-13T08:24:47.226Z",
     "strategy": ".content-card__main"
   }
 ];
