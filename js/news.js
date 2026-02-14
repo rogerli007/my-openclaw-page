@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-14T09:01:39.767Z
+// Last updated: 2026-02-14T09:18:59.609Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "深水埗警打擊「搵快錢」拘59人最細17歲　捲盜竊詐騙等案涉$407萬",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260214/1099382104937992192162493.jpeg/5l1HS2WKWN3qTEkvrBoT6hO4QQC6J80xbmbiO25m4js?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60322462/%E6%B7%B1%E6%B0%B4%E5%9F%97%E8%AD%A6%E6%89%93%E6%93%8A-%E6%90%B5%E5%BF%AB%E9%8C%A2-%E6%8B%9859%E4%BA%BA%E6%9C%80%E7%B4%B017%E6%AD%B2-%E6%8D%B2%E7%9B%9C%E7%AB%8A%E8%A9%90%E9%A8%99%E7%AD%89%E6%A1%88%E6%B6%89-407%E8%90%AC",
+    "timestamp": "2026-02-14T09:18:59.609Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "11年前TVB新聞「陰謀男」自爆買兩扎花　適逢情人節網民又鞭屍！",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260205/1095948436613632000968531.png/YRTqMSLe8DQ_iP8_IrbGdr2-seAddEBaoRb2z6EW9s8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E8%A9%B1%E9%A1%8C/60319386/%E5%B7%B2%E5%A9%9A%E5%89%AF%E6%95%99%E6%8E%88%E7%B4%84%E5%A5%B3%E8%88%8A%E7%94%9F%E7%9C%8B%E5%A4%9C%E6%99%AF-%E8%BB%8A%E5%85%A7%E5%BC%B7%E6%8A%B1%E7%8B%82%E5%90%BB-%E5%A5%B9%E5%B4%A9%E6%BD%B0%E5%A0%B1%E8%AD%A6%E6%8B%92%E5%92%8C%E8%A7%A3",
     "timestamp": "2026-02-13T23:20:41.768Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "冬奧運動員精力過剩？　選手村派安全套3日被搶光供貨無期｜有片",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260214/1099233186715537408413597.jpeg/xCWRX9lzmecaG7utNA6SVRGPHs5NyjXefr2jRH69o0Q?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%92%B0%E7%90%83%E8%B6%A3%E8%81%9E/60322329/%E5%86%AC%E5%A5%A7%E9%81%8B%E5%8B%95%E5%93%A1%E7%B2%BE%E5%8A%9B%E9%81%8E%E5%89%A9-%E9%81%B8%E6%89%8B%E6%9D%91%E6%B4%BE%E5%AE%89%E5%85%A8%E5%A5%973%E6%97%A5%E8%A2%AB%E6%90%B6%E5%85%89%E4%BE%9B%E8%B2%A8%E7%84%A1%E6%9C%9F-%E6%9C%89%E7%89%87",
-    "timestamp": "2026-02-13T23:02:33.576Z",
     "strategy": ".content-card__main"
   }
 ];
