@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-14T11:30:42.923Z
+// Last updated: 2026-02-14T11:44:46.533Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "農曆新年｜龍寶酒家年糕券佐敦店拒換　店員：印券時未開業",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260214/1099410121504591872486317.jpeg/guDctILW4OveMRdjFc1KX2-lD5b3f19dcjFnd1cxZ3c?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60322491/%E8%BE%B2%E6%9B%86%E6%96%B0%E5%B9%B4-%E9%BE%8D%E5%AF%B6%E9%85%92%E5%AE%B6%E5%B9%B4%E7%B3%95%E5%88%B8%E4%BD%90%E6%95%A6%E5%BA%97%E6%8B%92%E6%8F%9B-%E5%BA%97%E5%93%A1-%E5%8D%B0%E5%88%B8%E6%99%82%E6%9C%AA%E9%96%8B%E6%A5%AD",
+    "timestamp": "2026-02-14T11:44:46.533Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "Hi MIRO! Garden Party 2026香港｜門票攻略＋購票連結＋座位表",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260214/1099306798822723584138705.png/yUp2KpdzyM59cUhsB22MAnZuzYQnVVBSLy0Wqi8tFqo",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60322380/%E6%9C%89%E7%89%87-%E7%B4%85%E7%A3%A1%E9%A3%9F%E5%BA%97%E6%94%B6%E8%88%96%E7%84%A1%E9%96%82%E9%96%98%E8%80%81%E9%BC%A0%E6%A9%AB%E8%A1%8C-%E6%9D%B1%E4%B8%BB%E7%A8%B1%E8%85%B0%E5%82%B7%E9%9B%A3%E8%90%BD%E9%96%98-%E6%9C%83%E6%90%B5%E6%BB%85%E8%9F%B2",
     "timestamp": "2026-02-14T05:04:10.110Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "AI泡沬論｜亞馬遜九連跌！　繼微軟後成第二家跌入熊市的七巨頭",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20251226/1081172119754117120359120.jpeg/yU5zjtMzo_cvk6fvI9pJkhCfyD_Nuui7zbz4ps28-KY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60322392/ai%E6%B3%A1%E6%B2%AC%E8%AB%96-%E4%BA%9E%E9%A6%AC%E9%81%9C%E4%B9%9D%E9%80%A3%E8%B7%8C-%E7%B9%BC%E5%BE%AE%E8%BB%9F%E5%BE%8C%E6%88%90%E7%AC%AC%E4%BA%8C%E5%AE%B6%E8%B7%8C%E5%85%A5%E7%86%8A%E5%B8%82%E7%9A%84%E4%B8%83%E5%B7%A8%E9%A0%AD",
-    "timestamp": "2026-02-14T04:28:22.811Z",
     "strategy": ".content-card__main"
   }
 ];
