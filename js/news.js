@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-14T11:44:46.533Z
+// Last updated: 2026-02-14T11:56:46.712Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "高市早苗類風濕關節炎病情惡化赴醫院檢查　兩根手指關節變形",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260208/1097005171679956992609721.jpeg/vA9o_YFAnvAY1MwgHuOc1Gkm5TvKtADCwa4BZcGuAWU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60322507/%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E9%A1%9E%E9%A2%A8%E6%BF%95%E9%97%9C%E7%AF%80%E7%82%8E%E7%97%85%E6%83%85%E6%83%A1%E5%8C%96%E8%B5%B4%E9%86%AB%E9%99%A2%E6%AA%A2%E6%9F%A5-%E5%85%A9%E6%A0%B9%E6%89%8B%E6%8C%87%E9%97%9C%E7%AF%80%E8%AE%8A%E5%BD%A2",
+    "timestamp": "2026-02-14T11:56:46.712Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "農曆新年｜龍寶酒家年糕券佐敦店拒換　店員：印券時未開業",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250808/1030540295923568640482069.png/ggH2R_ZLsb8aTAciXuBvEQ_fFsjrl9lQjD80b4w_NG8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60322403/%E4%BB%A5%E8%BB%8D%E7%B8%BD%E5%8F%83%E8%AC%80%E9%95%B7-%E8%A7%A3%E9%99%A4%E5%93%88%E9%A6%AC%E6%96%AF%E6%AD%A6%E8%A3%9D%E7%9B%AE%E6%A8%99%E4%B8%8D%E8%AE%8A",
     "timestamp": "2026-02-14T05:31:46.462Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "有片｜紅磡食店收舖無閂閘老鼠橫行　東主稱腰傷難落閘：會搵滅蟲",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260214/1099306798822723584138705.png/yUp2KpdzyM59cUhsB22MAnZuzYQnVVBSLy0Wqi8tFqo",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60322380/%E6%9C%89%E7%89%87-%E7%B4%85%E7%A3%A1%E9%A3%9F%E5%BA%97%E6%94%B6%E8%88%96%E7%84%A1%E9%96%82%E9%96%98%E8%80%81%E9%BC%A0%E6%A9%AB%E8%A1%8C-%E6%9D%B1%E4%B8%BB%E7%A8%B1%E8%85%B0%E5%82%B7%E9%9B%A3%E8%90%BD%E9%96%98-%E6%9C%83%E6%90%B5%E6%BB%85%E8%9F%B2",
-    "timestamp": "2026-02-14T05:04:10.110Z",
     "strategy": ".content-card__main"
   }
 ];
