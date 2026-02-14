@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-14T09:18:59.609Z
+// Last updated: 2026-02-14T09:36:55.005Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "警新界南捉交通違規拘9人涉販毒醉駕　另揭128車超速扣查15改裝車",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260214/1099388464786313216749316.jpeg/13U54QWVRPVHnuSX8tgKvqYdoGPYs86DU4w7s1OMO7M?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60322470/%E8%AD%A6%E6%96%B0%E7%95%8C%E5%8D%97%E6%8D%89%E4%BA%A4%E9%80%9A%E9%81%95%E8%A6%8F%E6%8B%989%E4%BA%BA%E6%B6%89%E8%B2%A9%E6%AF%92%E9%86%89%E9%A7%95-%E5%8F%A6%E6%8F%AD128%E8%BB%8A%E8%B6%85%E9%80%9F%E6%89%A3%E6%9F%A515%E6%94%B9%E8%A3%9D%E8%BB%8A",
+    "timestamp": "2026-02-14T09:36:55.005Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "深水埗警打擊「搵快錢」拘59人最細17歲　捲盜竊詐騙等案涉$407萬",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260205/1095948436613632000968531.png/YRTqMSLe8DQ_iP8_IrbGdr2-seAddEBaoRb2z6EW9s8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E8%A9%B1%E9%A1%8C/60319386/%E5%B7%B2%E5%A9%9A%E5%89%AF%E6%95%99%E6%8E%88%E7%B4%84%E5%A5%B3%E8%88%8A%E7%94%9F%E7%9C%8B%E5%A4%9C%E6%99%AF-%E8%BB%8A%E5%85%A7%E5%BC%B7%E6%8A%B1%E7%8B%82%E5%90%BB-%E5%A5%B9%E5%B4%A9%E6%BD%B0%E5%A0%B1%E8%AD%A6%E6%8B%92%E5%92%8C%E8%A7%A3",
     "timestamp": "2026-02-13T23:48:51.970Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "已婚副教授約女舊生看夜景！車內強抱狂吻　她崩潰報警拒和解",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260205/1095948436613632000968531.png/YRTqMSLe8DQ_iP8_IrbGdr2-seAddEBaoRb2z6EW9s8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E8%A9%B1%E9%A1%8C/60319386/%E5%B7%B2%E5%A9%9A%E5%89%AF%E6%95%99%E6%8E%88%E7%B4%84%E5%A5%B3%E8%88%8A%E7%94%9F%E7%9C%8B%E5%A4%9C%E6%99%AF-%E8%BB%8A%E5%85%A7%E5%BC%B7%E6%8A%B1%E7%8B%82%E5%90%BB-%E5%A5%B9%E5%B4%A9%E6%BD%B0%E5%A0%B1%E8%AD%A6%E6%8B%92%E5%92%8C%E8%A7%A3",
-    "timestamp": "2026-02-13T23:20:41.768Z",
     "strategy": ".content-card__main"
   }
 ];
