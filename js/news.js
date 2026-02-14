@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-14T10:31:11.642Z
+// Last updated: 2026-02-14T10:50:09.386Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "從美國洛杉磯攜$1400萬可卡因抵港　27歲男商人機場被捕",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260214/1099411194445303808630985.jpeg/RpaNbUO58J6sxYUn7Cg23md7o2Zf4stxOFaEDThWhA0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60322493/%E5%BE%9E%E7%BE%8E%E5%9C%8B%E6%B4%9B%E6%9D%89%E7%A3%AF%E6%94%9C-1400%E8%90%AC%E5%8F%AF%E5%8D%A1%E5%9B%A0%E6%8A%B5%E6%B8%AF-27%E6%AD%B2%E7%94%B7%E5%95%86%E4%BA%BA%E6%A9%9F%E5%A0%B4%E8%A2%AB%E6%8D%95",
+    "timestamp": "2026-02-14T10:50:09.386Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "慕尼黑安全會議登場　「舊世界秩序已死」彰顯歐美分歧抑或共識？",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20251114/1066095378056613888398524.jpeg/C3f-6TnSqkZW3mm-8Ta6JeBxyBd0qd5DSEOc9UhDnPU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60322350/%E8%8D%B7%E8%98%AD%E6%B3%95%E9%99%A2%E6%9F%A5%E5%AE%89%E4%B8%96%E5%8D%8A%E5%B0%8E%E9%AB%94-%E4%B8%AD%E5%9C%8B%E5%95%86%E5%8B%99%E9%83%A8-%E5%8D%8A%E5%B0%8E%E9%AB%94%E4%BE%9B%E6%87%89%E9%8F%88%E7%A9%A9%E5%AE%9A%E6%98%AF%E7%95%B6%E5%8B%99%E4%B9%8B%E6%80%A5",
     "timestamp": "2026-02-14T02:44:58.758Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "有片｜「年獸」提早拜年？山西高速驚現非洲幼獅　園方已領回",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260213/1098981265027108864760342.jpeg/XWGcP4DoADCbrgbHL-_L1IZtX2JmyGAHdTc3fHU3N3w",
-    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60322085/%E6%9C%89%E7%89%87-%E5%B9%B4%E7%8D%B8-%E6%8F%90%E6%97%A9%E6%8B%9C%E5%B9%B4-%E5%B1%B1%E8%A5%BF%E9%AB%98%E9%80%9F%E9%A9%9A%E7%8F%BE%E9%9D%9E%E6%B4%B2%E5%B9%BC%E7%8D%85-%E5%9C%92%E6%96%B9%E5%B7%B2%E9%A0%98%E5%9B%9E",
-    "timestamp": "2026-02-14T01:43:57.229Z",
     "strategy": ".content-card__main"
   }
 ];
