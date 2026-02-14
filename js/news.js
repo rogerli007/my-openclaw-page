@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-14T10:50:09.386Z
+// Last updated: 2026-02-14T11:13:47.269Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "張振朗提楊偲泳即「冧滋滋」　唔介意女友性感大膽演出力撐好專業",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260214/1099417753401430016685104.jpeg/Q3C9fAlObG4y_ppNxhEQXzpJ_T2s4fk8Uxlo-WYZaPk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60322501/%E5%BC%B5%E6%8C%AF%E6%9C%97%E6%8F%90%E6%A5%8A%E5%81%B2%E6%B3%B3%E5%8D%B3-%E5%86%A7%E6%BB%8B%E6%BB%8B-%E5%94%94%E4%BB%8B%E6%84%8F%E5%A5%B3%E5%8F%8B%E6%80%A7%E6%84%9F%E5%A4%A7%E8%86%BD%E6%BC%94%E5%87%BA%E5%8A%9B%E6%92%90%E5%A5%BD%E5%B0%88%E6%A5%AD",
+    "timestamp": "2026-02-14T11:13:47.269Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "從美國洛杉磯攜$1400萬可卡因抵港　27歲男商人機場被捕",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260214/1099302696009076736682351.jpeg/OzXB9_Y-OxsXl5_B4DMbLrbPg2Pr-oX5b2s3Sm9rN0o?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60322376/%E9%A3%9F%E7%92%B0%E7%BD%B2%E7%BD%B2%E9%95%B7%E9%A6%96%E5%85%AC%E9%96%8B%E8%81%98-%E9%9C%80%E6%94%BF%E6%B2%BB%E8%A7%B8%E8%A6%BA%E5%92%8C%E5%9F%B7%E6%B3%95%E7%B6%93%E9%A9%97-%E8%AC%9D%E5%B1%95%E5%AF%B0%E7%A8%B1%E6%9C%89%E5%8A%A9%E9%9D%A9%E6%96%B0",
     "timestamp": "2026-02-14T03:40:24.145Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "荷蘭法院查安世半導體　中國商務部：半導體供應鏈穩定是當務之急",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20251114/1066095378056613888398524.jpeg/C3f-6TnSqkZW3mm-8Ta6JeBxyBd0qd5DSEOc9UhDnPU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60322350/%E8%8D%B7%E8%98%AD%E6%B3%95%E9%99%A2%E6%9F%A5%E5%AE%89%E4%B8%96%E5%8D%8A%E5%B0%8E%E9%AB%94-%E4%B8%AD%E5%9C%8B%E5%95%86%E5%8B%99%E9%83%A8-%E5%8D%8A%E5%B0%8E%E9%AB%94%E4%BE%9B%E6%87%89%E9%8F%88%E7%A9%A9%E5%AE%9A%E6%98%AF%E7%95%B6%E5%8B%99%E4%B9%8B%E6%80%A5",
-    "timestamp": "2026-02-14T02:44:58.758Z",
     "strategy": ".content-card__main"
   }
 ];
