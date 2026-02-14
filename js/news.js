@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-14T23:01:36.951Z
+// Last updated: 2026-02-14T23:15:34.786Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "台男爬入蝦皮智能櫃「寄自己」　友人嬉笑拍片　官方發聲後續慘了",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260214/1099199257325342720078659.png/YWBNZbq3Sp2nOvm7To25SKVJhy4o9148C8oDgAvKA4A?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60320972/%E5%8F%B0%E7%94%B7%E7%88%AC%E5%85%A5%E8%9D%A6%E7%9A%AE%E6%99%BA%E8%83%BD%E6%AB%83-%E5%AF%84%E8%87%AA%E5%B7%B1-%E5%8F%8B%E4%BA%BA%E5%AC%89%E7%AC%91%E6%8B%8D%E7%89%87-%E5%AE%98%E6%96%B9%E7%99%BC%E8%81%B2%E5%BE%8C%E7%BA%8C%E6%85%98%E4%BA%86",
+    "timestamp": "2026-02-14T23:15:34.786Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "丹麥首相指特朗普仍對格陵蘭死心不息　狠批民眾受壓「不可接受」",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260215/1099520421289529344150683.jpeg/oxeA7UeplZuT3fn5HrJm5SdIT1pHPVTlNE9KqTRPSqk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60322544/%E6%96%BD%E7%B4%80%E8%B3%A2-%E4%B8%8D%E5%86%8D%E6%98%AF%E8%84%AB%E6%AD%90%E6%99%82%E6%9C%9F%E7%9A%84%E8%8B%B1%E5%9C%8B-%E5%B0%87%E6%B4%BE%E8%88%AA%E6%AF%8D%E6%89%93%E6%93%8A%E7%BE%A4%E5%88%B0%E5%8C%97%E6%A5%B5%E9%98%B2%E4%BF%84%E5%A8%81%E8%84%85",
     "timestamp": "2026-02-14T18:17:43.480Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "趙希洛正式封盤情人節上載婚照　神秘男友首次入鏡！",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260215/1099520210584473600593712.jpeg/1i6vmWmoJidAbbb8w5yHhRX9FekxmCtalT-ihJU_ooQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60322543/%E8%B6%99%E5%B8%8C%E6%B4%9B%E6%AD%A3%E5%BC%8F%E5%B0%81%E7%9B%A4%E6%83%85%E4%BA%BA%E7%AF%80%E4%B8%8A%E8%BC%89%E5%A9%9A%E7%85%A7-%E7%A5%9E%E7%A7%98%E7%94%B7%E5%8F%8B%E9%A6%96%E6%AC%A1%E5%85%A5%E9%8F%A1",
-    "timestamp": "2026-02-14T18:00:21.622Z",
     "strategy": ".content-card__main"
   }
 ];
