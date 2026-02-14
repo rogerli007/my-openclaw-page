@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-14T10:00:00.333Z
+// Last updated: 2026-02-14T10:14:32.828Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "土瓜灣街坊二手雪櫃賣$400！殼殘兼要搬樓梯　網民：清垃圾要講明",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260214/1099196628968935424208641.png/QJK_ndXDQVddozzjDzEK8z8yG4jL-EvvCDt5ngg7eZ4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60322000/%E5%9C%9F%E7%93%9C%E7%81%A3%E8%A1%97%E5%9D%8A%E4%BA%8C%E6%89%8B%E9%9B%AA%E6%AB%83%E8%B3%A3-400-%E6%AE%BC%E6%AE%98%E5%85%BC%E8%A6%81%E6%90%AC%E6%A8%93%E6%A2%AF-%E7%B6%B2%E6%B0%91-%E6%B8%85%E5%9E%83%E5%9C%BE%E8%A6%81%E8%AC%9B%E6%98%8E",
+    "timestamp": "2026-02-14T10:14:32.828Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "長沙爆紅奶茶店茶顏悅色將入駐深圳　首批門店預四月底營業",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260213/1098977531664535552427063.jpeg/aXsFhhUe7e1v62orR-p1RBZNqHa-XI4sKq6V3yquld8",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60321337/47%E6%AD%B2%E5%B0%8F%E9%9B%AAk%E6%88%BF%E6%85%B6%E7%94%9F%E5%94%B1%E6%AD%8C%E4%BE%9D%E7%84%B6%E5%A5%BD%E8%81%BD-%E6%A8%A3%E8%B2%8C%E5%94%94%E8%AD%98%E8%80%81%E5%B0%91%E5%A5%B3%E5%91%B3%E5%8D%81%E8%B6%B3",
     "timestamp": "2026-02-14T00:52:19.016Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "羅浮宮又出事？　展廳漏水導致19世紀天花板壁畫受損",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260214/1099244034649493504875293.jpeg/UHFUjYMc_DbuIy0eYuNfo1jZGzWV8svMkoYVBZKGFQU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60322331/%E7%BE%85%E6%B5%AE%E5%AE%AE%E5%8F%88%E5%87%BA%E4%BA%8B-%E5%B1%95%E5%BB%B3%E6%BC%8F%E6%B0%B4%E5%B0%8E%E8%87%B419%E4%B8%96%E7%B4%80%E5%A4%A9%E8%8A%B1%E6%9D%BF%E5%A3%81%E7%95%AB%E5%8F%97%E6%90%8D",
-    "timestamp": "2026-02-14T00:02:07.045Z",
     "strategy": ".content-card__main"
   }
 ];
