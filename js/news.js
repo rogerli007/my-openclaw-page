@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-14T13:37:57.961Z
+// Last updated: 2026-02-14T14:02:32.688Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "冬奧｜赴米蘭為國家隊打氣　44歲男子潛逃16年後落網",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260214/1099460880703164416869573.jpeg/BXla6xWh05KgkSLVGOPas7RhE0o1nkfu1KzQ2tSs0No?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%92%B0%E7%90%83%E8%B6%A3%E8%81%9E/60322525/%E5%86%AC%E5%A5%A7-%E8%B5%B4%E7%B1%B3%E8%98%AD%E7%82%BA%E5%9C%8B%E5%AE%B6%E9%9A%8A%E6%89%93%E6%B0%A3-44%E6%AD%B2%E7%94%B7%E5%AD%90%E6%BD%9B%E9%80%8316%E5%B9%B4%E5%BE%8C%E8%90%BD%E7%B6%B2",
+    "timestamp": "2026-02-14T14:02:32.688Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "丁子朗為炫富風波解畫　澄清為宣傳節目考慮不周：作出戰略性調整",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260214/1099344792971644928613749.png/adF0unzfyB8VB-s04zyXW6zw1A5A2pNNjaOjeY2jo3k?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60322411/%E6%84%9B-%E5%9B%9E%E5%AE%B6-%E9%9D%9A%E4%BB%94%E5%B0%8F%E7%94%9F%E9%A9%9A%E5%82%B3%E5%85%A5%E9%99%A2-%E6%9B%BE%E6%8A%95%E8%B3%87%E4%B8%83%E4%BD%8D%E6%95%B8%E5%8C%97%E4%B8%8A%E5%89%B5%E6%A5%AD%E8%AE%8A%E5%B0%8F%E9%A3%9F%E5%A4%A7%E7%8E%8B",
     "timestamp": "2026-02-14T07:49:25.252Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美國土安全部資金耗盡停擺　國會兩黨移民執法談判陷僵局",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20240910/910106838840643584028563.jpeg/PmMMwVmx6pS7PDVRfthg7n9j3GqhK530JBR6FyQUehc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60322423/%E7%BE%8E%E5%9C%8B%E5%9C%9F%E5%AE%89%E5%85%A8%E9%83%A8%E8%B3%87%E9%87%91%E8%80%97%E7%9B%A1%E5%81%9C%E6%93%BA-%E5%9C%8B%E6%9C%83%E5%85%A9%E9%BB%A8%E7%A7%BB%E6%B0%91%E5%9F%B7%E6%B3%95%E8%AB%87%E5%88%A4%E9%99%B7%E5%83%B5%E5%B1%80",
-    "timestamp": "2026-02-14T07:23:46.817Z",
     "strategy": ".content-card__main"
   }
 ];
