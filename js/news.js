@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-14T14:35:42.158Z
+// Last updated: 2026-02-14T14:59:32.517Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "譚輝智首踏沙圈獻唱自爆緊張未開聲　情人節帶埋老婆仔女入馬場玩",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260214/1099453213209268224835076.jpeg/wNmg70X9nM8DAP5Al323iTZ9BQDf6UHYSUYd5XNGHeU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60322524/%E8%AD%9A%E8%BC%9D%E6%99%BA%E9%A6%96%E8%B8%8F%E6%B2%99%E5%9C%88%E7%8D%BB%E5%94%B1%E8%87%AA%E7%88%86%E7%B7%8A%E5%BC%B5%E6%9C%AA%E9%96%8B%E8%81%B2-%E6%83%85%E4%BA%BA%E7%AF%80%E5%B8%B6%E5%9F%8B%E8%80%81%E5%A9%86%E4%BB%94%E5%A5%B3%E5%85%A5%E9%A6%AC%E5%A0%B4%E7%8E%A9",
+    "timestamp": "2026-02-14T14:59:32.517Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "挪威前首相陷醜聞：愛潑斯坦提供住宿資助旅行　欲換搭路見普京",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260214/1099353541161521152521946.jpeg/auPmWpjqOCoK52aneyP8WTb1XGRgc38NXZmUgF2ZlIA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60322421/%E6%96%B9%E5%8A%9B%E7%94%B3%E5%9B%A1%E5%9B%A1%E6%89%93%E9%87%9D%E9%80%A3%E7%92%B0%E8%A2%AB%E6%8B%AE%E7%88%86%E5%96%8A%E6%8A%96%E4%B8%8D%E5%88%B0%E6%B0%A3-%E9%A6%96%E5%80%8B%E6%83%85%E4%BA%BA%E7%AF%80%E4%B8%80%E5%8E%9F%E5%9B%A0%E6%8D%89%E5%AF%A6%E7%88%B8%E7%88%B8",
     "timestamp": "2026-02-14T08:37:43.857Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "學界籃球精英賽｜馮氏孖妹領港同吞慘敗　意義超勝負圓滿中學生涯",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260214/1099373414453350400257381.jpeg/hH3zPWqBWPAJH7DH22wkmDDX0NRKXFp1l57m3pee5t4?v=w1920r16_9",
-    "url": "https://www.hk01.com/Jumper/60322349/%E5%AD%B8%E7%95%8C%E7%B1%83%E7%90%83%E7%B2%BE%E8%8B%B1%E8%B3%BD-%E9%A6%AE%E6%B0%8F%E5%AD%96%E5%A6%B9%E9%A0%98%E6%B8%AF%E5%90%8C%E5%90%9E%E6%85%98%E6%95%97-%E6%84%8F%E7%BE%A9%E8%B6%85%E5%8B%9D%E8%B2%A0%E5%9C%93%E6%BB%BF%E4%B8%AD%E5%AD%B8%E7%94%9F%E6%B6%AF",
-    "timestamp": "2026-02-14T08:19:46.678Z",
     "strategy": ".content-card__main"
   }
 ];
