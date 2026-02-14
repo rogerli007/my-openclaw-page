@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-14T16:51:25.928Z
+// Last updated: 2026-02-14T17:15:58.142Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "英足總盃｜曼城2:0輕取沙福特城　古希入波助藍月亮晉級第五輪",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260215/1099505599307059200025968.jpeg/nBDtw3IxktLDr4AGh8zdFUHgbQg5NB_pzEFxaMxBcWg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60322541/%E8%8B%B1%E8%B6%B3%E7%B8%BD%E7%9B%83-%E6%9B%BC%E5%9F%8E2-0%E8%BC%95%E5%8F%96%E6%B2%99%E7%A6%8F%E7%89%B9%E5%9F%8E-%E5%8F%A4%E5%B8%8C%E5%85%A5%E6%B3%A2%E5%8A%A9%E8%97%8D%E6%9C%88%E4%BA%AE%E6%99%89%E7%B4%9A%E7%AC%AC%E4%BA%94%E8%BC%AA",
+    "timestamp": "2026-02-14T17:15:58.142Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "阿Mo迎來專屬電動輪椅　花兩個月終「坐正」　身體現一個微小突破",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260214/1099417753401430016685104.jpeg/Q3C9fAlObG4y_ppNxhEQXzpJ_T2s4fk8Uxlo-WYZaPk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60322501/%E5%BC%B5%E6%8C%AF%E6%9C%97%E6%8F%90%E6%A5%8A%E5%81%B2%E6%B3%B3%E5%8D%B3-%E5%86%A7%E6%BB%8B%E6%BB%8B-%E5%94%94%E4%BB%8B%E6%84%8F%E5%A5%B3%E5%8F%8B%E6%80%A7%E6%84%9F%E5%A4%A7%E8%86%BD%E6%BC%94%E5%87%BA%E5%8A%9B%E6%92%90%E5%A5%BD%E5%B0%88%E6%A5%AD",
     "timestamp": "2026-02-14T11:13:47.269Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "從美國洛杉磯攜$1400萬可卡因抵港　27歲男商人機場被捕",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260214/1099411194445303808630985.jpeg/RpaNbUO58J6sxYUn7Cg23md7o2Zf4stxOFaEDThWhA0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60322493/%E5%BE%9E%E7%BE%8E%E5%9C%8B%E6%B4%9B%E6%9D%89%E7%A3%AF%E6%94%9C-1400%E8%90%AC%E5%8F%AF%E5%8D%A1%E5%9B%A0%E6%8A%B5%E6%B8%AF-27%E6%AD%B2%E7%94%B7%E5%95%86%E4%BA%BA%E6%A9%9F%E5%A0%B4%E8%A2%AB%E6%8D%95",
-    "timestamp": "2026-02-14T10:50:09.386Z",
     "strategy": ".content-card__main"
   }
 ];
