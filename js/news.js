@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-14T20:31:12.022Z
+// Last updated: 2026-02-14T20:47:40.804Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "英足總盃｜紐卡素3：1反勝10人維拉　東拿利梅開二度",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260215/1099555226710446080714659.jpeg/6egrIdPwdreEeJqEopECPUmzsoqv_WByC8LdEwvC3RM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60322552/%E8%8B%B1%E8%B6%B3%E7%B8%BD%E7%9B%83-%E7%B4%90%E5%8D%A1%E7%B4%A03-1%E5%8F%8D%E5%8B%9D10%E4%BA%BA%E7%B6%AD%E6%8B%89-%E6%9D%B1%E6%8B%BF%E5%88%A9%E6%A2%85%E9%96%8B%E4%BA%8C%E5%BA%A6",
+    "timestamp": "2026-02-14T20:47:40.804Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "3警深水埗截查可疑男遇反抗受傷　男子遭制服被捕臉傷送院",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260214/1099467107793375232502194.jpeg/pjKcOVmsaPbT7OLBaPhwSGonzH3Fjx3W093tT-nd7U8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60322530/%E6%9B%BE%E9%8C%A6%E7%87%8A%E6%96%B0%E6%89%8B%E9%81%8B%E8%8A%B1%E5%B0%8F%E6%9C%AC%E9%8C%A2%E8%B4%8F%E4%B8%83%E7%99%BE%E8%9A%8A-%E7%AC%91%E8%87%AA%E5%B7%B1%E5%86%87%E6%83%85%E4%BA%BA-%E5%B1%8B%E4%BC%81%E4%BA%BA%E4%BF%82%E4%B8%8A%E4%B8%96%E6%83%85%E4%BA%BA",
     "timestamp": "2026-02-14T15:30:59.560Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "農曆新年｜情人節至晚上9時逾50萬港人離港　14萬内地旅客南下",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260214/1099307823730528256210364.jpeg/SHJb8ju9c13SwotfWWqBChYts0Bi34fB2vzimdr84pk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60322532/%E8%BE%B2%E6%9B%86%E6%96%B0%E5%B9%B4-%E6%83%85%E4%BA%BA%E7%AF%80%E8%87%B3%E6%99%9A%E4%B8%8A9%E6%99%82%E9%80%BE50%E8%90%AC%E6%B8%AF%E4%BA%BA%E9%9B%A2%E6%B8%AF-14%E8%90%AC%E5%86%85%E5%9C%B0%E6%97%85%E5%AE%A2%E5%8D%97%E4%B8%8B",
-    "timestamp": "2026-02-14T15:14:33.632Z",
     "strategy": ".content-card__main"
   }
 ];
