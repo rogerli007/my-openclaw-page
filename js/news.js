@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-14T15:59:31.320Z
+// Last updated: 2026-02-14T16:15:21.443Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "小米Xiaomi G30 Max無線吸塵機實測｜AI偵測+超強吸力 性價比之選",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260210/1098019134270083072985324.jpeg/kfHFUrtZZ2RvM6YTMz0aW7Cju_FTiP37BuUK4AblCuA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60320300/%E5%B0%8F%E7%B1%B3xiaomi-g30-max%E7%84%A1%E7%B7%9A%E5%90%B8%E5%A1%B5%E6%A9%9F%E5%AF%A6%E6%B8%AC-ai%E5%81%B5%E6%B8%AC-%E8%B6%85%E5%BC%B7%E5%90%B8%E5%8A%9B-%E6%80%A7%E5%83%B9%E6%AF%94%E4%B9%8B%E9%81%B8",
+    "timestamp": "2026-02-14T16:15:21.443Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "舒淇情人節撇甩老公馮德倫　與鄭伊健《古惑仔》班底團年逗利是",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260214/1099196628968935424208641.png/QJK_ndXDQVddozzjDzEK8z8yG4jL-EvvCDt5ngg7eZ4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60322000/%E5%9C%9F%E7%93%9C%E7%81%A3%E8%A1%97%E5%9D%8A%E4%BA%8C%E6%89%8B%E9%9B%AA%E6%AB%83%E8%B3%A3-400-%E6%AE%BC%E6%AE%98%E5%85%BC%E8%A6%81%E6%90%AC%E6%A8%93%E6%A2%AF-%E7%B6%B2%E6%B0%91-%E6%B8%85%E5%9E%83%E5%9C%BE%E8%A6%81%E8%AC%9B%E6%98%8E",
     "timestamp": "2026-02-14T10:14:32.828Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "長沙爆紅奶茶店茶顏悅色將入駐深圳　首批門店預四月底營業",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20210506/466909580350722048745689.png/iszvckV4DJBNjcewz1Kf501UCUXKl3x2QbYtI0G2LSM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8C%97%E4%B8%8A%E5%BB%A3%E6%9D%B1/60322479/%E9%95%B7%E6%B2%99%E7%88%86%E7%B4%85%E5%A5%B6%E8%8C%B6%E5%BA%97%E8%8C%B6%E9%A1%8F%E6%82%85%E8%89%B2%E5%B0%87%E5%85%A5%E9%A7%90%E6%B7%B1%E5%9C%B3-%E9%A6%96%E6%89%B9%E9%96%80%E5%BA%97%E9%A0%90%E5%9B%9B%E6%9C%88%E5%BA%95%E7%87%9F%E6%A5%AD",
-    "timestamp": "2026-02-14T10:00:00.333Z",
     "strategy": ".content-card__main"
   }
 ];
