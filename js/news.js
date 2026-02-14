@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-14T21:00:23.076Z
+// Last updated: 2026-02-14T21:14:41.367Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "英足總盃｜紐卡素3：1反勝10人維拉　東拿利梅開二度",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260215/1099555226710446080714659.jpeg/6egrIdPwdreEeJqEopECPUmzsoqv_WByC8LdEwvC3RM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60322552/%E8%8B%B1%E8%B6%B3%E7%B8%BD%E7%9B%83-%E7%B4%90%E5%8D%A1%E7%B4%A03-1%E5%8F%8D%E5%8B%9D10%E4%BA%BA%E7%B6%AD%E6%8B%89-%E6%9D%B1%E6%8B%BF%E5%88%A9%E6%A2%85%E9%96%8B%E4%BA%8C%E5%BA%A6",
+    "timestamp": "2026-02-14T21:14:41.367Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "英足總盃｜紐卡素3：1反勝10人維拉　東拿利梅開二度",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260214/1099446917118562304786904.jpeg/0q8d2OVj0pVPM1g_CHuhkVVRklzsU-J7tM4is7TOIrM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60322512/%E8%88%92%E6%B7%87%E6%83%85%E4%BA%BA%E7%AF%80%E6%92%87%E7%94%A9%E8%80%81%E5%85%AC%E9%A6%AE%E5%BE%B7%E5%80%AB-%E8%88%87%E9%84%AD%E4%BC%8A%E5%81%A5-%E5%8F%A4%E6%83%91%E4%BB%94-%E7%8F%AD%E5%BA%95%E5%9C%98%E5%B9%B4%E9%80%97%E5%88%A9%E6%98%AF",
     "timestamp": "2026-02-14T15:59:31.320Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "德國總理默茨晤王毅：鼓勵德企加大對華投資合作",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260214/1099470502352654336240651.jpeg/Z4oqm1fHa37z6meHszlZ0ZzEQY6GJFktuuN_5rrjf-Y?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60322534/%E5%BE%B7%E5%9C%8B%E7%B8%BD%E7%90%86%E9%BB%98%E8%8C%A8%E6%99%A4%E7%8E%8B%E6%AF%85-%E9%BC%93%E5%8B%B5%E5%BE%B7%E4%BC%81%E5%8A%A0%E5%A4%A7%E5%B0%8D%E8%8F%AF%E6%8A%95%E8%B3%87%E5%90%88%E4%BD%9C",
-    "timestamp": "2026-02-14T15:47:11.552Z",
     "strategy": ".content-card__main"
   }
 ];
