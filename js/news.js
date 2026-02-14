@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-14T00:02:07.045Z
+// Last updated: 2026-02-14T00:52:19.016Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "47歲小雪K房慶生唱歌依然好聽　樣貌唔識老少女味十足",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260213/1098977531664535552427063.jpeg/aXsFhhUe7e1v62orR-p1RBZNqHa-XI4sKq6V3yquld8",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60321337/47%E6%AD%B2%E5%B0%8F%E9%9B%AAk%E6%88%BF%E6%85%B6%E7%94%9F%E5%94%B1%E6%AD%8C%E4%BE%9D%E7%84%B6%E5%A5%BD%E8%81%BD-%E6%A8%A3%E8%B2%8C%E5%94%94%E8%AD%98%E8%80%81%E5%B0%91%E5%A5%B3%E5%91%B3%E5%8D%81%E8%B6%B3",
+    "timestamp": "2026-02-14T00:52:19.016Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "羅浮宮又出事？　展廳漏水導致19世紀天花板壁畫受損",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260213/1099130331228803072843197.jpeg/iWWUqrWnUUKXS_7ubNdkUdXlP7iByc_dlhE-UZYRPlE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60322313/%E6%97%A5%E6%9C%AC%E6%89%A3%E6%8A%BC%E4%B8%80%E8%89%98%E4%B8%AD%E5%9C%8B%E6%BC%81%E8%88%B9%E4%B8%A6%E9%80%AE%E6%8D%95%E8%88%B9%E9%95%B7-%E6%97%A5%E5%AA%92-%E6%99%9A%E4%B8%8A%E5%B7%B2%E7%8D%B2%E9%87%8B",
     "timestamp": "2026-02-13T16:26:09.938Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "生蠔食物中毒｜酒店低調變招轉食蟹　有蠔店稱法國直運不涉供應商",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260210/1098026061717049344934286.jpeg/Rmtz31YR0Rm1pwz-U4dEn1siBK7wgUt6gsIMEoLCDBI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60322237/%E7%94%9F%E8%A0%94%E9%A3%9F%E7%89%A9%E4%B8%AD%E6%AF%92-%E9%85%92%E5%BA%97%E4%BD%8E%E8%AA%BF%E8%AE%8A%E6%8B%9B%E8%BD%89%E9%A3%9F%E8%9F%B9-%E6%9C%89%E8%A0%94%E5%BA%97%E7%A8%B1%E6%B3%95%E5%9C%8B%E7%9B%B4%E9%81%8B%E4%B8%8D%E6%B6%89%E4%BE%9B%E6%87%89%E5%95%86",
-    "timestamp": "2026-02-13T15:58:08.105Z",
     "strategy": ".content-card__main"
   }
 ];
