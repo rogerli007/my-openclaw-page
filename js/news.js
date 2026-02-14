@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-14T05:55:20.613Z
+// Last updated: 2026-02-14T06:25:06.330Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "王毅晤英國外相　稱應不斷釋放雙邊關係利好　發掘合作潛能",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260214/1099337948530216960340152.png/AzuymGohgJOXn3uLjnt4YS1cC4hSuy3-mY2vtpmNr7Y?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60322410/%E7%8E%8B%E6%AF%85%E6%99%A4%E8%8B%B1%E5%9C%8B%E5%A4%96%E7%9B%B8-%E7%A8%B1%E6%87%89%E4%B8%8D%E6%96%B7%E9%87%8B%E6%94%BE%E9%9B%99%E9%82%8A%E9%97%9C%E4%BF%82%E5%88%A9%E5%A5%BD-%E7%99%BC%E6%8E%98%E5%90%88%E4%BD%9C%E6%BD%9B%E8%83%BD",
+    "timestamp": "2026-02-14T06:25:06.330Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "國安白皮書｜政府舉行研討會　李家超：具「一錘定音」指導意義",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260214/1099188047490060288214698.jpeg/vjZ-S5lsSBoJDoQcwkaPLV9rQdS3ueXK_6oJFMWqCRQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60322321/%E8%AD%A6%E7%8D%85%E9%9A%A7%E5%8F%A3%E8%A8%AD%E8%B7%AF%E9%9A%9C%E6%8B%982%E5%8F%B8%E6%A9%9F-1%E9%86%89%E9%A7%951%E8%B2%A9%E6%AF%92%E6%AA%A2%E5%A4%A7%E9%BA%BB%E7%94%A2%E5%93%81-%E6%89%A3%E6%9F%A52%E8%BB%8A%E9%9D%9E%E6%B3%95%E6%94%B9%E8%A3%9D",
     "timestamp": "2026-02-13T20:20:17.530Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普起訴哈佛大學　指控其拒絕提供調查招生紀錄所需文件",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260214/1099175446982955008495178.jpeg/g4vQpZGI-S1ltbDfrVEEDHCneMXjiDWe8aSRVfGkkVU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60322322/%E7%89%B9%E6%9C%97%E6%99%AE%E8%B5%B7%E8%A8%B4%E5%93%88%E4%BD%9B%E5%A4%A7%E5%AD%B8-%E6%8C%87%E6%8E%A7%E5%85%B6%E6%8B%92%E7%B5%95%E6%8F%90%E4%BE%9B%E8%AA%BF%E6%9F%A5%E6%8B%9B%E7%94%9F%E7%B4%80%E9%8C%84%E6%89%80%E9%9C%80%E6%96%87%E4%BB%B6",
-    "timestamp": "2026-02-13T19:51:54.622Z",
     "strategy": ".content-card__main"
   }
 ];
