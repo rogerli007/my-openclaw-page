@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-14T04:28:22.811Z
+// Last updated: 2026-02-14T05:04:10.110Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "有片｜紅磡食店收舖無閂閘老鼠橫行　東主稱腰傷難落閘：會搵滅蟲",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260214/1099306798822723584138705.png/yUp2KpdzyM59cUhsB22MAnZuzYQnVVBSLy0Wqi8tFqo",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60322380/%E6%9C%89%E7%89%87-%E7%B4%85%E7%A3%A1%E9%A3%9F%E5%BA%97%E6%94%B6%E8%88%96%E7%84%A1%E9%96%82%E9%96%98%E8%80%81%E9%BC%A0%E6%A9%AB%E8%A1%8C-%E6%9D%B1%E4%B8%BB%E7%A8%B1%E8%85%B0%E5%82%B7%E9%9B%A3%E8%90%BD%E9%96%98-%E6%9C%83%E6%90%B5%E6%BB%85%E8%9F%B2",
+    "timestamp": "2026-02-14T05:04:10.110Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "AI泡沬論｜亞馬遜九連跌！　繼微軟後成第二家跌入熊市的七巨頭",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260214/1099170793692073984423107.jpeg/7I5X6fBDNDsw72jxRJufWpJ2s32tA6Cnwv5hMcL-YTE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60322320/spacex-%E9%BE%8D%E9%A3%9B%E8%88%B9%E6%88%90%E5%8A%9F%E5%8D%87%E7%A9%BA-%E5%B0%874%E5%90%8D%E5%A4%AA%E7%A9%BA%E4%BA%BA%E9%80%81%E4%B8%8A%E5%9C%8B%E9%9A%9B%E5%A4%AA%E7%A9%BA%E7%AB%99-%E6%9C%89%E7%89%87",
     "timestamp": "2026-02-13T18:54:00.554Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "年近歲晚警中環放蛇搭的士去尖東　黑的司機索$350車資　當場被捕",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260214/1099157344811487232249635.jpeg/vRGzj-vWR6kN3wWZc0gu0V8_sjwTN4YmS44wBHGOMAQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60322318/%E5%B9%B4%E8%BF%91%E6%AD%B2%E6%99%9A%E8%AD%A6%E4%B8%AD%E7%92%B0%E6%94%BE%E8%9B%87%E6%90%AD%E7%9A%84%E5%A3%AB%E5%8E%BB%E5%B0%96%E6%9D%B1-%E9%BB%91%E7%9A%84%E5%8F%B8%E6%A9%9F%E7%B4%A2-350%E8%BB%8A%E8%B3%87-%E7%95%B6%E5%A0%B4%E8%A2%AB%E6%8D%95",
-    "timestamp": "2026-02-13T18:24:59.293Z",
     "strategy": ".content-card__main"
   }
 ];
