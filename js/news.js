@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-14T17:32:13.899Z
+// Last updated: 2026-02-14T17:48:47.229Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "馬會主席廖長江：未來娛樂部份將大增　年輕人入場不一定參與賽馬",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20251219/1078698577154281472048523.jpeg/4b4sigK9OMyKbnHmmBmpN5Ydkulxfe8fFWfI3xVnyN8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60322538/%E9%A6%AC%E6%9C%83%E4%B8%BB%E5%B8%AD%E5%BB%96%E9%95%B7%E6%B1%9F-%E6%9C%AA%E4%BE%86%E5%A8%9B%E6%A8%82%E9%83%A8%E4%BB%BD%E5%B0%87%E5%A4%A7%E5%A2%9E-%E5%B9%B4%E8%BC%95%E4%BA%BA%E5%85%A5%E5%A0%B4%E4%B8%8D%E4%B8%80%E5%AE%9A%E5%8F%83%E8%88%87%E8%B3%BD%E9%A6%AC",
+    "timestamp": "2026-02-14T17:48:47.229Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "馬會主席廖長江：未來娛樂部份將大增　年輕人入場不一定參與賽馬",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260214/1099410121504591872486317.jpeg/guDctILW4OveMRdjFc1KX2-lD5b3f19dcjFnd1cxZ3c?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60322491/%E8%BE%B2%E6%9B%86%E6%96%B0%E5%B9%B4-%E9%BE%8D%E5%AF%B6%E9%85%92%E5%AE%B6%E5%B9%B4%E7%B3%95%E5%88%B8%E4%BD%90%E6%95%A6%E5%BA%97%E6%8B%92%E6%8F%9B-%E5%BA%97%E5%93%A1-%E5%8D%B0%E5%88%B8%E6%99%82%E6%9C%AA%E9%96%8B%E6%A5%AD",
     "timestamp": "2026-02-14T11:44:46.533Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "Hi MIRO! Garden Party 2026香港｜門票攻略＋購票連結＋座位表",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260213/1099034983223267328138072.jpeg/vrxUWJrqVbrJ6FKcXd74VxgD5ub0KM4Enf23J539tyc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60322204/hi-miro-garden-party-2026%E9%A6%99%E6%B8%AF-%E9%96%80%E7%A5%A8%E6%94%BB%E7%95%A5-%E8%B3%BC%E7%A5%A8%E9%80%A3%E7%B5%90-%E5%BA%A7%E4%BD%8D%E8%A1%A8",
-    "timestamp": "2026-02-14T11:30:42.923Z",
     "strategy": ".content-card__main"
   }
 ];
