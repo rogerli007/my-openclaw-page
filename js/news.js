@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-14T19:47:26.352Z
+// Last updated: 2026-02-14T19:58:09.577Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "3警深水埗截查可疑男遇反抗受傷　男子遭制服被捕臉傷送院",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260215/1099548136348585984193265.jpeg/JUfxTxI-Ytxoxzqo2fMlphjf9-zJkiA_rI8ZkpaPGZI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60322550/3%E8%AD%A6%E6%B7%B1%E6%B0%B4%E5%9F%97%E6%88%AA%E6%9F%A5%E5%8F%AF%E7%96%91%E7%94%B7%E9%81%87%E5%8F%8D%E6%8A%97%E5%8F%97%E5%82%B7-%E7%94%B7%E5%AD%90%E9%81%AD%E5%88%B6%E6%9C%8D%E8%A2%AB%E6%8D%95%E8%87%89%E5%82%B7%E9%80%81%E9%99%A2",
+    "timestamp": "2026-02-14T19:58:09.577Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "日本大阪道頓崛發生持刀傷人案1死2傷　疑兇在逃",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260214/1099466697175207936493620.jpeg/tH4GS7Aox4gkcm6ue2tjtE3tcAKCao0JMXO0RDFztEQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60322528/%E6%8C%AA%E5%A8%81%E5%89%8D%E9%A6%96%E7%9B%B8%E9%99%B7%E9%86%9C%E8%81%9E-%E6%84%9B%E6%BD%91%E6%96%AF%E5%9D%A6%E6%8F%90%E4%BE%9B%E4%BD%8F%E5%AE%BF%E8%B3%87%E5%8A%A9%E6%97%85%E8%A1%8C-%E6%AC%B2%E6%8F%9B%E6%90%AD%E8%B7%AF%E8%A6%8B%E6%99%AE%E4%BA%AC",
     "timestamp": "2026-02-14T14:35:42.158Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "英法德瑞荷聯合聲明：確信俄反對派領袖納瓦利尼遭下毒死",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20240302/840446285621235712853074.jpeg/SNTx0kgnZpbT7gsTtw9TRD3N_IMZnQabHMWTBhzFkwY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60322529/%E8%8B%B1%E6%B3%95%E5%BE%B7%E7%91%9E%E8%8D%B7%E8%81%AF%E5%90%88%E8%81%B2%E6%98%8E-%E7%A2%BA%E4%BF%A1%E4%BF%84%E5%8F%8D%E5%B0%8D%E6%B4%BE%E9%A0%98%E8%A2%96%E7%B4%8D%E7%93%A6%E5%88%A9%E5%B0%BC%E9%81%AD%E4%B8%8B%E6%AF%92%E6%AD%BB",
-    "timestamp": "2026-02-14T14:18:24.972Z",
     "strategy": ".content-card__main"
   }
 ];
