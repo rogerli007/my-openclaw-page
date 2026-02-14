@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-14T00:52:19.016Z
+// Last updated: 2026-02-14T01:43:57.229Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "有片｜「年獸」提早拜年？山西高速驚現非洲幼獅　園方已領回",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260213/1098981265027108864760342.jpeg/XWGcP4DoADCbrgbHL-_L1IZtX2JmyGAHdTc3fHU3N3w",
+    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60322085/%E6%9C%89%E7%89%87-%E5%B9%B4%E7%8D%B8-%E6%8F%90%E6%97%A9%E6%8B%9C%E5%B9%B4-%E5%B1%B1%E8%A5%BF%E9%AB%98%E9%80%9F%E9%A9%9A%E7%8F%BE%E9%9D%9E%E6%B4%B2%E5%B9%BC%E7%8D%85-%E5%9C%92%E6%96%B9%E5%B7%B2%E9%A0%98%E5%9B%9E",
+    "timestamp": "2026-02-14T01:43:57.229Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "47歲小雪K房慶生唱歌依然好聽　樣貌唔識老少女味十足",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260213/1099130331228803072843197.jpeg/iWWUqrWnUUKXS_7ubNdkUdXlP7iByc_dlhE-UZYRPlE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60322313/%E6%97%A5%E6%9C%AC%E6%89%A3%E6%8A%BC%E4%B8%80%E8%89%98%E4%B8%AD%E5%9C%8B%E6%BC%81%E8%88%B9%E4%B8%A6%E9%80%AE%E6%8D%95%E8%88%B9%E9%95%B7-%E6%97%A5%E5%AA%92-%E6%99%9A%E4%B8%8A%E5%B7%B2%E7%8D%B2%E9%87%8B",
     "timestamp": "2026-02-13T16:53:50.692Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "日本扣押一艘中國漁船並逮捕船長　日媒：晚上已獲釋",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260213/1099130331228803072843197.jpeg/iWWUqrWnUUKXS_7ubNdkUdXlP7iByc_dlhE-UZYRPlE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60322313/%E6%97%A5%E6%9C%AC%E6%89%A3%E6%8A%BC%E4%B8%80%E8%89%98%E4%B8%AD%E5%9C%8B%E6%BC%81%E8%88%B9%E4%B8%A6%E9%80%AE%E6%8D%95%E8%88%B9%E9%95%B7-%E6%97%A5%E5%AA%92-%E6%99%9A%E4%B8%8A%E5%B7%B2%E7%8D%B2%E9%87%8B",
-    "timestamp": "2026-02-13T16:26:09.938Z",
     "strategy": ".content-card__main"
   }
 ];
