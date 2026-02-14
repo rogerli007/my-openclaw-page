@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-14T19:58:09.577Z
+// Last updated: 2026-02-14T20:13:43.668Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "3警深水埗截查可疑男遇反抗受傷　男子遭制服被捕臉傷送院",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260215/1099548136348585984193265.jpeg/JUfxTxI-Ytxoxzqo2fMlphjf9-zJkiA_rI8ZkpaPGZI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60322550/3%E8%AD%A6%E6%B7%B1%E6%B0%B4%E5%9F%97%E6%88%AA%E6%9F%A5%E5%8F%AF%E7%96%91%E7%94%B7%E9%81%87%E5%8F%8D%E6%8A%97%E5%8F%97%E5%82%B7-%E7%94%B7%E5%AD%90%E9%81%AD%E5%88%B6%E6%9C%8D%E8%A2%AB%E6%8D%95%E8%87%89%E5%82%B7%E9%80%81%E9%99%A2",
+    "timestamp": "2026-02-14T20:13:43.668Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "3警深水埗截查可疑男遇反抗受傷　男子遭制服被捕臉傷送院",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260214/1099453213209268224835076.jpeg/wNmg70X9nM8DAP5Al323iTZ9BQDf6UHYSUYd5XNGHeU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60322524/%E8%AD%9A%E8%BC%9D%E6%99%BA%E9%A6%96%E8%B8%8F%E6%B2%99%E5%9C%88%E7%8D%BB%E5%94%B1%E8%87%AA%E7%88%86%E7%B7%8A%E5%BC%B5%E6%9C%AA%E9%96%8B%E8%81%B2-%E6%83%85%E4%BA%BA%E7%AF%80%E5%B8%B6%E5%9F%8B%E8%80%81%E5%A9%86%E4%BB%94%E5%A5%B3%E5%85%A5%E9%A6%AC%E5%A0%B4%E7%8E%A9",
     "timestamp": "2026-02-14T14:59:32.517Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "挪威前首相陷醜聞：愛潑斯坦提供住宿資助旅行　欲換搭路見普京",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260214/1099466697175207936493620.jpeg/tH4GS7Aox4gkcm6ue2tjtE3tcAKCao0JMXO0RDFztEQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60322528/%E6%8C%AA%E5%A8%81%E5%89%8D%E9%A6%96%E7%9B%B8%E9%99%B7%E9%86%9C%E8%81%9E-%E6%84%9B%E6%BD%91%E6%96%AF%E5%9D%A6%E6%8F%90%E4%BE%9B%E4%BD%8F%E5%AE%BF%E8%B3%87%E5%8A%A9%E6%97%85%E8%A1%8C-%E6%AC%B2%E6%8F%9B%E6%90%AD%E8%B7%AF%E8%A6%8B%E6%99%AE%E4%BA%AC",
-    "timestamp": "2026-02-14T14:35:42.158Z",
     "strategy": ".content-card__main"
   }
 ];
