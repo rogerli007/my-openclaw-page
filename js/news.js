@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-14T05:04:10.110Z
+// Last updated: 2026-02-14T05:31:46.462Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "以軍總參謀長：解除哈馬斯武裝目標不變",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250808/1030540295923568640482069.png/ggH2R_ZLsb8aTAciXuBvEQ_fFsjrl9lQjD80b4w_NG8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60322403/%E4%BB%A5%E8%BB%8D%E7%B8%BD%E5%8F%83%E8%AC%80%E9%95%B7-%E8%A7%A3%E9%99%A4%E5%93%88%E9%A6%AC%E6%96%AF%E6%AD%A6%E8%A3%9D%E7%9B%AE%E6%A8%99%E4%B8%8D%E8%AE%8A",
+    "timestamp": "2026-02-14T05:31:46.462Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "有片｜紅磡食店收舖無閂閘老鼠橫行　東主稱腰傷難落閘：會搵滅蟲",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260214/1099170793692073984423107.jpeg/7I5X6fBDNDsw72jxRJufWpJ2s32tA6Cnwv5hMcL-YTE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60322320/spacex-%E9%BE%8D%E9%A3%9B%E8%88%B9%E6%88%90%E5%8A%9F%E5%8D%87%E7%A9%BA-%E5%B0%874%E5%90%8D%E5%A4%AA%E7%A9%BA%E4%BA%BA%E9%80%81%E4%B8%8A%E5%9C%8B%E9%9A%9B%E5%A4%AA%E7%A9%BA%E7%AB%99-%E6%9C%89%E7%89%87",
     "timestamp": "2026-02-13T19:26:17.426Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "SpaceX 龍飛船成功升空　將4名太空人送上國際太空站｜有片",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260214/1099170793692073984423107.jpeg/7I5X6fBDNDsw72jxRJufWpJ2s32tA6Cnwv5hMcL-YTE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60322320/spacex-%E9%BE%8D%E9%A3%9B%E8%88%B9%E6%88%90%E5%8A%9F%E5%8D%87%E7%A9%BA-%E5%B0%874%E5%90%8D%E5%A4%AA%E7%A9%BA%E4%BA%BA%E9%80%81%E4%B8%8A%E5%9C%8B%E9%9A%9B%E5%A4%AA%E7%A9%BA%E7%AB%99-%E6%9C%89%E7%89%87",
-    "timestamp": "2026-02-13T18:54:00.554Z",
     "strategy": ".content-card__main"
   }
 ];
