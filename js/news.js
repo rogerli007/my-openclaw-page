@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-14T23:15:34.786Z
+// Last updated: 2026-02-14T23:31:23.214Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "德國情侶紀念日樂極生悲　過萬現金隨風飄走　男呻唔見人工｜有片",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260215/1099600990409068544187043.jpeg/O600bH2CMBgTv4XxuyVmvPKTW2--ChR6X6nhQF-p4UA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%92%B0%E7%90%83%E8%B6%A3%E8%81%9E/60322556/%E5%BE%B7%E5%9C%8B%E6%83%85%E4%BE%B6%E7%B4%80%E5%BF%B5%E6%97%A5%E6%A8%82%E6%A5%B5%E7%94%9F%E6%82%B2-%E9%81%8E%E8%90%AC%E7%8F%BE%E9%87%91%E9%9A%A8%E9%A2%A8%E9%A3%84%E8%B5%B0-%E7%94%B7%E5%91%BB%E5%94%94%E8%A6%8B%E4%BA%BA%E5%B7%A5-%E6%9C%89%E7%89%87",
+    "timestamp": "2026-02-14T23:31:23.214Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "台男爬入蝦皮智能櫃「寄自己」　友人嬉笑拍片　官方發聲後續慘了",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260215/1099529756732297216649758.jpeg/s_K6cdDhyTG_JkG9h3Kx5IG48CpZOOiu760ICdWtCAk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60322545/%E7%8F%8D%E6%83%9C%E7%94%9F%E5%91%BD-%E5%B0%96%E6%B2%99%E5%92%80%E7%94%B7%E5%AD%90%E7%87%92%E7%82%AD-%E5%A5%B3%E5%8F%8B%E5%8F%8A%E6%99%82%E7%99%BC%E7%8F%BE-%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2%E6%90%B6%E6%95%91",
     "timestamp": "2026-02-14T18:35:31.432Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "施紀賢：不再是脫歐時期的英國　將派航母打擊群到北極防俄威脅",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260215/1099520421289529344150683.jpeg/oxeA7UeplZuT3fn5HrJm5SdIT1pHPVTlNE9KqTRPSqk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60322544/%E6%96%BD%E7%B4%80%E8%B3%A2-%E4%B8%8D%E5%86%8D%E6%98%AF%E8%84%AB%E6%AD%90%E6%99%82%E6%9C%9F%E7%9A%84%E8%8B%B1%E5%9C%8B-%E5%B0%87%E6%B4%BE%E8%88%AA%E6%AF%8D%E6%89%93%E6%93%8A%E7%BE%A4%E5%88%B0%E5%8C%97%E6%A5%B5%E9%98%B2%E4%BF%84%E5%A8%81%E8%84%85",
-    "timestamp": "2026-02-14T18:17:43.480Z",
     "strategy": ".content-card__main"
   }
 ];
