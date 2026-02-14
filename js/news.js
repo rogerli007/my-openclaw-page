@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-14T13:13:49.722Z
+// Last updated: 2026-02-14T13:37:57.961Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "丁子朗為炫富風波解畫　澄清為宣傳節目考慮不周：作出戰略性調整",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260214/1099433153858113536167023.jpeg/H4sb3yAMnDjbauyVp9KU9dXAiavn9db90LZQ8uq2UPI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60322509/%E4%B8%81%E5%AD%90%E6%9C%97%E7%82%BA%E7%82%AB%E5%AF%8C%E9%A2%A8%E6%B3%A2%E8%A7%A3%E7%95%AB-%E6%BE%84%E6%B8%85%E7%82%BA%E5%AE%A3%E5%82%B3%E7%AF%80%E7%9B%AE%E8%80%83%E6%85%AE%E4%B8%8D%E5%91%A8-%E4%BD%9C%E5%87%BA%E6%88%B0%E7%95%A5%E6%80%A7%E8%AA%BF%E6%95%B4",
+    "timestamp": "2026-02-14T13:37:57.961Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "苟芸慧離婚後狀態回勇情人節不寂寞　雪地唯美照少女味濃無得頂",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20240910/910106838840643584028563.jpeg/PmMMwVmx6pS7PDVRfthg7n9j3GqhK530JBR6FyQUehc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60322423/%E7%BE%8E%E5%9C%8B%E5%9C%9F%E5%AE%89%E5%85%A8%E9%83%A8%E8%B3%87%E9%87%91%E8%80%97%E7%9B%A1%E5%81%9C%E6%93%BA-%E5%9C%8B%E6%9C%83%E5%85%A9%E9%BB%A8%E7%A7%BB%E6%B0%91%E5%9F%B7%E6%B3%95%E8%AB%87%E5%88%A4%E9%99%B7%E5%83%B5%E5%B1%80",
     "timestamp": "2026-02-14T07:23:46.817Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "鄧兆尊聞祥哥賣賭場股份始知屋企有錢　爆身家：幾億連物業都有嘅",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260214/1099349522057793536056378.png/SDTck7hqc52yegczzKnbSd3aypR_mukhoByG0qAchtI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60322418/%E9%84%A7%E5%85%86%E5%B0%8A%E8%81%9E%E7%A5%A5%E5%93%A5%E8%B3%A3%E8%B3%AD%E5%A0%B4%E8%82%A1%E4%BB%BD%E5%A7%8B%E7%9F%A5%E5%B1%8B%E4%BC%81%E6%9C%89%E9%8C%A2-%E7%88%86%E8%BA%AB%E5%AE%B6-%E5%B9%BE%E5%84%84%E9%80%A3%E7%89%A9%E6%A5%AD%E9%83%BD%E6%9C%89%E5%98%85",
-    "timestamp": "2026-02-14T06:53:28.606Z",
     "strategy": ".content-card__main"
   }
 ];
