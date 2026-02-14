@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-14T06:25:06.330Z
+// Last updated: 2026-02-14T06:53:28.606Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "鄧兆尊聞祥哥賣賭場股份始知屋企有錢　爆身家：幾億連物業都有嘅",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260214/1099349522057793536056378.png/SDTck7hqc52yegczzKnbSd3aypR_mukhoByG0qAchtI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60322418/%E9%84%A7%E5%85%86%E5%B0%8A%E8%81%9E%E7%A5%A5%E5%93%A5%E8%B3%A3%E8%B3%AD%E5%A0%B4%E8%82%A1%E4%BB%BD%E5%A7%8B%E7%9F%A5%E5%B1%8B%E4%BC%81%E6%9C%89%E9%8C%A2-%E7%88%86%E8%BA%AB%E5%AE%B6-%E5%B9%BE%E5%84%84%E9%80%A3%E7%89%A9%E6%A5%AD%E9%83%BD%E6%9C%89%E5%98%85",
+    "timestamp": "2026-02-14T06:53:28.606Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "王毅晤英國外相　稱應不斷釋放雙邊關係利好　發掘合作潛能",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260214/1099189088361123840054716.jpeg/-6WYzA9qq0-WUn66QHdPIznZVH8gu3CuOfgY2zn4GNs?v=w1920",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60322324/%E9%BB%98%E8%8C%A8-%E5%9F%BA%E6%96%BC%E8%A6%8F%E5%89%87%E7%9A%84%E4%B8%96%E7%95%8C%E7%A7%A9%E5%BA%8F%E5%B7%B2%E4%B8%8D%E5%AD%98%E5%9C%A8-%E7%BE%8E%E5%9C%8B%E9%A0%98%E5%B0%8E%E5%9C%B0%E4%BD%8D%E9%81%AD%E6%8C%91%E6%88%B0%E6%88%96%E5%B7%B2%E5%96%AA%E5%A4%B1",
     "timestamp": "2026-02-13T20:40:32.384Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "警獅隧口設路障拘2司機　1醉駕1販毒檢大麻產品　扣查2車非法改裝",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260214/1099188047490060288214698.jpeg/vjZ-S5lsSBoJDoQcwkaPLV9rQdS3ueXK_6oJFMWqCRQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60322321/%E8%AD%A6%E7%8D%85%E9%9A%A7%E5%8F%A3%E8%A8%AD%E8%B7%AF%E9%9A%9C%E6%8B%982%E5%8F%B8%E6%A9%9F-1%E9%86%89%E9%A7%951%E8%B2%A9%E6%AF%92%E6%AA%A2%E5%A4%A7%E9%BA%BB%E7%94%A2%E5%93%81-%E6%89%A3%E6%9F%A52%E8%BB%8A%E9%9D%9E%E6%B3%95%E6%94%B9%E8%A3%9D",
-    "timestamp": "2026-02-13T20:20:17.530Z",
     "strategy": ".content-card__main"
   }
 ];
