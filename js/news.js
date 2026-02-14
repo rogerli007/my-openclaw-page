@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-14T10:14:32.828Z
+// Last updated: 2026-02-14T10:31:11.642Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "慕尼黑安全會議登場　「舊世界秩序已死」彰顯歐美分歧抑或共識？",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260214/1099401513865842688824910.jpeg/kmmXJCLg8FdD6vNssn5c3b8xDrBgEuj98CojI_AqIyM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%9C%8B%E9%9A%9B%E5%88%86%E6%9E%90/60322483/%E6%85%95%E5%B0%BC%E9%BB%91%E5%AE%89%E5%85%A8%E6%9C%83%E8%AD%B0%E7%99%BB%E5%A0%B4-%E8%88%8A%E4%B8%96%E7%95%8C%E7%A7%A9%E5%BA%8F%E5%B7%B2%E6%AD%BB-%E5%BD%B0%E9%A1%AF%E6%AD%90%E7%BE%8E%E5%88%86%E6%AD%A7%E6%8A%91%E6%88%96%E5%85%B1%E8%AD%98",
+    "timestamp": "2026-02-14T10:31:11.642Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "土瓜灣街坊二手雪櫃賣$400！殼殘兼要搬樓梯　網民：清垃圾要講明",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260213/1098981265027108864760342.jpeg/XWGcP4DoADCbrgbHL-_L1IZtX2JmyGAHdTc3fHU3N3w",
     "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60322085/%E6%9C%89%E7%89%87-%E5%B9%B4%E7%8D%B8-%E6%8F%90%E6%97%A9%E6%8B%9C%E5%B9%B4-%E5%B1%B1%E8%A5%BF%E9%AB%98%E9%80%9F%E9%A9%9A%E7%8F%BE%E9%9D%9E%E6%B4%B2%E5%B9%BC%E7%8D%85-%E5%9C%92%E6%96%B9%E5%B7%B2%E9%A0%98%E5%9B%9E",
     "timestamp": "2026-02-14T01:43:57.229Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "47歲小雪K房慶生唱歌依然好聽　樣貌唔識老少女味十足",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260213/1098977531664535552427063.jpeg/aXsFhhUe7e1v62orR-p1RBZNqHa-XI4sKq6V3yquld8",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60321337/47%E6%AD%B2%E5%B0%8F%E9%9B%AAk%E6%88%BF%E6%85%B6%E7%94%9F%E5%94%B1%E6%AD%8C%E4%BE%9D%E7%84%B6%E5%A5%BD%E8%81%BD-%E6%A8%A3%E8%B2%8C%E5%94%94%E8%AD%98%E8%80%81%E5%B0%91%E5%A5%B3%E5%91%B3%E5%8D%81%E8%B6%B3",
-    "timestamp": "2026-02-14T00:52:19.016Z",
     "strategy": ".content-card__main"
   }
 ];
