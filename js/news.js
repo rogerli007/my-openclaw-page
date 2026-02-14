@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-14T15:30:59.560Z
+// Last updated: 2026-02-14T15:47:11.552Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "德國總理默茨晤王毅：鼓勵德企加大對華投資合作",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260214/1099470502352654336240651.jpeg/Z4oqm1fHa37z6meHszlZ0ZzEQY6GJFktuuN_5rrjf-Y?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60322534/%E5%BE%B7%E5%9C%8B%E7%B8%BD%E7%90%86%E9%BB%98%E8%8C%A8%E6%99%A4%E7%8E%8B%E6%AF%85-%E9%BC%93%E5%8B%B5%E5%BE%B7%E4%BC%81%E5%8A%A0%E5%A4%A7%E5%B0%8D%E8%8F%AF%E6%8A%95%E8%B3%87%E5%90%88%E4%BD%9C",
+    "timestamp": "2026-02-14T15:47:11.552Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "曾錦燊新手運花小本錢贏七百蚊　笑自己冇情人：屋企人係上世情人",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260214/1099388464786313216749316.jpeg/13U54QWVRPVHnuSX8tgKvqYdoGPYs86DU4w7s1OMO7M?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60322470/%E8%AD%A6%E6%96%B0%E7%95%8C%E5%8D%97%E6%8D%89%E4%BA%A4%E9%80%9A%E9%81%95%E8%A6%8F%E6%8B%989%E4%BA%BA%E6%B6%89%E8%B2%A9%E6%AF%92%E9%86%89%E9%A7%95-%E5%8F%A6%E6%8F%AD128%E8%BB%8A%E8%B6%85%E9%80%9F%E6%89%A3%E6%9F%A515%E6%94%B9%E8%A3%9D%E8%BB%8A",
     "timestamp": "2026-02-14T09:36:55.005Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "深水埗警打擊「搵快錢」拘59人最細17歲　捲盜竊詐騙等案涉$407萬",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260214/1099382104937992192162493.jpeg/5l1HS2WKWN3qTEkvrBoT6hO4QQC6J80xbmbiO25m4js?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60322462/%E6%B7%B1%E6%B0%B4%E5%9F%97%E8%AD%A6%E6%89%93%E6%93%8A-%E6%90%B5%E5%BF%AB%E9%8C%A2-%E6%8B%9859%E4%BA%BA%E6%9C%80%E7%B4%B017%E6%AD%B2-%E6%8D%B2%E7%9B%9C%E7%AB%8A%E8%A9%90%E9%A8%99%E7%AD%89%E6%A1%88%E6%B6%89-407%E8%90%AC",
-    "timestamp": "2026-02-14T09:18:59.609Z",
     "strategy": ".content-card__main"
   }
 ];
