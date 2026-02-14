@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-14T06:53:28.606Z
+// Last updated: 2026-02-14T07:23:46.817Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美國土安全部資金耗盡停擺　國會兩黨移民執法談判陷僵局",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20240910/910106838840643584028563.jpeg/PmMMwVmx6pS7PDVRfthg7n9j3GqhK530JBR6FyQUehc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60322423/%E7%BE%8E%E5%9C%8B%E5%9C%9F%E5%AE%89%E5%85%A8%E9%83%A8%E8%B3%87%E9%87%91%E8%80%97%E7%9B%A1%E5%81%9C%E6%93%BA-%E5%9C%8B%E6%9C%83%E5%85%A9%E9%BB%A8%E7%A7%BB%E6%B0%91%E5%9F%B7%E6%B3%95%E8%AB%87%E5%88%A4%E9%99%B7%E5%83%B5%E5%B1%80",
+    "timestamp": "2026-02-14T07:23:46.817Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "鄧兆尊聞祥哥賣賭場股份始知屋企有錢　爆身家：幾億連物業都有嘅",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260214/1099189088361123840054716.jpeg/-6WYzA9qq0-WUn66QHdPIznZVH8gu3CuOfgY2zn4GNs?v=w1920",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60322324/%E9%BB%98%E8%8C%A8-%E5%9F%BA%E6%96%BC%E8%A6%8F%E5%89%87%E7%9A%84%E4%B8%96%E7%95%8C%E7%A7%A9%E5%BA%8F%E5%B7%B2%E4%B8%8D%E5%AD%98%E5%9C%A8-%E7%BE%8E%E5%9C%8B%E9%A0%98%E5%B0%8E%E5%9C%B0%E4%BD%8D%E9%81%AD%E6%8C%91%E6%88%B0%E6%88%96%E5%B7%B2%E5%96%AA%E5%A4%B1",
     "timestamp": "2026-02-13T21:04:44.967Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "默茨：基於規則的世界秩序已不存在　美國領導地位遭挑戰或已喪失",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260214/1099189088361123840054716.jpeg/-6WYzA9qq0-WUn66QHdPIznZVH8gu3CuOfgY2zn4GNs?v=w1920",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60322324/%E9%BB%98%E8%8C%A8-%E5%9F%BA%E6%96%BC%E8%A6%8F%E5%89%87%E7%9A%84%E4%B8%96%E7%95%8C%E7%A7%A9%E5%BA%8F%E5%B7%B2%E4%B8%8D%E5%AD%98%E5%9C%A8-%E7%BE%8E%E5%9C%8B%E9%A0%98%E5%B0%8E%E5%9C%B0%E4%BD%8D%E9%81%AD%E6%8C%91%E6%88%B0%E6%88%96%E5%B7%B2%E5%96%AA%E5%A4%B1",
-    "timestamp": "2026-02-13T20:40:32.384Z",
     "strategy": ".content-card__main"
   }
 ];
