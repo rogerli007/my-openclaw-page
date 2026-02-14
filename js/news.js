@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-14T17:15:58.142Z
+// Last updated: 2026-02-14T17:32:13.899Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "馬會主席廖長江：未來娛樂部份將大增　年輕人入場不一定參與賽馬",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20251219/1078698577154281472048523.jpeg/4b4sigK9OMyKbnHmmBmpN5Ydkulxfe8fFWfI3xVnyN8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60322538/%E9%A6%AC%E6%9C%83%E4%B8%BB%E5%B8%AD%E5%BB%96%E9%95%B7%E6%B1%9F-%E6%9C%AA%E4%BE%86%E5%A8%9B%E6%A8%82%E9%83%A8%E4%BB%BD%E5%B0%87%E5%A4%A7%E5%A2%9E-%E5%B9%B4%E8%BC%95%E4%BA%BA%E5%85%A5%E5%A0%B4%E4%B8%8D%E4%B8%80%E5%AE%9A%E5%8F%83%E8%88%87%E8%B3%BD%E9%A6%AC",
+    "timestamp": "2026-02-14T17:32:13.899Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "英足總盃｜曼城2:0輕取沙福特城　古希入波助藍月亮晉級第五輪",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260213/1099034983223267328138072.jpeg/vrxUWJrqVbrJ6FKcXd74VxgD5ub0KM4Enf23J539tyc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60322204/hi-miro-garden-party-2026%E9%A6%99%E6%B8%AF-%E9%96%80%E7%A5%A8%E6%94%BB%E7%95%A5-%E8%B3%BC%E7%A5%A8%E9%80%A3%E7%B5%90-%E5%BA%A7%E4%BD%8D%E8%A1%A8",
     "timestamp": "2026-02-14T11:30:42.923Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "張振朗提楊偲泳即「冧滋滋」　唔介意女友性感大膽演出力撐好專業",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260214/1099417753401430016685104.jpeg/Q3C9fAlObG4y_ppNxhEQXzpJ_T2s4fk8Uxlo-WYZaPk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60322501/%E5%BC%B5%E6%8C%AF%E6%9C%97%E6%8F%90%E6%A5%8A%E5%81%B2%E6%B3%B3%E5%8D%B3-%E5%86%A7%E6%BB%8B%E6%BB%8B-%E5%94%94%E4%BB%8B%E6%84%8F%E5%A5%B3%E5%8F%8B%E6%80%A7%E6%84%9F%E5%A4%A7%E8%86%BD%E6%BC%94%E5%87%BA%E5%8A%9B%E6%92%90%E5%A5%BD%E5%B0%88%E6%A5%AD",
-    "timestamp": "2026-02-14T11:13:47.269Z",
     "strategy": ".content-card__main"
   }
 ];
