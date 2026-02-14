@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-14T21:46:05.084Z
+// Last updated: 2026-02-14T21:58:08.256Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "微軟AI CEO：大部份白領工作1.5年內被AI取代　律師及會計師高危",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260215/1099573827177811968948103.png/trAKQOq6OtdE0DXZAjzYOhxMxou_a1Zs3xLExt8SxMY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60322553/%E5%BE%AE%E8%BB%9Fai-ceo-%E5%A4%A7%E9%83%A8%E4%BB%BD%E7%99%BD%E9%A0%98%E5%B7%A5%E4%BD%9C1-5%E5%B9%B4%E5%85%A7%E8%A2%ABai%E5%8F%96%E4%BB%A3-%E5%BE%8B%E5%B8%AB%E5%8F%8A%E6%9C%83%E8%A8%88%E5%B8%AB%E9%AB%98%E5%8D%B1",
+    "timestamp": "2026-02-14T21:58:08.256Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "英足總盃｜紐卡素3：1反勝10人維拉　東拿利梅開二度",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260215/1099495374260801536689701.jpeg/qvdahTiOeejpz6qNQXzPx0oclnafTA_qV-nSNlfp0jY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60322539/%E9%98%BFmo%E8%BF%8E%E4%BE%86%E5%B0%88%E5%B1%AC%E9%9B%BB%E5%8B%95%E8%BC%AA%E6%A4%85-%E8%8A%B1%E5%85%A9%E5%80%8B%E6%9C%88%E7%B5%82-%E5%9D%90%E6%AD%A3-%E8%BA%AB%E9%AB%94%E7%8F%BE%E4%B8%80%E5%80%8B%E5%BE%AE%E5%B0%8F%E7%AA%81%E7%A0%B4",
     "timestamp": "2026-02-14T16:51:25.928Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "小米Xiaomi G30 Max無線吸塵機實測｜AI偵測+超強吸力 性價比之選",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260210/1098019134270083072985324.jpeg/kfHFUrtZZ2RvM6YTMz0aW7Cju_FTiP37BuUK4AblCuA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60320300/%E5%B0%8F%E7%B1%B3xiaomi-g30-max%E7%84%A1%E7%B7%9A%E5%90%B8%E5%A1%B5%E6%A9%9F%E5%AF%A6%E6%B8%AC-ai%E5%81%B5%E6%B8%AC-%E8%B6%85%E5%BC%B7%E5%90%B8%E5%8A%9B-%E6%80%A7%E5%83%B9%E6%AF%94%E4%B9%8B%E9%81%B8",
-    "timestamp": "2026-02-14T16:31:54.905Z",
     "strategy": ".content-card__main"
   }
 ];
