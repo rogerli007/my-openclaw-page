@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-14T07:49:25.252Z
+// Last updated: 2026-02-14T08:02:30.257Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "NBA｜傳奇控衛基斯保羅宣告退役　結束21年職業生涯",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260214/1099287166615293952816957.jpeg/HDv2HWq6eMWVp0fWGEIM-Y6icwgB8fD2oVn46aFZ-Ok?v=w1920r16_9",
+    "url": "https://www.hk01.com/Jumper/60322354/nba-%E5%82%B3%E5%A5%87%E6%8E%A7%E8%A1%9B%E5%9F%BA%E6%96%AF%E4%BF%9D%E7%BE%85%E5%AE%A3%E5%91%8A%E9%80%80%E5%BD%B9-%E7%B5%90%E6%9D%9F21%E5%B9%B4%E8%81%B7%E6%A5%AD%E7%94%9F%E6%B6%AF",
+    "timestamp": "2026-02-14T08:02:30.257Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "《愛‧回家》靚仔小生驚傳入院！曾投資七位數北上創業變小食大王",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260214/1099189088361123840054716.jpeg/-6WYzA9qq0-WUn66QHdPIznZVH8gu3CuOfgY2zn4GNs?v=w1920",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60322324/%E9%BB%98%E8%8C%A8-%E5%9F%BA%E6%96%BC%E8%A6%8F%E5%89%87%E7%9A%84%E4%B8%96%E7%95%8C%E7%A7%A9%E5%BA%8F%E5%B7%B2%E4%B8%8D%E5%AD%98%E5%9C%A8-%E7%BE%8E%E5%9C%8B%E9%A0%98%E5%B0%8E%E5%9C%B0%E4%BD%8D%E9%81%AD%E6%8C%91%E6%88%B0%E6%88%96%E5%B7%B2%E5%96%AA%E5%A4%B1",
     "timestamp": "2026-02-13T21:52:04.001Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "默茨：基於規則的世界秩序已不存在　美國領導地位遭挑戰或已喪失",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260214/1099189088361123840054716.jpeg/-6WYzA9qq0-WUn66QHdPIznZVH8gu3CuOfgY2zn4GNs?v=w1920",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60322324/%E9%BB%98%E8%8C%A8-%E5%9F%BA%E6%96%BC%E8%A6%8F%E5%89%87%E7%9A%84%E4%B8%96%E7%95%8C%E7%A7%A9%E5%BA%8F%E5%B7%B2%E4%B8%8D%E5%AD%98%E5%9C%A8-%E7%BE%8E%E5%9C%8B%E9%A0%98%E5%B0%8E%E5%9C%B0%E4%BD%8D%E9%81%AD%E6%8C%91%E6%88%B0%E6%88%96%E5%B7%B2%E5%96%AA%E5%A4%B1",
-    "timestamp": "2026-02-13T21:24:20.975Z",
     "strategy": ".content-card__main"
   }
 ];
