@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-14T08:02:30.257Z
+// Last updated: 2026-02-14T08:19:46.678Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "學界籃球精英賽｜馮氏孖妹領港同吞慘敗　意義超勝負圓滿中學生涯",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260214/1099373414453350400257381.jpeg/hH3zPWqBWPAJH7DH22wkmDDX0NRKXFp1l57m3pee5t4?v=w1920r16_9",
+    "url": "https://www.hk01.com/Jumper/60322349/%E5%AD%B8%E7%95%8C%E7%B1%83%E7%90%83%E7%B2%BE%E8%8B%B1%E8%B3%BD-%E9%A6%AE%E6%B0%8F%E5%AD%96%E5%A6%B9%E9%A0%98%E6%B8%AF%E5%90%8C%E5%90%9E%E6%85%98%E6%95%97-%E6%84%8F%E7%BE%A9%E8%B6%85%E5%8B%9D%E8%B2%A0%E5%9C%93%E6%BB%BF%E4%B8%AD%E5%AD%B8%E7%94%9F%E6%B6%AF",
+    "timestamp": "2026-02-14T08:19:46.678Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "NBA｜傳奇控衛基斯保羅宣告退役　結束21年職業生涯",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260213/1099034492858798080420378.jpeg/O9tMu9cQHVbOwwcAZALzTrGaaRQDRiI2l2Gvr5dhr68?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60322061/%E6%98%9F%E4%B9%8B%E8%B0%B7-%E7%BD%AE%E6%98%93%E4%BB%98%E6%88%90%E4%BA%8C%E6%89%8B%E6%A8%93%E4%BA%A4%E6%98%93%E6%96%B0%E9%81%B8%E9%A0%85-%E8%B3%87%E9%87%91%E5%AE%89%E5%85%A8%E8%BF%8E%E4%BF%9D%E9%9A%9C",
     "timestamp": "2026-02-13T22:18:13.543Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "默茨：基於規則的世界秩序已不存在　美國領導地位遭挑戰或已喪失",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260214/1099189088361123840054716.jpeg/-6WYzA9qq0-WUn66QHdPIznZVH8gu3CuOfgY2zn4GNs?v=w1920",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60322324/%E9%BB%98%E8%8C%A8-%E5%9F%BA%E6%96%BC%E8%A6%8F%E5%89%87%E7%9A%84%E4%B8%96%E7%95%8C%E7%A7%A9%E5%BA%8F%E5%B7%B2%E4%B8%8D%E5%AD%98%E5%9C%A8-%E7%BE%8E%E5%9C%8B%E9%A0%98%E5%B0%8E%E5%9C%B0%E4%BD%8D%E9%81%AD%E6%8C%91%E6%88%B0%E6%88%96%E5%B7%B2%E5%96%AA%E5%A4%B1",
-    "timestamp": "2026-02-13T21:52:04.001Z",
     "strategy": ".content-card__main"
   }
 ];
