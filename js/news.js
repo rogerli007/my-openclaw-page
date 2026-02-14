@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-14T19:03:41.822Z
+// Last updated: 2026-02-14T19:18:02.477Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "荃德花園地下大堂假天花石膏板塌下　擊傷保安頭部　清醒送院治理",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260215/1099535377720414208754302.jpeg/4eOcRxlXjIqSJGJiw-fwyJnwgqMZ-bxCNK27Sg6tu0o?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60322547/%E8%8D%83%E5%BE%B7%E8%8A%B1%E5%9C%92%E5%9C%B0%E4%B8%8B%E5%A4%A7%E5%A0%82%E5%81%87%E5%A4%A9%E8%8A%B1%E7%9F%B3%E8%86%8F%E6%9D%BF%E5%A1%8C%E4%B8%8B-%E6%93%8A%E5%82%B7%E4%BF%9D%E5%AE%89%E9%A0%AD%E9%83%A8-%E6%B8%85%E9%86%92%E9%80%81%E9%99%A2%E6%B2%BB%E7%90%86",
+    "timestamp": "2026-02-14T19:18:02.477Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "荃德花園地下大堂假天花石膏板塌下　擊傷保安頭部　清醒送院治理",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260214/1099433153858113536167023.jpeg/H4sb3yAMnDjbauyVp9KU9dXAiavn9db90LZQ8uq2UPI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60322509/%E4%B8%81%E5%AD%90%E6%9C%97%E7%82%BA%E7%82%AB%E5%AF%8C%E9%A2%A8%E6%B3%A2%E8%A7%A3%E7%95%AB-%E6%BE%84%E6%B8%85%E7%82%BA%E5%AE%A3%E5%82%B3%E7%AF%80%E7%9B%AE%E8%80%83%E6%85%AE%E4%B8%8D%E5%91%A8-%E4%BD%9C%E5%87%BA%E6%88%B0%E7%95%A5%E6%80%A7%E8%AA%BF%E6%95%B4",
     "timestamp": "2026-02-14T13:37:57.961Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "苟芸慧離婚後狀態回勇情人節不寂寞　雪地唯美照少女味濃無得頂",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260214/1099426744215015424341605.png/e_wviIIppEZUJxqs0AlHCN4FMnb5lDOvkdjzDpHY8w4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60322506/%E8%8B%9F%E8%8A%B8%E6%85%A7%E9%9B%A2%E5%A9%9A%E5%BE%8C%E7%8B%80%E6%85%8B%E5%9B%9E%E5%8B%87%E6%83%85%E4%BA%BA%E7%AF%80%E4%B8%8D%E5%AF%82%E5%AF%9E-%E9%9B%AA%E5%9C%B0%E5%94%AF%E7%BE%8E%E7%85%A7%E5%B0%91%E5%A5%B3%E5%91%B3%E6%BF%83%E7%84%A1%E5%BE%97%E9%A0%82",
-    "timestamp": "2026-02-14T13:13:49.722Z",
     "strategy": ".content-card__main"
   }
 ];
