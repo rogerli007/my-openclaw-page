@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-14T22:48:17.889Z
+// Last updated: 2026-02-14T23:01:36.951Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "丹麥首相指特朗普仍對格陵蘭死心不息　狠批民眾受壓「不可接受」",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260215/1099587656708263936649152.jpeg/q1QqcjYBCJFDxYoJbyUyIL2Fl-dd07Oc3t68p97evKc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60322554/%E4%B8%B9%E9%BA%A5%E9%A6%96%E7%9B%B8%E6%8C%87%E7%89%B9%E6%9C%97%E6%99%AE%E4%BB%8D%E5%B0%8D%E6%A0%BC%E9%99%B5%E8%98%AD%E6%AD%BB%E5%BF%83%E4%B8%8D%E6%81%AF-%E7%8B%A0%E6%89%B9%E6%B0%91%E7%9C%BE%E5%8F%97%E5%A3%93-%E4%B8%8D%E5%8F%AF%E6%8E%A5%E5%8F%97",
+    "timestamp": "2026-02-14T23:01:36.951Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "丹麥首相指特朗普仍對格陵蘭死心不息　狠批民眾受壓「不可接受」",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260215/1099520210584473600593712.jpeg/1i6vmWmoJidAbbb8w5yHhRX9FekxmCtalT-ihJU_ooQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60322543/%E8%B6%99%E5%B8%8C%E6%B4%9B%E6%AD%A3%E5%BC%8F%E5%B0%81%E7%9B%A4%E6%83%85%E4%BA%BA%E7%AF%80%E4%B8%8A%E8%BC%89%E5%A9%9A%E7%85%A7-%E7%A5%9E%E7%A7%98%E7%94%B7%E5%8F%8B%E9%A6%96%E6%AC%A1%E5%85%A5%E9%8F%A1",
     "timestamp": "2026-02-14T18:00:21.622Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "馬會主席廖長江：未來娛樂部份將大增　年輕人入場不一定參與賽馬",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20251219/1078698577154281472048523.jpeg/4b4sigK9OMyKbnHmmBmpN5Ydkulxfe8fFWfI3xVnyN8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60322538/%E9%A6%AC%E6%9C%83%E4%B8%BB%E5%B8%AD%E5%BB%96%E9%95%B7%E6%B1%9F-%E6%9C%AA%E4%BE%86%E5%A8%9B%E6%A8%82%E9%83%A8%E4%BB%BD%E5%B0%87%E5%A4%A7%E5%A2%9E-%E5%B9%B4%E8%BC%95%E4%BA%BA%E5%85%A5%E5%A0%B4%E4%B8%8D%E4%B8%80%E5%AE%9A%E5%8F%83%E8%88%87%E8%B3%BD%E9%A6%AC",
-    "timestamp": "2026-02-14T17:48:47.229Z",
     "strategy": ".content-card__main"
   }
 ];
