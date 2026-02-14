@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-14T19:34:24.950Z
+// Last updated: 2026-02-14T19:47:26.352Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "日本大阪道頓崛發生持刀傷人案1死2傷　疑兇在逃",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260215/1099546929257254912532679.jpeg/ChpqF3wFfAlK8yYjQKXt1nG7LA33hYzj-IRpl_iEaZc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60322549/%E6%97%A5%E6%9C%AC%E5%A4%A7%E9%98%AA%E9%81%93%E9%A0%93%E5%B4%9B%E7%99%BC%E7%94%9F%E6%8C%81%E5%88%80%E5%82%B7%E4%BA%BA%E6%A1%881%E6%AD%BB2%E5%82%B7-%E7%96%91%E5%85%87%E5%9C%A8%E9%80%83",
+    "timestamp": "2026-02-14T19:47:26.352Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "荃德花園地下大堂假天花石膏板塌下　擊傷保安頭部　清醒送院治理",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20240302/840446285621235712853074.jpeg/SNTx0kgnZpbT7gsTtw9TRD3N_IMZnQabHMWTBhzFkwY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60322529/%E8%8B%B1%E6%B3%95%E5%BE%B7%E7%91%9E%E8%8D%B7%E8%81%AF%E5%90%88%E8%81%B2%E6%98%8E-%E7%A2%BA%E4%BF%A1%E4%BF%84%E5%8F%8D%E5%B0%8D%E6%B4%BE%E9%A0%98%E8%A2%96%E7%B4%8D%E7%93%A6%E5%88%A9%E5%B0%BC%E9%81%AD%E4%B8%8B%E6%AF%92%E6%AD%BB",
     "timestamp": "2026-02-14T14:18:24.972Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "冬奧｜赴米蘭為國家隊打氣　44歲男子潛逃16年後落網",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260214/1099460880703164416869573.jpeg/BXla6xWh05KgkSLVGOPas7RhE0o1nkfu1KzQ2tSs0No?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%92%B0%E7%90%83%E8%B6%A3%E8%81%9E/60322525/%E5%86%AC%E5%A5%A7-%E8%B5%B4%E7%B1%B3%E8%98%AD%E7%82%BA%E5%9C%8B%E5%AE%B6%E9%9A%8A%E6%89%93%E6%B0%A3-44%E6%AD%B2%E7%94%B7%E5%AD%90%E6%BD%9B%E9%80%8316%E5%B9%B4%E5%BE%8C%E8%90%BD%E7%B6%B2",
-    "timestamp": "2026-02-14T14:02:32.688Z",
     "strategy": ".content-card__main"
   }
 ];
