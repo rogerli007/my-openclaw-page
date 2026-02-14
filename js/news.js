@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-14T02:44:58.758Z
+// Last updated: 2026-02-14T03:40:24.145Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "食環署署長首公開聘　需政治觸覺和執法經驗　謝展寰稱有助革新",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260214/1099302696009076736682351.jpeg/OzXB9_Y-OxsXl5_B4DMbLrbPg2Pr-oX5b2s3Sm9rN0o?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60322376/%E9%A3%9F%E7%92%B0%E7%BD%B2%E7%BD%B2%E9%95%B7%E9%A6%96%E5%85%AC%E9%96%8B%E8%81%98-%E9%9C%80%E6%94%BF%E6%B2%BB%E8%A7%B8%E8%A6%BA%E5%92%8C%E5%9F%B7%E6%B3%95%E7%B6%93%E9%A9%97-%E8%AC%9D%E5%B1%95%E5%AF%B0%E7%A8%B1%E6%9C%89%E5%8A%A9%E9%9D%A9%E6%96%B0",
+    "timestamp": "2026-02-14T03:40:24.145Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "荷蘭法院查安世半導體　中國商務部：半導體供應鏈穩定是當務之急",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260214/1099146068953665536812375.jpeg/ULKGqzjxeNEJfjMZfASOQgvbEnmwavXO3mLGHN5ixhw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60322316/%E8%AD%A6%E6%B7%B1%E6%B0%B4%E5%9F%97%E6%90%97%E9%87%A3%E9%AD%9A%E6%A9%9F%E8%B3%AD%E6%AA%94-6%E4%BA%BA%E8%A2%AB%E6%8D%95",
     "timestamp": "2026-02-13T17:51:42.862Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "警深水埗搗釣魚機賭檔　6人被捕",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260214/1099146068953665536812375.jpeg/ULKGqzjxeNEJfjMZfASOQgvbEnmwavXO3mLGHN5ixhw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60322316/%E8%AD%A6%E6%B7%B1%E6%B0%B4%E5%9F%97%E6%90%97%E9%87%A3%E9%AD%9A%E6%A9%9F%E8%B3%AD%E6%AA%94-6%E4%BA%BA%E8%A2%AB%E6%8D%95",
-    "timestamp": "2026-02-13T17:26:31.363Z",
     "strategy": ".content-card__main"
   }
 ];
