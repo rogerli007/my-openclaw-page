@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-14T17:48:47.229Z
+// Last updated: 2026-02-14T18:00:21.622Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "趙希洛正式封盤情人節上載婚照　神秘男友首次入鏡！",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260215/1099520210584473600593712.jpeg/1i6vmWmoJidAbbb8w5yHhRX9FekxmCtalT-ihJU_ooQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60322543/%E8%B6%99%E5%B8%8C%E6%B4%9B%E6%AD%A3%E5%BC%8F%E5%B0%81%E7%9B%A4%E6%83%85%E4%BA%BA%E7%AF%80%E4%B8%8A%E8%BC%89%E5%A9%9A%E7%85%A7-%E7%A5%9E%E7%A7%98%E7%94%B7%E5%8F%8B%E9%A6%96%E6%AC%A1%E5%85%A5%E9%8F%A1",
+    "timestamp": "2026-02-14T18:00:21.622Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "馬會主席廖長江：未來娛樂部份將大增　年輕人入場不一定參與賽馬",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260208/1097005171679956992609721.jpeg/vA9o_YFAnvAY1MwgHuOc1Gkm5TvKtADCwa4BZcGuAWU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60322507/%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E9%A1%9E%E9%A2%A8%E6%BF%95%E9%97%9C%E7%AF%80%E7%82%8E%E7%97%85%E6%83%85%E6%83%A1%E5%8C%96%E8%B5%B4%E9%86%AB%E9%99%A2%E6%AA%A2%E6%9F%A5-%E5%85%A9%E6%A0%B9%E6%89%8B%E6%8C%87%E9%97%9C%E7%AF%80%E8%AE%8A%E5%BD%A2",
     "timestamp": "2026-02-14T11:56:46.712Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "農曆新年｜龍寶酒家年糕券佐敦店拒換　店員：印券時未開業",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260214/1099410121504591872486317.jpeg/guDctILW4OveMRdjFc1KX2-lD5b3f19dcjFnd1cxZ3c?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60322491/%E8%BE%B2%E6%9B%86%E6%96%B0%E5%B9%B4-%E9%BE%8D%E5%AF%B6%E9%85%92%E5%AE%B6%E5%B9%B4%E7%B3%95%E5%88%B8%E4%BD%90%E6%95%A6%E5%BA%97%E6%8B%92%E6%8F%9B-%E5%BA%97%E5%93%A1-%E5%8D%B0%E5%88%B8%E6%99%82%E6%9C%AA%E9%96%8B%E6%A5%AD",
-    "timestamp": "2026-02-14T11:44:46.533Z",
     "strategy": ".content-card__main"
   }
 ];
