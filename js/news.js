@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-14T14:18:24.972Z
+// Last updated: 2026-02-14T14:35:42.158Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "挪威前首相陷醜聞：愛潑斯坦提供住宿資助旅行　欲換搭路見普京",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260214/1099466697175207936493620.jpeg/tH4GS7Aox4gkcm6ue2tjtE3tcAKCao0JMXO0RDFztEQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60322528/%E6%8C%AA%E5%A8%81%E5%89%8D%E9%A6%96%E7%9B%B8%E9%99%B7%E9%86%9C%E8%81%9E-%E6%84%9B%E6%BD%91%E6%96%AF%E5%9D%A6%E6%8F%90%E4%BE%9B%E4%BD%8F%E5%AE%BF%E8%B3%87%E5%8A%A9%E6%97%85%E8%A1%8C-%E6%AC%B2%E6%8F%9B%E6%90%AD%E8%B7%AF%E8%A6%8B%E6%99%AE%E4%BA%AC",
+    "timestamp": "2026-02-14T14:35:42.158Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "英法德瑞荷聯合聲明：確信俄反對派領袖納瓦利尼遭下毒死",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260214/1099373414453350400257381.jpeg/hH3zPWqBWPAJH7DH22wkmDDX0NRKXFp1l57m3pee5t4?v=w1920r16_9",
     "url": "https://www.hk01.com/Jumper/60322349/%E5%AD%B8%E7%95%8C%E7%B1%83%E7%90%83%E7%B2%BE%E8%8B%B1%E8%B3%BD-%E9%A6%AE%E6%B0%8F%E5%AD%96%E5%A6%B9%E9%A0%98%E6%B8%AF%E5%90%8C%E5%90%9E%E6%85%98%E6%95%97-%E6%84%8F%E7%BE%A9%E8%B6%85%E5%8B%9D%E8%B2%A0%E5%9C%93%E6%BB%BF%E4%B8%AD%E5%AD%B8%E7%94%9F%E6%B6%AF",
     "timestamp": "2026-02-14T08:19:46.678Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "NBA｜傳奇控衛基斯保羅宣告退役　結束21年職業生涯",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260214/1099287166615293952816957.jpeg/HDv2HWq6eMWVp0fWGEIM-Y6icwgB8fD2oVn46aFZ-Ok?v=w1920r16_9",
-    "url": "https://www.hk01.com/Jumper/60322354/nba-%E5%82%B3%E5%A5%87%E6%8E%A7%E8%A1%9B%E5%9F%BA%E6%96%AF%E4%BF%9D%E7%BE%85%E5%AE%A3%E5%91%8A%E9%80%80%E5%BD%B9-%E7%B5%90%E6%9D%9F21%E5%B9%B4%E8%81%B7%E6%A5%AD%E7%94%9F%E6%B6%AF",
-    "timestamp": "2026-02-14T08:02:30.257Z",
     "strategy": ".content-card__main"
   }
 ];
