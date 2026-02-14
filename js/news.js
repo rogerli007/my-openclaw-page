@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-13T23:48:51.970Z
+// Last updated: 2026-02-14T00:02:07.045Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "羅浮宮又出事？　展廳漏水導致19世紀天花板壁畫受損",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260214/1099244034649493504875293.jpeg/UHFUjYMc_DbuIy0eYuNfo1jZGzWV8svMkoYVBZKGFQU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60322331/%E7%BE%85%E6%B5%AE%E5%AE%AE%E5%8F%88%E5%87%BA%E4%BA%8B-%E5%B1%95%E5%BB%B3%E6%BC%8F%E6%B0%B4%E5%B0%8E%E8%87%B419%E4%B8%96%E7%B4%80%E5%A4%A9%E8%8A%B1%E6%9D%BF%E5%A3%81%E7%95%AB%E5%8F%97%E6%90%8D",
+    "timestamp": "2026-02-14T00:02:07.045Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "已婚副教授約女舊生看夜景！車內強抱狂吻　她崩潰報警拒和解",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260210/1098026061717049344934286.jpeg/Rmtz31YR0Rm1pwz-U4dEn1siBK7wgUt6gsIMEoLCDBI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60322237/%E7%94%9F%E8%A0%94%E9%A3%9F%E7%89%A9%E4%B8%AD%E6%AF%92-%E9%85%92%E5%BA%97%E4%BD%8E%E8%AA%BF%E8%AE%8A%E6%8B%9B%E8%BD%89%E9%A3%9F%E8%9F%B9-%E6%9C%89%E8%A0%94%E5%BA%97%E7%A8%B1%E6%B3%95%E5%9C%8B%E7%9B%B4%E9%81%8B%E4%B8%8D%E6%B6%89%E4%BE%9B%E6%87%89%E5%95%86",
     "timestamp": "2026-02-13T15:58:08.105Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "跨部門大角咀和九龍灣搗2個非法加油站　3人被捕",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260213/1099120588628168704835261.jpeg/HkAtTb4gOM-VcMMftqrkG1aNl3HpgbCO4TjL5OE4y-Q?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60322307/%E8%B7%A8%E9%83%A8%E9%96%80%E5%A4%A7%E8%A7%92%E5%92%80%E5%92%8C%E4%B9%9D%E9%BE%8D%E7%81%A3%E6%90%972%E5%80%8B%E9%9D%9E%E6%B3%95%E5%8A%A0%E6%B2%B9%E7%AB%99-3%E4%BA%BA%E8%A2%AB%E6%8D%95",
-    "timestamp": "2026-02-13T15:34:11.145Z",
     "strategy": ".content-card__main"
   }
 ];
