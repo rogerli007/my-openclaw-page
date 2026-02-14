@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-14T18:17:43.480Z
+// Last updated: 2026-02-14T18:35:31.432Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "珍惜生命︱尖沙咀男子燒炭　女友及時發現　昏迷送院搶救",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260215/1099529756732297216649758.jpeg/s_K6cdDhyTG_JkG9h3Kx5IG48CpZOOiu760ICdWtCAk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60322545/%E7%8F%8D%E6%83%9C%E7%94%9F%E5%91%BD-%E5%B0%96%E6%B2%99%E5%92%80%E7%94%B7%E5%AD%90%E7%87%92%E7%82%AD-%E5%A5%B3%E5%8F%8B%E5%8F%8A%E6%99%82%E7%99%BC%E7%8F%BE-%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2%E6%90%B6%E6%95%91",
+    "timestamp": "2026-02-14T18:35:31.432Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "施紀賢：不再是脫歐時期的英國　將派航母打擊群到北極防俄威脅",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260214/1099412979666915328148370.jpeg/MGtstzJbb3x78wtG2GVlQ3PVkOb441BzdvC8D3bwvA8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60322490/%E8%94%A1%E6%80%9D%E8%B2%9D%E6%83%85%E4%BA%BA%E7%AF%80%E5%85%AC%E9%96%8B-%E7%94%B7%E5%8F%8B-%E7%9C%9F%E8%BA%AB-%E7%94%9C%E8%9C%9C%E6%94%BE%E9%96%83%E6%9C%8D%E8%A3%9D%E5%BA%97%E5%8D%81%E6%8C%87%E7%B7%8A%E6%89%A3",
     "timestamp": "2026-02-14T12:37:58.871Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "國安白皮書研討會｜周霽：鞏固香港由亂到治走向由治及興局面",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260214/1099347614396059648612350.jpeg/O1QM4r1cqcPGbtq4NiO8bIrLsO1_fwA9G7hCOBu4Qjg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60322508/%E5%9C%8B%E5%AE%89%E7%99%BD%E7%9A%AE%E6%9B%B8%E7%A0%94%E8%A8%8E%E6%9C%83-%E5%91%A8%E9%9C%BD-%E9%9E%8F%E5%9B%BA%E9%A6%99%E6%B8%AF%E7%94%B1%E4%BA%82%E5%88%B0%E6%B2%BB%E8%B5%B0%E5%90%91%E7%94%B1%E6%B2%BB%E5%8F%8A%E8%88%88%E5%B1%80%E9%9D%A2",
-    "timestamp": "2026-02-14T12:18:57.597Z",
     "strategy": ".content-card__main"
   }
 ];
