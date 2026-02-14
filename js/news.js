@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-14T09:36:55.005Z
+// Last updated: 2026-02-14T10:00:00.333Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "長沙爆紅奶茶店茶顏悅色將入駐深圳　首批門店預四月底營業",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20210506/466909580350722048745689.png/iszvckV4DJBNjcewz1Kf501UCUXKl3x2QbYtI0G2LSM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8C%97%E4%B8%8A%E5%BB%A3%E6%9D%B1/60322479/%E9%95%B7%E6%B2%99%E7%88%86%E7%B4%85%E5%A5%B6%E8%8C%B6%E5%BA%97%E8%8C%B6%E9%A1%8F%E6%82%85%E8%89%B2%E5%B0%87%E5%85%A5%E9%A7%90%E6%B7%B1%E5%9C%B3-%E9%A6%96%E6%89%B9%E9%96%80%E5%BA%97%E9%A0%90%E5%9B%9B%E6%9C%88%E5%BA%95%E7%87%9F%E6%A5%AD",
+    "timestamp": "2026-02-14T10:00:00.333Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "警新界南捉交通違規拘9人涉販毒醉駕　另揭128車超速扣查15改裝車",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260214/1099244034649493504875293.jpeg/UHFUjYMc_DbuIy0eYuNfo1jZGzWV8svMkoYVBZKGFQU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60322331/%E7%BE%85%E6%B5%AE%E5%AE%AE%E5%8F%88%E5%87%BA%E4%BA%8B-%E5%B1%95%E5%BB%B3%E6%BC%8F%E6%B0%B4%E5%B0%8E%E8%87%B419%E4%B8%96%E7%B4%80%E5%A4%A9%E8%8A%B1%E6%9D%BF%E5%A3%81%E7%95%AB%E5%8F%97%E6%90%8D",
     "timestamp": "2026-02-14T00:02:07.045Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "已婚副教授約女舊生看夜景！車內強抱狂吻　她崩潰報警拒和解",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260205/1095948436613632000968531.png/YRTqMSLe8DQ_iP8_IrbGdr2-seAddEBaoRb2z6EW9s8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E8%A9%B1%E9%A1%8C/60319386/%E5%B7%B2%E5%A9%9A%E5%89%AF%E6%95%99%E6%8E%88%E7%B4%84%E5%A5%B3%E8%88%8A%E7%94%9F%E7%9C%8B%E5%A4%9C%E6%99%AF-%E8%BB%8A%E5%85%A7%E5%BC%B7%E6%8A%B1%E7%8B%82%E5%90%BB-%E5%A5%B9%E5%B4%A9%E6%BD%B0%E5%A0%B1%E8%AD%A6%E6%8B%92%E5%92%8C%E8%A7%A3",
-    "timestamp": "2026-02-13T23:48:51.970Z",
     "strategy": ".content-card__main"
   }
 ];
