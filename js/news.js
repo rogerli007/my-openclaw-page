@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-14T15:14:33.632Z
+// Last updated: 2026-02-14T15:30:59.560Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "曾錦燊新手運花小本錢贏七百蚊　笑自己冇情人：屋企人係上世情人",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260214/1099467107793375232502194.jpeg/pjKcOVmsaPbT7OLBaPhwSGonzH3Fjx3W093tT-nd7U8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60322530/%E6%9B%BE%E9%8C%A6%E7%87%8A%E6%96%B0%E6%89%8B%E9%81%8B%E8%8A%B1%E5%B0%8F%E6%9C%AC%E9%8C%A2%E8%B4%8F%E4%B8%83%E7%99%BE%E8%9A%8A-%E7%AC%91%E8%87%AA%E5%B7%B1%E5%86%87%E6%83%85%E4%BA%BA-%E5%B1%8B%E4%BC%81%E4%BA%BA%E4%BF%82%E4%B8%8A%E4%B8%96%E6%83%85%E4%BA%BA",
+    "timestamp": "2026-02-14T15:30:59.560Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "農曆新年｜情人節至晚上9時逾50萬港人離港　14萬内地旅客南下",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260214/1099382104937992192162493.jpeg/5l1HS2WKWN3qTEkvrBoT6hO4QQC6J80xbmbiO25m4js?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60322462/%E6%B7%B1%E6%B0%B4%E5%9F%97%E8%AD%A6%E6%89%93%E6%93%8A-%E6%90%B5%E5%BF%AB%E9%8C%A2-%E6%8B%9859%E4%BA%BA%E6%9C%80%E7%B4%B017%E6%AD%B2-%E6%8D%B2%E7%9B%9C%E7%AB%8A%E8%A9%90%E9%A8%99%E7%AD%89%E6%A1%88%E6%B6%89-407%E8%90%AC",
     "timestamp": "2026-02-14T09:18:59.609Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "11年前TVB新聞「陰謀男」自爆買兩扎花　適逢情人節網民又鞭屍！",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260214/1099377637110845440406793.jpeg/cT0otDaLIwHfOVXsHWJiJt_LZE4MjUyZrOkLXqzpC14?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60322450/11%E5%B9%B4%E5%89%8Dtvb%E6%96%B0%E8%81%9E-%E9%99%B0%E8%AC%80%E7%94%B7-%E8%87%AA%E7%88%86%E8%B2%B7%E5%85%A9%E6%89%8E%E8%8A%B1-%E9%81%A9%E9%80%A2%E6%83%85%E4%BA%BA%E7%AF%80%E7%B6%B2%E6%B0%91%E5%8F%88%E9%9E%AD%E5%B1%8D",
-    "timestamp": "2026-02-14T09:01:39.767Z",
     "strategy": ".content-card__main"
   }
 ];
