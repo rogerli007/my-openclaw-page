@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-14T14:59:32.517Z
+// Last updated: 2026-02-14T15:14:33.632Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "農曆新年｜情人節至晚上9時逾50萬港人離港　14萬内地旅客南下",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260214/1099307823730528256210364.jpeg/SHJb8ju9c13SwotfWWqBChYts0Bi34fB2vzimdr84pk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60322532/%E8%BE%B2%E6%9B%86%E6%96%B0%E5%B9%B4-%E6%83%85%E4%BA%BA%E7%AF%80%E8%87%B3%E6%99%9A%E4%B8%8A9%E6%99%82%E9%80%BE50%E8%90%AC%E6%B8%AF%E4%BA%BA%E9%9B%A2%E6%B8%AF-14%E8%90%AC%E5%86%85%E5%9C%B0%E6%97%85%E5%AE%A2%E5%8D%97%E4%B8%8B",
+    "timestamp": "2026-02-14T15:14:33.632Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "譚輝智首踏沙圈獻唱自爆緊張未開聲　情人節帶埋老婆仔女入馬場玩",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260214/1099377637110845440406793.jpeg/cT0otDaLIwHfOVXsHWJiJt_LZE4MjUyZrOkLXqzpC14?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60322450/11%E5%B9%B4%E5%89%8Dtvb%E6%96%B0%E8%81%9E-%E9%99%B0%E8%AC%80%E7%94%B7-%E8%87%AA%E7%88%86%E8%B2%B7%E5%85%A9%E6%89%8E%E8%8A%B1-%E9%81%A9%E9%80%A2%E6%83%85%E4%BA%BA%E7%AF%80%E7%B6%B2%E6%B0%91%E5%8F%88%E9%9E%AD%E5%B1%8D",
     "timestamp": "2026-02-14T09:01:39.767Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "方力申囡囡打針連環被拮爆喊抖不到氣　首個情人節一原因捉實爸爸",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260214/1099353541161521152521946.jpeg/auPmWpjqOCoK52aneyP8WTb1XGRgc38NXZmUgF2ZlIA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60322421/%E6%96%B9%E5%8A%9B%E7%94%B3%E5%9B%A1%E5%9B%A1%E6%89%93%E9%87%9D%E9%80%A3%E7%92%B0%E8%A2%AB%E6%8B%AE%E7%88%86%E5%96%8A%E6%8A%96%E4%B8%8D%E5%88%B0%E6%B0%A3-%E9%A6%96%E5%80%8B%E6%83%85%E4%BA%BA%E7%AF%80%E4%B8%80%E5%8E%9F%E5%9B%A0%E6%8D%89%E5%AF%A6%E7%88%B8%E7%88%B8",
-    "timestamp": "2026-02-14T08:37:43.857Z",
     "strategy": ".content-card__main"
   }
 ];
