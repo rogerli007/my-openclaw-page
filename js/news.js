@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-14T03:40:24.145Z
+// Last updated: 2026-02-14T04:28:22.811Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "AI泡沬論｜亞馬遜九連跌！　繼微軟後成第二家跌入熊市的七巨頭",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20251226/1081172119754117120359120.jpeg/yU5zjtMzo_cvk6fvI9pJkhCfyD_Nuui7zbz4ps28-KY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60322392/ai%E6%B3%A1%E6%B2%AC%E8%AB%96-%E4%BA%9E%E9%A6%AC%E9%81%9C%E4%B9%9D%E9%80%A3%E8%B7%8C-%E7%B9%BC%E5%BE%AE%E8%BB%9F%E5%BE%8C%E6%88%90%E7%AC%AC%E4%BA%8C%E5%AE%B6%E8%B7%8C%E5%85%A5%E7%86%8A%E5%B8%82%E7%9A%84%E4%B8%83%E5%B7%A8%E9%A0%AD",
+    "timestamp": "2026-02-14T04:28:22.811Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "食環署署長首公開聘　需政治觸覺和執法經驗　謝展寰稱有助革新",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260214/1099157344811487232249635.jpeg/vRGzj-vWR6kN3wWZc0gu0V8_sjwTN4YmS44wBHGOMAQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60322318/%E5%B9%B4%E8%BF%91%E6%AD%B2%E6%99%9A%E8%AD%A6%E4%B8%AD%E7%92%B0%E6%94%BE%E8%9B%87%E6%90%AD%E7%9A%84%E5%A3%AB%E5%8E%BB%E5%B0%96%E6%9D%B1-%E9%BB%91%E7%9A%84%E5%8F%B8%E6%A9%9F%E7%B4%A2-350%E8%BB%8A%E8%B3%87-%E7%95%B6%E5%A0%B4%E8%A2%AB%E6%8D%95",
     "timestamp": "2026-02-13T18:24:59.293Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "警深水埗搗釣魚機賭檔　6人被捕",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260214/1099146068953665536812375.jpeg/ULKGqzjxeNEJfjMZfASOQgvbEnmwavXO3mLGHN5ixhw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60322316/%E8%AD%A6%E6%B7%B1%E6%B0%B4%E5%9F%97%E6%90%97%E9%87%A3%E9%AD%9A%E6%A9%9F%E8%B3%AD%E6%AA%94-6%E4%BA%BA%E8%A2%AB%E6%8D%95",
-    "timestamp": "2026-02-13T17:51:42.862Z",
     "strategy": ".content-card__main"
   }
 ];
