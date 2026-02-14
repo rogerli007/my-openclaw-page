@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-14T08:37:43.857Z
+// Last updated: 2026-02-14T09:01:39.767Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "11年前TVB新聞「陰謀男」自爆買兩扎花　適逢情人節網民又鞭屍！",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260214/1099377637110845440406793.jpeg/cT0otDaLIwHfOVXsHWJiJt_LZE4MjUyZrOkLXqzpC14?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60322450/11%E5%B9%B4%E5%89%8Dtvb%E6%96%B0%E8%81%9E-%E9%99%B0%E8%AC%80%E7%94%B7-%E8%87%AA%E7%88%86%E8%B2%B7%E5%85%A9%E6%89%8E%E8%8A%B1-%E9%81%A9%E9%80%A2%E6%83%85%E4%BA%BA%E7%AF%80%E7%B6%B2%E6%B0%91%E5%8F%88%E9%9E%AD%E5%B1%8D",
+    "timestamp": "2026-02-14T09:01:39.767Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "方力申囡囡打針連環被拮爆喊抖不到氣　首個情人節一原因捉實爸爸",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260214/1099233186715537408413597.jpeg/xCWRX9lzmecaG7utNA6SVRGPHs5NyjXefr2jRH69o0Q?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%92%B0%E7%90%83%E8%B6%A3%E8%81%9E/60322329/%E5%86%AC%E5%A5%A7%E9%81%8B%E5%8B%95%E5%93%A1%E7%B2%BE%E5%8A%9B%E9%81%8E%E5%89%A9-%E9%81%B8%E6%89%8B%E6%9D%91%E6%B4%BE%E5%AE%89%E5%85%A8%E5%A5%973%E6%97%A5%E8%A2%AB%E6%90%B6%E5%85%89%E4%BE%9B%E8%B2%A8%E7%84%A1%E6%9C%9F-%E6%9C%89%E7%89%87",
     "timestamp": "2026-02-13T23:02:33.576Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "【星之谷】置易付成二手樓交易新選項　資金安全迎保障",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260213/1099034492858798080420378.jpeg/O9tMu9cQHVbOwwcAZALzTrGaaRQDRiI2l2Gvr5dhr68?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60322061/%E6%98%9F%E4%B9%8B%E8%B0%B7-%E7%BD%AE%E6%98%93%E4%BB%98%E6%88%90%E4%BA%8C%E6%89%8B%E6%A8%93%E4%BA%A4%E6%98%93%E6%96%B0%E9%81%B8%E9%A0%85-%E8%B3%87%E9%87%91%E5%AE%89%E5%85%A8%E8%BF%8E%E4%BF%9D%E9%9A%9C",
-    "timestamp": "2026-02-13T22:36:07.115Z",
     "strategy": ".content-card__main"
   }
 ];
