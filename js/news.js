@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-14T22:12:29.572Z
+// Last updated: 2026-02-14T22:30:48.078Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "微軟AI CEO：大部份白領工作1.5年內被AI取代　律師及會計師高危",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260215/1099573827177811968948103.png/trAKQOq6OtdE0DXZAjzYOhxMxou_a1Zs3xLExt8SxMY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60322553/%E5%BE%AE%E8%BB%9Fai-ceo-%E5%A4%A7%E9%83%A8%E4%BB%BD%E7%99%BD%E9%A0%98%E5%B7%A5%E4%BD%9C1-5%E5%B9%B4%E5%85%A7%E8%A2%ABai%E5%8F%96%E4%BB%A3-%E5%BE%8B%E5%B8%AB%E5%8F%8A%E6%9C%83%E8%A8%88%E5%B8%AB%E9%AB%98%E5%8D%B1",
+    "timestamp": "2026-02-14T22:30:48.078Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "微軟AI CEO：大部份白領工作1.5年內被AI取代　律師及會計師高危",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20251219/1078698577154281472048523.jpeg/4b4sigK9OMyKbnHmmBmpN5Ydkulxfe8fFWfI3xVnyN8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60322538/%E9%A6%AC%E6%9C%83%E4%B8%BB%E5%B8%AD%E5%BB%96%E9%95%B7%E6%B1%9F-%E6%9C%AA%E4%BE%86%E5%A8%9B%E6%A8%82%E9%83%A8%E4%BB%BD%E5%B0%87%E5%A4%A7%E5%A2%9E-%E5%B9%B4%E8%BC%95%E4%BA%BA%E5%85%A5%E5%A0%B4%E4%B8%8D%E4%B8%80%E5%AE%9A%E5%8F%83%E8%88%87%E8%B3%BD%E9%A6%AC",
     "timestamp": "2026-02-14T17:32:13.899Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "英足總盃｜曼城2:0輕取沙福特城　古希入波助藍月亮晉級第五輪",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260215/1099505599307059200025968.jpeg/nBDtw3IxktLDr4AGh8zdFUHgbQg5NB_pzEFxaMxBcWg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60322541/%E8%8B%B1%E8%B6%B3%E7%B8%BD%E7%9B%83-%E6%9B%BC%E5%9F%8E2-0%E8%BC%95%E5%8F%96%E6%B2%99%E7%A6%8F%E7%89%B9%E5%9F%8E-%E5%8F%A4%E5%B8%8C%E5%85%A5%E6%B3%A2%E5%8A%A9%E8%97%8D%E6%9C%88%E4%BA%AE%E6%99%89%E7%B4%9A%E7%AC%AC%E4%BA%94%E8%BC%AA",
-    "timestamp": "2026-02-14T17:15:58.142Z",
     "strategy": ".content-card__main"
   }
 ];
