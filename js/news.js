@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-14T23:58:17.397Z
+// Last updated: 2026-02-15T00:48:13.937Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美媒：特朗普內塔尼亞胡一致同意　致力減少伊朗對中國出售石油",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20251230/1082699330181140480623915.jpeg/vkV0wBSiYtomJHkPaiDy5qfCdSkwtkHlTnoQV056EFc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60322558/%E7%BE%8E%E5%AA%92-%E7%89%B9%E6%9C%97%E6%99%AE%E5%85%A7%E5%A1%94%E5%B0%BC%E4%BA%9E%E8%83%A1%E4%B8%80%E8%87%B4%E5%90%8C%E6%84%8F-%E8%87%B4%E5%8A%9B%E6%B8%9B%E5%B0%91%E4%BC%8A%E6%9C%97%E5%B0%8D%E4%B8%AD%E5%9C%8B%E5%87%BA%E5%94%AE%E7%9F%B3%E6%B2%B9",
+    "timestamp": "2026-02-15T00:48:13.937Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "王毅晤加拿大外長阿南德　願同加方重啟各領域交流合作",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260215/1099535377720414208754302.jpeg/4eOcRxlXjIqSJGJiw-fwyJnwgqMZ-bxCNK27Sg6tu0o?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60322547/%E8%8D%83%E5%BE%B7%E8%8A%B1%E5%9C%92%E5%9C%B0%E4%B8%8B%E5%A4%A7%E5%A0%82%E5%81%87%E5%A4%A9%E8%8A%B1%E7%9F%B3%E8%86%8F%E6%9D%BF%E5%A1%8C%E4%B8%8B-%E6%93%8A%E5%82%B7%E4%BF%9D%E5%AE%89%E9%A0%AD%E9%83%A8-%E6%B8%85%E9%86%92%E9%80%81%E9%99%A2%E6%B2%BB%E7%90%86",
     "timestamp": "2026-02-14T19:34:24.950Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "荃德花園地下大堂假天花石膏板塌下　擊傷保安頭部　清醒送院治理",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260215/1099535377720414208754302.jpeg/4eOcRxlXjIqSJGJiw-fwyJnwgqMZ-bxCNK27Sg6tu0o?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60322547/%E8%8D%83%E5%BE%B7%E8%8A%B1%E5%9C%92%E5%9C%B0%E4%B8%8B%E5%A4%A7%E5%A0%82%E5%81%87%E5%A4%A9%E8%8A%B1%E7%9F%B3%E8%86%8F%E6%9D%BF%E5%A1%8C%E4%B8%8B-%E6%93%8A%E5%82%B7%E4%BF%9D%E5%AE%89%E9%A0%AD%E9%83%A8-%E6%B8%85%E9%86%92%E9%80%81%E9%99%A2%E6%B2%BB%E7%90%86",
-    "timestamp": "2026-02-14T19:18:02.477Z",
     "strategy": ".content-card__main"
   }
 ];
