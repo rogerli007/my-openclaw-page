@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-15T18:00:44.176Z
+// Last updated: 2026-02-15T18:19:36.952Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "歐盟官員：成員國未準備好向烏克蘭提供具體入盟日期",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260216/1099866842039586816796832.jpeg/kIMU_2grwIE0qpmBk3bCK9LQX2rhrNOC1iLgedYi4Hk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60322729/%E6%AD%90%E7%9B%9F%E5%AE%98%E5%93%A1-%E6%88%90%E5%93%A1%E5%9C%8B%E6%9C%AA%E6%BA%96%E5%82%99%E5%A5%BD%E5%90%91%E7%83%8F%E5%85%8B%E8%98%AD%E6%8F%90%E4%BE%9B%E5%85%B7%E9%AB%94%E5%85%A5%E7%9B%9F%E6%97%A5%E6%9C%9F",
+    "timestamp": "2026-02-15T18:19:36.952Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "歐盟官員：成員國未準備好向烏克蘭提供具體入盟日期",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260215/1099760911171719168685721.jpeg/9iqlFVvaqGrCUohihFSIrWzPp0IC_7rQV-GSoVfhkqE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60322672/%E7%BE%8E%E5%AA%92-%E7%A6%8F%E7%89%B9ceo%E8%88%87%E7%BE%8E%E5%AE%98%E5%93%A1%E7%A3%8B%E5%95%86%E8%AE%93%E4%B8%AD%E4%BC%81%E8%B5%B4%E7%BE%8E%E9%80%A0%E8%BB%8A-%E5%BB%BA%E5%90%88%E8%B3%87%E4%BC%81%E6%A5%AD%E5%85%B1%E4%BA%AB%E6%8A%80%E8%A1%93",
     "timestamp": "2026-02-15T12:19:51.753Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "坪洲中年婦家中暈倒　昏迷送院搶救",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20251228/1082039949122867200645108.jpeg/CWyEw5DxLEKoem3u1f7oQhtG9FOwuaCORr2NgmO9jYI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60322691/%E5%9D%AA%E6%B4%B2%E4%B8%AD%E5%B9%B4%E5%A9%A6%E5%AE%B6%E4%B8%AD%E6%9A%88%E5%80%92-%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2%E6%90%B6%E6%95%91",
-    "timestamp": "2026-02-15T11:56:20.589Z",
     "strategy": ".content-card__main"
   }
 ];
