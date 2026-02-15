@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-15T13:14:32.203Z
+// Last updated: 2026-02-15T13:38:45.022Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "英國首席捕鼠大臣Larry入唐寧街15周年　支持率遠超歷經6任首相",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20200808/368821755034341376.jpeg/VFdbrAvAyEjX4TOx7vm64tTAlDVkeOAcXwRfC18EXws?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60322702/%E8%8B%B1%E5%9C%8B%E9%A6%96%E5%B8%AD%E6%8D%95%E9%BC%A0%E5%A4%A7%E8%87%A3larry%E5%85%A5%E5%94%90%E5%AF%A7%E8%A1%9715%E5%91%A8%E5%B9%B4-%E6%94%AF%E6%8C%81%E7%8E%87%E9%81%A0%E8%B6%85%E6%AD%B7%E7%B6%936%E4%BB%BB%E9%A6%96%E7%9B%B8",
+    "timestamp": "2026-02-15T13:38:45.022Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "匈牙利大選前　總理歐爾班：真正的威脅不是俄羅斯而是歐盟",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/4656102/org/5091e75d11f97b4ff7e8099b1bada244.jpg/uDvwWvT5kxB1pZ1yWnen3sjpNLEc-meLwuxkuMLsZLg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60322628/%E6%B7%B1%E5%9C%B3%E7%81%A3%E5%85%AC%E8%B7%AF%E5%A4%A7%E6%A9%8B%E5%BE%80%E5%B1%AF%E9%96%80%E6%96%B9%E5%90%91%E5%85%A9%E6%97%85%E9%81%8A%E5%B7%B4%E7%9B%B8%E6%92%9E-15%E4%BA%BA%E8%BC%95%E5%82%B7",
     "timestamp": "2026-02-15T07:10:42.330Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "《名媛望族》終極Re-U掀集體回憶　獨欠前清格格網民慨歎美中不足",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260215/1099691290649432064810465.jpeg/kst2LnuzTZQFr_VWjHeV7NjBDjAngC1d76ruRu-q7kY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60322596/%E5%90%8D%E5%AA%9B%E6%9C%9B%E6%97%8F-%E7%B5%82%E6%A5%B5re-u%E6%8E%80%E9%9B%86%E9%AB%94%E5%9B%9E%E6%86%B6-%E7%8D%A8%E6%AC%A0%E5%89%8D%E6%B8%85%E6%A0%BC%E6%A0%BC%E7%B6%B2%E6%B0%91%E6%85%A8%E6%AD%8E%E7%BE%8E%E4%B8%AD%E4%B8%8D%E8%B6%B3",
-    "timestamp": "2026-02-15T06:37:53.056Z",
     "strategy": ".content-card__main"
   }
 ];
