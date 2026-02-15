@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-15T17:31:23.765Z
+// Last updated: 2026-02-15T17:48:01.779Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "歐盟官員：成員國未準備好向烏克蘭提供具體入盟日期",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260216/1099866842039586816796832.jpeg/kIMU_2grwIE0qpmBk3bCK9LQX2rhrNOC1iLgedYi4Hk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60322729/%E6%AD%90%E7%9B%9F%E5%AE%98%E5%93%A1-%E6%88%90%E5%93%A1%E5%9C%8B%E6%9C%AA%E6%BA%96%E5%82%99%E5%A5%BD%E5%90%91%E7%83%8F%E5%85%8B%E8%98%AD%E6%8F%90%E4%BE%9B%E5%85%B7%E9%AB%94%E5%85%A5%E7%9B%9F%E6%97%A5%E6%9C%9F",
+    "timestamp": "2026-02-15T17:48:01.779Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "夏葵樓停電│房署：因喉管滲水令電機房短路　昐今早6時前恢復電力",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20251016/1055454814349037568940327.jpeg/LvI5Gz_oM58sSJXsBcT_JC0YY3cAKFb2UhrnglIa54I?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%AB%87%E6%83%85%E8%AA%AA%E6%80%A7/60285819/%E5%92%8C-%E5%B9%B4%E4%B8%8B%E7%94%B7-%E8%AB%87%E6%88%80%E6%84%9B%E6%9C%83%E6%AF%94%E8%BC%83%E5%B9%B8%E7%A6%8F%E5%97%8E-%E4%B8%80%E7%AF%87%E6%B7%B1%E5%85%A5%E8%A7%A3%E6%9E%90%E5%A7%90%E5%BC%9F%E6%88%8010%E5%A4%A7%E5%84%AA%E7%BC%BA%E9%BB%9E",
     "timestamp": "2026-02-15T11:45:01.992Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "年廿八還神｜黃大仙祠多善信還願　有小學生稱求學業進步結果靈驗",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260215/1099752093717106688138065.jpeg/lkxk4bz6oxymi86FmQLPNVNyCCf8yUUH4uNUj-LjVI8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60322656/%E5%B9%B4%E5%BB%BF%E5%85%AB%E9%82%84%E7%A5%9E-%E9%BB%83%E5%A4%A7%E4%BB%99%E7%A5%A0%E5%A4%9A%E5%96%84%E4%BF%A1%E9%82%84%E9%A1%98-%E6%9C%89%E5%B0%8F%E5%AD%B8%E7%94%9F%E7%A8%B1%E6%B1%82%E5%AD%B8%E6%A5%AD%E9%80%B2%E6%AD%A5%E7%B5%90%E6%9E%9C%E9%9D%88%E9%A9%97",
-    "timestamp": "2026-02-15T11:31:33.892Z",
     "strategy": ".content-card__main"
   }
 ];
