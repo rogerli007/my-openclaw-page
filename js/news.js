@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-15T14:19:29.759Z
+// Last updated: 2026-02-15T14:36:58.126Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "葵涌邨夏葵樓全幢停電　大批住戶摸黑落樓　有長者呼吸機無電",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260215/1099831324044169216785264.jpeg/vGUqFa1-A7xAzHnQTNjkz1FF7fUAlwc4FVxnLxVcZy8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60322719/%E8%91%B5%E6%B6%8C%E9%82%A8%E5%A4%8F%E8%91%B5%E6%A8%93%E5%85%A8%E5%B9%A2%E5%81%9C%E9%9B%BB-%E5%A4%A7%E6%89%B9%E4%BD%8F%E6%88%B6%E6%91%B8%E9%BB%91%E8%90%BD%E6%A8%93-%E6%9C%89%E9%95%B7%E8%80%85%E5%91%BC%E5%90%B8%E6%A9%9F%E7%84%A1%E9%9B%BB",
+    "timestamp": "2026-02-15T14:36:58.126Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "長實馬年推4新盤涉逾1800伙　郭子威料全年樓價升幅達10%",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260215/1099738537986625536013452.jpeg/DKfG2F1awRPOHDrKNC05JQ7TEWm28qcDx7Xh88e14fM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E4%B8%AD%E5%9C%8B%E8%A7%80%E5%AF%9F/60322648/seedance-2-0%E7%88%86%E7%BA%A2%E9%80%A3%E9%A6%AC%E6%96%AF%E5%85%8B%E4%B9%9F%E8%AE%9A%E5%98%86-%E4%B8%AD%E5%9C%8B%E5%B0%87%E8%BF%8E%E4%BE%86%E4%B8%8B%E5%80%8Bdeepseek%E6%99%82%E5%88%BB",
     "timestamp": "2026-02-15T08:17:43.322Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "中國「產能過剩」補貼是原罪？｜點經",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250909/1042132499171381248926014.jpeg/1Yy2mYbM99Shk_PxWEgfjHJaIuFnYc6Dzs7mdM7O5nQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E4%B8%AD%E5%9C%8B%E8%A7%80%E5%AF%9F/60322633/%E4%B8%AD%E5%9C%8B-%E7%94%A2%E8%83%BD%E9%81%8E%E5%89%A9-%E8%A3%9C%E8%B2%BC%E6%98%AF%E5%8E%9F%E7%BD%AA-%E9%BB%9E%E7%B6%93",
-    "timestamp": "2026-02-15T07:53:47.083Z",
     "strategy": ".content-card__main"
   }
 ];
