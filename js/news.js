@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-15T20:31:15.292Z
+// Last updated: 2026-02-15T20:48:29.081Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "特朗普：和平委員會將資助加沙逾50億美元　用於重建及人道援助",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20251223/1080079021951160320215376.jpeg/If9ngZJJed6Jq6ZTaCc8n7uDPhKa8yiaHkZsdh5GbHY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60322741/%E7%89%B9%E6%9C%97%E6%99%AE-%E5%92%8C%E5%B9%B3%E5%A7%94%E5%93%A1%E6%9C%83%E5%B0%87%E8%B3%87%E5%8A%A9%E5%8A%A0%E6%B2%99%E9%80%BE50%E5%84%84%E7%BE%8E%E5%85%83-%E7%94%A8%E6%96%BC%E9%87%8D%E5%BB%BA%E5%8F%8A%E4%BA%BA%E9%81%93%E6%8F%B4%E5%8A%A9",
+    "timestamp": "2026-02-15T20:48:29.081Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "特朗普：和平委員會將資助加沙逾50億美元　用於重建及人道援助",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260215/1099827978004598784278143.jpeg/q-XZ1ZcLwFkNWhCfiySBt0wI0grO-nF_Db-2QA2_tkA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60322708/%E7%BE%8E%E8%BB%8D%E5%8D%B0%E5%BA%A6%E6%B4%8B%E6%94%94%E6%88%AA%E9%81%8B%E6%B2%B9%E8%BC%AA%E7%99%BB%E8%88%B9%E6%AA%A2%E6%9F%A5-%E8%BF%91%E6%9C%9F%E7%AC%AC2%E5%AE%97",
     "timestamp": "2026-02-15T15:15:36.835Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "澳洲承諾撥款約216億元　推進核潛艇船廠建設",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20231113/800771623073353728965720.jpeg/aoUVXZnQsKibYSiUHHyT66T-fFX2wJDnZBG_PmQRvz4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60322722/%E6%BE%B3%E6%B4%B2%E6%89%BF%E8%AB%BE%E6%92%A5%E6%AC%BE%E7%B4%84216%E5%84%84%E5%85%83-%E6%8E%A8%E9%80%B2%E6%A0%B8%E6%BD%9B%E8%89%87%E8%88%B9%E5%BB%A0%E5%BB%BA%E8%A8%AD",
-    "timestamp": "2026-02-15T15:00:23.804Z",
     "strategy": ".content-card__main"
   }
 ];
