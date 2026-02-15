@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-15T15:59:21.862Z
+// Last updated: 2026-02-15T16:15:12.455Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "劉雅麗養12年愛犬患癌離世　腫瘤出血滲膿哀叫顫抖：無奈送走牠",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260215/1099812426284535808869071.jpeg/o75hLg8mKtD8vI2D2IsNNPhiT_gLWF88xobspcaG7KU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60322682/%E5%8A%89%E9%9B%85%E9%BA%97%E9%A4%8A12%E5%B9%B4%E6%84%9B%E7%8A%AC%E6%82%A3%E7%99%8C%E9%9B%A2%E4%B8%96-%E8%85%AB%E7%98%A4%E5%87%BA%E8%A1%80%E6%BB%B2%E8%86%BF%E5%93%80%E5%8F%AB%E9%A1%AB%E6%8A%96-%E7%84%A1%E5%A5%88%E9%80%81%E8%B5%B0%E7%89%A0",
+    "timestamp": "2026-02-15T16:15:12.455Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "尋秦記｜大年初一載譽歸來　古天樂飾演「項少龍」擁有主角光環",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250225/971072657820749824785406.jpeg/hlsSocnLT7mTxNR2JX9dHoFHqjoq1moTNgEr3TYBK90?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60322676/%E9%97%9C%E6%96%BC%E5%B0%8D%E5%8A%A0%E6%8B%BF%E5%A4%A7%E8%8B%B1%E5%9C%8B%E5%85%8D%E7%B0%BD%E6%94%BF%E7%AD%96-%E4%B8%AD%E5%9C%8B%E5%A4%96%E4%BA%A4%E9%83%A8-2%E6%9C%8817%E6%97%A5%E8%B5%B7%E5%AF%A6%E6%96%BD",
     "timestamp": "2026-02-15T10:16:00.284Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美媒：谷愛凌及花式溜冰美少女朱易獲北京鉅款資助　金額意外曝光",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260215/1099762695093096448712640.jpeg/TssPFlLdzbmkEvSGRDDNRsrO_MAzhLyEjp5A1I6eQNQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60322673/%E8%B0%B7%E6%84%9B%E5%87%8C%E5%8F%8A%E8%8A%B1%E5%BC%8F%E6%BA%9C%E5%86%B0%E7%BE%8E%E5%B0%91%E5%A5%B3%E6%9C%B1%E6%98%93%E7%8D%B2%E5%8C%97%E4%BA%AC%E9%89%85%E6%AC%BE%E8%B3%87%E5%8A%A9-%E9%87%91%E9%A1%8D%E6%84%8F%E5%A4%96%E6%9B%9D%E5%85%89",
-    "timestamp": "2026-02-15T10:00:30.596Z",
     "strategy": ".content-card__main"
   }
 ];
