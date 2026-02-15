@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-15T06:37:53.056Z
+// Last updated: 2026-02-15T07:10:42.330Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "深圳灣公路大橋往屯門方向兩旅遊巴相撞　15人輕傷",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/4656102/org/5091e75d11f97b4ff7e8099b1bada244.jpg/uDvwWvT5kxB1pZ1yWnen3sjpNLEc-meLwuxkuMLsZLg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60322628/%E6%B7%B1%E5%9C%B3%E7%81%A3%E5%85%AC%E8%B7%AF%E5%A4%A7%E6%A9%8B%E5%BE%80%E5%B1%AF%E9%96%80%E6%96%B9%E5%90%91%E5%85%A9%E6%97%85%E9%81%8A%E5%B7%B4%E7%9B%B8%E6%92%9E-15%E4%BA%BA%E8%BC%95%E5%82%B7",
+    "timestamp": "2026-02-15T07:10:42.330Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "《名媛望族》終極Re-U掀集體回憶　獨欠前清格格網民慨歎美中不足",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260215/1099555226710446080714659.jpeg/6egrIdPwdreEeJqEopECPUmzsoqv_WByC8LdEwvC3RM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60322552/%E8%8B%B1%E8%B6%B3%E7%B8%BD%E7%9B%83-%E7%B4%90%E5%8D%A1%E7%B4%A03-1%E5%8F%8D%E5%8B%9D10%E4%BA%BA%E7%B6%AD%E6%8B%89-%E6%9D%B1%E6%8B%BF%E5%88%A9%E6%A2%85%E9%96%8B%E4%BA%8C%E5%BA%A6",
     "timestamp": "2026-02-14T21:46:05.084Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "英足總盃｜紐卡素3：1反勝10人維拉　東拿利梅開二度",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260215/1099555226710446080714659.jpeg/6egrIdPwdreEeJqEopECPUmzsoqv_WByC8LdEwvC3RM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60322552/%E8%8B%B1%E8%B6%B3%E7%B8%BD%E7%9B%83-%E7%B4%90%E5%8D%A1%E7%B4%A03-1%E5%8F%8D%E5%8B%9D10%E4%BA%BA%E7%B6%AD%E6%8B%89-%E6%9D%B1%E6%8B%BF%E5%88%A9%E6%A2%85%E9%96%8B%E4%BA%8C%E5%BA%A6",
-    "timestamp": "2026-02-14T21:30:46.300Z",
     "strategy": ".content-card__main"
   }
 ];
