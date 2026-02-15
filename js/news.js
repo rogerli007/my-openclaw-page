@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-15T07:53:47.083Z
+// Last updated: 2026-02-15T08:17:43.322Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "Seedance 2.0爆红連馬斯克也讚嘆　中國將迎來下個DeepSeek時刻？",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260215/1099738537986625536013452.jpeg/DKfG2F1awRPOHDrKNC05JQ7TEWm28qcDx7Xh88e14fM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E4%B8%AD%E5%9C%8B%E8%A7%80%E5%AF%9F/60322648/seedance-2-0%E7%88%86%E7%BA%A2%E9%80%A3%E9%A6%AC%E6%96%AF%E5%85%8B%E4%B9%9F%E8%AE%9A%E5%98%86-%E4%B8%AD%E5%9C%8B%E5%B0%87%E8%BF%8E%E4%BE%86%E4%B8%8B%E5%80%8Bdeepseek%E6%99%82%E5%88%BB",
+    "timestamp": "2026-02-15T08:17:43.322Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "中國「產能過剩」補貼是原罪？｜點經",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260215/1099573827177811968948103.png/trAKQOq6OtdE0DXZAjzYOhxMxou_a1Zs3xLExt8SxMY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60322553/%E5%BE%AE%E8%BB%9Fai-ceo-%E5%A4%A7%E9%83%A8%E4%BB%BD%E7%99%BD%E9%A0%98%E5%B7%A5%E4%BD%9C1-5%E5%B9%B4%E5%85%A7%E8%A2%ABai%E5%8F%96%E4%BB%A3-%E5%BE%8B%E5%B8%AB%E5%8F%8A%E6%9C%83%E8%A8%88%E5%B8%AB%E9%AB%98%E5%8D%B1",
     "timestamp": "2026-02-14T22:30:48.078Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "微軟AI CEO：大部份白領工作1.5年內被AI取代　律師及會計師高危",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260215/1099573827177811968948103.png/trAKQOq6OtdE0DXZAjzYOhxMxou_a1Zs3xLExt8SxMY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60322553/%E5%BE%AE%E8%BB%9Fai-ceo-%E5%A4%A7%E9%83%A8%E4%BB%BD%E7%99%BD%E9%A0%98%E5%B7%A5%E4%BD%9C1-5%E5%B9%B4%E5%85%A7%E8%A2%ABai%E5%8F%96%E4%BB%A3-%E5%BE%8B%E5%B8%AB%E5%8F%8A%E6%9C%83%E8%A8%88%E5%B8%AB%E9%AB%98%E5%8D%B1",
-    "timestamp": "2026-02-14T22:12:29.572Z",
     "strategy": ".content-card__main"
   }
 ];
