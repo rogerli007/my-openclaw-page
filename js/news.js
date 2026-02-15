@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-15T15:00:23.804Z
+// Last updated: 2026-02-15T15:15:36.835Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美軍印度洋攔截運油輪登船檢查　近期第2宗",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260215/1099827978004598784278143.jpeg/q-XZ1ZcLwFkNWhCfiySBt0wI0grO-nF_Db-2QA2_tkA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60322708/%E7%BE%8E%E8%BB%8D%E5%8D%B0%E5%BA%A6%E6%B4%8B%E6%94%94%E6%88%AA%E9%81%8B%E6%B2%B9%E8%BC%AA%E7%99%BB%E8%88%B9%E6%AA%A2%E6%9F%A5-%E8%BF%91%E6%9C%9F%E7%AC%AC2%E5%AE%97",
+    "timestamp": "2026-02-15T15:15:36.835Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "澳洲承諾撥款約216億元　推進核潛艇船廠建設",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260215/1099746594430914560498671.jpeg/zkpgwfkFuQAfzR7H0xRUjWwTy260zvtbHEVMohxFTKI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60322591/%E5%BC%B5%E6%9F%8F%E8%8A%9D%E5%85%AC%E9%96%8B%E8%88%87%E8%AC%9D%E6%8C%AF%E8%BB%92%E6%83%85%E4%BA%BA%E7%AF%80%E6%8B%8D%E6%8B%96%E7%89%87-%E8%87%AA%E7%88%86%E4%B8%80%E8%88%89%E5%8B%95%E9%81%AD%E5%AB%8C%E6%A3%84%E7%B6%B2%E6%B0%91%E7%9D%87%E5%88%B0%E5%96%8A",
     "timestamp": "2026-02-15T09:02:08.589Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "日漫畫家吾嬬竜孝驟逝　曾執筆《大和號》　未完結手稿將集結出版",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260214/1099347442538647552876524.png/GjcMzmCKqBg6mJHslK38aKlZfLaLcfMS-5cxZvuXMWY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60322426/%E6%97%A5%E6%BC%AB%E7%95%AB%E5%AE%B6%E5%90%BE%E5%AC%AC%E7%AB%9C%E5%AD%9D%E9%A9%9F%E9%80%9D-%E6%9B%BE%E5%9F%B7%E7%AD%86-%E5%A4%A7%E5%92%8C%E8%99%9F-%E6%9C%AA%E5%AE%8C%E7%B5%90%E6%89%8B%E7%A8%BF%E5%B0%87%E9%9B%86%E7%B5%90%E5%87%BA%E7%89%88",
-    "timestamp": "2026-02-15T08:35:24.552Z",
     "strategy": ".content-card__main"
   }
 ];
