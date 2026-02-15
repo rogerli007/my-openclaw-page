@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-15T18:19:36.952Z
+// Last updated: 2026-02-15T18:38:20.384Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "歐盟官員：成員國未準備好向烏克蘭提供具體入盟日期",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260216/1099866842039586816796832.jpeg/kIMU_2grwIE0qpmBk3bCK9LQX2rhrNOC1iLgedYi4Hk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60322729/%E6%AD%90%E7%9B%9F%E5%AE%98%E5%93%A1-%E6%88%90%E5%93%A1%E5%9C%8B%E6%9C%AA%E6%BA%96%E5%82%99%E5%A5%BD%E5%90%91%E7%83%8F%E5%85%8B%E8%98%AD%E6%8F%90%E4%BE%9B%E5%85%B7%E9%AB%94%E5%85%A5%E7%9B%9F%E6%97%A5%E6%9C%9F",
+    "timestamp": "2026-02-15T18:38:20.384Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "歐盟官員：成員國未準備好向烏克蘭提供具體入盟日期",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260215/1099776186298404864231549.jpeg/ToIbbMMyR-YhHmrsPcDkbcdZ-ccvGcFxOHcVlQJ3FZU?v=w1920",
     "url": "https://www.hk01.com/%E5%8C%97%E4%B8%8A%E5%BB%A3%E6%9D%B1/60322680/%E8%B6%8A%E7%A7%80%E5%85%AC%E5%9C%92%E8%90%AC%E7%9B%9E%E5%BD%A9%E7%87%88%E8%BF%8E%E5%AE%A2-%E7%9C%9F%E4%BA%BAnpc%E9%87%8D%E7%8F%BE%E5%8D%83%E5%B9%B4%E5%95%86%E9%83%BD%E7%9B%9B%E6%B3%81-%E8%B6%A3share%E5%A4%A7%E7%81%A3%E5%8D%80",
     "timestamp": "2026-02-15T12:39:44.755Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美媒：福特CEO與美官員磋商讓中企赴美造車　建合資企業共享技術",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260215/1099760911171719168685721.jpeg/9iqlFVvaqGrCUohihFSIrWzPp0IC_7rQV-GSoVfhkqE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60322672/%E7%BE%8E%E5%AA%92-%E7%A6%8F%E7%89%B9ceo%E8%88%87%E7%BE%8E%E5%AE%98%E5%93%A1%E7%A3%8B%E5%95%86%E8%AE%93%E4%B8%AD%E4%BC%81%E8%B5%B4%E7%BE%8E%E9%80%A0%E8%BB%8A-%E5%BB%BA%E5%90%88%E8%B3%87%E4%BC%81%E6%A5%AD%E5%85%B1%E4%BA%AB%E6%8A%80%E8%A1%93",
-    "timestamp": "2026-02-15T12:19:51.753Z",
     "strategy": ".content-card__main"
   }
 ];
