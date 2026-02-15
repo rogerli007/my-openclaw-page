@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-15T08:17:43.322Z
+// Last updated: 2026-02-15T08:35:24.552Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "日漫畫家吾嬬竜孝驟逝　曾執筆《大和號》　未完結手稿將集結出版",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260214/1099347442538647552876524.png/GjcMzmCKqBg6mJHslK38aKlZfLaLcfMS-5cxZvuXMWY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60322426/%E6%97%A5%E6%BC%AB%E7%95%AB%E5%AE%B6%E5%90%BE%E5%AC%AC%E7%AB%9C%E5%AD%9D%E9%A9%9F%E9%80%9D-%E6%9B%BE%E5%9F%B7%E7%AD%86-%E5%A4%A7%E5%92%8C%E8%99%9F-%E6%9C%AA%E5%AE%8C%E7%B5%90%E6%89%8B%E7%A8%BF%E5%B0%87%E9%9B%86%E7%B5%90%E5%87%BA%E7%89%88",
+    "timestamp": "2026-02-15T08:35:24.552Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "Seedance 2.0爆红連馬斯克也讚嘆　中國將迎來下個DeepSeek時刻？",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260215/1099587656708263936649152.jpeg/q1QqcjYBCJFDxYoJbyUyIL2Fl-dd07Oc3t68p97evKc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60322554/%E4%B8%B9%E9%BA%A5%E9%A6%96%E7%9B%B8%E6%8C%87%E7%89%B9%E6%9C%97%E6%99%AE%E4%BB%8D%E5%B0%8D%E6%A0%BC%E9%99%B5%E8%98%AD%E6%AD%BB%E5%BF%83%E4%B8%8D%E6%81%AF-%E7%8B%A0%E6%89%B9%E6%B0%91%E7%9C%BE%E5%8F%97%E5%A3%93-%E4%B8%8D%E5%8F%AF%E6%8E%A5%E5%8F%97",
     "timestamp": "2026-02-14T22:48:17.889Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "微軟AI CEO：大部份白領工作1.5年內被AI取代　律師及會計師高危",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260215/1099573827177811968948103.png/trAKQOq6OtdE0DXZAjzYOhxMxou_a1Zs3xLExt8SxMY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60322553/%E5%BE%AE%E8%BB%9Fai-ceo-%E5%A4%A7%E9%83%A8%E4%BB%BD%E7%99%BD%E9%A0%98%E5%B7%A5%E4%BD%9C1-5%E5%B9%B4%E5%85%A7%E8%A2%ABai%E5%8F%96%E4%BB%A3-%E5%BE%8B%E5%B8%AB%E5%8F%8A%E6%9C%83%E8%A8%88%E5%B8%AB%E9%AB%98%E5%8D%B1",
-    "timestamp": "2026-02-14T22:30:48.078Z",
     "strategy": ".content-card__main"
   }
 ];
