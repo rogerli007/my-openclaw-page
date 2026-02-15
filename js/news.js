@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-15T03:36:48.811Z
+// Last updated: 2026-02-15T04:36:37.104Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "30多歲中國女子濟州機場前高架橋墮亡",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260215/1099682733505908736497186.jpeg/8VNUWDZVjXGaCLZabkBjmyj86lOZX6ef1cpXl9XKV5c?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60322595/30%E5%A4%9A%E6%AD%B2%E4%B8%AD%E5%9C%8B%E5%A5%B3%E5%AD%90%E6%BF%9F%E5%B7%9E%E6%A9%9F%E5%A0%B4%E5%89%8D%E9%AB%98%E6%9E%B6%E6%A9%8B%E5%A2%AE%E4%BA%A1",
+    "timestamp": "2026-02-15T04:36:37.104Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "大埔新娘潭路單車疑自炒　男子昏迷送院",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260215/1099548136348585984193265.jpeg/JUfxTxI-Ytxoxzqo2fMlphjf9-zJkiA_rI8ZkpaPGZI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60322550/3%E8%AD%A6%E6%B7%B1%E6%B0%B4%E5%9F%97%E6%88%AA%E6%9F%A5%E5%8F%AF%E7%96%91%E7%94%B7%E9%81%87%E5%8F%8D%E6%8A%97%E5%8F%97%E5%82%B7-%E7%94%B7%E5%AD%90%E9%81%AD%E5%88%B6%E6%9C%8D%E8%A2%AB%E6%8D%95%E8%87%89%E5%82%B7%E9%80%81%E9%99%A2",
     "timestamp": "2026-02-14T20:31:12.022Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "3警深水埗截查可疑男遇反抗受傷　男子遭制服被捕臉傷送院",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260215/1099548136348585984193265.jpeg/JUfxTxI-Ytxoxzqo2fMlphjf9-zJkiA_rI8ZkpaPGZI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60322550/3%E8%AD%A6%E6%B7%B1%E6%B0%B4%E5%9F%97%E6%88%AA%E6%9F%A5%E5%8F%AF%E7%96%91%E7%94%B7%E9%81%87%E5%8F%8D%E6%8A%97%E5%8F%97%E5%82%B7-%E7%94%B7%E5%AD%90%E9%81%AD%E5%88%B6%E6%9C%8D%E8%A2%AB%E6%8D%95%E8%87%89%E5%82%B7%E9%80%81%E9%99%A2",
-    "timestamp": "2026-02-14T20:13:43.668Z",
     "strategy": ".content-card__main"
   }
 ];
