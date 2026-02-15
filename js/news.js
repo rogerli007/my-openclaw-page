@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-15T16:15:12.455Z
+// Last updated: 2026-02-15T16:31:52.891Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "夏葵樓機房故障致760戶停電　住客開電筒食糖水：好難忘嘅團年飯",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260216/1099859103951360000417039.jpeg/fJbHk8rEfNkK3I6KOk6iGACHKZUQe7Cny_3rzu79684?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60322726/%E5%A4%8F%E8%91%B5%E6%A8%93%E6%A9%9F%E6%88%BF%E6%95%85%E9%9A%9C%E8%87%B4760%E6%88%B6%E5%81%9C%E9%9B%BB-%E4%BD%8F%E5%AE%A2%E9%96%8B%E9%9B%BB%E7%AD%92%E9%A3%9F%E7%B3%96%E6%B0%B4-%E5%A5%BD%E9%9B%A3%E5%BF%98%E5%98%85%E5%9C%98%E5%B9%B4%E9%A3%AF",
+    "timestamp": "2026-02-15T16:31:52.891Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "劉雅麗養12年愛犬患癌離世　腫瘤出血滲膿哀叫顫抖：無奈送走牠",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260215/1099756455650660352794680.jpeg/ar6ZJ3Y169sbAQBD-LzmRfNsCd7ucSsIz28EwM9vBMA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60322663/%E6%B4%AA%E5%A4%A9%E6%98%8E%E7%8E%A9007%E5%85%A5%E5%AD%90%E5%BD%88%E7%AB%9F%E9%A6%96%E5%90%8D%E5%87%BA%E5%B1%80-%E8%AB%87%E6%B4%AA%E9%87%91%E5%AF%B6%E5%85%A5%E5%9C%8D%E9%87%91%E5%83%8F%E7%8D%8E-%E6%96%B0%E4%BA%BA%E6%94%9E%E6%9B%B4%E5%A5%BD",
     "timestamp": "2026-02-15T10:32:14.610Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "關於對加拿大英國免簽政策　中國外交部：2月17日起實施",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250225/971072657820749824785406.jpeg/hlsSocnLT7mTxNR2JX9dHoFHqjoq1moTNgEr3TYBK90?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60322676/%E9%97%9C%E6%96%BC%E5%B0%8D%E5%8A%A0%E6%8B%BF%E5%A4%A7%E8%8B%B1%E5%9C%8B%E5%85%8D%E7%B0%BD%E6%94%BF%E7%AD%96-%E4%B8%AD%E5%9C%8B%E5%A4%96%E4%BA%A4%E9%83%A8-2%E6%9C%8817%E6%97%A5%E8%B5%B7%E5%AF%A6%E6%96%BD",
-    "timestamp": "2026-02-15T10:16:00.284Z",
     "strategy": ".content-card__main"
   }
 ];
