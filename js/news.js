@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-15T12:39:44.755Z
+// Last updated: 2026-02-15T13:14:32.203Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "匈牙利大選前　總理歐爾班：真正的威脅不是俄羅斯而是歐盟",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260215/1099797644848402432182957.jpeg/dJjlO5Vbdie8amrtIQEpVGpVrt1dfBaoJKiEvCSohLw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60322695/%E5%8C%88%E7%89%99%E5%88%A9%E5%A4%A7%E9%81%B8%E5%89%8D-%E7%B8%BD%E7%90%86%E6%AD%90%E7%88%BE%E7%8F%AD-%E7%9C%9F%E6%AD%A3%E7%9A%84%E5%A8%81%E8%84%85%E4%B8%8D%E6%98%AF%E4%BF%84%E7%BE%85%E6%96%AF%E8%80%8C%E6%98%AF%E6%AD%90%E7%9B%9F",
+    "timestamp": "2026-02-15T13:14:32.203Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "越秀公園萬盞彩燈迎客　真人NPC重現千年商都盛況｜趣Share大灣區",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260215/1099691290649432064810465.jpeg/kst2LnuzTZQFr_VWjHeV7NjBDjAngC1d76ruRu-q7kY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60322596/%E5%90%8D%E5%AA%9B%E6%9C%9B%E6%97%8F-%E7%B5%82%E6%A5%B5re-u%E6%8E%80%E9%9B%86%E9%AB%94%E5%9B%9E%E6%86%B6-%E7%8D%A8%E6%AC%A0%E5%89%8D%E6%B8%85%E6%A0%BC%E6%A0%BC%E7%B6%B2%E6%B0%91%E6%85%A8%E6%AD%8E%E7%BE%8E%E4%B8%AD%E4%B8%8D%E8%B6%B3",
     "timestamp": "2026-02-15T06:37:53.056Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "馬年玲玲開運所｜麥玲玲師傅爆廖慧儀三重犯太歲：太多爛桃花",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260206/1096571044182888448192650.jpeg/6cgKTOpV9GtgkeH5TCFkqcgCZrg9_C-XHdy6Oifcujo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60320113/%E9%A6%AC%E5%B9%B4%E7%8E%B2%E7%8E%B2%E9%96%8B%E9%81%8B%E6%89%80-%E9%BA%A5%E7%8E%B2%E7%8E%B2%E5%B8%AB%E5%82%85%E7%88%86%E5%BB%96%E6%85%A7%E5%84%80%E4%B8%89%E9%87%8D%E7%8A%AF%E5%A4%AA%E6%AD%B2-%E5%A4%AA%E5%A4%9A%E7%88%9B%E6%A1%83%E8%8A%B1",
-    "timestamp": "2026-02-15T06:12:57.309Z",
     "strategy": ".content-card__main"
   }
 ];
