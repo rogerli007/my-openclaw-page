@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-15T11:56:20.589Z
+// Last updated: 2026-02-15T12:19:51.753Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美媒：福特CEO與美官員磋商讓中企赴美造車　建合資企業共享技術",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260215/1099760911171719168685721.jpeg/9iqlFVvaqGrCUohihFSIrWzPp0IC_7rQV-GSoVfhkqE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60322672/%E7%BE%8E%E5%AA%92-%E7%A6%8F%E7%89%B9ceo%E8%88%87%E7%BE%8E%E5%AE%98%E5%93%A1%E7%A3%8B%E5%95%86%E8%AE%93%E4%B8%AD%E4%BC%81%E8%B5%B4%E7%BE%8E%E9%80%A0%E8%BB%8A-%E5%BB%BA%E5%90%88%E8%B3%87%E4%BC%81%E6%A5%AD%E5%85%B1%E4%BA%AB%E6%8A%80%E8%A1%93",
+    "timestamp": "2026-02-15T12:19:51.753Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "坪洲中年婦家中暈倒　昏迷送院搶救",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260215/1099690836888653824329786.jpeg/iG36eb0PADNQ-FZ2nqkwWuTOSkK1DDFeGLwdqhi8Hao?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60322590/%E5%8A%89%E5%BE%B7%E8%8F%AF%E5%A4%AA%E5%A4%AA%E6%9C%B1%E9%BA%97%E8%92%A8%E8%A2%AB%E6%8F%AD%E7%A7%81%E4%BA%BA%E9%A3%9B%E6%A9%9F%E5%A5%87%E8%91%A9%E4%BA%8B-%E7%A9%BA%E5%A7%90%E6%8E%A5%E8%A7%B8%E5%85%A9%E5%80%8B%E6%9C%88%E7%88%86%E7%9C%9F%E5%AF%A6%E4%BA%BA%E5%93%81",
     "timestamp": "2026-02-15T05:47:05.818Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "農曆新年｜陳茂波：本港氣氛濃厚　春節黃金周遊客日均料增6%",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260215/1099690223152926720578302.jpeg/9femYX7Q1qV247vur3YGSvVwcT_HvUZ6Aqi1TQKotU0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60322603/%E8%BE%B2%E6%9B%86%E6%96%B0%E5%B9%B4-%E9%99%B3%E8%8C%82%E6%B3%A2-%E6%9C%AC%E6%B8%AF%E6%B0%A3%E6%B0%9B%E6%BF%83%E5%8E%9A-%E6%98%A5%E7%AF%80%E9%BB%83%E9%87%91%E5%91%A8%E9%81%8A%E5%AE%A2%E6%97%A5%E5%9D%87%E6%96%99%E5%A2%9E6",
-    "timestamp": "2026-02-15T05:18:41.547Z",
     "strategy": ".content-card__main"
   }
 ];
