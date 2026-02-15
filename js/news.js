@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-15T10:32:14.610Z
+// Last updated: 2026-02-15T10:51:11.616Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "天文台今錄26.9度　平2010年最高溫年廿八紀錄　料明27度最暖除夕",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260210/1098041498001739776219754.jpeg/x71k1S2HtZDAcKzs1VhJh8ff77ECnhJ7fy9fQ2UvX0M?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60322670/%E5%A4%A9%E6%96%87%E5%8F%B0%E4%BB%8A%E9%8C%8426-9%E5%BA%A6-%E5%B9%B32010%E5%B9%B4%E6%9C%80%E9%AB%98%E6%BA%AB%E5%B9%B4%E5%BB%BF%E5%85%AB%E7%B4%80%E9%8C%84-%E6%96%99%E6%98%8E27%E5%BA%A6%E6%9C%80%E6%9A%96%E9%99%A4%E5%A4%95",
+    "timestamp": "2026-02-15T10:51:11.616Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "洪天明玩007入子彈竟首名出局　談洪金寶入圍金像獎：新人攞更好",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260215/1099539412959629312568172.png/gSF4UCPngMm9FjpA5aGo9D3Ex3Dwt3J7Fc88NxXPPDc",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60322474/%E5%95%86%E5%A0%B4mma-2%E5%A5%B3%E6%89%93%E9%AC%A5m%E8%A8%98%E9%A3%9F%E7%89%A9%E7%95%B6%E6%AD%A6%E5%99%A8-%E6%B1%BD%E6%B0%B4%E7%A0%B8%E9%A0%AD%E7%81%91%E6%BB%BF%E5%9C%B0-%E5%A4%A7%E5%8F%941%E8%88%89%E5%8B%95%E7%8D%B2%E8%AE%9A",
     "timestamp": "2026-02-15T01:22:42.988Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美媒：特朗普內塔尼亞胡一致同意　致力減少伊朗對中國出售石油",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20251230/1082699330181140480623915.jpeg/vkV0wBSiYtomJHkPaiDy5qfCdSkwtkHlTnoQV056EFc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60322558/%E7%BE%8E%E5%AA%92-%E7%89%B9%E6%9C%97%E6%99%AE%E5%85%A7%E5%A1%94%E5%B0%BC%E4%BA%9E%E8%83%A1%E4%B8%80%E8%87%B4%E5%90%8C%E6%84%8F-%E8%87%B4%E5%8A%9B%E6%B8%9B%E5%B0%91%E4%BC%8A%E6%9C%97%E5%B0%8D%E4%B8%AD%E5%9C%8B%E5%87%BA%E5%94%AE%E7%9F%B3%E6%B2%B9",
-    "timestamp": "2026-02-15T00:48:13.937Z",
     "strategy": ".content-card__main"
   }
 ];
