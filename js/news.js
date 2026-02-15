@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-15T17:15:26.541Z
+// Last updated: 2026-02-15T17:31:23.765Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "夏葵樓停電│房署：因喉管滲水令電機房短路　昐今早6時前恢復電力",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260216/1099859103951360000417039.jpeg/fJbHk8rEfNkK3I6KOk6iGACHKZUQe7Cny_3rzu79684?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60322731/%E5%A4%8F%E8%91%B5%E6%A8%93%E5%81%9C%E9%9B%BB-%E6%88%BF%E7%BD%B2-%E5%9B%A0%E5%96%89%E7%AE%A1%E6%BB%B2%E6%B0%B4%E4%BB%A4%E9%9B%BB%E6%A9%9F%E6%88%BF%E7%9F%AD%E8%B7%AF-%E6%98%90%E4%BB%8A%E6%97%A96%E6%99%82%E5%89%8D%E6%81%A2%E5%BE%A9%E9%9B%BB%E5%8A%9B",
+    "timestamp": "2026-02-15T17:31:23.765Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "夏葵樓停電│房署：因喉管滲水令電機房短路　昐今早6時前恢復電力",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260215/1099752093717106688138065.jpeg/lkxk4bz6oxymi86FmQLPNVNyCCf8yUUH4uNUj-LjVI8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60322656/%E5%B9%B4%E5%BB%BF%E5%85%AB%E9%82%84%E7%A5%9E-%E9%BB%83%E5%A4%A7%E4%BB%99%E7%A5%A0%E5%A4%9A%E5%96%84%E4%BF%A1%E9%82%84%E9%A1%98-%E6%9C%89%E5%B0%8F%E5%AD%B8%E7%94%9F%E7%A8%B1%E6%B1%82%E5%AD%B8%E6%A5%AD%E9%80%B2%E6%AD%A5%E7%B5%90%E6%9E%9C%E9%9D%88%E9%A9%97",
     "timestamp": "2026-02-15T11:31:33.892Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "保安局擬推性罪行修例建議公眾諮詢　婦團倡訂明無反抗不構成同意",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260215/1099758777931927552829614.jpeg/hvQ6KVk4VX9_O5_H1KUpkJd9I8x9W_o70633ZtOt92Y?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60322668/%E4%BF%9D%E5%AE%89%E5%B1%80%E6%93%AC%E6%8E%A8%E6%80%A7%E7%BD%AA%E8%A1%8C%E4%BF%AE%E4%BE%8B%E5%BB%BA%E8%AD%B0%E5%85%AC%E7%9C%BE%E8%AB%AE%E8%A9%A2-%E5%A9%A6%E5%9C%98%E5%80%A1%E8%A8%82%E6%98%8E%E7%84%A1%E5%8F%8D%E6%8A%97%E4%B8%8D%E6%A7%8B%E6%88%90%E5%90%8C%E6%84%8F",
-    "timestamp": "2026-02-15T11:13:51.357Z",
     "strategy": ".content-card__main"
   }
 ];
