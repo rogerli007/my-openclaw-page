@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-15T07:35:01.235Z
+// Last updated: 2026-02-15T07:53:47.083Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "中國「產能過剩」補貼是原罪？｜點經",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250909/1042132499171381248926014.jpeg/1Yy2mYbM99Shk_PxWEgfjHJaIuFnYc6Dzs7mdM7O5nQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E4%B8%AD%E5%9C%8B%E8%A7%80%E5%AF%9F/60322633/%E4%B8%AD%E5%9C%8B-%E7%94%A2%E8%83%BD%E9%81%8E%E5%89%A9-%E8%A3%9C%E8%B2%BC%E6%98%AF%E5%8E%9F%E7%BD%AA-%E9%BB%9E%E7%B6%93",
+    "timestamp": "2026-02-15T07:53:47.083Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "59歲男星突發心肌梗塞險死　昏倒後完全斷片　曝好友助力救命關鍵",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260215/1099573827177811968948103.png/trAKQOq6OtdE0DXZAjzYOhxMxou_a1Zs3xLExt8SxMY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60322553/%E5%BE%AE%E8%BB%9Fai-ceo-%E5%A4%A7%E9%83%A8%E4%BB%BD%E7%99%BD%E9%A0%98%E5%B7%A5%E4%BD%9C1-5%E5%B9%B4%E5%85%A7%E8%A2%ABai%E5%8F%96%E4%BB%A3-%E5%BE%8B%E5%B8%AB%E5%8F%8A%E6%9C%83%E8%A8%88%E5%B8%AB%E9%AB%98%E5%8D%B1",
     "timestamp": "2026-02-14T22:12:29.572Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "微軟AI CEO：大部份白領工作1.5年內被AI取代　律師及會計師高危",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260215/1099573827177811968948103.png/trAKQOq6OtdE0DXZAjzYOhxMxou_a1Zs3xLExt8SxMY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60322553/%E5%BE%AE%E8%BB%9Fai-ceo-%E5%A4%A7%E9%83%A8%E4%BB%BD%E7%99%BD%E9%A0%98%E5%B7%A5%E4%BD%9C1-5%E5%B9%B4%E5%85%A7%E8%A2%ABai%E5%8F%96%E4%BB%A3-%E5%BE%8B%E5%B8%AB%E5%8F%8A%E6%9C%83%E8%A8%88%E5%B8%AB%E9%AB%98%E5%8D%B1",
-    "timestamp": "2026-02-14T21:58:08.256Z",
     "strategy": ".content-card__main"
   }
 ];
