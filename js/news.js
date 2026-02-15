@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-15T09:37:45.298Z
+// Last updated: 2026-02-15T10:00:30.596Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美媒：谷愛凌及花式溜冰美少女朱易獲北京鉅款資助　金額意外曝光",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260215/1099762695093096448712640.jpeg/TssPFlLdzbmkEvSGRDDNRsrO_MAzhLyEjp5A1I6eQNQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60322673/%E8%B0%B7%E6%84%9B%E5%87%8C%E5%8F%8A%E8%8A%B1%E5%BC%8F%E6%BA%9C%E5%86%B0%E7%BE%8E%E5%B0%91%E5%A5%B3%E6%9C%B1%E6%98%93%E7%8D%B2%E5%8C%97%E4%BA%AC%E9%89%85%E6%AC%BE%E8%B3%87%E5%8A%A9-%E9%87%91%E9%A1%8D%E6%84%8F%E5%A4%96%E6%9B%9D%E5%85%89",
+    "timestamp": "2026-02-15T10:00:30.596Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "特朗普石油封鎖致古巴燃料短缺　「夏灣拿雪茄節」被迫延期",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20240827/905199202923974656029851.jpeg/OpMvpecv0jTaTmtM5SndFZMMiD-6eCIYOtW_IDrVvyA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60322557/%E7%8E%8B%E6%AF%85%E6%99%A4%E5%8A%A0%E6%8B%BF%E5%A4%A7%E5%A4%96%E9%95%B7%E9%98%BF%E5%8D%97%E5%BE%B7-%E9%A1%98%E5%90%8C%E5%8A%A0%E6%96%B9%E9%87%8D%E5%95%9F%E5%90%84%E9%A0%98%E5%9F%9F%E4%BA%A4%E6%B5%81%E5%90%88%E4%BD%9C",
     "timestamp": "2026-02-14T23:46:21.038Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "德國情侶紀念日樂極生悲　過萬現金隨風飄走　男呻唔見人工｜有片",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260215/1099600990409068544187043.jpeg/O600bH2CMBgTv4XxuyVmvPKTW2--ChR6X6nhQF-p4UA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%92%B0%E7%90%83%E8%B6%A3%E8%81%9E/60322556/%E5%BE%B7%E5%9C%8B%E6%83%85%E4%BE%B6%E7%B4%80%E5%BF%B5%E6%97%A5%E6%A8%82%E6%A5%B5%E7%94%9F%E6%82%B2-%E9%81%8E%E8%90%AC%E7%8F%BE%E9%87%91%E9%9A%A8%E9%A2%A8%E9%A3%84%E8%B5%B0-%E7%94%B7%E5%91%BB%E5%94%94%E8%A6%8B%E4%BA%BA%E5%B7%A5-%E6%9C%89%E7%89%87",
-    "timestamp": "2026-02-14T23:31:23.214Z",
     "strategy": ".content-card__main"
   }
 ];
