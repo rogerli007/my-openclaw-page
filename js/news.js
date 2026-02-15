@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-15T11:31:33.892Z
+// Last updated: 2026-02-15T11:45:01.992Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "和「年下男」談戀愛會比較幸福嗎　一篇深入解析姐弟戀10大優缺點",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20251016/1055454814349037568940327.jpeg/LvI5Gz_oM58sSJXsBcT_JC0YY3cAKFb2UhrnglIa54I?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%AB%87%E6%83%85%E8%AA%AA%E6%80%A7/60285819/%E5%92%8C-%E5%B9%B4%E4%B8%8B%E7%94%B7-%E8%AB%87%E6%88%80%E6%84%9B%E6%9C%83%E6%AF%94%E8%BC%83%E5%B9%B8%E7%A6%8F%E5%97%8E-%E4%B8%80%E7%AF%87%E6%B7%B1%E5%85%A5%E8%A7%A3%E6%9E%90%E5%A7%90%E5%BC%9F%E6%88%8010%E5%A4%A7%E5%84%AA%E7%BC%BA%E9%BB%9E",
+    "timestamp": "2026-02-15T11:45:01.992Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "年廿八還神｜黃大仙祠多善信還願　有小學生稱求學業進步結果靈驗",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260215/1099682733505908736497186.jpeg/8VNUWDZVjXGaCLZabkBjmyj86lOZX6ef1cpXl9XKV5c?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60322595/30%E5%A4%9A%E6%AD%B2%E4%B8%AD%E5%9C%8B%E5%A5%B3%E5%AD%90%E6%BF%9F%E5%B7%9E%E6%A9%9F%E5%A0%B4%E5%89%8D%E9%AB%98%E6%9E%B6%E6%A9%8B%E5%A2%AE%E4%BA%A1",
     "timestamp": "2026-02-15T04:36:37.104Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "大埔新娘潭路單車疑自炒　男子昏迷送院",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250826/1036914728573603840735198.jpeg/-6ruYBfaKYfa0xvPipSfeJ79PeAgP1GpmQoXnpkKF54?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60322585/%E5%A4%A7%E5%9F%94%E6%96%B0%E5%A8%98%E6%BD%AD%E8%B7%AF%E5%96%AE%E8%BB%8A%E7%96%91%E8%87%AA%E7%82%92-%E7%94%B7%E5%AD%90%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2",
-    "timestamp": "2026-02-15T03:36:48.811Z",
     "strategy": ".content-card__main"
   }
 ];
