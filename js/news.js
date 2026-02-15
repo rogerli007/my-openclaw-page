@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-15T01:22:42.988Z
+// Last updated: 2026-02-15T02:24:45.270Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "澤連斯基：簽和平協議有兩條件　加入歐盟日期＋逾20年美國安保",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260215/1099644881569058816684092.jpeg/4yzzC1bajg68fSspKtCwczpQC57oBlzr3JAyHtyQMh4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60322569/%E6%BE%A4%E9%80%A3%E6%96%AF%E5%9F%BA-%E7%B0%BD%E5%92%8C%E5%B9%B3%E5%8D%94%E8%AD%B0%E6%9C%89%E5%85%A9%E6%A2%9D%E4%BB%B6-%E5%8A%A0%E5%85%A5%E6%AD%90%E7%9B%9F%E6%97%A5%E6%9C%9F-%E9%80%BE20%E5%B9%B4%E7%BE%8E%E5%9C%8B%E5%AE%89%E4%BF%9D",
+    "timestamp": "2026-02-15T02:24:45.270Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "商場MMA！2女打鬥M記食物當武器　汽水砸頭灑滿地　大叔1舉動獲讚",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260215/1099548136348585984193265.jpeg/JUfxTxI-Ytxoxzqo2fMlphjf9-zJkiA_rI8ZkpaPGZI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60322550/3%E8%AD%A6%E6%B7%B1%E6%B0%B4%E5%9F%97%E6%88%AA%E6%9F%A5%E5%8F%AF%E7%96%91%E7%94%B7%E9%81%87%E5%8F%8D%E6%8A%97%E5%8F%97%E5%82%B7-%E7%94%B7%E5%AD%90%E9%81%AD%E5%88%B6%E6%9C%8D%E8%A2%AB%E6%8D%95%E8%87%89%E5%82%B7%E9%80%81%E9%99%A2",
     "timestamp": "2026-02-14T19:58:09.577Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "日本大阪道頓崛發生持刀傷人案1死2傷　疑兇在逃",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260215/1099546929257254912532679.jpeg/ChpqF3wFfAlK8yYjQKXt1nG7LA33hYzj-IRpl_iEaZc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60322549/%E6%97%A5%E6%9C%AC%E5%A4%A7%E9%98%AA%E9%81%93%E9%A0%93%E5%B4%9B%E7%99%BC%E7%94%9F%E6%8C%81%E5%88%80%E5%82%B7%E4%BA%BA%E6%A1%881%E6%AD%BB2%E5%82%B7-%E7%96%91%E5%85%87%E5%9C%A8%E9%80%83",
-    "timestamp": "2026-02-14T19:47:26.352Z",
     "strategy": ".content-card__main"
   }
 ];
