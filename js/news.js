@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-15T21:01:52.957Z
+// Last updated: 2026-02-15T21:15:31.608Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "特朗普：和平委員會將資助加沙逾50億美元　用於重建及人道援助",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20251223/1080079021951160320215376.jpeg/If9ngZJJed6Jq6ZTaCc8n7uDPhKa8yiaHkZsdh5GbHY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60322741/%E7%89%B9%E6%9C%97%E6%99%AE-%E5%92%8C%E5%B9%B3%E5%A7%94%E5%93%A1%E6%9C%83%E5%B0%87%E8%B3%87%E5%8A%A9%E5%8A%A0%E6%B2%99%E9%80%BE50%E5%84%84%E7%BE%8E%E5%85%83-%E7%94%A8%E6%96%BC%E9%87%8D%E5%BB%BA%E5%8F%8A%E4%BA%BA%E9%81%93%E6%8F%B4%E5%8A%A9",
+    "timestamp": "2026-02-15T21:15:31.608Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "特朗普：和平委員會將資助加沙逾50億美元　用於重建及人道援助",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260215/1099824199049940992581049.jpeg/-6C4tpkfbM9ww1C8AwhfDKHKyEu7eC94yrdw-sq3cPo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60322711/%E5%B0%8B%E7%A7%A6%E8%A8%98-%E5%A4%A7%E5%B9%B4%E5%88%9D%E4%B8%80%E8%BC%89%E8%AD%BD%E6%AD%B8%E4%BE%86-%E5%8F%A4%E5%A4%A9%E6%A8%82%E9%A3%BE%E6%BC%94-%E9%A0%85%E5%B0%91%E9%BE%8D-%E6%93%81%E6%9C%89%E4%B8%BB%E8%A7%92%E5%85%89%E7%92%B0",
     "timestamp": "2026-02-15T15:47:13.142Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "韓前女團成員靠「薄紗低胸裝彈琴」爆紅　自爆砸40億韓元買樓內幕",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260213/1099039801471930368832461.png/R7NzWOGUk9svM5IUDaXq_PEqVhobv3046Dp5Keg6eSk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E5%A8%9B%E6%A8%82/60322220/%E7%B6%B2%E7%B4%85%E6%9D%8E%E6%B5%B7%E4%BB%81%E9%9D%A0-%E8%96%84%E7%B4%97%E4%BD%8E%E8%83%B8%E8%A3%9D%E5%BD%88%E7%90%B4-%E7%88%86%E7%B4%85-%E8%87%AA%E7%88%86%E7%A0%B840%E5%84%84%E9%9F%93%E5%85%83%E8%B2%B7%E6%88%BF%E5%85%A7%E5%B9%95",
-    "timestamp": "2026-02-15T15:31:32.781Z",
     "strategy": ".content-card__main"
   }
 ];
