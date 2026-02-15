@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-15T22:48:36.292Z
+// Last updated: 2026-02-15T23:02:41.659Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "歐洲5國指納瓦利尼遭俄毒殺　魯比奧：沒理由質疑報告",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260216/1099890004957597696670413.jpeg/UZyYNytqNd3uWpgrVw8bfDShfb5tUmmABlNrjAZTa4w?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60322736/%E6%AD%90%E6%B4%B25%E5%9C%8B%E6%8C%87%E7%B4%8D%E7%93%A6%E5%88%A9%E5%B0%BC%E9%81%AD%E4%BF%84%E6%AF%92%E6%AE%BA-%E9%AD%AF%E6%AF%94%E5%A5%A7-%E6%B2%92%E7%90%86%E7%94%B1%E8%B3%AA%E7%96%91%E5%A0%B1%E5%91%8A",
+    "timestamp": "2026-02-15T23:02:41.659Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "周慧敏現身春晚錄影為粉絲簽名遭粗暴阻攔　一高EQ舉動盡顯人品",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260216/1099866842039586816796832.jpeg/kIMU_2grwIE0qpmBk3bCK9LQX2rhrNOC1iLgedYi4Hk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60322729/%E6%AD%90%E7%9B%9F%E5%AE%98%E5%93%A1-%E6%88%90%E5%93%A1%E5%9C%8B%E6%9C%AA%E6%BA%96%E5%82%99%E5%A5%BD%E5%90%91%E7%83%8F%E5%85%8B%E8%98%AD%E6%8F%90%E4%BE%9B%E5%85%B7%E9%AB%94%E5%85%A5%E7%9B%9F%E6%97%A5%E6%9C%9F",
     "timestamp": "2026-02-15T17:48:01.779Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "夏葵樓停電│房署：因喉管滲水令電機房短路　昐今早6時前恢復電力",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260216/1099859103951360000417039.jpeg/fJbHk8rEfNkK3I6KOk6iGACHKZUQe7Cny_3rzu79684?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60322731/%E5%A4%8F%E8%91%B5%E6%A8%93%E5%81%9C%E9%9B%BB-%E6%88%BF%E7%BD%B2-%E5%9B%A0%E5%96%89%E7%AE%A1%E6%BB%B2%E6%B0%B4%E4%BB%A4%E9%9B%BB%E6%A9%9F%E6%88%BF%E7%9F%AD%E8%B7%AF-%E6%98%90%E4%BB%8A%E6%97%A96%E6%99%82%E5%89%8D%E6%81%A2%E5%BE%A9%E9%9B%BB%E5%8A%9B",
-    "timestamp": "2026-02-15T17:31:23.765Z",
     "strategy": ".content-card__main"
   }
 ];
