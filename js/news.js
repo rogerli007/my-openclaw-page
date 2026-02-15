@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-15T10:16:00.284Z
+// Last updated: 2026-02-15T10:32:14.610Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "洪天明玩007入子彈竟首名出局　談洪金寶入圍金像獎：新人攞更好",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260215/1099756455650660352794680.jpeg/ar6ZJ3Y169sbAQBD-LzmRfNsCd7ucSsIz28EwM9vBMA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60322663/%E6%B4%AA%E5%A4%A9%E6%98%8E%E7%8E%A9007%E5%85%A5%E5%AD%90%E5%BD%88%E7%AB%9F%E9%A6%96%E5%90%8D%E5%87%BA%E5%B1%80-%E8%AB%87%E6%B4%AA%E9%87%91%E5%AF%B6%E5%85%A5%E5%9C%8D%E9%87%91%E5%83%8F%E7%8D%8E-%E6%96%B0%E4%BA%BA%E6%94%9E%E6%9B%B4%E5%A5%BD",
+    "timestamp": "2026-02-15T10:32:14.610Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "關於對加拿大英國免簽政策　中國外交部：2月17日起實施",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20251230/1082699330181140480623915.jpeg/vkV0wBSiYtomJHkPaiDy5qfCdSkwtkHlTnoQV056EFc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60322558/%E7%BE%8E%E5%AA%92-%E7%89%B9%E6%9C%97%E6%99%AE%E5%85%A7%E5%A1%94%E5%B0%BC%E4%BA%9E%E8%83%A1%E4%B8%80%E8%87%B4%E5%90%8C%E6%84%8F-%E8%87%B4%E5%8A%9B%E6%B8%9B%E5%B0%91%E4%BC%8A%E6%9C%97%E5%B0%8D%E4%B8%AD%E5%9C%8B%E5%87%BA%E5%94%AE%E7%9F%B3%E6%B2%B9",
     "timestamp": "2026-02-15T00:48:13.937Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "王毅晤加拿大外長阿南德　願同加方重啟各領域交流合作",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20240827/905199202923974656029851.jpeg/OpMvpecv0jTaTmtM5SndFZMMiD-6eCIYOtW_IDrVvyA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60322557/%E7%8E%8B%E6%AF%85%E6%99%A4%E5%8A%A0%E6%8B%BF%E5%A4%A7%E5%A4%96%E9%95%B7%E9%98%BF%E5%8D%97%E5%BE%B7-%E9%A1%98%E5%90%8C%E5%8A%A0%E6%96%B9%E9%87%8D%E5%95%9F%E5%90%84%E9%A0%98%E5%9F%9F%E4%BA%A4%E6%B5%81%E5%90%88%E4%BD%9C",
-    "timestamp": "2026-02-14T23:58:17.397Z",
     "strategy": ".content-card__main"
   }
 ];
