@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-15T11:45:01.992Z
+// Last updated: 2026-02-15T11:56:20.589Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "坪洲中年婦家中暈倒　昏迷送院搶救",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20251228/1082039949122867200645108.jpeg/CWyEw5DxLEKoem3u1f7oQhtG9FOwuaCORr2NgmO9jYI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60322691/%E5%9D%AA%E6%B4%B2%E4%B8%AD%E5%B9%B4%E5%A9%A6%E5%AE%B6%E4%B8%AD%E6%9A%88%E5%80%92-%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2%E6%90%B6%E6%95%91",
+    "timestamp": "2026-02-15T11:56:20.589Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "和「年下男」談戀愛會比較幸福嗎　一篇深入解析姐弟戀10大優缺點",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260215/1099690223152926720578302.jpeg/9femYX7Q1qV247vur3YGSvVwcT_HvUZ6Aqi1TQKotU0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60322603/%E8%BE%B2%E6%9B%86%E6%96%B0%E5%B9%B4-%E9%99%B3%E8%8C%82%E6%B3%A2-%E6%9C%AC%E6%B8%AF%E6%B0%A3%E6%B0%9B%E6%BF%83%E5%8E%9A-%E6%98%A5%E7%AF%80%E9%BB%83%E9%87%91%E5%91%A8%E9%81%8A%E5%AE%A2%E6%97%A5%E5%9D%87%E6%96%99%E5%A2%9E6",
     "timestamp": "2026-02-15T05:18:41.547Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "30多歲中國女子濟州機場前高架橋墮亡",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260215/1099682733505908736497186.jpeg/8VNUWDZVjXGaCLZabkBjmyj86lOZX6ef1cpXl9XKV5c?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60322595/30%E5%A4%9A%E6%AD%B2%E4%B8%AD%E5%9C%8B%E5%A5%B3%E5%AD%90%E6%BF%9F%E5%B7%9E%E6%A9%9F%E5%A0%B4%E5%89%8D%E9%AB%98%E6%9E%B6%E6%A9%8B%E5%A2%AE%E4%BA%A1",
-    "timestamp": "2026-02-15T04:36:37.104Z",
     "strategy": ".content-card__main"
   }
 ];
