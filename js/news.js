@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-15T15:47:13.142Z
+// Last updated: 2026-02-15T15:59:21.862Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "尋秦記｜大年初一載譽歸來　古天樂飾演「項少龍」擁有主角光環",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260215/1099824199049940992581049.jpeg/-6C4tpkfbM9ww1C8AwhfDKHKyEu7eC94yrdw-sq3cPo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60322711/%E5%B0%8B%E7%A7%A6%E8%A8%98-%E5%A4%A7%E5%B9%B4%E5%88%9D%E4%B8%80%E8%BC%89%E8%AD%BD%E6%AD%B8%E4%BE%86-%E5%8F%A4%E5%A4%A9%E6%A8%82%E9%A3%BE%E6%BC%94-%E9%A0%85%E5%B0%91%E9%BE%8D-%E6%93%81%E6%9C%89%E4%B8%BB%E8%A7%92%E5%85%89%E7%92%B0",
+    "timestamp": "2026-02-15T15:59:21.862Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "尋秦記｜大年初一載譽歸來　古天樂飾演「項少龍」擁有主角光環",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260215/1099762695093096448712640.jpeg/TssPFlLdzbmkEvSGRDDNRsrO_MAzhLyEjp5A1I6eQNQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60322673/%E8%B0%B7%E6%84%9B%E5%87%8C%E5%8F%8A%E8%8A%B1%E5%BC%8F%E6%BA%9C%E5%86%B0%E7%BE%8E%E5%B0%91%E5%A5%B3%E6%9C%B1%E6%98%93%E7%8D%B2%E5%8C%97%E4%BA%AC%E9%89%85%E6%AC%BE%E8%B3%87%E5%8A%A9-%E9%87%91%E9%A1%8D%E6%84%8F%E5%A4%96%E6%9B%9D%E5%85%89",
     "timestamp": "2026-02-15T10:00:30.596Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普石油封鎖致古巴燃料短缺　「夏灣拿雪茄節」被迫延期",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260214/1099175446982955008495178.jpeg/g4vQpZGI-S1ltbDfrVEEDHCneMXjiDWe8aSRVfGkkVU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60322654/%E7%89%B9%E6%9C%97%E6%99%AE%E7%9F%B3%E6%B2%B9%E5%B0%81%E9%8E%96%E8%87%B4%E5%8F%A4%E5%B7%B4%E7%87%83%E6%96%99%E7%9F%AD%E7%BC%BA-%E5%A4%8F%E7%81%A3%E6%8B%BF%E9%9B%AA%E8%8C%84%E7%AF%80-%E8%A2%AB%E8%BF%AB%E5%BB%B6%E6%9C%9F",
-    "timestamp": "2026-02-15T09:37:45.298Z",
     "strategy": ".content-card__main"
   }
 ];
