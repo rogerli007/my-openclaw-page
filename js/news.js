@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-15T19:03:29.404Z
+// Last updated: 2026-02-15T19:19:21.897Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "英足總盃｜阿仙奴4：0勝韋根　輕鬆晉級第5輪",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260216/1099892065581797376632814.jpeg/Fxc7euXpCH2dkVwmFF7U4X1iBQrqQ8ydHGUEkxxlBJM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60322737/%E8%8B%B1%E8%B6%B3%E7%B8%BD%E7%9B%83-%E9%98%BF%E4%BB%99%E5%A5%B44-0%E5%8B%9D%E9%9F%8B%E6%A0%B9-%E8%BC%95%E9%AC%86%E6%99%89%E7%B4%9A%E7%AC%AC5%E8%BC%AA",
+    "timestamp": "2026-02-15T19:19:21.897Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "英足總盃｜阿仙奴4：0勝韋根　輕鬆晉級第5輪",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20200808/368821755034341376.jpeg/VFdbrAvAyEjX4TOx7vm64tTAlDVkeOAcXwRfC18EXws?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60322702/%E8%8B%B1%E5%9C%8B%E9%A6%96%E5%B8%AD%E6%8D%95%E9%BC%A0%E5%A4%A7%E8%87%A3larry%E5%85%A5%E5%94%90%E5%AF%A7%E8%A1%9715%E5%91%A8%E5%B9%B4-%E6%94%AF%E6%8C%81%E7%8E%87%E9%81%A0%E8%B6%85%E6%AD%B7%E7%B6%936%E4%BB%BB%E9%A6%96%E7%9B%B8",
     "timestamp": "2026-02-15T13:38:45.022Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "匈牙利大選前　總理歐爾班：真正的威脅不是俄羅斯而是歐盟",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260215/1099797644848402432182957.jpeg/dJjlO5Vbdie8amrtIQEpVGpVrt1dfBaoJKiEvCSohLw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60322695/%E5%8C%88%E7%89%99%E5%88%A9%E5%A4%A7%E9%81%B8%E5%89%8D-%E7%B8%BD%E7%90%86%E6%AD%90%E7%88%BE%E7%8F%AD-%E7%9C%9F%E6%AD%A3%E7%9A%84%E5%A8%81%E8%84%85%E4%B8%8D%E6%98%AF%E4%BF%84%E7%BE%85%E6%96%AF%E8%80%8C%E6%98%AF%E6%AD%90%E7%9B%9F",
-    "timestamp": "2026-02-15T13:14:32.203Z",
     "strategy": ".content-card__main"
   }
 ];
