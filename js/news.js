@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-15T19:19:21.897Z
+// Last updated: 2026-02-15T19:36:24.599Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "英足總盃｜阿仙奴4：0勝韋根　輕鬆晉級第5輪",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260216/1099892065581797376632814.jpeg/Fxc7euXpCH2dkVwmFF7U4X1iBQrqQ8ydHGUEkxxlBJM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60322737/%E8%8B%B1%E8%B6%B3%E7%B8%BD%E7%9B%83-%E9%98%BF%E4%BB%99%E5%A5%B44-0%E5%8B%9D%E9%9F%8B%E6%A0%B9-%E8%BC%95%E9%AC%86%E6%99%89%E7%B4%9A%E7%AC%AC5%E8%BC%AA",
+    "timestamp": "2026-02-15T19:36:24.599Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "英足總盃｜阿仙奴4：0勝韋根　輕鬆晉級第5輪",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260215/1099825750934032384396102.png/R_ADRXkWk0rAcQXvllFddhTpoyiu5OaIgMRwbvrEcG4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60322709/%E6%B1%9F%E8%98%87%E7%85%99%E8%8A%B1%E7%88%86%E7%AB%B9%E7%B6%93%E7%87%9F%E9%83%A8%E7%88%86%E7%87%83-%E6%9D%91%E6%B0%91%E7%87%83%E6%94%BE%E4%B8%8D%E7%95%B6%E9%87%808%E6%AD%BB-%E8%B2%AC%E4%BB%BB%E4%BA%BA%E8%A2%AB%E6%8E%A7%E5%88%B6",
     "timestamp": "2026-02-15T14:03:06.948Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "英國首席捕鼠大臣Larry入唐寧街15周年　支持率遠超歷經6任首相",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20200808/368821755034341376.jpeg/VFdbrAvAyEjX4TOx7vm64tTAlDVkeOAcXwRfC18EXws?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60322702/%E8%8B%B1%E5%9C%8B%E9%A6%96%E5%B8%AD%E6%8D%95%E9%BC%A0%E5%A4%A7%E8%87%A3larry%E5%85%A5%E5%94%90%E5%AF%A7%E8%A1%9715%E5%91%A8%E5%B9%B4-%E6%94%AF%E6%8C%81%E7%8E%87%E9%81%A0%E8%B6%85%E6%AD%B7%E7%B6%936%E4%BB%BB%E9%A6%96%E7%9B%B8",
-    "timestamp": "2026-02-15T13:38:45.022Z",
     "strategy": ".content-card__main"
   }
 ];
