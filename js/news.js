@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-15T08:35:24.552Z
+// Last updated: 2026-02-15T09:02:08.589Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "張柏芝公開與「男伴」情人節拍拖片　自爆一舉動遭嫌棄網民睇到喊",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260215/1099746594430914560498671.jpeg/zkpgwfkFuQAfzR7H0xRUjWwTy260zvtbHEVMohxFTKI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60322591/%E5%BC%B5%E6%9F%8F%E8%8A%9D%E5%85%AC%E9%96%8B%E8%88%87%E8%AC%9D%E6%8C%AF%E8%BB%92%E6%83%85%E4%BA%BA%E7%AF%80%E6%8B%8D%E6%8B%96%E7%89%87-%E8%87%AA%E7%88%86%E4%B8%80%E8%88%89%E5%8B%95%E9%81%AD%E5%AB%8C%E6%A3%84%E7%B6%B2%E6%B0%91%E7%9D%87%E5%88%B0%E5%96%8A",
+    "timestamp": "2026-02-15T09:02:08.589Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "日漫畫家吾嬬竜孝驟逝　曾執筆《大和號》　未完結手稿將集結出版",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260215/1099587656708263936649152.jpeg/q1QqcjYBCJFDxYoJbyUyIL2Fl-dd07Oc3t68p97evKc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60322554/%E4%B8%B9%E9%BA%A5%E9%A6%96%E7%9B%B8%E6%8C%87%E7%89%B9%E6%9C%97%E6%99%AE%E4%BB%8D%E5%B0%8D%E6%A0%BC%E9%99%B5%E8%98%AD%E6%AD%BB%E5%BF%83%E4%B8%8D%E6%81%AF-%E7%8B%A0%E6%89%B9%E6%B0%91%E7%9C%BE%E5%8F%97%E5%A3%93-%E4%B8%8D%E5%8F%AF%E6%8E%A5%E5%8F%97",
     "timestamp": "2026-02-14T23:01:36.951Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "丹麥首相指特朗普仍對格陵蘭死心不息　狠批民眾受壓「不可接受」",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260215/1099587656708263936649152.jpeg/q1QqcjYBCJFDxYoJbyUyIL2Fl-dd07Oc3t68p97evKc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60322554/%E4%B8%B9%E9%BA%A5%E9%A6%96%E7%9B%B8%E6%8C%87%E7%89%B9%E6%9C%97%E6%99%AE%E4%BB%8D%E5%B0%8D%E6%A0%BC%E9%99%B5%E8%98%AD%E6%AD%BB%E5%BF%83%E4%B8%8D%E6%81%AF-%E7%8B%A0%E6%89%B9%E6%B0%91%E7%9C%BE%E5%8F%97%E5%A3%93-%E4%B8%8D%E5%8F%AF%E6%8E%A5%E5%8F%97",
-    "timestamp": "2026-02-14T22:48:17.889Z",
     "strategy": ".content-card__main"
   }
 ];
