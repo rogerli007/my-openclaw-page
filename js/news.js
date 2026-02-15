@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-15T05:18:41.547Z
+// Last updated: 2026-02-15T05:47:05.818Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "劉德華太太朱麗蒨被揭私人飛機奇葩事　空姐接觸兩個月爆真實人品",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260215/1099690836888653824329786.jpeg/iG36eb0PADNQ-FZ2nqkwWuTOSkK1DDFeGLwdqhi8Hao?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60322590/%E5%8A%89%E5%BE%B7%E8%8F%AF%E5%A4%AA%E5%A4%AA%E6%9C%B1%E9%BA%97%E8%92%A8%E8%A2%AB%E6%8F%AD%E7%A7%81%E4%BA%BA%E9%A3%9B%E6%A9%9F%E5%A5%87%E8%91%A9%E4%BA%8B-%E7%A9%BA%E5%A7%90%E6%8E%A5%E8%A7%B8%E5%85%A9%E5%80%8B%E6%9C%88%E7%88%86%E7%9C%9F%E5%AF%A6%E4%BA%BA%E5%93%81",
+    "timestamp": "2026-02-15T05:47:05.818Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "農曆新年｜陳茂波：本港氣氛濃厚　春節黃金周遊客日均料增6%",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260215/1099555226710446080714659.jpeg/6egrIdPwdreEeJqEopECPUmzsoqv_WByC8LdEwvC3RM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60322552/%E8%8B%B1%E8%B6%B3%E7%B8%BD%E7%9B%83-%E7%B4%90%E5%8D%A1%E7%B4%A03-1%E5%8F%8D%E5%8B%9D10%E4%BA%BA%E7%B6%AD%E6%8B%89-%E6%9D%B1%E6%8B%BF%E5%88%A9%E6%A2%85%E9%96%8B%E4%BA%8C%E5%BA%A6",
     "timestamp": "2026-02-14T21:00:23.076Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "英足總盃｜紐卡素3：1反勝10人維拉　東拿利梅開二度",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260215/1099555226710446080714659.jpeg/6egrIdPwdreEeJqEopECPUmzsoqv_WByC8LdEwvC3RM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60322552/%E8%8B%B1%E8%B6%B3%E7%B8%BD%E7%9B%83-%E7%B4%90%E5%8D%A1%E7%B4%A03-1%E5%8F%8D%E5%8B%9D10%E4%BA%BA%E7%B6%AD%E6%8B%89-%E6%9D%B1%E6%8B%BF%E5%88%A9%E6%A2%85%E9%96%8B%E4%BA%8C%E5%BA%A6",
-    "timestamp": "2026-02-14T20:47:40.804Z",
     "strategy": ".content-card__main"
   }
 ];
