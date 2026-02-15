@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-15T22:13:24.247Z
+// Last updated: 2026-02-15T22:31:16.577Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "大灣區飛台北遇大霧　盤旋7圈折返加油續行程　全程7小時旅客叫苦",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260216/1099943109665492992483750.jpeg/w3b65XYCp9iI_tpf5TspiVYdfmbnvOpIEWy-NxFsvjc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60322750/%E5%A4%A7%E7%81%A3%E5%8D%80%E9%A3%9B%E5%8F%B0%E5%8C%97%E9%81%87%E5%A4%A7%E9%9C%A7-%E7%9B%A4%E6%97%8B7%E5%9C%88%E6%8A%98%E8%BF%94%E5%8A%A0%E6%B2%B9%E7%BA%8C%E8%A1%8C%E7%A8%8B-%E5%85%A8%E7%A8%8B7%E5%B0%8F%E6%99%82%E6%97%85%E5%AE%A2%E5%8F%AB%E8%8B%A6",
+    "timestamp": "2026-02-15T22:31:16.577Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "北上人氣女星被指捱到殘目光呆滯　音樂人好友離世現嘔吐呼吸困難",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260216/1099859103951360000417039.jpeg/fJbHk8rEfNkK3I6KOk6iGACHKZUQe7Cny_3rzu79684?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60322731/%E5%A4%8F%E8%91%B5%E6%A8%93%E5%81%9C%E9%9B%BB-%E6%88%BF%E7%BD%B2-%E5%9B%A0%E5%96%89%E7%AE%A1%E6%BB%B2%E6%B0%B4%E4%BB%A4%E9%9B%BB%E6%A9%9F%E6%88%BF%E7%9F%AD%E8%B7%AF-%E6%98%90%E4%BB%8A%E6%97%A96%E6%99%82%E5%89%8D%E6%81%A2%E5%BE%A9%E9%9B%BB%E5%8A%9B",
     "timestamp": "2026-02-15T17:15:26.541Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "夏葵樓機房故障致760戶停電　住客開電筒食糖水：好難忘嘅團年飯",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260216/1099859103951360000417039.jpeg/fJbHk8rEfNkK3I6KOk6iGACHKZUQe7Cny_3rzu79684?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60322726/%E5%A4%8F%E8%91%B5%E6%A8%93%E6%A9%9F%E6%88%BF%E6%95%85%E9%9A%9C%E8%87%B4760%E6%88%B6%E5%81%9C%E9%9B%BB-%E4%BD%8F%E5%AE%A2%E9%96%8B%E9%9B%BB%E7%AD%92%E9%A3%9F%E7%B3%96%E6%B0%B4-%E5%A5%BD%E9%9B%A3%E5%BF%98%E5%98%85%E5%9C%98%E5%B9%B4%E9%A3%AF",
-    "timestamp": "2026-02-15T16:52:03.529Z",
     "strategy": ".content-card__main"
   }
 ];
