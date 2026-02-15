@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-15T07:10:42.330Z
+// Last updated: 2026-02-15T07:35:01.235Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "59歲男星突發心肌梗塞險死　昏倒後完全斷片　曝好友助力救命關鍵",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260214/1099346111295918080823651.png/_88DYNlymsuHL0fCRAWeegndDJAmgP7qb8dvrW_Hb60?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60322415/%E9%87%91%E6%B0%B4%E9%BE%8D%E7%AA%81%E7%99%BC%E5%BF%83%E8%82%8C%E6%A2%97%E5%A1%9E%E9%9A%AA%E6%AD%BB-%E6%98%8F%E5%80%92%E5%BE%8C%E5%AE%8C%E5%85%A8%E6%96%B7%E7%89%87-%E6%9B%9D%E5%A5%BD%E5%8F%8B%E5%8A%A9%E5%8A%9B%E6%95%91%E5%91%BD%E9%97%9C%E9%8D%B5",
+    "timestamp": "2026-02-15T07:35:01.235Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "深圳灣公路大橋往屯門方向兩旅遊巴相撞　15人輕傷",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260215/1099573827177811968948103.png/trAKQOq6OtdE0DXZAjzYOhxMxou_a1Zs3xLExt8SxMY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60322553/%E5%BE%AE%E8%BB%9Fai-ceo-%E5%A4%A7%E9%83%A8%E4%BB%BD%E7%99%BD%E9%A0%98%E5%B7%A5%E4%BD%9C1-5%E5%B9%B4%E5%85%A7%E8%A2%ABai%E5%8F%96%E4%BB%A3-%E5%BE%8B%E5%B8%AB%E5%8F%8A%E6%9C%83%E8%A8%88%E5%B8%AB%E9%AB%98%E5%8D%B1",
     "timestamp": "2026-02-14T21:58:08.256Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "英足總盃｜紐卡素3：1反勝10人維拉　東拿利梅開二度",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260215/1099555226710446080714659.jpeg/6egrIdPwdreEeJqEopECPUmzsoqv_WByC8LdEwvC3RM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60322552/%E8%8B%B1%E8%B6%B3%E7%B8%BD%E7%9B%83-%E7%B4%90%E5%8D%A1%E7%B4%A03-1%E5%8F%8D%E5%8B%9D10%E4%BA%BA%E7%B6%AD%E6%8B%89-%E6%9D%B1%E6%8B%BF%E5%88%A9%E6%A2%85%E9%96%8B%E4%BA%8C%E5%BA%A6",
-    "timestamp": "2026-02-14T21:46:05.084Z",
     "strategy": ".content-card__main"
   }
 ];
