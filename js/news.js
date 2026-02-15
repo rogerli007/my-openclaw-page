@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-15T13:38:45.022Z
+// Last updated: 2026-02-15T14:03:06.948Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "江蘇煙花爆竹經營部爆燃　村民燃放不當釀8死　責任人被控制",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260215/1099825750934032384396102.png/R_ADRXkWk0rAcQXvllFddhTpoyiu5OaIgMRwbvrEcG4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60322709/%E6%B1%9F%E8%98%87%E7%85%99%E8%8A%B1%E7%88%86%E7%AB%B9%E7%B6%93%E7%87%9F%E9%83%A8%E7%88%86%E7%87%83-%E6%9D%91%E6%B0%91%E7%87%83%E6%94%BE%E4%B8%8D%E7%95%B6%E9%87%808%E6%AD%BB-%E8%B2%AC%E4%BB%BB%E4%BA%BA%E8%A2%AB%E6%8E%A7%E5%88%B6",
+    "timestamp": "2026-02-15T14:03:06.948Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "英國首席捕鼠大臣Larry入唐寧街15周年　支持率遠超歷經6任首相",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260214/1099346111295918080823651.png/_88DYNlymsuHL0fCRAWeegndDJAmgP7qb8dvrW_Hb60?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60322415/%E9%87%91%E6%B0%B4%E9%BE%8D%E7%AA%81%E7%99%BC%E5%BF%83%E8%82%8C%E6%A2%97%E5%A1%9E%E9%9A%AA%E6%AD%BB-%E6%98%8F%E5%80%92%E5%BE%8C%E5%AE%8C%E5%85%A8%E6%96%B7%E7%89%87-%E6%9B%9D%E5%A5%BD%E5%8F%8B%E5%8A%A9%E5%8A%9B%E6%95%91%E5%91%BD%E9%97%9C%E9%8D%B5",
     "timestamp": "2026-02-15T07:35:01.235Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "深圳灣公路大橋往屯門方向兩旅遊巴相撞　15人輕傷",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/4656102/org/5091e75d11f97b4ff7e8099b1bada244.jpg/uDvwWvT5kxB1pZ1yWnen3sjpNLEc-meLwuxkuMLsZLg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60322628/%E6%B7%B1%E5%9C%B3%E7%81%A3%E5%85%AC%E8%B7%AF%E5%A4%A7%E6%A9%8B%E5%BE%80%E5%B1%AF%E9%96%80%E6%96%B9%E5%90%91%E5%85%A9%E6%97%85%E9%81%8A%E5%B7%B4%E7%9B%B8%E6%92%9E-15%E4%BA%BA%E8%BC%95%E5%82%B7",
-    "timestamp": "2026-02-15T07:10:42.330Z",
     "strategy": ".content-card__main"
   }
 ];
