@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-15T12:19:51.753Z
+// Last updated: 2026-02-15T12:39:44.755Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "越秀公園萬盞彩燈迎客　真人NPC重現千年商都盛況｜趣Share大灣區",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260215/1099776186298404864231549.jpeg/ToIbbMMyR-YhHmrsPcDkbcdZ-ccvGcFxOHcVlQJ3FZU?v=w1920",
+    "url": "https://www.hk01.com/%E5%8C%97%E4%B8%8A%E5%BB%A3%E6%9D%B1/60322680/%E8%B6%8A%E7%A7%80%E5%85%AC%E5%9C%92%E8%90%AC%E7%9B%9E%E5%BD%A9%E7%87%88%E8%BF%8E%E5%AE%A2-%E7%9C%9F%E4%BA%BAnpc%E9%87%8D%E7%8F%BE%E5%8D%83%E5%B9%B4%E5%95%86%E9%83%BD%E7%9B%9B%E6%B3%81-%E8%B6%A3share%E5%A4%A7%E7%81%A3%E5%8D%80",
+    "timestamp": "2026-02-15T12:39:44.755Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美媒：福特CEO與美官員磋商讓中企赴美造車　建合資企業共享技術",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260206/1096571044182888448192650.jpeg/6cgKTOpV9GtgkeH5TCFkqcgCZrg9_C-XHdy6Oifcujo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60320113/%E9%A6%AC%E5%B9%B4%E7%8E%B2%E7%8E%B2%E9%96%8B%E9%81%8B%E6%89%80-%E9%BA%A5%E7%8E%B2%E7%8E%B2%E5%B8%AB%E5%82%85%E7%88%86%E5%BB%96%E6%85%A7%E5%84%80%E4%B8%89%E9%87%8D%E7%8A%AF%E5%A4%AA%E6%AD%B2-%E5%A4%AA%E5%A4%9A%E7%88%9B%E6%A1%83%E8%8A%B1",
     "timestamp": "2026-02-15T06:12:57.309Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "劉德華太太朱麗蒨被揭私人飛機奇葩事　空姐接觸兩個月爆真實人品",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260215/1099690836888653824329786.jpeg/iG36eb0PADNQ-FZ2nqkwWuTOSkK1DDFeGLwdqhi8Hao?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60322590/%E5%8A%89%E5%BE%B7%E8%8F%AF%E5%A4%AA%E5%A4%AA%E6%9C%B1%E9%BA%97%E8%92%A8%E8%A2%AB%E6%8F%AD%E7%A7%81%E4%BA%BA%E9%A3%9B%E6%A9%9F%E5%A5%87%E8%91%A9%E4%BA%8B-%E7%A9%BA%E5%A7%90%E6%8E%A5%E8%A7%B8%E5%85%A9%E5%80%8B%E6%9C%88%E7%88%86%E7%9C%9F%E5%AF%A6%E4%BA%BA%E5%93%81",
-    "timestamp": "2026-02-15T05:47:05.818Z",
     "strategy": ".content-card__main"
   }
 ];
