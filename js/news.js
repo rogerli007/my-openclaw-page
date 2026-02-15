@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-15T10:00:30.596Z
+// Last updated: 2026-02-15T10:16:00.284Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "關於對加拿大英國免簽政策　中國外交部：2月17日起實施",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250225/971072657820749824785406.jpeg/hlsSocnLT7mTxNR2JX9dHoFHqjoq1moTNgEr3TYBK90?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60322676/%E9%97%9C%E6%96%BC%E5%B0%8D%E5%8A%A0%E6%8B%BF%E5%A4%A7%E8%8B%B1%E5%9C%8B%E5%85%8D%E7%B0%BD%E6%94%BF%E7%AD%96-%E4%B8%AD%E5%9C%8B%E5%A4%96%E4%BA%A4%E9%83%A8-2%E6%9C%8817%E6%97%A5%E8%B5%B7%E5%AF%A6%E6%96%BD",
+    "timestamp": "2026-02-15T10:16:00.284Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美媒：谷愛凌及花式溜冰美少女朱易獲北京鉅款資助　金額意外曝光",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20240827/905199202923974656029851.jpeg/OpMvpecv0jTaTmtM5SndFZMMiD-6eCIYOtW_IDrVvyA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60322557/%E7%8E%8B%E6%AF%85%E6%99%A4%E5%8A%A0%E6%8B%BF%E5%A4%A7%E5%A4%96%E9%95%B7%E9%98%BF%E5%8D%97%E5%BE%B7-%E9%A1%98%E5%90%8C%E5%8A%A0%E6%96%B9%E9%87%8D%E5%95%9F%E5%90%84%E9%A0%98%E5%9F%9F%E4%BA%A4%E6%B5%81%E5%90%88%E4%BD%9C",
     "timestamp": "2026-02-14T23:58:17.397Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "王毅晤加拿大外長阿南德　願同加方重啟各領域交流合作",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20240827/905199202923974656029851.jpeg/OpMvpecv0jTaTmtM5SndFZMMiD-6eCIYOtW_IDrVvyA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60322557/%E7%8E%8B%E6%AF%85%E6%99%A4%E5%8A%A0%E6%8B%BF%E5%A4%A7%E5%A4%96%E9%95%B7%E9%98%BF%E5%8D%97%E5%BE%B7-%E9%A1%98%E5%90%8C%E5%8A%A0%E6%96%B9%E9%87%8D%E5%95%9F%E5%90%84%E9%A0%98%E5%9F%9F%E4%BA%A4%E6%B5%81%E5%90%88%E4%BD%9C",
-    "timestamp": "2026-02-14T23:46:21.038Z",
     "strategy": ".content-card__main"
   }
 ];
