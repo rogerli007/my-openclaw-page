@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-15T02:24:45.270Z
+// Last updated: 2026-02-15T03:36:48.811Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "大埔新娘潭路單車疑自炒　男子昏迷送院",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250826/1036914728573603840735198.jpeg/-6ruYBfaKYfa0xvPipSfeJ79PeAgP1GpmQoXnpkKF54?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60322585/%E5%A4%A7%E5%9F%94%E6%96%B0%E5%A8%98%E6%BD%AD%E8%B7%AF%E5%96%AE%E8%BB%8A%E7%96%91%E8%87%AA%E7%82%92-%E7%94%B7%E5%AD%90%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2",
+    "timestamp": "2026-02-15T03:36:48.811Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "澤連斯基：簽和平協議有兩條件　加入歐盟日期＋逾20年美國安保",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260215/1099548136348585984193265.jpeg/JUfxTxI-Ytxoxzqo2fMlphjf9-zJkiA_rI8ZkpaPGZI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60322550/3%E8%AD%A6%E6%B7%B1%E6%B0%B4%E5%9F%97%E6%88%AA%E6%9F%A5%E5%8F%AF%E7%96%91%E7%94%B7%E9%81%87%E5%8F%8D%E6%8A%97%E5%8F%97%E5%82%B7-%E7%94%B7%E5%AD%90%E9%81%AD%E5%88%B6%E6%9C%8D%E8%A2%AB%E6%8D%95%E8%87%89%E5%82%B7%E9%80%81%E9%99%A2",
     "timestamp": "2026-02-14T20:13:43.668Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "3警深水埗截查可疑男遇反抗受傷　男子遭制服被捕臉傷送院",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260215/1099548136348585984193265.jpeg/JUfxTxI-Ytxoxzqo2fMlphjf9-zJkiA_rI8ZkpaPGZI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60322550/3%E8%AD%A6%E6%B7%B1%E6%B0%B4%E5%9F%97%E6%88%AA%E6%9F%A5%E5%8F%AF%E7%96%91%E7%94%B7%E9%81%87%E5%8F%8D%E6%8A%97%E5%8F%97%E5%82%B7-%E7%94%B7%E5%AD%90%E9%81%AD%E5%88%B6%E6%9C%8D%E8%A2%AB%E6%8D%95%E8%87%89%E5%82%B7%E9%80%81%E9%99%A2",
-    "timestamp": "2026-02-14T19:58:09.577Z",
     "strategy": ".content-card__main"
   }
 ];
