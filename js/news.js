@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-15T15:15:36.835Z
+// Last updated: 2026-02-15T15:31:32.781Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "韓前女團成員靠「薄紗低胸裝彈琴」爆紅　自爆砸40億韓元買樓內幕",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260213/1099039801471930368832461.png/R7NzWOGUk9svM5IUDaXq_PEqVhobv3046Dp5Keg6eSk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E5%A8%9B%E6%A8%82/60322220/%E7%B6%B2%E7%B4%85%E6%9D%8E%E6%B5%B7%E4%BB%81%E9%9D%A0-%E8%96%84%E7%B4%97%E4%BD%8E%E8%83%B8%E8%A3%9D%E5%BD%88%E7%90%B4-%E7%88%86%E7%B4%85-%E8%87%AA%E7%88%86%E7%A0%B840%E5%84%84%E9%9F%93%E5%85%83%E8%B2%B7%E6%88%BF%E5%85%A7%E5%B9%95",
+    "timestamp": "2026-02-15T15:31:32.781Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美軍印度洋攔截運油輪登船檢查　近期第2宗",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260212/1098685560194600960640381.jpeg/aeKNmpvyLn4ZdSlQvjWLisUhhDvJnr7sga1pFYGtaRU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%97%85%E9%81%8A/60257839/%E5%90%8D%E5%8F%A4%E5%B1%8B%E6%99%AF%E9%BB%9E10%E5%A4%A7%E6%8E%A8%E4%BB%8B-lego%E6%A8%82%E5%9C%92-%E5%90%89%E5%8D%9C%E5%8A%9B%E5%85%AC%E5%9C%92-%E7%A5%9E%E5%AE%AE%E5%AF%BA%E5%BB%9F-%E8%A6%AA%E5%AD%90%E5%A5%BD%E5%8E%BB%E8%99%95",
     "timestamp": "2026-02-15T09:19:23.515Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "張柏芝公開與「男伴」情人節拍拖片　自爆一舉動遭嫌棄網民睇到喊",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260215/1099746594430914560498671.jpeg/zkpgwfkFuQAfzR7H0xRUjWwTy260zvtbHEVMohxFTKI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60322591/%E5%BC%B5%E6%9F%8F%E8%8A%9D%E5%85%AC%E9%96%8B%E8%88%87%E8%AC%9D%E6%8C%AF%E8%BB%92%E6%83%85%E4%BA%BA%E7%AF%80%E6%8B%8D%E6%8B%96%E7%89%87-%E8%87%AA%E7%88%86%E4%B8%80%E8%88%89%E5%8B%95%E9%81%AD%E5%AB%8C%E6%A3%84%E7%B6%B2%E6%B0%91%E7%9D%87%E5%88%B0%E5%96%8A",
-    "timestamp": "2026-02-15T09:02:08.589Z",
     "strategy": ".content-card__main"
   }
 ];
