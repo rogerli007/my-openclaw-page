@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-15T09:19:23.515Z
+// Last updated: 2026-02-15T09:37:45.298Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "特朗普石油封鎖致古巴燃料短缺　「夏灣拿雪茄節」被迫延期",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260214/1099175446982955008495178.jpeg/g4vQpZGI-S1ltbDfrVEEDHCneMXjiDWe8aSRVfGkkVU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60322654/%E7%89%B9%E6%9C%97%E6%99%AE%E7%9F%B3%E6%B2%B9%E5%B0%81%E9%8E%96%E8%87%B4%E5%8F%A4%E5%B7%B4%E7%87%83%E6%96%99%E7%9F%AD%E7%BC%BA-%E5%A4%8F%E7%81%A3%E6%8B%BF%E9%9B%AA%E8%8C%84%E7%AF%80-%E8%A2%AB%E8%BF%AB%E5%BB%B6%E6%9C%9F",
+    "timestamp": "2026-02-15T09:37:45.298Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "名古屋景點10大推介　LEGO樂園/吉卜力公園/神宮寺廟　親子好去處",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260215/1099600990409068544187043.jpeg/O600bH2CMBgTv4XxuyVmvPKTW2--ChR6X6nhQF-p4UA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%92%B0%E7%90%83%E8%B6%A3%E8%81%9E/60322556/%E5%BE%B7%E5%9C%8B%E6%83%85%E4%BE%B6%E7%B4%80%E5%BF%B5%E6%97%A5%E6%A8%82%E6%A5%B5%E7%94%9F%E6%82%B2-%E9%81%8E%E8%90%AC%E7%8F%BE%E9%87%91%E9%9A%A8%E9%A2%A8%E9%A3%84%E8%B5%B0-%E7%94%B7%E5%91%BB%E5%94%94%E8%A6%8B%E4%BA%BA%E5%B7%A5-%E6%9C%89%E7%89%87",
     "timestamp": "2026-02-14T23:31:23.214Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "台男爬入蝦皮智能櫃「寄自己」　友人嬉笑拍片　官方發聲後續慘了",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260214/1099199257325342720078659.png/YWBNZbq3Sp2nOvm7To25SKVJhy4o9148C8oDgAvKA4A?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60320972/%E5%8F%B0%E7%94%B7%E7%88%AC%E5%85%A5%E8%9D%A6%E7%9A%AE%E6%99%BA%E8%83%BD%E6%AB%83-%E5%AF%84%E8%87%AA%E5%B7%B1-%E5%8F%8B%E4%BA%BA%E5%AC%89%E7%AC%91%E6%8B%8D%E7%89%87-%E5%AE%98%E6%96%B9%E7%99%BC%E8%81%B2%E5%BE%8C%E7%BA%8C%E6%85%98%E4%BA%86",
-    "timestamp": "2026-02-14T23:15:34.786Z",
     "strategy": ".content-card__main"
   }
 ];
