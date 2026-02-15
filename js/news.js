@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-15T04:36:37.104Z
+// Last updated: 2026-02-15T05:18:41.547Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "農曆新年｜陳茂波：本港氣氛濃厚　春節黃金周遊客日均料增6%",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260215/1099690223152926720578302.jpeg/9femYX7Q1qV247vur3YGSvVwcT_HvUZ6Aqi1TQKotU0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60322603/%E8%BE%B2%E6%9B%86%E6%96%B0%E5%B9%B4-%E9%99%B3%E8%8C%82%E6%B3%A2-%E6%9C%AC%E6%B8%AF%E6%B0%A3%E6%B0%9B%E6%BF%83%E5%8E%9A-%E6%98%A5%E7%AF%80%E9%BB%83%E9%87%91%E5%91%A8%E9%81%8A%E5%AE%A2%E6%97%A5%E5%9D%87%E6%96%99%E5%A2%9E6",
+    "timestamp": "2026-02-15T05:18:41.547Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "30多歲中國女子濟州機場前高架橋墮亡",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260215/1099555226710446080714659.jpeg/6egrIdPwdreEeJqEopECPUmzsoqv_WByC8LdEwvC3RM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60322552/%E8%8B%B1%E8%B6%B3%E7%B8%BD%E7%9B%83-%E7%B4%90%E5%8D%A1%E7%B4%A03-1%E5%8F%8D%E5%8B%9D10%E4%BA%BA%E7%B6%AD%E6%8B%89-%E6%9D%B1%E6%8B%BF%E5%88%A9%E6%A2%85%E9%96%8B%E4%BA%8C%E5%BA%A6",
     "timestamp": "2026-02-14T20:47:40.804Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "3警深水埗截查可疑男遇反抗受傷　男子遭制服被捕臉傷送院",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260215/1099548136348585984193265.jpeg/JUfxTxI-Ytxoxzqo2fMlphjf9-zJkiA_rI8ZkpaPGZI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60322550/3%E8%AD%A6%E6%B7%B1%E6%B0%B4%E5%9F%97%E6%88%AA%E6%9F%A5%E5%8F%AF%E7%96%91%E7%94%B7%E9%81%87%E5%8F%8D%E6%8A%97%E5%8F%97%E5%82%B7-%E7%94%B7%E5%AD%90%E9%81%AD%E5%88%B6%E6%9C%8D%E8%A2%AB%E6%8D%95%E8%87%89%E5%82%B7%E9%80%81%E9%99%A2",
-    "timestamp": "2026-02-14T20:31:12.022Z",
     "strategy": ".content-card__main"
   }
 ];
