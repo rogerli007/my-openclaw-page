@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-15T15:31:32.781Z
+// Last updated: 2026-02-15T15:47:13.142Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "尋秦記｜大年初一載譽歸來　古天樂飾演「項少龍」擁有主角光環",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260215/1099824199049940992581049.jpeg/-6C4tpkfbM9ww1C8AwhfDKHKyEu7eC94yrdw-sq3cPo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60322711/%E5%B0%8B%E7%A7%A6%E8%A8%98-%E5%A4%A7%E5%B9%B4%E5%88%9D%E4%B8%80%E8%BC%89%E8%AD%BD%E6%AD%B8%E4%BE%86-%E5%8F%A4%E5%A4%A9%E6%A8%82%E9%A3%BE%E6%BC%94-%E9%A0%85%E5%B0%91%E9%BE%8D-%E6%93%81%E6%9C%89%E4%B8%BB%E8%A7%92%E5%85%89%E7%92%B0",
+    "timestamp": "2026-02-15T15:47:13.142Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "韓前女團成員靠「薄紗低胸裝彈琴」爆紅　自爆砸40億韓元買樓內幕",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260214/1099175446982955008495178.jpeg/g4vQpZGI-S1ltbDfrVEEDHCneMXjiDWe8aSRVfGkkVU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60322654/%E7%89%B9%E6%9C%97%E6%99%AE%E7%9F%B3%E6%B2%B9%E5%B0%81%E9%8E%96%E8%87%B4%E5%8F%A4%E5%B7%B4%E7%87%83%E6%96%99%E7%9F%AD%E7%BC%BA-%E5%A4%8F%E7%81%A3%E6%8B%BF%E9%9B%AA%E8%8C%84%E7%AF%80-%E8%A2%AB%E8%BF%AB%E5%BB%B6%E6%9C%9F",
     "timestamp": "2026-02-15T09:37:45.298Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "名古屋景點10大推介　LEGO樂園/吉卜力公園/神宮寺廟　親子好去處",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260212/1098685560194600960640381.jpeg/aeKNmpvyLn4ZdSlQvjWLisUhhDvJnr7sga1pFYGtaRU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%97%85%E9%81%8A/60257839/%E5%90%8D%E5%8F%A4%E5%B1%8B%E6%99%AF%E9%BB%9E10%E5%A4%A7%E6%8E%A8%E4%BB%8B-lego%E6%A8%82%E5%9C%92-%E5%90%89%E5%8D%9C%E5%8A%9B%E5%85%AC%E5%9C%92-%E7%A5%9E%E5%AE%AE%E5%AF%BA%E5%BB%9F-%E8%A6%AA%E5%AD%90%E5%A5%BD%E5%8E%BB%E8%99%95",
-    "timestamp": "2026-02-15T09:19:23.515Z",
     "strategy": ".content-card__main"
   }
 ];
