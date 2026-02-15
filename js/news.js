@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-15T20:13:56.598Z
+// Last updated: 2026-02-15T20:31:15.292Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "特朗普：和平委員會將資助加沙逾50億美元　用於重建及人道援助",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20251223/1080079021951160320215376.jpeg/If9ngZJJed6Jq6ZTaCc8n7uDPhKa8yiaHkZsdh5GbHY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60322741/%E7%89%B9%E6%9C%97%E6%99%AE-%E5%92%8C%E5%B9%B3%E5%A7%94%E5%93%A1%E6%9C%83%E5%B0%87%E8%B3%87%E5%8A%A9%E5%8A%A0%E6%B2%99%E9%80%BE50%E5%84%84%E7%BE%8E%E5%85%83-%E7%94%A8%E6%96%BC%E9%87%8D%E5%BB%BA%E5%8F%8A%E4%BA%BA%E9%81%93%E6%8F%B4%E5%8A%A9",
+    "timestamp": "2026-02-15T20:31:15.292Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "特朗普：和平委員會將資助加沙逾50億美元　用於重建及人道援助",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20231113/800771623073353728965720.jpeg/aoUVXZnQsKibYSiUHHyT66T-fFX2wJDnZBG_PmQRvz4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60322722/%E6%BE%B3%E6%B4%B2%E6%89%BF%E8%AB%BE%E6%92%A5%E6%AC%BE%E7%B4%84216%E5%84%84%E5%85%83-%E6%8E%A8%E9%80%B2%E6%A0%B8%E6%BD%9B%E8%89%87%E8%88%B9%E5%BB%A0%E5%BB%BA%E8%A8%AD",
     "timestamp": "2026-02-15T15:00:23.804Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "葵涌邨夏葵樓全幢停電　大批住戶摸黑落樓　有長者呼吸機無電",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260215/1099831324044169216785264.jpeg/vGUqFa1-A7xAzHnQTNjkz1FF7fUAlwc4FVxnLxVcZy8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60322719/%E8%91%B5%E6%B6%8C%E9%82%A8%E5%A4%8F%E8%91%B5%E6%A8%93%E5%85%A8%E5%B9%A2%E5%81%9C%E9%9B%BB-%E5%A4%A7%E6%89%B9%E4%BD%8F%E6%88%B6%E6%91%B8%E9%BB%91%E8%90%BD%E6%A8%93-%E6%9C%89%E9%95%B7%E8%80%85%E5%91%BC%E5%90%B8%E6%A9%9F%E7%84%A1%E9%9B%BB",
-    "timestamp": "2026-02-15T14:36:58.126Z",
     "strategy": ".content-card__main"
   }
 ];
