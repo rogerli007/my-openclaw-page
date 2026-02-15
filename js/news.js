@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-15T10:51:11.616Z
+// Last updated: 2026-02-15T11:13:51.357Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "保安局擬推性罪行修例建議公眾諮詢　婦團倡訂明無反抗不構成同意",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260215/1099758777931927552829614.jpeg/hvQ6KVk4VX9_O5_H1KUpkJd9I8x9W_o70633ZtOt92Y?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60322668/%E4%BF%9D%E5%AE%89%E5%B1%80%E6%93%AC%E6%8E%A8%E6%80%A7%E7%BD%AA%E8%A1%8C%E4%BF%AE%E4%BE%8B%E5%BB%BA%E8%AD%B0%E5%85%AC%E7%9C%BE%E8%AB%AE%E8%A9%A2-%E5%A9%A6%E5%9C%98%E5%80%A1%E8%A8%82%E6%98%8E%E7%84%A1%E5%8F%8D%E6%8A%97%E4%B8%8D%E6%A7%8B%E6%88%90%E5%90%8C%E6%84%8F",
+    "timestamp": "2026-02-15T11:13:51.357Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "天文台今錄26.9度　平2010年最高溫年廿八紀錄　料明27度最暖除夕",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260215/1099644881569058816684092.jpeg/4yzzC1bajg68fSspKtCwczpQC57oBlzr3JAyHtyQMh4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60322569/%E6%BE%A4%E9%80%A3%E6%96%AF%E5%9F%BA-%E7%B0%BD%E5%92%8C%E5%B9%B3%E5%8D%94%E8%AD%B0%E6%9C%89%E5%85%A9%E6%A2%9D%E4%BB%B6-%E5%8A%A0%E5%85%A5%E6%AD%90%E7%9B%9F%E6%97%A5%E6%9C%9F-%E9%80%BE20%E5%B9%B4%E7%BE%8E%E5%9C%8B%E5%AE%89%E4%BF%9D",
     "timestamp": "2026-02-15T02:24:45.270Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "商場MMA！2女打鬥M記食物當武器　汽水砸頭灑滿地　大叔1舉動獲讚",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260215/1099539412959629312568172.png/gSF4UCPngMm9FjpA5aGo9D3Ex3Dwt3J7Fc88NxXPPDc",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60322474/%E5%95%86%E5%A0%B4mma-2%E5%A5%B3%E6%89%93%E9%AC%A5m%E8%A8%98%E9%A3%9F%E7%89%A9%E7%95%B6%E6%AD%A6%E5%99%A8-%E6%B1%BD%E6%B0%B4%E7%A0%B8%E9%A0%AD%E7%81%91%E6%BB%BF%E5%9C%B0-%E5%A4%A7%E5%8F%941%E8%88%89%E5%8B%95%E7%8D%B2%E8%AE%9A",
-    "timestamp": "2026-02-15T01:22:42.988Z",
     "strategy": ".content-card__main"
   }
 ];
