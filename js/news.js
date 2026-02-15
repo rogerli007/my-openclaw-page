@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-15T16:31:52.891Z
+// Last updated: 2026-02-15T16:52:03.529Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "夏葵樓機房故障致760戶停電　住客開電筒食糖水：好難忘嘅團年飯",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260216/1099859103951360000417039.jpeg/fJbHk8rEfNkK3I6KOk6iGACHKZUQe7Cny_3rzu79684?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60322726/%E5%A4%8F%E8%91%B5%E6%A8%93%E6%A9%9F%E6%88%BF%E6%95%85%E9%9A%9C%E8%87%B4760%E6%88%B6%E5%81%9C%E9%9B%BB-%E4%BD%8F%E5%AE%A2%E9%96%8B%E9%9B%BB%E7%AD%92%E9%A3%9F%E7%B3%96%E6%B0%B4-%E5%A5%BD%E9%9B%A3%E5%BF%98%E5%98%85%E5%9C%98%E5%B9%B4%E9%A3%AF",
+    "timestamp": "2026-02-15T16:52:03.529Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "夏葵樓機房故障致760戶停電　住客開電筒食糖水：好難忘嘅團年飯",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260210/1098041498001739776219754.jpeg/x71k1S2HtZDAcKzs1VhJh8ff77ECnhJ7fy9fQ2UvX0M?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60322670/%E5%A4%A9%E6%96%87%E5%8F%B0%E4%BB%8A%E9%8C%8426-9%E5%BA%A6-%E5%B9%B32010%E5%B9%B4%E6%9C%80%E9%AB%98%E6%BA%AB%E5%B9%B4%E5%BB%BF%E5%85%AB%E7%B4%80%E9%8C%84-%E6%96%99%E6%98%8E27%E5%BA%A6%E6%9C%80%E6%9A%96%E9%99%A4%E5%A4%95",
     "timestamp": "2026-02-15T10:51:11.616Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "洪天明玩007入子彈竟首名出局　談洪金寶入圍金像獎：新人攞更好",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260215/1099756455650660352794680.jpeg/ar6ZJ3Y169sbAQBD-LzmRfNsCd7ucSsIz28EwM9vBMA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60322663/%E6%B4%AA%E5%A4%A9%E6%98%8E%E7%8E%A9007%E5%85%A5%E5%AD%90%E5%BD%88%E7%AB%9F%E9%A6%96%E5%90%8D%E5%87%BA%E5%B1%80-%E8%AB%87%E6%B4%AA%E9%87%91%E5%AF%B6%E5%85%A5%E5%9C%8D%E9%87%91%E5%83%8F%E7%8D%8E-%E6%96%B0%E4%BA%BA%E6%94%9E%E6%9B%B4%E5%A5%BD",
-    "timestamp": "2026-02-15T10:32:14.610Z",
     "strategy": ".content-card__main"
   }
 ];
