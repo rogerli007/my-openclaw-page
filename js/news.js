@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-15T05:47:05.818Z
+// Last updated: 2026-02-15T06:12:57.309Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "馬年玲玲開運所｜麥玲玲師傅爆廖慧儀三重犯太歲：太多爛桃花",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260206/1096571044182888448192650.jpeg/6cgKTOpV9GtgkeH5TCFkqcgCZrg9_C-XHdy6Oifcujo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60320113/%E9%A6%AC%E5%B9%B4%E7%8E%B2%E7%8E%B2%E9%96%8B%E9%81%8B%E6%89%80-%E9%BA%A5%E7%8E%B2%E7%8E%B2%E5%B8%AB%E5%82%85%E7%88%86%E5%BB%96%E6%85%A7%E5%84%80%E4%B8%89%E9%87%8D%E7%8A%AF%E5%A4%AA%E6%AD%B2-%E5%A4%AA%E5%A4%9A%E7%88%9B%E6%A1%83%E8%8A%B1",
+    "timestamp": "2026-02-15T06:12:57.309Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "劉德華太太朱麗蒨被揭私人飛機奇葩事　空姐接觸兩個月爆真實人品",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260215/1099555226710446080714659.jpeg/6egrIdPwdreEeJqEopECPUmzsoqv_WByC8LdEwvC3RM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60322552/%E8%8B%B1%E8%B6%B3%E7%B8%BD%E7%9B%83-%E7%B4%90%E5%8D%A1%E7%B4%A03-1%E5%8F%8D%E5%8B%9D10%E4%BA%BA%E7%B6%AD%E6%8B%89-%E6%9D%B1%E6%8B%BF%E5%88%A9%E6%A2%85%E9%96%8B%E4%BA%8C%E5%BA%A6",
     "timestamp": "2026-02-14T21:14:41.367Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "英足總盃｜紐卡素3：1反勝10人維拉　東拿利梅開二度",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260215/1099555226710446080714659.jpeg/6egrIdPwdreEeJqEopECPUmzsoqv_WByC8LdEwvC3RM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60322552/%E8%8B%B1%E8%B6%B3%E7%B8%BD%E7%9B%83-%E7%B4%90%E5%8D%A1%E7%B4%A03-1%E5%8F%8D%E5%8B%9D10%E4%BA%BA%E7%B6%AD%E6%8B%89-%E6%9D%B1%E6%8B%BF%E5%88%A9%E6%A2%85%E9%96%8B%E4%BA%8C%E5%BA%A6",
-    "timestamp": "2026-02-14T21:00:23.076Z",
     "strategy": ".content-card__main"
   }
 ];
