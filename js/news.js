@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-15T14:03:06.948Z
+// Last updated: 2026-02-15T14:19:29.759Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "長實馬年推4新盤涉逾1800伙　郭子威料全年樓價升幅達10%",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260215/1099828701576564736830149.jpeg/66-A124S90dxlxuO0zOdGo82F9YWpJXx_-4s9f_uLPU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60322716/%E9%95%B7%E5%AF%A6%E9%A6%AC%E5%B9%B4%E6%8E%A84%E6%96%B0%E7%9B%A4%E6%B6%89%E9%80%BE1800%E4%BC%99-%E9%83%AD%E5%AD%90%E5%A8%81%E6%96%99%E5%85%A8%E5%B9%B4%E6%A8%93%E5%83%B9%E5%8D%87%E5%B9%85%E9%81%9410",
+    "timestamp": "2026-02-15T14:19:29.759Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "江蘇煙花爆竹經營部爆燃　村民燃放不當釀8死　責任人被控制",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250909/1042132499171381248926014.jpeg/1Yy2mYbM99Shk_PxWEgfjHJaIuFnYc6Dzs7mdM7O5nQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E4%B8%AD%E5%9C%8B%E8%A7%80%E5%AF%9F/60322633/%E4%B8%AD%E5%9C%8B-%E7%94%A2%E8%83%BD%E9%81%8E%E5%89%A9-%E8%A3%9C%E8%B2%BC%E6%98%AF%E5%8E%9F%E7%BD%AA-%E9%BB%9E%E7%B6%93",
     "timestamp": "2026-02-15T07:53:47.083Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "59歲男星突發心肌梗塞險死　昏倒後完全斷片　曝好友助力救命關鍵",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260214/1099346111295918080823651.png/_88DYNlymsuHL0fCRAWeegndDJAmgP7qb8dvrW_Hb60?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60322415/%E9%87%91%E6%B0%B4%E9%BE%8D%E7%AA%81%E7%99%BC%E5%BF%83%E8%82%8C%E6%A2%97%E5%A1%9E%E9%9A%AA%E6%AD%BB-%E6%98%8F%E5%80%92%E5%BE%8C%E5%AE%8C%E5%85%A8%E6%96%B7%E7%89%87-%E6%9B%9D%E5%A5%BD%E5%8F%8B%E5%8A%A9%E5%8A%9B%E6%95%91%E5%91%BD%E9%97%9C%E9%8D%B5",
-    "timestamp": "2026-02-15T07:35:01.235Z",
     "strategy": ".content-card__main"
   }
 ];
