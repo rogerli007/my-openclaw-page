@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-15T06:12:57.309Z
+// Last updated: 2026-02-15T06:37:53.056Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "《名媛望族》終極Re-U掀集體回憶　獨欠前清格格網民慨歎美中不足",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260215/1099691290649432064810465.jpeg/kst2LnuzTZQFr_VWjHeV7NjBDjAngC1d76ruRu-q7kY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60322596/%E5%90%8D%E5%AA%9B%E6%9C%9B%E6%97%8F-%E7%B5%82%E6%A5%B5re-u%E6%8E%80%E9%9B%86%E9%AB%94%E5%9B%9E%E6%86%B6-%E7%8D%A8%E6%AC%A0%E5%89%8D%E6%B8%85%E6%A0%BC%E6%A0%BC%E7%B6%B2%E6%B0%91%E6%85%A8%E6%AD%8E%E7%BE%8E%E4%B8%AD%E4%B8%8D%E8%B6%B3",
+    "timestamp": "2026-02-15T06:37:53.056Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "馬年玲玲開運所｜麥玲玲師傅爆廖慧儀三重犯太歲：太多爛桃花",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260215/1099555226710446080714659.jpeg/6egrIdPwdreEeJqEopECPUmzsoqv_WByC8LdEwvC3RM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60322552/%E8%8B%B1%E8%B6%B3%E7%B8%BD%E7%9B%83-%E7%B4%90%E5%8D%A1%E7%B4%A03-1%E5%8F%8D%E5%8B%9D10%E4%BA%BA%E7%B6%AD%E6%8B%89-%E6%9D%B1%E6%8B%BF%E5%88%A9%E6%A2%85%E9%96%8B%E4%BA%8C%E5%BA%A6",
     "timestamp": "2026-02-14T21:30:46.300Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "英足總盃｜紐卡素3：1反勝10人維拉　東拿利梅開二度",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260215/1099555226710446080714659.jpeg/6egrIdPwdreEeJqEopECPUmzsoqv_WByC8LdEwvC3RM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60322552/%E8%8B%B1%E8%B6%B3%E7%B8%BD%E7%9B%83-%E7%B4%90%E5%8D%A1%E7%B4%A03-1%E5%8F%8D%E5%8B%9D10%E4%BA%BA%E7%B6%AD%E6%8B%89-%E6%9D%B1%E6%8B%BF%E5%88%A9%E6%A2%85%E9%96%8B%E4%BA%8C%E5%BA%A6",
-    "timestamp": "2026-02-14T21:14:41.367Z",
     "strategy": ".content-card__main"
   }
 ];
