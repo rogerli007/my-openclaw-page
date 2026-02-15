@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-15T21:59:32.286Z
+// Last updated: 2026-02-15T22:13:24.247Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "北上人氣女星被指捱到殘目光呆滯　音樂人好友離世現嘔吐呼吸困難",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260215/1099816045503320064365498.jpeg/IXNHQZj6skYgfSJk7v08_jzV-Ws9YpNfJPEEgiTxBII?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60322664/%E8%96%9B%E5%87%B1%E7%90%AA%E8%A2%AB%E6%8C%87%E6%8D%B1%E5%88%B0%E6%AE%98%E7%9B%AE%E5%85%89%E5%91%86%E6%BB%AF-%E9%9F%B3%E6%A8%82%E4%BA%BA%E5%A5%BD%E5%8F%8B%E9%9B%A2%E4%B8%96%E5%87%BA%E7%8F%BE%E5%98%94%E5%90%90%E5%91%BC%E5%90%B8%E5%9B%B0%E9%9B%A3",
+    "timestamp": "2026-02-15T22:13:24.247Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "伊朗外長啟程赴瑞士與美方會談　內塔尼亞胡促徹底拆除伊朗核設施",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260216/1099859103951360000417039.jpeg/fJbHk8rEfNkK3I6KOk6iGACHKZUQe7Cny_3rzu79684?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60322726/%E5%A4%8F%E8%91%B5%E6%A8%93%E6%A9%9F%E6%88%BF%E6%95%85%E9%9A%9C%E8%87%B4760%E6%88%B6%E5%81%9C%E9%9B%BB-%E4%BD%8F%E5%AE%A2%E9%96%8B%E9%9B%BB%E7%AD%92%E9%A3%9F%E7%B3%96%E6%B0%B4-%E5%A5%BD%E9%9B%A3%E5%BF%98%E5%98%85%E5%9C%98%E5%B9%B4%E9%A3%AF",
     "timestamp": "2026-02-15T16:52:03.529Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "夏葵樓機房故障致760戶停電　住客開電筒食糖水：好難忘嘅團年飯",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260216/1099859103951360000417039.jpeg/fJbHk8rEfNkK3I6KOk6iGACHKZUQe7Cny_3rzu79684?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60322726/%E5%A4%8F%E8%91%B5%E6%A8%93%E6%A9%9F%E6%88%BF%E6%95%85%E9%9A%9C%E8%87%B4760%E6%88%B6%E5%81%9C%E9%9B%BB-%E4%BD%8F%E5%AE%A2%E9%96%8B%E9%9B%BB%E7%AD%92%E9%A3%9F%E7%B3%96%E6%B0%B4-%E5%A5%BD%E9%9B%A3%E5%BF%98%E5%98%85%E5%9C%98%E5%B9%B4%E9%A3%AF",
-    "timestamp": "2026-02-15T16:31:52.891Z",
     "strategy": ".content-card__main"
   }
 ];
