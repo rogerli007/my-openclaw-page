@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-15T18:38:20.384Z
+// Last updated: 2026-02-15T19:03:29.404Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "英足總盃｜阿仙奴4：0勝韋根　輕鬆晉級第5輪",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260216/1099892065581797376632814.jpeg/Fxc7euXpCH2dkVwmFF7U4X1iBQrqQ8ydHGUEkxxlBJM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60322737/%E8%8B%B1%E8%B6%B3%E7%B8%BD%E7%9B%83-%E9%98%BF%E4%BB%99%E5%A5%B44-0%E5%8B%9D%E9%9F%8B%E6%A0%B9-%E8%BC%95%E9%AC%86%E6%99%89%E7%B4%9A%E7%AC%AC5%E8%BC%AA",
+    "timestamp": "2026-02-15T19:03:29.404Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "歐盟官員：成員國未準備好向烏克蘭提供具體入盟日期",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260215/1099797644848402432182957.jpeg/dJjlO5Vbdie8amrtIQEpVGpVrt1dfBaoJKiEvCSohLw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60322695/%E5%8C%88%E7%89%99%E5%88%A9%E5%A4%A7%E9%81%B8%E5%89%8D-%E7%B8%BD%E7%90%86%E6%AD%90%E7%88%BE%E7%8F%AD-%E7%9C%9F%E6%AD%A3%E7%9A%84%E5%A8%81%E8%84%85%E4%B8%8D%E6%98%AF%E4%BF%84%E7%BE%85%E6%96%AF%E8%80%8C%E6%98%AF%E6%AD%90%E7%9B%9F",
     "timestamp": "2026-02-15T13:14:32.203Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "越秀公園萬盞彩燈迎客　真人NPC重現千年商都盛況｜趣Share大灣區",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260215/1099776186298404864231549.jpeg/ToIbbMMyR-YhHmrsPcDkbcdZ-ccvGcFxOHcVlQJ3FZU?v=w1920",
-    "url": "https://www.hk01.com/%E5%8C%97%E4%B8%8A%E5%BB%A3%E6%9D%B1/60322680/%E8%B6%8A%E7%A7%80%E5%85%AC%E5%9C%92%E8%90%AC%E7%9B%9E%E5%BD%A9%E7%87%88%E8%BF%8E%E5%AE%A2-%E7%9C%9F%E4%BA%BAnpc%E9%87%8D%E7%8F%BE%E5%8D%83%E5%B9%B4%E5%95%86%E9%83%BD%E7%9B%9B%E6%B3%81-%E8%B6%A3share%E5%A4%A7%E7%81%A3%E5%8D%80",
-    "timestamp": "2026-02-15T12:39:44.755Z",
     "strategy": ".content-card__main"
   }
 ];
