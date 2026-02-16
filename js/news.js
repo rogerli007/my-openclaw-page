@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-16T21:17:44.903Z
+// Last updated: 2026-02-16T21:34:46.014Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "冬奧︱谷愛凌大跳台決賽奪銀　今屆個人第二面銀牌",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260217/1100292449265258496876045.jpeg/ZS0Ahn96FS6iC-zTyhiRX_rh3_qRr-YY0CS699Akuvc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60322990/%E5%86%AC%E5%A5%A7-%E8%B0%B7%E6%84%9B%E5%87%8C%E5%A4%A7%E8%B7%B3%E5%8F%B0%E6%B1%BA%E8%B3%BD%E5%A5%AA%E9%8A%80-%E4%BB%8A%E5%B1%86%E5%80%8B%E4%BA%BA%E7%AC%AC%E4%BA%8C%E9%9D%A2%E9%8A%80%E7%89%8C",
+    "timestamp": "2026-02-16T21:34:46.014Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "年廿九晚粉嶺住宅遭爆竊　 失近30萬元財物",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260216/1100178045261582336097652.jpeg/ELFBs48GPlmX9YIy4EB8Do3sHYICFgEVajzhZWo84WU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60322964/%E9%99%A4%E5%A4%95-%E5%85%A9%E9%A4%B8%E9%A3%AF%E5%BA%97%E6%AC%8A%E7%99%BC%E5%B0%8F%E5%BB%9A%E5%A4%9A%E5%BA%97%E6%8E%92%E9%95%B7%E9%BE%8D-%E8%80%81%E9%97%86%E5%A8%98-%E5%A4%9A%E4%BA%BA%E8%B2%B7%E6%B7%A8%E9%A4%B8%E5%9B%9E%E5%AE%B6%E5%9C%98%E5%B9%B4",
     "timestamp": "2026-02-16T13:38:33.507Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "陽光女子合唱團｜台灣票房收5.45億　破《海角七號》18年冠軍紀錄",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260216/1100122756248244224340529.jpeg/luRETOsHi_Hb5-5Gt3QwbO2C4C1yGSsXsQ9q6LEPaug?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60322931/%E9%99%BD%E5%85%89%E5%A5%B3%E5%AD%90%E5%90%88%E5%94%B1%E5%9C%98-%E5%8F%B0%E7%81%A3%E7%A5%A8%E6%88%BF%E6%94%B65-45%E5%84%84-%E7%A0%B4-%E6%B5%B7%E8%A7%92%E4%B8%83%E8%99%9F-18%E5%B9%B4%E5%86%A0%E8%BB%8D%E7%B4%80%E9%8C%84",
-    "timestamp": "2026-02-16T12:54:52.471Z",
     "strategy": ".content-card__main"
   }
 ];
