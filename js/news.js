@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-16T12:54:52.471Z
+// Last updated: 2026-02-16T13:38:33.507Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "除夕｜兩餸飯店權發小廚多店排長龍　老闆娘︰多人買淨餸回家團年",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260216/1100178045261582336097652.jpeg/ELFBs48GPlmX9YIy4EB8Do3sHYICFgEVajzhZWo84WU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60322964/%E9%99%A4%E5%A4%95-%E5%85%A9%E9%A4%B8%E9%A3%AF%E5%BA%97%E6%AC%8A%E7%99%BC%E5%B0%8F%E5%BB%9A%E5%A4%9A%E5%BA%97%E6%8E%92%E9%95%B7%E9%BE%8D-%E8%80%81%E9%97%86%E5%A8%98-%E5%A4%9A%E4%BA%BA%E8%B2%B7%E6%B7%A8%E9%A4%B8%E5%9B%9E%E5%AE%B6%E5%9C%98%E5%B9%B4",
+    "timestamp": "2026-02-16T13:38:33.507Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "陽光女子合唱團｜台灣票房收5.45億　破《海角七號》18年冠軍紀錄",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260213/1098780245252640768047361.jpeg/2rhz42oc1eVLNdVhtEAE_U83o2-7PyCbknSAQZJ0gEE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60322776/%E7%BE%8E%E5%9C%8Bice%E6%98%8E%E5%B0%BC%E8%98%87%E9%81%94%E5%B7%9E%E8%A1%8C%E5%8B%95%E6%83%B9%E5%B7%A8%E5%A4%A7%E7%88%AD%E8%AD%B0%E5%BE%8C-%E5%AE%98%E5%93%A1%E6%8C%87%E5%B7%B2%E6%92%A4%E9%9B%A2%E9%80%BE%E5%8D%83%E5%9F%B7%E6%B3%95%E4%BA%BA%E5%93%A1",
     "timestamp": "2026-02-16T02:45:18.188Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "良少@JFFT成007入子彈大賽冠軍　讚女友明白事理冇嬲佢同阿蛋拍MV",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260216/1099915442220175360374268.jpeg/oVENGFHAVrPoT9C1vKEQ9KYhnNf9BRwN-FrJLPhaySw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60322674/%E8%89%AF%E5%B0%91-jfft%E6%88%90007%E5%85%A5%E5%AD%90%E5%BD%88%E5%A4%A7%E8%B3%BD%E5%86%A0%E8%BB%8D-%E8%AE%9A%E5%A5%B3%E5%8F%8B%E6%98%8E%E7%99%BD%E4%BA%8B%E7%90%86%E5%86%87%E5%AC%B2%E4%BD%A2%E5%90%8C%E9%98%BF%E8%9B%8B%E6%8B%8Dmv",
-    "timestamp": "2026-02-16T01:44:53.961Z",
     "strategy": ".content-card__main"
   }
 ];
