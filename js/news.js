@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-16T02:45:18.188Z
+// Last updated: 2026-02-16T03:46:21.241Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "消委會．香水｜Marks&Spencer售$129獲5星　媲美CHANEL、PRADA",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260216/1100026145014812672518623.jpeg/VfvFdODFEZhYNldFb6k9musJw70BLtojZOSDd0Hkg3c?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60322781/%E6%B6%88%E5%A7%94%E6%9C%83-%E9%A6%99%E6%B0%B4-marks-spencer%E5%94%AE-129%E7%8D%B25%E6%98%9F-%E5%AA%B2%E7%BE%8Echanel-prada",
+    "timestamp": "2026-02-16T03:46:21.241Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美國ICE明尼蘇達州行動惹巨大爭議後　官員指已撤離逾千執法人員",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20251223/1080079021951160320215376.jpeg/If9ngZJJed6Jq6ZTaCc8n7uDPhKa8yiaHkZsdh5GbHY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60322741/%E7%89%B9%E6%9C%97%E6%99%AE-%E5%92%8C%E5%B9%B3%E5%A7%94%E5%93%A1%E6%9C%83%E5%B0%87%E8%B3%87%E5%8A%A9%E5%8A%A0%E6%B2%99%E9%80%BE50%E5%84%84%E7%BE%8E%E5%85%83-%E7%94%A8%E6%96%BC%E9%87%8D%E5%BB%BA%E5%8F%8A%E4%BA%BA%E9%81%93%E6%8F%B4%E5%8A%A9",
     "timestamp": "2026-02-15T20:13:56.598Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普：和平委員會將資助加沙逾50億美元　用於重建及人道援助",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20251223/1080079021951160320215376.jpeg/If9ngZJJed6Jq6ZTaCc8n7uDPhKa8yiaHkZsdh5GbHY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60322741/%E7%89%B9%E6%9C%97%E6%99%AE-%E5%92%8C%E5%B9%B3%E5%A7%94%E5%93%A1%E6%9C%83%E5%B0%87%E8%B3%87%E5%8A%A9%E5%8A%A0%E6%B2%99%E9%80%BE50%E5%84%84%E7%BE%8E%E5%85%83-%E7%94%A8%E6%96%BC%E9%87%8D%E5%BB%BA%E5%8F%8A%E4%BA%BA%E9%81%93%E6%8F%B4%E5%8A%A9",
-    "timestamp": "2026-02-15T19:56:39.206Z",
     "strategy": ".content-card__main"
   }
 ];
