@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-16T10:12:19.055Z
+// Last updated: 2026-02-16T10:38:25.464Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "烏克蘭問題談判明舉行　俄羅斯：將討論領土與能源問題",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250516/1000138495785701376403698.jpeg/HT889hINOmV6hjIauGCwd_blIxpeqKlWJtDeOSbQ3jk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60322948/%E7%83%8F%E5%85%8B%E8%98%AD%E5%95%8F%E9%A1%8C%E8%AB%87%E5%88%A4%E6%98%8E%E8%88%89%E8%A1%8C-%E4%BF%84%E7%BE%85%E6%96%AF-%E5%B0%87%E8%A8%8E%E8%AB%96%E9%A0%98%E5%9C%9F%E8%88%87%E8%83%BD%E6%BA%90%E5%95%8F%E9%A1%8C",
+    "timestamp": "2026-02-16T10:38:25.464Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "年宵2026｜16大花市市場開放時間/地點+維園啟德旺角花市交通安排",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260215/1099834571228188672697852.jpeg/JlTX3p9c3vorLFNXtJlG3wwZj9MZLtMf52CUn-dglJ8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60318733/%E8%BE%B2%E6%9B%86%E6%96%B0%E5%B9%B4-%E7%9B%86%E8%8F%9C%E5%8A%A0%E5%83%B9%E7%84%A1%E5%BD%B1%E9%9F%BF%E9%8A%B7%E6%83%85-%E9%A4%90%E9%A3%B2%E6%A5%AD%E7%95%8C%E6%86%82%E6%90%B6%E5%8E%BB%E9%85%92%E6%A8%93%E9%BB%83%E9%87%91%E6%AA%94%E6%9C%9F%E7%94%9F%E6%84%8F",
     "timestamp": "2026-02-15T23:17:26.013Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "歐洲5國指納瓦利尼遭俄毒殺　魯比奧：沒理由質疑報告",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260216/1099890004957597696670413.jpeg/UZyYNytqNd3uWpgrVw8bfDShfb5tUmmABlNrjAZTa4w?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60322736/%E6%AD%90%E6%B4%B25%E5%9C%8B%E6%8C%87%E7%B4%8D%E7%93%A6%E5%88%A9%E5%B0%BC%E9%81%AD%E4%BF%84%E6%AF%92%E6%AE%BA-%E9%AD%AF%E6%AF%94%E5%A5%A7-%E6%B2%92%E7%90%86%E7%94%B1%E8%B3%AA%E7%96%91%E5%A0%B1%E5%91%8A",
-    "timestamp": "2026-02-15T23:02:41.659Z",
     "strategy": ".content-card__main"
   }
 ];
