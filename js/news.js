@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-16T23:16:27.600Z
+// Last updated: 2026-02-16T23:33:30.792Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "兒孫滿堂變噩夢！公公派利是派到「眼神死」瘋傳　終下令咁做絕了",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260216/1100089240269623296017856.jpeg/bQLKCqfGmnBfS54EzaklpKkkG9XkF721eN3oM3jd6DM",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60322875/%E5%85%92%E5%AD%AB%E6%BB%BF%E5%A0%82%E8%AE%8A%E5%99%A9%E5%A4%A2-%E5%85%AC%E5%85%AC%E6%B4%BE%E5%88%A9%E6%98%AF%E6%B4%BE%E5%88%B0-%E7%9C%BC%E7%A5%9E%E6%AD%BB-%E7%98%8B%E5%82%B3-%E7%B5%82%E4%B8%8B%E4%BB%A4%E5%92%81%E5%81%9A%E7%B5%95%E4%BA%86",
+    "timestamp": "2026-02-16T23:33:30.792Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "兒孫滿堂變噩夢！公公派利是派到「眼神死」瘋傳　終下令咁做絕了",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260217/1100218819139342336021785.jpeg/wEDrIOEKILhUTM4nEcVMLPym2RZ7EePfjkIZCo5CGQo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60322977/60%E6%AD%B2%E5%A4%A9%E7%8E%8B%E4%B8%8A%E6%98%A5%E6%99%9A%E8%B7%B3%E8%B6%B34%E5%88%86%E9%90%98%E4%BB%8D-%E6%B0%A3%E9%83%BD%E5%94%94%E5%96%98-%E7%B6%B2%E6%B0%91%E6%BF%80%E8%AE%9A%E6%98%AF%E4%B8%8D%E8%80%81%E5%82%B3%E8%AA%AA",
     "timestamp": "2026-02-16T16:24:17.947Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "iPhone 17e 3月4日紐約發佈？Apple平價機皇傳聞規格＋定價全整合",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260216/1100211863968288768921038.jpeg/2E8OJ7SNS_-YccqyyicHtJ5RhapX0_VNqv_s5Kr_7OQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60322974/iphone-17e-3%E6%9C%884%E6%97%A5%E7%B4%90%E7%B4%84%E7%99%BC%E4%BD%88-apple%E5%B9%B3%E5%83%B9%E6%A9%9F%E7%9A%87%E5%82%B3%E8%81%9E%E8%A6%8F%E6%A0%BC-%E5%AE%9A%E5%83%B9%E5%85%A8%E6%95%B4%E5%90%88",
-    "timestamp": "2026-02-16T15:57:26.077Z",
     "strategy": ".content-card__main"
   }
 ];
