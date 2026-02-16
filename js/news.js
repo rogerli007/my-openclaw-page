@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-16T18:23:24.668Z
+// Last updated: 2026-02-16T18:52:59.595Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "與美核談判前夕　伊朗外長晤阿曼外長及IAEA總幹事",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260217/1100245552202780672831067.jpeg/1iEUJrlgj0x2870Ir22wQEB0G9oXud5HCjip5Qo4qeU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60322983/%E8%88%87%E7%BE%8E%E6%A0%B8%E8%AB%87%E5%88%A4%E5%89%8D%E5%A4%95-%E4%BC%8A%E6%9C%97%E5%A4%96%E9%95%B7%E6%99%A4%E9%98%BF%E6%9B%BC%E5%A4%96%E9%95%B7%E5%8F%8Aiaea%E7%B8%BD%E5%B9%B9%E4%BA%8B",
+    "timestamp": "2026-02-16T18:52:59.595Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "與美核談判前夕　伊朗外長晤阿曼外長及IAEA總幹事",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260116/1088742958087409664074835.jpeg/XXSrVV7BWjyUfEbXrJlNE3kRkNihlJ80c6QBQnOkAUI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60322924/%E4%B8%8A%E6%B0%B4%E9%BB%91%E5%B9%AB%E6%92%9E%E8%BB%8A%E5%82%B7%E4%BA%BA-21%E6%AD%B2%E7%94%B7%E5%BA%A7%E9%A7%95%E6%8D%B1%E6%92%9E%E6%92%BC%E6%AC%84%E8%B5%B7%E7%81%AB-%E7%BE%A4%E7%85%9E%E6%8C%81%E5%88%80%E8%BF%BD%E6%96%AC%E5%BE%8C%E9%80%83%E5%8E%BB",
     "timestamp": "2026-02-16T09:40:24.037Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "脂肪肝｜1類果汁比甜品更傷身易脂肪肝尿酸高！醫教2招減肝臟負擔",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260216/1100041903186907136197530.jpeg/3w3Fn3NoY944HfUh-AjGsedoiF4Ro9KiNldtADZXbQA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60309914/%E8%84%82%E8%82%AA%E8%82%9D-1%E9%A1%9E%E6%9E%9C%E6%B1%81%E6%AF%94%E7%94%9C%E5%93%81%E6%9B%B4%E5%82%B7%E8%BA%AB%E6%98%93%E8%84%82%E8%82%AA%E8%82%9D%E5%B0%BF%E9%85%B8%E9%AB%98-%E9%86%AB%E6%95%992%E6%8B%9B%E6%B8%9B%E8%82%9D%E8%87%9F%E8%B2%A0%E6%93%94",
-    "timestamp": "2026-02-16T09:10:10.470Z",
     "strategy": ".content-card__main"
   }
 ];
