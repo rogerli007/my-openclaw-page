@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-16T23:33:30.792Z
+// Last updated: 2026-02-16T23:50:32.347Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "瑞士稱美俄烏會談將閉門舉行　俄媒：俄烏可能雙邊接觸",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260205/1095958911174840320208354.jpeg/WxVMQi7GmXDfF0PYJw6xT138ZFACraklKvUeByr1Hgc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60322992/%E7%91%9E%E5%A3%AB%E7%A8%B1%E7%BE%8E%E4%BF%84%E7%83%8F%E6%9C%83%E8%AB%87%E5%B0%87%E9%96%89%E9%96%80%E8%88%89%E8%A1%8C-%E4%BF%84%E5%AA%92-%E4%BF%84%E7%83%8F%E5%8F%AF%E8%83%BD%E9%9B%99%E9%82%8A%E6%8E%A5%E8%A7%B8",
+    "timestamp": "2026-02-16T23:50:32.347Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "兒孫滿堂變噩夢！公公派利是派到「眼神死」瘋傳　終下令咁做絕了",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250807/1030250136002891776689524.jpeg/WOM_urkju1hJWsM_sHhHXMqBlNBJg67ORlMaZEZTGmQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60322960/%E9%83%AD%E7%BE%A8%E5%A6%AE%E5%9B%9E%E6%86%B6%E8%A2%AB%E6%8C%87-%E7%89%87%E5%A0%B4%E9%9A%A8%E8%99%95%E7%96%B4-%E8%87%B4%E6%8A%91%E9%AC%B1%E7%99%BC%E4%BD%9C-%E8%87%AA%E7%88%86%E8%80%81%E5%85%AC25%E5%B9%B4%E5%89%8D%E5%B7%B2%E7%9B%B8%E9%81%87",
     "timestamp": "2026-02-16T16:53:34.821Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "60歲天王上春晚跳足4分鐘仍「氣都唔喘」　網民激讚是不老傳說",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260217/1100218819139342336021785.jpeg/wEDrIOEKILhUTM4nEcVMLPym2RZ7EePfjkIZCo5CGQo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60322977/60%E6%AD%B2%E5%A4%A9%E7%8E%8B%E4%B8%8A%E6%98%A5%E6%99%9A%E8%B7%B3%E8%B6%B34%E5%88%86%E9%90%98%E4%BB%8D-%E6%B0%A3%E9%83%BD%E5%94%94%E5%96%98-%E7%B6%B2%E6%B0%91%E6%BF%80%E8%AE%9A%E6%98%AF%E4%B8%8D%E8%80%81%E5%82%B3%E8%AA%AA",
-    "timestamp": "2026-02-16T16:24:17.947Z",
     "strategy": ".content-card__main"
   }
 ];
