@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-16T15:08:11.513Z
+// Last updated: 2026-02-16T15:34:50.674Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "吳亞馨淡出娛樂圈絕跡社交平台2年　朋友Po相驚揭她「兒子已2歲」",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260213/1098962665671233536176908.jpeg/gshrGtGdpPIIOxTfKCv-U_-1Tl2z4QmjxV8gg8VfIIM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E5%A8%9B%E6%A8%82/60312274/%E5%90%B3%E4%BA%9E%E9%A6%A8%E6%B7%A1%E5%87%BA%E5%A8%9B%E6%A8%82%E5%9C%88%E7%B5%95%E8%B7%A1%E7%A4%BE%E4%BA%A4%E5%B9%B3%E5%8F%B02%E5%B9%B4-%E6%9C%8B%E5%8F%8Bpo%E7%9B%B8%E9%A9%9A%E6%8F%AD%E5%A5%B9-%E5%85%92%E5%AD%90%E5%B7%B22%E6%AD%B2",
+    "timestamp": "2026-02-16T15:34:50.674Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "吳業坤冼靖峰宣傳照變「無頭東宮」　網民怒斥：新一年改頭換面？",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260216/1100065348683567104194365.jpeg/Yd2yKnrUruti4OGQLQa3FFzngS7W7MqtWgbep1oG3qc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60322836/%E9%81%8A%E6%B8%AF%E6%9C%89%E9%A9%9A%E5%96%9C-%E5%85%A7%E5%9C%B0%E5%A5%B3%E8%B2%B7%E5%92%96%E5%95%A1%E7%8D%B2%E8%B4%881%E5%8F%A5%E8%A9%B1-%E6%BF%80%E8%AE%9A-%E5%8E%9F%E4%BE%86%E9%A6%99%E6%B8%AF%E4%BA%BA%E9%80%99%E9%BA%BC%E6%9A%96%E5%BF%83",
     "timestamp": "2026-02-16T06:02:08.308Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "收息股2026│盤點20隻高息股入場費股息率　有款派息產品高達10厘",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260216/1100056697172398080982710.jpeg/gJH1uoBkV_JHKeX8fLSS3_KHM_P_git_4sTTKuLE0yo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A0%94%E6%95%B8%E6%89%80/60319064/%E6%94%B6%E6%81%AF%E8%82%A12026-%E7%9B%A4%E9%BB%9E20%E9%9A%BB%E9%AB%98%E6%81%AF%E8%82%A1%E5%85%A5%E5%A0%B4%E8%B2%BB%E8%82%A1%E6%81%AF%E7%8E%87-%E6%9C%89%E6%AC%BE%E6%B4%BE%E6%81%AF%E7%94%A2%E5%93%81%E9%AB%98%E9%81%9410%E5%8E%98",
-    "timestamp": "2026-02-16T05:24:07.955Z",
     "strategy": ".content-card__main"
   }
 ];
