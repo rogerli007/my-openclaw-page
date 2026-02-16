@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-16T10:38:25.464Z
+// Last updated: 2026-02-16T11:10:35.214Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "一文看清｜佐丹奴要約　周大福代理人與證監和解五大要點",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260216/1100130518596325376405971.jpeg/HceSKW9UUQM4oTGoJsTcfrndeVbB3BDJ71Kkku9SpJI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60322940/%E4%B8%80%E6%96%87%E7%9C%8B%E6%B8%85-%E4%BD%90%E4%B8%B9%E5%A5%B4%E8%A6%81%E7%B4%84-%E5%91%A8%E5%A4%A7%E7%A6%8F%E4%BB%A3%E7%90%86%E4%BA%BA%E8%88%87%E8%AD%89%E7%9B%A3%E5%92%8C%E8%A7%A3%E4%BA%94%E5%A4%A7%E8%A6%81%E9%BB%9E",
+    "timestamp": "2026-02-16T11:10:35.214Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "烏克蘭問題談判明舉行　俄羅斯：將討論領土與能源問題",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260215/1099834571228188672697852.jpeg/JlTX3p9c3vorLFNXtJlG3wwZj9MZLtMf52CUn-dglJ8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60318733/%E8%BE%B2%E6%9B%86%E6%96%B0%E5%B9%B4-%E7%9B%86%E8%8F%9C%E5%8A%A0%E5%83%B9%E7%84%A1%E5%BD%B1%E9%9F%BF%E9%8A%B7%E6%83%85-%E9%A4%90%E9%A3%B2%E6%A5%AD%E7%95%8C%E6%86%82%E6%90%B6%E5%8E%BB%E9%85%92%E6%A8%93%E9%BB%83%E9%87%91%E6%AA%94%E6%9C%9F%E7%94%9F%E6%84%8F",
     "timestamp": "2026-02-15T23:34:05.285Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "農曆新年｜盆菜加價無影響銷情　餐飲業界憂搶去酒樓黃金檔期生意",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260215/1099834571228188672697852.jpeg/JlTX3p9c3vorLFNXtJlG3wwZj9MZLtMf52CUn-dglJ8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60318733/%E8%BE%B2%E6%9B%86%E6%96%B0%E5%B9%B4-%E7%9B%86%E8%8F%9C%E5%8A%A0%E5%83%B9%E7%84%A1%E5%BD%B1%E9%9F%BF%E9%8A%B7%E6%83%85-%E9%A4%90%E9%A3%B2%E6%A5%AD%E7%95%8C%E6%86%82%E6%90%B6%E5%8E%BB%E9%85%92%E6%A8%93%E9%BB%83%E9%87%91%E6%AA%94%E6%9C%9F%E7%94%9F%E6%84%8F",
-    "timestamp": "2026-02-15T23:17:26.013Z",
     "strategy": ".content-card__main"
   }
 ];
