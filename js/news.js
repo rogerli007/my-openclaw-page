@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-16T00:54:26.831Z
+// Last updated: 2026-02-16T01:44:53.961Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "良少@JFFT成007入子彈大賽冠軍　讚女友明白事理冇嬲佢同阿蛋拍MV",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260216/1099915442220175360374268.jpeg/oVENGFHAVrPoT9C1vKEQ9KYhnNf9BRwN-FrJLPhaySw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60322674/%E8%89%AF%E5%B0%91-jfft%E6%88%90007%E5%85%A5%E5%AD%90%E5%BD%88%E5%A4%A7%E8%B3%BD%E5%86%A0%E8%BB%8D-%E8%AE%9A%E5%A5%B3%E5%8F%8B%E6%98%8E%E7%99%BD%E4%BA%8B%E7%90%86%E5%86%87%E5%AC%B2%E4%BD%A2%E5%90%8C%E9%98%BF%E8%9B%8B%E6%8B%8Dmv",
+    "timestamp": "2026-02-16T01:44:53.961Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "澤連斯基：歐洲2.24前向烏克蘭提供新一輪能源及軍事援助方案",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260216/1099892065581797376632814.jpeg/Fxc7euXpCH2dkVwmFF7U4X1iBQrqQ8ydHGUEkxxlBJM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60322737/%E8%8B%B1%E8%B6%B3%E7%B8%BD%E7%9B%83-%E9%98%BF%E4%BB%99%E5%A5%B44-0%E5%8B%9D%E9%9F%8B%E6%A0%B9-%E8%BC%95%E9%AC%86%E6%99%89%E7%B4%9A%E7%AC%AC5%E8%BC%AA",
     "timestamp": "2026-02-15T19:36:24.599Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "英足總盃｜阿仙奴4：0勝韋根　輕鬆晉級第5輪",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260216/1099892065581797376632814.jpeg/Fxc7euXpCH2dkVwmFF7U4X1iBQrqQ8ydHGUEkxxlBJM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60322737/%E8%8B%B1%E8%B6%B3%E7%B8%BD%E7%9B%83-%E9%98%BF%E4%BB%99%E5%A5%B44-0%E5%8B%9D%E9%9F%8B%E6%A0%B9-%E8%BC%95%E9%AC%86%E6%99%89%E7%B4%9A%E7%AC%AC5%E8%BC%AA",
-    "timestamp": "2026-02-15T19:19:21.897Z",
     "strategy": ".content-card__main"
   }
 ];
