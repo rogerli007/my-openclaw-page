@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-16T16:24:17.947Z
+// Last updated: 2026-02-16T16:53:34.821Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "郭羨妮回憶被指「片場隨處疴」致抑鬱發作　自爆老公25年前已相遇",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250807/1030250136002891776689524.jpeg/WOM_urkju1hJWsM_sHhHXMqBlNBJg67ORlMaZEZTGmQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60322960/%E9%83%AD%E7%BE%A8%E5%A6%AE%E5%9B%9E%E6%86%B6%E8%A2%AB%E6%8C%87-%E7%89%87%E5%A0%B4%E9%9A%A8%E8%99%95%E7%96%B4-%E8%87%B4%E6%8A%91%E9%AC%B1%E7%99%BC%E4%BD%9C-%E8%87%AA%E7%88%86%E8%80%81%E5%85%AC25%E5%B9%B4%E5%89%8D%E5%B7%B2%E7%9B%B8%E9%81%87",
+    "timestamp": "2026-02-16T16:53:34.821Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "60歲天王上春晚跳足4分鐘仍「氣都唔喘」　網民激讚是不老傳說",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260115/1088532938275950592358426.png/yOuE4PQiBhZYcowe2Xg7iCo9t5yxqQpIYq-c1WKvnNU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60313125/%E6%B6%88%E5%A7%94%E6%9C%83%E8%97%8D%E7%89%99%E5%96%87%E5%8F%AD%E8%A9%95%E6%B8%AC2026-marshall%E7%BA%8C%E8%88%AA%E5%BC%B7-%E4%B8%89%E5%8D%83%E8%9A%8Ab-o%E4%B8%8D%E5%8F%8A%E5%B9%B3%E5%83%B9jbl",
     "timestamp": "2026-02-16T07:43:19.066Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "劉洋｜香港首個五年規劃（下）：在國際秩序變局中重塑法治的定位",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260216/1100079982543114240756092.jpeg/35N1IANez47kZAk5bRDpZcaVZnl_lQRj9f155vX9eeY?v=w1920r16_9",
-    "url": "https://www.hk01.com/01%E8%AB%96%E5%A3%87/60322861/%E5%8A%89%E6%B4%8B-%E9%A6%99%E6%B8%AF%E9%A6%96%E5%80%8B%E4%BA%94%E5%B9%B4%E8%A6%8F%E5%8A%83-%E4%B8%8B-%E5%9C%A8%E5%9C%8B%E9%9A%9B%E7%A7%A9%E5%BA%8F%E8%AE%8A%E5%B1%80%E4%B8%AD%E9%87%8D%E5%A1%91%E6%B3%95%E6%B2%BB%E7%9A%84%E5%AE%9A%E4%BD%8D",
-    "timestamp": "2026-02-16T07:15:08.714Z",
     "strategy": ".content-card__main"
   }
 ];
