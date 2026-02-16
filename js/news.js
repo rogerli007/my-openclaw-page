@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-16T17:24:15.817Z
+// Last updated: 2026-02-16T17:51:53.843Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "巴西東南部巴士翻側　至少6死45人傷",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20240805/897155846784421888265410.jpeg/QN9YVAVnd0kSnbvFsZTW1guoWP-Pb4y5UXjCklF4wpI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60322981/%E5%B7%B4%E8%A5%BF%E6%9D%B1%E5%8D%97%E9%83%A8%E5%B7%B4%E5%A3%AB%E7%BF%BB%E5%81%B4-%E8%87%B3%E5%B0%916%E6%AD%BB45%E4%BA%BA%E5%82%B7",
+    "timestamp": "2026-02-16T17:51:53.843Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "巴西東南部巴士翻側　至少6死45人傷",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260216/1100080883672551424139807.jpeg/bZRd5jDgEOloGrLZC2bOCvSYndddRZqYenZMhnp2TIY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60322858/%E4%B8%80%E9%A6%AC%E7%95%B6%E5%85%88%E8%A1%8C%E5%A4%A7%E9%81%8B-%E9%BA%A5%E7%8E%B2%E7%8E%B2%E6%89%B9%E6%B4%AA%E5%A4%A9%E6%98%8E-%E9%B1%B7%E9%AD%9A%E9%A0%AD%E8%80%81%E8%A5%AF%E5%BA%95-%E5%91%A8%E5%AE%B6%E8%94%9A%E6%97%BA%E5%A4%AB",
     "timestamp": "2026-02-16T08:35:16.226Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "除夕新年初一2026｜封路/交通5大安排:港鐵通宵行駛+巴士加強班次",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260216/1100082678352318464358429.jpeg/i7GPIXZbaDECTcavPz7Uka_Gn_YJuJ0KzIY1RsyGNUY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%A3%9F%E7%8E%A9%E8%B2%B7/60322829/%E9%99%A4%E5%A4%95%E6%96%B0%E5%B9%B4%E5%88%9D%E4%B8%802026-%E5%B0%81%E8%B7%AF-%E4%BA%A4%E9%80%9A5%E5%A4%A7%E5%AE%89%E6%8E%92-%E6%B8%AF%E9%90%B5%E9%80%9A%E5%AE%B5%E8%A1%8C%E9%A7%9B-%E5%B7%B4%E5%A3%AB%E5%8A%A0%E5%BC%B7%E7%8F%AD%E6%AC%A1",
-    "timestamp": "2026-02-16T08:07:14.119Z",
     "strategy": ".content-card__main"
   }
 ];
