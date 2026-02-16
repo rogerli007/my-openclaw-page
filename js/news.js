@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-16T13:38:33.507Z
+// Last updated: 2026-02-16T14:14:06.033Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美媒：美國防部威脅懲罰Anthropic　不滿限制AI軍事應用",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250905/1040648086034059264702516.jpeg/mMpbZdIjaIko6Gqc5wRefAwC0nMZOLzRvWkdlL1pHZQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60322965/%E7%BE%8E%E5%AA%92-%E7%BE%8E%E5%9C%8B%E9%98%B2%E9%83%A8%E5%A8%81%E8%84%85%E6%87%B2%E7%BD%B0anthropic-%E4%B8%8D%E6%BB%BF%E9%99%90%E5%88%B6ai%E8%BB%8D%E4%BA%8B%E6%87%89%E7%94%A8",
+    "timestamp": "2026-02-16T14:14:06.033Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "除夕｜兩餸飯店權發小廚多店排長龍　老闆娘︰多人買淨餸回家團年",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260216/1100026145014812672518623.jpeg/VfvFdODFEZhYNldFb6k9musJw70BLtojZOSDd0Hkg3c?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60322781/%E6%B6%88%E5%A7%94%E6%9C%83-%E9%A6%99%E6%B0%B4-marks-spencer%E5%94%AE-129%E7%8D%B25%E6%98%9F-%E5%AA%B2%E7%BE%8Echanel-prada",
     "timestamp": "2026-02-16T03:46:21.241Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美國ICE明尼蘇達州行動惹巨大爭議後　官員指已撤離逾千執法人員",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260213/1098780245252640768047361.jpeg/2rhz42oc1eVLNdVhtEAE_U83o2-7PyCbknSAQZJ0gEE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60322776/%E7%BE%8E%E5%9C%8Bice%E6%98%8E%E5%B0%BC%E8%98%87%E9%81%94%E5%B7%9E%E8%A1%8C%E5%8B%95%E6%83%B9%E5%B7%A8%E5%A4%A7%E7%88%AD%E8%AD%B0%E5%BE%8C-%E5%AE%98%E5%93%A1%E6%8C%87%E5%B7%B2%E6%92%A4%E9%9B%A2%E9%80%BE%E5%8D%83%E5%9F%B7%E6%B3%95%E4%BA%BA%E5%93%A1",
-    "timestamp": "2026-02-16T02:45:18.188Z",
     "strategy": ".content-card__main"
   }
 ];
