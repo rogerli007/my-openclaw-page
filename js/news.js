@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-16T22:32:23.217Z
+// Last updated: 2026-02-16T22:52:39.207Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "年初一天氣｜今日初時有微雨　氣溫稍降最高22度　明後日早上清涼",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260217/1100306364254916608645091.jpeg/YXGbl8juES57AhHoNTcySUVMT9mweMwpgx4Yy4MeGMs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60322980/%E5%B9%B4%E5%88%9D%E4%B8%80%E5%A4%A9%E6%B0%A3-%E4%BB%8A%E6%97%A5%E5%88%9D%E6%99%82%E6%9C%89%E5%BE%AE%E9%9B%A8-%E6%B0%A3%E6%BA%AB%E7%A8%8D%E9%99%8D%E6%9C%80%E9%AB%9822%E5%BA%A6-%E6%98%8E%E5%BE%8C%E6%97%A5%E6%97%A9%E4%B8%8A%E6%B8%85%E6%B6%BC",
+    "timestamp": "2026-02-16T22:52:39.207Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "年初一天氣｜今日初時有微雨　氣溫稍降最高22度　明後日早上清涼",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260213/1098962665671233536176908.jpeg/gshrGtGdpPIIOxTfKCv-U_-1Tl2z4QmjxV8gg8VfIIM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E5%A8%9B%E6%A8%82/60312274/%E5%90%B3%E4%BA%9E%E9%A6%A8%E6%B7%A1%E5%87%BA%E5%A8%9B%E6%A8%82%E5%9C%88%E7%B5%95%E8%B7%A1%E7%A4%BE%E4%BA%A4%E5%B9%B3%E5%8F%B02%E5%B9%B4-%E6%9C%8B%E5%8F%8Bpo%E7%9B%B8%E9%A9%9A%E6%8F%AD%E5%A5%B9-%E5%85%92%E5%AD%90%E5%B7%B22%E6%AD%B2",
     "timestamp": "2026-02-16T15:34:50.674Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "吳業坤冼靖峰宣傳照變「無頭東宮」　網民怒斥：新一年改頭換面？",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260216/1099916778265382912709385.png/FP7M3kYzArYsaSaf8dtntSPlYQ7iPZWCG7PN7Ruzze0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60322743/%E5%90%B3%E6%A5%AD%E5%9D%A4%E5%86%BC%E9%9D%96%E5%B3%B0%E5%AE%A3%E5%82%B3%E7%85%A7%E8%AE%8A-%E7%84%A1%E9%A0%AD%E6%9D%B1%E5%AE%AE-%E7%B6%B2%E6%B0%91%E6%80%92%E6%96%A5-%E6%96%B0%E4%B8%80%E5%B9%B4%E6%94%B9%E9%A0%AD%E6%8F%9B%E9%9D%A2",
-    "timestamp": "2026-02-16T15:08:11.513Z",
     "strategy": ".content-card__main"
   }
 ];
