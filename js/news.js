@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-16T18:52:59.595Z
+// Last updated: 2026-02-16T19:22:41.459Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "上水黑幫撞車傷人│反黑組介入調查　拘兩派共9人涉毆鬥及傷人等罪",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20230116/691764302884900864140537.jpeg/YesGd_Gx8eOetGU6GkjpX3hHBGSjYx0hPdEOzD3RDsw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60322986/%E4%B8%8A%E6%B0%B4%E9%BB%91%E5%B9%AB%E6%92%9E%E8%BB%8A%E5%82%B7%E4%BA%BA-%E5%8F%8D%E9%BB%91%E7%B5%84%E4%BB%8B%E5%85%A5%E8%AA%BF%E6%9F%A5-%E6%8B%98%E5%85%A9%E6%B4%BE%E5%85%B19%E4%BA%BA%E6%B6%89%E6%AF%86%E9%AC%A5%E5%8F%8A%E5%82%B7%E4%BA%BA%E7%AD%89%E7%BD%AA",
+    "timestamp": "2026-02-16T19:22:41.459Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "與美核談判前夕　伊朗外長晤阿曼外長及IAEA總幹事",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260213/1099016115293523968680743.png/6x6Ira5BJ26Ayz164qtTvWL-0zJr786rPQQIuj0ECLo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%A3%9F%E7%8E%A9%E8%B2%B7/60321963/%E5%B9%B4%E5%AE%B52026-16%E5%A4%A7%E8%8A%B1%E5%B8%82%E5%B8%82%E5%A0%B4%E9%96%8B%E6%94%BE%E6%99%82%E9%96%93-%E5%9C%B0%E9%BB%9E-%E7%B6%AD%E5%9C%92%E5%95%9F%E5%BE%B7%E6%97%BA%E8%A7%92%E8%8A%B1%E5%B8%82%E4%BA%A4%E9%80%9A%E5%AE%89%E6%8E%92",
     "timestamp": "2026-02-16T10:12:19.055Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "上水黑幫撞車傷人｜21歲男座駕捱撞撼欄起火　群煞持刀追斬後逃去",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260116/1088742958087409664074835.jpeg/XXSrVV7BWjyUfEbXrJlNE3kRkNihlJ80c6QBQnOkAUI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60322924/%E4%B8%8A%E6%B0%B4%E9%BB%91%E5%B9%AB%E6%92%9E%E8%BB%8A%E5%82%B7%E4%BA%BA-21%E6%AD%B2%E7%94%B7%E5%BA%A7%E9%A7%95%E6%8D%B1%E6%92%9E%E6%92%BC%E6%AC%84%E8%B5%B7%E7%81%AB-%E7%BE%A4%E7%85%9E%E6%8C%81%E5%88%80%E8%BF%BD%E6%96%AC%E5%BE%8C%E9%80%83%E5%8E%BB",
-    "timestamp": "2026-02-16T09:40:24.037Z",
     "strategy": ".content-card__main"
   }
 ];
