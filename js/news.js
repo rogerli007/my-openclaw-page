@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-16T15:57:26.077Z
+// Last updated: 2026-02-16T16:24:17.947Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "60歲天王上春晚跳足4分鐘仍「氣都唔喘」　網民激讚是不老傳說",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260217/1100218819139342336021785.jpeg/wEDrIOEKILhUTM4nEcVMLPym2RZ7EePfjkIZCo5CGQo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60322977/60%E6%AD%B2%E5%A4%A9%E7%8E%8B%E4%B8%8A%E6%98%A5%E6%99%9A%E8%B7%B3%E8%B6%B34%E5%88%86%E9%90%98%E4%BB%8D-%E6%B0%A3%E9%83%BD%E5%94%94%E5%96%98-%E7%B6%B2%E6%B0%91%E6%BF%80%E8%AE%9A%E6%98%AF%E4%B8%8D%E8%80%81%E5%82%B3%E8%AA%AA",
+    "timestamp": "2026-02-16T16:24:17.947Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "iPhone 17e 3月4日紐約發佈？Apple平價機皇傳聞規格＋定價全整合",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260216/1100079982543114240756092.jpeg/35N1IANez47kZAk5bRDpZcaVZnl_lQRj9f155vX9eeY?v=w1920r16_9",
     "url": "https://www.hk01.com/01%E8%AB%96%E5%A3%87/60322861/%E5%8A%89%E6%B4%8B-%E9%A6%99%E6%B8%AF%E9%A6%96%E5%80%8B%E4%BA%94%E5%B9%B4%E8%A6%8F%E5%8A%83-%E4%B8%8B-%E5%9C%A8%E5%9C%8B%E9%9A%9B%E7%A7%A9%E5%BA%8F%E8%AE%8A%E5%B1%80%E4%B8%AD%E9%87%8D%E5%A1%91%E6%B3%95%E6%B2%BB%E7%9A%84%E5%AE%9A%E4%BD%8D",
     "timestamp": "2026-02-16T07:15:08.714Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "伊朗據報願與美國達經濟互利協議　油田採礦與買飛機可納入核談判",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260216/1100075962361450496706392.jpeg/JpJl2riNKhvJUeeVD-tpXdkJU9cnIo2KiReB_IkXgfw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60322857/%E4%BC%8A%E6%9C%97%E6%93%9A%E5%A0%B1%E9%A1%98%E8%88%87%E7%BE%8E%E5%9C%8B%E9%81%94%E7%B6%93%E6%BF%9F%E4%BA%92%E5%88%A9%E5%8D%94%E8%AD%B0-%E6%B2%B9%E7%94%B0%E6%8E%A1%E7%A4%A6%E8%88%87%E8%B2%B7%E9%A3%9B%E6%A9%9F%E5%8F%AF%E7%B4%8D%E5%85%A5%E6%A0%B8%E8%AB%87%E5%88%A4",
-    "timestamp": "2026-02-16T06:40:14.953Z",
     "strategy": ".content-card__main"
   }
 ];
