@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-16T01:44:53.961Z
+// Last updated: 2026-02-16T02:45:18.188Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美國ICE明尼蘇達州行動惹巨大爭議後　官員指已撤離逾千執法人員",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260213/1098780245252640768047361.jpeg/2rhz42oc1eVLNdVhtEAE_U83o2-7PyCbknSAQZJ0gEE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60322776/%E7%BE%8E%E5%9C%8Bice%E6%98%8E%E5%B0%BC%E8%98%87%E9%81%94%E5%B7%9E%E8%A1%8C%E5%8B%95%E6%83%B9%E5%B7%A8%E5%A4%A7%E7%88%AD%E8%AD%B0%E5%BE%8C-%E5%AE%98%E5%93%A1%E6%8C%87%E5%B7%B2%E6%92%A4%E9%9B%A2%E9%80%BE%E5%8D%83%E5%9F%B7%E6%B3%95%E4%BA%BA%E5%93%A1",
+    "timestamp": "2026-02-16T02:45:18.188Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "良少@JFFT成007入子彈大賽冠軍　讚女友明白事理冇嬲佢同阿蛋拍MV",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20251223/1080079021951160320215376.jpeg/If9ngZJJed6Jq6ZTaCc8n7uDPhKa8yiaHkZsdh5GbHY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60322741/%E7%89%B9%E6%9C%97%E6%99%AE-%E5%92%8C%E5%B9%B3%E5%A7%94%E5%93%A1%E6%9C%83%E5%B0%87%E8%B3%87%E5%8A%A9%E5%8A%A0%E6%B2%99%E9%80%BE50%E5%84%84%E7%BE%8E%E5%85%83-%E7%94%A8%E6%96%BC%E9%87%8D%E5%BB%BA%E5%8F%8A%E4%BA%BA%E9%81%93%E6%8F%B4%E5%8A%A9",
     "timestamp": "2026-02-15T19:56:39.206Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "英足總盃｜阿仙奴4：0勝韋根　輕鬆晉級第5輪",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260216/1099892065581797376632814.jpeg/Fxc7euXpCH2dkVwmFF7U4X1iBQrqQ8ydHGUEkxxlBJM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60322737/%E8%8B%B1%E8%B6%B3%E7%B8%BD%E7%9B%83-%E9%98%BF%E4%BB%99%E5%A5%B44-0%E5%8B%9D%E9%9F%8B%E6%A0%B9-%E8%BC%95%E9%AC%86%E6%99%89%E7%B4%9A%E7%AC%AC5%E8%BC%AA",
-    "timestamp": "2026-02-15T19:36:24.599Z",
     "strategy": ".content-card__main"
   }
 ];
