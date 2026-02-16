@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-16T07:43:19.066Z
+// Last updated: 2026-02-16T08:07:14.119Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "除夕新年初一2026｜封路/交通5大安排:港鐵通宵行駛+巴士加強班次",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260216/1100082678352318464358429.jpeg/i7GPIXZbaDECTcavPz7Uka_Gn_YJuJ0KzIY1RsyGNUY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%A3%9F%E7%8E%A9%E8%B2%B7/60322829/%E9%99%A4%E5%A4%95%E6%96%B0%E5%B9%B4%E5%88%9D%E4%B8%802026-%E5%B0%81%E8%B7%AF-%E4%BA%A4%E9%80%9A5%E5%A4%A7%E5%AE%89%E6%8E%92-%E6%B8%AF%E9%90%B5%E9%80%9A%E5%AE%B5%E8%A1%8C%E9%A7%9B-%E5%B7%B4%E5%A3%AB%E5%8A%A0%E5%BC%B7%E7%8F%AD%E6%AC%A1",
+    "timestamp": "2026-02-16T08:07:14.119Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "消委會藍牙喇叭評測2026｜Marshall續航強 三千蚊B&O不及平價JBL",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260216/1099922580116082688472580.jpeg/io1pPSHLZ8XFwKAERB2S5_c0xLEypDYMfyAmXX8gJl0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60322745/%E4%BC%8A%E6%9C%97%E5%A4%96%E9%95%B7%E5%95%9F%E7%A8%8B%E8%B5%B4%E7%91%9E%E5%A3%AB%E8%88%87%E7%BE%8E%E6%96%B9%E6%9C%83%E8%AB%87-%E5%85%A7%E5%A1%94%E5%B0%BC%E4%BA%9E%E8%83%A1%E4%BF%83%E5%BE%B9%E5%BA%95%E6%8B%86%E9%99%A4%E4%BC%8A%E6%9C%97%E6%A0%B8%E8%A8%AD%E6%96%BD",
     "timestamp": "2026-02-15T21:59:32.286Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "伊朗外長啟程赴瑞士與美方會談　內塔尼亞胡促徹底拆除伊朗核設施",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260216/1099922580116082688472580.jpeg/io1pPSHLZ8XFwKAERB2S5_c0xLEypDYMfyAmXX8gJl0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60322745/%E4%BC%8A%E6%9C%97%E5%A4%96%E9%95%B7%E5%95%9F%E7%A8%8B%E8%B5%B4%E7%91%9E%E5%A3%AB%E8%88%87%E7%BE%8E%E6%96%B9%E6%9C%83%E8%AB%87-%E5%85%A7%E5%A1%94%E5%B0%BC%E4%BA%9E%E8%83%A1%E4%BF%83%E5%BE%B9%E5%BA%95%E6%8B%86%E9%99%A4%E4%BC%8A%E6%9C%97%E6%A0%B8%E8%A8%AD%E6%96%BD",
-    "timestamp": "2026-02-15T21:47:27.684Z",
     "strategy": ".content-card__main"
   }
 ];
