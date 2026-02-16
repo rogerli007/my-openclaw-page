@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-16T14:37:07.474Z
+// Last updated: 2026-02-16T15:08:11.513Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "吳業坤冼靖峰宣傳照變「無頭東宮」　網民怒斥：新一年改頭換面？",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260216/1099916778265382912709385.png/FP7M3kYzArYsaSaf8dtntSPlYQ7iPZWCG7PN7Ruzze0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60322743/%E5%90%B3%E6%A5%AD%E5%9D%A4%E5%86%BC%E9%9D%96%E5%B3%B0%E5%AE%A3%E5%82%B3%E7%85%A7%E8%AE%8A-%E7%84%A1%E9%A0%AD%E6%9D%B1%E5%AE%AE-%E7%B6%B2%E6%B0%91%E6%80%92%E6%96%A5-%E6%96%B0%E4%B8%80%E5%B9%B4%E6%94%B9%E9%A0%AD%E6%8F%9B%E9%9D%A2",
+    "timestamp": "2026-02-16T15:08:11.513Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "潘靜文大爆終生要食長齋　竟然背後真相有洋蔥",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260216/1100056697172398080982710.jpeg/gJH1uoBkV_JHKeX8fLSS3_KHM_P_git_4sTTKuLE0yo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A0%94%E6%95%B8%E6%89%80/60319064/%E6%94%B6%E6%81%AF%E8%82%A12026-%E7%9B%A4%E9%BB%9E20%E9%9A%BB%E9%AB%98%E6%81%AF%E8%82%A1%E5%85%A5%E5%A0%B4%E8%B2%BB%E8%82%A1%E6%81%AF%E7%8E%87-%E6%9C%89%E6%AC%BE%E6%B4%BE%E6%81%AF%E7%94%A2%E5%93%81%E9%AB%98%E9%81%9410%E5%8E%98",
     "timestamp": "2026-02-16T05:24:07.955Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "歐聯全攻略｜摩納哥大年初一深夜迎衛冕PSG　法甲打吡和氣生財",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260216/1100027842118291456085734.jpeg/VzPNAOlhD6YhNu-hQzh3sy-IIe5nPW9-c_j1wXP49cE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60322791/%E6%AD%90%E8%81%AF%E5%85%A8%E6%94%BB%E7%95%A5-%E6%91%A9%E7%B4%8D%E5%93%A5%E5%A4%A7%E5%B9%B4%E5%88%9D%E4%B8%80%E6%B7%B1%E5%A4%9C%E8%BF%8E%E8%A1%9B%E5%86%95psg-%E6%B3%95%E7%94%B2%E6%89%93%E5%90%A1%E5%92%8C%E6%B0%A3%E7%94%9F%E8%B2%A1",
-    "timestamp": "2026-02-16T04:39:40.617Z",
     "strategy": ".content-card__main"
   }
 ];
