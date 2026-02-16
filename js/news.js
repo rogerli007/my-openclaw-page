@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-16T17:51:53.843Z
+// Last updated: 2026-02-16T18:23:24.668Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "與美核談判前夕　伊朗外長晤阿曼外長及IAEA總幹事",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260217/1100245552202780672831067.jpeg/1iEUJrlgj0x2870Ir22wQEB0G9oXud5HCjip5Qo4qeU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60322983/%E8%88%87%E7%BE%8E%E6%A0%B8%E8%AB%87%E5%88%A4%E5%89%8D%E5%A4%95-%E4%BC%8A%E6%9C%97%E5%A4%96%E9%95%B7%E6%99%A4%E9%98%BF%E6%9B%BC%E5%A4%96%E9%95%B7%E5%8F%8Aiaea%E7%B8%BD%E5%B9%B9%E4%BA%8B",
+    "timestamp": "2026-02-16T18:23:24.668Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "巴西東南部巴士翻側　至少6死45人傷",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260216/1100041903186907136197530.jpeg/3w3Fn3NoY944HfUh-AjGsedoiF4Ro9KiNldtADZXbQA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60309914/%E8%84%82%E8%82%AA%E8%82%9D-1%E9%A1%9E%E6%9E%9C%E6%B1%81%E6%AF%94%E7%94%9C%E5%93%81%E6%9B%B4%E5%82%B7%E8%BA%AB%E6%98%93%E8%84%82%E8%82%AA%E8%82%9D%E5%B0%BF%E9%85%B8%E9%AB%98-%E9%86%AB%E6%95%992%E6%8B%9B%E6%B8%9B%E8%82%9D%E8%87%9F%E8%B2%A0%E6%93%94",
     "timestamp": "2026-02-16T09:10:10.470Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "一馬當先行大運｜麥玲玲批洪天明「鱷魚頭老襯底」　周家蔚旺夫",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260216/1100080883672551424139807.jpeg/bZRd5jDgEOloGrLZC2bOCvSYndddRZqYenZMhnp2TIY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60322858/%E4%B8%80%E9%A6%AC%E7%95%B6%E5%85%88%E8%A1%8C%E5%A4%A7%E9%81%8B-%E9%BA%A5%E7%8E%B2%E7%8E%B2%E6%89%B9%E6%B4%AA%E5%A4%A9%E6%98%8E-%E9%B1%B7%E9%AD%9A%E9%A0%AD%E8%80%81%E8%A5%AF%E5%BA%95-%E5%91%A8%E5%AE%B6%E8%94%9A%E6%97%BA%E5%A4%AB",
-    "timestamp": "2026-02-16T08:35:16.226Z",
     "strategy": ".content-card__main"
   }
 ];
