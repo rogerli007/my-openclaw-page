@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-16T11:35:04.835Z
+// Last updated: 2026-02-16T12:02:33.567Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "除夕｜市民一家八口酒樓吃團年飯花3千元　台灣客來港過年歎雲吞",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260216/1100148197919035392385197.jpeg/qmhWw2s0jDqoN7z9QDKncigeE4JmxXqK7-wjI8rsIyM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60322954/%E9%99%A4%E5%A4%95-%E5%B8%82%E6%B0%91%E4%B8%80%E5%AE%B6%E5%85%AB%E5%8F%A3%E9%85%92%E6%A8%93%E5%90%83%E5%9C%98%E5%B9%B4%E9%A3%AF%E8%8A%B13%E5%8D%83%E5%85%83-%E5%8F%B0%E7%81%A3%E5%AE%A2%E4%BE%86%E6%B8%AF%E9%81%8E%E5%B9%B4%E6%AD%8E%E9%9B%B2%E5%90%9E",
+    "timestamp": "2026-02-16T12:02:33.567Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "跨部門全港反黑工拘36人　入境處搜多區年宵　揭12黑工於攤檔銷售",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260216/1099950348463771648652307.jpeg/pdEVmaL4oV7cXgre2jVtoq4rOFtVvkg42iFX0NohV9A?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60322751/%E7%83%8F%E5%85%8B%E8%98%AD%E5%89%8D%E8%83%BD%E6%BA%90%E9%83%A8%E9%95%B7%E8%A9%A6%E5%9C%96%E9%9B%A2%E5%A2%83%E8%A2%AB%E6%8D%95-%E5%8E%BB%E5%B9%B4%E5%BA%95%E6%8D%B2%E8%B2%AA%E8%85%90%E9%86%9C%E8%81%9E%E4%B8%8B%E5%8F%B0",
     "timestamp": "2026-02-16T00:02:28.748Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "烏克蘭前能源部長試圖離境被捕　去年底捲貪腐醜聞下台",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260216/1099950348463771648652307.jpeg/pdEVmaL4oV7cXgre2jVtoq4rOFtVvkg42iFX0NohV9A?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60322751/%E7%83%8F%E5%85%8B%E8%98%AD%E5%89%8D%E8%83%BD%E6%BA%90%E9%83%A8%E9%95%B7%E8%A9%A6%E5%9C%96%E9%9B%A2%E5%A2%83%E8%A2%AB%E6%8D%95-%E5%8E%BB%E5%B9%B4%E5%BA%95%E6%8D%B2%E8%B2%AA%E8%85%90%E9%86%9C%E8%81%9E%E4%B8%8B%E5%8F%B0",
-    "timestamp": "2026-02-15T23:49:39.569Z",
     "strategy": ".content-card__main"
   }
 ];
