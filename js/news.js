@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-16T03:46:21.241Z
+// Last updated: 2026-02-16T04:39:40.617Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "歐聯全攻略｜摩納哥大年初一深夜迎衛冕PSG　法甲打吡和氣生財",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260216/1100027842118291456085734.jpeg/VzPNAOlhD6YhNu-hQzh3sy-IIe5nPW9-c_j1wXP49cE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60322791/%E6%AD%90%E8%81%AF%E5%85%A8%E6%94%BB%E7%95%A5-%E6%91%A9%E7%B4%8D%E5%93%A5%E5%A4%A7%E5%B9%B4%E5%88%9D%E4%B8%80%E6%B7%B1%E5%A4%9C%E8%BF%8E%E8%A1%9B%E5%86%95psg-%E6%B3%95%E7%94%B2%E6%89%93%E5%90%A1%E5%92%8C%E6%B0%A3%E7%94%9F%E8%B2%A1",
+    "timestamp": "2026-02-16T04:39:40.617Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "消委會．香水｜Marks&Spencer售$129獲5星　媲美CHANEL、PRADA",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20251223/1080079021951160320215376.jpeg/If9ngZJJed6Jq6ZTaCc8n7uDPhKa8yiaHkZsdh5GbHY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60322741/%E7%89%B9%E6%9C%97%E6%99%AE-%E5%92%8C%E5%B9%B3%E5%A7%94%E5%93%A1%E6%9C%83%E5%B0%87%E8%B3%87%E5%8A%A9%E5%8A%A0%E6%B2%99%E9%80%BE50%E5%84%84%E7%BE%8E%E5%85%83-%E7%94%A8%E6%96%BC%E9%87%8D%E5%BB%BA%E5%8F%8A%E4%BA%BA%E9%81%93%E6%8F%B4%E5%8A%A9",
     "timestamp": "2026-02-15T20:31:15.292Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普：和平委員會將資助加沙逾50億美元　用於重建及人道援助",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20251223/1080079021951160320215376.jpeg/If9ngZJJed6Jq6ZTaCc8n7uDPhKa8yiaHkZsdh5GbHY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60322741/%E7%89%B9%E6%9C%97%E6%99%AE-%E5%92%8C%E5%B9%B3%E5%A7%94%E5%93%A1%E6%9C%83%E5%B0%87%E8%B3%87%E5%8A%A9%E5%8A%A0%E6%B2%99%E9%80%BE50%E5%84%84%E7%BE%8E%E5%85%83-%E7%94%A8%E6%96%BC%E9%87%8D%E5%BB%BA%E5%8F%8A%E4%BA%BA%E9%81%93%E6%8F%B4%E5%8A%A9",
-    "timestamp": "2026-02-15T20:13:56.598Z",
     "strategy": ".content-card__main"
   }
 ];
