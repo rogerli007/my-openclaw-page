@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-16T12:29:34.707Z
+// Last updated: 2026-02-16T12:54:52.471Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "陽光女子合唱團｜台灣票房收5.45億　破《海角七號》18年冠軍紀錄",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260216/1100122756248244224340529.jpeg/luRETOsHi_Hb5-5Gt3QwbO2C4C1yGSsXsQ9q6LEPaug?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60322931/%E9%99%BD%E5%85%89%E5%A5%B3%E5%AD%90%E5%90%88%E5%94%B1%E5%9C%98-%E5%8F%B0%E7%81%A3%E7%A5%A8%E6%88%BF%E6%94%B65-45%E5%84%84-%E7%A0%B4-%E6%B5%B7%E8%A7%92%E4%B8%83%E8%99%9F-18%E5%B9%B4%E5%86%A0%E8%BB%8D%E7%B4%80%E9%8C%84",
+    "timestamp": "2026-02-16T12:54:52.471Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "TVB收視｜《非常檢控觀》撐起黃金時段　黃子華訪問90萬人收看",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260216/1099915442220175360374268.jpeg/oVENGFHAVrPoT9C1vKEQ9KYhnNf9BRwN-FrJLPhaySw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60322674/%E8%89%AF%E5%B0%91-jfft%E6%88%90007%E5%85%A5%E5%AD%90%E5%BD%88%E5%A4%A7%E8%B3%BD%E5%86%A0%E8%BB%8D-%E8%AE%9A%E5%A5%B3%E5%8F%8B%E6%98%8E%E7%99%BD%E4%BA%8B%E7%90%86%E5%86%87%E5%AC%B2%E4%BD%A2%E5%90%8C%E9%98%BF%E8%9B%8B%E6%8B%8Dmv",
     "timestamp": "2026-02-16T01:44:53.961Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "澤連斯基：歐洲2.24前向烏克蘭提供新一輪能源及軍事援助方案",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260215/1099644881569058816684092.jpeg/4yzzC1bajg68fSspKtCwczpQC57oBlzr3JAyHtyQMh4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60322756/%E6%BE%A4%E9%80%A3%E6%96%AF%E5%9F%BA-%E6%AD%90%E6%B4%B22-24%E5%89%8D%E5%90%91%E7%83%8F%E5%85%8B%E8%98%AD%E6%8F%90%E4%BE%9B%E6%96%B0%E4%B8%80%E8%BC%AA%E8%83%BD%E6%BA%90%E5%8F%8A%E8%BB%8D%E4%BA%8B%E6%8F%B4%E5%8A%A9%E6%96%B9%E6%A1%88",
-    "timestamp": "2026-02-16T00:54:26.831Z",
     "strategy": ".content-card__main"
   }
 ];
