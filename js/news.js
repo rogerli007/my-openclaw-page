@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-16T05:24:07.955Z
+// Last updated: 2026-02-16T06:02:08.308Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "遊港有驚喜│內地女買咖啡獲贈1句話　激讚：原來香港人這麼暖心！",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260216/1100065348683567104194365.jpeg/Yd2yKnrUruti4OGQLQa3FFzngS7W7MqtWgbep1oG3qc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60322836/%E9%81%8A%E6%B8%AF%E6%9C%89%E9%A9%9A%E5%96%9C-%E5%85%A7%E5%9C%B0%E5%A5%B3%E8%B2%B7%E5%92%96%E5%95%A1%E7%8D%B2%E8%B4%881%E5%8F%A5%E8%A9%B1-%E6%BF%80%E8%AE%9A-%E5%8E%9F%E4%BE%86%E9%A6%99%E6%B8%AF%E4%BA%BA%E9%80%99%E9%BA%BC%E6%9A%96%E5%BF%83",
+    "timestamp": "2026-02-16T06:02:08.308Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "收息股2026│盤點20隻高息股入場費股息率　有款派息產品高達10厘",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20251223/1080079021951160320215376.jpeg/If9ngZJJed6Jq6ZTaCc8n7uDPhKa8yiaHkZsdh5GbHY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60322741/%E7%89%B9%E6%9C%97%E6%99%AE-%E5%92%8C%E5%B9%B3%E5%A7%94%E5%93%A1%E6%9C%83%E5%B0%87%E8%B3%87%E5%8A%A9%E5%8A%A0%E6%B2%99%E9%80%BE50%E5%84%84%E7%BE%8E%E5%85%83-%E7%94%A8%E6%96%BC%E9%87%8D%E5%BB%BA%E5%8F%8A%E4%BA%BA%E9%81%93%E6%8F%B4%E5%8A%A9",
     "timestamp": "2026-02-15T21:01:52.957Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普：和平委員會將資助加沙逾50億美元　用於重建及人道援助",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20251223/1080079021951160320215376.jpeg/If9ngZJJed6Jq6ZTaCc8n7uDPhKa8yiaHkZsdh5GbHY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60322741/%E7%89%B9%E6%9C%97%E6%99%AE-%E5%92%8C%E5%B9%B3%E5%A7%94%E5%93%A1%E6%9C%83%E5%B0%87%E8%B3%87%E5%8A%A9%E5%8A%A0%E6%B2%99%E9%80%BE50%E5%84%84%E7%BE%8E%E5%85%83-%E7%94%A8%E6%96%BC%E9%87%8D%E5%BB%BA%E5%8F%8A%E4%BA%BA%E9%81%93%E6%8F%B4%E5%8A%A9",
-    "timestamp": "2026-02-15T20:48:29.081Z",
     "strategy": ".content-card__main"
   }
 ];
