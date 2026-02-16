@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-16T14:14:06.033Z
+// Last updated: 2026-02-16T14:37:07.474Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "潘靜文大爆終生要食長齋　竟然背後真相有洋蔥",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260216/1100161877570228224172695.jpeg/TGCZymExTK8C5VrW9r_px7PmwkmretGQeIAR4UKAEeE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60322959/%E6%BD%98%E9%9D%9C%E6%96%87%E5%A4%A7%E7%88%86%E7%B5%82%E7%94%9F%E8%A6%81%E9%A3%9F%E9%95%B7%E9%BD%8B-%E7%AB%9F%E7%84%B6%E8%83%8C%E5%BE%8C%E7%9C%9F%E7%9B%B8%E6%9C%89%E6%B4%8B%E8%94%A5",
+    "timestamp": "2026-02-16T14:37:07.474Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美媒：美國防部威脅懲罰Anthropic　不滿限制AI軍事應用",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260216/1100027842118291456085734.jpeg/VzPNAOlhD6YhNu-hQzh3sy-IIe5nPW9-c_j1wXP49cE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60322791/%E6%AD%90%E8%81%AF%E5%85%A8%E6%94%BB%E7%95%A5-%E6%91%A9%E7%B4%8D%E5%93%A5%E5%A4%A7%E5%B9%B4%E5%88%9D%E4%B8%80%E6%B7%B1%E5%A4%9C%E8%BF%8E%E8%A1%9B%E5%86%95psg-%E6%B3%95%E7%94%B2%E6%89%93%E5%90%A1%E5%92%8C%E6%B0%A3%E7%94%9F%E8%B2%A1",
     "timestamp": "2026-02-16T04:39:40.617Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "消委會．香水｜Marks&Spencer售$129獲5星　媲美CHANEL、PRADA",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260216/1100026145014812672518623.jpeg/VfvFdODFEZhYNldFb6k9musJw70BLtojZOSDd0Hkg3c?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60322781/%E6%B6%88%E5%A7%94%E6%9C%83-%E9%A6%99%E6%B0%B4-marks-spencer%E5%94%AE-129%E7%8D%B25%E6%98%9F-%E5%AA%B2%E7%BE%8Echanel-prada",
-    "timestamp": "2026-02-16T03:46:21.241Z",
     "strategy": ".content-card__main"
   }
 ];
