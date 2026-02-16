@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-16T20:01:28.030Z
+// Last updated: 2026-02-16T20:18:29.127Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "王菲第六次登上央視春晚「出手即封神」　透明水滴形耳環成焦點",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260217/1100246592968986624092814.jpeg/DOR5u5x3bwLl2bWJjBqV2iDQyrhFc4eD8iVuMPIlbjA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60322985/%E7%8E%8B%E8%8F%B2%E7%AC%AC%E5%85%AD%E6%AC%A1%E7%99%BB%E4%B8%8A%E5%A4%AE%E8%A6%96%E6%98%A5%E6%99%9A-%E5%87%BA%E6%89%8B%E5%8D%B3%E5%B0%81%E7%A5%9E-%E9%80%8F%E6%98%8E%E6%B0%B4%E6%BB%B4%E5%BD%A2%E8%80%B3%E7%92%B0%E6%88%90%E7%84%A6%E9%BB%9E",
+    "timestamp": "2026-02-16T20:18:29.127Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "王菲第六次登上央視春晚「出手即封神」　透明水滴形耳環成焦點",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260216/1100145563355451392517426.jpeg/276FPZxDbajIskAfkU_4WNhSwUsY-oftvjg4r744OK8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60322951/%E8%B7%A8%E9%83%A8%E9%96%80%E5%85%A8%E6%B8%AF%E5%8F%8D%E9%BB%91%E5%B7%A5%E6%8B%9836%E4%BA%BA-%E5%85%A5%E5%A2%83%E8%99%95%E6%90%9C%E5%A4%9A%E5%8D%80%E5%B9%B4%E5%AE%B5-%E6%8F%AD12%E9%BB%91%E5%B7%A5%E6%96%BC%E6%94%A4%E6%AA%94%E9%8A%B7%E5%94%AE",
     "timestamp": "2026-02-16T11:35:04.835Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "一文看清｜佐丹奴要約　周大福代理人與證監和解五大要點",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260216/1100130518596325376405971.jpeg/HceSKW9UUQM4oTGoJsTcfrndeVbB3BDJ71Kkku9SpJI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60322940/%E4%B8%80%E6%96%87%E7%9C%8B%E6%B8%85-%E4%BD%90%E4%B8%B9%E5%A5%B4%E8%A6%81%E7%B4%84-%E5%91%A8%E5%A4%A7%E7%A6%8F%E4%BB%A3%E7%90%86%E4%BA%BA%E8%88%87%E8%AD%89%E7%9B%A3%E5%92%8C%E8%A7%A3%E4%BA%94%E5%A4%A7%E8%A6%81%E9%BB%9E",
-    "timestamp": "2026-02-16T11:10:35.214Z",
     "strategy": ".content-card__main"
   }
 ];
