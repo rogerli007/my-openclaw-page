@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-16T16:53:34.821Z
+// Last updated: 2026-02-16T17:24:15.817Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "巴西東南部巴士翻側　至少6死45人傷",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20240805/897155846784421888265410.jpeg/QN9YVAVnd0kSnbvFsZTW1guoWP-Pb4y5UXjCklF4wpI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60322981/%E5%B7%B4%E8%A5%BF%E6%9D%B1%E5%8D%97%E9%83%A8%E5%B7%B4%E5%A3%AB%E7%BF%BB%E5%81%B4-%E8%87%B3%E5%B0%916%E6%AD%BB45%E4%BA%BA%E5%82%B7",
+    "timestamp": "2026-02-16T17:24:15.817Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "郭羨妮回憶被指「片場隨處疴」致抑鬱發作　自爆老公25年前已相遇",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260216/1100082678352318464358429.jpeg/i7GPIXZbaDECTcavPz7Uka_Gn_YJuJ0KzIY1RsyGNUY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%A3%9F%E7%8E%A9%E8%B2%B7/60322829/%E9%99%A4%E5%A4%95%E6%96%B0%E5%B9%B4%E5%88%9D%E4%B8%802026-%E5%B0%81%E8%B7%AF-%E4%BA%A4%E9%80%9A5%E5%A4%A7%E5%AE%89%E6%8E%92-%E6%B8%AF%E9%90%B5%E9%80%9A%E5%AE%B5%E8%A1%8C%E9%A7%9B-%E5%B7%B4%E5%A3%AB%E5%8A%A0%E5%BC%B7%E7%8F%AD%E6%AC%A1",
     "timestamp": "2026-02-16T08:07:14.119Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "消委會藍牙喇叭評測2026｜Marshall續航強 三千蚊B&O不及平價JBL",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260115/1088532938275950592358426.png/yOuE4PQiBhZYcowe2Xg7iCo9t5yxqQpIYq-c1WKvnNU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60313125/%E6%B6%88%E5%A7%94%E6%9C%83%E8%97%8D%E7%89%99%E5%96%87%E5%8F%AD%E8%A9%95%E6%B8%AC2026-marshall%E7%BA%8C%E8%88%AA%E5%BC%B7-%E4%B8%89%E5%8D%83%E8%9A%8Ab-o%E4%B8%8D%E5%8F%8A%E5%B9%B3%E5%83%B9jbl",
-    "timestamp": "2026-02-16T07:43:19.066Z",
     "strategy": ".content-card__main"
   }
 ];
