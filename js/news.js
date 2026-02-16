@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-16T22:52:39.207Z
+// Last updated: 2026-02-16T23:16:27.600Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "兒孫滿堂變噩夢！公公派利是派到「眼神死」瘋傳　終下令咁做絕了",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260216/1100089240269623296017856.jpeg/bQLKCqfGmnBfS54EzaklpKkkG9XkF721eN3oM3jd6DM",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60322875/%E5%85%92%E5%AD%AB%E6%BB%BF%E5%A0%82%E8%AE%8A%E5%99%A9%E5%A4%A2-%E5%85%AC%E5%85%AC%E6%B4%BE%E5%88%A9%E6%98%AF%E6%B4%BE%E5%88%B0-%E7%9C%BC%E7%A5%9E%E6%AD%BB-%E7%98%8B%E5%82%B3-%E7%B5%82%E4%B8%8B%E4%BB%A4%E5%92%81%E5%81%9A%E7%B5%95%E4%BA%86",
+    "timestamp": "2026-02-16T23:16:27.600Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "年初一天氣｜今日初時有微雨　氣溫稍降最高22度　明後日早上清涼",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260216/1100211863968288768921038.jpeg/2E8OJ7SNS_-YccqyyicHtJ5RhapX0_VNqv_s5Kr_7OQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60322974/iphone-17e-3%E6%9C%884%E6%97%A5%E7%B4%90%E7%B4%84%E7%99%BC%E4%BD%88-apple%E5%B9%B3%E5%83%B9%E6%A9%9F%E7%9A%87%E5%82%B3%E8%81%9E%E8%A6%8F%E6%A0%BC-%E5%AE%9A%E5%83%B9%E5%85%A8%E6%95%B4%E5%90%88",
     "timestamp": "2026-02-16T15:57:26.077Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "吳亞馨淡出娛樂圈絕跡社交平台2年　朋友Po相驚揭她「兒子已2歲」",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260213/1098962665671233536176908.jpeg/gshrGtGdpPIIOxTfKCv-U_-1Tl2z4QmjxV8gg8VfIIM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E5%A8%9B%E6%A8%82/60312274/%E5%90%B3%E4%BA%9E%E9%A6%A8%E6%B7%A1%E5%87%BA%E5%A8%9B%E6%A8%82%E5%9C%88%E7%B5%95%E8%B7%A1%E7%A4%BE%E4%BA%A4%E5%B9%B3%E5%8F%B02%E5%B9%B4-%E6%9C%8B%E5%8F%8Bpo%E7%9B%B8%E9%A9%9A%E6%8F%AD%E5%A5%B9-%E5%85%92%E5%AD%90%E5%B7%B22%E6%AD%B2",
-    "timestamp": "2026-02-16T15:34:50.674Z",
     "strategy": ".content-card__main"
   }
 ];
