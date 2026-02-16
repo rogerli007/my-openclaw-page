@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-16T21:00:43.738Z
+// Last updated: 2026-02-16T21:17:44.903Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "年廿九晚粉嶺住宅遭爆竊　 失近30萬元財物",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20230112/690234110639083520492370.jpeg/dpjhmGDkpe7_3LeU1ydVO6_spQMcHO6W0xbehtMW3oY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60322989/%E5%B9%B4%E5%BB%BF%E4%B9%9D%E6%99%9A%E7%B2%89%E5%B6%BA%E4%BD%8F%E5%AE%85%E9%81%AD%E7%88%86%E7%AB%8A-%E5%A4%B1%E8%BF%9130%E8%90%AC%E5%85%83%E8%B2%A1%E7%89%A9",
+    "timestamp": "2026-02-16T21:17:44.903Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "年廿九晚粉嶺住宅遭爆竊　 失近30萬元財物",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260216/1100122756248244224340529.jpeg/luRETOsHi_Hb5-5Gt3QwbO2C4C1yGSsXsQ9q6LEPaug?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60322931/%E9%99%BD%E5%85%89%E5%A5%B3%E5%AD%90%E5%90%88%E5%94%B1%E5%9C%98-%E5%8F%B0%E7%81%A3%E7%A5%A8%E6%88%BF%E6%94%B65-45%E5%84%84-%E7%A0%B4-%E6%B5%B7%E8%A7%92%E4%B8%83%E8%99%9F-18%E5%B9%B4%E5%86%A0%E8%BB%8D%E7%B4%80%E9%8C%84",
     "timestamp": "2026-02-16T12:54:52.471Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "TVB收視｜《非常檢控觀》撐起黃金時段　黃子華訪問90萬人收看",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260216/1100126721337724928639845.jpeg/ry0Kb3JM8HljTi8-PPKzu9Tza7ObYT4yavQTQ2r0E0M?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60322937/tvb%E6%94%B6%E8%A6%96-%E9%9D%9E%E5%B8%B8%E6%AA%A2%E6%8E%A7%E8%A7%80-%E6%92%90%E8%B5%B7%E9%BB%83%E9%87%91%E6%99%82%E6%AE%B5-%E9%BB%83%E5%AD%90%E8%8F%AF%E8%A8%AA%E5%95%8F90%E8%90%AC%E4%BA%BA%E6%94%B6%E7%9C%8B",
-    "timestamp": "2026-02-16T12:29:34.707Z",
     "strategy": ".content-card__main"
   }
 ];
