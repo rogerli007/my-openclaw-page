@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-16T20:36:19.758Z
+// Last updated: 2026-02-16T21:00:43.738Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "年廿九晚粉嶺住宅遭爆竊　 失近30萬元財物",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20230112/690234110639083520492370.jpeg/dpjhmGDkpe7_3LeU1ydVO6_spQMcHO6W0xbehtMW3oY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60322989/%E5%B9%B4%E5%BB%BF%E4%B9%9D%E6%99%9A%E7%B2%89%E5%B6%BA%E4%BD%8F%E5%AE%85%E9%81%AD%E7%88%86%E7%AB%8A-%E5%A4%B1%E8%BF%9130%E8%90%AC%E5%85%83%E8%B2%A1%E7%89%A9",
+    "timestamp": "2026-02-16T21:00:43.738Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "王菲第六次登上央視春晚「出手即封神」　透明水滴形耳環成焦點",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260216/1100126721337724928639845.jpeg/ry0Kb3JM8HljTi8-PPKzu9Tza7ObYT4yavQTQ2r0E0M?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60322937/tvb%E6%94%B6%E8%A6%96-%E9%9D%9E%E5%B8%B8%E6%AA%A2%E6%8E%A7%E8%A7%80-%E6%92%90%E8%B5%B7%E9%BB%83%E9%87%91%E6%99%82%E6%AE%B5-%E9%BB%83%E5%AD%90%E8%8F%AF%E8%A8%AA%E5%95%8F90%E8%90%AC%E4%BA%BA%E6%94%B6%E7%9C%8B",
     "timestamp": "2026-02-16T12:29:34.707Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "除夕｜市民一家八口酒樓吃團年飯花3千元　台灣客來港過年歎雲吞",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260216/1100148197919035392385197.jpeg/qmhWw2s0jDqoN7z9QDKncigeE4JmxXqK7-wjI8rsIyM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60322954/%E9%99%A4%E5%A4%95-%E5%B8%82%E6%B0%91%E4%B8%80%E5%AE%B6%E5%85%AB%E5%8F%A3%E9%85%92%E6%A8%93%E5%90%83%E5%9C%98%E5%B9%B4%E9%A3%AF%E8%8A%B13%E5%8D%83%E5%85%83-%E5%8F%B0%E7%81%A3%E5%AE%A2%E4%BE%86%E6%B8%AF%E9%81%8E%E5%B9%B4%E6%AD%8E%E9%9B%B2%E5%90%9E",
-    "timestamp": "2026-02-16T12:02:33.567Z",
     "strategy": ".content-card__main"
   }
 ];
