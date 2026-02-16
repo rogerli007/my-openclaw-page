@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-16T21:51:12.996Z
+// Last updated: 2026-02-16T22:15:36.380Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "年初一天氣｜今日初時有微雨　氣溫稍降最高22度　明後日早上清涼",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260217/1100306364254916608645091.jpeg/YXGbl8juES57AhHoNTcySUVMT9mweMwpgx4Yy4MeGMs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60322980/%E5%B9%B4%E5%88%9D%E4%B8%80%E5%A4%A9%E6%B0%A3-%E4%BB%8A%E6%97%A5%E5%88%9D%E6%99%82%E6%9C%89%E5%BE%AE%E9%9B%A8-%E6%B0%A3%E6%BA%AB%E7%A8%8D%E9%99%8D%E6%9C%80%E9%AB%9822%E5%BA%A6-%E6%98%8E%E5%BE%8C%E6%97%A5%E6%97%A9%E4%B8%8A%E6%B8%85%E6%B6%BC",
+    "timestamp": "2026-02-16T22:15:36.380Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "魯比奧訪匈牙利：希望歐爾班繼續執政　符合美國利益",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260216/1100161877570228224172695.jpeg/TGCZymExTK8C5VrW9r_px7PmwkmretGQeIAR4UKAEeE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60322959/%E6%BD%98%E9%9D%9C%E6%96%87%E5%A4%A7%E7%88%86%E7%B5%82%E7%94%9F%E8%A6%81%E9%A3%9F%E9%95%B7%E9%BD%8B-%E7%AB%9F%E7%84%B6%E8%83%8C%E5%BE%8C%E7%9C%9F%E7%9B%B8%E6%9C%89%E6%B4%8B%E8%94%A5",
     "timestamp": "2026-02-16T14:37:07.474Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美媒：美國防部威脅懲罰Anthropic　不滿限制AI軍事應用",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250905/1040648086034059264702516.jpeg/mMpbZdIjaIko6Gqc5wRefAwC0nMZOLzRvWkdlL1pHZQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60322965/%E7%BE%8E%E5%AA%92-%E7%BE%8E%E5%9C%8B%E9%98%B2%E9%83%A8%E5%A8%81%E8%84%85%E6%87%B2%E7%BD%B0anthropic-%E4%B8%8D%E6%BB%BF%E9%99%90%E5%88%B6ai%E8%BB%8D%E4%BA%8B%E6%87%89%E7%94%A8",
-    "timestamp": "2026-02-16T14:14:06.033Z",
     "strategy": ".content-card__main"
   }
 ];
