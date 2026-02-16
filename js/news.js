@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-16T08:07:14.119Z
+// Last updated: 2026-02-16T08:35:16.226Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "一馬當先行大運｜麥玲玲批洪天明「鱷魚頭老襯底」　周家蔚旺夫",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260216/1100080883672551424139807.jpeg/bZRd5jDgEOloGrLZC2bOCvSYndddRZqYenZMhnp2TIY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60322858/%E4%B8%80%E9%A6%AC%E7%95%B6%E5%85%88%E8%A1%8C%E5%A4%A7%E9%81%8B-%E9%BA%A5%E7%8E%B2%E7%8E%B2%E6%89%B9%E6%B4%AA%E5%A4%A9%E6%98%8E-%E9%B1%B7%E9%AD%9A%E9%A0%AD%E8%80%81%E8%A5%AF%E5%BA%95-%E5%91%A8%E5%AE%B6%E8%94%9A%E6%97%BA%E5%A4%AB",
+    "timestamp": "2026-02-16T08:35:16.226Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "除夕新年初一2026｜封路/交通5大安排:港鐵通宵行駛+巴士加強班次",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260215/1099816045503320064365498.jpeg/IXNHQZj6skYgfSJk7v08_jzV-Ws9YpNfJPEEgiTxBII?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60322664/%E8%96%9B%E5%87%B1%E7%90%AA%E8%A2%AB%E6%8C%87%E6%8D%B1%E5%88%B0%E6%AE%98%E7%9B%AE%E5%85%89%E5%91%86%E6%BB%AF-%E9%9F%B3%E6%A8%82%E4%BA%BA%E5%A5%BD%E5%8F%8B%E9%9B%A2%E4%B8%96%E5%87%BA%E7%8F%BE%E5%98%94%E5%90%90%E5%91%BC%E5%90%B8%E5%9B%B0%E9%9B%A3",
     "timestamp": "2026-02-15T22:13:24.247Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "伊朗外長啟程赴瑞士與美方會談　內塔尼亞胡促徹底拆除伊朗核設施",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260216/1099922580116082688472580.jpeg/io1pPSHLZ8XFwKAERB2S5_c0xLEypDYMfyAmXX8gJl0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60322745/%E4%BC%8A%E6%9C%97%E5%A4%96%E9%95%B7%E5%95%9F%E7%A8%8B%E8%B5%B4%E7%91%9E%E5%A3%AB%E8%88%87%E7%BE%8E%E6%96%B9%E6%9C%83%E8%AB%87-%E5%85%A7%E5%A1%94%E5%B0%BC%E4%BA%9E%E8%83%A1%E4%BF%83%E5%BE%B9%E5%BA%95%E6%8B%86%E9%99%A4%E4%BC%8A%E6%9C%97%E6%A0%B8%E8%A8%AD%E6%96%BD",
-    "timestamp": "2026-02-15T21:59:32.286Z",
     "strategy": ".content-card__main"
   }
 ];
