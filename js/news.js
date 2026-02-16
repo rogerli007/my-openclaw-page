@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-16T00:02:28.748Z
+// Last updated: 2026-02-16T00:54:26.831Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "澤連斯基：歐洲2.24前向烏克蘭提供新一輪能源及軍事援助方案",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260215/1099644881569058816684092.jpeg/4yzzC1bajg68fSspKtCwczpQC57oBlzr3JAyHtyQMh4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60322756/%E6%BE%A4%E9%80%A3%E6%96%AF%E5%9F%BA-%E6%AD%90%E6%B4%B22-24%E5%89%8D%E5%90%91%E7%83%8F%E5%85%8B%E8%98%AD%E6%8F%90%E4%BE%9B%E6%96%B0%E4%B8%80%E8%BC%AA%E8%83%BD%E6%BA%90%E5%8F%8A%E8%BB%8D%E4%BA%8B%E6%8F%B4%E5%8A%A9%E6%96%B9%E6%A1%88",
+    "timestamp": "2026-02-16T00:54:26.831Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "烏克蘭前能源部長試圖離境被捕　去年底捲貪腐醜聞下台",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260216/1099892065581797376632814.jpeg/Fxc7euXpCH2dkVwmFF7U4X1iBQrqQ8ydHGUEkxxlBJM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60322737/%E8%8B%B1%E8%B6%B3%E7%B8%BD%E7%9B%83-%E9%98%BF%E4%BB%99%E5%A5%B44-0%E5%8B%9D%E9%9F%8B%E6%A0%B9-%E8%BC%95%E9%AC%86%E6%99%89%E7%B4%9A%E7%AC%AC5%E8%BC%AA",
     "timestamp": "2026-02-15T19:19:21.897Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "英足總盃｜阿仙奴4：0勝韋根　輕鬆晉級第5輪",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260216/1099892065581797376632814.jpeg/Fxc7euXpCH2dkVwmFF7U4X1iBQrqQ8ydHGUEkxxlBJM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60322737/%E8%8B%B1%E8%B6%B3%E7%B8%BD%E7%9B%83-%E9%98%BF%E4%BB%99%E5%A5%B44-0%E5%8B%9D%E9%9F%8B%E6%A0%B9-%E8%BC%95%E9%AC%86%E6%99%89%E7%B4%9A%E7%AC%AC5%E8%BC%AA",
-    "timestamp": "2026-02-15T19:03:29.404Z",
     "strategy": ".content-card__main"
   }
 ];
