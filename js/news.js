@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-16T11:10:35.214Z
+// Last updated: 2026-02-16T11:35:04.835Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "跨部門全港反黑工拘36人　入境處搜多區年宵　揭12黑工於攤檔銷售",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260216/1100145563355451392517426.jpeg/276FPZxDbajIskAfkU_4WNhSwUsY-oftvjg4r744OK8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60322951/%E8%B7%A8%E9%83%A8%E9%96%80%E5%85%A8%E6%B8%AF%E5%8F%8D%E9%BB%91%E5%B7%A5%E6%8B%9836%E4%BA%BA-%E5%85%A5%E5%A2%83%E8%99%95%E6%90%9C%E5%A4%9A%E5%8D%80%E5%B9%B4%E5%AE%B5-%E6%8F%AD12%E9%BB%91%E5%B7%A5%E6%96%BC%E6%94%A4%E6%AA%94%E9%8A%B7%E5%94%AE",
+    "timestamp": "2026-02-16T11:35:04.835Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "一文看清｜佐丹奴要約　周大福代理人與證監和解五大要點",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260216/1099950348463771648652307.jpeg/pdEVmaL4oV7cXgre2jVtoq4rOFtVvkg42iFX0NohV9A?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60322751/%E7%83%8F%E5%85%8B%E8%98%AD%E5%89%8D%E8%83%BD%E6%BA%90%E9%83%A8%E9%95%B7%E8%A9%A6%E5%9C%96%E9%9B%A2%E5%A2%83%E8%A2%AB%E6%8D%95-%E5%8E%BB%E5%B9%B4%E5%BA%95%E6%8D%B2%E8%B2%AA%E8%85%90%E9%86%9C%E8%81%9E%E4%B8%8B%E5%8F%B0",
     "timestamp": "2026-02-15T23:49:39.569Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "農曆新年｜盆菜加價無影響銷情　餐飲業界憂搶去酒樓黃金檔期生意",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260215/1099834571228188672697852.jpeg/JlTX3p9c3vorLFNXtJlG3wwZj9MZLtMf52CUn-dglJ8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60318733/%E8%BE%B2%E6%9B%86%E6%96%B0%E5%B9%B4-%E7%9B%86%E8%8F%9C%E5%8A%A0%E5%83%B9%E7%84%A1%E5%BD%B1%E9%9F%BF%E9%8A%B7%E6%83%85-%E9%A4%90%E9%A3%B2%E6%A5%AD%E7%95%8C%E6%86%82%E6%90%B6%E5%8E%BB%E9%85%92%E6%A8%93%E9%BB%83%E9%87%91%E6%AA%94%E6%9C%9F%E7%94%9F%E6%84%8F",
-    "timestamp": "2026-02-15T23:34:05.285Z",
     "strategy": ".content-card__main"
   }
 ];
