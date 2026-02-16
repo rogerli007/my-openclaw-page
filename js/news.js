@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-16T12:02:33.567Z
+// Last updated: 2026-02-16T12:29:34.707Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "TVB收視｜《非常檢控觀》撐起黃金時段　黃子華訪問90萬人收看",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260216/1100126721337724928639845.jpeg/ry0Kb3JM8HljTi8-PPKzu9Tza7ObYT4yavQTQ2r0E0M?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60322937/tvb%E6%94%B6%E8%A6%96-%E9%9D%9E%E5%B8%B8%E6%AA%A2%E6%8E%A7%E8%A7%80-%E6%92%90%E8%B5%B7%E9%BB%83%E9%87%91%E6%99%82%E6%AE%B5-%E9%BB%83%E5%AD%90%E8%8F%AF%E8%A8%AA%E5%95%8F90%E8%90%AC%E4%BA%BA%E6%94%B6%E7%9C%8B",
+    "timestamp": "2026-02-16T12:29:34.707Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "除夕｜市民一家八口酒樓吃團年飯花3千元　台灣客來港過年歎雲吞",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260215/1099644881569058816684092.jpeg/4yzzC1bajg68fSspKtCwczpQC57oBlzr3JAyHtyQMh4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60322756/%E6%BE%A4%E9%80%A3%E6%96%AF%E5%9F%BA-%E6%AD%90%E6%B4%B22-24%E5%89%8D%E5%90%91%E7%83%8F%E5%85%8B%E8%98%AD%E6%8F%90%E4%BE%9B%E6%96%B0%E4%B8%80%E8%BC%AA%E8%83%BD%E6%BA%90%E5%8F%8A%E8%BB%8D%E4%BA%8B%E6%8F%B4%E5%8A%A9%E6%96%B9%E6%A1%88",
     "timestamp": "2026-02-16T00:54:26.831Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "烏克蘭前能源部長試圖離境被捕　去年底捲貪腐醜聞下台",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260216/1099950348463771648652307.jpeg/pdEVmaL4oV7cXgre2jVtoq4rOFtVvkg42iFX0NohV9A?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60322751/%E7%83%8F%E5%85%8B%E8%98%AD%E5%89%8D%E8%83%BD%E6%BA%90%E9%83%A8%E9%95%B7%E8%A9%A6%E5%9C%96%E9%9B%A2%E5%A2%83%E8%A2%AB%E6%8D%95-%E5%8E%BB%E5%B9%B4%E5%BA%95%E6%8D%B2%E8%B2%AA%E8%85%90%E9%86%9C%E8%81%9E%E4%B8%8B%E5%8F%B0",
-    "timestamp": "2026-02-16T00:02:28.748Z",
     "strategy": ".content-card__main"
   }
 ];
