@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-16T09:40:24.037Z
+// Last updated: 2026-02-16T10:12:19.055Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "年宵2026｜16大花市市場開放時間/地點+維園啟德旺角花市交通安排",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260213/1099016115293523968680743.png/6x6Ira5BJ26Ayz164qtTvWL-0zJr786rPQQIuj0ECLo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%A3%9F%E7%8E%A9%E8%B2%B7/60321963/%E5%B9%B4%E5%AE%B52026-16%E5%A4%A7%E8%8A%B1%E5%B8%82%E5%B8%82%E5%A0%B4%E9%96%8B%E6%94%BE%E6%99%82%E9%96%93-%E5%9C%B0%E9%BB%9E-%E7%B6%AD%E5%9C%92%E5%95%9F%E5%BE%B7%E6%97%BA%E8%A7%92%E8%8A%B1%E5%B8%82%E4%BA%A4%E9%80%9A%E5%AE%89%E6%8E%92",
+    "timestamp": "2026-02-16T10:12:19.055Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "上水黑幫撞車傷人｜21歲男座駕捱撞撼欄起火　群煞持刀追斬後逃去",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260216/1099890004957597696670413.jpeg/UZyYNytqNd3uWpgrVw8bfDShfb5tUmmABlNrjAZTa4w?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60322736/%E6%AD%90%E6%B4%B25%E5%9C%8B%E6%8C%87%E7%B4%8D%E7%93%A6%E5%88%A9%E5%B0%BC%E9%81%AD%E4%BF%84%E6%AF%92%E6%AE%BA-%E9%AD%AF%E6%AF%94%E5%A5%A7-%E6%B2%92%E7%90%86%E7%94%B1%E8%B3%AA%E7%96%91%E5%A0%B1%E5%91%8A",
     "timestamp": "2026-02-15T23:02:41.659Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "周慧敏現身春晚錄影為粉絲簽名遭粗暴阻攔　一高EQ舉動盡顯人品",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260215/1099822833040625664765921.jpeg/5DSOX8Yueq886_N8iDCJiSj-5PXJuw_eHCRkGBwkZBg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60322634/%E5%91%A8%E6%85%A7%E6%95%8F%E7%8F%BE%E8%BA%AB%E6%98%A5%E6%99%9A%E9%8C%84%E5%BD%B1%E7%82%BA%E7%B2%89%E7%B5%B2%E7%B0%BD%E5%90%8D%E9%81%AD%E7%B2%97%E6%9A%B4%E9%98%BB%E6%94%94-%E4%B8%80%E9%AB%98eq%E8%88%89%E5%8B%95%E7%9B%A1%E9%A1%AF%E4%BA%BA%E5%93%81",
-    "timestamp": "2026-02-15T22:48:36.292Z",
     "strategy": ".content-card__main"
   }
 ];
