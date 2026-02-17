@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-17T08:06:50.348Z
+// Last updated: 2026-02-17T08:34:26.953Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "胡杏兒又一年返圍村上香祭祖　曬豪宅闊落客廳擺年花團年飯勁豐盛",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260217/1100417173781745664302957.png/3NGUUKKPu6PHWTX-dEwzOtlq2hyLbDEk2Wboftlm6H4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60323032/%E8%83%A1%E6%9D%8F%E5%85%92%E5%8F%88%E4%B8%80%E5%B9%B4%E8%BF%94%E5%9C%8D%E6%9D%91%E4%B8%8A%E9%A6%99%E7%A5%AD%E7%A5%96-%E6%9B%AC%E8%B1%AA%E5%AE%85%E9%97%8A%E8%90%BD%E5%AE%A2%E5%BB%B3%E6%93%BA%E5%B9%B4%E8%8A%B1%E5%9C%98%E5%B9%B4%E9%A3%AF%E5%8B%81%E8%B1%90%E7%9B%9B",
+    "timestamp": "2026-02-17T08:34:26.953Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "英國王室2公主驚爆曾密會愛潑斯坦　安德魯前妻還求淫媒：娶我吧",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260217/1100262469781164032631095.jpeg/T2KUGjrR08_F_AbX6UCjt4jS2F-t4esYoZXKAqGVygI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60322987/%E9%AD%AF%E6%AF%94%E5%A5%A7%E8%A8%AA%E5%8C%88%E7%89%99%E5%88%A9-%E5%B8%8C%E6%9C%9B%E6%AD%90%E7%88%BE%E7%8F%AD%E7%B9%BC%E7%BA%8C%E5%9F%B7%E6%94%BF-%E7%AC%A6%E5%90%88%E7%BE%8E%E5%9C%8B%E5%88%A9%E7%9B%8A",
     "timestamp": "2026-02-16T21:51:12.996Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "冬奧︱谷愛凌大跳台決賽奪銀　今屆個人第二面銀牌",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260217/1100292449265258496876045.jpeg/ZS0Ahn96FS6iC-zTyhiRX_rh3_qRr-YY0CS699Akuvc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60322990/%E5%86%AC%E5%A5%A7-%E8%B0%B7%E6%84%9B%E5%87%8C%E5%A4%A7%E8%B7%B3%E5%8F%B0%E6%B1%BA%E8%B3%BD%E5%A5%AA%E9%8A%80-%E4%BB%8A%E5%B1%86%E5%80%8B%E4%BA%BA%E7%AC%AC%E4%BA%8C%E9%9D%A2%E9%8A%80%E7%89%8C",
-    "timestamp": "2026-02-16T21:34:46.014Z",
     "strategy": ".content-card__main"
   }
 ];
