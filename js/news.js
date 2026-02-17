@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-17T16:41:14.637Z
+// Last updated: 2026-02-17T17:14:14.710Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "農曆新年｜14個年宵市場共迎265萬人次　維園年廿九錄逾21萬人",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260218/1100588111274053632316907.jpeg/rq--hehy8r3toq_kF8lCqc3o14La6dwDE9nOjBPZzow?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60323134/%E8%BE%B2%E6%9B%86%E6%96%B0%E5%B9%B4-14%E5%80%8B%E5%B9%B4%E5%AE%B5%E5%B8%82%E5%A0%B4%E5%85%B1%E8%BF%8E265%E8%90%AC%E4%BA%BA%E6%AC%A1-%E7%B6%AD%E5%9C%92%E5%B9%B4%E5%BB%BF%E4%B9%9D%E9%8C%84%E9%80%BE21%E8%90%AC%E4%BA%BA",
+    "timestamp": "2026-02-17T17:14:14.710Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "農曆新年｜14個年宵市場共迎265萬人次　維園年廿九錄逾21萬人",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260216/1100116043780591616915308.jpeg/scn6my-5FlXpf9Leb6F4VoMN-aUCLRSPubSE6Lm0hOg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%A3%9F%E7%8E%A9%E8%B2%B7/60322843/%E5%B9%B4%E5%88%9D%E4%B8%80%E8%8A%B1%E8%BB%8A%E5%B7%A1%E9%81%8A2026-%E5%B0%81%E8%B7%AF-%E4%BA%A4%E9%80%9A4%E5%AE%89%E6%8E%92-%E6%B8%AF%E9%90%B5%E5%8A%A0%E5%BC%B7%E6%9C%8D%E5%8B%99-%E5%B7%B4%E5%A3%AB%E5%8A%A0%E7%8F%AD%E6%AC%A1",
     "timestamp": "2026-02-17T07:41:01.563Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "研究：吃飯3步驟減肥降血糖　專家揭不同年齡進食順序+長者點食好",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260216/1100096403520098304937826.jpeg/G0roQFpuHyD6BXLolsfJM3xH9iie2Ba8Lv6kmC7-pJg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60301547/%E7%A0%94%E7%A9%B6-%E5%90%83%E9%A3%AF3%E6%AD%A5%E9%A9%9F%E6%B8%9B%E8%82%A5%E9%99%8D%E8%A1%80%E7%B3%96-%E5%B0%88%E5%AE%B6%E6%8F%AD%E4%B8%8D%E5%90%8C%E5%B9%B4%E9%BD%A1%E9%80%B2%E9%A3%9F%E9%A0%86%E5%BA%8F-%E9%95%B7%E8%80%85%E9%BB%9E%E9%A3%9F%E5%A5%BD",
-    "timestamp": "2026-02-17T07:14:44.330Z",
     "strategy": ".content-card__main"
   }
 ];
