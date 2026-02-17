@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-17T17:14:14.710Z
+// Last updated: 2026-02-17T17:42:17.588Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美俄烏新一輪會談展開　烏方：安全及人道問題納入議程",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260218/1100598486878916608450267.jpeg/tm8g0IAfpTzVuwFR2qAef0pGeP3TS2lPaPLSnmjy0p4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60323137/%E7%BE%8E%E4%BF%84%E7%83%8F%E6%96%B0%E4%B8%80%E8%BC%AA%E6%9C%83%E8%AB%87%E5%B1%95%E9%96%8B-%E7%83%8F%E6%96%B9-%E5%AE%89%E5%85%A8%E5%8F%8A%E4%BA%BA%E9%81%93%E5%95%8F%E9%A1%8C%E7%B4%8D%E5%85%A5%E8%AD%B0%E7%A8%8B",
+    "timestamp": "2026-02-17T17:42:17.588Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "農曆新年｜14個年宵市場共迎265萬人次　維園年廿九錄逾21萬人",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260217/1100447663410647040061754.jpeg/NZFg5RHAwEK6QbmyyFlAeb9SGG7Tmg0412G_CNdhvwg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60323053/%E8%8B%B1%E5%9C%8B%E7%8E%8B%E5%AE%A42%E5%85%AC%E4%B8%BB%E9%A9%9A%E7%88%86%E6%9B%BE%E5%AF%86%E6%9C%83%E6%84%9B%E6%BD%91%E6%96%AF%E5%9D%A6-%E5%AE%89%E5%BE%B7%E9%AD%AF%E5%89%8D%E5%A6%BB%E9%82%84%E6%B1%82%E6%B7%AB%E5%AA%92-%E5%A8%B6%E6%88%91%E5%90%A7",
     "timestamp": "2026-02-17T08:06:50.348Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "年初一花車巡遊2026｜封路/交通4安排:港鐵加強服務+巴士加班次",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260216/1100116043780591616915308.jpeg/scn6my-5FlXpf9Leb6F4VoMN-aUCLRSPubSE6Lm0hOg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%A3%9F%E7%8E%A9%E8%B2%B7/60322843/%E5%B9%B4%E5%88%9D%E4%B8%80%E8%8A%B1%E8%BB%8A%E5%B7%A1%E9%81%8A2026-%E5%B0%81%E8%B7%AF-%E4%BA%A4%E9%80%9A4%E5%AE%89%E6%8E%92-%E6%B8%AF%E9%90%B5%E5%8A%A0%E5%BC%B7%E6%9C%8D%E5%8B%99-%E5%B7%B4%E5%A3%AB%E5%8A%A0%E7%8F%AD%E6%AC%A1",
-    "timestamp": "2026-02-17T07:41:01.563Z",
     "strategy": ".content-card__main"
   }
 ];
