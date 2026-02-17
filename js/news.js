@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-17T02:07:21.204Z
+// Last updated: 2026-02-17T03:20:57.949Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "新年食太飽？　研究：間歇性斷食減肥　效果未必較傳統節食要好",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260217/1100384844359143424158469.jpeg/SVdXpUnXpKh6FXjXd283Pfm5HwxVsPG6oWoYjKFqGIw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60323010/%E6%96%B0%E5%B9%B4%E9%A3%9F%E5%A4%AA%E9%A3%BD-%E7%A0%94%E7%A9%B6-%E9%96%93%E6%AD%87%E6%80%A7%E6%96%B7%E9%A3%9F%E6%B8%9B%E8%82%A5-%E6%95%88%E6%9E%9C%E6%9C%AA%E5%BF%85%E8%BC%83%E5%82%B3%E7%B5%B1%E7%AF%80%E9%A3%9F%E8%A6%81%E5%A5%BD",
+    "timestamp": "2026-02-17T03:20:57.949Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "男性健康｜新婚男1分鐘就繳械？醫揭男性更年期5症狀及檢測標準",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260217/1100245552202780672831067.jpeg/1iEUJrlgj0x2870Ir22wQEB0G9oXud5HCjip5Qo4qeU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60322983/%E8%88%87%E7%BE%8E%E6%A0%B8%E8%AB%87%E5%88%A4%E5%89%8D%E5%A4%95-%E4%BC%8A%E6%9C%97%E5%A4%96%E9%95%B7%E6%99%A4%E9%98%BF%E6%9B%BC%E5%A4%96%E9%95%B7%E5%8F%8Aiaea%E7%B8%BD%E5%B9%B9%E4%BA%8B",
     "timestamp": "2026-02-16T18:52:59.595Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "與美核談判前夕　伊朗外長晤阿曼外長及IAEA總幹事",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260217/1100245552202780672831067.jpeg/1iEUJrlgj0x2870Ir22wQEB0G9oXud5HCjip5Qo4qeU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60322983/%E8%88%87%E7%BE%8E%E6%A0%B8%E8%AB%87%E5%88%A4%E5%89%8D%E5%A4%95-%E4%BC%8A%E6%9C%97%E5%A4%96%E9%95%B7%E6%99%A4%E9%98%BF%E6%9B%BC%E5%A4%96%E9%95%B7%E5%8F%8Aiaea%E7%B8%BD%E5%B9%B9%E4%BA%8B",
-    "timestamp": "2026-02-16T18:23:24.668Z",
     "strategy": ".content-card__main"
   }
 ];
