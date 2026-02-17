@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-17T22:16:54.098Z
+// Last updated: 2026-02-17T22:34:12.765Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "年初二天氣｜賀歲煙花將上演　天文台料大致多雲　早上清涼約17度",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260218/1100673126108368896236501.jpeg/y5Bk_Iqk5eQOT6X_eqGnR1HtqJs1z-joQCrPQ0Aqz0M?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60323140/%E5%B9%B4%E5%88%9D%E4%BA%8C%E5%A4%A9%E6%B0%A3-%E8%B3%80%E6%AD%B2%E7%85%99%E8%8A%B1%E5%B0%87%E4%B8%8A%E6%BC%94-%E5%A4%A9%E6%96%87%E5%8F%B0%E6%96%99%E5%A4%A7%E8%87%B4%E5%A4%9A%E9%9B%B2-%E6%97%A9%E4%B8%8A%E6%B8%85%E6%B6%BC%E7%B4%8417%E5%BA%A6",
+    "timestamp": "2026-02-17T22:34:12.765Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "樓市勢起風雲！汪總提供小陽春攻略！｜汪敦敬",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260217/1100476457278246912625089.png/nYR4YbFlEtBpIgCL9lwpf2LL4jMUGpZFwm3T3MJt09w?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60323074/%E8%BE%B2%E6%9B%86%E6%96%B0%E5%B9%B4-%E9%A0%98%E5%B1%95%E5%81%9C%E8%BB%8A%E5%A0%B4%E7%89%B9%E5%88%A5%E6%99%82%E6%AE%B5%E5%A4%A7%E5%A4%9A%E5%85%A8%E5%96%AE%E5%8A%A0%E6%94%B6-10-%E5%B8%82%E6%B0%91%E8%AA%8D%E7%82%BA%E4%B8%8D%E5%90%88%E7%90%86",
     "timestamp": "2026-02-17T13:38:33.541Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美伊重啟核談判　伊朗向霍爾木茲海峽發射多枚導彈　部分區域關閉",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260204/1095674988431675392051439.jpeg/7oOjFXnfwrSuqaaOd1A6ZLeB9A-KizxSvg838r4PN_I?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60323111/%E7%BE%8E%E4%BC%8A%E9%87%8D%E5%95%9F%E6%A0%B8%E8%AB%87%E5%88%A4-%E4%BC%8A%E6%9C%97%E5%90%91%E9%9C%8D%E7%88%BE%E6%9C%A8%E8%8C%B2%E6%B5%B7%E5%B3%BD%E7%99%BC%E5%B0%84%E5%A4%9A%E6%9E%9A%E5%B0%8E%E5%BD%88-%E9%83%A8%E5%88%86%E5%8D%80%E5%9F%9F%E9%97%9C%E9%96%89",
-    "timestamp": "2026-02-17T12:54:46.163Z",
     "strategy": ".content-card__main"
   }
 ];
