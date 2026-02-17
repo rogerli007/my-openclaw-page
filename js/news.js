@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-17T19:40:30.378Z
+// Last updated: 2026-02-17T20:02:38.705Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "將軍澳健華樓疑漏氣　全幢樓緊急疏散　消防爆門證炆牛肉煲乾水",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260218/1100632094847012864963058.jpeg/MqCMu34jKNuJnYT7bqOvcEQ3rzJvGR-3pd6VRoDelUY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60323141/%E5%B0%87%E8%BB%8D%E6%BE%B3%E5%81%A5%E8%8F%AF%E6%A8%93%E7%96%91%E6%BC%8F%E6%B0%A3-%E5%85%A8%E5%B9%A2%E6%A8%93%E7%B7%8A%E6%80%A5%E7%96%8F%E6%95%A3-%E6%B6%88%E9%98%B2%E7%88%86%E9%96%80%E8%AD%89%E7%82%86%E7%89%9B%E8%82%89%E7%85%B2%E4%B9%BE%E6%B0%B4",
+    "timestamp": "2026-02-17T20:02:38.705Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "將軍澳健明邨健華樓懷疑洩漏不明氣體　全幢樓緊急疏散",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260217/1100493706810626048342017.jpeg/MoTQ_3BdrIG5AUlcB9C7a45UgqNZnh9rMCZ7NDAmezQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60323098/%E5%86%AC%E5%A5%A7%E9%81%8E%E5%8D%8A%E4%B8%AD%E5%9C%8B%E9%9A%8A%E9%9B%B6%E9%87%91%E7%89%8C-%E5%AA%92%E9%AB%94%E4%BA%BA-%E4%B8%BB%E5%A0%B4%E7%B4%85%E5%88%A9%E6%B6%88%E9%80%80-%E8%A3%81%E5%88%A4%E5%B0%BA%E5%BA%A6%E5%84%AA%E5%8B%A2%E4%B8%8D%E5%86%8D",
     "timestamp": "2026-02-17T10:27:53.304Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "黑人民權領袖Jesse Jackson逝世　終年84歲",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20231203/807861251739750400617908.jpeg/KHmn2O6Vn83Qun4EwTeHKaRG3p4vIN7EzwKNdM8CjXQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60323092/%E9%BB%91%E4%BA%BA%E6%B0%91%E6%AC%8A%E9%A0%98%E8%A2%96jesse-jackson%E9%80%9D%E4%B8%96-%E7%B5%82%E5%B9%B484%E6%AD%B2",
-    "timestamp": "2026-02-17T09:54:09.896Z",
     "strategy": ".content-card__main"
   }
 ];
