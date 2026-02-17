@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-17T23:16:46.681Z
+// Last updated: 2026-02-17T23:33:51.238Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "秘魯總統捲貪腐醜聞　遭國會通過彈劾",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260218/1100676322570539008971286.jpeg/zNKNMkDN4GOxv8A0ArVFPW2oj64VY7NMqnIzLqpyMy4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60323145/%E7%A7%98%E9%AD%AF%E7%B8%BD%E7%B5%B1%E6%8D%B2%E8%B2%AA%E8%85%90%E9%86%9C%E8%81%9E-%E9%81%AD%E5%9C%8B%E6%9C%83%E9%80%9A%E9%81%8E%E5%BD%88%E5%8A%BE",
+    "timestamp": "2026-02-17T23:33:51.238Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "開放式夾耳耳機｜Sony人聲增強、華為低音出色、Momax AI即時翻譯",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20230629/751225177794154496170423.jpeg/LA01lx7popGaSkpvagqbb5K-ZuR9rX0zZc8cl2XPHJc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60323127/%E7%BE%8E%E8%82%A1-%E9%81%93%E6%8C%87%E6%97%A9%E6%AE%B5%E8%B7%8C%E8%BF%91%E7%99%BE%E9%BB%9E-%E7%B4%8D%E6%8C%87%E6%8C%AB1-tesla%E8%B7%8C3",
     "timestamp": "2026-02-17T15:09:40.893Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "黃循財糾偏　更應對日本軍國主義復辟嚴正立場",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250920/1046095974755209216340271.jpeg/DU_zASP7cyFjJ824blfrDy87GXtY6rpJ0EvJctBLyXI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%9C%8B%E9%9A%9B%E5%88%86%E6%9E%90/60323126/%E9%BB%83%E5%BE%AA%E8%B2%A1%E7%B3%BE%E5%81%8F-%E6%9B%B4%E6%87%89%E5%B0%8D%E6%97%A5%E6%9C%AC%E8%BB%8D%E5%9C%8B%E4%B8%BB%E7%BE%A9%E5%BE%A9%E8%BE%9F%E5%9A%B4%E6%AD%A3%E7%AB%8B%E5%A0%B4",
-    "timestamp": "2026-02-17T14:38:42.640Z",
     "strategy": ".content-card__main"
   }
 ];
