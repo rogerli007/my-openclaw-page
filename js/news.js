@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-17T06:13:49.383Z
+// Last updated: 2026-02-17T06:41:18.017Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "姜濤低調行維園年宵買大桔　被攤位學生認出男同學真實反應勁好笑",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260217/1100396623025934336149587.png/HOql0owb_zYTRN5O3vMLTY144fSqRnd2hAUes4QFHrM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60323019/%E5%A7%9C%E6%BF%A4%E4%BD%8E%E8%AA%BF%E8%A1%8C%E7%B6%AD%E5%9C%92%E5%B9%B4%E5%AE%B5%E8%B2%B7%E5%A4%A7%E6%A1%94-%E8%A2%AB%E6%94%A4%E4%BD%8D%E5%AD%B8%E7%94%9F%E8%AA%8D%E5%87%BA%E7%94%B7%E5%90%8C%E5%AD%B8%E7%9C%9F%E5%AF%A6%E5%8F%8D%E6%87%89%E5%8B%81%E5%A5%BD%E7%AC%91",
+    "timestamp": "2026-02-17T06:41:18.017Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "農曆新年｜初一送外賣收$3,000利市：馬年行大運　1點引網民質疑",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260217/1100246592968986624092814.jpeg/DOR5u5x3bwLl2bWJjBqV2iDQyrhFc4eD8iVuMPIlbjA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60322985/%E7%8E%8B%E8%8F%B2%E7%AC%AC%E5%85%AD%E6%AC%A1%E7%99%BB%E4%B8%8A%E5%A4%AE%E8%A6%96%E6%98%A5%E6%99%9A-%E5%87%BA%E6%89%8B%E5%8D%B3%E5%B0%81%E7%A5%9E-%E9%80%8F%E6%98%8E%E6%B0%B4%E6%BB%B4%E5%BD%A2%E8%80%B3%E7%92%B0%E6%88%90%E7%84%A6%E9%BB%9E",
     "timestamp": "2026-02-16T20:36:19.758Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "王菲第六次登上央視春晚「出手即封神」　透明水滴形耳環成焦點",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260217/1100246592968986624092814.jpeg/DOR5u5x3bwLl2bWJjBqV2iDQyrhFc4eD8iVuMPIlbjA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60322985/%E7%8E%8B%E8%8F%B2%E7%AC%AC%E5%85%AD%E6%AC%A1%E7%99%BB%E4%B8%8A%E5%A4%AE%E8%A6%96%E6%98%A5%E6%99%9A-%E5%87%BA%E6%89%8B%E5%8D%B3%E5%B0%81%E7%A5%9E-%E9%80%8F%E6%98%8E%E6%B0%B4%E6%BB%B4%E5%BD%A2%E8%80%B3%E7%92%B0%E6%88%90%E7%84%A6%E9%BB%9E",
-    "timestamp": "2026-02-16T20:18:29.127Z",
     "strategy": ".content-card__main"
   }
 ];
