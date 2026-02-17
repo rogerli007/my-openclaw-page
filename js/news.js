@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-17T03:20:57.949Z
+// Last updated: 2026-02-17T04:24:09.482Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "新年必裝5大PartyGame App！鵝鴨殺手機版必玩！剌激過玩狼人殺",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260217/1100399485328035840461879.jpeg/r9L6bsoNX1KwXXMoLheBb7m2XX7tUSMOy_FdgcvxXYE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60322209/%E6%96%B0%E5%B9%B4%E5%BF%85%E8%A3%9D5%E5%A4%A7partygame-app-%E9%B5%9D%E9%B4%A8%E6%AE%BA%E6%89%8B%E6%A9%9F%E7%89%88%E5%BF%85%E7%8E%A9-%E5%89%8C%E6%BF%80%E9%81%8E%E7%8E%A9%E7%8B%BC%E4%BA%BA%E6%AE%BA",
+    "timestamp": "2026-02-17T04:24:09.482Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "新年食太飽？　研究：間歇性斷食減肥　效果未必較傳統節食要好",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20230116/691764302884900864140537.jpeg/YesGd_Gx8eOetGU6GkjpX3hHBGSjYx0hPdEOzD3RDsw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60322986/%E4%B8%8A%E6%B0%B4%E9%BB%91%E5%B9%AB%E6%92%9E%E8%BB%8A%E5%82%B7%E4%BA%BA-%E5%8F%8D%E9%BB%91%E7%B5%84%E4%BB%8B%E5%85%A5%E8%AA%BF%E6%9F%A5-%E6%8B%98%E5%85%A9%E6%B4%BE%E5%85%B19%E4%BA%BA%E6%B6%89%E6%AF%86%E9%AC%A5%E5%8F%8A%E5%82%B7%E4%BA%BA%E7%AD%89%E7%BD%AA",
     "timestamp": "2026-02-16T19:22:41.459Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "與美核談判前夕　伊朗外長晤阿曼外長及IAEA總幹事",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260217/1100245552202780672831067.jpeg/1iEUJrlgj0x2870Ir22wQEB0G9oXud5HCjip5Qo4qeU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60322983/%E8%88%87%E7%BE%8E%E6%A0%B8%E8%AB%87%E5%88%A4%E5%89%8D%E5%A4%95-%E4%BC%8A%E6%9C%97%E5%A4%96%E9%95%B7%E6%99%A4%E9%98%BF%E6%9B%BC%E5%A4%96%E9%95%B7%E5%8F%8Aiaea%E7%B8%BD%E5%B9%B9%E4%BA%8B",
-    "timestamp": "2026-02-16T18:52:59.595Z",
     "strategy": ".content-card__main"
   }
 ];
