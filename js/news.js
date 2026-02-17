@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-17T09:54:09.896Z
+// Last updated: 2026-02-17T10:27:53.304Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "冬奧過半中國隊零金牌　媒體人：主場紅利消退、裁判尺度優勢不再",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260217/1100493706810626048342017.jpeg/MoTQ_3BdrIG5AUlcB9C7a45UgqNZnh9rMCZ7NDAmezQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60323098/%E5%86%AC%E5%A5%A7%E9%81%8E%E5%8D%8A%E4%B8%AD%E5%9C%8B%E9%9A%8A%E9%9B%B6%E9%87%91%E7%89%8C-%E5%AA%92%E9%AB%94%E4%BA%BA-%E4%B8%BB%E5%A0%B4%E7%B4%85%E5%88%A9%E6%B6%88%E9%80%80-%E8%A3%81%E5%88%A4%E5%B0%BA%E5%BA%A6%E5%84%AA%E5%8B%A2%E4%B8%8D%E5%86%8D",
+    "timestamp": "2026-02-17T10:27:53.304Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "黑人民權領袖Jesse Jackson逝世　終年84歲",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260216/1100089240269623296017856.jpeg/bQLKCqfGmnBfS54EzaklpKkkG9XkF721eN3oM3jd6DM",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60322875/%E5%85%92%E5%AD%AB%E6%BB%BF%E5%A0%82%E8%AE%8A%E5%99%A9%E5%A4%A2-%E5%85%AC%E5%85%AC%E6%B4%BE%E5%88%A9%E6%98%AF%E6%B4%BE%E5%88%B0-%E7%9C%BC%E7%A5%9E%E6%AD%BB-%E7%98%8B%E5%82%B3-%E7%B5%82%E4%B8%8B%E4%BB%A4%E5%92%81%E5%81%9A%E7%B5%95%E4%BA%86",
     "timestamp": "2026-02-16T23:16:27.600Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "年初一天氣｜今日初時有微雨　氣溫稍降最高22度　明後日早上清涼",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260217/1100306364254916608645091.jpeg/YXGbl8juES57AhHoNTcySUVMT9mweMwpgx4Yy4MeGMs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60322980/%E5%B9%B4%E5%88%9D%E4%B8%80%E5%A4%A9%E6%B0%A3-%E4%BB%8A%E6%97%A5%E5%88%9D%E6%99%82%E6%9C%89%E5%BE%AE%E9%9B%A8-%E6%B0%A3%E6%BA%AB%E7%A8%8D%E9%99%8D%E6%9C%80%E9%AB%9822%E5%BA%A6-%E6%98%8E%E5%BE%8C%E6%97%A5%E6%97%A9%E4%B8%8A%E6%B8%85%E6%B6%BC",
-    "timestamp": "2026-02-16T22:52:39.207Z",
     "strategy": ".content-card__main"
   }
 ];
