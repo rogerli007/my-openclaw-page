@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-17T05:11:39.394Z
+// Last updated: 2026-02-17T05:47:00.022Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "變賣前度銀手鐲驚見禾稈冚珍珠　剪開竟藏30克黃金　男方後悔痛哭",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260214/1099285007861551104164852.png/CODUekjOQib41r_Vq_L1ottMAo5rRLV5IFAjdiBQI3Y?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60322351/%E8%AE%8A%E8%B3%A3%E5%89%8D%E5%BA%A6%E9%8A%80%E6%89%8B%E9%90%B2%E9%A9%9A%E8%A6%8B%E7%A6%BE%E7%A8%88%E5%86%9A%E7%8F%8D%E7%8F%A0-%E5%89%AA%E9%96%8B%E7%AB%9F%E8%97%8F30%E5%85%8B%E9%BB%83%E9%87%91-%E7%94%B7%E6%96%B9%E5%BE%8C%E6%82%94%E7%97%9B%E5%93%AD",
+    "timestamp": "2026-02-17T05:47:00.022Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "花墟私家車彎位泊車搞到大塞車　網民爆嬲公審：新年返唔到屋企",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260217/1100246592968986624092814.jpeg/DOR5u5x3bwLl2bWJjBqV2iDQyrhFc4eD8iVuMPIlbjA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60322985/%E7%8E%8B%E8%8F%B2%E7%AC%AC%E5%85%AD%E6%AC%A1%E7%99%BB%E4%B8%8A%E5%A4%AE%E8%A6%96%E6%98%A5%E6%99%9A-%E5%87%BA%E6%89%8B%E5%8D%B3%E5%B0%81%E7%A5%9E-%E9%80%8F%E6%98%8E%E6%B0%B4%E6%BB%B4%E5%BD%A2%E8%80%B3%E7%92%B0%E6%88%90%E7%84%A6%E9%BB%9E",
     "timestamp": "2026-02-16T20:01:28.030Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "上水黑幫撞車傷人│反黑組介入調查　拘兩派共9人涉毆鬥及傷人等罪",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20230116/691764302884900864140537.jpeg/YesGd_Gx8eOetGU6GkjpX3hHBGSjYx0hPdEOzD3RDsw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60322986/%E4%B8%8A%E6%B0%B4%E9%BB%91%E5%B9%AB%E6%92%9E%E8%BB%8A%E5%82%B7%E4%BA%BA-%E5%8F%8D%E9%BB%91%E7%B5%84%E4%BB%8B%E5%85%A5%E8%AA%BF%E6%9F%A5-%E6%8B%98%E5%85%A9%E6%B4%BE%E5%85%B19%E4%BA%BA%E6%B6%89%E6%AF%86%E9%AC%A5%E5%8F%8A%E5%82%B7%E4%BA%BA%E7%AD%89%E7%BD%AA",
-    "timestamp": "2026-02-16T19:48:09.601Z",
     "strategy": ".content-card__main"
   }
 ];
