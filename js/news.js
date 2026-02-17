@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-17T15:09:40.893Z
+// Last updated: 2026-02-17T15:40:23.120Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "iPhone 17e 傳聞2.19突擊發佈！支援MagSafe磁吸充電外有4大升級",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260206/1096419188131500032923506.png/u5BFI86MYT9aN9IdRflO4KF3ncZXH0WiOwk_mTsJP5k?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60319869/iphone-17e-%E5%82%B3%E8%81%9E2-19%E7%AA%81%E6%93%8A%E7%99%BC%E4%BD%88-%E6%94%AF%E6%8F%B4magsafe%E7%A3%81%E5%90%B8%E5%85%85%E9%9B%BB%E5%A4%96%E6%9C%894%E5%A4%A7%E5%8D%87%E7%B4%9A",
+    "timestamp": "2026-02-17T15:40:23.120Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美股｜道指早段跌近百點　納指挫1%　Tesla跌3%",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260217/1100411238468292608812506.png/tQRoTR6AQQ3j7uRs13W5uNwary-GiGcfxqHLlMahy5Q?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60323015/%E8%BE%B2%E6%9B%86%E6%96%B0%E5%B9%B4-%E5%88%9D%E4%B8%80%E9%80%81%E5%A4%96%E8%B3%A3%E6%94%B6-3-000%E5%88%A9%E5%B8%82-%E9%A6%AC%E5%B9%B4%E8%A1%8C%E5%A4%A7%E9%81%8B-1%E9%BB%9E%E5%BC%95%E7%B6%B2%E6%B0%91%E8%B3%AA%E7%96%91",
     "timestamp": "2026-02-17T06:13:49.383Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "變賣前度銀手鐲驚見禾稈冚珍珠　剪開竟藏30克黃金　男方後悔痛哭",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260214/1099285007861551104164852.png/CODUekjOQib41r_Vq_L1ottMAo5rRLV5IFAjdiBQI3Y?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60322351/%E8%AE%8A%E8%B3%A3%E5%89%8D%E5%BA%A6%E9%8A%80%E6%89%8B%E9%90%B2%E9%A9%9A%E8%A6%8B%E7%A6%BE%E7%A8%88%E5%86%9A%E7%8F%8D%E7%8F%A0-%E5%89%AA%E9%96%8B%E7%AB%9F%E8%97%8F30%E5%85%8B%E9%BB%83%E9%87%91-%E7%94%B7%E6%96%B9%E5%BE%8C%E6%82%94%E7%97%9B%E5%93%AD",
-    "timestamp": "2026-02-17T05:47:00.022Z",
     "strategy": ".content-card__main"
   }
 ];
