@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-17T06:41:18.017Z
+// Last updated: 2026-02-17T07:14:44.330Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "研究：吃飯3步驟減肥降血糖　專家揭不同年齡進食順序+長者點食好",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260216/1100096403520098304937826.jpeg/G0roQFpuHyD6BXLolsfJM3xH9iie2Ba8Lv6kmC7-pJg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60301547/%E7%A0%94%E7%A9%B6-%E5%90%83%E9%A3%AF3%E6%AD%A5%E9%A9%9F%E6%B8%9B%E8%82%A5%E9%99%8D%E8%A1%80%E7%B3%96-%E5%B0%88%E5%AE%B6%E6%8F%AD%E4%B8%8D%E5%90%8C%E5%B9%B4%E9%BD%A1%E9%80%B2%E9%A3%9F%E9%A0%86%E5%BA%8F-%E9%95%B7%E8%80%85%E9%BB%9E%E9%A3%9F%E5%A5%BD",
+    "timestamp": "2026-02-17T07:14:44.330Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "姜濤低調行維園年宵買大桔　被攤位學生認出男同學真實反應勁好笑",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20230112/690234110639083520492370.jpeg/dpjhmGDkpe7_3LeU1ydVO6_spQMcHO6W0xbehtMW3oY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60322989/%E5%B9%B4%E5%BB%BF%E4%B9%9D%E6%99%9A%E7%B2%89%E5%B6%BA%E4%BD%8F%E5%AE%85%E9%81%AD%E7%88%86%E7%AB%8A-%E5%A4%B1%E8%BF%9130%E8%90%AC%E5%85%83%E8%B2%A1%E7%89%A9",
     "timestamp": "2026-02-16T21:00:43.738Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "王菲第六次登上央視春晚「出手即封神」　透明水滴形耳環成焦點",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260217/1100246592968986624092814.jpeg/DOR5u5x3bwLl2bWJjBqV2iDQyrhFc4eD8iVuMPIlbjA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60322985/%E7%8E%8B%E8%8F%B2%E7%AC%AC%E5%85%AD%E6%AC%A1%E7%99%BB%E4%B8%8A%E5%A4%AE%E8%A6%96%E6%98%A5%E6%99%9A-%E5%87%BA%E6%89%8B%E5%8D%B3%E5%B0%81%E7%A5%9E-%E9%80%8F%E6%98%8E%E6%B0%B4%E6%BB%B4%E5%BD%A2%E8%80%B3%E7%92%B0%E6%88%90%E7%84%A6%E9%BB%9E",
-    "timestamp": "2026-02-16T20:36:19.758Z",
     "strategy": ".content-card__main"
   }
 ];
