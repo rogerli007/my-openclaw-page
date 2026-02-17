@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-17T00:45:44.472Z
+// Last updated: 2026-02-17T01:19:03.786Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "親戚派$XXXX利是！台男拆開嫌錢少狂酸：好丟臉　怒退回後續超狂",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260216/1100104502628847616035264.jpeg/lfp06rZ-ZNgnSpqGgMyuevGP4K_t8J7TkHfADpB3wA4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60322849/%E8%A6%AA%E6%88%9A%E6%B4%BE-xxxx%E5%88%A9%E6%98%AF-%E5%8F%B0%E7%94%B7%E6%8B%86%E9%96%8B%E5%AB%8C%E9%8C%A2%E5%B0%91%E7%8B%82%E9%85%B8-%E5%A5%BD%E4%B8%9F%E8%87%89-%E6%80%92%E9%80%80%E5%9B%9E%E5%BE%8C%E7%BA%8C%E8%B6%85%E7%8B%82",
+    "timestamp": "2026-02-17T01:19:03.786Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "亞視矚目配角愈來愈瘦雙頰凹陷　與張文慈合影似兩父女令人擔心",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20240805/897155846784421888265410.jpeg/QN9YVAVnd0kSnbvFsZTW1guoWP-Pb4y5UXjCklF4wpI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60322981/%E5%B7%B4%E8%A5%BF%E6%9D%B1%E5%8D%97%E9%83%A8%E5%B7%B4%E5%A3%AB%E7%BF%BB%E5%81%B4-%E8%87%B3%E5%B0%916%E6%AD%BB45%E4%BA%BA%E5%82%B7",
     "timestamp": "2026-02-16T17:51:53.843Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "巴西東南部巴士翻側　至少6死45人傷",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20240805/897155846784421888265410.jpeg/QN9YVAVnd0kSnbvFsZTW1guoWP-Pb4y5UXjCklF4wpI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60322981/%E5%B7%B4%E8%A5%BF%E6%9D%B1%E5%8D%97%E9%83%A8%E5%B7%B4%E5%A3%AB%E7%BF%BB%E5%81%B4-%E8%87%B3%E5%B0%916%E6%AD%BB45%E4%BA%BA%E5%82%B7",
-    "timestamp": "2026-02-16T17:24:15.817Z",
     "strategy": ".content-card__main"
   }
 ];
