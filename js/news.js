@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-17T20:23:57.864Z
+// Last updated: 2026-02-17T20:52:39.029Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "日本國會今舉行首相指名選舉　高市早苗料連任",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260213/1099035045319938048934026.jpeg/isvh0pJAk8SGXF0ZdP0n-lQVyABRs5YFXYwCel2MAno?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60323142/%E6%97%A5%E6%9C%AC%E5%9C%8B%E6%9C%83%E4%BB%8A%E8%88%89%E8%A1%8C%E9%A6%96%E7%9B%B8%E6%8C%87%E5%90%8D%E9%81%B8%E8%88%89-%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E6%96%99%E9%80%A3%E4%BB%BB",
+    "timestamp": "2026-02-17T20:52:39.029Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "將軍澳健華樓疑漏氣　全幢樓緊急疏散　消防爆門證炆牛肉煲乾水",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260217/1100496540817952768643287.jpeg/lqWsKYK0tTnw-uOy8BBEvNPSAvqs5ZTAnvdbW573W1s?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60323088/%E5%B0%87%E8%BB%8D%E6%BE%B3%E5%A4%96%E5%82%AD%E9%9C%B8%E5%9C%B0%E6%90%AD%E5%B8%B3%E7%AF%B7%E9%99%A3%E6%8C%81%E7%BA%8C%E6%95%B8%E5%B9%B4-%E8%A1%97%E5%9D%8A%E6%84%8F%E8%A6%8B%E5%85%A9%E6%A5%B5-%E9%AB%94%E8%AB%92%E9%9B%A2%E9%84%89%E5%88%A5%E4%BA%95",
     "timestamp": "2026-02-17T11:25:51.286Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "馬年2026│著紅色衫反是凶？專家教穿這4色開運　附｢發財油｣招財術",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260217/1100494693721968640431078.jpeg/IvdCPyB1tIWFJkWnr2dTQJmS5UvPWJIs6OKEHejihB0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60323100/%E9%A6%AC%E5%B9%B42026-%E8%91%97%E7%B4%85%E8%89%B2%E8%A1%AB%E5%8F%8D%E6%98%AF%E5%87%B6-%E5%B0%88%E5%AE%B6%E6%95%99%E7%A9%BF%E9%80%994%E8%89%B2%E9%96%8B%E9%81%8B-%E9%99%84-%E7%99%BC%E8%B2%A1%E6%B2%B9-%E6%8B%9B%E8%B2%A1%E8%A1%93",
-    "timestamp": "2026-02-17T10:54:00.851Z",
     "strategy": ".content-card__main"
   }
 ];
