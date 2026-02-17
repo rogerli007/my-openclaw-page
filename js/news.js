@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-17T18:39:50.976Z
+// Last updated: 2026-02-17T19:14:24.395Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "土瓜灣電單車起火掀烈焰　鐵騎士及時逃生　消防迅即救熄│有片",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260218/1100611447022424064350864.jpeg/WL6eMrciYYTrs9fuGpO4gGtAVf7iT-Ijq8FvhI7Bb4Q",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60323138/%E5%9C%9F%E7%93%9C%E7%81%A3%E9%9B%BB%E5%96%AE%E8%BB%8A%E8%B5%B7%E7%81%AB%E6%8E%80%E7%83%88%E7%84%B0-%E9%90%B5%E9%A8%8E%E5%A3%AB%E5%8F%8A%E6%99%82%E9%80%83%E7%94%9F-%E6%B6%88%E9%98%B2%E8%BF%85%E5%8D%B3%E6%95%91%E7%86%84-%E6%9C%89%E7%89%87",
+    "timestamp": "2026-02-17T19:14:24.395Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "土瓜灣電單車起火掀烈焰　鐵騎士及時逃生　消防迅即救熄│有片",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260213/1098979637179977728541973.jpeg/DDjNDhwpH5JnkVYEwfSZncjlF7_J2Xai2jj7K_M4-ys?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60323078/%E8%BE%B2%E6%9B%86%E6%96%B0%E5%B9%B4-%E5%B9%B4%E5%88%9D%E4%B8%80%E8%8A%B1%E8%BB%8A%E5%B7%A1%E9%81%8A-%E4%BB%8A%E6%99%9A8%E6%99%82%E5%B0%96%E6%B2%99%E5%92%80-%E7%9C%8B12%E9%83%A8%E8%8A%B1%E8%BB%8A46%E9%9A%8A%E6%BC%94%E5%87%BA",
     "timestamp": "2026-02-17T09:27:46.514Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "夜王︱累積票房中午衝破600萬　領先《金多寶》賀歲檔獨領風騷",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260217/1100473022105522176372560.jpeg/qlBjZSqrBJK3pfeMsCbNQBdUGGB1gXV8NfT4OjX0-Do?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60323065/%E5%A4%9C%E7%8E%8B-%E7%B4%AF%E7%A9%8D%E7%A5%A8%E6%88%BF%E4%B8%AD%E5%8D%88%E8%A1%9D%E7%A0%B4600%E8%90%AC-%E9%A0%98%E5%85%88-%E9%87%91%E5%A4%9A%E5%AF%B6-%E8%B3%80%E6%AD%B2%E6%AA%94%E7%8D%A8%E9%A0%98%E9%A2%A8%E9%A8%B7",
-    "timestamp": "2026-02-17T08:59:22.100Z",
     "strategy": ".content-card__main"
   }
 ];
