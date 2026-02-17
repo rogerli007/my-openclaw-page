@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-17T14:38:42.640Z
+// Last updated: 2026-02-17T15:09:40.893Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美股｜道指早段跌近百點　納指挫1%　Tesla跌3%",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20230629/751225177794154496170423.jpeg/LA01lx7popGaSkpvagqbb5K-ZuR9rX0zZc8cl2XPHJc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60323127/%E7%BE%8E%E8%82%A1-%E9%81%93%E6%8C%87%E6%97%A9%E6%AE%B5%E8%B7%8C%E8%BF%91%E7%99%BE%E9%BB%9E-%E7%B4%8D%E6%8C%87%E6%8C%AB1-tesla%E8%B7%8C3",
+    "timestamp": "2026-02-17T15:09:40.893Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "黃循財糾偏　更應對日本軍國主義復辟嚴正立場",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260214/1099285007861551104164852.png/CODUekjOQib41r_Vq_L1ottMAo5rRLV5IFAjdiBQI3Y?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60322351/%E8%AE%8A%E8%B3%A3%E5%89%8D%E5%BA%A6%E9%8A%80%E6%89%8B%E9%90%B2%E9%A9%9A%E8%A6%8B%E7%A6%BE%E7%A8%88%E5%86%9A%E7%8F%8D%E7%8F%A0-%E5%89%AA%E9%96%8B%E7%AB%9F%E8%97%8F30%E5%85%8B%E9%BB%83%E9%87%91-%E7%94%B7%E6%96%B9%E5%BE%8C%E6%82%94%E7%97%9B%E5%93%AD",
     "timestamp": "2026-02-17T05:47:00.022Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "花墟私家車彎位泊車搞到大塞車　網民爆嬲公審：新年返唔到屋企",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260217/1100405781531987968510782.jpeg/ACQD_iMRwkUDGq4UoeIGndjCVAi8TzQI6_Aq6evwKuk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60323002/%E8%8A%B1%E5%A2%9F%E7%A7%81%E5%AE%B6%E8%BB%8A%E5%BD%8E%E4%BD%8D%E6%B3%8A%E8%BB%8A%E6%90%9E%E5%88%B0%E5%A4%A7%E5%A1%9E%E8%BB%8A-%E7%B6%B2%E6%B0%91%E7%88%86%E5%AC%B2%E5%85%AC%E5%AF%A9-%E6%96%B0%E5%B9%B4%E8%BF%94%E5%94%94%E5%88%B0%E5%B1%8B%E4%BC%81",
-    "timestamp": "2026-02-17T05:11:39.394Z",
     "strategy": ".content-card__main"
   }
 ];
