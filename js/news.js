@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-17T22:54:59.621Z
+// Last updated: 2026-02-17T23:16:46.681Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "開放式夾耳耳機｜Sony人聲增強、華為低音出色、Momax AI即時翻譯",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260212/1098445319059804160870614.jpeg/AcTrVpvAdVQilk_ZEjFuLBgQNi9GIZ9JD385bg9_OW4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60321466/%E9%96%8B%E6%94%BE%E5%BC%8F%E5%A4%BE%E8%80%B3%E8%80%B3%E6%A9%9F-sony%E4%BA%BA%E8%81%B2%E5%A2%9E%E5%BC%B7-%E8%8F%AF%E7%82%BA%E4%BD%8E%E9%9F%B3%E5%87%BA%E8%89%B2-momax-ai%E5%8D%B3%E6%99%82%E7%BF%BB%E8%AD%AF",
+    "timestamp": "2026-02-17T23:16:46.681Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "年初二天氣｜賀歲煙花將上演　天文台料大致多雲　早上清涼約17度",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250920/1046095974755209216340271.jpeg/DU_zASP7cyFjJ824blfrDy87GXtY6rpJ0EvJctBLyXI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%9C%8B%E9%9A%9B%E5%88%86%E6%9E%90/60323126/%E9%BB%83%E5%BE%AA%E8%B2%A1%E7%B3%BE%E5%81%8F-%E6%9B%B4%E6%87%89%E5%B0%8D%E6%97%A5%E6%9C%AC%E8%BB%8D%E5%9C%8B%E4%B8%BB%E7%BE%A9%E5%BE%A9%E8%BE%9F%E5%9A%B4%E6%AD%A3%E7%AB%8B%E5%A0%B4",
     "timestamp": "2026-02-17T14:38:42.640Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "關秀媚揭當年離開TVB主因　有類節目最怕：我直情好似傻咁企喺度",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260217/1100455658257387520625708.jpeg/xp0cIQ1p8u20i3MUYDcVAJNGHH6k4SS59C9DZvQvQ2Y?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60323048/%E9%97%9C%E7%A7%80%E5%AA%9A%E6%8F%AD%E7%95%B6%E5%B9%B4%E9%9B%A2%E9%96%8Btvb%E4%B8%BB%E5%9B%A0-%E6%9C%89%E9%A1%9E%E7%AF%80%E7%9B%AE%E6%9C%80%E6%80%95-%E6%88%91%E7%9B%B4%E6%83%85%E5%A5%BD%E4%BC%BC%E5%82%BB%E5%92%81%E4%BC%81%E5%96%BA%E5%BA%A6",
-    "timestamp": "2026-02-17T14:15:14.369Z",
     "strategy": ".content-card__main"
   }
 ];
