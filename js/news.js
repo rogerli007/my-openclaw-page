@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-17T16:11:07.130Z
+// Last updated: 2026-02-17T16:41:14.637Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "農曆新年｜14個年宵市場共迎265萬人次　維園年廿九錄逾21萬人",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260218/1100588111274053632316907.jpeg/rq--hehy8r3toq_kF8lCqc3o14La6dwDE9nOjBPZzow?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60323134/%E8%BE%B2%E6%9B%86%E6%96%B0%E5%B9%B4-14%E5%80%8B%E5%B9%B4%E5%AE%B5%E5%B8%82%E5%A0%B4%E5%85%B1%E8%BF%8E265%E8%90%AC%E4%BA%BA%E6%AC%A1-%E7%B6%AD%E5%9C%92%E5%B9%B4%E5%BB%BF%E4%B9%9D%E9%8C%84%E9%80%BE21%E8%90%AC%E4%BA%BA",
+    "timestamp": "2026-02-17T16:41:14.637Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "花車巡遊｜尖沙咀人潮逼爆　麥當勞叔叔滑嘟嘟現身廣東道全場歡呼",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260216/1100096403520098304937826.jpeg/G0roQFpuHyD6BXLolsfJM3xH9iie2Ba8Lv6kmC7-pJg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60301547/%E7%A0%94%E7%A9%B6-%E5%90%83%E9%A3%AF3%E6%AD%A5%E9%A9%9F%E6%B8%9B%E8%82%A5%E9%99%8D%E8%A1%80%E7%B3%96-%E5%B0%88%E5%AE%B6%E6%8F%AD%E4%B8%8D%E5%90%8C%E5%B9%B4%E9%BD%A1%E9%80%B2%E9%A3%9F%E9%A0%86%E5%BA%8F-%E9%95%B7%E8%80%85%E9%BB%9E%E9%A3%9F%E5%A5%BD",
     "timestamp": "2026-02-17T07:14:44.330Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "姜濤低調行維園年宵買大桔　被攤位學生認出男同學真實反應勁好笑",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260217/1100396623025934336149587.png/HOql0owb_zYTRN5O3vMLTY144fSqRnd2hAUes4QFHrM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60323019/%E5%A7%9C%E6%BF%A4%E4%BD%8E%E8%AA%BF%E8%A1%8C%E7%B6%AD%E5%9C%92%E5%B9%B4%E5%AE%B5%E8%B2%B7%E5%A4%A7%E6%A1%94-%E8%A2%AB%E6%94%A4%E4%BD%8D%E5%AD%B8%E7%94%9F%E8%AA%8D%E5%87%BA%E7%94%B7%E5%90%8C%E5%AD%B8%E7%9C%9F%E5%AF%A6%E5%8F%8D%E6%87%89%E5%8B%81%E5%A5%BD%E7%AC%91",
-    "timestamp": "2026-02-17T06:41:18.017Z",
     "strategy": ".content-card__main"
   }
 ];
