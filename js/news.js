@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-17T10:27:53.304Z
+// Last updated: 2026-02-17T10:54:00.851Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "馬年2026│著紅色衫反是凶？專家教穿這4色開運　附｢發財油｣招財術",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260217/1100494693721968640431078.jpeg/IvdCPyB1tIWFJkWnr2dTQJmS5UvPWJIs6OKEHejihB0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60323100/%E9%A6%AC%E5%B9%B42026-%E8%91%97%E7%B4%85%E8%89%B2%E8%A1%AB%E5%8F%8D%E6%98%AF%E5%87%B6-%E5%B0%88%E5%AE%B6%E6%95%99%E7%A9%BF%E9%80%994%E8%89%B2%E9%96%8B%E9%81%8B-%E9%99%84-%E7%99%BC%E8%B2%A1%E6%B2%B9-%E6%8B%9B%E8%B2%A1%E8%A1%93",
+    "timestamp": "2026-02-17T10:54:00.851Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "冬奧過半中國隊零金牌　媒體人：主場紅利消退、裁判尺度優勢不再",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260216/1100089240269623296017856.jpeg/bQLKCqfGmnBfS54EzaklpKkkG9XkF721eN3oM3jd6DM",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60322875/%E5%85%92%E5%AD%AB%E6%BB%BF%E5%A0%82%E8%AE%8A%E5%99%A9%E5%A4%A2-%E5%85%AC%E5%85%AC%E6%B4%BE%E5%88%A9%E6%98%AF%E6%B4%BE%E5%88%B0-%E7%9C%BC%E7%A5%9E%E6%AD%BB-%E7%98%8B%E5%82%B3-%E7%B5%82%E4%B8%8B%E4%BB%A4%E5%92%81%E5%81%9A%E7%B5%95%E4%BA%86",
     "timestamp": "2026-02-16T23:33:30.792Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "兒孫滿堂變噩夢！公公派利是派到「眼神死」瘋傳　終下令咁做絕了",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260216/1100089240269623296017856.jpeg/bQLKCqfGmnBfS54EzaklpKkkG9XkF721eN3oM3jd6DM",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60322875/%E5%85%92%E5%AD%AB%E6%BB%BF%E5%A0%82%E8%AE%8A%E5%99%A9%E5%A4%A2-%E5%85%AC%E5%85%AC%E6%B4%BE%E5%88%A9%E6%98%AF%E6%B4%BE%E5%88%B0-%E7%9C%BC%E7%A5%9E%E6%AD%BB-%E7%98%8B%E5%82%B3-%E7%B5%82%E4%B8%8B%E4%BB%A4%E5%92%81%E5%81%9A%E7%B5%95%E4%BA%86",
-    "timestamp": "2026-02-16T23:16:27.600Z",
     "strategy": ".content-card__main"
   }
 ];
