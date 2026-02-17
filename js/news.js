@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-17T15:40:23.120Z
+// Last updated: 2026-02-17T16:11:07.130Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "花車巡遊｜尖沙咀人潮逼爆　麥當勞叔叔滑嘟嘟現身廣東道全場歡呼",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260217/1100569053979742208640219.jpeg/x_cU55ntXQlpXvhfPuuukCOl1Hti5ZBvWwCgRVsAoEU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60323132/%E8%8A%B1%E8%BB%8A%E5%B7%A1%E9%81%8A-%E5%B0%96%E6%B2%99%E5%92%80%E4%BA%BA%E6%BD%AE%E9%80%BC%E7%88%86-%E9%BA%A5%E7%95%B6%E5%8B%9E%E5%8F%94%E5%8F%94%E6%BB%91%E5%98%9F%E5%98%9F%E7%8F%BE%E8%BA%AB%E5%BB%A3%E6%9D%B1%E9%81%93%E5%85%A8%E5%A0%B4%E6%AD%A1%E5%91%BC",
+    "timestamp": "2026-02-17T16:11:07.130Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "iPhone 17e 傳聞2.19突擊發佈！支援MagSafe磁吸充電外有4大升級",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260217/1100396623025934336149587.png/HOql0owb_zYTRN5O3vMLTY144fSqRnd2hAUes4QFHrM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60323019/%E5%A7%9C%E6%BF%A4%E4%BD%8E%E8%AA%BF%E8%A1%8C%E7%B6%AD%E5%9C%92%E5%B9%B4%E5%AE%B5%E8%B2%B7%E5%A4%A7%E6%A1%94-%E8%A2%AB%E6%94%A4%E4%BD%8D%E5%AD%B8%E7%94%9F%E8%AA%8D%E5%87%BA%E7%94%B7%E5%90%8C%E5%AD%B8%E7%9C%9F%E5%AF%A6%E5%8F%8D%E6%87%89%E5%8B%81%E5%A5%BD%E7%AC%91",
     "timestamp": "2026-02-17T06:41:18.017Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "農曆新年｜初一送外賣收$3,000利市：馬年行大運　1點引網民質疑",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260217/1100411238468292608812506.png/tQRoTR6AQQ3j7uRs13W5uNwary-GiGcfxqHLlMahy5Q?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60323015/%E8%BE%B2%E6%9B%86%E6%96%B0%E5%B9%B4-%E5%88%9D%E4%B8%80%E9%80%81%E5%A4%96%E8%B3%A3%E6%94%B6-3-000%E5%88%A9%E5%B8%82-%E9%A6%AC%E5%B9%B4%E8%A1%8C%E5%A4%A7%E9%81%8B-1%E9%BB%9E%E5%BC%95%E7%B6%B2%E6%B0%91%E8%B3%AA%E7%96%91",
-    "timestamp": "2026-02-17T06:13:49.383Z",
     "strategy": ".content-card__main"
   }
 ];
