@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-17T09:27:46.514Z
+// Last updated: 2026-02-17T09:54:09.896Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "黑人民權領袖Jesse Jackson逝世　終年84歲",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20231203/807861251739750400617908.jpeg/KHmn2O6Vn83Qun4EwTeHKaRG3p4vIN7EzwKNdM8CjXQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60323092/%E9%BB%91%E4%BA%BA%E6%B0%91%E6%AC%8A%E9%A0%98%E8%A2%96jesse-jackson%E9%80%9D%E4%B8%96-%E7%B5%82%E5%B9%B484%E6%AD%B2",
+    "timestamp": "2026-02-17T09:54:09.896Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "農曆新年．年初一花車巡遊｜今晚8時尖沙咀　看12部花車46隊演出",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260217/1100306364254916608645091.jpeg/YXGbl8juES57AhHoNTcySUVMT9mweMwpgx4Yy4MeGMs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60322980/%E5%B9%B4%E5%88%9D%E4%B8%80%E5%A4%A9%E6%B0%A3-%E4%BB%8A%E6%97%A5%E5%88%9D%E6%99%82%E6%9C%89%E5%BE%AE%E9%9B%A8-%E6%B0%A3%E6%BA%AB%E7%A8%8D%E9%99%8D%E6%9C%80%E9%AB%9822%E5%BA%A6-%E6%98%8E%E5%BE%8C%E6%97%A5%E6%97%A9%E4%B8%8A%E6%B8%85%E6%B6%BC",
     "timestamp": "2026-02-16T22:52:39.207Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "年初一天氣｜今日初時有微雨　氣溫稍降最高22度　明後日早上清涼",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260217/1100306364254916608645091.jpeg/YXGbl8juES57AhHoNTcySUVMT9mweMwpgx4Yy4MeGMs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60322980/%E5%B9%B4%E5%88%9D%E4%B8%80%E5%A4%A9%E6%B0%A3-%E4%BB%8A%E6%97%A5%E5%88%9D%E6%99%82%E6%9C%89%E5%BE%AE%E9%9B%A8-%E6%B0%A3%E6%BA%AB%E7%A8%8D%E9%99%8D%E6%9C%80%E9%AB%9822%E5%BA%A6-%E6%98%8E%E5%BE%8C%E6%97%A5%E6%97%A9%E4%B8%8A%E6%B8%85%E6%B6%BC",
-    "timestamp": "2026-02-16T22:32:23.217Z",
     "strategy": ".content-card__main"
   }
 ];
