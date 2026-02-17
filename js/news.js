@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-17T17:42:17.588Z
+// Last updated: 2026-02-17T18:10:22.180Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美俄烏新一輪會談展開　烏方：安全及人道問題納入議程",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260218/1100598486878916608450267.jpeg/tm8g0IAfpTzVuwFR2qAef0pGeP3TS2lPaPLSnmjy0p4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60323137/%E7%BE%8E%E4%BF%84%E7%83%8F%E6%96%B0%E4%B8%80%E8%BC%AA%E6%9C%83%E8%AB%87%E5%B1%95%E9%96%8B-%E7%83%8F%E6%96%B9-%E5%AE%89%E5%85%A8%E5%8F%8A%E4%BA%BA%E9%81%93%E5%95%8F%E9%A1%8C%E7%B4%8D%E5%85%A5%E8%AD%B0%E7%A8%8B",
+    "timestamp": "2026-02-17T18:10:22.180Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美俄烏新一輪會談展開　烏方：安全及人道問題納入議程",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260217/1100417173781745664302957.png/3NGUUKKPu6PHWTX-dEwzOtlq2hyLbDEk2Wboftlm6H4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60323032/%E8%83%A1%E6%9D%8F%E5%85%92%E5%8F%88%E4%B8%80%E5%B9%B4%E8%BF%94%E5%9C%8D%E6%9D%91%E4%B8%8A%E9%A6%99%E7%A5%AD%E7%A5%96-%E6%9B%AC%E8%B1%AA%E5%AE%85%E9%97%8A%E8%90%BD%E5%AE%A2%E5%BB%B3%E6%93%BA%E5%B9%B4%E8%8A%B1%E5%9C%98%E5%B9%B4%E9%A3%AF%E5%8B%81%E8%B1%90%E7%9B%9B",
     "timestamp": "2026-02-17T08:34:26.953Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "英國王室2公主驚爆曾密會愛潑斯坦　安德魯前妻還求淫媒：娶我吧",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260217/1100447663410647040061754.jpeg/NZFg5RHAwEK6QbmyyFlAeb9SGG7Tmg0412G_CNdhvwg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60323053/%E8%8B%B1%E5%9C%8B%E7%8E%8B%E5%AE%A42%E5%85%AC%E4%B8%BB%E9%A9%9A%E7%88%86%E6%9B%BE%E5%AF%86%E6%9C%83%E6%84%9B%E6%BD%91%E6%96%AF%E5%9D%A6-%E5%AE%89%E5%BE%B7%E9%AD%AF%E5%89%8D%E5%A6%BB%E9%82%84%E6%B1%82%E6%B7%AB%E5%AA%92-%E5%A8%B6%E6%88%91%E5%90%A7",
-    "timestamp": "2026-02-17T08:06:50.348Z",
     "strategy": ".content-card__main"
   }
 ];
