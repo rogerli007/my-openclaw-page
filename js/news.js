@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-17T08:34:26.953Z
+// Last updated: 2026-02-17T08:59:22.100Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "夜王︱累積票房中午衝破600萬　領先《金多寶》賀歲檔獨領風騷",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260217/1100473022105522176372560.jpeg/qlBjZSqrBJK3pfeMsCbNQBdUGGB1gXV8NfT4OjX0-Do?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60323065/%E5%A4%9C%E7%8E%8B-%E7%B4%AF%E7%A9%8D%E7%A5%A8%E6%88%BF%E4%B8%AD%E5%8D%88%E8%A1%9D%E7%A0%B4600%E8%90%AC-%E9%A0%98%E5%85%88-%E9%87%91%E5%A4%9A%E5%AF%B6-%E8%B3%80%E6%AD%B2%E6%AA%94%E7%8D%A8%E9%A0%98%E9%A2%A8%E9%A8%B7",
+    "timestamp": "2026-02-17T08:59:22.100Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "胡杏兒又一年返圍村上香祭祖　曬豪宅闊落客廳擺年花團年飯勁豐盛",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260217/1100306364254916608645091.jpeg/YXGbl8juES57AhHoNTcySUVMT9mweMwpgx4Yy4MeGMs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60322980/%E5%B9%B4%E5%88%9D%E4%B8%80%E5%A4%A9%E6%B0%A3-%E4%BB%8A%E6%97%A5%E5%88%9D%E6%99%82%E6%9C%89%E5%BE%AE%E9%9B%A8-%E6%B0%A3%E6%BA%AB%E7%A8%8D%E9%99%8D%E6%9C%80%E9%AB%9822%E5%BA%A6-%E6%98%8E%E5%BE%8C%E6%97%A5%E6%97%A9%E4%B8%8A%E6%B8%85%E6%B6%BC",
     "timestamp": "2026-02-16T22:15:36.380Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "魯比奧訪匈牙利：希望歐爾班繼續執政　符合美國利益",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260217/1100262469781164032631095.jpeg/T2KUGjrR08_F_AbX6UCjt4jS2F-t4esYoZXKAqGVygI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60322987/%E9%AD%AF%E6%AF%94%E5%A5%A7%E8%A8%AA%E5%8C%88%E7%89%99%E5%88%A9-%E5%B8%8C%E6%9C%9B%E6%AD%90%E7%88%BE%E7%8F%AD%E7%B9%BC%E7%BA%8C%E5%9F%B7%E6%94%BF-%E7%AC%A6%E5%90%88%E7%BE%8E%E5%9C%8B%E5%88%A9%E7%9B%8A",
-    "timestamp": "2026-02-16T21:51:12.996Z",
     "strategy": ".content-card__main"
   }
 ];
