@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-17T20:52:39.029Z
+// Last updated: 2026-02-17T21:20:45.882Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美軍於東太平洋及加勒比海打擊運毒船　擊斃11人",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260218/1100619601911222272914265.png/Nv4d9bUr_EnSkTGmij6VyvMxI8HklhxyDBJAggwSQII?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60323139/%E7%BE%8E%E8%BB%8D%E6%96%BC%E6%9D%B1%E5%A4%AA%E5%B9%B3%E6%B4%8B%E5%8F%8A%E5%8A%A0%E5%8B%92%E6%AF%94%E6%B5%B7%E6%89%93%E6%93%8A%E9%81%8B%E6%AF%92%E8%88%B9-%E6%93%8A%E6%96%8311%E4%BA%BA",
+    "timestamp": "2026-02-17T21:20:45.882Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "日本國會今舉行首相指名選舉　高市早苗料連任",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260215/1099704464274624512678329.jpeg/NiS8Eqm1-JbPoBo4pl9VX-fRAzI5eRU3CxA5kgsQOZI",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60322614/%E6%9C%89%E7%89%87-%E9%A6%AC%E9%9E%8D%E5%B1%B1%E5%B1%8B%E8%8B%91%E6%B3%B3%E6%B1%A0%E5%A4%A9%E8%8A%B1%E5%80%92%E5%A1%8C-%E7%9B%AE%E6%93%8A%E8%80%85%E9%A9%9A%E5%91%BC-%E7%99%B2%E3%97%8E-%E7%A3%A7%E6%AD%BB%E4%BA%BA%E3%97%8E",
     "timestamp": "2026-02-17T11:51:20.238Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "將軍澳外傭霸地搭帳篷陣持續數年　街坊意見兩極　體諒離鄉別井",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260217/1100496540817952768643287.jpeg/lqWsKYK0tTnw-uOy8BBEvNPSAvqs5ZTAnvdbW573W1s?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60323088/%E5%B0%87%E8%BB%8D%E6%BE%B3%E5%A4%96%E5%82%AD%E9%9C%B8%E5%9C%B0%E6%90%AD%E5%B8%B3%E7%AF%B7%E9%99%A3%E6%8C%81%E7%BA%8C%E6%95%B8%E5%B9%B4-%E8%A1%97%E5%9D%8A%E6%84%8F%E8%A6%8B%E5%85%A9%E6%A5%B5-%E9%AB%94%E8%AB%92%E9%9B%A2%E9%84%89%E5%88%A5%E4%BA%95",
-    "timestamp": "2026-02-17T11:25:51.286Z",
     "strategy": ".content-card__main"
   }
 ];
