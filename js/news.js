@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-17T13:38:33.541Z
+// Last updated: 2026-02-17T14:15:14.369Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "關秀媚揭當年離開TVB主因　有類節目最怕：我直情好似傻咁企喺度",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260217/1100455658257387520625708.jpeg/xp0cIQ1p8u20i3MUYDcVAJNGHH6k4SS59C9DZvQvQ2Y?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60323048/%E9%97%9C%E7%A7%80%E5%AA%9A%E6%8F%AD%E7%95%B6%E5%B9%B4%E9%9B%A2%E9%96%8Btvb%E4%B8%BB%E5%9B%A0-%E6%9C%89%E9%A1%9E%E7%AF%80%E7%9B%AE%E6%9C%80%E6%80%95-%E6%88%91%E7%9B%B4%E6%83%85%E5%A5%BD%E4%BC%BC%E5%82%BB%E5%92%81%E4%BC%81%E5%96%BA%E5%BA%A6",
+    "timestamp": "2026-02-17T14:15:14.369Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "農曆新年｜領展停車場特別時段大多全單加收$10　市民認為不合理",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260217/1100399485328035840461879.jpeg/r9L6bsoNX1KwXXMoLheBb7m2XX7tUSMOy_FdgcvxXYE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60322209/%E6%96%B0%E5%B9%B4%E5%BF%85%E8%A3%9D5%E5%A4%A7partygame-app-%E9%B5%9D%E9%B4%A8%E6%AE%BA%E6%89%8B%E6%A9%9F%E7%89%88%E5%BF%85%E7%8E%A9-%E5%89%8C%E6%BF%80%E9%81%8E%E7%8E%A9%E7%8B%BC%E4%BA%BA%E6%AE%BA",
     "timestamp": "2026-02-17T04:24:09.482Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "新年食太飽？　研究：間歇性斷食減肥　效果未必較傳統節食要好",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260217/1100384844359143424158469.jpeg/SVdXpUnXpKh6FXjXd283Pfm5HwxVsPG6oWoYjKFqGIw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60323010/%E6%96%B0%E5%B9%B4%E9%A3%9F%E5%A4%AA%E9%A3%BD-%E7%A0%94%E7%A9%B6-%E9%96%93%E6%AD%87%E6%80%A7%E6%96%B7%E9%A3%9F%E6%B8%9B%E8%82%A5-%E6%95%88%E6%9E%9C%E6%9C%AA%E5%BF%85%E8%BC%83%E5%82%B3%E7%B5%B1%E7%AF%80%E9%A3%9F%E8%A6%81%E5%A5%BD",
-    "timestamp": "2026-02-17T03:20:57.949Z",
     "strategy": ".content-card__main"
   }
 ];
