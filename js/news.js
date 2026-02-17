@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-17T07:14:44.330Z
+// Last updated: 2026-02-17T07:41:01.563Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "年初一花車巡遊2026｜封路/交通4安排:港鐵加強服務+巴士加班次",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260216/1100116043780591616915308.jpeg/scn6my-5FlXpf9Leb6F4VoMN-aUCLRSPubSE6Lm0hOg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%A3%9F%E7%8E%A9%E8%B2%B7/60322843/%E5%B9%B4%E5%88%9D%E4%B8%80%E8%8A%B1%E8%BB%8A%E5%B7%A1%E9%81%8A2026-%E5%B0%81%E8%B7%AF-%E4%BA%A4%E9%80%9A4%E5%AE%89%E6%8E%92-%E6%B8%AF%E9%90%B5%E5%8A%A0%E5%BC%B7%E6%9C%8D%E5%8B%99-%E5%B7%B4%E5%A3%AB%E5%8A%A0%E7%8F%AD%E6%AC%A1",
+    "timestamp": "2026-02-17T07:41:01.563Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "研究：吃飯3步驟減肥降血糖　專家揭不同年齡進食順序+長者點食好",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20230112/690234110639083520492370.jpeg/dpjhmGDkpe7_3LeU1ydVO6_spQMcHO6W0xbehtMW3oY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60322989/%E5%B9%B4%E5%BB%BF%E4%B9%9D%E6%99%9A%E7%B2%89%E5%B6%BA%E4%BD%8F%E5%AE%85%E9%81%AD%E7%88%86%E7%AB%8A-%E5%A4%B1%E8%BF%9130%E8%90%AC%E5%85%83%E8%B2%A1%E7%89%A9",
     "timestamp": "2026-02-16T21:17:44.903Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "年廿九晚粉嶺住宅遭爆竊　 失近30萬元財物",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20230112/690234110639083520492370.jpeg/dpjhmGDkpe7_3LeU1ydVO6_spQMcHO6W0xbehtMW3oY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60322989/%E5%B9%B4%E5%BB%BF%E4%B9%9D%E6%99%9A%E7%B2%89%E5%B6%BA%E4%BD%8F%E5%AE%85%E9%81%AD%E7%88%86%E7%AB%8A-%E5%A4%B1%E8%BF%9130%E8%90%AC%E5%85%83%E8%B2%A1%E7%89%A9",
-    "timestamp": "2026-02-16T21:00:43.738Z",
     "strategy": ".content-card__main"
   }
 ];
