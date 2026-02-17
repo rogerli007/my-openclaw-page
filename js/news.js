@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-16T23:50:32.347Z
+// Last updated: 2026-02-17T00:45:44.472Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "亞視矚目配角愈來愈瘦雙頰凹陷　與張文慈合影似兩父女令人擔心",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260216/1100163844279373824673420.jpeg/u2lca0TUrGTbc43RG0pf9HnaY75Zk5Gn75AtN--QLTc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60322824/%E4%BA%9E%E8%A6%96%E7%9F%9A%E7%9B%AE%E9%85%8D%E8%A7%92%E6%84%88%E4%BE%86%E6%84%88%E7%98%A6%E9%9B%99%E9%A0%B0%E5%87%B9%E9%99%B7-%E8%88%87%E5%BC%B5%E6%96%87%E6%85%88%E5%90%88%E5%BD%B1%E4%BC%BC%E5%85%A9%E7%88%B6%E5%A5%B3%E4%BB%A4%E4%BA%BA%E6%93%94%E5%BF%83",
+    "timestamp": "2026-02-17T00:45:44.472Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "瑞士稱美俄烏會談將閉門舉行　俄媒：俄烏可能雙邊接觸",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20240805/897155846784421888265410.jpeg/QN9YVAVnd0kSnbvFsZTW1guoWP-Pb4y5UXjCklF4wpI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60322981/%E5%B7%B4%E8%A5%BF%E6%9D%B1%E5%8D%97%E9%83%A8%E5%B7%B4%E5%A3%AB%E7%BF%BB%E5%81%B4-%E8%87%B3%E5%B0%916%E6%AD%BB45%E4%BA%BA%E5%82%B7",
     "timestamp": "2026-02-16T17:24:15.817Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "郭羨妮回憶被指「片場隨處疴」致抑鬱發作　自爆老公25年前已相遇",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250807/1030250136002891776689524.jpeg/WOM_urkju1hJWsM_sHhHXMqBlNBJg67ORlMaZEZTGmQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60322960/%E9%83%AD%E7%BE%A8%E5%A6%AE%E5%9B%9E%E6%86%B6%E8%A2%AB%E6%8C%87-%E7%89%87%E5%A0%B4%E9%9A%A8%E8%99%95%E7%96%B4-%E8%87%B4%E6%8A%91%E9%AC%B1%E7%99%BC%E4%BD%9C-%E8%87%AA%E7%88%86%E8%80%81%E5%85%AC25%E5%B9%B4%E5%89%8D%E5%B7%B2%E7%9B%B8%E9%81%87",
-    "timestamp": "2026-02-16T16:53:34.821Z",
     "strategy": ".content-card__main"
   }
 ];
