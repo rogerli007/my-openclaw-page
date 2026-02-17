@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-17T12:25:13.800Z
+// Last updated: 2026-02-17T12:54:46.163Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美伊重啟核談判　伊朗向霍爾木茲海峽發射多枚導彈　部分區域關閉",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260204/1095674988431675392051439.jpeg/7oOjFXnfwrSuqaaOd1A6ZLeB9A-KizxSvg838r4PN_I?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60323111/%E7%BE%8E%E4%BC%8A%E9%87%8D%E5%95%9F%E6%A0%B8%E8%AB%87%E5%88%A4-%E4%BC%8A%E6%9C%97%E5%90%91%E9%9C%8D%E7%88%BE%E6%9C%A8%E8%8C%B2%E6%B5%B7%E5%B3%BD%E7%99%BC%E5%B0%84%E5%A4%9A%E6%9E%9A%E5%B0%8E%E5%BD%88-%E9%83%A8%E5%88%86%E5%8D%80%E5%9F%9F%E9%97%9C%E9%96%89",
+    "timestamp": "2026-02-17T12:54:46.163Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "農曆新年｜利東邨女保安孖咇收利市疑「即拆」　這事更令街坊不滿",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260210/1097905170685104128824597.jpeg/OvZjRE5eIuX1SjK5Jlc6hfgC-MpGEFu3ZTAmUWUwJlE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/60319188/%E7%94%B7%E6%80%A7%E5%81%A5%E5%BA%B7-%E6%96%B0%E5%A9%9A%E7%94%B71%E5%88%86%E9%90%98%E5%B0%B1%E7%B9%B3%E6%A2%B0-%E9%86%AB%E6%8F%AD%E7%94%B7%E6%80%A7%E6%9B%B4%E5%B9%B4%E6%9C%9F5%E7%97%87%E7%8B%80%E5%8F%8A%E6%AA%A2%E6%B8%AC%E6%A8%99%E6%BA%96",
     "timestamp": "2026-02-17T02:07:21.204Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "親戚派$XXXX利是！台男拆開嫌錢少狂酸：好丟臉　怒退回後續超狂",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260216/1100104502628847616035264.jpeg/lfp06rZ-ZNgnSpqGgMyuevGP4K_t8J7TkHfADpB3wA4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60322849/%E8%A6%AA%E6%88%9A%E6%B4%BE-xxxx%E5%88%A9%E6%98%AF-%E5%8F%B0%E7%94%B7%E6%8B%86%E9%96%8B%E5%AB%8C%E9%8C%A2%E5%B0%91%E7%8B%82%E9%85%B8-%E5%A5%BD%E4%B8%9F%E8%87%89-%E6%80%92%E9%80%80%E5%9B%9E%E5%BE%8C%E7%BA%8C%E8%B6%85%E7%8B%82",
-    "timestamp": "2026-02-17T01:19:03.786Z",
     "strategy": ".content-card__main"
   }
 ];
