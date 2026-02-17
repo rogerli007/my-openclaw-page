@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-17T11:51:20.238Z
+// Last updated: 2026-02-17T12:25:13.800Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "農曆新年｜利東邨女保安孖咇收利市疑「即拆」　這事更令街坊不滿",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260217/1100507870027321344254130.png/fntC1HArj31pQxnANPwWWmllrk13iOcvmPt0epj7dHo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60323084/%E8%BE%B2%E6%9B%86%E6%96%B0%E5%B9%B4-%E5%88%A9%E6%9D%B1%E9%82%A8%E5%A5%B3%E4%BF%9D%E5%AE%89%E5%AD%96%E5%92%87%E6%94%B6%E5%88%A9%E5%B8%82%E7%96%91-%E5%8D%B3%E6%8B%86-%E9%80%99%E4%BA%8B%E6%9B%B4%E4%BB%A4%E8%A1%97%E5%9D%8A%E4%B8%8D%E6%BB%BF",
+    "timestamp": "2026-02-17T12:25:13.800Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "有片｜馬鞍山屋苑泳池天花倒塌　目擊者驚呼：癲㗎，磧死人㗎",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260216/1100104502628847616035264.jpeg/lfp06rZ-ZNgnSpqGgMyuevGP4K_t8J7TkHfADpB3wA4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60322849/%E8%A6%AA%E6%88%9A%E6%B4%BE-xxxx%E5%88%A9%E6%98%AF-%E5%8F%B0%E7%94%B7%E6%8B%86%E9%96%8B%E5%AB%8C%E9%8C%A2%E5%B0%91%E7%8B%82%E9%85%B8-%E5%A5%BD%E4%B8%9F%E8%87%89-%E6%80%92%E9%80%80%E5%9B%9E%E5%BE%8C%E7%BA%8C%E8%B6%85%E7%8B%82",
     "timestamp": "2026-02-17T01:19:03.786Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "亞視矚目配角愈來愈瘦雙頰凹陷　與張文慈合影似兩父女令人擔心",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260216/1100163844279373824673420.jpeg/u2lca0TUrGTbc43RG0pf9HnaY75Zk5Gn75AtN--QLTc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60322824/%E4%BA%9E%E8%A6%96%E7%9F%9A%E7%9B%AE%E9%85%8D%E8%A7%92%E6%84%88%E4%BE%86%E6%84%88%E7%98%A6%E9%9B%99%E9%A0%B0%E5%87%B9%E9%99%B7-%E8%88%87%E5%BC%B5%E6%96%87%E6%85%88%E5%90%88%E5%BD%B1%E4%BC%BC%E5%85%A9%E7%88%B6%E5%A5%B3%E4%BB%A4%E4%BA%BA%E6%93%94%E5%BF%83",
-    "timestamp": "2026-02-17T00:45:44.472Z",
     "strategy": ".content-card__main"
   }
 ];
