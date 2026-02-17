@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-17T11:25:51.286Z
+// Last updated: 2026-02-17T11:51:20.238Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "有片｜馬鞍山屋苑泳池天花倒塌　目擊者驚呼：癲㗎，磧死人㗎",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260215/1099704464274624512678329.jpeg/NiS8Eqm1-JbPoBo4pl9VX-fRAzI5eRU3CxA5kgsQOZI",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60322614/%E6%9C%89%E7%89%87-%E9%A6%AC%E9%9E%8D%E5%B1%B1%E5%B1%8B%E8%8B%91%E6%B3%B3%E6%B1%A0%E5%A4%A9%E8%8A%B1%E5%80%92%E5%A1%8C-%E7%9B%AE%E6%93%8A%E8%80%85%E9%A9%9A%E5%91%BC-%E7%99%B2%E3%97%8E-%E7%A3%A7%E6%AD%BB%E4%BA%BA%E3%97%8E",
+    "timestamp": "2026-02-17T11:51:20.238Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "將軍澳外傭霸地搭帳篷陣持續數年　街坊意見兩極　體諒離鄉別井",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260216/1100163844279373824673420.jpeg/u2lca0TUrGTbc43RG0pf9HnaY75Zk5Gn75AtN--QLTc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60322824/%E4%BA%9E%E8%A6%96%E7%9F%9A%E7%9B%AE%E9%85%8D%E8%A7%92%E6%84%88%E4%BE%86%E6%84%88%E7%98%A6%E9%9B%99%E9%A0%B0%E5%87%B9%E9%99%B7-%E8%88%87%E5%BC%B5%E6%96%87%E6%85%88%E5%90%88%E5%BD%B1%E4%BC%BC%E5%85%A9%E7%88%B6%E5%A5%B3%E4%BB%A4%E4%BA%BA%E6%93%94%E5%BF%83",
     "timestamp": "2026-02-17T00:45:44.472Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "瑞士稱美俄烏會談將閉門舉行　俄媒：俄烏可能雙邊接觸",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260205/1095958911174840320208354.jpeg/WxVMQi7GmXDfF0PYJw6xT138ZFACraklKvUeByr1Hgc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60322992/%E7%91%9E%E5%A3%AB%E7%A8%B1%E7%BE%8E%E4%BF%84%E7%83%8F%E6%9C%83%E8%AB%87%E5%B0%87%E9%96%89%E9%96%80%E8%88%89%E8%A1%8C-%E4%BF%84%E5%AA%92-%E4%BF%84%E7%83%8F%E5%8F%AF%E8%83%BD%E9%9B%99%E9%82%8A%E6%8E%A5%E8%A7%B8",
-    "timestamp": "2026-02-16T23:50:32.347Z",
     "strategy": ".content-card__main"
   }
 ];
