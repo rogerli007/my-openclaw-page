@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-17T10:54:00.851Z
+// Last updated: 2026-02-17T11:25:51.286Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "將軍澳外傭霸地搭帳篷陣持續數年　街坊意見兩極　體諒離鄉別井",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260217/1100496540817952768643287.jpeg/lqWsKYK0tTnw-uOy8BBEvNPSAvqs5ZTAnvdbW573W1s?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60323088/%E5%B0%87%E8%BB%8D%E6%BE%B3%E5%A4%96%E5%82%AD%E9%9C%B8%E5%9C%B0%E6%90%AD%E5%B8%B3%E7%AF%B7%E9%99%A3%E6%8C%81%E7%BA%8C%E6%95%B8%E5%B9%B4-%E8%A1%97%E5%9D%8A%E6%84%8F%E8%A6%8B%E5%85%A9%E6%A5%B5-%E9%AB%94%E8%AB%92%E9%9B%A2%E9%84%89%E5%88%A5%E4%BA%95",
+    "timestamp": "2026-02-17T11:25:51.286Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "馬年2026│著紅色衫反是凶？專家教穿這4色開運　附｢發財油｣招財術",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260205/1095958911174840320208354.jpeg/WxVMQi7GmXDfF0PYJw6xT138ZFACraklKvUeByr1Hgc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60322992/%E7%91%9E%E5%A3%AB%E7%A8%B1%E7%BE%8E%E4%BF%84%E7%83%8F%E6%9C%83%E8%AB%87%E5%B0%87%E9%96%89%E9%96%80%E8%88%89%E8%A1%8C-%E4%BF%84%E5%AA%92-%E4%BF%84%E7%83%8F%E5%8F%AF%E8%83%BD%E9%9B%99%E9%82%8A%E6%8E%A5%E8%A7%B8",
     "timestamp": "2026-02-16T23:50:32.347Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "兒孫滿堂變噩夢！公公派利是派到「眼神死」瘋傳　終下令咁做絕了",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260216/1100089240269623296017856.jpeg/bQLKCqfGmnBfS54EzaklpKkkG9XkF721eN3oM3jd6DM",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60322875/%E5%85%92%E5%AD%AB%E6%BB%BF%E5%A0%82%E8%AE%8A%E5%99%A9%E5%A4%A2-%E5%85%AC%E5%85%AC%E6%B4%BE%E5%88%A9%E6%98%AF%E6%B4%BE%E5%88%B0-%E7%9C%BC%E7%A5%9E%E6%AD%BB-%E7%98%8B%E5%82%B3-%E7%B5%82%E4%B8%8B%E4%BB%A4%E5%92%81%E5%81%9A%E7%B5%95%E4%BA%86",
-    "timestamp": "2026-02-16T23:33:30.792Z",
     "strategy": ".content-card__main"
   }
 ];
