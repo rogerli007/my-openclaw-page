@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-17T19:14:24.395Z
+// Last updated: 2026-02-17T19:40:30.378Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "將軍澳健明邨健華樓懷疑洩漏不明氣體　全幢樓緊急疏散",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260218/1100632094847012864963058.jpeg/MqCMu34jKNuJnYT7bqOvcEQ3rzJvGR-3pd6VRoDelUY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60323141/%E5%B0%87%E8%BB%8D%E6%BE%B3%E5%81%A5%E6%98%8E%E9%82%A8%E5%81%A5%E8%8F%AF%E6%A8%93%E6%87%B7%E7%96%91%E6%B4%A9%E6%BC%8F%E4%B8%8D%E6%98%8E%E6%B0%A3%E9%AB%94-%E5%85%A8%E5%B9%A2%E6%A8%93%E7%B7%8A%E6%80%A5%E7%96%8F%E6%95%A3",
+    "timestamp": "2026-02-17T19:40:30.378Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "土瓜灣電單車起火掀烈焰　鐵騎士及時逃生　消防迅即救熄│有片",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20231203/807861251739750400617908.jpeg/KHmn2O6Vn83Qun4EwTeHKaRG3p4vIN7EzwKNdM8CjXQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60323092/%E9%BB%91%E4%BA%BA%E6%B0%91%E6%AC%8A%E9%A0%98%E8%A2%96jesse-jackson%E9%80%9D%E4%B8%96-%E7%B5%82%E5%B9%B484%E6%AD%B2",
     "timestamp": "2026-02-17T09:54:09.896Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "農曆新年．年初一花車巡遊｜今晚8時尖沙咀　看12部花車46隊演出",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260213/1098979637179977728541973.jpeg/DDjNDhwpH5JnkVYEwfSZncjlF7_J2Xai2jj7K_M4-ys?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60323078/%E8%BE%B2%E6%9B%86%E6%96%B0%E5%B9%B4-%E5%B9%B4%E5%88%9D%E4%B8%80%E8%8A%B1%E8%BB%8A%E5%B7%A1%E9%81%8A-%E4%BB%8A%E6%99%9A8%E6%99%82%E5%B0%96%E6%B2%99%E5%92%80-%E7%9C%8B12%E9%83%A8%E8%8A%B1%E8%BB%8A46%E9%9A%8A%E6%BC%94%E5%87%BA",
-    "timestamp": "2026-02-17T09:27:46.514Z",
     "strategy": ".content-card__main"
   }
 ];
