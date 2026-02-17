@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-17T08:59:22.100Z
+// Last updated: 2026-02-17T09:27:46.514Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "農曆新年．年初一花車巡遊｜今晚8時尖沙咀　看12部花車46隊演出",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260213/1098979637179977728541973.jpeg/DDjNDhwpH5JnkVYEwfSZncjlF7_J2Xai2jj7K_M4-ys?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60323078/%E8%BE%B2%E6%9B%86%E6%96%B0%E5%B9%B4-%E5%B9%B4%E5%88%9D%E4%B8%80%E8%8A%B1%E8%BB%8A%E5%B7%A1%E9%81%8A-%E4%BB%8A%E6%99%9A8%E6%99%82%E5%B0%96%E6%B2%99%E5%92%80-%E7%9C%8B12%E9%83%A8%E8%8A%B1%E8%BB%8A46%E9%9A%8A%E6%BC%94%E5%87%BA",
+    "timestamp": "2026-02-17T09:27:46.514Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "夜王︱累積票房中午衝破600萬　領先《金多寶》賀歲檔獨領風騷",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260217/1100306364254916608645091.jpeg/YXGbl8juES57AhHoNTcySUVMT9mweMwpgx4Yy4MeGMs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60322980/%E5%B9%B4%E5%88%9D%E4%B8%80%E5%A4%A9%E6%B0%A3-%E4%BB%8A%E6%97%A5%E5%88%9D%E6%99%82%E6%9C%89%E5%BE%AE%E9%9B%A8-%E6%B0%A3%E6%BA%AB%E7%A8%8D%E9%99%8D%E6%9C%80%E9%AB%9822%E5%BA%A6-%E6%98%8E%E5%BE%8C%E6%97%A5%E6%97%A9%E4%B8%8A%E6%B8%85%E6%B6%BC",
     "timestamp": "2026-02-16T22:32:23.217Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "年初一天氣｜今日初時有微雨　氣溫稍降最高22度　明後日早上清涼",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260217/1100306364254916608645091.jpeg/YXGbl8juES57AhHoNTcySUVMT9mweMwpgx4Yy4MeGMs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60322980/%E5%B9%B4%E5%88%9D%E4%B8%80%E5%A4%A9%E6%B0%A3-%E4%BB%8A%E6%97%A5%E5%88%9D%E6%99%82%E6%9C%89%E5%BE%AE%E9%9B%A8-%E6%B0%A3%E6%BA%AB%E7%A8%8D%E9%99%8D%E6%9C%80%E9%AB%9822%E5%BA%A6-%E6%98%8E%E5%BE%8C%E6%97%A5%E6%97%A9%E4%B8%8A%E6%B8%85%E6%B6%BC",
-    "timestamp": "2026-02-16T22:15:36.380Z",
     "strategy": ".content-card__main"
   }
 ];
