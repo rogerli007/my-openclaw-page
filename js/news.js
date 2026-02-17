@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-17T12:54:46.163Z
+// Last updated: 2026-02-17T13:38:33.541Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "農曆新年｜領展停車場特別時段大多全單加收$10　市民認為不合理",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260217/1100476457278246912625089.png/nYR4YbFlEtBpIgCL9lwpf2LL4jMUGpZFwm3T3MJt09w?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60323074/%E8%BE%B2%E6%9B%86%E6%96%B0%E5%B9%B4-%E9%A0%98%E5%B1%95%E5%81%9C%E8%BB%8A%E5%A0%B4%E7%89%B9%E5%88%A5%E6%99%82%E6%AE%B5%E5%A4%A7%E5%A4%9A%E5%85%A8%E5%96%AE%E5%8A%A0%E6%94%B6-10-%E5%B8%82%E6%B0%91%E8%AA%8D%E7%82%BA%E4%B8%8D%E5%90%88%E7%90%86",
+    "timestamp": "2026-02-17T13:38:33.541Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美伊重啟核談判　伊朗向霍爾木茲海峽發射多枚導彈　部分區域關閉",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260217/1100384844359143424158469.jpeg/SVdXpUnXpKh6FXjXd283Pfm5HwxVsPG6oWoYjKFqGIw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60323010/%E6%96%B0%E5%B9%B4%E9%A3%9F%E5%A4%AA%E9%A3%BD-%E7%A0%94%E7%A9%B6-%E9%96%93%E6%AD%87%E6%80%A7%E6%96%B7%E9%A3%9F%E6%B8%9B%E8%82%A5-%E6%95%88%E6%9E%9C%E6%9C%AA%E5%BF%85%E8%BC%83%E5%82%B3%E7%B5%B1%E7%AF%80%E9%A3%9F%E8%A6%81%E5%A5%BD",
     "timestamp": "2026-02-17T03:20:57.949Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "男性健康｜新婚男1分鐘就繳械？醫揭男性更年期5症狀及檢測標準",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260210/1097905170685104128824597.jpeg/OvZjRE5eIuX1SjK5Jlc6hfgC-MpGEFu3ZTAmUWUwJlE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/60319188/%E7%94%B7%E6%80%A7%E5%81%A5%E5%BA%B7-%E6%96%B0%E5%A9%9A%E7%94%B71%E5%88%86%E9%90%98%E5%B0%B1%E7%B9%B3%E6%A2%B0-%E9%86%AB%E6%8F%AD%E7%94%B7%E6%80%A7%E6%9B%B4%E5%B9%B4%E6%9C%9F5%E7%97%87%E7%8B%80%E5%8F%8A%E6%AA%A2%E6%B8%AC%E6%A8%99%E6%BA%96",
-    "timestamp": "2026-02-17T02:07:21.204Z",
     "strategy": ".content-card__main"
   }
 ];
