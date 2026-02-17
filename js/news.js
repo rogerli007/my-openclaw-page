@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-17T22:34:12.765Z
+// Last updated: 2026-02-17T22:54:59.621Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "年初二天氣｜賀歲煙花將上演　天文台料大致多雲　早上清涼約17度",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260218/1100673126108368896236501.jpeg/y5Bk_Iqk5eQOT6X_eqGnR1HtqJs1z-joQCrPQ0Aqz0M?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60323140/%E5%B9%B4%E5%88%9D%E4%BA%8C%E5%A4%A9%E6%B0%A3-%E8%B3%80%E6%AD%B2%E7%85%99%E8%8A%B1%E5%B0%87%E4%B8%8A%E6%BC%94-%E5%A4%A9%E6%96%87%E5%8F%B0%E6%96%99%E5%A4%A7%E8%87%B4%E5%A4%9A%E9%9B%B2-%E6%97%A9%E4%B8%8A%E6%B8%85%E6%B6%BC%E7%B4%8417%E5%BA%A6",
+    "timestamp": "2026-02-17T22:54:59.621Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "年初二天氣｜賀歲煙花將上演　天文台料大致多雲　早上清涼約17度",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260217/1100455658257387520625708.jpeg/xp0cIQ1p8u20i3MUYDcVAJNGHH6k4SS59C9DZvQvQ2Y?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60323048/%E9%97%9C%E7%A7%80%E5%AA%9A%E6%8F%AD%E7%95%B6%E5%B9%B4%E9%9B%A2%E9%96%8Btvb%E4%B8%BB%E5%9B%A0-%E6%9C%89%E9%A1%9E%E7%AF%80%E7%9B%AE%E6%9C%80%E6%80%95-%E6%88%91%E7%9B%B4%E6%83%85%E5%A5%BD%E4%BC%BC%E5%82%BB%E5%92%81%E4%BC%81%E5%96%BA%E5%BA%A6",
     "timestamp": "2026-02-17T14:15:14.369Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "農曆新年｜領展停車場特別時段大多全單加收$10　市民認為不合理",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260217/1100476457278246912625089.png/nYR4YbFlEtBpIgCL9lwpf2LL4jMUGpZFwm3T3MJt09w?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60323074/%E8%BE%B2%E6%9B%86%E6%96%B0%E5%B9%B4-%E9%A0%98%E5%B1%95%E5%81%9C%E8%BB%8A%E5%A0%B4%E7%89%B9%E5%88%A5%E6%99%82%E6%AE%B5%E5%A4%A7%E5%A4%9A%E5%85%A8%E5%96%AE%E5%8A%A0%E6%94%B6-10-%E5%B8%82%E6%B0%91%E8%AA%8D%E7%82%BA%E4%B8%8D%E5%90%88%E7%90%86",
-    "timestamp": "2026-02-17T13:38:33.541Z",
     "strategy": ".content-card__main"
   }
 ];
