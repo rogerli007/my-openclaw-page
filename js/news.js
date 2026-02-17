@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-17T01:19:03.786Z
+// Last updated: 2026-02-17T02:07:21.204Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "男性健康｜新婚男1分鐘就繳械？醫揭男性更年期5症狀及檢測標準",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260210/1097905170685104128824597.jpeg/OvZjRE5eIuX1SjK5Jlc6hfgC-MpGEFu3ZTAmUWUwJlE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/60319188/%E7%94%B7%E6%80%A7%E5%81%A5%E5%BA%B7-%E6%96%B0%E5%A9%9A%E7%94%B71%E5%88%86%E9%90%98%E5%B0%B1%E7%B9%B3%E6%A2%B0-%E9%86%AB%E6%8F%AD%E7%94%B7%E6%80%A7%E6%9B%B4%E5%B9%B4%E6%9C%9F5%E7%97%87%E7%8B%80%E5%8F%8A%E6%AA%A2%E6%B8%AC%E6%A8%99%E6%BA%96",
+    "timestamp": "2026-02-17T02:07:21.204Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "親戚派$XXXX利是！台男拆開嫌錢少狂酸：好丟臉　怒退回後續超狂",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260217/1100245552202780672831067.jpeg/1iEUJrlgj0x2870Ir22wQEB0G9oXud5HCjip5Qo4qeU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60322983/%E8%88%87%E7%BE%8E%E6%A0%B8%E8%AB%87%E5%88%A4%E5%89%8D%E5%A4%95-%E4%BC%8A%E6%9C%97%E5%A4%96%E9%95%B7%E6%99%A4%E9%98%BF%E6%9B%BC%E5%A4%96%E9%95%B7%E5%8F%8Aiaea%E7%B8%BD%E5%B9%B9%E4%BA%8B",
     "timestamp": "2026-02-16T18:23:24.668Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "巴西東南部巴士翻側　至少6死45人傷",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20240805/897155846784421888265410.jpeg/QN9YVAVnd0kSnbvFsZTW1guoWP-Pb4y5UXjCklF4wpI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60322981/%E5%B7%B4%E8%A5%BF%E6%9D%B1%E5%8D%97%E9%83%A8%E5%B7%B4%E5%A3%AB%E7%BF%BB%E5%81%B4-%E8%87%B3%E5%B0%916%E6%AD%BB45%E4%BA%BA%E5%82%B7",
-    "timestamp": "2026-02-16T17:51:53.843Z",
     "strategy": ".content-card__main"
   }
 ];
