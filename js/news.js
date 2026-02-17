@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-17T21:53:38.898Z
+// Last updated: 2026-02-17T22:16:54.098Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "樓市勢起風雲！汪總提供小陽春攻略！｜汪敦敬",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260216/1100104804576792576835741.jpeg/qfeKFnmAGCIJKdX-rj6xT75aYFAki3AdlqW0KZaltCk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60322879/%E6%A8%93%E5%B8%82%E5%8B%A2%E8%B5%B7%E9%A2%A8%E9%9B%B2-%E6%B1%AA%E7%B8%BD%E6%8F%90%E4%BE%9B%E5%B0%8F%E9%99%BD%E6%98%A5%E6%94%BB%E7%95%A5-%E6%B1%AA%E6%95%A6%E6%95%AC",
+    "timestamp": "2026-02-17T22:16:54.098Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "特朗普稱日本履行貿易協議　對美首批投資涵蓋3大項目",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260204/1095674988431675392051439.jpeg/7oOjFXnfwrSuqaaOd1A6ZLeB9A-KizxSvg838r4PN_I?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60323111/%E7%BE%8E%E4%BC%8A%E9%87%8D%E5%95%9F%E6%A0%B8%E8%AB%87%E5%88%A4-%E4%BC%8A%E6%9C%97%E5%90%91%E9%9C%8D%E7%88%BE%E6%9C%A8%E8%8C%B2%E6%B5%B7%E5%B3%BD%E7%99%BC%E5%B0%84%E5%A4%9A%E6%9E%9A%E5%B0%8E%E5%BD%88-%E9%83%A8%E5%88%86%E5%8D%80%E5%9F%9F%E9%97%9C%E9%96%89",
     "timestamp": "2026-02-17T12:54:46.163Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "農曆新年｜利東邨女保安孖咇收利市疑「即拆」　這事更令街坊不滿",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260217/1100507870027321344254130.png/fntC1HArj31pQxnANPwWWmllrk13iOcvmPt0epj7dHo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60323084/%E8%BE%B2%E6%9B%86%E6%96%B0%E5%B9%B4-%E5%88%A9%E6%9D%B1%E9%82%A8%E5%A5%B3%E4%BF%9D%E5%AE%89%E5%AD%96%E5%92%87%E6%94%B6%E5%88%A9%E5%B8%82%E7%96%91-%E5%8D%B3%E6%8B%86-%E9%80%99%E4%BA%8B%E6%9B%B4%E4%BB%A4%E8%A1%97%E5%9D%8A%E4%B8%8D%E6%BB%BF",
-    "timestamp": "2026-02-17T12:25:13.800Z",
     "strategy": ".content-card__main"
   }
 ];
