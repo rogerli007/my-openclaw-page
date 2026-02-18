@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-18T23:19:24.107Z
+// Last updated: 2026-02-18T23:37:14.077Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "加州雪崩釀8死1失蹤　美國逾40年來最慘重",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260219/1101011228995620864731846.jpeg/058l6WDDEOUolOUmagsRv83t2xuAlleG08I169PCNes?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60323337/%E5%8A%A0%E5%B7%9E%E9%9B%AA%E5%B4%A9%E9%87%808%E6%AD%BB1%E5%A4%B1%E8%B9%A4-%E7%BE%8E%E5%9C%8B%E9%80%BE40%E5%B9%B4%E4%BE%86%E6%9C%80%E6%85%98%E9%87%8D",
+    "timestamp": "2026-02-18T23:37:14.077Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "女生重回校園半工讀收入跌！給父母利市縮水　網民教1招表孝心",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260217/1100406155701653504106279.jpeg/oiMWZkJgjx5-9sOinlKdVYRItRnMb2JqxprrzMaa68w?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60323305/%E7%BE%8E%E5%9C%8B%E5%B0%81%E9%8E%96%E7%9F%B3%E6%B2%B9%E9%80%B2%E5%85%A5%E5%8F%A4%E5%B7%B4-%E7%BE%8E%E5%AA%92-%E9%AD%AF%E6%AF%94%E5%A5%A7%E8%88%87%E5%8B%9E%E7%88%BE%E5%8D%A1%E6%96%AF%E7%89%B9%E7%BE%85%E5%AD%AB%E5%85%92%E7%A7%98%E5%AF%86%E7%A3%8B%E5%95%86",
     "timestamp": "2026-02-18T15:09:24.158Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "英國海灘現50年前加拿大垃圾　環保人士嘆「一發不可收拾」",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260218/1100919303361794048307891.jpeg/qFnXnyUknttbmuD76HZmwS0yv48iAVi9GxGR2xsRkds?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60323309/%E8%8B%B1%E5%9C%8B%E6%B5%B7%E7%81%98%E7%8F%BE50%E5%B9%B4%E5%89%8D%E5%8A%A0%E6%8B%BF%E5%A4%A7%E5%9E%83%E5%9C%BE-%E7%92%B0%E4%BF%9D%E4%BA%BA%E5%A3%AB%E5%98%86-%E4%B8%80%E7%99%BC%E4%B8%8D%E5%8F%AF%E6%94%B6%E6%8B%BE",
-    "timestamp": "2026-02-18T14:38:02.038Z",
     "strategy": ".content-card__main"
   }
 ];
