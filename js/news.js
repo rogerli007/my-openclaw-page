@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-18T18:37:15.333Z
+// Last updated: 2026-02-18T19:13:39.264Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美媒：美以或短期內大規模攻擊伊朗　以色列加緊軍事準備",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260204/1095674988431675392051439.jpeg/7oOjFXnfwrSuqaaOd1A6ZLeB9A-KizxSvg838r4PN_I?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60323327/%E7%BE%8E%E5%AA%92-%E7%BE%8E%E4%BB%A5%E6%88%96%E7%9F%AD%E6%9C%9F%E5%85%A7%E5%A4%A7%E8%A6%8F%E6%A8%A1%E6%94%BB%E6%93%8A%E4%BC%8A%E6%9C%97-%E4%BB%A5%E8%89%B2%E5%88%97%E5%8A%A0%E7%B7%8A%E8%BB%8D%E4%BA%8B%E6%BA%96%E5%82%99",
+    "timestamp": "2026-02-18T19:13:39.264Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美媒：美以或短期內大規模攻擊伊朗　以色列加緊軍事準備",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260218/1100839213378572288092714.png/m9TnudNNg2j-BRAsbThgcBVbSZkJYXzl77fsiu-37Io?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60323219/%E5%A4%A7%E5%9F%94%E6%9E%97%E6%9D%91%E8%A8%B1%E9%A1%98%E6%A8%B9-%E6%96%B0%E5%B9%B4%E6%B3%8A%E8%BB%8A%E6%AF%8F%E5%B0%8F%E6%99%82-100%E6%98%AF%E6%B0%B4%E9%AD%9A%E5%83%B9-%E7%B6%B2%E6%B0%91%E6%95%991%E6%8B%9B%E5%B9%B3%E5%8F%88%E5%BF%AB",
     "timestamp": "2026-02-18T09:27:16.537Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "港隊主帥韋斯活受批後離任　羅淑佩自我檢討：會避免政治干預誤解",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260218/1100826457589944320567109.jpeg/ERj-ijNCsylZz6cYbGHPIvZ6mQ0bYRbf7HsDwOx7A8A?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60323257/%E6%B8%AF%E9%9A%8A%E4%B8%BB%E5%B8%A5%E9%9F%8B%E6%96%AF%E6%B4%BB%E5%8F%97%E6%89%B9%E5%BE%8C%E9%9B%A2%E4%BB%BB-%E7%BE%85%E6%B7%91%E4%BD%A9%E8%87%AA%E6%88%91%E6%AA%A2%E8%A8%8E-%E6%9C%83%E9%81%BF%E5%85%8D%E6%94%BF%E6%B2%BB%E5%B9%B2%E9%A0%90%E8%AA%A4%E8%A7%A3",
-    "timestamp": "2026-02-18T08:59:20.482Z",
     "strategy": ".content-card__main"
   }
 ];
