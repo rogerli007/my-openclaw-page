@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-18T19:39:52.510Z
+// Last updated: 2026-02-18T20:04:57.333Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "歐聯附加賽首回合｜紐卡素作客6：1卡拉巴克　安東尼哥頓大四喜",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260219/1100997289364951040218096.jpeg/XTlo_j4--3KPPUBqZBL4D4NTud_KO3dIl6BHb5egR28?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60323332/%E6%AD%90%E8%81%AF%E9%99%84%E5%8A%A0%E8%B3%BD%E9%A6%96%E5%9B%9E%E5%90%88-%E7%B4%90%E5%8D%A1%E7%B4%A0%E4%BD%9C%E5%AE%A26-1%E5%8D%A1%E6%8B%89%E5%B7%B4%E5%85%8B-%E5%AE%89%E6%9D%B1%E5%B0%BC%E5%93%A5%E9%A0%93%E5%A4%A7%E5%9B%9B%E5%96%9C",
+    "timestamp": "2026-02-18T20:04:57.333Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "土瓜灣家貓被困屋外危險位置　63歲男救貓墮樓送院不治",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260218/1100848076064559104218437.png/bow49bRRFFe9YJp9Zkhz-ZmmoghvMdb49uFeGPbhXhg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60323269/%E6%97%A5%E6%9C%AC%E6%93%9A%E5%A0%B14%E6%9C%88%E8%B5%B7%E7%A6%81%E4%B9%98%E5%AE%A2%E5%9C%A8%E9%A3%9B%E6%A9%9F%E5%85%A7%E4%BD%BF%E7%94%A8-%E5%B0%BF%E8%A2%8B-%E6%87%89%E5%B0%8D%E9%9B%BB%E6%B1%A0%E8%B5%B7%E7%81%AB%E4%BA%8B%E4%BB%B6",
     "timestamp": "2026-02-18T10:26:46.104Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "巨蟹座男性格13大特質｜巨蟹男喜歡一個人的徵兆/好感暗示有這些",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20251222/1079796498729799680625018.png/VUL_ct_Zv8o_Xl0dloc9TUVzrAuOzvCgqY5sQamObEE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%AB%87%E6%83%85%E8%AA%AA%E6%80%A7/60307649/%E5%B7%A8%E8%9F%B9%E5%BA%A7%E7%94%B7%E6%80%A7%E6%A0%BC13%E5%A4%A7%E7%89%B9%E8%B3%AA-%E5%B7%A8%E8%9F%B9%E7%94%B7%E5%96%9C%E6%AD%A1%E4%B8%80%E5%80%8B%E4%BA%BA%E7%9A%84%E5%BE%B5%E5%85%86-%E5%A5%BD%E6%84%9F%E6%9A%97%E7%A4%BA%E6%9C%89%E9%80%99%E4%BA%9B",
-    "timestamp": "2026-02-18T09:53:47.491Z",
     "strategy": ".content-card__main"
   }
 ];
