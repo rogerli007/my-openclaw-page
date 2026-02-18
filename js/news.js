@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-18T07:14:53.586Z
+// Last updated: 2026-02-18T07:41:23.959Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "TVB力捧男星袋大疊利市封隨街豪派銀紙　巨型客廳狂派錢畀埋老婆",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260218/1100779979270000640236978.png/NNVbZ8WZ2aw3iMjcBjdRTbnsLtO_LuJOTLYlpEy2JaQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60323194/bob%E6%9E%97%E7%9B%9B%E6%96%8C%E8%A2%8B%E5%A4%A7%E7%96%8A%E5%88%A9%E5%B8%82%E5%B0%81%E9%9A%A8%E8%A1%97%E8%B1%AA%E6%B4%BE%E9%8A%80%E7%B4%99-%E5%B7%A8%E5%9E%8B%E5%AE%A2%E5%BB%B3%E7%8B%82%E6%B4%BE%E9%8C%A2%E7%95%80%E5%9F%8B%E8%80%81%E5%A9%86",
+    "timestamp": "2026-02-18T07:41:23.959Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "新年小食｜營養師6招穩血糖吃零食3原則食住瘦！朱古力+1物減焦慮",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260213/1099035045319938048934026.jpeg/isvh0pJAk8SGXF0ZdP0n-lQVyABRs5YFXYwCel2MAno?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60323142/%E6%97%A5%E6%9C%AC%E5%9C%8B%E6%9C%83%E4%BB%8A%E8%88%89%E8%A1%8C%E9%A6%96%E7%9B%B8%E6%8C%87%E5%90%8D%E9%81%B8%E8%88%89-%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E6%96%99%E9%80%A3%E4%BB%BB",
     "timestamp": "2026-02-17T20:52:39.029Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "將軍澳健華樓疑漏氣　全幢樓緊急疏散　消防爆門證炆牛肉煲乾水",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260218/1100645650397138944978061.jpeg/AOgDFYc4SkLP8YUXTSSXxHh6-IpOETYox_nWtcf51rU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60323141/%E5%B0%87%E8%BB%8D%E6%BE%B3%E5%81%A5%E8%8F%AF%E6%A8%93%E7%96%91%E6%BC%8F%E6%B0%A3-%E5%85%A8%E5%B9%A2%E6%A8%93%E7%B7%8A%E6%80%A5%E7%96%8F%E6%95%A3-%E6%B6%88%E9%98%B2%E7%88%86%E9%96%80%E8%AD%89%E7%82%86%E7%89%9B%E8%82%89%E7%85%B2%E4%B9%BE%E6%B0%B4",
-    "timestamp": "2026-02-17T20:23:57.864Z",
     "strategy": ".content-card__main"
   }
 ];
