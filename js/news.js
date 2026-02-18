@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-17T23:50:45.872Z
+// Last updated: 2026-02-18T00:46:01.323Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "《愛回家》食屎陳生過年密密開工搵食　曾做輔警近年變的士界紅人",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260217/1100527190530854912527148.jpeg/40DPXkB5zW1Tuu9CI0wlq0Sfygg6jyLd0Ctpe9AraXs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60323047/%E6%84%9B%E5%9B%9E%E5%AE%B6-%E9%BB%83%E5%BF%97%E6%A6%AE%E9%81%8E%E5%B9%B4%E5%AF%86%E5%AF%86%E9%96%8B%E5%B7%A5%E6%90%B5%E9%A3%9F-%E6%9B%BE%E5%81%9A%E8%BC%94%E8%AD%A6%E8%BF%91%E5%B9%B4%E8%AE%8A%E7%9A%84%E5%A3%AB%E7%95%8C%E7%B4%85%E4%BA%BA",
+    "timestamp": "2026-02-18T00:46:01.323Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "秘魯總統捲貪腐醜聞　遭國會通過彈劾",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260217/1100569053979742208640219.jpeg/x_cU55ntXQlpXvhfPuuukCOl1Hti5ZBvWwCgRVsAoEU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60323132/%E8%8A%B1%E8%BB%8A%E5%B7%A1%E9%81%8A-%E5%B0%96%E6%B2%99%E5%92%80%E4%BA%BA%E6%BD%AE%E9%80%BC%E7%88%86-%E9%BA%A5%E7%95%B6%E5%8B%9E%E5%8F%94%E5%8F%94%E6%BB%91%E5%98%9F%E5%98%9F%E7%8F%BE%E8%BA%AB%E5%BB%A3%E6%9D%B1%E9%81%93%E5%85%A8%E5%A0%B4%E6%AD%A1%E5%91%BC",
     "timestamp": "2026-02-17T16:11:07.130Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "iPhone 17e 傳聞2.19突擊發佈！支援MagSafe磁吸充電外有4大升級",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260206/1096419188131500032923506.png/u5BFI86MYT9aN9IdRflO4KF3ncZXH0WiOwk_mTsJP5k?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60319869/iphone-17e-%E5%82%B3%E8%81%9E2-19%E7%AA%81%E6%93%8A%E7%99%BC%E4%BD%88-%E6%94%AF%E6%8F%B4magsafe%E7%A3%81%E5%90%B8%E5%85%85%E9%9B%BB%E5%A4%96%E6%9C%894%E5%A4%A7%E5%8D%87%E7%B4%9A",
-    "timestamp": "2026-02-17T15:40:23.120Z",
     "strategy": ".content-card__main"
   }
 ];
