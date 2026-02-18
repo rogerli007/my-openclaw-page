@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-18T09:27:16.537Z
+// Last updated: 2026-02-18T09:53:47.491Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "巨蟹座男性格13大特質｜巨蟹男喜歡一個人的徵兆/好感暗示有這些",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20251222/1079796498729799680625018.png/VUL_ct_Zv8o_Xl0dloc9TUVzrAuOzvCgqY5sQamObEE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%AB%87%E6%83%85%E8%AA%AA%E6%80%A7/60307649/%E5%B7%A8%E8%9F%B9%E5%BA%A7%E7%94%B7%E6%80%A7%E6%A0%BC13%E5%A4%A7%E7%89%B9%E8%B3%AA-%E5%B7%A8%E8%9F%B9%E7%94%B7%E5%96%9C%E6%AD%A1%E4%B8%80%E5%80%8B%E4%BA%BA%E7%9A%84%E5%BE%B5%E5%85%86-%E5%A5%BD%E6%84%9F%E6%9A%97%E7%A4%BA%E6%9C%89%E9%80%99%E4%BA%9B",
+    "timestamp": "2026-02-18T09:53:47.491Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "大埔林村許願樹！新年泊車每小時$100是水魚價？網民教1招平又快",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260218/1100673126108368896236501.jpeg/y5Bk_Iqk5eQOT6X_eqGnR1HtqJs1z-joQCrPQ0Aqz0M?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60323140/%E5%B9%B4%E5%88%9D%E4%BA%8C%E5%A4%A9%E6%B0%A3-%E8%B3%80%E6%AD%B2%E7%85%99%E8%8A%B1%E5%B0%87%E4%B8%8A%E6%BC%94-%E5%A4%A9%E6%96%87%E5%8F%B0%E6%96%99%E5%A4%A7%E8%87%B4%E5%A4%9A%E9%9B%B2-%E6%97%A9%E4%B8%8A%E6%B8%85%E6%B6%BC%E7%B4%8417%E5%BA%A6",
     "timestamp": "2026-02-17T22:54:59.621Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "年初二天氣｜賀歲煙花將上演　天文台料大致多雲　早上清涼約17度",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260218/1100673126108368896236501.jpeg/y5Bk_Iqk5eQOT6X_eqGnR1HtqJs1z-joQCrPQ0Aqz0M?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60323140/%E5%B9%B4%E5%88%9D%E4%BA%8C%E5%A4%A9%E6%B0%A3-%E8%B3%80%E6%AD%B2%E7%85%99%E8%8A%B1%E5%B0%87%E4%B8%8A%E6%BC%94-%E5%A4%A9%E6%96%87%E5%8F%B0%E6%96%99%E5%A4%A7%E8%87%B4%E5%A4%9A%E9%9B%B2-%E6%97%A9%E4%B8%8A%E6%B8%85%E6%B6%BC%E7%B4%8417%E5%BA%A6",
-    "timestamp": "2026-02-17T22:34:12.765Z",
     "strategy": ".content-card__main"
   }
 ];
