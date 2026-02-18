@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-18T05:11:55.641Z
+// Last updated: 2026-02-18T05:47:20.976Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "金多寶｜網民竟踩翁子光外形差套戲自然差　獲無奈回應會注意儀容",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260218/1100783964282425344832406.jpeg/FM02eEg6eacqR82K0S5LaScu1HN6UA5-B6H1ugeh9bo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60323208/%E9%87%91%E5%A4%9A%E5%AF%B6-%E7%B6%B2%E6%B0%91%E7%AB%9F%E8%B8%A9%E7%BF%81%E5%AD%90%E5%85%89%E5%A4%96%E5%BD%A2%E5%B7%AE%E5%A5%97%E6%88%B2%E8%87%AA%E7%84%B6%E5%B7%AE-%E7%8D%B2%E7%84%A1%E5%A5%88%E5%9B%9E%E6%87%89%E6%9C%83%E6%B3%A8%E6%84%8F%E5%84%80%E5%AE%B9",
+    "timestamp": "2026-02-18T05:47:20.976Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "新年派利市給多少？保安：畀20元唔怕面懵　社企老闆糾結應否加碼",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260218/1100611447022424064350864.jpeg/WL6eMrciYYTrs9fuGpO4gGtAVf7iT-Ijq8FvhI7Bb4Q",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60323138/%E5%9C%9F%E7%93%9C%E7%81%A3%E9%9B%BB%E5%96%AE%E8%BB%8A%E8%B5%B7%E7%81%AB%E6%8E%80%E7%83%88%E7%84%B0-%E9%90%B5%E9%A8%8E%E5%A3%AB%E5%8F%8A%E6%99%82%E9%80%83%E7%94%9F-%E6%B6%88%E9%98%B2%E8%BF%85%E5%8D%B3%E6%95%91%E7%86%84-%E6%9C%89%E7%89%87",
     "timestamp": "2026-02-17T19:14:24.395Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "土瓜灣電單車起火掀烈焰　鐵騎士及時逃生　消防迅即救熄│有片",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260218/1100611447022424064350864.jpeg/WL6eMrciYYTrs9fuGpO4gGtAVf7iT-Ijq8FvhI7Bb4Q",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60323138/%E5%9C%9F%E7%93%9C%E7%81%A3%E9%9B%BB%E5%96%AE%E8%BB%8A%E8%B5%B7%E7%81%AB%E6%8E%80%E7%83%88%E7%84%B0-%E9%90%B5%E9%A8%8E%E5%A3%AB%E5%8F%8A%E6%99%82%E9%80%83%E7%94%9F-%E6%B6%88%E9%98%B2%E8%BF%85%E5%8D%B3%E6%95%91%E7%86%84-%E6%9C%89%E7%89%87",
-    "timestamp": "2026-02-17T18:39:50.976Z",
     "strategy": ".content-card__main"
   }
 ];
