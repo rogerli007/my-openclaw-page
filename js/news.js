@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-18T12:25:42.243Z
+// Last updated: 2026-02-18T12:54:54.056Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "春節｜初四天空上演「水星拜年」好戲　公眾用肉眼即可一睹風采",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260218/1100856402647191552609124.png/6iG2vTzfcs6pjSqf2UoUDT5Xd9SQqM8TrcCsVa3ArFU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60323279/%E6%98%A5%E7%AF%80-%E5%88%9D%E5%9B%9B%E5%A4%A9%E7%A9%BA%E4%B8%8A%E6%BC%94-%E6%B0%B4%E6%98%9F%E6%8B%9C%E5%B9%B4-%E5%A5%BD%E6%88%B2-%E5%85%AC%E7%9C%BE%E7%94%A8%E8%82%89%E7%9C%BC%E5%8D%B3%E5%8F%AF%E4%B8%80%E7%9D%B9%E9%A2%A8%E9%87%87",
+    "timestamp": "2026-02-18T12:54:54.056Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "趙希洛再分享婚紗照　終見老公身影趙希洛依偎合照甜蜜溫馨",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260218/1100730070835662848751296.jpeg/F1L5E1bEvQSlFm9GvxNjKUmIr8cateF_aYFr02mBa9M?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60323160/%E6%B2%BD%E7%A5%9E-%E4%BF%9D%E7%88%BE%E6%A3%AE%E9%97%9C%E7%BE%8E%E5%9C%8B%E5%B7%A5%E5%BB%A0%E8%BD%89%E4%BE%86%E8%8F%AF%E8%A8%AD%E5%BB%A0-%E6%98%94%E5%8A%9B%E6%92%90%E7%89%B9%E6%9C%97%E6%99%AE%E9%97%9C%E7%A8%85%E7%8B%82%E6%89%B9%E5%A4%96%E5%88%A4",
     "timestamp": "2026-02-18T02:08:06.330Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "大廈保安數利是錢影片瘋傳！新年收穫利是竟多到咁　數錢數到手軟",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260216/1100087856740700160627085.jpeg/1zHC2unwZmIgudFR8dubZ4h_lfqXKFS_AijsvQIo7L0",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60322869/%E5%A4%A7%E5%BB%88%E4%BF%9D%E5%AE%89%E6%95%B8%E5%88%A9%E6%98%AF%E9%8C%A2%E5%BD%B1%E7%89%87%E7%98%8B%E5%82%B3-%E6%96%B0%E5%B9%B4%E6%94%B6%E7%A9%AB%E5%88%A9%E6%98%AF%E7%AB%9F%E5%A4%9A%E5%88%B0%E5%92%81-%E6%95%B8%E9%8C%A2%E6%95%B8%E5%88%B0%E6%89%8B%E8%BB%9F",
-    "timestamp": "2026-02-18T01:19:22.063Z",
     "strategy": ".content-card__main"
   }
 ];
