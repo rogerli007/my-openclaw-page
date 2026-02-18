@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-18T15:09:24.158Z
+// Last updated: 2026-02-18T15:39:33.456Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "日本男女混浴史：澡堂曾設「搓澡女工」　女性海灘脫光亦屬等閒",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260213/1098914170516017152273654.jpeg/jhz6L5C9FdAQF3RgRi2Y5759SGd_Xs6sH7WgDx-1oA8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E8%A9%B1%E9%A1%8C/60301690/%E6%97%A5%E6%9C%AC%E7%94%B7%E5%A5%B3%E6%B7%B7%E6%B5%B4%E5%8F%B2-%E6%BE%A1%E5%A0%82%E6%9B%BE%E8%A8%AD-%E6%90%93%E6%BE%A1%E5%A5%B3%E5%B7%A5-%E5%A5%B3%E6%80%A7%E6%B5%B7%E7%81%98%E8%84%AB%E5%85%89%E4%BA%A6%E5%B1%AC%E7%AD%89%E9%96%92",
+    "timestamp": "2026-02-18T15:39:33.456Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美國封鎖石油進入古巴　美媒：魯比奧與勞爾卡斯特羅孫兒秘密磋商",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260218/1100791748503801856351874.jpeg/lRfz79E6SEB0MZi4_5pehAn38bIIUMdJyfNO_cnzTv0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60323212/%E7%BE%8E%E5%9C%8B%E5%BE%B7%E5%B7%9E%E8%B5%B7%E8%A8%B4tp-link%E6%8C%87%E6%8E%A7%E5%AD%98%E8%AA%A4%E5%B0%8E%E8%A1%8C%E7%82%BA-%E8%A8%AD%E5%82%99%E5%85%81%E8%A8%B1%E5%8C%97%E4%BA%AC%E7%8D%B2%E5%8F%96%E7%94%A8%E6%88%B6%E6%95%B8%E6%93%9A",
     "timestamp": "2026-02-18T06:15:53.327Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "金多寶｜網民竟踩翁子光外形差套戲自然差　獲無奈回應會注意儀容",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260218/1100783964282425344832406.jpeg/FM02eEg6eacqR82K0S5LaScu1HN6UA5-B6H1ugeh9bo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60323208/%E9%87%91%E5%A4%9A%E5%AF%B6-%E7%B6%B2%E6%B0%91%E7%AB%9F%E8%B8%A9%E7%BF%81%E5%AD%90%E5%85%89%E5%A4%96%E5%BD%A2%E5%B7%AE%E5%A5%97%E6%88%B2%E8%87%AA%E7%84%B6%E5%B7%AE-%E7%8D%B2%E7%84%A1%E5%A5%88%E5%9B%9E%E6%87%89%E6%9C%83%E6%B3%A8%E6%84%8F%E5%84%80%E5%AE%B9",
-    "timestamp": "2026-02-18T05:47:20.976Z",
     "strategy": ".content-card__main"
   }
 ];
