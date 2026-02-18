@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-18T14:38:02.038Z
+// Last updated: 2026-02-18T15:09:24.158Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美國封鎖石油進入古巴　美媒：魯比奧與勞爾卡斯特羅孫兒秘密磋商",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260217/1100406155701653504106279.jpeg/oiMWZkJgjx5-9sOinlKdVYRItRnMb2JqxprrzMaa68w?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60323305/%E7%BE%8E%E5%9C%8B%E5%B0%81%E9%8E%96%E7%9F%B3%E6%B2%B9%E9%80%B2%E5%85%A5%E5%8F%A4%E5%B7%B4-%E7%BE%8E%E5%AA%92-%E9%AD%AF%E6%AF%94%E5%A5%A7%E8%88%87%E5%8B%9E%E7%88%BE%E5%8D%A1%E6%96%AF%E7%89%B9%E7%BE%85%E5%AD%AB%E5%85%92%E7%A7%98%E5%AF%86%E7%A3%8B%E5%95%86",
+    "timestamp": "2026-02-18T15:09:24.158Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "英國海灘現50年前加拿大垃圾　環保人士嘆「一發不可收拾」",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260218/1100783964282425344832406.jpeg/FM02eEg6eacqR82K0S5LaScu1HN6UA5-B6H1ugeh9bo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60323208/%E9%87%91%E5%A4%9A%E5%AF%B6-%E7%B6%B2%E6%B0%91%E7%AB%9F%E8%B8%A9%E7%BF%81%E5%AD%90%E5%85%89%E5%A4%96%E5%BD%A2%E5%B7%AE%E5%A5%97%E6%88%B2%E8%87%AA%E7%84%B6%E5%B7%AE-%E7%8D%B2%E7%84%A1%E5%A5%88%E5%9B%9E%E6%87%89%E6%9C%83%E6%B3%A8%E6%84%8F%E5%84%80%E5%AE%B9",
     "timestamp": "2026-02-18T05:47:20.976Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "新年派利市給多少？保安：畀20元唔怕面懵　社企老闆糾結應否加碼",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260218/1100774742916337664375481.png/4zYabJQiVw_UZAxPg3sREE5pkzZu_tqdRlaby0ZWm8s?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60323158/%E6%96%B0%E5%B9%B4%E6%B4%BE%E5%88%A9%E5%B8%82%E7%B5%A6%E5%A4%9A%E5%B0%91-%E4%BF%9D%E5%AE%89-%E7%95%8020%E5%85%83%E5%94%94%E6%80%95%E9%9D%A2%E6%87%B5-%E7%A4%BE%E4%BC%81%E8%80%81%E9%97%86%E7%B3%BE%E7%B5%90%E6%87%89%E5%90%A6%E5%8A%A0%E7%A2%BC",
-    "timestamp": "2026-02-18T05:11:55.641Z",
     "strategy": ".content-card__main"
   }
 ];
