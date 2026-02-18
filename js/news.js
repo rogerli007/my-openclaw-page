@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-18T23:03:03.955Z
+// Last updated: 2026-02-18T23:19:24.107Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "女生重回校園半工讀收入跌！給父母利市縮水　網民教1招表孝心",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260219/1101014292666257408186530.png/LqGRMNn4vZwFtQ2ZpCB2mtArExHky2fKscF--rHBfvo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60323302/%E5%A5%B3%E7%94%9F%E9%87%8D%E5%9B%9E%E6%A0%A1%E5%9C%92%E5%8D%8A%E5%B7%A5%E8%AE%80%E6%94%B6%E5%85%A5%E8%B7%8C-%E7%B5%A6%E7%88%B6%E6%AF%8D%E5%88%A9%E5%B8%82%E7%B8%AE%E6%B0%B4-%E7%B6%B2%E6%B0%91%E6%95%991%E6%8B%9B%E8%A1%A8%E5%AD%9D%E5%BF%83",
+    "timestamp": "2026-02-18T23:19:24.107Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "普京晤古巴外長　稱美國對古巴實施新制裁「不可接受」",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260218/1100919303361794048307891.jpeg/qFnXnyUknttbmuD76HZmwS0yv48iAVi9GxGR2xsRkds?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60323309/%E8%8B%B1%E5%9C%8B%E6%B5%B7%E7%81%98%E7%8F%BE50%E5%B9%B4%E5%89%8D%E5%8A%A0%E6%8B%BF%E5%A4%A7%E5%9E%83%E5%9C%BE-%E7%92%B0%E4%BF%9D%E4%BA%BA%E5%A3%AB%E5%98%86-%E4%B8%80%E7%99%BC%E4%B8%8D%E5%8F%AF%E6%94%B6%E6%8B%BE",
     "timestamp": "2026-02-18T14:38:02.038Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "年初三「赤口」早上清涼　天文台料下周一「人日」起有一兩陣微雨",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260218/1100854163484446720372580.jpeg/hqrz12qFPRMnJFw9JA3bNQ7zxtEdvu_gx9yUqcfclKk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60323287/%E5%B9%B4%E5%88%9D%E4%B8%89-%E8%B5%A4%E5%8F%A3-%E6%97%A9%E4%B8%8A%E6%B8%85%E6%B6%BC-%E5%A4%A9%E6%96%87%E5%8F%B0%E6%96%99%E4%B8%8B%E5%91%A8%E4%B8%80-%E4%BA%BA%E6%97%A5-%E8%B5%B7%E6%9C%89%E4%B8%80%E5%85%A9%E9%99%A3%E5%BE%AE%E9%9B%A8",
-    "timestamp": "2026-02-18T14:15:02.841Z",
     "strategy": ".content-card__main"
   }
 ];
