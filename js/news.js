@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-18T10:53:32.820Z
+// Last updated: 2026-02-18T11:26:03.235Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "干諾道西天橋電單車與工程車相撞　鐵騎士受傷送院",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260218/1100871414493220864495628.jpeg/VP4Nk_WPnk14PCvlF-ayThLIeuhVvAoQsz2mrLM9pqw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60323288/%E5%B9%B2%E8%AB%BE%E9%81%93%E8%A5%BF%E5%A4%A9%E6%A9%8B%E9%9B%BB%E5%96%AE%E8%BB%8A%E8%88%87%E5%B7%A5%E7%A8%8B%E8%BB%8A%E7%9B%B8%E6%92%9E-%E9%90%B5%E9%A8%8E%E5%A3%AB%E5%8F%97%E5%82%B7%E9%80%81%E9%99%A2",
+    "timestamp": "2026-02-18T11:26:03.235Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "農曆新年｜年初二至下午4時近18萬内地旅客訪港　32.3萬港人出境",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260218/1100676322570539008971286.jpeg/zNKNMkDN4GOxv8A0ArVFPW2oj64VY7NMqnIzLqpyMy4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60323145/%E7%A7%98%E9%AD%AF%E7%B8%BD%E7%B5%B1%E6%8D%B2%E8%B2%AA%E8%85%90%E9%86%9C%E8%81%9E-%E9%81%AD%E5%9C%8B%E6%9C%83%E9%80%9A%E9%81%8E%E5%BD%88%E5%8A%BE",
     "timestamp": "2026-02-17T23:50:45.872Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "秘魯總統捲貪腐醜聞　遭國會通過彈劾",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260218/1100676322570539008971286.jpeg/zNKNMkDN4GOxv8A0ArVFPW2oj64VY7NMqnIzLqpyMy4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60323145/%E7%A7%98%E9%AD%AF%E7%B8%BD%E7%B5%B1%E6%8D%B2%E8%B2%AA%E8%85%90%E9%86%9C%E8%81%9E-%E9%81%AD%E5%9C%8B%E6%9C%83%E9%80%9A%E9%81%8E%E5%BD%88%E5%8A%BE",
-    "timestamp": "2026-02-17T23:33:51.238Z",
     "strategy": ".content-card__main"
   }
 ];
