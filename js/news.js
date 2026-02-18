@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-18T02:08:06.330Z
+// Last updated: 2026-02-18T03:23:25.624Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "年初一雲南楚雄遊船傾覆致26人落水4死　國務院掛牌督辦提級查處",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250612/1009875984716926976280351.jpeg/a7LkEvbPM1OJjlWqC1Q1BeXnEDXfL0TpA0WvIwNFryM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60323177/%E5%B9%B4%E5%88%9D%E4%B8%80%E9%9B%B2%E5%8D%97%E6%A5%9A%E9%9B%84%E9%81%8A%E8%88%B9%E5%82%BE%E8%A6%86%E8%87%B426%E4%BA%BA%E8%90%BD%E6%B0%B44%E6%AD%BB-%E5%9C%8B%E5%8B%99%E9%99%A2%E6%8E%9B%E7%89%8C%E7%9D%A3%E8%BE%A6%E6%8F%90%E7%B4%9A%E6%9F%A5%E8%99%95",
+    "timestamp": "2026-02-18T03:23:25.624Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "「沽神」保爾森關美國工廠轉來華設廠　昔力撐特朗普關稅狂批外判",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260218/1100598486878916608450267.jpeg/tm8g0IAfpTzVuwFR2qAef0pGeP3TS2lPaPLSnmjy0p4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60323137/%E7%BE%8E%E4%BF%84%E7%83%8F%E6%96%B0%E4%B8%80%E8%BC%AA%E6%9C%83%E8%AB%87%E5%B1%95%E9%96%8B-%E7%83%8F%E6%96%B9-%E5%AE%89%E5%85%A8%E5%8F%8A%E4%BA%BA%E9%81%93%E5%95%8F%E9%A1%8C%E7%B4%8D%E5%85%A5%E8%AD%B0%E7%A8%8B",
     "timestamp": "2026-02-17T17:42:17.588Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "農曆新年｜14個年宵市場共迎265萬人次　維園年廿九錄逾21萬人",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260218/1100588111274053632316907.jpeg/rq--hehy8r3toq_kF8lCqc3o14La6dwDE9nOjBPZzow?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60323134/%E8%BE%B2%E6%9B%86%E6%96%B0%E5%B9%B4-14%E5%80%8B%E5%B9%B4%E5%AE%B5%E5%B8%82%E5%A0%B4%E5%85%B1%E8%BF%8E265%E8%90%AC%E4%BA%BA%E6%AC%A1-%E7%B6%AD%E5%9C%92%E5%B9%B4%E5%BB%BF%E4%B9%9D%E9%8C%84%E9%80%BE21%E8%90%AC%E4%BA%BA",
-    "timestamp": "2026-02-17T17:14:14.710Z",
     "strategy": ".content-card__main"
   }
 ];
