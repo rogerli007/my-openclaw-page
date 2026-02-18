@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-18T16:10:35.453Z
+// Last updated: 2026-02-18T16:43:25.072Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "何文田3車相撞　七人車被撞到「反肚」　警不排除看錯燈肇禍",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260219/1100948113901752320509842.jpeg/mASkIiPS98nNEfKo4p3RPUfp6Hm5unldbmylZFRspWQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60323319/%E4%BD%95%E6%96%87%E7%94%B03%E8%BB%8A%E7%9B%B8%E6%92%9E-%E4%B8%83%E4%BA%BA%E8%BB%8A%E8%A2%AB%E6%92%9E%E5%88%B0-%E5%8F%8D%E8%82%9A-%E8%AD%A6%E4%B8%8D%E6%8E%92%E9%99%A4%E7%9C%8B%E9%8C%AF%E7%87%88%E8%82%87%E7%A6%8D",
+    "timestamp": "2026-02-18T16:43:25.072Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "冬奧︱美國名將稱霸女子高山滑雪迴轉賽　港將金詠晞未能完賽",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260216/1100096904043171840021658.jpeg/YCk6fOB44zgAHXMSlk4hfoY8UxTgxcrxb99hWW_fYVk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60318737/%E6%96%B0%E5%B9%B4%E5%B0%8F%E9%A3%9F-%E7%87%9F%E9%A4%8A%E5%B8%AB6%E6%8B%9B%E7%A9%A9%E8%A1%80%E7%B3%96%E5%90%83%E9%9B%B6%E9%A3%9F3%E5%8E%9F%E5%89%87%E9%A3%9F%E4%BD%8F%E7%98%A6-%E6%9C%B1%E5%8F%A4%E5%8A%9B-1%E7%89%A9%E6%B8%9B%E7%84%A6%E6%85%AE",
     "timestamp": "2026-02-18T07:14:53.586Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "初二高鐵西九站逼爆入境客　廣州客過年來　因那「特別的秩序感」",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260218/1100798048373575680587296.jpeg/Ng8Y50m_UKa4vCl0YwqDzSJBraJPLdSJEYh5eRGIeXk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60323225/%E5%88%9D%E4%BA%8C%E9%AB%98%E9%90%B5%E8%A5%BF%E4%B9%9D%E7%AB%99%E9%80%BC%E7%88%86%E5%85%A5%E5%A2%83%E5%AE%A2-%E5%BB%A3%E5%B7%9E%E5%AE%A2%E9%81%8E%E5%B9%B4%E4%BE%86-%E5%9B%A0%E9%82%A3-%E7%89%B9%E5%88%A5%E7%9A%84%E7%A7%A9%E5%BA%8F%E6%84%9F",
-    "timestamp": "2026-02-18T06:45:22.324Z",
     "strategy": ".content-card__main"
   }
 ];
