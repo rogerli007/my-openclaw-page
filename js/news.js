@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-18T16:43:25.072Z
+// Last updated: 2026-02-18T17:15:37.000Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "尹錫悅涉嫌發動內亂案19日一審宣判　央視：本人將出庭",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20251226/1081242262253342720156324.jpeg/MNguXe21zUGLF44f8_IHI22A6cT44jmfONs9aDjbPWg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60323322/%E5%B0%B9%E9%8C%AB%E6%82%85%E6%B6%89%E5%AB%8C%E7%99%BC%E5%8B%95%E5%85%A7%E4%BA%82%E6%A1%8819%E6%97%A5%E4%B8%80%E5%AF%A9%E5%AE%A3%E5%88%A4-%E5%A4%AE%E8%A6%96-%E6%9C%AC%E4%BA%BA%E5%B0%87%E5%87%BA%E5%BA%AD",
+    "timestamp": "2026-02-18T17:15:37.000Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "何文田3車相撞　七人車被撞到「反肚」　警不排除看錯燈肇禍",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260218/1100779979270000640236978.png/NNVbZ8WZ2aw3iMjcBjdRTbnsLtO_LuJOTLYlpEy2JaQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60323194/bob%E6%9E%97%E7%9B%9B%E6%96%8C%E8%A2%8B%E5%A4%A7%E7%96%8A%E5%88%A9%E5%B8%82%E5%B0%81%E9%9A%A8%E8%A1%97%E8%B1%AA%E6%B4%BE%E9%8A%80%E7%B4%99-%E5%B7%A8%E5%9E%8B%E5%AE%A2%E5%BB%B3%E7%8B%82%E6%B4%BE%E9%8C%A2%E7%95%80%E5%9F%8B%E8%80%81%E5%A9%86",
     "timestamp": "2026-02-18T07:41:23.959Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "新年小食｜營養師6招穩血糖吃零食3原則食住瘦！朱古力+1物減焦慮",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260216/1100096904043171840021658.jpeg/YCk6fOB44zgAHXMSlk4hfoY8UxTgxcrxb99hWW_fYVk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60318737/%E6%96%B0%E5%B9%B4%E5%B0%8F%E9%A3%9F-%E7%87%9F%E9%A4%8A%E5%B8%AB6%E6%8B%9B%E7%A9%A9%E8%A1%80%E7%B3%96%E5%90%83%E9%9B%B6%E9%A3%9F3%E5%8E%9F%E5%89%87%E9%A3%9F%E4%BD%8F%E7%98%A6-%E6%9C%B1%E5%8F%A4%E5%8A%9B-1%E7%89%A9%E6%B8%9B%E7%84%A6%E6%85%AE",
-    "timestamp": "2026-02-18T07:14:53.586Z",
     "strategy": ".content-card__main"
   }
 ];
