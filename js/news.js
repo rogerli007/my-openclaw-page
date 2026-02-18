@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-18T22:18:55.282Z
+// Last updated: 2026-02-18T22:37:05.848Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "英超｜阿仙奴作客遭狼隊逼和2：2　領先曼城5分",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260219/1101031505485893632683095.jpeg/WjPPVoezrSIJqnmJWnOBJ-a8A9Ddmb2NEFv6pxBb-qc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60323338/%E8%8B%B1%E8%B6%85-%E9%98%BF%E4%BB%99%E5%A5%B4%E4%BD%9C%E5%AE%A2%E9%81%AD%E7%8B%BC%E9%9A%8A%E9%80%BC%E5%92%8C2-2-%E9%A0%98%E5%85%88%E6%9B%BC%E5%9F%8E5%E5%88%86",
+    "timestamp": "2026-02-18T22:37:05.848Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "赤口天氣｜今早市區約18度　日間乾燥最高22度　未來幾天日間溫暖",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260218/1100820337106358272052986.png/smdvpoIzcq4E4wWtWaUeFx3yvcALTmIAbcTek23E3pM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60323236/%E6%A5%8A%E5%BC%B5%E6%96%B0%E6%82%85%E7%94%9F%E5%AE%8C%E5%9B%9B%E8%83%8E%E8%BA%AB%E5%BD%A2%E4%BE%9D%E7%84%B6%E5%A6%82%E5%B0%91%E5%A5%B3-%E8%88%87%E5%AE%B6%E4%BA%BA%E5%A4%96%E9%81%8A%E5%BA%A6%E6%AD%B2%E8%BF%91%E7%85%A7%E9%A9%9A%E8%B1%94%E7%B6%B2%E6%B0%91",
     "timestamp": "2026-02-18T13:39:19.873Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "春節｜初四天空上演「水星拜年」好戲　公眾用肉眼即可一睹風采",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260218/1100856402647191552609124.png/6iG2vTzfcs6pjSqf2UoUDT5Xd9SQqM8TrcCsVa3ArFU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60323279/%E6%98%A5%E7%AF%80-%E5%88%9D%E5%9B%9B%E5%A4%A9%E7%A9%BA%E4%B8%8A%E6%BC%94-%E6%B0%B4%E6%98%9F%E6%8B%9C%E5%B9%B4-%E5%A5%BD%E6%88%B2-%E5%85%AC%E7%9C%BE%E7%94%A8%E8%82%89%E7%9C%BC%E5%8D%B3%E5%8F%AF%E4%B8%80%E7%9D%B9%E9%A2%A8%E9%87%87",
-    "timestamp": "2026-02-18T12:54:54.056Z",
     "strategy": ".content-card__main"
   }
 ];
