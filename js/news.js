@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-18T07:41:23.959Z
+// Last updated: 2026-02-18T08:05:52.919Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "英漢涉年廿九大鬧機場　被控刑毀及藏第一部毒藥　保釋至4.15再訊",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260216/1099977216067899392514807.jpeg/gNAZwuZI1N1F9DoSSlSiqj9dZ7SgFYdjMQlA8jEJQPI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60323249/%E8%8B%B1%E6%BC%A2%E6%B6%89%E5%B9%B4%E5%BB%BF%E4%B9%9D%E5%A4%A7%E9%AC%A7%E6%A9%9F%E5%A0%B4-%E8%A2%AB%E6%8E%A7%E5%88%91%E6%AF%80%E5%8F%8A%E8%97%8F%E7%AC%AC%E4%B8%80%E9%83%A8%E6%AF%92%E8%97%A5-%E4%BF%9D%E9%87%8B%E8%87%B34-15%E5%86%8D%E8%A8%8A",
+    "timestamp": "2026-02-18T08:05:52.919Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "TVB力捧男星袋大疊利市封隨街豪派銀紙　巨型客廳狂派錢畀埋老婆",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260218/1100619601911222272914265.png/Nv4d9bUr_EnSkTGmij6VyvMxI8HklhxyDBJAggwSQII?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60323139/%E7%BE%8E%E8%BB%8D%E6%96%BC%E6%9D%B1%E5%A4%AA%E5%B9%B3%E6%B4%8B%E5%8F%8A%E5%8A%A0%E5%8B%92%E6%AF%94%E6%B5%B7%E6%89%93%E6%93%8A%E9%81%8B%E6%AF%92%E8%88%B9-%E6%93%8A%E6%96%8311%E4%BA%BA",
     "timestamp": "2026-02-17T21:20:45.882Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "日本國會今舉行首相指名選舉　高市早苗料連任",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260213/1099035045319938048934026.jpeg/isvh0pJAk8SGXF0ZdP0n-lQVyABRs5YFXYwCel2MAno?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60323142/%E6%97%A5%E6%9C%AC%E5%9C%8B%E6%9C%83%E4%BB%8A%E8%88%89%E8%A1%8C%E9%A6%96%E7%9B%B8%E6%8C%87%E5%90%8D%E9%81%B8%E8%88%89-%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E6%96%99%E9%80%A3%E4%BB%BB",
-    "timestamp": "2026-02-17T20:52:39.029Z",
     "strategy": ".content-card__main"
   }
 ];
