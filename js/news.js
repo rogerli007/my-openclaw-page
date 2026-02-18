@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-18T19:13:39.264Z
+// Last updated: 2026-02-18T19:39:52.510Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "土瓜灣家貓被困屋外危險位置　63歲男救貓墮樓送院不治",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260219/1100990846896967680563482.jpeg/M677UEP9329iV7avoYOPCs8PlyRXneRAtlAMYrZQDGI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60323330/%E5%9C%9F%E7%93%9C%E7%81%A3%E5%AE%B6%E8%B2%93%E8%A2%AB%E5%9B%B0%E5%B1%8B%E5%A4%96%E5%8D%B1%E9%9A%AA%E4%BD%8D%E7%BD%AE-63%E6%AD%B2%E7%94%B7%E6%95%91%E8%B2%93%E5%A2%AE%E6%A8%93%E9%80%81%E9%99%A2%E4%B8%8D%E6%B2%BB",
+    "timestamp": "2026-02-18T19:39:52.510Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美媒：美以或短期內大規模攻擊伊朗　以色列加緊軍事準備",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20251222/1079796498729799680625018.png/VUL_ct_Zv8o_Xl0dloc9TUVzrAuOzvCgqY5sQamObEE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%AB%87%E6%83%85%E8%AA%AA%E6%80%A7/60307649/%E5%B7%A8%E8%9F%B9%E5%BA%A7%E7%94%B7%E6%80%A7%E6%A0%BC13%E5%A4%A7%E7%89%B9%E8%B3%AA-%E5%B7%A8%E8%9F%B9%E7%94%B7%E5%96%9C%E6%AD%A1%E4%B8%80%E5%80%8B%E4%BA%BA%E7%9A%84%E5%BE%B5%E5%85%86-%E5%A5%BD%E6%84%9F%E6%9A%97%E7%A4%BA%E6%9C%89%E9%80%99%E4%BA%9B",
     "timestamp": "2026-02-18T09:53:47.491Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "大埔林村許願樹！新年泊車每小時$100是水魚價？網民教1招平又快",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260218/1100839213378572288092714.png/m9TnudNNg2j-BRAsbThgcBVbSZkJYXzl77fsiu-37Io?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60323219/%E5%A4%A7%E5%9F%94%E6%9E%97%E6%9D%91%E8%A8%B1%E9%A1%98%E6%A8%B9-%E6%96%B0%E5%B9%B4%E6%B3%8A%E8%BB%8A%E6%AF%8F%E5%B0%8F%E6%99%82-100%E6%98%AF%E6%B0%B4%E9%AD%9A%E5%83%B9-%E7%B6%B2%E6%B0%91%E6%95%991%E6%8B%9B%E5%B9%B3%E5%8F%88%E5%BF%AB",
-    "timestamp": "2026-02-18T09:27:16.537Z",
     "strategy": ".content-card__main"
   }
 ];
