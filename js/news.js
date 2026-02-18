@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-18T05:47:20.976Z
+// Last updated: 2026-02-18T06:15:53.327Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美國德州起訴TP-Link指控存誤導行為　設備允許北京獲取用戶數據",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260218/1100791748503801856351874.jpeg/lRfz79E6SEB0MZi4_5pehAn38bIIUMdJyfNO_cnzTv0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60323212/%E7%BE%8E%E5%9C%8B%E5%BE%B7%E5%B7%9E%E8%B5%B7%E8%A8%B4tp-link%E6%8C%87%E6%8E%A7%E5%AD%98%E8%AA%A4%E5%B0%8E%E8%A1%8C%E7%82%BA-%E8%A8%AD%E5%82%99%E5%85%81%E8%A8%B1%E5%8C%97%E4%BA%AC%E7%8D%B2%E5%8F%96%E7%94%A8%E6%88%B6%E6%95%B8%E6%93%9A",
+    "timestamp": "2026-02-18T06:15:53.327Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "金多寶｜網民竟踩翁子光外形差套戲自然差　獲無奈回應會注意儀容",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260218/1100632094847012864963058.jpeg/MqCMu34jKNuJnYT7bqOvcEQ3rzJvGR-3pd6VRoDelUY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60323141/%E5%B0%87%E8%BB%8D%E6%BE%B3%E5%81%A5%E6%98%8E%E9%82%A8%E5%81%A5%E8%8F%AF%E6%A8%93%E6%87%B7%E7%96%91%E6%B4%A9%E6%BC%8F%E4%B8%8D%E6%98%8E%E6%B0%A3%E9%AB%94-%E5%85%A8%E5%B9%A2%E6%A8%93%E7%B7%8A%E6%80%A5%E7%96%8F%E6%95%A3",
     "timestamp": "2026-02-17T19:40:30.378Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "土瓜灣電單車起火掀烈焰　鐵騎士及時逃生　消防迅即救熄│有片",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260218/1100611447022424064350864.jpeg/WL6eMrciYYTrs9fuGpO4gGtAVf7iT-Ijq8FvhI7Bb4Q",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60323138/%E5%9C%9F%E7%93%9C%E7%81%A3%E9%9B%BB%E5%96%AE%E8%BB%8A%E8%B5%B7%E7%81%AB%E6%8E%80%E7%83%88%E7%84%B0-%E9%90%B5%E9%A8%8E%E5%A3%AB%E5%8F%8A%E6%99%82%E9%80%83%E7%94%9F-%E6%B6%88%E9%98%B2%E8%BF%85%E5%8D%B3%E6%95%91%E7%86%84-%E6%9C%89%E7%89%87",
-    "timestamp": "2026-02-17T19:14:24.395Z",
     "strategy": ".content-card__main"
   }
 ];
