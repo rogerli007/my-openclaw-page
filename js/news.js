@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-18T14:15:02.841Z
+// Last updated: 2026-02-18T14:38:02.038Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "英國海灘現50年前加拿大垃圾　環保人士嘆「一發不可收拾」",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260218/1100919303361794048307891.jpeg/qFnXnyUknttbmuD76HZmwS0yv48iAVi9GxGR2xsRkds?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60323309/%E8%8B%B1%E5%9C%8B%E6%B5%B7%E7%81%98%E7%8F%BE50%E5%B9%B4%E5%89%8D%E5%8A%A0%E6%8B%BF%E5%A4%A7%E5%9E%83%E5%9C%BE-%E7%92%B0%E4%BF%9D%E4%BA%BA%E5%A3%AB%E5%98%86-%E4%B8%80%E7%99%BC%E4%B8%8D%E5%8F%AF%E6%94%B6%E6%8B%BE",
+    "timestamp": "2026-02-18T14:38:02.038Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "年初三「赤口」早上清涼　天文台料下周一「人日」起有一兩陣微雨",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260218/1100774742916337664375481.png/4zYabJQiVw_UZAxPg3sREE5pkzZu_tqdRlaby0ZWm8s?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60323158/%E6%96%B0%E5%B9%B4%E6%B4%BE%E5%88%A9%E5%B8%82%E7%B5%A6%E5%A4%9A%E5%B0%91-%E4%BF%9D%E5%AE%89-%E7%95%8020%E5%85%83%E5%94%94%E6%80%95%E9%9D%A2%E6%87%B5-%E7%A4%BE%E4%BC%81%E8%80%81%E9%97%86%E7%B3%BE%E7%B5%90%E6%87%89%E5%90%A6%E5%8A%A0%E7%A2%BC",
     "timestamp": "2026-02-18T05:11:55.641Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "初二車公誕｜鄧炳強車公廟購闔家平安吊飾　入廟轉風車願香港安全",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260218/1100759203293171712568307.jpeg/GXYlY8ejhUD4hOSKfwKfzxjRU0sZ4ZKuWir0vVoq9L0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60323185/%E5%88%9D%E4%BA%8C%E8%BB%8A%E5%85%AC%E8%AA%95-%E9%84%A7%E7%82%B3%E5%BC%B7%E8%BB%8A%E5%85%AC%E5%BB%9F%E8%B3%BC%E9%97%94%E5%AE%B6%E5%B9%B3%E5%AE%89%E5%90%8A%E9%A3%BE-%E5%85%A5%E5%BB%9F%E8%BD%89%E9%A2%A8%E8%BB%8A%E9%A1%98%E9%A6%99%E6%B8%AF%E5%AE%89%E5%85%A8",
-    "timestamp": "2026-02-18T04:24:31.636Z",
     "strategy": ".content-card__main"
   }
 ];
