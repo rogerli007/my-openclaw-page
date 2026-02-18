@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-18T20:04:57.333Z
+// Last updated: 2026-02-18T20:25:19.302Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "農曆新年｜市建局兒童樂團探訪舊區長者拜年　以音樂連繫社區",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260218/1100938710964244480651829.jpeg/94H9TvZ-fcTVY5m2YFyKB3IhRqQ43lUIdJpW2XSaVtk?v=w1920r16_9",
+    "url": "https://www.hk01.com/18%E5%8D%80%E6%96%B0%E8%81%9E/60323316/%E8%BE%B2%E6%9B%86%E6%96%B0%E5%B9%B4-%E5%B8%82%E5%BB%BA%E5%B1%80%E5%85%92%E7%AB%A5%E6%A8%82%E5%9C%98%E6%8E%A2%E8%A8%AA%E8%88%8A%E5%8D%80%E9%95%B7%E8%80%85%E6%8B%9C%E5%B9%B4-%E4%BB%A5%E9%9F%B3%E6%A8%82%E9%80%A3%E7%B9%AB%E7%A4%BE%E5%8D%80",
+    "timestamp": "2026-02-18T20:25:19.302Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "歐聯附加賽首回合｜紐卡素作客6：1卡拉巴克　安東尼哥頓大四喜",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260218/1100798550490484736357861.jpeg/4yj7ly7nrXWNu67Qj3P0xl7br7F8dodD7NKGE-zShhM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60323280/%E8%BE%B2%E6%9B%86%E6%96%B0%E5%B9%B4-%E5%B9%B4%E5%88%9D%E4%BA%8C%E8%87%B3%E4%B8%8B%E5%8D%884%E6%99%82%E8%BF%9118%E8%90%AC%E5%86%85%E5%9C%B0%E6%97%85%E5%AE%A2%E8%A8%AA%E6%B8%AF-32-3%E8%90%AC%E6%B8%AF%E4%BA%BA%E5%87%BA%E5%A2%83",
     "timestamp": "2026-02-18T10:53:32.820Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "日本據報4月起禁乘客在飛機內使用「尿袋」　應對電池起火事件",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260218/1100848076064559104218437.png/bow49bRRFFe9YJp9Zkhz-ZmmoghvMdb49uFeGPbhXhg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60323269/%E6%97%A5%E6%9C%AC%E6%93%9A%E5%A0%B14%E6%9C%88%E8%B5%B7%E7%A6%81%E4%B9%98%E5%AE%A2%E5%9C%A8%E9%A3%9B%E6%A9%9F%E5%85%A7%E4%BD%BF%E7%94%A8-%E5%B0%BF%E8%A2%8B-%E6%87%89%E5%B0%8D%E9%9B%BB%E6%B1%A0%E8%B5%B7%E7%81%AB%E4%BA%8B%E4%BB%B6",
-    "timestamp": "2026-02-18T10:26:46.104Z",
     "strategy": ".content-card__main"
   }
 ];
