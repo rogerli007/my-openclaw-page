@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-18T18:07:57.781Z
+// Last updated: 2026-02-18T18:37:15.333Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美媒：美以或短期內大規模攻擊伊朗　以色列加緊軍事準備",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260204/1095674988431675392051439.jpeg/7oOjFXnfwrSuqaaOd1A6ZLeB9A-KizxSvg838r4PN_I?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60323327/%E7%BE%8E%E5%AA%92-%E7%BE%8E%E4%BB%A5%E6%88%96%E7%9F%AD%E6%9C%9F%E5%85%A7%E5%A4%A7%E8%A6%8F%E6%A8%A1%E6%94%BB%E6%93%8A%E4%BC%8A%E6%9C%97-%E4%BB%A5%E8%89%B2%E5%88%97%E5%8A%A0%E7%B7%8A%E8%BB%8D%E4%BA%8B%E6%BA%96%E5%82%99",
+    "timestamp": "2026-02-18T18:37:15.333Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "珍惜生命｜大角咀海富苑男子疑自割　昏迷送院搶救",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260218/1100826457589944320567109.jpeg/ERj-ijNCsylZz6cYbGHPIvZ6mQ0bYRbf7HsDwOx7A8A?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60323257/%E6%B8%AF%E9%9A%8A%E4%B8%BB%E5%B8%A5%E9%9F%8B%E6%96%AF%E6%B4%BB%E5%8F%97%E6%89%B9%E5%BE%8C%E9%9B%A2%E4%BB%BB-%E7%BE%85%E6%B7%91%E4%BD%A9%E8%87%AA%E6%88%91%E6%AA%A2%E8%A8%8E-%E6%9C%83%E9%81%BF%E5%85%8D%E6%94%BF%E6%B2%BB%E5%B9%B2%E9%A0%90%E8%AA%A4%E8%A7%A3",
     "timestamp": "2026-02-18T08:59:20.482Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "吳家樂名門太太周蕙蕙罕露面　合體赴英向雷頌德夫婦拜年歎盆菜",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260218/1100800794036277248870214.jpeg/Y8dI772LPVrVe8UyId1hzLdjSeb0TCMZzTRIC800SAs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60323223/%E5%90%B3%E5%AE%B6%E6%A8%82%E5%90%8D%E9%96%80%E5%A4%AA%E5%A4%AA%E5%91%A8%E8%95%99%E8%95%99%E7%BD%95%E9%9C%B2%E9%9D%A2-%E5%90%88%E9%AB%94%E8%B5%B4%E8%8B%B1%E5%90%91%E9%9B%B7%E9%A0%8C%E5%BE%B7%E5%A4%AB%E5%A9%A6%E6%8B%9C%E5%B9%B4%E6%AD%8E%E7%9B%86%E8%8F%9C",
-    "timestamp": "2026-02-18T08:34:36.951Z",
     "strategy": ".content-card__main"
   }
 ];
