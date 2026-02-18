@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-18T06:15:53.327Z
+// Last updated: 2026-02-18T06:45:22.324Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "初二高鐵西九站逼爆入境客　廣州客過年來　因那「特別的秩序感」",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260218/1100798048373575680587296.jpeg/Ng8Y50m_UKa4vCl0YwqDzSJBraJPLdSJEYh5eRGIeXk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60323225/%E5%88%9D%E4%BA%8C%E9%AB%98%E9%90%B5%E8%A5%BF%E4%B9%9D%E7%AB%99%E9%80%BC%E7%88%86%E5%85%A5%E5%A2%83%E5%AE%A2-%E5%BB%A3%E5%B7%9E%E5%AE%A2%E9%81%8E%E5%B9%B4%E4%BE%86-%E5%9B%A0%E9%82%A3-%E7%89%B9%E5%88%A5%E7%9A%84%E7%A7%A9%E5%BA%8F%E6%84%9F",
+    "timestamp": "2026-02-18T06:45:22.324Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美國德州起訴TP-Link指控存誤導行為　設備允許北京獲取用戶數據",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260218/1100632094847012864963058.jpeg/MqCMu34jKNuJnYT7bqOvcEQ3rzJvGR-3pd6VRoDelUY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60323141/%E5%B0%87%E8%BB%8D%E6%BE%B3%E5%81%A5%E8%8F%AF%E6%A8%93%E7%96%91%E6%BC%8F%E6%B0%A3-%E5%85%A8%E5%B9%A2%E6%A8%93%E7%B7%8A%E6%80%A5%E7%96%8F%E6%95%A3-%E6%B6%88%E9%98%B2%E7%88%86%E9%96%80%E8%AD%89%E7%82%86%E7%89%9B%E8%82%89%E7%85%B2%E4%B9%BE%E6%B0%B4",
     "timestamp": "2026-02-17T20:02:38.705Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "將軍澳健明邨健華樓懷疑洩漏不明氣體　全幢樓緊急疏散",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260218/1100632094847012864963058.jpeg/MqCMu34jKNuJnYT7bqOvcEQ3rzJvGR-3pd6VRoDelUY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60323141/%E5%B0%87%E8%BB%8D%E6%BE%B3%E5%81%A5%E6%98%8E%E9%82%A8%E5%81%A5%E8%8F%AF%E6%A8%93%E6%87%B7%E7%96%91%E6%B4%A9%E6%BC%8F%E4%B8%8D%E6%98%8E%E6%B0%A3%E9%AB%94-%E5%85%A8%E5%B9%A2%E6%A8%93%E7%B7%8A%E6%80%A5%E7%96%8F%E6%95%A3",
-    "timestamp": "2026-02-17T19:40:30.378Z",
     "strategy": ".content-card__main"
   }
 ];
