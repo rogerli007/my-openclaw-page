@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-18T23:37:14.077Z
+// Last updated: 2026-02-18T23:59:47.810Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "加州雪崩釀8死1失蹤　美國逾40年來最慘重",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260219/1101011228995620864731846.jpeg/058l6WDDEOUolOUmagsRv83t2xuAlleG08I169PCNes?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60323337/%E5%8A%A0%E5%B7%9E%E9%9B%AA%E5%B4%A9%E9%87%808%E6%AD%BB1%E5%A4%B1%E8%B9%A4-%E7%BE%8E%E5%9C%8B%E9%80%BE40%E5%B9%B4%E4%BE%86%E6%9C%80%E6%85%98%E9%87%8D",
+    "timestamp": "2026-02-18T23:59:47.810Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "加州雪崩釀8死1失蹤　美國逾40年來最慘重",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260213/1098914170516017152273654.jpeg/jhz6L5C9FdAQF3RgRi2Y5759SGd_Xs6sH7WgDx-1oA8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E8%A9%B1%E9%A1%8C/60301690/%E6%97%A5%E6%9C%AC%E7%94%B7%E5%A5%B3%E6%B7%B7%E6%B5%B4%E5%8F%B2-%E6%BE%A1%E5%A0%82%E6%9B%BE%E8%A8%AD-%E6%90%93%E6%BE%A1%E5%A5%B3%E5%B7%A5-%E5%A5%B3%E6%80%A7%E6%B5%B7%E7%81%98%E8%84%AB%E5%85%89%E4%BA%A6%E5%B1%AC%E7%AD%89%E9%96%92",
     "timestamp": "2026-02-18T15:39:33.456Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美國封鎖石油進入古巴　美媒：魯比奧與勞爾卡斯特羅孫兒秘密磋商",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260217/1100406155701653504106279.jpeg/oiMWZkJgjx5-9sOinlKdVYRItRnMb2JqxprrzMaa68w?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60323305/%E7%BE%8E%E5%9C%8B%E5%B0%81%E9%8E%96%E7%9F%B3%E6%B2%B9%E9%80%B2%E5%85%A5%E5%8F%A4%E5%B7%B4-%E7%BE%8E%E5%AA%92-%E9%AD%AF%E6%AF%94%E5%A5%A7%E8%88%87%E5%8B%9E%E7%88%BE%E5%8D%A1%E6%96%AF%E7%89%B9%E7%BE%85%E5%AD%AB%E5%85%92%E7%A7%98%E5%AF%86%E7%A3%8B%E5%95%86",
-    "timestamp": "2026-02-18T15:09:24.158Z",
     "strategy": ".content-card__main"
   }
 ];
