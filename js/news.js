@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-18T08:34:36.951Z
+// Last updated: 2026-02-18T08:59:20.482Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "港隊主帥韋斯活受批後離任　羅淑佩自我檢討：會避免政治干預誤解",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260218/1100826457589944320567109.jpeg/ERj-ijNCsylZz6cYbGHPIvZ6mQ0bYRbf7HsDwOx7A8A?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60323257/%E6%B8%AF%E9%9A%8A%E4%B8%BB%E5%B8%A5%E9%9F%8B%E6%96%AF%E6%B4%BB%E5%8F%97%E6%89%B9%E5%BE%8C%E9%9B%A2%E4%BB%BB-%E7%BE%85%E6%B7%91%E4%BD%A9%E8%87%AA%E6%88%91%E6%AA%A2%E8%A8%8E-%E6%9C%83%E9%81%BF%E5%85%8D%E6%94%BF%E6%B2%BB%E5%B9%B2%E9%A0%90%E8%AA%A4%E8%A7%A3",
+    "timestamp": "2026-02-18T08:59:20.482Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "吳家樂名門太太周蕙蕙罕露面　合體赴英向雷頌德夫婦拜年歎盆菜",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260216/1100104804576792576835741.jpeg/qfeKFnmAGCIJKdX-rj6xT75aYFAki3AdlqW0KZaltCk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60322879/%E6%A8%93%E5%B8%82%E5%8B%A2%E8%B5%B7%E9%A2%A8%E9%9B%B2-%E6%B1%AA%E7%B8%BD%E6%8F%90%E4%BE%9B%E5%B0%8F%E9%99%BD%E6%98%A5%E6%94%BB%E7%95%A5-%E6%B1%AA%E6%95%A6%E6%95%AC",
     "timestamp": "2026-02-17T22:16:54.098Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普稱日本履行貿易協議　對美首批投資涵蓋3大項目",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20240425/860097814221295616928504.jpeg/xhKzKTjEnmCmYatdfdf-fBXHnkEgVt254I8qH-CPKh8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60323144/%E7%89%B9%E6%9C%97%E6%99%AE%E7%A8%B1%E6%97%A5%E6%9C%AC%E5%B1%A5%E8%A1%8C%E8%B2%BF%E6%98%93%E5%8D%94%E8%AD%B0-%E5%B0%8D%E7%BE%8E%E9%A6%96%E6%89%B9%E6%8A%95%E8%B3%87%E6%B6%B5%E8%93%8B3%E5%A4%A7%E9%A0%85%E7%9B%AE",
-    "timestamp": "2026-02-17T21:53:38.898Z",
     "strategy": ".content-card__main"
   }
 ];
