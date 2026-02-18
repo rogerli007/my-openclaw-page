@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-18T08:59:20.482Z
+// Last updated: 2026-02-18T09:27:16.537Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "大埔林村許願樹！新年泊車每小時$100是水魚價？網民教1招平又快",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260218/1100839213378572288092714.png/m9TnudNNg2j-BRAsbThgcBVbSZkJYXzl77fsiu-37Io?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60323219/%E5%A4%A7%E5%9F%94%E6%9E%97%E6%9D%91%E8%A8%B1%E9%A1%98%E6%A8%B9-%E6%96%B0%E5%B9%B4%E6%B3%8A%E8%BB%8A%E6%AF%8F%E5%B0%8F%E6%99%82-100%E6%98%AF%E6%B0%B4%E9%AD%9A%E5%83%B9-%E7%B6%B2%E6%B0%91%E6%95%991%E6%8B%9B%E5%B9%B3%E5%8F%88%E5%BF%AB",
+    "timestamp": "2026-02-18T09:27:16.537Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "港隊主帥韋斯活受批後離任　羅淑佩自我檢討：會避免政治干預誤解",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260218/1100673126108368896236501.jpeg/y5Bk_Iqk5eQOT6X_eqGnR1HtqJs1z-joQCrPQ0Aqz0M?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60323140/%E5%B9%B4%E5%88%9D%E4%BA%8C%E5%A4%A9%E6%B0%A3-%E8%B3%80%E6%AD%B2%E7%85%99%E8%8A%B1%E5%B0%87%E4%B8%8A%E6%BC%94-%E5%A4%A9%E6%96%87%E5%8F%B0%E6%96%99%E5%A4%A7%E8%87%B4%E5%A4%9A%E9%9B%B2-%E6%97%A9%E4%B8%8A%E6%B8%85%E6%B6%BC%E7%B4%8417%E5%BA%A6",
     "timestamp": "2026-02-17T22:34:12.765Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "樓市勢起風雲！汪總提供小陽春攻略！｜汪敦敬",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260216/1100104804576792576835741.jpeg/qfeKFnmAGCIJKdX-rj6xT75aYFAki3AdlqW0KZaltCk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60322879/%E6%A8%93%E5%B8%82%E5%8B%A2%E8%B5%B7%E9%A2%A8%E9%9B%B2-%E6%B1%AA%E7%B8%BD%E6%8F%90%E4%BE%9B%E5%B0%8F%E9%99%BD%E6%98%A5%E6%94%BB%E7%95%A5-%E6%B1%AA%E6%95%A6%E6%95%AC",
-    "timestamp": "2026-02-17T22:16:54.098Z",
     "strategy": ".content-card__main"
   }
 ];
