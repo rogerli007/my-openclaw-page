@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-18T21:50:56.320Z
+// Last updated: 2026-02-18T22:18:55.282Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "赤口天氣｜今早市區約18度　日間乾燥最高22度　未來幾天日間溫暖",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260219/1101034510755303424809236.jpeg/hCJXEmYQiSvz5JcdDzqDaF_W82gw6GLwLFMYGixTGBo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60323324/%E8%B5%A4%E5%8F%A3%E5%A4%A9%E6%B0%A3-%E4%BB%8A%E6%97%A9%E5%B8%82%E5%8D%80%E7%B4%8418%E5%BA%A6-%E6%97%A5%E9%96%93%E4%B9%BE%E7%87%A5%E6%9C%80%E9%AB%9822%E5%BA%A6-%E6%9C%AA%E4%BE%86%E5%B9%BE%E5%A4%A9%E6%97%A5%E9%96%93%E6%BA%AB%E6%9A%96",
+    "timestamp": "2026-02-18T22:18:55.282Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "伊朗外長與格羅西通話：正制定談判框架　推進後續美伊對話",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260218/1100856402647191552609124.png/6iG2vTzfcs6pjSqf2UoUDT5Xd9SQqM8TrcCsVa3ArFU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60323279/%E6%98%A5%E7%AF%80-%E5%88%9D%E5%9B%9B%E5%A4%A9%E7%A9%BA%E4%B8%8A%E6%BC%94-%E6%B0%B4%E6%98%9F%E6%8B%9C%E5%B9%B4-%E5%A5%BD%E6%88%B2-%E5%85%AC%E7%9C%BE%E7%94%A8%E8%82%89%E7%9C%BC%E5%8D%B3%E5%8F%AF%E4%B8%80%E7%9D%B9%E9%A2%A8%E9%87%87",
     "timestamp": "2026-02-18T12:54:54.056Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "趙希洛再分享婚紗照　終見老公身影趙希洛依偎合照甜蜜溫馨",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260218/1100868420582248448236748.jpeg/_TRf4eXUP8PigRRasAJC5gDuMaXFws0CmKvgVJir4FQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60323286/%E8%B6%99%E5%B8%8C%E6%B4%9B%E5%86%8D%E5%88%86%E4%BA%AB%E5%A9%9A%E7%B4%97%E7%85%A7-%E7%B5%82%E8%A6%8B%E8%80%81%E5%85%AC%E8%BA%AB%E5%BD%B1%E8%B6%99%E5%B8%8C%E6%B4%9B%E4%BE%9D%E5%81%8E%E5%90%88%E7%85%A7%E7%94%9C%E8%9C%9C%E6%BA%AB%E9%A6%A8",
-    "timestamp": "2026-02-18T12:25:42.243Z",
     "strategy": ".content-card__main"
   }
 ];
