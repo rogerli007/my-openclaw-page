@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-18T09:53:47.491Z
+// Last updated: 2026-02-18T10:26:46.104Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "日本據報4月起禁乘客在飛機內使用「尿袋」　應對電池起火事件",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260218/1100848076064559104218437.png/bow49bRRFFe9YJp9Zkhz-ZmmoghvMdb49uFeGPbhXhg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60323269/%E6%97%A5%E6%9C%AC%E6%93%9A%E5%A0%B14%E6%9C%88%E8%B5%B7%E7%A6%81%E4%B9%98%E5%AE%A2%E5%9C%A8%E9%A3%9B%E6%A9%9F%E5%85%A7%E4%BD%BF%E7%94%A8-%E5%B0%BF%E8%A2%8B-%E6%87%89%E5%B0%8D%E9%9B%BB%E6%B1%A0%E8%B5%B7%E7%81%AB%E4%BA%8B%E4%BB%B6",
+    "timestamp": "2026-02-18T10:26:46.104Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "巨蟹座男性格13大特質｜巨蟹男喜歡一個人的徵兆/好感暗示有這些",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260212/1098445319059804160870614.jpeg/AcTrVpvAdVQilk_ZEjFuLBgQNi9GIZ9JD385bg9_OW4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60321466/%E9%96%8B%E6%94%BE%E5%BC%8F%E5%A4%BE%E8%80%B3%E8%80%B3%E6%A9%9F-sony%E4%BA%BA%E8%81%B2%E5%A2%9E%E5%BC%B7-%E8%8F%AF%E7%82%BA%E4%BD%8E%E9%9F%B3%E5%87%BA%E8%89%B2-momax-ai%E5%8D%B3%E6%99%82%E7%BF%BB%E8%AD%AF",
     "timestamp": "2026-02-17T23:16:46.681Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "年初二天氣｜賀歲煙花將上演　天文台料大致多雲　早上清涼約17度",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260218/1100673126108368896236501.jpeg/y5Bk_Iqk5eQOT6X_eqGnR1HtqJs1z-joQCrPQ0Aqz0M?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60323140/%E5%B9%B4%E5%88%9D%E4%BA%8C%E5%A4%A9%E6%B0%A3-%E8%B3%80%E6%AD%B2%E7%85%99%E8%8A%B1%E5%B0%87%E4%B8%8A%E6%BC%94-%E5%A4%A9%E6%96%87%E5%8F%B0%E6%96%99%E5%A4%A7%E8%87%B4%E5%A4%9A%E9%9B%B2-%E6%97%A9%E4%B8%8A%E6%B8%85%E6%B6%BC%E7%B4%8417%E5%BA%A6",
-    "timestamp": "2026-02-17T22:54:59.621Z",
     "strategy": ".content-card__main"
   }
 ];
