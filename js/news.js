@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-18T06:45:22.324Z
+// Last updated: 2026-02-18T07:14:53.586Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "新年小食｜營養師6招穩血糖吃零食3原則食住瘦！朱古力+1物減焦慮",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260216/1100096904043171840021658.jpeg/YCk6fOB44zgAHXMSlk4hfoY8UxTgxcrxb99hWW_fYVk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60318737/%E6%96%B0%E5%B9%B4%E5%B0%8F%E9%A3%9F-%E7%87%9F%E9%A4%8A%E5%B8%AB6%E6%8B%9B%E7%A9%A9%E8%A1%80%E7%B3%96%E5%90%83%E9%9B%B6%E9%A3%9F3%E5%8E%9F%E5%89%87%E9%A3%9F%E4%BD%8F%E7%98%A6-%E6%9C%B1%E5%8F%A4%E5%8A%9B-1%E7%89%A9%E6%B8%9B%E7%84%A6%E6%85%AE",
+    "timestamp": "2026-02-18T07:14:53.586Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "初二高鐵西九站逼爆入境客　廣州客過年來　因那「特別的秩序感」",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260218/1100645650397138944978061.jpeg/AOgDFYc4SkLP8YUXTSSXxHh6-IpOETYox_nWtcf51rU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60323141/%E5%B0%87%E8%BB%8D%E6%BE%B3%E5%81%A5%E8%8F%AF%E6%A8%93%E7%96%91%E6%BC%8F%E6%B0%A3-%E5%85%A8%E5%B9%A2%E6%A8%93%E7%B7%8A%E6%80%A5%E7%96%8F%E6%95%A3-%E6%B6%88%E9%98%B2%E7%88%86%E9%96%80%E8%AD%89%E7%82%86%E7%89%9B%E8%82%89%E7%85%B2%E4%B9%BE%E6%B0%B4",
     "timestamp": "2026-02-17T20:23:57.864Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "將軍澳健華樓疑漏氣　全幢樓緊急疏散　消防爆門證炆牛肉煲乾水",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260218/1100632094847012864963058.jpeg/MqCMu34jKNuJnYT7bqOvcEQ3rzJvGR-3pd6VRoDelUY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60323141/%E5%B0%87%E8%BB%8D%E6%BE%B3%E5%81%A5%E8%8F%AF%E6%A8%93%E7%96%91%E6%BC%8F%E6%B0%A3-%E5%85%A8%E5%B9%A2%E6%A8%93%E7%B7%8A%E6%80%A5%E7%96%8F%E6%95%A3-%E6%B6%88%E9%98%B2%E7%88%86%E9%96%80%E8%AD%89%E7%82%86%E7%89%9B%E8%82%89%E7%85%B2%E4%B9%BE%E6%B0%B4",
-    "timestamp": "2026-02-17T20:02:38.705Z",
     "strategy": ".content-card__main"
   }
 ];
