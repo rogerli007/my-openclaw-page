@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-18T03:23:25.624Z
+// Last updated: 2026-02-18T04:24:31.636Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "初二車公誕｜鄧炳強車公廟購闔家平安吊飾　入廟轉風車願香港安全",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260218/1100759203293171712568307.jpeg/GXYlY8ejhUD4hOSKfwKfzxjRU0sZ4ZKuWir0vVoq9L0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60323185/%E5%88%9D%E4%BA%8C%E8%BB%8A%E5%85%AC%E8%AA%95-%E9%84%A7%E7%82%B3%E5%BC%B7%E8%BB%8A%E5%85%AC%E5%BB%9F%E8%B3%BC%E9%97%94%E5%AE%B6%E5%B9%B3%E5%AE%89%E5%90%8A%E9%A3%BE-%E5%85%A5%E5%BB%9F%E8%BD%89%E9%A2%A8%E8%BB%8A%E9%A1%98%E9%A6%99%E6%B8%AF%E5%AE%89%E5%85%A8",
+    "timestamp": "2026-02-18T04:24:31.636Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "年初一雲南楚雄遊船傾覆致26人落水4死　國務院掛牌督辦提級查處",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260218/1100598486878916608450267.jpeg/tm8g0IAfpTzVuwFR2qAef0pGeP3TS2lPaPLSnmjy0p4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60323137/%E7%BE%8E%E4%BF%84%E7%83%8F%E6%96%B0%E4%B8%80%E8%BC%AA%E6%9C%83%E8%AB%87%E5%B1%95%E9%96%8B-%E7%83%8F%E6%96%B9-%E5%AE%89%E5%85%A8%E5%8F%8A%E4%BA%BA%E9%81%93%E5%95%8F%E9%A1%8C%E7%B4%8D%E5%85%A5%E8%AD%B0%E7%A8%8B",
     "timestamp": "2026-02-17T18:10:22.180Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美俄烏新一輪會談展開　烏方：安全及人道問題納入議程",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260218/1100598486878916608450267.jpeg/tm8g0IAfpTzVuwFR2qAef0pGeP3TS2lPaPLSnmjy0p4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60323137/%E7%BE%8E%E4%BF%84%E7%83%8F%E6%96%B0%E4%B8%80%E8%BC%AA%E6%9C%83%E8%AB%87%E5%B1%95%E9%96%8B-%E7%83%8F%E6%96%B9-%E5%AE%89%E5%85%A8%E5%8F%8A%E4%BA%BA%E9%81%93%E5%95%8F%E9%A1%8C%E7%B4%8D%E5%85%A5%E8%AD%B0%E7%A8%8B",
-    "timestamp": "2026-02-17T17:42:17.588Z",
     "strategy": ".content-card__main"
   }
 ];
