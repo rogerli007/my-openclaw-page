@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-18T22:37:05.848Z
+// Last updated: 2026-02-18T23:03:03.955Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "普京晤古巴外長　稱美國對古巴實施新制裁「不可接受」",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260219/1101004165133373440825149.jpeg/ORDkTw3cNegLfCm6Z6r_O1I3hOkbDSK2RwY2uUcGNrk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60323335/%E6%99%AE%E4%BA%AC%E6%99%A4%E5%8F%A4%E5%B7%B4%E5%A4%96%E9%95%B7-%E7%A8%B1%E7%BE%8E%E5%9C%8B%E5%B0%8D%E5%8F%A4%E5%B7%B4%E5%AF%A6%E6%96%BD%E6%96%B0%E5%88%B6%E8%A3%81-%E4%B8%8D%E5%8F%AF%E6%8E%A5%E5%8F%97",
+    "timestamp": "2026-02-18T23:03:03.955Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "英超｜阿仙奴作客遭狼隊逼和2：2　領先曼城5分",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260218/1100854163484446720372580.jpeg/hqrz12qFPRMnJFw9JA3bNQ7zxtEdvu_gx9yUqcfclKk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60323287/%E5%B9%B4%E5%88%9D%E4%B8%89-%E8%B5%A4%E5%8F%A3-%E6%97%A9%E4%B8%8A%E6%B8%85%E6%B6%BC-%E5%A4%A9%E6%96%87%E5%8F%B0%E6%96%99%E4%B8%8B%E5%91%A8%E4%B8%80-%E4%BA%BA%E6%97%A5-%E8%B5%B7%E6%9C%89%E4%B8%80%E5%85%A9%E9%99%A3%E5%BE%AE%E9%9B%A8",
     "timestamp": "2026-02-18T14:15:02.841Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "千禧女神生完四胎身形依然如少女　與家人外遊度歲近照驚豔網民",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260218/1100820337106358272052986.png/smdvpoIzcq4E4wWtWaUeFx3yvcALTmIAbcTek23E3pM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60323236/%E6%A5%8A%E5%BC%B5%E6%96%B0%E6%82%85%E7%94%9F%E5%AE%8C%E5%9B%9B%E8%83%8E%E8%BA%AB%E5%BD%A2%E4%BE%9D%E7%84%B6%E5%A6%82%E5%B0%91%E5%A5%B3-%E8%88%87%E5%AE%B6%E4%BA%BA%E5%A4%96%E9%81%8A%E5%BA%A6%E6%AD%B2%E8%BF%91%E7%85%A7%E9%A9%9A%E8%B1%94%E7%B6%B2%E6%B0%91",
-    "timestamp": "2026-02-18T13:39:19.873Z",
     "strategy": ".content-card__main"
   }
 ];
