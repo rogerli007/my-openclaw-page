@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-18T01:19:22.063Z
+// Last updated: 2026-02-18T02:08:06.330Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "「沽神」保爾森關美國工廠轉來華設廠　昔力撐特朗普關稅狂批外判",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260218/1100730070835662848751296.jpeg/F1L5E1bEvQSlFm9GvxNjKUmIr8cateF_aYFr02mBa9M?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60323160/%E6%B2%BD%E7%A5%9E-%E4%BF%9D%E7%88%BE%E6%A3%AE%E9%97%9C%E7%BE%8E%E5%9C%8B%E5%B7%A5%E5%BB%A0%E8%BD%89%E4%BE%86%E8%8F%AF%E8%A8%AD%E5%BB%A0-%E6%98%94%E5%8A%9B%E6%92%90%E7%89%B9%E6%9C%97%E6%99%AE%E9%97%9C%E7%A8%85%E7%8B%82%E6%89%B9%E5%A4%96%E5%88%A4",
+    "timestamp": "2026-02-18T02:08:06.330Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "大廈保安數利是錢影片瘋傳！新年收穫利是竟多到咁　數錢數到手軟",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260218/1100588111274053632316907.jpeg/rq--hehy8r3toq_kF8lCqc3o14La6dwDE9nOjBPZzow?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60323134/%E8%BE%B2%E6%9B%86%E6%96%B0%E5%B9%B4-14%E5%80%8B%E5%B9%B4%E5%AE%B5%E5%B8%82%E5%A0%B4%E5%85%B1%E8%BF%8E265%E8%90%AC%E4%BA%BA%E6%AC%A1-%E7%B6%AD%E5%9C%92%E5%B9%B4%E5%BB%BF%E4%B9%9D%E9%8C%84%E9%80%BE21%E8%90%AC%E4%BA%BA",
     "timestamp": "2026-02-17T17:14:14.710Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "農曆新年｜14個年宵市場共迎265萬人次　維園年廿九錄逾21萬人",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260218/1100588111274053632316907.jpeg/rq--hehy8r3toq_kF8lCqc3o14La6dwDE9nOjBPZzow?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60323134/%E8%BE%B2%E6%9B%86%E6%96%B0%E5%B9%B4-14%E5%80%8B%E5%B9%B4%E5%AE%B5%E5%B8%82%E5%A0%B4%E5%85%B1%E8%BF%8E265%E8%90%AC%E4%BA%BA%E6%AC%A1-%E7%B6%AD%E5%9C%92%E5%B9%B4%E5%BB%BF%E4%B9%9D%E9%8C%84%E9%80%BE21%E8%90%AC%E4%BA%BA",
-    "timestamp": "2026-02-17T16:41:14.637Z",
     "strategy": ".content-card__main"
   }
 ];
