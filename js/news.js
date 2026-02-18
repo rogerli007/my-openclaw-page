@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-18T17:42:46.807Z
+// Last updated: 2026-02-18T18:07:57.781Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "珍惜生命｜大角咀海富苑男子疑自割　昏迷送院搶救",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260219/1100970940314947584160942.jpeg/Yk5y0dCjCA7lx8vyhksaWz1VbOXH8jovtyknW40pJ1s?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60323325/%E7%8F%8D%E6%83%9C%E7%94%9F%E5%91%BD-%E5%A4%A7%E8%A7%92%E5%92%80%E6%B5%B7%E5%AF%8C%E8%8B%91%E7%94%B7%E5%AD%90%E7%96%91%E8%87%AA%E5%89%B2-%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2%E6%90%B6%E6%95%91",
+    "timestamp": "2026-02-18T18:07:57.781Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "尹錫悅涉嫌發動內亂案19日一審宣判　央視：本人將出庭",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260218/1100800794036277248870214.jpeg/Y8dI772LPVrVe8UyId1hzLdjSeb0TCMZzTRIC800SAs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60323223/%E5%90%B3%E5%AE%B6%E6%A8%82%E5%90%8D%E9%96%80%E5%A4%AA%E5%A4%AA%E5%91%A8%E8%95%99%E8%95%99%E7%BD%95%E9%9C%B2%E9%9D%A2-%E5%90%88%E9%AB%94%E8%B5%B4%E8%8B%B1%E5%90%91%E9%9B%B7%E9%A0%8C%E5%BE%B7%E5%A4%AB%E5%A9%A6%E6%8B%9C%E5%B9%B4%E6%AD%8E%E7%9B%86%E8%8F%9C",
     "timestamp": "2026-02-18T08:34:36.951Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "英漢涉年廿九大鬧機場　被控刑毀及藏第一部毒藥　保釋至4.15再訊",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260216/1099977216067899392514807.jpeg/gNAZwuZI1N1F9DoSSlSiqj9dZ7SgFYdjMQlA8jEJQPI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60323249/%E8%8B%B1%E6%BC%A2%E6%B6%89%E5%B9%B4%E5%BB%BF%E4%B9%9D%E5%A4%A7%E9%AC%A7%E6%A9%9F%E5%A0%B4-%E8%A2%AB%E6%8E%A7%E5%88%91%E6%AF%80%E5%8F%8A%E8%97%8F%E7%AC%AC%E4%B8%80%E9%83%A8%E6%AF%92%E8%97%A5-%E4%BF%9D%E9%87%8B%E8%87%B34-15%E5%86%8D%E8%A8%8A",
-    "timestamp": "2026-02-18T08:05:52.919Z",
     "strategy": ".content-card__main"
   }
 ];
