@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-18T15:39:33.456Z
+// Last updated: 2026-02-18T16:10:35.453Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "冬奧︱美國名將稱霸女子高山滑雪迴轉賽　港將金詠晞未能完賽",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260218/1100939404836343808150879.jpeg/rPMgFVD0mdgEv5xqLprFeVIjtHbc8Ch2j0xzyo9Mc8o?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60323313/%E5%86%AC%E5%A5%A7-%E7%BE%8E%E5%9C%8B%E5%90%8D%E5%B0%87%E7%A8%B1%E9%9C%B8%E5%A5%B3%E5%AD%90%E9%AB%98%E5%B1%B1%E6%BB%91%E9%9B%AA%E8%BF%B4%E8%BD%89%E8%B3%BD-%E6%B8%AF%E5%B0%87%E9%87%91%E8%A9%A0%E6%99%9E%E6%9C%AA%E8%83%BD%E5%AE%8C%E8%B3%BD",
+    "timestamp": "2026-02-18T16:10:35.453Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "日本男女混浴史：澡堂曾設「搓澡女工」　女性海灘脫光亦屬等閒",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260218/1100798048373575680587296.jpeg/Ng8Y50m_UKa4vCl0YwqDzSJBraJPLdSJEYh5eRGIeXk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60323225/%E5%88%9D%E4%BA%8C%E9%AB%98%E9%90%B5%E8%A5%BF%E4%B9%9D%E7%AB%99%E9%80%BC%E7%88%86%E5%85%A5%E5%A2%83%E5%AE%A2-%E5%BB%A3%E5%B7%9E%E5%AE%A2%E9%81%8E%E5%B9%B4%E4%BE%86-%E5%9B%A0%E9%82%A3-%E7%89%B9%E5%88%A5%E7%9A%84%E7%A7%A9%E5%BA%8F%E6%84%9F",
     "timestamp": "2026-02-18T06:45:22.324Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美國德州起訴TP-Link指控存誤導行為　設備允許北京獲取用戶數據",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260218/1100791748503801856351874.jpeg/lRfz79E6SEB0MZi4_5pehAn38bIIUMdJyfNO_cnzTv0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60323212/%E7%BE%8E%E5%9C%8B%E5%BE%B7%E5%B7%9E%E8%B5%B7%E8%A8%B4tp-link%E6%8C%87%E6%8E%A7%E5%AD%98%E8%AA%A4%E5%B0%8E%E8%A1%8C%E7%82%BA-%E8%A8%AD%E5%82%99%E5%85%81%E8%A8%B1%E5%8C%97%E4%BA%AC%E7%8D%B2%E5%8F%96%E7%94%A8%E6%88%B6%E6%95%B8%E6%93%9A",
-    "timestamp": "2026-02-18T06:15:53.327Z",
     "strategy": ".content-card__main"
   }
 ];
