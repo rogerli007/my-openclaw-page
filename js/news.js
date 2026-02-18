@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-18T11:52:07.430Z
+// Last updated: 2026-02-18T12:25:42.243Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "趙希洛再分享婚紗照　終見老公身影趙希洛依偎合照甜蜜溫馨",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260218/1100868420582248448236748.jpeg/_TRf4eXUP8PigRRasAJC5gDuMaXFws0CmKvgVJir4FQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60323286/%E8%B6%99%E5%B8%8C%E6%B4%9B%E5%86%8D%E5%88%86%E4%BA%AB%E5%A9%9A%E7%B4%97%E7%85%A7-%E7%B5%82%E8%A6%8B%E8%80%81%E5%85%AC%E8%BA%AB%E5%BD%B1%E8%B6%99%E5%B8%8C%E6%B4%9B%E4%BE%9D%E5%81%8E%E5%90%88%E7%85%A7%E7%94%9C%E8%9C%9C%E6%BA%AB%E9%A6%A8",
+    "timestamp": "2026-02-18T12:25:42.243Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "新春煙花匯演．直播｜馬年初二31888枚維港綻放　駿馬、吉祥掛帥",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260216/1100087856740700160627085.jpeg/1zHC2unwZmIgudFR8dubZ4h_lfqXKFS_AijsvQIo7L0",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60322869/%E5%A4%A7%E5%BB%88%E4%BF%9D%E5%AE%89%E6%95%B8%E5%88%A9%E6%98%AF%E9%8C%A2%E5%BD%B1%E7%89%87%E7%98%8B%E5%82%B3-%E6%96%B0%E5%B9%B4%E6%94%B6%E7%A9%AB%E5%88%A9%E6%98%AF%E7%AB%9F%E5%A4%9A%E5%88%B0%E5%92%81-%E6%95%B8%E9%8C%A2%E6%95%B8%E5%88%B0%E6%89%8B%E8%BB%9F",
     "timestamp": "2026-02-18T01:19:22.063Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "《愛回家》食屎陳生過年密密開工搵食　曾做輔警近年變的士界紅人",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260217/1100527190530854912527148.jpeg/40DPXkB5zW1Tuu9CI0wlq0Sfygg6jyLd0Ctpe9AraXs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60323047/%E6%84%9B%E5%9B%9E%E5%AE%B6-%E9%BB%83%E5%BF%97%E6%A6%AE%E9%81%8E%E5%B9%B4%E5%AF%86%E5%AF%86%E9%96%8B%E5%B7%A5%E6%90%B5%E9%A3%9F-%E6%9B%BE%E5%81%9A%E8%BC%94%E8%AD%A6%E8%BF%91%E5%B9%B4%E8%AE%8A%E7%9A%84%E5%A3%AB%E7%95%8C%E7%B4%85%E4%BA%BA",
-    "timestamp": "2026-02-18T00:46:01.323Z",
     "strategy": ".content-card__main"
   }
 ];
