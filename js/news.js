@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-18T08:05:52.919Z
+// Last updated: 2026-02-18T08:34:36.951Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "吳家樂名門太太周蕙蕙罕露面　合體赴英向雷頌德夫婦拜年歎盆菜",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260218/1100800794036277248870214.jpeg/Y8dI772LPVrVe8UyId1hzLdjSeb0TCMZzTRIC800SAs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60323223/%E5%90%B3%E5%AE%B6%E6%A8%82%E5%90%8D%E9%96%80%E5%A4%AA%E5%A4%AA%E5%91%A8%E8%95%99%E8%95%99%E7%BD%95%E9%9C%B2%E9%9D%A2-%E5%90%88%E9%AB%94%E8%B5%B4%E8%8B%B1%E5%90%91%E9%9B%B7%E9%A0%8C%E5%BE%B7%E5%A4%AB%E5%A9%A6%E6%8B%9C%E5%B9%B4%E6%AD%8E%E7%9B%86%E8%8F%9C",
+    "timestamp": "2026-02-18T08:34:36.951Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "英漢涉年廿九大鬧機場　被控刑毀及藏第一部毒藥　保釋至4.15再訊",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20240425/860097814221295616928504.jpeg/xhKzKTjEnmCmYatdfdf-fBXHnkEgVt254I8qH-CPKh8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60323144/%E7%89%B9%E6%9C%97%E6%99%AE%E7%A8%B1%E6%97%A5%E6%9C%AC%E5%B1%A5%E8%A1%8C%E8%B2%BF%E6%98%93%E5%8D%94%E8%AD%B0-%E5%B0%8D%E7%BE%8E%E9%A6%96%E6%89%B9%E6%8A%95%E8%B3%87%E6%B6%B5%E8%93%8B3%E5%A4%A7%E9%A0%85%E7%9B%AE",
     "timestamp": "2026-02-17T21:53:38.898Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美軍於東太平洋及加勒比海打擊運毒船　擊斃11人",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260218/1100619601911222272914265.png/Nv4d9bUr_EnSkTGmij6VyvMxI8HklhxyDBJAggwSQII?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60323139/%E7%BE%8E%E8%BB%8D%E6%96%BC%E6%9D%B1%E5%A4%AA%E5%B9%B3%E6%B4%8B%E5%8F%8A%E5%8A%A0%E5%8B%92%E6%AF%94%E6%B5%B7%E6%89%93%E6%93%8A%E9%81%8B%E6%AF%92%E8%88%B9-%E6%93%8A%E6%96%8311%E4%BA%BA",
-    "timestamp": "2026-02-17T21:20:45.882Z",
     "strategy": ".content-card__main"
   }
 ];
