@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-19T07:40:50.273Z
+// Last updated: 2026-02-19T08:05:33.877Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "福田美食｜深圳首家台山黃鱔飯　爆脆鍋巴+活鱔8吃　碌鵝濃香惹味",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260216/1100090690181795840510672.jpeg/DcptGvCT1Y1D7YqQSTBSYXMaA43yLMVQUcDqpFHA6qQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%97%85%E9%81%8A/60318067/%E7%A6%8F%E7%94%B0%E7%BE%8E%E9%A3%9F-%E6%B7%B1%E5%9C%B3%E9%A6%96%E5%AE%B6%E5%8F%B0%E5%B1%B1%E9%BB%83%E9%B1%94%E9%A3%AF-%E7%88%86%E8%84%86%E9%8D%8B%E5%B7%B4-%E6%B4%BB%E9%B1%948%E5%90%83-%E7%A2%8C%E9%B5%9D%E6%BF%83%E9%A6%99%E6%83%B9%E5%91%B3",
+    "timestamp": "2026-02-19T08:05:33.877Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "元旦至上周急症室求診按年減10.9%　醫管局：公院收費改革初見效",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260217/1100573572050456576571904.jpeg/U-hJ73mELIpvwkPXP7TbKN3oyGlyH89nOWBclTlgXJU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60323329/%E4%BC%8A%E6%9C%97%E5%A4%96%E9%95%B7%E8%88%87%E6%A0%BC%E7%BE%85%E8%A5%BF%E9%80%9A%E8%A9%B1-%E6%AD%A3%E5%88%B6%E5%AE%9A%E8%AB%87%E5%88%A4%E6%A1%86%E6%9E%B6-%E6%8E%A8%E9%80%B2%E5%BE%8C%E7%BA%8C%E7%BE%8E%E4%BC%8A%E5%B0%8D%E8%A9%B1",
     "timestamp": "2026-02-18T21:22:34.478Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "伊朗外長與格羅西通話：正制定談判框架　推進後續美伊對話",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260217/1100573572050456576571904.jpeg/U-hJ73mELIpvwkPXP7TbKN3oyGlyH89nOWBclTlgXJU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60323329/%E4%BC%8A%E6%9C%97%E5%A4%96%E9%95%B7%E8%88%87%E6%A0%BC%E7%BE%85%E8%A5%BF%E9%80%9A%E8%A9%B1-%E6%AD%A3%E5%88%B6%E5%AE%9A%E8%AB%87%E5%88%A4%E6%A1%86%E6%9E%B6-%E6%8E%A8%E9%80%B2%E5%BE%8C%E7%BA%8C%E7%BE%8E%E4%BC%8A%E5%B0%8D%E8%A9%B1",
-    "timestamp": "2026-02-18T20:52:59.338Z",
     "strategy": ".content-card__main"
   }
 ];
