@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-19T18:09:31.720Z
+// Last updated: 2026-02-19T18:38:53.154Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "油麻地果欄對開雪櫃遭淋白油　口罩男犯案後逃跑　警列刑毀調查",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260220/1101338517654474752835214.jpeg/r_BElQJKAXcGzSwRScSHCe8lGF8t1ZN66w3yCdEN8gk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60323519/%E6%B2%B9%E9%BA%BB%E5%9C%B0%E6%9E%9C%E6%AC%84%E5%B0%8D%E9%96%8B%E9%9B%AA%E6%AB%83%E9%81%AD%E6%B7%8B%E7%99%BD%E6%B2%B9-%E5%8F%A3%E7%BD%A9%E7%94%B7%E7%8A%AF%E6%A1%88%E5%BE%8C%E9%80%83%E8%B7%91-%E8%AD%A6%E5%88%97%E5%88%91%E6%AF%80%E8%AA%BF%E6%9F%A5",
+    "timestamp": "2026-02-19T18:38:53.154Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美職早霸王｜美職開鑼　孫興民領FC洛杉磯搶先入波",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260219/1101188700332625920237019.jpeg/wMLicBID1orJgnTU7qweGTVap16S7BmCLet0KS3rdCk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60323441/%E5%B0%B9%E9%8C%AB%E6%82%85-%E9%9F%93%E5%9C%8B%E6%B0%91%E9%9D%9E%E6%9A%B4%E5%8A%9B%E9%98%BB%E6%88%92%E5%9A%B4%E7%8D%B2%E6%8F%90%E5%90%8D%E5%92%8C%E5%B9%B3%E7%8D%8E-%E6%9D%8E%E5%9C%A8%E6%98%8E-%E4%BA%BA%E9%A1%9E%E6%AD%B7%E5%8F%B2%E5%85%B8%E7%AF%84",
     "timestamp": "2026-02-19T08:58:02.250Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "議員來稿．葛珮帆｜明辨善惡見利思義　與民同心共策新程",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260218/1100720682230091776871326.jpeg/eA1JlVCSwNpnUrUaKrWxr1thx6eYwK3CkrLT9JKy0_Q?v=w1920r16_9",
-    "url": "https://www.hk01.com/01%E8%AB%96%E5%A3%87/60323443/%E8%AD%B0%E5%93%A1%E4%BE%86%E7%A8%BF-%E8%91%9B%E7%8F%AE%E5%B8%86-%E6%98%8E%E8%BE%A8%E5%96%84%E6%83%A1%E8%A6%8B%E5%88%A9%E6%80%9D%E7%BE%A9-%E8%88%87%E6%B0%91%E5%90%8C%E5%BF%83%E5%85%B1%E7%AD%96%E6%96%B0%E7%A8%8B",
-    "timestamp": "2026-02-19T08:33:33.166Z",
     "strategy": ".content-card__main"
   }
 ];
