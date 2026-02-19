@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-19T21:17:49.993Z
+// Last updated: 2026-02-19T21:35:38.247Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "尿袋3C認證3月起更新｜工信部收緊行動電源監管追加2大新標準",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20251127/1070722482438148096542189.jpeg/4mc-X0UuvD7xU54f_MHzRAiUUqY-U7Y2P_MVFz_zFRc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60297788/%E5%B0%BF%E8%A2%8B3c%E8%AA%8D%E8%AD%893%E6%9C%88%E8%B5%B7%E6%9B%B4%E6%96%B0-%E5%B7%A5%E4%BF%A1%E9%83%A8%E6%94%B6%E7%B7%8A%E8%A1%8C%E5%8B%95%E9%9B%BB%E6%BA%90%E7%9B%A3%E7%AE%A1%E8%BF%BD%E5%8A%A02%E5%A4%A7%E6%96%B0%E6%A8%99%E6%BA%96",
+    "timestamp": "2026-02-19T21:35:38.247Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "安德魯被捕｜遭問話約12小時後離開警署　警方稱案件繼續調查",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260219/1101201672039829504562714.png/VLFm86aIPP_QHJpKxIA9PpuDfHc7PHUnzL73Qcy-90E?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60323452/%E8%BE%B2%E6%9B%86%E6%96%B0%E5%B9%B4-%E5%A4%96%E5%9C%8B%E9%81%8A%E5%AE%A2%E6%B9%A7%E4%B8%AD%E5%9C%8B-%E8%B9%AD%E5%B9%B4%E5%91%B3-%E5%B0%8F%E8%AA%9E%E7%A8%AE%E5%B0%8E%E9%81%8A%E6%97%A5%E8%96%AA%E5%8F%AF%E9%81%942500%E5%85%83",
     "timestamp": "2026-02-19T12:26:35.551Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "捲愛潑斯坦案　安德魯今66歲生日被捕　施紀賢：無人可凌駕法律",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260201/1094505697212633088281379.jpeg/aF2nDokcj5ebnFTGzd11aeYY_ETVSxtg3pfmH96X5h8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60323485/%E6%8D%B2%E6%84%9B%E6%BD%91%E6%96%AF%E5%9D%A6%E6%A1%88-%E5%AE%89%E5%BE%B7%E9%AD%AF%E4%BB%8A66%E6%AD%B2%E7%94%9F%E6%97%A5%E8%A2%AB%E6%8D%95-%E6%96%BD%E7%B4%80%E8%B3%A2-%E7%84%A1%E4%BA%BA%E5%8F%AF%E5%87%8C%E9%A7%95%E6%B3%95%E5%BE%8B",
-    "timestamp": "2026-02-19T11:51:49.541Z",
     "strategy": ".content-card__main"
   }
 ];
