@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-19T10:53:13.249Z
+// Last updated: 2026-02-19T11:25:45.781Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "郭富城為兩女準備驚喜　送BABYMONSTER親筆簽名CD：寫埋佢哋個名",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260219/1101208477977546752624901.jpeg/pcGpywjRNBAr18CUs7b6PyNb8hVmoZsybZOXcleTl3I?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60323460/%E9%83%AD%E5%AF%8C%E5%9F%8E%E7%82%BA%E5%85%A9%E5%A5%B3%E6%BA%96%E5%82%99%E9%A9%9A%E5%96%9C-%E9%80%81babymonster%E8%A6%AA%E7%AD%86%E7%B0%BD%E5%90%8Dcd-%E5%AF%AB%E5%9F%8B%E4%BD%A2%E5%93%8B%E5%80%8B%E5%90%8D",
+    "timestamp": "2026-02-19T11:25:45.781Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "荔枝角昇悅居高層兩房戶　815萬元易手　原業主持貨20年帳賺551萬",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260219/1101011228995620864731846.jpeg/058l6WDDEOUolOUmagsRv83t2xuAlleG08I169PCNes?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60323337/%E5%8A%A0%E5%B7%9E%E9%9B%AA%E5%B4%A9%E9%87%808%E6%AD%BB1%E5%A4%B1%E8%B9%A4-%E7%BE%8E%E5%9C%8B%E9%80%BE40%E5%B9%B4%E4%BE%86%E6%9C%80%E6%85%98%E9%87%8D",
     "timestamp": "2026-02-18T23:59:47.810Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "加州雪崩釀8死1失蹤　美國逾40年來最慘重",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260219/1101011228995620864731846.jpeg/058l6WDDEOUolOUmagsRv83t2xuAlleG08I169PCNes?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60323337/%E5%8A%A0%E5%B7%9E%E9%9B%AA%E5%B4%A9%E9%87%808%E6%AD%BB1%E5%A4%B1%E8%B9%A4-%E7%BE%8E%E5%9C%8B%E9%80%BE40%E5%B9%B4%E4%BE%86%E6%9C%80%E6%85%98%E9%87%8D",
-    "timestamp": "2026-02-18T23:37:14.077Z",
     "strategy": ".content-card__main"
   }
 ];
