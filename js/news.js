@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-19T11:25:45.781Z
+// Last updated: 2026-02-19T11:51:49.541Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "捲愛潑斯坦案　安德魯今66歲生日被捕　施紀賢：無人可凌駕法律",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260201/1094505697212633088281379.jpeg/aF2nDokcj5ebnFTGzd11aeYY_ETVSxtg3pfmH96X5h8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60323485/%E6%8D%B2%E6%84%9B%E6%BD%91%E6%96%AF%E5%9D%A6%E6%A1%88-%E5%AE%89%E5%BE%B7%E9%AD%AF%E4%BB%8A66%E6%AD%B2%E7%94%9F%E6%97%A5%E8%A2%AB%E6%8D%95-%E6%96%BD%E7%B4%80%E8%B3%A2-%E7%84%A1%E4%BA%BA%E5%8F%AF%E5%87%8C%E9%A7%95%E6%B3%95%E5%BE%8B",
+    "timestamp": "2026-02-19T11:51:49.541Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "郭富城為兩女準備驚喜　送BABYMONSTER親筆簽名CD：寫埋佢哋個名",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260218/1100906008688988160841752.jpeg/Oi205XHfKJUKbLKV5thlefeUoEUsnfyveIVa2HiFWtg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60323274/%E9%99%B3%E5%95%9F%E6%B3%B0%E6%86%B6-%E7%99%BE%E8%90%AC%E5%AF%8C%E7%BF%81-%E7%8B%82%E5%90%B8%E9%87%91%E9%A2%A8%E5%85%89%E5%8F%B2-%E6%9B%BE%E9%81%87%E8%8E%8A%E5%AE%B6%E5%88%A9%E8%AA%98%E6%B4%A9%E9%9C%B2%E8%B3%BD%E6%9E%9C%E9%96%8B%E5%A4%96%E5%9C%8D",
     "timestamp": "2026-02-19T00:46:19.078Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "加州雪崩釀8死1失蹤　美國逾40年來最慘重",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260219/1101011228995620864731846.jpeg/058l6WDDEOUolOUmagsRv83t2xuAlleG08I169PCNes?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60323337/%E5%8A%A0%E5%B7%9E%E9%9B%AA%E5%B4%A9%E9%87%808%E6%AD%BB1%E5%A4%B1%E8%B9%A4-%E7%BE%8E%E5%9C%8B%E9%80%BE40%E5%B9%B4%E4%BE%86%E6%9C%80%E6%85%98%E9%87%8D",
-    "timestamp": "2026-02-18T23:59:47.810Z",
     "strategy": ".content-card__main"
   }
 ];
