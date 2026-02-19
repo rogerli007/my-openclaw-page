@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-19T06:14:57.611Z
+// Last updated: 2026-02-19T06:43:12.146Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "油麻地兩鄰居赤口因噪音爭執互毆　5歲松鼠狗慘被腳踢　雙雙被捕",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260219/1101159539052384256972365.jpeg/rIX9E98WY6tY1J587qf1trsaHBvRmbXpZQCBDGUAgQw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60323410/%E6%B2%B9%E9%BA%BB%E5%9C%B0%E5%85%A9%E9%84%B0%E5%B1%85%E8%B5%A4%E5%8F%A3%E5%9B%A0%E5%99%AA%E9%9F%B3%E7%88%AD%E5%9F%B7%E4%BA%92%E6%AF%86-5%E6%AD%B2%E6%9D%BE%E9%BC%A0%E7%8B%97%E6%85%98%E8%A2%AB%E8%85%B3%E8%B8%A2-%E9%9B%99%E9%9B%99%E8%A2%AB%E6%8D%95",
+    "timestamp": "2026-02-19T06:43:12.146Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "IFC往中環天星碼頭新行人天橋今日啟用　市民讚有冷氣：煥然一新",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260219/1100997289364951040218096.jpeg/XTlo_j4--3KPPUBqZBL4D4NTud_KO3dIl6BHb5egR28?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60323332/%E6%AD%90%E8%81%AF%E9%99%84%E5%8A%A0%E8%B3%BD%E9%A6%96%E5%9B%9E%E5%90%88-%E7%B4%90%E5%8D%A1%E7%B4%A0%E4%BD%9C%E5%AE%A26-1%E5%8D%A1%E6%8B%89%E5%B7%B4%E5%85%8B-%E5%AE%89%E6%9D%B1%E5%B0%BC%E5%93%A5%E9%A0%93%E5%A4%A7%E5%9B%9B%E5%96%9C",
     "timestamp": "2026-02-18T20:04:57.333Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "土瓜灣家貓被困屋外危險位置　63歲男救貓墮樓送院不治",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260219/1100990846896967680563482.jpeg/M677UEP9329iV7avoYOPCs8PlyRXneRAtlAMYrZQDGI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60323330/%E5%9C%9F%E7%93%9C%E7%81%A3%E5%AE%B6%E8%B2%93%E8%A2%AB%E5%9B%B0%E5%B1%8B%E5%A4%96%E5%8D%B1%E9%9A%AA%E4%BD%8D%E7%BD%AE-63%E6%AD%B2%E7%94%B7%E6%95%91%E8%B2%93%E5%A2%AE%E6%A8%93%E9%80%81%E9%99%A2%E4%B8%8D%E6%B2%BB",
-    "timestamp": "2026-02-18T19:39:52.510Z",
     "strategy": ".content-card__main"
   }
 ];
