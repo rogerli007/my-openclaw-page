@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-19T05:11:30.699Z
+// Last updated: 2026-02-19T05:46:43.164Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "陳凱詠重本打造首個紅館個唱　半百圈中好友力撐與陳慧琳驚喜合唱",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260219/1101147581972484096284513.jpeg/-e4gpNijOMApUe35JdM4iApc-EyJNgNKCM_I0gjPyNI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60323393/%E9%99%B3%E5%87%B1%E8%A9%A0%E9%87%8D%E6%9C%AC%E6%89%93%E9%80%A0%E9%A6%96%E5%80%8B%E7%B4%85%E9%A4%A8%E5%80%8B%E5%94%B1-%E5%8D%8A%E7%99%BE%E5%9C%88%E4%B8%AD%E5%A5%BD%E5%8F%8B%E5%8A%9B%E6%92%90%E8%88%87%E9%99%B3%E6%85%A7%E7%90%B3%E9%A9%9A%E5%96%9C%E5%90%88%E5%94%B1",
+    "timestamp": "2026-02-19T05:46:43.164Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "屯門餐廳新年附加費！單據列「新年快樂」收$15　網民：貴過加一",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260204/1095674988431675392051439.jpeg/7oOjFXnfwrSuqaaOd1A6ZLeB9A-KizxSvg838r4PN_I?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60323327/%E7%BE%8E%E5%AA%92-%E7%BE%8E%E4%BB%A5%E6%88%96%E7%9F%AD%E6%9C%9F%E5%85%A7%E5%A4%A7%E8%A6%8F%E6%A8%A1%E6%94%BB%E6%93%8A%E4%BC%8A%E6%9C%97-%E4%BB%A5%E8%89%B2%E5%88%97%E5%8A%A0%E7%B7%8A%E8%BB%8D%E4%BA%8B%E6%BA%96%E5%82%99",
     "timestamp": "2026-02-18T19:13:39.264Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美媒：美以或短期內大規模攻擊伊朗　以色列加緊軍事準備",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260204/1095674988431675392051439.jpeg/7oOjFXnfwrSuqaaOd1A6ZLeB9A-KizxSvg838r4PN_I?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60323327/%E7%BE%8E%E5%AA%92-%E7%BE%8E%E4%BB%A5%E6%88%96%E7%9F%AD%E6%9C%9F%E5%85%A7%E5%A4%A7%E8%A6%8F%E6%A8%A1%E6%94%BB%E6%93%8A%E4%BC%8A%E6%9C%97-%E4%BB%A5%E8%89%B2%E5%88%97%E5%8A%A0%E7%B7%8A%E8%BB%8D%E4%BA%8B%E6%BA%96%E5%82%99",
-    "timestamp": "2026-02-18T18:37:15.333Z",
     "strategy": ".content-card__main"
   }
 ];
