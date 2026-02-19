@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-19T19:11:29.253Z
+// Last updated: 2026-02-19T19:35:59.380Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "日本福岡市圖書館發生持刀傷人　3人受傷　疑犯被捕",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260220/1101329709871927296849502.jpeg/U2rUcR18rKQbUZMcofwwV2rkVDsQGGJFkFynK5Bcpys?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60323517/%E6%97%A5%E6%9C%AC%E7%A6%8F%E5%B2%A1%E5%B8%82%E5%9C%96%E6%9B%B8%E9%A4%A8%E7%99%BC%E7%94%9F%E6%8C%81%E5%88%80%E5%82%B7%E4%BA%BA-3%E4%BA%BA%E5%8F%97%E5%82%B7-%E7%96%91%E7%8A%AF%E8%A2%AB%E6%8D%95",
+    "timestamp": "2026-02-19T19:35:59.380Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "日本福岡市圖書館發生持刀傷人　3人受傷　疑犯被捕",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20251102/1061671100187938816913407.jpeg/im80kB0Eopz7Lz3eWSZQXWv4Ms7B8X6c3346pt9-OqY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60323464/%E6%84%9B%E6%BD%91%E6%96%AF%E5%9D%A6%E6%A1%88-%E8%8B%B1%E5%AA%92-%E8%8B%B1%E5%9C%8B%E8%AD%A6%E6%96%B9%E6%8A%B5%E9%81%94%E5%AE%89%E5%BE%B7%E9%AD%AF%E4%BD%8D%E6%96%BC%E6%A1%91%E5%BE%B7%E9%9D%88%E5%8E%84%E5%A7%86%E8%8E%8A%E5%9C%92%E5%B1%85%E6%89%80",
     "timestamp": "2026-02-19T09:53:42.336Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "食海鮮起紅疹恐中毒！醫生：愈不新鮮毒性愈強　5招安心吃海鮮",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260216/1100121698570604544185972.jpeg/94kojKs1n4BAG87npa4usEVJm4zvGYFeIb_28CG_9vA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60319542/%E9%A3%9F%E6%B5%B7%E9%AE%AE%E8%B5%B7%E7%B4%85%E7%96%B9%E6%81%90%E4%B8%AD%E6%AF%92-%E9%86%AB%E7%94%9F-%E6%84%88%E4%B8%8D%E6%96%B0%E9%AE%AE%E6%AF%92%E6%80%A7%E6%84%88%E5%BC%B7-5%E6%8B%9B%E5%AE%89%E5%BF%83%E5%90%83%E6%B5%B7%E9%AE%AE",
-    "timestamp": "2026-02-19T09:26:36.183Z",
     "strategy": ".content-card__main"
   }
 ];
