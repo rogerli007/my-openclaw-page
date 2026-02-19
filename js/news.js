@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-19T20:50:48.708Z
+// Last updated: 2026-02-19T21:17:49.993Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "安德魯被捕｜遭問話約12小時後離開警署　警方稱案件繼續調查",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260220/1101374386553753600718549.jpeg/g6wtUsNhtkg3m8fhBChoGf_6ELEEA7GpTTV0UU01dFE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60323527/%E5%AE%89%E5%BE%B7%E9%AD%AF%E8%A2%AB%E6%8D%95-%E9%81%AD%E5%95%8F%E8%A9%B1%E7%B4%8412%E5%B0%8F%E6%99%82%E5%BE%8C%E9%9B%A2%E9%96%8B%E8%AD%A6%E7%BD%B2-%E8%AD%A6%E6%96%B9%E7%A8%B1%E6%A1%88%E4%BB%B6%E7%B9%BC%E7%BA%8C%E8%AA%BF%E6%9F%A5",
+    "timestamp": "2026-02-19T21:17:49.993Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "日本福岡市圖書館發生持刀傷人　3人受傷　疑犯被捕",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260201/1094505697212633088281379.jpeg/aF2nDokcj5ebnFTGzd11aeYY_ETVSxtg3pfmH96X5h8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60323485/%E6%8D%B2%E6%84%9B%E6%BD%91%E6%96%AF%E5%9D%A6%E6%A1%88-%E5%AE%89%E5%BE%B7%E9%AD%AF%E4%BB%8A66%E6%AD%B2%E7%94%9F%E6%97%A5%E8%A2%AB%E6%8D%95-%E6%96%BD%E7%B4%80%E8%B3%A2-%E7%84%A1%E4%BA%BA%E5%8F%AF%E5%87%8C%E9%A7%95%E6%B3%95%E5%BE%8B",
     "timestamp": "2026-02-19T11:51:49.541Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "郭富城為兩女準備驚喜　送BABYMONSTER親筆簽名CD：寫埋佢哋個名",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260219/1101208477977546752624901.jpeg/pcGpywjRNBAr18CUs7b6PyNb8hVmoZsybZOXcleTl3I?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60323460/%E9%83%AD%E5%AF%8C%E5%9F%8E%E7%82%BA%E5%85%A9%E5%A5%B3%E6%BA%96%E5%82%99%E9%A9%9A%E5%96%9C-%E9%80%81babymonster%E8%A6%AA%E7%AD%86%E7%B0%BD%E5%90%8Dcd-%E5%AF%AB%E5%9F%8B%E4%BD%A2%E5%93%8B%E5%80%8B%E5%90%8D",
-    "timestamp": "2026-02-19T11:25:45.781Z",
     "strategy": ".content-card__main"
   }
 ];
