@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-19T20:20:34.197Z
+// Last updated: 2026-02-19T20:50:48.708Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "日本福岡市圖書館發生持刀傷人　3人受傷　疑犯被捕",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260220/1101329709871927296849502.jpeg/U2rUcR18rKQbUZMcofwwV2rkVDsQGGJFkFynK5Bcpys?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60323517/%E6%97%A5%E6%9C%AC%E7%A6%8F%E5%B2%A1%E5%B8%82%E5%9C%96%E6%9B%B8%E9%A4%A8%E7%99%BC%E7%94%9F%E6%8C%81%E5%88%80%E5%82%B7%E4%BA%BA-3%E4%BA%BA%E5%8F%97%E5%82%B7-%E7%96%91%E7%8A%AF%E8%A2%AB%E6%8D%95",
+    "timestamp": "2026-02-19T20:50:48.708Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "日本福岡市圖書館發生持刀傷人　3人受傷　疑犯被捕",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260219/1101208477977546752624901.jpeg/pcGpywjRNBAr18CUs7b6PyNb8hVmoZsybZOXcleTl3I?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60323460/%E9%83%AD%E5%AF%8C%E5%9F%8E%E7%82%BA%E5%85%A9%E5%A5%B3%E6%BA%96%E5%82%99%E9%A9%9A%E5%96%9C-%E9%80%81babymonster%E8%A6%AA%E7%AD%86%E7%B0%BD%E5%90%8Dcd-%E5%AF%AB%E5%9F%8B%E4%BD%A2%E5%93%8B%E5%80%8B%E5%90%8D",
     "timestamp": "2026-02-19T11:25:45.781Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "荔枝角昇悅居高層兩房戶　815萬元易手　原業主持貨20年帳賺551萬",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/5289368/org/4fe50814dbb92c1824c9eed99a47ffa7.jpg/aKudd1v4J3L26S2VkDFXQf79DvPysUdd3KeHTdynh00?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60323477/%E8%8D%94%E6%9E%9D%E8%A7%92%E6%98%87%E6%82%85%E5%B1%85%E9%AB%98%E5%B1%A4%E5%85%A9%E6%88%BF%E6%88%B6-815%E8%90%AC%E5%85%83%E6%98%93%E6%89%8B-%E5%8E%9F%E6%A5%AD%E4%B8%BB%E6%8C%81%E8%B2%A820%E5%B9%B4%E5%B8%B3%E8%B3%BA551%E8%90%AC",
-    "timestamp": "2026-02-19T10:53:13.249Z",
     "strategy": ".content-card__main"
   }
 ];
