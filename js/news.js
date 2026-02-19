@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-19T11:51:49.541Z
+// Last updated: 2026-02-19T12:26:35.551Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "農曆新年｜外國遊客湧中國「蹭年味」　小語種導遊日薪可達2500元",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260219/1101201672039829504562714.png/VLFm86aIPP_QHJpKxIA9PpuDfHc7PHUnzL73Qcy-90E?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60323452/%E8%BE%B2%E6%9B%86%E6%96%B0%E5%B9%B4-%E5%A4%96%E5%9C%8B%E9%81%8A%E5%AE%A2%E6%B9%A7%E4%B8%AD%E5%9C%8B-%E8%B9%AD%E5%B9%B4%E5%91%B3-%E5%B0%8F%E8%AA%9E%E7%A8%AE%E5%B0%8E%E9%81%8A%E6%97%A5%E8%96%AA%E5%8F%AF%E9%81%942500%E5%85%83",
+    "timestamp": "2026-02-19T12:26:35.551Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "捲愛潑斯坦案　安德魯今66歲生日被捕　施紀賢：無人可凌駕法律",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20230503/730461825912541184610984.jpeg/CXpn16I0KuEm_WPiQ9o4f_CrHq2l1kriH496uB-Perg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60323345/%E7%BE%8E%E8%81%AF%E5%84%B2%E5%82%B3%E8%81%B2%E7%AD%92-%E7%BE%8E%E8%81%AF%E5%84%B2%E6%9C%83%E8%AD%B0%E7%B4%80%E8%A6%81%E9%A1%AF%E7%A4%BA%E9%99%8D%E6%81%AF%E6%84%8F%E9%A1%98%E5%AF%A5%E5%AF%A5",
     "timestamp": "2026-02-19T01:20:03.732Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "陳啟泰憶《百萬富翁》狂吸金風光史　曾遇莊家利誘洩露賽果開外圍",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260218/1100906008688988160841752.jpeg/Oi205XHfKJUKbLKV5thlefeUoEUsnfyveIVa2HiFWtg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60323274/%E9%99%B3%E5%95%9F%E6%B3%B0%E6%86%B6-%E7%99%BE%E8%90%AC%E5%AF%8C%E7%BF%81-%E7%8B%82%E5%90%B8%E9%87%91%E9%A2%A8%E5%85%89%E5%8F%B2-%E6%9B%BE%E9%81%87%E8%8E%8A%E5%AE%B6%E5%88%A9%E8%AA%98%E6%B4%A9%E9%9C%B2%E8%B3%BD%E6%9E%9C%E9%96%8B%E5%A4%96%E5%9C%8D",
-    "timestamp": "2026-02-19T00:46:19.078Z",
     "strategy": ".content-card__main"
   }
 ];
