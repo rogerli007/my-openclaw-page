@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-19T12:54:52.512Z
+// Last updated: 2026-02-19T13:40:08.601Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "《變形金剛》沙拉保夫用頭襲擊人被捕　驚爆與女星Mia Goth離婚",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260219/1101158130017898496847930.jpeg/tWGlmUfjkIo8FEtJUAQ2yRh0yJelyqwK6uyrOersqzk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60323411/%E8%AE%8A%E5%BD%A2%E9%87%91%E5%89%9B-%E6%B2%99%E6%8B%89%E4%BF%9D%E5%A4%AB%E7%94%A8%E9%A0%AD%E8%A5%B2%E6%93%8A%E4%BA%BA%E8%A2%AB%E6%8D%95-%E9%A9%9A%E7%88%86%E8%88%87%E5%A5%B3%E6%98%9Fmia-goth%E9%9B%A2%E5%A9%9A",
+    "timestamp": "2026-02-19T13:40:08.601Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "安德魯被捕　查理斯三世稱將全力支持調查　強調須秉公執法",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250228/972143569970139136708631.jpeg/Y6Ex8cz4JyDlZuXEKzBmPTdAQlOVhpZYQI4bOkCOGzo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60323359/%E7%BE%8E%E4%BF%84%E9%99%90%E6%A0%B8%E6%A2%9D%E7%B4%84%E5%A4%B1%E6%95%88-%E4%B8%AD%E5%9C%8B%E7%B1%B2%E9%9B%99%E6%96%B9%E7%B9%BC%E7%BA%8C%E5%B0%8D%E8%A9%B1-%E7%BE%8E%E5%9C%8B%E6%87%89%E5%B1%A5%E8%A1%8C%E6%A0%B8%E8%A3%81%E8%BB%8D%E8%B2%AC%E4%BB%BB",
     "timestamp": "2026-02-19T03:21:54.434Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "OnePlus/Oppo/小米/vivo細屏旗艦機推介　6.3吋塞7000mAh電太誇張",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260216/1100023206527373312241853.jpeg/E61ZVe3uYhLbLub6EpHlcHjhY21w7JamtQWT67UFk-s?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60320864/oneplus-oppo-%E5%B0%8F%E7%B1%B3-vivo%E7%B4%B0%E5%B1%8F%E6%97%97%E8%89%A6%E6%A9%9F%E6%8E%A8%E4%BB%8B-6-3%E5%90%8B%E5%A1%9E7000mah%E9%9B%BB%E5%A4%AA%E8%AA%87%E5%BC%B5",
-    "timestamp": "2026-02-19T02:09:31.601Z",
     "strategy": ".content-card__main"
   }
 ];
