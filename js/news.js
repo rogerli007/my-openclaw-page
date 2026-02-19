@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-19T17:40:08.424Z
+// Last updated: 2026-02-19T18:09:31.720Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美職早霸王｜美職開鑼　孫興民領FC洛杉磯搶先入波",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260216/1100033039016136704870452.jpeg/PnqRnXuM2jaLM33S-UgvsD88QhAqSItgA8S-TgPEvk4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60322800/%E7%BE%8E%E8%81%B7%E6%97%A9%E9%9C%B8%E7%8E%8B-%E7%BE%8E%E8%81%B7%E9%96%8B%E9%91%BC-%E5%AD%AB%E8%88%88%E6%B0%91%E9%A0%98fc%E6%B4%9B%E6%9D%89%E7%A3%AF%E6%90%B6%E5%85%88%E5%85%A5%E6%B3%A2",
+    "timestamp": "2026-02-19T18:09:31.720Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "冬奧人物誌︱Mikaela Shiffrin喪父6年的掙扎與懷疑　終火鳳重生",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260218/1100720682230091776871326.jpeg/eA1JlVCSwNpnUrUaKrWxr1thx6eYwK3CkrLT9JKy0_Q?v=w1920r16_9",
     "url": "https://www.hk01.com/01%E8%AB%96%E5%A3%87/60323443/%E8%AD%B0%E5%93%A1%E4%BE%86%E7%A8%BF-%E8%91%9B%E7%8F%AE%E5%B8%86-%E6%98%8E%E8%BE%A8%E5%96%84%E6%83%A1%E8%A6%8B%E5%88%A9%E6%80%9D%E7%BE%A9-%E8%88%87%E6%B0%91%E5%90%8C%E5%BF%83%E5%85%B1%E7%AD%96%E6%96%B0%E7%A8%8B",
     "timestamp": "2026-02-19T08:33:33.166Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "福田美食｜深圳首家台山黃鱔飯　爆脆鍋巴+活鱔8吃　碌鵝濃香惹味",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260216/1100090690181795840510672.jpeg/DcptGvCT1Y1D7YqQSTBSYXMaA43yLMVQUcDqpFHA6qQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%97%85%E9%81%8A/60318067/%E7%A6%8F%E7%94%B0%E7%BE%8E%E9%A3%9F-%E6%B7%B1%E5%9C%B3%E9%A6%96%E5%AE%B6%E5%8F%B0%E5%B1%B1%E9%BB%83%E9%B1%94%E9%A3%AF-%E7%88%86%E8%84%86%E9%8D%8B%E5%B7%B4-%E6%B4%BB%E9%B1%948%E5%90%83-%E7%A2%8C%E9%B5%9D%E6%BF%83%E9%A6%99%E6%83%B9%E5%91%B3",
-    "timestamp": "2026-02-19T08:05:33.877Z",
     "strategy": ".content-card__main"
   }
 ];
