@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-19T06:43:12.146Z
+// Last updated: 2026-02-19T07:15:01.672Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "煮水餃貼士｜網民揭不破皮秘訣　加1物Q彈好吃更慳電+冷凍餃煮法",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260216/1100112686894551040026798.jpeg/YSQ6WtEPwgjONT28Jdfh8dkg4kP6oRNcPLsQdzy7EHc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60318331/%E7%85%AE%E6%B0%B4%E9%A4%83%E8%B2%BC%E5%A3%AB-%E7%B6%B2%E6%B0%91%E6%8F%AD%E4%B8%8D%E7%A0%B4%E7%9A%AE%E7%A7%98%E8%A8%A3-%E5%8A%A01%E7%89%A9q%E5%BD%88%E5%A5%BD%E5%90%83%E6%9B%B4%E6%85%B3%E9%9B%BB-%E5%86%B7%E5%87%8D%E9%A4%83%E7%85%AE%E6%B3%95",
+    "timestamp": "2026-02-19T07:15:01.672Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "油麻地兩鄰居赤口因噪音爭執互毆　5歲松鼠狗慘被腳踢　雙雙被捕",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260218/1100938710964244480651829.jpeg/94H9TvZ-fcTVY5m2YFyKB3IhRqQ43lUIdJpW2XSaVtk?v=w1920r16_9",
     "url": "https://www.hk01.com/18%E5%8D%80%E6%96%B0%E8%81%9E/60323316/%E8%BE%B2%E6%9B%86%E6%96%B0%E5%B9%B4-%E5%B8%82%E5%BB%BA%E5%B1%80%E5%85%92%E7%AB%A5%E6%A8%82%E5%9C%98%E6%8E%A2%E8%A8%AA%E8%88%8A%E5%8D%80%E9%95%B7%E8%80%85%E6%8B%9C%E5%B9%B4-%E4%BB%A5%E9%9F%B3%E6%A8%82%E9%80%A3%E7%B9%AB%E7%A4%BE%E5%8D%80",
     "timestamp": "2026-02-18T20:25:19.302Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "歐聯附加賽首回合｜紐卡素作客6：1卡拉巴克　安東尼哥頓大四喜",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260219/1100997289364951040218096.jpeg/XTlo_j4--3KPPUBqZBL4D4NTud_KO3dIl6BHb5egR28?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60323332/%E6%AD%90%E8%81%AF%E9%99%84%E5%8A%A0%E8%B3%BD%E9%A6%96%E5%9B%9E%E5%90%88-%E7%B4%90%E5%8D%A1%E7%B4%A0%E4%BD%9C%E5%AE%A26-1%E5%8D%A1%E6%8B%89%E5%B7%B4%E5%85%8B-%E5%AE%89%E6%9D%B1%E5%B0%BC%E5%93%A5%E9%A0%93%E5%A4%A7%E5%9B%9B%E5%96%9C",
-    "timestamp": "2026-02-18T20:04:57.333Z",
     "strategy": ".content-card__main"
   }
 ];
