@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-19T02:09:31.601Z
+// Last updated: 2026-02-19T03:21:54.434Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美俄限核條約失效　中國籲雙方繼續對話：美國應履行核裁軍責任",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250228/972143569970139136708631.jpeg/Y6Ex8cz4JyDlZuXEKzBmPTdAQlOVhpZYQI4bOkCOGzo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60323359/%E7%BE%8E%E4%BF%84%E9%99%90%E6%A0%B8%E6%A2%9D%E7%B4%84%E5%A4%B1%E6%95%88-%E4%B8%AD%E5%9C%8B%E7%B1%B2%E9%9B%99%E6%96%B9%E7%B9%BC%E7%BA%8C%E5%B0%8D%E8%A9%B1-%E7%BE%8E%E5%9C%8B%E6%87%89%E5%B1%A5%E8%A1%8C%E6%A0%B8%E8%A3%81%E8%BB%8D%E8%B2%AC%E4%BB%BB",
+    "timestamp": "2026-02-19T03:21:54.434Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "OnePlus/Oppo/小米/vivo細屏旗艦機推介　6.3吋塞7000mAh電太誇張",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20251226/1081242262253342720156324.jpeg/MNguXe21zUGLF44f8_IHI22A6cT44jmfONs9aDjbPWg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60323322/%E5%B0%B9%E9%8C%AB%E6%82%85%E6%B6%89%E5%AB%8C%E7%99%BC%E5%8B%95%E5%85%A7%E4%BA%82%E6%A1%8819%E6%97%A5%E4%B8%80%E5%AF%A9%E5%AE%A3%E5%88%A4-%E5%A4%AE%E8%A6%96-%E6%9C%AC%E4%BA%BA%E5%B0%87%E5%87%BA%E5%BA%AD",
     "timestamp": "2026-02-18T17:42:46.807Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "尹錫悅涉嫌發動內亂案19日一審宣判　央視：本人將出庭",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20251226/1081242262253342720156324.jpeg/MNguXe21zUGLF44f8_IHI22A6cT44jmfONs9aDjbPWg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60323322/%E5%B0%B9%E9%8C%AB%E6%82%85%E6%B6%89%E5%AB%8C%E7%99%BC%E5%8B%95%E5%85%A7%E4%BA%82%E6%A1%8819%E6%97%A5%E4%B8%80%E5%AF%A9%E5%AE%A3%E5%88%A4-%E5%A4%AE%E8%A6%96-%E6%9C%AC%E4%BA%BA%E5%B0%87%E5%87%BA%E5%BA%AD",
-    "timestamp": "2026-02-18T17:15:37.000Z",
     "strategy": ".content-card__main"
   }
 ];
