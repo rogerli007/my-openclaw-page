@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-19T09:26:36.183Z
+// Last updated: 2026-02-19T09:53:42.336Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "愛潑斯坦案｜英媒：英國警方抵達安德魯位於桑德靈厄姆莊園居所",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20251102/1061671100187938816913407.jpeg/im80kB0Eopz7Lz3eWSZQXWv4Ms7B8X6c3346pt9-OqY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60323464/%E6%84%9B%E6%BD%91%E6%96%AF%E5%9D%A6%E6%A1%88-%E8%8B%B1%E5%AA%92-%E8%8B%B1%E5%9C%8B%E8%AD%A6%E6%96%B9%E6%8A%B5%E9%81%94%E5%AE%89%E5%BE%B7%E9%AD%AF%E4%BD%8D%E6%96%BC%E6%A1%91%E5%BE%B7%E9%9D%88%E5%8E%84%E5%A7%86%E8%8E%8A%E5%9C%92%E5%B1%85%E6%89%80",
+    "timestamp": "2026-02-19T09:53:42.336Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "食海鮮起紅疹恐中毒！醫生：愈不新鮮毒性愈強　5招安心吃海鮮",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260219/1101004165133373440825149.jpeg/ORDkTw3cNegLfCm6Z6r_O1I3hOkbDSK2RwY2uUcGNrk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60323335/%E6%99%AE%E4%BA%AC%E6%99%A4%E5%8F%A4%E5%B7%B4%E5%A4%96%E9%95%B7-%E7%A8%B1%E7%BE%8E%E5%9C%8B%E5%B0%8D%E5%8F%A4%E5%B7%B4%E5%AF%A6%E6%96%BD%E6%96%B0%E5%88%B6%E8%A3%81-%E4%B8%8D%E5%8F%AF%E6%8E%A5%E5%8F%97",
     "timestamp": "2026-02-18T23:03:03.955Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "英超｜阿仙奴作客遭狼隊逼和2：2　領先曼城5分",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260219/1101031505485893632683095.jpeg/WjPPVoezrSIJqnmJWnOBJ-a8A9Ddmb2NEFv6pxBb-qc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60323338/%E8%8B%B1%E8%B6%85-%E9%98%BF%E4%BB%99%E5%A5%B4%E4%BD%9C%E5%AE%A2%E9%81%AD%E7%8B%BC%E9%9A%8A%E9%80%BC%E5%92%8C2-2-%E9%A0%98%E5%85%88%E6%9B%BC%E5%9F%8E5%E5%88%86",
-    "timestamp": "2026-02-18T22:37:05.848Z",
     "strategy": ".content-card__main"
   }
 ];
