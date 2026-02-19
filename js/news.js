@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-19T03:21:54.434Z
+// Last updated: 2026-02-19T04:24:19.071Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "鴨脷洲邨茶餐廳赤口遭爆竊　放$13萬夾萬不翼而飛",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20241202/940329388329668608098532.jpeg/9fG9aqR_Pc3auxLPqPgH4HS7Ac4-x6SXiHaC9KF2gvQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60323384/%E9%B4%A8%E8%84%B7%E6%B4%B2%E9%82%A8%E8%8C%B6%E9%A4%90%E5%BB%B3%E8%B5%A4%E5%8F%A3%E9%81%AD%E7%88%86%E7%AB%8A-%E6%94%BE-13%E8%90%AC%E5%A4%BE%E8%90%AC%E4%B8%8D%E7%BF%BC%E8%80%8C%E9%A3%9B",
+    "timestamp": "2026-02-19T04:24:19.071Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美俄限核條約失效　中國籲雙方繼續對話：美國應履行核裁軍責任",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260219/1100970940314947584160942.jpeg/Yk5y0dCjCA7lx8vyhksaWz1VbOXH8jovtyknW40pJ1s?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60323325/%E7%8F%8D%E6%83%9C%E7%94%9F%E5%91%BD-%E5%A4%A7%E8%A7%92%E5%92%80%E6%B5%B7%E5%AF%8C%E8%8B%91%E7%94%B7%E5%AD%90%E7%96%91%E8%87%AA%E5%89%B2-%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2%E6%90%B6%E6%95%91",
     "timestamp": "2026-02-18T18:07:57.781Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "尹錫悅涉嫌發動內亂案19日一審宣判　央視：本人將出庭",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20251226/1081242262253342720156324.jpeg/MNguXe21zUGLF44f8_IHI22A6cT44jmfONs9aDjbPWg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60323322/%E5%B0%B9%E9%8C%AB%E6%82%85%E6%B6%89%E5%AB%8C%E7%99%BC%E5%8B%95%E5%85%A7%E4%BA%82%E6%A1%8819%E6%97%A5%E4%B8%80%E5%AF%A9%E5%AE%A3%E5%88%A4-%E5%A4%AE%E8%A6%96-%E6%9C%AC%E4%BA%BA%E5%B0%87%E5%87%BA%E5%BA%AD",
-    "timestamp": "2026-02-18T17:42:46.807Z",
     "strategy": ".content-card__main"
   }
 ];
