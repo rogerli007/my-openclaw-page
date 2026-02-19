@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-19T09:53:42.336Z
+// Last updated: 2026-02-19T10:26:22.846Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "冬季奧運2026｜狗狗為尋主人誤闖賽道　奧運越野滑雪速度賽衝線",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260219/1101217668410642432396427.jpeg/_0w7EX2sfjJv6a8-Yga4cVRS5hcWMa8-Vddcw1XXXMM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60323468/%E5%86%AC%E5%AD%A3%E5%A5%A7%E9%81%8B2026-%E7%8B%97%E7%8B%97%E7%82%BA%E5%B0%8B%E4%B8%BB%E4%BA%BA%E8%AA%A4%E9%97%96%E8%B3%BD%E9%81%93-%E5%A5%A7%E9%81%8B%E8%B6%8A%E9%87%8E%E6%BB%91%E9%9B%AA%E9%80%9F%E5%BA%A6%E8%B3%BD%E8%A1%9D%E7%B7%9A",
+    "timestamp": "2026-02-19T10:26:22.846Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "愛潑斯坦案｜英媒：英國警方抵達安德魯位於桑德靈厄姆莊園居所",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260219/1101014292666257408186530.png/LqGRMNn4vZwFtQ2ZpCB2mtArExHky2fKscF--rHBfvo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60323302/%E5%A5%B3%E7%94%9F%E9%87%8D%E5%9B%9E%E6%A0%A1%E5%9C%92%E5%8D%8A%E5%B7%A5%E8%AE%80%E6%94%B6%E5%85%A5%E8%B7%8C-%E7%B5%A6%E7%88%B6%E6%AF%8D%E5%88%A9%E5%B8%82%E7%B8%AE%E6%B0%B4-%E7%B6%B2%E6%B0%91%E6%95%991%E6%8B%9B%E8%A1%A8%E5%AD%9D%E5%BF%83",
     "timestamp": "2026-02-18T23:19:24.107Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "普京晤古巴外長　稱美國對古巴實施新制裁「不可接受」",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260219/1101004165133373440825149.jpeg/ORDkTw3cNegLfCm6Z6r_O1I3hOkbDSK2RwY2uUcGNrk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60323335/%E6%99%AE%E4%BA%AC%E6%99%A4%E5%8F%A4%E5%B7%B4%E5%A4%96%E9%95%B7-%E7%A8%B1%E7%BE%8E%E5%9C%8B%E5%B0%8D%E5%8F%A4%E5%B7%B4%E5%AF%A6%E6%96%BD%E6%96%B0%E5%88%B6%E8%A3%81-%E4%B8%8D%E5%8F%AF%E6%8E%A5%E5%8F%97",
-    "timestamp": "2026-02-18T23:03:03.955Z",
     "strategy": ".content-card__main"
   }
 ];
