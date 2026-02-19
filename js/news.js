@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-19T18:38:53.154Z
+// Last updated: 2026-02-19T19:11:29.253Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "日本福岡市圖書館發生持刀傷人　3人受傷　疑犯被捕",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260220/1101329709871927296849502.jpeg/U2rUcR18rKQbUZMcofwwV2rkVDsQGGJFkFynK5Bcpys?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60323517/%E6%97%A5%E6%9C%AC%E7%A6%8F%E5%B2%A1%E5%B8%82%E5%9C%96%E6%9B%B8%E9%A4%A8%E7%99%BC%E7%94%9F%E6%8C%81%E5%88%80%E5%82%B7%E4%BA%BA-3%E4%BA%BA%E5%8F%97%E5%82%B7-%E7%96%91%E7%8A%AF%E8%A2%AB%E6%8D%95",
+    "timestamp": "2026-02-19T19:11:29.253Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "油麻地果欄對開雪櫃遭淋白油　口罩男犯案後逃跑　警列刑毀調查",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260216/1100121698570604544185972.jpeg/94kojKs1n4BAG87npa4usEVJm4zvGYFeIb_28CG_9vA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60319542/%E9%A3%9F%E6%B5%B7%E9%AE%AE%E8%B5%B7%E7%B4%85%E7%96%B9%E6%81%90%E4%B8%AD%E6%AF%92-%E9%86%AB%E7%94%9F-%E6%84%88%E4%B8%8D%E6%96%B0%E9%AE%AE%E6%AF%92%E6%80%A7%E6%84%88%E5%BC%B7-5%E6%8B%9B%E5%AE%89%E5%BF%83%E5%90%83%E6%B5%B7%E9%AE%AE",
     "timestamp": "2026-02-19T09:26:36.183Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "尹錫悅｜韓國民非暴力阻戒嚴獲提名和平獎　李在明：人類歷史典範",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260219/1101188700332625920237019.jpeg/wMLicBID1orJgnTU7qweGTVap16S7BmCLet0KS3rdCk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60323441/%E5%B0%B9%E9%8C%AB%E6%82%85-%E9%9F%93%E5%9C%8B%E6%B0%91%E9%9D%9E%E6%9A%B4%E5%8A%9B%E9%98%BB%E6%88%92%E5%9A%B4%E7%8D%B2%E6%8F%90%E5%90%8D%E5%92%8C%E5%B9%B3%E7%8D%8E-%E6%9D%8E%E5%9C%A8%E6%98%8E-%E4%BA%BA%E9%A1%9E%E6%AD%B7%E5%8F%B2%E5%85%B8%E7%AF%84",
-    "timestamp": "2026-02-19T08:58:02.250Z",
     "strategy": ".content-card__main"
   }
 ];
