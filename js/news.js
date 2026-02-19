@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-19T21:35:38.247Z
+// Last updated: 2026-02-19T22:01:55.627Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美國去年商品貿易逆差創新高　特朗普關稅被指效果微",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260118/1089584950514028544463591.jpeg/u-SjmZmxjmncLN_kxRqlM7kRIIU3r3d4QW1BKUFtQSk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60323525/%E7%BE%8E%E5%9C%8B%E5%8E%BB%E5%B9%B4%E5%95%86%E5%93%81%E8%B2%BF%E6%98%93%E9%80%86%E5%B7%AE%E5%89%B5%E6%96%B0%E9%AB%98-%E7%89%B9%E6%9C%97%E6%99%AE%E9%97%9C%E7%A8%85%E8%A2%AB%E6%8C%87%E6%95%88%E6%9E%9C%E5%BE%AE",
+    "timestamp": "2026-02-19T22:01:55.627Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "尿袋3C認證3月起更新｜工信部收緊行動電源監管追加2大新標準",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20251226/1081017431591227392927460.png/xtIJmNiFS6hn7CbMuc-kEV0gAf-RFhBeOYyOkTmMjpE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60323492/%E5%AE%89%E5%BE%B7%E9%AD%AF%E8%A2%AB%E6%8D%95-%E6%9F%A5%E7%90%86%E6%96%AF%E4%B8%89%E4%B8%96%E7%A8%B1%E5%B0%87%E5%85%A8%E5%8A%9B%E6%94%AF%E6%8C%81%E8%AA%BF%E6%9F%A5-%E5%BC%B7%E8%AA%BF%E9%A0%88%E7%A7%89%E5%85%AC%E5%9F%B7%E6%B3%95",
     "timestamp": "2026-02-19T12:54:52.512Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "農曆新年｜外國遊客湧中國「蹭年味」　小語種導遊日薪可達2500元",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260219/1101201672039829504562714.png/VLFm86aIPP_QHJpKxIA9PpuDfHc7PHUnzL73Qcy-90E?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60323452/%E8%BE%B2%E6%9B%86%E6%96%B0%E5%B9%B4-%E5%A4%96%E5%9C%8B%E9%81%8A%E5%AE%A2%E6%B9%A7%E4%B8%AD%E5%9C%8B-%E8%B9%AD%E5%B9%B4%E5%91%B3-%E5%B0%8F%E8%AA%9E%E7%A8%AE%E5%B0%8E%E9%81%8A%E6%97%A5%E8%96%AA%E5%8F%AF%E9%81%942500%E5%85%83",
-    "timestamp": "2026-02-19T12:26:35.551Z",
     "strategy": ".content-card__main"
   }
 ];
