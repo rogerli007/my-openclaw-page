@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-19T13:40:08.601Z
+// Last updated: 2026-02-19T14:15:14.340Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "無綫長腳小花新年沙田車公廟祈福求得上簽  事業有運行家庭興旺",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20251203/1073013677893881856507396.jpeg/R-H-wkP9lHHwMhkX-NzoYAQcWKqHSGy8BgHBqTwBwak?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60300298/%E9%84%A7%E7%BE%8E%E6%AC%A3",
+    "timestamp": "2026-02-19T14:15:14.340Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "《變形金剛》沙拉保夫用頭襲擊人被捕　驚爆與女星Mia Goth離婚",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20241202/940329388329668608098532.jpeg/9fG9aqR_Pc3auxLPqPgH4HS7Ac4-x6SXiHaC9KF2gvQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60323384/%E9%B4%A8%E8%84%B7%E6%B4%B2%E9%82%A8%E8%8C%B6%E9%A4%90%E5%BB%B3%E8%B5%A4%E5%8F%A3%E9%81%AD%E7%88%86%E7%AB%8A-%E6%94%BE-13%E8%90%AC%E5%A4%BE%E8%90%AC%E4%B8%8D%E7%BF%BC%E8%80%8C%E9%A3%9B",
     "timestamp": "2026-02-19T04:24:19.071Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美俄限核條約失效　中國籲雙方繼續對話：美國應履行核裁軍責任",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250228/972143569970139136708631.jpeg/Y6Ex8cz4JyDlZuXEKzBmPTdAQlOVhpZYQI4bOkCOGzo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60323359/%E7%BE%8E%E4%BF%84%E9%99%90%E6%A0%B8%E6%A2%9D%E7%B4%84%E5%A4%B1%E6%95%88-%E4%B8%AD%E5%9C%8B%E7%B1%B2%E9%9B%99%E6%96%B9%E7%B9%BC%E7%BA%8C%E5%B0%8D%E8%A9%B1-%E7%BE%8E%E5%9C%8B%E6%87%89%E5%B1%A5%E8%A1%8C%E6%A0%B8%E8%A3%81%E8%BB%8D%E8%B2%AC%E4%BB%BB",
-    "timestamp": "2026-02-19T03:21:54.434Z",
     "strategy": ".content-card__main"
   }
 ];
