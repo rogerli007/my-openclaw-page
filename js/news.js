@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-19T12:26:35.551Z
+// Last updated: 2026-02-19T12:54:52.512Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "安德魯被捕　查理斯三世稱將全力支持調查　強調須秉公執法",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20251226/1081017431591227392927460.png/xtIJmNiFS6hn7CbMuc-kEV0gAf-RFhBeOYyOkTmMjpE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60323492/%E5%AE%89%E5%BE%B7%E9%AD%AF%E8%A2%AB%E6%8D%95-%E6%9F%A5%E7%90%86%E6%96%AF%E4%B8%89%E4%B8%96%E7%A8%B1%E5%B0%87%E5%85%A8%E5%8A%9B%E6%94%AF%E6%8C%81%E8%AA%BF%E6%9F%A5-%E5%BC%B7%E8%AA%BF%E9%A0%88%E7%A7%89%E5%85%AC%E5%9F%B7%E6%B3%95",
+    "timestamp": "2026-02-19T12:54:52.512Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "農曆新年｜外國遊客湧中國「蹭年味」　小語種導遊日薪可達2500元",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260216/1100023206527373312241853.jpeg/E61ZVe3uYhLbLub6EpHlcHjhY21w7JamtQWT67UFk-s?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60320864/oneplus-oppo-%E5%B0%8F%E7%B1%B3-vivo%E7%B4%B0%E5%B1%8F%E6%97%97%E8%89%A6%E6%A9%9F%E6%8E%A8%E4%BB%8B-6-3%E5%90%8B%E5%A1%9E7000mah%E9%9B%BB%E5%A4%AA%E8%AA%87%E5%BC%B5",
     "timestamp": "2026-02-19T02:09:31.601Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美聯儲傳聲筒︰美聯儲會議紀要顯示降息意願寥寥",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20230503/730461825912541184610984.jpeg/CXpn16I0KuEm_WPiQ9o4f_CrHq2l1kriH496uB-Perg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60323345/%E7%BE%8E%E8%81%AF%E5%84%B2%E5%82%B3%E8%81%B2%E7%AD%92-%E7%BE%8E%E8%81%AF%E5%84%B2%E6%9C%83%E8%AD%B0%E7%B4%80%E8%A6%81%E9%A1%AF%E7%A4%BA%E9%99%8D%E6%81%AF%E6%84%8F%E9%A1%98%E5%AF%A5%E5%AF%A5",
-    "timestamp": "2026-02-19T01:20:03.732Z",
     "strategy": ".content-card__main"
   }
 ];
