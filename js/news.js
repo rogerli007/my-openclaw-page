@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-19T08:05:33.877Z
+// Last updated: 2026-02-19T08:33:33.166Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "議員來稿．葛珮帆｜明辨善惡見利思義　與民同心共策新程",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260218/1100720682230091776871326.jpeg/eA1JlVCSwNpnUrUaKrWxr1thx6eYwK3CkrLT9JKy0_Q?v=w1920r16_9",
+    "url": "https://www.hk01.com/01%E8%AB%96%E5%A3%87/60323443/%E8%AD%B0%E5%93%A1%E4%BE%86%E7%A8%BF-%E8%91%9B%E7%8F%AE%E5%B8%86-%E6%98%8E%E8%BE%A8%E5%96%84%E6%83%A1%E8%A6%8B%E5%88%A9%E6%80%9D%E7%BE%A9-%E8%88%87%E6%B0%91%E5%90%8C%E5%BF%83%E5%85%B1%E7%AD%96%E6%96%B0%E7%A8%8B",
+    "timestamp": "2026-02-19T08:33:33.166Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "福田美食｜深圳首家台山黃鱔飯　爆脆鍋巴+活鱔8吃　碌鵝濃香惹味",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260217/1100573572050456576571904.jpeg/U-hJ73mELIpvwkPXP7TbKN3oyGlyH89nOWBclTlgXJU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60323329/%E4%BC%8A%E6%9C%97%E5%A4%96%E9%95%B7%E8%88%87%E6%A0%BC%E7%BE%85%E8%A5%BF%E9%80%9A%E8%A9%B1-%E6%AD%A3%E5%88%B6%E5%AE%9A%E8%AB%87%E5%88%A4%E6%A1%86%E6%9E%B6-%E6%8E%A8%E9%80%B2%E5%BE%8C%E7%BA%8C%E7%BE%8E%E4%BC%8A%E5%B0%8D%E8%A9%B1",
     "timestamp": "2026-02-18T21:50:56.320Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "伊朗外長與格羅西通話：正制定談判框架　推進後續美伊對話",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260217/1100573572050456576571904.jpeg/U-hJ73mELIpvwkPXP7TbKN3oyGlyH89nOWBclTlgXJU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60323329/%E4%BC%8A%E6%9C%97%E5%A4%96%E9%95%B7%E8%88%87%E6%A0%BC%E7%BE%85%E8%A5%BF%E9%80%9A%E8%A9%B1-%E6%AD%A3%E5%88%B6%E5%AE%9A%E8%AB%87%E5%88%A4%E6%A1%86%E6%9E%B6-%E6%8E%A8%E9%80%B2%E5%BE%8C%E7%BA%8C%E7%BE%8E%E4%BC%8A%E5%B0%8D%E8%A9%B1",
-    "timestamp": "2026-02-18T21:22:34.478Z",
     "strategy": ".content-card__main"
   }
 ];
