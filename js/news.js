@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-19T07:15:01.672Z
+// Last updated: 2026-02-19T07:40:50.273Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "元旦至上周急症室求診按年減10.9%　醫管局：公院收費改革初見效",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260219/1101173563110461440925743.jpeg/EjmisuvvDgbssZKJTu_M2DNAS8UVItjAUmLVClJi1Qo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60323424/%E5%85%83%E6%97%A6%E8%87%B3%E4%B8%8A%E5%91%A8%E6%80%A5%E7%97%87%E5%AE%A4%E6%B1%82%E8%A8%BA%E6%8C%89%E5%B9%B4%E6%B8%9B10-9-%E9%86%AB%E7%AE%A1%E5%B1%80-%E5%85%AC%E9%99%A2%E6%94%B6%E8%B2%BB%E6%94%B9%E9%9D%A9%E5%88%9D%E8%A6%8B%E6%95%88",
+    "timestamp": "2026-02-19T07:40:50.273Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "煮水餃貼士｜網民揭不破皮秘訣　加1物Q彈好吃更慳電+冷凍餃煮法",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260217/1100573572050456576571904.jpeg/U-hJ73mELIpvwkPXP7TbKN3oyGlyH89nOWBclTlgXJU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60323329/%E4%BC%8A%E6%9C%97%E5%A4%96%E9%95%B7%E8%88%87%E6%A0%BC%E7%BE%85%E8%A5%BF%E9%80%9A%E8%A9%B1-%E6%AD%A3%E5%88%B6%E5%AE%9A%E8%AB%87%E5%88%A4%E6%A1%86%E6%9E%B6-%E6%8E%A8%E9%80%B2%E5%BE%8C%E7%BA%8C%E7%BE%8E%E4%BC%8A%E5%B0%8D%E8%A9%B1",
     "timestamp": "2026-02-18T20:52:59.338Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "農曆新年｜市建局兒童樂團探訪舊區長者拜年　以音樂連繫社區",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260218/1100938710964244480651829.jpeg/94H9TvZ-fcTVY5m2YFyKB3IhRqQ43lUIdJpW2XSaVtk?v=w1920r16_9",
-    "url": "https://www.hk01.com/18%E5%8D%80%E6%96%B0%E8%81%9E/60323316/%E8%BE%B2%E6%9B%86%E6%96%B0%E5%B9%B4-%E5%B8%82%E5%BB%BA%E5%B1%80%E5%85%92%E7%AB%A5%E6%A8%82%E5%9C%98%E6%8E%A2%E8%A8%AA%E8%88%8A%E5%8D%80%E9%95%B7%E8%80%85%E6%8B%9C%E5%B9%B4-%E4%BB%A5%E9%9F%B3%E6%A8%82%E9%80%A3%E7%B9%AB%E7%A4%BE%E5%8D%80",
-    "timestamp": "2026-02-18T20:25:19.302Z",
     "strategy": ".content-card__main"
   }
 ];
