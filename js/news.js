@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-19T14:40:24.996Z
+// Last updated: 2026-02-19T15:10:33.285Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美股｜道指早段曾跌300點　油價升逾2%",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250930/1049830299971620864836107.jpeg/Zi8zOhWF2220rO4q9qvIco1UCsGv6ofY7xNO5u8TTuY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60323506/%E7%BE%8E%E8%82%A1-%E9%81%93%E6%8C%87%E6%97%A9%E6%AE%B5%E6%9B%BE%E8%B7%8C300%E9%BB%9E-%E6%B2%B9%E5%83%B9%E5%8D%87%E9%80%BE2",
+    "timestamp": "2026-02-19T15:10:33.285Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "39歲女星演繹新年遇親戚瘋狂盤問　體面反擊令對方啞口無言",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260219/1101147581972484096284513.jpeg/-e4gpNijOMApUe35JdM4iApc-EyJNgNKCM_I0gjPyNI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60323393/%E9%99%B3%E5%87%B1%E8%A9%A0%E9%87%8D%E6%9C%AC%E6%89%93%E9%80%A0%E9%A6%96%E5%80%8B%E7%B4%85%E9%A4%A8%E5%80%8B%E5%94%B1-%E5%8D%8A%E7%99%BE%E5%9C%88%E4%B8%AD%E5%A5%BD%E5%8F%8B%E5%8A%9B%E6%92%90%E8%88%87%E9%99%B3%E6%85%A7%E7%90%B3%E9%A9%9A%E5%96%9C%E5%90%88%E5%94%B1",
     "timestamp": "2026-02-19T05:46:43.164Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "屯門餐廳新年附加費！單據列「新年快樂」收$15　網民：貴過加一",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260219/1101014149896343552213804.png/QSCaPrWnmMwXcKGqxJfdKLERwACoiqruC75s0gu-bNI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60323262/%E5%B1%AF%E9%96%80%E9%A4%90%E5%BB%B3%E6%96%B0%E5%B9%B4%E9%99%84%E5%8A%A0%E8%B2%BB-%E5%96%AE%E6%93%9A%E5%88%97-%E6%96%B0%E5%B9%B4%E5%BF%AB%E6%A8%82-%E6%94%B6-15-%E7%B6%B2%E6%B0%91-%E8%B2%B4%E9%81%8E%E5%8A%A0%E4%B8%80",
-    "timestamp": "2026-02-19T05:11:30.699Z",
     "strategy": ".content-card__main"
   }
 ];
