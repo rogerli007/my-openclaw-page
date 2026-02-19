@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-19T04:24:19.071Z
+// Last updated: 2026-02-19T05:11:30.699Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "屯門餐廳新年附加費！單據列「新年快樂」收$15　網民：貴過加一",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260219/1101014149896343552213804.png/QSCaPrWnmMwXcKGqxJfdKLERwACoiqruC75s0gu-bNI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60323262/%E5%B1%AF%E9%96%80%E9%A4%90%E5%BB%B3%E6%96%B0%E5%B9%B4%E9%99%84%E5%8A%A0%E8%B2%BB-%E5%96%AE%E6%93%9A%E5%88%97-%E6%96%B0%E5%B9%B4%E5%BF%AB%E6%A8%82-%E6%94%B6-15-%E7%B6%B2%E6%B0%91-%E8%B2%B4%E9%81%8E%E5%8A%A0%E4%B8%80",
+    "timestamp": "2026-02-19T05:11:30.699Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "鴨脷洲邨茶餐廳赤口遭爆竊　放$13萬夾萬不翼而飛",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260204/1095674988431675392051439.jpeg/7oOjFXnfwrSuqaaOd1A6ZLeB9A-KizxSvg838r4PN_I?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60323327/%E7%BE%8E%E5%AA%92-%E7%BE%8E%E4%BB%A5%E6%88%96%E7%9F%AD%E6%9C%9F%E5%85%A7%E5%A4%A7%E8%A6%8F%E6%A8%A1%E6%94%BB%E6%93%8A%E4%BC%8A%E6%9C%97-%E4%BB%A5%E8%89%B2%E5%88%97%E5%8A%A0%E7%B7%8A%E8%BB%8D%E4%BA%8B%E6%BA%96%E5%82%99",
     "timestamp": "2026-02-18T18:37:15.333Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "珍惜生命｜大角咀海富苑男子疑自割　昏迷送院搶救",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260219/1100970940314947584160942.jpeg/Yk5y0dCjCA7lx8vyhksaWz1VbOXH8jovtyknW40pJ1s?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60323325/%E7%8F%8D%E6%83%9C%E7%94%9F%E5%91%BD-%E5%A4%A7%E8%A7%92%E5%92%80%E6%B5%B7%E5%AF%8C%E8%8B%91%E7%94%B7%E5%AD%90%E7%96%91%E8%87%AA%E5%89%B2-%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2%E6%90%B6%E6%95%91",
-    "timestamp": "2026-02-18T18:07:57.781Z",
     "strategy": ".content-card__main"
   }
 ];
