@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-19T16:08:59.540Z
+// Last updated: 2026-02-19T16:39:08.964Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "和平委員會｜特朗普：加沙重建獲捐70億美元　料哈馬斯將解除武裝",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260219/1101298892626071552792431.jpeg/eSR2MGPkLkbUgd1nJAUaMaNikr_GlBfKCMhvkwjIb5M?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60323514/%E5%92%8C%E5%B9%B3%E5%A7%94%E5%93%A1%E6%9C%83-%E7%89%B9%E6%9C%97%E6%99%AE-%E5%8A%A0%E6%B2%99%E9%87%8D%E5%BB%BA%E7%8D%B2%E6%8D%9070%E5%84%84%E7%BE%8E%E5%85%83-%E6%96%99%E5%93%88%E9%A6%AC%E6%96%AF%E5%B0%87%E8%A7%A3%E9%99%A4%E6%AD%A6%E8%A3%9D",
+    "timestamp": "2026-02-19T16:39:08.964Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "年初三｜至夜晚9時逾20.5萬內地旅客南下　連續兩日超過20萬人",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260216/1100112686894551040026798.jpeg/YSQ6WtEPwgjONT28Jdfh8dkg4kP6oRNcPLsQdzy7EHc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60318331/%E7%85%AE%E6%B0%B4%E9%A4%83%E8%B2%BC%E5%A3%AB-%E7%B6%B2%E6%B0%91%E6%8F%AD%E4%B8%8D%E7%A0%B4%E7%9A%AE%E7%A7%98%E8%A8%A3-%E5%8A%A01%E7%89%A9q%E5%BD%88%E5%A5%BD%E5%90%83%E6%9B%B4%E6%85%B3%E9%9B%BB-%E5%86%B7%E5%87%8D%E9%A4%83%E7%85%AE%E6%B3%95",
     "timestamp": "2026-02-19T07:15:01.672Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "油麻地兩鄰居赤口因噪音爭執互毆　5歲松鼠狗慘被腳踢　雙雙被捕",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260219/1101159539052384256972365.jpeg/rIX9E98WY6tY1J587qf1trsaHBvRmbXpZQCBDGUAgQw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60323410/%E6%B2%B9%E9%BA%BB%E5%9C%B0%E5%85%A9%E9%84%B0%E5%B1%85%E8%B5%A4%E5%8F%A3%E5%9B%A0%E5%99%AA%E9%9F%B3%E7%88%AD%E5%9F%B7%E4%BA%92%E6%AF%86-5%E6%AD%B2%E6%9D%BE%E9%BC%A0%E7%8B%97%E6%85%98%E8%A2%AB%E8%85%B3%E8%B8%A2-%E9%9B%99%E9%9B%99%E8%A2%AB%E6%8D%95",
-    "timestamp": "2026-02-19T06:43:12.146Z",
     "strategy": ".content-card__main"
   }
 ];
