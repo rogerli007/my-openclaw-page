@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-19T08:58:02.250Z
+// Last updated: 2026-02-19T09:26:36.183Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "食海鮮起紅疹恐中毒！醫生：愈不新鮮毒性愈強　5招安心吃海鮮",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260216/1100121698570604544185972.jpeg/94kojKs1n4BAG87npa4usEVJm4zvGYFeIb_28CG_9vA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60319542/%E9%A3%9F%E6%B5%B7%E9%AE%AE%E8%B5%B7%E7%B4%85%E7%96%B9%E6%81%90%E4%B8%AD%E6%AF%92-%E9%86%AB%E7%94%9F-%E6%84%88%E4%B8%8D%E6%96%B0%E9%AE%AE%E6%AF%92%E6%80%A7%E6%84%88%E5%BC%B7-5%E6%8B%9B%E5%AE%89%E5%BF%83%E5%90%83%E6%B5%B7%E9%AE%AE",
+    "timestamp": "2026-02-19T09:26:36.183Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "尹錫悅｜韓國民非暴力阻戒嚴獲提名和平獎　李在明：人類歷史典範",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260219/1101031505485893632683095.jpeg/WjPPVoezrSIJqnmJWnOBJ-a8A9Ddmb2NEFv6pxBb-qc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60323338/%E8%8B%B1%E8%B6%85-%E9%98%BF%E4%BB%99%E5%A5%B4%E4%BD%9C%E5%AE%A2%E9%81%AD%E7%8B%BC%E9%9A%8A%E9%80%BC%E5%92%8C2-2-%E9%A0%98%E5%85%88%E6%9B%BC%E5%9F%8E5%E5%88%86",
     "timestamp": "2026-02-18T22:37:05.848Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "赤口天氣｜今早市區約18度　日間乾燥最高22度　未來幾天日間溫暖",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260219/1101034510755303424809236.jpeg/hCJXEmYQiSvz5JcdDzqDaF_W82gw6GLwLFMYGixTGBo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60323324/%E8%B5%A4%E5%8F%A3%E5%A4%A9%E6%B0%A3-%E4%BB%8A%E6%97%A9%E5%B8%82%E5%8D%80%E7%B4%8418%E5%BA%A6-%E6%97%A5%E9%96%93%E4%B9%BE%E7%87%A5%E6%9C%80%E9%AB%9822%E5%BA%A6-%E6%9C%AA%E4%BE%86%E5%B9%BE%E5%A4%A9%E6%97%A5%E9%96%93%E6%BA%AB%E6%9A%96",
-    "timestamp": "2026-02-18T22:18:55.282Z",
     "strategy": ".content-card__main"
   }
 ];
