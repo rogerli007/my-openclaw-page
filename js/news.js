@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-19T15:41:15.225Z
+// Last updated: 2026-02-19T16:08:59.540Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "年初三｜至夜晚9時逾20.5萬內地旅客南下　連續兩日超過20萬人",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260219/1101207824337211392305924.jpeg/flfJgzdJ0bcpK4naukviCb-MoXYT26FLS_pqmkv6apo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60323507/%E5%B9%B4%E5%88%9D%E4%B8%89-%E8%87%B3%E5%A4%9C%E6%99%9A9%E6%99%82%E9%80%BE20-5%E8%90%AC%E5%85%A7%E5%9C%B0%E6%97%85%E5%AE%A2%E5%8D%97%E4%B8%8B-%E9%80%A3%E7%BA%8C%E5%85%A9%E6%97%A5%E8%B6%85%E9%81%8E20%E8%90%AC%E4%BA%BA",
+    "timestamp": "2026-02-19T16:08:59.540Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "港男年廿八北上深圳玩划艇機受傷　拉力帶疑斷裂整個人向後飛",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260219/1101159539052384256972365.jpeg/rIX9E98WY6tY1J587qf1trsaHBvRmbXpZQCBDGUAgQw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60323410/%E6%B2%B9%E9%BA%BB%E5%9C%B0%E5%85%A9%E9%84%B0%E5%B1%85%E8%B5%A4%E5%8F%A3%E5%9B%A0%E5%99%AA%E9%9F%B3%E7%88%AD%E5%9F%B7%E4%BA%92%E6%AF%86-5%E6%AD%B2%E6%9D%BE%E9%BC%A0%E7%8B%97%E6%85%98%E8%A2%AB%E8%85%B3%E8%B8%A2-%E9%9B%99%E9%9B%99%E8%A2%AB%E6%8D%95",
     "timestamp": "2026-02-19T06:43:12.146Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "IFC往中環天星碼頭新行人天橋今日啟用　市民讚有冷氣：煥然一新",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260219/1101145361512140800536407.jpeg/qVFZYitHT-HDF_ruQXxeLb8MaumPcA10odS6hqHUuoY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60323396/ifc%E5%BE%80%E4%B8%AD%E7%92%B0%E5%A4%A9%E6%98%9F%E7%A2%BC%E9%A0%AD%E6%96%B0%E8%A1%8C%E4%BA%BA%E5%A4%A9%E6%A9%8B%E4%BB%8A%E6%97%A5%E5%95%9F%E7%94%A8-%E5%B8%82%E6%B0%91%E8%AE%9A%E6%9C%89%E5%86%B7%E6%B0%A3-%E7%85%A5%E7%84%B6%E4%B8%80%E6%96%B0",
-    "timestamp": "2026-02-19T06:14:57.611Z",
     "strategy": ".content-card__main"
   }
 ];
