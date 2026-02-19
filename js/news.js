@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-19T10:26:22.846Z
+// Last updated: 2026-02-19T10:53:13.249Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "荔枝角昇悅居高層兩房戶　815萬元易手　原業主持貨20年帳賺551萬",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/5289368/org/4fe50814dbb92c1824c9eed99a47ffa7.jpg/aKudd1v4J3L26S2VkDFXQf79DvPysUdd3KeHTdynh00?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60323477/%E8%8D%94%E6%9E%9D%E8%A7%92%E6%98%87%E6%82%85%E5%B1%85%E9%AB%98%E5%B1%A4%E5%85%A9%E6%88%BF%E6%88%B6-815%E8%90%AC%E5%85%83%E6%98%93%E6%89%8B-%E5%8E%9F%E6%A5%AD%E4%B8%BB%E6%8C%81%E8%B2%A820%E5%B9%B4%E5%B8%B3%E8%B3%BA551%E8%90%AC",
+    "timestamp": "2026-02-19T10:53:13.249Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "冬季奧運2026｜狗狗為尋主人誤闖賽道　奧運越野滑雪速度賽衝線",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260219/1101011228995620864731846.jpeg/058l6WDDEOUolOUmagsRv83t2xuAlleG08I169PCNes?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60323337/%E5%8A%A0%E5%B7%9E%E9%9B%AA%E5%B4%A9%E9%87%808%E6%AD%BB1%E5%A4%B1%E8%B9%A4-%E7%BE%8E%E5%9C%8B%E9%80%BE40%E5%B9%B4%E4%BE%86%E6%9C%80%E6%85%98%E9%87%8D",
     "timestamp": "2026-02-18T23:37:14.077Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "女生重回校園半工讀收入跌！給父母利市縮水　網民教1招表孝心",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260219/1101014292666257408186530.png/LqGRMNn4vZwFtQ2ZpCB2mtArExHky2fKscF--rHBfvo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60323302/%E5%A5%B3%E7%94%9F%E9%87%8D%E5%9B%9E%E6%A0%A1%E5%9C%92%E5%8D%8A%E5%B7%A5%E8%AE%80%E6%94%B6%E5%85%A5%E8%B7%8C-%E7%B5%A6%E7%88%B6%E6%AF%8D%E5%88%A9%E5%B8%82%E7%B8%AE%E6%B0%B4-%E7%B6%B2%E6%B0%91%E6%95%991%E6%8B%9B%E8%A1%A8%E5%AD%9D%E5%BF%83",
-    "timestamp": "2026-02-18T23:19:24.107Z",
     "strategy": ".content-card__main"
   }
 ];
