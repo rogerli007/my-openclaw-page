@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-19T16:39:08.964Z
+// Last updated: 2026-02-19T17:12:53.562Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "和平委員會｜特朗普：委員會將獲美捐100億美元　協助強化聯合國",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260219/1101298898129260544327580.jpeg/kquZaKyu0n-tr1m4ptKdHvM3F4lr6jWSAD6X1gA-l9Y?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60323515/%E5%92%8C%E5%B9%B3%E5%A7%94%E5%93%A1%E6%9C%83-%E7%89%B9%E6%9C%97%E6%99%AE-%E5%A7%94%E5%93%A1%E6%9C%83%E5%B0%87%E7%8D%B2%E7%BE%8E%E6%8D%90100%E5%84%84%E7%BE%8E%E5%85%83-%E5%8D%94%E5%8A%A9%E5%BC%B7%E5%8C%96%E8%81%AF%E5%90%88%E5%9C%8B",
+    "timestamp": "2026-02-19T17:12:53.562Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "和平委員會｜特朗普：加沙重建獲捐70億美元　料哈馬斯將解除武裝",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260219/1101173563110461440925743.jpeg/EjmisuvvDgbssZKJTu_M2DNAS8UVItjAUmLVClJi1Qo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60323424/%E5%85%83%E6%97%A6%E8%87%B3%E4%B8%8A%E5%91%A8%E6%80%A5%E7%97%87%E5%AE%A4%E6%B1%82%E8%A8%BA%E6%8C%89%E5%B9%B4%E6%B8%9B10-9-%E9%86%AB%E7%AE%A1%E5%B1%80-%E5%85%AC%E9%99%A2%E6%94%B6%E8%B2%BB%E6%94%B9%E9%9D%A9%E5%88%9D%E8%A6%8B%E6%95%88",
     "timestamp": "2026-02-19T07:40:50.273Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "煮水餃貼士｜網民揭不破皮秘訣　加1物Q彈好吃更慳電+冷凍餃煮法",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260216/1100112686894551040026798.jpeg/YSQ6WtEPwgjONT28Jdfh8dkg4kP6oRNcPLsQdzy7EHc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60318331/%E7%85%AE%E6%B0%B4%E9%A4%83%E8%B2%BC%E5%A3%AB-%E7%B6%B2%E6%B0%91%E6%8F%AD%E4%B8%8D%E7%A0%B4%E7%9A%AE%E7%A7%98%E8%A8%A3-%E5%8A%A01%E7%89%A9q%E5%BD%88%E5%A5%BD%E5%90%83%E6%9B%B4%E6%85%B3%E9%9B%BB-%E5%86%B7%E5%87%8D%E9%A4%83%E7%85%AE%E6%B3%95",
-    "timestamp": "2026-02-19T07:15:01.672Z",
     "strategy": ".content-card__main"
   }
 ];
