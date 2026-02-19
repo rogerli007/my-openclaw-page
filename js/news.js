@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-19T01:20:03.732Z
+// Last updated: 2026-02-19T02:09:31.601Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "OnePlus/Oppo/小米/vivo細屏旗艦機推介　6.3吋塞7000mAh電太誇張",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260216/1100023206527373312241853.jpeg/E61ZVe3uYhLbLub6EpHlcHjhY21w7JamtQWT67UFk-s?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60320864/oneplus-oppo-%E5%B0%8F%E7%B1%B3-vivo%E7%B4%B0%E5%B1%8F%E6%97%97%E8%89%A6%E6%A9%9F%E6%8E%A8%E4%BB%8B-6-3%E5%90%8B%E5%A1%9E7000mah%E9%9B%BB%E5%A4%AA%E8%AA%87%E5%BC%B5",
+    "timestamp": "2026-02-19T02:09:31.601Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美聯儲傳聲筒︰美聯儲會議紀要顯示降息意願寥寥",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20251226/1081242262253342720156324.jpeg/MNguXe21zUGLF44f8_IHI22A6cT44jmfONs9aDjbPWg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60323322/%E5%B0%B9%E9%8C%AB%E6%82%85%E6%B6%89%E5%AB%8C%E7%99%BC%E5%8B%95%E5%85%A7%E4%BA%82%E6%A1%8819%E6%97%A5%E4%B8%80%E5%AF%A9%E5%AE%A3%E5%88%A4-%E5%A4%AE%E8%A6%96-%E6%9C%AC%E4%BA%BA%E5%B0%87%E5%87%BA%E5%BA%AD",
     "timestamp": "2026-02-18T17:15:37.000Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "何文田3車相撞　七人車被撞到「反肚」　警不排除看錯燈肇禍",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260219/1100948113901752320509842.jpeg/mASkIiPS98nNEfKo4p3RPUfp6Hm5unldbmylZFRspWQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60323319/%E4%BD%95%E6%96%87%E7%94%B03%E8%BB%8A%E7%9B%B8%E6%92%9E-%E4%B8%83%E4%BA%BA%E8%BB%8A%E8%A2%AB%E6%92%9E%E5%88%B0-%E5%8F%8D%E8%82%9A-%E8%AD%A6%E4%B8%8D%E6%8E%92%E9%99%A4%E7%9C%8B%E9%8C%AF%E7%87%88%E8%82%87%E7%A6%8D",
-    "timestamp": "2026-02-18T16:43:25.072Z",
     "strategy": ".content-card__main"
   }
 ];
