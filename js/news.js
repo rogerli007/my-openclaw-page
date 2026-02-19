@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-19T22:01:55.627Z
+// Last updated: 2026-02-19T22:18:57.960Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "有片！新年放煙悲劇　華裔男當場炸斷左腳極恐怖　父爆背後更慘事",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260220/1101387925297303552573069.png/VifBW7MsV-UsMM4N4Rndq_938QxI8zl6FvwFKxb8BSs",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60323375/%E6%9C%89%E7%89%87-%E6%96%B0%E5%B9%B4%E6%94%BE%E7%85%99%E6%82%B2%E5%8A%87-%E8%8F%AF%E8%A3%94%E7%94%B7%E7%95%B6%E5%A0%B4%E7%82%B8%E6%96%B7%E5%B7%A6%E8%85%B3%E6%A5%B5%E6%81%90%E6%80%96-%E7%88%B6%E7%88%86%E8%83%8C%E5%BE%8C%E6%9B%B4%E6%85%98%E4%BA%8B",
+    "timestamp": "2026-02-19T22:18:57.960Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美國去年商品貿易逆差創新高　特朗普關稅被指效果微",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260219/1101158130017898496847930.jpeg/tWGlmUfjkIo8FEtJUAQ2yRh0yJelyqwK6uyrOersqzk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60323411/%E8%AE%8A%E5%BD%A2%E9%87%91%E5%89%9B-%E6%B2%99%E6%8B%89%E4%BF%9D%E5%A4%AB%E7%94%A8%E9%A0%AD%E8%A5%B2%E6%93%8A%E4%BA%BA%E8%A2%AB%E6%8D%95-%E9%A9%9A%E7%88%86%E8%88%87%E5%A5%B3%E6%98%9Fmia-goth%E9%9B%A2%E5%A9%9A",
     "timestamp": "2026-02-19T13:40:08.601Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "安德魯被捕　查理斯三世稱將全力支持調查　強調須秉公執法",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20251226/1081017431591227392927460.png/xtIJmNiFS6hn7CbMuc-kEV0gAf-RFhBeOYyOkTmMjpE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60323492/%E5%AE%89%E5%BE%B7%E9%AD%AF%E8%A2%AB%E6%8D%95-%E6%9F%A5%E7%90%86%E6%96%AF%E4%B8%89%E4%B8%96%E7%A8%B1%E5%B0%87%E5%85%A8%E5%8A%9B%E6%94%AF%E6%8C%81%E8%AA%BF%E6%9F%A5-%E5%BC%B7%E8%AA%BF%E9%A0%88%E7%A7%89%E5%85%AC%E5%9F%B7%E6%B3%95",
-    "timestamp": "2026-02-19T12:54:52.512Z",
     "strategy": ".content-card__main"
   }
 ];
