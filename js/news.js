@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-19T00:46:19.078Z
+// Last updated: 2026-02-19T01:20:03.732Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美聯儲傳聲筒︰美聯儲會議紀要顯示降息意願寥寥",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20230503/730461825912541184610984.jpeg/CXpn16I0KuEm_WPiQ9o4f_CrHq2l1kriH496uB-Perg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60323345/%E7%BE%8E%E8%81%AF%E5%84%B2%E5%82%B3%E8%81%B2%E7%AD%92-%E7%BE%8E%E8%81%AF%E5%84%B2%E6%9C%83%E8%AD%B0%E7%B4%80%E8%A6%81%E9%A1%AF%E7%A4%BA%E9%99%8D%E6%81%AF%E6%84%8F%E9%A1%98%E5%AF%A5%E5%AF%A5",
+    "timestamp": "2026-02-19T01:20:03.732Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "陳啟泰憶《百萬富翁》狂吸金風光史　曾遇莊家利誘洩露賽果開外圍",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260219/1100948113901752320509842.jpeg/mASkIiPS98nNEfKo4p3RPUfp6Hm5unldbmylZFRspWQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60323319/%E4%BD%95%E6%96%87%E7%94%B03%E8%BB%8A%E7%9B%B8%E6%92%9E-%E4%B8%83%E4%BA%BA%E8%BB%8A%E8%A2%AB%E6%92%9E%E5%88%B0-%E5%8F%8D%E8%82%9A-%E8%AD%A6%E4%B8%8D%E6%8E%92%E9%99%A4%E7%9C%8B%E9%8C%AF%E7%87%88%E8%82%87%E7%A6%8D",
     "timestamp": "2026-02-18T16:43:25.072Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "冬奧︱美國名將稱霸女子高山滑雪迴轉賽　港將金詠晞未能完賽",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260218/1100939404836343808150879.jpeg/rPMgFVD0mdgEv5xqLprFeVIjtHbc8Ch2j0xzyo9Mc8o?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60323313/%E5%86%AC%E5%A5%A7-%E7%BE%8E%E5%9C%8B%E5%90%8D%E5%B0%87%E7%A8%B1%E9%9C%B8%E5%A5%B3%E5%AD%90%E9%AB%98%E5%B1%B1%E6%BB%91%E9%9B%AA%E8%BF%B4%E8%BD%89%E8%B3%BD-%E6%B8%AF%E5%B0%87%E9%87%91%E8%A9%A0%E6%99%9E%E6%9C%AA%E8%83%BD%E5%AE%8C%E8%B3%BD",
-    "timestamp": "2026-02-18T16:10:35.453Z",
     "strategy": ".content-card__main"
   }
 ];
