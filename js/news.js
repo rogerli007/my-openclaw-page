@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-19T15:10:33.285Z
+// Last updated: 2026-02-19T15:41:15.225Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "港男年廿八北上深圳玩划艇機受傷　拉力帶疑斷裂整個人向後飛",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260219/1101298435484553216178564.jpeg/A3oM4YQUcByzGyoM7q3_RVwZ2HMZGSWtDIth6AyLYeg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60323478/%E6%B8%AF%E7%94%B7%E5%B9%B4%E5%BB%BF%E5%85%AB%E5%8C%97%E4%B8%8A%E6%B7%B1%E5%9C%B3%E7%8E%A9%E5%88%92%E8%89%87%E6%A9%9F%E5%8F%97%E5%82%B7-%E6%8B%89%E5%8A%9B%E5%B8%B6%E7%96%91%E6%96%B7%E8%A3%82%E6%95%B4%E5%80%8B%E4%BA%BA%E5%90%91%E5%BE%8C%E9%A3%9B",
+    "timestamp": "2026-02-19T15:41:15.225Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美股｜道指早段曾跌300點　油價升逾2%",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260219/1101145361512140800536407.jpeg/qVFZYitHT-HDF_ruQXxeLb8MaumPcA10odS6hqHUuoY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60323396/ifc%E5%BE%80%E4%B8%AD%E7%92%B0%E5%A4%A9%E6%98%9F%E7%A2%BC%E9%A0%AD%E6%96%B0%E8%A1%8C%E4%BA%BA%E5%A4%A9%E6%A9%8B%E4%BB%8A%E6%97%A5%E5%95%9F%E7%94%A8-%E5%B8%82%E6%B0%91%E8%AE%9A%E6%9C%89%E5%86%B7%E6%B0%A3-%E7%85%A5%E7%84%B6%E4%B8%80%E6%96%B0",
     "timestamp": "2026-02-19T06:14:57.611Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "陳凱詠重本打造首個紅館個唱　半百圈中好友力撐與陳慧琳驚喜合唱",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260219/1101147581972484096284513.jpeg/-e4gpNijOMApUe35JdM4iApc-EyJNgNKCM_I0gjPyNI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60323393/%E9%99%B3%E5%87%B1%E8%A9%A0%E9%87%8D%E6%9C%AC%E6%89%93%E9%80%A0%E9%A6%96%E5%80%8B%E7%B4%85%E9%A4%A8%E5%80%8B%E5%94%B1-%E5%8D%8A%E7%99%BE%E5%9C%88%E4%B8%AD%E5%A5%BD%E5%8F%8B%E5%8A%9B%E6%92%90%E8%88%87%E9%99%B3%E6%85%A7%E7%90%B3%E9%A9%9A%E5%96%9C%E5%90%88%E5%94%B1",
-    "timestamp": "2026-02-19T05:46:43.164Z",
     "strategy": ".content-card__main"
   }
 ];
