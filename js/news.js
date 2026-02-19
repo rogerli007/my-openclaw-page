@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-19T22:18:57.960Z
+// Last updated: 2026-02-19T23:02:43.850Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "千禧女神坐頭等艙歎魚子醬　息影多年嫁富商公司上市變地產女王",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260216/1100103987425710080128654.jpeg/QE0iHrsU08QCpO7P_4SACL-Ru_lR7Vb1KUqsqSlKrKk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60317497/race%E9%BB%83%E5%A9%89%E4%BD%A9%E5%9D%90%E9%A0%AD%E7%AD%89%E8%89%99%E6%AD%8E%E9%AD%9A%E5%AD%90%E9%86%AC-%E6%81%AF%E5%BD%B1%E5%A4%9A%E5%B9%B4%E5%AB%81%E5%AF%8C%E5%95%86%E5%85%AC%E5%8F%B8%E4%B8%8A%E5%B8%82%E8%AE%8A%E5%9C%B0%E7%94%A2%E5%A5%B3%E7%8E%8B",
+    "timestamp": "2026-02-19T23:02:43.850Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "有片！新年放煙悲劇　華裔男當場炸斷左腳極恐怖　父爆背後更慘事",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20251203/1073013677893881856507396.jpeg/R-H-wkP9lHHwMhkX-NzoYAQcWKqHSGy8BgHBqTwBwak?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60300298/%E9%84%A7%E7%BE%8E%E6%AC%A3",
     "timestamp": "2026-02-19T14:15:14.340Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "《變形金剛》沙拉保夫用頭襲擊人被捕　驚爆與女星Mia Goth離婚",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260219/1101158130017898496847930.jpeg/tWGlmUfjkIo8FEtJUAQ2yRh0yJelyqwK6uyrOersqzk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60323411/%E8%AE%8A%E5%BD%A2%E9%87%91%E5%89%9B-%E6%B2%99%E6%8B%89%E4%BF%9D%E5%A4%AB%E7%94%A8%E9%A0%AD%E8%A5%B2%E6%93%8A%E4%BA%BA%E8%A2%AB%E6%8D%95-%E9%A9%9A%E7%88%86%E8%88%87%E5%A5%B3%E6%98%9Fmia-goth%E9%9B%A2%E5%A9%9A",
-    "timestamp": "2026-02-19T13:40:08.601Z",
     "strategy": ".content-card__main"
   }
 ];
