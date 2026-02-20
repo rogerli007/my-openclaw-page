@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-20T02:05:51.472Z
+// Last updated: 2026-02-20T03:18:52.149Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "港交所唐家成︰年初至今IPO集資額870億　全年展望審慎樂觀",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260220/1101472268199923712839605.jpeg/aura_e6vz376of3aDF8NLLwYrqEY_iPKYB2Si2Adkos?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60323569/%E6%B8%AF%E4%BA%A4%E6%89%80%E5%94%90%E5%AE%B6%E6%88%90-%E5%B9%B4%E5%88%9D%E8%87%B3%E4%BB%8Aipo%E9%9B%86%E8%B3%87%E9%A1%8D870%E5%84%84-%E5%85%A8%E5%B9%B4%E5%B1%95%E6%9C%9B%E5%AF%A9%E6%85%8E%E6%A8%82%E8%A7%80",
+    "timestamp": "2026-02-20T03:18:52.149Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "不止Labubu星星人　公仔吊飾「包掛」已成深圳的生活方式｜多圖",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260219/1101298892626071552792431.jpeg/eSR2MGPkLkbUgd1nJAUaMaNikr_GlBfKCMhvkwjIb5M?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60323514/%E5%92%8C%E5%B9%B3%E5%A7%94%E5%93%A1%E6%9C%83-%E7%89%B9%E6%9C%97%E6%99%AE-%E5%8A%A0%E6%B2%99%E9%87%8D%E5%BB%BA%E7%8D%B2%E6%8D%9070%E5%84%84%E7%BE%8E%E5%85%83-%E6%96%99%E5%93%88%E9%A6%AC%E6%96%AF%E5%B0%87%E8%A7%A3%E9%99%A4%E6%AD%A6%E8%A3%9D",
     "timestamp": "2026-02-19T16:39:08.964Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "年初三｜至夜晚9時逾20.5萬內地旅客南下　連續兩日超過20萬人",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260219/1101207824337211392305924.jpeg/flfJgzdJ0bcpK4naukviCb-MoXYT26FLS_pqmkv6apo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60323507/%E5%B9%B4%E5%88%9D%E4%B8%89-%E8%87%B3%E5%A4%9C%E6%99%9A9%E6%99%82%E9%80%BE20-5%E8%90%AC%E5%85%A7%E5%9C%B0%E6%97%85%E5%AE%A2%E5%8D%97%E4%B8%8B-%E9%80%A3%E7%BA%8C%E5%85%A9%E6%97%A5%E8%B6%85%E9%81%8E20%E8%90%AC%E4%BA%BA",
-    "timestamp": "2026-02-19T16:08:59.540Z",
     "strategy": ".content-card__main"
   }
 ];
