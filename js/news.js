@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-19T23:37:32.866Z
+// Last updated: 2026-02-20T00:00:47.559Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "亞馬遜超越沃爾瑪　成為全球營收最高的公司",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20251226/1081172119754117120359120.jpeg/yU5zjtMzo_cvk6fvI9pJkhCfyD_Nuui7zbz4ps28-KY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60323534/%E4%BA%9E%E9%A6%AC%E9%81%9C%E8%B6%85%E8%B6%8A%E6%B2%83%E7%88%BE%E7%91%AA-%E6%88%90%E7%82%BA%E5%85%A8%E7%90%83%E7%87%9F%E6%94%B6%E6%9C%80%E9%AB%98%E7%9A%84%E5%85%AC%E5%8F%B8",
+    "timestamp": "2026-02-20T00:00:47.559Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "肯尼亞情報報告：逾1000國民被招募到俄羅斯　然後參與烏克蘭戰爭",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250930/1049830299971620864836107.jpeg/Zi8zOhWF2220rO4q9qvIco1UCsGv6ofY7xNO5u8TTuY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60323506/%E7%BE%8E%E8%82%A1-%E9%81%93%E6%8C%87%E6%97%A9%E6%AE%B5%E6%9B%BE%E8%B7%8C300%E9%BB%9E-%E6%B2%B9%E5%83%B9%E5%8D%87%E9%80%BE2",
     "timestamp": "2026-02-19T15:10:33.285Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "39歲女星演繹新年遇親戚瘋狂盤問　體面反擊令對方啞口無言",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260219/1101153761826443264918465.jpeg/WCuTMdGkBNEfOwfnvyWdN6GE0b4RezjYWaR2gFmkdoA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60323399/%E6%A8%82%E7%9E%B3%E6%BC%94%E7%B9%B9%E6%96%B0%E5%B9%B4%E9%81%87%E8%A6%AA%E6%88%9A%E7%98%8B%E7%8B%82%E7%9B%A4%E5%95%8F-%E9%AB%94%E9%9D%A2%E5%8F%8D%E6%93%8A%E4%BB%A4%E5%B0%8D%E6%96%B9%E5%95%9E%E5%8F%A3%E7%84%A1%E8%A8%80",
-    "timestamp": "2026-02-19T14:40:24.996Z",
     "strategy": ".content-card__main"
   }
 ];
