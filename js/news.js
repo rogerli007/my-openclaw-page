@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-20T16:52:47.063Z
+// Last updated: 2026-02-20T17:25:27.913Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "薄餅店老闆16年新年無間斷派餐贈無家者　冀滿足街友口癮齊過節",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260220/1101662681661706240718362.jpeg/fQ8GoecIg_AvTgyeDjKHdYN1CEFI7iw7WvZuwH_2bsA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E5%8D%80%E5%B0%88%E9%A1%8C/60323761/%E8%96%84%E9%A4%85%E5%BA%97%E8%80%81%E9%97%8616%E5%B9%B4%E6%96%B0%E5%B9%B4%E7%84%A1%E9%96%93%E6%96%B7%E6%B4%BE%E9%A4%90%E8%B4%88%E7%84%A1%E5%AE%B6%E8%80%85-%E5%86%80%E6%BB%BF%E8%B6%B3%E8%A1%97%E5%8F%8B%E5%8F%A3%E7%99%AE%E9%BD%8A%E9%81%8E%E7%AF%80",
+    "timestamp": "2026-02-20T17:25:27.913Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "薄餅店老闆16年新年無間斷派餐贈無家者　冀滿足街友口癮齊過節",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260220/1101386778679447552065892.png/oeENmCW0bb9hri24iFa0RQc3Fks3ioQBTWwB4k1sAeI",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60323493/%E9%A6%AC%E9%9E%8D%E5%B1%B1%E6%98%82%E5%B9%B3%E7%87%9F%E5%9C%B0%E5%B9%B4%E5%88%9D%E4%BA%8C%E6%99%9A%E7%8F%BE%E9%87%8E%E8%B1%AC%E6%92%9E%E6%AF%80%E5%B8%B3%E7%AF%B7-%E5%A5%B3%E5%AD%90%E5%B0%96%E5%8F%AB%E7%8B%82%E5%93%AD-%E6%80%8E%E9%BA%BC%E8%BE%A6",
     "timestamp": "2026-02-20T01:17:54.933Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "亞馬遜超越沃爾瑪　成為全球營收最高的公司",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20251226/1081172119754117120359120.jpeg/yU5zjtMzo_cvk6fvI9pJkhCfyD_Nuui7zbz4ps28-KY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60323534/%E4%BA%9E%E9%A6%AC%E9%81%9C%E8%B6%85%E8%B6%8A%E6%B2%83%E7%88%BE%E7%91%AA-%E6%88%90%E7%82%BA%E5%85%A8%E7%90%83%E7%87%9F%E6%94%B6%E6%9C%80%E9%AB%98%E7%9A%84%E5%85%AC%E5%8F%B8",
-    "timestamp": "2026-02-20T00:00:47.559Z",
     "strategy": ".content-card__main"
   }
 ];
