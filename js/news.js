@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-20T22:14:05.499Z
+// Last updated: 2026-02-20T22:31:05.300Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "特朗普批關稅案法官不愛國背叛憲法　戈薩奇：應尊重國會立法程序",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260221/1101756993422495744731652.jpeg/7pAofoEIpxFc6SXxshKx52TIWN56lqKsnu-IBZ7viAU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60323775/%E7%89%B9%E6%9C%97%E6%99%AE%E6%89%B9%E9%97%9C%E7%A8%85%E6%A1%88%E6%B3%95%E5%AE%98%E4%B8%8D%E6%84%9B%E5%9C%8B%E8%83%8C%E5%8F%9B%E6%86%B2%E6%B3%95-%E6%88%88%E8%96%A9%E5%A5%87-%E6%87%89%E5%B0%8A%E9%87%8D%E5%9C%8B%E6%9C%83%E7%AB%8B%E6%B3%95%E7%A8%8B%E5%BA%8F",
+    "timestamp": "2026-02-20T22:31:05.300Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "最高法院判定特朗普大部分關稅違法　關稅戰還能打下去嗎？",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260220/1101611557034397696407358.jpeg/KfELI6sz0vBAyOPjW84X_LDKE9o1L4a7dic5RHYnOUQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60323731/%E5%A4%A7%E5%BE%8B%E5%B8%AB%E5%85%AC%E6%9C%83%E5%90%91%E5%A4%8F%E5%81%89%E5%BF%97%E9%A0%92%E6%8E%88%E7%B5%82%E8%BA%AB%E6%9C%83%E5%93%A1-%E6%AD%B7%E4%BE%86%E7%AC%AC%E4%B9%9D%E4%BA%BA%E7%8D%B2%E6%AD%A4%E6%AE%8A%E6%A6%AE",
     "timestamp": "2026-02-20T12:27:28.185Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "有片｜何文田忠孝街爆水管變黃河　斜路激流淹浸愛民邨巴士總站",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260220/1101603642844123136051438.jpeg/pcbpHTO70aaZBqbCDB6YHWuYxkHhnwPONLWz2zS1s9s?v=w1920",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60323727/%E6%9C%89%E7%89%87-%E4%BD%95%E6%96%87%E7%94%B0%E5%BF%A0%E5%AD%9D%E8%A1%97%E7%88%86%E6%B0%B4%E7%AE%A1%E8%AE%8A%E9%BB%83%E6%B2%B3-%E6%96%9C%E8%B7%AF%E6%BF%80%E6%B5%81%E6%B7%B9%E6%B5%B8%E6%84%9B%E6%B0%91%E9%82%A8%E5%B7%B4%E5%A3%AB%E7%B8%BD%E7%AB%99",
-    "timestamp": "2026-02-20T12:02:41.233Z",
     "strategy": ".content-card__main"
   }
 ];
