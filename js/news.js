@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-20T11:20:43.364Z
+// Last updated: 2026-02-20T12:02:41.233Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "有片｜何文田忠孝街爆水管變黃河　斜路激流淹浸愛民邨巴士總站",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260220/1101603642844123136051438.jpeg/pcbpHTO70aaZBqbCDB6YHWuYxkHhnwPONLWz2zS1s9s?v=w1920",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60323727/%E6%9C%89%E7%89%87-%E4%BD%95%E6%96%87%E7%94%B0%E5%BF%A0%E5%AD%9D%E8%A1%97%E7%88%86%E6%B0%B4%E7%AE%A1%E8%AE%8A%E9%BB%83%E6%B2%B3-%E6%96%9C%E8%B7%AF%E6%BF%80%E6%B5%81%E6%B7%B9%E6%B5%B8%E6%84%9B%E6%B0%91%E9%82%A8%E5%B7%B4%E5%A3%AB%E7%B8%BD%E7%AB%99",
+    "timestamp": "2026-02-20T12:02:41.233Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "2026賀歲檔票房｜《夜王》稱冠　整體表現比去年上升近53%",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260220/1101329709871927296849502.jpeg/U2rUcR18rKQbUZMcofwwV2rkVDsQGGJFkFynK5Bcpys?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60323517/%E6%97%A5%E6%9C%AC%E7%A6%8F%E5%B2%A1%E5%B8%82%E5%9C%96%E6%9B%B8%E9%A4%A8%E7%99%BC%E7%94%9F%E6%8C%81%E5%88%80%E5%82%B7%E4%BA%BA-3%E4%BA%BA%E5%8F%97%E5%82%B7-%E7%96%91%E7%8A%AF%E8%A2%AB%E6%8D%95",
     "timestamp": "2026-02-19T20:01:27.433Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "日本福岡市圖書館發生持刀傷人　3人受傷　疑犯被捕",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260220/1101329709871927296849502.jpeg/U2rUcR18rKQbUZMcofwwV2rkVDsQGGJFkFynK5Bcpys?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60323517/%E6%97%A5%E6%9C%AC%E7%A6%8F%E5%B2%A1%E5%B8%82%E5%9C%96%E6%9B%B8%E9%A4%A8%E7%99%BC%E7%94%9F%E6%8C%81%E5%88%80%E5%82%B7%E4%BA%BA-3%E4%BA%BA%E5%8F%97%E5%82%B7-%E7%96%91%E7%8A%AF%E8%A2%AB%E6%8D%95",
-    "timestamp": "2026-02-19T19:35:59.380Z",
     "strategy": ".content-card__main"
   }
 ];
