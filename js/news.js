@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-20T12:54:36.807Z
+// Last updated: 2026-02-20T13:36:50.064Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "立陶宛總統：希望在對北京對台關係方面取得平衡",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20240527/871623433828438016532679.jpeg/ibTGv15ZaG8bSvZ1IjojWgu86LhXddXFk54N_JOeDfw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60323739/%E7%AB%8B%E9%99%B6%E5%AE%9B%E7%B8%BD%E7%B5%B1-%E5%B8%8C%E6%9C%9B%E5%9C%A8%E5%B0%8D%E5%8C%97%E4%BA%AC%E5%B0%8D%E5%8F%B0%E9%97%9C%E4%BF%82%E6%96%B9%E9%9D%A2%E5%8F%96%E5%BE%97%E5%B9%B3%E8%A1%A1",
+    "timestamp": "2026-02-20T13:36:50.064Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "謝霆鋒和吳京《鏢人》票房輸徐克《射雕》　武俠電影票房難救？",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260220/1101374386553753600718549.jpeg/g6wtUsNhtkg3m8fhBChoGf_6ELEEA7GpTTV0UU01dFE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60323527/%E5%AE%89%E5%BE%B7%E9%AD%AF%E8%A2%AB%E6%8D%95-%E9%81%AD%E5%95%8F%E8%A9%B1%E7%B4%8412%E5%B0%8F%E6%99%82%E5%BE%8C%E9%9B%A2%E9%96%8B%E8%AD%A6%E7%BD%B2-%E8%AD%A6%E6%96%B9%E7%A8%B1%E6%A1%88%E4%BB%B6%E7%B9%BC%E7%BA%8C%E8%AA%BF%E6%9F%A5",
     "timestamp": "2026-02-19T21:17:49.993Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "日本福岡市圖書館發生持刀傷人　3人受傷　疑犯被捕",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260220/1101329709871927296849502.jpeg/U2rUcR18rKQbUZMcofwwV2rkVDsQGGJFkFynK5Bcpys?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60323517/%E6%97%A5%E6%9C%AC%E7%A6%8F%E5%B2%A1%E5%B8%82%E5%9C%96%E6%9B%B8%E9%A4%A8%E7%99%BC%E7%94%9F%E6%8C%81%E5%88%80%E5%82%B7%E4%BA%BA-3%E4%BA%BA%E5%8F%97%E5%82%B7-%E7%96%91%E7%8A%AF%E8%A2%AB%E6%8D%95",
-    "timestamp": "2026-02-19T20:50:48.708Z",
     "strategy": ".content-card__main"
   }
 ];
