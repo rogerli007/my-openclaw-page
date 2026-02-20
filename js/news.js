@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-20T07:31:47.412Z
+// Last updated: 2026-02-20T07:53:34.870Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美伊開戰機率已高達90%　恐對安全經濟等4大層面構成「海嘯衝擊」",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260220/1101454847921623040735106.jpeg/06rAgV9eNhe4I-f32N90E9uIp9W1fBZf3hc0094XNNM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60323653/%E7%BE%8E%E4%BC%8A%E9%96%8B%E6%88%B0%E6%A9%9F%E7%8E%87%E5%B7%B2%E9%AB%98%E9%81%9490-%E6%81%90%E5%B0%8D%E5%AE%89%E5%85%A8%E7%B6%93%E6%BF%9F%E7%AD%894%E5%A4%A7%E5%B1%A4%E9%9D%A2%E6%A7%8B%E6%88%90-%E6%B5%B7%E5%98%AF%E8%A1%9D%E6%93%8A",
+    "timestamp": "2026-02-20T07:53:34.870Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "15高級公務員江蘇調研基層善治　楊何蓓茵：關鍵是一站式貼心服務",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260219/1101268432336195584824715.jpeg/UDNujMN5RYa-3CYbMAioSBQc8i64nVZl1eakeNXmpHg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60323498/%E5%86%AC%E5%A5%A7%E4%BA%BA%E7%89%A9%E8%AA%8C-mikaela-shiffrin%E5%96%AA%E7%88%B66%E5%B9%B4%E7%9A%84%E6%8E%99%E6%89%8E%E8%88%87%E6%87%B7%E7%96%91-%E7%B5%82%E7%81%AB%E9%B3%B3%E9%87%8D%E7%94%9F",
     "timestamp": "2026-02-19T17:40:08.424Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "和平委員會｜特朗普：委員會將獲美捐100億美元　協助強化聯合國",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260219/1101298898129260544327580.jpeg/kquZaKyu0n-tr1m4ptKdHvM3F4lr6jWSAD6X1gA-l9Y?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60323515/%E5%92%8C%E5%B9%B3%E5%A7%94%E5%93%A1%E6%9C%83-%E7%89%B9%E6%9C%97%E6%99%AE-%E5%A7%94%E5%93%A1%E6%9C%83%E5%B0%87%E7%8D%B2%E7%BE%8E%E6%8D%90100%E5%84%84%E7%BE%8E%E5%85%83-%E5%8D%94%E5%8A%A9%E5%BC%B7%E5%8C%96%E8%81%AF%E5%90%88%E5%9C%8B",
-    "timestamp": "2026-02-19T17:12:53.562Z",
     "strategy": ".content-card__main"
   }
 ];
