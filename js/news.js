@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-20T14:58:11.802Z
+// Last updated: 2026-02-20T15:24:36.205Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "2026內地賀歲票房年初二驚現崩塌　力守每日億元難捱至三月初",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260220/1101647903325163520842715.jpeg/sSq2oQRKJKOzmfa2rGth7kmRrXHtyeOHRnM_QEZzP0A?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60323722/2026%E5%85%A7%E5%9C%B0%E8%B3%80%E6%AD%B2%E7%A5%A8%E6%88%BF%E5%B9%B4%E5%88%9D%E4%BA%8C%E9%A9%9A%E7%8F%BE%E5%B4%A9%E5%A1%8C-%E5%8A%9B%E5%AE%88%E6%AF%8F%E6%97%A5%E5%84%84%E5%85%83%E9%9B%A3%E6%8D%B1%E8%87%B3%E4%B8%89%E6%9C%88%E5%88%9D",
+    "timestamp": "2026-02-20T15:24:36.205Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美國白宮：特朗普3月31日至4月2日訪問中國",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260220/1101387925297303552573069.png/VifBW7MsV-UsMM4N4Rndq_938QxI8zl6FvwFKxb8BSs",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60323375/%E6%9C%89%E7%89%87-%E6%96%B0%E5%B9%B4%E6%94%BE%E7%85%99%E6%82%B2%E5%8A%87-%E8%8F%AF%E8%A3%94%E7%94%B7%E7%95%B6%E5%A0%B4%E7%82%B8%E6%96%B7%E5%B7%A6%E8%85%B3%E6%A5%B5%E6%81%90%E6%80%96-%E7%88%B6%E7%88%86%E8%83%8C%E5%BE%8C%E6%9B%B4%E6%85%98%E4%BA%8B",
     "timestamp": "2026-02-19T22:18:57.960Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美國去年商品貿易逆差創新高　特朗普關稅被指效果微",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260118/1089584950514028544463591.jpeg/u-SjmZmxjmncLN_kxRqlM7kRIIU3r3d4QW1BKUFtQSk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60323525/%E7%BE%8E%E5%9C%8B%E5%8E%BB%E5%B9%B4%E5%95%86%E5%93%81%E8%B2%BF%E6%98%93%E9%80%86%E5%B7%AE%E5%89%B5%E6%96%B0%E9%AB%98-%E7%89%B9%E6%9C%97%E6%99%AE%E9%97%9C%E7%A8%85%E8%A2%AB%E6%8C%87%E6%95%88%E6%9E%9C%E5%BE%AE",
-    "timestamp": "2026-02-19T22:01:55.627Z",
     "strategy": ".content-card__main"
   }
 ];
