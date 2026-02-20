@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-20T12:27:28.185Z
+// Last updated: 2026-02-20T12:54:36.807Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "謝霆鋒和吳京《鏢人》票房輸徐克《射雕》　武俠電影票房難救？",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260220/1101566797871583232409781.jpeg/fBWNFGEoy_fDao7ZobRfVHmLe9cA739WgNcDdoDXA3Y?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%97%9D%E6%96%87%E4%B8%AD%E5%9C%8B/60323690/%E8%AC%9D%E9%9C%86%E9%8B%92%E5%92%8C%E5%90%B3%E4%BA%AC-%E9%8F%A2%E4%BA%BA-%E7%A5%A8%E6%88%BF%E8%BC%B8%E5%BE%90%E5%85%8B-%E5%B0%84%E9%9B%95-%E6%AD%A6%E4%BF%A0%E9%9B%BB%E5%BD%B1%E7%A5%A8%E6%88%BF%E9%9B%A3%E6%95%91",
+    "timestamp": "2026-02-20T12:54:36.807Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "大律師公會向夏偉志頒授終身會員　歷來第九人獲此殊榮",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260220/1101329709871927296849502.jpeg/U2rUcR18rKQbUZMcofwwV2rkVDsQGGJFkFynK5Bcpys?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60323517/%E6%97%A5%E6%9C%AC%E7%A6%8F%E5%B2%A1%E5%B8%82%E5%9C%96%E6%9B%B8%E9%A4%A8%E7%99%BC%E7%94%9F%E6%8C%81%E5%88%80%E5%82%B7%E4%BA%BA-3%E4%BA%BA%E5%8F%97%E5%82%B7-%E7%96%91%E7%8A%AF%E8%A2%AB%E6%8D%95",
     "timestamp": "2026-02-19T20:50:48.708Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "日本福岡市圖書館發生持刀傷人　3人受傷　疑犯被捕",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260220/1101329709871927296849502.jpeg/U2rUcR18rKQbUZMcofwwV2rkVDsQGGJFkFynK5Bcpys?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60323517/%E6%97%A5%E6%9C%AC%E7%A6%8F%E5%B2%A1%E5%B8%82%E5%9C%96%E6%9B%B8%E9%A4%A8%E7%99%BC%E7%94%9F%E6%8C%81%E5%88%80%E5%82%B7%E4%BA%BA-3%E4%BA%BA%E5%8F%97%E5%82%B7-%E7%96%91%E7%8A%AF%E8%A2%AB%E6%8D%95",
-    "timestamp": "2026-02-19T20:20:34.197Z",
     "strategy": ".content-card__main"
   }
 ];
