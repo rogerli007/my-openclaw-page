@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-20T01:17:54.933Z
+// Last updated: 2026-02-20T02:05:51.472Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "不止Labubu星星人　公仔吊飾「包掛」已成深圳的生活方式｜多圖",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260212/1098585022715138048758034.jpeg/3G7GyWnlY7kpBlCk-rKt-szlQChyHjv7tHsCF7R7Ahc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60319217/%E4%B8%8D%E6%AD%A2labubu%E6%98%9F%E6%98%9F%E4%BA%BA-%E5%85%AC%E4%BB%94%E5%90%8A%E9%A3%BE-%E5%8C%85%E6%8E%9B-%E5%B7%B2%E6%88%90%E6%B7%B1%E5%9C%B3%E7%9A%84%E7%94%9F%E6%B4%BB%E6%96%B9%E5%BC%8F-%E5%A4%9A%E5%9C%96",
+    "timestamp": "2026-02-20T02:05:51.472Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "馬鞍山昂平營地年初二晚現野豬撞毀帳篷　女子尖叫狂哭：怎麼辦？",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260219/1101207824337211392305924.jpeg/flfJgzdJ0bcpK4naukviCb-MoXYT26FLS_pqmkv6apo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60323507/%E5%B9%B4%E5%88%9D%E4%B8%89-%E8%87%B3%E5%A4%9C%E6%99%9A9%E6%99%82%E9%80%BE20-5%E8%90%AC%E5%85%A7%E5%9C%B0%E6%97%85%E5%AE%A2%E5%8D%97%E4%B8%8B-%E9%80%A3%E7%BA%8C%E5%85%A9%E6%97%A5%E8%B6%85%E9%81%8E20%E8%90%AC%E4%BA%BA",
     "timestamp": "2026-02-19T16:08:59.540Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "港男年廿八北上深圳玩划艇機受傷　拉力帶疑斷裂整個人向後飛",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260219/1101298435484553216178564.jpeg/A3oM4YQUcByzGyoM7q3_RVwZ2HMZGSWtDIth6AyLYeg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60323478/%E6%B8%AF%E7%94%B7%E5%B9%B4%E5%BB%BF%E5%85%AB%E5%8C%97%E4%B8%8A%E6%B7%B1%E5%9C%B3%E7%8E%A9%E5%88%92%E8%89%87%E6%A9%9F%E5%8F%97%E5%82%B7-%E6%8B%89%E5%8A%9B%E5%B8%B6%E7%96%91%E6%96%B7%E8%A3%82%E6%95%B4%E5%80%8B%E4%BA%BA%E5%90%91%E5%BE%8C%E9%A3%9B",
-    "timestamp": "2026-02-19T15:41:15.225Z",
     "strategy": ".content-card__main"
   }
 ];
