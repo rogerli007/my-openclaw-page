@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-20T19:24:01.892Z
+// Last updated: 2026-02-20T20:19:02.732Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "特朗普對最高法院裁決深感失望　將在現有基礎上加徵10%全球關稅",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260221/1101706802199793664921473.jpeg/0OhhrtpeBgl9et8rOM96dzKJMEWWzsURoVhx1qFYcdY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60323769/%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%8D%E6%9C%80%E9%AB%98%E6%B3%95%E9%99%A2%E8%A3%81%E6%B1%BA%E6%B7%B1%E6%84%9F%E5%A4%B1%E6%9C%9B-%E5%B0%87%E5%9C%A8%E7%8F%BE%E6%9C%89%E5%9F%BA%E7%A4%8E%E4%B8%8A%E5%8A%A0%E5%BE%B510-%E5%85%A8%E7%90%83%E9%97%9C%E7%A8%85",
+    "timestamp": "2026-02-20T20:19:02.732Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "特朗普對最高法院裁決深感失望　將在現有基礎上加徵10%全球關稅",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260220/1101454847921623040735106.jpeg/06rAgV9eNhe4I-f32N90E9uIp9W1fBZf3hc0094XNNM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60323653/%E7%BE%8E%E4%BC%8A%E9%96%8B%E6%88%B0%E6%A9%9F%E7%8E%87%E5%B7%B2%E9%AB%98%E9%81%9490-%E6%81%90%E5%B0%8D%E5%AE%89%E5%85%A8%E7%B6%93%E6%BF%9F%E7%AD%894%E5%A4%A7%E5%B1%A4%E9%9D%A2%E6%A7%8B%E6%88%90-%E6%B5%B7%E5%98%AF%E8%A1%9D%E6%93%8A",
     "timestamp": "2026-02-20T07:53:34.870Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "15高級公務員江蘇調研基層善治　楊何蓓茵：關鍵是一站式貼心服務",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260220/1101534230694858752957083.jpeg/sn6ECmgtZni_I7gSM5xBQmmlq4FwzCvd5rWEYea1hGE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60323644/15%E9%AB%98%E7%B4%9A%E5%85%AC%E5%8B%99%E5%93%A1%E6%B1%9F%E8%98%87%E8%AA%BF%E7%A0%94%E5%9F%BA%E5%B1%A4%E5%96%84%E6%B2%BB-%E6%A5%8A%E4%BD%95%E8%93%93%E8%8C%B5-%E9%97%9C%E9%8D%B5%E6%98%AF%E4%B8%80%E7%AB%99%E5%BC%8F%E8%B2%BC%E5%BF%83%E6%9C%8D%E5%8B%99",
-    "timestamp": "2026-02-20T07:31:47.412Z",
     "strategy": ".content-card__main"
   }
 ];
