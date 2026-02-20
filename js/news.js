@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-20T03:18:52.149Z
+// Last updated: 2026-02-20T07:31:47.412Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "15高級公務員江蘇調研基層善治　楊何蓓茵：關鍵是一站式貼心服務",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260220/1101534230694858752957083.jpeg/sn6ECmgtZni_I7gSM5xBQmmlq4FwzCvd5rWEYea1hGE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60323644/15%E9%AB%98%E7%B4%9A%E5%85%AC%E5%8B%99%E5%93%A1%E6%B1%9F%E8%98%87%E8%AA%BF%E7%A0%94%E5%9F%BA%E5%B1%A4%E5%96%84%E6%B2%BB-%E6%A5%8A%E4%BD%95%E8%93%93%E8%8C%B5-%E9%97%9C%E9%8D%B5%E6%98%AF%E4%B8%80%E7%AB%99%E5%BC%8F%E8%B2%BC%E5%BF%83%E6%9C%8D%E5%8B%99",
+    "timestamp": "2026-02-20T07:31:47.412Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "港交所唐家成︰年初至今IPO集資額870億　全年展望審慎樂觀",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260219/1101298898129260544327580.jpeg/kquZaKyu0n-tr1m4ptKdHvM3F4lr6jWSAD6X1gA-l9Y?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60323515/%E5%92%8C%E5%B9%B3%E5%A7%94%E5%93%A1%E6%9C%83-%E7%89%B9%E6%9C%97%E6%99%AE-%E5%A7%94%E5%93%A1%E6%9C%83%E5%B0%87%E7%8D%B2%E7%BE%8E%E6%8D%90100%E5%84%84%E7%BE%8E%E5%85%83-%E5%8D%94%E5%8A%A9%E5%BC%B7%E5%8C%96%E8%81%AF%E5%90%88%E5%9C%8B",
     "timestamp": "2026-02-19T17:12:53.562Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "和平委員會｜特朗普：加沙重建獲捐70億美元　料哈馬斯將解除武裝",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260219/1101298892626071552792431.jpeg/eSR2MGPkLkbUgd1nJAUaMaNikr_GlBfKCMhvkwjIb5M?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60323514/%E5%92%8C%E5%B9%B3%E5%A7%94%E5%93%A1%E6%9C%83-%E7%89%B9%E6%9C%97%E6%99%AE-%E5%8A%A0%E6%B2%99%E9%87%8D%E5%BB%BA%E7%8D%B2%E6%8D%9070%E5%84%84%E7%BE%8E%E5%85%83-%E6%96%99%E5%93%88%E9%A6%AC%E6%96%AF%E5%B0%87%E8%A7%A3%E9%99%A4%E6%AD%A6%E8%A3%9D",
-    "timestamp": "2026-02-19T16:39:08.964Z",
     "strategy": ".content-card__main"
   }
 ];
