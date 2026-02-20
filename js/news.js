@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-20T10:22:19.762Z
+// Last updated: 2026-02-20T11:20:43.364Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "2026賀歲檔票房｜《夜王》稱冠　整體表現比去年上升近53%",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260220/1101593757553266688786319.jpeg/aWZYQ6SzQnNpzxahYHy7EADglJabuFirqm1Tq6ptU6s?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60323668/2026%E8%B3%80%E6%AD%B2%E6%AA%94%E7%A5%A8%E6%88%BF-%E5%A4%9C%E7%8E%8B-%E7%A8%B1%E5%86%A0-%E6%95%B4%E9%AB%94%E8%A1%A8%E7%8F%BE%E6%AF%94%E5%8E%BB%E5%B9%B4%E4%B8%8A%E5%8D%87%E8%BF%9153",
+    "timestamp": "2026-02-20T11:20:43.364Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "財政預算案2026懶人包｜夜間消費券/公務員加薪　30+大建議一覽",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260220/1101329709871927296849502.jpeg/U2rUcR18rKQbUZMcofwwV2rkVDsQGGJFkFynK5Bcpys?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60323517/%E6%97%A5%E6%9C%AC%E7%A6%8F%E5%B2%A1%E5%B8%82%E5%9C%96%E6%9B%B8%E9%A4%A8%E7%99%BC%E7%94%9F%E6%8C%81%E5%88%80%E5%82%B7%E4%BA%BA-3%E4%BA%BA%E5%8F%97%E5%82%B7-%E7%96%91%E7%8A%AF%E8%A2%AB%E6%8D%95",
     "timestamp": "2026-02-19T19:35:59.380Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "日本福岡市圖書館發生持刀傷人　3人受傷　疑犯被捕",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260220/1101329709871927296849502.jpeg/U2rUcR18rKQbUZMcofwwV2rkVDsQGGJFkFynK5Bcpys?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60323517/%E6%97%A5%E6%9C%AC%E7%A6%8F%E5%B2%A1%E5%B8%82%E5%9C%96%E6%9B%B8%E9%A4%A8%E7%99%BC%E7%94%9F%E6%8C%81%E5%88%80%E5%82%B7%E4%BA%BA-3%E4%BA%BA%E5%8F%97%E5%82%B7-%E7%96%91%E7%8A%AF%E8%A2%AB%E6%8D%95",
-    "timestamp": "2026-02-19T19:11:29.253Z",
     "strategy": ".content-card__main"
   }
 ];
