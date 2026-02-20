@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-20T00:00:47.559Z
+// Last updated: 2026-02-20T01:17:54.933Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "馬鞍山昂平營地年初二晚現野豬撞毀帳篷　女子尖叫狂哭：怎麼辦？",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260220/1101386778679447552065892.png/oeENmCW0bb9hri24iFa0RQc3Fks3ioQBTWwB4k1sAeI",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60323493/%E9%A6%AC%E9%9E%8D%E5%B1%B1%E6%98%82%E5%B9%B3%E7%87%9F%E5%9C%B0%E5%B9%B4%E5%88%9D%E4%BA%8C%E6%99%9A%E7%8F%BE%E9%87%8E%E8%B1%AC%E6%92%9E%E6%AF%80%E5%B8%B3%E7%AF%B7-%E5%A5%B3%E5%AD%90%E5%B0%96%E5%8F%AB%E7%8B%82%E5%93%AD-%E6%80%8E%E9%BA%BC%E8%BE%A6",
+    "timestamp": "2026-02-20T01:17:54.933Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "亞馬遜超越沃爾瑪　成為全球營收最高的公司",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260219/1101298435484553216178564.jpeg/A3oM4YQUcByzGyoM7q3_RVwZ2HMZGSWtDIth6AyLYeg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60323478/%E6%B8%AF%E7%94%B7%E5%B9%B4%E5%BB%BF%E5%85%AB%E5%8C%97%E4%B8%8A%E6%B7%B1%E5%9C%B3%E7%8E%A9%E5%88%92%E8%89%87%E6%A9%9F%E5%8F%97%E5%82%B7-%E6%8B%89%E5%8A%9B%E5%B8%B6%E7%96%91%E6%96%B7%E8%A3%82%E6%95%B4%E5%80%8B%E4%BA%BA%E5%90%91%E5%BE%8C%E9%A3%9B",
     "timestamp": "2026-02-19T15:41:15.225Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美股｜道指早段曾跌300點　油價升逾2%",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250930/1049830299971620864836107.jpeg/Zi8zOhWF2220rO4q9qvIco1UCsGv6ofY7xNO5u8TTuY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60323506/%E7%BE%8E%E8%82%A1-%E9%81%93%E6%8C%87%E6%97%A9%E6%AE%B5%E6%9B%BE%E8%B7%8C300%E9%BB%9E-%E6%B2%B9%E5%83%B9%E5%8D%87%E9%80%BE2",
-    "timestamp": "2026-02-19T15:10:33.285Z",
     "strategy": ".content-card__main"
   }
 ];
