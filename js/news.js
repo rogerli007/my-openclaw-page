@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-20T14:34:44.961Z
+// Last updated: 2026-02-20T14:58:11.802Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美國白宮：特朗普3月31日至4月2日訪問中國",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260214/1099175446982955008495178.jpeg/g4vQpZGI-S1ltbDfrVEEDHCneMXjiDWe8aSRVfGkkVU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60323753/%E7%BE%8E%E5%9C%8B%E7%99%BD%E5%AE%AE-%E7%89%B9%E6%9C%97%E6%99%AE3%E6%9C%8831%E6%97%A5%E8%87%B34%E6%9C%882%E6%97%A5%E8%A8%AA%E5%95%8F%E4%B8%AD%E5%9C%8B",
+    "timestamp": "2026-02-20T14:58:11.802Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "農曆新年｜泰國警奇招捉賊　扮舞龍舞獅靠近突擊　終擒獲偷竊慣犯",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260118/1089584950514028544463591.jpeg/u-SjmZmxjmncLN_kxRqlM7kRIIU3r3d4QW1BKUFtQSk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60323525/%E7%BE%8E%E5%9C%8B%E5%8E%BB%E5%B9%B4%E5%95%86%E5%93%81%E8%B2%BF%E6%98%93%E9%80%86%E5%B7%AE%E5%89%B5%E6%96%B0%E9%AB%98-%E7%89%B9%E6%9C%97%E6%99%AE%E9%97%9C%E7%A8%85%E8%A2%AB%E6%8C%87%E6%95%88%E6%9E%9C%E5%BE%AE",
     "timestamp": "2026-02-19T22:01:55.627Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "尿袋3C認證3月起更新｜工信部收緊行動電源監管追加2大新標準",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20251127/1070722482438148096542189.jpeg/4mc-X0UuvD7xU54f_MHzRAiUUqY-U7Y2P_MVFz_zFRc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60297788/%E5%B0%BF%E8%A2%8B3c%E8%AA%8D%E8%AD%893%E6%9C%88%E8%B5%B7%E6%9B%B4%E6%96%B0-%E5%B7%A5%E4%BF%A1%E9%83%A8%E6%94%B6%E7%B7%8A%E8%A1%8C%E5%8B%95%E9%9B%BB%E6%BA%90%E7%9B%A3%E7%AE%A1%E8%BF%BD%E5%8A%A02%E5%A4%A7%E6%96%B0%E6%A8%99%E6%BA%96",
-    "timestamp": "2026-02-19T21:35:38.247Z",
     "strategy": ".content-card__main"
   }
 ];
