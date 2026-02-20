@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-20T09:56:49.567Z
+// Last updated: 2026-02-20T10:22:19.762Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "財政預算案2026懶人包｜夜間消費券/公務員加薪　30+大建議一覽",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260205/1096047032126148608204718.jpeg/hZBRtyu3fn1VaKv1NtkTJVifmoXq-tsPp9Vv3afVb90?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%96%8B%E7%BD%90/60315470/%E8%B2%A1%E6%94%BF%E9%A0%90%E7%AE%97%E6%A1%882026%E6%87%B6%E4%BA%BA%E5%8C%85-%E6%B4%BE%E7%B3%96-%E6%B4%BE%E9%8C%A2%E6%B6%88%E8%B2%BB%E5%88%B8-ai%E8%A3%9C%E8%B2%BC-30-%E5%A4%A7%E5%BB%BA%E8%AD%B0%E4%B8%80%E8%A6%BD",
+    "timestamp": "2026-02-20T10:22:19.762Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "中大兩舊生被拒選校友評議會　官指准解釋也不改決定　裁覆核敗訴",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260220/1101329709871927296849502.jpeg/U2rUcR18rKQbUZMcofwwV2rkVDsQGGJFkFynK5Bcpys?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60323517/%E6%97%A5%E6%9C%AC%E7%A6%8F%E5%B2%A1%E5%B8%82%E5%9C%96%E6%9B%B8%E9%A4%A8%E7%99%BC%E7%94%9F%E6%8C%81%E5%88%80%E5%82%B7%E4%BA%BA-3%E4%BA%BA%E5%8F%97%E5%82%B7-%E7%96%91%E7%8A%AF%E8%A2%AB%E6%8D%95",
     "timestamp": "2026-02-19T19:11:29.253Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "油麻地果欄對開雪櫃遭淋白油　口罩男犯案後逃跑　警列刑毀調查",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260220/1101338517654474752835214.jpeg/r_BElQJKAXcGzSwRScSHCe8lGF8t1ZN66w3yCdEN8gk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60323519/%E6%B2%B9%E9%BA%BB%E5%9C%B0%E6%9E%9C%E6%AC%84%E5%B0%8D%E9%96%8B%E9%9B%AA%E6%AB%83%E9%81%AD%E6%B7%8B%E7%99%BD%E6%B2%B9-%E5%8F%A3%E7%BD%A9%E7%94%B7%E7%8A%AF%E6%A1%88%E5%BE%8C%E9%80%83%E8%B7%91-%E8%AD%A6%E5%88%97%E5%88%91%E6%AF%80%E8%AA%BF%E6%9F%A5",
-    "timestamp": "2026-02-19T18:38:53.154Z",
     "strategy": ".content-card__main"
   }
 ];
