@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-20T18:24:19.969Z
+// Last updated: 2026-02-20T18:53:52.695Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "特朗普：正考慮有限度打擊伊朗　伊外長稱2至3日內完成協議草案",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260221/1101686833990864896706581.jpeg/zMDr3VMnF8cq8ZKkfY8kWuJqoTphXb47MWb-pDFm_qQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60323766/%E7%89%B9%E6%9C%97%E6%99%AE-%E6%AD%A3%E8%80%83%E6%85%AE%E6%9C%89%E9%99%90%E5%BA%A6%E6%89%93%E6%93%8A%E4%BC%8A%E6%9C%97-%E4%BC%8A%E5%A4%96%E9%95%B7%E7%A8%B12%E8%87%B33%E6%97%A5%E5%85%A7%E5%AE%8C%E6%88%90%E5%8D%94%E8%AD%B0%E8%8D%89%E6%A1%88",
+    "timestamp": "2026-02-20T18:53:52.695Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "特朗普：正考慮有限度打擊伊朗　伊外長稱2至3日內完成協議草案",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260220/1101472268199923712839605.jpeg/aura_e6vz376of3aDF8NLLwYrqEY_iPKYB2Si2Adkos?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60323569/%E6%B8%AF%E4%BA%A4%E6%89%80%E5%94%90%E5%AE%B6%E6%88%90-%E5%B9%B4%E5%88%9D%E8%87%B3%E4%BB%8Aipo%E9%9B%86%E8%B3%87%E9%A1%8D870%E5%84%84-%E5%85%A8%E5%B9%B4%E5%B1%95%E6%9C%9B%E5%AF%A9%E6%85%8E%E6%A8%82%E8%A7%80",
     "timestamp": "2026-02-20T03:18:52.149Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "不止Labubu星星人　公仔吊飾「包掛」已成深圳的生活方式｜多圖",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260212/1098585022715138048758034.jpeg/3G7GyWnlY7kpBlCk-rKt-szlQChyHjv7tHsCF7R7Ahc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60319217/%E4%B8%8D%E6%AD%A2labubu%E6%98%9F%E6%98%9F%E4%BA%BA-%E5%85%AC%E4%BB%94%E5%90%8A%E9%A3%BE-%E5%8C%85%E6%8E%9B-%E5%B7%B2%E6%88%90%E6%B7%B1%E5%9C%B3%E7%9A%84%E7%94%9F%E6%B4%BB%E6%96%B9%E5%BC%8F-%E5%A4%9A%E5%9C%96",
-    "timestamp": "2026-02-20T02:05:51.472Z",
     "strategy": ".content-card__main"
   }
 ];
