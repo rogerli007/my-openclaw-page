@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-20T07:53:34.870Z
+// Last updated: 2026-02-20T08:52:37.204Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "中年婦涉假冒官員騙案　賣戶口清洗$524萬黑錢　被加刑囚35個月",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250303/973372953305550848821653.jpeg/iKHoEJVs0kCSY2CfX1IDtHiBNVgHiQaOypPsBMqT7AQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60323674/%E4%B8%AD%E5%B9%B4%E5%A9%A6%E6%B6%89%E5%81%87%E5%86%92%E5%AE%98%E5%93%A1%E9%A8%99%E6%A1%88-%E8%B3%A3%E6%88%B6%E5%8F%A3%E6%B8%85%E6%B4%97-524%E8%90%AC%E9%BB%91%E9%8C%A2-%E8%A2%AB%E5%8A%A0%E5%88%91%E5%9B%9A35%E5%80%8B%E6%9C%88",
+    "timestamp": "2026-02-20T08:52:37.204Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美伊開戰機率已高達90%　恐對安全經濟等4大層面構成「海嘯衝擊」",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260216/1100033039016136704870452.jpeg/PnqRnXuM2jaLM33S-UgvsD88QhAqSItgA8S-TgPEvk4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60322800/%E7%BE%8E%E8%81%B7%E6%97%A9%E9%9C%B8%E7%8E%8B-%E7%BE%8E%E8%81%B7%E9%96%8B%E9%91%BC-%E5%AD%AB%E8%88%88%E6%B0%91%E9%A0%98fc%E6%B4%9B%E6%9D%89%E7%A3%AF%E6%90%B6%E5%85%88%E5%85%A5%E6%B3%A2",
     "timestamp": "2026-02-19T18:09:31.720Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "冬奧人物誌︱Mikaela Shiffrin喪父6年的掙扎與懷疑　終火鳳重生",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260219/1101268432336195584824715.jpeg/UDNujMN5RYa-3CYbMAioSBQc8i64nVZl1eakeNXmpHg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60323498/%E5%86%AC%E5%A5%A7%E4%BA%BA%E7%89%A9%E8%AA%8C-mikaela-shiffrin%E5%96%AA%E7%88%B66%E5%B9%B4%E7%9A%84%E6%8E%99%E6%89%8E%E8%88%87%E6%87%B7%E7%96%91-%E7%B5%82%E7%81%AB%E9%B3%B3%E9%87%8D%E7%94%9F",
-    "timestamp": "2026-02-19T17:40:08.424Z",
     "strategy": ".content-card__main"
   }
 ];
