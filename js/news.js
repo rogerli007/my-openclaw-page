@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-20T08:52:37.204Z
+// Last updated: 2026-02-20T09:56:49.567Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "中大兩舊生被拒選校友評議會　官指准解釋也不改決定　裁覆核敗訴",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20210518/471320627295555584734562.jpeg/FAYLALzWX_AKRt8FTmrxYkwFXzMZztPtfgmWllsJlpY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60323702/%E4%B8%AD%E5%A4%A7%E5%85%A9%E8%88%8A%E7%94%9F%E8%A2%AB%E6%8B%92%E9%81%B8%E6%A0%A1%E5%8F%8B%E8%A9%95%E8%AD%B0%E6%9C%83-%E5%AE%98%E6%8C%87%E5%87%86%E8%A7%A3%E9%87%8B%E4%B9%9F%E4%B8%8D%E6%94%B9%E6%B1%BA%E5%AE%9A-%E8%A3%81%E8%A6%86%E6%A0%B8%E6%95%97%E8%A8%B4",
+    "timestamp": "2026-02-20T09:56:49.567Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "中年婦涉假冒官員騙案　賣戶口清洗$524萬黑錢　被加刑囚35個月",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260220/1101338517654474752835214.jpeg/r_BElQJKAXcGzSwRScSHCe8lGF8t1ZN66w3yCdEN8gk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60323519/%E6%B2%B9%E9%BA%BB%E5%9C%B0%E6%9E%9C%E6%AC%84%E5%B0%8D%E9%96%8B%E9%9B%AA%E6%AB%83%E9%81%AD%E6%B7%8B%E7%99%BD%E6%B2%B9-%E5%8F%A3%E7%BD%A9%E7%94%B7%E7%8A%AF%E6%A1%88%E5%BE%8C%E9%80%83%E8%B7%91-%E8%AD%A6%E5%88%97%E5%88%91%E6%AF%80%E8%AA%BF%E6%9F%A5",
     "timestamp": "2026-02-19T18:38:53.154Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美職早霸王｜美職開鑼　孫興民領FC洛杉磯搶先入波",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260216/1100033039016136704870452.jpeg/PnqRnXuM2jaLM33S-UgvsD88QhAqSItgA8S-TgPEvk4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60322800/%E7%BE%8E%E8%81%B7%E6%97%A9%E9%9C%B8%E7%8E%8B-%E7%BE%8E%E8%81%B7%E9%96%8B%E9%91%BC-%E5%AD%AB%E8%88%88%E6%B0%91%E9%A0%98fc%E6%B4%9B%E6%9D%89%E7%A3%AF%E6%90%B6%E5%85%88%E5%85%A5%E6%B3%A2",
-    "timestamp": "2026-02-19T18:09:31.720Z",
     "strategy": ".content-card__main"
   }
 ];
