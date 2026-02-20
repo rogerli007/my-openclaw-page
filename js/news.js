@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-20T22:50:22.294Z
+// Last updated: 2026-02-20T23:16:52.920Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "鰥夫變綠帽男！愛妻逝世後被揭偷腥11年　驚揭女兒早叫姦夫做爸爸",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260220/1101386733074780160812903.png/XTEbvm3frgkUSZ6wzov-oC1Fq5Lt_kYTs8dUGbPHVBk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E8%A9%B1%E9%A1%8C/60323509/%E9%B0%A5%E5%A4%AB%E8%AE%8A%E7%B6%A0%E5%B8%BD%E7%94%B7-%E6%84%9B%E5%A6%BB%E9%80%9D%E4%B8%96%E5%BE%8C%E8%A2%AB%E6%8F%AD%E5%81%B7%E8%85%A511%E5%B9%B4-%E9%A9%9A%E6%8F%AD%E5%A5%B3%E5%85%92%E6%97%A9%E5%8F%AB%E5%A7%A6%E5%A4%AB%E5%81%9A%E7%88%B8%E7%88%B8",
+    "timestamp": "2026-02-20T23:16:52.920Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "特朗普批關稅案法官不愛國背叛憲法　戈薩奇：應尊重國會立法程序",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20240527/871623433828438016532679.jpeg/ibTGv15ZaG8bSvZ1IjojWgu86LhXddXFk54N_JOeDfw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60323739/%E7%AB%8B%E9%99%B6%E5%AE%9B%E7%B8%BD%E7%B5%B1-%E5%B8%8C%E6%9C%9B%E5%9C%A8%E5%B0%8D%E5%8C%97%E4%BA%AC%E5%B0%8D%E5%8F%B0%E9%97%9C%E4%BF%82%E6%96%B9%E9%9D%A2%E5%8F%96%E5%BE%97%E5%B9%B3%E8%A1%A1",
     "timestamp": "2026-02-20T13:36:50.064Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "謝霆鋒和吳京《鏢人》票房輸徐克《射雕》　武俠電影票房難救？",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260220/1101566797871583232409781.jpeg/fBWNFGEoy_fDao7ZobRfVHmLe9cA739WgNcDdoDXA3Y?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%97%9D%E6%96%87%E4%B8%AD%E5%9C%8B/60323690/%E8%AC%9D%E9%9C%86%E9%8B%92%E5%92%8C%E5%90%B3%E4%BA%AC-%E9%8F%A2%E4%BA%BA-%E7%A5%A8%E6%88%BF%E8%BC%B8%E5%BE%90%E5%85%8B-%E5%B0%84%E9%9B%95-%E6%AD%A6%E4%BF%A0%E9%9B%BB%E5%BD%B1%E7%A5%A8%E6%88%BF%E9%9B%A3%E6%95%91",
-    "timestamp": "2026-02-20T12:54:36.807Z",
     "strategy": ".content-card__main"
   }
 ];
