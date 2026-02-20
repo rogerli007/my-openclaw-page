@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-20T16:21:50.786Z
+// Last updated: 2026-02-20T16:52:47.063Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "薄餅店老闆16年新年無間斷派餐贈無家者　冀滿足街友口癮齊過節",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260220/1101662681661706240718362.jpeg/fQ8GoecIg_AvTgyeDjKHdYN1CEFI7iw7WvZuwH_2bsA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E5%8D%80%E5%B0%88%E9%A1%8C/60323761/%E8%96%84%E9%A4%85%E5%BA%97%E8%80%81%E9%97%8616%E5%B9%B4%E6%96%B0%E5%B9%B4%E7%84%A1%E9%96%93%E6%96%B7%E6%B4%BE%E9%A4%90%E8%B4%88%E7%84%A1%E5%AE%B6%E8%80%85-%E5%86%80%E6%BB%BF%E8%B6%B3%E8%A1%97%E5%8F%8B%E5%8F%A3%E7%99%AE%E9%BD%8A%E9%81%8E%E7%AF%80",
+    "timestamp": "2026-02-20T16:52:47.063Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "薄餅店老闆16年新年無間斷派餐贈無家者　冀滿足街友口癮齊過節",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20251226/1081172119754117120359120.jpeg/yU5zjtMzo_cvk6fvI9pJkhCfyD_Nuui7zbz4ps28-KY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60323534/%E4%BA%9E%E9%A6%AC%E9%81%9C%E8%B6%85%E8%B6%8A%E6%B2%83%E7%88%BE%E7%91%AA-%E6%88%90%E7%82%BA%E5%85%A8%E7%90%83%E7%87%9F%E6%94%B6%E6%9C%80%E9%AB%98%E7%9A%84%E5%85%AC%E5%8F%B8",
     "timestamp": "2026-02-20T00:00:47.559Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "肯尼亞情報報告：逾1000國民被招募到俄羅斯　然後參與烏克蘭戰爭",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260220/1101344074746564608642530.jpeg/rlAzzXSut55IhYUkZDFkLqPvo34JwVWnyv-GWcr_hlk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60323520/%E8%82%AF%E5%B0%BC%E4%BA%9E%E6%83%85%E5%A0%B1%E5%A0%B1%E5%91%8A-%E9%80%BE1000%E5%9C%8B%E6%B0%91%E8%A2%AB%E6%8B%9B%E5%8B%9F%E5%88%B0%E4%BF%84%E7%BE%85%E6%96%AF-%E7%84%B6%E5%BE%8C%E5%8F%83%E8%88%87%E7%83%8F%E5%85%8B%E8%98%AD%E6%88%B0%E7%88%AD",
-    "timestamp": "2026-02-19T23:37:32.866Z",
     "strategy": ".content-card__main"
   }
 ];
