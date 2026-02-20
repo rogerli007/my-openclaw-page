@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-20T22:31:05.300Z
+// Last updated: 2026-02-20T22:50:22.294Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "特朗普批關稅案法官不愛國背叛憲法　戈薩奇：應尊重國會立法程序",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260221/1101756993422495744731652.jpeg/7pAofoEIpxFc6SXxshKx52TIWN56lqKsnu-IBZ7viAU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60323775/%E7%89%B9%E6%9C%97%E6%99%AE%E6%89%B9%E9%97%9C%E7%A8%85%E6%A1%88%E6%B3%95%E5%AE%98%E4%B8%8D%E6%84%9B%E5%9C%8B%E8%83%8C%E5%8F%9B%E6%86%B2%E6%B3%95-%E6%88%88%E8%96%A9%E5%A5%87-%E6%87%89%E5%B0%8A%E9%87%8D%E5%9C%8B%E6%9C%83%E7%AB%8B%E6%B3%95%E7%A8%8B%E5%BA%8F",
+    "timestamp": "2026-02-20T22:50:22.294Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "特朗普批關稅案法官不愛國背叛憲法　戈薩奇：應尊重國會立法程序",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260220/1101566797871583232409781.jpeg/fBWNFGEoy_fDao7ZobRfVHmLe9cA739WgNcDdoDXA3Y?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%97%9D%E6%96%87%E4%B8%AD%E5%9C%8B/60323690/%E8%AC%9D%E9%9C%86%E9%8B%92%E5%92%8C%E5%90%B3%E4%BA%AC-%E9%8F%A2%E4%BA%BA-%E7%A5%A8%E6%88%BF%E8%BC%B8%E5%BE%90%E5%85%8B-%E5%B0%84%E9%9B%95-%E6%AD%A6%E4%BF%A0%E9%9B%BB%E5%BD%B1%E7%A5%A8%E6%88%BF%E9%9B%A3%E6%95%91",
     "timestamp": "2026-02-20T12:54:36.807Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "大律師公會向夏偉志頒授終身會員　歷來第九人獲此殊榮",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260220/1101611557034397696407358.jpeg/KfELI6sz0vBAyOPjW84X_LDKE9o1L4a7dic5RHYnOUQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60323731/%E5%A4%A7%E5%BE%8B%E5%B8%AB%E5%85%AC%E6%9C%83%E5%90%91%E5%A4%8F%E5%81%89%E5%BF%97%E9%A0%92%E6%8E%88%E7%B5%82%E8%BA%AB%E6%9C%83%E5%93%A1-%E6%AD%B7%E4%BE%86%E7%AC%AC%E4%B9%9D%E4%BA%BA%E7%8D%B2%E6%AD%A4%E6%AE%8A%E6%A6%AE",
-    "timestamp": "2026-02-20T12:27:28.185Z",
     "strategy": ".content-card__main"
   }
 ];
