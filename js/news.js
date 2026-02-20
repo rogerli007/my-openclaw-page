@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-20T13:36:50.064Z
+// Last updated: 2026-02-20T14:34:44.961Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "農曆新年｜泰國警奇招捉賊　扮舞龍舞獅靠近突擊　終擒獲偷竊慣犯",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260220/1101642452969721856938471.jpeg/6iC58i_NQiA-1cN8KA4Q3z-HsHwJHEqCxaeJ1sWnidY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%92%B0%E7%90%83%E8%B6%A3%E8%81%9E/60323748/%E8%BE%B2%E6%9B%86%E6%96%B0%E5%B9%B4-%E6%B3%B0%E5%9C%8B%E8%AD%A6%E5%A5%87%E6%8B%9B%E6%8D%89%E8%B3%8A-%E6%89%AE%E8%88%9E%E9%BE%8D%E8%88%9E%E7%8D%85%E9%9D%A0%E8%BF%91%E7%AA%81%E6%93%8A-%E7%B5%82%E6%93%92%E7%8D%B2%E5%81%B7%E7%AB%8A%E6%85%A3%E7%8A%AF",
+    "timestamp": "2026-02-20T14:34:44.961Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "立陶宛總統：希望在對北京對台關係方面取得平衡",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20251127/1070722482438148096542189.jpeg/4mc-X0UuvD7xU54f_MHzRAiUUqY-U7Y2P_MVFz_zFRc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60297788/%E5%B0%BF%E8%A2%8B3c%E8%AA%8D%E8%AD%893%E6%9C%88%E8%B5%B7%E6%9B%B4%E6%96%B0-%E5%B7%A5%E4%BF%A1%E9%83%A8%E6%94%B6%E7%B7%8A%E8%A1%8C%E5%8B%95%E9%9B%BB%E6%BA%90%E7%9B%A3%E7%AE%A1%E8%BF%BD%E5%8A%A02%E5%A4%A7%E6%96%B0%E6%A8%99%E6%BA%96",
     "timestamp": "2026-02-19T21:35:38.247Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "安德魯被捕｜遭問話約12小時後離開警署　警方稱案件繼續調查",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260220/1101374386553753600718549.jpeg/g6wtUsNhtkg3m8fhBChoGf_6ELEEA7GpTTV0UU01dFE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60323527/%E5%AE%89%E5%BE%B7%E9%AD%AF%E8%A2%AB%E6%8D%95-%E9%81%AD%E5%95%8F%E8%A9%B1%E7%B4%8412%E5%B0%8F%E6%99%82%E5%BE%8C%E9%9B%A2%E9%96%8B%E8%AD%A6%E7%BD%B2-%E8%AD%A6%E6%96%B9%E7%A8%B1%E6%A1%88%E4%BB%B6%E7%B9%BC%E7%BA%8C%E8%AA%BF%E6%9F%A5",
-    "timestamp": "2026-02-19T21:17:49.993Z",
     "strategy": ".content-card__main"
   }
 ];
