@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-20T21:31:14.618Z
+// Last updated: 2026-02-20T21:47:06.404Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "最高法院判定特朗普大部分關稅違法　關稅戰還能打下去嗎？",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260221/1101742237345124352819476.jpeg/wo0f-WOGXhHs_vHfPtEMu_jRBkLW9NcOLVpyuS1acrk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%9C%8B%E9%9A%9B%E5%88%86%E6%9E%90/60323774/%E6%9C%80%E9%AB%98%E6%B3%95%E9%99%A2%E5%88%A4%E5%AE%9A%E7%89%B9%E6%9C%97%E6%99%AE%E5%A4%A7%E9%83%A8%E5%88%86%E9%97%9C%E7%A8%85%E9%81%95%E6%B3%95-%E9%97%9C%E7%A8%85%E6%88%B0%E9%82%84%E8%83%BD%E6%89%93%E4%B8%8B%E5%8E%BB%E5%97%8E",
+    "timestamp": "2026-02-20T21:47:06.404Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "特朗普考慮向伊朗動武之際　福特號航母打擊群已進入地中海",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260220/1101593757553266688786319.jpeg/aWZYQ6SzQnNpzxahYHy7EADglJabuFirqm1Tq6ptU6s?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60323668/2026%E8%B3%80%E6%AD%B2%E6%AA%94%E7%A5%A8%E6%88%BF-%E5%A4%9C%E7%8E%8B-%E7%A8%B1%E5%86%A0-%E6%95%B4%E9%AB%94%E8%A1%A8%E7%8F%BE%E6%AF%94%E5%8E%BB%E5%B9%B4%E4%B8%8A%E5%8D%87%E8%BF%9153",
     "timestamp": "2026-02-20T11:20:43.364Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "財政預算案2026懶人包｜夜間消費券/公務員加薪　30+大建議一覽",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260205/1096047032126148608204718.jpeg/hZBRtyu3fn1VaKv1NtkTJVifmoXq-tsPp9Vv3afVb90?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%96%8B%E7%BD%90/60315470/%E8%B2%A1%E6%94%BF%E9%A0%90%E7%AE%97%E6%A1%882026%E6%87%B6%E4%BA%BA%E5%8C%85-%E6%B4%BE%E7%B3%96-%E6%B4%BE%E9%8C%A2%E6%B6%88%E8%B2%BB%E5%88%B8-ai%E8%A3%9C%E8%B2%BC-30-%E5%A4%A7%E5%BB%BA%E8%AD%B0%E4%B8%80%E8%A6%BD",
-    "timestamp": "2026-02-20T10:22:19.762Z",
     "strategy": ".content-card__main"
   }
 ];
