@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-21T14:33:04.351Z
+// Last updated: 2026-02-21T14:49:57.560Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "夜王︱譚旻萱成東日顏值天花板　中學體重高達170磅被嘲「坦克」",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260221/1101980748870586368206873.jpeg/df-bwgX11ROOX1ZfOnZ-LL04MStNYR_NHK6mPRyupj0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60323903/%E5%A4%9C%E7%8E%8B-%E8%AD%9A%E6%97%BB%E8%90%B1%E6%88%90%E6%9D%B1%E6%97%A5%E9%A1%8F%E5%80%BC%E5%A4%A9%E8%8A%B1%E6%9D%BF-%E4%B8%AD%E5%AD%B8%E9%AB%94%E9%87%8D%E9%AB%98%E9%81%94170%E7%A3%85%E8%A2%AB%E5%98%B2-%E5%9D%A6%E5%85%8B",
+    "timestamp": "2026-02-21T14:49:57.560Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "夜王︱譚旻萱成東日顏值天花板　中學體重高達170磅被嘲「坦克」",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250411/987264657947365376534182.jpeg/a5C-2_a2eZCLTKVMxf6j37ZgtH7Fv2ExxOkqDcTpKg0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60323832/%E7%89%B9%E6%9C%97%E6%99%AE%E9%97%9C%E7%A8%85%E6%A1%88%E6%95%97%E8%A8%B4-%E7%99%BD%E5%AE%AE%E9%A4%98%E4%B8%8B4%E6%B3%95%E5%BE%8B-%E5%BA%95%E7%89%8C-%E5%85%B6%E4%B8%AD%E4%B8%80%E6%A2%9D%E5%BE%9E%E6%9C%AA%E8%A2%AB%E5%8B%95%E7%94%A8",
     "timestamp": "2026-02-21T05:52:25.335Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "馬鞍山迎海‧星灣低層3房戶　1100萬元易手　持貨逾5年賬蝕60萬元",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20220423/594518473787707392568219.jpeg/uk049nuAQvvCq2DFs8l3FwNnfG8Zyvxd918TufdfE7k?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60323831/%E9%A6%AC%E9%9E%8D%E5%B1%B1%E8%BF%8E%E6%B5%B7-%E6%98%9F%E7%81%A3%E4%BD%8E%E5%B1%A43%E6%88%BF%E6%88%B6-1100%E8%90%AC%E5%85%83%E6%98%93%E6%89%8B-%E6%8C%81%E8%B2%A8%E9%80%BE5%E5%B9%B4%E8%B3%AC%E8%9D%9560%E8%90%AC%E5%85%83",
-    "timestamp": "2026-02-21T05:29:20.039Z",
     "strategy": ".content-card__main"
   }
 ];
