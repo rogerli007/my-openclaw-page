@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-21T14:49:57.560Z
+// Last updated: 2026-02-21T15:04:43.804Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "夜王︱譚旻萱成東日顏值天花板　中學體重高達170磅被嘲「坦克」",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260221/1101980748870586368206873.jpeg/df-bwgX11ROOX1ZfOnZ-LL04MStNYR_NHK6mPRyupj0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60323903/%E5%A4%9C%E7%8E%8B-%E8%AD%9A%E6%97%BB%E8%90%B1%E6%88%90%E6%9D%B1%E6%97%A5%E9%A1%8F%E5%80%BC%E5%A4%A9%E8%8A%B1%E6%9D%BF-%E4%B8%AD%E5%AD%B8%E9%AB%94%E9%87%8D%E9%AB%98%E9%81%94170%E7%A3%85%E8%A2%AB%E5%98%B2-%E5%9D%A6%E5%85%8B",
+    "timestamp": "2026-02-21T15:04:43.804Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "夜王︱譚旻萱成東日顏值天花板　中學體重高達170磅被嘲「坦克」",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260220/1101590784303435776831725.jpeg/tcBxXWmrwmKLgnTJRw9ApXLtqlIz_SmAVpe3v1aXt78?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60309488/%E7%95%AA%E8%8C%84%E7%82%92%E8%9B%8B%E9%A3%9F%E8%AD%9C-%E7%95%AA%E8%8C%84%E7%82%92%E8%9B%8B4%E7%A7%98%E8%A8%A3%E9%82%8A%E7%A8%AE%E7%95%AA%E8%8C%84%E6%9C%80%E5%A5%BD-%E8%B5%B7%E9%8D%8B%E5%89%8D%E5%8A%A01%E7%89%A9%E5%B1%A4%E6%AC%A1%E7%A7%92%E5%8D%87",
     "timestamp": "2026-02-21T07:21:27.089Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普關稅案敗訴　白宮餘下4法律「底牌」：其中一條從未被動用",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250411/987264657947365376534182.jpeg/a5C-2_a2eZCLTKVMxf6j37ZgtH7Fv2ExxOkqDcTpKg0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60323832/%E7%89%B9%E6%9C%97%E6%99%AE%E9%97%9C%E7%A8%85%E6%A1%88%E6%95%97%E8%A8%B4-%E7%99%BD%E5%AE%AE%E9%A4%98%E4%B8%8B4%E6%B3%95%E5%BE%8B-%E5%BA%95%E7%89%8C-%E5%85%B6%E4%B8%AD%E4%B8%80%E6%A2%9D%E5%BE%9E%E6%9C%AA%E8%A2%AB%E5%8B%95%E7%94%A8",
-    "timestamp": "2026-02-21T05:52:25.335Z",
     "strategy": ".content-card__main"
   }
 ];
