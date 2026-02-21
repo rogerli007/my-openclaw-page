@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-21T20:31:08.175Z
+// Last updated: 2026-02-21T20:51:39.212Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "錦上路兩私家車迎頭撞　兩司機受傷送院　現場交通一度受阻",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260222/1102096012807245824172430.jpeg/yIAaWwed-mW4v-J9DDER97WOZAGEtUihPMQ_QTzEP0E?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60323946/%E9%8C%A6%E4%B8%8A%E8%B7%AF%E5%85%A9%E7%A7%81%E5%AE%B6%E8%BB%8A%E8%BF%8E%E9%A0%AD%E6%92%9E-%E5%85%A9%E5%8F%B8%E6%A9%9F%E5%8F%97%E5%82%B7%E9%80%81%E9%99%A2-%E7%8F%BE%E5%A0%B4%E4%BA%A4%E9%80%9A%E4%B8%80%E5%BA%A6%E5%8F%97%E9%98%BB",
+    "timestamp": "2026-02-21T20:51:39.212Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "特朗普關稅案敗訴　原告酒商為本案飽受滋擾　歡迎裁決開佳釀慶祝",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260221/1101930216730660864670492.png/d_XirTEWaXHWmbvrd863-G0ZyVwKN82dZbJGNGWyRjQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60323881/%E9%8F%A2%E4%BA%BA-%E8%AC%9D%E9%9C%86%E9%8B%92%E6%B7%B1%E5%9C%B3%E5%AE%A3%E5%82%B3%E8%81%BD%E5%88%B0%E4%B8%80%E4%BA%BA%E5%90%8D%E5%BF%8D%E5%94%94%E4%BD%8F%E7%AC%91-%E6%A5%B5%E7%BD%95%E5%B1%95%E9%9C%B2%E6%80%95%E9%86%9C%E6%A8%A3",
     "timestamp": "2026-02-21T13:42:15.037Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "今日新聞8分鐘｜六合彩2億金多寶　近千人排隊｜私家車撞一家3口",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260221/1101946559026696192082536.jpeg/yiU1iKD836fTpwIzNUv37jiXnJOB81Qq3VCqUd1QqlE",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60323897/%E4%BB%8A%E6%97%A5%E6%96%B0%E8%81%9E8%E5%88%86%E9%90%98-%E5%85%AD%E5%90%88%E5%BD%A92%E5%84%84%E9%87%91%E5%A4%9A%E5%AF%B6-%E8%BF%91%E5%8D%83%E4%BA%BA%E6%8E%92%E9%9A%8A-%E7%A7%81%E5%AE%B6%E8%BB%8A%E6%92%9E%E4%B8%80%E5%AE%B63%E5%8F%A3",
-    "timestamp": "2026-02-21T13:13:30.612Z",
     "strategy": ".content-card__main"
   }
 ];
