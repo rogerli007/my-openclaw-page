@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-21T19:18:05.100Z
+// Last updated: 2026-02-21T20:13:06.165Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "特朗普關稅案敗訴　原告酒商為本案飽受滋擾　歡迎裁決開佳釀慶祝",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260222/1102082248145899520948510.jpeg/JdrHqs87bx-R0fqXMLN8aNO5Gjt8oQbThWqrfoVqq34?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60323944/%E7%89%B9%E6%9C%97%E6%99%AE%E9%97%9C%E7%A8%85%E6%A1%88%E6%95%97%E8%A8%B4-%E5%8E%9F%E5%91%8A%E9%85%92%E5%95%86%E7%82%BA%E6%9C%AC%E6%A1%88%E9%A3%BD%E5%8F%97%E6%BB%8B%E6%93%BE-%E6%AD%A1%E8%BF%8E%E8%A3%81%E6%B1%BA%E9%96%8B%E4%BD%B3%E9%87%80%E6%85%B6%E7%A5%9D",
+    "timestamp": "2026-02-21T20:13:06.165Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "法國貿易部長：歐盟有能力反擊特朗普新一輪關稅政策",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20251014/1054582943995006976702395.jpeg/ypC8uV7ArqZE8qU8pIvg6aVE-8wR8Rs6QzcIEEM3CBA?v=w1920",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60323908/%E7%89%B9%E6%9C%97%E6%99%AE%E9%97%9C%E7%A8%85%E6%A1%88-%E9%A6%AC%E5%85%8B%E9%BE%8D%E7%A8%B1%E6%AC%8A%E5%8A%9B%E5%88%B6%E8%A1%A1%E6%98%AF%E5%A5%BD%E4%BA%8B-%E5%BD%AD%E6%96%AF%E7%AD%89%E5%85%B1%E5%92%8C%E9%BB%A8%E4%BA%BA-%E6%85%B6%E7%A5%9D",
     "timestamp": "2026-02-21T12:38:11.837Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "陳山聰夜場激吻混血索女　樹熊式獻吻啜足5秒展現過人腰力",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260221/1101924201238892544371048.jpeg/STpGZdO6RszX-qOg5liMs0NeOU1GbVzA7rPwze6z8M0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60323859/%E9%99%B3%E5%B1%B1%E8%81%B0%E5%A4%9C%E5%A0%B4%E6%BF%80%E5%90%BB%E6%B7%B7%E8%A1%80%E7%B4%A2%E5%A5%B3-%E6%A8%B9%E7%86%8A%E5%BC%8F%E7%8D%BB%E5%90%BB%E5%95%9C%E8%B6%B35%E7%A7%92%E5%B1%95%E7%8F%BE%E9%81%8E%E4%BA%BA%E8%85%B0%E5%8A%9B",
-    "timestamp": "2026-02-21T11:56:18.854Z",
     "strategy": ".content-card__main"
   }
 ];
