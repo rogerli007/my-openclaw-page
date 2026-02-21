@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-21T09:33:37.519Z
+// Last updated: 2026-02-21T09:50:36.022Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "特朗普關稅案敗訴　專家稱東南亞出口商可獲益",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260221/1101773177450663936819640.jpeg/ohmtPl1SPSpqAhmAd5VYhGT5KuEP18DOiFCJvIhQibw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60323888/%E7%89%B9%E6%9C%97%E6%99%AE%E9%97%9C%E7%A8%85%E6%A1%88%E6%95%97%E8%A8%B4-%E5%B0%88%E5%AE%B6%E7%A8%B1%E6%9D%B1%E5%8D%97%E4%BA%9E%E5%87%BA%E5%8F%A3%E5%95%86%E5%8F%AF%E7%8D%B2%E7%9B%8A",
+    "timestamp": "2026-02-21T09:50:36.022Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "賀歲盃｜香港隊賽和FC首爾　12碼五射全中捧盃　14089人熱鬧觀戰",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260221/1101724976844640256012437.jpeg/IJm6fZWPSEDGVmPm9Gd4jtQ80QmNVh6K6HAjvuhwI74?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60323770/%E7%89%B9%E6%9C%97%E6%99%AE%E9%97%9C%E7%A8%85%E6%A1%88%E6%95%97%E8%A8%B4-%E7%A8%B1%E9%80%80%E7%A8%85%E5%B0%87%E5%BC%95%E7%99%BC%E6%BC%AB%E9%95%B7%E5%AE%98%E5%8F%B8-%E5%95%86%E7%95%8C%E4%BF%83%E7%9B%A1%E5%BF%AB%E5%9B%9E%E6%B0%B4%E9%81%8E%E8%90%AC%E5%84%84",
     "timestamp": "2026-02-20T21:00:06.414Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普對最高法院裁決深感失望　將在現有基礎上加徵10%全球關稅",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260221/1101706802199793664921473.jpeg/0OhhrtpeBgl9et8rOM96dzKJMEWWzsURoVhx1qFYcdY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60323769/%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%8D%E6%9C%80%E9%AB%98%E6%B3%95%E9%99%A2%E8%A3%81%E6%B1%BA%E6%B7%B1%E6%84%9F%E5%A4%B1%E6%9C%9B-%E5%B0%87%E5%9C%A8%E7%8F%BE%E6%9C%89%E5%9F%BA%E7%A4%8E%E4%B8%8A%E5%8A%A0%E5%BE%B510-%E5%85%A8%E7%90%83%E9%97%9C%E7%A8%85",
-    "timestamp": "2026-02-20T20:19:02.732Z",
     "strategy": ".content-card__main"
   }
 ];
