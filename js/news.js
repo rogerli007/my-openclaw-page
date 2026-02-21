@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-21T16:14:33.431Z
+// Last updated: 2026-02-21T16:31:27.293Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "特朗普：上調新一輪全球關稅稅率至15%",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260221/1101706802199793664921473.jpeg/0OhhrtpeBgl9et8rOM96dzKJMEWWzsURoVhx1qFYcdY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60323938/%E7%89%B9%E6%9C%97%E6%99%AE-%E4%B8%8A%E8%AA%BF%E6%96%B0%E4%B8%80%E8%BC%AA%E5%85%A8%E7%90%83%E9%97%9C%E7%A8%85%E7%A8%85%E7%8E%87%E8%87%B315",
+    "timestamp": "2026-02-21T16:31:27.293Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "寶可夢Fans打造末日儲備箱　GameBoy起全世代Pokemon遊戲代替糧食",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260221/1101931862986592256108297.jpeg/-KyVuS7QgSkNIC2Wk7ulUIe2RA3dn31YZHYXmGR2F5g?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60323883/%E8%B3%80%E6%AD%B2%E7%9B%83-%E9%A6%99%E6%B8%AF%E9%9A%8A%E8%B3%BD%E5%92%8Cfc%E9%A6%96%E7%88%BE-12%E7%A2%BC%E4%BA%94%E5%B0%84%E5%85%A8%E4%B8%AD%E6%8D%A7%E7%9B%83-14089%E4%BA%BA%E7%86%B1%E9%AC%A7%E8%A7%80%E6%88%B0",
     "timestamp": "2026-02-21T09:33:37.519Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "宏福苑｜黃偉綸：不原址重建　七座樓宇拆卸改建公園或社區設施",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260221/1101905481896562688431062.jpeg/7csyZNaV9x4V2PPaTPFHvFHlZsNLyjhR81xqtfNcarU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60323863/%E5%AE%8F%E7%A6%8F%E8%8B%91-%E9%BB%83%E5%81%89%E7%B6%B8-%E4%B8%8D%E5%8E%9F%E5%9D%80%E9%87%8D%E5%BB%BA-%E4%B8%83%E5%BA%A7%E6%A8%93%E5%AE%87%E6%8B%86%E5%8D%B8%E6%94%B9%E5%BB%BA%E5%85%AC%E5%9C%92%E6%88%96%E7%A4%BE%E5%8D%80%E8%A8%AD%E6%96%BD",
-    "timestamp": "2026-02-21T09:16:44.579Z",
     "strategy": ".content-card__main"
   }
 ];
