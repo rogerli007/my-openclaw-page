@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-21T07:47:55.833Z
+// Last updated: 2026-02-21T08:17:52.508Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "宏福苑火災｜74%業主考慮政府收購業權　9%堅持僅接受原址重建",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260221/1101904359966380032321706.jpeg/lzqbWURLUUPkW7bgSP6F9FoLYw_R3t_mIqwgHyKsIB8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60323852/%E5%AE%8F%E7%A6%8F%E8%8B%91%E7%81%AB%E7%81%BD-74-%E6%A5%AD%E4%B8%BB%E8%80%83%E6%85%AE%E6%94%BF%E5%BA%9C%E6%94%B6%E8%B3%BC%E6%A5%AD%E6%AC%8A-9-%E5%A0%85%E6%8C%81%E5%83%85%E6%8E%A5%E5%8F%97%E5%8E%9F%E5%9D%80%E9%87%8D%E5%BB%BA",
+    "timestamp": "2026-02-21T08:17:52.508Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "2026內地春節檔票房突破40億　總場次超394.7萬刷新紀錄",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260221/1101686833990864896706581.jpeg/zMDr3VMnF8cq8ZKkfY8kWuJqoTphXb47MWb-pDFm_qQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60323766/%E7%89%B9%E6%9C%97%E6%99%AE-%E6%AD%A3%E8%80%83%E6%85%AE%E6%9C%89%E9%99%90%E5%BA%A6%E6%89%93%E6%93%8A%E4%BC%8A%E6%9C%97-%E4%BC%8A%E5%A4%96%E9%95%B7%E7%A8%B12%E8%87%B33%E6%97%A5%E5%85%A7%E5%AE%8C%E6%88%90%E5%8D%94%E8%AD%B0%E8%8D%89%E6%A1%88",
     "timestamp": "2026-02-20T18:24:19.969Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "薄餅店老闆16年新年無間斷派餐贈無家者　冀滿足街友口癮齊過節",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260220/1101662681661706240718362.jpeg/fQ8GoecIg_AvTgyeDjKHdYN1CEFI7iw7WvZuwH_2bsA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E5%8D%80%E5%B0%88%E9%A1%8C/60323761/%E8%96%84%E9%A4%85%E5%BA%97%E8%80%81%E9%97%8616%E5%B9%B4%E6%96%B0%E5%B9%B4%E7%84%A1%E9%96%93%E6%96%B7%E6%B4%BE%E9%A4%90%E8%B4%88%E7%84%A1%E5%AE%B6%E8%80%85-%E5%86%80%E6%BB%BF%E8%B6%B3%E8%A1%97%E5%8F%8B%E5%8F%A3%E7%99%AE%E9%BD%8A%E9%81%8E%E7%AF%80",
-    "timestamp": "2026-02-20T17:25:27.913Z",
     "strategy": ".content-card__main"
   }
 ];
