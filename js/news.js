@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-21T04:23:47.780Z
+// Last updated: 2026-02-21T05:29:20.039Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "馬鞍山迎海‧星灣低層3房戶　1100萬元易手　持貨逾5年賬蝕60萬元",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20220423/594518473787707392568219.jpeg/uk049nuAQvvCq2DFs8l3FwNnfG8Zyvxd918TufdfE7k?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60323831/%E9%A6%AC%E9%9E%8D%E5%B1%B1%E8%BF%8E%E6%B5%B7-%E6%98%9F%E7%81%A3%E4%BD%8E%E5%B1%A43%E6%88%BF%E6%88%B6-1100%E8%90%AC%E5%85%83%E6%98%93%E6%89%8B-%E6%8C%81%E8%B2%A8%E9%80%BE5%E5%B9%B4%E8%B3%AC%E8%9D%9560%E8%90%AC%E5%85%83",
+    "timestamp": "2026-02-21T05:29:20.039Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "特朗普關稅案敗訴　貝森特：今年關稅收入料不變",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260220/1101661706712518656280713.jpeg/cGPMpKp5eiun36UsSdsLGCxeLJ1UIy4RTiN7oE4je6A?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60323760/%E7%A9%97%E7%A6%BE%E8%8B%91%E8%B1%90%E5%B9%B4%E9%96%A3%E4%B8%80%E5%BA%A6%E5%85%A8%E5%B9%A2%E5%81%9C%E9%9B%BB-%E9%9B%BB%E5%8A%9B%E8%A3%9D%E7%BD%AE%E7%96%91%E6%95%85%E9%9A%9C-%E5%B7%A5%E7%A8%8B%E4%BA%BA%E5%93%A1%E5%AE%8C%E6%88%90%E7%B6%AD%E4%BF%AE",
     "timestamp": "2026-02-20T15:51:19.830Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "2026內地賀歲票房年初二驚現崩塌　力守每日億元難捱至三月初",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260220/1101647903325163520842715.jpeg/sSq2oQRKJKOzmfa2rGth7kmRrXHtyeOHRnM_QEZzP0A?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60323722/2026%E5%85%A7%E5%9C%B0%E8%B3%80%E6%AD%B2%E7%A5%A8%E6%88%BF%E5%B9%B4%E5%88%9D%E4%BA%8C%E9%A9%9A%E7%8F%BE%E5%B4%A9%E5%A1%8C-%E5%8A%9B%E5%AE%88%E6%AF%8F%E6%97%A5%E5%84%84%E5%85%83%E9%9B%A3%E6%8D%B1%E8%87%B3%E4%B8%89%E6%9C%88%E5%88%9D",
-    "timestamp": "2026-02-20T15:24:36.205Z",
     "strategy": ".content-card__main"
   }
 ];
