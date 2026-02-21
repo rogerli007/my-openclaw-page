@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-21T18:17:52.642Z
+// Last updated: 2026-02-21T18:36:01.906Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "英超｜車路士1:1和般尼升上第四　白禮頓作客2:0挫賓福特",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260222/1102043043533426688703419.jpeg/TWAUot1lyqKftQjWm88NXLf0GCI4xFeMvv-ARL7_gEQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60323940/%E8%8B%B1%E8%B6%85-%E8%BB%8A%E8%B7%AF%E5%A3%AB1-1%E5%92%8C%E8%88%AC%E5%B0%BC%E5%8D%87%E4%B8%8A%E7%AC%AC%E5%9B%9B-%E7%99%BD%E7%A6%AE%E9%A0%93%E4%BD%9C%E5%AE%A22-0%E6%8C%AB%E8%B3%93%E7%A6%8F%E7%89%B9",
+    "timestamp": "2026-02-21T18:36:01.906Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "英超｜車路士1:1和般尼升上第四　白禮頓作客2:0挫賓福特",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260221/1101939040292179968740961.png/qAgImaV5tGm0lbSz5xu2-zr62YOFGFjWn_GTUp_xk1I?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60323818/%E5%85%AC%E5%8F%B8%E5%B9%B4%E5%88%9D%E5%9B%9B%E5%95%9F%E5%B8%82-%E9%96%8B%E5%B7%A5%E5%88%A9%E5%B8%82%E5%83%85-xx-%E6%89%93%E5%B7%A5%E4%BB%94%E5%91%BB%E8%A2%AB%E4%BE%AE%E8%BE%B1-lunch%E9%83%BD%E9%A3%9F%E5%94%94%E5%88%B0",
     "timestamp": "2026-02-21T11:30:46.580Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "宏福苑｜湯家驊：政府方案尊重業權　居民若不接受自損商業價值",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20251107/1063594247564824576915467.jpeg/7HW8Z02R5bqprrwJm_KamMS5e9syISW7mNp1f5jadX8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60323899/%E5%AE%8F%E7%A6%8F%E8%8B%91-%E6%B9%AF%E5%AE%B6%E9%A9%8A-%E6%94%BF%E5%BA%9C%E6%96%B9%E6%A1%88%E5%B0%8A%E9%87%8D%E6%A5%AD%E6%AC%8A-%E5%B1%85%E6%B0%91%E8%8B%A5%E4%B8%8D%E6%8E%A5%E5%8F%97%E8%87%AA%E6%90%8D%E5%95%86%E6%A5%AD%E5%83%B9%E5%80%BC",
-    "timestamp": "2026-02-21T10:49:33.935Z",
     "strategy": ".content-card__main"
   }
 ];
