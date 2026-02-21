@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-21T15:21:27.630Z
+// Last updated: 2026-02-21T15:47:41.426Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "國產AI短劇搶佔熱播榜　隨著Seedance等模型進化勢令市場重新洗牌",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260216/1100087247056670720158723.jpeg/JWwpUGJeNF-1HJPOTK5r1e4UwVFU6vpdmMDGt5jAxrc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E5%A8%9B%E6%A8%82/60322148/%E5%9C%8B%E7%94%A2ai%E7%9F%AD%E5%8A%87%E6%90%B6%E4%BD%94%E7%86%B1%E6%92%AD%E6%A6%9C-%E9%9A%A8%E8%91%97seedance%E7%AD%89%E6%A8%A1%E5%9E%8B%E9%80%B2%E5%8C%96%E5%8B%A2%E4%BB%A4%E5%B8%82%E5%A0%B4%E9%87%8D%E6%96%B0%E6%B4%97%E7%89%8C",
+    "timestamp": "2026-02-21T15:47:41.426Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "諾如病毒｜日本屢傳個案累計逾百人食物中毒　富山縣發注意報",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260221/1101904359966380032321706.jpeg/lzqbWURLUUPkW7bgSP6F9FoLYw_R3t_mIqwgHyKsIB8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60323852/%E5%AE%8F%E7%A6%8F%E8%8B%91%E7%81%AB%E7%81%BD-74-%E6%A5%AD%E4%B8%BB%E8%80%83%E6%85%AE%E6%94%BF%E5%BA%9C%E6%94%B6%E8%B3%BC%E6%A5%AD%E6%AC%8A-9-%E5%A0%85%E6%8C%81%E5%83%85%E6%8E%A5%E5%8F%97%E5%8E%9F%E5%9D%80%E9%87%8D%E5%BB%BA",
     "timestamp": "2026-02-21T08:17:52.508Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "2026內地春節檔票房突破40億　總場次超394.7萬刷新紀錄",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260221/1101888745491140608675182.png/-H5YBWC4BnEankHSP63h6t6_MV8qiT5Q58KiAefCogE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60323845/2026%E5%85%A7%E5%9C%B0%E6%98%A5%E7%AF%80%E6%AA%94%E7%A5%A8%E6%88%BF%E7%AA%81%E7%A0%B440%E5%84%84-%E7%B8%BD%E5%A0%B4%E6%AC%A1%E8%B6%85394-7%E8%90%AC%E5%88%B7%E6%96%B0%E7%B4%80%E9%8C%84",
-    "timestamp": "2026-02-21T07:47:55.833Z",
     "strategy": ".content-card__main"
   }
 ];
