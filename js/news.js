@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-21T16:02:37.863Z
+// Last updated: 2026-02-21T16:14:33.431Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "寶可夢Fans打造末日儲備箱　GameBoy起全世代Pokemon遊戲代替糧食",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260220/1101587038450225152956418.jpeg/lbC1ErT2FMkWvMimUTfZoEeVTF7xIEDy1mXCJNZlwiQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60323592/%E5%AF%B6%E5%8F%AF%E5%A4%A2fans%E6%89%93%E9%80%A0%E6%9C%AB%E6%97%A5%E5%84%B2%E5%82%99%E7%AE%B1-gameboy%E8%B5%B7%E5%85%A8%E4%B8%96%E4%BB%A3pokemon%E9%81%8A%E6%88%B2%E4%BB%A3%E6%9B%BF%E7%B3%A7%E9%A3%9F",
+    "timestamp": "2026-02-21T16:14:33.431Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "國產AI短劇搶佔熱播榜　隨著Seedance等模型進化勢令市場重新洗牌",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260221/1101905481896562688431062.jpeg/7csyZNaV9x4V2PPaTPFHvFHlZsNLyjhR81xqtfNcarU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60323863/%E5%AE%8F%E7%A6%8F%E8%8B%91-%E9%BB%83%E5%81%89%E7%B6%B8-%E4%B8%8D%E5%8E%9F%E5%9D%80%E9%87%8D%E5%BB%BA-%E4%B8%83%E5%BA%A7%E6%A8%93%E5%AE%87%E6%8B%86%E5%8D%B8%E6%94%B9%E5%BB%BA%E5%85%AC%E5%9C%92%E6%88%96%E7%A4%BE%E5%8D%80%E8%A8%AD%E6%96%BD",
     "timestamp": "2026-02-21T09:16:44.579Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "宏福苑火災｜購置方案︰現金或樓換樓　7廈收購呎價$8000或$10500",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260221/1101906984132677632318067.jpeg/fL2PIEAGtKMp7lyswAL2zq0_mOVmJ-Kl0spspPfKbKQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60323856/%E5%AE%8F%E7%A6%8F%E8%8B%91%E7%81%AB%E7%81%BD-%E8%B3%BC%E7%BD%AE%E6%96%B9%E6%A1%88-%E7%8F%BE%E9%87%91%E6%88%96%E6%A8%93%E6%8F%9B%E6%A8%93-7%E5%BB%88%E6%94%B6%E8%B3%BC%E5%91%8E%E5%83%B9-8000%E6%88%96-10500",
-    "timestamp": "2026-02-21T08:35:15.149Z",
     "strategy": ".content-card__main"
   }
 ];
