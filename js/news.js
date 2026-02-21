@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-21T05:52:25.335Z
+// Last updated: 2026-02-21T07:21:27.089Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "番茄炒蛋食譜｜番茄炒蛋4秘訣邊種番茄最好？起鍋前加1物層次秒升",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260220/1101590784303435776831725.jpeg/tcBxXWmrwmKLgnTJRw9ApXLtqlIz_SmAVpe3v1aXt78?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60309488/%E7%95%AA%E8%8C%84%E7%82%92%E8%9B%8B%E9%A3%9F%E8%AD%9C-%E7%95%AA%E8%8C%84%E7%82%92%E8%9B%8B4%E7%A7%98%E8%A8%A3%E9%82%8A%E7%A8%AE%E7%95%AA%E8%8C%84%E6%9C%80%E5%A5%BD-%E8%B5%B7%E9%8D%8B%E5%89%8D%E5%8A%A01%E7%89%A9%E5%B1%A4%E6%AC%A1%E7%A7%92%E5%8D%87",
+    "timestamp": "2026-02-21T07:21:27.089Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "特朗普關稅案敗訴　白宮餘下4法律「底牌」：其中一條從未被動用",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260220/1101662681661706240718362.jpeg/fQ8GoecIg_AvTgyeDjKHdYN1CEFI7iw7WvZuwH_2bsA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E5%8D%80%E5%B0%88%E9%A1%8C/60323761/%E8%96%84%E9%A4%85%E5%BA%97%E8%80%81%E9%97%8616%E5%B9%B4%E6%96%B0%E5%B9%B4%E7%84%A1%E9%96%93%E6%96%B7%E6%B4%BE%E9%A4%90%E8%B4%88%E7%84%A1%E5%AE%B6%E8%80%85-%E5%86%80%E6%BB%BF%E8%B6%B3%E8%A1%97%E5%8F%8B%E5%8F%A3%E7%99%AE%E9%BD%8A%E9%81%8E%E7%AF%80",
     "timestamp": "2026-02-20T16:52:47.063Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "薄餅店老闆16年新年無間斷派餐贈無家者　冀滿足街友口癮齊過節",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260220/1101662681661706240718362.jpeg/fQ8GoecIg_AvTgyeDjKHdYN1CEFI7iw7WvZuwH_2bsA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E5%8D%80%E5%B0%88%E9%A1%8C/60323761/%E8%96%84%E9%A4%85%E5%BA%97%E8%80%81%E9%97%8616%E5%B9%B4%E6%96%B0%E5%B9%B4%E7%84%A1%E9%96%93%E6%96%B7%E6%B4%BE%E9%A4%90%E8%B4%88%E7%84%A1%E5%AE%B6%E8%80%85-%E5%86%80%E6%BB%BF%E8%B6%B3%E8%A1%97%E5%8F%8B%E5%8F%A3%E7%99%AE%E9%BD%8A%E9%81%8E%E7%AF%80",
-    "timestamp": "2026-02-20T16:21:50.786Z",
     "strategy": ".content-card__main"
   }
 ];
