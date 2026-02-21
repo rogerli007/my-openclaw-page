@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-21T11:44:46.219Z
+// Last updated: 2026-02-21T11:56:18.854Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "陳山聰夜場激吻混血索女　樹熊式獻吻啜足5秒展現過人腰力",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260221/1101924201238892544371048.jpeg/STpGZdO6RszX-qOg5liMs0NeOU1GbVzA7rPwze6z8M0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60323859/%E9%99%B3%E5%B1%B1%E8%81%B0%E5%A4%9C%E5%A0%B4%E6%BF%80%E5%90%BB%E6%B7%B7%E8%A1%80%E7%B4%A2%E5%A5%B3-%E6%A8%B9%E7%86%8A%E5%BC%8F%E7%8D%BB%E5%90%BB%E5%95%9C%E8%B6%B35%E7%A7%92%E5%B1%95%E7%8F%BE%E9%81%8E%E4%BA%BA%E8%85%B0%E5%8A%9B",
+    "timestamp": "2026-02-21T11:56:18.854Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "涉從泰國曼谷攜$60萬大麻花等抵港　21歲女機場被捕　下周一提堂",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260221/1101756993422495744731652.jpeg/7pAofoEIpxFc6SXxshKx52TIWN56lqKsnu-IBZ7viAU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60323775/%E7%89%B9%E6%9C%97%E6%99%AE%E6%89%B9%E9%97%9C%E7%A8%85%E6%A1%88%E6%B3%95%E5%AE%98%E4%B8%8D%E6%84%9B%E5%9C%8B%E8%83%8C%E5%8F%9B%E6%86%B2%E6%B3%95-%E6%88%88%E8%96%A9%E5%A5%87-%E6%87%89%E5%B0%8A%E9%87%8D%E5%9C%8B%E6%9C%83%E7%AB%8B%E6%B3%95%E7%A8%8B%E5%BA%8F",
     "timestamp": "2026-02-20T22:31:05.300Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "最高法院判定特朗普大部分關稅違法　關稅戰還能打下去嗎？",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260221/1101742237345124352819476.jpeg/wo0f-WOGXhHs_vHfPtEMu_jRBkLW9NcOLVpyuS1acrk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%9C%8B%E9%9A%9B%E5%88%86%E6%9E%90/60323774/%E6%9C%80%E9%AB%98%E6%B3%95%E9%99%A2%E5%88%A4%E5%AE%9A%E7%89%B9%E6%9C%97%E6%99%AE%E5%A4%A7%E9%83%A8%E5%88%86%E9%97%9C%E7%A8%85%E9%81%95%E6%B3%95-%E9%97%9C%E7%A8%85%E6%88%B0%E9%82%84%E8%83%BD%E6%89%93%E4%B8%8B%E5%8E%BB%E5%97%8E",
-    "timestamp": "2026-02-20T22:14:05.499Z",
     "strategy": ".content-card__main"
   }
 ];
