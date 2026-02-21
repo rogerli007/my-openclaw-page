@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-21T07:21:27.089Z
+// Last updated: 2026-02-21T07:47:55.833Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "2026內地春節檔票房突破40億　總場次超394.7萬刷新紀錄",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260221/1101888745491140608675182.png/-H5YBWC4BnEankHSP63h6t6_MV8qiT5Q58KiAefCogE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60323845/2026%E5%85%A7%E5%9C%B0%E6%98%A5%E7%AF%80%E6%AA%94%E7%A5%A8%E6%88%BF%E7%AA%81%E7%A0%B440%E5%84%84-%E7%B8%BD%E5%A0%B4%E6%AC%A1%E8%B6%85394-7%E8%90%AC%E5%88%B7%E6%96%B0%E7%B4%80%E9%8C%84",
+    "timestamp": "2026-02-21T07:47:55.833Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "番茄炒蛋食譜｜番茄炒蛋4秘訣邊種番茄最好？起鍋前加1物層次秒升",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260220/1101662681661706240718362.jpeg/fQ8GoecIg_AvTgyeDjKHdYN1CEFI7iw7WvZuwH_2bsA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E5%8D%80%E5%B0%88%E9%A1%8C/60323761/%E8%96%84%E9%A4%85%E5%BA%97%E8%80%81%E9%97%8616%E5%B9%B4%E6%96%B0%E5%B9%B4%E7%84%A1%E9%96%93%E6%96%B7%E6%B4%BE%E9%A4%90%E8%B4%88%E7%84%A1%E5%AE%B6%E8%80%85-%E5%86%80%E6%BB%BF%E8%B6%B3%E8%A1%97%E5%8F%8B%E5%8F%A3%E7%99%AE%E9%BD%8A%E9%81%8E%E7%AF%80",
     "timestamp": "2026-02-20T17:25:27.913Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "薄餅店老闆16年新年無間斷派餐贈無家者　冀滿足街友口癮齊過節",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260220/1101662681661706240718362.jpeg/fQ8GoecIg_AvTgyeDjKHdYN1CEFI7iw7WvZuwH_2bsA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E5%8D%80%E5%B0%88%E9%A1%8C/60323761/%E8%96%84%E9%A4%85%E5%BA%97%E8%80%81%E9%97%8616%E5%B9%B4%E6%96%B0%E5%B9%B4%E7%84%A1%E9%96%93%E6%96%B7%E6%B4%BE%E9%A4%90%E8%B4%88%E7%84%A1%E5%AE%B6%E8%80%85-%E5%86%80%E6%BB%BF%E8%B6%B3%E8%A1%97%E5%8F%8B%E5%8F%A3%E7%99%AE%E9%BD%8A%E9%81%8E%E7%AF%80",
-    "timestamp": "2026-02-20T16:52:47.063Z",
     "strategy": ".content-card__main"
   }
 ];
