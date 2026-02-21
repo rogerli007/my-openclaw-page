@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-21T02:44:33.655Z
+// Last updated: 2026-02-21T04:23:47.780Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "特朗普關稅案敗訴　貝森特：今年關稅收入料不變",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260121/1090458288912338944092876.jpeg/HtZvLdrnjEfkOkL1PihE6YA19eBfADdMHmO1NB5jtTQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60323817/%E7%89%B9%E6%9C%97%E6%99%AE%E9%97%9C%E7%A8%85%E6%A1%88%E6%95%97%E8%A8%B4-%E8%B2%9D%E6%A3%AE%E7%89%B9-%E4%BB%8A%E5%B9%B4%E9%97%9C%E7%A8%85%E6%94%B6%E5%85%A5%E6%96%99%E4%B8%8D%E8%AE%8A",
+    "timestamp": "2026-02-21T04:23:47.780Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "特朗普關稅案敗訴　美國貿易代表：向主要貿易夥伴進行301調查",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260220/1101647903325163520842715.jpeg/sSq2oQRKJKOzmfa2rGth7kmRrXHtyeOHRnM_QEZzP0A?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60323722/2026%E5%85%A7%E5%9C%B0%E8%B3%80%E6%AD%B2%E7%A5%A8%E6%88%BF%E5%B9%B4%E5%88%9D%E4%BA%8C%E9%A9%9A%E7%8F%BE%E5%B4%A9%E5%A1%8C-%E5%8A%9B%E5%AE%88%E6%AF%8F%E6%97%A5%E5%84%84%E5%85%83%E9%9B%A3%E6%8D%B1%E8%87%B3%E4%B8%89%E6%9C%88%E5%88%9D",
     "timestamp": "2026-02-20T15:24:36.205Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美國白宮：特朗普3月31日至4月2日訪問中國",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260214/1099175446982955008495178.jpeg/g4vQpZGI-S1ltbDfrVEEDHCneMXjiDWe8aSRVfGkkVU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60323753/%E7%BE%8E%E5%9C%8B%E7%99%BD%E5%AE%AE-%E7%89%B9%E6%9C%97%E6%99%AE3%E6%9C%8831%E6%97%A5%E8%87%B34%E6%9C%882%E6%97%A5%E8%A8%AA%E5%95%8F%E4%B8%AD%E5%9C%8B",
-    "timestamp": "2026-02-20T14:58:11.802Z",
     "strategy": ".content-card__main"
   }
 ];
