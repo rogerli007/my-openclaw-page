@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-21T08:35:15.149Z
+// Last updated: 2026-02-21T09:16:44.579Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "宏福苑｜黃偉綸：不原址重建　七座樓宇拆卸改建公園或社區設施",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260221/1101905481896562688431062.jpeg/7csyZNaV9x4V2PPaTPFHvFHlZsNLyjhR81xqtfNcarU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60323863/%E5%AE%8F%E7%A6%8F%E8%8B%91-%E9%BB%83%E5%81%89%E7%B6%B8-%E4%B8%8D%E5%8E%9F%E5%9D%80%E9%87%8D%E5%BB%BA-%E4%B8%83%E5%BA%A7%E6%A8%93%E5%AE%87%E6%8B%86%E5%8D%B8%E6%94%B9%E5%BB%BA%E5%85%AC%E5%9C%92%E6%88%96%E7%A4%BE%E5%8D%80%E8%A8%AD%E6%96%BD",
+    "timestamp": "2026-02-21T09:16:44.579Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "宏福苑火災｜購置方案︰現金或樓換樓　7廈收購呎價$8000或$10500",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260221/1101706802199793664921473.jpeg/0OhhrtpeBgl9et8rOM96dzKJMEWWzsURoVhx1qFYcdY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60323769/%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%8D%E6%9C%80%E9%AB%98%E6%B3%95%E9%99%A2%E8%A3%81%E6%B1%BA%E6%B7%B1%E6%84%9F%E5%A4%B1%E6%9C%9B-%E5%B0%87%E5%9C%A8%E7%8F%BE%E6%9C%89%E5%9F%BA%E7%A4%8E%E4%B8%8A%E5%8A%A0%E5%BE%B510-%E5%85%A8%E7%90%83%E9%97%9C%E7%A8%85",
     "timestamp": "2026-02-20T19:24:01.892Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普：正考慮有限度打擊伊朗　伊外長稱2至3日內完成協議草案",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260221/1101686833990864896706581.jpeg/zMDr3VMnF8cq8ZKkfY8kWuJqoTphXb47MWb-pDFm_qQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60323766/%E7%89%B9%E6%9C%97%E6%99%AE-%E6%AD%A3%E8%80%83%E6%85%AE%E6%9C%89%E9%99%90%E5%BA%A6%E6%89%93%E6%93%8A%E4%BC%8A%E6%9C%97-%E4%BC%8A%E5%A4%96%E9%95%B7%E7%A8%B12%E8%87%B33%E6%97%A5%E5%85%A7%E5%AE%8C%E6%88%90%E5%8D%94%E8%AD%B0%E8%8D%89%E6%A1%88",
-    "timestamp": "2026-02-20T18:53:52.695Z",
     "strategy": ".content-card__main"
   }
 ];
