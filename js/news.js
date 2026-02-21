@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-21T18:36:01.906Z
+// Last updated: 2026-02-21T19:02:44.747Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "本港多處疑一度電壓驟降　多宗警鐘響和困𨋢報告　網民︰燈閃咗下",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260222/1102067054963331072916573.jpeg/mNxOvw4tnXJ71HPoeWKU7ehgV098E2C9bE8DsGxPA7A?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60323942/%E6%9C%AC%E6%B8%AF%E5%A4%9A%E8%99%95%E7%96%91%E4%B8%80%E5%BA%A6%E9%9B%BB%E5%A3%93%E9%A9%9F%E9%99%8D-%E5%A4%9A%E5%AE%97%E8%AD%A6%E9%90%98%E9%9F%BF%E5%92%8C%E5%9B%B0%F0%A8%8B%A2%E5%A0%B1%E5%91%8A-%E7%B6%B2%E6%B0%91-%E7%87%88%E9%96%83%E5%92%97%E4%B8%8B",
+    "timestamp": "2026-02-21T19:02:44.747Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "英超｜車路士1:1和般尼升上第四　白禮頓作客2:0挫賓福特",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260221/1101962887208898560457680.jpeg/IPTiLIqyRwElHDvWlChf_mMKEMeN12tGhtpmK4baZis?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60323913/%E6%B6%89%E5%BE%9E%E6%B3%B0%E5%9C%8B%E6%9B%BC%E8%B0%B7%E6%94%9C-60%E8%90%AC%E5%A4%A7%E9%BA%BB%E8%8A%B1%E7%AD%89%E6%8A%B5%E6%B8%AF-21%E6%AD%B2%E5%A5%B3%E6%A9%9F%E5%A0%B4%E8%A2%AB%E6%8D%95-%E4%B8%8B%E5%91%A8%E4%B8%80%E6%8F%90%E5%A0%82",
     "timestamp": "2026-02-21T11:44:46.219Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "公司年初四啟市！開工利市僅$XX　打工仔呻被侮辱：lunch都食唔到",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260221/1101939040292179968740961.png/qAgImaV5tGm0lbSz5xu2-zr62YOFGFjWn_GTUp_xk1I?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60323818/%E5%85%AC%E5%8F%B8%E5%B9%B4%E5%88%9D%E5%9B%9B%E5%95%9F%E5%B8%82-%E9%96%8B%E5%B7%A5%E5%88%A9%E5%B8%82%E5%83%85-xx-%E6%89%93%E5%B7%A5%E4%BB%94%E5%91%BB%E8%A2%AB%E4%BE%AE%E8%BE%B1-lunch%E9%83%BD%E9%A3%9F%E5%94%94%E5%88%B0",
-    "timestamp": "2026-02-21T11:30:46.580Z",
     "strategy": ".content-card__main"
   }
 ];
