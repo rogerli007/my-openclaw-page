@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-21T05:29:20.039Z
+// Last updated: 2026-02-21T05:52:25.335Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "特朗普關稅案敗訴　白宮餘下4法律「底牌」：其中一條從未被動用",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250411/987264657947365376534182.jpeg/a5C-2_a2eZCLTKVMxf6j37ZgtH7Fv2ExxOkqDcTpKg0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60323832/%E7%89%B9%E6%9C%97%E6%99%AE%E9%97%9C%E7%A8%85%E6%A1%88%E6%95%97%E8%A8%B4-%E7%99%BD%E5%AE%AE%E9%A4%98%E4%B8%8B4%E6%B3%95%E5%BE%8B-%E5%BA%95%E7%89%8C-%E5%85%B6%E4%B8%AD%E4%B8%80%E6%A2%9D%E5%BE%9E%E6%9C%AA%E8%A2%AB%E5%8B%95%E7%94%A8",
+    "timestamp": "2026-02-21T05:52:25.335Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "馬鞍山迎海‧星灣低層3房戶　1100萬元易手　持貨逾5年賬蝕60萬元",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260220/1101662681661706240718362.jpeg/fQ8GoecIg_AvTgyeDjKHdYN1CEFI7iw7WvZuwH_2bsA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E5%8D%80%E5%B0%88%E9%A1%8C/60323761/%E8%96%84%E9%A4%85%E5%BA%97%E8%80%81%E9%97%8616%E5%B9%B4%E6%96%B0%E5%B9%B4%E7%84%A1%E9%96%93%E6%96%B7%E6%B4%BE%E9%A4%90%E8%B4%88%E7%84%A1%E5%AE%B6%E8%80%85-%E5%86%80%E6%BB%BF%E8%B6%B3%E8%A1%97%E5%8F%8B%E5%8F%A3%E7%99%AE%E9%BD%8A%E9%81%8E%E7%AF%80",
     "timestamp": "2026-02-20T16:21:50.786Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "穗禾苑豐年閣一度全幢停電　電力裝置疑故障　工程人員完成維修",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260220/1101661706712518656280713.jpeg/cGPMpKp5eiun36UsSdsLGCxeLJ1UIy4RTiN7oE4je6A?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60323760/%E7%A9%97%E7%A6%BE%E8%8B%91%E8%B1%90%E5%B9%B4%E9%96%A3%E4%B8%80%E5%BA%A6%E5%85%A8%E5%B9%A2%E5%81%9C%E9%9B%BB-%E9%9B%BB%E5%8A%9B%E8%A3%9D%E7%BD%AE%E7%96%91%E6%95%85%E9%9A%9C-%E5%B7%A5%E7%A8%8B%E4%BA%BA%E5%93%A1%E5%AE%8C%E6%88%90%E7%B6%AD%E4%BF%AE",
-    "timestamp": "2026-02-20T15:51:19.830Z",
     "strategy": ".content-card__main"
   }
 ];
