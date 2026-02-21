@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-21T10:49:33.935Z
+// Last updated: 2026-02-21T11:30:46.580Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "公司年初四啟市！開工利市僅$XX　打工仔呻被侮辱：lunch都食唔到",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260221/1101939040292179968740961.png/qAgImaV5tGm0lbSz5xu2-zr62YOFGFjWn_GTUp_xk1I?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60323818/%E5%85%AC%E5%8F%B8%E5%B9%B4%E5%88%9D%E5%9B%9B%E5%95%9F%E5%B8%82-%E9%96%8B%E5%B7%A5%E5%88%A9%E5%B8%82%E5%83%85-xx-%E6%89%93%E5%B7%A5%E4%BB%94%E5%91%BB%E8%A2%AB%E4%BE%AE%E8%BE%B1-lunch%E9%83%BD%E9%A3%9F%E5%94%94%E5%88%B0",
+    "timestamp": "2026-02-21T11:30:46.580Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "宏福苑｜湯家驊：政府方案尊重業權　居民若不接受自損商業價值",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260221/1101742237345124352819476.jpeg/wo0f-WOGXhHs_vHfPtEMu_jRBkLW9NcOLVpyuS1acrk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%9C%8B%E9%9A%9B%E5%88%86%E6%9E%90/60323774/%E6%9C%80%E9%AB%98%E6%B3%95%E9%99%A2%E5%88%A4%E5%AE%9A%E7%89%B9%E6%9C%97%E6%99%AE%E5%A4%A7%E9%83%A8%E5%88%86%E9%97%9C%E7%A8%85%E9%81%95%E6%B3%95-%E9%97%9C%E7%A8%85%E6%88%B0%E9%82%84%E8%83%BD%E6%89%93%E4%B8%8B%E5%8E%BB%E5%97%8E",
     "timestamp": "2026-02-20T21:47:06.404Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普考慮向伊朗動武之際　福特號航母打擊群已進入地中海",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260221/1101740830617505792461905.jpeg/28NIPRyJKdQBPFgHtc060UYplFpJo4iCDnB5QA5weUA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60323772/%E7%89%B9%E6%9C%97%E6%99%AE%E8%80%83%E6%85%AE%E5%90%91%E4%BC%8A%E6%9C%97%E5%8B%95%E6%AD%A6%E4%B9%8B%E9%9A%9B-%E7%A6%8F%E7%89%B9%E8%99%9F%E8%88%AA%E6%AF%8D%E6%89%93%E6%93%8A%E7%BE%A4%E5%B7%B2%E9%80%B2%E5%85%A5%E5%9C%B0%E4%B8%AD%E6%B5%B7",
-    "timestamp": "2026-02-20T21:31:14.618Z",
     "strategy": ".content-card__main"
   }
 ];
