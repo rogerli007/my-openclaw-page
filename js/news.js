@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-21T09:16:44.579Z
+// Last updated: 2026-02-21T09:33:37.519Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "賀歲盃｜香港隊賽和FC首爾　12碼五射全中捧盃　14089人熱鬧觀戰",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260221/1101931862986592256108297.jpeg/-KyVuS7QgSkNIC2Wk7ulUIe2RA3dn31YZHYXmGR2F5g?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60323883/%E8%B3%80%E6%AD%B2%E7%9B%83-%E9%A6%99%E6%B8%AF%E9%9A%8A%E8%B3%BD%E5%92%8Cfc%E9%A6%96%E7%88%BE-12%E7%A2%BC%E4%BA%94%E5%B0%84%E5%85%A8%E4%B8%AD%E6%8D%A7%E7%9B%83-14089%E4%BA%BA%E7%86%B1%E9%AC%A7%E8%A7%80%E6%88%B0",
+    "timestamp": "2026-02-21T09:33:37.519Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "宏福苑｜黃偉綸：不原址重建　七座樓宇拆卸改建公園或社區設施",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260221/1101706802199793664921473.jpeg/0OhhrtpeBgl9et8rOM96dzKJMEWWzsURoVhx1qFYcdY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60323769/%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%8D%E6%9C%80%E9%AB%98%E6%B3%95%E9%99%A2%E8%A3%81%E6%B1%BA%E6%B7%B1%E6%84%9F%E5%A4%B1%E6%9C%9B-%E5%B0%87%E5%9C%A8%E7%8F%BE%E6%9C%89%E5%9F%BA%E7%A4%8E%E4%B8%8A%E5%8A%A0%E5%BE%B510-%E5%85%A8%E7%90%83%E9%97%9C%E7%A8%85",
     "timestamp": "2026-02-20T20:19:02.732Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普對最高法院裁決深感失望　將在現有基礎上加徵10%全球關稅",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260221/1101706802199793664921473.jpeg/0OhhrtpeBgl9et8rOM96dzKJMEWWzsURoVhx1qFYcdY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60323769/%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%8D%E6%9C%80%E9%AB%98%E6%B3%95%E9%99%A2%E8%A3%81%E6%B1%BA%E6%B7%B1%E6%84%9F%E5%A4%B1%E6%9C%9B-%E5%B0%87%E5%9C%A8%E7%8F%BE%E6%9C%89%E5%9F%BA%E7%A4%8E%E4%B8%8A%E5%8A%A0%E5%BE%B510-%E5%85%A8%E7%90%83%E9%97%9C%E7%A8%85",
-    "timestamp": "2026-02-20T19:24:01.892Z",
     "strategy": ".content-card__main"
   }
 ];
