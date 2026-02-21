@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-21T13:13:30.612Z
+// Last updated: 2026-02-21T13:42:15.037Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "鏢人｜謝霆鋒深圳宣傳聽到一人名忍唔住笑　極罕展露怕醜樣",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260221/1101930216730660864670492.png/d_XirTEWaXHWmbvrd863-G0ZyVwKN82dZbJGNGWyRjQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60323881/%E9%8F%A2%E4%BA%BA-%E8%AC%9D%E9%9C%86%E9%8B%92%E6%B7%B1%E5%9C%B3%E5%AE%A3%E5%82%B3%E8%81%BD%E5%88%B0%E4%B8%80%E4%BA%BA%E5%90%8D%E5%BF%8D%E5%94%94%E4%BD%8F%E7%AC%91-%E6%A5%B5%E7%BD%95%E5%B1%95%E9%9C%B2%E6%80%95%E9%86%9C%E6%A8%A3",
+    "timestamp": "2026-02-21T13:42:15.037Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "今日新聞8分鐘｜六合彩2億金多寶　近千人排隊｜私家車撞一家3口",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260221/1101773177450663936819640.jpeg/ohmtPl1SPSpqAhmAd5VYhGT5KuEP18DOiFCJvIhQibw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60323777/%E7%89%B9%E6%9C%97%E6%99%AE%E9%97%9C%E7%A8%85%E6%A1%88%E6%95%97%E8%A8%B4-%E5%9D%A6%E6%89%BF%E9%83%A8%E4%BB%BD%E8%B2%BF%E6%98%93%E5%8D%94%E8%AD%B0%E5%B0%87%E5%A4%B1%E6%95%88-%E7%A8%B1%E6%9C%83%E8%A2%AB%E6%96%B0%E9%97%9C%E7%A8%85%E5%8F%96%E4%BB%A3",
     "timestamp": "2026-02-21T00:01:59.708Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "鰥夫變綠帽男！愛妻逝世後被揭偷腥11年　驚揭女兒早叫姦夫做爸爸",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260220/1101386733074780160812903.png/XTEbvm3frgkUSZ6wzov-oC1Fq5Lt_kYTs8dUGbPHVBk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E8%A9%B1%E9%A1%8C/60323509/%E9%B0%A5%E5%A4%AB%E8%AE%8A%E7%B6%A0%E5%B8%BD%E7%94%B7-%E6%84%9B%E5%A6%BB%E9%80%9D%E4%B8%96%E5%BE%8C%E8%A2%AB%E6%8F%AD%E5%81%B7%E8%85%A511%E5%B9%B4-%E9%A9%9A%E6%8F%AD%E5%A5%B3%E5%85%92%E6%97%A9%E5%8F%AB%E5%A7%A6%E5%A4%AB%E5%81%9A%E7%88%B8%E7%88%B8",
-    "timestamp": "2026-02-20T23:16:52.920Z",
     "strategy": ".content-card__main"
   }
 ];
