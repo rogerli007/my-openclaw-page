@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-21T13:42:15.037Z
+// Last updated: 2026-02-21T14:02:28.447Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "黃曉明曾被傳澳門豪賭輸10.3億　稱是AI生成假新聞︰傷害還挺大",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260221/1101919120816869376405817.png/MMVzk_Y9AvNT0TQUqNF7PO5LBCBMxEpV-osMCvqLDAo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60323874/%E9%BB%83%E6%9B%89%E6%98%8E%E6%9B%BE%E8%A2%AB%E5%82%B3%E6%BE%B3%E9%96%80%E8%B1%AA%E8%B3%AD%E8%BC%B810-3%E5%84%84-%E7%A8%B1%E6%98%AFai%E7%94%9F%E6%88%90%E5%81%87%E6%96%B0%E8%81%9E-%E5%82%B7%E5%AE%B3%E9%82%84%E6%8C%BA%E5%A4%A7",
+    "timestamp": "2026-02-21T14:02:28.447Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "鏢人｜謝霆鋒深圳宣傳聽到一人名忍唔住笑　極罕展露怕醜樣",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260120/1090263520634736640465170.jpeg/Kr9oescOwIgfhNI-lTKfC95F1QlIKBq6g1AYzINQGMw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60323793/%E7%89%B9%E6%9C%97%E6%99%AE%E9%97%9C%E7%A8%85%E6%A1%88%E6%95%97%E8%A8%B4-%E7%BE%8E%E5%9C%8B%E8%B2%BF%E6%98%93%E4%BB%A3%E8%A1%A8-%E5%90%91%E4%B8%BB%E8%A6%81%E8%B2%BF%E6%98%93%E5%A4%A5%E4%BC%B4%E9%80%B2%E8%A1%8C301%E8%AA%BF%E6%9F%A5",
     "timestamp": "2026-02-21T02:44:33.655Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普關稅案敗訴　坦承部份貿易協議將失效　稱會被新關稅取代",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260221/1101773177450663936819640.jpeg/ohmtPl1SPSpqAhmAd5VYhGT5KuEP18DOiFCJvIhQibw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60323777/%E7%89%B9%E6%9C%97%E6%99%AE%E9%97%9C%E7%A8%85%E6%A1%88%E6%95%97%E8%A8%B4-%E5%9D%A6%E6%89%BF%E9%83%A8%E4%BB%BD%E8%B2%BF%E6%98%93%E5%8D%94%E8%AD%B0%E5%B0%87%E5%A4%B1%E6%95%88-%E7%A8%B1%E6%9C%83%E8%A2%AB%E6%96%B0%E9%97%9C%E7%A8%85%E5%8F%96%E4%BB%A3",
-    "timestamp": "2026-02-21T00:01:59.708Z",
     "strategy": ".content-card__main"
   }
 ];
