@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-21T10:15:01.167Z
+// Last updated: 2026-02-21T10:49:33.935Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "宏福苑｜湯家驊：政府方案尊重業權　居民若不接受自損商業價值",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20251107/1063594247564824576915467.jpeg/7HW8Z02R5bqprrwJm_KamMS5e9syISW7mNp1f5jadX8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60323899/%E5%AE%8F%E7%A6%8F%E8%8B%91-%E6%B9%AF%E5%AE%B6%E9%A9%8A-%E6%94%BF%E5%BA%9C%E6%96%B9%E6%A1%88%E5%B0%8A%E9%87%8D%E6%A5%AD%E6%AC%8A-%E5%B1%85%E6%B0%91%E8%8B%A5%E4%B8%8D%E6%8E%A5%E5%8F%97%E8%87%AA%E6%90%8D%E5%95%86%E6%A5%AD%E5%83%B9%E5%80%BC",
+    "timestamp": "2026-02-21T10:49:33.935Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "宏福苑火災｜倘業主不接受收購　黃偉綸︰交由市場或探討立法",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260221/1101740830617505792461905.jpeg/28NIPRyJKdQBPFgHtc060UYplFpJo4iCDnB5QA5weUA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60323772/%E7%89%B9%E6%9C%97%E6%99%AE%E8%80%83%E6%85%AE%E5%90%91%E4%BC%8A%E6%9C%97%E5%8B%95%E6%AD%A6%E4%B9%8B%E9%9A%9B-%E7%A6%8F%E7%89%B9%E8%99%9F%E8%88%AA%E6%AF%8D%E6%89%93%E6%93%8A%E7%BE%A4%E5%B7%B2%E9%80%B2%E5%85%A5%E5%9C%B0%E4%B8%AD%E6%B5%B7",
     "timestamp": "2026-02-20T21:31:14.618Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "黃金周露營｜營友非法生火亂拋垃圾　漁護署：鹹田灣等有20宗執法",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260219/1101125268682444800240893.jpeg/yrvehZBQSZfi0uHcEPfmmBb1-ms0GRSzKZn9FSmZ_RU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60323773/%E9%BB%83%E9%87%91%E5%91%A8%E9%9C%B2%E7%87%9F-%E7%87%9F%E5%8F%8B%E9%9D%9E%E6%B3%95%E7%94%9F%E7%81%AB%E4%BA%82%E6%8B%8B%E5%9E%83%E5%9C%BE-%E6%BC%81%E8%AD%B7%E7%BD%B2-%E9%B9%B9%E7%94%B0%E7%81%A3%E7%AD%89%E6%9C%8920%E5%AE%97%E5%9F%B7%E6%B3%95",
-    "timestamp": "2026-02-20T21:17:04.944Z",
     "strategy": ".content-card__main"
   }
 ];
