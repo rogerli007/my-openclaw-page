@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-20T23:16:52.920Z
+// Last updated: 2026-02-21T00:01:59.708Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "特朗普關稅案敗訴　坦承部份貿易協議將失效　稱會被新關稅取代",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260221/1101773177450663936819640.jpeg/ohmtPl1SPSpqAhmAd5VYhGT5KuEP18DOiFCJvIhQibw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60323777/%E7%89%B9%E6%9C%97%E6%99%AE%E9%97%9C%E7%A8%85%E6%A1%88%E6%95%97%E8%A8%B4-%E5%9D%A6%E6%89%BF%E9%83%A8%E4%BB%BD%E8%B2%BF%E6%98%93%E5%8D%94%E8%AD%B0%E5%B0%87%E5%A4%B1%E6%95%88-%E7%A8%B1%E6%9C%83%E8%A2%AB%E6%96%B0%E9%97%9C%E7%A8%85%E5%8F%96%E4%BB%A3",
+    "timestamp": "2026-02-21T00:01:59.708Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "鰥夫變綠帽男！愛妻逝世後被揭偷腥11年　驚揭女兒早叫姦夫做爸爸",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260220/1101642452969721856938471.jpeg/6iC58i_NQiA-1cN8KA4Q3z-HsHwJHEqCxaeJ1sWnidY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%92%B0%E7%90%83%E8%B6%A3%E8%81%9E/60323748/%E8%BE%B2%E6%9B%86%E6%96%B0%E5%B9%B4-%E6%B3%B0%E5%9C%8B%E8%AD%A6%E5%A5%87%E6%8B%9B%E6%8D%89%E8%B3%8A-%E6%89%AE%E8%88%9E%E9%BE%8D%E8%88%9E%E7%8D%85%E9%9D%A0%E8%BF%91%E7%AA%81%E6%93%8A-%E7%B5%82%E6%93%92%E7%8D%B2%E5%81%B7%E7%AB%8A%E6%85%A3%E7%8A%AF",
     "timestamp": "2026-02-20T14:34:44.961Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "立陶宛總統：希望在對北京對台關係方面取得平衡",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20240527/871623433828438016532679.jpeg/ibTGv15ZaG8bSvZ1IjojWgu86LhXddXFk54N_JOeDfw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60323739/%E7%AB%8B%E9%99%B6%E5%AE%9B%E7%B8%BD%E7%B5%B1-%E5%B8%8C%E6%9C%9B%E5%9C%A8%E5%B0%8D%E5%8C%97%E4%BA%AC%E5%B0%8D%E5%8F%B0%E9%97%9C%E4%BF%82%E6%96%B9%E9%9D%A2%E5%8F%96%E5%BE%97%E5%B9%B3%E8%A1%A1",
-    "timestamp": "2026-02-20T13:36:50.064Z",
     "strategy": ".content-card__main"
   }
 ];
