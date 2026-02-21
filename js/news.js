@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-21T16:31:27.293Z
+// Last updated: 2026-02-21T16:50:35.952Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "特朗普：上調新一輪全球關稅稅率至15%",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260221/1101706802199793664921473.jpeg/0OhhrtpeBgl9et8rOM96dzKJMEWWzsURoVhx1qFYcdY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60323938/%E7%89%B9%E6%9C%97%E6%99%AE-%E4%B8%8A%E8%AA%BF%E6%96%B0%E4%B8%80%E8%BC%AA%E5%85%A8%E7%90%83%E9%97%9C%E7%A8%85%E7%A8%85%E7%8E%87%E8%87%B315",
+    "timestamp": "2026-02-21T16:50:35.952Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "特朗普：上調新一輪全球關稅稅率至15%",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260221/1101773177450663936819640.jpeg/ohmtPl1SPSpqAhmAd5VYhGT5KuEP18DOiFCJvIhQibw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60323888/%E7%89%B9%E6%9C%97%E6%99%AE%E9%97%9C%E7%A8%85%E6%A1%88%E6%95%97%E8%A8%B4-%E5%B0%88%E5%AE%B6%E7%A8%B1%E6%9D%B1%E5%8D%97%E4%BA%9E%E5%87%BA%E5%8F%A3%E5%95%86%E5%8F%AF%E7%8D%B2%E7%9B%8A",
     "timestamp": "2026-02-21T09:50:36.022Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "賀歲盃｜香港隊賽和FC首爾　12碼五射全中捧盃　14089人熱鬧觀戰",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260221/1101931862986592256108297.jpeg/-KyVuS7QgSkNIC2Wk7ulUIe2RA3dn31YZHYXmGR2F5g?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60323883/%E8%B3%80%E6%AD%B2%E7%9B%83-%E9%A6%99%E6%B8%AF%E9%9A%8A%E8%B3%BD%E5%92%8Cfc%E9%A6%96%E7%88%BE-12%E7%A2%BC%E4%BA%94%E5%B0%84%E5%85%A8%E4%B8%AD%E6%8D%A7%E7%9B%83-14089%E4%BA%BA%E7%86%B1%E9%AC%A7%E8%A7%80%E6%88%B0",
-    "timestamp": "2026-02-21T09:33:37.519Z",
     "strategy": ".content-card__main"
   }
 ];
