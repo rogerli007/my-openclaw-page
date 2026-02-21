@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-21T23:15:29.404Z
+// Last updated: 2026-02-21T23:57:42.879Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美貿易專員：各國須遵守已達成的貿易協議　部份國家稅率高於15%",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20251208/1074655474495787008038965.jpeg/-wOg0YjDsmPZdo4OIo7mcCuOROgMszx1c_ohJHP6ISQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60323950/%E7%BE%8E%E8%B2%BF%E6%98%93%E5%B0%88%E5%93%A1-%E5%90%84%E5%9C%8B%E9%A0%88%E9%81%B5%E5%AE%88%E5%B7%B2%E9%81%94%E6%88%90%E7%9A%84%E8%B2%BF%E6%98%93%E5%8D%94%E8%AD%B0-%E9%83%A8%E4%BB%BD%E5%9C%8B%E5%AE%B6%E7%A8%85%E7%8E%87%E9%AB%98%E6%96%BC15",
+    "timestamp": "2026-02-21T23:57:42.879Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "英超｜曼城2:1擊敗紐卡素　僅落後阿仙奴2分　奧萊利梅開二度",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260221/1101980748870586368206873.jpeg/df-bwgX11ROOX1ZfOnZ-LL04MStNYR_NHK6mPRyupj0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60323903/%E5%A4%9C%E7%8E%8B-%E8%AD%9A%E6%97%BB%E8%90%B1%E6%88%90%E6%9D%B1%E6%97%A5%E9%A1%8F%E5%80%BC%E5%A4%A9%E8%8A%B1%E6%9D%BF-%E4%B8%AD%E5%AD%B8%E9%AB%94%E9%87%8D%E9%AB%98%E9%81%94170%E7%A3%85%E8%A2%AB%E5%98%B2-%E5%9D%A6%E5%85%8B",
     "timestamp": "2026-02-21T15:04:43.804Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "夜王︱譚旻萱成東日顏值天花板　中學體重高達170磅被嘲「坦克」",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260221/1101980748870586368206873.jpeg/df-bwgX11ROOX1ZfOnZ-LL04MStNYR_NHK6mPRyupj0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60323903/%E5%A4%9C%E7%8E%8B-%E8%AD%9A%E6%97%BB%E8%90%B1%E6%88%90%E6%9D%B1%E6%97%A5%E9%A1%8F%E5%80%BC%E5%A4%A9%E8%8A%B1%E6%9D%BF-%E4%B8%AD%E5%AD%B8%E9%AB%94%E9%87%8D%E9%AB%98%E9%81%94170%E7%A3%85%E8%A2%AB%E5%98%B2-%E5%9D%A6%E5%85%8B",
-    "timestamp": "2026-02-21T14:49:57.560Z",
     "strategy": ".content-card__main"
   }
 ];
