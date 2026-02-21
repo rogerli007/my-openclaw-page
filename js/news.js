@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-21T20:51:39.212Z
+// Last updated: 2026-02-21T21:57:46.233Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美伊局勢緊張之際　英媒：伊朗拒運走高濃縮鈾　惟願意降低其純度",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260222/1102099544411213824719458.jpeg/CRG-xVc3VxrVygUd9wkhe3u5YzUOH2wXESqqPREqqj0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60323945/%E7%BE%8E%E4%BC%8A%E5%B1%80%E5%8B%A2%E7%B7%8A%E5%BC%B5%E4%B9%8B%E9%9A%9B-%E8%8B%B1%E5%AA%92-%E4%BC%8A%E6%9C%97%E6%8B%92%E9%81%8B%E8%B5%B0%E9%AB%98%E6%BF%83%E7%B8%AE%E9%88%BE-%E6%83%9F%E9%A1%98%E6%84%8F%E9%99%8D%E4%BD%8E%E5%85%B6%E7%B4%94%E5%BA%A6",
+    "timestamp": "2026-02-21T21:57:46.233Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "錦上路兩私家車迎頭撞　兩司機受傷送院　現場交通一度受阻",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260221/1101919120816869376405817.png/MMVzk_Y9AvNT0TQUqNF7PO5LBCBMxEpV-osMCvqLDAo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60323874/%E9%BB%83%E6%9B%89%E6%98%8E%E6%9B%BE%E8%A2%AB%E5%82%B3%E6%BE%B3%E9%96%80%E8%B1%AA%E8%B3%AD%E8%BC%B810-3%E5%84%84-%E7%A8%B1%E6%98%AFai%E7%94%9F%E6%88%90%E5%81%87%E6%96%B0%E8%81%9E-%E5%82%B7%E5%AE%B3%E9%82%84%E6%8C%BA%E5%A4%A7",
     "timestamp": "2026-02-21T14:02:28.447Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "鏢人｜謝霆鋒深圳宣傳聽到一人名忍唔住笑　極罕展露怕醜樣",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260221/1101930216730660864670492.png/d_XirTEWaXHWmbvrd863-G0ZyVwKN82dZbJGNGWyRjQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60323881/%E9%8F%A2%E4%BA%BA-%E8%AC%9D%E9%9C%86%E9%8B%92%E6%B7%B1%E5%9C%B3%E5%AE%A3%E5%82%B3%E8%81%BD%E5%88%B0%E4%B8%80%E4%BA%BA%E5%90%8D%E5%BF%8D%E5%94%94%E4%BD%8F%E7%AC%91-%E6%A5%B5%E7%BD%95%E5%B1%95%E9%9C%B2%E6%80%95%E9%86%9C%E6%A8%A3",
-    "timestamp": "2026-02-21T13:42:15.037Z",
     "strategy": ".content-card__main"
   }
 ];
