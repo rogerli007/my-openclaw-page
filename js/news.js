@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-22T21:32:08.853Z
+// Last updated: 2026-02-22T21:46:45.716Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "莫斯科多個機場暫停航班升降　稱因烏克蘭無人機襲擊",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260223/1102423105092980736385019.jpeg/511h21ssCghL9GZ7Dk5rQEP4la8ZJnTAF4CcaxeAnGs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60324114/%E8%8E%AB%E6%96%AF%E7%A7%91%E5%A4%9A%E5%80%8B%E6%A9%9F%E5%A0%B4%E6%9A%AB%E5%81%9C%E8%88%AA%E7%8F%AD%E5%8D%87%E9%99%8D-%E7%A8%B1%E5%9B%A0%E7%83%8F%E5%85%8B%E8%98%AD%E7%84%A1%E4%BA%BA%E6%A9%9F%E8%A5%B2%E6%93%8A",
+    "timestamp": "2026-02-22T21:46:45.716Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "莫斯科多個機場暫停航班升降　稱因烏克蘭無人機襲擊",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260222/1102309783051964416503748.jpeg/C2pxVe6vcWHcrbv9MCprYvz89vA9Ik7Vh3gBpId4AaQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B7%91%E6%AD%A5/60324051/%E8%B7%91%E6%AD%A5-%E9%BB%83%E5%8D%93%E5%AF%A7%E7%84%A1%E5%BF%83%E6%8F%92%E6%9F%B3%E7%AA%81%E7%A0%B4240-%E5%A4%A7%E9%98%AA%E9%A6%AC%E6%8B%89%E6%9D%BE%E5%8F%88%E7%86%B1%E5%8F%88%E6%9B%AC%E6%88%90%E6%AD%B7%E4%BE%86%E7%AC%AC%E4%BA%94%E4%BA%BA",
     "timestamp": "2026-02-22T12:38:35.526Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "落馬洲疑毒狗｜年初六再尋獲狗屍　好心人用挖泥機助清雜草植被",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260222/1102328904565133312347216.jpeg/E5XvZPUWhDOmgXBUDO9oaWBta0HxSI46x5DYaeKQ2Gk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60324069/%E8%90%BD%E9%A6%AC%E6%B4%B2%E7%96%91%E6%AF%92%E7%8B%97-%E5%B9%B4%E5%88%9D%E5%85%AD%E5%86%8D%E5%B0%8B%E7%8D%B2%E7%8B%97%E5%B1%8D-%E5%A5%BD%E5%BF%83%E4%BA%BA%E7%94%A8%E6%8C%96%E6%B3%A5%E6%A9%9F%E5%8A%A9%E6%B8%85%E9%9B%9C%E8%8D%89%E6%A4%8D%E8%A2%AB",
-    "timestamp": "2026-02-22T12:20:11.742Z",
     "strategy": ".content-card__main"
   }
 ];
