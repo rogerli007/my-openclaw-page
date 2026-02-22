@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-22T13:38:40.586Z
+// Last updated: 2026-02-22T14:18:16.211Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "應對暗殺風險　哈梅內伊據報密令委任「事實上總統」及核心決策圈",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260105/1084913941940801536178069.jpeg/pjnMszoa8QZL_CmwznB5UwVFsP7upd1FnY0dXp2NHV4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60324084/%E6%87%89%E5%B0%8D%E6%9A%97%E6%AE%BA%E9%A2%A8%E9%9A%AA-%E5%93%88%E6%A2%85%E5%85%A7%E4%BC%8A%E6%93%9A%E5%A0%B1%E5%AF%86%E4%BB%A4%E5%A7%94%E4%BB%BB-%E4%BA%8B%E5%AF%A6%E4%B8%8A%E7%B8%BD%E7%B5%B1-%E5%8F%8A%E6%A0%B8%E5%BF%83%E6%B1%BA%E7%AD%96%E5%9C%88",
+    "timestamp": "2026-02-22T14:18:16.211Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "「聲夢小花」轉眼29歲透視裝衝擊視覺　為唱好一首歌練習100次",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260222/1102099544411213824719458.jpeg/CRG-xVc3VxrVygUd9wkhe3u5YzUOH2wXESqqPREqqj0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60323945/%E7%BE%8E%E4%BC%8A%E5%B1%80%E5%8B%A2%E7%B7%8A%E5%BC%B5%E4%B9%8B%E9%9A%9B-%E8%8B%B1%E5%AA%92-%E4%BC%8A%E6%9C%97%E6%8B%92%E9%81%8B%E8%B5%B0%E9%AB%98%E6%BF%83%E7%B8%AE%E9%88%BE-%E6%83%9F%E9%A1%98%E6%84%8F%E9%99%8D%E4%BD%8E%E5%85%B6%E7%B4%94%E5%BA%A6",
     "timestamp": "2026-02-21T21:57:46.233Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "錦上路兩私家車迎頭撞　兩司機受傷送院　現場交通一度受阻",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260222/1102096012807245824172430.jpeg/yIAaWwed-mW4v-J9DDER97WOZAGEtUihPMQ_QTzEP0E?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60323946/%E9%8C%A6%E4%B8%8A%E8%B7%AF%E5%85%A9%E7%A7%81%E5%AE%B6%E8%BB%8A%E8%BF%8E%E9%A0%AD%E6%92%9E-%E5%85%A9%E5%8F%B8%E6%A9%9F%E5%8F%97%E5%82%B7%E9%80%81%E9%99%A2-%E7%8F%BE%E5%A0%B4%E4%BA%A4%E9%80%9A%E4%B8%80%E5%BA%A6%E5%8F%97%E9%98%BB",
-    "timestamp": "2026-02-21T20:51:39.212Z",
     "strategy": ".content-card__main"
   }
 ];
