@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-22T14:18:16.211Z
+// Last updated: 2026-02-22T14:35:29.148Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "日本舉辦「竹島日」活動　韓國政府強烈抗議",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260222/1102354213754638336728654.jpeg/de0yF27SMPydfZHOjuBBvg6XVZSSBWz3LSizJS0osyU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60324086/%E6%97%A5%E6%9C%AC%E8%88%89%E8%BE%A6-%E7%AB%B9%E5%B3%B6%E6%97%A5-%E6%B4%BB%E5%8B%95-%E9%9F%93%E5%9C%8B%E6%94%BF%E5%BA%9C%E5%BC%B7%E7%83%88%E6%8A%97%E8%AD%B0",
+    "timestamp": "2026-02-22T14:35:29.148Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "應對暗殺風險　哈梅內伊據報密令委任「事實上總統」及核心決策圈",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260222/1102127783166873600136905.jpeg/WsCVcTYm1mwFWr481LmnqZ--XkMzxaJ3NLY48TS2OPE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60323948/%E8%8B%B1%E8%B6%85-%E6%9B%BC%E5%9F%8E2-1%E6%93%8A%E6%95%97%E7%B4%90%E5%8D%A1%E7%B4%A0-%E5%83%85%E8%90%BD%E5%BE%8C%E9%98%BF%E4%BB%99%E5%A5%B42%E5%88%86-%E5%A5%A7%E8%90%8A%E5%88%A9%E6%A2%85%E9%96%8B%E4%BA%8C%E5%BA%A6",
     "timestamp": "2026-02-21T22:53:05.196Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美伊局勢緊張之際　英媒：伊朗拒運走高濃縮鈾　惟願意降低其純度",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260222/1102099544411213824719458.jpeg/CRG-xVc3VxrVygUd9wkhe3u5YzUOH2wXESqqPREqqj0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60323945/%E7%BE%8E%E4%BC%8A%E5%B1%80%E5%8B%A2%E7%B7%8A%E5%BC%B5%E4%B9%8B%E9%9A%9B-%E8%8B%B1%E5%AA%92-%E4%BC%8A%E6%9C%97%E6%8B%92%E9%81%8B%E8%B5%B0%E9%AB%98%E6%BF%83%E7%B8%AE%E9%88%BE-%E6%83%9F%E9%A1%98%E6%84%8F%E9%99%8D%E4%BD%8E%E5%85%B6%E7%B4%94%E5%BA%A6",
-    "timestamp": "2026-02-21T21:57:46.233Z",
     "strategy": ".content-card__main"
   }
 ];
