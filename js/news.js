@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-22T21:15:39.881Z
+// Last updated: 2026-02-22T21:32:08.853Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "莫斯科多個機場暫停航班升降　稱因烏克蘭無人機襲擊",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260223/1102423105092980736385019.jpeg/511h21ssCghL9GZ7Dk5rQEP4la8ZJnTAF4CcaxeAnGs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60324114/%E8%8E%AB%E6%96%AF%E7%A7%91%E5%A4%9A%E5%80%8B%E6%A9%9F%E5%A0%B4%E6%9A%AB%E5%81%9C%E8%88%AA%E7%8F%AD%E5%8D%87%E9%99%8D-%E7%A8%B1%E5%9B%A0%E7%83%8F%E5%85%8B%E8%98%AD%E7%84%A1%E4%BA%BA%E6%A9%9F%E8%A5%B2%E6%93%8A",
+    "timestamp": "2026-02-22T21:32:08.853Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "阿曼：美伊26日再次瑞士談判　伊朗外長：核問題仍可能外交解決",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260222/1102328904565133312347216.jpeg/E5XvZPUWhDOmgXBUDO9oaWBta0HxSI46x5DYaeKQ2Gk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60324069/%E8%90%BD%E9%A6%AC%E6%B4%B2%E7%96%91%E6%AF%92%E7%8B%97-%E5%B9%B4%E5%88%9D%E5%85%AD%E5%86%8D%E5%B0%8B%E7%8D%B2%E7%8B%97%E5%B1%8D-%E5%A5%BD%E5%BF%83%E4%BA%BA%E7%94%A8%E6%8C%96%E6%B3%A5%E6%A9%9F%E5%8A%A9%E6%B8%85%E9%9B%9C%E8%8D%89%E6%A4%8D%E8%A2%AB",
     "timestamp": "2026-02-22T12:20:11.742Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "小巴司機派利市給遊客！台女生來港看新年煙花感動呼：這趟很難忘",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260222/1102254975053991936381975.png/idgmYZuCFQuXplXZylb6uXgNFu-M78cxec5-W3nOfls",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60323962/%E5%B0%8F%E5%B7%B4%E5%8F%B8%E6%A9%9F%E6%B4%BE%E5%88%A9%E5%B8%82%E7%B5%A6%E9%81%8A%E5%AE%A2-%E5%8F%B0%E5%A5%B3%E7%94%9F%E4%BE%86%E6%B8%AF%E7%9C%8B%E6%96%B0%E5%B9%B4%E7%85%99%E8%8A%B1%E6%84%9F%E5%8B%95%E5%91%BC-%E9%80%99%E8%B6%9F%E5%BE%88%E9%9B%A3%E5%BF%98",
-    "timestamp": "2026-02-22T11:14:35.720Z",
     "strategy": ".content-card__main"
   }
 ];
