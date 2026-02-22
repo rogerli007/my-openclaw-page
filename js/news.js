@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-22T11:14:35.720Z
+// Last updated: 2026-02-22T12:20:11.742Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "落馬洲疑毒狗｜年初六再尋獲狗屍　好心人用挖泥機助清雜草植被",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260222/1102328904565133312347216.jpeg/E5XvZPUWhDOmgXBUDO9oaWBta0HxSI46x5DYaeKQ2Gk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60324069/%E8%90%BD%E9%A6%AC%E6%B4%B2%E7%96%91%E6%AF%92%E7%8B%97-%E5%B9%B4%E5%88%9D%E5%85%AD%E5%86%8D%E5%B0%8B%E7%8D%B2%E7%8B%97%E5%B1%8D-%E5%A5%BD%E5%BF%83%E4%BA%BA%E7%94%A8%E6%8C%96%E6%B3%A5%E6%A9%9F%E5%8A%A9%E6%B8%85%E9%9B%9C%E8%8D%89%E6%A4%8D%E8%A2%AB",
+    "timestamp": "2026-02-22T12:20:11.742Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "小巴司機派利市給遊客！台女生來港看新年煙花感動呼：這趟很難忘",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260222/1102082248145899520948510.jpeg/JdrHqs87bx-R0fqXMLN8aNO5Gjt8oQbThWqrfoVqq34?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60323944/%E7%89%B9%E6%9C%97%E6%99%AE%E9%97%9C%E7%A8%85%E6%A1%88%E6%95%97%E8%A8%B4-%E5%8E%9F%E5%91%8A%E9%85%92%E5%95%86%E7%82%BA%E6%9C%AC%E6%A1%88%E9%A3%BD%E5%8F%97%E6%BB%8B%E6%93%BE-%E6%AD%A1%E8%BF%8E%E8%A3%81%E6%B1%BA%E9%96%8B%E4%BD%B3%E9%87%80%E6%85%B6%E7%A5%9D",
     "timestamp": "2026-02-21T20:13:06.165Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "法國貿易部長：歐盟有能力反擊特朗普新一輪關稅政策",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260222/1102075835281575936604917.jpeg/2rmCSu0bW4ayJFP-oHDgnlBPSzCxLwz4GDru6xg67us?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60323943/%E6%B3%95%E5%9C%8B%E8%B2%BF%E6%98%93%E9%83%A8%E9%95%B7-%E6%AD%90%E7%9B%9F%E6%9C%89%E8%83%BD%E5%8A%9B%E5%8F%8D%E6%93%8A%E7%89%B9%E6%9C%97%E6%99%AE%E6%96%B0%E4%B8%80%E8%BC%AA%E9%97%9C%E7%A8%85%E6%94%BF%E7%AD%96",
-    "timestamp": "2026-02-21T19:18:05.100Z",
     "strategy": ".content-card__main"
   }
 ];
