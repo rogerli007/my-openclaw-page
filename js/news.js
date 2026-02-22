@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-22T19:18:59.422Z
+// Last updated: 2026-02-22T20:32:18.280Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "阿曼：美伊26日再次瑞士談判　伊朗外長：核問題仍可能外交解決",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260110/1086559302958714880957602.jpeg/KmbjUezCJBGuLYeoE3gpav-NntLBVpS22OVpSNjlaUg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60324108/%E9%98%BF%E6%9B%BC-%E7%BE%8E%E4%BC%8A26%E6%97%A5%E5%86%8D%E6%AC%A1%E7%91%9E%E5%A3%AB%E8%AB%87%E5%88%A4-%E4%BC%8A%E6%9C%97%E5%A4%96%E9%95%B7-%E6%A0%B8%E5%95%8F%E9%A1%8C%E4%BB%8D%E5%8F%AF%E8%83%BD%E5%A4%96%E4%BA%A4%E8%A7%A3%E6%B1%BA",
+    "timestamp": "2026-02-22T20:32:18.280Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "英超｜阿仙奴作客4：1勝熱刺　伊斯及基奧基尼斯各入兩球",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260222/1102292115133566976756249.jpeg/J3u-KGHzOxfdr16f6DK8DyCjFNGxwbQwrhZeOK4WXjg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60324040/%E9%8D%BE%E6%9F%94%E7%BE%8E%E6%8B%92%E8%AA%8D%E5%8A%89%E5%B1%95%E9%9C%86%E4%BF%82%E7%94%B7%E5%8F%8B-%E7%8B%A0%E5%BF%83%E9%99%8D%E7%B4%9A%E9%97%9C%E4%BF%82%E7%94%9F%E8%AE%8A-%E9%80%80%E8%BF%94%E5%8E%BB%E6%9C%8B%E5%8F%8B",
     "timestamp": "2026-02-22T10:14:22.421Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "陳凱琳搭飛機坐經濟艙一人霸三個位　竟享有呢項服務獲優待惹羨慕",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260222/1102265972581994496701953.jpeg/u1f34_Tlw6GCuNw-5jNH-8dWTwyO9pDNpKWT-6Slk_s?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60324006/%E9%99%B3%E5%87%B1%E7%90%B3%E6%90%AD%E9%A3%9B%E6%A9%9F%E5%9D%90%E7%B6%93%E6%BF%9F%E8%89%99%E4%B8%80%E4%BA%BA%E9%9C%B8%E4%B8%89%E5%80%8B%E4%BD%8D-%E7%AB%9F%E4%BA%AB%E6%9C%89%E5%91%A2%E9%A0%85%E6%9C%8D%E5%8B%99%E7%8D%B2%E5%84%AA%E5%BE%85%E6%83%B9%E7%BE%A8%E6%85%95",
-    "timestamp": "2026-02-22T09:52:34.917Z",
     "strategy": ".content-card__main"
   }
 ];
