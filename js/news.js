@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-22T17:15:35.675Z
+// Last updated: 2026-02-22T17:48:27.360Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "婆羅洲北部沿海6.8級地震　未發海嘯預警",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260223/1102417224607469568158492.jpeg/u8CH12CYlv3L7EnDhUk-wgeDznymSgeevTERY70xEWM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60324109/%E5%A9%86%E7%BE%85%E6%B4%B2%E5%8C%97%E9%83%A8%E6%B2%BF%E6%B5%B76-8%E7%B4%9A%E5%9C%B0%E9%9C%87-%E6%9C%AA%E7%99%BC%E6%B5%B7%E5%98%AF%E9%A0%90%E8%AD%A6",
+    "timestamp": "2026-02-22T17:48:27.360Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "冬奧︱谷愛凌奪金後得悉外婆離世　記者會上哭說「昨晚才夢到她」",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260220/1101593585926541312078543.jpeg/1SlLizKr6RMG2U8yjjc9rAk9z5rn4fdI-IkpZviJKWY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60307777/%E5%BB%9A%E6%88%BF%E6%BB%85%E8%9F%B2-%E6%8E%92%E6%B0%B4%E5%AD%94%E6%9C%89%E8%9F%91%E8%9E%82%E7%88%AC%E5%87%BA%E6%B2%B9%E6%B1%A1%E6%98%AF%E5%85%83%E5%85%87-%E7%B6%B2%E5%8F%8B%E9%9D%A01%E7%A5%9E%E5%99%A8%E6%9D%9C%E7%B5%95%E8%9F%B2%E5%AE%B3",
     "timestamp": "2026-02-22T07:10:13.107Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "露營亂象｜江玉歡：遊人隨地棄垃圾有冇罰？港人弄髒營地罰一萬",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20251028/1059911319680978944325904.jpeg/IPEXIwqnkP-XEOEkJ6gwwstF-FeY6TExBGJcACFiXAA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60324001/%E9%9C%B2%E7%87%9F%E4%BA%82%E8%B1%A1-%E6%B1%9F%E7%8E%89%E6%AD%A1-%E9%81%8A%E4%BA%BA%E9%9A%A8%E5%9C%B0%E6%A3%84%E5%9E%83%E5%9C%BE%E6%9C%89%E5%86%87%E7%BD%B0-%E6%B8%AF%E4%BA%BA%E5%BC%84%E9%AB%92%E7%87%9F%E5%9C%B0%E7%BD%B0%E4%B8%80%E8%90%AC",
-    "timestamp": "2026-02-22T06:35:22.329Z",
     "strategy": ".content-card__main"
   }
 ];
