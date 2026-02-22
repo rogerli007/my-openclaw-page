@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-22T22:48:17.692Z
+// Last updated: 2026-02-22T23:00:56.706Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "上水倉庫幼犬困籠斷尾受傷　愛護動物協會帶走照顧　警拘65歲倉主",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260223/1102491880697892864174608.jpeg/rj_WBJmfNbKswRdIEisPd5qvKrhvaLNK9SO4zPUjuMw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60324122/%E4%B8%8A%E6%B0%B4%E5%80%89%E5%BA%AB%E5%B9%BC%E7%8A%AC%E5%9B%B0%E7%B1%A0%E6%96%B7%E5%B0%BE%E5%8F%97%E5%82%B7-%E6%84%9B%E8%AD%B7%E5%8B%95%E7%89%A9%E5%8D%94%E6%9C%83%E5%B8%B6%E8%B5%B0%E7%85%A7%E9%A1%A7-%E8%AD%A6%E6%8B%9865%E6%AD%B2%E5%80%89%E4%B8%BB",
+    "timestamp": "2026-02-22T23:00:56.706Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "上水倉庫幼犬困籠斷尾受傷　愛護動物協會帶走照顧　警拘65歲倉主",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260222/1102363891691687936409723.jpeg/a7mCqhufzcXJ1wO_lhFLPFPAb4KdT7WZTkke5U5JHuU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60324064/%E6%B8%AF%E7%94%A2%E7%89%87%E5%8D%83%E7%A6%A7%E5%A5%B3%E7%A5%9E%E6%97%97%E8%A2%8D%E8%B3%80%E5%B9%B4%E6%8F%89%E5%90%88%E4%B8%AD%E8%A5%BF%E7%BE%8E%E6%84%9F-%E8%B6%85%E6%A8%A1%E8%BA%AB%E5%9E%8B25%E5%B9%B4%E4%B8%8D%E8%AE%8A%E8%BC%95%E9%AC%86%E9%A7%95%E9%A6%AD",
     "timestamp": "2026-02-22T14:51:12.604Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "日本舉辦「竹島日」活動　韓國政府強烈抗議",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260222/1102354213754638336728654.jpeg/de0yF27SMPydfZHOjuBBvg6XVZSSBWz3LSizJS0osyU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60324086/%E6%97%A5%E6%9C%AC%E8%88%89%E8%BE%A6-%E7%AB%B9%E5%B3%B6%E6%97%A5-%E6%B4%BB%E5%8B%95-%E9%9F%93%E5%9C%8B%E6%94%BF%E5%BA%9C%E5%BC%B7%E7%83%88%E6%8A%97%E8%AD%B0",
-    "timestamp": "2026-02-22T14:35:29.148Z",
     "strategy": ".content-card__main"
   }
 ];
