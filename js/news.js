@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-22T11:01:46.453Z
+// Last updated: 2026-02-22T11:14:35.720Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "小巴司機派利市給遊客！台女生來港看新年煙花感動呼：這趟很難忘",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260222/1102254975053991936381975.png/idgmYZuCFQuXplXZylb6uXgNFu-M78cxec5-W3nOfls",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60323962/%E5%B0%8F%E5%B7%B4%E5%8F%B8%E6%A9%9F%E6%B4%BE%E5%88%A9%E5%B8%82%E7%B5%A6%E9%81%8A%E5%AE%A2-%E5%8F%B0%E5%A5%B3%E7%94%9F%E4%BE%86%E6%B8%AF%E7%9C%8B%E6%96%B0%E5%B9%B4%E7%85%99%E8%8A%B1%E6%84%9F%E5%8B%95%E5%91%BC-%E9%80%99%E8%B6%9F%E5%BE%88%E9%9B%A3%E5%BF%98",
+    "timestamp": "2026-02-22T11:14:35.720Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "赤柱Tesla撞欄剷行人路　車頭毀爛變廢鐵",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260222/1102075835281575936604917.jpeg/2rmCSu0bW4ayJFP-oHDgnlBPSzCxLwz4GDru6xg67us?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60323943/%E6%B3%95%E5%9C%8B%E8%B2%BF%E6%98%93%E9%83%A8%E9%95%B7-%E6%AD%90%E7%9B%9F%E6%9C%89%E8%83%BD%E5%8A%9B%E5%8F%8D%E6%93%8A%E7%89%B9%E6%9C%97%E6%99%AE%E6%96%B0%E4%B8%80%E8%BC%AA%E9%97%9C%E7%A8%85%E6%94%BF%E7%AD%96",
     "timestamp": "2026-02-21T19:18:05.100Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "本港多處疑一度電壓驟降　多宗警鐘響和困𨋢報告　網民︰燈閃咗下",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260222/1102067054963331072916573.jpeg/mNxOvw4tnXJ71HPoeWKU7ehgV098E2C9bE8DsGxPA7A?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60323942/%E6%9C%AC%E6%B8%AF%E5%A4%9A%E8%99%95%E7%96%91%E4%B8%80%E5%BA%A6%E9%9B%BB%E5%A3%93%E9%A9%9F%E9%99%8D-%E5%A4%9A%E5%AE%97%E8%AD%A6%E9%90%98%E9%9F%BF%E5%92%8C%E5%9B%B0%F0%A8%8B%A2%E5%A0%B1%E5%91%8A-%E7%B6%B2%E6%B0%91-%E7%87%88%E9%96%83%E5%92%97%E4%B8%8B",
-    "timestamp": "2026-02-21T19:02:44.747Z",
     "strategy": ".content-card__main"
   }
 ];
