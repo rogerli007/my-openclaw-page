@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-22T06:35:22.329Z
+// Last updated: 2026-02-22T07:10:13.107Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "廚房滅蟲｜排水孔有蟑螂爬出油污是元兇？ 網友靠1神器杜絕蟲害",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260220/1101593585926541312078543.jpeg/1SlLizKr6RMG2U8yjjc9rAk9z5rn4fdI-IkpZviJKWY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60307777/%E5%BB%9A%E6%88%BF%E6%BB%85%E8%9F%B2-%E6%8E%92%E6%B0%B4%E5%AD%94%E6%9C%89%E8%9F%91%E8%9E%82%E7%88%AC%E5%87%BA%E6%B2%B9%E6%B1%A1%E6%98%AF%E5%85%83%E5%85%87-%E7%B6%B2%E5%8F%8B%E9%9D%A01%E7%A5%9E%E5%99%A8%E6%9D%9C%E7%B5%95%E8%9F%B2%E5%AE%B3",
+    "timestamp": "2026-02-22T07:10:13.107Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "露營亂象｜江玉歡：遊人隨地棄垃圾有冇罰？港人弄髒營地罰一萬",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260221/1101706802199793664921473.jpeg/0OhhrtpeBgl9et8rOM96dzKJMEWWzsURoVhx1qFYcdY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60323938/%E7%89%B9%E6%9C%97%E6%99%AE-%E4%B8%8A%E8%AA%BF%E6%96%B0%E4%B8%80%E8%BC%AA%E5%85%A8%E7%90%83%E9%97%9C%E7%A8%85%E7%A8%85%E7%8E%87%E8%87%B315",
     "timestamp": "2026-02-21T16:31:27.293Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "寶可夢Fans打造末日儲備箱　GameBoy起全世代Pokemon遊戲代替糧食",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260220/1101587038450225152956418.jpeg/lbC1ErT2FMkWvMimUTfZoEeVTF7xIEDy1mXCJNZlwiQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60323592/%E5%AF%B6%E5%8F%AF%E5%A4%A2fans%E6%89%93%E9%80%A0%E6%9C%AB%E6%97%A5%E5%84%B2%E5%82%99%E7%AE%B1-gameboy%E8%B5%B7%E5%85%A8%E4%B8%96%E4%BB%A3pokemon%E9%81%8A%E6%88%B2%E4%BB%A3%E6%9B%BF%E7%B3%A7%E9%A3%9F",
-    "timestamp": "2026-02-21T16:14:33.431Z",
     "strategy": ".content-card__main"
   }
 ];
