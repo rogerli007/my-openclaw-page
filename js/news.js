@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-22T00:46:29.788Z
+// Last updated: 2026-02-22T03:22:27.564Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "伊朗再爆發街頭示威　學生與民兵組織衝突　高呼「哈梅內伊去死」",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20190625/15614244375d1172352b629.jpg/nmmNRFWf4LksV0rH_1eo4yIJyyBjllbmaK4hc2iuIXM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60323968/%E4%BC%8A%E6%9C%97%E5%86%8D%E7%88%86%E7%99%BC%E8%A1%97%E9%A0%AD%E7%A4%BA%E5%A8%81-%E5%AD%B8%E7%94%9F%E8%88%87%E6%B0%91%E5%85%B5%E7%B5%84%E7%B9%94%E8%A1%9D%E7%AA%81-%E9%AB%98%E5%91%BC-%E5%93%88%E6%A2%85%E5%85%A7%E4%BC%8A%E5%8E%BB%E6%AD%BB",
+    "timestamp": "2026-02-22T03:22:27.564Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "特朗普關稅案敗訴　默茨：減輕德國關稅負擔　與歐盟協調一致立場",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260216/1100087247056670720158723.jpeg/JWwpUGJeNF-1HJPOTK5r1e4UwVFU6vpdmMDGt5jAxrc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E5%A8%9B%E6%A8%82/60322148/%E5%9C%8B%E7%94%A2ai%E7%9F%AD%E5%8A%87%E6%90%B6%E4%BD%94%E7%86%B1%E6%92%AD%E6%A6%9C-%E9%9A%A8%E8%91%97seedance%E7%AD%89%E6%A8%A1%E5%9E%8B%E9%80%B2%E5%8C%96%E5%8B%A2%E4%BB%A4%E5%B8%82%E5%A0%B4%E9%87%8D%E6%96%B0%E6%B4%97%E7%89%8C",
     "timestamp": "2026-02-21T15:47:41.426Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "諾如病毒｜日本屢傳個案累計逾百人食物中毒　富山縣發注意報",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260221/1102001155984068608725384.jpeg/lqz3TfPzVSPDztHF6yo8wqXaguKY8YFzMxIltjMSJbY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60323927/%E8%AB%BE%E5%A6%82%E7%97%85%E6%AF%92-%E6%97%A5%E6%9C%AC%E5%B1%A2%E5%82%B3%E5%80%8B%E6%A1%88%E7%B4%AF%E8%A8%88%E9%80%BE%E7%99%BE%E4%BA%BA%E9%A3%9F%E7%89%A9%E4%B8%AD%E6%AF%92-%E5%AF%8C%E5%B1%B1%E7%B8%A3%E7%99%BC%E6%B3%A8%E6%84%8F%E5%A0%B1",
-    "timestamp": "2026-02-21T15:21:27.630Z",
     "strategy": ".content-card__main"
   }
 ];
