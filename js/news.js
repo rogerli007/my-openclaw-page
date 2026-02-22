@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-22T16:00:03.711Z
+// Last updated: 2026-02-22T16:15:43.403Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "將軍澳景林邨保安聞異味　揭六旬翁倒斃寓所",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20220914/646808720939945984613980.jpeg/T8xIWoVoFmN2jF1f6BVD9V7vysV07P_WSeLW4Eni1uA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60324102/%E5%B0%87%E8%BB%8D%E6%BE%B3%E6%99%AF%E6%9E%97%E9%82%A8%E4%BF%9D%E5%AE%89%E8%81%9E%E7%95%B0%E5%91%B3-%E6%8F%AD%E5%85%AD%E6%97%AC%E7%BF%81%E5%80%92%E6%96%83%E5%AF%93%E6%89%80",
+    "timestamp": "2026-02-22T16:15:43.403Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "男子圖闖特朗普海湖莊園遭擊斃　特勤局指持槍及攜汽油桶",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20190625/15614244375d1172352b629.jpg/nmmNRFWf4LksV0rH_1eo4yIJyyBjllbmaK4hc2iuIXM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60323968/%E4%BC%8A%E6%9C%97%E5%86%8D%E7%88%86%E7%99%BC%E8%A1%97%E9%A0%AD%E7%A4%BA%E5%A8%81-%E5%AD%B8%E7%94%9F%E8%88%87%E6%B0%91%E5%85%B5%E7%B5%84%E7%B9%94%E8%A1%9D%E7%AA%81-%E9%AB%98%E5%91%BC-%E5%93%88%E6%A2%85%E5%85%A7%E4%BC%8A%E5%8E%BB%E6%AD%BB",
     "timestamp": "2026-02-22T03:22:27.564Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普關稅案敗訴　默茨：減輕德國關稅負擔　與歐盟協調一致立場",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250605/1007444483895201792012394.jpeg/ubDBxaE2JCWspn99it6Q0e25-yHOcUOx4vgfNuL4HzY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60323953/%E7%89%B9%E6%9C%97%E6%99%AE%E9%97%9C%E7%A8%85%E6%A1%88%E6%95%97%E8%A8%B4-%E9%BB%98%E8%8C%A8-%E6%B8%9B%E8%BC%95%E5%BE%B7%E5%9C%8B%E9%97%9C%E7%A8%85%E8%B2%A0%E6%93%94-%E8%88%87%E6%AD%90%E7%9B%9F%E5%8D%94%E8%AA%BF%E4%B8%80%E8%87%B4%E7%AB%8B%E5%A0%B4",
-    "timestamp": "2026-02-22T00:46:29.788Z",
     "strategy": ".content-card__main"
   }
 ];
