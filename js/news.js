@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-22T15:31:20.361Z
+// Last updated: 2026-02-22T15:49:09.257Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "LCK盃｜代表人物Faker隊伍落敗無緣來港決賽　網現門票含淚蝕本賣",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20251017/1055819373966528512035962.jpeg/FZzNkHfER8U__2spUyOiC7_Qrle1FpH9w9deTMPXXkw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60324098/lck%E7%9B%83-%E4%BB%A3%E8%A1%A8%E4%BA%BA%E7%89%A9faker%E9%9A%8A%E4%BC%8D%E8%90%BD%E6%95%97%E7%84%A1%E7%B7%A3%E4%BE%86%E6%B8%AF%E6%B1%BA%E8%B3%BD-%E7%B6%B2%E7%8F%BE%E9%96%80%E7%A5%A8%E5%90%AB%E6%B7%9A%E8%9D%95%E6%9C%AC%E8%B3%A3",
+    "timestamp": "2026-02-22T15:49:09.257Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "坪洲27年天然有機農莊4月尾結業　日籍創辦人稱因屬官地被收回",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20251208/1074655474495787008038965.jpeg/-wOg0YjDsmPZdo4OIo7mcCuOROgMszx1c_ohJHP6ISQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60323950/%E7%BE%8E%E8%B2%BF%E6%98%93%E5%B0%88%E5%93%A1-%E5%90%84%E5%9C%8B%E9%A0%88%E9%81%B5%E5%AE%88%E5%B7%B2%E9%81%94%E6%88%90%E7%9A%84%E8%B2%BF%E6%98%93%E5%8D%94%E8%AD%B0-%E9%83%A8%E4%BB%BD%E5%9C%8B%E5%AE%B6%E7%A8%85%E7%8E%87%E9%AB%98%E6%96%BC15",
     "timestamp": "2026-02-21T23:57:42.879Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "英超｜曼城2:1擊敗紐卡素　僅落後阿仙奴2分　奧萊利梅開二度",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260222/1102127783166873600136905.jpeg/WsCVcTYm1mwFWr481LmnqZ--XkMzxaJ3NLY48TS2OPE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60323948/%E8%8B%B1%E8%B6%85-%E6%9B%BC%E5%9F%8E2-1%E6%93%8A%E6%95%97%E7%B4%90%E5%8D%A1%E7%B4%A0-%E5%83%85%E8%90%BD%E5%BE%8C%E9%98%BF%E4%BB%99%E5%A5%B42%E5%88%86-%E5%A5%A7%E8%90%8A%E5%88%A9%E6%A2%85%E9%96%8B%E4%BA%8C%E5%BA%A6",
-    "timestamp": "2026-02-21T23:15:29.404Z",
     "strategy": ".content-card__main"
   }
 ];
