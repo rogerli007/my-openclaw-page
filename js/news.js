@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-22T21:58:39.548Z
+// Last updated: 2026-02-22T22:31:22.944Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "人日天氣｜今早局部地區能見度頗低　晚有一兩陣微雨　最高24度",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260223/1102487216195768320795146.jpeg/TZXHcTPaceLOygzAFq0YYkACU_lP8_WaV7DGR1ewxkc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60324107/%E4%BA%BA%E6%97%A5%E5%A4%A9%E6%B0%A3-%E4%BB%8A%E6%97%A9%E5%B1%80%E9%83%A8%E5%9C%B0%E5%8D%80%E8%83%BD%E8%A6%8B%E5%BA%A6%E9%A0%97%E4%BD%8E-%E6%99%9A%E6%9C%89%E4%B8%80%E5%85%A9%E9%99%A3%E5%BE%AE%E9%9B%A8-%E6%9C%80%E9%AB%9824%E5%BA%A6",
+    "timestamp": "2026-02-22T22:31:22.944Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "墨西哥毒梟遭軍事突襲亡　販毒集團報復釀多州騷亂　槍手闖機場",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260105/1084913941940801536178069.jpeg/pjnMszoa8QZL_CmwznB5UwVFsP7upd1FnY0dXp2NHV4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60324084/%E6%87%89%E5%B0%8D%E6%9A%97%E6%AE%BA%E9%A2%A8%E9%9A%AA-%E5%93%88%E6%A2%85%E5%85%A7%E4%BC%8A%E6%93%9A%E5%A0%B1%E5%AF%86%E4%BB%A4%E5%A7%94%E4%BB%BB-%E4%BA%8B%E5%AF%A6%E4%B8%8A%E7%B8%BD%E7%B5%B1-%E5%8F%8A%E6%A0%B8%E5%BF%83%E6%B1%BA%E7%AD%96%E5%9C%88",
     "timestamp": "2026-02-22T14:18:16.211Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "「聲夢小花」轉眼29歲透視裝衝擊視覺　為唱好一首歌練習100次",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260222/1102313673675771904074618.png/Bt4MwV3u1_Vy6zqyXPQHC45yzT5LGhraRPSVFET0lRQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60324061/%E8%81%B2%E5%A4%A2%E5%B0%8F%E8%8A%B1-%E9%BB%83%E6%B4%9B%E5%A6%8D%E9%80%8F%E8%A6%96%E8%A3%9D%E8%A1%9D%E6%93%8A%E8%A6%96%E8%A6%BA-%E7%82%BA%E5%94%B1%E5%A5%BD%E4%B8%80%E9%A6%96%E6%AD%8C%E7%B7%B4%E7%BF%92100%E6%AC%A1",
-    "timestamp": "2026-02-22T13:38:40.586Z",
     "strategy": ".content-card__main"
   }
 ];
