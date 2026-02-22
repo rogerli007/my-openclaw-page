@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-22T07:10:13.107Z
+// Last updated: 2026-02-22T08:54:08.298Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "日本與美國磋商加強同盟　應對中俄核威脅",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20251026/1058960326466211840672180.jpeg/zsnqe9wtXw1VZo4QeQuMnwN8y6xKAkh_2kLuVNpC7lQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60324023/%E6%97%A5%E6%9C%AC%E8%88%87%E7%BE%8E%E5%9C%8B%E7%A3%8B%E5%95%86%E5%8A%A0%E5%BC%B7%E5%90%8C%E7%9B%9F-%E6%87%89%E5%B0%8D%E4%B8%AD%E4%BF%84%E6%A0%B8%E5%A8%81%E8%84%85",
+    "timestamp": "2026-02-22T08:54:08.298Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "廚房滅蟲｜排水孔有蟑螂爬出油污是元兇？ 網友靠1神器杜絕蟲害",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260221/1101706802199793664921473.jpeg/0OhhrtpeBgl9et8rOM96dzKJMEWWzsURoVhx1qFYcdY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60323938/%E7%89%B9%E6%9C%97%E6%99%AE-%E4%B8%8A%E8%AA%BF%E6%96%B0%E4%B8%80%E8%BC%AA%E5%85%A8%E7%90%83%E9%97%9C%E7%A8%85%E7%A8%85%E7%8E%87%E8%87%B315",
     "timestamp": "2026-02-21T16:50:35.952Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普：上調新一輪全球關稅稅率至15%",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260221/1101706802199793664921473.jpeg/0OhhrtpeBgl9et8rOM96dzKJMEWWzsURoVhx1qFYcdY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60323938/%E7%89%B9%E6%9C%97%E6%99%AE-%E4%B8%8A%E8%AA%BF%E6%96%B0%E4%B8%80%E8%BC%AA%E5%85%A8%E7%90%83%E9%97%9C%E7%A8%85%E7%A8%85%E7%8E%87%E8%87%B315",
-    "timestamp": "2026-02-21T16:31:27.293Z",
     "strategy": ".content-card__main"
   }
 ];
