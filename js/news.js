@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-22T21:46:45.716Z
+// Last updated: 2026-02-22T21:58:39.548Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "墨西哥毒梟遭軍事突襲亡　販毒集團報復釀多州騷亂　槍手闖機場",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260223/1102475626582904832057461.jpeg/SI9OtSYt_2wpissz45ESFY77O-6lqa7UAOM48wDjOPM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60324120/%E5%A2%A8%E8%A5%BF%E5%93%A5%E6%AF%92%E6%A2%9F%E9%81%AD%E8%BB%8D%E4%BA%8B%E7%AA%81%E8%A5%B2%E4%BA%A1-%E8%B2%A9%E6%AF%92%E9%9B%86%E5%9C%98%E5%A0%B1%E5%BE%A9%E9%87%80%E5%A4%9A%E5%B7%9E%E9%A8%B7%E4%BA%82-%E6%A7%8D%E6%89%8B%E9%97%96%E6%A9%9F%E5%A0%B4",
+    "timestamp": "2026-02-22T21:58:39.548Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "莫斯科多個機場暫停航班升降　稱因烏克蘭無人機襲擊",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260222/1102313673675771904074618.png/Bt4MwV3u1_Vy6zqyXPQHC45yzT5LGhraRPSVFET0lRQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60324061/%E8%81%B2%E5%A4%A2%E5%B0%8F%E8%8A%B1-%E9%BB%83%E6%B4%9B%E5%A6%8D%E9%80%8F%E8%A6%96%E8%A3%9D%E8%A1%9D%E6%93%8A%E8%A6%96%E8%A6%BA-%E7%82%BA%E5%94%B1%E5%A5%BD%E4%B8%80%E9%A6%96%E6%AD%8C%E7%B7%B4%E7%BF%92100%E6%AC%A1",
     "timestamp": "2026-02-22T13:38:40.586Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "跑步︱黃卓寧無心插柳突破240　大阪馬拉松又熱又曬成歷來第五人",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260222/1102309783051964416503748.jpeg/C2pxVe6vcWHcrbv9MCprYvz89vA9Ik7Vh3gBpId4AaQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B7%91%E6%AD%A5/60324051/%E8%B7%91%E6%AD%A5-%E9%BB%83%E5%8D%93%E5%AF%A7%E7%84%A1%E5%BF%83%E6%8F%92%E6%9F%B3%E7%AA%81%E7%A0%B4240-%E5%A4%A7%E9%98%AA%E9%A6%AC%E6%8B%89%E6%9D%BE%E5%8F%88%E7%86%B1%E5%8F%88%E6%9B%AC%E6%88%90%E6%AD%B7%E4%BE%86%E7%AC%AC%E4%BA%94%E4%BA%BA",
-    "timestamp": "2026-02-22T12:38:35.526Z",
     "strategy": ".content-card__main"
   }
 ];
