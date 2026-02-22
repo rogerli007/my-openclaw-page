@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-22T14:35:29.148Z
+// Last updated: 2026-02-22T14:51:12.604Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "港產片千禧女神旗袍賀年揉合中西美感　超模身型25年不變輕鬆駕馭",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260222/1102363891691687936409723.jpeg/a7mCqhufzcXJ1wO_lhFLPFPAb4KdT7WZTkke5U5JHuU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60324064/%E6%B8%AF%E7%94%A2%E7%89%87%E5%8D%83%E7%A6%A7%E5%A5%B3%E7%A5%9E%E6%97%97%E8%A2%8D%E8%B3%80%E5%B9%B4%E6%8F%89%E5%90%88%E4%B8%AD%E8%A5%BF%E7%BE%8E%E6%84%9F-%E8%B6%85%E6%A8%A1%E8%BA%AB%E5%9E%8B25%E5%B9%B4%E4%B8%8D%E8%AE%8A%E8%BC%95%E9%AC%86%E9%A7%95%E9%A6%AD",
+    "timestamp": "2026-02-22T14:51:12.604Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "日本舉辦「竹島日」活動　韓國政府強烈抗議",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260222/1102127783166873600136905.jpeg/WsCVcTYm1mwFWr481LmnqZ--XkMzxaJ3NLY48TS2OPE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60323948/%E8%8B%B1%E8%B6%85-%E6%9B%BC%E5%9F%8E2-1%E6%93%8A%E6%95%97%E7%B4%90%E5%8D%A1%E7%B4%A0-%E5%83%85%E8%90%BD%E5%BE%8C%E9%98%BF%E4%BB%99%E5%A5%B42%E5%88%86-%E5%A5%A7%E8%90%8A%E5%88%A9%E6%A2%85%E9%96%8B%E4%BA%8C%E5%BA%A6",
     "timestamp": "2026-02-21T23:01:36.893Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "英超｜曼城2:1擊敗紐卡素　僅落後阿仙奴2分　奧萊利梅開二度",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260222/1102127783166873600136905.jpeg/WsCVcTYm1mwFWr481LmnqZ--XkMzxaJ3NLY48TS2OPE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60323948/%E8%8B%B1%E8%B6%85-%E6%9B%BC%E5%9F%8E2-1%E6%93%8A%E6%95%97%E7%B4%90%E5%8D%A1%E7%B4%A0-%E5%83%85%E8%90%BD%E5%BE%8C%E9%98%BF%E4%BB%99%E5%A5%B42%E5%88%86-%E5%A5%A7%E8%90%8A%E5%88%A9%E6%A2%85%E9%96%8B%E4%BA%8C%E5%BA%A6",
-    "timestamp": "2026-02-21T22:53:05.196Z",
     "strategy": ".content-card__main"
   }
 ];
