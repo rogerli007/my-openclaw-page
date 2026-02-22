@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-22T22:31:22.944Z
+// Last updated: 2026-02-22T22:48:17.692Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "上水倉庫幼犬困籠斷尾受傷　愛護動物協會帶走照顧　警拘65歲倉主",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260223/1102491880697892864174608.jpeg/rj_WBJmfNbKswRdIEisPd5qvKrhvaLNK9SO4zPUjuMw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60324122/%E4%B8%8A%E6%B0%B4%E5%80%89%E5%BA%AB%E5%B9%BC%E7%8A%AC%E5%9B%B0%E7%B1%A0%E6%96%B7%E5%B0%BE%E5%8F%97%E5%82%B7-%E6%84%9B%E8%AD%B7%E5%8B%95%E7%89%A9%E5%8D%94%E6%9C%83%E5%B8%B6%E8%B5%B0%E7%85%A7%E9%A1%A7-%E8%AD%A6%E6%8B%9865%E6%AD%B2%E5%80%89%E4%B8%BB",
+    "timestamp": "2026-02-22T22:48:17.692Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "人日天氣｜今早局部地區能見度頗低　晚有一兩陣微雨　最高24度",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260222/1102354213754638336728654.jpeg/de0yF27SMPydfZHOjuBBvg6XVZSSBWz3LSizJS0osyU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60324086/%E6%97%A5%E6%9C%AC%E8%88%89%E8%BE%A6-%E7%AB%B9%E5%B3%B6%E6%97%A5-%E6%B4%BB%E5%8B%95-%E9%9F%93%E5%9C%8B%E6%94%BF%E5%BA%9C%E5%BC%B7%E7%83%88%E6%8A%97%E8%AD%B0",
     "timestamp": "2026-02-22T14:35:29.148Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "應對暗殺風險　哈梅內伊據報密令委任「事實上總統」及核心決策圈",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260105/1084913941940801536178069.jpeg/pjnMszoa8QZL_CmwznB5UwVFsP7upd1FnY0dXp2NHV4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60324084/%E6%87%89%E5%B0%8D%E6%9A%97%E6%AE%BA%E9%A2%A8%E9%9A%AA-%E5%93%88%E6%A2%85%E5%85%A7%E4%BC%8A%E6%93%9A%E5%A0%B1%E5%AF%86%E4%BB%A4%E5%A7%94%E4%BB%BB-%E4%BA%8B%E5%AF%A6%E4%B8%8A%E7%B8%BD%E7%B5%B1-%E5%8F%8A%E6%A0%B8%E5%BF%83%E6%B1%BA%E7%AD%96%E5%9C%88",
-    "timestamp": "2026-02-22T14:18:16.211Z",
     "strategy": ".content-card__main"
   }
 ];
