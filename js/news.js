@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-22T16:32:24.494Z
+// Last updated: 2026-02-22T17:15:35.675Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "冬奧︱谷愛凌奪金後得悉外婆離世　記者會上哭說「昨晚才夢到她」",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260222/1102381665096830976671359.jpeg/Gt5HNhGtqDB9TNwVr4iyTqk0xOsktUKMKjzB8Co8wfA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60324099/%E5%86%AC%E5%A5%A7-%E8%B0%B7%E6%84%9B%E5%87%8C%E5%A5%AA%E9%87%91%E5%BE%8C%E5%BE%97%E6%82%89%E5%A4%96%E5%A9%86%E9%9B%A2%E4%B8%96-%E8%A8%98%E8%80%85%E6%9C%83%E4%B8%8A%E5%93%AD%E8%AA%AA-%E6%98%A8%E6%99%9A%E6%89%8D%E5%A4%A2%E5%88%B0%E5%A5%B9",
+    "timestamp": "2026-02-22T17:15:35.675Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "東京晴空塔電梯急墜　約20人受困至凌晨仍待救",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20251028/1059911319680978944325904.jpeg/IPEXIwqnkP-XEOEkJ6gwwstF-FeY6TExBGJcACFiXAA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60324001/%E9%9C%B2%E7%87%9F%E4%BA%82%E8%B1%A1-%E6%B1%9F%E7%8E%89%E6%AD%A1-%E9%81%8A%E4%BA%BA%E9%9A%A8%E5%9C%B0%E6%A3%84%E5%9E%83%E5%9C%BE%E6%9C%89%E5%86%87%E7%BD%B0-%E6%B8%AF%E4%BA%BA%E5%BC%84%E9%AB%92%E7%87%9F%E5%9C%B0%E7%BD%B0%E4%B8%80%E8%90%AC",
     "timestamp": "2026-02-22T06:35:22.329Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "泰國清邁72隻圈養老虎死亡　疑爆發高度傳染病毒",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20240401/851573131394289664605391.jpeg/QjUB1Tr2wtmRR8YHLMJE8IW7ayaAb3E6TmiLVU5oi1U?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60323980/%E6%B3%B0%E5%9C%8B%E6%B8%85%E9%82%8172%E9%9A%BB%E5%9C%88%E9%A4%8A%E8%80%81%E8%99%8E%E6%AD%BB%E4%BA%A1-%E7%96%91%E7%88%86%E7%99%BC%E9%AB%98%E5%BA%A6%E5%82%B3%E6%9F%93%E7%97%85%E6%AF%92",
-    "timestamp": "2026-02-22T04:23:12.403Z",
     "strategy": ".content-card__main"
   }
 ];
