@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-22T12:38:35.526Z
+// Last updated: 2026-02-22T13:38:40.586Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "「聲夢小花」轉眼29歲透視裝衝擊視覺　為唱好一首歌練習100次",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260222/1102313673675771904074618.png/Bt4MwV3u1_Vy6zqyXPQHC45yzT5LGhraRPSVFET0lRQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60324061/%E8%81%B2%E5%A4%A2%E5%B0%8F%E8%8A%B1-%E9%BB%83%E6%B4%9B%E5%A6%8D%E9%80%8F%E8%A6%96%E8%A3%9D%E8%A1%9D%E6%93%8A%E8%A6%96%E8%A6%BA-%E7%82%BA%E5%94%B1%E5%A5%BD%E4%B8%80%E9%A6%96%E6%AD%8C%E7%B7%B4%E7%BF%92100%E6%AC%A1",
+    "timestamp": "2026-02-22T13:38:40.586Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "跑步︱黃卓寧無心插柳突破240　大阪馬拉松又熱又曬成歷來第五人",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260222/1102096012807245824172430.jpeg/yIAaWwed-mW4v-J9DDER97WOZAGEtUihPMQ_QTzEP0E?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60323946/%E9%8C%A6%E4%B8%8A%E8%B7%AF%E5%85%A9%E7%A7%81%E5%AE%B6%E8%BB%8A%E8%BF%8E%E9%A0%AD%E6%92%9E-%E5%85%A9%E5%8F%B8%E6%A9%9F%E5%8F%97%E5%82%B7%E9%80%81%E9%99%A2-%E7%8F%BE%E5%A0%B4%E4%BA%A4%E9%80%9A%E4%B8%80%E5%BA%A6%E5%8F%97%E9%98%BB",
     "timestamp": "2026-02-21T20:51:39.212Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普關稅案敗訴　原告酒商為本案飽受滋擾　歡迎裁決開佳釀慶祝",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260222/1102082248145899520948510.jpeg/JdrHqs87bx-R0fqXMLN8aNO5Gjt8oQbThWqrfoVqq34?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60323944/%E7%89%B9%E6%9C%97%E6%99%AE%E9%97%9C%E7%A8%85%E6%A1%88%E6%95%97%E8%A8%B4-%E5%8E%9F%E5%91%8A%E9%85%92%E5%95%86%E7%82%BA%E6%9C%AC%E6%A1%88%E9%A3%BD%E5%8F%97%E6%BB%8B%E6%93%BE-%E6%AD%A1%E8%BF%8E%E8%A3%81%E6%B1%BA%E9%96%8B%E4%BD%B3%E9%87%80%E6%85%B6%E7%A5%9D",
-    "timestamp": "2026-02-21T20:31:08.175Z",
     "strategy": ".content-card__main"
   }
 ];
