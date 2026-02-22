@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-22T08:54:08.298Z
+// Last updated: 2026-02-22T09:17:03.669Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "「關稅之王」 的任性　特朗普還有甚麼招？",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260221/1101706802199793664921473.jpeg/0OhhrtpeBgl9et8rOM96dzKJMEWWzsURoVhx1qFYcdY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%9C%8B%E9%9A%9B%E5%88%86%E6%9E%90/60324046/%E9%97%9C%E7%A8%85%E4%B9%8B%E7%8E%8B-%E7%9A%84%E4%BB%BB%E6%80%A7-%E7%89%B9%E6%9C%97%E6%99%AE%E9%82%84%E6%9C%89%E7%94%9A%E9%BA%BC%E6%8B%9B",
+    "timestamp": "2026-02-22T09:17:03.669Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "日本與美國磋商加強同盟　應對中俄核威脅",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260222/1102043043533426688703419.jpeg/TWAUot1lyqKftQjWm88NXLf0GCI4xFeMvv-ARL7_gEQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60323940/%E8%8B%B1%E8%B6%85-%E8%BB%8A%E8%B7%AF%E5%A3%AB1-1%E5%92%8C%E8%88%AC%E5%B0%BC%E5%8D%87%E4%B8%8A%E7%AC%AC%E5%9B%9B-%E7%99%BD%E7%A6%AE%E9%A0%93%E4%BD%9C%E5%AE%A22-0%E6%8C%AB%E8%B3%93%E7%A6%8F%E7%89%B9",
     "timestamp": "2026-02-21T17:31:52.698Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普：上調新一輪全球關稅稅率至15%",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260221/1101706802199793664921473.jpeg/0OhhrtpeBgl9et8rOM96dzKJMEWWzsURoVhx1qFYcdY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60323938/%E7%89%B9%E6%9C%97%E6%99%AE-%E4%B8%8A%E8%AA%BF%E6%96%B0%E4%B8%80%E8%BC%AA%E5%85%A8%E7%90%83%E9%97%9C%E7%A8%85%E7%A8%85%E7%8E%87%E8%87%B315",
-    "timestamp": "2026-02-21T16:50:35.952Z",
     "strategy": ".content-card__main"
   }
 ];
