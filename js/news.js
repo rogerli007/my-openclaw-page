@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-22T09:52:34.917Z
+// Last updated: 2026-02-22T10:14:22.421Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "鍾柔美拒認劉展霆係男友！　狠心降級關係生變：退返去朋友",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260222/1102292115133566976756249.jpeg/J3u-KGHzOxfdr16f6DK8DyCjFNGxwbQwrhZeOK4WXjg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60324040/%E9%8D%BE%E6%9F%94%E7%BE%8E%E6%8B%92%E8%AA%8D%E5%8A%89%E5%B1%95%E9%9C%86%E4%BF%82%E7%94%B7%E5%8F%8B-%E7%8B%A0%E5%BF%83%E9%99%8D%E7%B4%9A%E9%97%9C%E4%BF%82%E7%94%9F%E8%AE%8A-%E9%80%80%E8%BF%94%E5%8E%BB%E6%9C%8B%E5%8F%8B",
+    "timestamp": "2026-02-22T10:14:22.421Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "陳凱琳搭飛機坐經濟艙一人霸三個位　竟享有呢項服務獲優待惹羨慕",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260222/1102043043533426688703419.jpeg/TWAUot1lyqKftQjWm88NXLf0GCI4xFeMvv-ARL7_gEQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60323940/%E8%8B%B1%E8%B6%85-%E8%BB%8A%E8%B7%AF%E5%A3%AB1-1%E5%92%8C%E8%88%AC%E5%B0%BC%E5%8D%87%E4%B8%8A%E7%AC%AC%E5%9B%9B-%E7%99%BD%E7%A6%AE%E9%A0%93%E4%BD%9C%E5%AE%A22-0%E6%8C%AB%E8%B3%93%E7%A6%8F%E7%89%B9",
     "timestamp": "2026-02-21T18:36:01.906Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "英超｜車路士1:1和般尼升上第四　白禮頓作客2:0挫賓福特",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260222/1102043043533426688703419.jpeg/TWAUot1lyqKftQjWm88NXLf0GCI4xFeMvv-ARL7_gEQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60323940/%E8%8B%B1%E8%B6%85-%E8%BB%8A%E8%B7%AF%E5%A3%AB1-1%E5%92%8C%E8%88%AC%E5%B0%BC%E5%8D%87%E4%B8%8A%E7%AC%AC%E5%9B%9B-%E7%99%BD%E7%A6%AE%E9%A0%93%E4%BD%9C%E5%AE%A22-0%E6%8C%AB%E8%B3%93%E7%A6%8F%E7%89%B9",
-    "timestamp": "2026-02-21T18:17:52.642Z",
     "strategy": ".content-card__main"
   }
 ];
