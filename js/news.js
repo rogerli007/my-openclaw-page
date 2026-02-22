@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-22T10:14:22.421Z
+// Last updated: 2026-02-22T11:01:46.453Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "赤柱Tesla撞欄剷行人路　車頭毀爛變廢鐵",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260222/1102302713753899008532408.jpeg/jkt-NaFMFF72z5ahYMw3MF6d0kXj9-p9IqHJDSKhyQ0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60324057/%E8%B5%A4%E6%9F%B1tesla%E6%92%9E%E6%AC%84%E5%89%B7%E8%A1%8C%E4%BA%BA%E8%B7%AF-%E8%BB%8A%E9%A0%AD%E6%AF%80%E7%88%9B%E8%AE%8A%E5%BB%A2%E9%90%B5",
+    "timestamp": "2026-02-22T11:01:46.453Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "鍾柔美拒認劉展霆係男友！　狠心降級關係生變：退返去朋友",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260222/1102067054963331072916573.jpeg/mNxOvw4tnXJ71HPoeWKU7ehgV098E2C9bE8DsGxPA7A?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60323942/%E6%9C%AC%E6%B8%AF%E5%A4%9A%E8%99%95%E7%96%91%E4%B8%80%E5%BA%A6%E9%9B%BB%E5%A3%93%E9%A9%9F%E9%99%8D-%E5%A4%9A%E5%AE%97%E8%AD%A6%E9%90%98%E9%9F%BF%E5%92%8C%E5%9B%B0%F0%A8%8B%A2%E5%A0%B1%E5%91%8A-%E7%B6%B2%E6%B0%91-%E7%87%88%E9%96%83%E5%92%97%E4%B8%8B",
     "timestamp": "2026-02-21T19:02:44.747Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "英超｜車路士1:1和般尼升上第四　白禮頓作客2:0挫賓福特",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260222/1102043043533426688703419.jpeg/TWAUot1lyqKftQjWm88NXLf0GCI4xFeMvv-ARL7_gEQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60323940/%E8%8B%B1%E8%B6%85-%E8%BB%8A%E8%B7%AF%E5%A3%AB1-1%E5%92%8C%E8%88%AC%E5%B0%BC%E5%8D%87%E4%B8%8A%E7%AC%AC%E5%9B%9B-%E7%99%BD%E7%A6%AE%E9%A0%93%E4%BD%9C%E5%AE%A22-0%E6%8C%AB%E8%B3%93%E7%A6%8F%E7%89%B9",
-    "timestamp": "2026-02-21T18:36:01.906Z",
     "strategy": ".content-card__main"
   }
 ];
