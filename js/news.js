@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-22T17:48:27.360Z
+// Last updated: 2026-02-22T18:00:58.496Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "馬來西亞附近海域7.1級地震　未發海嘯預警",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260223/1102417224607469568158492.jpeg/u8CH12CYlv3L7EnDhUk-wgeDznymSgeevTERY70xEWM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60324109/%E9%A6%AC%E4%BE%86%E8%A5%BF%E4%BA%9E%E9%99%84%E8%BF%91%E6%B5%B7%E5%9F%9F7-1%E7%B4%9A%E5%9C%B0%E9%9C%87-%E6%9C%AA%E7%99%BC%E6%B5%B7%E5%98%AF%E9%A0%90%E8%AD%A6",
+    "timestamp": "2026-02-22T18:00:58.496Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "婆羅洲北部沿海6.8級地震　未發海嘯預警",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20251026/1058960326466211840672180.jpeg/zsnqe9wtXw1VZo4QeQuMnwN8y6xKAkh_2kLuVNpC7lQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60324023/%E6%97%A5%E6%9C%AC%E8%88%87%E7%BE%8E%E5%9C%8B%E7%A3%8B%E5%95%86%E5%8A%A0%E5%BC%B7%E5%90%8C%E7%9B%9F-%E6%87%89%E5%B0%8D%E4%B8%AD%E4%BF%84%E6%A0%B8%E5%A8%81%E8%84%85",
     "timestamp": "2026-02-22T08:54:08.298Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "廚房滅蟲｜排水孔有蟑螂爬出油污是元兇？ 網友靠1神器杜絕蟲害",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260220/1101593585926541312078543.jpeg/1SlLizKr6RMG2U8yjjc9rAk9z5rn4fdI-IkpZviJKWY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60307777/%E5%BB%9A%E6%88%BF%E6%BB%85%E8%9F%B2-%E6%8E%92%E6%B0%B4%E5%AD%94%E6%9C%89%E8%9F%91%E8%9E%82%E7%88%AC%E5%87%BA%E6%B2%B9%E6%B1%A1%E6%98%AF%E5%85%83%E5%85%87-%E7%B6%B2%E5%8F%8B%E9%9D%A01%E7%A5%9E%E5%99%A8%E6%9D%9C%E7%B5%95%E8%9F%B2%E5%AE%B3",
-    "timestamp": "2026-02-22T07:10:13.107Z",
     "strategy": ".content-card__main"
   }
 ];
