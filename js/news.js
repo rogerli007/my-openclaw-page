@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-22T12:20:11.742Z
+// Last updated: 2026-02-22T12:38:35.526Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "跑步︱黃卓寧無心插柳突破240　大阪馬拉松又熱又曬成歷來第五人",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260222/1102309783051964416503748.jpeg/C2pxVe6vcWHcrbv9MCprYvz89vA9Ik7Vh3gBpId4AaQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B7%91%E6%AD%A5/60324051/%E8%B7%91%E6%AD%A5-%E9%BB%83%E5%8D%93%E5%AF%A7%E7%84%A1%E5%BF%83%E6%8F%92%E6%9F%B3%E7%AA%81%E7%A0%B4240-%E5%A4%A7%E9%98%AA%E9%A6%AC%E6%8B%89%E6%9D%BE%E5%8F%88%E7%86%B1%E5%8F%88%E6%9B%AC%E6%88%90%E6%AD%B7%E4%BE%86%E7%AC%AC%E4%BA%94%E4%BA%BA",
+    "timestamp": "2026-02-22T12:38:35.526Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "落馬洲疑毒狗｜年初六再尋獲狗屍　好心人用挖泥機助清雜草植被",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260222/1102082248145899520948510.jpeg/JdrHqs87bx-R0fqXMLN8aNO5Gjt8oQbThWqrfoVqq34?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60323944/%E7%89%B9%E6%9C%97%E6%99%AE%E9%97%9C%E7%A8%85%E6%A1%88%E6%95%97%E8%A8%B4-%E5%8E%9F%E5%91%8A%E9%85%92%E5%95%86%E7%82%BA%E6%9C%AC%E6%A1%88%E9%A3%BD%E5%8F%97%E6%BB%8B%E6%93%BE-%E6%AD%A1%E8%BF%8E%E8%A3%81%E6%B1%BA%E9%96%8B%E4%BD%B3%E9%87%80%E6%85%B6%E7%A5%9D",
     "timestamp": "2026-02-21T20:31:08.175Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普關稅案敗訴　原告酒商為本案飽受滋擾　歡迎裁決開佳釀慶祝",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260222/1102082248145899520948510.jpeg/JdrHqs87bx-R0fqXMLN8aNO5Gjt8oQbThWqrfoVqq34?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60323944/%E7%89%B9%E6%9C%97%E6%99%AE%E9%97%9C%E7%A8%85%E6%A1%88%E6%95%97%E8%A8%B4-%E5%8E%9F%E5%91%8A%E9%85%92%E5%95%86%E7%82%BA%E6%9C%AC%E6%A1%88%E9%A3%BD%E5%8F%97%E6%BB%8B%E6%93%BE-%E6%AD%A1%E8%BF%8E%E8%A3%81%E6%B1%BA%E9%96%8B%E4%BD%B3%E9%87%80%E6%85%B6%E7%A5%9D",
-    "timestamp": "2026-02-21T20:13:06.165Z",
     "strategy": ".content-card__main"
   }
 ];
