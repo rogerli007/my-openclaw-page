@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-22T21:01:21.583Z
+// Last updated: 2026-02-22T21:15:39.881Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "阿曼：美伊26日再次瑞士談判　伊朗外長：核問題仍可能外交解決",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260110/1086559302958714880957602.jpeg/KmbjUezCJBGuLYeoE3gpav-NntLBVpS22OVpSNjlaUg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60324108/%E9%98%BF%E6%9B%BC-%E7%BE%8E%E4%BC%8A26%E6%97%A5%E5%86%8D%E6%AC%A1%E7%91%9E%E5%A3%AB%E8%AB%87%E5%88%A4-%E4%BC%8A%E6%9C%97%E5%A4%96%E9%95%B7-%E6%A0%B8%E5%95%8F%E9%A1%8C%E4%BB%8D%E5%8F%AF%E8%83%BD%E5%A4%96%E4%BA%A4%E8%A7%A3%E6%B1%BA",
+    "timestamp": "2026-02-22T21:15:39.881Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "阿曼：美伊26日再次瑞士談判　伊朗外長：核問題仍可能外交解決",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260222/1102254975053991936381975.png/idgmYZuCFQuXplXZylb6uXgNFu-M78cxec5-W3nOfls",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60323962/%E5%B0%8F%E5%B7%B4%E5%8F%B8%E6%A9%9F%E6%B4%BE%E5%88%A9%E5%B8%82%E7%B5%A6%E9%81%8A%E5%AE%A2-%E5%8F%B0%E5%A5%B3%E7%94%9F%E4%BE%86%E6%B8%AF%E7%9C%8B%E6%96%B0%E5%B9%B4%E7%85%99%E8%8A%B1%E6%84%9F%E5%8B%95%E5%91%BC-%E9%80%99%E8%B6%9F%E5%BE%88%E9%9B%A3%E5%BF%98",
     "timestamp": "2026-02-22T11:14:35.720Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "赤柱Tesla撞欄剷行人路　車頭毀爛變廢鐵",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260222/1102302713753899008532408.jpeg/jkt-NaFMFF72z5ahYMw3MF6d0kXj9-p9IqHJDSKhyQ0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60324057/%E8%B5%A4%E6%9F%B1tesla%E6%92%9E%E6%AC%84%E5%89%B7%E8%A1%8C%E4%BA%BA%E8%B7%AF-%E8%BB%8A%E9%A0%AD%E6%AF%80%E7%88%9B%E8%AE%8A%E5%BB%A2%E9%90%B5",
-    "timestamp": "2026-02-22T11:01:46.453Z",
     "strategy": ".content-card__main"
   }
 ];
