@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-22T19:02:40.587Z
+// Last updated: 2026-02-22T19:18:59.422Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "英超｜阿仙奴作客4：1勝熱刺　伊斯及基奧基尼斯各入兩球",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260223/1102434098938384384836251.jpeg/dVQqWJ2L336Cufo67aPopHSFHXpzqiTh87tedvO7XnY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60324115/%E8%8B%B1%E8%B6%85-%E9%98%BF%E4%BB%99%E5%A5%B4%E4%BD%9C%E5%AE%A24-1%E5%8B%9D%E7%86%B1%E5%88%BA-%E4%BC%8A%E6%96%AF%E5%8F%8A%E5%9F%BA%E5%A5%A7%E5%9F%BA%E5%B0%BC%E6%96%AF%E5%90%84%E5%85%A5%E5%85%A9%E7%90%83",
+    "timestamp": "2026-02-22T19:18:59.422Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "英超｜阿仙奴作客4：1勝熱刺　伊斯及基奧基尼斯各入兩球",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260222/1102265972581994496701953.jpeg/u1f34_Tlw6GCuNw-5jNH-8dWTwyO9pDNpKWT-6Slk_s?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60324006/%E9%99%B3%E5%87%B1%E7%90%B3%E6%90%AD%E9%A3%9B%E6%A9%9F%E5%9D%90%E7%B6%93%E6%BF%9F%E8%89%99%E4%B8%80%E4%BA%BA%E9%9C%B8%E4%B8%89%E5%80%8B%E4%BD%8D-%E7%AB%9F%E4%BA%AB%E6%9C%89%E5%91%A2%E9%A0%85%E6%9C%8D%E5%8B%99%E7%8D%B2%E5%84%AA%E5%BE%85%E6%83%B9%E7%BE%A8%E6%85%95",
     "timestamp": "2026-02-22T09:52:34.917Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "「關稅之王」 的任性　特朗普還有甚麼招？",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260221/1101706802199793664921473.jpeg/0OhhrtpeBgl9et8rOM96dzKJMEWWzsURoVhx1qFYcdY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%9C%8B%E9%9A%9B%E5%88%86%E6%9E%90/60324046/%E9%97%9C%E7%A8%85%E4%B9%8B%E7%8E%8B-%E7%9A%84%E4%BB%BB%E6%80%A7-%E7%89%B9%E6%9C%97%E6%99%AE%E9%82%84%E6%9C%89%E7%94%9A%E9%BA%BC%E6%8B%9B",
-    "timestamp": "2026-02-22T09:17:03.669Z",
     "strategy": ".content-card__main"
   }
 ];
