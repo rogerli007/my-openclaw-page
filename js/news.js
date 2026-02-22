@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-22T04:23:12.403Z
+// Last updated: 2026-02-22T06:35:22.329Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "露營亂象｜江玉歡：遊人隨地棄垃圾有冇罰？港人弄髒營地罰一萬",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20251028/1059911319680978944325904.jpeg/IPEXIwqnkP-XEOEkJ6gwwstF-FeY6TExBGJcACFiXAA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60324001/%E9%9C%B2%E7%87%9F%E4%BA%82%E8%B1%A1-%E6%B1%9F%E7%8E%89%E6%AD%A1-%E9%81%8A%E4%BA%BA%E9%9A%A8%E5%9C%B0%E6%A3%84%E5%9E%83%E5%9C%BE%E6%9C%89%E5%86%87%E7%BD%B0-%E6%B8%AF%E4%BA%BA%E5%BC%84%E9%AB%92%E7%87%9F%E5%9C%B0%E7%BD%B0%E4%B8%80%E8%90%AC",
+    "timestamp": "2026-02-22T06:35:22.329Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "泰國清邁72隻圈養老虎死亡　疑爆發高度傳染病毒",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260220/1101587038450225152956418.jpeg/lbC1ErT2FMkWvMimUTfZoEeVTF7xIEDy1mXCJNZlwiQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60323592/%E5%AF%B6%E5%8F%AF%E5%A4%A2fans%E6%89%93%E9%80%A0%E6%9C%AB%E6%97%A5%E5%84%B2%E5%82%99%E7%AE%B1-gameboy%E8%B5%B7%E5%85%A8%E4%B8%96%E4%BB%A3pokemon%E9%81%8A%E6%88%B2%E4%BB%A3%E6%9B%BF%E7%B3%A7%E9%A3%9F",
     "timestamp": "2026-02-21T16:14:33.431Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "國產AI短劇搶佔熱播榜　隨著Seedance等模型進化勢令市場重新洗牌",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260216/1100087247056670720158723.jpeg/JWwpUGJeNF-1HJPOTK5r1e4UwVFU6vpdmMDGt5jAxrc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E5%A8%9B%E6%A8%82/60322148/%E5%9C%8B%E7%94%A2ai%E7%9F%AD%E5%8A%87%E6%90%B6%E4%BD%94%E7%86%B1%E6%92%AD%E6%A6%9C-%E9%9A%A8%E8%91%97seedance%E7%AD%89%E6%A8%A1%E5%9E%8B%E9%80%B2%E5%8C%96%E5%8B%A2%E4%BB%A4%E5%B8%82%E5%A0%B4%E9%87%8D%E6%96%B0%E6%B4%97%E7%89%8C",
-    "timestamp": "2026-02-21T16:02:37.863Z",
     "strategy": ".content-card__main"
   }
 ];
