@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-23T09:41:38.191Z
+// Last updated: 2026-02-23T10:12:36.690Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "傳美顏濾鏡失靈　中國美妝網紅直播突露「真面目」　秒失14萬粉絲",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260223/1102660892408942592520769.jpeg/fUr_aJmmKZaKiRFw4Hv3s5O7m8Vkm8_ERV9GtUVfRrU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60324303/%E5%82%B3%E7%BE%8E%E9%A1%8F%E6%BF%BE%E9%8F%A1%E5%A4%B1%E9%9D%88-%E4%B8%AD%E5%9C%8B%E7%BE%8E%E5%A6%9D%E7%B6%B2%E7%B4%85%E7%9B%B4%E6%92%AD%E7%AA%81%E9%9C%B2-%E7%9C%9F%E9%9D%A2%E7%9B%AE-%E7%A7%92%E5%A4%B114%E8%90%AC%E7%B2%89%E7%B5%B2",
+    "timestamp": "2026-02-23T10:12:36.690Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "行路就痛、停低就好？醫生：恐是周邊動脈阻塞 拖延治療恐需截肢",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260223/1102434098938384384836251.jpeg/dVQqWJ2L336Cufo67aPopHSFHXpzqiTh87tedvO7XnY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60324115/%E8%8B%B1%E8%B6%85-%E9%98%BF%E4%BB%99%E5%A5%B4%E4%BD%9C%E5%AE%A24-1%E5%8B%9D%E7%86%B1%E5%88%BA-%E4%BC%8A%E6%96%AF%E5%8F%8A%E5%9F%BA%E5%A5%A7%E5%9F%BA%E5%B0%BC%E6%96%AF%E5%90%84%E5%85%A5%E5%85%A9%E7%90%83",
     "timestamp": "2026-02-22T19:02:40.587Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "馬來西亞附近海域7.1級地震　未發海嘯預警",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260223/1102417224607469568158492.jpeg/u8CH12CYlv3L7EnDhUk-wgeDznymSgeevTERY70xEWM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60324109/%E9%A6%AC%E4%BE%86%E8%A5%BF%E4%BA%9E%E9%99%84%E8%BF%91%E6%B5%B7%E5%9F%9F7-1%E7%B4%9A%E5%9C%B0%E9%9C%87-%E6%9C%AA%E7%99%BC%E6%B5%B7%E5%98%AF%E9%A0%90%E8%AD%A6",
-    "timestamp": "2026-02-22T18:00:58.496Z",
     "strategy": ".content-card__main"
   }
 ];
