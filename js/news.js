@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-23T14:39:18.864Z
+// Last updated: 2026-02-23T16:08:52.670Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "鍾柔美陷「A0」風波網民批人設崩壞欠公信力　詹天文11字吐真言",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260223/1102682333808431104086742.jpeg/lvtd7yOBUQL5sexJmDZgo7YkoB_tb7Oe4fYpItv2KSI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60324344/%E9%8D%BE%E6%9F%94%E7%BE%8E%E9%99%B7-a0-%E9%A2%A8%E6%B3%A2%E7%B6%B2%E6%B0%91%E6%89%B9%E4%BA%BA%E8%A8%AD%E5%B4%A9%E5%A3%9E%E6%AC%A0%E5%85%AC%E4%BF%A1%E5%8A%9B-%E8%A9%B9%E5%A4%A9%E6%96%8711%E5%AD%97%E5%90%90%E7%9C%9F%E8%A8%80",
+    "timestamp": "2026-02-23T16:08:52.670Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "江欣燕公眾場合赤裸浸浴　露出一雙玉腿震撼地露胸？",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260223/1102475626582904832057461.jpeg/SI9OtSYt_2wpissz45ESFY77O-6lqa7UAOM48wDjOPM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60324120/%E5%A2%A8%E8%A5%BF%E5%93%A5%E6%AF%92%E6%A2%9F%E9%81%AD%E8%BB%8D%E4%BA%8B%E7%AA%81%E8%A5%B2%E4%BA%A1-%E8%B2%A9%E6%AF%92%E9%9B%86%E5%9C%98%E5%A0%B1%E5%BE%A9%E9%87%80%E5%A4%9A%E5%B7%9E%E9%A8%B7%E4%BA%82-%E6%A7%8D%E6%89%8B%E9%97%96%E6%A9%9F%E5%A0%B4",
     "timestamp": "2026-02-22T21:58:39.548Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "莫斯科多個機場暫停航班升降　稱因烏克蘭無人機襲擊",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260223/1102423105092980736385019.jpeg/511h21ssCghL9GZ7Dk5rQEP4la8ZJnTAF4CcaxeAnGs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60324114/%E8%8E%AB%E6%96%AF%E7%A7%91%E5%A4%9A%E5%80%8B%E6%A9%9F%E5%A0%B4%E6%9A%AB%E5%81%9C%E8%88%AA%E7%8F%AD%E5%8D%87%E9%99%8D-%E7%A8%B1%E5%9B%A0%E7%83%8F%E5%85%8B%E8%98%AD%E7%84%A1%E4%BA%BA%E6%A9%9F%E8%A5%B2%E6%93%8A",
-    "timestamp": "2026-02-22T21:46:45.716Z",
     "strategy": ".content-card__main"
   }
 ];
