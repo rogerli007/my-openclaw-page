@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-23T17:44:54.147Z
+// Last updated: 2026-02-23T19:46:38.427Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "巴拿馬政府頒令：撤銷長和兩港口經營權　授權由海事局接管",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20241222/947500834235617280814965.jpeg/ND2wLR0KkMn9QCX4ylNm4qlPiUKzK6p_Dw4QGA8OEBg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60324394/%E5%B7%B4%E6%8B%BF%E9%A6%AC%E6%94%BF%E5%BA%9C%E9%A0%92%E4%BB%A4-%E6%92%A4%E9%8A%B7%E9%95%B7%E5%92%8C%E5%85%A9%E6%B8%AF%E5%8F%A3%E7%B6%93%E7%87%9F%E6%AC%8A-%E6%8E%88%E6%AC%8A%E7%94%B1%E6%B5%B7%E4%BA%8B%E5%B1%80%E6%8E%A5%E7%AE%A1",
+    "timestamp": "2026-02-23T19:46:38.427Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "六旬翁大埔梧桐寨獨自行山疑失去聯絡　救援人員登山搜索",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260223/1102491880697892864174608.jpeg/rj_WBJmfNbKswRdIEisPd5qvKrhvaLNK9SO4zPUjuMw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60324122/%E4%B8%8A%E6%B0%B4%E5%80%89%E5%BA%AB%E5%B9%BC%E7%8A%AC%E5%9B%B0%E7%B1%A0%E6%96%B7%E5%B0%BE%E5%8F%97%E5%82%B7-%E6%84%9B%E8%AD%B7%E5%8B%95%E7%89%A9%E5%8D%94%E6%9C%83%E5%B8%B6%E8%B5%B0%E7%85%A7%E9%A1%A7-%E8%AD%A6%E6%8B%9865%E6%AD%B2%E5%80%89%E4%B8%BB",
     "timestamp": "2026-02-22T23:00:56.706Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "上水倉庫幼犬困籠斷尾受傷　愛護動物協會帶走照顧　警拘65歲倉主",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260223/1102491880697892864174608.jpeg/rj_WBJmfNbKswRdIEisPd5qvKrhvaLNK9SO4zPUjuMw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60324122/%E4%B8%8A%E6%B0%B4%E5%80%89%E5%BA%AB%E5%B9%BC%E7%8A%AC%E5%9B%B0%E7%B1%A0%E6%96%B7%E5%B0%BE%E5%8F%97%E5%82%B7-%E6%84%9B%E8%AD%B7%E5%8B%95%E7%89%A9%E5%8D%94%E6%9C%83%E5%B8%B6%E8%B5%B0%E7%85%A7%E9%A1%A7-%E8%AD%A6%E6%8B%9865%E6%AD%B2%E5%80%89%E4%B8%BB",
-    "timestamp": "2026-02-22T22:48:17.692Z",
     "strategy": ".content-card__main"
   }
 ];
