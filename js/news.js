@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-23T08:39:02.501Z
+// Last updated: 2026-02-23T09:10:31.577Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "安德魯被捕照羅浮宮「快閃貼堂」　諷刺團體：讓世界記住他｜有片",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260223/1102634887107579904239465.jpeg/HqszEV5YAyNxkoRMSJYKimbeOL4j_BLYsGUBwLBlAcA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60324260/%E5%AE%89%E5%BE%B7%E9%AD%AF%E8%A2%AB%E6%8D%95%E7%85%A7%E7%BE%85%E6%B5%AE%E5%AE%AE-%E5%BF%AB%E9%96%83%E8%B2%BC%E5%A0%82-%E8%AB%B7%E5%88%BA%E5%9C%98%E9%AB%94-%E8%AE%93%E4%B8%96%E7%95%8C%E8%A8%98%E4%BD%8F%E4%BB%96-%E6%9C%89%E7%89%87",
+    "timestamp": "2026-02-23T09:10:31.577Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "中年好聲音4｜「獅子王」練歌成日甩底？　一原因肯定係呢位演員",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260223/1102417224607469568158492.jpeg/u8CH12CYlv3L7EnDhUk-wgeDznymSgeevTERY70xEWM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60324109/%E5%A9%86%E7%BE%85%E6%B4%B2%E5%8C%97%E9%83%A8%E6%B2%BF%E6%B5%B76-8%E7%B4%9A%E5%9C%B0%E9%9C%87-%E6%9C%AA%E7%99%BC%E6%B5%B7%E5%98%AF%E9%A0%90%E8%AD%A6",
     "timestamp": "2026-02-22T17:48:27.360Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "冬奧︱谷愛凌奪金後得悉外婆離世　記者會上哭說「昨晚才夢到她」",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260222/1102381665096830976671359.jpeg/Gt5HNhGtqDB9TNwVr4iyTqk0xOsktUKMKjzB8Co8wfA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60324099/%E5%86%AC%E5%A5%A7-%E8%B0%B7%E6%84%9B%E5%87%8C%E5%A5%AA%E9%87%91%E5%BE%8C%E5%BE%97%E6%82%89%E5%A4%96%E5%A9%86%E9%9B%A2%E4%B8%96-%E8%A8%98%E8%80%85%E6%9C%83%E4%B8%8A%E5%93%AD%E8%AA%AA-%E6%98%A8%E6%99%9A%E6%89%8D%E5%A4%A2%E5%88%B0%E5%A5%B9",
-    "timestamp": "2026-02-22T17:15:35.675Z",
     "strategy": ".content-card__main"
   }
 ];
