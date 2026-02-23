@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-23T10:12:36.690Z
+// Last updated: 2026-02-23T11:09:59.673Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "懲教院所太熱　懲教署：增1800部風扇、室內引入隔熱膜及製冷塗層",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260223/1102647944294699008130826.jpeg/0nT9owjwqknv8vsAaWHI9grxBKQ3GRTWTzlNjk85TY4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60324261/%E6%87%B2%E6%95%99%E9%99%A2%E6%89%80%E5%A4%AA%E7%86%B1-%E6%87%B2%E6%95%99%E7%BD%B2-%E5%A2%9E1800%E9%83%A8%E9%A2%A8%E6%89%87-%E5%AE%A4%E5%85%A7%E5%BC%95%E5%85%A5%E9%9A%94%E7%86%B1%E8%86%9C%E5%8F%8A%E8%A3%BD%E5%86%B7%E5%A1%97%E5%B1%A4",
+    "timestamp": "2026-02-23T11:09:59.673Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "傳美顏濾鏡失靈　中國美妝網紅直播突露「真面目」　秒失14萬粉絲",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260223/1102434098938384384836251.jpeg/dVQqWJ2L336Cufo67aPopHSFHXpzqiTh87tedvO7XnY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60324115/%E8%8B%B1%E8%B6%85-%E9%98%BF%E4%BB%99%E5%A5%B4%E4%BD%9C%E5%AE%A24-1%E5%8B%9D%E7%86%B1%E5%88%BA-%E4%BC%8A%E6%96%AF%E5%8F%8A%E5%9F%BA%E5%A5%A7%E5%9F%BA%E5%B0%BC%E6%96%AF%E5%90%84%E5%85%A5%E5%85%A9%E7%90%83",
     "timestamp": "2026-02-22T19:18:59.422Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "英超｜阿仙奴作客4：1勝熱刺　伊斯及基奧基尼斯各入兩球",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260223/1102434098938384384836251.jpeg/dVQqWJ2L336Cufo67aPopHSFHXpzqiTh87tedvO7XnY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60324115/%E8%8B%B1%E8%B6%85-%E9%98%BF%E4%BB%99%E5%A5%B4%E4%BD%9C%E5%AE%A24-1%E5%8B%9D%E7%86%B1%E5%88%BA-%E4%BC%8A%E6%96%AF%E5%8F%8A%E5%9F%BA%E5%A5%A7%E5%9F%BA%E5%B0%BC%E6%96%AF%E5%90%84%E5%85%A5%E5%85%A9%E7%90%83",
-    "timestamp": "2026-02-22T19:02:40.587Z",
     "strategy": ".content-card__main"
   }
 ];
