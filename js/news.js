@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-23T03:46:01.282Z
+// Last updated: 2026-02-23T06:39:40.993Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "再有日本諧星追到女神　文春爆M-1冠軍「令和浪漫」成員與她熱戀",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260223/1102582880401362944351647.jpeg/KwcnVCkl_XB9w-mF8TXPX8jPXdCiwBIq95mmIveZpiI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60324188/megumi%E8%A2%AB%E7%88%86%E8%88%87%E4%BB%A4%E5%92%8C%E6%B5%AA%E6%BC%AB%E9%AB%99%E6%AF%94%E8%89%AF%E8%BB%8A%E7%86%B1%E6%88%80-%E5%89%8D%E5%A4%AB%E7%82%BAdragon-ash%E9%99%8D%E8%B0%B7%E5%BB%BA%E5%BF%97",
+    "timestamp": "2026-02-23T06:39:40.993Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "林寶堅尼棄電動超級跑車計劃　轉攻混能車",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20220914/646808720939945984613980.jpeg/T8xIWoVoFmN2jF1f6BVD9V7vysV07P_WSeLW4Eni1uA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60324102/%E5%B0%87%E8%BB%8D%E6%BE%B3%E6%99%AF%E6%9E%97%E9%82%A8%E4%BF%9D%E5%AE%89%E8%81%9E%E7%95%B0%E5%91%B3-%E6%8F%AD%E5%85%AD%E6%97%AC%E7%BF%81%E5%80%92%E6%96%83%E5%AF%93%E6%89%80",
     "timestamp": "2026-02-22T16:15:43.403Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "男子圖闖特朗普海湖莊園遭擊斃　特勤局指持槍及攜汽油桶",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260222/1102385008204582912538674.png/xcweYlweX60jNYN2fLxx_0iWRecGlbCd-4SWcPuElnA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60324100/%E7%94%B7%E5%AD%90%E5%9C%96%E9%97%96%E7%89%B9%E6%9C%97%E6%99%AE%E6%B5%B7%E6%B9%96%E8%8E%8A%E5%9C%92%E9%81%AD%E6%93%8A%E6%96%83-%E7%89%B9%E5%8B%A4%E5%B1%80%E6%8C%87%E6%8C%81%E6%A7%8D%E5%8F%8A%E6%94%9C%E6%B1%BD%E6%B2%B9%E6%A1%B6",
-    "timestamp": "2026-02-22T16:00:03.711Z",
     "strategy": ".content-card__main"
   }
 ];
