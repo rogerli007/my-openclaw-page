@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-23T09:10:31.577Z
+// Last updated: 2026-02-23T09:41:38.191Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "行路就痛、停低就好？醫生：恐是周邊動脈阻塞 拖延治療恐需截肢",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260202/1094982619218579456739206.jpeg/DHPC1lvufUF3sqL2hvfkCxCsFvufLfjnQ7fZm0O32Zs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/60317437/%E8%A1%8C%E8%B7%AF%E5%B0%B1%E7%97%9B-%E5%81%9C%E4%BD%8E%E5%B0%B1%E5%A5%BD-%E9%86%AB%E7%94%9F-%E6%81%90%E6%98%AF%E5%91%A8%E9%82%8A%E5%8B%95%E8%84%88%E9%98%BB%E5%A1%9E-%E6%8B%96%E5%BB%B6%E6%B2%BB%E7%99%82%E6%81%90%E9%9C%80%E6%88%AA%E8%82%A2",
+    "timestamp": "2026-02-23T09:41:38.191Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "安德魯被捕照羅浮宮「快閃貼堂」　諷刺團體：讓世界記住他｜有片",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260223/1102417224607469568158492.jpeg/u8CH12CYlv3L7EnDhUk-wgeDznymSgeevTERY70xEWM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60324109/%E9%A6%AC%E4%BE%86%E8%A5%BF%E4%BA%9E%E9%99%84%E8%BF%91%E6%B5%B7%E5%9F%9F7-1%E7%B4%9A%E5%9C%B0%E9%9C%87-%E6%9C%AA%E7%99%BC%E6%B5%B7%E5%98%AF%E9%A0%90%E8%AD%A6",
     "timestamp": "2026-02-22T18:00:58.496Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "婆羅洲北部沿海6.8級地震　未發海嘯預警",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260223/1102417224607469568158492.jpeg/u8CH12CYlv3L7EnDhUk-wgeDznymSgeevTERY70xEWM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60324109/%E5%A9%86%E7%BE%85%E6%B4%B2%E5%8C%97%E9%83%A8%E6%B2%BF%E6%B5%B76-8%E7%B4%9A%E5%9C%B0%E9%9C%87-%E6%9C%AA%E7%99%BC%E6%B5%B7%E5%98%AF%E9%A0%90%E8%AD%A6",
-    "timestamp": "2026-02-22T17:48:27.360Z",
     "strategy": ".content-card__main"
   }
 ];
