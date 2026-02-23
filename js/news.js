@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-22T23:00:56.706Z
+// Last updated: 2026-02-23T00:00:56.931Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "中國投資界大佬最新持倉！　兩家公司成最大共識",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20231025/793913082186436608249087.jpeg/j8R8Gy9cy579GAHnYprlN2Ztg5S5dGL3V6zaWles2lo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60324037/%E4%B8%AD%E5%9C%8B%E6%8A%95%E8%B3%87%E7%95%8C%E5%A4%A7%E4%BD%AC%E6%9C%80%E6%96%B0%E6%8C%81%E5%80%89-%E5%85%A9%E5%AE%B6%E5%85%AC%E5%8F%B8%E6%88%90%E6%9C%80%E5%A4%A7%E5%85%B1%E8%AD%98",
+    "timestamp": "2026-02-23T00:00:56.931Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "上水倉庫幼犬困籠斷尾受傷　愛護動物協會帶走照顧　警拘65歲倉主",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260222/1102343716074426368368417.jpeg/LoJiuUoHVgZ1htdyVfCZuFZy0NPVooDmlx043ZcdON0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60324075/%E5%9D%AA%E6%B4%B227%E5%B9%B4%E5%A4%A9%E7%84%B6%E6%9C%89%E6%A9%9F%E8%BE%B2%E8%8E%8A4%E6%9C%88%E5%B0%BE%E7%B5%90%E6%A5%AD-%E6%97%A5%E7%B1%8D%E5%89%B5%E8%BE%A6%E4%BA%BA%E7%A8%B1%E5%9B%A0%E5%B1%AC%E5%AE%98%E5%9C%B0%E8%A2%AB%E6%94%B6%E5%9B%9E",
     "timestamp": "2026-02-22T15:31:20.361Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "港產片千禧女神旗袍賀年揉合中西美感　超模身型25年不變輕鬆駕馭",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260222/1102363891691687936409723.jpeg/a7mCqhufzcXJ1wO_lhFLPFPAb4KdT7WZTkke5U5JHuU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60324064/%E6%B8%AF%E7%94%A2%E7%89%87%E5%8D%83%E7%A6%A7%E5%A5%B3%E7%A5%9E%E6%97%97%E8%A2%8D%E8%B3%80%E5%B9%B4%E6%8F%89%E5%90%88%E4%B8%AD%E8%A5%BF%E7%BE%8E%E6%84%9F-%E8%B6%85%E6%A8%A1%E8%BA%AB%E5%9E%8B25%E5%B9%B4%E4%B8%8D%E8%AE%8A%E8%BC%95%E9%AC%86%E9%A7%95%E9%A6%AD",
-    "timestamp": "2026-02-22T14:51:12.604Z",
     "strategy": ".content-card__main"
   }
 ];
