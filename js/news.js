@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-23T07:15:03.232Z
+// Last updated: 2026-02-23T08:39:02.501Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "中年好聲音4｜「獅子王」練歌成日甩底？　一原因肯定係呢位演員",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260223/1102611376469184512316597.jpeg/czvALV5a3tcfWRp6-jEOybes_qgLt1Bcg75IYYO-SGE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60324222/%E4%B8%AD%E5%B9%B4%E5%A5%BD%E8%81%B2%E9%9F%B34-%E7%8D%85%E5%AD%90%E7%8E%8B-%E7%B7%B4%E6%AD%8C%E6%88%90%E6%97%A5%E7%94%A9%E5%BA%95-%E4%B8%80%E5%8E%9F%E5%9B%A0%E8%82%AF%E5%AE%9A%E4%BF%82%E5%91%A2%E4%BD%8D%E6%BC%94%E5%93%A1",
+    "timestamp": "2026-02-23T08:39:02.501Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "永義堅尼地城「海嵎」今上樓書、最細247呎　示範單位曝光｜多圖",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260222/1102381665096830976671359.jpeg/Gt5HNhGtqDB9TNwVr4iyTqk0xOsktUKMKjzB8Co8wfA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60324099/%E5%86%AC%E5%A5%A7-%E8%B0%B7%E6%84%9B%E5%87%8C%E5%A5%AA%E9%87%91%E5%BE%8C%E5%BE%97%E6%82%89%E5%A4%96%E5%A9%86%E9%9B%A2%E4%B8%96-%E8%A8%98%E8%80%85%E6%9C%83%E4%B8%8A%E5%93%AD%E8%AA%AA-%E6%98%A8%E6%99%9A%E6%89%8D%E5%A4%A2%E5%88%B0%E5%A5%B9",
     "timestamp": "2026-02-22T17:15:35.675Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "東京晴空塔電梯急墜　約20人受困至凌晨仍待救",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20200723/363028196192555008.jpeg/I2PAzbHitHG1pE8hqAXm4Sv0sCfBfLrR2386ldt_OpU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60324103/%E6%9D%B1%E4%BA%AC%E6%99%B4%E7%A9%BA%E5%A1%94%E9%9B%BB%E6%A2%AF%E6%80%A5%E5%A2%9C-%E7%B4%8420%E4%BA%BA%E5%8F%97%E5%9B%B0%E8%87%B3%E5%87%8C%E6%99%A8%E4%BB%8D%E5%BE%85%E6%95%91",
-    "timestamp": "2026-02-22T16:32:24.494Z",
     "strategy": ".content-card__main"
   }
 ];
