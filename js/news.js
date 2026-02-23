@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-23T13:00:19.925Z
+// Last updated: 2026-02-23T14:39:18.864Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "江欣燕公眾場合赤裸浸浴　露出一雙玉腿震撼地露胸？",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260223/1102681617450668032706413.jpeg/Y8NU9cje4JctraLESjBOcZ7V2LyQhQ8g6DlMZug5TGY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60324324/%E6%B1%9F%E6%AC%A3%E7%87%95%E5%85%AC%E7%9C%BE%E5%A0%B4%E5%90%88%E8%B5%A4%E8%A3%B8%E6%B5%B8%E6%B5%B4-%E9%9C%B2%E5%87%BA%E4%B8%80%E9%9B%99%E7%8E%89%E8%85%BF%E9%9C%87%E6%92%BC%E5%9C%B0%E9%9C%B2%E8%83%B8",
+    "timestamp": "2026-02-23T14:39:18.864Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "坑口火鍋店未開張先「陣亡」　新春鯇魚集體反肚　網民：大吉利是",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260223/1102423105092980736385019.jpeg/511h21ssCghL9GZ7Dk5rQEP4la8ZJnTAF4CcaxeAnGs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60324114/%E8%8E%AB%E6%96%AF%E7%A7%91%E5%A4%9A%E5%80%8B%E6%A9%9F%E5%A0%B4%E6%9A%AB%E5%81%9C%E8%88%AA%E7%8F%AD%E5%8D%87%E9%99%8D-%E7%A8%B1%E5%9B%A0%E7%83%8F%E5%85%8B%E8%98%AD%E7%84%A1%E4%BA%BA%E6%A9%9F%E8%A5%B2%E6%93%8A",
     "timestamp": "2026-02-22T21:46:45.716Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "莫斯科多個機場暫停航班升降　稱因烏克蘭無人機襲擊",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260223/1102423105092980736385019.jpeg/511h21ssCghL9GZ7Dk5rQEP4la8ZJnTAF4CcaxeAnGs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60324114/%E8%8E%AB%E6%96%AF%E7%A7%91%E5%A4%9A%E5%80%8B%E6%A9%9F%E5%A0%B4%E6%9A%AB%E5%81%9C%E8%88%AA%E7%8F%AD%E5%8D%87%E9%99%8D-%E7%A8%B1%E5%9B%A0%E7%83%8F%E5%85%8B%E8%98%AD%E7%84%A1%E4%BA%BA%E6%A9%9F%E8%A5%B2%E6%93%8A",
-    "timestamp": "2026-02-22T21:32:08.853Z",
     "strategy": ".content-card__main"
   }
 ];
