@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-23T17:15:02.295Z
+// Last updated: 2026-02-23T17:44:54.147Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "六旬翁大埔梧桐寨獨自行山疑失去聯絡　救援人員登山搜索",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20221028/662713639035211776932087.jpeg/QYao9aBZfFeF2yfBa841w6Dt2R1AXSjpio8EhKCPBIQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60324389/%E5%85%AD%E6%97%AC%E7%BF%81%E5%A4%A7%E5%9F%94%E6%A2%A7%E6%A1%90%E5%AF%A8%E7%8D%A8%E8%87%AA%E8%A1%8C%E5%B1%B1%E7%96%91%E5%A4%B1%E5%8E%BB%E8%81%AF%E7%B5%A1-%E6%95%91%E6%8F%B4%E4%BA%BA%E5%93%A1%E7%99%BB%E5%B1%B1%E6%90%9C%E7%B4%A2",
+    "timestamp": "2026-02-23T17:44:54.147Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "六旬翁大埔梧桐寨獨自行山疑失去聯絡　救援人員登山搜索",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260223/1102491880697892864174608.jpeg/rj_WBJmfNbKswRdIEisPd5qvKrhvaLNK9SO4zPUjuMw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60324122/%E4%B8%8A%E6%B0%B4%E5%80%89%E5%BA%AB%E5%B9%BC%E7%8A%AC%E5%9B%B0%E7%B1%A0%E6%96%B7%E5%B0%BE%E5%8F%97%E5%82%B7-%E6%84%9B%E8%AD%B7%E5%8B%95%E7%89%A9%E5%8D%94%E6%9C%83%E5%B8%B6%E8%B5%B0%E7%85%A7%E9%A1%A7-%E8%AD%A6%E6%8B%9865%E6%AD%B2%E5%80%89%E4%B8%BB",
     "timestamp": "2026-02-22T22:48:17.692Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "人日天氣｜今早局部地區能見度頗低　晚有一兩陣微雨　最高24度",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260223/1102487216195768320795146.jpeg/TZXHcTPaceLOygzAFq0YYkACU_lP8_WaV7DGR1ewxkc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60324107/%E4%BA%BA%E6%97%A5%E5%A4%A9%E6%B0%A3-%E4%BB%8A%E6%97%A9%E5%B1%80%E9%83%A8%E5%9C%B0%E5%8D%80%E8%83%BD%E8%A6%8B%E5%BA%A6%E9%A0%97%E4%BD%8E-%E6%99%9A%E6%9C%89%E4%B8%80%E5%85%A9%E9%99%A3%E5%BE%AE%E9%9B%A8-%E6%9C%80%E9%AB%9824%E5%BA%A6",
-    "timestamp": "2026-02-22T22:31:22.944Z",
     "strategy": ".content-card__main"
   }
 ];
