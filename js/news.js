@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-23T06:39:40.993Z
+// Last updated: 2026-02-23T07:15:03.232Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "永義堅尼地城「海嵎」今上樓書、最細247呎　示範單位曝光｜多圖",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260223/1102601046053621760862945.jpeg/cQUTN1W6lSeGMumaUqpFVWTKr40PLK3ZZlDzuGZQ87g?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60324232/%E6%B0%B8%E7%BE%A9%E5%A0%85%E5%B0%BC%E5%9C%B0%E5%9F%8E-%E6%B5%B7%E5%B5%8E-%E4%BB%8A%E4%B8%8A%E6%A8%93%E6%9B%B8-%E6%9C%80%E7%B4%B0247%E5%91%8E-%E7%A4%BA%E7%AF%84%E5%96%AE%E4%BD%8D%E6%9B%9D%E5%85%89-%E5%A4%9A%E5%9C%96",
+    "timestamp": "2026-02-23T07:15:03.232Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "再有日本諧星追到女神　文春爆M-1冠軍「令和浪漫」成員與她熱戀",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20200723/363028196192555008.jpeg/I2PAzbHitHG1pE8hqAXm4Sv0sCfBfLrR2386ldt_OpU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60324103/%E6%9D%B1%E4%BA%AC%E6%99%B4%E7%A9%BA%E5%A1%94%E9%9B%BB%E6%A2%AF%E6%80%A5%E5%A2%9C-%E7%B4%8420%E4%BA%BA%E5%8F%97%E5%9B%B0%E8%87%B3%E5%87%8C%E6%99%A8%E4%BB%8D%E5%BE%85%E6%95%91",
     "timestamp": "2026-02-22T16:32:24.494Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "將軍澳景林邨保安聞異味　揭六旬翁倒斃寓所",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20220914/646808720939945984613980.jpeg/T8xIWoVoFmN2jF1f6BVD9V7vysV07P_WSeLW4Eni1uA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60324102/%E5%B0%87%E8%BB%8D%E6%BE%B3%E6%99%AF%E6%9E%97%E9%82%A8%E4%BF%9D%E5%AE%89%E8%81%9E%E7%95%B0%E5%91%B3-%E6%8F%AD%E5%85%AD%E6%97%AC%E7%BF%81%E5%80%92%E6%96%83%E5%AF%93%E6%89%80",
-    "timestamp": "2026-02-22T16:15:43.403Z",
     "strategy": ".content-card__main"
   }
 ];
