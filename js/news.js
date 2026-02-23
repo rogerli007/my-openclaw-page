@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-23T11:09:59.673Z
+// Last updated: 2026-02-23T11:35:20.146Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "特朗普再調整全球關稅至15%　一文看清各國反應　日本：令人憤慨",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260219/1101298887823462400826035.jpeg/LNcRJeGpXJO4ZIZz5Tg0jxrAGZmeqmZaYyVBo2MlQaM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E4%B8%96%E7%95%8C%E5%B0%88%E9%A1%8C/60324267/%E7%89%B9%E6%9C%97%E6%99%AE%E5%86%8D%E8%AA%BF%E6%95%B4%E5%85%A8%E7%90%83%E9%97%9C%E7%A8%85%E8%87%B315-%E4%B8%80%E6%96%87%E7%9C%8B%E6%B8%85%E5%90%84%E5%9C%8B%E5%8F%8D%E6%87%89-%E6%97%A5%E6%9C%AC-%E4%BB%A4%E4%BA%BA%E6%86%A4%E6%85%A8",
+    "timestamp": "2026-02-23T11:35:20.146Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "懲教院所太熱　懲教署：增1800部風扇、室內引入隔熱膜及製冷塗層",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260110/1086559302958714880957602.jpeg/KmbjUezCJBGuLYeoE3gpav-NntLBVpS22OVpSNjlaUg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60324108/%E9%98%BF%E6%9B%BC-%E7%BE%8E%E4%BC%8A26%E6%97%A5%E5%86%8D%E6%AC%A1%E7%91%9E%E5%A3%AB%E8%AB%87%E5%88%A4-%E4%BC%8A%E6%9C%97%E5%A4%96%E9%95%B7-%E6%A0%B8%E5%95%8F%E9%A1%8C%E4%BB%8D%E5%8F%AF%E8%83%BD%E5%A4%96%E4%BA%A4%E8%A7%A3%E6%B1%BA",
     "timestamp": "2026-02-22T20:32:18.280Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "英超｜阿仙奴作客4：1勝熱刺　伊斯及基奧基尼斯各入兩球",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260223/1102434098938384384836251.jpeg/dVQqWJ2L336Cufo67aPopHSFHXpzqiTh87tedvO7XnY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60324115/%E8%8B%B1%E8%B6%85-%E9%98%BF%E4%BB%99%E5%A5%B4%E4%BD%9C%E5%AE%A24-1%E5%8B%9D%E7%86%B1%E5%88%BA-%E4%BC%8A%E6%96%AF%E5%8F%8A%E5%9F%BA%E5%A5%A7%E5%9F%BA%E5%B0%BC%E6%96%AF%E5%90%84%E5%85%A5%E5%85%A9%E7%90%83",
-    "timestamp": "2026-02-22T19:18:59.422Z",
     "strategy": ".content-card__main"
   }
 ];
