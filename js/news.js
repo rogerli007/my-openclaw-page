@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-23T00:00:56.931Z
+// Last updated: 2026-02-23T00:57:38.689Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "禁餵野鴿｜謝展寰指漁護署研機械人巡邏非法餵飼黑點　增加阻嚇力",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20240801/895673635199520768168293.jpeg/pD4jpxte2XQqm5AXHxToxnvVnrORC-hZXy6adXoumnU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60324124/%E7%A6%81%E9%A4%B5%E9%87%8E%E9%B4%BF-%E8%AC%9D%E5%B1%95%E5%AF%B0%E6%8C%87%E6%BC%81%E8%AD%B7%E7%BD%B2%E7%A0%94%E6%A9%9F%E6%A2%B0%E4%BA%BA%E5%B7%A1%E9%82%8F%E9%9D%9E%E6%B3%95%E9%A4%B5%E9%A3%BC%E9%BB%91%E9%BB%9E-%E5%A2%9E%E5%8A%A0%E9%98%BB%E5%9A%87%E5%8A%9B",
+    "timestamp": "2026-02-23T00:57:38.689Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "中國投資界大佬最新持倉！　兩家公司成最大共識",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20251017/1055819373966528512035962.jpeg/FZzNkHfER8U__2spUyOiC7_Qrle1FpH9w9deTMPXXkw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60324098/lck%E7%9B%83-%E4%BB%A3%E8%A1%A8%E4%BA%BA%E7%89%A9faker%E9%9A%8A%E4%BC%8D%E8%90%BD%E6%95%97%E7%84%A1%E7%B7%A3%E4%BE%86%E6%B8%AF%E6%B1%BA%E8%B3%BD-%E7%B6%B2%E7%8F%BE%E9%96%80%E7%A5%A8%E5%90%AB%E6%B7%9A%E8%9D%95%E6%9C%AC%E8%B3%A3",
     "timestamp": "2026-02-22T15:49:09.257Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "坪洲27年天然有機農莊4月尾結業　日籍創辦人稱因屬官地被收回",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260222/1102343716074426368368417.jpeg/LoJiuUoHVgZ1htdyVfCZuFZy0NPVooDmlx043ZcdON0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60324075/%E5%9D%AA%E6%B4%B227%E5%B9%B4%E5%A4%A9%E7%84%B6%E6%9C%89%E6%A9%9F%E8%BE%B2%E8%8E%8A4%E6%9C%88%E5%B0%BE%E7%B5%90%E6%A5%AD-%E6%97%A5%E7%B1%8D%E5%89%B5%E8%BE%A6%E4%BA%BA%E7%A8%B1%E5%9B%A0%E5%B1%AC%E5%AE%98%E5%9C%B0%E8%A2%AB%E6%94%B6%E5%9B%9E",
-    "timestamp": "2026-02-22T15:31:20.361Z",
     "strategy": ".content-card__main"
   }
 ];
