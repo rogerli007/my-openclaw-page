@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-23T20:35:17.259Z
+// Last updated: 2026-02-23T21:05:04.565Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "伊朗：願與美持續數周談判　任何攻擊都被視作侵略",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260224/1102766613523861504972843.jpeg/jCajp46ptALFVzaSnbT1s_djhYaFZ4gnvRWVb70VlW8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60324387/%E4%BC%8A%E6%9C%97-%E9%A1%98%E8%88%87%E7%BE%8E%E6%8C%81%E7%BA%8C%E6%95%B8%E5%91%A8%E8%AB%87%E5%88%A4-%E4%BB%BB%E4%BD%95%E6%94%BB%E6%93%8A%E9%83%BD%E8%A2%AB%E8%A6%96%E4%BD%9C%E4%BE%B5%E7%95%A5",
+    "timestamp": "2026-02-23T21:05:04.565Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "巴拿馬政府頒令：撤銷長和兩港口經營權　授權由海事局接管",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20240801/895673635199520768168293.jpeg/pD4jpxte2XQqm5AXHxToxnvVnrORC-hZXy6adXoumnU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60324124/%E7%A6%81%E9%A4%B5%E9%87%8E%E9%B4%BF-%E8%AC%9D%E5%B1%95%E5%AF%B0%E6%8C%87%E6%BC%81%E8%AD%B7%E7%BD%B2%E7%A0%94%E6%A9%9F%E6%A2%B0%E4%BA%BA%E5%B7%A1%E9%82%8F%E9%9D%9E%E6%B3%95%E9%A4%B5%E9%A3%BC%E9%BB%91%E9%BB%9E-%E5%A2%9E%E5%8A%A0%E9%98%BB%E5%9A%87%E5%8A%9B",
     "timestamp": "2026-02-23T00:57:38.689Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "中國投資界大佬最新持倉！　兩家公司成最大共識",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20231025/793913082186436608249087.jpeg/j8R8Gy9cy579GAHnYprlN2Ztg5S5dGL3V6zaWles2lo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60324037/%E4%B8%AD%E5%9C%8B%E6%8A%95%E8%B3%87%E7%95%8C%E5%A4%A7%E4%BD%AC%E6%9C%80%E6%96%B0%E6%8C%81%E5%80%89-%E5%85%A9%E5%AE%B6%E5%85%AC%E5%8F%B8%E6%88%90%E6%9C%80%E5%A4%A7%E5%85%B1%E8%AD%98",
-    "timestamp": "2026-02-23T00:00:56.931Z",
     "strategy": ".content-card__main"
   }
 ];
