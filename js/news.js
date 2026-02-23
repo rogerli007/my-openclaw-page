@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-23T11:55:56.561Z
+// Last updated: 2026-02-23T12:26:42.202Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "皇馬中堅胡積臣轉發辱華帖文　微博致歉被批「內地限定」沒誠意",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260223/1102696929126518784340216.jpeg/7LlxoFslQKsfvWkJKnpTAkhZYRe3z3Pabg6CRW4OgkU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60324354/%E7%9A%87%E9%A6%AC%E4%B8%AD%E5%A0%85%E8%83%A1%E7%A9%8D%E8%87%A3%E8%BD%89%E7%99%BC%E8%BE%B1%E8%8F%AF%E5%B8%96%E6%96%87-%E5%BE%AE%E5%8D%9A%E8%87%B4%E6%AD%89%E8%A2%AB%E6%89%B9-%E5%85%A7%E5%9C%B0%E9%99%90%E5%AE%9A-%E6%B2%92%E8%AA%A0%E6%84%8F",
+    "timestamp": "2026-02-23T12:26:42.202Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "落馬洲回收場男工被困金屬拋光機　同事救出　頭頸手多處受傷送院",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260110/1086559302958714880957602.jpeg/KmbjUezCJBGuLYeoE3gpav-NntLBVpS22OVpSNjlaUg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60324108/%E9%98%BF%E6%9B%BC-%E7%BE%8E%E4%BC%8A26%E6%97%A5%E5%86%8D%E6%AC%A1%E7%91%9E%E5%A3%AB%E8%AB%87%E5%88%A4-%E4%BC%8A%E6%9C%97%E5%A4%96%E9%95%B7-%E6%A0%B8%E5%95%8F%E9%A1%8C%E4%BB%8D%E5%8F%AF%E8%83%BD%E5%A4%96%E4%BA%A4%E8%A7%A3%E6%B1%BA",
     "timestamp": "2026-02-22T21:15:39.881Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "阿曼：美伊26日再次瑞士談判　伊朗外長：核問題仍可能外交解決",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260110/1086559302958714880957602.jpeg/KmbjUezCJBGuLYeoE3gpav-NntLBVpS22OVpSNjlaUg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60324108/%E9%98%BF%E6%9B%BC-%E7%BE%8E%E4%BC%8A26%E6%97%A5%E5%86%8D%E6%AC%A1%E7%91%9E%E5%A3%AB%E8%AB%87%E5%88%A4-%E4%BC%8A%E6%9C%97%E5%A4%96%E9%95%B7-%E6%A0%B8%E5%95%8F%E9%A1%8C%E4%BB%8D%E5%8F%AF%E8%83%BD%E5%A4%96%E4%BA%A4%E8%A7%A3%E6%B1%BA",
-    "timestamp": "2026-02-22T21:01:21.583Z",
     "strategy": ".content-card__main"
   }
 ];
