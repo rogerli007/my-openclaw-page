@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-24T20:22:39.542Z
+// Last updated: 2026-02-24T20:52:17.537Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "特朗普關稅案敗訴　美媒：中國最大贏家　大摩：平均稅率降至24%",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20251227/1081515297304743936825431.jpeg/a-NoMFwvM8YX9n18UE2fyUii_wxrItcNeaUKA3mlCgM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60324763/%E7%89%B9%E6%9C%97%E6%99%AE%E9%97%9C%E7%A8%85%E6%A1%88%E6%95%97%E8%A8%B4-%E7%BE%8E%E5%AA%92-%E4%B8%AD%E5%9C%8B%E6%9C%80%E5%A4%A7%E8%B4%8F%E5%AE%B6-%E5%A4%A7%E6%91%A9-%E5%B9%B3%E5%9D%87%E7%A8%85%E7%8E%87%E9%99%8D%E8%87%B324",
+    "timestamp": "2026-02-24T20:52:17.537Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "愛潑斯坦案｜律師：警方逮捕文德森毫無根據　錯誤認為擬出國定居",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260224/1102823530505965568104926.jpeg/ovI5gRaPQiMxly3LOKQQ_Ed9bME50uupG06qGxtOqhs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60324394/%E5%B7%B4%E6%8B%BF%E9%A6%AC%E6%94%BF%E5%BA%9C%E9%A0%92%E4%BB%A4-%E6%92%A4%E9%8A%B7%E9%95%B7%E5%92%8C%E5%85%A9%E6%B8%AF%E5%8F%A3%E7%B6%93%E7%87%9F%E6%AC%8A-%E6%8E%88%E6%AC%8A%E7%94%B1%E6%B5%B7%E4%BA%8B%E5%B1%80%E6%8E%A5%E7%AE%A1",
     "timestamp": "2026-02-23T20:35:17.259Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "巴拿馬政府頒令：撤銷長和兩港口經營權　授權由海事局接管",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20241222/947500834235617280814965.jpeg/ND2wLR0KkMn9QCX4ylNm4qlPiUKzK6p_Dw4QGA8OEBg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60324394/%E5%B7%B4%E6%8B%BF%E9%A6%AC%E6%94%BF%E5%BA%9C%E9%A0%92%E4%BB%A4-%E6%92%A4%E9%8A%B7%E9%95%B7%E5%92%8C%E5%85%A9%E6%B8%AF%E5%8F%A3%E7%B6%93%E7%87%9F%E6%AC%8A-%E6%8E%88%E6%AC%8A%E7%94%B1%E6%B5%B7%E4%BA%8B%E5%B1%80%E6%8E%A5%E7%AE%A1",
-    "timestamp": "2026-02-23T19:46:38.427Z",
     "strategy": ".content-card__main"
   }
 ];
