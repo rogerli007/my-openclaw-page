@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-24T07:40:36.216Z
+// Last updated: 2026-02-24T08:07:02.610Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "龍崗深圳版「蒼山洱海」景美人少　原生態海灘觀鳥垂釣如世外桃源",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260224/1102915899200901120981356.jpeg/-xKENquR4fjaWx6FHLz0_jmwk1lqs4aACoXRaQqF0Wk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%97%85%E9%81%8A/60320422/%E9%BE%8D%E5%B4%97%E6%B7%B1%E5%9C%B3%E7%89%88-%E8%92%BC%E5%B1%B1%E6%B4%B1%E6%B5%B7-%E6%99%AF%E7%BE%8E%E4%BA%BA%E5%B0%91-%E5%8E%9F%E7%94%9F%E6%85%8B%E6%B5%B7%E7%81%98%E8%A7%80%E9%B3%A5%E5%9E%82%E9%87%A3%E5%A6%82%E4%B8%96%E5%A4%96%E6%A1%83%E6%BA%90",
+    "timestamp": "2026-02-24T08:07:02.610Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "庾澄慶哈林情非得已演唱會2026澳門｜門票攻略＋購票連結＋座位表",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260223/1102634887107579904239465.jpeg/HqszEV5YAyNxkoRMSJYKimbeOL4j_BLYsGUBwLBlAcA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60324260/%E5%AE%89%E5%BE%B7%E9%AD%AF%E8%A2%AB%E6%8D%95%E7%85%A7%E7%BE%85%E6%B5%AE%E5%AE%AE-%E5%BF%AB%E9%96%83%E8%B2%BC%E5%A0%82-%E8%AB%B7%E5%88%BA%E5%9C%98%E9%AB%94-%E8%AE%93%E4%B8%96%E7%95%8C%E8%A8%98%E4%BD%8F%E4%BB%96-%E6%9C%89%E7%89%87",
     "timestamp": "2026-02-23T09:10:31.577Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "中年好聲音4｜「獅子王」練歌成日甩底？　一原因肯定係呢位演員",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260223/1102611376469184512316597.jpeg/czvALV5a3tcfWRp6-jEOybes_qgLt1Bcg75IYYO-SGE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60324222/%E4%B8%AD%E5%B9%B4%E5%A5%BD%E8%81%B2%E9%9F%B34-%E7%8D%85%E5%AD%90%E7%8E%8B-%E7%B7%B4%E6%AD%8C%E6%88%90%E6%97%A5%E7%94%A9%E5%BA%95-%E4%B8%80%E5%8E%9F%E5%9B%A0%E8%82%AF%E5%AE%9A%E4%BF%82%E5%91%A2%E4%BD%8D%E6%BC%94%E5%93%A1",
-    "timestamp": "2026-02-23T08:39:02.501Z",
     "strategy": ".content-card__main"
   }
 ];
