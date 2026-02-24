@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-24T23:20:12.976Z
+// Last updated: 2026-02-24T23:49:17.506Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "俄烏戰爭四週年：一場難贏卻又不敢結束的戰爭？",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250823/1035944090723684352846371.jpeg/MN8H4Shp9G4y1ZVweweqfd1iGXefcqKujLlR-Iy5Ufg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%9C%8B%E9%9A%9B%E5%88%86%E6%9E%90/60324693/%E4%BF%84%E7%83%8F%E6%88%B0%E7%88%AD%E5%9B%9B%E5%91%A8%E5%B9%B4-%E4%B8%80%E5%A0%B4%E9%9B%A3%E8%B4%8F%E5%8D%BB%E5%8F%88%E4%B8%8D%E6%95%A2%E7%B5%90%E6%9D%9F%E7%9A%84%E6%88%B0%E7%88%AD",
+    "timestamp": "2026-02-24T23:49:17.506Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "曾強姦智障女囚6年！人夫出獄性侵13歲智障小女友　囚X年打藤X下",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260224/1102957492691800064408396.png/4kTCjPJqd5r_pxAZJFcBNIvwfWinHmmCjUmbWo1Jm1o?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60324508/%E5%BA%BE%E6%BE%84%E6%85%B6%E5%93%88%E6%9E%97%E6%83%85%E9%9D%9E%E5%BE%97%E5%B7%B2%E6%BC%94%E5%94%B1%E6%9C%832026%E6%BE%B3%E9%96%80-%E9%96%80%E7%A5%A8%E6%94%BB%E7%95%A5-%E8%B3%BC%E7%A5%A8%E9%80%A3%E7%B5%90-%E5%BA%A7%E4%BD%8D%E8%A1%A8",
     "timestamp": "2026-02-24T07:40:36.216Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "中山美食10大推薦｜米芝蓮+黑珍珠推介！田園風Cafe／創意點心",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260224/1102983536857583616230465.jpeg/rSXDTXZxAyZ20R2hu3HXjKaYcnH-YO5LvXE-xb1xPsU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%97%85%E9%81%8A/60323561/%E4%B8%AD%E5%B1%B1%E7%BE%8E%E9%A3%9F10%E5%A4%A7%E6%8E%A8%E8%96%A6-%E7%B1%B3%E8%8A%9D%E8%93%AE-%E9%BB%91%E7%8F%8D%E7%8F%A0%E6%8E%A8%E4%BB%8B-%E7%94%B0%E5%9C%92%E9%A2%A8cafe-%E5%89%B5%E6%84%8F%E9%BB%9E%E5%BF%83",
-    "timestamp": "2026-02-24T07:14:41.049Z",
     "strategy": ".content-card__main"
   }
 ];
