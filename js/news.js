@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-24T08:35:06.898Z
+// Last updated: 2026-02-24T09:39:51.453Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "湖南漢放煙花遇「炸膛」　胸部遭近距離炸中奪命",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260224/1102995486094135296439185.png/9tEOYYKx1tZfZeuF7jPXOjiwzCHTizcoWEVCviJFQr4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60324581/%E6%B9%96%E5%8D%97%E6%BC%A2%E6%94%BE%E7%85%99%E8%8A%B1%E9%81%87-%E7%82%B8%E8%86%9B-%E8%83%B8%E9%83%A8%E9%81%AD%E8%BF%91%E8%B7%9D%E9%9B%A2%E7%82%B8%E4%B8%AD%E5%A5%AA%E5%91%BD",
+    "timestamp": "2026-02-24T09:39:51.453Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "財政預算案2026｜蔡冠深：不希望有「派糖」　籲支援中小企出海",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260223/1102660892408942592520769.jpeg/fUr_aJmmKZaKiRFw4Hv3s5O7m8Vkm8_ERV9GtUVfRrU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60324303/%E5%82%B3%E7%BE%8E%E9%A1%8F%E6%BF%BE%E9%8F%A1%E5%A4%B1%E9%9D%88-%E4%B8%AD%E5%9C%8B%E7%BE%8E%E5%A6%9D%E7%B6%B2%E7%B4%85%E7%9B%B4%E6%92%AD%E7%AA%81%E9%9C%B2-%E7%9C%9F%E9%9D%A2%E7%9B%AE-%E7%A7%92%E5%A4%B114%E8%90%AC%E7%B2%89%E7%B5%B2",
     "timestamp": "2026-02-23T10:12:36.690Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "行路就痛、停低就好？醫生：恐是周邊動脈阻塞 拖延治療恐需截肢",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260202/1094982619218579456739206.jpeg/DHPC1lvufUF3sqL2hvfkCxCsFvufLfjnQ7fZm0O32Zs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/60317437/%E8%A1%8C%E8%B7%AF%E5%B0%B1%E7%97%9B-%E5%81%9C%E4%BD%8E%E5%B0%B1%E5%A5%BD-%E9%86%AB%E7%94%9F-%E6%81%90%E6%98%AF%E5%91%A8%E9%82%8A%E5%8B%95%E8%84%88%E9%98%BB%E5%A1%9E-%E6%8B%96%E5%BB%B6%E6%B2%BB%E7%99%82%E6%81%90%E9%9C%80%E6%88%AA%E8%82%A2",
-    "timestamp": "2026-02-23T09:41:38.191Z",
     "strategy": ".content-card__main"
   }
 ];
