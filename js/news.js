@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-24T14:41:53.315Z
+// Last updated: 2026-02-24T15:13:17.971Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "一馬當先行大運｜莊子璇自嘲姻緣一塌糊塗　XiX驚現姊妹爭夫危機",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260224/1102935170056458240183479.jpeg/ngyzl9FiHrXYIQv5HRp-bH5Un7JTxsQuIWsw-SFrMPk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60324471/%E4%B8%80%E9%A6%AC%E7%95%B6%E5%85%88%E8%A1%8C%E5%A4%A7%E9%81%8B-%E8%8E%8A%E5%AD%90%E7%92%87%E8%87%AA%E5%98%B2%E5%A7%BB%E7%B7%A3%E4%B8%80%E5%A1%8C%E7%B3%8A%E5%A1%97-xix%E9%A9%9A%E7%8F%BE%E5%A7%8A%E5%A6%B9%E7%88%AD%E5%A4%AB%E5%8D%B1%E6%A9%9F",
+    "timestamp": "2026-02-24T15:13:17.971Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "環保團體揭橋咀洲遊人捉蟹掘蜆　漁護署研納入海岸公園增強保護",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260223/1102681617450668032706413.jpeg/Y8NU9cje4JctraLESjBOcZ7V2LyQhQ8g6DlMZug5TGY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60324324/%E6%B1%9F%E6%AC%A3%E7%87%95%E5%85%AC%E7%9C%BE%E5%A0%B4%E5%90%88%E8%B5%A4%E8%A3%B8%E6%B5%B8%E6%B5%B4-%E9%9C%B2%E5%87%BA%E4%B8%80%E9%9B%99%E7%8E%89%E8%85%BF%E9%9C%87%E6%92%BC%E5%9C%B0%E9%9C%B2%E8%83%B8",
     "timestamp": "2026-02-23T14:39:18.864Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "坑口火鍋店未開張先「陣亡」　新春鯇魚集體反肚　網民：大吉利是",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260223/1102705191284641792153294.jpeg/bEuaoRjgTxhg5gkLwZgXOIcUHYy8HVZmJGUjbSRlI20?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60324359/%E5%9D%91%E5%8F%A3%E7%81%AB%E9%8D%8B%E5%BA%97%E6%9C%AA%E9%96%8B%E5%BC%B5%E5%85%88-%E9%99%A3%E4%BA%A1-%E6%96%B0%E6%98%A5%E9%AF%87%E9%AD%9A%E9%9B%86%E9%AB%94%E5%8F%8D%E8%82%9A-%E7%B6%B2%E6%B0%91-%E5%A4%A7%E5%90%89%E5%88%A9%E6%98%AF",
-    "timestamp": "2026-02-23T13:00:19.925Z",
     "strategy": ".content-card__main"
   }
 ];
