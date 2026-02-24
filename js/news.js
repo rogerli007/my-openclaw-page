@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-23T21:05:04.565Z
+// Last updated: 2026-02-24T03:44:54.215Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "最長春節假谷消費　零售餐飲銷售額升8.6%　電影票房慘遇滑鐵盧",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260224/1102924615396626432815473.jpeg/0Aa0LLfwK0BcyjMbE5JYb4g0B26giDkUkP3S85D90vM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60324452/%E6%9C%80%E9%95%B7%E6%98%A5%E7%AF%80%E5%81%87%E8%B0%B7%E6%B6%88%E8%B2%BB-%E9%9B%B6%E5%94%AE%E9%A4%90%E9%A3%B2%E9%8A%B7%E5%94%AE%E9%A1%8D%E5%8D%878-6-%E9%9B%BB%E5%BD%B1%E7%A5%A8%E6%88%BF%E6%85%98%E9%81%87%E6%BB%91%E9%90%B5%E7%9B%A7",
+    "timestamp": "2026-02-24T03:44:54.215Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "伊朗：願與美持續數周談判　任何攻擊都被視作侵略",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260223/1102561193085636608376895.jpeg/uJYpHGruq3tNV6Wkqqse-OlJRXMgHQhCplJQIaZSUCE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60324162/%E6%9E%97%E5%AF%B6%E5%A0%85%E5%B0%BC%E6%A3%84%E9%9B%BB%E5%8B%95%E8%B6%85%E7%B4%9A%E8%B7%91%E8%BB%8A%E8%A8%88%E5%8A%83-%E8%BD%89%E6%94%BB%E6%B7%B7%E8%83%BD%E8%BB%8A",
     "timestamp": "2026-02-23T03:46:01.282Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "禁餵野鴿｜謝展寰指漁護署研機械人巡邏非法餵飼黑點　增加阻嚇力",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20240801/895673635199520768168293.jpeg/pD4jpxte2XQqm5AXHxToxnvVnrORC-hZXy6adXoumnU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60324124/%E7%A6%81%E9%A4%B5%E9%87%8E%E9%B4%BF-%E8%AC%9D%E5%B1%95%E5%AF%B0%E6%8C%87%E6%BC%81%E8%AD%B7%E7%BD%B2%E7%A0%94%E6%A9%9F%E6%A2%B0%E4%BA%BA%E5%B7%A1%E9%82%8F%E9%9D%9E%E6%B3%95%E9%A4%B5%E9%A3%BC%E9%BB%91%E9%BB%9E-%E5%A2%9E%E5%8A%A0%E9%98%BB%E5%9A%87%E5%8A%9B",
-    "timestamp": "2026-02-23T00:57:38.689Z",
     "strategy": ".content-card__main"
   }
 ];
