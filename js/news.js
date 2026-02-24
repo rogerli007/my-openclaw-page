@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-24T07:14:41.049Z
+// Last updated: 2026-02-24T07:40:36.216Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "庾澄慶哈林情非得已演唱會2026澳門｜門票攻略＋購票連結＋座位表",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260224/1102957492691800064408396.png/4kTCjPJqd5r_pxAZJFcBNIvwfWinHmmCjUmbWo1Jm1o?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60324508/%E5%BA%BE%E6%BE%84%E6%85%B6%E5%93%88%E6%9E%97%E6%83%85%E9%9D%9E%E5%BE%97%E5%B7%B2%E6%BC%94%E5%94%B1%E6%9C%832026%E6%BE%B3%E9%96%80-%E9%96%80%E7%A5%A8%E6%94%BB%E7%95%A5-%E8%B3%BC%E7%A5%A8%E9%80%A3%E7%B5%90-%E5%BA%A7%E4%BD%8D%E8%A1%A8",
+    "timestamp": "2026-02-24T07:40:36.216Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "中山美食10大推薦｜米芝蓮+黑珍珠推介！田園風Cafe／創意點心",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260223/1102611376469184512316597.jpeg/czvALV5a3tcfWRp6-jEOybes_qgLt1Bcg75IYYO-SGE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60324222/%E4%B8%AD%E5%B9%B4%E5%A5%BD%E8%81%B2%E9%9F%B34-%E7%8D%85%E5%AD%90%E7%8E%8B-%E7%B7%B4%E6%AD%8C%E6%88%90%E6%97%A5%E7%94%A9%E5%BA%95-%E4%B8%80%E5%8E%9F%E5%9B%A0%E8%82%AF%E5%AE%9A%E4%BF%82%E5%91%A2%E4%BD%8D%E6%BC%94%E5%93%A1",
     "timestamp": "2026-02-23T08:39:02.501Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "永義堅尼地城「海嵎」今上樓書、最細247呎　示範單位曝光｜多圖",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260223/1102601046053621760862945.jpeg/cQUTN1W6lSeGMumaUqpFVWTKr40PLK3ZZlDzuGZQ87g?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60324232/%E6%B0%B8%E7%BE%A9%E5%A0%85%E5%B0%BC%E5%9C%B0%E5%9F%8E-%E6%B5%B7%E5%B5%8E-%E4%BB%8A%E4%B8%8A%E6%A8%93%E6%9B%B8-%E6%9C%80%E7%B4%B0247%E5%91%8E-%E7%A4%BA%E7%AF%84%E5%96%AE%E4%BD%8D%E6%9B%9D%E5%85%89-%E5%A4%9A%E5%9C%96",
-    "timestamp": "2026-02-23T07:15:03.232Z",
     "strategy": ".content-card__main"
   }
 ];
