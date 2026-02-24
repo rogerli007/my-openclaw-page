@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-24T18:12:13.349Z
+// Last updated: 2026-02-24T19:15:21.837Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "英國治安不靖　零售商協會：2025年店鋪盜竊550萬宗　損失42億元",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260225/1103156456066125824956841.jpeg/mHtyhp8Hz3Wjctmt2fG62JSdAPItnIIfuDmFiLg5hYg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60324750/%E8%8B%B1%E5%9C%8B%E6%B2%BB%E5%AE%89%E4%B8%8D%E9%9D%96-%E9%9B%B6%E5%94%AE%E5%95%86%E5%8D%94%E6%9C%83-2025%E5%B9%B4%E5%BA%97%E9%8B%AA%E7%9B%9C%E7%AB%8A550%E8%90%AC%E5%AE%97-%E6%90%8D%E5%A4%B142%E5%84%84%E5%85%83",
+    "timestamp": "2026-02-24T19:15:21.837Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "巴黎羅浮宮館長卡爾請辭　已獲馬克龍接受",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20221028/662713639035211776932087.jpeg/QYao9aBZfFeF2yfBa841w6Dt2R1AXSjpio8EhKCPBIQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60324389/%E5%85%AD%E6%97%AC%E7%BF%81%E5%A4%A7%E5%9F%94%E6%A2%A7%E6%A1%90%E5%AF%A8%E7%8D%A8%E8%87%AA%E8%A1%8C%E5%B1%B1%E7%96%91%E5%A4%B1%E5%8E%BB%E8%81%AF%E7%B5%A1-%E6%95%91%E6%8F%B4%E4%BA%BA%E5%93%A1%E7%99%BB%E5%B1%B1%E6%90%9C%E7%B4%A2",
     "timestamp": "2026-02-23T17:44:54.147Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "六旬翁大埔梧桐寨獨自行山疑失去聯絡　救援人員登山搜索",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20221028/662713639035211776932087.jpeg/QYao9aBZfFeF2yfBa841w6Dt2R1AXSjpio8EhKCPBIQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60324389/%E5%85%AD%E6%97%AC%E7%BF%81%E5%A4%A7%E5%9F%94%E6%A2%A7%E6%A1%90%E5%AF%A8%E7%8D%A8%E8%87%AA%E8%A1%8C%E5%B1%B1%E7%96%91%E5%A4%B1%E5%8E%BB%E8%81%AF%E7%B5%A1-%E6%95%91%E6%8F%B4%E4%BA%BA%E5%93%A1%E7%99%BB%E5%B1%B1%E6%90%9C%E7%B4%A2",
-    "timestamp": "2026-02-23T17:15:02.295Z",
     "strategy": ".content-card__main"
   }
 ];
