@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-24T19:15:21.837Z
+// Last updated: 2026-02-24T20:22:39.542Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "愛潑斯坦案｜律師：警方逮捕文德森毫無根據　錯誤認為擬出國定居",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260225/1103173647805190144803619.jpeg/o3frJyYXIGXLtmbcZElihkQE4Z4hDF6lMOAXZTDgF2U?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60324762/%E6%84%9B%E6%BD%91%E6%96%AF%E5%9D%A6%E6%A1%88-%E5%BE%8B%E5%B8%AB-%E8%AD%A6%E6%96%B9%E9%80%AE%E6%8D%95%E6%96%87%E5%BE%B7%E6%A3%AE%E6%AF%AB%E7%84%A1%E6%A0%B9%E6%93%9A-%E9%8C%AF%E8%AA%A4%E8%AA%8D%E7%82%BA%E6%93%AC%E5%87%BA%E5%9C%8B%E5%AE%9A%E5%B1%85",
+    "timestamp": "2026-02-24T20:22:39.542Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "英國治安不靖　零售商協會：2025年店鋪盜竊550萬宗　損失42億元",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20241222/947500834235617280814965.jpeg/ND2wLR0KkMn9QCX4ylNm4qlPiUKzK6p_Dw4QGA8OEBg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60324394/%E5%B7%B4%E6%8B%BF%E9%A6%AC%E6%94%BF%E5%BA%9C%E9%A0%92%E4%BB%A4-%E6%92%A4%E9%8A%B7%E9%95%B7%E5%92%8C%E5%85%A9%E6%B8%AF%E5%8F%A3%E7%B6%93%E7%87%9F%E6%AC%8A-%E6%8E%88%E6%AC%8A%E7%94%B1%E6%B5%B7%E4%BA%8B%E5%B1%80%E6%8E%A5%E7%AE%A1",
     "timestamp": "2026-02-23T19:46:38.427Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "六旬翁大埔梧桐寨獨自行山疑失去聯絡　救援人員登山搜索",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20221028/662713639035211776932087.jpeg/QYao9aBZfFeF2yfBa841w6Dt2R1AXSjpio8EhKCPBIQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60324389/%E5%85%AD%E6%97%AC%E7%BF%81%E5%A4%A7%E5%9F%94%E6%A2%A7%E6%A1%90%E5%AF%A8%E7%8D%A8%E8%87%AA%E8%A1%8C%E5%B1%B1%E7%96%91%E5%A4%B1%E5%8E%BB%E8%81%AF%E7%B5%A1-%E6%95%91%E6%8F%B4%E4%BA%BA%E5%93%A1%E7%99%BB%E5%B1%B1%E6%90%9C%E7%B4%A2",
-    "timestamp": "2026-02-23T17:44:54.147Z",
     "strategy": ".content-card__main"
   }
 ];
