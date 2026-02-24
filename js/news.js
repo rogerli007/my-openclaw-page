@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-24T12:56:48.207Z
+// Last updated: 2026-02-24T13:40:20.697Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "警聯入境處大埔上水粉嶺掃黃　拘12雙程證內地女涉違逗留條件",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260224/1103077549392662528375089.jpeg/G31Mb9THV9FNkMGSC9H2S6XR8mD80aI-iOTKaojkymo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60324708/%E8%AD%A6%E8%81%AF%E5%85%A5%E5%A2%83%E8%99%95%E5%A4%A7%E5%9F%94%E4%B8%8A%E6%B0%B4%E7%B2%89%E5%B6%BA%E6%8E%83%E9%BB%83-%E6%8B%9812%E9%9B%99%E7%A8%8B%E8%AD%89%E5%85%A7%E5%9C%B0%E5%A5%B3%E6%B6%89%E9%81%95%E9%80%97%E7%95%99%E6%A2%9D%E4%BB%B6",
+    "timestamp": "2026-02-24T13:40:20.697Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "鏢人：風起大漠影評｜漫畫改篇還原度極高　李連杰這場已值回票價",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260223/1102696929126518784340216.jpeg/7LlxoFslQKsfvWkJKnpTAkhZYRe3z3Pabg6CRW4OgkU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60324354/%E7%9A%87%E9%A6%AC%E4%B8%AD%E5%A0%85%E8%83%A1%E7%A9%8D%E8%87%A3%E8%BD%89%E7%99%BC%E8%BE%B1%E8%8F%AF%E5%B8%96%E6%96%87-%E5%BE%AE%E5%8D%9A%E8%87%B4%E6%AD%89%E8%A2%AB%E6%89%B9-%E5%85%A7%E5%9C%B0%E9%99%90%E5%AE%9A-%E6%B2%92%E8%AA%A0%E6%84%8F",
     "timestamp": "2026-02-23T12:26:42.202Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "落馬洲回收場男工被困金屬拋光機　同事救出　頭頸手多處受傷送院",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260223/1102687151876739072103876.jpeg/DEkbXNpQmXNwW5Lf5Lg2bcBr8ajDU55p0h77_9Ie-_8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60324331/%E8%90%BD%E9%A6%AC%E6%B4%B2%E5%9B%9E%E6%94%B6%E5%A0%B4%E7%94%B7%E5%B7%A5%E8%A2%AB%E5%9B%B0%E9%87%91%E5%B1%AC%E6%8B%8B%E5%85%89%E6%A9%9F-%E5%90%8C%E4%BA%8B%E6%95%91%E5%87%BA-%E9%A0%AD%E9%A0%B8%E6%89%8B%E5%A4%9A%E8%99%95%E5%8F%97%E5%82%B7%E9%80%81%E9%99%A2",
-    "timestamp": "2026-02-23T11:55:56.561Z",
     "strategy": ".content-card__main"
   }
 ];
