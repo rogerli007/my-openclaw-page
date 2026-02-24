@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-24T08:07:02.610Z
+// Last updated: 2026-02-24T08:35:06.898Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "財政預算案2026｜蔡冠深：不希望有「派糖」　籲支援中小企出海",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260224/1102990399825514496107396.jpeg/p9rL_MQ_JiGoepuVkFRbV5FssML2jEJm9HOg0_RzoNM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60324594/%E8%B2%A1%E6%94%BF%E9%A0%90%E7%AE%97%E6%A1%882026-%E8%94%A1%E5%86%A0%E6%B7%B1-%E4%B8%8D%E5%B8%8C%E6%9C%9B%E6%9C%89-%E6%B4%BE%E7%B3%96-%E7%B1%B2%E6%94%AF%E6%8F%B4%E4%B8%AD%E5%B0%8F%E4%BC%81%E5%87%BA%E6%B5%B7",
+    "timestamp": "2026-02-24T08:35:06.898Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "龍崗深圳版「蒼山洱海」景美人少　原生態海灘觀鳥垂釣如世外桃源",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260202/1094982619218579456739206.jpeg/DHPC1lvufUF3sqL2hvfkCxCsFvufLfjnQ7fZm0O32Zs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/60317437/%E8%A1%8C%E8%B7%AF%E5%B0%B1%E7%97%9B-%E5%81%9C%E4%BD%8E%E5%B0%B1%E5%A5%BD-%E9%86%AB%E7%94%9F-%E6%81%90%E6%98%AF%E5%91%A8%E9%82%8A%E5%8B%95%E8%84%88%E9%98%BB%E5%A1%9E-%E6%8B%96%E5%BB%B6%E6%B2%BB%E7%99%82%E6%81%90%E9%9C%80%E6%88%AA%E8%82%A2",
     "timestamp": "2026-02-23T09:41:38.191Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "安德魯被捕照羅浮宮「快閃貼堂」　諷刺團體：讓世界記住他｜有片",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260223/1102634887107579904239465.jpeg/HqszEV5YAyNxkoRMSJYKimbeOL4j_BLYsGUBwLBlAcA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60324260/%E5%AE%89%E5%BE%B7%E9%AD%AF%E8%A2%AB%E6%8D%95%E7%85%A7%E7%BE%85%E6%B5%AE%E5%AE%AE-%E5%BF%AB%E9%96%83%E8%B2%BC%E5%A0%82-%E8%AB%B7%E5%88%BA%E5%9C%98%E9%AB%94-%E8%AE%93%E4%B8%96%E7%95%8C%E8%A8%98%E4%BD%8F%E4%BB%96-%E6%9C%89%E7%89%87",
-    "timestamp": "2026-02-23T09:10:31.577Z",
     "strategy": ".content-card__main"
   }
 ];
