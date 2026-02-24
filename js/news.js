@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-24T12:04:37.679Z
+// Last updated: 2026-02-24T12:56:48.207Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "鏢人：風起大漠影評｜漫畫改篇還原度極高　李連杰這場已值回票價",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260224/1103004271877558272801752.jpeg/MMs6TaH1A9bsI6LxcL_hfzu29TiU4q5bd8Sd23fEnds?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60324521/%E9%8F%A2%E4%BA%BA-%E9%A2%A8%E8%B5%B7%E5%A4%A7%E6%BC%A0%E5%BD%B1%E8%A9%95-%E6%BC%AB%E7%95%AB%E6%94%B9%E7%AF%87%E9%82%84%E5%8E%9F%E5%BA%A6%E6%A5%B5%E9%AB%98-%E6%9D%8E%E9%80%A3%E6%9D%B0%E9%80%99%E5%A0%B4%E5%B7%B2%E5%80%BC%E5%9B%9E%E7%A5%A8%E5%83%B9",
+    "timestamp": "2026-02-24T12:56:48.207Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "渣打禤惠儀︰宏觀環境仍具不確定性　惟開局強勁利好港財管業務",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260223/1102687151876739072103876.jpeg/DEkbXNpQmXNwW5Lf5Lg2bcBr8ajDU55p0h77_9Ie-_8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60324331/%E8%90%BD%E9%A6%AC%E6%B4%B2%E5%9B%9E%E6%94%B6%E5%A0%B4%E7%94%B7%E5%B7%A5%E8%A2%AB%E5%9B%B0%E9%87%91%E5%B1%AC%E6%8B%8B%E5%85%89%E6%A9%9F-%E5%90%8C%E4%BA%8B%E6%95%91%E5%87%BA-%E9%A0%AD%E9%A0%B8%E6%89%8B%E5%A4%9A%E8%99%95%E5%8F%97%E5%82%B7%E9%80%81%E9%99%A2",
     "timestamp": "2026-02-23T11:55:56.561Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普再調整全球關稅至15%　一文看清各國反應　日本：令人憤慨",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260219/1101298887823462400826035.jpeg/LNcRJeGpXJO4ZIZz5Tg0jxrAGZmeqmZaYyVBo2MlQaM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E4%B8%96%E7%95%8C%E5%B0%88%E9%A1%8C/60324267/%E7%89%B9%E6%9C%97%E6%99%AE%E5%86%8D%E8%AA%BF%E6%95%B4%E5%85%A8%E7%90%83%E9%97%9C%E7%A8%85%E8%87%B315-%E4%B8%80%E6%96%87%E7%9C%8B%E6%B8%85%E5%90%84%E5%9C%8B%E5%8F%8D%E6%87%89-%E6%97%A5%E6%9C%AC-%E4%BB%A4%E4%BA%BA%E6%86%A4%E6%85%A8",
-    "timestamp": "2026-02-23T11:35:20.146Z",
     "strategy": ".content-card__main"
   }
 ];
