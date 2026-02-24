@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-24T03:44:54.215Z
+// Last updated: 2026-02-24T06:13:53.286Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "財政預算案2026｜北都發展有新猷？　消息指設2億基金拓鄉村旅遊",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250204/963436630356529152631890.jpeg/ZS9seUSgLRyshZ3d6Z_ku9LSOHnzGZ5GcFJb1XBSW9U?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60324520/%E8%B2%A1%E6%94%BF%E9%A0%90%E7%AE%97%E6%A1%882026-%E5%8C%97%E9%83%BD%E7%99%BC%E5%B1%95%E6%9C%89%E6%96%B0%E7%8C%B7-%E6%B6%88%E6%81%AF%E6%8C%87%E8%A8%AD2%E5%84%84%E5%9F%BA%E9%87%91%E6%8B%93%E9%84%89%E6%9D%91%E6%97%85%E9%81%8A",
+    "timestamp": "2026-02-24T06:13:53.286Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "最長春節假谷消費　零售餐飲銷售額升8.6%　電影票房慘遇滑鐵盧",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260223/1102582880401362944351647.jpeg/KwcnVCkl_XB9w-mF8TXPX8jPXdCiwBIq95mmIveZpiI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60324188/megumi%E8%A2%AB%E7%88%86%E8%88%87%E4%BB%A4%E5%92%8C%E6%B5%AA%E6%BC%AB%E9%AB%99%E6%AF%94%E8%89%AF%E8%BB%8A%E7%86%B1%E6%88%80-%E5%89%8D%E5%A4%AB%E7%82%BAdragon-ash%E9%99%8D%E8%B0%B7%E5%BB%BA%E5%BF%97",
     "timestamp": "2026-02-23T06:39:40.993Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "林寶堅尼棄電動超級跑車計劃　轉攻混能車",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260223/1102561193085636608376895.jpeg/uJYpHGruq3tNV6Wkqqse-OlJRXMgHQhCplJQIaZSUCE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60324162/%E6%9E%97%E5%AF%B6%E5%A0%85%E5%B0%BC%E6%A3%84%E9%9B%BB%E5%8B%95%E8%B6%85%E7%B4%9A%E8%B7%91%E8%BB%8A%E8%A8%88%E5%8A%83-%E8%BD%89%E6%94%BB%E6%B7%B7%E8%83%BD%E8%BB%8A",
-    "timestamp": "2026-02-23T03:46:01.282Z",
     "strategy": ".content-card__main"
   }
 ];
