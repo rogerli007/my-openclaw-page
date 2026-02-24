@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-24T13:40:20.697Z
+// Last updated: 2026-02-24T14:41:53.315Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "環保團體揭橋咀洲遊人捉蟹掘蜆　漁護署研納入海岸公園增強保護",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260224/1103082239178051584176594.jpeg/89VsAjrK5PfbDnAVVjlmR4nWZI_nD8T_rolvwK6Jb8A?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60324705/%E7%92%B0%E4%BF%9D%E5%9C%98%E9%AB%94%E6%8F%AD%E6%A9%8B%E5%92%80%E6%B4%B2%E9%81%8A%E4%BA%BA%E6%8D%89%E8%9F%B9%E6%8E%98%E8%9C%86-%E6%BC%81%E8%AD%B7%E7%BD%B2%E7%A0%94%E7%B4%8D%E5%85%A5%E6%B5%B7%E5%B2%B8%E5%85%AC%E5%9C%92%E5%A2%9E%E5%BC%B7%E4%BF%9D%E8%AD%B7",
+    "timestamp": "2026-02-24T14:41:53.315Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "警聯入境處大埔上水粉嶺掃黃　拘12雙程證內地女涉違逗留條件",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260223/1102705191284641792153294.jpeg/bEuaoRjgTxhg5gkLwZgXOIcUHYy8HVZmJGUjbSRlI20?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60324359/%E5%9D%91%E5%8F%A3%E7%81%AB%E9%8D%8B%E5%BA%97%E6%9C%AA%E9%96%8B%E5%BC%B5%E5%85%88-%E9%99%A3%E4%BA%A1-%E6%96%B0%E6%98%A5%E9%AF%87%E9%AD%9A%E9%9B%86%E9%AB%94%E5%8F%8D%E8%82%9A-%E7%B6%B2%E6%B0%91-%E5%A4%A7%E5%90%89%E5%88%A9%E6%98%AF",
     "timestamp": "2026-02-23T13:00:19.925Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "皇馬中堅胡積臣轉發辱華帖文　微博致歉被批「內地限定」沒誠意",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260223/1102696929126518784340216.jpeg/7LlxoFslQKsfvWkJKnpTAkhZYRe3z3Pabg6CRW4OgkU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60324354/%E7%9A%87%E9%A6%AC%E4%B8%AD%E5%A0%85%E8%83%A1%E7%A9%8D%E8%87%A3%E8%BD%89%E7%99%BC%E8%BE%B1%E8%8F%AF%E5%B8%96%E6%96%87-%E5%BE%AE%E5%8D%9A%E8%87%B4%E6%AD%89%E8%A2%AB%E6%89%B9-%E5%85%A7%E5%9C%B0%E9%99%90%E5%AE%9A-%E6%B2%92%E8%AA%A0%E6%84%8F",
-    "timestamp": "2026-02-23T12:26:42.202Z",
     "strategy": ".content-card__main"
   }
 ];
