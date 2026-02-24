@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-24T10:37:55.606Z
+// Last updated: 2026-02-24T12:04:37.679Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "渣打禤惠儀︰宏觀環境仍具不確定性　惟開局強勁利好港財管業務",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260224/1103055227763822592621538.jpeg/EINWIJS0Ox5NM6CwcN4nPA8aLj8cF3195xiZnOcYmZw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60324694/%E6%B8%A3%E6%89%93%E7%A6%A4%E6%83%A0%E5%84%80-%E5%AE%8F%E8%A7%80%E7%92%B0%E5%A2%83%E4%BB%8D%E5%85%B7%E4%B8%8D%E7%A2%BA%E5%AE%9A%E6%80%A7-%E6%83%9F%E9%96%8B%E5%B1%80%E5%BC%B7%E5%8B%81%E5%88%A9%E5%A5%BD%E6%B8%AF%E8%B2%A1%E7%AE%A1%E6%A5%AD%E5%8B%99",
+    "timestamp": "2026-02-24T12:04:37.679Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "蒼蠅竟然也懂藝術? 西班牙潮流單位讓 Rolex 錶盤成為蒼蠅畫布",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260219/1101298887823462400826035.jpeg/LNcRJeGpXJO4ZIZz5Tg0jxrAGZmeqmZaYyVBo2MlQaM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E4%B8%96%E7%95%8C%E5%B0%88%E9%A1%8C/60324267/%E7%89%B9%E6%9C%97%E6%99%AE%E5%86%8D%E8%AA%BF%E6%95%B4%E5%85%A8%E7%90%83%E9%97%9C%E7%A8%85%E8%87%B315-%E4%B8%80%E6%96%87%E7%9C%8B%E6%B8%85%E5%90%84%E5%9C%8B%E5%8F%8D%E6%87%89-%E6%97%A5%E6%9C%AC-%E4%BB%A4%E4%BA%BA%E6%86%A4%E6%85%A8",
     "timestamp": "2026-02-23T11:35:20.146Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "懲教院所太熱　懲教署：增1800部風扇、室內引入隔熱膜及製冷塗層",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260223/1102647944294699008130826.jpeg/0nT9owjwqknv8vsAaWHI9grxBKQ3GRTWTzlNjk85TY4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60324261/%E6%87%B2%E6%95%99%E9%99%A2%E6%89%80%E5%A4%AA%E7%86%B1-%E6%87%B2%E6%95%99%E7%BD%B2-%E5%A2%9E1800%E9%83%A8%E9%A2%A8%E6%89%87-%E5%AE%A4%E5%85%A7%E5%BC%95%E5%85%A5%E9%9A%94%E7%86%B1%E8%86%9C%E5%8F%8A%E8%A3%BD%E5%86%B7%E5%A1%97%E5%B1%A4",
-    "timestamp": "2026-02-23T11:09:59.673Z",
     "strategy": ".content-card__main"
   }
 ];
