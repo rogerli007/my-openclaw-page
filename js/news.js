@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-24T06:13:53.286Z
+// Last updated: 2026-02-24T07:14:41.049Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "中山美食10大推薦｜米芝蓮+黑珍珠推介！田園風Cafe／創意點心",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260224/1102983536857583616230465.jpeg/rSXDTXZxAyZ20R2hu3HXjKaYcnH-YO5LvXE-xb1xPsU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%97%85%E9%81%8A/60323561/%E4%B8%AD%E5%B1%B1%E7%BE%8E%E9%A3%9F10%E5%A4%A7%E6%8E%A8%E8%96%A6-%E7%B1%B3%E8%8A%9D%E8%93%AE-%E9%BB%91%E7%8F%8D%E7%8F%A0%E6%8E%A8%E4%BB%8B-%E7%94%B0%E5%9C%92%E9%A2%A8cafe-%E5%89%B5%E6%84%8F%E9%BB%9E%E5%BF%83",
+    "timestamp": "2026-02-24T07:14:41.049Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "財政預算案2026｜北都發展有新猷？　消息指設2億基金拓鄉村旅遊",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260223/1102601046053621760862945.jpeg/cQUTN1W6lSeGMumaUqpFVWTKr40PLK3ZZlDzuGZQ87g?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60324232/%E6%B0%B8%E7%BE%A9%E5%A0%85%E5%B0%BC%E5%9C%B0%E5%9F%8E-%E6%B5%B7%E5%B5%8E-%E4%BB%8A%E4%B8%8A%E6%A8%93%E6%9B%B8-%E6%9C%80%E7%B4%B0247%E5%91%8E-%E7%A4%BA%E7%AF%84%E5%96%AE%E4%BD%8D%E6%9B%9D%E5%85%89-%E5%A4%9A%E5%9C%96",
     "timestamp": "2026-02-23T07:15:03.232Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "再有日本諧星追到女神　文春爆M-1冠軍「令和浪漫」成員與她熱戀",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260223/1102582880401362944351647.jpeg/KwcnVCkl_XB9w-mF8TXPX8jPXdCiwBIq95mmIveZpiI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60324188/megumi%E8%A2%AB%E7%88%86%E8%88%87%E4%BB%A4%E5%92%8C%E6%B5%AA%E6%BC%AB%E9%AB%99%E6%AF%94%E8%89%AF%E8%BB%8A%E7%86%B1%E6%88%80-%E5%89%8D%E5%A4%AB%E7%82%BAdragon-ash%E9%99%8D%E8%B0%B7%E5%BB%BA%E5%BF%97",
-    "timestamp": "2026-02-23T06:39:40.993Z",
     "strategy": ".content-card__main"
   }
 ];
