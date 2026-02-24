@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-24T09:39:51.453Z
+// Last updated: 2026-02-24T10:37:55.606Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "蒼蠅竟然也懂藝術? 西班牙潮流單位讓 Rolex 錶盤成為蒼蠅畫布",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260224/1103020115957387264079124.png/U6hkCNmbcKuVuxJWGt8Ox3qKYQ88aaiCIf9jgiH_Y4I?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E4%B8%80%E7%89%A9/60324630/%E8%92%BC%E8%A0%85%E7%AB%9F%E7%84%B6%E4%B9%9F%E6%87%82%E8%97%9D%E8%A1%93-%E8%A5%BF%E7%8F%AD%E7%89%99%E6%BD%AE%E6%B5%81%E5%96%AE%E4%BD%8D%E8%AE%93-rolex-%E9%8C%B6%E7%9B%A4%E6%88%90%E7%82%BA%E8%92%BC%E8%A0%85%E7%95%AB%E5%B8%83",
+    "timestamp": "2026-02-24T10:37:55.606Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "湖南漢放煙花遇「炸膛」　胸部遭近距離炸中奪命",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260223/1102647944294699008130826.jpeg/0nT9owjwqknv8vsAaWHI9grxBKQ3GRTWTzlNjk85TY4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60324261/%E6%87%B2%E6%95%99%E9%99%A2%E6%89%80%E5%A4%AA%E7%86%B1-%E6%87%B2%E6%95%99%E7%BD%B2-%E5%A2%9E1800%E9%83%A8%E9%A2%A8%E6%89%87-%E5%AE%A4%E5%85%A7%E5%BC%95%E5%85%A5%E9%9A%94%E7%86%B1%E8%86%9C%E5%8F%8A%E8%A3%BD%E5%86%B7%E5%A1%97%E5%B1%A4",
     "timestamp": "2026-02-23T11:09:59.673Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "傳美顏濾鏡失靈　中國美妝網紅直播突露「真面目」　秒失14萬粉絲",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260223/1102660892408942592520769.jpeg/fUr_aJmmKZaKiRFw4Hv3s5O7m8Vkm8_ERV9GtUVfRrU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60324303/%E5%82%B3%E7%BE%8E%E9%A1%8F%E6%BF%BE%E9%8F%A1%E5%A4%B1%E9%9D%88-%E4%B8%AD%E5%9C%8B%E7%BE%8E%E5%A6%9D%E7%B6%B2%E7%B4%85%E7%9B%B4%E6%92%AD%E7%AA%81%E9%9C%B2-%E7%9C%9F%E9%9D%A2%E7%9B%AE-%E7%A7%92%E5%A4%B114%E8%90%AC%E7%B2%89%E7%B5%B2",
-    "timestamp": "2026-02-23T10:12:36.690Z",
     "strategy": ".content-card__main"
   }
 ];
