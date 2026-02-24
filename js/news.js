@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-24T15:13:17.971Z
+// Last updated: 2026-02-24T17:15:14.573Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "中國海事局發航行警告　南海部份海域25日起進行實彈射擊",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260225/1103127062274641920784192.png/G6Xyf0jl-q-CyvCuARwPlqrKVnwRgEEK-o1ZY_qNWWM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60324739/%E4%B8%AD%E5%9C%8B%E6%B5%B7%E4%BA%8B%E5%B1%80%E7%99%BC%E8%88%AA%E8%A1%8C%E8%AD%A6%E5%91%8A-%E5%8D%97%E6%B5%B7%E9%83%A8%E4%BB%BD%E6%B5%B7%E5%9F%9F25%E6%97%A5%E8%B5%B7%E9%80%B2%E8%A1%8C%E5%AF%A6%E5%BD%88%E5%B0%84%E6%93%8A",
+    "timestamp": "2026-02-24T17:15:14.573Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "一馬當先行大運｜莊子璇自嘲姻緣一塌糊塗　XiX驚現姊妹爭夫危機",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260223/1102682333808431104086742.jpeg/lvtd7yOBUQL5sexJmDZgo7YkoB_tb7Oe4fYpItv2KSI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60324344/%E9%8D%BE%E6%9F%94%E7%BE%8E%E9%99%B7-a0-%E9%A2%A8%E6%B3%A2%E7%B6%B2%E6%B0%91%E6%89%B9%E4%BA%BA%E8%A8%AD%E5%B4%A9%E5%A3%9E%E6%AC%A0%E5%85%AC%E4%BF%A1%E5%8A%9B-%E8%A9%B9%E5%A4%A9%E6%96%8711%E5%AD%97%E5%90%90%E7%9C%9F%E8%A8%80",
     "timestamp": "2026-02-23T16:08:52.670Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "江欣燕公眾場合赤裸浸浴　露出一雙玉腿震撼地露胸？",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260223/1102681617450668032706413.jpeg/Y8NU9cje4JctraLESjBOcZ7V2LyQhQ8g6DlMZug5TGY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60324324/%E6%B1%9F%E6%AC%A3%E7%87%95%E5%85%AC%E7%9C%BE%E5%A0%B4%E5%90%88%E8%B5%A4%E8%A3%B8%E6%B5%B8%E6%B5%B4-%E9%9C%B2%E5%87%BA%E4%B8%80%E9%9B%99%E7%8E%89%E8%85%BF%E9%9C%87%E6%92%BC%E5%9C%B0%E9%9C%B2%E8%83%B8",
-    "timestamp": "2026-02-23T14:39:18.864Z",
     "strategy": ".content-card__main"
   }
 ];
