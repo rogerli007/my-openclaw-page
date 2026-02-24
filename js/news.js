@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-24T21:51:26.969Z
+// Last updated: 2026-02-24T22:36:11.996Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "前豪門新抱帶大女到呂良偉家中拜年　離婚後與楊小娟閨密情不變",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260224/1103066908682358784746150.jpeg/PF6Xpvr61Eoljn1EW7JxMeY0lGPaeC7stSIUNLUiFDQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60324618/%E4%BD%95%E7%8C%B7%E5%95%9F%E5%89%8D%E5%A6%BB%E9%BD%8A%E5%AC%8C%E5%B8%B6%E5%A5%B3%E5%88%B0%E5%91%82%E8%89%AF%E5%81%89%E5%AE%B6%E4%B8%AD%E6%8B%9C%E5%B9%B4-%E9%9B%A2%E5%A9%9A%E5%BE%8C%E8%88%87%E6%A5%8A%E5%B0%8F%E5%A8%9F%E9%96%A8%E5%AF%86%E6%83%85%E4%B8%8D%E8%AE%8A",
+    "timestamp": "2026-02-24T22:36:11.996Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "特朗普關稅案敗訴　美媒：中國最大贏家　大摩：平均稅率降至24%",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250204/963436630356529152631890.jpeg/ZS9seUSgLRyshZ3d6Z_ku9LSOHnzGZ5GcFJb1XBSW9U?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60324520/%E8%B2%A1%E6%94%BF%E9%A0%90%E7%AE%97%E6%A1%882026-%E5%8C%97%E9%83%BD%E7%99%BC%E5%B1%95%E6%9C%89%E6%96%B0%E7%8C%B7-%E6%B6%88%E6%81%AF%E6%8C%87%E8%A8%AD2%E5%84%84%E5%9F%BA%E9%87%91%E6%8B%93%E9%84%89%E6%9D%91%E6%97%85%E9%81%8A",
     "timestamp": "2026-02-24T06:13:53.286Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "最長春節假谷消費　零售餐飲銷售額升8.6%　電影票房慘遇滑鐵盧",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260224/1102924615396626432815473.jpeg/0Aa0LLfwK0BcyjMbE5JYb4g0B26giDkUkP3S85D90vM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60324452/%E6%9C%80%E9%95%B7%E6%98%A5%E7%AF%80%E5%81%87%E8%B0%B7%E6%B6%88%E8%B2%BB-%E9%9B%B6%E5%94%AE%E9%A4%90%E9%A3%B2%E9%8A%B7%E5%94%AE%E9%A1%8D%E5%8D%878-6-%E9%9B%BB%E5%BD%B1%E7%A5%A8%E6%88%BF%E6%85%98%E9%81%87%E6%BB%91%E9%90%B5%E7%9B%A7",
-    "timestamp": "2026-02-24T03:44:54.215Z",
     "strategy": ".content-card__main"
   }
 ];
