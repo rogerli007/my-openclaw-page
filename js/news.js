@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-24T21:20:13.012Z
+// Last updated: 2026-02-24T21:51:26.969Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "特朗普關稅案敗訴　美媒：中國最大贏家　大摩：平均稅率降至24%",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20251227/1081515297304743936825431.jpeg/a-NoMFwvM8YX9n18UE2fyUii_wxrItcNeaUKA3mlCgM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60324763/%E7%89%B9%E6%9C%97%E6%99%AE%E9%97%9C%E7%A8%85%E6%A1%88%E6%95%97%E8%A8%B4-%E7%BE%8E%E5%AA%92-%E4%B8%AD%E5%9C%8B%E6%9C%80%E5%A4%A7%E8%B4%8F%E5%AE%B6-%E5%A4%A7%E6%91%A9-%E5%B9%B3%E5%9D%87%E7%A8%85%E7%8E%87%E9%99%8D%E8%87%B324",
+    "timestamp": "2026-02-24T21:51:26.969Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "特朗普關稅案敗訴　美媒：中國最大贏家　大摩：平均稅率降至24%",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260224/1102924615396626432815473.jpeg/0Aa0LLfwK0BcyjMbE5JYb4g0B26giDkUkP3S85D90vM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60324452/%E6%9C%80%E9%95%B7%E6%98%A5%E7%AF%80%E5%81%87%E8%B0%B7%E6%B6%88%E8%B2%BB-%E9%9B%B6%E5%94%AE%E9%A4%90%E9%A3%B2%E9%8A%B7%E5%94%AE%E9%A1%8D%E5%8D%878-6-%E9%9B%BB%E5%BD%B1%E7%A5%A8%E6%88%BF%E6%85%98%E9%81%87%E6%BB%91%E9%90%B5%E7%9B%A7",
     "timestamp": "2026-02-24T03:44:54.215Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "伊朗：願與美持續數周談判　任何攻擊都被視作侵略",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260224/1102766613523861504972843.jpeg/jCajp46ptALFVzaSnbT1s_djhYaFZ4gnvRWVb70VlW8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60324387/%E4%BC%8A%E6%9C%97-%E9%A1%98%E8%88%87%E7%BE%8E%E6%8C%81%E7%BA%8C%E6%95%B8%E5%91%A8%E8%AB%87%E5%88%A4-%E4%BB%BB%E4%BD%95%E6%94%BB%E6%93%8A%E9%83%BD%E8%A2%AB%E8%A6%96%E4%BD%9C%E4%BE%B5%E7%95%A5",
-    "timestamp": "2026-02-23T21:05:04.565Z",
     "strategy": ".content-card__main"
   }
 ];
