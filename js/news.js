@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-24T22:36:11.996Z
+// Last updated: 2026-02-24T23:20:12.976Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "曾強姦智障女囚6年！人夫出獄性侵13歲智障小女友　囚X年打藤X下",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260219/1101198854801330176296187.png/r3-7OtIysohsNrQf1UZwltvmFdNAqvMxV5BfzVeQX80?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E8%A9%B1%E9%A1%8C/60323328/%E6%9B%BE%E5%BC%B7%E5%A7%A6%E6%99%BA%E9%9A%9C%E5%A5%B3%E5%9B%9A6%E5%B9%B4-%E4%BA%BA%E5%A4%AB%E5%87%BA%E7%8D%84%E6%80%A7%E4%BE%B513%E6%AD%B2%E6%99%BA%E9%9A%9C%E5%B0%8F%E5%A5%B3%E5%8F%8B-%E5%9B%9Ax%E5%B9%B4%E6%89%93%E8%97%A4x%E4%B8%8B",
+    "timestamp": "2026-02-24T23:20:12.976Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "前豪門新抱帶大女到呂良偉家中拜年　離婚後與楊小娟閨密情不變",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260224/1102983536857583616230465.jpeg/rSXDTXZxAyZ20R2hu3HXjKaYcnH-YO5LvXE-xb1xPsU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%97%85%E9%81%8A/60323561/%E4%B8%AD%E5%B1%B1%E7%BE%8E%E9%A3%9F10%E5%A4%A7%E6%8E%A8%E8%96%A6-%E7%B1%B3%E8%8A%9D%E8%93%AE-%E9%BB%91%E7%8F%8D%E7%8F%A0%E6%8E%A8%E4%BB%8B-%E7%94%B0%E5%9C%92%E9%A2%A8cafe-%E5%89%B5%E6%84%8F%E9%BB%9E%E5%BF%83",
     "timestamp": "2026-02-24T07:14:41.049Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "財政預算案2026｜北都發展有新猷？　消息指設2億基金拓鄉村旅遊",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250204/963436630356529152631890.jpeg/ZS9seUSgLRyshZ3d6Z_ku9LSOHnzGZ5GcFJb1XBSW9U?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60324520/%E8%B2%A1%E6%94%BF%E9%A0%90%E7%AE%97%E6%A1%882026-%E5%8C%97%E9%83%BD%E7%99%BC%E5%B1%95%E6%9C%89%E6%96%B0%E7%8C%B7-%E6%B6%88%E6%81%AF%E6%8C%87%E8%A8%AD2%E5%84%84%E5%9F%BA%E9%87%91%E6%8B%93%E9%84%89%E6%9D%91%E6%97%85%E9%81%8A",
-    "timestamp": "2026-02-24T06:13:53.286Z",
     "strategy": ".content-card__main"
   }
 ];
