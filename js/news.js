@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-25T04:34:23.727Z
+// Last updated: 2026-02-25T05:47:32.868Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "財政預算案｜幻彩詠香江將變什麼？消息：光影巡禮唔會365日都有",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20230101/686017469986508800094165.jpeg/w2z_X8flWJfRzsAZK7E3JYpXRldUqjRGb5NHhXWTR4U?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60324918/%E8%B2%A1%E6%94%BF%E9%A0%90%E7%AE%97%E6%A1%88-%E5%B9%BB%E5%BD%A9%E8%A9%A0%E9%A6%99%E6%B1%9F%E5%B0%87%E8%AE%8A%E4%BB%80%E9%BA%BC-%E6%B6%88%E6%81%AF-%E5%85%89%E5%BD%B1%E5%B7%A1%E7%A6%AE%E5%94%94%E6%9C%83365%E6%97%A5%E9%83%BD%E6%9C%89",
+    "timestamp": "2026-02-25T05:47:32.868Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "財政預算案2026｜高官紫色穿搭呼應封面　男議員戴紫呔派紫利是封",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260224/1103004271877558272801752.jpeg/MMs6TaH1A9bsI6LxcL_hfzu29TiU4q5bd8Sd23fEnds?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60324521/%E9%8F%A2%E4%BA%BA-%E9%A2%A8%E8%B5%B7%E5%A4%A7%E6%BC%A0%E5%BD%B1%E8%A9%95-%E6%BC%AB%E7%95%AB%E6%94%B9%E7%AF%87%E9%82%84%E5%8E%9F%E5%BA%A6%E6%A5%B5%E9%AB%98-%E6%9D%8E%E9%80%A3%E6%9D%B0%E9%80%99%E5%A0%B4%E5%B7%B2%E5%80%BC%E5%9B%9E%E7%A5%A8%E5%83%B9",
     "timestamp": "2026-02-24T12:56:48.207Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "渣打禤惠儀︰宏觀環境仍具不確定性　惟開局強勁利好港財管業務",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260224/1103055227763822592621538.jpeg/EINWIJS0Ox5NM6CwcN4nPA8aLj8cF3195xiZnOcYmZw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60324694/%E6%B8%A3%E6%89%93%E7%A6%A4%E6%83%A0%E5%84%80-%E5%AE%8F%E8%A7%80%E7%92%B0%E5%A2%83%E4%BB%8D%E5%85%B7%E4%B8%8D%E7%A2%BA%E5%AE%9A%E6%80%A7-%E6%83%9F%E9%96%8B%E5%B1%80%E5%BC%B7%E5%8B%81%E5%88%A9%E5%A5%BD%E6%B8%AF%E8%B2%A1%E7%AE%A1%E6%A5%AD%E5%8B%99",
-    "timestamp": "2026-02-24T12:04:37.679Z",
     "strategy": ".content-card__main"
   }
 ];
