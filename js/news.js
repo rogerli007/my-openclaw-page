@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-25T14:41:09.847Z
+// Last updated: 2026-02-25T15:13:33.756Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美股｜市場觀望Nvidia業績　道指早段升逾200點　納指漲1%",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250529/1004894676605472768376024.jpeg/iqzPKOj7JcSNx3oGiU4TGDGAQwgoE4OSf6dts3-nbbM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60325141/%E7%BE%8E%E8%82%A1-%E5%B8%82%E5%A0%B4%E8%A7%80%E6%9C%9Bnvidia%E6%A5%AD%E7%B8%BE-%E9%81%93%E6%8C%87%E6%97%A9%E6%AE%B5%E5%8D%87%E9%80%BE200%E9%BB%9E-%E7%B4%8D%E6%8C%87%E6%BC%B21",
+    "timestamp": "2026-02-25T15:13:33.756Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "印男求歡被拒竟姦殺碩士女友　破壞遺體後再姦屍　還用黑魔法招魂",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20251227/1081515297304743936825431.jpeg/a-NoMFwvM8YX9n18UE2fyUii_wxrItcNeaUKA3mlCgM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60324763/%E7%89%B9%E6%9C%97%E6%99%AE%E9%97%9C%E7%A8%85%E6%A1%88%E6%95%97%E8%A8%B4-%E7%BE%8E%E5%AA%92-%E4%B8%AD%E5%9C%8B%E6%9C%80%E5%A4%A7%E8%B4%8F%E5%AE%B6-%E5%A4%A7%E6%91%A9-%E5%B9%B3%E5%9D%87%E7%A8%85%E7%8E%87%E9%99%8D%E8%87%B324",
     "timestamp": "2026-02-24T21:51:26.969Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普關稅案敗訴　美媒：中國最大贏家　大摩：平均稅率降至24%",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20251227/1081515297304743936825431.jpeg/a-NoMFwvM8YX9n18UE2fyUii_wxrItcNeaUKA3mlCgM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60324763/%E7%89%B9%E6%9C%97%E6%99%AE%E9%97%9C%E7%A8%85%E6%A1%88%E6%95%97%E8%A8%B4-%E7%BE%8E%E5%AA%92-%E4%B8%AD%E5%9C%8B%E6%9C%80%E5%A4%A7%E8%B4%8F%E5%AE%B6-%E5%A4%A7%E6%91%A9-%E5%B9%B3%E5%9D%87%E7%A8%85%E7%8E%87%E9%99%8D%E8%87%B324",
-    "timestamp": "2026-02-24T21:20:13.012Z",
     "strategy": ".content-card__main"
   }
 ];
