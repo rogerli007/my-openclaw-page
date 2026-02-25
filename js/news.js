@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-25T17:44:45.111Z
+// Last updated: 2026-02-25T18:14:40.241Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "三星Galaxy S26 Ultra實機試：香港幾時賣？內建PerplexityAI實用",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260225/1103395252472909824463912.jpeg/i8U5OFu-fE4-_NjcfUEcLHVnlkh7UK3Mcljso3JY7KM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60324653/%E4%B8%89%E6%98%9Fgalaxy-s26-ultra%E5%AF%A6%E6%A9%9F%E8%A9%A6-%E9%A6%99%E6%B8%AF%E5%B9%BE%E6%99%82%E8%B3%A3-%E5%85%A7%E5%BB%BAperplexityai%E5%AF%A6%E7%94%A8",
+    "timestamp": "2026-02-25T18:14:40.241Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "愛潑斯坦案｜哈佛發言人：前校長薩默斯辭任教職　學年結束後離任",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250823/1035944090723684352846371.jpeg/MN8H4Shp9G4y1ZVweweqfd1iGXefcqKujLlR-Iy5Ufg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%9C%8B%E9%9A%9B%E5%88%86%E6%9E%90/60324693/%E4%BF%84%E7%83%8F%E6%88%B0%E7%88%AD%E5%9B%9B%E5%91%A8%E5%B9%B4-%E4%B8%80%E5%A0%B4%E9%9B%A3%E8%B4%8F%E5%8D%BB%E5%8F%88%E4%B8%8D%E6%95%A2%E7%B5%90%E6%9D%9F%E7%9A%84%E6%88%B0%E7%88%AD",
     "timestamp": "2026-02-24T23:49:17.506Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "曾強姦智障女囚6年！人夫出獄性侵13歲智障小女友　囚X年打藤X下",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260219/1101198854801330176296187.png/r3-7OtIysohsNrQf1UZwltvmFdNAqvMxV5BfzVeQX80?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E8%A9%B1%E9%A1%8C/60323328/%E6%9B%BE%E5%BC%B7%E5%A7%A6%E6%99%BA%E9%9A%9C%E5%A5%B3%E5%9B%9A6%E5%B9%B4-%E4%BA%BA%E5%A4%AB%E5%87%BA%E7%8D%84%E6%80%A7%E4%BE%B513%E6%AD%B2%E6%99%BA%E9%9A%9C%E5%B0%8F%E5%A5%B3%E5%8F%8B-%E5%9B%9Ax%E5%B9%B4%E6%89%93%E8%97%A4x%E4%B8%8B",
-    "timestamp": "2026-02-24T23:20:12.976Z",
     "strategy": ".content-card__main"
   }
 ];
