@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-25T18:14:40.241Z
+// Last updated: 2026-02-25T20:02:46.034Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美伊新一輪談判前夕　美財政部公布針對伊朗新制裁名單",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20230918/780555067106267136648931.jpeg/rFRgI---1LBcIpZUWshNyYgGdbkLUYhJ8eBZX_HgWV8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60325166/%E7%BE%8E%E4%BC%8A%E6%96%B0%E4%B8%80%E8%BC%AA%E8%AB%87%E5%88%A4%E5%89%8D%E5%A4%95-%E7%BE%8E%E8%B2%A1%E6%94%BF%E9%83%A8%E5%85%AC%E5%B8%83%E9%87%9D%E5%B0%8D%E4%BC%8A%E6%9C%97%E6%96%B0%E5%88%B6%E8%A3%81%E5%90%8D%E5%96%AE",
+    "timestamp": "2026-02-25T20:02:46.034Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "三星Galaxy S26 Ultra實機試：香港幾時賣？內建PerplexityAI實用",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250823/1035944090723684352846371.jpeg/MN8H4Shp9G4y1ZVweweqfd1iGXefcqKujLlR-Iy5Ufg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%9C%8B%E9%9A%9B%E5%88%86%E6%9E%90/60324693/%E4%BF%84%E7%83%8F%E6%88%B0%E7%88%AD%E5%9B%9B%E5%91%A8%E5%B9%B4-%E4%B8%80%E5%A0%B4%E9%9B%A3%E8%B4%8F%E5%8D%BB%E5%8F%88%E4%B8%8D%E6%95%A2%E7%B5%90%E6%9D%9F%E7%9A%84%E6%88%B0%E7%88%AD",
     "timestamp": "2026-02-25T00:03:37.508Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "俄烏戰爭四週年：一場難贏卻又不敢結束的戰爭？",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250823/1035944090723684352846371.jpeg/MN8H4Shp9G4y1ZVweweqfd1iGXefcqKujLlR-Iy5Ufg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%9C%8B%E9%9A%9B%E5%88%86%E6%9E%90/60324693/%E4%BF%84%E7%83%8F%E6%88%B0%E7%88%AD%E5%9B%9B%E5%91%A8%E5%B9%B4-%E4%B8%80%E5%A0%B4%E9%9B%A3%E8%B4%8F%E5%8D%BB%E5%8F%88%E4%B8%8D%E6%95%A2%E7%B5%90%E6%9D%9F%E7%9A%84%E6%88%B0%E7%88%AD",
-    "timestamp": "2026-02-24T23:49:17.506Z",
     "strategy": ".content-card__main"
   }
 ];
