@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-25T07:42:27.407Z
+// Last updated: 2026-02-25T08:07:21.287Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "骨質疏鬆只懂補鈣？少攝1營養等於白吃！醫教預防4秘訣 忌喝2飲品",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260225/1103352908650385408346027.jpeg/npnP7eXDs4HPNoqjNTCd7etH9Bj0AiKeujIFAroyBQI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60317634/%E9%AA%A8%E8%B3%AA%E7%96%8F%E9%AC%86%E5%8F%AA%E6%87%82%E8%A3%9C%E9%88%A3-%E5%B0%91%E6%94%9D1%E7%87%9F%E9%A4%8A%E7%AD%89%E6%96%BC%E7%99%BD%E5%90%83-%E9%86%AB%E6%95%99%E9%A0%90%E9%98%B24%E7%A7%98%E8%A8%A3-%E5%BF%8C%E5%96%9D2%E9%A3%B2%E5%93%81",
+    "timestamp": "2026-02-25T08:07:21.287Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "財政預算案｜抄牌勁了？交通違例「牛肉乾」進帳7.7億　按年少7%",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260225/1103127062274641920784192.png/G6Xyf0jl-q-CyvCuARwPlqrKVnwRgEEK-o1ZY_qNWWM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60324739/%E4%B8%AD%E5%9C%8B%E6%B5%B7%E4%BA%8B%E5%B1%80%E7%99%BC%E8%88%AA%E8%A1%8C%E8%AD%A6%E5%91%8A-%E5%8D%97%E6%B5%B7%E9%83%A8%E4%BB%BD%E6%B5%B7%E5%9F%9F25%E6%97%A5%E8%B5%B7%E9%80%B2%E8%A1%8C%E5%AF%A6%E5%BD%88%E5%B0%84%E6%93%8A",
     "timestamp": "2026-02-24T17:15:14.573Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "一馬當先行大運｜莊子璇自嘲姻緣一塌糊塗　XiX驚現姊妹爭夫危機",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260224/1102935170056458240183479.jpeg/ngyzl9FiHrXYIQv5HRp-bH5Un7JTxsQuIWsw-SFrMPk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60324471/%E4%B8%80%E9%A6%AC%E7%95%B6%E5%85%88%E8%A1%8C%E5%A4%A7%E9%81%8B-%E8%8E%8A%E5%AD%90%E7%92%87%E8%87%AA%E5%98%B2%E5%A7%BB%E7%B7%A3%E4%B8%80%E5%A1%8C%E7%B3%8A%E5%A1%97-xix%E9%A9%9A%E7%8F%BE%E5%A7%8A%E5%A6%B9%E7%88%AD%E5%A4%AB%E5%8D%B1%E6%A9%9F",
-    "timestamp": "2026-02-24T15:13:17.971Z",
     "strategy": ".content-card__main"
   }
 ];
