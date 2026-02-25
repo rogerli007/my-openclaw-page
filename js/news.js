@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-25T03:44:43.306Z
+// Last updated: 2026-02-25T04:34:23.727Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "財政預算案2026｜高官紫色穿搭呼應封面　男議員戴紫呔派紫利是封",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260225/1103304958557556736641802.jpeg/385yyW06V7c2GFBQsNdcyBKLdbmrv0aeQYOxL2SDsS8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60324868/%E8%B2%A1%E6%94%BF%E9%A0%90%E7%AE%97%E6%A1%882026-%E9%AB%98%E5%AE%98%E7%B4%AB%E8%89%B2%E7%A9%BF%E6%90%AD%E5%91%BC%E6%87%89%E5%B0%81%E9%9D%A2-%E7%94%B7%E8%AD%B0%E5%93%A1%E6%88%B4%E7%B4%AB%E5%91%94%E6%B4%BE%E7%B4%AB%E5%88%A9%E6%98%AF%E5%B0%81",
+    "timestamp": "2026-02-25T04:34:23.727Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "財政預算案2026｜要求港交所檢視上市規定　便利航天企業來港上市",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260224/1103055227763822592621538.jpeg/EINWIJS0Ox5NM6CwcN4nPA8aLj8cF3195xiZnOcYmZw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60324694/%E6%B8%A3%E6%89%93%E7%A6%A4%E6%83%A0%E5%84%80-%E5%AE%8F%E8%A7%80%E7%92%B0%E5%A2%83%E4%BB%8D%E5%85%B7%E4%B8%8D%E7%A2%BA%E5%AE%9A%E6%80%A7-%E6%83%9F%E9%96%8B%E5%B1%80%E5%BC%B7%E5%8B%81%E5%88%A9%E5%A5%BD%E6%B8%AF%E8%B2%A1%E7%AE%A1%E6%A5%AD%E5%8B%99",
     "timestamp": "2026-02-24T12:04:37.679Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "蒼蠅竟然也懂藝術? 西班牙潮流單位讓 Rolex 錶盤成為蒼蠅畫布",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260224/1103020115957387264079124.png/U6hkCNmbcKuVuxJWGt8Ox3qKYQ88aaiCIf9jgiH_Y4I?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E4%B8%80%E7%89%A9/60324630/%E8%92%BC%E8%A0%85%E7%AB%9F%E7%84%B6%E4%B9%9F%E6%87%82%E8%97%9D%E8%A1%93-%E8%A5%BF%E7%8F%AD%E7%89%99%E6%BD%AE%E6%B5%81%E5%96%AE%E4%BD%8D%E8%AE%93-rolex-%E9%8C%B6%E7%9B%A4%E6%88%90%E7%82%BA%E8%92%BC%E8%A0%85%E7%95%AB%E5%B8%83",
-    "timestamp": "2026-02-24T10:37:55.606Z",
     "strategy": ".content-card__main"
   }
 ];
