@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-25T21:50:55.321Z
+// Last updated: 2026-02-25T22:17:21.654Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "天氣｜今日有一兩陣微雨　初時部份地區能見度頗低　日間最高23度",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260226/1103570063078199296642983.jpeg/zpcdRjpt-qjBvar4B7D_bqqLD1sGCtVky9TPtcvUz7U?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60325153/%E5%A4%A9%E6%B0%A3-%E4%BB%8A%E6%97%A5%E6%9C%89%E4%B8%80%E5%85%A9%E9%99%A3%E5%BE%AE%E9%9B%A8-%E5%88%9D%E6%99%82%E9%83%A8%E4%BB%BD%E5%9C%B0%E5%8D%80%E8%83%BD%E8%A6%8B%E5%BA%A6%E9%A0%97%E4%BD%8E-%E6%97%A5%E9%96%93%E6%9C%80%E9%AB%9823%E5%BA%A6",
+    "timestamp": "2026-02-25T22:17:21.654Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "英媒：安德魯曾偷運按摩師回白金漢宮　獲裸體按摩皇室開支票曝光",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20230101/686017469986508800094165.jpeg/w2z_X8flWJfRzsAZK7E3JYpXRldUqjRGb5NHhXWTR4U?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60324918/%E8%B2%A1%E6%94%BF%E9%A0%90%E7%AE%97%E6%A1%88-%E5%B9%BB%E5%BD%A9%E8%A9%A0%E9%A6%99%E6%B1%9F%E5%B0%87%E8%AE%8A%E4%BB%80%E9%BA%BC-%E6%B6%88%E6%81%AF-%E5%85%89%E5%BD%B1%E5%B7%A1%E7%A6%AE%E5%94%94%E6%9C%83365%E6%97%A5%E9%83%BD%E6%9C%89",
     "timestamp": "2026-02-25T05:47:32.868Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "財政預算案2026｜高官紫色穿搭呼應封面　男議員戴紫呔派紫利是封",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260225/1103304958557556736641802.jpeg/385yyW06V7c2GFBQsNdcyBKLdbmrv0aeQYOxL2SDsS8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60324868/%E8%B2%A1%E6%94%BF%E9%A0%90%E7%AE%97%E6%A1%882026-%E9%AB%98%E5%AE%98%E7%B4%AB%E8%89%B2%E7%A9%BF%E6%90%AD%E5%91%BC%E6%87%89%E5%B0%81%E9%9D%A2-%E7%94%B7%E8%AD%B0%E5%93%A1%E6%88%B4%E7%B4%AB%E5%91%94%E6%B4%BE%E7%B4%AB%E5%88%A9%E6%98%AF%E5%B0%81",
-    "timestamp": "2026-02-25T04:34:23.727Z",
     "strategy": ".content-card__main"
   }
 ];
