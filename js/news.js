@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-25T14:15:54.670Z
+// Last updated: 2026-02-25T14:41:09.847Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "印男求歡被拒竟姦殺碩士女友　破壞遺體後再姦屍　還用黑魔法招魂",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260225/1103297788432617472034195.png/zuVJqRTFavGl2xoTuwE8AfBvkapE-hbH1wN0w9cDdMM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E8%A9%B1%E9%A1%8C/60324874/%E5%8D%B0%E7%94%B7%E6%B1%82%E6%AD%A1%E8%A2%AB%E6%8B%92%E7%AB%9F%E5%A7%A6%E6%AE%BA%E7%A2%A9%E5%A3%AB%E5%A5%B3%E5%8F%8B-%E7%A0%B4%E5%A3%9E%E9%81%BA%E9%AB%94%E5%BE%8C%E5%86%8D%E5%A7%A6%E5%B1%8D-%E9%82%84%E7%94%A8%E9%BB%91%E9%AD%94%E6%B3%95%E6%8B%9B%E9%AD%82",
+    "timestamp": "2026-02-25T14:41:09.847Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "警搜牛頭角店舖搗賣淫場所　拘3內地女檢避孕套潤滑劑",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20251227/1081515297304743936825431.jpeg/a-NoMFwvM8YX9n18UE2fyUii_wxrItcNeaUKA3mlCgM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60324763/%E7%89%B9%E6%9C%97%E6%99%AE%E9%97%9C%E7%A8%85%E6%A1%88%E6%95%97%E8%A8%B4-%E7%BE%8E%E5%AA%92-%E4%B8%AD%E5%9C%8B%E6%9C%80%E5%A4%A7%E8%B4%8F%E5%AE%B6-%E5%A4%A7%E6%91%A9-%E5%B9%B3%E5%9D%87%E7%A8%85%E7%8E%87%E9%99%8D%E8%87%B324",
     "timestamp": "2026-02-24T21:20:13.012Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普關稅案敗訴　美媒：中國最大贏家　大摩：平均稅率降至24%",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20251227/1081515297304743936825431.jpeg/a-NoMFwvM8YX9n18UE2fyUii_wxrItcNeaUKA3mlCgM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60324763/%E7%89%B9%E6%9C%97%E6%99%AE%E9%97%9C%E7%A8%85%E6%A1%88%E6%95%97%E8%A8%B4-%E7%BE%8E%E5%AA%92-%E4%B8%AD%E5%9C%8B%E6%9C%80%E5%A4%A7%E8%B4%8F%E5%AE%B6-%E5%A4%A7%E6%91%A9-%E5%B9%B3%E5%9D%87%E7%A8%85%E7%8E%87%E9%99%8D%E8%87%B324",
-    "timestamp": "2026-02-24T20:52:17.537Z",
     "strategy": ".content-card__main"
   }
 ];
