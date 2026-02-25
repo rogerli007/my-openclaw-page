@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-25T10:12:17.602Z
+// Last updated: 2026-02-25T11:55:48.982Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "警上水搗非法麻雀賭檔拘11人　檢電動麻雀枱、賭具及逾$8000現金",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260225/1103413421975539712132564.jpeg/wxq_f5EfNxMB7FI5FcZJVc8X_8UDc-dUKirtYSoq7WE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60325114/%E8%AD%A6%E4%B8%8A%E6%B0%B4%E6%90%97%E9%9D%9E%E6%B3%95%E9%BA%BB%E9%9B%80%E8%B3%AD%E6%AA%94%E6%8B%9811%E4%BA%BA-%E6%AA%A2%E9%9B%BB%E5%8B%95%E9%BA%BB%E9%9B%80%E6%9E%B1-%E8%B3%AD%E5%85%B7%E5%8F%8A%E9%80%BE-8000%E7%8F%BE%E9%87%91",
+    "timestamp": "2026-02-25T11:55:48.982Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "吳業坤奪「飛躍男」反遭TMG離奇除名　因不敵《中年》平價大軍？",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260225/1103156456066125824956841.jpeg/mHtyhp8Hz3Wjctmt2fG62JSdAPItnIIfuDmFiLg5hYg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60324750/%E8%8B%B1%E5%9C%8B%E6%B2%BB%E5%AE%89%E4%B8%8D%E9%9D%96-%E9%9B%B6%E5%94%AE%E5%95%86%E5%8D%94%E6%9C%83-2025%E5%B9%B4%E5%BA%97%E9%8B%AA%E7%9B%9C%E7%AB%8A550%E8%90%AC%E5%AE%97-%E6%90%8D%E5%A4%B142%E5%84%84%E5%85%83",
     "timestamp": "2026-02-24T19:15:21.837Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "巴黎羅浮宮館長卡爾請辭　已獲馬克龍接受",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260225/1103145682056777728712956.jpeg/tzokdY2hZ77vHuuMtfPLlS2cF1XHFz_H8Dfpu_A36bs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60324746/%E5%B7%B4%E9%BB%8E%E7%BE%85%E6%B5%AE%E5%AE%AE%E9%A4%A8%E9%95%B7%E5%8D%A1%E7%88%BE%E8%AB%8B%E8%BE%AD-%E5%B7%B2%E7%8D%B2%E9%A6%AC%E5%85%8B%E9%BE%8D%E6%8E%A5%E5%8F%97",
-    "timestamp": "2026-02-24T18:12:13.349Z",
     "strategy": ".content-card__main"
   }
 ];
