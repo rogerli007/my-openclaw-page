@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-25T12:54:23.377Z
+// Last updated: 2026-02-25T14:15:54.670Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "警搜牛頭角店舖搗賣淫場所　拘3內地女檢避孕套潤滑劑",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260225/1103446731732815872793264.jpeg/qvYtIsCbEZedg0WVtvVQHATQP5EoVI-rlDeF2ZQ3hdk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60325131/%E8%AD%A6%E6%90%9C%E7%89%9B%E9%A0%AD%E8%A7%92%E5%BA%97%E8%88%96%E6%90%97%E8%B3%A3%E6%B7%AB%E5%A0%B4%E6%89%80-%E6%8B%983%E5%85%A7%E5%9C%B0%E5%A5%B3%E6%AA%A2%E9%81%BF%E5%AD%95%E5%A5%97%E6%BD%A4%E6%BB%91%E5%8A%91",
+    "timestamp": "2026-02-25T14:15:54.670Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "邱晴潛水衣胸前拉鍊打開辣爆身材成焦點　大爆導演要求：有啲凍",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20251227/1081515297304743936825431.jpeg/a-NoMFwvM8YX9n18UE2fyUii_wxrItcNeaUKA3mlCgM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60324763/%E7%89%B9%E6%9C%97%E6%99%AE%E9%97%9C%E7%A8%85%E6%A1%88%E6%95%97%E8%A8%B4-%E7%BE%8E%E5%AA%92-%E4%B8%AD%E5%9C%8B%E6%9C%80%E5%A4%A7%E8%B4%8F%E5%AE%B6-%E5%A4%A7%E6%91%A9-%E5%B9%B3%E5%9D%87%E7%A8%85%E7%8E%87%E9%99%8D%E8%87%B324",
     "timestamp": "2026-02-24T20:52:17.537Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "愛潑斯坦案｜律師：警方逮捕文德森毫無根據　錯誤認為擬出國定居",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260225/1103173647805190144803619.jpeg/o3frJyYXIGXLtmbcZElihkQE4Z4hDF6lMOAXZTDgF2U?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60324762/%E6%84%9B%E6%BD%91%E6%96%AF%E5%9D%A6%E6%A1%88-%E5%BE%8B%E5%B8%AB-%E8%AD%A6%E6%96%B9%E9%80%AE%E6%8D%95%E6%96%87%E5%BE%B7%E6%A3%AE%E6%AF%AB%E7%84%A1%E6%A0%B9%E6%93%9A-%E9%8C%AF%E8%AA%A4%E8%AA%8D%E7%82%BA%E6%93%AC%E5%87%BA%E5%9C%8B%E5%AE%9A%E5%B1%85",
-    "timestamp": "2026-02-24T20:22:39.542Z",
     "strategy": ".content-card__main"
   }
 ];
