@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-25T00:03:37.508Z
+// Last updated: 2026-02-25T01:43:49.757Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "游飈逝世｜助兄弟追夢甘願隨時頂更　黃文標感激遇到好老闆",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260225/1103177315325579264970253.jpeg/XhNidy88BMwIwLhCmnAZEUmZqFTcz0vcRwJtpUcCbaU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60324759/%E6%B8%B8%E9%A3%88%E9%80%9D%E4%B8%96-%E5%8A%A9%E5%85%84%E5%BC%9F%E8%BF%BD%E5%A4%A2%E7%94%98%E9%A1%98%E9%9A%A8%E6%99%82%E9%A0%82%E6%9B%B4-%E9%BB%83%E6%96%87%E6%A8%99%E6%84%9F%E6%BF%80%E9%81%87%E5%88%B0%E5%A5%BD%E8%80%81%E9%97%86",
+    "timestamp": "2026-02-25T01:43:49.757Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "俄烏戰爭四週年：一場難贏卻又不敢結束的戰爭？",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260224/1102990399825514496107396.jpeg/p9rL_MQ_JiGoepuVkFRbV5FssML2jEJm9HOg0_RzoNM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60324594/%E8%B2%A1%E6%94%BF%E9%A0%90%E7%AE%97%E6%A1%882026-%E8%94%A1%E5%86%A0%E6%B7%B1-%E4%B8%8D%E5%B8%8C%E6%9C%9B%E6%9C%89-%E6%B4%BE%E7%B3%96-%E7%B1%B2%E6%94%AF%E6%8F%B4%E4%B8%AD%E5%B0%8F%E4%BC%81%E5%87%BA%E6%B5%B7",
     "timestamp": "2026-02-24T08:35:06.898Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "龍崗深圳版「蒼山洱海」景美人少　原生態海灘觀鳥垂釣如世外桃源",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260224/1102915899200901120981356.jpeg/-xKENquR4fjaWx6FHLz0_jmwk1lqs4aACoXRaQqF0Wk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%97%85%E9%81%8A/60320422/%E9%BE%8D%E5%B4%97%E6%B7%B1%E5%9C%B3%E7%89%88-%E8%92%BC%E5%B1%B1%E6%B4%B1%E6%B5%B7-%E6%99%AF%E7%BE%8E%E4%BA%BA%E5%B0%91-%E5%8E%9F%E7%94%9F%E6%85%8B%E6%B5%B7%E7%81%98%E8%A7%80%E9%B3%A5%E5%9E%82%E9%87%A3%E5%A6%82%E4%B8%96%E5%A4%96%E6%A1%83%E6%BA%90",
-    "timestamp": "2026-02-24T08:07:02.610Z",
     "strategy": ".content-card__main"
   }
 ];
