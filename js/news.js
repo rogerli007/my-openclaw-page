@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-25T21:20:37.026Z
+// Last updated: 2026-02-25T21:50:55.321Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "英媒：安德魯曾偷運按摩師回白金漢宮　獲裸體按摩皇室開支票曝光",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260226/1103552389475995648425897.jpeg/Hji_ZfH0UfZrHmMWf_-X_bDKyp_Mog7mdMN9tnTDfbY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60325169/%E8%8B%B1%E5%AA%92-%E5%AE%89%E5%BE%B7%E9%AD%AF%E6%9B%BE%E5%81%B7%E9%81%8B%E6%8C%89%E6%91%A9%E5%B8%AB%E5%9B%9E%E7%99%BD%E9%87%91%E6%BC%A2%E5%AE%AE-%E7%8D%B2%E8%A3%B8%E9%AB%94%E6%8C%89%E6%91%A9%E7%9A%87%E5%AE%A4%E9%96%8B%E6%94%AF%E7%A5%A8%E6%9B%9D%E5%85%89",
+    "timestamp": "2026-02-25T21:50:55.321Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "古巴政府：邊防部隊截查美國違規快艇遭槍擊　開火還擊致4死6傷",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260225/1103304958557556736641802.jpeg/385yyW06V7c2GFBQsNdcyBKLdbmrv0aeQYOxL2SDsS8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60324868/%E8%B2%A1%E6%94%BF%E9%A0%90%E7%AE%97%E6%A1%882026-%E9%AB%98%E5%AE%98%E7%B4%AB%E8%89%B2%E7%A9%BF%E6%90%AD%E5%91%BC%E6%87%89%E5%B0%81%E9%9D%A2-%E7%94%B7%E8%AD%B0%E5%93%A1%E6%88%B4%E7%B4%AB%E5%91%94%E6%B4%BE%E7%B4%AB%E5%88%A9%E6%98%AF%E5%B0%81",
     "timestamp": "2026-02-25T04:34:23.727Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "財政預算案2026｜要求港交所檢視上市規定　便利航天企業來港上市",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260219/1101169938594271232708136.png/rDQI9OiM3x3kZOAUPyEqp8wZeMRyF70HmDgKo5g4CqM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60324859/%E8%B2%A1%E6%94%BF%E9%A0%90%E7%AE%97%E6%A1%882026-%E8%A6%81%E6%B1%82%E6%B8%AF%E4%BA%A4%E6%89%80%E6%AA%A2%E8%A6%96%E4%B8%8A%E5%B8%82%E8%A6%8F%E5%AE%9A-%EF%A5%A5%EF%A7%9D%E8%88%AA%E5%A4%A9%E4%BC%81%E6%A5%AD%E4%BE%86%E6%B8%AF%E4%B8%8A%E5%B8%82",
-    "timestamp": "2026-02-25T03:44:43.306Z",
     "strategy": ".content-card__main"
   }
 ];
