@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-25T22:17:21.654Z
+// Last updated: 2026-02-25T22:34:22.910Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "梁烈唯生鐵鑊炒飯　被揶揄鑊都未開炒蛋勁老：蔡瀾見到都彈起身",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260225/1103409172310921216925643.jpeg/T9nz35h2Hf9trSbgMqJN8opkotaBy6Gr2da_7dnWv-0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60325052/%E6%A2%81%E7%83%88%E5%94%AF%E7%94%9F%E9%90%B5%E9%91%8A%E7%82%92%E9%A3%AF-%E8%A2%AB%E6%8F%B6%E6%8F%84%E9%91%8A%E9%83%BD%E6%9C%AA%E9%96%8B%E7%82%92%E8%9B%8B%E5%8B%81%E8%80%81-%E8%94%A1%E7%80%BE%E8%A6%8B%E5%88%B0%E9%83%BD%E5%BD%88%E8%B5%B7%E8%BA%AB",
+    "timestamp": "2026-02-25T22:34:22.910Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "天氣｜今日有一兩陣微雨　初時部份地區能見度頗低　日間最高23度",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260225/1103337687017852928216349.jpeg/LLRiVvtW_AqC-gQFQql6L9-KdSielKeLI8-3KiPPtyo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60324947/%E4%B8%AD%E5%9C%8B%E5%A5%B3%E5%AD%90%E6%9F%AC%E5%9F%94%E5%AF%A8%E4%BF%B1%E6%A8%82%E9%83%A8%E5%A2%AE%E4%BA%A1-%E7%94%9F%E5%89%8D%E7%8D%A8%E4%B8%8A8%E6%A8%93%E7%9B%A3%E6%8E%A7%E7%9B%B2%E5%8D%80-%E8%AD%A6%E6%96%B9%E6%8E%92%E9%99%A4%E6%B6%89%E6%AF%92",
     "timestamp": "2026-02-25T06:46:03.528Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "財政預算案｜幻彩詠香江將變什麼？消息：光影巡禮唔會365日都有",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20230101/686017469986508800094165.jpeg/w2z_X8flWJfRzsAZK7E3JYpXRldUqjRGb5NHhXWTR4U?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60324918/%E8%B2%A1%E6%94%BF%E9%A0%90%E7%AE%97%E6%A1%88-%E5%B9%BB%E5%BD%A9%E8%A9%A0%E9%A6%99%E6%B1%9F%E5%B0%87%E8%AE%8A%E4%BB%80%E9%BA%BC-%E6%B6%88%E6%81%AF-%E5%85%89%E5%BD%B1%E5%B7%A1%E7%A6%AE%E5%94%94%E6%9C%83365%E6%97%A5%E9%83%BD%E6%9C%89",
-    "timestamp": "2026-02-25T05:47:32.868Z",
     "strategy": ".content-card__main"
   }
 ];
