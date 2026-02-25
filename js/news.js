@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-24T23:49:17.506Z
+// Last updated: 2026-02-25T00:03:37.508Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "俄烏戰爭四週年：一場難贏卻又不敢結束的戰爭？",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250823/1035944090723684352846371.jpeg/MN8H4Shp9G4y1ZVweweqfd1iGXefcqKujLlR-Iy5Ufg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%9C%8B%E9%9A%9B%E5%88%86%E6%9E%90/60324693/%E4%BF%84%E7%83%8F%E6%88%B0%E7%88%AD%E5%9B%9B%E5%91%A8%E5%B9%B4-%E4%B8%80%E5%A0%B4%E9%9B%A3%E8%B4%8F%E5%8D%BB%E5%8F%88%E4%B8%8D%E6%95%A2%E7%B5%90%E6%9D%9F%E7%9A%84%E6%88%B0%E7%88%AD",
+    "timestamp": "2026-02-25T00:03:37.508Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "俄烏戰爭四週年：一場難贏卻又不敢結束的戰爭？",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260224/1102915899200901120981356.jpeg/-xKENquR4fjaWx6FHLz0_jmwk1lqs4aACoXRaQqF0Wk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%97%85%E9%81%8A/60320422/%E9%BE%8D%E5%B4%97%E6%B7%B1%E5%9C%B3%E7%89%88-%E8%92%BC%E5%B1%B1%E6%B4%B1%E6%B5%B7-%E6%99%AF%E7%BE%8E%E4%BA%BA%E5%B0%91-%E5%8E%9F%E7%94%9F%E6%85%8B%E6%B5%B7%E7%81%98%E8%A7%80%E9%B3%A5%E5%9E%82%E9%87%A3%E5%A6%82%E4%B8%96%E5%A4%96%E6%A1%83%E6%BA%90",
     "timestamp": "2026-02-24T08:07:02.610Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "庾澄慶哈林情非得已演唱會2026澳門｜門票攻略＋購票連結＋座位表",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260224/1102957492691800064408396.png/4kTCjPJqd5r_pxAZJFcBNIvwfWinHmmCjUmbWo1Jm1o?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60324508/%E5%BA%BE%E6%BE%84%E6%85%B6%E5%93%88%E6%9E%97%E6%83%85%E9%9D%9E%E5%BE%97%E5%B7%B2%E6%BC%94%E5%94%B1%E6%9C%832026%E6%BE%B3%E9%96%80-%E9%96%80%E7%A5%A8%E6%94%BB%E7%95%A5-%E8%B3%BC%E7%A5%A8%E9%80%A3%E7%B5%90-%E5%BA%A7%E4%BD%8D%E8%A1%A8",
-    "timestamp": "2026-02-24T07:40:36.216Z",
     "strategy": ".content-card__main"
   }
 ];
