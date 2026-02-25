@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-25T07:17:08.362Z
+// Last updated: 2026-02-25T07:42:27.407Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "財政預算案｜抄牌勁了？交通違例「牛肉乾」進帳7.7億　按年少7%",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250226/971372123690110976280436.jpeg/ve7OUhwQKjZ4KcSenu_S95BxUhoCX-krm0Zu-ptGbvo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60324977/%E8%B2%A1%E6%94%BF%E9%A0%90%E7%AE%97%E6%A1%88-%E6%8A%84%E7%89%8C%E5%8B%81%E4%BA%86-%E4%BA%A4%E9%80%9A%E9%81%95%E4%BE%8B-%E7%89%9B%E8%82%89%E4%B9%BE-%E9%80%B2%E5%B8%B37-7%E5%84%84-%E6%8C%89%E5%B9%B4%E5%B0%917",
+    "timestamp": "2026-02-25T07:42:27.407Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "西方領導人訪問北京，為何陷入「不叩頭」的輿論焦慮？",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260224/1102935170056458240183479.jpeg/ngyzl9FiHrXYIQv5HRp-bH5Un7JTxsQuIWsw-SFrMPk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60324471/%E4%B8%80%E9%A6%AC%E7%95%B6%E5%85%88%E8%A1%8C%E5%A4%A7%E9%81%8B-%E8%8E%8A%E5%AD%90%E7%92%87%E8%87%AA%E5%98%B2%E5%A7%BB%E7%B7%A3%E4%B8%80%E5%A1%8C%E7%B3%8A%E5%A1%97-xix%E9%A9%9A%E7%8F%BE%E5%A7%8A%E5%A6%B9%E7%88%AD%E5%A4%AB%E5%8D%B1%E6%A9%9F",
     "timestamp": "2026-02-24T15:13:17.971Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "環保團體揭橋咀洲遊人捉蟹掘蜆　漁護署研納入海岸公園增強保護",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260224/1103082239178051584176594.jpeg/89VsAjrK5PfbDnAVVjlmR4nWZI_nD8T_rolvwK6Jb8A?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60324705/%E7%92%B0%E4%BF%9D%E5%9C%98%E9%AB%94%E6%8F%AD%E6%A9%8B%E5%92%80%E6%B4%B2%E9%81%8A%E4%BA%BA%E6%8D%89%E8%9F%B9%E6%8E%98%E8%9C%86-%E6%BC%81%E8%AD%B7%E7%BD%B2%E7%A0%94%E7%B4%8D%E5%85%A5%E6%B5%B7%E5%B2%B8%E5%85%AC%E5%9C%92%E5%A2%9E%E5%BC%B7%E4%BF%9D%E8%AD%B7",
-    "timestamp": "2026-02-24T14:41:53.315Z",
     "strategy": ".content-card__main"
   }
 ];
