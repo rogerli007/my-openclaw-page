@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-25T20:02:46.034Z
+// Last updated: 2026-02-25T20:23:26.728Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "古巴政府：邊防部隊截查美國違規快艇遭槍擊　開火還擊致4死6傷",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20240529/872295444397428736610245.jpeg/0iEpUj9VtuAa59SPZq9I3Nu62P69rLmWIJp3NyCadzc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60325168/%E5%8F%A4%E5%B7%B4%E6%94%BF%E5%BA%9C-%E9%82%8A%E9%98%B2%E9%83%A8%E9%9A%8A%E6%88%AA%E6%9F%A5%E7%BE%8E%E5%9C%8B%E9%81%95%E8%A6%8F%E5%BF%AB%E8%89%87%E9%81%AD%E6%A7%8D%E6%93%8A-%E9%96%8B%E7%81%AB%E9%82%84%E6%93%8A%E8%87%B44%E6%AD%BB6%E5%82%B7",
+    "timestamp": "2026-02-25T20:23:26.728Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美伊新一輪談判前夕　美財政部公布針對伊朗新制裁名單",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260225/1103177315325579264970253.jpeg/XhNidy88BMwIwLhCmnAZEUmZqFTcz0vcRwJtpUcCbaU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60324759/%E6%B8%B8%E9%A3%88%E9%80%9D%E4%B8%96-%E5%8A%A9%E5%85%84%E5%BC%9F%E8%BF%BD%E5%A4%A2%E7%94%98%E9%A1%98%E9%9A%A8%E6%99%82%E9%A0%82%E6%9B%B4-%E9%BB%83%E6%96%87%E6%A8%99%E6%84%9F%E6%BF%80%E9%81%87%E5%88%B0%E5%A5%BD%E8%80%81%E9%97%86",
     "timestamp": "2026-02-25T01:43:49.757Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "俄烏戰爭四週年：一場難贏卻又不敢結束的戰爭？",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250823/1035944090723684352846371.jpeg/MN8H4Shp9G4y1ZVweweqfd1iGXefcqKujLlR-Iy5Ufg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%9C%8B%E9%9A%9B%E5%88%86%E6%9E%90/60324693/%E4%BF%84%E7%83%8F%E6%88%B0%E7%88%AD%E5%9B%9B%E5%91%A8%E5%B9%B4-%E4%B8%80%E5%A0%B4%E9%9B%A3%E8%B4%8F%E5%8D%BB%E5%8F%88%E4%B8%8D%E6%95%A2%E7%B5%90%E6%9D%9F%E7%9A%84%E6%88%B0%E7%88%AD",
-    "timestamp": "2026-02-25T00:03:37.508Z",
     "strategy": ".content-card__main"
   }
 ];
