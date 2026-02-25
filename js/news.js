@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-25T20:51:47.337Z
+// Last updated: 2026-02-25T21:20:37.026Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "古巴政府：邊防部隊截查美國違規快艇遭槍擊　開火還擊致4死6傷",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20240529/872295444397428736610245.jpeg/0iEpUj9VtuAa59SPZq9I3Nu62P69rLmWIJp3NyCadzc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60325168/%E5%8F%A4%E5%B7%B4%E6%94%BF%E5%BA%9C-%E9%82%8A%E9%98%B2%E9%83%A8%E9%9A%8A%E6%88%AA%E6%9F%A5%E7%BE%8E%E5%9C%8B%E9%81%95%E8%A6%8F%E5%BF%AB%E8%89%87%E9%81%AD%E6%A7%8D%E6%93%8A-%E9%96%8B%E7%81%AB%E9%82%84%E6%93%8A%E8%87%B44%E6%AD%BB6%E5%82%B7",
+    "timestamp": "2026-02-25T21:20:37.026Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "古巴政府：邊防部隊截查美國違規快艇遭槍擊　開火還擊致4死6傷",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260219/1101169938594271232708136.png/rDQI9OiM3x3kZOAUPyEqp8wZeMRyF70HmDgKo5g4CqM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60324859/%E8%B2%A1%E6%94%BF%E9%A0%90%E7%AE%97%E6%A1%882026-%E8%A6%81%E6%B1%82%E6%B8%AF%E4%BA%A4%E6%89%80%E6%AA%A2%E8%A6%96%E4%B8%8A%E5%B8%82%E8%A6%8F%E5%AE%9A-%EF%A5%A5%EF%A7%9D%E8%88%AA%E5%A4%A9%E4%BC%81%E6%A5%AD%E4%BE%86%E6%B8%AF%E4%B8%8A%E5%B8%82",
     "timestamp": "2026-02-25T03:44:43.306Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "因電雞擦撞河南夫妻當街持磚頭狂毆15歲女生　涉尋釁滋事被捕",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260224/1102978624551653376083456.jpeg/KzvaxJHf7SrWIfZcBou82yY0GPc8BmKvgwDRcIMA0XA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60324808/%E5%9B%A0%E9%9B%BB%E9%9B%9E%E6%93%A6%E6%92%9E%E6%B2%B3%E5%8D%97%E5%A4%AB%E5%A6%BB%E7%95%B6%E8%A1%97%E6%8C%81%E7%A3%9A%E9%A0%AD%E7%8B%82%E6%AF%8615%E6%AD%B2%E5%A5%B3%E7%94%9F-%E6%B6%89%E5%B0%8B%E9%87%81%E6%BB%8B%E4%BA%8B%E8%A2%AB%E6%8D%95",
-    "timestamp": "2026-02-25T02:44:44.468Z",
     "strategy": ".content-card__main"
   }
 ];
