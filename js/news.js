@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-25T15:13:33.756Z
+// Last updated: 2026-02-25T16:16:06.666Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "日本百貨業協會：1月中國旅客流量跌4成　免稅銷售額少30%",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260225/1103479324742258688208195.jpeg/NmzPRD8P_VOnZhVRh0n-lhzOdHNHC7_aqbAmjKmwJow?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60325147/%E6%97%A5%E6%9C%AC%E7%99%BE%E8%B2%A8%E6%A5%AD%E5%8D%94%E6%9C%83-1%E6%9C%88%E4%B8%AD%E5%9C%8B%E6%97%85%E5%AE%A2%E6%B5%81%E9%87%8F%E8%B7%8C4%E6%88%90-%E5%85%8D%E7%A8%85%E9%8A%B7%E5%94%AE%E9%A1%8D%E5%B0%9130",
+    "timestamp": "2026-02-25T16:16:06.666Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美股｜市場觀望Nvidia業績　道指早段升逾200點　納指漲1%",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260224/1103066908682358784746150.jpeg/PF6Xpvr61Eoljn1EW7JxMeY0lGPaeC7stSIUNLUiFDQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60324618/%E4%BD%95%E7%8C%B7%E5%95%9F%E5%89%8D%E5%A6%BB%E9%BD%8A%E5%AC%8C%E5%B8%B6%E5%A5%B3%E5%88%B0%E5%91%82%E8%89%AF%E5%81%89%E5%AE%B6%E4%B8%AD%E6%8B%9C%E5%B9%B4-%E9%9B%A2%E5%A9%9A%E5%BE%8C%E8%88%87%E6%A5%8A%E5%B0%8F%E5%A8%9F%E9%96%A8%E5%AF%86%E6%83%85%E4%B8%8D%E8%AE%8A",
     "timestamp": "2026-02-24T22:36:11.996Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普關稅案敗訴　美媒：中國最大贏家　大摩：平均稅率降至24%",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20251227/1081515297304743936825431.jpeg/a-NoMFwvM8YX9n18UE2fyUii_wxrItcNeaUKA3mlCgM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60324763/%E7%89%B9%E6%9C%97%E6%99%AE%E9%97%9C%E7%A8%85%E6%A1%88%E6%95%97%E8%A8%B4-%E7%BE%8E%E5%AA%92-%E4%B8%AD%E5%9C%8B%E6%9C%80%E5%A4%A7%E8%B4%8F%E5%AE%B6-%E5%A4%A7%E6%91%A9-%E5%B9%B3%E5%9D%87%E7%A8%85%E7%8E%87%E9%99%8D%E8%87%B324",
-    "timestamp": "2026-02-24T21:51:26.969Z",
     "strategy": ".content-card__main"
   }
 ];
