@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-25T22:59:43.495Z
+// Last updated: 2026-02-25T23:38:23.469Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "愛潑斯坦案｜驚現霍金被比基尼女郎簇擁照　遺屬稱是其護理",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260226/1103590676815155200416097.png/ZaM_VPnfTh_CPBcwzaM6Q7PnKr_MjPaKLChwXSwocF0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60325178/%E6%84%9B%E6%BD%91%E6%96%AF%E5%9D%A6%E6%A1%88-%E9%A9%9A%E7%8F%BE%E9%9C%8D%E9%87%91%E8%A2%AB%E6%AF%94%E5%9F%BA%E5%B0%BC%E5%A5%B3%E9%83%8E%E7%B0%87%E6%93%81%E7%85%A7-%E9%81%BA%E5%B1%AC%E7%A8%B1%E6%98%AF%E5%85%B6%E8%AD%B7%E7%90%86",
+    "timestamp": "2026-02-25T23:38:23.469Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "新油麻地貨物裝卸區　物流公司貨櫃辦公室疑遭爆竊　數部電腦被盜",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250226/971372123690110976280436.jpeg/ve7OUhwQKjZ4KcSenu_S95BxUhoCX-krm0Zu-ptGbvo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60324977/%E8%B2%A1%E6%94%BF%E9%A0%90%E7%AE%97%E6%A1%88-%E6%8A%84%E7%89%8C%E5%8B%81%E4%BA%86-%E4%BA%A4%E9%80%9A%E9%81%95%E4%BE%8B-%E7%89%9B%E8%82%89%E4%B9%BE-%E9%80%B2%E5%B8%B37-7%E5%84%84-%E6%8C%89%E5%B9%B4%E5%B0%917",
     "timestamp": "2026-02-25T07:42:27.407Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "西方領導人訪問北京，為何陷入「不叩頭」的輿論焦慮？",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260224/1102981587621908480059428.jpeg/7ZZWaqNaoPadwQe8jXkKJAwYCFXTLrcltfJJAbXySQE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%9C%8B%E9%9A%9B%E5%88%86%E6%9E%90/60324963/%E8%A5%BF%E6%96%B9%E9%A0%98%E5%B0%8E%E4%BA%BA%E8%A8%AA%E5%95%8F%E5%8C%97%E4%BA%AC-%E7%82%BA%E4%BD%95%E9%99%B7%E5%85%A5-%E4%B8%8D%E5%8F%A9%E9%A0%AD-%E7%9A%84%E8%BC%BF%E8%AB%96%E7%84%A6%E6%85%AE",
-    "timestamp": "2026-02-25T07:17:08.362Z",
     "strategy": ".content-card__main"
   }
 ];
