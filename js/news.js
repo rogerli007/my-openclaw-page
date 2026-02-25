@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-25T02:44:44.468Z
+// Last updated: 2026-02-25T03:44:43.306Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "財政預算案2026｜要求港交所檢視上市規定　便利航天企業來港上市",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260219/1101169938594271232708136.png/rDQI9OiM3x3kZOAUPyEqp8wZeMRyF70HmDgKo5g4CqM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60324859/%E8%B2%A1%E6%94%BF%E9%A0%90%E7%AE%97%E6%A1%882026-%E8%A6%81%E6%B1%82%E6%B8%AF%E4%BA%A4%E6%89%80%E6%AA%A2%E8%A6%96%E4%B8%8A%E5%B8%82%E8%A6%8F%E5%AE%9A-%EF%A5%A5%EF%A7%9D%E8%88%AA%E5%A4%A9%E4%BC%81%E6%A5%AD%E4%BE%86%E6%B8%AF%E4%B8%8A%E5%B8%82",
+    "timestamp": "2026-02-25T03:44:43.306Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "因電雞擦撞河南夫妻當街持磚頭狂毆15歲女生　涉尋釁滋事被捕",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260224/1103020115957387264079124.png/U6hkCNmbcKuVuxJWGt8Ox3qKYQ88aaiCIf9jgiH_Y4I?v=w1920r16_9",
     "url": "https://www.hk01.com/%E4%B8%80%E7%89%A9/60324630/%E8%92%BC%E8%A0%85%E7%AB%9F%E7%84%B6%E4%B9%9F%E6%87%82%E8%97%9D%E8%A1%93-%E8%A5%BF%E7%8F%AD%E7%89%99%E6%BD%AE%E6%B5%81%E5%96%AE%E4%BD%8D%E8%AE%93-rolex-%E9%8C%B6%E7%9B%A4%E6%88%90%E7%82%BA%E8%92%BC%E8%A0%85%E7%95%AB%E5%B8%83",
     "timestamp": "2026-02-24T10:37:55.606Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "湖南漢放煙花遇「炸膛」　胸部遭近距離炸中奪命",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260224/1102995486094135296439185.png/9tEOYYKx1tZfZeuF7jPXOjiwzCHTizcoWEVCviJFQr4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60324581/%E6%B9%96%E5%8D%97%E6%BC%A2%E6%94%BE%E7%85%99%E8%8A%B1%E9%81%87-%E7%82%B8%E8%86%9B-%E8%83%B8%E9%83%A8%E9%81%AD%E8%BF%91%E8%B7%9D%E9%9B%A2%E7%82%B8%E4%B8%AD%E5%A5%AA%E5%91%BD",
-    "timestamp": "2026-02-24T09:39:51.453Z",
     "strategy": ".content-card__main"
   }
 ];
