@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-25T08:07:21.287Z
+// Last updated: 2026-02-25T10:12:17.602Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "吳業坤奪「飛躍男」反遭TMG離奇除名　因不敵《中年》平價大軍？",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260225/1103372560801730560453719.jpeg/HEcIqCnGNctQhHn9g2Mc8aSCgPqxw7y4LBcGNiwXBjY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60324802/%E5%90%B3%E6%A5%AD%E5%9D%A4%E5%A5%AA-%E9%A3%9B%E8%BA%8D%E7%94%B7-%E5%8F%8D%E9%81%ADtmg%E9%9B%A2%E5%A5%87%E9%99%A4%E5%90%8D-%E5%9B%A0%E4%B8%8D%E6%95%B5-%E4%B8%AD%E5%B9%B4-%E5%B9%B3%E5%83%B9%E5%A4%A7%E8%BB%8D",
+    "timestamp": "2026-02-25T10:12:17.602Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "骨質疏鬆只懂補鈣？少攝1營養等於白吃！醫教預防4秘訣 忌喝2飲品",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260225/1103145682056777728712956.jpeg/tzokdY2hZ77vHuuMtfPLlS2cF1XHFz_H8Dfpu_A36bs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60324746/%E5%B7%B4%E9%BB%8E%E7%BE%85%E6%B5%AE%E5%AE%AE%E9%A4%A8%E9%95%B7%E5%8D%A1%E7%88%BE%E8%AB%8B%E8%BE%AD-%E5%B7%B2%E7%8D%B2%E9%A6%AC%E5%85%8B%E9%BE%8D%E6%8E%A5%E5%8F%97",
     "timestamp": "2026-02-24T18:12:13.349Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "中國海事局發航行警告　南海部份海域25日起進行實彈射擊",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260225/1103127062274641920784192.png/G6Xyf0jl-q-CyvCuARwPlqrKVnwRgEEK-o1ZY_qNWWM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60324739/%E4%B8%AD%E5%9C%8B%E6%B5%B7%E4%BA%8B%E5%B1%80%E7%99%BC%E8%88%AA%E8%A1%8C%E8%AD%A6%E5%91%8A-%E5%8D%97%E6%B5%B7%E9%83%A8%E4%BB%BD%E6%B5%B7%E5%9F%9F25%E6%97%A5%E8%B5%B7%E9%80%B2%E8%A1%8C%E5%AF%A6%E5%BD%88%E5%B0%84%E6%93%8A",
-    "timestamp": "2026-02-24T17:15:14.573Z",
     "strategy": ".content-card__main"
   }
 ];
