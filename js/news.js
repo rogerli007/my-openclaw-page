@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-25T11:55:48.982Z
+// Last updated: 2026-02-25T12:54:23.377Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "邱晴潛水衣胸前拉鍊打開辣爆身材成焦點　大爆導演要求：有啲凍",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260225/1103360653516607488158372.png/gFDrMdmOGlMsR4SbI357f4opaXTAS_RlB_pHWwf6R1s?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60325000/%E9%82%B1%E6%99%B4%E6%BD%9B%E6%B0%B4%E8%A1%A3%E8%83%B8%E5%89%8D%E6%8B%89%E9%8D%8A%E6%89%93%E9%96%8B%E8%BE%A3%E7%88%86%E8%BA%AB%E6%9D%90%E6%88%90%E7%84%A6%E9%BB%9E-%E5%A4%A7%E7%88%86%E5%B0%8E%E6%BC%94%E8%A6%81%E6%B1%82-%E6%9C%89%E5%95%B2%E5%87%8D",
+    "timestamp": "2026-02-25T12:54:23.377Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "警上水搗非法麻雀賭檔拘11人　檢電動麻雀枱、賭具及逾$8000現金",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260225/1103173647805190144803619.jpeg/o3frJyYXIGXLtmbcZElihkQE4Z4hDF6lMOAXZTDgF2U?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60324762/%E6%84%9B%E6%BD%91%E6%96%AF%E5%9D%A6%E6%A1%88-%E5%BE%8B%E5%B8%AB-%E8%AD%A6%E6%96%B9%E9%80%AE%E6%8D%95%E6%96%87%E5%BE%B7%E6%A3%AE%E6%AF%AB%E7%84%A1%E6%A0%B9%E6%93%9A-%E9%8C%AF%E8%AA%A4%E8%AA%8D%E7%82%BA%E6%93%AC%E5%87%BA%E5%9C%8B%E5%AE%9A%E5%B1%85",
     "timestamp": "2026-02-24T20:22:39.542Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "英國治安不靖　零售商協會：2025年店鋪盜竊550萬宗　損失42億元",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260225/1103156456066125824956841.jpeg/mHtyhp8Hz3Wjctmt2fG62JSdAPItnIIfuDmFiLg5hYg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60324750/%E8%8B%B1%E5%9C%8B%E6%B2%BB%E5%AE%89%E4%B8%8D%E9%9D%96-%E9%9B%B6%E5%94%AE%E5%95%86%E5%8D%94%E6%9C%83-2025%E5%B9%B4%E5%BA%97%E9%8B%AA%E7%9B%9C%E7%AB%8A550%E8%90%AC%E5%AE%97-%E6%90%8D%E5%A4%B142%E5%84%84%E5%85%83",
-    "timestamp": "2026-02-24T19:15:21.837Z",
     "strategy": ".content-card__main"
   }
 ];
