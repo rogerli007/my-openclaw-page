@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-25T06:46:03.528Z
+// Last updated: 2026-02-25T07:17:08.362Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "西方領導人訪問北京，為何陷入「不叩頭」的輿論焦慮？",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260224/1102981587621908480059428.jpeg/7ZZWaqNaoPadwQe8jXkKJAwYCFXTLrcltfJJAbXySQE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%9C%8B%E9%9A%9B%E5%88%86%E6%9E%90/60324963/%E8%A5%BF%E6%96%B9%E9%A0%98%E5%B0%8E%E4%BA%BA%E8%A8%AA%E5%95%8F%E5%8C%97%E4%BA%AC-%E7%82%BA%E4%BD%95%E9%99%B7%E5%85%A5-%E4%B8%8D%E5%8F%A9%E9%A0%AD-%E7%9A%84%E8%BC%BF%E8%AB%96%E7%84%A6%E6%85%AE",
+    "timestamp": "2026-02-25T07:17:08.362Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "中國女子柬埔寨俱樂部墮亡　生前獨上8樓監控盲區　警方排除涉毒",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260224/1103082239178051584176594.jpeg/89VsAjrK5PfbDnAVVjlmR4nWZI_nD8T_rolvwK6Jb8A?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60324705/%E7%92%B0%E4%BF%9D%E5%9C%98%E9%AB%94%E6%8F%AD%E6%A9%8B%E5%92%80%E6%B4%B2%E9%81%8A%E4%BA%BA%E6%8D%89%E8%9F%B9%E6%8E%98%E8%9C%86-%E6%BC%81%E8%AD%B7%E7%BD%B2%E7%A0%94%E7%B4%8D%E5%85%A5%E6%B5%B7%E5%B2%B8%E5%85%AC%E5%9C%92%E5%A2%9E%E5%BC%B7%E4%BF%9D%E8%AD%B7",
     "timestamp": "2026-02-24T14:41:53.315Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "警聯入境處大埔上水粉嶺掃黃　拘12雙程證內地女涉違逗留條件",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260224/1103077549392662528375089.jpeg/G31Mb9THV9FNkMGSC9H2S6XR8mD80aI-iOTKaojkymo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60324708/%E8%AD%A6%E8%81%AF%E5%85%A5%E5%A2%83%E8%99%95%E5%A4%A7%E5%9F%94%E4%B8%8A%E6%B0%B4%E7%B2%89%E5%B6%BA%E6%8E%83%E9%BB%83-%E6%8B%9812%E9%9B%99%E7%A8%8B%E8%AD%89%E5%85%A7%E5%9C%B0%E5%A5%B3%E6%B6%89%E9%81%95%E9%80%97%E7%95%99%E6%A2%9D%E4%BB%B6",
-    "timestamp": "2026-02-24T13:40:20.697Z",
     "strategy": ".content-card__main"
   }
 ];
