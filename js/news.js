@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-25T05:47:32.868Z
+// Last updated: 2026-02-25T06:46:03.528Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "中國女子柬埔寨俱樂部墮亡　生前獨上8樓監控盲區　警方排除涉毒",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260225/1103337687017852928216349.jpeg/LLRiVvtW_AqC-gQFQql6L9-KdSielKeLI8-3KiPPtyo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60324947/%E4%B8%AD%E5%9C%8B%E5%A5%B3%E5%AD%90%E6%9F%AC%E5%9F%94%E5%AF%A8%E4%BF%B1%E6%A8%82%E9%83%A8%E5%A2%AE%E4%BA%A1-%E7%94%9F%E5%89%8D%E7%8D%A8%E4%B8%8A8%E6%A8%93%E7%9B%A3%E6%8E%A7%E7%9B%B2%E5%8D%80-%E8%AD%A6%E6%96%B9%E6%8E%92%E9%99%A4%E6%B6%89%E6%AF%92",
+    "timestamp": "2026-02-25T06:46:03.528Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "財政預算案｜幻彩詠香江將變什麼？消息：光影巡禮唔會365日都有",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260224/1103077549392662528375089.jpeg/G31Mb9THV9FNkMGSC9H2S6XR8mD80aI-iOTKaojkymo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60324708/%E8%AD%A6%E8%81%AF%E5%85%A5%E5%A2%83%E8%99%95%E5%A4%A7%E5%9F%94%E4%B8%8A%E6%B0%B4%E7%B2%89%E5%B6%BA%E6%8E%83%E9%BB%83-%E6%8B%9812%E9%9B%99%E7%A8%8B%E8%AD%89%E5%85%A7%E5%9C%B0%E5%A5%B3%E6%B6%89%E9%81%95%E9%80%97%E7%95%99%E6%A2%9D%E4%BB%B6",
     "timestamp": "2026-02-24T13:40:20.697Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "鏢人：風起大漠影評｜漫畫改篇還原度極高　李連杰這場已值回票價",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260224/1103004271877558272801752.jpeg/MMs6TaH1A9bsI6LxcL_hfzu29TiU4q5bd8Sd23fEnds?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60324521/%E9%8F%A2%E4%BA%BA-%E9%A2%A8%E8%B5%B7%E5%A4%A7%E6%BC%A0%E5%BD%B1%E8%A9%95-%E6%BC%AB%E7%95%AB%E6%94%B9%E7%AF%87%E9%82%84%E5%8E%9F%E5%BA%A6%E6%A5%B5%E9%AB%98-%E6%9D%8E%E9%80%A3%E6%9D%B0%E9%80%99%E5%A0%B4%E5%B7%B2%E5%80%BC%E5%9B%9E%E7%A5%A8%E5%83%B9",
-    "timestamp": "2026-02-24T12:56:48.207Z",
     "strategy": ".content-card__main"
   }
 ];
