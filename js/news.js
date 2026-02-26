@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-26T05:38:10.088Z
+// Last updated: 2026-02-26T06:12:37.767Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "水警海關聯合行動　土地灣海面追截快艇　岸上貨車檢60萬支私煙",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260226/1103691651383037952368472.jpeg/pDnnoQ4wA72FlDMOiJ1V_55uagHrcYCG3bksTd25LE0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60325299/%E6%B0%B4%E8%AD%A6%E6%B5%B7%E9%97%9C%E8%81%AF%E5%90%88%E8%A1%8C%E5%8B%95-%E5%9C%9F%E5%9C%B0%E7%81%A3%E6%B5%B7%E9%9D%A2%E8%BF%BD%E6%88%AA%E5%BF%AB%E8%89%87-%E5%B2%B8%E4%B8%8A%E8%B2%A8%E8%BB%8A%E6%AA%A260%E8%90%AC%E6%94%AF%E7%A7%81%E7%85%99",
+    "timestamp": "2026-02-26T06:12:37.767Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "雙囍專訪｜田啟文感性演繹攻陷台灣觀眾　「唔可以失禮香港演員」",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250529/1004894676605472768376024.jpeg/iqzPKOj7JcSNx3oGiU4TGDGAQwgoE4OSf6dts3-nbbM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60325141/%E7%BE%8E%E8%82%A1-%E5%B8%82%E5%A0%B4%E8%A7%80%E6%9C%9Bnvidia%E6%A5%AD%E7%B8%BE-%E9%81%93%E6%8C%87%E6%97%A9%E6%AE%B5%E5%8D%87%E9%80%BE200%E9%BB%9E-%E7%B4%8D%E6%8C%87%E6%BC%B21",
     "timestamp": "2026-02-25T15:13:33.756Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "印男求歡被拒竟姦殺碩士女友　破壞遺體後再姦屍　還用黑魔法招魂",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260225/1103297788432617472034195.png/zuVJqRTFavGl2xoTuwE8AfBvkapE-hbH1wN0w9cDdMM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E8%A9%B1%E9%A1%8C/60324874/%E5%8D%B0%E7%94%B7%E6%B1%82%E6%AD%A1%E8%A2%AB%E6%8B%92%E7%AB%9F%E5%A7%A6%E6%AE%BA%E7%A2%A9%E5%A3%AB%E5%A5%B3%E5%8F%8B-%E7%A0%B4%E5%A3%9E%E9%81%BA%E9%AB%94%E5%BE%8C%E5%86%8D%E5%A7%A6%E5%B1%8D-%E9%82%84%E7%94%A8%E9%BB%91%E9%AD%94%E6%B3%95%E6%8B%9B%E9%AD%82",
-    "timestamp": "2026-02-25T14:41:09.847Z",
     "strategy": ".content-card__main"
   }
 ];
