@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-26T15:39:48.327Z
+// Last updated: 2026-02-26T16:10:35.841Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "WTT新加坡大滿貫｜黃鎮廷杜凱琹無緣決賽　1：3不敵巴西組合",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260226/1103841771575578624015894.jpeg/GoyXpMGYKbkkuOtBMfP7Bm0M-3Zxs_Qai5xMWoucTFo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60325515/wtt%E6%96%B0%E5%8A%A0%E5%9D%A1%E5%A4%A7%E6%BB%BF%E8%B2%AB-%E9%BB%83%E9%8E%AE%E5%BB%B7%E6%9D%9C%E5%87%B1%E7%90%B9%E7%84%A1%E7%B7%A3%E6%B1%BA%E8%B3%BD-1-3%E4%B8%8D%E6%95%B5%E5%B7%B4%E8%A5%BF%E7%B5%84%E5%90%88",
+    "timestamp": "2026-02-26T16:10:35.841Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "天氣過山車｜下周初最高26度　元宵後降溫　驚蟄打小人後低見17度",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260226/1103578499425243136932546.jpeg/2Q302vVFdseAUwsNQifiNGp-AhAINsoP1S3iVfAt4lU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60325177/%E6%96%B0%E6%B2%B9%E9%BA%BB%E5%9C%B0%E8%B2%A8%E7%89%A9%E8%A3%9D%E5%8D%B8%E5%8D%80-%E7%89%A9%E6%B5%81%E5%85%AC%E5%8F%B8%E8%B2%A8%E6%AB%83%E8%BE%A6%E5%85%AC%E5%AE%A4%E7%96%91%E9%81%AD%E7%88%86%E7%AB%8A-%E6%95%B8%E9%83%A8%E9%9B%BB%E8%85%A6%E8%A2%AB%E7%9B%9C",
     "timestamp": "2026-02-25T22:59:43.495Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "梁烈唯生鐵鑊炒飯　被揶揄鑊都未開炒蛋勁老：蔡瀾見到都彈起身",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260225/1103409172310921216925643.jpeg/T9nz35h2Hf9trSbgMqJN8opkotaBy6Gr2da_7dnWv-0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60325052/%E6%A2%81%E7%83%88%E5%94%AF%E7%94%9F%E9%90%B5%E9%91%8A%E7%82%92%E9%A3%AF-%E8%A2%AB%E6%8F%B6%E6%8F%84%E9%91%8A%E9%83%BD%E6%9C%AA%E9%96%8B%E7%82%92%E8%9B%8B%E5%8B%81%E8%80%81-%E8%94%A1%E7%80%BE%E8%A6%8B%E5%88%B0%E9%83%BD%E5%BD%88%E8%B5%B7%E8%BA%AB",
-    "timestamp": "2026-02-25T22:34:22.910Z",
     "strategy": ".content-card__main"
   }
 ];
