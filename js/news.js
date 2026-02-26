@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-26T14:15:44.040Z
+// Last updated: 2026-02-26T14:40:26.023Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美三孩母買聖誕禮物失蹤逾二十年　尋回驚揭拋家棄子異地展新生活",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260226/1103706922701295616519680.png/vOjnZGN6jX6KohmT6Ra2HIKohavwyCBAvYbOmr2Gzpo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60325263/%E7%BE%8E%E4%B8%89%E5%AD%A9%E6%AF%8D%E8%B2%B7%E8%81%96%E8%AA%95%E7%A6%AE%E7%89%A9%E5%A4%B1%E8%B9%A4%E9%80%BE%E4%BA%8C%E5%8D%81%E5%B9%B4-%E5%B0%8B%E5%9B%9E%E9%A9%9A%E6%8F%AD%E6%8B%8B%E5%AE%B6%E6%A3%84%E5%AD%90%E7%95%B0%E5%9C%B0%E5%B1%95%E6%96%B0%E7%94%9F%E6%B4%BB",
+    "timestamp": "2026-02-26T14:40:26.023Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "WTT新加坡大滿貫直擊｜林昀儒挫向鵬　沉默殺手與小林同學都是他",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260226/1103552389475995648425897.jpeg/Hji_ZfH0UfZrHmMWf_-X_bDKyp_Mog7mdMN9tnTDfbY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60325169/%E8%8B%B1%E5%AA%92-%E5%AE%89%E5%BE%B7%E9%AD%AF%E6%9B%BE%E5%81%B7%E9%81%8B%E6%8C%89%E6%91%A9%E5%B8%AB%E5%9B%9E%E7%99%BD%E9%87%91%E6%BC%A2%E5%AE%AE-%E7%8D%B2%E8%A3%B8%E9%AB%94%E6%8C%89%E6%91%A9%E7%9A%87%E5%AE%A4%E9%96%8B%E6%94%AF%E7%A5%A8%E6%9B%9D%E5%85%89",
     "timestamp": "2026-02-25T21:50:55.321Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "古巴政府：邊防部隊截查美國違規快艇遭槍擊　開火還擊致4死6傷",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20240529/872295444397428736610245.jpeg/0iEpUj9VtuAa59SPZq9I3Nu62P69rLmWIJp3NyCadzc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60325168/%E5%8F%A4%E5%B7%B4%E6%94%BF%E5%BA%9C-%E9%82%8A%E9%98%B2%E9%83%A8%E9%9A%8A%E6%88%AA%E6%9F%A5%E7%BE%8E%E5%9C%8B%E9%81%95%E8%A6%8F%E5%BF%AB%E8%89%87%E9%81%AD%E6%A7%8D%E6%93%8A-%E9%96%8B%E7%81%AB%E9%82%84%E6%93%8A%E8%87%B44%E6%AD%BB6%E5%82%B7",
-    "timestamp": "2026-02-25T21:20:37.026Z",
     "strategy": ".content-card__main"
   }
 ];
