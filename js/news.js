@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-26T19:11:56.089Z
+// Last updated: 2026-02-26T19:37:42.626Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "俄羅斯稱向烏克蘭移交1000士兵遺體　美烏26日瑞士舉行會談",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260227/1103891550494003200718354.png/tlvbLgr59h-efrpNbrmKgs3nstwK_rYdNa89xDWvPcQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60325534/%E4%BF%84%E7%BE%85%E6%96%AF%E7%A8%B1%E5%90%91%E7%83%8F%E5%85%8B%E8%98%AD%E7%A7%BB%E4%BA%A41000%E5%A3%AB%E5%85%B5%E9%81%BA%E9%AB%94-%E7%BE%8E%E7%83%8F26%E6%97%A5%E7%91%9E%E5%A3%AB%E8%88%89%E8%A1%8C%E6%9C%83%E8%AB%87",
+    "timestamp": "2026-02-26T19:37:42.626Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "高市早苗回應中國將20間日本實體列出口管制　稱「完全不可接受」",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260226/1103666334538928128579146.jpeg/EcXX85WfICQDAyk9-3D0hVysW1MzH7wm9pgEl_aYBJc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%9C%8B%E9%9A%9B%E5%88%86%E6%9E%90/60325265/%E7%89%B9%E6%9C%97%E6%99%AE%E5%9C%8B%E6%83%85%E5%92%A8%E6%96%87%E6%BC%94%E8%AA%AA%E5%BE%8C%E7%9A%84%E7%BE%8E%E4%BC%8A-%E6%9C%80%E5%BE%8C%E8%AB%87%E5%88%A4-%E7%82%BA%E4%BD%95%E6%98%AF%E7%8F%BE%E5%9C%A8",
     "timestamp": "2026-02-26T04:59:39.164Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "83歲台傳奇播音主持病逝　曾陪伴無數觀眾童年　喪夫打擊或成關鍵",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260226/1103647873746079744571830.png/pe8j3FYrqJVUHmwRScnc1PNRsMhrodKYCnWqCgp1qgo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60325223/83%E6%AD%B2%E5%8F%B0%E6%92%AD%E9%9F%B3%E5%93%A1%E5%A4%8F%E7%90%8D%E7%90%8D%E7%97%85%E9%80%9D-%E6%9B%BE%E9%99%AA%E4%BC%B4%E7%84%A1%E6%95%B8%E8%A7%80%E7%9C%BE%E7%AB%A5%E5%B9%B4-%E5%96%AA%E5%A4%AB%E6%89%93%E6%93%8A%E6%88%96%E6%88%90%E9%97%9C%E9%8D%B5",
-    "timestamp": "2026-02-26T03:21:11.059Z",
     "strategy": ".content-card__main"
   }
 ];
