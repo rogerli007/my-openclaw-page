@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-26T04:59:39.164Z
+// Last updated: 2026-02-26T05:38:10.088Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "雙囍專訪｜田啟文感性演繹攻陷台灣觀眾　「唔可以失禮香港演員」",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260225/1103410660953296896976184.jpeg/sRFHGbM7kutlU9gsXWtqEQ9xYBtSYfbkelkUXXpZFF0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60325030/%E9%9B%99%E5%9B%8D%E5%B0%88%E8%A8%AA-%E7%94%B0%E5%95%9F%E6%96%87%E6%84%9F%E6%80%A7%E6%BC%94%E7%B9%B9%E6%94%BB%E9%99%B7%E5%8F%B0%E7%81%A3%E8%A7%80%E7%9C%BE-%E5%94%94%E5%8F%AF%E4%BB%A5%E5%A4%B1%E7%A6%AE%E9%A6%99%E6%B8%AF%E6%BC%94%E5%93%A1",
+    "timestamp": "2026-02-26T05:38:10.088Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "特朗普國情咨文演說後的美伊「最後談判」：為何是現在？",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260225/1103297788432617472034195.png/zuVJqRTFavGl2xoTuwE8AfBvkapE-hbH1wN0w9cDdMM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E8%A9%B1%E9%A1%8C/60324874/%E5%8D%B0%E7%94%B7%E6%B1%82%E6%AD%A1%E8%A2%AB%E6%8B%92%E7%AB%9F%E5%A7%A6%E6%AE%BA%E7%A2%A9%E5%A3%AB%E5%A5%B3%E5%8F%8B-%E7%A0%B4%E5%A3%9E%E9%81%BA%E9%AB%94%E5%BE%8C%E5%86%8D%E5%A7%A6%E5%B1%8D-%E9%82%84%E7%94%A8%E9%BB%91%E9%AD%94%E6%B3%95%E6%8B%9B%E9%AD%82",
     "timestamp": "2026-02-25T14:41:09.847Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "警搜牛頭角店舖搗賣淫場所　拘3內地女檢避孕套潤滑劑",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260225/1103446731732815872793264.jpeg/qvYtIsCbEZedg0WVtvVQHATQP5EoVI-rlDeF2ZQ3hdk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60325131/%E8%AD%A6%E6%90%9C%E7%89%9B%E9%A0%AD%E8%A7%92%E5%BA%97%E8%88%96%E6%90%97%E8%B3%A3%E6%B7%AB%E5%A0%B4%E6%89%80-%E6%8B%983%E5%85%A7%E5%9C%B0%E5%A5%B3%E6%AA%A2%E9%81%BF%E5%AD%95%E5%A5%97%E6%BD%A4%E6%BB%91%E5%8A%91",
-    "timestamp": "2026-02-25T14:15:54.670Z",
     "strategy": ".content-card__main"
   }
 ];
