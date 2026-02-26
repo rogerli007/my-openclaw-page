@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-25T23:59:36.788Z
+// Last updated: 2026-02-26T00:42:40.708Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "詹天文身為大師姐有氣場柯雨霏即要拜見　胡子貝得戚地大晒廣東話",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260225/1103446686270754816032415.jpeg/_6rSOypCC0qmyodqgkkUGTPPOjVLwA3IjmP3a7Rj92s?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60325137/%E8%A9%B9%E5%A4%A9%E6%96%87%E8%BA%AB%E7%82%BA%E5%A4%A7%E5%B8%AB%E5%A7%90%E6%9C%89%E6%B0%A3%E5%A0%B4%E6%9F%AF%E9%9B%A8%E9%9C%8F%E5%8D%B3%E8%A6%81%E6%8B%9C%E8%A6%8B-%E8%83%A1%E5%AD%90%E8%B2%9D%E5%BE%97%E6%88%9A%E5%9C%B0%E5%A4%A7%E6%99%92%E5%BB%A3%E6%9D%B1%E8%A9%B1",
+    "timestamp": "2026-02-26T00:42:40.708Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "愛潑斯坦案｜驚現霍金被比堅尼女郎簇擁照　遺屬稱是其護理",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260225/1103372560801730560453719.jpeg/HEcIqCnGNctQhHn9g2Mc8aSCgPqxw7y4LBcGNiwXBjY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60324802/%E5%90%B3%E6%A5%AD%E5%9D%A4%E5%A5%AA-%E9%A3%9B%E8%BA%8D%E7%94%B7-%E5%8F%8D%E9%81%ADtmg%E9%9B%A2%E5%A5%87%E9%99%A4%E5%90%8D-%E5%9B%A0%E4%B8%8D%E6%95%B5-%E4%B8%AD%E5%B9%B4-%E5%B9%B3%E5%83%B9%E5%A4%A7%E8%BB%8D",
     "timestamp": "2026-02-25T10:12:17.602Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "骨質疏鬆只懂補鈣？少攝1營養等於白吃！醫教預防4秘訣 忌喝2飲品",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260225/1103352908650385408346027.jpeg/npnP7eXDs4HPNoqjNTCd7etH9Bj0AiKeujIFAroyBQI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60317634/%E9%AA%A8%E8%B3%AA%E7%96%8F%E9%AC%86%E5%8F%AA%E6%87%82%E8%A3%9C%E9%88%A3-%E5%B0%91%E6%94%9D1%E7%87%9F%E9%A4%8A%E7%AD%89%E6%96%BC%E7%99%BD%E5%90%83-%E9%86%AB%E6%95%99%E9%A0%90%E9%98%B24%E7%A7%98%E8%A8%A3-%E5%BF%8C%E5%96%9D2%E9%A3%B2%E5%93%81",
-    "timestamp": "2026-02-25T08:07:21.287Z",
     "strategy": ".content-card__main"
   }
 ];
