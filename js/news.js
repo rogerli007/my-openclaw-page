@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-26T22:04:53.920Z
+// Last updated: 2026-02-26T22:21:55.419Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "8寶爸被控12次性侵13歲繼女！被控拒認亂倫　最高可囚X年打藤X下",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260226/1103545655747416064837256.png/-6cgcgaeWwARRVdXC7K6rmNBRHkvYySLDe3hUQ3t4VE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E8%A9%B1%E9%A1%8C/60325128/8%E5%AF%B6%E7%88%B8%E8%A2%AB%E6%8E%A712%E6%AC%A1%E6%80%A7%E4%BE%B513%E6%AD%B2%E7%B9%BC%E5%A5%B3-%E8%A2%AB%E6%8E%A7%E6%8B%92%E8%AA%8D%E4%BA%82%E5%80%AB-%E6%9C%80%E9%AB%98%E5%8F%AF%E5%9B%9Ax%E5%B9%B4%E6%89%93%E8%97%A4x%E4%B8%8B",
+    "timestamp": "2026-02-26T22:21:55.419Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "38歲陳庭欣甩「10億闊少」　高調拜狐仙唸108次經文求姻緣",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260226/1103757621418004480759024.jpeg/KHeF7MdMmB0uR-8OP5IjM9GA286qv2_IgIeDmoCHg5o?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60325463/%E6%B8%AF%E8%82%A1%E5%8E%BB%E5%B9%B4%E4%BA%A4%E6%8A%95%E5%A4%A7%E5%A2%9E-%E6%B8%AF%E4%BA%A4%E6%89%80%E9%99%B3%E7%BF%8A%E5%BA%AD%E6%96%99%E4%BB%8A%E5%B9%B4%E5%8B%A2%E9%A0%AD%E6%8C%81%E7%BA%8C-%E7%BA%8C%E6%8E%A8%E9%80%B2%E4%B8%8A%E5%B8%82%E6%94%B9%E9%9D%A9",
     "timestamp": "2026-02-26T10:36:20.089Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "百度第4季經調整少賺四成　仍勝預期　蘿蔔快跑營運訂單增逾兩倍",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250219/968812958895312896652734.jpeg/3DCMJZy5dagj8LH8Ll5CvT7orCIoaioKCh3I4godyOI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60325426/%E7%99%BE%E5%BA%A6%E7%AC%AC4%E5%AD%A3%E7%B6%93%E8%AA%BF%E6%95%B4%E5%B0%91%E8%B3%BA%E5%9B%9B%E6%88%90-%E4%BB%8D%E5%8B%9D%E9%A0%90%E6%9C%9F-%E8%98%BF%E8%94%94%E5%BF%AB%E8%B7%91%E7%87%9F%E9%81%8B%E8%A8%82%E5%96%AE%E5%A2%9E%E9%80%BE%E5%85%A9%E5%80%8D",
-    "timestamp": "2026-02-26T10:07:14.589Z",
     "strategy": ".content-card__main"
   }
 ];
