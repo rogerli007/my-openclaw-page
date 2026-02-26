@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-26T03:21:11.059Z
+// Last updated: 2026-02-26T04:59:39.164Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "特朗普國情咨文演說後的美伊「最後談判」：為何是現在？",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260226/1103666334538928128579146.jpeg/EcXX85WfICQDAyk9-3D0hVysW1MzH7wm9pgEl_aYBJc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%9C%8B%E9%9A%9B%E5%88%86%E6%9E%90/60325265/%E7%89%B9%E6%9C%97%E6%99%AE%E5%9C%8B%E6%83%85%E5%92%A8%E6%96%87%E6%BC%94%E8%AA%AA%E5%BE%8C%E7%9A%84%E7%BE%8E%E4%BC%8A-%E6%9C%80%E5%BE%8C%E8%AB%87%E5%88%A4-%E7%82%BA%E4%BD%95%E6%98%AF%E7%8F%BE%E5%9C%A8",
+    "timestamp": "2026-02-26T04:59:39.164Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "83歲台傳奇播音主持病逝　曾陪伴無數觀眾童年　喪夫打擊或成關鍵",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260225/1103446731732815872793264.jpeg/qvYtIsCbEZedg0WVtvVQHATQP5EoVI-rlDeF2ZQ3hdk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60325131/%E8%AD%A6%E6%90%9C%E7%89%9B%E9%A0%AD%E8%A7%92%E5%BA%97%E8%88%96%E6%90%97%E8%B3%A3%E6%B7%AB%E5%A0%B4%E6%89%80-%E6%8B%983%E5%85%A7%E5%9C%B0%E5%A5%B3%E6%AA%A2%E9%81%BF%E5%AD%95%E5%A5%97%E6%BD%A4%E6%BB%91%E5%8A%91",
     "timestamp": "2026-02-25T14:15:54.670Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "邱晴潛水衣胸前拉鍊打開辣爆身材成焦點　大爆導演要求：有啲凍",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260225/1103360653516607488158372.png/gFDrMdmOGlMsR4SbI357f4opaXTAS_RlB_pHWwf6R1s?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60325000/%E9%82%B1%E6%99%B4%E6%BD%9B%E6%B0%B4%E8%A1%A3%E8%83%B8%E5%89%8D%E6%8B%89%E9%8D%8A%E6%89%93%E9%96%8B%E8%BE%A3%E7%88%86%E8%BA%AB%E6%9D%90%E6%88%90%E7%84%A6%E9%BB%9E-%E5%A4%A7%E7%88%86%E5%B0%8E%E6%BC%94%E8%A6%81%E6%B1%82-%E6%9C%89%E5%95%B2%E5%87%8D",
-    "timestamp": "2026-02-25T12:54:23.377Z",
     "strategy": ".content-card__main"
   }
 ];
