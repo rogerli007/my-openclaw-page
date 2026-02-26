@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-26T21:24:14.285Z
+// Last updated: 2026-02-26T21:51:46.646Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美國分別與俄烏在瑞士會面　澤連斯基：料3月初再舉行三方會談",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260227/1103920112487895040297361.jpeg/4LR5C7gvLd2GHqNUUsTWXRV3TBu73PJiJtxreCbca3g?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60325539/%E7%BE%8E%E5%9C%8B%E5%88%86%E5%88%A5%E8%88%87%E4%BF%84%E7%83%8F%E5%9C%A8%E7%91%9E%E5%A3%AB%E6%9C%83%E9%9D%A2-%E6%BE%A4%E9%80%A3%E6%96%AF%E5%9F%BA-%E6%96%993%E6%9C%88%E5%88%9D%E5%86%8D%E8%88%89%E8%A1%8C%E4%B8%89%E6%96%B9%E6%9C%83%E8%AB%87",
+    "timestamp": "2026-02-26T21:51:46.646Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "6惡煞持棍闖元朗酒吧「刮友」　疑未發現目標1分鐘內離開｜有片",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20230416/724234120418299904538142.jpeg/EQKO7jsGeKzjKIQrgvOdWr78ZfRYnq7BvU4LNr1OCzY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60325344/cia%E7%BD%95%E8%A6%8B%E7%99%BC%E5%B8%83%E6%B3%A2%E6%96%AF%E8%AA%9E%E6%8B%9B%E5%8B%9F%E8%A8%8A%E6%81%AF-%E4%BB%A5%E5%90%B8%E5%BC%95%E4%BC%8A%E6%9C%97%E4%BA%BA%E5%81%9A%E5%85%A7%E7%B7%9A%E6%8F%90%E4%BE%9B%E6%83%85%E5%A0%B1",
     "timestamp": "2026-02-26T09:38:22.947Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "Bill Gates承認出軌　昔橋牌活動結識年輕俄女　愛潑斯坦藉機威脅",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260226/1103698128114028544519237.jpeg/nBWNdWz7UG8UINkr34lAx5INDmTqUtveGDzykhg88pI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60325308/bill-gates%E8%AA%8D%E5%87%BA%E8%BB%8C-%E6%98%94%E7%B5%90%E8%AD%98%E4%BF%84%E5%A5%B3mila-antonova-%E6%84%9B%E6%BD%91%E6%96%AF%E5%9D%A6%E8%97%89%E6%A9%9F%E5%A8%81%E8%84%85",
-    "timestamp": "2026-02-26T07:14:27.875Z",
     "strategy": ".content-card__main"
   }
 ];
