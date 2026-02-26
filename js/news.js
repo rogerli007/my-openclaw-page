@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-26T20:23:47.588Z
+// Last updated: 2026-02-26T21:24:14.285Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "6惡煞持棍闖元朗酒吧「刮友」　疑未發現目標1分鐘內離開｜有片",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260227/1103914624710873088245138.jpeg/rQBoPqh526nAEGJ5usu_A-0Ec3NWbf3BF4-PbS2Pj20",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60325537/6%E6%83%A1%E7%85%9E%E6%8C%81%E6%A3%8D%E9%97%96%E5%85%83%E6%9C%97%E9%85%92%E5%90%A7-%E5%88%AE%E5%8F%8B-%E7%96%91%E6%9C%AA%E7%99%BC%E7%8F%BE%E7%9B%AE%E6%A8%991%E5%88%86%E9%90%98%E5%85%A7%E9%9B%A2%E9%96%8B-%E6%9C%89%E7%89%87",
+    "timestamp": "2026-02-26T21:24:14.285Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "俄羅斯稱向烏克蘭移交1000士兵遺體　美代表26日分別與俄烏會談",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260226/1103698128114028544519237.jpeg/nBWNdWz7UG8UINkr34lAx5INDmTqUtveGDzykhg88pI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60325308/bill-gates%E8%AA%8D%E5%87%BA%E8%BB%8C-%E6%98%94%E7%B5%90%E8%AD%98%E4%BF%84%E5%A5%B3mila-antonova-%E6%84%9B%E6%BD%91%E6%96%AF%E5%9D%A6%E8%97%89%E6%A9%9F%E5%A8%81%E8%84%85",
     "timestamp": "2026-02-26T07:14:27.875Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "水警海關聯合行動　土地灣海面追截快艇　岸上貨車檢60萬支私煙",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260226/1103691651383037952368472.jpeg/pDnnoQ4wA72FlDMOiJ1V_55uagHrcYCG3bksTd25LE0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60325299/%E6%B0%B4%E8%AD%A6%E6%B5%B7%E9%97%9C%E8%81%AF%E5%90%88%E8%A1%8C%E5%8B%95-%E5%9C%9F%E5%9C%B0%E7%81%A3%E6%B5%B7%E9%9D%A2%E8%BF%BD%E6%88%AA%E5%BF%AB%E8%89%87-%E5%B2%B8%E4%B8%8A%E8%B2%A8%E8%BB%8A%E6%AA%A260%E8%90%AC%E6%94%AF%E7%A7%81%E7%85%99",
-    "timestamp": "2026-02-26T06:12:37.767Z",
     "strategy": ".content-card__main"
   }
 ];
