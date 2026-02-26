@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-26T23:17:30.255Z
+// Last updated: 2026-02-26T23:34:33.536Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "俄烏均面臨兵源危機　戰爭能否在2026年結束？",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/689a64c0b5daf5b771c54fd6e8666d83.jpg/1-vwya0OFxqW5ljJdaPR_FupAazVy5vr8qenz_Knp88?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%9C%8B%E9%9A%9B%E5%88%86%E6%9E%90/60325335/%E4%BF%84%E7%83%8F%E5%9D%87%E9%99%B7%E5%85%B5%E6%BA%90%E5%8D%B1%E6%A9%9F-%E6%88%B0%E7%88%AD%E8%83%BD%E5%90%A6%E5%9C%A82026%E5%B9%B4%E7%B5%90%E6%9D%9F",
+    "timestamp": "2026-02-26T23:34:33.536Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "「細龍太」陳思圻創業　推出自家衛生巾：包裝每粒字都是我設計",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260226/1103815192879304704798014.jpeg/lr5ulZrZ130-nhjdLoyuFDKzJxoHKrFZloRdeZaEXXk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60325492/wtt%E6%96%B0%E5%8A%A0%E5%9D%A1%E5%A4%A7%E6%BB%BF%E8%B2%AB%E7%9B%B4%E6%93%8A-%E6%9E%97%E6%98%80%E5%84%92%E6%8C%AB%E5%90%91%E9%B5%AC-%E6%B2%89%E9%BB%98%E6%AE%BA%E6%89%8B%E8%88%87%E5%B0%8F%E6%9E%97%E5%90%8C%E5%AD%B8%E9%83%BD%E6%98%AF%E4%BB%96",
     "timestamp": "2026-02-26T14:15:44.040Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "鰂魚涌站男子疑偷拍　目擊者拍低「睇相」一刻　報案及發文警世",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260226/1103802059058057216365498.jpeg/bHDHGQSoHSoagO_XnDuLpVn-aDVcUK_0mHFwnZhxcJ0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60325491/%E9%B0%82%E9%AD%9A%E6%B6%8C%E7%AB%99%E7%94%B7%E5%AD%90%E7%96%91%E5%81%B7%E6%8B%8D-%E7%9B%AE%E6%93%8A%E8%80%85%E6%8B%8D%E4%BD%8E-%E7%9D%87%E7%9B%B8-%E4%B8%80%E5%88%BB-%E5%A0%B1%E6%A1%88%E5%8F%8A%E7%99%BC%E6%96%87%E8%AD%A6%E4%B8%96",
-    "timestamp": "2026-02-26T13:40:13.304Z",
     "strategy": ".content-card__main"
   }
 ];
