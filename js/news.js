@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-26T20:03:21.288Z
+// Last updated: 2026-02-26T20:23:47.588Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "俄羅斯稱向烏克蘭移交1000士兵遺體　美代表26日分別與俄烏會談",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260227/1103891550494003200718354.png/tlvbLgr59h-efrpNbrmKgs3nstwK_rYdNa89xDWvPcQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60325534/%E4%BF%84%E7%BE%85%E6%96%AF%E7%A8%B1%E5%90%91%E7%83%8F%E5%85%8B%E8%98%AD%E7%A7%BB%E4%BA%A41000%E5%A3%AB%E5%85%B5%E9%81%BA%E9%AB%94-%E7%BE%8E%E4%BB%A3%E8%A1%A826%E6%97%A5%E5%88%86%E5%88%A5%E8%88%87%E4%BF%84%E7%83%8F%E6%9C%83%E8%AB%87",
+    "timestamp": "2026-02-26T20:23:47.588Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "俄羅斯稱向烏克蘭移交1000士兵遺體　美代表26日分別與俄烏會談",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260226/1103691651383037952368472.jpeg/pDnnoQ4wA72FlDMOiJ1V_55uagHrcYCG3bksTd25LE0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60325299/%E6%B0%B4%E8%AD%A6%E6%B5%B7%E9%97%9C%E8%81%AF%E5%90%88%E8%A1%8C%E5%8B%95-%E5%9C%9F%E5%9C%B0%E7%81%A3%E6%B5%B7%E9%9D%A2%E8%BF%BD%E6%88%AA%E5%BF%AB%E8%89%87-%E5%B2%B8%E4%B8%8A%E8%B2%A8%E8%BB%8A%E6%AA%A260%E8%90%AC%E6%94%AF%E7%A7%81%E7%85%99",
     "timestamp": "2026-02-26T06:12:37.767Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "雙囍專訪｜田啟文感性演繹攻陷台灣觀眾　「唔可以失禮香港演員」",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260225/1103410660953296896976184.jpeg/sRFHGbM7kutlU9gsXWtqEQ9xYBtSYfbkelkUXXpZFF0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60325030/%E9%9B%99%E5%9B%8D%E5%B0%88%E8%A8%AA-%E7%94%B0%E5%95%9F%E6%96%87%E6%84%9F%E6%80%A7%E6%BC%94%E7%B9%B9%E6%94%BB%E9%99%B7%E5%8F%B0%E7%81%A3%E8%A7%80%E7%9C%BE-%E5%94%94%E5%8F%AF%E4%BB%A5%E5%A4%B1%E7%A6%AE%E9%A6%99%E6%B8%AF%E6%BC%94%E5%93%A1",
-    "timestamp": "2026-02-26T05:38:10.088Z",
     "strategy": ".content-card__main"
   }
 ];
