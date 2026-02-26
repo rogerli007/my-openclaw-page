@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-26T10:07:14.589Z
+// Last updated: 2026-02-26T10:36:20.089Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "港股去年交投大增　港交所陳翊庭料今年勢頭持續　續推進上市改革",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260226/1103757621418004480759024.jpeg/KHeF7MdMmB0uR-8OP5IjM9GA286qv2_IgIeDmoCHg5o?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60325463/%E6%B8%AF%E8%82%A1%E5%8E%BB%E5%B9%B4%E4%BA%A4%E6%8A%95%E5%A4%A7%E5%A2%9E-%E6%B8%AF%E4%BA%A4%E6%89%80%E9%99%B3%E7%BF%8A%E5%BA%AD%E6%96%99%E4%BB%8A%E5%B9%B4%E5%8B%A2%E9%A0%AD%E6%8C%81%E7%BA%8C-%E7%BA%8C%E6%8E%A8%E9%80%B2%E4%B8%8A%E5%B8%82%E6%94%B9%E9%9D%A9",
+    "timestamp": "2026-02-26T10:36:20.089Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "百度第4季經調整少賺四成　仍勝預期　蘿蔔快跑營運訂單增逾兩倍",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20230918/780555067106267136648931.jpeg/rFRgI---1LBcIpZUWshNyYgGdbkLUYhJ8eBZX_HgWV8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60325166/%E7%BE%8E%E4%BC%8A%E6%96%B0%E4%B8%80%E8%BC%AA%E8%AB%87%E5%88%A4%E5%89%8D%E5%A4%95-%E7%BE%8E%E8%B2%A1%E6%94%BF%E9%83%A8%E5%85%AC%E5%B8%83%E9%87%9D%E5%B0%8D%E4%BC%8A%E6%9C%97%E6%96%B0%E5%88%B6%E8%A3%81%E5%90%8D%E5%96%AE",
     "timestamp": "2026-02-25T20:02:46.034Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "三星Galaxy S26 Ultra實機試：香港幾時賣？內建PerplexityAI實用",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260225/1103395252472909824463912.jpeg/i8U5OFu-fE4-_NjcfUEcLHVnlkh7UK3Mcljso3JY7KM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60324653/%E4%B8%89%E6%98%9Fgalaxy-s26-ultra%E5%AF%A6%E6%A9%9F%E8%A9%A6-%E9%A6%99%E6%B8%AF%E5%B9%BE%E6%99%82%E8%B3%A3-%E5%85%A7%E5%BB%BAperplexityai%E5%AF%A6%E7%94%A8",
-    "timestamp": "2026-02-25T18:14:40.241Z",
     "strategy": ".content-card__main"
   }
 ];
