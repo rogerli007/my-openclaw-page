@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-26T00:42:40.708Z
+// Last updated: 2026-02-26T02:05:29.838Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "尊重孩子卻換來得寸進尺　聰明父母必學這招　讓孩子學會負責",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20251219/1078625777496363008239708.jpeg/tMP7HRf_vjddDlwC2gR1u_MefUcSiCq6bjgNe244DXs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%A6%AA%E5%AD%90/60305042/%E5%B0%8A%E9%87%8D%E5%AD%A9%E5%AD%90%E5%8D%BB%E6%8F%9B%E4%BE%86%E5%BE%97%E5%AF%B8%E9%80%B2%E5%B0%BA-%E8%81%B0%E6%98%8E%E7%88%B6%E6%AF%8D%E5%BF%85%E5%AD%B8%E9%80%99%E6%8B%9B-%E8%AE%93%E5%AD%A9%E5%AD%90%E5%AD%B8%E6%9C%83%E8%B2%A0%E8%B2%AC",
+    "timestamp": "2026-02-26T02:05:29.838Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "詹天文身為大師姐有氣場柯雨霏即要拜見　胡子貝得戚地大晒廣東話",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260225/1103413421975539712132564.jpeg/wxq_f5EfNxMB7FI5FcZJVc8X_8UDc-dUKirtYSoq7WE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60325114/%E8%AD%A6%E4%B8%8A%E6%B0%B4%E6%90%97%E9%9D%9E%E6%B3%95%E9%BA%BB%E9%9B%80%E8%B3%AD%E6%AA%94%E6%8B%9811%E4%BA%BA-%E6%AA%A2%E9%9B%BB%E5%8B%95%E9%BA%BB%E9%9B%80%E6%9E%B1-%E8%B3%AD%E5%85%B7%E5%8F%8A%E9%80%BE-8000%E7%8F%BE%E9%87%91",
     "timestamp": "2026-02-25T11:55:48.982Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "吳業坤奪「飛躍男」反遭TMG離奇除名　因不敵《中年》平價大軍？",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260225/1103372560801730560453719.jpeg/HEcIqCnGNctQhHn9g2Mc8aSCgPqxw7y4LBcGNiwXBjY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60324802/%E5%90%B3%E6%A5%AD%E5%9D%A4%E5%A5%AA-%E9%A3%9B%E8%BA%8D%E7%94%B7-%E5%8F%8D%E9%81%ADtmg%E9%9B%A2%E5%A5%87%E9%99%A4%E5%90%8D-%E5%9B%A0%E4%B8%8D%E6%95%B5-%E4%B8%AD%E5%B9%B4-%E5%B9%B3%E5%83%B9%E5%A4%A7%E8%BB%8D",
-    "timestamp": "2026-02-25T10:12:17.602Z",
     "strategy": ".content-card__main"
   }
 ];
