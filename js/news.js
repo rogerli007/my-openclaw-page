@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-26T02:05:29.838Z
+// Last updated: 2026-02-26T03:21:11.059Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "83歲台傳奇播音主持病逝　曾陪伴無數觀眾童年　喪夫打擊或成關鍵",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260226/1103647873746079744571830.png/pe8j3FYrqJVUHmwRScnc1PNRsMhrodKYCnWqCgp1qgo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60325223/83%E6%AD%B2%E5%8F%B0%E6%92%AD%E9%9F%B3%E5%93%A1%E5%A4%8F%E7%90%8D%E7%90%8D%E7%97%85%E9%80%9D-%E6%9B%BE%E9%99%AA%E4%BC%B4%E7%84%A1%E6%95%B8%E8%A7%80%E7%9C%BE%E7%AB%A5%E5%B9%B4-%E5%96%AA%E5%A4%AB%E6%89%93%E6%93%8A%E6%88%96%E6%88%90%E9%97%9C%E9%8D%B5",
+    "timestamp": "2026-02-26T03:21:11.059Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "尊重孩子卻換來得寸進尺　聰明父母必學這招　讓孩子學會負責",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260225/1103360653516607488158372.png/gFDrMdmOGlMsR4SbI357f4opaXTAS_RlB_pHWwf6R1s?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60325000/%E9%82%B1%E6%99%B4%E6%BD%9B%E6%B0%B4%E8%A1%A3%E8%83%B8%E5%89%8D%E6%8B%89%E9%8D%8A%E6%89%93%E9%96%8B%E8%BE%A3%E7%88%86%E8%BA%AB%E6%9D%90%E6%88%90%E7%84%A6%E9%BB%9E-%E5%A4%A7%E7%88%86%E5%B0%8E%E6%BC%94%E8%A6%81%E6%B1%82-%E6%9C%89%E5%95%B2%E5%87%8D",
     "timestamp": "2026-02-25T12:54:23.377Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "警上水搗非法麻雀賭檔拘11人　檢電動麻雀枱、賭具及逾$8000現金",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260225/1103413421975539712132564.jpeg/wxq_f5EfNxMB7FI5FcZJVc8X_8UDc-dUKirtYSoq7WE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60325114/%E8%AD%A6%E4%B8%8A%E6%B0%B4%E6%90%97%E9%9D%9E%E6%B3%95%E9%BA%BB%E9%9B%80%E8%B3%AD%E6%AA%94%E6%8B%9811%E4%BA%BA-%E6%AA%A2%E9%9B%BB%E5%8B%95%E9%BA%BB%E9%9B%80%E6%9E%B1-%E8%B3%AD%E5%85%B7%E5%8F%8A%E9%80%BE-8000%E7%8F%BE%E9%87%91",
-    "timestamp": "2026-02-25T11:55:48.982Z",
     "strategy": ".content-card__main"
   }
 ];
