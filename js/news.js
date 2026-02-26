@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-26T14:40:26.023Z
+// Last updated: 2026-02-26T15:09:31.745Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "德國總理默茨總結2天訪華行程：合作良好同時存在棘手問題",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260226/1103808523772366848198073.jpeg/olO1hNKqcrJq8UqQUXaecyF0sXZlcq4SMW-e9DFvnvQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60325500/%E5%BE%B7%E5%9C%8B%E7%B8%BD%E7%90%86%E9%BB%98%E8%8C%A8%E7%B8%BD%E7%B5%902%E5%A4%A9%E8%A8%AA%E8%8F%AF%E8%A1%8C%E7%A8%8B-%E5%90%88%E4%BD%9C%E8%89%AF%E5%A5%BD%E5%90%8C%E6%99%82%E5%AD%98%E5%9C%A8%E6%A3%98%E6%89%8B%E5%95%8F%E9%A1%8C",
+    "timestamp": "2026-02-26T15:09:31.745Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美三孩母買聖誕禮物失蹤逾二十年　尋回驚揭拋家棄子異地展新生活",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260226/1103570063078199296642983.jpeg/zpcdRjpt-qjBvar4B7D_bqqLD1sGCtVky9TPtcvUz7U?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60325153/%E5%A4%A9%E6%B0%A3-%E4%BB%8A%E6%97%A5%E6%9C%89%E4%B8%80%E5%85%A9%E9%99%A3%E5%BE%AE%E9%9B%A8-%E5%88%9D%E6%99%82%E9%83%A8%E4%BB%BD%E5%9C%B0%E5%8D%80%E8%83%BD%E8%A6%8B%E5%BA%A6%E9%A0%97%E4%BD%8E-%E6%97%A5%E9%96%93%E6%9C%80%E9%AB%9823%E5%BA%A6",
     "timestamp": "2026-02-25T22:17:21.654Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "英媒：安德魯曾偷運按摩師回白金漢宮　獲裸體按摩皇室開支票曝光",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260226/1103552389475995648425897.jpeg/Hji_ZfH0UfZrHmMWf_-X_bDKyp_Mog7mdMN9tnTDfbY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60325169/%E8%8B%B1%E5%AA%92-%E5%AE%89%E5%BE%B7%E9%AD%AF%E6%9B%BE%E5%81%B7%E9%81%8B%E6%8C%89%E6%91%A9%E5%B8%AB%E5%9B%9E%E7%99%BD%E9%87%91%E6%BC%A2%E5%AE%AE-%E7%8D%B2%E8%A3%B8%E9%AB%94%E6%8C%89%E6%91%A9%E7%9A%87%E5%AE%A4%E9%96%8B%E6%94%AF%E7%A5%A8%E6%9B%9D%E5%85%89",
-    "timestamp": "2026-02-25T21:50:55.321Z",
     "strategy": ".content-card__main"
   }
 ];
