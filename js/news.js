@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-26T13:40:13.304Z
+// Last updated: 2026-02-26T14:15:44.040Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "WTT新加坡大滿貫直擊｜林昀儒挫向鵬　沉默殺手與小林同學都是他",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260226/1103815192879304704798014.jpeg/lr5ulZrZ130-nhjdLoyuFDKzJxoHKrFZloRdeZaEXXk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60325492/wtt%E6%96%B0%E5%8A%A0%E5%9D%A1%E5%A4%A7%E6%BB%BF%E8%B2%AB%E7%9B%B4%E6%93%8A-%E6%9E%97%E6%98%80%E5%84%92%E6%8C%AB%E5%90%91%E9%B5%AC-%E6%B2%89%E9%BB%98%E6%AE%BA%E6%89%8B%E8%88%87%E5%B0%8F%E6%9E%97%E5%90%8C%E5%AD%B8%E9%83%BD%E6%98%AF%E4%BB%96",
+    "timestamp": "2026-02-26T14:15:44.040Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "鰂魚涌站男子疑偷拍　目擊者拍低「睇相」一刻　報案及發文警世",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20240529/872295444397428736610245.jpeg/0iEpUj9VtuAa59SPZq9I3Nu62P69rLmWIJp3NyCadzc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60325168/%E5%8F%A4%E5%B7%B4%E6%94%BF%E5%BA%9C-%E9%82%8A%E9%98%B2%E9%83%A8%E9%9A%8A%E6%88%AA%E6%9F%A5%E7%BE%8E%E5%9C%8B%E9%81%95%E8%A6%8F%E5%BF%AB%E8%89%87%E9%81%AD%E6%A7%8D%E6%93%8A-%E9%96%8B%E7%81%AB%E9%82%84%E6%93%8A%E8%87%B44%E6%AD%BB6%E5%82%B7",
     "timestamp": "2026-02-25T21:20:37.026Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "古巴政府：邊防部隊截查美國違規快艇遭槍擊　開火還擊致4死6傷",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20240529/872295444397428736610245.jpeg/0iEpUj9VtuAa59SPZq9I3Nu62P69rLmWIJp3NyCadzc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60325168/%E5%8F%A4%E5%B7%B4%E6%94%BF%E5%BA%9C-%E9%82%8A%E9%98%B2%E9%83%A8%E9%9A%8A%E6%88%AA%E6%9F%A5%E7%BE%8E%E5%9C%8B%E9%81%95%E8%A6%8F%E5%BF%AB%E8%89%87%E9%81%AD%E6%A7%8D%E6%93%8A-%E9%96%8B%E7%81%AB%E9%82%84%E6%93%8A%E8%87%B44%E6%AD%BB6%E5%82%B7",
-    "timestamp": "2026-02-25T20:51:47.337Z",
     "strategy": ".content-card__main"
   }
 ];
