@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-26T18:36:50.098Z
+// Last updated: 2026-02-26T19:11:56.089Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "高市早苗回應中國將20間日本實體列出口管制　稱「完全不可接受」",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260227/1103876154550390784879043.jpeg/h4BtgLL6yBWBDlFJYEvXO-AfhPb30HNEvPvStbz70rU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60325533/%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%9B%9E%E6%87%89%E4%B8%AD%E5%9C%8B%E5%B0%8720%E9%96%93%E6%97%A5%E6%9C%AC%E5%AF%A6%E9%AB%94%E5%88%97%E5%87%BA%E5%8F%A3%E7%AE%A1%E5%88%B6-%E7%A8%B1-%E5%AE%8C%E5%85%A8%E4%B8%8D%E5%8F%AF%E6%8E%A5%E5%8F%97",
+    "timestamp": "2026-02-26T19:11:56.089Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "高市早苗回應中國將20間日本實體列出口管制　稱「完全不可接受」",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260226/1103647873746079744571830.png/pe8j3FYrqJVUHmwRScnc1PNRsMhrodKYCnWqCgp1qgo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60325223/83%E6%AD%B2%E5%8F%B0%E6%92%AD%E9%9F%B3%E5%93%A1%E5%A4%8F%E7%90%8D%E7%90%8D%E7%97%85%E9%80%9D-%E6%9B%BE%E9%99%AA%E4%BC%B4%E7%84%A1%E6%95%B8%E8%A7%80%E7%9C%BE%E7%AB%A5%E5%B9%B4-%E5%96%AA%E5%A4%AB%E6%89%93%E6%93%8A%E6%88%96%E6%88%90%E9%97%9C%E9%8D%B5",
     "timestamp": "2026-02-26T03:21:11.059Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "尊重孩子卻換來得寸進尺　聰明父母必學這招　讓孩子學會負責",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20251219/1078625777496363008239708.jpeg/tMP7HRf_vjddDlwC2gR1u_MefUcSiCq6bjgNe244DXs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%A6%AA%E5%AD%90/60305042/%E5%B0%8A%E9%87%8D%E5%AD%A9%E5%AD%90%E5%8D%BB%E6%8F%9B%E4%BE%86%E5%BE%97%E5%AF%B8%E9%80%B2%E5%B0%BA-%E8%81%B0%E6%98%8E%E7%88%B6%E6%AF%8D%E5%BF%85%E5%AD%B8%E9%80%99%E6%8B%9B-%E8%AE%93%E5%AD%A9%E5%AD%90%E5%AD%B8%E6%9C%83%E8%B2%A0%E8%B2%AC",
-    "timestamp": "2026-02-26T02:05:29.838Z",
     "strategy": ".content-card__main"
   }
 ];
