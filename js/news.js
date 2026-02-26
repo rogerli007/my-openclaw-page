@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-26T21:51:46.646Z
+// Last updated: 2026-02-26T22:04:53.920Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "38歲陳庭欣甩「10億闊少」　高調拜狐仙唸108次經文求姻緣",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260226/1103811299231404032102498.jpeg/x--AxWWjjeo_o-Bv5kbD0yjx0WTPOVeqzp5eDM6eXgw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60324596/38%E6%AD%B2%E9%99%B3%E5%BA%AD%E6%AC%A3%E7%94%A9-10%E5%84%84%E9%97%8A%E5%B0%91-%E9%AB%98%E8%AA%BF%E6%8B%9C%E7%8B%90%E4%BB%99%E5%94%B8108%E6%AC%A1%E7%B6%93%E6%96%87%E6%B1%82%E5%A7%BB%E7%B7%A3",
+    "timestamp": "2026-02-26T22:04:53.920Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美國分別與俄烏在瑞士會面　澤連斯基：料3月初再舉行三方會談",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250219/968812958895312896652734.jpeg/3DCMJZy5dagj8LH8Ll5CvT7orCIoaioKCh3I4godyOI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60325426/%E7%99%BE%E5%BA%A6%E7%AC%AC4%E5%AD%A3%E7%B6%93%E8%AA%BF%E6%95%B4%E5%B0%91%E8%B3%BA%E5%9B%9B%E6%88%90-%E4%BB%8D%E5%8B%9D%E9%A0%90%E6%9C%9F-%E8%98%BF%E8%94%94%E5%BF%AB%E8%B7%91%E7%87%9F%E9%81%8B%E8%A8%82%E5%96%AE%E5%A2%9E%E9%80%BE%E5%85%A9%E5%80%8D",
     "timestamp": "2026-02-26T10:07:14.589Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "CIA罕見發布波斯語招募訊息　以吸引伊朗人做內線提供情報",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20230416/724234120418299904538142.jpeg/EQKO7jsGeKzjKIQrgvOdWr78ZfRYnq7BvU4LNr1OCzY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60325344/cia%E7%BD%95%E8%A6%8B%E7%99%BC%E5%B8%83%E6%B3%A2%E6%96%AF%E8%AA%9E%E6%8B%9B%E5%8B%9F%E8%A8%8A%E6%81%AF-%E4%BB%A5%E5%90%B8%E5%BC%95%E4%BC%8A%E6%9C%97%E4%BA%BA%E5%81%9A%E5%85%A7%E7%B7%9A%E6%8F%90%E4%BE%9B%E6%83%85%E5%A0%B1",
-    "timestamp": "2026-02-26T09:38:22.947Z",
     "strategy": ".content-card__main"
   }
 ];
