@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-26T16:10:35.841Z
+// Last updated: 2026-02-26T16:41:06.105Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "英國尼特族問題嚴峻　2025年近100萬青年失學失業沒進修",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20240922/914574101543129088169482.jpeg/EgJzxLn9mNxRA-hPQmIcEk8y9YdyCuFEGvB6-xrwevs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60325519/%E8%8B%B1%E5%9C%8B%E5%B0%BC%E7%89%B9%E6%97%8F%E5%95%8F%E9%A1%8C%E5%9A%B4%E5%B3%BB-2025%E5%B9%B4%E8%BF%91100%E8%90%AC%E9%9D%92%E5%B9%B4%E5%A4%B1%E5%AD%B8%E5%A4%B1%E6%A5%AD%E6%B2%92%E9%80%B2%E4%BF%AE",
+    "timestamp": "2026-02-26T16:41:06.105Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "WTT新加坡大滿貫｜黃鎮廷杜凱琹無緣決賽　1：3不敵巴西組合",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260226/1103590676815155200416097.png/ZaM_VPnfTh_CPBcwzaM6Q7PnKr_MjPaKLChwXSwocF0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60325178/%E6%84%9B%E6%BD%91%E6%96%AF%E5%9D%A6%E6%A1%88-%E9%A9%9A%E7%8F%BE%E9%9C%8D%E9%87%91%E8%A2%AB%E6%AF%94%E5%9F%BA%E5%B0%BC%E5%A5%B3%E9%83%8E%E7%B0%87%E6%93%81%E7%85%A7-%E9%81%BA%E5%B1%AC%E7%A8%B1%E6%98%AF%E5%85%B6%E8%AD%B7%E7%90%86",
     "timestamp": "2026-02-25T23:38:23.469Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "新油麻地貨物裝卸區　物流公司貨櫃辦公室疑遭爆竊　數部電腦被盜",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260226/1103578499425243136932546.jpeg/2Q302vVFdseAUwsNQifiNGp-AhAINsoP1S3iVfAt4lU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60325177/%E6%96%B0%E6%B2%B9%E9%BA%BB%E5%9C%B0%E8%B2%A8%E7%89%A9%E8%A3%9D%E5%8D%B8%E5%8D%80-%E7%89%A9%E6%B5%81%E5%85%AC%E5%8F%B8%E8%B2%A8%E6%AB%83%E8%BE%A6%E5%85%AC%E5%AE%A4%E7%96%91%E9%81%AD%E7%88%86%E7%AB%8A-%E6%95%B8%E9%83%A8%E9%9B%BB%E8%85%A6%E8%A2%AB%E7%9B%9C",
-    "timestamp": "2026-02-25T22:59:43.495Z",
     "strategy": ".content-card__main"
   }
 ];
