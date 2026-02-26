@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-26T06:12:37.767Z
+// Last updated: 2026-02-26T07:14:27.875Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "Bill Gates承認出軌　昔橋牌活動結識年輕俄女　愛潑斯坦藉機威脅",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260226/1103698128114028544519237.jpeg/nBWNdWz7UG8UINkr34lAx5INDmTqUtveGDzykhg88pI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60325308/bill-gates%E8%AA%8D%E5%87%BA%E8%BB%8C-%E6%98%94%E7%B5%90%E8%AD%98%E4%BF%84%E5%A5%B3mila-antonova-%E6%84%9B%E6%BD%91%E6%96%AF%E5%9D%A6%E8%97%89%E6%A9%9F%E5%A8%81%E8%84%85",
+    "timestamp": "2026-02-26T07:14:27.875Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "水警海關聯合行動　土地灣海面追截快艇　岸上貨車檢60萬支私煙",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260225/1103479324742258688208195.jpeg/NmzPRD8P_VOnZhVRh0n-lhzOdHNHC7_aqbAmjKmwJow?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60325147/%E6%97%A5%E6%9C%AC%E7%99%BE%E8%B2%A8%E6%A5%AD%E5%8D%94%E6%9C%83-1%E6%9C%88%E4%B8%AD%E5%9C%8B%E6%97%85%E5%AE%A2%E6%B5%81%E9%87%8F%E8%B7%8C4%E6%88%90-%E5%85%8D%E7%A8%85%E9%8A%B7%E5%94%AE%E9%A1%8D%E5%B0%9130",
     "timestamp": "2026-02-25T16:16:06.666Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美股｜市場觀望Nvidia業績　道指早段升逾200點　納指漲1%",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250529/1004894676605472768376024.jpeg/iqzPKOj7JcSNx3oGiU4TGDGAQwgoE4OSf6dts3-nbbM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60325141/%E7%BE%8E%E8%82%A1-%E5%B8%82%E5%A0%B4%E8%A7%80%E6%9C%9Bnvidia%E6%A5%AD%E7%B8%BE-%E9%81%93%E6%8C%87%E6%97%A9%E6%AE%B5%E5%8D%87%E9%80%BE200%E9%BB%9E-%E7%B4%8D%E6%8C%87%E6%BC%B21",
-    "timestamp": "2026-02-25T15:13:33.756Z",
     "strategy": ".content-card__main"
   }
 ];
