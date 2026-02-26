@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-26T07:14:27.875Z
+// Last updated: 2026-02-26T09:38:22.947Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "CIA罕見發布波斯語招募訊息　以吸引伊朗人做內線提供情報",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20230416/724234120418299904538142.jpeg/EQKO7jsGeKzjKIQrgvOdWr78ZfRYnq7BvU4LNr1OCzY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60325344/cia%E7%BD%95%E8%A6%8B%E7%99%BC%E5%B8%83%E6%B3%A2%E6%96%AF%E8%AA%9E%E6%8B%9B%E5%8B%9F%E8%A8%8A%E6%81%AF-%E4%BB%A5%E5%90%B8%E5%BC%95%E4%BC%8A%E6%9C%97%E4%BA%BA%E5%81%9A%E5%85%A7%E7%B7%9A%E6%8F%90%E4%BE%9B%E6%83%85%E5%A0%B1",
+    "timestamp": "2026-02-26T09:38:22.947Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "Bill Gates承認出軌　昔橋牌活動結識年輕俄女　愛潑斯坦藉機威脅",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20251121/1068531866794987520173284.jpeg/spe5iB0Vw7y1Nevv5VeKHk7sdqu4-qj3b6LDHG-iwxw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60325154/%E6%84%9B%E6%BD%91%E6%96%AF%E5%9D%A6%E6%A1%88-%E5%93%88%E4%BD%9B%E7%99%BC%E8%A8%80%E4%BA%BA-%E5%89%8D%E6%A0%A1%E9%95%B7%E8%96%A9%E9%BB%98%E6%96%AF%E8%BE%AD%E4%BB%BB%E6%95%99%E8%81%B7-%E5%AD%B8%E5%B9%B4%E7%B5%90%E6%9D%9F%E5%BE%8C%E9%9B%A2%E4%BB%BB",
     "timestamp": "2026-02-25T17:44:45.111Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "日本百貨業協會：1月中國旅客流量跌4成　免稅銷售額少30%",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260225/1103479324742258688208195.jpeg/NmzPRD8P_VOnZhVRh0n-lhzOdHNHC7_aqbAmjKmwJow?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60325147/%E6%97%A5%E6%9C%AC%E7%99%BE%E8%B2%A8%E6%A5%AD%E5%8D%94%E6%9C%83-1%E6%9C%88%E4%B8%AD%E5%9C%8B%E6%97%85%E5%AE%A2%E6%B5%81%E9%87%8F%E8%B7%8C4%E6%88%90-%E5%85%8D%E7%A8%85%E9%8A%B7%E5%94%AE%E9%A1%8D%E5%B0%9130",
-    "timestamp": "2026-02-25T16:16:06.666Z",
     "strategy": ".content-card__main"
   }
 ];
