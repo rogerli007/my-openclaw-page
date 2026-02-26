@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-26T22:50:50.652Z
+// Last updated: 2026-02-26T23:17:30.255Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "「細龍太」陳思圻創業　推出自家衛生巾：包裝每粒字都是我設計",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260227/1103862264928145408843607.jpeg/qss2VvFi7BZzfmUPN75KEcDorRf1t6VzE4G-uBOBvrg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60325520/%E7%B4%B0%E9%BE%8D%E5%A4%AA-%E9%99%B3%E6%80%9D%E5%9C%BB%E5%89%B5%E6%A5%AD-%E6%8E%A8%E5%87%BA%E8%87%AA%E5%AE%B6%E8%A1%9B%E7%94%9F%E5%B7%BE-%E5%8C%85%E8%A3%9D%E6%AF%8F%E7%B2%92%E5%AD%97%E9%83%BD%E6%98%AF%E6%88%91%E8%A8%AD%E8%A8%88",
+    "timestamp": "2026-02-26T23:17:30.255Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "59歲三級片艷星瘦成紙片人上圍依然澎湃　衣著慘被網民嘲老土",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260226/1103802059058057216365498.jpeg/bHDHGQSoHSoagO_XnDuLpVn-aDVcUK_0mHFwnZhxcJ0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60325491/%E9%B0%82%E9%AD%9A%E6%B6%8C%E7%AB%99%E7%94%B7%E5%AD%90%E7%96%91%E5%81%B7%E6%8B%8D-%E7%9B%AE%E6%93%8A%E8%80%85%E6%8B%8D%E4%BD%8E-%E7%9D%87%E7%9B%B8-%E4%B8%80%E5%88%BB-%E5%A0%B1%E6%A1%88%E5%8F%8A%E7%99%BC%E6%96%87%E8%AD%A6%E4%B8%96",
     "timestamp": "2026-02-26T13:40:13.304Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美國加州男子向受保護老鷹灌酒　遭判囚45天緩刑1年",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260226/1103775266221592576350764.jpeg/Fuspa5q9bDZAoCLGLB9kJpZYKnGpZIjNQczysUHM8rE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60325479/%E7%BE%8E%E5%9C%8B%E5%8A%A0%E5%B7%9E%E7%94%B7%E5%AD%90%E5%90%91%E5%8F%97%E4%BF%9D%E8%AD%B7%E8%80%81%E9%B7%B9%E7%81%8C%E9%85%92-%E9%81%AD%E5%88%A4%E5%9B%9A45%E5%A4%A9%E7%B7%A9%E5%88%911%E5%B9%B4",
-    "timestamp": "2026-02-26T11:55:48.287Z",
     "strategy": ".content-card__main"
   }
 ];
