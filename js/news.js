@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-26T15:09:31.745Z
+// Last updated: 2026-02-26T15:39:48.327Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "天氣過山車｜下周初最高26度　元宵後降溫　驚蟄打小人後低見17度",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260226/1103747251739561984638410.jpeg/2zy6b2WuR7BMmfAfiXQw2LxlN0aNWzwN4X3XiuF914o?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60325512/%E5%A4%A9%E6%B0%A3%E9%81%8E%E5%B1%B1%E8%BB%8A-%E4%B8%8B%E5%91%A8%E5%88%9D%E6%9C%80%E9%AB%9826%E5%BA%A6-%E5%85%83%E5%AE%B5%E5%BE%8C%E9%99%8D%E6%BA%AB-%E9%A9%9A%E8%9F%84%E6%89%93%E5%B0%8F%E4%BA%BA%E5%BE%8C%E4%BD%8E%E8%A6%8B17%E5%BA%A6",
+    "timestamp": "2026-02-26T15:39:48.327Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "德國總理默茨總結2天訪華行程：合作良好同時存在棘手問題",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260225/1103409172310921216925643.jpeg/T9nz35h2Hf9trSbgMqJN8opkotaBy6Gr2da_7dnWv-0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60325052/%E6%A2%81%E7%83%88%E5%94%AF%E7%94%9F%E9%90%B5%E9%91%8A%E7%82%92%E9%A3%AF-%E8%A2%AB%E6%8F%B6%E6%8F%84%E9%91%8A%E9%83%BD%E6%9C%AA%E9%96%8B%E7%82%92%E8%9B%8B%E5%8B%81%E8%80%81-%E8%94%A1%E7%80%BE%E8%A6%8B%E5%88%B0%E9%83%BD%E5%BD%88%E8%B5%B7%E8%BA%AB",
     "timestamp": "2026-02-25T22:34:22.910Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "天氣｜今日有一兩陣微雨　初時部份地區能見度頗低　日間最高23度",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260226/1103570063078199296642983.jpeg/zpcdRjpt-qjBvar4B7D_bqqLD1sGCtVky9TPtcvUz7U?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60325153/%E5%A4%A9%E6%B0%A3-%E4%BB%8A%E6%97%A5%E6%9C%89%E4%B8%80%E5%85%A9%E9%99%A3%E5%BE%AE%E9%9B%A8-%E5%88%9D%E6%99%82%E9%83%A8%E4%BB%BD%E5%9C%B0%E5%8D%80%E8%83%BD%E8%A6%8B%E5%BA%A6%E9%A0%97%E4%BD%8E-%E6%97%A5%E9%96%93%E6%9C%80%E9%AB%9823%E5%BA%A6",
-    "timestamp": "2026-02-25T22:17:21.654Z",
     "strategy": ".content-card__main"
   }
 ];
