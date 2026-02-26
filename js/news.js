@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-26T22:21:55.419Z
+// Last updated: 2026-02-26T22:50:50.652Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "59歲三級片艷星瘦成紙片人上圍依然澎湃　衣著慘被網民嘲老土",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260226/1103813967442087936521073.jpeg/UwE3V68eYUPOXoZs2JSN8-MpAlm2Z-18ZrazZWa2s2U?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60325326/59%E6%AD%B2%E4%B8%89%E7%B4%9A%E7%89%87%E8%89%B7%E6%98%9F%E7%98%A6%E6%88%90%E7%B4%99%E7%89%87%E4%BA%BA%E4%B8%8A%E5%9C%8D%E4%BE%9D%E7%84%B6%E6%BE%8E%E6%B9%83-%E8%A1%A3%E8%91%97%E6%85%98%E8%A2%AB%E7%B6%B2%E6%B0%91%E5%98%B2%E8%80%81%E5%9C%9F",
+    "timestamp": "2026-02-26T22:50:50.652Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "8寶爸被控12次性侵13歲繼女！被控拒認亂倫　最高可囚X年打藤X下",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260226/1103775266221592576350764.jpeg/Fuspa5q9bDZAoCLGLB9kJpZYKnGpZIjNQczysUHM8rE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60325479/%E7%BE%8E%E5%9C%8B%E5%8A%A0%E5%B7%9E%E7%94%B7%E5%AD%90%E5%90%91%E5%8F%97%E4%BF%9D%E8%AD%B7%E8%80%81%E9%B7%B9%E7%81%8C%E9%85%92-%E9%81%AD%E5%88%A4%E5%9B%9A45%E5%A4%A9%E7%B7%A9%E5%88%911%E5%B9%B4",
     "timestamp": "2026-02-26T11:55:48.287Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "港股去年交投大增　港交所陳翊庭料今年勢頭持續　續推進上市改革",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260226/1103757621418004480759024.jpeg/KHeF7MdMmB0uR-8OP5IjM9GA286qv2_IgIeDmoCHg5o?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60325463/%E6%B8%AF%E8%82%A1%E5%8E%BB%E5%B9%B4%E4%BA%A4%E6%8A%95%E5%A4%A7%E5%A2%9E-%E6%B8%AF%E4%BA%A4%E6%89%80%E9%99%B3%E7%BF%8A%E5%BA%AD%E6%96%99%E4%BB%8A%E5%B9%B4%E5%8B%A2%E9%A0%AD%E6%8C%81%E7%BA%8C-%E7%BA%8C%E6%8E%A8%E9%80%B2%E4%B8%8A%E5%B8%82%E6%94%B9%E9%9D%A9",
-    "timestamp": "2026-02-26T10:36:20.089Z",
     "strategy": ".content-card__main"
   }
 ];
