@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-27T20:19:22.305Z
+// Last updated: 2026-02-27T20:36:48.534Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "小泉進次郎回應中國出口管制：須強化國防供應鏈　不依賴特定國家",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260228/1104262830695124992475012.jpeg/zb2OfWcIZCm0XZoQpIFGxIM6B61DJ6SRLYgCzS2IAs0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60325881/%E5%B0%8F%E6%B3%89%E9%80%B2%E6%AC%A1%E9%83%8E%E5%9B%9E%E6%87%89%E4%B8%AD%E5%9C%8B%E5%87%BA%E5%8F%A3%E7%AE%A1%E5%88%B6-%E9%A0%88%E5%BC%B7%E5%8C%96%E5%9C%8B%E9%98%B2%E4%BE%9B%E6%87%89%E9%8F%88-%E4%B8%8D%E4%BE%9D%E8%B3%B4%E7%89%B9%E5%AE%9A%E5%9C%8B%E5%AE%B6",
+    "timestamp": "2026-02-27T20:36:48.534Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "小泉進次郎回應中國出口管制：須強化國防供應鏈　不依賴特定國家",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260227/1103862264928145408843607.jpeg/qss2VvFi7BZzfmUPN75KEcDorRf1t6VzE4G-uBOBvrg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60325520/%E7%B4%B0%E9%BE%8D%E5%A4%AA-%E9%99%B3%E6%80%9D%E5%9C%BB%E5%89%B5%E6%A5%AD-%E6%8E%A8%E5%87%BA%E8%87%AA%E5%AE%B6%E8%A1%9B%E7%94%9F%E5%B7%BE-%E5%8C%85%E8%A3%9D%E6%AF%8F%E7%B2%92%E5%AD%97%E9%83%BD%E6%98%AF%E6%88%91%E8%A8%AD%E8%A8%88",
     "timestamp": "2026-02-26T23:17:30.255Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "59歲三級片艷星瘦成紙片人上圍依然澎湃　衣著慘被網民嘲老土",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260226/1103813967442087936521073.jpeg/UwE3V68eYUPOXoZs2JSN8-MpAlm2Z-18ZrazZWa2s2U?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60325326/59%E6%AD%B2%E4%B8%89%E7%B4%9A%E7%89%87%E8%89%B7%E6%98%9F%E7%98%A6%E6%88%90%E7%B4%99%E7%89%87%E4%BA%BA%E4%B8%8A%E5%9C%8D%E4%BE%9D%E7%84%B6%E6%BE%8E%E6%B9%83-%E8%A1%A3%E8%91%97%E6%85%98%E8%A2%AB%E7%B6%B2%E6%B0%91%E5%98%B2%E8%80%81%E5%9C%9F",
-    "timestamp": "2026-02-26T22:50:50.652Z",
     "strategy": ".content-card__main"
   }
 ];
