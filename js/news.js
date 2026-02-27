@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-27T18:21:53.445Z
+// Last updated: 2026-02-27T18:53:20.692Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "意大利米蘭電車出軌2死約40傷　行駛中失控撞入商店櫥窗｜有片",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260228/1104238084876144640018372.jpeg/qQR-TrboOKc9eQoxetlIv9h3qRywA4-n1Py3LtT8ty4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60325878/%E6%84%8F%E5%A4%A7%E5%88%A9%E7%B1%B3%E8%98%AD%E9%9B%BB%E8%BB%8A%E5%87%BA%E8%BB%8C2%E6%AD%BB%E7%B4%8440%E5%82%B7-%E8%A1%8C%E9%A7%9B%E4%B8%AD%E5%A4%B1%E6%8E%A7%E6%92%9E%E5%85%A5%E5%95%86%E5%BA%97%E6%AB%A5%E7%AA%97-%E6%9C%89%E7%89%87",
+    "timestamp": "2026-02-27T18:53:20.692Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "偉華集團黃竹坑甲廈偉華匯10層連地舖8.38億沽　大新金融承接",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260226/1103545655747416064837256.png/-6cgcgaeWwARRVdXC7K6rmNBRHkvYySLDe3hUQ3t4VE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E8%A9%B1%E9%A1%8C/60325128/8%E5%AF%B6%E7%88%B8%E8%A2%AB%E6%8E%A712%E6%AC%A1%E6%80%A7%E4%BE%B513%E6%AD%B2%E7%B9%BC%E5%A5%B3-%E8%A2%AB%E6%8E%A7%E6%8B%92%E8%AA%8D%E4%BA%82%E5%80%AB-%E6%9C%80%E9%AB%98%E5%8F%AF%E5%9B%9Ax%E5%B9%B4%E6%89%93%E8%97%A4x%E4%B8%8B",
     "timestamp": "2026-02-26T22:21:55.419Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "38歲陳庭欣甩「10億闊少」　高調拜狐仙唸108次經文求姻緣",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260226/1103811299231404032102498.jpeg/x--AxWWjjeo_o-Bv5kbD0yjx0WTPOVeqzp5eDM6eXgw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60324596/38%E6%AD%B2%E9%99%B3%E5%BA%AD%E6%AC%A3%E7%94%A9-10%E5%84%84%E9%97%8A%E5%B0%91-%E9%AB%98%E8%AA%BF%E6%8B%9C%E7%8B%90%E4%BB%99%E5%94%B8108%E6%AC%A1%E7%B6%93%E6%96%87%E6%B1%82%E5%A7%BB%E7%B7%A3",
-    "timestamp": "2026-02-26T22:04:53.920Z",
     "strategy": ".content-card__main"
   }
 ];
