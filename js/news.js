@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-27T10:53:06.623Z
+// Last updated: 2026-02-27T11:20:55.922Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "恒地（二）年內推4全新盤1700伙　盈大中環雅盈峰保留高層現樓推",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260227/1104131107743338496317854.jpeg/myyUZCCXaWXuw8Lna-_y1Pz6UzMtAwZ0nGdgJ5xnYCc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60325827/%E6%81%92%E5%9C%B0-%E4%BA%8C-%E5%B9%B4%E5%85%A7%E6%8E%A84%E5%85%A8%E6%96%B0%E7%9B%A41700%E4%BC%99-%E7%9B%88%E5%A4%A7%E4%B8%AD%E7%92%B0%E9%9B%85%E7%9B%88%E5%B3%B0%E4%BF%9D%E7%95%99%E9%AB%98%E5%B1%A4%E7%8F%BE%E6%A8%93%E6%8E%A8",
+    "timestamp": "2026-02-27T11:20:55.922Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "外交部提醒中國公民勿前往伊朗：在當地者加強安全防範　盡快撤離",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260227/1103876154550390784879043.jpeg/h4BtgLL6yBWBDlFJYEvXO-AfhPb30HNEvPvStbz70rU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60325533/%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%9B%9E%E6%87%89%E4%B8%AD%E5%9C%8B%E5%B0%8720%E9%96%93%E6%97%A5%E6%9C%AC%E5%AF%A6%E9%AB%94%E5%88%97%E5%87%BA%E5%8F%A3%E7%AE%A1%E5%88%B6-%E7%A8%B1-%E5%AE%8C%E5%85%A8%E4%B8%8D%E5%8F%AF%E6%8E%A5%E5%8F%97",
     "timestamp": "2026-02-26T18:36:50.098Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "麥當勞亞博館筵開650席答謝員工　CEO黎韋詩感謝長期服務獎同事",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260227/1103856742095130624548391.jpeg/u8EQPVvjzlXmjAlTrGHjtpL1O2MbRyRCnPRB2pz0Qdo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60325524/%E9%BA%A5%E7%95%B6%E5%8B%9E%E4%BA%9E%E5%8D%9A%E9%A4%A8%E7%AD%B5%E9%96%8B650%E5%B8%AD%E7%AD%94%E8%AC%9D%E5%93%A1%E5%B7%A5-ceo%E9%BB%8E%E9%9F%8B%E8%A9%A9%E6%84%9F%E8%AC%9D%E9%95%B7%E6%9C%9F%E6%9C%8D%E5%8B%99%E7%8D%8E%E5%90%8C%E4%BA%8B",
-    "timestamp": "2026-02-26T17:44:06.886Z",
     "strategy": ".content-card__main"
   }
 ];
