@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-27T21:35:23.787Z
+// Last updated: 2026-02-27T21:50:13.573Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "長和旗下PCC回應遭巴拿馬政府突擊搜查　稱無視法治侵佔私人財產",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260228/1104279784021561344308965.jpeg/E7GqFmS5mLcf35BJYlk2vvs6mA-TfpJwK8YwPSvGMD0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60325882/%E9%95%B7%E5%92%8C%E6%97%97%E4%B8%8Bpcc%E5%9B%9E%E6%87%89%E9%81%AD%E5%B7%B4%E6%8B%BF%E9%A6%AC%E6%94%BF%E5%BA%9C%E7%AA%81%E6%93%8A%E6%90%9C%E6%9F%A5-%E7%A8%B1%E7%84%A1%E8%A6%96%E6%B3%95%E6%B2%BB%E4%BE%B5%E4%BD%94%E7%A7%81%E4%BA%BA%E8%B2%A1%E7%94%A2",
+    "timestamp": "2026-02-27T21:50:13.573Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "長和旗下PCC回應遭巴拿馬政府突擊搜查　稱無視法治侵佔私人財產",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260207/1096843048828014592730621.jpeg/S9il4fWVlnON3MS-nsLNjz9j_JR3Zq3PSOBHXUjgR10?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60325549/netflix%E7%9B%A4%E5%BE%8C%E4%B8%80%E5%BA%A6%E6%BC%B2%E8%B6%8512-%E6%94%BE%E6%A3%84%E7%AB%B6%E6%A8%99%E8%8F%AF%E7%B4%8D%E5%85%84%E5%BC%9F",
     "timestamp": "2026-02-27T00:45:36.432Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "俄烏均面臨兵源危機　戰爭能否在2026年結束？",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/689a64c0b5daf5b771c54fd6e8666d83.jpg/1-vwya0OFxqW5ljJdaPR_FupAazVy5vr8qenz_Knp88?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%9C%8B%E9%9A%9B%E5%88%86%E6%9E%90/60325335/%E4%BF%84%E7%83%8F%E5%9D%87%E9%99%B7%E5%85%B5%E6%BA%90%E5%8D%B1%E6%A9%9F-%E6%88%B0%E7%88%AD%E8%83%BD%E5%90%A6%E5%9C%A82026%E5%B9%B4%E7%B5%90%E6%9D%9F",
-    "timestamp": "2026-02-26T23:34:33.536Z",
     "strategy": ".content-card__main"
   }
 ];
