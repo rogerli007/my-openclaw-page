@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-27T11:20:55.922Z
+// Last updated: 2026-02-27T11:48:44.407Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "接受男友和前任當朋友嗎？6個須禁止聯絡EX的理由：容易死灰復燃",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250909/1042127550358228992950143.jpeg/LnEy8xettLcOkDfytESzCQlPko4d-t-ql24xgpduMYI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%AB%87%E6%83%85%E8%AA%AA%E6%80%A7/60265730/%E6%8E%A5%E5%8F%97%E7%94%B7%E5%8F%8B%E5%92%8C%E5%89%8D%E4%BB%BB%E7%95%B6%E6%9C%8B%E5%8F%8B%E5%97%8E-6%E5%80%8B%E9%A0%88%E7%A6%81%E6%AD%A2%E8%81%AF%E7%B5%A1ex%E7%9A%84%E7%90%86%E7%94%B1-%E5%AE%B9%E6%98%93%E6%AD%BB%E7%81%B0%E5%BE%A9%E7%87%83",
+    "timestamp": "2026-02-27T11:48:44.407Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "恒地（二）年內推4全新盤1700伙　盈大中環雅盈峰保留高層現樓推",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260227/1103876154550390784879043.jpeg/h4BtgLL6yBWBDlFJYEvXO-AfhPb30HNEvPvStbz70rU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60325533/%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%9B%9E%E6%87%89%E4%B8%AD%E5%9C%8B%E5%B0%8720%E9%96%93%E6%97%A5%E6%9C%AC%E5%AF%A6%E9%AB%94%E5%88%97%E5%87%BA%E5%8F%A3%E7%AE%A1%E5%88%B6-%E7%A8%B1-%E5%AE%8C%E5%85%A8%E4%B8%8D%E5%8F%AF%E6%8E%A5%E5%8F%97",
     "timestamp": "2026-02-26T19:11:56.089Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "高市早苗回應中國將20間日本實體列出口管制　稱「完全不可接受」",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260227/1103876154550390784879043.jpeg/h4BtgLL6yBWBDlFJYEvXO-AfhPb30HNEvPvStbz70rU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60325533/%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%9B%9E%E6%87%89%E4%B8%AD%E5%9C%8B%E5%B0%8720%E9%96%93%E6%97%A5%E6%9C%AC%E5%AF%A6%E9%AB%94%E5%88%97%E5%87%BA%E5%8F%A3%E7%AE%A1%E5%88%B6-%E7%A8%B1-%E5%AE%8C%E5%85%A8%E4%B8%8D%E5%8F%AF%E6%8E%A5%E5%8F%97",
-    "timestamp": "2026-02-26T18:36:50.098Z",
     "strategy": ".content-card__main"
   }
 ];
