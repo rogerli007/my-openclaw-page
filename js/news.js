@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-27T10:22:07.957Z
+// Last updated: 2026-02-27T10:53:06.623Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "外交部提醒中國公民勿前往伊朗：在當地者加強安全防範　盡快撤離",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260227/1104125953895829504170935.jpeg/1jLAzoQMMEpN-aRvaB45VOuSNLiwlWZzTXjVcU141XE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60325821/%E5%A4%96%E4%BA%A4%E9%83%A8%E6%8F%90%E9%86%92%E4%B8%AD%E5%9C%8B%E5%85%AC%E6%B0%91%E5%8B%BF%E5%89%8D%E5%BE%80%E4%BC%8A%E6%9C%97-%E5%9C%A8%E7%95%B6%E5%9C%B0%E8%80%85%E5%8A%A0%E5%BC%B7%E5%AE%89%E5%85%A8%E9%98%B2%E7%AF%84-%E7%9B%A1%E5%BF%AB%E6%92%A4%E9%9B%A2",
+    "timestamp": "2026-02-27T10:53:06.623Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "郵輪旅遊｜3大長者推介　啟德上船去日本、英國!300呎房+私人露台",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260227/1103856742095130624548391.jpeg/u8EQPVvjzlXmjAlTrGHjtpL1O2MbRyRCnPRB2pz0Qdo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60325524/%E9%BA%A5%E7%95%B6%E5%8B%9E%E4%BA%9E%E5%8D%9A%E9%A4%A8%E7%AD%B5%E9%96%8B650%E5%B8%AD%E7%AD%94%E8%AC%9D%E5%93%A1%E5%B7%A5-ceo%E9%BB%8E%E9%9F%8B%E8%A9%A9%E6%84%9F%E8%AC%9D%E9%95%B7%E6%9C%9F%E6%9C%8D%E5%8B%99%E7%8D%8E%E5%90%8C%E4%BA%8B",
     "timestamp": "2026-02-26T17:44:06.886Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "麥當勞亞博館筵開650席答謝員工　姜濤Dear Jane林峯表演同賀馬年",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260227/1103856742095130624548391.jpeg/u8EQPVvjzlXmjAlTrGHjtpL1O2MbRyRCnPRB2pz0Qdo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60325524/%E9%BA%A5%E7%95%B6%E5%8B%9E%E4%BA%9E%E5%8D%9A%E9%A4%A8%E7%AD%B5%E9%96%8B650%E5%B8%AD%E7%AD%94%E8%AC%9D%E5%93%A1%E5%B7%A5-%E5%A7%9C%E6%BF%A4dear-jane%E6%9E%97%E5%B3%AF%E8%A1%A8%E6%BC%94%E5%90%8C%E8%B3%80%E9%A6%AC%E5%B9%B4",
-    "timestamp": "2026-02-26T17:16:20.326Z",
     "strategy": ".content-card__main"
   }
 ];
