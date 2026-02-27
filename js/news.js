@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-27T17:51:08.205Z
+// Last updated: 2026-02-27T18:21:53.445Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "偉華集團黃竹坑甲廈偉華匯10層連地舖8.38億沽　大新金融承接",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20240411/855166060469424128130627.jpeg/5DtgqpV3-urmvQ26xgZKizj_CKyUefCnth1KYLYdSmA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60325876/%E5%81%89%E8%8F%AF%E9%9B%86%E5%9C%98%E9%BB%83%E7%AB%B9%E5%9D%91%E7%94%B2%E5%BB%88%E5%81%89%E8%8F%AF%E5%8C%AF10%E5%B1%A4%E9%80%A3%E5%9C%B0%E8%88%968-38%E5%84%84%E6%B2%BD-%E5%A4%A7%E6%96%B0%E9%87%91%E8%9E%8D%E6%89%BF%E6%8E%A5",
+    "timestamp": "2026-02-27T18:21:53.445Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "偉華集團黃竹坑甲廈偉華匯10層連地舖8.38億沽　大新金融承接",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260226/1103811299231404032102498.jpeg/x--AxWWjjeo_o-Bv5kbD0yjx0WTPOVeqzp5eDM6eXgw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60324596/38%E6%AD%B2%E9%99%B3%E5%BA%AD%E6%AC%A3%E7%94%A9-10%E5%84%84%E9%97%8A%E5%B0%91-%E9%AB%98%E8%AA%BF%E6%8B%9C%E7%8B%90%E4%BB%99%E5%94%B8108%E6%AC%A1%E7%B6%93%E6%96%87%E6%B1%82%E5%A7%BB%E7%B7%A3",
     "timestamp": "2026-02-26T22:04:53.920Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美國分別與俄烏在瑞士會面　澤連斯基：料3月初再舉行三方會談",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260227/1103920112487895040297361.jpeg/4LR5C7gvLd2GHqNUUsTWXRV3TBu73PJiJtxreCbca3g?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60325539/%E7%BE%8E%E5%9C%8B%E5%88%86%E5%88%A5%E8%88%87%E4%BF%84%E7%83%8F%E5%9C%A8%E7%91%9E%E5%A3%AB%E6%9C%83%E9%9D%A2-%E6%BE%A4%E9%80%A3%E6%96%AF%E5%9F%BA-%E6%96%993%E6%9C%88%E5%88%9D%E5%86%8D%E8%88%89%E8%A1%8C%E4%B8%89%E6%96%B9%E6%9C%83%E8%AB%87",
-    "timestamp": "2026-02-26T21:51:46.646Z",
     "strategy": ".content-card__main"
   }
 ];
