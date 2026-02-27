@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-27T02:06:25.716Z
+// Last updated: 2026-02-27T04:07:06.449Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "adidas推出全新「Vibes」香水系列 6種香氣應付各種生活日常",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260226/1103641181721464832849621.png/BFAXt1fPwYiRySvmbgx197u4b6Q3ve1RsK1MX7CtTF8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E4%B8%80%E7%89%A9/60324894/adidas%E6%8E%A8%E5%87%BA%E5%85%A8%E6%96%B0-vibes-%E9%A6%99%E6%B0%B4%E7%B3%BB%E5%88%97-6%E7%A8%AE%E9%A6%99%E6%B0%A3%E6%87%89%E4%BB%98%E5%90%84%E7%A8%AE%E7%94%9F%E6%B4%BB%E6%97%A5%E5%B8%B8",
+    "timestamp": "2026-02-27T04:07:06.449Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "腰痛反覆發作　中醫教日常保養建議和治療方法　避免身體過度負荷",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260226/1103747251739561984638410.jpeg/2zy6b2WuR7BMmfAfiXQw2LxlN0aNWzwN4X3XiuF914o?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60325512/%E5%A4%A9%E6%B0%A3%E9%81%8E%E5%B1%B1%E8%BB%8A-%E4%B8%8B%E5%91%A8%E5%88%9D%E6%9C%80%E9%AB%9826%E5%BA%A6-%E5%85%83%E5%AE%B5%E5%BE%8C%E9%99%8D%E6%BA%AB-%E9%A9%9A%E8%9F%84%E6%89%93%E5%B0%8F%E4%BA%BA%E5%BE%8C%E4%BD%8E%E8%A6%8B17%E5%BA%A6",
     "timestamp": "2026-02-26T15:39:48.327Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "德國總理默茨總結2天訪華行程：合作良好同時存在棘手問題",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260226/1103808523772366848198073.jpeg/olO1hNKqcrJq8UqQUXaecyF0sXZlcq4SMW-e9DFvnvQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60325500/%E5%BE%B7%E5%9C%8B%E7%B8%BD%E7%90%86%E9%BB%98%E8%8C%A8%E7%B8%BD%E7%B5%902%E5%A4%A9%E8%A8%AA%E8%8F%AF%E8%A1%8C%E7%A8%8B-%E5%90%88%E4%BD%9C%E8%89%AF%E5%A5%BD%E5%90%8C%E6%99%82%E5%AD%98%E5%9C%A8%E6%A3%98%E6%89%8B%E5%95%8F%E9%A1%8C",
-    "timestamp": "2026-02-26T15:09:31.745Z",
     "strategy": ".content-card__main"
   }
 ];
