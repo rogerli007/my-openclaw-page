@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-26T23:34:33.536Z
+// Last updated: 2026-02-27T00:45:36.432Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "Netflix盤後一度漲超12%　放棄競標華納兄弟",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260207/1096843048828014592730621.jpeg/S9il4fWVlnON3MS-nsLNjz9j_JR3Zq3PSOBHXUjgR10?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60325549/netflix%E7%9B%A4%E5%BE%8C%E4%B8%80%E5%BA%A6%E6%BC%B2%E8%B6%8512-%E6%94%BE%E6%A3%84%E7%AB%B6%E6%A8%99%E8%8F%AF%E7%B4%8D%E5%85%84%E5%BC%9F",
+    "timestamp": "2026-02-27T00:45:36.432Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "俄烏均面臨兵源危機　戰爭能否在2026年結束？",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260226/1103706922701295616519680.png/vOjnZGN6jX6KohmT6Ra2HIKohavwyCBAvYbOmr2Gzpo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60325263/%E7%BE%8E%E4%B8%89%E5%AD%A9%E6%AF%8D%E8%B2%B7%E8%81%96%E8%AA%95%E7%A6%AE%E7%89%A9%E5%A4%B1%E8%B9%A4%E9%80%BE%E4%BA%8C%E5%8D%81%E5%B9%B4-%E5%B0%8B%E5%9B%9E%E9%A9%9A%E6%8F%AD%E6%8B%8B%E5%AE%B6%E6%A3%84%E5%AD%90%E7%95%B0%E5%9C%B0%E5%B1%95%E6%96%B0%E7%94%9F%E6%B4%BB",
     "timestamp": "2026-02-26T14:40:26.023Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "WTT新加坡大滿貫直擊｜林昀儒挫向鵬　沉默殺手與小林同學都是他",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260226/1103815192879304704798014.jpeg/lr5ulZrZ130-nhjdLoyuFDKzJxoHKrFZloRdeZaEXXk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60325492/wtt%E6%96%B0%E5%8A%A0%E5%9D%A1%E5%A4%A7%E6%BB%BF%E8%B2%AB%E7%9B%B4%E6%93%8A-%E6%9E%97%E6%98%80%E5%84%92%E6%8C%AB%E5%90%91%E9%B5%AC-%E6%B2%89%E9%BB%98%E6%AE%BA%E6%89%8B%E8%88%87%E5%B0%8F%E6%9E%97%E5%90%8C%E5%AD%B8%E9%83%BD%E6%98%AF%E4%BB%96",
-    "timestamp": "2026-02-26T14:15:44.040Z",
     "strategy": ".content-card__main"
   }
 ];
