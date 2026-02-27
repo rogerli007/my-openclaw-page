@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-27T23:01:04.040Z
+// Last updated: 2026-02-27T23:31:42.227Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "丈夫出軌！元配於小三車裝土製炸彈暗殺　聘2男遙控引爆1原因事敗",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260228/1104293427324915712463725.png/aHNJWFY37EjYUkflLEFmi1GRQqKzX2RXoiiaXqIoml4",
+    "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E8%A9%B1%E9%A1%8C/60325619/%E4%B8%88%E5%A4%AB%E5%87%BA%E8%BB%8C-%E5%85%83%E9%85%8D%E6%96%BC%E5%B0%8F%E4%B8%89%E8%BB%8A%E8%A3%9D%E5%9C%9F%E8%A3%BD%E7%82%B8%E5%BD%88%E6%9A%97%E6%AE%BA-%E8%81%982%E7%94%B7%E9%81%99%E6%8E%A7%E5%BC%95%E7%88%861%E5%8E%9F%E5%9B%A0%E4%BA%8B%E6%95%97",
+    "timestamp": "2026-02-27T23:31:42.227Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "克林頓：對愛潑斯坦性犯罪不知情　並未與按摩池女子發生性關係",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260227/1104034244218327040921406.jpeg/abj4wkGytba86uakrmMly_aJmp08vj9gwnbOi8J2zos?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60325648/%E6%97%A5%E6%9C%AC%E6%88%90%E7%94%B0%E6%A9%9F%E5%A0%B4%E7%89%B9%E5%BF%AB%E7%8F%BE-%E8%BB%8A%E5%BB%82%E8%80%81%E9%BC%A0-1%E4%B8%AD%E5%9C%8B%E4%BA%BA%E8%A2%AB%E6%8D%95-%E8%AD%A6-%E6%88%96%E6%9C%89%E5%89%8D%E7%A7%91",
     "timestamp": "2026-02-27T04:57:52.911Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "adidas推出全新「Vibes」香水系列 6種香氣應付各種生活日常",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260226/1103641181721464832849621.png/BFAXt1fPwYiRySvmbgx197u4b6Q3ve1RsK1MX7CtTF8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E4%B8%80%E7%89%A9/60324894/adidas%E6%8E%A8%E5%87%BA%E5%85%A8%E6%96%B0-vibes-%E9%A6%99%E6%B0%B4%E7%B3%BB%E5%88%97-6%E7%A8%AE%E9%A6%99%E6%B0%A3%E6%87%89%E4%BB%98%E5%90%84%E7%A8%AE%E7%94%9F%E6%B4%BB%E6%97%A5%E5%B8%B8",
-    "timestamp": "2026-02-27T04:07:06.449Z",
     "strategy": ".content-card__main"
   }
 ];
