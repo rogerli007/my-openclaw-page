@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-27T11:48:44.407Z
+// Last updated: 2026-02-27T12:55:00.146Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "昂坪360資料外泄遭勒索已報警　涉年票賓客、供應商及租戶等資料",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260210/1097931643064553472705261.jpeg/VS8V4TMf663ZlUXsrTniCAkDZSca_HWxAFHdCwBR3Qs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60325850/%E6%98%82%E5%9D%AA360%E8%B3%87%E6%96%99%E5%A4%96%E6%B3%84%E9%81%AD%E5%8B%92%E7%B4%A2%E5%B7%B2%E5%A0%B1%E8%AD%A6-%E6%B6%89%E5%B9%B4%E7%A5%A8%E8%B3%93%E5%AE%A2-%E4%BE%9B%E6%87%89%E5%95%86%E5%8F%8A%E7%A7%9F%E6%88%B6%E7%AD%89%E8%B3%87%E6%96%99",
+    "timestamp": "2026-02-27T12:55:00.146Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "接受男友和前任當朋友嗎？6個須禁止聯絡EX的理由：容易死灰復燃",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260227/1103891550494003200718354.png/tlvbLgr59h-efrpNbrmKgs3nstwK_rYdNa89xDWvPcQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60325534/%E4%BF%84%E7%BE%85%E6%96%AF%E7%A8%B1%E5%90%91%E7%83%8F%E5%85%8B%E8%98%AD%E7%A7%BB%E4%BA%A41000%E5%A3%AB%E5%85%B5%E9%81%BA%E9%AB%94-%E7%BE%8E%E7%83%8F26%E6%97%A5%E7%91%9E%E5%A3%AB%E8%88%89%E8%A1%8C%E6%9C%83%E8%AB%87",
     "timestamp": "2026-02-26T19:37:42.626Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "高市早苗回應中國將20間日本實體列出口管制　稱「完全不可接受」",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260227/1103876154550390784879043.jpeg/h4BtgLL6yBWBDlFJYEvXO-AfhPb30HNEvPvStbz70rU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60325533/%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%9B%9E%E6%87%89%E4%B8%AD%E5%9C%8B%E5%B0%8720%E9%96%93%E6%97%A5%E6%9C%AC%E5%AF%A6%E9%AB%94%E5%88%97%E5%87%BA%E5%8F%A3%E7%AE%A1%E5%88%B6-%E7%A8%B1-%E5%AE%8C%E5%85%A8%E4%B8%8D%E5%8F%AF%E6%8E%A5%E5%8F%97",
-    "timestamp": "2026-02-26T19:11:56.089Z",
     "strategy": ".content-card__main"
   }
 ];
