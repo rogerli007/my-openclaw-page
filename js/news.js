@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-27T04:07:06.449Z
+// Last updated: 2026-02-27T04:57:52.911Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "日本成田機場特快現「車廂老鼠」　1中國人被捕　警：或有前科",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260227/1104034244218327040921406.jpeg/abj4wkGytba86uakrmMly_aJmp08vj9gwnbOi8J2zos?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60325648/%E6%97%A5%E6%9C%AC%E6%88%90%E7%94%B0%E6%A9%9F%E5%A0%B4%E7%89%B9%E5%BF%AB%E7%8F%BE-%E8%BB%8A%E5%BB%82%E8%80%81%E9%BC%A0-1%E4%B8%AD%E5%9C%8B%E4%BA%BA%E8%A2%AB%E6%8D%95-%E8%AD%A6-%E6%88%96%E6%9C%89%E5%89%8D%E7%A7%91",
+    "timestamp": "2026-02-27T04:57:52.911Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "adidas推出全新「Vibes」香水系列 6種香氣應付各種生活日常",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260226/1103841771575578624015894.jpeg/GoyXpMGYKbkkuOtBMfP7Bm0M-3Zxs_Qai5xMWoucTFo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60325515/wtt%E6%96%B0%E5%8A%A0%E5%9D%A1%E5%A4%A7%E6%BB%BF%E8%B2%AB-%E9%BB%83%E9%8E%AE%E5%BB%B7%E6%9D%9C%E5%87%B1%E7%90%B9%E7%84%A1%E7%B7%A3%E6%B1%BA%E8%B3%BD-1-3%E4%B8%8D%E6%95%B5%E5%B7%B4%E8%A5%BF%E7%B5%84%E5%90%88",
     "timestamp": "2026-02-26T16:10:35.841Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "天氣過山車｜下周初最高26度　元宵後降溫　驚蟄打小人後低見17度",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260226/1103747251739561984638410.jpeg/2zy6b2WuR7BMmfAfiXQw2LxlN0aNWzwN4X3XiuF914o?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60325512/%E5%A4%A9%E6%B0%A3%E9%81%8E%E5%B1%B1%E8%BB%8A-%E4%B8%8B%E5%91%A8%E5%88%9D%E6%9C%80%E9%AB%9826%E5%BA%A6-%E5%85%83%E5%AE%B5%E5%BE%8C%E9%99%8D%E6%BA%AB-%E9%A9%9A%E8%9F%84%E6%89%93%E5%B0%8F%E4%BA%BA%E5%BE%8C%E4%BD%8E%E8%A6%8B17%E5%BA%A6",
-    "timestamp": "2026-02-26T15:39:48.327Z",
     "strategy": ".content-card__main"
   }
 ];
