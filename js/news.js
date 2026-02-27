@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-27T14:52:24.429Z
+// Last updated: 2026-02-27T15:29:37.306Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "東張女神新照避「騷胸」曬修長美腿　疑被公司照肺後低調回歸",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260227/1104074699702276096472301.jpeg/z3mUBCD_ANFYls6q7adnjaqJ8He2twoK8fATG_HwExs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60325717/%E6%9D%B1%E5%BC%B5%E5%A5%B3%E7%A5%9E%E6%96%B0%E7%85%A7%E9%81%BF-%E9%A8%B7%E8%83%B8-%E6%9B%AC%E4%BF%AE%E9%95%B7%E7%BE%8E%E8%85%BF-%E7%96%91%E8%A2%AB%E5%85%AC%E5%8F%B8%E7%85%A7%E8%82%BA%E5%BE%8C%E4%BD%8E%E8%AA%BF%E5%9B%9E%E6%AD%B8",
+    "timestamp": "2026-02-27T15:29:37.306Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "夜王︱周芷慧洩片場女橫遍野奇景　葵芳吞卜畫面曝光打坐瞓到入定",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260227/1103914624710873088245138.jpeg/rQBoPqh526nAEGJ5usu_A-0Ec3NWbf3BF4-PbS2Pj20",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60325537/6%E6%83%A1%E7%85%9E%E6%8C%81%E6%A3%8D%E9%97%96%E5%85%83%E6%9C%97%E9%85%92%E5%90%A7-%E5%88%AE%E5%8F%8B-%E7%96%91%E6%9C%AA%E7%99%BC%E7%8F%BE%E7%9B%AE%E6%A8%991%E5%88%86%E9%90%98%E5%85%A7%E9%9B%A2%E9%96%8B-%E6%9C%89%E7%89%87",
     "timestamp": "2026-02-26T21:24:14.285Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "俄羅斯稱向烏克蘭移交1000士兵遺體　美代表26日分別與俄烏會談",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260227/1103891550494003200718354.png/tlvbLgr59h-efrpNbrmKgs3nstwK_rYdNa89xDWvPcQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60325534/%E4%BF%84%E7%BE%85%E6%96%AF%E7%A8%B1%E5%90%91%E7%83%8F%E5%85%8B%E8%98%AD%E7%A7%BB%E4%BA%A41000%E5%A3%AB%E5%85%B5%E9%81%BA%E9%AB%94-%E7%BE%8E%E4%BB%A3%E8%A1%A826%E6%97%A5%E5%88%86%E5%88%A5%E8%88%87%E4%BF%84%E7%83%8F%E6%9C%83%E8%AB%87",
-    "timestamp": "2026-02-26T20:23:47.588Z",
     "strategy": ".content-card__main"
   }
 ];
