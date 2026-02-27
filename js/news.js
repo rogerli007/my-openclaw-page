@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-27T12:55:00.146Z
+// Last updated: 2026-02-27T14:02:28.908Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "中國央行出手　人民幣大漲是喜是憂？｜點經",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260227/1104171734967259136365904.jpeg/0MDjSTFKwzvUf6bQMRf_WLYoiBbIF9OusDqsZLA6rGQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E4%B8%AD%E5%9C%8B%E8%A7%80%E5%AF%9F/60325860/%E4%B8%AD%E5%9C%8B%E5%A4%AE%E8%A1%8C%E5%87%BA%E6%89%8B-%E4%BA%BA%E6%B0%91%E5%B9%A3%E5%A4%A7%E6%BC%B2%E6%98%AF%E5%96%9C%E6%98%AF%E6%86%82-%E9%BB%9E%E7%B6%93",
+    "timestamp": "2026-02-27T14:02:28.908Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "昂坪360資料外泄遭勒索已報警　涉年票賓客、供應商及租戶等資料",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260227/1103891550494003200718354.png/tlvbLgr59h-efrpNbrmKgs3nstwK_rYdNa89xDWvPcQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60325534/%E4%BF%84%E7%BE%85%E6%96%AF%E7%A8%B1%E5%90%91%E7%83%8F%E5%85%8B%E8%98%AD%E7%A7%BB%E4%BA%A41000%E5%A3%AB%E5%85%B5%E9%81%BA%E9%AB%94-%E7%BE%8E%E4%BB%A3%E8%A1%A826%E6%97%A5%E5%88%86%E5%88%A5%E8%88%87%E4%BF%84%E7%83%8F%E6%9C%83%E8%AB%87",
     "timestamp": "2026-02-26T20:03:21.288Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "俄羅斯稱向烏克蘭移交1000士兵遺體　美烏26日瑞士舉行會談",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260227/1103891550494003200718354.png/tlvbLgr59h-efrpNbrmKgs3nstwK_rYdNa89xDWvPcQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60325534/%E4%BF%84%E7%BE%85%E6%96%AF%E7%A8%B1%E5%90%91%E7%83%8F%E5%85%8B%E8%98%AD%E7%A7%BB%E4%BA%A41000%E5%A3%AB%E5%85%B5%E9%81%BA%E9%AB%94-%E7%BE%8E%E7%83%8F26%E6%97%A5%E7%91%9E%E5%A3%AB%E8%88%89%E8%A1%8C%E6%9C%83%E8%AB%87",
-    "timestamp": "2026-02-26T19:37:42.626Z",
     "strategy": ".content-card__main"
   }
 ];
