@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-27T23:46:07.182Z
+// Last updated: 2026-02-27T23:58:02.039Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "陳健波、車品覺再獲委任為港交所董事會成員　陳錦榮新入局",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20210329/453265573803986944241865.jpeg/OeZcMXjhnKbQdImoX3fiD7196YDi7lxr25JiiduSYok?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60325884/%E9%99%B3%E5%81%A5%E6%B3%A2-%E8%BB%8A%E5%93%81%E8%A6%BA%E5%86%8D%E7%8D%B2%E5%A7%94%E4%BB%BB%E7%82%BA%E6%B8%AF%E4%BA%A4%E6%89%80%E8%91%A3%E4%BA%8B%E6%9C%83%E6%88%90%E5%93%A1-%E9%99%B3%E9%8C%A6%E6%A6%AE%E6%96%B0%E5%85%A5%E5%B1%80",
+    "timestamp": "2026-02-27T23:58:02.039Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "陳健波、車品覺再獲委任為港交所董事會成員　陳錦榮新入局",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260225/1103402559168581632430125.jpeg/yTP4b9U230cLabwMdASR-tLlRGQjcrWBE095nRNPeZ0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%97%85%E9%81%8A/60324635/%E9%83%B5%E8%BC%AA%E6%97%85%E9%81%8A-3%E5%A4%A7%E9%95%B7%E8%80%85%E6%8E%A8%E4%BB%8B-%E5%95%9F%E5%BE%B7%E4%B8%8A%E8%88%B9%E5%8E%BB%E6%97%A5%E6%9C%AC-%E8%8B%B1%E5%9C%8B-300%E5%91%8E%E6%88%BF-%E7%A7%81%E4%BA%BA%E9%9C%B2%E5%8F%B0",
     "timestamp": "2026-02-27T10:22:07.957Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "2025錄逾萬宗網購騙案　涉演唱會飛激增　最大一宗涉虛幣呃$370萬",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260227/1104074800747253760958710.jpeg/Dq2e3EvWpP7u9LlOQvIylBMa8kjSDQDNvc-a7b3Pmu0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60325708/2025%E9%8C%84%E9%80%BE%E8%90%AC%E5%AE%97%E7%B6%B2%E8%B3%BC%E9%A8%99%E6%A1%88-%E6%B6%89%E6%BC%94%E5%94%B1%E6%9C%83%E9%A3%9B%E6%BF%80%E5%A2%9E-%E6%9C%80%E5%A4%A7%E4%B8%80%E5%AE%97%E6%B6%89%E8%99%9B%E5%B9%A3%E5%91%83-370%E8%90%AC",
-    "timestamp": "2026-02-27T07:32:11.970Z",
     "strategy": ".content-card__main"
   }
 ];
