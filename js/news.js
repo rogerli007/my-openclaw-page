@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-27T04:57:52.911Z
+// Last updated: 2026-02-27T07:32:11.970Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "2025錄逾萬宗網購騙案　涉演唱會飛激增　最大一宗涉虛幣呃$370萬",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260227/1104074800747253760958710.jpeg/Dq2e3EvWpP7u9LlOQvIylBMa8kjSDQDNvc-a7b3Pmu0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60325708/2025%E9%8C%84%E9%80%BE%E8%90%AC%E5%AE%97%E7%B6%B2%E8%B3%BC%E9%A8%99%E6%A1%88-%E6%B6%89%E6%BC%94%E5%94%B1%E6%9C%83%E9%A3%9B%E6%BF%80%E5%A2%9E-%E6%9C%80%E5%A4%A7%E4%B8%80%E5%AE%97%E6%B6%89%E8%99%9B%E5%B9%A3%E5%91%83-370%E8%90%AC",
+    "timestamp": "2026-02-27T07:32:11.970Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "日本成田機場特快現「車廂老鼠」　1中國人被捕　警：或有前科",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20240922/914574101543129088169482.jpeg/EgJzxLn9mNxRA-hPQmIcEk8y9YdyCuFEGvB6-xrwevs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60325519/%E8%8B%B1%E5%9C%8B%E5%B0%BC%E7%89%B9%E6%97%8F%E5%95%8F%E9%A1%8C%E5%9A%B4%E5%B3%BB-2025%E5%B9%B4%E8%BF%91100%E8%90%AC%E9%9D%92%E5%B9%B4%E5%A4%B1%E5%AD%B8%E5%A4%B1%E6%A5%AD%E6%B2%92%E9%80%B2%E4%BF%AE",
     "timestamp": "2026-02-26T16:41:06.105Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "WTT新加坡大滿貫｜黃鎮廷杜凱琹無緣決賽　1：3不敵巴西組合",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260226/1103841771575578624015894.jpeg/GoyXpMGYKbkkuOtBMfP7Bm0M-3Zxs_Qai5xMWoucTFo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60325515/wtt%E6%96%B0%E5%8A%A0%E5%9D%A1%E5%A4%A7%E6%BB%BF%E8%B2%AB-%E9%BB%83%E9%8E%AE%E5%BB%B7%E6%9D%9C%E5%87%B1%E7%90%B9%E7%84%A1%E7%B7%A3%E6%B1%BA%E8%B3%BD-1-3%E4%B8%8D%E6%95%B5%E5%B7%B4%E8%A5%BF%E7%B5%84%E5%90%88",
-    "timestamp": "2026-02-26T16:10:35.841Z",
     "strategy": ".content-card__main"
   }
 ];
