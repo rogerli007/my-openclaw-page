@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-27T15:29:37.306Z
+// Last updated: 2026-02-27T17:51:08.205Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "偉華集團黃竹坑甲廈偉華匯10層連地舖8.38億沽　大新金融承接",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20240411/855166060469424128130627.jpeg/5DtgqpV3-urmvQ26xgZKizj_CKyUefCnth1KYLYdSmA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60325876/%E5%81%89%E8%8F%AF%E9%9B%86%E5%9C%98%E9%BB%83%E7%AB%B9%E5%9D%91%E7%94%B2%E5%BB%88%E5%81%89%E8%8F%AF%E5%8C%AF10%E5%B1%A4%E9%80%A3%E5%9C%B0%E8%88%968-38%E5%84%84%E6%B2%BD-%E5%A4%A7%E6%96%B0%E9%87%91%E8%9E%8D%E6%89%BF%E6%8E%A5",
+    "timestamp": "2026-02-27T17:51:08.205Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "東張女神新照避「騷胸」曬修長美腿　疑被公司照肺後低調回歸",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260227/1103920112487895040297361.jpeg/4LR5C7gvLd2GHqNUUsTWXRV3TBu73PJiJtxreCbca3g?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60325539/%E7%BE%8E%E5%9C%8B%E5%88%86%E5%88%A5%E8%88%87%E4%BF%84%E7%83%8F%E5%9C%A8%E7%91%9E%E5%A3%AB%E6%9C%83%E9%9D%A2-%E6%BE%A4%E9%80%A3%E6%96%AF%E5%9F%BA-%E6%96%993%E6%9C%88%E5%88%9D%E5%86%8D%E8%88%89%E8%A1%8C%E4%B8%89%E6%96%B9%E6%9C%83%E8%AB%87",
     "timestamp": "2026-02-26T21:51:46.646Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "6惡煞持棍闖元朗酒吧「刮友」　疑未發現目標1分鐘內離開｜有片",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260227/1103914624710873088245138.jpeg/rQBoPqh526nAEGJ5usu_A-0Ec3NWbf3BF4-PbS2Pj20",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60325537/6%E6%83%A1%E7%85%9E%E6%8C%81%E6%A3%8D%E9%97%96%E5%85%83%E6%9C%97%E9%85%92%E5%90%A7-%E5%88%AE%E5%8F%8B-%E7%96%91%E6%9C%AA%E7%99%BC%E7%8F%BE%E7%9B%AE%E6%A8%991%E5%88%86%E9%90%98%E5%85%A7%E9%9B%A2%E9%96%8B-%E6%9C%89%E7%89%87",
-    "timestamp": "2026-02-26T21:24:14.285Z",
     "strategy": ".content-card__main"
   }
 ];
