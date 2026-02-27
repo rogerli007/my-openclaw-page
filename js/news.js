@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-27T22:01:31.599Z
+// Last updated: 2026-02-27T23:01:04.040Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "克林頓：對愛潑斯坦性犯罪不知情　並未與按摩池女子發生性關係",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260228/1104303395948204032857029.jpeg/YB9yL352xBPBrRKRaMvdPkEEs68fv0B5QRh8OkEYfDo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60325887/%E5%85%8B%E6%9E%97%E9%A0%93-%E5%B0%8D%E6%84%9B%E6%BD%91%E6%96%AF%E5%9D%A6%E6%80%A7%E7%8A%AF%E7%BD%AA%E4%B8%8D%E7%9F%A5%E6%83%85-%E4%B8%A6%E6%9C%AA%E8%88%87%E6%8C%89%E6%91%A9%E6%B1%A0%E5%A5%B3%E5%AD%90%E7%99%BC%E7%94%9F%E6%80%A7%E9%97%9C%E4%BF%82",
+    "timestamp": "2026-02-27T23:01:04.040Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "特朗普指Anthropic是激進左翼　下令所有聯邦機構立即停用其產品",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260226/1103641181721464832849621.png/BFAXt1fPwYiRySvmbgx197u4b6Q3ve1RsK1MX7CtTF8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E4%B8%80%E7%89%A9/60324894/adidas%E6%8E%A8%E5%87%BA%E5%85%A8%E6%96%B0-vibes-%E9%A6%99%E6%B0%B4%E7%B3%BB%E5%88%97-6%E7%A8%AE%E9%A6%99%E6%B0%A3%E6%87%89%E4%BB%98%E5%90%84%E7%A8%AE%E7%94%9F%E6%B4%BB%E6%97%A5%E5%B8%B8",
     "timestamp": "2026-02-27T04:07:06.449Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "腰痛反覆發作　中醫教日常保養建議和治療方法　避免身體過度負荷",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260212/1098641756657815552184792.jpeg/lazzX0Pa2HsYhMmT-H1BpAmW6eXXJI-j0z3249M99uM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%86%AB%E5%B8%ABEasy/60317459/%E8%85%B0%E7%97%9B%E5%8F%8D%E8%A6%86%E7%99%BC%E4%BD%9C-%E4%B8%AD%E9%86%AB%E6%95%99%E6%97%A5%E5%B8%B8%E4%BF%9D%E9%A4%8A%E5%BB%BA%E8%AD%B0%E5%92%8C%E6%B2%BB%E7%99%82%E6%96%B9%E6%B3%95-%E9%81%BF%E5%85%8D%E8%BA%AB%E9%AB%94%E9%81%8E%E5%BA%A6%E8%B2%A0%E8%8D%B7",
-    "timestamp": "2026-02-27T02:06:25.716Z",
     "strategy": ".content-card__main"
   }
 ];
