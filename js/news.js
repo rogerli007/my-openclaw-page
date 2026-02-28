@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-28T04:20:00.696Z
+// Last updated: 2026-02-28T04:48:14.965Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "湖南男子網吧打機遭「硬騎」　陌生女突闖包廂自行脫褲緊抱不放手",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260228/1104353575556878336094127.jpeg/rbX904hijrqv3RAruNI9wfY89MuHGMqirjnyTK458kw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60325897/%E6%B9%96%E5%8D%97%E7%94%B7%E5%AD%90%E7%B6%B2%E5%90%A7%E6%89%93%E6%A9%9F%E9%81%AD-%E7%A1%AC%E9%A8%8E-%E9%99%8C%E7%94%9F%E5%A5%B3%E7%AA%81%E9%97%96%E5%8C%85%E5%BB%82%E8%87%AA%E8%A1%8C%E8%84%AB%E8%A4%B2%E7%B7%8A%E6%8A%B1%E4%B8%8D%E6%94%BE%E6%89%8B",
+    "timestamp": "2026-02-28T04:48:14.965Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "港鐵九龍塘站兩長者扶手梯上跌倒　港鐵職員協助",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260227/1104133806262063104640759.jpeg/Ehuz-AkAYfh-tQVyp7xWyd-yby-sBsNykh7AcJIewHA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60325809/%E5%A4%9C%E7%8E%8B-%E5%91%A8%E8%8A%B7%E6%85%A7%E6%B4%A9%E7%89%87%E5%A0%B4%E5%A5%B3%E6%A9%AB%E9%81%8D%E9%87%8E%E5%A5%87%E6%99%AF-%E8%91%B5%E8%8A%B3%E5%90%9E%E5%8D%9C%E7%95%AB%E9%9D%A2%E6%9B%9D%E5%85%89%E6%89%93%E5%9D%90%E7%9E%93%E5%88%B0%E5%85%A5%E5%AE%9A",
     "timestamp": "2026-02-27T14:52:24.429Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "中國央行出手　人民幣大漲是喜是憂？｜點經",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260227/1104171734967259136365904.jpeg/0MDjSTFKwzvUf6bQMRf_WLYoiBbIF9OusDqsZLA6rGQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E4%B8%AD%E5%9C%8B%E8%A7%80%E5%AF%9F/60325860/%E4%B8%AD%E5%9C%8B%E5%A4%AE%E8%A1%8C%E5%87%BA%E6%89%8B-%E4%BA%BA%E6%B0%91%E5%B9%A3%E5%A4%A7%E6%BC%B2%E6%98%AF%E5%96%9C%E6%98%AF%E6%86%82-%E9%BB%9E%E7%B6%93",
-    "timestamp": "2026-02-27T14:02:28.908Z",
     "strategy": ".content-card__main"
   }
 ];
