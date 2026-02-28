@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-28T10:01:30.159Z
+// Last updated: 2026-02-28T10:13:31.968Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "父母車禍亡！美14歲兄虛報年齡打工養妹　受審感人片瘋傳真相超狂",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260228/1104473981789933568481237.png/l-hzjkIPY43BgutS0uNWrxL_I_Chth4afN84zXzfOM0",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60325893/%E7%88%B6%E6%AF%8D%E8%BB%8A%E7%A6%8D%E4%BA%A1-%E7%BE%8E14%E6%AD%B2%E5%85%84%E8%99%9B%E5%A0%B1%E5%B9%B4%E9%BD%A1%E6%89%93%E5%B7%A5%E9%A4%8A%E5%A6%B9-%E5%8F%97%E5%AF%A9%E6%84%9F%E4%BA%BA%E7%89%87%E7%98%8B%E5%82%B3%E7%9C%9F%E7%9B%B8%E8%B6%85%E7%8B%82",
+    "timestamp": "2026-02-28T10:13:31.968Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "阿富汗：擊落一巴基斯坦戰機　飛行員被俘",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260228/1104293427324915712463725.png/aHNJWFY37EjYUkflLEFmi1GRQqKzX2RXoiiaXqIoml4",
     "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E8%A9%B1%E9%A1%8C/60325619/%E4%B8%88%E5%A4%AB%E5%87%BA%E8%BB%8C-%E5%85%83%E9%85%8D%E6%96%BC%E5%B0%8F%E4%B8%89%E8%BB%8A%E8%A3%9D%E5%9C%9F%E8%A3%BD%E7%82%B8%E5%BD%88%E6%9A%97%E6%AE%BA-%E8%81%982%E7%94%B7%E9%81%99%E6%8E%A7%E5%BC%95%E7%88%861%E5%8E%9F%E5%9B%A0%E4%BA%8B%E6%95%97",
     "timestamp": "2026-02-27T23:31:42.227Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "克林頓：對愛潑斯坦性犯罪不知情　並未與按摩池女子發生性關係",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260228/1104303395948204032857029.jpeg/YB9yL352xBPBrRKRaMvdPkEEs68fv0B5QRh8OkEYfDo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60325887/%E5%85%8B%E6%9E%97%E9%A0%93-%E5%B0%8D%E6%84%9B%E6%BD%91%E6%96%AF%E5%9D%A6%E6%80%A7%E7%8A%AF%E7%BD%AA%E4%B8%8D%E7%9F%A5%E6%83%85-%E4%B8%A6%E6%9C%AA%E8%88%87%E6%8C%89%E6%91%A9%E6%B1%A0%E5%A5%B3%E5%AD%90%E7%99%BC%E7%94%9F%E6%80%A7%E9%97%9C%E4%BF%82",
-    "timestamp": "2026-02-27T23:01:04.040Z",
     "strategy": ".content-card__main"
   }
 ];
