@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-28T00:40:31.734Z
+// Last updated: 2026-02-28T01:19:36.721Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "港鐵女被尾隨偷拍！呻無男士幫發聲　感激女乘客伸援手　發帖尋人",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260228/1104293552407449600857061.png/BZt6rJlzniTxYjNf5Ue5bu0ESJvGkkad0XUcttF1HLY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60325567/%E6%B8%AF%E9%90%B5%E5%A5%B3%E8%A2%AB%E5%B0%BE%E9%9A%A8%E5%81%B7%E6%8B%8D-%E5%91%BB%E7%84%A1%E7%94%B7%E5%A3%AB%E5%B9%AB%E7%99%BC%E8%81%B2-%E6%84%9F%E6%BF%80%E5%A5%B3%E4%B9%98%E5%AE%A2%E4%BC%B8%E6%8F%B4%E6%89%8B-%E7%99%BC%E5%B8%96%E5%B0%8B%E4%BA%BA",
+    "timestamp": "2026-02-28T01:19:36.721Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "38歲「前TVB御用情婦」朱璇嫁富二代神隱多年　近照曝光凍齡美貌",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260227/1104131107743338496317854.jpeg/myyUZCCXaWXuw8Lna-_y1Pz6UzMtAwZ0nGdgJ5xnYCc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60325827/%E6%81%92%E5%9C%B0-%E4%BA%8C-%E5%B9%B4%E5%85%A7%E6%8E%A84%E5%85%A8%E6%96%B0%E7%9B%A41700%E4%BC%99-%E7%9B%88%E5%A4%A7%E4%B8%AD%E7%92%B0%E9%9B%85%E7%9B%88%E5%B3%B0%E4%BF%9D%E7%95%99%E9%AB%98%E5%B1%A4%E7%8F%BE%E6%A8%93%E6%8E%A8",
     "timestamp": "2026-02-27T11:20:55.922Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "外交部提醒中國公民勿前往伊朗：在當地者加強安全防範　盡快撤離",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260227/1104125953895829504170935.jpeg/1jLAzoQMMEpN-aRvaB45VOuSNLiwlWZzTXjVcU141XE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60325821/%E5%A4%96%E4%BA%A4%E9%83%A8%E6%8F%90%E9%86%92%E4%B8%AD%E5%9C%8B%E5%85%AC%E6%B0%91%E5%8B%BF%E5%89%8D%E5%BE%80%E4%BC%8A%E6%9C%97-%E5%9C%A8%E7%95%B6%E5%9C%B0%E8%80%85%E5%8A%A0%E5%BC%B7%E5%AE%89%E5%85%A8%E9%98%B2%E7%AF%84-%E7%9B%A1%E5%BF%AB%E6%92%A4%E9%9B%A2",
-    "timestamp": "2026-02-27T10:53:06.623Z",
     "strategy": ".content-card__main"
   }
 ];
