@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-28T15:13:24.181Z
+// Last updated: 2026-02-28T15:44:17.161Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "以色列美國空襲伊朗　革命衛隊稱導彈擊中美軍戰鬥支援艦",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260228/1104561619444174848514378.png/VZ4r5hQJ9gr0WwmeTi2PxfSo4FufFRGz025qNNNuajQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60326074/%E4%BB%A5%E8%89%B2%E5%88%97%E7%BE%8E%E5%9C%8B%E7%A9%BA%E8%A5%B2%E4%BC%8A%E6%9C%97-%E9%9D%A9%E5%91%BD%E8%A1%9B%E9%9A%8A%E7%A8%B1%E5%B0%8E%E5%BD%88%E6%93%8A%E4%B8%AD%E7%BE%8E%E8%BB%8D%E6%88%B0%E9%AC%A5%E6%94%AF%E6%8F%B4%E8%89%A6",
+    "timestamp": "2026-02-28T15:44:17.161Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "台灣辣模銅鑼灣鬧市當眾除底褲　影片流出引網民熱議：看不懂！",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260228/1104430980124381184943126.jpeg/BUuU23TU1xo_qeg1ZzCgSIrtF9eDA4AE3whULd8IVC0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60325978/%E5%A5%B3%E5%AD%A9%E4%B8%8D%E5%B9%B3%E5%87%A1-%E9%AA%A8%E5%A6%B9-%E7%8F%AD%E5%BA%95%E5%86%8D%E8%81%9A-%E5%BB%96%E5%AD%90%E5%A6%A4%E5%9C%A8%E5%8F%B0%E4%B8%8A%E4%B8%80%E9%81%93%E8%90%BD%E6%B7%9A-%E7%99%BE%E6%84%9F%E4%BA%A4%E9%9B%86",
     "timestamp": "2026-02-28T07:57:20.926Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "啟德碼頭｜羅淑佩指新營運商招標年內公布　料為文藝活動提供空間",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260228/1104422603658891264634925.jpeg/UZaPwFM3kQ-QlQvKQoGPev9eSyyRnKHA_s_zqf7P86k?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60325962/%E5%95%9F%E5%BE%B7%E7%A2%BC%E9%A0%AD-%E7%BE%85%E6%B7%91%E4%BD%A9%E6%8C%87%E6%96%B0%E7%87%9F%E9%81%8B%E5%95%86%E6%8B%9B%E6%A8%99%E5%B9%B4%E5%85%A7%E5%85%AC%E5%B8%83-%E6%96%99%E7%82%BA%E6%96%87%E8%97%9D%E6%B4%BB%E5%8B%95%E6%8F%90%E4%BE%9B%E7%A9%BA%E9%96%93",
-    "timestamp": "2026-02-28T07:04:14.936Z",
     "strategy": ".content-card__main"
   }
 ];
