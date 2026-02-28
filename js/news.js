@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-28T07:04:14.936Z
+// Last updated: 2026-02-28T07:57:20.926Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "女孩不平凡｜《骨妹》班底再聚　廖子妤在台上一道落淚︰百感交集",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260228/1104430980124381184943126.jpeg/BUuU23TU1xo_qeg1ZzCgSIrtF9eDA4AE3whULd8IVC0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60325978/%E5%A5%B3%E5%AD%A9%E4%B8%8D%E5%B9%B3%E5%87%A1-%E9%AA%A8%E5%A6%B9-%E7%8F%AD%E5%BA%95%E5%86%8D%E8%81%9A-%E5%BB%96%E5%AD%90%E5%A6%A4%E5%9C%A8%E5%8F%B0%E4%B8%8A%E4%B8%80%E9%81%93%E8%90%BD%E6%B7%9A-%E7%99%BE%E6%84%9F%E4%BA%A4%E9%9B%86",
+    "timestamp": "2026-02-28T07:57:20.926Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "啟德碼頭｜羅淑佩指新營運商招標年內公布　料為文藝活動提供空間",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260228/1104262830695124992475012.jpeg/zb2OfWcIZCm0XZoQpIFGxIM6B61DJ6SRLYgCzS2IAs0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60325881/%E5%B0%8F%E6%B3%89%E9%80%B2%E6%AC%A1%E9%83%8E%E5%9B%9E%E6%87%89%E4%B8%AD%E5%9C%8B%E5%87%BA%E5%8F%A3%E7%AE%A1%E5%88%B6-%E9%A0%88%E5%BC%B7%E5%8C%96%E5%9C%8B%E9%98%B2%E4%BE%9B%E6%87%89%E9%8F%88-%E4%B8%8D%E4%BE%9D%E8%B3%B4%E7%89%B9%E5%AE%9A%E5%9C%8B%E5%AE%B6",
     "timestamp": "2026-02-27T20:19:22.305Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "意大利米蘭電車出軌2死約40傷　行駛中失控撞入商店櫥窗｜有片",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260228/1104238084876144640018372.jpeg/qQR-TrboOKc9eQoxetlIv9h3qRywA4-n1Py3LtT8ty4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60325878/%E6%84%8F%E5%A4%A7%E5%88%A9%E7%B1%B3%E8%98%AD%E9%9B%BB%E8%BB%8A%E5%87%BA%E8%BB%8C2%E6%AD%BB%E7%B4%8440%E5%82%B7-%E8%A1%8C%E9%A7%9B%E4%B8%AD%E5%A4%B1%E6%8E%A7%E6%92%9E%E5%85%A5%E5%95%86%E5%BA%97%E6%AB%A5%E7%AA%97-%E6%9C%89%E7%89%87",
-    "timestamp": "2026-02-27T18:53:20.692Z",
     "strategy": ".content-card__main"
   }
 ];
