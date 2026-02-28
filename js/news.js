@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-28T20:57:41.965Z
+// Last updated: 2026-02-28T21:30:37.194Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美以襲伊朗｜附近被飛彈碎片擊中　滯留杜拜港人：第一次咁近戰場",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260301/1104599424446763008984653.jpeg/liT6Wy3L9iTZTDNtTRPIguyAtKa7hZ5Xac1KAmnNSgI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60326083/%E7%BE%8E%E4%BB%A5%E8%A5%B2%E4%BC%8A%E6%9C%97-%E9%99%84%E8%BF%91%E8%A2%AB%E9%A3%9B%E5%BD%88%E7%A2%8E%E7%89%87%E6%93%8A%E4%B8%AD-%E6%BB%AF%E7%95%99%E6%9D%9C%E6%8B%9C%E6%B8%AF%E4%BA%BA-%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%92%81%E8%BF%91%E6%88%B0%E5%A0%B4",
+    "timestamp": "2026-02-28T21:30:37.194Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "內塔尼亞胡：種種跡象顯示哈梅內伊已身亡　籲伊朗人上街推翻政權",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260228/1104506370863927296830127.jpeg/45Aw-b5eLULtMGtO4kidRl6z0oy264dsfwHRJH8B0SQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60326046/%E9%9B%B2%E5%8D%97%E5%AD%B8%E7%94%9F%E4%BE%86%E6%B8%AF%E7%A0%94%E5%AD%B8-%E6%B1%9F%E6%97%BB%E6%86%93%E4%BB%BB%E7%B5%90%E6%A5%AD%E7%A6%AE%E5%98%89%E8%B3%93%E5%90%88%E5%BD%B1%E6%89%93%E5%8D%A1-%E6%8E%A8%E4%BB%8B%E4%B8%80%E6%B8%AF%E5%BC%8F%E7%94%9C%E5%93%81",
     "timestamp": "2026-02-28T12:19:23.770Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "屹立上環44年輝煌快餐店結業　「黃帽工人」壁畫曾捲「黑暴」風波",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260228/1104488575270916096315806.jpeg/z-WS988svLlPMkwpUP8AY0zTr5_RvrhtSValyWxWpck?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60326037/%E5%B1%B9%E7%AB%8B%E4%B8%8A%E7%92%B044%E5%B9%B4%E8%BC%9D%E7%85%8C%E5%BF%AB%E9%A4%90%E5%BA%97%E7%B5%90%E6%A5%AD-%E9%BB%83%E5%B8%BD%E5%B7%A5%E4%BA%BA-%E5%A3%81%E7%95%AB%E6%9B%BE%E6%8D%B2-%E9%BB%91%E6%9A%B4-%E9%A2%A8%E6%B3%A2",
-    "timestamp": "2026-02-28T11:55:21.179Z",
     "strategy": ".content-card__main"
   }
 ];
