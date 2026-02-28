@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-28T12:37:27.198Z
+// Last updated: 2026-02-28T13:10:47.072Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美以聯合襲擊　目標「斬首」　伊朗出路在哪？",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260228/1104434908345929728318067.jpeg/bKhMapPbF5eUtcLHBHEFCLU2BY7QUN3wYTcRxGE3EcQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%9C%8B%E9%9A%9B%E5%88%86%E6%9E%90/60326055/%E7%BE%8E%E5%9C%8B%E4%BB%A5%E8%89%B2%E5%88%97%E8%81%AF%E5%90%88%E8%A5%B2%E6%93%8A-%E7%9B%AE%E6%A8%99-%E6%96%AC%E9%A6%96-%E4%BC%8A%E6%9C%97%E5%87%BA%E8%B7%AF%E5%9C%A8%E5%93%AA",
+    "timestamp": "2026-02-28T13:10:47.072Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "SEVENTEEN演唱會2026｜廣州粉絲跟偶像巡迴　買酒店套票連看兩晚",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260228/1104385099794747392713204.jpeg/MFyWZjxT2eKzLstrknF4qIDZfktFGvBvFgcSvxYHEr8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60325936/%E6%B8%AF%E9%90%B5%E4%B9%9D%E9%BE%8D%E5%A1%98%E7%AB%99%E5%85%A9%E9%95%B7%E8%80%85%E6%89%B6%E6%89%8B%E6%A2%AF%E4%B8%8A%E8%B7%8C%E5%80%92-%E6%B8%AF%E9%90%B5%E8%81%B7%E5%93%A1%E5%8D%94%E5%8A%A9",
     "timestamp": "2026-02-28T04:20:00.696Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "《原神》36歲員工初八復工當晚嘴角流血猝死　家屬控公司僅賠3萬",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260228/1104372075964928000197023.jpeg/c0aQPzXLhBXylZuhQiklhJkJjFyT1btHYWI-o2FiPqM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60325915/%E5%8E%9F%E7%A5%9E-36%E6%AD%B2%E5%93%A1%E5%B7%A5%E5%88%9D%E5%85%AB%E5%BE%A9%E5%B7%A5%E7%95%B6%E6%99%9A%E5%98%B4%E8%A7%92%E6%B5%81%E8%A1%80%E7%8C%9D%E6%AD%BB-%E5%AE%B6%E5%B1%AC%E6%8E%A7%E5%85%AC%E5%8F%B8%E5%83%85%E8%B3%A03%E8%90%AC",
-    "timestamp": "2026-02-28T03:48:29.621Z",
     "strategy": ".content-card__main"
   }
 ];
