@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-28T10:13:31.968Z
+// Last updated: 2026-02-28T10:31:05.879Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "龍翔道貨車失事掃水馬橫亘路中　馬路一片凌亂一度封路",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260228/1104480220615806976054873.jpeg/rmmADnW0se3NXbpdd8q7d8kgIFBDdbeyF0_9YhdP_WI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60326031/%E9%BE%8D%E7%BF%94%E9%81%93%E8%B2%A8%E8%BB%8A%E5%A4%B1%E4%BA%8B%E6%8E%83%E6%B0%B4%E9%A6%AC%E6%A9%AB%E4%BA%98%E8%B7%AF%E4%B8%AD-%E9%A6%AC%E8%B7%AF%E4%B8%80%E7%89%87%E5%87%8C%E4%BA%82%E4%B8%80%E5%BA%A6%E5%B0%81%E8%B7%AF",
+    "timestamp": "2026-02-28T10:31:05.879Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "父母車禍亡！美14歲兄虛報年齡打工養妹　受審感人片瘋傳真相超狂",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20210329/453265573803986944241865.jpeg/OeZcMXjhnKbQdImoX3fiD7196YDi7lxr25JiiduSYok?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60325884/%E9%99%B3%E5%81%A5%E6%B3%A2-%E8%BB%8A%E5%93%81%E8%A6%BA%E5%86%8D%E7%8D%B2%E5%A7%94%E4%BB%BB%E7%82%BA%E6%B8%AF%E4%BA%A4%E6%89%80%E8%91%A3%E4%BA%8B%E6%9C%83%E6%88%90%E5%93%A1-%E9%99%B3%E9%8C%A6%E6%A6%AE%E6%96%B0%E5%85%A5%E5%B1%80",
     "timestamp": "2026-02-27T23:46:07.182Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "丈夫出軌！元配於小三車裝土製炸彈暗殺　聘2男遙控引爆1原因事敗",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260228/1104293427324915712463725.png/aHNJWFY37EjYUkflLEFmi1GRQqKzX2RXoiiaXqIoml4",
-    "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E8%A9%B1%E9%A1%8C/60325619/%E4%B8%88%E5%A4%AB%E5%87%BA%E8%BB%8C-%E5%85%83%E9%85%8D%E6%96%BC%E5%B0%8F%E4%B8%89%E8%BB%8A%E8%A3%9D%E5%9C%9F%E8%A3%BD%E7%82%B8%E5%BD%88%E6%9A%97%E6%AE%BA-%E8%81%982%E7%94%B7%E9%81%99%E6%8E%A7%E5%BC%95%E7%88%861%E5%8E%9F%E5%9B%A0%E4%BA%8B%E6%95%97",
-    "timestamp": "2026-02-27T23:31:42.227Z",
     "strategy": ".content-card__main"
   }
 ];
