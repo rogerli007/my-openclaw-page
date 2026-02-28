@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-28T11:29:48.617Z
+// Last updated: 2026-02-28T11:41:18.230Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "5星座愛搞曖昧把你當備胎　天秤優柔寡斷　這星座關心超朋友界限",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250908/1041748107680813056549326.jpeg/4bAdICNzLxhvZ0T2rHX2eWul3hU724azIkXn9iJF5_Y?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%AB%87%E6%83%85%E8%AA%AA%E6%80%A7/60274349/5%E6%98%9F%E5%BA%A7%E6%84%9B%E6%90%9E%E6%9B%96%E6%98%A7%E6%8A%8A%E4%BD%A0%E7%95%B6%E5%82%99%E8%83%8E-%E5%A4%A9%E7%A7%A4%E5%84%AA%E6%9F%94%E5%AF%A1%E6%96%B7-%E9%80%99%E6%98%9F%E5%BA%A7%E9%97%9C%E5%BF%83%E8%B6%85%E6%9C%8B%E5%8F%8B%E7%95%8C%E9%99%90",
+    "timestamp": "2026-02-28T11:41:18.230Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "海南省委原常委、海口市委原書記羅增斌受賄3.17億　一審判死緩",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260227/1104150431451320320820314.jpeg/iqqnWqObHwpwIQ4GjLWWKpdSxqqP5Bbso8Ctj6PArY8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60325566/38%E6%AD%B2-%E5%89%8Dtvb%E5%BE%A1%E7%94%A8%E6%83%85%E5%A9%A6-%E6%9C%B1%E7%92%87%E5%AB%81%E5%AF%8C%E4%BA%8C%E4%BB%A3%E7%A5%9E%E9%9A%B1%E5%A4%9A%E5%B9%B4-%E8%BF%91%E7%85%A7%E6%9B%9D%E5%85%89%E5%87%8D%E9%BD%A1%E7%BE%8E%E8%B2%8C",
     "timestamp": "2026-02-28T00:40:31.734Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "陳健波、車品覺再獲委任為港交所董事會成員　陳錦榮新入局",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20210329/453265573803986944241865.jpeg/OeZcMXjhnKbQdImoX3fiD7196YDi7lxr25JiiduSYok?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60325884/%E9%99%B3%E5%81%A5%E6%B3%A2-%E8%BB%8A%E5%93%81%E8%A6%BA%E5%86%8D%E7%8D%B2%E5%A7%94%E4%BB%BB%E7%82%BA%E6%B8%AF%E4%BA%A4%E6%89%80%E8%91%A3%E4%BA%8B%E6%9C%83%E6%88%90%E5%93%A1-%E9%99%B3%E9%8C%A6%E6%A6%AE%E6%96%B0%E5%85%A5%E5%B1%80",
-    "timestamp": "2026-02-27T23:58:02.039Z",
     "strategy": ".content-card__main"
   }
 ];
