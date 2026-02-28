@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-28T11:55:21.179Z
+// Last updated: 2026-02-28T12:19:23.770Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "雲南學生來港研學　江旻憓任結業禮嘉賓合影打卡　推介一港式甜品",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260228/1104506370863927296830127.jpeg/45Aw-b5eLULtMGtO4kidRl6z0oy264dsfwHRJH8B0SQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60326046/%E9%9B%B2%E5%8D%97%E5%AD%B8%E7%94%9F%E4%BE%86%E6%B8%AF%E7%A0%94%E5%AD%B8-%E6%B1%9F%E6%97%BB%E6%86%93%E4%BB%BB%E7%B5%90%E6%A5%AD%E7%A6%AE%E5%98%89%E8%B3%93%E5%90%88%E5%BD%B1%E6%89%93%E5%8D%A1-%E6%8E%A8%E4%BB%8B%E4%B8%80%E6%B8%AF%E5%BC%8F%E7%94%9C%E5%93%81",
+    "timestamp": "2026-02-28T12:19:23.770Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "屹立上環44年輝煌快餐店結業　「黃帽工人」壁畫曾捲「黑暴」風波",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260224/1102970755026522112503291.png/hpOlfToKP3TV8ViSkYXzvjkwQKIK9ELzj2z9Bo9s_QY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60324499/%E6%A2%81%E7%83%88%E5%94%AF%E7%8F%BE%E8%BA%AB%E5%A4%A7%E9%A6%AC%E8%A6%AA%E6%B0%91%E8%88%89%E5%8B%95%E7%8D%B2%E5%8A%A0%E5%88%86%E5%9C%88%E7%B2%89-%E5%8C%97%E4%B8%8A%E7%99%BC%E5%B1%95%E9%80%86%E8%BD%89%E6%88%90%E5%90%B8%E9%87%91%E7%8E%8B",
     "timestamp": "2026-02-28T03:01:59.911Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "港鐵女被尾隨偷拍！呻無男士幫發聲　感激女乘客伸援手　發帖尋人",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260228/1104293552407449600857061.png/BZt6rJlzniTxYjNf5Ue5bu0ESJvGkkad0XUcttF1HLY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60325567/%E6%B8%AF%E9%90%B5%E5%A5%B3%E8%A2%AB%E5%B0%BE%E9%9A%A8%E5%81%B7%E6%8B%8D-%E5%91%BB%E7%84%A1%E7%94%B7%E5%A3%AB%E5%B9%AB%E7%99%BC%E8%81%B2-%E6%84%9F%E6%BF%80%E5%A5%B3%E4%B9%98%E5%AE%A2%E4%BC%B8%E6%8F%B4%E6%89%8B-%E7%99%BC%E5%B8%96%E5%B0%8B%E4%BA%BA",
-    "timestamp": "2026-02-28T01:19:36.721Z",
     "strategy": ".content-card__main"
   }
 ];
