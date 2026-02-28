@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-28T04:48:14.965Z
+// Last updated: 2026-02-28T05:32:36.516Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "珍惜生命︱上環樂古道女子墮樓　昏迷送院亡",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260228/1104399333710630912926745.jpeg/67iWmYUu5sX8ovg5m0NlsR3CgK5yeVwKr0I5AK9COQA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60325938/%E7%8F%8D%E6%83%9C%E7%94%9F%E5%91%BD-%E4%B8%8A%E7%92%B0%E6%A8%82%E5%8F%A4%E9%81%93%E5%A5%B3%E5%AD%90%E5%A2%AE%E6%A8%93-%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2%E4%BA%A1",
+    "timestamp": "2026-02-28T05:32:36.516Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "湖南男子網吧打機遭「硬騎」　陌生女突闖包廂自行脫褲緊抱不放手",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260227/1104074699702276096472301.jpeg/z3mUBCD_ANFYls6q7adnjaqJ8He2twoK8fATG_HwExs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60325717/%E6%9D%B1%E5%BC%B5%E5%A5%B3%E7%A5%9E%E6%96%B0%E7%85%A7%E9%81%BF-%E9%A8%B7%E8%83%B8-%E6%9B%AC%E4%BF%AE%E9%95%B7%E7%BE%8E%E8%85%BF-%E7%96%91%E8%A2%AB%E5%85%AC%E5%8F%B8%E7%85%A7%E8%82%BA%E5%BE%8C%E4%BD%8E%E8%AA%BF%E5%9B%9E%E6%AD%B8",
     "timestamp": "2026-02-27T15:29:37.306Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "夜王︱周芷慧洩片場女橫遍野奇景　葵芳吞卜畫面曝光打坐瞓到入定",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260227/1104133806262063104640759.jpeg/Ehuz-AkAYfh-tQVyp7xWyd-yby-sBsNykh7AcJIewHA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60325809/%E5%A4%9C%E7%8E%8B-%E5%91%A8%E8%8A%B7%E6%85%A7%E6%B4%A9%E7%89%87%E5%A0%B4%E5%A5%B3%E6%A9%AB%E9%81%8D%E9%87%8E%E5%A5%87%E6%99%AF-%E8%91%B5%E8%8A%B3%E5%90%9E%E5%8D%9C%E7%95%AB%E9%9D%A2%E6%9B%9D%E5%85%89%E6%89%93%E5%9D%90%E7%9E%93%E5%88%B0%E5%85%A5%E5%AE%9A",
-    "timestamp": "2026-02-27T14:52:24.429Z",
     "strategy": ".content-card__main"
   }
 ];
