@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-28T17:56:40.118Z
+// Last updated: 2026-02-28T18:16:00.141Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美以襲伊朗｜航班遲1小時起飛　本港小學遊學團偕乘客平安抵港",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260301/1104586949210935296586429.jpeg/7ehVXKKUuppZkbWg6wggxXfoSLcEPZNVr2nF9pVpxfY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60326080/%E7%BE%8E%E4%BB%A5%E8%A5%B2%E4%BC%8A%E6%9C%97-%E8%88%AA%E7%8F%AD%E9%81%B21%E5%B0%8F%E6%99%82%E8%B5%B7%E9%A3%9B-%E6%9C%AC%E6%B8%AF%E5%B0%8F%E5%AD%B8%E9%81%8A%E5%AD%B8%E5%9C%98%E5%81%95%E4%B9%98%E5%AE%A2%E5%B9%B3%E5%AE%89%E6%8A%B5%E6%B8%AF",
+    "timestamp": "2026-02-28T18:16:00.141Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美以襲伊朗｜航班遲1小時起飛　本港小學遊學團偕乘客平安抵港",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260228/1104473981789933568481237.png/l-hzjkIPY43BgutS0uNWrxL_I_Chth4afN84zXzfOM0",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60325893/%E7%88%B6%E6%AF%8D%E8%BB%8A%E7%A6%8D%E4%BA%A1-%E7%BE%8E14%E6%AD%B2%E5%85%84%E8%99%9B%E5%A0%B1%E5%B9%B4%E9%BD%A1%E6%89%93%E5%B7%A5%E9%A4%8A%E5%A6%B9-%E5%8F%97%E5%AF%A9%E6%84%9F%E4%BA%BA%E7%89%87%E7%98%8B%E5%82%B3%E7%9C%9F%E7%9B%B8%E8%B6%85%E7%8B%82",
     "timestamp": "2026-02-28T10:13:31.968Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "阿富汗：擊落一巴基斯坦戰機　飛行員被俘",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260228/1104466955907108864790583.jpeg/-TVaBBvXPQ1IwvSPNxvqTYtMWIM0VewwwywIYsMsCGI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60326014/%E9%98%BF%E5%AF%8C%E6%B1%97-%E6%93%8A%E8%90%BD%E4%B8%80%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E6%88%B0%E6%A9%9F-%E9%A3%9B%E8%A1%8C%E5%93%A1%E8%A2%AB%E4%BF%98",
-    "timestamp": "2026-02-28T10:01:30.159Z",
     "strategy": ".content-card__main"
   }
 ];
