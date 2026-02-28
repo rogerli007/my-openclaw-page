@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-28T12:19:23.770Z
+// Last updated: 2026-02-28T12:37:27.198Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "SEVENTEEN演唱會2026｜廣州粉絲跟偶像巡迴　買酒店套票連看兩晚",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260228/1104513050045583360017629.jpeg/pOhIJnR3x46KYz2EO_Xdn7HAcrUlKUpo3dXtyd3V7ck?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60326036/seventeen%E6%BC%94%E5%94%B1%E6%9C%832026-%E5%BB%A3%E5%B7%9E%E7%B2%89%E7%B5%B2%E8%B7%9F%E5%81%B6%E5%83%8F%E5%B7%A1%E8%BF%B4-%E8%B2%B7%E9%85%92%E5%BA%97%E5%A5%97%E7%A5%A8%E9%80%A3%E7%9C%8B%E5%85%A9%E6%99%9A",
+    "timestamp": "2026-02-28T12:37:27.198Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "雲南學生來港研學　江旻憓任結業禮嘉賓合影打卡　推介一港式甜品",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260228/1104372075964928000197023.jpeg/c0aQPzXLhBXylZuhQiklhJkJjFyT1btHYWI-o2FiPqM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60325915/%E5%8E%9F%E7%A5%9E-36%E6%AD%B2%E5%93%A1%E5%B7%A5%E5%88%9D%E5%85%AB%E5%BE%A9%E5%B7%A5%E7%95%B6%E6%99%9A%E5%98%B4%E8%A7%92%E6%B5%81%E8%A1%80%E7%8C%9D%E6%AD%BB-%E5%AE%B6%E5%B1%AC%E6%8E%A7%E5%85%AC%E5%8F%B8%E5%83%85%E8%B3%A03%E8%90%AC",
     "timestamp": "2026-02-28T03:48:29.621Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "前TVB負皮王北上發展逆轉成吸金王　現身大馬親民舉動獲加分圈粉",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260224/1102970755026522112503291.png/hpOlfToKP3TV8ViSkYXzvjkwQKIK9ELzj2z9Bo9s_QY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60324499/%E6%A2%81%E7%83%88%E5%94%AF%E7%8F%BE%E8%BA%AB%E5%A4%A7%E9%A6%AC%E8%A6%AA%E6%B0%91%E8%88%89%E5%8B%95%E7%8D%B2%E5%8A%A0%E5%88%86%E5%9C%88%E7%B2%89-%E5%8C%97%E4%B8%8A%E7%99%BC%E5%B1%95%E9%80%86%E8%BD%89%E6%88%90%E5%90%B8%E9%87%91%E7%8E%8B",
-    "timestamp": "2026-02-28T03:01:59.911Z",
     "strategy": ".content-card__main"
   }
 ];
