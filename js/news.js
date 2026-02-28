@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-27T23:58:02.039Z
+// Last updated: 2026-02-28T00:40:31.734Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "38歲「前TVB御用情婦」朱璇嫁富二代神隱多年　近照曝光凍齡美貌",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260227/1104150431451320320820314.jpeg/iqqnWqObHwpwIQ4GjLWWKpdSxqqP5Bbso8Ctj6PArY8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60325566/38%E6%AD%B2-%E5%89%8Dtvb%E5%BE%A1%E7%94%A8%E6%83%85%E5%A9%A6-%E6%9C%B1%E7%92%87%E5%AB%81%E5%AF%8C%E4%BA%8C%E4%BB%A3%E7%A5%9E%E9%9A%B1%E5%A4%9A%E5%B9%B4-%E8%BF%91%E7%85%A7%E6%9B%9D%E5%85%89%E5%87%8D%E9%BD%A1%E7%BE%8E%E8%B2%8C",
+    "timestamp": "2026-02-28T00:40:31.734Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "陳健波、車品覺再獲委任為港交所董事會成員　陳錦榮新入局",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260227/1104125953895829504170935.jpeg/1jLAzoQMMEpN-aRvaB45VOuSNLiwlWZzTXjVcU141XE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60325821/%E5%A4%96%E4%BA%A4%E9%83%A8%E6%8F%90%E9%86%92%E4%B8%AD%E5%9C%8B%E5%85%AC%E6%B0%91%E5%8B%BF%E5%89%8D%E5%BE%80%E4%BC%8A%E6%9C%97-%E5%9C%A8%E7%95%B6%E5%9C%B0%E8%80%85%E5%8A%A0%E5%BC%B7%E5%AE%89%E5%85%A8%E9%98%B2%E7%AF%84-%E7%9B%A1%E5%BF%AB%E6%92%A4%E9%9B%A2",
     "timestamp": "2026-02-27T10:53:06.623Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "郵輪旅遊｜3大長者推介　啟德上船去日本、英國!300呎房+私人露台",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260225/1103402559168581632430125.jpeg/yTP4b9U230cLabwMdASR-tLlRGQjcrWBE095nRNPeZ0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%97%85%E9%81%8A/60324635/%E9%83%B5%E8%BC%AA%E6%97%85%E9%81%8A-3%E5%A4%A7%E9%95%B7%E8%80%85%E6%8E%A8%E4%BB%8B-%E5%95%9F%E5%BE%B7%E4%B8%8A%E8%88%B9%E5%8E%BB%E6%97%A5%E6%9C%AC-%E8%8B%B1%E5%9C%8B-300%E5%91%8E%E6%88%BF-%E7%A7%81%E4%BA%BA%E9%9C%B2%E5%8F%B0",
-    "timestamp": "2026-02-27T10:22:07.957Z",
     "strategy": ".content-card__main"
   }
 ];
