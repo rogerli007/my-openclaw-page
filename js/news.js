@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-28T16:47:24.394Z
+// Last updated: 2026-02-28T17:30:52.915Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美以襲伊朗｜航班遲1小時起飛　本港小學遊學團偕乘客平安抵港",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260301/1104586949210935296586429.jpeg/7ehVXKKUuppZkbWg6wggxXfoSLcEPZNVr2nF9pVpxfY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60326080/%E7%BE%8E%E4%BB%A5%E8%A5%B2%E4%BC%8A%E6%9C%97-%E8%88%AA%E7%8F%AD%E9%81%B21%E5%B0%8F%E6%99%82%E8%B5%B7%E9%A3%9B-%E6%9C%AC%E6%B8%AF%E5%B0%8F%E5%AD%B8%E9%81%8A%E5%AD%B8%E5%9C%98%E5%81%95%E4%B9%98%E5%AE%A2%E5%B9%B3%E5%AE%89%E6%8A%B5%E6%B8%AF",
+    "timestamp": "2026-02-28T17:30:52.915Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "60歲美魔女內地開工突發入急症　半夜窒息：以為係小感冒",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260228/1104444965703913472571692.png/Bf7XVJ6jzeAqFAZeKqzllwlMf9oAs8IQArP9SwKz_Us?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60325989/%E4%BB%A5%E8%89%B2%E5%88%97%E7%A9%BA%E8%A5%B2%E4%BC%8A%E6%9C%97-%E5%B0%8E%E5%BD%88%E4%BD%8E%E7%A9%BA%E9%A3%9B%E9%81%8E%E4%BC%8A%E6%8B%89%E5%85%8B-%E9%9A%A8%E5%BE%8C%E9%97%9C%E9%96%89%E9%A0%98%E7%A9%BA-%E6%9C%89%E7%89%87",
     "timestamp": "2026-02-28T09:02:31.347Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "以色列美國襲伊朗　美議員批特朗普未獲授權　國會醞釀決議限動武",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260228/1104449454301253632946183.jpeg/tqPiin-gHEGB_caLNFyBc-04pSabIXQl62HBZuthwWY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60325994/%E4%BB%A5%E8%89%B2%E5%88%97%E7%BE%8E%E5%9C%8B%E8%A5%B2%E4%BC%8A%E6%9C%97-%E7%BE%8E%E8%AD%B0%E5%93%A1%E6%89%B9%E7%89%B9%E6%9C%97%E6%99%AE%E6%9C%AA%E7%8D%B2%E6%8E%88%E6%AC%8A-%E5%9C%8B%E6%9C%83%E9%86%9E%E9%87%80%E6%B1%BA%E8%AD%B0%E9%99%90%E5%8B%95%E6%AD%A6",
-    "timestamp": "2026-02-28T08:32:25.434Z",
     "strategy": ".content-card__main"
   }
 ];
