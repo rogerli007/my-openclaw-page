@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-28T11:41:18.230Z
+// Last updated: 2026-02-28T11:55:21.179Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "屹立上環44年輝煌快餐店結業　「黃帽工人」壁畫曾捲「黑暴」風波",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260228/1104488575270916096315806.jpeg/z-WS988svLlPMkwpUP8AY0zTr5_RvrhtSValyWxWpck?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60326037/%E5%B1%B9%E7%AB%8B%E4%B8%8A%E7%92%B044%E5%B9%B4%E8%BC%9D%E7%85%8C%E5%BF%AB%E9%A4%90%E5%BA%97%E7%B5%90%E6%A5%AD-%E9%BB%83%E5%B8%BD%E5%B7%A5%E4%BA%BA-%E5%A3%81%E7%95%AB%E6%9B%BE%E6%8D%B2-%E9%BB%91%E6%9A%B4-%E9%A2%A8%E6%B3%A2",
+    "timestamp": "2026-02-28T11:55:21.179Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "5星座愛搞曖昧把你當備胎　天秤優柔寡斷　這星座關心超朋友界限",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260228/1104293552407449600857061.png/BZt6rJlzniTxYjNf5Ue5bu0ESJvGkkad0XUcttF1HLY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60325567/%E6%B8%AF%E9%90%B5%E5%A5%B3%E8%A2%AB%E5%B0%BE%E9%9A%A8%E5%81%B7%E6%8B%8D-%E5%91%BB%E7%84%A1%E7%94%B7%E5%A3%AB%E5%B9%AB%E7%99%BC%E8%81%B2-%E6%84%9F%E6%BF%80%E5%A5%B3%E4%B9%98%E5%AE%A2%E4%BC%B8%E6%8F%B4%E6%89%8B-%E7%99%BC%E5%B8%96%E5%B0%8B%E4%BA%BA",
     "timestamp": "2026-02-28T01:19:36.721Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "38歲「前TVB御用情婦」朱璇嫁富二代神隱多年　近照曝光凍齡美貌",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260227/1104150431451320320820314.jpeg/iqqnWqObHwpwIQ4GjLWWKpdSxqqP5Bbso8Ctj6PArY8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60325566/38%E6%AD%B2-%E5%89%8Dtvb%E5%BE%A1%E7%94%A8%E6%83%85%E5%A9%A6-%E6%9C%B1%E7%92%87%E5%AB%81%E5%AF%8C%E4%BA%8C%E4%BB%A3%E7%A5%9E%E9%9A%B1%E5%A4%9A%E5%B9%B4-%E8%BF%91%E7%85%A7%E6%9B%9D%E5%85%89%E5%87%8D%E9%BD%A1%E7%BE%8E%E8%B2%8C",
-    "timestamp": "2026-02-28T00:40:31.734Z",
     "strategy": ".content-card__main"
   }
 ];
