@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-28T03:01:59.911Z
+// Last updated: 2026-02-28T03:48:29.621Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "《原神》36歲員工初八復工當晚嘴角流血猝死　家屬控公司僅賠3萬",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260228/1104372075964928000197023.jpeg/c0aQPzXLhBXylZuhQiklhJkJjFyT1btHYWI-o2FiPqM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60325915/%E5%8E%9F%E7%A5%9E-36%E6%AD%B2%E5%93%A1%E5%B7%A5%E5%88%9D%E5%85%AB%E5%BE%A9%E5%B7%A5%E7%95%B6%E6%99%9A%E5%98%B4%E8%A7%92%E6%B5%81%E8%A1%80%E7%8C%9D%E6%AD%BB-%E5%AE%B6%E5%B1%AC%E6%8E%A7%E5%85%AC%E5%8F%B8%E5%83%85%E8%B3%A03%E8%90%AC",
+    "timestamp": "2026-02-28T03:48:29.621Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "前TVB負皮王北上發展逆轉成吸金王　現身大馬親民舉動獲加分圈粉",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260210/1097931643064553472705261.jpeg/VS8V4TMf663ZlUXsrTniCAkDZSca_HWxAFHdCwBR3Qs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60325850/%E6%98%82%E5%9D%AA360%E8%B3%87%E6%96%99%E5%A4%96%E6%B3%84%E9%81%AD%E5%8B%92%E7%B4%A2%E5%B7%B2%E5%A0%B1%E8%AD%A6-%E6%B6%89%E5%B9%B4%E7%A5%A8%E8%B3%93%E5%AE%A2-%E4%BE%9B%E6%87%89%E5%95%86%E5%8F%8A%E7%A7%9F%E6%88%B6%E7%AD%89%E8%B3%87%E6%96%99",
     "timestamp": "2026-02-27T12:55:00.146Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "接受男友和前任當朋友嗎？6個須禁止聯絡EX的理由：容易死灰復燃",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250909/1042127550358228992950143.jpeg/LnEy8xettLcOkDfytESzCQlPko4d-t-ql24xgpduMYI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%AB%87%E6%83%85%E8%AA%AA%E6%80%A7/60265730/%E6%8E%A5%E5%8F%97%E7%94%B7%E5%8F%8B%E5%92%8C%E5%89%8D%E4%BB%BB%E7%95%B6%E6%9C%8B%E5%8F%8B%E5%97%8E-6%E5%80%8B%E9%A0%88%E7%A6%81%E6%AD%A2%E8%81%AF%E7%B5%A1ex%E7%9A%84%E7%90%86%E7%94%B1-%E5%AE%B9%E6%98%93%E6%AD%BB%E7%81%B0%E5%BE%A9%E7%87%83",
-    "timestamp": "2026-02-27T11:48:44.407Z",
     "strategy": ".content-card__main"
   }
 ];
