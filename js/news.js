@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-28T09:34:17.337Z
+// Last updated: 2026-02-28T10:01:30.159Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "阿富汗：擊落一巴基斯坦戰機　飛行員被俘",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260228/1104466955907108864790583.jpeg/-TVaBBvXPQ1IwvSPNxvqTYtMWIM0VewwwywIYsMsCGI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60326014/%E9%98%BF%E5%AF%8C%E6%B1%97-%E6%93%8A%E8%90%BD%E4%B8%80%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E6%88%B0%E6%A9%9F-%E9%A3%9B%E8%A1%8C%E5%93%A1%E8%A2%AB%E4%BF%98",
+    "timestamp": "2026-02-28T10:01:30.159Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "習近平《求是》發表重要文章：讓願擔當、敢擔當、善擔當蔚然成風",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260228/1104303395948204032857029.jpeg/YB9yL352xBPBrRKRaMvdPkEEs68fv0B5QRh8OkEYfDo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60325887/%E5%85%8B%E6%9E%97%E9%A0%93-%E5%B0%8D%E6%84%9B%E6%BD%91%E6%96%AF%E5%9D%A6%E6%80%A7%E7%8A%AF%E7%BD%AA%E4%B8%8D%E7%9F%A5%E6%83%85-%E4%B8%A6%E6%9C%AA%E8%88%87%E6%8C%89%E6%91%A9%E6%B1%A0%E5%A5%B3%E5%AD%90%E7%99%BC%E7%94%9F%E6%80%A7%E9%97%9C%E4%BF%82",
     "timestamp": "2026-02-27T23:01:04.040Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普指Anthropic是激進左翼　下令所有聯邦機構立即停用其產品",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260228/1104288787258675200681352.jpeg/yn3ZQt9IaF9XY14ftvOScNZNE1M_9IjxlveI65b3iOs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60325883/%E7%89%B9%E6%9C%97%E6%99%AE%E6%8C%87anthropic%E6%98%AF%E6%BF%80%E9%80%B2%E5%B7%A6%E7%BF%BC-%E4%B8%8B%E4%BB%A4%E6%89%80%E6%9C%89%E8%81%AF%E9%82%A6%E6%A9%9F%E6%A7%8B%E7%AB%8B%E5%8D%B3%E5%81%9C%E7%94%A8%E5%85%B6%E7%94%A2%E5%93%81",
-    "timestamp": "2026-02-27T22:01:31.599Z",
     "strategy": ".content-card__main"
   }
 ];
