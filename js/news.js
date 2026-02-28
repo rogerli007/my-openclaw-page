@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-28T07:57:20.926Z
+// Last updated: 2026-02-28T08:15:46.892Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "帶女兒返公司逗利市！新同事2日後即辭職　網民斥厚臉皮：好肉酸",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260227/1104132295532482560051789.jpeg/z6cvUUmmnMFluIKIYzD4N98V4lhq3jY9Q1VJxUNVScU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60325783/%E5%B8%B6%E5%A5%B3%E5%85%92%E8%BF%94%E5%85%AC%E5%8F%B8%E9%80%97%E5%88%A9%E5%B8%82-%E6%96%B0%E5%90%8C%E4%BA%8B2%E6%97%A5%E5%BE%8C%E5%8D%B3%E8%BE%AD%E8%81%B7-%E7%B6%B2%E6%B0%91%E6%96%A5%E5%8E%9A%E8%87%89%E7%9A%AE-%E5%A5%BD%E8%82%89%E9%85%B8",
+    "timestamp": "2026-02-28T08:15:46.892Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "女孩不平凡｜《骨妹》班底再聚　廖子妤在台上一道落淚︰百感交集",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260228/1104262830695124992475012.jpeg/zb2OfWcIZCm0XZoQpIFGxIM6B61DJ6SRLYgCzS2IAs0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60325881/%E5%B0%8F%E6%B3%89%E9%80%B2%E6%AC%A1%E9%83%8E%E5%9B%9E%E6%87%89%E4%B8%AD%E5%9C%8B%E5%87%BA%E5%8F%A3%E7%AE%A1%E5%88%B6-%E9%A0%88%E5%BC%B7%E5%8C%96%E5%9C%8B%E9%98%B2%E4%BE%9B%E6%87%89%E9%8F%88-%E4%B8%8D%E4%BE%9D%E8%B3%B4%E7%89%B9%E5%AE%9A%E5%9C%8B%E5%AE%B6",
     "timestamp": "2026-02-27T20:36:48.534Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "小泉進次郎回應中國出口管制：須強化國防供應鏈　不依賴特定國家",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260228/1104262830695124992475012.jpeg/zb2OfWcIZCm0XZoQpIFGxIM6B61DJ6SRLYgCzS2IAs0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60325881/%E5%B0%8F%E6%B3%89%E9%80%B2%E6%AC%A1%E9%83%8E%E5%9B%9E%E6%87%89%E4%B8%AD%E5%9C%8B%E5%87%BA%E5%8F%A3%E7%AE%A1%E5%88%B6-%E9%A0%88%E5%BC%B7%E5%8C%96%E5%9C%8B%E9%98%B2%E4%BE%9B%E6%87%89%E9%8F%88-%E4%B8%8D%E4%BE%9D%E8%B3%B4%E7%89%B9%E5%AE%9A%E5%9C%8B%E5%AE%B6",
-    "timestamp": "2026-02-27T20:19:22.305Z",
     "strategy": ".content-card__main"
   }
 ];
