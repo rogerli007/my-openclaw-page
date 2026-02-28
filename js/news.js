@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-28T03:48:29.621Z
+// Last updated: 2026-02-28T04:20:00.696Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "港鐵九龍塘站兩長者扶手梯上跌倒　港鐵職員協助",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260228/1104385099794747392713204.jpeg/MFyWZjxT2eKzLstrknF4qIDZfktFGvBvFgcSvxYHEr8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60325936/%E6%B8%AF%E9%90%B5%E4%B9%9D%E9%BE%8D%E5%A1%98%E7%AB%99%E5%85%A9%E9%95%B7%E8%80%85%E6%89%B6%E6%89%8B%E6%A2%AF%E4%B8%8A%E8%B7%8C%E5%80%92-%E6%B8%AF%E9%90%B5%E8%81%B7%E5%93%A1%E5%8D%94%E5%8A%A9",
+    "timestamp": "2026-02-28T04:20:00.696Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "《原神》36歲員工初八復工當晚嘴角流血猝死　家屬控公司僅賠3萬",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260227/1104171734967259136365904.jpeg/0MDjSTFKwzvUf6bQMRf_WLYoiBbIF9OusDqsZLA6rGQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E4%B8%AD%E5%9C%8B%E8%A7%80%E5%AF%9F/60325860/%E4%B8%AD%E5%9C%8B%E5%A4%AE%E8%A1%8C%E5%87%BA%E6%89%8B-%E4%BA%BA%E6%B0%91%E5%B9%A3%E5%A4%A7%E6%BC%B2%E6%98%AF%E5%96%9C%E6%98%AF%E6%86%82-%E9%BB%9E%E7%B6%93",
     "timestamp": "2026-02-27T14:02:28.908Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "昂坪360資料外泄遭勒索已報警　涉年票賓客、供應商及租戶等資料",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260210/1097931643064553472705261.jpeg/VS8V4TMf663ZlUXsrTniCAkDZSca_HWxAFHdCwBR3Qs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60325850/%E6%98%82%E5%9D%AA360%E8%B3%87%E6%96%99%E5%A4%96%E6%B3%84%E9%81%AD%E5%8B%92%E7%B4%A2%E5%B7%B2%E5%A0%B1%E8%AD%A6-%E6%B6%89%E5%B9%B4%E7%A5%A8%E8%B3%93%E5%AE%A2-%E4%BE%9B%E6%87%89%E5%95%86%E5%8F%8A%E7%A7%9F%E6%88%B6%E7%AD%89%E8%B3%87%E6%96%99",
-    "timestamp": "2026-02-27T12:55:00.146Z",
     "strategy": ".content-card__main"
   }
 ];
