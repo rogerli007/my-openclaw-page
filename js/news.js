@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-28T17:43:49.335Z
+// Last updated: 2026-02-28T17:56:40.118Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美以襲伊朗｜航班遲1小時起飛　本港小學遊學團偕乘客平安抵港",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260301/1104586949210935296586429.jpeg/7ehVXKKUuppZkbWg6wggxXfoSLcEPZNVr2nF9pVpxfY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60326080/%E7%BE%8E%E4%BB%A5%E8%A5%B2%E4%BC%8A%E6%9C%97-%E8%88%AA%E7%8F%AD%E9%81%B21%E5%B0%8F%E6%99%82%E8%B5%B7%E9%A3%9B-%E6%9C%AC%E6%B8%AF%E5%B0%8F%E5%AD%B8%E9%81%8A%E5%AD%B8%E5%9C%98%E5%81%95%E4%B9%98%E5%AE%A2%E5%B9%B3%E5%AE%89%E6%8A%B5%E6%B8%AF",
+    "timestamp": "2026-02-28T17:56:40.118Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美以襲伊朗｜航班遲1小時起飛　本港小學遊學團偕乘客平安抵港",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260228/1104466955907108864790583.jpeg/-TVaBBvXPQ1IwvSPNxvqTYtMWIM0VewwwywIYsMsCGI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60326014/%E9%98%BF%E5%AF%8C%E6%B1%97-%E6%93%8A%E8%90%BD%E4%B8%80%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E6%88%B0%E6%A9%9F-%E9%A3%9B%E8%A1%8C%E5%93%A1%E8%A2%AB%E4%BF%98",
     "timestamp": "2026-02-28T10:01:30.159Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "習近平《求是》發表重要文章：讓願擔當、敢擔當、善擔當蔚然成風",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260228/1104465449770291200169042.jpeg/vxOP5UJ89-ZqCNoSFJKg6QqkUCBYncaa2NyeF9jcnhc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60326012/%E7%BF%92%E8%BF%91%E5%B9%B3-%E6%B1%82%E6%98%AF-%E7%99%BC%E8%A1%A8%E9%87%8D%E8%A6%81%E6%96%87%E7%AB%A0-%E8%AE%93%E9%A1%98%E6%93%94%E7%95%B6-%E6%95%A2%E6%93%94%E7%95%B6-%E5%96%84%E6%93%94%E7%95%B6%E8%94%9A%E7%84%B6%E6%88%90%E9%A2%A8",
-    "timestamp": "2026-02-28T09:34:17.337Z",
     "strategy": ".content-card__main"
   }
 ];
