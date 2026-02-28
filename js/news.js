@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-28T05:32:36.516Z
+// Last updated: 2026-02-28T05:52:23.001Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "第二艘國產大型郵輪「愛達·花城號」預計5月底出海試航",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260228/1104384925383004160362719.png/bH_uLEXw2sAn9QmaRJ3XkT7WjcGvO-DS1kKeWtZCnlo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60325927/%E7%AC%AC%E4%BA%8C%E8%89%98%E5%9C%8B%E7%94%A2%E5%A4%A7%E5%9E%8B%E9%83%B5%E8%BC%AA-%E6%84%9B%E9%81%94-%E8%8A%B1%E5%9F%8E%E8%99%9F-%E9%A0%90%E8%A8%885%E6%9C%88%E5%BA%95%E5%87%BA%E6%B5%B7%E8%A9%A6%E8%88%AA",
+    "timestamp": "2026-02-28T05:52:23.001Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "珍惜生命︱上環樂古道女子墮樓　昏迷送院亡",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20240411/855166060469424128130627.jpeg/5DtgqpV3-urmvQ26xgZKizj_CKyUefCnth1KYLYdSmA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60325876/%E5%81%89%E8%8F%AF%E9%9B%86%E5%9C%98%E9%BB%83%E7%AB%B9%E5%9D%91%E7%94%B2%E5%BB%88%E5%81%89%E8%8F%AF%E5%8C%AF10%E5%B1%A4%E9%80%A3%E5%9C%B0%E8%88%968-38%E5%84%84%E6%B2%BD-%E5%A4%A7%E6%96%B0%E9%87%91%E8%9E%8D%E6%89%BF%E6%8E%A5",
     "timestamp": "2026-02-27T17:51:08.205Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "東張女神新照避「騷胸」曬修長美腿　疑被公司照肺後低調回歸",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260227/1104074699702276096472301.jpeg/z3mUBCD_ANFYls6q7adnjaqJ8He2twoK8fATG_HwExs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60325717/%E6%9D%B1%E5%BC%B5%E5%A5%B3%E7%A5%9E%E6%96%B0%E7%85%A7%E9%81%BF-%E9%A8%B7%E8%83%B8-%E6%9B%AC%E4%BF%AE%E9%95%B7%E7%BE%8E%E8%85%BF-%E7%96%91%E8%A2%AB%E5%85%AC%E5%8F%B8%E7%85%A7%E8%82%BA%E5%BE%8C%E4%BD%8E%E8%AA%BF%E5%9B%9E%E6%AD%B8",
-    "timestamp": "2026-02-27T15:29:37.306Z",
     "strategy": ".content-card__main"
   }
 ];
