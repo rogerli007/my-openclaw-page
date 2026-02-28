@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-28T10:31:05.879Z
+// Last updated: 2026-02-28T11:29:48.617Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "海南省委原常委、海口市委原書記羅增斌受賄3.17億　一審判死緩",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260228/1104470693195550720034517.png/JD9HR9y0hyEW8OueQr2ArMhdixSwd3PC3GLDHdxiwx0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60326018/%E6%B5%B7%E5%8D%97%E7%9C%81%E5%A7%94%E5%8E%9F%E5%B8%B8%E5%A7%94-%E6%B5%B7%E5%8F%A3%E5%B8%82%E5%A7%94%E5%8E%9F%E6%9B%B8%E8%A8%98%E7%BE%85%E5%A2%9E%E6%96%8C%E5%8F%97%E8%B3%843-17%E5%84%84-%E4%B8%80%E5%AF%A9%E5%88%A4%E6%AD%BB%E7%B7%A9",
+    "timestamp": "2026-02-28T11:29:48.617Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "龍翔道貨車失事掃水馬橫亘路中　馬路一片凌亂一度封路",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20210329/453265573803986944241865.jpeg/OeZcMXjhnKbQdImoX3fiD7196YDi7lxr25JiiduSYok?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60325884/%E9%99%B3%E5%81%A5%E6%B3%A2-%E8%BB%8A%E5%93%81%E8%A6%BA%E5%86%8D%E7%8D%B2%E5%A7%94%E4%BB%BB%E7%82%BA%E6%B8%AF%E4%BA%A4%E6%89%80%E8%91%A3%E4%BA%8B%E6%9C%83%E6%88%90%E5%93%A1-%E9%99%B3%E9%8C%A6%E6%A6%AE%E6%96%B0%E5%85%A5%E5%B1%80",
     "timestamp": "2026-02-27T23:58:02.039Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "陳健波、車品覺再獲委任為港交所董事會成員　陳錦榮新入局",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20210329/453265573803986944241865.jpeg/OeZcMXjhnKbQdImoX3fiD7196YDi7lxr25JiiduSYok?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60325884/%E9%99%B3%E5%81%A5%E6%B3%A2-%E8%BB%8A%E5%93%81%E8%A6%BA%E5%86%8D%E7%8D%B2%E5%A7%94%E4%BB%BB%E7%82%BA%E6%B8%AF%E4%BA%A4%E6%89%80%E8%91%A3%E4%BA%8B%E6%9C%83%E6%88%90%E5%93%A1-%E9%99%B3%E9%8C%A6%E6%A6%AE%E6%96%B0%E5%85%A5%E5%B1%80",
-    "timestamp": "2026-02-27T23:46:07.182Z",
     "strategy": ".content-card__main"
   }
 ];
