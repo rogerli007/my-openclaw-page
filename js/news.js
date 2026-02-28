@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-28T05:52:23.001Z
+// Last updated: 2026-02-28T06:18:56.675Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "鰂魚涌生記粥麵最後一日排長龍　熟客嘆可惜：粥店少一間就少一間",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260228/1104406737718349824108239.jpeg/zgAvC3EjehQ5vgqGWqIgE1MheMftCqmOizwrQq48K0I?v=w1920r16_9",
+    "url": "https://www.hk01.com/18%E5%8D%80%E6%96%B0%E8%81%9E/60325944/%E9%B0%82%E9%AD%9A%E6%B6%8C%E7%94%9F%E8%A8%98%E7%B2%A5%E9%BA%B5%E6%9C%80%E5%BE%8C%E4%B8%80%E6%97%A5%E6%8E%92%E9%95%B7%E9%BE%8D-%E7%86%9F%E5%AE%A2%E5%98%86%E5%8F%AF%E6%83%9C-%E7%B2%A5%E5%BA%97%E5%B0%91%E4%B8%80%E9%96%93%E5%B0%B1%E5%B0%91%E4%B8%80%E9%96%93",
+    "timestamp": "2026-02-28T06:18:56.675Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "第二艘國產大型郵輪「愛達·花城號」預計5月底出海試航",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20240411/855166060469424128130627.jpeg/5DtgqpV3-urmvQ26xgZKizj_CKyUefCnth1KYLYdSmA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60325876/%E5%81%89%E8%8F%AF%E9%9B%86%E5%9C%98%E9%BB%83%E7%AB%B9%E5%9D%91%E7%94%B2%E5%BB%88%E5%81%89%E8%8F%AF%E5%8C%AF10%E5%B1%A4%E9%80%A3%E5%9C%B0%E8%88%968-38%E5%84%84%E6%B2%BD-%E5%A4%A7%E6%96%B0%E9%87%91%E8%9E%8D%E6%89%BF%E6%8E%A5",
     "timestamp": "2026-02-27T18:21:53.445Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "偉華集團黃竹坑甲廈偉華匯10層連地舖8.38億沽　大新金融承接",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20240411/855166060469424128130627.jpeg/5DtgqpV3-urmvQ26xgZKizj_CKyUefCnth1KYLYdSmA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60325876/%E5%81%89%E8%8F%AF%E9%9B%86%E5%9C%98%E9%BB%83%E7%AB%B9%E5%9D%91%E7%94%B2%E5%BB%88%E5%81%89%E8%8F%AF%E5%8C%AF10%E5%B1%A4%E9%80%A3%E5%9C%B0%E8%88%968-38%E5%84%84%E6%B2%BD-%E5%A4%A7%E6%96%B0%E9%87%91%E8%9E%8D%E6%89%BF%E6%8E%A5",
-    "timestamp": "2026-02-27T17:51:08.205Z",
     "strategy": ".content-card__main"
   }
 ];
