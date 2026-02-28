@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-28T08:32:25.434Z
+// Last updated: 2026-02-28T09:02:31.347Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "以色列空襲伊朗　導彈低空飛過伊拉克　隨後關閉領空｜有片",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260228/1104444965703913472571692.png/Bf7XVJ6jzeAqFAZeKqzllwlMf9oAs8IQArP9SwKz_Us?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60325989/%E4%BB%A5%E8%89%B2%E5%88%97%E7%A9%BA%E8%A5%B2%E4%BC%8A%E6%9C%97-%E5%B0%8E%E5%BD%88%E4%BD%8E%E7%A9%BA%E9%A3%9B%E9%81%8E%E4%BC%8A%E6%8B%89%E5%85%8B-%E9%9A%A8%E5%BE%8C%E9%97%9C%E9%96%89%E9%A0%98%E7%A9%BA-%E6%9C%89%E7%89%87",
+    "timestamp": "2026-02-28T09:02:31.347Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "以色列美國襲伊朗　美議員批特朗普未獲授權　國會醞釀決議限動武",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260228/1104279784021561344308965.jpeg/E7GqFmS5mLcf35BJYlk2vvs6mA-TfpJwK8YwPSvGMD0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60325882/%E9%95%B7%E5%92%8C%E6%97%97%E4%B8%8Bpcc%E5%9B%9E%E6%87%89%E9%81%AD%E5%B7%B4%E6%8B%BF%E9%A6%AC%E6%94%BF%E5%BA%9C%E7%AA%81%E6%93%8A%E6%90%9C%E6%9F%A5-%E7%A8%B1%E7%84%A1%E8%A6%96%E6%B3%95%E6%B2%BB%E4%BE%B5%E4%BD%94%E7%A7%81%E4%BA%BA%E8%B2%A1%E7%94%A2",
     "timestamp": "2026-02-27T21:50:13.573Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "長和旗下PCC回應遭巴拿馬政府突擊搜查　稱無視法治侵佔私人財產",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260228/1104279784021561344308965.jpeg/E7GqFmS5mLcf35BJYlk2vvs6mA-TfpJwK8YwPSvGMD0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60325882/%E9%95%B7%E5%92%8C%E6%97%97%E4%B8%8Bpcc%E5%9B%9E%E6%87%89%E9%81%AD%E5%B7%B4%E6%8B%BF%E9%A6%AC%E6%94%BF%E5%BA%9C%E7%AA%81%E6%93%8A%E6%90%9C%E6%9F%A5-%E7%A8%B1%E7%84%A1%E8%A6%96%E6%B3%95%E6%B2%BB%E4%BE%B5%E4%BD%94%E7%A7%81%E4%BA%BA%E8%B2%A1%E7%94%A2",
-    "timestamp": "2026-02-27T21:35:23.787Z",
     "strategy": ".content-card__main"
   }
 ];
