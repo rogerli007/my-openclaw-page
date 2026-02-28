@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-28T08:15:46.892Z
+// Last updated: 2026-02-28T08:32:25.434Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "以色列美國襲伊朗　美議員批特朗普未獲授權　國會醞釀決議限動武",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260228/1104449454301253632946183.jpeg/tqPiin-gHEGB_caLNFyBc-04pSabIXQl62HBZuthwWY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60325994/%E4%BB%A5%E8%89%B2%E5%88%97%E7%BE%8E%E5%9C%8B%E8%A5%B2%E4%BC%8A%E6%9C%97-%E7%BE%8E%E8%AD%B0%E5%93%A1%E6%89%B9%E7%89%B9%E6%9C%97%E6%99%AE%E6%9C%AA%E7%8D%B2%E6%8E%88%E6%AC%8A-%E5%9C%8B%E6%9C%83%E9%86%9E%E9%87%80%E6%B1%BA%E8%AD%B0%E9%99%90%E5%8B%95%E6%AD%A6",
+    "timestamp": "2026-02-28T08:32:25.434Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "帶女兒返公司逗利市！新同事2日後即辭職　網民斥厚臉皮：好肉酸",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260228/1104279784021561344308965.jpeg/E7GqFmS5mLcf35BJYlk2vvs6mA-TfpJwK8YwPSvGMD0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60325882/%E9%95%B7%E5%92%8C%E6%97%97%E4%B8%8Bpcc%E5%9B%9E%E6%87%89%E9%81%AD%E5%B7%B4%E6%8B%BF%E9%A6%AC%E6%94%BF%E5%BA%9C%E7%AA%81%E6%93%8A%E6%90%9C%E6%9F%A5-%E7%A8%B1%E7%84%A1%E8%A6%96%E6%B3%95%E6%B2%BB%E4%BE%B5%E4%BD%94%E7%A7%81%E4%BA%BA%E8%B2%A1%E7%94%A2",
     "timestamp": "2026-02-27T21:35:23.787Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "小泉進次郎回應中國出口管制：須強化國防供應鏈　不依賴特定國家",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260228/1104262830695124992475012.jpeg/zb2OfWcIZCm0XZoQpIFGxIM6B61DJ6SRLYgCzS2IAs0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60325881/%E5%B0%8F%E6%B3%89%E9%80%B2%E6%AC%A1%E9%83%8E%E5%9B%9E%E6%87%89%E4%B8%AD%E5%9C%8B%E5%87%BA%E5%8F%A3%E7%AE%A1%E5%88%B6-%E9%A0%88%E5%BC%B7%E5%8C%96%E5%9C%8B%E9%98%B2%E4%BE%9B%E6%87%89%E9%8F%88-%E4%B8%8D%E4%BE%9D%E8%B3%B4%E7%89%B9%E5%AE%9A%E5%9C%8B%E5%AE%B6",
-    "timestamp": "2026-02-27T20:36:48.534Z",
     "strategy": ".content-card__main"
   }
 ];
