@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-28T13:10:47.072Z
+// Last updated: 2026-02-28T13:33:15.904Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "以色列美國襲伊朗\t機管局︰今明兩日受局勢影響共9班機延誤或取消",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260228/1104482760552091648612735.jpeg/9lGZJxQegFBihEdyjBcbjMVMzR4QcP7OFXR3yRV0d8k?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60326060/%E4%BB%A5%E8%89%B2%E5%88%97%E7%BE%8E%E5%9C%8B%E8%A5%B2%E4%BC%8A%E6%9C%97-%E6%A9%9F%E7%AE%A1%E5%B1%80-%E4%BB%8A%E6%98%8E%E5%85%A9%E6%97%A5%E5%8F%97%E5%B1%80%E5%8B%A2%E5%BD%B1%E9%9F%BF%E5%85%B19%E7%8F%AD%E6%A9%9F%E5%BB%B6%E8%AA%A4%E6%88%96%E5%8F%96%E6%B6%88",
+    "timestamp": "2026-02-28T13:33:15.904Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美以聯合襲擊　目標「斬首」　伊朗出路在哪？",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260228/1104353575556878336094127.jpeg/rbX904hijrqv3RAruNI9wfY89MuHGMqirjnyTK458kw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60325897/%E6%B9%96%E5%8D%97%E7%94%B7%E5%AD%90%E7%B6%B2%E5%90%A7%E6%89%93%E6%A9%9F%E9%81%AD-%E7%A1%AC%E9%A8%8E-%E9%99%8C%E7%94%9F%E5%A5%B3%E7%AA%81%E9%97%96%E5%8C%85%E5%BB%82%E8%87%AA%E8%A1%8C%E8%84%AB%E8%A4%B2%E7%B7%8A%E6%8A%B1%E4%B8%8D%E6%94%BE%E6%89%8B",
     "timestamp": "2026-02-28T04:48:14.965Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "港鐵九龍塘站兩長者扶手梯上跌倒　港鐵職員協助",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260228/1104385099794747392713204.jpeg/MFyWZjxT2eKzLstrknF4qIDZfktFGvBvFgcSvxYHEr8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60325936/%E6%B8%AF%E9%90%B5%E4%B9%9D%E9%BE%8D%E5%A1%98%E7%AB%99%E5%85%A9%E9%95%B7%E8%80%85%E6%89%B6%E6%89%8B%E6%A2%AF%E4%B8%8A%E8%B7%8C%E5%80%92-%E6%B8%AF%E9%90%B5%E8%81%B7%E5%93%A1%E5%8D%94%E5%8A%A9",
-    "timestamp": "2026-02-28T04:20:00.696Z",
     "strategy": ".content-card__main"
   }
 ];
