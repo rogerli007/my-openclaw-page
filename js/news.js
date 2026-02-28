@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-28T21:43:24.214Z
+// Last updated: 2026-02-28T22:30:59.014Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "荃灣3車串燒相撞　4人受傷送院　1司機涉醉駕被捕",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260301/1104659471566639104561092.jpeg/wzkEsBeMYHPyUNpzKWdxN1EQVOCOXjGltp7MKLaezCg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60326093/%E8%8D%83%E7%81%A33%E8%BB%8A%E4%B8%B2%E7%87%92%E7%9B%B8%E6%92%9E-4%E4%BA%BA%E5%8F%97%E5%82%B7%E9%80%81%E9%99%A2-1%E5%8F%B8%E6%A9%9F%E6%B6%89%E9%86%89%E9%A7%95%E8%A2%AB%E6%8D%95",
+    "timestamp": "2026-02-28T22:30:59.014Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美以襲伊朗｜附近被飛彈碎片擊中　滯留杜拜港人：第一次咁近戰場",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260228/1104434908345929728318067.jpeg/bKhMapPbF5eUtcLHBHEFCLU2BY7QUN3wYTcRxGE3EcQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%9C%8B%E9%9A%9B%E5%88%86%E6%9E%90/60326055/%E7%BE%8E%E5%9C%8B%E4%BB%A5%E8%89%B2%E5%88%97%E8%81%AF%E5%90%88%E8%A5%B2%E6%93%8A-%E7%9B%AE%E6%A8%99-%E6%96%AC%E9%A6%96-%E4%BC%8A%E6%9C%97%E5%87%BA%E8%B7%AF%E5%9C%A8%E5%93%AA",
     "timestamp": "2026-02-28T13:10:47.072Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "SEVENTEEN演唱會2026｜廣州粉絲跟偶像巡迴　買酒店套票連看兩晚",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260228/1104513050045583360017629.jpeg/pOhIJnR3x46KYz2EO_Xdn7HAcrUlKUpo3dXtyd3V7ck?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60326036/seventeen%E6%BC%94%E5%94%B1%E6%9C%832026-%E5%BB%A3%E5%B7%9E%E7%B2%89%E7%B5%B2%E8%B7%9F%E5%81%B6%E5%83%8F%E5%B7%A1%E8%BF%B4-%E8%B2%B7%E9%85%92%E5%BA%97%E5%A5%97%E7%A5%A8%E9%80%A3%E7%9C%8B%E5%85%A9%E6%99%9A",
-    "timestamp": "2026-02-28T12:37:27.198Z",
     "strategy": ".content-card__main"
   }
 ];
