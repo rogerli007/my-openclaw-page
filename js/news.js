@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-28T20:14:05.116Z
+// Last updated: 2026-02-28T20:57:41.965Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "內塔尼亞胡：種種跡象顯示哈梅內伊已身亡　籲伊朗人上街推翻政權",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260301/1104632254455353344716423.jpeg/CupleO7RLMqVWbWVISCkB8vRsD0rtVs0BKXfjQSl340?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60326090/%E5%85%A7%E5%A1%94%E5%B0%BC%E4%BA%9E%E8%83%A1-%E7%A8%AE%E7%A8%AE%E8%B7%A1%E8%B1%A1%E9%A1%AF%E7%A4%BA%E5%93%88%E6%A2%85%E5%85%A7%E4%BC%8A%E5%B7%B2%E8%BA%AB%E4%BA%A1-%E7%B1%B2%E4%BC%8A%E6%9C%97%E4%BA%BA%E4%B8%8A%E8%A1%97%E6%8E%A8%E7%BF%BB%E6%94%BF%E6%AC%8A",
+    "timestamp": "2026-02-28T20:57:41.965Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "伊朗局勢｜巴林大樓遭伊無人機襲擊爆炸　科威特機場同遇襲｜有片",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260228/1104488575270916096315806.jpeg/z-WS988svLlPMkwpUP8AY0zTr5_RvrhtSValyWxWpck?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60326037/%E5%B1%B9%E7%AB%8B%E4%B8%8A%E7%92%B044%E5%B9%B4%E8%BC%9D%E7%85%8C%E5%BF%AB%E9%A4%90%E5%BA%97%E7%B5%90%E6%A5%AD-%E9%BB%83%E5%B8%BD%E5%B7%A5%E4%BA%BA-%E5%A3%81%E7%95%AB%E6%9B%BE%E6%8D%B2-%E9%BB%91%E6%9A%B4-%E9%A2%A8%E6%B3%A2",
     "timestamp": "2026-02-28T11:55:21.179Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "5星座愛搞曖昧把你當備胎　天秤優柔寡斷　這星座關心超朋友界限",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250908/1041748107680813056549326.jpeg/4bAdICNzLxhvZ0T2rHX2eWul3hU724azIkXn9iJF5_Y?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%AB%87%E6%83%85%E8%AA%AA%E6%80%A7/60274349/5%E6%98%9F%E5%BA%A7%E6%84%9B%E6%90%9E%E6%9B%96%E6%98%A7%E6%8A%8A%E4%BD%A0%E7%95%B6%E5%82%99%E8%83%8E-%E5%A4%A9%E7%A7%A4%E5%84%AA%E6%9F%94%E5%AF%A1%E6%96%B7-%E9%80%99%E6%98%9F%E5%BA%A7%E9%97%9C%E5%BF%83%E8%B6%85%E6%9C%8B%E5%8F%8B%E7%95%8C%E9%99%90",
-    "timestamp": "2026-02-28T11:41:18.230Z",
     "strategy": ".content-card__main"
   }
 ];
