@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-02-28T14:45:27.298Z
+// Last updated: 2026-02-28T15:13:24.181Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "台灣辣模銅鑼灣鬧市當眾除底褲　影片流出引網民熱議：看不懂！",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260227/1104202318829588480315048.jpeg/Qi45O0f4ERlmyX9HgzsIS8rKfYK32FoILCYPICwmDyA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E5%A8%9B%E6%A8%82/60325856/%E5%8F%B0%E7%81%A3%E8%BE%A3%E6%A8%A1%E9%8A%85%E9%91%BC%E7%81%A3%E9%AC%A7%E5%B8%82%E7%95%B6%E7%9C%BE%E9%99%A4%E5%BA%95%E8%A4%B2-%E5%BD%B1%E7%89%87%E6%B5%81%E5%87%BA%E5%BC%95%E7%B6%B2%E6%B0%91%E7%86%B1%E8%AD%B0-%E7%9C%8B%E4%B8%8D%E6%87%82",
+    "timestamp": "2026-02-28T15:13:24.181Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "WTT新加坡大滿貫直擊｜與孫穎莎的中港星馬球迷對談 足說三天三夜",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260228/1104422603658891264634925.jpeg/UZaPwFM3kQ-QlQvKQoGPev9eSyyRnKHA_s_zqf7P86k?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60325962/%E5%95%9F%E5%BE%B7%E7%A2%BC%E9%A0%AD-%E7%BE%85%E6%B7%91%E4%BD%A9%E6%8C%87%E6%96%B0%E7%87%9F%E9%81%8B%E5%95%86%E6%8B%9B%E6%A8%99%E5%B9%B4%E5%85%A7%E5%85%AC%E5%B8%83-%E6%96%99%E7%82%BA%E6%96%87%E8%97%9D%E6%B4%BB%E5%8B%95%E6%8F%90%E4%BE%9B%E7%A9%BA%E9%96%93",
     "timestamp": "2026-02-28T07:04:14.936Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "鰂魚涌生記粥麵最後一日排長龍　熟客嘆可惜：粥店少一間就少一間",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260228/1104406737718349824108239.jpeg/zgAvC3EjehQ5vgqGWqIgE1MheMftCqmOizwrQq48K0I?v=w1920r16_9",
-    "url": "https://www.hk01.com/18%E5%8D%80%E6%96%B0%E8%81%9E/60325944/%E9%B0%82%E9%AD%9A%E6%B6%8C%E7%94%9F%E8%A8%98%E7%B2%A5%E9%BA%B5%E6%9C%80%E5%BE%8C%E4%B8%80%E6%97%A5%E6%8E%92%E9%95%B7%E9%BE%8D-%E7%86%9F%E5%AE%A2%E5%98%86%E5%8F%AF%E6%83%9C-%E7%B2%A5%E5%BA%97%E5%B0%91%E4%B8%80%E9%96%93%E5%B0%B1%E5%B0%91%E4%B8%80%E9%96%93",
-    "timestamp": "2026-02-28T06:18:56.675Z",
     "strategy": ".content-card__main"
   }
 ];
