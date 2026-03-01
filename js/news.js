@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-01T13:12:54.913Z
+// Last updated: 2026-03-01T14:31:34.646Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "SEVENTEEN演唱會｜入境處拘捕4名流動小販懷疑黑工　介乎22至49歲",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260301/1104903878245093376371598.jpeg/-ixkf_Ix6XsV6vzbqpd0T2N1eq4KHCJgun6mZ7p-pmc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60326286/seventeen%E6%BC%94%E5%94%B1%E6%9C%83-%E5%85%A5%E5%A2%83%E8%99%95%E6%8B%98%E6%8D%954%E5%90%8D%E6%B5%81%E5%8B%95%E5%B0%8F%E8%B2%A9%E6%87%B7%E7%96%91%E9%BB%91%E5%B7%A5-%E4%BB%8B%E4%B9%8E22%E8%87%B349%E6%AD%B2",
+    "timestamp": "2026-03-01T14:31:34.646Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "伊朗局勢｜香港郵政：鑑於航班停飛　即時暫停往中東等地空郵服務",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260301/1104773379648393216978602.jpeg/_6Q2EkZ3waZKsYWdRx1BNZhTV4TXmbQ8TZRAuk2UQLo?v=w1920r16_9",
     "url": "https://www.hk01.com/01%E8%AB%96%E5%A3%87/60326157/%E9%86%AB%E5%96%84%E5%90%8C%E8%A1%8C-%E5%8F%8A%E6%97%A9%E7%99%BC%E7%8F%BE%E8%81%BD%E5%8A%9B%E5%95%8F%E9%A1%8C%E7%9A%84%E9%87%8D%E8%A6%81%E6%80%A7",
     "timestamp": "2026-03-01T06:08:29.963Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "伊朗局勢｜新華社：美國窮兵黷武的霸權行徑最終必將反噬自身",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260301/1104773109526827008513492.jpeg/_UvDZzkyUMzQf2d747Ad_x0SsD5IW83-i1FYAItRWAA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60326153/%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8B%A2-%E6%96%B0%E8%8F%AF%E7%A4%BE-%E7%BE%8E%E5%9C%8B%E7%AA%AE%E5%85%B5%E9%BB%B7%E6%AD%A6%E7%9A%84%E9%9C%B8%E6%AC%8A%E8%A1%8C%E5%BE%91%E6%9C%80%E7%B5%82%E5%BF%85%E5%B0%87%E5%8F%8D%E5%99%AC%E8%87%AA%E8%BA%AB",
-    "timestamp": "2026-03-01T05:44:32.885Z",
     "strategy": ".content-card__main"
   }
 ];
