@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-01T10:31:47.987Z
+// Last updated: 2026-03-01T10:48:36.126Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "有片｜土瓜灣樓上美容店失火濃煙沖天　內部天花牆身熏黑",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260301/1104848363381067776476129.png/1dWUf4ItLCe-NK8IcMTvmZqPWPJ6EP7cqgf7aKoH-2g",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60326237/%E6%9C%89%E7%89%87-%E5%9C%9F%E7%93%9C%E7%81%A3%E6%A8%93%E4%B8%8A%E7%BE%8E%E5%AE%B9%E5%BA%97%E5%A4%B1%E7%81%AB%E6%BF%83%E7%85%99%E6%B2%96%E5%A4%A9-%E5%85%A7%E9%83%A8%E5%A4%A9%E8%8A%B1%E7%89%86%E8%BA%AB%E7%86%8F%E9%BB%91",
+    "timestamp": "2026-03-01T10:48:36.126Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "伊朗局勢．持續更新｜機管局：今明兩日共20班機取消　附最新名單",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260228/1104248752656355328960572.jpeg/C5eG2ANxLcDh3sRk3JI5D-I3GnXyIzT7PRussD0brLA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60326094/%E7%89%B9%E6%9C%97%E6%99%AE-%E6%94%BB%E6%89%93%E4%BC%8A%E6%9C%97%E5%9B%A0%E5%B0%8D%E6%96%B9%E7%84%A1%E6%84%8F%E9%81%94%E6%88%90%E5%8D%94%E8%AD%B0-%E8%BB%8D%E4%BA%8B%E8%A1%8C%E5%8B%95%E9%9A%A8%E6%99%82%E5%8F%AF%E7%B5%90%E6%9D%9F",
     "timestamp": "2026-02-28T22:57:59.247Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "荃灣3車串燒相撞　4人受傷送院　1司機涉醉駕被捕",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260301/1104659471566639104561092.jpeg/wzkEsBeMYHPyUNpzKWdxN1EQVOCOXjGltp7MKLaezCg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60326093/%E8%8D%83%E7%81%A33%E8%BB%8A%E4%B8%B2%E7%87%92%E7%9B%B8%E6%92%9E-4%E4%BA%BA%E5%8F%97%E5%82%B7%E9%80%81%E9%99%A2-1%E5%8F%B8%E6%A9%9F%E6%B6%89%E9%86%89%E9%A7%95%E8%A2%AB%E6%8D%95",
-    "timestamp": "2026-02-28T22:30:59.014Z",
     "strategy": ".content-card__main"
   }
 ];
