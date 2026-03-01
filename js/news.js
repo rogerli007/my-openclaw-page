@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-01T11:30:12.345Z
+// Last updated: 2026-03-01T11:42:42.510Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "一周星星︱重溫震波枚張繼聰禁女兒觀看　陳家樂一特質被老婆大讚",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260301/1104827355123159040368451.jpeg/ZM9Nd9WIUHIXW7iR_wPEP3CgBSM_v6YyMjrWmzI61ps?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60326214/%E4%B8%80%E5%91%A8%E6%98%9F%E6%98%9F-%E9%87%8D%E6%BA%AB%E9%9C%87%E6%B3%A2%E6%9E%9A%E5%BC%B5%E7%B9%BC%E8%81%B0%E7%A6%81%E5%A5%B3%E5%85%92%E8%A7%80%E7%9C%8B-%E9%99%B3%E5%AE%B6%E6%A8%82%E4%B8%80%E7%89%B9%E8%B3%AA%E8%A2%AB%E8%80%81%E5%A9%86%E5%A4%A7%E8%AE%9A",
+    "timestamp": "2026-03-01T11:42:42.510Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "臥底嬌娃｜張曦雯緊身瑜伽服搶鏡　爆與羅毓儀「最萌身高差」辛酸",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250808/1030564801551536128957024.jpeg/o9w37bY_aINyISWdaeRYIi09kVwF5bGYRh5yFUYechU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60326113/%E7%B0%A1%E6%A8%B8%E6%88%BF-%E7%99%BB%E8%A8%98%E6%9C%9F%E4%BB%8A%E5%B1%95%E9%96%8B-%E6%88%BF%E5%B1%8B%E5%B1%80%E6%96%99%E7%84%A1%E5%A4%A7%E8%A6%8F%E6%A8%A1%E9%80%80%E5%A0%B4-%E5%B0%87%E8%A8%AD%E6%A8%A3%E6%9D%BF%E6%88%BF%E4%BE%9B%E5%8F%83%E8%80%83",
     "timestamp": "2026-03-01T02:48:43.551Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "深圳打工仔拒再逼地鐵　紛改搭高鐵　有人車費更低單程可快40分鐘",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/916075/org/f09f172c3a4fd41d0e03e761fd297160.jpg/zOvrUBAmGaP3wcJMbUiNYkvYgK7CtzylpF3v56Rd7-c?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60293400/%E6%B7%B1%E5%9C%B3%E6%89%93%E5%B7%A5%E4%BB%94%E6%8B%92%E5%86%8D%E9%80%BC%E5%9C%B0%E9%90%B5-%E7%B4%9B%E6%94%B9%E6%90%AD%E9%AB%98%E9%90%B5-%E6%9C%89%E4%BA%BA%E8%BB%8A%E8%B2%BB%E6%9B%B4%E4%BD%8E%E5%96%AE%E7%A8%8B%E5%8F%AF%E5%BF%AB40%E5%88%86%E9%90%98",
-    "timestamp": "2026-03-01T01:44:56.457Z",
     "strategy": ".content-card__main"
   }
 ];
