@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-01T12:38:53.410Z
+// Last updated: 2026-03-01T13:12:54.913Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "伊朗局勢｜香港郵政：鑑於航班停飛　即時暫停往中東等地空郵服務",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260119/1089989187194589184532874.jpeg/sBBziYI6vp2xQVhXTmGodB7RiM3mbu5lriPFa5QjxWs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60326269/%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8B%A2-%E9%A6%99%E6%B8%AF%E9%83%B5%E6%94%BF-%E9%91%91%E6%96%BC%E8%88%AA%E7%8F%AD%E5%81%9C%E9%A3%9B-%E5%8D%B3%E6%99%82%E6%9A%AB%E5%81%9C%E5%BE%80%E4%B8%AD%E6%9D%B1%E7%AD%89%E5%9C%B0%E7%A9%BA%E9%83%B5%E6%9C%8D%E5%8B%99",
+    "timestamp": "2026-03-01T13:12:54.913Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "邱晴富國島水著放題　比堅尼浸泥漿浴重現高海寧震撼名場面",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260301/1104773109526827008513492.jpeg/_UvDZzkyUMzQf2d747Ad_x0SsD5IW83-i1FYAItRWAA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60326153/%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8B%A2-%E6%96%B0%E8%8F%AF%E7%A4%BE-%E7%BE%8E%E5%9C%8B%E7%AA%AE%E5%85%B5%E9%BB%B7%E6%AD%A6%E7%9A%84%E9%9C%B8%E6%AC%8A%E8%A1%8C%E5%BE%91%E6%9C%80%E7%B5%82%E5%BF%85%E5%B0%87%E5%8F%8D%E5%99%AC%E8%87%AA%E8%BA%AB",
     "timestamp": "2026-03-01T05:44:32.885Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "伊朗局勢｜保險業界：戰爭多數不受保　惟戰前已在當地料可獲理賠",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260228/1104434910782951424701536.jpeg/cm40CGdtaEW8PgSf8C9hgQZALctQEKam2iyU0NoslNA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60326133/%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8B%A2-%E4%BF%9D%E9%9A%AA%E6%A5%AD%E7%95%8C-%E6%88%B0%E7%88%AD%E5%A4%9A%E6%95%B8%E4%B8%8D%E5%8F%97%E4%BF%9D-%E6%83%9F%E6%88%B0%E5%89%8D%E5%B7%B2%E5%9C%A8%E7%95%B6%E5%9C%B0%E6%96%99%E5%8F%AF%E7%8D%B2%E7%90%86%E8%B3%A0",
-    "timestamp": "2026-03-01T05:18:14.363Z",
     "strategy": ".content-card__main"
   }
 ];
