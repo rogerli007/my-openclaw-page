@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-01T14:58:48.119Z
+// Last updated: 2026-03-01T15:30:33.099Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "伊朗局勢｜新華社評論：當炸彈落在校園　文明底線何在",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260301/1104919670932115456230671.jpeg/ZvnuBDJwu8HsRPlAf63nPfS5CzG2qdm6SC_bMEgv2zA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60326291/%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8B%A2-%E6%96%B0%E8%8F%AF%E7%A4%BE%E8%A9%95%E8%AB%96-%E7%95%B6%E7%82%B8%E5%BD%88%E8%90%BD%E5%9C%A8%E6%A0%A1%E5%9C%92-%E6%96%87%E6%98%8E%E5%BA%95%E7%B7%9A%E4%BD%95%E5%9C%A8",
+    "timestamp": "2026-03-01T15:30:33.099Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "杜拜受襲　中國女戴頭盔頸枕打地鋪：炮彈打到家門口來了　我怕死",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260301/1104784260205645824938147.jpeg/k_RMmZFC44e7UucDo7bT4ZBtYuMBcgj27PHa-ezx2vk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60326166/%E4%BC%8A%E6%9C%97-%E4%B8%8D%E5%A4%AA%E5%8F%AF%E8%83%BD-%E5%8F%83%E8%88%872026%E4%B8%96%E7%95%8C%E7%9B%83-%E5%A6%82%E6%A3%84%E6%88%B0%E6%9C%83%E7%94%B1%E5%93%AA%E9%9A%8A%E8%A3%9C%E4%B8%8A-%E8%B6%B3%E7%90%83",
     "timestamp": "2026-03-01T07:48:34.690Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "伊朗局勢｜霍爾木茲海峽成焦點：運油輪掉頭　或衝擊全球經濟",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260301/1104792283783368704615032.jpeg/ziGmvJ2XjpExSVVM7K1MH7qOyN0UL8q7-v3rL_r96y8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%9C%8B%E9%9A%9B%E5%88%86%E6%9E%90/60326169/%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8B%A2-%E9%9C%8D%E7%88%BE%E6%9C%A8%E8%8C%B2%E6%B5%B7%E5%B3%BD%E6%88%90%E7%84%A6%E9%BB%9E-%E9%81%8B%E6%B2%B9%E8%BC%AA%E6%8E%89%E9%A0%AD-%E6%88%96%E8%A1%9D%E6%93%8A%E5%85%A8%E7%90%83%E7%B6%93%E6%BF%9F",
-    "timestamp": "2026-03-01T07:26:17.219Z",
     "strategy": ".content-card__main"
   }
 ];
