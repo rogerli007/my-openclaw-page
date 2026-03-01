@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-01T22:14:16.376Z
+// Last updated: 2026-03-01T22:30:45.308Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "天氣｜今早潮濕有霧　稍後有幾陣驟雨及或有雷暴　日間最高25度",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260302/1105020934877745152926345.jpeg/xaQOUpqQTH4NVo6B6IYexBdThEl6GCWFoM20nqDNtJ4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60326312/%E5%A4%A9%E6%B0%A3-%E4%BB%8A%E6%97%A9%E6%BD%AE%E6%BF%95%E6%9C%89%E9%9C%A7-%E7%A8%8D%E5%BE%8C%E6%9C%89%E5%B9%BE%E9%99%A3%E9%A9%9F%E9%9B%A8%E5%8F%8A%E6%88%96%E6%9C%89%E9%9B%B7%E6%9A%B4-%E6%97%A5%E9%96%93%E6%9C%80%E9%AB%9825%E5%BA%A6",
+    "timestamp": "2026-03-01T22:30:45.308Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "TVB御用奸人演技精湛曾嚇喊朋友　入行近半世紀不求財：興趣緊要",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260301/1104916448301551616584271.jpeg/jqGjexiXzSxLUkHk5eX6e28OLTUmvLIq5SJn1-UiZ9c?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60326298/%E5%A4%9A%E5%9C%96-%E6%9D%B1%E6%B6%8C%E8%A6%8B%E7%80%91%E5%B8%83%E9%9B%B2%E6%B7%B9%E6%B2%92%E9%AB%98%E5%B1%B1-%E9%9C%A7%E9%8A%B7%E9%A6%99%E6%B1%9F%E8%A6%8B%E9%9B%B2%E6%B5%B7-%E5%A4%A9%E6%96%87%E5%8F%B0%E6%96%99%E6%98%8E%E6%97%A9%E6%9C%89%E9%9C%A7",
     "timestamp": "2026-03-01T15:50:43.370Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "伊朗局勢｜新華社評論：當炸彈落在校園　文明底線何在",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260301/1104919670932115456230671.jpeg/ZvnuBDJwu8HsRPlAf63nPfS5CzG2qdm6SC_bMEgv2zA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60326291/%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8B%A2-%E6%96%B0%E8%8F%AF%E7%A4%BE%E8%A9%95%E8%AB%96-%E7%95%B6%E7%82%B8%E5%BD%88%E8%90%BD%E5%9C%A8%E6%A0%A1%E5%9C%92-%E6%96%87%E6%98%8E%E5%BA%95%E7%B7%9A%E4%BD%95%E5%9C%A8",
-    "timestamp": "2026-03-01T15:30:33.099Z",
     "strategy": ".content-card__main"
   }
 ];
