@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-01T19:43:07.458Z
+// Last updated: 2026-03-01T19:55:56.903Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "路透社民調：僅27%美國人支持打擊伊朗　56%指特朗普過份熱衷動武",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260302/1104973195980574720674539.jpeg/B3AeXzHXoC8JF994016Cyjb95WgdGsQraubycWrm8nE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60326314/%E8%B7%AF%E9%80%8F%E7%A4%BE%E6%B0%91%E8%AA%BF-%E5%83%8527-%E7%BE%8E%E5%9C%8B%E4%BA%BA%E6%94%AF%E6%8C%81%E6%89%93%E6%93%8A%E4%BC%8A%E6%9C%97-56-%E6%8C%87%E7%89%B9%E6%9C%97%E6%99%AE%E9%81%8E%E4%BB%BD%E7%86%B1%E8%A1%B7%E5%8B%95%E6%AD%A6",
+    "timestamp": "2026-03-01T19:55:56.903Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "路透社民調：僅27%美國人支持打擊伊朗　56%指特朗普過份熱衷動武",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260301/1104860640662523904863217.jpeg/MHwWCi0O6otKl7A9qwp0SgbxDgZgk7Dm9HrduPR63bg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60326250/%E8%87%A5%E5%BA%95%E5%AC%8C%E5%A8%83-%E4%BC%8D%E4%BB%B2%E8%A1%A1%E7%8F%BE%E8%BA%AB%E5%81%9A%E5%88%BB%E8%96%84%E8%A9%95%E5%AF%A9%E7%B5%82%E5%92%8C%E5%A5%BD-%E5%89%8D%E5%B9%B4%E5%B9%B4%E5%BA%95%E8%A2%AB%E7%8B%A0%E9%A3%9B%E5%87%BA%E7%AF%80%E7%9B%AE",
     "timestamp": "2026-03-01T12:19:36.952Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "路透：霍爾木茲兩側積壓逾百油輪　據報有郵輪試圖通過海峽被擊中",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260301/1104867332368371712183042.jpeg/ovKIAvx5egXZ_0Kx4g9PwtHnFEjiIT5yQ0cWDUNHFg0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60326258/%E8%B7%AF%E9%80%8F-%E9%9C%8D%E7%88%BE%E6%9C%A8%E8%8C%B2%E5%85%A9%E5%81%B4%E7%A9%8D%E5%A3%93%E9%80%BE%E7%99%BE%E6%B2%B9%E8%BC%AA-%E6%93%9A%E5%A0%B1%E6%9C%89%E9%83%B5%E8%BC%AA%E8%A9%A6%E5%9C%96%E9%80%9A%E9%81%8E%E6%B5%B7%E5%B3%BD%E8%A2%AB%E6%93%8A%E4%B8%AD",
-    "timestamp": "2026-03-01T11:56:25.970Z",
     "strategy": ".content-card__main"
   }
 ];
