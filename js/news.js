@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-01T05:44:32.885Z
+// Last updated: 2026-03-01T06:08:29.963Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "醫善同行｜及早發現聽力問題的重要性",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260301/1104773379648393216978602.jpeg/_6Q2EkZ3waZKsYWdRx1BNZhTV4TXmbQ8TZRAuk2UQLo?v=w1920r16_9",
+    "url": "https://www.hk01.com/01%E8%AB%96%E5%A3%87/60326157/%E9%86%AB%E5%96%84%E5%90%8C%E8%A1%8C-%E5%8F%8A%E6%97%A9%E7%99%BC%E7%8F%BE%E8%81%BD%E5%8A%9B%E5%95%8F%E9%A1%8C%E7%9A%84%E9%87%8D%E8%A6%81%E6%80%A7",
+    "timestamp": "2026-03-01T06:08:29.963Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "伊朗局勢｜新華社：美國窮兵黷武的霸權行徑最終必將反噬自身",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260301/1104586949210935296586429.jpeg/7ehVXKKUuppZkbWg6wggxXfoSLcEPZNVr2nF9pVpxfY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60326080/%E7%BE%8E%E4%BB%A5%E8%A5%B2%E4%BC%8A%E6%9C%97-%E8%88%AA%E7%8F%AD%E9%81%B21%E5%B0%8F%E6%99%82%E8%B5%B7%E9%A3%9B-%E6%9C%AC%E6%B8%AF%E5%B0%8F%E5%AD%B8%E9%81%8A%E5%AD%B8%E5%9C%98%E5%81%95%E4%B9%98%E5%AE%A2%E5%B9%B3%E5%AE%89%E6%8A%B5%E6%B8%AF",
     "timestamp": "2026-02-28T17:30:52.915Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "60歲美魔女內地開工突發入急症　半夜窒息：以為係小感冒",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260228/1104558171738869760043956.jpeg/8HCxaoTpe4Y5toCSrzFK0vTS6mHg2BjrRL6HxkS-h8Y?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60326077/60%E6%AD%B2%E7%BE%85%E9%9C%96%E5%85%A7%E5%9C%B0%E9%96%8B%E5%B7%A5%E7%AA%81%E7%99%BC%E5%85%A5%E6%80%A5%E7%97%87-%E5%8D%8A%E5%A4%9C%E7%AA%92%E6%81%AF-%E4%BB%A5%E7%82%BA%E4%BF%82%E5%B0%8F%E6%84%9F%E5%86%92",
-    "timestamp": "2026-02-28T16:47:24.394Z",
     "strategy": ".content-card__main"
   }
 ];
