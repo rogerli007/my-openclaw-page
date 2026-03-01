@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-01T12:19:36.952Z
+// Last updated: 2026-03-01T12:38:53.410Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "邱晴富國島水著放題　比堅尼浸泥漿浴重現高海寧震撼名場面",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260301/1104847569533538304512490.jpeg/O3kY7exuY2NH1jrs5svjPGlpKLeZcSnvmeww3pnsMN4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60326224/%E9%82%B1%E6%99%B4%E5%AF%8C%E5%9C%8B%E5%B3%B6%E6%B0%B4%E8%91%97%E6%94%BE%E9%A1%8C-%E6%AF%94%E5%A0%85%E5%B0%BC%E6%B5%B8%E6%B3%A5%E6%BC%BF%E6%B5%B4%E9%87%8D%E7%8F%BE%E9%AB%98%E6%B5%B7%E5%AF%A7%E9%9C%87%E6%92%BC%E5%90%8D%E5%A0%B4%E9%9D%A2",
+    "timestamp": "2026-03-01T12:38:53.410Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "臥底嬌娃｜伍仲衡現身做刻薄評審終和好？　前年年底被狠飛出節目",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260228/1104434910782951424701536.jpeg/cm40CGdtaEW8PgSf8C9hgQZALctQEKam2iyU0NoslNA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60326133/%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8B%A2-%E4%BF%9D%E9%9A%AA%E6%A5%AD%E7%95%8C-%E6%88%B0%E7%88%AD%E5%A4%9A%E6%95%B8%E4%B8%8D%E5%8F%97%E4%BF%9D-%E6%83%9F%E6%88%B0%E5%89%8D%E5%B7%B2%E5%9C%A8%E7%95%B6%E5%9C%B0%E6%96%99%E5%8F%AF%E7%8D%B2%E7%90%86%E8%B3%A0",
     "timestamp": "2026-03-01T05:18:14.363Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "曾俊華遊長洲有感：話市道樂觀係咪平衡時空？北都足夠救全家？",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250525/1003277623364685824605824.jpeg/xvrZi7NCCHQ7R5Psc9hFnJKRpvEnMmu9D2tdHg9rXR4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60326128/%E6%9B%BE%E4%BF%8A%E8%8F%AF%E9%81%8A%E9%95%B7%E6%B4%B2%E6%9C%89%E6%84%9F-%E8%A9%B1%E5%B8%82%E9%81%93%E6%A8%82%E8%A7%80%E4%BF%82%E5%92%AA%E5%B9%B3%E8%A1%A1%E6%99%82%E7%A9%BA-%E5%8C%97%E9%83%BD%E8%B6%B3%E5%A4%A0%E6%95%91%E5%85%A8%E5%AE%B6",
-    "timestamp": "2026-03-01T04:36:51.772Z",
     "strategy": ".content-card__main"
   }
 ];
