@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-01T22:30:45.308Z
+// Last updated: 2026-03-01T22:47:01.714Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "郭藹明港姐訪談片出土自爆有後台　胞妹神顏值震驚網民：個妹仲靚",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260301/1104901825544327168952146.jpeg/3IPSgjTYh_uTdYBPWKkHubrFv7limbhFal031mpdN9Y?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60326205/%E9%83%AD%E8%97%B9%E6%98%8E%E6%B8%AF%E5%A7%90%E8%A8%AA%E8%AB%87%E7%89%87%E5%87%BA%E5%9C%9F%E8%87%AA%E7%88%86%E6%9C%89%E5%BE%8C%E5%8F%B0-%E8%83%9E%E5%A6%B9%E7%A5%9E%E9%A1%8F%E5%80%BC%E9%9C%87%E9%A9%9A%E7%B6%B2%E6%B0%91-%E5%80%8B%E5%A6%B9%E4%BB%B2%E9%9D%9A",
+    "timestamp": "2026-03-01T22:47:01.714Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "天氣｜今早潮濕有霧　稍後有幾陣驟雨及或有雷暴　日間最高25度",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260301/1104916448301551616584271.jpeg/jqGjexiXzSxLUkHk5eX6e28OLTUmvLIq5SJn1-UiZ9c?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60326298/%E5%A4%9A%E5%9C%96-%E6%9D%B1%E6%B6%8C%E8%A6%8B%E7%80%91%E5%B8%83%E9%9B%B2%E6%B7%B9%E6%B2%92%E9%AB%98%E5%B1%B1-%E9%9C%A7%E9%8A%B7%E9%A6%99%E6%B1%9F%E8%A6%8B%E9%9B%B2%E6%B5%B7-%E5%A4%A9%E6%96%87%E5%8F%B0%E6%96%99%E6%98%8E%E6%97%A9%E6%9C%89%E9%9C%A7",
     "timestamp": "2026-03-01T15:59:46.154Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "多圖｜東涌見瀑布雲淹沒高山　霧銷香江見雲海　天文台料明早有霧",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260301/1104916448301551616584271.jpeg/jqGjexiXzSxLUkHk5eX6e28OLTUmvLIq5SJn1-UiZ9c?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60326298/%E5%A4%9A%E5%9C%96-%E6%9D%B1%E6%B6%8C%E8%A6%8B%E7%80%91%E5%B8%83%E9%9B%B2%E6%B7%B9%E6%B2%92%E9%AB%98%E5%B1%B1-%E9%9C%A7%E9%8A%B7%E9%A6%99%E6%B1%9F%E8%A6%8B%E9%9B%B2%E6%B5%B7-%E5%A4%A9%E6%96%87%E5%8F%B0%E6%96%99%E6%98%8E%E6%97%A9%E6%9C%89%E9%9C%A7",
-    "timestamp": "2026-03-01T15:50:43.370Z",
     "strategy": ".content-card__main"
   }
 ];
