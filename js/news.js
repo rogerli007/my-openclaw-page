@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-01T10:15:56.559Z
+// Last updated: 2026-03-01T10:31:47.987Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "伊朗局勢．持續更新｜機管局：今明兩日共20班機取消　附最新名單",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260301/1104793078654308352615403.jpeg/Md6efheYKivGw8VPJ2FF8yOooqUw2r-dcC_r9nAv6_Y?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60326069/%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8B%A2%E6%9C%80%E6%B6%88%E6%81%AF-%E9%A6%99%E6%B8%AF%E6%A9%9F%E5%A0%B4%E5%A4%9A%E8%88%AA%E7%8F%AD%E5%8F%96%E6%B6%88-%E6%B6%89%E6%9D%9C%E6%8B%9C%E5%A4%9A%E5%93%88-%E9%99%84%E5%85%A8%E5%90%8D%E5%96%AE",
+    "timestamp": "2026-03-01T10:31:47.987Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "哈梅內伊死亡｜胡錫進：無論誰上台　伊朗的變化都有可能發生",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260301/1104659471566639104561092.jpeg/wzkEsBeMYHPyUNpzKWdxN1EQVOCOXjGltp7MKLaezCg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60326093/%E8%8D%83%E7%81%A33%E8%BB%8A%E4%B8%B2%E7%87%92%E7%9B%B8%E6%92%9E-4%E4%BA%BA%E5%8F%97%E5%82%B7%E9%80%81%E9%99%A2-1%E5%8F%B8%E6%A9%9F%E6%B6%89%E9%86%89%E9%A7%95%E8%A2%AB%E6%8D%95",
     "timestamp": "2026-02-28T22:30:59.014Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美以襲伊朗｜附近被飛彈碎片擊中　滯留杜拜港人：第一次咁近戰場",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260301/1104599424446763008984653.jpeg/liT6Wy3L9iTZTDNtTRPIguyAtKa7hZ5Xac1KAmnNSgI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60326083/%E7%BE%8E%E4%BB%A5%E8%A5%B2%E4%BC%8A%E6%9C%97-%E9%99%84%E8%BF%91%E8%A2%AB%E9%A3%9B%E5%BD%88%E7%A2%8E%E7%89%87%E6%93%8A%E4%B8%AD-%E6%BB%AF%E7%95%99%E6%9D%9C%E6%8B%9C%E6%B8%AF%E4%BA%BA-%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%92%81%E8%BF%91%E6%88%B0%E5%A0%B4",
-    "timestamp": "2026-02-28T21:43:24.214Z",
     "strategy": ".content-card__main"
   }
 ];
