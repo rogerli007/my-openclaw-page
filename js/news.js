@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-01T14:52:03.157Z
+// Last updated: 2026-03-01T14:58:48.119Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "杜拜受襲　中國女戴頭盔頸枕打地鋪：炮彈打到家門口來了　我怕死",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260301/1104907329528139776537920.jpeg/ovVC-B1V1XcvdMWvlZd1ffFRHHpouZeHh3VCSId1Qkg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60326288/%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8B%A2-%E6%9D%9C%E6%8B%9C%E5%8F%97%E8%A5%B2-%E4%B8%AD%E5%9C%8B%E5%A5%B3%E6%88%B4%E9%A0%AD%E7%9B%94%E9%A0%B8%E6%9E%95%E6%89%93%E5%9C%B0%E9%8B%AA-%E7%82%AE%E5%BD%88%E6%89%93%E5%88%B0%E5%AE%B6%E9%96%80%E5%8F%A3%E4%BA%86",
+    "timestamp": "2026-03-01T14:58:48.119Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "杜拜受襲　中國女戴頭盔頸枕打地鋪：炮彈打到家門口來了　我怕死",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260301/1104792283783368704615032.jpeg/ziGmvJ2XjpExSVVM7K1MH7qOyN0UL8q7-v3rL_r96y8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%9C%8B%E9%9A%9B%E5%88%86%E6%9E%90/60326169/%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8B%A2-%E9%9C%8D%E7%88%BE%E6%9C%A8%E8%8C%B2%E6%B5%B7%E5%B3%BD%E6%88%90%E7%84%A6%E9%BB%9E-%E9%81%8B%E6%B2%B9%E8%BC%AA%E6%8E%89%E9%A0%AD-%E6%88%96%E8%A1%9D%E6%93%8A%E5%85%A8%E7%90%83%E7%B6%93%E6%BF%9F",
     "timestamp": "2026-03-01T07:26:17.219Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "伊朗局勢｜專家揭秘美以｢光天化日動武｣反常戰術：赤裸裸炫耀武力",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260301/1104792958730768384827539.jpeg/Kb0ctOSyLn7Gs52cW0C4ozSf55iXu9ATl2MxgZdjMYE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60326174/%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8B%A2-%E5%B0%88%E5%AE%B6%E6%8F%AD%E7%A7%98%E7%BE%8E%E4%BB%A5-%E5%85%89%E5%A4%A9%E5%8C%96%E6%97%A5%E5%8B%95%E6%AD%A6-%E5%8F%8D%E5%B8%B8%E6%88%B0%E8%A1%93-%E8%B5%A4%E8%A3%B8%E8%A3%B8%E7%82%AB%E8%80%80%E6%AD%A6%E5%8A%9B",
-    "timestamp": "2026-03-01T06:59:30.206Z",
     "strategy": ".content-card__main"
   }
 ];
