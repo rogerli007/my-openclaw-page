@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-01T15:50:43.370Z
+// Last updated: 2026-03-01T15:59:46.154Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "多圖｜東涌見瀑布雲淹沒高山　霧銷香江見雲海　天文台料明早有霧",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260301/1104916448301551616584271.jpeg/jqGjexiXzSxLUkHk5eX6e28OLTUmvLIq5SJn1-UiZ9c?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60326298/%E5%A4%9A%E5%9C%96-%E6%9D%B1%E6%B6%8C%E8%A6%8B%E7%80%91%E5%B8%83%E9%9B%B2%E6%B7%B9%E6%B2%92%E9%AB%98%E5%B1%B1-%E9%9C%A7%E9%8A%B7%E9%A6%99%E6%B1%9F%E8%A6%8B%E9%9B%B2%E6%B5%B7-%E5%A4%A9%E6%96%87%E5%8F%B0%E6%96%99%E6%98%8E%E6%97%A9%E6%9C%89%E9%9C%A7",
+    "timestamp": "2026-03-01T15:59:46.154Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "多圖｜東涌見瀑布雲淹沒高山　霧銷香江見雲海　天文台料明早有霧",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260301/1104764431809646592185724.jpeg/EAhfWbo0sNpToYh8DNlcBL88xecRaItFHFnPaRxZz2k?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60325171/%E5%85%AB%E9%81%94%E9%80%9A%E6%88%90%E7%9A%84%E5%A3%AB%E9%9B%BB%E5%AD%90%E6%94%AF%E4%BB%98%E9%BE%8D%E9%A0%AD-%E9%80%BE4%E8%90%AC%E5%8F%B8%E6%A9%9F%E8%A3%9D%E6%A9%9F-%E4%BA%A4%E6%98%93%E9%A1%8D%E6%8C%89%E5%B9%B4%E9%A3%86%E5%8D%876%E6%88%90%E5%8D%8A",
     "timestamp": "2026-03-01T09:16:27.915Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "諾如病毒｜今抵港郵輪威士特丹號76人上吐下瀉　首名病人日本登船",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260301/1104799454571008000412785.png/CMLk5Kqh_ura5bA9NH6UdINPmCVNTmg4tyPoEbcj6BE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60326177/%E8%AB%BE%E5%A6%82%E7%97%85%E6%AF%92-%E4%BB%8A%E6%8A%B5%E6%B8%AF%E9%83%B5%E8%BC%AA%E5%A8%81%E5%A3%AB%E7%89%B9%E4%B8%B9%E8%99%9F76%E4%BA%BA%E4%B8%8A%E5%90%90%E4%B8%8B%E7%80%89-%E9%A6%96%E5%90%8D%E7%97%85%E4%BA%BA%E6%97%A5%E6%9C%AC%E7%99%BB%E8%88%B9",
-    "timestamp": "2026-03-01T08:00:41.783Z",
     "strategy": ".content-card__main"
   }
 ];
