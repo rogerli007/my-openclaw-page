@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-01T16:31:17.169Z
+// Last updated: 2026-03-01T17:01:24.684Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "伊朗外長：對緩和局勢建議態度開放　無意攻擊鄰國　旨在美軍基地",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250419/990087909874864128186479.jpeg/obJQuLu0NoxEplXlHlSpQMjA9W0sVDEPqKl7Gaipexk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60326305/%E4%BC%8A%E6%9C%97%E5%A4%96%E9%95%B7-%E5%B0%8D%E7%B7%A9%E5%92%8C%E5%B1%80%E5%8B%A2%E5%BB%BA%E8%AD%B0%E6%85%8B%E5%BA%A6%E9%96%8B%E6%94%BE-%E7%84%A1%E6%84%8F%E6%94%BB%E6%93%8A%E9%84%B0%E5%9C%8B-%E6%97%A8%E5%9C%A8%E7%BE%8E%E8%BB%8D%E5%9F%BA%E5%9C%B0",
+    "timestamp": "2026-03-01T17:01:24.684Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "東張西望｜小巴司機被指躁狂直認不諱　搞笑回讚東張女神靚女溫柔",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260301/1104818050403667968047586.jpeg/xzcrCo7SSI-o1-cfxMujKuHptRK9WeE5MUXYoTFF2KE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60326201/%E9%8D%BE%E6%9F%94%E7%BE%8E%E8%A2%AB%E6%8F%AD%E6%88%B4%E5%8A%89%E5%B1%95%E9%9C%86-%E8%A8%82%E6%83%85%E4%BF%A1%E7%89%A9-%E8%AA%A0%E4%BF%A1%E7%96%91%E5%86%8D%E7%A0%B4%E7%94%A2-18%E5%AD%97%E5%86%8D%E5%9B%9E%E6%87%89",
     "timestamp": "2026-03-01T10:00:47.883Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "鍾柔美被揭戴劉展霆「訂情信物」誠信疑再破產　18字再回應",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260301/1104818050403667968047586.jpeg/xzcrCo7SSI-o1-cfxMujKuHptRK9WeE5MUXYoTFF2KE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60326201/%E9%8D%BE%E6%9F%94%E7%BE%8E%E8%A2%AB%E6%8F%AD%E6%88%B4%E5%8A%89%E5%B1%95%E9%9C%86-%E8%A8%82%E6%83%85%E4%BF%A1%E7%89%A9-%E8%AA%A0%E4%BF%A1%E7%96%91%E5%86%8D%E7%A0%B4%E7%94%A2-18%E5%AD%97%E5%86%8D%E5%9B%9E%E6%87%89",
-    "timestamp": "2026-03-01T09:50:05.655Z",
     "strategy": ".content-card__main"
   }
 ];
