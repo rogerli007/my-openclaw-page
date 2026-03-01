@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-01T19:55:56.903Z
+// Last updated: 2026-03-01T20:14:00.169Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "伊朗局勢｜阿布扎比及杜拜要求酒店　為滯留當地旅客延長住宿服務",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260302/1104985236879446016613574.jpeg/4GEbdqMZTZ_srMb0MNeI3TH9XS0y01M6kQwk6ZEMJOk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60326316/%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8B%A2-%E9%98%BF%E5%B8%83%E6%89%8E%E6%AF%94%E5%8F%8A%E6%9D%9C%E6%8B%9C%E8%A6%81%E6%B1%82%E9%85%92%E5%BA%97-%E7%82%BA%E6%BB%AF%E7%95%99%E7%95%B6%E5%9C%B0%E6%97%85%E5%AE%A2%E5%BB%B6%E9%95%B7%E4%BD%8F%E5%AE%BF%E6%9C%8D%E5%8B%99",
+    "timestamp": "2026-03-01T20:14:00.169Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "路透社民調：僅27%美國人支持打擊伊朗　56%指特朗普過份熱衷動武",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260301/1104847569533538304512490.jpeg/O3kY7exuY2NH1jrs5svjPGlpKLeZcSnvmeww3pnsMN4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60326224/%E9%82%B1%E6%99%B4%E5%AF%8C%E5%9C%8B%E5%B3%B6%E6%B0%B4%E8%91%97%E6%94%BE%E9%A1%8C-%E6%AF%94%E5%A0%85%E5%B0%BC%E6%B5%B8%E6%B3%A5%E6%BC%BF%E6%B5%B4%E9%87%8D%E7%8F%BE%E9%AB%98%E6%B5%B7%E5%AF%A7%E9%9C%87%E6%92%BC%E5%90%8D%E5%A0%B4%E9%9D%A2",
     "timestamp": "2026-03-01T12:38:53.410Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "臥底嬌娃｜伍仲衡現身做刻薄評審終和好？　前年年底被狠飛出節目",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260301/1104860640662523904863217.jpeg/MHwWCi0O6otKl7A9qwp0SgbxDgZgk7Dm9HrduPR63bg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60326250/%E8%87%A5%E5%BA%95%E5%AC%8C%E5%A8%83-%E4%BC%8D%E4%BB%B2%E8%A1%A1%E7%8F%BE%E8%BA%AB%E5%81%9A%E5%88%BB%E8%96%84%E8%A9%95%E5%AF%A9%E7%B5%82%E5%92%8C%E5%A5%BD-%E5%89%8D%E5%B9%B4%E5%B9%B4%E5%BA%95%E8%A2%AB%E7%8B%A0%E9%A3%9B%E5%87%BA%E7%AF%80%E7%9B%AE",
-    "timestamp": "2026-03-01T12:19:36.952Z",
     "strategy": ".content-card__main"
   }
 ];
