@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-01T11:13:25.031Z
+// Last updated: 2026-03-01T11:30:12.345Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "臥底嬌娃｜張曦雯緊身瑜伽服搶鏡　爆與羅毓儀「最萌身高差」辛酸",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260301/1104848448785485824958137.jpeg/Hh7grq8Ff2x6XxTFhCXSUY8bgWyBObXZDpmqtg6ZqrY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60326232/%E8%87%A5%E5%BA%95%E5%AC%8C%E5%A8%83-%E5%BC%B5%E6%9B%A6%E9%9B%AF%E7%B7%8A%E8%BA%AB%E7%91%9C%E4%BC%BD%E6%9C%8D%E6%90%B6%E9%8F%A1-%E7%88%86%E8%88%87%E7%BE%85%E6%AF%93%E5%84%80-%E6%9C%80%E8%90%8C%E8%BA%AB%E9%AB%98%E5%B7%AE-%E8%BE%9B%E9%85%B8",
+    "timestamp": "2026-03-01T11:30:12.345Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "元朗16歲少年捱打｜遭4男圍毆半分鐘掠iPhone　其中兩疑犯落網",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/916075/org/f09f172c3a4fd41d0e03e761fd297160.jpg/zOvrUBAmGaP3wcJMbUiNYkvYgK7CtzylpF3v56Rd7-c?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60293400/%E6%B7%B1%E5%9C%B3%E6%89%93%E5%B7%A5%E4%BB%94%E6%8B%92%E5%86%8D%E9%80%BC%E5%9C%B0%E9%90%B5-%E7%B4%9B%E6%94%B9%E6%90%AD%E9%AB%98%E9%90%B5-%E6%9C%89%E4%BA%BA%E8%BB%8A%E8%B2%BB%E6%9B%B4%E4%BD%8E%E5%96%AE%E7%A8%8B%E5%8F%AF%E5%BF%AB40%E5%88%86%E9%90%98",
     "timestamp": "2026-03-01T01:44:56.457Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "屯門美樂花園數人揮拳互毆　1男1女受傷",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260301/1104699990233583616081943.jpeg/V4mphBzAIUAd99jBotD9F7fzrr69t4na00b1hNNG9YQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60326098/%E5%B1%AF%E9%96%80%E7%BE%8E%E6%A8%82%E8%8A%B1%E5%9C%92%E6%95%B8%E4%BA%BA%E6%8F%AE%E6%8B%B3%E4%BA%92%E6%AF%86-1%E7%94%B71%E5%A5%B3%E5%8F%97%E5%82%B7",
-    "timestamp": "2026-03-01T00:54:46.684Z",
     "strategy": ".content-card__main"
   }
 ];
