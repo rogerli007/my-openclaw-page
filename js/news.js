@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-01T04:36:51.772Z
+// Last updated: 2026-03-01T05:18:14.363Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "伊朗局勢｜保險業界：戰爭多數不受保　惟戰前已在當地料可獲理賠",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260228/1104434910782951424701536.jpeg/cm40CGdtaEW8PgSf8C9hgQZALctQEKam2iyU0NoslNA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60326133/%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8B%A2-%E4%BF%9D%E9%9A%AA%E6%A5%AD%E7%95%8C-%E6%88%B0%E7%88%AD%E5%A4%9A%E6%95%B8%E4%B8%8D%E5%8F%97%E4%BF%9D-%E6%83%9F%E6%88%B0%E5%89%8D%E5%B7%B2%E5%9C%A8%E7%95%B6%E5%9C%B0%E6%96%99%E5%8F%AF%E7%8D%B2%E7%90%86%E8%B3%A0",
+    "timestamp": "2026-03-01T05:18:14.363Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "曾俊華遊長洲有感：話市道樂觀係咪平衡時空？北都足夠救全家？",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260228/1104558171738869760043956.jpeg/8HCxaoTpe4Y5toCSrzFK0vTS6mHg2BjrRL6HxkS-h8Y?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60326077/60%E6%AD%B2%E7%BE%85%E9%9C%96%E5%85%A7%E5%9C%B0%E9%96%8B%E5%B7%A5%E7%AA%81%E7%99%BC%E5%85%A5%E6%80%A5%E7%97%87-%E5%8D%8A%E5%A4%9C%E7%AA%92%E6%81%AF-%E4%BB%A5%E7%82%BA%E4%BF%82%E5%B0%8F%E6%84%9F%E5%86%92",
     "timestamp": "2026-02-28T16:14:32.392Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "以色列美國空襲伊朗　革命衛隊稱導彈擊中美軍戰鬥支援艦",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260228/1104561619444174848514378.png/VZ4r5hQJ9gr0WwmeTi2PxfSo4FufFRGz025qNNNuajQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60326074/%E4%BB%A5%E8%89%B2%E5%88%97%E7%BE%8E%E5%9C%8B%E7%A9%BA%E8%A5%B2%E4%BC%8A%E6%9C%97-%E9%9D%A9%E5%91%BD%E8%A1%9B%E9%9A%8A%E7%A8%B1%E5%B0%8E%E5%BD%88%E6%93%8A%E4%B8%AD%E7%BE%8E%E8%BB%8D%E6%88%B0%E9%AC%A5%E6%94%AF%E6%8F%B4%E8%89%A6",
-    "timestamp": "2026-02-28T15:44:17.161Z",
     "strategy": ".content-card__main"
   }
 ];
