@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-01T17:15:54.858Z
+// Last updated: 2026-03-01T17:45:39.418Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美國德州酒吧槍擊案　包括槍手3死另14人傷　當局指疑涉恐怖主義",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260302/1104953587684872192047531.jpeg/C7zxJaoE-cRyNH8knW2ia9PY46AzxONMDzcqnQ83Kp0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60326308/%E7%BE%8E%E5%9C%8B%E5%BE%B7%E5%B7%9E%E9%85%92%E5%90%A7%E6%A7%8D%E6%93%8A%E6%A1%88-%E5%8C%85%E6%8B%AC%E6%A7%8D%E6%89%8B3%E6%AD%BB%E5%8F%A614%E4%BA%BA%E5%82%B7-%E7%95%B6%E5%B1%80%E6%8C%87%E7%96%91%E6%B6%89%E6%81%90%E6%80%96%E4%B8%BB%E7%BE%A9",
+    "timestamp": "2026-03-01T17:45:39.418Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "伊朗外長：對緩和局勢建議態度開放　無意攻擊鄰國　旨在美軍基地",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260301/1104793078654308352615403.jpeg/Md6efheYKivGw8VPJ2FF8yOooqUw2r-dcC_r9nAv6_Y?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60326069/%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8B%A2%E6%9C%80%E6%B6%88%E6%81%AF-%E9%A6%99%E6%B8%AF%E6%A9%9F%E5%A0%B4%E5%A4%9A%E8%88%AA%E7%8F%AD%E5%8F%96%E6%B6%88-%E6%B6%89%E6%9D%9C%E6%8B%9C%E5%A4%9A%E5%93%88-%E9%99%84%E5%85%A8%E5%90%8D%E5%96%AE",
     "timestamp": "2026-03-01T10:31:47.987Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "哈梅內伊死亡｜胡錫進：無論誰上台　伊朗的變化都有可能發生",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260301/1104841428481085440450869.jpeg/tX-kx6BeWqq_7JNPQtWJxli5TJ0zE6Mu9PGbnPTxm5w?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60326229/%E5%93%88%E6%A2%85%E5%85%A7%E4%BC%8A%E6%AD%BB%E4%BA%A1-%E8%83%A1%E9%8C%AB%E9%80%B2-%E7%84%A1%E8%AB%96%E8%AA%B0%E4%B8%8A%E5%8F%B0-%E4%BC%8A%E6%9C%97%E7%9A%84%E8%AE%8A%E5%8C%96%E9%83%BD%E6%9C%89%E5%8F%AF%E8%83%BD%E7%99%BC%E7%94%9F",
-    "timestamp": "2026-03-01T10:15:56.559Z",
     "strategy": ".content-card__main"
   }
 ];
