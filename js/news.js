@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-01T11:42:42.510Z
+// Last updated: 2026-03-01T11:56:25.970Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "路透：霍爾木茲兩側積壓逾百油輪　據報有郵輪試圖通過海峽被擊中",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260301/1104867332368371712183042.jpeg/ovKIAvx5egXZ_0Kx4g9PwtHnFEjiIT5yQ0cWDUNHFg0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60326258/%E8%B7%AF%E9%80%8F-%E9%9C%8D%E7%88%BE%E6%9C%A8%E8%8C%B2%E5%85%A9%E5%81%B4%E7%A9%8D%E5%A3%93%E9%80%BE%E7%99%BE%E6%B2%B9%E8%BC%AA-%E6%93%9A%E5%A0%B1%E6%9C%89%E9%83%B5%E8%BC%AA%E8%A9%A6%E5%9C%96%E9%80%9A%E9%81%8E%E6%B5%B7%E5%B3%BD%E8%A2%AB%E6%93%8A%E4%B8%AD",
+    "timestamp": "2026-03-01T11:56:25.970Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "一周星星︱重溫震波枚張繼聰禁女兒觀看　陳家樂一特質被老婆大讚",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260225/1103386375329157120219368.png/2GzbwNXIK8r2pLbPkrTTpTEZph2F4GliXJYYRVyWGEU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A9%BF%E6%90%AD%E7%AD%86%E8%A8%98/60325039/uniqlo%E4%BF%9D%E6%9A%96%E8%A1%A3%E6%B4%97%E9%8C%AF%E6%9C%83%E5%A4%B1%E6%95%88-%E5%AE%98%E6%96%B9%E6%9B%9D%E4%BF%9D%E5%AD%98%E6%9C%9F%E9%99%90-3%E6%8B%9B%E6%B4%97%E8%AD%B7%E6%96%B9%E6%B3%95%E5%BB%B6%E9%95%B7%E5%A3%BD%E5%91%BD",
     "timestamp": "2026-03-01T03:46:27.125Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "簡樸房｜登記期今展開　房屋局料無大規模退場　將設樣板房供參考",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250808/1030564801551536128957024.jpeg/o9w37bY_aINyISWdaeRYIi09kVwF5bGYRh5yFUYechU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60326113/%E7%B0%A1%E6%A8%B8%E6%88%BF-%E7%99%BB%E8%A8%98%E6%9C%9F%E4%BB%8A%E5%B1%95%E9%96%8B-%E6%88%BF%E5%B1%8B%E5%B1%80%E6%96%99%E7%84%A1%E5%A4%A7%E8%A6%8F%E6%A8%A1%E9%80%80%E5%A0%B4-%E5%B0%87%E8%A8%AD%E6%A8%A3%E6%9D%BF%E6%88%BF%E4%BE%9B%E5%8F%83%E8%80%83",
-    "timestamp": "2026-03-01T02:48:43.551Z",
     "strategy": ".content-card__main"
   }
 ];
