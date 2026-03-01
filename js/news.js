@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-01T10:48:36.126Z
+// Last updated: 2026-03-01T11:13:25.031Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "元朗16歲少年捱打｜遭4男圍毆半分鐘掠iPhone　其中兩疑犯落網",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260227/1104037764468314112810597.jpeg/5ox4NNEy8ZVeYFAHetQYVfhKA62hgebllv9dZpb_XWY",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60326245/%E5%85%83%E6%9C%9716%E6%AD%B2%E5%B0%91%E5%B9%B4%E6%8D%B1%E6%89%93-%E9%81%AD4%E7%94%B7%E5%9C%8D%E6%AF%86%E5%8D%8A%E5%88%86%E9%90%98%E6%8E%A0iphone-%E5%85%B6%E4%B8%AD%E5%85%A9%E7%96%91%E7%8A%AF%E8%90%BD%E7%B6%B2",
+    "timestamp": "2026-03-01T11:13:25.031Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "有片｜土瓜灣樓上美容店失火濃煙沖天　內部天花牆身熏黑",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260301/1104699990233583616081943.jpeg/V4mphBzAIUAd99jBotD9F7fzrr69t4na00b1hNNG9YQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60326098/%E5%B1%AF%E9%96%80%E7%BE%8E%E6%A8%82%E8%8A%B1%E5%9C%92%E6%95%B8%E4%BA%BA%E6%8F%AE%E6%8B%B3%E4%BA%92%E6%AF%86-1%E7%94%B71%E5%A5%B3%E5%8F%97%E5%82%B7",
     "timestamp": "2026-03-01T00:54:46.684Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普：攻打伊朗因對方無意達成協議　軍事行動隨時可結束",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260228/1104248752656355328960572.jpeg/C5eG2ANxLcDh3sRk3JI5D-I3GnXyIzT7PRussD0brLA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60326094/%E7%89%B9%E6%9C%97%E6%99%AE-%E6%94%BB%E6%89%93%E4%BC%8A%E6%9C%97%E5%9B%A0%E5%B0%8D%E6%96%B9%E7%84%A1%E6%84%8F%E9%81%94%E6%88%90%E5%8D%94%E8%AD%B0-%E8%BB%8D%E4%BA%8B%E8%A1%8C%E5%8B%95%E9%9A%A8%E6%99%82%E5%8F%AF%E7%B5%90%E6%9D%9F",
-    "timestamp": "2026-02-28T22:57:59.247Z",
     "strategy": ".content-card__main"
   }
 ];
