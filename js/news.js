@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-01T23:45:00.309Z
+// Last updated: 2026-03-01T23:57:40.082Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "「TVB冷板凳視后」懶理是非晒出浴照　渾身濕透有如出水芙蓉",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260301/1104893186662207488209384.jpeg/uNsihJ8Vx8Is9A9p1IGiGqmX-Ip7uJM22Gy9P9hsvT8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60326282/tvb%E5%86%B7%E6%9D%BF%E5%87%B3%E8%A6%96%E5%90%8E-%E6%87%B6%E7%90%86%E6%98%AF%E9%9D%9E%E6%99%92%E5%87%BA%E6%B5%B4%E7%85%A7-%E6%B8%BE%E8%BA%AB%E6%BF%95%E9%80%8F%E6%9C%89%E5%A6%82%E5%87%BA%E6%B0%B4%E8%8A%99%E8%93%89",
+    "timestamp": "2026-03-01T23:57:40.082Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "「TVB冷板凳視后」懶理是非晒出浴照　渾身濕透有如出水芙蓉",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250419/990087909874864128186479.jpeg/obJQuLu0NoxEplXlHlSpQMjA9W0sVDEPqKl7Gaipexk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60326305/%E4%BC%8A%E6%9C%97%E5%A4%96%E9%95%B7-%E5%B0%8D%E7%B7%A9%E5%92%8C%E5%B1%80%E5%8B%A2%E5%BB%BA%E8%AD%B0%E6%85%8B%E5%BA%A6%E9%96%8B%E6%94%BE-%E7%84%A1%E6%84%8F%E6%94%BB%E6%93%8A%E9%84%B0%E5%9C%8B-%E6%97%A8%E5%9C%A8%E7%BE%8E%E8%BB%8D%E5%9F%BA%E5%9C%B0",
     "timestamp": "2026-03-01T17:15:54.858Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "伊朗外長：對緩和局勢建議態度開放　無意攻擊鄰國　旨在美軍基地",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250419/990087909874864128186479.jpeg/obJQuLu0NoxEplXlHlSpQMjA9W0sVDEPqKl7Gaipexk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60326305/%E4%BC%8A%E6%9C%97%E5%A4%96%E9%95%B7-%E5%B0%8D%E7%B7%A9%E5%92%8C%E5%B1%80%E5%8B%A2%E5%BB%BA%E8%AD%B0%E6%85%8B%E5%BA%A6%E9%96%8B%E6%94%BE-%E7%84%A1%E6%84%8F%E6%94%BB%E6%93%8A%E9%84%B0%E5%9C%8B-%E6%97%A8%E5%9C%A8%E7%BE%8E%E8%BB%8D%E5%9F%BA%E5%9C%B0",
-    "timestamp": "2026-03-01T17:01:24.684Z",
     "strategy": ".content-card__main"
   }
 ];
