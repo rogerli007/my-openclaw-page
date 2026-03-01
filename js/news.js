@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-01T11:56:25.970Z
+// Last updated: 2026-03-01T12:19:36.952Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "臥底嬌娃｜伍仲衡現身做刻薄評審終和好？　前年年底被狠飛出節目",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260301/1104860640662523904863217.jpeg/MHwWCi0O6otKl7A9qwp0SgbxDgZgk7Dm9HrduPR63bg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60326250/%E8%87%A5%E5%BA%95%E5%AC%8C%E5%A8%83-%E4%BC%8D%E4%BB%B2%E8%A1%A1%E7%8F%BE%E8%BA%AB%E5%81%9A%E5%88%BB%E8%96%84%E8%A9%95%E5%AF%A9%E7%B5%82%E5%92%8C%E5%A5%BD-%E5%89%8D%E5%B9%B4%E5%B9%B4%E5%BA%95%E8%A2%AB%E7%8B%A0%E9%A3%9B%E5%87%BA%E7%AF%80%E7%9B%AE",
+    "timestamp": "2026-03-01T12:19:36.952Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "路透：霍爾木茲兩側積壓逾百油輪　據報有郵輪試圖通過海峽被擊中",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250525/1003277623364685824605824.jpeg/xvrZi7NCCHQ7R5Psc9hFnJKRpvEnMmu9D2tdHg9rXR4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60326128/%E6%9B%BE%E4%BF%8A%E8%8F%AF%E9%81%8A%E9%95%B7%E6%B4%B2%E6%9C%89%E6%84%9F-%E8%A9%B1%E5%B8%82%E9%81%93%E6%A8%82%E8%A7%80%E4%BF%82%E5%92%AA%E5%B9%B3%E8%A1%A1%E6%99%82%E7%A9%BA-%E5%8C%97%E9%83%BD%E8%B6%B3%E5%A4%A0%E6%95%91%E5%85%A8%E5%AE%B6",
     "timestamp": "2026-03-01T04:36:51.772Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "UNIQLO保暖衣洗錯會失效？官方曝保存期限　3招洗護方法延長壽命",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260225/1103386375329157120219368.png/2GzbwNXIK8r2pLbPkrTTpTEZph2F4GliXJYYRVyWGEU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A9%BF%E6%90%AD%E7%AD%86%E8%A8%98/60325039/uniqlo%E4%BF%9D%E6%9A%96%E8%A1%A3%E6%B4%97%E9%8C%AF%E6%9C%83%E5%A4%B1%E6%95%88-%E5%AE%98%E6%96%B9%E6%9B%9D%E4%BF%9D%E5%AD%98%E6%9C%9F%E9%99%90-3%E6%8B%9B%E6%B4%97%E8%AD%B7%E6%96%B9%E6%B3%95%E5%BB%B6%E9%95%B7%E5%A3%BD%E5%91%BD",
-    "timestamp": "2026-03-01T03:46:27.125Z",
     "strategy": ".content-card__main"
   }
 ];
