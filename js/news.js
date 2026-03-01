@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-01T01:44:56.457Z
+// Last updated: 2026-03-01T02:48:43.551Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "簡樸房｜登記期今展開　房屋局料無大規模退場　將設樣板房供參考",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250808/1030564801551536128957024.jpeg/o9w37bY_aINyISWdaeRYIi09kVwF5bGYRh5yFUYechU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60326113/%E7%B0%A1%E6%A8%B8%E6%88%BF-%E7%99%BB%E8%A8%98%E6%9C%9F%E4%BB%8A%E5%B1%95%E9%96%8B-%E6%88%BF%E5%B1%8B%E5%B1%80%E6%96%99%E7%84%A1%E5%A4%A7%E8%A6%8F%E6%A8%A1%E9%80%80%E5%A0%B4-%E5%B0%87%E8%A8%AD%E6%A8%A3%E6%9D%BF%E6%88%BF%E4%BE%9B%E5%8F%83%E8%80%83",
+    "timestamp": "2026-03-01T02:48:43.551Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "深圳打工仔拒再逼地鐵　紛改搭高鐵　有人車費更低單程可快40分鐘",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260228/1104543216297840640159328.jpeg/zpW7QFYIOnszb2BDnfzwRVFXWRqHIvBHa-hJEWvoSRE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60326067/wtt%E6%96%B0%E5%8A%A0%E5%9D%A1%E5%A4%A7%E6%BB%BF%E8%B2%AB%E7%9B%B4%E6%93%8A-%E8%88%87%E5%AD%AB%E7%A9%8E%E8%8E%8E%E7%9A%84%E4%B8%AD%E6%B8%AF%E6%98%9F%E9%A6%AC%E7%90%83%E8%BF%B7%E5%B0%8D%E8%AB%87-%E8%B6%B3%E8%AA%AA%E4%B8%89%E5%A4%A9%E4%B8%89%E5%A4%9C",
     "timestamp": "2026-02-28T14:45:27.298Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "視后蔡思貝疑被TVB官網正式除名　傳猛人照顧2年冇拍劇仍生活無憂",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260228/1104541129266696192746839.png/1rr8xJe03g5VHSkYjGLIHpHhTHFdafHIuk4-YLpOPmA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60326066/%E8%A6%96%E5%90%8E%E8%94%A1%E6%80%9D%E8%B2%9D%E7%96%91%E8%A2%ABtvb%E5%AE%98%E7%B6%B2%E6%AD%A3%E5%BC%8F%E9%99%A4%E5%90%8D-%E5%82%B3%E7%8C%9B%E4%BA%BA%E7%85%A7%E9%A1%A72%E5%B9%B4%E5%86%87%E6%8B%8D%E5%8A%87%E4%BB%8D%E7%94%9F%E6%B4%BB%E7%84%A1%E6%86%82",
-    "timestamp": "2026-02-28T14:30:10.279Z",
     "strategy": ".content-card__main"
   }
 ];
