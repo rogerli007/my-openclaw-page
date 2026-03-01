@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-01T03:46:27.125Z
+// Last updated: 2026-03-01T04:36:51.772Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "曾俊華遊長洲有感：話市道樂觀係咪平衡時空？北都足夠救全家？",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250525/1003277623364685824605824.jpeg/xvrZi7NCCHQ7R5Psc9hFnJKRpvEnMmu9D2tdHg9rXR4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60326128/%E6%9B%BE%E4%BF%8A%E8%8F%AF%E9%81%8A%E9%95%B7%E6%B4%B2%E6%9C%89%E6%84%9F-%E8%A9%B1%E5%B8%82%E9%81%93%E6%A8%82%E8%A7%80%E4%BF%82%E5%92%AA%E5%B9%B3%E8%A1%A1%E6%99%82%E7%A9%BA-%E5%8C%97%E9%83%BD%E8%B6%B3%E5%A4%A0%E6%95%91%E5%85%A8%E5%AE%B6",
+    "timestamp": "2026-03-01T04:36:51.772Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "UNIQLO保暖衣洗錯會失效？官方曝保存期限　3招洗護方法延長壽命",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260228/1104561619444174848514378.png/VZ4r5hQJ9gr0WwmeTi2PxfSo4FufFRGz025qNNNuajQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60326074/%E4%BB%A5%E8%89%B2%E5%88%97%E7%BE%8E%E5%9C%8B%E7%A9%BA%E8%A5%B2%E4%BC%8A%E6%9C%97-%E9%9D%A9%E5%91%BD%E8%A1%9B%E9%9A%8A%E7%A8%B1%E5%B0%8E%E5%BD%88%E6%93%8A%E4%B8%AD%E7%BE%8E%E8%BB%8D%E6%88%B0%E9%AC%A5%E6%94%AF%E6%8F%B4%E8%89%A6",
     "timestamp": "2026-02-28T15:44:17.161Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "台灣辣模銅鑼灣鬧市當眾除底褲　影片流出引網民熱議：看不懂！",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260227/1104202318829588480315048.jpeg/Qi45O0f4ERlmyX9HgzsIS8rKfYK32FoILCYPICwmDyA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E5%A8%9B%E6%A8%82/60325856/%E5%8F%B0%E7%81%A3%E8%BE%A3%E6%A8%A1%E9%8A%85%E9%91%BC%E7%81%A3%E9%AC%A7%E5%B8%82%E7%95%B6%E7%9C%BE%E9%99%A4%E5%BA%95%E8%A4%B2-%E5%BD%B1%E7%89%87%E6%B5%81%E5%87%BA%E5%BC%95%E7%B6%B2%E6%B0%91%E7%86%B1%E8%AD%B0-%E7%9C%8B%E4%B8%8D%E6%87%82",
-    "timestamp": "2026-02-28T15:13:24.181Z",
     "strategy": ".content-card__main"
   }
 ];
