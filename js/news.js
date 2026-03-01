@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-01T09:16:27.915Z
+// Last updated: 2026-03-01T09:33:13.845Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "伊朗自殺式無人機襲杜拜機場　客運大樓煙霧瀰漫　傳有人血流披面",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260301/1104584165208100864530792.jpeg/sVQXUYeBXH7bDUijLSkloNHBycu5AUbKkCcMppAnDKY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60326196/%E4%BC%8A%E6%9C%97%E8%87%AA%E6%AE%BA%E5%BC%8F%E7%84%A1%E4%BA%BA%E6%A9%9F%E8%A5%B2%E6%9D%9C%E6%8B%9C%E6%A9%9F%E5%A0%B4-%E5%AE%A2%E9%81%8B%E5%A4%A7%E6%A8%93%E7%85%99%E9%9C%A7%E7%80%B0%E6%BC%AB-%E5%82%B3%E6%9C%89%E4%BA%BA%E8%A1%80%E6%B5%81%E6%8A%AB%E9%9D%A2",
+    "timestamp": "2026-03-01T09:33:13.845Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "鄧翠珊: 八達通成的士電子支付龍頭 逾4萬司機裝機 交易飆升6成半",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260301/1104612796772913152461273.jpeg/Hju2XCHMeDrIDekCR0xdyi5xRP8RnAD3CcBOTQnATk0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60326085/%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8B%A2-%E5%B7%B4%E6%9E%97%E5%A4%A7%E6%A8%93%E9%81%AD%E4%BC%8A%E7%84%A1%E4%BA%BA%E6%A9%9F%E8%A5%B2%E6%93%8A%E7%88%86%E7%82%B8-%E7%A7%91%E5%A8%81%E7%89%B9%E6%A9%9F%E5%A0%B4%E5%90%8C%E9%81%87%E8%A5%B2-%E6%9C%89%E7%89%87",
     "timestamp": "2026-02-28T20:14:05.116Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "吐露港公路2私家車相撞　1乘客受傷送院　交通一度受阻",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260301/1104604852454952960238917.jpeg/cRtXgLFS0zN5kvyf9BUBgbdPprrphrmtrJAFnKyQBZw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60326087/%E5%90%90%E9%9C%B2%E6%B8%AF%E5%85%AC%E8%B7%AF2%E7%A7%81%E5%AE%B6%E8%BB%8A%E7%9B%B8%E6%92%9E-1%E4%B9%98%E5%AE%A2%E5%8F%97%E5%82%B7%E9%80%81%E9%99%A2-%E4%BA%A4%E9%80%9A%E4%B8%80%E5%BA%A6%E5%8F%97%E9%98%BB",
-    "timestamp": "2026-02-28T19:13:52.296Z",
     "strategy": ".content-card__main"
   }
 ];
