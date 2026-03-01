@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-01T18:33:33.358Z
+// Last updated: 2026-03-01T18:54:25.040Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "英超｜阿仙奴2：1勝車路士　續居榜首領先曼城5分",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260302/1104966904256139264281359.jpeg/0_DrVvp9SMMzsxpSXDYrZlponb1nYNWMcbPc9HGz3PQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60326311/%E8%8B%B1%E8%B6%85-%E9%98%BF%E4%BB%99%E5%A5%B42-1%E5%8B%9D%E8%BB%8A%E8%B7%AF%E5%A3%AB-%E7%BA%8C%E5%B1%85%E6%A6%9C%E9%A6%96%E9%A0%98%E5%85%88%E6%9B%BC%E5%9F%8E5%E5%88%86",
+    "timestamp": "2026-03-01T18:54:25.040Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "以軍：已消滅伊朗及地區組織所有高層　以總理：打擊行動將升級",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260227/1104037764468314112810597.jpeg/5ox4NNEy8ZVeYFAHetQYVfhKA62hgebllv9dZpb_XWY",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60326245/%E5%85%83%E6%9C%9716%E6%AD%B2%E5%B0%91%E5%B9%B4%E6%8D%B1%E6%89%93-%E9%81%AD4%E7%94%B7%E5%9C%8D%E6%AF%86%E5%8D%8A%E5%88%86%E9%90%98%E6%8E%A0iphone-%E5%85%B6%E4%B8%AD%E5%85%A9%E7%96%91%E7%8A%AF%E8%90%BD%E7%B6%B2",
     "timestamp": "2026-03-01T11:13:25.031Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "有片｜土瓜灣樓上美容店失火濃煙沖天　內部天花牆身熏黑",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260301/1104848363381067776476129.png/1dWUf4ItLCe-NK8IcMTvmZqPWPJ6EP7cqgf7aKoH-2g",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60326237/%E6%9C%89%E7%89%87-%E5%9C%9F%E7%93%9C%E7%81%A3%E6%A8%93%E4%B8%8A%E7%BE%8E%E5%AE%B9%E5%BA%97%E5%A4%B1%E7%81%AB%E6%BF%83%E7%85%99%E6%B2%96%E5%A4%A9-%E5%85%A7%E9%83%A8%E5%A4%A9%E8%8A%B1%E7%89%86%E8%BA%AB%E7%86%8F%E9%BB%91",
-    "timestamp": "2026-03-01T10:48:36.126Z",
     "strategy": ".content-card__main"
   }
 ];
