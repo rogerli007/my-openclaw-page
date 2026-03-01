@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-01T15:59:46.154Z
+// Last updated: 2026-03-01T16:15:03.095Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "東張西望｜小巴司機被指躁狂直認不諱　搞笑回讚東張女神靚女溫柔",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260301/1104883777047367680810946.jpeg/pa59ePUlb3ZKQ4AqLQqQ3Q8hFhhTQAxqmZezJpmXsyY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60326272/%E6%9D%B1%E5%BC%B5%E8%A5%BF%E6%9C%9B-%E5%B0%8F%E5%B7%B4%E5%8F%B8%E6%A9%9F%E8%A2%AB%E6%8C%87%E8%BA%81%E7%8B%82%E7%9B%B4%E8%AA%8D%E4%B8%8D%E8%AB%B1-%E6%90%9E%E7%AC%91%E5%9B%9E%E8%AE%9A%E6%9D%B1%E5%BC%B5%E5%A5%B3%E7%A5%9E%E9%9D%9A%E5%A5%B3%E6%BA%AB%E6%9F%94",
+    "timestamp": "2026-03-01T16:15:03.095Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "多圖｜東涌見瀑布雲淹沒高山　霧銷香江見雲海　天文台料明早有霧",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260301/1104584165208100864530792.jpeg/sVQXUYeBXH7bDUijLSkloNHBycu5AUbKkCcMppAnDKY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60326196/%E4%BC%8A%E6%9C%97%E8%87%AA%E6%AE%BA%E5%BC%8F%E7%84%A1%E4%BA%BA%E6%A9%9F%E8%A5%B2%E6%9D%9C%E6%8B%9C%E6%A9%9F%E5%A0%B4-%E5%AE%A2%E9%81%8B%E5%A4%A7%E6%A8%93%E7%85%99%E9%9C%A7%E7%80%B0%E6%BC%AB-%E5%82%B3%E6%9C%89%E4%BA%BA%E8%A1%80%E6%B5%81%E6%8A%AB%E9%9D%A2",
     "timestamp": "2026-03-01T09:33:13.845Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "鄧翠珊: 八達通成的士電子支付龍頭 逾4萬司機裝機 交易飆升6成半",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260301/1104764431809646592185724.jpeg/EAhfWbo0sNpToYh8DNlcBL88xecRaItFHFnPaRxZz2k?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60325171/%E5%85%AB%E9%81%94%E9%80%9A%E6%88%90%E7%9A%84%E5%A3%AB%E9%9B%BB%E5%AD%90%E6%94%AF%E4%BB%98%E9%BE%8D%E9%A0%AD-%E9%80%BE4%E8%90%AC%E5%8F%B8%E6%A9%9F%E8%A3%9D%E6%A9%9F-%E4%BA%A4%E6%98%93%E9%A1%8D%E6%8C%89%E5%B9%B4%E9%A3%86%E5%8D%876%E6%88%90%E5%8D%8A",
-    "timestamp": "2026-03-01T09:16:27.915Z",
     "strategy": ".content-card__main"
   }
 ];
