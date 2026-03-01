@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-01T15:30:33.099Z
+// Last updated: 2026-03-01T15:50:43.370Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "多圖｜東涌見瀑布雲淹沒高山　霧銷香江見雲海　天文台料明早有霧",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260301/1104916448301551616584271.jpeg/jqGjexiXzSxLUkHk5eX6e28OLTUmvLIq5SJn1-UiZ9c?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60326298/%E5%A4%9A%E5%9C%96-%E6%9D%B1%E6%B6%8C%E8%A6%8B%E7%80%91%E5%B8%83%E9%9B%B2%E6%B7%B9%E6%B2%92%E9%AB%98%E5%B1%B1-%E9%9C%A7%E9%8A%B7%E9%A6%99%E6%B1%9F%E8%A6%8B%E9%9B%B2%E6%B5%B7-%E5%A4%A9%E6%96%87%E5%8F%B0%E6%96%99%E6%98%8E%E6%97%A9%E6%9C%89%E9%9C%A7",
+    "timestamp": "2026-03-01T15:50:43.370Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "伊朗局勢｜新華社評論：當炸彈落在校園　文明底線何在",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260301/1104799454571008000412785.png/CMLk5Kqh_ura5bA9NH6UdINPmCVNTmg4tyPoEbcj6BE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60326177/%E8%AB%BE%E5%A6%82%E7%97%85%E6%AF%92-%E4%BB%8A%E6%8A%B5%E6%B8%AF%E9%83%B5%E8%BC%AA%E5%A8%81%E5%A3%AB%E7%89%B9%E4%B8%B9%E8%99%9F76%E4%BA%BA%E4%B8%8A%E5%90%90%E4%B8%8B%E7%80%89-%E9%A6%96%E5%90%8D%E7%97%85%E4%BA%BA%E6%97%A5%E6%9C%AC%E7%99%BB%E8%88%B9",
     "timestamp": "2026-03-01T08:00:41.783Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "伊朗「不太可能」參與2026世界盃　如棄戰會由哪隊補上？︱足球",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260301/1104784260205645824938147.jpeg/k_RMmZFC44e7UucDo7bT4ZBtYuMBcgj27PHa-ezx2vk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60326166/%E4%BC%8A%E6%9C%97-%E4%B8%8D%E5%A4%AA%E5%8F%AF%E8%83%BD-%E5%8F%83%E8%88%872026%E4%B8%96%E7%95%8C%E7%9B%83-%E5%A6%82%E6%A3%84%E6%88%B0%E6%9C%83%E7%94%B1%E5%93%AA%E9%9A%8A%E8%A3%9C%E4%B8%8A-%E8%B6%B3%E7%90%83",
-    "timestamp": "2026-03-01T07:48:34.690Z",
     "strategy": ".content-card__main"
   }
 ];
