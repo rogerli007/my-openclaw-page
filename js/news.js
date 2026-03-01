@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-01T14:31:34.646Z
+// Last updated: 2026-03-01T14:52:03.157Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "杜拜受襲　中國女戴頭盔頸枕打地鋪：炮彈打到家門口來了　我怕死",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260301/1104907329528139776537920.jpeg/ovVC-B1V1XcvdMWvlZd1ffFRHHpouZeHh3VCSId1Qkg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60326288/%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8B%A2-%E6%9D%9C%E6%8B%9C%E5%8F%97%E8%A5%B2-%E4%B8%AD%E5%9C%8B%E5%A5%B3%E6%88%B4%E9%A0%AD%E7%9B%94%E9%A0%B8%E6%9E%95%E6%89%93%E5%9C%B0%E9%8B%AA-%E7%82%AE%E5%BD%88%E6%89%93%E5%88%B0%E5%AE%B6%E9%96%80%E5%8F%A3%E4%BA%86",
+    "timestamp": "2026-03-01T14:52:03.157Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "SEVENTEEN演唱會｜入境處拘捕4名流動小販懷疑黑工　介乎22至49歲",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260301/1104792958730768384827539.jpeg/Kb0ctOSyLn7Gs52cW0C4ozSf55iXu9ATl2MxgZdjMYE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60326174/%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8B%A2-%E5%B0%88%E5%AE%B6%E6%8F%AD%E7%A7%98%E7%BE%8E%E4%BB%A5-%E5%85%89%E5%A4%A9%E5%8C%96%E6%97%A5%E5%8B%95%E6%AD%A6-%E5%8F%8D%E5%B8%B8%E6%88%B0%E8%A1%93-%E8%B5%A4%E8%A3%B8%E8%A3%B8%E7%82%AB%E8%80%80%E6%AD%A6%E5%8A%9B",
     "timestamp": "2026-03-01T06:59:30.206Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "醫善同行｜及早發現聽力問題的重要性",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260301/1104773379648393216978602.jpeg/_6Q2EkZ3waZKsYWdRx1BNZhTV4TXmbQ8TZRAuk2UQLo?v=w1920r16_9",
-    "url": "https://www.hk01.com/01%E8%AB%96%E5%A3%87/60326157/%E9%86%AB%E5%96%84%E5%90%8C%E8%A1%8C-%E5%8F%8A%E6%97%A9%E7%99%BC%E7%8F%BE%E8%81%BD%E5%8A%9B%E5%95%8F%E9%A1%8C%E7%9A%84%E9%87%8D%E8%A6%81%E6%80%A7",
-    "timestamp": "2026-03-01T06:08:29.963Z",
     "strategy": ".content-card__main"
   }
 ];
