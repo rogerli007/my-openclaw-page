@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-01T20:14:00.169Z
+// Last updated: 2026-03-01T20:31:30.409Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "皇后山操普通話童黨狂摑女童　圍觀黨羽突亮氣槍　持電話拍下過程",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260302/1104983495987433472230891.jpeg/bDSO4RQKW5byq36ofdI4kfpxsVzkr-oRTIQmv0yEJr8",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60326317/%E7%9A%87%E5%90%8E%E5%B1%B1%E6%93%8D%E6%99%AE%E9%80%9A%E8%A9%B1%E7%AB%A5%E9%BB%A8%E7%8B%82%E6%91%91%E5%A5%B3%E7%AB%A5-%E5%9C%8D%E8%A7%80%E9%BB%A8%E7%BE%BD%E7%AA%81%E4%BA%AE%E6%B0%A3%E6%A7%8D-%E6%8C%81%E9%9B%BB%E8%A9%B1%E6%8B%8D%E4%B8%8B%E9%81%8E%E7%A8%8B",
+    "timestamp": "2026-03-01T20:31:30.409Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "伊朗局勢｜阿布扎比及杜拜要求酒店　為滯留當地旅客延長住宿服務",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260119/1089989187194589184532874.jpeg/sBBziYI6vp2xQVhXTmGodB7RiM3mbu5lriPFa5QjxWs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60326269/%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8B%A2-%E9%A6%99%E6%B8%AF%E9%83%B5%E6%94%BF-%E9%91%91%E6%96%BC%E8%88%AA%E7%8F%AD%E5%81%9C%E9%A3%9B-%E5%8D%B3%E6%99%82%E6%9A%AB%E5%81%9C%E5%BE%80%E4%B8%AD%E6%9D%B1%E7%AD%89%E5%9C%B0%E7%A9%BA%E9%83%B5%E6%9C%8D%E5%8B%99",
     "timestamp": "2026-03-01T13:12:54.913Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "邱晴富國島水著放題　比堅尼浸泥漿浴重現高海寧震撼名場面",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260301/1104847569533538304512490.jpeg/O3kY7exuY2NH1jrs5svjPGlpKLeZcSnvmeww3pnsMN4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60326224/%E9%82%B1%E6%99%B4%E5%AF%8C%E5%9C%8B%E5%B3%B6%E6%B0%B4%E8%91%97%E6%94%BE%E9%A1%8C-%E6%AF%94%E5%A0%85%E5%B0%BC%E6%B5%B8%E6%B3%A5%E6%BC%BF%E6%B5%B4%E9%87%8D%E7%8F%BE%E9%AB%98%E6%B5%B7%E5%AF%A7%E9%9C%87%E6%92%BC%E5%90%8D%E5%A0%B4%E9%9D%A2",
-    "timestamp": "2026-03-01T12:38:53.410Z",
     "strategy": ".content-card__main"
   }
 ];
