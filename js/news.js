@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-01T07:26:17.219Z
+// Last updated: 2026-03-01T07:48:34.690Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "伊朗「不太可能」參與2026世界盃　如棄戰會由哪隊補上？︱足球",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260301/1104784260205645824938147.jpeg/k_RMmZFC44e7UucDo7bT4ZBtYuMBcgj27PHa-ezx2vk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60326166/%E4%BC%8A%E6%9C%97-%E4%B8%8D%E5%A4%AA%E5%8F%AF%E8%83%BD-%E5%8F%83%E8%88%872026%E4%B8%96%E7%95%8C%E7%9B%83-%E5%A6%82%E6%A3%84%E6%88%B0%E6%9C%83%E7%94%B1%E5%93%AA%E9%9A%8A%E8%A3%9C%E4%B8%8A-%E8%B6%B3%E7%90%83",
+    "timestamp": "2026-03-01T07:48:34.690Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "伊朗局勢｜霍爾木茲海峽成焦點：運油輪掉頭　或衝擊全球經濟",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260301/1104586949210935296586429.jpeg/7ehVXKKUuppZkbWg6wggxXfoSLcEPZNVr2nF9pVpxfY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60326080/%E7%BE%8E%E4%BB%A5%E8%A5%B2%E4%BC%8A%E6%9C%97-%E8%88%AA%E7%8F%AD%E9%81%B21%E5%B0%8F%E6%99%82%E8%B5%B7%E9%A3%9B-%E6%9C%AC%E6%B8%AF%E5%B0%8F%E5%AD%B8%E9%81%8A%E5%AD%B8%E5%9C%98%E5%81%95%E4%B9%98%E5%AE%A2%E5%B9%B3%E5%AE%89%E6%8A%B5%E6%B8%AF",
     "timestamp": "2026-02-28T18:16:00.141Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美以襲伊朗｜航班遲1小時起飛　本港小學遊學團偕乘客平安抵港",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260301/1104586949210935296586429.jpeg/7ehVXKKUuppZkbWg6wggxXfoSLcEPZNVr2nF9pVpxfY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60326080/%E7%BE%8E%E4%BB%A5%E8%A5%B2%E4%BC%8A%E6%9C%97-%E8%88%AA%E7%8F%AD%E9%81%B21%E5%B0%8F%E6%99%82%E8%B5%B7%E9%A3%9B-%E6%9C%AC%E6%B8%AF%E5%B0%8F%E5%AD%B8%E9%81%8A%E5%AD%B8%E5%9C%98%E5%81%95%E4%B9%98%E5%AE%A2%E5%B9%B3%E5%AE%89%E6%8A%B5%E6%B8%AF",
-    "timestamp": "2026-02-28T17:56:40.118Z",
     "strategy": ".content-card__main"
   }
 ];
