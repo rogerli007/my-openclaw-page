@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-01T08:00:41.783Z
+// Last updated: 2026-03-01T09:16:27.915Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "鄧翠珊: 八達通成的士電子支付龍頭 逾4萬司機裝機 交易飆升6成半",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260301/1104764431809646592185724.jpeg/EAhfWbo0sNpToYh8DNlcBL88xecRaItFHFnPaRxZz2k?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60325171/%E5%85%AB%E9%81%94%E9%80%9A%E6%88%90%E7%9A%84%E5%A3%AB%E9%9B%BB%E5%AD%90%E6%94%AF%E4%BB%98%E9%BE%8D%E9%A0%AD-%E9%80%BE4%E8%90%AC%E5%8F%B8%E6%A9%9F%E8%A3%9D%E6%A9%9F-%E4%BA%A4%E6%98%93%E9%A1%8D%E6%8C%89%E5%B9%B4%E9%A3%86%E5%8D%876%E6%88%90%E5%8D%8A",
+    "timestamp": "2026-03-01T09:16:27.915Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "諾如病毒｜今抵港郵輪威士特丹號76人上吐下瀉　首名病人日本登船",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260301/1104604852454952960238917.jpeg/cRtXgLFS0zN5kvyf9BUBgbdPprrphrmtrJAFnKyQBZw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60326087/%E5%90%90%E9%9C%B2%E6%B8%AF%E5%85%AC%E8%B7%AF2%E7%A7%81%E5%AE%B6%E8%BB%8A%E7%9B%B8%E6%92%9E-1%E4%B9%98%E5%AE%A2%E5%8F%97%E5%82%B7%E9%80%81%E9%99%A2-%E4%BA%A4%E9%80%9A%E4%B8%80%E5%BA%A6%E5%8F%97%E9%98%BB",
     "timestamp": "2026-02-28T19:13:52.296Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美以襲伊朗｜航班遲1小時起飛　本港小學遊學團偕乘客平安抵港",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260301/1104586949210935296586429.jpeg/7ehVXKKUuppZkbWg6wggxXfoSLcEPZNVr2nF9pVpxfY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60326080/%E7%BE%8E%E4%BB%A5%E8%A5%B2%E4%BC%8A%E6%9C%97-%E8%88%AA%E7%8F%AD%E9%81%B21%E5%B0%8F%E6%99%82%E8%B5%B7%E9%A3%9B-%E6%9C%AC%E6%B8%AF%E5%B0%8F%E5%AD%B8%E9%81%8A%E5%AD%B8%E5%9C%98%E5%81%95%E4%B9%98%E5%AE%A2%E5%B9%B3%E5%AE%89%E6%8A%B5%E6%B8%AF",
-    "timestamp": "2026-02-28T18:32:59.696Z",
     "strategy": ".content-card__main"
   }
 ];
