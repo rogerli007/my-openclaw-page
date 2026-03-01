@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-01T09:50:05.655Z
+// Last updated: 2026-03-01T10:00:47.883Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "鍾柔美被揭戴劉展霆「訂情信物」誠信疑再破產　18字再回應",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260301/1104818050403667968047586.jpeg/xzcrCo7SSI-o1-cfxMujKuHptRK9WeE5MUXYoTFF2KE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60326201/%E9%8D%BE%E6%9F%94%E7%BE%8E%E8%A2%AB%E6%8F%AD%E6%88%B4%E5%8A%89%E5%B1%95%E9%9C%86-%E8%A8%82%E6%83%85%E4%BF%A1%E7%89%A9-%E8%AA%A0%E4%BF%A1%E7%96%91%E5%86%8D%E7%A0%B4%E7%94%A2-18%E5%AD%97%E5%86%8D%E5%9B%9E%E6%87%89",
+    "timestamp": "2026-03-01T10:00:47.883Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "鍾柔美被揭戴劉展霆「訂情信物」誠信疑再破產　18字再回應",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260301/1104599424446763008984653.jpeg/liT6Wy3L9iTZTDNtTRPIguyAtKa7hZ5Xac1KAmnNSgI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60326083/%E7%BE%8E%E4%BB%A5%E8%A5%B2%E4%BC%8A%E6%9C%97-%E9%99%84%E8%BF%91%E8%A2%AB%E9%A3%9B%E5%BD%88%E7%A2%8E%E7%89%87%E6%93%8A%E4%B8%AD-%E6%BB%AF%E7%95%99%E6%9D%9C%E6%8B%9C%E6%B8%AF%E4%BA%BA-%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%92%81%E8%BF%91%E6%88%B0%E5%A0%B4",
     "timestamp": "2026-02-28T21:30:37.194Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "內塔尼亞胡：種種跡象顯示哈梅內伊已身亡　籲伊朗人上街推翻政權",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260301/1104632254455353344716423.jpeg/CupleO7RLMqVWbWVISCkB8vRsD0rtVs0BKXfjQSl340?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60326090/%E5%85%A7%E5%A1%94%E5%B0%BC%E4%BA%9E%E8%83%A1-%E7%A8%AE%E7%A8%AE%E8%B7%A1%E8%B1%A1%E9%A1%AF%E7%A4%BA%E5%93%88%E6%A2%85%E5%85%A7%E4%BC%8A%E5%B7%B2%E8%BA%AB%E4%BA%A1-%E7%B1%B2%E4%BC%8A%E6%9C%97%E4%BA%BA%E4%B8%8A%E8%A1%97%E6%8E%A8%E7%BF%BB%E6%94%BF%E6%AC%8A",
-    "timestamp": "2026-02-28T20:57:41.965Z",
     "strategy": ".content-card__main"
   }
 ];
