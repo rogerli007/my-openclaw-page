@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-01T23:03:03.581Z
+// Last updated: 2026-03-01T23:14:02.542Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "用6年洗衣機冒煙起火！女戶主逃出後傳爆炸聲　九旬婆婆這樣獲救",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260228/1104438126874464256301498.png/kYThYp5td1_0O7mKzNckHGXOI-U7puCqVLCxHVSwsR0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60325621/%E7%94%A86%E5%B9%B4%E6%B4%97%E8%A1%A3%E6%A9%9F%E5%86%92%E7%85%99%E8%B5%B7%E7%81%AB-%E5%A5%B3%E6%88%B6%E4%B8%BB%E9%80%83%E5%87%BA%E5%BE%8C%E5%82%B3%E7%88%86%E7%82%B8%E8%81%B2-%E4%B9%9D%E6%97%AC%E5%A9%86%E5%A9%86%E9%80%99%E6%A8%A3%E7%8D%B2%E6%95%91",
+    "timestamp": "2026-03-01T23:14:02.542Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "郭藹明港姐訪談片出土自爆有後台　胞妹神顏值震驚網民：個妹仲靚",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260301/1104883777047367680810946.jpeg/pa59ePUlb3ZKQ4AqLQqQ3Q8hFhhTQAxqmZezJpmXsyY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60326272/%E6%9D%B1%E5%BC%B5%E8%A5%BF%E6%9C%9B-%E5%B0%8F%E5%B7%B4%E5%8F%B8%E6%A9%9F%E8%A2%AB%E6%8C%87%E8%BA%81%E7%8B%82%E7%9B%B4%E8%AA%8D%E4%B8%8D%E8%AB%B1-%E6%90%9E%E7%AC%91%E5%9B%9E%E8%AE%9A%E6%9D%B1%E5%BC%B5%E5%A5%B3%E7%A5%9E%E9%9D%9A%E5%A5%B3%E6%BA%AB%E6%9F%94",
     "timestamp": "2026-03-01T16:31:17.169Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "東張西望｜小巴司機被指躁狂直認不諱　搞笑回讚東張女神靚女溫柔",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260301/1104883777047367680810946.jpeg/pa59ePUlb3ZKQ4AqLQqQ3Q8hFhhTQAxqmZezJpmXsyY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60326272/%E6%9D%B1%E5%BC%B5%E8%A5%BF%E6%9C%9B-%E5%B0%8F%E5%B7%B4%E5%8F%B8%E6%A9%9F%E8%A2%AB%E6%8C%87%E8%BA%81%E7%8B%82%E7%9B%B4%E8%AA%8D%E4%B8%8D%E8%AB%B1-%E6%90%9E%E7%AC%91%E5%9B%9E%E8%AE%9A%E6%9D%B1%E5%BC%B5%E5%A5%B3%E7%A5%9E%E9%9D%9A%E5%A5%B3%E6%BA%AB%E6%9F%94",
-    "timestamp": "2026-03-01T16:15:03.095Z",
     "strategy": ".content-card__main"
   }
 ];
