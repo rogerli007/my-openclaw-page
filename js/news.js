@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-01T06:59:30.206Z
+// Last updated: 2026-03-01T07:26:17.219Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "伊朗局勢｜霍爾木茲海峽成焦點：運油輪掉頭　或衝擊全球經濟",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260301/1104792283783368704615032.jpeg/ziGmvJ2XjpExSVVM7K1MH7qOyN0UL8q7-v3rL_r96y8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%9C%8B%E9%9A%9B%E5%88%86%E6%9E%90/60326169/%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8B%A2-%E9%9C%8D%E7%88%BE%E6%9C%A8%E8%8C%B2%E6%B5%B7%E5%B3%BD%E6%88%90%E7%84%A6%E9%BB%9E-%E9%81%8B%E6%B2%B9%E8%BC%AA%E6%8E%89%E9%A0%AD-%E6%88%96%E8%A1%9D%E6%93%8A%E5%85%A8%E7%90%83%E7%B6%93%E6%BF%9F",
+    "timestamp": "2026-03-01T07:26:17.219Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "伊朗局勢｜專家揭秘美以｢光天化日動武｣反常戰術：赤裸裸炫耀武力",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260301/1104586949210935296586429.jpeg/7ehVXKKUuppZkbWg6wggxXfoSLcEPZNVr2nF9pVpxfY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60326080/%E7%BE%8E%E4%BB%A5%E8%A5%B2%E4%BC%8A%E6%9C%97-%E8%88%AA%E7%8F%AD%E9%81%B21%E5%B0%8F%E6%99%82%E8%B5%B7%E9%A3%9B-%E6%9C%AC%E6%B8%AF%E5%B0%8F%E5%AD%B8%E9%81%8A%E5%AD%B8%E5%9C%98%E5%81%95%E4%B9%98%E5%AE%A2%E5%B9%B3%E5%AE%89%E6%8A%B5%E6%B8%AF",
     "timestamp": "2026-02-28T17:56:40.118Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美以襲伊朗｜航班遲1小時起飛　本港小學遊學團偕乘客平安抵港",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260301/1104586949210935296586429.jpeg/7ehVXKKUuppZkbWg6wggxXfoSLcEPZNVr2nF9pVpxfY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60326080/%E7%BE%8E%E4%BB%A5%E8%A5%B2%E4%BC%8A%E6%9C%97-%E8%88%AA%E7%8F%AD%E9%81%B21%E5%B0%8F%E6%99%82%E8%B5%B7%E9%A3%9B-%E6%9C%AC%E6%B8%AF%E5%B0%8F%E5%AD%B8%E9%81%8A%E5%AD%B8%E5%9C%98%E5%81%95%E4%B9%98%E5%AE%A2%E5%B9%B3%E5%AE%89%E6%8A%B5%E6%B8%AF",
-    "timestamp": "2026-02-28T17:43:49.335Z",
     "strategy": ".content-card__main"
   }
 ];
