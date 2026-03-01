@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-01T17:45:39.418Z
+// Last updated: 2026-03-01T18:33:33.358Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "以軍：已消滅伊朗及地區組織所有高層　以總理：打擊行動將升級",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260302/1104965547285549056089271.jpeg/6EJCwYXQgMlI5yQ-mkOAI15k799PCv0lCKCWSwiglks?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60326313/%E4%BB%A5%E8%BB%8D-%E5%B7%B2%E6%B6%88%E6%BB%85%E4%BC%8A%E6%9C%97%E5%8F%8A%E5%9C%B0%E5%8D%80%E7%B5%84%E7%B9%94%E6%89%80%E6%9C%89%E9%AB%98%E5%B1%A4-%E4%BB%A5%E7%B8%BD%E7%90%86-%E6%89%93%E6%93%8A%E8%A1%8C%E5%8B%95%E5%B0%87%E5%8D%87%E7%B4%9A",
+    "timestamp": "2026-03-01T18:33:33.358Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美國德州酒吧槍擊案　包括槍手3死另14人傷　當局指疑涉恐怖主義",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260301/1104848363381067776476129.png/1dWUf4ItLCe-NK8IcMTvmZqPWPJ6EP7cqgf7aKoH-2g",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60326237/%E6%9C%89%E7%89%87-%E5%9C%9F%E7%93%9C%E7%81%A3%E6%A8%93%E4%B8%8A%E7%BE%8E%E5%AE%B9%E5%BA%97%E5%A4%B1%E7%81%AB%E6%BF%83%E7%85%99%E6%B2%96%E5%A4%A9-%E5%85%A7%E9%83%A8%E5%A4%A9%E8%8A%B1%E7%89%86%E8%BA%AB%E7%86%8F%E9%BB%91",
     "timestamp": "2026-03-01T10:48:36.126Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "伊朗局勢．持續更新｜機管局：今明兩日共20班機取消　附最新名單",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260301/1104793078654308352615403.jpeg/Md6efheYKivGw8VPJ2FF8yOooqUw2r-dcC_r9nAv6_Y?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60326069/%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8B%A2%E6%9C%80%E6%B6%88%E6%81%AF-%E9%A6%99%E6%B8%AF%E6%A9%9F%E5%A0%B4%E5%A4%9A%E8%88%AA%E7%8F%AD%E5%8F%96%E6%B6%88-%E6%B6%89%E6%9D%9C%E6%8B%9C%E5%A4%9A%E5%93%88-%E9%99%84%E5%85%A8%E5%90%8D%E5%96%AE",
-    "timestamp": "2026-03-01T10:31:47.987Z",
     "strategy": ".content-card__main"
   }
 ];
