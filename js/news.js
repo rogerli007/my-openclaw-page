@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-02T22:16:31.313Z
+// Last updated: 2026-03-02T23:31:25.805Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "性感女神現身澀谷54歲驚變師奶Look　出道即做電影女一爆紅逾30年",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260302/1105278578720772096108423.jpeg/8I_q1k477OjldYCXk09DyeXQzNl-IqyaoNuSWaDbklk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60326480/%E6%9C%B1%E8%8C%B5%E7%8F%BE%E8%BA%AB%E6%BE%80%E8%B0%B754%E6%AD%B2%E9%A9%9A%E8%AE%8A%E5%B8%AB%E5%A5%B6look-%E5%87%BA%E9%81%93%E5%8D%B3%E5%81%9A%E9%9B%BB%E5%BD%B1%E5%A5%B3%E4%B8%80%E7%88%86%E7%B4%85%E9%80%BE30%E5%B9%B4",
+    "timestamp": "2026-03-02T23:31:25.805Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "影壇大佬曾兩度患癌最新狀況好精神　枱面有煙網民勸勉食少啲",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260302/1105221126482563072154973.jpeg/ym9nagmZ-uNdcO_BPzaiRBdnjScZtuZ8byC1gG8gtYA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60326606/%E5%BB%89%E7%BD%B2%E6%8B%9B%E8%81%98%E5%BB%89%E6%94%BF%E4%B8%BB%E4%BB%BB-%E8%B5%B7%E8%96%AA5%E8%90%AC%E9%A0%82%E9%BB%9E11%E8%90%AC-%E5%8F%AF%E5%90%8C%E6%99%82%E6%8A%95%E8%80%83%E5%8A%A9%E7%90%86%E5%BB%89%E6%94%BF%E4%B8%BB%E4%BB%BB",
     "timestamp": "2026-03-02T12:27:52.515Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "中大醫院仁醫黃詠儀英年早逝　病人稱命中貴人　曾赴阿富汗救援",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260302/1105210188094246912309548.png/eHFUHYl-2Q5Ix9MofTwuAO02Ao69CdqEte--C7Xvvgs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60326613/%E4%B8%AD%E5%A4%A7%E9%86%AB%E9%99%A2%E4%BB%81%E9%86%AB%E9%BB%83%E8%A9%A0%E5%84%80%E8%8B%B1%E5%B9%B4%E6%97%A9%E9%80%9D-%E7%97%85%E4%BA%BA%E7%A8%B1%E5%91%BD%E4%B8%AD%E8%B2%B4%E4%BA%BA-%E6%9B%BE%E8%B5%B4%E9%98%BF%E5%AF%8C%E6%B1%97%E6%95%91%E6%8F%B4",
-    "timestamp": "2026-03-02T12:01:48.001Z",
     "strategy": ".content-card__main"
   }
 ];
