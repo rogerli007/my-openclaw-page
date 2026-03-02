@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-02T12:54:32.865Z
+// Last updated: 2026-03-02T13:37:19.482Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "皇后山童黨欺凌｜13歲女捱打　增至2男3女被捕　年僅13至14歲",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260302/1105115672465117184278016.jpeg/4bwn-Xt1xKmX8ILg2D0tWsHGLQZfYZO1jdGjwI3Ro8A",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60326674/%E7%9A%87%E5%90%8E%E5%B1%B1%E7%AB%A5%E9%BB%A8%E6%AC%BA%E5%87%8C-13%E6%AD%B2%E5%A5%B3%E6%8D%B1%E6%89%93-%E5%A2%9E%E8%87%B32%E7%94%B73%E5%A5%B3%E8%A2%AB%E6%8D%95-%E5%B9%B4%E5%83%8513%E8%87%B314%E6%AD%B2",
+    "timestamp": "2026-03-02T13:37:19.482Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "王毅與阿拉格齊通電話　支持伊朗維護自身權力和利益",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260302/1105020934877745152926345.jpeg/xaQOUpqQTH4NVo6B6IYexBdThEl6GCWFoM20nqDNtJ4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60326312/%E5%A4%A9%E6%B0%A3-%E4%BB%8A%E6%97%A9%E6%BD%AE%E6%BF%95%E6%9C%89%E9%9C%A7-%E7%A8%8D%E5%BE%8C%E6%9C%89%E5%B9%BE%E9%99%A3%E9%A9%9F%E9%9B%A8%E5%8F%8A%E6%88%96%E6%9C%89%E9%9B%B7%E6%9A%B4-%E6%97%A5%E9%96%93%E6%9C%80%E9%AB%9825%E5%BA%A6",
     "timestamp": "2026-03-01T22:30:45.308Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "TVB御用奸人演技精湛曾嚇喊朋友　入行近半世紀不求財：興趣緊要",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260301/1104901666336935936580694.jpeg/EUWeKLQHBWMMG8GNngyiz-XuFogKD7vQSRZwPkkWcD4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60326199/tvb%E5%BE%A1%E7%94%A8%E5%A5%B8%E4%BA%BA%E6%BC%94%E6%8A%80%E7%B2%BE%E6%B9%9B%E6%9B%BE%E5%9A%87%E5%96%8A%E6%9C%8B%E5%8F%8B-%E5%85%A5%E8%A1%8C%E8%BF%91%E5%8D%8A%E4%B8%96%E7%B4%80%E4%B8%8D%E6%B1%82%E8%B2%A1-%E8%88%88%E8%B6%A3%E7%B7%8A%E8%A6%81",
-    "timestamp": "2026-03-01T22:14:16.376Z",
     "strategy": ".content-card__main"
   }
 ];
