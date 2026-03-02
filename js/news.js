@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-02T01:18:12.423Z
+// Last updated: 2026-03-02T04:59:13.609Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "簡樸房｜何永賢稱已登記劏房有四年過渡期　給市場及租客時間適應",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260302/1105122169324572672247351.jpeg/z9DqwRDzkXEz9x7O5YeV-p1EhC6zBTMkhLs7k4S7O5M?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60326438/%E7%B0%A1%E6%A8%B8%E6%88%BF-%E4%BD%95%E6%B0%B8%E8%B3%A2%E7%A8%B1%E5%B7%B2%E7%99%BB%E8%A8%98%E5%8A%8F%E6%88%BF%E6%9C%89%E5%9B%9B%E5%B9%B4%E9%81%8E%E6%B8%A1%E6%9C%9F-%E7%B5%A6%E5%B8%82%E5%A0%B4%E5%8F%8A%E7%A7%9F%E5%AE%A2%E6%99%82%E9%96%93%E9%81%A9%E6%87%89",
+    "timestamp": "2026-03-02T04:59:13.609Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "伊朗局勢｜學者：中國憂慮霍爾木茲海峽遭封鎖　衝擊北京利益",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260302/1104966904256139264281359.jpeg/0_DrVvp9SMMzsxpSXDYrZlponb1nYNWMcbPc9HGz3PQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60326311/%E8%8B%B1%E8%B6%85-%E9%98%BF%E4%BB%99%E5%A5%B42-1%E5%8B%9D%E8%BB%8A%E8%B7%AF%E5%A3%AB-%E7%BA%8C%E5%B1%85%E6%A6%9C%E9%A6%96%E9%A0%98%E5%85%88%E6%9B%BC%E5%9F%8E5%E5%88%86",
     "timestamp": "2026-03-01T18:54:25.040Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "以軍：已消滅伊朗及地區組織所有高層　以總理：打擊行動將升級",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260302/1104965547285549056089271.jpeg/6EJCwYXQgMlI5yQ-mkOAI15k799PCv0lCKCWSwiglks?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60326313/%E4%BB%A5%E8%BB%8D-%E5%B7%B2%E6%B6%88%E6%BB%85%E4%BC%8A%E6%9C%97%E5%8F%8A%E5%9C%B0%E5%8D%80%E7%B5%84%E7%B9%94%E6%89%80%E6%9C%89%E9%AB%98%E5%B1%A4-%E4%BB%A5%E7%B8%BD%E7%90%86-%E6%89%93%E6%93%8A%E8%A1%8C%E5%8B%95%E5%B0%87%E5%8D%87%E7%B4%9A",
-    "timestamp": "2026-03-01T18:33:33.358Z",
     "strategy": ".content-card__main"
   }
 ];
