@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-02T12:27:52.515Z
+// Last updated: 2026-03-02T12:54:32.865Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "王毅與阿拉格齊通電話　支持伊朗維護自身權力和利益",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250307/974704179178115072073426.jpeg/GczM8il0p5E1MkJqxvalK95D6sYrmBDr6fzm-en85vk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60326671/%E7%8E%8B%E6%AF%85%E8%88%87%E9%98%BF%E6%8B%89%E6%A0%BC%E9%BD%8A%E9%80%9A%E9%9B%BB%E8%A9%B1-%E6%94%AF%E6%8C%81%E4%BC%8A%E6%9C%97%E7%B6%AD%E8%AD%B7%E8%87%AA%E8%BA%AB%E6%AC%8A%E5%8A%9B%E5%92%8C%E5%88%A9%E7%9B%8A",
+    "timestamp": "2026-03-02T12:54:32.865Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "廉署招聘廉政主任　起薪5萬頂點11萬　可同時投考助理廉政主任",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260301/1104901666336935936580694.jpeg/EUWeKLQHBWMMG8GNngyiz-XuFogKD7vQSRZwPkkWcD4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60326199/tvb%E5%BE%A1%E7%94%A8%E5%A5%B8%E4%BA%BA%E6%BC%94%E6%8A%80%E7%B2%BE%E6%B9%9B%E6%9B%BE%E5%9A%87%E5%96%8A%E6%9C%8B%E5%8F%8B-%E5%85%A5%E8%A1%8C%E8%BF%91%E5%8D%8A%E4%B8%96%E7%B4%80%E4%B8%8D%E6%B1%82%E8%B2%A1-%E8%88%88%E8%B6%A3%E7%B7%8A%E8%A6%81",
     "timestamp": "2026-03-01T22:14:16.376Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "伊朗局勢｜美軍證實出動B-2轟炸機　空襲伊朗彈道導彈設施",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260302/1104994727620513792746230.png/MCHOgmbLGMQGRauSu0GWpvC0vjnzkEiIPfO2TD3ztkw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60326318/%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8B%A2-%E7%BE%8E%E8%BB%8D%E8%AD%89%E5%AF%A6%E5%87%BA%E5%8B%95b-2%E8%BD%9F%E7%82%B8%E6%A9%9F-%E7%A9%BA%E8%A5%B2%E4%BC%8A%E6%9C%97%E5%BD%88%E9%81%93%E5%B0%8E%E5%BD%88%E8%A8%AD%E6%96%BD",
-    "timestamp": "2026-03-01T22:01:55.236Z",
     "strategy": ".content-card__main"
   }
 ];
