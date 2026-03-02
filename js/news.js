@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-02T15:35:05.126Z
+// Last updated: 2026-03-02T16:23:22.279Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "TVB失意男星與佘詩曼食飯被捕獲　2年無劇拍疑找四屆視后求打救？",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260302/1105249071175569408368497.jpeg/EZgCPiIPeOyHpBzqd333rKCM7PH9uYDmqGcS7KhnEuw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60326454/%E9%99%B3%E5%B1%B1%E8%81%B0%E8%88%87%E4%BD%98%E8%A9%A9%E6%9B%BC%E9%A3%9F%E9%A3%AF%E8%A2%AB%E6%8D%95%E7%8D%B2-2%E5%B9%B4%E7%84%A1%E5%8A%87%E6%8B%8D%E7%96%91%E6%89%BE%E5%9B%9B%E5%B1%86%E8%A6%96%E5%90%8E%E6%B1%82%E6%89%93%E6%95%91",
+    "timestamp": "2026-03-02T16:23:22.279Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "阿Sa戲院謝票《追擊8月15》鐵三角重聚掀回憶殺：完全冇諗過",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260301/1104893186662207488209384.jpeg/uNsihJ8Vx8Is9A9p1IGiGqmX-Ip7uJM22Gy9P9hsvT8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60326282/tvb%E5%86%B7%E6%9D%BF%E5%87%B3%E8%A6%96%E5%90%8E-%E6%87%B6%E7%90%86%E6%98%AF%E9%9D%9E%E6%99%92%E5%87%BA%E6%B5%B4%E7%85%A7-%E6%B8%BE%E8%BA%AB%E6%BF%95%E9%80%8F%E6%9C%89%E5%A6%82%E5%87%BA%E6%B0%B4%E8%8A%99%E8%93%89",
     "timestamp": "2026-03-01T23:45:00.309Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "用6年洗衣機冒煙起火！女戶主逃出後傳爆炸聲　九旬婆婆這樣獲救",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260228/1104438126874464256301498.png/kYThYp5td1_0O7mKzNckHGXOI-U7puCqVLCxHVSwsR0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60325621/%E7%94%A86%E5%B9%B4%E6%B4%97%E8%A1%A3%E6%A9%9F%E5%86%92%E7%85%99%E8%B5%B7%E7%81%AB-%E5%A5%B3%E6%88%B6%E4%B8%BB%E9%80%83%E5%87%BA%E5%BE%8C%E5%82%B3%E7%88%86%E7%82%B8%E8%81%B2-%E4%B9%9D%E6%97%AC%E5%A9%86%E5%A9%86%E9%80%99%E6%A8%A3%E7%8D%B2%E6%95%91",
-    "timestamp": "2026-03-01T23:14:02.542Z",
     "strategy": ".content-card__main"
   }
 ];
