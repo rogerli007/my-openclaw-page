@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-02T05:58:49.663Z
+// Last updated: 2026-03-02T06:32:10.505Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "中東戰火蔓延旅遊業　伊朗旅行團首當其衝　台灣業者嘆4月恐泡湯",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260302/1105123470800326656357146.jpeg/lU4eXlhQz-ZK0cUAyg8jG0LO0NS82hxuOKBevjigXr4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60326386/%E4%B8%AD%E6%9D%B1%E6%88%B0%E7%81%AB%E8%94%93%E5%BB%B6%E6%97%85%E9%81%8A%E6%A5%AD-%E4%BC%8A%E6%9C%97%E6%97%85%E8%A1%8C%E5%9C%98%E9%A6%96%E7%95%B6%E5%85%B6%E8%A1%9D-%E5%8F%B0%E7%81%A3%E6%A5%AD%E8%80%85%E5%98%864%E6%9C%88%E6%81%90%E6%B3%A1%E6%B9%AF",
+    "timestamp": "2026-03-02T06:32:10.505Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "伊朗局勢｜美以空襲伊朗南部女校　至少165死　大多數為兒童",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260302/1104973195980574720674539.jpeg/B3AeXzHXoC8JF994016Cyjb95WgdGsQraubycWrm8nE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60326314/%E8%B7%AF%E9%80%8F%E7%A4%BE%E6%B0%91%E8%AA%BF-%E5%83%8527-%E7%BE%8E%E5%9C%8B%E4%BA%BA%E6%94%AF%E6%8C%81%E6%89%93%E6%93%8A%E4%BC%8A%E6%9C%97-56-%E6%8C%87%E7%89%B9%E6%9C%97%E6%99%AE%E9%81%8E%E4%BB%BD%E7%86%B1%E8%A1%B7%E5%8B%95%E6%AD%A6",
     "timestamp": "2026-03-01T19:30:12.608Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "路透社民調：僅27%美國人支持打擊伊朗　56%指特朗普過份熱衷動武",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260302/1104973195980574720674539.jpeg/B3AeXzHXoC8JF994016Cyjb95WgdGsQraubycWrm8nE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60326314/%E8%B7%AF%E9%80%8F%E7%A4%BE%E6%B0%91%E8%AA%BF-%E5%83%8527-%E7%BE%8E%E5%9C%8B%E4%BA%BA%E6%94%AF%E6%8C%81%E6%89%93%E6%93%8A%E4%BC%8A%E6%9C%97-56-%E6%8C%87%E7%89%B9%E6%9C%97%E6%99%AE%E9%81%8E%E4%BB%BD%E7%86%B1%E8%A1%B7%E5%8B%95%E6%AD%A6",
-    "timestamp": "2026-03-01T19:15:15.982Z",
     "strategy": ".content-card__main"
   }
 ];
