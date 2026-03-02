@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-02T17:53:49.679Z
+// Last updated: 2026-03-02T18:25:18.691Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "兩男闖旺角藥房持伸縮棍搗亂　毆傷負責人　警拘一男追緝同黨",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260302/1105266281474428928239018.jpeg/MuOdfbqHYY6JBkSb_iAvNBKCA2iyezJrVZ_NIHCfzSA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60326689/%E5%85%A9%E7%94%B7%E9%97%96%E6%97%BA%E8%A7%92%E8%97%A5%E6%88%BF%E6%8C%81%E4%BC%B8%E7%B8%AE%E6%A3%8D%E6%90%97%E4%BA%82-%E6%AF%86%E5%82%B7%E8%B2%A0%E8%B2%AC%E4%BA%BA-%E8%AD%A6%E6%8B%98%E4%B8%80%E7%94%B7%E8%BF%BD%E7%B7%9D%E5%90%8C%E9%BB%A8",
+    "timestamp": "2026-03-02T18:25:18.691Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "塞浦路斯證英軍基地兩度遭無人機襲擊　總統強調不參與軍事行動",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260302/1105122169324572672247351.jpeg/z9DqwRDzkXEz9x7O5YeV-p1EhC6zBTMkhLs7k4S7O5M?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60326438/%E7%B0%A1%E6%A8%B8%E6%88%BF-%E4%BD%95%E6%B0%B8%E8%B3%A2%E7%A8%B1%E5%B7%B2%E7%99%BB%E8%A8%98%E5%8A%8F%E6%88%BF%E6%9C%89%E5%9B%9B%E5%B9%B4%E9%81%8E%E6%B8%A1%E6%9C%9F-%E7%B5%A6%E5%B8%82%E5%A0%B4%E5%8F%8A%E7%A7%9F%E5%AE%A2%E6%99%82%E9%96%93%E9%81%A9%E6%87%89",
     "timestamp": "2026-03-02T04:59:13.609Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "伊朗局勢｜學者：中國憂慮霍爾木茲海峽遭封鎖　衝擊北京利益",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260204/1095674988431675392051439.jpeg/7oOjFXnfwrSuqaaOd1A6ZLeB9A-KizxSvg838r4PN_I?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60326326/%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8B%A2-%E5%AD%B8%E8%80%85-%E4%B8%AD%E5%9C%8B%E6%86%82%E6%85%AE%E9%9C%8D%E7%88%BE%E6%9C%A8%E8%8C%B2%E6%B5%B7%E5%B3%BD%E9%81%AD%E5%B0%81%E9%8E%96-%E8%A1%9D%E6%93%8A%E5%8C%97%E4%BA%AC%E5%88%A9%E7%9B%8A",
-    "timestamp": "2026-03-02T01:18:12.423Z",
     "strategy": ".content-card__main"
   }
 ];
