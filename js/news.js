@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-02T19:25:25.462Z
+// Last updated: 2026-03-02T19:50:30.469Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "黎巴嫩稱以軍空襲釀52死逾150人傷　下令真主黨解除武裝",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260303/1105329485084889088930678.jpeg/DB8nSpeUo5-sHRUeDdcPZa7kRx_VbWNxTd7Ym03e2Js?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60326708/%E9%BB%8E%E5%B7%B4%E5%AB%A9%E7%A8%B1%E4%BB%A5%E8%BB%8D%E7%A9%BA%E8%A5%B2%E9%87%8052%E6%AD%BB%E9%80%BE150%E4%BA%BA%E5%82%B7-%E4%B8%8B%E4%BB%A4%E7%9C%9F%E4%B8%BB%E9%BB%A8%E8%A7%A3%E9%99%A4%E6%AD%A6%E8%A3%9D",
+    "timestamp": "2026-03-02T19:50:30.469Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "黎巴嫩稱以軍空襲釀52死逾150人傷　下令真主黨解除武裝",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260302/1105147087198097408497356.jpeg/j-cv65oYGbyuH8uPFkWwPUzzqZ7UwbCgWSdXAlknVwI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60326476/%E9%99%B3%E6%B5%A9%E6%B0%91%E5%A4%AB%E5%A9%A6%E7%96%91%E5%8F%97%E5%9B%B0%E6%9D%9C%E6%8B%9C%E8%A6%AA%E6%AD%B7%E4%B8%AD%E6%9D%B1%E6%88%B0%E7%81%AB-%E5%A6%BB%E5%AD%90%E8%94%A3%E9%BA%97%E8%8E%8E%E7%99%BC%E6%96%87%E6%AD%8E%E5%92%8C%E5%B9%B3%E5%8F%AF%E8%B2%B4",
     "timestamp": "2026-03-02T06:56:54.758Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "中東戰火蔓延旅遊業　伊朗旅行團首當其衝　台灣業者嘆4月恐泡湯",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260302/1105123470800326656357146.jpeg/lU4eXlhQz-ZK0cUAyg8jG0LO0NS82hxuOKBevjigXr4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60326386/%E4%B8%AD%E6%9D%B1%E6%88%B0%E7%81%AB%E8%94%93%E5%BB%B6%E6%97%85%E9%81%8A%E6%A5%AD-%E4%BC%8A%E6%9C%97%E6%97%85%E8%A1%8C%E5%9C%98%E9%A6%96%E7%95%B6%E5%85%B6%E8%A1%9D-%E5%8F%B0%E7%81%A3%E6%A5%AD%E8%80%85%E5%98%864%E6%9C%88%E6%81%90%E6%B3%A1%E6%B9%AF",
-    "timestamp": "2026-03-02T06:32:10.505Z",
     "strategy": ".content-card__main"
   }
 ];
