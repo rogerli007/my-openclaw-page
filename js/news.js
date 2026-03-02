@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-02T21:22:59.099Z
+// Last updated: 2026-03-02T21:51:17.022Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "伊朗局勢｜魯比奧：將公布措施緩解油價上漲問題",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260303/1105376989050572800492536.jpeg/7QR8EUPx3XtADcSnsr_zPLhiTUGDIJsc3H_Osdx_zrE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60326713/%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8B%A2-%E9%AD%AF%E6%AF%94%E5%A5%A7-%E5%B0%87%E5%85%AC%E5%B8%83%E6%8E%AA%E6%96%BD%E7%B7%A9%E8%A7%A3%E6%B2%B9%E5%83%B9%E4%B8%8A%E6%BC%B2%E5%95%8F%E9%A1%8C",
+    "timestamp": "2026-03-02T21:51:17.022Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "特朗普右頸現皮疹　醫生稱皮膚治療藥膏引起",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260302/1105161688765698048829074.jpeg/nhLmG1n4coOTK-3CdS7yzx89I6Qv_xXwjZfek42X3pM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60326505/%E4%B8%AD%E5%B9%B4%E5%A5%BD%E8%81%B2%E9%9F%B34-%E9%BA%A5%E6%9B%89%E6%9D%B1%E9%81%AD%E6%B7%98%E6%B1%B0%E6%86%BE%E5%88%A5%E8%88%9E%E5%8F%B0-%E5%B8%83%E5%BF%97%E7%B6%B8%E8%87%AA%E8%B2%AC-%E6%87%89%E8%A9%B2%E4%BF%82%E6%B7%98%E6%B1%B0%E6%88%91",
     "timestamp": "2026-03-02T11:24:09.771Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "印度加拿大擬年底達成自貿協定　簽署26億美元鈾供應協議",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260302/1105202312302825472243079.jpeg/eazs7gcuNfY_vjOcPMDDlT9651MJxjcL7ghUI-4IVCM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60326625/%E5%8D%B0%E5%BA%A6%E5%8A%A0%E6%8B%BF%E5%A4%A7%E6%93%AC%E5%B9%B4%E5%BA%95%E9%81%94%E6%88%90%E8%87%AA%E8%B2%BF%E5%8D%94%E5%AE%9A-%E7%B0%BD%E7%BD%B226%E5%84%84%E7%BE%8E%E5%85%83%E9%88%BE%E4%BE%9B%E6%87%89%E5%8D%94%E8%AD%B0",
-    "timestamp": "2026-03-02T10:27:41.823Z",
     "strategy": ".content-card__main"
   }
 ];
