@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-02T12:01:48.001Z
+// Last updated: 2026-03-02T12:27:52.515Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "廉署招聘廉政主任　起薪5萬頂點11萬　可同時投考助理廉政主任",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260302/1105221126482563072154973.jpeg/ym9nagmZ-uNdcO_BPzaiRBdnjScZtuZ8byC1gG8gtYA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60326606/%E5%BB%89%E7%BD%B2%E6%8B%9B%E8%81%98%E5%BB%89%E6%94%BF%E4%B8%BB%E4%BB%BB-%E8%B5%B7%E8%96%AA5%E8%90%AC%E9%A0%82%E9%BB%9E11%E8%90%AC-%E5%8F%AF%E5%90%8C%E6%99%82%E6%8A%95%E8%80%83%E5%8A%A9%E7%90%86%E5%BB%89%E6%94%BF%E4%B8%BB%E4%BB%BB",
+    "timestamp": "2026-03-02T12:27:52.515Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "中大醫院仁醫黃詠儀英年早逝　病人稱命中貴人　曾赴阿富汗救援",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260302/1104994727620513792746230.png/MCHOgmbLGMQGRauSu0GWpvC0vjnzkEiIPfO2TD3ztkw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60326318/%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8B%A2-%E7%BE%8E%E8%BB%8D%E8%AD%89%E5%AF%A6%E5%87%BA%E5%8B%95b-2%E8%BD%9F%E7%82%B8%E6%A9%9F-%E7%A9%BA%E8%A5%B2%E4%BC%8A%E6%9C%97%E5%BD%88%E9%81%93%E5%B0%8E%E5%BD%88%E8%A8%AD%E6%96%BD",
     "timestamp": "2026-03-01T22:01:55.236Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "伊朗局勢｜美軍證實出動B-2轟炸機　空襲伊朗彈道導彈設施",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260302/1104994727620513792746230.png/MCHOgmbLGMQGRauSu0GWpvC0vjnzkEiIPfO2TD3ztkw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60326318/%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8B%A2-%E7%BE%8E%E8%BB%8D%E8%AD%89%E5%AF%A6%E5%87%BA%E5%8B%95b-2%E8%BD%9F%E7%82%B8%E6%A9%9F-%E7%A9%BA%E8%A5%B2%E4%BC%8A%E6%9C%97%E5%BD%88%E9%81%93%E5%B0%8E%E5%BD%88%E8%A8%AD%E6%96%BD",
-    "timestamp": "2026-03-01T21:13:53.420Z",
     "strategy": ".content-card__main"
   }
 ];
