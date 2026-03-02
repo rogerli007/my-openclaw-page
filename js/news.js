@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-02T04:59:13.609Z
+// Last updated: 2026-03-02T05:58:49.663Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "伊朗局勢｜美以空襲伊朗南部女校　至少165死　大多數為兒童",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260301/1104919670932115456230671.jpeg/ZvnuBDJwu8HsRPlAf63nPfS5CzG2qdm6SC_bMEgv2zA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60326453/%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8B%A2-%E7%BE%8E%E4%BB%A5%E7%A9%BA%E8%A5%B2%E4%BC%8A%E6%9C%97%E5%8D%97%E9%83%A8%E5%A5%B3%E6%A0%A1-%E8%87%B3%E5%B0%91165%E6%AD%BB-%E5%A4%A7%E5%A4%9A%E6%95%B8%E7%82%BA%E5%85%92%E7%AB%A5",
+    "timestamp": "2026-03-02T05:58:49.663Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "簡樸房｜何永賢稱已登記劏房有四年過渡期　給市場及租客時間適應",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260302/1104973195980574720674539.jpeg/B3AeXzHXoC8JF994016Cyjb95WgdGsQraubycWrm8nE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60326314/%E8%B7%AF%E9%80%8F%E7%A4%BE%E6%B0%91%E8%AA%BF-%E5%83%8527-%E7%BE%8E%E5%9C%8B%E4%BA%BA%E6%94%AF%E6%8C%81%E6%89%93%E6%93%8A%E4%BC%8A%E6%9C%97-56-%E6%8C%87%E7%89%B9%E6%9C%97%E6%99%AE%E9%81%8E%E4%BB%BD%E7%86%B1%E8%A1%B7%E5%8B%95%E6%AD%A6",
     "timestamp": "2026-03-01T19:15:15.982Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "英超｜阿仙奴2：1勝車路士　續居榜首領先曼城5分",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260302/1104966904256139264281359.jpeg/0_DrVvp9SMMzsxpSXDYrZlponb1nYNWMcbPc9HGz3PQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60326311/%E8%8B%B1%E8%B6%85-%E9%98%BF%E4%BB%99%E5%A5%B42-1%E5%8B%9D%E8%BB%8A%E8%B7%AF%E5%A3%AB-%E7%BA%8C%E5%B1%85%E6%A6%9C%E9%A6%96%E9%A0%98%E5%85%88%E6%9B%BC%E5%9F%8E5%E5%88%86",
-    "timestamp": "2026-03-01T18:54:25.040Z",
     "strategy": ".content-card__main"
   }
 ];
