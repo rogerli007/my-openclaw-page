@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-02T06:32:10.505Z
+// Last updated: 2026-03-02T06:56:54.758Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "陳浩民夫婦疑受困杜拜親歷中東戰火　妻子蔣麗莎發文歎和平可貴",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260302/1105147087198097408497356.jpeg/j-cv65oYGbyuH8uPFkWwPUzzqZ7UwbCgWSdXAlknVwI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60326476/%E9%99%B3%E6%B5%A9%E6%B0%91%E5%A4%AB%E5%A9%A6%E7%96%91%E5%8F%97%E5%9B%B0%E6%9D%9C%E6%8B%9C%E8%A6%AA%E6%AD%B7%E4%B8%AD%E6%9D%B1%E6%88%B0%E7%81%AB-%E5%A6%BB%E5%AD%90%E8%94%A3%E9%BA%97%E8%8E%8E%E7%99%BC%E6%96%87%E6%AD%8E%E5%92%8C%E5%B9%B3%E5%8F%AF%E8%B2%B4",
+    "timestamp": "2026-03-02T06:56:54.758Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "中東戰火蔓延旅遊業　伊朗旅行團首當其衝　台灣業者嘆4月恐泡湯",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260302/1104973195980574720674539.jpeg/B3AeXzHXoC8JF994016Cyjb95WgdGsQraubycWrm8nE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60326314/%E8%B7%AF%E9%80%8F%E7%A4%BE%E6%B0%91%E8%AA%BF-%E5%83%8527-%E7%BE%8E%E5%9C%8B%E4%BA%BA%E6%94%AF%E6%8C%81%E6%89%93%E6%93%8A%E4%BC%8A%E6%9C%97-56-%E6%8C%87%E7%89%B9%E6%9C%97%E6%99%AE%E9%81%8E%E4%BB%BD%E7%86%B1%E8%A1%B7%E5%8B%95%E6%AD%A6",
     "timestamp": "2026-03-01T19:43:07.458Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "路透社民調：僅27%美國人支持打擊伊朗　56%指特朗普過份熱衷動武",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260302/1104973195980574720674539.jpeg/B3AeXzHXoC8JF994016Cyjb95WgdGsQraubycWrm8nE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60326314/%E8%B7%AF%E9%80%8F%E7%A4%BE%E6%B0%91%E8%AA%BF-%E5%83%8527-%E7%BE%8E%E5%9C%8B%E4%BA%BA%E6%94%AF%E6%8C%81%E6%89%93%E6%93%8A%E4%BC%8A%E6%9C%97-56-%E6%8C%87%E7%89%B9%E6%9C%97%E6%99%AE%E9%81%8E%E4%BB%BD%E7%86%B1%E8%A1%B7%E5%8B%95%E6%AD%A6",
-    "timestamp": "2026-03-01T19:30:12.608Z",
     "strategy": ".content-card__main"
   }
 ];
