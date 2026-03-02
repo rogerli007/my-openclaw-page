@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-02T16:23:22.279Z
+// Last updated: 2026-03-02T16:54:54.404Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "25歲不年輕變扣分？男友人1句話令她傻眼：很老嗎？　網民唱反調",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260303/1105295662301319168074863.png/xWMhTz-h-_hfCy-Fg-2BcbUPPLwnavN8S9tYDUvbWA0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60324111/25%E6%AD%B2%E4%B8%8D%E5%B9%B4%E8%BC%95%E8%AE%8A%E6%89%A3%E5%88%86-%E7%94%B7%E5%8F%8B%E4%BA%BA1%E5%8F%A5%E8%A9%B1%E4%BB%A4%E5%A5%B9%E5%82%BB%E7%9C%BC-%E5%BE%88%E8%80%81%E5%97%8E-%E7%B6%B2%E6%B0%91%E5%94%B1%E5%8F%8D%E8%AA%BF",
+    "timestamp": "2026-03-02T16:54:54.404Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "TVB失意男星與佘詩曼食飯被捕獲　2年無劇拍疑找四屆視后求打救？",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260301/1104893186662207488209384.jpeg/uNsihJ8Vx8Is9A9p1IGiGqmX-Ip7uJM22Gy9P9hsvT8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60326282/tvb%E5%86%B7%E6%9D%BF%E5%87%B3%E8%A6%96%E5%90%8E-%E6%87%B6%E7%90%86%E6%98%AF%E9%9D%9E%E6%99%92%E5%87%BA%E6%B5%B4%E7%85%A7-%E6%B8%BE%E8%BA%AB%E6%BF%95%E9%80%8F%E6%9C%89%E5%A6%82%E5%87%BA%E6%B0%B4%E8%8A%99%E8%93%89",
     "timestamp": "2026-03-01T23:57:40.082Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "「TVB冷板凳視后」懶理是非晒出浴照　渾身濕透有如出水芙蓉",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260301/1104893186662207488209384.jpeg/uNsihJ8Vx8Is9A9p1IGiGqmX-Ip7uJM22Gy9P9hsvT8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60326282/tvb%E5%86%B7%E6%9D%BF%E5%87%B3%E8%A6%96%E5%90%8E-%E6%87%B6%E7%90%86%E6%98%AF%E9%9D%9E%E6%99%92%E5%87%BA%E6%B5%B4%E7%85%A7-%E6%B8%BE%E8%BA%AB%E6%BF%95%E9%80%8F%E6%9C%89%E5%A6%82%E5%87%BA%E6%B0%B4%E8%8A%99%E8%93%89",
-    "timestamp": "2026-03-01T23:45:00.309Z",
     "strategy": ".content-card__main"
   }
 ];
