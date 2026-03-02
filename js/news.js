@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-02T14:36:02.415Z
+// Last updated: 2026-03-02T15:07:14.407Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "譚旻萱首戰米蘭展茶餐廳精神5分鐘清碟　莊重打招呼嚇偶像柳智敏",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260302/1105197998394052608685907.jpeg/-y98ku_45wy5z0ZKwI3IhtvBein69r2W_-Ojbf_jo20?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60326595/%E8%AD%9A%E6%97%BB%E8%90%B1%E9%A6%96%E6%88%B0%E7%B1%B3%E8%98%AD%E5%B1%95%E8%8C%B6%E9%A4%90%E5%BB%B3%E7%B2%BE%E7%A5%9E5%E5%88%86%E9%90%98%E6%B8%85%E7%A2%9F-%E8%8E%8A%E9%87%8D%E6%89%93%E6%8B%9B%E5%91%BC%E5%9A%87%E5%81%B6%E5%83%8F%E6%9F%B3%E6%99%BA%E6%95%8F",
+    "timestamp": "2026-03-02T15:07:14.407Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "小學館允性侵犯「換名」連載新漫畫惹公憤　眾作者怒轟引爆抵制潮",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260301/1104901825544327168952146.jpeg/3IPSgjTYh_uTdYBPWKkHubrFv7limbhFal031mpdN9Y?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60326205/%E9%83%AD%E8%97%B9%E6%98%8E%E6%B8%AF%E5%A7%90%E8%A8%AA%E8%AB%87%E7%89%87%E5%87%BA%E5%9C%9F%E8%87%AA%E7%88%86%E6%9C%89%E5%BE%8C%E5%8F%B0-%E8%83%9E%E5%A6%B9%E7%A5%9E%E9%A1%8F%E5%80%BC%E9%9C%87%E9%A9%9A%E7%B6%B2%E6%B0%91-%E5%80%8B%E5%A6%B9%E4%BB%B2%E9%9D%9A",
     "timestamp": "2026-03-01T23:03:03.581Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "郭藹明港姐訪談片出土自爆有後台　胞妹神顏值震驚網民：個妹仲靚",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260301/1104901825544327168952146.jpeg/3IPSgjTYh_uTdYBPWKkHubrFv7limbhFal031mpdN9Y?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60326205/%E9%83%AD%E8%97%B9%E6%98%8E%E6%B8%AF%E5%A7%90%E8%A8%AA%E8%AB%87%E7%89%87%E5%87%BA%E5%9C%9F%E8%87%AA%E7%88%86%E6%9C%89%E5%BE%8C%E5%8F%B0-%E8%83%9E%E5%A6%B9%E7%A5%9E%E9%A1%8F%E5%80%BC%E9%9C%87%E9%A9%9A%E7%B6%B2%E6%B0%91-%E5%80%8B%E5%A6%B9%E4%BB%B2%E9%9D%9A",
-    "timestamp": "2026-03-01T22:47:01.714Z",
     "strategy": ".content-card__main"
   }
 ];
