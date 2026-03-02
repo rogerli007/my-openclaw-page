@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-02T15:07:14.407Z
+// Last updated: 2026-03-02T15:35:05.126Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "阿Sa戲院謝票《追擊8月15》鐵三角重聚掀回憶殺：完全冇諗過",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260302/1105160194310017024852940.jpeg/EeNOjh9ujfMGQSgccWOKAnfURVNqxix8uxe7SYEXu0k?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60326509/%E9%98%BFsa%E6%88%B2%E9%99%A2%E8%AC%9D%E7%A5%A8-%E8%BF%BD%E6%93%8A8%E6%9C%8815-%E9%90%B5%E4%B8%89%E8%A7%92%E9%87%8D%E8%81%9A%E6%8E%80%E5%9B%9E%E6%86%B6%E6%AE%BA-%E5%AE%8C%E5%85%A8%E5%86%87%E8%AB%97%E9%81%8E",
+    "timestamp": "2026-03-02T15:35:05.126Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "譚旻萱首戰米蘭展茶餐廳精神5分鐘清碟　莊重打招呼嚇偶像柳智敏",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260228/1104438126874464256301498.png/kYThYp5td1_0O7mKzNckHGXOI-U7puCqVLCxHVSwsR0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60325621/%E7%94%A86%E5%B9%B4%E6%B4%97%E8%A1%A3%E6%A9%9F%E5%86%92%E7%85%99%E8%B5%B7%E7%81%AB-%E5%A5%B3%E6%88%B6%E4%B8%BB%E9%80%83%E5%87%BA%E5%BE%8C%E5%82%B3%E7%88%86%E7%82%B8%E8%81%B2-%E4%B9%9D%E6%97%AC%E5%A9%86%E5%A9%86%E9%80%99%E6%A8%A3%E7%8D%B2%E6%95%91",
     "timestamp": "2026-03-01T23:14:02.542Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "郭藹明港姐訪談片出土自爆有後台　胞妹神顏值震驚網民：個妹仲靚",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260301/1104901825544327168952146.jpeg/3IPSgjTYh_uTdYBPWKkHubrFv7limbhFal031mpdN9Y?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60326205/%E9%83%AD%E8%97%B9%E6%98%8E%E6%B8%AF%E5%A7%90%E8%A8%AA%E8%AB%87%E7%89%87%E5%87%BA%E5%9C%9F%E8%87%AA%E7%88%86%E6%9C%89%E5%BE%8C%E5%8F%B0-%E8%83%9E%E5%A6%B9%E7%A5%9E%E9%A1%8F%E5%80%BC%E9%9C%87%E9%A9%9A%E7%B6%B2%E6%B0%91-%E5%80%8B%E5%A6%B9%E4%BB%B2%E9%9D%9A",
-    "timestamp": "2026-03-01T23:03:03.581Z",
     "strategy": ".content-card__main"
   }
 ];
