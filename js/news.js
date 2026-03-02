@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-02T16:54:54.404Z
+// Last updated: 2026-03-02T17:26:22.433Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "西班牙拒絕美國使用其基地打擊伊朗",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20221230/685534764471422976279104.jpeg/fFqVBYGLTiR8KT1idYxwYSHOhG0DKM0JdeTGI3XkxiM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60326700/%E8%A5%BF%E7%8F%AD%E7%89%99%E6%8B%92%E7%B5%95%E7%BE%8E%E5%9C%8B%E4%BD%BF%E7%94%A8%E5%85%B6%E5%9F%BA%E5%9C%B0%E6%89%93%E6%93%8A%E4%BC%8A%E6%9C%97",
+    "timestamp": "2026-03-02T17:26:22.433Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "25歲不年輕變扣分？男友人1句話令她傻眼：很老嗎？　網民唱反調",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/34118/org/71c1796536a3320848dacbd7f9a982b6.jpg/6sgRnopOKkmAsRNdP3Ar9UnhJ8PS5ba0dpmhBnaZoQY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60326322/%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8B%A2-%E6%B2%B9%E8%BC%AA%E6%93%9A%E5%A0%B1%E8%A2%AB%E6%93%8A%E4%B8%AD-%E7%B4%90%E7%B4%84%E6%9C%9F%E6%B2%B9%E6%80%A5%E5%8D%878-%E7%8F%BE%E8%B2%A8%E9%87%91%E9%80%BC%E8%BF%915400%E7%BE%8E%E5%85%83",
     "timestamp": "2026-03-02T00:44:43.865Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "「TVB冷板凳視后」懶理是非晒出浴照　渾身濕透有如出水芙蓉",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260301/1104893186662207488209384.jpeg/uNsihJ8Vx8Is9A9p1IGiGqmX-Ip7uJM22Gy9P9hsvT8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60326282/tvb%E5%86%B7%E6%9D%BF%E5%87%B3%E8%A6%96%E5%90%8E-%E6%87%B6%E7%90%86%E6%98%AF%E9%9D%9E%E6%99%92%E5%87%BA%E6%B5%B4%E7%85%A7-%E6%B8%BE%E8%BA%AB%E6%BF%95%E9%80%8F%E6%9C%89%E5%A6%82%E5%87%BA%E6%B0%B4%E8%8A%99%E8%93%89",
-    "timestamp": "2026-03-01T23:57:40.082Z",
     "strategy": ".content-card__main"
   }
 ];
