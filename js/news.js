@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-02T19:50:30.469Z
+// Last updated: 2026-03-02T20:18:54.782Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "橫頭磡邨單位疑抽濕機起火　3人受傷不適送院　約300名居民疏散",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260303/1105352804232335360784620.jpeg/KEDMFwozzjP_OtznTMrO21EukgvUXwZ4NjWuzxM1rs8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60326711/%E6%A9%AB%E9%A0%AD%E7%A3%A1%E9%82%A8%E5%96%AE%E4%BD%8D%E7%96%91%E6%8A%BD%E6%BF%95%E6%A9%9F%E8%B5%B7%E7%81%AB-3%E4%BA%BA%E5%8F%97%E5%82%B7%E4%B8%8D%E9%81%A9%E9%80%81%E9%99%A2-%E7%B4%84300%E5%90%8D%E5%B1%85%E6%B0%91%E7%96%8F%E6%95%A3",
+    "timestamp": "2026-03-02T20:18:54.782Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "黎巴嫩稱以軍空襲釀52死逾150人傷　下令真主黨解除武裝",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260302/1105165175201206272138964.jpeg/n_bfr3sRzAHCNbevJaIpJbgGCI59SdKdksRgGJLEYBg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60326518/%E4%B8%AD%E5%9C%8B%E5%A4%96%E4%BA%A4%E9%83%A8-%E5%B7%B2%E6%9C%893000%E5%A4%9A%E5%90%8D%E4%B8%AD%E5%9C%8B%E5%85%AC%E6%B0%91%E8%87%AA%E4%BC%8A%E6%9C%97%E6%92%A4%E9%9B%A2",
     "timestamp": "2026-03-02T07:55:19.190Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "陳浩民夫婦疑受困杜拜親歷中東戰火　妻子蔣麗莎發文歎和平可貴",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260302/1105147087198097408497356.jpeg/j-cv65oYGbyuH8uPFkWwPUzzqZ7UwbCgWSdXAlknVwI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60326476/%E9%99%B3%E6%B5%A9%E6%B0%91%E5%A4%AB%E5%A9%A6%E7%96%91%E5%8F%97%E5%9B%B0%E6%9D%9C%E6%8B%9C%E8%A6%AA%E6%AD%B7%E4%B8%AD%E6%9D%B1%E6%88%B0%E7%81%AB-%E5%A6%BB%E5%AD%90%E8%94%A3%E9%BA%97%E8%8E%8E%E7%99%BC%E6%96%87%E6%AD%8E%E5%92%8C%E5%B9%B3%E5%8F%AF%E8%B2%B4",
-    "timestamp": "2026-03-02T06:56:54.758Z",
     "strategy": ".content-card__main"
   }
 ];
