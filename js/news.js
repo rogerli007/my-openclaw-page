@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-02T21:03:01.709Z
+// Last updated: 2026-03-02T21:22:59.099Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "特朗普右頸現皮疹　醫生稱皮膚治療藥膏引起",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260303/1105359410214998016149378.jpeg/xcRDWwPMrJYo7bu-aAZVD0_L-cW7kox5XPJBBFzyQQQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60326712/%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%B3%E9%A0%B8%E7%8F%BE%E7%9A%AE%E7%96%B9-%E9%86%AB%E7%94%9F%E7%A8%B1%E7%9A%AE%E8%86%9A%E6%B2%BB%E7%99%82%E8%97%A5%E8%86%8F%E5%BC%95%E8%B5%B7",
+    "timestamp": "2026-03-02T21:22:59.099Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "特朗普右頸現皮疹　醫生稱皮膚治療藥膏引起",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260302/1105202312302825472243079.jpeg/eazs7gcuNfY_vjOcPMDDlT9651MJxjcL7ghUI-4IVCM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60326625/%E5%8D%B0%E5%BA%A6%E5%8A%A0%E6%8B%BF%E5%A4%A7%E6%93%AC%E5%B9%B4%E5%BA%95%E9%81%94%E6%88%90%E8%87%AA%E8%B2%BF%E5%8D%94%E5%AE%9A-%E7%B0%BD%E7%BD%B226%E5%84%84%E7%BE%8E%E5%85%83%E9%88%BE%E4%BE%9B%E6%87%89%E5%8D%94%E8%AD%B0",
     "timestamp": "2026-03-02T10:27:41.823Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "中東局勢升溫　孫玉菡稱港更有力吸人才　人才高峰會周本月中開鑼",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260204/1095719738572541952081657.jpeg/CQH8anKnA9Xq3YHvCmbKapKBEonZfAMAwZp9O-SafTs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60326543/%E4%B8%AD%E6%9D%B1%E5%B1%80%E5%8B%A2%E5%8D%87%E6%BA%AB-%E5%AD%AB%E7%8E%89%E8%8F%A1%E7%A8%B1%E6%B8%AF%E6%9B%B4%E6%9C%89%E5%8A%9B%E5%90%B8%E4%BA%BA%E6%89%8D-%E4%BA%BA%E6%89%8D%E9%AB%98%E5%B3%B0%E6%9C%83%E5%91%A8%E6%9C%AC%E6%9C%88%E4%B8%AD%E9%96%8B%E9%91%BC",
-    "timestamp": "2026-03-02T09:29:16.463Z",
     "strategy": ".content-card__main"
   }
 ];
