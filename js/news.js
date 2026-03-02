@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-02T06:56:54.758Z
+// Last updated: 2026-03-02T07:55:19.190Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "中國外交部：已有3000多名中國公民自伊朗撤離",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260302/1105165175201206272138964.jpeg/n_bfr3sRzAHCNbevJaIpJbgGCI59SdKdksRgGJLEYBg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60326518/%E4%B8%AD%E5%9C%8B%E5%A4%96%E4%BA%A4%E9%83%A8-%E5%B7%B2%E6%9C%893000%E5%A4%9A%E5%90%8D%E4%B8%AD%E5%9C%8B%E5%85%AC%E6%B0%91%E8%87%AA%E4%BC%8A%E6%9C%97%E6%92%A4%E9%9B%A2",
+    "timestamp": "2026-03-02T07:55:19.190Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "陳浩民夫婦疑受困杜拜親歷中東戰火　妻子蔣麗莎發文歎和平可貴",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260302/1104973195980574720674539.jpeg/B3AeXzHXoC8JF994016Cyjb95WgdGsQraubycWrm8nE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60326314/%E8%B7%AF%E9%80%8F%E7%A4%BE%E6%B0%91%E8%AA%BF-%E5%83%8527-%E7%BE%8E%E5%9C%8B%E4%BA%BA%E6%94%AF%E6%8C%81%E6%89%93%E6%93%8A%E4%BC%8A%E6%9C%97-56-%E6%8C%87%E7%89%B9%E6%9C%97%E6%99%AE%E9%81%8E%E4%BB%BD%E7%86%B1%E8%A1%B7%E5%8B%95%E6%AD%A6",
     "timestamp": "2026-03-01T19:55:56.903Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "路透社民調：僅27%美國人支持打擊伊朗　56%指特朗普過份熱衷動武",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260302/1104973195980574720674539.jpeg/B3AeXzHXoC8JF994016Cyjb95WgdGsQraubycWrm8nE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60326314/%E8%B7%AF%E9%80%8F%E7%A4%BE%E6%B0%91%E8%AA%BF-%E5%83%8527-%E7%BE%8E%E5%9C%8B%E4%BA%BA%E6%94%AF%E6%8C%81%E6%89%93%E6%93%8A%E4%BC%8A%E6%9C%97-56-%E6%8C%87%E7%89%B9%E6%9C%97%E6%99%AE%E9%81%8E%E4%BB%BD%E7%86%B1%E8%A1%B7%E5%8B%95%E6%AD%A6",
-    "timestamp": "2026-03-01T19:43:07.458Z",
     "strategy": ".content-card__main"
   }
 ];
