@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-02T07:55:19.190Z
+// Last updated: 2026-03-02T09:29:16.463Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "中東局勢升溫　孫玉菡稱港更有力吸人才　人才高峰會周本月中開鑼",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260204/1095719738572541952081657.jpeg/CQH8anKnA9Xq3YHvCmbKapKBEonZfAMAwZp9O-SafTs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60326543/%E4%B8%AD%E6%9D%B1%E5%B1%80%E5%8B%A2%E5%8D%87%E6%BA%AB-%E5%AD%AB%E7%8E%89%E8%8F%A1%E7%A8%B1%E6%B8%AF%E6%9B%B4%E6%9C%89%E5%8A%9B%E5%90%B8%E4%BA%BA%E6%89%8D-%E4%BA%BA%E6%89%8D%E9%AB%98%E5%B3%B0%E6%9C%83%E5%91%A8%E6%9C%AC%E6%9C%88%E4%B8%AD%E9%96%8B%E9%91%BC",
+    "timestamp": "2026-03-02T09:29:16.463Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "中國外交部：已有3000多名中國公民自伊朗撤離",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260302/1104985236879446016613574.jpeg/4GEbdqMZTZ_srMb0MNeI3TH9XS0y01M6kQwk6ZEMJOk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60326316/%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8B%A2-%E9%98%BF%E5%B8%83%E6%89%8E%E6%AF%94%E5%8F%8A%E6%9D%9C%E6%8B%9C%E8%A6%81%E6%B1%82%E9%85%92%E5%BA%97-%E7%82%BA%E6%BB%AF%E7%95%99%E7%95%B6%E5%9C%B0%E6%97%85%E5%AE%A2%E5%BB%B6%E9%95%B7%E4%BD%8F%E5%AE%BF%E6%9C%8D%E5%8B%99",
     "timestamp": "2026-03-01T20:14:00.169Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "路透社民調：僅27%美國人支持打擊伊朗　56%指特朗普過份熱衷動武",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260302/1104973195980574720674539.jpeg/B3AeXzHXoC8JF994016Cyjb95WgdGsQraubycWrm8nE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60326314/%E8%B7%AF%E9%80%8F%E7%A4%BE%E6%B0%91%E8%AA%BF-%E5%83%8527-%E7%BE%8E%E5%9C%8B%E4%BA%BA%E6%94%AF%E6%8C%81%E6%89%93%E6%93%8A%E4%BC%8A%E6%9C%97-56-%E6%8C%87%E7%89%B9%E6%9C%97%E6%99%AE%E9%81%8E%E4%BB%BD%E7%86%B1%E8%A1%B7%E5%8B%95%E6%AD%A6",
-    "timestamp": "2026-03-01T19:55:56.903Z",
     "strategy": ".content-card__main"
   }
 ];
