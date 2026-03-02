@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-02T00:44:43.865Z
+// Last updated: 2026-03-02T01:18:12.423Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "伊朗局勢｜學者：中國憂慮霍爾木茲海峽遭封鎖　衝擊北京利益",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260204/1095674988431675392051439.jpeg/7oOjFXnfwrSuqaaOd1A6ZLeB9A-KizxSvg838r4PN_I?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60326326/%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8B%A2-%E5%AD%B8%E8%80%85-%E4%B8%AD%E5%9C%8B%E6%86%82%E6%85%AE%E9%9C%8D%E7%88%BE%E6%9C%A8%E8%8C%B2%E6%B5%B7%E5%B3%BD%E9%81%AD%E5%B0%81%E9%8E%96-%E8%A1%9D%E6%93%8A%E5%8C%97%E4%BA%AC%E5%88%A9%E7%9B%8A",
+    "timestamp": "2026-03-02T01:18:12.423Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "伊朗局勢｜油輪據報被擊中　紐約期油急升8%　現貨金逼近5400美元",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260302/1104965547285549056089271.jpeg/6EJCwYXQgMlI5yQ-mkOAI15k799PCv0lCKCWSwiglks?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60326313/%E4%BB%A5%E8%BB%8D-%E5%B7%B2%E6%B6%88%E6%BB%85%E4%BC%8A%E6%9C%97%E5%8F%8A%E5%9C%B0%E5%8D%80%E7%B5%84%E7%B9%94%E6%89%80%E6%9C%89%E9%AB%98%E5%B1%A4-%E4%BB%A5%E7%B8%BD%E7%90%86-%E6%89%93%E6%93%8A%E8%A1%8C%E5%8B%95%E5%B0%87%E5%8D%87%E7%B4%9A",
     "timestamp": "2026-03-01T18:33:33.358Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美國德州酒吧槍擊案　包括槍手3死另14人傷　當局指疑涉恐怖主義",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260302/1104953587684872192047531.jpeg/C7zxJaoE-cRyNH8knW2ia9PY46AzxONMDzcqnQ83Kp0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60326308/%E7%BE%8E%E5%9C%8B%E5%BE%B7%E5%B7%9E%E9%85%92%E5%90%A7%E6%A7%8D%E6%93%8A%E6%A1%88-%E5%8C%85%E6%8B%AC%E6%A7%8D%E6%89%8B3%E6%AD%BB%E5%8F%A614%E4%BA%BA%E5%82%B7-%E7%95%B6%E5%B1%80%E6%8C%87%E7%96%91%E6%B6%89%E6%81%90%E6%80%96%E4%B8%BB%E7%BE%A9",
-    "timestamp": "2026-03-01T17:45:39.418Z",
     "strategy": ".content-card__main"
   }
 ];
