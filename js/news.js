@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-02T20:18:54.782Z
+// Last updated: 2026-03-02T21:03:01.709Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "特朗普右頸現皮疹　醫生稱皮膚治療藥膏引起",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260303/1105359410214998016149378.jpeg/xcRDWwPMrJYo7bu-aAZVD0_L-cW7kox5XPJBBFzyQQQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60326712/%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%B3%E9%A0%B8%E7%8F%BE%E7%9A%AE%E7%96%B9-%E9%86%AB%E7%94%9F%E7%A8%B1%E7%9A%AE%E8%86%9A%E6%B2%BB%E7%99%82%E8%97%A5%E8%86%8F%E5%BC%95%E8%B5%B7",
+    "timestamp": "2026-03-02T21:03:01.709Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "橫頭磡邨單位疑抽濕機起火　3人受傷不適送院　約300名居民疏散",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260204/1095719738572541952081657.jpeg/CQH8anKnA9Xq3YHvCmbKapKBEonZfAMAwZp9O-SafTs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60326543/%E4%B8%AD%E6%9D%B1%E5%B1%80%E5%8B%A2%E5%8D%87%E6%BA%AB-%E5%AD%AB%E7%8E%89%E8%8F%A1%E7%A8%B1%E6%B8%AF%E6%9B%B4%E6%9C%89%E5%8A%9B%E5%90%B8%E4%BA%BA%E6%89%8D-%E4%BA%BA%E6%89%8D%E9%AB%98%E5%B3%B0%E6%9C%83%E5%91%A8%E6%9C%AC%E6%9C%88%E4%B8%AD%E9%96%8B%E9%91%BC",
     "timestamp": "2026-03-02T09:29:16.463Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "中國外交部：已有3000多名中國公民自伊朗撤離",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260302/1105165175201206272138964.jpeg/n_bfr3sRzAHCNbevJaIpJbgGCI59SdKdksRgGJLEYBg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60326518/%E4%B8%AD%E5%9C%8B%E5%A4%96%E4%BA%A4%E9%83%A8-%E5%B7%B2%E6%9C%893000%E5%A4%9A%E5%90%8D%E4%B8%AD%E5%9C%8B%E5%85%AC%E6%B0%91%E8%87%AA%E4%BC%8A%E6%9C%97%E6%92%A4%E9%9B%A2",
-    "timestamp": "2026-03-02T07:55:19.190Z",
     "strategy": ".content-card__main"
   }
 ];
