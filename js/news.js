@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-01T23:57:40.082Z
+// Last updated: 2026-03-02T00:44:43.865Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "伊朗局勢｜油輪據報被擊中　紐約期油急升8%　現貨金逼近5400美元",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/34118/org/71c1796536a3320848dacbd7f9a982b6.jpg/6sgRnopOKkmAsRNdP3Ar9UnhJ8PS5ba0dpmhBnaZoQY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60326322/%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8B%A2-%E6%B2%B9%E8%BC%AA%E6%93%9A%E5%A0%B1%E8%A2%AB%E6%93%8A%E4%B8%AD-%E7%B4%90%E7%B4%84%E6%9C%9F%E6%B2%B9%E6%80%A5%E5%8D%878-%E7%8F%BE%E8%B2%A8%E9%87%91%E9%80%BC%E8%BF%915400%E7%BE%8E%E5%85%83",
+    "timestamp": "2026-03-02T00:44:43.865Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "「TVB冷板凳視后」懶理是非晒出浴照　渾身濕透有如出水芙蓉",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260302/1104953587684872192047531.jpeg/C7zxJaoE-cRyNH8knW2ia9PY46AzxONMDzcqnQ83Kp0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60326308/%E7%BE%8E%E5%9C%8B%E5%BE%B7%E5%B7%9E%E9%85%92%E5%90%A7%E6%A7%8D%E6%93%8A%E6%A1%88-%E5%8C%85%E6%8B%AC%E6%A7%8D%E6%89%8B3%E6%AD%BB%E5%8F%A614%E4%BA%BA%E5%82%B7-%E7%95%B6%E5%B1%80%E6%8C%87%E7%96%91%E6%B6%89%E6%81%90%E6%80%96%E4%B8%BB%E7%BE%A9",
     "timestamp": "2026-03-01T17:45:39.418Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "伊朗外長：對緩和局勢建議態度開放　無意攻擊鄰國　旨在美軍基地",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250419/990087909874864128186479.jpeg/obJQuLu0NoxEplXlHlSpQMjA9W0sVDEPqKl7Gaipexk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60326305/%E4%BC%8A%E6%9C%97%E5%A4%96%E9%95%B7-%E5%B0%8D%E7%B7%A9%E5%92%8C%E5%B1%80%E5%8B%A2%E5%BB%BA%E8%AD%B0%E6%85%8B%E5%BA%A6%E9%96%8B%E6%94%BE-%E7%84%A1%E6%84%8F%E6%94%BB%E6%93%8A%E9%84%B0%E5%9C%8B-%E6%97%A8%E5%9C%A8%E7%BE%8E%E8%BB%8D%E5%9F%BA%E5%9C%B0",
-    "timestamp": "2026-03-01T17:15:54.858Z",
     "strategy": ".content-card__main"
   }
 ];
