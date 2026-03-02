@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-02T09:29:16.463Z
+// Last updated: 2026-03-02T10:27:41.823Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "印度加拿大擬年底達成自貿協定　簽署26億美元鈾供應協議",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260302/1105202312302825472243079.jpeg/eazs7gcuNfY_vjOcPMDDlT9651MJxjcL7ghUI-4IVCM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60326625/%E5%8D%B0%E5%BA%A6%E5%8A%A0%E6%8B%BF%E5%A4%A7%E6%93%AC%E5%B9%B4%E5%BA%95%E9%81%94%E6%88%90%E8%87%AA%E8%B2%BF%E5%8D%94%E5%AE%9A-%E7%B0%BD%E7%BD%B226%E5%84%84%E7%BE%8E%E5%85%83%E9%88%BE%E4%BE%9B%E6%87%89%E5%8D%94%E8%AD%B0",
+    "timestamp": "2026-03-02T10:27:41.823Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "中東局勢升溫　孫玉菡稱港更有力吸人才　人才高峰會周本月中開鑼",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260302/1104983495987433472230891.jpeg/bDSO4RQKW5byq36ofdI4kfpxsVzkr-oRTIQmv0yEJr8",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60326317/%E7%9A%87%E5%90%8E%E5%B1%B1%E6%93%8D%E6%99%AE%E9%80%9A%E8%A9%B1%E7%AB%A5%E9%BB%A8%E7%8B%82%E6%91%91%E5%A5%B3%E7%AB%A5-%E5%9C%8D%E8%A7%80%E9%BB%A8%E7%BE%BD%E7%AA%81%E4%BA%AE%E6%B0%A3%E6%A7%8D-%E6%8C%81%E9%9B%BB%E8%A9%B1%E6%8B%8D%E4%B8%8B%E9%81%8E%E7%A8%8B",
     "timestamp": "2026-03-01T20:31:30.409Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "伊朗局勢｜阿布扎比及杜拜要求酒店　為滯留當地旅客延長住宿服務",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260302/1104985236879446016613574.jpeg/4GEbdqMZTZ_srMb0MNeI3TH9XS0y01M6kQwk6ZEMJOk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60326316/%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8B%A2-%E9%98%BF%E5%B8%83%E6%89%8E%E6%AF%94%E5%8F%8A%E6%9D%9C%E6%8B%9C%E8%A6%81%E6%B1%82%E9%85%92%E5%BA%97-%E7%82%BA%E6%BB%AF%E7%95%99%E7%95%B6%E5%9C%B0%E6%97%85%E5%AE%A2%E5%BB%B6%E9%95%B7%E4%BD%8F%E5%AE%BF%E6%9C%8D%E5%8B%99",
-    "timestamp": "2026-03-01T20:14:00.169Z",
     "strategy": ".content-card__main"
   }
 ];
