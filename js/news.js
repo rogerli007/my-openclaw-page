@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-02T21:51:17.022Z
+// Last updated: 2026-03-02T22:16:31.313Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "影壇大佬曾兩度患癌最新狀況好精神　枱面有煙網民勸勉食少啲",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260302/1105260752110882816673281.jpeg/3xFbJ2Vm5nFXloDFVH6mryHUsbWfD0baroTP7K6Ez-w?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60326489/%E9%99%B3%E6%83%A0%E6%95%8F%E6%9B%BE%E5%85%A9%E5%BA%A6%E6%82%A3%E7%99%8C%E6%9C%80%E6%96%B0%E7%9B%B8%E5%A5%BD%E7%B2%BE%E7%A5%9E-%E6%9E%B1%E9%9D%A2%E6%9C%89%E7%85%99%E7%B6%B2%E6%B0%91%E5%8B%B8%E5%8B%89%E9%A3%9F%E5%B0%91%E5%95%B2",
+    "timestamp": "2026-03-02T22:16:31.313Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "伊朗局勢｜魯比奧：將公布措施緩解油價上漲問題",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260302/1105210188094246912309548.png/eHFUHYl-2Q5Ix9MofTwuAO02Ao69CdqEte--C7Xvvgs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60326613/%E4%B8%AD%E5%A4%A7%E9%86%AB%E9%99%A2%E4%BB%81%E9%86%AB%E9%BB%83%E8%A9%A0%E5%84%80%E8%8B%B1%E5%B9%B4%E6%97%A9%E9%80%9D-%E7%97%85%E4%BA%BA%E7%A8%B1%E5%91%BD%E4%B8%AD%E8%B2%B4%E4%BA%BA-%E6%9B%BE%E8%B5%B4%E9%98%BF%E5%AF%8C%E6%B1%97%E6%95%91%E6%8F%B4",
     "timestamp": "2026-03-02T12:01:48.001Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "中年好聲音4｜麥曉東遭淘汰憾別舞台　布志綸自責：應該係淘汰我",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260302/1105161688765698048829074.jpeg/nhLmG1n4coOTK-3CdS7yzx89I6Qv_xXwjZfek42X3pM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60326505/%E4%B8%AD%E5%B9%B4%E5%A5%BD%E8%81%B2%E9%9F%B34-%E9%BA%A5%E6%9B%89%E6%9D%B1%E9%81%AD%E6%B7%98%E6%B1%B0%E6%86%BE%E5%88%A5%E8%88%9E%E5%8F%B0-%E5%B8%83%E5%BF%97%E7%B6%B8%E8%87%AA%E8%B2%AC-%E6%87%89%E8%A9%B2%E4%BF%82%E6%B7%98%E6%B1%B0%E6%88%91",
-    "timestamp": "2026-03-02T11:24:09.771Z",
     "strategy": ".content-card__main"
   }
 ];
