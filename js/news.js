@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-03T12:54:43.028Z
+// Last updated: 2026-03-03T13:35:10.255Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "黃詠儀醫生離世｜回母校分享抗癌經歷　去年與友回校穿校服話當年",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260303/1105590975394222080435086.jpeg/I5vGiRcN9imT-6V18N9yZDd-ZM9yqz1GyysAmcsrAJk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60327007/%E9%BB%83%E8%A9%A0%E5%84%80%E9%86%AB%E7%94%9F%E9%9B%A2%E4%B8%96-%E5%9B%9E%E6%AF%8D%E6%A0%A1%E5%88%86%E4%BA%AB%E6%8A%97%E7%99%8C%E7%B6%93%E6%AD%B7-%E5%8E%BB%E5%B9%B4%E8%88%87%E5%8F%8B%E5%9B%9E%E6%A0%A1%E7%A9%BF%E6%A0%A1%E6%9C%8D%E8%A9%B1%E7%95%B6%E5%B9%B4",
+    "timestamp": "2026-03-03T13:35:10.255Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "高球場覆核案．上訴｜政府指修例後不需環評　指覆核應被駁回",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260303/1105352804232335360784620.jpeg/KEDMFwozzjP_OtznTMrO21EukgvUXwZ4NjWuzxM1rs8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60326711/%E6%A9%AB%E9%A0%AD%E7%A3%A1%E9%82%A8%E5%96%AE%E4%BD%8D%E7%96%91%E6%8A%BD%E6%BF%95%E6%A9%9F%E8%B5%B7%E7%81%AB-3%E4%BA%BA%E5%8F%97%E5%82%B7%E4%B8%8D%E9%81%A9%E9%80%81%E9%99%A2-%E7%B4%84300%E5%90%8D%E5%B1%85%E6%B0%91%E7%96%8F%E6%95%A3",
     "timestamp": "2026-03-02T20:18:54.782Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "黎巴嫩稱以軍空襲釀52死逾150人傷　下令真主黨解除武裝",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260303/1105329485084889088930678.jpeg/DB8nSpeUo5-sHRUeDdcPZa7kRx_VbWNxTd7Ym03e2Js?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60326708/%E9%BB%8E%E5%B7%B4%E5%AB%A9%E7%A8%B1%E4%BB%A5%E8%BB%8D%E7%A9%BA%E8%A5%B2%E9%87%8052%E6%AD%BB%E9%80%BE150%E4%BA%BA%E5%82%B7-%E4%B8%8B%E4%BB%A4%E7%9C%9F%E4%B8%BB%E9%BB%A8%E8%A7%A3%E9%99%A4%E6%AD%A6%E8%A3%9D",
-    "timestamp": "2026-03-02T19:50:30.469Z",
     "strategy": ".content-card__main"
   }
 ];
