@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-03T17:53:02.145Z
+// Last updated: 2026-03-03T20:35:20.655Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "中東局勢．航班資訊最新｜3.4暫有6航班取消　國泰至3.14全取消",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260301/1104793078654308352615403.jpeg/Md6efheYKivGw8VPJ2FF8yOooqUw2r-dcC_r9nAv6_Y?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60326069/%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8B%A2%E6%9C%80%E6%B6%88%E6%81%AF-%E9%A6%99%E6%B8%AF%E6%A9%9F%E5%A0%B4%E5%A4%9A%E8%88%AA%E7%8F%AD%E5%8F%96%E6%B6%88-%E6%B6%89%E6%9D%9C%E6%8B%9C%E5%A4%9A%E5%93%88-%E9%99%84%E5%85%A8%E5%90%8D%E5%96%AE",
+    "timestamp": "2026-03-03T20:35:20.655Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "M5 MacBook Air﹑M5 MacBook Pro登場！升級512 SSD﹑強大AI性能",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260303/1105487797726220288023965.jpeg/PNvTWbJLRAdFDb5eXd1qv6msQKERRl9JZ2Mfp2djH6c?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60326825/%E5%85%83%E5%AE%B5%E7%AF%80%E5%A4%A9%E6%B0%A3-%E5%A4%A9%E6%96%87%E5%8F%B0-%E9%AB%98%E7%A9%BA%E6%93%BE%E5%8B%95%E7%9B%B8%E9%97%9C%E9%A9%9F%E9%9B%A8%E6%BC%B8%E7%A7%BB%E5%90%91%E7%8F%A0%E6%B1%9F%E5%8F%A3-%E7%B1%B2%E5%B8%B6%E5%82%98%E5%87%BA%E9%96%80",
     "timestamp": "2026-03-03T05:08:26.591Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "伊朗局勢｜中遠海運稱波斯灣內船舶　將於安全水域滯航或錨泊",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20240716/889847188426199040401568.jpeg/YbjG-5czy-u67CX4ZDWManhY0BcNonYFNUb_hzVG_4c?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60326726/%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8B%A2-%E4%B8%AD%E9%81%A0%E6%B5%B7%E9%81%8B%E7%A8%B1%E6%B3%A2%E6%96%AF%E7%81%A3%E5%85%A7%E8%88%B9%E8%88%B6-%E5%B0%87%E6%96%BC%E5%AE%89%E5%85%A8%E6%B0%B4%E5%9F%9F%E6%BB%AF%E8%88%AA%E6%88%96%E9%8C%A8%E6%B3%8A",
-    "timestamp": "2026-03-03T01:44:04.527Z",
     "strategy": ".content-card__main"
   }
 ];
