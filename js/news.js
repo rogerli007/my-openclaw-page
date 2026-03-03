@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-03T14:53:15.708Z
+// Last updated: 2026-03-03T15:27:43.154Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "香港仔62歲男工登漁船工作觸電昏迷　留醫約16小時不治",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260302/1105173695132995584395641.jpeg/MnJFuN0I8guVdAxfbrb1YG4Nh_Vj69iH9rM7AcCzOwE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60327069/%E9%A6%99%E6%B8%AF%E4%BB%9462%E6%AD%B2%E7%94%B7%E5%B7%A5%E7%99%BB%E6%BC%81%E8%88%B9%E5%B7%A5%E4%BD%9C%E8%A7%B8%E9%9B%BB%E6%98%8F%E8%BF%B7-%E7%95%99%E9%86%AB%E7%B4%8416%E5%B0%8F%E6%99%82%E4%B8%8D%E6%B2%BB",
+    "timestamp": "2026-03-03T15:27:43.154Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "王晶選擇河南進攻微短劇產業　鄭州如何實現日均百部短劇開機？",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260302/1105260752110882816673281.jpeg/3xFbJ2Vm5nFXloDFVH6mryHUsbWfD0baroTP7K6Ez-w?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60326489/%E9%99%B3%E6%83%A0%E6%95%8F%E6%9B%BE%E5%85%A9%E5%BA%A6%E6%82%A3%E7%99%8C%E6%9C%80%E6%96%B0%E7%9B%B8%E5%A5%BD%E7%B2%BE%E7%A5%9E-%E6%9E%B1%E9%9D%A2%E6%9C%89%E7%85%99%E7%B6%B2%E6%B0%91%E5%8B%B8%E5%8B%89%E9%A3%9F%E5%B0%91%E5%95%B2",
     "timestamp": "2026-03-02T22:16:31.313Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "伊朗局勢｜魯比奧：將公布措施緩解油價上漲問題",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260303/1105376989050572800492536.jpeg/7QR8EUPx3XtADcSnsr_zPLhiTUGDIJsc3H_Osdx_zrE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60326713/%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8B%A2-%E9%AD%AF%E6%AF%94%E5%A5%A7-%E5%B0%87%E5%85%AC%E5%B8%83%E6%8E%AA%E6%96%BD%E7%B7%A9%E8%A7%A3%E6%B2%B9%E5%83%B9%E4%B8%8A%E6%BC%B2%E5%95%8F%E9%A1%8C",
-    "timestamp": "2026-03-02T21:51:17.022Z",
     "strategy": ".content-card__main"
   }
 ];
