@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-03T21:02:11.819Z
+// Last updated: 2026-03-03T21:50:23.165Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "伊朗局勢｜馬克龍：美以行動不符國際法　派航母戴高樂號赴地中海",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260304/1105727343680294912024697.jpeg/blkrVAs-xg-kkEHxpYi0ubej8iATj5P8xPg49MT4OPQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60327096/%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8B%A2-%E9%A6%AC%E5%85%8B%E9%BE%8D-%E7%BE%8E%E4%BB%A5%E8%A1%8C%E5%8B%95%E4%B8%8D%E7%AC%A6%E5%9C%8B%E9%9A%9B%E6%B3%95-%E6%B4%BE%E8%88%AA%E6%AF%8D%E6%88%B4%E9%AB%98%E6%A8%82%E8%99%9F%E8%B5%B4%E5%9C%B0%E4%B8%AD%E6%B5%B7",
+    "timestamp": "2026-03-03T21:50:23.165Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "中東局勢．航班資訊最新｜3.4暫有6航班取消　國泰至3.14全取消",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260303/1105500277756137472782465.jpeg/N9q1WSDnNGPpJawN2nA7XYW3D79MUQnQl9zPTJfcz0w?v=w1920r16_9",
     "url": "https://www.hk01.com/%E4%B8%AD%E5%9C%8B%E8%A7%80%E5%AF%9F/60326840/%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8B%A2-%E7%BE%8E%E5%AA%92-%E4%B8%AD%E4%BC%8A%E9%97%9C%E4%BF%82%E9%81%A0%E6%AF%94%E5%A4%96%E7%95%8C%E6%99%AE%E9%81%8D%E8%AA%8D%E7%82%BA%E7%9A%84%E6%9B%B4%E5%A4%B1%E8%A1%A1",
     "timestamp": "2026-03-03T06:08:22.179Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "中東局勢｜香港女足退出杜拜賽事　足總：職球員安全為首要考慮",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260303/1105495614780608512874936.jpeg/gJC7qd_4Q1n31lqI0LnkMSYo-WcaHn5dI_bB0CP2wdA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60326830/%E4%B8%AD%E6%9D%B1%E5%B1%80%E5%8B%A2-%E9%A6%99%E6%B8%AF%E5%A5%B3%E8%B6%B3%E9%80%80%E5%87%BA%E6%9D%9C%E6%8B%9C%E8%B3%BD%E4%BA%8B-%E8%B6%B3%E7%B8%BD-%E8%81%B7%E7%90%83%E5%93%A1%E5%AE%89%E5%85%A8%E7%82%BA%E9%A6%96%E8%A6%81%E8%80%83%E6%85%AE",
-    "timestamp": "2026-03-03T05:41:15.066Z",
     "strategy": ".content-card__main"
   }
 ];
