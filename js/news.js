@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-03T14:29:21.786Z
+// Last updated: 2026-03-03T14:53:15.708Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "王晶選擇河南進攻微短劇產業　鄭州如何實現日均百部短劇開機？",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260303/1105633226593931264721853.jpeg/aOX3lImAiramVSHKKMnCS-gH7rAvld_qV_MjGFfzIxg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%97%9D%E6%96%87%E4%B8%AD%E5%9C%8B/60326956/%E7%8E%8B%E6%99%B6%E9%81%B8%E6%93%87%E6%B2%B3%E5%8D%97%E9%80%B2%E6%94%BB%E5%BE%AE%E7%9F%AD%E5%8A%87%E7%94%A2%E6%A5%AD-%E9%84%AD%E5%B7%9E%E5%A6%82%E4%BD%95%E5%AF%A6%E7%8F%BE%E6%97%A5%E5%9D%87%E7%99%BE%E9%83%A8%E7%9F%AD%E5%8A%87%E9%96%8B%E6%A9%9F",
+    "timestamp": "2026-03-03T14:53:15.708Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美食新聞報道丨土瓜灣小店媲美名人飯堂　張員瑛至愛品牌落戶香港",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260303/1105376989050572800492536.jpeg/7QR8EUPx3XtADcSnsr_zPLhiTUGDIJsc3H_Osdx_zrE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60326713/%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8B%A2-%E9%AD%AF%E6%AF%94%E5%A5%A7-%E5%B0%87%E5%85%AC%E5%B8%83%E6%8E%AA%E6%96%BD%E7%B7%A9%E8%A7%A3%E6%B2%B9%E5%83%B9%E4%B8%8A%E6%BC%B2%E5%95%8F%E9%A1%8C",
     "timestamp": "2026-03-02T21:51:17.022Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普右頸現皮疹　醫生稱皮膚治療藥膏引起",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260303/1105359410214998016149378.jpeg/xcRDWwPMrJYo7bu-aAZVD0_L-cW7kox5XPJBBFzyQQQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60326712/%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%B3%E9%A0%B8%E7%8F%BE%E7%9A%AE%E7%96%B9-%E9%86%AB%E7%94%9F%E7%A8%B1%E7%9A%AE%E8%86%9A%E6%B2%BB%E7%99%82%E8%97%A5%E8%86%8F%E5%BC%95%E8%B5%B7",
-    "timestamp": "2026-03-02T21:22:59.099Z",
     "strategy": ".content-card__main"
   }
 ];
