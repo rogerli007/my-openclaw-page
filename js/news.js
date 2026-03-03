@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-03T08:26:20.872Z
+// Last updated: 2026-03-03T09:53:13.214Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "荷里活男星意大利拍戲不敵美食誘惑狂胖30磅　導演崩潰：別再吃了",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260228/1104396693182353408697320.jpeg/S-EwNxv1detztmWGpJDaVGt5UeNokfBc7j0MXO49DFw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60325924/solo-mio-kevin-james%E6%84%8F%E5%A4%A7%E5%88%A9%E6%8B%8D%E6%88%B2%E7%8B%82%E8%83%9613kg-%E5%B0%8E%E6%BC%94%E5%B4%A9%E6%BD%B0-%E5%88%A5%E5%86%8D%E5%90%83%E4%BA%86",
+    "timestamp": "2026-03-03T09:53:13.214Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "LIV GOLF香港站｜警料每日7000觀眾入場　實施交通及人群管理措施",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260302/1105266281474428928239018.jpeg/MuOdfbqHYY6JBkSb_iAvNBKCA2iyezJrVZ_NIHCfzSA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60326689/%E5%85%A9%E7%94%B7%E9%97%96%E6%97%BA%E8%A7%92%E8%97%A5%E6%88%BF%E6%8C%81%E4%BC%B8%E7%B8%AE%E6%A3%8D%E6%90%97%E4%BA%82-%E6%AF%86%E5%82%B7%E8%B2%A0%E8%B2%AC%E4%BA%BA-%E8%AD%A6%E6%8B%98%E4%B8%80%E7%94%B7%E8%BF%BD%E7%B7%9D%E5%90%8C%E9%BB%A8",
     "timestamp": "2026-03-02T18:25:18.691Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "塞浦路斯證英軍基地兩度遭無人機襲擊　總統強調不參與軍事行動",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260303/1105311071649927168390126.jpeg/0suWmBDioz_EfUavsG4gKCjmv6wdnkdWt8_IOLfPyDg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60326704/%E5%A1%9E%E6%B5%A6%E8%B7%AF%E6%96%AF%E8%AD%89%E8%8B%B1%E8%BB%8D%E5%9F%BA%E5%9C%B0%E5%85%A9%E5%BA%A6%E9%81%AD%E7%84%A1%E4%BA%BA%E6%A9%9F%E8%A5%B2%E6%93%8A-%E7%B8%BD%E7%B5%B1%E5%BC%B7%E8%AA%BF%E4%B8%8D%E5%8F%83%E8%88%87%E8%BB%8D%E4%BA%8B%E8%A1%8C%E5%8B%95",
-    "timestamp": "2026-03-02T17:53:49.679Z",
     "strategy": ".content-card__main"
   }
 ];
