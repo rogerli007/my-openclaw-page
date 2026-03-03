@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-03T05:08:26.591Z
+// Last updated: 2026-03-03T05:41:15.066Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "中東局勢｜香港女足退出杜拜賽事　足總：職球員安全為首要考慮",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260303/1105495614780608512874936.jpeg/gJC7qd_4Q1n31lqI0LnkMSYo-WcaHn5dI_bB0CP2wdA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60326830/%E4%B8%AD%E6%9D%B1%E5%B1%80%E5%8B%A2-%E9%A6%99%E6%B8%AF%E5%A5%B3%E8%B6%B3%E9%80%80%E5%87%BA%E6%9D%9C%E6%8B%9C%E8%B3%BD%E4%BA%8B-%E8%B6%B3%E7%B8%BD-%E8%81%B7%E7%90%83%E5%93%A1%E5%AE%89%E5%85%A8%E7%82%BA%E9%A6%96%E8%A6%81%E8%80%83%E6%85%AE",
+    "timestamp": "2026-03-03T05:41:15.066Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "元宵節天氣｜天文台︰高空擾動相關驟雨漸移向珠江口　籲帶傘出門",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260302/1105197998394052608685907.jpeg/-y98ku_45wy5z0ZKwI3IhtvBein69r2W_-Ojbf_jo20?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60326595/%E8%AD%9A%E6%97%BB%E8%90%B1%E9%A6%96%E6%88%B0%E7%B1%B3%E8%98%AD%E5%B1%95%E8%8C%B6%E9%A4%90%E5%BB%B3%E7%B2%BE%E7%A5%9E5%E5%88%86%E9%90%98%E6%B8%85%E7%A2%9F-%E8%8E%8A%E9%87%8D%E6%89%93%E6%8B%9B%E5%91%BC%E5%9A%87%E5%81%B6%E5%83%8F%E6%9F%B3%E6%99%BA%E6%95%8F",
     "timestamp": "2026-03-02T15:07:14.407Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "小學館允性侵犯「換名」連載新漫畫惹公憤　眾作者怒轟引爆抵制潮",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260302/1105107520113872896701659.jpeg/J6actMIPuarn4fwFq73G0Rvqtn7DdhVh8dqJsPHaibA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60326414/%E5%B0%8F%E5%AD%B8%E9%A4%A8%E5%85%81%E6%80%A7%E4%BE%B5%E7%8A%AF-%E6%8F%9B%E5%90%8D-%E9%80%A3%E8%BC%89%E6%96%B0%E6%BC%AB%E7%95%AB%E6%83%B9%E5%85%AC%E6%86%A4-%E7%9C%BE%E4%BD%9C%E8%80%85%E6%80%92%E8%BD%9F%E5%BC%95%E7%88%86%E6%8A%B5%E5%88%B6%E6%BD%AE",
-    "timestamp": "2026-03-02T14:36:02.415Z",
     "strategy": ".content-card__main"
   }
 ];
