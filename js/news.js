@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-03T05:41:15.066Z
+// Last updated: 2026-03-03T06:08:22.179Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "中國未支持伊朗防禦　美媒：兩國關係遠比外界普遍認為的更失衡",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260303/1105500277756137472782465.jpeg/N9q1WSDnNGPpJawN2nA7XYW3D79MUQnQl9zPTJfcz0w?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E4%B8%AD%E5%9C%8B%E8%A7%80%E5%AF%9F/60326840/%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8B%A2-%E7%BE%8E%E5%AA%92-%E4%B8%AD%E4%BC%8A%E9%97%9C%E4%BF%82%E9%81%A0%E6%AF%94%E5%A4%96%E7%95%8C%E6%99%AE%E9%81%8D%E8%AA%8D%E7%82%BA%E7%9A%84%E6%9B%B4%E5%A4%B1%E8%A1%A1",
+    "timestamp": "2026-03-03T06:08:22.179Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "中東局勢｜香港女足退出杜拜賽事　足總：職球員安全為首要考慮",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260302/1105160194310017024852940.jpeg/EeNOjh9ujfMGQSgccWOKAnfURVNqxix8uxe7SYEXu0k?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60326509/%E9%98%BFsa%E6%88%B2%E9%99%A2%E8%AC%9D%E7%A5%A8-%E8%BF%BD%E6%93%8A8%E6%9C%8815-%E9%90%B5%E4%B8%89%E8%A7%92%E9%87%8D%E8%81%9A%E6%8E%80%E5%9B%9E%E6%86%B6%E6%AE%BA-%E5%AE%8C%E5%85%A8%E5%86%87%E8%AB%97%E9%81%8E",
     "timestamp": "2026-03-02T15:35:05.126Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "譚旻萱首戰米蘭展茶餐廳精神5分鐘清碟　莊重打招呼嚇偶像柳智敏",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260302/1105197998394052608685907.jpeg/-y98ku_45wy5z0ZKwI3IhtvBein69r2W_-Ojbf_jo20?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60326595/%E8%AD%9A%E6%97%BB%E8%90%B1%E9%A6%96%E6%88%B0%E7%B1%B3%E8%98%AD%E5%B1%95%E8%8C%B6%E9%A4%90%E5%BB%B3%E7%B2%BE%E7%A5%9E5%E5%88%86%E9%90%98%E6%B8%85%E7%A2%9F-%E8%8E%8A%E9%87%8D%E6%89%93%E6%8B%9B%E5%91%BC%E5%9A%87%E5%81%B6%E5%83%8F%E6%9F%B3%E6%99%BA%E6%95%8F",
-    "timestamp": "2026-03-02T15:07:14.407Z",
     "strategy": ".content-card__main"
   }
 ];
