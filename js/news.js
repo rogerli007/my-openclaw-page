@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-03T10:52:47.260Z
+// Last updated: 2026-03-03T12:03:41.254Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "伊朗局勢｜香港郵政︰即時停中東空郵寄件服務　涉埃及等14個國家",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260302/1105227717194027008968415.jpeg/-VwIZJJnaJztKKIACre6xnke5SFOQGApPePt6hjj7eo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60327016/%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8B%A2-%E9%A6%99%E6%B8%AF%E9%83%B5%E6%94%BF-%E5%8D%B3%E6%99%82%E5%81%9C%E4%B8%AD%E6%9D%B1%E7%A9%BA%E9%83%B5%E5%AF%84%E4%BB%B6%E6%9C%8D%E5%8B%99-%E6%B6%89%E5%9F%83%E5%8F%8A%E7%AD%8914%E5%80%8B%E5%9C%8B%E5%AE%B6",
+    "timestamp": "2026-03-03T12:03:41.254Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "專訪沙畫藝術家鍾雪個展《城市。尋光》定格流沙留住香港街景光影",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260303/1105329485084889088930678.jpeg/DB8nSpeUo5-sHRUeDdcPZa7kRx_VbWNxTd7Ym03e2Js?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60326708/%E9%BB%8E%E5%B7%B4%E5%AB%A9%E7%A8%B1%E4%BB%A5%E8%BB%8D%E7%A9%BA%E8%A5%B2%E9%87%8052%E6%AD%BB%E9%80%BE150%E4%BA%BA%E5%82%B7-%E4%B8%8B%E4%BB%A4%E7%9C%9F%E4%B8%BB%E9%BB%A8%E8%A7%A3%E9%99%A4%E6%AD%A6%E8%A3%9D",
     "timestamp": "2026-03-02T19:25:25.462Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "黎巴嫩稱以軍空襲釀52死逾150人傷　宣布禁止真主黨軍事活動",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260303/1105329485084889088930678.jpeg/DB8nSpeUo5-sHRUeDdcPZa7kRx_VbWNxTd7Ym03e2Js?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60326708/%E9%BB%8E%E5%B7%B4%E5%AB%A9%E7%A8%B1%E4%BB%A5%E8%BB%8D%E7%A9%BA%E8%A5%B2%E9%87%8052%E6%AD%BB%E9%80%BE150%E4%BA%BA%E5%82%B7-%E5%AE%A3%E5%B8%83%E7%A6%81%E6%AD%A2%E7%9C%9F%E4%B8%BB%E9%BB%A8%E8%BB%8D%E4%BA%8B%E6%B4%BB%E5%8B%95",
-    "timestamp": "2026-03-02T18:54:38.781Z",
     "strategy": ".content-card__main"
   }
 ];
