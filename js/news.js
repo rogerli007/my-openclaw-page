@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-03T09:53:13.214Z
+// Last updated: 2026-03-03T10:52:47.260Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "專訪沙畫藝術家鍾雪個展《城市。尋光》定格流沙留住香港街景光影",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260303/1105569190393155584492805.jpeg/dtCUIcSBgVKccBL-N9MI8tGXozYv3M6B0ederdHnXq0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%97%9D%E6%96%87/60326982/%E5%B0%88%E8%A8%AA-%E6%B2%99%E7%95%AB%E8%97%9D%E8%A1%93%E5%AE%B6%E9%8D%BE%E9%9B%AA%E5%80%8B%E5%B1%95-%E5%9F%8E%E5%B8%82-%E5%B0%8B%E5%85%89-%E5%AE%9A%E6%A0%BC%E6%B5%81%E6%B2%99%E7%95%99%E4%BD%8F%E9%A6%99%E6%B8%AF%E8%A1%97%E6%99%AF",
+    "timestamp": "2026-03-03T10:52:47.260Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "荷里活男星意大利拍戲不敵美食誘惑狂胖30磅　導演崩潰：別再吃了",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260303/1105329485084889088930678.jpeg/DB8nSpeUo5-sHRUeDdcPZa7kRx_VbWNxTd7Ym03e2Js?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60326708/%E9%BB%8E%E5%B7%B4%E5%AB%A9%E7%A8%B1%E4%BB%A5%E8%BB%8D%E7%A9%BA%E8%A5%B2%E9%87%8052%E6%AD%BB%E9%80%BE150%E4%BA%BA%E5%82%B7-%E5%AE%A3%E5%B8%83%E7%A6%81%E6%AD%A2%E7%9C%9F%E4%B8%BB%E9%BB%A8%E8%BB%8D%E4%BA%8B%E6%B4%BB%E5%8B%95",
     "timestamp": "2026-03-02T18:54:38.781Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "兩男闖旺角藥房持伸縮棍搗亂　毆傷負責人　警拘一男追緝同黨",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260302/1105266281474428928239018.jpeg/MuOdfbqHYY6JBkSb_iAvNBKCA2iyezJrVZ_NIHCfzSA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60326689/%E5%85%A9%E7%94%B7%E9%97%96%E6%97%BA%E8%A7%92%E8%97%A5%E6%88%BF%E6%8C%81%E4%BC%B8%E7%B8%AE%E6%A3%8D%E6%90%97%E4%BA%82-%E6%AF%86%E5%82%B7%E8%B2%A0%E8%B2%AC%E4%BA%BA-%E8%AD%A6%E6%8B%98%E4%B8%80%E7%94%B7%E8%BF%BD%E7%B7%9D%E5%90%8C%E9%BB%A8",
-    "timestamp": "2026-03-02T18:25:18.691Z",
     "strategy": ".content-card__main"
   }
 ];
