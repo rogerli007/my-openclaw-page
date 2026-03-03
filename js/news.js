@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-02T23:31:25.805Z
+// Last updated: 2026-03-03T00:00:34.677Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "皇后山童黨欺凌內情｜13歲少女疑背後講壞話　遭對方班馬報復",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260303/1105406478396690432801945.jpeg/KFxRcWe5U1iysDB2GG8gMWOJqFrmKpAI7tH9U-7R_VM",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60326716/%E7%9A%87%E5%90%8E%E5%B1%B1%E7%AB%A5%E9%BB%A8%E6%AC%BA%E5%87%8C%E5%85%A7%E6%83%85-13%E6%AD%B2%E5%B0%91%E5%A5%B3%E7%96%91%E8%83%8C%E5%BE%8C%E8%AC%9B%E5%A3%9E%E8%A9%B1-%E9%81%AD%E5%B0%8D%E6%96%B9%E7%8F%AD%E9%A6%AC%E5%A0%B1%E5%BE%A9",
+    "timestamp": "2026-03-03T00:00:34.677Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "性感女神現身澀谷54歲驚變師奶Look　出道即做電影女一爆紅逾30年",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250307/974704179178115072073426.jpeg/GczM8il0p5E1MkJqxvalK95D6sYrmBDr6fzm-en85vk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60326671/%E7%8E%8B%E6%AF%85%E8%88%87%E9%98%BF%E6%8B%89%E6%A0%BC%E9%BD%8A%E9%80%9A%E9%9B%BB%E8%A9%B1-%E6%94%AF%E6%8C%81%E4%BC%8A%E6%9C%97%E7%B6%AD%E8%AD%B7%E8%87%AA%E8%BA%AB%E6%AC%8A%E5%8A%9B%E5%92%8C%E5%88%A9%E7%9B%8A",
     "timestamp": "2026-03-02T12:54:32.865Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "廉署招聘廉政主任　起薪5萬頂點11萬　可同時投考助理廉政主任",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260302/1105221126482563072154973.jpeg/ym9nagmZ-uNdcO_BPzaiRBdnjScZtuZ8byC1gG8gtYA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60326606/%E5%BB%89%E7%BD%B2%E6%8B%9B%E8%81%98%E5%BB%89%E6%94%BF%E4%B8%BB%E4%BB%BB-%E8%B5%B7%E8%96%AA5%E8%90%AC%E9%A0%82%E9%BB%9E11%E8%90%AC-%E5%8F%AF%E5%90%8C%E6%99%82%E6%8A%95%E8%80%83%E5%8A%A9%E7%90%86%E5%BB%89%E6%94%BF%E4%B8%BB%E4%BB%BB",
-    "timestamp": "2026-03-02T12:27:52.515Z",
     "strategy": ".content-card__main"
   }
 ];
