@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-03T22:18:22.150Z
+// Last updated: 2026-03-03T22:32:35.639Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "娛圈富二代一入TVB獲力捧與繼母住豪宅　嘆街市大排檔返工做平民",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260303/1105609162789752832980256.jpeg/MRp9MatoCJN_tXxYiDM03YXRDvhPNssZBpoxPAaaMTw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60326879/%E5%A8%9B%E5%9C%88%E5%AF%8C%E4%BA%8C%E4%BB%A3%E4%B8%80%E5%85%A5tvb%E7%8D%B2%E5%8A%9B%E6%8D%A7%E8%88%87%E7%B9%BC%E6%AF%8D%E4%BD%8F%E8%B1%AA%E5%AE%85-%E5%98%86%E8%A1%97%E5%B8%82%E5%A4%A7%E6%8E%92%E6%AA%94%E8%BF%94%E5%B7%A5%E5%81%9A%E5%B9%B3%E6%B0%91",
+    "timestamp": "2026-03-03T22:32:35.639Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "天氣｜今日清涼早上約15度　初時雨勢有時較頻密　局部地區有雷暴",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250914/1043915445964378112796241.jpeg/WsWEikwnURRbSuIlV-ICdyX0osbGxLNyvVX8Wr1V_Fo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60326875/%E5%BD%AD%E5%8D%9A-%E4%B8%AD%E7%BE%8E%E8%B2%BF%E6%98%93%E9%AB%98%E5%B1%A43%E6%9C%88%E4%B8%AD%E6%97%AC%E6%9C%83%E6%99%A4-%E7%82%BA%E7%BF%92%E8%BF%91%E5%B9%B3%E7%89%B9%E6%9C%97%E6%99%AE%E5%B3%B0%E6%9C%83%E9%8B%AA%E8%B7%AF",
     "timestamp": "2026-03-03T07:11:48.921Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "《國色芳華》楊紫單身七年　直播宣佈戒色自保　疑暗示前度是渣男",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260302/1105198882016464896806143.png/BcKSusxbNxdYQLblCZ7EBf6gWMu2Hj8FCiNG1wojRtc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60326616/%E5%9C%8B%E8%89%B2%E8%8A%B3%E8%8F%AF-%E6%A5%8A%E7%B4%AB%E5%96%AE%E8%BA%AB%E4%B8%83%E5%B9%B4-%E7%9B%B4%E6%92%AD%E5%AE%A3%E4%BD%88%E6%88%92%E8%89%B2%E8%87%AA%E4%BF%9D-%E7%96%91%E6%9A%97%E7%A4%BA%E5%89%8D%E5%BA%A6%E6%98%AF%E6%B8%A3%E7%94%B7",
-    "timestamp": "2026-03-03T06:38:01.857Z",
     "strategy": ".content-card__main"
   }
 ];
