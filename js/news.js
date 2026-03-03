@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-03T23:47:47.505Z
+// Last updated: 2026-03-03T23:59:55.861Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "筲箕灣太安街3車「串燒」相撞　城巴車頭被劏開　兩人受傷",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260304/1105770748506542080082534.jpeg/-_xtEylNfLeq-WZty13vO3yuGVMrvw_iBUK4qQVCuKk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60327101/%E7%AD%B2%E7%AE%95%E7%81%A3%E5%A4%AA%E5%AE%89%E8%A1%973%E8%BB%8A-%E4%B8%B2%E7%87%92-%E7%9B%B8%E6%92%9E-%E5%9F%8E%E5%B7%B4%E8%BB%8A%E9%A0%AD%E8%A2%AB%E5%8A%8F%E9%96%8B-%E5%85%A9%E4%BA%BA%E5%8F%97%E5%82%B7",
+    "timestamp": "2026-03-03T23:59:55.861Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "3月Viu必睇：柳演錫通靈律師一人飾多角演技炸裂、金泰梨首戰綜藝",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260228/1104396693182353408697320.jpeg/S-EwNxv1detztmWGpJDaVGt5UeNokfBc7j0MXO49DFw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60325924/solo-mio-kevin-james%E6%84%8F%E5%A4%A7%E5%88%A9%E6%8B%8D%E6%88%B2%E7%8B%82%E8%83%9613kg-%E5%B0%8E%E6%BC%94%E5%B4%A9%E6%BD%B0-%E5%88%A5%E5%86%8D%E5%90%83%E4%BA%86",
     "timestamp": "2026-03-03T09:53:13.214Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "LIV GOLF香港站｜警料每日7000觀眾入場　實施交通及人群管理措施",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260303/1105536378537512960736805.jpeg/kEFTrKWnsMha7X69BNLhZMeUdFAnOd855JLp4OSS6eA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60326920/liv-golf%E9%A6%99%E6%B8%AF%E7%AB%99-%E8%AD%A6%E6%96%99%E6%AF%8F%E6%97%A57000%E8%A7%80%E7%9C%BE%E5%85%A5%E5%A0%B4-%E5%AF%A6%E6%96%BD%E4%BA%A4%E9%80%9A%E5%8F%8A%E4%BA%BA%E7%BE%A4%E7%AE%A1%E7%90%86%E6%8E%AA%E6%96%BD",
-    "timestamp": "2026-03-03T08:26:20.872Z",
     "strategy": ".content-card__main"
   }
 ];
