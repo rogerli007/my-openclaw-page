@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-03T20:35:20.655Z
+// Last updated: 2026-03-03T21:02:11.819Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "中東局勢．航班資訊最新｜3.4暫有6航班取消　國泰至3.14全取消",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260301/1104793078654308352615403.jpeg/Md6efheYKivGw8VPJ2FF8yOooqUw2r-dcC_r9nAv6_Y?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60326069/%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8B%A2%E6%9C%80%E6%B6%88%E6%81%AF-%E9%A6%99%E6%B8%AF%E6%A9%9F%E5%A0%B4%E5%A4%9A%E8%88%AA%E7%8F%AD%E5%8F%96%E6%B6%88-%E6%B6%89%E6%9D%9C%E6%8B%9C%E5%A4%9A%E5%93%88-%E9%99%84%E5%85%A8%E5%90%8D%E5%96%AE",
+    "timestamp": "2026-03-03T21:02:11.819Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "中東局勢．航班資訊最新｜3.4暫有6航班取消　國泰至3.14全取消",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260303/1105495614780608512874936.jpeg/gJC7qd_4Q1n31lqI0LnkMSYo-WcaHn5dI_bB0CP2wdA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60326830/%E4%B8%AD%E6%9D%B1%E5%B1%80%E5%8B%A2-%E9%A6%99%E6%B8%AF%E5%A5%B3%E8%B6%B3%E9%80%80%E5%87%BA%E6%9D%9C%E6%8B%9C%E8%B3%BD%E4%BA%8B-%E8%B6%B3%E7%B8%BD-%E8%81%B7%E7%90%83%E5%93%A1%E5%AE%89%E5%85%A8%E7%82%BA%E9%A6%96%E8%A6%81%E8%80%83%E6%85%AE",
     "timestamp": "2026-03-03T05:41:15.066Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "元宵節天氣｜天文台︰高空擾動相關驟雨漸移向珠江口　籲帶傘出門",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260303/1105487797726220288023965.jpeg/PNvTWbJLRAdFDb5eXd1qv6msQKERRl9JZ2Mfp2djH6c?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60326825/%E5%85%83%E5%AE%B5%E7%AF%80%E5%A4%A9%E6%B0%A3-%E5%A4%A9%E6%96%87%E5%8F%B0-%E9%AB%98%E7%A9%BA%E6%93%BE%E5%8B%95%E7%9B%B8%E9%97%9C%E9%A9%9F%E9%9B%A8%E6%BC%B8%E7%A7%BB%E5%90%91%E7%8F%A0%E6%B1%9F%E5%8F%A3-%E7%B1%B2%E5%B8%B6%E5%82%98%E5%87%BA%E9%96%80",
-    "timestamp": "2026-03-03T05:08:26.591Z",
     "strategy": ".content-card__main"
   }
 ];
