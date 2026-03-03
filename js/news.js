@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-03T13:35:10.255Z
+// Last updated: 2026-03-03T14:01:36.685Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "伊朗局勢｜王毅同以色列外長薩爾通話：呼籲停止軍事行動",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260303/1105622931678957568567290.jpeg/g52YJZh4BcX0-EYhPvzmp3ZchbHTF5upVmkHy1ZpB8s?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60327050/%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8B%A2-%E7%8E%8B%E6%AF%85%E5%90%8C%E4%BB%A5%E8%89%B2%E5%88%97%E5%A4%96%E9%95%B7%E8%96%A9%E7%88%BE%E9%80%9A%E8%A9%B1-%E5%91%BC%E7%B1%B2%E5%81%9C%E6%AD%A2%E8%BB%8D%E4%BA%8B%E8%A1%8C%E5%8B%95",
+    "timestamp": "2026-03-03T14:01:36.685Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "黃詠儀醫生離世｜回母校分享抗癌經歷　去年與友回校穿校服話當年",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260303/1105359410214998016149378.jpeg/xcRDWwPMrJYo7bu-aAZVD0_L-cW7kox5XPJBBFzyQQQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60326712/%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%B3%E9%A0%B8%E7%8F%BE%E7%9A%AE%E7%96%B9-%E9%86%AB%E7%94%9F%E7%A8%B1%E7%9A%AE%E8%86%9A%E6%B2%BB%E7%99%82%E8%97%A5%E8%86%8F%E5%BC%95%E8%B5%B7",
     "timestamp": "2026-03-02T21:03:01.709Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "橫頭磡邨單位疑抽濕機起火　3人受傷不適送院　約300名居民疏散",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260303/1105352804232335360784620.jpeg/KEDMFwozzjP_OtznTMrO21EukgvUXwZ4NjWuzxM1rs8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60326711/%E6%A9%AB%E9%A0%AD%E7%A3%A1%E9%82%A8%E5%96%AE%E4%BD%8D%E7%96%91%E6%8A%BD%E6%BF%95%E6%A9%9F%E8%B5%B7%E7%81%AB-3%E4%BA%BA%E5%8F%97%E5%82%B7%E4%B8%8D%E9%81%A9%E9%80%81%E9%99%A2-%E7%B4%84300%E5%90%8D%E5%B1%85%E6%B0%91%E7%96%8F%E6%95%A3",
-    "timestamp": "2026-03-02T20:18:54.782Z",
     "strategy": ".content-card__main"
   }
 ];
