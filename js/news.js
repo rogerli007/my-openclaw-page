@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-03T22:53:54.562Z
+// Last updated: 2026-03-03T23:47:47.505Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "3月Viu必睇：柳演錫通靈律師一人飾多角演技炸裂、金泰梨首戰綜藝",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260303/1105522512881520640207184.jpeg/Ylx31UB4p1P4voba0tWXlYoXEFLkiz9ZhBLJrIQSyaw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60326876/3%E6%9C%88viu%E5%BF%85%E7%9D%87-%E6%9F%B3%E6%BC%94%E9%8C%AB%E9%80%9A%E9%9D%88%E5%BE%8B%E5%B8%AB%E4%B8%80%E4%BA%BA%E9%A3%BE%E5%A4%9A%E8%A7%92%E6%BC%94%E6%8A%80%E7%82%B8%E8%A3%82-%E9%87%91%E6%B3%B0%E6%A2%A8%E9%A6%96%E6%88%B0%E7%B6%9C%E8%97%9D",
+    "timestamp": "2026-03-03T23:47:47.505Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "伊朗選最高領袖期間　選舉機構遭以軍空襲淪廢墟",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260303/1105536378537512960736805.jpeg/kEFTrKWnsMha7X69BNLhZMeUdFAnOd855JLp4OSS6eA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60326920/liv-golf%E9%A6%99%E6%B8%AF%E7%AB%99-%E8%AD%A6%E6%96%99%E6%AF%8F%E6%97%A57000%E8%A7%80%E7%9C%BE%E5%85%A5%E5%A0%B4-%E5%AF%A6%E6%96%BD%E4%BA%A4%E9%80%9A%E5%8F%8A%E4%BA%BA%E7%BE%A4%E7%AE%A1%E7%90%86%E6%8E%AA%E6%96%BD",
     "timestamp": "2026-03-03T08:26:20.872Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "有紀錄最暖冬季　天文台：上月氣溫平均較正常高3度　第二最暖2月",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260301/1104914836993085440620439.jpeg/mX9VgecapmV2rg8ELwtVu__sLQfI0kBfA4XVzQOF1c0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60326890/%E6%9C%89%E7%B4%80%E9%8C%84%E6%9C%80%E6%9A%96%E5%86%AC%E5%AD%A3-%E5%A4%A9%E6%96%87%E5%8F%B0-%E4%B8%8A%E6%9C%88%E6%B0%A3%E6%BA%AB%E5%B9%B3%E5%9D%87%E8%BC%83%E6%AD%A3%E5%B8%B8%E9%AB%983%E5%BA%A6-%E7%AC%AC%E4%BA%8C%E6%9C%80%E6%9A%962%E6%9C%88",
-    "timestamp": "2026-03-03T08:06:51.728Z",
     "strategy": ".content-card__main"
   }
 ];
