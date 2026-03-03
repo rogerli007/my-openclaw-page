@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-03T07:11:48.921Z
+// Last updated: 2026-03-03T08:06:51.728Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "有紀錄最暖冬季　天文台：上月氣溫平均較正常高3度　第二最暖2月",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260301/1104914836993085440620439.jpeg/mX9VgecapmV2rg8ELwtVu__sLQfI0kBfA4XVzQOF1c0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60326890/%E6%9C%89%E7%B4%80%E9%8C%84%E6%9C%80%E6%9A%96%E5%86%AC%E5%AD%A3-%E5%A4%A9%E6%96%87%E5%8F%B0-%E4%B8%8A%E6%9C%88%E6%B0%A3%E6%BA%AB%E5%B9%B3%E5%9D%87%E8%BC%83%E6%AD%A3%E5%B8%B8%E9%AB%983%E5%BA%A6-%E7%AC%AC%E4%BA%8C%E6%9C%80%E6%9A%962%E6%9C%88",
+    "timestamp": "2026-03-03T08:06:51.728Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "彭博：中美貿易高層3月中旬會晤　為習近平特朗普峰會鋪路",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20221230/685534764471422976279104.jpeg/fFqVBYGLTiR8KT1idYxwYSHOhG0DKM0JdeTGI3XkxiM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60326700/%E8%A5%BF%E7%8F%AD%E7%89%99%E6%8B%92%E7%B5%95%E7%BE%8E%E5%9C%8B%E4%BD%BF%E7%94%A8%E5%85%B6%E5%9F%BA%E5%9C%B0%E6%89%93%E6%93%8A%E4%BC%8A%E6%9C%97",
     "timestamp": "2026-03-02T17:26:22.433Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "25歲不年輕變扣分？男友人1句話令她傻眼：很老嗎？　網民唱反調",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260303/1105295662301319168074863.png/xWMhTz-h-_hfCy-Fg-2BcbUPPLwnavN8S9tYDUvbWA0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60324111/25%E6%AD%B2%E4%B8%8D%E5%B9%B4%E8%BC%95%E8%AE%8A%E6%89%A3%E5%88%86-%E7%94%B7%E5%8F%8B%E4%BA%BA1%E5%8F%A5%E8%A9%B1%E4%BB%A4%E5%A5%B9%E5%82%BB%E7%9C%BC-%E5%BE%88%E8%80%81%E5%97%8E-%E7%B6%B2%E6%B0%91%E5%94%B1%E5%8F%8D%E8%AA%BF",
-    "timestamp": "2026-03-02T16:54:54.404Z",
     "strategy": ".content-card__main"
   }
 ];
