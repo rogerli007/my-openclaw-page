@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-03T06:08:22.179Z
+// Last updated: 2026-03-03T06:38:01.857Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "《國色芳華》楊紫單身七年　直播宣佈戒色自保　疑暗示前度是渣男",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260302/1105198882016464896806143.png/BcKSusxbNxdYQLblCZ7EBf6gWMu2Hj8FCiNG1wojRtc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60326616/%E5%9C%8B%E8%89%B2%E8%8A%B3%E8%8F%AF-%E6%A5%8A%E7%B4%AB%E5%96%AE%E8%BA%AB%E4%B8%83%E5%B9%B4-%E7%9B%B4%E6%92%AD%E5%AE%A3%E4%BD%88%E6%88%92%E8%89%B2%E8%87%AA%E4%BF%9D-%E7%96%91%E6%9A%97%E7%A4%BA%E5%89%8D%E5%BA%A6%E6%98%AF%E6%B8%A3%E7%94%B7",
+    "timestamp": "2026-03-03T06:38:01.857Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "中國未支持伊朗防禦　美媒：兩國關係遠比外界普遍認為的更失衡",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260302/1105249071175569408368497.jpeg/EZgCPiIPeOyHpBzqd333rKCM7PH9uYDmqGcS7KhnEuw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60326454/%E9%99%B3%E5%B1%B1%E8%81%B0%E8%88%87%E4%BD%98%E8%A9%A9%E6%9B%BC%E9%A3%9F%E9%A3%AF%E8%A2%AB%E6%8D%95%E7%8D%B2-2%E5%B9%B4%E7%84%A1%E5%8A%87%E6%8B%8D%E7%96%91%E6%89%BE%E5%9B%9B%E5%B1%86%E8%A6%96%E5%90%8E%E6%B1%82%E6%89%93%E6%95%91",
     "timestamp": "2026-03-02T16:23:22.279Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "阿Sa戲院謝票《追擊8月15》鐵三角重聚掀回憶殺：完全冇諗過",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260302/1105160194310017024852940.jpeg/EeNOjh9ujfMGQSgccWOKAnfURVNqxix8uxe7SYEXu0k?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60326509/%E9%98%BFsa%E6%88%B2%E9%99%A2%E8%AC%9D%E7%A5%A8-%E8%BF%BD%E6%93%8A8%E6%9C%8815-%E9%90%B5%E4%B8%89%E8%A7%92%E9%87%8D%E8%81%9A%E6%8E%80%E5%9B%9E%E6%86%B6%E6%AE%BA-%E5%AE%8C%E5%85%A8%E5%86%87%E8%AB%97%E9%81%8E",
-    "timestamp": "2026-03-02T15:35:05.126Z",
     "strategy": ".content-card__main"
   }
 ];
