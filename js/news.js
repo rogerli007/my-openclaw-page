@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-03T14:01:36.685Z
+// Last updated: 2026-03-03T14:29:21.786Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美食新聞報道丨土瓜灣小店媲美名人飯堂　張員瑛至愛品牌落戶香港",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260303/1105517430379122688192836.jpeg/99IGTbq8oZl_MDOfl6JqT3XMVwVapxFplFn_spRZ_7I?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60326865/%E7%BE%8E%E9%A3%9F%E6%96%B0%E8%81%9E%E5%A0%B1%E9%81%93-%E5%9C%9F%E7%93%9C%E7%81%A3%E5%B0%8F%E5%BA%97%E5%AA%B2%E7%BE%8E%E5%90%8D%E4%BA%BA%E9%A3%AF%E5%A0%82-%E5%BC%B5%E5%93%A1%E7%91%9B%E8%87%B3%E6%84%9B%E5%93%81%E7%89%8C%E8%90%BD%E6%88%B6%E9%A6%99%E6%B8%AF",
+    "timestamp": "2026-03-03T14:29:21.786Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "伊朗局勢｜王毅同以色列外長薩爾通話：呼籲停止軍事行動",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260303/1105359410214998016149378.jpeg/xcRDWwPMrJYo7bu-aAZVD0_L-cW7kox5XPJBBFzyQQQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60326712/%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%B3%E9%A0%B8%E7%8F%BE%E7%9A%AE%E7%96%B9-%E9%86%AB%E7%94%9F%E7%A8%B1%E7%9A%AE%E8%86%9A%E6%B2%BB%E7%99%82%E8%97%A5%E8%86%8F%E5%BC%95%E8%B5%B7",
     "timestamp": "2026-03-02T21:22:59.099Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普右頸現皮疹　醫生稱皮膚治療藥膏引起",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260303/1105359410214998016149378.jpeg/xcRDWwPMrJYo7bu-aAZVD0_L-cW7kox5XPJBBFzyQQQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60326712/%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%B3%E9%A0%B8%E7%8F%BE%E7%9A%AE%E7%96%B9-%E9%86%AB%E7%94%9F%E7%A8%B1%E7%9A%AE%E8%86%9A%E6%B2%BB%E7%99%82%E8%97%A5%E8%86%8F%E5%BC%95%E8%B5%B7",
-    "timestamp": "2026-03-02T21:03:01.709Z",
     "strategy": ".content-card__main"
   }
 ];
