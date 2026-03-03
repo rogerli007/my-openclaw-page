@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-03T22:32:35.639Z
+// Last updated: 2026-03-03T22:53:54.562Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "伊朗選最高領袖期間　選舉機構遭以軍空襲淪廢墟",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260304/1105736513859096576346812.jpeg/0265WDnllTDAFb1ZW2oL-rmsQLmBjbWuzAjAGcwIwBk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60327097/%E4%BC%8A%E6%9C%97%E9%81%B8%E6%9C%80%E9%AB%98%E9%A0%98%E8%A2%96%E6%9C%9F%E9%96%93-%E9%81%B8%E8%88%89%E6%A9%9F%E6%A7%8B%E9%81%AD%E4%BB%A5%E8%BB%8D%E7%A9%BA%E8%A5%B2%E6%B7%AA%E5%BB%A2%E5%A2%9F",
+    "timestamp": "2026-03-03T22:53:54.562Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "娛圈富二代一入TVB獲力捧與繼母住豪宅　嘆街市大排檔返工做平民",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260301/1104914836993085440620439.jpeg/mX9VgecapmV2rg8ELwtVu__sLQfI0kBfA4XVzQOF1c0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60326890/%E6%9C%89%E7%B4%80%E9%8C%84%E6%9C%80%E6%9A%96%E5%86%AC%E5%AD%A3-%E5%A4%A9%E6%96%87%E5%8F%B0-%E4%B8%8A%E6%9C%88%E6%B0%A3%E6%BA%AB%E5%B9%B3%E5%9D%87%E8%BC%83%E6%AD%A3%E5%B8%B8%E9%AB%983%E5%BA%A6-%E7%AC%AC%E4%BA%8C%E6%9C%80%E6%9A%962%E6%9C%88",
     "timestamp": "2026-03-03T08:06:51.728Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "彭博：中美貿易高層3月中旬會晤　為習近平特朗普峰會鋪路",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250914/1043915445964378112796241.jpeg/WsWEikwnURRbSuIlV-ICdyX0osbGxLNyvVX8Wr1V_Fo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60326875/%E5%BD%AD%E5%8D%9A-%E4%B8%AD%E7%BE%8E%E8%B2%BF%E6%98%93%E9%AB%98%E5%B1%A43%E6%9C%88%E4%B8%AD%E6%97%AC%E6%9C%83%E6%99%A4-%E7%82%BA%E7%BF%92%E8%BF%91%E5%B9%B3%E7%89%B9%E6%9C%97%E6%99%AE%E5%B3%B0%E6%9C%83%E9%8B%AA%E8%B7%AF",
-    "timestamp": "2026-03-03T07:11:48.921Z",
     "strategy": ".content-card__main"
   }
 ];
