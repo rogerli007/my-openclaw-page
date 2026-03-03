@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-03T12:03:41.254Z
+// Last updated: 2026-03-03T12:54:43.028Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "高球場覆核案．上訴｜政府指修例後不需環評　指覆核應被駁回",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20230614/745645484697194496029718.jpeg/qEjHDetckRd6rETJ2CMY71jmaRi3XzSBSqjmkGCo5pA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60327034/%E9%AB%98%E7%90%83%E5%A0%B4%E8%A6%86%E6%A0%B8%E6%A1%88-%E4%B8%8A%E8%A8%B4-%E6%94%BF%E5%BA%9C%E6%8C%87%E4%BF%AE%E4%BE%8B%E5%BE%8C%E4%B8%8D%E9%9C%80%E7%92%B0%E8%A9%95-%E6%8C%87%E8%A6%86%E6%A0%B8%E6%87%89%E8%A2%AB%E9%A7%81%E5%9B%9E",
+    "timestamp": "2026-03-03T12:54:43.028Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "伊朗局勢｜香港郵政︰即時停中東空郵寄件服務　涉埃及等14個國家",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260303/1105329485084889088930678.jpeg/DB8nSpeUo5-sHRUeDdcPZa7kRx_VbWNxTd7Ym03e2Js?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60326708/%E9%BB%8E%E5%B7%B4%E5%AB%A9%E7%A8%B1%E4%BB%A5%E8%BB%8D%E7%A9%BA%E8%A5%B2%E9%87%8052%E6%AD%BB%E9%80%BE150%E4%BA%BA%E5%82%B7-%E4%B8%8B%E4%BB%A4%E7%9C%9F%E4%B8%BB%E9%BB%A8%E8%A7%A3%E9%99%A4%E6%AD%A6%E8%A3%9D",
     "timestamp": "2026-03-02T19:50:30.469Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "黎巴嫩稱以軍空襲釀52死逾150人傷　下令真主黨解除武裝",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260303/1105329485084889088930678.jpeg/DB8nSpeUo5-sHRUeDdcPZa7kRx_VbWNxTd7Ym03e2Js?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60326708/%E9%BB%8E%E5%B7%B4%E5%AB%A9%E7%A8%B1%E4%BB%A5%E8%BB%8D%E7%A9%BA%E8%A5%B2%E9%87%8052%E6%AD%BB%E9%80%BE150%E4%BA%BA%E5%82%B7-%E4%B8%8B%E4%BB%A4%E7%9C%9F%E4%B8%BB%E9%BB%A8%E8%A7%A3%E9%99%A4%E6%AD%A6%E8%A3%9D",
-    "timestamp": "2026-03-02T19:25:25.462Z",
     "strategy": ".content-card__main"
   }
 ];
