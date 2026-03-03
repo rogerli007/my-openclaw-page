@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-03T15:27:43.154Z
+// Last updated: 2026-03-03T16:56:27.476Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "王菀之蘇打綠相識20年合體開騷　合唱方大同經典作更預告巡演動向",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260303/1105539389582217216926785.jpeg/u596kQCrCaUd3UYyl1TXXWnCzUfffWSNZj69RWY-vUU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60326904/%E7%8E%8B%E8%8F%80%E4%B9%8B%E8%98%87%E6%89%93%E7%B6%A0%E7%9B%B8%E8%AD%9820%E5%B9%B4%E5%90%88%E9%AB%94%E9%96%8B%E9%A8%B7-%E5%90%88%E5%94%B1%E6%96%B9%E5%A4%A7%E5%90%8C%E7%B6%93%E5%85%B8%E4%BD%9C%E6%9B%B4%E9%A0%90%E5%91%8A%E5%B7%A1%E6%BC%94%E5%8B%95%E5%90%91",
+    "timestamp": "2026-03-03T16:56:27.476Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "香港仔62歲男工登漁船工作觸電昏迷　留醫約16小時不治",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260302/1105278578720772096108423.jpeg/8I_q1k477OjldYCXk09DyeXQzNl-IqyaoNuSWaDbklk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60326480/%E6%9C%B1%E8%8C%B5%E7%8F%BE%E8%BA%AB%E6%BE%80%E8%B0%B754%E6%AD%B2%E9%A9%9A%E8%AE%8A%E5%B8%AB%E5%A5%B6look-%E5%87%BA%E9%81%93%E5%8D%B3%E5%81%9A%E9%9B%BB%E5%BD%B1%E5%A5%B3%E4%B8%80%E7%88%86%E7%B4%85%E9%80%BE30%E5%B9%B4",
     "timestamp": "2026-03-02T23:31:25.805Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "影壇大佬曾兩度患癌最新狀況好精神　枱面有煙網民勸勉食少啲",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260302/1105260752110882816673281.jpeg/3xFbJ2Vm5nFXloDFVH6mryHUsbWfD0baroTP7K6Ez-w?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60326489/%E9%99%B3%E6%83%A0%E6%95%8F%E6%9B%BE%E5%85%A9%E5%BA%A6%E6%82%A3%E7%99%8C%E6%9C%80%E6%96%B0%E7%9B%B8%E5%A5%BD%E7%B2%BE%E7%A5%9E-%E6%9E%B1%E9%9D%A2%E6%9C%89%E7%85%99%E7%B6%B2%E6%B0%91%E5%8B%B8%E5%8B%89%E9%A3%9F%E5%B0%91%E5%95%B2",
-    "timestamp": "2026-03-02T22:16:31.313Z",
     "strategy": ".content-card__main"
   }
 ];
