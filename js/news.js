@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-03T08:06:51.728Z
+// Last updated: 2026-03-03T08:26:20.872Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "LIV GOLF香港站｜警料每日7000觀眾入場　實施交通及人群管理措施",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260303/1105536378537512960736805.jpeg/kEFTrKWnsMha7X69BNLhZMeUdFAnOd855JLp4OSS6eA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60326920/liv-golf%E9%A6%99%E6%B8%AF%E7%AB%99-%E8%AD%A6%E6%96%99%E6%AF%8F%E6%97%A57000%E8%A7%80%E7%9C%BE%E5%85%A5%E5%A0%B4-%E5%AF%A6%E6%96%BD%E4%BA%A4%E9%80%9A%E5%8F%8A%E4%BA%BA%E7%BE%A4%E7%AE%A1%E7%90%86%E6%8E%AA%E6%96%BD",
+    "timestamp": "2026-03-03T08:26:20.872Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "有紀錄最暖冬季　天文台：上月氣溫平均較正常高3度　第二最暖2月",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260303/1105311071649927168390126.jpeg/0suWmBDioz_EfUavsG4gKCjmv6wdnkdWt8_IOLfPyDg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60326704/%E5%A1%9E%E6%B5%A6%E8%B7%AF%E6%96%AF%E8%AD%89%E8%8B%B1%E8%BB%8D%E5%9F%BA%E5%9C%B0%E5%85%A9%E5%BA%A6%E9%81%AD%E7%84%A1%E4%BA%BA%E6%A9%9F%E8%A5%B2%E6%93%8A-%E7%B8%BD%E7%B5%B1%E5%BC%B7%E8%AA%BF%E4%B8%8D%E5%8F%83%E8%88%87%E8%BB%8D%E4%BA%8B%E8%A1%8C%E5%8B%95",
     "timestamp": "2026-03-02T17:53:49.679Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "西班牙拒絕美國使用其基地打擊伊朗",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20221230/685534764471422976279104.jpeg/fFqVBYGLTiR8KT1idYxwYSHOhG0DKM0JdeTGI3XkxiM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60326700/%E8%A5%BF%E7%8F%AD%E7%89%99%E6%8B%92%E7%B5%95%E7%BE%8E%E5%9C%8B%E4%BD%BF%E7%94%A8%E5%85%B6%E5%9F%BA%E5%9C%B0%E6%89%93%E6%93%8A%E4%BC%8A%E6%9C%97",
-    "timestamp": "2026-03-02T17:26:22.433Z",
     "strategy": ".content-card__main"
   }
 ];
