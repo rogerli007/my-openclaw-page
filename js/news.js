@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-03T00:00:34.677Z
+// Last updated: 2026-03-03T01:44:04.527Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "伊朗局勢｜中遠海運稱波斯灣內船舶　將於安全水域滯航或錨泊",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20240716/889847188426199040401568.jpeg/YbjG-5czy-u67CX4ZDWManhY0BcNonYFNUb_hzVG_4c?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60326726/%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8B%A2-%E4%B8%AD%E9%81%A0%E6%B5%B7%E9%81%8B%E7%A8%B1%E6%B3%A2%E6%96%AF%E7%81%A3%E5%85%A7%E8%88%B9%E8%88%B6-%E5%B0%87%E6%96%BC%E5%AE%89%E5%85%A8%E6%B0%B4%E5%9F%9F%E6%BB%AF%E8%88%AA%E6%88%96%E9%8C%A8%E6%B3%8A",
+    "timestamp": "2026-03-03T01:44:04.527Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "皇后山童黨欺凌內情｜13歲少女疑背後講壞話　遭對方班馬報復",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260302/1105115672465117184278016.jpeg/4bwn-Xt1xKmX8ILg2D0tWsHGLQZfYZO1jdGjwI3Ro8A",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60326674/%E7%9A%87%E5%90%8E%E5%B1%B1%E7%AB%A5%E9%BB%A8%E6%AC%BA%E5%87%8C-13%E6%AD%B2%E5%A5%B3%E6%8D%B1%E6%89%93-%E5%A2%9E%E8%87%B32%E7%94%B73%E5%A5%B3%E8%A2%AB%E6%8D%95-%E5%B9%B4%E5%83%8513%E8%87%B314%E6%AD%B2",
     "timestamp": "2026-03-02T13:37:19.482Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "王毅與阿拉格齊通電話　支持伊朗維護自身權力和利益",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250307/974704179178115072073426.jpeg/GczM8il0p5E1MkJqxvalK95D6sYrmBDr6fzm-en85vk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60326671/%E7%8E%8B%E6%AF%85%E8%88%87%E9%98%BF%E6%8B%89%E6%A0%BC%E9%BD%8A%E9%80%9A%E9%9B%BB%E8%A9%B1-%E6%94%AF%E6%8C%81%E4%BC%8A%E6%9C%97%E7%B6%AD%E8%AD%B7%E8%87%AA%E8%BA%AB%E6%AC%8A%E5%8A%9B%E5%92%8C%E5%88%A9%E7%9B%8A",
-    "timestamp": "2026-03-02T12:54:32.865Z",
     "strategy": ".content-card__main"
   }
 ];
