@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-03T01:44:04.527Z
+// Last updated: 2026-03-03T05:08:26.591Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "元宵節天氣｜天文台︰高空擾動相關驟雨漸移向珠江口　籲帶傘出門",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260303/1105487797726220288023965.jpeg/PNvTWbJLRAdFDb5eXd1qv6msQKERRl9JZ2Mfp2djH6c?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60326825/%E5%85%83%E5%AE%B5%E7%AF%80%E5%A4%A9%E6%B0%A3-%E5%A4%A9%E6%96%87%E5%8F%B0-%E9%AB%98%E7%A9%BA%E6%93%BE%E5%8B%95%E7%9B%B8%E9%97%9C%E9%A9%9F%E9%9B%A8%E6%BC%B8%E7%A7%BB%E5%90%91%E7%8F%A0%E6%B1%9F%E5%8F%A3-%E7%B1%B2%E5%B8%B6%E5%82%98%E5%87%BA%E9%96%80",
+    "timestamp": "2026-03-03T05:08:26.591Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "伊朗局勢｜中遠海運稱波斯灣內船舶　將於安全水域滯航或錨泊",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260302/1105107520113872896701659.jpeg/J6actMIPuarn4fwFq73G0Rvqtn7DdhVh8dqJsPHaibA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60326414/%E5%B0%8F%E5%AD%B8%E9%A4%A8%E5%85%81%E6%80%A7%E4%BE%B5%E7%8A%AF-%E6%8F%9B%E5%90%8D-%E9%80%A3%E8%BC%89%E6%96%B0%E6%BC%AB%E7%95%AB%E6%83%B9%E5%85%AC%E6%86%A4-%E7%9C%BE%E4%BD%9C%E8%80%85%E6%80%92%E8%BD%9F%E5%BC%95%E7%88%86%E6%8A%B5%E5%88%B6%E6%BD%AE",
     "timestamp": "2026-03-02T14:36:02.415Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "皇后山童黨欺凌｜13歲女捱打　增至2男3女被捕　年僅13至14歲",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260302/1105115672465117184278016.jpeg/4bwn-Xt1xKmX8ILg2D0tWsHGLQZfYZO1jdGjwI3Ro8A",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60326674/%E7%9A%87%E5%90%8E%E5%B1%B1%E7%AB%A5%E9%BB%A8%E6%AC%BA%E5%87%8C-13%E6%AD%B2%E5%A5%B3%E6%8D%B1%E6%89%93-%E5%A2%9E%E8%87%B32%E7%94%B73%E5%A5%B3%E8%A2%AB%E6%8D%95-%E5%B9%B4%E5%83%8513%E8%87%B314%E6%AD%B2",
-    "timestamp": "2026-03-02T13:37:19.482Z",
     "strategy": ".content-card__main"
   }
 ];
