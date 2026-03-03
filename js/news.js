@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-03T21:50:23.165Z
+// Last updated: 2026-03-03T22:18:22.150Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "天氣｜今日清涼早上約15度　初時雨勢有時較頻密　局部地區有雷暴",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260304/1105745255761973248389720.jpeg/IaLy1RZWfblUwDCBP2WQ7ZlPKFECXX3e5aqm4-WqpuM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60327085/%E5%A4%A9%E6%B0%A3-%E4%BB%8A%E6%97%A5%E6%B8%85%E6%B6%BC%E6%97%A9%E4%B8%8A%E7%B4%8415%E5%BA%A6-%E5%88%9D%E6%99%82%E9%9B%A8%E5%8B%A2%E6%9C%89%E6%99%82%E8%BC%83%E9%A0%BB%E5%AF%86-%E5%B1%80%E9%83%A8%E5%9C%B0%E5%8D%80%E6%9C%89%E9%9B%B7%E6%9A%B4",
+    "timestamp": "2026-03-03T22:18:22.150Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "伊朗局勢｜馬克龍：美以行動不符國際法　派航母戴高樂號赴地中海",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260302/1105198882016464896806143.png/BcKSusxbNxdYQLblCZ7EBf6gWMu2Hj8FCiNG1wojRtc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60326616/%E5%9C%8B%E8%89%B2%E8%8A%B3%E8%8F%AF-%E6%A5%8A%E7%B4%AB%E5%96%AE%E8%BA%AB%E4%B8%83%E5%B9%B4-%E7%9B%B4%E6%92%AD%E5%AE%A3%E4%BD%88%E6%88%92%E8%89%B2%E8%87%AA%E4%BF%9D-%E7%96%91%E6%9A%97%E7%A4%BA%E5%89%8D%E5%BA%A6%E6%98%AF%E6%B8%A3%E7%94%B7",
     "timestamp": "2026-03-03T06:38:01.857Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "中國未支持伊朗防禦　美媒：兩國關係遠比外界普遍認為的更失衡",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260303/1105500277756137472782465.jpeg/N9q1WSDnNGPpJawN2nA7XYW3D79MUQnQl9zPTJfcz0w?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E4%B8%AD%E5%9C%8B%E8%A7%80%E5%AF%9F/60326840/%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8B%A2-%E7%BE%8E%E5%AA%92-%E4%B8%AD%E4%BC%8A%E9%97%9C%E4%BF%82%E9%81%A0%E6%AF%94%E5%A4%96%E7%95%8C%E6%99%AE%E9%81%8D%E8%AA%8D%E7%82%BA%E7%9A%84%E6%9B%B4%E5%A4%B1%E8%A1%A1",
-    "timestamp": "2026-03-03T06:08:22.179Z",
     "strategy": ".content-card__main"
   }
 ];
