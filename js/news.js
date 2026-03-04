@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-04T14:55:32.446Z
+// Last updated: 2026-03-04T15:22:59.046Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "包浩斯斥621萬買樓作員工宿舍　去年擬入市David Webb批「羞恥」",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260304/1106002994312253440310548.jpeg/_cdIQRfJtApvLam-vPxkHhnFqvsb-sgze57unnue7p4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60327492/%E5%8C%85%E6%B5%A9%E6%96%AF%E6%96%A5621%E8%90%AC%E8%B2%B7%E6%A8%93%E4%BD%9C%E5%93%A1%E5%B7%A5%E5%AE%BF%E8%88%8D-%E5%8E%BB%E5%B9%B4%E6%93%AC%E5%85%A5%E5%B8%82david-webb%E6%89%B9-%E7%BE%9E%E6%81%A5",
+    "timestamp": "2026-03-04T15:22:59.046Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "平價MacBook Neo抵玩價$4799起｜行A18 Pro．4色機身胭脂粉紅必火",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260304/1105736513859096576346812.jpeg/0265WDnllTDAFb1ZW2oL-rmsQLmBjbWuzAjAGcwIwBk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60327097/%E4%BC%8A%E6%9C%97%E9%81%B8%E6%9C%80%E9%AB%98%E9%A0%98%E8%A2%96%E6%9C%9F%E9%96%93-%E9%81%B8%E8%88%89%E6%A9%9F%E6%A7%8B%E9%81%AD%E4%BB%A5%E8%BB%8D%E7%A9%BA%E8%A5%B2%E6%B7%AA%E5%BB%A2%E5%A2%9F",
     "timestamp": "2026-03-03T22:53:54.562Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "娛圈富二代一入TVB獲力捧與繼母住豪宅　嘆街市大排檔返工做平民",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260303/1105609162789752832980256.jpeg/MRp9MatoCJN_tXxYiDM03YXRDvhPNssZBpoxPAaaMTw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60326879/%E5%A8%9B%E5%9C%88%E5%AF%8C%E4%BA%8C%E4%BB%A3%E4%B8%80%E5%85%A5tvb%E7%8D%B2%E5%8A%9B%E6%8D%A7%E8%88%87%E7%B9%BC%E6%AF%8D%E4%BD%8F%E8%B1%AA%E5%AE%85-%E5%98%86%E8%A1%97%E5%B8%82%E5%A4%A7%E6%8E%92%E6%AA%94%E8%BF%94%E5%B7%A5%E5%81%9A%E5%B9%B3%E6%B0%91",
-    "timestamp": "2026-03-03T22:32:35.639Z",
     "strategy": ".content-card__main"
   }
 ];
