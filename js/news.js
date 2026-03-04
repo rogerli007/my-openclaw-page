@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-04T16:54:27.602Z
+// Last updated: 2026-03-04T17:23:58.217Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "伊朗稱導彈針對美國利益非卡塔爾　歐盟批其肆意攻擊加速自身滅亡",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260222/1102099544411213824719458.jpeg/CRG-xVc3VxrVygUd9wkhe3u5YzUOH2wXESqqPREqqj0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60327502/%E4%BC%8A%E6%9C%97%E7%A8%B1%E5%B0%8E%E5%BD%88%E9%87%9D%E5%B0%8D%E7%BE%8E%E5%9C%8B%E5%88%A9%E7%9B%8A%E9%9D%9E%E5%8D%A1%E5%A1%94%E7%88%BE-%E6%AD%90%E7%9B%9F%E6%89%B9%E5%85%B6%E8%82%86%E6%84%8F%E6%94%BB%E6%93%8A%E5%8A%A0%E9%80%9F%E8%87%AA%E8%BA%AB%E6%BB%85%E4%BA%A1",
+    "timestamp": "2026-03-04T17:23:58.217Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "鍾培生豪宅內30米高空著地電影級求婚！曾被要求用替身一口拒絕",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260304/1105743660298801152704935.jpeg/ukSe7n7j_LWvH02WrVIOxko-OL00EpD0kVcunZFXLp0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60327098/25%E5%90%8D%E5%BE%9E%E4%BC%8A%E6%9C%97%E6%92%A4%E9%9B%A2%E4%B8%AD%E5%9C%8B%E5%85%AC%E6%B0%91-%E7%B6%93%E5%9C%9F%E5%BA%AB%E6%9B%BC%E5%95%9F%E7%A8%8B%E5%9B%9E%E5%9C%8B",
     "timestamp": "2026-03-04T00:45:09.077Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "筲箕灣太安街3車「串燒」相撞　城巴車頭被劏開　兩人受傷",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260304/1105770748506542080082534.jpeg/-_xtEylNfLeq-WZty13vO3yuGVMrvw_iBUK4qQVCuKk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60327101/%E7%AD%B2%E7%AE%95%E7%81%A3%E5%A4%AA%E5%AE%89%E8%A1%973%E8%BB%8A-%E4%B8%B2%E7%87%92-%E7%9B%B8%E6%92%9E-%E5%9F%8E%E5%B7%B4%E8%BB%8A%E9%A0%AD%E8%A2%AB%E5%8A%8F%E9%96%8B-%E5%85%A9%E4%BA%BA%E5%8F%97%E5%82%B7",
-    "timestamp": "2026-03-03T23:59:55.861Z",
     "strategy": ".content-card__main"
   }
 ];
