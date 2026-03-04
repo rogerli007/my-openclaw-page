@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-04T01:18:08.507Z
+// Last updated: 2026-03-04T03:16:23.108Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "理大研眼科AI代理系統　提升臨床判斷質量　料兩年內完成開發驗證",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260304/1105811799229337600857461.jpeg/AKlXEOi8hNEGqTYVYwoiXNLz_YuQ_dqdxzbbcsc223I?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%B0%88%E4%B8%8A%E6%95%99%E8%82%B2/60327160/%E7%90%86%E5%A4%A7%E7%A0%94%E7%9C%BC%E7%A7%91ai%E4%BB%A3%E7%90%86%E7%B3%BB%E7%B5%B1-%E6%8F%90%E5%8D%87%E8%87%A8%E5%BA%8A%E5%88%A4%E6%96%B7%E8%B3%AA%E9%87%8F-%E6%96%99%E5%85%A9%E5%B9%B4%E5%85%A7%E5%AE%8C%E6%88%90%E9%96%8B%E7%99%BC%E9%A9%97%E8%AD%89",
+    "timestamp": "2026-03-04T03:16:23.108Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "伊朗局勢｜英偉達、亞馬遜臨時關閉杜拜辦事處　轉為遠程辦公",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20230614/745645484697194496029718.jpeg/qEjHDetckRd6rETJ2CMY71jmaRi3XzSBSqjmkGCo5pA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60327034/%E9%AB%98%E7%90%83%E5%A0%B4%E8%A6%86%E6%A0%B8%E6%A1%88-%E4%B8%8A%E8%A8%B4-%E6%94%BF%E5%BA%9C%E6%8C%87%E4%BF%AE%E4%BE%8B%E5%BE%8C%E4%B8%8D%E9%9C%80%E7%92%B0%E8%A9%95-%E6%8C%87%E8%A6%86%E6%A0%B8%E6%87%89%E8%A2%AB%E9%A7%81%E5%9B%9E",
     "timestamp": "2026-03-03T12:54:43.028Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "伊朗局勢｜香港郵政︰即時停中東空郵寄件服務　涉埃及等14個國家",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260302/1105227717194027008968415.jpeg/-VwIZJJnaJztKKIACre6xnke5SFOQGApPePt6hjj7eo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60327016/%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8B%A2-%E9%A6%99%E6%B8%AF%E9%83%B5%E6%94%BF-%E5%8D%B3%E6%99%82%E5%81%9C%E4%B8%AD%E6%9D%B1%E7%A9%BA%E9%83%B5%E5%AF%84%E4%BB%B6%E6%9C%8D%E5%8B%99-%E6%B6%89%E5%9F%83%E5%8F%8A%E7%AD%8914%E5%80%8B%E5%9C%8B%E5%AE%B6",
-    "timestamp": "2026-03-03T12:03:41.254Z",
     "strategy": ".content-card__main"
   }
 ];
