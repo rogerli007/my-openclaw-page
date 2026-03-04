@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-04T21:01:54.716Z
+// Last updated: 2026-03-04T21:20:09.580Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "伊朗局勢｜英媒：美國B-2隱形轟炸機將在幾天內降落英國基地",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260305/1106085969938878464219863.jpeg/_yEJuqoTakuG4LVgGjpUOAcYpI17kaWiGNY-zxjWPs8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60327522/%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8B%A2-%E8%8B%B1%E5%AA%92-%E7%BE%8E%E5%9C%8Bb-2%E9%9A%B1%E5%BD%A2%E8%BD%9F%E7%82%B8%E6%A9%9F%E5%B0%87%E5%9C%A8%E5%B9%BE%E5%A4%A9%E5%85%A7%E9%99%8D%E8%90%BD%E8%8B%B1%E5%9C%8B%E5%9F%BA%E5%9C%B0",
+    "timestamp": "2026-03-04T21:20:09.580Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "伊朗局勢｜英媒：美國B-2隱形轟炸機將在幾天內降落英國基地",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260304/1105837445418586112812460.png/K2OPoII0xfArf8Xsi8xauI_Y0ar43_XA6D8v_eg_L_0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60327272/%E5%85%A9%E6%9C%83-%E5%A9%81%E5%8B%A4%E5%84%89%E5%9B%9E%E6%87%89%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8B%A2-%E4%BB%BB%E4%BD%95%E5%9C%8B%E5%AE%B6%E9%83%BD%E6%B2%92%E6%9C%89%E4%B8%BB%E5%AE%B0%E4%BB%96%E5%9C%8B%E5%91%BD%E9%81%8B%E7%9A%84%E6%AC%8A%E5%8A%9B",
     "timestamp": "2026-03-04T06:06:01.749Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "兩會｜港區人大今早出席預備會議　一代表身體原因連續兩年缺席",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260304/1105843936376655872487132.jpeg/G_7o_stGktmHS9a0hEhf8cYwidJUT0Yb1YJUXtWCVF4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60327240/%E5%85%A9%E6%9C%83-%E6%B8%AF%E5%8D%80%E4%BA%BA%E5%A4%A7%E4%BB%8A%E6%97%A9%E5%87%BA%E5%B8%AD%E9%A0%90%E5%82%99%E6%9C%83%E8%AD%B0-%E4%B8%80%E4%BB%A3%E8%A1%A8%E8%BA%AB%E9%AB%94%E5%8E%9F%E5%9B%A0%E9%80%A3%E7%BA%8C%E5%85%A9%E5%B9%B4%E7%BC%BA%E5%B8%AD",
-    "timestamp": "2026-03-04T05:20:50.334Z",
     "strategy": ".content-card__main"
   }
 ];
