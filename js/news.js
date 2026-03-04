@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-03T23:59:55.861Z
+// Last updated: 2026-03-04T00:45:09.077Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "25名從伊朗撤離中國公民　經土庫曼啟程回國",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260304/1105743660298801152704935.jpeg/ukSe7n7j_LWvH02WrVIOxko-OL00EpD0kVcunZFXLp0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60327098/25%E5%90%8D%E5%BE%9E%E4%BC%8A%E6%9C%97%E6%92%A4%E9%9B%A2%E4%B8%AD%E5%9C%8B%E5%85%AC%E6%B0%91-%E7%B6%93%E5%9C%9F%E5%BA%AB%E6%9B%BC%E5%95%9F%E7%A8%8B%E5%9B%9E%E5%9C%8B",
+    "timestamp": "2026-03-04T00:45:09.077Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "筲箕灣太安街3車「串燒」相撞　城巴車頭被劏開　兩人受傷",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260303/1105569190393155584492805.jpeg/dtCUIcSBgVKccBL-N9MI8tGXozYv3M6B0ederdHnXq0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%97%9D%E6%96%87/60326982/%E5%B0%88%E8%A8%AA-%E6%B2%99%E7%95%AB%E8%97%9D%E8%A1%93%E5%AE%B6%E9%8D%BE%E9%9B%AA%E5%80%8B%E5%B1%95-%E5%9F%8E%E5%B8%82-%E5%B0%8B%E5%85%89-%E5%AE%9A%E6%A0%BC%E6%B5%81%E6%B2%99%E7%95%99%E4%BD%8F%E9%A6%99%E6%B8%AF%E8%A1%97%E6%99%AF",
     "timestamp": "2026-03-03T10:52:47.260Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "荷里活男星意大利拍戲不敵美食誘惑狂胖30磅　導演崩潰：別再吃了",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260228/1104396693182353408697320.jpeg/S-EwNxv1detztmWGpJDaVGt5UeNokfBc7j0MXO49DFw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60325924/solo-mio-kevin-james%E6%84%8F%E5%A4%A7%E5%88%A9%E6%8B%8D%E6%88%B2%E7%8B%82%E8%83%9613kg-%E5%B0%8E%E6%BC%94%E5%B4%A9%E6%BD%B0-%E5%88%A5%E5%86%8D%E5%90%83%E4%BA%86",
-    "timestamp": "2026-03-03T09:53:13.214Z",
     "strategy": ".content-card__main"
   }
 ];
