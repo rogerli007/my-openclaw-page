@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-04T06:59:23.895Z
+// Last updated: 2026-03-04T07:26:26.484Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "金聖圭@INFINITE演唱會2026香港｜門票攻略＋購票連結＋座位表",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260304/1105865809839788032402365.jpeg/jdTcvbY9FOcU9uiwBtgW1c8d9lBFvgapakVfYmpFX2I?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60327278/%E9%87%91%E8%81%96%E5%9C%AD-infinite%E6%BC%94%E5%94%B1%E6%9C%832026%E9%A6%99%E6%B8%AF-%E9%96%80%E7%A5%A8%E6%94%BB%E7%95%A5-%E8%B3%BC%E7%A5%A8%E9%80%A3%E7%B5%90-%E5%BA%A7%E4%BD%8D%E8%A1%A8",
+    "timestamp": "2026-03-04T07:26:26.484Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "BIGBANG今年出道20周年將舉行世界巡演　GD一舉動力撐T.O.P回歸",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260302/1105173695132995584395641.jpeg/MnJFuN0I8guVdAxfbrb1YG4Nh_Vj69iH9rM7AcCzOwE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60327069/%E9%A6%99%E6%B8%AF%E4%BB%9462%E6%AD%B2%E7%94%B7%E5%B7%A5%E7%99%BB%E6%BC%81%E8%88%B9%E5%B7%A5%E4%BD%9C%E8%A7%B8%E9%9B%BB%E6%98%8F%E8%BF%B7-%E7%95%99%E9%86%AB%E7%B4%8416%E5%B0%8F%E6%99%82%E4%B8%8D%E6%B2%BB",
     "timestamp": "2026-03-03T15:27:43.154Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "王晶選擇河南進攻微短劇產業　鄭州如何實現日均百部短劇開機？",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260303/1105633226593931264721853.jpeg/aOX3lImAiramVSHKKMnCS-gH7rAvld_qV_MjGFfzIxg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%97%9D%E6%96%87%E4%B8%AD%E5%9C%8B/60326956/%E7%8E%8B%E6%99%B6%E9%81%B8%E6%93%87%E6%B2%B3%E5%8D%97%E9%80%B2%E6%94%BB%E5%BE%AE%E7%9F%AD%E5%8A%87%E7%94%A2%E6%A5%AD-%E9%84%AD%E5%B7%9E%E5%A6%82%E4%BD%95%E5%AF%A6%E7%8F%BE%E6%97%A5%E5%9D%87%E7%99%BE%E9%83%A8%E7%9F%AD%E5%8A%87%E9%96%8B%E6%A9%9F",
-    "timestamp": "2026-03-03T14:53:15.708Z",
     "strategy": ".content-card__main"
   }
 ];
