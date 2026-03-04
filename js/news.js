@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-04T17:23:58.217Z
+// Last updated: 2026-03-04T17:52:38.318Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "伊朗局勢｜拉里賈尼：幾日內已有逾500名美軍士兵喪生",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260301/1104842547022270464471506.jpeg/7a0yZ9VUo-pm8b3ctm-lyeO0BhhunwiOdsboonbG6KI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60327509/%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8B%A2-%E6%8B%89%E9%87%8C%E8%B3%88%E5%B0%BC-%E5%B9%BE%E6%97%A5%E5%85%A7%E5%B7%B2%E6%9C%89%E9%80%BE500%E5%90%8D%E7%BE%8E%E8%BB%8D%E5%A3%AB%E5%85%B5%E5%96%AA%E7%94%9F",
+    "timestamp": "2026-03-04T17:52:38.318Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "伊朗稱導彈針對美國利益非卡塔爾　歐盟批其肆意攻擊加速自身滅亡",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260107/1085670062041337856657908.jpeg/9LoXDOad_d8SiphJx3q-e_ndtNKj5I_bEKpgrBCqYKw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60327115/%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8B%A2-%E8%8B%B1%E5%81%89%E9%81%94-%E4%BA%9E%E9%A6%AC%E9%81%9C%E8%87%A8%E6%99%82%E9%97%9C%E9%96%89%E6%9D%9C%E6%8B%9C%E8%BE%A6%E4%BA%8B%E8%99%95-%E8%BD%89%E7%82%BA%E9%81%A0%E7%A8%8B%E8%BE%A6%E5%85%AC",
     "timestamp": "2026-03-04T01:18:08.507Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "25名從伊朗撤離中國公民　經土庫曼啟程回國",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260304/1105743660298801152704935.jpeg/ukSe7n7j_LWvH02WrVIOxko-OL00EpD0kVcunZFXLp0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60327098/25%E5%90%8D%E5%BE%9E%E4%BC%8A%E6%9C%97%E6%92%A4%E9%9B%A2%E4%B8%AD%E5%9C%8B%E5%85%AC%E6%B0%91-%E7%B6%93%E5%9C%9F%E5%BA%AB%E6%9B%BC%E5%95%9F%E7%A8%8B%E5%9B%9E%E5%9C%8B",
-    "timestamp": "2026-03-04T00:45:09.077Z",
     "strategy": ".content-card__main"
   }
 ];
