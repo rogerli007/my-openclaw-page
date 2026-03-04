@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-04T08:20:45.681Z
+// Last updated: 2026-03-04T08:53:12.139Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "中東局勢｜金舖排長龍　有市民稱金價波幅依舊　利是錢買金續投資",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260304/1105891039987634176251908.jpeg/e_Fi2FPodP1WQkepx89mjjnzbzM3rGkqi1MhtqFTIbY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60327328/%E4%B8%AD%E6%9D%B1%E5%B1%80%E5%8B%A2-%E9%87%91%E8%88%96%E6%8E%92%E9%95%B7%E9%BE%8D-%E6%9C%89%E5%B8%82%E6%B0%91%E7%A8%B1%E9%87%91%E5%83%B9%E6%B3%A2%E5%B9%85%E4%BE%9D%E8%88%8A-%E5%88%A9%E6%98%AF%E9%8C%A2%E8%B2%B7%E9%87%91%E7%BA%8C%E6%8A%95%E8%B3%87",
+    "timestamp": "2026-03-04T08:53:12.139Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "盧冠廷演唱會2026澳門｜門票攻略＋購票連結＋座位表",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260304/1105669191735709696970325.jpeg/TT4F-jF9UshhsF2Ro_7xX904EPt7d3cvU6bBjlOmwY4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60327081/%E7%A7%91%E6%8A%80%E5%B1%95leap-east%E8%A1%9D%E5%87%BA%E4%B8%AD%E6%9D%B1-7%E6%9C%88%E6%9C%83%E5%B1%95%E8%88%89%E8%A1%8C-%E6%9C%83%E5%B1%95%E4%B8%80%E5%A7%90-%E7%BA%8C%E7%88%AD%E6%9B%B4%E5%A4%9A%E4%BE%86%E6%B8%AF",
     "timestamp": "2026-03-03T17:26:06.889Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "王菀之蘇打綠相識20年合體開騷　合唱方大同經典作更預告巡演動向",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260303/1105539389582217216926785.jpeg/u596kQCrCaUd3UYyl1TXXWnCzUfffWSNZj69RWY-vUU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60326904/%E7%8E%8B%E8%8F%80%E4%B9%8B%E8%98%87%E6%89%93%E7%B6%A0%E7%9B%B8%E8%AD%9820%E5%B9%B4%E5%90%88%E9%AB%94%E9%96%8B%E9%A8%B7-%E5%90%88%E5%94%B1%E6%96%B9%E5%A4%A7%E5%90%8C%E7%B6%93%E5%85%B8%E4%BD%9C%E6%9B%B4%E9%A0%90%E5%91%8A%E5%B7%A1%E6%BC%94%E5%8B%95%E5%90%91",
-    "timestamp": "2026-03-03T16:56:27.476Z",
     "strategy": ".content-card__main"
   }
 ];
