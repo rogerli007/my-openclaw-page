@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-04T21:20:09.580Z
+// Last updated: 2026-03-04T22:56:03.954Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "英超｜曼聯作客1：2不敵10人紐卡素　卡域克領軍以來首敗",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260305/1106116841639514112487260.jpeg/7-KVh4ExqEUg0PTUytp_0NL-dofGpS1VMVVzUTFVc1E?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60327529/%E8%8B%B1%E8%B6%85-%E6%9B%BC%E8%81%AF%E4%BD%9C%E5%AE%A21-2%E4%B8%8D%E6%95%B510%E4%BA%BA%E7%B4%90%E5%8D%A1%E7%B4%A0-%E5%8D%A1%E5%9F%9F%E5%85%8B%E9%A0%98%E8%BB%8D%E4%BB%A5%E4%BE%86%E9%A6%96%E6%95%97",
+    "timestamp": "2026-03-04T22:56:03.954Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "伊朗局勢｜英媒：美國B-2隱形轟炸機將在幾天內降落英國基地",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260304/1105867233822773248193865.jpeg/7hGMTmeAgVa-xe_xPf7VYyesu1cfBijvxpNuIcaTbiE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60327280/bigbang%E4%BB%8A%E5%B9%B4%E5%87%BA%E9%81%9320%E5%91%A8%E5%B9%B4%E5%B0%87%E8%88%89%E8%A1%8C%E4%B8%96%E7%95%8C%E5%B7%A1%E6%BC%94-gd%E4%B8%80%E8%88%89%E5%8B%95%E5%8A%9B%E6%92%90t-o-p%E5%9B%9E%E6%AD%B8",
     "timestamp": "2026-03-04T06:59:23.895Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "兩會｜婁勤儉回應伊朗局勢：任何國家都沒有主宰他國命運的權力",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260304/1105837445418586112812460.png/K2OPoII0xfArf8Xsi8xauI_Y0ar43_XA6D8v_eg_L_0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60327272/%E5%85%A9%E6%9C%83-%E5%A9%81%E5%8B%A4%E5%84%89%E5%9B%9E%E6%87%89%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8B%A2-%E4%BB%BB%E4%BD%95%E5%9C%8B%E5%AE%B6%E9%83%BD%E6%B2%92%E6%9C%89%E4%B8%BB%E5%AE%B0%E4%BB%96%E5%9C%8B%E5%91%BD%E9%81%8B%E7%9A%84%E6%AC%8A%E5%8A%9B",
-    "timestamp": "2026-03-04T06:06:01.749Z",
     "strategy": ".content-card__main"
   }
 ];
