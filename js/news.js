@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-04T06:06:01.749Z
+// Last updated: 2026-03-04T06:59:23.895Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "BIGBANG今年出道20周年將舉行世界巡演　GD一舉動力撐T.O.P回歸",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260304/1105867233822773248193865.jpeg/7hGMTmeAgVa-xe_xPf7VYyesu1cfBijvxpNuIcaTbiE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60327280/bigbang%E4%BB%8A%E5%B9%B4%E5%87%BA%E9%81%9320%E5%91%A8%E5%B9%B4%E5%B0%87%E8%88%89%E8%A1%8C%E4%B8%96%E7%95%8C%E5%B7%A1%E6%BC%94-gd%E4%B8%80%E8%88%89%E5%8B%95%E5%8A%9B%E6%92%90t-o-p%E5%9B%9E%E6%AD%B8",
+    "timestamp": "2026-03-04T06:59:23.895Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "兩會｜婁勤儉回應伊朗局勢：任何國家都沒有主宰他國命運的權力",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260303/1105633226593931264721853.jpeg/aOX3lImAiramVSHKKMnCS-gH7rAvld_qV_MjGFfzIxg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%97%9D%E6%96%87%E4%B8%AD%E5%9C%8B/60326956/%E7%8E%8B%E6%99%B6%E9%81%B8%E6%93%87%E6%B2%B3%E5%8D%97%E9%80%B2%E6%94%BB%E5%BE%AE%E7%9F%AD%E5%8A%87%E7%94%A2%E6%A5%AD-%E9%84%AD%E5%B7%9E%E5%A6%82%E4%BD%95%E5%AF%A6%E7%8F%BE%E6%97%A5%E5%9D%87%E7%99%BE%E9%83%A8%E7%9F%AD%E5%8A%87%E9%96%8B%E6%A9%9F",
     "timestamp": "2026-03-03T14:53:15.708Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美食新聞報道丨土瓜灣小店媲美名人飯堂　張員瑛至愛品牌落戶香港",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260303/1105517430379122688192836.jpeg/99IGTbq8oZl_MDOfl6JqT3XMVwVapxFplFn_spRZ_7I?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60326865/%E7%BE%8E%E9%A3%9F%E6%96%B0%E8%81%9E%E5%A0%B1%E9%81%93-%E5%9C%9F%E7%93%9C%E7%81%A3%E5%B0%8F%E5%BA%97%E5%AA%B2%E7%BE%8E%E5%90%8D%E4%BA%BA%E9%A3%AF%E5%A0%82-%E5%BC%B5%E5%93%A1%E7%91%9B%E8%87%B3%E6%84%9B%E5%93%81%E7%89%8C%E8%90%BD%E6%88%B6%E9%A6%99%E6%B8%AF",
-    "timestamp": "2026-03-03T14:29:21.786Z",
     "strategy": ".content-card__main"
   }
 ];
