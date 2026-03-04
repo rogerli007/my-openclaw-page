@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-04T15:22:59.046Z
+// Last updated: 2026-03-04T15:53:09.759Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "伊朗局勢｜杜拜直航機抵港　港人曾憂中途折返：今次旅程畢生難忘",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260304/1106008618794225664326845.png/j8bFJJ_puaqrWu7TqxxtkgwWp711fWwuN_3ITh39yE4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60327488/%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8B%A2-%E6%9D%9C%E6%8B%9C%E7%9B%B4%E8%88%AA%E6%A9%9F%E6%8A%B5%E6%B8%AF-%E6%B8%AF%E4%BA%BA%E6%9B%BE%E6%86%82%E4%B8%AD%E9%80%94%E6%8A%98%E8%BF%94-%E4%BB%8A%E6%AC%A1%E6%97%85%E7%A8%8B%E7%95%A2%E7%94%9F%E9%9B%A3%E5%BF%98",
+    "timestamp": "2026-03-04T15:53:09.759Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "包浩斯斥621萬買樓作員工宿舍　去年擬入市David Webb批「羞恥」",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260303/1105522512881520640207184.jpeg/Ylx31UB4p1P4voba0tWXlYoXEFLkiz9ZhBLJrIQSyaw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60326876/3%E6%9C%88viu%E5%BF%85%E7%9D%87-%E6%9F%B3%E6%BC%94%E9%8C%AB%E9%80%9A%E9%9D%88%E5%BE%8B%E5%B8%AB%E4%B8%80%E4%BA%BA%E9%A3%BE%E5%A4%9A%E8%A7%92%E6%BC%94%E6%8A%80%E7%82%B8%E8%A3%82-%E9%87%91%E6%B3%B0%E6%A2%A8%E9%A6%96%E6%88%B0%E7%B6%9C%E8%97%9D",
     "timestamp": "2026-03-03T23:47:47.505Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "伊朗選最高領袖期間　選舉機構遭以軍空襲淪廢墟",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260304/1105736513859096576346812.jpeg/0265WDnllTDAFb1ZW2oL-rmsQLmBjbWuzAjAGcwIwBk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60327097/%E4%BC%8A%E6%9C%97%E9%81%B8%E6%9C%80%E9%AB%98%E9%A0%98%E8%A2%96%E6%9C%9F%E9%96%93-%E9%81%B8%E8%88%89%E6%A9%9F%E6%A7%8B%E9%81%AD%E4%BB%A5%E8%BB%8D%E7%A9%BA%E8%A5%B2%E6%B7%AA%E5%BB%A2%E5%A2%9F",
-    "timestamp": "2026-03-03T22:53:54.562Z",
     "strategy": ".content-card__main"
   }
 ];
