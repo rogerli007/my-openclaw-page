@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-04T15:53:09.759Z
+// Last updated: 2026-03-04T16:54:27.602Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "鍾培生豪宅內30米高空著地電影級求婚！曾被要求用替身一口拒絕",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260305/1106018431083220992219705.jpeg/FauJ_G7-2l23seus1Ajy59_xXyQYawhwSWQIEklkCBI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60327499/%E9%8D%BE%E5%9F%B9%E7%94%9F%E8%B1%AA%E5%AE%85%E5%85%A730%E7%B1%B3%E9%AB%98%E7%A9%BA%E8%91%97%E5%9C%B0%E9%9B%BB%E5%BD%B1%E7%B4%9A%E6%B1%82%E5%A9%9A-%E6%9B%BE%E8%A2%AB%E8%A6%81%E6%B1%82%E7%94%A8%E6%9B%BF%E8%BA%AB%E4%B8%80%E5%8F%A3%E6%8B%92%E7%B5%95",
+    "timestamp": "2026-03-04T16:54:27.602Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "伊朗局勢｜杜拜直航機抵港　港人曾憂中途折返：今次旅程畢生難忘",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260304/1105770748506542080082534.jpeg/-_xtEylNfLeq-WZty13vO3yuGVMrvw_iBUK4qQVCuKk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60327101/%E7%AD%B2%E7%AE%95%E7%81%A3%E5%A4%AA%E5%AE%89%E8%A1%973%E8%BB%8A-%E4%B8%B2%E7%87%92-%E7%9B%B8%E6%92%9E-%E5%9F%8E%E5%B7%B4%E8%BB%8A%E9%A0%AD%E8%A2%AB%E5%8A%8F%E9%96%8B-%E5%85%A9%E4%BA%BA%E5%8F%97%E5%82%B7",
     "timestamp": "2026-03-03T23:59:55.861Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "3月Viu必睇：柳演錫通靈律師一人飾多角演技炸裂、金泰梨首戰綜藝",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260303/1105522512881520640207184.jpeg/Ylx31UB4p1P4voba0tWXlYoXEFLkiz9ZhBLJrIQSyaw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60326876/3%E6%9C%88viu%E5%BF%85%E7%9D%87-%E6%9F%B3%E6%BC%94%E9%8C%AB%E9%80%9A%E9%9D%88%E5%BE%8B%E5%B8%AB%E4%B8%80%E4%BA%BA%E9%A3%BE%E5%A4%9A%E8%A7%92%E6%BC%94%E6%8A%80%E7%82%B8%E8%A3%82-%E9%87%91%E6%B3%B0%E6%A2%A8%E9%A6%96%E6%88%B0%E7%B6%9C%E8%97%9D",
-    "timestamp": "2026-03-03T23:47:47.505Z",
     "strategy": ".content-card__main"
   }
 ];
