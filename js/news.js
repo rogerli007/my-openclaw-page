@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-04T05:20:50.334Z
+// Last updated: 2026-03-04T06:06:01.749Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "兩會｜婁勤儉回應伊朗局勢：任何國家都沒有主宰他國命運的權力",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260304/1105837445418586112812460.png/K2OPoII0xfArf8Xsi8xauI_Y0ar43_XA6D8v_eg_L_0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60327272/%E5%85%A9%E6%9C%83-%E5%A9%81%E5%8B%A4%E5%84%89%E5%9B%9E%E6%87%89%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8B%A2-%E4%BB%BB%E4%BD%95%E5%9C%8B%E5%AE%B6%E9%83%BD%E6%B2%92%E6%9C%89%E4%B8%BB%E5%AE%B0%E4%BB%96%E5%9C%8B%E5%91%BD%E9%81%8B%E7%9A%84%E6%AC%8A%E5%8A%9B",
+    "timestamp": "2026-03-04T06:06:01.749Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "兩會｜港區人大今早出席預備會議　一代表身體原因連續兩年缺席",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260303/1105517430379122688192836.jpeg/99IGTbq8oZl_MDOfl6JqT3XMVwVapxFplFn_spRZ_7I?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60326865/%E7%BE%8E%E9%A3%9F%E6%96%B0%E8%81%9E%E5%A0%B1%E9%81%93-%E5%9C%9F%E7%93%9C%E7%81%A3%E5%B0%8F%E5%BA%97%E5%AA%B2%E7%BE%8E%E5%90%8D%E4%BA%BA%E9%A3%AF%E5%A0%82-%E5%BC%B5%E5%93%A1%E7%91%9B%E8%87%B3%E6%84%9B%E5%93%81%E7%89%8C%E8%90%BD%E6%88%B6%E9%A6%99%E6%B8%AF",
     "timestamp": "2026-03-03T14:29:21.786Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "伊朗局勢｜王毅同以色列外長薩爾通話：呼籲停止軍事行動",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260303/1105622931678957568567290.jpeg/g52YJZh4BcX0-EYhPvzmp3ZchbHTF5upVmkHy1ZpB8s?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60327050/%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8B%A2-%E7%8E%8B%E6%AF%85%E5%90%8C%E4%BB%A5%E8%89%B2%E5%88%97%E5%A4%96%E9%95%B7%E8%96%A9%E7%88%BE%E9%80%9A%E8%A9%B1-%E5%91%BC%E7%B1%B2%E5%81%9C%E6%AD%A2%E8%BB%8D%E4%BA%8B%E8%A1%8C%E5%8B%95",
-    "timestamp": "2026-03-03T14:01:36.685Z",
     "strategy": ".content-card__main"
   }
 ];
