@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-04T12:23:45.104Z
+// Last updated: 2026-03-04T14:26:15.348Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "黃智雯進軍教育界　孖仙氣家姐教小朋友戲劇驚揭對方神級背景",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260304/1105986730386788352251807.jpeg/SuM-wpGL9tXDAirkzNzCt1JbnZpgp3HOMx66iTMeuok?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60327470/%E9%BB%83%E6%99%BA%E9%9B%AF%E9%80%B2%E8%BB%8D%E6%95%99%E8%82%B2%E7%95%8C-%E5%AD%96%E4%BB%99%E6%B0%A3%E5%AE%B6%E5%A7%90%E6%95%99%E5%B0%8F%E6%9C%8B%E5%8F%8B%E6%88%B2%E5%8A%87%E9%A9%9A%E6%8F%AD%E5%B0%8D%E6%96%B9%E7%A5%9E%E7%B4%9A%E8%83%8C%E6%99%AF",
+    "timestamp": "2026-03-04T14:26:15.348Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "演藝學院校舍空間緊絀　校方研港島覓空置校舍作臨時用途",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260304/1105745255761973248389720.jpeg/IaLy1RZWfblUwDCBP2WQ7ZlPKFECXX3e5aqm4-WqpuM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60327085/%E5%A4%A9%E6%B0%A3-%E4%BB%8A%E6%97%A5%E6%B8%85%E6%B6%BC%E6%97%A9%E4%B8%8A%E7%B4%8415%E5%BA%A6-%E5%88%9D%E6%99%82%E9%9B%A8%E5%8B%A2%E6%9C%89%E6%99%82%E8%BC%83%E9%A0%BB%E5%AF%86-%E5%B1%80%E9%83%A8%E5%9C%B0%E5%8D%80%E6%9C%89%E9%9B%B7%E6%9A%B4",
     "timestamp": "2026-03-03T22:18:22.150Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "伊朗局勢｜馬克龍：美以行動不符國際法　派航母戴高樂號赴地中海",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260304/1105727343680294912024697.jpeg/blkrVAs-xg-kkEHxpYi0ubej8iATj5P8xPg49MT4OPQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60327096/%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8B%A2-%E9%A6%AC%E5%85%8B%E9%BE%8D-%E7%BE%8E%E4%BB%A5%E8%A1%8C%E5%8B%95%E4%B8%8D%E7%AC%A6%E5%9C%8B%E9%9A%9B%E6%B3%95-%E6%B4%BE%E8%88%AA%E6%AF%8D%E6%88%B4%E9%AB%98%E6%A8%82%E8%99%9F%E8%B5%B4%E5%9C%B0%E4%B8%AD%E6%B5%B7",
-    "timestamp": "2026-03-03T21:50:23.165Z",
     "strategy": ".content-card__main"
   }
 ];
