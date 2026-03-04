@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-04T03:16:23.108Z
+// Last updated: 2026-03-04T04:48:35.639Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "長洲聖心小學3學生助行山客獲記小功　校長親解「自己行山」質疑",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260225/1103412364822188032708641.jpeg/ssD-A_vMazwgoVtoceubm69llqUg_16rkhHGcJIRxnA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60327210/%E9%95%B7%E6%B4%B2%E8%81%96%E5%BF%83%E5%B0%8F%E5%AD%B83%E5%AD%B8%E7%94%9F%E5%8A%A9%E8%A1%8C%E5%B1%B1%E5%AE%A2%E7%8D%B2%E8%A8%98%E5%B0%8F%E5%8A%9F-%E6%A0%A1%E9%95%B7%E8%A6%AA%E8%A7%A3-%E8%87%AA%E5%B7%B1%E8%A1%8C%E5%B1%B1-%E8%B3%AA%E7%96%91",
+    "timestamp": "2026-03-04T04:48:35.639Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "理大研眼科AI代理系統　提升臨床判斷質量　料兩年內完成開發驗證",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260303/1105590975394222080435086.jpeg/I5vGiRcN9imT-6V18N9yZDd-ZM9yqz1GyysAmcsrAJk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60327007/%E9%BB%83%E8%A9%A0%E5%84%80%E9%86%AB%E7%94%9F%E9%9B%A2%E4%B8%96-%E5%9B%9E%E6%AF%8D%E6%A0%A1%E5%88%86%E4%BA%AB%E6%8A%97%E7%99%8C%E7%B6%93%E6%AD%B7-%E5%8E%BB%E5%B9%B4%E8%88%87%E5%8F%8B%E5%9B%9E%E6%A0%A1%E7%A9%BF%E6%A0%A1%E6%9C%8D%E8%A9%B1%E7%95%B6%E5%B9%B4",
     "timestamp": "2026-03-03T13:35:10.255Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "高球場覆核案．上訴｜政府指修例後不需環評　指覆核應被駁回",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20230614/745645484697194496029718.jpeg/qEjHDetckRd6rETJ2CMY71jmaRi3XzSBSqjmkGCo5pA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60327034/%E9%AB%98%E7%90%83%E5%A0%B4%E8%A6%86%E6%A0%B8%E6%A1%88-%E4%B8%8A%E8%A8%B4-%E6%94%BF%E5%BA%9C%E6%8C%87%E4%BF%AE%E4%BE%8B%E5%BE%8C%E4%B8%8D%E9%9C%80%E7%92%B0%E8%A9%95-%E6%8C%87%E8%A6%86%E6%A0%B8%E6%87%89%E8%A2%AB%E9%A7%81%E5%9B%9E",
-    "timestamp": "2026-03-03T12:54:43.028Z",
     "strategy": ".content-card__main"
   }
 ];
