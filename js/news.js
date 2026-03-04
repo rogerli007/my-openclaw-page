@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-04T22:56:03.954Z
+// Last updated: 2026-03-04T23:51:12.994Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "經合組織︰今年發達國家政府債券發行規模　將達18萬億美元創新高",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260128/1093176528113504256954183.jpeg/I1eh_a_SVgIhU356vioyKWx5wO9dCYDKPWGoWD1hqFg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60327532/%E7%B6%93%E5%90%88%E7%B5%84%E7%B9%94-%E4%BB%8A%E5%B9%B4%E7%99%BC%E9%81%94%E5%9C%8B%E5%AE%B6%E6%94%BF%E5%BA%9C%E5%82%B5%E5%88%B8%E7%99%BC%E8%A1%8C%E8%A6%8F%E6%A8%A1-%E5%B0%87%E9%81%9418%E8%90%AC%E5%84%84%E7%BE%8E%E5%85%83%E5%89%B5%E6%96%B0%E9%AB%98",
+    "timestamp": "2026-03-04T23:51:12.994Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "英超｜曼聯作客1：2不敵10人紐卡素　卡域克領軍以來首敗",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260304/1105865809839788032402365.jpeg/jdTcvbY9FOcU9uiwBtgW1c8d9lBFvgapakVfYmpFX2I?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60327278/%E9%87%91%E8%81%96%E5%9C%AD-infinite%E6%BC%94%E5%94%B1%E6%9C%832026%E9%A6%99%E6%B8%AF-%E9%96%80%E7%A5%A8%E6%94%BB%E7%95%A5-%E8%B3%BC%E7%A5%A8%E9%80%A3%E7%B5%90-%E5%BA%A7%E4%BD%8D%E8%A1%A8",
     "timestamp": "2026-03-04T07:26:26.484Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "BIGBANG今年出道20周年將舉行世界巡演　GD一舉動力撐T.O.P回歸",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260304/1105867233822773248193865.jpeg/7hGMTmeAgVa-xe_xPf7VYyesu1cfBijvxpNuIcaTbiE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60327280/bigbang%E4%BB%8A%E5%B9%B4%E5%87%BA%E9%81%9320%E5%91%A8%E5%B9%B4%E5%B0%87%E8%88%89%E8%A1%8C%E4%B8%96%E7%95%8C%E5%B7%A1%E6%BC%94-gd%E4%B8%80%E8%88%89%E5%8B%95%E5%8A%9B%E6%92%90t-o-p%E5%9B%9E%E6%AD%B8",
-    "timestamp": "2026-03-04T06:59:23.895Z",
     "strategy": ".content-card__main"
   }
 ];
