@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-04T14:26:15.348Z
+// Last updated: 2026-03-04T14:55:32.446Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "平價MacBook Neo抵玩價$4799起｜行A18 Pro．4色機身胭脂粉紅必火",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260304/1105998268661239808476213.jpeg/6qJmxK0CzOr_Zb9L2Kf_G6GCf-xf99jl4IsYIOCLGCA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60327485/%E5%B9%B3%E5%83%B9macbook-neo%E6%8A%B5%E7%8E%A9%E5%83%B9-4799%E8%B5%B7-%E8%A1%8Ca18-pro-4%E8%89%B2%E6%A9%9F%E8%BA%AB%E8%83%AD%E8%84%82%E7%B2%89%E7%B4%85%E5%BF%85%E7%81%AB",
+    "timestamp": "2026-03-04T14:55:32.446Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "黃智雯進軍教育界　孖仙氣家姐教小朋友戲劇驚揭對方神級背景",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260303/1105609162789752832980256.jpeg/MRp9MatoCJN_tXxYiDM03YXRDvhPNssZBpoxPAaaMTw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60326879/%E5%A8%9B%E5%9C%88%E5%AF%8C%E4%BA%8C%E4%BB%A3%E4%B8%80%E5%85%A5tvb%E7%8D%B2%E5%8A%9B%E6%8D%A7%E8%88%87%E7%B9%BC%E6%AF%8D%E4%BD%8F%E8%B1%AA%E5%AE%85-%E5%98%86%E8%A1%97%E5%B8%82%E5%A4%A7%E6%8E%92%E6%AA%94%E8%BF%94%E5%B7%A5%E5%81%9A%E5%B9%B3%E6%B0%91",
     "timestamp": "2026-03-03T22:32:35.639Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "天氣｜今日清涼早上約15度　初時雨勢有時較頻密　局部地區有雷暴",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260304/1105745255761973248389720.jpeg/IaLy1RZWfblUwDCBP2WQ7ZlPKFECXX3e5aqm4-WqpuM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60327085/%E5%A4%A9%E6%B0%A3-%E4%BB%8A%E6%97%A5%E6%B8%85%E6%B6%BC%E6%97%A9%E4%B8%8A%E7%B4%8415%E5%BA%A6-%E5%88%9D%E6%99%82%E9%9B%A8%E5%8B%A2%E6%9C%89%E6%99%82%E8%BC%83%E9%A0%BB%E5%AF%86-%E5%B1%80%E9%83%A8%E5%9C%B0%E5%8D%80%E6%9C%89%E9%9B%B7%E6%9A%B4",
-    "timestamp": "2026-03-03T22:18:22.150Z",
     "strategy": ".content-card__main"
   }
 ];
