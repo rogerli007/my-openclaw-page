@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-04T17:52:38.318Z
+// Last updated: 2026-03-04T18:25:11.489Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "伊朗宣布哈梅內伊國葬延期　稱因預期人潮空前",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260305/1106048783822622720918602.jpeg/6IAnWLMMsLmbXhWqi5SCUixnOC-49ohzKo8u8CqPLvA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60327515/%E4%BC%8A%E6%9C%97%E5%AE%A3%E5%B8%83%E5%93%88%E6%A2%85%E5%85%A7%E4%BC%8A%E5%9C%8B%E8%91%AC%E5%BB%B6%E6%9C%9F-%E7%A8%B1%E5%9B%A0%E9%A0%90%E6%9C%9F%E4%BA%BA%E6%BD%AE%E7%A9%BA%E5%89%8D",
+    "timestamp": "2026-03-04T18:25:11.489Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "伊朗局勢｜拉里賈尼：幾日內已有逾500名美軍士兵喪生",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260304/1105811799229337600857461.jpeg/AKlXEOi8hNEGqTYVYwoiXNLz_YuQ_dqdxzbbcsc223I?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%B0%88%E4%B8%8A%E6%95%99%E8%82%B2/60327160/%E7%90%86%E5%A4%A7%E7%A0%94%E7%9C%BC%E7%A7%91ai%E4%BB%A3%E7%90%86%E7%B3%BB%E7%B5%B1-%E6%8F%90%E5%8D%87%E8%87%A8%E5%BA%8A%E5%88%A4%E6%96%B7%E8%B3%AA%E9%87%8F-%E6%96%99%E5%85%A9%E5%B9%B4%E5%85%A7%E5%AE%8C%E6%88%90%E9%96%8B%E7%99%BC%E9%A9%97%E8%AD%89",
     "timestamp": "2026-03-04T03:16:23.108Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "伊朗局勢｜英偉達、亞馬遜臨時關閉杜拜辦事處　轉為遠程辦公",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260107/1085670062041337856657908.jpeg/9LoXDOad_d8SiphJx3q-e_ndtNKj5I_bEKpgrBCqYKw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60327115/%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8B%A2-%E8%8B%B1%E5%81%89%E9%81%94-%E4%BA%9E%E9%A6%AC%E9%81%9C%E8%87%A8%E6%99%82%E9%97%9C%E9%96%89%E6%9D%9C%E6%8B%9C%E8%BE%A6%E4%BA%8B%E8%99%95-%E8%BD%89%E7%82%BA%E9%81%A0%E7%A8%8B%E8%BE%A6%E5%85%AC",
-    "timestamp": "2026-03-04T01:18:08.507Z",
     "strategy": ".content-card__main"
   }
 ];
