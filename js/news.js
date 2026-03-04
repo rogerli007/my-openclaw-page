@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-04T08:53:12.139Z
+// Last updated: 2026-03-04T10:53:34.918Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "支聯會案｜鄒幸彤申台教授作專家證人被拒　法官指證供與爭議無關",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20211226/551821712195457024430279.jpeg/TfBhDSrVKEEBYCAfEL-e-OF0M8O74xnd3HkLI9x5CyM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60327079/%E6%94%AF%E8%81%AF%E6%9C%83%E6%A1%88-%E9%84%92%E5%B9%B8%E5%BD%A4%E7%94%B3%E5%8F%B0%E6%95%99%E6%8E%88%E4%BD%9C%E5%B0%88%E5%AE%B6%E8%AD%89%E4%BA%BA%E8%A2%AB%E6%8B%92-%E6%B3%95%E5%AE%98%E6%8C%87%E8%AD%89%E4%BE%9B%E8%88%87%E7%88%AD%E8%AD%B0%E7%84%A1%E9%97%9C",
+    "timestamp": "2026-03-04T10:53:34.918Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "中東局勢｜金舖排長龍　有市民稱金價波幅依舊　利是錢買金續投資",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260303/1105645605931192320457983.png/jJ7eBQFnwUlvn82DU-AzjhznOfZtVkYCOsDyvzrA8r8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60327056/m5-macbook-air-m5-macbook-pro%E7%99%BB%E5%A0%B4-%E5%8D%87%E7%B4%9A512-ssd-%E5%BC%B7%E5%A4%A7ai%E6%80%A7%E8%83%BD",
     "timestamp": "2026-03-03T17:53:02.145Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "科技展LEAP East衝出中東　7月會展舉行　會展一姐：續爭更多來港",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260304/1105669191735709696970325.jpeg/TT4F-jF9UshhsF2Ro_7xX904EPt7d3cvU6bBjlOmwY4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60327081/%E7%A7%91%E6%8A%80%E5%B1%95leap-east%E8%A1%9D%E5%87%BA%E4%B8%AD%E6%9D%B1-7%E6%9C%88%E6%9C%83%E5%B1%95%E8%88%89%E8%A1%8C-%E6%9C%83%E5%B1%95%E4%B8%80%E5%A7%90-%E7%BA%8C%E7%88%AD%E6%9B%B4%E5%A4%9A%E4%BE%86%E6%B8%AF",
-    "timestamp": "2026-03-03T17:26:06.889Z",
     "strategy": ".content-card__main"
   }
 ];
