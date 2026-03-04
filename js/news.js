@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-04T10:53:34.918Z
+// Last updated: 2026-03-04T11:18:35.623Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "侵入性腦膜炎雙球菌｜39歲男子發燒入院情況危殆　潛伏期內無外遊",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260304/1105941204425510912091826.jpeg/0OXYR6mSPm8L3xxpbucvELR9l6dbG3zZ6I659v6OufY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60327442/%E4%BE%B5%E5%85%A5%E6%80%A7%E8%85%A6%E8%86%9C%E7%82%8E%E9%9B%99%E7%90%83%E8%8F%8C-39%E6%AD%B2%E7%94%B7%E5%AD%90%E7%99%BC%E7%87%92%E5%85%A5%E9%99%A2%E6%83%85%E6%B3%81%E5%8D%B1%E6%AE%86-%E6%BD%9B%E4%BC%8F%E6%9C%9F%E5%85%A7%E7%84%A1%E5%A4%96%E9%81%8A",
+    "timestamp": "2026-03-04T11:18:35.623Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "支聯會案｜鄒幸彤申台教授作專家證人被拒　法官指證供與爭議無關",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260301/1104793078654308352615403.jpeg/Md6efheYKivGw8VPJ2FF8yOooqUw2r-dcC_r9nAv6_Y?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60326069/%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8B%A2%E6%9C%80%E6%B6%88%E6%81%AF-%E9%A6%99%E6%B8%AF%E6%A9%9F%E5%A0%B4%E5%A4%9A%E8%88%AA%E7%8F%AD%E5%8F%96%E6%B6%88-%E6%B6%89%E6%9D%9C%E6%8B%9C%E5%A4%9A%E5%93%88-%E9%99%84%E5%85%A8%E5%90%8D%E5%96%AE",
     "timestamp": "2026-03-03T20:35:20.655Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "M5 MacBook Air﹑M5 MacBook Pro登場！升級512 SSD﹑強大AI性能",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260303/1105645605931192320457983.png/jJ7eBQFnwUlvn82DU-AzjhznOfZtVkYCOsDyvzrA8r8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60327056/m5-macbook-air-m5-macbook-pro%E7%99%BB%E5%A0%B4-%E5%8D%87%E7%B4%9A512-ssd-%E5%BC%B7%E5%A4%A7ai%E6%80%A7%E8%83%BD",
-    "timestamp": "2026-03-03T17:53:02.145Z",
     "strategy": ".content-card__main"
   }
 ];
