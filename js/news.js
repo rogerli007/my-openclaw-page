@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-04T00:45:09.077Z
+// Last updated: 2026-03-04T01:18:08.507Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "伊朗局勢｜英偉達、亞馬遜臨時關閉杜拜辦事處　轉為遠程辦公",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260107/1085670062041337856657908.jpeg/9LoXDOad_d8SiphJx3q-e_ndtNKj5I_bEKpgrBCqYKw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60327115/%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8B%A2-%E8%8B%B1%E5%81%89%E9%81%94-%E4%BA%9E%E9%A6%AC%E9%81%9C%E8%87%A8%E6%99%82%E9%97%9C%E9%96%89%E6%9D%9C%E6%8B%9C%E8%BE%A6%E4%BA%8B%E8%99%95-%E8%BD%89%E7%82%BA%E9%81%A0%E7%A8%8B%E8%BE%A6%E5%85%AC",
+    "timestamp": "2026-03-04T01:18:08.507Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "25名從伊朗撤離中國公民　經土庫曼啟程回國",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260302/1105227717194027008968415.jpeg/-VwIZJJnaJztKKIACre6xnke5SFOQGApPePt6hjj7eo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60327016/%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8B%A2-%E9%A6%99%E6%B8%AF%E9%83%B5%E6%94%BF-%E5%8D%B3%E6%99%82%E5%81%9C%E4%B8%AD%E6%9D%B1%E7%A9%BA%E9%83%B5%E5%AF%84%E4%BB%B6%E6%9C%8D%E5%8B%99-%E6%B6%89%E5%9F%83%E5%8F%8A%E7%AD%8914%E5%80%8B%E5%9C%8B%E5%AE%B6",
     "timestamp": "2026-03-03T12:03:41.254Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "專訪沙畫藝術家鍾雪個展《城市。尋光》定格流沙留住香港街景光影",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260303/1105569190393155584492805.jpeg/dtCUIcSBgVKccBL-N9MI8tGXozYv3M6B0ederdHnXq0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%97%9D%E6%96%87/60326982/%E5%B0%88%E8%A8%AA-%E6%B2%99%E7%95%AB%E8%97%9D%E8%A1%93%E5%AE%B6%E9%8D%BE%E9%9B%AA%E5%80%8B%E5%B1%95-%E5%9F%8E%E5%B8%82-%E5%B0%8B%E5%85%89-%E5%AE%9A%E6%A0%BC%E6%B5%81%E6%B2%99%E7%95%99%E4%BD%8F%E9%A6%99%E6%B8%AF%E8%A1%97%E6%99%AF",
-    "timestamp": "2026-03-03T10:52:47.260Z",
     "strategy": ".content-card__main"
   }
 ];
