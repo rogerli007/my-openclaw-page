@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-04T18:25:11.489Z
+// Last updated: 2026-03-04T19:24:56.146Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "倫敦經貿辦案｜控方開案陳詞：袁松彪衞志樑在英國影子執法、監控",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260305/1106054810139889664315498.jpeg/Q4Ha5UZQSh9_CsJ0uhuIGN2ja3bpNxyqPevrwT3r68E?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60327510/%E5%80%AB%E6%95%A6%E7%B6%93%E8%B2%BF%E8%BE%A6%E6%A1%88-%E6%8E%A7%E6%96%B9%E9%96%8B%E6%A1%88%E9%99%B3%E8%A9%9E-%E8%A2%81%E6%9D%BE%E5%BD%AA%E8%A1%9E%E5%BF%97%E6%A8%91%E5%9C%A8%E8%8B%B1%E5%9C%8B%E5%BD%B1%E5%AD%90%E5%9F%B7%E6%B3%95-%E7%9B%A3%E6%8E%A7",
+    "timestamp": "2026-03-04T19:24:56.146Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "伊朗宣布哈梅內伊國葬延期　稱因預期人潮空前",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260225/1103412364822188032708641.jpeg/ssD-A_vMazwgoVtoceubm69llqUg_16rkhHGcJIRxnA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60327210/%E9%95%B7%E6%B4%B2%E8%81%96%E5%BF%83%E5%B0%8F%E5%AD%B83%E5%AD%B8%E7%94%9F%E5%8A%A9%E8%A1%8C%E5%B1%B1%E5%AE%A2%E7%8D%B2%E8%A8%98%E5%B0%8F%E5%8A%9F-%E6%A0%A1%E9%95%B7%E8%A6%AA%E8%A7%A3-%E8%87%AA%E5%B7%B1%E8%A1%8C%E5%B1%B1-%E8%B3%AA%E7%96%91",
     "timestamp": "2026-03-04T04:48:35.639Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "理大研眼科AI代理系統　提升臨床判斷質量　料兩年內完成開發驗證",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260304/1105811799229337600857461.jpeg/AKlXEOi8hNEGqTYVYwoiXNLz_YuQ_dqdxzbbcsc223I?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%B0%88%E4%B8%8A%E6%95%99%E8%82%B2/60327160/%E7%90%86%E5%A4%A7%E7%A0%94%E7%9C%BC%E7%A7%91ai%E4%BB%A3%E7%90%86%E7%B3%BB%E7%B5%B1-%E6%8F%90%E5%8D%87%E8%87%A8%E5%BA%8A%E5%88%A4%E6%96%B7%E8%B3%AA%E9%87%8F-%E6%96%99%E5%85%A9%E5%B9%B4%E5%85%A7%E5%AE%8C%E6%88%90%E9%96%8B%E7%99%BC%E9%A9%97%E8%AD%89",
-    "timestamp": "2026-03-04T03:16:23.108Z",
     "strategy": ".content-card__main"
   }
 ];
