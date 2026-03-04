@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-04T04:48:35.639Z
+// Last updated: 2026-03-04T05:20:50.334Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "兩會｜港區人大今早出席預備會議　一代表身體原因連續兩年缺席",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260304/1105843936376655872487132.jpeg/G_7o_stGktmHS9a0hEhf8cYwidJUT0Yb1YJUXtWCVF4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60327240/%E5%85%A9%E6%9C%83-%E6%B8%AF%E5%8D%80%E4%BA%BA%E5%A4%A7%E4%BB%8A%E6%97%A9%E5%87%BA%E5%B8%AD%E9%A0%90%E5%82%99%E6%9C%83%E8%AD%B0-%E4%B8%80%E4%BB%A3%E8%A1%A8%E8%BA%AB%E9%AB%94%E5%8E%9F%E5%9B%A0%E9%80%A3%E7%BA%8C%E5%85%A9%E5%B9%B4%E7%BC%BA%E5%B8%AD",
+    "timestamp": "2026-03-04T05:20:50.334Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "長洲聖心小學3學生助行山客獲記小功　校長親解「自己行山」質疑",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260303/1105622931678957568567290.jpeg/g52YJZh4BcX0-EYhPvzmp3ZchbHTF5upVmkHy1ZpB8s?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60327050/%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8B%A2-%E7%8E%8B%E6%AF%85%E5%90%8C%E4%BB%A5%E8%89%B2%E5%88%97%E5%A4%96%E9%95%B7%E8%96%A9%E7%88%BE%E9%80%9A%E8%A9%B1-%E5%91%BC%E7%B1%B2%E5%81%9C%E6%AD%A2%E8%BB%8D%E4%BA%8B%E8%A1%8C%E5%8B%95",
     "timestamp": "2026-03-03T14:01:36.685Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "黃詠儀醫生離世｜回母校分享抗癌經歷　去年與友回校穿校服話當年",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260303/1105590975394222080435086.jpeg/I5vGiRcN9imT-6V18N9yZDd-ZM9yqz1GyysAmcsrAJk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60327007/%E9%BB%83%E8%A9%A0%E5%84%80%E9%86%AB%E7%94%9F%E9%9B%A2%E4%B8%96-%E5%9B%9E%E6%AF%8D%E6%A0%A1%E5%88%86%E4%BA%AB%E6%8A%97%E7%99%8C%E7%B6%93%E6%AD%B7-%E5%8E%BB%E5%B9%B4%E8%88%87%E5%8F%8B%E5%9B%9E%E6%A0%A1%E7%A9%BF%E6%A0%A1%E6%9C%8D%E8%A9%B1%E7%95%B6%E5%B9%B4",
-    "timestamp": "2026-03-03T13:35:10.255Z",
     "strategy": ".content-card__main"
   }
 ];
