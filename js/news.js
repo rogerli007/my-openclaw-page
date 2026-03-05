@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-05T02:05:30.557Z
+// Last updated: 2026-03-05T04:06:15.910Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "貓咪像狗狗一樣隨叫隨到！還能變成圓滾滾　網民激讚：可愛到爆",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250916/1044573667524087808850793.png/QZbDcZTsvPl-pBTTbE0UqJIHOUYSqgJlKHqPvCh6j7w?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%AF%B5%E7%89%A9/60276805/%E8%B2%93%E5%92%AA%E5%83%8F%E7%8B%97%E7%8B%97%E4%B8%80%E6%A8%A3%E9%9A%A8%E5%8F%AB%E9%9A%A8%E5%88%B0-%E9%82%84%E8%83%BD%E8%AE%8A%E6%88%90%E5%9C%93%E6%BB%BE%E6%BB%BE-%E7%B6%B2%E6%B0%91%E6%BF%80%E8%AE%9A-%E5%8F%AF%E6%84%9B%E5%88%B0%E7%88%86",
+    "timestamp": "2026-03-05T04:06:15.910Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "鍾培生莊雅婷求婚成功！背景大起底最年輕區議員曾選港姐仲係學霸",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20211226/551821712195457024430279.jpeg/TfBhDSrVKEEBYCAfEL-e-OF0M8O74xnd3HkLI9x5CyM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60327079/%E6%94%AF%E8%81%AF%E6%9C%83%E6%A1%88-%E9%84%92%E5%B9%B8%E5%BD%A4%E7%94%B3%E5%8F%B0%E6%95%99%E6%8E%88%E4%BD%9C%E5%B0%88%E5%AE%B6%E8%AD%89%E4%BA%BA%E8%A2%AB%E6%8B%92-%E6%B3%95%E5%AE%98%E6%8C%87%E8%AD%89%E4%BE%9B%E8%88%87%E7%88%AD%E8%AD%B0%E7%84%A1%E9%97%9C",
     "timestamp": "2026-03-04T10:53:34.918Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "中東局勢｜金舖排長龍　有市民稱金價波幅依舊　利是錢買金續投資",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260304/1105891039987634176251908.jpeg/e_Fi2FPodP1WQkepx89mjjnzbzM3rGkqi1MhtqFTIbY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60327328/%E4%B8%AD%E6%9D%B1%E5%B1%80%E5%8B%A2-%E9%87%91%E8%88%96%E6%8E%92%E9%95%B7%E9%BE%8D-%E6%9C%89%E5%B8%82%E6%B0%91%E7%A8%B1%E9%87%91%E5%83%B9%E6%B3%A2%E5%B9%85%E4%BE%9D%E8%88%8A-%E5%88%A9%E6%98%AF%E9%8C%A2%E8%B2%B7%E9%87%91%E7%BA%8C%E6%8A%95%E8%B3%87",
-    "timestamp": "2026-03-04T08:53:12.139Z",
     "strategy": ".content-card__main"
   }
 ];
