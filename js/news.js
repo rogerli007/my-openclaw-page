@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-05T08:22:03.939Z
+// Last updated: 2026-03-05T08:53:25.049Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "伊朗局勢｜特朗普欲煽動內鬥　庫爾德打地面戰恐成馬前卒之悲哀",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260305/1106253162920022016748629.jpeg/P-YMetXlXAy4QevmcYtSnl6UQCv0ebHIJSqqUyUqqlM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%9C%8B%E9%9A%9B%E5%88%86%E6%9E%90/60327718/%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8B%A2-%E7%89%B9%E6%9C%97%E6%99%AE%E6%AC%B2%E7%85%BD%E5%8B%95%E5%85%A7%E9%AC%A5-%E5%BA%AB%E7%88%BE%E5%BE%B7%E6%89%93%E5%9C%B0%E9%9D%A2%E6%88%B0%E6%81%90%E6%88%90%E9%A6%AC%E5%89%8D%E5%8D%92%E4%B9%8B%E6%82%B2%E5%93%80",
+    "timestamp": "2026-03-05T08:53:25.049Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "中年好聲音4｜海兒一句「矮女仔」焫㷫谷婭溦：唔記得佢比較細粒",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260304/1105986730386788352251807.jpeg/SuM-wpGL9tXDAirkzNzCt1JbnZpgp3HOMx66iTMeuok?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60327470/%E9%BB%83%E6%99%BA%E9%9B%AF%E9%80%B2%E8%BB%8D%E6%95%99%E8%82%B2%E7%95%8C-%E5%AD%96%E4%BB%99%E6%B0%A3%E5%AE%B6%E5%A7%90%E6%95%99%E5%B0%8F%E6%9C%8B%E5%8F%8B%E6%88%B2%E5%8A%87%E9%A9%9A%E6%8F%AD%E5%B0%8D%E6%96%B9%E7%A5%9E%E7%B4%9A%E8%83%8C%E6%99%AF",
     "timestamp": "2026-03-04T14:26:15.348Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "演藝學院校舍空間緊絀　校方研港島覓空置校舍作臨時用途",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260304/1105953226068332544253609.jpeg/hYq6Be12UtbW0Q41iiP15m5mmA_Os4ZkzL_Iqum_yKo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%B0%88%E4%B8%8A%E6%95%99%E8%82%B2/60327453/%E6%BC%94%E8%97%9D%E5%AD%B8%E9%99%A2%E6%A0%A1%E8%88%8D%E7%A9%BA%E9%96%93%E7%B7%8A%E7%B5%80-%E6%A0%A1%E6%96%B9%E7%A0%94%E6%B8%AF%E5%B3%B6%E8%A6%93%E7%A9%BA%E7%BD%AE%E6%A0%A1%E8%88%8D%E4%BD%9C%E8%87%A8%E6%99%82%E7%94%A8%E9%80%94",
-    "timestamp": "2026-03-04T12:23:45.104Z",
     "strategy": ".content-card__main"
   }
 ];
