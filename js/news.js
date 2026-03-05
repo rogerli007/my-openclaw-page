@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-05T19:39:39.458Z
+// Last updated: 2026-03-05T21:19:25.614Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "Britney Spears涉酒後駕車被捕　媒體指她被鎖上手銬帶走",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260306/1106452879939473408578169.jpeg/F_CzJ3Db3mZPiDxysvTp6O2hoYdDdmQn1L-XWtS_l1o?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60327899/britney-spears%E6%B6%89%E9%85%92%E5%BE%8C%E9%A7%95%E8%BB%8A%E8%A2%AB%E6%8D%95-%E5%AA%92%E9%AB%94%E6%8C%87%E5%A5%B9%E8%A2%AB%E9%8E%96%E4%B8%8A%E6%89%8B%E9%8A%AC%E5%B8%B6%E8%B5%B0",
+    "timestamp": "2026-03-05T21:19:25.614Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "上水停車場男子捱斬　清醒送院治理　警追緝4刀手",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260305/1106116841639514112487260.jpeg/7-KVh4ExqEUg0PTUytp_0NL-dofGpS1VMVVzUTFVc1E?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60327529/%E8%8B%B1%E8%B6%85-%E6%9B%BC%E8%81%AF%E4%BD%9C%E5%AE%A21-2%E4%B8%8D%E6%95%B510%E4%BA%BA%E7%B4%90%E5%8D%A1%E7%B4%A0-%E5%8D%A1%E5%9F%9F%E5%85%8B%E9%A0%98%E8%BB%8D%E4%BB%A5%E4%BE%86%E9%A6%96%E6%95%97",
     "timestamp": "2026-03-04T22:56:03.954Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "伊朗局勢｜英媒：美國B-2隱形轟炸機將在幾天內降落英國基地",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260305/1106085969938878464219863.jpeg/_yEJuqoTakuG4LVgGjpUOAcYpI17kaWiGNY-zxjWPs8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60327522/%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8B%A2-%E8%8B%B1%E5%AA%92-%E7%BE%8E%E5%9C%8Bb-2%E9%9A%B1%E5%BD%A2%E8%BD%9F%E7%82%B8%E6%A9%9F%E5%B0%87%E5%9C%A8%E5%B9%BE%E5%A4%A9%E5%85%A7%E9%99%8D%E8%90%BD%E8%8B%B1%E5%9C%8B%E5%9F%BA%E5%9C%B0",
-    "timestamp": "2026-03-04T21:20:09.580Z",
     "strategy": ".content-card__main"
   }
 ];
