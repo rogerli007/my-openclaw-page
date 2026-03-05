@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-05T07:52:14.706Z
+// Last updated: 2026-03-05T08:22:03.939Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "中年好聲音4｜海兒一句「矮女仔」焫㷫谷婭溦：唔記得佢比較細粒",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260305/1106255444432654336463105.jpeg/yzFVQZ0yyNvtQ8mp_CwxdE7ydPVRF9D7703-G-9N_hs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60327732/%E4%B8%AD%E5%B9%B4%E5%A5%BD%E8%81%B2%E9%9F%B34-%E6%B5%B7%E5%85%92%E4%B8%80%E5%8F%A5-%E7%9F%AE%E5%A5%B3%E4%BB%94-%E7%84%AB%E3%B7%AB%E8%B0%B7%E5%A9%AD%E6%BA%A6-%E5%94%94%E8%A8%98%E5%BE%97%E4%BD%A2%E6%AF%94%E8%BC%83%E7%B4%B0%E7%B2%92",
+    "timestamp": "2026-03-05T08:22:03.939Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "兩會2026｜李家超：構建系統性政策框架　主動對接「十五五」",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260304/1105953226068332544253609.jpeg/hYq6Be12UtbW0Q41iiP15m5mmA_Os4ZkzL_Iqum_yKo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%B0%88%E4%B8%8A%E6%95%99%E8%82%B2/60327453/%E6%BC%94%E8%97%9D%E5%AD%B8%E9%99%A2%E6%A0%A1%E8%88%8D%E7%A9%BA%E9%96%93%E7%B7%8A%E7%B5%80-%E6%A0%A1%E6%96%B9%E7%A0%94%E6%B8%AF%E5%B3%B6%E8%A6%93%E7%A9%BA%E7%BD%AE%E6%A0%A1%E8%88%8D%E4%BD%9C%E8%87%A8%E6%99%82%E7%94%A8%E9%80%94",
     "timestamp": "2026-03-04T12:23:45.104Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "兩會2026｜人大代表胡曉明倡內地學校大力推廣學習繁體字",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260304/1105949120419336192943285.jpeg/z4BH3N-UwuQ9ZkBEcnx1NiFHWTgcvRILqijNAqoozQI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60327448/%E5%85%A9%E6%9C%832026-%E4%BA%BA%E5%A4%A7%E4%BB%A3%E8%A1%A8%E8%83%A1%E6%9B%89%E6%98%8E%E5%80%A1%E5%85%A7%E5%9C%B0%E5%AD%B8%E6%A0%A1%E5%A4%A7%E5%8A%9B%E6%8E%A8%E5%BB%A3%E5%AD%B8%E7%BF%92%E7%B9%81%E9%AB%94%E5%AD%97",
-    "timestamp": "2026-03-04T11:37:05.758Z",
     "strategy": ".content-card__main"
   }
 ];
