@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-05T11:49:41.602Z
+// Last updated: 2026-03-05T12:04:17.422Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "傳政府向長者派半價餐飲劵　勞福局：絕無其事　舉報相關社交媒體",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20251001/1050062453247315968598736.jpeg/8YOLL6r37olRWPihahA6E2HjmwLguKMVfyVVUH8lVVA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60327836/%E5%82%B3%E6%94%BF%E5%BA%9C%E5%90%91%E9%95%B7%E8%80%85%E6%B4%BE%E5%8D%8A%E5%83%B9%E9%A4%90%E9%A3%B2%E5%8A%B5-%E5%8B%9E%E7%A6%8F%E5%B1%80-%E7%B5%95%E7%84%A1%E5%85%B6%E4%BA%8B-%E8%88%89%E5%A0%B1%E7%9B%B8%E9%97%9C%E7%A4%BE%E4%BA%A4%E5%AA%92%E9%AB%94",
+    "timestamp": "2026-03-05T12:04:17.422Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "全城有機日2026｜逾百攤位8大優惠推介！$1有機菜／3折有機椰子油",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260301/1104842547022270464471506.jpeg/7a0yZ9VUo-pm8b3ctm-lyeO0BhhunwiOdsboonbG6KI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60327509/%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8B%A2-%E6%8B%89%E9%87%8C%E8%B3%88%E5%B0%BC-%E5%B9%BE%E6%97%A5%E5%85%A7%E5%B7%B2%E6%9C%89%E9%80%BE500%E5%90%8D%E7%BE%8E%E8%BB%8D%E5%A3%AB%E5%85%B5%E5%96%AA%E7%94%9F",
     "timestamp": "2026-03-04T17:52:38.318Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "伊朗稱導彈針對美國利益非卡塔爾　歐盟批其肆意攻擊加速自身滅亡",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260222/1102099544411213824719458.jpeg/CRG-xVc3VxrVygUd9wkhe3u5YzUOH2wXESqqPREqqj0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60327502/%E4%BC%8A%E6%9C%97%E7%A8%B1%E5%B0%8E%E5%BD%88%E9%87%9D%E5%B0%8D%E7%BE%8E%E5%9C%8B%E5%88%A9%E7%9B%8A%E9%9D%9E%E5%8D%A1%E5%A1%94%E7%88%BE-%E6%AD%90%E7%9B%9F%E6%89%B9%E5%85%B6%E8%82%86%E6%84%8F%E6%94%BB%E6%93%8A%E5%8A%A0%E9%80%9F%E8%87%AA%E8%BA%AB%E6%BB%85%E4%BA%A1",
-    "timestamp": "2026-03-04T17:23:58.217Z",
     "strategy": ".content-card__main"
   }
 ];
