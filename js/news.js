@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-05T01:17:23.590Z
+// Last updated: 2026-03-05T02:05:30.557Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "鍾培生莊雅婷求婚成功！背景大起底最年輕區議員曾選港姐仲係學霸",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260305/1106017277674786816029754.jpeg/I7N5L_cD74EVd6-7XsofKlVOL9NHAIpkyAMbJsgDGyY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60327286/%E9%8D%BE%E5%9F%B9%E7%94%9F%E8%8E%8A%E9%9B%85%E5%A9%B7%E6%B1%82%E5%A9%9A%E6%88%90%E5%8A%9F-%E8%83%8C%E6%99%AF%E5%A4%A7%E8%B5%B7%E5%BA%95%E6%9C%80%E5%B9%B4%E8%BC%95%E5%8D%80%E8%AD%B0%E5%93%A1%E6%9B%BE%E9%81%B8%E6%B8%AF%E5%A7%90%E4%BB%B2%E4%BF%82%E5%AD%B8%E9%9C%B8",
+    "timestamp": "2026-03-05T02:05:30.557Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "伊朗局勢｜VIX指數大跌1成　美匯指數跌穿99　金價再挑戰5200美元",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260304/1105891039987634176251908.jpeg/e_Fi2FPodP1WQkepx89mjjnzbzM3rGkqi1MhtqFTIbY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60327328/%E4%B8%AD%E6%9D%B1%E5%B1%80%E5%8B%A2-%E9%87%91%E8%88%96%E6%8E%92%E9%95%B7%E9%BE%8D-%E6%9C%89%E5%B8%82%E6%B0%91%E7%A8%B1%E9%87%91%E5%83%B9%E6%B3%A2%E5%B9%85%E4%BE%9D%E8%88%8A-%E5%88%A9%E6%98%AF%E9%8C%A2%E8%B2%B7%E9%87%91%E7%BA%8C%E6%8A%95%E8%B3%87",
     "timestamp": "2026-03-04T08:53:12.139Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "盧冠廷演唱會2026澳門｜門票攻略＋購票連結＋座位表",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260304/1105894788370010112217460.jpeg/Sc9dYsRYsNuDoTWyk2tY5mHV-qLfs5ENO__sWjv_7Fo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60327332/%E7%9B%A7%E5%86%A0%E5%BB%B7%E6%BC%94%E5%94%B1%E6%9C%832026%E6%BE%B3%E9%96%80-%E9%96%80%E7%A5%A8%E6%94%BB%E7%95%A5-%E8%B3%BC%E7%A5%A8%E9%80%A3%E7%B5%90-%E5%BA%A7%E4%BD%8D%E8%A1%A8",
-    "timestamp": "2026-03-04T08:20:45.681Z",
     "strategy": ".content-card__main"
   }
 ];
