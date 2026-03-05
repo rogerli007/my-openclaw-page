@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-05T22:01:44.811Z
+// Last updated: 2026-03-05T22:18:52.592Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美眾議院未通過限制總統戰爭權力議案　參議院前一日已投票否決",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20251030/1060505492763185152071289.jpeg/i_iIyEI4aKAU8oU3O1-x1z7NYnKd3nadRzdZWEc3WVg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60327902/%E7%BE%8E%E7%9C%BE%E8%AD%B0%E9%99%A2%E6%9C%AA%E9%80%9A%E9%81%8E%E9%99%90%E5%88%B6%E7%B8%BD%E7%B5%B1%E6%88%B0%E7%88%AD%E6%AC%8A%E5%8A%9B%E8%AD%B0%E6%A1%88-%E5%8F%83%E8%AD%B0%E9%99%A2%E5%89%8D%E4%B8%80%E6%97%A5%E5%B7%B2%E6%8A%95%E7%A5%A8%E5%90%A6%E6%B1%BA",
+    "timestamp": "2026-03-05T22:18:52.592Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "Britney Spears涉酒後駕車被捕　媒體指她被鎖上手銬帶走",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260305/1106017277674786816029754.jpeg/I7N5L_cD74EVd6-7XsofKlVOL9NHAIpkyAMbJsgDGyY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60327286/%E9%8D%BE%E5%9F%B9%E7%94%9F%E8%8E%8A%E9%9B%85%E5%A9%B7%E6%B1%82%E5%A9%9A%E6%88%90%E5%8A%9F-%E8%83%8C%E6%99%AF%E5%A4%A7%E8%B5%B7%E5%BA%95%E6%9C%80%E5%B9%B4%E8%BC%95%E5%8D%80%E8%AD%B0%E5%93%A1%E6%9B%BE%E9%81%B8%E6%B8%AF%E5%A7%90%E4%BB%B2%E4%BF%82%E5%AD%B8%E9%9C%B8",
     "timestamp": "2026-03-05T02:05:30.557Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "伊朗局勢｜VIX指數大跌1成　美匯指數跌穿99　金價再挑戰5200美元",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260128/1093176528113504256954183.jpeg/I1eh_a_SVgIhU356vioyKWx5wO9dCYDKPWGoWD1hqFg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60327539/%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8B%A2-vix%E6%8C%87%E6%95%B8%E5%A4%A7%E8%B7%8C1%E6%88%90-%E7%BE%8E%E5%8C%AF%E6%8C%87%E6%95%B8%E8%B7%8C%E7%A9%BF99-%E9%87%91%E5%83%B9%E5%86%8D%E6%8C%91%E6%88%B05200%E7%BE%8E%E5%85%83",
-    "timestamp": "2026-03-05T01:17:23.590Z",
     "strategy": ".content-card__main"
   }
 ];
