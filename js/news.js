@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-05T12:04:17.422Z
+// Last updated: 2026-03-05T12:54:25.986Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "日本警拘捕中國男子　涉嫌走私山寨「昭和天皇紀念銀幣」",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260108/1085817476102623232524619.png/bBDbIEb4yJLxT_XLeRQOIrIZ5M6Y92rgb808JG_NPCQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60327813/%E6%97%A5%E6%9C%AC%E8%AD%A6%E6%8B%98%E6%8D%95%E4%B8%AD%E5%9C%8B%E7%94%B7%E5%AD%90-%E6%B6%89%E5%AB%8C%E8%B5%B0%E7%A7%81%E5%B1%B1%E5%AF%A8-%E6%98%AD%E5%92%8C%E5%A4%A9%E7%9A%87%E7%B4%80%E5%BF%B5%E9%8A%80%E5%B9%A3",
+    "timestamp": "2026-03-05T12:54:25.986Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "傳政府向長者派半價餐飲劵　勞福局：絕無其事　舉報相關社交媒體",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260305/1106048783822622720918602.jpeg/6IAnWLMMsLmbXhWqi5SCUixnOC-49ohzKo8u8CqPLvA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60327515/%E4%BC%8A%E6%9C%97%E5%AE%A3%E5%B8%83%E5%93%88%E6%A2%85%E5%85%A7%E4%BC%8A%E5%9C%8B%E8%91%AC%E5%BB%B6%E6%9C%9F-%E7%A8%B1%E5%9B%A0%E9%A0%90%E6%9C%9F%E4%BA%BA%E6%BD%AE%E7%A9%BA%E5%89%8D",
     "timestamp": "2026-03-04T18:25:11.489Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "伊朗局勢｜拉里賈尼：幾日內已有逾500名美軍士兵喪生",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260301/1104842547022270464471506.jpeg/7a0yZ9VUo-pm8b3ctm-lyeO0BhhunwiOdsboonbG6KI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60327509/%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8B%A2-%E6%8B%89%E9%87%8C%E8%B3%88%E5%B0%BC-%E5%B9%BE%E6%97%A5%E5%85%A7%E5%B7%B2%E6%9C%89%E9%80%BE500%E5%90%8D%E7%BE%8E%E8%BB%8D%E5%A3%AB%E5%85%B5%E5%96%AA%E7%94%9F",
-    "timestamp": "2026-03-04T17:52:38.318Z",
     "strategy": ".content-card__main"
   }
 ];
