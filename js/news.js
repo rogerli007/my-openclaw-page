@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-05T09:25:19.549Z
+// Last updated: 2026-03-05T09:53:15.578Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "61歲內地男機場出境赴土耳其　安檢揭手提行李藏伸縮棍被捕",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250922/1046761689359454208532186.jpeg/V9xQu2EL3PsK87ro5OBXXiqJsfqPuzcJsPfwzJX38Mw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60327792/61%E6%AD%B2%E5%85%A7%E5%9C%B0%E7%94%B7%E6%A9%9F%E5%A0%B4%E5%87%BA%E5%A2%83%E8%B5%B4%E5%9C%9F%E8%80%B3%E5%85%B6-%E5%AE%89%E6%AA%A2%E6%8F%AD%E6%89%8B%E6%8F%90%E8%A1%8C%E6%9D%8E%E8%97%8F%E4%BC%B8%E7%B8%AE%E6%A3%8D%E8%A2%AB%E6%8D%95",
+    "timestamp": "2026-03-05T09:53:15.578Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "藝術三月2026|香港7大藝文活動:M+夜不同/CandleNight/電影大師班",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260304/1106002994312253440310548.jpeg/_cdIQRfJtApvLam-vPxkHhnFqvsb-sgze57unnue7p4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60327492/%E5%8C%85%E6%B5%A9%E6%96%AF%E6%96%A5621%E8%90%AC%E8%B2%B7%E6%A8%93%E4%BD%9C%E5%93%A1%E5%B7%A5%E5%AE%BF%E8%88%8D-%E5%8E%BB%E5%B9%B4%E6%93%AC%E5%85%A5%E5%B8%82david-webb%E6%89%B9-%E7%BE%9E%E6%81%A5",
     "timestamp": "2026-03-04T15:22:59.046Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "平價MacBook Neo抵玩價$4799起｜行A18 Pro．4色機身胭脂粉紅必火",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260304/1105998268661239808476213.jpeg/6qJmxK0CzOr_Zb9L2Kf_G6GCf-xf99jl4IsYIOCLGCA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60327485/%E5%B9%B3%E5%83%B9macbook-neo%E6%8A%B5%E7%8E%A9%E5%83%B9-4799%E8%B5%B7-%E8%A1%8Ca18-pro-4%E8%89%B2%E6%A9%9F%E8%BA%AB%E8%83%AD%E8%84%82%E7%B2%89%E7%B4%85%E5%BF%85%E7%81%AB",
-    "timestamp": "2026-03-04T14:55:32.446Z",
     "strategy": ".content-card__main"
   }
 ];
