@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-05T22:37:30.250Z
+// Last updated: 2026-03-05T23:43:24.980Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "東張西望｜內地男娶港女原來有目的　悲慘遭遇聽到吳幸美喊晒口",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260305/1106338941591621632437091.jpeg/KdC13paIu-V17nWILqRvrSQp-5lZ_fgGgyn754Mp--c?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60327850/%E6%9D%B1%E5%BC%B5%E8%A5%BF%E6%9C%9B-%E5%85%A7%E5%9C%B0%E7%94%B7%E5%A8%B6%E6%B8%AF%E5%A5%B3%E5%8E%9F%E4%BE%86%E6%9C%89%E7%9B%AE%E7%9A%84-%E6%82%B2%E6%85%98%E9%81%AD%E9%81%87%E8%81%BD%E5%88%B0%E5%90%B3%E5%B9%B8%E7%BE%8E%E5%96%8A%E6%99%92%E5%8F%A3",
+    "timestamp": "2026-03-05T23:43:24.980Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美眾議院未通過限制總統戰爭權力議案　參議院前一日已投票否決",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260305/1106227374225100800587624.jpeg/42inpnKevk1UOHVsIgLhciaHE_GhXRsleiDFOHogxTg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60327674/%E5%85%A9%E6%9C%832026-%E7%A7%91%E6%8A%80%E9%83%A8%E9%95%B7-%E4%B8%AD%E5%9C%8B%E5%89%B5%E6%96%B0%E6%8C%87%E6%95%B8%E6%8E%92%E5%90%8D%E5%85%A8%E7%90%83%E7%AC%AC10-%E6%99%B6%E7%89%87%E6%94%BB%E9%97%9C%E7%8D%B2%E7%AA%81%E7%A0%B4",
     "timestamp": "2026-03-05T06:29:36.363Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "貓咪像狗狗一樣隨叫隨到！還能變成圓滾滾　網民激讚：可愛到爆",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250916/1044573667524087808850793.png/QZbDcZTsvPl-pBTTbE0UqJIHOUYSqgJlKHqPvCh6j7w?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%AF%B5%E7%89%A9/60276805/%E8%B2%93%E5%92%AA%E5%83%8F%E7%8B%97%E7%8B%97%E4%B8%80%E6%A8%A3%E9%9A%A8%E5%8F%AB%E9%9A%A8%E5%88%B0-%E9%82%84%E8%83%BD%E8%AE%8A%E6%88%90%E5%9C%93%E6%BB%BE%E6%BB%BE-%E7%B6%B2%E6%B0%91%E6%BF%80%E8%AE%9A-%E5%8F%AF%E6%84%9B%E5%88%B0%E7%88%86",
-    "timestamp": "2026-03-05T04:06:15.910Z",
     "strategy": ".content-card__main"
   }
 ];
