@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-05T21:38:39.962Z
+// Last updated: 2026-03-05T22:01:44.811Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "Britney Spears涉酒後駕車被捕　媒體指她被鎖上手銬帶走",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260306/1106452879939473408578169.jpeg/F_CzJ3Db3mZPiDxysvTp6O2hoYdDdmQn1L-XWtS_l1o?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60327899/britney-spears%E6%B6%89%E9%85%92%E5%BE%8C%E9%A7%95%E8%BB%8A%E8%A2%AB%E6%8D%95-%E5%AA%92%E9%AB%94%E6%8C%87%E5%A5%B9%E8%A2%AB%E9%8E%96%E4%B8%8A%E6%89%8B%E9%8A%AC%E5%B8%B6%E8%B5%B0",
+    "timestamp": "2026-03-05T22:01:44.811Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "Britney Spears涉酒後駕車被捕　媒體指她被鎖上手銬帶走",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260128/1093176528113504256954183.jpeg/I1eh_a_SVgIhU356vioyKWx5wO9dCYDKPWGoWD1hqFg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60327539/%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8B%A2-vix%E6%8C%87%E6%95%B8%E5%A4%A7%E8%B7%8C1%E6%88%90-%E7%BE%8E%E5%8C%AF%E6%8C%87%E6%95%B8%E8%B7%8C%E7%A9%BF99-%E9%87%91%E5%83%B9%E5%86%8D%E6%8C%91%E6%88%B05200%E7%BE%8E%E5%85%83",
     "timestamp": "2026-03-05T01:17:23.590Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "經合組織︰今年發達國家政府債券發行規模　將達18萬億美元創新高",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260128/1093176528113504256954183.jpeg/I1eh_a_SVgIhU356vioyKWx5wO9dCYDKPWGoWD1hqFg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60327532/%E7%B6%93%E5%90%88%E7%B5%84%E7%B9%94-%E4%BB%8A%E5%B9%B4%E7%99%BC%E9%81%94%E5%9C%8B%E5%AE%B6%E6%94%BF%E5%BA%9C%E5%82%B5%E5%88%B8%E7%99%BC%E8%A1%8C%E8%A6%8F%E6%A8%A1-%E5%B0%87%E9%81%9418%E8%90%AC%E5%84%84%E7%BE%8E%E5%85%83%E5%89%B5%E6%96%B0%E9%AB%98",
-    "timestamp": "2026-03-04T23:51:12.994Z",
     "strategy": ".content-card__main"
   }
 ];
