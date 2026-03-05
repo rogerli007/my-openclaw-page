@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-05T12:54:25.986Z
+// Last updated: 2026-03-05T13:37:08.366Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "英國警拘3人涉做「中國間諜」包括議員丈夫　北京：反對炒作抹黑",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260305/1106337437937831936316049.jpeg/rkWIzO7_EcbZNH9DLvVmJzum7VftGxjiOoI31jqCN9Y?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60327849/%E8%8B%B1%E5%9C%8B%E8%AD%A6%E6%8B%983%E4%BA%BA%E6%B6%89%E5%81%9A-%E4%B8%AD%E5%9C%8B%E9%96%93%E8%AB%9C-%E5%8C%85%E6%8B%AC%E8%AD%B0%E5%93%A1%E4%B8%88%E5%A4%AB-%E5%8C%97%E4%BA%AC-%E5%8F%8D%E5%B0%8D%E7%82%92%E4%BD%9C%E6%8A%B9%E9%BB%91",
+    "timestamp": "2026-03-05T13:37:08.366Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "日本警拘捕中國男子　涉嫌走私山寨「昭和天皇紀念銀幣」",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260305/1106054810139889664315498.jpeg/Q4Ha5UZQSh9_CsJ0uhuIGN2ja3bpNxyqPevrwT3r68E?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60327510/%E5%80%AB%E6%95%A6%E7%B6%93%E8%B2%BF%E8%BE%A6%E6%A1%88-%E6%8E%A7%E6%96%B9%E9%96%8B%E6%A1%88%E9%99%B3%E8%A9%9E-%E8%A2%81%E6%9D%BE%E5%BD%AA%E8%A1%9E%E5%BF%97%E6%A8%91%E5%9C%A8%E8%8B%B1%E5%9C%8B%E5%BD%B1%E5%AD%90%E5%9F%B7%E6%B3%95-%E7%9B%A3%E6%8E%A7",
     "timestamp": "2026-03-04T19:24:56.146Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "伊朗宣布哈梅內伊國葬延期　稱因預期人潮空前",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260305/1106048783822622720918602.jpeg/6IAnWLMMsLmbXhWqi5SCUixnOC-49ohzKo8u8CqPLvA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60327515/%E4%BC%8A%E6%9C%97%E5%AE%A3%E5%B8%83%E5%93%88%E6%A2%85%E5%85%A7%E4%BC%8A%E5%9C%8B%E8%91%AC%E5%BB%B6%E6%9C%9F-%E7%A8%B1%E5%9B%A0%E9%A0%90%E6%9C%9F%E4%BA%BA%E6%BD%AE%E7%A9%BA%E5%89%8D",
-    "timestamp": "2026-03-04T18:25:11.489Z",
     "strategy": ".content-card__main"
   }
 ];
