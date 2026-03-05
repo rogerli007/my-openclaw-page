@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-05T10:23:51.764Z
+// Last updated: 2026-03-05T10:52:49.111Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "女團VIVA首當演唱會嘉賓　李晞彤爆臨場加頸圈套關智斌：好大壓力",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260305/1106296589523095552714853.jpeg/aQD8w7vxxfJWqDtvbS1lULYIJDz52igxTMzOtUzMzrU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60327822/%E5%A5%B3%E5%9C%98viva%E9%A6%96%E7%95%B6%E6%BC%94%E5%94%B1%E6%9C%83%E5%98%89%E8%B3%93-%E6%9D%8E%E6%99%9E%E5%BD%A4%E7%88%86%E8%87%A8%E5%A0%B4%E5%8A%A0%E9%A0%B8%E5%9C%88%E5%A5%97%E9%97%9C%E6%99%BA%E6%96%8C-%E5%A5%BD%E5%A4%A7%E5%A3%93%E5%8A%9B",
+    "timestamp": "2026-03-05T10:52:49.111Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "張馳豪生日遭突襲嚇到抱頭大叫　自爆到餐廳愛面壁食飯享受孤獨",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260305/1106018431083220992219705.jpeg/FauJ_G7-2l23seus1Ajy59_xXyQYawhwSWQIEklkCBI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60327499/%E9%8D%BE%E5%9F%B9%E7%94%9F%E8%B1%AA%E5%AE%85%E5%85%A730%E7%B1%B3%E9%AB%98%E7%A9%BA%E8%91%97%E5%9C%B0%E9%9B%BB%E5%BD%B1%E7%B4%9A%E6%B1%82%E5%A9%9A-%E6%9B%BE%E8%A2%AB%E8%A6%81%E6%B1%82%E7%94%A8%E6%9B%BF%E8%BA%AB%E4%B8%80%E5%8F%A3%E6%8B%92%E7%B5%95",
     "timestamp": "2026-03-04T16:54:27.602Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "伊朗局勢｜杜拜直航機抵港　港人曾憂中途折返：今次旅程畢生難忘",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260304/1106008618794225664326845.png/j8bFJJ_puaqrWu7TqxxtkgwWp711fWwuN_3ITh39yE4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60327488/%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8B%A2-%E6%9D%9C%E6%8B%9C%E7%9B%B4%E8%88%AA%E6%A9%9F%E6%8A%B5%E6%B8%AF-%E6%B8%AF%E4%BA%BA%E6%9B%BE%E6%86%82%E4%B8%AD%E9%80%94%E6%8A%98%E8%BF%94-%E4%BB%8A%E6%AC%A1%E6%97%85%E7%A8%8B%E7%95%A2%E7%94%9F%E9%9B%A3%E5%BF%98",
-    "timestamp": "2026-03-04T15:53:09.759Z",
     "strategy": ".content-card__main"
   }
 ];
