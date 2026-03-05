@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-05T09:53:15.578Z
+// Last updated: 2026-03-05T10:23:51.764Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "張馳豪生日遭突襲嚇到抱頭大叫　自爆到餐廳愛面壁食飯享受孤獨",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260305/1106241537206915072560187.jpeg/bpHwKhbt3tagQhIkOwtd8vROMQfZzpkDdOc5hnTnOYY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60327686/%E5%BC%B5%E9%A6%B3%E8%B1%AA%E7%94%9F%E6%97%A5%E9%81%AD%E7%AA%81%E8%A5%B2%E5%9A%87%E5%88%B0%E6%8A%B1%E9%A0%AD%E5%A4%A7%E5%8F%AB-%E8%87%AA%E7%88%86%E5%88%B0%E9%A4%90%E5%BB%B3%E6%84%9B%E9%9D%A2%E5%A3%81%E9%A3%9F%E9%A3%AF%E4%BA%AB%E5%8F%97%E5%AD%A4%E7%8D%A8",
+    "timestamp": "2026-03-05T10:23:51.764Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "61歲內地男機場出境赴土耳其　安檢揭手提行李藏伸縮棍被捕",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260304/1106008618794225664326845.png/j8bFJJ_puaqrWu7TqxxtkgwWp711fWwuN_3ITh39yE4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60327488/%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8B%A2-%E6%9D%9C%E6%8B%9C%E7%9B%B4%E8%88%AA%E6%A9%9F%E6%8A%B5%E6%B8%AF-%E6%B8%AF%E4%BA%BA%E6%9B%BE%E6%86%82%E4%B8%AD%E9%80%94%E6%8A%98%E8%BF%94-%E4%BB%8A%E6%AC%A1%E6%97%85%E7%A8%8B%E7%95%A2%E7%94%9F%E9%9B%A3%E5%BF%98",
     "timestamp": "2026-03-04T15:53:09.759Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "包浩斯斥621萬買樓作員工宿舍　去年擬入市David Webb批「羞恥」",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260304/1106002994312253440310548.jpeg/_cdIQRfJtApvLam-vPxkHhnFqvsb-sgze57unnue7p4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60327492/%E5%8C%85%E6%B5%A9%E6%96%AF%E6%96%A5621%E8%90%AC%E8%B2%B7%E6%A8%93%E4%BD%9C%E5%93%A1%E5%B7%A5%E5%AE%BF%E8%88%8D-%E5%8E%BB%E5%B9%B4%E6%93%AC%E5%85%A5%E5%B8%82david-webb%E6%89%B9-%E7%BE%9E%E6%81%A5",
-    "timestamp": "2026-03-04T15:22:59.046Z",
     "strategy": ".content-card__main"
   }
 ];
