@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-05T22:18:52.592Z
+// Last updated: 2026-03-05T22:37:30.250Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美眾議院未通過限制總統戰爭權力議案　參議院前一日已投票否決",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20251030/1060505492763185152071289.jpeg/i_iIyEI4aKAU8oU3O1-x1z7NYnKd3nadRzdZWEc3WVg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60327902/%E7%BE%8E%E7%9C%BE%E8%AD%B0%E9%99%A2%E6%9C%AA%E9%80%9A%E9%81%8E%E9%99%90%E5%88%B6%E7%B8%BD%E7%B5%B1%E6%88%B0%E7%88%AD%E6%AC%8A%E5%8A%9B%E8%AD%B0%E6%A1%88-%E5%8F%83%E8%AD%B0%E9%99%A2%E5%89%8D%E4%B8%80%E6%97%A5%E5%B7%B2%E6%8A%95%E7%A5%A8%E5%90%A6%E6%B1%BA",
+    "timestamp": "2026-03-05T22:37:30.250Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美眾議院未通過限制總統戰爭權力議案　參議院前一日已投票否決",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250916/1044573667524087808850793.png/QZbDcZTsvPl-pBTTbE0UqJIHOUYSqgJlKHqPvCh6j7w?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%AF%B5%E7%89%A9/60276805/%E8%B2%93%E5%92%AA%E5%83%8F%E7%8B%97%E7%8B%97%E4%B8%80%E6%A8%A3%E9%9A%A8%E5%8F%AB%E9%9A%A8%E5%88%B0-%E9%82%84%E8%83%BD%E8%AE%8A%E6%88%90%E5%9C%93%E6%BB%BE%E6%BB%BE-%E7%B6%B2%E6%B0%91%E6%BF%80%E8%AE%9A-%E5%8F%AF%E6%84%9B%E5%88%B0%E7%88%86",
     "timestamp": "2026-03-05T04:06:15.910Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "鍾培生莊雅婷求婚成功！背景大起底最年輕區議員曾選港姐仲係學霸",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260305/1106017277674786816029754.jpeg/I7N5L_cD74EVd6-7XsofKlVOL9NHAIpkyAMbJsgDGyY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60327286/%E9%8D%BE%E5%9F%B9%E7%94%9F%E8%8E%8A%E9%9B%85%E5%A9%B7%E6%B1%82%E5%A9%9A%E6%88%90%E5%8A%9F-%E8%83%8C%E6%99%AF%E5%A4%A7%E8%B5%B7%E5%BA%95%E6%9C%80%E5%B9%B4%E8%BC%95%E5%8D%80%E8%AD%B0%E5%93%A1%E6%9B%BE%E9%81%B8%E6%B8%AF%E5%A7%90%E4%BB%B2%E4%BF%82%E5%AD%B8%E9%9C%B8",
-    "timestamp": "2026-03-05T02:05:30.557Z",
     "strategy": ".content-card__main"
   }
 ];
