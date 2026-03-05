@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-05T13:37:08.366Z
+// Last updated: 2026-03-05T14:36:46.223Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "現代人不交朋友？美將孤獨列為公共健康危機　專家：不是個人問題",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260305/1106286604479107072093685.png/05EM-SoCy_8hiy-1HWs8H_JNSBmbf6zBfmhNCH5oTQg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60327806/%E7%8F%BE%E4%BB%A3%E4%BA%BA%E4%B8%8D%E4%BA%A4%E6%9C%8B%E5%8F%8B-%E7%BE%8E%E5%B0%87%E5%AD%A4%E7%8D%A8%E5%88%97%E7%82%BA%E5%85%AC%E5%85%B1%E5%81%A5%E5%BA%B7%E5%8D%B1%E6%A9%9F-%E5%B0%88%E5%AE%B6-%E4%B8%8D%E6%98%AF%E5%80%8B%E4%BA%BA%E5%95%8F%E9%A1%8C",
+    "timestamp": "2026-03-05T14:36:46.223Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "英國警拘3人涉做「中國間諜」包括議員丈夫　北京：反對炒作抹黑",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260305/1106085969938878464219863.jpeg/_yEJuqoTakuG4LVgGjpUOAcYpI17kaWiGNY-zxjWPs8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60327522/%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8B%A2-%E8%8B%B1%E5%AA%92-%E7%BE%8E%E5%9C%8Bb-2%E9%9A%B1%E5%BD%A2%E8%BD%9F%E7%82%B8%E6%A9%9F%E5%B0%87%E5%9C%A8%E5%B9%BE%E5%A4%A9%E5%85%A7%E9%99%8D%E8%90%BD%E8%8B%B1%E5%9C%8B%E5%9F%BA%E5%9C%B0",
     "timestamp": "2026-03-04T21:01:54.716Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "倫敦經貿辦案｜控方開案陳詞：袁松彪衞志樑在英國影子執法、監控",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260305/1106054810139889664315498.jpeg/Q4Ha5UZQSh9_CsJ0uhuIGN2ja3bpNxyqPevrwT3r68E?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60327510/%E5%80%AB%E6%95%A6%E7%B6%93%E8%B2%BF%E8%BE%A6%E6%A1%88-%E6%8E%A7%E6%96%B9%E9%96%8B%E6%A1%88%E9%99%B3%E8%A9%9E-%E8%A2%81%E6%9D%BE%E5%BD%AA%E8%A1%9E%E5%BF%97%E6%A8%91%E5%9C%A8%E8%8B%B1%E5%9C%8B%E5%BD%B1%E5%AD%90%E5%9F%B7%E6%B3%95-%E7%9B%A3%E6%8E%A7",
-    "timestamp": "2026-03-04T19:24:56.146Z",
     "strategy": ".content-card__main"
   }
 ];
