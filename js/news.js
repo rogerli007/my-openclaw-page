@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-05T06:29:36.363Z
+// Last updated: 2026-03-05T07:52:14.706Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "兩會2026｜李家超：構建系統性政策框架　主動對接「十五五」",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260305/1106253393850011648584691.jpeg/iEWduGWflYroRJpBpXeWdv_vZDEsCEE0rsp-m67Kfps?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60327733/%E5%85%A9%E6%9C%832026-%E6%9D%8E%E5%AE%B6%E8%B6%85-%E6%A7%8B%E5%BB%BA%E7%B3%BB%E7%B5%B1%E6%80%A7%E6%94%BF%E7%AD%96%E6%A1%86%E6%9E%B6-%E4%B8%BB%E5%8B%95%E5%B0%8D%E6%8E%A5-%E5%8D%81%E4%BA%94%E4%BA%94",
+    "timestamp": "2026-03-05T07:52:14.706Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "兩會2026｜科技部長：中國創新指數排名全球第10　晶片攻關獲突破",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260304/1105949120419336192943285.jpeg/z4BH3N-UwuQ9ZkBEcnx1NiFHWTgcvRILqijNAqoozQI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60327448/%E5%85%A9%E6%9C%832026-%E4%BA%BA%E5%A4%A7%E4%BB%A3%E8%A1%A8%E8%83%A1%E6%9B%89%E6%98%8E%E5%80%A1%E5%85%A7%E5%9C%B0%E5%AD%B8%E6%A0%A1%E5%A4%A7%E5%8A%9B%E6%8E%A8%E5%BB%A3%E5%AD%B8%E7%BF%92%E7%B9%81%E9%AB%94%E5%AD%97",
     "timestamp": "2026-03-04T11:37:05.758Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "侵入性腦膜炎雙球菌｜39歲男子發燒入院情況危殆　潛伏期內無外遊",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260304/1105941204425510912091826.jpeg/0OXYR6mSPm8L3xxpbucvELR9l6dbG3zZ6I659v6OufY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60327442/%E4%BE%B5%E5%85%A5%E6%80%A7%E8%85%A6%E8%86%9C%E7%82%8E%E9%9B%99%E7%90%83%E8%8F%8C-39%E6%AD%B2%E7%94%B7%E5%AD%90%E7%99%BC%E7%87%92%E5%85%A5%E9%99%A2%E6%83%85%E6%B3%81%E5%8D%B1%E6%AE%86-%E6%BD%9B%E4%BC%8F%E6%9C%9F%E5%85%A7%E7%84%A1%E5%A4%96%E9%81%8A",
-    "timestamp": "2026-03-04T11:18:35.623Z",
     "strategy": ".content-card__main"
   }
 ];
