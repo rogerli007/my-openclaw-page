@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-05T08:53:25.049Z
+// Last updated: 2026-03-05T09:25:19.549Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "藝術三月2026|香港7大藝文活動:M+夜不同/CandleNight/電影大師班",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260305/1106243529652310016324915.jpeg/ckQuMT3-_9uJo6UV69d9i7I97fKIRhTGCJu9cwibvXM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%97%9D%E6%96%87/60327695/%E8%97%9D%E8%A1%93%E4%B8%89%E6%9C%882026-%E5%BF%85%E5%8E%BB%E8%97%9D%E6%96%87%E6%B4%BB%E5%8B%95-m-%E5%A4%9C%E4%B8%8D%E5%90%8C-%E7%87%AD%E5%85%89%E9%9F%B3%E6%A8%82%E6%9C%83-%E9%9B%BB%E5%BD%B1%E5%A4%A7%E5%B8%AB%E7%8F%AD",
+    "timestamp": "2026-03-05T09:25:19.549Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "伊朗局勢｜特朗普欲煽動內鬥　庫爾德打地面戰恐成馬前卒之悲哀",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260304/1105998268661239808476213.jpeg/6qJmxK0CzOr_Zb9L2Kf_G6GCf-xf99jl4IsYIOCLGCA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60327485/%E5%B9%B3%E5%83%B9macbook-neo%E6%8A%B5%E7%8E%A9%E5%83%B9-4799%E8%B5%B7-%E8%A1%8Ca18-pro-4%E8%89%B2%E6%A9%9F%E8%BA%AB%E8%83%AD%E8%84%82%E7%B2%89%E7%B4%85%E5%BF%85%E7%81%AB",
     "timestamp": "2026-03-04T14:55:32.446Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "黃智雯進軍教育界　孖仙氣家姐教小朋友戲劇驚揭對方神級背景",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260304/1105986730386788352251807.jpeg/SuM-wpGL9tXDAirkzNzCt1JbnZpgp3HOMx66iTMeuok?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60327470/%E9%BB%83%E6%99%BA%E9%9B%AF%E9%80%B2%E8%BB%8D%E6%95%99%E8%82%B2%E7%95%8C-%E5%AD%96%E4%BB%99%E6%B0%A3%E5%AE%B6%E5%A7%90%E6%95%99%E5%B0%8F%E6%9C%8B%E5%8F%8B%E6%88%B2%E5%8A%87%E9%A9%9A%E6%8F%AD%E5%B0%8D%E6%96%B9%E7%A5%9E%E7%B4%9A%E8%83%8C%E6%99%AF",
-    "timestamp": "2026-03-04T14:26:15.348Z",
     "strategy": ".content-card__main"
   }
 ];
