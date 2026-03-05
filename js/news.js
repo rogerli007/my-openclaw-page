@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-05T21:19:25.614Z
+// Last updated: 2026-03-05T21:38:39.962Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "Britney Spears涉酒後駕車被捕　媒體指她被鎖上手銬帶走",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260306/1106452879939473408578169.jpeg/F_CzJ3Db3mZPiDxysvTp6O2hoYdDdmQn1L-XWtS_l1o?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60327899/britney-spears%E6%B6%89%E9%85%92%E5%BE%8C%E9%A7%95%E8%BB%8A%E8%A2%AB%E6%8D%95-%E5%AA%92%E9%AB%94%E6%8C%87%E5%A5%B9%E8%A2%AB%E9%8E%96%E4%B8%8A%E6%89%8B%E9%8A%AC%E5%B8%B6%E8%B5%B0",
+    "timestamp": "2026-03-05T21:38:39.962Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "Britney Spears涉酒後駕車被捕　媒體指她被鎖上手銬帶走",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260128/1093176528113504256954183.jpeg/I1eh_a_SVgIhU356vioyKWx5wO9dCYDKPWGoWD1hqFg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60327532/%E7%B6%93%E5%90%88%E7%B5%84%E7%B9%94-%E4%BB%8A%E5%B9%B4%E7%99%BC%E9%81%94%E5%9C%8B%E5%AE%B6%E6%94%BF%E5%BA%9C%E5%82%B5%E5%88%B8%E7%99%BC%E8%A1%8C%E8%A6%8F%E6%A8%A1-%E5%B0%87%E9%81%9418%E8%90%AC%E5%84%84%E7%BE%8E%E5%85%83%E5%89%B5%E6%96%B0%E9%AB%98",
     "timestamp": "2026-03-04T23:51:12.994Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "英超｜曼聯作客1：2不敵10人紐卡素　卡域克領軍以來首敗",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260305/1106116841639514112487260.jpeg/7-KVh4ExqEUg0PTUytp_0NL-dofGpS1VMVVzUTFVc1E?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60327529/%E8%8B%B1%E8%B6%85-%E6%9B%BC%E8%81%AF%E4%BD%9C%E5%AE%A21-2%E4%B8%8D%E6%95%B510%E4%BA%BA%E7%B4%90%E5%8D%A1%E7%B4%A0-%E5%8D%A1%E5%9F%9F%E5%85%8B%E9%A0%98%E8%BB%8D%E4%BB%A5%E4%BE%86%E9%A6%96%E6%95%97",
-    "timestamp": "2026-03-04T22:56:03.954Z",
     "strategy": ".content-card__main"
   }
 ];
