@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-05T14:36:46.223Z
+// Last updated: 2026-03-05T19:39:39.458Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "上水停車場男子捱斬　清醒送院治理　警追緝4刀手",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260306/1106423181465358336723815.jpeg/bCBajj_KiRm_Of8STC98T82z-3tUIkT4G6Nw5CGjcOQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60327890/%E4%B8%8A%E6%B0%B4%E5%81%9C%E8%BB%8A%E5%A0%B4%E7%94%B7%E5%AD%90%E6%8D%B1%E6%96%AC-%E6%B8%85%E9%86%92%E9%80%81%E9%99%A2%E6%B2%BB%E7%90%86-%E8%AD%A6%E8%BF%BD%E7%B7%9D4%E5%88%80%E6%89%8B",
+    "timestamp": "2026-03-05T19:39:39.458Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "現代人不交朋友？美將孤獨列為公共健康危機　專家：不是個人問題",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260305/1106085969938878464219863.jpeg/_yEJuqoTakuG4LVgGjpUOAcYpI17kaWiGNY-zxjWPs8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60327522/%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8B%A2-%E8%8B%B1%E5%AA%92-%E7%BE%8E%E5%9C%8Bb-2%E9%9A%B1%E5%BD%A2%E8%BD%9F%E7%82%B8%E6%A9%9F%E5%B0%87%E5%9C%A8%E5%B9%BE%E5%A4%A9%E5%85%A7%E9%99%8D%E8%90%BD%E8%8B%B1%E5%9C%8B%E5%9F%BA%E5%9C%B0",
     "timestamp": "2026-03-04T21:20:09.580Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "伊朗局勢｜英媒：美國B-2隱形轟炸機將在幾天內降落英國基地",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260305/1106085969938878464219863.jpeg/_yEJuqoTakuG4LVgGjpUOAcYpI17kaWiGNY-zxjWPs8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60327522/%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8B%A2-%E8%8B%B1%E5%AA%92-%E7%BE%8E%E5%9C%8Bb-2%E9%9A%B1%E5%BD%A2%E8%BD%9F%E7%82%B8%E6%A9%9F%E5%B0%87%E5%9C%A8%E5%B9%BE%E5%A4%A9%E5%85%A7%E9%99%8D%E8%90%BD%E8%8B%B1%E5%9C%8B%E5%9F%BA%E5%9C%B0",
-    "timestamp": "2026-03-04T21:01:54.716Z",
     "strategy": ".content-card__main"
   }
 ];
