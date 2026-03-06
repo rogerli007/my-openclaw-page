@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-06T22:15:09.364Z
+// Last updated: 2026-03-06T22:53:02.779Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "英足總盃｜利物浦3:1挫狼隊　晉級8強",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260307/1106835383368290304846201.jpeg/k4engmDUbtEwLjUa1NskWvy21FI4b6MeGzltLhs5bS4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60328230/%E8%8B%B1%E8%B6%B3%E7%B8%BD%E7%9B%83-%E5%88%A9%E7%89%A9%E6%B5%A63-1%E6%8C%AB%E7%8B%BC%E9%9A%8A-%E6%99%89%E7%B4%9A8%E5%BC%B7",
+    "timestamp": "2026-03-06T22:53:02.779Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "【星之谷】被遺忘的孤兒 銀行減息為何舊業主無份？",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260306/1106595701170638848015967.jpeg/vUfRGiesKeX37JH_b-K-daUWAMhOesASy4cnDMuHJww?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60328016/%E7%BE%8E%E5%9C%8B%E5%89%AF%E5%9C%8B%E5%8B%99%E5%8D%BF%E8%A8%AA%E5%8D%B0%E5%BA%A6-%E5%8A%83%E7%B4%85%E7%B7%9A-%E4%B8%8D%E9%87%8D%E8%B9%8820%E5%B9%B4%E5%89%8D%E5%B0%8D%E8%8F%AF%E6%94%BF%E7%AD%96%E8%A6%86%E8%BD%8D",
     "timestamp": "2026-03-06T07:26:14.836Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "荃灣海之戀「鳳凰樓」兩房978萬沽、街坊接貨　9年轉手僅升14萬",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20230302/707952395069427712534697.jpeg/D5vWrwrSRuooah6wN0ryxXsAMfSsb8WYQl9bTEJfW0w?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60328000/%E8%8D%83%E7%81%A3%E6%B5%B7%E4%B9%8B%E6%88%80-%E9%B3%B3%E5%87%B0%E6%A8%93-%E5%85%A9%E6%88%BF978%E8%90%AC%E6%B2%BD-%E8%A1%97%E5%9D%8A%E6%8E%A5%E8%B2%A8-9%E5%B9%B4%E8%BD%89%E6%89%8B%E5%83%85%E5%8D%8714%E8%90%AC",
-    "timestamp": "2026-03-06T06:53:41.212Z",
     "strategy": ".content-card__main"
   }
 ];
