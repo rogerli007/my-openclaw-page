@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-06T20:19:45.716Z
+// Last updated: 2026-03-06T20:38:11.642Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "西班牙首相：美以對伊朗發動戰爭是「極其嚴重錯誤」",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250706/1018638544937160704069538.jpeg/xVlBnFssspyjrdrh-dCETEacYdc2jLDLjDlm4Yw5ZuE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60328228/%E8%A5%BF%E7%8F%AD%E7%89%99%E9%A6%96%E7%9B%B8-%E7%BE%8E%E4%BB%A5%E5%B0%8D%E4%BC%8A%E6%9C%97%E7%99%BC%E5%8B%95%E6%88%B0%E7%88%AD%E6%98%AF-%E6%A5%B5%E5%85%B6%E5%9A%B4%E9%87%8D%E9%8C%AF%E8%AA%A4",
+    "timestamp": "2026-03-06T20:38:11.642Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "伊朗外長與印度、斯里蘭卡外長通電話　強烈譴責美國突襲伊護衛艦",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20251104/1062328737497878528837014.jpeg/nMBf2q-kGmeHTXKxq5OAGo5BwV-3fmLXzzihns84oZ4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60327909/%E7%BE%8E%E5%9C%8B%E6%93%AC%E5%B0%87ai%E6%99%B6%E7%89%87%E5%87%BA%E5%8F%A3%E7%AE%A1%E5%88%B6%E6%93%B4%E5%B1%95%E8%87%B3%E5%85%A8%E7%90%83-%E8%8B%B1%E5%81%89%E9%81%94-amd%E7%AD%89%E5%87%BA%E5%8F%A3%E9%9C%80%E7%8D%B2%E8%A8%B1%E5%8F%AF",
     "timestamp": "2026-03-06T00:58:37.647Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "豪門少奶產後暴瘦　出席米蘭時裝週驚現「排骨胸」惹網民心痛",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260305/1106335125437681664809572.jpeg/h67liC3Wj9c2YqIi39t65L77ElcSUvwJ5ozuI-aM7iM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60327712/%E8%B1%AA%E9%96%80%E5%B0%91%E5%A5%B6%E6%96%87%E8%A9%A0%E7%8F%8A%E7%94%A2%E5%BE%8C%E6%9A%B4%E7%98%A6-%E7%B1%B3%E8%98%AD%E6%99%82%E8%A3%9D%E9%80%B1%E9%A9%9A%E7%8F%BE-%E6%8E%92%E9%AA%A8%E8%83%B8-%E6%83%B9%E7%B6%B2%E6%B0%91%E5%BF%83%E7%97%9B",
-    "timestamp": "2026-03-06T00:04:53.289Z",
     "strategy": ".content-card__main"
   }
 ];
