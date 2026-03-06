@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-06T17:50:59.107Z
+// Last updated: 2026-03-06T18:23:32.152Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "九龍城寨｜傳木村拓哉演終章鬥四子　受中日關係影響由吳彥祖頂上",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260307/1106754869483540480638092.jpeg/2OJQ-cs637Du3px0nkKwGni1LcOrCkHaa7eL4Wu3i-E?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60328223/%E4%B9%9D%E9%BE%8D%E5%9F%8E%E5%AF%A8-%E5%82%B3%E6%9C%A8%E6%9D%91%E6%8B%93%E5%93%89%E6%BC%94%E7%B5%82%E7%AB%A0%E9%AC%A5%E5%9B%9B%E5%AD%90-%E5%8F%97%E4%B8%AD%E6%97%A5%E9%97%9C%E4%BF%82%E5%BD%B1%E9%9F%BF%E7%94%B1%E5%90%B3%E5%BD%A5%E7%A5%96%E9%A0%82%E4%B8%8A",
+    "timestamp": "2026-03-06T18:23:32.152Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "九龍城寨｜傳木村拓哉演終章鬥四子　受中日關係影響由吳彥祖頂上",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260306/1106452879939473408578169.jpeg/F_CzJ3Db3mZPiDxysvTp6O2hoYdDdmQn1L-XWtS_l1o?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60327899/britney-spears%E6%B6%89%E9%85%92%E5%BE%8C%E9%A7%95%E8%BB%8A%E8%A2%AB%E6%8D%95-%E5%AA%92%E9%AB%94%E6%8C%87%E5%A5%B9%E8%A2%AB%E9%8E%96%E4%B8%8A%E6%89%8B%E9%8A%AC%E5%B8%B6%E8%B5%B0",
     "timestamp": "2026-03-05T21:38:39.962Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "Britney Spears涉酒後駕車被捕　媒體指她被鎖上手銬帶走",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260306/1106452879939473408578169.jpeg/F_CzJ3Db3mZPiDxysvTp6O2hoYdDdmQn1L-XWtS_l1o?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60327899/britney-spears%E6%B6%89%E9%85%92%E5%BE%8C%E9%A7%95%E8%BB%8A%E8%A2%AB%E6%8D%95-%E5%AA%92%E9%AB%94%E6%8C%87%E5%A5%B9%E8%A2%AB%E9%8E%96%E4%B8%8A%E6%89%8B%E9%8A%AC%E5%B8%B6%E8%B5%B0",
-    "timestamp": "2026-03-05T21:19:25.614Z",
     "strategy": ".content-card__main"
   }
 ];
