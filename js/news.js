@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-06T20:02:43.306Z
+// Last updated: 2026-03-06T20:19:45.716Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "伊朗外長與印度、斯里蘭卡外長通電話　強烈譴責美國突襲伊護衛艦",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260304/1105981631862149120361427.jpeg/o1CChpwYEBbAf5z3G48UKfqeQoCMfPTWJ_9uGCf_bhg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60328227/%E4%BC%8A%E6%9C%97%E5%A4%96%E9%95%B7%E8%88%87%E5%8D%B0%E5%BA%A6-%E6%96%AF%E9%87%8C%E8%98%AD%E5%8D%A1%E5%A4%96%E9%95%B7%E9%80%9A%E9%9B%BB%E8%A9%B1-%E5%BC%B7%E7%83%88%E8%AD%B4%E8%B2%AC%E7%BE%8E%E5%9C%8B%E7%AA%81%E8%A5%B2%E4%BC%8A%E8%AD%B7%E8%A1%9B%E8%89%A6",
+    "timestamp": "2026-03-06T20:19:45.716Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "伊朗外長與印度、斯里蘭卡外長通電話　強烈譴責美國突襲伊護衛艦",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260305/1106335125437681664809572.jpeg/h67liC3Wj9c2YqIi39t65L77ElcSUvwJ5ozuI-aM7iM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60327712/%E8%B1%AA%E9%96%80%E5%B0%91%E5%A5%B6%E6%96%87%E8%A9%A0%E7%8F%8A%E7%94%A2%E5%BE%8C%E6%9A%B4%E7%98%A6-%E7%B1%B3%E8%98%AD%E6%99%82%E8%A3%9D%E9%80%B1%E9%A9%9A%E7%8F%BE-%E6%8E%92%E9%AA%A8%E8%83%B8-%E6%83%B9%E7%B6%B2%E6%B0%91%E5%BF%83%E7%97%9B",
     "timestamp": "2026-03-06T00:04:53.289Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "東張西望｜內地男娶港女原來有目的　悲慘遭遇聽到吳幸美喊晒口",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260305/1106338941591621632437091.jpeg/KdC13paIu-V17nWILqRvrSQp-5lZ_fgGgyn754Mp--c?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60327850/%E6%9D%B1%E5%BC%B5%E8%A5%BF%E6%9C%9B-%E5%85%A7%E5%9C%B0%E7%94%B7%E5%A8%B6%E6%B8%AF%E5%A5%B3%E5%8E%9F%E4%BE%86%E6%9C%89%E7%9B%AE%E7%9A%84-%E6%82%B2%E6%85%98%E9%81%AD%E9%81%87%E8%81%BD%E5%88%B0%E5%90%B3%E5%B9%B8%E7%BE%8E%E5%96%8A%E6%99%92%E5%8F%A3",
-    "timestamp": "2026-03-05T23:43:24.980Z",
     "strategy": ".content-card__main"
   }
 ];
