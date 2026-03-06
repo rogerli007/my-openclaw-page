@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-06T11:50:51.316Z
+// Last updated: 2026-03-06T12:23:22.389Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "扮嘢王李思捷多倫多開騷狂收銀紙扇　張崇基杜麗莎捧場大讚演出",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260306/1106588235649257472286704.jpeg/9WkWForud18ot9Ue1LXmpYuP0JBRg-czDGttWAxrbVg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60328010/%E6%89%AE%E5%98%A2%E7%8E%8B%E6%9D%8E%E6%80%9D%E6%8D%B7%E5%A4%9A%E5%80%AB%E5%A4%9A%E9%96%8B%E9%A8%B7%E7%8B%82%E6%94%B6%E9%8A%80%E7%B4%99%E6%89%87-%E5%BC%B5%E5%B4%87%E5%9F%BA%E6%9D%9C%E9%BA%97%E8%8E%8E%E6%8D%A7%E5%A0%B4%E5%A4%A7%E8%AE%9A%E6%BC%94%E5%87%BA",
+    "timestamp": "2026-03-06T12:23:22.389Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "港姐陳熙蕊大爆做足6年秘撈兼職　返工幾日才被認出：單對單嘅",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260108/1085817476102623232524619.png/bBDbIEb4yJLxT_XLeRQOIrIZ5M6Y92rgb808JG_NPCQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60327813/%E6%97%A5%E6%9C%AC%E8%AD%A6%E6%8B%98%E6%8D%95%E4%B8%AD%E5%9C%8B%E7%94%B7%E5%AD%90-%E6%B6%89%E5%AB%8C%E8%B5%B0%E7%A7%81%E5%B1%B1%E5%AF%A8-%E6%98%AD%E5%92%8C%E5%A4%A9%E7%9A%87%E7%B4%80%E5%BF%B5%E9%8A%80%E5%B9%A3",
     "timestamp": "2026-03-05T12:54:25.986Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "傳政府向長者派半價餐飲劵　勞福局：絕無其事　舉報相關社交媒體",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20251001/1050062453247315968598736.jpeg/8YOLL6r37olRWPihahA6E2HjmwLguKMVfyVVUH8lVVA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60327836/%E5%82%B3%E6%94%BF%E5%BA%9C%E5%90%91%E9%95%B7%E8%80%85%E6%B4%BE%E5%8D%8A%E5%83%B9%E9%A4%90%E9%A3%B2%E5%8A%B5-%E5%8B%9E%E7%A6%8F%E5%B1%80-%E7%B5%95%E7%84%A1%E5%85%B6%E4%BA%8B-%E8%88%89%E5%A0%B1%E7%9B%B8%E9%97%9C%E7%A4%BE%E4%BA%A4%E5%AA%92%E9%AB%94",
-    "timestamp": "2026-03-05T12:04:17.422Z",
     "strategy": ".content-card__main"
   }
 ];
