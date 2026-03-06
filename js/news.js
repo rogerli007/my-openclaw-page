@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-06T21:00:50.940Z
+// Last updated: 2026-03-06T22:15:09.364Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "【星之谷】被遺忘的孤兒 銀行減息為何舊業主無份？",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260303/1105569812664291328962751.jpeg/NapgFCM8oMnIvOSDZqLYZYJJJXHujUK9MRliyTEZYsk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60326968/%E6%98%9F%E4%B9%8B%E8%B0%B7-%E8%A2%AB%E9%81%BA%E5%BF%98%E7%9A%84%E5%AD%A4%E5%85%92-%E9%8A%80%E8%A1%8C%E6%B8%9B%E6%81%AF%E7%82%BA%E4%BD%95%E8%88%8A%E6%A5%AD%E4%B8%BB%E7%84%A1%E4%BB%BD",
+    "timestamp": "2026-03-06T22:15:09.364Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "西班牙首相：美以對伊朗發動戰爭是「極其嚴重錯誤」",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20230302/707952395069427712534697.jpeg/D5vWrwrSRuooah6wN0ryxXsAMfSsb8WYQl9bTEJfW0w?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60328000/%E8%8D%83%E7%81%A3%E6%B5%B7%E4%B9%8B%E6%88%80-%E9%B3%B3%E5%87%B0%E6%A8%93-%E5%85%A9%E6%88%BF978%E8%90%AC%E6%B2%BD-%E8%A1%97%E5%9D%8A%E6%8E%A5%E8%B2%A8-9%E5%B9%B4%E8%BD%89%E6%89%8B%E5%83%85%E5%8D%8714%E8%90%AC",
     "timestamp": "2026-03-06T06:53:41.212Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "英超｜熱刺愈戰愈頹距降班區僅1分　新帥杜陀與記者舌戰拒談壓力",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260306/1106560436494405632078612.jpeg/qEczZ5v5MrbZHOgE2vCqNJc35NGp4EF4Ao9orAKPaKw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60327976/%E8%8B%B1%E8%B6%85-%E7%86%B1%E5%88%BA%E6%84%88%E6%88%B0%E6%84%88%E9%A0%B9%E8%B7%9D%E9%99%8D%E7%8F%AD%E5%8D%80%E5%83%851%E5%88%86-%E6%96%B0%E5%B8%A5%E6%9D%9C%E9%99%80%E8%88%87%E8%A8%98%E8%80%85%E8%88%8C%E6%88%B0%E6%8B%92%E8%AB%87%E5%A3%93%E5%8A%9B",
-    "timestamp": "2026-03-06T04:26:52.729Z",
     "strategy": ".content-card__main"
   }
 ];
