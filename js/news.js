@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-06T10:20:30.299Z
+// Last updated: 2026-03-06T10:52:09.438Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "兩會｜人行潘功勝稱無意透過匯率　獲貿易競爭優勢",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250507/996717509241475072896431.jpeg/eZu4WDm2seGddOvI2F03kSEmdH8akk2l32ouW99qLls?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60328166/%E5%85%A9%E6%9C%83-%E4%BA%BA%E8%A1%8C%E6%BD%98%E5%8A%9F%E5%8B%9D%E7%A8%B1%E7%84%A1%E6%84%8F%E9%80%8F%E9%81%8E%E5%8C%AF%E7%8E%87-%E7%8D%B2%E8%B2%BF%E6%98%93%E7%AB%B6%E7%88%AD%E5%84%AA%E5%8B%A2",
+    "timestamp": "2026-03-06T10:52:09.438Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "中聲羅啟豪&譚輝智六月踏紅館　鄭丹瑞看好兩人追趕張學友和呂方",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260305/1106296589523095552714853.jpeg/aQD8w7vxxfJWqDtvbS1lULYIJDz52igxTMzOtUzMzrU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60327822/%E5%A5%B3%E5%9C%98viva%E9%A6%96%E7%95%B6%E6%BC%94%E5%94%B1%E6%9C%83%E5%98%89%E8%B3%93-%E6%9D%8E%E6%99%9E%E5%BD%A4%E7%88%86%E8%87%A8%E5%A0%B4%E5%8A%A0%E9%A0%B8%E5%9C%88%E5%A5%97%E9%97%9C%E6%99%BA%E6%96%8C-%E5%A5%BD%E5%A4%A7%E5%A3%93%E5%8A%9B",
     "timestamp": "2026-03-05T10:52:49.111Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "張馳豪生日遭突襲嚇到抱頭大叫　自爆到餐廳愛面壁食飯享受孤獨",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260305/1106241537206915072560187.jpeg/bpHwKhbt3tagQhIkOwtd8vROMQfZzpkDdOc5hnTnOYY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60327686/%E5%BC%B5%E9%A6%B3%E8%B1%AA%E7%94%9F%E6%97%A5%E9%81%AD%E7%AA%81%E8%A5%B2%E5%9A%87%E5%88%B0%E6%8A%B1%E9%A0%AD%E5%A4%A7%E5%8F%AB-%E8%87%AA%E7%88%86%E5%88%B0%E9%A4%90%E5%BB%B3%E6%84%9B%E9%9D%A2%E5%A3%81%E9%A3%9F%E9%A3%AF%E4%BA%AB%E5%8F%97%E5%AD%A4%E7%8D%A8",
-    "timestamp": "2026-03-05T10:23:51.764Z",
     "strategy": ".content-card__main"
   }
 ];
