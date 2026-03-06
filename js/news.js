@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-06T15:27:40.916Z
+// Last updated: 2026-03-06T15:52:39.609Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "伊朗局勢｜美媒：俄羅斯向伊朗提供美軍情報　包括軍艦戰機位置",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260306/1106711909895245824196278.jpeg/Wz3B4p-fjQMaM-2wxqniYBiIbjxuyf3BzybHZM8mx2Q?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60328204/%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8B%A2-%E7%BE%8E%E5%AA%92-%E4%BF%84%E7%BE%85%E6%96%AF%E5%90%91%E4%BC%8A%E6%9C%97%E6%8F%90%E4%BE%9B%E7%BE%8E%E8%BB%8D%E6%83%85%E5%A0%B1-%E5%8C%85%E6%8B%AC%E8%BB%8D%E8%89%A6%E6%88%B0%E6%A9%9F%E4%BD%8D%E7%BD%AE",
+    "timestamp": "2026-03-06T15:52:39.609Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "伊朗局勢｜美股早段急瀉　道指挫逾900點　油價再上揚",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260306/1106423181465358336723815.jpeg/bCBajj_KiRm_Of8STC98T82z-3tUIkT4G6Nw5CGjcOQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60327890/%E4%B8%8A%E6%B0%B4%E5%81%9C%E8%BB%8A%E5%A0%B4%E7%94%B7%E5%AD%90%E6%8D%B1%E6%96%AC-%E6%B8%85%E9%86%92%E9%80%81%E9%99%A2%E6%B2%BB%E7%90%86-%E8%AD%A6%E8%BF%BD%E7%B7%9D4%E5%88%80%E6%89%8B",
     "timestamp": "2026-03-05T19:39:39.458Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "現代人不交朋友？美將孤獨列為公共健康危機　專家：不是個人問題",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260305/1106286604479107072093685.png/05EM-SoCy_8hiy-1HWs8H_JNSBmbf6zBfmhNCH5oTQg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60327806/%E7%8F%BE%E4%BB%A3%E4%BA%BA%E4%B8%8D%E4%BA%A4%E6%9C%8B%E5%8F%8B-%E7%BE%8E%E5%B0%87%E5%AD%A4%E7%8D%A8%E5%88%97%E7%82%BA%E5%85%AC%E5%85%B1%E5%81%A5%E5%BA%B7%E5%8D%B1%E6%A9%9F-%E5%B0%88%E5%AE%B6-%E4%B8%8D%E6%98%AF%E5%80%8B%E4%BA%BA%E5%95%8F%E9%A1%8C",
-    "timestamp": "2026-03-05T14:36:46.223Z",
     "strategy": ".content-card__main"
   }
 ];
