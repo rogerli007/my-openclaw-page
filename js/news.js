@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-06T19:23:45.348Z
+// Last updated: 2026-03-06T19:50:58.491Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "WSJ：科威特油罐飽和已開始減產　中東多國同面儲油空間耗盡困境",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260307/1106786778494275584406193.jpeg/GNoCdFGVw75k1EcIs3ZrUoaEeuhVTbN8FbyAmxW8gJs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60328225/wsj-%E7%A7%91%E5%A8%81%E7%89%B9%E6%B2%B9%E7%BD%90%E9%A3%BD%E5%92%8C%E5%B7%B2%E9%96%8B%E5%A7%8B%E6%B8%9B%E7%94%A2-%E4%B8%AD%E6%9D%B1%E5%A4%9A%E5%9C%8B%E5%90%8C%E9%9D%A2%E5%84%B2%E6%B2%B9%E7%A9%BA%E9%96%93%E8%80%97%E7%9B%A1%E5%9B%B0%E5%A2%83",
+    "timestamp": "2026-03-06T19:50:58.491Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "WSJ：科威特油罐飽和已開始減產　中東多國同面儲油空間耗盡困境",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20251030/1060505492763185152071289.jpeg/i_iIyEI4aKAU8oU3O1-x1z7NYnKd3nadRzdZWEc3WVg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60327902/%E7%BE%8E%E7%9C%BE%E8%AD%B0%E9%99%A2%E6%9C%AA%E9%80%9A%E9%81%8E%E9%99%90%E5%88%B6%E7%B8%BD%E7%B5%B1%E6%88%B0%E7%88%AD%E6%AC%8A%E5%8A%9B%E8%AD%B0%E6%A1%88-%E5%8F%83%E8%AD%B0%E9%99%A2%E5%89%8D%E4%B8%80%E6%97%A5%E5%B7%B2%E6%8A%95%E7%A5%A8%E5%90%A6%E6%B1%BA",
     "timestamp": "2026-03-05T22:37:30.250Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美眾議院未通過限制總統戰爭權力議案　參議院前一日已投票否決",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20251030/1060505492763185152071289.jpeg/i_iIyEI4aKAU8oU3O1-x1z7NYnKd3nadRzdZWEc3WVg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60327902/%E7%BE%8E%E7%9C%BE%E8%AD%B0%E9%99%A2%E6%9C%AA%E9%80%9A%E9%81%8E%E9%99%90%E5%88%B6%E7%B8%BD%E7%B5%B1%E6%88%B0%E7%88%AD%E6%AC%8A%E5%8A%9B%E8%AD%B0%E6%A1%88-%E5%8F%83%E8%AD%B0%E9%99%A2%E5%89%8D%E4%B8%80%E6%97%A5%E5%B7%B2%E6%8A%95%E7%A5%A8%E5%90%A6%E6%B1%BA",
-    "timestamp": "2026-03-05T22:18:52.592Z",
     "strategy": ".content-card__main"
   }
 ];
