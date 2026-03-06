@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-06T10:52:09.438Z
+// Last updated: 2026-03-06T11:34:31.026Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "兩會｜人大代表趙皖平建議虐待動物入刑　8年持續發聲立法無果",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260306/1106663897273733120975601.jpeg/e34RS3DhXwZae15sKPxf9JTF8b3aecEHat6-imrevoo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60328169/%E5%85%A9%E6%9C%83-%E4%BA%BA%E5%A4%A7%E4%BB%A3%E8%A1%A8%E8%B6%99%E7%9A%96%E5%B9%B3%E5%BB%BA%E8%AD%B0%E8%99%90%E5%BE%85%E5%8B%95%E7%89%A9%E5%85%A5%E5%88%91-8%E5%B9%B4%E6%8C%81%E7%BA%8C%E7%99%BC%E8%81%B2%E7%AB%8B%E6%B3%95%E7%84%A1%E6%9E%9C",
+    "timestamp": "2026-03-06T11:34:31.026Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "兩會｜人行潘功勝稱無意透過匯率　獲貿易競爭優勢",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260305/1106312024154968064370862.jpeg/EoQeYapj5xhZNRDw3n2uGA1kxFINCwr23vDL397wy98?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60327371/%E5%85%A8%E5%9F%8E%E6%9C%89%E6%A9%9F%E6%97%A52026-%E9%80%BE%E7%99%BE%E6%94%A4%E4%BD%8D8%E5%A4%A7%E5%84%AA%E6%83%A0%E6%8E%A8%E4%BB%8B-1%E6%9C%89%E6%A9%9F%E8%8F%9C-3%E6%8A%98%E6%9C%89%E6%A9%9F%E6%A4%B0%E5%AD%90%E6%B2%B9",
     "timestamp": "2026-03-05T11:49:41.602Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "女團VIVA首當演唱會嘉賓　李晞彤爆臨場加頸圈套關智斌：好大壓力",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260305/1106296589523095552714853.jpeg/aQD8w7vxxfJWqDtvbS1lULYIJDz52igxTMzOtUzMzrU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60327822/%E5%A5%B3%E5%9C%98viva%E9%A6%96%E7%95%B6%E6%BC%94%E5%94%B1%E6%9C%83%E5%98%89%E8%B3%93-%E6%9D%8E%E6%99%9E%E5%BD%A4%E7%88%86%E8%87%A8%E5%A0%B4%E5%8A%A0%E9%A0%B8%E5%9C%88%E5%A5%97%E9%97%9C%E6%99%BA%E6%96%8C-%E5%A5%BD%E5%A4%A7%E5%A3%93%E5%8A%9B",
-    "timestamp": "2026-03-05T10:52:49.111Z",
     "strategy": ".content-card__main"
   }
 ];
