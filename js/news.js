@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-06T22:53:02.779Z
+// Last updated: 2026-03-06T23:32:25.851Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "來稿｜外媒永遠讀不懂中國GDP——「棄保5」不是無力而是戰略清醒",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260306/1106716232251346944298537.jpeg/71pjIJFQYdqPz4pqtgBg3JmQVtCeKCtwMO9dLzDvXS8?v=w1920r16_9",
+    "url": "https://www.hk01.com/01%E8%AB%96%E5%A3%87/60328213/%E4%BE%86%E7%A8%BF-%E5%A4%96%E5%AA%92%E6%B0%B8%E9%81%A0%E8%AE%80%E4%B8%8D%E6%87%82%E4%B8%AD%E5%9C%8Bgdp-%E6%A3%84%E4%BF%9D5-%E4%B8%8D%E6%98%AF%E7%84%A1%E5%8A%9B%E8%80%8C%E6%98%AF%E6%88%B0%E7%95%A5%E6%B8%85%E9%86%92",
+    "timestamp": "2026-03-06T23:32:25.851Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "英足總盃｜利物浦3:1挫狼隊　晉級8強",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260306/1106610017907249152903542.jpeg/P5I6Ml7lIeqKI85fqTakfa9oRpfwGq_SdlKDb3ZSg28?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60328053/%E4%B8%AD%E8%81%B2%E7%BE%85%E5%95%9F%E8%B1%AA-%E8%AD%9A%E8%BC%9D%E6%99%BA%E5%85%AD%E6%9C%88%E8%B8%8F%E7%B4%85%E9%A4%A8-%E9%84%AD%E4%B8%B9%E7%91%9E%E7%9C%8B%E5%A5%BD%E5%85%A9%E4%BA%BA%E8%BF%BD%E8%B6%95%E5%BC%B5%E5%AD%B8%E5%8F%8B%E5%92%8C%E5%91%82%E6%96%B9",
     "timestamp": "2026-03-06T10:20:30.299Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美國副國務卿訪印度「劃紅線」：不重蹈20年前對華政策覆轍",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260306/1106595701170638848015967.jpeg/vUfRGiesKeX37JH_b-K-daUWAMhOesASy4cnDMuHJww?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60328016/%E7%BE%8E%E5%9C%8B%E5%89%AF%E5%9C%8B%E5%8B%99%E5%8D%BF%E8%A8%AA%E5%8D%B0%E5%BA%A6-%E5%8A%83%E7%B4%85%E7%B7%9A-%E4%B8%8D%E9%87%8D%E8%B9%8820%E5%B9%B4%E5%89%8D%E5%B0%8D%E8%8F%AF%E6%94%BF%E7%AD%96%E8%A6%86%E8%BD%8D",
-    "timestamp": "2026-03-06T07:26:14.836Z",
     "strategy": ".content-card__main"
   }
 ];
