@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-06T11:34:31.026Z
+// Last updated: 2026-03-06T11:50:51.316Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "港姐陳熙蕊大爆做足6年秘撈兼職　返工幾日才被認出：單對單嘅",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260306/1106672767853400064278546.jpeg/M3ut0PqGD4_7xMPbEjKg8oEjf7xVeVWm44PrQeOD60E?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60327504/%E6%B8%AF%E5%A7%90%E9%99%B3%E7%86%99%E8%95%8A%E5%A4%A7%E7%88%86%E5%81%9A%E8%B6%B36%E5%B9%B4%E7%A7%98%E6%92%88%E5%85%BC%E8%81%B7-%E8%BF%94%E5%B7%A5%E5%B9%BE%E6%97%A5%E6%89%8D%E8%A2%AB%E8%AA%8D%E5%87%BA-%E5%96%AE%E5%B0%8D%E5%96%AE%E5%98%85",
+    "timestamp": "2026-03-06T11:50:51.316Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "兩會｜人大代表趙皖平建議虐待動物入刑　8年持續發聲立法無果",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20251001/1050062453247315968598736.jpeg/8YOLL6r37olRWPihahA6E2HjmwLguKMVfyVVUH8lVVA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60327836/%E5%82%B3%E6%94%BF%E5%BA%9C%E5%90%91%E9%95%B7%E8%80%85%E6%B4%BE%E5%8D%8A%E5%83%B9%E9%A4%90%E9%A3%B2%E5%8A%B5-%E5%8B%9E%E7%A6%8F%E5%B1%80-%E7%B5%95%E7%84%A1%E5%85%B6%E4%BA%8B-%E8%88%89%E5%A0%B1%E7%9B%B8%E9%97%9C%E7%A4%BE%E4%BA%A4%E5%AA%92%E9%AB%94",
     "timestamp": "2026-03-05T12:04:17.422Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "全城有機日2026｜逾百攤位8大優惠推介！$1有機菜／3折有機椰子油",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260305/1106312024154968064370862.jpeg/EoQeYapj5xhZNRDw3n2uGA1kxFINCwr23vDL397wy98?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60327371/%E5%85%A8%E5%9F%8E%E6%9C%89%E6%A9%9F%E6%97%A52026-%E9%80%BE%E7%99%BE%E6%94%A4%E4%BD%8D8%E5%A4%A7%E5%84%AA%E6%83%A0%E6%8E%A8%E4%BB%8B-1%E6%9C%89%E6%A9%9F%E8%8F%9C-3%E6%8A%98%E6%9C%89%E6%A9%9F%E6%A4%B0%E5%AD%90%E6%B2%B9",
-    "timestamp": "2026-03-05T11:49:41.602Z",
     "strategy": ".content-card__main"
   }
 ];
