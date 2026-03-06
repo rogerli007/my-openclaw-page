@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-06T04:26:52.729Z
+// Last updated: 2026-03-06T06:53:41.212Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "荃灣海之戀「鳳凰樓」兩房978萬沽、街坊接貨　9年轉手僅升14萬",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20230302/707952395069427712534697.jpeg/D5vWrwrSRuooah6wN0ryxXsAMfSsb8WYQl9bTEJfW0w?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60328000/%E8%8D%83%E7%81%A3%E6%B5%B7%E4%B9%8B%E6%88%80-%E9%B3%B3%E5%87%B0%E6%A8%93-%E5%85%A9%E6%88%BF978%E8%90%AC%E6%B2%BD-%E8%A1%97%E5%9D%8A%E6%8E%A5%E8%B2%A8-9%E5%B9%B4%E8%BD%89%E6%89%8B%E5%83%85%E5%8D%8714%E8%90%AC",
+    "timestamp": "2026-03-06T06:53:41.212Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "英超｜熱刺愈戰愈頹距降班區僅1分　新帥杜陀與記者舌戰拒談壓力",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260305/1106243529652310016324915.jpeg/ckQuMT3-_9uJo6UV69d9i7I97fKIRhTGCJu9cwibvXM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%97%9D%E6%96%87/60327695/%E8%97%9D%E8%A1%93%E4%B8%89%E6%9C%882026-%E5%BF%85%E5%8E%BB%E8%97%9D%E6%96%87%E6%B4%BB%E5%8B%95-m-%E5%A4%9C%E4%B8%8D%E5%90%8C-%E7%87%AD%E5%85%89%E9%9F%B3%E6%A8%82%E6%9C%83-%E9%9B%BB%E5%BD%B1%E5%A4%A7%E5%B8%AB%E7%8F%AD",
     "timestamp": "2026-03-05T09:25:19.549Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "伊朗局勢｜特朗普欲煽動內鬥　庫爾德打地面戰恐成馬前卒之悲哀",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260305/1106253162920022016748629.jpeg/P-YMetXlXAy4QevmcYtSnl6UQCv0ebHIJSqqUyUqqlM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%9C%8B%E9%9A%9B%E5%88%86%E6%9E%90/60327718/%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8B%A2-%E7%89%B9%E6%9C%97%E6%99%AE%E6%AC%B2%E7%85%BD%E5%8B%95%E5%85%A7%E9%AC%A5-%E5%BA%AB%E7%88%BE%E5%BE%B7%E6%89%93%E5%9C%B0%E9%9D%A2%E6%88%B0%E6%81%90%E6%88%90%E9%A6%AC%E5%89%8D%E5%8D%92%E4%B9%8B%E6%82%B2%E5%93%80",
-    "timestamp": "2026-03-05T08:53:25.049Z",
     "strategy": ".content-card__main"
   }
 ];
