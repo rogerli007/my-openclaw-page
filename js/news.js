@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-06T13:36:36.474Z
+// Last updated: 2026-03-06T15:27:40.916Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "伊朗局勢｜美股早段急瀉　道指挫逾900點　油價再上揚",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20251017/1055875744955109376304867.jpeg/xDpXLLEFEIPYDFv5lDYAcicnK4RDcbLSEprTYBKa02A?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60328217/%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8B%A2-%E7%BE%8E%E8%82%A1%E6%97%A9%E6%AE%B5%E6%80%A5%E7%80%89-%E9%81%93%E6%8C%87%E6%8C%AB%E9%80%BE900%E9%BB%9E-%E6%B2%B9%E5%83%B9%E5%86%8D%E4%B8%8A%E6%8F%9A",
+    "timestamp": "2026-03-06T15:27:40.916Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "樂天女孩再添兩韓國美女成員　成台灣棒球聯盟韓援數量最多啦啦隊",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260305/1106286604479107072093685.png/05EM-SoCy_8hiy-1HWs8H_JNSBmbf6zBfmhNCH5oTQg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60327806/%E7%8F%BE%E4%BB%A3%E4%BA%BA%E4%B8%8D%E4%BA%A4%E6%9C%8B%E5%8F%8B-%E7%BE%8E%E5%B0%87%E5%AD%A4%E7%8D%A8%E5%88%97%E7%82%BA%E5%85%AC%E5%85%B1%E5%81%A5%E5%BA%B7%E5%8D%B1%E6%A9%9F-%E5%B0%88%E5%AE%B6-%E4%B8%8D%E6%98%AF%E5%80%8B%E4%BA%BA%E5%95%8F%E9%A1%8C",
     "timestamp": "2026-03-05T14:36:46.223Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "英國警拘3人涉做「中國間諜」包括議員丈夫　北京：反對炒作抹黑",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260305/1106337437937831936316049.jpeg/rkWIzO7_EcbZNH9DLvVmJzum7VftGxjiOoI31jqCN9Y?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60327849/%E8%8B%B1%E5%9C%8B%E8%AD%A6%E6%8B%983%E4%BA%BA%E6%B6%89%E5%81%9A-%E4%B8%AD%E5%9C%8B%E9%96%93%E8%AB%9C-%E5%8C%85%E6%8B%AC%E8%AD%B0%E5%93%A1%E4%B8%88%E5%A4%AB-%E5%8C%97%E4%BA%AC-%E5%8F%8D%E5%B0%8D%E7%82%92%E4%BD%9C%E6%8A%B9%E9%BB%91",
-    "timestamp": "2026-03-05T13:37:08.366Z",
     "strategy": ".content-card__main"
   }
 ];
