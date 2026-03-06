@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-06T00:04:53.289Z
+// Last updated: 2026-03-06T00:58:37.647Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美國擬將AI晶片出口管制擴展至全球　英偉達、AMD等出口需獲許可",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20251104/1062328737497878528837014.jpeg/nMBf2q-kGmeHTXKxq5OAGo5BwV-3fmLXzzihns84oZ4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60327909/%E7%BE%8E%E5%9C%8B%E6%93%AC%E5%B0%87ai%E6%99%B6%E7%89%87%E5%87%BA%E5%8F%A3%E7%AE%A1%E5%88%B6%E6%93%B4%E5%B1%95%E8%87%B3%E5%85%A8%E7%90%83-%E8%8B%B1%E5%81%89%E9%81%94-amd%E7%AD%89%E5%87%BA%E5%8F%A3%E9%9C%80%E7%8D%B2%E8%A8%B1%E5%8F%AF",
+    "timestamp": "2026-03-06T00:58:37.647Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "豪門少奶產後暴瘦　出席米蘭時裝週驚現「排骨胸」惹網民心痛",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260305/1106255444432654336463105.jpeg/yzFVQZ0yyNvtQ8mp_CwxdE7ydPVRF9D7703-G-9N_hs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60327732/%E4%B8%AD%E5%B9%B4%E5%A5%BD%E8%81%B2%E9%9F%B34-%E6%B5%B7%E5%85%92%E4%B8%80%E5%8F%A5-%E7%9F%AE%E5%A5%B3%E4%BB%94-%E7%84%AB%E3%B7%AB%E8%B0%B7%E5%A9%AD%E6%BA%A6-%E5%94%94%E8%A8%98%E5%BE%97%E4%BD%A2%E6%AF%94%E8%BC%83%E7%B4%B0%E7%B2%92",
     "timestamp": "2026-03-05T08:22:03.939Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "兩會2026｜李家超：構建系統性政策框架　主動對接「十五五」",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260305/1106253393850011648584691.jpeg/iEWduGWflYroRJpBpXeWdv_vZDEsCEE0rsp-m67Kfps?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60327733/%E5%85%A9%E6%9C%832026-%E6%9D%8E%E5%AE%B6%E8%B6%85-%E6%A7%8B%E5%BB%BA%E7%B3%BB%E7%B5%B1%E6%80%A7%E6%94%BF%E7%AD%96%E6%A1%86%E6%9E%B6-%E4%B8%BB%E5%8B%95%E5%B0%8D%E6%8E%A5-%E5%8D%81%E4%BA%94%E4%BA%94",
-    "timestamp": "2026-03-05T07:52:14.706Z",
     "strategy": ".content-card__main"
   }
 ];
