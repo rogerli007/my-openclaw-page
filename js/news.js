@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-06T07:26:14.836Z
+// Last updated: 2026-03-06T10:20:30.299Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "中聲羅啟豪&譚輝智六月踏紅館　鄭丹瑞看好兩人追趕張學友和呂方",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260306/1106610017907249152903542.jpeg/P5I6Ml7lIeqKI85fqTakfa9oRpfwGq_SdlKDb3ZSg28?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60328053/%E4%B8%AD%E8%81%B2%E7%BE%85%E5%95%9F%E8%B1%AA-%E8%AD%9A%E8%BC%9D%E6%99%BA%E5%85%AD%E6%9C%88%E8%B8%8F%E7%B4%85%E9%A4%A8-%E9%84%AD%E4%B8%B9%E7%91%9E%E7%9C%8B%E5%A5%BD%E5%85%A9%E4%BA%BA%E8%BF%BD%E8%B6%95%E5%BC%B5%E5%AD%B8%E5%8F%8B%E5%92%8C%E5%91%82%E6%96%B9",
+    "timestamp": "2026-03-06T10:20:30.299Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美國副國務卿訪印度「劃紅線」：不重蹈20年前對華政策覆轍",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260305/1106241537206915072560187.jpeg/bpHwKhbt3tagQhIkOwtd8vROMQfZzpkDdOc5hnTnOYY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60327686/%E5%BC%B5%E9%A6%B3%E8%B1%AA%E7%94%9F%E6%97%A5%E9%81%AD%E7%AA%81%E8%A5%B2%E5%9A%87%E5%88%B0%E6%8A%B1%E9%A0%AD%E5%A4%A7%E5%8F%AB-%E8%87%AA%E7%88%86%E5%88%B0%E9%A4%90%E5%BB%B3%E6%84%9B%E9%9D%A2%E5%A3%81%E9%A3%9F%E9%A3%AF%E4%BA%AB%E5%8F%97%E5%AD%A4%E7%8D%A8",
     "timestamp": "2026-03-05T10:23:51.764Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "61歲內地男機場出境赴土耳其　安檢揭手提行李藏伸縮棍被捕",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250922/1046761689359454208532186.jpeg/V9xQu2EL3PsK87ro5OBXXiqJsfqPuzcJsPfwzJX38Mw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60327792/61%E6%AD%B2%E5%85%A7%E5%9C%B0%E7%94%B7%E6%A9%9F%E5%A0%B4%E5%87%BA%E5%A2%83%E8%B5%B4%E5%9C%9F%E8%80%B3%E5%85%B6-%E5%AE%89%E6%AA%A2%E6%8F%AD%E6%89%8B%E6%8F%90%E8%A1%8C%E6%9D%8E%E8%97%8F%E4%BC%B8%E7%B8%AE%E6%A3%8D%E8%A2%AB%E6%8D%95",
-    "timestamp": "2026-03-05T09:53:15.578Z",
     "strategy": ".content-card__main"
   }
 ];
