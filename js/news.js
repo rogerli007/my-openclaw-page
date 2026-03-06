@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-06T12:23:22.389Z
+// Last updated: 2026-03-06T13:36:36.474Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "樂天女孩再添兩韓國美女成員　成台灣棒球聯盟韓援數量最多啦啦隊",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260305/1106246451446419456689102.jpeg/EfU8T41O4yzjfq9_ctbgQg_dRJs5Qd-eYs53XGLOd1w?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E5%A8%9B%E6%A8%82/60326372/%E6%A8%82%E5%A4%A9%E5%A5%B3%E5%AD%A9%E5%86%8D%E6%B7%BB%E5%85%A9%E9%9F%93%E5%9C%8B%E7%BE%8E%E5%A5%B3%E6%88%90%E5%93%A1-%E6%88%90%E5%8F%B0%E7%81%A3%E6%A3%92%E7%90%83%E8%81%AF%E7%9B%9F%E9%9F%93%E6%8F%B4%E6%95%B8%E9%87%8F%E6%9C%80%E5%A4%9A%E5%95%A6%E5%95%A6%E9%9A%8A",
+    "timestamp": "2026-03-06T13:36:36.474Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "扮嘢王李思捷多倫多開騷狂收銀紙扇　張崇基杜麗莎捧場大讚演出",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260305/1106337437937831936316049.jpeg/rkWIzO7_EcbZNH9DLvVmJzum7VftGxjiOoI31jqCN9Y?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60327849/%E8%8B%B1%E5%9C%8B%E8%AD%A6%E6%8B%983%E4%BA%BA%E6%B6%89%E5%81%9A-%E4%B8%AD%E5%9C%8B%E9%96%93%E8%AB%9C-%E5%8C%85%E6%8B%AC%E8%AD%B0%E5%93%A1%E4%B8%88%E5%A4%AB-%E5%8C%97%E4%BA%AC-%E5%8F%8D%E5%B0%8D%E7%82%92%E4%BD%9C%E6%8A%B9%E9%BB%91",
     "timestamp": "2026-03-05T13:37:08.366Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "日本警拘捕中國男子　涉嫌走私山寨「昭和天皇紀念銀幣」",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260108/1085817476102623232524619.png/bBDbIEb4yJLxT_XLeRQOIrIZ5M6Y92rgb808JG_NPCQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60327813/%E6%97%A5%E6%9C%AC%E8%AD%A6%E6%8B%98%E6%8D%95%E4%B8%AD%E5%9C%8B%E7%94%B7%E5%AD%90-%E6%B6%89%E5%AB%8C%E8%B5%B0%E7%A7%81%E5%B1%B1%E5%AF%A8-%E6%98%AD%E5%92%8C%E5%A4%A9%E7%9A%87%E7%B4%80%E5%BF%B5%E9%8A%80%E5%B9%A3",
-    "timestamp": "2026-03-05T12:54:25.986Z",
     "strategy": ".content-card__main"
   }
 ];
