@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-06T00:58:37.647Z
+// Last updated: 2026-03-06T04:26:52.729Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "英超｜熱刺愈戰愈頹距降班區僅1分　新帥杜陀與記者舌戰拒談壓力",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260306/1106560436494405632078612.jpeg/qEczZ5v5MrbZHOgE2vCqNJc35NGp4EF4Ao9orAKPaKw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60327976/%E8%8B%B1%E8%B6%85-%E7%86%B1%E5%88%BA%E6%84%88%E6%88%B0%E6%84%88%E9%A0%B9%E8%B7%9D%E9%99%8D%E7%8F%AD%E5%8D%80%E5%83%851%E5%88%86-%E6%96%B0%E5%B8%A5%E6%9D%9C%E9%99%80%E8%88%87%E8%A8%98%E8%80%85%E8%88%8C%E6%88%B0%E6%8B%92%E8%AB%87%E5%A3%93%E5%8A%9B",
+    "timestamp": "2026-03-06T04:26:52.729Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美國擬將AI晶片出口管制擴展至全球　英偉達、AMD等出口需獲許可",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260305/1106253162920022016748629.jpeg/P-YMetXlXAy4QevmcYtSnl6UQCv0ebHIJSqqUyUqqlM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%9C%8B%E9%9A%9B%E5%88%86%E6%9E%90/60327718/%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8B%A2-%E7%89%B9%E6%9C%97%E6%99%AE%E6%AC%B2%E7%85%BD%E5%8B%95%E5%85%A7%E9%AC%A5-%E5%BA%AB%E7%88%BE%E5%BE%B7%E6%89%93%E5%9C%B0%E9%9D%A2%E6%88%B0%E6%81%90%E6%88%90%E9%A6%AC%E5%89%8D%E5%8D%92%E4%B9%8B%E6%82%B2%E5%93%80",
     "timestamp": "2026-03-05T08:53:25.049Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "中年好聲音4｜海兒一句「矮女仔」焫㷫谷婭溦：唔記得佢比較細粒",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260305/1106255444432654336463105.jpeg/yzFVQZ0yyNvtQ8mp_CwxdE7ydPVRF9D7703-G-9N_hs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60327732/%E4%B8%AD%E5%B9%B4%E5%A5%BD%E8%81%B2%E9%9F%B34-%E6%B5%B7%E5%85%92%E4%B8%80%E5%8F%A5-%E7%9F%AE%E5%A5%B3%E4%BB%94-%E7%84%AB%E3%B7%AB%E8%B0%B7%E5%A9%AD%E6%BA%A6-%E5%94%94%E8%A8%98%E5%BE%97%E4%BD%A2%E6%AF%94%E8%BC%83%E7%B4%B0%E7%B2%92",
-    "timestamp": "2026-03-05T08:22:03.939Z",
     "strategy": ".content-card__main"
   }
 ];
