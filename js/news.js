@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-07T20:58:31.792Z
+// Last updated: 2026-03-07T21:12:42.768Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "阿布扎比國家石油公司：陸上作業仍繼續　正管理離岸產量",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260308/1107173840670167040940628.jpeg/3Z5jXF21aS6sJF87IFWc7S0YoLshPEj0mG8JIZhvCSE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60328407/%E9%98%BF%E5%B8%83%E6%89%8E%E6%AF%94%E5%9C%8B%E5%AE%B6%E7%9F%B3%E6%B2%B9%E5%85%AC%E5%8F%B8-%E9%99%B8%E4%B8%8A%E4%BD%9C%E6%A5%AD%E4%BB%8D%E7%B9%BC%E7%BA%8C-%E6%AD%A3%E7%AE%A1%E7%90%86%E9%9B%A2%E5%B2%B8%E7%94%A2%E9%87%8F",
+    "timestamp": "2026-03-07T21:12:42.768Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "英足總盃｜車路士4:2勝域斯咸　晉級8強",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260307/1107030343405277184976318.jpeg/adUmz7_qCfSeytvtfgKMIVQIBdR-TxFI_QGvOf0Brzk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60328363/%E5%A0%B4%E5%9C%B0%E5%96%AE%E8%BB%8A-%E6%9D%8E%E6%80%9D%E7%A9%8E%E6%91%98%E9%8A%85%E9%A6%96%E5%A5%AA%E4%B8%96%E7%95%8C%E7%9B%83%E7%8D%8E%E7%89%8C-%E7%94%B7%E5%AD%90%E5%9C%98%E9%AB%94%E8%BF%BD%E9%80%90%E8%B3%BD%E5%90%8C%E5%89%B5%E6%AD%B7%E5%8F%B2",
     "timestamp": "2026-03-07T11:30:50.489Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "青衣長康邨14歲男遭童黨毆打　忍痛多日被送院做手術　母報警緝兇",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/3984749/org/785c7eba6d8acf9475d92319ea866128.jpg/-S9ZZ0iUFYRwoDIkWUm_B588iIAMu1HiRlYVqGxWFag?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60328356/%E9%9D%92%E8%A1%A3%E9%95%B7%E5%BA%B7%E9%82%A814%E6%AD%B2%E7%94%B7%E9%81%AD%E7%AB%A5%E9%BB%A8%E6%AF%86%E6%89%93-%E5%BF%8D%E7%97%9B%E5%A4%9A%E6%97%A5%E8%A2%AB%E9%80%81%E9%99%A2%E5%81%9A%E6%89%8B%E8%A1%93-%E6%AF%8D%E5%A0%B1%E8%AD%A6%E7%B7%9D%E5%85%87",
-    "timestamp": "2026-03-07T10:36:01.318Z",
     "strategy": ".content-card__main"
   }
 ];
