@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-07T12:20:52.641Z
+// Last updated: 2026-03-07T12:38:18.650Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "深田恭子傳將與「女王」澤尻英龍華夢幻共演　圈中人：她十分期待",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260307/1106994468654944256042369.jpeg/7tiB6VAUnKCyxGXHOakanOdc1YXydG2JwG6PDMBujww?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E5%A8%9B%E6%A8%82/60327823/%E6%B7%B1%E7%94%B0%E6%81%AD%E5%AD%90%E5%82%B3%E5%B0%87%E8%88%87-%E5%A5%B3%E7%8E%8B-%E6%BE%A4%E5%B0%BB%E8%8B%B1%E9%BE%8D%E8%8F%AF%E5%A4%A2%E5%B9%BB%E5%85%B1%E6%BC%94-%E5%9C%88%E4%B8%AD%E4%BA%BA-%E5%A5%B9%E5%8D%81%E5%88%86%E6%9C%9F%E5%BE%85",
+    "timestamp": "2026-03-07T12:38:18.650Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "魔音女團｜波波黃婧靈歌聲「耳朵流產」　網民嘲：表演跳繩please",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260306/1106716232251346944298537.jpeg/71pjIJFQYdqPz4pqtgBg3JmQVtCeKCtwMO9dLzDvXS8?v=w1920r16_9",
     "url": "https://www.hk01.com/01%E8%AB%96%E5%A3%87/60328213/%E4%BE%86%E7%A8%BF-%E5%A4%96%E5%AA%92%E6%B0%B8%E9%81%A0%E8%AE%80%E4%B8%8D%E6%87%82%E4%B8%AD%E5%9C%8Bgdp-%E6%A3%84%E4%BF%9D5-%E4%B8%8D%E6%98%AF%E7%84%A1%E5%8A%9B%E8%80%8C%E6%98%AF%E6%88%B0%E7%95%A5%E6%B8%85%E9%86%92",
     "timestamp": "2026-03-06T23:49:40.897Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "來稿｜外媒永遠讀不懂中國GDP——「棄保5」不是無力而是戰略清醒",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260306/1106716232251346944298537.jpeg/71pjIJFQYdqPz4pqtgBg3JmQVtCeKCtwMO9dLzDvXS8?v=w1920r16_9",
-    "url": "https://www.hk01.com/01%E8%AB%96%E5%A3%87/60328213/%E4%BE%86%E7%A8%BF-%E5%A4%96%E5%AA%92%E6%B0%B8%E9%81%A0%E8%AE%80%E4%B8%8D%E6%87%82%E4%B8%AD%E5%9C%8Bgdp-%E6%A3%84%E4%BF%9D5-%E4%B8%8D%E6%98%AF%E7%84%A1%E5%8A%9B%E8%80%8C%E6%98%AF%E6%88%B0%E7%95%A5%E6%B8%85%E9%86%92",
-    "timestamp": "2026-03-06T23:32:25.851Z",
     "strategy": ".content-card__main"
   }
 ];
