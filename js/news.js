@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-07T17:30:12.000Z
+// Last updated: 2026-03-07T18:16:15.022Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "伊朗外交部：襲中東美軍基地不應解讀為敵意　回應侵略是自衛權",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260302/1105172713166606336812659.jpeg/A7xQ19AcECuM6Fxs1JZ-_0_v7C7Ck29wGOYaABjmGgA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60328401/%E4%BC%8A%E6%9C%97%E5%A4%96%E4%BA%A4%E9%83%A8-%E8%A5%B2%E4%B8%AD%E6%9D%B1%E7%BE%8E%E8%BB%8D%E5%9F%BA%E5%9C%B0%E4%B8%8D%E6%87%89%E8%A7%A3%E8%AE%80%E7%82%BA%E6%95%B5%E6%84%8F-%E5%9B%9E%E6%87%89%E4%BE%B5%E7%95%A5%E6%98%AF%E8%87%AA%E8%A1%9B%E6%AC%8A",
+    "timestamp": "2026-03-07T18:16:15.022Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "食物金字塔2026｜新版食物金字塔正式倒轉!7大差異少油鹽錯/過時?",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250310/975789556743802880931748.jpeg/uEX_IrBpKiP84lZd8t0NO_Mx4G0jcAvY_Z8Q2tifENo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60328323/%E9%A6%99%E6%B8%AF%E5%88%B6%E8%A8%82%E4%BA%94%E5%B9%B4%E8%A6%8F%E5%8A%83-%E5%AD%AB%E6%9D%B1-ai%E7%99%BC%E5%B1%95%E9%87%8D%E4%B8%AD%E4%B9%8B%E9%87%8D-%E6%9C%83%E4%BA%A4%E5%87%BA%E9%87%8D%E5%A4%A7%E9%A0%85%E7%9B%AE",
     "timestamp": "2026-03-07T08:34:03.546Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "日籍藝人揭日本4大潛規則　吃飯點人數份主食　旅客最常犯這些錯",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260304/1105829562631065600613407.jpeg/dQ0IZtabQNaELV3vnv0jgeo45nu2_GxEPJMMPzyTDD8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%97%85%E9%81%8A/60297485/%E6%97%A5%E7%B1%8D%E8%97%9D%E4%BA%BA%E6%8F%AD%E6%97%A5%E6%9C%AC4%E5%A4%A7%E6%BD%9B%E8%A6%8F%E5%89%87-%E5%90%83%E9%A3%AF%E9%BB%9E%E4%BA%BA%E6%95%B8%E4%BB%BD%E4%B8%BB%E9%A3%9F-%E6%97%85%E5%AE%A2%E6%9C%80%E5%B8%B8%E7%8A%AF%E9%80%99%E4%BA%9B%E9%8C%AF",
-    "timestamp": "2026-03-07T08:16:13.520Z",
     "strategy": ".content-card__main"
   }
 ];
