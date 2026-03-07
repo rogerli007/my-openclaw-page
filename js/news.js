@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-07T10:19:05.644Z
+// Last updated: 2026-03-07T10:36:01.318Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "青衣長康邨14歲男遭童黨毆打　忍痛多日被送院做手術　母報警緝兇",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/3984749/org/785c7eba6d8acf9475d92319ea866128.jpg/-S9ZZ0iUFYRwoDIkWUm_B588iIAMu1HiRlYVqGxWFag?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60328356/%E9%9D%92%E8%A1%A3%E9%95%B7%E5%BA%B7%E9%82%A814%E6%AD%B2%E7%94%B7%E9%81%AD%E7%AB%A5%E9%BB%A8%E6%AF%86%E6%89%93-%E5%BF%8D%E7%97%9B%E5%A4%9A%E6%97%A5%E8%A2%AB%E9%80%81%E9%99%A2%E5%81%9A%E6%89%8B%E8%A1%93-%E6%AF%8D%E5%A0%B1%E8%AD%A6%E7%B7%9D%E5%85%87",
+    "timestamp": "2026-03-07T10:36:01.318Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "中東戰火致航空燃油價飆逾80%　業界警告機票漲價與航班取消風險",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250706/1018638544937160704069538.jpeg/xVlBnFssspyjrdrh-dCETEacYdc2jLDLjDlm4Yw5ZuE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60328228/%E8%A5%BF%E7%8F%AD%E7%89%99%E9%A6%96%E7%9B%B8-%E7%BE%8E%E4%BB%A5%E5%B0%8D%E4%BC%8A%E6%9C%97%E7%99%BC%E5%8B%95%E6%88%B0%E7%88%AD%E6%98%AF-%E6%A5%B5%E5%85%B6%E5%9A%B4%E9%87%8D%E9%8C%AF%E8%AA%A4",
     "timestamp": "2026-03-06T21:00:50.940Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "西班牙首相：美以對伊朗發動戰爭是「極其嚴重錯誤」",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250706/1018638544937160704069538.jpeg/xVlBnFssspyjrdrh-dCETEacYdc2jLDLjDlm4Yw5ZuE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60328228/%E8%A5%BF%E7%8F%AD%E7%89%99%E9%A6%96%E7%9B%B8-%E7%BE%8E%E4%BB%A5%E5%B0%8D%E4%BC%8A%E6%9C%97%E7%99%BC%E5%8B%95%E6%88%B0%E7%88%AD%E6%98%AF-%E6%A5%B5%E5%85%B6%E5%9A%B4%E9%87%8D%E9%8C%AF%E8%AA%A4",
-    "timestamp": "2026-03-06T20:38:11.642Z",
     "strategy": ".content-card__main"
   }
 ];
