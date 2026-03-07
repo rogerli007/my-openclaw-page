@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-07T14:30:53.379Z
+// Last updated: 2026-03-07T14:59:27.651Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "男賊九龍城唐樓扮客「撳鐘仔」　突亮刀指嚇鳳姐掠$500逃逸",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260307/1107084952610017280291407.jpeg/crx2qDnIGUbeoenC7UDf75eD6Zfiu_YRixAFCK4QBQg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60328394/%E7%94%B7%E8%B3%8A%E4%B9%9D%E9%BE%8D%E5%9F%8E%E5%94%90%E6%A8%93%E6%89%AE%E5%AE%A2-%E6%92%B3%E9%90%98%E4%BB%94-%E7%AA%81%E4%BA%AE%E5%88%80%E6%8C%87%E5%9A%87%E9%B3%B3%E5%A7%90%E6%8E%A0-500%E9%80%83%E9%80%B8",
+    "timestamp": "2026-03-07T14:59:27.651Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "旅監局行政總裁方安妮3.1悄然離職　任內處理土瓜灣內地團問題",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260307/1106774737226305536526389.png/2Rlx69ZIHmdQoX6Sa9Oj1TfPCKcUpgUP6c-yeOnPsng?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60323789/huawei-mate-x7%E6%B7%B1%E5%BA%A6%E8%A9%95%E6%B8%AC-%E6%A5%B5%E8%87%B4%E7%BA%96%E8%96%842%E4%BB%A3%E7%B4%85%E6%A5%93%E5%BD%B1%E5%83%8F%E7%B3%BB%E7%B5%B1%E6%8F%90%E5%8D%87%E6%94%9D%E5%BD%B1%E6%80%A7%E8%83%BD",
     "timestamp": "2026-03-07T01:17:42.460Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "蒙牛盈喜　料去年盈利增至16億人幣",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/2654489/org/6d4392d3a24ef1c034af603a7b70444c.jpg/1jMw-LoH-zktUy0hvpIx9v3IIqM5sAU30-rmWdPq5lk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60328233/%E8%92%99%E7%89%9B%E7%9B%88%E5%96%9C-%E6%96%99%E5%8E%BB%E5%B9%B4%E7%9B%88%E5%88%A9%E5%A2%9E%E8%87%B316%E5%84%84%E4%BA%BA%E5%B9%A3",
-    "timestamp": "2026-03-07T00:45:24.178Z",
     "strategy": ".content-card__main"
   }
 ];
