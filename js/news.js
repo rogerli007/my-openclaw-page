@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-07T15:13:45.825Z
+// Last updated: 2026-03-07T15:56:09.263Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "鄭丹瑞大女鄭瑤曬三代同堂合照　歷23個鐘終誕女︰最好的生日禮物",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260307/1107087186680877056524790.jpeg/AFy72DNNSAP6xJ7-t4_nTwIfU_3OjXz3QHaVREB2lUQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60328389/%E9%84%AD%E4%B8%B9%E7%91%9E%E5%A4%A7%E5%A5%B3%E9%84%AD%E7%91%A4%E6%9B%AC%E4%B8%89%E4%BB%A3%E5%90%8C%E5%A0%82%E5%90%88%E7%85%A7-%E6%AD%B723%E5%80%8B%E9%90%98%E7%B5%82%E8%AA%95%E5%A5%B3-%E6%9C%80%E5%A5%BD%E7%9A%84%E7%94%9F%E6%97%A5%E7%A6%AE%E7%89%A9",
+    "timestamp": "2026-03-07T15:56:09.263Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "中東局勢｜入境處︰逾300港人安全離開　今日7人獲安排坐直航回港",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260307/1106916048537391104936047.jpeg/3FQatPNabUoOeEHM4XyByhatPDxFKZnIDx6X_Q8el_0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60328272/%E4%B8%AD%E6%9D%B1%E5%B1%80%E5%8B%A2%E5%8B%95%E7%9B%AA%E5%BD%B1%E9%9F%BF%E8%82%A1%E5%B8%82-%E8%A8%B1%E6%AD%A3%E5%AE%87-%E6%94%BF%E5%BA%9C%E6%8C%81%E7%BA%8C%E7%9B%A3%E5%AF%9F-%E6%8E%A8%E4%B8%8D%E5%90%8C%E6%8E%AA%E6%96%BD%E7%A9%A9%E5%B8%82%E5%A0%B4",
     "timestamp": "2026-03-07T04:01:18.716Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "葉文瀚｜AI來襲資金大逃亡？HALO成華爾街新寵",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260306/1106680712938917888549378.jpeg/gXvup-QIVyqC7T4BlWYGJSnSExuFCKy3ymLlzspi5c4?v=w1920r16_9",
-    "url": "https://www.hk01.com/01%E5%B0%88%E6%AC%84/60328159/%E8%91%89%E6%96%87%E7%80%9A-ai%E4%BE%86%E8%A5%B2%E8%B3%87%E9%87%91%E5%A4%A7%E9%80%83%E4%BA%A1-halo%E6%88%90%E8%8F%AF%E7%88%BE%E8%A1%97%E6%96%B0%E5%AF%B5",
-    "timestamp": "2026-03-07T02:05:20.989Z",
     "strategy": ".content-card__main"
   }
 ];
