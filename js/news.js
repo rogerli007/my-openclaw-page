@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-07T13:12:06.449Z
+// Last updated: 2026-03-07T14:30:53.379Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "旅監局行政總裁方安妮3.1悄然離職　任內處理土瓜灣內地團問題",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20230509/732647401818689536936054.jpeg/2CbacdFHW6pQoSDjPLHX9loQTnlHTTspB_8ZSRL_GUk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60328383/%E6%97%85%E7%9B%A3%E5%B1%80%E8%A1%8C%E6%94%BF%E7%B8%BD%E8%A3%81%E6%96%B9%E5%AE%89%E5%A6%AE3-1%E6%82%84%E7%84%B6%E9%9B%A2%E8%81%B7-%E4%BB%BB%E5%85%A7%E8%99%95%E7%90%86%E5%9C%9F%E7%93%9C%E7%81%A3%E5%85%A7%E5%9C%B0%E5%9C%98%E5%95%8F%E9%A1%8C",
+    "timestamp": "2026-03-07T14:30:53.379Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "雙囍｜田啟文結婚周星馳以一個方式　成功低調到賀︰我很感謝他",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/2654489/org/6d4392d3a24ef1c034af603a7b70444c.jpg/1jMw-LoH-zktUy0hvpIx9v3IIqM5sAU30-rmWdPq5lk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60328233/%E8%92%99%E7%89%9B%E7%9B%88%E5%96%9C-%E6%96%99%E5%8E%BB%E5%B9%B4%E7%9B%88%E5%88%A9%E5%A2%9E%E8%87%B316%E5%84%84%E4%BA%BA%E5%B9%A3",
     "timestamp": "2026-03-07T00:45:24.178Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "來稿｜外媒永遠讀不懂中國GDP——「棄保5」不是無力而是戰略清醒",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260306/1106716232251346944298537.jpeg/71pjIJFQYdqPz4pqtgBg3JmQVtCeKCtwMO9dLzDvXS8?v=w1920r16_9",
-    "url": "https://www.hk01.com/01%E8%AB%96%E5%A3%87/60328213/%E4%BE%86%E7%A8%BF-%E5%A4%96%E5%AA%92%E6%B0%B8%E9%81%A0%E8%AE%80%E4%B8%8D%E6%87%82%E4%B8%AD%E5%9C%8Bgdp-%E6%A3%84%E4%BF%9D5-%E4%B8%8D%E6%98%AF%E7%84%A1%E5%8A%9B%E8%80%8C%E6%98%AF%E6%88%B0%E7%95%A5%E6%B8%85%E9%86%92",
-    "timestamp": "2026-03-07T00:00:51.480Z",
     "strategy": ".content-card__main"
   }
 ];
