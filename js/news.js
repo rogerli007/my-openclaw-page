@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-07T23:30:10.781Z
+// Last updated: 2026-03-07T23:56:56.622Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "伊拉克官員證實美國駐巴格達使館遭導彈襲擊　暫無傷亡報告",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260308/1107219227451854848314729.jpeg/Er9bMvQWDto4afIVn-nEw9K9D-Agdrv9bzd5SW83eUk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60328413/%E4%BC%8A%E6%8B%89%E5%85%8B%E5%AE%98%E5%93%A1%E8%AD%89%E5%AF%A6%E7%BE%8E%E5%9C%8B%E9%A7%90%E5%B7%B4%E6%A0%BC%E9%81%94%E4%BD%BF%E9%A4%A8%E9%81%AD%E5%B0%8E%E5%BD%88%E8%A5%B2%E6%93%8A-%E6%9A%AB%E7%84%A1%E5%82%B7%E4%BA%A1%E5%A0%B1%E5%91%8A",
+    "timestamp": "2026-03-07T23:56:56.622Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "悲！女子遭7男持刀輪姦　男友被迫觀看全程崩潰　後續更慘惹公憤",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20230509/732647401818689536936054.jpeg/2CbacdFHW6pQoSDjPLHX9loQTnlHTTspB_8ZSRL_GUk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60328383/%E6%97%85%E7%9B%A3%E5%B1%80%E8%A1%8C%E6%94%BF%E7%B8%BD%E8%A3%81%E6%96%B9%E5%AE%89%E5%A6%AE3-1%E6%82%84%E7%84%B6%E9%9B%A2%E8%81%B7-%E4%BB%BB%E5%85%A7%E8%99%95%E7%90%86%E5%9C%9F%E7%93%9C%E7%81%A3%E5%85%A7%E5%9C%B0%E5%9C%98%E5%95%8F%E9%A1%8C",
     "timestamp": "2026-03-07T14:30:53.379Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "雙囍｜田啟文結婚周星馳以一個方式　成功低調到賀︰我很感謝他",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260307/1107023686184996864941502.jpeg/mGDvVDq6Fx--JvRF9OlvB4Si5oaie6o4Vq0CklatApI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60328316/%E9%9B%99%E5%9B%8D-%E7%94%B0%E5%95%9F%E6%96%87%E7%B5%90%E5%A9%9A%E5%91%A8%E6%98%9F%E9%A6%B3%E4%BB%A5%E4%B8%80%E5%80%8B%E6%96%B9%E5%BC%8F-%E6%88%90%E5%8A%9F%E4%BD%8E%E8%AA%BF%E5%88%B0%E8%B3%80-%E6%88%91%E5%BE%88%E6%84%9F%E8%AC%9D%E4%BB%96",
-    "timestamp": "2026-03-07T13:12:06.449Z",
     "strategy": ".content-card__main"
   }
 ];
