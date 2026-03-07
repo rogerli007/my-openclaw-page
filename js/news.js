@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-07T02:05:20.989Z
+// Last updated: 2026-03-07T04:01:18.716Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "中東局勢動盪影響股市　許正宇：政府持續監察　推不同措施穩市場",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260307/1106916048537391104936047.jpeg/3FQatPNabUoOeEHM4XyByhatPDxFKZnIDx6X_Q8el_0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60328272/%E4%B8%AD%E6%9D%B1%E5%B1%80%E5%8B%A2%E5%8B%95%E7%9B%AA%E5%BD%B1%E9%9F%BF%E8%82%A1%E5%B8%82-%E8%A8%B1%E6%AD%A3%E5%AE%87-%E6%94%BF%E5%BA%9C%E6%8C%81%E7%BA%8C%E7%9B%A3%E5%AF%9F-%E6%8E%A8%E4%B8%8D%E5%90%8C%E6%8E%AA%E6%96%BD%E7%A9%A9%E5%B8%82%E5%A0%B4",
+    "timestamp": "2026-03-07T04:01:18.716Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "葉文瀚｜AI來襲資金大逃亡？HALO成華爾街新寵",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20251017/1055875744955109376304867.jpeg/xDpXLLEFEIPYDFv5lDYAcicnK4RDcbLSEprTYBKa02A?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60328217/%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8B%A2-%E7%BE%8E%E8%82%A1%E6%97%A9%E6%AE%B5%E6%80%A5%E7%80%89-%E9%81%93%E6%8C%87%E6%8C%AB%E9%80%BE900%E9%BB%9E-%E6%B2%B9%E5%83%B9%E5%86%8D%E4%B8%8A%E6%8F%9A",
     "timestamp": "2026-03-06T15:27:40.916Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "樂天女孩再添兩韓國美女成員　成台灣棒球聯盟韓援數量最多啦啦隊",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260305/1106246451446419456689102.jpeg/EfU8T41O4yzjfq9_ctbgQg_dRJs5Qd-eYs53XGLOd1w?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E5%A8%9B%E6%A8%82/60326372/%E6%A8%82%E5%A4%A9%E5%A5%B3%E5%AD%A9%E5%86%8D%E6%B7%BB%E5%85%A9%E9%9F%93%E5%9C%8B%E7%BE%8E%E5%A5%B3%E6%88%90%E5%93%A1-%E6%88%90%E5%8F%B0%E7%81%A3%E6%A3%92%E7%90%83%E8%81%AF%E7%9B%9F%E9%9F%93%E6%8F%B4%E6%95%B8%E9%87%8F%E6%9C%80%E5%A4%9A%E5%95%A6%E5%95%A6%E9%9A%8A",
-    "timestamp": "2026-03-06T13:36:36.474Z",
     "strategy": ".content-card__main"
   }
 ];
