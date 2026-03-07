@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-07T11:30:50.489Z
+// Last updated: 2026-03-07T11:42:16.210Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "12星座2026年愛情運勢預測　巨蟹、天蠍別衝動　雙子、水瓶大膽追",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260226/1103726503071322112706315.jpeg/WCv6vQJR-E0MiGWqePPqeY4aLXieoZQqEYi-HxGIvh8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%AB%87%E6%83%85%E8%AA%AA%E6%80%A7/60325349/12%E6%98%9F%E5%BA%A72026%E5%B9%B4%E6%84%9B%E6%83%85%E9%81%8B%E5%8B%A2%E9%A0%90%E6%B8%AC-%E5%B7%A8%E8%9F%B9-%E5%A4%A9%E8%A0%8D%E5%88%A5%E8%A1%9D%E5%8B%95-%E9%9B%99%E5%AD%90-%E6%B0%B4%E7%93%B6%E5%A4%A7%E8%86%BD%E8%BF%BD",
+    "timestamp": "2026-03-07T11:42:16.210Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "場地單車｜李思穎摘銅首奪世界盃獎牌　男子團體追逐賽同創歷史",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260307/1106835383368290304846201.jpeg/k4engmDUbtEwLjUa1NskWvy21FI4b6MeGzltLhs5bS4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60328230/%E8%8B%B1%E8%B6%B3%E7%B8%BD%E7%9B%83-%E5%88%A9%E7%89%A9%E6%B5%A63-1%E6%8C%AB%E7%8B%BC%E9%9A%8A-%E6%99%89%E7%B4%9A8%E5%BC%B7",
     "timestamp": "2026-03-06T22:53:02.779Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "【星之谷】被遺忘的孤兒 銀行減息為何舊業主無份？",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260303/1105569812664291328962751.jpeg/NapgFCM8oMnIvOSDZqLYZYJJJXHujUK9MRliyTEZYsk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60326968/%E6%98%9F%E4%B9%8B%E8%B0%B7-%E8%A2%AB%E9%81%BA%E5%BF%98%E7%9A%84%E5%AD%A4%E5%85%92-%E9%8A%80%E8%A1%8C%E6%B8%9B%E6%81%AF%E7%82%BA%E4%BD%95%E8%88%8A%E6%A5%AD%E4%B8%BB%E7%84%A1%E4%BB%BD",
-    "timestamp": "2026-03-06T22:15:09.364Z",
     "strategy": ".content-card__main"
   }
 ];
