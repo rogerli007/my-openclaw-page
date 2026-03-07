@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-07T12:38:18.650Z
+// Last updated: 2026-03-07T13:12:06.449Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "雙囍｜田啟文結婚周星馳以一個方式　成功低調到賀︰我很感謝他",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260307/1107023686184996864941502.jpeg/mGDvVDq6Fx--JvRF9OlvB4Si5oaie6o4Vq0CklatApI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60328316/%E9%9B%99%E5%9B%8D-%E7%94%B0%E5%95%9F%E6%96%87%E7%B5%90%E5%A9%9A%E5%91%A8%E6%98%9F%E9%A6%B3%E4%BB%A5%E4%B8%80%E5%80%8B%E6%96%B9%E5%BC%8F-%E6%88%90%E5%8A%9F%E4%BD%8E%E8%AA%BF%E5%88%B0%E8%B3%80-%E6%88%91%E5%BE%88%E6%84%9F%E8%AC%9D%E4%BB%96",
+    "timestamp": "2026-03-07T13:12:06.449Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "深田恭子傳將與「女王」澤尻英龍華夢幻共演　圈中人：她十分期待",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260306/1106716232251346944298537.jpeg/71pjIJFQYdqPz4pqtgBg3JmQVtCeKCtwMO9dLzDvXS8?v=w1920r16_9",
     "url": "https://www.hk01.com/01%E8%AB%96%E5%A3%87/60328213/%E4%BE%86%E7%A8%BF-%E5%A4%96%E5%AA%92%E6%B0%B8%E9%81%A0%E8%AE%80%E4%B8%8D%E6%87%82%E4%B8%AD%E5%9C%8Bgdp-%E6%A3%84%E4%BF%9D5-%E4%B8%8D%E6%98%AF%E7%84%A1%E5%8A%9B%E8%80%8C%E6%98%AF%E6%88%B0%E7%95%A5%E6%B8%85%E9%86%92",
     "timestamp": "2026-03-07T00:00:51.480Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "來稿｜外媒永遠讀不懂中國GDP——「棄保5」不是無力而是戰略清醒",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260306/1106716232251346944298537.jpeg/71pjIJFQYdqPz4pqtgBg3JmQVtCeKCtwMO9dLzDvXS8?v=w1920r16_9",
-    "url": "https://www.hk01.com/01%E8%AB%96%E5%A3%87/60328213/%E4%BE%86%E7%A8%BF-%E5%A4%96%E5%AA%92%E6%B0%B8%E9%81%A0%E8%AE%80%E4%B8%8D%E6%87%82%E4%B8%AD%E5%9C%8Bgdp-%E6%A3%84%E4%BF%9D5-%E4%B8%8D%E6%98%AF%E7%84%A1%E5%8A%9B%E8%80%8C%E6%98%AF%E6%88%B0%E7%95%A5%E6%B8%85%E9%86%92",
-    "timestamp": "2026-03-06T23:49:40.897Z",
     "strategy": ".content-card__main"
   }
 ];
