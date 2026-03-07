@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-07T20:46:33.850Z
+// Last updated: 2026-03-07T20:58:31.792Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "英足總盃｜車路士4:2勝域斯咸　晉級8強",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260308/1107176246439055360325461.jpeg/gH9gzB7Z9gioAbadC_kipuxw8ay2sNsTgO0xSYDtMUk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60328408/%E8%8B%B1%E8%B6%B3%E7%B8%BD%E7%9B%83-%E8%BB%8A%E8%B7%AF%E5%A3%AB4-2%E5%8B%9D%E5%9F%9F%E6%96%AF%E5%92%B8-%E6%99%89%E7%B4%9A8%E5%BC%B7",
+    "timestamp": "2026-03-07T20:58:31.792Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "低門檻運動　人人都能玩的匹克球",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/3984749/org/785c7eba6d8acf9475d92319ea866128.jpg/-S9ZZ0iUFYRwoDIkWUm_B588iIAMu1HiRlYVqGxWFag?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60328356/%E9%9D%92%E8%A1%A3%E9%95%B7%E5%BA%B7%E9%82%A814%E6%AD%B2%E7%94%B7%E9%81%AD%E7%AB%A5%E9%BB%A8%E6%AF%86%E6%89%93-%E5%BF%8D%E7%97%9B%E5%A4%9A%E6%97%A5%E8%A2%AB%E9%80%81%E9%99%A2%E5%81%9A%E6%89%8B%E8%A1%93-%E6%AF%8D%E5%A0%B1%E8%AD%A6%E7%B7%9D%E5%85%87",
     "timestamp": "2026-03-07T10:36:01.318Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "中東戰火致航空燃油價飆逾80%　業界警告機票漲價與航班取消風險",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260225/1103437629724037120460185.png/kdlmXeadZyVp-ndHVgCl8jpkAF-gsmC89duyO_Xbsjs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60328340/%E4%BC%8A%E6%9C%97%E6%88%B0%E7%81%AB%E8%87%B4%E8%88%AA%E7%A9%BA%E7%87%83%E6%B2%B9%E5%83%B9%E9%A3%86%E9%80%BE80-%E6%A5%AD%E7%95%8C%E8%AD%A6%E5%91%8A%E6%A9%9F%E7%A5%A8%E6%BC%B2%E5%83%B9%E8%88%87%E8%88%AA%E7%8F%AD%E5%8F%96%E6%B6%88%E9%A2%A8%E9%9A%AA",
-    "timestamp": "2026-03-07T10:19:05.644Z",
     "strategy": ".content-card__main"
   }
 ];
