@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-07T16:14:08.126Z
+// Last updated: 2026-03-07T16:48:07.450Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "金多寶︱翁子光堅持謝票不論人數　感謝院線善待︰按合理比例排片",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260307/1107011453736456192086241.jpeg/7XrHlEOAayaGQoZrJJD21dO4Yblbo7tXN1FNWDdRTVg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60328338/%E9%87%91%E5%A4%9A%E5%AF%B6-%E7%BF%81%E5%AD%90%E5%85%89%E5%A0%85%E6%8C%81%E8%AC%9D%E7%A5%A8%E4%B8%8D%E8%AB%96%E4%BA%BA%E6%95%B8-%E6%84%9F%E8%AC%9D%E9%99%A2%E7%B7%9A%E5%96%84%E5%BE%85-%E6%8C%89%E5%90%88%E7%90%86%E6%AF%94%E4%BE%8B%E6%8E%92%E7%89%87",
+    "timestamp": "2026-03-07T16:48:07.450Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "金多寶︱翁子光堅持謝票不論人數　感謝院線善待︰按合理比例排片",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260306/1106592041120305152214035.jpeg/OI-i6vn-Zb_rtYtgkQ1KZurUh1_zROCX3B1n7NwdZ-w?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60322136/%E7%81%AB%E9%8D%8B%E7%B2%89%E7%B5%B2%E6%9C%80%E6%98%93%E5%90%B8%E9%A3%BD%E6%B2%B9-%E7%87%9F%E9%A4%8A%E5%B8%AB%E6%95%99%E4%B8%8B%E9%8D%8B%E5%89%8D%E5%A4%9A1%E6%AD%A5%E6%B8%9B%E6%B2%B930-%E9%85%8D3%E9%A3%9F%E7%89%A9%E6%9C%80%E5%A5%BD",
     "timestamp": "2026-03-07T07:18:49.512Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "兩會2026｜丁薛祥反覆提行政主導　馬逢國：屬適當提醍",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260307/1106954679310356480583972.jpeg/In5S4yMeTU3qTckjJ-aQRRKrn5luCGO8cW3conFt3KI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60328277/%E5%85%A9%E6%9C%832026-%E4%B8%81%E8%96%9B%E7%A5%A5%E5%8F%8D%E8%A6%86%E6%8F%90%E8%A1%8C%E6%94%BF%E4%B8%BB%E5%B0%8E-%E9%A6%AC%E9%80%A2%E5%9C%8B-%E5%B1%AC%E9%81%A9%E7%95%B6%E6%8F%90%E9%86%8D",
-    "timestamp": "2026-03-07T06:21:29.056Z",
     "strategy": ".content-card__main"
   }
 ];
