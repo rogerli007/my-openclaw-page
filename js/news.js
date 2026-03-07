@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-07T10:36:01.318Z
+// Last updated: 2026-03-07T11:30:50.489Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "場地單車｜李思穎摘銅首奪世界盃獎牌　男子團體追逐賽同創歷史",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260307/1107030343405277184976318.jpeg/adUmz7_qCfSeytvtfgKMIVQIBdR-TxFI_QGvOf0Brzk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60328363/%E5%A0%B4%E5%9C%B0%E5%96%AE%E8%BB%8A-%E6%9D%8E%E6%80%9D%E7%A9%8E%E6%91%98%E9%8A%85%E9%A6%96%E5%A5%AA%E4%B8%96%E7%95%8C%E7%9B%83%E7%8D%8E%E7%89%8C-%E7%94%B7%E5%AD%90%E5%9C%98%E9%AB%94%E8%BF%BD%E9%80%90%E8%B3%BD%E5%90%8C%E5%89%B5%E6%AD%B7%E5%8F%B2",
+    "timestamp": "2026-03-07T11:30:50.489Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "青衣長康邨14歲男遭童黨毆打　忍痛多日被送院做手術　母報警緝兇",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260303/1105569812664291328962751.jpeg/NapgFCM8oMnIvOSDZqLYZYJJJXHujUK9MRliyTEZYsk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60326968/%E6%98%9F%E4%B9%8B%E8%B0%B7-%E8%A2%AB%E9%81%BA%E5%BF%98%E7%9A%84%E5%AD%A4%E5%85%92-%E9%8A%80%E8%A1%8C%E6%B8%9B%E6%81%AF%E7%82%BA%E4%BD%95%E8%88%8A%E6%A5%AD%E4%B8%BB%E7%84%A1%E4%BB%BD",
     "timestamp": "2026-03-06T22:15:09.364Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "西班牙首相：美以對伊朗發動戰爭是「極其嚴重錯誤」",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250706/1018638544937160704069538.jpeg/xVlBnFssspyjrdrh-dCETEacYdc2jLDLjDlm4Yw5ZuE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60328228/%E8%A5%BF%E7%8F%AD%E7%89%99%E9%A6%96%E7%9B%B8-%E7%BE%8E%E4%BB%A5%E5%B0%8D%E4%BC%8A%E6%9C%97%E7%99%BC%E5%8B%95%E6%88%B0%E7%88%AD%E6%98%AF-%E6%A5%B5%E5%85%B6%E5%9A%B4%E9%87%8D%E9%8C%AF%E8%AA%A4",
-    "timestamp": "2026-03-06T21:00:50.940Z",
     "strategy": ".content-card__main"
   }
 ];
