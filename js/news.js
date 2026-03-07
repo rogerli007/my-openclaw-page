@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-07T07:18:49.512Z
+// Last updated: 2026-03-07T07:36:06.144Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "陳自瑤與內地抖音網紅親暱互動一臉甜蜜　公然約對方過白色情人節",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260307/1106962767811710976269734.png/0m7kmiC-vkJcNuBaSkRfv8c4mSv8XE-hNbhP9jW4T_Y?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60328287/%E9%99%B3%E8%87%AA%E7%91%A4%E8%88%87%E5%85%A7%E5%9C%B0%E6%8A%96%E9%9F%B3%E7%B6%B2%E7%B4%85%E8%A6%AA%E6%9A%B1%E4%BA%92%E5%8B%95%E4%B8%80%E8%87%89%E7%94%9C%E8%9C%9C-%E5%85%AC%E7%84%B6%E7%B4%84%E5%B0%8D%E6%96%B9%E9%81%8E%E7%99%BD%E8%89%B2%E6%83%85%E4%BA%BA%E7%AF%80",
+    "timestamp": "2026-03-07T07:36:06.144Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "火鍋粉絲最易吸飽油！營養師教下鍋前多1步減油30%　配3食物最好",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260307/1106754869483540480638092.jpeg/2OJQ-cs637Du3px0nkKwGni1LcOrCkHaa7eL4Wu3i-E?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60328223/%E4%B9%9D%E9%BE%8D%E5%9F%8E%E5%AF%A8-%E5%82%B3%E6%9C%A8%E6%9D%91%E6%8B%93%E5%93%89%E6%BC%94%E7%B5%82%E7%AB%A0%E9%AC%A5%E5%9B%9B%E5%AD%90-%E5%8F%97%E4%B8%AD%E6%97%A5%E9%97%9C%E4%BF%82%E5%BD%B1%E9%9F%BF%E7%94%B1%E5%90%B3%E5%BD%A5%E7%A5%96%E9%A0%82%E4%B8%8A",
     "timestamp": "2026-03-06T18:23:32.152Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "九龍城寨｜傳木村拓哉演終章鬥四子　受中日關係影響由吳彥祖頂上",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260307/1106754869483540480638092.jpeg/2OJQ-cs637Du3px0nkKwGni1LcOrCkHaa7eL4Wu3i-E?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60328223/%E4%B9%9D%E9%BE%8D%E5%9F%8E%E5%AF%A8-%E5%82%B3%E6%9C%A8%E6%9D%91%E6%8B%93%E5%93%89%E6%BC%94%E7%B5%82%E7%AB%A0%E9%AC%A5%E5%9B%9B%E5%AD%90-%E5%8F%97%E4%B8%AD%E6%97%A5%E9%97%9C%E4%BF%82%E5%BD%B1%E9%9F%BF%E7%94%B1%E5%90%B3%E5%BD%A5%E7%A5%96%E9%A0%82%E4%B8%8A",
-    "timestamp": "2026-03-06T17:50:59.107Z",
     "strategy": ".content-card__main"
   }
 ];
