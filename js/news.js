@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-07T22:46:10.459Z
+// Last updated: 2026-03-07T23:00:53.297Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "英足總盃｜曼城3:1紐卡素　晉級8強",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260308/1107201071563935744937520.jpeg/u2126H4GHczMjiexOJllIakAiUwVq8TQoGnAtqBpwLY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60328411/%E8%8B%B1%E8%B6%B3%E7%B8%BD%E7%9B%83-%E6%9B%BC%E5%9F%8E3-1%E7%B4%90%E5%8D%A1%E7%B4%A0-%E6%99%89%E7%B4%9A8%E5%BC%B7",
+    "timestamp": "2026-03-07T23:00:53.297Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "英足總盃｜曼城3:1紐卡素　晉級8強",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260307/1106994468654944256042369.jpeg/7tiB6VAUnKCyxGXHOakanOdc1YXydG2JwG6PDMBujww?v=w1920r16_9",
     "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E5%A8%9B%E6%A8%82/60327823/%E6%B7%B1%E7%94%B0%E6%81%AD%E5%AD%90%E5%82%B3%E5%B0%87%E8%88%87-%E5%A5%B3%E7%8E%8B-%E6%BE%A4%E5%B0%BB%E8%8B%B1%E9%BE%8D%E8%8F%AF%E5%A4%A2%E5%B9%BB%E5%85%B1%E6%BC%94-%E5%9C%88%E4%B8%AD%E4%BA%BA-%E5%A5%B9%E5%8D%81%E5%88%86%E6%9C%9F%E5%BE%85",
     "timestamp": "2026-03-07T12:38:18.650Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "魔音女團｜波波黃婧靈歌聲「耳朵流產」　網民嘲：表演跳繩please",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260307/1107044999880511488164739.jpeg/HYpX-oH7y9db_8kRO-aDqTPfjORWNU5X6NeZNejXmTU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60328373/%E9%AD%94%E9%9F%B3%E5%A5%B3%E5%9C%98-%E6%B3%A2%E6%B3%A2%E9%BB%83%E5%A9%A7%E9%9D%88%E6%AD%8C%E8%81%B2-%E8%80%B3%E6%9C%B5%E6%B5%81%E7%94%A2-%E7%B6%B2%E6%B0%91%E5%98%B2-%E8%A1%A8%E6%BC%94%E8%B7%B3%E7%B9%A9please",
-    "timestamp": "2026-03-07T12:20:52.641Z",
     "strategy": ".content-card__main"
   }
 ];
