@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-07T14:59:27.651Z
+// Last updated: 2026-03-07T15:13:45.825Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "中東局勢｜入境處︰逾300港人安全離開　今日7人獲安排坐直航回港",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260305/1106020611903197184407892.jpeg/RPr8twNlxKy2Wm2ZGJs1MTMYgg9WhFMvXSH1wEgh9cA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60328395/%E4%B8%AD%E6%9D%B1%E5%B1%80%E5%8B%A2-%E5%85%A5%E5%A2%83%E8%99%95-%E9%80%BE300%E6%B8%AF%E4%BA%BA%E5%AE%89%E5%85%A8%E9%9B%A2%E9%96%8B-%E4%BB%8A%E6%97%A57%E4%BA%BA%E7%8D%B2%E5%AE%89%E6%8E%92%E5%9D%90%E7%9B%B4%E8%88%AA%E5%9B%9E%E6%B8%AF",
+    "timestamp": "2026-03-07T15:13:45.825Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "男賊九龍城唐樓扮客「撳鐘仔」　突亮刀指嚇鳳姐掠$500逃逸",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260306/1106680712938917888549378.jpeg/gXvup-QIVyqC7T4BlWYGJSnSExuFCKy3ymLlzspi5c4?v=w1920r16_9",
     "url": "https://www.hk01.com/01%E5%B0%88%E6%AC%84/60328159/%E8%91%89%E6%96%87%E7%80%9A-ai%E4%BE%86%E8%A5%B2%E8%B3%87%E9%87%91%E5%A4%A7%E9%80%83%E4%BA%A1-halo%E6%88%90%E8%8F%AF%E7%88%BE%E8%A1%97%E6%96%B0%E5%AF%B5",
     "timestamp": "2026-03-07T02:05:20.989Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "HUAWEI Mate X7深度評測｜極致纖薄2代紅楓影像系統提升攝影性能",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260307/1106774737226305536526389.png/2Rlx69ZIHmdQoX6Sa9Oj1TfPCKcUpgUP6c-yeOnPsng?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60323789/huawei-mate-x7%E6%B7%B1%E5%BA%A6%E8%A9%95%E6%B8%AC-%E6%A5%B5%E8%87%B4%E7%BA%96%E8%96%842%E4%BB%A3%E7%B4%85%E6%A5%93%E5%BD%B1%E5%83%8F%E7%B3%BB%E7%B5%B1%E6%8F%90%E5%8D%87%E6%94%9D%E5%BD%B1%E6%80%A7%E8%83%BD",
-    "timestamp": "2026-03-07T01:17:42.460Z",
     "strategy": ".content-card__main"
   }
 ];
