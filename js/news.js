@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-07T06:21:29.056Z
+// Last updated: 2026-03-07T07:18:49.512Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "火鍋粉絲最易吸飽油！營養師教下鍋前多1步減油30%　配3食物最好",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260306/1106592041120305152214035.jpeg/OI-i6vn-Zb_rtYtgkQ1KZurUh1_zROCX3B1n7NwdZ-w?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60322136/%E7%81%AB%E9%8D%8B%E7%B2%89%E7%B5%B2%E6%9C%80%E6%98%93%E5%90%B8%E9%A3%BD%E6%B2%B9-%E7%87%9F%E9%A4%8A%E5%B8%AB%E6%95%99%E4%B8%8B%E9%8D%8B%E5%89%8D%E5%A4%9A1%E6%AD%A5%E6%B8%9B%E6%B2%B930-%E9%85%8D3%E9%A3%9F%E7%89%A9%E6%9C%80%E5%A5%BD",
+    "timestamp": "2026-03-07T07:18:49.512Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "兩會2026｜丁薛祥反覆提行政主導　馬逢國：屬適當提醍",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260307/1106754869483540480638092.jpeg/2OJQ-cs637Du3px0nkKwGni1LcOrCkHaa7eL4Wu3i-E?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60328223/%E4%B9%9D%E9%BE%8D%E5%9F%8E%E5%AF%A8-%E5%82%B3%E6%9C%A8%E6%9D%91%E6%8B%93%E5%93%89%E6%BC%94%E7%B5%82%E7%AB%A0%E9%AC%A5%E5%9B%9B%E5%AD%90-%E5%8F%97%E4%B8%AD%E6%97%A5%E9%97%9C%E4%BF%82%E5%BD%B1%E9%9F%BF%E7%94%B1%E5%90%B3%E5%BD%A5%E7%A5%96%E9%A0%82%E4%B8%8A",
     "timestamp": "2026-03-06T17:50:59.107Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "伊朗局勢｜美媒：俄羅斯向伊朗提供美軍情報　包括軍艦戰機位置",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260306/1106711909895245824196278.jpeg/Wz3B4p-fjQMaM-2wxqniYBiIbjxuyf3BzybHZM8mx2Q?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60328204/%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8B%A2-%E7%BE%8E%E5%AA%92-%E4%BF%84%E7%BE%85%E6%96%AF%E5%90%91%E4%BC%8A%E6%9C%97%E6%8F%90%E4%BE%9B%E7%BE%8E%E8%BB%8D%E6%83%85%E5%A0%B1-%E5%8C%85%E6%8B%AC%E8%BB%8D%E8%89%A6%E6%88%B0%E6%A9%9F%E4%BD%8D%E7%BD%AE",
-    "timestamp": "2026-03-06T15:52:39.609Z",
     "strategy": ".content-card__main"
   }
 ];
