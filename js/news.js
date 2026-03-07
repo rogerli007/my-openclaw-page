@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-07T21:12:42.768Z
+// Last updated: 2026-03-07T22:30:32.694Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "內塔尼亞胡：對伊攻擊繼續全力進行　以色列試圖解放而非分裂伊朗",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260308/1107199018540208128310542.jpeg/I47-i8i3vkJAwti5NpHODk-vrmLzBsFrzXeqss13qrI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60328409/%E5%85%A7%E5%A1%94%E5%B0%BC%E4%BA%9E%E8%83%A1-%E5%B0%8D%E4%BC%8A%E6%94%BB%E6%93%8A%E7%B9%BC%E7%BA%8C%E5%85%A8%E5%8A%9B%E9%80%B2%E8%A1%8C-%E4%BB%A5%E8%89%B2%E5%88%97%E8%A9%A6%E5%9C%96%E8%A7%A3%E6%94%BE%E8%80%8C%E9%9D%9E%E5%88%86%E8%A3%82%E4%BC%8A%E6%9C%97",
+    "timestamp": "2026-03-07T22:30:32.694Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "阿布扎比國家石油公司：陸上作業仍繼續　正管理離岸產量",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260226/1103726503071322112706315.jpeg/WCv6vQJR-E0MiGWqePPqeY4aLXieoZQqEYi-HxGIvh8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%AB%87%E6%83%85%E8%AA%AA%E6%80%A7/60325349/12%E6%98%9F%E5%BA%A72026%E5%B9%B4%E6%84%9B%E6%83%85%E9%81%8B%E5%8B%A2%E9%A0%90%E6%B8%AC-%E5%B7%A8%E8%9F%B9-%E5%A4%A9%E8%A0%8D%E5%88%A5%E8%A1%9D%E5%8B%95-%E9%9B%99%E5%AD%90-%E6%B0%B4%E7%93%B6%E5%A4%A7%E8%86%BD%E8%BF%BD",
     "timestamp": "2026-03-07T11:42:16.210Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "場地單車｜李思穎摘銅首奪世界盃獎牌　男子團體追逐賽同創歷史",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260307/1107030343405277184976318.jpeg/adUmz7_qCfSeytvtfgKMIVQIBdR-TxFI_QGvOf0Brzk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60328363/%E5%A0%B4%E5%9C%B0%E5%96%AE%E8%BB%8A-%E6%9D%8E%E6%80%9D%E7%A9%8E%E6%91%98%E9%8A%85%E9%A6%96%E5%A5%AA%E4%B8%96%E7%95%8C%E7%9B%83%E7%8D%8E%E7%89%8C-%E7%94%B7%E5%AD%90%E5%9C%98%E9%AB%94%E8%BF%BD%E9%80%90%E8%B3%BD%E5%90%8C%E5%89%B5%E6%AD%B7%E5%8F%B2",
-    "timestamp": "2026-03-07T11:30:50.489Z",
     "strategy": ".content-card__main"
   }
 ];
