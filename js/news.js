@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-07T17:01:11.471Z
+// Last updated: 2026-03-07T17:30:12.000Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "食物金字塔2026｜新版食物金字塔正式倒轉!7大差異少油鹽錯/過時?",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260116/1088787378140614656308471.jpeg/SLBZQwPnutb37-I9Xl6nIJVoDFGqLdCF7AR1M-wEdTM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60312674/%E9%A3%9F%E7%89%A9%E9%87%91%E5%AD%97%E5%A1%942026-%E6%96%B0%E7%89%88%E9%A3%9F%E7%89%A9%E9%87%91%E5%AD%97%E5%A1%94%E6%AD%A3%E5%BC%8F%E5%80%92%E8%BD%89-7%E5%A4%A7%E5%B7%AE%E7%95%B0%E5%B0%91%E6%B2%B9%E9%B9%BD%E9%8C%AF-%E9%81%8E%E6%99%82",
+    "timestamp": "2026-03-07T17:30:12.000Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "阿聯酋總統伊朗襲擊後首公開發言　稱國家處戰爭時期但局勢仍穩定",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260304/1105829562631065600613407.jpeg/dQ0IZtabQNaELV3vnv0jgeo45nu2_GxEPJMMPzyTDD8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%97%85%E9%81%8A/60297485/%E6%97%A5%E7%B1%8D%E8%97%9D%E4%BA%BA%E6%8F%AD%E6%97%A5%E6%9C%AC4%E5%A4%A7%E6%BD%9B%E8%A6%8F%E5%89%87-%E5%90%83%E9%A3%AF%E9%BB%9E%E4%BA%BA%E6%95%B8%E4%BB%BD%E4%B8%BB%E9%A3%9F-%E6%97%85%E5%AE%A2%E6%9C%80%E5%B8%B8%E7%8A%AF%E9%80%99%E4%BA%9B%E9%8C%AF",
     "timestamp": "2026-03-07T08:16:13.520Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "陳自瑤與內地抖音網紅親暱互動一臉甜蜜　公然約對方過白色情人節",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260307/1106962767811710976269734.png/0m7kmiC-vkJcNuBaSkRfv8c4mSv8XE-hNbhP9jW4T_Y?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60328287/%E9%99%B3%E8%87%AA%E7%91%A4%E8%88%87%E5%85%A7%E5%9C%B0%E6%8A%96%E9%9F%B3%E7%B6%B2%E7%B4%85%E8%A6%AA%E6%9A%B1%E4%BA%92%E5%8B%95%E4%B8%80%E8%87%89%E7%94%9C%E8%9C%9C-%E5%85%AC%E7%84%B6%E7%B4%84%E5%B0%8D%E6%96%B9%E9%81%8E%E7%99%BD%E8%89%B2%E6%83%85%E4%BA%BA%E7%AF%80",
-    "timestamp": "2026-03-07T07:36:06.144Z",
     "strategy": ".content-card__main"
   }
 ];
