@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-07T00:00:51.480Z
+// Last updated: 2026-03-07T00:45:24.178Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "蒙牛盈喜　料去年盈利增至16億人幣",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/2654489/org/6d4392d3a24ef1c034af603a7b70444c.jpg/1jMw-LoH-zktUy0hvpIx9v3IIqM5sAU30-rmWdPq5lk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60328233/%E8%92%99%E7%89%9B%E7%9B%88%E5%96%9C-%E6%96%99%E5%8E%BB%E5%B9%B4%E7%9B%88%E5%88%A9%E5%A2%9E%E8%87%B316%E5%84%84%E4%BA%BA%E5%B9%A3",
+    "timestamp": "2026-03-07T00:45:24.178Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "來稿｜外媒永遠讀不懂中國GDP——「棄保5」不是無力而是戰略清醒",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260306/1106672767853400064278546.jpeg/M3ut0PqGD4_7xMPbEjKg8oEjf7xVeVWm44PrQeOD60E?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60327504/%E6%B8%AF%E5%A7%90%E9%99%B3%E7%86%99%E8%95%8A%E5%A4%A7%E7%88%86%E5%81%9A%E8%B6%B36%E5%B9%B4%E7%A7%98%E6%92%88%E5%85%BC%E8%81%B7-%E8%BF%94%E5%B7%A5%E5%B9%BE%E6%97%A5%E6%89%8D%E8%A2%AB%E8%AA%8D%E5%87%BA-%E5%96%AE%E5%B0%8D%E5%96%AE%E5%98%85",
     "timestamp": "2026-03-06T11:50:51.316Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "兩會｜人大代表趙皖平建議虐待動物入刑　8年持續發聲立法無果",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260306/1106663897273733120975601.jpeg/e34RS3DhXwZae15sKPxf9JTF8b3aecEHat6-imrevoo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60328169/%E5%85%A9%E6%9C%83-%E4%BA%BA%E5%A4%A7%E4%BB%A3%E8%A1%A8%E8%B6%99%E7%9A%96%E5%B9%B3%E5%BB%BA%E8%AD%B0%E8%99%90%E5%BE%85%E5%8B%95%E7%89%A9%E5%85%A5%E5%88%91-8%E5%B9%B4%E6%8C%81%E7%BA%8C%E7%99%BC%E8%81%B2%E7%AB%8B%E6%B3%95%E7%84%A1%E6%9E%9C",
-    "timestamp": "2026-03-06T11:34:31.026Z",
     "strategy": ".content-card__main"
   }
 ];
