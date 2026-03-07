@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-07T01:17:42.460Z
+// Last updated: 2026-03-07T02:05:20.989Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "葉文瀚｜AI來襲資金大逃亡？HALO成華爾街新寵",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260306/1106680712938917888549378.jpeg/gXvup-QIVyqC7T4BlWYGJSnSExuFCKy3ymLlzspi5c4?v=w1920r16_9",
+    "url": "https://www.hk01.com/01%E5%B0%88%E6%AC%84/60328159/%E8%91%89%E6%96%87%E7%80%9A-ai%E4%BE%86%E8%A5%B2%E8%B3%87%E9%87%91%E5%A4%A7%E9%80%83%E4%BA%A1-halo%E6%88%90%E8%8F%AF%E7%88%BE%E8%A1%97%E6%96%B0%E5%AF%B5",
+    "timestamp": "2026-03-07T02:05:20.989Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "HUAWEI Mate X7深度評測｜極致纖薄2代紅楓影像系統提升攝影性能",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260305/1106246451446419456689102.jpeg/EfU8T41O4yzjfq9_ctbgQg_dRJs5Qd-eYs53XGLOd1w?v=w1920r16_9",
     "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E5%A8%9B%E6%A8%82/60326372/%E6%A8%82%E5%A4%A9%E5%A5%B3%E5%AD%A9%E5%86%8D%E6%B7%BB%E5%85%A9%E9%9F%93%E5%9C%8B%E7%BE%8E%E5%A5%B3%E6%88%90%E5%93%A1-%E6%88%90%E5%8F%B0%E7%81%A3%E6%A3%92%E7%90%83%E8%81%AF%E7%9B%9F%E9%9F%93%E6%8F%B4%E6%95%B8%E9%87%8F%E6%9C%80%E5%A4%9A%E5%95%A6%E5%95%A6%E9%9A%8A",
     "timestamp": "2026-03-06T13:36:36.474Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "扮嘢王李思捷多倫多開騷狂收銀紙扇　張崇基杜麗莎捧場大讚演出",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260306/1106588235649257472286704.jpeg/9WkWForud18ot9Ue1LXmpYuP0JBRg-czDGttWAxrbVg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60328010/%E6%89%AE%E5%98%A2%E7%8E%8B%E6%9D%8E%E6%80%9D%E6%8D%B7%E5%A4%9A%E5%80%AB%E5%A4%9A%E9%96%8B%E9%A8%B7%E7%8B%82%E6%94%B6%E9%8A%80%E7%B4%99%E6%89%87-%E5%BC%B5%E5%B4%87%E5%9F%BA%E6%9D%9C%E9%BA%97%E8%8E%8E%E6%8D%A7%E5%A0%B4%E5%A4%A7%E8%AE%9A%E6%BC%94%E5%87%BA",
-    "timestamp": "2026-03-06T12:23:22.389Z",
     "strategy": ".content-card__main"
   }
 ];
