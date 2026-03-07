@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-07T08:34:03.546Z
+// Last updated: 2026-03-07T08:54:00.525Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "伊朗局勢｜伊朗股市將關閉　直至另行通知",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260306/1106711909895245824196278.jpeg/Wz3B4p-fjQMaM-2wxqniYBiIbjxuyf3BzybHZM8mx2Q?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60328335/%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8B%A2-%E4%BC%8A%E6%9C%97%E8%82%A1%E5%B8%82%E5%B0%87%E9%97%9C%E9%96%89-%E7%9B%B4%E8%87%B3%E5%8F%A6%E8%A1%8C%E9%80%9A%E7%9F%A5",
+    "timestamp": "2026-03-07T08:54:00.525Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "香港制訂五年規劃　孫東：AI發展重中之重　會交出重大項目",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260307/1106786778494275584406193.jpeg/GNoCdFGVw75k1EcIs3ZrUoaEeuhVTbN8FbyAmxW8gJs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60328225/wsj-%E7%A7%91%E5%A8%81%E7%89%B9%E6%B2%B9%E7%BD%90%E9%A3%BD%E5%92%8C%E5%B7%B2%E9%96%8B%E5%A7%8B%E6%B8%9B%E7%94%A2-%E4%B8%AD%E6%9D%B1%E5%A4%9A%E5%9C%8B%E5%90%8C%E9%9D%A2%E5%84%B2%E6%B2%B9%E7%A9%BA%E9%96%93%E8%80%97%E7%9B%A1%E5%9B%B0%E5%A2%83",
     "timestamp": "2026-03-06T19:50:58.491Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "WSJ：科威特油罐飽和已開始減產　中東多國同面儲油空間耗盡困境",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260307/1106786778494275584406193.jpeg/GNoCdFGVw75k1EcIs3ZrUoaEeuhVTbN8FbyAmxW8gJs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60328225/wsj-%E7%A7%91%E5%A8%81%E7%89%B9%E6%B2%B9%E7%BD%90%E9%A3%BD%E5%92%8C%E5%B7%B2%E9%96%8B%E5%A7%8B%E6%B8%9B%E7%94%A2-%E4%B8%AD%E6%9D%B1%E5%A4%9A%E5%9C%8B%E5%90%8C%E9%9D%A2%E5%84%B2%E6%B2%B9%E7%A9%BA%E9%96%93%E8%80%97%E7%9B%A1%E5%9B%B0%E5%A2%83",
-    "timestamp": "2026-03-06T19:23:45.348Z",
     "strategy": ".content-card__main"
   }
 ];
