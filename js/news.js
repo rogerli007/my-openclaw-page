@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-07T23:00:53.297Z
+// Last updated: 2026-03-07T23:30:10.781Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "悲！女子遭7男持刀輪姦　男友被迫觀看全程崩潰　後續更慘惹公憤",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260305/1106208700059619328907183.jpeg/3gZ-xL0kLqDOlOtdLTXJvqVWhdWqNjyxeMIGcnjCBnI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E8%A9%B1%E9%A1%8C/60325210/%E6%82%B2-%E5%A5%B3%E5%AD%90%E9%81%AD7%E7%94%B7%E6%8C%81%E5%88%80%E8%BC%AA%E5%A7%A6-%E7%94%B7%E5%8F%8B%E8%A2%AB%E8%BF%AB%E8%A7%80%E7%9C%8B%E5%85%A8%E7%A8%8B%E5%B4%A9%E6%BD%B0-%E5%BE%8C%E7%BA%8C%E6%9B%B4%E6%85%98%E6%83%B9%E5%85%AC%E6%86%A4",
+    "timestamp": "2026-03-07T23:30:10.781Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "英足總盃｜曼城3:1紐卡素　晉級8強",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260307/1107023686184996864941502.jpeg/mGDvVDq6Fx--JvRF9OlvB4Si5oaie6o4Vq0CklatApI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60328316/%E9%9B%99%E5%9B%8D-%E7%94%B0%E5%95%9F%E6%96%87%E7%B5%90%E5%A9%9A%E5%91%A8%E6%98%9F%E9%A6%B3%E4%BB%A5%E4%B8%80%E5%80%8B%E6%96%B9%E5%BC%8F-%E6%88%90%E5%8A%9F%E4%BD%8E%E8%AA%BF%E5%88%B0%E8%B3%80-%E6%88%91%E5%BE%88%E6%84%9F%E8%AC%9D%E4%BB%96",
     "timestamp": "2026-03-07T13:12:06.449Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "深田恭子傳將與「女王」澤尻英龍華夢幻共演　圈中人：她十分期待",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260307/1106994468654944256042369.jpeg/7tiB6VAUnKCyxGXHOakanOdc1YXydG2JwG6PDMBujww?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E5%A8%9B%E6%A8%82/60327823/%E6%B7%B1%E7%94%B0%E6%81%AD%E5%AD%90%E5%82%B3%E5%B0%87%E8%88%87-%E5%A5%B3%E7%8E%8B-%E6%BE%A4%E5%B0%BB%E8%8B%B1%E9%BE%8D%E8%8F%AF%E5%A4%A2%E5%B9%BB%E5%85%B1%E6%BC%94-%E5%9C%88%E4%B8%AD%E4%BA%BA-%E5%A5%B9%E5%8D%81%E5%88%86%E6%9C%9F%E5%BE%85",
-    "timestamp": "2026-03-07T12:38:18.650Z",
     "strategy": ".content-card__main"
   }
 ];
