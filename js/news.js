@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-07T22:30:32.694Z
+// Last updated: 2026-03-07T22:46:10.459Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "英足總盃｜曼城3:1紐卡素　晉級8強",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260308/1107201071563935744937520.jpeg/u2126H4GHczMjiexOJllIakAiUwVq8TQoGnAtqBpwLY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60328411/%E8%8B%B1%E8%B6%B3%E7%B8%BD%E7%9B%83-%E6%9B%BC%E5%9F%8E3-1%E7%B4%90%E5%8D%A1%E7%B4%A0-%E6%99%89%E7%B4%9A8%E5%BC%B7",
+    "timestamp": "2026-03-07T22:46:10.459Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "內塔尼亞胡：對伊攻擊繼續全力進行　以色列試圖解放而非分裂伊朗",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260307/1107044999880511488164739.jpeg/HYpX-oH7y9db_8kRO-aDqTPfjORWNU5X6NeZNejXmTU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60328373/%E9%AD%94%E9%9F%B3%E5%A5%B3%E5%9C%98-%E6%B3%A2%E6%B3%A2%E9%BB%83%E5%A9%A7%E9%9D%88%E6%AD%8C%E8%81%B2-%E8%80%B3%E6%9C%B5%E6%B5%81%E7%94%A2-%E7%B6%B2%E6%B0%91%E5%98%B2-%E8%A1%A8%E6%BC%94%E8%B7%B3%E7%B9%A9please",
     "timestamp": "2026-03-07T12:20:52.641Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "12星座2026年愛情運勢預測　巨蟹、天蠍別衝動　雙子、水瓶大膽追",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260226/1103726503071322112706315.jpeg/WCv6vQJR-E0MiGWqePPqeY4aLXieoZQqEYi-HxGIvh8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%AB%87%E6%83%85%E8%AA%AA%E6%80%A7/60325349/12%E6%98%9F%E5%BA%A72026%E5%B9%B4%E6%84%9B%E6%83%85%E9%81%8B%E5%8B%A2%E9%A0%90%E6%B8%AC-%E5%B7%A8%E8%9F%B9-%E5%A4%A9%E8%A0%8D%E5%88%A5%E8%A1%9D%E5%8B%95-%E9%9B%99%E5%AD%90-%E6%B0%B4%E7%93%B6%E5%A4%A7%E8%86%BD%E8%BF%BD",
-    "timestamp": "2026-03-07T11:42:16.210Z",
     "strategy": ".content-card__main"
   }
 ];
