@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-07T18:53:54.804Z
+// Last updated: 2026-03-07T19:56:22.970Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "特朗普舉行「美洲之盾」峰會　召集拉美領導人成立新緝毒軍事聯盟",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260308/1107148602628640768457932.jpeg/k9eqhxV3i2jTZom2vkshNdG_y-zixdxOucDlfLnA5Xw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60328403/%E7%89%B9%E6%9C%97%E6%99%AE%E8%88%89%E8%A1%8C-%E7%BE%8E%E6%B4%B2%E4%B9%8B%E7%9B%BE-%E5%B3%B0%E6%9C%83-%E5%8F%AC%E9%9B%86%E6%8B%89%E7%BE%8E%E9%A0%98%E5%B0%8E%E4%BA%BA%E6%88%90%E7%AB%8B%E6%96%B0%E7%B7%9D%E6%AF%92%E8%BB%8D%E4%BA%8B%E8%81%AF%E7%9B%9F",
+    "timestamp": "2026-03-07T19:56:22.970Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "伊朗外交部：襲中東美軍基地不應解讀為敵意　回應侵略是自衛權",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260306/1106654583159001088962407.jpeg/B61k_9H3SlPrwRPNyU67LaEYPiRyokAWm-pCGZvqQhk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60320550/%E5%8A%A9%E7%9C%A0%E9%A3%B2%E9%A3%9F-%E5%A4%B1%E7%9C%A0%E6%88%96%E5%9B%A0%E7%BC%BA%E9%88%A3%E7%BC%BA%E9%8E%82-%E8%A3%9C%E5%85%854%E9%A1%9E%E7%87%9F%E9%A4%8A%E7%B4%A0%E7%86%9F%E7%9D%A1%E5%88%B0%E5%A4%A9%E5%85%89-%E9%A3%9F%E7%89%A9%E6%B8%85%E5%96%AE",
     "timestamp": "2026-03-07T09:33:10.439Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "伊朗局勢｜伊朗股市將關閉　直至另行通知",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260306/1106711909895245824196278.jpeg/Wz3B4p-fjQMaM-2wxqniYBiIbjxuyf3BzybHZM8mx2Q?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60328335/%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8B%A2-%E4%BC%8A%E6%9C%97%E8%82%A1%E5%B8%82%E5%B0%87%E9%97%9C%E9%96%89-%E7%9B%B4%E8%87%B3%E5%8F%A6%E8%A1%8C%E9%80%9A%E7%9F%A5",
-    "timestamp": "2026-03-07T08:54:00.525Z",
     "strategy": ".content-card__main"
   }
 ];
