@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-07T11:42:16.210Z
+// Last updated: 2026-03-07T12:20:52.641Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "魔音女團｜波波黃婧靈歌聲「耳朵流產」　網民嘲：表演跳繩please",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260307/1107044999880511488164739.jpeg/HYpX-oH7y9db_8kRO-aDqTPfjORWNU5X6NeZNejXmTU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60328373/%E9%AD%94%E9%9F%B3%E5%A5%B3%E5%9C%98-%E6%B3%A2%E6%B3%A2%E9%BB%83%E5%A9%A7%E9%9D%88%E6%AD%8C%E8%81%B2-%E8%80%B3%E6%9C%B5%E6%B5%81%E7%94%A2-%E7%B6%B2%E6%B0%91%E5%98%B2-%E8%A1%A8%E6%BC%94%E8%B7%B3%E7%B9%A9please",
+    "timestamp": "2026-03-07T12:20:52.641Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "12星座2026年愛情運勢預測　巨蟹、天蠍別衝動　雙子、水瓶大膽追",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260306/1106716232251346944298537.jpeg/71pjIJFQYdqPz4pqtgBg3JmQVtCeKCtwMO9dLzDvXS8?v=w1920r16_9",
     "url": "https://www.hk01.com/01%E8%AB%96%E5%A3%87/60328213/%E4%BE%86%E7%A8%BF-%E5%A4%96%E5%AA%92%E6%B0%B8%E9%81%A0%E8%AE%80%E4%B8%8D%E6%87%82%E4%B8%AD%E5%9C%8Bgdp-%E6%A3%84%E4%BF%9D5-%E4%B8%8D%E6%98%AF%E7%84%A1%E5%8A%9B%E8%80%8C%E6%98%AF%E6%88%B0%E7%95%A5%E6%B8%85%E9%86%92",
     "timestamp": "2026-03-06T23:32:25.851Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "英足總盃｜利物浦3:1挫狼隊　晉級8強",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260307/1106835383368290304846201.jpeg/k4engmDUbtEwLjUa1NskWvy21FI4b6MeGzltLhs5bS4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60328230/%E8%8B%B1%E8%B6%B3%E7%B8%BD%E7%9B%83-%E5%88%A9%E7%89%A9%E6%B5%A63-1%E6%8C%AB%E7%8B%BC%E9%9A%8A-%E6%99%89%E7%B4%9A8%E5%BC%B7",
-    "timestamp": "2026-03-06T22:53:02.779Z",
     "strategy": ".content-card__main"
   }
 ];
