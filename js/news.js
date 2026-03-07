@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-07T18:16:15.022Z
+// Last updated: 2026-03-07T18:53:54.804Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "伊朗外交部：襲中東美軍基地不應解讀為敵意　回應侵略是自衛權",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260302/1105172713166606336812659.jpeg/A7xQ19AcECuM6Fxs1JZ-_0_v7C7Ck29wGOYaABjmGgA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60328401/%E4%BC%8A%E6%9C%97%E5%A4%96%E4%BA%A4%E9%83%A8-%E8%A5%B2%E4%B8%AD%E6%9D%B1%E7%BE%8E%E8%BB%8D%E5%9F%BA%E5%9C%B0%E4%B8%8D%E6%87%89%E8%A7%A3%E8%AE%80%E7%82%BA%E6%95%B5%E6%84%8F-%E5%9B%9E%E6%87%89%E4%BE%B5%E7%95%A5%E6%98%AF%E8%87%AA%E8%A1%9B%E6%AC%8A",
+    "timestamp": "2026-03-07T18:53:54.804Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "伊朗外交部：襲中東美軍基地不應解讀為敵意　回應侵略是自衛權",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260306/1106711909895245824196278.jpeg/Wz3B4p-fjQMaM-2wxqniYBiIbjxuyf3BzybHZM8mx2Q?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60328335/%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8B%A2-%E4%BC%8A%E6%9C%97%E8%82%A1%E5%B8%82%E5%B0%87%E9%97%9C%E9%96%89-%E7%9B%B4%E8%87%B3%E5%8F%A6%E8%A1%8C%E9%80%9A%E7%9F%A5",
     "timestamp": "2026-03-07T08:54:00.525Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "香港制訂五年規劃　孫東：AI發展重中之重　會交出重大項目",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250310/975789556743802880931748.jpeg/uEX_IrBpKiP84lZd8t0NO_Mx4G0jcAvY_Z8Q2tifENo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60328323/%E9%A6%99%E6%B8%AF%E5%88%B6%E8%A8%82%E4%BA%94%E5%B9%B4%E8%A6%8F%E5%8A%83-%E5%AD%AB%E6%9D%B1-ai%E7%99%BC%E5%B1%95%E9%87%8D%E4%B8%AD%E4%B9%8B%E9%87%8D-%E6%9C%83%E4%BA%A4%E5%87%BA%E9%87%8D%E5%A4%A7%E9%A0%85%E7%9B%AE",
-    "timestamp": "2026-03-07T08:34:03.546Z",
     "strategy": ".content-card__main"
   }
 ];
