@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-08T15:13:56.698Z
+// Last updated: 2026-03-08T15:45:36.902Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "佘詩曼親回帶挈TVB轉虧為盈：邊個唔想賺錢　憶呢個角色最難抽離",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260308/1107440509363687424058794.jpeg/IlieCLZCzdclB7HKLXBQ4KTmzFVYARyulUGFYpVBhWI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60328562/%E4%BD%98%E8%A9%A9%E6%9B%BC%E8%A6%AA%E5%9B%9E%E5%B8%B6%E6%8C%88tvb%E8%BD%89%E8%99%A7%E7%82%BA%E7%9B%88-%E9%82%8A%E5%80%8B%E5%94%94%E6%83%B3%E8%B3%BA%E9%8C%A2-%E6%86%B6%E5%91%A2%E5%80%8B%E8%A7%92%E8%89%B2%E6%9C%80%E9%9B%A3%E6%8A%BD%E9%9B%A2",
+    "timestamp": "2026-03-08T15:45:36.902Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "肺部有6厘米腫瘤！她稱「回家想想」無覆診　4個月後惡化成未期癌",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20231120/803278825516437504869571.jpeg/aIYRlsht7yPrukX9s1qIWzJfGrfNAHtu8kGwjvJBsI4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60328480/%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8B%A2-%E4%B8%AD%E6%9D%B1%E5%A4%9A%E5%9C%8B%E7%BA%8C%E5%8F%97%E8%A5%B2-%E8%B7%AF%E9%80%8F-%E6%B2%99%E7%89%B9%E8%AD%A6%E5%91%8A%E4%BC%8A%E6%9C%97%E6%8C%81%E7%BA%8C%E8%A5%B2%E6%93%8A%E5%B0%87%E5%BC%95%E5%A0%B1%E5%BE%A9",
     "timestamp": "2026-03-08T06:53:10.998Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "婦女節｜李家超約女大學生見面　讚女性撐大半邊天如「綾羅綢緞」",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260308/1107304826099732480274860.jpeg/o6jvluIeIHv1JYrpPhFRp_gWu2rnsKDtfJJb0nySW9I?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60328465/%E5%A9%A6%E5%A5%B3%E7%AF%80-%E6%9D%8E%E5%AE%B6%E8%B6%85%E7%B4%84%E5%A5%B3%E5%A4%A7%E5%AD%B8%E7%94%9F%E8%A6%8B%E9%9D%A2-%E8%AE%9A%E5%A5%B3%E6%80%A7%E6%92%90%E5%A4%A7%E5%8D%8A%E9%82%8A%E5%A4%A9%E5%A6%82-%E7%B6%BE%E7%BE%85%E7%B6%A2%E7%B7%9E",
-    "timestamp": "2026-03-08T05:56:39.205Z",
     "strategy": ".content-card__main"
   }
 ];
