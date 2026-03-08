@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-08T11:17:34.423Z
+// Last updated: 2026-03-08T11:43:09.781Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "工信部點名AI助手Open Claw：極易引發網絡攻擊、信息泄露等問題",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260308/1107351558019878912289053.jpeg/qtt2QFdYFeONdjGMRkWYOgE5GZdsDH7KMUpQ0zFKUNM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60328515/%E5%B7%A5%E4%BF%A1%E9%83%A8%E9%BB%9E%E5%90%8Dai%E5%8A%A9%E6%89%8Bopen-claw-%E6%A5%B5%E6%98%93%E5%BC%95%E7%99%BC%E7%B6%B2%E7%B5%A1%E6%94%BB%E6%93%8A-%E4%BF%A1%E6%81%AF%E6%B3%84%E9%9C%B2%E7%AD%89%E5%95%8F%E9%A1%8C",
+    "timestamp": "2026-03-08T11:43:09.781Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "內地多地宣傳語改用婦女節　《婦女報》：女王、女神是泛濫吹捧",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260308/1107219227451854848314729.jpeg/Er9bMvQWDto4afIVn-nEw9K9D-Agdrv9bzd5SW83eUk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60328413/%E4%BC%8A%E6%8B%89%E5%85%8B%E5%AE%98%E5%93%A1%E8%AD%89%E5%AF%A6%E7%BE%8E%E5%9C%8B%E9%A7%90%E5%B7%B4%E6%A0%BC%E9%81%94%E4%BD%BF%E9%A4%A8%E9%81%AD%E5%B0%8E%E5%BD%88%E8%A5%B2%E6%93%8A-%E6%9A%AB%E7%84%A1%E5%82%B7%E4%BA%A1%E5%A0%B1%E5%91%8A",
     "timestamp": "2026-03-07T23:56:56.622Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "悲！女子遭7男持刀輪姦　男友被迫觀看全程崩潰　後續更慘惹公憤",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260305/1106208700059619328907183.jpeg/3gZ-xL0kLqDOlOtdLTXJvqVWhdWqNjyxeMIGcnjCBnI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E8%A9%B1%E9%A1%8C/60325210/%E6%82%B2-%E5%A5%B3%E5%AD%90%E9%81%AD7%E7%94%B7%E6%8C%81%E5%88%80%E8%BC%AA%E5%A7%A6-%E7%94%B7%E5%8F%8B%E8%A2%AB%E8%BF%AB%E8%A7%80%E7%9C%8B%E5%85%A8%E7%A8%8B%E5%B4%A9%E6%BD%B0-%E5%BE%8C%E7%BA%8C%E6%9B%B4%E6%85%98%E6%83%B9%E5%85%AC%E6%86%A4",
-    "timestamp": "2026-03-07T23:30:10.781Z",
     "strategy": ".content-card__main"
   }
 ];
