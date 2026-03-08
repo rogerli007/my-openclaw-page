@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-08T08:52:29.424Z
+// Last updated: 2026-03-08T09:16:31.348Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "易潔鑊不能炸食物 會釋放毒素？專家解謎8成人都搞錯+1做法最傷鍋",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260306/1106658042587385856937865.jpeg/3_Y1TNtq-1bWiRAZQXOOK8gtFEif9ysoO_rRkzv60ZM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60308227/%E6%98%93%E6%BD%94%E9%91%8A%E4%B8%8D%E8%83%BD%E7%82%B8%E9%A3%9F%E7%89%A9-%E6%9C%83%E9%87%8B%E6%94%BE%E6%AF%92%E7%B4%A0-%E5%B0%88%E5%AE%B6%E8%A7%A3%E8%AC%8E8%E6%88%90%E4%BA%BA%E9%83%BD%E6%90%9E%E9%8C%AF-1%E5%81%9A%E6%B3%95%E6%9C%80%E5%82%B7%E9%8D%8B",
+    "timestamp": "2026-03-08T09:16:31.348Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "婦女節｜周霽與港區人大切餅慶祝　禮讓女性委員先就座發言",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260304/1105815535456620544987635.png/nKHzkLPIKjp-mqs5rIqOTIdIRByiBiL6RD1KUkQ9SlI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60327154/%E4%BD%8E%E9%96%80%E6%AA%BB%E9%81%8B%E5%8B%95-%E4%BA%BA%E4%BA%BA%E9%83%BD%E8%83%BD%E7%8E%A9%E7%9A%84%E5%8C%B9%E5%85%8B%E7%90%83",
     "timestamp": "2026-03-07T20:46:33.850Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "低門檻運動　人人都能玩的匹克球",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260304/1105815535456620544987635.png/nKHzkLPIKjp-mqs5rIqOTIdIRByiBiL6RD1KUkQ9SlI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60327154/%E4%BD%8E%E9%96%80%E6%AA%BB%E9%81%8B%E5%8B%95-%E4%BA%BA%E4%BA%BA%E9%83%BD%E8%83%BD%E7%8E%A9%E7%9A%84%E5%8C%B9%E5%85%8B%E7%90%83",
-    "timestamp": "2026-03-07T20:13:52.511Z",
     "strategy": ".content-card__main"
   }
 ];
