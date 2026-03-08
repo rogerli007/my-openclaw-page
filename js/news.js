@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-08T22:59:21.420Z
+// Last updated: 2026-03-08T23:50:54.961Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "深水埗唐樓男不堪妻遭巴裔男非禮　憤然理論遭襲擊　40歲男子被捕",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250829/1038113717776027648927184.jpeg/koxsHPa9JUt7qpSs0QRQ6S-OrAB8E_N6cFi36XBYt-k?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60328598/%E6%B7%B1%E6%B0%B4%E5%9F%97%E5%94%90%E6%A8%93%E7%94%B7%E4%B8%8D%E5%A0%AA%E5%A6%BB%E9%81%AD%E5%B7%B4%E8%A3%94%E7%94%B7%E9%9D%9E%E7%A6%AE-%E6%86%A4%E7%84%B6%E7%90%86%E8%AB%96%E9%81%AD%E8%A5%B2%E6%93%8A-40%E6%AD%B2%E7%94%B7%E5%AD%90%E8%A2%AB%E6%8D%95",
+    "timestamp": "2026-03-08T23:50:54.961Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "伊朗局勢｜紐約期油曾升穿110美元　漲幅逾21%",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260308/1107367764051365888820765.jpeg/o-0Q4Hpx75S882QaVLc3T3m4RzFUOIjnzw9bN88PWzc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60328522/%E5%86%AC%E5%AD%A35%E6%97%A5%E5%AF%92%E5%86%B7%E5%A4%A9%E6%B0%A3%E5%88%97%E7%AC%AC3%E4%BD%8E-%E5%A4%A9%E6%96%87%E5%8F%B0%E6%96%99%E6%98%A5%E5%AD%A3%E6%B0%A3%E6%BA%AB%E6%AD%A3%E5%B8%B8%E8%87%B3%E5%81%8F%E9%AB%98-%E9%9B%A8%E9%87%8F%E6%AD%A3%E5%B8%B8",
     "timestamp": "2026-03-08T14:31:46.379Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "陳志雲做音樂節目投訴出鏡率太少　想與李尚正妹頭合作：收視保證",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260308/1107404436038225920534682.png/YnFf5stE30WMaqmQU4xXQRzkEdC4zvdzNw7uwTcO7sE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60328390/%E9%99%B3%E5%BF%97%E9%9B%B2%E5%81%9A%E9%9F%B3%E6%A8%82%E7%AF%80%E7%9B%AE%E6%8A%95%E8%A8%B4%E5%87%BA%E9%8F%A1%E7%8E%87%E5%A4%AA%E5%B0%91-%E6%83%B3%E8%88%87%E6%9D%8E%E5%B0%9A%E6%AD%A3%E5%A6%B9%E9%A0%AD%E5%90%88%E4%BD%9C-%E6%94%B6%E8%A6%96%E4%BF%9D%E8%AD%89",
-    "timestamp": "2026-03-08T14:15:06.982Z",
     "strategy": ".content-card__main"
   }
 ];
