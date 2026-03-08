@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-08T04:08:46.266Z
+// Last updated: 2026-03-08T05:28:31.521Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "房署前副署長馮宜萱眼妝出事！「反白眼妝」震撼全網：得罪化妝師",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260308/1107301610624651264124583.jpeg/VvrdKzqCUXwxUE4UxM7YkTwoDZfoihDT9ycr-PcnK_g?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60328433/%E6%88%BF%E7%BD%B2%E5%89%8D%E5%89%AF%E7%BD%B2%E9%95%B7%E9%A6%AE%E5%AE%9C%E8%90%B1%E7%9C%BC%E5%A6%9D%E5%87%BA%E4%BA%8B-%E5%8F%8D%E7%99%BD%E7%9C%BC%E5%A6%9D-%E9%9C%87%E6%92%BC%E5%85%A8%E7%B6%B2-%E5%BE%97%E7%BD%AA%E5%8C%96%E5%A6%9D%E5%B8%AB",
+    "timestamp": "2026-03-08T05:28:31.521Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "兩會｜美國施壓干預中拉關係？　王毅：與誰交朋友由拉美自己決定",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260307/1107011453736456192086241.jpeg/7XrHlEOAayaGQoZrJJD21dO4Yblbo7tXN1FNWDdRTVg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60328338/%E9%87%91%E5%A4%9A%E5%AF%B6-%E7%BF%81%E5%AD%90%E5%85%89%E5%A0%85%E6%8C%81%E8%AC%9D%E7%A5%A8%E4%B8%8D%E8%AB%96%E4%BA%BA%E6%95%B8-%E6%84%9F%E8%AC%9D%E9%99%A2%E7%B7%9A%E5%96%84%E5%BE%85-%E6%8C%89%E5%90%88%E7%90%86%E6%AF%94%E4%BE%8B%E6%8E%92%E7%89%87",
     "timestamp": "2026-03-07T16:48:07.450Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "金多寶︱翁子光堅持謝票不論人數　感謝院線善待︰按合理比例排片",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260307/1107011453736456192086241.jpeg/7XrHlEOAayaGQoZrJJD21dO4Yblbo7tXN1FNWDdRTVg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60328338/%E9%87%91%E5%A4%9A%E5%AF%B6-%E7%BF%81%E5%AD%90%E5%85%89%E5%A0%85%E6%8C%81%E8%AC%9D%E7%A5%A8%E4%B8%8D%E8%AB%96%E4%BA%BA%E6%95%B8-%E6%84%9F%E8%AC%9D%E9%99%A2%E7%B7%9A%E5%96%84%E5%BE%85-%E6%8C%89%E5%90%88%E7%90%86%E6%AF%94%E4%BE%8B%E6%8E%92%E7%89%87",
-    "timestamp": "2026-03-07T16:14:08.126Z",
     "strategy": ".content-card__main"
   }
 ];
