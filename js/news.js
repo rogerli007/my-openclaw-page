@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-08T07:21:40.354Z
+// Last updated: 2026-03-08T07:48:48.593Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "清水灣道寶馬起火冒煙　司機及時逃生",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260308/1107337754863210496120457.jpeg/GQ2x4zXJl7T1uLXIEozKXn0ClYoAQMQs8sxQ6fLMUOk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60328492/%E6%B8%85%E6%B0%B4%E7%81%A3%E9%81%93%E5%AF%B6%E9%A6%AC%E8%B5%B7%E7%81%AB%E5%86%92%E7%85%99-%E5%8F%B8%E6%A9%9F%E5%8F%8A%E6%99%82%E9%80%83%E7%94%9F",
+    "timestamp": "2026-03-08T07:48:48.593Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "秘魯北部夜店爆炸　至少33傷包括3青年　或涉及有組織犯罪",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260302/1105172713166606336812659.jpeg/A7xQ19AcECuM6Fxs1JZ-_0_v7C7Ck29wGOYaABjmGgA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60328401/%E4%BC%8A%E6%9C%97%E5%A4%96%E4%BA%A4%E9%83%A8-%E8%A5%B2%E4%B8%AD%E6%9D%B1%E7%BE%8E%E8%BB%8D%E5%9F%BA%E5%9C%B0%E4%B8%8D%E6%87%89%E8%A7%A3%E8%AE%80%E7%82%BA%E6%95%B5%E6%84%8F-%E5%9B%9E%E6%87%89%E4%BE%B5%E7%95%A5%E6%98%AF%E8%87%AA%E8%A1%9B%E6%AC%8A",
     "timestamp": "2026-03-07T18:53:54.804Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "伊朗外交部：襲中東美軍基地不應解讀為敵意　回應侵略是自衛權",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260302/1105172713166606336812659.jpeg/A7xQ19AcECuM6Fxs1JZ-_0_v7C7Ck29wGOYaABjmGgA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60328401/%E4%BC%8A%E6%9C%97%E5%A4%96%E4%BA%A4%E9%83%A8-%E8%A5%B2%E4%B8%AD%E6%9D%B1%E7%BE%8E%E8%BB%8D%E5%9F%BA%E5%9C%B0%E4%B8%8D%E6%87%89%E8%A7%A3%E8%AE%80%E7%82%BA%E6%95%B5%E6%84%8F-%E5%9B%9E%E6%87%89%E4%BE%B5%E7%95%A5%E6%98%AF%E8%87%AA%E8%A1%9B%E6%AC%8A",
-    "timestamp": "2026-03-07T18:16:15.022Z",
     "strategy": ".content-card__main"
   }
 ];
