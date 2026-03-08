@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-08T17:32:39.743Z
+// Last updated: 2026-03-08T18:17:05.797Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "著名文史學家陳耀南離世年85歲　學生包括許冠傑、梁錦松等",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260309/1107487528060981248396810.png/Hjq8uEgmc8uEBrMQRYWcUHgKvoukOEv0acqiTWnKok0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60328583/%E8%91%97%E5%90%8D%E6%96%87%E5%8F%B2%E5%AD%B8%E5%AE%B6%E9%99%B3%E8%80%80%E5%8D%97%E9%9B%A2%E4%B8%96%E5%B9%B485%E6%AD%B2-%E5%AD%B8%E7%94%9F%E5%8C%85%E6%8B%AC%E8%A8%B1%E5%86%A0%E5%82%91-%E6%A2%81%E9%8C%A6%E6%9D%BE%E7%AD%89",
+    "timestamp": "2026-03-08T18:17:05.797Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "伊朗外長：不會停火或無條件投降　特朗普應為發動戰事道歉",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260308/1107348055524380672862904.jpeg/x2ZgK0whA8kljq-t0J_mexnLA4VXqMWd8nhXCfJ4Vwk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60328507/%E5%A9%A6%E5%A5%B3%E7%AF%80-%E5%91%A8%E9%9C%BD%E8%88%87%E6%B8%AF%E5%8D%80%E4%BA%BA%E5%A4%A7%E5%88%87%E9%A4%85%E6%85%B6%E7%A5%9D-%E7%A6%AE%E8%AE%93%E5%A5%B3%E6%80%A7%E5%A7%94%E5%93%A1%E5%85%88%E5%B0%B1%E5%BA%A7%E7%99%BC%E8%A8%80",
     "timestamp": "2026-03-08T08:52:29.424Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "日本女生3大減肥秘訣70kg變45kg選美比賽奪獎　網民：是重新投胎",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260308/1107316546427949056248760.jpeg/yty88NXYMn2BiZKg9wA-ezDKjO5dtg5WV6xPqFesT6g?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60328469/%E6%97%A5%E6%9C%AC%E5%A5%B3%E7%94%9F3%E5%A4%A7%E6%B8%9B%E8%82%A5%E7%A7%98%E8%A8%A370kg%E8%AE%8A45kg%E9%81%B8%E7%BE%8E%E6%AF%94%E8%B3%BD%E5%A5%AA%E7%8D%8E-%E7%B6%B2%E6%B0%91-%E6%98%AF%E9%87%8D%E6%96%B0%E6%8A%95%E8%83%8E",
-    "timestamp": "2026-03-08T07:59:47.883Z",
     "strategy": ".content-card__main"
   }
 ];
