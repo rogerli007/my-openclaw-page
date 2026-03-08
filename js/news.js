@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-08T21:45:37.728Z
+// Last updated: 2026-03-08T21:57:05.834Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "屯馬綫｜路軌改道跟進工序完成　今日恢復正常服務",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20231025/793898259025235968729854.jpeg/bFsPkbox4wy9xA_SFpltlS0oKgBF0FqscMxQknDMUJI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60328594/%E5%B1%AF%E9%A6%AC%E7%B6%AB-%E8%B7%AF%E8%BB%8C%E6%94%B9%E9%81%93%E8%B7%9F%E9%80%B2%E5%B7%A5%E5%BA%8F%E5%AE%8C%E6%88%90-%E4%BB%8A%E6%97%A5%E6%81%A2%E5%BE%A9%E6%AD%A3%E5%B8%B8%E6%9C%8D%E5%8B%99",
+    "timestamp": "2026-03-08T21:57:05.834Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "屯馬綫｜路軌改道跟進工序完成　今日恢復正常服務",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260308/1107351558019878912289053.jpeg/qtt2QFdYFeONdjGMRkWYOgE5GZdsDH7KMUpQ0zFKUNM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60328515/%E5%B7%A5%E4%BF%A1%E9%83%A8%E9%BB%9E%E5%90%8Dai%E5%8A%A9%E6%89%8Bopen-claw-%E6%A5%B5%E6%98%93%E5%BC%95%E7%99%BC%E7%B6%B2%E7%B5%A1%E6%94%BB%E6%93%8A-%E4%BF%A1%E6%81%AF%E6%B3%84%E9%9C%B2%E7%AD%89%E5%95%8F%E9%A1%8C",
     "timestamp": "2026-03-08T11:43:09.781Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "內地多地宣傳語改用婦女節　《婦女報》：女王、女神是泛濫吹捧",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260308/1107372651468296192056382.jpeg/DdcARBsLTkGW8UTVLibWFZvfQE9PrALOmb8ga5m_IGs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60328510/%E5%85%A7%E5%9C%B0%E5%A4%9A%E5%9C%B0%E5%AE%A3%E5%82%B3%E8%AA%9E%E6%94%B9%E7%94%A8%E5%A9%A6%E5%A5%B3%E7%AF%80-%E5%A9%A6%E5%A5%B3%E5%A0%B1-%E5%A5%B3%E7%8E%8B-%E5%A5%B3%E7%A5%9E%E6%98%AF%E6%B3%9B%E6%BF%AB%E5%90%B9%E6%8D%A7",
-    "timestamp": "2026-03-08T11:17:34.423Z",
     "strategy": ".content-card__main"
   }
 ];
