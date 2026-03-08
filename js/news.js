@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-08T05:56:39.205Z
+// Last updated: 2026-03-08T06:53:10.998Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "伊朗局勢｜中東多國續受襲　路透：沙特警告伊朗持續襲擊將引報復",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20231120/803278825516437504869571.jpeg/aIYRlsht7yPrukX9s1qIWzJfGrfNAHtu8kGwjvJBsI4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60328480/%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8B%A2-%E4%B8%AD%E6%9D%B1%E5%A4%9A%E5%9C%8B%E7%BA%8C%E5%8F%97%E8%A5%B2-%E8%B7%AF%E9%80%8F-%E6%B2%99%E7%89%B9%E8%AD%A6%E5%91%8A%E4%BC%8A%E6%9C%97%E6%8C%81%E7%BA%8C%E8%A5%B2%E6%93%8A%E5%B0%87%E5%BC%95%E5%A0%B1%E5%BE%A9",
+    "timestamp": "2026-03-08T06:53:10.998Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "婦女節｜李家超約女大學生見面　讚女性撐大半邊天如「綾羅綢緞」",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260116/1088787378140614656308471.jpeg/SLBZQwPnutb37-I9Xl6nIJVoDFGqLdCF7AR1M-wEdTM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60312674/%E9%A3%9F%E7%89%A9%E9%87%91%E5%AD%97%E5%A1%942026-%E6%96%B0%E7%89%88%E9%A3%9F%E7%89%A9%E9%87%91%E5%AD%97%E5%A1%94%E6%AD%A3%E5%BC%8F%E5%80%92%E8%BD%89-7%E5%A4%A7%E5%B7%AE%E7%95%B0%E5%B0%91%E6%B2%B9%E9%B9%BD%E9%8C%AF-%E9%81%8E%E6%99%82",
     "timestamp": "2026-03-07T17:30:12.000Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "阿聯酋總統伊朗襲擊後首公開發言　稱國家處戰爭時期但局勢仍穩定",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260308/1107111674214617088493250.jpeg/WMi7zaS7YHfIk-NaFwCDtOi7EJ_tb3c5EqSxdRKksXU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60328398/%E9%98%BF%E8%81%AF%E9%85%8B%E7%B8%BD%E7%B5%B1%E4%BC%8A%E6%9C%97%E8%A5%B2%E6%93%8A%E5%BE%8C%E9%A6%96%E5%85%AC%E9%96%8B%E7%99%BC%E8%A8%80-%E7%A8%B1%E5%9C%8B%E5%AE%B6%E8%99%95%E6%88%B0%E7%88%AD%E6%99%82%E6%9C%9F%E4%BD%86%E5%B1%80%E5%8B%A2%E4%BB%8D%E7%A9%A9%E5%AE%9A",
-    "timestamp": "2026-03-07T17:01:11.471Z",
     "strategy": ".content-card__main"
   }
 ];
