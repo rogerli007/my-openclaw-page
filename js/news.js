@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-08T06:53:10.998Z
+// Last updated: 2026-03-08T07:21:40.354Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "秘魯北部夜店爆炸　至少33傷包括3青年　或涉及有組織犯罪",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260308/1107328304207106048723094.png/Ct2mxpiBQ0jqK7EKiKyNnBo3t46QnNEKMlAGHzJQBh8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60328485/%E7%A7%98%E9%AD%AF%E5%8C%97%E9%83%A8%E5%A4%9C%E5%BA%97%E7%88%86%E7%82%B8-%E8%87%B3%E5%B0%9133%E5%82%B7%E5%8C%85%E6%8B%AC3%E9%9D%92%E5%B9%B4-%E6%88%96%E6%B6%89%E5%8F%8A%E6%9C%89%E7%B5%84%E7%B9%94%E7%8A%AF%E7%BD%AA",
+    "timestamp": "2026-03-08T07:21:40.354Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "伊朗局勢｜中東多國續受襲　路透：沙特警告伊朗持續襲擊將引報復",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260302/1105172713166606336812659.jpeg/A7xQ19AcECuM6Fxs1JZ-_0_v7C7Ck29wGOYaABjmGgA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60328401/%E4%BC%8A%E6%9C%97%E5%A4%96%E4%BA%A4%E9%83%A8-%E8%A5%B2%E4%B8%AD%E6%9D%B1%E7%BE%8E%E8%BB%8D%E5%9F%BA%E5%9C%B0%E4%B8%8D%E6%87%89%E8%A7%A3%E8%AE%80%E7%82%BA%E6%95%B5%E6%84%8F-%E5%9B%9E%E6%87%89%E4%BE%B5%E7%95%A5%E6%98%AF%E8%87%AA%E8%A1%9B%E6%AC%8A",
     "timestamp": "2026-03-07T18:16:15.022Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "食物金字塔2026｜新版食物金字塔正式倒轉!7大差異少油鹽錯/過時?",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260116/1088787378140614656308471.jpeg/SLBZQwPnutb37-I9Xl6nIJVoDFGqLdCF7AR1M-wEdTM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60312674/%E9%A3%9F%E7%89%A9%E9%87%91%E5%AD%97%E5%A1%942026-%E6%96%B0%E7%89%88%E9%A3%9F%E7%89%A9%E9%87%91%E5%AD%97%E5%A1%94%E6%AD%A3%E5%BC%8F%E5%80%92%E8%BD%89-7%E5%A4%A7%E5%B7%AE%E7%95%B0%E5%B0%91%E6%B2%B9%E9%B9%BD%E9%8C%AF-%E9%81%8E%E6%99%82",
-    "timestamp": "2026-03-07T17:30:12.000Z",
     "strategy": ".content-card__main"
   }
 ];
