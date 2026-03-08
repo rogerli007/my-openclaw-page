@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-08T14:15:06.982Z
+// Last updated: 2026-03-08T14:31:46.379Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "冬季5日寒冷天氣列第3低　天文台料春季氣溫正常至偏高、雨量正常",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260308/1107367764051365888820765.jpeg/o-0Q4Hpx75S882QaVLc3T3m4RzFUOIjnzw9bN88PWzc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60328522/%E5%86%AC%E5%AD%A35%E6%97%A5%E5%AF%92%E5%86%B7%E5%A4%A9%E6%B0%A3%E5%88%97%E7%AC%AC3%E4%BD%8E-%E5%A4%A9%E6%96%87%E5%8F%B0%E6%96%99%E6%98%A5%E5%AD%A3%E6%B0%A3%E6%BA%AB%E6%AD%A3%E5%B8%B8%E8%87%B3%E5%81%8F%E9%AB%98-%E9%9B%A8%E9%87%8F%E6%AD%A3%E5%B8%B8",
+    "timestamp": "2026-03-08T14:31:46.379Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "陳志雲做音樂節目投訴出鏡率太少　想與李尚正妹頭合作：收視保證",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250513/998964130691944448970425.jpeg/fNd_57Lvrn1FmrRYffPem6Aw3iyi43sytuJ1pbbidaU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60328455/%E5%85%A9%E6%9C%83-%E7%BE%8E%E5%9C%8B%E6%96%BD%E5%A3%93%E5%B9%B2%E9%A0%90%E4%B8%AD%E6%8B%89%E9%97%9C%E4%BF%82-%E7%8E%8B%E6%AF%85-%E8%88%87%E8%AA%B0%E4%BA%A4%E6%9C%8B%E5%8F%8B%E7%94%B1%E6%8B%89%E7%BE%8E%E8%87%AA%E5%B7%B1%E6%B1%BA%E5%AE%9A",
     "timestamp": "2026-03-08T04:08:46.266Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "有片│港鐵MMA白衣男激戰飛腳大媽！挑釁隻揪被打爆　後續震驚全網",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260308/1107271430610882560478291.jpeg/bX4BoqW31GhlSIKUpr2-tFRCSoo5mGx56eEAj-nhAI8",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60328432/%E6%9C%89%E7%89%87-%E6%B8%AF%E9%90%B5mma%E7%99%BD%E8%A1%A3%E7%94%B7%E6%BF%80%E6%88%B0%E9%A3%9B%E8%85%B3%E5%A4%A7%E5%AA%BD-%E6%8C%91%E9%87%81%E9%9A%BB%E6%8F%AA%E8%A2%AB%E6%89%93%E7%88%86-%E5%BE%8C%E7%BA%8C%E9%9C%87%E9%A9%9A%E5%85%A8%E7%B6%B2",
-    "timestamp": "2026-03-08T03:19:02.988Z",
     "strategy": ".content-card__main"
   }
 ];
