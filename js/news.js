@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-08T11:43:09.781Z
+// Last updated: 2026-03-08T13:35:28.553Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "何英偉離港生活20年娶嫩妻唱好內地　因一事指制度差被質疑矛盾",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260308/1107398596992438272360845.jpeg/zFjGiEXycO9QiKwSPGwHJwgODkhlJxVA9bcC7fW3Au0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60328542/%E4%BD%95%E8%8B%B1%E5%81%89%E9%9B%A2%E6%B8%AF%E7%94%9F%E6%B4%BB20%E5%B9%B4%E5%A8%B6%E5%AB%A9%E5%A6%BB%E5%94%B1%E5%A5%BD%E5%85%A7%E5%9C%B0-%E5%9B%A0%E4%B8%80%E4%BA%8B%E6%8C%87%E5%88%B6%E5%BA%A6%E5%B7%AE%E8%A2%AB%E8%B3%AA%E7%96%91%E7%9F%9B%E7%9B%BE",
+    "timestamp": "2026-03-08T13:35:28.553Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "工信部點名AI助手Open Claw：極易引發網絡攻擊、信息泄露等問題",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260303/1105520084815712256751280.jpeg/SkMvSXzH2PVAV3xzbTUVkKFBZEMPl_3ApOO_QaTjv0E?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8F%B0%E7%81%A3%E6%96%B0%E8%81%9E/60326735/%E5%A5%B3%E7%AB%A5%E6%BE%80%E8%B0%B7%E8%A2%AB%E6%92%9E-%E6%97%A5%E6%9C%AC%E7%82%BA%E4%BD%95%E6%9C%89-%E6%92%9E%E4%BA%BA%E6%97%8F-%E5%B0%88%E9%96%80%E9%87%9D%E5%B0%8D%E9%81%8A%E5%AE%A2%E5%A5%B3%E6%80%A7%E5%AD%B8%E7%94%9F%E5%85%92%E7%AB%A5",
     "timestamp": "2026-03-08T01:18:31.989Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "伊拉克官員證實美國駐巴格達使館遭導彈襲擊　暫無傷亡報告",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260308/1107219227451854848314729.jpeg/Er9bMvQWDto4afIVn-nEw9K9D-Agdrv9bzd5SW83eUk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60328413/%E4%BC%8A%E6%8B%89%E5%85%8B%E5%AE%98%E5%93%A1%E8%AD%89%E5%AF%A6%E7%BE%8E%E5%9C%8B%E9%A7%90%E5%B7%B4%E6%A0%BC%E9%81%94%E4%BD%BF%E9%A4%A8%E9%81%AD%E5%B0%8E%E5%BD%88%E8%A5%B2%E6%93%8A-%E6%9A%AB%E7%84%A1%E5%82%B7%E4%BA%A1%E5%A0%B1%E5%91%8A",
-    "timestamp": "2026-03-07T23:56:56.622Z",
     "strategy": ".content-card__main"
   }
 ];
