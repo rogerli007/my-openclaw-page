@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-08T10:31:58.323Z
+// Last updated: 2026-03-08T10:48:51.209Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "黃樹棠兒子求婚成功　未婚妻收大大粒鑽戒：唔使俾人再問幾時結婚",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260308/1107374993051750400534679.png/KxiDroPXRsKuVZOBxTELBYBUAPSsPPHAAr5ZTgK-WU4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60328528/%E9%BB%83%E6%A8%B9%E6%A3%A0%E5%85%92%E5%AD%90%E6%B1%82%E5%A9%9A%E6%88%90%E5%8A%9F-%E6%9C%AA%E5%A9%9A%E5%A6%BB%E6%94%B6%E5%A4%A7%E5%A4%A7%E7%B2%92%E9%91%BD%E6%88%92-%E5%94%94%E4%BD%BF%E4%BF%BE%E4%BA%BA%E5%86%8D%E5%95%8F%E5%B9%BE%E6%99%82%E7%B5%90%E5%A9%9A",
+    "timestamp": "2026-03-08T10:48:51.209Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "政協委員、太空人王亞平：中國正在攻關外星長期生存問題",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260308/1107201071563935744937520.jpeg/u2126H4GHczMjiexOJllIakAiUwVq8TQoGnAtqBpwLY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60328411/%E8%8B%B1%E8%B6%B3%E7%B8%BD%E7%9B%83-%E6%9B%BC%E5%9F%8E3-1%E7%B4%90%E5%8D%A1%E7%B4%A0-%E6%99%89%E7%B4%9A8%E5%BC%B7",
     "timestamp": "2026-03-07T22:46:10.459Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "內塔尼亞胡：對伊攻擊繼續全力進行　以色列試圖解放而非分裂伊朗",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260308/1107199018540208128310542.jpeg/I47-i8i3vkJAwti5NpHODk-vrmLzBsFrzXeqss13qrI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60328409/%E5%85%A7%E5%A1%94%E5%B0%BC%E4%BA%9E%E8%83%A1-%E5%B0%8D%E4%BC%8A%E6%94%BB%E6%93%8A%E7%B9%BC%E7%BA%8C%E5%85%A8%E5%8A%9B%E9%80%B2%E8%A1%8C-%E4%BB%A5%E8%89%B2%E5%88%97%E8%A9%A6%E5%9C%96%E8%A7%A3%E6%94%BE%E8%80%8C%E9%9D%9E%E5%88%86%E8%A3%82%E4%BC%8A%E6%9C%97",
-    "timestamp": "2026-03-07T22:30:32.694Z",
     "strategy": ".content-card__main"
   }
 ];
