@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-08T13:35:28.553Z
+// Last updated: 2026-03-08T14:00:49.437Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "下灣村收地在即　過百村民回家搶花炮　搞手：未到滅村都希望傳承",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260308/1107417833244987392964072.jpeg/5iyj-BliB5sv8R3PYObCcNWIHaqLkhldZcL8zkDC_M4?v=w1920r16_9",
+    "url": "https://www.hk01.com/18%E5%8D%80%E6%96%B0%E8%81%9E/60328544/%E4%B8%8B%E7%81%A3%E6%9D%91%E6%94%B6%E5%9C%B0%E5%9C%A8%E5%8D%B3-%E9%81%8E%E7%99%BE%E6%9D%91%E6%B0%91%E5%9B%9E%E5%AE%B6%E6%90%B6%E8%8A%B1%E7%82%AE-%E6%90%9E%E6%89%8B-%E6%9C%AA%E5%88%B0%E6%BB%85%E6%9D%91%E9%83%BD%E5%B8%8C%E6%9C%9B%E5%82%B3%E6%89%BF",
+    "timestamp": "2026-03-08T14:00:49.437Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "何英偉離港生活20年娶嫩妻唱好內地　因一事指制度差被質疑矛盾",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260303/1105519165961146368654982.jpeg/evh_PBUJtvCil7-x7wQDtMj_MS4izPLeg5QfoIOUH6A?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/60314087/%E7%9C%BC%E7%9A%AE%E9%95%B7%E9%BB%83%E6%96%91%E6%81%90%E6%98%AF%E5%BF%83%E8%82%8C%E6%A2%97%E5%A1%9E-%E6%8E%8C%E6%8F%A1-%E8%87%A8%E5%BE%AE%E4%B8%8D%E4%BA%82-%E5%8F%A3%E8%A8%A3-%E9%A0%90%E9%98%B2%E7%BC%BA%E8%A1%80%E6%80%A7%E4%B8%AD%E9%A2%A8",
     "timestamp": "2026-03-08T02:12:28.293Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "女童澀谷被撞：日本為何有｢撞人族｣？專門針對遊客女性學生兒童",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260303/1105520084815712256751280.jpeg/SkMvSXzH2PVAV3xzbTUVkKFBZEMPl_3ApOO_QaTjv0E?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8F%B0%E7%81%A3%E6%96%B0%E8%81%9E/60326735/%E5%A5%B3%E7%AB%A5%E6%BE%80%E8%B0%B7%E8%A2%AB%E6%92%9E-%E6%97%A5%E6%9C%AC%E7%82%BA%E4%BD%95%E6%9C%89-%E6%92%9E%E4%BA%BA%E6%97%8F-%E5%B0%88%E9%96%80%E9%87%9D%E5%B0%8D%E9%81%8A%E5%AE%A2%E5%A5%B3%E6%80%A7%E5%AD%B8%E7%94%9F%E5%85%92%E7%AB%A5",
-    "timestamp": "2026-03-08T01:18:31.989Z",
     "strategy": ".content-card__main"
   }
 ];
