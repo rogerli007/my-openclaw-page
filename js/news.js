@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-08T09:49:44.426Z
+// Last updated: 2026-03-08T10:15:50.926Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "政協委員、太空人王亞平：中國正在攻關外星長期生存問題",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260308/1107347298276347904524019.jpeg/FUPMDpdWw9YacWnKiKJIqzPjStc9UCqGe2ry8Htq8vA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60328498/%E6%94%BF%E5%8D%94%E5%A7%94%E5%93%A1-%E5%A4%AA%E7%A9%BA%E4%BA%BA%E7%8E%8B%E4%BA%9E%E5%B9%B3-%E4%B8%AD%E5%9C%8B%E6%AD%A3%E5%9C%A8%E6%94%BB%E9%97%9C%E5%A4%96%E6%98%9F%E9%95%B7%E6%9C%9F%E7%94%9F%E5%AD%98%E5%95%8F%E9%A1%8C",
+    "timestamp": "2026-03-08T10:15:50.926Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "廣州巴士站屢現糞便　街坊憑形狀斷定同一人所為：消化力好強！",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260308/1107173840670167040940628.jpeg/3Z5jXF21aS6sJF87IFWc7S0YoLshPEj0mG8JIZhvCSE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60328407/%E9%98%BF%E5%B8%83%E6%89%8E%E6%AF%94%E5%9C%8B%E5%AE%B6%E7%9F%B3%E6%B2%B9%E5%85%AC%E5%8F%B8-%E9%99%B8%E4%B8%8A%E4%BD%9C%E6%A5%AD%E4%BB%8D%E7%B9%BC%E7%BA%8C-%E6%AD%A3%E7%AE%A1%E7%90%86%E9%9B%A2%E5%B2%B8%E7%94%A2%E9%87%8F",
     "timestamp": "2026-03-07T21:12:42.768Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "英足總盃｜車路士4:2勝域斯咸　晉級8強",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260308/1107176246439055360325461.jpeg/gH9gzB7Z9gioAbadC_kipuxw8ay2sNsTgO0xSYDtMUk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60328408/%E8%8B%B1%E8%B6%B3%E7%B8%BD%E7%9B%83-%E8%BB%8A%E8%B7%AF%E5%A3%AB4-2%E5%8B%9D%E5%9F%9F%E6%96%AF%E5%92%B8-%E6%99%89%E7%B4%9A8%E5%BC%B7",
-    "timestamp": "2026-03-07T20:58:31.792Z",
     "strategy": ".content-card__main"
   }
 ];
