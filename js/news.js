@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-08T14:47:12.282Z
+// Last updated: 2026-03-08T15:13:56.698Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "肺部有6厘米腫瘤！她稱「回家想想」無覆診　4個月後惡化成未期癌",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260308/1107201400749690880560324.png/w11xht14MXoJ6TDnlf1F2Ch2t7h_tCasw_LRxsPy0cY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60328393/%E8%82%BA%E9%83%A8%E6%9C%896%E5%8E%98%E7%B1%B3%E8%85%AB%E7%98%A4-%E5%A5%B9%E7%A8%B1-%E5%9B%9E%E5%AE%B6%E6%83%B3%E6%83%B3-%E7%84%A1%E8%A6%86%E8%A8%BA-4%E5%80%8B%E6%9C%88%E5%BE%8C%E6%83%A1%E5%8C%96%E6%88%90%E6%9C%AA%E6%9C%9F%E7%99%8C",
+    "timestamp": "2026-03-08T15:13:56.698Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "學校團體還是邪教？美大學兄弟會詭異儀式曝光　56人半裸被潑廚餘",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260308/1107304826099732480274860.jpeg/o6jvluIeIHv1JYrpPhFRp_gWu2rnsKDtfJJb0nySW9I?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60328465/%E5%A9%A6%E5%A5%B3%E7%AF%80-%E6%9D%8E%E5%AE%B6%E8%B6%85%E7%B4%84%E5%A5%B3%E5%A4%A7%E5%AD%B8%E7%94%9F%E8%A6%8B%E9%9D%A2-%E8%AE%9A%E5%A5%B3%E6%80%A7%E6%92%90%E5%A4%A7%E5%8D%8A%E9%82%8A%E5%A4%A9%E5%A6%82-%E7%B6%BE%E7%BE%85%E7%B6%A2%E7%B7%9E",
     "timestamp": "2026-03-08T05:56:39.205Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "房署前副署長馮宜萱眼妝出事！「反白眼妝」震撼全網：得罪化妝師",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260308/1107301610624651264124583.jpeg/VvrdKzqCUXwxUE4UxM7YkTwoDZfoihDT9ycr-PcnK_g?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60328433/%E6%88%BF%E7%BD%B2%E5%89%8D%E5%89%AF%E7%BD%B2%E9%95%B7%E9%A6%AE%E5%AE%9C%E8%90%B1%E7%9C%BC%E5%A6%9D%E5%87%BA%E4%BA%8B-%E5%8F%8D%E7%99%BD%E7%9C%BC%E5%A6%9D-%E9%9C%87%E6%92%BC%E5%85%A8%E7%B6%B2-%E5%BE%97%E7%BD%AA%E5%8C%96%E5%A6%9D%E5%B8%AB",
-    "timestamp": "2026-03-08T05:28:31.521Z",
     "strategy": ".content-card__main"
   }
 ];
