@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-08T22:46:57.682Z
+// Last updated: 2026-03-08T22:59:21.420Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "伊朗局勢｜紐約期油曾升穿110美元　漲幅逾21%",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20241004/918719466295005184417092.jpeg/72rRTdU3_HN-MTQNG4w9xlFUehCBhqbIbaL7-G2i-_g?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60328596/%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8B%A2-%E7%B4%90%E7%B4%84%E6%9C%9F%E6%B2%B9%E6%9B%BE%E5%8D%87%E7%A9%BF110%E7%BE%8E%E5%85%83-%E6%BC%B2%E5%B9%85%E9%80%BE21",
+    "timestamp": "2026-03-08T22:59:21.420Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "伊朗局勢｜紐約期油曾升穿110美元　漲幅逾21%",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260308/1107404436038225920534682.png/YnFf5stE30WMaqmQU4xXQRzkEdC4zvdzNw7uwTcO7sE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60328390/%E9%99%B3%E5%BF%97%E9%9B%B2%E5%81%9A%E9%9F%B3%E6%A8%82%E7%AF%80%E7%9B%AE%E6%8A%95%E8%A8%B4%E5%87%BA%E9%8F%A1%E7%8E%87%E5%A4%AA%E5%B0%91-%E6%83%B3%E8%88%87%E6%9D%8E%E5%B0%9A%E6%AD%A3%E5%A6%B9%E9%A0%AD%E5%90%88%E4%BD%9C-%E6%94%B6%E8%A6%96%E4%BF%9D%E8%AD%89",
     "timestamp": "2026-03-08T14:15:06.982Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "下灣村收地在即　過百村民回家搶花炮　搞手：未到滅村都希望傳承",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260308/1107417833244987392964072.jpeg/5iyj-BliB5sv8R3PYObCcNWIHaqLkhldZcL8zkDC_M4?v=w1920r16_9",
-    "url": "https://www.hk01.com/18%E5%8D%80%E6%96%B0%E8%81%9E/60328544/%E4%B8%8B%E7%81%A3%E6%9D%91%E6%94%B6%E5%9C%B0%E5%9C%A8%E5%8D%B3-%E9%81%8E%E7%99%BE%E6%9D%91%E6%B0%91%E5%9B%9E%E5%AE%B6%E6%90%B6%E8%8A%B1%E7%82%AE-%E6%90%9E%E6%89%8B-%E6%9C%AA%E5%88%B0%E6%BB%85%E6%9D%91%E9%83%BD%E5%B8%8C%E6%9C%9B%E5%82%B3%E6%89%BF",
-    "timestamp": "2026-03-08T14:00:49.437Z",
     "strategy": ".content-card__main"
   }
 ];
