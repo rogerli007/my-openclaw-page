@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-08T17:15:59.885Z
+// Last updated: 2026-03-08T17:32:39.743Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "伊朗外長：不會停火或無條件投降　特朗普應為發動戰事道歉",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260306/1106407685084942336154938.jpeg/W16w0BiSddDvg5iB6pIof7IO3GPtIpRHRsbpHUbG6R0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60328577/%E4%BC%8A%E6%9C%97%E5%A4%96%E9%95%B7-%E4%B8%8D%E6%9C%83%E5%81%9C%E7%81%AB%E6%88%96%E7%84%A1%E6%A2%9D%E4%BB%B6%E6%8A%95%E9%99%8D-%E7%89%B9%E6%9C%97%E6%99%AE%E6%87%89%E7%82%BA%E7%99%BC%E5%8B%95%E6%88%B0%E4%BA%8B%E9%81%93%E6%AD%89",
+    "timestamp": "2026-03-08T17:32:39.743Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "伊朗外長：不會停火或無條件投降　特朗普應為發動戰事道歉",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260308/1107316546427949056248760.jpeg/yty88NXYMn2BiZKg9wA-ezDKjO5dtg5WV6xPqFesT6g?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60328469/%E6%97%A5%E6%9C%AC%E5%A5%B3%E7%94%9F3%E5%A4%A7%E6%B8%9B%E8%82%A5%E7%A7%98%E8%A8%A370kg%E8%AE%8A45kg%E9%81%B8%E7%BE%8E%E6%AF%94%E8%B3%BD%E5%A5%AA%E7%8D%8E-%E7%B6%B2%E6%B0%91-%E6%98%AF%E9%87%8D%E6%96%B0%E6%8A%95%E8%83%8E",
     "timestamp": "2026-03-08T07:59:47.883Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "清水灣道寶馬起火冒煙　司機及時逃生",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260308/1107337754863210496120457.jpeg/GQ2x4zXJl7T1uLXIEozKXn0ClYoAQMQs8sxQ6fLMUOk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60328492/%E6%B8%85%E6%B0%B4%E7%81%A3%E9%81%93%E5%AF%B6%E9%A6%AC%E8%B5%B7%E7%81%AB%E5%86%92%E7%85%99-%E5%8F%B8%E6%A9%9F%E5%8F%8A%E6%99%82%E9%80%83%E7%94%9F",
-    "timestamp": "2026-03-08T07:48:48.593Z",
     "strategy": ".content-card__main"
   }
 ];
