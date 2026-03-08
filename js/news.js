@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-08T02:12:28.293Z
+// Last updated: 2026-03-08T03:19:02.988Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "有片│港鐵MMA白衣男激戰飛腳大媽！挑釁隻揪被打爆　後續震驚全網",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260308/1107271430610882560478291.jpeg/bX4BoqW31GhlSIKUpr2-tFRCSoo5mGx56eEAj-nhAI8",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60328432/%E6%9C%89%E7%89%87-%E6%B8%AF%E9%90%B5mma%E7%99%BD%E8%A1%A3%E7%94%B7%E6%BF%80%E6%88%B0%E9%A3%9B%E8%85%B3%E5%A4%A7%E5%AA%BD-%E6%8C%91%E9%87%81%E9%9A%BB%E6%8F%AA%E8%A2%AB%E6%89%93%E7%88%86-%E5%BE%8C%E7%BA%8C%E9%9C%87%E9%A9%9A%E5%85%A8%E7%B6%B2",
+    "timestamp": "2026-03-08T03:19:02.988Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "眼皮長黃斑恐是心肌梗塞？掌握「臨微不亂」口訣　預防缺血性中風",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260307/1107087186680877056524790.jpeg/AFy72DNNSAP6xJ7-t4_nTwIfU_3OjXz3QHaVREB2lUQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60328389/%E9%84%AD%E4%B8%B9%E7%91%9E%E5%A4%A7%E5%A5%B3%E9%84%AD%E7%91%A4%E6%9B%AC%E4%B8%89%E4%BB%A3%E5%90%8C%E5%A0%82%E5%90%88%E7%85%A7-%E6%AD%B723%E5%80%8B%E9%90%98%E7%B5%82%E8%AA%95%E5%A5%B3-%E6%9C%80%E5%A5%BD%E7%9A%84%E7%94%9F%E6%97%A5%E7%A6%AE%E7%89%A9",
     "timestamp": "2026-03-07T15:56:09.263Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "中東局勢｜入境處︰逾300港人安全離開　今日7人獲安排坐直航回港",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260305/1106020611903197184407892.jpeg/RPr8twNlxKy2Wm2ZGJs1MTMYgg9WhFMvXSH1wEgh9cA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60328395/%E4%B8%AD%E6%9D%B1%E5%B1%80%E5%8B%A2-%E5%85%A5%E5%A2%83%E8%99%95-%E9%80%BE300%E6%B8%AF%E4%BA%BA%E5%AE%89%E5%85%A8%E9%9B%A2%E9%96%8B-%E4%BB%8A%E6%97%A57%E4%BA%BA%E7%8D%B2%E5%AE%89%E6%8E%92%E5%9D%90%E7%9B%B4%E8%88%AA%E5%9B%9E%E6%B8%AF",
-    "timestamp": "2026-03-07T15:13:45.825Z",
     "strategy": ".content-card__main"
   }
 ];
