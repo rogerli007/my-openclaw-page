@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-08T11:00:40.770Z
+// Last updated: 2026-03-08T11:17:34.423Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "內地多地宣傳語改用婦女節　《婦女報》：女王、女神是泛濫吹捧",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260308/1107372651468296192056382.jpeg/DdcARBsLTkGW8UTVLibWFZvfQE9PrALOmb8ga5m_IGs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60328510/%E5%85%A7%E5%9C%B0%E5%A4%9A%E5%9C%B0%E5%AE%A3%E5%82%B3%E8%AA%9E%E6%94%B9%E7%94%A8%E5%A9%A6%E5%A5%B3%E7%AF%80-%E5%A9%A6%E5%A5%B3%E5%A0%B1-%E5%A5%B3%E7%8E%8B-%E5%A5%B3%E7%A5%9E%E6%98%AF%E6%B3%9B%E6%BF%AB%E5%90%B9%E6%8D%A7",
+    "timestamp": "2026-03-08T11:17:34.423Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "「鐵娘子」開路　中國船東成商船闖霍爾木茲「護身符」？",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260305/1106208700059619328907183.jpeg/3gZ-xL0kLqDOlOtdLTXJvqVWhdWqNjyxeMIGcnjCBnI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E8%A9%B1%E9%A1%8C/60325210/%E6%82%B2-%E5%A5%B3%E5%AD%90%E9%81%AD7%E7%94%B7%E6%8C%81%E5%88%80%E8%BC%AA%E5%A7%A6-%E7%94%B7%E5%8F%8B%E8%A2%AB%E8%BF%AB%E8%A7%80%E7%9C%8B%E5%85%A8%E7%A8%8B%E5%B4%A9%E6%BD%B0-%E5%BE%8C%E7%BA%8C%E6%9B%B4%E6%85%98%E6%83%B9%E5%85%AC%E6%86%A4",
     "timestamp": "2026-03-07T23:30:10.781Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "英足總盃｜曼城3:1紐卡素　晉級8強",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260308/1107201071563935744937520.jpeg/u2126H4GHczMjiexOJllIakAiUwVq8TQoGnAtqBpwLY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60328411/%E8%8B%B1%E8%B6%B3%E7%B8%BD%E7%9B%83-%E6%9B%BC%E5%9F%8E3-1%E7%B4%90%E5%8D%A1%E7%B4%A0-%E6%99%89%E7%B4%9A8%E5%BC%B7",
-    "timestamp": "2026-03-07T23:00:53.297Z",
     "strategy": ".content-card__main"
   }
 ];
