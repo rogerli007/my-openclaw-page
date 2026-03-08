@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-08T09:16:31.348Z
+// Last updated: 2026-03-08T09:49:44.426Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "廣州巴士站屢現糞便　街坊憑形狀斷定同一人所為：消化力好強！",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260308/1107347538391994368412687.png/a2FwnEDPu-rJjpBD_9Ffw6aOzgDUYq9aw4DJEsOAyRI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60328424/%E5%BB%A3%E5%B7%9E%E5%B7%B4%E5%A3%AB%E7%AB%99%E5%B1%A2%E7%8F%BE%E7%B3%9E%E4%BE%BF-%E8%A1%97%E5%9D%8A%E6%86%91%E5%BD%A2%E7%8B%80%E6%96%B7%E5%AE%9A%E5%90%8C%E4%B8%80%E4%BA%BA%E6%89%80%E7%82%BA-%E6%B6%88%E5%8C%96%E5%8A%9B%E5%A5%BD%E5%BC%B7",
+    "timestamp": "2026-03-08T09:49:44.426Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "易潔鑊不能炸食物 會釋放毒素？專家解謎8成人都搞錯+1做法最傷鍋",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260308/1107176246439055360325461.jpeg/gH9gzB7Z9gioAbadC_kipuxw8ay2sNsTgO0xSYDtMUk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60328408/%E8%8B%B1%E8%B6%B3%E7%B8%BD%E7%9B%83-%E8%BB%8A%E8%B7%AF%E5%A3%AB4-2%E5%8B%9D%E5%9F%9F%E6%96%AF%E5%92%B8-%E6%99%89%E7%B4%9A8%E5%BC%B7",
     "timestamp": "2026-03-07T20:58:31.792Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "低門檻運動　人人都能玩的匹克球",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260304/1105815535456620544987635.png/nKHzkLPIKjp-mqs5rIqOTIdIRByiBiL6RD1KUkQ9SlI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60327154/%E4%BD%8E%E9%96%80%E6%AA%BB%E9%81%8B%E5%8B%95-%E4%BA%BA%E4%BA%BA%E9%83%BD%E8%83%BD%E7%8E%A9%E7%9A%84%E5%8C%B9%E5%85%8B%E7%90%83",
-    "timestamp": "2026-03-07T20:46:33.850Z",
     "strategy": ".content-card__main"
   }
 ];
