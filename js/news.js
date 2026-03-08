@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-07T23:56:56.622Z
+// Last updated: 2026-03-08T01:18:31.989Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "女童澀谷被撞：日本為何有｢撞人族｣？專門針對遊客女性學生兒童",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260303/1105520084815712256751280.jpeg/SkMvSXzH2PVAV3xzbTUVkKFBZEMPl_3ApOO_QaTjv0E?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8F%B0%E7%81%A3%E6%96%B0%E8%81%9E/60326735/%E5%A5%B3%E7%AB%A5%E6%BE%80%E8%B0%B7%E8%A2%AB%E6%92%9E-%E6%97%A5%E6%9C%AC%E7%82%BA%E4%BD%95%E6%9C%89-%E6%92%9E%E4%BA%BA%E6%97%8F-%E5%B0%88%E9%96%80%E9%87%9D%E5%B0%8D%E9%81%8A%E5%AE%A2%E5%A5%B3%E6%80%A7%E5%AD%B8%E7%94%9F%E5%85%92%E7%AB%A5",
+    "timestamp": "2026-03-08T01:18:31.989Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "伊拉克官員證實美國駐巴格達使館遭導彈襲擊　暫無傷亡報告",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260307/1107084952610017280291407.jpeg/crx2qDnIGUbeoenC7UDf75eD6Zfiu_YRixAFCK4QBQg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60328394/%E7%94%B7%E8%B3%8A%E4%B9%9D%E9%BE%8D%E5%9F%8E%E5%94%90%E6%A8%93%E6%89%AE%E5%AE%A2-%E6%92%B3%E9%90%98%E4%BB%94-%E7%AA%81%E4%BA%AE%E5%88%80%E6%8C%87%E5%9A%87%E9%B3%B3%E5%A7%90%E6%8E%A0-500%E9%80%83%E9%80%B8",
     "timestamp": "2026-03-07T14:59:27.651Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "旅監局行政總裁方安妮3.1悄然離職　任內處理土瓜灣內地團問題",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20230509/732647401818689536936054.jpeg/2CbacdFHW6pQoSDjPLHX9loQTnlHTTspB_8ZSRL_GUk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60328383/%E6%97%85%E7%9B%A3%E5%B1%80%E8%A1%8C%E6%94%BF%E7%B8%BD%E8%A3%81%E6%96%B9%E5%AE%89%E5%A6%AE3-1%E6%82%84%E7%84%B6%E9%9B%A2%E8%81%B7-%E4%BB%BB%E5%85%A7%E8%99%95%E7%90%86%E5%9C%9F%E7%93%9C%E7%81%A3%E5%85%A7%E5%9C%B0%E5%9C%98%E5%95%8F%E9%A1%8C",
-    "timestamp": "2026-03-07T14:30:53.379Z",
     "strategy": ".content-card__main"
   }
 ];
