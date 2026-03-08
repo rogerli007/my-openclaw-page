@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-08T10:15:50.926Z
+// Last updated: 2026-03-08T10:31:58.323Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "政協委員、太空人王亞平：中國正在攻關外星長期生存問題",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260308/1107347298276347904524019.jpeg/FUPMDpdWw9YacWnKiKJIqzPjStc9UCqGe2ry8Htq8vA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60328498/%E6%94%BF%E5%8D%94%E5%A7%94%E5%93%A1-%E5%A4%AA%E7%A9%BA%E4%BA%BA%E7%8E%8B%E4%BA%9E%E5%B9%B3-%E4%B8%AD%E5%9C%8B%E6%AD%A3%E5%9C%A8%E6%94%BB%E9%97%9C%E5%A4%96%E6%98%9F%E9%95%B7%E6%9C%9F%E7%94%9F%E5%AD%98%E5%95%8F%E9%A1%8C",
+    "timestamp": "2026-03-08T10:31:58.323Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "政協委員、太空人王亞平：中國正在攻關外星長期生存問題",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260308/1107199018540208128310542.jpeg/I47-i8i3vkJAwti5NpHODk-vrmLzBsFrzXeqss13qrI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60328409/%E5%85%A7%E5%A1%94%E5%B0%BC%E4%BA%9E%E8%83%A1-%E5%B0%8D%E4%BC%8A%E6%94%BB%E6%93%8A%E7%B9%BC%E7%BA%8C%E5%85%A8%E5%8A%9B%E9%80%B2%E8%A1%8C-%E4%BB%A5%E8%89%B2%E5%88%97%E8%A9%A6%E5%9C%96%E8%A7%A3%E6%94%BE%E8%80%8C%E9%9D%9E%E5%88%86%E8%A3%82%E4%BC%8A%E6%9C%97",
     "timestamp": "2026-03-07T22:30:32.694Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "阿布扎比國家石油公司：陸上作業仍繼續　正管理離岸產量",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260308/1107173840670167040940628.jpeg/3Z5jXF21aS6sJF87IFWc7S0YoLshPEj0mG8JIZhvCSE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60328407/%E9%98%BF%E5%B8%83%E6%89%8E%E6%AF%94%E5%9C%8B%E5%AE%B6%E7%9F%B3%E6%B2%B9%E5%85%AC%E5%8F%B8-%E9%99%B8%E4%B8%8A%E4%BD%9C%E6%A5%AD%E4%BB%8D%E7%B9%BC%E7%BA%8C-%E6%AD%A3%E7%AE%A1%E7%90%86%E9%9B%A2%E5%B2%B8%E7%94%A2%E9%87%8F",
-    "timestamp": "2026-03-07T21:12:42.768Z",
     "strategy": ".content-card__main"
   }
 ];
