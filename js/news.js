@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-08T19:33:05.320Z
+// Last updated: 2026-03-08T19:45:18.540Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "伊朗局勢｜特朗普：新領袖必須經美國批准　否則不會長久",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260305/1106252420561768448972361.jpeg/0L7f09JsIXn-C8YeEr-VlQewVJ3Fd6V5FiaMMRYmjDE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60328588/%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8B%A2-%E7%89%B9%E6%9C%97%E6%99%AE-%E6%96%B0%E9%A0%98%E8%A2%96%E5%BF%85%E9%A0%88%E7%B6%93%E7%BE%8E%E5%9C%8B%E6%89%B9%E5%87%86-%E5%90%A6%E5%89%87%E4%B8%8D%E6%9C%83%E9%95%B7%E4%B9%85",
+    "timestamp": "2026-03-08T19:45:18.540Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "伊朗局勢｜特朗普：新領袖必須經美國批准　否則不會長久",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260308/1107347538391994368412687.png/a2FwnEDPu-rJjpBD_9Ffw6aOzgDUYq9aw4DJEsOAyRI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60328424/%E5%BB%A3%E5%B7%9E%E5%B7%B4%E5%A3%AB%E7%AB%99%E5%B1%A2%E7%8F%BE%E7%B3%9E%E4%BE%BF-%E8%A1%97%E5%9D%8A%E6%86%91%E5%BD%A2%E7%8B%80%E6%96%B7%E5%AE%9A%E5%90%8C%E4%B8%80%E4%BA%BA%E6%89%80%E7%82%BA-%E6%B6%88%E5%8C%96%E5%8A%9B%E5%A5%BD%E5%BC%B7",
     "timestamp": "2026-03-08T09:49:44.426Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "易潔鑊不能炸食物 會釋放毒素？專家解謎8成人都搞錯+1做法最傷鍋",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260306/1106658042587385856937865.jpeg/3_Y1TNtq-1bWiRAZQXOOK8gtFEif9ysoO_rRkzv60ZM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60308227/%E6%98%93%E6%BD%94%E9%91%8A%E4%B8%8D%E8%83%BD%E7%82%B8%E9%A3%9F%E7%89%A9-%E6%9C%83%E9%87%8B%E6%94%BE%E6%AF%92%E7%B4%A0-%E5%B0%88%E5%AE%B6%E8%A7%A3%E8%AC%8E8%E6%88%90%E4%BA%BA%E9%83%BD%E6%90%9E%E9%8C%AF-1%E5%81%9A%E6%B3%95%E6%9C%80%E5%82%B7%E9%8D%8B",
-    "timestamp": "2026-03-08T09:16:31.348Z",
     "strategy": ".content-card__main"
   }
 ];
