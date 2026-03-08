@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-08T21:14:12.558Z
+// Last updated: 2026-03-08T21:32:23.552Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "屯馬綫｜路軌改道跟進工序完成　今日恢復正常服務",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20231025/793898259025235968729854.jpeg/bFsPkbox4wy9xA_SFpltlS0oKgBF0FqscMxQknDMUJI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60328594/%E5%B1%AF%E9%A6%AC%E7%B6%AB-%E8%B7%AF%E8%BB%8C%E6%94%B9%E9%81%93%E8%B7%9F%E9%80%B2%E5%B7%A5%E5%BA%8F%E5%AE%8C%E6%88%90-%E4%BB%8A%E6%97%A5%E6%81%A2%E5%BE%A9%E6%AD%A3%E5%B8%B8%E6%9C%8D%E5%8B%99",
+    "timestamp": "2026-03-08T21:32:23.552Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "屯馬綫｜路軌改道跟進工序完成　今日恢復正常服務",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260303/1105600926904750080461792.jpeg/O8wr0UtBb77DYWyQPt_DPq4_cvCHfKoH2hnT4NoZ0-A?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60328523/%E9%90%B5%E5%A8%98%E5%AD%90-%E9%96%8B%E8%B7%AF-%E4%B8%AD%E5%9C%8B%E8%88%B9%E6%9D%B1%E6%88%90%E5%95%86%E8%88%B9%E9%97%96%E9%9C%8D%E7%88%BE%E6%9C%A8%E8%8C%B2-%E8%AD%B7%E8%BA%AB%E7%AC%A6",
     "timestamp": "2026-03-08T11:00:40.770Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "黃樹棠兒子求婚成功　未婚妻收大大粒鑽戒：唔使俾人再問幾時結婚",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260308/1107374993051750400534679.png/KxiDroPXRsKuVZOBxTELBYBUAPSsPPHAAr5ZTgK-WU4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60328528/%E9%BB%83%E6%A8%B9%E6%A3%A0%E5%85%92%E5%AD%90%E6%B1%82%E5%A9%9A%E6%88%90%E5%8A%9F-%E6%9C%AA%E5%A9%9A%E5%A6%BB%E6%94%B6%E5%A4%A7%E5%A4%A7%E7%B2%92%E9%91%BD%E6%88%92-%E5%94%94%E4%BD%BF%E4%BF%BE%E4%BA%BA%E5%86%8D%E5%95%8F%E5%B9%BE%E6%99%82%E7%B5%90%E5%A9%9A",
-    "timestamp": "2026-03-08T10:48:51.209Z",
     "strategy": ".content-card__main"
   }
 ];
