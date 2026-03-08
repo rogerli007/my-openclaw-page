@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-08T22:12:54.396Z
+// Last updated: 2026-03-08T22:46:57.682Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "伊朗局勢｜紐約期油曾升穿110美元　漲幅逾21%",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20241004/918719466295005184417092.jpeg/72rRTdU3_HN-MTQNG4w9xlFUehCBhqbIbaL7-G2i-_g?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60328596/%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8B%A2-%E7%B4%90%E7%B4%84%E6%9C%9F%E6%B2%B9%E6%9B%BE%E5%8D%87%E7%A9%BF110%E7%BE%8E%E5%85%83-%E6%BC%B2%E5%B9%85%E9%80%BE21",
+    "timestamp": "2026-03-08T22:46:57.682Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "天氣｜今日大致多雲最高22度　晚上有一兩陣微雨",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260308/1107417833244987392964072.jpeg/5iyj-BliB5sv8R3PYObCcNWIHaqLkhldZcL8zkDC_M4?v=w1920r16_9",
     "url": "https://www.hk01.com/18%E5%8D%80%E6%96%B0%E8%81%9E/60328544/%E4%B8%8B%E7%81%A3%E6%9D%91%E6%94%B6%E5%9C%B0%E5%9C%A8%E5%8D%B3-%E9%81%8E%E7%99%BE%E6%9D%91%E6%B0%91%E5%9B%9E%E5%AE%B6%E6%90%B6%E8%8A%B1%E7%82%AE-%E6%90%9E%E6%89%8B-%E6%9C%AA%E5%88%B0%E6%BB%85%E6%9D%91%E9%83%BD%E5%B8%8C%E6%9C%9B%E5%82%B3%E6%89%BF",
     "timestamp": "2026-03-08T14:00:49.437Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "何英偉離港生活20年娶嫩妻唱好內地　因一事指制度差被質疑矛盾",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260308/1107398596992438272360845.jpeg/zFjGiEXycO9QiKwSPGwHJwgODkhlJxVA9bcC7fW3Au0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60328542/%E4%BD%95%E8%8B%B1%E5%81%89%E9%9B%A2%E6%B8%AF%E7%94%9F%E6%B4%BB20%E5%B9%B4%E5%A8%B6%E5%AB%A9%E5%A6%BB%E5%94%B1%E5%A5%BD%E5%85%A7%E5%9C%B0-%E5%9B%A0%E4%B8%80%E4%BA%8B%E6%8C%87%E5%88%B6%E5%BA%A6%E5%B7%AE%E8%A2%AB%E8%B3%AA%E7%96%91%E7%9F%9B%E7%9B%BE",
-    "timestamp": "2026-03-08T13:35:28.553Z",
     "strategy": ".content-card__main"
   }
 ];
