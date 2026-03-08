@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-08T19:58:07.749Z
+// Last updated: 2026-03-08T20:59:32.835Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "屯馬綫｜路軌改道跟進工序完成　今日恢復正常服務",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20231025/793898259025235968729854.jpeg/bFsPkbox4wy9xA_SFpltlS0oKgBF0FqscMxQknDMUJI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60328594/%E5%B1%AF%E9%A6%AC%E7%B6%AB-%E8%B7%AF%E8%BB%8C%E6%94%B9%E9%81%93%E8%B7%9F%E9%80%B2%E5%B7%A5%E5%BA%8F%E5%AE%8C%E6%88%90-%E4%BB%8A%E6%97%A5%E6%81%A2%E5%BE%A9%E6%AD%A3%E5%B8%B8%E6%9C%8D%E5%8B%99",
+    "timestamp": "2026-03-08T20:59:32.835Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "伊朗局勢｜特朗普：新領袖必須經美國批准　否則不會長久",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260308/1107347298276347904524019.jpeg/FUPMDpdWw9YacWnKiKJIqzPjStc9UCqGe2ry8Htq8vA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60328498/%E6%94%BF%E5%8D%94%E5%A7%94%E5%93%A1-%E5%A4%AA%E7%A9%BA%E4%BA%BA%E7%8E%8B%E4%BA%9E%E5%B9%B3-%E4%B8%AD%E5%9C%8B%E6%AD%A3%E5%9C%A8%E6%94%BB%E9%97%9C%E5%A4%96%E6%98%9F%E9%95%B7%E6%9C%9F%E7%94%9F%E5%AD%98%E5%95%8F%E9%A1%8C",
     "timestamp": "2026-03-08T10:31:58.323Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "政協委員、太空人王亞平：中國正在攻關外星長期生存問題",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260308/1107347298276347904524019.jpeg/FUPMDpdWw9YacWnKiKJIqzPjStc9UCqGe2ry8Htq8vA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60328498/%E6%94%BF%E5%8D%94%E5%A7%94%E5%93%A1-%E5%A4%AA%E7%A9%BA%E4%BA%BA%E7%8E%8B%E4%BA%9E%E5%B9%B3-%E4%B8%AD%E5%9C%8B%E6%AD%A3%E5%9C%A8%E6%94%BB%E9%97%9C%E5%A4%96%E6%98%9F%E9%95%B7%E6%9C%9F%E7%94%9F%E5%AD%98%E5%95%8F%E9%A1%8C",
-    "timestamp": "2026-03-08T10:15:50.926Z",
     "strategy": ".content-card__main"
   }
 ];
