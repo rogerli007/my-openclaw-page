@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-08T20:59:32.835Z
+// Last updated: 2026-03-08T21:14:12.558Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "屯馬綫｜路軌改道跟進工序完成　今日恢復正常服務",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20231025/793898259025235968729854.jpeg/bFsPkbox4wy9xA_SFpltlS0oKgBF0FqscMxQknDMUJI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60328594/%E5%B1%AF%E9%A6%AC%E7%B6%AB-%E8%B7%AF%E8%BB%8C%E6%94%B9%E9%81%93%E8%B7%9F%E9%80%B2%E5%B7%A5%E5%BA%8F%E5%AE%8C%E6%88%90-%E4%BB%8A%E6%97%A5%E6%81%A2%E5%BE%A9%E6%AD%A3%E5%B8%B8%E6%9C%8D%E5%8B%99",
+    "timestamp": "2026-03-08T21:14:12.558Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "屯馬綫｜路軌改道跟進工序完成　今日恢復正常服務",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260308/1107374993051750400534679.png/KxiDroPXRsKuVZOBxTELBYBUAPSsPPHAAr5ZTgK-WU4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60328528/%E9%BB%83%E6%A8%B9%E6%A3%A0%E5%85%92%E5%AD%90%E6%B1%82%E5%A9%9A%E6%88%90%E5%8A%9F-%E6%9C%AA%E5%A9%9A%E5%A6%BB%E6%94%B6%E5%A4%A7%E5%A4%A7%E7%B2%92%E9%91%BD%E6%88%92-%E5%94%94%E4%BD%BF%E4%BF%BE%E4%BA%BA%E5%86%8D%E5%95%8F%E5%B9%BE%E6%99%82%E7%B5%90%E5%A9%9A",
     "timestamp": "2026-03-08T10:48:51.209Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "政協委員、太空人王亞平：中國正在攻關外星長期生存問題",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260308/1107347298276347904524019.jpeg/FUPMDpdWw9YacWnKiKJIqzPjStc9UCqGe2ry8Htq8vA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60328498/%E6%94%BF%E5%8D%94%E5%A7%94%E5%93%A1-%E5%A4%AA%E7%A9%BA%E4%BA%BA%E7%8E%8B%E4%BA%9E%E5%B9%B3-%E4%B8%AD%E5%9C%8B%E6%AD%A3%E5%9C%A8%E6%94%BB%E9%97%9C%E5%A4%96%E6%98%9F%E9%95%B7%E6%9C%9F%E7%94%9F%E5%AD%98%E5%95%8F%E9%A1%8C",
-    "timestamp": "2026-03-08T10:31:58.323Z",
     "strategy": ".content-card__main"
   }
 ];
