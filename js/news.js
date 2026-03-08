@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-08T07:48:48.593Z
+// Last updated: 2026-03-08T07:59:47.883Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "日本女生3大減肥秘訣70kg變45kg選美比賽奪獎　網民：是重新投胎",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260308/1107316546427949056248760.jpeg/yty88NXYMn2BiZKg9wA-ezDKjO5dtg5WV6xPqFesT6g?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60328469/%E6%97%A5%E6%9C%AC%E5%A5%B3%E7%94%9F3%E5%A4%A7%E6%B8%9B%E8%82%A5%E7%A7%98%E8%A8%A370kg%E8%AE%8A45kg%E9%81%B8%E7%BE%8E%E6%AF%94%E8%B3%BD%E5%A5%AA%E7%8D%8E-%E7%B6%B2%E6%B0%91-%E6%98%AF%E9%87%8D%E6%96%B0%E6%8A%95%E8%83%8E",
+    "timestamp": "2026-03-08T07:59:47.883Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "清水灣道寶馬起火冒煙　司機及時逃生",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260308/1107148602628640768457932.jpeg/k9eqhxV3i2jTZom2vkshNdG_y-zixdxOucDlfLnA5Xw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60328403/%E7%89%B9%E6%9C%97%E6%99%AE%E8%88%89%E8%A1%8C-%E7%BE%8E%E6%B4%B2%E4%B9%8B%E7%9B%BE-%E5%B3%B0%E6%9C%83-%E5%8F%AC%E9%9B%86%E6%8B%89%E7%BE%8E%E9%A0%98%E5%B0%8E%E4%BA%BA%E6%88%90%E7%AB%8B%E6%96%B0%E7%B7%9D%E6%AF%92%E8%BB%8D%E4%BA%8B%E8%81%AF%E7%9B%9F",
     "timestamp": "2026-03-07T19:56:22.970Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "伊朗外交部：襲中東美軍基地不應解讀為敵意　回應侵略是自衛權",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260302/1105172713166606336812659.jpeg/A7xQ19AcECuM6Fxs1JZ-_0_v7C7Ck29wGOYaABjmGgA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60328401/%E4%BC%8A%E6%9C%97%E5%A4%96%E4%BA%A4%E9%83%A8-%E8%A5%B2%E4%B8%AD%E6%9D%B1%E7%BE%8E%E8%BB%8D%E5%9F%BA%E5%9C%B0%E4%B8%8D%E6%87%89%E8%A7%A3%E8%AE%80%E7%82%BA%E6%95%B5%E6%84%8F-%E5%9B%9E%E6%87%89%E4%BE%B5%E7%95%A5%E6%98%AF%E8%87%AA%E8%A1%9B%E6%AC%8A",
-    "timestamp": "2026-03-07T18:53:54.804Z",
     "strategy": ".content-card__main"
   }
 ];
