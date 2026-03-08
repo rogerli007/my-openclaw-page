@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-08T03:19:02.988Z
+// Last updated: 2026-03-08T04:08:46.266Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "兩會｜美國施壓干預中拉關係？　王毅：與誰交朋友由拉美自己決定",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250513/998964130691944448970425.jpeg/fNd_57Lvrn1FmrRYffPem6Aw3iyi43sytuJ1pbbidaU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60328455/%E5%85%A9%E6%9C%83-%E7%BE%8E%E5%9C%8B%E6%96%BD%E5%A3%93%E5%B9%B2%E9%A0%90%E4%B8%AD%E6%8B%89%E9%97%9C%E4%BF%82-%E7%8E%8B%E6%AF%85-%E8%88%87%E8%AA%B0%E4%BA%A4%E6%9C%8B%E5%8F%8B%E7%94%B1%E6%8B%89%E7%BE%8E%E8%87%AA%E5%B7%B1%E6%B1%BA%E5%AE%9A",
+    "timestamp": "2026-03-08T04:08:46.266Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "有片│港鐵MMA白衣男激戰飛腳大媽！挑釁隻揪被打爆　後續震驚全網",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260307/1107011453736456192086241.jpeg/7XrHlEOAayaGQoZrJJD21dO4Yblbo7tXN1FNWDdRTVg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60328338/%E9%87%91%E5%A4%9A%E5%AF%B6-%E7%BF%81%E5%AD%90%E5%85%89%E5%A0%85%E6%8C%81%E8%AC%9D%E7%A5%A8%E4%B8%8D%E8%AB%96%E4%BA%BA%E6%95%B8-%E6%84%9F%E8%AC%9D%E9%99%A2%E7%B7%9A%E5%96%84%E5%BE%85-%E6%8C%89%E5%90%88%E7%90%86%E6%AF%94%E4%BE%8B%E6%8E%92%E7%89%87",
     "timestamp": "2026-03-07T16:14:08.126Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "鄭丹瑞大女鄭瑤曬三代同堂合照　歷23個鐘終誕女︰最好的生日禮物",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260307/1107087186680877056524790.jpeg/AFy72DNNSAP6xJ7-t4_nTwIfU_3OjXz3QHaVREB2lUQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60328389/%E9%84%AD%E4%B8%B9%E7%91%9E%E5%A4%A7%E5%A5%B3%E9%84%AD%E7%91%A4%E6%9B%AC%E4%B8%89%E4%BB%A3%E5%90%8C%E5%A0%82%E5%90%88%E7%85%A7-%E6%AD%B723%E5%80%8B%E9%90%98%E7%B5%82%E8%AA%95%E5%A5%B3-%E6%9C%80%E5%A5%BD%E7%9A%84%E7%94%9F%E6%97%A5%E7%A6%AE%E7%89%A9",
-    "timestamp": "2026-03-07T15:56:09.263Z",
     "strategy": ".content-card__main"
   }
 ];
