@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-08T14:31:46.379Z
+// Last updated: 2026-03-08T14:47:12.282Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "學校團體還是邪教？美大學兄弟會詭異儀式曝光　56人半裸被潑廚餘",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260305/1106286530286063616304296.jpeg/BHk-MFpGw_u7gAw9G0DU9fU6XPS2dQCP9cBT0fXAU9E?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E8%A9%B1%E9%A1%8C/60325800/%E5%AD%B8%E6%A0%A1%E5%9C%98%E9%AB%94%E9%82%84%E6%98%AF%E9%82%AA%E6%95%99-%E7%BE%8E%E5%A4%A7%E5%AD%B8%E5%85%84%E5%BC%9F%E6%9C%83%E8%A9%AD%E7%95%B0%E5%84%80%E5%BC%8F%E6%9B%9D%E5%85%89-56%E4%BA%BA%E5%8D%8A%E8%A3%B8%E8%A2%AB%E6%BD%91%E5%BB%9A%E9%A4%98",
+    "timestamp": "2026-03-08T14:47:12.282Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "冬季5日寒冷天氣列第3低　天文台料春季氣溫正常至偏高、雨量正常",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260308/1107301610624651264124583.jpeg/VvrdKzqCUXwxUE4UxM7YkTwoDZfoihDT9ycr-PcnK_g?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60328433/%E6%88%BF%E7%BD%B2%E5%89%8D%E5%89%AF%E7%BD%B2%E9%95%B7%E9%A6%AE%E5%AE%9C%E8%90%B1%E7%9C%BC%E5%A6%9D%E5%87%BA%E4%BA%8B-%E5%8F%8D%E7%99%BD%E7%9C%BC%E5%A6%9D-%E9%9C%87%E6%92%BC%E5%85%A8%E7%B6%B2-%E5%BE%97%E7%BD%AA%E5%8C%96%E5%A6%9D%E5%B8%AB",
     "timestamp": "2026-03-08T05:28:31.521Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "兩會｜美國施壓干預中拉關係？　王毅：與誰交朋友由拉美自己決定",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250513/998964130691944448970425.jpeg/fNd_57Lvrn1FmrRYffPem6Aw3iyi43sytuJ1pbbidaU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60328455/%E5%85%A9%E6%9C%83-%E7%BE%8E%E5%9C%8B%E6%96%BD%E5%A3%93%E5%B9%B2%E9%A0%90%E4%B8%AD%E6%8B%89%E9%97%9C%E4%BF%82-%E7%8E%8B%E6%AF%85-%E8%88%87%E8%AA%B0%E4%BA%A4%E6%9C%8B%E5%8F%8B%E7%94%B1%E6%8B%89%E7%BE%8E%E8%87%AA%E5%B7%B1%E6%B1%BA%E5%AE%9A",
-    "timestamp": "2026-03-08T04:08:46.266Z",
     "strategy": ".content-card__main"
   }
 ];
