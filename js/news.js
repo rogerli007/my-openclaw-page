@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-08T18:17:05.797Z
+// Last updated: 2026-03-08T19:33:05.320Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "伊朗局勢｜特朗普：新領袖必須經美國批准　否則不會長久",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260305/1106252420561768448972361.jpeg/0L7f09JsIXn-C8YeEr-VlQewVJ3Fd6V5FiaMMRYmjDE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60328588/%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8B%A2-%E7%89%B9%E6%9C%97%E6%99%AE-%E6%96%B0%E9%A0%98%E8%A2%96%E5%BF%85%E9%A0%88%E7%B6%93%E7%BE%8E%E5%9C%8B%E6%89%B9%E5%87%86-%E5%90%A6%E5%89%87%E4%B8%8D%E6%9C%83%E9%95%B7%E4%B9%85",
+    "timestamp": "2026-03-08T19:33:05.320Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "著名文史學家陳耀南離世年85歲　學生包括許冠傑、梁錦松等",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260306/1106658042587385856937865.jpeg/3_Y1TNtq-1bWiRAZQXOOK8gtFEif9ysoO_rRkzv60ZM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60308227/%E6%98%93%E6%BD%94%E9%91%8A%E4%B8%8D%E8%83%BD%E7%82%B8%E9%A3%9F%E7%89%A9-%E6%9C%83%E9%87%8B%E6%94%BE%E6%AF%92%E7%B4%A0-%E5%B0%88%E5%AE%B6%E8%A7%A3%E8%AC%8E8%E6%88%90%E4%BA%BA%E9%83%BD%E6%90%9E%E9%8C%AF-1%E5%81%9A%E6%B3%95%E6%9C%80%E5%82%B7%E9%8D%8B",
     "timestamp": "2026-03-08T09:16:31.348Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "婦女節｜周霽與港區人大切餅慶祝　禮讓女性委員先就座發言",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260308/1107348055524380672862904.jpeg/x2ZgK0whA8kljq-t0J_mexnLA4VXqMWd8nhXCfJ4Vwk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60328507/%E5%A9%A6%E5%A5%B3%E7%AF%80-%E5%91%A8%E9%9C%BD%E8%88%87%E6%B8%AF%E5%8D%80%E4%BA%BA%E5%A4%A7%E5%88%87%E9%A4%85%E6%85%B6%E7%A5%9D-%E7%A6%AE%E8%AE%93%E5%A5%B3%E6%80%A7%E5%A7%94%E5%93%A1%E5%85%88%E5%B0%B1%E5%BA%A7%E7%99%BC%E8%A8%80",
-    "timestamp": "2026-03-08T08:52:29.424Z",
     "strategy": ".content-card__main"
   }
 ];
