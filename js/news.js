@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-09T04:23:42.782Z
+// Last updated: 2026-03-09T05:45:12.282Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "伊朗局勢｜G7據報開緊急會議商釋放應急石油儲備　油價升幅急收窄",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20240824/903864736460836864986702.jpeg/Q5jnRNhtVcG5X3770_6NMnZIDzgg4dHmaBT_3WgU_90?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60328718/%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8B%A2-g7%E6%93%9A%E5%A0%B1%E9%96%8B%E7%B7%8A%E6%80%A5%E6%9C%83%E8%AD%B0%E5%95%86%E9%87%8B%E6%94%BE%E6%87%89%E6%80%A5%E7%9F%B3%E6%B2%B9%E5%84%B2%E5%82%99-%E6%B2%B9%E5%83%B9%E5%8D%87%E5%B9%85%E6%80%A5%E6%94%B6%E7%AA%84",
+    "timestamp": "2026-03-09T05:45:12.282Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "香港故事－世界美食堂｜一揉一抓之間，看見意大利菜和老撾菜溫度",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260306/1106407685084942336154938.jpeg/W16w0BiSddDvg5iB6pIof7IO3GPtIpRHRsbpHUbG6R0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60328577/%E4%BC%8A%E6%9C%97%E5%A4%96%E9%95%B7-%E4%B8%8D%E6%9C%83%E5%81%9C%E7%81%AB%E6%88%96%E7%84%A1%E6%A2%9D%E4%BB%B6%E6%8A%95%E9%99%8D-%E7%89%B9%E6%9C%97%E6%99%AE%E6%87%89%E7%82%BA%E7%99%BC%E5%8B%95%E6%88%B0%E4%BA%8B%E9%81%93%E6%AD%89",
     "timestamp": "2026-03-08T17:15:59.885Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "伊朗外長：不會停火或無條件投降　特朗普應為發動戰事道歉",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260306/1106407685084942336154938.jpeg/W16w0BiSddDvg5iB6pIof7IO3GPtIpRHRsbpHUbG6R0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60328577/%E4%BC%8A%E6%9C%97%E5%A4%96%E9%95%B7-%E4%B8%8D%E6%9C%83%E5%81%9C%E7%81%AB%E6%88%96%E7%84%A1%E6%A2%9D%E4%BB%B6%E6%8A%95%E9%99%8D-%E7%89%B9%E6%9C%97%E6%99%AE%E6%87%89%E7%82%BA%E7%99%BC%E5%8B%95%E6%88%B0%E4%BA%8B%E9%81%93%E6%AD%89",
-    "timestamp": "2026-03-08T17:02:52.536Z",
     "strategy": ".content-card__main"
   }
 ];
