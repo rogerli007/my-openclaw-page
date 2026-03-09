@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-09T18:06:48.221Z
+// Last updated: 2026-03-09T19:11:39.190Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "拉里賈尼：美以軍事行動一旦持續　霍爾木茲海峽安全無法恢復",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260301/1104842547022270464471506.jpeg/7a0yZ9VUo-pm8b3ctm-lyeO0BhhunwiOdsboonbG6KI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60328949/%E6%8B%89%E9%87%8C%E8%B3%88%E5%B0%BC-%E7%BE%8E%E4%BB%A5%E8%BB%8D%E4%BA%8B%E8%A1%8C%E5%8B%95%E4%B8%80%E6%97%A6%E6%8C%81%E7%BA%8C-%E9%9C%8D%E7%88%BE%E6%9C%A8%E8%8C%B2%E6%B5%B7%E5%B3%BD%E5%AE%89%E5%85%A8%E7%84%A1%E6%B3%95%E6%81%A2%E5%BE%A9",
+    "timestamp": "2026-03-09T19:11:39.190Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "警新蒲崗工廈拘一男涉販毒　檢210克大麻約值3萬多元",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260305/1106308499622596608740532.jpeg/nPBpDLSLsJiyZkcH9P5Cmc2AEH0VT1E-Mmq07TJqtO0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60327494/%E4%B8%88%E5%A4%AB%E5%8D%8A%E5%A4%9C%E8%87%89%E7%99%BC%E9%BB%91%E5%A6%BB%E5%AD%90%E5%9A%87%E6%80%95-%E8%A1%80%E6%B0%A7%E5%89%A955-%E9%86%AB%E7%94%9F-%E5%B9%BE%E4%B9%8E%E6%AF%8F%E5%88%86%E9%90%98%E9%83%BD%E5%9C%A8%E7%BC%BA%E6%B0%A7",
     "timestamp": "2026-03-09T01:18:58.797Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "中國遊客困杜拜　有人經歷7次航班取消用5.4萬元買頭等艙機票回國",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260302/1105168745346633728073451.jpeg/in1Q3RveG10HMKcYiBt-2y_6za2Pon-YhO2AzYTtgM0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60328558/%E4%B8%AD%E5%9C%8B%E9%81%8A%E5%AE%A2%E5%9B%B0%E6%9D%9C%E6%8B%9C-%E6%9C%89%E4%BA%BA%E7%B6%93%E6%AD%B77%E6%AC%A1%E8%88%AA%E7%8F%AD%E5%8F%96%E6%B6%88%E7%94%A85-4%E8%90%AC%E5%85%83%E8%B2%B7%E9%A0%AD%E7%AD%89%E8%89%99%E6%A9%9F%E7%A5%A8%E5%9B%9E%E5%9C%8B",
-    "timestamp": "2026-03-09T00:44:59.858Z",
     "strategy": ".content-card__main"
   }
 ];
