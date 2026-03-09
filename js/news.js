@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-09T17:38:08.138Z
+// Last updated: 2026-03-09T18:06:48.221Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "警新蒲崗工廈拘一男涉販毒　檢210克大麻約值3萬多元",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260310/1107852242653810688120967.jpeg/Z2C1yyzQ2zcASyViIZP6cNSi6XrqWRBI3P0endz9Hp0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60328950/%E8%AD%A6%E6%96%B0%E8%92%B2%E5%B4%97%E5%B7%A5%E5%BB%88%E6%8B%98%E4%B8%80%E7%94%B7%E6%B6%89%E8%B2%A9%E6%AF%92-%E6%AA%A2210%E5%85%8B%E5%A4%A7%E9%BA%BB%E7%B4%84%E5%80%BC3%E8%90%AC%E5%A4%9A%E5%85%83",
+    "timestamp": "2026-03-09T18:06:48.221Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "兩會｜朱葉玉如：香港應發揮教育科研所長　主動參與國家戰略佈局",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260302/1105168745346633728073451.jpeg/in1Q3RveG10HMKcYiBt-2y_6za2Pon-YhO2AzYTtgM0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60328558/%E4%B8%AD%E5%9C%8B%E9%81%8A%E5%AE%A2%E5%9B%B0%E6%9D%9C%E6%8B%9C-%E6%9C%89%E4%BA%BA%E7%B6%93%E6%AD%B77%E6%AC%A1%E8%88%AA%E7%8F%AD%E5%8F%96%E6%B6%88%E7%94%A85-4%E8%90%AC%E5%85%83%E8%B2%B7%E9%A0%AD%E7%AD%89%E8%89%99%E6%A9%9F%E7%A5%A8%E5%9B%9E%E5%9C%8B",
     "timestamp": "2026-03-09T00:44:59.858Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "深水埗唐樓男不堪妻遭巴裔男非禮　憤然理論遭襲擊　40歲男子被捕",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250829/1038113717776027648927184.jpeg/koxsHPa9JUt7qpSs0QRQ6S-OrAB8E_N6cFi36XBYt-k?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60328598/%E6%B7%B1%E6%B0%B4%E5%9F%97%E5%94%90%E6%A8%93%E7%94%B7%E4%B8%8D%E5%A0%AA%E5%A6%BB%E9%81%AD%E5%B7%B4%E8%A3%94%E7%94%B7%E9%9D%9E%E7%A6%AE-%E6%86%A4%E7%84%B6%E7%90%86%E8%AB%96%E9%81%AD%E8%A5%B2%E6%93%8A-40%E6%AD%B2%E7%94%B7%E5%AD%90%E8%A2%AB%E6%8D%95",
-    "timestamp": "2026-03-08T23:50:54.961Z",
     "strategy": ".content-card__main"
   }
 ];
