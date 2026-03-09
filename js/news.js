@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-09T08:29:29.279Z
+// Last updated: 2026-03-09T08:53:27.642Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "方力申開演唱會記招　尹光原想着粉紅撐場遭勸阻：同海報撞色",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260309/1107704643028258816689170.jpeg/EInSZjpL9GgkQ7WrXg5xedBo5f0fg3s9HTt0Yx07dGM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60328772/%E6%96%B9%E5%8A%9B%E7%94%B3%E9%96%8B%E6%BC%94%E5%94%B1%E6%9C%83%E8%A8%98%E6%8B%9B-%E5%B0%B9%E5%85%89%E5%8E%9F%E6%83%B3%E7%9D%80%E7%B2%89%E7%B4%85%E6%92%90%E5%A0%B4%E9%81%AD%E5%8B%B8%E9%98%BB-%E5%90%8C%E6%B5%B7%E5%A0%B1%E6%92%9E%E8%89%B2",
+    "timestamp": "2026-03-09T08:53:27.642Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "莫奈睡蓮｜《睡蓮》《睡蓮池》真迹來港　香港藝術館4.24起免費看",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260305/1106252420561768448972361.jpeg/0L7f09JsIXn-C8YeEr-VlQewVJ3Fd6V5FiaMMRYmjDE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60328588/%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8B%A2-%E7%89%B9%E6%9C%97%E6%99%AE-%E6%96%B0%E9%A0%98%E8%A2%96%E5%BF%85%E9%A0%88%E7%B6%93%E7%BE%8E%E5%9C%8B%E6%89%B9%E5%87%86-%E5%90%A6%E5%89%87%E4%B8%8D%E6%9C%83%E9%95%B7%E4%B9%85",
     "timestamp": "2026-03-08T19:33:05.320Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "著名文史學家陳耀南離世年85歲　學生包括許冠傑、梁錦松等",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260309/1107487528060981248396810.png/Hjq8uEgmc8uEBrMQRYWcUHgKvoukOEv0acqiTWnKok0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60328583/%E8%91%97%E5%90%8D%E6%96%87%E5%8F%B2%E5%AD%B8%E5%AE%B6%E9%99%B3%E8%80%80%E5%8D%97%E9%9B%A2%E4%B8%96%E5%B9%B485%E6%AD%B2-%E5%AD%B8%E7%94%9F%E5%8C%85%E6%8B%AC%E8%A8%B1%E5%86%A0%E5%82%91-%E6%A2%81%E9%8C%A6%E6%9D%BE%E7%AD%89",
-    "timestamp": "2026-03-08T18:17:05.797Z",
     "strategy": ".content-card__main"
   }
 ];
