@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-09T15:12:41.718Z
+// Last updated: 2026-03-09T15:43:56.504Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "五月天成團29週年　驚喜宣布調整場次將加入3月29日生日限定場",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260309/1107817849310679040790548.jpeg/rPZ5WWqPcc4291kx6LEaGJ6vnzP77sRwyPwdZcj8HWU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60328936/%E4%BA%94%E6%9C%88%E5%A4%A9%E6%88%90%E5%9C%9829%E9%80%B1%E5%B9%B4-%E9%A9%9A%E5%96%9C%E5%AE%A3%E5%B8%83%E8%AA%BF%E6%95%B4%E5%A0%B4%E6%AC%A1%E5%B0%87%E5%8A%A0%E5%85%A53%E6%9C%8829%E6%97%A5%E7%94%9F%E6%97%A5%E9%99%90%E5%AE%9A%E5%A0%B4",
+    "timestamp": "2026-03-09T15:43:56.504Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美股｜道指早段曾挫近900點　三大指數跌逾1%",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20231025/793898259025235968729854.jpeg/bFsPkbox4wy9xA_SFpltlS0oKgBF0FqscMxQknDMUJI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60328594/%E5%B1%AF%E9%A6%AC%E7%B6%AB-%E8%B7%AF%E8%BB%8C%E6%94%B9%E9%81%93%E8%B7%9F%E9%80%B2%E5%B7%A5%E5%BA%8F%E5%AE%8C%E6%88%90-%E4%BB%8A%E6%97%A5%E6%81%A2%E5%BE%A9%E6%AD%A3%E5%B8%B8%E6%9C%8D%E5%8B%99",
     "timestamp": "2026-03-08T21:57:05.834Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "屯馬綫｜路軌改道跟進工序完成　今日恢復正常服務",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20231025/793898259025235968729854.jpeg/bFsPkbox4wy9xA_SFpltlS0oKgBF0FqscMxQknDMUJI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60328594/%E5%B1%AF%E9%A6%AC%E7%B6%AB-%E8%B7%AF%E8%BB%8C%E6%94%B9%E9%81%93%E8%B7%9F%E9%80%B2%E5%B7%A5%E5%BA%8F%E5%AE%8C%E6%88%90-%E4%BB%8A%E6%97%A5%E6%81%A2%E5%BE%A9%E6%AD%A3%E5%B8%B8%E6%9C%8D%E5%8B%99",
-    "timestamp": "2026-03-08T21:45:37.728Z",
     "strategy": ".content-card__main"
   }
 ];
