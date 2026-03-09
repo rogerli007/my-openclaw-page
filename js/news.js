@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-09T22:35:56.945Z
+// Last updated: 2026-03-09T23:48:52.492Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "TVB小生揭內地劇組隱藏規矩　有個黑箱唔坐得隨時賠大錢兼被封殺",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260309/1107817541612343296456103.jpeg/EGdmm9vhIUF3F04BVopBYAWUxGo-SAsIlokk9paJJPY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60328847/%E6%9E%97%E6%AD%A3%E5%B3%B0%E6%8F%AD%E5%85%A7%E5%9C%B0%E5%8A%87%E7%B5%84%E9%9A%B1%E8%97%8F%E8%A6%8F%E7%9F%A9-%E6%9C%89%E5%80%8B%E9%BB%91%E7%AE%B1%E5%94%94%E5%9D%90%E5%BE%97%E9%9A%A8%E6%99%82%E8%B3%A0%E5%A4%A7%E9%8C%A2%E5%85%BC%E8%A2%AB%E5%B0%81%E6%AE%BA",
+    "timestamp": "2026-03-09T23:48:52.492Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "馮盈盈醫生舊愛開專科診所　另一港姐冠軍到賀與主角夫婦同框合照",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260309/1107704643028258816689170.jpeg/EInSZjpL9GgkQ7WrXg5xedBo5f0fg3s9HTt0Yx07dGM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60328772/%E6%96%B9%E5%8A%9B%E7%94%B3%E9%96%8B%E6%BC%94%E5%94%B1%E6%9C%83%E8%A8%98%E6%8B%9B-%E5%B0%B9%E5%85%89%E5%8E%9F%E6%83%B3%E7%9D%80%E7%B2%89%E7%B4%85%E6%92%90%E5%A0%B4%E9%81%AD%E5%8B%B8%E9%98%BB-%E5%90%8C%E6%B5%B7%E5%A0%B1%E6%92%9E%E8%89%B2",
     "timestamp": "2026-03-09T08:53:27.642Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "莫奈睡蓮｜《睡蓮》《睡蓮池》真迹來港　香港藝術館4.24起免費看",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260309/1107708807376539648108542.jpeg/NyTKW_ZqI3f1-_p_yRW6uVfdVVXIV1r-s5-QSbOfkEk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60328797/%E8%8E%AB%E5%A5%88%E7%9D%A1%E8%93%AE-%E7%9D%A1%E8%93%AE-%E7%9D%A1%E8%93%AE%E6%B1%A0-%E7%9C%9F%E8%BF%B9%E4%BE%86%E6%B8%AF-%E9%A6%99%E6%B8%AF%E8%97%9D%E8%A1%93%E9%A4%A84-24%E8%B5%B7%E5%85%8D%E8%B2%BB%E7%9C%8B",
-    "timestamp": "2026-03-09T08:29:29.279Z",
     "strategy": ".content-card__main"
   }
 ];
