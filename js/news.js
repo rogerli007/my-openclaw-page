@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-09T10:27:19.422Z
+// Last updated: 2026-03-09T11:49:25.339Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "東張女神「魔」音內鬥　王嘉慧痰上頸唱腔挑機俞可程煎熬式海豚音",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260309/1107694726049435648061342.jpeg/ow7HkiT27EY01DrLvt1lrtVxBfu_MsW2GaQ4UBmkOFA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60328745/%E6%9D%B1%E5%BC%B5%E5%A5%B3%E7%A5%9E-%E9%AD%94-%E9%9F%B3%E5%85%A7%E9%AC%A5-%E7%8E%8B%E5%98%89%E6%85%A7%E7%97%B0%E4%B8%8A%E9%A0%B8%E5%94%B1%E8%85%94%E6%8C%91%E6%A9%9F%E4%BF%9E%E5%8F%AF%E7%A8%8B%E7%85%8E%E7%86%AC%E5%BC%8F%E6%B5%B7%E8%B1%9A%E9%9F%B3",
+    "timestamp": "2026-03-09T11:49:25.339Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "伊朗局勢｜「中國船」通關霍爾木茲：起底「鐵娘子號」「中海號」",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20231025/793898259025235968729854.jpeg/bFsPkbox4wy9xA_SFpltlS0oKgBF0FqscMxQknDMUJI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60328594/%E5%B1%AF%E9%A6%AC%E7%B6%AB-%E8%B7%AF%E8%BB%8C%E6%94%B9%E9%81%93%E8%B7%9F%E9%80%B2%E5%B7%A5%E5%BA%8F%E5%AE%8C%E6%88%90-%E4%BB%8A%E6%97%A5%E6%81%A2%E5%BE%A9%E6%AD%A3%E5%B8%B8%E6%9C%8D%E5%8B%99",
     "timestamp": "2026-03-08T20:59:32.835Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "伊朗局勢｜特朗普：新領袖必須經美國批准　否則不會長久",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260305/1106252420561768448972361.jpeg/0L7f09JsIXn-C8YeEr-VlQewVJ3Fd6V5FiaMMRYmjDE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60328588/%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8B%A2-%E7%89%B9%E6%9C%97%E6%99%AE-%E6%96%B0%E9%A0%98%E8%A2%96%E5%BF%85%E9%A0%88%E7%B6%93%E7%BE%8E%E5%9C%8B%E6%89%B9%E5%87%86-%E5%90%A6%E5%89%87%E4%B8%8D%E6%9C%83%E9%95%B7%E4%B9%85",
-    "timestamp": "2026-03-08T19:58:07.749Z",
     "strategy": ".content-card__main"
   }
 ];
