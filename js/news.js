@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-09T15:43:56.504Z
+// Last updated: 2026-03-09T16:14:20.060Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "「跳高女神」楊文蔚過大禮　金器擺滿枱四對重磅龍鳳鈪成焦點",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260309/1107809365026410496497530.jpeg/A3WQR6L4Azwqdq8fSwULHPbWU21zruI6S3yYIUt8mCE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60328932/%E8%B7%B3%E9%AB%98%E5%A5%B3%E7%A5%9E-%E6%A5%8A%E6%96%87%E8%94%9A%E9%81%8E%E5%A4%A7%E7%A6%AE-%E9%87%91%E5%99%A8%E6%93%BA%E6%BB%BF%E6%9E%B1%E5%9B%9B%E5%B0%8D%E9%87%8D%E7%A3%85%E9%BE%8D%E9%B3%B3%E9%88%AA%E6%88%90%E7%84%A6%E9%BB%9E",
+    "timestamp": "2026-03-09T16:14:20.060Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "五月天成團29週年　驚喜宣布調整場次將加入3月29日生日限定場",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260309/1107557196696129536307459.jpeg/V666S56_luEQwMRpP92harRjtHG8yl-mAFq6ZQBaumU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60328587/%E5%A4%A9%E6%B0%A3-%E4%BB%8A%E6%97%A5%E5%A4%A7%E8%87%B4%E5%A4%9A%E9%9B%B2%E6%9C%80%E9%AB%9822%E5%BA%A6-%E6%99%9A%E4%B8%8A%E6%9C%89%E4%B8%80%E5%85%A9%E9%99%A3%E5%BE%AE%E9%9B%A8",
     "timestamp": "2026-03-08T22:12:54.396Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "屯馬綫｜路軌改道跟進工序完成　今日恢復正常服務",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20231025/793898259025235968729854.jpeg/bFsPkbox4wy9xA_SFpltlS0oKgBF0FqscMxQknDMUJI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60328594/%E5%B1%AF%E9%A6%AC%E7%B6%AB-%E8%B7%AF%E8%BB%8C%E6%94%B9%E9%81%93%E8%B7%9F%E9%80%B2%E5%B7%A5%E5%BA%8F%E5%AE%8C%E6%88%90-%E4%BB%8A%E6%97%A5%E6%81%A2%E5%BE%A9%E6%AD%A3%E5%B8%B8%E6%9C%8D%E5%8B%99",
-    "timestamp": "2026-03-08T21:57:05.834Z",
     "strategy": ".content-card__main"
   }
 ];
