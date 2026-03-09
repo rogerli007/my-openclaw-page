@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-09T12:29:14.459Z
+// Last updated: 2026-03-09T13:39:10.951Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "來稿｜香港樂齡科技「北上」　服務內蒙養老剛需",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260309/1107750501056778240791845.jpeg/zN2sszf_3EAzNrJmBKBEMrZh3r8v7SZwHT9uzB0_bsw?v=w1920r16_9",
+    "url": "https://www.hk01.com/01%E8%AB%96%E5%A3%87/60328835/%E4%BE%86%E7%A8%BF-%E9%A6%99%E6%B8%AF%E6%A8%82%E9%BD%A1%E7%A7%91%E6%8A%80-%E5%8C%97%E4%B8%8A-%E6%9C%8D%E5%8B%99%E5%85%A7%E8%92%99%E9%A4%8A%E8%80%81%E5%89%9B%E9%9C%80",
+    "timestamp": "2026-03-09T13:39:10.951Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "伊朗局勢｜比哈梅內伊更強硬　穆傑塔巴接任最高領袖意味着什麽？",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20231025/793898259025235968729854.jpeg/bFsPkbox4wy9xA_SFpltlS0oKgBF0FqscMxQknDMUJI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60328594/%E5%B1%AF%E9%A6%AC%E7%B6%AB-%E8%B7%AF%E8%BB%8C%E6%94%B9%E9%81%93%E8%B7%9F%E9%80%B2%E5%B7%A5%E5%BA%8F%E5%AE%8C%E6%88%90-%E4%BB%8A%E6%97%A5%E6%81%A2%E5%BE%A9%E6%AD%A3%E5%B8%B8%E6%9C%8D%E5%8B%99",
     "timestamp": "2026-03-08T21:32:23.552Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "屯馬綫｜路軌改道跟進工序完成　今日恢復正常服務",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20231025/793898259025235968729854.jpeg/bFsPkbox4wy9xA_SFpltlS0oKgBF0FqscMxQknDMUJI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60328594/%E5%B1%AF%E9%A6%AC%E7%B6%AB-%E8%B7%AF%E8%BB%8C%E6%94%B9%E9%81%93%E8%B7%9F%E9%80%B2%E5%B7%A5%E5%BA%8F%E5%AE%8C%E6%88%90-%E4%BB%8A%E6%97%A5%E6%81%A2%E5%BE%A9%E6%AD%A3%E5%B8%B8%E6%9C%8D%E5%8B%99",
-    "timestamp": "2026-03-08T21:14:12.558Z",
     "strategy": ".content-card__main"
   }
 ];
