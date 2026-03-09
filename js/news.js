@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-09T07:40:45.007Z
+// Last updated: 2026-03-09T08:29:29.279Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "莫奈睡蓮｜《睡蓮》《睡蓮池》真迹來港　香港藝術館4.24起免費看",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260309/1107708807376539648108542.jpeg/NyTKW_ZqI3f1-_p_yRW6uVfdVVXIV1r-s5-QSbOfkEk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60328797/%E8%8E%AB%E5%A5%88%E7%9D%A1%E8%93%AE-%E7%9D%A1%E8%93%AE-%E7%9D%A1%E8%93%AE%E6%B1%A0-%E7%9C%9F%E8%BF%B9%E4%BE%86%E6%B8%AF-%E9%A6%99%E6%B8%AF%E8%97%9D%E8%A1%93%E9%A4%A84-24%E8%B5%B7%E5%85%8D%E8%B2%BB%E7%9C%8B",
+    "timestamp": "2026-03-09T08:29:29.279Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "OpenClaw成為老少皆宜工具？全民瘋養AI龍蝦　這漏洞恐洩個人私隱",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260309/1107487528060981248396810.png/Hjq8uEgmc8uEBrMQRYWcUHgKvoukOEv0acqiTWnKok0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60328583/%E8%91%97%E5%90%8D%E6%96%87%E5%8F%B2%E5%AD%B8%E5%AE%B6%E9%99%B3%E8%80%80%E5%8D%97%E9%9B%A2%E4%B8%96%E5%B9%B485%E6%AD%B2-%E5%AD%B8%E7%94%9F%E5%8C%85%E6%8B%AC%E8%A8%B1%E5%86%A0%E5%82%91-%E6%A2%81%E9%8C%A6%E6%9D%BE%E7%AD%89",
     "timestamp": "2026-03-08T18:17:05.797Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "伊朗外長：不會停火或無條件投降　特朗普應為發動戰事道歉",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260306/1106407685084942336154938.jpeg/W16w0BiSddDvg5iB6pIof7IO3GPtIpRHRsbpHUbG6R0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60328577/%E4%BC%8A%E6%9C%97%E5%A4%96%E9%95%B7-%E4%B8%8D%E6%9C%83%E5%81%9C%E7%81%AB%E6%88%96%E7%84%A1%E6%A2%9D%E4%BB%B6%E6%8A%95%E9%99%8D-%E7%89%B9%E6%9C%97%E6%99%AE%E6%87%89%E7%82%BA%E7%99%BC%E5%8B%95%E6%88%B0%E4%BA%8B%E9%81%93%E6%AD%89",
-    "timestamp": "2026-03-08T17:32:39.743Z",
     "strategy": ".content-card__main"
   }
 ];
