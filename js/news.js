@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-09T21:24:31.535Z
+// Last updated: 2026-03-09T21:49:25.477Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "伊朗局勢｜特朗普稱戰爭或將結束　油價曾倒跌逾10%",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20221221/682217315227406336029748.jpeg/XljmGFt5bx8L80Un2M9UwDA2UntL2wUOhOOj_ITjo_w?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60328961/%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8B%A2-%E7%89%B9%E6%9C%97%E6%99%AE%E7%A8%B1%E6%88%B0%E7%88%AD%E6%88%96%E5%B0%87%E7%B5%90%E6%9D%9F-%E6%B2%B9%E5%83%B9%E6%9B%BE%E5%80%92%E8%B7%8C%E9%80%BE10",
+    "timestamp": "2026-03-09T21:49:25.477Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "伊朗局勢｜特朗普稱戰爭或將結束　油價曾倒跌逾10%",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260309/1107697558894940160614932.jpeg/j4p2KsQW_mKkV-7PRSAW2PhdQ0brOMvbgaH_8oGh__I?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60328741/openclaw%E6%88%90%E7%82%BA%E8%80%81%E5%B0%91%E7%9A%86%E5%AE%9C%E5%B7%A5%E5%85%B7-%E5%85%A8%E6%B0%91%E7%98%8B%E9%A4%8Aai%E9%BE%8D%E8%9D%A6-%E9%80%99%E6%BC%8F%E6%B4%9E%E6%81%90%E6%B4%A9%E5%80%8B%E4%BA%BA%E7%A7%81%E9%9A%B1",
     "timestamp": "2026-03-09T07:40:45.007Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "伊朗局勢｜G7據報開緊急會議商釋放應急石油儲備　油價升幅急收窄",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20240824/903864736460836864986702.jpeg/Q5jnRNhtVcG5X3770_6NMnZIDzgg4dHmaBT_3WgU_90?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60328718/%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8B%A2-g7%E6%93%9A%E5%A0%B1%E9%96%8B%E7%B7%8A%E6%80%A5%E6%9C%83%E8%AD%B0%E5%95%86%E9%87%8B%E6%94%BE%E6%87%89%E6%80%A5%E7%9F%B3%E6%B2%B9%E5%84%B2%E5%82%99-%E6%B2%B9%E5%83%B9%E5%8D%87%E5%B9%85%E6%80%A5%E6%94%B6%E7%AA%84",
-    "timestamp": "2026-03-09T05:45:12.282Z",
     "strategy": ".content-card__main"
   }
 ];
