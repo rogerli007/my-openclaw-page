@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-09T01:18:58.797Z
+// Last updated: 2026-03-09T03:21:09.595Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "香港策劃多啦A夢展3.27起東京登場　多啦A夢櫻花節4月銅鑼灣舉行",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260309/1107536004484435968637590.jpeg/SGMNXr--L0PTz-IKOALQH3WOG7ThWE7BGQM9HhkDPR4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60328595/%E9%A6%99%E6%B8%AF%E7%AD%96%E5%8A%83%E5%A4%9A%E5%95%A6a%E5%A4%A2%E5%B1%953-27%E8%B5%B7%E6%9D%B1%E4%BA%AC%E7%99%BB%E5%A0%B4-%E5%A4%9A%E5%95%A6a%E5%A4%A2%E6%AB%BB%E8%8A%B1%E7%AF%804%E6%9C%88%E9%8A%85%E9%91%BC%E7%81%A3%E8%88%89%E8%A1%8C",
+    "timestamp": "2026-03-09T03:21:09.595Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "丈夫半夜臉發黑妻子嚇怕！血氧剩55%　醫生：幾乎每分鐘都在缺氧",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260308/1107440509363687424058794.jpeg/IlieCLZCzdclB7HKLXBQ4KTmzFVYARyulUGFYpVBhWI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60328562/%E4%BD%98%E8%A9%A9%E6%9B%BC%E8%A6%AA%E5%9B%9E%E5%B8%B6%E6%8C%88tvb%E8%BD%89%E8%99%A7%E7%82%BA%E7%9B%88-%E9%82%8A%E5%80%8B%E5%94%94%E6%83%B3%E8%B3%BA%E9%8C%A2-%E6%86%B6%E5%91%A2%E5%80%8B%E8%A7%92%E8%89%B2%E6%9C%80%E9%9B%A3%E6%8A%BD%E9%9B%A2",
     "timestamp": "2026-03-08T15:45:36.902Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "肺部有6厘米腫瘤！她稱「回家想想」無覆診　4個月後惡化成未期癌",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260308/1107201400749690880560324.png/w11xht14MXoJ6TDnlf1F2Ch2t7h_tCasw_LRxsPy0cY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60328393/%E8%82%BA%E9%83%A8%E6%9C%896%E5%8E%98%E7%B1%B3%E8%85%AB%E7%98%A4-%E5%A5%B9%E7%A8%B1-%E5%9B%9E%E5%AE%B6%E6%83%B3%E6%83%B3-%E7%84%A1%E8%A6%86%E8%A8%BA-4%E5%80%8B%E6%9C%88%E5%BE%8C%E6%83%A1%E5%8C%96%E6%88%90%E6%9C%AA%E6%9C%9F%E7%99%8C",
-    "timestamp": "2026-03-08T15:13:56.698Z",
     "strategy": ".content-card__main"
   }
 ];
