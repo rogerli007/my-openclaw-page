@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-09T08:53:27.642Z
+// Last updated: 2026-03-09T09:28:55.745Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "安全帶之亂｜前局長陳帆有份參與法例：行政主導下市民有責任承擔",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250609/1008731928020389888841076.jpeg/GabqfSW3U9ElCzCIOU7GDm_gfFrRJDGnYXmmqER5pqg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60328811/%E5%AE%89%E5%85%A8%E5%B8%B6%E4%B9%8B%E4%BA%82-%E5%89%8D%E5%B1%80%E9%95%B7%E9%99%B3%E5%B8%86%E6%9C%89%E4%BB%BD%E5%8F%83%E8%88%87%E6%B3%95%E4%BE%8B-%E8%A1%8C%E6%94%BF%E4%B8%BB%E5%B0%8E%E4%B8%8B%E5%B8%82%E6%B0%91%E6%9C%89%E8%B2%AC%E4%BB%BB%E6%89%BF%E6%93%94",
+    "timestamp": "2026-03-09T09:28:55.745Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "方力申開演唱會記招　尹光原想着粉紅撐場遭勸阻：同海報撞色",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260305/1106252420561768448972361.jpeg/0L7f09JsIXn-C8YeEr-VlQewVJ3Fd6V5FiaMMRYmjDE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60328588/%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8B%A2-%E7%89%B9%E6%9C%97%E6%99%AE-%E6%96%B0%E9%A0%98%E8%A2%96%E5%BF%85%E9%A0%88%E7%B6%93%E7%BE%8E%E5%9C%8B%E6%89%B9%E5%87%86-%E5%90%A6%E5%89%87%E4%B8%8D%E6%9C%83%E9%95%B7%E4%B9%85",
     "timestamp": "2026-03-08T19:45:18.540Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "伊朗局勢｜特朗普：新領袖必須經美國批准　否則不會長久",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260305/1106252420561768448972361.jpeg/0L7f09JsIXn-C8YeEr-VlQewVJ3Fd6V5FiaMMRYmjDE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60328588/%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8B%A2-%E7%89%B9%E6%9C%97%E6%99%AE-%E6%96%B0%E9%A0%98%E8%A2%96%E5%BF%85%E9%A0%88%E7%B6%93%E7%BE%8E%E5%9C%8B%E6%89%B9%E5%87%86-%E5%90%A6%E5%89%87%E4%B8%8D%E6%9C%83%E9%95%B7%E4%B9%85",
-    "timestamp": "2026-03-08T19:33:05.320Z",
     "strategy": ".content-card__main"
   }
 ];
