@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-09T16:41:31.331Z
+// Last updated: 2026-03-09T17:12:09.197Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "「星二代」魔童赴英留學前曾當《歌手2025》實習生　被爆超愛音樂",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260309/1107765790993551360501936.jpeg/5EmFbpSfut7t961z5HAF1AQahbwd5zcnbhKKd24Sinc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60328897/%E6%98%9F%E4%BA%8C%E4%BB%A3-%E9%AD%94%E7%AB%A5%E8%B5%B4%E8%8B%B1%E7%95%99%E5%AD%B8%E5%89%8D%E6%9B%BE%E7%95%B6-%E6%AD%8C%E6%89%8B2025-%E5%AF%A6%E7%BF%92%E7%94%9F-%E8%A2%AB%E7%88%86%E8%B6%85%E6%84%9B%E9%9F%B3%E6%A8%82",
+    "timestamp": "2026-03-09T17:12:09.197Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "港產AV女優素海霖回應「做雞」標籤指網民妒忌　爆曾遭強吻性騷擾",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20241004/918719466295005184417092.jpeg/72rRTdU3_HN-MTQNG4w9xlFUehCBhqbIbaL7-G2i-_g?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60328596/%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8B%A2-%E7%B4%90%E7%B4%84%E6%9C%9F%E6%B2%B9%E6%9B%BE%E5%8D%87%E7%A9%BF110%E7%BE%8E%E5%85%83-%E6%BC%B2%E5%B9%85%E9%80%BE21",
     "timestamp": "2026-03-08T22:59:21.420Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "伊朗局勢｜紐約期油曾升穿110美元　漲幅逾21%",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20241004/918719466295005184417092.jpeg/72rRTdU3_HN-MTQNG4w9xlFUehCBhqbIbaL7-G2i-_g?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60328596/%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8B%A2-%E7%B4%90%E7%B4%84%E6%9C%9F%E6%B2%B9%E6%9B%BE%E5%8D%87%E7%A9%BF110%E7%BE%8E%E5%85%83-%E6%BC%B2%E5%B9%85%E9%80%BE21",
-    "timestamp": "2026-03-08T22:46:57.682Z",
     "strategy": ".content-card__main"
   }
 ];
