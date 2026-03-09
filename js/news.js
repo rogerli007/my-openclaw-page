@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-09T00:44:59.858Z
+// Last updated: 2026-03-09T01:18:58.797Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "丈夫半夜臉發黑妻子嚇怕！血氧剩55%　醫生：幾乎每分鐘都在缺氧",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260305/1106308499622596608740532.jpeg/nPBpDLSLsJiyZkcH9P5Cmc2AEH0VT1E-Mmq07TJqtO0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60327494/%E4%B8%88%E5%A4%AB%E5%8D%8A%E5%A4%9C%E8%87%89%E7%99%BC%E9%BB%91%E5%A6%BB%E5%AD%90%E5%9A%87%E6%80%95-%E8%A1%80%E6%B0%A7%E5%89%A955-%E9%86%AB%E7%94%9F-%E5%B9%BE%E4%B9%8E%E6%AF%8F%E5%88%86%E9%90%98%E9%83%BD%E5%9C%A8%E7%BC%BA%E6%B0%A7",
+    "timestamp": "2026-03-09T01:18:58.797Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "中國遊客困杜拜　有人經歷7次航班取消用5.4萬元買頭等艙機票回國",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260308/1107201400749690880560324.png/w11xht14MXoJ6TDnlf1F2Ch2t7h_tCasw_LRxsPy0cY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60328393/%E8%82%BA%E9%83%A8%E6%9C%896%E5%8E%98%E7%B1%B3%E8%85%AB%E7%98%A4-%E5%A5%B9%E7%A8%B1-%E5%9B%9E%E5%AE%B6%E6%83%B3%E6%83%B3-%E7%84%A1%E8%A6%86%E8%A8%BA-4%E5%80%8B%E6%9C%88%E5%BE%8C%E6%83%A1%E5%8C%96%E6%88%90%E6%9C%AA%E6%9C%9F%E7%99%8C",
     "timestamp": "2026-03-08T15:13:56.698Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "學校團體還是邪教？美大學兄弟會詭異儀式曝光　56人半裸被潑廚餘",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260305/1106286530286063616304296.jpeg/BHk-MFpGw_u7gAw9G0DU9fU6XPS2dQCP9cBT0fXAU9E?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E8%A9%B1%E9%A1%8C/60325800/%E5%AD%B8%E6%A0%A1%E5%9C%98%E9%AB%94%E9%82%84%E6%98%AF%E9%82%AA%E6%95%99-%E7%BE%8E%E5%A4%A7%E5%AD%B8%E5%85%84%E5%BC%9F%E6%9C%83%E8%A9%AD%E7%95%B0%E5%84%80%E5%BC%8F%E6%9B%9D%E5%85%89-56%E4%BA%BA%E5%8D%8A%E8%A3%B8%E8%A2%AB%E6%BD%91%E5%BB%9A%E9%A4%98",
-    "timestamp": "2026-03-08T14:47:12.282Z",
     "strategy": ".content-card__main"
   }
 ];
