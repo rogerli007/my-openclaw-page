@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-09T13:39:10.951Z
+// Last updated: 2026-03-09T15:12:41.718Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美股｜道指早段曾挫近900點　三大指數跌逾1%",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260302/1105275351317090304780532.jpeg/DkKPKUERGlflcuBT2zdsfcAaC6kyyc-BZYvINmWLyDY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60328933/%E7%BE%8E%E8%82%A1-%E9%81%93%E6%8C%87%E6%97%A9%E6%AE%B5%E6%9B%BE%E6%8C%AB%E8%BF%91900%E9%BB%9E-%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B8%E8%B7%8C%E9%80%BE1",
+    "timestamp": "2026-03-09T15:12:41.718Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "來稿｜香港樂齡科技「北上」　服務內蒙養老剛需",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20231025/793898259025235968729854.jpeg/bFsPkbox4wy9xA_SFpltlS0oKgBF0FqscMxQknDMUJI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60328594/%E5%B1%AF%E9%A6%AC%E7%B6%AB-%E8%B7%AF%E8%BB%8C%E6%94%B9%E9%81%93%E8%B7%9F%E9%80%B2%E5%B7%A5%E5%BA%8F%E5%AE%8C%E6%88%90-%E4%BB%8A%E6%97%A5%E6%81%A2%E5%BE%A9%E6%AD%A3%E5%B8%B8%E6%9C%8D%E5%8B%99",
     "timestamp": "2026-03-08T21:45:37.728Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "屯馬綫｜路軌改道跟進工序完成　今日恢復正常服務",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20231025/793898259025235968729854.jpeg/bFsPkbox4wy9xA_SFpltlS0oKgBF0FqscMxQknDMUJI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60328594/%E5%B1%AF%E9%A6%AC%E7%B6%AB-%E8%B7%AF%E8%BB%8C%E6%94%B9%E9%81%93%E8%B7%9F%E9%80%B2%E5%B7%A5%E5%BA%8F%E5%AE%8C%E6%88%90-%E4%BB%8A%E6%97%A5%E6%81%A2%E5%BE%A9%E6%AD%A3%E5%B8%B8%E6%9C%8D%E5%8B%99",
-    "timestamp": "2026-03-08T21:32:23.552Z",
     "strategy": ".content-card__main"
   }
 ];
