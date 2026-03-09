@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-09T17:12:09.197Z
+// Last updated: 2026-03-09T17:38:08.138Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "兩會｜朱葉玉如：香港應發揮教育科研所長　主動參與國家戰略佈局",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260310/1107841726099230720437125.jpeg/5JAX6vd_ewKJiL9NCl29YLIixfqEbAPGoeV-VqHlflY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60328945/%E5%85%A9%E6%9C%83-%E6%9C%B1%E8%91%89%E7%8E%89%E5%A6%82-%E9%A6%99%E6%B8%AF%E6%87%89%E7%99%BC%E6%8F%AE%E6%95%99%E8%82%B2%E7%A7%91%E7%A0%94%E6%89%80%E9%95%B7-%E4%B8%BB%E5%8B%95%E5%8F%83%E8%88%87%E5%9C%8B%E5%AE%B6%E6%88%B0%E7%95%A5%E4%BD%88%E5%B1%80",
+    "timestamp": "2026-03-09T17:38:08.138Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "「星二代」魔童赴英留學前曾當《歌手2025》實習生　被爆超愛音樂",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250829/1038113717776027648927184.jpeg/koxsHPa9JUt7qpSs0QRQ6S-OrAB8E_N6cFi36XBYt-k?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60328598/%E6%B7%B1%E6%B0%B4%E5%9F%97%E5%94%90%E6%A8%93%E7%94%B7%E4%B8%8D%E5%A0%AA%E5%A6%BB%E9%81%AD%E5%B7%B4%E8%A3%94%E7%94%B7%E9%9D%9E%E7%A6%AE-%E6%86%A4%E7%84%B6%E7%90%86%E8%AB%96%E9%81%AD%E8%A5%B2%E6%93%8A-40%E6%AD%B2%E7%94%B7%E5%AD%90%E8%A2%AB%E6%8D%95",
     "timestamp": "2026-03-08T23:50:54.961Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "伊朗局勢｜紐約期油曾升穿110美元　漲幅逾21%",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20241004/918719466295005184417092.jpeg/72rRTdU3_HN-MTQNG4w9xlFUehCBhqbIbaL7-G2i-_g?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60328596/%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8B%A2-%E7%B4%90%E7%B4%84%E6%9C%9F%E6%B2%B9%E6%9B%BE%E5%8D%87%E7%A9%BF110%E7%BE%8E%E5%85%83-%E6%BC%B2%E5%B9%85%E9%80%BE21",
-    "timestamp": "2026-03-08T22:59:21.420Z",
     "strategy": ".content-card__main"
   }
 ];
