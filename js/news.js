@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-09T21:49:25.477Z
+// Last updated: 2026-03-09T22:35:56.945Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "馮盈盈醫生舊愛開專科診所　另一港姐冠軍到賀與主角夫婦同框合照",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260309/1107796610319912960753940.jpeg/Rb9D5XqeShYE1aJ7Mu6_VplUVaARRLnArhv6-64b-vs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60328885/%E9%A6%AE%E7%9B%88%E7%9B%88%E9%86%AB%E7%94%9F%E8%88%8A%E6%84%9B%E9%96%8B%E5%B0%88%E7%A7%91%E8%A8%BA%E6%89%80-%E5%8F%A6%E4%B8%80%E6%B8%AF%E5%A7%90%E5%86%A0%E8%BB%8D%E5%88%B0%E8%B3%80%E8%88%87%E4%B8%BB%E8%A7%92%E5%A4%AB%E5%A9%A6%E5%90%8C%E6%A1%86%E5%90%88%E7%85%A7",
+    "timestamp": "2026-03-09T22:35:56.945Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "伊朗局勢｜特朗普稱戰爭或將結束　油價曾倒跌逾10%",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260309/1107708807376539648108542.jpeg/NyTKW_ZqI3f1-_p_yRW6uVfdVVXIV1r-s5-QSbOfkEk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60328797/%E8%8E%AB%E5%A5%88%E7%9D%A1%E8%93%AE-%E7%9D%A1%E8%93%AE-%E7%9D%A1%E8%93%AE%E6%B1%A0-%E7%9C%9F%E8%BF%B9%E4%BE%86%E6%B8%AF-%E9%A6%99%E6%B8%AF%E8%97%9D%E8%A1%93%E9%A4%A84-24%E8%B5%B7%E5%85%8D%E8%B2%BB%E7%9C%8B",
     "timestamp": "2026-03-09T08:29:29.279Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "OpenClaw成為老少皆宜工具？全民瘋養AI龍蝦　這漏洞恐洩個人私隱",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260309/1107697558894940160614932.jpeg/j4p2KsQW_mKkV-7PRSAW2PhdQ0brOMvbgaH_8oGh__I?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60328741/openclaw%E6%88%90%E7%82%BA%E8%80%81%E5%B0%91%E7%9A%86%E5%AE%9C%E5%B7%A5%E5%85%B7-%E5%85%A8%E6%B0%91%E7%98%8B%E9%A4%8Aai%E9%BE%8D%E8%9D%A6-%E9%80%99%E6%BC%8F%E6%B4%9E%E6%81%90%E6%B4%A9%E5%80%8B%E4%BA%BA%E7%A7%81%E9%9A%B1",
-    "timestamp": "2026-03-09T07:40:45.007Z",
     "strategy": ".content-card__main"
   }
 ];
