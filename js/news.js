@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-09T16:14:20.060Z
+// Last updated: 2026-03-09T16:41:31.331Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "港產AV女優素海霖回應「做雞」標籤指網民妒忌　爆曾遭強吻性騷擾",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260309/1107726480827224064962034.jpeg/SMggngu9Q4YbGy0o7iYfmwt5VjgP93j5uF7oy7he6Ms?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E5%A8%9B%E6%A8%82/60328822/%E6%B8%AF%E7%94%A2av%E5%A5%B3%E5%84%AA%E7%B4%A0%E6%B5%B7%E9%9C%96%E5%9B%9E%E6%87%89-%E5%81%9A%E9%9B%9E-%E6%A8%99%E7%B1%A4%E6%8C%87%E7%B6%B2%E6%B0%91%E5%A6%92%E5%BF%8C-%E7%88%86%E6%9B%BE%E9%81%AD%E5%BC%B7%E5%90%BB%E6%80%A7%E9%A8%B7%E6%93%BE",
+    "timestamp": "2026-03-09T16:41:31.331Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "「跳高女神」楊文蔚過大禮　金器擺滿枱四對重磅龍鳳鈪成焦點",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20241004/918719466295005184417092.jpeg/72rRTdU3_HN-MTQNG4w9xlFUehCBhqbIbaL7-G2i-_g?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60328596/%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8B%A2-%E7%B4%90%E7%B4%84%E6%9C%9F%E6%B2%B9%E6%9B%BE%E5%8D%87%E7%A9%BF110%E7%BE%8E%E5%85%83-%E6%BC%B2%E5%B9%85%E9%80%BE21",
     "timestamp": "2026-03-08T22:46:57.682Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "天氣｜今日大致多雲最高22度　晚上有一兩陣微雨",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260309/1107557196696129536307459.jpeg/V666S56_luEQwMRpP92harRjtHG8yl-mAFq6ZQBaumU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60328587/%E5%A4%A9%E6%B0%A3-%E4%BB%8A%E6%97%A5%E5%A4%A7%E8%87%B4%E5%A4%9A%E9%9B%B2%E6%9C%80%E9%AB%9822%E5%BA%A6-%E6%99%9A%E4%B8%8A%E6%9C%89%E4%B8%80%E5%85%A9%E9%99%A3%E5%BE%AE%E9%9B%A8",
-    "timestamp": "2026-03-08T22:12:54.396Z",
     "strategy": ".content-card__main"
   }
 ];
