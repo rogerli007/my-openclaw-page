@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-10T10:24:08.764Z
+// Last updated: 2026-03-10T10:52:36.743Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "九龍城寨｜胡子彤未聞洽談木村拓哉　率先爆十二少劇情︰會再斷腳",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260310/1108105891615346688417208.jpeg/0uBt0Whx0wEPfqaJosd_c3EmjnlQK2P1mHiV_Zh4lf0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60329224/%E4%B9%9D%E9%BE%8D%E5%9F%8E%E5%AF%A8-%E8%83%A1%E5%AD%90%E5%BD%A4%E6%9C%AA%E8%81%9E%E6%B4%BD%E8%AB%87%E6%9C%A8%E6%9D%91%E6%8B%93%E5%93%89-%E7%8E%87%E5%85%88%E7%88%86%E5%8D%81%E4%BA%8C%E5%B0%91%E5%8A%87%E6%83%85-%E6%9C%83%E5%86%8D%E6%96%B7%E8%85%B3",
+    "timestamp": "2026-03-10T10:52:36.743Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "馮宜萱「有眼無珠妝」紅到日韓　網民創意大爆發　竟撞臉日本諧星",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260309/1107765790993551360501936.jpeg/5EmFbpSfut7t961z5HAF1AQahbwd5zcnbhKKd24Sinc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60328897/%E6%98%9F%E4%BA%8C%E4%BB%A3-%E9%AD%94%E7%AB%A5%E8%B5%B4%E8%8B%B1%E7%95%99%E5%AD%B8%E5%89%8D%E6%9B%BE%E7%95%B6-%E6%AD%8C%E6%89%8B2025-%E5%AF%A6%E7%BF%92%E7%94%9F-%E8%A2%AB%E7%88%86%E8%B6%85%E6%84%9B%E9%9F%B3%E6%A8%82",
     "timestamp": "2026-03-09T17:12:09.197Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "港產AV女優素海霖回應「做雞」標籤指網民妒忌　爆曾遭強吻性騷擾",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260309/1107726480827224064962034.jpeg/SMggngu9Q4YbGy0o7iYfmwt5VjgP93j5uF7oy7he6Ms?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E5%A8%9B%E6%A8%82/60328822/%E6%B8%AF%E7%94%A2av%E5%A5%B3%E5%84%AA%E7%B4%A0%E6%B5%B7%E9%9C%96%E5%9B%9E%E6%87%89-%E5%81%9A%E9%9B%9E-%E6%A8%99%E7%B1%A4%E6%8C%87%E7%B6%B2%E6%B0%91%E5%A6%92%E5%BF%8C-%E7%88%86%E6%9B%BE%E9%81%AD%E5%BC%B7%E5%90%BB%E6%80%A7%E9%A8%B7%E6%93%BE",
-    "timestamp": "2026-03-09T16:41:31.331Z",
     "strategy": ".content-card__main"
   }
 ];
