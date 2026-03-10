@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-10T05:33:13.795Z
+// Last updated: 2026-03-10T08:22:46.792Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "日本岡山裸男祭爆混亂　48歲男留醫多天後死亡　另有人仍昏迷",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260224/1103079621798137856760194.jpeg/_m33fVeXVoylfeXEQdI5j5t0i3uLFt-gcKN_x3Cjf8c?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60329125/%E6%97%A5%E6%9C%AC%E5%B2%A1%E5%B1%B1%E8%A3%B8%E7%94%B7%E7%A5%AD%E7%88%86%E6%B7%B7%E4%BA%82-48%E6%AD%B2%E7%94%B7%E7%95%99%E9%86%AB%E5%A4%9A%E5%A4%A9%E5%BE%8C%E6%AD%BB%E4%BA%A1-%E5%8F%A6%E6%9C%89%E4%BA%BA%E4%BB%8D%E6%98%8F%E8%BF%B7",
+    "timestamp": "2026-03-10T08:22:46.792Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "今年前2個月　中國外貿增速重回兩位數至18.3%",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260309/1107817849310679040790548.jpeg/rPZ5WWqPcc4291kx6LEaGJ6vnzP77sRwyPwdZcj8HWU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60328936/%E4%BA%94%E6%9C%88%E5%A4%A9%E6%88%90%E5%9C%9829%E9%80%B1%E5%B9%B4-%E9%A9%9A%E5%96%9C%E5%AE%A3%E5%B8%83%E8%AA%BF%E6%95%B4%E5%A0%B4%E6%AC%A1%E5%B0%87%E5%8A%A0%E5%85%A53%E6%9C%8829%E6%97%A5%E7%94%9F%E6%97%A5%E9%99%90%E5%AE%9A%E5%A0%B4",
     "timestamp": "2026-03-09T15:43:56.504Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美股｜道指早段曾挫近900點　三大指數跌逾1%",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260302/1105275351317090304780532.jpeg/DkKPKUERGlflcuBT2zdsfcAaC6kyyc-BZYvINmWLyDY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60328933/%E7%BE%8E%E8%82%A1-%E9%81%93%E6%8C%87%E6%97%A9%E6%AE%B5%E6%9B%BE%E6%8C%AB%E8%BF%91900%E9%BB%9E-%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B8%E8%B7%8C%E9%80%BE1",
-    "timestamp": "2026-03-09T15:12:41.718Z",
     "strategy": ".content-card__main"
   }
 ];
