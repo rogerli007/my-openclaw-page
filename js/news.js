@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-10T03:26:16.273Z
+// Last updated: 2026-03-10T05:04:27.584Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "巴黎時裝周｜5大本地品牌登上國際時尚舞台：關智斌、森美都曾穿",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260309/1107743076165619712591483.jpeg/7RBGRV19xYudV9LmxbGYuGOIPCS8G7T0V7h9iVe4fYk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A9%BF%E6%90%AD%E7%AD%86%E8%A8%98/60328714/%E5%B7%B4%E9%BB%8E%E6%99%82%E8%A3%9D%E5%91%A8-5%E5%A4%A7%E6%9C%AC%E5%9C%B0%E5%93%81%E7%89%8C%E7%99%BB%E4%B8%8A%E5%9C%8B%E9%9A%9B%E6%99%82%E5%B0%9A%E8%88%9E%E5%8F%B0-%E9%97%9C%E6%99%BA%E6%96%8C-%E6%A3%AE%E7%BE%8E%E9%83%BD%E6%9B%BE%E7%A9%BF",
+    "timestamp": "2026-03-10T05:04:27.584Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "11歲女童感冒後暈倒離世驗出B19病毒　3類人士高危附第五病病徵",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260309/1107750501056778240791845.jpeg/zN2sszf_3EAzNrJmBKBEMrZh3r8v7SZwHT9uzB0_bsw?v=w1920r16_9",
     "url": "https://www.hk01.com/01%E8%AB%96%E5%A3%87/60328835/%E4%BE%86%E7%A8%BF-%E9%A6%99%E6%B8%AF%E6%A8%82%E9%BD%A1%E7%A7%91%E6%8A%80-%E5%8C%97%E4%B8%8A-%E6%9C%8D%E5%8B%99%E5%85%A7%E8%92%99%E9%A4%8A%E8%80%81%E5%89%9B%E9%9C%80",
     "timestamp": "2026-03-09T13:39:10.951Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "伊朗局勢｜比哈梅內伊更強硬　穆傑塔巴接任最高領袖意味着什麽？",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260309/1107771198449651712615827.jpeg/GXIwBADgAawZAVL-vNB3dURG_LmYWVdFAIqF2QCKhdk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60328862/%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8B%A2-%E6%AF%94%E5%93%88%E6%A2%85%E5%85%A7%E4%BC%8A%E6%9B%B4%E5%BC%B7%E7%A1%AC-%E7%A9%86%E5%82%91%E5%A1%94%E5%B7%B4%E6%8E%A5%E4%BB%BB%E6%9C%80%E9%AB%98%E9%A0%98%E8%A2%96%E6%84%8F%E5%91%B3%E7%9D%80%E4%BB%80%E9%BA%BD",
-    "timestamp": "2026-03-09T12:29:14.459Z",
     "strategy": ".content-card__main"
   }
 ];
