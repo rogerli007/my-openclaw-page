@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-10T05:04:27.584Z
+// Last updated: 2026-03-10T05:33:13.795Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "今年前2個月　中國外貿增速重回兩位數至18.3%",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260310/1108021963915268096813697.jpeg/FoXCPAd7Cww4PENs_UewKHVv0XMCk8ERwblqR8G5akc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60329053/%E4%BB%8A%E5%B9%B4%E5%89%8D2%E5%80%8B%E6%9C%88-%E4%B8%AD%E5%9C%8B%E5%A4%96%E8%B2%BF%E5%A2%9E%E9%80%9F%E9%87%8D%E5%9B%9E%E5%85%A9%E4%BD%8D%E6%95%B8%E8%87%B318-3",
+    "timestamp": "2026-03-10T05:33:13.795Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "巴黎時裝周｜5大本地品牌登上國際時尚舞台：關智斌、森美都曾穿",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260302/1105275351317090304780532.jpeg/DkKPKUERGlflcuBT2zdsfcAaC6kyyc-BZYvINmWLyDY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60328933/%E7%BE%8E%E8%82%A1-%E9%81%93%E6%8C%87%E6%97%A9%E6%AE%B5%E6%9B%BE%E6%8C%AB%E8%BF%91900%E9%BB%9E-%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B8%E8%B7%8C%E9%80%BE1",
     "timestamp": "2026-03-09T15:12:41.718Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "來稿｜香港樂齡科技「北上」　服務內蒙養老剛需",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260309/1107750501056778240791845.jpeg/zN2sszf_3EAzNrJmBKBEMrZh3r8v7SZwHT9uzB0_bsw?v=w1920r16_9",
-    "url": "https://www.hk01.com/01%E8%AB%96%E5%A3%87/60328835/%E4%BE%86%E7%A8%BF-%E9%A6%99%E6%B8%AF%E6%A8%82%E9%BD%A1%E7%A7%91%E6%8A%80-%E5%8C%97%E4%B8%8A-%E6%9C%8D%E5%8B%99%E5%85%A7%E8%92%99%E9%A4%8A%E8%80%81%E5%89%9B%E9%9C%80",
-    "timestamp": "2026-03-09T13:39:10.951Z",
     "strategy": ".content-card__main"
   }
 ];
