@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-10T12:06:13.026Z
+// Last updated: 2026-03-10T12:25:43.301Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "清明節｜食環署轄下骨灰安置所3月14日至4月19日朝7晚7開放供拜祭",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20240404/852524000193548288941063.jpeg/0V3I6Q_gu-ZPck0WCko6NapD2VxuIuUWzIjL5MyIy-Q?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60329245/%E6%B8%85%E6%98%8E%E7%AF%80-%E9%A3%9F%E7%92%B0%E7%BD%B2%E8%BD%84%E4%B8%8B%E9%AA%A8%E7%81%B0%E5%AE%89%E7%BD%AE%E6%89%803%E6%9C%8814%E6%97%A5%E8%87%B34%E6%9C%8819%E6%97%A5%E6%9C%9D7%E6%99%9A7%E9%96%8B%E6%94%BE%E4%BE%9B%E6%8B%9C%E7%A5%AD",
+    "timestamp": "2026-03-10T12:25:43.301Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "永泰粉錦公路新盤「雲向」周六首輪開賣200伙",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260301/1104842547022270464471506.jpeg/7a0yZ9VUo-pm8b3ctm-lyeO0BhhunwiOdsboonbG6KI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60328949/%E6%8B%89%E9%87%8C%E8%B3%88%E5%B0%BC-%E7%BE%8E%E4%BB%A5%E8%BB%8D%E4%BA%8B%E8%A1%8C%E5%8B%95%E4%B8%80%E6%97%A6%E6%8C%81%E7%BA%8C-%E9%9C%8D%E7%88%BE%E6%9C%A8%E8%8C%B2%E6%B5%B7%E5%B3%BD%E5%AE%89%E5%85%A8%E7%84%A1%E6%B3%95%E6%81%A2%E5%BE%A9",
     "timestamp": "2026-03-09T19:11:39.190Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "警新蒲崗工廈拘一男涉販毒　檢210克大麻約值3萬多元",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260310/1107852242653810688120967.jpeg/Z2C1yyzQ2zcASyViIZP6cNSi6XrqWRBI3P0endz9Hp0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60328950/%E8%AD%A6%E6%96%B0%E8%92%B2%E5%B4%97%E5%B7%A5%E5%BB%88%E6%8B%98%E4%B8%80%E7%94%B7%E6%B6%89%E8%B2%A9%E6%AF%92-%E6%AA%A2210%E5%85%8B%E5%A4%A7%E9%BA%BB%E7%B4%84%E5%80%BC3%E8%90%AC%E5%A4%9A%E5%85%83",
-    "timestamp": "2026-03-09T18:06:48.221Z",
     "strategy": ".content-card__main"
   }
 ];
