@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-10T08:22:46.792Z
+// Last updated: 2026-03-10T08:53:12.960Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "「在家門口參與國際科研」——但這扇門，對每個香港青年都開著嗎？",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260305/1106204910124273664495273.png/1GzrlAM4TFQoEpelNjpIOy2DJ51WOUHgNVIiqTVSIqk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%B6%B2%E7%A7%913.0/60327646/%E5%9C%A8%E5%AE%B6%E9%96%80%E5%8F%A3%E5%8F%83%E8%88%87%E5%9C%8B%E9%9A%9B%E7%A7%91%E7%A0%94-%E4%BD%86%E9%80%99%E6%89%87%E9%96%80-%E5%B0%8D%E6%AF%8F%E5%80%8B%E9%A6%99%E6%B8%AF%E9%9D%92%E5%B9%B4%E9%83%BD%E9%96%8B%E8%91%97%E5%97%8E",
+    "timestamp": "2026-03-10T08:53:12.960Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "日本岡山裸男祭爆混亂　48歲男留醫多天後死亡　另有人仍昏迷",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260309/1107809365026410496497530.jpeg/A3WQR6L4Azwqdq8fSwULHPbWU21zruI6S3yYIUt8mCE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60328932/%E8%B7%B3%E9%AB%98%E5%A5%B3%E7%A5%9E-%E6%A5%8A%E6%96%87%E8%94%9A%E9%81%8E%E5%A4%A7%E7%A6%AE-%E9%87%91%E5%99%A8%E6%93%BA%E6%BB%BF%E6%9E%B1%E5%9B%9B%E5%B0%8D%E9%87%8D%E7%A3%85%E9%BE%8D%E9%B3%B3%E9%88%AA%E6%88%90%E7%84%A6%E9%BB%9E",
     "timestamp": "2026-03-09T16:14:20.060Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "五月天成團29週年　驚喜宣布調整場次將加入3月29日生日限定場",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260309/1107817849310679040790548.jpeg/rPZ5WWqPcc4291kx6LEaGJ6vnzP77sRwyPwdZcj8HWU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60328936/%E4%BA%94%E6%9C%88%E5%A4%A9%E6%88%90%E5%9C%9829%E9%80%B1%E5%B9%B4-%E9%A9%9A%E5%96%9C%E5%AE%A3%E5%B8%83%E8%AA%BF%E6%95%B4%E5%A0%B4%E6%AC%A1%E5%B0%87%E5%8A%A0%E5%85%A53%E6%9C%8829%E6%97%A5%E7%94%9F%E6%97%A5%E9%99%90%E5%AE%9A%E5%A0%B4",
-    "timestamp": "2026-03-09T15:43:56.504Z",
     "strategy": ".content-card__main"
   }
 ];
