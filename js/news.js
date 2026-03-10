@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-10T10:52:36.743Z
+// Last updated: 2026-03-10T11:50:20.918Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "警破「猜猜我是誰」騙案拘38歲內地男　涉騙4長者逾83萬元",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260310/1108098164071600128861430.jpeg/gf-X1tgJRmInStVuC5XITtBsZCet6sHatTtEZJ87RGQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60329195/%E8%AD%A6%E7%A0%B4-%E7%8C%9C%E7%8C%9C%E6%88%91%E6%98%AF%E8%AA%B0-%E9%A8%99%E6%A1%88%E6%8B%9838%E6%AD%B2%E5%85%A7%E5%9C%B0%E7%94%B7-%E6%B6%89%E9%A8%994%E9%95%B7%E8%80%85%E9%80%BE83%E8%90%AC%E5%85%83",
+    "timestamp": "2026-03-10T11:50:20.918Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "九龍城寨｜胡子彤未聞洽談木村拓哉　率先爆十二少劇情︰會再斷腳",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260310/1107841726099230720437125.jpeg/5JAX6vd_ewKJiL9NCl29YLIixfqEbAPGoeV-VqHlflY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60328945/%E5%85%A9%E6%9C%83-%E6%9C%B1%E8%91%89%E7%8E%89%E5%A6%82-%E9%A6%99%E6%B8%AF%E6%87%89%E7%99%BC%E6%8F%AE%E6%95%99%E8%82%B2%E7%A7%91%E7%A0%94%E6%89%80%E9%95%B7-%E4%B8%BB%E5%8B%95%E5%8F%83%E8%88%87%E5%9C%8B%E5%AE%B6%E6%88%B0%E7%95%A5%E4%BD%88%E5%B1%80",
     "timestamp": "2026-03-09T17:38:08.138Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "「星二代」魔童赴英留學前曾當《歌手2025》實習生　被爆超愛音樂",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260309/1107765790993551360501936.jpeg/5EmFbpSfut7t961z5HAF1AQahbwd5zcnbhKKd24Sinc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60328897/%E6%98%9F%E4%BA%8C%E4%BB%A3-%E9%AD%94%E7%AB%A5%E8%B5%B4%E8%8B%B1%E7%95%99%E5%AD%B8%E5%89%8D%E6%9B%BE%E7%95%B6-%E6%AD%8C%E6%89%8B2025-%E5%AF%A6%E7%BF%92%E7%94%9F-%E8%A2%AB%E7%88%86%E8%B6%85%E6%84%9B%E9%9F%B3%E6%A8%82",
-    "timestamp": "2026-03-09T17:12:09.197Z",
     "strategy": ".content-card__main"
   }
 ];
