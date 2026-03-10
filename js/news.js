@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-10T02:25:29.832Z
+// Last updated: 2026-03-10T03:26:16.273Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "11歲女童感冒後暈倒離世驗出B19病毒　3類人士高危附第五病病徵",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260310/1107885084263845888895431.jpeg/-n_Uzk-DPt1vZiBV530rL3bz-nhd1Uw-TZkOKE2ZDig?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%A6%AA%E5%AD%90/60315761/11%E6%AD%B2%E5%A5%B3%E7%AB%A5%E6%84%9F%E5%86%92%E5%BE%8C%E6%9A%88%E5%80%92%E9%9B%A2%E4%B8%96%E9%A9%97%E5%87%BAb19%E7%97%85%E6%AF%92-3%E9%A1%9E%E4%BA%BA%E5%A3%AB%E9%AB%98%E5%8D%B1%E9%99%84%E7%AC%AC%E4%BA%94%E7%97%85%E7%97%85%E5%BE%B5",
+    "timestamp": "2026-03-10T03:26:16.273Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "伊朗革命衛隊稱掌握停戰櫂　特朗普：阻止石油出口將「20倍奉還」",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260309/1107771198449651712615827.jpeg/GXIwBADgAawZAVL-vNB3dURG_LmYWVdFAIqF2QCKhdk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60328862/%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8B%A2-%E6%AF%94%E5%93%88%E6%A2%85%E5%85%A7%E4%BC%8A%E6%9B%B4%E5%BC%B7%E7%A1%AC-%E7%A9%86%E5%82%91%E5%A1%94%E5%B7%B4%E6%8E%A5%E4%BB%BB%E6%9C%80%E9%AB%98%E9%A0%98%E8%A2%96%E6%84%8F%E5%91%B3%E7%9D%80%E4%BB%80%E9%BA%BD",
     "timestamp": "2026-03-09T12:29:14.459Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "東張女神「魔」音內鬥　王嘉慧痰上頸唱腔挑機俞可程煎熬式海豚音",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260309/1107694726049435648061342.jpeg/ow7HkiT27EY01DrLvt1lrtVxBfu_MsW2GaQ4UBmkOFA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60328745/%E6%9D%B1%E5%BC%B5%E5%A5%B3%E7%A5%9E-%E9%AD%94-%E9%9F%B3%E5%85%A7%E9%AC%A5-%E7%8E%8B%E5%98%89%E6%85%A7%E7%97%B0%E4%B8%8A%E9%A0%B8%E5%94%B1%E8%85%94%E6%8C%91%E6%A9%9F%E4%BF%9E%E5%8F%AF%E7%A8%8B%E7%85%8E%E7%86%AC%E5%BC%8F%E6%B5%B7%E8%B1%9A%E9%9F%B3",
-    "timestamp": "2026-03-09T11:49:25.339Z",
     "strategy": ".content-card__main"
   }
 ];
