@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-10T23:15:45.482Z
+// Last updated: 2026-03-10T23:31:50.189Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "DSE2026｜英文科攻略　講解各卷最後衝刺方向、常見失分位",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260310/1108029819745996800786409.png/GbWn_pO4zXjk62eGxWERkAlxRvSsxVAMLGMtjSxjLY0?v=w1920r16_9",
+    "url": "https://www.hk01.com/DSE%E5%B0%88%E5%8D%80/60326376/dse2026-%E8%8B%B1%E6%96%87%E7%A7%91%E6%94%BB%E7%95%A5-%E8%AC%9B%E8%A7%A3%E5%90%84%E5%8D%B7%E6%9C%80%E5%BE%8C%E8%A1%9D%E5%88%BA%E6%96%B9%E5%90%91-%E5%B8%B8%E8%A6%8B%E5%A4%B1%E5%88%86%E4%BD%8D",
+    "timestamp": "2026-03-10T23:31:50.189Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "DSE2026｜英文科攻略　講解各卷最後衝刺方向、常見失分位",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260309/1107743076165619712591483.jpeg/7RBGRV19xYudV9LmxbGYuGOIPCS8G7T0V7h9iVe4fYk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A9%BF%E6%90%AD%E7%AD%86%E8%A8%98/60328714/%E5%B7%B4%E9%BB%8E%E6%99%82%E8%A3%9D%E5%91%A8-5%E5%A4%A7%E6%9C%AC%E5%9C%B0%E5%93%81%E7%89%8C%E7%99%BB%E4%B8%8A%E5%9C%8B%E9%9A%9B%E6%99%82%E5%B0%9A%E8%88%9E%E5%8F%B0-%E9%97%9C%E6%99%BA%E6%96%8C-%E6%A3%AE%E7%BE%8E%E9%83%BD%E6%9B%BE%E7%A9%BF",
     "timestamp": "2026-03-10T05:04:27.584Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "11歲女童感冒後暈倒離世驗出B19病毒　3類人士高危附第五病病徵",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260310/1107885084263845888895431.jpeg/-n_Uzk-DPt1vZiBV530rL3bz-nhd1Uw-TZkOKE2ZDig?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%A6%AA%E5%AD%90/60315761/11%E6%AD%B2%E5%A5%B3%E7%AB%A5%E6%84%9F%E5%86%92%E5%BE%8C%E6%9A%88%E5%80%92%E9%9B%A2%E4%B8%96%E9%A9%97%E5%87%BAb19%E7%97%85%E6%AF%92-3%E9%A1%9E%E4%BA%BA%E5%A3%AB%E9%AB%98%E5%8D%B1%E9%99%84%E7%AC%AC%E4%BA%94%E7%97%85%E7%97%85%E5%BE%B5",
-    "timestamp": "2026-03-10T03:26:16.273Z",
     "strategy": ".content-card__main"
   }
 ];
