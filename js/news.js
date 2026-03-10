@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-10T22:16:14.354Z
+// Last updated: 2026-03-10T22:31:29.153Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "天氣｜今早清涼約17度　日間漸轉天晴乾燥　明日早晚溫差較大",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260311/1108284273380560896398015.jpeg/vjlEUw1Na7io4XTEUwnIShYYdO9lk4a1jORAR4zkQEc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60329289/%E5%A4%A9%E6%B0%A3-%E4%BB%8A%E6%97%A9%E6%B8%85%E6%B6%BC%E7%B4%8417%E5%BA%A6-%E6%97%A5%E9%96%93%E6%BC%B8%E8%BD%89%E5%A4%A9%E6%99%B4%E4%B9%BE%E7%87%A5-%E6%98%8E%E6%97%A5%E6%97%A9%E6%99%9A%E6%BA%AB%E5%B7%AE%E8%BC%83%E5%A4%A7",
+    "timestamp": "2026-03-10T22:31:29.153Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "歐聯16強首回合｜馬德里體育會5：2熱刺　紐卡素1：1巴塞隆拿",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260309/1107545727338287104190273.png/33bgnGhbOj39jB6-PKWvYfkZPotVXCD3PJ7a1jye2tY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60328552/%E4%B8%8B%E9%AB%94%E9%A9%9A%E8%A6%8B%E7%99%BD%E8%89%B2%E4%B8%8D%E6%98%8E%E7%89%A9%E9%AB%94-%E9%86%AB%E7%94%9F%E8%AD%89%E5%AF%A6%E9%99%B0%E8%9D%A8-%E7%94%B7%E7%97%85%E4%BA%BA%E8%81%BD%E9%8C%AF%E5%82%BB%E5%95%8F1%E5%8F%A5%E8%B6%85%E7%88%86%E7%AC%91",
     "timestamp": "2026-03-10T01:22:17.195Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "寧德時代去年多賺42%　收入增17%",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250107/953111817708638208654107.jpeg/5sx3LCy_CzohD9OCMXCovmXWord4TF7HyA8x4sgPMeI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60328967/%E5%AF%A7%E5%BE%B7%E6%99%82%E4%BB%A3%E5%8E%BB%E5%B9%B4%E5%A4%9A%E8%B3%BA42-%E6%94%B6%E5%85%A5%E5%A2%9E17",
-    "timestamp": "2026-03-10T00:00:25.063Z",
     "strategy": ".content-card__main"
   }
 ];
