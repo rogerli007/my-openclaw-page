@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-10T11:50:20.918Z
+// Last updated: 2026-03-10T12:06:13.026Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "永泰粉錦公路新盤「雲向」周六首輪開賣200伙",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260310/1108126903455191040463819.jpeg/rXBh6TLoMqY817VNeTESHlNrNJGQH5XTF4ZzbheGc24?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60329242/%E6%B0%B8%E6%B3%B0%E7%B2%89%E9%8C%A6%E5%85%AC%E8%B7%AF%E6%96%B0%E7%9B%A4-%E9%9B%B2%E5%90%91-%E5%91%A8%E5%85%AD%E9%A6%96%E8%BC%AA%E9%96%8B%E8%B3%A3200%E4%BC%99",
+    "timestamp": "2026-03-10T12:06:13.026Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "警破「猜猜我是誰」騙案拘38歲內地男　涉騙4長者逾83萬元",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260310/1107852242653810688120967.jpeg/Z2C1yyzQ2zcASyViIZP6cNSi6XrqWRBI3P0endz9Hp0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60328950/%E8%AD%A6%E6%96%B0%E8%92%B2%E5%B4%97%E5%B7%A5%E5%BB%88%E6%8B%98%E4%B8%80%E7%94%B7%E6%B6%89%E8%B2%A9%E6%AF%92-%E6%AA%A2210%E5%85%8B%E5%A4%A7%E9%BA%BB%E7%B4%84%E5%80%BC3%E8%90%AC%E5%A4%9A%E5%85%83",
     "timestamp": "2026-03-09T18:06:48.221Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "兩會｜朱葉玉如：香港應發揮教育科研所長　主動參與國家戰略佈局",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260310/1107841726099230720437125.jpeg/5JAX6vd_ewKJiL9NCl29YLIixfqEbAPGoeV-VqHlflY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60328945/%E5%85%A9%E6%9C%83-%E6%9C%B1%E8%91%89%E7%8E%89%E5%A6%82-%E9%A6%99%E6%B8%AF%E6%87%89%E7%99%BC%E6%8F%AE%E6%95%99%E8%82%B2%E7%A7%91%E7%A0%94%E6%89%80%E9%95%B7-%E4%B8%BB%E5%8B%95%E5%8F%83%E8%88%87%E5%9C%8B%E5%AE%B6%E6%88%B0%E7%95%A5%E4%BD%88%E5%B1%80",
-    "timestamp": "2026-03-09T17:38:08.138Z",
     "strategy": ".content-card__main"
   }
 ];
