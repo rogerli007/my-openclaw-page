@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-10T20:17:22.189Z
+// Last updated: 2026-03-10T20:35:32.452Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "流浮山新慶村村屋遭爆竊　70歲老婦損失逾$11萬現金　警追緝賊人",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260311/1108251514889048064839402.jpeg/4Y-VhHIaUY7KdmGcQ10amPvY-inMB47f_4NOssWDTrI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60329308/%E6%B5%81%E6%B5%AE%E5%B1%B1%E6%96%B0%E6%85%B6%E6%9D%91%E6%9D%91%E5%B1%8B%E9%81%AD%E7%88%86%E7%AB%8A-70%E6%AD%B2%E8%80%81%E5%A9%A6%E6%90%8D%E5%A4%B1%E9%80%BE-11%E8%90%AC%E7%8F%BE%E9%87%91-%E8%AD%A6%E8%BF%BD%E7%B7%9D%E8%B3%8A%E4%BA%BA",
+    "timestamp": "2026-03-10T20:35:32.452Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "流浮山新慶村村屋遭爆竊　70歲老婦損失逾$11萬現金　警追緝賊人",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260309/1107796610319912960753940.jpeg/Rb9D5XqeShYE1aJ7Mu6_VplUVaARRLnArhv6-64b-vs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60328885/%E9%A6%AE%E7%9B%88%E7%9B%88%E9%86%AB%E7%94%9F%E8%88%8A%E6%84%9B%E9%96%8B%E5%B0%88%E7%A7%91%E8%A8%BA%E6%89%80-%E5%8F%A6%E4%B8%80%E6%B8%AF%E5%A7%90%E5%86%A0%E8%BB%8D%E5%88%B0%E8%B3%80%E8%88%87%E4%B8%BB%E8%A7%92%E5%A4%AB%E5%A9%A6%E5%90%8C%E6%A1%86%E5%90%88%E7%85%A7",
     "timestamp": "2026-03-09T22:35:56.945Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "伊朗局勢｜特朗普稱戰爭或將結束　油價曾倒跌逾10%",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20221221/682217315227406336029748.jpeg/XljmGFt5bx8L80Un2M9UwDA2UntL2wUOhOOj_ITjo_w?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60328961/%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8B%A2-%E7%89%B9%E6%9C%97%E6%99%AE%E7%A8%B1%E6%88%B0%E7%88%AD%E6%88%96%E5%B0%87%E7%B5%90%E6%9D%9F-%E6%B2%B9%E5%83%B9%E6%9B%BE%E5%80%92%E8%B7%8C%E9%80%BE10",
-    "timestamp": "2026-03-09T21:49:25.477Z",
     "strategy": ".content-card__main"
   }
 ];
