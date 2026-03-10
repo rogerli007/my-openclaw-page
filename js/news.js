@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-10T12:25:43.301Z
+// Last updated: 2026-03-10T14:11:32.313Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "六合彩3.12頭獎$1300萬｜6個最旺號碼+2招增中獎機會+幸運投注站",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260228/1104535693322883072415983.jpeg/1NgvBJeLfN8BfkpelLOdIcaZsoAbm1Sigi7rgIIu64A?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60329267/%E5%85%AD%E5%90%88%E5%BD%A93-12%E9%A0%AD%E7%8D%8E-1300%E8%90%AC-6%E5%80%8B%E6%9C%80%E6%97%BA%E8%99%9F%E7%A2%BC-2%E6%8B%9B%E5%A2%9E%E4%B8%AD%E7%8D%8E%E6%A9%9F%E6%9C%83-%E5%B9%B8%E9%81%8B%E6%8A%95%E6%B3%A8%E7%AB%99",
+    "timestamp": "2026-03-10T14:11:32.313Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "清明節｜食環署轄下骨灰安置所3月14日至4月19日朝7晚7開放供拜祭",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260310/1107886778481643520756180.jpeg/8Hs8PKdKNMYBTebuCvwrI5QA8FLewjrYylvrEcpb6xE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60328957/%E7%89%B9%E6%9C%97%E6%99%AE-%E5%B7%B2%E8%88%87%E6%BE%B3%E6%B4%B2%E7%B8%BD%E7%90%86%E9%80%9A%E8%A9%B1-%E5%B0%8D%E6%96%B9%E6%AD%A3%E8%99%95%E7%90%86%E4%BC%8A%E6%9C%97%E5%A5%B3%E8%B6%B3%E6%94%BF%E6%B2%BB%E5%BA%87%E8%AD%B7%E5%95%8F%E9%A1%8C",
     "timestamp": "2026-03-09T20:18:28.875Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "拉里賈尼：美以軍事行動一旦持續　霍爾木茲海峽安全無法恢復",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260301/1104842547022270464471506.jpeg/7a0yZ9VUo-pm8b3ctm-lyeO0BhhunwiOdsboonbG6KI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60328949/%E6%8B%89%E9%87%8C%E8%B3%88%E5%B0%BC-%E7%BE%8E%E4%BB%A5%E8%BB%8D%E4%BA%8B%E8%A1%8C%E5%8B%95%E4%B8%80%E6%97%A6%E6%8C%81%E7%BA%8C-%E9%9C%8D%E7%88%BE%E6%9C%A8%E8%8C%B2%E6%B5%B7%E5%B3%BD%E5%AE%89%E5%85%A8%E7%84%A1%E6%B3%95%E6%81%A2%E5%BE%A9",
-    "timestamp": "2026-03-09T19:11:39.190Z",
     "strategy": ".content-card__main"
   }
 ];
