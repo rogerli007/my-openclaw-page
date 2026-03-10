@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-09T23:48:52.492Z
+// Last updated: 2026-03-10T00:00:25.063Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "寧德時代去年多賺42%　收入增17%",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250107/953111817708638208654107.jpeg/5sx3LCy_CzohD9OCMXCovmXWord4TF7HyA8x4sgPMeI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60328967/%E5%AF%A7%E5%BE%B7%E6%99%82%E4%BB%A3%E5%8E%BB%E5%B9%B4%E5%A4%9A%E8%B3%BA42-%E6%94%B6%E5%85%A5%E5%A2%9E17",
+    "timestamp": "2026-03-10T00:00:25.063Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "TVB小生揭內地劇組隱藏規矩　有個黑箱唔坐得隨時賠大錢兼被封殺",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250609/1008731928020389888841076.jpeg/GabqfSW3U9ElCzCIOU7GDm_gfFrRJDGnYXmmqER5pqg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60328811/%E5%AE%89%E5%85%A8%E5%B8%B6%E4%B9%8B%E4%BA%82-%E5%89%8D%E5%B1%80%E9%95%B7%E9%99%B3%E5%B8%86%E6%9C%89%E4%BB%BD%E5%8F%83%E8%88%87%E6%B3%95%E4%BE%8B-%E8%A1%8C%E6%94%BF%E4%B8%BB%E5%B0%8E%E4%B8%8B%E5%B8%82%E6%B0%91%E6%9C%89%E8%B2%AC%E4%BB%BB%E6%89%BF%E6%93%94",
     "timestamp": "2026-03-09T09:28:55.745Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "方力申開演唱會記招　尹光原想着粉紅撐場遭勸阻：同海報撞色",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260309/1107704643028258816689170.jpeg/EInSZjpL9GgkQ7WrXg5xedBo5f0fg3s9HTt0Yx07dGM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60328772/%E6%96%B9%E5%8A%9B%E7%94%B3%E9%96%8B%E6%BC%94%E5%94%B1%E6%9C%83%E8%A8%98%E6%8B%9B-%E5%B0%B9%E5%85%89%E5%8E%9F%E6%83%B3%E7%9D%80%E7%B2%89%E7%B4%85%E6%92%90%E5%A0%B4%E9%81%AD%E5%8B%B8%E9%98%BB-%E5%90%8C%E6%B5%B7%E5%A0%B1%E6%92%9E%E8%89%B2",
-    "timestamp": "2026-03-09T08:53:27.642Z",
     "strategy": ".content-card__main"
   }
 ];
