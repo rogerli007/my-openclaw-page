@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-10T08:53:12.960Z
+// Last updated: 2026-03-10T10:24:08.764Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "馮宜萱「有眼無珠妝」紅到日韓　網民創意大爆發　竟撞臉日本諧星",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260310/1108103745650036736251798.png/WCYDyz7ypyGmTpCHJHsKV4I9JjTiAEXE-zJHWfsyR1k?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%96%8B%E7%BD%90/60329040/%E9%A6%AE%E5%AE%9C%E8%90%B1-%E6%9C%89%E7%9C%BC%E7%84%A1%E7%8F%A0%E5%A6%9D-%E7%B4%85%E5%88%B0%E6%97%A5%E9%9F%93-%E7%B6%B2%E6%B0%91%E5%89%B5%E6%84%8F%E5%A4%A7%E7%88%86%E7%99%BC-%E7%AB%9F%E6%92%9E%E8%87%89%E6%97%A5%E6%9C%AC%E8%AB%A7%E6%98%9F",
+    "timestamp": "2026-03-10T10:24:08.764Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "「在家門口參與國際科研」——但這扇門，對每個香港青年都開著嗎？",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260309/1107726480827224064962034.jpeg/SMggngu9Q4YbGy0o7iYfmwt5VjgP93j5uF7oy7he6Ms?v=w1920r16_9",
     "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E5%A8%9B%E6%A8%82/60328822/%E6%B8%AF%E7%94%A2av%E5%A5%B3%E5%84%AA%E7%B4%A0%E6%B5%B7%E9%9C%96%E5%9B%9E%E6%87%89-%E5%81%9A%E9%9B%9E-%E6%A8%99%E7%B1%A4%E6%8C%87%E7%B6%B2%E6%B0%91%E5%A6%92%E5%BF%8C-%E7%88%86%E6%9B%BE%E9%81%AD%E5%BC%B7%E5%90%BB%E6%80%A7%E9%A8%B7%E6%93%BE",
     "timestamp": "2026-03-09T16:41:31.331Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "「跳高女神」楊文蔚過大禮　金器擺滿枱四對重磅龍鳳鈪成焦點",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260309/1107809365026410496497530.jpeg/A3WQR6L4Azwqdq8fSwULHPbWU21zruI6S3yYIUt8mCE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60328932/%E8%B7%B3%E9%AB%98%E5%A5%B3%E7%A5%9E-%E6%A5%8A%E6%96%87%E8%94%9A%E9%81%8E%E5%A4%A7%E7%A6%AE-%E9%87%91%E5%99%A8%E6%93%BA%E6%BB%BF%E6%9E%B1%E5%9B%9B%E5%B0%8D%E9%87%8D%E7%A3%85%E9%BE%8D%E9%B3%B3%E9%88%AA%E6%88%90%E7%84%A6%E9%BB%9E",
-    "timestamp": "2026-03-09T16:14:20.060Z",
     "strategy": ".content-card__main"
   }
 ];
