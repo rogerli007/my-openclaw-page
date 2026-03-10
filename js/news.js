@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-10T01:22:17.195Z
+// Last updated: 2026-03-10T02:25:29.832Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "伊朗革命衛隊稱掌握停戰櫂　特朗普：阻止石油出口將「20倍奉還」",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260310/1107931964582662144719283.jpeg/l6-KEf4DTdZ4Y28TyDOPAcryaZd2udNPVAaSHlQGkh4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60328990/%E4%BC%8A%E6%9C%97%E9%9D%A9%E5%91%BD%E8%A1%9B%E9%9A%8A%E7%A8%B1%E6%8E%8C%E6%8F%A1%E5%81%9C%E6%88%B0%E6%AB%82-%E7%89%B9%E6%9C%97%E6%99%AE-%E9%98%BB%E6%AD%A2%E7%9F%B3%E6%B2%B9%E5%87%BA%E5%8F%A3%E5%B0%87-20%E5%80%8D%E5%A5%89%E9%82%84",
+    "timestamp": "2026-03-10T02:25:29.832Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "下體驚見白色不明物體！醫生證實陰蝨　男病人聽錯傻問1句超爆笑",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260309/1107694726049435648061342.jpeg/ow7HkiT27EY01DrLvt1lrtVxBfu_MsW2GaQ4UBmkOFA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60328745/%E6%9D%B1%E5%BC%B5%E5%A5%B3%E7%A5%9E-%E9%AD%94-%E9%9F%B3%E5%85%A7%E9%AC%A5-%E7%8E%8B%E5%98%89%E6%85%A7%E7%97%B0%E4%B8%8A%E9%A0%B8%E5%94%B1%E8%85%94%E6%8C%91%E6%A9%9F%E4%BF%9E%E5%8F%AF%E7%A8%8B%E7%85%8E%E7%86%AC%E5%BC%8F%E6%B5%B7%E8%B1%9A%E9%9F%B3",
     "timestamp": "2026-03-09T11:49:25.339Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "伊朗局勢｜「中國船」通關霍爾木茲：起底「鐵娘子號」「中海號」",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260309/1107625760786485248403852.jpeg/o7pGbdf6rkG0FjMiY--LTAXlLhA6gKoM9kFDBvZBQwY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60328857/%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8B%A2-%E4%B8%AD%E5%9C%8B%E8%88%B9-%E9%80%9A%E9%97%9C%E9%9C%8D%E7%88%BE%E6%9C%A8%E8%8C%B2-%E8%B5%B7%E5%BA%95-%E9%90%B5%E5%A8%98%E5%AD%90%E8%99%9F-%E4%B8%AD%E6%B5%B7%E8%99%9F",
-    "timestamp": "2026-03-09T10:27:19.422Z",
     "strategy": ".content-card__main"
   }
 ];
