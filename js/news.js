@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-10T18:07:09.937Z
+// Last updated: 2026-03-10T19:33:06.849Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "普京再度與伊朗總統通電話　重申支持以政治手段化解衝突",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20241101/929134896331362304054392.jpeg/h4IVz95aAltKVGRKjfVOdiXGFsDr6BGo_bk9bP25PWw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60329301/%E6%99%AE%E4%BA%AC%E5%86%8D%E5%BA%A6%E8%88%87%E4%BC%8A%E6%9C%97%E7%B8%BD%E7%B5%B1%E9%80%9A%E9%9B%BB%E8%A9%B1-%E9%87%8D%E7%94%B3%E6%94%AF%E6%8C%81%E4%BB%A5%E6%94%BF%E6%B2%BB%E6%89%8B%E6%AE%B5%E5%8C%96%E8%A7%A3%E8%A1%9D%E7%AA%81",
+    "timestamp": "2026-03-10T19:33:06.849Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "王毅：伊朗戰事缺合法性　持續只釀更多無謂傷亡　中方籲立即停火",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20221221/682217315227406336029748.jpeg/XljmGFt5bx8L80Un2M9UwDA2UntL2wUOhOOj_ITjo_w?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60328961/%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8B%A2-%E7%89%B9%E6%9C%97%E6%99%AE%E7%A8%B1%E6%88%B0%E7%88%AD%E6%88%96%E5%B0%87%E7%B5%90%E6%9D%9F-%E6%B2%B9%E5%83%B9%E6%9B%BE%E5%80%92%E8%B7%8C%E9%80%BE10",
     "timestamp": "2026-03-09T21:24:31.535Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "天水圍診所門外起火　途人撲熄　警列縱火未有人被捕",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20211013/524958532262301696158460.jpeg/VHLidnV-VzygvrgrEBhiTJLYxok_JFTZWrwr_Fq8K_w?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60328959/%E5%A4%A9%E6%B0%B4%E5%9C%8D%E8%A8%BA%E6%89%80%E9%96%80%E5%A4%96%E8%B5%B7%E7%81%AB-%E9%80%94%E4%BA%BA%E6%92%B2%E7%86%84-%E8%AD%A6%E5%88%97%E7%B8%B1%E7%81%AB%E6%9C%AA%E6%9C%89%E4%BA%BA%E8%A2%AB%E6%8D%95",
-    "timestamp": "2026-03-09T20:38:33.761Z",
     "strategy": ".content-card__main"
   }
 ];
