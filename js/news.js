@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-10T00:00:25.063Z
+// Last updated: 2026-03-10T01:22:17.195Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "下體驚見白色不明物體！醫生證實陰蝨　男病人聽錯傻問1句超爆笑",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260309/1107545727338287104190273.png/33bgnGhbOj39jB6-PKWvYfkZPotVXCD3PJ7a1jye2tY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60328552/%E4%B8%8B%E9%AB%94%E9%A9%9A%E8%A6%8B%E7%99%BD%E8%89%B2%E4%B8%8D%E6%98%8E%E7%89%A9%E9%AB%94-%E9%86%AB%E7%94%9F%E8%AD%89%E5%AF%A6%E9%99%B0%E8%9D%A8-%E7%94%B7%E7%97%85%E4%BA%BA%E8%81%BD%E9%8C%AF%E5%82%BB%E5%95%8F1%E5%8F%A5%E8%B6%85%E7%88%86%E7%AC%91",
+    "timestamp": "2026-03-10T01:22:17.195Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "寧德時代去年多賺42%　收入增17%",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260309/1107625760786485248403852.jpeg/o7pGbdf6rkG0FjMiY--LTAXlLhA6gKoM9kFDBvZBQwY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60328857/%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8B%A2-%E4%B8%AD%E5%9C%8B%E8%88%B9-%E9%80%9A%E9%97%9C%E9%9C%8D%E7%88%BE%E6%9C%A8%E8%8C%B2-%E8%B5%B7%E5%BA%95-%E9%90%B5%E5%A8%98%E5%AD%90%E8%99%9F-%E4%B8%AD%E6%B5%B7%E8%99%9F",
     "timestamp": "2026-03-09T10:27:19.422Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "安全帶之亂｜前局長陳帆有份參與法例：行政主導下市民有責任承擔",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250609/1008731928020389888841076.jpeg/GabqfSW3U9ElCzCIOU7GDm_gfFrRJDGnYXmmqER5pqg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60328811/%E5%AE%89%E5%85%A8%E5%B8%B6%E4%B9%8B%E4%BA%82-%E5%89%8D%E5%B1%80%E9%95%B7%E9%99%B3%E5%B8%86%E6%9C%89%E4%BB%BD%E5%8F%83%E8%88%87%E6%B3%95%E4%BE%8B-%E8%A1%8C%E6%94%BF%E4%B8%BB%E5%B0%8E%E4%B8%8B%E5%B8%82%E6%B0%91%E6%9C%89%E8%B2%AC%E4%BB%BB%E6%89%BF%E6%93%94",
-    "timestamp": "2026-03-09T09:28:55.745Z",
     "strategy": ".content-card__main"
   }
 ];
