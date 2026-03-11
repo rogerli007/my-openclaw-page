@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-11T05:16:31.461Z
+// Last updated: 2026-03-11T06:37:51.983Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "大摩︰內地買家乘人民幣升值買港樓　首兩個月掃2600伙按年增91%",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250311/976160959913529344620378.jpeg/u8cyUEUiICs7eThzxNzfA6muvzsDyMtoNb9j6jW_Y-o?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60329473/%E5%A4%A7%E6%91%A9-%E5%85%A7%E5%9C%B0%E8%B2%B7%E5%AE%B6%E4%B9%98%E4%BA%BA%E6%B0%91%E5%B9%A3%E5%8D%87%E5%80%BC%E8%B2%B7%E6%B8%AF%E6%A8%93-%E9%A6%96%E5%85%A9%E5%80%8B%E6%9C%88%E6%8E%832600%E4%BC%99%E6%8C%89%E5%B9%B4%E5%A2%9E91",
+    "timestamp": "2026-03-11T06:37:51.983Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "前區議員王進洋涉電騙　承認7項洗黑錢罪　遭判囚45個月",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260310/1108098164071600128861430.jpeg/gf-X1tgJRmInStVuC5XITtBsZCet6sHatTtEZJ87RGQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60329195/%E8%AD%A6%E7%A0%B4-%E7%8C%9C%E7%8C%9C%E6%88%91%E6%98%AF%E8%AA%B0-%E9%A8%99%E6%A1%88%E6%8B%9838%E6%AD%B2%E5%85%A7%E5%9C%B0%E7%94%B7-%E6%B6%89%E9%A8%994%E9%95%B7%E8%80%85%E9%80%BE83%E8%90%AC%E5%85%83",
     "timestamp": "2026-03-10T11:50:20.918Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "九龍城寨｜胡子彤未聞洽談木村拓哉　率先爆十二少劇情︰會再斷腳",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260310/1108105891615346688417208.jpeg/0uBt0Whx0wEPfqaJosd_c3EmjnlQK2P1mHiV_Zh4lf0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60329224/%E4%B9%9D%E9%BE%8D%E5%9F%8E%E5%AF%A8-%E8%83%A1%E5%AD%90%E5%BD%A4%E6%9C%AA%E8%81%9E%E6%B4%BD%E8%AB%87%E6%9C%A8%E6%9D%91%E6%8B%93%E5%93%89-%E7%8E%87%E5%85%88%E7%88%86%E5%8D%81%E4%BA%8C%E5%B0%91%E5%8A%87%E6%83%85-%E6%9C%83%E5%86%8D%E6%96%B7%E8%85%B3",
-    "timestamp": "2026-03-10T10:52:36.743Z",
     "strategy": ".content-card__main"
   }
 ];
