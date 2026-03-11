@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-11T06:37:51.983Z
+// Last updated: 2026-03-11T07:13:02.524Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "離島渡輪航線｜區議員指島民「硬食」加價　長者增幅最高近400%",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20240227/839153267123556352534879.jpeg/bKnsDfEiuQulO5lGDcyvwnHz4wlj_XUiObsNwDm7DcA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60329443/%E9%9B%A2%E5%B3%B6%E6%B8%A1%E8%BC%AA%E8%88%AA%E7%B7%9A-%E5%8D%80%E8%AD%B0%E5%93%A1%E6%8C%87%E5%B3%B6%E6%B0%91-%E7%A1%AC%E9%A3%9F-%E5%8A%A0%E5%83%B9-%E9%95%B7%E8%80%85%E5%A2%9E%E5%B9%85%E6%9C%80%E9%AB%98%E8%BF%91400",
+    "timestamp": "2026-03-11T07:13:02.524Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "大摩︰內地買家乘人民幣升值買港樓　首兩個月掃2600伙按年增91%",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260310/1108126903455191040463819.jpeg/rXBh6TLoMqY817VNeTESHlNrNJGQH5XTF4ZzbheGc24?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60329242/%E6%B0%B8%E6%B3%B0%E7%B2%89%E9%8C%A6%E5%85%AC%E8%B7%AF%E6%96%B0%E7%9B%A4-%E9%9B%B2%E5%90%91-%E5%91%A8%E5%85%AD%E9%A6%96%E8%BC%AA%E9%96%8B%E8%B3%A3200%E4%BC%99",
     "timestamp": "2026-03-10T12:06:13.026Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "警破「猜猜我是誰」騙案拘38歲內地男　涉騙4長者逾83萬元",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260310/1108098164071600128861430.jpeg/gf-X1tgJRmInStVuC5XITtBsZCet6sHatTtEZJ87RGQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60329195/%E8%AD%A6%E7%A0%B4-%E7%8C%9C%E7%8C%9C%E6%88%91%E6%98%AF%E8%AA%B0-%E9%A8%99%E6%A1%88%E6%8B%9838%E6%AD%B2%E5%85%A7%E5%9C%B0%E7%94%B7-%E6%B6%89%E9%A8%994%E9%95%B7%E8%80%85%E9%80%BE83%E8%90%AC%E5%85%83",
-    "timestamp": "2026-03-10T11:50:20.918Z",
     "strategy": ".content-card__main"
   }
 ];
