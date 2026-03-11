@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-11T23:16:31.172Z
+// Last updated: 2026-03-11T23:32:37.642Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "75歲巨星嘆脹爆生蠔紅酒飲到面通紅　病暴瘦15磅豪食再暴肥未驚過",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260311/1108522653859188736259604.jpeg/0fQUtmUptytcD-5Qgulqq0jRNNJjgD4kAiipagIoqWo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60329564/%E8%AD%9A%E8%A9%A0%E9%BA%9F%E5%98%86%E8%84%B9%E7%88%86%E7%94%9F%E8%A0%94%E7%B4%85%E9%85%92%E9%A3%B2%E5%88%B0%E9%9D%A2%E9%80%9A%E7%B4%85-%E7%97%85%E6%9A%B4%E7%98%A615%E7%A3%85%E8%B1%AA%E9%A3%9F%E5%86%8D%E6%9A%B4%E8%82%A5%E6%9C%AA%E9%A9%9A%E9%81%8E",
+    "timestamp": "2026-03-11T23:32:37.642Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "75歲巨星嘆脹爆生蠔紅酒飲到面通紅　病暴瘦15磅豪食再暴肥未驚過",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260311/1108456610658783232061982.jpeg/9Gtc_dAXOzMkIJ9YIIK1KYKGIrBfrgbM7Zc_5O2XP-Q?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60329565/%E9%99%A2%E5%89%8D%E4%B8%AD%E9%A2%A8%E5%88%86%E6%B5%81%E8%A8%88%E5%8A%83%E6%9A%AB52%E4%BA%BA%E5%8F%97%E6%83%A0-%E7%B8%AE%E7%9F%AD80%E5%88%86%E9%90%98%E8%BD%89%E9%99%A2%E6%99%82%E9%96%93-%E6%93%AC%E9%80%90%E6%AD%A5%E6%93%B4%E5%85%A8%E6%B8%AF",
     "timestamp": "2026-03-11T10:24:12.188Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "大摩據報為節省成本在港聘合約員工　以應對IPO熱潮",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260311/1108457942094450688981536.jpeg/UPuBOBdXyD9OucOY7J6SB4nmkz7MXGE2hpAQmoaQEJo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60329548/%E5%A4%A7%E6%91%A9%E6%93%9A%E5%A0%B1%E7%82%BA%E7%AF%80%E7%9C%81%E6%88%90%E6%9C%AC%E5%9C%A8%E6%B8%AF%E8%81%98%E5%90%88%E7%B4%84%E5%93%A1%E5%B7%A5-%E4%BB%A5%E6%87%89%E5%B0%8Dipo%E7%86%B1%E6%BD%AE",
-    "timestamp": "2026-03-11T09:53:06.265Z",
     "strategy": ".content-card__main"
   }
 ];
