@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-11T08:52:42.178Z
+// Last updated: 2026-03-11T09:53:06.265Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "大摩據報為節省成本在港聘合約員工　以應對IPO熱潮",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260311/1108457942094450688981536.jpeg/UPuBOBdXyD9OucOY7J6SB4nmkz7MXGE2hpAQmoaQEJo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60329548/%E5%A4%A7%E6%91%A9%E6%93%9A%E5%A0%B1%E7%82%BA%E7%AF%80%E7%9C%81%E6%88%90%E6%9C%AC%E5%9C%A8%E6%B8%AF%E8%81%98%E5%90%88%E7%B4%84%E5%93%A1%E5%B7%A5-%E4%BB%A5%E6%87%89%E5%B0%8Dipo%E7%86%B1%E6%BD%AE",
+    "timestamp": "2026-03-11T09:53:06.265Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "新世界母企｜周大福企業據報管理層有變動　曾安業已退任聯席CEO",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260228/1104535693322883072415983.jpeg/1NgvBJeLfN8BfkpelLOdIcaZsoAbm1Sigi7rgIIu64A?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60329267/%E5%85%AD%E5%90%88%E5%BD%A93-12%E9%A0%AD%E7%8D%8E-1300%E8%90%AC-6%E5%80%8B%E6%9C%80%E6%97%BA%E8%99%9F%E7%A2%BC-2%E6%8B%9B%E5%A2%9E%E4%B8%AD%E7%8D%8E%E6%A9%9F%E6%9C%83-%E5%B9%B8%E9%81%8B%E6%8A%95%E6%B3%A8%E7%AB%99",
     "timestamp": "2026-03-10T14:11:32.313Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "清明節｜食環署轄下骨灰安置所3月14日至4月19日朝7晚7開放供拜祭",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20240404/852524000193548288941063.jpeg/0V3I6Q_gu-ZPck0WCko6NapD2VxuIuUWzIjL5MyIy-Q?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60329245/%E6%B8%85%E6%98%8E%E7%AF%80-%E9%A3%9F%E7%92%B0%E7%BD%B2%E8%BD%84%E4%B8%8B%E9%AA%A8%E7%81%B0%E5%AE%89%E7%BD%AE%E6%89%803%E6%9C%8814%E6%97%A5%E8%87%B34%E6%9C%8819%E6%97%A5%E6%9C%9D7%E6%99%9A7%E9%96%8B%E6%94%BE%E4%BE%9B%E6%8B%9C%E7%A5%AD",
-    "timestamp": "2026-03-10T12:25:43.301Z",
     "strategy": ".content-card__main"
   }
 ];
