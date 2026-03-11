@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-11T16:08:09.808Z
+// Last updated: 2026-03-11T16:38:00.654Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "右翼卡斯特宣誓就任智利新總統　標誌該國數十年來最顯著右傾",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260312/1108556051281612800872043.jpeg/lXsWIZZMGrssuoRRk2crCX944WlKEDZRb7rn-2-65_s?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60329655/%E5%8F%B3%E7%BF%BC%E5%8D%A1%E6%96%AF%E7%89%B9%E5%AE%A3%E8%AA%93%E5%B0%B1%E4%BB%BB%E6%99%BA%E5%88%A9%E6%96%B0%E7%B8%BD%E7%B5%B1-%E6%A8%99%E8%AA%8C%E8%A9%B2%E5%9C%8B%E6%95%B8%E5%8D%81%E5%B9%B4%E4%BE%86%E6%9C%80%E9%A1%AF%E8%91%97%E5%8F%B3%E5%82%BE",
+    "timestamp": "2026-03-11T16:38:00.654Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "高球前港將由輔警轉正規圓夢想　 代表警隊出戰錦標賽兩度奪冠",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260310/1108029819745996800786409.png/GbWn_pO4zXjk62eGxWERkAlxRvSsxVAMLGMtjSxjLY0?v=w1920r16_9",
     "url": "https://www.hk01.com/DSE%E5%B0%88%E5%8D%80/60326376/dse2026-%E8%8B%B1%E6%96%87%E7%A7%91%E6%94%BB%E7%95%A5-%E8%AC%9B%E8%A7%A3%E5%90%84%E5%8D%B7%E6%9C%80%E5%BE%8C%E8%A1%9D%E5%88%BA%E6%96%B9%E5%90%91-%E5%B8%B8%E8%A6%8B%E5%A4%B1%E5%88%86%E4%BD%8D",
     "timestamp": "2026-03-10T23:15:45.482Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "英媒：以色列拒絕黎巴嫩「停火」談判請求　要求只能交火期間磋商",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260306/1106649880908009472012346.jpeg/02IgX24EHsLylPEF6myGeiuY1ap-foj2h7Of1oezn9Y?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60329313/%E8%8B%B1%E5%AA%92-%E4%BB%A5%E8%89%B2%E5%88%97%E6%8B%92%E7%B5%95%E9%BB%8E%E5%B7%B4%E5%AB%A9-%E5%81%9C%E7%81%AB-%E8%AB%87%E5%88%A4%E8%AB%8B%E6%B1%82-%E8%A6%81%E6%B1%82%E5%8F%AA%E8%83%BD%E4%BA%A4%E7%81%AB%E6%9C%9F%E9%96%93%E7%A3%8B%E5%95%86",
-    "timestamp": "2026-03-10T22:50:35.674Z",
     "strategy": ".content-card__main"
   }
 ];
