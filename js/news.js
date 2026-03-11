@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-11T20:20:22.681Z
+// Last updated: 2026-03-11T20:50:25.060Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "特朗普要求最高法院允許其政府終止海地移民臨時保護身份",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260310/1108023392377769984527386.jpeg/18uBLT5DfzC8uSkXg8hAt_0TyynU2m6pnYvkW52L5Fs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60329673/%E7%89%B9%E6%9C%97%E6%99%AE%E8%A6%81%E6%B1%82%E6%9C%80%E9%AB%98%E6%B3%95%E9%99%A2%E5%85%81%E8%A8%B1%E5%85%B6%E6%94%BF%E5%BA%9C%E7%B5%82%E6%AD%A2%E6%B5%B7%E5%9C%B0%E7%A7%BB%E6%B0%91%E8%87%A8%E6%99%82%E4%BF%9D%E8%AD%B7%E8%BA%AB%E4%BB%BD",
+    "timestamp": "2026-03-11T20:50:25.060Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "歐聯16強首回合｜阿仙奴作客1：1逼和利華古遜",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260311/1108368512306384896138924.jpeg/nIjNZIZjlCX4kPN-_gh32nWcz3OL63X87-DPYe_gz2E?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%A3%9F%E7%8E%A9%E8%B2%B7/60329179/%E9%95%B7%E8%80%85%E5%85%8D%E8%B2%BB%E5%81%A5%E8%BA%AB4%E5%A4%A7%E6%8E%A8%E4%BB%8B-0%E5%AD%B8%E5%A4%AA%E6%A5%B5-%E8%B7%B3%E8%88%9E-%E7%91%9C%E4%BC%BD-%E5%85%8D%E8%B2%BB%E5%81%A5%E8%BA%AB%E5%AE%A4-%E5%A0%B1%E5%90%8D%E6%96%B9%E6%B3%95",
     "timestamp": "2026-03-11T04:03:11.612Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "WSJ：IEA擬釋放史上最大規模儲油　以穩定國際能源市場",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20241017/923642874812174336564730.jpeg/Cr6TohRkz4pfqfQv7jRHs5pdAyz7naB6muLEn5rixJ8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60329359/wsj-iea%E6%93%AC%E9%87%8B%E6%94%BE%E5%8F%B2%E4%B8%8A%E6%9C%80%E5%A4%A7%E8%A6%8F%E6%A8%A1%E5%84%B2%E6%B2%B9-%E4%BB%A5%E7%A9%A9%E5%AE%9A%E5%9C%8B%E9%9A%9B%E8%83%BD%E6%BA%90%E5%B8%82%E5%A0%B4",
-    "timestamp": "2026-03-11T03:10:48.484Z",
     "strategy": ".content-card__main"
   }
 ];
