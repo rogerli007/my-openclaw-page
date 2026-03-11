@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-11T22:00:53.582Z
+// Last updated: 2026-03-11T22:16:00.570Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "歐聯16強首回合｜巴黎聖日耳門5：2車路士　皇家馬德里3：０曼城",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260312/1108639656444170240725308.jpeg/uO3bsJNI-nJQeQuM99pwjDgLFFlHY3yDZ167iGdeu4g?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60329678/%E6%AD%90%E8%81%AF16%E5%BC%B7%E9%A6%96%E5%9B%9E%E5%90%88-%E5%B7%B4%E9%BB%8E%E8%81%96%E6%97%A5%E8%80%B3%E9%96%805-2%E8%BB%8A%E8%B7%AF%E5%A3%AB-%E7%9A%87%E5%AE%B6%E9%A6%AC%E5%BE%B7%E9%87%8C3-%EF%BC%90%E6%9B%BC%E5%9F%8E",
+    "timestamp": "2026-03-11T22:16:00.570Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "真主黨向以色列發射百枚火箭彈　以軍猛烈空襲貝魯特南郊",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260311/1108370863742259200243681.jpeg/5WgHfhCma1HWOQaSgm1IX_Ls9WjWxk0DT5GBSU-RgUk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60329401/%E5%89%8D%E5%8D%80%E8%AD%B0%E5%93%A1%E7%8E%8B%E9%80%B2%E6%B4%8B%E6%B6%89%E9%9B%BB%E9%A8%99-%E6%89%BF%E8%AA%8D7%E9%A0%85%E6%B4%97%E9%BB%91%E9%8C%A2%E7%BD%AA-%E9%81%AD%E5%88%A4%E5%9B%9A45%E5%80%8B%E6%9C%88",
     "timestamp": "2026-03-11T05:16:31.461Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美國AI產業泡沫化：成本以萬億美元計　靠壟斷制裁他國已難續命",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260224/1102990741354844160189032.png/ffak7f7Cwlg29uYQg4C52XSo30s60cSf5Fx_2-Rcf9s?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E4%B8%96%E7%95%8C%E5%B0%88%E9%A1%8C/60324529/%E7%BE%8E%E5%9C%8Bai%E7%94%A2%E6%A5%AD%E6%B3%A1%E6%B2%AB%E5%8C%96-%E6%88%90%E6%9C%AC%E4%BB%A5%E8%90%AC%E5%84%84%E7%BE%8E%E5%85%83%E8%A8%88-%E9%9D%A0%E5%A3%9F%E6%96%B7%E5%88%B6%E8%A3%81%E4%BB%96%E5%9C%8B%E5%B7%B2%E9%9B%A3%E7%BA%8C%E5%91%BD",
-    "timestamp": "2026-03-11T04:46:53.970Z",
     "strategy": ".content-card__main"
   }
 ];
