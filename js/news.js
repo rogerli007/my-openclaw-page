@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-11T07:13:02.524Z
+// Last updated: 2026-03-11T08:52:42.178Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "新世界母企｜周大福企業據報管理層有變動　曾安業已退任聯席CEO",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20230917/779942896265596928278014.jpeg/bEBZZHbeXm9xDg2NHEIdgVCxedlbIcgWx1A67cdQOu0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60329532/%E6%96%B0%E4%B8%96%E7%95%8C%E6%AF%8D%E4%BC%81-%E5%91%A8%E5%A4%A7%E7%A6%8F%E4%BC%81%E6%A5%AD%E6%93%9A%E5%A0%B1%E7%AE%A1%E7%90%86%E5%B1%A4%E6%9C%89%E8%AE%8A%E5%8B%95-%E6%9B%BE%E5%AE%89%E6%A5%AD%E5%B7%B2%E9%80%80%E4%BB%BB%E8%81%AF%E5%B8%ADceo",
+    "timestamp": "2026-03-11T08:52:42.178Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "離島渡輪航線｜區議員指島民「硬食」加價　長者增幅最高近400%",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20240404/852524000193548288941063.jpeg/0V3I6Q_gu-ZPck0WCko6NapD2VxuIuUWzIjL5MyIy-Q?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60329245/%E6%B8%85%E6%98%8E%E7%AF%80-%E9%A3%9F%E7%92%B0%E7%BD%B2%E8%BD%84%E4%B8%8B%E9%AA%A8%E7%81%B0%E5%AE%89%E7%BD%AE%E6%89%803%E6%9C%8814%E6%97%A5%E8%87%B34%E6%9C%8819%E6%97%A5%E6%9C%9D7%E6%99%9A7%E9%96%8B%E6%94%BE%E4%BE%9B%E6%8B%9C%E7%A5%AD",
     "timestamp": "2026-03-10T12:25:43.301Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "永泰粉錦公路新盤「雲向」周六首輪開賣200伙",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260310/1108126903455191040463819.jpeg/rXBh6TLoMqY817VNeTESHlNrNJGQH5XTF4ZzbheGc24?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60329242/%E6%B0%B8%E6%B3%B0%E7%B2%89%E9%8C%A6%E5%85%AC%E8%B7%AF%E6%96%B0%E7%9B%A4-%E9%9B%B2%E5%90%91-%E5%91%A8%E5%85%AD%E9%A6%96%E8%BC%AA%E9%96%8B%E8%B3%A3200%E4%BC%99",
-    "timestamp": "2026-03-10T12:06:13.026Z",
     "strategy": ".content-card__main"
   }
 ];
