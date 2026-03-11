@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-11T12:03:24.980Z
+// Last updated: 2026-03-11T12:29:28.618Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "馬鞍山女屍命案　被告在錄影會面指事主是外星人　「吸地氣」身亡",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260305/1106276352224661504583019.jpeg/ahWTU47r9XKpA99y4nFrLlEYezbh4xoyb4KwV0qCsFc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60329410/%E9%A6%AC%E9%9E%8D%E5%B1%B1%E5%A5%B3%E5%B1%8D%E5%91%BD%E6%A1%88-%E8%A2%AB%E5%91%8A%E5%9C%A8%E9%8C%84%E5%BD%B1%E6%9C%83%E9%9D%A2%E6%8C%87%E4%BA%8B%E4%B8%BB%E6%98%AF%E5%A4%96%E6%98%9F%E4%BA%BA-%E5%90%B8%E5%9C%B0%E6%B0%A3-%E8%BA%AB%E4%BA%A1",
+    "timestamp": "2026-03-11T12:29:28.618Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "DSE｜兩史科擬修評核大綱　增MC題　中史卷二選修單元「6變3」",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260311/1108251514889048064839402.jpeg/4Y-VhHIaUY7KdmGcQ10amPvY-inMB47f_4NOssWDTrI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60329308/%E6%B5%81%E6%B5%AE%E5%B1%B1%E6%96%B0%E6%85%B6%E6%9D%91%E6%9D%91%E5%B1%8B%E9%81%AD%E7%88%86%E7%AB%8A-70%E6%AD%B2%E8%80%81%E5%A9%A6%E6%90%8D%E5%A4%B1%E9%80%BE-11%E8%90%AC%E7%8F%BE%E9%87%91-%E8%AD%A6%E8%BF%BD%E7%B7%9D%E8%B3%8A%E4%BA%BA",
     "timestamp": "2026-03-10T20:35:32.452Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "流浮山新慶村村屋遭爆竊　70歲老婦損失逾$11萬現金　警追緝賊人",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260311/1108251514889048064839402.jpeg/4Y-VhHIaUY7KdmGcQ10amPvY-inMB47f_4NOssWDTrI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60329308/%E6%B5%81%E6%B5%AE%E5%B1%B1%E6%96%B0%E6%85%B6%E6%9D%91%E6%9D%91%E5%B1%8B%E9%81%AD%E7%88%86%E7%AB%8A-70%E6%AD%B2%E8%80%81%E5%A9%A6%E6%90%8D%E5%A4%B1%E9%80%BE-11%E8%90%AC%E7%8F%BE%E9%87%91-%E8%AD%A6%E8%BF%BD%E7%B7%9D%E8%B3%8A%E4%BA%BA",
-    "timestamp": "2026-03-10T20:17:22.189Z",
     "strategy": ".content-card__main"
   }
 ];
