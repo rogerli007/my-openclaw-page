@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-11T13:38:01.743Z
+// Last updated: 2026-03-11T14:14:24.859Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "傳芊蕙子被混血肥仔家暴　發文疑回應：公義經常遲到至少沒有缺席",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260311/1108521208699162624930628.jpeg/bggh0Z-NzwJKOFVwnHV6dEabG1t1mIUT3r9uQ96_bkM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60329635/%E5%82%B3%E8%8A%8A%E8%95%99%E5%AD%90%E8%A2%AB%E6%B7%B7%E8%A1%80%E8%82%A5%E4%BB%94%E5%AE%B6%E6%9A%B4-%E7%99%BC%E6%96%87%E7%96%91%E5%9B%9E%E6%87%89-%E5%85%AC%E7%BE%A9%E7%B6%93%E5%B8%B8%E9%81%B2%E5%88%B0%E8%87%B3%E5%B0%91%E6%B2%92%E6%9C%89%E7%BC%BA%E5%B8%AD",
+    "timestamp": "2026-03-11T14:14:24.859Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "台積電高開逾1%　2月營收按年增22.2%　創歷年同期新高",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260311/1108284273380560896398015.jpeg/vjlEUw1Na7io4XTEUwnIShYYdO9lk4a1jORAR4zkQEc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60329289/%E5%A4%A9%E6%B0%A3-%E4%BB%8A%E6%97%A9%E6%B8%85%E6%B6%BC%E7%B4%8417%E5%BA%A6-%E6%97%A5%E9%96%93%E6%BC%B8%E8%BD%89%E5%A4%A9%E6%99%B4%E4%B9%BE%E7%87%A5-%E6%98%8E%E6%97%A5%E6%97%A9%E6%99%9A%E6%BA%AB%E5%B7%AE%E8%BC%83%E5%A4%A7",
     "timestamp": "2026-03-10T22:31:29.153Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "歐聯16強首回合｜馬德里體育會5：2熱刺　紐卡素1：1巴塞隆拿",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260311/1108277295451607040243815.jpeg/VumqfwJUmCnm_PKtE_EfKhVvXeChYey6dGY103RmNdM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60329312/%E6%AD%90%E8%81%AF16%E5%BC%B7%E9%A6%96%E5%9B%9E%E5%90%88-%E9%A6%AC%E5%BE%B7%E9%87%8C%E9%AB%94%E8%82%B2%E6%9C%835-2%E7%86%B1%E5%88%BA-%E7%B4%90%E5%8D%A1%E7%B4%A01-1%E5%B7%B4%E5%A1%9E%E9%9A%86%E6%8B%BF",
-    "timestamp": "2026-03-10T22:16:14.354Z",
     "strategy": ".content-card__main"
   }
 ];
