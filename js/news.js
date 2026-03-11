@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-11T14:14:24.859Z
+// Last updated: 2026-03-11T16:08:09.808Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "高球前港將由輔警轉正規圓夢想　 代表警隊出戰錦標賽兩度奪冠",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260311/1108549669635493888627539.jpeg/FQoFz5JOPLwfuJZNXjDB2rqHu1GepXQKTnzWNk581jY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60329653/%E9%AB%98%E7%90%83%E5%89%8D%E6%B8%AF%E5%B0%87%E7%94%B1%E8%BC%94%E8%AD%A6%E8%BD%89%E6%AD%A3%E8%A6%8F%E5%9C%93%E5%A4%A2%E6%83%B3-%E4%BB%A3%E8%A1%A8%E8%AD%A6%E9%9A%8A%E5%87%BA%E6%88%B0%E9%8C%A6%E6%A8%99%E8%B3%BD%E5%85%A9%E5%BA%A6%E5%A5%AA%E5%86%A0",
+    "timestamp": "2026-03-11T16:08:09.808Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "傳芊蕙子被混血肥仔家暴　發文疑回應：公義經常遲到至少沒有缺席",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260306/1106649880908009472012346.jpeg/02IgX24EHsLylPEF6myGeiuY1ap-foj2h7Of1oezn9Y?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60329313/%E8%8B%B1%E5%AA%92-%E4%BB%A5%E8%89%B2%E5%88%97%E6%8B%92%E7%B5%95%E9%BB%8E%E5%B7%B4%E5%AB%A9-%E5%81%9C%E7%81%AB-%E8%AB%87%E5%88%A4%E8%AB%8B%E6%B1%82-%E8%A6%81%E6%B1%82%E5%8F%AA%E8%83%BD%E4%BA%A4%E7%81%AB%E6%9C%9F%E9%96%93%E7%A3%8B%E5%95%86",
     "timestamp": "2026-03-10T22:50:35.674Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "天氣｜今早清涼約17度　日間漸轉天晴乾燥　明日早晚溫差較大",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260311/1108284273380560896398015.jpeg/vjlEUw1Na7io4XTEUwnIShYYdO9lk4a1jORAR4zkQEc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60329289/%E5%A4%A9%E6%B0%A3-%E4%BB%8A%E6%97%A9%E6%B8%85%E6%B6%BC%E7%B4%8417%E5%BA%A6-%E6%97%A5%E9%96%93%E6%BC%B8%E8%BD%89%E5%A4%A9%E6%99%B4%E4%B9%BE%E7%87%A5-%E6%98%8E%E6%97%A5%E6%97%A9%E6%99%9A%E6%BA%AB%E5%B7%AE%E8%BC%83%E5%A4%A7",
-    "timestamp": "2026-03-10T22:31:29.153Z",
     "strategy": ".content-card__main"
   }
 ];
