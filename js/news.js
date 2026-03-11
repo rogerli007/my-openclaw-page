@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-11T04:46:53.970Z
+// Last updated: 2026-03-11T05:16:31.461Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "前區議員王進洋涉電騙　承認7項洗黑錢罪　遭判囚45個月",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260311/1108370863742259200243681.jpeg/5WgHfhCma1HWOQaSgm1IX_Ls9WjWxk0DT5GBSU-RgUk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60329401/%E5%89%8D%E5%8D%80%E8%AD%B0%E5%93%A1%E7%8E%8B%E9%80%B2%E6%B4%8B%E6%B6%89%E9%9B%BB%E9%A8%99-%E6%89%BF%E8%AA%8D7%E9%A0%85%E6%B4%97%E9%BB%91%E9%8C%A2%E7%BD%AA-%E9%81%AD%E5%88%A4%E5%9B%9A45%E5%80%8B%E6%9C%88",
+    "timestamp": "2026-03-11T05:16:31.461Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美國AI產業泡沫化：成本以萬億美元計　靠壟斷制裁他國已難續命",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260310/1108105891615346688417208.jpeg/0uBt0Whx0wEPfqaJosd_c3EmjnlQK2P1mHiV_Zh4lf0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60329224/%E4%B9%9D%E9%BE%8D%E5%9F%8E%E5%AF%A8-%E8%83%A1%E5%AD%90%E5%BD%A4%E6%9C%AA%E8%81%9E%E6%B4%BD%E8%AB%87%E6%9C%A8%E6%9D%91%E6%8B%93%E5%93%89-%E7%8E%87%E5%85%88%E7%88%86%E5%8D%81%E4%BA%8C%E5%B0%91%E5%8A%87%E6%83%85-%E6%9C%83%E5%86%8D%E6%96%B7%E8%85%B3",
     "timestamp": "2026-03-10T10:52:36.743Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "馮宜萱「有眼無珠妝」紅到日韓　網民創意大爆發　竟撞臉日本諧星",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260310/1108103745650036736251798.png/WCYDyz7ypyGmTpCHJHsKV4I9JjTiAEXE-zJHWfsyR1k?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%96%8B%E7%BD%90/60329040/%E9%A6%AE%E5%AE%9C%E8%90%B1-%E6%9C%89%E7%9C%BC%E7%84%A1%E7%8F%A0%E5%A6%9D-%E7%B4%85%E5%88%B0%E6%97%A5%E9%9F%93-%E7%B6%B2%E6%B0%91%E5%89%B5%E6%84%8F%E5%A4%A7%E7%88%86%E7%99%BC-%E7%AB%9F%E6%92%9E%E8%87%89%E6%97%A5%E6%9C%AC%E8%AB%A7%E6%98%9F",
-    "timestamp": "2026-03-10T10:24:08.764Z",
     "strategy": ".content-card__main"
   }
 ];
