@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-11T22:16:00.570Z
+// Last updated: 2026-03-11T22:32:45.209Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "天氣｜今日天晴乾燥　日間溫暖最高24度　未來一兩日早上清涼",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260312/1108646267002556416210574.jpeg/1O_j8LrOFa1TJfXhivYGeqTCmW3_fH8GscVPvLHFT7w?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60329664/%E5%A4%A9%E6%B0%A3-%E4%BB%8A%E6%97%A5%E5%A4%A9%E6%99%B4%E4%B9%BE%E7%87%A5-%E6%97%A5%E9%96%93%E6%BA%AB%E6%9A%96%E6%9C%80%E9%AB%9824%E5%BA%A6-%E6%9C%AA%E4%BE%86%E4%B8%80%E5%85%A9%E6%97%A5%E6%97%A9%E4%B8%8A%E6%B8%85%E6%B6%BC",
+    "timestamp": "2026-03-11T22:32:45.209Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "歐聯16強首回合｜巴黎聖日耳門5：2車路士　皇家馬德里3：０曼城",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250311/976160959913529344620378.jpeg/u8cyUEUiICs7eThzxNzfA6muvzsDyMtoNb9j6jW_Y-o?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60329473/%E5%A4%A7%E6%91%A9-%E5%85%A7%E5%9C%B0%E8%B2%B7%E5%AE%B6%E4%B9%98%E4%BA%BA%E6%B0%91%E5%B9%A3%E5%8D%87%E5%80%BC%E8%B2%B7%E6%B8%AF%E6%A8%93-%E9%A6%96%E5%85%A9%E5%80%8B%E6%9C%88%E6%8E%832600%E4%BC%99%E6%8C%89%E5%B9%B4%E5%A2%9E91",
     "timestamp": "2026-03-11T06:37:51.983Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "前區議員王進洋涉電騙　承認7項洗黑錢罪　遭判囚45個月",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260311/1108370863742259200243681.jpeg/5WgHfhCma1HWOQaSgm1IX_Ls9WjWxk0DT5GBSU-RgUk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60329401/%E5%89%8D%E5%8D%80%E8%AD%B0%E5%93%A1%E7%8E%8B%E9%80%B2%E6%B4%8B%E6%B6%89%E9%9B%BB%E9%A8%99-%E6%89%BF%E8%AA%8D7%E9%A0%85%E6%B4%97%E9%BB%91%E9%8C%A2%E7%BD%AA-%E9%81%AD%E5%88%A4%E5%9B%9A45%E5%80%8B%E6%9C%88",
-    "timestamp": "2026-03-11T05:16:31.461Z",
     "strategy": ".content-card__main"
   }
 ];
