@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-11T17:39:00.810Z
+// Last updated: 2026-03-11T20:01:03.462Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "歐聯16強首回合｜阿仙奴作客1：1逼和利華古遜",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260312/1108611141694656512091857.jpeg/MM7kSdxZDZs-WVGlCsXn7Odt9nq7FTMb4-6hOePuoTk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60329672/%E6%AD%90%E8%81%AF16%E5%BC%B7%E9%A6%96%E5%9B%9E%E5%90%88-%E9%98%BF%E4%BB%99%E5%A5%B4%E4%BD%9C%E5%AE%A21-1%E9%80%BC%E5%92%8C%E5%88%A9%E8%8F%AF%E5%8F%A4%E9%81%9C",
+    "timestamp": "2026-03-11T20:01:03.462Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "旺角住宅變販毒中心　警檢$38萬毒品　拘捕2男女",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260303/1105549519640072192530218.jpeg/1j_RdlFcxjqwNX8lH6W3cbUXV9g0bsS8pCMDqaQjA6k?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/60316591/%E7%94%9F%E8%9B%87-%E6%84%9F%E6%9F%93%E7%8E%87%E7%82%BA90-%E9%86%AB%E6%8F%AD%E5%B8%B6%E7%8B%80%E7%9A%B0%E7%96%B94%E9%A1%9E%E9%AB%98%E5%8D%B1%E4%BA%BA%E7%BE%A4-50%E6%AD%B2%E4%BB%A5%E4%B8%8A%E8%A6%81%E5%B0%8F%E5%BF%83",
     "timestamp": "2026-03-11T02:07:16.249Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "DSE2026｜英文科攻略　講解各卷最後衝刺方向、常見失分位",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260310/1108029819745996800786409.png/GbWn_pO4zXjk62eGxWERkAlxRvSsxVAMLGMtjSxjLY0?v=w1920r16_9",
-    "url": "https://www.hk01.com/DSE%E5%B0%88%E5%8D%80/60326376/dse2026-%E8%8B%B1%E6%96%87%E7%A7%91%E6%94%BB%E7%95%A5-%E8%AC%9B%E8%A7%A3%E5%90%84%E5%8D%B7%E6%9C%80%E5%BE%8C%E8%A1%9D%E5%88%BA%E6%96%B9%E5%90%91-%E5%B8%B8%E8%A6%8B%E5%A4%B1%E5%88%86%E4%BD%8D",
-    "timestamp": "2026-03-10T23:31:50.189Z",
     "strategy": ".content-card__main"
   }
 ];
