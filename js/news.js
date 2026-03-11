@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-11T02:07:16.249Z
+// Last updated: 2026-03-11T03:10:48.484Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "WSJ：IEA擬釋放史上最大規模儲油　以穩定國際能源市場",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20241017/923642874812174336564730.jpeg/Cr6TohRkz4pfqfQv7jRHs5pdAyz7naB6muLEn5rixJ8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60329359/wsj-iea%E6%93%AC%E9%87%8B%E6%94%BE%E5%8F%B2%E4%B8%8A%E6%9C%80%E5%A4%A7%E8%A6%8F%E6%A8%A1%E5%84%B2%E6%B2%B9-%E4%BB%A5%E7%A9%A9%E5%AE%9A%E5%9C%8B%E9%9A%9B%E8%83%BD%E6%BA%90%E5%B8%82%E5%A0%B4",
+    "timestamp": "2026-03-11T03:10:48.484Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "生蛇｜感染率為90%？醫揭帶狀皰疹4類高危人群：50歲以上要小心",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260224/1103079621798137856760194.jpeg/_m33fVeXVoylfeXEQdI5j5t0i3uLFt-gcKN_x3Cjf8c?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60329125/%E6%97%A5%E6%9C%AC%E5%B2%A1%E5%B1%B1%E8%A3%B8%E7%94%B7%E7%A5%AD%E7%88%86%E6%B7%B7%E4%BA%82-48%E6%AD%B2%E7%94%B7%E7%95%99%E9%86%AB%E5%A4%9A%E5%A4%A9%E5%BE%8C%E6%AD%BB%E4%BA%A1-%E5%8F%A6%E6%9C%89%E4%BA%BA%E4%BB%8D%E6%98%8F%E8%BF%B7",
     "timestamp": "2026-03-10T08:22:46.792Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "今年前2個月　中國外貿增速重回兩位數至18.3%",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260310/1108021963915268096813697.jpeg/FoXCPAd7Cww4PENs_UewKHVv0XMCk8ERwblqR8G5akc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60329053/%E4%BB%8A%E5%B9%B4%E5%89%8D2%E5%80%8B%E6%9C%88-%E4%B8%AD%E5%9C%8B%E5%A4%96%E8%B2%BF%E5%A2%9E%E9%80%9F%E9%87%8D%E5%9B%9E%E5%85%A9%E4%BD%8D%E6%95%B8%E8%87%B318-3",
-    "timestamp": "2026-03-10T05:33:13.795Z",
     "strategy": ".content-card__main"
   }
 ];
