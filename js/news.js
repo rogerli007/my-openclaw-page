@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-11T20:01:03.462Z
+// Last updated: 2026-03-11T20:20:22.681Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "歐聯16強首回合｜阿仙奴作客1：1逼和利華古遜",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260312/1108611141694656512091857.jpeg/MM7kSdxZDZs-WVGlCsXn7Odt9nq7FTMb4-6hOePuoTk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60329672/%E6%AD%90%E8%81%AF16%E5%BC%B7%E9%A6%96%E5%9B%9E%E5%90%88-%E9%98%BF%E4%BB%99%E5%A5%B4%E4%BD%9C%E5%AE%A21-1%E9%80%BC%E5%92%8C%E5%88%A9%E8%8F%AF%E5%8F%A4%E9%81%9C",
+    "timestamp": "2026-03-11T20:20:22.681Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "歐聯16強首回合｜阿仙奴作客1：1逼和利華古遜",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20241017/923642874812174336564730.jpeg/Cr6TohRkz4pfqfQv7jRHs5pdAyz7naB6muLEn5rixJ8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60329359/wsj-iea%E6%93%AC%E9%87%8B%E6%94%BE%E5%8F%B2%E4%B8%8A%E6%9C%80%E5%A4%A7%E8%A6%8F%E6%A8%A1%E5%84%B2%E6%B2%B9-%E4%BB%A5%E7%A9%A9%E5%AE%9A%E5%9C%8B%E9%9A%9B%E8%83%BD%E6%BA%90%E5%B8%82%E5%A0%B4",
     "timestamp": "2026-03-11T03:10:48.484Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "生蛇｜感染率為90%？醫揭帶狀皰疹4類高危人群：50歲以上要小心",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260303/1105549519640072192530218.jpeg/1j_RdlFcxjqwNX8lH6W3cbUXV9g0bsS8pCMDqaQjA6k?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/60316591/%E7%94%9F%E8%9B%87-%E6%84%9F%E6%9F%93%E7%8E%87%E7%82%BA90-%E9%86%AB%E6%8F%AD%E5%B8%B6%E7%8B%80%E7%9A%B0%E7%96%B94%E9%A1%9E%E9%AB%98%E5%8D%B1%E4%BA%BA%E7%BE%A4-50%E6%AD%B2%E4%BB%A5%E4%B8%8A%E8%A6%81%E5%B0%8F%E5%BF%83",
-    "timestamp": "2026-03-11T02:07:16.249Z",
     "strategy": ".content-card__main"
   }
 ];
