@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-11T09:53:06.265Z
+// Last updated: 2026-03-11T10:24:12.188Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "院前中風分流計劃暫52人受惠　縮短80分鐘轉院時間　擬逐步擴全港",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260311/1108456610658783232061982.jpeg/9Gtc_dAXOzMkIJ9YIIK1KYKGIrBfrgbM7Zc_5O2XP-Q?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60329565/%E9%99%A2%E5%89%8D%E4%B8%AD%E9%A2%A8%E5%88%86%E6%B5%81%E8%A8%88%E5%8A%83%E6%9A%AB52%E4%BA%BA%E5%8F%97%E6%83%A0-%E7%B8%AE%E7%9F%AD80%E5%88%86%E9%90%98%E8%BD%89%E9%99%A2%E6%99%82%E9%96%93-%E6%93%AC%E9%80%90%E6%AD%A5%E6%93%B4%E5%85%A8%E6%B8%AF",
+    "timestamp": "2026-03-11T10:24:12.188Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "大摩據報為節省成本在港聘合約員工　以應對IPO熱潮",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20251230/1082717903490387968428079.jpeg/X9-VP3zmaFUxYPN71j9mQ1dxUJ5JWB2S-J-bNPifmzQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60329298/%E7%8E%8B%E6%AF%85-%E4%BC%8A%E6%9C%97%E6%88%B0%E4%BA%8B%E7%BC%BA%E5%90%88%E6%B3%95%E6%80%A7-%E6%8C%81%E7%BA%8C%E5%8F%AA%E9%87%80%E6%9B%B4%E5%A4%9A%E7%84%A1%E8%AC%82%E5%82%B7%E4%BA%A1-%E4%B8%AD%E6%96%B9%E7%B1%B2%E7%AB%8B%E5%8D%B3%E5%81%9C%E7%81%AB",
     "timestamp": "2026-03-10T18:07:09.937Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "六合彩3.12頭獎$1300萬｜6個最旺號碼+2招增中獎機會+幸運投注站",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260228/1104535693322883072415983.jpeg/1NgvBJeLfN8BfkpelLOdIcaZsoAbm1Sigi7rgIIu64A?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60329267/%E5%85%AD%E5%90%88%E5%BD%A93-12%E9%A0%AD%E7%8D%8E-1300%E8%90%AC-6%E5%80%8B%E6%9C%80%E6%97%BA%E8%99%9F%E7%A2%BC-2%E6%8B%9B%E5%A2%9E%E4%B8%AD%E7%8D%8E%E6%A9%9F%E6%9C%83-%E5%B9%B8%E9%81%8B%E6%8A%95%E6%B3%A8%E7%AB%99",
-    "timestamp": "2026-03-10T14:11:32.313Z",
     "strategy": ".content-card__main"
   }
 ];
