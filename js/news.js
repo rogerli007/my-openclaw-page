@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-11T12:54:21.315Z
+// Last updated: 2026-03-11T13:38:01.743Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "台積電高開逾1%　2月營收按年增22.2%　創歷年同期新高",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20240129/828685928397541376087195.jpeg/wWwT8tO9aNH-x6yGk2pN5GxIlYiZHkM25TvSceU70nE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60329598/%E5%8F%B0%E7%A9%8D%E9%9B%BB%E9%AB%98%E9%96%8B%E9%80%BE1-2%E6%9C%88%E7%87%9F%E6%94%B6%E6%8C%89%E5%B9%B4%E5%A2%9E22-2-%E5%89%B5%E6%AD%B7%E5%B9%B4%E5%90%8C%E6%9C%9F%E6%96%B0%E9%AB%98",
+    "timestamp": "2026-03-11T13:38:01.743Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "彭博︰監管部門突擊搜查中信証券及國泰君安國際辦公室",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260311/1108277295451607040243815.jpeg/VumqfwJUmCnm_PKtE_EfKhVvXeChYey6dGY103RmNdM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60329312/%E6%AD%90%E8%81%AF16%E5%BC%B7%E9%A6%96%E5%9B%9E%E5%90%88-%E9%A6%AC%E5%BE%B7%E9%87%8C%E9%AB%94%E8%82%B2%E6%9C%835-2%E7%86%B1%E5%88%BA-%E7%B4%90%E5%8D%A1%E7%B4%A01-1%E5%B7%B4%E5%A1%9E%E9%9A%86%E6%8B%BF",
     "timestamp": "2026-03-10T22:16:14.354Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "威特科夫：普京向特朗普稱未向伊朗提供美軍情報",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20251119/1067824942218743808654397.jpeg/P92_zEqOmFNt5ajm_U2-YvwWDJYWNZyrZw4sWWcOLFk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60329309/%E5%A8%81%E7%89%B9%E7%A7%91%E5%A4%AB-%E6%99%AE%E4%BA%AC%E5%90%91%E7%89%B9%E6%9C%97%E6%99%AE%E7%A8%B1%E6%9C%AA%E5%90%91%E4%BC%8A%E6%9C%97%E6%8F%90%E4%BE%9B%E7%BE%8E%E8%BB%8D%E6%83%85%E5%A0%B1",
-    "timestamp": "2026-03-10T21:01:56.219Z",
     "strategy": ".content-card__main"
   }
 ];
