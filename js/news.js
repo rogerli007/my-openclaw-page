@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-11T22:48:16.768Z
+// Last updated: 2026-03-11T23:00:57.436Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "校長灼見｜聖博德承傳獅子山精神　從李小龍武術哲學悟自強不息",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260310/1107989604474032128201839.jpeg/pYs3HfHJntFvnK1htLtncmCwPPkaFynZsSa3ebEmt3k?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E4%B8%AD%E5%B0%8F%E5%AD%B8%E6%A0%A1%E5%9C%92/60328838/%E6%A0%A1%E9%95%B7%E7%81%BC%E8%A6%8B-%E8%81%96%E5%8D%9A%E5%BE%B7%E6%89%BF%E5%82%B3%E7%8D%85%E5%AD%90%E5%B1%B1%E7%B2%BE%E7%A5%9E-%E5%BE%9E%E6%9D%8E%E5%B0%8F%E9%BE%8D%E6%AD%A6%E8%A1%93%E5%93%B2%E5%AD%B8%E6%82%9F%E8%87%AA%E5%BC%B7%E4%B8%8D%E6%81%AF",
+    "timestamp": "2026-03-11T23:00:57.436Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "元朗公路3車相撞往上水全封　貨車司機被困　警開放路肩疏導車流",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20230917/779942896265596928278014.jpeg/bEBZZHbeXm9xDg2NHEIdgVCxedlbIcgWx1A67cdQOu0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60329532/%E6%96%B0%E4%B8%96%E7%95%8C%E6%AF%8D%E4%BC%81-%E5%91%A8%E5%A4%A7%E7%A6%8F%E4%BC%81%E6%A5%AD%E6%93%9A%E5%A0%B1%E7%AE%A1%E7%90%86%E5%B1%A4%E6%9C%89%E8%AE%8A%E5%8B%95-%E6%9B%BE%E5%AE%89%E6%A5%AD%E5%B7%B2%E9%80%80%E4%BB%BB%E8%81%AF%E5%B8%ADceo",
     "timestamp": "2026-03-11T08:52:42.178Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "離島渡輪航線｜區議員指島民「硬食」加價　長者增幅最高近400%",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20240227/839153267123556352534879.jpeg/bKnsDfEiuQulO5lGDcyvwnHz4wlj_XUiObsNwDm7DcA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60329443/%E9%9B%A2%E5%B3%B6%E6%B8%A1%E8%BC%AA%E8%88%AA%E7%B7%9A-%E5%8D%80%E8%AD%B0%E5%93%A1%E6%8C%87%E5%B3%B6%E6%B0%91-%E7%A1%AC%E9%A3%9F-%E5%8A%A0%E5%83%B9-%E9%95%B7%E8%80%85%E5%A2%9E%E5%B9%85%E6%9C%80%E9%AB%98%E8%BF%91400",
-    "timestamp": "2026-03-11T07:13:02.524Z",
     "strategy": ".content-card__main"
   }
 ];
