@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-11T12:29:28.618Z
+// Last updated: 2026-03-11T12:54:21.315Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "彭博︰監管部門突擊搜查中信証券及國泰君安國際辦公室",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260303/1105508090003853312192478.jpeg/XI4W-fTUADoxxvUUtHNx-OcfYbnMYCCm7qqqb-6qqm8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60329620/%E5%BD%AD%E5%8D%9A-%E7%9B%A3%E7%AE%A1%E9%83%A8%E9%96%80%E7%AA%81%E6%93%8A%E6%90%9C%E6%9F%A5%E4%B8%AD%E4%BF%A1%E8%A8%BC%E5%88%B8%E5%8F%8A%E5%9C%8B%E6%B3%B0%E5%90%9B%E5%AE%89%E5%9C%8B%E9%9A%9B%E8%BE%A6%E5%85%AC%E5%AE%A4",
+    "timestamp": "2026-03-11T12:54:21.315Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "馬鞍山女屍命案　被告在錄影會面指事主是外星人　「吸地氣」身亡",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20251119/1067824942218743808654397.jpeg/P92_zEqOmFNt5ajm_U2-YvwWDJYWNZyrZw4sWWcOLFk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60329309/%E5%A8%81%E7%89%B9%E7%A7%91%E5%A4%AB-%E6%99%AE%E4%BA%AC%E5%90%91%E7%89%B9%E6%9C%97%E6%99%AE%E7%A8%B1%E6%9C%AA%E5%90%91%E4%BC%8A%E6%9C%97%E6%8F%90%E4%BE%9B%E7%BE%8E%E8%BB%8D%E6%83%85%E5%A0%B1",
     "timestamp": "2026-03-10T21:01:56.219Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "流浮山新慶村村屋遭爆竊　70歲老婦損失逾$11萬現金　警追緝賊人",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260311/1108251514889048064839402.jpeg/4Y-VhHIaUY7KdmGcQ10amPvY-inMB47f_4NOssWDTrI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60329308/%E6%B5%81%E6%B5%AE%E5%B1%B1%E6%96%B0%E6%85%B6%E6%9D%91%E6%9D%91%E5%B1%8B%E9%81%AD%E7%88%86%E7%AB%8A-70%E6%AD%B2%E8%80%81%E5%A9%A6%E6%90%8D%E5%A4%B1%E9%80%BE-11%E8%90%AC%E7%8F%BE%E9%87%91-%E8%AD%A6%E8%BF%BD%E7%B7%9D%E8%B3%8A%E4%BA%BA",
-    "timestamp": "2026-03-10T20:35:32.452Z",
     "strategy": ".content-card__main"
   }
 ];
