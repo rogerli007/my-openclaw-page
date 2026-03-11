@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-11T03:10:48.484Z
+// Last updated: 2026-03-11T04:03:11.612Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "長者免費健身4大推介｜$0學太極/跳舞/瑜伽/免費健身室+報名方法",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260311/1108368512306384896138924.jpeg/nIjNZIZjlCX4kPN-_gh32nWcz3OL63X87-DPYe_gz2E?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%A3%9F%E7%8E%A9%E8%B2%B7/60329179/%E9%95%B7%E8%80%85%E5%85%8D%E8%B2%BB%E5%81%A5%E8%BA%AB4%E5%A4%A7%E6%8E%A8%E4%BB%8B-0%E5%AD%B8%E5%A4%AA%E6%A5%B5-%E8%B7%B3%E8%88%9E-%E7%91%9C%E4%BC%BD-%E5%85%8D%E8%B2%BB%E5%81%A5%E8%BA%AB%E5%AE%A4-%E5%A0%B1%E5%90%8D%E6%96%B9%E6%B3%95",
+    "timestamp": "2026-03-11T04:03:11.612Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "WSJ：IEA擬釋放史上最大規模儲油　以穩定國際能源市場",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260305/1106204910124273664495273.png/1GzrlAM4TFQoEpelNjpIOy2DJ51WOUHgNVIiqTVSIqk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%B6%B2%E7%A7%913.0/60327646/%E5%9C%A8%E5%AE%B6%E9%96%80%E5%8F%A3%E5%8F%83%E8%88%87%E5%9C%8B%E9%9A%9B%E7%A7%91%E7%A0%94-%E4%BD%86%E9%80%99%E6%89%87%E9%96%80-%E5%B0%8D%E6%AF%8F%E5%80%8B%E9%A6%99%E6%B8%AF%E9%9D%92%E5%B9%B4%E9%83%BD%E9%96%8B%E8%91%97%E5%97%8E",
     "timestamp": "2026-03-10T08:53:12.960Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "日本岡山裸男祭爆混亂　48歲男留醫多天後死亡　另有人仍昏迷",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260224/1103079621798137856760194.jpeg/_m33fVeXVoylfeXEQdI5j5t0i3uLFt-gcKN_x3Cjf8c?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60329125/%E6%97%A5%E6%9C%AC%E5%B2%A1%E5%B1%B1%E8%A3%B8%E7%94%B7%E7%A5%AD%E7%88%86%E6%B7%B7%E4%BA%82-48%E6%AD%B2%E7%94%B7%E7%95%99%E9%86%AB%E5%A4%9A%E5%A4%A9%E5%BE%8C%E6%AD%BB%E4%BA%A1-%E5%8F%A6%E6%9C%89%E4%BA%BA%E4%BB%8D%E6%98%8F%E8%BF%B7",
-    "timestamp": "2026-03-10T08:22:46.792Z",
     "strategy": ".content-card__main"
   }
 ];
