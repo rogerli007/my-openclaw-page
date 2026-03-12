@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-12T22:00:33.385Z
+// Last updated: 2026-03-12T22:15:00.044Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "歐霸盃16強首回合｜諾定咸森林0：1不敵米迪蘭特",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260313/1109008134526996480675201.jpeg/iuTJxeFZTtsaKHbt6aH1RhiBkBtDShNYtwf8nLcH_Jw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60330065/%E6%AD%90%E9%9C%B8%E7%9B%8316%E5%BC%B7%E9%A6%96%E5%9B%9E%E5%90%88-%E8%AB%BE%E5%AE%9A%E5%92%B8%E6%A3%AE%E6%9E%970-1%E4%B8%8D%E6%95%B5%E7%B1%B3%E8%BF%AA%E8%98%AD%E7%89%B9",
+    "timestamp": "2026-03-12T22:15:00.044Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "巴西外長：特朗普顧問擬探望獄中博爾索納羅　或構成干預內政",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260312/1108832533300121600941508.jpeg/FeeSlr2hg_U5O3sZrSG1qby_HCQsbWUAtnyYKbZ8mCk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60329841/%E8%87%A5%E5%BA%95%E5%AC%8C%E5%A8%83-%E7%A5%9E%E9%A0%90%E8%A8%80-%E7%BE%85%E6%AF%93%E5%84%80%E5%AF%B8%E9%8D%BE%E6%9F%94%E7%BE%8E%E5%81%BDa0-%E5%94%94%E4%BF%A1%E4%BD%A0%E5%86%87%E7%B6%93%E9%A9%97-%E5%92%AA%E6%89%AE%E5%98%A2",
     "timestamp": "2026-03-12T11:47:19.867Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "I.O.I演唱會2026香港｜門票優先/公售攻略＋購票連結＋座位表",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260312/1108780910305611776067291.jpeg/F-Z1xREX3Yb-fuHpTrxdGmydrFMWp3fzrqkTLq6pEy4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60329852/i-o-i%E6%BC%94%E5%94%B1%E6%9C%832026%E9%A6%99%E6%B8%AF-%E9%96%80%E7%A5%A8%E5%84%AA%E5%85%88-%E5%85%AC%E5%94%AE%E6%94%BB%E7%95%A5-%E8%B3%BC%E7%A5%A8%E9%80%A3%E7%B5%90-%E5%BA%A7%E4%BD%8D%E8%A1%A8",
-    "timestamp": "2026-03-12T09:53:46.747Z",
     "strategy": ".content-card__main"
   }
 ];
