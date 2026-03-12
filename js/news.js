@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-12T16:42:43.756Z
+// Last updated: 2026-03-12T17:16:14.660Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美國對台展開301和337調查　台經濟部：已與相關台廠聯繫提供協助",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260312/1108843563266871296942376.jpeg/B_4Nr8K3yImoE4_XpD3ZWZZpjEvkodXy1hGEhdYRhIU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8F%B0%E7%81%A3%E6%96%B0%E8%81%9E/60329991/%E7%BE%8E%E5%9C%8B%E5%B0%8D%E5%8F%B0%E5%B1%95%E9%96%8B301%E5%92%8C337%E8%AA%BF%E6%9F%A5-%E5%8F%B0%E7%B6%93%E6%BF%9F%E9%83%A8-%E5%B7%B2%E8%88%87%E7%9B%B8%E9%97%9C%E5%8F%B0%E5%BB%A0%E8%81%AF%E7%B9%AB%E6%8F%90%E4%BE%9B%E5%8D%94%E5%8A%A9",
+    "timestamp": "2026-03-12T17:16:14.660Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "20歲英皇前新人「未經同意下發布私密影像」罪成　還押至月底判刑",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260311/1108522653859188736259604.jpeg/0fQUtmUptytcD-5Qgulqq0jRNNJjgD4kAiipagIoqWo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60329564/%E8%AD%9A%E8%A9%A0%E9%BA%9F%E5%98%86%E8%84%B9%E7%88%86%E7%94%9F%E8%A0%94%E7%B4%85%E9%85%92%E9%A3%B2%E5%88%B0%E9%9D%A2%E9%80%9A%E7%B4%85-%E7%97%85%E6%9A%B4%E7%98%A615%E7%A3%85%E8%B1%AA%E9%A3%9F%E5%86%8D%E6%9A%B4%E8%82%A5%E6%9C%AA%E9%A9%9A%E9%81%8E",
     "timestamp": "2026-03-11T23:16:31.172Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "校長灼見｜聖博德承傳獅子山精神　從李小龍武術哲學悟自強不息",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260310/1107989604474032128201839.jpeg/pYs3HfHJntFvnK1htLtncmCwPPkaFynZsSa3ebEmt3k?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E4%B8%AD%E5%B0%8F%E5%AD%B8%E6%A0%A1%E5%9C%92/60328838/%E6%A0%A1%E9%95%B7%E7%81%BC%E8%A6%8B-%E8%81%96%E5%8D%9A%E5%BE%B7%E6%89%BF%E5%82%B3%E7%8D%85%E5%AD%90%E5%B1%B1%E7%B2%BE%E7%A5%9E-%E5%BE%9E%E6%9D%8E%E5%B0%8F%E9%BE%8D%E6%AD%A6%E8%A1%93%E5%93%B2%E5%AD%B8%E6%82%9F%E8%87%AA%E5%BC%B7%E4%B8%8D%E6%81%AF",
-    "timestamp": "2026-03-11T23:00:57.436Z",
     "strategy": ".content-card__main"
   }
 ];
