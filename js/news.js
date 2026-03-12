@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-12T16:16:25.277Z
+// Last updated: 2026-03-12T16:42:43.756Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "20歲英皇前新人「未經同意下發布私密影像」罪成　還押至月底判刑",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260312/1108896886699331584841032.jpeg/vNyubRiilarcuBKJmwo9PiB2mpogQ9yY5GbHLeRmxy0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60330027/20%E6%AD%B2%E8%8B%B1%E7%9A%87%E5%89%8D%E6%96%B0%E4%BA%BA-%E6%9C%AA%E7%B6%93%E5%90%8C%E6%84%8F%E4%B8%8B%E7%99%BC%E5%B8%83%E7%A7%81%E5%AF%86%E5%BD%B1%E5%83%8F-%E7%BD%AA%E6%88%90-%E9%82%84%E6%8A%BC%E8%87%B3%E6%9C%88%E5%BA%95%E5%88%A4%E5%88%91",
+    "timestamp": "2026-03-12T16:42:43.756Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "警大埔搗破非法麻雀賭檔　37人被捕　案件提堂",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260310/1107989604474032128201839.jpeg/pYs3HfHJntFvnK1htLtncmCwPPkaFynZsSa3ebEmt3k?v=w1920r16_9",
     "url": "https://www.hk01.com/%E4%B8%AD%E5%B0%8F%E5%AD%B8%E6%A0%A1%E5%9C%92/60328838/%E6%A0%A1%E9%95%B7%E7%81%BC%E8%A6%8B-%E8%81%96%E5%8D%9A%E5%BE%B7%E6%89%BF%E5%82%B3%E7%8D%85%E5%AD%90%E5%B1%B1%E7%B2%BE%E7%A5%9E-%E5%BE%9E%E6%9D%8E%E5%B0%8F%E9%BE%8D%E6%AD%A6%E8%A1%93%E5%93%B2%E5%AD%B8%E6%82%9F%E8%87%AA%E5%BC%B7%E4%B8%8D%E6%81%AF",
     "timestamp": "2026-03-11T23:00:57.436Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "元朗公路3車相撞往上水全封　貨車司機被困　警開放路肩疏導車流",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260312/1108651459009843200148539.jpeg/S7I8qZUDcGWjHADPMJF-j1MUkFAWhxk9ZDAEiWQwBIk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60329679/%E5%85%83%E6%9C%97%E5%85%AC%E8%B7%AF3%E8%BB%8A%E7%9B%B8%E6%92%9E%E5%BE%80%E4%B8%8A%E6%B0%B4%E5%85%A8%E5%B0%81-%E8%B2%A8%E8%BB%8A%E5%8F%B8%E6%A9%9F%E8%A2%AB%E5%9B%B0-%E8%AD%A6%E9%96%8B%E6%94%BE%E8%B7%AF%E8%82%A9%E7%96%8F%E5%B0%8E%E8%BB%8A%E6%B5%81",
-    "timestamp": "2026-03-11T22:48:16.768Z",
     "strategy": ".content-card__main"
   }
 ];
