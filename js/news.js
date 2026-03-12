@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-12T20:02:02.875Z
+// Last updated: 2026-03-12T20:20:52.518Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "女足最前線｜女子亞洲盃8強　中國女足有力「大」勝",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260312/1108796897729974272480372.jpeg/t9NSW3YJJLcQv3GbQC84qJ5XtEJgbbcqFGu9XhRrvV4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60329895/%E5%A5%B3%E8%B6%B3%E6%9C%80%E5%89%8D%E7%B7%9A-%E5%A5%B3%E5%AD%90%E4%BA%9E%E6%B4%B2%E7%9B%838%E5%BC%B7-%E4%B8%AD%E5%9C%8B%E5%A5%B3%E8%B6%B3%E6%9C%89%E5%8A%9B-%E5%A4%A7-%E5%8B%9D",
+    "timestamp": "2026-03-12T20:20:52.518Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "伊朗外交部：許多船隻只要與伊朗海軍協調　仍可通過霍爾木茲海峽",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260220/1101575557881008128109725.jpeg/-vAbnL7kWHfPNv1QKPR67KBAnUvkRmyN8WeTc_Fnk3M?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60329862/%E5%9C%8B%E6%B3%B0%E4%B8%8A%E8%AA%BF%E7%87%83%E6%B2%B9%E9%99%84%E5%8A%A0%E8%B2%BB-%E9%95%B7%E9%80%94%E6%A9%9F%E5%8A%A0%E8%87%B31164%E5%85%83-3-18%E6%97%A5%E8%B5%B7%E6%95%88",
     "timestamp": "2026-03-12T07:30:37.912Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "東京手信10大推介｜新登場香草餅乾／奢華西京燒／焦糖燉蛋布甸撻",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260312/1108776533520027648240768.jpeg/byASa-mqnCkByomb5kmR3mVO2zq4jn1IVZZfHVWWXx0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%97%85%E9%81%8A/60329503/%E6%9D%B1%E4%BA%AC%E6%89%8B%E4%BF%A110%E5%A4%A7%E6%8E%A8%E4%BB%8B-%E6%96%B0%E7%99%BB%E5%A0%B4%E9%A6%99%E8%8D%89%E9%A4%85%E4%B9%BE-%E5%A5%A2%E8%8F%AF%E8%A5%BF%E4%BA%AC%E7%87%92-%E7%84%A6%E7%B3%96%E7%87%89%E8%9B%8B%E5%B8%83%E7%94%B8%E6%92%BB",
-    "timestamp": "2026-03-12T06:55:17.288Z",
     "strategy": ".content-card__main"
   }
 ];
