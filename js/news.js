@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-12T23:18:04.891Z
+// Last updated: 2026-03-12T23:49:55.046Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "網球｜黃澤林蓬塔卡納挑戰賽闖8強　再演逆轉好戲挫3號種子",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260313/1109029221964976128538917.jpeg/U6P7cUWy6rwxTzeGQa7zBNnD6AjinIvoVAwJh1QMCYc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60330069/%E7%B6%B2%E7%90%83-%E9%BB%83%E6%BE%A4%E6%9E%97%E8%93%AC%E5%A1%94%E5%8D%A1%E7%B4%8D%E6%8C%91%E6%88%B0%E8%B3%BD%E9%97%968%E5%BC%B7-%E5%86%8D%E6%BC%94%E9%80%86%E8%BD%89%E5%A5%BD%E6%88%B2%E6%8C%AB3%E8%99%9F%E7%A8%AE%E5%AD%90",
+    "timestamp": "2026-03-12T23:49:55.046Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "90歲老婦遭4蒙面男入屋輪姦企圖殺害！女兒恐家醜外傳無即時送院",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260312/1108859306821816320071284.jpeg/VC4FMZwlvfTpWGMamAcP8w2zTn6Yz5OmRte1vEbXtbw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%97%9D%E6%96%87/60329998/m-%E9%9F%93%E5%9C%8B%E8%97%9D%E8%A1%93%E5%B7%A8%E6%93%98%E6%9D%8E%E6%98%A2%E5%A4%A7%E5%B1%95-%E5%BE%9E%E8%B3%BD%E5%8D%9A%E6%A0%BC%E5%88%B0%E5%8F%8D%E7%83%8F%E6%89%98%E9%82%A6-%E6%8B%86%E8%A7%A310%E5%A4%A7%E5%BF%85%E7%9C%8B%E7%A5%9E%E4%BD%9C",
     "timestamp": "2026-03-12T12:54:05.659Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "攻你上大學｜肥媽自爆小六未畢業獲頒博士　海兒眼鏡娘look極吸睛",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260312/1108766753690750976632047.jpeg/cnqquvY10rkF959_HSBL_WNdAHlRSxY9gvv6CIL7-gg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60329827/%E6%94%BB%E4%BD%A0%E4%B8%8A%E5%A4%A7%E5%AD%B8-%E8%82%A5%E5%AA%BD%E8%87%AA%E7%88%86%E5%B0%8F%E5%85%AD%E6%9C%AA%E7%95%A2%E6%A5%AD%E7%8D%B2%E9%A0%92%E5%8D%9A%E5%A3%AB-%E6%B5%B7%E5%85%92%E7%9C%BC%E9%8F%A1%E5%A8%98look%E6%A5%B5%E5%90%B8%E7%9D%9B",
-    "timestamp": "2026-03-12T12:24:02.606Z",
     "strategy": ".content-card__main"
   }
 ];
