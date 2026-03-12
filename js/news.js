@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-12T06:55:17.288Z
+// Last updated: 2026-03-12T07:30:37.912Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "國泰上調燃油附加費　長途機加至1164元　3.18日起效",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260220/1101575557881008128109725.jpeg/-vAbnL7kWHfPNv1QKPR67KBAnUvkRmyN8WeTc_Fnk3M?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60329862/%E5%9C%8B%E6%B3%B0%E4%B8%8A%E8%AA%BF%E7%87%83%E6%B2%B9%E9%99%84%E5%8A%A0%E8%B2%BB-%E9%95%B7%E9%80%94%E6%A9%9F%E5%8A%A0%E8%87%B31164%E5%85%83-3-18%E6%97%A5%E8%B5%B7%E6%95%88",
+    "timestamp": "2026-03-12T07:30:37.912Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "東京手信10大推介｜新登場香草餅乾／奢華西京燒／焦糖燉蛋布甸撻",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20240129/828685928397541376087195.jpeg/wWwT8tO9aNH-x6yGk2pN5GxIlYiZHkM25TvSceU70nE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60329598/%E5%8F%B0%E7%A9%8D%E9%9B%BB%E9%AB%98%E9%96%8B%E9%80%BE1-2%E6%9C%88%E7%87%9F%E6%94%B6%E6%8C%89%E5%B9%B4%E5%A2%9E22-2-%E5%89%B5%E6%AD%B7%E5%B9%B4%E5%90%8C%E6%9C%9F%E6%96%B0%E9%AB%98",
     "timestamp": "2026-03-11T13:38:01.743Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "彭博︰監管部門突擊搜查中信証券及國泰君安國際辦公室",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260303/1105508090003853312192478.jpeg/XI4W-fTUADoxxvUUtHNx-OcfYbnMYCCm7qqqb-6qqm8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60329620/%E5%BD%AD%E5%8D%9A-%E7%9B%A3%E7%AE%A1%E9%83%A8%E9%96%80%E7%AA%81%E6%93%8A%E6%90%9C%E6%9F%A5%E4%B8%AD%E4%BF%A1%E8%A8%BC%E5%88%B8%E5%8F%8A%E5%9C%8B%E6%B3%B0%E5%90%9B%E5%AE%89%E5%9C%8B%E9%9A%9B%E8%BE%A6%E5%85%AC%E5%AE%A4",
-    "timestamp": "2026-03-11T12:54:21.315Z",
     "strategy": ".content-card__main"
   }
 ];
