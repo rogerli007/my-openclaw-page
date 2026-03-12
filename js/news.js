@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-12T22:15:00.044Z
+// Last updated: 2026-03-12T22:32:09.466Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "新田公路私家車逆線行駛　車尾狂噴火花拖出火龍　險撞對頭車",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260313/1109005399878537216368250.jpeg/2Bt8AMXnq2eoxmjCo8RqDiXdY3wLZHnlMVFNLjFRTS4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60330066/%E6%96%B0%E7%94%B0%E5%85%AC%E8%B7%AF%E7%A7%81%E5%AE%B6%E8%BB%8A%E9%80%86%E7%B7%9A%E8%A1%8C%E9%A7%9B-%E8%BB%8A%E5%B0%BE%E7%8B%82%E5%99%B4%E7%81%AB%E8%8A%B1%E6%8B%96%E5%87%BA%E7%81%AB%E9%BE%8D-%E9%9A%AA%E6%92%9E%E5%B0%8D%E9%A0%AD%E8%BB%8A",
+    "timestamp": "2026-03-12T22:32:09.466Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "歐霸盃16強首回合｜諾定咸森林0：1不敵米迪蘭特",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260312/1108795963146768384406795.png/mgTuwS9wangLbylrdz-Q2HMoG8FfSCNJIDd1kSA3dZE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E5%A8%9B%E6%A8%82/60329866/mc-dingdon%E7%9B%B4%E6%92%AD%E5%A4%B1%E6%8E%A7-%E7%8C%9B%E6%8A%93%E5%A5%B3%E4%B8%BB%E6%92%AD%E4%B8%80%E9%83%A8%E4%BD%8D-%E7%95%AB%E9%9D%A2%E6%B5%81%E5%87%BA-%E5%A5%B9%E5%B4%A9%E6%BD%B0%E8%A9%B1%E6%83%B3%E6%AD%BB",
     "timestamp": "2026-03-12T11:59:29.854Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "《臥底嬌娃》神預言？羅毓儀寸鍾柔美偽A0：唔信你冇經驗，咪扮嘢",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260312/1108832533300121600941508.jpeg/FeeSlr2hg_U5O3sZrSG1qby_HCQsbWUAtnyYKbZ8mCk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60329841/%E8%87%A5%E5%BA%95%E5%AC%8C%E5%A8%83-%E7%A5%9E%E9%A0%90%E8%A8%80-%E7%BE%85%E6%AF%93%E5%84%80%E5%AF%B8%E9%8D%BE%E6%9F%94%E7%BE%8E%E5%81%BDa0-%E5%94%94%E4%BF%A1%E4%BD%A0%E5%86%87%E7%B6%93%E9%A9%97-%E5%92%AA%E6%89%AE%E5%98%A2",
-    "timestamp": "2026-03-12T11:47:19.867Z",
     "strategy": ".content-card__main"
   }
 ];
