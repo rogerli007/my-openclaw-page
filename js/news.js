@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-12T20:52:13.515Z
+// Last updated: 2026-03-12T21:18:47.138Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "貝森特：美軍可協同國際聯盟在霍爾木茲海峽為船隻護航",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260211/1098195353594761216017685.jpeg/ygCSktBML4_jfuEfjNIW26Ts3gjb7h8KNVVLQzVVS0M?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60330062/%E8%B2%9D%E6%A3%AE%E7%89%B9-%E7%BE%8E%E8%BB%8D%E5%8F%AF%E5%8D%94%E5%90%8C%E5%9C%8B%E9%9A%9B%E8%81%AF%E7%9B%9F%E5%9C%A8%E9%9C%8D%E7%88%BE%E6%9C%A8%E8%8C%B2%E6%B5%B7%E5%B3%BD%E7%82%BA%E8%88%B9%E9%9A%BB%E8%AD%B7%E8%88%AA",
+    "timestamp": "2026-03-12T21:18:47.138Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "內塔尼亞胡舉行伊朗戰爭以來首次記者會　對伊新最高領袖發出威脅",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20251014/1054882971544195072548190.jpeg/lclutYNoECNu102wsWdi_-FqWUGUl1CR9DC0C-4wtAs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60329912/%E5%90%8D%E5%8F%A4%E5%B1%8B%E4%BA%9E%E9%81%8B2026-%E8%B6%B3%E7%B8%BD%E7%A2%BA%E8%AA%8D%E9%A6%99%E6%B8%AF%E7%94%B7%E5%A5%B3%E8%B6%B3%E7%8D%B2%E8%B3%87%E6%A0%BC%E6%B4%BE%E9%9A%8A%E5%8F%83%E5%8A%A0-%E5%B0%87%E5%85%A8%E5%8A%9B%E5%82%99%E6%88%B0",
     "timestamp": "2026-03-12T08:53:13.754Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "科大校董會主席沈向洋獲委任人工智能研發院董事局主席　任期兩年",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260312/1108785386382954496982763.png/5F1MN45B1JblObBkkYZUuClbHlRFpujas2vZR7Nr2Uc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60329858/%E7%A7%91%E5%A4%A7%E6%A0%A1%E8%91%A3%E6%9C%83%E4%B8%BB%E5%B8%AD%E6%B2%88%E5%90%91%E6%B4%8B%E7%8D%B2%E5%A7%94%E4%BB%BB%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E7%A0%94%E7%99%BC%E9%99%A2%E8%91%A3%E4%BA%8B%E5%B1%80%E4%B8%BB%E5%B8%AD-%E4%BB%BB%E6%9C%9F%E5%85%A9%E5%B9%B4",
-    "timestamp": "2026-03-12T07:53:08.824Z",
     "strategy": ".content-card__main"
   }
 ];
