@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-12T17:16:14.660Z
+// Last updated: 2026-03-12T17:38:50.707Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "英皇前新人黃峻熙「未經同意下發布私密影像」罪成　還押月底判刑",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260313/1108939855678672896972815.jpeg/_-U9yIbwK6B6LcqeJ9pLwI_LHblc-8WKeRW6kHkVupA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60330027/%E8%8B%B1%E7%9A%87%E5%89%8D%E6%96%B0%E4%BA%BA%E9%BB%83%E5%B3%BB%E7%86%99-%E6%9C%AA%E7%B6%93%E5%90%8C%E6%84%8F%E4%B8%8B%E7%99%BC%E5%B8%83%E7%A7%81%E5%AF%86%E5%BD%B1%E5%83%8F-%E7%BD%AA%E6%88%90-%E9%82%84%E6%8A%BC%E6%9C%88%E5%BA%95%E5%88%A4%E5%88%91",
+    "timestamp": "2026-03-12T17:38:50.707Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美國對台展開301和337調查　台經濟部：已與相關台廠聯繫提供協助",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260311/1108522653859188736259604.jpeg/0fQUtmUptytcD-5Qgulqq0jRNNJjgD4kAiipagIoqWo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60329564/%E8%AD%9A%E8%A9%A0%E9%BA%9F%E5%98%86%E8%84%B9%E7%88%86%E7%94%9F%E8%A0%94%E7%B4%85%E9%85%92%E9%A3%B2%E5%88%B0%E9%9D%A2%E9%80%9A%E7%B4%85-%E7%97%85%E6%9A%B4%E7%98%A615%E7%A3%85%E8%B1%AA%E9%A3%9F%E5%86%8D%E6%9A%B4%E8%82%A5%E6%9C%AA%E9%A9%9A%E9%81%8E",
     "timestamp": "2026-03-11T23:32:37.642Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "75歲巨星嘆脹爆生蠔紅酒飲到面通紅　病暴瘦15磅豪食再暴肥未驚過",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260311/1108522653859188736259604.jpeg/0fQUtmUptytcD-5Qgulqq0jRNNJjgD4kAiipagIoqWo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60329564/%E8%AD%9A%E8%A9%A0%E9%BA%9F%E5%98%86%E8%84%B9%E7%88%86%E7%94%9F%E8%A0%94%E7%B4%85%E9%85%92%E9%A3%B2%E5%88%B0%E9%9D%A2%E9%80%9A%E7%B4%85-%E7%97%85%E6%9A%B4%E7%98%A615%E7%A3%85%E8%B1%AA%E9%A3%9F%E5%86%8D%E6%9A%B4%E8%82%A5%E6%9C%AA%E9%A9%9A%E9%81%8E",
-    "timestamp": "2026-03-11T23:16:31.172Z",
     "strategy": ".content-card__main"
   }
 ];
