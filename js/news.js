@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-12T15:41:50.638Z
+// Last updated: 2026-03-12T16:16:25.277Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "警大埔搗破非法麻雀賭檔　37人被捕　案件提堂",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260313/1108917318982832128328974.jpeg/qwPyOjd4pM2D1DFZ_ur2Bs4ewXiiCdRy4MI1DuDCNQ4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60330045/%E8%AD%A6%E5%A4%A7%E5%9F%94%E6%90%97%E7%A0%B4%E9%9D%9E%E6%B3%95%E9%BA%BB%E9%9B%80%E8%B3%AD%E6%AA%94-37%E4%BA%BA%E8%A2%AB%E6%8D%95-%E6%A1%88%E4%BB%B6%E6%8F%90%E5%A0%82",
+    "timestamp": "2026-03-12T16:16:25.277Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "蔡思貝2年冇劇拍決定離巢TVB　當年與王浩信「閉門打邊爐」最轟動",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260312/1108651459009843200148539.jpeg/S7I8qZUDcGWjHADPMJF-j1MUkFAWhxk9ZDAEiWQwBIk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60329679/%E5%85%83%E6%9C%97%E5%85%AC%E8%B7%AF3%E8%BB%8A%E7%9B%B8%E6%92%9E%E5%BE%80%E4%B8%8A%E6%B0%B4%E5%85%A8%E5%B0%81-%E8%B2%A8%E8%BB%8A%E5%8F%B8%E6%A9%9F%E8%A2%AB%E5%9B%B0-%E8%AD%A6%E9%96%8B%E6%94%BE%E8%B7%AF%E8%82%A9%E7%96%8F%E5%B0%8E%E8%BB%8A%E6%B5%81",
     "timestamp": "2026-03-11T22:48:16.768Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "天氣｜今日天晴乾燥　日間溫暖最高24度　未來一兩日早上清涼",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260312/1108646267002556416210574.jpeg/1O_j8LrOFa1TJfXhivYGeqTCmW3_fH8GscVPvLHFT7w?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60329664/%E5%A4%A9%E6%B0%A3-%E4%BB%8A%E6%97%A5%E5%A4%A9%E6%99%B4%E4%B9%BE%E7%87%A5-%E6%97%A5%E9%96%93%E6%BA%AB%E6%9A%96%E6%9C%80%E9%AB%9824%E5%BA%A6-%E6%9C%AA%E4%BE%86%E4%B8%80%E5%85%A9%E6%97%A5%E6%97%A9%E4%B8%8A%E6%B8%85%E6%B6%BC",
-    "timestamp": "2026-03-11T22:32:45.209Z",
     "strategy": ".content-card__main"
   }
 ];
