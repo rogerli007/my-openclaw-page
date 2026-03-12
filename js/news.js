@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-12T11:47:19.867Z
+// Last updated: 2026-03-12T11:59:29.854Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "知名男星直播突失控「猛抓女主播一部位」畫面流出！她崩潰話想死",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260312/1108795963146768384406795.png/mgTuwS9wangLbylrdz-Q2HMoG8FfSCNJIDd1kSA3dZE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E5%A8%9B%E6%A8%82/60329866/mc-dingdon%E7%9B%B4%E6%92%AD%E5%A4%B1%E6%8E%A7-%E7%8C%9B%E6%8A%93%E5%A5%B3%E4%B8%BB%E6%92%AD%E4%B8%80%E9%83%A8%E4%BD%8D-%E7%95%AB%E9%9D%A2%E6%B5%81%E5%87%BA-%E5%A5%B9%E5%B4%A9%E6%BD%B0%E8%A9%B1%E6%83%B3%E6%AD%BB",
+    "timestamp": "2026-03-12T11:59:29.854Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "《臥底嬌娃》神預言？羅毓儀寸鍾柔美偽A0：唔信你冇經驗，咪扮嘢",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260312/1108611141694656512091857.jpeg/MM7kSdxZDZs-WVGlCsXn7Odt9nq7FTMb4-6hOePuoTk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60329672/%E6%AD%90%E8%81%AF16%E5%BC%B7%E9%A6%96%E5%9B%9E%E5%90%88-%E9%98%BF%E4%BB%99%E5%A5%B4%E4%BD%9C%E5%AE%A21-1%E9%80%BC%E5%92%8C%E5%88%A9%E8%8F%AF%E5%8F%A4%E9%81%9C",
     "timestamp": "2026-03-11T20:01:03.462Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "旺角住宅變販毒中心　警檢$38萬毒品　拘捕2男女",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260312/1108574039699361792901625.jpeg/7GwpyTtrMjGTFzoEK4QUT_jmSLsMj8QrcohBc3KIQXM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60329663/%E6%97%BA%E8%A7%92%E4%BD%8F%E5%AE%85%E8%AE%8A%E8%B2%A9%E6%AF%92%E4%B8%AD%E5%BF%83-%E8%AD%A6%E6%AA%A2-38%E8%90%AC%E6%AF%92%E5%93%81-%E6%8B%98%E6%8D%952%E7%94%B7%E5%A5%B3",
-    "timestamp": "2026-03-11T17:39:00.810Z",
     "strategy": ".content-card__main"
   }
 ];
