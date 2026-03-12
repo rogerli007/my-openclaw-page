@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-12T06:30:12.922Z
+// Last updated: 2026-03-12T06:55:17.288Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "東京手信10大推介｜新登場香草餅乾／奢華西京燒／焦糖燉蛋布甸撻",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260312/1108776533520027648240768.jpeg/byASa-mqnCkByomb5kmR3mVO2zq4jn1IVZZfHVWWXx0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%97%85%E9%81%8A/60329503/%E6%9D%B1%E4%BA%AC%E6%89%8B%E4%BF%A110%E5%A4%A7%E6%8E%A8%E4%BB%8B-%E6%96%B0%E7%99%BB%E5%A0%B4%E9%A6%99%E8%8D%89%E9%A4%85%E4%B9%BE-%E5%A5%A2%E8%8F%AF%E8%A5%BF%E4%BA%AC%E7%87%92-%E7%84%A6%E7%B3%96%E7%87%89%E8%9B%8B%E5%B8%83%E7%94%B8%E6%92%BB",
+    "timestamp": "2026-03-12T06:55:17.288Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "保健品壞處｜35歲女吃1保健品致砒霜中毒全身發黑！防便秘5食物",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260303/1105508090003853312192478.jpeg/XI4W-fTUADoxxvUUtHNx-OcfYbnMYCCm7qqqb-6qqm8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60329620/%E5%BD%AD%E5%8D%9A-%E7%9B%A3%E7%AE%A1%E9%83%A8%E9%96%80%E7%AA%81%E6%93%8A%E6%90%9C%E6%9F%A5%E4%B8%AD%E4%BF%A1%E8%A8%BC%E5%88%B8%E5%8F%8A%E5%9C%8B%E6%B3%B0%E5%90%9B%E5%AE%89%E5%9C%8B%E9%9A%9B%E8%BE%A6%E5%85%AC%E5%AE%A4",
     "timestamp": "2026-03-11T12:54:21.315Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "馬鞍山女屍命案　被告在錄影會面指事主是外星人　「吸地氣」身亡",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260305/1106276352224661504583019.jpeg/ahWTU47r9XKpA99y4nFrLlEYezbh4xoyb4KwV0qCsFc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60329410/%E9%A6%AC%E9%9E%8D%E5%B1%B1%E5%A5%B3%E5%B1%8D%E5%91%BD%E6%A1%88-%E8%A2%AB%E5%91%8A%E5%9C%A8%E9%8C%84%E5%BD%B1%E6%9C%83%E9%9D%A2%E6%8C%87%E4%BA%8B%E4%B8%BB%E6%98%AF%E5%A4%96%E6%98%9F%E4%BA%BA-%E5%90%B8%E5%9C%B0%E6%B0%A3-%E8%BA%AB%E4%BA%A1",
-    "timestamp": "2026-03-11T12:29:28.618Z",
     "strategy": ".content-card__main"
   }
 ];
