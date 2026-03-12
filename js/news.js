@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-12T19:12:19.277Z
+// Last updated: 2026-03-12T19:36:52.058Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "伊朗外交部：許多船隻只要與伊朗海軍協調　仍可通過霍爾木茲海峽",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260313/1108944037664002048251936.jpeg/AYim5TAOl2_TtVPeynfmQffHHNRF4LYAX507G1-dOxs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60330053/%E4%BC%8A%E6%9C%97%E5%A4%96%E4%BA%A4%E9%83%A8-%E8%A8%B1%E5%A4%9A%E8%88%B9%E9%9A%BB%E5%8F%AA%E8%A6%81%E8%88%87%E4%BC%8A%E6%9C%97%E6%B5%B7%E8%BB%8D%E5%8D%94%E8%AA%BF-%E4%BB%8D%E5%8F%AF%E9%80%9A%E9%81%8E%E9%9C%8D%E7%88%BE%E6%9C%A8%E8%8C%B2%E6%B5%B7%E5%B3%BD",
+    "timestamp": "2026-03-12T19:36:52.058Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "伊朗外交部：許多船隻只要與伊朗海軍協調　仍可通過霍爾木茲海峽",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260312/1108767687783223296294613.jpeg/uW2VHazvcxP-35GVCyF8WM1fp_iyZc-lpE4YZKROGGQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60329163/%E4%BF%9D%E5%81%A5%E5%93%81%E5%A3%9E%E8%99%95-35%E6%AD%B2%E5%A5%B3%E5%90%831%E4%BF%9D%E5%81%A5%E5%93%81%E8%87%B4%E7%A0%92%E9%9C%9C%E4%B8%AD%E6%AF%92%E5%85%A8%E8%BA%AB%E7%99%BC%E9%BB%91-%E9%98%B2%E4%BE%BF%E7%A7%985%E9%A3%9F%E7%89%A9",
     "timestamp": "2026-03-12T06:30:12.922Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "有片︱青馬大橋10車撞　多車收掣不及撼前車　司機：後面一堆車撞",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260312/1108760174593576960264983.jpeg/Z_040y1C7Ykl-ca9LHh95DLbFigF_GNeXDOu_lwzrv4",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60329812/%E6%9C%89%E7%89%87-%E9%9D%92%E9%A6%AC%E5%A4%A7%E6%A9%8B10%E8%BB%8A%E6%92%9E-%E5%A4%9A%E8%BB%8A%E6%94%B6%E6%8E%A3%E4%B8%8D%E5%8F%8A%E6%92%BC%E5%89%8D%E8%BB%8A-%E5%8F%B8%E6%A9%9F-%E5%BE%8C%E9%9D%A2%E4%B8%80%E5%A0%86%E8%BB%8A%E6%92%9E",
-    "timestamp": "2026-03-12T06:00:51.074Z",
     "strategy": ".content-card__main"
   }
 ];
