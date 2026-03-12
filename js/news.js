@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-12T19:36:52.058Z
+// Last updated: 2026-03-12T20:02:02.875Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "伊朗外交部：許多船隻只要與伊朗海軍協調　仍可通過霍爾木茲海峽",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260313/1108944037664002048251936.jpeg/AYim5TAOl2_TtVPeynfmQffHHNRF4LYAX507G1-dOxs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60330053/%E4%BC%8A%E6%9C%97%E5%A4%96%E4%BA%A4%E9%83%A8-%E8%A8%B1%E5%A4%9A%E8%88%B9%E9%9A%BB%E5%8F%AA%E8%A6%81%E8%88%87%E4%BC%8A%E6%9C%97%E6%B5%B7%E8%BB%8D%E5%8D%94%E8%AA%BF-%E4%BB%8D%E5%8F%AF%E9%80%9A%E9%81%8E%E9%9C%8D%E7%88%BE%E6%9C%A8%E8%8C%B2%E6%B5%B7%E5%B3%BD",
+    "timestamp": "2026-03-12T20:02:02.875Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "伊朗外交部：許多船隻只要與伊朗海軍協調　仍可通過霍爾木茲海峽",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260312/1108776533520027648240768.jpeg/byASa-mqnCkByomb5kmR3mVO2zq4jn1IVZZfHVWWXx0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%97%85%E9%81%8A/60329503/%E6%9D%B1%E4%BA%AC%E6%89%8B%E4%BF%A110%E5%A4%A7%E6%8E%A8%E4%BB%8B-%E6%96%B0%E7%99%BB%E5%A0%B4%E9%A6%99%E8%8D%89%E9%A4%85%E4%B9%BE-%E5%A5%A2%E8%8F%AF%E8%A5%BF%E4%BA%AC%E7%87%92-%E7%84%A6%E7%B3%96%E7%87%89%E8%9B%8B%E5%B8%83%E7%94%B8%E6%92%BB",
     "timestamp": "2026-03-12T06:55:17.288Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "保健品壞處｜35歲女吃1保健品致砒霜中毒全身發黑！防便秘5食物",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260312/1108767687783223296294613.jpeg/uW2VHazvcxP-35GVCyF8WM1fp_iyZc-lpE4YZKROGGQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60329163/%E4%BF%9D%E5%81%A5%E5%93%81%E5%A3%9E%E8%99%95-35%E6%AD%B2%E5%A5%B3%E5%90%831%E4%BF%9D%E5%81%A5%E5%93%81%E8%87%B4%E7%A0%92%E9%9C%9C%E4%B8%AD%E6%AF%92%E5%85%A8%E8%BA%AB%E7%99%BC%E9%BB%91-%E9%98%B2%E4%BE%BF%E7%A7%985%E9%A3%9F%E7%89%A9",
-    "timestamp": "2026-03-12T06:30:12.922Z",
     "strategy": ".content-card__main"
   }
 ];
