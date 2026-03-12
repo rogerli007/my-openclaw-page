@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-12T07:53:08.824Z
+// Last updated: 2026-03-12T08:53:13.754Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "名古屋亞運2026｜足總確認香港男女足獲資格派隊參加　將全力備戰",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20251014/1054882971544195072548190.jpeg/lclutYNoECNu102wsWdi_-FqWUGUl1CR9DC0C-4wtAs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60329912/%E5%90%8D%E5%8F%A4%E5%B1%8B%E4%BA%9E%E9%81%8B2026-%E8%B6%B3%E7%B8%BD%E7%A2%BA%E8%AA%8D%E9%A6%99%E6%B8%AF%E7%94%B7%E5%A5%B3%E8%B6%B3%E7%8D%B2%E8%B3%87%E6%A0%BC%E6%B4%BE%E9%9A%8A%E5%8F%83%E5%8A%A0-%E5%B0%87%E5%85%A8%E5%8A%9B%E5%82%99%E6%88%B0",
+    "timestamp": "2026-03-12T08:53:13.754Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "科大校董會主席沈向洋獲委任人工智能研發院董事局主席　任期兩年",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260311/1108549669635493888627539.jpeg/FQoFz5JOPLwfuJZNXjDB2rqHu1GepXQKTnzWNk581jY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60329653/%E9%AB%98%E7%90%83%E5%89%8D%E6%B8%AF%E5%B0%87%E7%94%B1%E8%BC%94%E8%AD%A6%E8%BD%89%E6%AD%A3%E8%A6%8F%E5%9C%93%E5%A4%A2%E6%83%B3-%E4%BB%A3%E8%A1%A8%E8%AD%A6%E9%9A%8A%E5%87%BA%E6%88%B0%E9%8C%A6%E6%A8%99%E8%B3%BD%E5%85%A9%E5%BA%A6%E5%A5%AA%E5%86%A0",
     "timestamp": "2026-03-11T16:08:09.808Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "傳芊蕙子被混血肥仔家暴　發文疑回應：公義經常遲到至少沒有缺席",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260311/1108521208699162624930628.jpeg/bggh0Z-NzwJKOFVwnHV6dEabG1t1mIUT3r9uQ96_bkM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60329635/%E5%82%B3%E8%8A%8A%E8%95%99%E5%AD%90%E8%A2%AB%E6%B7%B7%E8%A1%80%E8%82%A5%E4%BB%94%E5%AE%B6%E6%9A%B4-%E7%99%BC%E6%96%87%E7%96%91%E5%9B%9E%E6%87%89-%E5%85%AC%E7%BE%A9%E7%B6%93%E5%B8%B8%E9%81%B2%E5%88%B0%E8%87%B3%E5%B0%91%E6%B2%92%E6%9C%89%E7%BC%BA%E5%B8%AD",
-    "timestamp": "2026-03-11T14:14:24.859Z",
     "strategy": ".content-card__main"
   }
 ];
