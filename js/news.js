@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-12T12:54:05.659Z
+// Last updated: 2026-03-12T14:13:09.333Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "六合彩金多寶3.17頭獎$8000萬｜6個最旺號碼+2招增中獎機會",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260312/1108886541855363072316729.jpeg/TsPMCHTbDQO9D_2s40B0nYwQW5eX5Y4Imkcmj5pHJo8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60330025/%E5%85%AD%E5%90%88%E5%BD%A9%E9%87%91%E5%A4%9A%E5%AF%B63-17%E9%A0%AD%E7%8D%8E-8000%E8%90%AC-6%E5%80%8B%E6%9C%80%E6%97%BA%E8%99%9F%E7%A2%BC-2%E6%8B%9B%E5%A2%9E%E4%B8%AD%E7%8D%8E%E6%A9%9F%E6%9C%83",
+    "timestamp": "2026-03-12T14:13:09.333Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "藝術三月2026 | M+韓國巨擘李昢大展 從賽博格到反烏托邦10大神作",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260312/1108636835283996672025187.jpeg/yNyvV_SXA5wdANOBEW1sN5esrs9MBJIrwW89OcFvPTk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60329677/%E7%9C%9F%E4%B8%BB%E9%BB%A8%E5%90%91%E4%BB%A5%E8%89%B2%E5%88%97%E7%99%BC%E5%B0%84%E7%99%BE%E6%9E%9A%E7%81%AB%E7%AE%AD%E5%BD%88-%E4%BB%A5%E8%BB%8D%E7%8C%9B%E7%83%88%E7%A9%BA%E8%A5%B2%E8%B2%9D%E9%AD%AF%E7%89%B9%E5%8D%97%E9%83%8A",
     "timestamp": "2026-03-11T22:00:53.582Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普要求最高法院允許其政府終止海地移民臨時保護身份",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260310/1108023392377769984527386.jpeg/18uBLT5DfzC8uSkXg8hAt_0TyynU2m6pnYvkW52L5Fs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60329673/%E7%89%B9%E6%9C%97%E6%99%AE%E8%A6%81%E6%B1%82%E6%9C%80%E9%AB%98%E6%B3%95%E9%99%A2%E5%85%81%E8%A8%B1%E5%85%B6%E6%94%BF%E5%BA%9C%E7%B5%82%E6%AD%A2%E6%B5%B7%E5%9C%B0%E7%A7%BB%E6%B0%91%E8%87%A8%E6%99%82%E4%BF%9D%E8%AD%B7%E8%BA%AB%E4%BB%BD",
-    "timestamp": "2026-03-11T20:50:25.060Z",
     "strategy": ".content-card__main"
   }
 ];
