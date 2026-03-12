@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-12T04:09:10.759Z
+// Last updated: 2026-03-12T06:00:51.074Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "有片︱青馬大橋10車撞　多車收掣不及撼前車　司機：後面一堆車撞",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260312/1108760174593576960264983.jpeg/Z_040y1C7Ykl-ca9LHh95DLbFigF_GNeXDOu_lwzrv4",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60329812/%E6%9C%89%E7%89%87-%E9%9D%92%E9%A6%AC%E5%A4%A7%E6%A9%8B10%E8%BB%8A%E6%92%9E-%E5%A4%9A%E8%BB%8A%E6%94%B6%E6%8E%A3%E4%B8%8D%E5%8F%8A%E6%92%BC%E5%89%8D%E8%BB%8A-%E5%8F%B8%E6%A9%9F-%E5%BE%8C%E9%9D%A2%E4%B8%80%E5%A0%86%E8%BB%8A%E6%92%9E",
+    "timestamp": "2026-03-12T06:00:51.074Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "裕澤香江高峰論壇3.23起舉行　許正宇：3方向展香港深厚發展潛能",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260311/1108489917949808640962835.jpeg/hvzPDIGJmGRDXwVWKtUkPj75q0LcJADRk0kfHJNJHxw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60329493/dse-%E5%85%A9%E5%8F%B2%E7%A7%91%E6%93%AC%E4%BF%AE%E8%A9%95%E6%A0%B8%E5%A4%A7%E7%B6%B1-%E5%A2%9Emc%E9%A1%8C-%E4%B8%AD%E5%8F%B2%E5%8D%B7%E4%BA%8C%E9%81%B8%E4%BF%AE%E5%96%AE%E5%85%83-6%E8%AE%8A3",
     "timestamp": "2026-03-11T12:03:24.980Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "傳奇搖滾樂團主唱不敵腦癌離世　曾動刀開顱救命　抗爭到最後一刻",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260311/1108407282569318400685120.png/9w0Sn9ic7JF-F9cg4trtEIwDIs0bDm35Mvr3dDL693Q?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60329450/tommy-decarlo%E4%B8%8D%E6%95%B5%E8%85%A6%E7%99%8C%E9%9B%A2%E4%B8%96-%E6%9B%BE%E5%8B%95%E5%88%80%E9%96%8B%E9%A1%B1%E6%95%91%E5%91%BD-%E6%8A%97%E7%88%AD%E5%88%B0%E6%9C%80%E5%BE%8C%E4%B8%80%E5%88%BB",
-    "timestamp": "2026-03-11T11:21:49.862Z",
     "strategy": ".content-card__main"
   }
 ];
