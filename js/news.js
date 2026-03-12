@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-11T23:32:37.642Z
+// Last updated: 2026-03-12T04:09:10.759Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "裕澤香江高峰論壇3.23起舉行　許正宇：3方向展香港深厚發展潛能",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250326/981716594814226432546137.jpeg/vyJ4BDf70pGRel9zIfNEiaUnCQPEE7MkoKMNL6CjDS8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60329769/%E8%A3%95%E6%BE%A4%E9%A6%99%E6%B1%9F%E9%AB%98%E5%B3%B0%E8%AB%96%E5%A3%873-23%E8%B5%B7%E8%88%89%E8%A1%8C-%E8%A8%B1%E6%AD%A3%E5%AE%87-3%E6%96%B9%E5%90%91%E5%B1%95%E9%A6%99%E6%B8%AF%E6%B7%B1%E5%8E%9A%E7%99%BC%E5%B1%95%E6%BD%9B%E8%83%BD",
+    "timestamp": "2026-03-12T04:09:10.759Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "75歲巨星嘆脹爆生蠔紅酒飲到面通紅　病暴瘦15磅豪食再暴肥未驚過",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260311/1108407282569318400685120.png/9w0Sn9ic7JF-F9cg4trtEIwDIs0bDm35Mvr3dDL693Q?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60329450/tommy-decarlo%E4%B8%8D%E6%95%B5%E8%85%A6%E7%99%8C%E9%9B%A2%E4%B8%96-%E6%9B%BE%E5%8B%95%E5%88%80%E9%96%8B%E9%A1%B1%E6%95%91%E5%91%BD-%E6%8A%97%E7%88%AD%E5%88%B0%E6%9C%80%E5%BE%8C%E4%B8%80%E5%88%BB",
     "timestamp": "2026-03-11T11:21:49.862Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "院前中風分流計劃暫52人受惠　縮短80分鐘轉院時間　擬逐步擴全港",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260311/1108456610658783232061982.jpeg/9Gtc_dAXOzMkIJ9YIIK1KYKGIrBfrgbM7Zc_5O2XP-Q?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60329565/%E9%99%A2%E5%89%8D%E4%B8%AD%E9%A2%A8%E5%88%86%E6%B5%81%E8%A8%88%E5%8A%83%E6%9A%AB52%E4%BA%BA%E5%8F%97%E6%83%A0-%E7%B8%AE%E7%9F%AD80%E5%88%86%E9%90%98%E8%BD%89%E9%99%A2%E6%99%82%E9%96%93-%E6%93%AC%E9%80%90%E6%AD%A5%E6%93%B4%E5%85%A8%E6%B8%AF",
-    "timestamp": "2026-03-11T10:24:12.188Z",
     "strategy": ".content-card__main"
   }
 ];
