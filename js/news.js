@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-12T17:38:50.707Z
+// Last updated: 2026-03-12T18:37:59.279Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "伊朗外交部：許多船隻只要與伊朗海軍協調　仍可通過霍爾木茲海峽",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260313/1108944037664002048251936.jpeg/AYim5TAOl2_TtVPeynfmQffHHNRF4LYAX507G1-dOxs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60330053/%E4%BC%8A%E6%9C%97%E5%A4%96%E4%BA%A4%E9%83%A8-%E8%A8%B1%E5%A4%9A%E8%88%B9%E9%9A%BB%E5%8F%AA%E8%A6%81%E8%88%87%E4%BC%8A%E6%9C%97%E6%B5%B7%E8%BB%8D%E5%8D%94%E8%AA%BF-%E4%BB%8D%E5%8F%AF%E9%80%9A%E9%81%8E%E9%9C%8D%E7%88%BE%E6%9C%A8%E8%8C%B2%E6%B5%B7%E5%B3%BD",
+    "timestamp": "2026-03-12T18:37:59.279Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "英皇前新人黃峻熙「未經同意下發布私密影像」罪成　還押月底判刑",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250326/981716594814226432546137.jpeg/vyJ4BDf70pGRel9zIfNEiaUnCQPEE7MkoKMNL6CjDS8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60329769/%E8%A3%95%E6%BE%A4%E9%A6%99%E6%B1%9F%E9%AB%98%E5%B3%B0%E8%AB%96%E5%A3%873-23%E8%B5%B7%E8%88%89%E8%A1%8C-%E8%A8%B1%E6%AD%A3%E5%AE%87-3%E6%96%B9%E5%90%91%E5%B1%95%E9%A6%99%E6%B8%AF%E6%B7%B1%E5%8E%9A%E7%99%BC%E5%B1%95%E6%BD%9B%E8%83%BD",
     "timestamp": "2026-03-12T04:09:10.759Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "75歲巨星嘆脹爆生蠔紅酒飲到面通紅　病暴瘦15磅豪食再暴肥未驚過",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260311/1108522653859188736259604.jpeg/0fQUtmUptytcD-5Qgulqq0jRNNJjgD4kAiipagIoqWo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60329564/%E8%AD%9A%E8%A9%A0%E9%BA%9F%E5%98%86%E8%84%B9%E7%88%86%E7%94%9F%E8%A0%94%E7%B4%85%E9%85%92%E9%A3%B2%E5%88%B0%E9%9D%A2%E9%80%9A%E7%B4%85-%E7%97%85%E6%9A%B4%E7%98%A615%E7%A3%85%E8%B1%AA%E9%A3%9F%E5%86%8D%E6%9A%B4%E8%82%A5%E6%9C%AA%E9%A9%9A%E9%81%8E",
-    "timestamp": "2026-03-11T23:32:37.642Z",
     "strategy": ".content-card__main"
   }
 ];
