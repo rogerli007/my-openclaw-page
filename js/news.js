@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-12T09:53:46.747Z
+// Last updated: 2026-03-12T11:47:19.867Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "《臥底嬌娃》神預言？羅毓儀寸鍾柔美偽A0：唔信你冇經驗，咪扮嘢",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260312/1108832533300121600941508.jpeg/FeeSlr2hg_U5O3sZrSG1qby_HCQsbWUAtnyYKbZ8mCk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60329841/%E8%87%A5%E5%BA%95%E5%AC%8C%E5%A8%83-%E7%A5%9E%E9%A0%90%E8%A8%80-%E7%BE%85%E6%AF%93%E5%84%80%E5%AF%B8%E9%8D%BE%E6%9F%94%E7%BE%8E%E5%81%BDa0-%E5%94%94%E4%BF%A1%E4%BD%A0%E5%86%87%E7%B6%93%E9%A9%97-%E5%92%AA%E6%89%AE%E5%98%A2",
+    "timestamp": "2026-03-12T11:47:19.867Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "I.O.I演唱會2026香港｜門票優先/公售攻略＋購票連結＋座位表",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260312/1108574039699361792901625.jpeg/7GwpyTtrMjGTFzoEK4QUT_jmSLsMj8QrcohBc3KIQXM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60329663/%E6%97%BA%E8%A7%92%E4%BD%8F%E5%AE%85%E8%AE%8A%E8%B2%A9%E6%AF%92%E4%B8%AD%E5%BF%83-%E8%AD%A6%E6%AA%A2-38%E8%90%AC%E6%AF%92%E5%93%81-%E6%8B%98%E6%8D%952%E7%94%B7%E5%A5%B3",
     "timestamp": "2026-03-11T17:39:00.810Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "右翼卡斯特宣誓就任智利新總統　標誌該國數十年來最顯著右傾",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260312/1108556051281612800872043.jpeg/lXsWIZZMGrssuoRRk2crCX944WlKEDZRb7rn-2-65_s?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60329655/%E5%8F%B3%E7%BF%BC%E5%8D%A1%E6%96%AF%E7%89%B9%E5%AE%A3%E8%AA%93%E5%B0%B1%E4%BB%BB%E6%99%BA%E5%88%A9%E6%96%B0%E7%B8%BD%E7%B5%B1-%E6%A8%99%E8%AA%8C%E8%A9%B2%E5%9C%8B%E6%95%B8%E5%8D%81%E5%B9%B4%E4%BE%86%E6%9C%80%E9%A1%AF%E8%91%97%E5%8F%B3%E5%82%BE",
-    "timestamp": "2026-03-11T16:38:00.654Z",
     "strategy": ".content-card__main"
   }
 ];
