@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-12T21:18:47.138Z
+// Last updated: 2026-03-12T22:00:33.385Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "巴西外長：特朗普顧問擬探望獄中博爾索納羅　或構成干預內政",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20240209/832471188113461248315967.jpeg/M_3qfYasYt4GCdZQjCph-5sIQ9jiXNqYUGyOR1Bsjkc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60330064/%E5%B7%B4%E8%A5%BF%E5%A4%96%E9%95%B7-%E7%89%B9%E6%9C%97%E6%99%AE%E9%A1%A7%E5%95%8F%E6%93%AC%E6%8E%A2%E6%9C%9B%E7%8D%84%E4%B8%AD%E5%8D%9A%E7%88%BE%E7%B4%A2%E7%B4%8D%E7%BE%85-%E6%88%96%E6%A7%8B%E6%88%90%E5%B9%B2%E9%A0%90%E5%85%A7%E6%94%BF",
+    "timestamp": "2026-03-12T22:00:33.385Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "貝森特：美軍可協同國際聯盟在霍爾木茲海峽為船隻護航",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260312/1108780910305611776067291.jpeg/F-Z1xREX3Yb-fuHpTrxdGmydrFMWp3fzrqkTLq6pEy4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60329852/i-o-i%E6%BC%94%E5%94%B1%E6%9C%832026%E9%A6%99%E6%B8%AF-%E9%96%80%E7%A5%A8%E5%84%AA%E5%85%88-%E5%85%AC%E5%94%AE%E6%94%BB%E7%95%A5-%E8%B3%BC%E7%A5%A8%E9%80%A3%E7%B5%90-%E5%BA%A7%E4%BD%8D%E8%A1%A8",
     "timestamp": "2026-03-12T09:53:46.747Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "名古屋亞運2026｜足總確認香港男女足獲資格派隊參加　將全力備戰",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20251014/1054882971544195072548190.jpeg/lclutYNoECNu102wsWdi_-FqWUGUl1CR9DC0C-4wtAs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60329912/%E5%90%8D%E5%8F%A4%E5%B1%8B%E4%BA%9E%E9%81%8B2026-%E8%B6%B3%E7%B8%BD%E7%A2%BA%E8%AA%8D%E9%A6%99%E6%B8%AF%E7%94%B7%E5%A5%B3%E8%B6%B3%E7%8D%B2%E8%B3%87%E6%A0%BC%E6%B4%BE%E9%9A%8A%E5%8F%83%E5%8A%A0-%E5%B0%87%E5%85%A8%E5%8A%9B%E5%82%99%E6%88%B0",
-    "timestamp": "2026-03-12T08:53:13.754Z",
     "strategy": ".content-card__main"
   }
 ];
