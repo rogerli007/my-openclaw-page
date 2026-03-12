@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-12T06:00:51.074Z
+// Last updated: 2026-03-12T06:30:12.922Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "保健品壞處｜35歲女吃1保健品致砒霜中毒全身發黑！防便秘5食物",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260312/1108767687783223296294613.jpeg/uW2VHazvcxP-35GVCyF8WM1fp_iyZc-lpE4YZKROGGQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60329163/%E4%BF%9D%E5%81%A5%E5%93%81%E5%A3%9E%E8%99%95-35%E6%AD%B2%E5%A5%B3%E5%90%831%E4%BF%9D%E5%81%A5%E5%93%81%E8%87%B4%E7%A0%92%E9%9C%9C%E4%B8%AD%E6%AF%92%E5%85%A8%E8%BA%AB%E7%99%BC%E9%BB%91-%E9%98%B2%E4%BE%BF%E7%A7%985%E9%A3%9F%E7%89%A9",
+    "timestamp": "2026-03-12T06:30:12.922Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "有片︱青馬大橋10車撞　多車收掣不及撼前車　司機：後面一堆車撞",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260305/1106276352224661504583019.jpeg/ahWTU47r9XKpA99y4nFrLlEYezbh4xoyb4KwV0qCsFc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60329410/%E9%A6%AC%E9%9E%8D%E5%B1%B1%E5%A5%B3%E5%B1%8D%E5%91%BD%E6%A1%88-%E8%A2%AB%E5%91%8A%E5%9C%A8%E9%8C%84%E5%BD%B1%E6%9C%83%E9%9D%A2%E6%8C%87%E4%BA%8B%E4%B8%BB%E6%98%AF%E5%A4%96%E6%98%9F%E4%BA%BA-%E5%90%B8%E5%9C%B0%E6%B0%A3-%E8%BA%AB%E4%BA%A1",
     "timestamp": "2026-03-11T12:29:28.618Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "DSE｜兩史科擬修評核大綱　增MC題　中史卷二選修單元「6變3」",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260311/1108489917949808640962835.jpeg/hvzPDIGJmGRDXwVWKtUkPj75q0LcJADRk0kfHJNJHxw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60329493/dse-%E5%85%A9%E5%8F%B2%E7%A7%91%E6%93%AC%E4%BF%AE%E8%A9%95%E6%A0%B8%E5%A4%A7%E7%B6%B1-%E5%A2%9Emc%E9%A1%8C-%E4%B8%AD%E5%8F%B2%E5%8D%B7%E4%BA%8C%E9%81%B8%E4%BF%AE%E5%96%AE%E5%85%83-6%E8%AE%8A3",
-    "timestamp": "2026-03-11T12:03:24.980Z",
     "strategy": ".content-card__main"
   }
 ];
