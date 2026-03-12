@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-12T12:24:02.606Z
+// Last updated: 2026-03-12T12:54:05.659Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "藝術三月2026 | M+韓國巨擘李昢大展 從賽博格到反烏托邦10大神作",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260312/1108859306821816320071284.jpeg/VC4FMZwlvfTpWGMamAcP8w2zTn6Yz5OmRte1vEbXtbw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%97%9D%E6%96%87/60329998/m-%E9%9F%93%E5%9C%8B%E8%97%9D%E8%A1%93%E5%B7%A8%E6%93%98%E6%9D%8E%E6%98%A2%E5%A4%A7%E5%B1%95-%E5%BE%9E%E8%B3%BD%E5%8D%9A%E6%A0%BC%E5%88%B0%E5%8F%8D%E7%83%8F%E6%89%98%E9%82%A6-%E6%8B%86%E8%A7%A310%E5%A4%A7%E5%BF%85%E7%9C%8B%E7%A5%9E%E4%BD%9C",
+    "timestamp": "2026-03-12T12:54:05.659Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "攻你上大學｜肥媽自爆小六未畢業獲頒博士　海兒眼鏡娘look極吸睛",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260310/1108023392377769984527386.jpeg/18uBLT5DfzC8uSkXg8hAt_0TyynU2m6pnYvkW52L5Fs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60329673/%E7%89%B9%E6%9C%97%E6%99%AE%E8%A6%81%E6%B1%82%E6%9C%80%E9%AB%98%E6%B3%95%E9%99%A2%E5%85%81%E8%A8%B1%E5%85%B6%E6%94%BF%E5%BA%9C%E7%B5%82%E6%AD%A2%E6%B5%B7%E5%9C%B0%E7%A7%BB%E6%B0%91%E8%87%A8%E6%99%82%E4%BF%9D%E8%AD%B7%E8%BA%AB%E4%BB%BD",
     "timestamp": "2026-03-11T20:50:25.060Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "歐聯16強首回合｜阿仙奴作客1：1逼和利華古遜",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260312/1108611141694656512091857.jpeg/MM7kSdxZDZs-WVGlCsXn7Odt9nq7FTMb4-6hOePuoTk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60329672/%E6%AD%90%E8%81%AF16%E5%BC%B7%E9%A6%96%E5%9B%9E%E5%90%88-%E9%98%BF%E4%BB%99%E5%A5%B4%E4%BD%9C%E5%AE%A21-1%E9%80%BC%E5%92%8C%E5%88%A9%E8%8F%AF%E5%8F%A4%E9%81%9C",
-    "timestamp": "2026-03-11T20:20:22.681Z",
     "strategy": ".content-card__main"
   }
 ];
