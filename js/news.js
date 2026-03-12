@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-12T08:53:13.754Z
+// Last updated: 2026-03-12T09:53:46.747Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "I.O.I演唱會2026香港｜門票優先/公售攻略＋購票連結＋座位表",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260312/1108780910305611776067291.jpeg/F-Z1xREX3Yb-fuHpTrxdGmydrFMWp3fzrqkTLq6pEy4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60329852/i-o-i%E6%BC%94%E5%94%B1%E6%9C%832026%E9%A6%99%E6%B8%AF-%E9%96%80%E7%A5%A8%E5%84%AA%E5%85%88-%E5%85%AC%E5%94%AE%E6%94%BB%E7%95%A5-%E8%B3%BC%E7%A5%A8%E9%80%A3%E7%B5%90-%E5%BA%A7%E4%BD%8D%E8%A1%A8",
+    "timestamp": "2026-03-12T09:53:46.747Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "名古屋亞運2026｜足總確認香港男女足獲資格派隊參加　將全力備戰",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260312/1108556051281612800872043.jpeg/lXsWIZZMGrssuoRRk2crCX944WlKEDZRb7rn-2-65_s?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60329655/%E5%8F%B3%E7%BF%BC%E5%8D%A1%E6%96%AF%E7%89%B9%E5%AE%A3%E8%AA%93%E5%B0%B1%E4%BB%BB%E6%99%BA%E5%88%A9%E6%96%B0%E7%B8%BD%E7%B5%B1-%E6%A8%99%E8%AA%8C%E8%A9%B2%E5%9C%8B%E6%95%B8%E5%8D%81%E5%B9%B4%E4%BE%86%E6%9C%80%E9%A1%AF%E8%91%97%E5%8F%B3%E5%82%BE",
     "timestamp": "2026-03-11T16:38:00.654Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "高球前港將由輔警轉正規圓夢想　 代表警隊出戰錦標賽兩度奪冠",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260311/1108549669635493888627539.jpeg/FQoFz5JOPLwfuJZNXjDB2rqHu1GepXQKTnzWNk581jY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60329653/%E9%AB%98%E7%90%83%E5%89%8D%E6%B8%AF%E5%B0%87%E7%94%B1%E8%BC%94%E8%AD%A6%E8%BD%89%E6%AD%A3%E8%A6%8F%E5%9C%93%E5%A4%A2%E6%83%B3-%E4%BB%A3%E8%A1%A8%E8%AD%A6%E9%9A%8A%E5%87%BA%E6%88%B0%E9%8C%A6%E6%A8%99%E8%B3%BD%E5%85%A9%E5%BA%A6%E5%A5%AA%E5%86%A0",
-    "timestamp": "2026-03-11T16:08:09.808Z",
     "strategy": ".content-card__main"
   }
 ];
