@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-13T13:36:34.120Z
+// Last updated: 2026-03-13T14:10:22.492Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "馬杜羅拘留生活疑曝光　困6平方米監房　深夜大喊「我遭綁架」",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260106/1085052965393403904806953.jpeg/S9Kvnu4ewa8sAnZf88JOHXvQ4HFXX62v21DNUNtQzVA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60330355/%E9%A6%AC%E6%9D%9C%E7%BE%85%E6%8B%98%E7%95%99%E7%94%9F%E6%B4%BB%E7%96%91%E6%9B%9D%E5%85%89-%E5%9B%B06%E5%B9%B3%E6%96%B9%E7%B1%B3%E7%9B%A3%E6%88%BF-%E6%B7%B1%E5%A4%9C%E5%A4%A7%E5%96%8A-%E6%88%91%E9%81%AD%E7%B6%81%E6%9E%B6",
+    "timestamp": "2026-03-13T14:10:22.492Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "清明節｜警方各區實施特別交通安排　籲市民使用公共運輸服務",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260312/1108779809158205440156738.jpeg/Dqf32nOFRP2Bc28rEwLhO1sr6DzPHzLo52TgLedk4C0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60329809/%E5%85%AC%E5%B1%8B-%E6%88%BF%E7%BD%B2%E5%A4%9C%E6%99%9A%E5%AE%B6%E8%A8%AA%E6%83%B9%E8%AD%B0-%E5%87%8C%E6%99%A8%E9%83%BD%E6%9C%89-%E4%BD%8F%E6%88%B6%E6%8F%90%E9%86%92-%E6%9C%89%E9%80%99%E4%BA%BA%E9%99%AA%E5%90%8C%E6%89%8D%E9%96%8B%E9%96%80",
     "timestamp": "2026-03-13T04:05:56.282Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "伊朗戰爭｜新領袖負傷繼任　英媒：穆傑塔巴狀況無礙戰爭機器運作",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260312/1108592471115304960963721.jpeg/Av5S8OVo8r-AN3OMqe7Krw_mtLRJrq3veJWmZXiVpmU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60330080/%E4%BC%8A%E6%9C%97%E6%88%B0%E7%88%AD-%E6%96%B0%E9%A0%98%E8%A2%96%E8%B2%A0%E5%82%B7%E7%B9%BC%E4%BB%BB-%E8%8B%B1%E5%AA%92-%E7%A9%86%E5%82%91%E5%A1%94%E5%B7%B4%E7%8B%80%E6%B3%81%E7%84%A1%E7%A4%99%E6%88%B0%E7%88%AD%E6%A9%9F%E5%99%A8%E9%81%8B%E4%BD%9C",
-    "timestamp": "2026-03-13T01:17:43.045Z",
     "strategy": ".content-card__main"
   }
 ];
