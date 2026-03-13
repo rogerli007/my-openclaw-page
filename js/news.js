@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-13T07:53:02.036Z
+// Last updated: 2026-03-13T08:23:24.877Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "路透社：史上最大美國對台軍售方案就緒　或特朗普4月訪華後簽署",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260310/1107932200768638976208346.jpeg/0vH0PnbJ37Yez4Y_r6mutZ8ZqPUNPE9qOKGr7jihq-4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60330252/%E8%B7%AF%E9%80%8F%E7%A4%BE-%E5%8F%B2%E4%B8%8A%E6%9C%80%E5%A4%A7%E7%BE%8E%E5%9C%8B%E5%B0%8D%E5%8F%B0%E8%BB%8D%E5%94%AE%E6%96%B9%E6%A1%88%E5%B0%B1%E7%B7%92-%E6%88%96%E7%89%B9%E6%9C%97%E6%99%AE4%E6%9C%88%E8%A8%AA%E8%8F%AF%E5%BE%8C%E7%B0%BD%E7%BD%B2",
+    "timestamp": "2026-03-13T08:23:24.877Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "Prestige 14 Flip AI+評測｜二合一變平板方便　Nano Pen靈活操作",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260313/1108944037664002048251936.jpeg/AYim5TAOl2_TtVPeynfmQffHHNRF4LYAX507G1-dOxs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60330053/%E4%BC%8A%E6%9C%97%E5%A4%96%E4%BA%A4%E9%83%A8-%E8%A8%B1%E5%A4%9A%E8%88%B9%E9%9A%BB%E5%8F%AA%E8%A6%81%E8%88%87%E4%BC%8A%E6%9C%97%E6%B5%B7%E8%BB%8D%E5%8D%94%E8%AA%BF-%E4%BB%8D%E5%8F%AF%E9%80%9A%E9%81%8E%E9%9C%8D%E7%88%BE%E6%9C%A8%E8%8C%B2%E6%B5%B7%E5%B3%BD",
     "timestamp": "2026-03-12T19:36:52.058Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "伊朗外交部：許多船隻只要與伊朗海軍協調　仍可通過霍爾木茲海峽",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260313/1108944037664002048251936.jpeg/AYim5TAOl2_TtVPeynfmQffHHNRF4LYAX507G1-dOxs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60330053/%E4%BC%8A%E6%9C%97%E5%A4%96%E4%BA%A4%E9%83%A8-%E8%A8%B1%E5%A4%9A%E8%88%B9%E9%9A%BB%E5%8F%AA%E8%A6%81%E8%88%87%E4%BC%8A%E6%9C%97%E6%B5%B7%E8%BB%8D%E5%8D%94%E8%AA%BF-%E4%BB%8D%E5%8F%AF%E9%80%9A%E9%81%8E%E9%9C%8D%E7%88%BE%E6%9C%A8%E8%8C%B2%E6%B5%B7%E5%B3%BD",
-    "timestamp": "2026-03-12T19:12:19.277Z",
     "strategy": ".content-card__main"
   }
 ];
