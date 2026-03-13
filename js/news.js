@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-13T10:53:56.364Z
+// Last updated: 2026-03-13T11:19:38.180Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美食新聞報道｜精緻福建菜創新烹飪　葵涌一蚊煎釀三寶性價比爆燈",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260313/1109133459156111360950362.jpeg/sfKsWXjaUsAyeTicK9Lj98oOPrjVy19hWtTiw1rU4sM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60330201/%E7%BE%8E%E9%A3%9F%E6%96%B0%E8%81%9E%E5%A0%B1%E9%81%93-%E7%B2%BE%E7%B7%BB%E7%A6%8F%E5%BB%BA%E8%8F%9C%E5%89%B5%E6%96%B0%E7%83%B9%E9%A3%AA-%E8%91%B5%E6%B6%8C%E4%B8%80%E8%9A%8A%E7%85%8E%E9%87%80%E4%B8%89%E5%AF%B6%E6%80%A7%E5%83%B9%E6%AF%94%E7%88%86%E7%87%88",
+    "timestamp": "2026-03-13T11:19:38.180Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "特朗普18歲孫女拍片逛貴價超市　花233美元購物意外挨轟「炫富」",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260313/1109008134526996480675201.jpeg/iuTJxeFZTtsaKHbt6aH1RhiBkBtDShNYtwf8nLcH_Jw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60330065/%E6%AD%90%E9%9C%B8%E7%9B%8316%E5%BC%B7%E9%A6%96%E5%9B%9E%E5%90%88-%E8%AB%BE%E5%AE%9A%E5%92%B8%E6%A3%AE%E6%9E%970-1%E4%B8%8D%E6%95%B5%E7%B1%B3%E8%BF%AA%E8%98%AD%E7%89%B9",
     "timestamp": "2026-03-12T22:15:00.044Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "巴西外長：特朗普顧問擬探望獄中博爾索納羅　或構成干預內政",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20240209/832471188113461248315967.jpeg/M_3qfYasYt4GCdZQjCph-5sIQ9jiXNqYUGyOR1Bsjkc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60330064/%E5%B7%B4%E8%A5%BF%E5%A4%96%E9%95%B7-%E7%89%B9%E6%9C%97%E6%99%AE%E9%A1%A7%E5%95%8F%E6%93%AC%E6%8E%A2%E6%9C%9B%E7%8D%84%E4%B8%AD%E5%8D%9A%E7%88%BE%E7%B4%A2%E7%B4%8D%E7%BE%85-%E6%88%96%E6%A7%8B%E6%88%90%E5%B9%B2%E9%A0%90%E5%85%A7%E6%94%BF",
-    "timestamp": "2026-03-12T22:00:33.385Z",
     "strategy": ".content-card__main"
   }
 ];
