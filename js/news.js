@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-13T09:23:15.683Z
+// Last updated: 2026-03-13T09:52:36.284Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "阮浩棕首度挑戰慈善主持　爆今年冇劇拍轉戰創業：年紀都唔細",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260313/1109175368226443264725834.jpeg/aB-HRA7Nodalx2X7hd-8_z32YPrscq8HmiVI4qAlSOI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60330290/%E9%98%AE%E6%B5%A9%E6%A3%95%E9%A6%96%E5%BA%A6%E6%8C%91%E6%88%B0%E6%85%88%E5%96%84%E4%B8%BB%E6%8C%81-%E7%88%86%E4%BB%8A%E5%B9%B4%E5%86%87%E5%8A%87%E6%8B%8D%E8%BD%89%E6%88%B0%E5%89%B5%E6%A5%AD-%E5%B9%B4%E7%B4%80%E9%83%BD%E5%94%94%E7%B4%B0",
+    "timestamp": "2026-03-13T09:52:36.284Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "假水費單再現大狀也受騙　留意5伏位　兩招安全獲水務署帳戶資訊",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260313/1108981917916598272547168.png/FtV7twW4r_gLAUylPrK_45FgIvLdqapdbYgF2W2IBdk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60330060/%E5%85%A7%E5%A1%94%E5%B0%BC%E4%BA%9E%E8%83%A1%E8%88%89%E8%A1%8C%E4%BC%8A%E6%9C%97%E6%88%B0%E7%88%AD%E4%BB%A5%E4%BE%86%E9%A6%96%E6%AC%A1%E8%A8%98%E8%80%85%E6%9C%83-%E5%B0%8D%E4%BC%8A%E6%96%B0%E6%9C%80%E9%AB%98%E9%A0%98%E8%A2%96%E7%99%BC%E5%87%BA%E5%A8%81%E8%84%85",
     "timestamp": "2026-03-12T20:52:13.515Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "女足最前線｜女子亞洲盃8強　中國女足有力「大」勝",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260312/1108796897729974272480372.jpeg/t9NSW3YJJLcQv3GbQC84qJ5XtEJgbbcqFGu9XhRrvV4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60329895/%E5%A5%B3%E8%B6%B3%E6%9C%80%E5%89%8D%E7%B7%9A-%E5%A5%B3%E5%AD%90%E4%BA%9E%E6%B4%B2%E7%9B%838%E5%BC%B7-%E4%B8%AD%E5%9C%8B%E5%A5%B3%E8%B6%B3%E6%9C%89%E5%8A%9B-%E5%A4%A7-%E5%8B%9D",
-    "timestamp": "2026-03-12T20:20:52.518Z",
     "strategy": ".content-card__main"
   }
 ];
