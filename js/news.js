@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-13T06:53:45.597Z
+// Last updated: 2026-03-13T07:53:02.036Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "Prestige 14 Flip AI+評測｜二合一變平板方便　Nano Pen靈活操作",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260313/1109084664825384960271683.jpeg/aOYwragQHMLA0hc6ayXm639R8aNqRJN0yKAmccigJnE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60330133/prestige-14-flip-ai-%E8%A9%95%E6%B8%AC-%E4%BA%8C%E5%90%88%E4%B8%80%E8%AE%8A%E5%B9%B3%E6%9D%BF%E6%96%B9%E4%BE%BF-nano-pen%E9%9D%88%E6%B4%BB%E6%93%8D%E4%BD%9C",
+    "timestamp": "2026-03-13T07:53:02.036Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "AI浪潮專家料大量初級職位被取代　文科背景一項特質成求職優勢",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260313/1108944037664002048251936.jpeg/AYim5TAOl2_TtVPeynfmQffHHNRF4LYAX507G1-dOxs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60330053/%E4%BC%8A%E6%9C%97%E5%A4%96%E4%BA%A4%E9%83%A8-%E8%A8%B1%E5%A4%9A%E8%88%B9%E9%9A%BB%E5%8F%AA%E8%A6%81%E8%88%87%E4%BC%8A%E6%9C%97%E6%B5%B7%E8%BB%8D%E5%8D%94%E8%AA%BF-%E4%BB%8D%E5%8F%AF%E9%80%9A%E9%81%8E%E9%9C%8D%E7%88%BE%E6%9C%A8%E8%8C%B2%E6%B5%B7%E5%B3%BD",
     "timestamp": "2026-03-12T19:12:19.277Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "伊朗外交部：許多船隻只要與伊朗海軍協調　仍可通過霍爾木茲海峽",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260313/1108944037664002048251936.jpeg/AYim5TAOl2_TtVPeynfmQffHHNRF4LYAX507G1-dOxs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60330053/%E4%BC%8A%E6%9C%97%E5%A4%96%E4%BA%A4%E9%83%A8-%E8%A8%B1%E5%A4%9A%E8%88%B9%E9%9A%BB%E5%8F%AA%E8%A6%81%E8%88%87%E4%BC%8A%E6%9C%97%E6%B5%B7%E8%BB%8D%E5%8D%94%E8%AA%BF-%E4%BB%8D%E5%8F%AF%E9%80%9A%E9%81%8E%E9%9C%8D%E7%88%BE%E6%9C%A8%E8%8C%B2%E6%B5%B7%E5%B3%BD",
-    "timestamp": "2026-03-12T18:37:59.279Z",
     "strategy": ".content-card__main"
   }
 ];
