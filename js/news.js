@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-13T12:54:01.087Z
+// Last updated: 2026-03-13T13:36:34.120Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "清明節｜警方各區實施特別交通安排　籲市民使用公共運輸服務",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20240429/861652438703280128483709.jpeg/skf8fLZ3EpynhGh0naK_v98GR1AYtLaeVLrl63K65es?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60330352/%E6%B8%85%E6%98%8E%E7%AF%80-%E8%AD%A6%E6%96%B9%E5%90%84%E5%8D%80%E5%AF%A6%E6%96%BD%E7%89%B9%E5%88%A5%E4%BA%A4%E9%80%9A%E5%AE%89%E6%8E%92-%E7%B1%B2%E5%B8%82%E6%B0%91%E4%BD%BF%E7%94%A8%E5%85%AC%E5%85%B1%E9%81%8B%E8%BC%B8%E6%9C%8D%E5%8B%99",
+    "timestamp": "2026-03-13T13:36:34.120Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "臥底嬌娃丨何廣沛客串難擋誘惑爆笑搶fo　張曦雯最強戰衣狂放電",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260312/1108592471115304960963721.jpeg/Av5S8OVo8r-AN3OMqe7Krw_mtLRJrq3veJWmZXiVpmU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60330080/%E4%BC%8A%E6%9C%97%E6%88%B0%E7%88%AD-%E6%96%B0%E9%A0%98%E8%A2%96%E8%B2%A0%E5%82%B7%E7%B9%BC%E4%BB%BB-%E8%8B%B1%E5%AA%92-%E7%A9%86%E5%82%91%E5%A1%94%E5%B7%B4%E7%8B%80%E6%B3%81%E7%84%A1%E7%A4%99%E6%88%B0%E7%88%AD%E6%A9%9F%E5%99%A8%E9%81%8B%E4%BD%9C",
     "timestamp": "2026-03-13T01:17:43.045Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "觀音開庫2026｜借庫意思？借庫幾錢？紅磡觀音廟安排　14廟宇一覽",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250222/970118897388752896389165.jpeg/wS8VyHIYzuU3LLVVgzOP0UudXwCVGUHU0W673dFuu90?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60330074/%E8%A7%80%E9%9F%B3%E9%96%8B%E5%BA%AB2026-%E5%80%9F%E5%BA%AB%E6%84%8F%E6%80%9D-%E5%80%9F%E5%BA%AB%E5%B9%BE%E9%8C%A2-%E7%B4%85%E7%A3%A1%E8%A7%80%E9%9F%B3%E5%BB%9F%E5%AE%89%E6%8E%92-14%E5%BB%9F%E5%AE%87%E4%B8%80%E8%A6%BD",
-    "timestamp": "2026-03-13T00:44:02.109Z",
     "strategy": ".content-card__main"
   }
 ];
