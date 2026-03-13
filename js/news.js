@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-12T23:49:55.046Z
+// Last updated: 2026-03-13T00:44:02.109Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "觀音開庫2026｜借庫意思？借庫幾錢？紅磡觀音廟安排　14廟宇一覽",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250222/970118897388752896389165.jpeg/wS8VyHIYzuU3LLVVgzOP0UudXwCVGUHU0W673dFuu90?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60330074/%E8%A7%80%E9%9F%B3%E9%96%8B%E5%BA%AB2026-%E5%80%9F%E5%BA%AB%E6%84%8F%E6%80%9D-%E5%80%9F%E5%BA%AB%E5%B9%BE%E9%8C%A2-%E7%B4%85%E7%A3%A1%E8%A7%80%E9%9F%B3%E5%BB%9F%E5%AE%89%E6%8E%92-14%E5%BB%9F%E5%AE%87%E4%B8%80%E8%A6%BD",
+    "timestamp": "2026-03-13T00:44:02.109Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "網球｜黃澤林蓬塔卡納挑戰賽闖8強　再演逆轉好戲挫3號種子",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260312/1108886541855363072316729.jpeg/TsPMCHTbDQO9D_2s40B0nYwQW5eX5Y4Imkcmj5pHJo8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60330025/%E5%85%AD%E5%90%88%E5%BD%A9%E9%87%91%E5%A4%9A%E5%AF%B63-17%E9%A0%AD%E7%8D%8E-8000%E8%90%AC-6%E5%80%8B%E6%9C%80%E6%97%BA%E8%99%9F%E7%A2%BC-2%E6%8B%9B%E5%A2%9E%E4%B8%AD%E7%8D%8E%E6%A9%9F%E6%9C%83",
     "timestamp": "2026-03-12T14:13:09.333Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "藝術三月2026 | M+韓國巨擘李昢大展 從賽博格到反烏托邦10大神作",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260312/1108859306821816320071284.jpeg/VC4FMZwlvfTpWGMamAcP8w2zTn6Yz5OmRte1vEbXtbw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%97%9D%E6%96%87/60329998/m-%E9%9F%93%E5%9C%8B%E8%97%9D%E8%A1%93%E5%B7%A8%E6%93%98%E6%9D%8E%E6%98%A2%E5%A4%A7%E5%B1%95-%E5%BE%9E%E8%B3%BD%E5%8D%9A%E6%A0%BC%E5%88%B0%E5%8F%8D%E7%83%8F%E6%89%98%E9%82%A6-%E6%8B%86%E8%A7%A310%E5%A4%A7%E5%BF%85%E7%9C%8B%E7%A5%9E%E4%BD%9C",
-    "timestamp": "2026-03-12T12:54:05.659Z",
     "strategy": ".content-card__main"
   }
 ];
