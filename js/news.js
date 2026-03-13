@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-13T12:23:44.179Z
+// Last updated: 2026-03-13T12:54:01.087Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "臥底嬌娃丨何廣沛客串難擋誘惑爆笑搶fo　張曦雯最強戰衣狂放電",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260313/1109124170790211584460329.jpeg/ZMqF67RK8XF3054RLTYtP7RE4X_wSxI7XyOLxV8ji8U?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60330185/%E8%87%A5%E5%BA%95%E5%AC%8C%E5%A8%83-%E4%BD%95%E5%BB%A3%E6%B2%9B%E5%AE%A2%E4%B8%B2%E9%9B%A3%E6%93%8B%E8%AA%98%E6%83%91%E7%88%86%E7%AC%91%E6%90%B6fo-%E5%BC%B5%E6%9B%A6%E9%9B%AF%E6%9C%80%E5%BC%B7%E6%88%B0%E8%A1%A3%E7%8B%82%E6%94%BE%E9%9B%BB",
+    "timestamp": "2026-03-13T12:54:01.087Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "01獨家｜北都專屬法例初步敲定　包含六大指明範疇　年內完成立法",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250222/970118897388752896389165.jpeg/wS8VyHIYzuU3LLVVgzOP0UudXwCVGUHU0W673dFuu90?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60330074/%E8%A7%80%E9%9F%B3%E9%96%8B%E5%BA%AB2026-%E5%80%9F%E5%BA%AB%E6%84%8F%E6%80%9D-%E5%80%9F%E5%BA%AB%E5%B9%BE%E9%8C%A2-%E7%B4%85%E7%A3%A1%E8%A7%80%E9%9F%B3%E5%BB%9F%E5%AE%89%E6%8E%92-14%E5%BB%9F%E5%AE%87%E4%B8%80%E8%A6%BD",
     "timestamp": "2026-03-13T00:44:02.109Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "網球｜黃澤林蓬塔卡納挑戰賽闖8強　再演逆轉好戲挫3號種子",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260313/1109029221964976128538917.jpeg/U6P7cUWy6rwxTzeGQa7zBNnD6AjinIvoVAwJh1QMCYc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60330069/%E7%B6%B2%E7%90%83-%E9%BB%83%E6%BE%A4%E6%9E%97%E8%93%AC%E5%A1%94%E5%8D%A1%E7%B4%8D%E6%8C%91%E6%88%B0%E8%B3%BD%E9%97%968%E5%BC%B7-%E5%86%8D%E6%BC%94%E9%80%86%E8%BD%89%E5%A5%BD%E6%88%B2%E6%8C%AB3%E8%99%9F%E7%A8%AE%E5%AD%90",
-    "timestamp": "2026-03-12T23:49:55.046Z",
     "strategy": ".content-card__main"
   }
 ];
