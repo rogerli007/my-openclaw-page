@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-13T05:55:55.444Z
+// Last updated: 2026-03-13T06:28:41.814Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "本港都建「AI龍蝦養殖場」?　香港寬頻︰首推OpenClaw AI應用方案",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260313/1109127524798959616374169.jpeg/rvvxZg5IYIXQxcFVCyiEZHfZGA-nYJaSJ0uHgCdLh4A?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60330197/%E6%9C%AC%E6%B8%AF%E9%83%BD%E5%BB%BA-ai%E9%BE%8D%E8%9D%A6%E9%A4%8A%E6%AE%96%E5%A0%B4-%E9%A6%99%E6%B8%AF%E5%AF%AC%E9%A0%BB-%E9%A6%96%E6%8E%A8openclaw-ai%E6%87%89%E7%94%A8%E6%96%B9%E6%A1%88",
+    "timestamp": "2026-03-13T06:28:41.814Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "27歲理工大學博士生　校內飯堂午膳時突然暈倒　送院搶救不治",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260313/1108939855678672896972815.jpeg/_-U9yIbwK6B6LcqeJ9pLwI_LHblc-8WKeRW6kHkVupA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60330027/%E8%8B%B1%E7%9A%87%E5%89%8D%E6%96%B0%E4%BA%BA%E9%BB%83%E5%B3%BB%E7%86%99-%E6%9C%AA%E7%B6%93%E5%90%8C%E6%84%8F%E4%B8%8B%E7%99%BC%E5%B8%83%E7%A7%81%E5%AF%86%E5%BD%B1%E5%83%8F-%E7%BD%AA%E6%88%90-%E9%82%84%E6%8A%BC%E6%9C%88%E5%BA%95%E5%88%A4%E5%88%91",
     "timestamp": "2026-03-12T17:38:50.707Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美國對台展開301和337調查　台經濟部：已與相關台廠聯繫提供協助",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260312/1108843563266871296942376.jpeg/B_4Nr8K3yImoE4_XpD3ZWZZpjEvkodXy1hGEhdYRhIU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8F%B0%E7%81%A3%E6%96%B0%E8%81%9E/60329991/%E7%BE%8E%E5%9C%8B%E5%B0%8D%E5%8F%B0%E5%B1%95%E9%96%8B301%E5%92%8C337%E8%AA%BF%E6%9F%A5-%E5%8F%B0%E7%B6%93%E6%BF%9F%E9%83%A8-%E5%B7%B2%E8%88%87%E7%9B%B8%E9%97%9C%E5%8F%B0%E5%BB%A0%E8%81%AF%E7%B9%AB%E6%8F%90%E4%BE%9B%E5%8D%94%E5%8A%A9",
-    "timestamp": "2026-03-12T17:16:14.660Z",
     "strategy": ".content-card__main"
   }
 ];
