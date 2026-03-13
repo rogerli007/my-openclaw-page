@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-13T15:58:38.809Z
+// Last updated: 2026-03-13T16:21:12.790Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "觀音借庫2026｜排頭位善信搭帳篷通宵露宿　連續借庫14年成功戒煙",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260313/1109274306363265024527064.jpeg/BeXsL2zGeIuXLw5MFF1xr7U6T-_BtnT6RSkXrmApF64?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60330385/%E8%A7%80%E9%9F%B3%E5%80%9F%E5%BA%AB2026-%E6%8E%92%E9%A0%AD%E4%BD%8D%E5%96%84%E4%BF%A1%E6%90%AD%E5%B8%B3%E7%AF%B7%E9%80%9A%E5%AE%B5%E9%9C%B2%E5%AE%BF-%E9%80%A3%E7%BA%8C%E5%80%9F%E5%BA%AB14%E5%B9%B4%E6%88%90%E5%8A%9F%E6%88%92%E7%85%99",
+    "timestamp": "2026-03-13T16:21:12.790Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "DEEP WATER SOUTH 6A期首批93伙　折實均價29055元、最平906.8萬",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260313/1109124687272611840067524.jpeg/kHfv1rVAEjM4I7B2LWULzDoQv5oJ6E_gB67FvAeuxbw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60330190/27%E6%AD%B2%E7%90%86%E5%B7%A5%E5%A4%A7%E5%AD%B8%E5%8D%9A%E5%A3%AB%E7%94%9F-%E6%A0%A1%E5%85%A7%E9%A3%AF%E5%A0%82%E5%8D%88%E8%86%B3%E6%99%82%E7%AA%81%E7%84%B6%E6%9A%88%E5%80%92-%E9%80%81%E9%99%A2%E6%90%B6%E6%95%91%E4%B8%8D%E6%B2%BB",
     "timestamp": "2026-03-13T05:55:55.444Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "無業漢刀傷男露宿者致頸靜脈全斷　官指傷者差點無命　共囚5年半",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250402/984213437439676416463971.jpeg/nrxIkQ-dgVEC6bwLfFy-nalVLqgcPjojayZBPkEmQT4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60330180/%E7%84%A1%E6%A5%AD%E6%BC%A2%E5%88%80%E5%82%B7%E7%94%B7%E9%9C%B2%E5%AE%BF%E8%80%85%E8%87%B4%E9%A0%B8%E9%9D%9C%E8%84%88%E5%85%A8%E6%96%B7-%E5%AE%98%E6%8C%87%E5%82%B7%E8%80%85%E5%B7%AE%E9%BB%9E%E7%84%A1%E5%91%BD-%E5%85%B1%E5%9B%9A5%E5%B9%B4%E5%8D%8A",
-    "timestamp": "2026-03-13T05:31:20.693Z",
     "strategy": ".content-card__main"
   }
 ];
