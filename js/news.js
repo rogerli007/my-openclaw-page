@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-13T23:32:09.584Z
+// Last updated: 2026-03-13T23:48:13.985Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "特朗普：美軍已對伊朗哈爾克島發動猛烈襲擊　未摧毀島上石油設施",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260312/1108596946106322944049638.jpeg/NBIpAY7sziJtyvm2TNBIUsXTT_pugL5wc756SHO-ekg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60330394/%E7%89%B9%E6%9C%97%E6%99%AE-%E7%BE%8E%E8%BB%8D%E5%B7%B2%E5%B0%8D%E4%BC%8A%E6%9C%97%E5%93%88%E7%88%BE%E5%85%8B%E5%B3%B6%E7%99%BC%E5%8B%95%E7%8C%9B%E7%83%88%E8%A5%B2%E6%93%8A-%E6%9C%AA%E6%91%A7%E6%AF%80%E5%B3%B6%E4%B8%8A%E7%9F%B3%E6%B2%B9%E8%A8%AD%E6%96%BD",
+    "timestamp": "2026-03-13T23:48:13.985Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "Pokémon卡變金磚｜記者實測「爆盒」抽卡　抽靚卡機率僅百分之一",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260313/1109213216463917056079538.jpeg/nayMMufrV8g27p92WvP1-Pd8VP_Q0KJAIpAGbSKQBm0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60330350/%E5%86%8D%E8%A6%8Bufo-%E8%A1%9B%E8%A9%A9%E9%9B%85%E5%87%BA%E5%B8%AD%E5%AE%A3%E5%82%B3%E8%A2%AB%E7%8B%82%E5%BE%92%E6%8E%89%E6%B0%B4%E6%A8%BD-%E8%94%A1%E5%8D%93%E5%A6%8D%E4%B8%80%E9%9D%A2%E9%A9%9A%E8%A8%9D-%E9%82%8A%E5%80%8B%E5%91%80",
     "timestamp": "2026-03-13T12:00:07.776Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "戀愛心測｜選一張春天景色圖　看你桃花運勢有多旺隱藏魅力來自哪",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260302/1105163656028491776593470.jpeg/oS03tgO0X3MCnsoHJnFSwpMYLqk74s4t8ZC68PGQuvA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%AB%87%E6%83%85%E8%AA%AA%E6%80%A7/60326011/%E6%88%80%E6%84%9B%E5%BF%83%E6%B8%AC-%E9%81%B8%E4%B8%80%E5%BC%B5%E6%98%A5%E5%A4%A9%E6%99%AF%E8%89%B2%E5%9C%96-%E7%9C%8B%E4%BD%A0%E6%A1%83%E8%8A%B1%E9%81%8B%E5%8B%A2%E6%9C%89%E5%A4%9A%E6%97%BA%E9%9A%B1%E8%97%8F%E9%AD%85%E5%8A%9B%E4%BE%86%E8%87%AA%E5%93%AA",
-    "timestamp": "2026-03-13T11:39:16.522Z",
     "strategy": ".content-card__main"
   }
 ];
