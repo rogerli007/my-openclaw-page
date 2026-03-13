@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-13T06:28:41.814Z
+// Last updated: 2026-03-13T06:53:45.597Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "AI浪潮專家料大量初級職位被取代　文科背景一項特質成求職優勢",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260313/1109133331720572928936052.jpeg/3yKtdQNYCRcJwrUAylSk3bEZOiRuR0ZmN7ghADe4IQA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%81%B7%E5%A0%B4/60329945/ai%E6%B5%AA%E6%BD%AE%E5%B0%88%E5%AE%B6%E6%96%99%E5%A4%A7%E9%87%8F%E5%88%9D%E7%B4%9A%E8%81%B7%E4%BD%8D%E8%A2%AB%E5%8F%96%E4%BB%A3-%E6%96%87%E7%A7%91%E8%83%8C%E6%99%AF%E4%B8%80%E9%A0%85%E7%89%B9%E8%B3%AA%E6%88%90%E6%B1%82%E8%81%B7%E5%84%AA%E5%8B%A2",
+    "timestamp": "2026-03-13T06:53:45.597Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "本港都建「AI龍蝦養殖場」?　香港寬頻︰首推OpenClaw AI應用方案",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260313/1108944037664002048251936.jpeg/AYim5TAOl2_TtVPeynfmQffHHNRF4LYAX507G1-dOxs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60330053/%E4%BC%8A%E6%9C%97%E5%A4%96%E4%BA%A4%E9%83%A8-%E8%A8%B1%E5%A4%9A%E8%88%B9%E9%9A%BB%E5%8F%AA%E8%A6%81%E8%88%87%E4%BC%8A%E6%9C%97%E6%B5%B7%E8%BB%8D%E5%8D%94%E8%AA%BF-%E4%BB%8D%E5%8F%AF%E9%80%9A%E9%81%8E%E9%9C%8D%E7%88%BE%E6%9C%A8%E8%8C%B2%E6%B5%B7%E5%B3%BD",
     "timestamp": "2026-03-12T18:37:59.279Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "英皇前新人黃峻熙「未經同意下發布私密影像」罪成　還押月底判刑",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260313/1108939855678672896972815.jpeg/_-U9yIbwK6B6LcqeJ9pLwI_LHblc-8WKeRW6kHkVupA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60330027/%E8%8B%B1%E7%9A%87%E5%89%8D%E6%96%B0%E4%BA%BA%E9%BB%83%E5%B3%BB%E7%86%99-%E6%9C%AA%E7%B6%93%E5%90%8C%E6%84%8F%E4%B8%8B%E7%99%BC%E5%B8%83%E7%A7%81%E5%AF%86%E5%BD%B1%E5%83%8F-%E7%BD%AA%E6%88%90-%E9%82%84%E6%8A%BC%E6%9C%88%E5%BA%95%E5%88%A4%E5%88%91",
-    "timestamp": "2026-03-12T17:38:50.707Z",
     "strategy": ".content-card__main"
   }
 ];
