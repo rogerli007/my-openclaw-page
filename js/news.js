@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-13T11:19:38.180Z
+// Last updated: 2026-03-13T11:39:16.522Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "戀愛心測｜選一張春天景色圖　看你桃花運勢有多旺隱藏魅力來自哪",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260302/1105163656028491776593470.jpeg/oS03tgO0X3MCnsoHJnFSwpMYLqk74s4t8ZC68PGQuvA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%AB%87%E6%83%85%E8%AA%AA%E6%80%A7/60326011/%E6%88%80%E6%84%9B%E5%BF%83%E6%B8%AC-%E9%81%B8%E4%B8%80%E5%BC%B5%E6%98%A5%E5%A4%A9%E6%99%AF%E8%89%B2%E5%9C%96-%E7%9C%8B%E4%BD%A0%E6%A1%83%E8%8A%B1%E9%81%8B%E5%8B%A2%E6%9C%89%E5%A4%9A%E6%97%BA%E9%9A%B1%E8%97%8F%E9%AD%85%E5%8A%9B%E4%BE%86%E8%87%AA%E5%93%AA",
+    "timestamp": "2026-03-13T11:39:16.522Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美食新聞報道｜精緻福建菜創新烹飪　葵涌一蚊煎釀三寶性價比爆燈",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260313/1109005399878537216368250.jpeg/2Bt8AMXnq2eoxmjCo8RqDiXdY3wLZHnlMVFNLjFRTS4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60330066/%E6%96%B0%E7%94%B0%E5%85%AC%E8%B7%AF%E7%A7%81%E5%AE%B6%E8%BB%8A%E9%80%86%E7%B7%9A%E8%A1%8C%E9%A7%9B-%E8%BB%8A%E5%B0%BE%E7%8B%82%E5%99%B4%E7%81%AB%E8%8A%B1%E6%8B%96%E5%87%BA%E7%81%AB%E9%BE%8D-%E9%9A%AA%E6%92%9E%E5%B0%8D%E9%A0%AD%E8%BB%8A",
     "timestamp": "2026-03-12T22:32:09.466Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "歐霸盃16強首回合｜諾定咸森林0：1不敵米迪蘭特",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260313/1109008134526996480675201.jpeg/iuTJxeFZTtsaKHbt6aH1RhiBkBtDShNYtwf8nLcH_Jw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60330065/%E6%AD%90%E9%9C%B8%E7%9B%8316%E5%BC%B7%E9%A6%96%E5%9B%9E%E5%90%88-%E8%AB%BE%E5%AE%9A%E5%92%B8%E6%A3%AE%E6%9E%970-1%E4%B8%8D%E6%95%B5%E7%B1%B3%E8%BF%AA%E8%98%AD%E7%89%B9",
-    "timestamp": "2026-03-12T22:15:00.044Z",
     "strategy": ".content-card__main"
   }
 ];
