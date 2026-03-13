@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-13T11:39:16.522Z
+// Last updated: 2026-03-13T12:00:07.776Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "再見UFO｜衛詩雅出席宣傳被狂徒掉水樽　蔡卓妍一面驚訝：邊個呀",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260313/1109213216463917056079538.jpeg/nayMMufrV8g27p92WvP1-Pd8VP_Q0KJAIpAGbSKQBm0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60330350/%E5%86%8D%E8%A6%8Bufo-%E8%A1%9B%E8%A9%A9%E9%9B%85%E5%87%BA%E5%B8%AD%E5%AE%A3%E5%82%B3%E8%A2%AB%E7%8B%82%E5%BE%92%E6%8E%89%E6%B0%B4%E6%A8%BD-%E8%94%A1%E5%8D%93%E5%A6%8D%E4%B8%80%E9%9D%A2%E9%A9%9A%E8%A8%9D-%E9%82%8A%E5%80%8B%E5%91%80",
+    "timestamp": "2026-03-13T12:00:07.776Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "戀愛心測｜選一張春天景色圖　看你桃花運勢有多旺隱藏魅力來自哪",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260313/1108973041934667776831259.png/SLRUxQ19Uj4o1i6Zgzq6W617aLtaM0OqT2o8HU9qPB0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E8%A9%B1%E9%A1%8C/60330000/90%E6%AD%B2%E8%80%81%E5%A9%A6%E9%81%AD4%E8%92%99%E9%9D%A2%E7%94%B7%E5%85%A5%E5%B1%8B%E8%BC%AA%E5%A7%A6%E4%BC%81%E5%9C%96%E6%AE%BA%E5%AE%B3-%E5%A5%B3%E5%85%92%E6%81%90%E5%AE%B6%E9%86%9C%E5%A4%96%E5%82%B3%E7%84%A1%E5%8D%B3%E6%99%82%E9%80%81%E9%99%A2",
     "timestamp": "2026-03-12T23:18:04.891Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "新田公路私家車逆線行駛　車尾狂噴火花拖出火龍　險撞對頭車",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260313/1109005399878537216368250.jpeg/2Bt8AMXnq2eoxmjCo8RqDiXdY3wLZHnlMVFNLjFRTS4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60330066/%E6%96%B0%E7%94%B0%E5%85%AC%E8%B7%AF%E7%A7%81%E5%AE%B6%E8%BB%8A%E9%80%86%E7%B7%9A%E8%A1%8C%E9%A7%9B-%E8%BB%8A%E5%B0%BE%E7%8B%82%E5%99%B4%E7%81%AB%E8%8A%B1%E6%8B%96%E5%87%BA%E7%81%AB%E9%BE%8D-%E9%9A%AA%E6%92%9E%E5%B0%8D%E9%A0%AD%E8%BB%8A",
-    "timestamp": "2026-03-12T22:32:09.466Z",
     "strategy": ".content-card__main"
   }
 ];
