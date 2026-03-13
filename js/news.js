@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-13T16:21:12.790Z
+// Last updated: 2026-03-13T17:50:48.179Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "英媒：法國意大利與伊朗展開對話　冀確保其船隻通過霍爾木茲海峽",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260302/1105106436800647168913867.jpeg/FpKyXTH7-tceMowdhmWT1IcnwnPlz5JSN-k1DzfpNQ8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60330386/%E8%8B%B1%E5%AA%92-%E6%B3%95%E5%9C%8B%E6%84%8F%E5%A4%A7%E5%88%A9%E8%88%87%E4%BC%8A%E6%9C%97%E5%B1%95%E9%96%8B%E5%B0%8D%E8%A9%B1-%E5%86%80%E7%A2%BA%E4%BF%9D%E5%85%B6%E8%88%B9%E9%9A%BB%E9%80%9A%E9%81%8E%E9%9C%8D%E7%88%BE%E6%9C%A8%E8%8C%B2%E6%B5%B7%E5%B3%BD",
+    "timestamp": "2026-03-13T17:50:48.179Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "觀音借庫2026｜排頭位善信搭帳篷通宵露宿　連續借庫14年成功戒煙",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260313/1109127524798959616374169.jpeg/rvvxZg5IYIXQxcFVCyiEZHfZGA-nYJaSJ0uHgCdLh4A?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60330197/%E6%9C%AC%E6%B8%AF%E9%83%BD%E5%BB%BA-ai%E9%BE%8D%E8%9D%A6%E9%A4%8A%E6%AE%96%E5%A0%B4-%E9%A6%99%E6%B8%AF%E5%AF%AC%E9%A0%BB-%E9%A6%96%E6%8E%A8openclaw-ai%E6%87%89%E7%94%A8%E6%96%B9%E6%A1%88",
     "timestamp": "2026-03-13T06:28:41.814Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "27歲理工大學博士生　校內飯堂午膳時突然暈倒　送院搶救不治",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260313/1109124687272611840067524.jpeg/kHfv1rVAEjM4I7B2LWULzDoQv5oJ6E_gB67FvAeuxbw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60330190/27%E6%AD%B2%E7%90%86%E5%B7%A5%E5%A4%A7%E5%AD%B8%E5%8D%9A%E5%A3%AB%E7%94%9F-%E6%A0%A1%E5%85%A7%E9%A3%AF%E5%A0%82%E5%8D%88%E8%86%B3%E6%99%82%E7%AA%81%E7%84%B6%E6%9A%88%E5%80%92-%E9%80%81%E9%99%A2%E6%90%B6%E6%95%91%E4%B8%8D%E6%B2%BB",
-    "timestamp": "2026-03-13T05:55:55.444Z",
     "strategy": ".content-card__main"
   }
 ];
