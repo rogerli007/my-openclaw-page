@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-13T22:35:41.682Z
+// Last updated: 2026-03-13T22:59:23.974Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "元朗私家車撞傷2人　司機棄車逃走　警附近檢80包依托咪酯",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260314/1109379113329627136264510.jpeg/l12sp7xJv5jdyCwbCi46cPZe9m0pbT90lCbcqJQm3Kg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60330393/%E5%85%83%E6%9C%97%E7%A7%81%E5%AE%B6%E8%BB%8A%E6%92%9E%E5%82%B72%E4%BA%BA-%E5%8F%B8%E6%A9%9F%E6%A3%84%E8%BB%8A%E9%80%83%E8%B5%B0-%E8%AD%A6%E9%99%84%E8%BF%91%E6%AA%A280%E5%8C%85%E4%BE%9D%E6%89%98%E5%92%AA%E9%85%AF",
+    "timestamp": "2026-03-13T22:59:23.974Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "【星之谷】銀行相繼推定息計劃　對按揭市場的三大啟示",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260313/1109186610479501312014978.jpeg/CVPSvqw4wSEEm9I_UsuT7gZl9PvjDfBqYpi9LGKYvSw",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60330298/%E7%89%B9%E6%9C%97%E6%99%AE18%E6%AD%B2%E5%AD%AB%E5%A5%B3%E6%8B%8D%E7%89%87%E9%80%9B%E8%B2%B4%E5%83%B9%E8%B6%85%E5%B8%82-%E8%8A%B1233%E7%BE%8E%E5%85%83%E8%B3%BC%E7%89%A9%E6%84%8F%E5%A4%96%E6%8C%A8%E8%BD%9F-%E7%82%AB%E5%AF%8C",
     "timestamp": "2026-03-13T10:53:56.364Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "永泰粉錦公路「雲向」截收逾3000票、超額逾14倍　明日首賣200伙",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260313/1109188155342327808158397.jpeg/dZiuhHIhNKcsgVMJcc37tgbCwZDXkKCdPNGu_jzRrv4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60330250/%E6%B0%B8%E6%B3%B0%E7%B2%89%E9%8C%A6%E5%85%AC%E8%B7%AF-%E9%9B%B2%E5%90%91-%E6%88%AA%E6%94%B6%E9%80%BE3000%E7%A5%A8-%E8%B6%85%E9%A1%8D%E9%80%BE14%E5%80%8D-%E6%98%8E%E6%97%A5%E9%A6%96%E8%B3%A3200%E4%BC%99",
-    "timestamp": "2026-03-13T10:20:31.815Z",
     "strategy": ".content-card__main"
   }
 ];
