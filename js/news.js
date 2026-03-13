@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-13T05:31:20.693Z
+// Last updated: 2026-03-13T05:55:55.444Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "27歲理工大學博士生　校內飯堂午膳時突然暈倒　送院搶救不治",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260313/1109124687272611840067524.jpeg/kHfv1rVAEjM4I7B2LWULzDoQv5oJ6E_gB67FvAeuxbw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60330190/27%E6%AD%B2%E7%90%86%E5%B7%A5%E5%A4%A7%E5%AD%B8%E5%8D%9A%E5%A3%AB%E7%94%9F-%E6%A0%A1%E5%85%A7%E9%A3%AF%E5%A0%82%E5%8D%88%E8%86%B3%E6%99%82%E7%AA%81%E7%84%B6%E6%9A%88%E5%80%92-%E9%80%81%E9%99%A2%E6%90%B6%E6%95%91%E4%B8%8D%E6%B2%BB",
+    "timestamp": "2026-03-13T05:55:55.444Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "無業漢刀傷男露宿者致頸靜脈全斷　官指傷者差點無命　共囚5年半",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260312/1108843563266871296942376.jpeg/B_4Nr8K3yImoE4_XpD3ZWZZpjEvkodXy1hGEhdYRhIU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8F%B0%E7%81%A3%E6%96%B0%E8%81%9E/60329991/%E7%BE%8E%E5%9C%8B%E5%B0%8D%E5%8F%B0%E5%B1%95%E9%96%8B301%E5%92%8C337%E8%AA%BF%E6%9F%A5-%E5%8F%B0%E7%B6%93%E6%BF%9F%E9%83%A8-%E5%B7%B2%E8%88%87%E7%9B%B8%E9%97%9C%E5%8F%B0%E5%BB%A0%E8%81%AF%E7%B9%AB%E6%8F%90%E4%BE%9B%E5%8D%94%E5%8A%A9",
     "timestamp": "2026-03-12T17:16:14.660Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "20歲英皇前新人「未經同意下發布私密影像」罪成　還押至月底判刑",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260312/1108896886699331584841032.jpeg/vNyubRiilarcuBKJmwo9PiB2mpogQ9yY5GbHLeRmxy0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60330027/20%E6%AD%B2%E8%8B%B1%E7%9A%87%E5%89%8D%E6%96%B0%E4%BA%BA-%E6%9C%AA%E7%B6%93%E5%90%8C%E6%84%8F%E4%B8%8B%E7%99%BC%E5%B8%83%E7%A7%81%E5%AF%86%E5%BD%B1%E5%83%8F-%E7%BD%AA%E6%88%90-%E9%82%84%E6%8A%BC%E8%87%B3%E6%9C%88%E5%BA%95%E5%88%A4%E5%88%91",
-    "timestamp": "2026-03-12T16:42:43.756Z",
     "strategy": ".content-card__main"
   }
 ];
