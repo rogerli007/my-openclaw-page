@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-13T04:05:56.282Z
+// Last updated: 2026-03-13T04:57:26.540Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "英國一女子遭囚禁虐待25年淪家奴　懼再遭「寄宿媽媽」捉走",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260313/1109100578388054016149073.jpeg/blDtWp4rtVdEAuOrnMNw-EpKodIz-rfms6x2xLOsdsQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60330173/%E8%8B%B1%E5%9C%8B%E4%B8%80%E5%A5%B3%E5%AD%90%E9%81%AD%E5%9B%9A%E7%A6%81%E8%99%90%E5%BE%8525%E5%B9%B4%E6%B7%AA%E5%AE%B6%E5%A5%B4-%E6%87%BC%E5%86%8D%E9%81%AD-%E5%AF%84%E5%AE%BF%E5%AA%BD%E5%AA%BD-%E6%8D%89%E8%B5%B0",
+    "timestamp": "2026-03-13T04:57:26.540Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "公屋│房署夜晚家訪惹議！凌晨都有？住戶提醒：有這人陪同才開門",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260313/1108917318982832128328974.jpeg/qwPyOjd4pM2D1DFZ_ur2Bs4ewXiiCdRy4MI1DuDCNQ4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60330045/%E8%AD%A6%E5%A4%A7%E5%9F%94%E6%90%97%E7%A0%B4%E9%9D%9E%E6%B3%95%E9%BA%BB%E9%9B%80%E8%B3%AD%E6%AA%94-37%E4%BA%BA%E8%A2%AB%E6%8D%95-%E6%A1%88%E4%BB%B6%E6%8F%90%E5%A0%82",
     "timestamp": "2026-03-12T16:16:25.277Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "蔡思貝2年冇劇拍決定離巢TVB　當年與王浩信「閉門打邊爐」最轟動",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260312/1108881997645746176134076.jpeg/bocGOiLCYVJJWmSJMyGAH-Wu8vsirRWlf7QofX-0KH0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60330020/%E8%94%A1%E6%80%9D%E8%B2%9D2%E5%B9%B4%E5%86%87%E5%8A%87%E6%8B%8D%E6%B1%BA%E5%AE%9A%E9%9B%A2%E5%B7%A2tvb-%E7%95%B6%E5%B9%B4%E8%88%87%E7%8E%8B%E6%B5%A9%E4%BF%A1-%E9%96%89%E9%96%80%E6%89%93%E9%82%8A%E7%88%90-%E6%9C%80%E8%BD%9F%E5%8B%95",
-    "timestamp": "2026-03-12T15:41:50.638Z",
     "strategy": ".content-card__main"
   }
 ];
