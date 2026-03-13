@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-13T08:52:55.534Z
+// Last updated: 2026-03-13T09:23:15.683Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "假水費單再現大狀也受騙　留意5伏位　兩招安全獲水務署帳戶資訊",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260313/1109175692299341824712940.jpeg/ulQW4XADYw4_Lf6cohFG3nYfKsR1uLwZMTTumjE07po?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60330287/%E5%81%87%E6%B0%B4%E8%B2%BB%E5%96%AE%E5%86%8D%E7%8F%BE%E5%A4%A7%E7%8B%80%E4%B9%9F%E5%8F%97%E9%A8%99-%E7%95%99%E6%84%8F5%E4%BC%8F%E4%BD%8D-%E5%85%A9%E6%8B%9B%E5%AE%89%E5%85%A8%E7%8D%B2%E6%B0%B4%E5%8B%99%E7%BD%B2%E5%B8%B3%E6%88%B6%E8%B3%87%E8%A8%8A",
+    "timestamp": "2026-03-13T09:23:15.683Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美國向中國等60個貿易夥伴發動301調查　商務部：破壞經貿秩序",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260312/1108796897729974272480372.jpeg/t9NSW3YJJLcQv3GbQC84qJ5XtEJgbbcqFGu9XhRrvV4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60329895/%E5%A5%B3%E8%B6%B3%E6%9C%80%E5%89%8D%E7%B7%9A-%E5%A5%B3%E5%AD%90%E4%BA%9E%E6%B4%B2%E7%9B%838%E5%BC%B7-%E4%B8%AD%E5%9C%8B%E5%A5%B3%E8%B6%B3%E6%9C%89%E5%8A%9B-%E5%A4%A7-%E5%8B%9D",
     "timestamp": "2026-03-12T20:20:52.518Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "伊朗外交部：許多船隻只要與伊朗海軍協調　仍可通過霍爾木茲海峽",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260313/1108944037664002048251936.jpeg/AYim5TAOl2_TtVPeynfmQffHHNRF4LYAX507G1-dOxs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60330053/%E4%BC%8A%E6%9C%97%E5%A4%96%E4%BA%A4%E9%83%A8-%E8%A8%B1%E5%A4%9A%E8%88%B9%E9%9A%BB%E5%8F%AA%E8%A6%81%E8%88%87%E4%BC%8A%E6%9C%97%E6%B5%B7%E8%BB%8D%E5%8D%94%E8%AA%BF-%E4%BB%8D%E5%8F%AF%E9%80%9A%E9%81%8E%E9%9C%8D%E7%88%BE%E6%9C%A8%E8%8C%B2%E6%B5%B7%E5%B3%BD",
-    "timestamp": "2026-03-12T20:02:02.875Z",
     "strategy": ".content-card__main"
   }
 ];
