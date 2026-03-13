@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-13T04:57:26.540Z
+// Last updated: 2026-03-13T05:31:20.693Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "無業漢刀傷男露宿者致頸靜脈全斷　官指傷者差點無命　共囚5年半",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250402/984213437439676416463971.jpeg/nrxIkQ-dgVEC6bwLfFy-nalVLqgcPjojayZBPkEmQT4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60330180/%E7%84%A1%E6%A5%AD%E6%BC%A2%E5%88%80%E5%82%B7%E7%94%B7%E9%9C%B2%E5%AE%BF%E8%80%85%E8%87%B4%E9%A0%B8%E9%9D%9C%E8%84%88%E5%85%A8%E6%96%B7-%E5%AE%98%E6%8C%87%E5%82%B7%E8%80%85%E5%B7%AE%E9%BB%9E%E7%84%A1%E5%91%BD-%E5%85%B1%E5%9B%9A5%E5%B9%B4%E5%8D%8A",
+    "timestamp": "2026-03-13T05:31:20.693Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "英國一女子遭囚禁虐待25年淪家奴　懼再遭「寄宿媽媽」捉走",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260312/1108896886699331584841032.jpeg/vNyubRiilarcuBKJmwo9PiB2mpogQ9yY5GbHLeRmxy0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60330027/20%E6%AD%B2%E8%8B%B1%E7%9A%87%E5%89%8D%E6%96%B0%E4%BA%BA-%E6%9C%AA%E7%B6%93%E5%90%8C%E6%84%8F%E4%B8%8B%E7%99%BC%E5%B8%83%E7%A7%81%E5%AF%86%E5%BD%B1%E5%83%8F-%E7%BD%AA%E6%88%90-%E9%82%84%E6%8A%BC%E8%87%B3%E6%9C%88%E5%BA%95%E5%88%A4%E5%88%91",
     "timestamp": "2026-03-12T16:42:43.756Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "警大埔搗破非法麻雀賭檔　37人被捕　案件提堂",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260313/1108917318982832128328974.jpeg/qwPyOjd4pM2D1DFZ_ur2Bs4ewXiiCdRy4MI1DuDCNQ4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60330045/%E8%AD%A6%E5%A4%A7%E5%9F%94%E6%90%97%E7%A0%B4%E9%9D%9E%E6%B3%95%E9%BA%BB%E9%9B%80%E8%B3%AD%E6%AA%94-37%E4%BA%BA%E8%A2%AB%E6%8D%95-%E6%A1%88%E4%BB%B6%E6%8F%90%E5%A0%82",
-    "timestamp": "2026-03-12T16:16:25.277Z",
     "strategy": ".content-card__main"
   }
 ];
