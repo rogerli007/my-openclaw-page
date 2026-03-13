@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-13T20:23:27.907Z
+// Last updated: 2026-03-13T20:51:33.149Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美國聯邦法官阻止司法部對鮑威爾傳票　特朗普政府將提起上訴",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20251211/1075646246670307328530472.jpeg/LA4ZdugmjMzZvyCVzOYwfYJ8-F4BG2jZv1iXWL9Yl1g?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60330390/%E7%BE%8E%E5%9C%8B%E8%81%AF%E9%82%A6%E6%B3%95%E5%AE%98%E9%98%BB%E6%AD%A2%E5%8F%B8%E6%B3%95%E9%83%A8%E5%B0%8D%E9%AE%91%E5%A8%81%E7%88%BE%E5%82%B3%E7%A5%A8-%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%E5%B0%87%E6%8F%90%E8%B5%B7%E4%B8%8A%E8%A8%B4",
+    "timestamp": "2026-03-13T20:51:33.149Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美國聯邦法官阻止司法部對鮑威爾傳票　特朗普政府將提起上訴",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260313/1109175692299341824712940.jpeg/ulQW4XADYw4_Lf6cohFG3nYfKsR1uLwZMTTumjE07po?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60330287/%E5%81%87%E6%B0%B4%E8%B2%BB%E5%96%AE%E5%86%8D%E7%8F%BE%E5%A4%A7%E7%8B%80%E4%B9%9F%E5%8F%97%E9%A8%99-%E7%95%99%E6%84%8F5%E4%BC%8F%E4%BD%8D-%E5%85%A9%E6%8B%9B%E5%AE%89%E5%85%A8%E7%8D%B2%E6%B0%B4%E5%8B%99%E7%BD%B2%E5%B8%B3%E6%88%B6%E8%B3%87%E8%A8%8A",
     "timestamp": "2026-03-13T09:23:15.683Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美國向中國等60個貿易夥伴發動301調查　商務部：破壞經貿秩序",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260224/1102914374441373696058732.jpeg/8Tql5gJu4pUDO8QW6dc9YL22ombJD4hofc5LlX3OS5U?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60330262/%E7%BE%8E%E5%9C%8B%E5%90%91%E4%B8%AD%E5%9C%8B%E7%AD%8960%E5%80%8B%E8%B2%BF%E6%98%93%E5%A4%A5%E4%BC%B4%E7%99%BC%E5%8B%95301%E8%AA%BF%E6%9F%A5-%E5%95%86%E5%8B%99%E9%83%A8-%E7%A0%B4%E5%A3%9E%E7%B6%93%E8%B2%BF%E7%A7%A9%E5%BA%8F",
-    "timestamp": "2026-03-13T08:52:55.534Z",
     "strategy": ".content-card__main"
   }
 ];
