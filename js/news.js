@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-13T15:07:51.862Z
+// Last updated: 2026-03-13T15:58:38.809Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "DEEP WATER SOUTH 6A期首批93伙　折實均價29055元、最平906.8萬",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260313/1109274185294680064297813.jpeg/XPPdRbA6iPekP0_LN1bpp4URgdCjvqZvy7TCo8u0wqM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60330383/deep-water-south-6a%E6%9C%9F%E9%A6%96%E6%89%B993%E4%BC%99-%E6%8A%98%E5%AF%A6%E5%9D%87%E5%83%B929055%E5%85%83-%E6%9C%80%E5%B9%B3906-8%E8%90%AC",
+    "timestamp": "2026-03-13T15:58:38.809Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "夜王｜「葵芳」Franchesca真人驚現葵芳站！　網民集氣成功真改名",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250402/984213437439676416463971.jpeg/nrxIkQ-dgVEC6bwLfFy-nalVLqgcPjojayZBPkEmQT4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60330180/%E7%84%A1%E6%A5%AD%E6%BC%A2%E5%88%80%E5%82%B7%E7%94%B7%E9%9C%B2%E5%AE%BF%E8%80%85%E8%87%B4%E9%A0%B8%E9%9D%9C%E8%84%88%E5%85%A8%E6%96%B7-%E5%AE%98%E6%8C%87%E5%82%B7%E8%80%85%E5%B7%AE%E9%BB%9E%E7%84%A1%E5%91%BD-%E5%85%B1%E5%9B%9A5%E5%B9%B4%E5%8D%8A",
     "timestamp": "2026-03-13T05:31:20.693Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "英國一女子遭囚禁虐待25年淪家奴　懼再遭「寄宿媽媽」捉走",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260313/1109100578388054016149073.jpeg/blDtWp4rtVdEAuOrnMNw-EpKodIz-rfms6x2xLOsdsQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60330173/%E8%8B%B1%E5%9C%8B%E4%B8%80%E5%A5%B3%E5%AD%90%E9%81%AD%E5%9B%9A%E7%A6%81%E8%99%90%E5%BE%8525%E5%B9%B4%E6%B7%AA%E5%AE%B6%E5%A5%B4-%E6%87%BC%E5%86%8D%E9%81%AD-%E5%AF%84%E5%AE%BF%E5%AA%BD%E5%AA%BD-%E6%8D%89%E8%B5%B0",
-    "timestamp": "2026-03-13T04:57:26.540Z",
     "strategy": ".content-card__main"
   }
 ];
