@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-13T20:51:33.149Z
+// Last updated: 2026-03-13T22:18:10.802Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "【星之谷】銀行相繼推定息計劃　對按揭市場的三大啟示",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260313/1109084791950544896671842.jpeg/WBAwn3113XScnMGQENhTf7KgdOg86-M9g8gTOYPIEzk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60329900/%E6%98%9F%E4%B9%8B%E8%B0%B7-%E9%8A%80%E8%A1%8C%E7%9B%B8%E7%B9%BC%E6%8E%A8%E5%AE%9A%E6%81%AF%E8%A8%88%E5%8A%83-%E5%B0%8D%E6%8C%89%E6%8F%AD%E5%B8%82%E5%A0%B4%E7%9A%84%E4%B8%89%E5%A4%A7%E5%95%9F%E7%A4%BA",
+    "timestamp": "2026-03-13T22:18:10.802Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美國聯邦法官阻止司法部對鮑威爾傳票　特朗普政府將提起上訴",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260313/1109175368226443264725834.jpeg/aB-HRA7Nodalx2X7hd-8_z32YPrscq8HmiVI4qAlSOI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60330290/%E9%98%AE%E6%B5%A9%E6%A3%95%E9%A6%96%E5%BA%A6%E6%8C%91%E6%88%B0%E6%85%88%E5%96%84%E4%B8%BB%E6%8C%81-%E7%88%86%E4%BB%8A%E5%B9%B4%E5%86%87%E5%8A%87%E6%8B%8D%E8%BD%89%E6%88%B0%E5%89%B5%E6%A5%AD-%E5%B9%B4%E7%B4%80%E9%83%BD%E5%94%94%E7%B4%B0",
     "timestamp": "2026-03-13T09:52:36.284Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "假水費單再現大狀也受騙　留意5伏位　兩招安全獲水務署帳戶資訊",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260313/1109175692299341824712940.jpeg/ulQW4XADYw4_Lf6cohFG3nYfKsR1uLwZMTTumjE07po?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60330287/%E5%81%87%E6%B0%B4%E8%B2%BB%E5%96%AE%E5%86%8D%E7%8F%BE%E5%A4%A7%E7%8B%80%E4%B9%9F%E5%8F%97%E9%A8%99-%E7%95%99%E6%84%8F5%E4%BC%8F%E4%BD%8D-%E5%85%A9%E6%8B%9B%E5%AE%89%E5%85%A8%E7%8D%B2%E6%B0%B4%E5%8B%99%E7%BD%B2%E5%B8%B3%E6%88%B6%E8%B3%87%E8%A8%8A",
-    "timestamp": "2026-03-13T09:23:15.683Z",
     "strategy": ".content-card__main"
   }
 ];
