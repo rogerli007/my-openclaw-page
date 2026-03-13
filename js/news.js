@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-13T12:00:07.776Z
+// Last updated: 2026-03-13T12:23:44.179Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "01獨家｜北都專屬法例初步敲定　包含六大指明範疇　年內完成立法",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250929/1049351477354827776308957.jpeg/kTbA1CAzVJG0XXRg8zo_dquRoMFGzP3prA8WVqwPFlY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60330351/01%E7%8D%A8%E5%AE%B6-%E5%8C%97%E9%83%BD%E5%B0%88%E5%B1%AC%E6%B3%95%E4%BE%8B%E5%88%9D%E6%AD%A5%E6%95%B2%E5%AE%9A-%E5%8C%85%E5%90%AB%E5%85%AD%E5%A4%A7%E6%8C%87%E6%98%8E%E7%AF%84%E7%96%87-%E5%B9%B4%E5%85%A7%E5%AE%8C%E6%88%90%E7%AB%8B%E6%B3%95",
+    "timestamp": "2026-03-13T12:23:44.179Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "再見UFO｜衛詩雅出席宣傳被狂徒掉水樽　蔡卓妍一面驚訝：邊個呀",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260313/1109029221964976128538917.jpeg/U6P7cUWy6rwxTzeGQa7zBNnD6AjinIvoVAwJh1QMCYc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60330069/%E7%B6%B2%E7%90%83-%E9%BB%83%E6%BE%A4%E6%9E%97%E8%93%AC%E5%A1%94%E5%8D%A1%E7%B4%8D%E6%8C%91%E6%88%B0%E8%B3%BD%E9%97%968%E5%BC%B7-%E5%86%8D%E6%BC%94%E9%80%86%E8%BD%89%E5%A5%BD%E6%88%B2%E6%8C%AB3%E8%99%9F%E7%A8%AE%E5%AD%90",
     "timestamp": "2026-03-12T23:49:55.046Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "90歲老婦遭4蒙面男入屋輪姦企圖殺害！女兒恐家醜外傳無即時送院",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260313/1108973041934667776831259.png/SLRUxQ19Uj4o1i6Zgzq6W617aLtaM0OqT2o8HU9qPB0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E8%A9%B1%E9%A1%8C/60330000/90%E6%AD%B2%E8%80%81%E5%A9%A6%E9%81%AD4%E8%92%99%E9%9D%A2%E7%94%B7%E5%85%A5%E5%B1%8B%E8%BC%AA%E5%A7%A6%E4%BC%81%E5%9C%96%E6%AE%BA%E5%AE%B3-%E5%A5%B3%E5%85%92%E6%81%90%E5%AE%B6%E9%86%9C%E5%A4%96%E5%82%B3%E7%84%A1%E5%8D%B3%E6%99%82%E9%80%81%E9%99%A2",
-    "timestamp": "2026-03-12T23:18:04.891Z",
     "strategy": ".content-card__main"
   }
 ];
