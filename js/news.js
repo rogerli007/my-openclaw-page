@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-13T19:48:58.828Z
+// Last updated: 2026-03-13T20:03:40.386Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "北約防空系統攔截伊朗襲土耳其導彈　埃爾多安：不會捲入伊朗戰爭",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260314/1109317435334332416714529.jpeg/p8zdXM51DUf3SXoRZ8z1iLTRf0XrMXC5AQZmYAEGZmA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60330389/%E5%8C%97%E7%B4%84%E9%98%B2%E7%A9%BA%E7%B3%BB%E7%B5%B1%E6%94%94%E6%88%AA%E4%BC%8A%E6%9C%97%E8%A5%B2%E5%9C%9F%E8%80%B3%E5%85%B6%E5%B0%8E%E5%BD%88-%E5%9F%83%E7%88%BE%E5%A4%9A%E5%AE%89-%E4%B8%8D%E6%9C%83%E6%8D%B2%E5%85%A5%E4%BC%8A%E6%9C%97%E6%88%B0%E7%88%AD",
+    "timestamp": "2026-03-13T20:03:40.386Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "北約防空系統攔截伊朗襲土耳其導彈　埃爾多安：不會捲入伊朗戰爭",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260310/1107932200768638976208346.jpeg/0vH0PnbJ37Yez4Y_r6mutZ8ZqPUNPE9qOKGr7jihq-4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60330252/%E8%B7%AF%E9%80%8F%E7%A4%BE-%E5%8F%B2%E4%B8%8A%E6%9C%80%E5%A4%A7%E7%BE%8E%E5%9C%8B%E5%B0%8D%E5%8F%B0%E8%BB%8D%E5%94%AE%E6%96%B9%E6%A1%88%E5%B0%B1%E7%B7%92-%E6%88%96%E7%89%B9%E6%9C%97%E6%99%AE4%E6%9C%88%E8%A8%AA%E8%8F%AF%E5%BE%8C%E7%B0%BD%E7%BD%B2",
     "timestamp": "2026-03-13T08:23:24.877Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "Prestige 14 Flip AI+評測｜二合一變平板方便　Nano Pen靈活操作",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260313/1109084664825384960271683.jpeg/aOYwragQHMLA0hc6ayXm639R8aNqRJN0yKAmccigJnE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60330133/prestige-14-flip-ai-%E8%A9%95%E6%B8%AC-%E4%BA%8C%E5%90%88%E4%B8%80%E8%AE%8A%E5%B9%B3%E6%9D%BF%E6%96%B9%E4%BE%BF-nano-pen%E9%9D%88%E6%B4%BB%E6%93%8D%E4%BD%9C",
-    "timestamp": "2026-03-13T07:53:02.036Z",
     "strategy": ".content-card__main"
   }
 ];
