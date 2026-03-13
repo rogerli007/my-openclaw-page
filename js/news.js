@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-13T23:16:08.832Z
+// Last updated: 2026-03-13T23:32:09.584Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "Pokémon卡變金磚｜記者實測「爆盒」抽卡　抽靚卡機率僅百分之一",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260313/1109253326987333632948236.jpeg/A9vuDXw7N61LDmkhkb0aviWPeJ5UEnlJj5dQv4-XUL8",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60330325/pok%C3%A9mon%E5%8D%A1%E8%AE%8A%E9%87%91%E7%A3%9A-%E8%A8%98%E8%80%85%E5%AF%A6%E6%B8%AC-%E7%88%86%E7%9B%92-%E6%8A%BD%E5%8D%A1-%E6%8A%BD%E9%9D%9A%E5%8D%A1%E6%A9%9F%E7%8E%87%E5%83%85%E7%99%BE%E5%88%86%E4%B9%8B%E4%B8%80",
+    "timestamp": "2026-03-13T23:32:09.584Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "Pokémon卡變金磚｜骨灰級玩家無懼炒卡潮爆煲　相信IP價值有未來",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260302/1105163656028491776593470.jpeg/oS03tgO0X3MCnsoHJnFSwpMYLqk74s4t8ZC68PGQuvA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%AB%87%E6%83%85%E8%AA%AA%E6%80%A7/60326011/%E6%88%80%E6%84%9B%E5%BF%83%E6%B8%AC-%E9%81%B8%E4%B8%80%E5%BC%B5%E6%98%A5%E5%A4%A9%E6%99%AF%E8%89%B2%E5%9C%96-%E7%9C%8B%E4%BD%A0%E6%A1%83%E8%8A%B1%E9%81%8B%E5%8B%A2%E6%9C%89%E5%A4%9A%E6%97%BA%E9%9A%B1%E8%97%8F%E9%AD%85%E5%8A%9B%E4%BE%86%E8%87%AA%E5%93%AA",
     "timestamp": "2026-03-13T11:39:16.522Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美食新聞報道｜精緻福建菜創新烹飪　葵涌一蚊煎釀三寶性價比爆燈",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260313/1109133459156111360950362.jpeg/sfKsWXjaUsAyeTicK9Lj98oOPrjVy19hWtTiw1rU4sM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60330201/%E7%BE%8E%E9%A3%9F%E6%96%B0%E8%81%9E%E5%A0%B1%E9%81%93-%E7%B2%BE%E7%B7%BB%E7%A6%8F%E5%BB%BA%E8%8F%9C%E5%89%B5%E6%96%B0%E7%83%B9%E9%A3%AA-%E8%91%B5%E6%B6%8C%E4%B8%80%E8%9A%8A%E7%85%8E%E9%87%80%E4%B8%89%E5%AF%B6%E6%80%A7%E5%83%B9%E6%AF%94%E7%88%86%E7%87%88",
-    "timestamp": "2026-03-13T11:19:38.180Z",
     "strategy": ".content-card__main"
   }
 ];
