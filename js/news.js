@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-13T22:18:10.802Z
+// Last updated: 2026-03-13T22:35:41.682Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "【星之谷】銀行相繼推定息計劃　對按揭市場的三大啟示",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260313/1109084791950544896671842.jpeg/WBAwn3113XScnMGQENhTf7KgdOg86-M9g8gTOYPIEzk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60329900/%E6%98%9F%E4%B9%8B%E8%B0%B7-%E9%8A%80%E8%A1%8C%E7%9B%B8%E7%B9%BC%E6%8E%A8%E5%AE%9A%E6%81%AF%E8%A8%88%E5%8A%83-%E5%B0%8D%E6%8C%89%E6%8F%AD%E5%B8%82%E5%A0%B4%E7%9A%84%E4%B8%89%E5%A4%A7%E5%95%9F%E7%A4%BA",
+    "timestamp": "2026-03-13T22:35:41.682Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "【星之谷】銀行相繼推定息計劃　對按揭市場的三大啟示",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260313/1109188155342327808158397.jpeg/dZiuhHIhNKcsgVMJcc37tgbCwZDXkKCdPNGu_jzRrv4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60330250/%E6%B0%B8%E6%B3%B0%E7%B2%89%E9%8C%A6%E5%85%AC%E8%B7%AF-%E9%9B%B2%E5%90%91-%E6%88%AA%E6%94%B6%E9%80%BE3000%E7%A5%A8-%E8%B6%85%E9%A1%8D%E9%80%BE14%E5%80%8D-%E6%98%8E%E6%97%A5%E9%A6%96%E8%B3%A3200%E4%BC%99",
     "timestamp": "2026-03-13T10:20:31.815Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "阮浩棕首度挑戰慈善主持　爆今年冇劇拍轉戰創業：年紀都唔細",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260313/1109175368226443264725834.jpeg/aB-HRA7Nodalx2X7hd-8_z32YPrscq8HmiVI4qAlSOI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60330290/%E9%98%AE%E6%B5%A9%E6%A3%95%E9%A6%96%E5%BA%A6%E6%8C%91%E6%88%B0%E6%85%88%E5%96%84%E4%B8%BB%E6%8C%81-%E7%88%86%E4%BB%8A%E5%B9%B4%E5%86%87%E5%8A%87%E6%8B%8D%E8%BD%89%E6%88%B0%E5%89%B5%E6%A5%AD-%E5%B9%B4%E7%B4%80%E9%83%BD%E5%94%94%E7%B4%B0",
-    "timestamp": "2026-03-13T09:52:36.284Z",
     "strategy": ".content-card__main"
   }
 ];
