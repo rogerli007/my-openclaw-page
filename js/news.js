@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-13T00:44:02.109Z
+// Last updated: 2026-03-13T01:17:43.045Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "伊朗戰爭｜新領袖負傷繼任　英媒：穆傑塔巴狀況無礙戰爭機器運作",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260312/1108592471115304960963721.jpeg/Av5S8OVo8r-AN3OMqe7Krw_mtLRJrq3veJWmZXiVpmU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60330080/%E4%BC%8A%E6%9C%97%E6%88%B0%E7%88%AD-%E6%96%B0%E9%A0%98%E8%A2%96%E8%B2%A0%E5%82%B7%E7%B9%BC%E4%BB%BB-%E8%8B%B1%E5%AA%92-%E7%A9%86%E5%82%91%E5%A1%94%E5%B7%B4%E7%8B%80%E6%B3%81%E7%84%A1%E7%A4%99%E6%88%B0%E7%88%AD%E6%A9%9F%E5%99%A8%E9%81%8B%E4%BD%9C",
+    "timestamp": "2026-03-13T01:17:43.045Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "觀音開庫2026｜借庫意思？借庫幾錢？紅磡觀音廟安排　14廟宇一覽",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260312/1108838109446934528067435.jpeg/MKoCqJ9v1wzWOB9FPhLJYWZXBdmVtw0tVFutElRbrRI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60329966/%E5%B0%8B%E7%A7%A6%E8%A8%98-%E7%8B%82%E6%94%B6-%E9%83%AD%E7%BE%A8%E5%A6%AE%E7%88%86%E5%9B%A1%E5%9B%A1%E7%A7%81%E5%BF%83%E6%84%9B%E9%A0%85%E5%B0%91%E9%BE%8D-%E8%B7%9F%E4%BD%8F%E4%BD%A2%E8%A9%B1%E5%94%94%E9%8D%BE%E6%84%8F%E7%A7%A6%E7%8E%8B",
     "timestamp": "2026-03-12T14:38:02.291Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "六合彩金多寶3.17頭獎$8000萬｜6個最旺號碼+2招增中獎機會",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260312/1108886541855363072316729.jpeg/TsPMCHTbDQO9D_2s40B0nYwQW5eX5Y4Imkcmj5pHJo8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60330025/%E5%85%AD%E5%90%88%E5%BD%A9%E9%87%91%E5%A4%9A%E5%AF%B63-17%E9%A0%AD%E7%8D%8E-8000%E8%90%AC-6%E5%80%8B%E6%9C%80%E6%97%BA%E8%99%9F%E7%A2%BC-2%E6%8B%9B%E5%A2%9E%E4%B8%AD%E7%8D%8E%E6%A9%9F%E6%9C%83",
-    "timestamp": "2026-03-12T14:13:09.333Z",
     "strategy": ".content-card__main"
   }
 ];
