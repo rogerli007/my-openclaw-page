@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-13T01:17:43.045Z
+// Last updated: 2026-03-13T04:05:56.282Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "公屋│房署夜晚家訪惹議！凌晨都有？住戶提醒：有這人陪同才開門",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260312/1108779809158205440156738.jpeg/Dqf32nOFRP2Bc28rEwLhO1sr6DzPHzLo52TgLedk4C0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60329809/%E5%85%AC%E5%B1%8B-%E6%88%BF%E7%BD%B2%E5%A4%9C%E6%99%9A%E5%AE%B6%E8%A8%AA%E6%83%B9%E8%AD%B0-%E5%87%8C%E6%99%A8%E9%83%BD%E6%9C%89-%E4%BD%8F%E6%88%B6%E6%8F%90%E9%86%92-%E6%9C%89%E9%80%99%E4%BA%BA%E9%99%AA%E5%90%8C%E6%89%8D%E9%96%8B%E9%96%80",
+    "timestamp": "2026-03-13T04:05:56.282Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "伊朗戰爭｜新領袖負傷繼任　英媒：穆傑塔巴狀況無礙戰爭機器運作",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260312/1108881997645746176134076.jpeg/bocGOiLCYVJJWmSJMyGAH-Wu8vsirRWlf7QofX-0KH0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60330020/%E8%94%A1%E6%80%9D%E8%B2%9D2%E5%B9%B4%E5%86%87%E5%8A%87%E6%8B%8D%E6%B1%BA%E5%AE%9A%E9%9B%A2%E5%B7%A2tvb-%E7%95%B6%E5%B9%B4%E8%88%87%E7%8E%8B%E6%B5%A9%E4%BF%A1-%E9%96%89%E9%96%80%E6%89%93%E9%82%8A%E7%88%90-%E6%9C%80%E8%BD%9F%E5%8B%95",
     "timestamp": "2026-03-12T15:41:50.638Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "《尋秦記》狂收！郭羨妮爆囡囡私心愛項少龍：跟住佢話唔鍾意秦王",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260312/1108838109446934528067435.jpeg/MKoCqJ9v1wzWOB9FPhLJYWZXBdmVtw0tVFutElRbrRI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60329966/%E5%B0%8B%E7%A7%A6%E8%A8%98-%E7%8B%82%E6%94%B6-%E9%83%AD%E7%BE%A8%E5%A6%AE%E7%88%86%E5%9B%A1%E5%9B%A1%E7%A7%81%E5%BF%83%E6%84%9B%E9%A0%85%E5%B0%91%E9%BE%8D-%E8%B7%9F%E4%BD%8F%E4%BD%A2%E8%A9%B1%E5%94%94%E9%8D%BE%E6%84%8F%E7%A7%A6%E7%8E%8B",
-    "timestamp": "2026-03-12T14:38:02.291Z",
     "strategy": ".content-card__main"
   }
 ];
