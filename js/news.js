@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-13T14:10:22.492Z
+// Last updated: 2026-03-13T15:07:51.862Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "夜王｜「葵芳」Franchesca真人驚現葵芳站！　網民集氣成功真改名",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260313/1109261465862279168850469.jpeg/U4q9RUzjGSBqHHTgHhElzkhk1ZZ3WO6-CTCUwwkwlMM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60330374/%E5%A4%9C%E7%8E%8B-%E8%91%B5%E8%8A%B3-franchesca%E7%9C%9F%E4%BA%BA%E9%A9%9A%E7%8F%BE%E8%91%B5%E8%8A%B3%E7%AB%99-%E7%B6%B2%E6%B0%91%E9%9B%86%E6%B0%A3%E6%88%90%E5%8A%9F%E7%9C%9F%E6%94%B9%E5%90%8D",
+    "timestamp": "2026-03-13T15:07:51.862Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "馬杜羅拘留生活疑曝光　困6平方米監房　深夜大喊「我遭綁架」",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260313/1109100578388054016149073.jpeg/blDtWp4rtVdEAuOrnMNw-EpKodIz-rfms6x2xLOsdsQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60330173/%E8%8B%B1%E5%9C%8B%E4%B8%80%E5%A5%B3%E5%AD%90%E9%81%AD%E5%9B%9A%E7%A6%81%E8%99%90%E5%BE%8525%E5%B9%B4%E6%B7%AA%E5%AE%B6%E5%A5%B4-%E6%87%BC%E5%86%8D%E9%81%AD-%E5%AF%84%E5%AE%BF%E5%AA%BD%E5%AA%BD-%E6%8D%89%E8%B5%B0",
     "timestamp": "2026-03-13T04:57:26.540Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "公屋│房署夜晚家訪惹議！凌晨都有？住戶提醒：有這人陪同才開門",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260312/1108779809158205440156738.jpeg/Dqf32nOFRP2Bc28rEwLhO1sr6DzPHzLo52TgLedk4C0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60329809/%E5%85%AC%E5%B1%8B-%E6%88%BF%E7%BD%B2%E5%A4%9C%E6%99%9A%E5%AE%B6%E8%A8%AA%E6%83%B9%E8%AD%B0-%E5%87%8C%E6%99%A8%E9%83%BD%E6%9C%89-%E4%BD%8F%E6%88%B6%E6%8F%90%E9%86%92-%E6%9C%89%E9%80%99%E4%BA%BA%E9%99%AA%E5%90%8C%E6%89%8D%E9%96%8B%E9%96%80",
-    "timestamp": "2026-03-13T04:05:56.282Z",
     "strategy": ".content-card__main"
   }
 ];
