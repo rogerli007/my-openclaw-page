@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-13T17:50:48.179Z
+// Last updated: 2026-03-13T18:53:11.050Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "北約防空系統攔截伊朗襲土耳其導彈　埃爾多安：不會捲入伊朗戰爭",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260314/1109317435334332416714529.jpeg/p8zdXM51DUf3SXoRZ8z1iLTRf0XrMXC5AQZmYAEGZmA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60330389/%E5%8C%97%E7%B4%84%E9%98%B2%E7%A9%BA%E7%B3%BB%E7%B5%B1%E6%94%94%E6%88%AA%E4%BC%8A%E6%9C%97%E8%A5%B2%E5%9C%9F%E8%80%B3%E5%85%B6%E5%B0%8E%E5%BD%88-%E5%9F%83%E7%88%BE%E5%A4%9A%E5%AE%89-%E4%B8%8D%E6%9C%83%E6%8D%B2%E5%85%A5%E4%BC%8A%E6%9C%97%E6%88%B0%E7%88%AD",
+    "timestamp": "2026-03-13T18:53:11.050Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "英媒：法國意大利與伊朗展開對話　冀確保其船隻通過霍爾木茲海峽",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260313/1109133331720572928936052.jpeg/3yKtdQNYCRcJwrUAylSk3bEZOiRuR0ZmN7ghADe4IQA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%81%B7%E5%A0%B4/60329945/ai%E6%B5%AA%E6%BD%AE%E5%B0%88%E5%AE%B6%E6%96%99%E5%A4%A7%E9%87%8F%E5%88%9D%E7%B4%9A%E8%81%B7%E4%BD%8D%E8%A2%AB%E5%8F%96%E4%BB%A3-%E6%96%87%E7%A7%91%E8%83%8C%E6%99%AF%E4%B8%80%E9%A0%85%E7%89%B9%E8%B3%AA%E6%88%90%E6%B1%82%E8%81%B7%E5%84%AA%E5%8B%A2",
     "timestamp": "2026-03-13T06:53:45.597Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "本港都建「AI龍蝦養殖場」?　香港寬頻︰首推OpenClaw AI應用方案",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260313/1109127524798959616374169.jpeg/rvvxZg5IYIXQxcFVCyiEZHfZGA-nYJaSJ0uHgCdLh4A?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60330197/%E6%9C%AC%E6%B8%AF%E9%83%BD%E5%BB%BA-ai%E9%BE%8D%E8%9D%A6%E9%A4%8A%E6%AE%96%E5%A0%B4-%E9%A6%99%E6%B8%AF%E5%AF%AC%E9%A0%BB-%E9%A6%96%E6%8E%A8openclaw-ai%E6%87%89%E7%94%A8%E6%96%B9%E6%A1%88",
-    "timestamp": "2026-03-13T06:28:41.814Z",
     "strategy": ".content-card__main"
   }
 ];
