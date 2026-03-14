@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-14T12:20:44.252Z
+// Last updated: 2026-03-14T12:56:04.314Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "阿聯酋石油工業區冒煙　伊朗稱加強反擊：有權襲阿聯酋境內美設施",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260314/1109587929589616640089621.jpeg/OdhJWpydCfnwyKn0GX817JLQyyD9LgwSQqHLlUKhy5U?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60330527/%E9%98%BF%E8%81%AF%E9%85%8B%E7%9F%B3%E6%B2%B9%E5%B7%A5%E6%A5%AD%E5%8D%80%E5%86%92%E7%85%99-%E4%BC%8A%E6%9C%97%E7%A8%B1%E5%8A%A0%E5%BC%B7%E5%8F%8D%E6%93%8A-%E6%9C%89%E6%AC%8A%E8%A5%B2%E9%98%BF%E8%81%AF%E9%85%8B%E5%A2%83%E5%85%A7%E7%BE%8E%E8%A8%AD%E6%96%BD",
+    "timestamp": "2026-03-14T12:56:04.314Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "2026台灣選舉｜國民黨民眾黨宣布合作　發表居住正義等共同政見",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260314/1109379113329627136264510.jpeg/l12sp7xJv5jdyCwbCi46cPZe9m0pbT90lCbcqJQm3Kg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60330393/%E5%85%83%E6%9C%97%E7%A7%81%E5%AE%B6%E8%BB%8A%E6%92%9E%E5%82%B72%E4%BA%BA-%E5%8F%B8%E6%A9%9F%E6%A3%84%E8%BB%8A%E9%80%83%E8%B5%B0-%E8%AD%A6%E9%99%84%E8%BF%91%E6%AA%A280%E5%8C%85%E4%BE%9D%E6%89%98%E5%92%AA%E9%85%AF",
     "timestamp": "2026-03-13T22:59:23.974Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "【星之谷】銀行相繼推定息計劃　對按揭市場的三大啟示",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260313/1109084791950544896671842.jpeg/WBAwn3113XScnMGQENhTf7KgdOg86-M9g8gTOYPIEzk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60329900/%E6%98%9F%E4%B9%8B%E8%B0%B7-%E9%8A%80%E8%A1%8C%E7%9B%B8%E7%B9%BC%E6%8E%A8%E5%AE%9A%E6%81%AF%E8%A8%88%E5%8A%83-%E5%B0%8D%E6%8C%89%E6%8F%AD%E5%B8%82%E5%A0%B4%E7%9A%84%E4%B8%89%E5%A4%A7%E5%95%9F%E7%A4%BA",
-    "timestamp": "2026-03-13T22:35:41.682Z",
     "strategy": ".content-card__main"
   }
 ];
