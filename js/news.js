@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-14T18:21:02.331Z
+// Last updated: 2026-03-14T18:52:26.842Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "伊朗外長：若該國能源設施遭襲　將打擊中東地區美國企業以示回應",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20251116/1066827048120487936653792.jpeg/eS-tYOUonrCNA9yyAXlvGqGwRYPL-7bu7MopVuzKKVY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60330558/%E4%BC%8A%E6%9C%97%E5%A4%96%E9%95%B7-%E8%8B%A5%E8%A9%B2%E5%9C%8B%E8%83%BD%E6%BA%90%E8%A8%AD%E6%96%BD%E9%81%AD%E8%A5%B2-%E5%B0%87%E6%89%93%E6%93%8A%E4%B8%AD%E6%9D%B1%E5%9C%B0%E5%8D%80%E7%BE%8E%E5%9C%8B%E4%BC%81%E6%A5%AD%E4%BB%A5%E7%A4%BA%E5%9B%9E%E6%87%89",
+    "timestamp": "2026-03-14T18:52:26.842Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "特朗普：冀中法等國派艦艇保霍爾木茲海峽通行　將轟炸伊朗海岸線",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260314/1109482977433227264789504.jpeg/2BfUHoToP4shDZnIA2AyFkLAD5mXBzNqWOhLBVjoSwU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60330451/%E6%99%82%E9%9A%946%E5%B9%B4-%E5%9C%8B%E8%88%AA%E5%8C%97%E4%BA%AC%E8%87%B3%E5%B9%B3%E5%A3%A4%E7%9B%B4%E9%A3%9B%E8%88%AA%E7%B7%9A3%E6%9C%8830%E6%97%A5%E5%BE%A9%E8%88%AA-%E6%AF%8F%E5%91%A8%E4%B8%80%E7%8F%AD",
     "timestamp": "2026-03-14T06:08:20.472Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "荃灣竹林襌院兩和尚涉襲擊案　一傷一被捕　傷者：唔會同佢和解",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260314/1109460583377276928713059.jpeg/3gHfpvxEaUmgmwWu1fKrY8TNF1mKlj-pgzTtV4M07Vc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60330414/%E8%8D%83%E7%81%A3%E7%AB%B9%E6%9E%97%E8%A5%8C%E9%99%A2%E5%85%A9%E5%92%8C%E5%B0%9A%E6%B6%89%E8%A5%B2%E6%93%8A%E6%A1%88-%E4%B8%80%E5%82%B7%E4%B8%80%E8%A2%AB%E6%8D%95-%E5%82%B7%E8%80%85-%E5%94%94%E6%9C%83%E5%90%8C%E4%BD%A2%E5%92%8C%E8%A7%A3",
-    "timestamp": "2026-03-14T05:04:48.848Z",
     "strategy": ".content-card__main"
   }
 ];
