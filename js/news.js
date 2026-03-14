@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-14T21:16:46.887Z
+// Last updated: 2026-03-14T22:17:10.513Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "英超｜曼城1:1和韋斯咸",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260315/1109732630472953856948706.jpeg/lpB7E8_JBQb_TEjjlUZ878IfLcGVjX5h3flLTt35S04?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60330567/%E8%8B%B1%E8%B6%85-%E6%9B%BC%E5%9F%8E1-1%E5%92%8C%E9%9F%8B%E6%96%AF%E5%92%B8",
+    "timestamp": "2026-03-14T22:17:10.513Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "瑞士拒絕伊朗戰爭相關美國機飛越其領空　稱出於中立法考量",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260314/1109575925151830016420179.jpeg/DZQHsaWZYSTdw2L4ZuSp_U-gtMbuSxDXE68fXBOvH1w?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8F%B0%E7%81%A3%E6%96%B0%E8%81%9E/60330521/2026%E5%8F%B0%E7%81%A3%E9%81%B8%E8%88%89-%E5%9C%8B%E6%B0%91%E9%BB%A8%E6%B0%91%E7%9C%BE%E9%BB%A8%E5%AE%A3%E5%B8%83%E5%90%88%E4%BD%9C-%E7%99%BC%E8%A1%A8%E5%B1%85%E4%BD%8F%E6%AD%A3%E7%BE%A9%E7%AD%89%E5%85%B1%E5%90%8C%E6%94%BF%E8%A6%8B",
     "timestamp": "2026-03-14T12:20:44.252Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普襲伊朗哈爾克島　油價破百引發全球第四次石油危機?",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260313/1109152906520563712854176.jpeg/xyC5JiC9J6nLGIYIjygygaWyfWB5QGkmhXJ0OIVydDg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%9C%8B%E9%9A%9B%E5%88%86%E6%9E%90/60330210/%E7%89%B9%E6%9C%97%E6%99%AE%E8%A5%B2%E4%BC%8A%E6%9C%97%E5%93%88%E7%88%BE%E5%85%8B%E5%B3%B6-%E6%B2%B9%E5%83%B9%E7%A0%B4%E7%99%BE%E5%BC%95%E7%99%BC%E5%85%A8%E7%90%83%E7%AC%AC%E5%9B%9B%E6%AC%A1%E7%9F%B3%E6%B2%B9%E5%8D%B1%E6%A9%9F",
-    "timestamp": "2026-03-14T10:51:15.097Z",
     "strategy": ".content-card__main"
   }
 ];
