@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-14T15:16:27.903Z
+// Last updated: 2026-03-14T15:49:32.235Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "廉署招聘體驗日吸引千人參加　擬招募50名廉政主任及助理廉政主任",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260314/1109628871658967040908546.jpeg/qhniHZXiFKdqf4a7IzkCiwF8qh_xRu35jpUcuI6VHLg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60330551/%E5%BB%89%E7%BD%B2%E6%8B%9B%E8%81%98%E9%AB%94%E9%A9%97%E6%97%A5%E5%90%B8%E5%BC%95%E5%8D%83%E4%BA%BA%E5%8F%83%E5%8A%A0-%E6%93%AC%E6%8B%9B%E5%8B%9F50%E5%90%8D%E5%BB%89%E6%94%BF%E4%B8%BB%E4%BB%BB%E5%8F%8A%E5%8A%A9%E7%90%86%E5%BB%89%E6%94%BF%E4%B8%BB%E4%BB%BB",
+    "timestamp": "2026-03-14T15:49:32.235Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "塞爾維亞證實採購中國超音速導彈　總統未透露金額：有小折扣",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260312/1108596946106322944049638.jpeg/NBIpAY7sziJtyvm2TNBIUsXTT_pugL5wc756SHO-ekg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60330394/%E7%89%B9%E6%9C%97%E6%99%AE-%E7%BE%8E%E8%BB%8D%E5%B7%B2%E5%B0%8D%E4%BC%8A%E6%9C%97%E5%93%88%E7%88%BE%E5%85%8B%E5%B3%B6%E7%99%BC%E5%8B%95%E7%8C%9B%E7%83%88%E8%A5%B2%E6%93%8A-%E6%9C%AA%E6%91%A7%E6%AF%80%E5%B3%B6%E4%B8%8A%E7%9F%B3%E6%B2%B9%E8%A8%AD%E6%96%BD",
     "timestamp": "2026-03-14T00:02:07.874Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普：美軍已對伊朗哈爾克島發動猛烈襲擊　未摧毀島上石油設施",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260312/1108596946106322944049638.jpeg/NBIpAY7sziJtyvm2TNBIUsXTT_pugL5wc756SHO-ekg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60330394/%E7%89%B9%E6%9C%97%E6%99%AE-%E7%BE%8E%E8%BB%8D%E5%B7%B2%E5%B0%8D%E4%BC%8A%E6%9C%97%E5%93%88%E7%88%BE%E5%85%8B%E5%B3%B6%E7%99%BC%E5%8B%95%E7%8C%9B%E7%83%88%E8%A5%B2%E6%93%8A-%E6%9C%AA%E6%91%A7%E6%AF%80%E5%B3%B6%E4%B8%8A%E7%9F%B3%E6%B2%B9%E8%A8%AD%E6%96%BD",
-    "timestamp": "2026-03-13T23:48:13.985Z",
     "strategy": ".content-card__main"
   }
 ];
