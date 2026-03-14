@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-14T03:39:53.970Z
+// Last updated: 2026-03-14T04:27:39.388Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "鑽石山男狗主這樣替小狗梳毛　有愛畫面瘋傳網民讚：超級無敵得意",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260311/1108398150948753408408657.jpeg/D5iDYxwRi3UmVaTgqTbIFusMN1hHXwB_NkXNKjZFzSo",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60329333/%E9%91%BD%E7%9F%B3%E5%B1%B1%E7%94%B7%E7%8B%97%E4%B8%BB%E9%80%99%E6%A8%A3%E6%9B%BF%E5%B0%8F%E7%8B%97%E6%A2%B3%E6%AF%9B-%E6%9C%89%E6%84%9B%E7%95%AB%E9%9D%A2%E7%98%8B%E5%82%B3%E7%B6%B2%E6%B0%91%E8%AE%9A-%E8%B6%85%E7%B4%9A%E7%84%A1%E6%95%B5%E5%BE%97%E6%84%8F",
+    "timestamp": "2026-03-14T04:27:39.388Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "果子狸闖半山麥當勞道住宅大廈　伏冷氣機頂　見漁護繩網速速逃",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260313/1109274185294680064297813.jpeg/XPPdRbA6iPekP0_LN1bpp4URgdCjvqZvy7TCo8u0wqM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60330383/deep-water-south-6a%E6%9C%9F%E9%A6%96%E6%89%B993%E4%BC%99-%E6%8A%98%E5%AF%A6%E5%9D%87%E5%83%B929055%E5%85%83-%E6%9C%80%E5%B9%B3906-8%E8%90%AC",
     "timestamp": "2026-03-13T15:58:38.809Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "夜王｜「葵芳」Franchesca真人驚現葵芳站！　網民集氣成功真改名",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260313/1109261465862279168850469.jpeg/U4q9RUzjGSBqHHTgHhElzkhk1ZZ3WO6-CTCUwwkwlMM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60330374/%E5%A4%9C%E7%8E%8B-%E8%91%B5%E8%8A%B3-franchesca%E7%9C%9F%E4%BA%BA%E9%A9%9A%E7%8F%BE%E8%91%B5%E8%8A%B3%E7%AB%99-%E7%B6%B2%E6%B0%91%E9%9B%86%E6%B0%A3%E6%88%90%E5%8A%9F%E7%9C%9F%E6%94%B9%E5%90%8D",
-    "timestamp": "2026-03-13T15:07:51.862Z",
     "strategy": ".content-card__main"
   }
 ];
