@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-14T19:17:52.846Z
+// Last updated: 2026-03-14T19:34:29.909Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "幫手搵人︱大埔68歲劉建幫疑行山迷路　兒子呼籲尋人",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260315/1109682872085647360032187.jpeg/hCbZdjlsHrJ58XhvNClBnO6EkuqfyZpxMmETKzJhEys?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60330560/%E5%B9%AB%E6%89%8B%E6%90%B5%E4%BA%BA-%E5%A4%A7%E5%9F%9468%E6%AD%B2%E5%8A%89%E5%BB%BA%E5%B9%AB%E7%96%91%E8%A1%8C%E5%B1%B1%E8%BF%B7%E8%B7%AF-%E5%85%92%E5%AD%90%E5%91%BC%E7%B1%B2%E5%B0%8B%E4%BA%BA",
+    "timestamp": "2026-03-14T19:34:29.909Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "幫手搵人︱大埔68歲劉建幫疑上山迷路　兒子呼籲尋人",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20251204/1073262544182841344120593.jpeg/fGn1bjh7oVBxEXuieV-ImJzDDcw_B7t6SOpN7kjqTe4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60330470/%E5%A4%96%E9%9B%BB-%E7%BE%8E%E5%9C%8B%E6%94%BF%E5%BA%9C%E5%B0%87%E5%9B%A0%E4%BF%83%E6%88%90tiktok%E4%BA%A4%E6%98%93-%E8%80%8C%E7%8D%B2%E5%BE%97100%E5%84%84%E7%BE%8E%E5%85%83%E8%B2%BB%E7%94%A8",
     "timestamp": "2026-03-14T07:28:48.038Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "十五五｜江蘇社團總會辦分享會　唐英年籲港蘇聯手推動新質生產力",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260314/1109492969959854080304285.jpeg/2IV2ma9xwPXeOSlrpHAXg1e0LLegWPPZ4SYYmuEmGJo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60330456/%E5%8D%81%E4%BA%94%E4%BA%94-%E6%B1%9F%E8%98%87%E7%A4%BE%E5%9C%98%E7%B8%BD%E6%9C%83%E8%BE%A6%E5%88%86%E4%BA%AB%E6%9C%83-%E5%94%90%E8%8B%B1%E5%B9%B4%E7%B1%B2%E6%B8%AF%E8%98%87%E8%81%AF%E6%89%8B%E6%8E%A8%E5%8B%95%E6%96%B0%E8%B3%AA%E7%94%9F%E7%94%A2%E5%8A%9B",
-    "timestamp": "2026-03-14T06:34:24.498Z",
     "strategy": ".content-card__main"
   }
 ];
