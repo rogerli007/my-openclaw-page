@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-14T18:52:26.842Z
+// Last updated: 2026-03-14T19:17:52.846Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "幫手搵人︱大埔68歲劉建幫疑上山迷路　兒子呼籲尋人",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260315/1109682872085647360032187.jpeg/hCbZdjlsHrJ58XhvNClBnO6EkuqfyZpxMmETKzJhEys?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60330560/%E5%B9%AB%E6%89%8B%E6%90%B5%E4%BA%BA-%E5%A4%A7%E5%9F%9468%E6%AD%B2%E5%8A%89%E5%BB%BA%E5%B9%AB%E7%96%91%E4%B8%8A%E5%B1%B1%E8%BF%B7%E8%B7%AF-%E5%85%92%E5%AD%90%E5%91%BC%E7%B1%B2%E5%B0%8B%E4%BA%BA",
+    "timestamp": "2026-03-14T19:17:52.846Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "伊朗外長：若該國能源設施遭襲　將打擊中東地區美國企業以示回應",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260314/1109492969959854080304285.jpeg/2IV2ma9xwPXeOSlrpHAXg1e0LLegWPPZ4SYYmuEmGJo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60330456/%E5%8D%81%E4%BA%94%E4%BA%94-%E6%B1%9F%E8%98%87%E7%A4%BE%E5%9C%98%E7%B8%BD%E6%9C%83%E8%BE%A6%E5%88%86%E4%BA%AB%E6%9C%83-%E5%94%90%E8%8B%B1%E5%B9%B4%E7%B1%B2%E6%B8%AF%E8%98%87%E8%81%AF%E6%89%8B%E6%8E%A8%E5%8B%95%E6%96%B0%E8%B3%AA%E7%94%9F%E7%94%A2%E5%8A%9B",
     "timestamp": "2026-03-14T06:34:24.498Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "時隔6年！國航北京至平壤直飛航線3月30日復航　每周一班",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260314/1109482977433227264789504.jpeg/2BfUHoToP4shDZnIA2AyFkLAD5mXBzNqWOhLBVjoSwU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60330451/%E6%99%82%E9%9A%946%E5%B9%B4-%E5%9C%8B%E8%88%AA%E5%8C%97%E4%BA%AC%E8%87%B3%E5%B9%B3%E5%A3%A4%E7%9B%B4%E9%A3%9B%E8%88%AA%E7%B7%9A3%E6%9C%8830%E6%97%A5%E5%BE%A9%E8%88%AA-%E6%AF%8F%E5%91%A8%E4%B8%80%E7%8F%AD",
-    "timestamp": "2026-03-14T06:08:20.472Z",
     "strategy": ".content-card__main"
   }
 ];
