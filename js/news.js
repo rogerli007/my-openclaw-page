@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-14T00:02:07.874Z
+// Last updated: 2026-03-14T00:50:30.091Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "伊朗戰爭｜美國懸賞千萬美元　收集穆傑塔巴及德黑蘭高官情報",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260311/1108295983424344064980245.jpeg/6vG0g0fR6Uivo4nNpC7KhAfRukv13E_AdpqOK3aajis?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60330398/%E4%BC%8A%E6%9C%97%E6%88%B0%E7%88%AD-%E7%BE%8E%E5%9C%8B%E6%87%B8%E8%B3%9E%E5%8D%83%E8%90%AC%E7%BE%8E%E5%85%83-%E6%94%B6%E9%9B%86%E7%A9%86%E5%82%91%E5%A1%94%E5%B7%B4%E5%8F%8A%E5%BE%B7%E9%BB%91%E8%98%AD%E9%AB%98%E5%AE%98%E6%83%85%E5%A0%B1",
+    "timestamp": "2026-03-14T00:50:30.091Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "特朗普：美軍已對伊朗哈爾克島發動猛烈襲擊　未摧毀島上石油設施",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260313/1109124170790211584460329.jpeg/ZMqF67RK8XF3054RLTYtP7RE4X_wSxI7XyOLxV8ji8U?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60330185/%E8%87%A5%E5%BA%95%E5%AC%8C%E5%A8%83-%E4%BD%95%E5%BB%A3%E6%B2%9B%E5%AE%A2%E4%B8%B2%E9%9B%A3%E6%93%8B%E8%AA%98%E6%83%91%E7%88%86%E7%AC%91%E6%90%B6fo-%E5%BC%B5%E6%9B%A6%E9%9B%AF%E6%9C%80%E5%BC%B7%E6%88%B0%E8%A1%A3%E7%8B%82%E6%94%BE%E9%9B%BB",
     "timestamp": "2026-03-13T12:54:01.087Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "01獨家｜北都專屬法例初步敲定　包含六大指明範疇　年內完成立法",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250929/1049351477354827776308957.jpeg/kTbA1CAzVJG0XXRg8zo_dquRoMFGzP3prA8WVqwPFlY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60330351/01%E7%8D%A8%E5%AE%B6-%E5%8C%97%E9%83%BD%E5%B0%88%E5%B1%AC%E6%B3%95%E4%BE%8B%E5%88%9D%E6%AD%A5%E6%95%B2%E5%AE%9A-%E5%8C%85%E5%90%AB%E5%85%AD%E5%A4%A7%E6%8C%87%E6%98%8E%E7%AF%84%E7%96%87-%E5%B9%B4%E5%85%A7%E5%AE%8C%E6%88%90%E7%AB%8B%E6%B3%95",
-    "timestamp": "2026-03-13T12:23:44.179Z",
     "strategy": ".content-card__main"
   }
 ];
