@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-14T15:49:32.235Z
+// Last updated: 2026-03-14T16:01:34.582Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "以色列黎巴嫩料舉行伊朗戰爭後首次直接會談　塞浦路斯或巴黎進行",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260303/1105299213161467904706854.jpeg/Pw56UJ5_MxrCFwGjo5ikkhsOspTzLjTNLFUQMyxVEDM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60330549/%E4%BB%A5%E8%89%B2%E5%88%97%E9%BB%8E%E5%B7%B4%E5%AB%A9%E6%96%99%E8%88%89%E8%A1%8C%E4%BC%8A%E6%9C%97%E6%88%B0%E7%88%AD%E5%BE%8C%E9%A6%96%E6%AC%A1%E7%9B%B4%E6%8E%A5%E6%9C%83%E8%AB%87-%E5%A1%9E%E6%B5%A6%E8%B7%AF%E6%96%AF%E6%88%96%E5%B7%B4%E9%BB%8E%E9%80%B2%E8%A1%8C",
+    "timestamp": "2026-03-14T16:01:34.582Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "廉署招聘體驗日吸引千人參加　擬招募50名廉政主任及助理廉政主任",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260311/1108295983424344064980245.jpeg/6vG0g0fR6Uivo4nNpC7KhAfRukv13E_AdpqOK3aajis?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60330398/%E4%BC%8A%E6%9C%97%E6%88%B0%E7%88%AD-%E7%BE%8E%E5%9C%8B%E6%87%B8%E8%B3%9E%E5%8D%83%E8%90%AC%E7%BE%8E%E5%85%83-%E6%94%B6%E9%9B%86%E7%A9%86%E5%82%91%E5%A1%94%E5%B7%B4%E5%8F%8A%E5%BE%B7%E9%BB%91%E8%98%AD%E9%AB%98%E5%AE%98%E6%83%85%E5%A0%B1",
     "timestamp": "2026-03-14T00:50:30.091Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普：美軍已對伊朗哈爾克島發動猛烈襲擊　未摧毀島上石油設施",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260312/1108596946106322944049638.jpeg/NBIpAY7sziJtyvm2TNBIUsXTT_pugL5wc756SHO-ekg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60330394/%E7%89%B9%E6%9C%97%E6%99%AE-%E7%BE%8E%E8%BB%8D%E5%B7%B2%E5%B0%8D%E4%BC%8A%E6%9C%97%E5%93%88%E7%88%BE%E5%85%8B%E5%B3%B6%E7%99%BC%E5%8B%95%E7%8C%9B%E7%83%88%E8%A5%B2%E6%93%8A-%E6%9C%AA%E6%91%A7%E6%AF%80%E5%B3%B6%E4%B8%8A%E7%9F%B3%E6%B2%B9%E8%A8%AD%E6%96%BD",
-    "timestamp": "2026-03-14T00:02:07.874Z",
     "strategy": ".content-card__main"
   }
 ];
