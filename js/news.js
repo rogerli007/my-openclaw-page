@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-14T07:28:48.038Z
+// Last updated: 2026-03-14T07:50:03.455Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "新西蘭景點｜《出去一下》6大推薦　體驗火山泥溫泉SPA/毛利文化",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260314/1109295737503485952132567.jpeg/AFc68SElCNSBRpSEPcj88f0tmc027Mt1p4-eWqePnlo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%97%85%E9%81%8A/60328839/%E6%96%B0%E8%A5%BF%E8%98%AD%E6%99%AF%E9%BB%9E-%E5%87%BA%E5%8E%BB%E4%B8%80%E4%B8%8B-6%E5%A4%A7%E6%8E%A8%E8%96%A6-%E9%AB%94%E9%A9%97%E7%81%AB%E5%B1%B1%E6%B3%A5%E6%BA%AB%E6%B3%89spa-%E6%AF%9B%E5%88%A9%E6%96%87%E5%8C%96",
+    "timestamp": "2026-03-14T07:50:03.455Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "外電︰美國政府將因促成TikTok交易　而獲得100億美元費用",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260314/1109317435334332416714529.jpeg/p8zdXM51DUf3SXoRZ8z1iLTRf0XrMXC5AQZmYAEGZmA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60330389/%E5%8C%97%E7%B4%84%E9%98%B2%E7%A9%BA%E7%B3%BB%E7%B5%B1%E6%94%94%E6%88%AA%E4%BC%8A%E6%9C%97%E8%A5%B2%E5%9C%9F%E8%80%B3%E5%85%B6%E5%B0%8E%E5%BD%88-%E5%9F%83%E7%88%BE%E5%A4%9A%E5%AE%89-%E4%B8%8D%E6%9C%83%E6%8D%B2%E5%85%A5%E4%BC%8A%E6%9C%97%E6%88%B0%E7%88%AD",
     "timestamp": "2026-03-13T20:03:40.386Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "北約防空系統攔截伊朗襲土耳其導彈　埃爾多安：不會捲入伊朗戰爭",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260314/1109317435334332416714529.jpeg/p8zdXM51DUf3SXoRZ8z1iLTRf0XrMXC5AQZmYAEGZmA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60330389/%E5%8C%97%E7%B4%84%E9%98%B2%E7%A9%BA%E7%B3%BB%E7%B5%B1%E6%94%94%E6%88%AA%E4%BC%8A%E6%9C%97%E8%A5%B2%E5%9C%9F%E8%80%B3%E5%85%B6%E5%B0%8E%E5%BD%88-%E5%9F%83%E7%88%BE%E5%A4%9A%E5%AE%89-%E4%B8%8D%E6%9C%83%E6%8D%B2%E5%85%A5%E4%BC%8A%E6%9C%97%E6%88%B0%E7%88%AD",
-    "timestamp": "2026-03-13T19:48:58.828Z",
     "strategy": ".content-card__main"
   }
 ];
