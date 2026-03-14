@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-14T12:56:04.314Z
+// Last updated: 2026-03-14T13:53:13.291Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "江芷妮爸爸喪禮於教堂舉行莊嚴肅穆　今年1月猝逝終年87歲",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260314/1109554625259769856170986.jpeg/lWxwD6dTrqTUgqE1Jub4qm9HTVOyR20K5dgfeOXYH3g?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60330505/%E6%B1%9F%E8%8A%B7%E5%A6%AE%E7%88%B8%E7%88%B8%E5%96%AA%E7%A6%AE%E6%96%BC%E6%95%99%E5%A0%82%E8%88%89%E8%A1%8C%E8%8E%8A%E5%9A%B4%E8%82%85%E7%A9%86-%E4%BB%8A%E5%B9%B41%E6%9C%88%E7%8C%9D%E9%80%9D%E7%B5%82%E5%B9%B487%E6%AD%B2",
+    "timestamp": "2026-03-14T13:53:13.291Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "阿聯酋石油工業區冒煙　伊朗稱加強反擊：有權襲阿聯酋境內美設施",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260313/1109200878960644096589714.jpeg/iX_rnqBs-lNTNFOHPs9zH9M4zO7M-X_ad6BNY3egTWM",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60329829/pok%C3%A9mon%E5%8D%A1%E8%AE%8A%E9%87%91%E7%A3%9A-%E9%AA%A8%E7%81%B0%E7%B4%9A%E7%8E%A9%E5%AE%B6%E7%84%A1%E6%87%BC%E7%82%92%E5%8D%A1%E6%BD%AE%E7%88%86%E7%85%B2-%E7%9B%B8%E4%BF%A1ip%E5%83%B9%E5%80%BC%E6%9C%89%E6%9C%AA%E4%BE%86",
     "timestamp": "2026-03-13T23:16:08.832Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "元朗私家車撞傷2人　司機棄車逃走　警附近檢80包依托咪酯",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260314/1109379113329627136264510.jpeg/l12sp7xJv5jdyCwbCi46cPZe9m0pbT90lCbcqJQm3Kg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60330393/%E5%85%83%E6%9C%97%E7%A7%81%E5%AE%B6%E8%BB%8A%E6%92%9E%E5%82%B72%E4%BA%BA-%E5%8F%B8%E6%A9%9F%E6%A3%84%E8%BB%8A%E9%80%83%E8%B5%B0-%E8%AD%A6%E9%99%84%E8%BF%91%E6%AA%A280%E5%8C%85%E4%BE%9D%E6%89%98%E5%92%AA%E9%85%AF",
-    "timestamp": "2026-03-13T22:59:23.974Z",
     "strategy": ".content-card__main"
   }
 ];
