@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-14T02:44:57.152Z
+// Last updated: 2026-03-14T03:39:53.970Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "果子狸闖半山麥當勞道住宅大廈　伏冷氣機頂　見漁護繩網速速逃",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260314/1109443443790188544190254.jpeg/tOlwirFv5cIieT_jti9EXfdEaICuExMh74V9xO-FfcQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60330406/%E6%9E%9C%E5%AD%90%E7%8B%B8%E9%97%96%E5%8D%8A%E5%B1%B1%E9%BA%A5%E7%95%B6%E5%8B%9E%E9%81%93%E4%BD%8F%E5%AE%85%E5%A4%A7%E5%BB%88-%E4%BC%8F%E5%86%B7%E6%B0%A3%E6%A9%9F%E9%A0%82-%E8%A6%8B%E6%BC%81%E8%AD%B7%E7%B9%A9%E7%B6%B2%E9%80%9F%E9%80%9F%E9%80%83",
+    "timestamp": "2026-03-14T03:39:53.970Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "油價｜的士小巴等營運成本升　議員稱難轉嫁消費者　倡政府補貼",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260313/1109261465862279168850469.jpeg/U4q9RUzjGSBqHHTgHhElzkhk1ZZ3WO6-CTCUwwkwlMM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60330374/%E5%A4%9C%E7%8E%8B-%E8%91%B5%E8%8A%B3-franchesca%E7%9C%9F%E4%BA%BA%E9%A9%9A%E7%8F%BE%E8%91%B5%E8%8A%B3%E7%AB%99-%E7%B6%B2%E6%B0%91%E9%9B%86%E6%B0%A3%E6%88%90%E5%8A%9F%E7%9C%9F%E6%94%B9%E5%90%8D",
     "timestamp": "2026-03-13T15:07:51.862Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "馬杜羅拘留生活疑曝光　困6平方米監房　深夜大喊「我遭綁架」",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260106/1085052965393403904806953.jpeg/S9Kvnu4ewa8sAnZf88JOHXvQ4HFXX62v21DNUNtQzVA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60330355/%E9%A6%AC%E6%9D%9C%E7%BE%85%E6%8B%98%E7%95%99%E7%94%9F%E6%B4%BB%E7%96%91%E6%9B%9D%E5%85%89-%E5%9B%B06%E5%B9%B3%E6%96%B9%E7%B1%B3%E7%9B%A3%E6%88%BF-%E6%B7%B1%E5%A4%9C%E5%A4%A7%E5%96%8A-%E6%88%91%E9%81%AD%E7%B6%81%E6%9E%B6",
-    "timestamp": "2026-03-13T14:10:22.492Z",
     "strategy": ".content-card__main"
   }
 ];
