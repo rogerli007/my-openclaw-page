@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-14T06:34:24.498Z
+// Last updated: 2026-03-14T07:28:48.038Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "外電︰美國政府將因促成TikTok交易　而獲得100億美元費用",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20251204/1073262544182841344120593.jpeg/fGn1bjh7oVBxEXuieV-ImJzDDcw_B7t6SOpN7kjqTe4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60330470/%E5%A4%96%E9%9B%BB-%E7%BE%8E%E5%9C%8B%E6%94%BF%E5%BA%9C%E5%B0%87%E5%9B%A0%E4%BF%83%E6%88%90tiktok%E4%BA%A4%E6%98%93-%E8%80%8C%E7%8D%B2%E5%BE%97100%E5%84%84%E7%BE%8E%E5%85%83%E8%B2%BB%E7%94%A8",
+    "timestamp": "2026-03-14T07:28:48.038Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "十五五｜江蘇社團總會辦分享會　唐英年籲港蘇聯手推動新質生產力",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260314/1109317435334332416714529.jpeg/p8zdXM51DUf3SXoRZ8z1iLTRf0XrMXC5AQZmYAEGZmA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60330389/%E5%8C%97%E7%B4%84%E9%98%B2%E7%A9%BA%E7%B3%BB%E7%B5%B1%E6%94%94%E6%88%AA%E4%BC%8A%E6%9C%97%E8%A5%B2%E5%9C%9F%E8%80%B3%E5%85%B6%E5%B0%8E%E5%BD%88-%E5%9F%83%E7%88%BE%E5%A4%9A%E5%AE%89-%E4%B8%8D%E6%9C%83%E6%8D%B2%E5%85%A5%E4%BC%8A%E6%9C%97%E6%88%B0%E7%88%AD",
     "timestamp": "2026-03-13T19:48:58.828Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "北約防空系統攔截伊朗襲土耳其導彈　埃爾多安：不會捲入伊朗戰爭",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260314/1109317435334332416714529.jpeg/p8zdXM51DUf3SXoRZ8z1iLTRf0XrMXC5AQZmYAEGZmA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60330389/%E5%8C%97%E7%B4%84%E9%98%B2%E7%A9%BA%E7%B3%BB%E7%B5%B1%E6%94%94%E6%88%AA%E4%BC%8A%E6%9C%97%E8%A5%B2%E5%9C%9F%E8%80%B3%E5%85%B6%E5%B0%8E%E5%BD%88-%E5%9F%83%E7%88%BE%E5%A4%9A%E5%AE%89-%E4%B8%8D%E6%9C%83%E6%8D%B2%E5%85%A5%E4%BC%8A%E6%9C%97%E6%88%B0%E7%88%AD",
-    "timestamp": "2026-03-13T18:53:11.050Z",
     "strategy": ".content-card__main"
   }
 ];
