@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-14T19:59:41.939Z
+// Last updated: 2026-03-14T20:30:52.691Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "英超｜車路士0:1不敵紐卡素　阿仙奴2:0勝愛華頓",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260315/1109697762284277760675023.jpeg/0Sq6mUlkCJekfPynryhkoIW1eXoUcuhZpmj6F6Zo-hc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60330563/%E8%8B%B1%E8%B6%85-%E8%BB%8A%E8%B7%AF%E5%A3%AB0-1%E4%B8%8D%E6%95%B5%E7%B4%90%E5%8D%A1%E7%B4%A0-%E9%98%BF%E4%BB%99%E5%A5%B42-0%E5%8B%9D%E6%84%9B%E8%8F%AF%E9%A0%93",
+    "timestamp": "2026-03-14T20:30:52.691Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "英超｜車路士0:1不敵紐卡素　阿仙奴2:0勝愛華頓",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20251223/1080214636604690432704638.jpeg/yuxPkyrMxFVPyuZvu6YeJBde0vrAN7PzrEz7hKxM-4Q?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60330478/%E6%97%A5%E7%BE%8E%E6%8E%A2%E8%A8%8E%E5%85%B1%E5%90%8C%E5%87%BA%E8%B3%87%E9%96%8B%E7%99%BC%E5%8D%97%E9%B3%A5%E5%B3%B6%E6%B7%B1%E6%B5%B7%E7%A8%80%E5%9C%9F-%E6%93%BA%E8%84%AB%E5%B0%8D%E8%8F%AF%E4%BE%9D%E8%B3%B4",
     "timestamp": "2026-03-14T08:21:47.969Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "新西蘭景點｜《出去一下》6大推薦　體驗火山泥溫泉SPA/毛利文化",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260314/1109295737503485952132567.jpeg/AFc68SElCNSBRpSEPcj88f0tmc027Mt1p4-eWqePnlo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%97%85%E9%81%8A/60328839/%E6%96%B0%E8%A5%BF%E8%98%AD%E6%99%AF%E9%BB%9E-%E5%87%BA%E5%8E%BB%E4%B8%80%E4%B8%8B-6%E5%A4%A7%E6%8E%A8%E8%96%A6-%E9%AB%94%E9%A9%97%E7%81%AB%E5%B1%B1%E6%B3%A5%E6%BA%AB%E6%B3%89spa-%E6%AF%9B%E5%88%A9%E6%96%87%E5%8C%96",
-    "timestamp": "2026-03-14T07:50:03.455Z",
     "strategy": ".content-card__main"
   }
 ];
