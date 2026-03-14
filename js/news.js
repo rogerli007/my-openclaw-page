@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-14T22:17:10.513Z
+// Last updated: 2026-03-14T23:32:27.997Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "有片│半裸女邊隨地便溺邊激吻！後續1舉動更狂　仙氣美貌反成焦點",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260312/1108829808072069120215403.jpeg/7ljuxyAYV9XYsnV4XbmlTEUZ1q2BcRjFT3eE5k93hOY",
+    "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E8%A9%B1%E9%A1%8C/60326741/%E6%9C%89%E7%89%87-%E5%8D%8A%E8%A3%B8%E5%A5%B3%E9%82%8A%E9%9A%A8%E5%9C%B0%E4%BE%BF%E6%BA%BA%E9%82%8A%E6%BF%80%E5%90%BB-%E5%BE%8C%E7%BA%8C1%E8%88%89%E5%8B%95%E6%9B%B4%E7%8B%82-%E4%BB%99%E6%B0%A3%E7%BE%8E%E8%B2%8C%E5%8F%8D%E6%88%90%E7%84%A6%E9%BB%9E",
+    "timestamp": "2026-03-14T23:32:27.997Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "英超｜曼城1:1和韋斯咸",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260314/1109587929589616640089621.jpeg/OdhJWpydCfnwyKn0GX817JLQyyD9LgwSQqHLlUKhy5U?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60330527/%E9%98%BF%E8%81%AF%E9%85%8B%E7%9F%B3%E6%B2%B9%E5%B7%A5%E6%A5%AD%E5%8D%80%E5%86%92%E7%85%99-%E4%BC%8A%E6%9C%97%E7%A8%B1%E5%8A%A0%E5%BC%B7%E5%8F%8D%E6%93%8A-%E6%9C%89%E6%AC%8A%E8%A5%B2%E9%98%BF%E8%81%AF%E9%85%8B%E5%A2%83%E5%85%A7%E7%BE%8E%E8%A8%AD%E6%96%BD",
     "timestamp": "2026-03-14T12:56:04.314Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "2026台灣選舉｜國民黨民眾黨宣布合作　發表居住正義等共同政見",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260314/1109575925151830016420179.jpeg/DZQHsaWZYSTdw2L4ZuSp_U-gtMbuSxDXE68fXBOvH1w?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8F%B0%E7%81%A3%E6%96%B0%E8%81%9E/60330521/2026%E5%8F%B0%E7%81%A3%E9%81%B8%E8%88%89-%E5%9C%8B%E6%B0%91%E9%BB%A8%E6%B0%91%E7%9C%BE%E9%BB%A8%E5%AE%A3%E5%B8%83%E5%90%88%E4%BD%9C-%E7%99%BC%E8%A1%A8%E5%B1%85%E4%BD%8F%E6%AD%A3%E7%BE%A9%E7%AD%89%E5%85%B1%E5%90%8C%E6%94%BF%E8%A6%8B",
-    "timestamp": "2026-03-14T12:20:44.252Z",
     "strategy": ".content-card__main"
   }
 ];
