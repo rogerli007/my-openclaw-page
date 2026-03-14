@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-14T04:27:39.388Z
+// Last updated: 2026-03-14T05:04:48.848Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "荃灣竹林襌院兩和尚涉襲擊案　一傷一被捕　傷者：唔會同佢和解",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260314/1109460583377276928713059.jpeg/3gHfpvxEaUmgmwWu1fKrY8TNF1mKlj-pgzTtV4M07Vc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60330414/%E8%8D%83%E7%81%A3%E7%AB%B9%E6%9E%97%E8%A5%8C%E9%99%A2%E5%85%A9%E5%92%8C%E5%B0%9A%E6%B6%89%E8%A5%B2%E6%93%8A%E6%A1%88-%E4%B8%80%E5%82%B7%E4%B8%80%E8%A2%AB%E6%8D%95-%E5%82%B7%E8%80%85-%E5%94%94%E6%9C%83%E5%90%8C%E4%BD%A2%E5%92%8C%E8%A7%A3",
+    "timestamp": "2026-03-14T05:04:48.848Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "鑽石山男狗主這樣替小狗梳毛　有愛畫面瘋傳網民讚：超級無敵得意",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260313/1109274306363265024527064.jpeg/BeXsL2zGeIuXLw5MFF1xr7U6T-_BtnT6RSkXrmApF64?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60330385/%E8%A7%80%E9%9F%B3%E5%80%9F%E5%BA%AB2026-%E6%8E%92%E9%A0%AD%E4%BD%8D%E5%96%84%E4%BF%A1%E6%90%AD%E5%B8%B3%E7%AF%B7%E9%80%9A%E5%AE%B5%E9%9C%B2%E5%AE%BF-%E9%80%A3%E7%BA%8C%E5%80%9F%E5%BA%AB14%E5%B9%B4%E6%88%90%E5%8A%9F%E6%88%92%E7%85%99",
     "timestamp": "2026-03-13T16:21:12.790Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "DEEP WATER SOUTH 6A期首批93伙　折實均價29055元、最平906.8萬",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260313/1109274185294680064297813.jpeg/XPPdRbA6iPekP0_LN1bpp4URgdCjvqZvy7TCo8u0wqM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60330383/deep-water-south-6a%E6%9C%9F%E9%A6%96%E6%89%B993%E4%BC%99-%E6%8A%98%E5%AF%A6%E5%9D%87%E5%83%B929055%E5%85%83-%E6%9C%80%E5%B9%B3906-8%E8%90%AC",
-    "timestamp": "2026-03-13T15:58:38.809Z",
     "strategy": ".content-card__main"
   }
 ];
