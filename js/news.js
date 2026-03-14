@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-14T00:50:30.091Z
+// Last updated: 2026-03-14T01:43:37.142Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "遼寧46歲男子誤吞12cm金屬筷「忍8年才取出」　坦言：當初怕手術",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260313/1109083787708338176215876.jpeg/rTStUM44Ks8geXUD4saV3URFN9VsOLWcgKzc7oCs3O4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60330138/%E9%81%BC%E5%AF%A746%E6%AD%B2%E7%94%B7%E5%AD%90%E8%AA%A4%E5%90%9E12cm%E9%87%91%E5%B1%AC%E7%AD%B7-%E5%BF%8D8%E5%B9%B4%E6%89%8D%E5%8F%96%E5%87%BA-%E5%9D%A6%E8%A8%80-%E7%95%B6%E5%88%9D%E6%80%95%E6%89%8B%E8%A1%93",
+    "timestamp": "2026-03-14T01:43:37.142Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "伊朗戰爭｜美國懸賞千萬美元　收集穆傑塔巴及德黑蘭高官情報",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20240429/861652438703280128483709.jpeg/skf8fLZ3EpynhGh0naK_v98GR1AYtLaeVLrl63K65es?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60330352/%E6%B8%85%E6%98%8E%E7%AF%80-%E8%AD%A6%E6%96%B9%E5%90%84%E5%8D%80%E5%AF%A6%E6%96%BD%E7%89%B9%E5%88%A5%E4%BA%A4%E9%80%9A%E5%AE%89%E6%8E%92-%E7%B1%B2%E5%B8%82%E6%B0%91%E4%BD%BF%E7%94%A8%E5%85%AC%E5%85%B1%E9%81%8B%E8%BC%B8%E6%9C%8D%E5%8B%99",
     "timestamp": "2026-03-13T13:36:34.120Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "臥底嬌娃丨何廣沛客串難擋誘惑爆笑搶fo　張曦雯最強戰衣狂放電",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260313/1109124170790211584460329.jpeg/ZMqF67RK8XF3054RLTYtP7RE4X_wSxI7XyOLxV8ji8U?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60330185/%E8%87%A5%E5%BA%95%E5%AC%8C%E5%A8%83-%E4%BD%95%E5%BB%A3%E6%B2%9B%E5%AE%A2%E4%B8%B2%E9%9B%A3%E6%93%8B%E8%AA%98%E6%83%91%E7%88%86%E7%AC%91%E6%90%B6fo-%E5%BC%B5%E6%9B%A6%E9%9B%AF%E6%9C%80%E5%BC%B7%E6%88%B0%E8%A1%A3%E7%8B%82%E6%94%BE%E9%9B%BB",
-    "timestamp": "2026-03-13T12:54:01.087Z",
     "strategy": ".content-card__main"
   }
 ];
