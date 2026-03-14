@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-14T16:36:52.619Z
+// Last updated: 2026-03-14T17:00:58.348Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "AI轉型的十字路口：CXO的戰略抉擇與落地路徑｜蘇仲成",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260313/1109097458836705280792105.jpeg/y96VmDNQPCnPAY_s-kYDZ99MFarkupETRnzoLEZ86Cw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%B6%B2%E7%A7%913.0/60330159/ai%E8%BD%89%E5%9E%8B%E7%9A%84%E5%8D%81%E5%AD%97%E8%B7%AF%E5%8F%A3-cxo%E7%9A%84%E6%88%B0%E7%95%A5%E6%8A%89%E6%93%87%E8%88%87%E8%90%BD%E5%9C%B0%E8%B7%AF%E5%BE%91-%E8%98%87%E4%BB%B2%E6%88%90",
+    "timestamp": "2026-03-14T17:00:58.348Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "AI轉型的十字路口：CXO的戰略抉擇與落地路徑｜蘇仲成",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260314/1109429174461796352403672.jpeg/932dLf446e4zGK0k2j-slE3zlMP1XvdBKFV3XyhVd18?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60330413/%E6%B2%B9%E5%83%B9-%E7%9A%84%E5%A3%AB%E5%B0%8F%E5%B7%B4%E7%AD%89%E7%87%9F%E9%81%8B%E6%88%90%E6%9C%AC%E5%8D%87-%E8%AD%B0%E5%93%A1%E7%A8%B1%E9%9B%A3%E8%BD%89%E5%AB%81%E6%B6%88%E8%B2%BB%E8%80%85-%E5%80%A1%E6%94%BF%E5%BA%9C%E8%A3%9C%E8%B2%BC",
     "timestamp": "2026-03-14T02:44:57.152Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "遼寧46歲男子誤吞12cm金屬筷「忍8年才取出」　坦言：當初怕手術",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260313/1109083787708338176215876.jpeg/rTStUM44Ks8geXUD4saV3URFN9VsOLWcgKzc7oCs3O4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60330138/%E9%81%BC%E5%AF%A746%E6%AD%B2%E7%94%B7%E5%AD%90%E8%AA%A4%E5%90%9E12cm%E9%87%91%E5%B1%AC%E7%AD%B7-%E5%BF%8D8%E5%B9%B4%E6%89%8D%E5%8F%96%E5%87%BA-%E5%9D%A6%E8%A8%80-%E7%95%B6%E5%88%9D%E6%80%95%E6%89%8B%E8%A1%93",
-    "timestamp": "2026-03-14T01:43:37.142Z",
     "strategy": ".content-card__main"
   }
 ];
