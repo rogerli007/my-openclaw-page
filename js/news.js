@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-14T16:01:34.582Z
+// Last updated: 2026-03-14T16:36:52.619Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "AI轉型的十字路口：CXO的戰略抉擇與落地路徑｜蘇仲成",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260313/1109097458836705280792105.jpeg/y96VmDNQPCnPAY_s-kYDZ99MFarkupETRnzoLEZ86Cw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%B6%B2%E7%A7%913.0/60330159/ai%E8%BD%89%E5%9E%8B%E7%9A%84%E5%8D%81%E5%AD%97%E8%B7%AF%E5%8F%A3-cxo%E7%9A%84%E6%88%B0%E7%95%A5%E6%8A%89%E6%93%87%E8%88%87%E8%90%BD%E5%9C%B0%E8%B7%AF%E5%BE%91-%E8%98%87%E4%BB%B2%E6%88%90",
+    "timestamp": "2026-03-14T16:36:52.619Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "以色列黎巴嫩料舉行伊朗戰爭後首次直接會談　塞浦路斯或巴黎進行",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260313/1109083787708338176215876.jpeg/rTStUM44Ks8geXUD4saV3URFN9VsOLWcgKzc7oCs3O4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60330138/%E9%81%BC%E5%AF%A746%E6%AD%B2%E7%94%B7%E5%AD%90%E8%AA%A4%E5%90%9E12cm%E9%87%91%E5%B1%AC%E7%AD%B7-%E5%BF%8D8%E5%B9%B4%E6%89%8D%E5%8F%96%E5%87%BA-%E5%9D%A6%E8%A8%80-%E7%95%B6%E5%88%9D%E6%80%95%E6%89%8B%E8%A1%93",
     "timestamp": "2026-03-14T01:43:37.142Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "伊朗戰爭｜美國懸賞千萬美元　收集穆傑塔巴及德黑蘭高官情報",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260311/1108295983424344064980245.jpeg/6vG0g0fR6Uivo4nNpC7KhAfRukv13E_AdpqOK3aajis?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60330398/%E4%BC%8A%E6%9C%97%E6%88%B0%E7%88%AD-%E7%BE%8E%E5%9C%8B%E6%87%B8%E8%B3%9E%E5%8D%83%E8%90%AC%E7%BE%8E%E5%85%83-%E6%94%B6%E9%9B%86%E7%A9%86%E5%82%91%E5%A1%94%E5%B7%B4%E5%8F%8A%E5%BE%B7%E9%BB%91%E8%98%AD%E9%AB%98%E5%AE%98%E6%83%85%E5%A0%B1",
-    "timestamp": "2026-03-14T00:50:30.091Z",
     "strategy": ".content-card__main"
   }
 ];
