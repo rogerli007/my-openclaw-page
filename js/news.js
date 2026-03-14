@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-14T23:32:27.997Z
+// Last updated: 2026-03-14T23:53:24.520Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "特朗普：美國或再襲伊朗哈爾克島　尚未準備好與伊達成協議",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260310/1107932190311845888923816.jpeg/7THN0nj64TWYtLLwrMuVJYVfQGLnLM2ePiAW8D4gFvA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60330570/%E7%89%B9%E6%9C%97%E6%99%AE-%E7%BE%8E%E5%9C%8B%E6%88%96%E5%86%8D%E8%A5%B2%E4%BC%8A%E6%9C%97%E5%93%88%E7%88%BE%E5%85%8B%E5%B3%B6-%E5%B0%9A%E6%9C%AA%E6%BA%96%E5%82%99%E5%A5%BD%E8%88%87%E4%BC%8A%E9%81%94%E6%88%90%E5%8D%94%E8%AD%B0",
+    "timestamp": "2026-03-14T23:53:24.520Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "有片│半裸女邊隨地便溺邊激吻！後續1舉動更狂　仙氣美貌反成焦點",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260314/1109554625259769856170986.jpeg/lWxwD6dTrqTUgqE1Jub4qm9HTVOyR20K5dgfeOXYH3g?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60330505/%E6%B1%9F%E8%8A%B7%E5%A6%AE%E7%88%B8%E7%88%B8%E5%96%AA%E7%A6%AE%E6%96%BC%E6%95%99%E5%A0%82%E8%88%89%E8%A1%8C%E8%8E%8A%E5%9A%B4%E8%82%85%E7%A9%86-%E4%BB%8A%E5%B9%B41%E6%9C%88%E7%8C%9D%E9%80%9D%E7%B5%82%E5%B9%B487%E6%AD%B2",
     "timestamp": "2026-03-14T13:53:13.291Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "阿聯酋石油工業區冒煙　伊朗稱加強反擊：有權襲阿聯酋境內美設施",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260314/1109587929589616640089621.jpeg/OdhJWpydCfnwyKn0GX817JLQyyD9LgwSQqHLlUKhy5U?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60330527/%E9%98%BF%E8%81%AF%E9%85%8B%E7%9F%B3%E6%B2%B9%E5%B7%A5%E6%A5%AD%E5%8D%80%E5%86%92%E7%85%99-%E4%BC%8A%E6%9C%97%E7%A8%B1%E5%8A%A0%E5%BC%B7%E5%8F%8D%E6%93%8A-%E6%9C%89%E6%AC%8A%E8%A5%B2%E9%98%BF%E8%81%AF%E9%85%8B%E5%A2%83%E5%85%A7%E7%BE%8E%E8%A8%AD%E6%96%BD",
-    "timestamp": "2026-03-14T12:56:04.314Z",
     "strategy": ".content-card__main"
   }
 ];
