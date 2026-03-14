@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-14T19:34:29.909Z
+// Last updated: 2026-03-14T19:59:41.939Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "英超｜車路士0:1不敵紐卡素　阿仙奴2:0勝愛華頓",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260315/1109697762284277760675023.jpeg/0Sq6mUlkCJekfPynryhkoIW1eXoUcuhZpmj6F6Zo-hc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60330563/%E8%8B%B1%E8%B6%85-%E8%BB%8A%E8%B7%AF%E5%A3%AB0-1%E4%B8%8D%E6%95%B5%E7%B4%90%E5%8D%A1%E7%B4%A0-%E9%98%BF%E4%BB%99%E5%A5%B42-0%E5%8B%9D%E6%84%9B%E8%8F%AF%E9%A0%93",
+    "timestamp": "2026-03-14T19:59:41.939Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "幫手搵人︱大埔68歲劉建幫疑行山迷路　兒子呼籲尋人",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260314/1109295737503485952132567.jpeg/AFc68SElCNSBRpSEPcj88f0tmc027Mt1p4-eWqePnlo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%97%85%E9%81%8A/60328839/%E6%96%B0%E8%A5%BF%E8%98%AD%E6%99%AF%E9%BB%9E-%E5%87%BA%E5%8E%BB%E4%B8%80%E4%B8%8B-6%E5%A4%A7%E6%8E%A8%E8%96%A6-%E9%AB%94%E9%A9%97%E7%81%AB%E5%B1%B1%E6%B3%A5%E6%BA%AB%E6%B3%89spa-%E6%AF%9B%E5%88%A9%E6%96%87%E5%8C%96",
     "timestamp": "2026-03-14T07:50:03.455Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "外電︰美國政府將因促成TikTok交易　而獲得100億美元費用",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20251204/1073262544182841344120593.jpeg/fGn1bjh7oVBxEXuieV-ImJzDDcw_B7t6SOpN7kjqTe4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60330470/%E5%A4%96%E9%9B%BB-%E7%BE%8E%E5%9C%8B%E6%94%BF%E5%BA%9C%E5%B0%87%E5%9B%A0%E4%BF%83%E6%88%90tiktok%E4%BA%A4%E6%98%93-%E8%80%8C%E7%8D%B2%E5%BE%97100%E5%84%84%E7%BE%8E%E5%85%83%E8%B2%BB%E7%94%A8",
-    "timestamp": "2026-03-14T07:28:48.038Z",
     "strategy": ".content-card__main"
   }
 ];
