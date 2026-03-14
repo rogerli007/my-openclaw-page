@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-14T07:50:03.455Z
+// Last updated: 2026-03-14T08:21:47.969Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "日美探討共同出資開發南鳥島深海稀土　擺脫對華依賴",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20251223/1080214636604690432704638.jpeg/yuxPkyrMxFVPyuZvu6YeJBde0vrAN7PzrEz7hKxM-4Q?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60330478/%E6%97%A5%E7%BE%8E%E6%8E%A2%E8%A8%8E%E5%85%B1%E5%90%8C%E5%87%BA%E8%B3%87%E9%96%8B%E7%99%BC%E5%8D%97%E9%B3%A5%E5%B3%B6%E6%B7%B1%E6%B5%B7%E7%A8%80%E5%9C%9F-%E6%93%BA%E8%84%AB%E5%B0%8D%E8%8F%AF%E4%BE%9D%E8%B3%B4",
+    "timestamp": "2026-03-14T08:21:47.969Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "新西蘭景點｜《出去一下》6大推薦　體驗火山泥溫泉SPA/毛利文化",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20251211/1075646246670307328530472.jpeg/LA4ZdugmjMzZvyCVzOYwfYJ8-F4BG2jZv1iXWL9Yl1g?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60330390/%E7%BE%8E%E5%9C%8B%E8%81%AF%E9%82%A6%E6%B3%95%E5%AE%98%E9%98%BB%E6%AD%A2%E5%8F%B8%E6%B3%95%E9%83%A8%E5%B0%8D%E9%AE%91%E5%A8%81%E7%88%BE%E5%82%B3%E7%A5%A8-%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%E5%B0%87%E6%8F%90%E8%B5%B7%E4%B8%8A%E8%A8%B4",
     "timestamp": "2026-03-13T20:23:27.907Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "北約防空系統攔截伊朗襲土耳其導彈　埃爾多安：不會捲入伊朗戰爭",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260314/1109317435334332416714529.jpeg/p8zdXM51DUf3SXoRZ8z1iLTRf0XrMXC5AQZmYAEGZmA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60330389/%E5%8C%97%E7%B4%84%E9%98%B2%E7%A9%BA%E7%B3%BB%E7%B5%B1%E6%94%94%E6%88%AA%E4%BC%8A%E6%9C%97%E8%A5%B2%E5%9C%9F%E8%80%B3%E5%85%B6%E5%B0%8E%E5%BD%88-%E5%9F%83%E7%88%BE%E5%A4%9A%E5%AE%89-%E4%B8%8D%E6%9C%83%E6%8D%B2%E5%85%A5%E4%BC%8A%E6%9C%97%E6%88%B0%E7%88%AD",
-    "timestamp": "2026-03-13T20:03:40.386Z",
     "strategy": ".content-card__main"
   }
 ];
