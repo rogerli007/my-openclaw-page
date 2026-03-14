@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-14T08:36:22.382Z
+// Last updated: 2026-03-14T10:51:15.097Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "特朗普襲伊朗哈爾克島　油價破百引發全球第四次石油危機?",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260313/1109152906520563712854176.jpeg/xyC5JiC9J6nLGIYIjygygaWyfWB5QGkmhXJ0OIVydDg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%9C%8B%E9%9A%9B%E5%88%86%E6%9E%90/60330210/%E7%89%B9%E6%9C%97%E6%99%AE%E8%A5%B2%E4%BC%8A%E6%9C%97%E5%93%88%E7%88%BE%E5%85%8B%E5%B3%B6-%E6%B2%B9%E5%83%B9%E7%A0%B4%E7%99%BE%E5%BC%95%E7%99%BC%E5%85%A8%E7%90%83%E7%AC%AC%E5%9B%9B%E6%AC%A1%E7%9F%B3%E6%B2%B9%E5%8D%B1%E6%A9%9F",
+    "timestamp": "2026-03-14T10:51:15.097Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "吳文忻癌細胞「上腦」兩邊各約1cm　崩潰喊全晚︰癌細胞周身都係",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260313/1109084791950544896671842.jpeg/WBAwn3113XScnMGQENhTf7KgdOg86-M9g8gTOYPIEzk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60329900/%E6%98%9F%E4%B9%8B%E8%B0%B7-%E9%8A%80%E8%A1%8C%E7%9B%B8%E7%B9%BC%E6%8E%A8%E5%AE%9A%E6%81%AF%E8%A8%88%E5%8A%83-%E5%B0%8D%E6%8C%89%E6%8F%AD%E5%B8%82%E5%A0%B4%E7%9A%84%E4%B8%89%E5%A4%A7%E5%95%9F%E7%A4%BA",
     "timestamp": "2026-03-13T22:18:10.802Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美國聯邦法官阻止司法部對鮑威爾傳票　特朗普政府將提起上訴",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20251211/1075646246670307328530472.jpeg/LA4ZdugmjMzZvyCVzOYwfYJ8-F4BG2jZv1iXWL9Yl1g?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60330390/%E7%BE%8E%E5%9C%8B%E8%81%AF%E9%82%A6%E6%B3%95%E5%AE%98%E9%98%BB%E6%AD%A2%E5%8F%B8%E6%B3%95%E9%83%A8%E5%B0%8D%E9%AE%91%E5%A8%81%E7%88%BE%E5%82%B3%E7%A5%A8-%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%E5%B0%87%E6%8F%90%E8%B5%B7%E4%B8%8A%E8%A8%B4",
-    "timestamp": "2026-03-13T20:51:33.149Z",
     "strategy": ".content-card__main"
   }
 ];
