@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-14T20:49:18.711Z
+// Last updated: 2026-03-14T21:16:46.887Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "瑞士拒絕伊朗戰爭相關美國機飛越其領空　稱出於中立法考量",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20251130/1071920721388638208716098.jpeg/xwNSM-jykqmVJNRrqO223d6ZU7PLq65qZj8bAGY_GwA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60330565/%E7%91%9E%E5%A3%AB%E6%8B%92%E7%B5%95%E4%BC%8A%E6%9C%97%E6%88%B0%E7%88%AD%E7%9B%B8%E9%97%9C%E7%BE%8E%E5%9C%8B%E6%A9%9F%E9%A3%9B%E8%B6%8A%E5%85%B6%E9%A0%98%E7%A9%BA-%E7%A8%B1%E5%87%BA%E6%96%BC%E4%B8%AD%E7%AB%8B%E6%B3%95%E8%80%83%E9%87%8F",
+    "timestamp": "2026-03-14T21:16:46.887Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "瑞士拒絕伊朗戰爭相關美國機飛越其領空　稱出於中立法考量",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260313/1109152906520563712854176.jpeg/xyC5JiC9J6nLGIYIjygygaWyfWB5QGkmhXJ0OIVydDg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%9C%8B%E9%9A%9B%E5%88%86%E6%9E%90/60330210/%E7%89%B9%E6%9C%97%E6%99%AE%E8%A5%B2%E4%BC%8A%E6%9C%97%E5%93%88%E7%88%BE%E5%85%8B%E5%B3%B6-%E6%B2%B9%E5%83%B9%E7%A0%B4%E7%99%BE%E5%BC%95%E7%99%BC%E5%85%A8%E7%90%83%E7%AC%AC%E5%9B%9B%E6%AC%A1%E7%9F%B3%E6%B2%B9%E5%8D%B1%E6%A9%9F",
     "timestamp": "2026-03-14T10:51:15.097Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "吳文忻癌細胞「上腦」兩邊各約1cm　崩潰喊全晚︰癌細胞周身都係",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260314/1109522226752786432750381.png/o0kUADsuf9-sLNBMWO_BHeSfj2ZkeYNbNu_6yTbv-sk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60330479/%E5%90%B3%E6%96%87%E5%BF%BB%E7%99%8C%E7%B4%B0%E8%83%9E-%E4%B8%8A%E8%85%A6-%E5%85%A9%E9%82%8A%E5%90%84%E7%B4%841cm-%E5%B4%A9%E6%BD%B0%E5%96%8A%E5%85%A8%E6%99%9A-%E7%99%8C%E7%B4%B0%E8%83%9E%E5%91%A8%E8%BA%AB%E9%83%BD%E4%BF%82",
-    "timestamp": "2026-03-14T08:36:22.382Z",
     "strategy": ".content-card__main"
   }
 ];
