@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-14T01:43:37.142Z
+// Last updated: 2026-03-14T02:44:57.152Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "油價｜的士小巴等營運成本升　議員稱難轉嫁消費者　倡政府補貼",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260314/1109429174461796352403672.jpeg/932dLf446e4zGK0k2j-slE3zlMP1XvdBKFV3XyhVd18?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60330413/%E6%B2%B9%E5%83%B9-%E7%9A%84%E5%A3%AB%E5%B0%8F%E5%B7%B4%E7%AD%89%E7%87%9F%E9%81%8B%E6%88%90%E6%9C%AC%E5%8D%87-%E8%AD%B0%E5%93%A1%E7%A8%B1%E9%9B%A3%E8%BD%89%E5%AB%81%E6%B6%88%E8%B2%BB%E8%80%85-%E5%80%A1%E6%94%BF%E5%BA%9C%E8%A3%9C%E8%B2%BC",
+    "timestamp": "2026-03-14T02:44:57.152Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "遼寧46歲男子誤吞12cm金屬筷「忍8年才取出」　坦言：當初怕手術",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260106/1085052965393403904806953.jpeg/S9Kvnu4ewa8sAnZf88JOHXvQ4HFXX62v21DNUNtQzVA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60330355/%E9%A6%AC%E6%9D%9C%E7%BE%85%E6%8B%98%E7%95%99%E7%94%9F%E6%B4%BB%E7%96%91%E6%9B%9D%E5%85%89-%E5%9B%B06%E5%B9%B3%E6%96%B9%E7%B1%B3%E7%9B%A3%E6%88%BF-%E6%B7%B1%E5%A4%9C%E5%A4%A7%E5%96%8A-%E6%88%91%E9%81%AD%E7%B6%81%E6%9E%B6",
     "timestamp": "2026-03-13T14:10:22.492Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "清明節｜警方各區實施特別交通安排　籲市民使用公共運輸服務",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20240429/861652438703280128483709.jpeg/skf8fLZ3EpynhGh0naK_v98GR1AYtLaeVLrl63K65es?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60330352/%E6%B8%85%E6%98%8E%E7%AF%80-%E8%AD%A6%E6%96%B9%E5%90%84%E5%8D%80%E5%AF%A6%E6%96%BD%E7%89%B9%E5%88%A5%E4%BA%A4%E9%80%9A%E5%AE%89%E6%8E%92-%E7%B1%B2%E5%B8%82%E6%B0%91%E4%BD%BF%E7%94%A8%E5%85%AC%E5%85%B1%E9%81%8B%E8%BC%B8%E6%9C%8D%E5%8B%99",
-    "timestamp": "2026-03-13T13:36:34.120Z",
     "strategy": ".content-card__main"
   }
 ];
