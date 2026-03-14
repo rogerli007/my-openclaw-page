@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-14T20:30:52.691Z
+// Last updated: 2026-03-14T20:49:18.711Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "瑞士拒絕伊朗戰爭相關美國機飛越其領空　稱出於中立法考量",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20251130/1071920721388638208716098.jpeg/xwNSM-jykqmVJNRrqO223d6ZU7PLq65qZj8bAGY_GwA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60330565/%E7%91%9E%E5%A3%AB%E6%8B%92%E7%B5%95%E4%BC%8A%E6%9C%97%E6%88%B0%E7%88%AD%E7%9B%B8%E9%97%9C%E7%BE%8E%E5%9C%8B%E6%A9%9F%E9%A3%9B%E8%B6%8A%E5%85%B6%E9%A0%98%E7%A9%BA-%E7%A8%B1%E5%87%BA%E6%96%BC%E4%B8%AD%E7%AB%8B%E6%B3%95%E8%80%83%E9%87%8F",
+    "timestamp": "2026-03-14T20:49:18.711Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "英超｜車路士0:1不敵紐卡素　阿仙奴2:0勝愛華頓",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260314/1109522226752786432750381.png/o0kUADsuf9-sLNBMWO_BHeSfj2ZkeYNbNu_6yTbv-sk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60330479/%E5%90%B3%E6%96%87%E5%BF%BB%E7%99%8C%E7%B4%B0%E8%83%9E-%E4%B8%8A%E8%85%A6-%E5%85%A9%E9%82%8A%E5%90%84%E7%B4%841cm-%E5%B4%A9%E6%BD%B0%E5%96%8A%E5%85%A8%E6%99%9A-%E7%99%8C%E7%B4%B0%E8%83%9E%E5%91%A8%E8%BA%AB%E9%83%BD%E4%BF%82",
     "timestamp": "2026-03-14T08:36:22.382Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "日美探討共同出資開發南鳥島深海稀土　擺脫對華依賴",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20251223/1080214636604690432704638.jpeg/yuxPkyrMxFVPyuZvu6YeJBde0vrAN7PzrEz7hKxM-4Q?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60330478/%E6%97%A5%E7%BE%8E%E6%8E%A2%E8%A8%8E%E5%85%B1%E5%90%8C%E5%87%BA%E8%B3%87%E9%96%8B%E7%99%BC%E5%8D%97%E9%B3%A5%E5%B3%B6%E6%B7%B1%E6%B5%B7%E7%A8%80%E5%9C%9F-%E6%93%BA%E8%84%AB%E5%B0%8D%E8%8F%AF%E4%BE%9D%E8%B3%B4",
-    "timestamp": "2026-03-14T08:21:47.969Z",
     "strategy": ".content-card__main"
   }
 ];
