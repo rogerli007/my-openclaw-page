@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-15T18:40:56.961Z
+// Last updated: 2026-03-15T19:07:16.151Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "英超｜利物浦遭熱刺逼和1：1　升上第5位",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260316/1110039357110095872179483.jpeg/fICUYIWLjKb0NTwwV8DTXhQJwPG0ZKPBJMHGIiTBxiI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60330745/%E8%8B%B1%E8%B6%85-%E5%88%A9%E7%89%A9%E6%B5%A6%E9%81%AD%E7%86%B1%E5%88%BA%E9%80%BC%E5%92%8C1-1-%E5%8D%87%E4%B8%8A%E7%AC%AC5%E4%BD%8D",
+    "timestamp": "2026-03-15T19:07:16.151Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "英超｜利物浦遭熱刺逼和1：1　升上第5位",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260315/1109854029648760832460715.jpeg/I8elsyReT-otdj09hHx5j2McpbiGYrn1xWXfUcVl31E?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60330619/%E5%90%91%E4%BD%90%E7%AA%81%E7%84%B6%E5%A4%B1%E6%8E%A7%E9%A3%9B%E8%B8%A2%E4%B8%BB%E6%8C%81%E4%BA%BA%E9%A0%AD%E9%83%A8%E5%BD%B1%E7%89%87%E8%A2%AB%E7%98%8B%E5%82%B3-%E7%B6%B2%E6%B0%91%E6%89%B9-%E6%B2%92%E5%93%81%E6%B2%92%E5%BE%B7%E6%B2%92%E6%95%99%E9%A4%8A",
     "timestamp": "2026-03-15T06:35:06.866Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "跑馬地遊樂場跑步男突然暈倒　昏迷送院救治",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260315/1109837443311341568465931.jpeg/i189aZpltMSDtmAfvdGOLCB2nguscZkKHr0M0h69DNI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60330600/%E8%B7%91%E9%A6%AC%E5%9C%B0%E9%81%8A%E6%A8%82%E5%A0%B4%E8%B7%91%E6%AD%A5%E7%94%B7%E7%AA%81%E7%84%B6%E6%9A%88%E5%80%92-%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2%E6%95%91%E6%B2%BB",
-    "timestamp": "2026-03-15T05:26:07.052Z",
     "strategy": ".content-card__main"
   }
 ];
