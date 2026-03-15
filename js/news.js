@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-15T21:49:10.278Z
+// Last updated: 2026-03-15T22:16:18.585Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "新盤熱賣帶動氣氛　十大屋苑周末成交重回雙位數　按周升83%",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250217/968225726950019072340968.jpeg/56vWwe7I1md5_U0GGUspuH7Iy7N54roBjPy1oLr8taA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60330724/%E6%96%B0%E7%9B%A4%E7%86%B1%E8%B3%A3%E5%B8%B6%E5%8B%95%E6%B0%A3%E6%B0%9B-%E5%8D%81%E5%A4%A7%E5%B1%8B%E8%8B%91%E5%91%A8%E6%9C%AB%E6%88%90%E4%BA%A4%E9%87%8D%E5%9B%9E%E9%9B%99%E4%BD%8D%E6%95%B8-%E6%8C%89%E5%91%A8%E5%8D%8783",
+    "timestamp": "2026-03-15T22:16:18.585Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "中美代表巴黎新一輪經貿會談　首日舉行逾6小時後結束",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260303/1105455181585190912632708.jpeg/r9joIMxEiMAbphpa9Hlsttr__enCaI9uvFGHgLxRh4A?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%AB%87%E6%83%85%E8%AA%AA%E6%80%A7/60326743/5%E5%A4%A7%E7%94%9F%E8%82%96%E7%BC%BA%E4%B9%8F%E5%AE%89%E5%85%A8%E6%84%9F-%E5%B1%AC%E5%85%94%E5%85%A7%E5%BF%83%E6%95%8F%E6%84%9F%E7%B4%B0%E8%86%A9-%E8%A6%81%E5%8F%8D%E8%A6%86%E7%A2%BA%E8%AA%8D%E8%A2%AB%E6%84%9B%E6%89%8D%E6%95%A2%E5%8E%BB%E6%84%9B",
     "timestamp": "2026-03-15T11:47:51.948Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "中東局勢油價升｜順豐速運3.16起港澳本地件收燃油附加費　每票$1",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250702/1017120817714040832267954.jpeg/R0mVF9XGFX00p3kpIv-kQ9S-H8HXKFzfWXnmmFl55pg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60330695/%E4%B8%AD%E6%9D%B1%E5%B1%80%E5%8B%A2%E6%B2%B9%E5%83%B9%E5%8D%87-%E9%A0%86%E8%B1%90%E9%80%9F%E9%81%8B3-16%E8%B5%B7%E6%B8%AF%E6%BE%B3%E6%9C%AC%E5%9C%B0%E4%BB%B6%E6%94%B6%E7%87%83%E6%B2%B9%E9%99%84%E5%8A%A0%E8%B2%BB-%E6%AF%8F%E7%A5%A8-1",
-    "timestamp": "2026-03-15T11:32:58.636Z",
     "strategy": ".content-card__main"
   }
 ];
