@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-15T10:17:13.782Z
+// Last updated: 2026-03-15T11:32:58.636Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "中東局勢油價升｜順豐速運3.16起港澳本地件收燃油附加費　每票$1",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250702/1017120817714040832267954.jpeg/R0mVF9XGFX00p3kpIv-kQ9S-H8HXKFzfWXnmmFl55pg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60330695/%E4%B8%AD%E6%9D%B1%E5%B1%80%E5%8B%A2%E6%B2%B9%E5%83%B9%E5%8D%87-%E9%A0%86%E8%B1%90%E9%80%9F%E9%81%8B3-16%E8%B5%B7%E6%B8%AF%E6%BE%B3%E6%9C%AC%E5%9C%B0%E4%BB%B6%E6%94%B6%E7%87%83%E6%B2%B9%E9%99%84%E5%8A%A0%E8%B2%BB-%E6%AF%8F%E7%A5%A8-1",
+    "timestamp": "2026-03-15T11:32:58.636Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "有片｜八鄉蓮花地建築材料倉失火　濃煙直竄天際　消防拖喉撲救",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260315/1109682872085647360032187.jpeg/hCbZdjlsHrJ58XhvNClBnO6EkuqfyZpxMmETKzJhEys?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60330560/%E5%B9%AB%E6%89%8B%E6%90%B5%E4%BA%BA-%E5%A4%A7%E5%9F%9468%E6%AD%B2%E5%8A%89%E5%BB%BA%E5%B9%AB%E7%96%91%E4%B8%8A%E5%B1%B1%E8%BF%B7%E8%B7%AF-%E5%85%92%E5%AD%90%E5%91%BC%E7%B1%B2%E5%B0%8B%E4%BA%BA",
     "timestamp": "2026-03-14T19:17:52.846Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "伊朗外長：若該國能源設施遭襲　將打擊中東地區美國企業以示回應",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20251116/1066827048120487936653792.jpeg/eS-tYOUonrCNA9yyAXlvGqGwRYPL-7bu7MopVuzKKVY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60330558/%E4%BC%8A%E6%9C%97%E5%A4%96%E9%95%B7-%E8%8B%A5%E8%A9%B2%E5%9C%8B%E8%83%BD%E6%BA%90%E8%A8%AD%E6%96%BD%E9%81%AD%E8%A5%B2-%E5%B0%87%E6%89%93%E6%93%8A%E4%B8%AD%E6%9D%B1%E5%9C%B0%E5%8D%80%E7%BE%8E%E5%9C%8B%E4%BC%81%E6%A5%AD%E4%BB%A5%E7%A4%BA%E5%9B%9E%E6%87%89",
-    "timestamp": "2026-03-14T18:52:26.842Z",
     "strategy": ".content-card__main"
   }
 ];
