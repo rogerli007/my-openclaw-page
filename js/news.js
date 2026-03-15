@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-15T13:29:52.148Z
+// Last updated: 2026-03-15T13:53:25.053Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "尿片廣告都「擦邊」？小紅書被曝推送兒童軟色情內容",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260315/1109938357523189760215369.jpeg/M4__XxsG75WovNgmn4fCS1dbVeyKmyJ2yPg9HMj4PRw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60330702/%E5%B0%BF%E7%89%87%E5%BB%A3%E5%91%8A%E9%83%BD-%E6%93%A6%E9%82%8A-%E5%B0%8F%E7%B4%85%E6%9B%B8%E8%A2%AB%E6%9B%9D%E6%8E%A8%E9%80%81%E5%85%92%E7%AB%A5%E8%BB%9F%E8%89%B2%E6%83%85%E5%85%A7%E5%AE%B9",
+    "timestamp": "2026-03-15T13:53:25.053Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "油麻地上海街32歲尼泊爾男暈倒房內　友人揭發報案惜返魂乏術",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20251130/1071920721388638208716098.jpeg/xwNSM-jykqmVJNRrqO223d6ZU7PLq65qZj8bAGY_GwA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60330565/%E7%91%9E%E5%A3%AB%E6%8B%92%E7%B5%95%E4%BC%8A%E6%9C%97%E6%88%B0%E7%88%AD%E7%9B%B8%E9%97%9C%E7%BE%8E%E5%9C%8B%E6%A9%9F%E9%A3%9B%E8%B6%8A%E5%85%B6%E9%A0%98%E7%A9%BA-%E7%A8%B1%E5%87%BA%E6%96%BC%E4%B8%AD%E7%AB%8B%E6%B3%95%E8%80%83%E9%87%8F",
     "timestamp": "2026-03-14T20:49:18.711Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "英超｜車路士0:1不敵紐卡素　阿仙奴2:0勝愛華頓",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260315/1109697762284277760675023.jpeg/0Sq6mUlkCJekfPynryhkoIW1eXoUcuhZpmj6F6Zo-hc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60330563/%E8%8B%B1%E8%B6%85-%E8%BB%8A%E8%B7%AF%E5%A3%AB0-1%E4%B8%8D%E6%95%B5%E7%B4%90%E5%8D%A1%E7%B4%A0-%E9%98%BF%E4%BB%99%E5%A5%B42-0%E5%8B%9D%E6%84%9B%E8%8F%AF%E9%A0%93",
-    "timestamp": "2026-03-14T20:30:52.691Z",
     "strategy": ".content-card__main"
   }
 ];
