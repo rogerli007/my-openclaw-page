@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-15T13:53:25.053Z
+// Last updated: 2026-03-15T14:19:19.815Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "以軍西岸擊斃巴人父母及兩兒童　稱其車輛加速駛來受威脅開火",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260315/1109948332941250560453160.jpeg/wxbVVsqKaSqeb5FxqBQwGBpFq8GqsAAT6o_IeeqPyHk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60330701/%E4%BB%A5%E8%BB%8D%E8%A5%BF%E5%B2%B8%E6%93%8A%E6%96%83%E5%B7%B4%E4%BA%BA%E7%88%B6%E6%AF%8D%E5%8F%8A%E5%85%A9%E5%85%92%E7%AB%A5-%E7%A8%B1%E5%85%B6%E8%BB%8A%E8%BC%9B%E5%8A%A0%E9%80%9F%E9%A7%9B%E4%BE%86%E5%8F%97%E5%A8%81%E8%84%85%E9%96%8B%E7%81%AB",
+    "timestamp": "2026-03-15T14:19:19.815Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "尿片廣告都「擦邊」？小紅書被曝推送兒童軟色情內容",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20251130/1071920721388638208716098.jpeg/xwNSM-jykqmVJNRrqO223d6ZU7PLq65qZj8bAGY_GwA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60330565/%E7%91%9E%E5%A3%AB%E6%8B%92%E7%B5%95%E4%BC%8A%E6%9C%97%E6%88%B0%E7%88%AD%E7%9B%B8%E9%97%9C%E7%BE%8E%E5%9C%8B%E6%A9%9F%E9%A3%9B%E8%B6%8A%E5%85%B6%E9%A0%98%E7%A9%BA-%E7%A8%B1%E5%87%BA%E6%96%BC%E4%B8%AD%E7%AB%8B%E6%B3%95%E8%80%83%E9%87%8F",
     "timestamp": "2026-03-14T21:16:46.887Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "瑞士拒絕伊朗戰爭相關美國機飛越其領空　稱出於中立法考量",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20251130/1071920721388638208716098.jpeg/xwNSM-jykqmVJNRrqO223d6ZU7PLq65qZj8bAGY_GwA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60330565/%E7%91%9E%E5%A3%AB%E6%8B%92%E7%B5%95%E4%BC%8A%E6%9C%97%E6%88%B0%E7%88%AD%E7%9B%B8%E9%97%9C%E7%BE%8E%E5%9C%8B%E6%A9%9F%E9%A3%9B%E8%B6%8A%E5%85%B6%E9%A0%98%E7%A9%BA-%E7%A8%B1%E5%87%BA%E6%96%BC%E4%B8%AD%E7%AB%8B%E6%B3%95%E8%80%83%E9%87%8F",
-    "timestamp": "2026-03-14T20:49:18.711Z",
     "strategy": ".content-card__main"
   }
 ];
