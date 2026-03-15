@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-15T00:59:37.112Z
+// Last updated: 2026-03-15T04:45:19.920Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "養生變傷身？內媒揭泡腳包工人腳踩原料　銷冠產品真菌超標7000倍",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260315/1109801727437049856982576.jpeg/8Am73ra09OboyH3gg32yR-RoCZk3AdUdSHQPZkh0D2Y?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60330580/%E9%A4%8A%E7%94%9F%E8%AE%8A%E5%82%B7%E8%BA%AB-%E5%85%A7%E5%AA%92%E6%8F%AD%E6%B3%A1%E8%85%B3%E5%8C%85%E5%B7%A5%E4%BA%BA%E8%85%B3%E8%B8%A9%E5%8E%9F%E6%96%99-%E9%8A%B7%E5%86%A0%E7%94%A2%E5%93%81%E7%9C%9F%E8%8F%8C%E8%B6%85%E6%A8%997000%E5%80%8D",
+    "timestamp": "2026-03-15T04:45:19.920Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "伊朗戰爭｜路透社：中東盟友嘗試斡旋談判　遭特朗普拒絕",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260314/1109598326778499072305716.jpeg/Y8z-_4567iR9Pzxg9v264ryItLAFooYyrHp3Yax6d2E?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60330534/%E5%A1%9E%E7%88%BE%E7%B6%AD%E4%BA%9E%E8%AD%89%E5%AF%A6%E6%8E%A1%E8%B3%BC%E4%B8%AD%E5%9C%8B%E8%B6%85%E9%9F%B3%E9%80%9F%E5%B0%8E%E5%BD%88-%E7%B8%BD%E7%B5%B1%E6%9C%AA%E9%80%8F%E9%9C%B2%E9%87%91%E9%A1%8D-%E6%9C%89%E5%B0%8F%E6%8A%98%E6%89%A3",
     "timestamp": "2026-03-14T15:16:27.903Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "最美千金絕美孕照曝光囝囝錫錫孕肚好溫馨　去年12月宣布懷第二胎",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260314/1109557874528358400076835.png/mQg8kNVbfOlxAZTnudnJyAIyo8nowuwXgUmr9IFJq_Q?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60330511/%E6%B1%9F%E9%88%BA%E7%90%AA%E7%B5%95%E7%BE%8E%E5%AD%95%E7%85%A7%E6%9B%9D%E5%85%89%E5%9B%9D%E5%9B%9D%E9%8C%AB%E9%8C%AB%E5%AD%95%E8%82%9A%E5%A5%BD%E6%BA%AB%E9%A6%A8-%E5%8E%BB%E5%B9%B412%E6%9C%88%E5%AE%A3%E5%B8%83%E6%87%B7%E7%AC%AC%E4%BA%8C%E8%83%8E",
-    "timestamp": "2026-03-14T14:36:17.724Z",
     "strategy": ".content-card__main"
   }
 ];
