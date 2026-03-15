@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-15T10:01:01.049Z
+// Last updated: 2026-03-15T10:17:13.782Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "有片｜八鄉蓮花地建築材料倉失火　濃煙直竄天際　消防拖喉撲救",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260315/1109913678246842368261735.jpeg/TPNOwGe_-n7a8yTdKpbNEhGZKV8B2aOIPjYzUz42M1M",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60330686/%E6%9C%89%E7%89%87-%E5%85%AB%E9%84%89%E8%93%AE%E8%8A%B1%E5%9C%B0%E5%BB%BA%E7%AF%89%E6%9D%90%E6%96%99%E5%80%89%E5%A4%B1%E7%81%AB-%E6%BF%83%E7%85%99%E7%9B%B4%E7%AB%84%E5%A4%A9%E9%9A%9B-%E6%B6%88%E9%98%B2%E6%8B%96%E5%96%89%E6%92%B2%E6%95%91",
+    "timestamp": "2026-03-15T10:17:13.782Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "再多3名獲澳洲庇護伊朗女足成員決定回國　最初7人僅餘3人留當地",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20251116/1066827048120487936653792.jpeg/eS-tYOUonrCNA9yyAXlvGqGwRYPL-7bu7MopVuzKKVY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60330558/%E4%BC%8A%E6%9C%97%E5%A4%96%E9%95%B7-%E8%8B%A5%E8%A9%B2%E5%9C%8B%E8%83%BD%E6%BA%90%E8%A8%AD%E6%96%BD%E9%81%AD%E8%A5%B2-%E5%B0%87%E6%89%93%E6%93%8A%E4%B8%AD%E6%9D%B1%E5%9C%B0%E5%8D%80%E7%BE%8E%E5%9C%8B%E4%BC%81%E6%A5%AD%E4%BB%A5%E7%A4%BA%E5%9B%9E%E6%87%89",
     "timestamp": "2026-03-14T18:52:26.842Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普：冀中法等國派艦艇保霍爾木茲海峽通行　將轟炸伊朗海岸線",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260312/1108596946106322944049638.jpeg/NBIpAY7sziJtyvm2TNBIUsXTT_pugL5wc756SHO-ekg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60330553/%E7%89%B9%E6%9C%97%E6%99%AE-%E5%86%80%E4%B8%AD%E6%B3%95%E7%AD%89%E5%9C%8B%E6%B4%BE%E8%89%A6%E8%89%87%E4%BF%9D%E9%9C%8D%E7%88%BE%E6%9C%A8%E8%8C%B2%E6%B5%B7%E5%B3%BD%E9%80%9A%E8%A1%8C-%E5%B0%87%E8%BD%9F%E7%82%B8%E4%BC%8A%E6%9C%97%E6%B5%B7%E5%B2%B8%E7%B7%9A",
-    "timestamp": "2026-03-14T18:21:02.331Z",
     "strategy": ".content-card__main"
   }
 ];
