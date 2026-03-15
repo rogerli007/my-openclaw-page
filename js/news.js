@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-15T04:45:19.920Z
+// Last updated: 2026-03-15T05:26:07.052Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "跑馬地遊樂場跑步男突然暈倒　昏迷送院救治",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260315/1109837443311341568465931.jpeg/i189aZpltMSDtmAfvdGOLCB2nguscZkKHr0M0h69DNI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60330600/%E8%B7%91%E9%A6%AC%E5%9C%B0%E9%81%8A%E6%A8%82%E5%A0%B4%E8%B7%91%E6%AD%A5%E7%94%B7%E7%AA%81%E7%84%B6%E6%9A%88%E5%80%92-%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2%E6%95%91%E6%B2%BB",
+    "timestamp": "2026-03-15T05:26:07.052Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "養生變傷身？內媒揭泡腳包工人腳踩原料　銷冠產品真菌超標7000倍",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260314/1109628871658967040908546.jpeg/qhniHZXiFKdqf4a7IzkCiwF8qh_xRu35jpUcuI6VHLg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60330551/%E5%BB%89%E7%BD%B2%E6%8B%9B%E8%81%98%E9%AB%94%E9%A9%97%E6%97%A5%E5%90%B8%E5%BC%95%E5%8D%83%E4%BA%BA%E5%8F%83%E5%8A%A0-%E6%93%AC%E6%8B%9B%E5%8B%9F50%E5%90%8D%E5%BB%89%E6%94%BF%E4%B8%BB%E4%BB%BB%E5%8F%8A%E5%8A%A9%E7%90%86%E5%BB%89%E6%94%BF%E4%B8%BB%E4%BB%BB",
     "timestamp": "2026-03-14T15:49:32.235Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "塞爾維亞證實採購中國超音速導彈　總統未透露金額：有小折扣",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260314/1109598326778499072305716.jpeg/Y8z-_4567iR9Pzxg9v264ryItLAFooYyrHp3Yax6d2E?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60330534/%E5%A1%9E%E7%88%BE%E7%B6%AD%E4%BA%9E%E8%AD%89%E5%AF%A6%E6%8E%A1%E8%B3%BC%E4%B8%AD%E5%9C%8B%E8%B6%85%E9%9F%B3%E9%80%9F%E5%B0%8E%E5%BD%88-%E7%B8%BD%E7%B5%B1%E6%9C%AA%E9%80%8F%E9%9C%B2%E9%87%91%E9%A1%8D-%E6%9C%89%E5%B0%8F%E6%8A%98%E6%89%A3",
-    "timestamp": "2026-03-14T15:16:27.903Z",
     "strategy": ".content-card__main"
   }
 ];
