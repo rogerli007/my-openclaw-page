@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-15T14:19:19.815Z
+// Last updated: 2026-03-15T14:36:56.463Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "亞洲電影大獎︱章子怡自爆被逼做導演　自導自演太忙碌︰精神分裂",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260315/1109961442058047488683459.jpeg/5c2SNWL-QAO8YSaikRKWbszhKqy1uyB01r4GuNa-Brg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60330705/%E4%BA%9E%E6%B4%B2%E9%9B%BB%E5%BD%B1%E5%A4%A7%E7%8D%8E-%E7%AB%A0%E5%AD%90%E6%80%A1%E8%87%AA%E7%88%86%E8%A2%AB%E9%80%BC%E5%81%9A%E5%B0%8E%E6%BC%94-%E8%87%AA%E5%B0%8E%E8%87%AA%E6%BC%94%E5%A4%AA%E5%BF%99%E7%A2%8C-%E7%B2%BE%E7%A5%9E%E5%88%86%E8%A3%82",
+    "timestamp": "2026-03-15T14:36:56.463Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "以軍西岸擊斃巴人父母及兩兒童　稱其車輛加速駛來受威脅開火",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260315/1109732630472953856948706.jpeg/lpB7E8_JBQb_TEjjlUZ878IfLcGVjX5h3flLTt35S04?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60330567/%E8%8B%B1%E8%B6%85-%E6%9B%BC%E5%9F%8E1-1%E5%92%8C%E9%9F%8B%E6%96%AF%E5%92%B8",
     "timestamp": "2026-03-14T22:17:10.513Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "瑞士拒絕伊朗戰爭相關美國機飛越其領空　稱出於中立法考量",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20251130/1071920721388638208716098.jpeg/xwNSM-jykqmVJNRrqO223d6ZU7PLq65qZj8bAGY_GwA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60330565/%E7%91%9E%E5%A3%AB%E6%8B%92%E7%B5%95%E4%BC%8A%E6%9C%97%E6%88%B0%E7%88%AD%E7%9B%B8%E9%97%9C%E7%BE%8E%E5%9C%8B%E6%A9%9F%E9%A3%9B%E8%B6%8A%E5%85%B6%E9%A0%98%E7%A9%BA-%E7%A8%B1%E5%87%BA%E6%96%BC%E4%B8%AD%E7%AB%8B%E6%B3%95%E8%80%83%E9%87%8F",
-    "timestamp": "2026-03-14T21:16:46.887Z",
     "strategy": ".content-card__main"
   }
 ];
