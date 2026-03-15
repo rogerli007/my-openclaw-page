@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-15T19:22:39.251Z
+// Last updated: 2026-03-15T20:16:07.029Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "英超｜利物浦遭熱刺逼和1：1　升上第5位",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260316/1110039357110095872179483.jpeg/fICUYIWLjKb0NTwwV8DTXhQJwPG0ZKPBJMHGIiTBxiI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60330745/%E8%8B%B1%E8%B6%85-%E5%88%A9%E7%89%A9%E6%B5%A6%E9%81%AD%E7%86%B1%E5%88%BA%E9%80%BC%E5%92%8C1-1-%E5%8D%87%E4%B8%8A%E7%AC%AC5%E4%BD%8D",
+    "timestamp": "2026-03-15T20:16:07.029Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "英超｜利物浦遭熱刺逼和1：1　升上第5位",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260315/1109870022030790656746098.jpeg/u3h4_f5-V7olH1fhFmSNgSjqfIOhNagEPaYfWj2mH1o?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60330632/%E7%9A%84%E5%A3%AB4-1%E8%B5%B7%E9%9C%80%E6%9C%89%E8%87%B3%E5%B0%912%E7%A8%AE%E9%9B%BB%E5%AD%90%E6%94%AF%E4%BB%98%E6%89%8D%E5%8F%AF%E8%BC%89%E5%AE%A2-%E9%81%95%E4%BE%8B%E5%8F%B8%E6%A9%9F%E5%8F%AF%E8%A2%AB%E7%BD%B0-5000",
     "timestamp": "2026-03-15T08:23:48.590Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "尋秦記｜龍芳CP謝票場3分鐘售罄　古天樂不抗拒拍外傳︰可以考慮",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260315/1109850571923263488581420.jpeg/fV4KkS0_d-b7mu20z2DCXUGy31Nu9EslIQ7Z7iEO2e4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60330623/%E5%B0%8B%E7%A7%A6%E8%A8%98-%E9%BE%8D%E8%8A%B3cp%E8%AC%9D%E7%A5%A8%E5%A0%B43%E5%88%86%E9%90%98%E5%94%AE%E7%BD%84-%E5%8F%A4%E5%A4%A9%E6%A8%82%E4%B8%8D%E6%8A%97%E6%8B%92%E6%8B%8D%E5%A4%96%E5%82%B3-%E5%8F%AF%E4%BB%A5%E8%80%83%E6%85%AE",
-    "timestamp": "2026-03-15T08:01:57.526Z",
     "strategy": ".content-card__main"
   }
 ];
