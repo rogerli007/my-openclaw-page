@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-15T11:32:58.636Z
+// Last updated: 2026-03-15T11:47:51.948Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "5大生肖缺乏安全感　屬兔內心敏感細膩　要反覆確認被愛才敢去愛",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260303/1105455181585190912632708.jpeg/r9joIMxEiMAbphpa9Hlsttr__enCaI9uvFGHgLxRh4A?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%AB%87%E6%83%85%E8%AA%AA%E6%80%A7/60326743/5%E5%A4%A7%E7%94%9F%E8%82%96%E7%BC%BA%E4%B9%8F%E5%AE%89%E5%85%A8%E6%84%9F-%E5%B1%AC%E5%85%94%E5%85%A7%E5%BF%83%E6%95%8F%E6%84%9F%E7%B4%B0%E8%86%A9-%E8%A6%81%E5%8F%8D%E8%A6%86%E7%A2%BA%E8%AA%8D%E8%A2%AB%E6%84%9B%E6%89%8D%E6%95%A2%E5%8E%BB%E6%84%9B",
+    "timestamp": "2026-03-15T11:47:51.948Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "中東局勢油價升｜順豐速運3.16起港澳本地件收燃油附加費　每票$1",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260315/1109682872085647360032187.jpeg/hCbZdjlsHrJ58XhvNClBnO6EkuqfyZpxMmETKzJhEys?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60330560/%E5%B9%AB%E6%89%8B%E6%90%B5%E4%BA%BA-%E5%A4%A7%E5%9F%9468%E6%AD%B2%E5%8A%89%E5%BB%BA%E5%B9%AB%E7%96%91%E8%A1%8C%E5%B1%B1%E8%BF%B7%E8%B7%AF-%E5%85%92%E5%AD%90%E5%91%BC%E7%B1%B2%E5%B0%8B%E4%BA%BA",
     "timestamp": "2026-03-14T19:34:29.909Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "幫手搵人︱大埔68歲劉建幫疑上山迷路　兒子呼籲尋人",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260315/1109682872085647360032187.jpeg/hCbZdjlsHrJ58XhvNClBnO6EkuqfyZpxMmETKzJhEys?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60330560/%E5%B9%AB%E6%89%8B%E6%90%B5%E4%BA%BA-%E5%A4%A7%E5%9F%9468%E6%AD%B2%E5%8A%89%E5%BB%BA%E5%B9%AB%E7%96%91%E4%B8%8A%E5%B1%B1%E8%BF%B7%E8%B7%AF-%E5%85%92%E5%AD%90%E5%91%BC%E7%B1%B2%E5%B0%8B%E4%BA%BA",
-    "timestamp": "2026-03-14T19:17:52.846Z",
     "strategy": ".content-card__main"
   }
 ];
