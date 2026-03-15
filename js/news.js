@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-15T11:47:51.948Z
+// Last updated: 2026-03-15T12:21:39.444Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "東莞艦硬核性能：萬發炮攔截對敵來襲導彈　雙機庫搭載更多艦載機",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260315/1109910739407081472746205.png/GfBmVKyHT2-QbdP5q2sNtpDk4sz7ZhPl6vdPxur3T8Y?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60330681/%E6%9D%B1%E8%8E%9E%E8%89%A6%E7%A1%AC%E6%A0%B8%E6%80%A7%E8%83%BD-%E8%90%AC%E7%99%BC%E7%82%AE%E6%94%94%E6%88%AA%E5%B0%8D%E6%95%B5%E4%BE%86%E8%A5%B2%E5%B0%8E%E5%BD%88-%E9%9B%99%E6%A9%9F%E5%BA%AB%E6%90%AD%E8%BC%89%E6%9B%B4%E5%A4%9A%E8%89%A6%E8%BC%89%E6%A9%9F",
+    "timestamp": "2026-03-15T12:21:39.444Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "5大生肖缺乏安全感　屬兔內心敏感細膩　要反覆確認被愛才敢去愛",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260315/1109697762284277760675023.jpeg/0Sq6mUlkCJekfPynryhkoIW1eXoUcuhZpmj6F6Zo-hc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60330563/%E8%8B%B1%E8%B6%85-%E8%BB%8A%E8%B7%AF%E5%A3%AB0-1%E4%B8%8D%E6%95%B5%E7%B4%90%E5%8D%A1%E7%B4%A0-%E9%98%BF%E4%BB%99%E5%A5%B42-0%E5%8B%9D%E6%84%9B%E8%8F%AF%E9%A0%93",
     "timestamp": "2026-03-14T19:59:41.939Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "幫手搵人︱大埔68歲劉建幫疑行山迷路　兒子呼籲尋人",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260315/1109682872085647360032187.jpeg/hCbZdjlsHrJ58XhvNClBnO6EkuqfyZpxMmETKzJhEys?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60330560/%E5%B9%AB%E6%89%8B%E6%90%B5%E4%BA%BA-%E5%A4%A7%E5%9F%9468%E6%AD%B2%E5%8A%89%E5%BB%BA%E5%B9%AB%E7%96%91%E8%A1%8C%E5%B1%B1%E8%BF%B7%E8%B7%AF-%E5%85%92%E5%AD%90%E5%91%BC%E7%B1%B2%E5%B0%8B%E4%BA%BA",
-    "timestamp": "2026-03-14T19:34:29.909Z",
     "strategy": ".content-card__main"
   }
 ];
