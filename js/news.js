@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-15T17:33:55.303Z
+// Last updated: 2026-03-15T17:50:25.240Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "一小時內兩宗巴士乘客跌落樓梯受傷意外　其中元朗女乘客昏迷送院",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20251106/1063042244291858432340629.jpeg/aMj2of-ICC-yi2-NxBB__la3u0MOGdrSOObWCjjm1go?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60330742/%E4%B8%80%E5%B0%8F%E6%99%82%E5%85%A7%E5%85%A9%E5%AE%97%E5%B7%B4%E5%A3%AB%E4%B9%98%E5%AE%A2%E8%B7%8C%E8%90%BD%E6%A8%93%E6%A2%AF%E5%8F%97%E5%82%B7%E6%84%8F%E5%A4%96-%E5%85%B6%E4%B8%AD%E5%85%83%E6%9C%97%E5%A5%B3%E4%B9%98%E5%AE%A2%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2",
+    "timestamp": "2026-03-15T17:50:25.240Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "港鐵荃灣線新信號系統啟用　荃灣往中環深夜出現17分一班車",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260312/1108800118540210176701463.jpeg/7-a9ysYOi5BI7IeMvuJy8Y2sy_77PhLRkzOLYZMzi2E?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60330575/%E4%BC%8A%E6%9C%97%E6%88%B0%E7%88%AD-%E8%B7%AF%E9%80%8F%E7%A4%BE-%E4%B8%AD%E6%9D%B1%E7%9B%9F%E5%8F%8B%E5%98%97%E8%A9%A6%E6%96%A1%E6%97%8B%E8%AB%87%E5%88%A4-%E9%81%AD%E7%89%B9%E6%9C%97%E6%99%AE%E6%8B%92%E7%B5%95",
     "timestamp": "2026-03-15T00:59:37.112Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普：美國或再襲伊朗哈爾克島　尚未準備好與伊達成協議",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260310/1107932190311845888923816.jpeg/7THN0nj64TWYtLLwrMuVJYVfQGLnLM2ePiAW8D4gFvA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60330570/%E7%89%B9%E6%9C%97%E6%99%AE-%E7%BE%8E%E5%9C%8B%E6%88%96%E5%86%8D%E8%A5%B2%E4%BC%8A%E6%9C%97%E5%93%88%E7%88%BE%E5%85%8B%E5%B3%B6-%E5%B0%9A%E6%9C%AA%E6%BA%96%E5%82%99%E5%A5%BD%E8%88%87%E4%BC%8A%E9%81%94%E6%88%90%E5%8D%94%E8%AD%B0",
-    "timestamp": "2026-03-14T23:53:24.520Z",
     "strategy": ".content-card__main"
   }
 ];
