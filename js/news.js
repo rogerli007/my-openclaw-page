@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-15T17:50:25.240Z
+// Last updated: 2026-03-15T18:19:06.886Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "伊朗局勢｜IEA：石油儲備將立即投放亞太市場　歐美3月底",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20241017/923642874812174336564730.jpeg/Cr6TohRkz4pfqfQv7jRHs5pdAyz7naB6muLEn5rixJ8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60330743/%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8B%A2-iea-%E7%9F%B3%E6%B2%B9%E5%84%B2%E5%82%99%E5%B0%87%E7%AB%8B%E5%8D%B3%E6%8A%95%E6%94%BE%E4%BA%9E%E5%A4%AA%E5%B8%82%E5%A0%B4-%E6%AD%90%E7%BE%8E3%E6%9C%88%E5%BA%95",
+    "timestamp": "2026-03-15T18:19:06.886Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "一小時內兩宗巴士乘客跌落樓梯受傷意外　其中元朗女乘客昏迷送院",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260315/1109801727437049856982576.jpeg/8Am73ra09OboyH3gg32yR-RoCZk3AdUdSHQPZkh0D2Y?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60330580/%E9%A4%8A%E7%94%9F%E8%AE%8A%E5%82%B7%E8%BA%AB-%E5%85%A7%E5%AA%92%E6%8F%AD%E6%B3%A1%E8%85%B3%E5%8C%85%E5%B7%A5%E4%BA%BA%E8%85%B3%E8%B8%A9%E5%8E%9F%E6%96%99-%E9%8A%B7%E5%86%A0%E7%94%A2%E5%93%81%E7%9C%9F%E8%8F%8C%E8%B6%85%E6%A8%997000%E5%80%8D",
     "timestamp": "2026-03-15T04:45:19.920Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "伊朗戰爭｜路透社：中東盟友嘗試斡旋談判　遭特朗普拒絕",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260312/1108800118540210176701463.jpeg/7-a9ysYOi5BI7IeMvuJy8Y2sy_77PhLRkzOLYZMzi2E?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60330575/%E4%BC%8A%E6%9C%97%E6%88%B0%E7%88%AD-%E8%B7%AF%E9%80%8F%E7%A4%BE-%E4%B8%AD%E6%9D%B1%E7%9B%9F%E5%8F%8B%E5%98%97%E8%A9%A6%E6%96%A1%E6%97%8B%E8%AB%87%E5%88%A4-%E9%81%AD%E7%89%B9%E6%9C%97%E6%99%AE%E6%8B%92%E7%B5%95",
-    "timestamp": "2026-03-15T00:59:37.112Z",
     "strategy": ".content-card__main"
   }
 ];
