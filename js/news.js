@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-15T12:21:39.444Z
+// Last updated: 2026-03-15T13:29:52.148Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "油麻地上海街32歲尼泊爾男暈倒房內　友人揭發報案惜返魂乏術",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260206/1096501181242413056723495.jpeg/ftxkRaaq73gBNDyV-acFKDpGrSY8XqHMYIxvZWCMb2U?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60330709/%E6%B2%B9%E9%BA%BB%E5%9C%B0%E4%B8%8A%E6%B5%B7%E8%A1%9732%E6%AD%B2%E5%B0%BC%E6%B3%8A%E7%88%BE%E7%94%B7%E6%9A%88%E5%80%92%E6%88%BF%E5%85%A7-%E5%8F%8B%E4%BA%BA%E6%8F%AD%E7%99%BC%E5%A0%B1%E6%A1%88%E6%83%9C%E8%BF%94%E9%AD%82%E4%B9%8F%E8%A1%93",
+    "timestamp": "2026-03-15T13:29:52.148Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "東莞艦硬核性能：萬發炮攔截對敵來襲導彈　雙機庫搭載更多艦載機",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260315/1109697762284277760675023.jpeg/0Sq6mUlkCJekfPynryhkoIW1eXoUcuhZpmj6F6Zo-hc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60330563/%E8%8B%B1%E8%B6%85-%E8%BB%8A%E8%B7%AF%E5%A3%AB0-1%E4%B8%8D%E6%95%B5%E7%B4%90%E5%8D%A1%E7%B4%A0-%E9%98%BF%E4%BB%99%E5%A5%B42-0%E5%8B%9D%E6%84%9B%E8%8F%AF%E9%A0%93",
     "timestamp": "2026-03-14T20:30:52.691Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "英超｜車路士0:1不敵紐卡素　阿仙奴2:0勝愛華頓",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260315/1109697762284277760675023.jpeg/0Sq6mUlkCJekfPynryhkoIW1eXoUcuhZpmj6F6Zo-hc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60330563/%E8%8B%B1%E8%B6%85-%E8%BB%8A%E8%B7%AF%E5%A3%AB0-1%E4%B8%8D%E6%95%B5%E7%B4%90%E5%8D%A1%E7%B4%A0-%E9%98%BF%E4%BB%99%E5%A5%B42-0%E5%8B%9D%E6%84%9B%E8%8F%AF%E9%A0%93",
-    "timestamp": "2026-03-14T19:59:41.939Z",
     "strategy": ".content-card__main"
   }
 ];
