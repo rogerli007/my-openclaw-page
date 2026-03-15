@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-15T22:16:18.585Z
+// Last updated: 2026-03-15T23:18:57.301Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "鄰居比特犬撲出咬面不放　老婦頭面重創留血路　丈夫爆心寒內情",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260314/1109562093981405184602317.jpeg/1IBQ1wLXeiTx0TrnvSAbZKJgeFaFhp-nB-KjVgfio1Y?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E8%A9%B1%E9%A1%8C/60330494/%E9%84%B0%E5%B1%85%E6%AF%94%E7%89%B9%E7%8A%AC%E6%92%B2%E5%87%BA%E5%92%AC%E9%9D%A2%E4%B8%8D%E6%94%BE-%E8%80%81%E5%A9%A6%E9%A0%AD%E9%9D%A2%E9%87%8D%E5%89%B5%E7%95%99%E8%A1%80%E8%B7%AF-%E4%B8%88%E5%A4%AB%E7%88%86%E5%BF%83%E5%AF%92%E5%85%A7%E6%83%85",
+    "timestamp": "2026-03-15T23:18:57.301Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "新盤熱賣帶動氣氛　十大屋苑周末成交重回雙位數　按周升83%",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260315/1109910739407081472746205.png/GfBmVKyHT2-QbdP5q2sNtpDk4sz7ZhPl6vdPxur3T8Y?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60330681/%E6%9D%B1%E8%8E%9E%E8%89%A6%E7%A1%AC%E6%A0%B8%E6%80%A7%E8%83%BD-%E8%90%AC%E7%99%BC%E7%82%AE%E6%94%94%E6%88%AA%E5%B0%8D%E6%95%B5%E4%BE%86%E8%A5%B2%E5%B0%8E%E5%BD%88-%E9%9B%99%E6%A9%9F%E5%BA%AB%E6%90%AD%E8%BC%89%E6%9B%B4%E5%A4%9A%E8%89%A6%E8%BC%89%E6%A9%9F",
     "timestamp": "2026-03-15T12:21:39.444Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "5大生肖缺乏安全感　屬兔內心敏感細膩　要反覆確認被愛才敢去愛",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260303/1105455181585190912632708.jpeg/r9joIMxEiMAbphpa9Hlsttr__enCaI9uvFGHgLxRh4A?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%AB%87%E6%83%85%E8%AA%AA%E6%80%A7/60326743/5%E5%A4%A7%E7%94%9F%E8%82%96%E7%BC%BA%E4%B9%8F%E5%AE%89%E5%85%A8%E6%84%9F-%E5%B1%AC%E5%85%94%E5%85%A7%E5%BF%83%E6%95%8F%E6%84%9F%E7%B4%B0%E8%86%A9-%E8%A6%81%E5%8F%8D%E8%A6%86%E7%A2%BA%E8%AA%8D%E8%A2%AB%E6%84%9B%E6%89%8D%E6%95%A2%E5%8E%BB%E6%84%9B",
-    "timestamp": "2026-03-15T11:47:51.948Z",
     "strategy": ".content-card__main"
   }
 ];
