@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-15T21:35:18.385Z
+// Last updated: 2026-03-15T21:49:10.278Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "中美代表巴黎新一輪經貿會談　首日舉行逾6小時後結束",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260316/1110067889169240064037258.jpeg/GQdW4mFvurdG8vNnFPMR7QbNrMfiBfsLnNx2O5zcdjs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60330751/%E4%B8%AD%E7%BE%8E%E4%BB%A3%E8%A1%A8%E5%B7%B4%E9%BB%8E%E6%96%B0%E4%B8%80%E8%BC%AA%E7%B6%93%E8%B2%BF%E6%9C%83%E8%AB%87-%E9%A6%96%E6%97%A5%E8%88%89%E8%A1%8C%E9%80%BE6%E5%B0%8F%E6%99%82%E5%BE%8C%E7%B5%90%E6%9D%9F",
+    "timestamp": "2026-03-15T21:49:10.278Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "中美代表巴黎新一輪經貿會談　首日舉行逾6小時後結束",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250702/1017120817714040832267954.jpeg/R0mVF9XGFX00p3kpIv-kQ9S-H8HXKFzfWXnmmFl55pg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60330695/%E4%B8%AD%E6%9D%B1%E5%B1%80%E5%8B%A2%E6%B2%B9%E5%83%B9%E5%8D%87-%E9%A0%86%E8%B1%90%E9%80%9F%E9%81%8B3-16%E8%B5%B7%E6%B8%AF%E6%BE%B3%E6%9C%AC%E5%9C%B0%E4%BB%B6%E6%94%B6%E7%87%83%E6%B2%B9%E9%99%84%E5%8A%A0%E8%B2%BB-%E6%AF%8F%E7%A5%A8-1",
     "timestamp": "2026-03-15T11:32:58.636Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "有片｜八鄉蓮花地建築材料倉失火　濃煙直竄天際　消防拖喉撲救",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260315/1109913678246842368261735.jpeg/TPNOwGe_-n7a8yTdKpbNEhGZKV8B2aOIPjYzUz42M1M",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60330686/%E6%9C%89%E7%89%87-%E5%85%AB%E9%84%89%E8%93%AE%E8%8A%B1%E5%9C%B0%E5%BB%BA%E7%AF%89%E6%9D%90%E6%96%99%E5%80%89%E5%A4%B1%E7%81%AB-%E6%BF%83%E7%85%99%E7%9B%B4%E7%AB%84%E5%A4%A9%E9%9A%9B-%E6%B6%88%E9%98%B2%E6%8B%96%E5%96%89%E6%92%B2%E6%95%91",
-    "timestamp": "2026-03-15T10:17:13.782Z",
     "strategy": ".content-card__main"
   }
 ];
