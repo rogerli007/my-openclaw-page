@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-15T15:51:15.393Z
+// Last updated: 2026-03-15T17:33:55.303Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "港鐵荃灣線新信號系統啟用　荃灣往中環深夜出現17分一班車",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260316/1110013194908209152875942.jpeg/EIqlWI2jk3mx98tYEJLYfngnID7iC471tu8ooLbvKKA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60330739/%E6%B8%AF%E9%90%B5%E8%8D%83%E7%81%A3%E7%B7%9A%E6%96%B0%E4%BF%A1%E8%99%9F%E7%B3%BB%E7%B5%B1%E5%95%9F%E7%94%A8-%E8%8D%83%E7%81%A3%E5%BE%80%E4%B8%AD%E7%92%B0%E6%B7%B1%E5%A4%9C%E5%87%BA%E7%8F%BE17%E5%88%86%E4%B8%80%E7%8F%AD%E8%BB%8A",
+    "timestamp": "2026-03-15T17:33:55.303Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "七師傅爆張致恒應急錢達6位數　雯雯發文斥︰有幾想我哋一家死",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260310/1107932190311845888923816.jpeg/7THN0nj64TWYtLLwrMuVJYVfQGLnLM2ePiAW8D4gFvA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60330570/%E7%89%B9%E6%9C%97%E6%99%AE-%E7%BE%8E%E5%9C%8B%E6%88%96%E5%86%8D%E8%A5%B2%E4%BC%8A%E6%9C%97%E5%93%88%E7%88%BE%E5%85%8B%E5%B3%B6-%E5%B0%9A%E6%9C%AA%E6%BA%96%E5%82%99%E5%A5%BD%E8%88%87%E4%BC%8A%E9%81%94%E6%88%90%E5%8D%94%E8%AD%B0",
     "timestamp": "2026-03-14T23:53:24.520Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "有片│半裸女邊隨地便溺邊激吻！後續1舉動更狂　仙氣美貌反成焦點",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260312/1108829808072069120215403.jpeg/7ljuxyAYV9XYsnV4XbmlTEUZ1q2BcRjFT3eE5k93hOY",
-    "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E8%A9%B1%E9%A1%8C/60326741/%E6%9C%89%E7%89%87-%E5%8D%8A%E8%A3%B8%E5%A5%B3%E9%82%8A%E9%9A%A8%E5%9C%B0%E4%BE%BF%E6%BA%BA%E9%82%8A%E6%BF%80%E5%90%BB-%E5%BE%8C%E7%BA%8C1%E8%88%89%E5%8B%95%E6%9B%B4%E7%8B%82-%E4%BB%99%E6%B0%A3%E7%BE%8E%E8%B2%8C%E5%8F%8D%E6%88%90%E7%84%A6%E9%BB%9E",
-    "timestamp": "2026-03-14T23:32:27.997Z",
     "strategy": ".content-card__main"
   }
 ];
