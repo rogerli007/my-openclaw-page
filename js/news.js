@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-15T08:01:57.526Z
+// Last updated: 2026-03-15T08:23:48.590Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "的士4.1起需有至少2種電子支付才可載客　違例司機可被罰$5000",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260315/1109870022030790656746098.jpeg/u3h4_f5-V7olH1fhFmSNgSjqfIOhNagEPaYfWj2mH1o?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60330632/%E7%9A%84%E5%A3%AB4-1%E8%B5%B7%E9%9C%80%E6%9C%89%E8%87%B3%E5%B0%912%E7%A8%AE%E9%9B%BB%E5%AD%90%E6%94%AF%E4%BB%98%E6%89%8D%E5%8F%AF%E8%BC%89%E5%AE%A2-%E9%81%95%E4%BE%8B%E5%8F%B8%E6%A9%9F%E5%8F%AF%E8%A2%AB%E7%BD%B0-5000",
+    "timestamp": "2026-03-15T08:23:48.590Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "尋秦記｜龍芳CP謝票場3分鐘售罄　古天樂不抗拒拍外傳︰可以考慮",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260313/1109097458836705280792105.jpeg/y96VmDNQPCnPAY_s-kYDZ99MFarkupETRnzoLEZ86Cw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%B6%B2%E7%A7%913.0/60330159/ai%E8%BD%89%E5%9E%8B%E7%9A%84%E5%8D%81%E5%AD%97%E8%B7%AF%E5%8F%A3-cxo%E7%9A%84%E6%88%B0%E7%95%A5%E6%8A%89%E6%93%87%E8%88%87%E8%90%BD%E5%9C%B0%E8%B7%AF%E5%BE%91-%E8%98%87%E4%BB%B2%E6%88%90",
     "timestamp": "2026-03-14T17:00:58.348Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "AI轉型的十字路口：CXO的戰略抉擇與落地路徑｜蘇仲成",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260313/1109097458836705280792105.jpeg/y96VmDNQPCnPAY_s-kYDZ99MFarkupETRnzoLEZ86Cw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%B6%B2%E7%A7%913.0/60330159/ai%E8%BD%89%E5%9E%8B%E7%9A%84%E5%8D%81%E5%AD%97%E8%B7%AF%E5%8F%A3-cxo%E7%9A%84%E6%88%B0%E7%95%A5%E6%8A%89%E6%93%87%E8%88%87%E8%90%BD%E5%9C%B0%E8%B7%AF%E5%BE%91-%E8%98%87%E4%BB%B2%E6%88%90",
-    "timestamp": "2026-03-14T16:36:52.619Z",
     "strategy": ".content-card__main"
   }
 ];
