@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-15T18:19:06.886Z
+// Last updated: 2026-03-15T18:40:56.961Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "英超｜利物浦遭熱刺逼和1：1　升上第5位",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260316/1110039357110095872179483.jpeg/fICUYIWLjKb0NTwwV8DTXhQJwPG0ZKPBJMHGIiTBxiI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60330745/%E8%8B%B1%E8%B6%85-%E5%88%A9%E7%89%A9%E6%B5%A6%E9%81%AD%E7%86%B1%E5%88%BA%E9%80%BC%E5%92%8C1-1-%E5%8D%87%E4%B8%8A%E7%AC%AC5%E4%BD%8D",
+    "timestamp": "2026-03-15T18:40:56.961Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "伊朗局勢｜IEA：石油儲備將立即投放亞太市場　歐美3月底",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260315/1109837443311341568465931.jpeg/i189aZpltMSDtmAfvdGOLCB2nguscZkKHr0M0h69DNI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60330600/%E8%B7%91%E9%A6%AC%E5%9C%B0%E9%81%8A%E6%A8%82%E5%A0%B4%E8%B7%91%E6%AD%A5%E7%94%B7%E7%AA%81%E7%84%B6%E6%9A%88%E5%80%92-%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2%E6%95%91%E6%B2%BB",
     "timestamp": "2026-03-15T05:26:07.052Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "養生變傷身？內媒揭泡腳包工人腳踩原料　銷冠產品真菌超標7000倍",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260315/1109801727437049856982576.jpeg/8Am73ra09OboyH3gg32yR-RoCZk3AdUdSHQPZkh0D2Y?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60330580/%E9%A4%8A%E7%94%9F%E8%AE%8A%E5%82%B7%E8%BA%AB-%E5%85%A7%E5%AA%92%E6%8F%AD%E6%B3%A1%E8%85%B3%E5%8C%85%E5%B7%A5%E4%BA%BA%E8%85%B3%E8%B8%A9%E5%8E%9F%E6%96%99-%E9%8A%B7%E5%86%A0%E7%94%A2%E5%93%81%E7%9C%9F%E8%8F%8C%E8%B6%85%E6%A8%997000%E5%80%8D",
-    "timestamp": "2026-03-15T04:45:19.920Z",
     "strategy": ".content-card__main"
   }
 ];
