@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-15T09:38:41.382Z
+// Last updated: 2026-03-15T10:01:01.049Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "再多3名獲澳洲庇護伊朗女足成員決定回國　最初7人僅餘3人留當地",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260315/1109903596436066304238051.jpeg/jsF_IuleNU_1ssidTXZrA9AFVtgWbdvhldQfWZXUH1k?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60330671/%E5%86%8D%E5%A4%9A3%E5%90%8D%E7%8D%B2%E6%BE%B3%E6%B4%B2%E5%BA%87%E8%AD%B7%E4%BC%8A%E6%9C%97%E5%A5%B3%E8%B6%B3%E6%88%90%E5%93%A1%E6%B1%BA%E5%AE%9A%E5%9B%9E%E5%9C%8B-%E6%9C%80%E5%88%9D7%E4%BA%BA%E5%83%85%E9%A4%983%E4%BA%BA%E7%95%99%E7%95%B6%E5%9C%B0",
+    "timestamp": "2026-03-15T10:01:01.049Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "再多3名獲澳洲庇護伊朗女足成員決定回國　最初7人僅餘3人留當地",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260312/1108596946106322944049638.jpeg/NBIpAY7sziJtyvm2TNBIUsXTT_pugL5wc756SHO-ekg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60330553/%E7%89%B9%E6%9C%97%E6%99%AE-%E5%86%80%E4%B8%AD%E6%B3%95%E7%AD%89%E5%9C%8B%E6%B4%BE%E8%89%A6%E8%89%87%E4%BF%9D%E9%9C%8D%E7%88%BE%E6%9C%A8%E8%8C%B2%E6%B5%B7%E5%B3%BD%E9%80%9A%E8%A1%8C-%E5%B0%87%E8%BD%9F%E7%82%B8%E4%BC%8A%E6%9C%97%E6%B5%B7%E5%B2%B8%E7%B7%9A",
     "timestamp": "2026-03-14T18:21:02.331Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普：冀中法等國派艦艇保霍爾木茲海峽通行　將轟炸伊朗海岸線",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260312/1108596946106322944049638.jpeg/NBIpAY7sziJtyvm2TNBIUsXTT_pugL5wc756SHO-ekg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60330553/%E7%89%B9%E6%9C%97%E6%99%AE-%E5%86%80%E4%B8%AD%E6%B3%95%E7%AD%89%E5%9C%8B%E6%B4%BE%E8%89%A6%E8%89%87%E4%BF%9D%E9%9C%8D%E7%88%BE%E6%9C%A8%E8%8C%B2%E6%B5%B7%E5%B3%BD%E9%80%9A%E8%A1%8C-%E5%B0%87%E8%BD%9F%E7%82%B8%E4%BC%8A%E6%9C%97%E6%B5%B7%E5%B2%B8%E7%B7%9A",
-    "timestamp": "2026-03-14T18:01:17.069Z",
     "strategy": ".content-card__main"
   }
 ];
