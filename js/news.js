@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-15T14:36:56.463Z
+// Last updated: 2026-03-15T15:51:15.393Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "七師傅爆張致恒應急錢達6位數　雯雯發文斥︰有幾想我哋一家死",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260315/1109969861703897088250648.jpeg/1K94SO3jHa5RUwFnrSFPNJrcmcyiUpG2GVNqJhlTaiY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60330712/%E4%B8%83%E5%B8%AB%E5%82%85%E7%88%86%E5%BC%B5%E8%87%B4%E6%81%92%E6%87%89%E6%80%A5%E9%8C%A2%E9%81%946%E4%BD%8D%E6%95%B8-%E9%9B%AF%E9%9B%AF%E7%99%BC%E6%96%87%E6%96%A5-%E6%9C%89%E5%B9%BE%E6%83%B3%E6%88%91%E5%93%8B%E4%B8%80%E5%AE%B6%E6%AD%BB",
+    "timestamp": "2026-03-15T15:51:15.393Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "亞洲電影大獎︱章子怡自爆被逼做導演　自導自演太忙碌︰精神分裂",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260312/1108829808072069120215403.jpeg/7ljuxyAYV9XYsnV4XbmlTEUZ1q2BcRjFT3eE5k93hOY",
     "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E8%A9%B1%E9%A1%8C/60326741/%E6%9C%89%E7%89%87-%E5%8D%8A%E8%A3%B8%E5%A5%B3%E9%82%8A%E9%9A%A8%E5%9C%B0%E4%BE%BF%E6%BA%BA%E9%82%8A%E6%BF%80%E5%90%BB-%E5%BE%8C%E7%BA%8C1%E8%88%89%E5%8B%95%E6%9B%B4%E7%8B%82-%E4%BB%99%E6%B0%A3%E7%BE%8E%E8%B2%8C%E5%8F%8D%E6%88%90%E7%84%A6%E9%BB%9E",
     "timestamp": "2026-03-14T23:32:27.997Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "英超｜曼城1:1和韋斯咸",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260315/1109732630472953856948706.jpeg/lpB7E8_JBQb_TEjjlUZ878IfLcGVjX5h3flLTt35S04?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60330567/%E8%8B%B1%E8%B6%85-%E6%9B%BC%E5%9F%8E1-1%E5%92%8C%E9%9F%8B%E6%96%AF%E5%92%B8",
-    "timestamp": "2026-03-14T22:17:10.513Z",
     "strategy": ".content-card__main"
   }
 ];
