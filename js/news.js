@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-15T05:26:07.052Z
+// Last updated: 2026-03-15T06:35:06.866Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "向佐突然失控飛踢主持人頭部影片被瘋傳　網民批：沒品沒德沒教養",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260315/1109854029648760832460715.jpeg/I8elsyReT-otdj09hHx5j2McpbiGYrn1xWXfUcVl31E?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60330619/%E5%90%91%E4%BD%90%E7%AA%81%E7%84%B6%E5%A4%B1%E6%8E%A7%E9%A3%9B%E8%B8%A2%E4%B8%BB%E6%8C%81%E4%BA%BA%E9%A0%AD%E9%83%A8%E5%BD%B1%E7%89%87%E8%A2%AB%E7%98%8B%E5%82%B3-%E7%B6%B2%E6%B0%91%E6%89%B9-%E6%B2%92%E5%93%81%E6%B2%92%E5%BE%B7%E6%B2%92%E6%95%99%E9%A4%8A",
+    "timestamp": "2026-03-15T06:35:06.866Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "跑馬地遊樂場跑步男突然暈倒　昏迷送院救治",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260303/1105299213161467904706854.jpeg/Pw56UJ5_MxrCFwGjo5ikkhsOspTzLjTNLFUQMyxVEDM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60330549/%E4%BB%A5%E8%89%B2%E5%88%97%E9%BB%8E%E5%B7%B4%E5%AB%A9%E6%96%99%E8%88%89%E8%A1%8C%E4%BC%8A%E6%9C%97%E6%88%B0%E7%88%AD%E5%BE%8C%E9%A6%96%E6%AC%A1%E7%9B%B4%E6%8E%A5%E6%9C%83%E8%AB%87-%E5%A1%9E%E6%B5%A6%E8%B7%AF%E6%96%AF%E6%88%96%E5%B7%B4%E9%BB%8E%E9%80%B2%E8%A1%8C",
     "timestamp": "2026-03-14T16:01:34.582Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "廉署招聘體驗日吸引千人參加　擬招募50名廉政主任及助理廉政主任",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260314/1109628871658967040908546.jpeg/qhniHZXiFKdqf4a7IzkCiwF8qh_xRu35jpUcuI6VHLg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60330551/%E5%BB%89%E7%BD%B2%E6%8B%9B%E8%81%98%E9%AB%94%E9%A9%97%E6%97%A5%E5%90%B8%E5%BC%95%E5%8D%83%E4%BA%BA%E5%8F%83%E5%8A%A0-%E6%93%AC%E6%8B%9B%E5%8B%9F50%E5%90%8D%E5%BB%89%E6%94%BF%E4%B8%BB%E4%BB%BB%E5%8F%8A%E5%8A%A9%E7%90%86%E5%BB%89%E6%94%BF%E4%B8%BB%E4%BB%BB",
-    "timestamp": "2026-03-14T15:49:32.235Z",
     "strategy": ".content-card__main"
   }
 ];
