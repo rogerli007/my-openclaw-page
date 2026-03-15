@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-15T08:23:48.590Z
+// Last updated: 2026-03-15T09:22:23.689Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "「深．啡」咖啡節第二日攤檔排長龍　咖啡迷：靠近海邊氣氛更寫意",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260315/1109895134557769728420695.jpeg/38AegRjU_2oby7m0919W5O5L2-Wk13nEi08KBK5PCgQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60330668/%E6%B7%B1-%E5%95%A1-%E5%92%96%E5%95%A1%E7%AF%80%E7%AC%AC%E4%BA%8C%E6%97%A5%E6%94%A4%E6%AA%94%E6%8E%92%E9%95%B7%E9%BE%8D-%E5%92%96%E5%95%A1%E8%BF%B7-%E9%9D%A0%E8%BF%91%E6%B5%B7%E9%82%8A%E6%B0%A3%E6%B0%9B%E6%9B%B4%E5%AF%AB%E6%84%8F",
+    "timestamp": "2026-03-15T09:22:23.689Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "的士4.1起需有至少2種電子支付才可載客　違例司機可被罰$5000",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260312/1108596946106322944049638.jpeg/NBIpAY7sziJtyvm2TNBIUsXTT_pugL5wc756SHO-ekg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60330553/%E7%89%B9%E6%9C%97%E6%99%AE-%E5%86%80%E4%B8%AD%E6%B3%95%E7%AD%89%E5%9C%8B%E6%B4%BE%E8%89%A6%E8%89%87%E4%BF%9D%E9%9C%8D%E7%88%BE%E6%9C%A8%E8%8C%B2%E6%B5%B7%E5%B3%BD%E9%80%9A%E8%A1%8C-%E5%B0%87%E8%BD%9F%E7%82%B8%E4%BC%8A%E6%9C%97%E6%B5%B7%E5%B2%B8%E7%B7%9A",
     "timestamp": "2026-03-14T17:17:39.782Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "AI轉型的十字路口：CXO的戰略抉擇與落地路徑｜蘇仲成",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260313/1109097458836705280792105.jpeg/y96VmDNQPCnPAY_s-kYDZ99MFarkupETRnzoLEZ86Cw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%B6%B2%E7%A7%913.0/60330159/ai%E8%BD%89%E5%9E%8B%E7%9A%84%E5%8D%81%E5%AD%97%E8%B7%AF%E5%8F%A3-cxo%E7%9A%84%E6%88%B0%E7%95%A5%E6%8A%89%E6%93%87%E8%88%87%E8%90%BD%E5%9C%B0%E8%B7%AF%E5%BE%91-%E8%98%87%E4%BB%B2%E6%88%90",
-    "timestamp": "2026-03-14T17:00:58.348Z",
     "strategy": ".content-card__main"
   }
 ];
