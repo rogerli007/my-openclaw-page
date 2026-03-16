@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-16T12:05:39.398Z
+// Last updated: 2026-03-16T12:40:19.045Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "紅麻辣燙劉文祥遭踢爆：鴨肉扮豬牛月銷數千單　官方終認錯整改",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260316/1110305223949160448985146.jpeg/mqmVL9xywC_Cb_SZrC33J--gAfOtaVtIXXT341109-M?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60331095/%E7%B4%85%E9%BA%BB%E8%BE%A3%E7%87%99%E5%8A%89%E6%96%87%E7%A5%A5%E9%81%AD%E8%B8%A2%E7%88%86-%E9%B4%A8%E8%82%89%E6%89%AE%E8%B1%AC%E7%89%9B%E6%9C%88%E9%8A%B7%E6%95%B8%E5%8D%83%E5%96%AE-%E5%AE%98%E6%96%B9%E7%B5%82%E8%AA%8D%E9%8C%AF%E6%95%B4%E6%94%B9",
+    "timestamp": "2026-03-16T12:40:19.045Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "中國軍隊正補齊兩大戰略裝備短板",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260316/1110039357110095872179483.jpeg/fICUYIWLjKb0NTwwV8DTXhQJwPG0ZKPBJMHGIiTBxiI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60330745/%E8%8B%B1%E8%B6%85-%E5%88%A9%E7%89%A9%E6%B5%A6%E9%81%AD%E7%86%B1%E5%88%BA%E9%80%BC%E5%92%8C1-1-%E5%8D%87%E4%B8%8A%E7%AC%AC5%E4%BD%8D",
     "timestamp": "2026-03-15T19:07:16.151Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "英超｜利物浦遭熱刺逼和1：1　升上第5位",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260316/1110039357110095872179483.jpeg/fICUYIWLjKb0NTwwV8DTXhQJwPG0ZKPBJMHGIiTBxiI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60330745/%E8%8B%B1%E8%B6%85-%E5%88%A9%E7%89%A9%E6%B5%A6%E9%81%AD%E7%86%B1%E5%88%BA%E9%80%BC%E5%92%8C1-1-%E5%8D%87%E4%B8%8A%E7%AC%AC5%E4%BD%8D",
-    "timestamp": "2026-03-15T18:40:56.961Z",
     "strategy": ".content-card__main"
   }
 ];
