@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-16T13:57:18.997Z
+// Last updated: 2026-03-16T15:14:58.906Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美股｜道指早段曾漲逾600點　納指升逾1%　紐約期油跌逾3%",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250319/978885691725320192591823.jpeg/FNdYWB5c5JcsdPesa-h_ZLmN3uYWrGyp4k0QheJNEIU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60331114/%E7%BE%8E%E8%82%A1-%E9%81%93%E6%8C%87%E6%97%A9%E6%AE%B5%E6%9B%BE%E6%BC%B2%E9%80%BE600%E9%BB%9E-%E7%B4%8D%E6%8C%87%E5%8D%87%E9%80%BE1-%E7%B4%90%E7%B4%84%E6%9C%9F%E6%B2%B9%E8%B7%8C%E9%80%BE3",
+    "timestamp": "2026-03-16T15:14:58.906Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "回南天｜偏東氣流周五「春分」起帶來雨霧　清晨氣溫比周四低7度",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260316/1110067889169240064037258.jpeg/GQdW4mFvurdG8vNnFPMR7QbNrMfiBfsLnNx2O5zcdjs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60330751/%E4%B8%AD%E7%BE%8E%E4%BB%A3%E8%A1%A8%E5%B7%B4%E9%BB%8E%E6%96%B0%E4%B8%80%E8%BC%AA%E7%B6%93%E8%B2%BF%E6%9C%83%E8%AB%87-%E9%A6%96%E6%97%A5%E8%88%89%E8%A1%8C%E9%80%BE6%E5%B0%8F%E6%99%82%E5%BE%8C%E7%B5%90%E6%9D%9F",
     "timestamp": "2026-03-15T20:32:41.118Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "英超｜利物浦遭熱刺逼和1：1　升上第5位",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260316/1110039357110095872179483.jpeg/fICUYIWLjKb0NTwwV8DTXhQJwPG0ZKPBJMHGIiTBxiI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60330745/%E8%8B%B1%E8%B6%85-%E5%88%A9%E7%89%A9%E6%B5%A6%E9%81%AD%E7%86%B1%E5%88%BA%E9%80%BC%E5%92%8C1-1-%E5%8D%87%E4%B8%8A%E7%AC%AC5%E4%BD%8D",
-    "timestamp": "2026-03-15T20:16:07.029Z",
     "strategy": ".content-card__main"
   }
 ];
