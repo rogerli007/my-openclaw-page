@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-16T12:40:19.045Z
+// Last updated: 2026-03-16T13:16:19.655Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "世界第一？2025年港女性平均預期壽命88.7歲創新高　男性升至次高",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260225/1103135030512979968849637.jpeg/6UFgUTcp1fTTdf8C9dhWeC8LxPRLliBiA_uEZxn7hGc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60331072/%E4%B8%96%E7%95%8C%E7%AC%AC%E4%B8%80-2025%E5%B9%B4%E6%B8%AF%E5%A5%B3%E6%80%A7%E5%B9%B3%E5%9D%87%E9%A0%90%E6%9C%9F%E5%A3%BD%E5%91%BD88-7%E6%AD%B2%E5%89%B5%E6%96%B0%E9%AB%98-%E7%94%B7%E6%80%A7%E5%8D%87%E8%87%B3%E6%AC%A1%E9%AB%98",
+    "timestamp": "2026-03-16T13:16:19.655Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "紅麻辣燙劉文祥遭踢爆：鴨肉扮豬牛月銷數千單　官方終認錯整改",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260316/1110039357110095872179483.jpeg/fICUYIWLjKb0NTwwV8DTXhQJwPG0ZKPBJMHGIiTBxiI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60330745/%E8%8B%B1%E8%B6%85-%E5%88%A9%E7%89%A9%E6%B5%A6%E9%81%AD%E7%86%B1%E5%88%BA%E9%80%BC%E5%92%8C1-1-%E5%8D%87%E4%B8%8A%E7%AC%AC5%E4%BD%8D",
     "timestamp": "2026-03-15T19:22:39.251Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "英超｜利物浦遭熱刺逼和1：1　升上第5位",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260316/1110039357110095872179483.jpeg/fICUYIWLjKb0NTwwV8DTXhQJwPG0ZKPBJMHGIiTBxiI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60330745/%E8%8B%B1%E8%B6%85-%E5%88%A9%E7%89%A9%E6%B5%A6%E9%81%AD%E7%86%B1%E5%88%BA%E9%80%BC%E5%92%8C1-1-%E5%8D%87%E4%B8%8A%E7%AC%AC5%E4%BD%8D",
-    "timestamp": "2026-03-15T19:07:16.151Z",
     "strategy": ".content-card__main"
   }
 ];
