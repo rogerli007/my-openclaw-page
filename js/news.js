@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-16T15:14:58.906Z
+// Last updated: 2026-03-16T16:15:37.622Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "郭柏妍素顏如剝殼雞蛋膚質驚艷網民　自創一「飾物」盡顯可愛本性",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260316/1110307679907090432182053.jpeg/rUFZTwCqlh5uNYb5BEbQMkWx5ILUpCK2w2ns48Np7OM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60331027/%E9%83%AD%E6%9F%8F%E5%A6%8D%E7%B4%A0%E9%A1%8F%E5%A6%82%E5%89%9D%E6%AE%BC%E9%9B%9E%E8%9B%8B%E8%86%9A%E8%B3%AA%E9%A9%9A%E8%89%B7%E7%B6%B2%E6%B0%91-%E8%87%AA%E5%89%B5%E4%B8%80-%E9%A3%BE%E7%89%A9-%E7%9B%A1%E9%A1%AF%E5%8F%AF%E6%84%9B%E6%9C%AC%E6%80%A7",
+    "timestamp": "2026-03-16T16:15:37.622Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美股｜道指早段曾漲逾600點　納指升逾1%　紐約期油跌逾3%",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260316/1110067889169240064037258.jpeg/GQdW4mFvurdG8vNnFPMR7QbNrMfiBfsLnNx2O5zcdjs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60330751/%E4%B8%AD%E7%BE%8E%E4%BB%A3%E8%A1%A8%E5%B7%B4%E9%BB%8E%E6%96%B0%E4%B8%80%E8%BC%AA%E7%B6%93%E8%B2%BF%E6%9C%83%E8%AB%87-%E9%A6%96%E6%97%A5%E8%88%89%E8%A1%8C%E9%80%BE6%E5%B0%8F%E6%99%82%E5%BE%8C%E7%B5%90%E6%9D%9F",
     "timestamp": "2026-03-15T20:50:15.191Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "中美代表巴黎新一輪經貿會談　首日舉行逾6小時後結束",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260316/1110067889169240064037258.jpeg/GQdW4mFvurdG8vNnFPMR7QbNrMfiBfsLnNx2O5zcdjs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60330751/%E4%B8%AD%E7%BE%8E%E4%BB%A3%E8%A1%A8%E5%B7%B4%E9%BB%8E%E6%96%B0%E4%B8%80%E8%BC%AA%E7%B6%93%E8%B2%BF%E6%9C%83%E8%AB%87-%E9%A6%96%E6%97%A5%E8%88%89%E8%A1%8C%E9%80%BE6%E5%B0%8F%E6%99%82%E5%BE%8C%E7%B5%90%E6%9D%9F",
-    "timestamp": "2026-03-15T20:32:41.118Z",
     "strategy": ".content-card__main"
   }
 ];
