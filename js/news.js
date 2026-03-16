@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-16T09:14:03.303Z
+// Last updated: 2026-03-16T09:45:22.101Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "叉燒食譜｜食神戴龍教5步復刻黯然銷魂飯　叉燒醬汁黃金比例+部位",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260316/1110267180420698112936428.jpeg/EHAk5u5q1gnmj47OIDx2gw3o0C6Rt_bmIBe52CAXudg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60326049/%E5%8F%89%E7%87%92%E9%A3%9F%E8%AD%9C-%E9%A3%9F%E7%A5%9E%E6%88%B4%E9%BE%8D%E6%95%995%E6%AD%A5%E5%BE%A9%E5%88%BB%E9%BB%AF%E7%84%B6%E9%8A%B7%E9%AD%82%E9%A3%AF-%E5%8F%89%E7%87%92%E9%86%AC%E6%B1%81%E9%BB%83%E9%87%91%E6%AF%94%E4%BE%8B-%E9%83%A8%E4%BD%8D",
+    "timestamp": "2026-03-16T09:45:22.101Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "台東一日遊景點美食推薦　打卡海線最美早午餐/新藝術地標附地址",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20251106/1063042244291858432340629.jpeg/aMj2of-ICC-yi2-NxBB__la3u0MOGdrSOObWCjjm1go?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60330742/%E4%B8%80%E5%B0%8F%E6%99%82%E5%85%A7%E5%85%A9%E5%AE%97%E5%B7%B4%E5%A3%AB%E4%B9%98%E5%AE%A2%E8%B7%8C%E8%90%BD%E6%A8%93%E6%A2%AF%E5%8F%97%E5%82%B7%E6%84%8F%E5%A4%96-%E5%85%B6%E4%B8%AD%E5%85%83%E6%9C%97%E5%A5%B3%E4%B9%98%E5%AE%A2%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2",
     "timestamp": "2026-03-15T17:50:25.240Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "港鐵荃灣線新信號系統啟用　荃灣往中環深夜出現17分一班車",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260316/1110013194908209152875942.jpeg/EIqlWI2jk3mx98tYEJLYfngnID7iC471tu8ooLbvKKA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60330739/%E6%B8%AF%E9%90%B5%E8%8D%83%E7%81%A3%E7%B7%9A%E6%96%B0%E4%BF%A1%E8%99%9F%E7%B3%BB%E7%B5%B1%E5%95%9F%E7%94%A8-%E8%8D%83%E7%81%A3%E5%BE%80%E4%B8%AD%E7%92%B0%E6%B7%B1%E5%A4%9C%E5%87%BA%E7%8F%BE17%E5%88%86%E4%B8%80%E7%8F%AD%E8%BB%8A",
-    "timestamp": "2026-03-15T17:33:55.303Z",
     "strategy": ".content-card__main"
   }
 ];
