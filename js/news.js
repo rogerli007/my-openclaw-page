@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-16T22:39:12.036Z
+// Last updated: 2026-03-16T23:19:47.712Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "張柏芝45歲濃妝真樣曝光難掩疲態　掃潮牌公仔大班人尾隨吸金力強",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260317/1110379641605984256870325.jpeg/dSbRvBX6rUxhfIR5D3ivxCVxqek5kgjbeBE2X3gRNl8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60331020/%E5%BC%B5%E6%9F%8F%E8%8A%9D45%E6%AD%B2%E6%BF%83%E5%A6%9D%E7%9C%9F%E6%A8%A3%E6%9B%9D%E5%85%89%E9%9B%A3%E6%8E%A9%E7%96%B2%E6%85%8B-%E6%8E%83%E6%BD%AE%E7%89%8C%E5%85%AC%E4%BB%94%E5%A4%A7%E7%8F%AD%E4%BA%BA%E5%B0%BE%E9%9A%A8%E5%90%B8%E9%87%91%E5%8A%9B%E5%BC%B7",
+    "timestamp": "2026-03-16T23:19:47.712Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "「御用二世祖」演男一返港慘變「人棄王」　出騷賣力跳唱場面冷清",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260314/1109562093981405184602317.jpeg/1IBQ1wLXeiTx0TrnvSAbZKJgeFaFhp-nB-KjVgfio1Y?v=w1920r16_9",
     "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E8%A9%B1%E9%A1%8C/60330494/%E9%84%B0%E5%B1%85%E6%AF%94%E7%89%B9%E7%8A%AC%E6%92%B2%E5%87%BA%E5%92%AC%E9%9D%A2%E4%B8%8D%E6%94%BE-%E8%80%81%E5%A9%A6%E9%A0%AD%E9%9D%A2%E9%87%8D%E5%89%B5%E7%95%99%E8%A1%80%E8%B7%AF-%E4%B8%88%E5%A4%AB%E7%88%86%E5%BF%83%E5%AF%92%E5%85%A7%E6%83%85",
     "timestamp": "2026-03-15T23:18:57.301Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "新盤熱賣帶動氣氛　十大屋苑周末成交重回雙位數　按周升83%",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250217/968225726950019072340968.jpeg/56vWwe7I1md5_U0GGUspuH7Iy7N54roBjPy1oLr8taA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60330724/%E6%96%B0%E7%9B%A4%E7%86%B1%E8%B3%A3%E5%B8%B6%E5%8B%95%E6%B0%A3%E6%B0%9B-%E5%8D%81%E5%A4%A7%E5%B1%8B%E8%8B%91%E5%91%A8%E6%9C%AB%E6%88%90%E4%BA%A4%E9%87%8D%E5%9B%9E%E9%9B%99%E4%BD%8D%E6%95%B8-%E6%8C%89%E5%91%A8%E5%8D%8783",
-    "timestamp": "2026-03-15T22:16:18.585Z",
     "strategy": ".content-card__main"
   }
 ];
