@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-16T19:15:27.795Z
+// Last updated: 2026-03-16T21:22:44.609Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "警突擊搜查觀塘工廈單位　起獲約值73萬元毒品拘一男",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260317/1110433949248655360374081.jpeg/58KROpp6ZeGMFFtmdhk3yztfriqlardFAwaTKgMGkyo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60331137/%E8%AD%A6%E7%AA%81%E6%93%8A%E6%90%9C%E6%9F%A5%E8%A7%80%E5%A1%98%E5%B7%A5%E5%BB%88%E5%96%AE%E4%BD%8D-%E8%B5%B7%E7%8D%B2%E7%B4%84%E5%80%BC73%E8%90%AC%E5%85%83%E6%AF%92%E5%93%81%E6%8B%98%E4%B8%80%E7%94%B7",
+    "timestamp": "2026-03-16T21:22:44.609Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "日本青森縣對開有漁船與貨船相撞　漁船翻沉4人失蹤",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260316/1110067889169240064037258.jpeg/GQdW4mFvurdG8vNnFPMR7QbNrMfiBfsLnNx2O5zcdjs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60330751/%E4%B8%AD%E7%BE%8E%E4%BB%A3%E8%A1%A8%E5%B7%B4%E9%BB%8E%E6%96%B0%E4%B8%80%E8%BC%AA%E7%B6%93%E8%B2%BF%E6%9C%83%E8%AB%87-%E9%A6%96%E6%97%A5%E8%88%89%E8%A1%8C%E9%80%BE6%E5%B0%8F%E6%99%82%E5%BE%8C%E7%B5%90%E6%9D%9F",
     "timestamp": "2026-03-15T21:49:10.278Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "中美代表巴黎新一輪經貿會談　首日舉行逾6小時後結束",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260316/1110067889169240064037258.jpeg/GQdW4mFvurdG8vNnFPMR7QbNrMfiBfsLnNx2O5zcdjs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60330751/%E4%B8%AD%E7%BE%8E%E4%BB%A3%E8%A1%A8%E5%B7%B4%E9%BB%8E%E6%96%B0%E4%B8%80%E8%BC%AA%E7%B6%93%E8%B2%BF%E6%9C%83%E8%AB%87-%E9%A6%96%E6%97%A5%E8%88%89%E8%A1%8C%E9%80%BE6%E5%B0%8F%E6%99%82%E5%BE%8C%E7%B5%90%E6%9D%9F",
-    "timestamp": "2026-03-15T21:35:18.385Z",
     "strategy": ".content-card__main"
   }
 ];
