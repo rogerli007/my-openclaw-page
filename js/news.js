@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-16T10:42:43.102Z
+// Last updated: 2026-03-16T12:05:39.398Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "中國軍隊正補齊兩大戰略裝備短板",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260316/1110269459395776512340671.jpeg/_ZiOTKZ2Ku1dMLWZz3rbzNOJ-Tn8t8TVupoRirqaEYo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E4%B8%AD%E5%9C%8B%E8%A7%80%E5%AF%9F/60331037/%E4%B8%AD%E5%9C%8B%E8%BB%8D%E9%9A%8A%E6%AD%A3%E8%A3%9C%E9%BD%8A%E5%85%A9%E5%A4%A7%E6%88%B0%E7%95%A5%E8%A3%9D%E5%82%99%E7%9F%AD%E6%9D%BF",
+    "timestamp": "2026-03-16T12:05:39.398Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "油價升｜城巴慳油大計！消息：非載客時關冷氣　免劇烈加速或剎車",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260316/1110039357110095872179483.jpeg/fICUYIWLjKb0NTwwV8DTXhQJwPG0ZKPBJMHGIiTBxiI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60330745/%E8%8B%B1%E8%B6%85-%E5%88%A9%E7%89%A9%E6%B5%A6%E9%81%AD%E7%86%B1%E5%88%BA%E9%80%BC%E5%92%8C1-1-%E5%8D%87%E4%B8%8A%E7%AC%AC5%E4%BD%8D",
     "timestamp": "2026-03-15T18:40:56.961Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "伊朗局勢｜IEA：石油儲備將立即投放亞太市場　歐美3月底",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20241017/923642874812174336564730.jpeg/Cr6TohRkz4pfqfQv7jRHs5pdAyz7naB6muLEn5rixJ8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60330743/%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8B%A2-iea-%E7%9F%B3%E6%B2%B9%E5%84%B2%E5%82%99%E5%B0%87%E7%AB%8B%E5%8D%B3%E6%8A%95%E6%94%BE%E4%BA%9E%E5%A4%AA%E5%B8%82%E5%A0%B4-%E6%AD%90%E7%BE%8E3%E6%9C%88%E5%BA%95",
-    "timestamp": "2026-03-15T18:19:06.886Z",
     "strategy": ".content-card__main"
   }
 ];
