@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-16T07:44:27.169Z
+// Last updated: 2026-03-16T09:14:03.303Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "台東一日遊景點美食推薦　打卡海線最美早午餐/新藝術地標附地址",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260316/1110254409251557376142908.jpeg/IpgKM9PxMYDvB9AwrgFweQr4MABf48uAxNM_AsTTPwI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%97%85%E9%81%8A/60328150/%E5%8F%B0%E6%9D%B1%E4%B8%80%E6%97%A5%E9%81%8A%E6%99%AF%E9%BB%9E%E7%BE%8E%E9%A3%9F%E6%8E%A8%E8%96%A6-%E6%89%93%E5%8D%A1%E6%B5%B7%E7%B7%9A%E6%9C%80%E7%BE%8E%E6%97%A9%E5%8D%88%E9%A4%90-%E6%96%B0%E8%97%9D%E8%A1%93%E5%9C%B0%E6%A8%99%E9%99%84%E5%9C%B0%E5%9D%80",
+    "timestamp": "2026-03-16T09:14:03.303Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "JPEX案｜林作等8被告交付高院程序6.1再訊　裕美有陪林到庭",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260316/1110013194908209152875942.jpeg/EIqlWI2jk3mx98tYEJLYfngnID7iC471tu8ooLbvKKA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60330739/%E6%B8%AF%E9%90%B5%E8%8D%83%E7%81%A3%E7%B7%9A%E6%96%B0%E4%BF%A1%E8%99%9F%E7%B3%BB%E7%B5%B1%E5%95%9F%E7%94%A8-%E8%8D%83%E7%81%A3%E5%BE%80%E4%B8%AD%E7%92%B0%E6%B7%B1%E5%A4%9C%E5%87%BA%E7%8F%BE17%E5%88%86%E4%B8%80%E7%8F%AD%E8%BB%8A",
     "timestamp": "2026-03-15T17:33:55.303Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "七師傅爆張致恒應急錢達6位數　雯雯發文斥︰有幾想我哋一家死",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260315/1109969861703897088250648.jpeg/1K94SO3jHa5RUwFnrSFPNJrcmcyiUpG2GVNqJhlTaiY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60330712/%E4%B8%83%E5%B8%AB%E5%82%85%E7%88%86%E5%BC%B5%E8%87%B4%E6%81%92%E6%87%89%E6%80%A5%E9%8C%A2%E9%81%946%E4%BD%8D%E6%95%B8-%E9%9B%AF%E9%9B%AF%E7%99%BC%E6%96%87%E6%96%A5-%E6%9C%89%E5%B9%BE%E6%83%B3%E6%88%91%E5%93%8B%E4%B8%80%E5%AE%B6%E6%AD%BB",
-    "timestamp": "2026-03-15T15:51:15.393Z",
     "strategy": ".content-card__main"
   }
 ];
