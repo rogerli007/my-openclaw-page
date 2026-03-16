@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-16T21:22:44.609Z
+// Last updated: 2026-03-16T22:39:12.036Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "「御用二世祖」演男一返港慘變「人棄王」　出騷賣力跳唱場面冷清",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260316/1110332275863588864495863.jpeg/X0taM-G1No-H7vLqwAla1Zks6PEeK6MLE8M3mRPDN5k?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60330978/%E5%90%B3%E5%85%86%E9%BA%9F%E6%BC%94%E7%94%B7%E4%B8%80%E8%BF%94%E6%B8%AF%E6%85%98%E8%AE%8A%E8%88%9E%E5%8F%B0-%E4%BA%BA%E6%A3%84%E7%8E%8B-%E5%87%BA%E9%A8%B7%E8%B3%A3%E5%8A%9B%E8%B7%B3%E5%94%B1%E5%A0%B4%E9%9D%A2%E5%86%B7%E6%B8%85",
+    "timestamp": "2026-03-16T22:39:12.036Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "警突擊搜查觀塘工廈單位　起獲約值73萬元毒品拘一男",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250217/968225726950019072340968.jpeg/56vWwe7I1md5_U0GGUspuH7Iy7N54roBjPy1oLr8taA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60330724/%E6%96%B0%E7%9B%A4%E7%86%B1%E8%B3%A3%E5%B8%B6%E5%8B%95%E6%B0%A3%E6%B0%9B-%E5%8D%81%E5%A4%A7%E5%B1%8B%E8%8B%91%E5%91%A8%E6%9C%AB%E6%88%90%E4%BA%A4%E9%87%8D%E5%9B%9E%E9%9B%99%E4%BD%8D%E6%95%B8-%E6%8C%89%E5%91%A8%E5%8D%8783",
     "timestamp": "2026-03-15T22:16:18.585Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "中美代表巴黎新一輪經貿會談　首日舉行逾6小時後結束",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260316/1110067889169240064037258.jpeg/GQdW4mFvurdG8vNnFPMR7QbNrMfiBfsLnNx2O5zcdjs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60330751/%E4%B8%AD%E7%BE%8E%E4%BB%A3%E8%A1%A8%E5%B7%B4%E9%BB%8E%E6%96%B0%E4%B8%80%E8%BC%AA%E7%B6%93%E8%B2%BF%E6%9C%83%E8%AB%87-%E9%A6%96%E6%97%A5%E8%88%89%E8%A1%8C%E9%80%BE6%E5%B0%8F%E6%99%82%E5%BE%8C%E7%B5%90%E6%9D%9F",
-    "timestamp": "2026-03-15T21:49:10.278Z",
     "strategy": ".content-card__main"
   }
 ];
