@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-16T09:45:22.101Z
+// Last updated: 2026-03-16T10:42:43.102Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "油價升｜城巴慳油大計！消息：非載客時關冷氣　免劇烈加速或剎車",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20241113/933395722983051264162809.jpeg/qkEVNHFj0SwPUaPTTiiPUIwOP0ijHc0nTF_9-Glf_fg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60331069/%E6%B2%B9%E5%83%B9%E5%8D%87-%E5%9F%8E%E5%B7%B4%E6%85%B3%E6%B2%B9%E5%A4%A7%E8%A8%88-%E6%B6%88%E6%81%AF-%E9%9D%9E%E8%BC%89%E5%AE%A2%E6%99%82%E9%97%9C%E5%86%B7%E6%B0%A3-%E5%85%8D%E5%8A%87%E7%83%88%E5%8A%A0%E9%80%9F%E6%88%96%E5%89%8E%E8%BB%8A",
+    "timestamp": "2026-03-16T10:42:43.102Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "叉燒食譜｜食神戴龍教5步復刻黯然銷魂飯　叉燒醬汁黃金比例+部位",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20241017/923642874812174336564730.jpeg/Cr6TohRkz4pfqfQv7jRHs5pdAyz7naB6muLEn5rixJ8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60330743/%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8B%A2-iea-%E7%9F%B3%E6%B2%B9%E5%84%B2%E5%82%99%E5%B0%87%E7%AB%8B%E5%8D%B3%E6%8A%95%E6%94%BE%E4%BA%9E%E5%A4%AA%E5%B8%82%E5%A0%B4-%E6%AD%90%E7%BE%8E3%E6%9C%88%E5%BA%95",
     "timestamp": "2026-03-15T18:19:06.886Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "一小時內兩宗巴士乘客跌落樓梯受傷意外　其中元朗女乘客昏迷送院",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20251106/1063042244291858432340629.jpeg/aMj2of-ICC-yi2-NxBB__la3u0MOGdrSOObWCjjm1go?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60330742/%E4%B8%80%E5%B0%8F%E6%99%82%E5%85%A7%E5%85%A9%E5%AE%97%E5%B7%B4%E5%A3%AB%E4%B9%98%E5%AE%A2%E8%B7%8C%E8%90%BD%E6%A8%93%E6%A2%AF%E5%8F%97%E5%82%B7%E6%84%8F%E5%A4%96-%E5%85%B6%E4%B8%AD%E5%85%83%E6%9C%97%E5%A5%B3%E4%B9%98%E5%AE%A2%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2",
-    "timestamp": "2026-03-15T17:50:25.240Z",
     "strategy": ".content-card__main"
   }
 ];
