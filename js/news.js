@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-16T16:15:37.622Z
+// Last updated: 2026-03-16T18:40:41.180Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "穆傑塔巴要求官員繼續履職　特朗普：不確定伊朗實際領導人是誰",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260317/1110389509939269632370624.jpeg/Z3OrixVNXj_t64Lt9dzMcksIYHqO5gjZ6nYiEep2IhE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60331129/%E7%A9%86%E5%82%91%E5%A1%94%E5%B7%B4%E8%A6%81%E6%B1%82%E5%AE%98%E5%93%A1%E7%B9%BC%E7%BA%8C%E5%B1%A5%E8%81%B7-%E7%89%B9%E6%9C%97%E6%99%AE-%E4%B8%8D%E7%A2%BA%E5%AE%9A%E4%BC%8A%E6%9C%97%E5%AF%A6%E9%9A%9B%E9%A0%98%E5%B0%8E%E4%BA%BA%E6%98%AF%E8%AA%B0",
+    "timestamp": "2026-03-16T18:40:41.180Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "郭柏妍素顏如剝殼雞蛋膚質驚艷網民　自創一「飾物」盡顯可愛本性",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260316/1110067889169240064037258.jpeg/GQdW4mFvurdG8vNnFPMR7QbNrMfiBfsLnNx2O5zcdjs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60330751/%E4%B8%AD%E7%BE%8E%E4%BB%A3%E8%A1%A8%E5%B7%B4%E9%BB%8E%E6%96%B0%E4%B8%80%E8%BC%AA%E7%B6%93%E8%B2%BF%E6%9C%83%E8%AB%87-%E9%A6%96%E6%97%A5%E8%88%89%E8%A1%8C%E9%80%BE6%E5%B0%8F%E6%99%82%E5%BE%8C%E7%B5%90%E6%9D%9F",
     "timestamp": "2026-03-15T21:15:09.991Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "中美代表巴黎新一輪經貿會談　首日舉行逾6小時後結束",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260316/1110067889169240064037258.jpeg/GQdW4mFvurdG8vNnFPMR7QbNrMfiBfsLnNx2O5zcdjs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60330751/%E4%B8%AD%E7%BE%8E%E4%BB%A3%E8%A1%A8%E5%B7%B4%E9%BB%8E%E6%96%B0%E4%B8%80%E8%BC%AA%E7%B6%93%E8%B2%BF%E6%9C%83%E8%AB%87-%E9%A6%96%E6%97%A5%E8%88%89%E8%A1%8C%E9%80%BE6%E5%B0%8F%E6%99%82%E5%BE%8C%E7%B5%90%E6%9D%9F",
-    "timestamp": "2026-03-15T20:50:15.191Z",
     "strategy": ".content-card__main"
   }
 ];
