@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-16T00:50:55.874Z
+// Last updated: 2026-03-16T03:55:08.749Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "葉劉警告可能仍有酒樓「捱唔住」　提醒不適應市場轉變終被淘汰",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250916/1044696243038851072703816.jpeg/8vsXqxFdExiG64pJWEu3yitmxkl1wMTl3G5cGtxuXBo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60330831/%E8%91%89%E5%8A%89%E8%AD%A6%E5%91%8A%E5%8F%AF%E8%83%BD%E4%BB%8D%E6%9C%89%E9%85%92%E6%A8%93-%E6%8D%B1%E5%94%94%E4%BD%8F-%E6%8F%90%E9%86%92%E4%B8%8D%E9%81%A9%E6%87%89%E5%B8%82%E5%A0%B4%E8%BD%89%E8%AE%8A%E7%B5%82%E8%A2%AB%E6%B7%98%E6%B1%B0",
+    "timestamp": "2026-03-16T03:55:08.749Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "伊朗局勢｜迎來「超級央行周」　戰爭陰影籠罩全球利率決策",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260315/1109938357523189760215369.jpeg/M4__XxsG75WovNgmn4fCS1dbVeyKmyJ2yPg9HMj4PRw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60330702/%E5%B0%BF%E7%89%87%E5%BB%A3%E5%91%8A%E9%83%BD-%E6%93%A6%E9%82%8A-%E5%B0%8F%E7%B4%85%E6%9B%B8%E8%A2%AB%E6%9B%9D%E6%8E%A8%E9%80%81%E5%85%92%E7%AB%A5%E8%BB%9F%E8%89%B2%E6%83%85%E5%85%A7%E5%AE%B9",
     "timestamp": "2026-03-15T13:53:25.053Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "油麻地上海街32歲尼泊爾男暈倒房內　友人揭發報案惜返魂乏術",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260206/1096501181242413056723495.jpeg/ftxkRaaq73gBNDyV-acFKDpGrSY8XqHMYIxvZWCMb2U?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60330709/%E6%B2%B9%E9%BA%BB%E5%9C%B0%E4%B8%8A%E6%B5%B7%E8%A1%9732%E6%AD%B2%E5%B0%BC%E6%B3%8A%E7%88%BE%E7%94%B7%E6%9A%88%E5%80%92%E6%88%BF%E5%85%A7-%E5%8F%8B%E4%BA%BA%E6%8F%AD%E7%99%BC%E5%A0%B1%E6%A1%88%E6%83%9C%E8%BF%94%E9%AD%82%E4%B9%8F%E8%A1%93",
-    "timestamp": "2026-03-15T13:29:52.148Z",
     "strategy": ".content-card__main"
   }
 ];
