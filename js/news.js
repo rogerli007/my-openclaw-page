@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-16T03:55:08.749Z
+// Last updated: 2026-03-16T05:48:32.147Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "五月天演唱會取消頭場收194宗投訴　消委會促主辦方本周內覆事主",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260203/1095344367310213120514309.jpeg/CdpsjPEj_RmWEZSc4c6i4MY09X9HNhwfw-jC_sPowv4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60330894/%E4%BA%94%E6%9C%88%E5%A4%A9%E6%BC%94%E5%94%B1%E6%9C%83%E5%8F%96%E6%B6%88%E9%A0%AD%E5%A0%B4%E6%94%B6194%E5%AE%97%E6%8A%95%E8%A8%B4-%E6%B6%88%E5%A7%94%E6%9C%83%E4%BF%83%E4%B8%BB%E8%BE%A6%E6%96%B9%E6%9C%AC%E5%91%A8%E5%85%A7%E8%A6%86%E4%BA%8B%E4%B8%BB",
+    "timestamp": "2026-03-16T05:48:32.147Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "葉劉警告可能仍有酒樓「捱唔住」　提醒不適應市場轉變終被淘汰",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260315/1109948332941250560453160.jpeg/wxbVVsqKaSqeb5FxqBQwGBpFq8GqsAAT6o_IeeqPyHk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60330701/%E4%BB%A5%E8%BB%8D%E8%A5%BF%E5%B2%B8%E6%93%8A%E6%96%83%E5%B7%B4%E4%BA%BA%E7%88%B6%E6%AF%8D%E5%8F%8A%E5%85%A9%E5%85%92%E7%AB%A5-%E7%A8%B1%E5%85%B6%E8%BB%8A%E8%BC%9B%E5%8A%A0%E9%80%9F%E9%A7%9B%E4%BE%86%E5%8F%97%E5%A8%81%E8%84%85%E9%96%8B%E7%81%AB",
     "timestamp": "2026-03-15T14:19:19.815Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "尿片廣告都「擦邊」？小紅書被曝推送兒童軟色情內容",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260315/1109938357523189760215369.jpeg/M4__XxsG75WovNgmn4fCS1dbVeyKmyJ2yPg9HMj4PRw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60330702/%E5%B0%BF%E7%89%87%E5%BB%A3%E5%91%8A%E9%83%BD-%E6%93%A6%E9%82%8A-%E5%B0%8F%E7%B4%85%E6%9B%B8%E8%A2%AB%E6%9B%9D%E6%8E%A8%E9%80%81%E5%85%92%E7%AB%A5%E8%BB%9F%E8%89%B2%E6%83%85%E5%85%A7%E5%AE%B9",
-    "timestamp": "2026-03-15T13:53:25.053Z",
     "strategy": ".content-card__main"
   }
 ];
