@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-16T13:16:19.655Z
+// Last updated: 2026-03-16T13:57:18.997Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "回南天｜偏東氣流周五「春分」起帶來雨霧　清晨氣溫比周四低7度",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260315/1109920942727106560723486.jpeg/3EIRi10iGFgUZWKLqBZ-Tqx7cT9vWA6irIQ3_raEN_4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60331103/%E5%9B%9E%E5%8D%97%E5%A4%A9-%E5%81%8F%E6%9D%B1%E6%B0%A3%E6%B5%81%E5%91%A8%E4%BA%94-%E6%98%A5%E5%88%86-%E8%B5%B7%E5%B8%B6%E4%BE%86%E9%9B%A8%E9%9C%A7-%E6%B8%85%E6%99%A8%E6%B0%A3%E6%BA%AB%E6%AF%94%E5%91%A8%E5%9B%9B%E4%BD%8E7%E5%BA%A6",
+    "timestamp": "2026-03-16T13:57:18.997Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "世界第一？2025年港女性平均預期壽命88.7歲創新高　男性升至次高",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260316/1110039357110095872179483.jpeg/fICUYIWLjKb0NTwwV8DTXhQJwPG0ZKPBJMHGIiTBxiI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60330745/%E8%8B%B1%E8%B6%85-%E5%88%A9%E7%89%A9%E6%B5%A6%E9%81%AD%E7%86%B1%E5%88%BA%E9%80%BC%E5%92%8C1-1-%E5%8D%87%E4%B8%8A%E7%AC%AC5%E4%BD%8D",
     "timestamp": "2026-03-15T20:16:07.029Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "英超｜利物浦遭熱刺逼和1：1　升上第5位",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260316/1110039357110095872179483.jpeg/fICUYIWLjKb0NTwwV8DTXhQJwPG0ZKPBJMHGIiTBxiI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60330745/%E8%8B%B1%E8%B6%85-%E5%88%A9%E7%89%A9%E6%B5%A6%E9%81%AD%E7%86%B1%E5%88%BA%E9%80%BC%E5%92%8C1-1-%E5%8D%87%E4%B8%8A%E7%AC%AC5%E4%BD%8D",
-    "timestamp": "2026-03-15T19:22:39.251Z",
     "strategy": ".content-card__main"
   }
 ];
