@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-17T20:04:41.812Z
+// Last updated: 2026-03-17T20:25:00.654Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "古巴恢復大部份電網供電　特朗普：很快會對古巴採取行動",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260318/1110787387304185856678130.jpeg/Se2eF-oZRYKRc_dY3PkVAtz4TTbj5RkoiSSkd4kkpHc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60331538/%E5%8F%A4%E5%B7%B4%E6%81%A2%E5%BE%A9%E5%A4%A7%E9%83%A8%E4%BB%BD%E9%9B%BB%E7%B6%B2%E4%BE%9B%E9%9B%BB-%E7%89%B9%E6%9C%97%E6%99%AE-%E5%BE%88%E5%BF%AB%E6%9C%83%E5%B0%8D%E5%8F%A4%E5%B7%B4%E6%8E%A1%E5%8F%96%E8%A1%8C%E5%8B%95",
+    "timestamp": "2026-03-17T20:25:00.654Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "大埔私家車遇路障　68歲女司機「吹爆波」涉醉駕被捕",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250314/977153403853475840759264.jpeg/KhwiK_i6sQtqsAzHSXKSpet12DaicC-s7F4aduxeGnY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60331273/%E7%BE%8E%E5%AA%92-sec%E6%93%AC%E6%8F%90%E4%BA%A4%E8%AD%B0%E6%A1%88-%E5%8F%96%E6%B6%88%E5%BC%B7%E5%88%B6%E4%B8%8A%E5%B8%82%E5%85%AC%E5%8F%B8%E7%99%BC%E5%B8%83%E5%AD%A3%E5%BA%A6%E6%A5%AD%E7%B8%BE",
     "timestamp": "2026-03-17T05:39:03.718Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "2026福布斯星級酒店排名公布　香港20間酒店上榜／7間獲5星評級！",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260317/1110560069629513728013479.jpeg/CQBpCRFGEFY5qmYNkaqUlgzyTXPEfE1t6rfyYOq38mA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%97%85%E9%81%8A/60330335/2026%E7%A6%8F%E5%B8%83%E6%96%AF%E6%98%9F%E7%B4%9A%E9%85%92%E5%BA%97%E6%8E%92%E5%90%8D%E5%85%AC%E5%B8%83-%E9%A6%99%E6%B8%AF20%E9%96%93%E9%85%92%E5%BA%97%E4%B8%8A%E6%A6%9C-7%E9%96%93%E7%8D%B25%E6%98%9F%E8%A9%95%E7%B4%9A",
-    "timestamp": "2026-03-17T04:59:59.756Z",
     "strategy": ".content-card__main"
   }
 ];
