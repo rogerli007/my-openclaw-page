@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-17T03:20:41.789Z
+// Last updated: 2026-03-17T04:10:33.789Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "李強：加快發展新一代智能製造　推進重大基礎設施網絡建設",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260317/1110538437225615360024753.jpeg/_a6dkMr94G--t85YIM-tXDST9ltme_InsZ98t7GffLc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60331205/%E6%9D%8E%E5%BC%B7-%E5%8A%A0%E5%BF%AB%E7%99%BC%E5%B1%95%E6%96%B0%E4%B8%80%E4%BB%A3%E6%99%BA%E8%83%BD%E8%A3%BD%E9%80%A0-%E6%8E%A8%E9%80%B2%E9%87%8D%E5%A4%A7%E5%9F%BA%E7%A4%8E%E8%A8%AD%E6%96%BD%E7%B6%B2%E7%B5%A1%E5%BB%BA%E8%A8%AD",
+    "timestamp": "2026-03-17T04:10:33.789Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "珍惜生命︱粉嶺中學女生墮樓　送院治理",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260309/1107719355845578752370685.jpeg/EEISDXpdF0AugKDQqybjynmnl1cP9KnxEI97nhCPe54?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%9F%A5%E6%80%A7%E5%A5%B3%E7%94%9F/60328774/%E5%B9%B4%E8%BF%9160%E6%AD%B2%E9%A6%99%E6%B8%AF%E6%A8%A1%E7%89%B9%E5%85%92%E7%99%BBchanel%E9%AB%98%E7%B4%9A%E8%A8%82%E8%A3%BD%E7%A7%80-56%E6%AD%B2%E5%85%A5%E8%A1%8C%E8%B5%B0%E4%B8%8D%E8%A2%AB%E5%AE%9A%E7%BE%A9%E7%9A%84%E8%B7%AF",
     "timestamp": "2026-03-16T07:03:26.250Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "五月天演唱會取消頭場收194宗投訴　消委會促主辦方本周內覆事主",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260203/1095344367310213120514309.jpeg/CdpsjPEj_RmWEZSc4c6i4MY09X9HNhwfw-jC_sPowv4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60330894/%E4%BA%94%E6%9C%88%E5%A4%A9%E6%BC%94%E5%94%B1%E6%9C%83%E5%8F%96%E6%B6%88%E9%A0%AD%E5%A0%B4%E6%94%B6194%E5%AE%97%E6%8A%95%E8%A8%B4-%E6%B6%88%E5%A7%94%E6%9C%83%E4%BF%83%E4%B8%BB%E8%BE%A6%E6%96%B9%E6%9C%AC%E5%91%A8%E5%85%A7%E8%A6%86%E4%BA%8B%E4%B8%BB",
-    "timestamp": "2026-03-16T05:48:32.147Z",
     "strategy": ".content-card__main"
   }
 ];
