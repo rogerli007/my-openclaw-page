@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-17T19:16:18.445Z
+// Last updated: 2026-03-17T19:42:51.964Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "大埔私家車遇路障　68歲女司機「吹爆波」涉醉駕被捕",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260318/1110777784143187968247583.jpeg/hn2lfMTeiiXc2FW65KJULHsE92Qe66mVuGrieY1q4nk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60331534/%E5%A4%A7%E5%9F%94%E7%A7%81%E5%AE%B6%E8%BB%8A%E9%81%87%E8%B7%AF%E9%9A%9C-68%E6%AD%B2%E5%A5%B3%E5%8F%B8%E6%A9%9F-%E5%90%B9%E7%88%86%E6%B3%A2-%E6%B6%89%E9%86%89%E9%A7%95%E8%A2%AB%E6%8D%95",
+    "timestamp": "2026-03-17T19:42:51.964Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "王毅：個別大國動輒訴諸武力　對世界和平穩定形成嚴重衝擊",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260317/1110538437225615360024753.jpeg/_a6dkMr94G--t85YIM-tXDST9ltme_InsZ98t7GffLc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60331205/%E6%9D%8E%E5%BC%B7-%E5%8A%A0%E5%BF%AB%E7%99%BC%E5%B1%95%E6%96%B0%E4%B8%80%E4%BB%A3%E6%99%BA%E8%83%BD%E8%A3%BD%E9%80%A0-%E6%8E%A8%E9%80%B2%E9%87%8D%E5%A4%A7%E5%9F%BA%E7%A4%8E%E8%A8%AD%E6%96%BD%E7%B6%B2%E7%B5%A1%E5%BB%BA%E8%A8%AD",
     "timestamp": "2026-03-17T04:10:33.789Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "珍惜生命︱粉嶺中學女生墮樓　送院治理",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260317/1110533145326784512108269.jpeg/Cv-IV5_N7mVK-73YiNB6XoG4JTFhtUzTRc2YXkXNmF4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60331162/%E7%8F%8D%E6%83%9C%E7%94%9F%E5%91%BD-%E7%B2%89%E5%B6%BA%E4%B8%AD%E5%AD%B8%E5%A5%B3%E7%94%9F%E5%A2%AE%E6%A8%93-%E9%80%81%E9%99%A2%E6%B2%BB%E7%90%86",
-    "timestamp": "2026-03-17T03:20:41.789Z",
     "strategy": ".content-card__main"
   }
 ];
