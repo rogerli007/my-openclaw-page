@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-17T20:25:00.654Z
+// Last updated: 2026-03-17T20:52:34.105Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "將軍澳大王公村村屋遭爆竊　44歲女損失逾$36萬財物　警追緝賊人",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260318/1110797938004594688086971.jpeg/q4oONY_kQ-CfaWRroK7v5ND8clkR1dyJSm6AWX9ugFk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60331541/%E5%B0%87%E8%BB%8D%E6%BE%B3%E5%A4%A7%E7%8E%8B%E5%85%AC%E6%9D%91%E6%9D%91%E5%B1%8B%E9%81%AD%E7%88%86%E7%AB%8A-44%E6%AD%B2%E5%A5%B3%E6%90%8D%E5%A4%B1%E9%80%BE-36%E8%90%AC%E8%B2%A1%E7%89%A9-%E8%AD%A6%E8%BF%BD%E7%B7%9D%E8%B3%8A%E4%BA%BA",
+    "timestamp": "2026-03-17T20:52:34.105Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "古巴恢復大部份電網供電　特朗普：很快會對古巴採取行動",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260317/1110547720986169344741289.jpeg/MxFOMhhv3PZJdmJMgVqllsoR3TteMV9PEZ9B_RGfQf0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60331229/%E7%A7%91%E5%AD%B8%E5%AE%B6%E8%AD%A6%E5%91%8A%E5%8E%84%E7%88%BE%E5%B0%BC%E8%AB%BE%E7%8F%BE%E8%B1%A12026%E9%87%8D%E8%87%A8%E5%9C%B0%E7%90%83-%E6%81%90%E5%A4%A9%E6%B0%A3%E5%8A%87%E8%AE%8A-%E9%AB%98%E6%BA%AB%E5%86%8D%E7%A0%B4%E7%B4%80%E9%8C%84",
     "timestamp": "2026-03-17T06:13:24.854Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美媒︰SEC擬提交議案　取消強制上市公司發布季度業績",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250314/977153403853475840759264.jpeg/KhwiK_i6sQtqsAzHSXKSpet12DaicC-s7F4aduxeGnY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60331273/%E7%BE%8E%E5%AA%92-sec%E6%93%AC%E6%8F%90%E4%BA%A4%E8%AD%B0%E6%A1%88-%E5%8F%96%E6%B6%88%E5%BC%B7%E5%88%B6%E4%B8%8A%E5%B8%82%E5%85%AC%E5%8F%B8%E7%99%BC%E5%B8%83%E5%AD%A3%E5%BA%A6%E6%A5%AD%E7%B8%BE",
-    "timestamp": "2026-03-17T05:39:03.718Z",
     "strategy": ".content-card__main"
   }
 ];
