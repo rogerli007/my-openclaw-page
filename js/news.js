@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-17T04:10:33.789Z
+// Last updated: 2026-03-17T04:59:59.756Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "2026福布斯星級酒店排名公布　香港20間酒店上榜／7間獲5星評級！",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260317/1110560069629513728013479.jpeg/CQBpCRFGEFY5qmYNkaqUlgzyTXPEfE1t6rfyYOq38mA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%97%85%E9%81%8A/60330335/2026%E7%A6%8F%E5%B8%83%E6%96%AF%E6%98%9F%E7%B4%9A%E9%85%92%E5%BA%97%E6%8E%92%E5%90%8D%E5%85%AC%E5%B8%83-%E9%A6%99%E6%B8%AF20%E9%96%93%E9%85%92%E5%BA%97%E4%B8%8A%E6%A6%9C-7%E9%96%93%E7%8D%B25%E6%98%9F%E8%A9%95%E7%B4%9A",
+    "timestamp": "2026-03-17T04:59:59.756Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "李強：加快發展新一代智能製造　推進重大基礎設施網絡建設",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260316/1110237701459677184641750.jpeg/XTGxgcUwiLvVAKMxd0_tUkGty8DwDl4k3dmRGPjZkRg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60330964/jpex%E6%A1%88-%E6%9E%97%E4%BD%9C%E7%AD%898%E8%A2%AB%E5%91%8A%E4%BA%A4%E4%BB%98%E9%AB%98%E9%99%A2%E7%A8%8B%E5%BA%8F6-1%E5%86%8D%E8%A8%8A-%E8%A3%95%E7%BE%8E%E6%9C%89%E9%99%AA%E6%9E%97%E5%88%B0%E5%BA%AD",
     "timestamp": "2026-03-16T07:44:27.169Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "年近60歲香港模特兒登Chanel高級訂製秀　56歲入行走不被定義的路",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260309/1107719355845578752370685.jpeg/EEISDXpdF0AugKDQqybjynmnl1cP9KnxEI97nhCPe54?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%9F%A5%E6%80%A7%E5%A5%B3%E7%94%9F/60328774/%E5%B9%B4%E8%BF%9160%E6%AD%B2%E9%A6%99%E6%B8%AF%E6%A8%A1%E7%89%B9%E5%85%92%E7%99%BBchanel%E9%AB%98%E7%B4%9A%E8%A8%82%E8%A3%BD%E7%A7%80-56%E6%AD%B2%E5%85%A5%E8%A1%8C%E8%B5%B0%E4%B8%8D%E8%A2%AB%E5%AE%9A%E7%BE%A9%E7%9A%84%E8%B7%AF",
-    "timestamp": "2026-03-16T07:03:26.250Z",
     "strategy": ".content-card__main"
   }
 ];
