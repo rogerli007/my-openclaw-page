@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-17T08:37:51.942Z
+// Last updated: 2026-03-17T09:11:03.528Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "長壽飲食｜研究證吃肉更長壽！長期食素易中風！專家4招健康食肉",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260317/1110581250340425728276841.jpeg/J74MuYkKVCTeCZNqqA5PIjS7edQFiEdgk9sh-pPbIfo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60319680/%E9%95%B7%E5%A3%BD%E9%A3%B2%E9%A3%9F-%E7%A0%94%E7%A9%B6%E8%AD%89%E5%90%83%E8%82%89%E6%9B%B4%E9%95%B7%E5%A3%BD-%E9%95%B7%E6%9C%9F%E9%A3%9F%E7%B4%A0%E6%98%93%E4%B8%AD%E9%A2%A8-%E5%B0%88%E5%AE%B64%E6%8B%9B%E5%81%A5%E5%BA%B7%E9%A3%9F%E8%82%89",
+    "timestamp": "2026-03-17T09:11:03.528Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "彭博︰內地擬加強紅籌企業赴港上市審查　建議拆除紅籌架構",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260225/1103135030512979968849637.jpeg/6UFgUTcp1fTTdf8C9dhWeC8LxPRLliBiA_uEZxn7hGc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60331072/%E4%B8%96%E7%95%8C%E7%AC%AC%E4%B8%80-2025%E5%B9%B4%E6%B8%AF%E5%A5%B3%E6%80%A7%E5%B9%B3%E5%9D%87%E9%A0%90%E6%9C%9F%E5%A3%BD%E5%91%BD88-7%E6%AD%B2%E5%89%B5%E6%96%B0%E9%AB%98-%E7%94%B7%E6%80%A7%E5%8D%87%E8%87%B3%E6%AC%A1%E9%AB%98",
     "timestamp": "2026-03-16T13:16:19.655Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "紅麻辣燙劉文祥遭踢爆：鴨肉扮豬牛月銷數千單　官方終認錯整改",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260316/1110305223949160448985146.jpeg/mqmVL9xywC_Cb_SZrC33J--gAfOtaVtIXXT341109-M?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60331095/%E7%B4%85%E9%BA%BB%E8%BE%A3%E7%87%99%E5%8A%89%E6%96%87%E7%A5%A5%E9%81%AD%E8%B8%A2%E7%88%86-%E9%B4%A8%E8%82%89%E6%89%AE%E8%B1%AC%E7%89%9B%E6%9C%88%E9%8A%B7%E6%95%B8%E5%8D%83%E5%96%AE-%E5%AE%98%E6%96%B9%E7%B5%82%E8%AA%8D%E9%8C%AF%E6%95%B4%E6%94%B9",
-    "timestamp": "2026-03-16T12:40:19.045Z",
     "strategy": ".content-card__main"
   }
 ];
