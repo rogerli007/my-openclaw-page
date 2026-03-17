@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-17T07:43:22.247Z
+// Last updated: 2026-03-17T08:37:51.942Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "彭博︰內地擬加強紅籌企業赴港上市審查　建議拆除紅籌架構",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260317/1110613220709634048861327.jpeg/PpYMEFLi8UVy_QY6tDFXO-tuM0BoxU9w4fcSc-H3EnM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60331382/%E5%BD%AD%E5%8D%9A-%E5%85%A7%E5%9C%B0%E6%93%AC%E5%8A%A0%E5%BC%B7%E7%B4%85%E7%B1%8C%E4%BC%81%E6%A5%AD%E8%B5%B4%E6%B8%AF%E4%B8%8A%E5%B8%82%E5%AF%A9%E6%9F%A5-%E5%BB%BA%E8%AD%B0%E6%8B%86%E9%99%A4%E7%B4%85%E7%B1%8C%E6%9E%B6%E6%A7%8B",
+    "timestamp": "2026-03-17T08:37:51.942Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "中國人大阪街頭遇襲鼻骨骨折500萬日圓被搶　日本兩青少年被捕",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260316/1110305223949160448985146.jpeg/mqmVL9xywC_Cb_SZrC33J--gAfOtaVtIXXT341109-M?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60331095/%E7%B4%85%E9%BA%BB%E8%BE%A3%E7%87%99%E5%8A%89%E6%96%87%E7%A5%A5%E9%81%AD%E8%B8%A2%E7%88%86-%E9%B4%A8%E8%82%89%E6%89%AE%E8%B1%AC%E7%89%9B%E6%9C%88%E9%8A%B7%E6%95%B8%E5%8D%83%E5%96%AE-%E5%AE%98%E6%96%B9%E7%B5%82%E8%AA%8D%E9%8C%AF%E6%95%B4%E6%94%B9",
     "timestamp": "2026-03-16T12:40:19.045Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "中國軍隊正補齊兩大戰略裝備短板",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260316/1110269459395776512340671.jpeg/_ZiOTKZ2Ku1dMLWZz3rbzNOJ-Tn8t8TVupoRirqaEYo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E4%B8%AD%E5%9C%8B%E8%A7%80%E5%AF%9F/60331037/%E4%B8%AD%E5%9C%8B%E8%BB%8D%E9%9A%8A%E6%AD%A3%E8%A3%9C%E9%BD%8A%E5%85%A9%E5%A4%A7%E6%88%B0%E7%95%A5%E8%A3%9D%E5%82%99%E7%9F%AD%E6%9D%BF",
-    "timestamp": "2026-03-16T12:05:39.398Z",
     "strategy": ".content-card__main"
   }
 ];
