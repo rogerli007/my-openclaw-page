@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-17T13:01:48.090Z
+// Last updated: 2026-03-17T13:45:03.746Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "廣東男花5萬網購銀條　含銀量僅0.16%　商家走佬京東拒｢假一賠十｣",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260317/1110636314451120128689432.png/tg3-rwjm0AlNfh6uoqzEeOLtOOv2-lsCwEqLZ8BKi2c?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60331394/%E5%BB%A3%E6%9D%B1%E7%94%B7%E8%8A%B15%E8%90%AC%E7%B6%B2%E8%B3%BC%E9%8A%80%E6%A2%9D-%E5%90%AB%E9%8A%80%E9%87%8F%E5%83%850-16-%E5%95%86%E5%AE%B6%E8%B5%B0%E4%BD%AC%E4%BA%AC%E6%9D%B1%E6%8B%92-%E5%81%87%E4%B8%80%E8%B3%A0%E5%8D%81",
+    "timestamp": "2026-03-17T13:45:03.746Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "8000萬六合彩頭獎｜幸運二金多寶今晚攪珠　投注額已超過1.5億",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260316/1110332275863588864495863.jpeg/X0taM-G1No-H7vLqwAla1Zks6PEeK6MLE8M3mRPDN5k?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60330978/%E5%90%B3%E5%85%86%E9%BA%9F%E6%BC%94%E7%94%B7%E4%B8%80%E8%BF%94%E6%B8%AF%E6%85%98%E8%AE%8A%E8%88%9E%E5%8F%B0-%E4%BA%BA%E6%A3%84%E7%8E%8B-%E5%87%BA%E9%A8%B7%E8%B3%A3%E5%8A%9B%E8%B7%B3%E5%94%B1%E5%A0%B4%E9%9D%A2%E5%86%B7%E6%B8%85",
     "timestamp": "2026-03-16T22:39:12.036Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "警突擊搜查觀塘工廈單位　起獲約值73萬元毒品拘一男",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260317/1110433949248655360374081.jpeg/58KROpp6ZeGMFFtmdhk3yztfriqlardFAwaTKgMGkyo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60331137/%E8%AD%A6%E7%AA%81%E6%93%8A%E6%90%9C%E6%9F%A5%E8%A7%80%E5%A1%98%E5%B7%A5%E5%BB%88%E5%96%AE%E4%BD%8D-%E8%B5%B7%E7%8D%B2%E7%B4%84%E5%80%BC73%E8%90%AC%E5%85%83%E6%AF%92%E5%93%81%E6%8B%98%E4%B8%80%E7%94%B7",
-    "timestamp": "2026-03-16T21:22:44.609Z",
     "strategy": ".content-card__main"
   }
 ];
