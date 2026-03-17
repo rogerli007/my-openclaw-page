@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-17T11:37:23.097Z
+// Last updated: 2026-03-17T12:03:22.304Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "中國海警：日本漁船非法進入釣魚島領海　依法採取措施並警告驅離",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260201/1094668230644994048729385.png/YeVQ5NzKen3o-Z6wZjDwAcrivgqNhaPHQ1JDJ0NSQyc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60331468/%E4%B8%AD%E5%9C%8B%E6%B5%B7%E8%AD%A6-%E6%97%A5%E6%9C%AC%E6%BC%81%E8%88%B9%E9%9D%9E%E6%B3%95%E9%80%B2%E5%85%A5%E9%87%A3%E9%AD%9A%E5%B3%B6%E9%A0%98%E6%B5%B7-%E4%BE%9D%E6%B3%95%E6%8E%A1%E5%8F%96%E6%8E%AA%E6%96%BD%E4%B8%A6%E8%AD%A6%E5%91%8A%E9%A9%85%E9%9B%A2",
+    "timestamp": "2026-03-17T12:03:22.304Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "私家車甩尾剷路邊　母親極速抱仔避過一劫　丈夫嘆：真是福大命大",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260317/1110407314197712896962503.png/DbgMEmhSuQiDVrgvV_BlHii5779J89iqix-EPIsfhDw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60331132/%E6%97%A5%E6%9C%AC%E9%9D%92%E6%A3%AE%E7%B8%A3%E5%B0%8D%E9%96%8B%E6%9C%89%E6%BC%81%E8%88%B9%E8%88%87%E8%B2%A8%E8%88%B9%E7%9B%B8%E6%92%9E-%E6%BC%81%E8%88%B9%E7%BF%BB%E6%B2%894%E4%BA%BA%E5%A4%B1%E8%B9%A4",
     "timestamp": "2026-03-16T19:15:27.795Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "穆傑塔巴要求官員繼續履職　特朗普：不確定伊朗實際領導人是誰",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260317/1110389509939269632370624.jpeg/Z3OrixVNXj_t64Lt9dzMcksIYHqO5gjZ6nYiEep2IhE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60331129/%E7%A9%86%E5%82%91%E5%A1%94%E5%B7%B4%E8%A6%81%E6%B1%82%E5%AE%98%E5%93%A1%E7%B9%BC%E7%BA%8C%E5%B1%A5%E8%81%B7-%E7%89%B9%E6%9C%97%E6%99%AE-%E4%B8%8D%E7%A2%BA%E5%AE%9A%E4%BC%8A%E6%9C%97%E5%AF%A6%E9%9A%9B%E9%A0%98%E5%B0%8E%E4%BA%BA%E6%98%AF%E8%AA%B0",
-    "timestamp": "2026-03-16T18:40:41.180Z",
     "strategy": ".content-card__main"
   }
 ];
