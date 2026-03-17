@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-17T14:46:12.555Z
+// Last updated: 2026-03-17T16:15:18.046Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "Clawdbot／Moltbot到DingTalk Real｜AI助手成為工作系統｜蘇仲成",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260313/1109093643102195712635729.jpeg/KoYPiqZ73UEpyujvojCaHvIxtY3ht7Vq9o1b0faNW9E?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%B6%B2%E7%A7%913.0/60330152/clawdbot-moltbot%E5%88%B0dingtalk-real-ai%E5%8A%A9%E6%89%8B%E6%88%90%E7%82%BA%E5%B7%A5%E4%BD%9C%E7%B3%BB%E7%B5%B1-%E8%98%87%E4%BB%B2%E6%88%90",
+    "timestamp": "2026-03-17T16:15:18.046Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "婆婆膝蓋不適困擾十年　獲慈善計劃安排做手術　術後感獲第二人生",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260311/1108210516486000640724506.png/2WbeMNFs_bTyVs6owAJ4GAecBAviS8QSeDeagXg3moE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60329288/%E7%B6%B2%E8%B3%BC%E4%BE%86%E8%B7%AF%E4%B8%8D%E6%98%8E%E7%94%A2%E5%93%81%E6%9C%89%E5%8D%B1%E6%A9%9F-%E9%86%AB%E7%94%9F%E9%BB%9E%E5%90%8D4%E5%A4%A7%E9%9A%B1%E5%BD%A2%E6%AF%92%E7%89%A9-%E6%81%90%E5%A2%9E%E5%8A%A0%E7%BD%B9%E7%99%8C%E9%A2%A8%E9%9A%AA",
     "timestamp": "2026-03-17T01:17:25.975Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "張柏芝45歲濃妝真樣曝光難掩疲態　掃潮牌公仔大班人尾隨吸金力強",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260317/1110379641605984256870325.jpeg/dSbRvBX6rUxhfIR5D3ivxCVxqek5kgjbeBE2X3gRNl8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60331020/%E5%BC%B5%E6%9F%8F%E8%8A%9D45%E6%AD%B2%E6%BF%83%E5%A6%9D%E7%9C%9F%E6%A8%A3%E6%9B%9D%E5%85%89%E9%9B%A3%E6%8E%A9%E7%96%B2%E6%85%8B-%E6%8E%83%E6%BD%AE%E7%89%8C%E5%85%AC%E4%BB%94%E5%A4%A7%E7%8F%AD%E4%BA%BA%E5%B0%BE%E9%9A%A8%E5%90%B8%E9%87%91%E5%8A%9B%E5%BC%B7",
-    "timestamp": "2026-03-16T23:19:47.712Z",
     "strategy": ".content-card__main"
   }
 ];
