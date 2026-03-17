@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-17T16:15:18.046Z
+// Last updated: 2026-03-17T17:16:25.770Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "自動駕駛車輛應用促進工作組首次會議　研推動現有項目跨區通行",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260318/1110737010546446336685071.jpeg/JyZp3yy0LZKuDAD9gKFsD0kHtVyvKvNKFNDOShTQzko?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60331520/%E8%87%AA%E5%8B%95%E9%A7%95%E9%A7%9B%E8%BB%8A%E8%BC%9B%E6%87%89%E7%94%A8%E4%BF%83%E9%80%B2%E5%B7%A5%E4%BD%9C%E7%B5%84%E9%A6%96%E6%AC%A1%E6%9C%83%E8%AD%B0-%E7%A0%94%E6%8E%A8%E5%8B%95%E7%8F%BE%E6%9C%89%E9%A0%85%E7%9B%AE%E8%B7%A8%E5%8D%80%E9%80%9A%E8%A1%8C",
+    "timestamp": "2026-03-17T17:16:25.770Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "Clawdbot／Moltbot到DingTalk Real｜AI助手成為工作系統｜蘇仲成",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260316/1110293675402858496527943.jpeg/YGy1yZRZDnG7xEuD8mODP27I4Qpc6Di7IBdzDyAXcw8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%BE%8E%E5%AE%B9%E6%89%8B%E5%B8%B3/60331068/%E6%80%8E%E6%A8%A3%E9%81%B8%E7%BE%8E%E7%99%BD%E7%B2%BE%E8%8F%AF-%E7%95%99%E6%84%8F5%E5%A4%A7%E5%8A%9F%E6%95%88-%E7%BE%8E%E7%99%BD%E6%B7%A1%E6%96%91%E7%B2%BE%E8%8F%AF%E6%8E%A8%E8%96%A6-cpb-clinique",
     "timestamp": "2026-03-17T02:05:18.570Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "網購來路不明產品有危機？醫生點名4大隱形毒物　恐增加罹癌風險",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260311/1108210516486000640724506.png/2WbeMNFs_bTyVs6owAJ4GAecBAviS8QSeDeagXg3moE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60329288/%E7%B6%B2%E8%B3%BC%E4%BE%86%E8%B7%AF%E4%B8%8D%E6%98%8E%E7%94%A2%E5%93%81%E6%9C%89%E5%8D%B1%E6%A9%9F-%E9%86%AB%E7%94%9F%E9%BB%9E%E5%90%8D4%E5%A4%A7%E9%9A%B1%E5%BD%A2%E6%AF%92%E7%89%A9-%E6%81%90%E5%A2%9E%E5%8A%A0%E7%BD%B9%E7%99%8C%E9%A2%A8%E9%9A%AA",
-    "timestamp": "2026-03-17T01:17:25.975Z",
     "strategy": ".content-card__main"
   }
 ];
