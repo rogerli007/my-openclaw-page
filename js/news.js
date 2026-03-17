@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-17T17:16:25.770Z
+// Last updated: 2026-03-17T19:16:18.445Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "王毅：個別大國動輒訴諸武力　對世界和平穩定形成嚴重衝擊",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260318/1110775361022464000470698.jpeg/HcKQPfgaa9m2w2waBXQ0Gr23-ZD0hJ-y5ZCIl-WQiJc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60331533/%E7%8E%8B%E6%AF%85-%E5%80%8B%E5%88%A5%E5%A4%A7%E5%9C%8B%E5%8B%95%E8%BC%92%E8%A8%B4%E8%AB%B8%E6%AD%A6%E5%8A%9B-%E5%B0%8D%E4%B8%96%E7%95%8C%E5%92%8C%E5%B9%B3%E7%A9%A9%E5%AE%9A%E5%BD%A2%E6%88%90%E5%9A%B4%E9%87%8D%E8%A1%9D%E6%93%8A",
+    "timestamp": "2026-03-17T19:16:18.445Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "自動駕駛車輛應用促進工作組首次會議　研推動現有項目跨區通行",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260317/1110533145326784512108269.jpeg/Cv-IV5_N7mVK-73YiNB6XoG4JTFhtUzTRc2YXkXNmF4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60331162/%E7%8F%8D%E6%83%9C%E7%94%9F%E5%91%BD-%E7%B2%89%E5%B6%BA%E4%B8%AD%E5%AD%B8%E5%A5%B3%E7%94%9F%E5%A2%AE%E6%A8%93-%E9%80%81%E9%99%A2%E6%B2%BB%E7%90%86",
     "timestamp": "2026-03-17T03:20:41.789Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "怎樣選美白精華？留意5大功效！美白淡斑精華推薦：CPB、CLINIQUE",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260316/1110293675402858496527943.jpeg/YGy1yZRZDnG7xEuD8mODP27I4Qpc6Di7IBdzDyAXcw8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%BE%8E%E5%AE%B9%E6%89%8B%E5%B8%B3/60331068/%E6%80%8E%E6%A8%A3%E9%81%B8%E7%BE%8E%E7%99%BD%E7%B2%BE%E8%8F%AF-%E7%95%99%E6%84%8F5%E5%A4%A7%E5%8A%9F%E6%95%88-%E7%BE%8E%E7%99%BD%E6%B7%A1%E6%96%91%E7%B2%BE%E8%8F%AF%E6%8E%A8%E8%96%A6-cpb-clinique",
-    "timestamp": "2026-03-17T02:05:18.570Z",
     "strategy": ".content-card__main"
   }
 ];
