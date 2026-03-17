@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-17T10:10:50.956Z
+// Last updated: 2026-03-17T10:38:56.190Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "黃竹坑BLUE COAST首錄二手！業主收樓一日即售出　笑袋110萬走",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20251006/1051816047306346496718296.jpeg/OZ6MyYHV0uhiHKwyYLFrTtc-D_-Wd58Hibc_34m3P98?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60331438/%E9%BB%83%E7%AB%B9%E5%9D%91blue-coast%E9%A6%96%E9%8C%84%E4%BA%8C%E6%89%8B-%E6%A5%AD%E4%B8%BB%E6%94%B6%E6%A8%93%E4%B8%80%E6%97%A5%E5%8D%B3%E5%94%AE%E5%87%BA-%E7%AC%91%E8%A2%8B110%E8%90%AC%E8%B5%B0",
+    "timestamp": "2026-03-17T10:38:56.190Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "直播｜葵涌貨櫃碼頭車火　消防：相信貨車為非法油站　檢油缸油槍",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250319/978885691725320192591823.jpeg/FNdYWB5c5JcsdPesa-h_ZLmN3uYWrGyp4k0QheJNEIU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60331114/%E7%BE%8E%E8%82%A1-%E9%81%93%E6%8C%87%E6%97%A9%E6%AE%B5%E6%9B%BE%E6%BC%B2%E9%80%BE600%E9%BB%9E-%E7%B4%8D%E6%8C%87%E5%8D%87%E9%80%BE1-%E7%B4%90%E7%B4%84%E6%9C%9F%E6%B2%B9%E8%B7%8C%E9%80%BE3",
     "timestamp": "2026-03-16T15:14:58.906Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "回南天｜偏東氣流周五「春分」起帶來雨霧　清晨氣溫比周四低7度",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260315/1109920942727106560723486.jpeg/3EIRi10iGFgUZWKLqBZ-Tqx7cT9vWA6irIQ3_raEN_4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60331103/%E5%9B%9E%E5%8D%97%E5%A4%A9-%E5%81%8F%E6%9D%B1%E6%B0%A3%E6%B5%81%E5%91%A8%E4%BA%94-%E6%98%A5%E5%88%86-%E8%B5%B7%E5%B8%B6%E4%BE%86%E9%9B%A8%E9%9C%A7-%E6%B8%85%E6%99%A8%E6%B0%A3%E6%BA%AB%E6%AF%94%E5%91%A8%E5%9B%9B%E4%BD%8E7%E5%BA%A6",
-    "timestamp": "2026-03-16T13:57:18.997Z",
     "strategy": ".content-card__main"
   }
 ];
