@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-17T21:52:16.268Z
+// Last updated: 2026-03-17T22:18:49.840Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "伊媒證實：伊朗最高國家安全官員拉里賈尼遇襲身亡",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260317/1110629820217167872395086.jpeg/Gi3EWbStqYGGqNe3AOYvLiXcY6SSCTpQgSNvtIEjb7Q?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60331545/%E4%BC%8A%E5%AA%92%E8%AD%89%E5%AF%A6-%E4%BC%8A%E6%9C%97%E6%9C%80%E9%AB%98%E5%9C%8B%E5%AE%B6%E5%AE%89%E5%85%A8%E5%AE%98%E5%93%A1%E6%8B%89%E9%87%8C%E8%B3%88%E5%B0%BC%E9%81%87%E8%A5%B2%E8%BA%AB%E4%BA%A1",
+    "timestamp": "2026-03-17T22:18:49.840Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "英媒：特朗普初期因錯誤情報　錯將伊朗小學被炸歸咎德黑蘭",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260317/1110586729418461184098246.jpeg/YsChWGYR4Eg_qsdUj5OODdOHv2BFA-R9PWjM4D1ozOA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60331315/%E4%B8%AD%E5%9C%8B%E4%BA%BA%E5%A4%A7%E9%98%AA%E8%A1%97%E9%A0%AD%E9%81%87%E8%A5%B2%E9%BC%BB%E9%AA%A8%E9%AA%A8%E6%8A%98500%E8%90%AC%E6%97%A5%E5%9C%93%E8%A2%AB%E6%90%B6-%E6%97%A5%E6%9C%AC%E5%85%A9%E9%9D%92%E5%B0%91%E5%B9%B4%E8%A2%AB%E6%8D%95",
     "timestamp": "2026-03-17T07:43:22.247Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "江西戶外岩降3死　50歲女遇難者為救援隊隊員　一周前曾參與救援",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260317/1110533780667371520541892.png/ASvyGMNuGi5vUxT2awSPzrBtXoXIHXVmBPb5dAT2-XQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60331210/%E6%B1%9F%E8%A5%BF%E6%88%B6%E5%A4%96%E5%B2%A9%E9%99%8D3%E6%AD%BB-50%E6%AD%B2%E5%A5%B3%E9%81%87%E9%9B%A3%E8%80%85%E7%82%BA%E6%95%91%E6%8F%B4%E9%9A%8A%E9%9A%8A%E5%93%A1-%E4%B8%80%E5%91%A8%E5%89%8D%E6%9B%BE%E5%8F%83%E8%88%87%E6%95%91%E6%8F%B4",
-    "timestamp": "2026-03-17T06:44:46.692Z",
     "strategy": ".content-card__main"
   }
 ];
