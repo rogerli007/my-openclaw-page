@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-17T12:03:22.304Z
+// Last updated: 2026-03-17T13:01:48.090Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "8000萬六合彩頭獎｜幸運二金多寶今晚攪珠　投注額已超過1.5億",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260317/1110677413177593856453170.jpeg/vFOPpgcuF9OEVKJ9zAn9u8XPy4gcim2e2-v-49vr_uM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60331485/8000%E8%90%AC%E5%85%AD%E5%90%88%E5%BD%A9%E9%A0%AD%E7%8D%8E-%E5%B9%B8%E9%81%8B%E4%BA%8C%E9%87%91%E5%A4%9A%E5%AF%B6%E4%BB%8A%E6%99%9A%E6%94%AA%E7%8F%A0-%E6%8A%95%E6%B3%A8%E9%A1%8D%E5%B7%B2%E8%B6%85%E9%81%8E1-5%E5%84%84",
+    "timestamp": "2026-03-17T13:01:48.090Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "中國海警：日本漁船非法進入釣魚島領海　依法採取措施並警告驅離",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260317/1110433949248655360374081.jpeg/58KROpp6ZeGMFFtmdhk3yztfriqlardFAwaTKgMGkyo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60331137/%E8%AD%A6%E7%AA%81%E6%93%8A%E6%90%9C%E6%9F%A5%E8%A7%80%E5%A1%98%E5%B7%A5%E5%BB%88%E5%96%AE%E4%BD%8D-%E8%B5%B7%E7%8D%B2%E7%B4%84%E5%80%BC73%E8%90%AC%E5%85%83%E6%AF%92%E5%93%81%E6%8B%98%E4%B8%80%E7%94%B7",
     "timestamp": "2026-03-16T21:22:44.609Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "日本青森縣對開有漁船與貨船相撞　漁船翻沉4人失蹤",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260317/1110407314197712896962503.png/DbgMEmhSuQiDVrgvV_BlHii5779J89iqix-EPIsfhDw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60331132/%E6%97%A5%E6%9C%AC%E9%9D%92%E6%A3%AE%E7%B8%A3%E5%B0%8D%E9%96%8B%E6%9C%89%E6%BC%81%E8%88%B9%E8%88%87%E8%B2%A8%E8%88%B9%E7%9B%B8%E6%92%9E-%E6%BC%81%E8%88%B9%E7%BF%BB%E6%B2%894%E4%BA%BA%E5%A4%B1%E8%B9%A4",
-    "timestamp": "2026-03-16T19:15:27.795Z",
     "strategy": ".content-card__main"
   }
 ];
