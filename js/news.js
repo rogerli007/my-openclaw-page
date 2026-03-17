@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-17T10:38:56.190Z
+// Last updated: 2026-03-17T11:12:05.923Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "伊朗戰爭擾動能源供應　全球食用油走勢充滿變數",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260114/1088059558028382208683572.jpeg/CQA2BMHYrriIdWoj3NzDzHJ4lFk6tDnil0vUnJdL1Jw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60331450/%E4%BC%8A%E6%9C%97%E6%88%B0%E7%88%AD%E6%93%BE%E5%8B%95%E8%83%BD%E6%BA%90%E4%BE%9B%E6%87%89-%E5%85%A8%E7%90%83%E9%A3%9F%E7%94%A8%E6%B2%B9%E8%B5%B0%E5%8B%A2%E5%85%85%E6%BB%BF%E8%AE%8A%E6%95%B8",
+    "timestamp": "2026-03-17T11:12:05.923Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "黃竹坑BLUE COAST首錄二手！業主收樓一日即售出　笑袋110萬走",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260316/1110307679907090432182053.jpeg/rUFZTwCqlh5uNYb5BEbQMkWx5ILUpCK2w2ns48Np7OM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60331027/%E9%83%AD%E6%9F%8F%E5%A6%8D%E7%B4%A0%E9%A1%8F%E5%A6%82%E5%89%9D%E6%AE%BC%E9%9B%9E%E8%9B%8B%E8%86%9A%E8%B3%AA%E9%A9%9A%E8%89%B7%E7%B6%B2%E6%B0%91-%E8%87%AA%E5%89%B5%E4%B8%80-%E9%A3%BE%E7%89%A9-%E7%9B%A1%E9%A1%AF%E5%8F%AF%E6%84%9B%E6%9C%AC%E6%80%A7",
     "timestamp": "2026-03-16T16:15:37.622Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美股｜道指早段曾漲逾600點　納指升逾1%　紐約期油跌逾3%",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250319/978885691725320192591823.jpeg/FNdYWB5c5JcsdPesa-h_ZLmN3uYWrGyp4k0QheJNEIU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60331114/%E7%BE%8E%E8%82%A1-%E9%81%93%E6%8C%87%E6%97%A9%E6%AE%B5%E6%9B%BE%E6%BC%B2%E9%80%BE600%E9%BB%9E-%E7%B4%8D%E6%8C%87%E5%8D%87%E9%80%BE1-%E7%B4%90%E7%B4%84%E6%9C%9F%E6%B2%B9%E8%B7%8C%E9%80%BE3",
-    "timestamp": "2026-03-16T15:14:58.906Z",
     "strategy": ".content-card__main"
   }
 ];
