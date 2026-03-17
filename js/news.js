@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-17T06:13:24.854Z
+// Last updated: 2026-03-17T06:44:46.692Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "江西戶外岩降3死　50歲女遇難者為救援隊隊員　一周前曾參與救援",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260317/1110533780667371520541892.png/ASvyGMNuGi5vUxT2awSPzrBtXoXIHXVmBPb5dAT2-XQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60331210/%E6%B1%9F%E8%A5%BF%E6%88%B6%E5%A4%96%E5%B2%A9%E9%99%8D3%E6%AD%BB-50%E6%AD%B2%E5%A5%B3%E9%81%87%E9%9B%A3%E8%80%85%E7%82%BA%E6%95%91%E6%8F%B4%E9%9A%8A%E9%9A%8A%E5%93%A1-%E4%B8%80%E5%91%A8%E5%89%8D%E6%9B%BE%E5%8F%83%E8%88%87%E6%95%91%E6%8F%B4",
+    "timestamp": "2026-03-17T06:44:46.692Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "科學家警告厄爾尼諾現象2026重臨地球　恐天氣劇變　高溫再破紀錄",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20241113/933395722983051264162809.jpeg/qkEVNHFj0SwPUaPTTiiPUIwOP0ijHc0nTF_9-Glf_fg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60331069/%E6%B2%B9%E5%83%B9%E5%8D%87-%E5%9F%8E%E5%B7%B4%E6%85%B3%E6%B2%B9%E5%A4%A7%E8%A8%88-%E6%B6%88%E6%81%AF-%E9%9D%9E%E8%BC%89%E5%AE%A2%E6%99%82%E9%97%9C%E5%86%B7%E6%B0%A3-%E5%85%8D%E5%8A%87%E7%83%88%E5%8A%A0%E9%80%9F%E6%88%96%E5%89%8E%E8%BB%8A",
     "timestamp": "2026-03-16T10:42:43.102Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "叉燒食譜｜食神戴龍教5步復刻黯然銷魂飯　叉燒醬汁黃金比例+部位",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260316/1110267180420698112936428.jpeg/EHAk5u5q1gnmj47OIDx2gw3o0C6Rt_bmIBe52CAXudg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60326049/%E5%8F%89%E7%87%92%E9%A3%9F%E8%AD%9C-%E9%A3%9F%E7%A5%9E%E6%88%B4%E9%BE%8D%E6%95%995%E6%AD%A5%E5%BE%A9%E5%88%BB%E9%BB%AF%E7%84%B6%E9%8A%B7%E9%AD%82%E9%A3%AF-%E5%8F%89%E7%87%92%E9%86%AC%E6%B1%81%E9%BB%83%E9%87%91%E6%AF%94%E4%BE%8B-%E9%83%A8%E4%BD%8D",
-    "timestamp": "2026-03-16T09:45:22.101Z",
     "strategy": ".content-card__main"
   }
 ];
