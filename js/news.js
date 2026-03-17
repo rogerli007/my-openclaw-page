@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-17T01:17:25.975Z
+// Last updated: 2026-03-17T02:05:18.570Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "怎樣選美白精華？留意5大功效！美白淡斑精華推薦：CPB、CLINIQUE",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260316/1110293675402858496527943.jpeg/YGy1yZRZDnG7xEuD8mODP27I4Qpc6Di7IBdzDyAXcw8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%BE%8E%E5%AE%B9%E6%89%8B%E5%B8%B3/60331068/%E6%80%8E%E6%A8%A3%E9%81%B8%E7%BE%8E%E7%99%BD%E7%B2%BE%E8%8F%AF-%E7%95%99%E6%84%8F5%E5%A4%A7%E5%8A%9F%E6%95%88-%E7%BE%8E%E7%99%BD%E6%B7%A1%E6%96%91%E7%B2%BE%E8%8F%AF%E6%8E%A8%E8%96%A6-cpb-clinique",
+    "timestamp": "2026-03-17T02:05:18.570Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "網購來路不明產品有危機？醫生點名4大隱形毒物　恐增加罹癌風險",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250916/1044696243038851072703816.jpeg/8vsXqxFdExiG64pJWEu3yitmxkl1wMTl3G5cGtxuXBo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60330831/%E8%91%89%E5%8A%89%E8%AD%A6%E5%91%8A%E5%8F%AF%E8%83%BD%E4%BB%8D%E6%9C%89%E9%85%92%E6%A8%93-%E6%8D%B1%E5%94%94%E4%BD%8F-%E6%8F%90%E9%86%92%E4%B8%8D%E9%81%A9%E6%87%89%E5%B8%82%E5%A0%B4%E8%BD%89%E8%AE%8A%E7%B5%82%E8%A2%AB%E6%B7%98%E6%B1%B0",
     "timestamp": "2026-03-16T03:55:08.749Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "伊朗局勢｜迎來「超級央行周」　戰爭陰影籠罩全球利率決策",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260311/1108295983424344064980245.jpeg/6vG0g0fR6Uivo4nNpC7KhAfRukv13E_AdpqOK3aajis?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60330769/%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8B%A2-%E8%BF%8E%E4%BE%86-%E8%B6%85%E7%B4%9A%E5%A4%AE%E8%A1%8C%E5%91%A8-%E6%88%B0%E7%88%AD%E9%99%B0%E5%BD%B1%E7%B1%A0%E7%BD%A9%E5%85%A8%E7%90%83%E5%88%A9%E7%8E%87%E6%B1%BA%E7%AD%96",
-    "timestamp": "2026-03-16T00:50:55.874Z",
     "strategy": ".content-card__main"
   }
 ];
