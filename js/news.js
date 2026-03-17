@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-17T23:25:00.444Z
+// Last updated: 2026-03-17T23:49:21.087Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "有片︱青朗公路牛隻走出馬路被車撞　同伴匿草叢　往九龍交通受阻",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260318/1110842188310253568072619.jpeg/sbGYawSCeegJ7ALyypxb8kxgsl6fxMtlcWb9NXFm_TU",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60331551/%E6%9C%89%E7%89%87-%E9%9D%92%E6%9C%97%E5%85%AC%E8%B7%AF%E7%89%9B%E9%9A%BB%E8%B5%B0%E5%87%BA%E9%A6%AC%E8%B7%AF%E8%A2%AB%E8%BB%8A%E6%92%9E-%E5%90%8C%E4%BC%B4%E5%8C%BF%E8%8D%89%E5%8F%A2-%E5%BE%80%E4%B9%9D%E9%BE%8D%E4%BA%A4%E9%80%9A%E5%8F%97%E9%98%BB",
+    "timestamp": "2026-03-17T23:49:21.087Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "以軍揚言追殺伊朗新任最高領袖　伊朗大使否認穆傑塔巴在俄治療",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260317/1110581250340425728276841.jpeg/J74MuYkKVCTeCZNqqA5PIjS7edQFiEdgk9sh-pPbIfo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60319680/%E9%95%B7%E5%A3%BD%E9%A3%B2%E9%A3%9F-%E7%A0%94%E7%A9%B6%E8%AD%89%E5%90%83%E8%82%89%E6%9B%B4%E9%95%B7%E5%A3%BD-%E9%95%B7%E6%9C%9F%E9%A3%9F%E7%B4%A0%E6%98%93%E4%B8%AD%E9%A2%A8-%E5%B0%88%E5%AE%B64%E6%8B%9B%E5%81%A5%E5%BA%B7%E9%A3%9F%E8%82%89",
     "timestamp": "2026-03-17T09:11:03.528Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "彭博︰內地擬加強紅籌企業赴港上市審查　建議拆除紅籌架構",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260317/1110613220709634048861327.jpeg/PpYMEFLi8UVy_QY6tDFXO-tuM0BoxU9w4fcSc-H3EnM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60331382/%E5%BD%AD%E5%8D%9A-%E5%85%A7%E5%9C%B0%E6%93%AC%E5%8A%A0%E5%BC%B7%E7%B4%85%E7%B1%8C%E4%BC%81%E6%A5%AD%E8%B5%B4%E6%B8%AF%E4%B8%8A%E5%B8%82%E5%AF%A9%E6%9F%A5-%E5%BB%BA%E8%AD%B0%E6%8B%86%E9%99%A4%E7%B4%85%E7%B1%8C%E6%9E%B6%E6%A7%8B",
-    "timestamp": "2026-03-17T08:37:51.942Z",
     "strategy": ".content-card__main"
   }
 ];
