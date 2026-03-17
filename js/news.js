@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-17T19:42:51.964Z
+// Last updated: 2026-03-17T20:04:41.812Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "大埔私家車遇路障　68歲女司機「吹爆波」涉醉駕被捕",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260318/1110777784143187968247583.jpeg/hn2lfMTeiiXc2FW65KJULHsE92Qe66mVuGrieY1q4nk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60331534/%E5%A4%A7%E5%9F%94%E7%A7%81%E5%AE%B6%E8%BB%8A%E9%81%87%E8%B7%AF%E9%9A%9C-68%E6%AD%B2%E5%A5%B3%E5%8F%B8%E6%A9%9F-%E5%90%B9%E7%88%86%E6%B3%A2-%E6%B6%89%E9%86%89%E9%A7%95%E8%A2%AB%E6%8D%95",
+    "timestamp": "2026-03-17T20:04:41.812Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "大埔私家車遇路障　68歲女司機「吹爆波」涉醉駕被捕",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260317/1110560069629513728013479.jpeg/CQBpCRFGEFY5qmYNkaqUlgzyTXPEfE1t6rfyYOq38mA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%97%85%E9%81%8A/60330335/2026%E7%A6%8F%E5%B8%83%E6%96%AF%E6%98%9F%E7%B4%9A%E9%85%92%E5%BA%97%E6%8E%92%E5%90%8D%E5%85%AC%E5%B8%83-%E9%A6%99%E6%B8%AF20%E9%96%93%E9%85%92%E5%BA%97%E4%B8%8A%E6%A6%9C-7%E9%96%93%E7%8D%B25%E6%98%9F%E8%A9%95%E7%B4%9A",
     "timestamp": "2026-03-17T04:59:59.756Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "李強：加快發展新一代智能製造　推進重大基礎設施網絡建設",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260317/1110538437225615360024753.jpeg/_a6dkMr94G--t85YIM-tXDST9ltme_InsZ98t7GffLc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60331205/%E6%9D%8E%E5%BC%B7-%E5%8A%A0%E5%BF%AB%E7%99%BC%E5%B1%95%E6%96%B0%E4%B8%80%E4%BB%A3%E6%99%BA%E8%83%BD%E8%A3%BD%E9%80%A0-%E6%8E%A8%E9%80%B2%E9%87%8D%E5%A4%A7%E5%9F%BA%E7%A4%8E%E8%A8%AD%E6%96%BD%E7%B6%B2%E7%B5%A1%E5%BB%BA%E8%A8%AD",
-    "timestamp": "2026-03-17T04:10:33.789Z",
     "strategy": ".content-card__main"
   }
 ];
