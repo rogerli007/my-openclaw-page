@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-17T11:12:05.923Z
+// Last updated: 2026-03-17T11:37:23.097Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "私家車甩尾剷路邊　母親極速抱仔避過一劫　丈夫嘆：真是福大命大",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260317/1110612210138353664652098.png/MNxyh-F6fuubB1Fx_KdHxIgQ8MQ9wMj5q1UE2qtVBNo",
+    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60331363/%E7%A7%81%E5%AE%B6%E8%BB%8A%E7%94%A9%E5%B0%BE%E5%89%B7%E8%B7%AF%E9%82%8A-%E6%AF%8D%E8%A6%AA%E6%A5%B5%E9%80%9F%E6%8A%B1%E4%BB%94%E9%81%BF%E9%81%8E%E4%B8%80%E5%8A%AB-%E4%B8%88%E5%A4%AB%E5%98%86-%E7%9C%9F%E6%98%AF%E7%A6%8F%E5%A4%A7%E5%91%BD%E5%A4%A7",
+    "timestamp": "2026-03-17T11:37:23.097Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "伊朗戰爭擾動能源供應　全球食用油走勢充滿變數",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260317/1110389509939269632370624.jpeg/Z3OrixVNXj_t64Lt9dzMcksIYHqO5gjZ6nYiEep2IhE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60331129/%E7%A9%86%E5%82%91%E5%A1%94%E5%B7%B4%E8%A6%81%E6%B1%82%E5%AE%98%E5%93%A1%E7%B9%BC%E7%BA%8C%E5%B1%A5%E8%81%B7-%E7%89%B9%E6%9C%97%E6%99%AE-%E4%B8%8D%E7%A2%BA%E5%AE%9A%E4%BC%8A%E6%9C%97%E5%AF%A6%E9%9A%9B%E9%A0%98%E5%B0%8E%E4%BA%BA%E6%98%AF%E8%AA%B0",
     "timestamp": "2026-03-16T18:40:41.180Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "郭柏妍素顏如剝殼雞蛋膚質驚艷網民　自創一「飾物」盡顯可愛本性",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260316/1110307679907090432182053.jpeg/rUFZTwCqlh5uNYb5BEbQMkWx5ILUpCK2w2ns48Np7OM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60331027/%E9%83%AD%E6%9F%8F%E5%A6%8D%E7%B4%A0%E9%A1%8F%E5%A6%82%E5%89%9D%E6%AE%BC%E9%9B%9E%E8%9B%8B%E8%86%9A%E8%B3%AA%E9%A9%9A%E8%89%B7%E7%B6%B2%E6%B0%91-%E8%87%AA%E5%89%B5%E4%B8%80-%E9%A3%BE%E7%89%A9-%E7%9B%A1%E9%A1%AF%E5%8F%AF%E6%84%9B%E6%9C%AC%E6%80%A7",
-    "timestamp": "2026-03-16T16:15:37.622Z",
     "strategy": ".content-card__main"
   }
 ];
