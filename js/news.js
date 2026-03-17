@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-17T05:39:03.718Z
+// Last updated: 2026-03-17T06:13:24.854Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "科學家警告厄爾尼諾現象2026重臨地球　恐天氣劇變　高溫再破紀錄",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260317/1110547720986169344741289.jpeg/MxFOMhhv3PZJdmJMgVqllsoR3TteMV9PEZ9B_RGfQf0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60331229/%E7%A7%91%E5%AD%B8%E5%AE%B6%E8%AD%A6%E5%91%8A%E5%8E%84%E7%88%BE%E5%B0%BC%E8%AB%BE%E7%8F%BE%E8%B1%A12026%E9%87%8D%E8%87%A8%E5%9C%B0%E7%90%83-%E6%81%90%E5%A4%A9%E6%B0%A3%E5%8A%87%E8%AE%8A-%E9%AB%98%E6%BA%AB%E5%86%8D%E7%A0%B4%E7%B4%80%E9%8C%84",
+    "timestamp": "2026-03-17T06:13:24.854Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美媒︰SEC擬提交議案　取消強制上市公司發布季度業績",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260316/1110267180420698112936428.jpeg/EHAk5u5q1gnmj47OIDx2gw3o0C6Rt_bmIBe52CAXudg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60326049/%E5%8F%89%E7%87%92%E9%A3%9F%E8%AD%9C-%E9%A3%9F%E7%A5%9E%E6%88%B4%E9%BE%8D%E6%95%995%E6%AD%A5%E5%BE%A9%E5%88%BB%E9%BB%AF%E7%84%B6%E9%8A%B7%E9%AD%82%E9%A3%AF-%E5%8F%89%E7%87%92%E9%86%AC%E6%B1%81%E9%BB%83%E9%87%91%E6%AF%94%E4%BE%8B-%E9%83%A8%E4%BD%8D",
     "timestamp": "2026-03-16T09:45:22.101Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "台東一日遊景點美食推薦　打卡海線最美早午餐/新藝術地標附地址",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260316/1110254409251557376142908.jpeg/IpgKM9PxMYDvB9AwrgFweQr4MABf48uAxNM_AsTTPwI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%97%85%E9%81%8A/60328150/%E5%8F%B0%E6%9D%B1%E4%B8%80%E6%97%A5%E9%81%8A%E6%99%AF%E9%BB%9E%E7%BE%8E%E9%A3%9F%E6%8E%A8%E8%96%A6-%E6%89%93%E5%8D%A1%E6%B5%B7%E7%B7%9A%E6%9C%80%E7%BE%8E%E6%97%A9%E5%8D%88%E9%A4%90-%E6%96%B0%E8%97%9D%E8%A1%93%E5%9C%B0%E6%A8%99%E9%99%84%E5%9C%B0%E5%9D%80",
-    "timestamp": "2026-03-16T09:14:03.303Z",
     "strategy": ".content-card__main"
   }
 ];
