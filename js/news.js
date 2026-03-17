@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-17T02:05:18.570Z
+// Last updated: 2026-03-17T03:20:41.789Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "珍惜生命︱粉嶺中學女生墮樓　送院治理",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260317/1110533145326784512108269.jpeg/Cv-IV5_N7mVK-73YiNB6XoG4JTFhtUzTRc2YXkXNmF4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60331162/%E7%8F%8D%E6%83%9C%E7%94%9F%E5%91%BD-%E7%B2%89%E5%B6%BA%E4%B8%AD%E5%AD%B8%E5%A5%B3%E7%94%9F%E5%A2%AE%E6%A8%93-%E9%80%81%E9%99%A2%E6%B2%BB%E7%90%86",
+    "timestamp": "2026-03-17T03:20:41.789Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "怎樣選美白精華？留意5大功效！美白淡斑精華推薦：CPB、CLINIQUE",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260203/1095344367310213120514309.jpeg/CdpsjPEj_RmWEZSc4c6i4MY09X9HNhwfw-jC_sPowv4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60330894/%E4%BA%94%E6%9C%88%E5%A4%A9%E6%BC%94%E5%94%B1%E6%9C%83%E5%8F%96%E6%B6%88%E9%A0%AD%E5%A0%B4%E6%94%B6194%E5%AE%97%E6%8A%95%E8%A8%B4-%E6%B6%88%E5%A7%94%E6%9C%83%E4%BF%83%E4%B8%BB%E8%BE%A6%E6%96%B9%E6%9C%AC%E5%91%A8%E5%85%A7%E8%A6%86%E4%BA%8B%E4%B8%BB",
     "timestamp": "2026-03-16T05:48:32.147Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "葉劉警告可能仍有酒樓「捱唔住」　提醒不適應市場轉變終被淘汰",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250916/1044696243038851072703816.jpeg/8vsXqxFdExiG64pJWEu3yitmxkl1wMTl3G5cGtxuXBo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60330831/%E8%91%89%E5%8A%89%E8%AD%A6%E5%91%8A%E5%8F%AF%E8%83%BD%E4%BB%8D%E6%9C%89%E9%85%92%E6%A8%93-%E6%8D%B1%E5%94%94%E4%BD%8F-%E6%8F%90%E9%86%92%E4%B8%8D%E9%81%A9%E6%87%89%E5%B8%82%E5%A0%B4%E8%BD%89%E8%AE%8A%E7%B5%82%E8%A2%AB%E6%B7%98%E6%B1%B0",
-    "timestamp": "2026-03-16T03:55:08.749Z",
     "strategy": ".content-card__main"
   }
 ];
