@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-17T04:59:59.756Z
+// Last updated: 2026-03-17T05:39:03.718Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美媒︰SEC擬提交議案　取消強制上市公司發布季度業績",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250314/977153403853475840759264.jpeg/KhwiK_i6sQtqsAzHSXKSpet12DaicC-s7F4aduxeGnY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60331273/%E7%BE%8E%E5%AA%92-sec%E6%93%AC%E6%8F%90%E4%BA%A4%E8%AD%B0%E6%A1%88-%E5%8F%96%E6%B6%88%E5%BC%B7%E5%88%B6%E4%B8%8A%E5%B8%82%E5%85%AC%E5%8F%B8%E7%99%BC%E5%B8%83%E5%AD%A3%E5%BA%A6%E6%A5%AD%E7%B8%BE",
+    "timestamp": "2026-03-17T05:39:03.718Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "2026福布斯星級酒店排名公布　香港20間酒店上榜／7間獲5星評級！",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260316/1110254409251557376142908.jpeg/IpgKM9PxMYDvB9AwrgFweQr4MABf48uAxNM_AsTTPwI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%97%85%E9%81%8A/60328150/%E5%8F%B0%E6%9D%B1%E4%B8%80%E6%97%A5%E9%81%8A%E6%99%AF%E9%BB%9E%E7%BE%8E%E9%A3%9F%E6%8E%A8%E8%96%A6-%E6%89%93%E5%8D%A1%E6%B5%B7%E7%B7%9A%E6%9C%80%E7%BE%8E%E6%97%A9%E5%8D%88%E9%A4%90-%E6%96%B0%E8%97%9D%E8%A1%93%E5%9C%B0%E6%A8%99%E9%99%84%E5%9C%B0%E5%9D%80",
     "timestamp": "2026-03-16T09:14:03.303Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "JPEX案｜林作等8被告交付高院程序6.1再訊　裕美有陪林到庭",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260316/1110237701459677184641750.jpeg/XTGxgcUwiLvVAKMxd0_tUkGty8DwDl4k3dmRGPjZkRg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60330964/jpex%E6%A1%88-%E6%9E%97%E4%BD%9C%E7%AD%898%E8%A2%AB%E5%91%8A%E4%BA%A4%E4%BB%98%E9%AB%98%E9%99%A2%E7%A8%8B%E5%BA%8F6-1%E5%86%8D%E8%A8%8A-%E8%A3%95%E7%BE%8E%E6%9C%89%E9%99%AA%E6%9E%97%E5%88%B0%E5%BA%AD",
-    "timestamp": "2026-03-16T07:44:27.169Z",
     "strategy": ".content-card__main"
   }
 ];
