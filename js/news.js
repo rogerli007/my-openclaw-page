@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-16T23:19:47.712Z
+// Last updated: 2026-03-17T01:17:25.975Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "網購來路不明產品有危機？醫生點名4大隱形毒物　恐增加罹癌風險",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260311/1108210516486000640724506.png/2WbeMNFs_bTyVs6owAJ4GAecBAviS8QSeDeagXg3moE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60329288/%E7%B6%B2%E8%B3%BC%E4%BE%86%E8%B7%AF%E4%B8%8D%E6%98%8E%E7%94%A2%E5%93%81%E6%9C%89%E5%8D%B1%E6%A9%9F-%E9%86%AB%E7%94%9F%E9%BB%9E%E5%90%8D4%E5%A4%A7%E9%9A%B1%E5%BD%A2%E6%AF%92%E7%89%A9-%E6%81%90%E5%A2%9E%E5%8A%A0%E7%BD%B9%E7%99%8C%E9%A2%A8%E9%9A%AA",
+    "timestamp": "2026-03-17T01:17:25.975Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "張柏芝45歲濃妝真樣曝光難掩疲態　掃潮牌公仔大班人尾隨吸金力強",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260311/1108295983424344064980245.jpeg/6vG0g0fR6Uivo4nNpC7KhAfRukv13E_AdpqOK3aajis?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60330769/%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8B%A2-%E8%BF%8E%E4%BE%86-%E8%B6%85%E7%B4%9A%E5%A4%AE%E8%A1%8C%E5%91%A8-%E6%88%B0%E7%88%AD%E9%99%B0%E5%BD%B1%E7%B1%A0%E7%BD%A9%E5%85%A8%E7%90%83%E5%88%A9%E7%8E%87%E6%B1%BA%E7%AD%96",
     "timestamp": "2026-03-16T00:50:55.874Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "鄰居比特犬撲出咬面不放　老婦頭面重創留血路　丈夫爆心寒內情",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260314/1109562093981405184602317.jpeg/1IBQ1wLXeiTx0TrnvSAbZKJgeFaFhp-nB-KjVgfio1Y?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E8%A9%B1%E9%A1%8C/60330494/%E9%84%B0%E5%B1%85%E6%AF%94%E7%89%B9%E7%8A%AC%E6%92%B2%E5%87%BA%E5%92%AC%E9%9D%A2%E4%B8%8D%E6%94%BE-%E8%80%81%E5%A9%A6%E9%A0%AD%E9%9D%A2%E9%87%8D%E5%89%B5%E7%95%99%E8%A1%80%E8%B7%AF-%E4%B8%88%E5%A4%AB%E7%88%86%E5%BF%83%E5%AF%92%E5%85%A7%E6%83%85",
-    "timestamp": "2026-03-15T23:18:57.301Z",
     "strategy": ".content-card__main"
   }
 ];
