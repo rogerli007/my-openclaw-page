@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-18T17:16:05.037Z
+// Last updated: 2026-03-18T18:12:38.315Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "伊朗局勢｜特朗普授權解除船禁60日　以應對能源價格上漲",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250430/994288191454318592307264.jpeg/sgZ9V6fkTy1VXvwWMkRvaPX1koxfmwggPxQfqT8UH6k?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60331922/%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8B%A2-%E7%89%B9%E6%9C%97%E6%99%AE%E6%8E%88%E6%AC%8A%E8%A7%A3%E9%99%A4%E8%88%B9%E7%A6%8160%E6%97%A5-%E4%BB%A5%E6%87%89%E5%B0%8D%E8%83%BD%E6%BA%90%E5%83%B9%E6%A0%BC%E4%B8%8A%E6%BC%B2",
+    "timestamp": "2026-03-18T18:12:38.315Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "將軍澳村屋遇竊　警5小時後拘28歲男起回$37萬失物　案件今日提堂",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260309/1107771198449651712615827.jpeg/GXIwBADgAawZAVL-vNB3dURG_LmYWVdFAIqF2QCKhdk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60331547/%E4%BB%A5%E8%BB%8D%E6%8F%9A%E8%A8%80%E8%BF%BD%E6%AE%BA%E4%BC%8A%E6%9C%97%E6%96%B0%E4%BB%BB%E6%9C%80%E9%AB%98%E9%A0%98%E8%A2%96-%E4%BC%8A%E6%9C%97%E5%A4%A7%E4%BD%BF%E5%90%A6%E8%AA%8D%E7%A9%86%E5%82%91%E5%A1%94%E5%B7%B4%E5%9C%A8%E4%BF%84%E6%B2%BB%E7%99%82",
     "timestamp": "2026-03-17T23:25:00.444Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "伊媒證實：伊朗最高國家安全官員拉里賈尼遇襲身亡",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260317/1110629820217167872395086.jpeg/Gi3EWbStqYGGqNe3AOYvLiXcY6SSCTpQgSNvtIEjb7Q?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60331545/%E4%BC%8A%E5%AA%92%E8%AD%89%E5%AF%A6-%E4%BC%8A%E6%9C%97%E6%9C%80%E9%AB%98%E5%9C%8B%E5%AE%B6%E5%AE%89%E5%85%A8%E5%AE%98%E5%93%A1%E6%8B%89%E9%87%8C%E8%B3%88%E5%B0%BC%E9%81%87%E8%A5%B2%E8%BA%AB%E4%BA%A1",
-    "timestamp": "2026-03-17T22:18:49.840Z",
     "strategy": ".content-card__main"
   }
 ];
