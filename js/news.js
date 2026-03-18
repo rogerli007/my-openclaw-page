@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-18T22:36:20.667Z
+// Last updated: 2026-03-18T23:02:17.146Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "麥明詩相隔6年重返TVB疑拍升學節目　投身教育界曾出手拯救幼稚園",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260318/1111059961661624320123498.jpeg/L_57VUoJhTfdYIO4Wwc6AnW86NSPDoHo9bngR_W54Ec?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60331688/%E9%BA%A5%E6%98%8E%E8%A9%A9%E7%9B%B8%E9%9A%946%E5%B9%B4%E9%87%8D%E8%BF%94tvb%E7%96%91%E6%8B%8D%E5%8D%87%E5%AD%B8%E7%AF%80%E7%9B%AE-%E6%8A%95%E8%BA%AB%E6%95%99%E8%82%B2%E7%95%8C%E6%9B%BE%E5%87%BA%E6%89%8B%E6%8B%AF%E6%95%91%E5%B9%BC%E7%A8%9A%E5%9C%92",
+    "timestamp": "2026-03-18T23:02:17.146Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "麥明詩相隔6年重返TVB疑拍升學節目　投身教育界曾出手拯救幼稚園",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260318/1110934482409492480697082.jpeg/QjQ-WpyIgj8Z4WAUx7f3QKihQtric3XdRzlj4Ec5Y-A?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60331678/%E6%B5%B7%E7%91%85%E7%81%A3i%E5%91%A8%E4%BA%94%E6%8B%9B%E6%A8%99254%E5%90%91%E6%B5%B7%E6%88%B6-%E6%93%AC%E5%8D%B3%E6%97%A5%E9%96%8B%E6%A8%99-%E6%9C%80%E5%BF%AB%E6%9C%88%E5%85%A7%E5%86%8D%E6%8E%A8%E5%83%B9%E5%96%AE%E5%96%AE%E4%BD%8D",
     "timestamp": "2026-03-18T05:58:06.270Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "夜王｜「葵芳」蔡蕙琪中六歌唱比賽片出土　網民︰呢次真係19歲",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260318/1110911877396828160241967.jpeg/vC7oTIMjcKZbNXYIEMtmDN9GS8SpgyU8A9W1QAPVtUA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60331647/%E5%A4%9C%E7%8E%8B-%E8%91%B5%E8%8A%B3-%E8%94%A1%E8%95%99%E7%90%AA%E4%B8%AD%E5%85%AD%E6%AD%8C%E5%94%B1%E6%AF%94%E8%B3%BD%E7%89%87%E5%87%BA%E5%9C%9F-%E7%B6%B2%E6%B0%91-%E5%91%A2%E6%AC%A1%E7%9C%9F%E4%BF%8219%E6%AD%B2",
-    "timestamp": "2026-03-18T04:37:33.193Z",
     "strategy": ".content-card__main"
   }
 ];
