@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-18T18:12:38.315Z
+// Last updated: 2026-03-18T18:39:59.749Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美國頒許可證授權涉委內瑞拉石油公司業務　緩解伊朗所致能源壓力",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260106/1085263127152431104183267.jpeg/9iy7JHCrajZKdPN8D2DO6Fr2dEr8H63DZQEbe2UBG3s?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60331550/%E7%BE%8E%E5%9C%8B%E9%A0%92%E8%A8%B1%E5%8F%AF%E8%AD%89%E6%8E%88%E6%AC%8A%E6%B6%89%E5%A7%94%E5%85%A7%E7%91%9E%E6%8B%89%E7%9F%B3%E6%B2%B9%E5%85%AC%E5%8F%B8%E6%A5%AD%E5%8B%99-%E7%B7%A9%E8%A7%A3%E4%BC%8A%E6%9C%97%E6%89%80%E8%87%B4%E8%83%BD%E6%BA%90%E5%A3%93%E5%8A%9B",
+    "timestamp": "2026-03-18T18:39:59.749Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "伊朗局勢｜特朗普授權解除船禁60日　以應對能源價格上漲",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260318/1110842188310253568072619.jpeg/sbGYawSCeegJ7ALyypxb8kxgsl6fxMtlcWb9NXFm_TU",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60331551/%E6%9C%89%E7%89%87-%E9%9D%92%E6%9C%97%E5%85%AC%E8%B7%AF%E7%89%9B%E9%9A%BB%E8%B5%B0%E5%87%BA%E9%A6%AC%E8%B7%AF%E8%A2%AB%E8%BB%8A%E6%92%9E-%E5%90%8C%E4%BC%B4%E5%8C%BF%E8%8D%89%E5%8F%A2-%E5%BE%80%E4%B9%9D%E9%BE%8D%E4%BA%A4%E9%80%9A%E5%8F%97%E9%98%BB",
     "timestamp": "2026-03-17T23:49:21.087Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "以軍揚言追殺伊朗新任最高領袖　伊朗大使否認穆傑塔巴在俄治療",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260309/1107771198449651712615827.jpeg/GXIwBADgAawZAVL-vNB3dURG_LmYWVdFAIqF2QCKhdk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60331547/%E4%BB%A5%E8%BB%8D%E6%8F%9A%E8%A8%80%E8%BF%BD%E6%AE%BA%E4%BC%8A%E6%9C%97%E6%96%B0%E4%BB%BB%E6%9C%80%E9%AB%98%E9%A0%98%E8%A2%96-%E4%BC%8A%E6%9C%97%E5%A4%A7%E4%BD%BF%E5%90%A6%E8%AA%8D%E7%A9%86%E5%82%91%E5%A1%94%E5%B7%B4%E5%9C%A8%E4%BF%84%E6%B2%BB%E7%99%82",
-    "timestamp": "2026-03-17T23:25:00.444Z",
     "strategy": ".content-card__main"
   }
 ];
