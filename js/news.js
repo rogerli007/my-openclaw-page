@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-18T05:58:06.270Z
+// Last updated: 2026-03-18T07:43:09.860Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "兩警涉屢向酒吧負責人透露警方行動資訊　控公職失當等罪今早提堂",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20240719/890758830277791744742103.jpeg/_xz4-BqyNBxxwuGMWTOKhEJ6si9QeUBNWwQgH1sEIB8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60331739/%E5%85%A9%E8%AD%A6%E6%B6%89%E5%B1%A2%E5%90%91%E9%85%92%E5%90%A7%E8%B2%A0%E8%B2%AC%E4%BA%BA%E9%80%8F%E9%9C%B2%E8%AD%A6%E6%96%B9%E8%A1%8C%E5%8B%95%E8%B3%87%E8%A8%8A-%E6%8E%A7%E5%85%AC%E8%81%B7%E5%A4%B1%E7%95%B6%E7%AD%89%E7%BD%AA%E4%BB%8A%E6%97%A9%E6%8F%90%E5%A0%82",
+    "timestamp": "2026-03-18T07:43:09.860Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "海瑅灣I周五招標254向海戶、擬即日開標　最快月內再推價單單位",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260317/1110677413177593856453170.jpeg/vFOPpgcuF9OEVKJ9zAn9u8XPy4gcim2e2-v-49vr_uM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60331485/8000%E8%90%AC%E5%85%AD%E5%90%88%E5%BD%A9%E9%A0%AD%E7%8D%8E-%E5%B9%B8%E9%81%8B%E4%BA%8C%E9%87%91%E5%A4%9A%E5%AF%B6%E4%BB%8A%E6%99%9A%E6%94%AA%E7%8F%A0-%E6%8A%95%E6%B3%A8%E9%A1%8D%E5%B7%B2%E8%B6%85%E9%81%8E1-5%E5%84%84",
     "timestamp": "2026-03-17T13:01:48.090Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "中國海警：日本漁船非法進入釣魚島領海　依法採取措施並警告驅離",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260201/1094668230644994048729385.png/YeVQ5NzKen3o-Z6wZjDwAcrivgqNhaPHQ1JDJ0NSQyc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60331468/%E4%B8%AD%E5%9C%8B%E6%B5%B7%E8%AD%A6-%E6%97%A5%E6%9C%AC%E6%BC%81%E8%88%B9%E9%9D%9E%E6%B3%95%E9%80%B2%E5%85%A5%E9%87%A3%E9%AD%9A%E5%B3%B6%E9%A0%98%E6%B5%B7-%E4%BE%9D%E6%B3%95%E6%8E%A1%E5%8F%96%E6%8E%AA%E6%96%BD%E4%B8%A6%E8%AD%A6%E5%91%8A%E9%A9%85%E9%9B%A2",
-    "timestamp": "2026-03-17T12:03:22.304Z",
     "strategy": ".content-card__main"
   }
 ];
