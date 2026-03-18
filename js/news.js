@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-18T10:39:13.332Z
+// Last updated: 2026-03-18T11:11:22.651Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "深圳影樓｜188元影寫真最後竟變3萬　24歲女遭洗腦後借錢碌卡埋單",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260318/1110996592862695424098157.png/QfoJ6i5cz-DAr9zKgtO0ijRnDVrmA-zytBu_27Qbv9s?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60331829/%E6%B7%B1%E5%9C%B3%E5%BD%B1%E6%A8%93-188%E5%85%83%E5%BD%B1%E5%AF%AB%E7%9C%9F%E6%9C%80%E5%BE%8C%E7%AB%9F%E8%AE%8A3%E8%90%AC-24%E6%AD%B2%E5%A5%B3%E9%81%AD%E6%B4%97%E8%85%A6%E5%BE%8C%E5%80%9F%E9%8C%A2%E7%A2%8C%E5%8D%A1%E5%9F%8B%E5%96%AE",
+    "timestamp": "2026-03-18T11:11:22.651Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "渣打推定息按揭計劃　首三年定息2.73厘看齊滙豐恒生　月慳1401元",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260318/1110777784143187968247583.jpeg/hn2lfMTeiiXc2FW65KJULHsE92Qe66mVuGrieY1q4nk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60331534/%E5%A4%A7%E5%9F%94%E7%A7%81%E5%AE%B6%E8%BB%8A%E9%81%87%E8%B7%AF%E9%9A%9C-68%E6%AD%B2%E5%A5%B3%E5%8F%B8%E6%A9%9F-%E5%90%B9%E7%88%86%E6%B3%A2-%E6%B6%89%E9%86%89%E9%A7%95%E8%A2%AB%E6%8D%95",
     "timestamp": "2026-03-17T19:42:51.964Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "王毅：個別大國動輒訴諸武力　對世界和平穩定形成嚴重衝擊",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260318/1110775361022464000470698.jpeg/HcKQPfgaa9m2w2waBXQ0Gr23-ZD0hJ-y5ZCIl-WQiJc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60331533/%E7%8E%8B%E6%AF%85-%E5%80%8B%E5%88%A5%E5%A4%A7%E5%9C%8B%E5%8B%95%E8%BC%92%E8%A8%B4%E8%AB%B8%E6%AD%A6%E5%8A%9B-%E5%B0%8D%E4%B8%96%E7%95%8C%E5%92%8C%E5%B9%B3%E7%A9%A9%E5%AE%9A%E5%BD%A2%E6%88%90%E5%9A%B4%E9%87%8D%E8%A1%9D%E6%93%8A",
-    "timestamp": "2026-03-17T19:16:18.445Z",
     "strategy": ".content-card__main"
   }
 ];
