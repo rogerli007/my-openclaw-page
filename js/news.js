@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-18T11:11:22.651Z
+// Last updated: 2026-03-18T11:37:25.969Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "南京大屠殺倖存者關舜華去世　享年101歲　目前在世僅剩21人",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260318/1111016533359857664417562.jpeg/I7c8gToxRu4kRoDL1eGBH6ZhR9KYG0Dbbzje3W843t0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60331872/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%B1%A0%E6%AE%BA%E5%80%96%E5%AD%98%E8%80%85%E9%97%9C%E8%88%9C%E8%8F%AF%E5%8E%BB%E4%B8%96-%E4%BA%AB%E5%B9%B4101%E6%AD%B2-%E7%9B%AE%E5%89%8D%E5%9C%A8%E4%B8%96%E5%83%85%E5%89%A921%E4%BA%BA",
+    "timestamp": "2026-03-18T11:37:25.969Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "深圳影樓｜188元影寫真最後竟變3萬　24歲女遭洗腦後借錢碌卡埋單",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260318/1110777784143187968247583.jpeg/hn2lfMTeiiXc2FW65KJULHsE92Qe66mVuGrieY1q4nk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60331534/%E5%A4%A7%E5%9F%94%E7%A7%81%E5%AE%B6%E8%BB%8A%E9%81%87%E8%B7%AF%E9%9A%9C-68%E6%AD%B2%E5%A5%B3%E5%8F%B8%E6%A9%9F-%E5%90%B9%E7%88%86%E6%B3%A2-%E6%B6%89%E9%86%89%E9%A7%95%E8%A2%AB%E6%8D%95",
     "timestamp": "2026-03-17T20:04:41.812Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "大埔私家車遇路障　68歲女司機「吹爆波」涉醉駕被捕",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260318/1110777784143187968247583.jpeg/hn2lfMTeiiXc2FW65KJULHsE92Qe66mVuGrieY1q4nk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60331534/%E5%A4%A7%E5%9F%94%E7%A7%81%E5%AE%B6%E8%BB%8A%E9%81%87%E8%B7%AF%E9%9A%9C-68%E6%AD%B2%E5%A5%B3%E5%8F%B8%E6%A9%9F-%E5%90%B9%E7%88%86%E6%B3%A2-%E6%B6%89%E9%86%89%E9%A7%95%E8%A2%AB%E6%8D%95",
-    "timestamp": "2026-03-17T19:42:51.964Z",
     "strategy": ".content-card__main"
   }
 ];
