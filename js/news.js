@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-18T09:40:10.580Z
+// Last updated: 2026-03-18T10:12:18.231Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "日智庫揭解放軍詭異現象：台海前線部署舊戰機　一用途破壞力極強",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260318/1110991989056212992410852.jpeg/ephC3ZazybShX0zXmlps2mP3UKaTMt5T-JgtTviYLU4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60331775/%E6%97%A5%E6%99%BA%E5%BA%AB%E6%8F%AD%E8%A7%A3%E6%94%BE%E8%BB%8D%E8%A9%AD%E7%95%B0%E7%8F%BE%E8%B1%A1-%E5%8F%B0%E6%B5%B7%E5%89%8D%E7%B7%9A%E9%83%A8%E7%BD%B2%E8%88%8A%E6%88%B0%E6%A9%9F-%E4%B8%80%E7%94%A8%E9%80%94%E7%A0%B4%E5%A3%9E%E5%8A%9B%E6%A5%B5%E5%BC%B7",
+    "timestamp": "2026-03-18T10:12:18.231Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "郭嘉文7,840萬沽九龍塘「天池屋」　近年不被李澤楷重視屢傳分手",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260318/1110737010546446336685071.jpeg/JyZp3yy0LZKuDAD9gKFsD0kHtVyvKvNKFNDOShTQzko?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60331520/%E8%87%AA%E5%8B%95%E9%A7%95%E9%A7%9B%E8%BB%8A%E8%BC%9B%E6%87%89%E7%94%A8%E4%BF%83%E9%80%B2%E5%B7%A5%E4%BD%9C%E7%B5%84%E9%A6%96%E6%AC%A1%E6%9C%83%E8%AD%B0-%E7%A0%94%E6%8E%A8%E5%8B%95%E7%8F%BE%E6%9C%89%E9%A0%85%E7%9B%AE%E8%B7%A8%E5%8D%80%E9%80%9A%E8%A1%8C",
     "timestamp": "2026-03-17T17:16:25.770Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "Clawdbot／Moltbot到DingTalk Real｜AI助手成為工作系統｜蘇仲成",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260313/1109093643102195712635729.jpeg/KoYPiqZ73UEpyujvojCaHvIxtY3ht7Vq9o1b0faNW9E?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%B6%B2%E7%A7%913.0/60330152/clawdbot-moltbot%E5%88%B0dingtalk-real-ai%E5%8A%A9%E6%89%8B%E6%88%90%E7%82%BA%E5%B7%A5%E4%BD%9C%E7%B3%BB%E7%B5%B1-%E8%98%87%E4%BB%B2%E6%88%90",
-    "timestamp": "2026-03-17T16:15:18.046Z",
     "strategy": ".content-card__main"
   }
 ];
