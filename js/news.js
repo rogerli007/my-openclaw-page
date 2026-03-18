@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-18T12:06:22.082Z
+// Last updated: 2026-03-18T13:56:34.733Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "白宮：中國同意延後特朗普訪華行程　將盡快重新安排日程",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260304/1105687033549950976607538.jpeg/x7CRP-VZJMaaGW7WZFygGQQkMG6hsgffa-NaWGvjWlg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60331893/%E7%99%BD%E5%AE%AE-%E4%B8%AD%E5%9C%8B%E5%90%8C%E6%84%8F%E5%BB%B6%E5%BE%8C%E7%89%B9%E6%9C%97%E6%99%AE%E8%A8%AA%E8%8F%AF%E8%A1%8C%E7%A8%8B-%E5%B0%87%E7%9B%A1%E5%BF%AB%E9%87%8D%E6%96%B0%E5%AE%89%E6%8E%92%E6%97%A5%E7%A8%8B",
+    "timestamp": "2026-03-18T13:56:34.733Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "伊朗戰爭｜特朗普稱對北約失望　退出是「應該考慮的事情」",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260318/1110797938004594688086971.jpeg/q4oONY_kQ-CfaWRroK7v5ND8clkR1dyJSm6AWX9ugFk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60331541/%E5%B0%87%E8%BB%8D%E6%BE%B3%E5%A4%A7%E7%8E%8B%E5%85%AC%E6%9D%91%E6%9D%91%E5%B1%8B%E9%81%AD%E7%88%86%E7%AB%8A-44%E6%AD%B2%E5%A5%B3%E6%90%8D%E5%A4%B1%E9%80%BE-36%E8%90%AC%E8%B2%A1%E7%89%A9-%E8%AD%A6%E8%BF%BD%E7%B7%9D%E8%B3%8A%E4%BA%BA",
     "timestamp": "2026-03-17T20:52:34.105Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "古巴恢復大部份電網供電　特朗普：很快會對古巴採取行動",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260318/1110787387304185856678130.jpeg/Se2eF-oZRYKRc_dY3PkVAtz4TTbj5RkoiSSkd4kkpHc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60331538/%E5%8F%A4%E5%B7%B4%E6%81%A2%E5%BE%A9%E5%A4%A7%E9%83%A8%E4%BB%BD%E9%9B%BB%E7%B6%B2%E4%BE%9B%E9%9B%BB-%E7%89%B9%E6%9C%97%E6%99%AE-%E5%BE%88%E5%BF%AB%E6%9C%83%E5%B0%8D%E5%8F%A4%E5%B7%B4%E6%8E%A1%E5%8F%96%E8%A1%8C%E5%8B%95",
-    "timestamp": "2026-03-17T20:25:00.654Z",
     "strategy": ".content-card__main"
   }
 ];
