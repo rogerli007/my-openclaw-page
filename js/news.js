@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-18T10:12:18.231Z
+// Last updated: 2026-03-18T10:39:13.332Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "渣打推定息按揭計劃　首三年定息2.73厘看齊滙豐恒生　月慳1401元",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260302/1105078369952731136439827.jpeg/zHUsfUev52R3vkeoKyf4hlKqzp5VdDJ-wfPJ48HzyeM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60331863/%E6%B8%A3%E6%89%93%E6%8E%A8%E5%AE%9A%E6%81%AF%E6%8C%89%E6%8F%AD%E8%A8%88%E5%8A%83-%E9%A6%96%E4%B8%89%E5%B9%B4%E5%AE%9A%E6%81%AF2-73%E5%8E%98%E7%9C%8B%E9%BD%8A%E6%BB%99%E8%B1%90%E6%81%92%E7%94%9F-%E6%9C%88%E6%85%B31401%E5%85%83",
+    "timestamp": "2026-03-18T10:39:13.332Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "日智庫揭解放軍詭異現象：台海前線部署舊戰機　一用途破壞力極強",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260318/1110775361022464000470698.jpeg/HcKQPfgaa9m2w2waBXQ0Gr23-ZD0hJ-y5ZCIl-WQiJc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60331533/%E7%8E%8B%E6%AF%85-%E5%80%8B%E5%88%A5%E5%A4%A7%E5%9C%8B%E5%8B%95%E8%BC%92%E8%A8%B4%E8%AB%B8%E6%AD%A6%E5%8A%9B-%E5%B0%8D%E4%B8%96%E7%95%8C%E5%92%8C%E5%B9%B3%E7%A9%A9%E5%AE%9A%E5%BD%A2%E6%88%90%E5%9A%B4%E9%87%8D%E8%A1%9D%E6%93%8A",
     "timestamp": "2026-03-17T19:16:18.445Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "自動駕駛車輛應用促進工作組首次會議　研推動現有項目跨區通行",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260318/1110737010546446336685071.jpeg/JyZp3yy0LZKuDAD9gKFsD0kHtVyvKvNKFNDOShTQzko?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60331520/%E8%87%AA%E5%8B%95%E9%A7%95%E9%A7%9B%E8%BB%8A%E8%BC%9B%E6%87%89%E7%94%A8%E4%BF%83%E9%80%B2%E5%B7%A5%E4%BD%9C%E7%B5%84%E9%A6%96%E6%AC%A1%E6%9C%83%E8%AD%B0-%E7%A0%94%E6%8E%A8%E5%8B%95%E7%8F%BE%E6%9C%89%E9%A0%85%E7%9B%AE%E8%B7%A8%E5%8D%80%E9%80%9A%E8%A1%8C",
-    "timestamp": "2026-03-17T17:16:25.770Z",
     "strategy": ".content-card__main"
   }
 ];
