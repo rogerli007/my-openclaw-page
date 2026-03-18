@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-18T15:19:42.919Z
+// Last updated: 2026-03-18T17:16:05.037Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "將軍澳村屋遇竊　警5小時後拘28歲男起回$37萬失物　案件今日提堂",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260319/1111105381381181440246097.jpeg/mJMmzkJv9DH4sYnJc_bjMs9qlE4FQwKlyF_d38hf3d8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60331921/%E5%B0%87%E8%BB%8D%E6%BE%B3%E6%9D%91%E5%B1%8B%E9%81%87%E7%AB%8A-%E8%AD%A65%E5%B0%8F%E6%99%82%E5%BE%8C%E6%8B%9828%E6%AD%B2%E7%94%B7%E8%B5%B7%E5%9B%9E-37%E8%90%AC%E5%A4%B1%E7%89%A9-%E6%A1%88%E4%BB%B6%E4%BB%8A%E6%97%A5%E6%8F%90%E5%A0%82",
+    "timestamp": "2026-03-18T17:16:05.037Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "入住請敲門V｜莫竣名闖鬼屋疑被上身　失控瘋狂自轉拍攝緊急中斷",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260317/1110629820217167872395086.jpeg/Gi3EWbStqYGGqNe3AOYvLiXcY6SSCTpQgSNvtIEjb7Q?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60331545/%E4%BC%8A%E5%AA%92%E8%AD%89%E5%AF%A6-%E4%BC%8A%E6%9C%97%E6%9C%80%E9%AB%98%E5%9C%8B%E5%AE%B6%E5%AE%89%E5%85%A8%E5%AE%98%E5%93%A1%E6%8B%89%E9%87%8C%E8%B3%88%E5%B0%BC%E9%81%87%E8%A5%B2%E8%BA%AB%E4%BA%A1",
     "timestamp": "2026-03-17T22:18:49.840Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "英媒：特朗普初期因錯誤情報　錯將伊朗小學被炸歸咎德黑蘭",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260312/1108874686613164032184279.jpeg/l5K-Jf_kf1DlqLoIyr5QdpGG4Cn69ZCHsCMeVrAjHlY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60331542/%E8%8B%B1%E5%AA%92-%E7%89%B9%E6%9C%97%E6%99%AE%E5%88%9D%E6%9C%9F%E5%9B%A0%E9%8C%AF%E8%AA%A4%E6%83%85%E5%A0%B1-%E9%8C%AF%E5%B0%87%E4%BC%8A%E6%9C%97%E5%B0%8F%E5%AD%B8%E8%A2%AB%E7%82%B8%E6%AD%B8%E5%92%8E%E5%BE%B7%E9%BB%91%E8%98%AD",
-    "timestamp": "2026-03-17T21:52:16.268Z",
     "strategy": ".content-card__main"
   }
 ];
