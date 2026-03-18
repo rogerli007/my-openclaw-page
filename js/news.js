@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-18T19:15:22.375Z
+// Last updated: 2026-03-18T19:40:26.869Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "鮑威爾：中東局勢對經濟影響未明確　將留任聯儲局至刑事調查結束",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260319/1111138575031734272943180.jpeg/_xCyM8s-y1UGhmmoM670_u0XZiRgC77yYsoy0GLKMtA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60331928/%E9%AE%91%E5%A8%81%E7%88%BE-%E4%B8%AD%E6%9D%B1%E5%B1%80%E5%8B%A2%E5%B0%8D%E7%B6%93%E6%BF%9F%E5%BD%B1%E9%9F%BF%E6%9C%AA%E6%98%8E%E7%A2%BA-%E5%B0%87%E7%95%99%E4%BB%BB%E8%81%AF%E5%84%B2%E5%B1%80%E8%87%B3%E5%88%91%E4%BA%8B%E8%AA%BF%E6%9F%A5%E7%B5%90%E6%9D%9F",
+    "timestamp": "2026-03-18T19:40:26.869Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美國頒許可證授權涉委內瑞拉石油公司業務　緩解伊朗所致能源壓力",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/20200323/318722061998624768.jpeg/LSfRNWrV7lVrcAnLBmgdDgCdfjcl0oWG6YW82emFvNk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60331598/ai%E6%A6%82%E5%BF%B5%E8%82%A1%E5%86%8D%E7%8D%B2%E8%BF%BD%E6%8D%A7-minimax%E9%A3%86%E9%80%BE12-%E6%B8%AF%E8%82%A1%E7%95%B0%E5%8B%95",
     "timestamp": "2026-03-18T02:45:13.470Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "憂慮美經濟增長前景　交易員在聯儲局公布議息結果前　削美債淡倉",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/3163408/org/6183ca604f36a9d2c3a237f617647b8f.jpg/3nTA3AjIPEuOIG4VTDRohGE_ShdL4f8YHW0h-h1tIfo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60331555/%E6%86%82%E6%85%AE%E7%BE%8E%E7%B6%93%E6%BF%9F%E5%A2%9E%E9%95%B7%E5%89%8D%E6%99%AF-%E4%BA%A4%E6%98%93%E5%93%A1%E5%9C%A8%E8%81%AF%E5%84%B2%E5%B1%80%E5%85%AC%E5%B8%83%E8%AD%B0%E6%81%AF%E7%B5%90%E6%9E%9C%E5%89%8D-%E5%89%8A%E7%BE%8E%E5%82%B5%E6%B7%A1%E5%80%89",
-    "timestamp": "2026-03-18T01:01:18.253Z",
     "strategy": ".content-card__main"
   }
 ];
