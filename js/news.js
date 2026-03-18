@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-18T11:37:25.969Z
+// Last updated: 2026-03-18T12:06:22.082Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "伊朗戰爭｜特朗普稱對北約失望　退出是「應該考慮的事情」",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260317/1110389509939269632370624.jpeg/Z3OrixVNXj_t64Lt9dzMcksIYHqO5gjZ6nYiEep2IhE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60331832/%E4%BC%8A%E6%9C%97%E6%88%B0%E7%88%AD-%E7%89%B9%E6%9C%97%E6%99%AE%E7%A8%B1%E5%B0%8D%E5%8C%97%E7%B4%84%E5%A4%B1%E6%9C%9B-%E9%80%80%E5%87%BA%E6%98%AF-%E6%87%89%E8%A9%B2%E8%80%83%E6%85%AE%E7%9A%84%E4%BA%8B%E6%83%85",
+    "timestamp": "2026-03-18T12:06:22.082Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "南京大屠殺倖存者關舜華去世　享年101歲　目前在世僅剩21人",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260318/1110787387304185856678130.jpeg/Se2eF-oZRYKRc_dY3PkVAtz4TTbj5RkoiSSkd4kkpHc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60331538/%E5%8F%A4%E5%B7%B4%E6%81%A2%E5%BE%A9%E5%A4%A7%E9%83%A8%E4%BB%BD%E9%9B%BB%E7%B6%B2%E4%BE%9B%E9%9B%BB-%E7%89%B9%E6%9C%97%E6%99%AE-%E5%BE%88%E5%BF%AB%E6%9C%83%E5%B0%8D%E5%8F%A4%E5%B7%B4%E6%8E%A1%E5%8F%96%E8%A1%8C%E5%8B%95",
     "timestamp": "2026-03-17T20:25:00.654Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "大埔私家車遇路障　68歲女司機「吹爆波」涉醉駕被捕",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260318/1110777784143187968247583.jpeg/hn2lfMTeiiXc2FW65KJULHsE92Qe66mVuGrieY1q4nk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60331534/%E5%A4%A7%E5%9F%94%E7%A7%81%E5%AE%B6%E8%BB%8A%E9%81%87%E8%B7%AF%E9%9A%9C-68%E6%AD%B2%E5%A5%B3%E5%8F%B8%E6%A9%9F-%E5%90%B9%E7%88%86%E6%B3%A2-%E6%B6%89%E9%86%89%E9%A7%95%E8%A2%AB%E6%8D%95",
-    "timestamp": "2026-03-17T20:04:41.812Z",
     "strategy": ".content-card__main"
   }
 ];
