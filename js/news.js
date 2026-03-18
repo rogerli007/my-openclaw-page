@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-18T03:51:10.795Z
+// Last updated: 2026-03-18T04:37:33.193Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "夜王｜「葵芳」蔡蕙琪中六歌唱比賽片出土　網民︰呢次真係19歲",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260318/1110911877396828160241967.jpeg/vC7oTIMjcKZbNXYIEMtmDN9GS8SpgyU8A9W1QAPVtUA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60331647/%E5%A4%9C%E7%8E%8B-%E8%91%B5%E8%8A%B3-%E8%94%A1%E8%95%99%E7%90%AA%E4%B8%AD%E5%85%AD%E6%AD%8C%E5%94%B1%E6%AF%94%E8%B3%BD%E7%89%87%E5%87%BA%E5%9C%9F-%E7%B6%B2%E6%B0%91-%E5%91%A2%E6%AC%A1%E7%9C%9F%E4%BF%8219%E6%AD%B2",
+    "timestamp": "2026-03-18T04:37:33.193Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "台女星蕭淑慎丈夫暴力性侵女藝人　頸部瘀青成鐵證　判監4年10月",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260317/1110612210138353664652098.png/MNxyh-F6fuubB1Fx_KdHxIgQ8MQ9wMj5q1UE2qtVBNo",
     "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60331363/%E7%A7%81%E5%AE%B6%E8%BB%8A%E7%94%A9%E5%B0%BE%E5%89%B7%E8%B7%AF%E9%82%8A-%E6%AF%8D%E8%A6%AA%E6%A5%B5%E9%80%9F%E6%8A%B1%E4%BB%94%E9%81%BF%E9%81%8E%E4%B8%80%E5%8A%AB-%E4%B8%88%E5%A4%AB%E5%98%86-%E7%9C%9F%E6%98%AF%E7%A6%8F%E5%A4%A7%E5%91%BD%E5%A4%A7",
     "timestamp": "2026-03-17T11:37:23.097Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "伊朗戰爭擾動能源供應　全球食用油走勢充滿變數",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260114/1088059558028382208683572.jpeg/CQA2BMHYrriIdWoj3NzDzHJ4lFk6tDnil0vUnJdL1Jw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60331450/%E4%BC%8A%E6%9C%97%E6%88%B0%E7%88%AD%E6%93%BE%E5%8B%95%E8%83%BD%E6%BA%90%E4%BE%9B%E6%87%89-%E5%85%A8%E7%90%83%E9%A3%9F%E7%94%A8%E6%B2%B9%E8%B5%B0%E5%8B%A2%E5%85%85%E6%BB%BF%E8%AE%8A%E6%95%B8",
-    "timestamp": "2026-03-17T11:12:05.923Z",
     "strategy": ".content-card__main"
   }
 ];
