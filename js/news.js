@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-18T08:07:20.511Z
+// Last updated: 2026-03-18T09:11:14.315Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "芹菜功效｜通便降血壓5好處 1部位胡蘿蔔素高8倍！建議3吃法+食譜",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260318/1110950905336827904106873.jpeg/Q8hLks5lDoCb7NIp4pwOHIw1OrGFHUqZyj3Mkso9zJI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60326407/%E8%8A%B9%E8%8F%9C%E5%8A%9F%E6%95%88-%E9%80%9A%E4%BE%BF%E9%99%8D%E8%A1%80%E5%A3%935%E5%A5%BD%E8%99%95-1%E9%83%A8%E4%BD%8D%E8%83%A1%E8%98%BF%E8%94%94%E7%B4%A0%E9%AB%988%E5%80%8D-%E5%BB%BA%E8%AD%B03%E5%90%83%E6%B3%95-%E9%A3%9F%E8%AD%9C",
+    "timestamp": "2026-03-18T09:11:14.315Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "前《歡樂今宵》台柱罕現身盧宛茵73歲壽辰　曾嫁石油大亨移民澳洲",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260317/1110658145304186880350179.jpeg/6d35KtOSryVu3FJM85ftd6uAQHLUPqraCodEXQqHRF0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60331463/%E5%A9%86%E5%A9%86%E8%86%9D%E8%93%8B%E4%B8%8D%E9%81%A9%E5%9B%B0%E6%93%BE%E5%8D%81%E5%B9%B4-%E7%8D%B2%E6%85%88%E5%96%84%E8%A8%88%E5%8A%83%E5%AE%89%E6%8E%92%E5%81%9A%E6%89%8B%E8%A1%93-%E8%A1%93%E5%BE%8C%E6%84%9F%E7%8D%B2%E7%AC%AC%E4%BA%8C%E4%BA%BA%E7%94%9F",
     "timestamp": "2026-03-17T14:46:12.555Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "廣東男花5萬網購銀條　含銀量僅0.16%　商家走佬京東拒｢假一賠十｣",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260317/1110636314451120128689432.png/tg3-rwjm0AlNfh6uoqzEeOLtOOv2-lsCwEqLZ8BKi2c?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60331394/%E5%BB%A3%E6%9D%B1%E7%94%B7%E8%8A%B15%E8%90%AC%E7%B6%B2%E8%B3%BC%E9%8A%80%E6%A2%9D-%E5%90%AB%E9%8A%80%E9%87%8F%E5%83%850-16-%E5%95%86%E5%AE%B6%E8%B5%B0%E4%BD%AC%E4%BA%AC%E6%9D%B1%E6%8B%92-%E5%81%87%E4%B8%80%E8%B3%A0%E5%8D%81",
-    "timestamp": "2026-03-17T13:45:03.746Z",
     "strategy": ".content-card__main"
   }
 ];
