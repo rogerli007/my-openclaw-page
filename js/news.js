@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-18T13:56:34.733Z
+// Last updated: 2026-03-18T15:19:42.919Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "入住請敲門V｜莫竣名闖鬼屋疑被上身　失控瘋狂自轉拍攝緊急中斷",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260318/1110997140160647168504973.jpeg/DFlUjdFFO8e0sqNODFyfGtGMA2nYT3gtFpxgCRacYAk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60331837/%E5%85%A5%E4%BD%8F%E8%AB%8B%E6%95%B2%E9%96%80v-%E8%8E%AB%E7%AB%A3%E5%90%8D%E9%97%96%E9%AC%BC%E5%B1%8B%E7%96%91%E8%A2%AB%E4%B8%8A%E8%BA%AB-%E5%A4%B1%E6%8E%A7%E7%98%8B%E7%8B%82%E8%87%AA%E8%BD%89%E6%8B%8D%E6%94%9D%E7%B7%8A%E6%80%A5%E4%B8%AD%E6%96%B7",
+    "timestamp": "2026-03-18T15:19:42.919Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "白宮：中國同意延後特朗普訪華行程　將盡快重新安排日程",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260312/1108874686613164032184279.jpeg/l5K-Jf_kf1DlqLoIyr5QdpGG4Cn69ZCHsCMeVrAjHlY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60331542/%E8%8B%B1%E5%AA%92-%E7%89%B9%E6%9C%97%E6%99%AE%E5%88%9D%E6%9C%9F%E5%9B%A0%E9%8C%AF%E8%AA%A4%E6%83%85%E5%A0%B1-%E9%8C%AF%E5%B0%87%E4%BC%8A%E6%9C%97%E5%B0%8F%E5%AD%B8%E8%A2%AB%E7%82%B8%E6%AD%B8%E5%92%8E%E5%BE%B7%E9%BB%91%E8%98%AD",
     "timestamp": "2026-03-17T21:52:16.268Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "將軍澳大王公村村屋遭爆竊　44歲女損失逾$36萬財物　警追緝賊人",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260318/1110797938004594688086971.jpeg/q4oONY_kQ-CfaWRroK7v5ND8clkR1dyJSm6AWX9ugFk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60331541/%E5%B0%87%E8%BB%8D%E6%BE%B3%E5%A4%A7%E7%8E%8B%E5%85%AC%E6%9D%91%E6%9D%91%E5%B1%8B%E9%81%AD%E7%88%86%E7%AB%8A-44%E6%AD%B2%E5%A5%B3%E6%90%8D%E5%A4%B1%E9%80%BE-36%E8%90%AC%E8%B2%A1%E7%89%A9-%E8%AD%A6%E8%BF%BD%E7%B7%9D%E8%B3%8A%E4%BA%BA",
-    "timestamp": "2026-03-17T20:52:34.105Z",
     "strategy": ".content-card__main"
   }
 ];
