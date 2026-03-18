@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-18T01:01:18.253Z
+// Last updated: 2026-03-18T02:45:13.470Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "AI概念股再獲追捧　MINIMAX飆逾12%｜港股異動",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/20200323/318722061998624768.jpeg/LSfRNWrV7lVrcAnLBmgdDgCdfjcl0oWG6YW82emFvNk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60331598/ai%E6%A6%82%E5%BF%B5%E8%82%A1%E5%86%8D%E7%8D%B2%E8%BF%BD%E6%8D%A7-minimax%E9%A3%86%E9%80%BE12-%E6%B8%AF%E8%82%A1%E7%95%B0%E5%8B%95",
+    "timestamp": "2026-03-18T02:45:13.470Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "憂慮美經濟增長前景　交易員在聯儲局公布議息結果前　削美債淡倉",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20251006/1051816047306346496718296.jpeg/OZ6MyYHV0uhiHKwyYLFrTtc-D_-Wd58Hibc_34m3P98?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60331438/%E9%BB%83%E7%AB%B9%E5%9D%91blue-coast%E9%A6%96%E9%8C%84%E4%BA%8C%E6%89%8B-%E6%A5%AD%E4%B8%BB%E6%94%B6%E6%A8%93%E4%B8%80%E6%97%A5%E5%8D%B3%E5%94%AE%E5%87%BA-%E7%AC%91%E8%A2%8B110%E8%90%AC%E8%B5%B0",
     "timestamp": "2026-03-17T10:38:56.190Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "直播｜葵涌貨櫃碼頭車火　消防：相信貨車為非法油站　檢油缸油槍",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260317/1110626830777323520872495.jpeg/dLNnMCE8EvuvE32qnab9lWsaeVuWl3D6JZXVUyWV1VM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60331413/%E7%9B%B4%E6%92%AD-%E8%91%B5%E6%B6%8C%E8%B2%A8%E6%AB%83%E7%A2%BC%E9%A0%AD%E8%BB%8A%E7%81%AB-%E6%B6%88%E9%98%B2-%E7%9B%B8%E4%BF%A1%E8%B2%A8%E8%BB%8A%E7%82%BA%E9%9D%9E%E6%B3%95%E6%B2%B9%E7%AB%99-%E6%AA%A2%E6%B2%B9%E7%BC%B8%E6%B2%B9%E6%A7%8D",
-    "timestamp": "2026-03-17T10:10:50.956Z",
     "strategy": ".content-card__main"
   }
 ];
