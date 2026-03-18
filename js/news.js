@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-18T09:11:14.315Z
+// Last updated: 2026-03-18T09:40:10.580Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "郭嘉文7,840萬沽九龍塘「天池屋」　近年不被李澤楷重視屢傳分手",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20210714/491956540190756864739415.jpeg/ipTiil8kfX2CrRIocT2QcIH34bX1y5jBXp11C16ddQs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60331814/%E9%83%AD%E5%98%89%E6%96%877-840%E8%90%AC%E6%B2%BD%E4%B9%9D%E9%BE%8D%E5%A1%98-%E5%A4%A9%E6%B1%A0%E5%B1%8B-%E8%BF%91%E5%B9%B4%E4%B8%8D%E8%A2%AB%E6%9D%8E%E6%BE%A4%E6%A5%B7%E9%87%8D%E8%A6%96%E5%B1%A2%E5%82%B3%E5%88%86%E6%89%8B",
+    "timestamp": "2026-03-18T09:40:10.580Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "芹菜功效｜通便降血壓5好處 1部位胡蘿蔔素高8倍！建議3吃法+食譜",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260313/1109093643102195712635729.jpeg/KoYPiqZ73UEpyujvojCaHvIxtY3ht7Vq9o1b0faNW9E?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%B6%B2%E7%A7%913.0/60330152/clawdbot-moltbot%E5%88%B0dingtalk-real-ai%E5%8A%A9%E6%89%8B%E6%88%90%E7%82%BA%E5%B7%A5%E4%BD%9C%E7%B3%BB%E7%B5%B1-%E8%98%87%E4%BB%B2%E6%88%90",
     "timestamp": "2026-03-17T16:15:18.046Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "婆婆膝蓋不適困擾十年　獲慈善計劃安排做手術　術後感獲第二人生",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260317/1110658145304186880350179.jpeg/6d35KtOSryVu3FJM85ftd6uAQHLUPqraCodEXQqHRF0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60331463/%E5%A9%86%E5%A9%86%E8%86%9D%E8%93%8B%E4%B8%8D%E9%81%A9%E5%9B%B0%E6%93%BE%E5%8D%81%E5%B9%B4-%E7%8D%B2%E6%85%88%E5%96%84%E8%A8%88%E5%8A%83%E5%AE%89%E6%8E%92%E5%81%9A%E6%89%8B%E8%A1%93-%E8%A1%93%E5%BE%8C%E6%84%9F%E7%8D%B2%E7%AC%AC%E4%BA%8C%E4%BA%BA%E7%94%9F",
-    "timestamp": "2026-03-17T14:46:12.555Z",
     "strategy": ".content-card__main"
   }
 ];
