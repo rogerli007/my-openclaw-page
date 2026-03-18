@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-18T23:02:17.146Z
+// Last updated: 2026-03-18T23:19:18.554Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "爸爸買彩票中¥748萬不告訴孩子！網民熱議提質疑：彩票滯銷賣廣告",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260318/1110891065054859264148259.png/it_CyIWOVnnrNZQeCDHkPvafkH-4JcW3FZ76ABWe-gA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60331296/%E7%B6%B2%E5%82%B3%E7%88%B8%E7%88%B8%E8%B2%B7%E5%BD%A9%E7%A5%A8%E4%B8%AD-748%E8%90%AC%E4%B8%8D%E5%91%8A%E8%A8%B4%E5%AD%A9%E5%AD%90-%E7%B6%B2%E6%B0%91%E5%9C%8D%E8%A7%80%E8%B3%AA%E7%96%91-%E9%AB%94%E5%BD%A9%E8%BB%9F%E5%BB%A3",
+    "timestamp": "2026-03-18T23:19:18.554Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "麥明詩相隔6年重返TVB疑拍升學節目　投身教育界曾出手拯救幼稚園",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20240719/890758830277791744742103.jpeg/_xz4-BqyNBxxwuGMWTOKhEJ6si9QeUBNWwQgH1sEIB8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60331739/%E5%85%A9%E8%AD%A6%E6%B6%89%E5%B1%A2%E5%90%91%E9%85%92%E5%90%A7%E8%B2%A0%E8%B2%AC%E4%BA%BA%E9%80%8F%E9%9C%B2%E8%AD%A6%E6%96%B9%E8%A1%8C%E5%8B%95%E8%B3%87%E8%A8%8A-%E6%8E%A7%E5%85%AC%E8%81%B7%E5%A4%B1%E7%95%B6%E7%AD%89%E7%BD%AA%E4%BB%8A%E6%97%A9%E6%8F%90%E5%A0%82",
     "timestamp": "2026-03-18T07:43:09.860Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "海瑅灣I周五招標254向海戶、擬即日開標　最快月內再推價單單位",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260318/1110934482409492480697082.jpeg/QjQ-WpyIgj8Z4WAUx7f3QKihQtric3XdRzlj4Ec5Y-A?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60331678/%E6%B5%B7%E7%91%85%E7%81%A3i%E5%91%A8%E4%BA%94%E6%8B%9B%E6%A8%99254%E5%90%91%E6%B5%B7%E6%88%B6-%E6%93%AC%E5%8D%B3%E6%97%A5%E9%96%8B%E6%A8%99-%E6%9C%80%E5%BF%AB%E6%9C%88%E5%85%A7%E5%86%8D%E6%8E%A8%E5%83%B9%E5%96%AE%E5%96%AE%E4%BD%8D",
-    "timestamp": "2026-03-18T05:58:06.270Z",
     "strategy": ".content-card__main"
   }
 ];
