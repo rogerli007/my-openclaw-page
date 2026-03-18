@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-18T19:40:26.869Z
+// Last updated: 2026-03-18T21:20:59.286Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "歐聯16強｜巴塞次回合7：2大勝紐卡素　兩回合總計8：3晉級",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260319/1111147597772361728472513.jpeg/WwwO1LKZGtp0S0qQChbqq_uGPLgUVfwQLknWUi5J1lI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60331933/%E6%AD%90%E8%81%AF16%E5%BC%B7-%E5%B7%B4%E5%A1%9E%E6%AC%A1%E5%9B%9E%E5%90%887-2%E5%A4%A7%E5%8B%9D%E7%B4%90%E5%8D%A1%E7%B4%A0-%E5%85%A9%E5%9B%9E%E5%90%88%E7%B8%BD%E8%A8%888-3%E6%99%89%E7%B4%9A",
+    "timestamp": "2026-03-18T21:20:59.286Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "鮑威爾：中東局勢對經濟影響未明確　將留任聯儲局至刑事調查結束",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260318/1110898786621722624965428.jpeg/D0lZAwlXCQoW7QNeIrr4lWh2gmvvfDfwsnZBPbJ2QT0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8F%B0%E7%81%A3%E6%96%B0%E8%81%9E/60331599/%E8%95%AD%E6%B7%91%E6%85%8E%E4%B8%88%E5%A4%AB%E6%A2%81%E8%BB%92%E5%AE%89%E6%9A%B4%E5%8A%9B%E6%80%A7%E4%BE%B5%E5%A5%B3%E8%97%9D%E4%BA%BA-%E9%A0%B8%E9%83%A8%E7%98%80%E9%9D%92%E6%88%90%E9%90%B5%E8%AD%89-%E5%88%A4%E7%9B%A34%E5%B9%B410%E6%9C%88",
     "timestamp": "2026-03-18T03:51:10.795Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "AI概念股再獲追捧　MINIMAX飆逾12%｜港股異動",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/20200323/318722061998624768.jpeg/LSfRNWrV7lVrcAnLBmgdDgCdfjcl0oWG6YW82emFvNk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60331598/ai%E6%A6%82%E5%BF%B5%E8%82%A1%E5%86%8D%E7%8D%B2%E8%BF%BD%E6%8D%A7-minimax%E9%A3%86%E9%80%BE12-%E6%B8%AF%E8%82%A1%E7%95%B0%E5%8B%95",
-    "timestamp": "2026-03-18T02:45:13.470Z",
     "strategy": ".content-card__main"
   }
 ];
