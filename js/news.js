@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-17T23:49:21.087Z
+// Last updated: 2026-03-18T01:01:18.253Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "憂慮美經濟增長前景　交易員在聯儲局公布議息結果前　削美債淡倉",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/3163408/org/6183ca604f36a9d2c3a237f617647b8f.jpg/3nTA3AjIPEuOIG4VTDRohGE_ShdL4f8YHW0h-h1tIfo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60331555/%E6%86%82%E6%85%AE%E7%BE%8E%E7%B6%93%E6%BF%9F%E5%A2%9E%E9%95%B7%E5%89%8D%E6%99%AF-%E4%BA%A4%E6%98%93%E5%93%A1%E5%9C%A8%E8%81%AF%E5%84%B2%E5%B1%80%E5%85%AC%E5%B8%83%E8%AD%B0%E6%81%AF%E7%B5%90%E6%9E%9C%E5%89%8D-%E5%89%8A%E7%BE%8E%E5%82%B5%E6%B7%A1%E5%80%89",
+    "timestamp": "2026-03-18T01:01:18.253Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "有片︱青朗公路牛隻走出馬路被車撞　同伴匿草叢　往九龍交通受阻",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260317/1110626830777323520872495.jpeg/dLNnMCE8EvuvE32qnab9lWsaeVuWl3D6JZXVUyWV1VM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60331413/%E7%9B%B4%E6%92%AD-%E8%91%B5%E6%B6%8C%E8%B2%A8%E6%AB%83%E7%A2%BC%E9%A0%AD%E8%BB%8A%E7%81%AB-%E6%B6%88%E9%98%B2-%E7%9B%B8%E4%BF%A1%E8%B2%A8%E8%BB%8A%E7%82%BA%E9%9D%9E%E6%B3%95%E6%B2%B9%E7%AB%99-%E6%AA%A2%E6%B2%B9%E7%BC%B8%E6%B2%B9%E6%A7%8D",
     "timestamp": "2026-03-17T10:10:50.956Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "長壽飲食｜研究證吃肉更長壽！長期食素易中風！專家4招健康食肉",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260317/1110581250340425728276841.jpeg/J74MuYkKVCTeCZNqqA5PIjS7edQFiEdgk9sh-pPbIfo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60319680/%E9%95%B7%E5%A3%BD%E9%A3%B2%E9%A3%9F-%E7%A0%94%E7%A9%B6%E8%AD%89%E5%90%83%E8%82%89%E6%9B%B4%E9%95%B7%E5%A3%BD-%E9%95%B7%E6%9C%9F%E9%A3%9F%E7%B4%A0%E6%98%93%E4%B8%AD%E9%A2%A8-%E5%B0%88%E5%AE%B64%E6%8B%9B%E5%81%A5%E5%BA%B7%E9%A3%9F%E8%82%89",
-    "timestamp": "2026-03-17T09:11:03.528Z",
     "strategy": ".content-card__main"
   }
 ];
