@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-18T07:43:09.860Z
+// Last updated: 2026-03-18T08:07:20.511Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "前《歡樂今宵》台柱罕現身盧宛茵73歲壽辰　曾嫁石油大亨移民澳洲",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260318/1110941303782248448391406.jpeg/jduUNokeqhX05W3uR_AXZBelSCrWIz929U00HfVNNB0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60331670/%E6%A2%81%E5%B0%8F%E7%8E%B2%E7%8F%BE%E8%BA%AB%E7%9B%A7%E5%AE%9B%E8%8C%B5%E5%A3%BD%E8%BE%B0-%E5%86%8D%E5%A9%9A%E5%AB%81%E5%A4%A7%E5%BE%8B%E5%B8%AB%E5%81%9A%E9%97%8A%E5%A4%AA-%E6%84%9B%E5%A5%B3%E8%B6%99%E5%B8%8C%E6%B4%9B%E5%89%9B%E6%88%90%E4%BA%BA%E5%A6%BB",
+    "timestamp": "2026-03-18T08:07:20.511Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "兩警涉屢向酒吧負責人透露警方行動資訊　控公職失當等罪今早提堂",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260317/1110636314451120128689432.png/tg3-rwjm0AlNfh6uoqzEeOLtOOv2-lsCwEqLZ8BKi2c?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60331394/%E5%BB%A3%E6%9D%B1%E7%94%B7%E8%8A%B15%E8%90%AC%E7%B6%B2%E8%B3%BC%E9%8A%80%E6%A2%9D-%E5%90%AB%E9%8A%80%E9%87%8F%E5%83%850-16-%E5%95%86%E5%AE%B6%E8%B5%B0%E4%BD%AC%E4%BA%AC%E6%9D%B1%E6%8B%92-%E5%81%87%E4%B8%80%E8%B3%A0%E5%8D%81",
     "timestamp": "2026-03-17T13:45:03.746Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "8000萬六合彩頭獎｜幸運二金多寶今晚攪珠　投注額已超過1.5億",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260317/1110677413177593856453170.jpeg/vFOPpgcuF9OEVKJ9zAn9u8XPy4gcim2e2-v-49vr_uM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60331485/8000%E8%90%AC%E5%85%AD%E5%90%88%E5%BD%A9%E9%A0%AD%E7%8D%8E-%E5%B9%B8%E9%81%8B%E4%BA%8C%E9%87%91%E5%A4%9A%E5%AF%B6%E4%BB%8A%E6%99%9A%E6%94%AA%E7%8F%A0-%E6%8A%95%E6%B3%A8%E9%A1%8D%E5%B7%B2%E8%B6%85%E9%81%8E1-5%E5%84%84",
-    "timestamp": "2026-03-17T13:01:48.090Z",
     "strategy": ".content-card__main"
   }
 ];
