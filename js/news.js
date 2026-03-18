@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-18T02:45:13.470Z
+// Last updated: 2026-03-18T03:51:10.795Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "台女星蕭淑慎丈夫暴力性侵女藝人　頸部瘀青成鐵證　判監4年10月",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260318/1110898786621722624965428.jpeg/D0lZAwlXCQoW7QNeIrr4lWh2gmvvfDfwsnZBPbJ2QT0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8F%B0%E7%81%A3%E6%96%B0%E8%81%9E/60331599/%E8%95%AD%E6%B7%91%E6%85%8E%E4%B8%88%E5%A4%AB%E6%A2%81%E8%BB%92%E5%AE%89%E6%9A%B4%E5%8A%9B%E6%80%A7%E4%BE%B5%E5%A5%B3%E8%97%9D%E4%BA%BA-%E9%A0%B8%E9%83%A8%E7%98%80%E9%9D%92%E6%88%90%E9%90%B5%E8%AD%89-%E5%88%A4%E7%9B%A34%E5%B9%B410%E6%9C%88",
+    "timestamp": "2026-03-18T03:51:10.795Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "AI概念股再獲追捧　MINIMAX飆逾12%｜港股異動",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260114/1088059558028382208683572.jpeg/CQA2BMHYrriIdWoj3NzDzHJ4lFk6tDnil0vUnJdL1Jw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60331450/%E4%BC%8A%E6%9C%97%E6%88%B0%E7%88%AD%E6%93%BE%E5%8B%95%E8%83%BD%E6%BA%90%E4%BE%9B%E6%87%89-%E5%85%A8%E7%90%83%E9%A3%9F%E7%94%A8%E6%B2%B9%E8%B5%B0%E5%8B%A2%E5%85%85%E6%BB%BF%E8%AE%8A%E6%95%B8",
     "timestamp": "2026-03-17T11:12:05.923Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "黃竹坑BLUE COAST首錄二手！業主收樓一日即售出　笑袋110萬走",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20251006/1051816047306346496718296.jpeg/OZ6MyYHV0uhiHKwyYLFrTtc-D_-Wd58Hibc_34m3P98?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60331438/%E9%BB%83%E7%AB%B9%E5%9D%91blue-coast%E9%A6%96%E9%8C%84%E4%BA%8C%E6%89%8B-%E6%A5%AD%E4%B8%BB%E6%94%B6%E6%A8%93%E4%B8%80%E6%97%A5%E5%8D%B3%E5%94%AE%E5%87%BA-%E7%AC%91%E8%A2%8B110%E8%90%AC%E8%B5%B0",
-    "timestamp": "2026-03-17T10:38:56.190Z",
     "strategy": ".content-card__main"
   }
 ];
