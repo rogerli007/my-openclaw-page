@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-19T17:13:03.725Z
+// Last updated: 2026-03-19T18:10:46.340Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "女足最前線｜女子亞洲盃決賽　澳洲「細」抗日本",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260319/1111372008647561216279810.jpeg/hpJCzxfkWOepmBUZMCuoEK3qN1dFvpg4YLrHe2C6x3s?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60332090/%E5%A5%B3%E8%B6%B3%E6%9C%80%E5%89%8D%E7%B7%9A-%E5%A5%B3%E5%AD%90%E4%BA%9E%E6%B4%B2%E7%9B%83%E6%B1%BA%E8%B3%BD-%E6%BE%B3%E6%B4%B2-%E7%B4%B0-%E6%8A%97%E6%97%A5%E6%9C%AC",
+    "timestamp": "2026-03-19T18:10:46.340Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "湯文龍出席城大法律法律學科聯會幹事會就職禮　勉勵學生培養誠信",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260318/1110891065054859264148259.png/it_CyIWOVnnrNZQeCDHkPvafkH-4JcW3FZ76ABWe-gA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60331296/%E7%B6%B2%E5%82%B3%E7%88%B8%E7%88%B8%E8%B2%B7%E5%BD%A9%E7%A5%A8%E4%B8%AD-748%E8%90%AC%E4%B8%8D%E5%91%8A%E8%A8%B4%E5%AD%A9%E5%AD%90-%E7%B6%B2%E6%B0%91%E5%9C%8D%E8%A7%80%E8%B3%AA%E7%96%91-%E9%AB%94%E5%BD%A9%E8%BB%9F%E5%BB%A3",
     "timestamp": "2026-03-18T23:19:18.554Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "麥明詩相隔6年重返TVB疑拍升學節目　投身教育界曾出手拯救幼稚園",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260318/1111059961661624320123498.jpeg/L_57VUoJhTfdYIO4Wwc6AnW86NSPDoHo9bngR_W54Ec?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60331688/%E9%BA%A5%E6%98%8E%E8%A9%A9%E7%9B%B8%E9%9A%946%E5%B9%B4%E9%87%8D%E8%BF%94tvb%E7%96%91%E6%8B%8D%E5%8D%87%E5%AD%B8%E7%AF%80%E7%9B%AE-%E6%8A%95%E8%BA%AB%E6%95%99%E8%82%B2%E7%95%8C%E6%9B%BE%E5%87%BA%E6%89%8B%E6%8B%AF%E6%95%91%E5%B9%BC%E7%A8%9A%E5%9C%92",
-    "timestamp": "2026-03-18T23:02:17.146Z",
     "strategy": ".content-card__main"
   }
 ];
