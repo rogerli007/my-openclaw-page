@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-19T00:47:05.553Z
+// Last updated: 2026-03-19T01:20:49.978Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "中國1月增持美債109億美元　持倉規模回升至6944億美元",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/3163408/org/6183ca604f36a9d2c3a237f617647b8f.jpg/3nTA3AjIPEuOIG4VTDRohGE_ShdL4f8YHW0h-h1tIfo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60331946/%E4%B8%AD%E5%9C%8B1%E6%9C%88%E5%A2%9E%E6%8C%81%E7%BE%8E%E5%82%B5109%E5%84%84%E7%BE%8E%E5%85%83-%E6%8C%81%E5%80%89%E8%A6%8F%E6%A8%A1%E5%9B%9E%E5%8D%87%E8%87%B36944%E5%84%84%E7%BE%8E%E5%85%83",
+    "timestamp": "2026-03-19T01:20:49.978Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "彭博︰滙豐擬未來數年大規模裁員或涉2萬職位　因AI助縮部門規模",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20210714/491956540190756864739415.jpeg/ipTiil8kfX2CrRIocT2QcIH34bX1y5jBXp11C16ddQs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60331814/%E9%83%AD%E5%98%89%E6%96%877-840%E8%90%AC%E6%B2%BD%E4%B9%9D%E9%BE%8D%E5%A1%98-%E5%A4%A9%E6%B1%A0%E5%B1%8B-%E8%BF%91%E5%B9%B4%E4%B8%8D%E8%A2%AB%E6%9D%8E%E6%BE%A4%E6%A5%B7%E9%87%8D%E8%A6%96%E5%B1%A2%E5%82%B3%E5%88%86%E6%89%8B",
     "timestamp": "2026-03-18T09:40:10.580Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "芹菜功效｜通便降血壓5好處 1部位胡蘿蔔素高8倍！建議3吃法+食譜",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260318/1110950905336827904106873.jpeg/Q8hLks5lDoCb7NIp4pwOHIw1OrGFHUqZyj3Mkso9zJI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60326407/%E8%8A%B9%E8%8F%9C%E5%8A%9F%E6%95%88-%E9%80%9A%E4%BE%BF%E9%99%8D%E8%A1%80%E5%A3%935%E5%A5%BD%E8%99%95-1%E9%83%A8%E4%BD%8D%E8%83%A1%E8%98%BF%E8%94%94%E7%B4%A0%E9%AB%988%E5%80%8D-%E5%BB%BA%E8%AD%B03%E5%90%83%E6%B3%95-%E9%A3%9F%E8%AD%9C",
-    "timestamp": "2026-03-18T09:11:14.315Z",
     "strategy": ".content-card__main"
   }
 ];
