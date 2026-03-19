@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-19T20:23:03.926Z
+// Last updated: 2026-03-19T20:53:17.633Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "路透社民調：65%美國人料特朗普將對伊大規模地面戰　但僅7%支持",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260303/1105345251800911872270635.jpeg/kgN7mGSLtfDDTosvU-NJB8FR_4F6LnX2sEh3i7BId4s?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60332341/%E8%B7%AF%E9%80%8F%E7%A4%BE%E6%B0%91%E8%AA%BF-65-%E7%BE%8E%E5%9C%8B%E4%BA%BA%E6%96%99%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%87%E5%B0%8D%E4%BC%8A%E5%A4%A7%E8%A6%8F%E6%A8%A1%E5%9C%B0%E9%9D%A2%E6%88%B0-%E4%BD%86%E5%83%857-%E6%94%AF%E6%8C%81",
+    "timestamp": "2026-03-19T20:53:17.633Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "路透社民調：65%美國人料特朗普將對伊大規模地面戰　但僅7%支持",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260221/1101964408298672128573284.jpeg/zsYMh2vKyZsTwPtGj-U6Ov1b1p4w_EI6rqnwH7Sp8B8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60332076/%E5%AE%8F%E7%A6%8F%E8%8B%91%E8%81%BD%E8%AD%89%E6%9C%83-%E4%B8%80%E6%96%87%E7%9C%8B%E6%B8%85%E4%B8%83%E5%BB%88%E6%AD%BB%E5%82%B7%E6%83%85%E6%B3%81-37%E6%88%B6%E5%A4%B1%E5%85%A9%E5%80%8B%E4%BB%A5%E4%B8%8A%E6%88%90%E5%93%A1",
     "timestamp": "2026-03-19T05:49:19.242Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "蒜蓉蒸龍蝦蒜蓉變綠可吃嗎？專家解惑1情況勿吃　挑選3招揀冇蒜味",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20231128/805973045129777152493860.jpeg/7nCahkzI7Winxfgv4Oc1EkEjqI_eu_p009GMzdPRjM0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/965692/%E8%92%9C%E8%93%89%E8%92%B8%E9%BE%8D%E8%9D%A6%E8%92%9C%E8%93%89%E8%AE%8A%E7%B6%A0%E5%8F%AF%E5%90%83%E5%97%8E-%E5%B0%88%E5%AE%B6%E8%A7%A3%E6%83%911%E6%83%85%E6%B3%81%E5%8B%BF%E5%90%83-%E6%8C%91%E9%81%B83%E6%8B%9B%E6%8F%80%E5%86%87%E8%92%9C%E5%91%B3",
-    "timestamp": "2026-03-19T04:36:04.682Z",
     "strategy": ".content-card__main"
   }
 ];
