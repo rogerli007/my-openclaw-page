@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-19T10:24:22.176Z
+// Last updated: 2026-03-19T12:25:16.382Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "BLACKPINK神曲製作人痛訴遭YG逼墮胎　曾試求助四成員但裝死不理",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260319/1111338884362407936820147.png/E-q90pD-Obgoyjdt50UPkcut2bApOg75gfRymIH0cpg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E5%A8%9B%E6%A8%82/60332132/bekuh-boom%E7%97%9B%E8%A8%B4%E9%81%ADyg%E9%80%BC%E5%A2%AE%E8%83%8E-%E6%9B%BE%E8%A9%A6%E6%B1%82%E5%8A%A9blackpink%E5%9B%9B%E6%88%90%E5%93%A1%E4%BD%86%E8%A3%9D%E6%AD%BB%E4%B8%8D%E7%90%86",
+    "timestamp": "2026-03-19T12:25:16.382Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "內地首批AI演員官宣出道遭網友抵制　被指「融臉」趙今麥、張子楓",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260106/1085263127152431104183267.jpeg/9iy7JHCrajZKdPN8D2DO6Fr2dEr8H63DZQEbe2UBG3s?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60331550/%E7%BE%8E%E5%9C%8B%E9%A0%92%E8%A8%B1%E5%8F%AF%E8%AD%89%E6%8E%88%E6%AC%8A%E6%B6%89%E5%A7%94%E5%85%A7%E7%91%9E%E6%8B%89%E7%9F%B3%E6%B2%B9%E5%85%AC%E5%8F%B8%E6%A5%AD%E5%8B%99-%E7%B7%A9%E8%A7%A3%E4%BC%8A%E6%9C%97%E6%89%80%E8%87%B4%E8%83%BD%E6%BA%90%E5%A3%93%E5%8A%9B",
     "timestamp": "2026-03-18T18:39:59.749Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "伊朗局勢｜特朗普授權解除船禁60日　以應對能源價格上漲",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250430/994288191454318592307264.jpeg/sgZ9V6fkTy1VXvwWMkRvaPX1koxfmwggPxQfqT8UH6k?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60331922/%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8B%A2-%E7%89%B9%E6%9C%97%E6%99%AE%E6%8E%88%E6%AC%8A%E8%A7%A3%E9%99%A4%E8%88%B9%E7%A6%8160%E6%97%A5-%E4%BB%A5%E6%87%89%E5%B0%8D%E8%83%BD%E6%BA%90%E5%83%B9%E6%A0%BC%E4%B8%8A%E6%BC%B2",
-    "timestamp": "2026-03-18T18:12:38.315Z",
     "strategy": ".content-card__main"
   }
 ];
