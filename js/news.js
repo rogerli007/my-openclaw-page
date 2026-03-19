@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-19T12:25:16.382Z
+// Last updated: 2026-03-19T12:56:40.170Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "2026世界幸福國家排行出爐：芬蘭連續9年奪冠　香港第90",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20231213/811577229317246976598401.jpeg/wIhip1u7pQV8AYbFwW_CuUFq9EisWu__LWgYgy1oGIM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60332226/2026%E4%B8%96%E7%95%8C%E5%B9%B8%E7%A6%8F%E5%9C%8B%E5%AE%B6%E6%8E%92%E8%A1%8C%E5%87%BA%E7%88%90-%E8%8A%AC%E8%98%AD%E9%80%A3%E7%BA%8C9%E5%B9%B4%E5%A5%AA%E5%86%A0-%E9%A6%99%E6%B8%AF%E7%AC%AC90",
+    "timestamp": "2026-03-19T12:56:40.170Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "BLACKPINK神曲製作人痛訴遭YG逼墮胎　曾試求助四成員但裝死不理",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260106/1085263127152431104183267.jpeg/9iy7JHCrajZKdPN8D2DO6Fr2dEr8H63DZQEbe2UBG3s?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60331550/%E7%BE%8E%E5%9C%8B%E9%A0%92%E8%A8%B1%E5%8F%AF%E8%AD%89%E6%8E%88%E6%AC%8A%E6%B6%89%E5%A7%94%E5%85%A7%E7%91%9E%E6%8B%89%E7%9F%B3%E6%B2%B9%E5%85%AC%E5%8F%B8%E6%A5%AD%E5%8B%99-%E7%B7%A9%E8%A7%A3%E4%BC%8A%E6%9C%97%E6%89%80%E8%87%B4%E8%83%BD%E6%BA%90%E5%A3%93%E5%8A%9B",
     "timestamp": "2026-03-18T19:15:22.375Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美國頒許可證授權涉委內瑞拉石油公司業務　緩解伊朗所致能源壓力",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260106/1085263127152431104183267.jpeg/9iy7JHCrajZKdPN8D2DO6Fr2dEr8H63DZQEbe2UBG3s?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60331550/%E7%BE%8E%E5%9C%8B%E9%A0%92%E8%A8%B1%E5%8F%AF%E8%AD%89%E6%8E%88%E6%AC%8A%E6%B6%89%E5%A7%94%E5%85%A7%E7%91%9E%E6%8B%89%E7%9F%B3%E6%B2%B9%E5%85%AC%E5%8F%B8%E6%A5%AD%E5%8B%99-%E7%B7%A9%E8%A7%A3%E4%BC%8A%E6%9C%97%E6%89%80%E8%87%B4%E8%83%BD%E6%BA%90%E5%A3%93%E5%8A%9B",
-    "timestamp": "2026-03-18T18:39:59.749Z",
     "strategy": ".content-card__main"
   }
 ];
