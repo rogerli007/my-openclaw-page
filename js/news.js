@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-19T15:09:56.496Z
+// Last updated: 2026-03-19T17:13:03.725Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "湯文龍出席城大法律法律學科聯會幹事會就職禮　勉勵學生培養誠信",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260320/1111466487622668288371802.jpeg/12dkj-TVUwUfBnFz7vMx0ZzYVFzVnP7TIPKRLSDykS0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60332326/%E6%B9%AF%E6%96%87%E9%BE%8D%E5%87%BA%E5%B8%AD%E5%9F%8E%E5%A4%A7%E6%B3%95%E5%BE%8B%E6%B3%95%E5%BE%8B%E5%AD%B8%E7%A7%91%E8%81%AF%E6%9C%83%E5%B9%B9%E4%BA%8B%E6%9C%83%E5%B0%B1%E8%81%B7%E7%A6%AE-%E5%8B%89%E5%8B%B5%E5%AD%B8%E7%94%9F%E5%9F%B9%E9%A4%8A%E8%AA%A0%E4%BF%A1",
+    "timestamp": "2026-03-19T17:13:03.725Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "女子婚姻不順！尋算命大師買「玉小孩」求改運　遭騙財兼與夫吵架",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260318/1111059961661624320123498.jpeg/L_57VUoJhTfdYIO4Wwc6AnW86NSPDoHo9bngR_W54Ec?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60331688/%E9%BA%A5%E6%98%8E%E8%A9%A9%E7%9B%B8%E9%9A%946%E5%B9%B4%E9%87%8D%E8%BF%94tvb%E7%96%91%E6%8B%8D%E5%8D%87%E5%AD%B8%E7%AF%80%E7%9B%AE-%E6%8A%95%E8%BA%AB%E6%95%99%E8%82%B2%E7%95%8C%E6%9B%BE%E5%87%BA%E6%89%8B%E6%8B%AF%E6%95%91%E5%B9%BC%E7%A8%9A%E5%9C%92",
     "timestamp": "2026-03-18T23:02:17.146Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "麥明詩相隔6年重返TVB疑拍升學節目　投身教育界曾出手拯救幼稚園",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260318/1111059961661624320123498.jpeg/L_57VUoJhTfdYIO4Wwc6AnW86NSPDoHo9bngR_W54Ec?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60331688/%E9%BA%A5%E6%98%8E%E8%A9%A9%E7%9B%B8%E9%9A%946%E5%B9%B4%E9%87%8D%E8%BF%94tvb%E7%96%91%E6%8B%8D%E5%8D%87%E5%AD%B8%E7%AF%80%E7%9B%AE-%E6%8A%95%E8%BA%AB%E6%95%99%E8%82%B2%E7%95%8C%E6%9B%BE%E5%87%BA%E6%89%8B%E6%8B%AF%E6%95%91%E5%B9%BC%E7%A8%9A%E5%9C%92",
-    "timestamp": "2026-03-18T22:36:20.667Z",
     "strategy": ".content-card__main"
   }
 ];
