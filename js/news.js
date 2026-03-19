@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-19T14:44:33.173Z
+// Last updated: 2026-03-19T15:09:56.496Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "女子婚姻不順！尋算命大師買「玉小孩」求改運　遭騙財兼與夫吵架",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260319/1111363469841534976923416.png/2iepizcjlRkiCzxkZki6GGaM2LtDbZEi1XEkddVxJHU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60330928/%E5%A5%B3%E5%AD%90%E5%A9%9A%E5%A7%BB%E4%B8%8D%E9%A0%86-%E5%B0%8B%E7%AE%97%E5%91%BD%E5%A4%A7%E5%B8%AB%E8%B2%B7-%E7%8E%89%E5%B0%8F%E5%AD%A9-%E6%B1%82%E6%94%B9%E9%81%8B-%E9%81%AD%E9%A8%99%E8%B2%A1%E5%85%BC%E8%88%87%E5%A4%AB%E5%90%B5%E6%9E%B6",
+    "timestamp": "2026-03-19T15:09:56.496Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "文物探知館明起辦漢朝文物展覽免費入場　展出252件漢代文物",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260318/1111059961661624320123498.jpeg/L_57VUoJhTfdYIO4Wwc6AnW86NSPDoHo9bngR_W54Ec?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60331688/%E9%BA%A5%E6%98%8E%E8%A9%A9%E7%9B%B8%E9%9A%946%E5%B9%B4%E9%87%8D%E8%BF%94tvb%E7%96%91%E6%8B%8D%E5%8D%87%E5%AD%B8%E7%AF%80%E7%9B%AE-%E6%8A%95%E8%BA%AB%E6%95%99%E8%82%B2%E7%95%8C%E6%9B%BE%E5%87%BA%E6%89%8B%E6%8B%AF%E6%95%91%E5%B9%BC%E7%A8%9A%E5%9C%92",
     "timestamp": "2026-03-18T22:36:20.667Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "歐聯16強｜巴塞次回合7：2大勝紐卡素　兩回合總計8：3晉級",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260319/1111147597772361728472513.jpeg/WwwO1LKZGtp0S0qQChbqq_uGPLgUVfwQLknWUi5J1lI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60331933/%E6%AD%90%E8%81%AF16%E5%BC%B7-%E5%B7%B4%E5%A1%9E%E6%AC%A1%E5%9B%9E%E5%90%887-2%E5%A4%A7%E5%8B%9D%E7%B4%90%E5%8D%A1%E7%B4%A0-%E5%85%A9%E5%9B%9E%E5%90%88%E7%B8%BD%E8%A8%888-3%E6%99%89%E7%B4%9A",
-    "timestamp": "2026-03-18T21:20:59.286Z",
     "strategy": ".content-card__main"
   }
 ];
