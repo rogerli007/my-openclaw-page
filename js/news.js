@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-19T19:16:13.446Z
+// Last updated: 2026-03-19T19:39:11.177Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "荃灣老圍三級火｜起火原因暫無可疑　完成調查後現場將陸續解封",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260320/1111495199500013568507198.jpeg/TZyL1EfmRSfpoS2fFnAlEeLSeKZgCXkwDxGdWzURnVs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60332335/%E8%8D%83%E7%81%A3%E8%80%81%E5%9C%8D%E4%B8%89%E7%B4%9A%E7%81%AB-%E8%B5%B7%E7%81%AB%E5%8E%9F%E5%9B%A0%E6%9A%AB%E7%84%A1%E5%8F%AF%E7%96%91-%E5%AE%8C%E6%88%90%E8%AA%BF%E6%9F%A5%E5%BE%8C%E7%8F%BE%E5%A0%B4%E5%B0%87%E9%99%B8%E7%BA%8C%E8%A7%A3%E5%B0%81",
+    "timestamp": "2026-03-19T19:39:11.177Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "荃灣老圍三級火｜起火原因暫無可疑　完成調查後現場將陸續解封",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/3163408/org/6183ca604f36a9d2c3a237f617647b8f.jpg/3nTA3AjIPEuOIG4VTDRohGE_ShdL4f8YHW0h-h1tIfo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60331946/%E4%B8%AD%E5%9C%8B1%E6%9C%88%E5%A2%9E%E6%8C%81%E7%BE%8E%E5%82%B5109%E5%84%84%E7%BE%8E%E5%85%83-%E6%8C%81%E5%80%89%E8%A6%8F%E6%A8%A1%E5%9B%9E%E5%8D%87%E8%87%B36944%E5%84%84%E7%BE%8E%E5%85%83",
     "timestamp": "2026-03-19T01:20:49.978Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "彭博︰滙豐擬未來數年大規模裁員或涉2萬職位　因AI助縮部門規模",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260319/1111220195029946368823045.jpeg/jEtE_xnY8vX1UCOP_jjdF8oeM18w3z8c8vgrU_L4K1M?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60331942/%E5%BD%AD%E5%8D%9A-%E6%BB%99%E8%B1%90%E6%93%AC%E6%9C%AA%E4%BE%86%E6%95%B8%E5%B9%B4%E5%A4%A7%E8%A6%8F%E6%A8%A1%E8%A3%81%E5%93%A1%E6%88%96%E6%B6%892%E8%90%AC%E8%81%B7%E4%BD%8D-%E5%9B%A0ai%E5%8A%A9%E7%B8%AE%E9%83%A8%E9%96%80%E8%A6%8F%E6%A8%A1",
-    "timestamp": "2026-03-19T00:47:05.553Z",
     "strategy": ".content-card__main"
   }
 ];
