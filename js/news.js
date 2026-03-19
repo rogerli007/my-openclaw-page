@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-19T00:02:22.901Z
+// Last updated: 2026-03-19T00:47:05.553Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "彭博︰滙豐擬未來數年大規模裁員或涉2萬職位　因AI助縮部門規模",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260319/1111220195029946368823045.jpeg/jEtE_xnY8vX1UCOP_jjdF8oeM18w3z8c8vgrU_L4K1M?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60331942/%E5%BD%AD%E5%8D%9A-%E6%BB%99%E8%B1%90%E6%93%AC%E6%9C%AA%E4%BE%86%E6%95%B8%E5%B9%B4%E5%A4%A7%E8%A6%8F%E6%A8%A1%E8%A3%81%E5%93%A1%E6%88%96%E6%B6%892%E8%90%AC%E8%81%B7%E4%BD%8D-%E5%9B%A0ai%E5%8A%A9%E7%B8%AE%E9%83%A8%E9%96%80%E8%A6%8F%E6%A8%A1",
+    "timestamp": "2026-03-19T00:47:05.553Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "騰訊績後ADR低港6%　公司擬削回購　累夜期收跌500點",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260318/1110950905336827904106873.jpeg/Q8hLks5lDoCb7NIp4pwOHIw1OrGFHUqZyj3Mkso9zJI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60326407/%E8%8A%B9%E8%8F%9C%E5%8A%9F%E6%95%88-%E9%80%9A%E4%BE%BF%E9%99%8D%E8%A1%80%E5%A3%935%E5%A5%BD%E8%99%95-1%E9%83%A8%E4%BD%8D%E8%83%A1%E8%98%BF%E8%94%94%E7%B4%A0%E9%AB%988%E5%80%8D-%E5%BB%BA%E8%AD%B03%E5%90%83%E6%B3%95-%E9%A3%9F%E8%AD%9C",
     "timestamp": "2026-03-18T09:11:14.315Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "前《歡樂今宵》台柱罕現身盧宛茵73歲壽辰　曾嫁石油大亨移民澳洲",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260318/1110941303782248448391406.jpeg/jduUNokeqhX05W3uR_AXZBelSCrWIz929U00HfVNNB0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60331670/%E6%A2%81%E5%B0%8F%E7%8E%B2%E7%8F%BE%E8%BA%AB%E7%9B%A7%E5%AE%9B%E8%8C%B5%E5%A3%BD%E8%BE%B0-%E5%86%8D%E5%A9%9A%E5%AB%81%E5%A4%A7%E5%BE%8B%E5%B8%AB%E5%81%9A%E9%97%8A%E5%A4%AA-%E6%84%9B%E5%A5%B3%E8%B6%99%E5%B8%8C%E6%B4%9B%E5%89%9B%E6%88%90%E4%BA%BA%E5%A6%BB",
-    "timestamp": "2026-03-18T08:07:20.511Z",
     "strategy": ".content-card__main"
   }
 ];
