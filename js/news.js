@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-19T20:53:17.633Z
+// Last updated: 2026-03-19T22:31:23.452Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "歐霸盃16強｜諾定咸森林憑互射12碼晉級　阿士東維拉淘汰里爾",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260320/1111544234575400960549307.jpeg/9mGLKERPt4jHhlZPMujI7aay8LsyV0w2YwWJ-GMFifg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60332347/%E6%AD%90%E9%9C%B8%E7%9B%8316%E5%BC%B7-%E8%AB%BE%E5%AE%9A%E5%92%B8%E6%A3%AE%E6%9E%97%E6%86%91%E4%BA%92%E5%B0%8412%E7%A2%BC%E6%99%89%E7%B4%9A-%E9%98%BF%E5%A3%AB%E6%9D%B1%E7%B6%AD%E6%8B%89%E6%B7%98%E6%B1%B0%E9%87%8C%E7%88%BE",
+    "timestamp": "2026-03-19T22:31:23.452Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "路透社民調：65%美國人料特朗普將對伊大規模地面戰　但僅7%支持",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20210609/479332910898352128963548.jpeg/29PZi-DuAql-HQnw5ScmWkOnxTAvhUpNp0-siqdPrIo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60332010/%E7%BE%8E%E8%B3%87north-rock%E8%90%BD%E6%88%B6%E4%B8%AD%E7%92%B0%E7%B4%84%E5%85%8B%E5%A4%A7%E5%BB%88-%E7%BD%AE%E5%9C%B0-%E9%8A%80%E8%A1%8C%E9%87%91%E8%9E%8D%E7%A7%9F%E6%88%B6%E4%BD%94%E6%AF%9442",
     "timestamp": "2026-03-19T06:15:56.569Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "宏福苑聽證會｜一文看清七廈死傷情況　37戶失兩個以上成員",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260221/1101964408298672128573284.jpeg/zsYMh2vKyZsTwPtGj-U6Ov1b1p4w_EI6rqnwH7Sp8B8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60332076/%E5%AE%8F%E7%A6%8F%E8%8B%91%E8%81%BD%E8%AD%89%E6%9C%83-%E4%B8%80%E6%96%87%E7%9C%8B%E6%B8%85%E4%B8%83%E5%BB%88%E6%AD%BB%E5%82%B7%E6%83%85%E6%B3%81-37%E6%88%B6%E5%A4%B1%E5%85%A9%E5%80%8B%E4%BB%A5%E4%B8%8A%E6%88%90%E5%93%A1",
-    "timestamp": "2026-03-19T05:49:19.242Z",
     "strategy": ".content-card__main"
   }
 ];
