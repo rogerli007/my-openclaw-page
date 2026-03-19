@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-19T08:28:54.659Z
+// Last updated: 2026-03-19T09:53:24.775Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "西九龍交通部舉辦交通日活動　設「大型車輛盲點」實體體驗環節",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260319/1111356977734225920865742.jpeg/3GeQ8CL2yj804Ja8Mp1OAFJ47YemQPYhmtHdL5rR3S8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60332223/%E8%A5%BF%E4%B9%9D%E9%BE%8D%E4%BA%A4%E9%80%9A%E9%83%A8%E8%88%89%E8%BE%A6%E4%BA%A4%E9%80%9A%E6%97%A5%E6%B4%BB%E5%8B%95-%E8%A8%AD-%E5%A4%A7%E5%9E%8B%E8%BB%8A%E8%BC%9B%E7%9B%B2%E9%BB%9E-%E5%AF%A6%E9%AB%94%E9%AB%94%E9%A9%97%E7%92%B0%E7%AF%80",
+    "timestamp": "2026-03-19T09:53:24.775Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "長洲東岸石灘現男屍　漁民揭發報案　警追查身份",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260319/1111105381381181440246097.jpeg/mJMmzkJv9DH4sYnJc_bjMs9qlE4FQwKlyF_d38hf3d8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60331921/%E5%B0%87%E8%BB%8D%E6%BE%B3%E6%9D%91%E5%B1%8B%E9%81%87%E7%AB%8A-%E8%AD%A65%E5%B0%8F%E6%99%82%E5%BE%8C%E6%8B%9828%E6%AD%B2%E7%94%B7%E8%B5%B7%E5%9B%9E-37%E8%90%AC%E5%A4%B1%E7%89%A9-%E6%A1%88%E4%BB%B6%E4%BB%8A%E6%97%A5%E6%8F%90%E5%A0%82",
     "timestamp": "2026-03-18T17:16:05.037Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "入住請敲門V｜莫竣名闖鬼屋疑被上身　失控瘋狂自轉拍攝緊急中斷",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260318/1110997140160647168504973.jpeg/DFlUjdFFO8e0sqNODFyfGtGMA2nYT3gtFpxgCRacYAk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60331837/%E5%85%A5%E4%BD%8F%E8%AB%8B%E6%95%B2%E9%96%80v-%E8%8E%AB%E7%AB%A3%E5%90%8D%E9%97%96%E9%AC%BC%E5%B1%8B%E7%96%91%E8%A2%AB%E4%B8%8A%E8%BA%AB-%E5%A4%B1%E6%8E%A7%E7%98%8B%E7%8B%82%E8%87%AA%E8%BD%89%E6%8B%8D%E6%94%9D%E7%B7%8A%E6%80%A5%E4%B8%AD%E6%96%B7",
-    "timestamp": "2026-03-18T15:19:42.919Z",
     "strategy": ".content-card__main"
   }
 ];
