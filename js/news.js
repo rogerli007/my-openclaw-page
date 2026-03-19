@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-19T02:24:51.969Z
+// Last updated: 2026-03-19T04:36:04.682Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "蒜蓉蒸龍蝦蒜蓉變綠可吃嗎？專家解惑1情況勿吃　挑選3招揀冇蒜味",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20231128/805973045129777152493860.jpeg/7nCahkzI7Winxfgv4Oc1EkEjqI_eu_p009GMzdPRjM0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/965692/%E8%92%9C%E8%93%89%E8%92%B8%E9%BE%8D%E8%9D%A6%E8%92%9C%E8%93%89%E8%AE%8A%E7%B6%A0%E5%8F%AF%E5%90%83%E5%97%8E-%E5%B0%88%E5%AE%B6%E8%A7%A3%E6%83%911%E6%83%85%E6%B3%81%E5%8B%BF%E5%90%83-%E6%8C%91%E9%81%B83%E6%8B%9B%E6%8F%80%E5%86%87%E8%92%9C%E5%91%B3",
+    "timestamp": "2026-03-19T04:36:04.682Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "小米逆市飆近4%　發布大模型Mimo-V2-Pro　全球綜合智能排名第八",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260302/1105078369952731136439827.jpeg/zHUsfUev52R3vkeoKyf4hlKqzp5VdDJ-wfPJ48HzyeM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60331863/%E6%B8%A3%E6%89%93%E6%8E%A8%E5%AE%9A%E6%81%AF%E6%8C%89%E6%8F%AD%E8%A8%88%E5%8A%83-%E9%A6%96%E4%B8%89%E5%B9%B4%E5%AE%9A%E6%81%AF2-73%E5%8E%98%E7%9C%8B%E9%BD%8A%E6%BB%99%E8%B1%90%E6%81%92%E7%94%9F-%E6%9C%88%E6%85%B31401%E5%85%83",
     "timestamp": "2026-03-18T10:39:13.332Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "日智庫揭解放軍詭異現象：台海前線部署舊戰機　一用途破壞力極強",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260318/1110991989056212992410852.jpeg/ephC3ZazybShX0zXmlps2mP3UKaTMt5T-JgtTviYLU4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60331775/%E6%97%A5%E6%99%BA%E5%BA%AB%E6%8F%AD%E8%A7%A3%E6%94%BE%E8%BB%8D%E8%A9%AD%E7%95%B0%E7%8F%BE%E8%B1%A1-%E5%8F%B0%E6%B5%B7%E5%89%8D%E7%B7%9A%E9%83%A8%E7%BD%B2%E8%88%8A%E6%88%B0%E6%A9%9F-%E4%B8%80%E7%94%A8%E9%80%94%E7%A0%B4%E5%A3%9E%E5%8A%9B%E6%A5%B5%E5%BC%B7",
-    "timestamp": "2026-03-18T10:12:18.231Z",
     "strategy": ".content-card__main"
   }
 ];
