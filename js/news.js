@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-19T12:56:40.170Z
+// Last updated: 2026-03-19T14:17:46.634Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "六合彩3.21頭獎$1300萬｜6個最旺號碼+2招增中獎機會+幸運投注站",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260228/1104535693322883072415983.jpeg/1NgvBJeLfN8BfkpelLOdIcaZsoAbm1Sigi7rgIIu64A?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60332311/%E5%85%AD%E5%90%88%E5%BD%A93-21%E9%A0%AD%E7%8D%8E-1300%E8%90%AC-6%E5%80%8B%E6%9C%80%E6%97%BA%E8%99%9F%E7%A2%BC-2%E6%8B%9B%E5%A2%9E%E4%B8%AD%E7%8D%8E%E6%A9%9F%E6%9C%83-%E5%B9%B8%E9%81%8B%E6%8A%95%E6%B3%A8%E7%AB%99",
+    "timestamp": "2026-03-19T14:17:46.634Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "2026世界幸福國家排行出爐：芬蘭連續9年奪冠　香港第90",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260319/1111138575031734272943180.jpeg/_xCyM8s-y1UGhmmoM670_u0XZiRgC77yYsoy0GLKMtA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60331928/%E9%AE%91%E5%A8%81%E7%88%BE-%E4%B8%AD%E6%9D%B1%E5%B1%80%E5%8B%A2%E5%B0%8D%E7%B6%93%E6%BF%9F%E5%BD%B1%E9%9F%BF%E6%9C%AA%E6%98%8E%E7%A2%BA-%E5%B0%87%E7%95%99%E4%BB%BB%E8%81%AF%E5%84%B2%E5%B1%80%E8%87%B3%E5%88%91%E4%BA%8B%E8%AA%BF%E6%9F%A5%E7%B5%90%E6%9D%9F",
     "timestamp": "2026-03-18T19:40:26.869Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美國頒許可證授權涉委內瑞拉石油公司業務　緩解伊朗所致能源壓力",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260106/1085263127152431104183267.jpeg/9iy7JHCrajZKdPN8D2DO6Fr2dEr8H63DZQEbe2UBG3s?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60331550/%E7%BE%8E%E5%9C%8B%E9%A0%92%E8%A8%B1%E5%8F%AF%E8%AD%89%E6%8E%88%E6%AC%8A%E6%B6%89%E5%A7%94%E5%85%A7%E7%91%9E%E6%8B%89%E7%9F%B3%E6%B2%B9%E5%85%AC%E5%8F%B8%E6%A5%AD%E5%8B%99-%E7%B7%A9%E8%A7%A3%E4%BC%8A%E6%9C%97%E6%89%80%E8%87%B4%E8%83%BD%E6%BA%90%E5%A3%93%E5%8A%9B",
-    "timestamp": "2026-03-18T19:15:22.375Z",
     "strategy": ".content-card__main"
   }
 ];
