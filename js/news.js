@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-19T07:40:05.028Z
+// Last updated: 2026-03-19T08:04:11.655Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "阿努廷獲過半選票支持　再次當選泰國總理",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260319/1111324508851015680362198.jpeg/dFZcCtTJtk7sU3NX-nYzjgv-uM50ztCOfhPMM34TzDM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60332141/%E9%98%BF%E5%8A%AA%E5%BB%B7%E7%8D%B2%E9%81%8E%E5%8D%8A%E9%81%B8%E7%A5%A8%E6%94%AF%E6%8C%81-%E5%86%8D%E6%AC%A1%E7%95%B6%E9%81%B8%E6%B3%B0%E5%9C%8B%E7%B8%BD%E7%90%86",
+    "timestamp": "2026-03-19T08:04:11.655Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "大灣區室內滑雪場8大推薦｜卡魯冰雪世界／華發冰雪世界/熱雪奇蹟",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260304/1105687033549950976607538.jpeg/x7CRP-VZJMaaGW7WZFygGQQkMG6hsgffa-NaWGvjWlg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60331893/%E7%99%BD%E5%AE%AE-%E4%B8%AD%E5%9C%8B%E5%90%8C%E6%84%8F%E5%BB%B6%E5%BE%8C%E7%89%B9%E6%9C%97%E6%99%AE%E8%A8%AA%E8%8F%AF%E8%A1%8C%E7%A8%8B-%E5%B0%87%E7%9B%A1%E5%BF%AB%E9%87%8D%E6%96%B0%E5%AE%89%E6%8E%92%E6%97%A5%E7%A8%8B",
     "timestamp": "2026-03-18T13:56:34.733Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "伊朗戰爭｜特朗普稱對北約失望　退出是「應該考慮的事情」",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260317/1110389509939269632370624.jpeg/Z3OrixVNXj_t64Lt9dzMcksIYHqO5gjZ6nYiEep2IhE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60331832/%E4%BC%8A%E6%9C%97%E6%88%B0%E7%88%AD-%E7%89%B9%E6%9C%97%E6%99%AE%E7%A8%B1%E5%B0%8D%E5%8C%97%E7%B4%84%E5%A4%B1%E6%9C%9B-%E9%80%80%E5%87%BA%E6%98%AF-%E6%87%89%E8%A9%B2%E8%80%83%E6%85%AE%E7%9A%84%E4%BA%8B%E6%83%85",
-    "timestamp": "2026-03-18T12:06:22.082Z",
     "strategy": ".content-card__main"
   }
 ];
