@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-19T04:36:04.682Z
+// Last updated: 2026-03-19T05:49:19.242Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "宏福苑聽證會｜一文看清七廈死傷情況　37戶失兩個以上成員",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260221/1101964408298672128573284.jpeg/zsYMh2vKyZsTwPtGj-U6Ov1b1p4w_EI6rqnwH7Sp8B8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60332076/%E5%AE%8F%E7%A6%8F%E8%8B%91%E8%81%BD%E8%AD%89%E6%9C%83-%E4%B8%80%E6%96%87%E7%9C%8B%E6%B8%85%E4%B8%83%E5%BB%88%E6%AD%BB%E5%82%B7%E6%83%85%E6%B3%81-37%E6%88%B6%E5%A4%B1%E5%85%A9%E5%80%8B%E4%BB%A5%E4%B8%8A%E6%88%90%E5%93%A1",
+    "timestamp": "2026-03-19T05:49:19.242Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "蒜蓉蒸龍蝦蒜蓉變綠可吃嗎？專家解惑1情況勿吃　挑選3招揀冇蒜味",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260318/1110996592862695424098157.png/QfoJ6i5cz-DAr9zKgtO0ijRnDVrmA-zytBu_27Qbv9s?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60331829/%E6%B7%B1%E5%9C%B3%E5%BD%B1%E6%A8%93-188%E5%85%83%E5%BD%B1%E5%AF%AB%E7%9C%9F%E6%9C%80%E5%BE%8C%E7%AB%9F%E8%AE%8A3%E8%90%AC-24%E6%AD%B2%E5%A5%B3%E9%81%AD%E6%B4%97%E8%85%A6%E5%BE%8C%E5%80%9F%E9%8C%A2%E7%A2%8C%E5%8D%A1%E5%9F%8B%E5%96%AE",
     "timestamp": "2026-03-18T11:11:22.651Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "渣打推定息按揭計劃　首三年定息2.73厘看齊滙豐恒生　月慳1401元",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260302/1105078369952731136439827.jpeg/zHUsfUev52R3vkeoKyf4hlKqzp5VdDJ-wfPJ48HzyeM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60331863/%E6%B8%A3%E6%89%93%E6%8E%A8%E5%AE%9A%E6%81%AF%E6%8C%89%E6%8F%AD%E8%A8%88%E5%8A%83-%E9%A6%96%E4%B8%89%E5%B9%B4%E5%AE%9A%E6%81%AF2-73%E5%8E%98%E7%9C%8B%E9%BD%8A%E6%BB%99%E8%B1%90%E6%81%92%E7%94%9F-%E6%9C%88%E6%85%B31401%E5%85%83",
-    "timestamp": "2026-03-18T10:39:13.332Z",
     "strategy": ".content-card__main"
   }
 ];
