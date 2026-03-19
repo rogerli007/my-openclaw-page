@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-19T09:53:24.775Z
+// Last updated: 2026-03-19T10:24:22.176Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "內地首批AI演員官宣出道遭網友抵制　被指「融臉」趙今麥、張子楓",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260319/1111331216981757952713206.jpeg/EwrLJPdxaSoB0TEgL4kP0XNYowLLvoptmx2xo5sdsaM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60332144/%E5%85%A7%E5%9C%B0%E9%A6%96%E6%89%B9ai%E6%BC%94%E5%93%A1%E5%AE%98%E5%AE%A3%E5%87%BA%E9%81%93%E9%81%AD%E7%B6%B2%E5%8F%8B%E6%8A%B5%E5%88%B6-%E8%A2%AB%E6%8C%87-%E8%9E%8D%E8%87%89-%E8%B6%99%E4%BB%8A%E9%BA%A5-%E5%BC%B5%E5%AD%90%E6%A5%93",
+    "timestamp": "2026-03-19T10:24:22.176Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "西九龍交通部舉辦交通日活動　設「大型車輛盲點」實體體驗環節",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250430/994288191454318592307264.jpeg/sgZ9V6fkTy1VXvwWMkRvaPX1koxfmwggPxQfqT8UH6k?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60331922/%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8B%A2-%E7%89%B9%E6%9C%97%E6%99%AE%E6%8E%88%E6%AC%8A%E8%A7%A3%E9%99%A4%E8%88%B9%E7%A6%8160%E6%97%A5-%E4%BB%A5%E6%87%89%E5%B0%8D%E8%83%BD%E6%BA%90%E5%83%B9%E6%A0%BC%E4%B8%8A%E6%BC%B2",
     "timestamp": "2026-03-18T18:12:38.315Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "將軍澳村屋遇竊　警5小時後拘28歲男起回$37萬失物　案件今日提堂",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260319/1111105381381181440246097.jpeg/mJMmzkJv9DH4sYnJc_bjMs9qlE4FQwKlyF_d38hf3d8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60331921/%E5%B0%87%E8%BB%8D%E6%BE%B3%E6%9D%91%E5%B1%8B%E9%81%87%E7%AB%8A-%E8%AD%A65%E5%B0%8F%E6%99%82%E5%BE%8C%E6%8B%9828%E6%AD%B2%E7%94%B7%E8%B5%B7%E5%9B%9E-37%E8%90%AC%E5%A4%B1%E7%89%A9-%E6%A1%88%E4%BB%B6%E4%BB%8A%E6%97%A5%E6%8F%90%E5%A0%82",
-    "timestamp": "2026-03-18T17:16:05.037Z",
     "strategy": ".content-card__main"
   }
 ];
