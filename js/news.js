@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-18T23:19:18.554Z
+// Last updated: 2026-03-19T00:02:22.901Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "騰訊績後ADR低港6%　公司擬削回購　累夜期收跌500點",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260304/1105851889947250688934862.jpeg/yNKiJBKEjWH5a9HVveVX-MdfJL0f_9mtNguWYTYLlmE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60331941/%E9%A8%B0%E8%A8%8A%E7%B8%BE%E5%BE%8Cadr%E4%BD%8E%E6%B8%AF6-%E5%85%AC%E5%8F%B8%E6%93%AC%E5%89%8A%E5%9B%9E%E8%B3%BC-%E7%B4%AF%E5%A4%9C%E6%9C%9F%E6%94%B6%E8%B7%8C500%E9%BB%9E",
+    "timestamp": "2026-03-19T00:02:22.901Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "爸爸買彩票中¥748萬不告訴孩子！網民熱議提質疑：彩票滯銷賣廣告",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260318/1110941303782248448391406.jpeg/jduUNokeqhX05W3uR_AXZBelSCrWIz929U00HfVNNB0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60331670/%E6%A2%81%E5%B0%8F%E7%8E%B2%E7%8F%BE%E8%BA%AB%E7%9B%A7%E5%AE%9B%E8%8C%B5%E5%A3%BD%E8%BE%B0-%E5%86%8D%E5%A9%9A%E5%AB%81%E5%A4%A7%E5%BE%8B%E5%B8%AB%E5%81%9A%E9%97%8A%E5%A4%AA-%E6%84%9B%E5%A5%B3%E8%B6%99%E5%B8%8C%E6%B4%9B%E5%89%9B%E6%88%90%E4%BA%BA%E5%A6%BB",
     "timestamp": "2026-03-18T08:07:20.511Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "兩警涉屢向酒吧負責人透露警方行動資訊　控公職失當等罪今早提堂",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20240719/890758830277791744742103.jpeg/_xz4-BqyNBxxwuGMWTOKhEJ6si9QeUBNWwQgH1sEIB8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60331739/%E5%85%A9%E8%AD%A6%E6%B6%89%E5%B1%A2%E5%90%91%E9%85%92%E5%90%A7%E8%B2%A0%E8%B2%AC%E4%BA%BA%E9%80%8F%E9%9C%B2%E8%AD%A6%E6%96%B9%E8%A1%8C%E5%8B%95%E8%B3%87%E8%A8%8A-%E6%8E%A7%E5%85%AC%E8%81%B7%E5%A4%B1%E7%95%B6%E7%AD%89%E7%BD%AA%E4%BB%8A%E6%97%A9%E6%8F%90%E5%A0%82",
-    "timestamp": "2026-03-18T07:43:09.860Z",
     "strategy": ".content-card__main"
   }
 ];
