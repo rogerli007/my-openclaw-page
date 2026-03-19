@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-19T20:02:56.173Z
+// Last updated: 2026-03-19T20:23:03.926Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "路透社民調：65%美國人料特朗普將對伊大規模地面戰　但僅7%支持",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260303/1105345251800911872270635.jpeg/kgN7mGSLtfDDTosvU-NJB8FR_4F6LnX2sEh3i7BId4s?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60332341/%E8%B7%AF%E9%80%8F%E7%A4%BE%E6%B0%91%E8%AA%BF-65-%E7%BE%8E%E5%9C%8B%E4%BA%BA%E6%96%99%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%87%E5%B0%8D%E4%BC%8A%E5%A4%A7%E8%A6%8F%E6%A8%A1%E5%9C%B0%E9%9D%A2%E6%88%B0-%E4%BD%86%E5%83%857-%E6%94%AF%E6%8C%81",
+    "timestamp": "2026-03-19T20:23:03.926Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "內塔尼亞胡：伊朗已不具備鈾濃縮能力　空襲外地面行動亦必不可少",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20231128/805973045129777152493860.jpeg/7nCahkzI7Winxfgv4Oc1EkEjqI_eu_p009GMzdPRjM0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/965692/%E8%92%9C%E8%93%89%E8%92%B8%E9%BE%8D%E8%9D%A6%E8%92%9C%E8%93%89%E8%AE%8A%E7%B6%A0%E5%8F%AF%E5%90%83%E5%97%8E-%E5%B0%88%E5%AE%B6%E8%A7%A3%E6%83%911%E6%83%85%E6%B3%81%E5%8B%BF%E5%90%83-%E6%8C%91%E9%81%B83%E6%8B%9B%E6%8F%80%E5%86%87%E8%92%9C%E5%91%B3",
     "timestamp": "2026-03-19T04:36:04.682Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "小米逆市飆近4%　發布大模型Mimo-V2-Pro　全球綜合智能排名第八",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20251223/1080153366614511616863154.jpeg/25-TlYYCdBRRfUBHkK86SkrJiwe1xNw-mx3g0Jsd4NA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60331975/%E5%B0%8F%E7%B1%B3%E9%80%86%E5%B8%82%E9%A3%86%E8%BF%914-%E7%99%BC%E5%B8%83%E5%A4%A7%E6%A8%A1%E5%9E%8Bmimo-v2-pro-%E5%85%A8%E7%90%83%E7%B6%9C%E5%90%88%E6%99%BA%E8%83%BD%E6%8E%92%E5%90%8D%E7%AC%AC%E5%85%AB",
-    "timestamp": "2026-03-19T02:24:51.969Z",
     "strategy": ".content-card__main"
   }
 ];
