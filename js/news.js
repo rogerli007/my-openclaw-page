@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-19T22:31:23.452Z
+// Last updated: 2026-03-19T22:51:15.238Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "Mandy Lieu前有米緋聞男友激罕露面　驚變發福大叔曾捲鹹豬手風波",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260319/1111317561787551744716328.jpeg/ssmFOksGLQwW-Dj7f9AYWaqqvCnnwJn5m33485t9-PM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60331929/%E6%9E%97%E5%A8%81%E8%BE%B0%E6%BF%80%E7%BD%95%E9%9C%B2%E9%9D%A2-%E9%A9%9A%E8%AE%8A%E7%99%BC%E7%A6%8F%E5%A4%A7%E5%8F%94%E6%9B%BE%E6%8D%B2%E9%B9%B9%E8%B1%AC%E6%89%8B%E9%A2%A8%E6%B3%A2",
+    "timestamp": "2026-03-19T22:51:15.238Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "歐霸盃16強｜諾定咸森林憑互射12碼晉級　阿士東維拉淘汰里爾",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260309/1107736108877221888726593.png/07ZG3s4qNIWXfueZPmohWoP2ObxzF803hS2Ow4UtjsM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%97%85%E9%81%8A/60328867/%E5%A4%A7%E7%81%A3%E5%8D%80%E5%AE%A4%E5%85%A7%E6%BB%91%E9%9B%AA%E5%A0%B48%E5%A4%A7%E6%8E%A8%E8%96%A6-%E5%8D%A1%E9%AD%AF%E5%86%B0%E9%9B%AA%E4%B8%96%E7%95%8C-%E8%8F%AF%E7%99%BC%E5%86%B0%E9%9B%AA%E4%B8%96%E7%95%8C-%E7%86%B1%E9%9B%AA%E5%A5%87%E8%B9%9F",
     "timestamp": "2026-03-19T07:40:05.028Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美資North Rock落戶中環約克大廈　置地：銀行金融租戶佔比42%",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20210609/479332910898352128963548.jpeg/29PZi-DuAql-HQnw5ScmWkOnxTAvhUpNp0-siqdPrIo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60332010/%E7%BE%8E%E8%B3%87north-rock%E8%90%BD%E6%88%B6%E4%B8%AD%E7%92%B0%E7%B4%84%E5%85%8B%E5%A4%A7%E5%BB%88-%E7%BD%AE%E5%9C%B0-%E9%8A%80%E8%A1%8C%E9%87%91%E8%9E%8D%E7%A7%9F%E6%88%B6%E4%BD%94%E6%AF%9442",
-    "timestamp": "2026-03-19T06:15:56.569Z",
     "strategy": ".content-card__main"
   }
 ];
