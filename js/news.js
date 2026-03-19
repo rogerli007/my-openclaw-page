@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-19T18:10:46.340Z
+// Last updated: 2026-03-19T18:38:35.148Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "被問為何未告知盟友伊朗計劃　特朗普：想出其不意如珍珠港事件",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260320/1111480163675148288406795.jpeg/b444PhUFwEAqCTfZHy1b18uL2HEDYLCuNzzMVTc8zFU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60332332/%E8%A2%AB%E5%95%8F%E7%82%BA%E4%BD%95%E6%9C%AA%E5%91%8A%E7%9F%A5%E7%9B%9F%E5%8F%8B%E4%BC%8A%E6%9C%97%E8%A8%88%E5%8A%83-%E7%89%B9%E6%9C%97%E6%99%AE-%E6%83%B3%E5%87%BA%E5%85%B6%E4%B8%8D%E6%84%8F%E5%A6%82%E7%8F%8D%E7%8F%A0%E6%B8%AF%E4%BA%8B%E4%BB%B6",
+    "timestamp": "2026-03-19T18:38:35.148Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "女足最前線｜女子亞洲盃決賽　澳洲「細」抗日本",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260304/1105851889947250688934862.jpeg/yNKiJBKEjWH5a9HVveVX-MdfJL0f_9mtNguWYTYLlmE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60331941/%E9%A8%B0%E8%A8%8A%E7%B8%BE%E5%BE%8Cadr%E4%BD%8E%E6%B8%AF6-%E5%85%AC%E5%8F%B8%E6%93%AC%E5%89%8A%E5%9B%9E%E8%B3%BC-%E7%B4%AF%E5%A4%9C%E6%9C%9F%E6%94%B6%E8%B7%8C500%E9%BB%9E",
     "timestamp": "2026-03-19T00:02:22.901Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "爸爸買彩票中¥748萬不告訴孩子！網民熱議提質疑：彩票滯銷賣廣告",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260318/1110891065054859264148259.png/it_CyIWOVnnrNZQeCDHkPvafkH-4JcW3FZ76ABWe-gA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60331296/%E7%B6%B2%E5%82%B3%E7%88%B8%E7%88%B8%E8%B2%B7%E5%BD%A9%E7%A5%A8%E4%B8%AD-748%E8%90%AC%E4%B8%8D%E5%91%8A%E8%A8%B4%E5%AD%A9%E5%AD%90-%E7%B6%B2%E6%B0%91%E5%9C%8D%E8%A7%80%E8%B3%AA%E7%96%91-%E9%AB%94%E5%BD%A9%E8%BB%9F%E5%BB%A3",
-    "timestamp": "2026-03-18T23:19:18.554Z",
     "strategy": ".content-card__main"
   }
 ];
