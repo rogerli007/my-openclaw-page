@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-19T23:17:05.420Z
+// Last updated: 2026-03-19T23:33:45.723Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "營地預約及收費｜漁護署考慮西貢東作試點　研懲罰預約後不到場者",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260220/1101640689415884800403218.jpeg/C1k_b9qeq11PqUgU_iPi5MwSrVzU558feUM7H1NDOx8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60332309/%E7%87%9F%E5%9C%B0%E9%A0%90%E7%B4%84%E5%8F%8A%E6%94%B6%E8%B2%BB-%E6%BC%81%E8%AD%B7%E7%BD%B2%E8%80%83%E6%85%AE%E8%A5%BF%E8%B2%A2%E6%9D%B1%E4%BD%9C%E8%A9%A6%E9%BB%9E-%E7%A0%94%E6%87%B2%E7%BD%B0%E9%A0%90%E7%B4%84%E5%BE%8C%E4%B8%8D%E5%88%B0%E5%A0%B4%E8%80%85",
+    "timestamp": "2026-03-19T23:33:45.723Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "營地預約及收費｜漁護署考慮西貢東作試點　研懲罰預約後不到場者",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20200618/350369382356094976.jpeg/wLdsgUqda_-9-cspKy1P9gpMRFX7r0-s0lEs5tJRLOY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60332157/%E9%95%B7%E6%B4%B2%E6%9D%B1%E5%B2%B8%E7%9F%B3%E7%81%98%E7%8F%BE%E7%94%B7%E5%B1%8D-%E6%BC%81%E6%B0%91%E6%8F%AD%E7%99%BC%E5%A0%B1%E6%A1%88-%E8%AD%A6%E8%BF%BD%E6%9F%A5%E8%BA%AB%E4%BB%BD",
     "timestamp": "2026-03-19T08:28:54.659Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "阿努廷獲過半選票支持　再次當選泰國總理",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260319/1111324508851015680362198.jpeg/dFZcCtTJtk7sU3NX-nYzjgv-uM50ztCOfhPMM34TzDM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60332141/%E9%98%BF%E5%8A%AA%E5%BB%B7%E7%8D%B2%E9%81%8E%E5%8D%8A%E9%81%B8%E7%A5%A8%E6%94%AF%E6%8C%81-%E5%86%8D%E6%AC%A1%E7%95%B6%E9%81%B8%E6%B3%B0%E5%9C%8B%E7%B8%BD%E7%90%86",
-    "timestamp": "2026-03-19T08:04:11.655Z",
     "strategy": ".content-card__main"
   }
 ];
