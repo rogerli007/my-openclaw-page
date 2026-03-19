@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-19T01:20:49.978Z
+// Last updated: 2026-03-19T02:24:51.969Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "小米逆市飆近4%　發布大模型Mimo-V2-Pro　全球綜合智能排名第八",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20251223/1080153366614511616863154.jpeg/25-TlYYCdBRRfUBHkK86SkrJiwe1xNw-mx3g0Jsd4NA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60331975/%E5%B0%8F%E7%B1%B3%E9%80%86%E5%B8%82%E9%A3%86%E8%BF%914-%E7%99%BC%E5%B8%83%E5%A4%A7%E6%A8%A1%E5%9E%8Bmimo-v2-pro-%E5%85%A8%E7%90%83%E7%B6%9C%E5%90%88%E6%99%BA%E8%83%BD%E6%8E%92%E5%90%8D%E7%AC%AC%E5%85%AB",
+    "timestamp": "2026-03-19T02:24:51.969Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "中國1月增持美債109億美元　持倉規模回升至6944億美元",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260318/1110991989056212992410852.jpeg/ephC3ZazybShX0zXmlps2mP3UKaTMt5T-JgtTviYLU4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60331775/%E6%97%A5%E6%99%BA%E5%BA%AB%E6%8F%AD%E8%A7%A3%E6%94%BE%E8%BB%8D%E8%A9%AD%E7%95%B0%E7%8F%BE%E8%B1%A1-%E5%8F%B0%E6%B5%B7%E5%89%8D%E7%B7%9A%E9%83%A8%E7%BD%B2%E8%88%8A%E6%88%B0%E6%A9%9F-%E4%B8%80%E7%94%A8%E9%80%94%E7%A0%B4%E5%A3%9E%E5%8A%9B%E6%A5%B5%E5%BC%B7",
     "timestamp": "2026-03-18T10:12:18.231Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "郭嘉文7,840萬沽九龍塘「天池屋」　近年不被李澤楷重視屢傳分手",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20210714/491956540190756864739415.jpeg/ipTiil8kfX2CrRIocT2QcIH34bX1y5jBXp11C16ddQs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60331814/%E9%83%AD%E5%98%89%E6%96%877-840%E8%90%AC%E6%B2%BD%E4%B9%9D%E9%BE%8D%E5%A1%98-%E5%A4%A9%E6%B1%A0%E5%B1%8B-%E8%BF%91%E5%B9%B4%E4%B8%8D%E8%A2%AB%E6%9D%8E%E6%BE%A4%E6%A5%B7%E9%87%8D%E8%A6%96%E5%B1%A2%E5%82%B3%E5%88%86%E6%89%8B",
-    "timestamp": "2026-03-18T09:40:10.580Z",
     "strategy": ".content-card__main"
   }
 ];
