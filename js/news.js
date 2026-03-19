@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-19T06:15:56.569Z
+// Last updated: 2026-03-19T07:40:05.028Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "大灣區室內滑雪場8大推薦｜卡魯冰雪世界／華發冰雪世界/熱雪奇蹟",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260309/1107736108877221888726593.png/07ZG3s4qNIWXfueZPmohWoP2ObxzF803hS2Ow4UtjsM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%97%85%E9%81%8A/60328867/%E5%A4%A7%E7%81%A3%E5%8D%80%E5%AE%A4%E5%85%A7%E6%BB%91%E9%9B%AA%E5%A0%B48%E5%A4%A7%E6%8E%A8%E8%96%A6-%E5%8D%A1%E9%AD%AF%E5%86%B0%E9%9B%AA%E4%B8%96%E7%95%8C-%E8%8F%AF%E7%99%BC%E5%86%B0%E9%9B%AA%E4%B8%96%E7%95%8C-%E7%86%B1%E9%9B%AA%E5%A5%87%E8%B9%9F",
+    "timestamp": "2026-03-19T07:40:05.028Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美資North Rock落戶中環約克大廈　置地：銀行金融租戶佔比42%",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260317/1110389509939269632370624.jpeg/Z3OrixVNXj_t64Lt9dzMcksIYHqO5gjZ6nYiEep2IhE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60331832/%E4%BC%8A%E6%9C%97%E6%88%B0%E7%88%AD-%E7%89%B9%E6%9C%97%E6%99%AE%E7%A8%B1%E5%B0%8D%E5%8C%97%E7%B4%84%E5%A4%B1%E6%9C%9B-%E9%80%80%E5%87%BA%E6%98%AF-%E6%87%89%E8%A9%B2%E8%80%83%E6%85%AE%E7%9A%84%E4%BA%8B%E6%83%85",
     "timestamp": "2026-03-18T12:06:22.082Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "南京大屠殺倖存者關舜華去世　享年101歲　目前在世僅剩21人",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260318/1111016533359857664417562.jpeg/I7c8gToxRu4kRoDL1eGBH6ZhR9KYG0Dbbzje3W843t0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60331872/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%B1%A0%E6%AE%BA%E5%80%96%E5%AD%98%E8%80%85%E9%97%9C%E8%88%9C%E8%8F%AF%E5%8E%BB%E4%B8%96-%E4%BA%AB%E5%B9%B4101%E6%AD%B2-%E7%9B%AE%E5%89%8D%E5%9C%A8%E4%B8%96%E5%83%85%E5%89%A921%E4%BA%BA",
-    "timestamp": "2026-03-18T11:37:25.969Z",
     "strategy": ".content-card__main"
   }
 ];
