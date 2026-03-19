@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-19T23:33:45.723Z
+// Last updated: 2026-03-19T23:50:17.870Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "全球Wi-Fi爆發致命安全漏洞　所有Router中伏　兩招必學自保法",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260319/1111377905239199744298716.jpeg/G4Sz7uGXAYRkCOc5g5isa3WN4md7gmF-VqDG0VagxtE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60332181/%E5%85%A8%E7%90%83wi-fi%E7%88%86%E7%99%BC%E8%87%B4%E5%91%BD%E5%AE%89%E5%85%A8%E6%BC%8F%E6%B4%9E-%E6%89%80%E6%9C%89router%E4%B8%AD%E4%BC%8F-%E5%85%A9%E6%8B%9B%E5%BF%85%E5%AD%B8%E8%87%AA%E4%BF%9D%E6%B3%95",
+    "timestamp": "2026-03-19T23:50:17.870Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "營地預約及收費｜漁護署考慮西貢東作試點　研懲罰預約後不到場者",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260319/1111356977734225920865742.jpeg/3GeQ8CL2yj804Ja8Mp1OAFJ47YemQPYhmtHdL5rR3S8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60332223/%E8%A5%BF%E4%B9%9D%E9%BE%8D%E4%BA%A4%E9%80%9A%E9%83%A8%E8%88%89%E8%BE%A6%E4%BA%A4%E9%80%9A%E6%97%A5%E6%B4%BB%E5%8B%95-%E8%A8%AD-%E5%A4%A7%E5%9E%8B%E8%BB%8A%E8%BC%9B%E7%9B%B2%E9%BB%9E-%E5%AF%A6%E9%AB%94%E9%AB%94%E9%A9%97%E7%92%B0%E7%AF%80",
     "timestamp": "2026-03-19T09:53:24.775Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "長洲東岸石灘現男屍　漁民揭發報案　警追查身份",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20200618/350369382356094976.jpeg/wLdsgUqda_-9-cspKy1P9gpMRFX7r0-s0lEs5tJRLOY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60332157/%E9%95%B7%E6%B4%B2%E6%9D%B1%E5%B2%B8%E7%9F%B3%E7%81%98%E7%8F%BE%E7%94%B7%E5%B1%8D-%E6%BC%81%E6%B0%91%E6%8F%AD%E7%99%BC%E5%A0%B1%E6%A1%88-%E8%AD%A6%E8%BF%BD%E6%9F%A5%E8%BA%AB%E4%BB%BD",
-    "timestamp": "2026-03-19T08:28:54.659Z",
     "strategy": ".content-card__main"
   }
 ];
