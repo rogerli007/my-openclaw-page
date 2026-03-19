@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-19T14:17:46.634Z
+// Last updated: 2026-03-19T14:44:33.173Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "文物探知館明起辦漢朝文物展覽免費入場　展出252件漢代文物",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260319/1111419932966391808542316.jpeg/OM6V0geWcPWILFhgAo8DZIuLpQJfUJzAm8HMbJvBzGw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60332300/%E6%96%87%E7%89%A9%E6%8E%A2%E7%9F%A5%E9%A4%A8%E6%98%8E%E8%B5%B7%E8%BE%A6%E6%BC%A2%E6%9C%9D%E6%96%87%E7%89%A9%E5%B1%95%E8%A6%BD%E5%85%8D%E8%B2%BB%E5%85%A5%E5%A0%B4-%E5%B1%95%E5%87%BA252%E4%BB%B6%E6%BC%A2%E4%BB%A3%E6%96%87%E7%89%A9",
+    "timestamp": "2026-03-19T14:44:33.173Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "六合彩3.21頭獎$1300萬｜6個最旺號碼+2招增中獎機會+幸運投注站",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260319/1111147597772361728472513.jpeg/WwwO1LKZGtp0S0qQChbqq_uGPLgUVfwQLknWUi5J1lI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60331933/%E6%AD%90%E8%81%AF16%E5%BC%B7-%E5%B7%B4%E5%A1%9E%E6%AC%A1%E5%9B%9E%E5%90%887-2%E5%A4%A7%E5%8B%9D%E7%B4%90%E5%8D%A1%E7%B4%A0-%E5%85%A9%E5%9B%9E%E5%90%88%E7%B8%BD%E8%A8%888-3%E6%99%89%E7%B4%9A",
     "timestamp": "2026-03-18T21:20:59.286Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "鮑威爾：中東局勢對經濟影響未明確　將留任聯儲局至刑事調查結束",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260319/1111138575031734272943180.jpeg/_xCyM8s-y1UGhmmoM670_u0XZiRgC77yYsoy0GLKMtA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60331928/%E9%AE%91%E5%A8%81%E7%88%BE-%E4%B8%AD%E6%9D%B1%E5%B1%80%E5%8B%A2%E5%B0%8D%E7%B6%93%E6%BF%9F%E5%BD%B1%E9%9F%BF%E6%9C%AA%E6%98%8E%E7%A2%BA-%E5%B0%87%E7%95%99%E4%BB%BB%E8%81%AF%E5%84%B2%E5%B1%80%E8%87%B3%E5%88%91%E4%BA%8B%E8%AA%BF%E6%9F%A5%E7%B5%90%E6%9D%9F",
-    "timestamp": "2026-03-18T19:40:26.869Z",
     "strategy": ".content-card__main"
   }
 ];
