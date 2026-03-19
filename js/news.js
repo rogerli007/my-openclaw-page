@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-19T05:49:19.242Z
+// Last updated: 2026-03-19T06:15:56.569Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美資North Rock落戶中環約克大廈　置地：銀行金融租戶佔比42%",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20210609/479332910898352128963548.jpeg/29PZi-DuAql-HQnw5ScmWkOnxTAvhUpNp0-siqdPrIo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60332010/%E7%BE%8E%E8%B3%87north-rock%E8%90%BD%E6%88%B6%E4%B8%AD%E7%92%B0%E7%B4%84%E5%85%8B%E5%A4%A7%E5%BB%88-%E7%BD%AE%E5%9C%B0-%E9%8A%80%E8%A1%8C%E9%87%91%E8%9E%8D%E7%A7%9F%E6%88%B6%E4%BD%94%E6%AF%9442",
+    "timestamp": "2026-03-19T06:15:56.569Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "宏福苑聽證會｜一文看清七廈死傷情況　37戶失兩個以上成員",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260318/1111016533359857664417562.jpeg/I7c8gToxRu4kRoDL1eGBH6ZhR9KYG0Dbbzje3W843t0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60331872/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%B1%A0%E6%AE%BA%E5%80%96%E5%AD%98%E8%80%85%E9%97%9C%E8%88%9C%E8%8F%AF%E5%8E%BB%E4%B8%96-%E4%BA%AB%E5%B9%B4101%E6%AD%B2-%E7%9B%AE%E5%89%8D%E5%9C%A8%E4%B8%96%E5%83%85%E5%89%A921%E4%BA%BA",
     "timestamp": "2026-03-18T11:37:25.969Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "深圳影樓｜188元影寫真最後竟變3萬　24歲女遭洗腦後借錢碌卡埋單",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260318/1110996592862695424098157.png/QfoJ6i5cz-DAr9zKgtO0ijRnDVrmA-zytBu_27Qbv9s?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60331829/%E6%B7%B1%E5%9C%B3%E5%BD%B1%E6%A8%93-188%E5%85%83%E5%BD%B1%E5%AF%AB%E7%9C%9F%E6%9C%80%E5%BE%8C%E7%AB%9F%E8%AE%8A3%E8%90%AC-24%E6%AD%B2%E5%A5%B3%E9%81%AD%E6%B4%97%E8%85%A6%E5%BE%8C%E5%80%9F%E9%8C%A2%E7%A2%8C%E5%8D%A1%E5%9F%8B%E5%96%AE",
-    "timestamp": "2026-03-18T11:11:22.651Z",
     "strategy": ".content-card__main"
   }
 ];
