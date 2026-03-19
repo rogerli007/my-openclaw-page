@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-19T19:39:11.177Z
+// Last updated: 2026-03-19T20:02:56.173Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "內塔尼亞胡：伊朗已不具備鈾濃縮能力　空襲外地面行動亦必不可少",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260320/1111507317427277824529814.jpeg/JqWFp-NemWvkDSQMFEDf1PhpN1u2pNQkM9dOJzPXTic?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60332338/%E5%85%A7%E5%A1%94%E5%B0%BC%E4%BA%9E%E8%83%A1-%E4%BC%8A%E6%9C%97%E5%B7%B2%E4%B8%8D%E5%85%B7%E5%82%99%E9%88%BE%E6%BF%83%E7%B8%AE%E8%83%BD%E5%8A%9B-%E7%A9%BA%E8%A5%B2%E5%A4%96%E5%9C%B0%E9%9D%A2%E8%A1%8C%E5%8B%95%E4%BA%A6%E5%BF%85%E4%B8%8D%E5%8F%AF%E5%B0%91",
+    "timestamp": "2026-03-19T20:02:56.173Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "荃灣老圍三級火｜起火原因暫無可疑　完成調查後現場將陸續解封",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20251223/1080153366614511616863154.jpeg/25-TlYYCdBRRfUBHkK86SkrJiwe1xNw-mx3g0Jsd4NA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60331975/%E5%B0%8F%E7%B1%B3%E9%80%86%E5%B8%82%E9%A3%86%E8%BF%914-%E7%99%BC%E5%B8%83%E5%A4%A7%E6%A8%A1%E5%9E%8Bmimo-v2-pro-%E5%85%A8%E7%90%83%E7%B6%9C%E5%90%88%E6%99%BA%E8%83%BD%E6%8E%92%E5%90%8D%E7%AC%AC%E5%85%AB",
     "timestamp": "2026-03-19T02:24:51.969Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "中國1月增持美債109億美元　持倉規模回升至6944億美元",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/3163408/org/6183ca604f36a9d2c3a237f617647b8f.jpg/3nTA3AjIPEuOIG4VTDRohGE_ShdL4f8YHW0h-h1tIfo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60331946/%E4%B8%AD%E5%9C%8B1%E6%9C%88%E5%A2%9E%E6%8C%81%E7%BE%8E%E5%82%B5109%E5%84%84%E7%BE%8E%E5%85%83-%E6%8C%81%E5%80%89%E8%A6%8F%E6%A8%A1%E5%9B%9E%E5%8D%87%E8%87%B36944%E5%84%84%E7%BE%8E%E5%85%83",
-    "timestamp": "2026-03-19T01:20:49.978Z",
     "strategy": ".content-card__main"
   }
 ];
