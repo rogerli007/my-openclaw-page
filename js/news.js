@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-20T19:24:00.865Z
+// Last updated: 2026-03-20T19:49:45.127Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "國際能源署：伊朗戰爭釀史上最嚴重能源衝擊　供應至少6個月恢復",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260321/1111865000001015808240193.jpeg/iiCZ9r2XuOTBMCV4GSB8GBVvyEeVbqdSb2YxPG9mMTw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60332715/%E5%9C%8B%E9%9A%9B%E8%83%BD%E6%BA%90%E7%BD%B2-%E4%BC%8A%E6%9C%97%E6%88%B0%E7%88%AD%E9%87%80%E5%8F%B2%E4%B8%8A%E6%9C%80%E5%9A%B4%E9%87%8D%E8%83%BD%E6%BA%90%E8%A1%9D%E6%93%8A-%E4%BE%9B%E6%87%89%E8%87%B3%E5%B0%916%E5%80%8B%E6%9C%88%E6%81%A2%E5%BE%A9",
+    "timestamp": "2026-03-20T19:49:45.127Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "古巴外交副部長：該國政治體制與總統任期均不在與美國談判範圍內",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260220/1101640689415884800403218.jpeg/C1k_b9qeq11PqUgU_iPi5MwSrVzU558feUM7H1NDOx8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60332309/%E7%87%9F%E5%9C%B0%E9%A0%90%E7%B4%84%E5%8F%8A%E6%94%B6%E8%B2%BB-%E6%BC%81%E8%AD%B7%E7%BD%B2%E8%80%83%E6%85%AE%E8%A5%BF%E8%B2%A2%E6%9D%B1%E4%BD%9C%E8%A9%A6%E9%BB%9E-%E7%A0%94%E6%87%B2%E7%BD%B0%E9%A0%90%E7%B4%84%E5%BE%8C%E4%B8%8D%E5%88%B0%E5%A0%B4%E8%80%85",
     "timestamp": "2026-03-19T23:17:05.420Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "Mandy Lieu前有米緋聞男友激罕露面　驚變發福大叔曾捲鹹豬手風波",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260319/1111317561787551744716328.jpeg/ssmFOksGLQwW-Dj7f9AYWaqqvCnnwJn5m33485t9-PM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60331929/%E6%9E%97%E5%A8%81%E8%BE%B0%E6%BF%80%E7%BD%95%E9%9C%B2%E9%9D%A2-%E9%A9%9A%E8%AE%8A%E7%99%BC%E7%A6%8F%E5%A4%A7%E5%8F%94%E6%9B%BE%E6%8D%B2%E9%B9%B9%E8%B1%AC%E6%89%8B%E9%A2%A8%E6%B3%A2",
-    "timestamp": "2026-03-19T22:51:15.238Z",
     "strategy": ".content-card__main"
   }
 ];
