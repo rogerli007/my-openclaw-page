@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-20T22:31:53.308Z
+// Last updated: 2026-03-20T23:16:09.851Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "患癌者兼照顧者壓力瀕爆　網上嘆一家四口多苦難　喜獲同路人支持",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260318/1110978816643174400485397.jpeg/25td-u0eas_ldobL0kjjuzvcgE3kyH6UR_MfM0fzHzM",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60320672/%E6%82%A3%E7%99%8C%E8%80%85%E5%85%BC%E7%85%A7%E9%A1%A7%E8%80%85%E5%A3%93%E5%8A%9B%E7%80%95%E7%88%86-%E7%B6%B2%E4%B8%8A%E5%98%86%E4%B8%80%E5%AE%B6%E5%9B%9B%E5%8F%A3%E5%A4%9A%E8%8B%A6%E9%9B%A3-%E5%96%9C%E7%8D%B2%E5%90%8C%E8%B7%AF%E4%BA%BA%E6%94%AF%E6%8C%81",
+    "timestamp": "2026-03-20T23:16:09.851Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "特朗普稱美國近實現伊朗戰爭5大目標　考慮逐步減少中東軍事行動",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260319/1111388553650114560016532.png/QKWZIlTt_1fjKrca4jivRpdp9J_wgQVcPJneODyZ3jg",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60332071/62%E6%AD%B2%E6%B8%AF%E4%BC%AF%E5%BB%A3%E5%B7%9E-%E5%8D%8A%E8%97%8F%E5%A3%BD%E5%8F%B8-%E9%A8%B7%E6%93%BE%E5%A5%B3%E9%A3%9F%E5%AE%A2-%E4%BC%B8%E9%B9%B9%E8%B1%AC%E6%89%8B%E8%AC%9B%E6%80%A7%E6%9A%97%E7%A4%BA%E4%B8%8B%E5%A0%B4%E6%9B%9D%E5%85%89",
     "timestamp": "2026-03-20T04:07:54.976Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "伊朗戰爭新階段：從斬首高層到爭奪海灣　四條戰線主導中東變天？",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250624/1014147935971053568014657.jpeg/DND8uywb89ECI585MOTn7DtwwEMHJSboF6Rujhekbo4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%9C%8B%E9%9A%9B%E5%88%86%E6%9E%90/60332360/%E4%BC%8A%E6%9C%97%E6%88%B0%E7%88%AD%E6%96%B0%E9%9A%8E%E6%AE%B5-%E5%BE%9E%E6%96%AC%E9%A6%96%E9%AB%98%E5%B1%A4%E5%88%B0%E7%88%AD%E5%A5%AA%E6%B5%B7%E7%81%A3-%E5%9B%9B%E6%A2%9D%E6%88%B0%E7%B7%9A%E4%B8%BB%E5%B0%8E%E4%B8%AD%E6%9D%B1%E8%AE%8A%E5%A4%A9",
-    "timestamp": "2026-03-20T03:17:56.498Z",
     "strategy": ".content-card__main"
   }
 ];
