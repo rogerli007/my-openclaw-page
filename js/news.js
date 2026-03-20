@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-20T08:25:43.403Z
+// Last updated: 2026-03-20T09:24:24.826Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "港2月通脹升1.7%　統計處︰地緣政治致燃料進口價呈上升壓力",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260226/1103495768134127616873605.jpeg/EkPX0lQKzNxi0sbwYKFrf6NP1Bt7FXzUioVK-JCFSvg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60332614/%E6%B8%AF2%E6%9C%88%E9%80%9A%E8%84%B9%E5%8D%871-7-%E7%B5%B1%E8%A8%88%E8%99%95-%E5%9C%B0%E7%B7%A3%E6%94%BF%E6%B2%BB%E8%87%B4%E7%87%83%E6%96%99%E9%80%B2%E5%8F%A3%E5%83%B9%E5%91%88%E4%B8%8A%E5%8D%87%E5%A3%93%E5%8A%9B",
+    "timestamp": "2026-03-20T09:24:24.826Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "有片｜觀塘明渠「翠屏河」變「泡沫河」　網民熱議：平時有魚有雀",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260320/1111466487622668288371802.jpeg/12dkj-TVUwUfBnFz7vMx0ZzYVFzVnP7TIPKRLSDykS0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60332326/%E6%B9%AF%E6%96%87%E9%BE%8D%E5%87%BA%E5%B8%AD%E5%9F%8E%E5%A4%A7%E6%B3%95%E5%BE%8B%E6%B3%95%E5%BE%8B%E5%AD%B8%E7%A7%91%E8%81%AF%E6%9C%83%E5%B9%B9%E4%BA%8B%E6%9C%83%E5%B0%B1%E8%81%B7%E7%A6%AE-%E5%8B%89%E5%8B%B5%E5%AD%B8%E7%94%9F%E5%9F%B9%E9%A4%8A%E8%AA%A0%E4%BF%A1",
     "timestamp": "2026-03-19T17:13:03.725Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "女子婚姻不順！尋算命大師買「玉小孩」求改運　遭騙財兼與夫吵架",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260319/1111363469841534976923416.png/2iepizcjlRkiCzxkZki6GGaM2LtDbZEi1XEkddVxJHU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60330928/%E5%A5%B3%E5%AD%90%E5%A9%9A%E5%A7%BB%E4%B8%8D%E9%A0%86-%E5%B0%8B%E7%AE%97%E5%91%BD%E5%A4%A7%E5%B8%AB%E8%B2%B7-%E7%8E%89%E5%B0%8F%E5%AD%A9-%E6%B1%82%E6%94%B9%E9%81%8B-%E9%81%AD%E9%A8%99%E8%B2%A1%E5%85%BC%E8%88%87%E5%A4%AB%E5%90%B5%E6%9E%B6",
-    "timestamp": "2026-03-19T15:09:56.496Z",
     "strategy": ".content-card__main"
   }
 ];
