@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-20T17:51:26.911Z
+// Last updated: 2026-03-20T19:24:00.865Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "古巴外交副部長：該國政治體制與總統任期均不在與美國談判範圍內",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260321/1111834603993174016398025.jpeg/zjxGwg1uv4KEMKIXw6gKIGAnW7k6PeT4tWkb8rVpG_I?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60332711/%E5%8F%A4%E5%B7%B4%E5%A4%96%E4%BA%A4%E5%89%AF%E9%83%A8%E9%95%B7-%E8%A9%B2%E5%9C%8B%E6%94%BF%E6%B2%BB%E9%AB%94%E5%88%B6%E8%88%87%E7%B8%BD%E7%B5%B1%E4%BB%BB%E6%9C%9F%E5%9D%87%E4%B8%8D%E5%9C%A8%E8%88%87%E7%BE%8E%E5%9C%8B%E8%AB%87%E5%88%A4%E7%AF%84%E5%9C%8D%E5%85%A7",
+    "timestamp": "2026-03-20T19:24:00.865Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "粉嶺公路P牌七人車疑撞水馬翻側　司機棄車離場",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260319/1111317561787551744716328.jpeg/ssmFOksGLQwW-Dj7f9AYWaqqvCnnwJn5m33485t9-PM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60331929/%E6%9E%97%E5%A8%81%E8%BE%B0%E6%BF%80%E7%BD%95%E9%9C%B2%E9%9D%A2-%E9%A9%9A%E8%AE%8A%E7%99%BC%E7%A6%8F%E5%A4%A7%E5%8F%94%E6%9B%BE%E6%8D%B2%E9%B9%B9%E8%B1%AC%E6%89%8B%E9%A2%A8%E6%B3%A2",
     "timestamp": "2026-03-19T22:51:15.238Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "歐霸盃16強｜諾定咸森林憑互射12碼晉級　阿士東維拉淘汰里爾",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260320/1111544234575400960549307.jpeg/9mGLKERPt4jHhlZPMujI7aay8LsyV0w2YwWJ-GMFifg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60332347/%E6%AD%90%E9%9C%B8%E7%9B%8316%E5%BC%B7-%E8%AB%BE%E5%AE%9A%E5%92%B8%E6%A3%AE%E6%9E%97%E6%86%91%E4%BA%92%E5%B0%8412%E7%A2%BC%E6%99%89%E7%B4%9A-%E9%98%BF%E5%A3%AB%E6%9D%B1%E7%B6%AD%E6%8B%89%E6%B7%98%E6%B1%B0%E9%87%8C%E7%88%BE",
-    "timestamp": "2026-03-19T22:31:23.452Z",
     "strategy": ".content-card__main"
   }
 ];
