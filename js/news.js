@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-20T04:07:54.976Z
+// Last updated: 2026-03-20T07:52:25.872Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美財政部考慮解除伊朗海上原油制裁　擬釋出1.4億桶緩解油價",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260320/1111683102075260928412579.jpeg/6TiG8_uZtdJxGD6bAnuH4dSrTpX8P-fAkzX8NZM1_DU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60332533/%E7%BE%8E%E8%B2%A1%E6%94%BF%E9%83%A8%E8%80%83%E6%85%AE%E8%A7%A3%E9%99%A4%E4%BC%8A%E6%9C%97%E6%B5%B7%E4%B8%8A%E5%8E%9F%E6%B2%B9%E5%88%B6%E8%A3%81-%E6%93%AC%E9%87%8B%E5%87%BA1-4%E5%84%84%E6%A1%B6%E7%B7%A9%E8%A7%A3%E6%B2%B9%E5%83%B9",
+    "timestamp": "2026-03-20T07:52:25.872Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "62歲港伯廣州「半藏壽司」騷擾女食客　伸鹹豬手講性暗示下場曝光",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260319/1111419932966391808542316.jpeg/OM6V0geWcPWILFhgAo8DZIuLpQJfUJzAm8HMbJvBzGw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60332300/%E6%96%87%E7%89%A9%E6%8E%A2%E7%9F%A5%E9%A4%A8%E6%98%8E%E8%B5%B7%E8%BE%A6%E6%BC%A2%E6%9C%9D%E6%96%87%E7%89%A9%E5%B1%95%E8%A6%BD%E5%85%8D%E8%B2%BB%E5%85%A5%E5%A0%B4-%E5%B1%95%E5%87%BA252%E4%BB%B6%E6%BC%A2%E4%BB%A3%E6%96%87%E7%89%A9",
     "timestamp": "2026-03-19T14:44:33.173Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "六合彩3.21頭獎$1300萬｜6個最旺號碼+2招增中獎機會+幸運投注站",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260228/1104535693322883072415983.jpeg/1NgvBJeLfN8BfkpelLOdIcaZsoAbm1Sigi7rgIIu64A?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60332311/%E5%85%AD%E5%90%88%E5%BD%A93-21%E9%A0%AD%E7%8D%8E-1300%E8%90%AC-6%E5%80%8B%E6%9C%80%E6%97%BA%E8%99%9F%E7%A2%BC-2%E6%8B%9B%E5%A2%9E%E4%B8%AD%E7%8D%8E%E6%A9%9F%E6%9C%83-%E5%B9%B8%E9%81%8B%E6%8A%95%E6%B3%A8%E7%AB%99",
-    "timestamp": "2026-03-19T14:17:46.634Z",
     "strategy": ".content-card__main"
   }
 ];
