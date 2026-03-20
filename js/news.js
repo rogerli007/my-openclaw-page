@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-20T10:52:05.351Z
+// Last updated: 2026-03-20T11:19:31.614Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "宏福苑聽證會｜警方情報指有黑社會經營顧問　與承建商充斥貪污",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260227/1104095779921858560643279.jpeg/lPA-54n6gid_wbsvOGz84Byk60T_df7bakZGLmpGRi4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60332649/%E5%AE%8F%E7%A6%8F%E8%8B%91%E8%81%BD%E8%AD%89%E6%9C%83-%E8%AD%A6%E6%96%B9%E6%83%85%E5%A0%B1%E6%8C%87%E6%9C%89%E9%BB%91%E7%A4%BE%E6%9C%83%E7%B6%93%E7%87%9F%E9%A1%A7%E5%95%8F-%E8%88%87%E6%89%BF%E5%BB%BA%E5%95%86%E5%85%85%E6%96%A5%E8%B2%AA%E6%B1%A1",
+    "timestamp": "2026-03-20T11:19:31.614Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "01企業金勳大獎2025 |《香港01》行政總裁蘇曉婷揭示十周年願景",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260320/1111480163675148288406795.jpeg/b444PhUFwEAqCTfZHy1b18uL2HEDYLCuNzzMVTc8zFU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60332332/%E8%A2%AB%E5%95%8F%E7%82%BA%E4%BD%95%E6%9C%AA%E5%91%8A%E7%9F%A5%E7%9B%9F%E5%8F%8B%E4%BC%8A%E6%9C%97%E8%A8%88%E5%8A%83-%E7%89%B9%E6%9C%97%E6%99%AE-%E6%83%B3%E5%87%BA%E5%85%B6%E4%B8%8D%E6%84%8F%E5%A6%82%E7%8F%8D%E7%8F%A0%E6%B8%AF%E4%BA%8B%E4%BB%B6",
     "timestamp": "2026-03-19T18:38:35.148Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "女足最前線｜女子亞洲盃決賽　澳洲「細」抗日本",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260319/1111372008647561216279810.jpeg/hpJCzxfkWOepmBUZMCuoEK3qN1dFvpg4YLrHe2C6x3s?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60332090/%E5%A5%B3%E8%B6%B3%E6%9C%80%E5%89%8D%E7%B7%9A-%E5%A5%B3%E5%AD%90%E4%BA%9E%E6%B4%B2%E7%9B%83%E6%B1%BA%E8%B3%BD-%E6%BE%B3%E6%B4%B2-%E7%B4%B0-%E6%8A%97%E6%97%A5%E6%9C%AC",
-    "timestamp": "2026-03-19T18:10:46.340Z",
     "strategy": ".content-card__main"
   }
 ];
