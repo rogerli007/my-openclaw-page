@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-20T20:20:14.212Z
+// Last updated: 2026-03-20T20:51:06.941Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "葵涌男街頭持刀　 遭警開槍制服後中彈昏迷送院",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260321/1111886149074292736718059.jpeg/CSKQbWB_TR75X4-4df87xj6lFgRXJoHJUdCCFXvQghU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60332718/%E8%91%B5%E6%B6%8C%E7%94%B7%E8%A1%97%E9%A0%AD%E6%8C%81%E5%88%80-%E9%81%AD%E8%AD%A6%E9%96%8B%E6%A7%8D%E5%88%B6%E6%9C%8D%E5%BE%8C%E4%B8%AD%E5%BD%88%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2",
+    "timestamp": "2026-03-20T20:51:06.941Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "葵涌男街頭持刀　警到場調查　男子中槍昏迷送院",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260319/1111377905239199744298716.jpeg/G4Sz7uGXAYRkCOc5g5isa3WN4md7gmF-VqDG0VagxtE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60332181/%E5%85%A8%E7%90%83wi-fi%E7%88%86%E7%99%BC%E8%87%B4%E5%91%BD%E5%AE%89%E5%85%A8%E6%BC%8F%E6%B4%9E-%E6%89%80%E6%9C%89router%E4%B8%AD%E4%BC%8F-%E5%85%A9%E6%8B%9B%E5%BF%85%E5%AD%B8%E8%87%AA%E4%BF%9D%E6%B3%95",
     "timestamp": "2026-03-19T23:50:17.870Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "營地預約及收費｜漁護署考慮西貢東作試點　研懲罰預約後不到場者",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260220/1101640689415884800403218.jpeg/C1k_b9qeq11PqUgU_iPi5MwSrVzU558feUM7H1NDOx8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60332309/%E7%87%9F%E5%9C%B0%E9%A0%90%E7%B4%84%E5%8F%8A%E6%94%B6%E8%B2%BB-%E6%BC%81%E8%AD%B7%E7%BD%B2%E8%80%83%E6%85%AE%E8%A5%BF%E8%B2%A2%E6%9D%B1%E4%BD%9C%E8%A9%A6%E9%BB%9E-%E7%A0%94%E6%87%B2%E7%BD%B0%E9%A0%90%E7%B4%84%E5%BE%8C%E4%B8%8D%E5%88%B0%E5%A0%B4%E8%80%85",
-    "timestamp": "2026-03-19T23:33:45.723Z",
     "strategy": ".content-card__main"
   }
 ];
