@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-20T14:10:37.059Z
+// Last updated: 2026-03-20T15:08:29.411Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美國Rapper拍MV諷警察暴力搜查住宅反遭起訴　法院判決出爐",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260320/1111789607994789888964237.jpeg/sfPUnrZvxGDWpb0qxAQrQ71XiDWqsAiOPIwQ6TyMEOk",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60332685/%E7%BE%8E%E5%9C%8Brapper%E6%8B%8Dmv%E8%AB%B7%E8%AD%A6%E5%AF%9F%E6%9A%B4%E5%8A%9B%E6%90%9C%E6%9F%A5%E4%BD%8F%E5%AE%85%E5%8F%8D%E9%81%AD%E8%B5%B7%E8%A8%B4-%E6%B3%95%E9%99%A2%E5%88%A4%E6%B1%BA%E5%87%BA%E7%88%90",
+    "timestamp": "2026-03-20T15:08:29.411Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "黃大仙八隻野豬被「抄家」　管浩鳴批官僚：好難睇、絕對無必要",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260303/1105345251800911872270635.jpeg/kgN7mGSLtfDDTosvU-NJB8FR_4F6LnX2sEh3i7BId4s?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60332341/%E8%B7%AF%E9%80%8F%E7%A4%BE%E6%B0%91%E8%AA%BF-65-%E7%BE%8E%E5%9C%8B%E4%BA%BA%E6%96%99%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%87%E5%B0%8D%E4%BC%8A%E5%A4%A7%E8%A6%8F%E6%A8%A1%E5%9C%B0%E9%9D%A2%E6%88%B0-%E4%BD%86%E5%83%857-%E6%94%AF%E6%8C%81",
     "timestamp": "2026-03-19T20:23:03.926Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "內塔尼亞胡：伊朗已不具備鈾濃縮能力　空襲外地面行動亦必不可少",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260320/1111507317427277824529814.jpeg/JqWFp-NemWvkDSQMFEDf1PhpN1u2pNQkM9dOJzPXTic?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60332338/%E5%85%A7%E5%A1%94%E5%B0%BC%E4%BA%9E%E8%83%A1-%E4%BC%8A%E6%9C%97%E5%B7%B2%E4%B8%8D%E5%85%B7%E5%82%99%E9%88%BE%E6%BF%83%E7%B8%AE%E8%83%BD%E5%8A%9B-%E7%A9%BA%E8%A5%B2%E5%A4%96%E5%9C%B0%E9%9D%A2%E8%A1%8C%E5%8B%95%E4%BA%A6%E5%BF%85%E4%B8%8D%E5%8F%AF%E5%B0%91",
-    "timestamp": "2026-03-19T20:02:56.173Z",
     "strategy": ".content-card__main"
   }
 ];
