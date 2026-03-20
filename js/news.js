@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-20T19:49:45.127Z
+// Last updated: 2026-03-20T20:20:14.212Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "葵涌男街頭持刀　警到場調查　男子中槍昏迷送院",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260114/1088111359297589248019864.jpeg/4VjTtwniWDaXz4rQHZCpEeBfHLJK2hWOHP_x9Rz_8fU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60332718/%E8%91%B5%E6%B6%8C%E7%94%B7%E8%A1%97%E9%A0%AD%E6%8C%81%E5%88%80-%E8%AD%A6%E5%88%B0%E5%A0%B4%E8%AA%BF%E6%9F%A5-%E7%94%B7%E5%AD%90%E4%B8%AD%E6%A7%8D%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2",
+    "timestamp": "2026-03-20T20:20:14.212Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "國際能源署：伊朗戰爭釀史上最嚴重能源衝擊　供應至少6個月恢復",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260220/1101640689415884800403218.jpeg/C1k_b9qeq11PqUgU_iPi5MwSrVzU558feUM7H1NDOx8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60332309/%E7%87%9F%E5%9C%B0%E9%A0%90%E7%B4%84%E5%8F%8A%E6%94%B6%E8%B2%BB-%E6%BC%81%E8%AD%B7%E7%BD%B2%E8%80%83%E6%85%AE%E8%A5%BF%E8%B2%A2%E6%9D%B1%E4%BD%9C%E8%A9%A6%E9%BB%9E-%E7%A0%94%E6%87%B2%E7%BD%B0%E9%A0%90%E7%B4%84%E5%BE%8C%E4%B8%8D%E5%88%B0%E5%A0%B4%E8%80%85",
     "timestamp": "2026-03-19T23:33:45.723Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "營地預約及收費｜漁護署考慮西貢東作試點　研懲罰預約後不到場者",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260220/1101640689415884800403218.jpeg/C1k_b9qeq11PqUgU_iPi5MwSrVzU558feUM7H1NDOx8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60332309/%E7%87%9F%E5%9C%B0%E9%A0%90%E7%B4%84%E5%8F%8A%E6%94%B6%E8%B2%BB-%E6%BC%81%E8%AD%B7%E7%BD%B2%E8%80%83%E6%85%AE%E8%A5%BF%E8%B2%A2%E6%9D%B1%E4%BD%9C%E8%A9%A6%E9%BB%9E-%E7%A0%94%E6%87%B2%E7%BD%B0%E9%A0%90%E7%B4%84%E5%BE%8C%E4%B8%8D%E5%88%B0%E5%A0%B4%E8%80%85",
-    "timestamp": "2026-03-19T23:17:05.420Z",
     "strategy": ".content-card__main"
   }
 ];
