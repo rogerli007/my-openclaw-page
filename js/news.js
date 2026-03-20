@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-20T07:52:25.872Z
+// Last updated: 2026-03-20T08:25:43.403Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "有片｜觀塘明渠「翠屏河」變「泡沫河」　網民熱議：平時有魚有雀",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260320/1111693946670551040308651.jpeg/sx56Qo4P73jG5UqHE-3azLt3AMsRFIlMvlWaZL5VmmQ?v=w1920",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60332545/%E6%9C%89%E7%89%87-%E8%A7%80%E5%A1%98%E6%98%8E%E6%B8%A0-%E7%BF%A0%E5%B1%8F%E6%B2%B3-%E8%AE%8A-%E6%B3%A1%E6%B2%AB%E6%B2%B3-%E7%B6%B2%E6%B0%91%E7%86%B1%E8%AD%B0-%E5%B9%B3%E6%99%82%E6%9C%89%E9%AD%9A%E6%9C%89%E9%9B%80",
+    "timestamp": "2026-03-20T08:25:43.403Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美財政部考慮解除伊朗海上原油制裁　擬釋出1.4億桶緩解油價",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260319/1111363469841534976923416.png/2iepizcjlRkiCzxkZki6GGaM2LtDbZEi1XEkddVxJHU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60330928/%E5%A5%B3%E5%AD%90%E5%A9%9A%E5%A7%BB%E4%B8%8D%E9%A0%86-%E5%B0%8B%E7%AE%97%E5%91%BD%E5%A4%A7%E5%B8%AB%E8%B2%B7-%E7%8E%89%E5%B0%8F%E5%AD%A9-%E6%B1%82%E6%94%B9%E9%81%8B-%E9%81%AD%E9%A8%99%E8%B2%A1%E5%85%BC%E8%88%87%E5%A4%AB%E5%90%B5%E6%9E%B6",
     "timestamp": "2026-03-19T15:09:56.496Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "文物探知館明起辦漢朝文物展覽免費入場　展出252件漢代文物",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260319/1111419932966391808542316.jpeg/OM6V0geWcPWILFhgAo8DZIuLpQJfUJzAm8HMbJvBzGw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60332300/%E6%96%87%E7%89%A9%E6%8E%A2%E7%9F%A5%E9%A4%A8%E6%98%8E%E8%B5%B7%E8%BE%A6%E6%BC%A2%E6%9C%9D%E6%96%87%E7%89%A9%E5%B1%95%E8%A6%BD%E5%85%8D%E8%B2%BB%E5%85%A5%E5%A0%B4-%E5%B1%95%E5%87%BA252%E4%BB%B6%E6%BC%A2%E4%BB%A3%E6%96%87%E7%89%A9",
-    "timestamp": "2026-03-19T14:44:33.173Z",
     "strategy": ".content-card__main"
   }
 ];
