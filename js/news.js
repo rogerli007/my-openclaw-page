@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-20T20:51:06.941Z
+// Last updated: 2026-03-20T21:34:01.432Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "特朗普：願與伊朗對話但不想停火　若美國停止戰爭以色列便會追隨",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260321/1111880921310564352957108.jpeg/W83XzbX3EeOcN5SYx4nSwLBtsYfafBLNyg8m-8oPJvs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60332719/%E7%89%B9%E6%9C%97%E6%99%AE-%E9%A1%98%E8%88%87%E4%BC%8A%E6%9C%97%E5%B0%8D%E8%A9%B1%E4%BD%86%E4%B8%8D%E6%83%B3%E5%81%9C%E7%81%AB-%E8%8B%A5%E7%BE%8E%E5%9C%8B%E5%81%9C%E6%AD%A2%E6%88%B0%E7%88%AD%E4%BB%A5%E8%89%B2%E5%88%97%E4%BE%BF%E6%9C%83%E8%BF%BD%E9%9A%A8",
+    "timestamp": "2026-03-20T21:34:01.432Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "葵涌男街頭持刀　 遭警開槍制服後中彈昏迷送院",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260319/1111410083843018752139865.jpeg/WQ5Z3LuvYAYHOaB1N25_90zJJ7tZzmJzCKEmkgihJpI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60332294/%E5%BC%B5%E5%AF%B6%E5%85%92%E7%88%86%E7%B2%89%E7%B5%B2%E7%A7%81%E8%A8%8A%E7%88%AD%E5%81%9A-%E8%A2%81%E5%A4%AA-%E6%B4%AA%E6%B0%B8%E8%87%AA%E8%AA%8D-%E9%BB%91%E9%9D%A2%E7%A5%9E-%E8%AD%B7%E6%84%9B%E5%A5%B3%E7%A6%81%E9%A3%9F%E7%B3%96",
     "timestamp": "2026-03-20T00:45:13.064Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "全球Wi-Fi爆發致命安全漏洞　所有Router中伏　兩招必學自保法",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260319/1111377905239199744298716.jpeg/G4Sz7uGXAYRkCOc5g5isa3WN4md7gmF-VqDG0VagxtE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60332181/%E5%85%A8%E7%90%83wi-fi%E7%88%86%E7%99%BC%E8%87%B4%E5%91%BD%E5%AE%89%E5%85%A8%E6%BC%8F%E6%B4%9E-%E6%89%80%E6%9C%89router%E4%B8%AD%E4%BC%8F-%E5%85%A9%E6%8B%9B%E5%BF%85%E5%AD%B8%E8%87%AA%E4%BF%9D%E6%B3%95",
-    "timestamp": "2026-03-19T23:50:17.870Z",
     "strategy": ".content-card__main"
   }
 ];
