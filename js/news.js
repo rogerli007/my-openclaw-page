@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-20T01:18:33.221Z
+// Last updated: 2026-03-20T03:17:56.498Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "伊朗戰爭新階段：從斬首高層到爭奪海灣　四條戰線主導中東變天？",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250624/1014147935971053568014657.jpeg/DND8uywb89ECI585MOTn7DtwwEMHJSboF6Rujhekbo4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%9C%8B%E9%9A%9B%E5%88%86%E6%9E%90/60332360/%E4%BC%8A%E6%9C%97%E6%88%B0%E7%88%AD%E6%96%B0%E9%9A%8E%E6%AE%B5-%E5%BE%9E%E6%96%AC%E9%A6%96%E9%AB%98%E5%B1%A4%E5%88%B0%E7%88%AD%E5%A5%AA%E6%B5%B7%E7%81%A3-%E5%9B%9B%E6%A2%9D%E6%88%B0%E7%B7%9A%E4%B8%BB%E5%B0%8E%E4%B8%AD%E6%9D%B1%E8%AE%8A%E5%A4%A9",
+    "timestamp": "2026-03-20T03:17:56.498Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "星男童帶玩具槍被機場保安攔下　全家無法登機多花$18,000買機票",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20231213/811577229317246976598401.jpeg/wIhip1u7pQV8AYbFwW_CuUFq9EisWu__LWgYgy1oGIM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60332226/2026%E4%B8%96%E7%95%8C%E5%B9%B8%E7%A6%8F%E5%9C%8B%E5%AE%B6%E6%8E%92%E8%A1%8C%E5%87%BA%E7%88%90-%E8%8A%AC%E8%98%AD%E9%80%A3%E7%BA%8C9%E5%B9%B4%E5%A5%AA%E5%86%A0-%E9%A6%99%E6%B8%AF%E7%AC%AC90",
     "timestamp": "2026-03-19T12:56:40.170Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "BLACKPINK神曲製作人痛訴遭YG逼墮胎　曾試求助四成員但裝死不理",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260319/1111338884362407936820147.png/E-q90pD-Obgoyjdt50UPkcut2bApOg75gfRymIH0cpg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E5%A8%9B%E6%A8%82/60332132/bekuh-boom%E7%97%9B%E8%A8%B4%E9%81%ADyg%E9%80%BC%E5%A2%AE%E8%83%8E-%E6%9B%BE%E8%A9%A6%E6%B1%82%E5%8A%A9blackpink%E5%9B%9B%E6%88%90%E5%93%A1%E4%BD%86%E8%A3%9D%E6%AD%BB%E4%B8%8D%E7%90%86",
-    "timestamp": "2026-03-19T12:25:16.382Z",
     "strategy": ".content-card__main"
   }
 ];
