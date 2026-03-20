@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-20T00:45:13.064Z
+// Last updated: 2026-03-20T01:18:33.221Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "星男童帶玩具槍被機場保安攔下　全家無法登機多花$18,000買機票",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260319/1111340338875731968315782.jpeg/q1FX-diwzIOwF00zvtEWk6H5Km201DDxLeVRuS3lUbk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60331803/%E6%98%9F%E7%94%B7%E7%AB%A5%E5%B8%B6%E7%8E%A9%E5%85%B7%E6%A7%8D%E8%A2%AB%E6%A9%9F%E5%A0%B4%E4%BF%9D%E5%AE%89%E6%94%94%E4%B8%8B-%E5%85%A8%E5%AE%B6%E7%84%A1%E6%B3%95%E7%99%BB%E6%A9%9F%E5%A4%9A%E8%8A%B1-18-000%E8%B2%B7%E6%A9%9F%E7%A5%A8",
+    "timestamp": "2026-03-20T01:18:33.221Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "張寶兒爆粉絲私訊爭做「袁太」 洪永自認「黑面神」護愛女禁食糖",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260319/1111338884362407936820147.png/E-q90pD-Obgoyjdt50UPkcut2bApOg75gfRymIH0cpg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E5%A8%9B%E6%A8%82/60332132/bekuh-boom%E7%97%9B%E8%A8%B4%E9%81%ADyg%E9%80%BC%E5%A2%AE%E8%83%8E-%E6%9B%BE%E8%A9%A6%E6%B1%82%E5%8A%A9blackpink%E5%9B%9B%E6%88%90%E5%93%A1%E4%BD%86%E8%A3%9D%E6%AD%BB%E4%B8%8D%E7%90%86",
     "timestamp": "2026-03-19T12:25:16.382Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "內地首批AI演員官宣出道遭網友抵制　被指「融臉」趙今麥、張子楓",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260319/1111331216981757952713206.jpeg/EwrLJPdxaSoB0TEgL4kP0XNYowLLvoptmx2xo5sdsaM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60332144/%E5%85%A7%E5%9C%B0%E9%A6%96%E6%89%B9ai%E6%BC%94%E5%93%A1%E5%AE%98%E5%AE%A3%E5%87%BA%E9%81%93%E9%81%AD%E7%B6%B2%E5%8F%8B%E6%8A%B5%E5%88%B6-%E8%A2%AB%E6%8C%87-%E8%9E%8D%E8%87%89-%E8%B6%99%E4%BB%8A%E9%BA%A5-%E5%BC%B5%E5%AD%90%E6%A5%93",
-    "timestamp": "2026-03-19T10:24:22.176Z",
     "strategy": ".content-card__main"
   }
 ];
