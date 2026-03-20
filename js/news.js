@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-20T12:23:49.606Z
+// Last updated: 2026-03-20T13:36:46.256Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "醫啲阿媽都唔知丨發高燒會燒壞腦？黃嘉雯自爆勁期待發燒",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260320/1111603239159074816643508.jpeg/3vcxKAGXmfg7msIiYqnk3bhrmD-JRbf4Ms1AwTLNQME?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60332367/%E9%86%AB%E5%95%B2%E9%98%BF%E5%AA%BD%E9%83%BD%E5%94%94%E7%9F%A5-%E7%99%BC%E9%AB%98%E7%87%92%E6%9C%83%E7%87%92%E5%A3%9E%E8%85%A6-%E9%BB%83%E5%98%89%E9%9B%AF%E8%87%AA%E7%88%86%E5%8B%81%E6%9C%9F%E5%BE%85%E7%99%BC%E7%87%92",
+    "timestamp": "2026-03-20T13:36:46.256Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "超加工飲食毀腎臟！醫生列10大傷腎食品　即食麵、薯片、奶茶上榜",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260320/1111495199500013568507198.jpeg/TZyL1EfmRSfpoS2fFnAlEeLSeKZgCXkwDxGdWzURnVs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60332335/%E8%8D%83%E7%81%A3%E8%80%81%E5%9C%8D%E4%B8%89%E7%B4%9A%E7%81%AB-%E8%B5%B7%E7%81%AB%E5%8E%9F%E5%9B%A0%E6%9A%AB%E7%84%A1%E5%8F%AF%E7%96%91-%E5%AE%8C%E6%88%90%E8%AA%BF%E6%9F%A5%E5%BE%8C%E7%8F%BE%E5%A0%B4%E5%B0%87%E9%99%B8%E7%BA%8C%E8%A7%A3%E5%B0%81",
     "timestamp": "2026-03-19T19:39:11.177Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "荃灣老圍三級火｜起火原因暫無可疑　完成調查後現場將陸續解封",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260320/1111495199500013568507198.jpeg/TZyL1EfmRSfpoS2fFnAlEeLSeKZgCXkwDxGdWzURnVs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60332335/%E8%8D%83%E7%81%A3%E8%80%81%E5%9C%8D%E4%B8%89%E7%B4%9A%E7%81%AB-%E8%B5%B7%E7%81%AB%E5%8E%9F%E5%9B%A0%E6%9A%AB%E7%84%A1%E5%8F%AF%E7%96%91-%E5%AE%8C%E6%88%90%E8%AA%BF%E6%9F%A5%E5%BE%8C%E7%8F%BE%E5%A0%B4%E5%B0%87%E9%99%B8%E7%BA%8C%E8%A7%A3%E5%B0%81",
-    "timestamp": "2026-03-19T19:16:13.446Z",
     "strategy": ".content-card__main"
   }
 ];
