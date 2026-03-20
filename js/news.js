@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-20T11:19:31.614Z
+// Last updated: 2026-03-20T12:23:49.606Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "超加工飲食毀腎臟！醫生列10大傷腎食品　即食麵、薯片、奶茶上榜",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260320/1111703969928843264482017.png/LKjvhQ95IPPuRG_LzMCgBCNXTEU6Th1BAeolKwHqJSs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60332142/%E8%B6%85%E5%8A%A0%E5%B7%A5%E9%A3%B2%E9%A3%9F%E6%AF%80%E8%85%8E%E8%87%9F-%E9%86%AB%E7%94%9F%E5%88%9710%E5%A4%A7%E5%82%B7%E8%85%8E%E9%A3%9F%E5%93%81-%E5%8D%B3%E9%A3%9F%E9%BA%B5-%E8%96%AF%E7%89%87-%E5%A5%B6%E8%8C%B6%E4%B8%8A%E6%A6%9C",
+    "timestamp": "2026-03-20T12:23:49.606Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "宏福苑聽證會｜警方情報指有黑社會經營顧問　與承建商充斥貪污",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260320/1111495199500013568507198.jpeg/TZyL1EfmRSfpoS2fFnAlEeLSeKZgCXkwDxGdWzURnVs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60332335/%E8%8D%83%E7%81%A3%E8%80%81%E5%9C%8D%E4%B8%89%E7%B4%9A%E7%81%AB-%E8%B5%B7%E7%81%AB%E5%8E%9F%E5%9B%A0%E6%9A%AB%E7%84%A1%E5%8F%AF%E7%96%91-%E5%AE%8C%E6%88%90%E8%AA%BF%E6%9F%A5%E5%BE%8C%E7%8F%BE%E5%A0%B4%E5%B0%87%E9%99%B8%E7%BA%8C%E8%A7%A3%E5%B0%81",
     "timestamp": "2026-03-19T19:16:13.446Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "被問為何未告知盟友伊朗計劃　特朗普：想出其不意如珍珠港事件",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260320/1111480163675148288406795.jpeg/b444PhUFwEAqCTfZHy1b18uL2HEDYLCuNzzMVTc8zFU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60332332/%E8%A2%AB%E5%95%8F%E7%82%BA%E4%BD%95%E6%9C%AA%E5%91%8A%E7%9F%A5%E7%9B%9F%E5%8F%8B%E4%BC%8A%E6%9C%97%E8%A8%88%E5%8A%83-%E7%89%B9%E6%9C%97%E6%99%AE-%E6%83%B3%E5%87%BA%E5%85%B6%E4%B8%8D%E6%84%8F%E5%A6%82%E7%8F%8D%E7%8F%A0%E6%B8%AF%E4%BA%8B%E4%BB%B6",
-    "timestamp": "2026-03-19T18:38:35.148Z",
     "strategy": ".content-card__main"
   }
 ];
