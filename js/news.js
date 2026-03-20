@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-20T15:08:29.411Z
+// Last updated: 2026-03-20T16:57:20.883Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "上水華山女子墮河　丈夫跳河救人　兩人昏迷送院",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260318/1110941835783704576841703.jpeg/s07-Yl9OJXirDbj7TzTOlb5CSVozhLLpxRIYQcUSGEE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60332709/%E4%B8%8A%E6%B0%B4%E8%8F%AF%E5%B1%B1%E5%A5%B3%E5%AD%90%E5%A2%AE%E6%B2%B3-%E4%B8%88%E5%A4%AB%E8%B7%B3%E6%B2%B3%E6%95%91%E4%BA%BA-%E5%85%A9%E4%BA%BA%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2",
+    "timestamp": "2026-03-20T16:57:20.883Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美國Rapper拍MV諷警察暴力搜查住宅反遭起訴　法院判決出爐",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260303/1105345251800911872270635.jpeg/kgN7mGSLtfDDTosvU-NJB8FR_4F6LnX2sEh3i7BId4s?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60332341/%E8%B7%AF%E9%80%8F%E7%A4%BE%E6%B0%91%E8%AA%BF-65-%E7%BE%8E%E5%9C%8B%E4%BA%BA%E6%96%99%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%87%E5%B0%8D%E4%BC%8A%E5%A4%A7%E8%A6%8F%E6%A8%A1%E5%9C%B0%E9%9D%A2%E6%88%B0-%E4%BD%86%E5%83%857-%E6%94%AF%E6%8C%81",
     "timestamp": "2026-03-19T20:53:17.633Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "路透社民調：65%美國人料特朗普將對伊大規模地面戰　但僅7%支持",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260303/1105345251800911872270635.jpeg/kgN7mGSLtfDDTosvU-NJB8FR_4F6LnX2sEh3i7BId4s?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60332341/%E8%B7%AF%E9%80%8F%E7%A4%BE%E6%B0%91%E8%AA%BF-65-%E7%BE%8E%E5%9C%8B%E4%BA%BA%E6%96%99%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%87%E5%B0%8D%E4%BC%8A%E5%A4%A7%E8%A6%8F%E6%A8%A1%E5%9C%B0%E9%9D%A2%E6%88%B0-%E4%BD%86%E5%83%857-%E6%94%AF%E6%8C%81",
-    "timestamp": "2026-03-19T20:23:03.926Z",
     "strategy": ".content-card__main"
   }
 ];
