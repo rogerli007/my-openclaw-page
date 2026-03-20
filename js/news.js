@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-20T21:34:01.432Z
+// Last updated: 2026-03-20T22:15:02.095Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "特朗普稱美國近實現伊朗戰爭5大目標　考慮逐步減少中東軍事行動",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260321/1111903757966249984650371.jpeg/gl_8klMsXlNTb1npMhCixFfdBZfBmuE2J2-i6Cdvoug?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60332720/%E7%89%B9%E6%9C%97%E6%99%AE%E7%A8%B1%E7%BE%8E%E5%9C%8B%E8%BF%91%E5%AF%A6%E7%8F%BE%E4%BC%8A%E6%9C%97%E6%88%B0%E7%88%AD5%E5%A4%A7%E7%9B%AE%E6%A8%99-%E8%80%83%E6%85%AE%E9%80%90%E6%AD%A5%E6%B8%9B%E5%B0%91%E4%B8%AD%E6%9D%B1%E8%BB%8D%E4%BA%8B%E8%A1%8C%E5%8B%95",
+    "timestamp": "2026-03-20T22:15:02.095Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "特朗普：願與伊朗對話但不想停火　若美國停止戰爭以色列便會追隨",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260319/1111340338875731968315782.jpeg/q1FX-diwzIOwF00zvtEWk6H5Km201DDxLeVRuS3lUbk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60331803/%E6%98%9F%E7%94%B7%E7%AB%A5%E5%B8%B6%E7%8E%A9%E5%85%B7%E6%A7%8D%E8%A2%AB%E6%A9%9F%E5%A0%B4%E4%BF%9D%E5%AE%89%E6%94%94%E4%B8%8B-%E5%85%A8%E5%AE%B6%E7%84%A1%E6%B3%95%E7%99%BB%E6%A9%9F%E5%A4%9A%E8%8A%B1-18-000%E8%B2%B7%E6%A9%9F%E7%A5%A8",
     "timestamp": "2026-03-20T01:18:33.221Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "張寶兒爆粉絲私訊爭做「袁太」 洪永自認「黑面神」護愛女禁食糖",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260319/1111410083843018752139865.jpeg/WQ5Z3LuvYAYHOaB1N25_90zJJ7tZzmJzCKEmkgihJpI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60332294/%E5%BC%B5%E5%AF%B6%E5%85%92%E7%88%86%E7%B2%89%E7%B5%B2%E7%A7%81%E8%A8%8A%E7%88%AD%E5%81%9A-%E8%A2%81%E5%A4%AA-%E6%B4%AA%E6%B0%B8%E8%87%AA%E8%AA%8D-%E9%BB%91%E9%9D%A2%E7%A5%9E-%E8%AD%B7%E6%84%9B%E5%A5%B3%E7%A6%81%E9%A3%9F%E7%B3%96",
-    "timestamp": "2026-03-20T00:45:13.064Z",
     "strategy": ".content-card__main"
   }
 ];
