@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-20T13:36:46.256Z
+// Last updated: 2026-03-20T14:10:37.059Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "黃大仙八隻野豬被「抄家」　管浩鳴批官僚：好難睇、絕對無必要",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20240311/843993508833398784413862.jpeg/wKN7g_TPvkiiOc_1VPMNlgob_nrMsjopw4pAi8OKQIs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60332688/%E9%BB%83%E5%A4%A7%E4%BB%99%E5%85%AB%E9%9A%BB%E9%87%8E%E8%B1%AC%E8%A2%AB-%E6%8A%84%E5%AE%B6-%E7%AE%A1%E6%B5%A9%E9%B3%B4%E6%89%B9%E5%AE%98%E5%83%9A-%E5%A5%BD%E9%9B%A3%E7%9D%87-%E7%B5%95%E5%B0%8D%E7%84%A1%E5%BF%85%E8%A6%81",
+    "timestamp": "2026-03-20T14:10:37.059Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "醫啲阿媽都唔知丨發高燒會燒壞腦？黃嘉雯自爆勁期待發燒",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260320/1111507317427277824529814.jpeg/JqWFp-NemWvkDSQMFEDf1PhpN1u2pNQkM9dOJzPXTic?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60332338/%E5%85%A7%E5%A1%94%E5%B0%BC%E4%BA%9E%E8%83%A1-%E4%BC%8A%E6%9C%97%E5%B7%B2%E4%B8%8D%E5%85%B7%E5%82%99%E9%88%BE%E6%BF%83%E7%B8%AE%E8%83%BD%E5%8A%9B-%E7%A9%BA%E8%A5%B2%E5%A4%96%E5%9C%B0%E9%9D%A2%E8%A1%8C%E5%8B%95%E4%BA%A6%E5%BF%85%E4%B8%8D%E5%8F%AF%E5%B0%91",
     "timestamp": "2026-03-19T20:02:56.173Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "荃灣老圍三級火｜起火原因暫無可疑　完成調查後現場將陸續解封",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260320/1111495199500013568507198.jpeg/TZyL1EfmRSfpoS2fFnAlEeLSeKZgCXkwDxGdWzURnVs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60332335/%E8%8D%83%E7%81%A3%E8%80%81%E5%9C%8D%E4%B8%89%E7%B4%9A%E7%81%AB-%E8%B5%B7%E7%81%AB%E5%8E%9F%E5%9B%A0%E6%9A%AB%E7%84%A1%E5%8F%AF%E7%96%91-%E5%AE%8C%E6%88%90%E8%AA%BF%E6%9F%A5%E5%BE%8C%E7%8F%BE%E5%A0%B4%E5%B0%87%E9%99%B8%E7%BA%8C%E8%A7%A3%E5%B0%81",
-    "timestamp": "2026-03-19T19:39:11.177Z",
     "strategy": ".content-card__main"
   }
 ];
