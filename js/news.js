@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-20T09:24:24.826Z
+// Last updated: 2026-03-20T10:52:05.351Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "01企業金勳大獎2025 |《香港01》行政總裁蘇曉婷揭示十周年願景",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260320/1111733575381684224413702.jpeg/CSdCJHK9Fhk87Xj-MOvdYJDypoRTQyChHjv-aB47_mg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60332621/01%E4%BC%81%E6%A5%AD%E9%87%91%E5%8B%B3%E5%A4%A7%E7%8D%8E2025-%E9%A6%99%E6%B8%AF01-%E8%A1%8C%E6%94%BF%E7%B8%BD%E8%A3%81%E8%98%87%E6%9B%89%E5%A9%B7%E6%8F%AD%E7%A4%BA%E5%8D%81%E5%91%A8%E5%B9%B4%E9%A1%98%E6%99%AF",
+    "timestamp": "2026-03-20T10:52:05.351Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "港2月通脹升1.7%　統計處︰地緣政治致燃料進口價呈上升壓力",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260319/1111372008647561216279810.jpeg/hpJCzxfkWOepmBUZMCuoEK3qN1dFvpg4YLrHe2C6x3s?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60332090/%E5%A5%B3%E8%B6%B3%E6%9C%80%E5%89%8D%E7%B7%9A-%E5%A5%B3%E5%AD%90%E4%BA%9E%E6%B4%B2%E7%9B%83%E6%B1%BA%E8%B3%BD-%E6%BE%B3%E6%B4%B2-%E7%B4%B0-%E6%8A%97%E6%97%A5%E6%9C%AC",
     "timestamp": "2026-03-19T18:10:46.340Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "湯文龍出席城大法律法律學科聯會幹事會就職禮　勉勵學生培養誠信",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260320/1111466487622668288371802.jpeg/12dkj-TVUwUfBnFz7vMx0ZzYVFzVnP7TIPKRLSDykS0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60332326/%E6%B9%AF%E6%96%87%E9%BE%8D%E5%87%BA%E5%B8%AD%E5%9F%8E%E5%A4%A7%E6%B3%95%E5%BE%8B%E6%B3%95%E5%BE%8B%E5%AD%B8%E7%A7%91%E8%81%AF%E6%9C%83%E5%B9%B9%E4%BA%8B%E6%9C%83%E5%B0%B1%E8%81%B7%E7%A6%AE-%E5%8B%89%E5%8B%B5%E5%AD%B8%E7%94%9F%E5%9F%B9%E9%A4%8A%E8%AA%A0%E4%BF%A1",
-    "timestamp": "2026-03-19T17:13:03.725Z",
     "strategy": ".content-card__main"
   }
 ];
