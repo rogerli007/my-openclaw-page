@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-21T15:47:19.195Z
+// Last updated: 2026-03-21T15:58:21.981Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "重慶大學實驗室爆炸　學生1死3傷　疑因操作不當引發實驗物品閃爆",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260321/1112170217129119744031742.png/0uWebIQEoW0u3rBZQp5IdqHfp9IP98VrrDShJqw0oSY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60332885/%E9%87%8D%E6%85%B6%E5%A4%A7%E5%AD%B8%E5%AF%A6%E9%A9%97%E5%AE%A4%E7%88%86%E7%82%B8-%E5%AD%B8%E7%94%9F1%E6%AD%BB3%E5%82%B7-%E7%96%91%E5%9B%A0%E6%93%8D%E4%BD%9C%E4%B8%8D%E7%95%B6%E5%BC%95%E7%99%BC%E5%AF%A6%E9%A9%97%E7%89%A9%E5%93%81%E9%96%83%E7%88%86",
+    "timestamp": "2026-03-21T15:58:21.981Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "香港日佔相關鬼故：露營五人六對腳／八鄉行刑場／牛屎湖猛鬼聚海",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260321/1111913665910542336130576.jpeg/MI8Rda3W-GhYY40TucDnUYHkVEeZLgiYyaNkpuOjZKY?v=w1920",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60332722/%E8%91%B5%E6%B6%8C%E7%94%B7%E8%A1%97%E9%A0%AD%E6%8C%81%E5%88%80%E9%81%AD%E8%AD%A6%E9%96%8B5%E6%A7%8D%E5%88%B6%E6%9C%8D-%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2-%E8%AD%A6%E4%BA%A4%E4%BB%A3%E8%A9%B3%E6%83%85",
     "timestamp": "2026-03-20T23:49:31.038Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "直播｜葵涌男街頭持刀遭警開5槍制服　昏迷送院　警交代詳情",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260321/1111913665910542336130576.jpeg/MI8Rda3W-GhYY40TucDnUYHkVEeZLgiYyaNkpuOjZKY?v=w1920",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60332722/%E7%9B%B4%E6%92%AD-%E8%91%B5%E6%B6%8C%E7%94%B7%E8%A1%97%E9%A0%AD%E6%8C%81%E5%88%80%E9%81%AD%E8%AD%A6%E9%96%8B5%E6%A7%8D%E5%88%B6%E6%9C%8D-%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2-%E8%AD%A6%E4%BA%A4%E4%BB%A3%E8%A9%B3%E6%83%85",
-    "timestamp": "2026-03-20T23:33:11.168Z",
     "strategy": ".content-card__main"
   }
 ];
