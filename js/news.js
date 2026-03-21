@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-21T08:20:27.776Z
+// Last updated: 2026-03-21T08:37:22.792Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "海南陵水電動觀光車遭撞擊　釀遊客2死5傷慘劇",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260321/1112047432843137024127095.jpeg/ajpVYcjb4jRQNQimi3dPQvF0LqrURrINnE2NHJxNjRw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60332791/%E6%B5%B7%E5%8D%97%E9%99%B5%E6%B0%B4%E9%9B%BB%E5%8B%95%E8%A7%80%E5%85%89%E8%BB%8A%E9%81%AD%E6%92%9E%E6%93%8A-%E9%87%80%E9%81%8A%E5%AE%A22%E6%AD%BB5%E5%82%B7%E6%85%98%E5%8A%87",
+    "timestamp": "2026-03-21T08:37:22.792Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "羅淑佩冀多辦國際賽事　讓亞運選手「主場練兵」　並吸引旅客",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20240311/843993508833398784413862.jpeg/wKN7g_TPvkiiOc_1VPMNlgob_nrMsjopw4pAi8OKQIs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60332688/%E9%BB%83%E5%A4%A7%E4%BB%99%E5%85%AB%E9%9A%BB%E9%87%8E%E8%B1%AC%E8%A2%AB-%E6%8A%84%E5%AE%B6-%E7%AE%A1%E6%B5%A9%E9%B3%B4%E6%89%B9%E5%AE%98%E5%83%9A-%E5%A5%BD%E9%9B%A3%E7%9D%87-%E7%B5%95%E5%B0%8D%E7%84%A1%E5%BF%85%E8%A6%81",
     "timestamp": "2026-03-20T14:10:37.059Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "醫啲阿媽都唔知丨發高燒會燒壞腦？黃嘉雯自爆勁期待發燒",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260320/1111603239159074816643508.jpeg/3vcxKAGXmfg7msIiYqnk3bhrmD-JRbf4Ms1AwTLNQME?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60332367/%E9%86%AB%E5%95%B2%E9%98%BF%E5%AA%BD%E9%83%BD%E5%94%94%E7%9F%A5-%E7%99%BC%E9%AB%98%E7%87%92%E6%9C%83%E7%87%92%E5%A3%9E%E8%85%A6-%E9%BB%83%E5%98%89%E9%9B%AF%E8%87%AA%E7%88%86%E5%8B%81%E6%9C%9F%E5%BE%85%E7%99%BC%E7%87%92",
-    "timestamp": "2026-03-20T13:36:46.256Z",
     "strategy": ".content-card__main"
   }
 ];
