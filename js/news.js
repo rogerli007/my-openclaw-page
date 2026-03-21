@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-21T15:58:21.981Z
+// Last updated: 2026-03-21T16:31:46.708Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "元朗集運自提點變地下賭場　警拘23人　檢數千元現金",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260322/1112180681519140864978640.jpeg/b7uU5Wy-gcolT1-xF4hMvDKhJQd9P_h-IsVQIyLFUCM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60332890/%E5%85%83%E6%9C%97%E9%9B%86%E9%81%8B%E8%87%AA%E6%8F%90%E9%BB%9E%E8%AE%8A%E5%9C%B0%E4%B8%8B%E8%B3%AD%E5%A0%B4-%E8%AD%A6%E6%8B%9823%E4%BA%BA-%E6%AA%A2%E6%95%B8%E5%8D%83%E5%85%83%E7%8F%BE%E9%87%91",
+    "timestamp": "2026-03-21T16:31:46.708Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "重慶大學實驗室爆炸　學生1死3傷　疑因操作不當引發實驗物品閃爆",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260321/1111913665910542336130576.jpeg/MI8Rda3W-GhYY40TucDnUYHkVEeZLgiYyaNkpuOjZKY?v=w1920",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60332722/%E8%91%B5%E6%B6%8C%E7%94%B7%E8%A1%97%E9%A0%AD%E6%8C%81%E5%88%80%E9%81%AD%E8%AD%A6%E9%96%8B5%E6%A7%8D%E5%88%B6%E6%9C%8D-%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2-%E8%AD%A6%E4%BA%A4%E4%BB%A3%E8%A9%B3%E6%83%85",
     "timestamp": "2026-03-21T00:01:58.457Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "葵涌男街頭持刀遭警開5槍制服　昏迷送院　警交代詳情",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260321/1111913665910542336130576.jpeg/MI8Rda3W-GhYY40TucDnUYHkVEeZLgiYyaNkpuOjZKY?v=w1920",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60332722/%E8%91%B5%E6%B6%8C%E7%94%B7%E8%A1%97%E9%A0%AD%E6%8C%81%E5%88%80%E9%81%AD%E8%AD%A6%E9%96%8B5%E6%A7%8D%E5%88%B6%E6%9C%8D-%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2-%E8%AD%A6%E4%BA%A4%E4%BB%A3%E8%A9%B3%E6%83%85",
-    "timestamp": "2026-03-20T23:49:31.038Z",
     "strategy": ".content-card__main"
   }
 ];
