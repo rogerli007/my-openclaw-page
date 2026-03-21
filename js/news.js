@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-21T00:01:58.457Z
+// Last updated: 2026-03-21T03:35:42.604Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "日系春季搭配4類色系推薦　快速打造通勤、約會裝扮　呈現好氣色",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260302/1105188733755330560960748.png/xUH34krF98kL47dsi1iPcz60SXwlwsPB0P8YP9D_GD8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A9%BF%E6%90%AD%E7%AD%86%E8%A8%98/60326563/%E6%97%A5%E7%B3%BB%E6%98%A5%E5%AD%A3%E6%90%AD%E9%85%8D4%E9%A1%9E%E8%89%B2%E7%B3%BB%E6%8E%A8%E8%96%A6-%E5%BF%AB%E9%80%9F%E6%89%93%E9%80%A0%E9%80%9A%E5%8B%A4-%E7%B4%84%E6%9C%83%E8%A3%9D%E6%89%AE-%E5%91%88%E7%8F%BE%E5%A5%BD%E6%B0%A3%E8%89%B2",
+    "timestamp": "2026-03-21T03:35:42.604Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "葵涌男街頭持刀遭警開5槍制服　昏迷送院　警交代詳情",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260320/1111733575381684224413702.jpeg/CSdCJHK9Fhk87Xj-MOvdYJDypoRTQyChHjv-aB47_mg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60332621/01%E4%BC%81%E6%A5%AD%E9%87%91%E5%8B%B3%E5%A4%A7%E7%8D%8E2025-%E9%A6%99%E6%B8%AF01-%E8%A1%8C%E6%94%BF%E7%B8%BD%E8%A3%81%E8%98%87%E6%9B%89%E5%A9%B7%E6%8F%AD%E7%A4%BA%E5%8D%81%E5%91%A8%E5%B9%B4%E9%A1%98%E6%99%AF",
     "timestamp": "2026-03-20T10:52:05.351Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "港2月通脹升1.7%　統計處︰地緣政治致燃料進口價呈上升壓力",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260226/1103495768134127616873605.jpeg/EkPX0lQKzNxi0sbwYKFrf6NP1Bt7FXzUioVK-JCFSvg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60332614/%E6%B8%AF2%E6%9C%88%E9%80%9A%E8%84%B9%E5%8D%871-7-%E7%B5%B1%E8%A8%88%E8%99%95-%E5%9C%B0%E7%B7%A3%E6%94%BF%E6%B2%BB%E8%87%B4%E7%87%83%E6%96%99%E9%80%B2%E5%8F%A3%E5%83%B9%E5%91%88%E4%B8%8A%E5%8D%87%E5%A3%93%E5%8A%9B",
-    "timestamp": "2026-03-20T09:24:24.826Z",
     "strategy": ".content-card__main"
   }
 ];
