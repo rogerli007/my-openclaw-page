@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-21T21:00:03.071Z
+// Last updated: 2026-03-21T21:18:24.193Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "G7擬採取行動保護全球能源供應　並支持霍爾木茲海峽安全",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20240915/911813859327610880983517.jpeg/bwjkt1wGE-_rnwxfP5Loz47nzc827PIoeMXd_3jF3f8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60332899/g7%E6%93%AC%E6%8E%A1%E5%8F%96%E8%A1%8C%E5%8B%95%E4%BF%9D%E8%AD%B7%E5%85%A8%E7%90%83%E8%83%BD%E6%BA%90%E4%BE%9B%E6%87%89-%E4%B8%A6%E6%94%AF%E6%8C%81%E9%9C%8D%E7%88%BE%E6%9C%A8%E8%8C%B2%E6%B5%B7%E5%B3%BD%E5%AE%89%E5%85%A8",
+    "timestamp": "2026-03-21T21:18:24.193Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "G7擬採取行動保護全球能源供應　並支持霍爾木茲海峽安全",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20251004/1051129721695244288457928.jpeg/VhVv_TZoWmAY5qD9vK0Vz-Eesm2pDhlwIpEAZCKRAGQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60332838/%E9%BB%83%E5%A4%A7%E4%BB%99%E5%A9%A6%E7%96%91%E7%AE%A1%E6%95%99%E5%95%8F%E9%A1%8C%E6%93%B8%E7%B1%90%E6%A2%9D%E6%89%93%E4%BB%94-12%E6%AD%B2%E5%85%92%E8%82%A9%E7%B4%85%E8%85%AB%E5%A0%B1%E6%A1%88-%E6%AF%8D%E6%B6%89%E8%99%90%E5%85%92%E8%A2%AB%E6%8D%95",
     "timestamp": "2026-03-21T11:16:02.126Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "夜王｜楊偉倫何啟華疑走數「護士服」謝票　譚旻萱︰啲男人係咁",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260321/1112085479810928640743906.jpeg/G-4sZgH0vwXD2tUKLx8XOUtlRickml7arZKhwK2SocA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60332828/%E5%A4%9C%E7%8E%8B-%E6%A5%8A%E5%81%89%E5%80%AB%E4%BD%95%E5%95%9F%E8%8F%AF%E7%96%91%E8%B5%B0%E6%95%B8-%E8%AD%B7%E5%A3%AB%E6%9C%8D-%E8%AC%9D%E7%A5%A8-%E8%AD%9A%E6%97%BB%E8%90%B1-%E5%95%B2%E7%94%B7%E4%BA%BA%E4%BF%82%E5%92%81",
-    "timestamp": "2026-03-21T10:49:29.102Z",
     "strategy": ".content-card__main"
   }
 ];
