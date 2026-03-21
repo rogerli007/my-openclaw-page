@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-21T22:13:17.457Z
+// Last updated: 2026-03-21T22:31:07.750Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美媒：美國正擬定潛在伊朗和平談判計劃　要求伊方作出6點承諾",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260315/1109789975248900096793201.jpeg/CbjfVOUOlTwGsqeOPO_vzuJuLSpMokeEHCiWMRwoljE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60332903/%E7%BE%8E%E5%AA%92-%E7%BE%8E%E5%9C%8B%E6%AD%A3%E6%93%AC%E5%AE%9A%E6%BD%9B%E5%9C%A8%E4%BC%8A%E6%9C%97%E5%92%8C%E5%B9%B3%E8%AB%87%E5%88%A4%E8%A8%88%E5%8A%83-%E8%A6%81%E6%B1%82%E4%BC%8A%E6%96%B9%E4%BD%9C%E5%87%BA6%E9%BB%9E%E6%89%BF%E8%AB%BE",
+    "timestamp": "2026-03-21T22:31:07.750Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "G7擬採取行動保護全球能源供應　並支持霍爾木茲海峽安全",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260321/1112158905854595072712698.jpeg/BV-vvh4F5jsTXvV93DvCUnPNHPRd-ZGct2fWXbdn1l0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60332878/%E5%A9%81%E5%B3%BB%E7%A2%A9%E8%80%81%E5%A9%86-%E8%83%8E%E4%BD%8D%E5%90%91%E4%B8%8A-%E6%B1%BA%E5%AE%9A%E5%89%96%E8%85%B9%E5%88%86%E5%A8%A9-%E7%9B%AE%E7%9D%B9%E7%94%9F%E7%94%A2%E9%81%8E%E7%A8%8B%E6%A5%B5%E7%82%BA%E5%86%B7%E9%9D%9C",
     "timestamp": "2026-03-21T15:14:34.690Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "中西區海濱長廊女子疑墮海　消防出動搜救證虛驚",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260321/1112145480529219584156704.jpeg/BQrNPIfcKenrb7eUTBhwQeVpjQGbYp8QqyANNY4gDTU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60332872/%E4%B8%AD%E8%A5%BF%E5%8D%80%E6%B5%B7%E6%BF%B1%E9%95%B7%E5%BB%8A%E5%A5%B3%E5%AD%90%E7%96%91%E5%A2%AE%E6%B5%B7-%E6%B6%88%E9%98%B2%E5%87%BA%E5%8B%95%E6%90%9C%E6%95%91%E8%AD%89%E8%99%9B%E9%A9%9A",
-    "timestamp": "2026-03-21T14:34:03.768Z",
     "strategy": ".content-card__main"
   }
 ];
