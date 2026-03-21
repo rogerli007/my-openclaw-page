@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-21T03:35:42.604Z
+// Last updated: 2026-03-21T04:23:35.387Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "營地預約及收費｜謝展寰稱長遠或可推旅遊產品　遊東壩食海鮮餐",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20251001/1050068720472690688672154.jpeg/lev0XFUQSQTL2jRK2gC3MLFhNjeYwCfQZZsPmkybD5o?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60332757/%E7%87%9F%E5%9C%B0%E9%A0%90%E7%B4%84%E5%8F%8A%E6%94%B6%E8%B2%BB-%E8%AC%9D%E5%B1%95%E5%AF%B0%E7%A8%B1%E9%95%B7%E9%81%A0%E6%88%96%E5%8F%AF%E6%8E%A8%E6%97%85%E9%81%8A%E7%94%A2%E5%93%81-%E9%81%8A%E6%9D%B1%E5%A3%A9%E9%A3%9F%E6%B5%B7%E9%AE%AE%E9%A4%90",
+    "timestamp": "2026-03-21T04:23:35.387Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "日系春季搭配4類色系推薦　快速打造通勤、約會裝扮　呈現好氣色",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260227/1104095779921858560643279.jpeg/lPA-54n6gid_wbsvOGz84Byk60T_df7bakZGLmpGRi4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60332649/%E5%AE%8F%E7%A6%8F%E8%8B%91%E8%81%BD%E8%AD%89%E6%9C%83-%E8%AD%A6%E6%96%B9%E6%83%85%E5%A0%B1%E6%8C%87%E6%9C%89%E9%BB%91%E7%A4%BE%E6%9C%83%E7%B6%93%E7%87%9F%E9%A1%A7%E5%95%8F-%E8%88%87%E6%89%BF%E5%BB%BA%E5%95%86%E5%85%85%E6%96%A5%E8%B2%AA%E6%B1%A1",
     "timestamp": "2026-03-20T11:19:31.614Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "01企業金勳大獎2025 |《香港01》行政總裁蘇曉婷揭示十周年願景",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260320/1111733575381684224413702.jpeg/CSdCJHK9Fhk87Xj-MOvdYJDypoRTQyChHjv-aB47_mg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60332621/01%E4%BC%81%E6%A5%AD%E9%87%91%E5%8B%B3%E5%A4%A7%E7%8D%8E2025-%E9%A6%99%E6%B8%AF01-%E8%A1%8C%E6%94%BF%E7%B8%BD%E8%A3%81%E8%98%87%E6%9B%89%E5%A9%B7%E6%8F%AD%E7%A4%BA%E5%8D%81%E5%91%A8%E5%B9%B4%E9%A1%98%E6%99%AF",
-    "timestamp": "2026-03-20T10:52:05.351Z",
     "strategy": ".content-card__main"
   }
 ];
