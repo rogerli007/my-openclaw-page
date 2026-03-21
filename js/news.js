@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-21T20:48:08.511Z
+// Last updated: 2026-03-21T21:00:03.071Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "G7擬採取行動保護全球能源供應　並支持霍爾木茲海峽安全",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20240915/911813859327610880983517.jpeg/bwjkt1wGE-_rnwxfP5Loz47nzc827PIoeMXd_3jF3f8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60332899/g7%E6%93%AC%E6%8E%A1%E5%8F%96%E8%A1%8C%E5%8B%95%E4%BF%9D%E8%AD%B7%E5%85%A8%E7%90%83%E8%83%BD%E6%BA%90%E4%BE%9B%E6%87%89-%E4%B8%A6%E6%94%AF%E6%8C%81%E9%9C%8D%E7%88%BE%E6%9C%A8%E8%8C%B2%E6%B5%B7%E5%B3%BD%E5%AE%89%E5%85%A8",
+    "timestamp": "2026-03-21T21:00:03.071Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "G7擬採取行動保護全球能源供應　並支持霍爾木茲海峽安全",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260321/1112085479810928640743906.jpeg/G-4sZgH0vwXD2tUKLx8XOUtlRickml7arZKhwK2SocA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60332828/%E5%A4%9C%E7%8E%8B-%E6%A5%8A%E5%81%89%E5%80%AB%E4%BD%95%E5%95%9F%E8%8F%AF%E7%96%91%E8%B5%B0%E6%95%B8-%E8%AD%B7%E5%A3%AB%E6%9C%8D-%E8%AC%9D%E7%A5%A8-%E8%AD%9A%E6%97%BB%E8%90%B1-%E5%95%B2%E7%94%B7%E4%BA%BA%E4%BF%82%E5%92%81",
     "timestamp": "2026-03-21T10:49:29.102Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "中超｜港將陳晉一世界波罰球扳平　京滬打吡申花1：1逼和國安",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260321/1112082273831751680976042.jpeg/HhVnCgpt2bwhNz81k04ZZueOxS9vWsY_wnLsFcJy7BU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60332833/%E4%B8%AD%E8%B6%85-%E6%B8%AF%E5%B0%87%E9%99%B3%E6%99%89%E4%B8%80%E4%B8%96%E7%95%8C%E6%B3%A2%E7%BD%B0%E7%90%83%E6%89%B3%E5%B9%B3-%E4%BA%AC%E6%BB%AC%E6%89%93%E5%90%A1%E7%94%B3%E8%8A%B11-1%E9%80%BC%E5%92%8C%E5%9C%8B%E5%AE%89",
-    "timestamp": "2026-03-21T10:31:32.555Z",
     "strategy": ".content-card__main"
   }
 ];
