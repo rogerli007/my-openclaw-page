@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-21T10:00:06.259Z
+// Last updated: 2026-03-21T10:31:32.555Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "中超｜港將陳晉一世界波罰球扳平　京滬打吡申花1：1逼和國安",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260321/1112082273831751680976042.jpeg/HhVnCgpt2bwhNz81k04ZZueOxS9vWsY_wnLsFcJy7BU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60332833/%E4%B8%AD%E8%B6%85-%E6%B8%AF%E5%B0%87%E9%99%B3%E6%99%89%E4%B8%80%E4%B8%96%E7%95%8C%E6%B3%A2%E7%BD%B0%E7%90%83%E6%89%B3%E5%B9%B3-%E4%BA%AC%E6%BB%AC%E6%89%93%E5%90%A1%E7%94%B3%E8%8A%B11-1%E9%80%BC%E5%92%8C%E5%9C%8B%E5%AE%89",
+    "timestamp": "2026-03-21T10:31:32.555Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "英國肯特郡官員：腦膜炎疫情或傳至國內其他地區　法國一感染者亡",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260321/1111837398683095040790438.jpeg/1vfAhvAFMkELPUtoxxl7fB2SpG1iDpOyCVj8eCNY_Hg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60332714/%E7%B2%89%E5%B6%BA%E5%85%AC%E8%B7%AFp%E7%89%8C%E4%B8%83%E4%BA%BA%E8%BB%8A%E7%96%91%E6%92%9E%E6%B0%B4%E9%A6%AC%E7%BF%BB%E5%81%B4-%E5%8F%B8%E6%A9%9F%E6%A3%84%E8%BB%8A%E9%9B%A2%E5%A0%B4",
     "timestamp": "2026-03-20T17:51:26.911Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "上水華山女子墮河　丈夫跳河救人　兩人昏迷送院",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260318/1110941835783704576841703.jpeg/s07-Yl9OJXirDbj7TzTOlb5CSVozhLLpxRIYQcUSGEE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60332709/%E4%B8%8A%E6%B0%B4%E8%8F%AF%E5%B1%B1%E5%A5%B3%E5%AD%90%E5%A2%AE%E6%B2%B3-%E4%B8%88%E5%A4%AB%E8%B7%B3%E6%B2%B3%E6%95%91%E4%BA%BA-%E5%85%A9%E4%BA%BA%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2",
-    "timestamp": "2026-03-20T16:57:20.883Z",
     "strategy": ".content-card__main"
   }
 ];
