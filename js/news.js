@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-21T18:18:02.252Z
+// Last updated: 2026-03-21T19:17:37.683Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "「通俄門」特別檢察官米勒逝世享年81歲　特朗普：很高興他死了",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260322/1112199119163625472763521.jpeg/KFw0qWl1JChYLBpPub-CZ99AfvAwu0QdqG084qhtPOI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60332894/%E9%80%9A%E4%BF%84%E9%96%80-%E7%89%B9%E5%88%A5%E6%AA%A2%E5%AF%9F%E5%AE%98%E7%B1%B3%E5%8B%92%E9%80%9D%E4%B8%96%E4%BA%AB%E5%B9%B481%E6%AD%B2-%E7%89%B9%E6%9C%97%E6%99%AE-%E5%BE%88%E9%AB%98%E8%88%88%E4%BB%96%E6%AD%BB%E4%BA%86",
+    "timestamp": "2026-03-21T19:17:37.683Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "夜王｜票房破1億黃子華請食魚蛋　導演吳煒倫︰多謝最可愛的觀眾",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260321/1112055320110174208174698.jpeg/5UQxyPV4hKPSnnpuxSbWATQEjaRprVFvJRemgCUXpoA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60332796/%E6%97%A5%E6%9C%AC%E9%A7%AD%E4%BA%BA%E5%88%86%E5%B1%8D%E6%A1%88-31%E6%AD%B2%E7%94%B7%E6%B6%89%E5%B0%8B%E6%89%BE%E5%8E%AD%E4%B8%96%E5%A5%B3%E7%95%B6%E7%9B%AE%E6%A8%99-%E7%85%AE%E5%B1%8D-%E7%95%99%E9%A0%AD%E9%A1%B1%E5%9C%A8%E5%AE%B6",
     "timestamp": "2026-03-21T09:01:14.485Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "海南陵水電動觀光車遭撞擊　釀遊客2死5傷慘劇",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260321/1112047432843137024127095.jpeg/ajpVYcjb4jRQNQimi3dPQvF0LqrURrINnE2NHJxNjRw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60332791/%E6%B5%B7%E5%8D%97%E9%99%B5%E6%B0%B4%E9%9B%BB%E5%8B%95%E8%A7%80%E5%85%89%E8%BB%8A%E9%81%AD%E6%92%9E%E6%93%8A-%E9%87%80%E9%81%8A%E5%AE%A22%E6%AD%BB5%E5%82%B7%E6%85%98%E5%8A%87",
-    "timestamp": "2026-03-21T08:37:22.792Z",
     "strategy": ".content-card__main"
   }
 ];
