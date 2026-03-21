@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-21T12:38:54.259Z
+// Last updated: 2026-03-21T13:36:53.808Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "意籍教練Maurizio修成正果　帶領蔡俊彥奪世一　獲頒全年最佳教練",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260321/1112140305097822208642781.jpeg/ZPlMyNfRc9FKxHdfTiDCBOH-QNvfbak_9Q8yzfUPMs0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60332867/%E6%84%8F%E7%B1%8D%E6%95%99%E7%B7%B4maurizio%E4%BF%AE%E6%88%90%E6%AD%A3%E6%9E%9C-%E5%B8%B6%E9%A0%98%E8%94%A1%E4%BF%8A%E5%BD%A5%E5%A5%AA%E4%B8%96%E4%B8%80-%E7%8D%B2%E9%A0%92%E5%85%A8%E5%B9%B4%E6%9C%80%E4%BD%B3%E6%95%99%E7%B7%B4",
+    "timestamp": "2026-03-21T13:36:53.808Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "硬核！風雲四號C星發佈首套觀測圖像　綜合能力達到世界先進水平",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260321/1111880921310564352957108.jpeg/W83XzbX3EeOcN5SYx4nSwLBtsYfafBLNyg8m-8oPJvs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60332719/%E7%89%B9%E6%9C%97%E6%99%AE-%E9%A1%98%E8%88%87%E4%BC%8A%E6%9C%97%E5%B0%8D%E8%A9%B1%E4%BD%86%E4%B8%8D%E6%83%B3%E5%81%9C%E7%81%AB-%E8%8B%A5%E7%BE%8E%E5%9C%8B%E5%81%9C%E6%AD%A2%E6%88%B0%E7%88%AD%E4%BB%A5%E8%89%B2%E5%88%97%E4%BE%BF%E6%9C%83%E8%BF%BD%E9%9A%A8",
     "timestamp": "2026-03-20T21:34:01.432Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "葵涌男街頭持刀　 遭警開槍制服後中彈昏迷送院",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260321/1111886149074292736718059.jpeg/CSKQbWB_TR75X4-4df87xj6lFgRXJoHJUdCCFXvQghU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60332718/%E8%91%B5%E6%B6%8C%E7%94%B7%E8%A1%97%E9%A0%AD%E6%8C%81%E5%88%80-%E9%81%AD%E8%AD%A6%E9%96%8B%E6%A7%8D%E5%88%B6%E6%9C%8D%E5%BE%8C%E4%B8%AD%E5%BD%88%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2",
-    "timestamp": "2026-03-20T20:51:06.941Z",
     "strategy": ".content-card__main"
   }
 ];
