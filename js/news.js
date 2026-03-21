@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-20T23:49:31.038Z
+// Last updated: 2026-03-21T00:01:58.457Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "葵涌男街頭持刀遭警開5槍制服　昏迷送院　警交代詳情",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260321/1111913665910542336130576.jpeg/MI8Rda3W-GhYY40TucDnUYHkVEeZLgiYyaNkpuOjZKY?v=w1920",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60332722/%E8%91%B5%E6%B6%8C%E7%94%B7%E8%A1%97%E9%A0%AD%E6%8C%81%E5%88%80%E9%81%AD%E8%AD%A6%E9%96%8B5%E6%A7%8D%E5%88%B6%E6%9C%8D-%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2-%E8%AD%A6%E4%BA%A4%E4%BB%A3%E8%A9%B3%E6%83%85",
+    "timestamp": "2026-03-21T00:01:58.457Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "葵涌男街頭持刀遭警開5槍制服　昏迷送院　警交代詳情",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260226/1103495768134127616873605.jpeg/EkPX0lQKzNxi0sbwYKFrf6NP1Bt7FXzUioVK-JCFSvg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60332614/%E6%B8%AF2%E6%9C%88%E9%80%9A%E8%84%B9%E5%8D%871-7-%E7%B5%B1%E8%A8%88%E8%99%95-%E5%9C%B0%E7%B7%A3%E6%94%BF%E6%B2%BB%E8%87%B4%E7%87%83%E6%96%99%E9%80%B2%E5%8F%A3%E5%83%B9%E5%91%88%E4%B8%8A%E5%8D%87%E5%A3%93%E5%8A%9B",
     "timestamp": "2026-03-20T09:24:24.826Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "有片｜觀塘明渠「翠屏河」變「泡沫河」　網民熱議：平時有魚有雀",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260320/1111693946670551040308651.jpeg/sx56Qo4P73jG5UqHE-3azLt3AMsRFIlMvlWaZL5VmmQ?v=w1920",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60332545/%E6%9C%89%E7%89%87-%E8%A7%80%E5%A1%98%E6%98%8E%E6%B8%A0-%E7%BF%A0%E5%B1%8F%E6%B2%B3-%E8%AE%8A-%E6%B3%A1%E6%B2%AB%E6%B2%B3-%E7%B6%B2%E6%B0%91%E7%86%B1%E8%AD%B0-%E5%B9%B3%E6%99%82%E6%9C%89%E9%AD%9A%E6%9C%89%E9%9B%80",
-    "timestamp": "2026-03-20T08:25:43.403Z",
     "strategy": ".content-card__main"
   }
 ];
