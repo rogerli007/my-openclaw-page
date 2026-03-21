@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-21T13:36:53.808Z
+// Last updated: 2026-03-21T14:34:03.768Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "中西區海濱長廊女子疑墮海　消防出動搜救證虛驚",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260321/1112145480529219584156704.jpeg/BQrNPIfcKenrb7eUTBhwQeVpjQGbYp8QqyANNY4gDTU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60332872/%E4%B8%AD%E8%A5%BF%E5%8D%80%E6%B5%B7%E6%BF%B1%E9%95%B7%E5%BB%8A%E5%A5%B3%E5%AD%90%E7%96%91%E5%A2%AE%E6%B5%B7-%E6%B6%88%E9%98%B2%E5%87%BA%E5%8B%95%E6%90%9C%E6%95%91%E8%AD%89%E8%99%9B%E9%A9%9A",
+    "timestamp": "2026-03-21T14:34:03.768Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "意籍教練Maurizio修成正果　帶領蔡俊彥奪世一　獲頒全年最佳教練",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260321/1111903757966249984650371.jpeg/gl_8klMsXlNTb1npMhCixFfdBZfBmuE2J2-i6Cdvoug?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60332720/%E7%89%B9%E6%9C%97%E6%99%AE%E7%A8%B1%E7%BE%8E%E5%9C%8B%E8%BF%91%E5%AF%A6%E7%8F%BE%E4%BC%8A%E6%9C%97%E6%88%B0%E7%88%AD5%E5%A4%A7%E7%9B%AE%E6%A8%99-%E8%80%83%E6%85%AE%E9%80%90%E6%AD%A5%E6%B8%9B%E5%B0%91%E4%B8%AD%E6%9D%B1%E8%BB%8D%E4%BA%8B%E8%A1%8C%E5%8B%95",
     "timestamp": "2026-03-20T22:15:02.095Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普：願與伊朗對話但不想停火　若美國停止戰爭以色列便會追隨",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260321/1111880921310564352957108.jpeg/W83XzbX3EeOcN5SYx4nSwLBtsYfafBLNyg8m-8oPJvs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60332719/%E7%89%B9%E6%9C%97%E6%99%AE-%E9%A1%98%E8%88%87%E4%BC%8A%E6%9C%97%E5%B0%8D%E8%A9%B1%E4%BD%86%E4%B8%8D%E6%83%B3%E5%81%9C%E7%81%AB-%E8%8B%A5%E7%BE%8E%E5%9C%8B%E5%81%9C%E6%AD%A2%E6%88%B0%E7%88%AD%E4%BB%A5%E8%89%B2%E5%88%97%E4%BE%BF%E6%9C%83%E8%BF%BD%E9%9A%A8",
-    "timestamp": "2026-03-20T21:34:01.432Z",
     "strategy": ".content-card__main"
   }
 ];
