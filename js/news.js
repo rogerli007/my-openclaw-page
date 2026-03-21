@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-21T11:16:02.126Z
+// Last updated: 2026-03-21T11:44:25.231Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美國能源封鎖下　古巴拒美大使館進口柴油請求斥其「無恥」",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260321/1112073118093938688034586.jpeg/KsQ4xCGfwPcF8SXXcdKGzce-4RJrIlwg7NODguzTg4I?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60332819/%E7%BE%8E%E5%9C%8B%E8%83%BD%E6%BA%90%E5%B0%81%E9%8E%96%E4%B8%8B-%E5%8F%A4%E5%B7%B4%E6%8B%92%E7%BE%8E%E5%A4%A7%E4%BD%BF%E9%A4%A8%E9%80%B2%E5%8F%A3%E6%9F%B4%E6%B2%B9%E8%AB%8B%E6%B1%82%E6%96%A5%E5%85%B6-%E7%84%A1%E6%81%A5",
+    "timestamp": "2026-03-21T11:44:25.231Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "黃大仙婦疑管教問題擸籐條打仔　12歲兒肩紅腫報案　母涉虐兒被捕",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260114/1088111359297589248019864.jpeg/4VjTtwniWDaXz4rQHZCpEeBfHLJK2hWOHP_x9Rz_8fU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60332718/%E8%91%B5%E6%B6%8C%E7%94%B7%E8%A1%97%E9%A0%AD%E6%8C%81%E5%88%80-%E8%AD%A6%E5%88%B0%E5%A0%B4%E8%AA%BF%E6%9F%A5-%E7%94%B7%E5%AD%90%E4%B8%AD%E6%A7%8D%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2",
     "timestamp": "2026-03-20T20:20:14.212Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "國際能源署：伊朗戰爭釀史上最嚴重能源衝擊　供應至少6個月恢復",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260321/1111865000001015808240193.jpeg/iiCZ9r2XuOTBMCV4GSB8GBVvyEeVbqdSb2YxPG9mMTw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60332715/%E5%9C%8B%E9%9A%9B%E8%83%BD%E6%BA%90%E7%BD%B2-%E4%BC%8A%E6%9C%97%E6%88%B0%E7%88%AD%E9%87%80%E5%8F%B2%E4%B8%8A%E6%9C%80%E5%9A%B4%E9%87%8D%E8%83%BD%E6%BA%90%E8%A1%9D%E6%93%8A-%E4%BE%9B%E6%87%89%E8%87%B3%E5%B0%916%E5%80%8B%E6%9C%88%E6%81%A2%E5%BE%A9",
-    "timestamp": "2026-03-20T19:49:45.127Z",
     "strategy": ".content-card__main"
   }
 ];
