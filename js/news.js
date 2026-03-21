@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-21T09:01:14.485Z
+// Last updated: 2026-03-21T10:00:06.259Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "英國肯特郡官員：腦膜炎疫情或傳至國內其他地區　法國一感染者亡",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260319/1111254585986519040967248.jpeg/brratD-BDGbOuZ0t9pJ-zOueXUpegCEvJVqALCVagCw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60332829/%E8%8B%B1%E5%9C%8B%E8%82%AF%E7%89%B9%E9%83%A1%E5%AE%98%E5%93%A1-%E8%85%A6%E8%86%9C%E7%82%8E%E7%96%AB%E6%83%85%E6%88%96%E5%82%B3%E8%87%B3%E5%9C%8B%E5%85%A7%E5%85%B6%E4%BB%96%E5%9C%B0%E5%8D%80-%E6%B3%95%E5%9C%8B%E4%B8%80%E6%84%9F%E6%9F%93%E8%80%85%E4%BA%A1",
+    "timestamp": "2026-03-21T10:00:06.259Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "日本駭人分屍案　31歲男涉尋找厭世女當目標　「煮屍」留頭顱在家",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260318/1110941835783704576841703.jpeg/s07-Yl9OJXirDbj7TzTOlb5CSVozhLLpxRIYQcUSGEE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60332709/%E4%B8%8A%E6%B0%B4%E8%8F%AF%E5%B1%B1%E5%A5%B3%E5%AD%90%E5%A2%AE%E6%B2%B3-%E4%B8%88%E5%A4%AB%E8%B7%B3%E6%B2%B3%E6%95%91%E4%BA%BA-%E5%85%A9%E4%BA%BA%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2",
     "timestamp": "2026-03-20T16:57:20.883Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美國Rapper拍MV諷警察暴力搜查住宅反遭起訴　法院判決出爐",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260320/1111789607994789888964237.jpeg/sfPUnrZvxGDWpb0qxAQrQ71XiDWqsAiOPIwQ6TyMEOk",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60332685/%E7%BE%8E%E5%9C%8Brapper%E6%8B%8Dmv%E8%AB%B7%E8%AD%A6%E5%AF%9F%E6%9A%B4%E5%8A%9B%E6%90%9C%E6%9F%A5%E4%BD%8F%E5%AE%85%E5%8F%8D%E9%81%AD%E8%B5%B7%E8%A8%B4-%E6%B3%95%E9%99%A2%E5%88%A4%E6%B1%BA%E5%87%BA%E7%88%90",
-    "timestamp": "2026-03-20T15:08:29.411Z",
     "strategy": ".content-card__main"
   }
 ];
