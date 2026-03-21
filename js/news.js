@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-21T10:49:29.102Z
+// Last updated: 2026-03-21T11:16:02.126Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "黃大仙婦疑管教問題擸籐條打仔　12歲兒肩紅腫報案　母涉虐兒被捕",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20251004/1051129721695244288457928.jpeg/VhVv_TZoWmAY5qD9vK0Vz-Eesm2pDhlwIpEAZCKRAGQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60332838/%E9%BB%83%E5%A4%A7%E4%BB%99%E5%A9%A6%E7%96%91%E7%AE%A1%E6%95%99%E5%95%8F%E9%A1%8C%E6%93%B8%E7%B1%90%E6%A2%9D%E6%89%93%E4%BB%94-12%E6%AD%B2%E5%85%92%E8%82%A9%E7%B4%85%E8%85%AB%E5%A0%B1%E6%A1%88-%E6%AF%8D%E6%B6%89%E8%99%90%E5%85%92%E8%A2%AB%E6%8D%95",
+    "timestamp": "2026-03-21T11:16:02.126Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "夜王｜楊偉倫何啟華疑走數「護士服」謝票　譚旻萱︰啲男人係咁",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260321/1111865000001015808240193.jpeg/iiCZ9r2XuOTBMCV4GSB8GBVvyEeVbqdSb2YxPG9mMTw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60332715/%E5%9C%8B%E9%9A%9B%E8%83%BD%E6%BA%90%E7%BD%B2-%E4%BC%8A%E6%9C%97%E6%88%B0%E7%88%AD%E9%87%80%E5%8F%B2%E4%B8%8A%E6%9C%80%E5%9A%B4%E9%87%8D%E8%83%BD%E6%BA%90%E8%A1%9D%E6%93%8A-%E4%BE%9B%E6%87%89%E8%87%B3%E5%B0%916%E5%80%8B%E6%9C%88%E6%81%A2%E5%BE%A9",
     "timestamp": "2026-03-20T19:49:45.127Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "古巴外交副部長：該國政治體制與總統任期均不在與美國談判範圍內",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260321/1111834603993174016398025.jpeg/zjxGwg1uv4KEMKIXw6gKIGAnW7k6PeT4tWkb8rVpG_I?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60332711/%E5%8F%A4%E5%B7%B4%E5%A4%96%E4%BA%A4%E5%89%AF%E9%83%A8%E9%95%B7-%E8%A9%B2%E5%9C%8B%E6%94%BF%E6%B2%BB%E9%AB%94%E5%88%B6%E8%88%87%E7%B8%BD%E7%B5%B1%E4%BB%BB%E6%9C%9F%E5%9D%87%E4%B8%8D%E5%9C%A8%E8%88%87%E7%BE%8E%E5%9C%8B%E8%AB%87%E5%88%A4%E7%AF%84%E5%9C%8D%E5%85%A7",
-    "timestamp": "2026-03-20T19:24:00.865Z",
     "strategy": ".content-card__main"
   }
 ];
