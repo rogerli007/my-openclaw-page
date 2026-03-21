@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-21T05:54:03.438Z
+// Last updated: 2026-03-21T08:20:27.776Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "羅淑佩冀多辦國際賽事　讓亞運選手「主場練兵」　並吸引旅客",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20251121/1068630237077573632704819.jpeg/DGECDNzy5jlfwLi-2i4CcU7rQXAom8NrI2hLvSNoS70?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60332803/%E7%BE%85%E6%B7%91%E4%BD%A9%E5%86%80%E5%A4%9A%E8%BE%A6%E5%9C%8B%E9%9A%9B%E8%B3%BD%E4%BA%8B-%E8%AE%93%E4%BA%9E%E9%81%8B%E9%81%B8%E6%89%8B-%E4%B8%BB%E5%A0%B4%E7%B7%B4%E5%85%B5-%E4%B8%A6%E5%90%B8%E5%BC%95%E6%97%85%E5%AE%A2",
+    "timestamp": "2026-03-21T08:20:27.776Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "侵入性腦膜炎雙球菌｜徐樂堅稱復活節多留英學生返港　會加強監察",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260320/1111603239159074816643508.jpeg/3vcxKAGXmfg7msIiYqnk3bhrmD-JRbf4Ms1AwTLNQME?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60332367/%E9%86%AB%E5%95%B2%E9%98%BF%E5%AA%BD%E9%83%BD%E5%94%94%E7%9F%A5-%E7%99%BC%E9%AB%98%E7%87%92%E6%9C%83%E7%87%92%E5%A3%9E%E8%85%A6-%E9%BB%83%E5%98%89%E9%9B%AF%E8%87%AA%E7%88%86%E5%8B%81%E6%9C%9F%E5%BE%85%E7%99%BC%E7%87%92",
     "timestamp": "2026-03-20T13:36:46.256Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "超加工飲食毀腎臟！醫生列10大傷腎食品　即食麵、薯片、奶茶上榜",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260320/1111703969928843264482017.png/LKjvhQ95IPPuRG_LzMCgBCNXTEU6Th1BAeolKwHqJSs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60332142/%E8%B6%85%E5%8A%A0%E5%B7%A5%E9%A3%B2%E9%A3%9F%E6%AF%80%E8%85%8E%E8%87%9F-%E9%86%AB%E7%94%9F%E5%88%9710%E5%A4%A7%E5%82%B7%E8%85%8E%E9%A3%9F%E5%93%81-%E5%8D%B3%E9%A3%9F%E9%BA%B5-%E8%96%AF%E7%89%87-%E5%A5%B6%E8%8C%B6%E4%B8%8A%E6%A6%9C",
-    "timestamp": "2026-03-20T12:23:49.606Z",
     "strategy": ".content-card__main"
   }
 ];
