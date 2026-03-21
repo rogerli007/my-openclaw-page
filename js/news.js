@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-21T08:37:22.792Z
+// Last updated: 2026-03-21T09:01:14.485Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "日本駭人分屍案　31歲男涉尋找厭世女當目標　「煮屍」留頭顱在家",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260321/1112055320110174208174698.jpeg/5UQxyPV4hKPSnnpuxSbWATQEjaRprVFvJRemgCUXpoA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60332796/%E6%97%A5%E6%9C%AC%E9%A7%AD%E4%BA%BA%E5%88%86%E5%B1%8D%E6%A1%88-31%E6%AD%B2%E7%94%B7%E6%B6%89%E5%B0%8B%E6%89%BE%E5%8E%AD%E4%B8%96%E5%A5%B3%E7%95%B6%E7%9B%AE%E6%A8%99-%E7%85%AE%E5%B1%8D-%E7%95%99%E9%A0%AD%E9%A1%B1%E5%9C%A8%E5%AE%B6",
+    "timestamp": "2026-03-21T09:01:14.485Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "海南陵水電動觀光車遭撞擊　釀遊客2死5傷慘劇",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260320/1111789607994789888964237.jpeg/sfPUnrZvxGDWpb0qxAQrQ71XiDWqsAiOPIwQ6TyMEOk",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60332685/%E7%BE%8E%E5%9C%8Brapper%E6%8B%8Dmv%E8%AB%B7%E8%AD%A6%E5%AF%9F%E6%9A%B4%E5%8A%9B%E6%90%9C%E6%9F%A5%E4%BD%8F%E5%AE%85%E5%8F%8D%E9%81%AD%E8%B5%B7%E8%A8%B4-%E6%B3%95%E9%99%A2%E5%88%A4%E6%B1%BA%E5%87%BA%E7%88%90",
     "timestamp": "2026-03-20T15:08:29.411Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "黃大仙八隻野豬被「抄家」　管浩鳴批官僚：好難睇、絕對無必要",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20240311/843993508833398784413862.jpeg/wKN7g_TPvkiiOc_1VPMNlgob_nrMsjopw4pAi8OKQIs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60332688/%E9%BB%83%E5%A4%A7%E4%BB%99%E5%85%AB%E9%9A%BB%E9%87%8E%E8%B1%AC%E8%A2%AB-%E6%8A%84%E5%AE%B6-%E7%AE%A1%E6%B5%A9%E9%B3%B4%E6%89%B9%E5%AE%98%E5%83%9A-%E5%A5%BD%E9%9B%A3%E7%9D%87-%E7%B5%95%E5%B0%8D%E7%84%A1%E5%BF%85%E8%A6%81",
-    "timestamp": "2026-03-20T14:10:37.059Z",
     "strategy": ".content-card__main"
   }
 ];
