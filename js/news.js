@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-21T21:31:21.436Z
+// Last updated: 2026-03-21T21:50:38.329Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "G7擬採取行動保護全球能源供應　並支持霍爾木茲海峽安全",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20240915/911813859327610880983517.jpeg/bwjkt1wGE-_rnwxfP5Loz47nzc827PIoeMXd_3jF3f8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60332899/g7%E6%93%AC%E6%8E%A1%E5%8F%96%E8%A1%8C%E5%8B%95%E4%BF%9D%E8%AD%B7%E5%85%A8%E7%90%83%E8%83%BD%E6%BA%90%E4%BE%9B%E6%87%89-%E4%B8%A6%E6%94%AF%E6%8C%81%E9%9C%8D%E7%88%BE%E6%9C%A8%E8%8C%B2%E6%B5%B7%E5%B3%BD%E5%AE%89%E5%85%A8",
+    "timestamp": "2026-03-21T21:50:38.329Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "G7擬採取行動保護全球能源供應　並支持霍爾木茲海峽安全",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260321/1112047196011761664762540.jpeg/ePkJBUz55nKnyaFFvklgFGTStsmueBfvxqYsrsamLK4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60332784/%E7%A1%AC%E6%A0%B8-%E9%A2%A8%E9%9B%B2%E5%9B%9B%E8%99%9Fc%E6%98%9F%E7%99%BC%E4%BD%88%E9%A6%96%E5%A5%97%E8%A7%80%E6%B8%AC%E5%9C%96%E5%83%8F-%E7%B6%9C%E5%90%88%E8%83%BD%E5%8A%9B%E9%81%94%E5%88%B0%E4%B8%96%E7%95%8C%E5%85%88%E9%80%B2%E6%B0%B4%E5%B9%B3",
     "timestamp": "2026-03-21T12:38:54.259Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美國能源封鎖下　古巴拒美大使館進口柴油請求斥其「無恥」",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260321/1112073118093938688034586.jpeg/KsQ4xCGfwPcF8SXXcdKGzce-4RJrIlwg7NODguzTg4I?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60332819/%E7%BE%8E%E5%9C%8B%E8%83%BD%E6%BA%90%E5%B0%81%E9%8E%96%E4%B8%8B-%E5%8F%A4%E5%B7%B4%E6%8B%92%E7%BE%8E%E5%A4%A7%E4%BD%BF%E9%A4%A8%E9%80%B2%E5%8F%A3%E6%9F%B4%E6%B2%B9%E8%AB%8B%E6%B1%82%E6%96%A5%E5%85%B6-%E7%84%A1%E6%81%A5",
-    "timestamp": "2026-03-21T11:44:25.231Z",
     "strategy": ".content-card__main"
   }
 ];
