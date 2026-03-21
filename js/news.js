@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-21T14:34:03.768Z
+// Last updated: 2026-03-21T15:14:34.690Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "婁峻碩老婆「胎位向上」決定剖腹分娩　目睹生產過程極為冷靜",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260321/1112158905854595072712698.jpeg/BV-vvh4F5jsTXvV93DvCUnPNHPRd-ZGct2fWXbdn1l0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60332878/%E5%A9%81%E5%B3%BB%E7%A2%A9%E8%80%81%E5%A9%86-%E8%83%8E%E4%BD%8D%E5%90%91%E4%B8%8A-%E6%B1%BA%E5%AE%9A%E5%89%96%E8%85%B9%E5%88%86%E5%A8%A9-%E7%9B%AE%E7%9D%B9%E7%94%9F%E7%94%A2%E9%81%8E%E7%A8%8B%E6%A5%B5%E7%82%BA%E5%86%B7%E9%9D%9C",
+    "timestamp": "2026-03-21T15:14:34.690Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "中西區海濱長廊女子疑墮海　消防出動搜救證虛驚",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260321/1111903757966249984650371.jpeg/gl_8klMsXlNTb1npMhCixFfdBZfBmuE2J2-i6Cdvoug?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60332720/%E7%89%B9%E6%9C%97%E6%99%AE%E7%A8%B1%E7%BE%8E%E5%9C%8B%E8%BF%91%E5%AF%A6%E7%8F%BE%E4%BC%8A%E6%9C%97%E6%88%B0%E7%88%AD5%E5%A4%A7%E7%9B%AE%E6%A8%99-%E8%80%83%E6%85%AE%E9%80%90%E6%AD%A5%E6%B8%9B%E5%B0%91%E4%B8%AD%E6%9D%B1%E8%BB%8D%E4%BA%8B%E8%A1%8C%E5%8B%95",
     "timestamp": "2026-03-20T22:31:53.308Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普稱美國近實現伊朗戰爭5大目標　考慮逐步減少中東軍事行動",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260321/1111903757966249984650371.jpeg/gl_8klMsXlNTb1npMhCixFfdBZfBmuE2J2-i6Cdvoug?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60332720/%E7%89%B9%E6%9C%97%E6%99%AE%E7%A8%B1%E7%BE%8E%E5%9C%8B%E8%BF%91%E5%AF%A6%E7%8F%BE%E4%BC%8A%E6%9C%97%E6%88%B0%E7%88%AD5%E5%A4%A7%E7%9B%AE%E6%A8%99-%E8%80%83%E6%85%AE%E9%80%90%E6%AD%A5%E6%B8%9B%E5%B0%91%E4%B8%AD%E6%9D%B1%E8%BB%8D%E4%BA%8B%E8%A1%8C%E5%8B%95",
-    "timestamp": "2026-03-20T22:15:02.095Z",
     "strategy": ".content-card__main"
   }
 ];
