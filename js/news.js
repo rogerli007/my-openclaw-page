@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-21T04:23:35.387Z
+// Last updated: 2026-03-21T05:54:03.438Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "侵入性腦膜炎雙球菌｜徐樂堅稱復活節多留英學生返港　會加強監察",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20210420/461212769396461568137860.jpeg/1liLfq00KlO87dAb_AJH5erg6pNFpcoEwhaZ3MIWmdw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60332772/%E4%BE%B5%E5%85%A5%E6%80%A7%E8%85%A6%E8%86%9C%E7%82%8E%E9%9B%99%E7%90%83%E8%8F%8C-%E5%BE%90%E6%A8%82%E5%A0%85%E7%A8%B1%E5%BE%A9%E6%B4%BB%E7%AF%80%E5%A4%9A%E7%95%99%E8%8B%B1%E5%AD%B8%E7%94%9F%E8%BF%94%E6%B8%AF-%E6%9C%83%E5%8A%A0%E5%BC%B7%E7%9B%A3%E5%AF%9F",
+    "timestamp": "2026-03-21T05:54:03.438Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "營地預約及收費｜謝展寰稱長遠或可推旅遊產品　遊東壩食海鮮餐",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260320/1111703969928843264482017.png/LKjvhQ95IPPuRG_LzMCgBCNXTEU6Th1BAeolKwHqJSs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60332142/%E8%B6%85%E5%8A%A0%E5%B7%A5%E9%A3%B2%E9%A3%9F%E6%AF%80%E8%85%8E%E8%87%9F-%E9%86%AB%E7%94%9F%E5%88%9710%E5%A4%A7%E5%82%B7%E8%85%8E%E9%A3%9F%E5%93%81-%E5%8D%B3%E9%A3%9F%E9%BA%B5-%E8%96%AF%E7%89%87-%E5%A5%B6%E8%8C%B6%E4%B8%8A%E6%A6%9C",
     "timestamp": "2026-03-20T12:23:49.606Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "宏福苑聽證會｜警方情報指有黑社會經營顧問　與承建商充斥貪污",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260227/1104095779921858560643279.jpeg/lPA-54n6gid_wbsvOGz84Byk60T_df7bakZGLmpGRi4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60332649/%E5%AE%8F%E7%A6%8F%E8%8B%91%E8%81%BD%E8%AD%89%E6%9C%83-%E8%AD%A6%E6%96%B9%E6%83%85%E5%A0%B1%E6%8C%87%E6%9C%89%E9%BB%91%E7%A4%BE%E6%9C%83%E7%B6%93%E7%87%9F%E9%A1%A7%E5%95%8F-%E8%88%87%E6%89%BF%E5%BB%BA%E5%95%86%E5%85%85%E6%96%A5%E8%B2%AA%E6%B1%A1",
-    "timestamp": "2026-03-20T11:19:31.614Z",
     "strategy": ".content-card__main"
   }
 ];
