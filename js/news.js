@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-21T16:50:57.657Z
+// Last updated: 2026-03-21T17:19:40.702Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "五月天因調場風波惹不滿　過百粉絲無受影響繼續排隊等買周邊",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260321/1112170741698138112930862.jpeg/bAFhmq--65riNvHXZwPbnAOvI3iZU19jvxP8cL8T_HA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60332882/%E4%BA%94%E6%9C%88%E5%A4%A9%E5%9B%A0%E8%AA%BF%E5%A0%B4%E9%A2%A8%E6%B3%A2%E6%83%B9%E4%B8%8D%E6%BB%BF-%E9%81%8E%E7%99%BE%E7%B2%89%E7%B5%B2%E7%84%A1%E5%8F%97%E5%BD%B1%E9%9F%BF%E7%B9%BC%E7%BA%8C%E6%8E%92%E9%9A%8A%E7%AD%89%E8%B2%B7%E5%91%A8%E9%82%8A",
+    "timestamp": "2026-03-21T17:19:40.702Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "五月天因調場風波惹不滿　過百粉絲無受影響繼續排隊等買周邊",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20251001/1050068720472690688672154.jpeg/lev0XFUQSQTL2jRK2gC3MLFhNjeYwCfQZZsPmkybD5o?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60332757/%E7%87%9F%E5%9C%B0%E9%A0%90%E7%B4%84%E5%8F%8A%E6%94%B6%E8%B2%BB-%E8%AC%9D%E5%B1%95%E5%AF%B0%E7%A8%B1%E9%95%B7%E9%81%A0%E6%88%96%E5%8F%AF%E6%8E%A8%E6%97%85%E9%81%8A%E7%94%A2%E5%93%81-%E9%81%8A%E6%9D%B1%E5%A3%A9%E9%A3%9F%E6%B5%B7%E9%AE%AE%E9%A4%90",
     "timestamp": "2026-03-21T04:23:35.387Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "日系春季搭配4類色系推薦　快速打造通勤、約會裝扮　呈現好氣色",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260302/1105188733755330560960748.png/xUH34krF98kL47dsi1iPcz60SXwlwsPB0P8YP9D_GD8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A9%BF%E6%90%AD%E7%AD%86%E8%A8%98/60326563/%E6%97%A5%E7%B3%BB%E6%98%A5%E5%AD%A3%E6%90%AD%E9%85%8D4%E9%A1%9E%E8%89%B2%E7%B3%BB%E6%8E%A8%E8%96%A6-%E5%BF%AB%E9%80%9F%E6%89%93%E9%80%A0%E9%80%9A%E5%8B%A4-%E7%B4%84%E6%9C%83%E8%A3%9D%E6%89%AE-%E5%91%88%E7%8F%BE%E5%A5%BD%E6%B0%A3%E8%89%B2",
-    "timestamp": "2026-03-21T03:35:42.604Z",
     "strategy": ".content-card__main"
   }
 ];
