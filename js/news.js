@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-21T17:47:00.199Z
+// Last updated: 2026-03-21T18:18:02.252Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "夜王｜票房破1億黃子華請食魚蛋　導演吳煒倫︰多謝最可愛的觀眾",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260322/1112199718655496192641920.jpeg/jQrgZ8oiEtfCLw2KNrwMtBdSbtm0Z8_oJuWO1ybljtc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60332892/%E5%A4%9C%E7%8E%8B-%E7%A5%A8%E6%88%BF%E7%A0%B41%E5%84%84%E9%BB%83%E5%AD%90%E8%8F%AF%E8%AB%8B%E9%A3%9F%E9%AD%9A%E8%9B%8B-%E5%B0%8E%E6%BC%94%E5%90%B3%E7%85%92%E5%80%AB-%E5%A4%9A%E8%AC%9D%E6%9C%80%E5%8F%AF%E6%84%9B%E7%9A%84%E8%A7%80%E7%9C%BE",
+    "timestamp": "2026-03-21T18:18:02.252Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "夜王｜票房破1億黃子華請食魚蛋　導演吳煒倫︰多謝最可愛的觀眾",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260321/1112047432843137024127095.jpeg/ajpVYcjb4jRQNQimi3dPQvF0LqrURrINnE2NHJxNjRw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60332791/%E6%B5%B7%E5%8D%97%E9%99%B5%E6%B0%B4%E9%9B%BB%E5%8B%95%E8%A7%80%E5%85%89%E8%BB%8A%E9%81%AD%E6%92%9E%E6%93%8A-%E9%87%80%E9%81%8A%E5%AE%A22%E6%AD%BB5%E5%82%B7%E6%85%98%E5%8A%87",
     "timestamp": "2026-03-21T08:37:22.792Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "羅淑佩冀多辦國際賽事　讓亞運選手「主場練兵」　並吸引旅客",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20251121/1068630237077573632704819.jpeg/DGECDNzy5jlfwLi-2i4CcU7rQXAom8NrI2hLvSNoS70?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60332803/%E7%BE%85%E6%B7%91%E4%BD%A9%E5%86%80%E5%A4%9A%E8%BE%A6%E5%9C%8B%E9%9A%9B%E8%B3%BD%E4%BA%8B-%E8%AE%93%E4%BA%9E%E9%81%8B%E9%81%B8%E6%89%8B-%E4%B8%BB%E5%A0%B4%E7%B7%B4%E5%85%B5-%E4%B8%A6%E5%90%B8%E5%BC%95%E6%97%85%E5%AE%A2",
-    "timestamp": "2026-03-21T08:20:27.776Z",
     "strategy": ".content-card__main"
   }
 ];
