@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-21T15:14:34.690Z
+// Last updated: 2026-03-21T15:30:45.884Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美國防部限制記者採訪遭《紐約時報》入稟挑戰　法院裁定違憲",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260124/1091670149351608320582413.jpeg/aDMCe_02z2uFGMWtG2fZmVaH3fdyHpphOgOySDoDskg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60332876/%E7%BE%8E%E5%9C%8B%E9%98%B2%E9%83%A8%E9%99%90%E5%88%B6%E8%A8%98%E8%80%85%E6%8E%A1%E8%A8%AA%E9%81%AD-%E7%B4%90%E7%B4%84%E6%99%82%E5%A0%B1-%E5%85%A5%E7%A8%9F%E6%8C%91%E6%88%B0-%E6%B3%95%E9%99%A2%E8%A3%81%E5%AE%9A%E9%81%95%E6%86%B2",
+    "timestamp": "2026-03-21T15:30:45.884Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "婁峻碩老婆「胎位向上」決定剖腹分娩　目睹生產過程極為冷靜",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260318/1110978816643174400485397.jpeg/25td-u0eas_ldobL0kjjuzvcgE3kyH6UR_MfM0fzHzM",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60320672/%E6%82%A3%E7%99%8C%E8%80%85%E5%85%BC%E7%85%A7%E9%A1%A7%E8%80%85%E5%A3%93%E5%8A%9B%E7%80%95%E7%88%86-%E7%B6%B2%E4%B8%8A%E5%98%86%E4%B8%80%E5%AE%B6%E5%9B%9B%E5%8F%A3%E5%A4%9A%E8%8B%A6%E9%9B%A3-%E5%96%9C%E7%8D%B2%E5%90%8C%E8%B7%AF%E4%BA%BA%E6%94%AF%E6%8C%81",
     "timestamp": "2026-03-20T23:16:09.851Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普稱美國近實現伊朗戰爭5大目標　考慮逐步減少中東軍事行動",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260321/1111903757966249984650371.jpeg/gl_8klMsXlNTb1npMhCixFfdBZfBmuE2J2-i6Cdvoug?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60332720/%E7%89%B9%E6%9C%97%E6%99%AE%E7%A8%B1%E7%BE%8E%E5%9C%8B%E8%BF%91%E5%AF%A6%E7%8F%BE%E4%BC%8A%E6%9C%97%E6%88%B0%E7%88%AD5%E5%A4%A7%E7%9B%AE%E6%A8%99-%E8%80%83%E6%85%AE%E9%80%90%E6%AD%A5%E6%B8%9B%E5%B0%91%E4%B8%AD%E6%9D%B1%E8%BB%8D%E4%BA%8B%E8%A1%8C%E5%8B%95",
-    "timestamp": "2026-03-20T22:31:53.308Z",
     "strategy": ".content-card__main"
   }
 ];
