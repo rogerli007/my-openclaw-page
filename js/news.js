@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-21T15:30:45.884Z
+// Last updated: 2026-03-21T15:47:19.195Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "香港日佔相關鬼故：露營五人六對腳／八鄉行刑場／牛屎湖猛鬼聚海",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260317/1110604503918317568182497.jpeg/0c4mdbDc7Kay8DBLfoMSXqBvEOj_hhmsyU6fgclOn4E?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E8%A9%B1%E9%A1%8C/60331342/%E9%A6%99%E6%B8%AF%E6%97%A5%E4%BD%94%E7%9B%B8%E9%97%9C%E9%AC%BC%E6%95%85-%E9%9C%B2%E7%87%9F%E4%BA%94%E4%BA%BA%E5%85%AD%E5%B0%8D%E8%85%B3-%E5%85%AB%E9%84%89%E8%A1%8C%E5%88%91%E5%A0%B4-%E7%89%9B%E5%B1%8E%E6%B9%96%E7%8C%9B%E9%AC%BC%E8%81%9A%E6%B5%B7",
+    "timestamp": "2026-03-21T15:47:19.195Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美國防部限制記者採訪遭《紐約時報》入稟挑戰　法院裁定違憲",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260321/1111913665910542336130576.jpeg/MI8Rda3W-GhYY40TucDnUYHkVEeZLgiYyaNkpuOjZKY?v=w1920",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60332722/%E7%9B%B4%E6%92%AD-%E8%91%B5%E6%B6%8C%E7%94%B7%E8%A1%97%E9%A0%AD%E6%8C%81%E5%88%80%E9%81%AD%E8%AD%A6%E9%96%8B5%E6%A7%8D%E5%88%B6%E6%9C%8D-%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2-%E8%AD%A6%E4%BA%A4%E4%BB%A3%E8%A9%B3%E6%83%85",
     "timestamp": "2026-03-20T23:33:11.168Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "患癌者兼照顧者壓力瀕爆　網上嘆一家四口多苦難　喜獲同路人支持",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260318/1110978816643174400485397.jpeg/25td-u0eas_ldobL0kjjuzvcgE3kyH6UR_MfM0fzHzM",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60320672/%E6%82%A3%E7%99%8C%E8%80%85%E5%85%BC%E7%85%A7%E9%A1%A7%E8%80%85%E5%A3%93%E5%8A%9B%E7%80%95%E7%88%86-%E7%B6%B2%E4%B8%8A%E5%98%86%E4%B8%80%E5%AE%B6%E5%9B%9B%E5%8F%A3%E5%A4%9A%E8%8B%A6%E9%9B%A3-%E5%96%9C%E7%8D%B2%E5%90%8C%E8%B7%AF%E4%BA%BA%E6%94%AF%E6%8C%81",
-    "timestamp": "2026-03-20T23:16:09.851Z",
     "strategy": ".content-card__main"
   }
 ];
