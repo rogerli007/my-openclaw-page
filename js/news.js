@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-21T19:17:37.683Z
+// Last updated: 2026-03-21T20:31:18.425Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "G7擬採取行動保護全球能源供應　並支持霍爾木茲海峽安全",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20240915/911813859327610880983517.jpeg/bwjkt1wGE-_rnwxfP5Loz47nzc827PIoeMXd_3jF3f8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60332899/g7%E6%93%AC%E6%8E%A1%E5%8F%96%E8%A1%8C%E5%8B%95%E4%BF%9D%E8%AD%B7%E5%85%A8%E7%90%83%E8%83%BD%E6%BA%90%E4%BE%9B%E6%87%89-%E4%B8%A6%E6%94%AF%E6%8C%81%E9%9C%8D%E7%88%BE%E6%9C%A8%E8%8C%B2%E6%B5%B7%E5%B3%BD%E5%AE%89%E5%85%A8",
+    "timestamp": "2026-03-21T20:31:18.425Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "「通俄門」特別檢察官米勒逝世享年81歲　特朗普：很高興他死了",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260319/1111254585986519040967248.jpeg/brratD-BDGbOuZ0t9pJ-zOueXUpegCEvJVqALCVagCw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60332829/%E8%8B%B1%E5%9C%8B%E8%82%AF%E7%89%B9%E9%83%A1%E5%AE%98%E5%93%A1-%E8%85%A6%E8%86%9C%E7%82%8E%E7%96%AB%E6%83%85%E6%88%96%E5%82%B3%E8%87%B3%E5%9C%8B%E5%85%A7%E5%85%B6%E4%BB%96%E5%9C%B0%E5%8D%80-%E6%B3%95%E5%9C%8B%E4%B8%80%E6%84%9F%E6%9F%93%E8%80%85%E4%BA%A1",
     "timestamp": "2026-03-21T10:00:06.259Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "日本駭人分屍案　31歲男涉尋找厭世女當目標　「煮屍」留頭顱在家",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260321/1112055320110174208174698.jpeg/5UQxyPV4hKPSnnpuxSbWATQEjaRprVFvJRemgCUXpoA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60332796/%E6%97%A5%E6%9C%AC%E9%A7%AD%E4%BA%BA%E5%88%86%E5%B1%8D%E6%A1%88-31%E6%AD%B2%E7%94%B7%E6%B6%89%E5%B0%8B%E6%89%BE%E5%8E%AD%E4%B8%96%E5%A5%B3%E7%95%B6%E7%9B%AE%E6%A8%99-%E7%85%AE%E5%B1%8D-%E7%95%99%E9%A0%AD%E9%A1%B1%E5%9C%A8%E5%AE%B6",
-    "timestamp": "2026-03-21T09:01:14.485Z",
     "strategy": ".content-card__main"
   }
 ];
