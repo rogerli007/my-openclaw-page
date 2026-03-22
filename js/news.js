@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-22T20:34:25.471Z
+// Last updated: 2026-03-22T21:16:50.141Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "澤連斯基：美烏代表團會談結束　有可能與俄進一步交換戰俘",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250420/990459635527847936638157.jpeg/EpdejqBicMH1TrsgC_4OI-U_z6OvOr04JxW_qScVv6k?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60333054/%E6%BE%A4%E9%80%A3%E6%96%AF%E5%9F%BA-%E7%BE%8E%E7%83%8F%E4%BB%A3%E8%A1%A8%E5%9C%98%E6%9C%83%E8%AB%87%E7%B5%90%E6%9D%9F-%E6%9C%89%E5%8F%AF%E8%83%BD%E8%88%87%E4%BF%84%E9%80%B2%E4%B8%80%E6%AD%A5%E4%BA%A4%E6%8F%9B%E6%88%B0%E4%BF%98",
+    "timestamp": "2026-03-22T21:16:50.141Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "以軍轟炸黎巴嫩南部橋樑　宣布擴大攻勢推進地面行動",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260322/1112445520732753920594780.jpeg/Ueh9TrBgzWqkrlKi183McNGXpHa2L9WIhYZ8V4WGfFc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60332985/%E8%B5%A4%E8%86%8A%E7%94%B7%E4%B8%AD%E7%92%B0%E8%B7%91%E6%AD%A5-%E5%A4%A9%E6%96%87%E5%8F%B0%E6%96%99%E6%9C%AC%E5%91%A8%E5%A4%A9%E6%99%B4%E7%82%8E%E7%86%B1-%E5%91%A8%E4%B8%89%E6%9C%893%E5%8D%80%E6%B0%A3%E6%BA%AB%E7%8F%BE3%E5%AD%97%E9%A0%AD",
     "timestamp": "2026-03-22T11:30:51.286Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "兩男童疑天水圍商場廁內遭非禮身心受創　帖主：要發聲保護下一代",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260322/1112423863616016384450328.png/M6xDYqpTGniuUWM6TXA4uvEx62JlRjYDOHcvaDh3L2g?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60332967/%E5%85%A9%E7%94%B7%E7%AB%A5%E7%96%91%E5%A4%A9%E6%B0%B4%E5%9C%8D%E5%95%86%E5%A0%B4%E5%BB%81%E5%85%A7%E9%81%AD%E9%9D%9E%E7%A6%AE%E8%BA%AB%E5%BF%83%E5%8F%97%E5%89%B5-%E5%B8%96%E4%B8%BB-%E8%A6%81%E7%99%BC%E8%81%B2%E4%BF%9D%E8%AD%B7%E4%B8%8B%E4%B8%80%E4%BB%A3",
-    "timestamp": "2026-03-22T10:01:05.945Z",
     "strategy": ".content-card__main"
   }
 ];
