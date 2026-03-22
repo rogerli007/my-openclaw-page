@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-21T23:59:26.405Z
+// Last updated: 2026-03-22T00:48:27.559Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "65歲吳廷燁暴瘦面凹頸部青筋明顯　自爆因腸胃炎狂屙肚令人擔憂",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260321/1112113239728066560029584.jpeg/J2WBT3HuzRXZQ5VZLJhAu8kISiJV3CdDPvsfQz77H0M?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60332096/65%E6%AD%B2%E5%90%B3%E5%BB%B7%E7%87%81%E6%9A%B4%E7%98%A6%E9%9D%A2%E5%87%B9%E9%A0%B8%E9%83%A8%E9%9D%92%E7%AD%8B%E6%98%8E%E9%A1%AF-%E8%87%AA%E7%88%86%E5%9B%A0%E8%85%B8%E8%83%83%E7%82%8E%E7%8B%82%E5%B1%99%E8%82%9A%E4%BB%A4%E4%BA%BA%E6%93%94%E6%86%82",
+    "timestamp": "2026-03-22T00:48:27.559Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "不滿麥炸雞賣完！阿叔大鬧麥當勞逼點餐：你們是服務業　結局絕了",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260321/1112170217129119744031742.png/0uWebIQEoW0u3rBZQp5IdqHfp9IP98VrrDShJqw0oSY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60332885/%E9%87%8D%E6%85%B6%E5%A4%A7%E5%AD%B8%E5%AF%A6%E9%A9%97%E5%AE%A4%E7%88%86%E7%82%B8-%E5%AD%B8%E7%94%9F1%E6%AD%BB3%E5%82%B7-%E7%96%91%E5%9B%A0%E6%93%8D%E4%BD%9C%E4%B8%8D%E7%95%B6%E5%BC%95%E7%99%BC%E5%AF%A6%E9%A9%97%E7%89%A9%E5%93%81%E9%96%83%E7%88%86",
     "timestamp": "2026-03-21T15:58:21.981Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "香港日佔相關鬼故：露營五人六對腳／八鄉行刑場／牛屎湖猛鬼聚海",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260317/1110604503918317568182497.jpeg/0c4mdbDc7Kay8DBLfoMSXqBvEOj_hhmsyU6fgclOn4E?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E8%A9%B1%E9%A1%8C/60331342/%E9%A6%99%E6%B8%AF%E6%97%A5%E4%BD%94%E7%9B%B8%E9%97%9C%E9%AC%BC%E6%95%85-%E9%9C%B2%E7%87%9F%E4%BA%94%E4%BA%BA%E5%85%AD%E5%B0%8D%E8%85%B3-%E5%85%AB%E9%84%89%E8%A1%8C%E5%88%91%E5%A0%B4-%E7%89%9B%E5%B1%8E%E6%B9%96%E7%8C%9B%E9%AC%BC%E8%81%9A%E6%B5%B7",
-    "timestamp": "2026-03-21T15:47:19.195Z",
     "strategy": ".content-card__main"
   }
 ];
