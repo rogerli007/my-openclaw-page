@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-22T06:38:10.279Z
+// Last updated: 2026-03-22T07:11:01.503Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "奧蘇利雲終再晉排名賽決賽　8強一棒153度創世界紀錄︱桌球",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260322/1112362514890362880046523.jpeg/ykL6jHWRd8sxFkpZBel0wF6eb6bne60SENFkABDRZAA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60332935/%E5%A5%A7%E8%98%87%E5%88%A9%E9%9B%B2%E7%B5%82%E5%86%8D%E6%99%89%E6%8E%92%E5%90%8D%E8%B3%BD%E6%B1%BA%E8%B3%BD-8%E5%BC%B7%E4%B8%80%E6%A3%92153%E5%BA%A6%E5%89%B5%E4%B8%96%E7%95%8C%E7%B4%80%E9%8C%84-%E6%A1%8C%E7%90%83",
+    "timestamp": "2026-03-22T07:11:01.503Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "中國發展高層論壇｜李強：中國致力於做世界的「確定性基石」",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260321/1112170741698138112930862.jpeg/bAFhmq--65riNvHXZwPbnAOvI3iZU19jvxP8cL8T_HA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60332882/%E4%BA%94%E6%9C%88%E5%A4%A9%E5%9B%A0%E8%AA%BF%E5%A0%B4%E9%A2%A8%E6%B3%A2%E6%83%B9%E4%B8%8D%E6%BB%BF-%E9%81%8E%E7%99%BE%E7%B2%89%E7%B5%B2%E7%84%A1%E5%8F%97%E5%BD%B1%E9%9F%BF%E7%B9%BC%E7%BA%8C%E6%8E%92%E9%9A%8A%E7%AD%89%E8%B2%B7%E5%91%A8%E9%82%8A",
     "timestamp": "2026-03-21T17:31:31.902Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "五月天因調場風波惹不滿　過百粉絲無受影響繼續排隊等買周邊",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260321/1112170741698138112930862.jpeg/bAFhmq--65riNvHXZwPbnAOvI3iZU19jvxP8cL8T_HA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60332882/%E4%BA%94%E6%9C%88%E5%A4%A9%E5%9B%A0%E8%AA%BF%E5%A0%B4%E9%A2%A8%E6%B3%A2%E6%83%B9%E4%B8%8D%E6%BB%BF-%E9%81%8E%E7%99%BE%E7%B2%89%E7%B5%B2%E7%84%A1%E5%8F%97%E5%BD%B1%E9%9F%BF%E7%B9%BC%E7%BA%8C%E6%8E%92%E9%9A%8A%E7%AD%89%E8%B2%B7%E5%91%A8%E9%82%8A",
-    "timestamp": "2026-03-21T17:19:40.702Z",
     "strategy": ".content-card__main"
   }
 ];
