@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-22T13:27:01.504Z
+// Last updated: 2026-03-22T13:52:47.752Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "荃錦公路兩電單車相撞兩司機傷　其中1鐵騎士一度躺臥路中待援",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260322/1112505101563465728081473.jpeg/Y2XohXU2vIJCS5Ove8CBgaGNcq7Ekl5IKmTOfypkzn8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60333019/%E8%8D%83%E9%8C%A6%E5%85%AC%E8%B7%AF%E5%85%A9%E9%9B%BB%E5%96%AE%E8%BB%8A%E7%9B%B8%E6%92%9E%E5%85%A9%E5%8F%B8%E6%A9%9F%E5%82%B7-%E5%85%B6%E4%B8%AD1%E9%90%B5%E9%A8%8E%E5%A3%AB%E4%B8%80%E5%BA%A6%E8%BA%BA%E8%87%A5%E8%B7%AF%E4%B8%AD%E5%BE%85%E6%8F%B4",
+    "timestamp": "2026-03-22T13:52:47.752Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "電影導演會｜梁家輝廖子妤奪影帝影后　舒淇榮登「新晉導演」",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20240915/911813859327610880983517.jpeg/bwjkt1wGE-_rnwxfP5Loz47nzc827PIoeMXd_3jF3f8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60332899/g7%E6%93%AC%E6%8E%A1%E5%8F%96%E8%A1%8C%E5%8B%95%E4%BF%9D%E8%AD%B7%E5%85%A8%E7%90%83%E8%83%BD%E6%BA%90%E4%BE%9B%E6%87%89-%E4%B8%A6%E6%94%AF%E6%8C%81%E9%9C%8D%E7%88%BE%E6%9C%A8%E8%8C%B2%E6%B5%B7%E5%B3%BD%E5%AE%89%E5%85%A8",
     "timestamp": "2026-03-21T21:57:53.715Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "G7擬採取行動保護全球能源供應　並支持霍爾木茲海峽安全",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20240915/911813859327610880983517.jpeg/bwjkt1wGE-_rnwxfP5Loz47nzc827PIoeMXd_3jF3f8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60332899/g7%E6%93%AC%E6%8E%A1%E5%8F%96%E8%A1%8C%E5%8B%95%E4%BF%9D%E8%AD%B7%E5%85%A8%E7%90%83%E8%83%BD%E6%BA%90%E4%BE%9B%E6%87%89-%E4%B8%A6%E6%94%AF%E6%8C%81%E9%9C%8D%E7%88%BE%E6%9C%A8%E8%8C%B2%E6%B5%B7%E5%B3%BD%E5%AE%89%E5%85%A8",
-    "timestamp": "2026-03-21T21:50:38.329Z",
     "strategy": ".content-card__main"
   }
 ];
