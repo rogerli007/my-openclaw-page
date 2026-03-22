@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-22T12:53:42.053Z
+// Last updated: 2026-03-22T13:27:01.504Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "電影導演會｜梁家輝廖子妤奪影帝影后　舒淇榮登「新晉導演」",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260322/1112495897847009280273468.jpeg/bFbEIyDVzcFOiLzqBNkAbkwnirshPE41JDon8yQ6J_M?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60333015/%E9%9B%BB%E5%BD%B1%E5%B0%8E%E6%BC%94%E6%9C%83-%E6%A2%81%E5%AE%B6%E8%BC%9D%E5%BB%96%E5%AD%90%E5%A6%A4%E5%A5%AA%E5%BD%B1%E5%B8%9D%E5%BD%B1%E5%90%8E-%E8%88%92%E6%B7%87%E6%A6%AE%E7%99%BB-%E6%96%B0%E6%99%89%E5%B0%8E%E6%BC%94",
+    "timestamp": "2026-03-22T13:27:01.504Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "何文田緩跑徑起點英文Start變「Strat」　居民批離譜：小學生都識",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20240915/911813859327610880983517.jpeg/bwjkt1wGE-_rnwxfP5Loz47nzc827PIoeMXd_3jF3f8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60332899/g7%E6%93%AC%E6%8E%A1%E5%8F%96%E8%A1%8C%E5%8B%95%E4%BF%9D%E8%AD%B7%E5%85%A8%E7%90%83%E8%83%BD%E6%BA%90%E4%BE%9B%E6%87%89-%E4%B8%A6%E6%94%AF%E6%8C%81%E9%9C%8D%E7%88%BE%E6%9C%A8%E8%8C%B2%E6%B5%B7%E5%B3%BD%E5%AE%89%E5%85%A8",
     "timestamp": "2026-03-21T21:50:38.329Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "G7擬採取行動保護全球能源供應　並支持霍爾木茲海峽安全",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20240915/911813859327610880983517.jpeg/bwjkt1wGE-_rnwxfP5Loz47nzc827PIoeMXd_3jF3f8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60332899/g7%E6%93%AC%E6%8E%A1%E5%8F%96%E8%A1%8C%E5%8B%95%E4%BF%9D%E8%AD%B7%E5%85%A8%E7%90%83%E8%83%BD%E6%BA%90%E4%BE%9B%E6%87%89-%E4%B8%A6%E6%94%AF%E6%8C%81%E9%9C%8D%E7%88%BE%E6%9C%A8%E8%8C%B2%E6%B5%B7%E5%B3%BD%E5%AE%89%E5%85%A8",
-    "timestamp": "2026-03-21T21:31:21.436Z",
     "strategy": ".content-card__main"
   }
 ];
