@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-22T12:19:51.722Z
+// Last updated: 2026-03-22T12:53:42.053Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "何文田緩跑徑起點英文Start變「Strat」　居民批離譜：小學生都識",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260322/1112480345246142464794638.jpeg/CKLcnll3QzjPxMDRrEjrYOeP5XZ6NabCQ3g_DUN4Pw0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60333009/%E4%BD%95%E6%96%87%E7%94%B0%E7%B7%A9%E8%B7%91%E5%BE%91%E8%B5%B7%E9%BB%9E%E8%8B%B1%E6%96%87start%E8%AE%8A-strat-%E5%B1%85%E6%B0%91%E6%89%B9%E9%9B%A2%E8%AD%9C-%E5%B0%8F%E5%AD%B8%E7%94%9F%E9%83%BD%E8%AD%98",
+    "timestamp": "2026-03-22T12:53:42.053Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "四川組織部長靳磊南下主政深圳　既是委以重任又是新的期望",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20240915/911813859327610880983517.jpeg/bwjkt1wGE-_rnwxfP5Loz47nzc827PIoeMXd_3jF3f8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60332899/g7%E6%93%AC%E6%8E%A1%E5%8F%96%E8%A1%8C%E5%8B%95%E4%BF%9D%E8%AD%B7%E5%85%A8%E7%90%83%E8%83%BD%E6%BA%90%E4%BE%9B%E6%87%89-%E4%B8%A6%E6%94%AF%E6%8C%81%E9%9C%8D%E7%88%BE%E6%9C%A8%E8%8C%B2%E6%B5%B7%E5%B3%BD%E5%AE%89%E5%85%A8",
     "timestamp": "2026-03-21T21:31:21.436Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "G7擬採取行動保護全球能源供應　並支持霍爾木茲海峽安全",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20240915/911813859327610880983517.jpeg/bwjkt1wGE-_rnwxfP5Loz47nzc827PIoeMXd_3jF3f8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60332899/g7%E6%93%AC%E6%8E%A1%E5%8F%96%E8%A1%8C%E5%8B%95%E4%BF%9D%E8%AD%B7%E5%85%A8%E7%90%83%E8%83%BD%E6%BA%90%E4%BE%9B%E6%87%89-%E4%B8%A6%E6%94%AF%E6%8C%81%E9%9C%8D%E7%88%BE%E6%9C%A8%E8%8C%B2%E6%B5%B7%E5%B3%BD%E5%AE%89%E5%85%A8",
-    "timestamp": "2026-03-21T21:18:24.193Z",
     "strategy": ".content-card__main"
   }
 ];
