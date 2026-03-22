@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-22T19:05:23.615Z
+// Last updated: 2026-03-22T19:19:46.161Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "黎巴嫩總統：以軍攻擊基建及橋樑　地面入侵先兆",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260323/1112580968276824064273819.jpeg/sx54gf0ekCliHaRvN9sHh1bDPg3keVOt0mzSe9Js0ns?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60333051/%E9%BB%8E%E5%B7%B4%E5%AB%A9%E7%B8%BD%E7%B5%B1-%E4%BB%A5%E8%BB%8D%E6%94%BB%E6%93%8A%E5%9F%BA%E5%BB%BA%E5%8F%8A%E6%A9%8B%E6%A8%91-%E5%9C%B0%E9%9D%A2%E5%85%A5%E4%BE%B5%E5%85%88%E5%85%86",
+    "timestamp": "2026-03-22T19:19:46.161Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "黎巴嫩總統：以軍攻擊基建及橋樑　地面入侵先兆",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260322/1112413125551853568372861.jpeg/HmSMYQvyE-5-CNluUeE61KnKxjtdudGSvZNNsr2TTbI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60332959/%E7%BE%85%E6%B7%91%E4%BD%A9%E5%81%B7%E5%BE%97%E6%B5%AE%E7%94%9F%E5%8D%8A%E6%97%A5%E9%96%92%E6%B5%B7%E6%BF%B1%E6%95%A3%E6%AD%A5-%E9%81%A0%E7%9C%BA%E5%B0%96%E6%B2%99%E5%92%80%E5%95%9F%E5%BE%B7%E6%96%87%E9%AB%94%E6%97%85%E5%9C%B0%E6%A8%99%E6%89%93%E5%8D%A1",
     "timestamp": "2026-03-22T07:53:35.525Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "奧蘇利雲終再晉排名賽決賽　8強一棒153度創世界紀錄︱桌球",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260322/1112362514890362880046523.jpeg/ykL6jHWRd8sxFkpZBel0wF6eb6bne60SENFkABDRZAA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60332935/%E5%A5%A7%E8%98%87%E5%88%A9%E9%9B%B2%E7%B5%82%E5%86%8D%E6%99%89%E6%8E%92%E5%90%8D%E8%B3%BD%E6%B1%BA%E8%B3%BD-8%E5%BC%B7%E4%B8%80%E6%A3%92153%E5%BA%A6%E5%89%B5%E4%B8%96%E7%95%8C%E7%B4%80%E9%8C%84-%E6%A1%8C%E7%90%83",
-    "timestamp": "2026-03-22T07:11:01.503Z",
     "strategy": ".content-card__main"
   }
 ];
