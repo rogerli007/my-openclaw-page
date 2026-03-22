@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-22T21:50:51.115Z
+// Last updated: 2026-03-22T22:51:09.156Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "吳子冲親證離巢效力8年TVB未獲高層挽留：好耐冇見樂小姐、珍姐",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260322/1112513455639760896507312.jpeg/gMj00LWOT6-Bix4tNS18MItIxUJ6DbXUi59IQoufSEI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60332973/%E5%90%B3%E5%AD%90%E5%86%B2%E8%A6%AA%E8%AD%89%E9%9B%A2%E5%B7%A2%E6%95%88%E5%8A%9B8%E5%B9%B4tvb%E6%9C%AA%E7%8D%B2%E9%AB%98%E5%B1%A4%E6%8C%BD%E7%95%99-%E5%A5%BD%E8%80%90%E5%86%87%E8%A6%8B%E6%A8%82%E5%B0%8F%E5%A7%90-%E7%8F%8D%E5%A7%90",
+    "timestamp": "2026-03-22T22:51:09.156Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "澤連斯基：美烏代表團會談結束　有可能與俄進一步交換戰俘",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260322/1112365619124244480034652.jpeg/6RKJsBHgvpW0mpYY63NNeJhbavW1w5zh7SemFu0nphY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E4%B8%AD%E5%9C%8B%E8%A7%80%E5%AF%9F/60333000/%E5%9B%9B%E5%B7%9D%E7%B5%84%E7%B9%94%E9%83%A8%E9%95%B7%E9%9D%B3%E7%A3%8A%E5%8D%97%E4%B8%8B%E4%B8%BB%E6%94%BF%E6%B7%B1%E5%9C%B3-%E6%97%A2%E6%98%AF%E5%A7%94%E4%BB%A5%E9%87%8D%E4%BB%BB%E5%8F%88%E6%98%AF%E6%96%B0%E7%9A%84%E6%9C%9F%E6%9C%9B",
     "timestamp": "2026-03-22T12:19:51.722Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "男友前度總愛偷看限時動態？心理學家拆解6個真相：是自卑的表現",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260305/1106275518812000256238014.jpeg/RX5IPQkEk39gLsJ-PAek-4SprqR9bJX28LfqXvC36l4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%AB%87%E6%83%85%E8%AA%AA%E6%80%A7/60327738/%E7%94%B7%E5%8F%8B%E5%89%8D%E5%BA%A6%E7%B8%BD%E6%84%9B%E5%81%B7%E7%9C%8B%E9%99%90%E6%99%82%E5%8B%95%E6%85%8B-%E5%BF%83%E7%90%86%E5%AD%B8%E5%AE%B6%E6%8B%86%E8%A7%A36%E5%80%8B%E7%9C%9F%E7%9B%B8-%E6%98%AF%E8%87%AA%E5%8D%91%E7%9A%84%E8%A1%A8%E7%8F%BE",
-    "timestamp": "2026-03-22T11:56:47.008Z",
     "strategy": ".content-card__main"
   }
 ];
