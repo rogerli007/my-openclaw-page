@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-22T13:52:47.752Z
+// Last updated: 2026-03-22T14:51:02.175Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "荃錦公路牛隻遭私家車撞倒　受傷伏坐馬路中",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260322/1112519310711984128703821.jpeg/E0vmP1W-mNmPrfiOaYplHYUOxOhc9tJN6tlyjOrZcow?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60333028/%E8%8D%83%E9%8C%A6%E5%85%AC%E8%B7%AF%E7%89%9B%E9%9A%BB%E9%81%AD%E7%A7%81%E5%AE%B6%E8%BB%8A%E6%92%9E%E5%80%92-%E5%8F%97%E5%82%B7%E4%BC%8F%E5%9D%90%E9%A6%AC%E8%B7%AF%E4%B8%AD",
+    "timestamp": "2026-03-22T14:51:02.175Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "荃錦公路兩電單車相撞兩司機傷　其中1鐵騎士一度躺臥路中待援",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20240915/911813859327610880983517.jpeg/bwjkt1wGE-_rnwxfP5Loz47nzc827PIoeMXd_3jF3f8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60332899/g7%E6%93%AC%E6%8E%A1%E5%8F%96%E8%A1%8C%E5%8B%95%E4%BF%9D%E8%AD%B7%E5%85%A8%E7%90%83%E8%83%BD%E6%BA%90%E4%BE%9B%E6%87%89-%E4%B8%A6%E6%94%AF%E6%8C%81%E9%9C%8D%E7%88%BE%E6%9C%A8%E8%8C%B2%E6%B5%B7%E5%B3%BD%E5%AE%89%E5%85%A8",
     "timestamp": "2026-03-21T22:13:17.457Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "G7擬採取行動保護全球能源供應　並支持霍爾木茲海峽安全",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20240915/911813859327610880983517.jpeg/bwjkt1wGE-_rnwxfP5Loz47nzc827PIoeMXd_3jF3f8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60332899/g7%E6%93%AC%E6%8E%A1%E5%8F%96%E8%A1%8C%E5%8B%95%E4%BF%9D%E8%AD%B7%E5%85%A8%E7%90%83%E8%83%BD%E6%BA%90%E4%BE%9B%E6%87%89-%E4%B8%A6%E6%94%AF%E6%8C%81%E9%9C%8D%E7%88%BE%E6%9C%A8%E8%8C%B2%E6%B5%B7%E5%B3%BD%E5%AE%89%E5%85%A8",
-    "timestamp": "2026-03-21T21:57:53.715Z",
     "strategy": ".content-card__main"
   }
 ];
