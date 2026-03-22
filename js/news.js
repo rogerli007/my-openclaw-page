@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-22T17:14:28.164Z
+// Last updated: 2026-03-22T17:31:03.445Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "導演會頒獎2026｜吳君如超deep V亮相　約鏡仔打牌：係一個天仙局",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260323/1112543278646956032315047.jpeg/FOqkUJDI5fHTUpB_09o97RttvqqNetzJEcLCFxHCwhc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60333032/%E5%B0%8E%E6%BC%94%E6%9C%83%E9%A0%92%E7%8D%8E2026-%E5%90%B3%E5%90%9B%E5%A6%82%E8%B6%85deep-v%E4%BA%AE%E7%9B%B8-%E7%B4%84%E9%8F%A1%E4%BB%94%E6%89%93%E7%89%8C-%E4%BF%82%E4%B8%80%E5%80%8B%E5%A4%A9%E4%BB%99%E5%B1%80",
+    "timestamp": "2026-03-22T17:31:03.445Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "導演會頒獎2026｜吳君如超deep V亮相　約鏡仔打牌：係一個天仙局",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260321/1112113239728066560029584.jpeg/J2WBT3HuzRXZQ5VZLJhAu8kISiJV3CdDPvsfQz77H0M?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60332096/65%E6%AD%B2%E5%90%B3%E5%BB%B7%E7%87%81%E6%9A%B4%E7%98%A6%E9%9D%A2%E5%87%B9%E9%A0%B8%E9%83%A8%E9%9D%92%E7%AD%8B%E6%98%8E%E9%A1%AF-%E8%87%AA%E7%88%86%E5%9B%A0%E8%85%B8%E8%83%83%E7%82%8E%E7%8B%82%E5%B1%99%E8%82%9A%E4%BB%A4%E4%BA%BA%E6%93%94%E6%86%82",
     "timestamp": "2026-03-22T00:48:27.559Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "不滿麥炸雞賣完！阿叔大鬧麥當勞逼點餐：你們是服務業　結局絕了",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260319/1111381671711608832814296.jpeg/ITX7nPSj_4MzAV_c6K0wX3oUwlef_WfcmMKH8JjCh_A",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60332243/%E6%9C%89%E7%89%87-%E4%B8%8D%E6%BB%BF%E9%BA%A5%E7%82%B8%E9%9B%9E%E8%B3%A3%E5%AE%8C-%E9%98%BF%E5%8F%94%E5%A4%A7%E9%AC%A7%E9%BA%A5%E7%95%B6%E5%8B%9E%E9%80%BC%E5%A5%B3%E5%93%A1%E5%B7%A5%E9%BB%9E%E9%A4%90-%E5%A6%B3%E6%98%AF%E6%9C%8D%E5%8B%99%E6%A5%AD",
-    "timestamp": "2026-03-21T23:59:26.405Z",
     "strategy": ".content-card__main"
   }
 ];
