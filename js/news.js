@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-22T17:31:03.445Z
+// Last updated: 2026-03-22T17:52:48.933Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "OpenClaw｜國家互聯網應急中心發布使用指南　提供安全防護建議",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260323/1112560098330284032683127.jpeg/Puzf-h9Q_LYcZ6w0Wt-ATdkSFptKNOVLfo_4PX6P-D0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60333046/openclaw-%E5%9C%8B%E5%AE%B6%E4%BA%92%E8%81%AF%E7%B6%B2%E6%87%89%E6%80%A5%E4%B8%AD%E5%BF%83%E7%99%BC%E5%B8%83%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97-%E6%8F%90%E4%BE%9B%E5%AE%89%E5%85%A8%E9%98%B2%E8%AD%B7%E5%BB%BA%E8%AD%B0",
+    "timestamp": "2026-03-22T17:52:48.933Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "導演會頒獎2026｜吳君如超deep V亮相　約鏡仔打牌：係一個天仙局",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260319/1111333839466139648145967.jpeg/0cuiEyZtdpsGEibNGkoD0CFWTlqbJRBhkCdJ_ZAnSf0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/60319965/%E5%A5%B3%E6%80%A7%E5%81%A5%E5%BA%B7-%E5%81%9C%E7%B6%93%E5%BE%8C%E7%95%B0%E5%B8%B8%E5%87%BA%E8%A1%80%E6%81%90%E6%98%AF%E5%AD%90%E5%AE%AE%E5%85%A7%E8%86%9C%E7%99%8C-%E5%87%BA%E7%8F%BE%E9%80%99%E4%BA%9B%E7%97%87%E7%8B%80%E7%9B%A1%E5%BF%AB%E5%B0%B1%E9%86%AB",
     "timestamp": "2026-03-22T02:24:28.730Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "65歲吳廷燁暴瘦面凹頸部青筋明顯　自爆因腸胃炎狂屙肚令人擔憂",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260321/1112113239728066560029584.jpeg/J2WBT3HuzRXZQ5VZLJhAu8kISiJV3CdDPvsfQz77H0M?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60332096/65%E6%AD%B2%E5%90%B3%E5%BB%B7%E7%87%81%E6%9A%B4%E7%98%A6%E9%9D%A2%E5%87%B9%E9%A0%B8%E9%83%A8%E9%9D%92%E7%AD%8B%E6%98%8E%E9%A1%AF-%E8%87%AA%E7%88%86%E5%9B%A0%E8%85%B8%E8%83%83%E7%82%8E%E7%8B%82%E5%B1%99%E8%82%9A%E4%BB%A4%E4%BA%BA%E6%93%94%E6%86%82",
-    "timestamp": "2026-03-22T00:48:27.559Z",
     "strategy": ".content-card__main"
   }
 ];
