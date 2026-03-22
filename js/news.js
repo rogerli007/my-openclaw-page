@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-22T10:01:05.945Z
+// Last updated: 2026-03-22T11:30:51.286Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "赤膊男中環跑步　天文台料本周天晴炎熱　周三有3區氣溫現3字頭",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260322/1112445520732753920594780.jpeg/Ueh9TrBgzWqkrlKi183McNGXpHa2L9WIhYZ8V4WGfFc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60332985/%E8%B5%A4%E8%86%8A%E7%94%B7%E4%B8%AD%E7%92%B0%E8%B7%91%E6%AD%A5-%E5%A4%A9%E6%96%87%E5%8F%B0%E6%96%99%E6%9C%AC%E5%91%A8%E5%A4%A9%E6%99%B4%E7%82%8E%E7%86%B1-%E5%91%A8%E4%B8%89%E6%9C%893%E5%8D%80%E6%B0%A3%E6%BA%AB%E7%8F%BE3%E5%AD%97%E9%A0%AD",
+    "timestamp": "2026-03-22T11:30:51.286Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "兩男童疑天水圍商場廁內遭非禮身心受創　帖主：要發聲保護下一代",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20240915/911813859327610880983517.jpeg/bwjkt1wGE-_rnwxfP5Loz47nzc827PIoeMXd_3jF3f8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60332899/g7%E6%93%AC%E6%8E%A1%E5%8F%96%E8%A1%8C%E5%8B%95%E4%BF%9D%E8%AD%B7%E5%85%A8%E7%90%83%E8%83%BD%E6%BA%90%E4%BE%9B%E6%87%89-%E4%B8%A6%E6%94%AF%E6%8C%81%E9%9C%8D%E7%88%BE%E6%9C%A8%E8%8C%B2%E6%B5%B7%E5%B3%BD%E5%AE%89%E5%85%A8",
     "timestamp": "2026-03-21T20:31:18.425Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "「通俄門」特別檢察官米勒逝世享年81歲　特朗普：很高興他死了",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260322/1112199119163625472763521.jpeg/KFw0qWl1JChYLBpPub-CZ99AfvAwu0QdqG084qhtPOI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60332894/%E9%80%9A%E4%BF%84%E9%96%80-%E7%89%B9%E5%88%A5%E6%AA%A2%E5%AF%9F%E5%AE%98%E7%B1%B3%E5%8B%92%E9%80%9D%E4%B8%96%E4%BA%AB%E5%B9%B481%E6%AD%B2-%E7%89%B9%E6%9C%97%E6%99%AE-%E5%BE%88%E9%AB%98%E8%88%88%E4%BB%96%E6%AD%BB%E4%BA%86",
-    "timestamp": "2026-03-21T19:17:37.683Z",
     "strategy": ".content-card__main"
   }
 ];
