@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-22T00:48:27.559Z
+// Last updated: 2026-03-22T02:24:28.730Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "女性健康｜停經後異常出血恐是子宮內膜癌　出現這些症狀盡快就醫",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260319/1111333839466139648145967.jpeg/0cuiEyZtdpsGEibNGkoD0CFWTlqbJRBhkCdJ_ZAnSf0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/60319965/%E5%A5%B3%E6%80%A7%E5%81%A5%E5%BA%B7-%E5%81%9C%E7%B6%93%E5%BE%8C%E7%95%B0%E5%B8%B8%E5%87%BA%E8%A1%80%E6%81%90%E6%98%AF%E5%AD%90%E5%AE%AE%E5%85%A7%E8%86%9C%E7%99%8C-%E5%87%BA%E7%8F%BE%E9%80%99%E4%BA%9B%E7%97%87%E7%8B%80%E7%9B%A1%E5%BF%AB%E5%B0%B1%E9%86%AB",
+    "timestamp": "2026-03-22T02:24:28.730Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "65歲吳廷燁暴瘦面凹頸部青筋明顯　自爆因腸胃炎狂屙肚令人擔憂",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260322/1112180681519140864978640.jpeg/b7uU5Wy-gcolT1-xF4hMvDKhJQd9P_h-IsVQIyLFUCM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60332890/%E5%85%83%E6%9C%97%E9%9B%86%E9%81%8B%E8%87%AA%E6%8F%90%E9%BB%9E%E8%AE%8A%E5%9C%B0%E4%B8%8B%E8%B3%AD%E5%A0%B4-%E8%AD%A6%E6%8B%9823%E4%BA%BA-%E6%AA%A2%E6%95%B8%E5%8D%83%E5%85%83%E7%8F%BE%E9%87%91",
     "timestamp": "2026-03-21T16:31:46.708Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "重慶大學實驗室爆炸　學生1死3傷　疑因操作不當引發實驗物品閃爆",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260321/1112170217129119744031742.png/0uWebIQEoW0u3rBZQp5IdqHfp9IP98VrrDShJqw0oSY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60332885/%E9%87%8D%E6%85%B6%E5%A4%A7%E5%AD%B8%E5%AF%A6%E9%A9%97%E5%AE%A4%E7%88%86%E7%82%B8-%E5%AD%B8%E7%94%9F1%E6%AD%BB3%E5%82%B7-%E7%96%91%E5%9B%A0%E6%93%8D%E4%BD%9C%E4%B8%8D%E7%95%B6%E5%BC%95%E7%99%BC%E5%AF%A6%E9%A9%97%E7%89%A9%E5%93%81%E9%96%83%E7%88%86",
-    "timestamp": "2026-03-21T15:58:21.981Z",
     "strategy": ".content-card__main"
   }
 ];
