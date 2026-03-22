@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-22T18:36:21.273Z
+// Last updated: 2026-03-22T19:05:23.615Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "黎巴嫩總統：以軍攻擊基建及橋樑　地面入侵先兆",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260323/1112580968276824064273819.jpeg/sx54gf0ekCliHaRvN9sHh1bDPg3keVOt0mzSe9Js0ns?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60333051/%E9%BB%8E%E5%B7%B4%E5%AB%A9%E7%B8%BD%E7%B5%B1-%E4%BB%A5%E8%BB%8D%E6%94%BB%E6%93%8A%E5%9F%BA%E5%BB%BA%E5%8F%8A%E6%A9%8B%E6%A8%91-%E5%9C%B0%E9%9D%A2%E5%85%A5%E4%BE%B5%E5%85%88%E5%85%86",
+    "timestamp": "2026-03-22T19:05:23.615Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "OpenClaw｜國家互聯網應急中心發布使用指南　提供安全防護建議",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260322/1112362514890362880046523.jpeg/ykL6jHWRd8sxFkpZBel0wF6eb6bne60SENFkABDRZAA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60332935/%E5%A5%A7%E8%98%87%E5%88%A9%E9%9B%B2%E7%B5%82%E5%86%8D%E6%99%89%E6%8E%92%E5%90%8D%E8%B3%BD%E6%B1%BA%E8%B3%BD-8%E5%BC%B7%E4%B8%80%E6%A3%92153%E5%BA%A6%E5%89%B5%E4%B8%96%E7%95%8C%E7%B4%80%E9%8C%84-%E6%A1%8C%E7%90%83",
     "timestamp": "2026-03-22T07:11:01.503Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "中國發展高層論壇｜李強：中國致力於做世界的「確定性基石」",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260305/1106153907451072512418967.png/LV-4jom5cuxFAZP3I36EABlRJRJAG8f8vvqZ4776meM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60332945/%E4%B8%AD%E5%9C%8B%E7%99%BC%E5%B1%95%E9%AB%98%E5%B1%A4%E8%AB%96%E5%A3%87-%E6%9D%8E%E5%BC%B7-%E4%B8%AD%E5%9C%8B%E8%87%B4%E5%8A%9B%E6%96%BC%E5%81%9A%E4%B8%96%E7%95%8C%E7%9A%84-%E7%A2%BA%E5%AE%9A%E6%80%A7%E5%9F%BA%E7%9F%B3",
-    "timestamp": "2026-03-22T06:38:10.279Z",
     "strategy": ".content-card__main"
   }
 ];
