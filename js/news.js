@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-22T05:44:05.708Z
+// Last updated: 2026-03-22T06:38:10.279Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "中國發展高層論壇｜李強：中國致力於做世界的「確定性基石」",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260305/1106153907451072512418967.png/LV-4jom5cuxFAZP3I36EABlRJRJAG8f8vvqZ4776meM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60332945/%E4%B8%AD%E5%9C%8B%E7%99%BC%E5%B1%95%E9%AB%98%E5%B1%A4%E8%AB%96%E5%A3%87-%E6%9D%8E%E5%BC%B7-%E4%B8%AD%E5%9C%8B%E8%87%B4%E5%8A%9B%E6%96%BC%E5%81%9A%E4%B8%96%E7%95%8C%E7%9A%84-%E7%A2%BA%E5%AE%9A%E6%80%A7%E5%9F%BA%E7%9F%B3",
+    "timestamp": "2026-03-22T06:38:10.279Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "英航香港飛倫敦航班一乘客身亡　機長拒折返　遺體放機尾傳惡臭",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260321/1112170741698138112930862.jpeg/bAFhmq--65riNvHXZwPbnAOvI3iZU19jvxP8cL8T_HA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60332882/%E4%BA%94%E6%9C%88%E5%A4%A9%E5%9B%A0%E8%AA%BF%E5%A0%B4%E9%A2%A8%E6%B3%A2%E6%83%B9%E4%B8%8D%E6%BB%BF-%E9%81%8E%E7%99%BE%E7%B2%89%E7%B5%B2%E7%84%A1%E5%8F%97%E5%BD%B1%E9%9F%BF%E7%B9%BC%E7%BA%8C%E6%8E%92%E9%9A%8A%E7%AD%89%E8%B2%B7%E5%91%A8%E9%82%8A",
     "timestamp": "2026-03-21T17:19:40.702Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "五月天因調場風波惹不滿　過百粉絲無受影響繼續排隊等買周邊",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260321/1112170741698138112930862.jpeg/bAFhmq--65riNvHXZwPbnAOvI3iZU19jvxP8cL8T_HA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60332882/%E4%BA%94%E6%9C%88%E5%A4%A9%E5%9B%A0%E8%AA%BF%E5%A0%B4%E9%A2%A8%E6%B3%A2%E6%83%B9%E4%B8%8D%E6%BB%BF-%E9%81%8E%E7%99%BE%E7%B2%89%E7%B5%B2%E7%84%A1%E5%8F%97%E5%BD%B1%E9%9F%BF%E7%B9%BC%E7%BA%8C%E6%8E%92%E9%9A%8A%E7%AD%89%E8%B2%B7%E5%91%A8%E9%82%8A",
-    "timestamp": "2026-03-21T16:50:57.657Z",
     "strategy": ".content-card__main"
   }
 ];
