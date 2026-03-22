@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-22T02:24:28.730Z
+// Last updated: 2026-03-22T05:44:05.708Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "英航香港飛倫敦航班一乘客身亡　機長拒折返　遺體放機尾傳惡臭",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20210629/486481412845735936936501.jpeg/2SZREneEzJC9gNYXCiF_v-N7_tXW_QqG8kqZjvJKmY4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60332943/%E8%8B%B1%E8%88%AA%E9%A6%99%E6%B8%AF%E9%A3%9B%E5%80%AB%E6%95%A6%E8%88%AA%E7%8F%AD%E4%B8%80%E4%B9%98%E5%AE%A2%E8%BA%AB%E4%BA%A1-%E6%A9%9F%E9%95%B7%E6%8B%92%E6%8A%98%E8%BF%94-%E9%81%BA%E9%AB%94%E6%94%BE%E6%A9%9F%E5%B0%BE%E5%82%B3%E6%83%A1%E8%87%AD",
+    "timestamp": "2026-03-22T05:44:05.708Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "女性健康｜停經後異常出血恐是子宮內膜癌　出現這些症狀盡快就醫",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260321/1112170741698138112930862.jpeg/bAFhmq--65riNvHXZwPbnAOvI3iZU19jvxP8cL8T_HA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60332882/%E4%BA%94%E6%9C%88%E5%A4%A9%E5%9B%A0%E8%AA%BF%E5%A0%B4%E9%A2%A8%E6%B3%A2%E6%83%B9%E4%B8%8D%E6%BB%BF-%E9%81%8E%E7%99%BE%E7%B2%89%E7%B5%B2%E7%84%A1%E5%8F%97%E5%BD%B1%E9%9F%BF%E7%B9%BC%E7%BA%8C%E6%8E%92%E9%9A%8A%E7%AD%89%E8%B2%B7%E5%91%A8%E9%82%8A",
     "timestamp": "2026-03-21T16:50:57.657Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "元朗集運自提點變地下賭場　警拘23人　檢數千元現金",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260322/1112180681519140864978640.jpeg/b7uU5Wy-gcolT1-xF4hMvDKhJQd9P_h-IsVQIyLFUCM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60332890/%E5%85%83%E6%9C%97%E9%9B%86%E9%81%8B%E8%87%AA%E6%8F%90%E9%BB%9E%E8%AE%8A%E5%9C%B0%E4%B8%8B%E8%B3%AD%E5%A0%B4-%E8%AD%A6%E6%8B%9823%E4%BA%BA-%E6%AA%A2%E6%95%B8%E5%8D%83%E5%85%83%E7%8F%BE%E9%87%91",
-    "timestamp": "2026-03-21T16:31:46.708Z",
     "strategy": ".content-card__main"
   }
 ];
