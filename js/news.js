@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-22T18:18:35.714Z
+// Last updated: 2026-03-22T18:36:21.273Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "OpenClaw｜國家互聯網應急中心發布使用指南　提供安全防護建議",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260323/1112560098330284032683127.jpeg/Puzf-h9Q_LYcZ6w0Wt-ATdkSFptKNOVLfo_4PX6P-D0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60333046/openclaw-%E5%9C%8B%E5%AE%B6%E4%BA%92%E8%81%AF%E7%B6%B2%E6%87%89%E6%80%A5%E4%B8%AD%E5%BF%83%E7%99%BC%E5%B8%83%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97-%E6%8F%90%E4%BE%9B%E5%AE%89%E5%85%A8%E9%98%B2%E8%AD%B7%E5%BB%BA%E8%AD%B0",
+    "timestamp": "2026-03-22T18:36:21.273Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "OpenClaw｜國家互聯網應急中心發布使用指南　提供安全防護建議",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260305/1106153907451072512418967.png/LV-4jom5cuxFAZP3I36EABlRJRJAG8f8vvqZ4776meM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60332945/%E4%B8%AD%E5%9C%8B%E7%99%BC%E5%B1%95%E9%AB%98%E5%B1%A4%E8%AB%96%E5%A3%87-%E6%9D%8E%E5%BC%B7-%E4%B8%AD%E5%9C%8B%E8%87%B4%E5%8A%9B%E6%96%BC%E5%81%9A%E4%B8%96%E7%95%8C%E7%9A%84-%E7%A2%BA%E5%AE%9A%E6%80%A7%E5%9F%BA%E7%9F%B3",
     "timestamp": "2026-03-22T06:38:10.279Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "英航香港飛倫敦航班一乘客身亡　機長拒折返　遺體放機尾傳惡臭",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20210629/486481412845735936936501.jpeg/2SZREneEzJC9gNYXCiF_v-N7_tXW_QqG8kqZjvJKmY4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60332943/%E8%8B%B1%E8%88%AA%E9%A6%99%E6%B8%AF%E9%A3%9B%E5%80%AB%E6%95%A6%E8%88%AA%E7%8F%AD%E4%B8%80%E4%B9%98%E5%AE%A2%E8%BA%AB%E4%BA%A1-%E6%A9%9F%E9%95%B7%E6%8B%92%E6%8A%98%E8%BF%94-%E9%81%BA%E9%AB%94%E6%94%BE%E6%A9%9F%E5%B0%BE%E5%82%B3%E6%83%A1%E8%87%AD",
-    "timestamp": "2026-03-22T05:44:05.708Z",
     "strategy": ".content-card__main"
   }
 ];
