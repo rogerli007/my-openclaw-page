@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-22T11:30:51.286Z
+// Last updated: 2026-03-22T11:46:03.265Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "男友前度總愛偷看限時動態？心理學家拆解6個真相：是自卑的表現",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260305/1106275518812000256238014.jpeg/RX5IPQkEk39gLsJ-PAek-4SprqR9bJX28LfqXvC36l4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%AB%87%E6%83%85%E8%AA%AA%E6%80%A7/60327738/%E7%94%B7%E5%8F%8B%E5%89%8D%E5%BA%A6%E7%B8%BD%E6%84%9B%E5%81%B7%E7%9C%8B%E9%99%90%E6%99%82%E5%8B%95%E6%85%8B-%E5%BF%83%E7%90%86%E5%AD%B8%E5%AE%B6%E6%8B%86%E8%A7%A36%E5%80%8B%E7%9C%9F%E7%9B%B8-%E6%98%AF%E8%87%AA%E5%8D%91%E7%9A%84%E8%A1%A8%E7%8F%BE",
+    "timestamp": "2026-03-22T11:46:03.265Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "赤膊男中環跑步　天文台料本周天晴炎熱　周三有3區氣溫現3字頭",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20240915/911813859327610880983517.jpeg/bwjkt1wGE-_rnwxfP5Loz47nzc827PIoeMXd_3jF3f8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60332899/g7%E6%93%AC%E6%8E%A1%E5%8F%96%E8%A1%8C%E5%8B%95%E4%BF%9D%E8%AD%B7%E5%85%A8%E7%90%83%E8%83%BD%E6%BA%90%E4%BE%9B%E6%87%89-%E4%B8%A6%E6%94%AF%E6%8C%81%E9%9C%8D%E7%88%BE%E6%9C%A8%E8%8C%B2%E6%B5%B7%E5%B3%BD%E5%AE%89%E5%85%A8",
     "timestamp": "2026-03-21T20:48:08.511Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "G7擬採取行動保護全球能源供應　並支持霍爾木茲海峽安全",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20240915/911813859327610880983517.jpeg/bwjkt1wGE-_rnwxfP5Loz47nzc827PIoeMXd_3jF3f8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60332899/g7%E6%93%AC%E6%8E%A1%E5%8F%96%E8%A1%8C%E5%8B%95%E4%BF%9D%E8%AD%B7%E5%85%A8%E7%90%83%E8%83%BD%E6%BA%90%E4%BE%9B%E6%87%89-%E4%B8%A6%E6%94%AF%E6%8C%81%E9%9C%8D%E7%88%BE%E6%9C%A8%E8%8C%B2%E6%B5%B7%E5%B3%BD%E5%AE%89%E5%85%A8",
-    "timestamp": "2026-03-21T20:31:18.425Z",
     "strategy": ".content-card__main"
   }
 ];
