@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-22T07:53:35.525Z
+// Last updated: 2026-03-22T08:18:39.218Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "伊朗威脅攻擊3類設施　美智庫：若海水化淡廠遭重創　恐影響1億人",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260322/1112402715108970496914582.jpeg/yshCC1PZzehj9wYaXyui2ImBne_cIN334QxdreEMXa0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60332952/%E4%BC%8A%E6%9C%97%E5%A8%81%E8%84%85%E6%94%BB%E6%93%8A3%E9%A1%9E%E8%A8%AD%E6%96%BD-%E7%BE%8E%E6%99%BA%E5%BA%AB-%E8%8B%A5%E6%B5%B7%E6%B0%B4%E5%8C%96%E6%B7%A1%E5%BB%A0%E9%81%AD%E9%87%8D%E5%89%B5-%E6%81%90%E5%BD%B1%E9%9F%BF1%E5%84%84%E4%BA%BA",
+    "timestamp": "2026-03-22T08:18:39.218Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "羅淑佩偷得浮生半日閒海濱散步　遠眺尖沙咀啟德文體旅地標打卡",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260322/1112199718655496192641920.jpeg/jQrgZ8oiEtfCLw2KNrwMtBdSbtm0Z8_oJuWO1ybljtc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60332892/%E5%A4%9C%E7%8E%8B-%E7%A5%A8%E6%88%BF%E7%A0%B41%E5%84%84%E9%BB%83%E5%AD%90%E8%8F%AF%E8%AB%8B%E9%A3%9F%E9%AD%9A%E8%9B%8B-%E5%B0%8E%E6%BC%94%E5%90%B3%E7%85%92%E5%80%AB-%E5%A4%9A%E8%AC%9D%E6%9C%80%E5%8F%AF%E6%84%9B%E7%9A%84%E8%A7%80%E7%9C%BE",
     "timestamp": "2026-03-21T18:18:02.252Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "夜王｜票房破1億黃子華請食魚蛋　導演吳煒倫︰多謝最可愛的觀眾",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260322/1112199718655496192641920.jpeg/jQrgZ8oiEtfCLw2KNrwMtBdSbtm0Z8_oJuWO1ybljtc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60332892/%E5%A4%9C%E7%8E%8B-%E7%A5%A8%E6%88%BF%E7%A0%B41%E5%84%84%E9%BB%83%E5%AD%90%E8%8F%AF%E8%AB%8B%E9%A3%9F%E9%AD%9A%E8%9B%8B-%E5%B0%8E%E6%BC%94%E5%90%B3%E7%85%92%E5%80%AB-%E5%A4%9A%E8%AC%9D%E6%9C%80%E5%8F%AF%E6%84%9B%E7%9A%84%E8%A7%80%E7%9C%BE",
-    "timestamp": "2026-03-21T17:47:00.199Z",
     "strategy": ".content-card__main"
   }
 ];
