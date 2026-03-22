@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-22T17:52:48.933Z
+// Last updated: 2026-03-22T18:18:35.714Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "OpenClaw｜國家互聯網應急中心發布使用指南　提供安全防護建議",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260323/1112560098330284032683127.jpeg/Puzf-h9Q_LYcZ6w0Wt-ATdkSFptKNOVLfo_4PX6P-D0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60333046/openclaw-%E5%9C%8B%E5%AE%B6%E4%BA%92%E8%81%AF%E7%B6%B2%E6%87%89%E6%80%A5%E4%B8%AD%E5%BF%83%E7%99%BC%E5%B8%83%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97-%E6%8F%90%E4%BE%9B%E5%AE%89%E5%85%A8%E9%98%B2%E8%AD%B7%E5%BB%BA%E8%AD%B0",
+    "timestamp": "2026-03-22T18:18:35.714Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "OpenClaw｜國家互聯網應急中心發布使用指南　提供安全防護建議",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20210629/486481412845735936936501.jpeg/2SZREneEzJC9gNYXCiF_v-N7_tXW_QqG8kqZjvJKmY4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60332943/%E8%8B%B1%E8%88%AA%E9%A6%99%E6%B8%AF%E9%A3%9B%E5%80%AB%E6%95%A6%E8%88%AA%E7%8F%AD%E4%B8%80%E4%B9%98%E5%AE%A2%E8%BA%AB%E4%BA%A1-%E6%A9%9F%E9%95%B7%E6%8B%92%E6%8A%98%E8%BF%94-%E9%81%BA%E9%AB%94%E6%94%BE%E6%A9%9F%E5%B0%BE%E5%82%B3%E6%83%A1%E8%87%AD",
     "timestamp": "2026-03-22T05:44:05.708Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "女性健康｜停經後異常出血恐是子宮內膜癌　出現這些症狀盡快就醫",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260319/1111333839466139648145967.jpeg/0cuiEyZtdpsGEibNGkoD0CFWTlqbJRBhkCdJ_ZAnSf0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/60319965/%E5%A5%B3%E6%80%A7%E5%81%A5%E5%BA%B7-%E5%81%9C%E7%B6%93%E5%BE%8C%E7%95%B0%E5%B8%B8%E5%87%BA%E8%A1%80%E6%81%90%E6%98%AF%E5%AD%90%E5%AE%AE%E5%85%A7%E8%86%9C%E7%99%8C-%E5%87%BA%E7%8F%BE%E9%80%99%E4%BA%9B%E7%97%87%E7%8B%80%E7%9B%A1%E5%BF%AB%E5%B0%B1%E9%86%AB",
-    "timestamp": "2026-03-22T02:24:28.730Z",
     "strategy": ".content-card__main"
   }
 ];
