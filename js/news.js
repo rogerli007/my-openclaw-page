@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-22T11:56:47.008Z
+// Last updated: 2026-03-22T12:19:51.722Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "四川組織部長靳磊南下主政深圳　既是委以重任又是新的期望",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260322/1112365619124244480034652.jpeg/6RKJsBHgvpW0mpYY63NNeJhbavW1w5zh7SemFu0nphY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E4%B8%AD%E5%9C%8B%E8%A7%80%E5%AF%9F/60333000/%E5%9B%9B%E5%B7%9D%E7%B5%84%E7%B9%94%E9%83%A8%E9%95%B7%E9%9D%B3%E7%A3%8A%E5%8D%97%E4%B8%8B%E4%B8%BB%E6%94%BF%E6%B7%B1%E5%9C%B3-%E6%97%A2%E6%98%AF%E5%A7%94%E4%BB%A5%E9%87%8D%E4%BB%BB%E5%8F%88%E6%98%AF%E6%96%B0%E7%9A%84%E6%9C%9F%E6%9C%9B",
+    "timestamp": "2026-03-22T12:19:51.722Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "男友前度總愛偷看限時動態？心理學家拆解6個真相：是自卑的表現",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20240915/911813859327610880983517.jpeg/bwjkt1wGE-_rnwxfP5Loz47nzc827PIoeMXd_3jF3f8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60332899/g7%E6%93%AC%E6%8E%A1%E5%8F%96%E8%A1%8C%E5%8B%95%E4%BF%9D%E8%AD%B7%E5%85%A8%E7%90%83%E8%83%BD%E6%BA%90%E4%BE%9B%E6%87%89-%E4%B8%A6%E6%94%AF%E6%8C%81%E9%9C%8D%E7%88%BE%E6%9C%A8%E8%8C%B2%E6%B5%B7%E5%B3%BD%E5%AE%89%E5%85%A8",
     "timestamp": "2026-03-21T21:18:24.193Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "G7擬採取行動保護全球能源供應　並支持霍爾木茲海峽安全",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20240915/911813859327610880983517.jpeg/bwjkt1wGE-_rnwxfP5Loz47nzc827PIoeMXd_3jF3f8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60332899/g7%E6%93%AC%E6%8E%A1%E5%8F%96%E8%A1%8C%E5%8B%95%E4%BF%9D%E8%AD%B7%E5%85%A8%E7%90%83%E8%83%BD%E6%BA%90%E4%BE%9B%E6%87%89-%E4%B8%A6%E6%94%AF%E6%8C%81%E9%9C%8D%E7%88%BE%E6%9C%A8%E8%8C%B2%E6%B5%B7%E5%B3%BD%E5%AE%89%E5%85%A8",
-    "timestamp": "2026-03-21T21:00:03.071Z",
     "strategy": ".content-card__main"
   }
 ];
