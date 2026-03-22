@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-22T07:11:01.503Z
+// Last updated: 2026-03-22T07:53:35.525Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "羅淑佩偷得浮生半日閒海濱散步　遠眺尖沙咀啟德文體旅地標打卡",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260322/1112413125551853568372861.jpeg/HmSMYQvyE-5-CNluUeE61KnKxjtdudGSvZNNsr2TTbI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60332959/%E7%BE%85%E6%B7%91%E4%BD%A9%E5%81%B7%E5%BE%97%E6%B5%AE%E7%94%9F%E5%8D%8A%E6%97%A5%E9%96%92%E6%B5%B7%E6%BF%B1%E6%95%A3%E6%AD%A5-%E9%81%A0%E7%9C%BA%E5%B0%96%E6%B2%99%E5%92%80%E5%95%9F%E5%BE%B7%E6%96%87%E9%AB%94%E6%97%85%E5%9C%B0%E6%A8%99%E6%89%93%E5%8D%A1",
+    "timestamp": "2026-03-22T07:53:35.525Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "奧蘇利雲終再晉排名賽決賽　8強一棒153度創世界紀錄︱桌球",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260322/1112199718655496192641920.jpeg/jQrgZ8oiEtfCLw2KNrwMtBdSbtm0Z8_oJuWO1ybljtc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60332892/%E5%A4%9C%E7%8E%8B-%E7%A5%A8%E6%88%BF%E7%A0%B41%E5%84%84%E9%BB%83%E5%AD%90%E8%8F%AF%E8%AB%8B%E9%A3%9F%E9%AD%9A%E8%9B%8B-%E5%B0%8E%E6%BC%94%E5%90%B3%E7%85%92%E5%80%AB-%E5%A4%9A%E8%AC%9D%E6%9C%80%E5%8F%AF%E6%84%9B%E7%9A%84%E8%A7%80%E7%9C%BE",
     "timestamp": "2026-03-21T17:47:00.199Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "五月天因調場風波惹不滿　過百粉絲無受影響繼續排隊等買周邊",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260321/1112170741698138112930862.jpeg/bAFhmq--65riNvHXZwPbnAOvI3iZU19jvxP8cL8T_HA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60332882/%E4%BA%94%E6%9C%88%E5%A4%A9%E5%9B%A0%E8%AA%BF%E5%A0%B4%E9%A2%A8%E6%B3%A2%E6%83%B9%E4%B8%8D%E6%BB%BF-%E9%81%8E%E7%99%BE%E7%B2%89%E7%B5%B2%E7%84%A1%E5%8F%97%E5%BD%B1%E9%9F%BF%E7%B9%BC%E7%BA%8C%E6%8E%92%E9%9A%8A%E7%AD%89%E8%B2%B7%E5%91%A8%E9%82%8A",
-    "timestamp": "2026-03-21T17:31:31.902Z",
     "strategy": ".content-card__main"
   }
 ];
