@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-22T19:19:46.161Z
+// Last updated: 2026-03-22T19:55:52.606Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "以軍轟炸黎巴嫩南部橋樑　宣布擴大攻勢推進地面行動",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260323/1112580968276824064273819.jpeg/sx54gf0ekCliHaRvN9sHh1bDPg3keVOt0mzSe9Js0ns?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60333051/%E4%BB%A5%E8%BB%8D%E8%BD%9F%E7%82%B8%E9%BB%8E%E5%B7%B4%E5%AB%A9%E5%8D%97%E9%83%A8%E6%A9%8B%E6%A8%91-%E5%AE%A3%E5%B8%83%E6%93%B4%E5%A4%A7%E6%94%BB%E5%8B%A2%E6%8E%A8%E9%80%B2%E5%9C%B0%E9%9D%A2%E8%A1%8C%E5%8B%95",
+    "timestamp": "2026-03-22T19:55:52.606Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "黎巴嫩總統：以軍攻擊基建及橋樑　地面入侵先兆",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260322/1112402715108970496914582.jpeg/yshCC1PZzehj9wYaXyui2ImBne_cIN334QxdreEMXa0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60332952/%E4%BC%8A%E6%9C%97%E5%A8%81%E8%84%85%E6%94%BB%E6%93%8A3%E9%A1%9E%E8%A8%AD%E6%96%BD-%E7%BE%8E%E6%99%BA%E5%BA%AB-%E8%8B%A5%E6%B5%B7%E6%B0%B4%E5%8C%96%E6%B7%A1%E5%BB%A0%E9%81%AD%E9%87%8D%E5%89%B5-%E6%81%90%E5%BD%B1%E9%9F%BF1%E5%84%84%E4%BA%BA",
     "timestamp": "2026-03-22T08:18:39.218Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "羅淑佩偷得浮生半日閒海濱散步　遠眺尖沙咀啟德文體旅地標打卡",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260322/1112413125551853568372861.jpeg/HmSMYQvyE-5-CNluUeE61KnKxjtdudGSvZNNsr2TTbI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60332959/%E7%BE%85%E6%B7%91%E4%BD%A9%E5%81%B7%E5%BE%97%E6%B5%AE%E7%94%9F%E5%8D%8A%E6%97%A5%E9%96%92%E6%B5%B7%E6%BF%B1%E6%95%A3%E6%AD%A5-%E9%81%A0%E7%9C%BA%E5%B0%96%E6%B2%99%E5%92%80%E5%95%9F%E5%BE%B7%E6%96%87%E9%AB%94%E6%97%85%E5%9C%B0%E6%A8%99%E6%89%93%E5%8D%A1",
-    "timestamp": "2026-03-22T07:53:35.525Z",
     "strategy": ".content-card__main"
   }
 ];
