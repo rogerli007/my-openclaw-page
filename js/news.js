@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-22T22:51:09.156Z
+// Last updated: 2026-03-22T23:18:00.728Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "發飆對伊朗下48小時最後通牒　但這反而證明特朗普是「廢物」？",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260321/1111903757966249984650371.jpeg/gl_8klMsXlNTb1npMhCixFfdBZfBmuE2J2-i6Cdvoug?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%9C%8B%E9%9A%9B%E5%88%86%E6%9E%90/60333049/%E7%99%BC%E9%A3%86%E5%B0%8D%E4%BC%8A%E6%9C%97%E4%B8%8B48%E5%B0%8F%E6%99%82%E6%9C%80%E5%BE%8C%E9%80%9A%E7%89%92-%E4%BD%86%E9%80%99%E5%8F%8D%E8%80%8C%E8%AD%89%E6%98%8E%E7%89%B9%E6%9C%97%E6%99%AE%E6%98%AF%E5%BB%A2%E7%89%A9",
+    "timestamp": "2026-03-22T23:18:00.728Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "吳子冲親證離巢效力8年TVB未獲高層挽留：好耐冇見樂小姐、珍姐",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260322/1112480345246142464794638.jpeg/CKLcnll3QzjPxMDRrEjrYOeP5XZ6NabCQ3g_DUN4Pw0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60333009/%E4%BD%95%E6%96%87%E7%94%B0%E7%B7%A9%E8%B7%91%E5%BE%91%E8%B5%B7%E9%BB%9E%E8%8B%B1%E6%96%87start%E8%AE%8A-strat-%E5%B1%85%E6%B0%91%E6%89%B9%E9%9B%A2%E8%AD%9C-%E5%B0%8F%E5%AD%B8%E7%94%9F%E9%83%BD%E8%AD%98",
     "timestamp": "2026-03-22T12:53:42.053Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "四川組織部長靳磊南下主政深圳　既是委以重任又是新的期望",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260322/1112365619124244480034652.jpeg/6RKJsBHgvpW0mpYY63NNeJhbavW1w5zh7SemFu0nphY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E4%B8%AD%E5%9C%8B%E8%A7%80%E5%AF%9F/60333000/%E5%9B%9B%E5%B7%9D%E7%B5%84%E7%B9%94%E9%83%A8%E9%95%B7%E9%9D%B3%E7%A3%8A%E5%8D%97%E4%B8%8B%E4%B8%BB%E6%94%BF%E6%B7%B1%E5%9C%B3-%E6%97%A2%E6%98%AF%E5%A7%94%E4%BB%A5%E9%87%8D%E4%BB%BB%E5%8F%88%E6%98%AF%E6%96%B0%E7%9A%84%E6%9C%9F%E6%9C%9B",
-    "timestamp": "2026-03-22T12:19:51.722Z",
     "strategy": ".content-card__main"
   }
 ];
