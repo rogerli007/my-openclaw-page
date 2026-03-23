@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-23T11:11:49.322Z
+// Last updated: 2026-03-23T11:37:11.327Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "習近平在河北雄安新區考察",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260323/1112833639302828032875916.jpeg/XLYLkwYKq6ozlOHrC_EIRKUgqCPE-Ja9fD63a3w-t2s?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60333389/%E7%BF%92%E8%BF%91%E5%B9%B3%E5%9C%A8%E6%B2%B3%E5%8C%97%E9%9B%84%E5%AE%89%E6%96%B0%E5%8D%80%E8%80%83%E5%AF%9F",
+    "timestamp": "2026-03-23T11:37:11.327Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "日出康城海瑅灣I 招標沽19伙　四房逾2692萬沽、呎價2.33萬雙創頂",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260323/1112580968276824064273819.jpeg/sx54gf0ekCliHaRvN9sHh1bDPg3keVOt0mzSe9Js0ns?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60333051/%E9%BB%8E%E5%B7%B4%E5%AB%A9%E7%B8%BD%E7%B5%B1-%E4%BB%A5%E8%BB%8D%E6%94%BB%E6%93%8A%E5%9F%BA%E5%BB%BA%E5%8F%8A%E6%A9%8B%E6%A8%91-%E5%9C%B0%E9%9D%A2%E5%85%A5%E4%BE%B5%E5%85%88%E5%85%86",
     "timestamp": "2026-03-22T19:19:46.161Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "黎巴嫩總統：以軍攻擊基建及橋樑　地面入侵先兆",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260323/1112580968276824064273819.jpeg/sx54gf0ekCliHaRvN9sHh1bDPg3keVOt0mzSe9Js0ns?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60333051/%E9%BB%8E%E5%B7%B4%E5%AB%A9%E7%B8%BD%E7%B5%B1-%E4%BB%A5%E8%BB%8D%E6%94%BB%E6%93%8A%E5%9F%BA%E5%BB%BA%E5%8F%8A%E6%A9%8B%E6%A8%91-%E5%9C%B0%E9%9D%A2%E5%85%A5%E4%BE%B5%E5%85%88%E5%85%86",
-    "timestamp": "2026-03-22T19:05:23.615Z",
     "strategy": ".content-card__main"
   }
 ];
