@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-23T16:12:03.596Z
+// Last updated: 2026-03-23T16:39:28.797Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "波波現身亞博睇騷被捕獲狂自拍　網民：見到靚女有冇人知邊個？",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260323/1112836683432202240683210.jpeg/EGpOshvDQmJjb2phoS0nmYZ7br63XrjjlwH9T5cB_U8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60333191/%E6%B3%A2%E6%B3%A2%E7%8F%BE%E8%BA%AB%E4%BA%9E%E5%8D%9A%E7%9D%87%E9%A8%B7%E8%A2%AB%E6%8D%95%E7%8D%B2%E7%8B%82%E8%87%AA%E6%8B%8D-%E7%B6%B2%E6%B0%91-%E8%A6%8B%E5%88%B0%E9%9D%9A%E5%A5%B3%E6%9C%89%E5%86%87%E4%BA%BA%E7%9F%A5%E9%82%8A%E5%80%8B",
+    "timestamp": "2026-03-23T16:39:28.797Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "ITZY演唱會2026香港｜Trip／信用卡優先及公售攻略｜座位表+連結",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260322/1112513455639760896507312.jpeg/gMj00LWOT6-Bix4tNS18MItIxUJ6DbXUi59IQoufSEI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60332973/%E5%90%B3%E5%AD%90%E5%86%B2%E8%A6%AA%E8%AD%89%E9%9B%A2%E5%B7%A2%E6%95%88%E5%8A%9B8%E5%B9%B4tvb%E6%9C%AA%E7%8D%B2%E9%AB%98%E5%B1%A4%E6%8C%BD%E7%95%99-%E5%A5%BD%E8%80%90%E5%86%87%E8%A6%8B%E6%A8%82%E5%B0%8F%E5%A7%90-%E7%8F%8D%E5%A7%90",
     "timestamp": "2026-03-22T22:51:09.156Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "澤連斯基：美烏代表團會談結束　有可能與俄進一步交換戰俘",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250420/990459635527847936638157.jpeg/EpdejqBicMH1TrsgC_4OI-U_z6OvOr04JxW_qScVv6k?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60333054/%E6%BE%A4%E9%80%A3%E6%96%AF%E5%9F%BA-%E7%BE%8E%E7%83%8F%E4%BB%A3%E8%A1%A8%E5%9C%98%E6%9C%83%E8%AB%87%E7%B5%90%E6%9D%9F-%E6%9C%89%E5%8F%AF%E8%83%BD%E8%88%87%E4%BF%84%E9%80%B2%E4%B8%80%E6%AD%A5%E4%BA%A4%E6%8F%9B%E6%88%B0%E4%BF%98",
-    "timestamp": "2026-03-22T21:50:51.115Z",
     "strategy": ".content-card__main"
   }
 ];
