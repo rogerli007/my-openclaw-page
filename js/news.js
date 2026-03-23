@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-23T20:04:40.235Z
+// Last updated: 2026-03-23T20:27:55.268Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "特朗普：正與伊朗討論結束戰事15點協議　已取得重大共識",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260324/1112933973169803264094375.jpeg/uCJz5Nqk1CTGuAf56qZzPeaUF2xtnqRYe8_HMnvPxzI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60333432/%E7%89%B9%E6%9C%97%E6%99%AE-%E6%AD%A3%E8%88%87%E4%BC%8A%E6%9C%97%E8%A8%8E%E8%AB%96%E7%B5%90%E6%9D%9F%E6%88%B0%E4%BA%8B15%E9%BB%9E%E5%8D%94%E8%AD%B0-%E5%B7%B2%E5%8F%96%E5%BE%97%E9%87%8D%E5%A4%A7%E5%85%B1%E8%AD%98",
+    "timestamp": "2026-03-23T20:27:55.268Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "特朗普：正與伊朗討論結束戰事15點協議　已取得重大共識",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260323/1112781861374922752071564.png/aW1fG8bvX-M787VN61jea7TavmvIDsdhpDAkbKQwJGw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60333198/%E9%9F%93%E5%9C%8Bwowpass%E6%80%8E%E9%BA%BC%E7%94%A8-%E8%B3%BC%E7%89%A9%E4%BA%A4%E9%80%9A%E9%81%A9%E7%94%A8-%E6%89%8B%E6%A9%9F%E7%99%BB%E8%A8%98-%E6%A9%9F%E5%A0%B4%E9%A0%98%E5%8F%96-%E5%A2%9E%E5%80%BC%E6%95%99%E5%AD%B8",
     "timestamp": "2026-03-23T08:12:58.865Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "張家朗三年後再次連續兩站奪牌　歷盡高低起伏仍不懈尋找新方向",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260323/1112777614465961984520674.jpeg/j7D8YOLbUpA3Upp6w8OC7TobPkEi_jz2p5HN4qeRzeI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60333254/%E5%BC%B5%E5%AE%B6%E6%9C%97%E4%B8%89%E5%B9%B4%E5%BE%8C%E5%86%8D%E6%AC%A1%E9%80%A3%E7%BA%8C%E5%85%A9%E7%AB%99%E5%A5%AA%E7%89%8C-%E6%AD%B7%E7%9B%A1%E9%AB%98%E4%BD%8E%E8%B5%B7%E4%BC%8F%E4%BB%8D%E4%B8%8D%E6%87%88%E5%B0%8B%E6%89%BE%E6%96%B0%E6%96%B9%E5%90%91",
-    "timestamp": "2026-03-23T07:49:40.167Z",
     "strategy": ".content-card__main"
   }
 ];
