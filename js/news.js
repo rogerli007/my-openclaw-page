@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-23T09:14:56.692Z
+// Last updated: 2026-03-23T09:44:20.864Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "宏利委任劉宏隽為香港及澳門首席AI及數據總監　鞏香港AI樞紐地位",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20220124/562233547625074688581637.jpeg/pTKCwMObUX1G1xXcHGPOG6MUip7H6hyeEOmO5BDpjuQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60333341/%E5%AE%8F%E5%88%A9%E5%A7%94%E4%BB%BB%E5%8A%89%E5%AE%8F%E9%9A%BD%E7%82%BA%E9%A6%99%E6%B8%AF%E5%8F%8A%E6%BE%B3%E9%96%80%E9%A6%96%E5%B8%ADai%E5%8F%8A%E6%95%B8%E6%93%9A%E7%B8%BD%E7%9B%A3-%E9%9E%8F%E9%A6%99%E6%B8%AFai%E6%A8%9E%E7%B4%90%E5%9C%B0%E4%BD%8D",
+    "timestamp": "2026-03-23T09:44:20.864Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "農藥殘留最少蔬果前15名單！牛油果第3 榜首意想不到+4招正確清洗",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260323/1112560098330284032683127.jpeg/Puzf-h9Q_LYcZ6w0Wt-ATdkSFptKNOVLfo_4PX6P-D0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60333046/openclaw-%E5%9C%8B%E5%AE%B6%E4%BA%92%E8%81%AF%E7%B6%B2%E6%87%89%E6%80%A5%E4%B8%AD%E5%BF%83%E7%99%BC%E5%B8%83%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97-%E6%8F%90%E4%BE%9B%E5%AE%89%E5%85%A8%E9%98%B2%E8%AD%B7%E5%BB%BA%E8%AD%B0",
     "timestamp": "2026-03-22T17:52:48.933Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "導演會頒獎2026｜吳君如超deep V亮相　約鏡仔打牌：係一個天仙局",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260323/1112543278646956032315047.jpeg/FOqkUJDI5fHTUpB_09o97RttvqqNetzJEcLCFxHCwhc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60333032/%E5%B0%8E%E6%BC%94%E6%9C%83%E9%A0%92%E7%8D%8E2026-%E5%90%B3%E5%90%9B%E5%A6%82%E8%B6%85deep-v%E4%BA%AE%E7%9B%B8-%E7%B4%84%E9%8F%A1%E4%BB%94%E6%89%93%E7%89%8C-%E4%BF%82%E4%B8%80%E5%80%8B%E5%A4%A9%E4%BB%99%E5%B1%80",
-    "timestamp": "2026-03-22T17:31:03.445Z",
     "strategy": ".content-card__main"
   }
 ];
