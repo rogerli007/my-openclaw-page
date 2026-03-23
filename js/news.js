@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-23T00:48:23.648Z
+// Last updated: 2026-03-23T01:22:52.504Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "葵涌冧天秤｜工人用切割器分解倒塌天秤　一段大窩口道仍封閉",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260323/1112674607065731072134907.jpeg/ij8sFbw4kUiCvES_uGfoHurNBfH0W3sUbnGlRW5xpUU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60333062/%E8%91%B5%E6%B6%8C%E5%86%A7%E5%A4%A9%E7%A7%A4-%E5%B7%A5%E4%BA%BA%E7%94%A8%E5%88%87%E5%89%B2%E5%99%A8%E5%88%86%E8%A7%A3%E5%80%92%E5%A1%8C%E5%A4%A9%E7%A7%A4-%E4%B8%80%E6%AE%B5%E5%A4%A7%E7%AA%A9%E5%8F%A3%E9%81%93%E4%BB%8D%E5%B0%81%E9%96%89",
+    "timestamp": "2026-03-23T01:22:52.504Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "舒淇憶被劉偉強爆「耍大牌」遲到十個鐘：呢個故仔好耐啦",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260322/1112505101563465728081473.jpeg/Y2XohXU2vIJCS5Ove8CBgaGNcq7Ekl5IKmTOfypkzn8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60333019/%E8%8D%83%E9%8C%A6%E5%85%AC%E8%B7%AF%E5%85%A9%E9%9B%BB%E5%96%AE%E8%BB%8A%E7%9B%B8%E6%92%9E%E5%85%A9%E5%8F%B8%E6%A9%9F%E5%82%B7-%E5%85%B6%E4%B8%AD1%E9%90%B5%E9%A8%8E%E5%A3%AB%E4%B8%80%E5%BA%A6%E8%BA%BA%E8%87%A5%E8%B7%AF%E4%B8%AD%E5%BE%85%E6%8F%B4",
     "timestamp": "2026-03-22T13:52:47.752Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "電影導演會｜梁家輝廖子妤奪影帝影后　舒淇榮登「新晉導演」",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260322/1112495897847009280273468.jpeg/bFbEIyDVzcFOiLzqBNkAbkwnirshPE41JDon8yQ6J_M?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60333015/%E9%9B%BB%E5%BD%B1%E5%B0%8E%E6%BC%94%E6%9C%83-%E6%A2%81%E5%AE%B6%E8%BC%9D%E5%BB%96%E5%AD%90%E5%A6%A4%E5%A5%AA%E5%BD%B1%E5%B8%9D%E5%BD%B1%E5%90%8E-%E8%88%92%E6%B7%87%E6%A6%AE%E7%99%BB-%E6%96%B0%E6%99%89%E5%B0%8E%E6%BC%94",
-    "timestamp": "2026-03-22T13:27:01.504Z",
     "strategy": ".content-card__main"
   }
 ];
