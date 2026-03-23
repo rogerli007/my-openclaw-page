@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-23T17:11:38.477Z
+// Last updated: 2026-03-23T18:09:10.675Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "哥倫比亞空軍運輸機起飛時墜毀　據報80人死亡",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260324/1112929558815838208916453.png/zfTUhXh-dEL6uEova3-iIZjkPQr7B1ZvlDA1W5QwNVs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60333430/%E5%93%A5%E5%80%AB%E6%AF%94%E4%BA%9E%E7%A9%BA%E8%BB%8D%E9%81%8B%E8%BC%B8%E6%A9%9F%E8%B5%B7%E9%A3%9B%E6%99%82%E5%A2%9C%E6%AF%80-%E6%93%9A%E5%A0%B180%E4%BA%BA%E6%AD%BB%E4%BA%A1",
+    "timestamp": "2026-03-23T18:09:10.675Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "外媒稱美伊代表或周末伊斯蘭堡會談　伊朗議長否認曾對話",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260323/1112546162377756672104325.jpeg/k7Hrrw2l2KGqq22zyV6voaQ7aHT60B7fsV09y7FdPcs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60333035/%E8%88%92%E6%B7%87%E6%86%B6%E8%A2%AB%E5%8A%89%E5%81%89%E5%BC%B7%E7%88%86-%E8%80%8D%E5%A4%A7%E7%89%8C-%E9%81%B2%E5%88%B0%E5%8D%81%E5%80%8B%E9%90%98-%E5%91%A2%E5%80%8B%E6%95%85%E4%BB%94%E5%A5%BD%E8%80%90%E5%95%A6",
     "timestamp": "2026-03-23T00:48:23.648Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "發飆對伊朗下48小時最後通牒　但這反而證明特朗普是「廢物」？",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260321/1111903757966249984650371.jpeg/gl_8klMsXlNTb1npMhCixFfdBZfBmuE2J2-i6Cdvoug?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%9C%8B%E9%9A%9B%E5%88%86%E6%9E%90/60333049/%E7%99%BC%E9%A3%86%E5%B0%8D%E4%BC%8A%E6%9C%97%E4%B8%8B48%E5%B0%8F%E6%99%82%E6%9C%80%E5%BE%8C%E9%80%9A%E7%89%92-%E4%BD%86%E9%80%99%E5%8F%8D%E8%80%8C%E8%AD%89%E6%98%8E%E7%89%B9%E6%9C%97%E6%99%AE%E6%98%AF%E5%BB%A2%E7%89%A9",
-    "timestamp": "2026-03-22T23:18:00.728Z",
     "strategy": ".content-card__main"
   }
 ];
