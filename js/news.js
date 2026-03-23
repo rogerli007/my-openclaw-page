@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-23T19:39:46.609Z
+// Last updated: 2026-03-23T20:04:40.235Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "特朗普：正與伊朗討論結束戰事15點協議　已取得重大共識",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260324/1112933973169803264094375.jpeg/uCJz5Nqk1CTGuAf56qZzPeaUF2xtnqRYe8_HMnvPxzI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60333432/%E7%89%B9%E6%9C%97%E6%99%AE-%E6%AD%A3%E8%88%87%E4%BC%8A%E6%9C%97%E8%A8%8E%E8%AB%96%E7%B5%90%E6%9D%9F%E6%88%B0%E4%BA%8B15%E9%BB%9E%E5%8D%94%E8%AD%B0-%E5%B7%B2%E5%8F%96%E5%BE%97%E9%87%8D%E5%A4%A7%E5%85%B1%E8%AD%98",
+    "timestamp": "2026-03-23T20:04:40.235Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "特朗普：正與伊朗討論結束戰事15點協議　已取得重大共識",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260323/1112777614465961984520674.jpeg/j7D8YOLbUpA3Upp6w8OC7TobPkEi_jz2p5HN4qeRzeI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60333254/%E5%BC%B5%E5%AE%B6%E6%9C%97%E4%B8%89%E5%B9%B4%E5%BE%8C%E5%86%8D%E6%AC%A1%E9%80%A3%E7%BA%8C%E5%85%A9%E7%AB%99%E5%A5%AA%E7%89%8C-%E6%AD%B7%E7%9B%A1%E9%AB%98%E4%BD%8E%E8%B5%B7%E4%BC%8F%E4%BB%8D%E4%B8%8D%E6%87%88%E5%B0%8B%E6%89%BE%E6%96%B0%E6%96%B9%E5%90%91",
     "timestamp": "2026-03-23T07:49:40.167Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "Mox Bank據報獲渣打轉讓78億元私貸組合　冀助上半年扭虧",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/4928684/org/51a01e8da6e50d7e0e40060134d79e6c.jpg/woK2WmHABsB0jZwquciRnTgVbtX8d-3oePe0x3j3tMc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60333136/mox-bank%E6%93%9A%E5%A0%B1%E7%8D%B2%E6%B8%A3%E6%89%93%E8%BD%89%E8%AE%9378%E5%84%84%E5%85%83%E7%A7%81%E8%B2%B8%E7%B5%84%E5%90%88-%E5%86%80%E5%8A%A9%E4%B8%8A%E5%8D%8A%E5%B9%B4%E6%89%AD%E8%99%A7",
-    "timestamp": "2026-03-23T03:37:48.608Z",
     "strategy": ".content-card__main"
   }
 ];
