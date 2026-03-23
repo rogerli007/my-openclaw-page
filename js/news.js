@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-23T22:17:32.694Z
+// Last updated: 2026-03-23T23:18:24.005Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "對伊朗最後通牒從48小時變5天　特朗普不敢打又只能拖時間？",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260323/1112764757531693056283019.jpeg/RoyyFSt2gAwzape93fKJq4NYFZzvP1RD15PrBteT6wY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%9C%8B%E9%9A%9B%E5%88%86%E6%9E%90/60333434/%E5%B0%8D%E4%BC%8A%E6%9C%97%E6%9C%80%E5%BE%8C%E9%80%9A%E7%89%92%E5%BE%9E48%E5%B0%8F%E6%99%82%E8%AE%8A5%E5%A4%A9-%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8D%E6%95%A2%E6%89%93%E5%8F%88%E5%8F%AA%E8%83%BD%E6%8B%96%E6%99%82%E9%96%93",
+    "timestamp": "2026-03-23T23:18:24.005Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "48歲譚嘉荃罕露面似少女　曾與郭可盈堂妹以B2組合闖樂壇",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20220124/562233547625074688581637.jpeg/pTKCwMObUX1G1xXcHGPOG6MUip7H6hyeEOmO5BDpjuQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60333341/%E5%AE%8F%E5%88%A9%E5%A7%94%E4%BB%BB%E5%8A%89%E5%AE%8F%E9%9A%BD%E7%82%BA%E9%A6%99%E6%B8%AF%E5%8F%8A%E6%BE%B3%E9%96%80%E9%A6%96%E5%B8%ADai%E5%8F%8A%E6%95%B8%E6%93%9A%E7%B8%BD%E7%9B%A3-%E9%9E%8F%E9%A6%99%E6%B8%AFai%E6%A8%9E%E7%B4%90%E5%9C%B0%E4%BD%8D",
     "timestamp": "2026-03-23T09:44:20.864Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "農藥殘留最少蔬果前15名單！牛油果第3 榜首意想不到+4招正確清洗",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260323/1112754911554048000056783.jpeg/PGiEMtbQKA8lNqCIAz9SKD8aSu7JJLSOfwjFln8IxZY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60326351/%E8%BE%B2%E8%97%A5%E6%AE%98%E7%95%99%E6%9C%80%E5%B0%91%E8%94%AC%E6%9E%9C%E5%89%8D15%E5%90%8D%E5%96%AE-%E7%89%9B%E6%B2%B9%E6%9E%9C%E7%AC%AC3-%E6%A6%9C%E9%A6%96%E6%84%8F%E6%83%B3%E4%B8%8D%E5%88%B0-4%E6%8B%9B%E6%AD%A3%E7%A2%BA%E6%B8%85%E6%B4%97",
-    "timestamp": "2026-03-23T09:14:56.692Z",
     "strategy": ".content-card__main"
   }
 ];
