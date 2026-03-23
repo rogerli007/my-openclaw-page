@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-23T10:40:53.064Z
+// Last updated: 2026-03-23T11:11:49.322Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "日出康城海瑅灣I 招標沽19伙　四房逾2692萬沽、呎價2.33萬雙創頂",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260323/1112826671129432064463825.jpeg/q3HWoBTaHtxPgx08SeWy8F9-1253g9FgYtO0h2LTtIc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60333377/%E6%97%A5%E5%87%BA%E5%BA%B7%E5%9F%8E%E6%B5%B7%E7%91%85%E7%81%A3i-%E6%8B%9B%E6%A8%99%E6%B2%BD19%E4%BC%99-%E5%9B%9B%E6%88%BF%E9%80%BE2692%E8%90%AC%E6%B2%BD-%E5%91%8E%E5%83%B92-33%E8%90%AC%E9%9B%99%E5%89%B5%E9%A0%82",
+    "timestamp": "2026-03-23T11:11:49.322Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "Kodaline演唱會2026香港｜門票優先/公售攻略+購票連結+座位表",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260323/1112580968276824064273819.jpeg/sx54gf0ekCliHaRvN9sHh1bDPg3keVOt0mzSe9Js0ns?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60333051/%E9%BB%8E%E5%B7%B4%E5%AB%A9%E7%B8%BD%E7%B5%B1-%E4%BB%A5%E8%BB%8D%E6%94%BB%E6%93%8A%E5%9F%BA%E5%BB%BA%E5%8F%8A%E6%A9%8B%E6%A8%91-%E5%9C%B0%E9%9D%A2%E5%85%A5%E4%BE%B5%E5%85%88%E5%85%86",
     "timestamp": "2026-03-22T19:05:23.615Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "OpenClaw｜國家互聯網應急中心發布使用指南　提供安全防護建議",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260323/1112560098330284032683127.jpeg/Puzf-h9Q_LYcZ6w0Wt-ATdkSFptKNOVLfo_4PX6P-D0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60333046/openclaw-%E5%9C%8B%E5%AE%B6%E4%BA%92%E8%81%AF%E7%B6%B2%E6%87%89%E6%80%A5%E4%B8%AD%E5%BF%83%E7%99%BC%E5%B8%83%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97-%E6%8F%90%E4%BE%9B%E5%AE%89%E5%85%A8%E9%98%B2%E8%AD%B7%E5%BB%BA%E8%AD%B0",
-    "timestamp": "2026-03-22T18:36:21.273Z",
     "strategy": ".content-card__main"
   }
 ];
