@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-23T13:00:19.230Z
+// Last updated: 2026-03-23T14:17:17.851Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "有片｜西營盤皇后大道西住宅起火濃煙滾滾　目擊者驚呼：嚇死人",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260323/1112872121308024832374168.jpeg/70vV5142J5fRp76Vm_r3KHlGZuxzurr10ttGUtLbRlI",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60333411/%E6%9C%89%E7%89%87-%E8%A5%BF%E7%87%9F%E7%9B%A4%E7%9A%87%E5%90%8E%E5%A4%A7%E9%81%93%E8%A5%BF%E4%BD%8F%E5%AE%85%E8%B5%B7%E7%81%AB%E6%BF%83%E7%85%99%E6%BB%BE%E6%BB%BE-%E7%9B%AE%E6%93%8A%E8%80%85%E9%A9%9A%E5%91%BC-%E5%9A%87%E6%AD%BB%E4%BA%BA",
+    "timestamp": "2026-03-23T14:17:17.851Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "好市民獎10歲男童被指欺負老人　校方：非始作俑者　認說話不恰當",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250420/990459635527847936638157.jpeg/EpdejqBicMH1TrsgC_4OI-U_z6OvOr04JxW_qScVv6k?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60333054/%E6%BE%A4%E9%80%A3%E6%96%AF%E5%9F%BA-%E7%BE%8E%E7%83%8F%E4%BB%A3%E8%A1%A8%E5%9C%98%E6%9C%83%E8%AB%87%E7%B5%90%E6%9D%9F-%E6%9C%89%E5%8F%AF%E8%83%BD%E8%88%87%E4%BF%84%E9%80%B2%E4%B8%80%E6%AD%A5%E4%BA%A4%E6%8F%9B%E6%88%B0%E4%BF%98",
     "timestamp": "2026-03-22T21:16:50.141Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "以軍轟炸黎巴嫩南部橋樑　宣布擴大攻勢推進地面行動",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260323/1112580968276824064273819.jpeg/sx54gf0ekCliHaRvN9sHh1bDPg3keVOt0mzSe9Js0ns?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60333051/%E4%BB%A5%E8%BB%8D%E8%BD%9F%E7%82%B8%E9%BB%8E%E5%B7%B4%E5%AB%A9%E5%8D%97%E9%83%A8%E6%A9%8B%E6%A8%91-%E5%AE%A3%E5%B8%83%E6%93%B4%E5%A4%A7%E6%94%BB%E5%8B%A2%E6%8E%A8%E9%80%B2%E5%9C%B0%E9%9D%A2%E8%A1%8C%E5%8B%95",
-    "timestamp": "2026-03-22T20:34:25.471Z",
     "strategy": ".content-card__main"
   }
 ];
