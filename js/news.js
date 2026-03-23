@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-23T08:39:23.336Z
+// Last updated: 2026-03-23T09:14:56.692Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "農藥殘留最少蔬果前15名單！牛油果第3 榜首意想不到+4招正確清洗",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260323/1112754911554048000056783.jpeg/PGiEMtbQKA8lNqCIAz9SKD8aSu7JJLSOfwjFln8IxZY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60326351/%E8%BE%B2%E8%97%A5%E6%AE%98%E7%95%99%E6%9C%80%E5%B0%91%E8%94%AC%E6%9E%9C%E5%89%8D15%E5%90%8D%E5%96%AE-%E7%89%9B%E6%B2%B9%E6%9E%9C%E7%AC%AC3-%E6%A6%9C%E9%A6%96%E6%84%8F%E6%83%B3%E4%B8%8D%E5%88%B0-4%E6%8B%9B%E6%AD%A3%E7%A2%BA%E6%B8%85%E6%B4%97",
+    "timestamp": "2026-03-23T09:14:56.692Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "股債金屬全面暴跌　黃金抹去今年所有漲幅　白銀同挫",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260323/1112543278646956032315047.jpeg/FOqkUJDI5fHTUpB_09o97RttvqqNetzJEcLCFxHCwhc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60333032/%E5%B0%8E%E6%BC%94%E6%9C%83%E9%A0%92%E7%8D%8E2026-%E5%90%B3%E5%90%9B%E5%A6%82%E8%B6%85deep-v%E4%BA%AE%E7%9B%B8-%E7%B4%84%E9%8F%A1%E4%BB%94%E6%89%93%E7%89%8C-%E4%BF%82%E4%B8%80%E5%80%8B%E5%A4%A9%E4%BB%99%E5%B1%80",
     "timestamp": "2026-03-22T17:31:03.445Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "導演會頒獎2026｜吳君如超deep V亮相　約鏡仔打牌：係一個天仙局",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260323/1112543278646956032315047.jpeg/FOqkUJDI5fHTUpB_09o97RttvqqNetzJEcLCFxHCwhc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60333032/%E5%B0%8E%E6%BC%94%E6%9C%83%E9%A0%92%E7%8D%8E2026-%E5%90%B3%E5%90%9B%E5%A6%82%E8%B6%85deep-v%E4%BA%AE%E7%9B%B8-%E7%B4%84%E9%8F%A1%E4%BB%94%E6%89%93%E7%89%8C-%E4%BF%82%E4%B8%80%E5%80%8B%E5%A4%A9%E4%BB%99%E5%B1%80",
-    "timestamp": "2026-03-22T17:14:28.164Z",
     "strategy": ".content-card__main"
   }
 ];
