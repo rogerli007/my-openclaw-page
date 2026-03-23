@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-23T08:12:58.865Z
+// Last updated: 2026-03-23T08:39:23.336Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "股債金屬全面暴跌　黃金抹去今年所有漲幅　白銀同挫",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260126/1092491013101981696413579.jpeg/duofH0bkMyZ8ddjvNiTZQHx1SbZiga0xDaB_pg2gf6Y?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60333259/%E8%82%A1%E5%82%B5%E9%87%91%E5%B1%AC%E5%85%A8%E9%9D%A2%E6%9A%B4%E8%B7%8C-%E9%BB%83%E9%87%91%E6%8A%B9%E5%8E%BB%E4%BB%8A%E5%B9%B4%E6%89%80%E6%9C%89%E6%BC%B2%E5%B9%85-%E7%99%BD%E9%8A%80%E5%90%8C%E6%8C%AB",
+    "timestamp": "2026-03-23T08:39:23.336Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "韓國WOWPASS怎麼用｜購物交通適用．手機登記/機場領取/增值教學",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260323/1112543278646956032315047.jpeg/FOqkUJDI5fHTUpB_09o97RttvqqNetzJEcLCFxHCwhc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60333032/%E5%B0%8E%E6%BC%94%E6%9C%83%E9%A0%92%E7%8D%8E2026-%E5%90%B3%E5%90%9B%E5%A6%82%E8%B6%85deep-v%E4%BA%AE%E7%9B%B8-%E7%B4%84%E9%8F%A1%E4%BB%94%E6%89%93%E7%89%8C-%E4%BF%82%E4%B8%80%E5%80%8B%E5%A4%A9%E4%BB%99%E5%B1%80",
     "timestamp": "2026-03-22T17:14:28.164Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "英超︱新特蘭絕殺紐卡素再贏北部打吡　喜鵲一周兩場慘敗",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260322/1112533367347220480026783.jpeg/j4KO5cl60Q6ycIqqn2tVY94nN8uvBgL1-7wt__u8Lf8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60333036/%E8%8B%B1%E8%B6%85-%E6%96%B0%E7%89%B9%E8%98%AD%E7%B5%95%E6%AE%BA%E7%B4%90%E5%8D%A1%E7%B4%A0%E5%86%8D%E8%B4%8F%E5%8C%97%E9%83%A8%E6%89%93%E5%90%A1-%E5%96%9C%E9%B5%B2%E4%B8%80%E5%91%A8%E5%85%A9%E5%A0%B4%E6%85%98%E6%95%97",
-    "timestamp": "2026-03-22T16:32:33.552Z",
     "strategy": ".content-card__main"
   }
 ];
