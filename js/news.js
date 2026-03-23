@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-23T23:18:24.005Z
+// Last updated: 2026-03-23T23:36:12.465Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "東張西望｜節目組放蛇被識破　賣家機警問：你哋係咪東張西望",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260323/1112869705477001216170328.jpeg/eKPNp99-Umhg8FNf2ByoROSqGYIGf871XdgWTl3YFk4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60333409/%E6%9D%B1%E5%BC%B5%E8%A5%BF%E6%9C%9B-%E7%AF%80%E7%9B%AE%E7%B5%84%E6%94%BE%E8%9B%87%E8%A2%AB%E8%AD%98%E7%A0%B4-%E8%B3%A3%E5%AE%B6%E6%A9%9F%E8%AD%A6%E5%95%8F-%E4%BD%A0%E5%93%8B%E4%BF%82%E5%92%AA%E6%9D%B1%E5%BC%B5%E8%A5%BF%E6%9C%9B",
+    "timestamp": "2026-03-23T23:36:12.465Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "對伊朗最後通牒從48小時變5天　特朗普不敢打又只能拖時間？",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260323/1112794127713439744501294.png/67EDowCFHVwGowfkAiADqQpAwft25vbBBy-1CAcvtQg",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60333066/%E6%B8%AF%E9%90%B5%E9%9D%92%E5%B9%B4%E5%90%B8%E4%BE%9D%E6%89%98%E5%92%AA%E9%85%AF-%E8%BB%8A%E5%BB%82%E5%90%90%E9%9C%A7%E5%85%A8%E8%BA%AB%E6%8A%BD%E6%90%90-%E5%8F%A6%E6%9C%89%E5%BD%B1%E7%89%87%E6%8F%AD%E7%9C%9F%E7%9B%B8%E6%83%B9%E7%86%B1%E8%AD%B0",
     "timestamp": "2026-03-23T10:15:04.624Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "宏利委任劉宏隽為香港及澳門首席AI及數據總監　鞏香港AI樞紐地位",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20220124/562233547625074688581637.jpeg/pTKCwMObUX1G1xXcHGPOG6MUip7H6hyeEOmO5BDpjuQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60333341/%E5%AE%8F%E5%88%A9%E5%A7%94%E4%BB%BB%E5%8A%89%E5%AE%8F%E9%9A%BD%E7%82%BA%E9%A6%99%E6%B8%AF%E5%8F%8A%E6%BE%B3%E9%96%80%E9%A6%96%E5%B8%ADai%E5%8F%8A%E6%95%B8%E6%93%9A%E7%B8%BD%E7%9B%A3-%E9%9E%8F%E9%A6%99%E6%B8%AFai%E6%A8%9E%E7%B4%90%E5%9C%B0%E4%BD%8D",
-    "timestamp": "2026-03-23T09:44:20.864Z",
     "strategy": ".content-card__main"
   }
 ];
