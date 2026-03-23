@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-23T12:36:01.281Z
+// Last updated: 2026-03-23T13:00:19.230Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "好市民獎10歲男童被指欺負老人　校方：非始作俑者　認說話不恰當",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260314/1109563917438423040025193.jpeg/0qtEFp3uAah9NnA8duK3lHQE6pOPWFNaRmpXZWNqV2U?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60333391/%E5%A5%BD%E5%B8%82%E6%B0%91%E7%8D%8E10%E6%AD%B2%E7%94%B7%E7%AB%A5%E8%A2%AB%E6%8C%87%E6%AC%BA%E8%B2%A0%E8%80%81%E4%BA%BA-%E6%A0%A1%E6%96%B9-%E9%9D%9E%E5%A7%8B%E4%BD%9C%E4%BF%91%E8%80%85-%E8%AA%8D%E8%AA%AA%E8%A9%B1%E4%B8%8D%E6%81%B0%E7%95%B6",
+    "timestamp": "2026-03-23T13:00:19.230Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美百人婚禮慘變災難現場　場地地板突崩塌直墮地下室　六人急送院",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260323/1112580968276824064273819.jpeg/sx54gf0ekCliHaRvN9sHh1bDPg3keVOt0mzSe9Js0ns?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60333051/%E4%BB%A5%E8%BB%8D%E8%BD%9F%E7%82%B8%E9%BB%8E%E5%B7%B4%E5%AB%A9%E5%8D%97%E9%83%A8%E6%A9%8B%E6%A8%91-%E5%AE%A3%E5%B8%83%E6%93%B4%E5%A4%A7%E6%94%BB%E5%8B%A2%E6%8E%A8%E9%80%B2%E5%9C%B0%E9%9D%A2%E8%A1%8C%E5%8B%95",
     "timestamp": "2026-03-22T20:34:25.471Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "以軍轟炸黎巴嫩南部橋樑　宣布擴大攻勢推進地面行動",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260323/1112580968276824064273819.jpeg/sx54gf0ekCliHaRvN9sHh1bDPg3keVOt0mzSe9Js0ns?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60333051/%E4%BB%A5%E8%BB%8D%E8%BD%9F%E7%82%B8%E9%BB%8E%E5%B7%B4%E5%AB%A9%E5%8D%97%E9%83%A8%E6%A9%8B%E6%A8%91-%E5%AE%A3%E5%B8%83%E6%93%B4%E5%A4%A7%E6%94%BB%E5%8B%A2%E6%8E%A8%E9%80%B2%E5%9C%B0%E9%9D%A2%E8%A1%8C%E5%8B%95",
-    "timestamp": "2026-03-22T19:55:52.606Z",
     "strategy": ".content-card__main"
   }
 ];
