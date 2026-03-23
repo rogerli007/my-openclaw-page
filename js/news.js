@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-23T21:22:49.327Z
+// Last updated: 2026-03-23T22:17:32.694Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "48歲譚嘉荃罕露面似少女　曾與郭可盈堂妹以B2組合闖樂壇",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260323/1112849722311184384073529.jpeg/LqpfcZuvsaawU340muWhTTX3qygwDWzRDWwUdw1sFHc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60332948/48%E6%AD%B2%E8%AD%9A%E5%98%89%E8%8D%83%E7%BD%95%E9%9C%B2%E9%9D%A2%E4%BC%BC%E5%B0%91%E5%A5%B3-%E6%9B%BE%E8%88%87%E9%83%AD%E5%8F%AF%E7%9B%88%E5%A0%82%E5%A6%B9%E4%BB%A5b2%E7%B5%84%E5%90%88%E9%97%96%E6%A8%82%E5%A3%87",
+    "timestamp": "2026-03-23T22:17:32.694Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "北角私家車司機懷少量大麻被捕　再揭尾箱藏未開鋒武士刀",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260323/1112754911554048000056783.jpeg/PGiEMtbQKA8lNqCIAz9SKD8aSu7JJLSOfwjFln8IxZY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60326351/%E8%BE%B2%E8%97%A5%E6%AE%98%E7%95%99%E6%9C%80%E5%B0%91%E8%94%AC%E6%9E%9C%E5%89%8D15%E5%90%8D%E5%96%AE-%E7%89%9B%E6%B2%B9%E6%9E%9C%E7%AC%AC3-%E6%A6%9C%E9%A6%96%E6%84%8F%E6%83%B3%E4%B8%8D%E5%88%B0-4%E6%8B%9B%E6%AD%A3%E7%A2%BA%E6%B8%85%E6%B4%97",
     "timestamp": "2026-03-23T09:14:56.692Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "股債金屬全面暴跌　黃金抹去今年所有漲幅　白銀同挫",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260126/1092491013101981696413579.jpeg/duofH0bkMyZ8ddjvNiTZQHx1SbZiga0xDaB_pg2gf6Y?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60333259/%E8%82%A1%E5%82%B5%E9%87%91%E5%B1%AC%E5%85%A8%E9%9D%A2%E6%9A%B4%E8%B7%8C-%E9%BB%83%E9%87%91%E6%8A%B9%E5%8E%BB%E4%BB%8A%E5%B9%B4%E6%89%80%E6%9C%89%E6%BC%B2%E5%B9%85-%E7%99%BD%E9%8A%80%E5%90%8C%E6%8C%AB",
-    "timestamp": "2026-03-23T08:39:23.336Z",
     "strategy": ".content-card__main"
   }
 ];
