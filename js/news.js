@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-23T07:49:40.167Z
+// Last updated: 2026-03-23T08:12:58.865Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "韓國WOWPASS怎麼用｜購物交通適用．手機登記/機場領取/增值教學",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260323/1112781861374922752071564.png/aW1fG8bvX-M787VN61jea7TavmvIDsdhpDAkbKQwJGw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60333198/%E9%9F%93%E5%9C%8Bwowpass%E6%80%8E%E9%BA%BC%E7%94%A8-%E8%B3%BC%E7%89%A9%E4%BA%A4%E9%80%9A%E9%81%A9%E7%94%A8-%E6%89%8B%E6%A9%9F%E7%99%BB%E8%A8%98-%E6%A9%9F%E5%A0%B4%E9%A0%98%E5%8F%96-%E5%A2%9E%E5%80%BC%E6%95%99%E5%AD%B8",
+    "timestamp": "2026-03-23T08:12:58.865Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "張家朗三年後再次連續兩站奪牌　歷盡高低起伏仍不懈尋找新方向",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260322/1112533367347220480026783.jpeg/j4KO5cl60Q6ycIqqn2tVY94nN8uvBgL1-7wt__u8Lf8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60333036/%E8%8B%B1%E8%B6%85-%E6%96%B0%E7%89%B9%E8%98%AD%E7%B5%95%E6%AE%BA%E7%B4%90%E5%8D%A1%E7%B4%A0%E5%86%8D%E8%B4%8F%E5%8C%97%E9%83%A8%E6%89%93%E5%90%A1-%E5%96%9C%E9%B5%B2%E4%B8%80%E5%91%A8%E5%85%A9%E5%A0%B4%E6%85%98%E6%95%97",
     "timestamp": "2026-03-22T16:32:33.552Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "桌球︱「一哥」卓林普受伊朗戰事影響失家園　暫居泰國訓練",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260322/1112516606279290880973826.jpeg/LVtdXkMDGO3WmhdIKIBtk1OoU4bSCnoP58sX7efLF-0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60333027/%E6%A1%8C%E7%90%83-%E4%B8%80%E5%93%A5-%E5%8D%93%E6%9E%97%E6%99%AE%E5%8F%97%E4%BC%8A%E6%9C%97%E6%88%B0%E4%BA%8B%E5%BD%B1%E9%9F%BF%E5%A4%B1%E5%AE%B6%E5%9C%92-%E6%9A%AB%E5%B1%85%E6%B3%B0%E5%9C%8B%E8%A8%93%E7%B7%B4",
-    "timestamp": "2026-03-22T15:31:38.696Z",
     "strategy": ".content-card__main"
   }
 ];
