@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-23T09:44:20.864Z
+// Last updated: 2026-03-23T10:15:04.624Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "港鐵青年吸依托咪酯？車廂吐霧全身抽搐　另有影片揭真相惹熱議",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260323/1112794127713439744501294.png/67EDowCFHVwGowfkAiADqQpAwft25vbBBy-1CAcvtQg",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60333066/%E6%B8%AF%E9%90%B5%E9%9D%92%E5%B9%B4%E5%90%B8%E4%BE%9D%E6%89%98%E5%92%AA%E9%85%AF-%E8%BB%8A%E5%BB%82%E5%90%90%E9%9C%A7%E5%85%A8%E8%BA%AB%E6%8A%BD%E6%90%90-%E5%8F%A6%E6%9C%89%E5%BD%B1%E7%89%87%E6%8F%AD%E7%9C%9F%E7%9B%B8%E6%83%B9%E7%86%B1%E8%AD%B0",
+    "timestamp": "2026-03-23T10:15:04.624Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "宏利委任劉宏隽為香港及澳門首席AI及數據總監　鞏香港AI樞紐地位",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260323/1112560098330284032683127.jpeg/Puzf-h9Q_LYcZ6w0Wt-ATdkSFptKNOVLfo_4PX6P-D0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60333046/openclaw-%E5%9C%8B%E5%AE%B6%E4%BA%92%E8%81%AF%E7%B6%B2%E6%87%89%E6%80%A5%E4%B8%AD%E5%BF%83%E7%99%BC%E5%B8%83%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97-%E6%8F%90%E4%BE%9B%E5%AE%89%E5%85%A8%E9%98%B2%E8%AD%B7%E5%BB%BA%E8%AD%B0",
     "timestamp": "2026-03-22T18:18:35.714Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "OpenClaw｜國家互聯網應急中心發布使用指南　提供安全防護建議",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260323/1112560098330284032683127.jpeg/Puzf-h9Q_LYcZ6w0Wt-ATdkSFptKNOVLfo_4PX6P-D0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60333046/openclaw-%E5%9C%8B%E5%AE%B6%E4%BA%92%E8%81%AF%E7%B6%B2%E6%87%89%E6%80%A5%E4%B8%AD%E5%BF%83%E7%99%BC%E5%B8%83%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97-%E6%8F%90%E4%BE%9B%E5%AE%89%E5%85%A8%E9%98%B2%E8%AD%B7%E5%BB%BA%E8%AD%B0",
-    "timestamp": "2026-03-22T17:52:48.933Z",
     "strategy": ".content-card__main"
   }
 ];
