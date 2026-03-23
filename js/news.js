@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-23T14:17:17.851Z
+// Last updated: 2026-03-23T14:50:44.236Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "特朗普政府白宮旁安置雕像　稱「要讓哥倫布日重獲新生」",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260323/1112871055510212608430926.jpeg/EGRzGOWg1QaTNpJzFcb-gT2Cu2N9mWZOTCGS_kwhkv4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60333410/%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%E7%99%BD%E5%AE%AE%E6%97%81%E5%AE%89%E7%BD%AE%E9%9B%95%E5%83%8F-%E7%A8%B1-%E8%A6%81%E8%AE%93%E5%93%A5%E5%80%AB%E5%B8%83%E6%97%A5%E9%87%8D%E7%8D%B2%E6%96%B0%E7%94%9F",
+    "timestamp": "2026-03-23T14:50:44.236Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "有片｜西營盤皇后大道西住宅起火濃煙滾滾　目擊者驚呼：嚇死人",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250420/990459635527847936638157.jpeg/EpdejqBicMH1TrsgC_4OI-U_z6OvOr04JxW_qScVv6k?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60333054/%E6%BE%A4%E9%80%A3%E6%96%AF%E5%9F%BA-%E7%BE%8E%E7%83%8F%E4%BB%A3%E8%A1%A8%E5%9C%98%E6%9C%83%E8%AB%87%E7%B5%90%E6%9D%9F-%E6%9C%89%E5%8F%AF%E8%83%BD%E8%88%87%E4%BF%84%E9%80%B2%E4%B8%80%E6%AD%A5%E4%BA%A4%E6%8F%9B%E6%88%B0%E4%BF%98",
     "timestamp": "2026-03-22T21:33:31.357Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "澤連斯基：美烏代表團會談結束　有可能與俄進一步交換戰俘",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250420/990459635527847936638157.jpeg/EpdejqBicMH1TrsgC_4OI-U_z6OvOr04JxW_qScVv6k?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60333054/%E6%BE%A4%E9%80%A3%E6%96%AF%E5%9F%BA-%E7%BE%8E%E7%83%8F%E4%BB%A3%E8%A1%A8%E5%9C%98%E6%9C%83%E8%AB%87%E7%B5%90%E6%9D%9F-%E6%9C%89%E5%8F%AF%E8%83%BD%E8%88%87%E4%BF%84%E9%80%B2%E4%B8%80%E6%AD%A5%E4%BA%A4%E6%8F%9B%E6%88%B0%E4%BF%98",
-    "timestamp": "2026-03-22T21:16:50.141Z",
     "strategy": ".content-card__main"
   }
 ];
