@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-23T14:50:44.236Z
+// Last updated: 2026-03-23T16:12:03.596Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "ITZY演唱會2026香港｜Trip／信用卡優先及公售攻略｜座位表+連結",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260323/1112800167683166208146750.jpeg/JwQOKdEPQ-1e84AEyyGiz6i9OwDlDJLWqWQXX6lkF18?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60333296/itzy%E6%BC%94%E5%94%B1%E6%9C%832026%E9%A6%99%E6%B8%AF-trip-%E4%BF%A1%E7%94%A8%E5%8D%A1%E5%84%AA%E5%85%88%E5%8F%8A%E5%85%AC%E5%94%AE%E6%94%BB%E7%95%A5-%E5%BA%A7%E4%BD%8D%E8%A1%A8-%E9%80%A3%E7%B5%90",
+    "timestamp": "2026-03-23T16:12:03.596Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "特朗普政府白宮旁安置雕像　稱「要讓哥倫布日重獲新生」",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250420/990459635527847936638157.jpeg/EpdejqBicMH1TrsgC_4OI-U_z6OvOr04JxW_qScVv6k?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60333054/%E6%BE%A4%E9%80%A3%E6%96%AF%E5%9F%BA-%E7%BE%8E%E7%83%8F%E4%BB%A3%E8%A1%A8%E5%9C%98%E6%9C%83%E8%AB%87%E7%B5%90%E6%9D%9F-%E6%9C%89%E5%8F%AF%E8%83%BD%E8%88%87%E4%BF%84%E9%80%B2%E4%B8%80%E6%AD%A5%E4%BA%A4%E6%8F%9B%E6%88%B0%E4%BF%98",
     "timestamp": "2026-03-22T21:50:51.115Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "澤連斯基：美烏代表團會談結束　有可能與俄進一步交換戰俘",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250420/990459635527847936638157.jpeg/EpdejqBicMH1TrsgC_4OI-U_z6OvOr04JxW_qScVv6k?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60333054/%E6%BE%A4%E9%80%A3%E6%96%AF%E5%9F%BA-%E7%BE%8E%E7%83%8F%E4%BB%A3%E8%A1%A8%E5%9C%98%E6%9C%83%E8%AB%87%E7%B5%90%E6%9D%9F-%E6%9C%89%E5%8F%AF%E8%83%BD%E8%88%87%E4%BF%84%E9%80%B2%E4%B8%80%E6%AD%A5%E4%BA%A4%E6%8F%9B%E6%88%B0%E4%BF%98",
-    "timestamp": "2026-03-22T21:33:31.357Z",
     "strategy": ".content-card__main"
   }
 ];
