@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-23T03:37:48.608Z
+// Last updated: 2026-03-23T07:49:40.167Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "張家朗三年後再次連續兩站奪牌　歷盡高低起伏仍不懈尋找新方向",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260323/1112777614465961984520674.jpeg/j7D8YOLbUpA3Upp6w8OC7TobPkEi_jz2p5HN4qeRzeI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60333254/%E5%BC%B5%E5%AE%B6%E6%9C%97%E4%B8%89%E5%B9%B4%E5%BE%8C%E5%86%8D%E6%AC%A1%E9%80%A3%E7%BA%8C%E5%85%A9%E7%AB%99%E5%A5%AA%E7%89%8C-%E6%AD%B7%E7%9B%A1%E9%AB%98%E4%BD%8E%E8%B5%B7%E4%BC%8F%E4%BB%8D%E4%B8%8D%E6%87%88%E5%B0%8B%E6%89%BE%E6%96%B0%E6%96%B9%E5%90%91",
+    "timestamp": "2026-03-23T07:49:40.167Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "Mox Bank據報獲渣打轉讓78億元私貸組合　冀助上半年扭虧",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260322/1112516606279290880973826.jpeg/LVtdXkMDGO3WmhdIKIBtk1OoU4bSCnoP58sX7efLF-0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60333027/%E6%A1%8C%E7%90%83-%E4%B8%80%E5%93%A5-%E5%8D%93%E6%9E%97%E6%99%AE%E5%8F%97%E4%BC%8A%E6%9C%97%E6%88%B0%E4%BA%8B%E5%BD%B1%E9%9F%BF%E5%A4%B1%E5%AE%B6%E5%9C%92-%E6%9A%AB%E5%B1%85%E6%B3%B0%E5%9C%8B%E8%A8%93%E7%B7%B4",
     "timestamp": "2026-03-22T15:31:38.696Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "荃錦公路牛隻遭私家車撞倒　受傷伏坐馬路中",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260322/1112519310711984128703821.jpeg/E0vmP1W-mNmPrfiOaYplHYUOxOhc9tJN6tlyjOrZcow?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60333028/%E8%8D%83%E9%8C%A6%E5%85%AC%E8%B7%AF%E7%89%9B%E9%9A%BB%E9%81%AD%E7%A7%81%E5%AE%B6%E8%BB%8A%E6%92%9E%E5%80%92-%E5%8F%97%E5%82%B7%E4%BC%8F%E5%9D%90%E9%A6%AC%E8%B7%AF%E4%B8%AD",
-    "timestamp": "2026-03-22T14:51:02.175Z",
     "strategy": ".content-card__main"
   }
 ];
