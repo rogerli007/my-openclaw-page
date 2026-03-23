@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-23T20:27:55.268Z
+// Last updated: 2026-03-23T21:22:49.327Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "北角私家車司機懷少量大麻被捕　再揭尾箱藏未開鋒武士刀",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260324/1112977416403292160627301.jpeg/babzGOh4U-ZTeP8i_g_3sITOb64d703KzLepC-m3qQs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60333439/%E5%8C%97%E8%A7%92%E7%A7%81%E5%AE%B6%E8%BB%8A%E5%8F%B8%E6%A9%9F%E6%87%B7%E5%B0%91%E9%87%8F%E5%A4%A7%E9%BA%BB%E8%A2%AB%E6%8D%95-%E5%86%8D%E6%8F%AD%E5%B0%BE%E7%AE%B1%E8%97%8F%E6%9C%AA%E9%96%8B%E9%8B%92%E6%AD%A6%E5%A3%AB%E5%88%80",
+    "timestamp": "2026-03-23T21:22:49.327Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "特朗普：正與伊朗討論結束戰事15點協議　已取得重大共識",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260126/1092491013101981696413579.jpeg/duofH0bkMyZ8ddjvNiTZQHx1SbZiga0xDaB_pg2gf6Y?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60333259/%E8%82%A1%E5%82%B5%E9%87%91%E5%B1%AC%E5%85%A8%E9%9D%A2%E6%9A%B4%E8%B7%8C-%E9%BB%83%E9%87%91%E6%8A%B9%E5%8E%BB%E4%BB%8A%E5%B9%B4%E6%89%80%E6%9C%89%E6%BC%B2%E5%B9%85-%E7%99%BD%E9%8A%80%E5%90%8C%E6%8C%AB",
     "timestamp": "2026-03-23T08:39:23.336Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "韓國WOWPASS怎麼用｜購物交通適用．手機登記/機場領取/增值教學",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260323/1112781861374922752071564.png/aW1fG8bvX-M787VN61jea7TavmvIDsdhpDAkbKQwJGw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60333198/%E9%9F%93%E5%9C%8Bwowpass%E6%80%8E%E9%BA%BC%E7%94%A8-%E8%B3%BC%E7%89%A9%E4%BA%A4%E9%80%9A%E9%81%A9%E7%94%A8-%E6%89%8B%E6%A9%9F%E7%99%BB%E8%A8%98-%E6%A9%9F%E5%A0%B4%E9%A0%98%E5%8F%96-%E5%A2%9E%E5%80%BC%E6%95%99%E5%AD%B8",
-    "timestamp": "2026-03-23T08:12:58.865Z",
     "strategy": ".content-card__main"
   }
 ];
