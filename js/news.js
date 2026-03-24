@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-24T09:41:15.137Z
+// Last updated: 2026-03-24T10:11:20.906Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "77歲富豪娶AV嫩妻新婚3個月中毒亡！8年懸案判無罪有望獲巨額遺產",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260324/1113147867641417728675831.png/EolhHm5zr57rkgjUGB--eQpAtSuFv1cdVr9_mla_f5o?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%96%8B%E7%BD%90/60333469/77%E6%AD%B2%E5%AF%8C%E8%B1%AA%E5%A8%B6av%E5%AB%A9%E5%A6%BB%E6%96%B0%E5%A9%9A3%E5%80%8B%E6%9C%88%E4%B8%AD%E6%AF%92%E4%BA%A1-8%E5%B9%B4%E6%87%B8%E6%A1%88%E5%88%A4%E7%84%A1%E7%BD%AA%E6%9C%89%E6%9C%9B%E7%8D%B2%E5%B7%A8%E9%A1%8D%E9%81%BA%E7%94%A2",
+    "timestamp": "2026-03-24T10:11:20.906Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "Samsung Buds 4 Pro實測：降噪音質優秀　堪稱Android版AirPods？",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20240628/883297081412816896304925.jpeg/pYPx84xCm2gTmHgJuv_X4lN8Tbs4WdqDmVmB4plZgeI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60333424/%E5%A4%96%E5%AA%92%E7%A8%B1%E7%BE%8E%E4%BC%8A%E4%BB%A3%E8%A1%A8%E6%88%96%E5%91%A8%E6%9C%AB%E4%BC%8A%E6%96%AF%E8%98%AD%E5%A0%A1%E6%9C%83%E8%AB%87-%E4%BC%8A%E6%9C%97%E8%AD%B0%E9%95%B7%E5%90%A6%E8%AA%8D%E6%9B%BE%E5%B0%8D%E8%A9%B1",
     "timestamp": "2026-03-23T17:11:38.477Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "波波現身亞博睇騷被捕獲狂自拍　網民：見到靚女有冇人知邊個？",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260323/1112836683432202240683210.jpeg/EGpOshvDQmJjb2phoS0nmYZ7br63XrjjlwH9T5cB_U8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60333191/%E6%B3%A2%E6%B3%A2%E7%8F%BE%E8%BA%AB%E4%BA%9E%E5%8D%9A%E7%9D%87%E9%A8%B7%E8%A2%AB%E6%8D%95%E7%8D%B2%E7%8B%82%E8%87%AA%E6%8B%8D-%E7%B6%B2%E6%B0%91-%E8%A6%8B%E5%88%B0%E9%9D%9A%E5%A5%B3%E6%9C%89%E5%86%87%E4%BA%BA%E7%9F%A5%E9%82%8A%E5%80%8B",
-    "timestamp": "2026-03-23T16:39:28.797Z",
     "strategy": ".content-card__main"
   }
 ];
