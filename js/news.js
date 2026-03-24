@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-24T07:42:36.396Z
+// Last updated: 2026-03-24T08:07:29.619Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "中國展開大規模海底測繪為潛艇戰布局　專家：針對美國及其盟友",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260324/1113138613362626560980415.jpeg/pWUunhuR6PKTKysTQyygSV_oLlCCsE4a9XetkfV3rZE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60333682/%E4%B8%AD%E5%9C%8B%E5%B1%95%E9%96%8B%E5%A4%A7%E8%A6%8F%E6%A8%A1%E6%B5%B7%E5%BA%95%E6%B8%AC%E7%B9%AA%E7%82%BA%E6%BD%9B%E8%89%87%E6%88%B0%E5%B8%83%E5%B1%80-%E5%B0%88%E5%AE%B6-%E9%87%9D%E5%B0%8D%E7%BE%8E%E5%9C%8B%E5%8F%8A%E5%85%B6%E7%9B%9F%E5%8F%8B",
+    "timestamp": "2026-03-24T08:07:29.619Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "涉洗錢棄保潛逃　｢百億賭王｣林秉文於柬埔寨遭槍殺　多人伏擊掃射",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260323/1112871055510212608430926.jpeg/EGRzGOWg1QaTNpJzFcb-gT2Cu2N9mWZOTCGS_kwhkv4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60333410/%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%E7%99%BD%E5%AE%AE%E6%97%81%E5%AE%89%E7%BD%AE%E9%9B%95%E5%83%8F-%E7%A8%B1-%E8%A6%81%E8%AE%93%E5%93%A5%E5%80%AB%E5%B8%83%E6%97%A5%E9%87%8D%E7%8D%B2%E6%96%B0%E7%94%9F",
     "timestamp": "2026-03-23T14:50:44.236Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "有片｜西營盤皇后大道西住宅起火濃煙滾滾　目擊者驚呼：嚇死人",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260323/1112872121308024832374168.jpeg/70vV5142J5fRp76Vm_r3KHlGZuxzurr10ttGUtLbRlI",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60333411/%E6%9C%89%E7%89%87-%E8%A5%BF%E7%87%9F%E7%9B%A4%E7%9A%87%E5%90%8E%E5%A4%A7%E9%81%93%E8%A5%BF%E4%BD%8F%E5%AE%85%E8%B5%B7%E7%81%AB%E6%BF%83%E7%85%99%E6%BB%BE%E6%BB%BE-%E7%9B%AE%E6%93%8A%E8%80%85%E9%A9%9A%E5%91%BC-%E5%9A%87%E6%AD%BB%E4%BA%BA",
-    "timestamp": "2026-03-23T14:17:17.851Z",
     "strategy": ".content-card__main"
   }
 ];
