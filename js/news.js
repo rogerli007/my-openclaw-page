@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-24T05:46:35.199Z
+// Last updated: 2026-03-24T06:14:23.740Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "宏福苑聽證會｜市建局律師稱未盡職說法不公　圍標難一己之力解決",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260221/1101964408298672128573284.jpeg/zsYMh2vKyZsTwPtGj-U6Ov1b1p4w_EI6rqnwH7Sp8B8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60333621/%E5%AE%8F%E7%A6%8F%E8%8B%91%E8%81%BD%E8%AD%89%E6%9C%83-%E5%B8%82%E5%BB%BA%E5%B1%80%E5%BE%8B%E5%B8%AB%E7%A8%B1%E6%9C%AA%E7%9B%A1%E8%81%B7%E8%AA%AA%E6%B3%95%E4%B8%8D%E5%85%AC-%E5%9C%8D%E6%A8%99%E9%9B%A3%E4%B8%80%E5%B7%B1%E4%B9%8B%E5%8A%9B%E8%A7%A3%E6%B1%BA",
+    "timestamp": "2026-03-24T06:14:23.740Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "政府骨灰龕｜和合石等8月起變每月配位　毋須等一年　縮輪候時間",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260314/1109563917438423040025193.jpeg/0qtEFp3uAah9NnA8duK3lHQE6pOPWFNaRmpXZWNqV2U?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60333391/%E5%A5%BD%E5%B8%82%E6%B0%91%E7%8D%8E10%E6%AD%B2%E7%94%B7%E7%AB%A5%E8%A2%AB%E6%8C%87%E6%AC%BA%E8%B2%A0%E8%80%81%E4%BA%BA-%E6%A0%A1%E6%96%B9-%E9%9D%9E%E5%A7%8B%E4%BD%9C%E4%BF%91%E8%80%85-%E8%AA%8D%E8%AA%AA%E8%A9%B1%E4%B8%8D%E6%81%B0%E7%95%B6",
     "timestamp": "2026-03-23T13:00:19.230Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美百人婚禮慘變災難現場　場地地板突崩塌直墮地下室　六人急送院",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260323/1112796039351373824319052.png/BiFvNPaMpZpbwfYCPzxljqozx-v0wefx8mta-vJrWvo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60333317/%E7%BE%8E%E7%99%BE%E4%BA%BA%E5%A9%9A%E7%A6%AE%E6%85%98%E8%AE%8A%E7%81%BD%E9%9B%A3%E7%8F%BE%E5%A0%B4-%E5%A0%B4%E5%9C%B0%E5%9C%B0%E6%9D%BF%E7%AA%81%E5%B4%A9%E5%A1%8C%E7%9B%B4%E5%A2%AE%E5%9C%B0%E4%B8%8B%E5%AE%A4-%E5%85%AD%E4%BA%BA%E6%80%A5%E9%80%81%E9%99%A2",
-    "timestamp": "2026-03-23T12:36:01.281Z",
     "strategy": ".content-card__main"
   }
 ];
