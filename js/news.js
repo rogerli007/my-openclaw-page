@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-24T16:45:04.610Z
+// Last updated: 2026-03-24T18:10:51.482Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "特朗普稱郵寄投票易生舞弊　卻於佛州補選以郵寄投票",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260325/1113281867206889472704986.jpeg/G7viSk2TRqOF_cSqgt0_z1rr4juxMjb-Vfc-T1X3Pk8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60333868/%E7%89%B9%E6%9C%97%E6%99%AE%E7%A8%B1%E9%83%B5%E5%AF%84%E6%8A%95%E7%A5%A8%E6%98%93%E7%94%9F%E8%88%9E%E5%BC%8A-%E5%8D%BB%E6%96%BC%E4%BD%9B%E5%B7%9E%E8%A3%9C%E9%81%B8%E4%BB%A5%E9%83%B5%E5%AF%84%E6%8A%95%E7%A5%A8",
+    "timestamp": "2026-03-24T18:10:51.482Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "藝術中環開幕　匯聚117畫廊及逾500位藝術家　規模歷屆之最",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260324/1113008927819173888302974.jpeg/sktpPvVAbblSCcfv2XeIP8g9GMttiEBRWTR0YVk0dGE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%B0%88%E4%B8%8A%E6%95%99%E8%82%B2/60333445/%E6%B5%B8%E5%A4%A7%E8%BE%A6%E5%89%B5%E6%A0%A170%E5%91%A8%E5%B9%B4%E6%A0%A1%E6%85%B6%E5%95%9F%E5%8B%95%E7%A6%AE-%E6%A0%A1%E9%95%B7%E8%A1%9E%E7%82%B3%E6%B1%9F%E5%86%80%E8%83%BD%E7%99%BC%E6%8F%AE%E6%9B%B4%E5%A4%A7%E5%BD%B1%E9%9F%BF%E5%8A%9B",
     "timestamp": "2026-03-24T01:21:44.612Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "東張西望｜節目組放蛇被識破　賣家機警問：你哋係咪東張西望",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260323/1112869705477001216170328.jpeg/eKPNp99-Umhg8FNf2ByoROSqGYIGf871XdgWTl3YFk4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60333409/%E6%9D%B1%E5%BC%B5%E8%A5%BF%E6%9C%9B-%E7%AF%80%E7%9B%AE%E7%B5%84%E6%94%BE%E8%9B%87%E8%A2%AB%E8%AD%98%E7%A0%B4-%E8%B3%A3%E5%AE%B6%E6%A9%9F%E8%AD%A6%E5%95%8F-%E4%BD%A0%E5%93%8B%E4%BF%82%E5%92%AA%E6%9D%B1%E5%BC%B5%E8%A5%BF%E6%9C%9B",
-    "timestamp": "2026-03-23T23:36:12.465Z",
     "strategy": ".content-card__main"
   }
 ];
