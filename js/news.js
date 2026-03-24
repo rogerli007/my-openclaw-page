@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-24T19:15:34.341Z
+// Last updated: 2026-03-24T20:52:47.995Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "特朗普：伊朗送給美國一份「大禮」　對方在能源領域作出重大讓步",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260325/1113320383806705664528946.jpeg/CS2uD68LI3SNqGzeLDI-9vYwAo1YQ_CONE_GdTRPxnU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60333883/%E7%89%B9%E6%9C%97%E6%99%AE-%E4%BC%8A%E6%9C%97%E9%80%81%E7%B5%A6%E7%BE%8E%E5%9C%8B%E4%B8%80%E4%BB%BD-%E5%A4%A7%E7%A6%AE-%E5%B0%8D%E6%96%B9%E5%9C%A8%E8%83%BD%E6%BA%90%E9%A0%98%E5%9F%9F%E4%BD%9C%E5%87%BA%E9%87%8D%E5%A4%A7%E8%AE%93%E6%AD%A5",
+    "timestamp": "2026-03-24T20:52:47.995Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "路透社民調：伊朗戰事推高油價　特朗普支持度36%創第二任期新低",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260324/1113108135674908672730194.jpeg/V6Ebm4LRlLct-V_Rf56ycsWijY4aegXTBKogHASqIBw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60333620/%E6%94%BF%E5%BA%9C%E9%AA%A8%E7%81%B0%E9%BE%95-%E5%92%8C%E5%90%88%E7%9F%B3%E7%AD%898%E6%9C%88%E8%B5%B7%E8%AE%8A%E6%AF%8F%E6%9C%88%E9%85%8D%E4%BD%8D-%E6%AF%8B%E9%A0%88%E7%AD%89%E4%B8%80%E5%B9%B4-%E7%B8%AE%E8%BC%AA%E5%80%99%E6%99%82%E9%96%93",
     "timestamp": "2026-03-24T05:46:35.199Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "中國Router之王趙建軍被爆申請｢特朗普金卡｣　向美國遞出投名狀？",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260324/1113087673947394048519072.png/brSm9vTAqDlFwSJJ7tYdTLNAhYclNnuL7RLuye0S7sk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E4%B8%AD%E5%9C%8B%E8%A7%80%E5%AF%9F/60333559/%E4%B8%AD%E5%9C%8Brouter%E4%B9%8B%E7%8E%8B%E8%B6%99%E5%BB%BA%E8%BB%8D%E8%A2%AB%E7%88%86%E7%94%B3%E8%AB%8B-%E7%89%B9%E6%9C%97%E6%99%AE%E9%87%91%E5%8D%A1-%E5%90%91%E7%BE%8E%E5%9C%8B%E9%81%9E%E5%87%BA%E6%8A%95%E5%90%8D%E7%8B%80",
-    "timestamp": "2026-03-24T04:26:45.175Z",
     "strategy": ".content-card__main"
   }
 ];
