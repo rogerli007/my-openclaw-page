@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-24T11:11:25.875Z
+// Last updated: 2026-03-24T12:04:37.105Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "國安細則修訂｜警方可隨街攞市民手機密碼？鄧炳強：錯嘅、嚇你嘅",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260324/1113191902636675072962348.png/mWkzVvDE9P26vx34F90pqEk9Q9s_DhLV3sajHt7Gox4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60333810/%E5%9C%8B%E5%AE%89%E7%B4%B0%E5%89%87%E4%BF%AE%E8%A8%82-%E8%AD%A6%E6%96%B9%E5%8F%AF%E9%9A%A8%E8%A1%97%E6%94%9E%E5%B8%82%E6%B0%91%E6%89%8B%E6%A9%9F%E5%AF%86%E7%A2%BC-%E9%84%A7%E7%82%B3%E5%BC%B7-%E9%8C%AF%E5%98%85-%E5%9A%87%E4%BD%A0%E5%98%85",
+    "timestamp": "2026-03-24T12:04:37.105Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "淺水灣海灘道女子捱私家車撞　多處受傷重創",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260324/1112933973169803264094375.jpeg/uCJz5Nqk1CTGuAf56qZzPeaUF2xtnqRYe8_HMnvPxzI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60333432/%E7%89%B9%E6%9C%97%E6%99%AE-%E6%AD%A3%E8%88%87%E4%BC%8A%E6%9C%97%E8%A8%8E%E8%AB%96%E7%B5%90%E6%9D%9F%E6%88%B0%E4%BA%8B15%E9%BB%9E%E5%8D%94%E8%AD%B0-%E5%B7%B2%E5%8F%96%E5%BE%97%E9%87%8D%E5%A4%A7%E5%85%B1%E8%AD%98",
     "timestamp": "2026-03-23T19:39:46.609Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "哥倫比亞空軍載逾120人運輸機起飛時墜毀　路透社：71人已獲救",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260324/1112929558815838208916453.png/zfTUhXh-dEL6uEova3-iIZjkPQr7B1ZvlDA1W5QwNVs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60333430/%E5%93%A5%E5%80%AB%E6%AF%94%E4%BA%9E%E7%A9%BA%E8%BB%8D%E8%BC%89%E9%80%BE120%E4%BA%BA%E9%81%8B%E8%BC%B8%E6%A9%9F%E8%B5%B7%E9%A3%9B%E6%99%82%E5%A2%9C%E6%AF%80-%E8%B7%AF%E9%80%8F%E7%A4%BE-71%E4%BA%BA%E5%B7%B2%E7%8D%B2%E6%95%91",
-    "timestamp": "2026-03-23T19:13:03.431Z",
     "strategy": ".content-card__main"
   }
 ];
