@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-24T12:35:26.382Z
+// Last updated: 2026-03-24T13:55:52.671Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "復活節｜4.7回港高峰　至少6城市返港高鐵班次售罄　武漢剩兩個位",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250421/990999615648043008704513.jpeg/I1tfb0aLO7se0IY8pnSeaCwR2CCZZusV9waM9tIGjPY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60333818/%E5%BE%A9%E6%B4%BB%E7%AF%80-4-7%E5%9B%9E%E6%B8%AF%E9%AB%98%E5%B3%B0-%E8%87%B3%E5%B0%916%E5%9F%8E%E5%B8%82%E8%BF%94%E6%B8%AF%E9%AB%98%E9%90%B5%E7%8F%AD%E6%AC%A1%E5%94%AE%E7%BD%84-%E6%AD%A6%E6%BC%A2%E5%89%A9%E5%85%A9%E5%80%8B%E4%BD%8D",
+    "timestamp": "2026-03-24T13:55:52.671Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "上海迪士尼十周年限定套餐「蒸包加薯片」賣 ¥70　網民：物價離譜",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260324/1112933973169803264094375.jpeg/uCJz5Nqk1CTGuAf56qZzPeaUF2xtnqRYe8_HMnvPxzI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60333432/%E7%89%B9%E6%9C%97%E6%99%AE-%E6%AD%A3%E8%88%87%E4%BC%8A%E6%9C%97%E8%A8%8E%E8%AB%96%E7%B5%90%E6%9D%9F%E6%88%B0%E4%BA%8B15%E9%BB%9E%E5%8D%94%E8%AD%B0-%E5%B7%B2%E5%8F%96%E5%BE%97%E9%87%8D%E5%A4%A7%E5%85%B1%E8%AD%98",
     "timestamp": "2026-03-23T20:27:55.268Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普：正與伊朗討論結束戰事15點協議　已取得重大共識",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260324/1112933973169803264094375.jpeg/uCJz5Nqk1CTGuAf56qZzPeaUF2xtnqRYe8_HMnvPxzI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60333432/%E7%89%B9%E6%9C%97%E6%99%AE-%E6%AD%A3%E8%88%87%E4%BC%8A%E6%9C%97%E8%A8%8E%E8%AB%96%E7%B5%90%E6%9D%9F%E6%88%B0%E4%BA%8B15%E9%BB%9E%E5%8D%94%E8%AD%B0-%E5%B7%B2%E5%8F%96%E5%BE%97%E9%87%8D%E5%A4%A7%E5%85%B1%E8%AD%98",
-    "timestamp": "2026-03-23T20:04:40.235Z",
     "strategy": ".content-card__main"
   }
 ];
