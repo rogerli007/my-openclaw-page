@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-24T06:14:23.740Z
+// Last updated: 2026-03-24T07:42:36.396Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "涉洗錢棄保潛逃　｢百億賭王｣林秉文於柬埔寨遭槍殺　多人伏擊掃射",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260324/1113127128112566272384279.jpeg/S-gmA0XDsLqzh2xQSvY4h9ybgYqPdG9pxRajY8UWo2M?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8F%B0%E7%81%A3%E6%96%B0%E8%81%9E/60333659/%E7%99%BE%E5%84%84%E8%B3%AD%E7%8E%8B-%E6%9E%97%E7%A7%89%E6%96%87%E6%96%BC%E6%9F%AC%E5%9F%94%E5%AF%A8%E9%81%AD%E6%A7%8D%E6%AE%BA-%E5%A4%9A%E4%BA%BA%E4%BC%8F%E6%93%8A%E6%8E%83%E5%B0%84-%E6%B6%89%E6%B4%97%E9%8C%A2%E6%A3%84%E4%BF%9D%E6%BD%9B%E9%80%83",
+    "timestamp": "2026-03-24T07:42:36.396Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "宏福苑聽證會｜市建局律師稱未盡職說法不公　圍標難一己之力解決",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260323/1112872121308024832374168.jpeg/70vV5142J5fRp76Vm_r3KHlGZuxzurr10ttGUtLbRlI",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60333411/%E6%9C%89%E7%89%87-%E8%A5%BF%E7%87%9F%E7%9B%A4%E7%9A%87%E5%90%8E%E5%A4%A7%E9%81%93%E8%A5%BF%E4%BD%8F%E5%AE%85%E8%B5%B7%E7%81%AB%E6%BF%83%E7%85%99%E6%BB%BE%E6%BB%BE-%E7%9B%AE%E6%93%8A%E8%80%85%E9%A9%9A%E5%91%BC-%E5%9A%87%E6%AD%BB%E4%BA%BA",
     "timestamp": "2026-03-23T14:17:17.851Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "好市民獎10歲男童被指欺負老人　校方：非始作俑者　認說話不恰當",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260314/1109563917438423040025193.jpeg/0qtEFp3uAah9NnA8duK3lHQE6pOPWFNaRmpXZWNqV2U?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60333391/%E5%A5%BD%E5%B8%82%E6%B0%91%E7%8D%8E10%E6%AD%B2%E7%94%B7%E7%AB%A5%E8%A2%AB%E6%8C%87%E6%AC%BA%E8%B2%A0%E8%80%81%E4%BA%BA-%E6%A0%A1%E6%96%B9-%E9%9D%9E%E5%A7%8B%E4%BD%9C%E4%BF%91%E8%80%85-%E8%AA%8D%E8%AA%AA%E8%A9%B1%E4%B8%8D%E6%81%B0%E7%95%B6",
-    "timestamp": "2026-03-23T13:00:19.230Z",
     "strategy": ".content-card__main"
   }
 ];
