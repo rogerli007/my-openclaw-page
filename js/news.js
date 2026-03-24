@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-24T10:11:20.906Z
+// Last updated: 2026-03-24T10:38:52.897Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "張曦雯拍吻戲遇口臭男極崩潰　陳瀅自揭經常飲醉酒Facetime葉念琛",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260324/1113161464446717952546973.jpeg/bMRd9QcfQZKcodfUza2wCUrHXzAcKlVKJxGhPicRoT4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60333628/%E5%BC%B5%E6%9B%A6%E9%9B%AF%E6%8B%8D%E5%90%BB%E6%88%B2%E9%81%87%E5%8F%A3%E8%87%AD%E7%94%B7%E6%A5%B5%E5%B4%A9%E6%BD%B0-%E9%99%B3%E7%80%85%E8%87%AA%E6%8F%AD%E7%B6%93%E5%B8%B8%E9%A3%B2%E9%86%89%E9%85%92facetime%E8%91%89%E5%BF%B5%E7%90%9B",
+    "timestamp": "2026-03-24T10:38:52.897Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "77歲富豪娶AV嫩妻新婚3個月中毒亡！8年懸案判無罪有望獲巨額遺產",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260324/1112929558815838208916453.png/zfTUhXh-dEL6uEova3-iIZjkPQr7B1ZvlDA1W5QwNVs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60333430/%E5%93%A5%E5%80%AB%E6%AF%94%E4%BA%9E%E7%A9%BA%E8%BB%8D%E9%81%8B%E8%BC%B8%E6%A9%9F%E8%B5%B7%E9%A3%9B%E6%99%82%E5%A2%9C%E6%AF%80-%E6%93%9A%E5%A0%B180%E4%BA%BA%E6%AD%BB%E4%BA%A1",
     "timestamp": "2026-03-23T18:09:10.675Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "外媒稱美伊代表或周末伊斯蘭堡會談　伊朗議長否認曾對話",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20240628/883297081412816896304925.jpeg/pYPx84xCm2gTmHgJuv_X4lN8Tbs4WdqDmVmB4plZgeI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60333424/%E5%A4%96%E5%AA%92%E7%A8%B1%E7%BE%8E%E4%BC%8A%E4%BB%A3%E8%A1%A8%E6%88%96%E5%91%A8%E6%9C%AB%E4%BC%8A%E6%96%AF%E8%98%AD%E5%A0%A1%E6%9C%83%E8%AB%87-%E4%BC%8A%E6%9C%97%E8%AD%B0%E9%95%B7%E5%90%A6%E8%AA%8D%E6%9B%BE%E5%B0%8D%E8%A9%B1",
-    "timestamp": "2026-03-23T17:11:38.477Z",
     "strategy": ".content-card__main"
   }
 ];
