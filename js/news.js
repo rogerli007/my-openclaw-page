@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-24T02:25:32.451Z
+// Last updated: 2026-03-24T04:26:45.175Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "中國Router之王趙建軍被爆申請｢特朗普金卡｣　向美國遞出投名狀？",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260324/1113087673947394048519072.png/brSm9vTAqDlFwSJJ7tYdTLNAhYclNnuL7RLuye0S7sk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E4%B8%AD%E5%9C%8B%E8%A7%80%E5%AF%9F/60333559/%E4%B8%AD%E5%9C%8Brouter%E4%B9%8B%E7%8E%8B%E8%B6%99%E5%BB%BA%E8%BB%8D%E8%A2%AB%E7%88%86%E7%94%B3%E8%AB%8B-%E7%89%B9%E6%9C%97%E6%99%AE%E9%87%91%E5%8D%A1-%E5%90%91%E7%BE%8E%E5%9C%8B%E9%81%9E%E5%87%BA%E6%8A%95%E5%90%8D%E7%8B%80",
+    "timestamp": "2026-03-24T04:26:45.175Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "女子屯馬綫疑遭男子緊貼摸臀　另一受害人拍片錄過程　雙雙報警",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260323/1112833639302828032875916.jpeg/XLYLkwYKq6ozlOHrC_EIRKUgqCPE-Ja9fD63a3w-t2s?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60333389/%E7%BF%92%E8%BF%91%E5%B9%B3%E5%9C%A8%E6%B2%B3%E5%8C%97%E9%9B%84%E5%AE%89%E6%96%B0%E5%8D%80%E8%80%83%E5%AF%9F",
     "timestamp": "2026-03-23T11:37:11.327Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "日出康城海瑅灣I 招標沽19伙　四房逾2692萬沽、呎價2.33萬雙創頂",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260323/1112826671129432064463825.jpeg/q3HWoBTaHtxPgx08SeWy8F9-1253g9FgYtO0h2LTtIc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60333377/%E6%97%A5%E5%87%BA%E5%BA%B7%E5%9F%8E%E6%B5%B7%E7%91%85%E7%81%A3i-%E6%8B%9B%E6%A8%99%E6%B2%BD19%E4%BC%99-%E5%9B%9B%E6%88%BF%E9%80%BE2692%E8%90%AC%E6%B2%BD-%E5%91%8E%E5%83%B92-33%E8%90%AC%E9%9B%99%E5%89%B5%E9%A0%82",
-    "timestamp": "2026-03-23T11:11:49.322Z",
     "strategy": ".content-card__main"
   }
 ];
