@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-24T21:22:13.432Z
+// Last updated: 2026-03-24T21:51:52.831Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "OpenAI擬停用Sora視訊平台app　重新聚焦業務與編碼功能舉措之一",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20231119/803014406433673216137540.jpeg/6HS7SbnlQNI1f6POVrq-3VO99LZQkQt_mf3GWZn9xlk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60333885/openai%E6%93%AC%E5%81%9C%E7%94%A8sora%E8%A6%96%E8%A8%8A%E5%B9%B3%E5%8F%B0app-%E9%87%8D%E6%96%B0%E8%81%9A%E7%84%A6%E6%A5%AD%E5%8B%99%E8%88%87%E7%B7%A8%E7%A2%BC%E5%8A%9F%E8%83%BD%E8%88%89%E6%8E%AA%E4%B9%8B%E4%B8%80",
+    "timestamp": "2026-03-24T21:51:52.831Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "OpenAI擬停用Sora視訊平台app　重新聚焦業務與編碼功能舉措之一",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260324/1113127128112566272384279.jpeg/S-gmA0XDsLqzh2xQSvY4h9ybgYqPdG9pxRajY8UWo2M?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8F%B0%E7%81%A3%E6%96%B0%E8%81%9E/60333659/%E7%99%BE%E5%84%84%E8%B3%AD%E7%8E%8B-%E6%9E%97%E7%A7%89%E6%96%87%E6%96%BC%E6%9F%AC%E5%9F%94%E5%AF%A8%E9%81%AD%E6%A7%8D%E6%AE%BA-%E5%A4%9A%E4%BA%BA%E4%BC%8F%E6%93%8A%E6%8E%83%E5%B0%84-%E6%B6%89%E6%B4%97%E9%8C%A2%E6%A3%84%E4%BF%9D%E6%BD%9B%E9%80%83",
     "timestamp": "2026-03-24T07:42:36.396Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "宏福苑聽證會｜市建局律師稱未盡職說法不公　圍標難一己之力解決",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260221/1101964408298672128573284.jpeg/zsYMh2vKyZsTwPtGj-U6Ov1b1p4w_EI6rqnwH7Sp8B8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60333621/%E5%AE%8F%E7%A6%8F%E8%8B%91%E8%81%BD%E8%AD%89%E6%9C%83-%E5%B8%82%E5%BB%BA%E5%B1%80%E5%BE%8B%E5%B8%AB%E7%A8%B1%E6%9C%AA%E7%9B%A1%E8%81%B7%E8%AA%AA%E6%B3%95%E4%B8%8D%E5%85%AC-%E5%9C%8D%E6%A8%99%E9%9B%A3%E4%B8%80%E5%B7%B1%E4%B9%8B%E5%8A%9B%E8%A7%A3%E6%B1%BA",
-    "timestamp": "2026-03-24T06:14:23.740Z",
     "strategy": ".content-card__main"
   }
 ];
