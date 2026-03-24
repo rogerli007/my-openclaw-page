@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-24T22:17:19.339Z
+// Last updated: 2026-03-24T22:54:13.822Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "愛回家｜細力秦啟維離巢後進軍內地　赴武漢拍短劇兼開班：酬勞OK",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260324/1113247170498138112389074.jpeg/x1ZIlDmlhll-haJx7ARNNO9ht-i1UeXlYzRohmM0aIY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60333661/%E6%84%9B%E5%9B%9E%E5%AE%B6-%E7%B4%B0%E5%8A%9B%E7%A7%A6%E5%95%9F%E7%B6%AD%E9%9B%A2%E5%B7%A2%E5%BE%8C%E9%80%B2%E8%BB%8D%E5%85%A7%E5%9C%B0-%E8%B5%B4%E6%AD%A6%E6%BC%A2%E6%8B%8D%E7%9F%AD%E5%8A%87%E5%85%BC%E9%96%8B%E7%8F%AD-%E9%85%AC%E5%8B%9Eok",
+    "timestamp": "2026-03-24T22:54:13.822Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "天氣｜今早潮濕沿岸有霧　日間大致天晴及炎熱　市區最高約28度",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260324/1113061500487995392195407.png/vipHD8INl4oNtMlMWTQpgv_9-e20u10xkLYlg5C2JYM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60333499/%E5%90%8D%E7%89%8C%E8%AE%8A%E9%9B%9C%E7%89%8C-%E5%85%A7%E5%9C%B0%E5%A5%B3%E8%B2%B7-%E5%91%A8%E5%A4%A7%E7%94%9F-%E9%87%91%E6%88%92%E8%AE%8A-%E5%91%A8%E5%A4%A7%E9%87%91-%E5%BA%97%E5%93%A1%E7%A8%B1%E5%8D%B0%E9%8C%AF%E6%8B%92%E8%B3%A0%E5%84%9F",
     "timestamp": "2026-03-24T08:37:57.515Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "中國展開大規模海底測繪為潛艇戰布局　專家：針對美國及其盟友",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260324/1113138613362626560980415.jpeg/pWUunhuR6PKTKysTQyygSV_oLlCCsE4a9XetkfV3rZE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60333682/%E4%B8%AD%E5%9C%8B%E5%B1%95%E9%96%8B%E5%A4%A7%E8%A6%8F%E6%A8%A1%E6%B5%B7%E5%BA%95%E6%B8%AC%E7%B9%AA%E7%82%BA%E6%BD%9B%E8%89%87%E6%88%B0%E5%B8%83%E5%B1%80-%E5%B0%88%E5%AE%B6-%E9%87%9D%E5%B0%8D%E7%BE%8E%E5%9C%8B%E5%8F%8A%E5%85%B6%E7%9B%9F%E5%8F%8B",
-    "timestamp": "2026-03-24T08:07:29.619Z",
     "strategy": ".content-card__main"
   }
 ];
