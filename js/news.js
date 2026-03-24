@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-24T04:26:45.175Z
+// Last updated: 2026-03-24T05:46:35.199Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "政府骨灰龕｜和合石等8月起變每月配位　毋須等一年　縮輪候時間",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260324/1113108135674908672730194.jpeg/V6Ebm4LRlLct-V_Rf56ycsWijY4aegXTBKogHASqIBw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60333620/%E6%94%BF%E5%BA%9C%E9%AA%A8%E7%81%B0%E9%BE%95-%E5%92%8C%E5%90%88%E7%9F%B3%E7%AD%898%E6%9C%88%E8%B5%B7%E8%AE%8A%E6%AF%8F%E6%9C%88%E9%85%8D%E4%BD%8D-%E6%AF%8B%E9%A0%88%E7%AD%89%E4%B8%80%E5%B9%B4-%E7%B8%AE%E8%BC%AA%E5%80%99%E6%99%82%E9%96%93",
+    "timestamp": "2026-03-24T05:46:35.199Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "中國Router之王趙建軍被爆申請｢特朗普金卡｣　向美國遞出投名狀？",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260323/1112796039351373824319052.png/BiFvNPaMpZpbwfYCPzxljqozx-v0wefx8mta-vJrWvo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60333317/%E7%BE%8E%E7%99%BE%E4%BA%BA%E5%A9%9A%E7%A6%AE%E6%85%98%E8%AE%8A%E7%81%BD%E9%9B%A3%E7%8F%BE%E5%A0%B4-%E5%A0%B4%E5%9C%B0%E5%9C%B0%E6%9D%BF%E7%AA%81%E5%B4%A9%E5%A1%8C%E7%9B%B4%E5%A2%AE%E5%9C%B0%E4%B8%8B%E5%AE%A4-%E5%85%AD%E4%BA%BA%E6%80%A5%E9%80%81%E9%99%A2",
     "timestamp": "2026-03-23T12:36:01.281Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "習近平在河北雄安新區考察",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260323/1112833639302828032875916.jpeg/XLYLkwYKq6ozlOHrC_EIRKUgqCPE-Ja9fD63a3w-t2s?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60333389/%E7%BF%92%E8%BF%91%E5%B9%B3%E5%9C%A8%E6%B2%B3%E5%8C%97%E9%9B%84%E5%AE%89%E6%96%B0%E5%8D%80%E8%80%83%E5%AF%9F",
-    "timestamp": "2026-03-23T11:37:11.327Z",
     "strategy": ".content-card__main"
   }
 ];
