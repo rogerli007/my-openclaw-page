@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-24T14:37:32.682Z
+// Last updated: 2026-03-24T15:14:22.441Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美股｜道指早段曾跌逾400點　油價最新升逾3%",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260302/1105275351317090304780532.jpeg/DkKPKUERGlflcuBT2zdsfcAaC6kyyc-BZYvINmWLyDY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60333857/%E7%BE%8E%E8%82%A1-%E9%81%93%E6%8C%87%E6%97%A9%E6%AE%B5%E6%9B%BE%E8%B7%8C%E9%80%BE400%E9%BB%9E-%E6%B2%B9%E5%83%B9%E6%9C%80%E6%96%B0%E5%8D%87%E9%80%BE3",
+    "timestamp": "2026-03-24T15:14:22.441Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "網友喊想死引百萬人關注　廣瀨愛麗絲1句神回覆救援　網直呼感動",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260323/1112849722311184384073529.jpeg/LqpfcZuvsaawU340muWhTTX3qygwDWzRDWwUdw1sFHc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60332948/48%E6%AD%B2%E8%AD%9A%E5%98%89%E8%8D%83%E7%BD%95%E9%9C%B2%E9%9D%A2%E4%BC%BC%E5%B0%91%E5%A5%B3-%E6%9B%BE%E8%88%87%E9%83%AD%E5%8F%AF%E7%9B%88%E5%A0%82%E5%A6%B9%E4%BB%A5b2%E7%B5%84%E5%90%88%E9%97%96%E6%A8%82%E5%A3%87",
     "timestamp": "2026-03-23T22:17:32.694Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "北角私家車司機懷少量大麻被捕　再揭尾箱藏未開鋒武士刀",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260324/1112977416403292160627301.jpeg/babzGOh4U-ZTeP8i_g_3sITOb64d703KzLepC-m3qQs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60333439/%E5%8C%97%E8%A7%92%E7%A7%81%E5%AE%B6%E8%BB%8A%E5%8F%B8%E6%A9%9F%E6%87%B7%E5%B0%91%E9%87%8F%E5%A4%A7%E9%BA%BB%E8%A2%AB%E6%8D%95-%E5%86%8D%E6%8F%AD%E5%B0%BE%E7%AE%B1%E8%97%8F%E6%9C%AA%E9%96%8B%E9%8B%92%E6%AD%A6%E5%A3%AB%E5%88%80",
-    "timestamp": "2026-03-23T21:22:49.327Z",
     "strategy": ".content-card__main"
   }
 ];
