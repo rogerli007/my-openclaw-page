@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-24T12:04:37.105Z
+// Last updated: 2026-03-24T12:35:26.382Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "上海迪士尼十周年限定套餐「蒸包加薯片」賣 ¥70　網民：物價離譜",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260324/1113175234871037952239471.jpeg/JUkrDfmAOKPtQR4QxK99V_qlT75FAfFcsp99W7KffVs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60333782/%E4%B8%8A%E6%B5%B7%E8%BF%AA%E5%A3%AB%E5%B0%BC%E5%8D%81%E5%91%A8%E5%B9%B4%E9%99%90%E5%AE%9A%E5%A5%97%E9%A4%90-%E8%92%B8%E5%8C%85%E5%8A%A0%E8%96%AF%E7%89%87-%E8%B3%A3-70-%E7%B6%B2%E6%B0%91-%E7%89%A9%E5%83%B9%E9%9B%A2%E8%AD%9C",
+    "timestamp": "2026-03-24T12:35:26.382Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "國安細則修訂｜警方可隨街攞市民手機密碼？鄧炳強：錯嘅、嚇你嘅",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260324/1112933973169803264094375.jpeg/uCJz5Nqk1CTGuAf56qZzPeaUF2xtnqRYe8_HMnvPxzI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60333432/%E7%89%B9%E6%9C%97%E6%99%AE-%E6%AD%A3%E8%88%87%E4%BC%8A%E6%9C%97%E8%A8%8E%E8%AB%96%E7%B5%90%E6%9D%9F%E6%88%B0%E4%BA%8B15%E9%BB%9E%E5%8D%94%E8%AD%B0-%E5%B7%B2%E5%8F%96%E5%BE%97%E9%87%8D%E5%A4%A7%E5%85%B1%E8%AD%98",
     "timestamp": "2026-03-23T20:04:40.235Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普：正與伊朗討論結束戰事15點協議　已取得重大共識",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260324/1112933973169803264094375.jpeg/uCJz5Nqk1CTGuAf56qZzPeaUF2xtnqRYe8_HMnvPxzI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60333432/%E7%89%B9%E6%9C%97%E6%99%AE-%E6%AD%A3%E8%88%87%E4%BC%8A%E6%9C%97%E8%A8%8E%E8%AB%96%E7%B5%90%E6%9D%9F%E6%88%B0%E4%BA%8B15%E9%BB%9E%E5%8D%94%E8%AD%B0-%E5%B7%B2%E5%8F%96%E5%BE%97%E9%87%8D%E5%A4%A7%E5%85%B1%E8%AD%98",
-    "timestamp": "2026-03-23T19:39:46.609Z",
     "strategy": ".content-card__main"
   }
 ];
