@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-24T18:10:51.482Z
+// Last updated: 2026-03-24T18:41:08.340Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "警反黑組大埔拘45歲女子　起獲200粒依托咪酯煙彈",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260325/1113300238304546816237408.jpeg/VkM7aoegkKocxqOjd1vmfR1b8IEm8FQ_59zLb-fcy28?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60333876/%E8%AD%A6%E5%8F%8D%E9%BB%91%E7%B5%84%E5%A4%A7%E5%9F%94%E6%8B%9845%E6%AD%B2%E5%A5%B3%E5%AD%90-%E8%B5%B7%E7%8D%B2200%E7%B2%92%E4%BE%9D%E6%89%98%E5%92%AA%E9%85%AF%E7%85%99%E5%BD%88",
+    "timestamp": "2026-03-24T18:41:08.340Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "特朗普稱郵寄投票易生舞弊　卻於佛州補選以郵寄投票",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260324/1113054757297065984837095.jpeg/M8w35-2LGy842SLG8OAxkEbeCMdePCY8UCJXi1AiV4s?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60333220/%E5%A5%B3%E5%AD%90%E5%B1%AF%E9%A6%AC%E7%B6%AB%E7%96%91%E9%81%AD%E7%94%B7%E5%AD%90%E7%B7%8A%E8%B2%BC%E6%91%B8%E8%87%80-%E5%8F%A6%E4%B8%80%E5%8F%97%E5%AE%B3%E4%BA%BA%E6%8B%8D%E7%89%87%E9%8C%84%E9%81%8E%E7%A8%8B-%E9%9B%99%E9%9B%99%E5%A0%B1%E8%AD%A6",
     "timestamp": "2026-03-24T02:25:32.451Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "浸大辦創校70周年校慶啟動禮　校長衞炳江冀能發揮更大影響力",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260324/1113008927819173888302974.jpeg/sktpPvVAbblSCcfv2XeIP8g9GMttiEBRWTR0YVk0dGE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%B0%88%E4%B8%8A%E6%95%99%E8%82%B2/60333445/%E6%B5%B8%E5%A4%A7%E8%BE%A6%E5%89%B5%E6%A0%A170%E5%91%A8%E5%B9%B4%E6%A0%A1%E6%85%B6%E5%95%9F%E5%8B%95%E7%A6%AE-%E6%A0%A1%E9%95%B7%E8%A1%9E%E7%82%B3%E6%B1%9F%E5%86%80%E8%83%BD%E7%99%BC%E6%8F%AE%E6%9B%B4%E5%A4%A7%E5%BD%B1%E9%9F%BF%E5%8A%9B",
-    "timestamp": "2026-03-24T01:21:44.612Z",
     "strategy": ".content-card__main"
   }
 ];
