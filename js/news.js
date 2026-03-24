@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-24T18:41:08.340Z
+// Last updated: 2026-03-24T19:15:34.341Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "路透社民調：伊朗戰事推高油價　特朗普支持度36%創第二任期新低",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260317/1110448537747197952640518.jpeg/qh7EK-C8lwesFoZGJVPgf02-oA8tWOlHR2fuA0dn7gM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60333878/%E8%B7%AF%E9%80%8F%E7%A4%BE%E6%B0%91%E8%AA%BF-%E4%BC%8A%E6%9C%97%E6%88%B0%E4%BA%8B%E6%8E%A8%E9%AB%98%E6%B2%B9%E5%83%B9-%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%AF%E6%8C%81%E5%BA%A636-%E5%89%B5%E7%AC%AC%E4%BA%8C%E4%BB%BB%E6%9C%9F%E6%96%B0%E4%BD%8E",
+    "timestamp": "2026-03-24T19:15:34.341Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "警反黑組大埔拘45歲女子　起獲200粒依托咪酯煙彈",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260324/1113087673947394048519072.png/brSm9vTAqDlFwSJJ7tYdTLNAhYclNnuL7RLuye0S7sk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E4%B8%AD%E5%9C%8B%E8%A7%80%E5%AF%9F/60333559/%E4%B8%AD%E5%9C%8Brouter%E4%B9%8B%E7%8E%8B%E8%B6%99%E5%BB%BA%E8%BB%8D%E8%A2%AB%E7%88%86%E7%94%B3%E8%AB%8B-%E7%89%B9%E6%9C%97%E6%99%AE%E9%87%91%E5%8D%A1-%E5%90%91%E7%BE%8E%E5%9C%8B%E9%81%9E%E5%87%BA%E6%8A%95%E5%90%8D%E7%8B%80",
     "timestamp": "2026-03-24T04:26:45.175Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "女子屯馬綫疑遭男子緊貼摸臀　另一受害人拍片錄過程　雙雙報警",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260324/1113054757297065984837095.jpeg/M8w35-2LGy842SLG8OAxkEbeCMdePCY8UCJXi1AiV4s?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60333220/%E5%A5%B3%E5%AD%90%E5%B1%AF%E9%A6%AC%E7%B6%AB%E7%96%91%E9%81%AD%E7%94%B7%E5%AD%90%E7%B7%8A%E8%B2%BC%E6%91%B8%E8%87%80-%E5%8F%A6%E4%B8%80%E5%8F%97%E5%AE%B3%E4%BA%BA%E6%8B%8D%E7%89%87%E9%8C%84%E9%81%8E%E7%A8%8B-%E9%9B%99%E9%9B%99%E5%A0%B1%E8%AD%A6",
-    "timestamp": "2026-03-24T02:25:32.451Z",
     "strategy": ".content-card__main"
   }
 ];
