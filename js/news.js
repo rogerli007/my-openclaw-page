@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-24T10:38:52.897Z
+// Last updated: 2026-03-24T11:11:25.875Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "淺水灣海灘道女子捱私家車撞　多處受傷重創",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260324/1113188846247350272438791.jpeg/ZOQv1ACVmUd5e1RZ8XM_E1WaCtXaKxk1pQIPKaUCDyk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60333814/%E6%B7%BA%E6%B0%B4%E7%81%A3%E6%B5%B7%E7%81%98%E9%81%93%E5%A5%B3%E5%AD%90%E6%8D%B1%E7%A7%81%E5%AE%B6%E8%BB%8A%E6%92%9E-%E5%A4%9A%E8%99%95%E5%8F%97%E5%82%B7%E9%87%8D%E5%89%B5",
+    "timestamp": "2026-03-24T11:11:25.875Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "張曦雯拍吻戲遇口臭男極崩潰　陳瀅自揭經常飲醉酒Facetime葉念琛",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260324/1112929558815838208916453.png/zfTUhXh-dEL6uEova3-iIZjkPQr7B1ZvlDA1W5QwNVs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60333430/%E5%93%A5%E5%80%AB%E6%AF%94%E4%BA%9E%E7%A9%BA%E8%BB%8D%E8%BC%89%E9%80%BE120%E4%BA%BA%E9%81%8B%E8%BC%B8%E6%A9%9F%E8%B5%B7%E9%A3%9B%E6%99%82%E5%A2%9C%E6%AF%80-%E8%B7%AF%E9%80%8F%E7%A4%BE-71%E4%BA%BA%E5%B7%B2%E7%8D%B2%E6%95%91",
     "timestamp": "2026-03-23T19:13:03.431Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "哥倫比亞空軍運輸機起飛時墜毀　據報80人死亡",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260324/1112929558815838208916453.png/zfTUhXh-dEL6uEova3-iIZjkPQr7B1ZvlDA1W5QwNVs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60333430/%E5%93%A5%E5%80%AB%E6%AF%94%E4%BA%9E%E7%A9%BA%E8%BB%8D%E9%81%8B%E8%BC%B8%E6%A9%9F%E8%B5%B7%E9%A3%9B%E6%99%82%E5%A2%9C%E6%AF%80-%E6%93%9A%E5%A0%B180%E4%BA%BA%E6%AD%BB%E4%BA%A1",
-    "timestamp": "2026-03-23T18:09:10.675Z",
     "strategy": ".content-card__main"
   }
 ];
