@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-24T15:14:22.441Z
+// Last updated: 2026-03-24T15:46:51.052Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "菲律賓總統宣布全國進入能源緊急狀態　汽油儲備量僅可維持53日",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250811/1031570870025326592259643.jpeg/L6wuR167QwuSexLE8zkddpd1bdmMECSsd11cL3ddXC8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60333860/%E8%8F%B2%E5%BE%8B%E8%B3%93%E7%B8%BD%E7%B5%B1%E5%AE%A3%E5%B8%83%E5%85%A8%E5%9C%8B%E9%80%B2%E5%85%A5%E8%83%BD%E6%BA%90%E7%B7%8A%E6%80%A5%E7%8B%80%E6%85%8B-%E6%B1%BD%E6%B2%B9%E5%84%B2%E5%82%99%E9%87%8F%E5%83%85%E5%8F%AF%E7%B6%AD%E6%8C%8153%E6%97%A5",
+    "timestamp": "2026-03-24T15:46:51.052Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美股｜道指早段曾跌逾400點　油價最新升逾3%",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260323/1112764757531693056283019.jpeg/RoyyFSt2gAwzape93fKJq4NYFZzvP1RD15PrBteT6wY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%9C%8B%E9%9A%9B%E5%88%86%E6%9E%90/60333434/%E5%B0%8D%E4%BC%8A%E6%9C%97%E6%9C%80%E5%BE%8C%E9%80%9A%E7%89%92%E5%BE%9E48%E5%B0%8F%E6%99%82%E8%AE%8A5%E5%A4%A9-%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8D%E6%95%A2%E6%89%93%E5%8F%88%E5%8F%AA%E8%83%BD%E6%8B%96%E6%99%82%E9%96%93",
     "timestamp": "2026-03-23T23:18:24.005Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "48歲譚嘉荃罕露面似少女　曾與郭可盈堂妹以B2組合闖樂壇",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260323/1112849722311184384073529.jpeg/LqpfcZuvsaawU340muWhTTX3qygwDWzRDWwUdw1sFHc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60332948/48%E6%AD%B2%E8%AD%9A%E5%98%89%E8%8D%83%E7%BD%95%E9%9C%B2%E9%9D%A2%E4%BC%BC%E5%B0%91%E5%A5%B3-%E6%9B%BE%E8%88%87%E9%83%AD%E5%8F%AF%E7%9B%88%E5%A0%82%E5%A6%B9%E4%BB%A5b2%E7%B5%84%E5%90%88%E9%97%96%E6%A8%82%E5%A3%87",
-    "timestamp": "2026-03-23T22:17:32.694Z",
     "strategy": ".content-card__main"
   }
 ];
