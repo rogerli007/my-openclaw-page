@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-24T08:07:29.619Z
+// Last updated: 2026-03-24T08:37:57.515Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "名牌變雜牌？內地女買｢周大生｣金戒變｢周大金｣　店員稱印錯拒賠償",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260324/1113061500487995392195407.png/vipHD8INl4oNtMlMWTQpgv_9-e20u10xkLYlg5C2JYM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60333499/%E5%90%8D%E7%89%8C%E8%AE%8A%E9%9B%9C%E7%89%8C-%E5%85%A7%E5%9C%B0%E5%A5%B3%E8%B2%B7-%E5%91%A8%E5%A4%A7%E7%94%9F-%E9%87%91%E6%88%92%E8%AE%8A-%E5%91%A8%E5%A4%A7%E9%87%91-%E5%BA%97%E5%93%A1%E7%A8%B1%E5%8D%B0%E9%8C%AF%E6%8B%92%E8%B3%A0%E5%84%9F",
+    "timestamp": "2026-03-24T08:37:57.515Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "中國展開大規模海底測繪為潛艇戰布局　專家：針對美國及其盟友",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260323/1112800167683166208146750.jpeg/JwQOKdEPQ-1e84AEyyGiz6i9OwDlDJLWqWQXX6lkF18?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60333296/itzy%E6%BC%94%E5%94%B1%E6%9C%832026%E9%A6%99%E6%B8%AF-trip-%E4%BF%A1%E7%94%A8%E5%8D%A1%E5%84%AA%E5%85%88%E5%8F%8A%E5%85%AC%E5%94%AE%E6%94%BB%E7%95%A5-%E5%BA%A7%E4%BD%8D%E8%A1%A8-%E9%80%A3%E7%B5%90",
     "timestamp": "2026-03-23T16:12:03.596Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普政府白宮旁安置雕像　稱「要讓哥倫布日重獲新生」",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260323/1112871055510212608430926.jpeg/EGRzGOWg1QaTNpJzFcb-gT2Cu2N9mWZOTCGS_kwhkv4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60333410/%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%E7%99%BD%E5%AE%AE%E6%97%81%E5%AE%89%E7%BD%AE%E9%9B%95%E5%83%8F-%E7%A8%B1-%E8%A6%81%E8%AE%93%E5%93%A5%E5%80%AB%E5%B8%83%E6%97%A5%E9%87%8D%E7%8D%B2%E6%96%B0%E7%94%9F",
-    "timestamp": "2026-03-23T14:50:44.236Z",
     "strategy": ".content-card__main"
   }
 ];
