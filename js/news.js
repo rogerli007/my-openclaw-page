@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-24T22:54:13.822Z
+// Last updated: 2026-03-24T23:59:57.856Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "如果和戰由伊朗以色列決定　特朗普還不如讓內塔尼亞胡做美國總統",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260223/1102620202035580928642198.jpeg/7tkWWg4vtmcjWORpQUVt-QgeHBRbaTLWxnj5kcZ4-ZE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%9C%8B%E9%9A%9B%E5%88%86%E6%9E%90/60333877/%E5%A6%82%E6%9E%9C%E5%92%8C%E6%88%B0%E4%BC%8A%E6%9C%97%E4%BB%A5%E8%89%B2%E5%88%97%E6%B1%BA%E5%AE%9A-%E7%89%B9%E6%9C%97%E6%99%AE%E9%82%84%E4%B8%8D%E5%A6%82%E8%AE%93%E5%85%A7%E5%A1%94%E5%B0%BC%E4%BA%9E%E8%83%A1%E5%81%9A%E7%BE%8E%E5%9C%8B%E7%B8%BD%E7%B5%B1",
+    "timestamp": "2026-03-24T23:59:57.856Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "愛回家｜細力秦啟維離巢後進軍內地　赴武漢拍短劇兼開班：酬勞OK",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260324/1113162579527602176378164.png/TxdkRQh4MmKa1gE6DwTvNPC7iL4FFZLfd3d9uXd3fbk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60333680/samsung-buds-4-pro%E5%AF%A6%E6%B8%AC-%E9%99%8D%E5%99%AA%E9%9F%B3%E8%B3%AA%E5%84%AA%E7%A7%80-%E5%A0%AA%E7%A8%B1android%E7%89%88airpods",
     "timestamp": "2026-03-24T09:41:15.137Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "名牌變雜牌？內地女買｢周大生｣金戒變｢周大金｣　店員稱印錯拒賠償",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260324/1113061500487995392195407.png/vipHD8INl4oNtMlMWTQpgv_9-e20u10xkLYlg5C2JYM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60333499/%E5%90%8D%E7%89%8C%E8%AE%8A%E9%9B%9C%E7%89%8C-%E5%85%A7%E5%9C%B0%E5%A5%B3%E8%B2%B7-%E5%91%A8%E5%A4%A7%E7%94%9F-%E9%87%91%E6%88%92%E8%AE%8A-%E5%91%A8%E5%A4%A7%E9%87%91-%E5%BA%97%E5%93%A1%E7%A8%B1%E5%8D%B0%E9%8C%AF%E6%8B%92%E8%B3%A0%E5%84%9F",
-    "timestamp": "2026-03-24T08:37:57.515Z",
     "strategy": ".content-card__main"
   }
 ];
