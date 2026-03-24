@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-23T23:36:12.465Z
+// Last updated: 2026-03-24T01:21:44.612Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "浸大辦創校70周年校慶啟動禮　校長衞炳江冀能發揮更大影響力",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260324/1113008927819173888302974.jpeg/sktpPvVAbblSCcfv2XeIP8g9GMttiEBRWTR0YVk0dGE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%B0%88%E4%B8%8A%E6%95%99%E8%82%B2/60333445/%E6%B5%B8%E5%A4%A7%E8%BE%A6%E5%89%B5%E6%A0%A170%E5%91%A8%E5%B9%B4%E6%A0%A1%E6%85%B6%E5%95%9F%E5%8B%95%E7%A6%AE-%E6%A0%A1%E9%95%B7%E8%A1%9E%E7%82%B3%E6%B1%9F%E5%86%80%E8%83%BD%E7%99%BC%E6%8F%AE%E6%9B%B4%E5%A4%A7%E5%BD%B1%E9%9F%BF%E5%8A%9B",
+    "timestamp": "2026-03-24T01:21:44.612Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "東張西望｜節目組放蛇被識破　賣家機警問：你哋係咪東張西望",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260323/1112807130194251776328647.jpeg/dAvl54BO2E99tK3sRpPE6IBn6HEnX3XnQVVDm0FVQ5s?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60333342/kodaline%E6%BC%94%E5%94%B1%E6%9C%832026%E9%A6%99%E6%B8%AF-%E9%96%80%E7%A5%A8%E5%84%AA%E5%85%88-%E5%85%AC%E5%94%AE%E6%94%BB%E7%95%A5-%E8%B3%BC%E7%A5%A8%E9%80%A3%E7%B5%90-%E5%BA%A7%E4%BD%8D%E8%A1%A8",
     "timestamp": "2026-03-23T10:40:53.064Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "港鐵青年吸依托咪酯？車廂吐霧全身抽搐　另有影片揭真相惹熱議",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260323/1112794127713439744501294.png/67EDowCFHVwGowfkAiADqQpAwft25vbBBy-1CAcvtQg",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60333066/%E6%B8%AF%E9%90%B5%E9%9D%92%E5%B9%B4%E5%90%B8%E4%BE%9D%E6%89%98%E5%92%AA%E9%85%AF-%E8%BB%8A%E5%BB%82%E5%90%90%E9%9C%A7%E5%85%A8%E8%BA%AB%E6%8A%BD%E6%90%90-%E5%8F%A6%E6%9C%89%E5%BD%B1%E7%89%87%E6%8F%AD%E7%9C%9F%E7%9B%B8%E6%83%B9%E7%86%B1%E8%AD%B0",
-    "timestamp": "2026-03-23T10:15:04.624Z",
     "strategy": ".content-card__main"
   }
 ];
