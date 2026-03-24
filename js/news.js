@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-24T13:55:52.671Z
+// Last updated: 2026-03-24T14:37:32.682Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "網友喊想死引百萬人關注　廣瀨愛麗絲1句神回覆救援　網直呼感動",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260323/1112807412089229312138259.png/d7gdCb1IuHPDsivylVyiAZyvwEoHMdo8A7BLEQOwSxE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E5%A8%9B%E6%A8%82/60333329/%E7%B6%B2%E5%8F%8B%E5%96%8A%E6%83%B3%E6%AD%BB%E5%BC%95%E7%99%BE%E8%90%AC%E4%BA%BA%E9%97%9C%E6%B3%A8-%E5%BB%A3%E7%80%A8%E6%84%9B%E9%BA%97%E7%B5%B21%E5%8F%A5%E7%A5%9E%E5%9B%9E%E8%A6%86%E6%95%91%E6%8F%B4-%E7%B6%B2%E7%9B%B4%E5%91%BC%E6%84%9F%E5%8B%95",
+    "timestamp": "2026-03-24T14:37:32.682Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "復活節｜4.7回港高峰　至少6城市返港高鐵班次售罄　武漢剩兩個位",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260324/1112977416403292160627301.jpeg/babzGOh4U-ZTeP8i_g_3sITOb64d703KzLepC-m3qQs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60333439/%E5%8C%97%E8%A7%92%E7%A7%81%E5%AE%B6%E8%BB%8A%E5%8F%B8%E6%A9%9F%E6%87%B7%E5%B0%91%E9%87%8F%E5%A4%A7%E9%BA%BB%E8%A2%AB%E6%8D%95-%E5%86%8D%E6%8F%AD%E5%B0%BE%E7%AE%B1%E8%97%8F%E6%9C%AA%E9%96%8B%E9%8B%92%E6%AD%A6%E5%A3%AB%E5%88%80",
     "timestamp": "2026-03-23T21:22:49.327Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普：正與伊朗討論結束戰事15點協議　已取得重大共識",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260324/1112933973169803264094375.jpeg/uCJz5Nqk1CTGuAf56qZzPeaUF2xtnqRYe8_HMnvPxzI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60333432/%E7%89%B9%E6%9C%97%E6%99%AE-%E6%AD%A3%E8%88%87%E4%BC%8A%E6%9C%97%E8%A8%8E%E8%AB%96%E7%B5%90%E6%9D%9F%E6%88%B0%E4%BA%8B15%E9%BB%9E%E5%8D%94%E8%AD%B0-%E5%B7%B2%E5%8F%96%E5%BE%97%E9%87%8D%E5%A4%A7%E5%85%B1%E8%AD%98",
-    "timestamp": "2026-03-23T20:27:55.268Z",
     "strategy": ".content-card__main"
   }
 ];
