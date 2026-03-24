@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-24T01:21:44.612Z
+// Last updated: 2026-03-24T02:25:32.451Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "女子屯馬綫疑遭男子緊貼摸臀　另一受害人拍片錄過程　雙雙報警",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260324/1113054757297065984837095.jpeg/M8w35-2LGy842SLG8OAxkEbeCMdePCY8UCJXi1AiV4s?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60333220/%E5%A5%B3%E5%AD%90%E5%B1%AF%E9%A6%AC%E7%B6%AB%E7%96%91%E9%81%AD%E7%94%B7%E5%AD%90%E7%B7%8A%E8%B2%BC%E6%91%B8%E8%87%80-%E5%8F%A6%E4%B8%80%E5%8F%97%E5%AE%B3%E4%BA%BA%E6%8B%8D%E7%89%87%E9%8C%84%E9%81%8E%E7%A8%8B-%E9%9B%99%E9%9B%99%E5%A0%B1%E8%AD%A6",
+    "timestamp": "2026-03-24T02:25:32.451Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "浸大辦創校70周年校慶啟動禮　校長衞炳江冀能發揮更大影響力",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260323/1112826671129432064463825.jpeg/q3HWoBTaHtxPgx08SeWy8F9-1253g9FgYtO0h2LTtIc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60333377/%E6%97%A5%E5%87%BA%E5%BA%B7%E5%9F%8E%E6%B5%B7%E7%91%85%E7%81%A3i-%E6%8B%9B%E6%A8%99%E6%B2%BD19%E4%BC%99-%E5%9B%9B%E6%88%BF%E9%80%BE2692%E8%90%AC%E6%B2%BD-%E5%91%8E%E5%83%B92-33%E8%90%AC%E9%9B%99%E5%89%B5%E9%A0%82",
     "timestamp": "2026-03-23T11:11:49.322Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "Kodaline演唱會2026香港｜門票優先/公售攻略+購票連結+座位表",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260323/1112807130194251776328647.jpeg/dAvl54BO2E99tK3sRpPE6IBn6HEnX3XnQVVDm0FVQ5s?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60333342/kodaline%E6%BC%94%E5%94%B1%E6%9C%832026%E9%A6%99%E6%B8%AF-%E9%96%80%E7%A5%A8%E5%84%AA%E5%85%88-%E5%85%AC%E5%94%AE%E6%94%BB%E7%95%A5-%E8%B3%BC%E7%A5%A8%E9%80%A3%E7%B5%90-%E5%BA%A7%E4%BD%8D%E8%A1%A8",
-    "timestamp": "2026-03-23T10:40:53.064Z",
     "strategy": ".content-card__main"
   }
 ];
