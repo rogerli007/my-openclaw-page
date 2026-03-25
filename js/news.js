@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-25T06:45:06.555Z
+// Last updated: 2026-03-25T07:14:55.443Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "張雪峰猝死｜41歲名師跑步心臟病猝死！頭暈唇發紫7徵兆護心4食物",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260325/1113485885472509952164398.jpeg/bsg7wdXo845OQRNFOOG-t4mq2anT4JZaQVFEF0FRRBc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60333933/%E5%BC%B5%E9%9B%AA%E5%B3%B0%E7%8C%9D%E6%AD%BB-41%E6%AD%B2%E5%90%8D%E5%B8%AB%E8%B7%91%E6%AD%A5%E5%BF%83%E8%87%9F%E7%97%85%E7%8C%9D%E6%AD%BB-%E9%A0%AD%E6%9A%88%E5%94%87%E7%99%BC%E7%B4%AB7%E5%BE%B5%E5%85%86%E8%AD%B7%E5%BF%834%E9%A3%9F%E7%89%A9",
+    "timestamp": "2026-03-25T07:14:55.443Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "Art Basel巴塞爾藝術展｜羅淑佩：未來5年香港成亞洲區唯一主辦地",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250421/990999615648043008704513.jpeg/I1tfb0aLO7se0IY8pnSeaCwR2CCZZusV9waM9tIGjPY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60333818/%E5%BE%A9%E6%B4%BB%E7%AF%80-4-7%E5%9B%9E%E6%B8%AF%E9%AB%98%E5%B3%B0-%E8%87%B3%E5%B0%916%E5%9F%8E%E5%B8%82%E8%BF%94%E6%B8%AF%E9%AB%98%E9%90%B5%E7%8F%AD%E6%AC%A1%E5%94%AE%E7%BD%84-%E6%AD%A6%E6%BC%A2%E5%89%A9%E5%85%A9%E5%80%8B%E4%BD%8D",
     "timestamp": "2026-03-24T13:55:52.671Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "上海迪士尼十周年限定套餐「蒸包加薯片」賣 ¥70　網民：物價離譜",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260324/1113175234871037952239471.jpeg/JUkrDfmAOKPtQR4QxK99V_qlT75FAfFcsp99W7KffVs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60333782/%E4%B8%8A%E6%B5%B7%E8%BF%AA%E5%A3%AB%E5%B0%BC%E5%8D%81%E5%91%A8%E5%B9%B4%E9%99%90%E5%AE%9A%E5%A5%97%E9%A4%90-%E8%92%B8%E5%8C%85%E5%8A%A0%E8%96%AF%E7%89%87-%E8%B3%A3-70-%E7%B6%B2%E6%B0%91-%E7%89%A9%E5%83%B9%E9%9B%A2%E8%AD%9C",
-    "timestamp": "2026-03-24T12:35:26.382Z",
     "strategy": ".content-card__main"
   }
 ];
