@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-25T07:14:55.443Z
+// Last updated: 2026-03-25T07:42:56.378Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "陳敏之為傭工慶生曬全家福素顏狀態被讚無變過　丈夫外貌無辜中槍",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260325/1113489341251850240921807.jpeg/uI6uZW2XxwnIsxY8YDPgTN6YBkWkRUhqxVE5i8VROYs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60333714/%E9%99%B3%E6%95%8F%E4%B9%8B%E7%82%BA%E5%82%AD%E5%B7%A5%E6%85%B6%E7%94%9F%E6%9B%AC%E5%85%A8%E5%AE%B6%E7%A6%8F%E7%B4%A0%E9%A1%8F%E7%8B%80%E6%85%8B%E8%A2%AB%E8%AE%9A%E7%84%A1%E8%AE%8A%E9%81%8E-%E4%B8%88%E5%A4%AB%E5%A4%96%E8%B2%8C%E7%84%A1%E8%BE%9C%E4%B8%AD%E6%A7%8D",
+    "timestamp": "2026-03-25T07:42:56.378Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "張雪峰猝死｜41歲名師跑步心臟病猝死！頭暈唇發紫7徵兆護心4食物",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260323/1112807412089229312138259.png/d7gdCb1IuHPDsivylVyiAZyvwEoHMdo8A7BLEQOwSxE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E5%A8%9B%E6%A8%82/60333329/%E7%B6%B2%E5%8F%8B%E5%96%8A%E6%83%B3%E6%AD%BB%E5%BC%95%E7%99%BE%E8%90%AC%E4%BA%BA%E9%97%9C%E6%B3%A8-%E5%BB%A3%E7%80%A8%E6%84%9B%E9%BA%97%E7%B5%B21%E5%8F%A5%E7%A5%9E%E5%9B%9E%E8%A6%86%E6%95%91%E6%8F%B4-%E7%B6%B2%E7%9B%B4%E5%91%BC%E6%84%9F%E5%8B%95",
     "timestamp": "2026-03-24T14:37:32.682Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "復活節｜4.7回港高峰　至少6城市返港高鐵班次售罄　武漢剩兩個位",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250421/990999615648043008704513.jpeg/I1tfb0aLO7se0IY8pnSeaCwR2CCZZusV9waM9tIGjPY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60333818/%E5%BE%A9%E6%B4%BB%E7%AF%80-4-7%E5%9B%9E%E6%B8%AF%E9%AB%98%E5%B3%B0-%E8%87%B3%E5%B0%916%E5%9F%8E%E5%B8%82%E8%BF%94%E6%B8%AF%E9%AB%98%E9%90%B5%E7%8F%AD%E6%AC%A1%E5%94%AE%E7%BD%84-%E6%AD%A6%E6%BC%A2%E5%89%A9%E5%85%A9%E5%80%8B%E4%BD%8D",
-    "timestamp": "2026-03-24T13:55:52.671Z",
     "strategy": ".content-card__main"
   }
 ];
