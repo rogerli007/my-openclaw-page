@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-25T17:32:04.139Z
+// Last updated: 2026-03-25T17:57:55.890Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "王毅通話埃及土耳其外長　稱當務之急是積極勸和促談　推戰火平息",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260214/1099398550313242624976802.jpeg/ZLV2GEPf5Ydu9_FgUs5IdxtdruIejN2bddTw73XU8O8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60334271/%E7%8E%8B%E6%AF%85%E9%80%9A%E8%A9%B1%E5%9F%83%E5%8F%8A%E5%9C%9F%E8%80%B3%E5%85%B6%E5%A4%96%E9%95%B7-%E7%A8%B1%E7%95%B6%E5%8B%99%E4%B9%8B%E6%80%A5%E6%98%AF%E7%A9%8D%E6%A5%B5%E5%8B%B8%E5%92%8C%E4%BF%83%E8%AB%87-%E6%8E%A8%E6%88%B0%E7%81%AB%E5%B9%B3%E6%81%AF",
+    "timestamp": "2026-03-25T17:57:55.890Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "徐子淇同老公親自落場試造型　恩愛到極羡煞旁人玩得勁開心",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260321/1111880921310564352957108.jpeg/W83XzbX3EeOcN5SYx4nSwLBtsYfafBLNyg8m-8oPJvs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60333921/%E5%B7%A7%E5%90%88-%E5%BD%AD%E5%8D%9A%E6%8F%AD%E7%89%B9%E6%9C%97%E6%99%AE%E7%99%BC%E5%B8%96%E5%89%8D15%E5%88%86%E9%90%98-%E6%B2%B9%E5%B8%82%E6%9A%B4%E5%A2%9E%E8%BF%916%E5%84%84%E7%BE%8E%E5%85%83%E6%9C%9F%E8%B2%A8%E4%BA%A4%E6%98%93",
     "timestamp": "2026-03-25T04:29:38.926Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "裕澤香江｜陳茂波︰香港為把握內地機遇門戶　力拓大宗商品等領域",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260325/1113417010806525952497835.jpeg/KoLVBMfanUPV_2wDJSyHG3Rqg3x9AFJD5dH-xuXR_sY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60333924/%E8%A3%95%E6%BE%A4%E9%A6%99%E6%B1%9F-%E9%99%B3%E8%8C%82%E6%B3%A2-%E9%A6%99%E6%B8%AF%E7%82%BA%E6%8A%8A%E6%8F%A1%E5%85%A7%E5%9C%B0%E6%A9%9F%E9%81%87%E9%96%80%E6%88%B6-%E5%8A%9B%E6%8B%93%E5%A4%A7%E5%AE%97%E5%95%86%E5%93%81%E7%AD%89%E9%A0%98%E5%9F%9F",
-    "timestamp": "2026-03-25T02:24:45.167Z",
     "strategy": ".content-card__main"
   }
 ];
