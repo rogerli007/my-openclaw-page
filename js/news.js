@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-25T07:42:56.378Z
+// Last updated: 2026-03-25T09:40:29.841Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "以色列稱將擴大黎巴嫩控製範圍　真主黨堅稱抵抗到底",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20241106/930663844919906304065349.jpeg/EZZIUCVlhXb_OEurntuedAda-3B_MtNMXbhyCV24cgk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60334136/%E4%BB%A5%E8%89%B2%E5%88%97%E7%A8%B1%E5%B0%87%E6%93%B4%E5%A4%A7%E9%BB%8E%E5%B7%B4%E5%AB%A9%E6%8E%A7%E8%A3%BD%E7%AF%84%E5%9C%8D-%E7%9C%9F%E4%B8%BB%E9%BB%A8%E5%A0%85%E7%A8%B1%E6%8A%B5%E6%8A%97%E5%88%B0%E5%BA%95",
+    "timestamp": "2026-03-25T09:40:29.841Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "陳敏之為傭工慶生曬全家福素顏狀態被讚無變過　丈夫外貌無辜中槍",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260302/1105275351317090304780532.jpeg/DkKPKUERGlflcuBT2zdsfcAaC6kyyc-BZYvINmWLyDY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60333857/%E7%BE%8E%E8%82%A1-%E9%81%93%E6%8C%87%E6%97%A9%E6%AE%B5%E6%9B%BE%E8%B7%8C%E9%80%BE400%E9%BB%9E-%E6%B2%B9%E5%83%B9%E6%9C%80%E6%96%B0%E5%8D%87%E9%80%BE3",
     "timestamp": "2026-03-24T15:14:22.441Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "網友喊想死引百萬人關注　廣瀨愛麗絲1句神回覆救援　網直呼感動",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260323/1112807412089229312138259.png/d7gdCb1IuHPDsivylVyiAZyvwEoHMdo8A7BLEQOwSxE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E5%A8%9B%E6%A8%82/60333329/%E7%B6%B2%E5%8F%8B%E5%96%8A%E6%83%B3%E6%AD%BB%E5%BC%95%E7%99%BE%E8%90%AC%E4%BA%BA%E9%97%9C%E6%B3%A8-%E5%BB%A3%E7%80%A8%E6%84%9B%E9%BA%97%E7%B5%B21%E5%8F%A5%E7%A5%9E%E5%9B%9E%E8%A6%86%E6%95%91%E6%8F%B4-%E7%B6%B2%E7%9B%B4%E5%91%BC%E6%84%9F%E5%8B%95",
-    "timestamp": "2026-03-24T14:37:32.682Z",
     "strategy": ".content-card__main"
   }
 ];
