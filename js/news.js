@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-25T05:47:38.338Z
+// Last updated: 2026-03-25T06:45:06.555Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "Art Basel巴塞爾藝術展｜羅淑佩：未來5年香港成亞洲區唯一主辦地",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260325/1113462032092368896098741.jpeg/UEmCGiWpSoVurORYuhgHtVI26ylzCp_xX8nLw1_Jy8M?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60334024/art-basel%E5%B7%B4%E5%A1%9E%E7%88%BE%E8%97%9D%E8%A1%93%E5%B1%95-%E7%BE%85%E6%B7%91%E4%BD%A9-%E6%9C%AA%E4%BE%865%E5%B9%B4%E9%A6%99%E6%B8%AF%E6%88%90%E4%BA%9E%E6%B4%B2%E5%8D%80%E5%94%AF%E4%B8%80%E4%B8%BB%E8%BE%A6%E5%9C%B0",
+    "timestamp": "2026-03-25T06:45:06.555Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "國務院原副秘書長：被AI替代掉的勞動力　他們的生存問題怎麼辦？",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260324/1113175234871037952239471.jpeg/JUkrDfmAOKPtQR4QxK99V_qlT75FAfFcsp99W7KffVs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60333782/%E4%B8%8A%E6%B5%B7%E8%BF%AA%E5%A3%AB%E5%B0%BC%E5%8D%81%E5%91%A8%E5%B9%B4%E9%99%90%E5%AE%9A%E5%A5%97%E9%A4%90-%E8%92%B8%E5%8C%85%E5%8A%A0%E8%96%AF%E7%89%87-%E8%B3%A3-70-%E7%B6%B2%E6%B0%91-%E7%89%A9%E5%83%B9%E9%9B%A2%E8%AD%9C",
     "timestamp": "2026-03-24T12:35:26.382Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "國安細則修訂｜警方可隨街攞市民手機密碼？鄧炳強：錯嘅、嚇你嘅",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260324/1113191902636675072962348.png/mWkzVvDE9P26vx34F90pqEk9Q9s_DhLV3sajHt7Gox4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60333810/%E5%9C%8B%E5%AE%89%E7%B4%B0%E5%89%87%E4%BF%AE%E8%A8%82-%E8%AD%A6%E6%96%B9%E5%8F%AF%E9%9A%A8%E8%A1%97%E6%94%9E%E5%B8%82%E6%B0%91%E6%89%8B%E6%A9%9F%E5%AF%86%E7%A2%BC-%E9%84%A7%E7%82%B3%E5%BC%B7-%E9%8C%AF%E5%98%85-%E5%9A%87%E4%BD%A0%E5%98%85",
-    "timestamp": "2026-03-24T12:04:37.105Z",
     "strategy": ".content-card__main"
   }
 ];
