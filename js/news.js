@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-25T18:31:01.497Z
+// Last updated: 2026-03-25T20:52:33.842Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "梅窩男子疑觸碰燈飾後昏迷　送醫不治　警正調查是否觸電",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/5561811/org/aad1dc74df4e4139ccf5403f4f0a36b3.jpg/RVcXWiKhQzcR_T_r6rw14U-pTxQm25Ddsk3aALJN2gA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60334280/%E6%A2%85%E7%AA%A9%E7%94%B7%E5%AD%90%E7%96%91%E8%A7%B8%E7%A2%B0%E7%87%88%E9%A3%BE%E5%BE%8C%E6%98%8F%E8%BF%B7-%E9%80%81%E9%86%AB%E4%B8%8D%E6%B2%BB-%E8%AD%A6%E6%AD%A3%E8%AA%BF%E6%9F%A5%E6%98%AF%E5%90%A6%E8%A7%B8%E9%9B%BB",
+    "timestamp": "2026-03-25T20:52:33.842Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "伊朗戰爭｜白宮：特朗普5月14日至15日訪華　將與習近平會面",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260325/1113462032092368896098741.jpeg/UEmCGiWpSoVurORYuhgHtVI26ylzCp_xX8nLw1_Jy8M?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60334024/art-basel%E5%B7%B4%E5%A1%9E%E7%88%BE%E8%97%9D%E8%A1%93%E5%B1%95-%E7%BE%85%E6%B7%91%E4%BD%A9-%E6%9C%AA%E4%BE%865%E5%B9%B4%E9%A6%99%E6%B8%AF%E6%88%90%E4%BA%9E%E6%B4%B2%E5%8D%80%E5%94%AF%E4%B8%80%E4%B8%BB%E8%BE%A6%E5%9C%B0",
     "timestamp": "2026-03-25T06:45:06.555Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "國務院原副秘書長：被AI替代掉的勞動力　他們的生存問題怎麼辦？",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260325/1113439032487972864917638.jpeg/Kcj4Geq77U5Qt9FxtWKj5LHUxWoCTwprj1cbfI9XG3w?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60333954/%E5%9C%8B%E5%8B%99%E9%99%A2%E5%8E%9F%E5%89%AF%E7%A7%98%E6%9B%B8%E9%95%B7-%E8%A2%ABai%E6%9B%BF%E4%BB%A3%E6%8E%89%E7%9A%84%E5%8B%9E%E5%8B%95%E5%8A%9B-%E4%BB%96%E5%80%91%E7%9A%84%E7%94%9F%E5%AD%98%E5%95%8F%E9%A1%8C%E6%80%8E%E9%BA%BC%E8%BE%A6",
-    "timestamp": "2026-03-25T05:47:38.338Z",
     "strategy": ".content-card__main"
   }
 ];
