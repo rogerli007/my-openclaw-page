@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-25T12:09:03.830Z
+// Last updated: 2026-03-25T13:00:33.564Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "海洋公園開發AI系統偵測大熊貓及川金絲猴動態　分析活動習慣模式",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260325/1113546178911670272086259.jpeg/MFjH4Cjk1mKAtzdAZFglAD06UfDp-uK6jg4gB44OIAc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60334198/%E6%B5%B7%E6%B4%8B%E5%85%AC%E5%9C%92%E9%96%8B%E7%99%BCai%E7%B3%BB%E7%B5%B1%E5%81%B5%E6%B8%AC%E5%A4%A7%E7%86%8A%E8%B2%93%E5%8F%8A%E5%B7%9D%E9%87%91%E7%B5%B2%E7%8C%B4%E5%8B%95%E6%85%8B-%E5%88%86%E6%9E%90%E6%B4%BB%E5%8B%95%E7%BF%92%E6%85%A3%E6%A8%A1%E5%BC%8F",
+    "timestamp": "2026-03-25T13:00:33.564Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "國務院副總理丁薛祥出席中關村論壇年會：唯有開放合作才是正道",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260325/1113320383806705664528946.jpeg/CS2uD68LI3SNqGzeLDI-9vYwAo1YQ_CONE_GdTRPxnU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60333883/%E7%89%B9%E6%9C%97%E6%99%AE-%E4%BC%8A%E6%9C%97%E9%80%81%E7%B5%A6%E7%BE%8E%E5%9C%8B%E4%B8%80%E4%BB%BD-%E5%A4%A7%E7%A6%AE-%E5%B0%8D%E6%96%B9%E5%9C%A8%E8%83%BD%E6%BA%90%E9%A0%98%E5%9F%9F%E4%BD%9C%E5%87%BA%E9%87%8D%E5%A4%A7%E8%AE%93%E6%AD%A5",
     "timestamp": "2026-03-24T20:52:47.995Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "路透社民調：伊朗戰事推高油價　特朗普支持度36%創第二任期新低",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260317/1110448537747197952640518.jpeg/qh7EK-C8lwesFoZGJVPgf02-oA8tWOlHR2fuA0dn7gM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60333878/%E8%B7%AF%E9%80%8F%E7%A4%BE%E6%B0%91%E8%AA%BF-%E4%BC%8A%E6%9C%97%E6%88%B0%E4%BA%8B%E6%8E%A8%E9%AB%98%E6%B2%B9%E5%83%B9-%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%AF%E6%8C%81%E5%BA%A636-%E5%89%B5%E7%AC%AC%E4%BA%8C%E4%BB%BB%E6%9C%9F%E6%96%B0%E4%BD%8E",
-    "timestamp": "2026-03-24T19:15:34.341Z",
     "strategy": ".content-card__main"
   }
 ];
