@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-25T11:35:33.329Z
+// Last updated: 2026-03-25T12:09:03.830Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "國務院副總理丁薛祥出席中關村論壇年會：唯有開放合作才是正道",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260304/1105885777789194240176359.png/9sTngXi8iTsc5gN8Sw8fZx3Asy7gyjQ5y5wTgcucE4E?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60334232/%E5%9C%8B%E5%8B%99%E9%99%A2%E5%89%AF%E7%B8%BD%E7%90%86%E4%B8%81%E8%96%9B%E7%A5%A5%E5%87%BA%E5%B8%AD%E4%B8%AD%E9%97%9C%E6%9D%91%E8%AB%96%E5%A3%87%E5%B9%B4%E6%9C%83-%E5%94%AF%E6%9C%89%E9%96%8B%E6%94%BE%E5%90%88%E4%BD%9C%E6%89%8D%E6%98%AF%E6%AD%A3%E9%81%93",
+    "timestamp": "2026-03-25T12:09:03.830Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "門窗緊閉蚊子仍打不完？他堵住「抽油煙機排風管」　3個月全消失",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260317/1110448537747197952640518.jpeg/qh7EK-C8lwesFoZGJVPgf02-oA8tWOlHR2fuA0dn7gM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60333878/%E8%B7%AF%E9%80%8F%E7%A4%BE%E6%B0%91%E8%AA%BF-%E4%BC%8A%E6%9C%97%E6%88%B0%E4%BA%8B%E6%8E%A8%E9%AB%98%E6%B2%B9%E5%83%B9-%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%AF%E6%8C%81%E5%BA%A636-%E5%89%B5%E7%AC%AC%E4%BA%8C%E4%BB%BB%E6%9C%9F%E6%96%B0%E4%BD%8E",
     "timestamp": "2026-03-24T19:15:34.341Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "警反黑組大埔拘45歲女子　起獲200粒依托咪酯煙彈",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260325/1113300238304546816237408.jpeg/VkM7aoegkKocxqOjd1vmfR1b8IEm8FQ_59zLb-fcy28?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60333876/%E8%AD%A6%E5%8F%8D%E9%BB%91%E7%B5%84%E5%A4%A7%E5%9F%94%E6%8B%9845%E6%AD%B2%E5%A5%B3%E5%AD%90-%E8%B5%B7%E7%8D%B2200%E7%B2%92%E4%BE%9D%E6%89%98%E5%92%AA%E9%85%AF%E7%85%99%E5%BD%88",
-    "timestamp": "2026-03-24T18:41:08.340Z",
     "strategy": ".content-card__main"
   }
 ];
