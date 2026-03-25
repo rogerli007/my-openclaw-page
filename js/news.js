@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-25T16:21:54.624Z
+// Last updated: 2026-03-25T16:56:20.043Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "五月天5525+1巡演香港站啟動　樂迷嗌爆啟德 三度Encore全場瘋狂",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260326/1113636492632133632268015.jpeg/g0q9mblrRwd7u-rAEmsM8uDHVxzdlrCLjnPcHY5z3B0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60334264/%E4%BA%94%E6%9C%88%E5%A4%A95525-1%E5%B7%A1%E6%BC%94%E9%A6%99%E6%B8%AF%E7%AB%99%E5%95%9F%E5%8B%95-%E6%A8%82%E8%BF%B7%E5%97%8C%E7%88%86%E5%95%9F%E5%BE%B7-%E4%B8%89%E5%BA%A6encore%E5%85%A8%E5%A0%B4%E7%98%8B%E7%8B%82",
+    "timestamp": "2026-03-25T16:56:20.043Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "路透：伊朗對美15點計劃初步反應消極　惟仍在審查該停戰協議",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260325/1113390088592560128409381.jpeg/F8H9gMkPn4d8lj9wk38eTnpwBuDVZ0czRoMY10aDGNc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60333895/%E8%8F%B2%E5%BE%8B%E8%B3%93%E4%BE%86%E6%B8%AF%E8%88%AA%E7%8F%AD%E7%8F%BE-%E6%A9%9F%E8%89%99%E8%80%81%E9%BC%A0-%E5%85%A7%E5%9C%B0%E7%94%B7%E6%B6%89%E5%81%B7%E6%AF%94%E7%B4%A2%E5%8F%8A%E5%85%AB%E9%81%94%E9%80%9A%E8%A2%AB%E6%8D%95",
     "timestamp": "2026-03-25T00:49:25.256Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "如果和戰由伊朗以色列決定　特朗普還不如讓內塔尼亞胡做美國總統",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260223/1102620202035580928642198.jpeg/7tkWWg4vtmcjWORpQUVt-QgeHBRbaTLWxnj5kcZ4-ZE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%9C%8B%E9%9A%9B%E5%88%86%E6%9E%90/60333877/%E5%A6%82%E6%9E%9C%E5%92%8C%E6%88%B0%E4%BC%8A%E6%9C%97%E4%BB%A5%E8%89%B2%E5%88%97%E6%B1%BA%E5%AE%9A-%E7%89%B9%E6%9C%97%E6%99%AE%E9%82%84%E4%B8%8D%E5%A6%82%E8%AE%93%E5%85%A7%E5%A1%94%E5%B0%BC%E4%BA%9E%E8%83%A1%E5%81%9A%E7%BE%8E%E5%9C%8B%E7%B8%BD%E7%B5%B1",
-    "timestamp": "2026-03-24T23:59:57.856Z",
     "strategy": ".content-card__main"
   }
 ];
