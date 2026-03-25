@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-25T15:18:04.114Z
+// Last updated: 2026-03-25T16:21:54.624Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "路透：伊朗對美15點計劃初步反應消極　惟仍在審查該停戰協議",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260305/1106158514163683328218436.jpeg/qyn_atiUZOJTAmwmsHtaN-Awuu3xmRV2hIDSW4SA0ls?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60334260/%E8%B7%AF%E9%80%8F-%E4%BC%8A%E6%9C%97%E5%B0%8D%E7%BE%8E15%E9%BB%9E%E8%A8%88%E5%8A%83%E5%88%9D%E6%AD%A5%E5%8F%8D%E6%87%89%E6%B6%88%E6%A5%B5-%E6%83%9F%E4%BB%8D%E5%9C%A8%E5%AF%A9%E6%9F%A5%E8%A9%B2%E5%81%9C%E6%88%B0%E5%8D%94%E8%AD%B0",
+    "timestamp": "2026-03-25T16:21:54.624Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "亞洲50最佳餐廳｜中環大班樓、「永」奪冠亞軍　6間香港餐廳上榜",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260223/1102620202035580928642198.jpeg/7tkWWg4vtmcjWORpQUVt-QgeHBRbaTLWxnj5kcZ4-ZE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%9C%8B%E9%9A%9B%E5%88%86%E6%9E%90/60333877/%E5%A6%82%E6%9E%9C%E5%92%8C%E6%88%B0%E4%BC%8A%E6%9C%97%E4%BB%A5%E8%89%B2%E5%88%97%E6%B1%BA%E5%AE%9A-%E7%89%B9%E6%9C%97%E6%99%AE%E9%82%84%E4%B8%8D%E5%A6%82%E8%AE%93%E5%85%A7%E5%A1%94%E5%B0%BC%E4%BA%9E%E8%83%A1%E5%81%9A%E7%BE%8E%E5%9C%8B%E7%B8%BD%E7%B5%B1",
     "timestamp": "2026-03-24T23:59:57.856Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "愛回家｜細力秦啟維離巢後進軍內地　赴武漢拍短劇兼開班：酬勞OK",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260324/1113247170498138112389074.jpeg/x1ZIlDmlhll-haJx7ARNNO9ht-i1UeXlYzRohmM0aIY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60333661/%E6%84%9B%E5%9B%9E%E5%AE%B6-%E7%B4%B0%E5%8A%9B%E7%A7%A6%E5%95%9F%E7%B6%AD%E9%9B%A2%E5%B7%A2%E5%BE%8C%E9%80%B2%E8%BB%8D%E5%85%A7%E5%9C%B0-%E8%B5%B4%E6%AD%A6%E6%BC%A2%E6%8B%8D%E7%9F%AD%E5%8A%87%E5%85%BC%E9%96%8B%E7%8F%AD-%E9%85%AC%E5%8B%9Eok",
-    "timestamp": "2026-03-24T22:54:13.822Z",
     "strategy": ".content-card__main"
   }
 ];
