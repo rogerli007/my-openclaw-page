@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-25T13:00:33.564Z
+// Last updated: 2026-03-25T13:43:01.188Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "伊朗戰爭觸發能源危機亞洲多國擬重啟WFH　李在明籲縮淋浴時間",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260324/1113162520358555648354907.jpeg/iBkzXH1a0MZkgB6_QlN9gzGN4XlJ-cfnFPQXvxT0F78?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60334206/%E4%BC%8A%E6%9C%97%E6%88%B0%E7%88%AD%E8%A7%B8%E7%99%BC%E8%83%BD%E6%BA%90%E5%8D%B1%E6%A9%9F%E4%BA%9E%E6%B4%B2%E5%A4%9A%E5%9C%8B%E6%93%AC%E9%87%8D%E5%95%9Fwfh-%E6%9D%8E%E5%9C%A8%E6%98%8E%E7%B1%B2%E7%B8%AE%E6%B7%8B%E6%B5%B4%E6%99%82%E9%96%93",
+    "timestamp": "2026-03-25T13:43:01.188Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "海洋公園開發AI系統偵測大熊貓及川金絲猴動態　分析活動習慣模式",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20231119/803014406433673216137540.jpeg/6HS7SbnlQNI1f6POVrq-3VO99LZQkQt_mf3GWZn9xlk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60333885/openai%E6%93%AC%E5%81%9C%E7%94%A8sora%E8%A6%96%E8%A8%8A%E5%B9%B3%E5%8F%B0app-%E9%87%8D%E6%96%B0%E8%81%9A%E7%84%A6%E6%A5%AD%E5%8B%99%E8%88%87%E7%B7%A8%E7%A2%BC%E5%8A%9F%E8%83%BD%E8%88%89%E6%8E%AA%E4%B9%8B%E4%B8%80",
     "timestamp": "2026-03-24T21:22:13.432Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普：伊朗送給美國一份「大禮」　對方在能源領域作出重大讓步",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260325/1113320383806705664528946.jpeg/CS2uD68LI3SNqGzeLDI-9vYwAo1YQ_CONE_GdTRPxnU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60333883/%E7%89%B9%E6%9C%97%E6%99%AE-%E4%BC%8A%E6%9C%97%E9%80%81%E7%B5%A6%E7%BE%8E%E5%9C%8B%E4%B8%80%E4%BB%BD-%E5%A4%A7%E7%A6%AE-%E5%B0%8D%E6%96%B9%E5%9C%A8%E8%83%BD%E6%BA%90%E9%A0%98%E5%9F%9F%E4%BD%9C%E5%87%BA%E9%87%8D%E5%A4%A7%E8%AE%93%E6%AD%A5",
-    "timestamp": "2026-03-24T20:52:47.995Z",
     "strategy": ".content-card__main"
   }
 ];
