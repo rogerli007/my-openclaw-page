@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-25T17:57:55.890Z
+// Last updated: 2026-03-25T18:31:01.497Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "伊朗戰爭｜白宮：特朗普5月14日至15日訪華　將與習近平會面",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20251114/1066020653993299968905612.jpeg/qUCXsZXrZSYtI4kHlG0kXqKdCvYl-uv2OTy8fDk8vHw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60334273/%E4%BC%8A%E6%9C%97%E6%88%B0%E7%88%AD-%E7%99%BD%E5%AE%AE-%E7%89%B9%E6%9C%97%E6%99%AE5%E6%9C%8814%E6%97%A5%E8%87%B315%E6%97%A5%E8%A8%AA%E8%8F%AF-%E5%B0%87%E8%88%87%E7%BF%92%E8%BF%91%E5%B9%B3%E6%9C%83%E9%9D%A2",
+    "timestamp": "2026-03-25T18:31:01.497Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "王毅通話埃及土耳其外長　稱當務之急是積極勸和促談　推戰火平息",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260325/1113439032487972864917638.jpeg/Kcj4Geq77U5Qt9FxtWKj5LHUxWoCTwprj1cbfI9XG3w?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60333954/%E5%9C%8B%E5%8B%99%E9%99%A2%E5%8E%9F%E5%89%AF%E7%A7%98%E6%9B%B8%E9%95%B7-%E8%A2%ABai%E6%9B%BF%E4%BB%A3%E6%8E%89%E7%9A%84%E5%8B%9E%E5%8B%95%E5%8A%9B-%E4%BB%96%E5%80%91%E7%9A%84%E7%94%9F%E5%AD%98%E5%95%8F%E9%A1%8C%E6%80%8E%E9%BA%BC%E8%BE%A6",
     "timestamp": "2026-03-25T05:47:38.338Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "巧合？彭博揭特朗普發帖前15分鐘　油市暴增近6億美元期貨交易",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260321/1111880921310564352957108.jpeg/W83XzbX3EeOcN5SYx4nSwLBtsYfafBLNyg8m-8oPJvs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60333921/%E5%B7%A7%E5%90%88-%E5%BD%AD%E5%8D%9A%E6%8F%AD%E7%89%B9%E6%9C%97%E6%99%AE%E7%99%BC%E5%B8%96%E5%89%8D15%E5%88%86%E9%90%98-%E6%B2%B9%E5%B8%82%E6%9A%B4%E5%A2%9E%E8%BF%916%E5%84%84%E7%BE%8E%E5%85%83%E6%9C%9F%E8%B2%A8%E4%BA%A4%E6%98%93",
-    "timestamp": "2026-03-25T04:29:38.926Z",
     "strategy": ".content-card__main"
   }
 ];
