@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-25T10:38:11.130Z
+// Last updated: 2026-03-25T11:12:03.773Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "乒乓球｜林詩棟退出澳門世界盃國乒迎考驗　港將林兆恒遞補參賽",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260325/1113520002012549120198364.png/xGy7kyy3YbstCvBEZRukOtZYp3uFIhWgKOv2Cyjr9gs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60334148/%E4%B9%92%E4%B9%93%E7%90%83-%E6%9E%97%E8%A9%A9%E6%A3%9F%E9%80%80%E5%87%BA%E6%BE%B3%E9%96%80%E4%B8%96%E7%95%8C%E7%9B%83%E5%9C%8B%E4%B9%92%E8%BF%8E%E8%80%83%E9%A9%97-%E6%B8%AF%E5%B0%87%E6%9E%97%E5%85%86%E6%81%92%E9%81%9E%E8%A3%9C%E5%8F%83%E8%B3%BD",
+    "timestamp": "2026-03-25T11:12:03.773Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "世一蔡俊彥進軍樂壇　新歌邀黃偉文填詞　曾任呂爵安演唱會嘉賓",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260325/1113281867206889472704986.jpeg/G7viSk2TRqOF_cSqgt0_z1rr4juxMjb-Vfc-T1X3Pk8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60333868/%E7%89%B9%E6%9C%97%E6%99%AE%E7%A8%B1%E9%83%B5%E5%AF%84%E6%8A%95%E7%A5%A8%E6%98%93%E7%94%9F%E8%88%9E%E5%BC%8A-%E5%8D%BB%E6%96%BC%E4%BD%9B%E5%B7%9E%E8%A3%9C%E9%81%B8%E4%BB%A5%E9%83%B5%E5%AF%84%E6%8A%95%E7%A5%A8",
     "timestamp": "2026-03-24T18:10:51.482Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "藝術中環開幕　匯聚117畫廊及逾500位藝術家　規模歷屆之最",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260325/1113265574366023680487925.jpeg/u3b6iJgvr5zqt6r_GzwPMjnn424C4umVws8O8MLPDvA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60333863/%E8%97%9D%E8%A1%93%E4%B8%AD%E7%92%B0%E9%96%8B%E5%B9%95-%E5%8C%AF%E8%81%9A117%E7%95%AB%E5%BB%8A%E5%8F%8A%E9%80%BE500%E4%BD%8D%E8%97%9D%E8%A1%93%E5%AE%B6-%E8%A6%8F%E6%A8%A1%E6%AD%B7%E5%B1%86%E4%B9%8B%E6%9C%80",
-    "timestamp": "2026-03-24T16:45:04.610Z",
     "strategy": ".content-card__main"
   }
 ];
