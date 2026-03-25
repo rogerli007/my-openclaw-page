@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-24T23:59:57.856Z
+// Last updated: 2026-03-25T00:49:25.256Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "菲律賓來港航班現「機艙老鼠」　內地男涉偷比索及八達通被捕",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260325/1113390088592560128409381.jpeg/F8H9gMkPn4d8lj9wk38eTnpwBuDVZ0czRoMY10aDGNc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60333895/%E8%8F%B2%E5%BE%8B%E8%B3%93%E4%BE%86%E6%B8%AF%E8%88%AA%E7%8F%AD%E7%8F%BE-%E6%A9%9F%E8%89%99%E8%80%81%E9%BC%A0-%E5%85%A7%E5%9C%B0%E7%94%B7%E6%B6%89%E5%81%B7%E6%AF%94%E7%B4%A2%E5%8F%8A%E5%85%AB%E9%81%94%E9%80%9A%E8%A2%AB%E6%8D%95",
+    "timestamp": "2026-03-25T00:49:25.256Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "如果和戰由伊朗以色列決定　特朗普還不如讓內塔尼亞胡做美國總統",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260324/1113147867641417728675831.png/EolhHm5zr57rkgjUGB--eQpAtSuFv1cdVr9_mla_f5o?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%96%8B%E7%BD%90/60333469/77%E6%AD%B2%E5%AF%8C%E8%B1%AA%E5%A8%B6av%E5%AB%A9%E5%A6%BB%E6%96%B0%E5%A9%9A3%E5%80%8B%E6%9C%88%E4%B8%AD%E6%AF%92%E4%BA%A1-8%E5%B9%B4%E6%87%B8%E6%A1%88%E5%88%A4%E7%84%A1%E7%BD%AA%E6%9C%89%E6%9C%9B%E7%8D%B2%E5%B7%A8%E9%A1%8D%E9%81%BA%E7%94%A2",
     "timestamp": "2026-03-24T10:11:20.906Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "Samsung Buds 4 Pro實測：降噪音質優秀　堪稱Android版AirPods？",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260324/1113162579527602176378164.png/TxdkRQh4MmKa1gE6DwTvNPC7iL4FFZLfd3d9uXd3fbk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60333680/samsung-buds-4-pro%E5%AF%A6%E6%B8%AC-%E9%99%8D%E5%99%AA%E9%9F%B3%E8%B3%AA%E5%84%AA%E7%A7%80-%E5%A0%AA%E7%A8%B1android%E7%89%88airpods",
-    "timestamp": "2026-03-24T09:41:15.137Z",
     "strategy": ".content-card__main"
   }
 ];
