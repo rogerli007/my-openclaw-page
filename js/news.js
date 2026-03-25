@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-25T21:52:28.236Z
+// Last updated: 2026-03-25T22:22:03.358Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "伊朗革命衛隊稱擊落美軍F-18戰機　美方指「消息不實」｜有片",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260326/1113712176914239488264035.png/JFbKF5hzdaF47zaoJjnA_zjJmm_3GJbAqkP2bapD9m0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60334285/%E4%BC%8A%E6%9C%97%E9%9D%A9%E5%91%BD%E8%A1%9B%E9%9A%8A%E7%A8%B1%E6%93%8A%E8%90%BD%E7%BE%8E%E8%BB%8Df-18%E6%88%B0%E6%A9%9F-%E7%BE%8E%E6%96%B9%E6%8C%87-%E6%B6%88%E6%81%AF%E4%B8%8D%E5%AF%A6-%E6%9C%89%E7%89%87",
+    "timestamp": "2026-03-25T22:22:03.358Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美媒：內塔尼亞胡下令48小時內加大攻勢　盡量摧毀伊朗軍工設施",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260325/1113489341251850240921807.jpeg/uI6uZW2XxwnIsxY8YDPgTN6YBkWkRUhqxVE5i8VROYs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60333714/%E9%99%B3%E6%95%8F%E4%B9%8B%E7%82%BA%E5%82%AD%E5%B7%A5%E6%85%B6%E7%94%9F%E6%9B%AC%E5%85%A8%E5%AE%B6%E7%A6%8F%E7%B4%A0%E9%A1%8F%E7%8B%80%E6%85%8B%E8%A2%AB%E8%AE%9A%E7%84%A1%E8%AE%8A%E9%81%8E-%E4%B8%88%E5%A4%AB%E5%A4%96%E8%B2%8C%E7%84%A1%E8%BE%9C%E4%B8%AD%E6%A7%8D",
     "timestamp": "2026-03-25T07:42:56.378Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "張雪峰猝死｜41歲名師跑步心臟病猝死！頭暈唇發紫7徵兆護心4食物",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260325/1113485885472509952164398.jpeg/bsg7wdXo845OQRNFOOG-t4mq2anT4JZaQVFEF0FRRBc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60333933/%E5%BC%B5%E9%9B%AA%E5%B3%B0%E7%8C%9D%E6%AD%BB-41%E6%AD%B2%E5%90%8D%E5%B8%AB%E8%B7%91%E6%AD%A5%E5%BF%83%E8%87%9F%E7%97%85%E7%8C%9D%E6%AD%BB-%E9%A0%AD%E6%9A%88%E5%94%87%E7%99%BC%E7%B4%AB7%E5%BE%B5%E5%85%86%E8%AD%B7%E5%BF%834%E9%A3%9F%E7%89%A9",
-    "timestamp": "2026-03-25T07:14:55.443Z",
     "strategy": ".content-card__main"
   }
 ];
