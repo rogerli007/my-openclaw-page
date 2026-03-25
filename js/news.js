@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-25T13:43:01.188Z
+// Last updated: 2026-03-25T14:19:29.471Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "泰劇女神Bow揭隱疾！爆「雙子宮單顆腎」罕見體質　浴室痛暈先知",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260325/1113441217800048640120859.png/TZmE8GXD3uGz_o_iPizyqWLWRc0KsRAAeRDqLHkQ6iw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E5%A8%9B%E6%A8%82/60333959/%E6%B3%B0%E5%8A%87%E5%A5%B3%E7%A5%9Ebow%E6%8F%AD%E9%9A%B1%E7%96%BE-%E7%88%86-%E9%9B%99%E5%AD%90%E5%AE%AE%E5%96%AE%E9%A1%86%E8%85%8E-%E7%BD%95%E8%A6%8B%E9%AB%94%E8%B3%AA-%E6%B5%B4%E5%AE%A4%E7%97%9B%E6%9A%88%E5%85%88%E7%9F%A5",
+    "timestamp": "2026-03-25T14:19:29.471Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "伊朗戰爭觸發能源危機亞洲多國擬重啟WFH　李在明籲縮淋浴時間",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20231119/803014406433673216137540.jpeg/6HS7SbnlQNI1f6POVrq-3VO99LZQkQt_mf3GWZn9xlk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60333885/openai%E6%93%AC%E5%81%9C%E7%94%A8sora%E8%A6%96%E8%A8%8A%E5%B9%B3%E5%8F%B0app-%E9%87%8D%E6%96%B0%E8%81%9A%E7%84%A6%E6%A5%AD%E5%8B%99%E8%88%87%E7%B7%A8%E7%A2%BC%E5%8A%9F%E8%83%BD%E8%88%89%E6%8E%AA%E4%B9%8B%E4%B8%80",
     "timestamp": "2026-03-24T21:51:52.831Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "OpenAI擬停用Sora視訊平台app　重新聚焦業務與編碼功能舉措之一",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20231119/803014406433673216137540.jpeg/6HS7SbnlQNI1f6POVrq-3VO99LZQkQt_mf3GWZn9xlk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60333885/openai%E6%93%AC%E5%81%9C%E7%94%A8sora%E8%A6%96%E8%A8%8A%E5%B9%B3%E5%8F%B0app-%E9%87%8D%E6%96%B0%E8%81%9A%E7%84%A6%E6%A5%AD%E5%8B%99%E8%88%87%E7%B7%A8%E7%A2%BC%E5%8A%9F%E8%83%BD%E8%88%89%E6%8E%AA%E4%B9%8B%E4%B8%80",
-    "timestamp": "2026-03-24T21:22:13.432Z",
     "strategy": ".content-card__main"
   }
 ];
