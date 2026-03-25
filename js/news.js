@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-25T02:24:45.167Z
+// Last updated: 2026-03-25T04:29:38.926Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "巧合？彭博揭特朗普發帖前15分鐘　油市暴增近6億美元期貨交易",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260321/1111880921310564352957108.jpeg/W83XzbX3EeOcN5SYx4nSwLBtsYfafBLNyg8m-8oPJvs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60333921/%E5%B7%A7%E5%90%88-%E5%BD%AD%E5%8D%9A%E6%8F%AD%E7%89%B9%E6%9C%97%E6%99%AE%E7%99%BC%E5%B8%96%E5%89%8D15%E5%88%86%E9%90%98-%E6%B2%B9%E5%B8%82%E6%9A%B4%E5%A2%9E%E8%BF%916%E5%84%84%E7%BE%8E%E5%85%83%E6%9C%9F%E8%B2%A8%E4%BA%A4%E6%98%93",
+    "timestamp": "2026-03-25T04:29:38.926Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "裕澤香江｜陳茂波︰香港為把握內地機遇門戶　力拓大宗商品等領域",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260324/1113188846247350272438791.jpeg/ZOQv1ACVmUd5e1RZ8XM_E1WaCtXaKxk1pQIPKaUCDyk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60333814/%E6%B7%BA%E6%B0%B4%E7%81%A3%E6%B5%B7%E7%81%98%E9%81%93%E5%A5%B3%E5%AD%90%E6%8D%B1%E7%A7%81%E5%AE%B6%E8%BB%8A%E6%92%9E-%E5%A4%9A%E8%99%95%E5%8F%97%E5%82%B7%E9%87%8D%E5%89%B5",
     "timestamp": "2026-03-24T11:11:25.875Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "張曦雯拍吻戲遇口臭男極崩潰　陳瀅自揭經常飲醉酒Facetime葉念琛",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260324/1113161464446717952546973.jpeg/bMRd9QcfQZKcodfUza2wCUrHXzAcKlVKJxGhPicRoT4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60333628/%E5%BC%B5%E6%9B%A6%E9%9B%AF%E6%8B%8D%E5%90%BB%E6%88%B2%E9%81%87%E5%8F%A3%E8%87%AD%E7%94%B7%E6%A5%B5%E5%B4%A9%E6%BD%B0-%E9%99%B3%E7%80%85%E8%87%AA%E6%8F%AD%E7%B6%93%E5%B8%B8%E9%A3%B2%E9%86%89%E9%85%92facetime%E8%91%89%E5%BF%B5%E7%90%9B",
-    "timestamp": "2026-03-24T10:38:52.897Z",
     "strategy": ".content-card__main"
   }
 ];
