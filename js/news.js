@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-25T14:47:37.729Z
+// Last updated: 2026-03-25T15:18:04.114Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "亞洲50最佳餐廳｜中環大班樓、「永」奪冠亞軍　6間香港餐廳上榜",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260325/1113609024093294592930478.png/whG5ZW_NsIIoxaf79UYRcBObWxK0ktdBiNA_KYjQPyk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60334251/%E4%BA%9E%E6%B4%B250%E6%9C%80%E4%BD%B3%E9%A4%90%E5%BB%B3-%E4%B8%AD%E7%92%B0%E5%A4%A7%E7%8F%AD%E6%A8%93-%E6%B0%B8-%E5%A5%AA%E5%86%A0%E4%BA%9E%E8%BB%8D-6%E9%96%93%E9%A6%99%E6%B8%AF%E9%A4%90%E5%BB%B3%E4%B8%8A%E6%A6%9C",
+    "timestamp": "2026-03-25T15:18:04.114Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "英王查理斯三世據報4月訪美　料白宮出席國宴與紐約一日遊",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260324/1113247170498138112389074.jpeg/x1ZIlDmlhll-haJx7ARNNO9ht-i1UeXlYzRohmM0aIY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60333661/%E6%84%9B%E5%9B%9E%E5%AE%B6-%E7%B4%B0%E5%8A%9B%E7%A7%A6%E5%95%9F%E7%B6%AD%E9%9B%A2%E5%B7%A2%E5%BE%8C%E9%80%B2%E8%BB%8D%E5%85%A7%E5%9C%B0-%E8%B5%B4%E6%AD%A6%E6%BC%A2%E6%8B%8D%E7%9F%AD%E5%8A%87%E5%85%BC%E9%96%8B%E7%8F%AD-%E9%85%AC%E5%8B%9Eok",
     "timestamp": "2026-03-24T22:54:13.822Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "天氣｜今早潮濕沿岸有霧　日間大致天晴及炎熱　市區最高約28度",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260325/1113356132392374272147052.jpeg/0Ij_9oEYnOxJf3oFlnF4lKvUvRgpGOXtv1h1Jr9YdSY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60333864/%E5%A4%A9%E6%B0%A3-%E4%BB%8A%E6%97%A9%E6%BD%AE%E6%BF%95%E6%B2%BF%E5%B2%B8%E6%9C%89%E9%9C%A7-%E6%97%A5%E9%96%93%E5%A4%A7%E8%87%B4%E5%A4%A9%E6%99%B4%E5%8F%8A%E7%82%8E%E7%86%B1-%E5%B8%82%E5%8D%80%E6%9C%80%E9%AB%98%E7%B4%8428%E5%BA%A6",
-    "timestamp": "2026-03-24T22:17:19.339Z",
     "strategy": ".content-card__main"
   }
 ];
