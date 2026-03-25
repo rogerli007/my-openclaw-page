@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-25T16:56:20.043Z
+// Last updated: 2026-03-25T17:32:04.139Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "徐子淇同老公親自落場試造型　恩愛到極羡煞旁人玩得勁開心",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260325/1113565125282893824291863.jpeg/ZNcVx22Zo_9N52vz6exrMiVdSqg47DGP4aVbPeGlWz0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60334226/%E5%BE%90%E5%AD%90%E6%B7%87%E5%90%8C%E8%80%81%E5%85%AC%E8%A6%AA%E8%87%AA%E8%90%BD%E5%A0%B4%E8%A9%A6%E9%80%A0%E5%9E%8B-%E6%81%A9%E6%84%9B%E5%88%B0%E6%A5%B5%E7%BE%A1%E7%85%9E%E6%97%81%E4%BA%BA%E7%8E%A9%E5%BE%97%E5%8B%81%E9%96%8B%E5%BF%83",
+    "timestamp": "2026-03-25T17:32:04.139Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "五月天5525+1巡演香港站啟動　樂迷嗌爆啟德 三度Encore全場瘋狂",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260325/1113417010806525952497835.jpeg/KoLVBMfanUPV_2wDJSyHG3Rqg3x9AFJD5dH-xuXR_sY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60333924/%E8%A3%95%E6%BE%A4%E9%A6%99%E6%B1%9F-%E9%99%B3%E8%8C%82%E6%B3%A2-%E9%A6%99%E6%B8%AF%E7%82%BA%E6%8A%8A%E6%8F%A1%E5%85%A7%E5%9C%B0%E6%A9%9F%E9%81%87%E9%96%80%E6%88%B6-%E5%8A%9B%E6%8B%93%E5%A4%A7%E5%AE%97%E5%95%86%E5%93%81%E7%AD%89%E9%A0%98%E5%9F%9F",
     "timestamp": "2026-03-25T02:24:45.167Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "菲律賓來港航班現「機艙老鼠」　內地男涉偷比索及八達通被捕",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260325/1113390088592560128409381.jpeg/F8H9gMkPn4d8lj9wk38eTnpwBuDVZ0czRoMY10aDGNc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60333895/%E8%8F%B2%E5%BE%8B%E8%B3%93%E4%BE%86%E6%B8%AF%E8%88%AA%E7%8F%AD%E7%8F%BE-%E6%A9%9F%E8%89%99%E8%80%81%E9%BC%A0-%E5%85%A7%E5%9C%B0%E7%94%B7%E6%B6%89%E5%81%B7%E6%AF%94%E7%B4%A2%E5%8F%8A%E5%85%AB%E9%81%94%E9%80%9A%E8%A2%AB%E6%8D%95",
-    "timestamp": "2026-03-25T00:49:25.256Z",
     "strategy": ".content-card__main"
   }
 ];
