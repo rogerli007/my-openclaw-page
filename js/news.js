@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-25T00:49:25.256Z
+// Last updated: 2026-03-25T02:24:45.167Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "裕澤香江｜陳茂波︰香港為把握內地機遇門戶　力拓大宗商品等領域",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260325/1113417010806525952497835.jpeg/KoLVBMfanUPV_2wDJSyHG3Rqg3x9AFJD5dH-xuXR_sY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60333924/%E8%A3%95%E6%BE%A4%E9%A6%99%E6%B1%9F-%E9%99%B3%E8%8C%82%E6%B3%A2-%E9%A6%99%E6%B8%AF%E7%82%BA%E6%8A%8A%E6%8F%A1%E5%85%A7%E5%9C%B0%E6%A9%9F%E9%81%87%E9%96%80%E6%88%B6-%E5%8A%9B%E6%8B%93%E5%A4%A7%E5%AE%97%E5%95%86%E5%93%81%E7%AD%89%E9%A0%98%E5%9F%9F",
+    "timestamp": "2026-03-25T02:24:45.167Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "菲律賓來港航班現「機艙老鼠」　內地男涉偷比索及八達通被捕",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260324/1113161464446717952546973.jpeg/bMRd9QcfQZKcodfUza2wCUrHXzAcKlVKJxGhPicRoT4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60333628/%E5%BC%B5%E6%9B%A6%E9%9B%AF%E6%8B%8D%E5%90%BB%E6%88%B2%E9%81%87%E5%8F%A3%E8%87%AD%E7%94%B7%E6%A5%B5%E5%B4%A9%E6%BD%B0-%E9%99%B3%E7%80%85%E8%87%AA%E6%8F%AD%E7%B6%93%E5%B8%B8%E9%A3%B2%E9%86%89%E9%85%92facetime%E8%91%89%E5%BF%B5%E7%90%9B",
     "timestamp": "2026-03-24T10:38:52.897Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "77歲富豪娶AV嫩妻新婚3個月中毒亡！8年懸案判無罪有望獲巨額遺產",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260324/1113147867641417728675831.png/EolhHm5zr57rkgjUGB--eQpAtSuFv1cdVr9_mla_f5o?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%96%8B%E7%BD%90/60333469/77%E6%AD%B2%E5%AF%8C%E8%B1%AA%E5%A8%B6av%E5%AB%A9%E5%A6%BB%E6%96%B0%E5%A9%9A3%E5%80%8B%E6%9C%88%E4%B8%AD%E6%AF%92%E4%BA%A1-8%E5%B9%B4%E6%87%B8%E6%A1%88%E5%88%A4%E7%84%A1%E7%BD%AA%E6%9C%89%E6%9C%9B%E7%8D%B2%E5%B7%A8%E9%A1%8D%E9%81%BA%E7%94%A2",
-    "timestamp": "2026-03-24T10:11:20.906Z",
     "strategy": ".content-card__main"
   }
 ];
