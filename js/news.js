@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-25T20:52:33.842Z
+// Last updated: 2026-03-25T21:52:28.236Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美媒：內塔尼亞胡下令48小時內加大攻勢　盡量摧毀伊朗軍工設施",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260320/1111507910162124800210596.jpeg/95TIGibeRwtDYxmBylJEFFqoNe7MB_e1rWxrpa1sa6U?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60334283/%E7%BE%8E%E5%AA%92-%E5%85%A7%E5%A1%94%E5%B0%BC%E4%BA%9E%E8%83%A1%E4%B8%8B%E4%BB%A448%E5%B0%8F%E6%99%82%E5%85%A7%E5%8A%A0%E5%A4%A7%E6%94%BB%E5%8B%A2-%E7%9B%A1%E9%87%8F%E6%91%A7%E6%AF%80%E4%BC%8A%E6%9C%97%E8%BB%8D%E5%B7%A5%E8%A8%AD%E6%96%BD",
+    "timestamp": "2026-03-25T21:52:28.236Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "梅窩男子疑觸碰燈飾後昏迷　送醫不治　警正調查是否觸電",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260325/1113485885472509952164398.jpeg/bsg7wdXo845OQRNFOOG-t4mq2anT4JZaQVFEF0FRRBc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60333933/%E5%BC%B5%E9%9B%AA%E5%B3%B0%E7%8C%9D%E6%AD%BB-41%E6%AD%B2%E5%90%8D%E5%B8%AB%E8%B7%91%E6%AD%A5%E5%BF%83%E8%87%9F%E7%97%85%E7%8C%9D%E6%AD%BB-%E9%A0%AD%E6%9A%88%E5%94%87%E7%99%BC%E7%B4%AB7%E5%BE%B5%E5%85%86%E8%AD%B7%E5%BF%834%E9%A3%9F%E7%89%A9",
     "timestamp": "2026-03-25T07:14:55.443Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "Art Basel巴塞爾藝術展｜羅淑佩：未來5年香港成亞洲區唯一主辦地",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260325/1113462032092368896098741.jpeg/UEmCGiWpSoVurORYuhgHtVI26ylzCp_xX8nLw1_Jy8M?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60334024/art-basel%E5%B7%B4%E5%A1%9E%E7%88%BE%E8%97%9D%E8%A1%93%E5%B1%95-%E7%BE%85%E6%B7%91%E4%BD%A9-%E6%9C%AA%E4%BE%865%E5%B9%B4%E9%A6%99%E6%B8%AF%E6%88%90%E4%BA%9E%E6%B4%B2%E5%8D%80%E5%94%AF%E4%B8%80%E4%B8%BB%E8%BE%A6%E5%9C%B0",
-    "timestamp": "2026-03-25T06:45:06.555Z",
     "strategy": ".content-card__main"
   }
 ];
