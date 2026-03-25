@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-25T11:12:03.773Z
+// Last updated: 2026-03-25T11:35:33.329Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "門窗緊閉蚊子仍打不完？他堵住「抽油煙機排風管」　3個月全消失",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250829/1038132148143394816549286.jpeg/hRszSkF-i7Xhc87Auc9wxJ8i_hcx-TPb44P0UOOD9FA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60333788/%E9%96%80%E7%AA%97%E7%B7%8A%E9%96%89%E8%9A%8A%E5%AD%90%E4%BB%8D%E6%89%93%E4%B8%8D%E5%AE%8C-%E4%BB%96%E5%A0%B5%E4%BD%8F-%E6%8A%BD%E6%B2%B9%E7%85%99%E6%A9%9F%E6%8E%92%E9%A2%A8%E7%AE%A1-3%E5%80%8B%E6%9C%88%E5%85%A8%E6%B6%88%E5%A4%B1",
+    "timestamp": "2026-03-25T11:35:33.329Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "乒乓球｜林詩棟退出澳門世界盃國乒迎考驗　港將林兆恒遞補參賽",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260325/1113300238304546816237408.jpeg/VkM7aoegkKocxqOjd1vmfR1b8IEm8FQ_59zLb-fcy28?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60333876/%E8%AD%A6%E5%8F%8D%E9%BB%91%E7%B5%84%E5%A4%A7%E5%9F%94%E6%8B%9845%E6%AD%B2%E5%A5%B3%E5%AD%90-%E8%B5%B7%E7%8D%B2200%E7%B2%92%E4%BE%9D%E6%89%98%E5%92%AA%E9%85%AF%E7%85%99%E5%BD%88",
     "timestamp": "2026-03-24T18:41:08.340Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普稱郵寄投票易生舞弊　卻於佛州補選以郵寄投票",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260325/1113281867206889472704986.jpeg/G7viSk2TRqOF_cSqgt0_z1rr4juxMjb-Vfc-T1X3Pk8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60333868/%E7%89%B9%E6%9C%97%E6%99%AE%E7%A8%B1%E9%83%B5%E5%AF%84%E6%8A%95%E7%A5%A8%E6%98%93%E7%94%9F%E8%88%9E%E5%BC%8A-%E5%8D%BB%E6%96%BC%E4%BD%9B%E5%B7%9E%E8%A3%9C%E9%81%B8%E4%BB%A5%E9%83%B5%E5%AF%84%E6%8A%95%E7%A5%A8",
-    "timestamp": "2026-03-24T18:10:51.482Z",
     "strategy": ".content-card__main"
   }
 ];
