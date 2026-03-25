@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-25T10:10:43.586Z
+// Last updated: 2026-03-25T10:38:11.130Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "世一蔡俊彥進軍樂壇　新歌邀黃偉文填詞　曾任呂爵安演唱會嘉賓",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250818/1034239973488332800823564.jpeg/mUSLSINGR9h5NX6E-sMchK2dyqJpLMuAEb6Mqiu-jKo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60334204/%E4%B8%96%E4%B8%80%E8%94%A1%E4%BF%8A%E5%BD%A5%E9%80%B2%E8%BB%8D%E6%A8%82%E5%A3%87-%E6%96%B0%E6%AD%8C%E9%82%80%E9%BB%83%E5%81%89%E6%96%87%E5%A1%AB%E8%A9%9E-%E6%9B%BE%E4%BB%BB%E5%91%82%E7%88%B5%E5%AE%89%E6%BC%94%E5%94%B1%E6%9C%83%E5%98%89%E8%B3%93",
+    "timestamp": "2026-03-25T10:38:11.130Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "湖南姐弟遭繼母虐待　5歲仔被熱水燙下體逼吃大便　生母泣血控訴",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260325/1113265574366023680487925.jpeg/u3b6iJgvr5zqt6r_GzwPMjnn424C4umVws8O8MLPDvA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60333863/%E8%97%9D%E8%A1%93%E4%B8%AD%E7%92%B0%E9%96%8B%E5%B9%95-%E5%8C%AF%E8%81%9A117%E7%95%AB%E5%BB%8A%E5%8F%8A%E9%80%BE500%E4%BD%8D%E8%97%9D%E8%A1%93%E5%AE%B6-%E8%A6%8F%E6%A8%A1%E6%AD%B7%E5%B1%86%E4%B9%8B%E6%9C%80",
     "timestamp": "2026-03-24T16:45:04.610Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "菲律賓總統宣布全國進入能源緊急狀態　汽油儲備量僅可維持53日",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250811/1031570870025326592259643.jpeg/L6wuR167QwuSexLE8zkddpd1bdmMECSsd11cL3ddXC8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60333860/%E8%8F%B2%E5%BE%8B%E8%B3%93%E7%B8%BD%E7%B5%B1%E5%AE%A3%E5%B8%83%E5%85%A8%E5%9C%8B%E9%80%B2%E5%85%A5%E8%83%BD%E6%BA%90%E7%B7%8A%E6%80%A5%E7%8B%80%E6%85%8B-%E6%B1%BD%E6%B2%B9%E5%84%B2%E5%82%99%E9%87%8F%E5%83%85%E5%8F%AF%E7%B6%AD%E6%8C%8153%E6%97%A5",
-    "timestamp": "2026-03-24T15:46:51.052Z",
     "strategy": ".content-card__main"
   }
 ];
