@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-25T09:40:29.841Z
+// Last updated: 2026-03-25T10:10:43.586Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "湖南姐弟遭繼母虐待　5歲仔被熱水燙下體逼吃大便　生母泣血控訴",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260325/1113505920333123584976052.jpeg/RWtSGu3e1oPkpYm98Fen8mPwiKGj16hbnHQiDpx0Ig4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60334112/%E6%B9%96%E5%8D%97%E5%A7%90%E5%BC%9F%E9%81%AD%E7%B9%BC%E6%AF%8D%E8%99%90%E5%BE%85-5%E6%AD%B2%E4%BB%94%E8%A2%AB%E7%86%B1%E6%B0%B4%E7%87%99%E4%B8%8B%E9%AB%94%E9%80%BC%E5%90%83%E5%A4%A7%E4%BE%BF-%E7%94%9F%E6%AF%8D%E6%B3%A3%E8%A1%80%E6%8E%A7%E8%A8%B4",
+    "timestamp": "2026-03-25T10:10:43.586Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "以色列稱將擴大黎巴嫩控製範圍　真主黨堅稱抵抗到底",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250811/1031570870025326592259643.jpeg/L6wuR167QwuSexLE8zkddpd1bdmMECSsd11cL3ddXC8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60333860/%E8%8F%B2%E5%BE%8B%E8%B3%93%E7%B8%BD%E7%B5%B1%E5%AE%A3%E5%B8%83%E5%85%A8%E5%9C%8B%E9%80%B2%E5%85%A5%E8%83%BD%E6%BA%90%E7%B7%8A%E6%80%A5%E7%8B%80%E6%85%8B-%E6%B1%BD%E6%B2%B9%E5%84%B2%E5%82%99%E9%87%8F%E5%83%85%E5%8F%AF%E7%B6%AD%E6%8C%8153%E6%97%A5",
     "timestamp": "2026-03-24T15:46:51.052Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美股｜道指早段曾跌逾400點　油價最新升逾3%",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260302/1105275351317090304780532.jpeg/DkKPKUERGlflcuBT2zdsfcAaC6kyyc-BZYvINmWLyDY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60333857/%E7%BE%8E%E8%82%A1-%E9%81%93%E6%8C%87%E6%97%A9%E6%AE%B5%E6%9B%BE%E8%B7%8C%E9%80%BE400%E9%BB%9E-%E6%B2%B9%E5%83%B9%E6%9C%80%E6%96%B0%E5%8D%87%E9%80%BE3",
-    "timestamp": "2026-03-24T15:14:22.441Z",
     "strategy": ".content-card__main"
   }
 ];
