@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-26T14:43:41.862Z
+// Last updated: 2026-03-26T15:15:24.238Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "陳凱琳為《浪姐7》炒人氣搏到盡　一日連拍四條片捉實小花造勢",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260326/1113881067258908672764305.jpeg/ubn0No6wInkEu07pPGBf8UnONMNPrfLSavwsEGr8LBA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60334541/%E9%99%B3%E5%87%B1%E7%90%B3%E7%82%BA-%E6%B5%AA%E5%A7%907-%E7%82%92%E4%BA%BA%E6%B0%A3%E6%90%8F%E5%88%B0%E7%9B%A1-%E4%B8%80%E6%97%A5%E9%80%A3%E6%8B%8D%E5%9B%9B%E6%A2%9D%E7%89%87%E6%8D%89%E5%AF%A6%E5%B0%8F%E8%8A%B1%E9%80%A0%E5%8B%A2",
+    "timestamp": "2026-03-26T15:15:24.238Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "日陪酒女偕牛郎男友運毒入境廣州被捕　網齊撐死刑　一人已被保釋",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260326/1113636492632133632268015.jpeg/g0q9mblrRwd7u-rAEmsM8uDHVxzdlrCLjnPcHY5z3B0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60334264/%E4%BA%94%E6%9C%88%E5%A4%A95525-1%E5%B7%A1%E6%BC%94%E9%A6%99%E6%B8%AF%E7%AB%99%E5%95%9F%E5%8B%95-%E6%A8%82%E8%BF%B7%E5%97%8C%E7%88%86%E5%95%9F%E5%BE%B7-%E4%B8%89%E5%BA%A6encore%E5%85%A8%E5%A0%B4%E7%98%8B%E7%8B%82",
     "timestamp": "2026-03-25T16:56:20.043Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "路透：伊朗對美15點計劃初步反應消極　惟仍在審查該停戰協議",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260305/1106158514163683328218436.jpeg/qyn_atiUZOJTAmwmsHtaN-Awuu3xmRV2hIDSW4SA0ls?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60334260/%E8%B7%AF%E9%80%8F-%E4%BC%8A%E6%9C%97%E5%B0%8D%E7%BE%8E15%E9%BB%9E%E8%A8%88%E5%8A%83%E5%88%9D%E6%AD%A5%E5%8F%8D%E6%87%89%E6%B6%88%E6%A5%B5-%E6%83%9F%E4%BB%8D%E5%9C%A8%E5%AF%A9%E6%9F%A5%E8%A9%B2%E5%81%9C%E6%88%B0%E5%8D%94%E8%AD%B0",
-    "timestamp": "2026-03-25T16:21:54.624Z",
     "strategy": ".content-card__main"
   }
 ];
