@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-26T00:48:50.568Z
+// Last updated: 2026-03-26T01:24:02.603Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "大鴿派聯儲局理事米蘭︰通脹數據令人失望　上調年底利率預測半厘",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250916/1044772838168334336613254.jpeg/am7GtQu-cvfouaHws2AvTspGSzbbth84u_gUP7v4FD8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60334299/%E5%A4%A7%E9%B4%BF%E6%B4%BE%E8%81%AF%E5%84%B2%E5%B1%80%E7%90%86%E4%BA%8B%E7%B1%B3%E8%98%AD-%E9%80%9A%E8%84%B9%E6%95%B8%E6%93%9A%E4%BB%A4%E4%BA%BA%E5%A4%B1%E6%9C%9B-%E4%B8%8A%E8%AA%BF%E5%B9%B4%E5%BA%95%E5%88%A9%E7%8E%87%E9%A0%90%E6%B8%AC%E5%8D%8A%E5%8E%98",
+    "timestamp": "2026-03-26T01:24:02.603Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "太子集團陳志調查｜被捕後反擊美國起訴書用假相　園區現假公安局",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260325/1113505920333123584976052.jpeg/RWtSGu3e1oPkpYm98Fen8mPwiKGj16hbnHQiDpx0Ig4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60334112/%E6%B9%96%E5%8D%97%E5%A7%90%E5%BC%9F%E9%81%AD%E7%B9%BC%E6%AF%8D%E8%99%90%E5%BE%85-5%E6%AD%B2%E4%BB%94%E8%A2%AB%E7%86%B1%E6%B0%B4%E7%87%99%E4%B8%8B%E9%AB%94%E9%80%BC%E5%90%83%E5%A4%A7%E4%BE%BF-%E7%94%9F%E6%AF%8D%E6%B3%A3%E8%A1%80%E6%8E%A7%E8%A8%B4",
     "timestamp": "2026-03-25T10:10:43.586Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "以色列稱將擴大黎巴嫩控製範圍　真主黨堅稱抵抗到底",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20241106/930663844919906304065349.jpeg/EZZIUCVlhXb_OEurntuedAda-3B_MtNMXbhyCV24cgk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60334136/%E4%BB%A5%E8%89%B2%E5%88%97%E7%A8%B1%E5%B0%87%E6%93%B4%E5%A4%A7%E9%BB%8E%E5%B7%B4%E5%AB%A9%E6%8E%A7%E8%A3%BD%E7%AF%84%E5%9C%8D-%E7%9C%9F%E4%B8%BB%E9%BB%A8%E5%A0%85%E7%A8%B1%E6%8A%B5%E6%8A%97%E5%88%B0%E5%BA%95",
-    "timestamp": "2026-03-25T09:40:29.841Z",
     "strategy": ".content-card__main"
   }
 ];
