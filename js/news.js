@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-26T13:16:16.329Z
+// Last updated: 2026-03-26T14:43:41.862Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "日陪酒女偕牛郎男友運毒入境廣州被捕　網齊撐死刑　一人已被保釋",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260326/1113882777129848832391257.png/XX9TU6Jq0YO1YVjuresfnB1X7gnOXHggqkRCUqpEQlI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60334323/%E6%97%A5%E9%99%AA%E9%85%92%E5%A5%B3%E5%81%95%E7%89%9B%E9%83%8E%E7%94%B7%E5%8F%8B%E9%81%8B%E6%AF%92%E5%85%A5%E5%A2%83%E5%BB%A3%E5%B7%9E%E8%A2%AB%E6%8D%95-%E7%B6%B2%E9%BD%8A%E6%92%90%E6%AD%BB%E5%88%91-%E4%B8%80%E4%BA%BA%E5%B7%B2%E8%A2%AB%E4%BF%9D%E9%87%8B",
+    "timestamp": "2026-03-26T14:43:41.862Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "楊家誠被指曾任擔保人被追欠款　官裁定楊需還2.34億元",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260305/1106158514163683328218436.jpeg/qyn_atiUZOJTAmwmsHtaN-Awuu3xmRV2hIDSW4SA0ls?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60334260/%E8%B7%AF%E9%80%8F-%E4%BC%8A%E6%9C%97%E5%B0%8D%E7%BE%8E15%E9%BB%9E%E8%A8%88%E5%8A%83%E5%88%9D%E6%AD%A5%E5%8F%8D%E6%87%89%E6%B6%88%E6%A5%B5-%E6%83%9F%E4%BB%8D%E5%9C%A8%E5%AF%A9%E6%9F%A5%E8%A9%B2%E5%81%9C%E6%88%B0%E5%8D%94%E8%AD%B0",
     "timestamp": "2026-03-25T16:21:54.624Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "亞洲50最佳餐廳｜中環大班樓、「永」奪冠亞軍　6間香港餐廳上榜",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260325/1113609024093294592930478.png/whG5ZW_NsIIoxaf79UYRcBObWxK0ktdBiNA_KYjQPyk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60334251/%E4%BA%9E%E6%B4%B250%E6%9C%80%E4%BD%B3%E9%A4%90%E5%BB%B3-%E4%B8%AD%E7%92%B0%E5%A4%A7%E7%8F%AD%E6%A8%93-%E6%B0%B8-%E5%A5%AA%E5%86%A0%E4%BA%9E%E8%BB%8D-6%E9%96%93%E9%A6%99%E6%B8%AF%E9%A4%90%E5%BB%B3%E4%B8%8A%E6%A6%9C",
-    "timestamp": "2026-03-25T15:18:04.114Z",
     "strategy": ".content-card__main"
   }
 ];
