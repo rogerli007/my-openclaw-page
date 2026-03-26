@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-26T10:39:24.193Z
+// Last updated: 2026-03-26T13:16:16.329Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "楊家誠被指曾任擔保人被追欠款　官裁定楊需還2.34億元",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/2182324/org/590646e204ef5e1a2bd685bbd7dde066.jpg/3jW6CFchWIz4MFIK2yNqz1cc3DrDn2RdZUFb22VBW9s?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60334632/%E6%A5%8A%E5%AE%B6%E8%AA%A0%E8%A2%AB%E6%8C%87%E6%9B%BE%E4%BB%BB%E6%93%94%E4%BF%9D%E4%BA%BA%E8%A2%AB%E8%BF%BD%E6%AC%A0%E6%AC%BE-%E5%AE%98%E8%A3%81%E5%AE%9A%E6%A5%8A%E9%9C%80%E9%82%842-34%E5%84%84%E5%85%83",
+    "timestamp": "2026-03-26T13:16:16.329Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "中日關係緊張｜日本馬拉松名將大迫傑低調現身上海參加商業活動",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260325/1113609024093294592930478.png/whG5ZW_NsIIoxaf79UYRcBObWxK0ktdBiNA_KYjQPyk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60334251/%E4%BA%9E%E6%B4%B250%E6%9C%80%E4%BD%B3%E9%A4%90%E5%BB%B3-%E4%B8%AD%E7%92%B0%E5%A4%A7%E7%8F%AD%E6%A8%93-%E6%B0%B8-%E5%A5%AA%E5%86%A0%E4%BA%9E%E8%BB%8D-6%E9%96%93%E9%A6%99%E6%B8%AF%E9%A4%90%E5%BB%B3%E4%B8%8A%E6%A6%9C",
     "timestamp": "2026-03-25T15:18:04.114Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "英王查理斯三世據報4月訪美　料白宮出席國宴與紐約一日遊",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250918/1045212859908624384875349.jpeg/aoeXt6FBtPRZNmBGpRLbiD_kkW97oDZM-7eAV_u3gFc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60334238/%E8%8B%B1%E7%8E%8B%E6%9F%A5%E7%90%86%E6%96%AF%E4%B8%89%E4%B8%96%E6%93%9A%E5%A0%B14%E6%9C%88%E8%A8%AA%E7%BE%8E-%E6%96%99%E7%99%BD%E5%AE%AE%E5%87%BA%E5%B8%AD%E5%9C%8B%E5%AE%B4%E8%88%87%E7%B4%90%E7%B4%84%E4%B8%80%E6%97%A5%E9%81%8A",
-    "timestamp": "2026-03-25T14:47:37.729Z",
     "strategy": ".content-card__main"
   }
 ];
