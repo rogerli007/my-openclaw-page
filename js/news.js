@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-26T15:15:24.238Z
+// Last updated: 2026-03-26T16:41:34.628Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "魔音女團｜喬美莎被導師點名要減肥　安排每日食一餐：要我減10Kg",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260326/1113953064445808640342978.jpeg/yyZKioyNCrLLaE0hujXymNgznjRl98SnzhB64PQQeuA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60334637/%E9%AD%94%E9%9F%B3%E5%A5%B3%E5%9C%98-%E5%96%AC%E7%BE%8E%E8%8E%8E%E8%A2%AB%E5%B0%8E%E5%B8%AB%E9%BB%9E%E5%90%8D%E8%A6%81%E6%B8%9B%E8%82%A5-%E5%AE%89%E6%8E%92%E6%AF%8F%E6%97%A5%E9%A3%9F%E4%B8%80%E9%A4%90-%E8%A6%81%E6%88%91%E6%B8%9B10kg",
+    "timestamp": "2026-03-26T16:41:34.628Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "陳凱琳為《浪姐7》炒人氣搏到盡　一日連拍四條片捉實小花造勢",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260325/1113565125282893824291863.jpeg/ZNcVx22Zo_9N52vz6exrMiVdSqg47DGP4aVbPeGlWz0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60334226/%E5%BE%90%E5%AD%90%E6%B7%87%E5%90%8C%E8%80%81%E5%85%AC%E8%A6%AA%E8%87%AA%E8%90%BD%E5%A0%B4%E8%A9%A6%E9%80%A0%E5%9E%8B-%E6%81%A9%E6%84%9B%E5%88%B0%E6%A5%B5%E7%BE%A1%E7%85%9E%E6%97%81%E4%BA%BA%E7%8E%A9%E5%BE%97%E5%8B%81%E9%96%8B%E5%BF%83",
     "timestamp": "2026-03-25T17:32:04.139Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "五月天5525+1巡演香港站啟動　樂迷嗌爆啟德 三度Encore全場瘋狂",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260326/1113636492632133632268015.jpeg/g0q9mblrRwd7u-rAEmsM8uDHVxzdlrCLjnPcHY5z3B0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60334264/%E4%BA%94%E6%9C%88%E5%A4%A95525-1%E5%B7%A1%E6%BC%94%E9%A6%99%E6%B8%AF%E7%AB%99%E5%95%9F%E5%8B%95-%E6%A8%82%E8%BF%B7%E5%97%8C%E7%88%86%E5%95%9F%E5%BE%B7-%E4%B8%89%E5%BA%A6encore%E5%85%A8%E5%A0%B4%E7%98%8B%E7%8B%82",
-    "timestamp": "2026-03-25T16:56:20.043Z",
     "strategy": ".content-card__main"
   }
 ];
