@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-26T05:29:06.746Z
+// Last updated: 2026-03-26T06:05:08.971Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "競委會：宏福苑或有兩個以上圍標集團　圍標只須罰款思維不再適用",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260227/1104095779921858560643279.jpeg/lPA-54n6gid_wbsvOGz84Byk60T_df7bakZGLmpGRi4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60334423/%E5%AE%8F%E7%A6%8F%E8%8B%91%E8%81%BD%E8%AD%89%E6%9C%83-%E7%AB%B6%E5%A7%94%E6%9C%83-%E5%AE%8F%E7%A6%8F%E8%8B%91%E6%88%96%E6%9C%89%E5%85%A9%E5%80%8B%E4%BB%A5%E4%B8%8A%E5%9C%8D%E6%A8%99%E9%9B%86%E5%9C%98-%E6%88%96%E5%86%8D%E6%9C%89%E6%AA%A2%E6%8E%A7",
+    "timestamp": "2026-03-26T06:05:08.971Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "Google Gemini AI香港全面啟用｜iPhone 3招取代Siri更可語音召喚",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260325/1113520002012549120198364.png/xGy7kyy3YbstCvBEZRukOtZYp3uFIhWgKOv2Cyjr9gs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60334148/%E4%B9%92%E4%B9%93%E7%90%83-%E6%9E%97%E8%A9%A9%E6%A3%9F%E9%80%80%E5%87%BA%E6%BE%B3%E9%96%80%E4%B8%96%E7%95%8C%E7%9B%83%E5%9C%8B%E4%B9%92%E8%BF%8E%E8%80%83%E9%A9%97-%E6%B8%AF%E5%B0%87%E6%9E%97%E5%85%86%E6%81%92%E9%81%9E%E8%A3%9C%E5%8F%83%E8%B3%BD",
     "timestamp": "2026-03-25T11:12:03.773Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "世一蔡俊彥進軍樂壇　新歌邀黃偉文填詞　曾任呂爵安演唱會嘉賓",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250818/1034239973488332800823564.jpeg/mUSLSINGR9h5NX6E-sMchK2dyqJpLMuAEb6Mqiu-jKo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60334204/%E4%B8%96%E4%B8%80%E8%94%A1%E4%BF%8A%E5%BD%A5%E9%80%B2%E8%BB%8D%E6%A8%82%E5%A3%87-%E6%96%B0%E6%AD%8C%E9%82%80%E9%BB%83%E5%81%89%E6%96%87%E5%A1%AB%E8%A9%9E-%E6%9B%BE%E4%BB%BB%E5%91%82%E7%88%B5%E5%AE%89%E6%BC%94%E5%94%B1%E6%9C%83%E5%98%89%E8%B3%93",
-    "timestamp": "2026-03-25T10:38:11.130Z",
     "strategy": ".content-card__main"
   }
 ];
