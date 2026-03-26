@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-25T22:22:03.358Z
+// Last updated: 2026-03-26T00:48:50.568Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "太子集團陳志調查｜被捕後反擊美國起訴書用假相　園區現假公安局",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260324/1113156012786847744590167.jpeg/kLXgGMOuJTAIlM78m0q7A_XyEbaPKIX07kOyRO5DskQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/01%E5%81%B5%E6%9F%A5/60330043/%E5%A4%AA%E5%AD%90%E9%9B%86%E5%9C%98%E9%99%B3%E5%BF%97%E8%AA%BF%E6%9F%A5-%E8%A2%AB%E6%8D%95%E5%BE%8C%E5%8F%8D%E6%93%8A%E7%BE%8E%E5%9C%8B%E8%B5%B7%E8%A8%B4%E6%9B%B8%E7%94%A8%E5%81%87%E7%9B%B8-%E5%9C%92%E5%8D%80%E7%8F%BE%E5%81%87%E5%85%AC%E5%AE%89%E5%B1%80",
+    "timestamp": "2026-03-26T00:48:50.568Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "伊朗革命衛隊稱擊落美軍F-18戰機　美方指「消息不實」｜有片",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20241106/930663844919906304065349.jpeg/EZZIUCVlhXb_OEurntuedAda-3B_MtNMXbhyCV24cgk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60334136/%E4%BB%A5%E8%89%B2%E5%88%97%E7%A8%B1%E5%B0%87%E6%93%B4%E5%A4%A7%E9%BB%8E%E5%B7%B4%E5%AB%A9%E6%8E%A7%E8%A3%BD%E7%AF%84%E5%9C%8D-%E7%9C%9F%E4%B8%BB%E9%BB%A8%E5%A0%85%E7%A8%B1%E6%8A%B5%E6%8A%97%E5%88%B0%E5%BA%95",
     "timestamp": "2026-03-25T09:40:29.841Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "陳敏之為傭工慶生曬全家福素顏狀態被讚無變過　丈夫外貌無辜中槍",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260325/1113489341251850240921807.jpeg/uI6uZW2XxwnIsxY8YDPgTN6YBkWkRUhqxVE5i8VROYs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60333714/%E9%99%B3%E6%95%8F%E4%B9%8B%E7%82%BA%E5%82%AD%E5%B7%A5%E6%85%B6%E7%94%9F%E6%9B%AC%E5%85%A8%E5%AE%B6%E7%A6%8F%E7%B4%A0%E9%A1%8F%E7%8B%80%E6%85%8B%E8%A2%AB%E8%AE%9A%E7%84%A1%E8%AE%8A%E9%81%8E-%E4%B8%88%E5%A4%AB%E5%A4%96%E8%B2%8C%E7%84%A1%E8%BE%9C%E4%B8%AD%E6%A7%8D",
-    "timestamp": "2026-03-25T07:42:56.378Z",
     "strategy": ".content-card__main"
   }
 ];
