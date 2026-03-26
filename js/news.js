@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-26T01:24:02.603Z
+// Last updated: 2026-03-26T05:29:06.746Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "Google Gemini AI香港全面啟用｜iPhone 3招取代Siri更可語音召喚",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260326/1113828461866127360748560.png/IG5mNYFq7EiYb9IshVc7Q9zUIEEWURKzUB5bm1AeW5s?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60334406/google-gemini-ai%E9%A6%99%E6%B8%AF%E5%85%A8%E9%9D%A2%E5%95%9F%E7%94%A8-iphone-3%E6%8B%9B%E5%8F%96%E4%BB%A3siri%E6%9B%B4%E5%8F%AF%E8%AA%9E%E9%9F%B3%E5%8F%AC%E5%96%9A",
+    "timestamp": "2026-03-26T05:29:06.746Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "大鴿派聯儲局理事米蘭︰通脹數據令人失望　上調年底利率預測半厘",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250818/1034239973488332800823564.jpeg/mUSLSINGR9h5NX6E-sMchK2dyqJpLMuAEb6Mqiu-jKo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60334204/%E4%B8%96%E4%B8%80%E8%94%A1%E4%BF%8A%E5%BD%A5%E9%80%B2%E8%BB%8D%E6%A8%82%E5%A3%87-%E6%96%B0%E6%AD%8C%E9%82%80%E9%BB%83%E5%81%89%E6%96%87%E5%A1%AB%E8%A9%9E-%E6%9B%BE%E4%BB%BB%E5%91%82%E7%88%B5%E5%AE%89%E6%BC%94%E5%94%B1%E6%9C%83%E5%98%89%E8%B3%93",
     "timestamp": "2026-03-25T10:38:11.130Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "湖南姐弟遭繼母虐待　5歲仔被熱水燙下體逼吃大便　生母泣血控訴",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260325/1113505920333123584976052.jpeg/RWtSGu3e1oPkpYm98Fen8mPwiKGj16hbnHQiDpx0Ig4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60334112/%E6%B9%96%E5%8D%97%E5%A7%90%E5%BC%9F%E9%81%AD%E7%B9%BC%E6%AF%8D%E8%99%90%E5%BE%85-5%E6%AD%B2%E4%BB%94%E8%A2%AB%E7%86%B1%E6%B0%B4%E7%87%99%E4%B8%8B%E9%AB%94%E9%80%BC%E5%90%83%E5%A4%A7%E4%BE%BF-%E7%94%9F%E6%AF%8D%E6%B3%A3%E8%A1%80%E6%8E%A7%E8%A8%B4",
-    "timestamp": "2026-03-25T10:10:43.586Z",
     "strategy": ".content-card__main"
   }
 ];
