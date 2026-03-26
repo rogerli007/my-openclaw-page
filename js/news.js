@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-26T22:17:08.910Z
+// Last updated: 2026-03-26T22:52:21.577Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美鈔將印特朗普簽名纪念建國250周年　創歷任總統首例",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260327/1114085050166546432805293.jpeg/DYxj0yAbAE9xebQfVnapidLyw_K7J8vbxJ-E9cSfhPU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60334676/%E7%BE%8E%E9%88%94%E5%B0%87%E5%8D%B0%E7%89%B9%E6%9C%97%E6%99%AE%E7%B0%BD%E5%90%8D%E7%BA%AA%E5%BF%B5%E5%BB%BA%E5%9C%8B250%E5%91%A8%E5%B9%B4-%E5%89%B5%E6%AD%B7%E4%BB%BB%E7%B8%BD%E7%B5%B1%E9%A6%96%E4%BE%8B",
+    "timestamp": "2026-03-26T22:52:21.577Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "世界盃附加賽｜意大利首關２：０勝北愛爾蘭",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260326/1113863330625228800274631.jpeg/FMS3KXzILNy8xnCjLSWjgEGOasjKSKMiEpsSkxKbEpM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60334501/%E6%B5%B7%E9%97%9C%E8%91%B5%E6%B6%8C%E5%B7%A5%E5%BB%88%E6%90%97%E7%A7%81%E7%85%99%E5%80%89%E6%8B%98%E7%84%A1%E6%A5%AD%E7%94%B7-%E6%AA%A2%E5%80%BC-330%E8%90%AC%E7%A7%81%E7%85%99%E5%8F%8A%E5%8F%A6%E9%A1%9E%E5%90%B8%E7%85%99%E7%94%A2%E5%93%81",
     "timestamp": "2026-03-26T07:49:16.060Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "柯文哲涉京華城及政治獻金等4大案宣判：判監17年　褫奪公權6年",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260326/1113819324696498176082419.jpeg/a22fXKWbRxz0BRwK2sJ0tFa-psc5YU-dYpYBxGKWAcQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8F%B0%E7%81%A3%E6%96%B0%E8%81%9E/60334401/%E6%9F%AF%E6%96%87%E5%93%B2%E6%B6%89%E4%BA%AC%E8%8F%AF%E5%9F%8E%E5%8F%8A%E6%94%BF%E6%B2%BB%E7%8D%BB%E9%87%91%E7%AD%894%E5%A4%A7%E6%A1%88%E5%AE%A3%E5%88%A4-%E5%88%A4%E7%9B%A317%E5%B9%B4-%E8%A4%AB%E5%A5%AA%E5%85%AC%E6%AC%8A6%E5%B9%B4",
-    "timestamp": "2026-03-26T06:47:21.633Z",
     "strategy": ".content-card__main"
   }
 ];
