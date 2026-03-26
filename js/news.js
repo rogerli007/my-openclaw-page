@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-26T06:05:08.971Z
+// Last updated: 2026-03-26T06:47:21.633Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "柯文哲涉京華城及政治獻金等4大案宣判：判監17年　褫奪公權6年",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260326/1113819324696498176082419.jpeg/a22fXKWbRxz0BRwK2sJ0tFa-psc5YU-dYpYBxGKWAcQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8F%B0%E7%81%A3%E6%96%B0%E8%81%9E/60334401/%E6%9F%AF%E6%96%87%E5%93%B2%E6%B6%89%E4%BA%AC%E8%8F%AF%E5%9F%8E%E5%8F%8A%E6%94%BF%E6%B2%BB%E7%8D%BB%E9%87%91%E7%AD%894%E5%A4%A7%E6%A1%88%E5%AE%A3%E5%88%A4-%E5%88%A4%E7%9B%A317%E5%B9%B4-%E8%A4%AB%E5%A5%AA%E5%85%AC%E6%AC%8A6%E5%B9%B4",
+    "timestamp": "2026-03-26T06:47:21.633Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "競委會：宏福苑或有兩個以上圍標集團　圍標只須罰款思維不再適用",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250829/1038132148143394816549286.jpeg/hRszSkF-i7Xhc87Auc9wxJ8i_hcx-TPb44P0UOOD9FA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60333788/%E9%96%80%E7%AA%97%E7%B7%8A%E9%96%89%E8%9A%8A%E5%AD%90%E4%BB%8D%E6%89%93%E4%B8%8D%E5%AE%8C-%E4%BB%96%E5%A0%B5%E4%BD%8F-%E6%8A%BD%E6%B2%B9%E7%85%99%E6%A9%9F%E6%8E%92%E9%A2%A8%E7%AE%A1-3%E5%80%8B%E6%9C%88%E5%85%A8%E6%B6%88%E5%A4%B1",
     "timestamp": "2026-03-25T11:35:33.329Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "乒乓球｜林詩棟退出澳門世界盃國乒迎考驗　港將林兆恒遞補參賽",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260325/1113520002012549120198364.png/xGy7kyy3YbstCvBEZRukOtZYp3uFIhWgKOv2Cyjr9gs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60334148/%E4%B9%92%E4%B9%93%E7%90%83-%E6%9E%97%E8%A9%A9%E6%A3%9F%E9%80%80%E5%87%BA%E6%BE%B3%E9%96%80%E4%B8%96%E7%95%8C%E7%9B%83%E5%9C%8B%E4%B9%92%E8%BF%8E%E8%80%83%E9%A9%97-%E6%B8%AF%E5%B0%87%E6%9E%97%E5%85%86%E6%81%92%E9%81%9E%E8%A3%9C%E5%8F%83%E8%B3%BD",
-    "timestamp": "2026-03-25T11:12:03.773Z",
     "strategy": ".content-card__main"
   }
 ];
