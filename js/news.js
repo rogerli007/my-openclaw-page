@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-26T20:04:01.716Z
+// Last updated: 2026-03-26T20:23:25.600Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "特朗普政府要求三大學醫學院提供申請者信息　拒配合將遭中斷撥款",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260325/1113320383806705664528946.jpeg/CS2uD68LI3SNqGzeLDI-9vYwAo1YQ_CONE_GdTRPxnU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60334669/%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%E8%A6%81%E6%B1%82%E4%B8%89%E5%A4%A7%E5%AD%B8%E9%86%AB%E5%AD%B8%E9%99%A2%E6%8F%90%E4%BE%9B%E7%94%B3%E8%AB%8B%E8%80%85%E4%BF%A1%E6%81%AF-%E6%8B%92%E9%85%8D%E5%90%88%E5%B0%87%E9%81%AD%E4%B8%AD%E6%96%B7%E6%92%A5%E6%AC%BE",
+    "timestamp": "2026-03-26T20:23:25.600Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "特朗普政府要求三大學醫學院提供申請者信息　拒配合將遭中斷撥款",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260326/1113712176914239488264035.png/JFbKF5hzdaF47zaoJjnA_zjJmm_3GJbAqkP2bapD9m0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60334285/%E4%BC%8A%E6%9C%97%E9%9D%A9%E5%91%BD%E8%A1%9B%E9%9A%8A%E7%A8%B1%E6%93%8A%E8%90%BD%E7%BE%8E%E8%BB%8Df-18%E6%88%B0%E6%A9%9F-%E7%BE%8E%E6%96%B9%E6%8C%87-%E6%B6%88%E6%81%AF%E4%B8%8D%E5%AF%A6-%E6%9C%89%E7%89%87",
     "timestamp": "2026-03-25T22:22:03.358Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美媒：內塔尼亞胡下令48小時內加大攻勢　盡量摧毀伊朗軍工設施",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260320/1111507910162124800210596.jpeg/95TIGibeRwtDYxmBylJEFFqoNe7MB_e1rWxrpa1sa6U?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60334283/%E7%BE%8E%E5%AA%92-%E5%85%A7%E5%A1%94%E5%B0%BC%E4%BA%9E%E8%83%A1%E4%B8%8B%E4%BB%A448%E5%B0%8F%E6%99%82%E5%85%A7%E5%8A%A0%E5%A4%A7%E6%94%BB%E5%8B%A2-%E7%9B%A1%E9%87%8F%E6%91%A7%E6%AF%80%E4%BC%8A%E6%9C%97%E8%BB%8D%E5%B7%A5%E8%A8%AD%E6%96%BD",
-    "timestamp": "2026-03-25T21:52:28.236Z",
     "strategy": ".content-card__main"
   }
 ];
