@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-26T08:37:59.342Z
+// Last updated: 2026-03-26T09:14:23.526Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "6名中國遊客冒險挑戰北海道｢野雪區｣滑雪4人受困　救援隊出動營救",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260326/1113878070789410816047195.jpeg/N3Jz0MxoRkNHW1yPhXQ7Gh3GFuwAa80FTVhqe01Yans?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60334506/6%E5%90%8D%E4%B8%AD%E5%9C%8B%E9%81%8A%E5%AE%A2%E5%86%92%E9%9A%AA%E6%8C%91%E6%88%B0%E5%8C%97%E6%B5%B7%E9%81%93-%E9%87%8E%E9%9B%AA%E5%8D%80-%E6%BB%91%E9%9B%AA4%E4%BA%BA%E5%8F%97%E5%9B%B0-%E6%95%91%E6%8F%B4%E9%9A%8A%E5%87%BA%E5%8B%95%E7%87%9F%E6%95%91",
+    "timestamp": "2026-03-26T09:14:23.526Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "海豚研究｜快手暴跌——向死而生？",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260324/1113162520358555648354907.jpeg/iBkzXH1a0MZkgB6_QlN9gzGN4XlJ-cfnFPQXvxT0F78?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60334206/%E4%BC%8A%E6%9C%97%E6%88%B0%E7%88%AD%E8%A7%B8%E7%99%BC%E8%83%BD%E6%BA%90%E5%8D%B1%E6%A9%9F%E4%BA%9E%E6%B4%B2%E5%A4%9A%E5%9C%8B%E6%93%AC%E9%87%8D%E5%95%9Fwfh-%E6%9D%8E%E5%9C%A8%E6%98%8E%E7%B1%B2%E7%B8%AE%E6%B7%8B%E6%B5%B4%E6%99%82%E9%96%93",
     "timestamp": "2026-03-25T13:43:01.188Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "海洋公園開發AI系統偵測大熊貓及川金絲猴動態　分析活動習慣模式",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260325/1113546178911670272086259.jpeg/MFjH4Cjk1mKAtzdAZFglAD06UfDp-uK6jg4gB44OIAc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60334198/%E6%B5%B7%E6%B4%8B%E5%85%AC%E5%9C%92%E9%96%8B%E7%99%BCai%E7%B3%BB%E7%B5%B1%E5%81%B5%E6%B8%AC%E5%A4%A7%E7%86%8A%E8%B2%93%E5%8F%8A%E5%B7%9D%E9%87%91%E7%B5%B2%E7%8C%B4%E5%8B%95%E6%85%8B-%E5%88%86%E6%9E%90%E6%B4%BB%E5%8B%95%E7%BF%92%E6%85%A3%E6%A8%A1%E5%BC%8F",
-    "timestamp": "2026-03-25T13:00:33.564Z",
     "strategy": ".content-card__main"
   }
 ];
