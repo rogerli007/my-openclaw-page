@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-26T20:51:31.244Z
+// Last updated: 2026-03-26T21:24:06.027Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "特朗普稱與伊朗談判進展「非常順利」　將暫緩打擊能源設施10日",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260327/1114022131378688000169273.jpeg/n9TwSJDrRgYzKGsyESefk0KANqU7CF2mQ4NXuEODV7g?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60334674/%E7%89%B9%E6%9C%97%E6%99%AE%E7%A8%B1%E8%88%87%E4%BC%8A%E6%9C%97%E8%AB%87%E5%88%A4%E9%80%B2%E5%B1%95-%E9%9D%9E%E5%B8%B8%E9%A0%86%E5%88%A9-%E5%B0%87%E6%9A%AB%E7%B7%A9%E6%89%93%E6%93%8A%E8%83%BD%E6%BA%90%E8%A8%AD%E6%96%BD10%E6%97%A5",
+    "timestamp": "2026-03-26T21:24:06.027Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "特朗普政府要求三大學醫學院提供申請者信息　拒配合將遭中斷撥款",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250916/1044772838168334336613254.jpeg/am7GtQu-cvfouaHws2AvTspGSzbbth84u_gUP7v4FD8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60334299/%E5%A4%A7%E9%B4%BF%E6%B4%BE%E8%81%AF%E5%84%B2%E5%B1%80%E7%90%86%E4%BA%8B%E7%B1%B3%E8%98%AD-%E9%80%9A%E8%84%B9%E6%95%B8%E6%93%9A%E4%BB%A4%E4%BA%BA%E5%A4%B1%E6%9C%9B-%E4%B8%8A%E8%AA%BF%E5%B9%B4%E5%BA%95%E5%88%A9%E7%8E%87%E9%A0%90%E6%B8%AC%E5%8D%8A%E5%8E%98",
     "timestamp": "2026-03-26T01:24:02.603Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "太子集團陳志調查｜被捕後反擊美國起訴書用假相　園區現假公安局",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260324/1113156012786847744590167.jpeg/kLXgGMOuJTAIlM78m0q7A_XyEbaPKIX07kOyRO5DskQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/01%E5%81%B5%E6%9F%A5/60330043/%E5%A4%AA%E5%AD%90%E9%9B%86%E5%9C%98%E9%99%B3%E5%BF%97%E8%AA%BF%E6%9F%A5-%E8%A2%AB%E6%8D%95%E5%BE%8C%E5%8F%8D%E6%93%8A%E7%BE%8E%E5%9C%8B%E8%B5%B7%E8%A8%B4%E6%9B%B8%E7%94%A8%E5%81%87%E7%9B%B8-%E5%9C%92%E5%8D%80%E7%8F%BE%E5%81%87%E5%85%AC%E5%AE%89%E5%B1%80",
-    "timestamp": "2026-03-26T00:48:50.568Z",
     "strategy": ".content-card__main"
   }
 ];
