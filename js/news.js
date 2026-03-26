@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-26T21:59:29.081Z
+// Last updated: 2026-03-26T22:17:08.910Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "世界盃附加賽｜意大利首關２：０勝北愛爾蘭",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260327/1114080250418958336215370.jpeg/pW5XA8j1OpOVFS6Ax9sDAYhbWYA8MkVwxIObTsSDm04?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60334675/%E4%B8%96%E7%95%8C%E7%9B%83%E9%99%84%E5%8A%A0%E8%B3%BD-%E6%84%8F%E5%A4%A7%E5%88%A9%E9%A6%96%E9%97%9C%EF%BC%92-%EF%BC%90%E5%8B%9D%E5%8C%97%E6%84%9B%E7%88%BE%E8%98%AD",
+    "timestamp": "2026-03-26T22:17:08.910Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "貝森特：伊朗衝突結束將使能源價格跌至戰前水平以下",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260326/1113819324696498176082419.jpeg/a22fXKWbRxz0BRwK2sJ0tFa-psc5YU-dYpYBxGKWAcQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8F%B0%E7%81%A3%E6%96%B0%E8%81%9E/60334401/%E6%9F%AF%E6%96%87%E5%93%B2%E6%B6%89%E4%BA%AC%E8%8F%AF%E5%9F%8E%E5%8F%8A%E6%94%BF%E6%B2%BB%E7%8D%BB%E9%87%91%E7%AD%894%E5%A4%A7%E6%A1%88%E5%AE%A3%E5%88%A4-%E5%88%A4%E7%9B%A317%E5%B9%B4-%E8%A4%AB%E5%A5%AA%E5%85%AC%E6%AC%8A6%E5%B9%B4",
     "timestamp": "2026-03-26T06:47:21.633Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "競委會：宏福苑或有兩個以上圍標集團　圍標只須罰款思維不再適用",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260227/1104095779921858560643279.jpeg/lPA-54n6gid_wbsvOGz84Byk60T_df7bakZGLmpGRi4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60334423/%E5%AE%8F%E7%A6%8F%E8%8B%91%E8%81%BD%E8%AD%89%E6%9C%83-%E7%AB%B6%E5%A7%94%E6%9C%83-%E5%AE%8F%E7%A6%8F%E8%8B%91%E6%88%96%E6%9C%89%E5%85%A9%E5%80%8B%E4%BB%A5%E4%B8%8A%E5%9C%8D%E6%A8%99%E9%9B%86%E5%9C%98-%E6%88%96%E5%86%8D%E6%9C%89%E6%AA%A2%E6%8E%A7",
-    "timestamp": "2026-03-26T06:05:08.971Z",
     "strategy": ".content-card__main"
   }
 ];
