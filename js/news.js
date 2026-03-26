@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-26T21:24:06.027Z
+// Last updated: 2026-03-26T21:36:34.920Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "貝森特：伊朗衝突結束將使能源價格跌至戰前水平以下",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260327/1114054470100062208862547.jpeg/e-bLqQwXcLjo2_XN3KvKyKwrVUdsWJYfcObDbXDmw20?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60334673/%E8%B2%9D%E6%A3%AE%E7%89%B9-%E4%BC%8A%E6%9C%97%E8%A1%9D%E7%AA%81%E7%B5%90%E6%9D%9F%E5%B0%87%E4%BD%BF%E8%83%BD%E6%BA%90%E5%83%B9%E6%A0%BC%E8%B7%8C%E8%87%B3%E6%88%B0%E5%89%8D%E6%B0%B4%E5%B9%B3%E4%BB%A5%E4%B8%8B",
+    "timestamp": "2026-03-26T21:36:34.920Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "特朗普稱與伊朗談判進展「非常順利」　將暫緩打擊能源設施10日",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260326/1113828461866127360748560.png/IG5mNYFq7EiYb9IshVc7Q9zUIEEWURKzUB5bm1AeW5s?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60334406/google-gemini-ai%E9%A6%99%E6%B8%AF%E5%85%A8%E9%9D%A2%E5%95%9F%E7%94%A8-iphone-3%E6%8B%9B%E5%8F%96%E4%BB%A3siri%E6%9B%B4%E5%8F%AF%E8%AA%9E%E9%9F%B3%E5%8F%AC%E5%96%9A",
     "timestamp": "2026-03-26T05:29:06.746Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "大鴿派聯儲局理事米蘭︰通脹數據令人失望　上調年底利率預測半厘",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250916/1044772838168334336613254.jpeg/am7GtQu-cvfouaHws2AvTspGSzbbth84u_gUP7v4FD8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60334299/%E5%A4%A7%E9%B4%BF%E6%B4%BE%E8%81%AF%E5%84%B2%E5%B1%80%E7%90%86%E4%BA%8B%E7%B1%B3%E8%98%AD-%E9%80%9A%E8%84%B9%E6%95%B8%E6%93%9A%E4%BB%A4%E4%BA%BA%E5%A4%B1%E6%9C%9B-%E4%B8%8A%E8%AA%BF%E5%B9%B4%E5%BA%95%E5%88%A9%E7%8E%87%E9%A0%90%E6%B8%AC%E5%8D%8A%E5%8E%98",
-    "timestamp": "2026-03-26T01:24:02.603Z",
     "strategy": ".content-card__main"
   }
 ];
