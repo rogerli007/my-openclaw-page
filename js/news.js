@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-26T06:47:21.633Z
+// Last updated: 2026-03-26T07:49:16.060Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "海關葵涌工廈搗私煙倉拘無業男　檢值$330萬私煙及另類吸煙產品",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260326/1113863330625228800274631.jpeg/FMS3KXzILNy8xnCjLSWjgEGOasjKSKMiEpsSkxKbEpM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60334501/%E6%B5%B7%E9%97%9C%E8%91%B5%E6%B6%8C%E5%B7%A5%E5%BB%88%E6%90%97%E7%A7%81%E7%85%99%E5%80%89%E6%8B%98%E7%84%A1%E6%A5%AD%E7%94%B7-%E6%AA%A2%E5%80%BC-330%E8%90%AC%E7%A7%81%E7%85%99%E5%8F%8A%E5%8F%A6%E9%A1%9E%E5%90%B8%E7%85%99%E7%94%A2%E5%93%81",
+    "timestamp": "2026-03-26T07:49:16.060Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "柯文哲涉京華城及政治獻金等4大案宣判：判監17年　褫奪公權6年",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260304/1105885777789194240176359.png/9sTngXi8iTsc5gN8Sw8fZx3Asy7gyjQ5y5wTgcucE4E?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60334232/%E5%9C%8B%E5%8B%99%E9%99%A2%E5%89%AF%E7%B8%BD%E7%90%86%E4%B8%81%E8%96%9B%E7%A5%A5%E5%87%BA%E5%B8%AD%E4%B8%AD%E9%97%9C%E6%9D%91%E8%AB%96%E5%A3%87%E5%B9%B4%E6%9C%83-%E5%94%AF%E6%9C%89%E9%96%8B%E6%94%BE%E5%90%88%E4%BD%9C%E6%89%8D%E6%98%AF%E6%AD%A3%E9%81%93",
     "timestamp": "2026-03-25T12:09:03.830Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "門窗緊閉蚊子仍打不完？他堵住「抽油煙機排風管」　3個月全消失",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250829/1038132148143394816549286.jpeg/hRszSkF-i7Xhc87Auc9wxJ8i_hcx-TPb44P0UOOD9FA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60333788/%E9%96%80%E7%AA%97%E7%B7%8A%E9%96%89%E8%9A%8A%E5%AD%90%E4%BB%8D%E6%89%93%E4%B8%8D%E5%AE%8C-%E4%BB%96%E5%A0%B5%E4%BD%8F-%E6%8A%BD%E6%B2%B9%E7%85%99%E6%A9%9F%E6%8E%92%E9%A2%A8%E7%AE%A1-3%E5%80%8B%E6%9C%88%E5%85%A8%E6%B6%88%E5%A4%B1",
-    "timestamp": "2026-03-25T11:35:33.329Z",
     "strategy": ".content-card__main"
   }
 ];
