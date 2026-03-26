@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-26T22:52:21.577Z
+// Last updated: 2026-03-26T23:52:21.027Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "王文濤晤美國貿易代表　對美方301調查等表達嚴正關切",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260327/1114098830342623232924570.jpeg/xMDOOtCvEPenrE69-_FjXLOOJKrGLNxSq5Ol26uTpds?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60334678/%E7%8E%8B%E6%96%87%E6%BF%A4%E6%99%A4%E7%BE%8E%E5%9C%8B%E8%B2%BF%E6%98%93%E4%BB%A3%E8%A1%A8-%E5%B0%8D%E7%BE%8E%E6%96%B9301%E8%AA%BF%E6%9F%A5%E7%AD%89%E8%A1%A8%E9%81%94%E5%9A%B4%E6%AD%A3%E9%97%9C%E5%88%87",
+    "timestamp": "2026-03-26T23:52:21.027Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美鈔將印特朗普簽名纪念建國250周年　創歷任總統首例",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260326/1113870026047229952714026.jpeg/EAeBHysRpqt9wbEUkxiB5Qbh-SGplx1xy1euT8tXrk8?v=w1920r16_9",
     "url": "https://www.hk01.com/01%E5%B0%88%E6%AC%84/60334531/%E6%B5%B7%E8%B1%9A%E7%A0%94%E7%A9%B6-%E5%BF%AB%E6%89%8B%E6%9A%B4%E8%B7%8C-%E5%90%91%E6%AD%BB%E8%80%8C%E7%94%9F",
     "timestamp": "2026-03-26T08:37:59.342Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "海關葵涌工廈搗私煙倉拘無業男　檢值$330萬私煙及另類吸煙產品",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260326/1113863330625228800274631.jpeg/FMS3KXzILNy8xnCjLSWjgEGOasjKSKMiEpsSkxKbEpM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60334501/%E6%B5%B7%E9%97%9C%E8%91%B5%E6%B6%8C%E5%B7%A5%E5%BB%88%E6%90%97%E7%A7%81%E7%85%99%E5%80%89%E6%8B%98%E7%84%A1%E6%A5%AD%E7%94%B7-%E6%AA%A2%E5%80%BC-330%E8%90%AC%E7%A7%81%E7%85%99%E5%8F%8A%E5%8F%A6%E9%A1%9E%E5%90%B8%E7%85%99%E7%94%A2%E5%93%81",
-    "timestamp": "2026-03-26T07:49:16.060Z",
     "strategy": ".content-card__main"
   }
 ];
