@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-26T21:36:34.920Z
+// Last updated: 2026-03-26T21:59:29.081Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "貝森特：伊朗衝突結束將使能源價格跌至戰前水平以下",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260327/1114054470100062208862547.jpeg/e-bLqQwXcLjo2_XN3KvKyKwrVUdsWJYfcObDbXDmw20?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60334673/%E8%B2%9D%E6%A3%AE%E7%89%B9-%E4%BC%8A%E6%9C%97%E8%A1%9D%E7%AA%81%E7%B5%90%E6%9D%9F%E5%B0%87%E4%BD%BF%E8%83%BD%E6%BA%90%E5%83%B9%E6%A0%BC%E8%B7%8C%E8%87%B3%E6%88%B0%E5%89%8D%E6%B0%B4%E5%B9%B3%E4%BB%A5%E4%B8%8B",
+    "timestamp": "2026-03-26T21:59:29.081Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "貝森特：伊朗衝突結束將使能源價格跌至戰前水平以下",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260227/1104095779921858560643279.jpeg/lPA-54n6gid_wbsvOGz84Byk60T_df7bakZGLmpGRi4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60334423/%E5%AE%8F%E7%A6%8F%E8%8B%91%E8%81%BD%E8%AD%89%E6%9C%83-%E7%AB%B6%E5%A7%94%E6%9C%83-%E5%AE%8F%E7%A6%8F%E8%8B%91%E6%88%96%E6%9C%89%E5%85%A9%E5%80%8B%E4%BB%A5%E4%B8%8A%E5%9C%8D%E6%A8%99%E9%9B%86%E5%9C%98-%E6%88%96%E5%86%8D%E6%9C%89%E6%AA%A2%E6%8E%A7",
     "timestamp": "2026-03-26T06:05:08.971Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "Google Gemini AI香港全面啟用｜iPhone 3招取代Siri更可語音召喚",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260326/1113828461866127360748560.png/IG5mNYFq7EiYb9IshVc7Q9zUIEEWURKzUB5bm1AeW5s?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60334406/google-gemini-ai%E9%A6%99%E6%B8%AF%E5%85%A8%E9%9D%A2%E5%95%9F%E7%94%A8-iphone-3%E6%8B%9B%E5%8F%96%E4%BB%A3siri%E6%9B%B4%E5%8F%AF%E8%AA%9E%E9%9F%B3%E5%8F%AC%E5%96%9A",
-    "timestamp": "2026-03-26T05:29:06.746Z",
     "strategy": ".content-card__main"
   }
 ];
