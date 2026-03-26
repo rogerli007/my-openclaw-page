@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-26T16:41:34.628Z
+// Last updated: 2026-03-26T17:42:28.420Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "香港零售管理協會學層全國兩會精神　把握「十五五」發展機遇",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260327/1114004577901875200839547.jpeg/-rYCWf6ToWkukRDX9XjW7upPQ7CRCOlp-ge_cvoHv3I?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60334661/%E9%A6%99%E6%B8%AF%E9%9B%B6%E5%94%AE%E7%AE%A1%E7%90%86%E5%8D%94%E6%9C%83%E5%AD%B8%E5%B1%A4%E5%85%A8%E5%9C%8B%E5%85%A9%E6%9C%83%E7%B2%BE%E7%A5%9E-%E6%8A%8A%E6%8F%A1-%E5%8D%81%E4%BA%94%E4%BA%94-%E7%99%BC%E5%B1%95%E6%A9%9F%E9%81%87",
+    "timestamp": "2026-03-26T17:42:28.420Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "魔音女團｜喬美莎被導師點名要減肥　安排每日食一餐：要我減10Kg",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260214/1099398550313242624976802.jpeg/ZLV2GEPf5Ydu9_FgUs5IdxtdruIejN2bddTw73XU8O8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60334271/%E7%8E%8B%E6%AF%85%E9%80%9A%E8%A9%B1%E5%9F%83%E5%8F%8A%E5%9C%9F%E8%80%B3%E5%85%B6%E5%A4%96%E9%95%B7-%E7%A8%B1%E7%95%B6%E5%8B%99%E4%B9%8B%E6%80%A5%E6%98%AF%E7%A9%8D%E6%A5%B5%E5%8B%B8%E5%92%8C%E4%BF%83%E8%AB%87-%E6%8E%A8%E6%88%B0%E7%81%AB%E5%B9%B3%E6%81%AF",
     "timestamp": "2026-03-25T17:57:55.890Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "徐子淇同老公親自落場試造型　恩愛到極羡煞旁人玩得勁開心",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260325/1113565125282893824291863.jpeg/ZNcVx22Zo_9N52vz6exrMiVdSqg47DGP4aVbPeGlWz0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60334226/%E5%BE%90%E5%AD%90%E6%B7%87%E5%90%8C%E8%80%81%E5%85%AC%E8%A6%AA%E8%87%AA%E8%90%BD%E5%A0%B4%E8%A9%A6%E9%80%A0%E5%9E%8B-%E6%81%A9%E6%84%9B%E5%88%B0%E6%A5%B5%E7%BE%A1%E7%85%9E%E6%97%81%E4%BA%BA%E7%8E%A9%E5%BE%97%E5%8B%81%E9%96%8B%E5%BF%83",
-    "timestamp": "2026-03-25T17:32:04.139Z",
     "strategy": ".content-card__main"
   }
 ];
