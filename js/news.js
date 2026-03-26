@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-26T18:12:37.616Z
+// Last updated: 2026-03-26T18:41:54.994Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "馬杜羅二次出庭受審　法官稱不會因訴訟費支付問題撤銷其販毒指控",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260327/1114021517080924160634789.jpeg/w6238WW_KA-PfWuKObuYOod7GDXMj6bz2-3P99vtz_c?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60334664/%E9%A6%AC%E6%9D%9C%E7%BE%85%E4%BA%8C%E6%AC%A1%E5%87%BA%E5%BA%AD%E5%8F%97%E5%AF%A9-%E6%B3%95%E5%AE%98%E7%A8%B1%E4%B8%8D%E6%9C%83%E5%9B%A0%E8%A8%B4%E8%A8%9F%E8%B2%BB%E6%94%AF%E4%BB%98%E5%95%8F%E9%A1%8C%E6%92%A4%E9%8A%B7%E5%85%B6%E8%B2%A9%E6%AF%92%E6%8C%87%E6%8E%A7",
+    "timestamp": "2026-03-26T18:41:54.994Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "香港零售管理協會學層全國兩會精神　把握「十五五」發展機遇",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/5561811/org/aad1dc74df4e4139ccf5403f4f0a36b3.jpg/RVcXWiKhQzcR_T_r6rw14U-pTxQm25Ddsk3aALJN2gA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60334280/%E6%A2%85%E7%AA%A9%E7%94%B7%E5%AD%90%E7%96%91%E8%A7%B8%E7%A2%B0%E7%87%88%E9%A3%BE%E5%BE%8C%E6%98%8F%E8%BF%B7-%E9%80%81%E9%86%AB%E4%B8%8D%E6%B2%BB-%E8%AD%A6%E6%AD%A3%E8%AA%BF%E6%9F%A5%E6%98%AF%E5%90%A6%E8%A7%B8%E9%9B%BB",
     "timestamp": "2026-03-25T20:52:33.842Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "伊朗戰爭｜白宮：特朗普5月14日至15日訪華　將與習近平會面",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20251114/1066020653993299968905612.jpeg/qUCXsZXrZSYtI4kHlG0kXqKdCvYl-uv2OTy8fDk8vHw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60334273/%E4%BC%8A%E6%9C%97%E6%88%B0%E7%88%AD-%E7%99%BD%E5%AE%AE-%E7%89%B9%E6%9C%97%E6%99%AE5%E6%9C%8814%E6%97%A5%E8%87%B315%E6%97%A5%E8%A8%AA%E8%8F%AF-%E5%B0%87%E8%88%87%E7%BF%92%E8%BF%91%E5%B9%B3%E6%9C%83%E9%9D%A2",
-    "timestamp": "2026-03-25T18:31:01.497Z",
     "strategy": ".content-card__main"
   }
 ];
