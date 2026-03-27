@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-27T11:36:17.607Z
+// Last updated: 2026-03-27T12:04:36.553Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "九龍塘站闖路軌觸電｜繁忙時間　有人車廂傘擋小解　有人排隊仆倒",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260327/1114284518036475904831246.jpeg/vFjfu_hTUToKzu6O8YddEBoeZc9zdE5rDTGvHyQxrx8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60335000/%E4%B9%9D%E9%BE%8D%E5%A1%98%E7%AB%99%E9%97%96%E8%B7%AF%E8%BB%8C%E8%A7%B8%E9%9B%BB-%E7%B9%81%E5%BF%99%E6%99%82%E9%96%93-%E6%9C%89%E4%BA%BA%E8%BB%8A%E5%BB%82%E5%82%98%E6%93%8B%E5%B0%8F%E8%A7%A3-%E6%9C%89%E4%BA%BA%E6%8E%92%E9%9A%8A%E4%BB%86%E5%80%92",
+    "timestamp": "2026-03-27T12:04:36.553Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "最多農藥蔬果2026｜菠菜第1 士多啤梨被2菜踢走！6菜最毒+清洗4招",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260325/1113320383806705664528946.jpeg/CS2uD68LI3SNqGzeLDI-9vYwAo1YQ_CONE_GdTRPxnU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60334669/%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%E8%A6%81%E6%B1%82%E4%B8%89%E5%A4%A7%E5%AD%B8%E9%86%AB%E5%AD%B8%E9%99%A2%E6%8F%90%E4%BE%9B%E7%94%B3%E8%AB%8B%E8%80%85%E4%BF%A1%E6%81%AF-%E6%8B%92%E9%85%8D%E5%90%88%E5%B0%87%E9%81%AD%E4%B8%AD%E6%96%B7%E6%92%A5%E6%AC%BE",
     "timestamp": "2026-03-26T20:51:31.244Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普政府要求三大學醫學院提供申請者信息　拒配合將遭中斷撥款",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260325/1113320383806705664528946.jpeg/CS2uD68LI3SNqGzeLDI-9vYwAo1YQ_CONE_GdTRPxnU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60334669/%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%E8%A6%81%E6%B1%82%E4%B8%89%E5%A4%A7%E5%AD%B8%E9%86%AB%E5%AD%B8%E9%99%A2%E6%8F%90%E4%BE%9B%E7%94%B3%E8%AB%8B%E8%80%85%E4%BF%A1%E6%81%AF-%E6%8B%92%E9%85%8D%E5%90%88%E5%B0%87%E9%81%AD%E4%B8%AD%E6%96%B7%E6%92%A5%E6%AC%BE",
-    "timestamp": "2026-03-26T20:23:25.600Z",
     "strategy": ".content-card__main"
   }
 ];
