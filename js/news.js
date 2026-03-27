@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-27T12:56:40.027Z
+// Last updated: 2026-03-27T15:12:28.756Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "醫啲阿媽都唔知丨鄒重璂解構高血壓　陸永自爆曾被母親打爆電話",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260327/1114142187571908608852971.png/EHMY22w3qRzlbkRK6yyupBkU6AyZ0nBOqrfFM6q3xTM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60334714/%E9%86%AB%E5%95%B2%E9%98%BF%E5%AA%BD%E9%83%BD%E5%94%94%E7%9F%A5-%E9%84%92%E9%87%8D%E7%92%82%E8%A7%A3%E6%A7%8B%E9%AB%98%E8%A1%80%E5%A3%93-%E9%99%B8%E6%B0%B8%E8%87%AA%E7%88%86%E6%9B%BE%E8%A2%AB%E6%AF%8D%E8%A6%AA%E6%89%93%E7%88%86%E9%9B%BB%E8%A9%B1",
+    "timestamp": "2026-03-27T15:12:28.756Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "東張西望｜楊婆婆堆垃圾霸足十年　玩謝鄰居家人叫囂：後果自負！",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260327/1114054470100062208862547.jpeg/e-bLqQwXcLjo2_XN3KvKyKwrVUdsWJYfcObDbXDmw20?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60334673/%E8%B2%9D%E6%A3%AE%E7%89%B9-%E4%BC%8A%E6%9C%97%E8%A1%9D%E7%AA%81%E7%B5%90%E6%9D%9F%E5%B0%87%E4%BD%BF%E8%83%BD%E6%BA%90%E5%83%B9%E6%A0%BC%E8%B7%8C%E8%87%B3%E6%88%B0%E5%89%8D%E6%B0%B4%E5%B9%B3%E4%BB%A5%E4%B8%8B",
     "timestamp": "2026-03-26T21:36:34.920Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普稱與伊朗談判進展「非常順利」　將暫緩打擊能源設施10日",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260327/1114022131378688000169273.jpeg/n9TwSJDrRgYzKGsyESefk0KANqU7CF2mQ4NXuEODV7g?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60334674/%E7%89%B9%E6%9C%97%E6%99%AE%E7%A8%B1%E8%88%87%E4%BC%8A%E6%9C%97%E8%AB%87%E5%88%A4%E9%80%B2%E5%B1%95-%E9%9D%9E%E5%B8%B8%E9%A0%86%E5%88%A9-%E5%B0%87%E6%9A%AB%E7%B7%A9%E6%89%93%E6%93%8A%E8%83%BD%E6%BA%90%E8%A8%AD%E6%96%BD10%E6%97%A5",
-    "timestamp": "2026-03-26T21:24:06.027Z",
     "strategy": ".content-card__main"
   }
 ];
