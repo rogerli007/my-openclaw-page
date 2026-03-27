@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-27T15:12:28.756Z
+// Last updated: 2026-03-27T15:38:42.337Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "落選港姐李清心宣布懷第二胎　懷孕初期下體持續出血畫面驚嚇",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260327/1114338027980722176807394.jpeg/PjFKeyKfwUK6ZVn0AbDE6XMOUF14GfIzEpvqOxKb6js?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60335035/%E8%90%BD%E9%81%B8%E6%B8%AF%E5%A7%90%E6%9D%8E%E6%B8%85%E5%BF%83%E5%AE%A3%E5%B8%83%E6%87%B7%E7%AC%AC%E4%BA%8C%E8%83%8E-%E6%87%B7%E5%AD%95%E5%88%9D%E6%9C%9F%E4%B8%8B%E9%AB%94%E6%8C%81%E7%BA%8C%E5%87%BA%E8%A1%80%E7%95%AB%E9%9D%A2%E9%A9%9A%E5%9A%87",
+    "timestamp": "2026-03-27T15:38:42.337Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "醫啲阿媽都唔知丨鄒重璂解構高血壓　陸永自爆曾被母親打爆電話",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260327/1114054470100062208862547.jpeg/e-bLqQwXcLjo2_XN3KvKyKwrVUdsWJYfcObDbXDmw20?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60334673/%E8%B2%9D%E6%A3%AE%E7%89%B9-%E4%BC%8A%E6%9C%97%E8%A1%9D%E7%AA%81%E7%B5%90%E6%9D%9F%E5%B0%87%E4%BD%BF%E8%83%BD%E6%BA%90%E5%83%B9%E6%A0%BC%E8%B7%8C%E8%87%B3%E6%88%B0%E5%89%8D%E6%B0%B4%E5%B9%B3%E4%BB%A5%E4%B8%8B",
     "timestamp": "2026-03-26T21:59:29.081Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "貝森特：伊朗衝突結束將使能源價格跌至戰前水平以下",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260327/1114054470100062208862547.jpeg/e-bLqQwXcLjo2_XN3KvKyKwrVUdsWJYfcObDbXDmw20?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60334673/%E8%B2%9D%E6%A3%AE%E7%89%B9-%E4%BC%8A%E6%9C%97%E8%A1%9D%E7%AA%81%E7%B5%90%E6%9D%9F%E5%B0%87%E4%BD%BF%E8%83%BD%E6%BA%90%E5%83%B9%E6%A0%BC%E8%B7%8C%E8%87%B3%E6%88%B0%E5%89%8D%E6%B0%B4%E5%B9%B3%E4%BB%A5%E4%B8%8B",
-    "timestamp": "2026-03-26T21:36:34.920Z",
     "strategy": ".content-card__main"
   }
 ];
