@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-26T23:52:21.027Z
+// Last updated: 2026-03-27T00:49:52.862Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "BABYMONSTER快閃香港活動　同場泰星Win自認是Fans爆最愛成員",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260326/1113972839410569216830751.jpeg/EsP8Q-h7dcpI40y5D46QNFF_pFRZcBhVH7UHOh-1Bzo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60334649/babymonster%E5%BF%AB%E9%96%83%E9%A6%99%E6%B8%AF%E6%B4%BB%E5%8B%95-%E5%90%8C%E5%A0%B4%E6%B3%B0%E6%98%9Fwin%E8%87%AA%E8%AA%8D%E6%98%AFfans%E7%88%86%E6%9C%80%E6%84%9B%E6%88%90%E5%93%A1",
+    "timestamp": "2026-03-27T00:49:52.862Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "王文濤晤美國貿易代表　對美方301調查等表達嚴正關切",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260326/1113878070789410816047195.jpeg/N3Jz0MxoRkNHW1yPhXQ7Gh3GFuwAa80FTVhqe01Yans?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60334506/6%E5%90%8D%E4%B8%AD%E5%9C%8B%E9%81%8A%E5%AE%A2%E5%86%92%E9%9A%AA%E6%8C%91%E6%88%B0%E5%8C%97%E6%B5%B7%E9%81%93-%E9%87%8E%E9%9B%AA%E5%8D%80-%E6%BB%91%E9%9B%AA4%E4%BA%BA%E5%8F%97%E5%9B%B0-%E6%95%91%E6%8F%B4%E9%9A%8A%E5%87%BA%E5%8B%95%E7%87%9F%E6%95%91",
     "timestamp": "2026-03-26T09:14:23.526Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "海豚研究｜快手暴跌——向死而生？",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260326/1113870026047229952714026.jpeg/EAeBHysRpqt9wbEUkxiB5Qbh-SGplx1xy1euT8tXrk8?v=w1920r16_9",
-    "url": "https://www.hk01.com/01%E5%B0%88%E6%AC%84/60334531/%E6%B5%B7%E8%B1%9A%E7%A0%94%E7%A9%B6-%E5%BF%AB%E6%89%8B%E6%9A%B4%E8%B7%8C-%E5%90%91%E6%AD%BB%E8%80%8C%E7%94%9F",
-    "timestamp": "2026-03-26T08:37:59.342Z",
     "strategy": ".content-card__main"
   }
 ];
