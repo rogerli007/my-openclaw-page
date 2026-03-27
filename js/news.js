@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-27T06:08:38.797Z
+// Last updated: 2026-03-27T07:18:45.631Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "天文台：珠江口以西雷雨區逐漸靠近　料未來一兩小時影響本港",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260327/1114217050567348224280147.jpeg/jKC3xIBUwgoTC6XG9HbmHGGFBrD55Td6ieSP3Inkj9w?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60334861/%E5%A4%A9%E6%96%87%E5%8F%B0-%E7%8F%A0%E6%B1%9F%E5%8F%A3%E4%BB%A5%E8%A5%BF%E9%9B%B7%E9%9B%A8%E5%8D%80%E9%80%90%E6%BC%B8%E9%9D%A0%E8%BF%91-%E6%96%99%E6%9C%AA%E4%BE%86%E4%B8%80%E5%85%A9%E5%B0%8F%E6%99%82%E5%BD%B1%E9%9F%BF%E6%9C%AC%E6%B8%AF",
+    "timestamp": "2026-03-27T07:18:45.631Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "詞元第一股迅策飆24%　港股升208點重上25000點關｜港股異動",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260326/1113882777129848832391257.png/XX9TU6Jq0YO1YVjuresfnB1X7gnOXHggqkRCUqpEQlI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60334323/%E6%97%A5%E9%99%AA%E9%85%92%E5%A5%B3%E5%81%95%E7%89%9B%E9%83%8E%E7%94%B7%E5%8F%8B%E9%81%8B%E6%AF%92%E5%85%A5%E5%A2%83%E5%BB%A3%E5%B7%9E%E8%A2%AB%E6%8D%95-%E7%B6%B2%E9%BD%8A%E6%92%90%E6%AD%BB%E5%88%91-%E4%B8%80%E4%BA%BA%E5%B7%B2%E8%A2%AB%E4%BF%9D%E9%87%8B",
     "timestamp": "2026-03-26T14:43:41.862Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "楊家誠被指曾任擔保人被追欠款　官裁定楊需還2.34億元",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/2182324/org/590646e204ef5e1a2bd685bbd7dde066.jpg/3jW6CFchWIz4MFIK2yNqz1cc3DrDn2RdZUFb22VBW9s?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60334632/%E6%A5%8A%E5%AE%B6%E8%AA%A0%E8%A2%AB%E6%8C%87%E6%9B%BE%E4%BB%BB%E6%93%94%E4%BF%9D%E4%BA%BA%E8%A2%AB%E8%BF%BD%E6%AC%A0%E6%AC%BE-%E5%AE%98%E8%A3%81%E5%AE%9A%E6%A5%8A%E9%9C%80%E9%82%842-34%E5%84%84%E5%85%83",
-    "timestamp": "2026-03-26T13:16:16.329Z",
     "strategy": ".content-card__main"
   }
 ];
