@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-27T16:09:41.797Z
+// Last updated: 2026-03-27T17:44:41.382Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "警荃灣大河道掃黃　拘5女子涉管理賣淫場所、違反逗留條件等罪",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260328/1114357386811805696620189.jpeg/t_tqWFhoegQ2Z5Mcf1P_TJKYYSEFx22ZiiqBiYoqgYk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60335042/%E8%AD%A6%E8%8D%83%E7%81%A3%E5%A4%A7%E6%B2%B3%E9%81%93%E6%8E%83%E9%BB%83-%E6%8B%985%E5%A5%B3%E5%AD%90%E6%B6%89%E7%AE%A1%E7%90%86%E8%B3%A3%E6%B7%AB%E5%A0%B4%E6%89%80-%E9%81%95%E5%8F%8D%E9%80%97%E7%95%99%E6%A2%9D%E4%BB%B6%E7%AD%89%E7%BD%AA",
+    "timestamp": "2026-03-27T17:44:41.382Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "Xiaomi Pad 8 Pro深度評測｜高性能平板配3.2K護眼屏娛樂工作雙修",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260327/1114085050166546432805293.jpeg/DYxj0yAbAE9xebQfVnapidLyw_K7J8vbxJ-E9cSfhPU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60334676/%E7%BE%8E%E9%88%94%E5%B0%87%E5%8D%B0%E7%89%B9%E6%9C%97%E6%99%AE%E7%B0%BD%E5%90%8D%E7%BA%AA%E5%BF%B5%E5%BB%BA%E5%9C%8B250%E5%91%A8%E5%B9%B4-%E5%89%B5%E6%AD%B7%E4%BB%BB%E7%B8%BD%E7%B5%B1%E9%A6%96%E4%BE%8B",
     "timestamp": "2026-03-26T22:52:21.577Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "世界盃附加賽｜意大利首關２：０勝北愛爾蘭",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260327/1114080250418958336215370.jpeg/pW5XA8j1OpOVFS6Ax9sDAYhbWYA8MkVwxIObTsSDm04?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60334675/%E4%B8%96%E7%95%8C%E7%9B%83%E9%99%84%E5%8A%A0%E8%B3%BD-%E6%84%8F%E5%A4%A7%E5%88%A9%E9%A6%96%E9%97%9C%EF%BC%92-%EF%BC%90%E5%8B%9D%E5%8C%97%E6%84%9B%E7%88%BE%E8%98%AD",
-    "timestamp": "2026-03-26T22:17:08.910Z",
     "strategy": ".content-card__main"
   }
 ];
