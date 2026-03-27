@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-27T04:44:30.804Z
+// Last updated: 2026-03-27T06:08:38.797Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "詞元第一股迅策飆24%　港股升208點重上25000點關｜港股異動",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/20200323/318722061998624768.jpeg/LSfRNWrV7lVrcAnLBmgdDgCdfjcl0oWG6YW82emFvNk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60334834/%E8%A9%9E%E5%85%83%E7%AC%AC%E4%B8%80%E8%82%A1%E8%BF%85%E7%AD%96%E9%A3%8624-%E6%B8%AF%E8%82%A1%E5%8D%87208%E9%BB%9E%E9%87%8D%E4%B8%8A25000%E9%BB%9E%E9%97%9C-%E6%B8%AF%E8%82%A1%E7%95%B0%E5%8B%95",
+    "timestamp": "2026-03-27T06:08:38.797Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "考公務員｜新一輪綜合招聘考試明日起接受報名　一文看清報考資訊",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/2182324/org/590646e204ef5e1a2bd685bbd7dde066.jpg/3jW6CFchWIz4MFIK2yNqz1cc3DrDn2RdZUFb22VBW9s?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60334632/%E6%A5%8A%E5%AE%B6%E8%AA%A0%E8%A2%AB%E6%8C%87%E6%9B%BE%E4%BB%BB%E6%93%94%E4%BF%9D%E4%BA%BA%E8%A2%AB%E8%BF%BD%E6%AC%A0%E6%AC%BE-%E5%AE%98%E8%A3%81%E5%AE%9A%E6%A5%8A%E9%9C%80%E9%82%842-34%E5%84%84%E5%85%83",
     "timestamp": "2026-03-26T13:16:16.329Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "中日關係緊張｜日本馬拉松名將大迫傑低調現身上海參加商業活動",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260326/1113879946092089344467823.jpeg/cBwsoJoLUiuHMzyq8z6jrAGsGwQNTvMe1PR_bNT0f2w?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60334535/%E4%B8%AD%E6%97%A5%E9%97%9C%E4%BF%82%E7%B7%8A%E5%BC%B5-%E6%97%A5%E6%9C%AC%E9%A6%AC%E6%8B%89%E6%9D%BE%E5%90%8D%E5%B0%87%E5%A4%A7%E8%BF%AB%E5%82%91%E4%BD%8E%E8%AA%BF%E7%8F%BE%E8%BA%AB%E4%B8%8A%E6%B5%B7%E5%8F%83%E5%8A%A0%E5%95%86%E6%A5%AD%E6%B4%BB%E5%8B%95",
-    "timestamp": "2026-03-26T10:39:24.193Z",
     "strategy": ".content-card__main"
   }
 ];
