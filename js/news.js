@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-27T22:17:51.533Z
+// Last updated: 2026-03-27T23:48:50.416Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "特朗普出席投資倡議峰會：伊朗懇求達成協議　古巴將是下一目標",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260328/1114458418204119040463790.jpeg/2CYH4lMZWUjugAgoVr_t3C5oWAWgdUEgRQFreUUBa3k?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60335053/%E7%89%B9%E6%9C%97%E6%99%AE%E5%87%BA%E5%B8%AD%E6%8A%95%E8%B3%87%E5%80%A1%E8%AD%B0%E5%B3%B0%E6%9C%83-%E4%BC%8A%E6%9C%97%E6%87%87%E6%B1%82%E9%81%94%E6%88%90%E5%8D%94%E8%AD%B0-%E5%8F%A4%E5%B7%B4%E5%B0%87%E6%98%AF%E4%B8%8B%E4%B8%80%E7%9B%AE%E6%A8%99",
+    "timestamp": "2026-03-27T23:48:50.416Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "高爾夫球名將老虎活士於佛州發生翻車事故　後因涉嫌酒駕被捕",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260327/1114171490477019136906751.jpeg/cjtGOhYoRc7CoSuRu2t3JTkGHBG4_SEM32nDtd9pw7U?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60334748/%E6%B4%9B%E6%9D%89%E7%A3%AF%E5%A5%A7%E9%81%8B-%E5%9C%8B%E9%9A%9B%E5%A5%A7%E5%A7%94%E6%9C%83%E8%90%BD%E5%AF%A6%E6%96%B0%E8%A6%8F-%E5%A5%B3%E6%80%A7%E9%A0%85%E7%9B%AE%E5%8F%AA%E9%99%90-%E7%94%9F%E7%90%86%E5%A5%B3%E6%80%A7-%E5%8F%83%E8%B3%BD",
     "timestamp": "2026-03-27T07:49:02.513Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "天文台：珠江口以西雷雨區逐漸靠近　料未來一兩小時影響本港",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260327/1114217050567348224280147.jpeg/jKC3xIBUwgoTC6XG9HbmHGGFBrD55Td6ieSP3Inkj9w?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60334861/%E5%A4%A9%E6%96%87%E5%8F%B0-%E7%8F%A0%E6%B1%9F%E5%8F%A3%E4%BB%A5%E8%A5%BF%E9%9B%B7%E9%9B%A8%E5%8D%80%E9%80%90%E6%BC%B8%E9%9D%A0%E8%BF%91-%E6%96%99%E6%9C%AA%E4%BE%86%E4%B8%80%E5%85%A9%E5%B0%8F%E6%99%82%E5%BD%B1%E9%9F%BF%E6%9C%AC%E6%B8%AF",
-    "timestamp": "2026-03-27T07:18:45.631Z",
     "strategy": ".content-card__main"
   }
 ];
