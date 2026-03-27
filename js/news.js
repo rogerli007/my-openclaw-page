@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-27T03:41:01.959Z
+// Last updated: 2026-03-27T04:44:30.804Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "考公務員｜新一輪綜合招聘考試明日起接受報名　一文看清報考資訊",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/240787/org/9a3e343a08ff22caa63913029b37459f.jpg/0dA7VsMkyowTodoseMoekvTw9ZIjf22T4lUA-uJVAPo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60334777/%E8%80%83%E5%85%AC%E5%8B%99%E5%93%A1-%E6%96%B0%E4%B8%80%E8%BC%AA%E7%B6%9C%E5%90%88%E6%8B%9B%E8%81%98%E8%80%83%E8%A9%A6%E6%98%8E%E6%97%A5%E8%B5%B7%E6%8E%A5%E5%8F%97%E5%A0%B1%E5%90%8D-%E4%B8%80%E6%96%87%E7%9C%8B%E6%B8%85%E5%A0%B1%E8%80%83%E8%B3%87%E8%A8%8A",
+    "timestamp": "2026-03-27T04:44:30.804Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "大灣區跨境直通救護車雙向轉運實施　港病人可直運深、珠、澳醫院",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260326/1113879946092089344467823.jpeg/cBwsoJoLUiuHMzyq8z6jrAGsGwQNTvMe1PR_bNT0f2w?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60334535/%E4%B8%AD%E6%97%A5%E9%97%9C%E4%BF%82%E7%B7%8A%E5%BC%B5-%E6%97%A5%E6%9C%AC%E9%A6%AC%E6%8B%89%E6%9D%BE%E5%90%8D%E5%B0%87%E5%A4%A7%E8%BF%AB%E5%82%91%E4%BD%8E%E8%AA%BF%E7%8F%BE%E8%BA%AB%E4%B8%8A%E6%B5%B7%E5%8F%83%E5%8A%A0%E5%95%86%E6%A5%AD%E6%B4%BB%E5%8B%95",
     "timestamp": "2026-03-26T10:39:24.193Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "伊朗封霍爾木茲海峽引爆「最嚴竣能源危機」　為何亞洲「死先」？",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260326/1113887886144442368921873.jpeg/kyQEipEezyHt5E8ziGUpnpsFfe-THS8IqlqBfKpagXw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%9C%8B%E9%9A%9B%E5%88%86%E6%9E%90/60334521/%E4%BC%8A%E6%9C%97%E5%B0%81%E9%9C%8D%E7%88%BE%E6%9C%A8%E8%8C%B2%E6%B5%B7%E5%B3%BD%E5%BC%95%E7%88%86-%E6%9C%80%E5%9A%B4%E7%AB%A3%E8%83%BD%E6%BA%90%E5%8D%B1%E6%A9%9F-%E7%82%BA%E4%BD%95%E4%BA%9E%E6%B4%B2-%E6%AD%BB%E5%85%88",
-    "timestamp": "2026-03-26T09:43:46.452Z",
     "strategy": ".content-card__main"
   }
 ];
