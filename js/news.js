@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-27T17:44:41.382Z
+// Last updated: 2026-03-27T19:36:47.442Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "俄羅斯擬4月1日起禁止出口汽油　以應對燃料價格上漲",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20230207/699661088559468544285490.jpeg/OQTFzxbhIuEq3xC5bbn8ZrOstRP3_Aqu2nmn19p5p9c?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60335047/%E4%BF%84%E7%BE%85%E6%96%AF%E6%93%AC4%E6%9C%881%E6%97%A5%E8%B5%B7%E7%A6%81%E6%AD%A2%E5%87%BA%E5%8F%A3%E6%B1%BD%E6%B2%B9-%E4%BB%A5%E6%87%89%E5%B0%8D%E7%87%83%E6%96%99%E5%83%B9%E6%A0%BC%E4%B8%8A%E6%BC%B2",
+    "timestamp": "2026-03-27T19:36:47.442Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "警荃灣大河道掃黃　拘5女子涉管理賣淫場所、違反逗留條件等罪",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260327/1114098830342623232924570.jpeg/xMDOOtCvEPenrE69-_FjXLOOJKrGLNxSq5Ol26uTpds?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60334678/%E7%8E%8B%E6%96%87%E6%BF%A4%E6%99%A4%E7%BE%8E%E5%9C%8B%E8%B2%BF%E6%98%93%E4%BB%A3%E8%A1%A8-%E5%B0%8D%E7%BE%8E%E6%96%B9301%E8%AA%BF%E6%9F%A5%E7%AD%89%E8%A1%A8%E9%81%94%E5%9A%B4%E6%AD%A3%E9%97%9C%E5%88%87",
     "timestamp": "2026-03-26T23:52:21.027Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美鈔將印特朗普簽名纪念建國250周年　創歷任總統首例",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260327/1114085050166546432805293.jpeg/DYxj0yAbAE9xebQfVnapidLyw_K7J8vbxJ-E9cSfhPU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60334676/%E7%BE%8E%E9%88%94%E5%B0%87%E5%8D%B0%E7%89%B9%E6%9C%97%E6%99%AE%E7%B0%BD%E5%90%8D%E7%BA%AA%E5%BF%B5%E5%BB%BA%E5%9C%8B250%E5%91%A8%E5%B9%B4-%E5%89%B5%E6%AD%B7%E4%BB%BB%E7%B8%BD%E7%B5%B1%E9%A6%96%E4%BE%8B",
-    "timestamp": "2026-03-26T22:52:21.577Z",
     "strategy": ".content-card__main"
   }
 ];
