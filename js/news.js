@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-27T08:11:48.460Z
+// Last updated: 2026-03-27T09:11:07.126Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "飲水通便｜晨起1杯水提神排便　營養師：水量是關鍵　2類人要限水",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260327/1114235388530003968482165.jpeg/Lu5QQi50SGtMxe3-I14QFdOo_L-iBY1ubxbu228W7ts?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60328640/%E9%A3%B2%E6%B0%B4%E9%80%9A%E4%BE%BF-%E6%99%A8%E8%B5%B71%E6%9D%AF%E6%B0%B4%E6%8F%90%E7%A5%9E%E6%8E%92%E4%BE%BF-%E7%87%9F%E9%A4%8A%E5%B8%AB-%E6%B0%B4%E9%87%8F%E6%98%AF%E9%97%9C%E9%8D%B5-2%E9%A1%9E%E4%BA%BA%E8%A6%81%E9%99%90%E6%B0%B4",
+    "timestamp": "2026-03-27T09:11:07.126Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "減肥｜不吃早餐瘦更快？營養師揭8大誤區：這時間吃第一餐減脂快",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260327/1114004577901875200839547.jpeg/-rYCWf6ToWkukRDX9XjW7upPQ7CRCOlp-ge_cvoHv3I?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60334661/%E9%A6%99%E6%B8%AF%E9%9B%B6%E5%94%AE%E7%AE%A1%E7%90%86%E5%8D%94%E6%9C%83%E5%AD%B8%E5%B1%A4%E5%85%A8%E5%9C%8B%E5%85%A9%E6%9C%83%E7%B2%BE%E7%A5%9E-%E6%8A%8A%E6%8F%A1-%E5%8D%81%E4%BA%94%E4%BA%94-%E7%99%BC%E5%B1%95%E6%A9%9F%E9%81%87",
     "timestamp": "2026-03-26T17:42:28.420Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "魔音女團｜喬美莎被導師點名要減肥　安排每日食一餐：要我減10Kg",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260326/1113953064445808640342978.jpeg/yyZKioyNCrLLaE0hujXymNgznjRl98SnzhB64PQQeuA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60334637/%E9%AD%94%E9%9F%B3%E5%A5%B3%E5%9C%98-%E5%96%AC%E7%BE%8E%E8%8E%8E%E8%A2%AB%E5%B0%8E%E5%B8%AB%E9%BB%9E%E5%90%8D%E8%A6%81%E6%B8%9B%E8%82%A5-%E5%AE%89%E6%8E%92%E6%AF%8F%E6%97%A5%E9%A3%9F%E4%B8%80%E9%A4%90-%E8%A6%81%E6%88%91%E6%B8%9B10kg",
-    "timestamp": "2026-03-26T16:41:34.628Z",
     "strategy": ".content-card__main"
   }
 ];
