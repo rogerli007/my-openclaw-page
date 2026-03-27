@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-27T07:49:02.513Z
+// Last updated: 2026-03-27T08:11:48.460Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "減肥｜不吃早餐瘦更快？營養師揭8大誤區：這時間吃第一餐減脂快",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260317/1110624808300711936829746.png/-dgM6vbgH7nNcffnP0h5j_Yy3CJmf_Vixj0R8bw9EfE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60331385/%E6%B8%9B%E8%82%A5-%E4%B8%8D%E5%90%83%E6%97%A9%E9%A4%90%E7%98%A6%E6%9B%B4%E5%BF%AB-%E7%87%9F%E9%A4%8A%E5%B8%AB%E6%8F%AD8%E5%A4%A7%E8%AA%A4%E5%8D%80-%E9%80%99%E6%99%82%E9%96%93%E5%90%83%E7%AC%AC%E4%B8%80%E9%A4%90%E6%B8%9B%E8%84%82%E5%BF%AB",
+    "timestamp": "2026-03-27T08:11:48.460Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "洛杉磯奧運｜國際奧委會落實新規　女性項目只限「生理女性」參賽",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260326/1113953064445808640342978.jpeg/yyZKioyNCrLLaE0hujXymNgznjRl98SnzhB64PQQeuA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60334637/%E9%AD%94%E9%9F%B3%E5%A5%B3%E5%9C%98-%E5%96%AC%E7%BE%8E%E8%8E%8E%E8%A2%AB%E5%B0%8E%E5%B8%AB%E9%BB%9E%E5%90%8D%E8%A6%81%E6%B8%9B%E8%82%A5-%E5%AE%89%E6%8E%92%E6%AF%8F%E6%97%A5%E9%A3%9F%E4%B8%80%E9%A4%90-%E8%A6%81%E6%88%91%E6%B8%9B10kg",
     "timestamp": "2026-03-26T16:41:34.628Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "陳凱琳為《浪姐7》炒人氣搏到盡　一日連拍四條片捉實小花造勢",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260326/1113881067258908672764305.jpeg/ubn0No6wInkEu07pPGBf8UnONMNPrfLSavwsEGr8LBA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60334541/%E9%99%B3%E5%87%B1%E7%90%B3%E7%82%BA-%E6%B5%AA%E5%A7%907-%E7%82%92%E4%BA%BA%E6%B0%A3%E6%90%8F%E5%88%B0%E7%9B%A1-%E4%B8%80%E6%97%A5%E9%80%A3%E6%8B%8D%E5%9B%9B%E6%A2%9D%E7%89%87%E6%8D%89%E5%AF%A6%E5%B0%8F%E8%8A%B1%E9%80%A0%E5%8B%A2",
-    "timestamp": "2026-03-26T15:15:24.238Z",
     "strategy": ".content-card__main"
   }
 ];
