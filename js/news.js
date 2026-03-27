@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-27T11:10:12.431Z
+// Last updated: 2026-03-27T11:36:17.607Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "最多農藥蔬果2026｜菠菜第1 士多啤梨被2菜踢走！6菜最毒+清洗4招",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260327/1114282177471713280491680.png/ZXVwhGhAzvOA9AGiNGtIZFZrISGvMCnIH3Y0kh92NJI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60334857/%E6%9C%80%E5%A4%9A%E8%BE%B2%E8%97%A5%E8%94%AC%E6%9E%9C2026-%E8%8F%A0%E8%8F%9C%E7%AC%AC1-%E5%A3%AB%E5%A4%9A%E5%95%A4%E6%A2%A8%E8%A2%AB2%E8%8F%9C%E8%B8%A2%E8%B5%B0-6%E8%8F%9C%E6%9C%80%E6%AF%92-%E6%B8%85%E6%B4%974%E6%8B%9B",
+    "timestamp": "2026-03-27T11:36:17.607Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "舊公屋優點多！獲派40年元朗舊邨宜親身視察　環境幾靚仔：勿秒拒",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260325/1113320383806705664528946.jpeg/CS2uD68LI3SNqGzeLDI-9vYwAo1YQ_CONE_GdTRPxnU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60334669/%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%E8%A6%81%E6%B1%82%E4%B8%89%E5%A4%A7%E5%AD%B8%E9%86%AB%E5%AD%B8%E9%99%A2%E6%8F%90%E4%BE%9B%E7%94%B3%E8%AB%8B%E8%80%85%E4%BF%A1%E6%81%AF-%E6%8B%92%E9%85%8D%E5%90%88%E5%B0%87%E9%81%AD%E4%B8%AD%E6%96%B7%E6%92%A5%E6%AC%BE",
     "timestamp": "2026-03-26T20:23:25.600Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普政府要求三大學醫學院提供申請者信息　拒配合將遭中斷撥款",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260325/1113320383806705664528946.jpeg/CS2uD68LI3SNqGzeLDI-9vYwAo1YQ_CONE_GdTRPxnU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60334669/%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%E8%A6%81%E6%B1%82%E4%B8%89%E5%A4%A7%E5%AD%B8%E9%86%AB%E5%AD%B8%E9%99%A2%E6%8F%90%E4%BE%9B%E7%94%B3%E8%AB%8B%E8%80%85%E4%BF%A1%E6%81%AF-%E6%8B%92%E9%85%8D%E5%90%88%E5%B0%87%E9%81%AD%E4%B8%AD%E6%96%B7%E6%92%A5%E6%AC%BE",
-    "timestamp": "2026-03-26T20:04:01.716Z",
     "strategy": ".content-card__main"
   }
 ];
