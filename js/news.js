@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-27T15:38:42.337Z
+// Last updated: 2026-03-27T16:09:41.797Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "Xiaomi Pad 8 Pro深度評測｜高性能平板配3.2K護眼屏娛樂工作雙修",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260327/1114273002595291136417035.jpeg/2R6-FDrPXX5ITvjfiHbGY3Gpj8LrVtvQxg4MLMYODCw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60334272/xiaomi-pad-8-pro%E6%B7%B1%E5%BA%A6%E8%A9%95%E6%B8%AC-%E9%AB%98%E6%80%A7%E8%83%BD%E5%B9%B3%E6%9D%BF%E9%85%8D3-2k%E8%AD%B7%E7%9C%BC%E5%B1%8F%E5%A8%9B%E6%A8%82%E5%B7%A5%E4%BD%9C%E9%9B%99%E4%BF%AE",
+    "timestamp": "2026-03-27T16:09:41.797Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "落選港姐李清心宣布懷第二胎　懷孕初期下體持續出血畫面驚嚇",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260327/1114080250418958336215370.jpeg/pW5XA8j1OpOVFS6Ax9sDAYhbWYA8MkVwxIObTsSDm04?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60334675/%E4%B8%96%E7%95%8C%E7%9B%83%E9%99%84%E5%8A%A0%E8%B3%BD-%E6%84%8F%E5%A4%A7%E5%88%A9%E9%A6%96%E9%97%9C%EF%BC%92-%EF%BC%90%E5%8B%9D%E5%8C%97%E6%84%9B%E7%88%BE%E8%98%AD",
     "timestamp": "2026-03-26T22:17:08.910Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "貝森特：伊朗衝突結束將使能源價格跌至戰前水平以下",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260327/1114054470100062208862547.jpeg/e-bLqQwXcLjo2_XN3KvKyKwrVUdsWJYfcObDbXDmw20?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60334673/%E8%B2%9D%E6%A3%AE%E7%89%B9-%E4%BC%8A%E6%9C%97%E8%A1%9D%E7%AA%81%E7%B5%90%E6%9D%9F%E5%B0%87%E4%BD%BF%E8%83%BD%E6%BA%90%E5%83%B9%E6%A0%BC%E8%B7%8C%E8%87%B3%E6%88%B0%E5%89%8D%E6%B0%B4%E5%B9%B3%E4%BB%A5%E4%B8%8B",
-    "timestamp": "2026-03-26T21:59:29.081Z",
     "strategy": ".content-card__main"
   }
 ];
