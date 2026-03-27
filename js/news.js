@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-27T10:37:40.245Z
+// Last updated: 2026-03-27T11:10:12.431Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "舊公屋優點多！獲派40年元朗舊邨宜親身視察　環境幾靚仔：勿秒拒",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260327/1114246227274240000165048.jpeg/rNXbHF7I-Se-C3V5IjkVjpnqN7ADlmQaDnFhBA5xYQQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60334743/%E5%85%AC%E5%B1%8B%E8%BC%AA%E5%80%99-%E7%8D%B2%E6%B4%BE-40-%E5%B9%B4%E6%9C%97%E5%B1%8F%E9%82%A8%E6%87%89%E5%90%A6%E6%8E%A5%E5%8F%97-%E7%B6%B2%E6%B0%91%E5%88%86%E4%BA%AB-3-%E5%A4%A7%E5%84%AA%E5%8B%A2%E5%8B%9D%E6%96%B0%E6%A8%93",
+    "timestamp": "2026-03-27T11:10:12.431Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "港人下載Gemini驚見朱咪咪！山寨App靠改名取巧上位下載榜排名第4",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260325/1113320383806705664528946.jpeg/CS2uD68LI3SNqGzeLDI-9vYwAo1YQ_CONE_GdTRPxnU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60334669/%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%E8%A6%81%E6%B1%82%E4%B8%89%E5%A4%A7%E5%AD%B8%E9%86%AB%E5%AD%B8%E9%99%A2%E6%8F%90%E4%BE%9B%E7%94%B3%E8%AB%8B%E8%80%85%E4%BF%A1%E6%81%AF-%E6%8B%92%E9%85%8D%E5%90%88%E5%B0%87%E9%81%AD%E4%B8%AD%E6%96%B7%E6%92%A5%E6%AC%BE",
     "timestamp": "2026-03-26T20:04:01.716Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "馬杜羅二次出庭受審　法官稱不會因訴訟費支付問題撤銷其販毒指控",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260327/1114021517080924160634789.jpeg/w6238WW_KA-PfWuKObuYOod7GDXMj6bz2-3P99vtz_c?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60334664/%E9%A6%AC%E6%9D%9C%E7%BE%85%E4%BA%8C%E6%AC%A1%E5%87%BA%E5%BA%AD%E5%8F%97%E5%AF%A9-%E6%B3%95%E5%AE%98%E7%A8%B1%E4%B8%8D%E6%9C%83%E5%9B%A0%E8%A8%B4%E8%A8%9F%E8%B2%BB%E6%94%AF%E4%BB%98%E5%95%8F%E9%A1%8C%E6%92%A4%E9%8A%B7%E5%85%B6%E8%B2%A9%E6%AF%92%E6%8C%87%E6%8E%A7",
-    "timestamp": "2026-03-26T18:41:54.994Z",
     "strategy": ".content-card__main"
   }
 ];
