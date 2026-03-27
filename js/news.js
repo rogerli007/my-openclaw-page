@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-27T21:20:32.252Z
+// Last updated: 2026-03-27T21:51:34.037Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "伊朗官員稱無法容忍美國「邊打邊談」　尚未決定是否回應停戰方案",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260327/1114031817687568384750294.jpeg/4C9e2z1n5wl02yLcw153Jh6iH0WIsXIlJtqsQCbarEA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60335051/%E4%BC%8A%E6%9C%97%E5%AE%98%E5%93%A1%E7%A8%B1%E7%84%A1%E6%B3%95%E5%AE%B9%E5%BF%8D%E7%BE%8E%E5%9C%8B-%E9%82%8A%E6%89%93%E9%82%8A%E8%AB%87-%E5%B0%9A%E6%9C%AA%E6%B1%BA%E5%AE%9A%E6%98%AF%E5%90%A6%E5%9B%9E%E6%87%89%E5%81%9C%E6%88%B0%E6%96%B9%E6%A1%88",
+    "timestamp": "2026-03-27T21:51:34.037Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美國土安全部稱機場員工最快下周一出糧　安檢人手缺勤率已創新高",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/20200323/318722061998624768.jpeg/LSfRNWrV7lVrcAnLBmgdDgCdfjcl0oWG6YW82emFvNk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60334834/%E8%A9%9E%E5%85%83%E7%AC%AC%E4%B8%80%E8%82%A1%E8%BF%85%E7%AD%96%E9%A3%8624-%E6%B8%AF%E8%82%A1%E5%8D%87208%E9%BB%9E%E9%87%8D%E4%B8%8A25000%E9%BB%9E%E9%97%9C-%E6%B8%AF%E8%82%A1%E7%95%B0%E5%8B%95",
     "timestamp": "2026-03-27T06:08:38.797Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "考公務員｜新一輪綜合招聘考試明日起接受報名　一文看清報考資訊",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/240787/org/9a3e343a08ff22caa63913029b37459f.jpg/0dA7VsMkyowTodoseMoekvTw9ZIjf22T4lUA-uJVAPo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60334777/%E8%80%83%E5%85%AC%E5%8B%99%E5%93%A1-%E6%96%B0%E4%B8%80%E8%BC%AA%E7%B6%9C%E5%90%88%E6%8B%9B%E8%81%98%E8%80%83%E8%A9%A6%E6%98%8E%E6%97%A5%E8%B5%B7%E6%8E%A5%E5%8F%97%E5%A0%B1%E5%90%8D-%E4%B8%80%E6%96%87%E7%9C%8B%E6%B8%85%E5%A0%B1%E8%80%83%E8%B3%87%E8%A8%8A",
-    "timestamp": "2026-03-27T04:44:30.804Z",
     "strategy": ".content-card__main"
   }
 ];
