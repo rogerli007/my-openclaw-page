@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-27T07:18:45.631Z
+// Last updated: 2026-03-27T07:49:02.513Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "洛杉磯奧運｜國際奧委會落實新規　女性項目只限「生理女性」參賽",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260327/1114171490477019136906751.jpeg/cjtGOhYoRc7CoSuRu2t3JTkGHBG4_SEM32nDtd9pw7U?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60334748/%E6%B4%9B%E6%9D%89%E7%A3%AF%E5%A5%A7%E9%81%8B-%E5%9C%8B%E9%9A%9B%E5%A5%A7%E5%A7%94%E6%9C%83%E8%90%BD%E5%AF%A6%E6%96%B0%E8%A6%8F-%E5%A5%B3%E6%80%A7%E9%A0%85%E7%9B%AE%E5%8F%AA%E9%99%90-%E7%94%9F%E7%90%86%E5%A5%B3%E6%80%A7-%E5%8F%83%E8%B3%BD",
+    "timestamp": "2026-03-27T07:49:02.513Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "天文台：珠江口以西雷雨區逐漸靠近　料未來一兩小時影響本港",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260326/1113881067258908672764305.jpeg/ubn0No6wInkEu07pPGBf8UnONMNPrfLSavwsEGr8LBA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60334541/%E9%99%B3%E5%87%B1%E7%90%B3%E7%82%BA-%E6%B5%AA%E5%A7%907-%E7%82%92%E4%BA%BA%E6%B0%A3%E6%90%8F%E5%88%B0%E7%9B%A1-%E4%B8%80%E6%97%A5%E9%80%A3%E6%8B%8D%E5%9B%9B%E6%A2%9D%E7%89%87%E6%8D%89%E5%AF%A6%E5%B0%8F%E8%8A%B1%E9%80%A0%E5%8B%A2",
     "timestamp": "2026-03-26T15:15:24.238Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "日陪酒女偕牛郎男友運毒入境廣州被捕　網齊撐死刑　一人已被保釋",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260326/1113882777129848832391257.png/XX9TU6Jq0YO1YVjuresfnB1X7gnOXHggqkRCUqpEQlI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60334323/%E6%97%A5%E9%99%AA%E9%85%92%E5%A5%B3%E5%81%95%E7%89%9B%E9%83%8E%E7%94%B7%E5%8F%8B%E9%81%8B%E6%AF%92%E5%85%A5%E5%A2%83%E5%BB%A3%E5%B7%9E%E8%A2%AB%E6%8D%95-%E7%B6%B2%E9%BD%8A%E6%92%90%E6%AD%BB%E5%88%91-%E4%B8%80%E4%BA%BA%E5%B7%B2%E8%A2%AB%E4%BF%9D%E9%87%8B",
-    "timestamp": "2026-03-26T14:43:41.862Z",
     "strategy": ".content-card__main"
   }
 ];
