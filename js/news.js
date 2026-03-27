@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-27T21:51:34.037Z
+// Last updated: 2026-03-27T22:17:51.533Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "高爾夫球名將老虎活士於佛州發生翻車事故　後因涉嫌酒駕被捕",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260328/1114438072235200512408297.jpeg/S2KUCZ4sE9sYHdtd4nD3uUBwtcQaZr-DwMS5vcDEub0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60335052/%E9%AB%98%E7%88%BE%E5%A4%AB%E7%90%83%E5%90%8D%E5%B0%87%E8%80%81%E8%99%8E%E6%B4%BB%E5%A3%AB%E6%96%BC%E4%BD%9B%E5%B7%9E%E7%99%BC%E7%94%9F%E7%BF%BB%E8%BB%8A%E4%BA%8B%E6%95%85-%E5%BE%8C%E5%9B%A0%E6%B6%89%E5%AB%8C%E9%85%92%E9%A7%95%E8%A2%AB%E6%8D%95",
+    "timestamp": "2026-03-27T22:17:51.533Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "伊朗官員稱無法容忍美國「邊打邊談」　尚未決定是否回應停戰方案",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260327/1114217050567348224280147.jpeg/jKC3xIBUwgoTC6XG9HbmHGGFBrD55Td6ieSP3Inkj9w?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60334861/%E5%A4%A9%E6%96%87%E5%8F%B0-%E7%8F%A0%E6%B1%9F%E5%8F%A3%E4%BB%A5%E8%A5%BF%E9%9B%B7%E9%9B%A8%E5%8D%80%E9%80%90%E6%BC%B8%E9%9D%A0%E8%BF%91-%E6%96%99%E6%9C%AA%E4%BE%86%E4%B8%80%E5%85%A9%E5%B0%8F%E6%99%82%E5%BD%B1%E9%9F%BF%E6%9C%AC%E6%B8%AF",
     "timestamp": "2026-03-27T07:18:45.631Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "詞元第一股迅策飆24%　港股升208點重上25000點關｜港股異動",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/20200323/318722061998624768.jpeg/LSfRNWrV7lVrcAnLBmgdDgCdfjcl0oWG6YW82emFvNk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60334834/%E8%A9%9E%E5%85%83%E7%AC%AC%E4%B8%80%E8%82%A1%E8%BF%85%E7%AD%96%E9%A3%8624-%E6%B8%AF%E8%82%A1%E5%8D%87208%E9%BB%9E%E9%87%8D%E4%B8%8A25000%E9%BB%9E%E9%97%9C-%E6%B8%AF%E8%82%A1%E7%95%B0%E5%8B%95",
-    "timestamp": "2026-03-27T06:08:38.797Z",
     "strategy": ".content-card__main"
   }
 ];
