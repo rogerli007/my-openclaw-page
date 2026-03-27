@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-27T00:49:52.862Z
+// Last updated: 2026-03-27T03:41:01.959Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "大灣區跨境直通救護車雙向轉運實施　港病人可直運深、珠、澳醫院",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260327/1114159258724732928537189.jpeg/Hnc8cbCEk0qLntUa6iydsoO2jBpbCGOoM6pswzOqbMM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60334761/%E5%A4%A7%E7%81%A3%E5%8D%80%E8%B7%A8%E5%A2%83%E7%9B%B4%E9%80%9A%E6%95%91%E8%AD%B7%E8%BB%8A%E9%9B%99%E5%90%91%E8%BD%89%E9%81%8B%E5%AF%A6%E6%96%BD-%E6%B8%AF%E7%97%85%E4%BA%BA%E5%8F%AF%E7%9B%B4%E9%81%8B%E6%B7%B1-%E7%8F%A0-%E6%BE%B3%E9%86%AB%E9%99%A2",
+    "timestamp": "2026-03-27T03:41:01.959Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "BABYMONSTER快閃香港活動　同場泰星Win自認是Fans爆最愛成員",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260326/1113887886144442368921873.jpeg/kyQEipEezyHt5E8ziGUpnpsFfe-THS8IqlqBfKpagXw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%9C%8B%E9%9A%9B%E5%88%86%E6%9E%90/60334521/%E4%BC%8A%E6%9C%97%E5%B0%81%E9%9C%8D%E7%88%BE%E6%9C%A8%E8%8C%B2%E6%B5%B7%E5%B3%BD%E5%BC%95%E7%88%86-%E6%9C%80%E5%9A%B4%E7%AB%A3%E8%83%BD%E6%BA%90%E5%8D%B1%E6%A9%9F-%E7%82%BA%E4%BD%95%E4%BA%9E%E6%B4%B2-%E6%AD%BB%E5%85%88",
     "timestamp": "2026-03-26T09:43:46.452Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "6名中國遊客冒險挑戰北海道｢野雪區｣滑雪4人受困　救援隊出動營救",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260326/1113878070789410816047195.jpeg/N3Jz0MxoRkNHW1yPhXQ7Gh3GFuwAa80FTVhqe01Yans?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60334506/6%E5%90%8D%E4%B8%AD%E5%9C%8B%E9%81%8A%E5%AE%A2%E5%86%92%E9%9A%AA%E6%8C%91%E6%88%B0%E5%8C%97%E6%B5%B7%E9%81%93-%E9%87%8E%E9%9B%AA%E5%8D%80-%E6%BB%91%E9%9B%AA4%E4%BA%BA%E5%8F%97%E5%9B%B0-%E6%95%91%E6%8F%B4%E9%9A%8A%E5%87%BA%E5%8B%95%E7%87%9F%E6%95%91",
-    "timestamp": "2026-03-26T09:14:23.526Z",
     "strategy": ".content-card__main"
   }
 ];
