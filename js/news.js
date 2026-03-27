@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-27T09:40:24.238Z
+// Last updated: 2026-03-27T10:37:40.245Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "港人下載Gemini驚見朱咪咪！山寨App靠改名取巧上位下載榜排名第4",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260327/1114268559808139264318092.jpeg/GF0leOzMJOJsnHwMlwe9V5pMXXBT6auadENYN3RDWDc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60334981/%E6%B8%AF%E4%BA%BA%E4%B8%8B%E8%BC%89gemini%E9%A9%9A%E8%A6%8B%E6%9C%B1%E5%92%AA%E5%92%AA-%E5%B1%B1%E5%AF%A8app%E9%9D%A0%E6%94%B9%E5%90%8D%E5%8F%96%E5%B7%A7%E4%B8%8A%E4%BD%8D%E4%B8%8B%E8%BC%89%E6%A6%9C%E6%8E%92%E5%90%8D%E7%AC%AC4",
+    "timestamp": "2026-03-27T10:37:40.245Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "伊朗戰爭快滿月　美智庫：美軍戰備損耗或高達227億｜新聞背後",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260327/1114021517080924160634789.jpeg/w6238WW_KA-PfWuKObuYOod7GDXMj6bz2-3P99vtz_c?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60334664/%E9%A6%AC%E6%9D%9C%E7%BE%85%E4%BA%8C%E6%AC%A1%E5%87%BA%E5%BA%AD%E5%8F%97%E5%AF%A9-%E6%B3%95%E5%AE%98%E7%A8%B1%E4%B8%8D%E6%9C%83%E5%9B%A0%E8%A8%B4%E8%A8%9F%E8%B2%BB%E6%94%AF%E4%BB%98%E5%95%8F%E9%A1%8C%E6%92%A4%E9%8A%B7%E5%85%B6%E8%B2%A9%E6%AF%92%E6%8C%87%E6%8E%A7",
     "timestamp": "2026-03-26T18:41:54.994Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "香港零售管理協會學層全國兩會精神　把握「十五五」發展機遇",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260327/1114004577901875200839547.jpeg/-rYCWf6ToWkukRDX9XjW7upPQ7CRCOlp-ge_cvoHv3I?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60334661/%E9%A6%99%E6%B8%AF%E9%9B%B6%E5%94%AE%E7%AE%A1%E7%90%86%E5%8D%94%E6%9C%83%E5%AD%B8%E5%B1%A4%E5%85%A8%E5%9C%8B%E5%85%A9%E6%9C%83%E7%B2%BE%E7%A5%9E-%E6%8A%8A%E6%8F%A1-%E5%8D%81%E4%BA%94%E4%BA%94-%E7%99%BC%E5%B1%95%E6%A9%9F%E9%81%87",
-    "timestamp": "2026-03-26T18:12:37.616Z",
     "strategy": ".content-card__main"
   }
 ];
