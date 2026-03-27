@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-27T20:01:42.839Z
+// Last updated: 2026-03-27T20:22:08.196Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "俄羅斯擬4月1日起禁止出口汽油　以應對燃料價格上漲",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20230207/699661088559468544285490.jpeg/OQTFzxbhIuEq3xC5bbn8ZrOstRP3_Aqu2nmn19p5p9c?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60335047/%E4%BF%84%E7%BE%85%E6%96%AF%E6%93%AC4%E6%9C%881%E6%97%A5%E8%B5%B7%E7%A6%81%E6%AD%A2%E5%87%BA%E5%8F%A3%E6%B1%BD%E6%B2%B9-%E4%BB%A5%E6%87%89%E5%B0%8D%E7%87%83%E6%96%99%E5%83%B9%E6%A0%BC%E4%B8%8A%E6%BC%B2",
+    "timestamp": "2026-03-27T20:22:08.196Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "俄羅斯擬4月1日起禁止出口汽油　以應對燃料價格上漲",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260327/1114159258724732928537189.jpeg/Hnc8cbCEk0qLntUa6iydsoO2jBpbCGOoM6pswzOqbMM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60334761/%E5%A4%A7%E7%81%A3%E5%8D%80%E8%B7%A8%E5%A2%83%E7%9B%B4%E9%80%9A%E6%95%91%E8%AD%B7%E8%BB%8A%E9%9B%99%E5%90%91%E8%BD%89%E9%81%8B%E5%AF%A6%E6%96%BD-%E6%B8%AF%E7%97%85%E4%BA%BA%E5%8F%AF%E7%9B%B4%E9%81%8B%E6%B7%B1-%E7%8F%A0-%E6%BE%B3%E9%86%AB%E9%99%A2",
     "timestamp": "2026-03-27T03:41:01.959Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "BABYMONSTER快閃香港活動　同場泰星Win自認是Fans爆最愛成員",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260326/1113972839410569216830751.jpeg/EsP8Q-h7dcpI40y5D46QNFF_pFRZcBhVH7UHOh-1Bzo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60334649/babymonster%E5%BF%AB%E9%96%83%E9%A6%99%E6%B8%AF%E6%B4%BB%E5%8B%95-%E5%90%8C%E5%A0%B4%E6%B3%B0%E6%98%9Fwin%E8%87%AA%E8%AA%8D%E6%98%AFfans%E7%88%86%E6%9C%80%E6%84%9B%E6%88%90%E5%93%A1",
-    "timestamp": "2026-03-27T00:49:52.862Z",
     "strategy": ".content-card__main"
   }
 ];
