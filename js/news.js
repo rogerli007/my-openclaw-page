@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-27T09:11:07.126Z
+// Last updated: 2026-03-27T09:40:24.238Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "伊朗戰爭快滿月　美智庫：美軍戰備損耗或高達227億｜新聞背後",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260320/1111607111764152320312579.jpeg/LQQUFijbqrMsLyP7BWQcsn0d6PhagCX_nklKJZ5JSiU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E4%B8%96%E7%95%8C%E5%B0%88%E9%A1%8C/60334937/%E4%BC%8A%E6%9C%97%E6%88%B0%E7%88%AD%E5%BF%AB%E6%BB%BF%E6%9C%88-%E7%BE%8E%E6%99%BA%E5%BA%AB-%E7%BE%8E%E8%BB%8D%E6%88%B0%E5%82%99%E6%90%8D%E8%80%97%E6%88%96%E9%AB%98%E9%81%94227%E5%84%84-%E6%96%B0%E8%81%9E%E8%83%8C%E5%BE%8C",
+    "timestamp": "2026-03-27T09:40:24.238Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "飲水通便｜晨起1杯水提神排便　營養師：水量是關鍵　2類人要限水",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260327/1114004577901875200839547.jpeg/-rYCWf6ToWkukRDX9XjW7upPQ7CRCOlp-ge_cvoHv3I?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60334661/%E9%A6%99%E6%B8%AF%E9%9B%B6%E5%94%AE%E7%AE%A1%E7%90%86%E5%8D%94%E6%9C%83%E5%AD%B8%E5%B1%A4%E5%85%A8%E5%9C%8B%E5%85%A9%E6%9C%83%E7%B2%BE%E7%A5%9E-%E6%8A%8A%E6%8F%A1-%E5%8D%81%E4%BA%94%E4%BA%94-%E7%99%BC%E5%B1%95%E6%A9%9F%E9%81%87",
     "timestamp": "2026-03-26T18:12:37.616Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "香港零售管理協會學層全國兩會精神　把握「十五五」發展機遇",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260327/1114004577901875200839547.jpeg/-rYCWf6ToWkukRDX9XjW7upPQ7CRCOlp-ge_cvoHv3I?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60334661/%E9%A6%99%E6%B8%AF%E9%9B%B6%E5%94%AE%E7%AE%A1%E7%90%86%E5%8D%94%E6%9C%83%E5%AD%B8%E5%B1%A4%E5%85%A8%E5%9C%8B%E5%85%A9%E6%9C%83%E7%B2%BE%E7%A5%9E-%E6%8A%8A%E6%8F%A1-%E5%8D%81%E4%BA%94%E4%BA%94-%E7%99%BC%E5%B1%95%E6%A9%9F%E9%81%87",
-    "timestamp": "2026-03-26T17:42:28.420Z",
     "strategy": ".content-card__main"
   }
 ];
