@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-28T01:44:09.445Z
+// Last updated: 2026-03-28T02:44:32.818Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "麗新發展中期經調整虧損4億元　不派息　EBITDA為3.8億元",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250801/1028007065408507904034716.jpeg/ZkXZGEAt7fTMv35lRwNXrH-j35mXYMvAJGLBOiRiwTo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60335075/%E9%BA%97%E6%96%B0%E7%99%BC%E5%B1%95%E4%B8%AD%E6%9C%9F%E7%B6%93%E8%AA%BF%E6%95%B4%E8%99%A7%E6%90%8D4%E5%84%84%E5%85%83-%E4%B8%8D%E6%B4%BE%E6%81%AF-ebitda%E7%82%BA3-8%E5%84%84%E5%85%83",
+    "timestamp": "2026-03-28T02:44:32.818Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "珍惜生命︱上環商廈男子墮樓　當場不治",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260320/1111607111764152320312579.jpeg/LQQUFijbqrMsLyP7BWQcsn0d6PhagCX_nklKJZ5JSiU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E4%B8%96%E7%95%8C%E5%B0%88%E9%A1%8C/60334937/%E4%BC%8A%E6%9C%97%E6%88%B0%E7%88%AD%E5%BF%AB%E6%BB%BF%E6%9C%88-%E7%BE%8E%E6%99%BA%E5%BA%AB-%E7%BE%8E%E8%BB%8D%E6%88%B0%E5%82%99%E6%90%8D%E8%80%97%E6%88%96%E9%AB%98%E9%81%94227%E5%84%84-%E6%96%B0%E8%81%9E%E8%83%8C%E5%BE%8C",
     "timestamp": "2026-03-27T09:40:24.238Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "飲水通便｜晨起1杯水提神排便　營養師：水量是關鍵　2類人要限水",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260327/1114235388530003968482165.jpeg/Lu5QQi50SGtMxe3-I14QFdOo_L-iBY1ubxbu228W7ts?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60328640/%E9%A3%B2%E6%B0%B4%E9%80%9A%E4%BE%BF-%E6%99%A8%E8%B5%B71%E6%9D%AF%E6%B0%B4%E6%8F%90%E7%A5%9E%E6%8E%92%E4%BE%BF-%E7%87%9F%E9%A4%8A%E5%B8%AB-%E6%B0%B4%E9%87%8F%E6%98%AF%E9%97%9C%E9%8D%B5-2%E9%A1%9E%E4%BA%BA%E8%A6%81%E9%99%90%E6%B0%B4",
-    "timestamp": "2026-03-27T09:11:07.126Z",
     "strategy": ".content-card__main"
   }
 ];
