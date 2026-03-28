@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-28T19:31:52.585Z
+// Last updated: 2026-03-28T19:48:56.929Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美國再爆No Kings示威　預計逾900萬人參加　明尼蘇達州將成焦點",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260329/1114766534443536384864075.jpeg/BDXkO1XTkFnyjm1hqT7Dj_51t7YL8V2ILZ-Ygy2fmIM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60335229/%E7%BE%8E%E5%9C%8B%E5%86%8D%E7%88%86no-kings%E7%A4%BA%E5%A8%81-%E9%A0%90%E8%A8%88%E9%80%BE900%E8%90%AC%E4%BA%BA%E5%8F%83%E5%8A%A0-%E6%98%8E%E5%B0%BC%E8%98%87%E9%81%94%E5%B7%9E%E5%B0%87%E6%88%90%E7%84%A6%E9%BB%9E",
+    "timestamp": "2026-03-28T19:48:56.929Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "WeChat Pay派深圳南山區千萬消費券！滿$100減100！四折搶券教學",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20211109/534711324748288000956074.jpeg/ONoeZzPw6NxZYsRqBSy1tVYXi0AO4PzID0RbSw9EW0s?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60335155/%E8%BB%9F%E9%8A%80%E7%8D%B2400%E5%84%84%E7%BE%8E%E5%85%83%E8%B2%B8%E6%AC%BE-%E4%BB%A5%E5%8A%A0%E7%A2%BC%E6%8A%95%E8%B3%87openai-%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD",
     "timestamp": "2026-03-28T08:24:47.660Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "李頴彰律師｜屯門七旬夫婦企跳的詰問：高齡照顧者為何瀕臨崩潰？",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260328/1114569801193230336274591.jpeg/OIunB--B-EbOPenCtBj3E0l0aG3UwhbesGOvGbBjrxk?v=w1920r16_9",
-    "url": "https://www.hk01.com/01%E5%B0%88%E6%AC%84/60334961/%E6%9D%8E%E9%A0%B4%E5%BD%B0%E5%BE%8B%E5%B8%AB-%E5%B1%AF%E9%96%80%E4%B8%83%E6%97%AC%E5%A4%AB%E5%A9%A6%E4%BC%81%E8%B7%B3%E7%9A%84%E8%A9%B0%E5%95%8F-%E9%AB%98%E9%BD%A1%E7%85%A7%E9%A1%A7%E8%80%85%E7%82%BA%E4%BD%95%E7%80%95%E8%87%A8%E5%B4%A9%E6%BD%B0",
-    "timestamp": "2026-03-28T06:41:34.707Z",
     "strategy": ".content-card__main"
   }
 ];
