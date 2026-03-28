@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-28T11:58:33.580Z
+// Last updated: 2026-03-28T14:20:03.974Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "將軍澳唐俊街P牌Tesla剷行人路　撞冧兩防撞柱",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260328/1114682771025956864926013.jpeg/7Eg1784ZQ5p8jjrnMhI5xFIDwnIT8RLksaMYV7GjGFc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60335214/%E5%B0%87%E8%BB%8D%E6%BE%B3%E5%94%90%E4%BF%8A%E8%A1%97p%E7%89%8Ctesla%E5%89%B7%E8%A1%8C%E4%BA%BA%E8%B7%AF-%E6%92%9E%E5%86%A7%E5%85%A9%E9%98%B2%E6%92%9E%E6%9F%B1",
+    "timestamp": "2026-03-28T14:20:03.974Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "新清水灣道4私家車車相撞釀5傷　來回方向一度全封",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20230207/699661088559468544285490.jpeg/OQTFzxbhIuEq3xC5bbn8ZrOstRP3_Aqu2nmn19p5p9c?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60335047/%E4%BF%84%E7%BE%85%E6%96%AF%E6%93%AC4%E6%9C%881%E6%97%A5%E8%B5%B7%E7%A6%81%E6%AD%A2%E5%87%BA%E5%8F%A3%E6%B1%BD%E6%B2%B9-%E4%BB%A5%E6%87%89%E5%B0%8D%E7%87%83%E6%96%99%E5%83%B9%E6%A0%BC%E4%B8%8A%E6%BC%B2",
     "timestamp": "2026-03-27T20:01:42.839Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "俄羅斯擬4月1日起禁止出口汽油　以應對燃料價格上漲",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20230207/699661088559468544285490.jpeg/OQTFzxbhIuEq3xC5bbn8ZrOstRP3_Aqu2nmn19p5p9c?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60335047/%E4%BF%84%E7%BE%85%E6%96%AF%E6%93%AC4%E6%9C%881%E6%97%A5%E8%B5%B7%E7%A6%81%E6%AD%A2%E5%87%BA%E5%8F%A3%E6%B1%BD%E6%B2%B9-%E4%BB%A5%E6%87%89%E5%B0%8D%E7%87%83%E6%96%99%E5%83%B9%E6%A0%BC%E4%B8%8A%E6%BC%B2",
-    "timestamp": "2026-03-27T19:36:47.442Z",
     "strategy": ".content-card__main"
   }
 ];
