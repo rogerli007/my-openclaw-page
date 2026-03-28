@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-28T21:51:11.892Z
+// Last updated: 2026-03-28T22:15:02.709Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "伊朗戰爭｜美軍兩棲攻擊艦「的黎波里號」抵中東　增派約3500人",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260324/1113062677199982592840621.jpeg/Og7I2LKeT0SjiM8KUJYwwhyYWp5kWafYSp8vDEqfLww?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60335230/%E4%BC%8A%E6%9C%97%E6%88%B0%E7%88%AD-%E7%BE%8E%E8%BB%8D%E5%85%A9%E6%A3%B2%E6%94%BB%E6%93%8A%E8%89%A6-%E7%9A%84%E9%BB%8E%E6%B3%A2%E9%87%8C%E8%99%9F-%E6%8A%B5%E4%B8%AD%E6%9D%B1-%E5%A2%9E%E6%B4%BE%E7%B4%843500%E4%BA%BA",
+    "timestamp": "2026-03-28T22:15:02.709Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "伊朗戰爭｜美軍兩棲攻擊艦「的黎波里號」抵中東　增派約3500人",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260313/1109098402467024896132689.png/vP7jF2Z8M_-HB2NWGF9lGa1_xQX6zWAgpzaqv6c2qr8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%9F%A5%E6%80%A7%E5%A5%B3%E7%94%9F/60329938/90%E5%BE%8C%E5%A5%B3%E7%94%9F%E6%92%95-%E9%86%9C%E5%A5%B3%E5%AD%A9-%E6%A8%99%E7%B1%A4%E8%AE%8A%E6%A3%9F%E7%AF%A4%E7%AC%91%E5%A5%B3%E7%8E%8B-%E6%98%A8%E5%A4%A9%E7%9A%84%E7%97%9B%E8%8B%A6%E6%98%AF%E6%98%8E%E5%A4%A9%E7%9A%84%E7%AC%91%E8%A9%B1",
     "timestamp": "2026-03-28T11:35:11.723Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "臥底嬌娃｜蘇嘉盈死亡真相超展開　李海銅演繹Overdose狀態極專業",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260328/1114569773405966336301286.jpeg/qQ6cA9IrU8-8U6RA3-rDNww8r3qKv38h4HtJ6OB7Seg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60335112/%E8%87%A5%E5%BA%95%E5%AC%8C%E5%A8%83-%E8%98%87%E5%98%89%E7%9B%88%E6%AD%BB%E4%BA%A1%E7%9C%9F%E7%9B%B8%E8%B6%85%E5%B1%95%E9%96%8B-%E6%9D%8E%E6%B5%B7%E9%8A%85%E6%BC%94%E7%B9%B9overdose%E7%8B%80%E6%85%8B%E6%A5%B5%E5%B0%88%E6%A5%AD",
-    "timestamp": "2026-03-28T11:02:35.618Z",
     "strategy": ".content-card__main"
   }
 ];
