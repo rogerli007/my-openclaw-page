@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-28T02:44:32.818Z
+// Last updated: 2026-03-28T04:34:50.469Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "富蝶邨公屋戶食煙惹公審　鄰居貼大字報斥煙味飄出屋　法例這樣說",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260326/1113878550181580800987502.png/Z3MGE9DkqVCDsw10FyTciKA7puI3ZhHqY42bLWONmy0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60334326/%E5%AF%8C%E8%9D%B6%E9%82%A8%E5%85%AC%E5%B1%8B%E6%88%B6%E9%A3%9F%E7%85%99%E6%83%B9%E5%85%AC%E5%AF%A9-%E9%84%B0%E5%B1%85%E8%B2%BC%E5%A4%A7%E5%AD%97%E5%A0%B1%E6%96%A5%E7%85%99%E5%91%B3%E9%A3%84%E5%87%BA%E5%B1%8B-%E9%99%84%E6%B3%95%E4%BE%8B%E8%A6%8F%E5%AE%9A",
+    "timestamp": "2026-03-28T04:34:50.469Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "麗新發展中期經調整虧損4億元　不派息　EBITDA為3.8億元",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260327/1114268559808139264318092.jpeg/GF0leOzMJOJsnHwMlwe9V5pMXXBT6auadENYN3RDWDc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60334981/%E6%B8%AF%E4%BA%BA%E4%B8%8B%E8%BC%89gemini%E9%A9%9A%E8%A6%8B%E6%9C%B1%E5%92%AA%E5%92%AA-%E5%B1%B1%E5%AF%A8app%E9%9D%A0%E6%94%B9%E5%90%8D%E5%8F%96%E5%B7%A7%E4%B8%8A%E4%BD%8D%E4%B8%8B%E8%BC%89%E6%A6%9C%E6%8E%92%E5%90%8D%E7%AC%AC4",
     "timestamp": "2026-03-27T10:37:40.245Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "伊朗戰爭快滿月　美智庫：美軍戰備損耗或高達227億｜新聞背後",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260320/1111607111764152320312579.jpeg/LQQUFijbqrMsLyP7BWQcsn0d6PhagCX_nklKJZ5JSiU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E4%B8%96%E7%95%8C%E5%B0%88%E9%A1%8C/60334937/%E4%BC%8A%E6%9C%97%E6%88%B0%E7%88%AD%E5%BF%AB%E6%BB%BF%E6%9C%88-%E7%BE%8E%E6%99%BA%E5%BA%AB-%E7%BE%8E%E8%BB%8D%E6%88%B0%E5%82%99%E6%90%8D%E8%80%97%E6%88%96%E9%AB%98%E9%81%94227%E5%84%84-%E6%96%B0%E8%81%9E%E8%83%8C%E5%BE%8C",
-    "timestamp": "2026-03-27T09:40:24.238Z",
     "strategy": ".content-card__main"
   }
 ];
