@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-28T15:02:11.584Z
+// Last updated: 2026-03-28T15:18:47.612Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "六合彩3.31頭獎$1500萬｜6個最旺號碼+2招增中獎機會+幸運投注站",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260110/1086780177859481600091348.jpeg/Dr04mLnjYRzIXzOBeQoj-cbBGMUHZFIKsUX-YbFF_mE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60335221/%E5%85%AD%E5%90%88%E5%BD%A93-31%E9%A0%AD%E7%8D%8E-1500%E8%90%AC-6%E5%80%8B%E6%9C%80%E6%97%BA%E8%99%9F%E7%A2%BC-2%E6%8B%9B%E5%A2%9E%E4%B8%AD%E7%8D%8E%E6%A9%9F%E6%9C%83-%E5%B9%B8%E9%81%8B%E6%8A%95%E6%B3%A8%E7%AB%99",
+    "timestamp": "2026-03-28T15:18:47.612Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "阿Mo李啟言分享「開」電動輪椅進度　進退自如進步極大",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260327/1114031817687568384750294.jpeg/4C9e2z1n5wl02yLcw153Jh6iH0WIsXIlJtqsQCbarEA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60335051/%E4%BC%8A%E6%9C%97%E5%AE%98%E5%93%A1%E7%A8%B1%E7%84%A1%E6%B3%95%E5%AE%B9%E5%BF%8D%E7%BE%8E%E5%9C%8B-%E9%82%8A%E6%89%93%E9%82%8A%E8%AB%87-%E5%B0%9A%E6%9C%AA%E6%B1%BA%E5%AE%9A%E6%98%AF%E5%90%A6%E5%9B%9E%E6%87%89%E5%81%9C%E6%88%B0%E6%96%B9%E6%A1%88",
     "timestamp": "2026-03-27T21:51:34.037Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美國土安全部稱機場員工最快下周一出糧　安檢人手缺勤率已創新高",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260328/1114407205542563840051384.jpeg/Pz5ToIk5qzPq8fYT1FcOy0EeG0BoTUWTQwkM00MJDNM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60335050/%E7%BE%8E%E5%9C%8B%E5%9C%9F%E5%AE%89%E5%85%A8%E9%83%A8%E7%A8%B1%E6%A9%9F%E5%A0%B4%E5%93%A1%E5%B7%A5%E6%9C%80%E5%BF%AB%E4%B8%8B%E5%91%A8%E4%B8%80%E5%87%BA%E7%B3%A7-%E5%AE%89%E6%AA%A2%E4%BA%BA%E6%89%8B%E7%BC%BA%E5%8B%A4%E7%8E%87%E5%B7%B2%E5%89%B5%E6%96%B0%E9%AB%98",
-    "timestamp": "2026-03-27T21:20:32.252Z",
     "strategy": ".content-card__main"
   }
 ];
