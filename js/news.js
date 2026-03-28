@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-27T23:48:50.416Z
+// Last updated: 2026-03-28T00:02:01.202Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "同程旅行邁向高質量增長　凸顯中長線配置價值｜聶振邦",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260327/1114227723263283200340978.jpeg/7rVkCScrOutOg6sIUjLUHkJ-_1i-JwxNGl5mXBpeZlw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60334850/%E5%90%8C%E7%A8%8B%E6%97%85%E8%A1%8C%E9%82%81%E5%90%91%E9%AB%98%E8%B3%AA%E9%87%8F%E5%A2%9E%E9%95%B7-%E5%87%B8%E9%A1%AF%E4%B8%AD%E9%95%B7%E7%B7%9A%E9%85%8D%E7%BD%AE%E5%83%B9%E5%80%BC-%E8%81%B6%E6%8C%AF%E9%82%A6",
+    "timestamp": "2026-03-28T00:02:01.202Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "特朗普出席投資倡議峰會：伊朗懇求達成協議　古巴將是下一目標",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260317/1110624808300711936829746.png/-dgM6vbgH7nNcffnP0h5j_Yy3CJmf_Vixj0R8bw9EfE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60331385/%E6%B8%9B%E8%82%A5-%E4%B8%8D%E5%90%83%E6%97%A9%E9%A4%90%E7%98%A6%E6%9B%B4%E5%BF%AB-%E7%87%9F%E9%A4%8A%E5%B8%AB%E6%8F%AD8%E5%A4%A7%E8%AA%A4%E5%8D%80-%E9%80%99%E6%99%82%E9%96%93%E5%90%83%E7%AC%AC%E4%B8%80%E9%A4%90%E6%B8%9B%E8%84%82%E5%BF%AB",
     "timestamp": "2026-03-27T08:11:48.460Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "洛杉磯奧運｜國際奧委會落實新規　女性項目只限「生理女性」參賽",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260327/1114171490477019136906751.jpeg/cjtGOhYoRc7CoSuRu2t3JTkGHBG4_SEM32nDtd9pw7U?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60334748/%E6%B4%9B%E6%9D%89%E7%A3%AF%E5%A5%A7%E9%81%8B-%E5%9C%8B%E9%9A%9B%E5%A5%A7%E5%A7%94%E6%9C%83%E8%90%BD%E5%AF%A6%E6%96%B0%E8%A6%8F-%E5%A5%B3%E6%80%A7%E9%A0%85%E7%9B%AE%E5%8F%AA%E9%99%90-%E7%94%9F%E7%90%86%E5%A5%B3%E6%80%A7-%E5%8F%83%E8%B3%BD",
-    "timestamp": "2026-03-27T07:49:02.513Z",
     "strategy": ".content-card__main"
   }
 ];
