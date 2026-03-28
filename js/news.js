@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-28T11:35:11.723Z
+// Last updated: 2026-03-28T11:58:33.580Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "新清水灣道4私家車車相撞釀5傷　來回方向一度全封",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260328/1114646100846841856598761.jpeg/7tczAwtwvBgXAt_7OLs-bnIJTIKpZQtn81ph5fNaYeU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60335195/%E6%96%B0%E6%B8%85%E6%B0%B4%E7%81%A3%E9%81%934%E7%A7%81%E5%AE%B6%E8%BB%8A%E8%BB%8A%E7%9B%B8%E6%92%9E%E9%87%805%E5%82%B7-%E4%BE%86%E5%9B%9E%E6%96%B9%E5%90%91%E4%B8%80%E5%BA%A6%E5%85%A8%E5%B0%81",
+    "timestamp": "2026-03-28T11:58:33.580Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "90後女生撕「醜女孩」標籤變棟篤笑女王：昨天的痛苦是明天的笑話",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20230207/699661088559468544285490.jpeg/OQTFzxbhIuEq3xC5bbn8ZrOstRP3_Aqu2nmn19p5p9c?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60335047/%E4%BF%84%E7%BE%85%E6%96%AF%E6%93%AC4%E6%9C%881%E6%97%A5%E8%B5%B7%E7%A6%81%E6%AD%A2%E5%87%BA%E5%8F%A3%E6%B1%BD%E6%B2%B9-%E4%BB%A5%E6%87%89%E5%B0%8D%E7%87%83%E6%96%99%E5%83%B9%E6%A0%BC%E4%B8%8A%E6%BC%B2",
     "timestamp": "2026-03-27T19:36:47.442Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "警荃灣大河道掃黃　拘5女子涉管理賣淫場所、違反逗留條件等罪",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260328/1114357386811805696620189.jpeg/t_tqWFhoegQ2Z5Mcf1P_TJKYYSEFx22ZiiqBiYoqgYk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60335042/%E8%AD%A6%E8%8D%83%E7%81%A3%E5%A4%A7%E6%B2%B3%E9%81%93%E6%8E%83%E9%BB%83-%E6%8B%985%E5%A5%B3%E5%AD%90%E6%B6%89%E7%AE%A1%E7%90%86%E8%B3%A3%E6%B7%AB%E5%A0%B4%E6%89%80-%E9%81%95%E5%8F%8D%E9%80%97%E7%95%99%E6%A2%9D%E4%BB%B6%E7%AD%89%E7%BD%AA",
-    "timestamp": "2026-03-27T17:44:41.382Z",
     "strategy": ".content-card__main"
   }
 ];
