@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-28T21:00:44.643Z
+// Last updated: 2026-03-28T21:17:52.667Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "伊朗戰爭｜美軍兩棲攻擊艦「的黎波里號」抵中東　增派約3500人",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260324/1113062677199982592840621.jpeg/Og7I2LKeT0SjiM8KUJYwwhyYWp5kWafYSp8vDEqfLww?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60335230/%E4%BC%8A%E6%9C%97%E6%88%B0%E7%88%AD-%E7%BE%8E%E8%BB%8D%E5%85%A9%E6%A3%B2%E6%94%BB%E6%93%8A%E8%89%A6-%E7%9A%84%E9%BB%8E%E6%B3%A2%E9%87%8C%E8%99%9F-%E6%8A%B5%E4%B8%AD%E6%9D%B1-%E5%A2%9E%E6%B4%BE%E7%B4%843500%E4%BA%BA",
+    "timestamp": "2026-03-28T21:17:52.667Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "伊朗戰爭｜美軍兩棲攻擊艦「的黎波里號」抵中東　增派約3500人",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260328/1114611263574380544986123.jpeg/24ZE61b_DN6X3T8Id9G94KDZIxpB5nPlIXUg9yF1IPc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60335153/%E7%8B%B8%E6%83%B3%E5%A5%87%E5%85%B5-%E5%BD%BC%E6%80%9D%E8%A3%BD%E4%BD%9C%E8%B6%85%E7%B4%B0%E7%B7%BB-%E5%8B%95%E7%89%A9%E5%86%B7%E7%9F%A5%E8%AD%98%E5%85%A8%E6%95%B8%E5%90%BB%E5%90%88%E8%A7%92%E8%89%B2%E8%A8%AD%E8%A8%88",
     "timestamp": "2026-03-28T10:18:45.915Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "MLB｜一生只效力一間球會　最忠誠的王牌左投　新身份續貢獻道奇",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260328/1114609661048262656590683.jpeg/c6kzdbDyADyxvt76V3HF-t3P2Nwmb-6oMl-kKjJfpCo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60335162/mlb-%E4%B8%80%E7%94%9F%E5%8F%AA%E6%95%88%E5%8A%9B%E4%B8%80%E9%96%93%E7%90%83%E6%9C%83-%E6%9C%80%E5%BF%A0%E8%AA%A0%E7%9A%84%E7%8E%8B%E7%89%8C%E5%B7%A6%E6%8A%95-%E6%96%B0%E8%BA%AB%E4%BB%BD%E7%BA%8C%E8%B2%A2%E7%8D%BB%E9%81%93%E5%A5%87",
-    "timestamp": "2026-03-28T09:21:25.050Z",
     "strategy": ".content-card__main"
   }
 ];
