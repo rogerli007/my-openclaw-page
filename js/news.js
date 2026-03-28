@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-28T04:34:50.469Z
+// Last updated: 2026-03-28T05:15:08.225Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "李昌鈺曾被小S問怎麼抓外遇　回「叫許雅鈞來見我2分鐘」送1神器",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260328/1114548643215446016493726.jpeg/sfQUN39jLZ69wULGkbICIDQkX0cm5J-C3ihcNt4oXDY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60335104/%E6%9D%8E%E6%98%8C%E9%88%BA%E6%9B%BE%E8%A2%AB%E5%B0%8Fs%E5%95%8F%E6%80%8E%E9%BA%BC%E6%8A%93%E5%A4%96%E9%81%87-%E5%9B%9E-%E5%8F%AB%E8%A8%B1%E9%9B%85%E9%88%9E%E4%BE%86%E8%A6%8B%E6%88%912%E5%88%86%E9%90%98-%E9%80%811%E7%A5%9E%E5%99%A8",
+    "timestamp": "2026-03-28T05:15:08.225Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "富蝶邨公屋戶食煙惹公審　鄰居貼大字報斥煙味飄出屋　法例這樣說",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260327/1114246227274240000165048.jpeg/rNXbHF7I-Se-C3V5IjkVjpnqN7ADlmQaDnFhBA5xYQQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60334743/%E5%85%AC%E5%B1%8B%E8%BC%AA%E5%80%99-%E7%8D%B2%E6%B4%BE-40-%E5%B9%B4%E6%9C%97%E5%B1%8F%E9%82%A8%E6%87%89%E5%90%A6%E6%8E%A5%E5%8F%97-%E7%B6%B2%E6%B0%91%E5%88%86%E4%BA%AB-3-%E5%A4%A7%E5%84%AA%E5%8B%A2%E5%8B%9D%E6%96%B0%E6%A8%93",
     "timestamp": "2026-03-27T11:10:12.431Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "港人下載Gemini驚見朱咪咪！山寨App靠改名取巧上位下載榜排名第4",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260327/1114268559808139264318092.jpeg/GF0leOzMJOJsnHwMlwe9V5pMXXBT6auadENYN3RDWDc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60334981/%E6%B8%AF%E4%BA%BA%E4%B8%8B%E8%BC%89gemini%E9%A9%9A%E8%A6%8B%E6%9C%B1%E5%92%AA%E5%92%AA-%E5%B1%B1%E5%AF%A8app%E9%9D%A0%E6%94%B9%E5%90%8D%E5%8F%96%E5%B7%A7%E4%B8%8A%E4%BD%8D%E4%B8%8B%E8%BC%89%E6%A6%9C%E6%8E%92%E5%90%8D%E7%AC%AC4",
-    "timestamp": "2026-03-27T10:37:40.245Z",
     "strategy": ".content-card__main"
   }
 ];
