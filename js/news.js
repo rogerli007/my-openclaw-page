@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-28T22:31:40.763Z
+// Last updated: 2026-03-28T22:51:21.022Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "萬斯成保守派政治行動大會首選2028共和黨總統人選　魯比奧列第二",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260329/1114810039899525120296583.jpeg/4zzERTQdvIn5mVY7e3YYwQ_ZTTkY7ywnGdvNrRnbza0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60335231/%E8%90%AC%E6%96%AF%E6%88%90%E4%BF%9D%E5%AE%88%E6%B4%BE%E6%94%BF%E6%B2%BB%E8%A1%8C%E5%8B%95%E5%A4%A7%E6%9C%83%E9%A6%96%E9%81%B82028%E5%85%B1%E5%92%8C%E9%BB%A8%E7%B8%BD%E7%B5%B1%E4%BA%BA%E9%81%B8-%E9%AD%AF%E6%AF%94%E5%A5%A7%E5%88%97%E7%AC%AC%E4%BA%8C",
+    "timestamp": "2026-03-28T22:51:21.022Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "伊朗戰爭｜美軍兩棲攻擊艦「的黎波里號」抵中東　增派約3500人",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260328/1114682771025956864926013.jpeg/7Eg1784ZQ5p8jjrnMhI5xFIDwnIT8RLksaMYV7GjGFc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60335214/%E5%B0%87%E8%BB%8D%E6%BE%B3%E5%94%90%E4%BF%8A%E8%A1%97p%E7%89%8Ctesla%E5%89%B7%E8%A1%8C%E4%BA%BA%E8%B7%AF-%E6%92%9E%E5%86%A7%E5%85%A9%E9%98%B2%E6%92%9E%E6%9F%B1",
     "timestamp": "2026-03-28T14:20:03.974Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "新清水灣道4私家車車相撞釀5傷　來回方向一度全封",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260328/1114646100846841856598761.jpeg/7tczAwtwvBgXAt_7OLs-bnIJTIKpZQtn81ph5fNaYeU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60335195/%E6%96%B0%E6%B8%85%E6%B0%B4%E7%81%A3%E9%81%934%E7%A7%81%E5%AE%B6%E8%BB%8A%E8%BB%8A%E7%9B%B8%E6%92%9E%E9%87%805%E5%82%B7-%E4%BE%86%E5%9B%9E%E6%96%B9%E5%90%91%E4%B8%80%E5%BA%A6%E5%85%A8%E5%B0%81",
-    "timestamp": "2026-03-28T11:58:33.580Z",
     "strategy": ".content-card__main"
   }
 ];
