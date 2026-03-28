@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-28T17:02:46.905Z
+// Last updated: 2026-03-28T17:59:44.187Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "法國警方制止巴黎美國銀行外炸彈襲擊　男子試圖引爆裝置時被捕",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260329/1114728938187264000928364.png/xFxMp7lvKPC_ekrEqU2LhBEF2ZEUh6Wl52JYtOdiWLQ?v=w1920",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60335225/%E6%B3%95%E5%9C%8B%E8%AD%A6%E6%96%B9%E5%88%B6%E6%AD%A2%E5%B7%B4%E9%BB%8E%E7%BE%8E%E5%9C%8B%E9%8A%80%E8%A1%8C%E5%A4%96%E7%82%B8%E5%BD%88%E8%A5%B2%E6%93%8A-%E7%94%B7%E5%AD%90%E8%A9%A6%E5%9C%96%E5%BC%95%E7%88%86%E8%A3%9D%E7%BD%AE%E6%99%82%E8%A2%AB%E6%8D%95",
+    "timestamp": "2026-03-28T17:59:44.187Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "黎巴嫩衛生部長：以色列與真主黨交戰以來　衛生部門已有51人喪生",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250801/1028007065408507904034716.jpeg/ZkXZGEAt7fTMv35lRwNXrH-j35mXYMvAJGLBOiRiwTo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60335075/%E9%BA%97%E6%96%B0%E7%99%BC%E5%B1%95%E4%B8%AD%E6%9C%9F%E7%B6%93%E8%AA%BF%E6%95%B4%E8%99%A7%E6%90%8D4%E5%84%84%E5%85%83-%E4%B8%8D%E6%B4%BE%E6%81%AF-ebitda%E7%82%BA3-8%E5%84%84%E5%85%83",
     "timestamp": "2026-03-28T02:44:32.818Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "珍惜生命︱上環商廈男子墮樓　當場不治",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260328/1114494121550024704057683.jpeg/62cGBL0LV4xY42JfAFTySHw83kEgq3dr9uZvZ_bmb2c?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60335062/%E7%8F%8D%E6%83%9C%E7%94%9F%E5%91%BD-%E4%B8%8A%E7%92%B0%E5%95%86%E5%BB%88%E7%94%B7%E5%AD%90%E5%A2%AE%E6%A8%93-%E7%95%B6%E5%A0%B4%E4%B8%8D%E6%B2%BB",
-    "timestamp": "2026-03-28T01:44:09.445Z",
     "strategy": ".content-card__main"
   }
 ];
