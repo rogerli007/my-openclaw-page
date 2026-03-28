@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-28T16:00:42.793Z
+// Last updated: 2026-03-28T16:38:22.321Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "黎巴嫩衛生部長：以色列與真主黨交戰以來　衛生部門已有51人喪生",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260312/1108636841927905280490372.jpeg/iekdxJ2pcYJzi2yS9qpqld1mudjqmYCxJ1QLJSdUCyU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60335224/%E9%BB%8E%E5%B7%B4%E5%AB%A9%E8%A1%9B%E7%94%9F%E9%83%A8%E9%95%B7-%E4%BB%A5%E8%89%B2%E5%88%97%E8%88%87%E7%9C%9F%E4%B8%BB%E9%BB%A8%E4%BA%A4%E6%88%B0%E4%BB%A5%E4%BE%86-%E8%A1%9B%E7%94%9F%E9%83%A8%E9%96%80%E5%B7%B2%E6%9C%8951%E4%BA%BA%E5%96%AA%E7%94%9F",
+    "timestamp": "2026-03-28T16:38:22.321Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "中環干諾道中3車相撞意外　涉及保時捷與兩輛的士　釀3人傷",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260327/1114227723263283200340978.jpeg/7rVkCScrOutOg6sIUjLUHkJ-_1i-JwxNGl5mXBpeZlw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60334850/%E5%90%8C%E7%A8%8B%E6%97%85%E8%A1%8C%E9%82%81%E5%90%91%E9%AB%98%E8%B3%AA%E9%87%8F%E5%A2%9E%E9%95%B7-%E5%87%B8%E9%A1%AF%E4%B8%AD%E9%95%B7%E7%B7%9A%E9%85%8D%E7%BD%AE%E5%83%B9%E5%80%BC-%E8%81%B6%E6%8C%AF%E9%82%A6",
     "timestamp": "2026-03-28T00:02:01.202Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普出席投資倡議峰會：伊朗懇求達成協議　古巴將是下一目標",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260328/1114458418204119040463790.jpeg/2CYH4lMZWUjugAgoVr_t3C5oWAWgdUEgRQFreUUBa3k?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60335053/%E7%89%B9%E6%9C%97%E6%99%AE%E5%87%BA%E5%B8%AD%E6%8A%95%E8%B3%87%E5%80%A1%E8%AD%B0%E5%B3%B0%E6%9C%83-%E4%BC%8A%E6%9C%97%E6%87%87%E6%B1%82%E9%81%94%E6%88%90%E5%8D%94%E8%AD%B0-%E5%8F%A4%E5%B7%B4%E5%B0%87%E6%98%AF%E4%B8%8B%E4%B8%80%E7%9B%AE%E6%A8%99",
-    "timestamp": "2026-03-27T23:48:50.416Z",
     "strategy": ".content-card__main"
   }
 ];
