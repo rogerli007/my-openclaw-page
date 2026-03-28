@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-28T18:37:35.826Z
+// Last updated: 2026-03-28T19:06:19.691Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "WeChat Pay派深圳南山區千萬消費券！滿$100減100！四折搶券教學",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260329/1114750524210548736274953.jpeg/busyShiIfzZv6AW1npPtzwPanSqIKRw5PI2nSDyNp0g?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%97%85%E9%81%8A/60335227/wechat-pay%E6%B4%BE%E6%B7%B1%E5%9C%B3%E5%8D%97%E5%B1%B1%E5%8D%80%E5%8D%83%E8%90%AC%E6%B6%88%E8%B2%BB%E5%88%B8-%E6%BB%BF-100%E6%B8%9B100-%E5%9B%9B%E6%8A%98%E6%90%B6%E5%88%B8%E6%95%99%E5%AD%B8",
+    "timestamp": "2026-03-28T19:06:19.691Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "運載12噸KitKat朱古力卡車歐洲失竊　或致復活節前夕商店供應短缺",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260328/1114548643215446016493726.jpeg/sfQUN39jLZ69wULGkbICIDQkX0cm5J-C3ihcNt4oXDY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60335104/%E6%9D%8E%E6%98%8C%E9%88%BA%E6%9B%BE%E8%A2%AB%E5%B0%8Fs%E5%95%8F%E6%80%8E%E9%BA%BC%E6%8A%93%E5%A4%96%E9%81%87-%E5%9B%9E-%E5%8F%AB%E8%A8%B1%E9%9B%85%E9%88%9E%E4%BE%86%E8%A6%8B%E6%88%912%E5%88%86%E9%90%98-%E9%80%811%E7%A5%9E%E5%99%A8",
     "timestamp": "2026-03-28T05:15:08.225Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "富蝶邨公屋戶食煙惹公審　鄰居貼大字報斥煙味飄出屋　法例這樣說",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260326/1113878550181580800987502.png/Z3MGE9DkqVCDsw10FyTciKA7puI3ZhHqY42bLWONmy0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60334326/%E5%AF%8C%E8%9D%B6%E9%82%A8%E5%85%AC%E5%B1%8B%E6%88%B6%E9%A3%9F%E7%85%99%E6%83%B9%E5%85%AC%E5%AF%A9-%E9%84%B0%E5%B1%85%E8%B2%BC%E5%A4%A7%E5%AD%97%E5%A0%B1%E6%96%A5%E7%85%99%E5%91%B3%E9%A3%84%E5%87%BA%E5%B1%8B-%E9%99%84%E6%B3%95%E4%BE%8B%E8%A6%8F%E5%AE%9A",
-    "timestamp": "2026-03-28T04:34:50.469Z",
     "strategy": ".content-card__main"
   }
 ];
