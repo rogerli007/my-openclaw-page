@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-28T15:36:25.028Z
+// Last updated: 2026-03-28T16:00:42.793Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "中環干諾道中3車相撞意外　涉及保時捷與兩輛的士　釀3人傷",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260328/1114710723470036992830467.jpeg/KmjZ1THCZhGnQsp48inKiTY-2vG8JTr-lzUvoJc1L6A?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60335223/%E4%B8%AD%E7%92%B0%E5%B9%B2%E8%AB%BE%E9%81%93%E4%B8%AD3%E8%BB%8A%E7%9B%B8%E6%92%9E%E6%84%8F%E5%A4%96-%E6%B6%89%E5%8F%8A%E4%BF%9D%E6%99%82%E6%8D%B7%E8%88%87%E5%85%A9%E8%BC%9B%E7%9A%84%E5%A3%AB-%E9%87%803%E4%BA%BA%E5%82%B7",
+    "timestamp": "2026-03-28T16:00:42.793Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "香港七人欖球賽下月啟德上演　紀念50周年特邀首屆隊長亮相開球禮",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260328/1114458418204119040463790.jpeg/2CYH4lMZWUjugAgoVr_t3C5oWAWgdUEgRQFreUUBa3k?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60335053/%E7%89%B9%E6%9C%97%E6%99%AE%E5%87%BA%E5%B8%AD%E6%8A%95%E8%B3%87%E5%80%A1%E8%AD%B0%E5%B3%B0%E6%9C%83-%E4%BC%8A%E6%9C%97%E6%87%87%E6%B1%82%E9%81%94%E6%88%90%E5%8D%94%E8%AD%B0-%E5%8F%A4%E5%B7%B4%E5%B0%87%E6%98%AF%E4%B8%8B%E4%B8%80%E7%9B%AE%E6%A8%99",
     "timestamp": "2026-03-27T23:48:50.416Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "高爾夫球名將老虎活士於佛州發生翻車事故　後因涉嫌酒駕被捕",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260328/1114438072235200512408297.jpeg/S2KUCZ4sE9sYHdtd4nD3uUBwtcQaZr-DwMS5vcDEub0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60335052/%E9%AB%98%E7%88%BE%E5%A4%AB%E7%90%83%E5%90%8D%E5%B0%87%E8%80%81%E8%99%8E%E6%B4%BB%E5%A3%AB%E6%96%BC%E4%BD%9B%E5%B7%9E%E7%99%BC%E7%94%9F%E7%BF%BB%E8%BB%8A%E4%BA%8B%E6%95%85-%E5%BE%8C%E5%9B%A0%E6%B6%89%E5%AB%8C%E9%85%92%E9%A7%95%E8%A2%AB%E6%8D%95",
-    "timestamp": "2026-03-27T22:17:51.533Z",
     "strategy": ".content-card__main"
   }
 ];
