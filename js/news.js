@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-28T06:41:34.707Z
+// Last updated: 2026-03-28T08:24:47.660Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "軟銀獲400億美元貸款　以加碼投資OpenAI｜人工智能",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20211109/534711324748288000956074.jpeg/ONoeZzPw6NxZYsRqBSy1tVYXi0AO4PzID0RbSw9EW0s?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60335155/%E8%BB%9F%E9%8A%80%E7%8D%B2400%E5%84%84%E7%BE%8E%E5%85%83%E8%B2%B8%E6%AC%BE-%E4%BB%A5%E5%8A%A0%E7%A2%BC%E6%8A%95%E8%B3%87openai-%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD",
+    "timestamp": "2026-03-28T08:24:47.660Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "李頴彰律師｜屯門七旬夫婦企跳的詰問：高齡照顧者為何瀕臨崩潰？",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260327/1114284518036475904831246.jpeg/vFjfu_hTUToKzu6O8YddEBoeZc9zdE5rDTGvHyQxrx8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60335000/%E4%B9%9D%E9%BE%8D%E5%A1%98%E7%AB%99%E9%97%96%E8%B7%AF%E8%BB%8C%E8%A7%B8%E9%9B%BB-%E7%B9%81%E5%BF%99%E6%99%82%E9%96%93-%E6%9C%89%E4%BA%BA%E8%BB%8A%E5%BB%82%E5%82%98%E6%93%8B%E5%B0%8F%E8%A7%A3-%E6%9C%89%E4%BA%BA%E6%8E%92%E9%9A%8A%E4%BB%86%E5%80%92",
     "timestamp": "2026-03-27T12:04:36.553Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "最多農藥蔬果2026｜菠菜第1 士多啤梨被2菜踢走！6菜最毒+清洗4招",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260327/1114282177471713280491680.png/ZXVwhGhAzvOA9AGiNGtIZFZrISGvMCnIH3Y0kh92NJI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60334857/%E6%9C%80%E5%A4%9A%E8%BE%B2%E8%97%A5%E8%94%AC%E6%9E%9C2026-%E8%8F%A0%E8%8F%9C%E7%AC%AC1-%E5%A3%AB%E5%A4%9A%E5%95%A4%E6%A2%A8%E8%A2%AB2%E8%8F%9C%E8%B8%A2%E8%B5%B0-6%E8%8F%9C%E6%9C%80%E6%AF%92-%E6%B8%85%E6%B4%974%E6%8B%9B",
-    "timestamp": "2026-03-27T11:36:17.607Z",
     "strategy": ".content-card__main"
   }
 ];
