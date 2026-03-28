@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-28T15:18:47.612Z
+// Last updated: 2026-03-28T15:36:25.028Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "香港七人欖球賽下月啟德上演　紀念50周年特邀首屆隊長亮相開球禮",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260328/1114679280891072512927315.jpeg/Ne5OOyEFj5aIuGN-Vr1Tw9HaQHKIDxfZaiJRFGoiURQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60335213/%E9%A6%99%E6%B8%AF%E4%B8%83%E4%BA%BA%E6%AC%96%E7%90%83%E8%B3%BD%E4%B8%8B%E6%9C%88%E5%95%9F%E5%BE%B7%E4%B8%8A%E6%BC%94-%E7%B4%80%E5%BF%B550%E5%91%A8%E5%B9%B4%E7%89%B9%E9%82%80%E9%A6%96%E5%B1%86%E9%9A%8A%E9%95%B7%E4%BA%AE%E7%9B%B8%E9%96%8B%E7%90%83%E7%A6%AE",
+    "timestamp": "2026-03-28T15:36:25.028Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "六合彩3.31頭獎$1500萬｜6個最旺號碼+2招增中獎機會+幸運投注站",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260328/1114438072235200512408297.jpeg/S2KUCZ4sE9sYHdtd4nD3uUBwtcQaZr-DwMS5vcDEub0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60335052/%E9%AB%98%E7%88%BE%E5%A4%AB%E7%90%83%E5%90%8D%E5%B0%87%E8%80%81%E8%99%8E%E6%B4%BB%E5%A3%AB%E6%96%BC%E4%BD%9B%E5%B7%9E%E7%99%BC%E7%94%9F%E7%BF%BB%E8%BB%8A%E4%BA%8B%E6%95%85-%E5%BE%8C%E5%9B%A0%E6%B6%89%E5%AB%8C%E9%85%92%E9%A7%95%E8%A2%AB%E6%8D%95",
     "timestamp": "2026-03-27T22:17:51.533Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "伊朗官員稱無法容忍美國「邊打邊談」　尚未決定是否回應停戰方案",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260327/1114031817687568384750294.jpeg/4C9e2z1n5wl02yLcw153Jh6iH0WIsXIlJtqsQCbarEA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60335051/%E4%BC%8A%E6%9C%97%E5%AE%98%E5%93%A1%E7%A8%B1%E7%84%A1%E6%B3%95%E5%AE%B9%E5%BF%8D%E7%BE%8E%E5%9C%8B-%E9%82%8A%E6%89%93%E9%82%8A%E8%AB%87-%E5%B0%9A%E6%9C%AA%E6%B1%BA%E5%AE%9A%E6%98%AF%E5%90%A6%E5%9B%9E%E6%87%89%E5%81%9C%E6%88%B0%E6%96%B9%E6%A1%88",
-    "timestamp": "2026-03-27T21:51:34.037Z",
     "strategy": ".content-card__main"
   }
 ];
