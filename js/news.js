@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-28T19:48:56.929Z
+// Last updated: 2026-03-28T20:18:20.861Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美國再爆No Kings示威　預計逾900萬人參加　明尼蘇達州將成焦點",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260329/1114766534443536384864075.jpeg/BDXkO1XTkFnyjm1hqT7Dj_51t7YL8V2ILZ-Ygy2fmIM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60335229/%E7%BE%8E%E5%9C%8B%E5%86%8D%E7%88%86no-kings%E7%A4%BA%E5%A8%81-%E9%A0%90%E8%A8%88%E9%80%BE900%E8%90%AC%E4%BA%BA%E5%8F%83%E5%8A%A0-%E6%98%8E%E5%B0%BC%E8%98%87%E9%81%94%E5%B7%9E%E5%B0%87%E6%88%90%E7%84%A6%E9%BB%9E",
+    "timestamp": "2026-03-28T20:18:20.861Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美國再爆No Kings示威　預計逾900萬人參加　明尼蘇達州將成焦點",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260328/1114604502402469888013697.jpeg/UIXHggXKcheuFbA_4xmBDAW-k8xuS-IiiWH8CIlh_Ag?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60335148/%E4%B9%9F%E9%96%80%E8%83%A1%E5%A1%9E%E6%AD%A6%E8%A3%9D%E5%90%91%E4%BB%A5%E8%89%B2%E5%88%97%E5%B0%84%E5%BD%88-%E8%87%AA%E4%BC%8A%E6%9C%97%E6%88%B0%E7%88%AD%E4%BB%A5%E4%BE%86%E9%A6%96%E6%AC%A1-%E5%BC%95%E8%A1%9D%E7%AA%81%E6%93%B4%E5%A4%A7%E6%93%94%E6%86%82",
     "timestamp": "2026-03-28T08:52:58.989Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "軟銀獲400億美元貸款　以加碼投資OpenAI｜人工智能",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20211109/534711324748288000956074.jpeg/ONoeZzPw6NxZYsRqBSy1tVYXi0AO4PzID0RbSw9EW0s?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60335155/%E8%BB%9F%E9%8A%80%E7%8D%B2400%E5%84%84%E7%BE%8E%E5%85%83%E8%B2%B8%E6%AC%BE-%E4%BB%A5%E5%8A%A0%E7%A2%BC%E6%8A%95%E8%B3%87openai-%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD",
-    "timestamp": "2026-03-28T08:24:47.660Z",
     "strategy": ".content-card__main"
   }
 ];
