@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-28T19:06:19.691Z
+// Last updated: 2026-03-28T19:31:52.585Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "WeChat Pay派深圳南山區千萬消費券！滿$100減100！四折搶券教學",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260329/1114750524210548736274953.jpeg/busyShiIfzZv6AW1npPtzwPanSqIKRw5PI2nSDyNp0g?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%97%85%E9%81%8A/60335227/wechat-pay%E6%B4%BE%E6%B7%B1%E5%9C%B3%E5%8D%97%E5%B1%B1%E5%8D%80%E5%8D%83%E8%90%AC%E6%B6%88%E8%B2%BB%E5%88%B8-%E6%BB%BF-100%E6%B8%9B100-%E5%9B%9B%E6%8A%98%E6%90%B6%E5%88%B8%E6%95%99%E5%AD%B8",
+    "timestamp": "2026-03-28T19:31:52.585Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "WeChat Pay派深圳南山區千萬消費券！滿$100減100！四折搶券教學",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260328/1114569801193230336274591.jpeg/OIunB--B-EbOPenCtBj3E0l0aG3UwhbesGOvGbBjrxk?v=w1920r16_9",
     "url": "https://www.hk01.com/01%E5%B0%88%E6%AC%84/60334961/%E6%9D%8E%E9%A0%B4%E5%BD%B0%E5%BE%8B%E5%B8%AB-%E5%B1%AF%E9%96%80%E4%B8%83%E6%97%AC%E5%A4%AB%E5%A9%A6%E4%BC%81%E8%B7%B3%E7%9A%84%E8%A9%B0%E5%95%8F-%E9%AB%98%E9%BD%A1%E7%85%A7%E9%A1%A7%E8%80%85%E7%82%BA%E4%BD%95%E7%80%95%E8%87%A8%E5%B4%A9%E6%BD%B0",
     "timestamp": "2026-03-28T06:41:34.707Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "李昌鈺曾被小S問怎麼抓外遇　回「叫許雅鈞來見我2分鐘」送1神器",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260328/1114548643215446016493726.jpeg/sfQUN39jLZ69wULGkbICIDQkX0cm5J-C3ihcNt4oXDY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60335104/%E6%9D%8E%E6%98%8C%E9%88%BA%E6%9B%BE%E8%A2%AB%E5%B0%8Fs%E5%95%8F%E6%80%8E%E9%BA%BC%E6%8A%93%E5%A4%96%E9%81%87-%E5%9B%9E-%E5%8F%AB%E8%A8%B1%E9%9B%85%E9%88%9E%E4%BE%86%E8%A6%8B%E6%88%912%E5%88%86%E9%90%98-%E9%80%811%E7%A5%9E%E5%99%A8",
-    "timestamp": "2026-03-28T05:15:08.225Z",
     "strategy": ".content-card__main"
   }
 ];
