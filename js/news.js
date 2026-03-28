@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-28T10:18:45.915Z
+// Last updated: 2026-03-28T11:02:35.618Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "臥底嬌娃｜蘇嘉盈死亡真相超展開　李海銅演繹Overdose狀態極專業",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260328/1114569773405966336301286.jpeg/qQ6cA9IrU8-8U6RA3-rDNww8r3qKv38h4HtJ6OB7Seg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60335112/%E8%87%A5%E5%BA%95%E5%AC%8C%E5%A8%83-%E8%98%87%E5%98%89%E7%9B%88%E6%AD%BB%E4%BA%A1%E7%9C%9F%E7%9B%B8%E8%B6%85%E5%B1%95%E9%96%8B-%E6%9D%8E%E6%B5%B7%E9%8A%85%E6%BC%94%E7%B9%B9overdose%E7%8B%80%E6%85%8B%E6%A5%B5%E5%B0%88%E6%A5%AD",
+    "timestamp": "2026-03-28T11:02:35.618Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "狸想奇兵｜彼思製作超細緻　動物冷知識全數吻合角色設計",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260327/1114273002595291136417035.jpeg/2R6-FDrPXX5ITvjfiHbGY3Gpj8LrVtvQxg4MLMYODCw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60334272/xiaomi-pad-8-pro%E6%B7%B1%E5%BA%A6%E8%A9%95%E6%B8%AC-%E9%AB%98%E6%80%A7%E8%83%BD%E5%B9%B3%E6%9D%BF%E9%85%8D3-2k%E8%AD%B7%E7%9C%BC%E5%B1%8F%E5%A8%9B%E6%A8%82%E5%B7%A5%E4%BD%9C%E9%9B%99%E4%BF%AE",
     "timestamp": "2026-03-27T16:09:41.797Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "落選港姐李清心宣布懷第二胎　懷孕初期下體持續出血畫面驚嚇",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260327/1114338027980722176807394.jpeg/PjFKeyKfwUK6ZVn0AbDE6XMOUF14GfIzEpvqOxKb6js?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60335035/%E8%90%BD%E9%81%B8%E6%B8%AF%E5%A7%90%E6%9D%8E%E6%B8%85%E5%BF%83%E5%AE%A3%E5%B8%83%E6%87%B7%E7%AC%AC%E4%BA%8C%E8%83%8E-%E6%87%B7%E5%AD%95%E5%88%9D%E6%9C%9F%E4%B8%8B%E9%AB%94%E6%8C%81%E7%BA%8C%E5%87%BA%E8%A1%80%E7%95%AB%E9%9D%A2%E9%A9%9A%E5%9A%87",
-    "timestamp": "2026-03-27T15:38:42.337Z",
     "strategy": ".content-card__main"
   }
 ];
