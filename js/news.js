@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-28T08:24:47.660Z
+// Last updated: 2026-03-28T08:52:58.989Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "也門胡塞武裝向以色列射彈　自伊朗戰爭以來首次　引衝突擴大擔憂",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260328/1114604502402469888013697.jpeg/UIXHggXKcheuFbA_4xmBDAW-k8xuS-IiiWH8CIlh_Ag?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60335148/%E4%B9%9F%E9%96%80%E8%83%A1%E5%A1%9E%E6%AD%A6%E8%A3%9D%E5%90%91%E4%BB%A5%E8%89%B2%E5%88%97%E5%B0%84%E5%BD%88-%E8%87%AA%E4%BC%8A%E6%9C%97%E6%88%B0%E7%88%AD%E4%BB%A5%E4%BE%86%E9%A6%96%E6%AC%A1-%E5%BC%95%E8%A1%9D%E7%AA%81%E6%93%B4%E5%A4%A7%E6%93%94%E6%86%82",
+    "timestamp": "2026-03-28T08:52:58.989Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "軟銀獲400億美元貸款　以加碼投資OpenAI｜人工智能",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260327/1114297567685906432285903.jpeg/mA8Wrgp4tJ1FuNek91G1Wea_wMvyvRCVYVqf7GFan-w?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60335015/%E6%9D%B1%E5%BC%B5%E8%A5%BF%E6%9C%9B-%E6%A5%8A%E5%A9%86%E5%A9%86%E5%A0%86%E5%9E%83%E5%9C%BE%E9%9C%B8%E8%B6%B3%E5%8D%81%E5%B9%B4-%E7%8E%A9%E8%AC%9D%E9%84%B0%E5%B1%85%E5%AE%B6%E4%BA%BA%E5%8F%AB%E5%9B%82-%E5%BE%8C%E6%9E%9C%E8%87%AA%E8%B2%A0",
     "timestamp": "2026-03-27T12:56:40.027Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "九龍塘站闖路軌觸電｜繁忙時間　有人車廂傘擋小解　有人排隊仆倒",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260327/1114284518036475904831246.jpeg/vFjfu_hTUToKzu6O8YddEBoeZc9zdE5rDTGvHyQxrx8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60335000/%E4%B9%9D%E9%BE%8D%E5%A1%98%E7%AB%99%E9%97%96%E8%B7%AF%E8%BB%8C%E8%A7%B8%E9%9B%BB-%E7%B9%81%E5%BF%99%E6%99%82%E9%96%93-%E6%9C%89%E4%BA%BA%E8%BB%8A%E5%BB%82%E5%82%98%E6%93%8B%E5%B0%8F%E8%A7%A3-%E6%9C%89%E4%BA%BA%E6%8E%92%E9%9A%8A%E4%BB%86%E5%80%92",
-    "timestamp": "2026-03-27T12:04:36.553Z",
     "strategy": ".content-card__main"
   }
 ];
