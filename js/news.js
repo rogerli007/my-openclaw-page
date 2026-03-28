@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-28T00:02:01.202Z
+// Last updated: 2026-03-28T01:44:09.445Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "珍惜生命︱上環商廈男子墮樓　當場不治",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260328/1114494121550024704057683.jpeg/62cGBL0LV4xY42JfAFTySHw83kEgq3dr9uZvZ_bmb2c?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60335062/%E7%8F%8D%E6%83%9C%E7%94%9F%E5%91%BD-%E4%B8%8A%E7%92%B0%E5%95%86%E5%BB%88%E7%94%B7%E5%AD%90%E5%A2%AE%E6%A8%93-%E7%95%B6%E5%A0%B4%E4%B8%8D%E6%B2%BB",
+    "timestamp": "2026-03-28T01:44:09.445Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "同程旅行邁向高質量增長　凸顯中長線配置價值｜聶振邦",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260327/1114235388530003968482165.jpeg/Lu5QQi50SGtMxe3-I14QFdOo_L-iBY1ubxbu228W7ts?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60328640/%E9%A3%B2%E6%B0%B4%E9%80%9A%E4%BE%BF-%E6%99%A8%E8%B5%B71%E6%9D%AF%E6%B0%B4%E6%8F%90%E7%A5%9E%E6%8E%92%E4%BE%BF-%E7%87%9F%E9%A4%8A%E5%B8%AB-%E6%B0%B4%E9%87%8F%E6%98%AF%E9%97%9C%E9%8D%B5-2%E9%A1%9E%E4%BA%BA%E8%A6%81%E9%99%90%E6%B0%B4",
     "timestamp": "2026-03-27T09:11:07.126Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "減肥｜不吃早餐瘦更快？營養師揭8大誤區：這時間吃第一餐減脂快",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260317/1110624808300711936829746.png/-dgM6vbgH7nNcffnP0h5j_Yy3CJmf_Vixj0R8bw9EfE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60331385/%E6%B8%9B%E8%82%A5-%E4%B8%8D%E5%90%83%E6%97%A9%E9%A4%90%E7%98%A6%E6%9B%B4%E5%BF%AB-%E7%87%9F%E9%A4%8A%E5%B8%AB%E6%8F%AD8%E5%A4%A7%E8%AA%A4%E5%8D%80-%E9%80%99%E6%99%82%E9%96%93%E5%90%83%E7%AC%AC%E4%B8%80%E9%A4%90%E6%B8%9B%E8%84%82%E5%BF%AB",
-    "timestamp": "2026-03-27T08:11:48.460Z",
     "strategy": ".content-card__main"
   }
 ];
