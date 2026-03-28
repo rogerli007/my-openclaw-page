@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-28T11:02:35.618Z
+// Last updated: 2026-03-28T11:35:11.723Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "90後女生撕「醜女孩」標籤變棟篤笑女王：昨天的痛苦是明天的笑話",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260313/1109098402467024896132689.png/vP7jF2Z8M_-HB2NWGF9lGa1_xQX6zWAgpzaqv6c2qr8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%9F%A5%E6%80%A7%E5%A5%B3%E7%94%9F/60329938/90%E5%BE%8C%E5%A5%B3%E7%94%9F%E6%92%95-%E9%86%9C%E5%A5%B3%E5%AD%A9-%E6%A8%99%E7%B1%A4%E8%AE%8A%E6%A3%9F%E7%AF%A4%E7%AC%91%E5%A5%B3%E7%8E%8B-%E6%98%A8%E5%A4%A9%E7%9A%84%E7%97%9B%E8%8B%A6%E6%98%AF%E6%98%8E%E5%A4%A9%E7%9A%84%E7%AC%91%E8%A9%B1",
+    "timestamp": "2026-03-28T11:35:11.723Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "臥底嬌娃｜蘇嘉盈死亡真相超展開　李海銅演繹Overdose狀態極專業",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260328/1114357386811805696620189.jpeg/t_tqWFhoegQ2Z5Mcf1P_TJKYYSEFx22ZiiqBiYoqgYk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60335042/%E8%AD%A6%E8%8D%83%E7%81%A3%E5%A4%A7%E6%B2%B3%E9%81%93%E6%8E%83%E9%BB%83-%E6%8B%985%E5%A5%B3%E5%AD%90%E6%B6%89%E7%AE%A1%E7%90%86%E8%B3%A3%E6%B7%AB%E5%A0%B4%E6%89%80-%E9%81%95%E5%8F%8D%E9%80%97%E7%95%99%E6%A2%9D%E4%BB%B6%E7%AD%89%E7%BD%AA",
     "timestamp": "2026-03-27T17:44:41.382Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "Xiaomi Pad 8 Pro深度評測｜高性能平板配3.2K護眼屏娛樂工作雙修",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260327/1114273002595291136417035.jpeg/2R6-FDrPXX5ITvjfiHbGY3Gpj8LrVtvQxg4MLMYODCw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60334272/xiaomi-pad-8-pro%E6%B7%B1%E5%BA%A6%E8%A9%95%E6%B8%AC-%E9%AB%98%E6%80%A7%E8%83%BD%E5%B9%B3%E6%9D%BF%E9%85%8D3-2k%E8%AD%B7%E7%9C%BC%E5%B1%8F%E5%A8%9B%E6%A8%82%E5%B7%A5%E4%BD%9C%E9%9B%99%E4%BF%AE",
-    "timestamp": "2026-03-27T16:09:41.797Z",
     "strategy": ".content-card__main"
   }
 ];
