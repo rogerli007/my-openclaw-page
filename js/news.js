@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-28T08:52:58.989Z
+// Last updated: 2026-03-28T09:21:25.050Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "MLB｜一生只效力一間球會　最忠誠的王牌左投　新身份續貢獻道奇",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260328/1114609661048262656590683.jpeg/c6kzdbDyADyxvt76V3HF-t3P2Nwmb-6oMl-kKjJfpCo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60335162/mlb-%E4%B8%80%E7%94%9F%E5%8F%AA%E6%95%88%E5%8A%9B%E4%B8%80%E9%96%93%E7%90%83%E6%9C%83-%E6%9C%80%E5%BF%A0%E8%AA%A0%E7%9A%84%E7%8E%8B%E7%89%8C%E5%B7%A6%E6%8A%95-%E6%96%B0%E8%BA%AB%E4%BB%BD%E7%BA%8C%E8%B2%A2%E7%8D%BB%E9%81%93%E5%A5%87",
+    "timestamp": "2026-03-28T09:21:25.050Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "也門胡塞武裝向以色列射彈　自伊朗戰爭以來首次　引衝突擴大擔憂",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260327/1114142187571908608852971.png/EHMY22w3qRzlbkRK6yyupBkU6AyZ0nBOqrfFM6q3xTM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60334714/%E9%86%AB%E5%95%B2%E9%98%BF%E5%AA%BD%E9%83%BD%E5%94%94%E7%9F%A5-%E9%84%92%E9%87%8D%E7%92%82%E8%A7%A3%E6%A7%8B%E9%AB%98%E8%A1%80%E5%A3%93-%E9%99%B8%E6%B0%B8%E8%87%AA%E7%88%86%E6%9B%BE%E8%A2%AB%E6%AF%8D%E8%A6%AA%E6%89%93%E7%88%86%E9%9B%BB%E8%A9%B1",
     "timestamp": "2026-03-27T15:12:28.756Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "東張西望｜楊婆婆堆垃圾霸足十年　玩謝鄰居家人叫囂：後果自負！",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260327/1114297567685906432285903.jpeg/mA8Wrgp4tJ1FuNek91G1Wea_wMvyvRCVYVqf7GFan-w?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60335015/%E6%9D%B1%E5%BC%B5%E8%A5%BF%E6%9C%9B-%E6%A5%8A%E5%A9%86%E5%A9%86%E5%A0%86%E5%9E%83%E5%9C%BE%E9%9C%B8%E8%B6%B3%E5%8D%81%E5%B9%B4-%E7%8E%A9%E8%AC%9D%E9%84%B0%E5%B1%85%E5%AE%B6%E4%BA%BA%E5%8F%AB%E5%9B%82-%E5%BE%8C%E6%9E%9C%E8%87%AA%E8%B2%A0",
-    "timestamp": "2026-03-27T12:56:40.027Z",
     "strategy": ".content-card__main"
   }
 ];
