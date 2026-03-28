@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-28T17:59:44.187Z
+// Last updated: 2026-03-28T18:37:35.826Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "運載12噸KitKat朱古力卡車歐洲失竊　或致復活節前夕商店供應短缺",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260329/1114736537712463872018936.jpeg/AYin8B6EIACO8Smc_-XNXBX9G56YEG8vXBXr51wV6-c?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60335226/%E9%81%8B%E8%BC%8912%E5%99%B8kitkat%E6%9C%B1%E5%8F%A4%E5%8A%9B%E5%8D%A1%E8%BB%8A%E6%AD%90%E6%B4%B2%E5%A4%B1%E7%AB%8A-%E6%88%96%E8%87%B4%E5%BE%A9%E6%B4%BB%E7%AF%80%E5%89%8D%E5%A4%95%E5%95%86%E5%BA%97%E4%BE%9B%E6%87%89%E7%9F%AD%E7%BC%BA",
+    "timestamp": "2026-03-28T18:37:35.826Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "法國警方制止巴黎美國銀行外炸彈襲擊　男子試圖引爆裝置時被捕",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260326/1113878550181580800987502.png/Z3MGE9DkqVCDsw10FyTciKA7puI3ZhHqY42bLWONmy0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60334326/%E5%AF%8C%E8%9D%B6%E9%82%A8%E5%85%AC%E5%B1%8B%E6%88%B6%E9%A3%9F%E7%85%99%E6%83%B9%E5%85%AC%E5%AF%A9-%E9%84%B0%E5%B1%85%E8%B2%BC%E5%A4%A7%E5%AD%97%E5%A0%B1%E6%96%A5%E7%85%99%E5%91%B3%E9%A3%84%E5%87%BA%E5%B1%8B-%E9%99%84%E6%B3%95%E4%BE%8B%E8%A6%8F%E5%AE%9A",
     "timestamp": "2026-03-28T04:34:50.469Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "麗新發展中期經調整虧損4億元　不派息　EBITDA為3.8億元",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250801/1028007065408507904034716.jpeg/ZkXZGEAt7fTMv35lRwNXrH-j35mXYMvAJGLBOiRiwTo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60335075/%E9%BA%97%E6%96%B0%E7%99%BC%E5%B1%95%E4%B8%AD%E6%9C%9F%E7%B6%93%E8%AA%BF%E6%95%B4%E8%99%A7%E6%90%8D4%E5%84%84%E5%85%83-%E4%B8%8D%E6%B4%BE%E6%81%AF-ebitda%E7%82%BA3-8%E5%84%84%E5%85%83",
-    "timestamp": "2026-03-28T02:44:32.818Z",
     "strategy": ".content-card__main"
   }
 ];
