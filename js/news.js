@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-28T22:51:21.022Z
+// Last updated: 2026-03-28T23:34:24.533Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "有片｜大學教授課堂誤播AV！學生起哄提醒　飛奔關影片後續更尷尬",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260326/1113831711252156416296175.jpeg/kAyRUVMWQVCug_NteY9pE4Z8nqkYwfgjVpG1N1aRtTc",
+    "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E8%A9%B1%E9%A1%8C/60334416/%E6%9C%89%E7%89%87-%E5%A4%A7%E5%AD%B8%E6%95%99%E6%8E%88%E8%AA%B2%E5%A0%82%E8%AA%A4%E6%92%ADav-%E9%A3%9B%E5%A5%94%E9%97%9C%E5%BD%B1%E7%89%87-%E6%84%8F%E5%A4%96%E6%9B%9D-%E5%85%A8%E5%AE%B6%E7%A6%8F-%E6%9B%B4%E5%B0%B7%E5%B0%AC",
+    "timestamp": "2026-03-28T23:34:24.533Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "萬斯成保守派政治行動大會首選2028共和黨總統人選　魯比奧列第二",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260327/1114155494701797376042893.png/J9rZJcvSGgIqPzlPUaqUjk2aXHomVkSN7baGne22hp0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E5%A8%9B%E6%A8%82/60334754/%E8%B6%85%E6%96%B0%E6%98%9F%E5%A5%B3%E5%84%AA%E7%A6%8F%E7%94%B0%E3%82%86%E3%81%82%E5%A4%A7%E6%96%B9%E8%87%AA%E6%8F%AD%E4%B8%8B%E6%B5%B7%E5%85%A8%E5%AE%B6%E9%83%BD%E7%9F%A5-%E6%89%AEcool%E6%99%82%E6%9C%83%E8%AA%AA%E6%98%AF%E5%B7%A5%E7%A8%8B%E5%B8%AB",
     "timestamp": "2026-03-28T14:37:44.791Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "將軍澳唐俊街P牌Tesla剷行人路　撞冧兩防撞柱",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260328/1114682771025956864926013.jpeg/7Eg1784ZQ5p8jjrnMhI5xFIDwnIT8RLksaMYV7GjGFc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60335214/%E5%B0%87%E8%BB%8D%E6%BE%B3%E5%94%90%E4%BF%8A%E8%A1%97p%E7%89%8Ctesla%E5%89%B7%E8%A1%8C%E4%BA%BA%E8%B7%AF-%E6%92%9E%E5%86%A7%E5%85%A9%E9%98%B2%E6%92%9E%E6%9F%B1",
-    "timestamp": "2026-03-28T14:20:03.974Z",
     "strategy": ".content-card__main"
   }
 ];
