@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-28T20:18:20.861Z
+// Last updated: 2026-03-28T21:00:44.643Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "伊朗戰爭｜美軍兩棲攻擊艦「的黎波里號」抵中東　增派約3500人",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260324/1113062677199982592840621.jpeg/Og7I2LKeT0SjiM8KUJYwwhyYWp5kWafYSp8vDEqfLww?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60335230/%E4%BC%8A%E6%9C%97%E6%88%B0%E7%88%AD-%E7%BE%8E%E8%BB%8D%E5%85%A9%E6%A3%B2%E6%94%BB%E6%93%8A%E8%89%A6-%E7%9A%84%E9%BB%8E%E6%B3%A2%E9%87%8C%E8%99%9F-%E6%8A%B5%E4%B8%AD%E6%9D%B1-%E5%A2%9E%E6%B4%BE%E7%B4%843500%E4%BA%BA",
+    "timestamp": "2026-03-28T21:00:44.643Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美國再爆No Kings示威　預計逾900萬人參加　明尼蘇達州將成焦點",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260328/1114609661048262656590683.jpeg/c6kzdbDyADyxvt76V3HF-t3P2Nwmb-6oMl-kKjJfpCo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60335162/mlb-%E4%B8%80%E7%94%9F%E5%8F%AA%E6%95%88%E5%8A%9B%E4%B8%80%E9%96%93%E7%90%83%E6%9C%83-%E6%9C%80%E5%BF%A0%E8%AA%A0%E7%9A%84%E7%8E%8B%E7%89%8C%E5%B7%A6%E6%8A%95-%E6%96%B0%E8%BA%AB%E4%BB%BD%E7%BA%8C%E8%B2%A2%E7%8D%BB%E9%81%93%E5%A5%87",
     "timestamp": "2026-03-28T09:21:25.050Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "也門胡塞武裝向以色列射彈　自伊朗戰爭以來首次　引衝突擴大擔憂",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260328/1114604502402469888013697.jpeg/UIXHggXKcheuFbA_4xmBDAW-k8xuS-IiiWH8CIlh_Ag?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60335148/%E4%B9%9F%E9%96%80%E8%83%A1%E5%A1%9E%E6%AD%A6%E8%A3%9D%E5%90%91%E4%BB%A5%E8%89%B2%E5%88%97%E5%B0%84%E5%BD%88-%E8%87%AA%E4%BC%8A%E6%9C%97%E6%88%B0%E7%88%AD%E4%BB%A5%E4%BE%86%E9%A6%96%E6%AC%A1-%E5%BC%95%E8%A1%9D%E7%AA%81%E6%93%B4%E5%A4%A7%E6%93%94%E6%86%82",
-    "timestamp": "2026-03-28T08:52:58.989Z",
     "strategy": ".content-card__main"
   }
 ];
