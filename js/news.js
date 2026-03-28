@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-28T14:20:03.974Z
+// Last updated: 2026-03-28T14:37:44.791Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "超新星女優福田ゆあ大方自揭下海全家都知：扮cool時會說是工程師",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260327/1114155494701797376042893.png/J9rZJcvSGgIqPzlPUaqUjk2aXHomVkSN7baGne22hp0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E5%A8%9B%E6%A8%82/60334754/%E8%B6%85%E6%96%B0%E6%98%9F%E5%A5%B3%E5%84%AA%E7%A6%8F%E7%94%B0%E3%82%86%E3%81%82%E5%A4%A7%E6%96%B9%E8%87%AA%E6%8F%AD%E4%B8%8B%E6%B5%B7%E5%85%A8%E5%AE%B6%E9%83%BD%E7%9F%A5-%E6%89%AEcool%E6%99%82%E6%9C%83%E8%AA%AA%E6%98%AF%E5%B7%A5%E7%A8%8B%E5%B8%AB",
+    "timestamp": "2026-03-28T14:37:44.791Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "將軍澳唐俊街P牌Tesla剷行人路　撞冧兩防撞柱",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20230207/699661088559468544285490.jpeg/OQTFzxbhIuEq3xC5bbn8ZrOstRP3_Aqu2nmn19p5p9c?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60335047/%E4%BF%84%E7%BE%85%E6%96%AF%E6%93%AC4%E6%9C%881%E6%97%A5%E8%B5%B7%E7%A6%81%E6%AD%A2%E5%87%BA%E5%8F%A3%E6%B1%BD%E6%B2%B9-%E4%BB%A5%E6%87%89%E5%B0%8D%E7%87%83%E6%96%99%E5%83%B9%E6%A0%BC%E4%B8%8A%E6%BC%B2",
     "timestamp": "2026-03-27T20:22:08.196Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "俄羅斯擬4月1日起禁止出口汽油　以應對燃料價格上漲",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20230207/699661088559468544285490.jpeg/OQTFzxbhIuEq3xC5bbn8ZrOstRP3_Aqu2nmn19p5p9c?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60335047/%E4%BF%84%E7%BE%85%E6%96%AF%E6%93%AC4%E6%9C%881%E6%97%A5%E8%B5%B7%E7%A6%81%E6%AD%A2%E5%87%BA%E5%8F%A3%E6%B1%BD%E6%B2%B9-%E4%BB%A5%E6%87%89%E5%B0%8D%E7%87%83%E6%96%99%E5%83%B9%E6%A0%BC%E4%B8%8A%E6%BC%B2",
-    "timestamp": "2026-03-27T20:01:42.839Z",
     "strategy": ".content-card__main"
   }
 ];
