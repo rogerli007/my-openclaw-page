@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-28T05:15:08.225Z
+// Last updated: 2026-03-28T06:41:34.707Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "李頴彰律師｜屯門七旬夫婦企跳的詰問：高齡照顧者為何瀕臨崩潰？",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260328/1114569801193230336274591.jpeg/OIunB--B-EbOPenCtBj3E0l0aG3UwhbesGOvGbBjrxk?v=w1920r16_9",
+    "url": "https://www.hk01.com/01%E5%B0%88%E6%AC%84/60334961/%E6%9D%8E%E9%A0%B4%E5%BD%B0%E5%BE%8B%E5%B8%AB-%E5%B1%AF%E9%96%80%E4%B8%83%E6%97%AC%E5%A4%AB%E5%A9%A6%E4%BC%81%E8%B7%B3%E7%9A%84%E8%A9%B0%E5%95%8F-%E9%AB%98%E9%BD%A1%E7%85%A7%E9%A1%A7%E8%80%85%E7%82%BA%E4%BD%95%E7%80%95%E8%87%A8%E5%B4%A9%E6%BD%B0",
+    "timestamp": "2026-03-28T06:41:34.707Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "李昌鈺曾被小S問怎麼抓外遇　回「叫許雅鈞來見我2分鐘」送1神器",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260327/1114282177471713280491680.png/ZXVwhGhAzvOA9AGiNGtIZFZrISGvMCnIH3Y0kh92NJI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60334857/%E6%9C%80%E5%A4%9A%E8%BE%B2%E8%97%A5%E8%94%AC%E6%9E%9C2026-%E8%8F%A0%E8%8F%9C%E7%AC%AC1-%E5%A3%AB%E5%A4%9A%E5%95%A4%E6%A2%A8%E8%A2%AB2%E8%8F%9C%E8%B8%A2%E8%B5%B0-6%E8%8F%9C%E6%9C%80%E6%AF%92-%E6%B8%85%E6%B4%974%E6%8B%9B",
     "timestamp": "2026-03-27T11:36:17.607Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "舊公屋優點多！獲派40年元朗舊邨宜親身視察　環境幾靚仔：勿秒拒",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260327/1114246227274240000165048.jpeg/rNXbHF7I-Se-C3V5IjkVjpnqN7ADlmQaDnFhBA5xYQQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60334743/%E5%85%AC%E5%B1%8B%E8%BC%AA%E5%80%99-%E7%8D%B2%E6%B4%BE-40-%E5%B9%B4%E6%9C%97%E5%B1%8F%E9%82%A8%E6%87%89%E5%90%A6%E6%8E%A5%E5%8F%97-%E7%B6%B2%E6%B0%91%E5%88%86%E4%BA%AB-3-%E5%A4%A7%E5%84%AA%E5%8B%A2%E5%8B%9D%E6%96%B0%E6%A8%93",
-    "timestamp": "2026-03-27T11:10:12.431Z",
     "strategy": ".content-card__main"
   }
 ];
