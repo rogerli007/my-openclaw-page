@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-28T14:37:44.791Z
+// Last updated: 2026-03-28T15:02:11.584Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "阿Mo李啟言分享「開」電動輪椅進度　進退自如進步極大",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260328/1114695456258002944689054.jpeg/S09nLIKahISRhUHY0yOUJEnt2HO1wevacv61DHL-tQw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60335209/%E9%98%BFmo%E6%9D%8E%E5%95%9F%E8%A8%80%E5%88%86%E4%BA%AB-%E9%96%8B-%E9%9B%BB%E5%8B%95%E8%BC%AA%E6%A4%85%E9%80%B2%E5%BA%A6-%E9%80%B2%E9%80%80%E8%87%AA%E5%A6%82%E9%80%B2%E6%AD%A5%E6%A5%B5%E5%A4%A7",
+    "timestamp": "2026-03-28T15:02:11.584Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "超新星女優福田ゆあ大方自揭下海全家都知：扮cool時會說是工程師",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260328/1114407205542563840051384.jpeg/Pz5ToIk5qzPq8fYT1FcOy0EeG0BoTUWTQwkM00MJDNM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60335050/%E7%BE%8E%E5%9C%8B%E5%9C%9F%E5%AE%89%E5%85%A8%E9%83%A8%E7%A8%B1%E6%A9%9F%E5%A0%B4%E5%93%A1%E5%B7%A5%E6%9C%80%E5%BF%AB%E4%B8%8B%E5%91%A8%E4%B8%80%E5%87%BA%E7%B3%A7-%E5%AE%89%E6%AA%A2%E4%BA%BA%E6%89%8B%E7%BC%BA%E5%8B%A4%E7%8E%87%E5%B7%B2%E5%89%B5%E6%96%B0%E9%AB%98",
     "timestamp": "2026-03-27T21:20:32.252Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "俄羅斯擬4月1日起禁止出口汽油　以應對燃料價格上漲",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20230207/699661088559468544285490.jpeg/OQTFzxbhIuEq3xC5bbn8ZrOstRP3_Aqu2nmn19p5p9c?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60335047/%E4%BF%84%E7%BE%85%E6%96%AF%E6%93%AC4%E6%9C%881%E6%97%A5%E8%B5%B7%E7%A6%81%E6%AD%A2%E5%87%BA%E5%8F%A3%E6%B1%BD%E6%B2%B9-%E4%BB%A5%E6%87%89%E5%B0%8D%E7%87%83%E6%96%99%E5%83%B9%E6%A0%BC%E4%B8%8A%E6%BC%B2",
-    "timestamp": "2026-03-27T20:22:08.196Z",
     "strategy": ".content-card__main"
   }
 ];
