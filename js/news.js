@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-29T20:42:17.619Z
+// Last updated: 2026-03-29T21:02:06.597Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "伊朗戰爭｜巴基斯坦外長：很快會主持美伊會談",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260330/1115141373457076224207461.jpeg/1uKzM8te-HukC_Yj8zDtKMFGlCtEOxIkogVbg6IFW4M?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60335395/%E4%BC%8A%E6%9C%97%E6%88%B0%E7%88%AD-%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E5%A4%96%E9%95%B7-%E5%BE%88%E5%BF%AB%E6%9C%83%E4%B8%BB%E6%8C%81%E7%BE%8E%E4%BC%8A%E6%9C%83%E8%AB%87",
+    "timestamp": "2026-03-29T21:02:06.597Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "伊朗戰爭｜巴基斯坦外長：很快會主持美伊會談",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260308/1107324382474276864805174.jpeg/hurXTQaUacRs9lmg7B4f78rSp_ZjWRYflRwPvZUcD70?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60335273/%E7%A9%8D%E9%87%91%E5%B1%80%E6%93%AC%E8%A8%AD%E7%AC%AC%E4%BA%8C%E7%B4%9A%E6%AC%A0%E4%BE%9B%E5%BC%B7%E7%A9%8D%E9%87%91%E9%99%84%E5%8A%A0%E8%B2%BB-%E7%9B%AE%E6%A8%99%E5%B9%B4%E4%B8%AD%E6%8F%90%E4%BA%A4%E5%BB%BA%E8%AD%B0",
     "timestamp": "2026-03-29T06:16:05.850Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "湖南城鐵站投資1.25億　日均乘客為個位數　開通5年後停運惹議",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260329/1114899373688360960936251.png/pwGV0Zr2dQGSTjphhMMzACekFRLvZATI47U3vuO1N74?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60335255/%E6%B9%96%E5%8D%97%E5%9F%8E%E9%90%B5%E7%AB%99%E6%8A%95%E8%B3%871-25%E5%84%84-%E6%97%A5%E5%9D%87%E4%B9%98%E5%AE%A2%E7%82%BA%E5%80%8B%E4%BD%8D%E6%95%B8-%E9%96%8B%E9%80%9A5%E5%B9%B4%E5%BE%8C%E5%81%9C%E9%81%8B%E6%83%B9%E8%AD%B0",
-    "timestamp": "2026-03-29T05:03:30.351Z",
     "strategy": ".content-card__main"
   }
 ];
