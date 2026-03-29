@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-29T11:20:54.451Z
+// Last updated: 2026-03-29T11:37:08.325Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "有片｜屯門小童坐大腿駕私家車　雙手不斷扭軚　網民斥：離晒譜",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260329/1114995754126020608768395.jpeg/H1Z9IA6kXCXqV7HjjXzt-t1uBsl3YFDm9IRF3vSERd4?v=w1920",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60335336/%E6%9C%89%E7%89%87-%E5%B1%AF%E9%96%80%E5%B0%8F%E7%AB%A5%E5%9D%90%E5%A4%A7%E8%85%BF%E9%A7%95%E7%A7%81%E5%AE%B6%E8%BB%8A-%E9%9B%99%E6%89%8B%E4%B8%8D%E6%96%B7%E6%89%AD%E8%BB%9A-%E7%B6%B2%E6%B0%91%E6%96%A5-%E9%9B%A2%E6%99%92%E8%AD%9C",
+    "timestamp": "2026-03-29T11:37:08.325Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "花卉展閉幕｜將CHIIKAWA角色畫入花海　畫家：望令小朋友更懂賞花",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260324/1113062677199982592840621.jpeg/Og7I2LKeT0SjiM8KUJYwwhyYWp5kWafYSp8vDEqfLww?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60335230/%E4%BC%8A%E6%9C%97%E6%88%B0%E7%88%AD-%E7%BE%8E%E8%BB%8D%E5%85%A9%E6%A3%B2%E6%94%BB%E6%93%8A%E8%89%A6-%E7%9A%84%E9%BB%8E%E6%B3%A2%E9%87%8C%E8%99%9F-%E6%8A%B5%E4%B8%AD%E6%9D%B1-%E5%A2%9E%E6%B4%BE%E7%B4%843500%E4%BA%BA",
     "timestamp": "2026-03-28T21:00:44.643Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美國再爆No Kings示威　預計逾900萬人參加　明尼蘇達州將成焦點",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260329/1114766534443536384864075.jpeg/BDXkO1XTkFnyjm1hqT7Dj_51t7YL8V2ILZ-Ygy2fmIM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60335229/%E7%BE%8E%E5%9C%8B%E5%86%8D%E7%88%86no-kings%E7%A4%BA%E5%A8%81-%E9%A0%90%E8%A8%88%E9%80%BE900%E8%90%AC%E4%BA%BA%E5%8F%83%E5%8A%A0-%E6%98%8E%E5%B0%BC%E8%98%87%E9%81%94%E5%B7%9E%E5%B0%87%E6%88%90%E7%84%A6%E9%BB%9E",
-    "timestamp": "2026-03-28T20:18:20.861Z",
     "strategy": ".content-card__main"
   }
 ];
