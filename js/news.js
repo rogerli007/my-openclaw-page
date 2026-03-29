@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-29T16:39:09.036Z
+// Last updated: 2026-03-29T17:20:09.870Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "鄭健樂被崔碧珈派「好人卡」後疑似有新歡　頭貼頭合照極親密",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260330/1115088146195812352215386.jpeg/ZR-cxinZYHamlfBb0yn7DSEQOtIMvax3EMztghDM7YI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60335380/%E9%84%AD%E5%81%A5%E6%A8%82%E8%A2%AB%E5%B4%94%E7%A2%A7%E7%8F%88%E6%B4%BE-%E5%A5%BD%E4%BA%BA%E5%8D%A1-%E5%BE%8C%E7%96%91%E4%BC%BC%E6%9C%89%E6%96%B0%E6%AD%A1-%E9%A0%AD%E8%B2%BC%E9%A0%AD%E5%90%88%E7%85%A7%E6%A5%B5%E8%A6%AA%E5%AF%86",
+    "timestamp": "2026-03-29T17:20:09.870Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "沙田小巴落客時突駛前　83歲婦跌出車外半昏迷　男司機涉危駕被捕",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260328/1114683975302909952708349.png/v6621hgmriiqiWcwofI2UR1usSpHnsOrqX7np6l-56c?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60335234/%E5%B1%B1%E8%A5%BF%E5%A4%AA%E5%8E%9F%E9%AB%98%E6%A8%93%E7%81%AB%E7%81%BD-%E4%BA%8B%E6%95%85%E5%A2%9E%E8%87%B33%E6%AD%BB-23%E5%82%B7%E5%85%B6%E4%B8%AD9%E4%BA%BA%E9%87%8D%E5%82%B7",
     "timestamp": "2026-03-29T01:43:53.274Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "世界十大粗獷派建築突尼斯湖畔酒店拯救行動無果　正式拆除建商場",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260319/1111344836352413696510294.png/D3Bp9LNh1xumt5juzWZOCPx2z1ZqfWPnaIswymiLMMo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E4%B8%96%E7%95%8C%E5%B0%88%E9%A1%8C/60332159/%E4%B8%96%E7%95%8C%E5%8D%81%E5%A4%A7%E7%B2%97%E7%8D%B7%E6%B4%BE%E5%BB%BA%E7%AF%89%E7%AA%81%E5%B0%BC%E6%96%AF%E6%B9%96%E7%95%94%E9%85%92%E5%BA%97%E6%8B%AF%E6%95%91%E8%A1%8C%E5%8B%95%E7%84%A1%E6%9E%9C-%E6%AD%A3%E5%BC%8F%E6%8B%86%E9%99%A4%E5%BB%BA%E5%95%86%E5%A0%B4",
-    "timestamp": "2026-03-29T00:53:55.505Z",
     "strategy": ".content-card__main"
   }
 ];
