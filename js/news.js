@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-29T21:37:34.106Z
+// Last updated: 2026-03-29T22:16:35.709Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "天氣｜今日有幾陣驟雨　稍後局部地區有雷暴　日間炎熱約28度",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260330/1115166940726431744241796.jpeg/ti1fqKkk2SnZaxUmJxbWuMwI9m-nkcDezY_qL82P6i8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60335389/%E5%A4%A9%E6%B0%A3-%E4%BB%8A%E6%97%A5%E6%9C%89%E5%B9%BE%E9%99%A3%E9%A9%9F%E9%9B%A8-%E7%A8%8D%E5%BE%8C%E5%B1%80%E9%83%A8%E5%9C%B0%E5%8D%80%E6%9C%89%E9%9B%B7%E6%9A%B4-%E6%97%A5%E9%96%93%E7%82%8E%E7%86%B1%E7%B4%8428%E5%BA%A6",
+    "timestamp": "2026-03-29T22:16:35.709Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "伊朗戰爭｜巴基斯坦外長：很快會主持美伊會談",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260318/1110941835783704576841703.jpeg/s07-Yl9OJXirDbj7TzTOlb5CSVozhLLpxRIYQcUSGEE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60335309/%E7%B2%89%E5%B6%BA%E8%A6%B2%E9%BE%8D%E6%9D%91%E5%B0%8D%E9%96%8B%E7%A7%81%E5%AE%B6%E8%BB%8A%E5%A4%B1%E4%BA%8B%E6%92%9E%E6%AC%84-%E5%85%AD%E6%97%AC%E6%BC%A2%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2%E6%90%B6%E6%95%91",
     "timestamp": "2026-03-29T08:25:59.304Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "王菀之澳門演唱會有驚喜 皇上張敬軒突襲上台抱起「皇后」",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260329/1114908197396680704263947.jpeg/ls0QDZ3EAQEP-7Y5wDyL1gQKOQyuZw95zSiN5s0ojeY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60335266/%E7%8E%8B%E8%8F%80%E4%B9%8B%E6%BE%B3%E9%96%80%E6%BC%94%E5%94%B1%E6%9C%83%E6%9C%89%E9%A9%9A%E5%96%9C-%E7%9A%87%E4%B8%8A%E5%BC%B5%E6%95%AC%E8%BB%92%E7%AA%81%E8%A5%B2%E4%B8%8A%E5%8F%B0%E6%8A%B1%E8%B5%B7-%E7%9A%87%E5%90%8E",
-    "timestamp": "2026-03-29T07:42:26.802Z",
     "strategy": ".content-card__main"
   }
 ];
