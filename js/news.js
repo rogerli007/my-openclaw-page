@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-29T03:52:17.796Z
+// Last updated: 2026-03-29T05:03:30.351Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "湖南城鐵站投資1.25億　日均乘客為個位數　開通5年後停運惹議",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260329/1114899373688360960936251.png/pwGV0Zr2dQGSTjphhMMzACekFRLvZATI47U3vuO1N74?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60335255/%E6%B9%96%E5%8D%97%E5%9F%8E%E9%90%B5%E7%AB%99%E6%8A%95%E8%B3%871-25%E5%84%84-%E6%97%A5%E5%9D%87%E4%B9%98%E5%AE%A2%E7%82%BA%E5%80%8B%E4%BD%8D%E6%95%B8-%E9%96%8B%E9%80%9A5%E5%B9%B4%E5%BE%8C%E5%81%9C%E9%81%8B%E6%83%B9%E8%AD%B0",
+    "timestamp": "2026-03-29T05:03:30.351Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "陳茂波：密切關注油價上升影響　香港能源供應因國家為後盾而穩定",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260312/1108636841927905280490372.jpeg/iekdxJ2pcYJzi2yS9qpqld1mudjqmYCxJ1QLJSdUCyU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60335224/%E9%BB%8E%E5%B7%B4%E5%AB%A9%E8%A1%9B%E7%94%9F%E9%83%A8%E9%95%B7-%E4%BB%A5%E8%89%B2%E5%88%97%E8%88%87%E7%9C%9F%E4%B8%BB%E9%BB%A8%E4%BA%A4%E6%88%B0%E4%BB%A5%E4%BE%86-%E8%A1%9B%E7%94%9F%E9%83%A8%E9%96%80%E5%B7%B2%E6%9C%8951%E4%BA%BA%E5%96%AA%E7%94%9F",
     "timestamp": "2026-03-28T16:38:22.321Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "中環干諾道中3車相撞意外　涉及保時捷與兩輛的士　釀3人傷",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260328/1114710723470036992830467.jpeg/KmjZ1THCZhGnQsp48inKiTY-2vG8JTr-lzUvoJc1L6A?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60335223/%E4%B8%AD%E7%92%B0%E5%B9%B2%E8%AB%BE%E9%81%93%E4%B8%AD3%E8%BB%8A%E7%9B%B8%E6%92%9E%E6%84%8F%E5%A4%96-%E6%B6%89%E5%8F%8A%E4%BF%9D%E6%99%82%E6%8D%B7%E8%88%87%E5%85%A9%E8%BC%9B%E7%9A%84%E5%A3%AB-%E9%87%803%E4%BA%BA%E5%82%B7",
-    "timestamp": "2026-03-28T16:00:42.793Z",
     "strategy": ".content-card__main"
   }
 ];
