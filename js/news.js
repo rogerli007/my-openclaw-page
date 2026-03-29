@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-29T13:57:06.856Z
+// Last updated: 2026-03-29T14:20:15.075Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "天水圍天頌苑頌棋閣全幢停電　疑電掣房失火傳巨響　百人疏散",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260329/1115043948113432576375604.jpeg/ozuZz7yXyTIUzN86bIGB6lTeEd1Cnml45AvE7OQLxOw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60335370/%E5%A4%A9%E6%B0%B4%E5%9C%8D%E5%A4%A9%E9%A0%8C%E8%8B%91%E9%A0%8C%E6%A3%8B%E9%96%A3%E5%85%A8%E5%B9%A2%E5%81%9C%E9%9B%BB-%E7%96%91%E9%9B%BB%E6%8E%A3%E6%88%BF%E5%A4%B1%E7%81%AB%E5%82%B3%E5%B7%A8%E9%9F%BF-%E7%99%BE%E4%BA%BA%E7%96%8F%E6%95%A3",
+    "timestamp": "2026-03-29T14:20:15.075Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "天水圍天頌苑頌棋閣全幢停電　疑電掣房失火傳巨響　百人疏散",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260329/1114810039899525120296583.jpeg/4zzERTQdvIn5mVY7e3YYwQ_ZTTkY7ywnGdvNrRnbza0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60335231/%E8%90%AC%E6%96%AF%E6%88%90%E4%BF%9D%E5%AE%88%E6%B4%BE%E6%94%BF%E6%B2%BB%E8%A1%8C%E5%8B%95%E5%A4%A7%E6%9C%83%E9%A6%96%E9%81%B82028%E5%85%B1%E5%92%8C%E9%BB%A8%E7%B8%BD%E7%B5%B1%E4%BA%BA%E9%81%B8-%E9%AD%AF%E6%AF%94%E5%A5%A7%E5%88%97%E7%AC%AC%E4%BA%8C",
     "timestamp": "2026-03-28T22:51:21.022Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "伊朗戰爭｜美軍兩棲攻擊艦「的黎波里號」抵中東　增派約3500人",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260324/1113062677199982592840621.jpeg/Og7I2LKeT0SjiM8KUJYwwhyYWp5kWafYSp8vDEqfLww?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60335230/%E4%BC%8A%E6%9C%97%E6%88%B0%E7%88%AD-%E7%BE%8E%E8%BB%8D%E5%85%A9%E6%A3%B2%E6%94%BB%E6%93%8A%E8%89%A6-%E7%9A%84%E9%BB%8E%E6%B3%A2%E9%87%8C%E8%99%9F-%E6%8A%B5%E4%B8%AD%E6%9D%B1-%E5%A2%9E%E6%B4%BE%E7%B4%843500%E4%BA%BA",
-    "timestamp": "2026-03-28T22:31:40.763Z",
     "strategy": ".content-card__main"
   }
 ];
