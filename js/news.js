@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-29T09:52:05.838Z
+// Last updated: 2026-03-29T11:20:54.451Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "花卉展閉幕｜將CHIIKAWA角色畫入花海　畫家：望令小朋友更懂賞花",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260329/1114997207435579392971425.jpeg/gr3T3Je8ldIcD53ANl0ffFcV7oCmR90ERzbKEUc2yhE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60335325/%E8%8A%B1%E5%8D%89%E5%B1%95%E9%96%89%E5%B9%95-%E5%B0%87chiikawa%E8%A7%92%E8%89%B2%E7%95%AB%E5%85%A5%E8%8A%B1%E6%B5%B7-%E7%95%AB%E5%AE%B6-%E6%9C%9B%E4%BB%A4%E5%B0%8F%E6%9C%8B%E5%8F%8B%E6%9B%B4%E6%87%82%E8%B3%9E%E8%8A%B1",
+    "timestamp": "2026-03-29T11:20:54.451Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "班納山現懷疑仿製手槍9發子彈　重案組跟進　淨山義工：有啲重量",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260329/1114766534443536384864075.jpeg/BDXkO1XTkFnyjm1hqT7Dj_51t7YL8V2ILZ-Ygy2fmIM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60335229/%E7%BE%8E%E5%9C%8B%E5%86%8D%E7%88%86no-kings%E7%A4%BA%E5%A8%81-%E9%A0%90%E8%A8%88%E9%80%BE900%E8%90%AC%E4%BA%BA%E5%8F%83%E5%8A%A0-%E6%98%8E%E5%B0%BC%E8%98%87%E9%81%94%E5%B7%9E%E5%B0%87%E6%88%90%E7%84%A6%E9%BB%9E",
     "timestamp": "2026-03-28T20:18:20.861Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美國再爆No Kings示威　預計逾900萬人參加　明尼蘇達州將成焦點",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260329/1114766534443536384864075.jpeg/BDXkO1XTkFnyjm1hqT7Dj_51t7YL8V2ILZ-Ygy2fmIM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60335229/%E7%BE%8E%E5%9C%8B%E5%86%8D%E7%88%86no-kings%E7%A4%BA%E5%A8%81-%E9%A0%90%E8%A8%88%E9%80%BE900%E8%90%AC%E4%BA%BA%E5%8F%83%E5%8A%A0-%E6%98%8E%E5%B0%BC%E8%98%87%E9%81%94%E5%B7%9E%E5%B0%87%E6%88%90%E7%84%A6%E9%BB%9E",
-    "timestamp": "2026-03-28T19:48:56.929Z",
     "strategy": ".content-card__main"
   }
 ];
