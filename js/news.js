@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-29T08:25:59.304Z
+// Last updated: 2026-03-29T09:21:58.821Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "日本男退休拒絕公司挽留　寧當低薪夜班倉務員　對第二人生超滿意",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260329/1114953494583840768391052.png/9GN8uHBbR1pocCJi59gRKNYi29p5eTpjg_n5_en5-f0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%92%B0%E7%90%83%E8%B6%A3%E8%81%9E/60335278/%E6%97%A5%E6%9C%AC%E7%94%B7%E9%80%80%E4%BC%91%E6%8B%92%E7%B5%95%E5%85%AC%E5%8F%B8%E6%8C%BD%E7%95%99-%E5%AF%A7%E7%95%B6%E4%BD%8E%E8%96%AA%E5%A4%9C%E7%8F%AD%E5%80%89%E5%8B%99%E5%93%A1-%E5%B0%8D%E7%AC%AC%E4%BA%8C%E4%BA%BA%E7%94%9F%E8%B6%85%E6%BB%BF%E6%84%8F",
+    "timestamp": "2026-03-29T09:21:58.821Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "粉嶺覲龍村對開私家車失事撞欄　六旬漢昏迷送院搶救",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260329/1114750524210548736274953.jpeg/busyShiIfzZv6AW1npPtzwPanSqIKRw5PI2nSDyNp0g?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%97%85%E9%81%8A/60335227/wechat-pay%E6%B4%BE%E6%B7%B1%E5%9C%B3%E5%8D%97%E5%B1%B1%E5%8D%80%E5%8D%83%E8%90%AC%E6%B6%88%E8%B2%BB%E5%88%B8-%E6%BB%BF-100%E6%B8%9B100-%E5%9B%9B%E6%8A%98%E6%90%B6%E5%88%B8%E6%95%99%E5%AD%B8",
     "timestamp": "2026-03-28T19:31:52.585Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "WeChat Pay派深圳南山區千萬消費券！滿$100減100！四折搶券教學",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260329/1114750524210548736274953.jpeg/busyShiIfzZv6AW1npPtzwPanSqIKRw5PI2nSDyNp0g?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%97%85%E9%81%8A/60335227/wechat-pay%E6%B4%BE%E6%B7%B1%E5%9C%B3%E5%8D%97%E5%B1%B1%E5%8D%80%E5%8D%83%E8%90%AC%E6%B6%88%E8%B2%BB%E5%88%B8-%E6%BB%BF-100%E6%B8%9B100-%E5%9B%9B%E6%8A%98%E6%90%B6%E5%88%B8%E6%95%99%E5%AD%B8",
-    "timestamp": "2026-03-28T19:06:19.691Z",
     "strategy": ".content-card__main"
   }
 ];
