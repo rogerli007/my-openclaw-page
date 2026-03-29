@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-29T05:03:30.351Z
+// Last updated: 2026-03-29T06:16:05.850Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "積金局擬設第二級欠供強積金附加費　目標年中提交建議",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260308/1107324382474276864805174.jpeg/hurXTQaUacRs9lmg7B4f78rSp_ZjWRYflRwPvZUcD70?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60335273/%E7%A9%8D%E9%87%91%E5%B1%80%E6%93%AC%E8%A8%AD%E7%AC%AC%E4%BA%8C%E7%B4%9A%E6%AC%A0%E4%BE%9B%E5%BC%B7%E7%A9%8D%E9%87%91%E9%99%84%E5%8A%A0%E8%B2%BB-%E7%9B%AE%E6%A8%99%E5%B9%B4%E4%B8%AD%E6%8F%90%E4%BA%A4%E5%BB%BA%E8%AD%B0",
+    "timestamp": "2026-03-29T06:16:05.850Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "湖南城鐵站投資1.25億　日均乘客為個位數　開通5年後停運惹議",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260312/1108636841927905280490372.jpeg/iekdxJ2pcYJzi2yS9qpqld1mudjqmYCxJ1QLJSdUCyU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60335224/%E9%BB%8E%E5%B7%B4%E5%AB%A9%E8%A1%9B%E7%94%9F%E9%83%A8%E9%95%B7-%E4%BB%A5%E8%89%B2%E5%88%97%E8%88%87%E7%9C%9F%E4%B8%BB%E9%BB%A8%E4%BA%A4%E6%88%B0%E4%BB%A5%E4%BE%86-%E8%A1%9B%E7%94%9F%E9%83%A8%E9%96%80%E5%B7%B2%E6%9C%8951%E4%BA%BA%E5%96%AA%E7%94%9F",
     "timestamp": "2026-03-28T17:02:46.905Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "黎巴嫩衛生部長：以色列與真主黨交戰以來　衛生部門已有51人喪生",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260312/1108636841927905280490372.jpeg/iekdxJ2pcYJzi2yS9qpqld1mudjqmYCxJ1QLJSdUCyU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60335224/%E9%BB%8E%E5%B7%B4%E5%AB%A9%E8%A1%9B%E7%94%9F%E9%83%A8%E9%95%B7-%E4%BB%A5%E8%89%B2%E5%88%97%E8%88%87%E7%9C%9F%E4%B8%BB%E9%BB%A8%E4%BA%A4%E6%88%B0%E4%BB%A5%E4%BE%86-%E8%A1%9B%E7%94%9F%E9%83%A8%E9%96%80%E5%B7%B2%E6%9C%8951%E4%BA%BA%E5%96%AA%E7%94%9F",
-    "timestamp": "2026-03-28T16:38:22.321Z",
     "strategy": ".content-card__main"
   }
 ];
