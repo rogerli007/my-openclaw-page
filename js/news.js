@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-29T06:46:57.903Z
+// Last updated: 2026-03-29T07:42:26.802Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "王菀之澳門演唱會有驚喜 皇上張敬軒突襲上台抱起「皇后」",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260329/1114908197396680704263947.jpeg/ls0QDZ3EAQEP-7Y5wDyL1gQKOQyuZw95zSiN5s0ojeY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60335266/%E7%8E%8B%E8%8F%80%E4%B9%8B%E6%BE%B3%E9%96%80%E6%BC%94%E5%94%B1%E6%9C%83%E6%9C%89%E9%A9%9A%E5%96%9C-%E7%9A%87%E4%B8%8A%E5%BC%B5%E6%95%AC%E8%BB%92%E7%AA%81%E8%A5%B2%E4%B8%8A%E5%8F%B0%E6%8A%B1%E8%B5%B7-%E7%9A%87%E5%90%8E",
+    "timestamp": "2026-03-29T07:42:26.802Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "敘利亞總統首訪英德兩國　恢復政治經濟雙邊關係",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260329/1114736537712463872018936.jpeg/AYin8B6EIACO8Smc_-XNXBX9G56YEG8vXBXr51wV6-c?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60335226/%E9%81%8B%E8%BC%8912%E5%99%B8kitkat%E6%9C%B1%E5%8F%A4%E5%8A%9B%E5%8D%A1%E8%BB%8A%E6%AD%90%E6%B4%B2%E5%A4%B1%E7%AB%8A-%E6%88%96%E8%87%B4%E5%BE%A9%E6%B4%BB%E7%AF%80%E5%89%8D%E5%A4%95%E5%95%86%E5%BA%97%E4%BE%9B%E6%87%89%E7%9F%AD%E7%BC%BA",
     "timestamp": "2026-03-28T18:37:35.826Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "法國警方制止巴黎美國銀行外炸彈襲擊　男子試圖引爆裝置時被捕",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260329/1114728938187264000928364.png/xFxMp7lvKPC_ekrEqU2LhBEF2ZEUh6Wl52JYtOdiWLQ?v=w1920",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60335225/%E6%B3%95%E5%9C%8B%E8%AD%A6%E6%96%B9%E5%88%B6%E6%AD%A2%E5%B7%B4%E9%BB%8E%E7%BE%8E%E5%9C%8B%E9%8A%80%E8%A1%8C%E5%A4%96%E7%82%B8%E5%BD%88%E8%A5%B2%E6%93%8A-%E7%94%B7%E5%AD%90%E8%A9%A6%E5%9C%96%E5%BC%95%E7%88%86%E8%A3%9D%E7%BD%AE%E6%99%82%E8%A2%AB%E6%8D%95",
-    "timestamp": "2026-03-28T17:59:44.187Z",
     "strategy": ".content-card__main"
   }
 ];
