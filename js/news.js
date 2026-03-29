@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-28T23:34:24.533Z
+// Last updated: 2026-03-29T00:53:55.505Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "世界十大粗獷派建築突尼斯湖畔酒店拯救行動無果　正式拆除建商場",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260319/1111344836352413696510294.png/D3Bp9LNh1xumt5juzWZOCPx2z1ZqfWPnaIswymiLMMo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E4%B8%96%E7%95%8C%E5%B0%88%E9%A1%8C/60332159/%E4%B8%96%E7%95%8C%E5%8D%81%E5%A4%A7%E7%B2%97%E7%8D%B7%E6%B4%BE%E5%BB%BA%E7%AF%89%E7%AA%81%E5%B0%BC%E6%96%AF%E6%B9%96%E7%95%94%E9%85%92%E5%BA%97%E6%8B%AF%E6%95%91%E8%A1%8C%E5%8B%95%E7%84%A1%E6%9E%9C-%E6%AD%A3%E5%BC%8F%E6%8B%86%E9%99%A4%E5%BB%BA%E5%95%86%E5%A0%B4",
+    "timestamp": "2026-03-29T00:53:55.505Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "有片｜大學教授課堂誤播AV！學生起哄提醒　飛奔關影片後續更尷尬",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260328/1114695456258002944689054.jpeg/S09nLIKahISRhUHY0yOUJEnt2HO1wevacv61DHL-tQw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60335209/%E9%98%BFmo%E6%9D%8E%E5%95%9F%E8%A8%80%E5%88%86%E4%BA%AB-%E9%96%8B-%E9%9B%BB%E5%8B%95%E8%BC%AA%E6%A4%85%E9%80%B2%E5%BA%A6-%E9%80%B2%E9%80%80%E8%87%AA%E5%A6%82%E9%80%B2%E6%AD%A5%E6%A5%B5%E5%A4%A7",
     "timestamp": "2026-03-28T15:02:11.584Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "超新星女優福田ゆあ大方自揭下海全家都知：扮cool時會說是工程師",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260327/1114155494701797376042893.png/J9rZJcvSGgIqPzlPUaqUjk2aXHomVkSN7baGne22hp0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E5%A8%9B%E6%A8%82/60334754/%E8%B6%85%E6%96%B0%E6%98%9F%E5%A5%B3%E5%84%AA%E7%A6%8F%E7%94%B0%E3%82%86%E3%81%82%E5%A4%A7%E6%96%B9%E8%87%AA%E6%8F%AD%E4%B8%8B%E6%B5%B7%E5%85%A8%E5%AE%B6%E9%83%BD%E7%9F%A5-%E6%89%AEcool%E6%99%82%E6%9C%83%E8%AA%AA%E6%98%AF%E5%B7%A5%E7%A8%8B%E5%B8%AB",
-    "timestamp": "2026-03-28T14:37:44.791Z",
     "strategy": ".content-card__main"
   }
 ];
