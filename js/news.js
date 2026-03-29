@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-29T21:21:12.982Z
+// Last updated: 2026-03-29T21:37:34.106Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "伊朗戰爭｜巴基斯坦外長：很快會主持美伊會談",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260330/1115141373457076224207461.jpeg/1uKzM8te-HukC_Yj8zDtKMFGlCtEOxIkogVbg6IFW4M?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60335395/%E4%BC%8A%E6%9C%97%E6%88%B0%E7%88%AD-%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E5%A4%96%E9%95%B7-%E5%BE%88%E5%BF%AB%E6%9C%83%E4%B8%BB%E6%8C%81%E7%BE%8E%E4%BC%8A%E6%9C%83%E8%AB%87",
+    "timestamp": "2026-03-29T21:37:34.106Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "伊朗戰爭｜巴基斯坦外長：很快會主持美伊會談",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260329/1114908197396680704263947.jpeg/ls0QDZ3EAQEP-7Y5wDyL1gQKOQyuZw95zSiN5s0ojeY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60335266/%E7%8E%8B%E8%8F%80%E4%B9%8B%E6%BE%B3%E9%96%80%E6%BC%94%E5%94%B1%E6%9C%83%E6%9C%89%E9%A9%9A%E5%96%9C-%E7%9A%87%E4%B8%8A%E5%BC%B5%E6%95%AC%E8%BB%92%E7%AA%81%E8%A5%B2%E4%B8%8A%E5%8F%B0%E6%8A%B1%E8%B5%B7-%E7%9A%87%E5%90%8E",
     "timestamp": "2026-03-29T07:42:26.802Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "敘利亞總統首訪英德兩國　恢復政治經濟雙邊關係",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260329/1114926618918260736589320.jpeg/SvIHHytUmdKR5wlM_3DdyEYkOFm7CVM5MKqCzjCqgs4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60335277/%E6%95%98%E5%88%A9%E4%BA%9E%E7%B8%BD%E7%B5%B1%E9%A6%96%E8%A8%AA%E8%8B%B1%E5%BE%B7%E5%85%A9%E5%9C%8B-%E6%81%A2%E5%BE%A9%E6%94%BF%E6%B2%BB%E7%B6%93%E6%BF%9F%E9%9B%99%E9%82%8A%E9%97%9C%E4%BF%82",
-    "timestamp": "2026-03-29T06:46:57.903Z",
     "strategy": ".content-card__main"
   }
 ];
