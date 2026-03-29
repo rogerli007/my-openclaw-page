@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-29T13:32:25.245Z
+// Last updated: 2026-03-29T13:57:06.856Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "天水圍天頌苑頌棋閣全幢停電　疑電掣房失火傳巨響　百人疏散",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260329/1115043948113432576375604.jpeg/ozuZz7yXyTIUzN86bIGB6lTeEd1Cnml45AvE7OQLxOw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60335370/%E5%A4%A9%E6%B0%B4%E5%9C%8D%E5%A4%A9%E9%A0%8C%E8%8B%91%E9%A0%8C%E6%A3%8B%E9%96%A3%E5%85%A8%E5%B9%A2%E5%81%9C%E9%9B%BB-%E7%96%91%E9%9B%BB%E6%8E%A3%E6%88%BF%E5%A4%B1%E7%81%AB%E5%82%B3%E5%B7%A8%E9%9F%BF-%E7%99%BE%E4%BA%BA%E7%96%8F%E6%95%A3",
+    "timestamp": "2026-03-29T13:57:06.856Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "胸口劇痛不止！泰男入院照X光揭「7cm縫衣針藏胸腔」險被刺穿心臟",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260324/1113062677199982592840621.jpeg/Og7I2LKeT0SjiM8KUJYwwhyYWp5kWafYSp8vDEqfLww?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60335230/%E4%BC%8A%E6%9C%97%E6%88%B0%E7%88%AD-%E7%BE%8E%E8%BB%8D%E5%85%A9%E6%A3%B2%E6%94%BB%E6%93%8A%E8%89%A6-%E7%9A%84%E9%BB%8E%E6%B3%A2%E9%87%8C%E8%99%9F-%E6%8A%B5%E4%B8%AD%E6%9D%B1-%E5%A2%9E%E6%B4%BE%E7%B4%843500%E4%BA%BA",
     "timestamp": "2026-03-28T22:31:40.763Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "伊朗戰爭｜美軍兩棲攻擊艦「的黎波里號」抵中東　增派約3500人",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260324/1113062677199982592840621.jpeg/Og7I2LKeT0SjiM8KUJYwwhyYWp5kWafYSp8vDEqfLww?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60335230/%E4%BC%8A%E6%9C%97%E6%88%B0%E7%88%AD-%E7%BE%8E%E8%BB%8D%E5%85%A9%E6%A3%B2%E6%94%BB%E6%93%8A%E8%89%A6-%E7%9A%84%E9%BB%8E%E6%B3%A2%E9%87%8C%E8%99%9F-%E6%8A%B5%E4%B8%AD%E6%9D%B1-%E5%A2%9E%E6%B4%BE%E7%B4%843500%E4%BA%BA",
-    "timestamp": "2026-03-28T22:15:02.709Z",
     "strategy": ".content-card__main"
   }
 ];
