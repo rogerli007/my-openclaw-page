@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-29T02:45:31.508Z
+// Last updated: 2026-03-29T03:52:17.796Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "陳茂波：密切關注油價上升影響　香港能源供應因國家為後盾而穩定",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260329/1114889943647260672714386.jpeg/wz56ujDc5CiJ_PNLym8mpBULliM0qb361r3O-da9zvk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60335254/%E9%99%B3%E8%8C%82%E6%B3%A2-%E5%AF%86%E5%88%87%E9%97%9C%E6%B3%A8%E6%B2%B9%E5%83%B9%E4%B8%8A%E5%8D%87%E5%BD%B1%E9%9F%BF-%E9%A6%99%E6%B8%AF%E8%83%BD%E6%BA%90%E4%BE%9B%E6%87%89%E5%9B%A0%E5%9C%8B%E5%AE%B6%E7%82%BA%E5%BE%8C%E7%9B%BE%E8%80%8C%E7%A9%A9%E5%AE%9A",
+    "timestamp": "2026-03-29T03:52:17.796Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "日本4月設「太平洋防衛構想室」　小泉進次郎：應對中國軍事活動",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260328/1114710723470036992830467.jpeg/KmjZ1THCZhGnQsp48inKiTY-2vG8JTr-lzUvoJc1L6A?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60335223/%E4%B8%AD%E7%92%B0%E5%B9%B2%E8%AB%BE%E9%81%93%E4%B8%AD3%E8%BB%8A%E7%9B%B8%E6%92%9E%E6%84%8F%E5%A4%96-%E6%B6%89%E5%8F%8A%E4%BF%9D%E6%99%82%E6%8D%B7%E8%88%87%E5%85%A9%E8%BC%9B%E7%9A%84%E5%A3%AB-%E9%87%803%E4%BA%BA%E5%82%B7",
     "timestamp": "2026-03-28T16:00:42.793Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "香港七人欖球賽下月啟德上演　紀念50周年特邀首屆隊長亮相開球禮",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260328/1114679280891072512927315.jpeg/Ne5OOyEFj5aIuGN-Vr1Tw9HaQHKIDxfZaiJRFGoiURQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60335213/%E9%A6%99%E6%B8%AF%E4%B8%83%E4%BA%BA%E6%AC%96%E7%90%83%E8%B3%BD%E4%B8%8B%E6%9C%88%E5%95%9F%E5%BE%B7%E4%B8%8A%E6%BC%94-%E7%B4%80%E5%BF%B550%E5%91%A8%E5%B9%B4%E7%89%B9%E9%82%80%E9%A6%96%E5%B1%86%E9%9A%8A%E9%95%B7%E4%BA%AE%E7%9B%B8%E9%96%8B%E7%90%83%E7%A6%AE",
-    "timestamp": "2026-03-28T15:36:25.028Z",
     "strategy": ".content-card__main"
   }
 ];
