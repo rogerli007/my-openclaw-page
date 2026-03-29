@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-29T17:20:09.870Z
+// Last updated: 2026-03-29T18:53:01.447Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "重慶大廈賓館單位冒煙　消防到場救熄　男子吸濃煙不適送院",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260330/1115111495672270848650982.jpeg/9X1jUnvCQevz2eVq9feVgrIwQ5ZcLYI39ExxId5McSE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60335392/%E9%87%8D%E6%85%B6%E5%A4%A7%E5%BB%88%E8%B3%93%E9%A4%A8%E5%96%AE%E4%BD%8D%E5%86%92%E7%85%99-%E6%B6%88%E9%98%B2%E5%88%B0%E5%A0%B4%E6%95%91%E7%86%84-%E7%94%B7%E5%AD%90%E5%90%B8%E6%BF%83%E7%85%99%E4%B8%8D%E9%81%A9%E9%80%81%E9%99%A2",
+    "timestamp": "2026-03-29T18:53:01.447Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "鄭健樂被崔碧珈派「好人卡」後疑似有新歡　頭貼頭合照極親密",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260329/1114870832024260608239657.jpeg/EBvOn9VpfQ5ns49zpX-bYCri5XTT3mfC37aiI9-2oiM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60335238/%E6%97%A5%E6%9C%AC4%E6%9C%88%E8%A8%AD-%E5%A4%AA%E5%B9%B3%E6%B4%8B%E9%98%B2%E8%A1%9B%E6%A7%8B%E6%83%B3%E5%AE%A4-%E5%B0%8F%E6%B3%89%E9%80%B2%E6%AC%A1%E9%83%8E-%E6%87%89%E5%B0%8D%E4%B8%AD%E5%9C%8B%E8%BB%8D%E4%BA%8B%E6%B4%BB%E5%8B%95",
     "timestamp": "2026-03-29T02:45:31.508Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "山西太原高樓火災　事故增至3死　23傷其中9人重傷",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260328/1114683975302909952708349.png/v6621hgmriiqiWcwofI2UR1usSpHnsOrqX7np6l-56c?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60335234/%E5%B1%B1%E8%A5%BF%E5%A4%AA%E5%8E%9F%E9%AB%98%E6%A8%93%E7%81%AB%E7%81%BD-%E4%BA%8B%E6%95%85%E5%A2%9E%E8%87%B33%E6%AD%BB-23%E5%82%B7%E5%85%B6%E4%B8%AD9%E4%BA%BA%E9%87%8D%E5%82%B7",
-    "timestamp": "2026-03-29T01:43:53.274Z",
     "strategy": ".content-card__main"
   }
 ];
