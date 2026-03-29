@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-29T14:20:15.075Z
+// Last updated: 2026-03-29T16:18:41.573Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "名廚薈萃為博愛慈善晚宴200廚師出動　為博愛新安老院舍籌逾700萬",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260329/1115070823728680960902416.jpeg/j7uRWkNJykSDFz--8INkQHMG25lRwnpGI7l0uSO5dLk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60332288/%E5%90%8D%E5%BB%9A%E8%96%88%E8%90%83%E7%82%BA%E5%8D%9A%E6%84%9B%E6%85%88%E5%96%84%E6%99%9A%E5%AE%B4200%E5%BB%9A%E5%B8%AB%E5%87%BA%E5%8B%95-%E7%82%BA%E5%8D%9A%E6%84%9B%E6%96%B0%E5%AE%89%E8%80%81%E9%99%A2%E8%88%8D%E7%B1%8C%E9%80%BE700%E8%90%AC",
+    "timestamp": "2026-03-29T16:18:41.573Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "天水圍天頌苑頌棋閣全幢停電　疑電掣房失火傳巨響　百人疏散",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260326/1113831711252156416296175.jpeg/kAyRUVMWQVCug_NteY9pE4Z8nqkYwfgjVpG1N1aRtTc",
     "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E8%A9%B1%E9%A1%8C/60334416/%E6%9C%89%E7%89%87-%E5%A4%A7%E5%AD%B8%E6%95%99%E6%8E%88%E8%AA%B2%E5%A0%82%E8%AA%A4%E6%92%ADav-%E9%A3%9B%E5%A5%94%E9%97%9C%E5%BD%B1%E7%89%87-%E6%84%8F%E5%A4%96%E6%9B%9D-%E5%85%A8%E5%AE%B6%E7%A6%8F-%E6%9B%B4%E5%B0%B7%E5%B0%AC",
     "timestamp": "2026-03-28T23:34:24.533Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "萬斯成保守派政治行動大會首選2028共和黨總統人選　魯比奧列第二",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260329/1114810039899525120296583.jpeg/4zzERTQdvIn5mVY7e3YYwQ_ZTTkY7ywnGdvNrRnbza0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60335231/%E8%90%AC%E6%96%AF%E6%88%90%E4%BF%9D%E5%AE%88%E6%B4%BE%E6%94%BF%E6%B2%BB%E8%A1%8C%E5%8B%95%E5%A4%A7%E6%9C%83%E9%A6%96%E9%81%B82028%E5%85%B1%E5%92%8C%E9%BB%A8%E7%B8%BD%E7%B5%B1%E4%BA%BA%E9%81%B8-%E9%AD%AF%E6%AF%94%E5%A5%A7%E5%88%97%E7%AC%AC%E4%BA%8C",
-    "timestamp": "2026-03-28T22:51:21.022Z",
     "strategy": ".content-card__main"
   }
 ];
