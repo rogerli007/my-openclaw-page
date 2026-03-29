@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-29T20:19:07.373Z
+// Last updated: 2026-03-29T20:42:17.619Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "伊朗戰爭｜巴基斯坦外長：很快會主持美伊會談",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260330/1115141373457076224207461.jpeg/1uKzM8te-HukC_Yj8zDtKMFGlCtEOxIkogVbg6IFW4M?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60335395/%E4%BC%8A%E6%9C%97%E6%88%B0%E7%88%AD-%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E5%A4%96%E9%95%B7-%E5%BE%88%E5%BF%AB%E6%9C%83%E4%B8%BB%E6%8C%81%E7%BE%8E%E4%BC%8A%E6%9C%83%E8%AB%87",
+    "timestamp": "2026-03-29T20:42:17.619Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "重慶大廈賓館單位冒煙　消防到場救熄　男子吸濃煙不適送院",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260329/1114899373688360960936251.png/pwGV0Zr2dQGSTjphhMMzACekFRLvZATI47U3vuO1N74?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60335255/%E6%B9%96%E5%8D%97%E5%9F%8E%E9%90%B5%E7%AB%99%E6%8A%95%E8%B3%871-25%E5%84%84-%E6%97%A5%E5%9D%87%E4%B9%98%E5%AE%A2%E7%82%BA%E5%80%8B%E4%BD%8D%E6%95%B8-%E9%96%8B%E9%80%9A5%E5%B9%B4%E5%BE%8C%E5%81%9C%E9%81%8B%E6%83%B9%E8%AD%B0",
     "timestamp": "2026-03-29T05:03:30.351Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "陳茂波：密切關注油價上升影響　香港能源供應因國家為後盾而穩定",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260329/1114889943647260672714386.jpeg/wz56ujDc5CiJ_PNLym8mpBULliM0qb361r3O-da9zvk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60335254/%E9%99%B3%E8%8C%82%E6%B3%A2-%E5%AF%86%E5%88%87%E9%97%9C%E6%B3%A8%E6%B2%B9%E5%83%B9%E4%B8%8A%E5%8D%87%E5%BD%B1%E9%9F%BF-%E9%A6%99%E6%B8%AF%E8%83%BD%E6%BA%90%E4%BE%9B%E6%87%89%E5%9B%A0%E5%9C%8B%E5%AE%B6%E7%82%BA%E5%BE%8C%E7%9B%BE%E8%80%8C%E7%A9%A9%E5%AE%9A",
-    "timestamp": "2026-03-29T03:52:17.796Z",
     "strategy": ".content-card__main"
   }
 ];
