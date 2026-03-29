@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-29T12:22:35.382Z
+// Last updated: 2026-03-29T13:32:25.245Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "胸口劇痛不止！泰男入院照X光揭「7cm縫衣針藏胸腔」險被刺穿心臟",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260328/1114577803866542080983127.png/tvq7JZKpSOEj1SMRgRQRJl1Z42J9xK0QMg16JTINeiU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60334976/%E8%83%B8%E5%8F%A3%E5%8A%87%E7%97%9B%E4%B8%8D%E6%AD%A2-%E6%B3%B0%E7%94%B7%E5%85%A5%E9%99%A2%E7%85%A7x%E5%85%89%E6%8F%AD-7cm%E7%B8%AB%E8%A1%A3%E9%87%9D%E8%97%8F%E8%83%B8%E8%85%94-%E9%9A%AA%E8%A2%AB%E5%88%BA%E7%A9%BF%E5%BF%83%E8%87%9F",
+    "timestamp": "2026-03-29T13:32:25.245Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "有片｜男子港鐵車廂食電子煙遇查　反抗打休班警　檢依托咪酯煙彈",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260324/1113062677199982592840621.jpeg/Og7I2LKeT0SjiM8KUJYwwhyYWp5kWafYSp8vDEqfLww?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60335230/%E4%BC%8A%E6%9C%97%E6%88%B0%E7%88%AD-%E7%BE%8E%E8%BB%8D%E5%85%A9%E6%A3%B2%E6%94%BB%E6%93%8A%E8%89%A6-%E7%9A%84%E9%BB%8E%E6%B3%A2%E9%87%8C%E8%99%9F-%E6%8A%B5%E4%B8%AD%E6%9D%B1-%E5%A2%9E%E6%B4%BE%E7%B4%843500%E4%BA%BA",
     "timestamp": "2026-03-28T22:15:02.709Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "伊朗戰爭｜美軍兩棲攻擊艦「的黎波里號」抵中東　增派約3500人",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260324/1113062677199982592840621.jpeg/Og7I2LKeT0SjiM8KUJYwwhyYWp5kWafYSp8vDEqfLww?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60335230/%E4%BC%8A%E6%9C%97%E6%88%B0%E7%88%AD-%E7%BE%8E%E8%BB%8D%E5%85%A9%E6%A3%B2%E6%94%BB%E6%93%8A%E8%89%A6-%E7%9A%84%E9%BB%8E%E6%B3%A2%E9%87%8C%E8%99%9F-%E6%8A%B5%E4%B8%AD%E6%9D%B1-%E5%A2%9E%E6%B4%BE%E7%B4%843500%E4%BA%BA",
-    "timestamp": "2026-03-28T21:51:11.892Z",
     "strategy": ".content-card__main"
   }
 ];
