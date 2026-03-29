@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-29T11:59:03.493Z
+// Last updated: 2026-03-29T12:22:35.382Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "有片｜男子港鐵車廂食電子煙遇查　反抗打休班警　檢依托咪酯煙彈",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260329/1115006459231342592630142.jpeg/4IGBg81h3f8ds9hnxpfWM5Gn_6fVWxKaiTiUH4k4lB8",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60335348/%E6%9C%89%E7%89%87-%E7%94%B7%E5%AD%90%E6%B8%AF%E9%90%B5%E8%BB%8A%E5%BB%82%E9%A3%9F%E9%9B%BB%E5%AD%90%E7%85%99%E9%81%87%E6%9F%A5-%E5%8F%8D%E6%8A%97%E6%89%93%E4%BC%91%E7%8F%AD%E8%AD%A6-%E6%AA%A2%E4%BE%9D%E6%89%98%E5%92%AA%E9%85%AF%E7%85%99%E5%BD%88",
+    "timestamp": "2026-03-29T12:22:35.382Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "雷雨帶向南移向珠江口一帶　天文台發雷暴警告　料香港有幾陣雷暴",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260324/1113062677199982592840621.jpeg/Og7I2LKeT0SjiM8KUJYwwhyYWp5kWafYSp8vDEqfLww?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60335230/%E4%BC%8A%E6%9C%97%E6%88%B0%E7%88%AD-%E7%BE%8E%E8%BB%8D%E5%85%A9%E6%A3%B2%E6%94%BB%E6%93%8A%E8%89%A6-%E7%9A%84%E9%BB%8E%E6%B3%A2%E9%87%8C%E8%99%9F-%E6%8A%B5%E4%B8%AD%E6%9D%B1-%E5%A2%9E%E6%B4%BE%E7%B4%843500%E4%BA%BA",
     "timestamp": "2026-03-28T21:51:11.892Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "伊朗戰爭｜美軍兩棲攻擊艦「的黎波里號」抵中東　增派約3500人",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260324/1113062677199982592840621.jpeg/Og7I2LKeT0SjiM8KUJYwwhyYWp5kWafYSp8vDEqfLww?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60335230/%E4%BC%8A%E6%9C%97%E6%88%B0%E7%88%AD-%E7%BE%8E%E8%BB%8D%E5%85%A9%E6%A3%B2%E6%94%BB%E6%93%8A%E8%89%A6-%E7%9A%84%E9%BB%8E%E6%B3%A2%E9%87%8C%E8%99%9F-%E6%8A%B5%E4%B8%AD%E6%9D%B1-%E5%A2%9E%E6%B4%BE%E7%B4%843500%E4%BA%BA",
-    "timestamp": "2026-03-28T21:17:52.667Z",
     "strategy": ".content-card__main"
   }
 ];
