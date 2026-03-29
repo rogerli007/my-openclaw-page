@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-29T07:42:26.802Z
+// Last updated: 2026-03-29T08:25:59.304Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "粉嶺覲龍村對開私家車失事撞欄　六旬漢昏迷送院搶救",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260318/1110941835783704576841703.jpeg/s07-Yl9OJXirDbj7TzTOlb5CSVozhLLpxRIYQcUSGEE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60335309/%E7%B2%89%E5%B6%BA%E8%A6%B2%E9%BE%8D%E6%9D%91%E5%B0%8D%E9%96%8B%E7%A7%81%E5%AE%B6%E8%BB%8A%E5%A4%B1%E4%BA%8B%E6%92%9E%E6%AC%84-%E5%85%AD%E6%97%AC%E6%BC%A2%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2%E6%90%B6%E6%95%91",
+    "timestamp": "2026-03-29T08:25:59.304Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "王菀之澳門演唱會有驚喜 皇上張敬軒突襲上台抱起「皇后」",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260329/1114750524210548736274953.jpeg/busyShiIfzZv6AW1npPtzwPanSqIKRw5PI2nSDyNp0g?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%97%85%E9%81%8A/60335227/wechat-pay%E6%B4%BE%E6%B7%B1%E5%9C%B3%E5%8D%97%E5%B1%B1%E5%8D%80%E5%8D%83%E8%90%AC%E6%B6%88%E8%B2%BB%E5%88%B8-%E6%BB%BF-100%E6%B8%9B100-%E5%9B%9B%E6%8A%98%E6%90%B6%E5%88%B8%E6%95%99%E5%AD%B8",
     "timestamp": "2026-03-28T19:06:19.691Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "運載12噸KitKat朱古力卡車歐洲失竊　或致復活節前夕商店供應短缺",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260329/1114736537712463872018936.jpeg/AYin8B6EIACO8Smc_-XNXBX9G56YEG8vXBXr51wV6-c?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60335226/%E9%81%8B%E8%BC%8912%E5%99%B8kitkat%E6%9C%B1%E5%8F%A4%E5%8A%9B%E5%8D%A1%E8%BB%8A%E6%AD%90%E6%B4%B2%E5%A4%B1%E7%AB%8A-%E6%88%96%E8%87%B4%E5%BE%A9%E6%B4%BB%E7%AF%80%E5%89%8D%E5%A4%95%E5%95%86%E5%BA%97%E4%BE%9B%E6%87%89%E7%9F%AD%E7%BC%BA",
-    "timestamp": "2026-03-28T18:37:35.826Z",
     "strategy": ".content-card__main"
   }
 ];
