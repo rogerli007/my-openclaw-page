@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-29T11:37:08.325Z
+// Last updated: 2026-03-29T11:59:03.493Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "雷雨帶向南移向珠江口一帶　天文台發雷暴警告　料香港有幾陣雷暴",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260329/1115004751172341760041869.jpeg/ijpdIoe4I73uk_P4_QOBRjpHWSrsAeqrZ8BrTmfAa04?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60335350/%E9%9B%B7%E9%9B%A8%E5%B8%B6%E5%90%91%E5%8D%97%E7%A7%BB%E5%90%91%E7%8F%A0%E6%B1%9F%E5%8F%A3%E4%B8%80%E5%B8%B6-%E5%A4%A9%E6%96%87%E5%8F%B0%E7%99%BC%E9%9B%B7%E6%9A%B4%E8%AD%A6%E5%91%8A-%E6%96%99%E9%A6%99%E6%B8%AF%E6%9C%89%E5%B9%BE%E9%99%A3%E9%9B%B7%E6%9A%B4",
+    "timestamp": "2026-03-29T11:59:03.493Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "有片｜屯門小童坐大腿駕私家車　雙手不斷扭軚　網民斥：離晒譜",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260324/1113062677199982592840621.jpeg/Og7I2LKeT0SjiM8KUJYwwhyYWp5kWafYSp8vDEqfLww?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60335230/%E4%BC%8A%E6%9C%97%E6%88%B0%E7%88%AD-%E7%BE%8E%E8%BB%8D%E5%85%A9%E6%A3%B2%E6%94%BB%E6%93%8A%E8%89%A6-%E7%9A%84%E9%BB%8E%E6%B3%A2%E9%87%8C%E8%99%9F-%E6%8A%B5%E4%B8%AD%E6%9D%B1-%E5%A2%9E%E6%B4%BE%E7%B4%843500%E4%BA%BA",
     "timestamp": "2026-03-28T21:17:52.667Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "伊朗戰爭｜美軍兩棲攻擊艦「的黎波里號」抵中東　增派約3500人",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260324/1113062677199982592840621.jpeg/Og7I2LKeT0SjiM8KUJYwwhyYWp5kWafYSp8vDEqfLww?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60335230/%E4%BC%8A%E6%9C%97%E6%88%B0%E7%88%AD-%E7%BE%8E%E8%BB%8D%E5%85%A9%E6%A3%B2%E6%94%BB%E6%93%8A%E8%89%A6-%E7%9A%84%E9%BB%8E%E6%B3%A2%E9%87%8C%E8%99%9F-%E6%8A%B5%E4%B8%AD%E6%9D%B1-%E5%A2%9E%E6%B4%BE%E7%B4%843500%E4%BA%BA",
-    "timestamp": "2026-03-28T21:00:44.643Z",
     "strategy": ".content-card__main"
   }
 ];
