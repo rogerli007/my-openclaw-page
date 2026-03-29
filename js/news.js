@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-29T09:21:58.821Z
+// Last updated: 2026-03-29T09:52:05.838Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "班納山現懷疑仿製手槍9發子彈　重案組跟進　淨山義工：有啲重量",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260329/1114970558786703360480159.jpeg/CS_emICL3qwDUSYM-_bZF4bn4wDNFh8P8Pcy8_D3MvM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60335320/%E7%8F%AD%E7%B4%8D%E5%B1%B1%E7%8F%BE%E6%87%B7%E7%96%91%E4%BB%BF%E8%A3%BD%E6%89%8B%E6%A7%8D9%E7%99%BC%E5%AD%90%E5%BD%88-%E9%87%8D%E6%A1%88%E7%B5%84%E8%B7%9F%E9%80%B2-%E6%B7%A8%E5%B1%B1%E7%BE%A9%E5%B7%A5-%E6%9C%89%E5%95%B2%E9%87%8D%E9%87%8F",
+    "timestamp": "2026-03-29T09:52:05.838Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "日本男退休拒絕公司挽留　寧當低薪夜班倉務員　對第二人生超滿意",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260329/1114766534443536384864075.jpeg/BDXkO1XTkFnyjm1hqT7Dj_51t7YL8V2ILZ-Ygy2fmIM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60335229/%E7%BE%8E%E5%9C%8B%E5%86%8D%E7%88%86no-kings%E7%A4%BA%E5%A8%81-%E9%A0%90%E8%A8%88%E9%80%BE900%E8%90%AC%E4%BA%BA%E5%8F%83%E5%8A%A0-%E6%98%8E%E5%B0%BC%E8%98%87%E9%81%94%E5%B7%9E%E5%B0%87%E6%88%90%E7%84%A6%E9%BB%9E",
     "timestamp": "2026-03-28T19:48:56.929Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "WeChat Pay派深圳南山區千萬消費券！滿$100減100！四折搶券教學",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260329/1114750524210548736274953.jpeg/busyShiIfzZv6AW1npPtzwPanSqIKRw5PI2nSDyNp0g?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%97%85%E9%81%8A/60335227/wechat-pay%E6%B4%BE%E6%B7%B1%E5%9C%B3%E5%8D%97%E5%B1%B1%E5%8D%80%E5%8D%83%E8%90%AC%E6%B6%88%E8%B2%BB%E5%88%B8-%E6%BB%BF-100%E6%B8%9B100-%E5%9B%9B%E6%8A%98%E6%90%B6%E5%88%B8%E6%95%99%E5%AD%B8",
-    "timestamp": "2026-03-28T19:31:52.585Z",
     "strategy": ".content-card__main"
   }
 ];
