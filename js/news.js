@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-30T20:28:07.349Z
+// Last updated: 2026-03-30T21:52:39.672Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "青馬大橋兩死車禍│涉案龍運巴士車長　涉危險駕駛致他人死亡被捕",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260331/1115450643562500096453108.jpeg/9fbyA5-g-sMumec66n8C3Z1hOarCgXSNv6gZLZqoGS0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60335784/%E9%9D%92%E9%A6%AC%E5%A4%A7%E6%A9%8B%E5%85%A9%E6%AD%BB%E8%BB%8A%E7%A6%8D-%E6%B6%89%E6%A1%88%E9%BE%8D%E9%81%8B%E5%B7%B4%E5%A3%AB%E8%BB%8A%E9%95%B7-%E6%B6%89%E5%8D%B1%E9%9A%AA%E9%A7%95%E9%A7%9B%E8%87%B4%E4%BB%96%E4%BA%BA%E6%AD%BB%E4%BA%A1%E8%A2%AB%E6%8D%95",
+    "timestamp": "2026-03-30T21:52:39.672Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "伊朗戰爭｜貝森特對重開霍爾木茲海峽樂觀　料美國將重奪控制權",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260330/1115166940726431744241796.jpeg/ti1fqKkk2SnZaxUmJxbWuMwI9m-nkcDezY_qL82P6i8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60335389/%E5%A4%A9%E6%B0%A3-%E4%BB%8A%E6%97%A5%E6%9C%89%E5%B9%BE%E9%99%A3%E9%A9%9F%E9%9B%A8-%E7%A8%8D%E5%BE%8C%E5%B1%80%E9%83%A8%E5%9C%B0%E5%8D%80%E6%9C%89%E9%9B%B7%E6%9A%B4-%E6%97%A5%E9%96%93%E7%82%8E%E7%86%B1%E7%B4%8428%E5%BA%A6",
     "timestamp": "2026-03-29T22:16:35.709Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "伊朗戰爭｜巴基斯坦外長：很快會主持美伊會談",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260330/1115141373457076224207461.jpeg/1uKzM8te-HukC_Yj8zDtKMFGlCtEOxIkogVbg6IFW4M?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60335395/%E4%BC%8A%E6%9C%97%E6%88%B0%E7%88%AD-%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E5%A4%96%E9%95%B7-%E5%BE%88%E5%BF%AB%E6%9C%83%E4%B8%BB%E6%8C%81%E7%BE%8E%E4%BC%8A%E6%9C%83%E8%AB%87",
-    "timestamp": "2026-03-29T21:37:34.106Z",
     "strategy": ".content-card__main"
   }
 ];
