@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-30T12:09:36.799Z
+// Last updated: 2026-03-30T12:42:53.807Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "前臨汾市長、山西省人大常委會副主任岳普煜被查　涉嚴重違紀違法",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260330/1115387581438103552591830.jpeg/a-5mtuVQEczEkSXHxs2DdrlGdT2h2I0-B4k2kweJNpM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60335727/%E5%89%8D%E8%87%A8%E6%B1%BE%E5%B8%82%E9%95%B7-%E5%B1%B1%E8%A5%BF%E7%9C%81%E4%BA%BA%E5%A4%A7%E5%B8%B8%E5%A7%94%E6%9C%83%E5%89%AF%E4%B8%BB%E4%BB%BB%E5%B2%B3%E6%99%AE%E7%85%9C%E8%A2%AB%E6%9F%A5-%E6%B6%89%E5%9A%B4%E9%87%8D%E9%81%95%E7%B4%80%E9%81%95%E6%B3%95",
+    "timestamp": "2026-03-30T12:42:53.807Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "皇馬簽名會風波｜三名球迷入稟追討　獲判4400元賠償",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260329/1115070823728680960902416.jpeg/j7uRWkNJykSDFz--8INkQHMG25lRwnpGI7l0uSO5dLk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60332288/%E5%90%8D%E5%BB%9A%E8%96%88%E8%90%83%E7%82%BA%E5%8D%9A%E6%84%9B%E6%85%88%E5%96%84%E6%99%9A%E5%AE%B4200%E5%BB%9A%E5%B8%AB%E5%87%BA%E5%8B%95-%E7%82%BA%E5%8D%9A%E6%84%9B%E6%96%B0%E5%AE%89%E8%80%81%E9%99%A2%E8%88%8D%E7%B1%8C%E9%80%BE700%E8%90%AC",
     "timestamp": "2026-03-29T16:18:41.573Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "天水圍天頌苑頌棋閣全幢停電　疑電掣房失火傳巨響　百人疏散",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260329/1115043948113432576375604.jpeg/ozuZz7yXyTIUzN86bIGB6lTeEd1Cnml45AvE7OQLxOw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60335370/%E5%A4%A9%E6%B0%B4%E5%9C%8D%E5%A4%A9%E9%A0%8C%E8%8B%91%E9%A0%8C%E6%A3%8B%E9%96%A3%E5%85%A8%E5%B9%A2%E5%81%9C%E9%9B%BB-%E7%96%91%E9%9B%BB%E6%8E%A3%E6%88%BF%E5%A4%B1%E7%81%AB%E5%82%B3%E5%B7%A8%E9%9F%BF-%E7%99%BE%E4%BA%BA%E7%96%8F%E6%95%A3",
-    "timestamp": "2026-03-29T14:20:15.075Z",
     "strategy": ".content-card__main"
   }
 ];
