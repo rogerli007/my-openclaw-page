@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-30T06:54:41.322Z
+// Last updated: 2026-03-30T08:18:40.286Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "重劍世界盃｜佘繕妡哈薩克站16強止步　陳渭泠勇挫世界第二",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260330/1115317327659798528654390.jpeg/dxzVXDPmaUIR5j6aePDBLumJXUbN0QzoQfrRUEH60VA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60335607/%E9%87%8D%E5%8A%8D%E4%B8%96%E7%95%8C%E7%9B%83-%E4%BD%98%E7%B9%95%E5%A6%A1%E5%93%88%E8%96%A9%E5%85%8B%E7%AB%9916%E5%BC%B7%E6%AD%A2%E6%AD%A5-%E9%99%B3%E6%B8%AD%E6%B3%A0%E5%8B%87%E6%8C%AB%E4%B8%96%E7%95%8C%E7%AC%AC%E4%BA%8C",
+    "timestamp": "2026-03-30T08:18:40.286Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "宏福苑｜失雙親兒子「貪」真相　曾問發泡膠封窗　消防覆沒管物料",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260328/1114577803866542080983127.png/tvq7JZKpSOEj1SMRgRQRJl1Z42J9xK0QMg16JTINeiU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60334976/%E8%83%B8%E5%8F%A3%E5%8A%87%E7%97%9B%E4%B8%8D%E6%AD%A2-%E6%B3%B0%E7%94%B7%E5%85%A5%E9%99%A2%E7%85%A7x%E5%85%89%E6%8F%AD-7cm%E7%B8%AB%E8%A1%A3%E9%87%9D%E8%97%8F%E8%83%B8%E8%85%94-%E9%9A%AA%E8%A2%AB%E5%88%BA%E7%A9%BF%E5%BF%83%E8%87%9F",
     "timestamp": "2026-03-29T13:32:25.245Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "有片｜男子港鐵車廂食電子煙遇查　反抗打休班警　檢依托咪酯煙彈",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260329/1115006459231342592630142.jpeg/4IGBg81h3f8ds9hnxpfWM5Gn_6fVWxKaiTiUH4k4lB8",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60335348/%E6%9C%89%E7%89%87-%E7%94%B7%E5%AD%90%E6%B8%AF%E9%90%B5%E8%BB%8A%E5%BB%82%E9%A3%9F%E9%9B%BB%E5%AD%90%E7%85%99%E9%81%87%E6%9F%A5-%E5%8F%8D%E6%8A%97%E6%89%93%E4%BC%91%E7%8F%AD%E8%AD%A6-%E6%AA%A2%E4%BE%9D%E6%89%98%E5%92%AA%E9%85%AF%E7%85%99%E5%BD%88",
-    "timestamp": "2026-03-29T12:22:35.382Z",
     "strategy": ".content-card__main"
   }
 ];
