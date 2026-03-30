@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-30T14:45:01.108Z
+// Last updated: 2026-03-30T15:15:13.679Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "警指騙徒以流利英語LinkedIn「招募」實習　19歲大學生被騙19萬元",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260330/1115425116436566016602918.jpeg/GPD7hOZfyCYIGfW3r4NwuUlxshzjXwvyAlQR_gJUEf4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60335754/%E8%AD%A6%E6%8C%87%E9%A8%99%E5%BE%92%E4%BB%A5%E6%B5%81%E5%88%A9%E8%8B%B1%E8%AA%9Elinkedin-%E6%8B%9B%E5%8B%9F-%E5%AF%A6%E7%BF%92-19%E6%AD%B2%E5%A4%A7%E5%AD%B8%E7%94%9F%E8%A2%AB%E9%A8%9919%E8%90%AC%E5%85%83",
+    "timestamp": "2026-03-30T15:15:13.679Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "日本國會時隔11年通過臨時預算案　避免政府停擺",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260330/1115111495672270848650982.jpeg/9X1jUnvCQevz2eVq9feVgrIwQ5ZcLYI39ExxId5McSE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60335392/%E9%87%8D%E6%85%B6%E5%A4%A7%E5%BB%88%E8%B3%93%E9%A4%A8%E5%96%AE%E4%BD%8D%E5%86%92%E7%85%99-%E6%B6%88%E9%98%B2%E5%88%B0%E5%A0%B4%E6%95%91%E7%86%84-%E7%94%B7%E5%AD%90%E5%90%B8%E6%BF%83%E7%85%99%E4%B8%8D%E9%81%A9%E9%80%81%E9%99%A2",
     "timestamp": "2026-03-29T18:53:01.447Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "鄭健樂被崔碧珈派「好人卡」後疑似有新歡　頭貼頭合照極親密",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260330/1115088146195812352215386.jpeg/ZR-cxinZYHamlfBb0yn7DSEQOtIMvax3EMztghDM7YI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60335380/%E9%84%AD%E5%81%A5%E6%A8%82%E8%A2%AB%E5%B4%94%E7%A2%A7%E7%8F%88%E6%B4%BE-%E5%A5%BD%E4%BA%BA%E5%8D%A1-%E5%BE%8C%E7%96%91%E4%BC%BC%E6%9C%89%E6%96%B0%E6%AD%A1-%E9%A0%AD%E8%B2%BC%E9%A0%AD%E5%90%88%E7%85%A7%E6%A5%B5%E8%A6%AA%E5%AF%86",
-    "timestamp": "2026-03-29T17:20:09.870Z",
     "strategy": ".content-card__main"
   }
 ];
