@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-30T15:15:13.679Z
+// Last updated: 2026-03-30T16:32:51.115Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "潮屬社團會董就職　李家超：冀善用鄉親網絡助企業拓新興市場",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260331/1115442344569606144504278.jpeg/-r2lonKEyy0tTPu5kwZDlz4sWsP-5W6fAxqgmgMaoJo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60335760/%E6%BD%AE%E5%B1%AC%E7%A4%BE%E5%9C%98%E6%9C%83%E8%91%A3%E5%B0%B1%E8%81%B7-%E6%9D%8E%E5%AE%B6%E8%B6%85-%E5%86%80%E5%96%84%E7%94%A8%E9%84%89%E8%A6%AA%E7%B6%B2%E7%B5%A1%E5%8A%A9%E4%BC%81%E6%A5%AD%E6%8B%93%E6%96%B0%E8%88%88%E5%B8%82%E5%A0%B4",
+    "timestamp": "2026-03-30T16:32:51.115Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "警指騙徒以流利英語LinkedIn「招募」實習　19歲大學生被騙19萬元",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260330/1115111495672270848650982.jpeg/9X1jUnvCQevz2eVq9feVgrIwQ5ZcLYI39ExxId5McSE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60335392/%E9%87%8D%E6%85%B6%E5%A4%A7%E5%BB%88%E8%B3%93%E9%A4%A8%E5%96%AE%E4%BD%8D%E5%86%92%E7%85%99-%E6%B6%88%E9%98%B2%E5%88%B0%E5%A0%B4%E6%95%91%E7%86%84-%E7%94%B7%E5%AD%90%E5%90%B8%E6%BF%83%E7%85%99%E4%B8%8D%E9%81%A9%E9%80%81%E9%99%A2",
     "timestamp": "2026-03-29T20:19:07.373Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "重慶大廈賓館單位冒煙　消防到場救熄　男子吸濃煙不適送院",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260330/1115111495672270848650982.jpeg/9X1jUnvCQevz2eVq9feVgrIwQ5ZcLYI39ExxId5McSE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60335392/%E9%87%8D%E6%85%B6%E5%A4%A7%E5%BB%88%E8%B3%93%E9%A4%A8%E5%96%AE%E4%BD%8D%E5%86%92%E7%85%99-%E6%B6%88%E9%98%B2%E5%88%B0%E5%A0%B4%E6%95%91%E7%86%84-%E7%94%B7%E5%AD%90%E5%90%B8%E6%BF%83%E7%85%99%E4%B8%8D%E9%81%A9%E9%80%81%E9%99%A2",
-    "timestamp": "2026-03-29T18:53:01.447Z",
     "strategy": ".content-card__main"
   }
 ];
