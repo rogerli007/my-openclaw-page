@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-30T21:52:39.672Z
+// Last updated: 2026-03-30T23:21:22.739Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "跟朋友遊泰洗泰國浴！男友分享過程︰對方是變性人　她傻眼提分手",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260301/1104815827133140992146795.png/H4TeA9-USZrZufIZ0qDHpEExqLPxL0_k2RGWb9kRlm8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E8%A9%B1%E9%A1%8C/60326084/%E8%B7%9F%E6%9C%8B%E5%8F%8B%E9%81%8A%E6%B3%B0%E6%B4%97%E6%B3%B0%E5%9C%8B%E6%B5%B4-%E7%94%B7%E5%8F%8B%E5%88%86%E4%BA%AB%E9%81%8E%E7%A8%8B-%E5%B0%8D%E6%96%B9%E6%98%AF%E8%AE%8A%E6%80%A7%E4%BA%BA-%E5%A5%B9%E5%82%BB%E7%9C%BC%E6%8F%90%E5%88%86%E6%89%8B",
+    "timestamp": "2026-03-30T23:21:22.739Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "青馬大橋兩死車禍│涉案龍運巴士車長　涉危險駕駛致他人死亡被捕",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260329/1115047009548505088315486.jpeg/F33B1byejdsU2XtMUYqFqwZ6FpGqnsCgIXtkmyF7ZJs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60335343/%E9%87%91%E7%87%95%E7%8E%B2%E7%82%BA%E5%85%A9%E6%AE%B5%E5%A9%9A%E5%A7%BB%E5%96%AA%E5%A4%B1%E8%87%AA%E6%88%91-%E8%88%87%E8%98%87%E6%96%BD%E9%BB%83%E9%9D%9E%E6%84%9B%E6%83%85%E6%8B%92%E8%AA%8D%E5%90%8C%E6%80%A7%E6%88%80-%E7%95%B6%E4%BD%A2%E6%B0%B4%E6%B3%A1",
     "timestamp": "2026-03-29T22:34:55.629Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "天氣｜今日有幾陣驟雨　稍後局部地區有雷暴　日間炎熱約28度",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260330/1115166940726431744241796.jpeg/ti1fqKkk2SnZaxUmJxbWuMwI9m-nkcDezY_qL82P6i8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60335389/%E5%A4%A9%E6%B0%A3-%E4%BB%8A%E6%97%A5%E6%9C%89%E5%B9%BE%E9%99%A3%E9%A9%9F%E9%9B%A8-%E7%A8%8D%E5%BE%8C%E5%B1%80%E9%83%A8%E5%9C%B0%E5%8D%80%E6%9C%89%E9%9B%B7%E6%9A%B4-%E6%97%A5%E9%96%93%E7%82%8E%E7%86%B1%E7%B4%8428%E5%BA%A6",
-    "timestamp": "2026-03-29T22:16:35.709Z",
     "strategy": ".content-card__main"
   }
 ];
