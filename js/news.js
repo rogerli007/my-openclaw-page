@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-30T01:00:34.086Z
+// Last updated: 2026-03-30T02:47:36.265Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "飛機飲食7大禁忌｜機上千萬不要吃番薯、蘿蔔？飲錯1東西隨時脫水",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250412/987615936536121344659821.jpeg/n0QmRFxIGHfEQGh51jYDP9VMw6qR8s_Ma313X2t9d18?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%97%85%E9%81%8A/60228620/%E9%A3%9B%E6%A9%9F%E9%A3%B2%E9%A3%9F7%E5%A4%A7%E7%A6%81%E5%BF%8C-%E6%A9%9F%E4%B8%8A%E5%8D%83%E8%90%AC%E4%B8%8D%E8%A6%81%E5%90%83%E7%95%AA%E8%96%AF-%E8%98%BF%E8%94%94-%E9%A3%B2%E9%8C%AF1%E6%9D%B1%E8%A5%BF%E9%9A%A8%E6%99%82%E8%84%AB%E6%B0%B4",
+    "timestamp": "2026-03-30T02:47:36.265Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "宏福苑聽證會．最新重點｜今續有遺屬作供　消防承辦商證人首出庭",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260329/1114997207435579392971425.jpeg/gr3T3Je8ldIcD53ANl0ffFcV7oCmR90ERzbKEUc2yhE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60335325/%E8%8A%B1%E5%8D%89%E5%B1%95%E9%96%89%E5%B9%95-%E5%B0%87chiikawa%E8%A7%92%E8%89%B2%E7%95%AB%E5%85%A5%E8%8A%B1%E6%B5%B7-%E7%95%AB%E5%AE%B6-%E6%9C%9B%E4%BB%A4%E5%B0%8F%E6%9C%8B%E5%8F%8B%E6%9B%B4%E6%87%82%E8%B3%9E%E8%8A%B1",
     "timestamp": "2026-03-29T11:20:54.451Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "班納山現懷疑仿製手槍9發子彈　重案組跟進　淨山義工：有啲重量",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260329/1114970558786703360480159.jpeg/CS_emICL3qwDUSYM-_bZF4bn4wDNFh8P8Pcy8_D3MvM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60335320/%E7%8F%AD%E7%B4%8D%E5%B1%B1%E7%8F%BE%E6%87%B7%E7%96%91%E4%BB%BF%E8%A3%BD%E6%89%8B%E6%A7%8D9%E7%99%BC%E5%AD%90%E5%BD%88-%E9%87%8D%E6%A1%88%E7%B5%84%E8%B7%9F%E9%80%B2-%E6%B7%A8%E5%B1%B1%E7%BE%A9%E5%B7%A5-%E6%9C%89%E5%95%B2%E9%87%8D%E9%87%8F",
-    "timestamp": "2026-03-29T09:52:05.838Z",
     "strategy": ".content-card__main"
   }
 ];
