@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-30T02:47:36.265Z
+// Last updated: 2026-03-30T05:08:22.751Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "無國界醫生：以色列攻擊加劇黎巴嫩　切斷民眾醫療服務",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260330/1115271431760908288093284.png/RQI9T78Hb9lgmw61qex8lbn3AkzDCebnkt7bPpLe2z4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E4%B8%96%E7%95%8C%E5%B0%88%E9%A1%8C/60335518/%E7%84%A1%E5%9C%8B%E7%95%8C%E9%86%AB%E7%94%9F-%E4%BB%A5%E8%89%B2%E5%88%97%E6%94%BB%E6%93%8A%E5%8A%A0%E5%8A%87%E9%BB%8E%E5%B7%B4%E5%AB%A9-%E5%88%87%E6%96%B7%E6%B0%91%E7%9C%BE%E9%86%AB%E7%99%82%E6%9C%8D%E5%8B%99",
+    "timestamp": "2026-03-30T05:08:22.751Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "飛機飲食7大禁忌｜機上千萬不要吃番薯、蘿蔔？飲錯1東西隨時脫水",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260329/1114995754126020608768395.jpeg/H1Z9IA6kXCXqV7HjjXzt-t1uBsl3YFDm9IRF3vSERd4?v=w1920",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60335336/%E6%9C%89%E7%89%87-%E5%B1%AF%E9%96%80%E5%B0%8F%E7%AB%A5%E5%9D%90%E5%A4%A7%E8%85%BF%E9%A7%95%E7%A7%81%E5%AE%B6%E8%BB%8A-%E9%9B%99%E6%89%8B%E4%B8%8D%E6%96%B7%E6%89%AD%E8%BB%9A-%E7%B6%B2%E6%B0%91%E6%96%A5-%E9%9B%A2%E6%99%92%E8%AD%9C",
     "timestamp": "2026-03-29T11:37:08.325Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "花卉展閉幕｜將CHIIKAWA角色畫入花海　畫家：望令小朋友更懂賞花",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260329/1114997207435579392971425.jpeg/gr3T3Je8ldIcD53ANl0ffFcV7oCmR90ERzbKEUc2yhE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60335325/%E8%8A%B1%E5%8D%89%E5%B1%95%E9%96%89%E5%B9%95-%E5%B0%87chiikawa%E8%A7%92%E8%89%B2%E7%95%AB%E5%85%A5%E8%8A%B1%E6%B5%B7-%E7%95%AB%E5%AE%B6-%E6%9C%9B%E4%BB%A4%E5%B0%8F%E6%9C%8B%E5%8F%8B%E6%9B%B4%E6%87%82%E8%B3%9E%E8%8A%B1",
-    "timestamp": "2026-03-29T11:20:54.451Z",
     "strategy": ".content-card__main"
   }
 ];
