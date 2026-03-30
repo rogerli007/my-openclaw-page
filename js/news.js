@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-29T22:34:55.629Z
+// Last updated: 2026-03-30T01:00:34.086Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "宏福苑聽證會．最新重點｜今續有遺屬作供　消防承辦商證人首出庭",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260330/1115140612098625536317256.jpeg/nOT2HlrbFlSrJBwvogASCRoPONIyCThJ2r8tp9q_Lac?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60335396/%E5%AE%8F%E7%A6%8F%E8%8B%91%E8%81%BD%E8%AD%89%E6%9C%83%E6%96%87%E5%AD%97%E7%9B%B4%E6%92%AD-%E9%87%8D%E9%BB%9E-%E7%BA%8C%E6%9C%89%E5%B1%85%E6%B0%91%E4%BD%9C%E8%AD%89-%E6%B6%88%E9%98%B2%E6%89%BF%E8%BE%A6%E5%95%86%E9%A6%96%E4%BD%9C%E4%BE%9B",
+    "timestamp": "2026-03-30T01:00:34.086Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "金燕玲為兩段婚姻喪失自我　與蘇施黃非愛情拒認同性戀：當佢水泡",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260329/1114970558786703360480159.jpeg/CS_emICL3qwDUSYM-_bZF4bn4wDNFh8P8Pcy8_D3MvM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60335320/%E7%8F%AD%E7%B4%8D%E5%B1%B1%E7%8F%BE%E6%87%B7%E7%96%91%E4%BB%BF%E8%A3%BD%E6%89%8B%E6%A7%8D9%E7%99%BC%E5%AD%90%E5%BD%88-%E9%87%8D%E6%A1%88%E7%B5%84%E8%B7%9F%E9%80%B2-%E6%B7%A8%E5%B1%B1%E7%BE%A9%E5%B7%A5-%E6%9C%89%E5%95%B2%E9%87%8D%E9%87%8F",
     "timestamp": "2026-03-29T09:52:05.838Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "日本男退休拒絕公司挽留　寧當低薪夜班倉務員　對第二人生超滿意",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260329/1114953494583840768391052.png/9GN8uHBbR1pocCJi59gRKNYi29p5eTpjg_n5_en5-f0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%92%B0%E7%90%83%E8%B6%A3%E8%81%9E/60335278/%E6%97%A5%E6%9C%AC%E7%94%B7%E9%80%80%E4%BC%91%E6%8B%92%E7%B5%95%E5%85%AC%E5%8F%B8%E6%8C%BD%E7%95%99-%E5%AF%A7%E7%95%B6%E4%BD%8E%E8%96%AA%E5%A4%9C%E7%8F%AD%E5%80%89%E5%8B%99%E5%93%A1-%E5%B0%8D%E7%AC%AC%E4%BA%8C%E4%BA%BA%E7%94%9F%E8%B6%85%E6%BB%BF%E6%84%8F",
-    "timestamp": "2026-03-29T09:21:58.821Z",
     "strategy": ".content-card__main"
   }
 ];
