@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-30T16:58:18.670Z
+// Last updated: 2026-03-30T18:57:47.587Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "白宮：與伊朗談判正進展順利　特朗普冀4月6日前達成協議",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260331/1115470174078636032318954.jpeg/qQmehwEZESvx5o2ePCtalp11U3IogKAeM2nxRTNp8UU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60335777/%E7%99%BD%E5%AE%AE-%E8%88%87%E4%BC%8A%E6%9C%97%E8%AB%87%E5%88%A4%E6%AD%A3%E9%80%B2%E5%B1%95%E9%A0%86%E5%88%A9-%E7%89%B9%E6%9C%97%E6%99%AE%E5%86%804%E6%9C%886%E6%97%A5%E5%89%8D%E9%81%94%E6%88%90%E5%8D%94%E8%AD%B0",
+    "timestamp": "2026-03-30T18:57:47.587Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "施明逝世｜李家鼎李泳漢今月到法會尋喇嘛打救　神情肅穆表現虔誠",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260330/1115141373457076224207461.jpeg/1uKzM8te-HukC_Yj8zDtKMFGlCtEOxIkogVbg6IFW4M?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60335395/%E4%BC%8A%E6%9C%97%E6%88%B0%E7%88%AD-%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E5%A4%96%E9%95%B7-%E5%BE%88%E5%BF%AB%E6%9C%83%E4%B8%BB%E6%8C%81%E7%BE%8E%E4%BC%8A%E6%9C%83%E8%AB%87",
     "timestamp": "2026-03-29T21:02:06.597Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "伊朗戰爭｜巴基斯坦外長：很快會主持美伊會談",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260330/1115141373457076224207461.jpeg/1uKzM8te-HukC_Yj8zDtKMFGlCtEOxIkogVbg6IFW4M?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60335395/%E4%BC%8A%E6%9C%97%E6%88%B0%E7%88%AD-%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E5%A4%96%E9%95%B7-%E5%BE%88%E5%BF%AB%E6%9C%83%E4%B8%BB%E6%8C%81%E7%BE%8E%E4%BC%8A%E6%9C%83%E8%AB%87",
-    "timestamp": "2026-03-29T20:42:17.619Z",
     "strategy": ".content-card__main"
   }
 ];
