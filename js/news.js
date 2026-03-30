@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-30T23:21:22.739Z
+// Last updated: 2026-03-30T23:51:43.392Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "舜宇光學去股東應佔溢利46.39億　按年上升約71.9%",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/20200409/324971221966000128.jpeg/Ju6lwHD6pBmC89RZDEUxvMkPHKBvzxrLi_6RCYv-kQk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60335790/%E8%88%9C%E5%AE%87%E5%85%89%E5%AD%B8%E5%8E%BB%E8%82%A1%E6%9D%B1%E6%87%89%E4%BD%94%E6%BA%A2%E5%88%A946-39%E5%84%84-%E6%8C%89%E5%B9%B4%E4%B8%8A%E5%8D%87%E7%B4%8471-9",
+    "timestamp": "2026-03-30T23:51:43.392Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "跟朋友遊泰洗泰國浴！男友分享過程︰對方是變性人　她傻眼提分手",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260330/1115140612098625536317256.jpeg/nOT2HlrbFlSrJBwvogASCRoPONIyCThJ2r8tp9q_Lac?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60335396/%E5%AE%8F%E7%A6%8F%E8%8B%91%E8%81%BD%E8%AD%89%E6%9C%83%E6%96%87%E5%AD%97%E7%9B%B4%E6%92%AD-%E9%87%8D%E9%BB%9E-%E7%BA%8C%E6%9C%89%E5%B1%85%E6%B0%91%E4%BD%9C%E8%AD%89-%E6%B6%88%E9%98%B2%E6%89%BF%E8%BE%A6%E5%95%86%E9%A6%96%E4%BD%9C%E4%BE%9B",
     "timestamp": "2026-03-30T01:00:34.086Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "金燕玲為兩段婚姻喪失自我　與蘇施黃非愛情拒認同性戀：當佢水泡",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260329/1115047009548505088315486.jpeg/F33B1byejdsU2XtMUYqFqwZ6FpGqnsCgIXtkmyF7ZJs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60335343/%E9%87%91%E7%87%95%E7%8E%B2%E7%82%BA%E5%85%A9%E6%AE%B5%E5%A9%9A%E5%A7%BB%E5%96%AA%E5%A4%B1%E8%87%AA%E6%88%91-%E8%88%87%E8%98%87%E6%96%BD%E9%BB%83%E9%9D%9E%E6%84%9B%E6%83%85%E6%8B%92%E8%AA%8D%E5%90%8C%E6%80%A7%E6%88%80-%E7%95%B6%E4%BD%A2%E6%B0%B4%E6%B3%A1",
-    "timestamp": "2026-03-29T22:34:55.629Z",
     "strategy": ".content-card__main"
   }
 ];
