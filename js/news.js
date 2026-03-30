@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-30T06:01:29.868Z
+// Last updated: 2026-03-30T06:54:41.322Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "宏福苑｜失雙親兒子「貪」真相　曾問發泡膠封窗　消防覆沒管物料",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260330/1115267062462156800451768.jpeg/PkSy2QRl5NCvtxoCJEoj1w_d7s2kQhWfEalN0hGpTdI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60335517/%E5%AE%8F%E7%A6%8F%E8%8B%91-%E5%A4%B1%E9%9B%99%E8%A6%AA%E5%85%92%E5%AD%90-%E8%B2%AA-%E7%9C%9F%E7%9B%B8-%E6%9B%BE%E5%95%8F%E7%99%BC%E6%B3%A1%E8%86%A0%E5%B0%81%E7%AA%97-%E6%B6%88%E9%98%B2%E8%A6%86%E6%B2%92%E7%AE%A1%E7%89%A9%E6%96%99",
+    "timestamp": "2026-03-30T06:54:41.322Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "英國前孔子學院院長：中英關係至暗時刻　背上「中國間諜」罵名",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260329/1115006459231342592630142.jpeg/4IGBg81h3f8ds9hnxpfWM5Gn_6fVWxKaiTiUH4k4lB8",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60335348/%E6%9C%89%E7%89%87-%E7%94%B7%E5%AD%90%E6%B8%AF%E9%90%B5%E8%BB%8A%E5%BB%82%E9%A3%9F%E9%9B%BB%E5%AD%90%E7%85%99%E9%81%87%E6%9F%A5-%E5%8F%8D%E6%8A%97%E6%89%93%E4%BC%91%E7%8F%AD%E8%AD%A6-%E6%AA%A2%E4%BE%9D%E6%89%98%E5%92%AA%E9%85%AF%E7%85%99%E5%BD%88",
     "timestamp": "2026-03-29T12:22:35.382Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "雷雨帶向南移向珠江口一帶　天文台發雷暴警告　料香港有幾陣雷暴",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260329/1115004751172341760041869.jpeg/ijpdIoe4I73uk_P4_QOBRjpHWSrsAeqrZ8BrTmfAa04?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60335350/%E9%9B%B7%E9%9B%A8%E5%B8%B6%E5%90%91%E5%8D%97%E7%A7%BB%E5%90%91%E7%8F%A0%E6%B1%9F%E5%8F%A3%E4%B8%80%E5%B8%B6-%E5%A4%A9%E6%96%87%E5%8F%B0%E7%99%BC%E9%9B%B7%E6%9A%B4%E8%AD%A6%E5%91%8A-%E6%96%99%E9%A6%99%E6%B8%AF%E6%9C%89%E5%B9%BE%E9%99%A3%E9%9B%B7%E6%9A%B4",
-    "timestamp": "2026-03-29T11:59:03.493Z",
     "strategy": ".content-card__main"
   }
 ];
