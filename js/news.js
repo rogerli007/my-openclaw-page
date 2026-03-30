@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-30T08:18:40.286Z
+// Last updated: 2026-03-30T08:57:03.516Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "日圓一度失160關後   日本央行︰未來幾個月可能會考慮提高利率",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260212/1098612174735282176291348.jpeg/dAH0K7X-78K2QZKLCkXE9gtbDBCVC0KKmfVbUpn1W1I?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60335637/%E6%97%A5%E5%9C%93%E4%B8%80%E5%BA%A6%E5%A4%B1160%E9%97%9C%E5%BE%8C-%E6%97%A5%E6%9C%AC%E5%A4%AE%E8%A1%8C-%E6%9C%AA%E4%BE%86%E5%B9%BE%E5%80%8B%E6%9C%88%E5%8F%AF%E8%83%BD%E6%9C%83%E8%80%83%E6%85%AE%E6%8F%90%E9%AB%98%E5%88%A9%E7%8E%87",
+    "timestamp": "2026-03-30T08:57:03.516Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "重劍世界盃｜佘繕妡哈薩克站16強止步　陳渭泠勇挫世界第二",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260329/1115043948113432576375604.jpeg/ozuZz7yXyTIUzN86bIGB6lTeEd1Cnml45AvE7OQLxOw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60335370/%E5%A4%A9%E6%B0%B4%E5%9C%8D%E5%A4%A9%E9%A0%8C%E8%8B%91%E9%A0%8C%E6%A3%8B%E9%96%A3%E5%85%A8%E5%B9%A2%E5%81%9C%E9%9B%BB-%E7%96%91%E9%9B%BB%E6%8E%A3%E6%88%BF%E5%A4%B1%E7%81%AB%E5%82%B3%E5%B7%A8%E9%9F%BF-%E7%99%BE%E4%BA%BA%E7%96%8F%E6%95%A3",
     "timestamp": "2026-03-29T13:57:06.856Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "胸口劇痛不止！泰男入院照X光揭「7cm縫衣針藏胸腔」險被刺穿心臟",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260328/1114577803866542080983127.png/tvq7JZKpSOEj1SMRgRQRJl1Z42J9xK0QMg16JTINeiU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60334976/%E8%83%B8%E5%8F%A3%E5%8A%87%E7%97%9B%E4%B8%8D%E6%AD%A2-%E6%B3%B0%E7%94%B7%E5%85%A5%E9%99%A2%E7%85%A7x%E5%85%89%E6%8F%AD-7cm%E7%B8%AB%E8%A1%A3%E9%87%9D%E8%97%8F%E8%83%B8%E8%85%94-%E9%9A%AA%E8%A2%AB%E5%88%BA%E7%A9%BF%E5%BF%83%E8%87%9F",
-    "timestamp": "2026-03-29T13:32:25.245Z",
     "strategy": ".content-card__main"
   }
 ];
