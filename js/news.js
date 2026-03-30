@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-30T13:16:59.108Z
+// Last updated: 2026-03-30T14:45:01.108Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "日本國會時隔11年通過臨時預算案　避免政府停擺",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250714/1021448186041995264738462.jpeg/9jKnCx3j_YMhmrhCGT7UONgWhLLj2iHPjwPwho8D8IY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60335748/%E6%97%A5%E6%9C%AC%E5%9C%8B%E6%9C%83%E6%99%82%E9%9A%9411%E5%B9%B4%E9%80%9A%E9%81%8E%E8%87%A8%E6%99%82%E9%A0%90%E7%AE%97%E6%A1%88-%E9%81%BF%E5%85%8D%E6%94%BF%E5%BA%9C%E5%81%9C%E6%93%BA",
+    "timestamp": "2026-03-30T14:45:01.108Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "內地招西瓜主理人年薪20萬人民幣？大專以上學歷　僱主：賺得回來",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260330/1115088146195812352215386.jpeg/ZR-cxinZYHamlfBb0yn7DSEQOtIMvax3EMztghDM7YI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60335380/%E9%84%AD%E5%81%A5%E6%A8%82%E8%A2%AB%E5%B4%94%E7%A2%A7%E7%8F%88%E6%B4%BE-%E5%A5%BD%E4%BA%BA%E5%8D%A1-%E5%BE%8C%E7%96%91%E4%BC%BC%E6%9C%89%E6%96%B0%E6%AD%A1-%E9%A0%AD%E8%B2%BC%E9%A0%AD%E5%90%88%E7%85%A7%E6%A5%B5%E8%A6%AA%E5%AF%86",
     "timestamp": "2026-03-29T17:20:09.870Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "沙田小巴落客時突駛前　83歲婦跌出車外半昏迷　男司機涉危駕被捕",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20240708/886996844045930496358261.jpeg/XP3UcTYAVp0PTXgmomPNJlZw77QC2myXKrBqBCqwagQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60335386/%E6%B2%99%E7%94%B0%E5%B0%8F%E5%B7%B4%E8%90%BD%E5%AE%A2%E6%99%82%E7%AA%81%E9%A7%9B%E5%89%8D-83%E6%AD%B2%E5%A9%A6%E8%B7%8C%E5%87%BA%E8%BB%8A%E5%A4%96%E5%8D%8A%E6%98%8F%E8%BF%B7-%E7%94%B7%E5%8F%B8%E6%A9%9F%E6%B6%89%E5%8D%B1%E9%A7%95%E8%A2%AB%E6%8D%95",
-    "timestamp": "2026-03-29T16:39:09.036Z",
     "strategy": ".content-card__main"
   }
 ];
