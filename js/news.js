@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-30T05:08:22.751Z
+// Last updated: 2026-03-30T06:01:29.868Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "英國前孔子學院院長：中英關係至暗時刻　背上「中國間諜」罵名",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260323/1112758499340980224203758.jpeg/5ODcoBqfzzOOfroa5wg6yEJ-_mX27uCnh7yIfIe8iHw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E4%B8%96%E7%95%8C%E5%B0%88%E9%A1%8C/60333040/%E8%8B%B1%E5%9C%8B%E5%89%8D%E5%AD%94%E5%AD%90%E5%AD%B8%E9%99%A2%E9%99%A2%E9%95%B7-%E4%B8%AD%E8%8B%B1%E9%97%9C%E4%BF%82%E8%87%B3%E6%9A%97%E6%99%82%E5%88%BB-%E8%83%8C%E4%B8%8A-%E4%B8%AD%E5%9C%8B%E9%96%93%E8%AB%9C-%E7%BD%B5%E5%90%8D",
+    "timestamp": "2026-03-30T06:01:29.868Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "無國界醫生：以色列攻擊加劇黎巴嫩　切斷民眾醫療服務",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260329/1115004751172341760041869.jpeg/ijpdIoe4I73uk_P4_QOBRjpHWSrsAeqrZ8BrTmfAa04?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60335350/%E9%9B%B7%E9%9B%A8%E5%B8%B6%E5%90%91%E5%8D%97%E7%A7%BB%E5%90%91%E7%8F%A0%E6%B1%9F%E5%8F%A3%E4%B8%80%E5%B8%B6-%E5%A4%A9%E6%96%87%E5%8F%B0%E7%99%BC%E9%9B%B7%E6%9A%B4%E8%AD%A6%E5%91%8A-%E6%96%99%E9%A6%99%E6%B8%AF%E6%9C%89%E5%B9%BE%E9%99%A3%E9%9B%B7%E6%9A%B4",
     "timestamp": "2026-03-29T11:59:03.493Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "有片｜屯門小童坐大腿駕私家車　雙手不斷扭軚　網民斥：離晒譜",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260329/1114995754126020608768395.jpeg/H1Z9IA6kXCXqV7HjjXzt-t1uBsl3YFDm9IRF3vSERd4?v=w1920",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60335336/%E6%9C%89%E7%89%87-%E5%B1%AF%E9%96%80%E5%B0%8F%E7%AB%A5%E5%9D%90%E5%A4%A7%E8%85%BF%E9%A7%95%E7%A7%81%E5%AE%B6%E8%BB%8A-%E9%9B%99%E6%89%8B%E4%B8%8D%E6%96%B7%E6%89%AD%E8%BB%9A-%E7%B6%B2%E6%B0%91%E6%96%A5-%E9%9B%A2%E6%99%92%E8%AD%9C",
-    "timestamp": "2026-03-29T11:37:08.325Z",
     "strategy": ".content-card__main"
   }
 ];
