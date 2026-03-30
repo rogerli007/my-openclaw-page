@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-30T12:42:53.807Z
+// Last updated: 2026-03-30T13:16:59.108Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "內地招西瓜主理人年薪20萬人民幣？大專以上學歷　僱主：賺得回來",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260330/1115354637348638720278063.png/IUC2ZdiscvPF_p76ho84hQ1O-UOJFFmZeF48KXhePCk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60333523/%E5%85%A7%E5%9C%B0%E6%8B%9B%E8%A5%BF%E7%93%9C%E4%B8%BB%E7%90%86%E4%BA%BA%E5%B9%B4%E8%96%AA20%E8%90%AC%E4%BA%BA%E6%B0%91%E5%B9%A3-%E5%A4%A7%E5%B0%88%E4%BB%A5%E4%B8%8A%E5%AD%B8%E6%AD%B7-%E5%83%B1%E4%B8%BB-%E8%B3%BA%E5%BE%97%E5%9B%9E%E4%BE%86",
+    "timestamp": "2026-03-30T13:16:59.108Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "前臨汾市長、山西省人大常委會副主任岳普煜被查　涉嚴重違紀違法",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20240708/886996844045930496358261.jpeg/XP3UcTYAVp0PTXgmomPNJlZw77QC2myXKrBqBCqwagQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60335386/%E6%B2%99%E7%94%B0%E5%B0%8F%E5%B7%B4%E8%90%BD%E5%AE%A2%E6%99%82%E7%AA%81%E9%A7%9B%E5%89%8D-83%E6%AD%B2%E5%A9%A6%E8%B7%8C%E5%87%BA%E8%BB%8A%E5%A4%96%E5%8D%8A%E6%98%8F%E8%BF%B7-%E7%94%B7%E5%8F%B8%E6%A9%9F%E6%B6%89%E5%8D%B1%E9%A7%95%E8%A2%AB%E6%8D%95",
     "timestamp": "2026-03-29T16:39:09.036Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "名廚薈萃為博愛慈善晚宴200廚師出動　為博愛新安老院舍籌逾700萬",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260329/1115070823728680960902416.jpeg/j7uRWkNJykSDFz--8INkQHMG25lRwnpGI7l0uSO5dLk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60332288/%E5%90%8D%E5%BB%9A%E8%96%88%E8%90%83%E7%82%BA%E5%8D%9A%E6%84%9B%E6%85%88%E5%96%84%E6%99%9A%E5%AE%B4200%E5%BB%9A%E5%B8%AB%E5%87%BA%E5%8B%95-%E7%82%BA%E5%8D%9A%E6%84%9B%E6%96%B0%E5%AE%89%E8%80%81%E9%99%A2%E8%88%8D%E7%B1%8C%E9%80%BE700%E8%90%AC",
-    "timestamp": "2026-03-29T16:18:41.573Z",
     "strategy": ".content-card__main"
   }
 ];
