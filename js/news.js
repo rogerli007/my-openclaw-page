@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-30T19:32:12.004Z
+// Last updated: 2026-03-30T20:28:07.349Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "伊朗戰爭｜貝森特對重開霍爾木茲海峽樂觀　料美國將重奪控制權",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260121/1090753324950491136983724.jpeg/v67KMdxQQXLlxU-fBQOsF0qRbNM8i2WdM-KW3jPilt4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60335779/%E4%BC%8A%E6%9C%97%E6%88%B0%E7%88%AD-%E8%B2%9D%E6%A3%AE%E7%89%B9%E5%B0%8D%E9%87%8D%E9%96%8B%E9%9C%8D%E7%88%BE%E6%9C%A8%E8%8C%B2%E6%B5%B7%E5%B3%BD%E6%A8%82%E8%A7%80-%E6%96%99%E7%BE%8E%E5%9C%8B%E5%B0%87%E9%87%8D%E5%A5%AA%E6%8E%A7%E5%88%B6%E6%AC%8A",
+    "timestamp": "2026-03-30T20:28:07.349Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "白宮：與伊朗談判正進展順利　特朗普冀4月6日前達成協議",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260330/1115141373457076224207461.jpeg/1uKzM8te-HukC_Yj8zDtKMFGlCtEOxIkogVbg6IFW4M?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60335395/%E4%BC%8A%E6%9C%97%E6%88%B0%E7%88%AD-%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E5%A4%96%E9%95%B7-%E5%BE%88%E5%BF%AB%E6%9C%83%E4%B8%BB%E6%8C%81%E7%BE%8E%E4%BC%8A%E6%9C%83%E8%AB%87",
     "timestamp": "2026-03-29T21:37:34.106Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "伊朗戰爭｜巴基斯坦外長：很快會主持美伊會談",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260330/1115141373457076224207461.jpeg/1uKzM8te-HukC_Yj8zDtKMFGlCtEOxIkogVbg6IFW4M?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60335395/%E4%BC%8A%E6%9C%97%E6%88%B0%E7%88%AD-%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E5%A4%96%E9%95%B7-%E5%BE%88%E5%BF%AB%E6%9C%83%E4%B8%BB%E6%8C%81%E7%BE%8E%E4%BC%8A%E6%9C%83%E8%AB%87",
-    "timestamp": "2026-03-29T21:21:12.982Z",
     "strategy": ".content-card__main"
   }
 ];
