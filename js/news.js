@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-30T16:32:51.115Z
+// Last updated: 2026-03-30T16:58:18.670Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "施明逝世｜李家鼎李泳漢今月到法會尋喇嘛打救　神情肅穆表現虔誠",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260331/1115450641490120704037586.jpeg/4vcbhiOGZSS4BT2YbPht5zozkcCdbn5kQbOYd0GzmHc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60335768/%E6%96%BD%E6%98%8E%E9%80%9D%E4%B8%96-%E6%9D%8E%E5%AE%B6%E9%BC%8E%E6%9D%8E%E6%B3%B3%E6%BC%A2%E4%BB%8A%E6%9C%88%E5%88%B0%E6%B3%95%E6%9C%83%E5%B0%8B%E5%96%87%E5%98%9B%E6%89%93%E6%95%91-%E7%A5%9E%E6%83%85%E8%82%85%E7%A9%86%E8%A1%A8%E7%8F%BE%E8%99%94%E8%AA%A0",
+    "timestamp": "2026-03-30T16:58:18.670Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "潮屬社團會董就職　李家超：冀善用鄉親網絡助企業拓新興市場",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260330/1115141373457076224207461.jpeg/1uKzM8te-HukC_Yj8zDtKMFGlCtEOxIkogVbg6IFW4M?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60335395/%E4%BC%8A%E6%9C%97%E6%88%B0%E7%88%AD-%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E5%A4%96%E9%95%B7-%E5%BE%88%E5%BF%AB%E6%9C%83%E4%B8%BB%E6%8C%81%E7%BE%8E%E4%BC%8A%E6%9C%83%E8%AB%87",
     "timestamp": "2026-03-29T20:42:17.619Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "重慶大廈賓館單位冒煙　消防到場救熄　男子吸濃煙不適送院",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260330/1115111495672270848650982.jpeg/9X1jUnvCQevz2eVq9feVgrIwQ5ZcLYI39ExxId5McSE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60335392/%E9%87%8D%E6%85%B6%E5%A4%A7%E5%BB%88%E8%B3%93%E9%A4%A8%E5%96%AE%E4%BD%8D%E5%86%92%E7%85%99-%E6%B6%88%E9%98%B2%E5%88%B0%E5%A0%B4%E6%95%91%E7%86%84-%E7%94%B7%E5%AD%90%E5%90%B8%E6%BF%83%E7%85%99%E4%B8%8D%E9%81%A9%E9%80%81%E9%99%A2",
-    "timestamp": "2026-03-29T20:19:07.373Z",
     "strategy": ".content-card__main"
   }
 ];
