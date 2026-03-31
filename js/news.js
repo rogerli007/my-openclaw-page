@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-31T14:43:50.363Z
+// Last updated: 2026-03-31T15:15:27.231Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美股｜憧憬戰事完結　道指早段曾漲逾600點　納指標指最新升逾1%",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250930/1049830299971620864836107.jpeg/Zi8zOhWF2220rO4q9qvIco1UCsGv6ofY7xNO5u8TTuY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60336133/%E7%BE%8E%E8%82%A1-%E6%86%A7%E6%86%AC%E6%88%B0%E4%BA%8B%E5%AE%8C%E7%B5%90-%E9%81%93%E6%8C%87%E6%97%A9%E6%AE%B5%E6%9B%BE%E6%BC%B2%E9%80%BE600%E9%BB%9E-%E7%B4%8D%E6%8C%87%E6%A8%99%E6%8C%87%E6%9C%80%E6%96%B0%E5%8D%87%E9%80%BE1",
+    "timestamp": "2026-03-31T15:15:27.231Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "鄧俊文謝影雪6度獲獎並列史上最多　珍惜每次上台機會｜傑運選舉",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260331/1115470174078636032318954.jpeg/qQmehwEZESvx5o2ePCtalp11U3IogKAeM2nxRTNp8UU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60335777/%E7%99%BD%E5%AE%AE-%E8%88%87%E4%BC%8A%E6%9C%97%E8%AB%87%E5%88%A4%E6%AD%A3%E9%80%B2%E5%B1%95%E9%A0%86%E5%88%A9-%E7%89%B9%E6%9C%97%E6%99%AE%E5%86%804%E6%9C%886%E6%97%A5%E5%89%8D%E9%81%94%E6%88%90%E5%8D%94%E8%AD%B0",
     "timestamp": "2026-03-30T19:32:12.004Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "白宮：與伊朗談判正進展順利　特朗普冀4月6日前達成協議",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260331/1115470174078636032318954.jpeg/qQmehwEZESvx5o2ePCtalp11U3IogKAeM2nxRTNp8UU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60335777/%E7%99%BD%E5%AE%AE-%E8%88%87%E4%BC%8A%E6%9C%97%E8%AB%87%E5%88%A4%E6%AD%A3%E9%80%B2%E5%B1%95%E9%A0%86%E5%88%A9-%E7%89%B9%E6%9C%97%E6%99%AE%E5%86%804%E6%9C%886%E6%97%A5%E5%89%8D%E9%81%94%E6%88%90%E5%8D%94%E8%AD%B0",
-    "timestamp": "2026-03-30T18:57:47.587Z",
     "strategy": ".content-card__main"
   }
 ];
