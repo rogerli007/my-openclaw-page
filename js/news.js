@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-31T17:41:37.751Z
+// Last updated: 2026-03-31T21:52:47.867Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "世盃外附加賽｜意大利互射12碼敗於波斯尼亞　連續三屆無緣決賽周",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260401/1115874187827744768390567.jpeg/j5kQS6Z5hbcvAcXzoTu5pig0WB9AsIMxYnJ3LGJydyw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60336159/%E4%B8%96%E7%9B%83%E5%A4%96%E9%99%84%E5%8A%A0%E8%B3%BD-%E6%84%8F%E5%A4%A7%E5%88%A9%E4%BA%92%E5%B0%8412%E7%A2%BC%E6%95%97%E6%96%BC%E6%B3%A2%E6%96%AF%E5%B0%BC%E4%BA%9E-%E9%80%A3%E7%BA%8C%E4%B8%89%E5%B1%86%E7%84%A1%E7%B7%A3%E6%B1%BA%E8%B3%BD%E5%91%A8",
+    "timestamp": "2026-03-31T21:52:47.867Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "李思穎返港落機即置裝　首膺十傑比落場更緊張｜傑運選舉",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/20200409/324971221966000128.jpeg/Ju6lwHD6pBmC89RZDEUxvMkPHKBvzxrLi_6RCYv-kQk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60335790/%E8%88%9C%E5%AE%87%E5%85%89%E5%AD%B8%E5%8E%BB%E8%82%A1%E6%9D%B1%E6%87%89%E4%BD%94%E6%BA%A2%E5%88%A946-39%E5%84%84-%E6%8C%89%E5%B9%B4%E4%B8%8A%E5%8D%87%E7%B4%8471-9",
     "timestamp": "2026-03-30T23:51:43.392Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "跟朋友遊泰洗泰國浴！男友分享過程︰對方是變性人　她傻眼提分手",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260301/1104815827133140992146795.png/H4TeA9-USZrZufIZ0qDHpEExqLPxL0_k2RGWb9kRlm8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E8%A9%B1%E9%A1%8C/60326084/%E8%B7%9F%E6%9C%8B%E5%8F%8B%E9%81%8A%E6%B3%B0%E6%B4%97%E6%B3%B0%E5%9C%8B%E6%B5%B4-%E7%94%B7%E5%8F%8B%E5%88%86%E4%BA%AB%E9%81%8E%E7%A8%8B-%E5%B0%8D%E6%96%B9%E6%98%AF%E8%AE%8A%E6%80%A7%E4%BA%BA-%E5%A5%B9%E5%82%BB%E7%9C%BC%E6%8F%90%E5%88%86%E6%89%8B",
-    "timestamp": "2026-03-30T23:21:22.739Z",
     "strategy": ".content-card__main"
   }
 ];
