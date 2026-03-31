@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-31T14:01:28.752Z
+// Last updated: 2026-03-31T14:43:50.363Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "鄧俊文謝影雪6度獲獎並列史上最多　珍惜每次上台機會｜傑運選舉",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260331/1115780185396875264037629.jpeg/VJjbYPzfZf5LPcJus65N26INn86gEf8ThYr6O4WK-js?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60335957/%E9%84%A7%E4%BF%8A%E6%96%87%E8%AC%9D%E5%BD%B1%E9%9B%AA6%E5%BA%A6%E7%8D%B2%E7%8D%8E%E4%B8%A6%E5%88%97%E5%8F%B2%E4%B8%8A%E6%9C%80%E5%A4%9A-%E7%8F%8D%E6%83%9C%E6%AF%8F%E6%AC%A1%E4%B8%8A%E5%8F%B0%E6%A9%9F%E6%9C%83-%E5%82%91%E9%81%8B%E9%81%B8%E8%88%89",
+    "timestamp": "2026-03-31T14:43:50.363Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "迷你杯裝蒟蒻果凍4.1起禁售　包裝上須標示預防哽噎警告字句",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260331/1115470174078636032318954.jpeg/qQmehwEZESvx5o2ePCtalp11U3IogKAeM2nxRTNp8UU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60335777/%E7%99%BD%E5%AE%AE-%E8%88%87%E4%BC%8A%E6%9C%97%E8%AB%87%E5%88%A4%E6%AD%A3%E9%80%B2%E5%B1%95%E9%A0%86%E5%88%A9-%E7%89%B9%E6%9C%97%E6%99%AE%E5%86%804%E6%9C%886%E6%97%A5%E5%89%8D%E9%81%94%E6%88%90%E5%8D%94%E8%AD%B0",
     "timestamp": "2026-03-30T18:57:47.587Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "施明逝世｜李家鼎李泳漢今月到法會尋喇嘛打救　神情肅穆表現虔誠",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260331/1115450641490120704037586.jpeg/4vcbhiOGZSS4BT2YbPht5zozkcCdbn5kQbOYd0GzmHc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60335768/%E6%96%BD%E6%98%8E%E9%80%9D%E4%B8%96-%E6%9D%8E%E5%AE%B6%E9%BC%8E%E6%9D%8E%E6%B3%B3%E6%BC%A2%E4%BB%8A%E6%9C%88%E5%88%B0%E6%B3%95%E6%9C%83%E5%B0%8B%E5%96%87%E5%98%9B%E6%89%93%E6%95%91-%E7%A5%9E%E6%83%85%E8%82%85%E7%A9%86%E8%A1%A8%E7%8F%BE%E8%99%94%E8%AA%A0",
-    "timestamp": "2026-03-30T16:58:18.670Z",
     "strategy": ".content-card__main"
   }
 ];
