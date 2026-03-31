@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-31T10:42:00.985Z
+// Last updated: 2026-03-31T11:12:33.150Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "大嶼山一村長因泊車爭執涉打姨甥女夫婦　村長父子及一男襲擊罪成",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260114/1088167500547493888015749.jpeg/Y2YEf3N-WjgngI2AuyKL8A3Dtu-uuUHy5maolMNmqJQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60336106/%E5%A4%A7%E5%B6%BC%E5%B1%B1%E4%B8%80%E6%9D%91%E9%95%B7%E5%9B%A0%E6%B3%8A%E8%BB%8A%E7%88%AD%E5%9F%B7%E6%B6%89%E6%89%93%E5%A7%A8%E7%94%A5%E5%A5%B3%E5%A4%AB%E5%A9%A6-%E6%9D%91%E9%95%B7%E7%88%B6%E5%AD%90%E5%8F%8A%E4%B8%80%E7%94%B7%E8%A5%B2%E6%93%8A%E7%BD%AA%E6%88%90",
+    "timestamp": "2026-03-31T11:12:33.150Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "2025年立法會選舉｜投訴逾3000宗較上屆多八成　逾六成涉選舉廣告",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260330/1115354637348638720278063.png/IUC2ZdiscvPF_p76ho84hQ1O-UOJFFmZeF48KXhePCk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60333523/%E5%85%A7%E5%9C%B0%E6%8B%9B%E8%A5%BF%E7%93%9C%E4%B8%BB%E7%90%86%E4%BA%BA%E5%B9%B4%E8%96%AA20%E8%90%AC%E4%BA%BA%E6%B0%91%E5%B9%A3-%E5%A4%A7%E5%B0%88%E4%BB%A5%E4%B8%8A%E5%AD%B8%E6%AD%B7-%E5%83%B1%E4%B8%BB-%E8%B3%BA%E5%BE%97%E5%9B%9E%E4%BE%86",
     "timestamp": "2026-03-30T13:16:59.108Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "前臨汾市長、山西省人大常委會副主任岳普煜被查　涉嚴重違紀違法",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260330/1115387581438103552591830.jpeg/a-5mtuVQEczEkSXHxs2DdrlGdT2h2I0-B4k2kweJNpM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60335727/%E5%89%8D%E8%87%A8%E6%B1%BE%E5%B8%82%E9%95%B7-%E5%B1%B1%E8%A5%BF%E7%9C%81%E4%BA%BA%E5%A4%A7%E5%B8%B8%E5%A7%94%E6%9C%83%E5%89%AF%E4%B8%BB%E4%BB%BB%E5%B2%B3%E6%99%AE%E7%85%9C%E8%A2%AB%E6%9F%A5-%E6%B6%89%E5%9A%B4%E9%87%8D%E9%81%95%E7%B4%80%E9%81%95%E6%B3%95",
-    "timestamp": "2026-03-30T12:42:53.807Z",
     "strategy": ".content-card__main"
   }
 ];
