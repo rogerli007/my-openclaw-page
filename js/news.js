@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-31T16:43:03.718Z
+// Last updated: 2026-03-31T17:41:37.751Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "李思穎返港落機即置裝　首膺十傑比落場更緊張｜傑運選舉",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260401/1115812320677728256974123.jpeg/k4OhKnpn4feJcM8iqyV4daCoJYUw9vUCJAllbCQJZWw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60335935/%E6%9D%8E%E6%80%9D%E7%A9%8E%E8%BF%94%E6%B8%AF%E8%90%BD%E6%A9%9F%E5%8D%B3%E7%BD%AE%E8%A3%9D-%E9%A6%96%E8%86%BA%E5%8D%81%E5%82%91%E6%AF%94%E8%90%BD%E5%A0%B4%E6%9B%B4%E7%B7%8A%E5%BC%B5-%E5%82%91%E9%81%8B%E9%81%B8%E8%88%89",
+    "timestamp": "2026-03-31T17:41:37.751Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "宏福苑｜麥美娟：合安正審視80萬份文件　簡介會避聽證會及上樓日",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260301/1104815827133140992146795.png/H4TeA9-USZrZufIZ0qDHpEExqLPxL0_k2RGWb9kRlm8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E8%A9%B1%E9%A1%8C/60326084/%E8%B7%9F%E6%9C%8B%E5%8F%8B%E9%81%8A%E6%B3%B0%E6%B4%97%E6%B3%B0%E5%9C%8B%E6%B5%B4-%E7%94%B7%E5%8F%8B%E5%88%86%E4%BA%AB%E9%81%8E%E7%A8%8B-%E5%B0%8D%E6%96%B9%E6%98%AF%E8%AE%8A%E6%80%A7%E4%BA%BA-%E5%A5%B9%E5%82%BB%E7%9C%BC%E6%8F%90%E5%88%86%E6%89%8B",
     "timestamp": "2026-03-30T23:21:22.739Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "青馬大橋兩死車禍│涉案龍運巴士車長　涉危險駕駛致他人死亡被捕",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260331/1115450643562500096453108.jpeg/9fbyA5-g-sMumec66n8C3Z1hOarCgXSNv6gZLZqoGS0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60335784/%E9%9D%92%E9%A6%AC%E5%A4%A7%E6%A9%8B%E5%85%A9%E6%AD%BB%E8%BB%8A%E7%A6%8D-%E6%B6%89%E6%A1%88%E9%BE%8D%E9%81%8B%E5%B7%B4%E5%A3%AB%E8%BB%8A%E9%95%B7-%E6%B6%89%E5%8D%B1%E9%9A%AA%E9%A7%95%E9%A7%9B%E8%87%B4%E4%BB%96%E4%BA%BA%E6%AD%BB%E4%BA%A1%E8%A2%AB%E6%8D%95",
-    "timestamp": "2026-03-30T21:52:39.672Z",
     "strategy": ".content-card__main"
   }
 ];
