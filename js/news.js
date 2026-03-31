@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-31T03:40:57.671Z
+// Last updated: 2026-03-31T04:44:47.531Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "打擊濫用公屋｜3項新措施今起生效　即睇「嚴重濫用公屋」是什麼",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260331/1115627369835532288046319.jpeg/qsQoNuisGZ5UXzDuT3K9ceEdSz4errza87wiEfO8IhE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60335903/%E6%89%93%E6%93%8A%E6%BF%AB%E7%94%A8%E5%85%AC%E5%B1%8B-3%E9%A0%85%E6%96%B0%E6%8E%AA%E6%96%BD%E4%BB%8A%E8%B5%B7%E7%94%9F%E6%95%88-%E5%8D%B3%E7%9D%87-%E5%9A%B4%E9%87%8D%E6%BF%AB%E7%94%A8%E5%85%AC%E5%B1%8B-%E6%98%AF%E4%BB%80%E9%BA%BC",
+    "timestamp": "2026-03-31T04:44:47.531Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "伊朗局勢｜國泰林紹波︰維持運力為首要任務　削航班屬最後手段",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260323/1112758499340980224203758.jpeg/5ODcoBqfzzOOfroa5wg6yEJ-_mX27uCnh7yIfIe8iHw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E4%B8%96%E7%95%8C%E5%B0%88%E9%A1%8C/60333040/%E8%8B%B1%E5%9C%8B%E5%89%8D%E5%AD%94%E5%AD%90%E5%AD%B8%E9%99%A2%E9%99%A2%E9%95%B7-%E4%B8%AD%E8%8B%B1%E9%97%9C%E4%BF%82%E8%87%B3%E6%9A%97%E6%99%82%E5%88%BB-%E8%83%8C%E4%B8%8A-%E4%B8%AD%E5%9C%8B%E9%96%93%E8%AB%9C-%E7%BD%B5%E5%90%8D",
     "timestamp": "2026-03-30T06:01:29.868Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "無國界醫生：以色列攻擊加劇黎巴嫩　切斷民眾醫療服務",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260330/1115271431760908288093284.png/RQI9T78Hb9lgmw61qex8lbn3AkzDCebnkt7bPpLe2z4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E4%B8%96%E7%95%8C%E5%B0%88%E9%A1%8C/60335518/%E7%84%A1%E5%9C%8B%E7%95%8C%E9%86%AB%E7%94%9F-%E4%BB%A5%E8%89%B2%E5%88%97%E6%94%BB%E6%93%8A%E5%8A%A0%E5%8A%87%E9%BB%8E%E5%B7%B4%E5%AB%A9-%E5%88%87%E6%96%B7%E6%B0%91%E7%9C%BE%E9%86%AB%E7%99%82%E6%9C%8D%E5%8B%99",
-    "timestamp": "2026-03-30T05:08:22.751Z",
     "strategy": ".content-card__main"
   }
 ];
