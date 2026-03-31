@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-31T15:15:27.231Z
+// Last updated: 2026-03-31T15:48:19.969Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "歐瑞偉自爆武師生涯搵命搏　曾溺水險死、目擊同門失手致半身不遂",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260331/1115686988746330112506721.jpeg/NKNISodqrJxnj5MjwOOKFHZz3wiq9SalaROfPGkTnzw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60335974/%E6%AD%90%E7%91%9E%E5%81%89%E8%87%AA%E7%88%86%E6%AD%A6%E5%B8%AB%E7%94%9F%E6%B6%AF%E6%90%B5%E5%91%BD%E6%90%8F-%E6%9B%BE%E6%BA%BA%E6%B0%B4%E9%9A%AA%E6%AD%BB-%E7%9B%AE%E6%93%8A%E5%90%8C%E9%96%80%E5%A4%B1%E6%89%8B%E8%87%B4%E5%8D%8A%E8%BA%AB%E4%B8%8D%E9%81%82",
+    "timestamp": "2026-03-31T15:48:19.969Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美股｜憧憬戰事完結　道指早段曾漲逾600點　納指標指最新升逾1%",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260121/1090753324950491136983724.jpeg/v67KMdxQQXLlxU-fBQOsF0qRbNM8i2WdM-KW3jPilt4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60335779/%E4%BC%8A%E6%9C%97%E6%88%B0%E7%88%AD-%E8%B2%9D%E6%A3%AE%E7%89%B9%E5%B0%8D%E9%87%8D%E9%96%8B%E9%9C%8D%E7%88%BE%E6%9C%A8%E8%8C%B2%E6%B5%B7%E5%B3%BD%E6%A8%82%E8%A7%80-%E6%96%99%E7%BE%8E%E5%9C%8B%E5%B0%87%E9%87%8D%E5%A5%AA%E6%8E%A7%E5%88%B6%E6%AC%8A",
     "timestamp": "2026-03-30T20:28:07.349Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "白宮：與伊朗談判正進展順利　特朗普冀4月6日前達成協議",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260331/1115470174078636032318954.jpeg/qQmehwEZESvx5o2ePCtalp11U3IogKAeM2nxRTNp8UU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60335777/%E7%99%BD%E5%AE%AE-%E8%88%87%E4%BC%8A%E6%9C%97%E8%AB%87%E5%88%A4%E6%AD%A3%E9%80%B2%E5%B1%95%E9%A0%86%E5%88%A9-%E7%89%B9%E6%9C%97%E6%99%AE%E5%86%804%E6%9C%886%E6%97%A5%E5%89%8D%E9%81%94%E6%88%90%E5%8D%94%E8%AD%B0",
-    "timestamp": "2026-03-30T19:32:12.004Z",
     "strategy": ".content-card__main"
   }
 ];
