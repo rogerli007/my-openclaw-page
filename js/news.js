@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-31T21:52:47.867Z
+// Last updated: 2026-03-31T23:37:19.154Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "股神巴菲特受訪重點一文看清　手握現金等暴跌　坦言過早沽蘋果",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250504/995543853953978368361925.png/rhMRguPRWHIxg_AvB0FqYIAyX2zpg0PS9Hk6CPR5Ogg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60336168/%E8%82%A1%E7%A5%9E%E5%B7%B4%E8%8F%B2%E7%89%B9%E5%8F%97%E8%A8%AA%E9%87%8D%E9%BB%9E%E4%B8%80%E6%96%87%E7%9C%8B%E6%B8%85-%E6%89%8B%E6%8F%A1%E7%8F%BE%E9%87%91%E7%AD%89%E6%9A%B4%E8%B7%8C-%E5%9D%A6%E8%A8%80%E9%81%8E%E6%97%A9%E6%B2%BD%E8%98%8B%E6%9E%9C",
+    "timestamp": "2026-03-31T23:37:19.154Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "世盃外附加賽｜意大利互射12碼敗於波斯尼亞　連續三屆無緣決賽周",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260330/1115321818538840064163784.png/IMfq88M6SWs7pJlSWOI6T9iYUjAZiunDsg2pmbINqZk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60333952/%E5%8D%A0%E6%98%9F%E5%B8%AB%E5%96%AA%E5%85%84-%E7%96%91%E6%8E%92%E4%BE%BF%E5%A4%AA%E7%94%A8%E5%8A%9B%E7%8C%9D%E6%AD%BB%E9%A6%AC%E6%A1%B6%E4%B8%8A-%E5%A5%B9%E6%9B%BE%E6%AD%B7%E9%9A%AA%E5%A2%83-%E8%80%B3%E9%B3%B4%E6%84%8F%E8%AD%98%E6%A8%A1%E7%B3%8A",
     "timestamp": "2026-03-31T01:25:02.092Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "舜宇光學去股東應佔溢利46.39億　按年上升約71.9%",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/20200409/324971221966000128.jpeg/Ju6lwHD6pBmC89RZDEUxvMkPHKBvzxrLi_6RCYv-kQk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60335790/%E8%88%9C%E5%AE%87%E5%85%89%E5%AD%B8%E5%8E%BB%E8%82%A1%E6%9D%B1%E6%87%89%E4%BD%94%E6%BA%A2%E5%88%A946-39%E5%84%84-%E6%8C%89%E5%B9%B4%E4%B8%8A%E5%8D%87%E7%B4%8471-9",
-    "timestamp": "2026-03-30T23:51:43.392Z",
     "strategy": ".content-card__main"
   }
 ];
