@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-30T23:51:43.392Z
+// Last updated: 2026-03-31T01:25:02.092Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "占星師喪兄：疑排便太用力猝死馬桶上　她曾歷險境：耳鳴意識模糊",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260330/1115321818538840064163784.png/IMfq88M6SWs7pJlSWOI6T9iYUjAZiunDsg2pmbINqZk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60333952/%E5%8D%A0%E6%98%9F%E5%B8%AB%E5%96%AA%E5%85%84-%E7%96%91%E6%8E%92%E4%BE%BF%E5%A4%AA%E7%94%A8%E5%8A%9B%E7%8C%9D%E6%AD%BB%E9%A6%AC%E6%A1%B6%E4%B8%8A-%E5%A5%B9%E6%9B%BE%E6%AD%B7%E9%9A%AA%E5%A2%83-%E8%80%B3%E9%B3%B4%E6%84%8F%E8%AD%98%E6%A8%A1%E7%B3%8A",
+    "timestamp": "2026-03-31T01:25:02.092Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "舜宇光學去股東應佔溢利46.39億　按年上升約71.9%",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250412/987615936536121344659821.jpeg/n0QmRFxIGHfEQGh51jYDP9VMw6qR8s_Ma313X2t9d18?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%97%85%E9%81%8A/60228620/%E9%A3%9B%E6%A9%9F%E9%A3%B2%E9%A3%9F7%E5%A4%A7%E7%A6%81%E5%BF%8C-%E6%A9%9F%E4%B8%8A%E5%8D%83%E8%90%AC%E4%B8%8D%E8%A6%81%E5%90%83%E7%95%AA%E8%96%AF-%E8%98%BF%E8%94%94-%E9%A3%B2%E9%8C%AF1%E6%9D%B1%E8%A5%BF%E9%9A%A8%E6%99%82%E8%84%AB%E6%B0%B4",
     "timestamp": "2026-03-30T02:47:36.265Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "宏福苑聽證會．最新重點｜今續有遺屬作供　消防承辦商證人首出庭",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260330/1115140612098625536317256.jpeg/nOT2HlrbFlSrJBwvogASCRoPONIyCThJ2r8tp9q_Lac?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60335396/%E5%AE%8F%E7%A6%8F%E8%8B%91%E8%81%BD%E8%AD%89%E6%9C%83%E6%96%87%E5%AD%97%E7%9B%B4%E6%92%AD-%E9%87%8D%E9%BB%9E-%E7%BA%8C%E6%9C%89%E5%B1%85%E6%B0%91%E4%BD%9C%E8%AD%89-%E6%B6%88%E9%98%B2%E6%89%BF%E8%BE%A6%E5%95%86%E9%A6%96%E4%BD%9C%E4%BE%9B",
-    "timestamp": "2026-03-30T01:00:34.086Z",
     "strategy": ".content-card__main"
   }
 ];
