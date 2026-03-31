@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-31T11:39:11.698Z
+// Last updated: 2026-03-31T12:02:30.230Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "星二代龐景峰遭劉溫馨狠飛後落魄住工廈　日打三份工去公廁沖涼",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260331/1115667181166661632603942.jpeg/WUHqIYhossTVzXZGuMimr0DPpQunGHQVG7-HUBu_h1A?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60335951/%E6%98%9F%E4%BA%8C%E4%BB%A3%E9%BE%90%E6%99%AF%E5%B3%B0%E9%81%AD%E5%8A%89%E6%BA%AB%E9%A6%A8%E7%8B%A0%E9%A3%9B%E5%BE%8C%E8%90%BD%E9%AD%84%E4%BD%8F%E5%B7%A5%E5%BB%88-%E6%97%A5%E6%89%93%E4%B8%89%E4%BB%BD%E5%B7%A5%E5%8E%BB%E5%85%AC%E5%BB%81%E6%B2%96%E6%B6%BC",
+    "timestamp": "2026-03-31T12:02:30.230Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "歐瑞偉武師出身曾獲張國榮暖心照顧　轉型演員被鬧「返去耕田」",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260330/1115425116436566016602918.jpeg/GPD7hOZfyCYIGfW3r4NwuUlxshzjXwvyAlQR_gJUEf4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60335754/%E8%AD%A6%E6%8C%87%E9%A8%99%E5%BE%92%E4%BB%A5%E6%B5%81%E5%88%A9%E8%8B%B1%E8%AA%9Elinkedin-%E6%8B%9B%E5%8B%9F-%E5%AF%A6%E7%BF%92-19%E6%AD%B2%E5%A4%A7%E5%AD%B8%E7%94%9F%E8%A2%AB%E9%A8%9919%E8%90%AC%E5%85%83",
     "timestamp": "2026-03-30T15:15:13.679Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "日本國會時隔11年通過臨時預算案　避免政府停擺",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250714/1021448186041995264738462.jpeg/9jKnCx3j_YMhmrhCGT7UONgWhLLj2iHPjwPwho8D8IY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60335748/%E6%97%A5%E6%9C%AC%E5%9C%8B%E6%9C%83%E6%99%82%E9%9A%9411%E5%B9%B4%E9%80%9A%E9%81%8E%E8%87%A8%E6%99%82%E9%A0%90%E7%AE%97%E6%A1%88-%E9%81%BF%E5%85%8D%E6%94%BF%E5%BA%9C%E5%81%9C%E6%93%BA",
-    "timestamp": "2026-03-30T14:45:01.108Z",
     "strategy": ".content-card__main"
   }
 ];
