@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-31T04:44:47.531Z
+// Last updated: 2026-03-31T06:08:10.300Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "兩工程師涉輪姦酒醉女　次被告否認莽顧事主意願性交　稱無3P癖好",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260331/1115650452734611456841937.jpeg/0QgP--I18fV4YuWCFL8wv2g_D6s2ExX3uYl9yrmJfco?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60335931/%E5%85%A9%E5%B7%A5%E7%A8%8B%E5%B8%AB%E6%B6%89%E8%BC%AA%E5%A7%A6%E9%85%92%E9%86%89%E5%A5%B3-%E6%AC%A1%E8%A2%AB%E5%91%8A%E5%90%A6%E8%AA%8D%E8%8E%BD%E9%A1%A7%E4%BA%8B%E4%B8%BB%E6%84%8F%E9%A1%98%E6%80%A7%E4%BA%A4-%E7%A8%B1%E7%84%A13p%E7%99%96%E5%A5%BD",
+    "timestamp": "2026-03-31T06:08:10.300Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "打擊濫用公屋｜3項新措施今起生效　即睇「嚴重濫用公屋」是什麼",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260330/1115267062462156800451768.jpeg/PkSy2QRl5NCvtxoCJEoj1w_d7s2kQhWfEalN0hGpTdI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60335517/%E5%AE%8F%E7%A6%8F%E8%8B%91-%E5%A4%B1%E9%9B%99%E8%A6%AA%E5%85%92%E5%AD%90-%E8%B2%AA-%E7%9C%9F%E7%9B%B8-%E6%9B%BE%E5%95%8F%E7%99%BC%E6%B3%A1%E8%86%A0%E5%B0%81%E7%AA%97-%E6%B6%88%E9%98%B2%E8%A6%86%E6%B2%92%E7%AE%A1%E7%89%A9%E6%96%99",
     "timestamp": "2026-03-30T06:54:41.322Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "英國前孔子學院院長：中英關係至暗時刻　背上「中國間諜」罵名",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260323/1112758499340980224203758.jpeg/5ODcoBqfzzOOfroa5wg6yEJ-_mX27uCnh7yIfIe8iHw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E4%B8%96%E7%95%8C%E5%B0%88%E9%A1%8C/60333040/%E8%8B%B1%E5%9C%8B%E5%89%8D%E5%AD%94%E5%AD%90%E5%AD%B8%E9%99%A2%E9%99%A2%E9%95%B7-%E4%B8%AD%E8%8B%B1%E9%97%9C%E4%BF%82%E8%87%B3%E6%9A%97%E6%99%82%E5%88%BB-%E8%83%8C%E4%B8%8A-%E4%B8%AD%E5%9C%8B%E9%96%93%E8%AB%9C-%E7%BD%B5%E5%90%8D",
-    "timestamp": "2026-03-30T06:01:29.868Z",
     "strategy": ".content-card__main"
   }
 ];
