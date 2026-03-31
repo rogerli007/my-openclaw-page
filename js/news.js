@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-31T06:08:10.300Z
+// Last updated: 2026-03-31T08:41:05.509Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "何超瓊稱遭女子騷擾約1年　向法庭申令禁該女子接近",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250629/1015969696048353280453791.jpeg/9ZM5uYkyEj0Ijy-IhnVq281FHRxJ3kyIxeAoDuDgKA4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60336023/%E4%BD%95%E8%B6%85%E7%93%8A%E7%A8%B1%E9%81%AD%E5%A5%B3%E5%AD%90%E9%A8%B7%E6%93%BE%E7%B4%841%E5%B9%B4-%E5%90%91%E6%B3%95%E5%BA%AD%E7%94%B3%E4%BB%A4%E7%A6%81%E8%A9%B2%E5%A5%B3%E5%AD%90%E6%8E%A5%E8%BF%91",
+    "timestamp": "2026-03-31T08:41:05.509Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "兩工程師涉輪姦酒醉女　次被告否認莽顧事主意願性交　稱無3P癖好",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260330/1115317327659798528654390.jpeg/dxzVXDPmaUIR5j6aePDBLumJXUbN0QzoQfrRUEH60VA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60335607/%E9%87%8D%E5%8A%8D%E4%B8%96%E7%95%8C%E7%9B%83-%E4%BD%98%E7%B9%95%E5%A6%A1%E5%93%88%E8%96%A9%E5%85%8B%E7%AB%9916%E5%BC%B7%E6%AD%A2%E6%AD%A5-%E9%99%B3%E6%B8%AD%E6%B3%A0%E5%8B%87%E6%8C%AB%E4%B8%96%E7%95%8C%E7%AC%AC%E4%BA%8C",
     "timestamp": "2026-03-30T08:18:40.286Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "宏福苑｜失雙親兒子「貪」真相　曾問發泡膠封窗　消防覆沒管物料",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260330/1115267062462156800451768.jpeg/PkSy2QRl5NCvtxoCJEoj1w_d7s2kQhWfEalN0hGpTdI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60335517/%E5%AE%8F%E7%A6%8F%E8%8B%91-%E5%A4%B1%E9%9B%99%E8%A6%AA%E5%85%92%E5%AD%90-%E8%B2%AA-%E7%9C%9F%E7%9B%B8-%E6%9B%BE%E5%95%8F%E7%99%BC%E6%B3%A1%E8%86%A0%E5%B0%81%E7%AA%97-%E6%B6%88%E9%98%B2%E8%A6%86%E6%B2%92%E7%AE%A1%E7%89%A9%E6%96%99",
-    "timestamp": "2026-03-30T06:54:41.322Z",
     "strategy": ".content-card__main"
   }
 ];
