@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-31T12:02:30.230Z
+// Last updated: 2026-03-31T12:41:54.433Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "Lisa著比堅尼慶29歲生日　睇齊國際天后登賭城駐唱成K-pop第一人",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260331/1115666832599027712147890.jpeg/pxe_-6YH7PLSYkg8QTQU2__gUgNYMljKioSn5oqEp-Y?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60335970/lisa%E8%91%97%E6%AF%94%E5%A0%85%E5%B0%BC%E6%85%B629%E6%AD%B2%E7%94%9F%E6%97%A5-%E7%9D%87%E9%BD%8A%E5%9C%8B%E9%9A%9B%E5%A4%A9%E5%90%8E%E7%99%BB%E8%B3%AD%E5%9F%8E%E9%A7%90%E5%94%B1%E6%88%90k-pop%E7%AC%AC%E4%B8%80%E4%BA%BA",
+    "timestamp": "2026-03-31T12:41:54.433Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "星二代龐景峰遭劉溫馨狠飛後落魄住工廈　日打三份工去公廁沖涼",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260331/1115442344569606144504278.jpeg/-r2lonKEyy0tTPu5kwZDlz4sWsP-5W6fAxqgmgMaoJo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60335760/%E6%BD%AE%E5%B1%AC%E7%A4%BE%E5%9C%98%E6%9C%83%E8%91%A3%E5%B0%B1%E8%81%B7-%E6%9D%8E%E5%AE%B6%E8%B6%85-%E5%86%80%E5%96%84%E7%94%A8%E9%84%89%E8%A6%AA%E7%B6%B2%E7%B5%A1%E5%8A%A9%E4%BC%81%E6%A5%AD%E6%8B%93%E6%96%B0%E8%88%88%E5%B8%82%E5%A0%B4",
     "timestamp": "2026-03-30T16:32:51.115Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "警指騙徒以流利英語LinkedIn「招募」實習　19歲大學生被騙19萬元",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260330/1115425116436566016602918.jpeg/GPD7hOZfyCYIGfW3r4NwuUlxshzjXwvyAlQR_gJUEf4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60335754/%E8%AD%A6%E6%8C%87%E9%A8%99%E5%BE%92%E4%BB%A5%E6%B5%81%E5%88%A9%E8%8B%B1%E8%AA%9Elinkedin-%E6%8B%9B%E5%8B%9F-%E5%AF%A6%E7%BF%92-19%E6%AD%B2%E5%A4%A7%E5%AD%B8%E7%94%9F%E8%A2%AB%E9%A8%9919%E8%90%AC%E5%85%83",
-    "timestamp": "2026-03-30T15:15:13.679Z",
     "strategy": ".content-card__main"
   }
 ];
