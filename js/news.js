@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-31T09:45:27.317Z
+// Last updated: 2026-03-31T10:16:48.611Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美國要放棄霍爾木茲海峽？沙特會接受伊朗收通行費嗎？",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260305/1106268867409219584751460.jpeg/qxm1o4cmXDD_EolmTZFMl51npB3nf_kKqhbGXKoWxlw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%9C%8B%E9%9A%9B%E5%88%86%E6%9E%90/60336078/%E7%BE%8E%E5%9C%8B%E8%A6%81%E6%94%BE%E6%A3%84%E9%9C%8D%E7%88%BE%E6%9C%A8%E8%8C%B2%E6%B5%B7%E5%B3%BD-%E6%B2%99%E7%89%B9%E6%9C%83%E6%8E%A5%E5%8F%97%E4%BC%8A%E6%9C%97%E6%94%B6%E9%80%9A%E8%A1%8C%E8%B2%BB%E5%97%8E",
+    "timestamp": "2026-03-31T10:16:48.611Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "高油價增生活壓力　澳洲男子「土法煉油」影片走紅　專家：不建議",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20241220/946849047883288576751286.jpeg/BRO15-5oNZrfT7MKKE0kd_VCZCnSN8_UaRuZJGkbmSQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60335695/%E7%9A%87%E9%A6%AC%E7%B0%BD%E5%90%8D%E6%9C%83%E9%A2%A8%E6%B3%A2-%E4%B8%89%E5%90%8D%E7%90%83%E8%BF%B7%E5%85%A5%E7%A8%9F%E8%BF%BD%E8%A8%8E-%E7%8D%B2%E5%88%A44400%E5%85%83%E8%B3%A0%E5%84%9F",
     "timestamp": "2026-03-30T12:09:36.799Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "日圓一度失160關後   日本央行︰未來幾個月可能會考慮提高利率",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260212/1098612174735282176291348.jpeg/dAH0K7X-78K2QZKLCkXE9gtbDBCVC0KKmfVbUpn1W1I?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60335637/%E6%97%A5%E5%9C%93%E4%B8%80%E5%BA%A6%E5%A4%B1160%E9%97%9C%E5%BE%8C-%E6%97%A5%E6%9C%AC%E5%A4%AE%E8%A1%8C-%E6%9C%AA%E4%BE%86%E5%B9%BE%E5%80%8B%E6%9C%88%E5%8F%AF%E8%83%BD%E6%9C%83%E8%80%83%E6%85%AE%E6%8F%90%E9%AB%98%E5%88%A9%E7%8E%87",
-    "timestamp": "2026-03-30T08:57:03.516Z",
     "strategy": ".content-card__main"
   }
 ];
