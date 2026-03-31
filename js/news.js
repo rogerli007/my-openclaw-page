@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-31T11:12:33.150Z
+// Last updated: 2026-03-31T11:39:11.698Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "歐瑞偉武師出身曾獲張國榮暖心照顧　轉型演員被鬧「返去耕田」",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260331/1115667218273669120358419.jpeg/z85o0hgnzzUo9MZ_ADlHrwCxNuWCiVwmLpS6yy6Uuss?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60335932/%E6%AD%90%E7%91%9E%E5%81%89%E6%AD%A6%E5%B8%AB%E5%87%BA%E8%BA%AB%E6%9B%BE%E7%8D%B2%E5%BC%B5%E5%9C%8B%E6%A6%AE%E6%9A%96%E5%BF%83%E7%85%A7%E9%A1%A7-%E8%BD%89%E5%9E%8B%E6%BC%94%E5%93%A1%E8%A2%AB%E9%AC%A7-%E8%BF%94%E5%8E%BB%E8%80%95%E7%94%B0",
+    "timestamp": "2026-03-31T11:39:11.698Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "大嶼山一村長因泊車爭執涉打姨甥女夫婦　村長父子及一男襲擊罪成",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250714/1021448186041995264738462.jpeg/9jKnCx3j_YMhmrhCGT7UONgWhLLj2iHPjwPwho8D8IY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60335748/%E6%97%A5%E6%9C%AC%E5%9C%8B%E6%9C%83%E6%99%82%E9%9A%9411%E5%B9%B4%E9%80%9A%E9%81%8E%E8%87%A8%E6%99%82%E9%A0%90%E7%AE%97%E6%A1%88-%E9%81%BF%E5%85%8D%E6%94%BF%E5%BA%9C%E5%81%9C%E6%93%BA",
     "timestamp": "2026-03-30T14:45:01.108Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "內地招西瓜主理人年薪20萬人民幣？大專以上學歷　僱主：賺得回來",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260330/1115354637348638720278063.png/IUC2ZdiscvPF_p76ho84hQ1O-UOJFFmZeF48KXhePCk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60333523/%E5%85%A7%E5%9C%B0%E6%8B%9B%E8%A5%BF%E7%93%9C%E4%B8%BB%E7%90%86%E4%BA%BA%E5%B9%B4%E8%96%AA20%E8%90%AC%E4%BA%BA%E6%B0%91%E5%B9%A3-%E5%A4%A7%E5%B0%88%E4%BB%A5%E4%B8%8A%E5%AD%B8%E6%AD%B7-%E5%83%B1%E4%B8%BB-%E8%B3%BA%E5%BE%97%E5%9B%9E%E4%BE%86",
-    "timestamp": "2026-03-30T13:16:59.108Z",
     "strategy": ".content-card__main"
   }
 ];
