@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-31T08:41:05.509Z
+// Last updated: 2026-03-31T09:45:27.317Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "高油價增生活壓力　澳洲男子「土法煉油」影片走紅　專家：不建議",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260331/1115693649754066944763892.png/-wtE6mFC5_wmjrAU1SLVKIlJOl51ZHwDrFX-RaxV_kU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60336038/%E9%AB%98%E6%B2%B9%E5%83%B9%E5%A2%9E%E7%94%9F%E6%B4%BB%E5%A3%93%E5%8A%9B-%E6%BE%B3%E6%B4%B2%E7%94%B7%E5%AD%90-%E5%9C%9F%E6%B3%95%E7%85%89%E6%B2%B9-%E5%BD%B1%E7%89%87%E8%B5%B0%E7%B4%85-%E5%B0%88%E5%AE%B6-%E4%B8%8D%E5%BB%BA%E8%AD%B0",
+    "timestamp": "2026-03-31T09:45:27.317Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "何超瓊稱遭女子騷擾約1年　向法庭申令禁該女子接近",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260212/1098612174735282176291348.jpeg/dAH0K7X-78K2QZKLCkXE9gtbDBCVC0KKmfVbUpn1W1I?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60335637/%E6%97%A5%E5%9C%93%E4%B8%80%E5%BA%A6%E5%A4%B1160%E9%97%9C%E5%BE%8C-%E6%97%A5%E6%9C%AC%E5%A4%AE%E8%A1%8C-%E6%9C%AA%E4%BE%86%E5%B9%BE%E5%80%8B%E6%9C%88%E5%8F%AF%E8%83%BD%E6%9C%83%E8%80%83%E6%85%AE%E6%8F%90%E9%AB%98%E5%88%A9%E7%8E%87",
     "timestamp": "2026-03-30T08:57:03.516Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "重劍世界盃｜佘繕妡哈薩克站16強止步　陳渭泠勇挫世界第二",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260330/1115317327659798528654390.jpeg/dxzVXDPmaUIR5j6aePDBLumJXUbN0QzoQfrRUEH60VA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60335607/%E9%87%8D%E5%8A%8D%E4%B8%96%E7%95%8C%E7%9B%83-%E4%BD%98%E7%B9%95%E5%A6%A1%E5%93%88%E8%96%A9%E5%85%8B%E7%AB%9916%E5%BC%B7%E6%AD%A2%E6%AD%A5-%E9%99%B3%E6%B8%AD%E6%B3%A0%E5%8B%87%E6%8C%AB%E4%B8%96%E7%95%8C%E7%AC%AC%E4%BA%8C",
-    "timestamp": "2026-03-30T08:18:40.286Z",
     "strategy": ".content-card__main"
   }
 ];
