@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-01T07:43:02.106Z
+// Last updated: 2026-04-01T09:21:32.061Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美軍士兵涉向脫衣舞孃泄密：下週要部署了　軍方緊急警告｜ 有片",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260401/1116057352533970944387261.jpeg/cHsyTwQ7dCBNa9HXYvl1CPX2vY3T7vuChmpxuIZqcbg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60336412/%E7%BE%8E%E8%BB%8D%E5%A3%AB%E5%85%B5%E6%B6%89%E5%90%91%E8%84%AB%E8%A1%A3%E8%88%9E%E5%AD%83%E6%B3%84%E5%AF%86-%E4%B8%8B%E9%80%B1%E8%A6%81%E9%83%A8%E7%BD%B2%E4%BA%86-%E8%BB%8D%E6%96%B9%E7%B7%8A%E6%80%A5%E8%AD%A6%E5%91%8A-%E6%9C%89%E7%89%87",
+    "timestamp": "2026-04-01T09:21:32.061Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "伊朗戰爭傷民眾荷包？澳洲4月1日起燃油稅減半　兩州推免費交通",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260305/1106268867409219584751460.jpeg/qxm1o4cmXDD_EolmTZFMl51npB3nf_kKqhbGXKoWxlw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%9C%8B%E9%9A%9B%E5%88%86%E6%9E%90/60336078/%E7%BE%8E%E5%9C%8B%E8%A6%81%E6%94%BE%E6%A3%84%E9%9C%8D%E7%88%BE%E6%9C%A8%E8%8C%B2%E6%B5%B7%E5%B3%BD-%E6%B2%99%E7%89%B9%E6%9C%83%E6%8E%A5%E5%8F%97%E4%BC%8A%E6%9C%97%E6%94%B6%E9%80%9A%E8%A1%8C%E8%B2%BB%E5%97%8E",
     "timestamp": "2026-03-31T10:16:48.611Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "高油價增生活壓力　澳洲男子「土法煉油」影片走紅　專家：不建議",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260331/1115693649754066944763892.png/-wtE6mFC5_wmjrAU1SLVKIlJOl51ZHwDrFX-RaxV_kU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60336038/%E9%AB%98%E6%B2%B9%E5%83%B9%E5%A2%9E%E7%94%9F%E6%B4%BB%E5%A3%93%E5%8A%9B-%E6%BE%B3%E6%B4%B2%E7%94%B7%E5%AD%90-%E5%9C%9F%E6%B3%95%E7%85%89%E6%B2%B9-%E5%BD%B1%E7%89%87%E8%B5%B0%E7%B4%85-%E5%B0%88%E5%AE%B6-%E4%B8%8D%E5%BB%BA%E8%AD%B0",
-    "timestamp": "2026-03-31T09:45:27.317Z",
     "strategy": ".content-card__main"
   }
 ];
