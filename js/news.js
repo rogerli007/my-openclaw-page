@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-01T02:50:29.615Z
+// Last updated: 2026-04-01T05:13:18.090Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "清明節禁忌10大｜忌帶4款水果？生日要點做？專家教掃墓最佳時間",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260401/1115997650445930496305874.jpeg/je0-L44RvEHI6q1u3Za_l8XikllFabAvfTXRYX010WE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%A3%9F%E7%8E%A9%E8%B2%B7/60335995/%E6%B8%85%E6%98%8E%E7%AF%80%E7%A6%81%E5%BF%8C10%E5%A4%A7-%E5%BF%8C%E5%B8%B64%E6%AC%BE%E6%B0%B4%E6%9E%9C-%E7%94%9F%E6%97%A5%E8%A6%81%E9%BB%9E%E5%81%9A-%E5%B0%88%E5%AE%B6%E6%95%99%E6%8E%83%E5%A2%93%E6%9C%80%E4%BD%B3%E6%99%82%E9%96%93",
+    "timestamp": "2026-04-01T05:13:18.090Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "廈門網民買安眠藥竟收到吊銷駕照短訊　交警證實：為了大家安全",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250629/1015969696048353280453791.jpeg/9ZM5uYkyEj0Ijy-IhnVq281FHRxJ3kyIxeAoDuDgKA4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60336023/%E4%BD%95%E8%B6%85%E7%93%8A%E7%A8%B1%E9%81%AD%E5%A5%B3%E5%AD%90%E9%A8%B7%E6%93%BE%E7%B4%841%E5%B9%B4-%E5%90%91%E6%B3%95%E5%BA%AD%E7%94%B3%E4%BB%A4%E7%A6%81%E8%A9%B2%E5%A5%B3%E5%AD%90%E6%8E%A5%E8%BF%91",
     "timestamp": "2026-03-31T08:41:05.509Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "兩工程師涉輪姦酒醉女　次被告否認莽顧事主意願性交　稱無3P癖好",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260331/1115650452734611456841937.jpeg/0QgP--I18fV4YuWCFL8wv2g_D6s2ExX3uYl9yrmJfco?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60335931/%E5%85%A9%E5%B7%A5%E7%A8%8B%E5%B8%AB%E6%B6%89%E8%BC%AA%E5%A7%A6%E9%85%92%E9%86%89%E5%A5%B3-%E6%AC%A1%E8%A2%AB%E5%91%8A%E5%90%A6%E8%AA%8D%E8%8E%BD%E9%A1%A7%E4%BA%8B%E4%B8%BB%E6%84%8F%E9%A1%98%E6%80%A7%E4%BA%A4-%E7%A8%B1%E7%84%A13p%E7%99%96%E5%A5%BD",
-    "timestamp": "2026-03-31T06:08:10.300Z",
     "strategy": ".content-card__main"
   }
 ];
