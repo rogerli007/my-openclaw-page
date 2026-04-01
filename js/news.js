@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-01T22:52:13.675Z
+// Last updated: 2026-04-01T23:50:54.554Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "伊朗局勢│俄羅斯稱OPEC+4月會議將聚焦油價上漲問題",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20230830/773601930277556224461390.jpeg/w0POTUWYzX_5j0PUDQB_aos0jN-hFifL7KxtEeysbRE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60336558/%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8B%A2-%E4%BF%84%E7%BE%85%E6%96%AF%E7%A8%B1opec-4%E6%9C%88%E6%9C%83%E8%AD%B0%E5%B0%87%E8%81%9A%E7%84%A6%E6%B2%B9%E5%83%B9%E4%B8%8A%E6%BC%B2%E5%95%8F%E9%A1%8C",
+    "timestamp": "2026-04-01T23:50:54.554Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "王嘉慧2,200萬西九龍豪宅曝光　家中做Gym網民驚呼好危險",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260401/1116057352533970944387261.jpeg/cHsyTwQ7dCBNa9HXYvl1CPX2vY3T7vuChmpxuIZqcbg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60336412/%E7%BE%8E%E8%BB%8D%E5%A3%AB%E5%85%B5%E6%B6%89%E5%90%91%E8%84%AB%E8%A1%A3%E8%88%9E%E5%AD%83%E6%B3%84%E5%AF%86-%E4%B8%8B%E9%80%B1%E8%A6%81%E9%83%A8%E7%BD%B2%E4%BA%86-%E8%BB%8D%E6%96%B9%E7%B7%8A%E6%80%A5%E8%AD%A6%E5%91%8A-%E6%9C%89%E7%89%87",
     "timestamp": "2026-04-01T09:21:32.061Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "伊朗戰爭傷民眾荷包？澳洲4月1日起燃油稅減半　兩州推免費交通",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260330/1115347477797539840754821.jpeg/X6GbwCRkzgbR0NduXGK7eWcWUfwqFSX2r3skkq97JJI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60336350/%E4%BC%8A%E6%9C%97%E6%88%B0%E7%88%AD%E5%82%B7%E6%B0%91%E7%9C%BE%E8%8D%B7%E5%8C%85-%E6%BE%B3%E6%B4%B24%E6%9C%881%E6%97%A5%E8%B5%B7%E7%87%83%E6%B2%B9%E7%A8%85%E6%B8%9B%E5%8D%8A-%E5%85%A9%E5%B7%9E%E6%8E%A8%E5%85%8D%E8%B2%BB%E4%BA%A4%E9%80%9A",
-    "timestamp": "2026-04-01T07:43:02.106Z",
     "strategy": ".content-card__main"
   }
 ];
