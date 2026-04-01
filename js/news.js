@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-01T12:38:15.462Z
+// Last updated: 2026-04-01T13:44:43.872Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "特朗普稱伊朗領導人要求停火　革命衛隊：拒因其荒謬表演開放海峽",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260331/1115470174078636032318954.jpeg/qQmehwEZESvx5o2ePCtalp11U3IogKAeM2nxRTNp8UU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60336513/%E7%89%B9%E6%9C%97%E6%99%AE%E7%A8%B1%E4%BC%8A%E6%9C%97%E9%A0%98%E5%B0%8E%E4%BA%BA%E8%A6%81%E6%B1%82%E5%81%9C%E7%81%AB-%E9%9D%A9%E5%91%BD%E8%A1%9B%E9%9A%8A-%E6%8B%92%E5%9B%A0%E5%85%B6%E8%8D%92%E8%AC%AC%E8%A1%A8%E6%BC%94%E9%96%8B%E6%94%BE%E6%B5%B7%E5%B3%BD",
+    "timestamp": "2026-04-01T13:44:43.872Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "科林戰勝癌症強勢回歸新城廣播　夥同葉文輝聯手炮製全新節目",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260331/1115767231393828864930716.jpeg/AGGIPGpTGy5Undbjy4Wy6PZLjNpTNO8Fi6X-Voul_lY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60336120/%E8%BF%B7%E4%BD%A0%E6%9D%AF%E8%A3%9D%E8%92%9F%E8%92%BB%E6%9E%9C%E5%87%8D4-1%E8%B5%B7%E7%A6%81%E5%94%AE-%E5%8C%85%E8%A3%9D%E4%B8%8A%E9%A0%88%E6%A8%99%E7%A4%BA%E9%A0%90%E9%98%B2%E5%93%BD%E5%99%8E%E8%AD%A6%E5%91%8A%E5%AD%97%E5%8F%A5",
     "timestamp": "2026-03-31T14:01:28.752Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "Lisa著比堅尼慶29歲生日　睇齊國際天后登賭城駐唱成K-pop第一人",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260331/1115666832599027712147890.jpeg/pxe_-6YH7PLSYkg8QTQU2__gUgNYMljKioSn5oqEp-Y?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60335970/lisa%E8%91%97%E6%AF%94%E5%A0%85%E5%B0%BC%E6%85%B629%E6%AD%B2%E7%94%9F%E6%97%A5-%E7%9D%87%E9%BD%8A%E5%9C%8B%E9%9A%9B%E5%A4%A9%E5%90%8E%E7%99%BB%E8%B3%AD%E5%9F%8E%E9%A7%90%E5%94%B1%E6%88%90k-pop%E7%AC%AC%E4%B8%80%E4%BA%BA",
-    "timestamp": "2026-03-31T12:41:54.433Z",
     "strategy": ".content-card__main"
   }
 ];
