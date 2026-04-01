@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-01T22:21:52.698Z
+// Last updated: 2026-04-01T22:52:13.675Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "王嘉慧2,200萬西九龍豪宅曝光　家中做Gym網民驚呼好危險",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260401/1116128678279909376356947.jpeg/U1beVZyvHTiGJw0QlE00hEEkZlha77yZcorzhXKK84U?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60336397/%E7%8E%8B%E5%98%89%E6%85%A72-200%E8%90%AC%E8%A5%BF%E4%B9%9D%E9%BE%8D%E8%B1%AA%E5%AE%85%E6%9B%9D%E5%85%89-%E5%AE%B6%E4%B8%AD%E5%81%9Agym%E7%B6%B2%E6%B0%91%E9%A9%9A%E5%91%BC%E5%A5%BD%E5%8D%B1%E9%9A%AA",
+    "timestamp": "2026-04-01T22:52:13.675Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "天氣｜今日有幾陣驟雨最高26度　明日稍後驟雨逐漸增多",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260330/1115347477797539840754821.jpeg/X6GbwCRkzgbR0NduXGK7eWcWUfwqFSX2r3skkq97JJI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60336350/%E4%BC%8A%E6%9C%97%E6%88%B0%E7%88%AD%E5%82%B7%E6%B0%91%E7%9C%BE%E8%8D%B7%E5%8C%85-%E6%BE%B3%E6%B4%B24%E6%9C%881%E6%97%A5%E8%B5%B7%E7%87%83%E6%B2%B9%E7%A8%85%E6%B8%9B%E5%8D%8A-%E5%85%A9%E5%B7%9E%E6%8E%A8%E5%85%8D%E8%B2%BB%E4%BA%A4%E9%80%9A",
     "timestamp": "2026-04-01T07:43:02.106Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "清明節禁忌10大｜忌帶4款水果？生日要點做？專家教掃墓最佳時間",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260401/1115997650445930496305874.jpeg/je0-L44RvEHI6q1u3Za_l8XikllFabAvfTXRYX010WE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%A3%9F%E7%8E%A9%E8%B2%B7/60335995/%E6%B8%85%E6%98%8E%E7%AF%80%E7%A6%81%E5%BF%8C10%E5%A4%A7-%E5%BF%8C%E5%B8%B64%E6%AC%BE%E6%B0%B4%E6%9E%9C-%E7%94%9F%E6%97%A5%E8%A6%81%E9%BB%9E%E5%81%9A-%E5%B0%88%E5%AE%B6%E6%95%99%E6%8E%83%E5%A2%93%E6%9C%80%E4%BD%B3%E6%99%82%E9%96%93",
-    "timestamp": "2026-04-01T05:13:18.090Z",
     "strategy": ".content-card__main"
   }
 ];
