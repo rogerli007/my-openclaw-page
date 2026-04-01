@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-03-31T23:37:19.154Z
+// Last updated: 2026-04-01T01:04:31.597Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "Nike預期中國市場本季收入跌2成　累股價盤後瀉逾9%｜美股",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250710/1019956406754742272574913.jpeg/Y-XQrshUwmyPtunQx755_gSL-3LuC76vQtXXmkLV15o?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60336172/nike%E9%A0%90%E6%9C%9F%E4%B8%AD%E5%9C%8B%E5%B8%82%E5%A0%B4%E6%9C%AC%E5%AD%A3%E6%94%B6%E5%85%A5%E8%B7%8C2%E6%88%90-%E7%B4%AF%E8%82%A1%E5%83%B9%E7%9B%A4%E5%BE%8C%E7%80%89%E9%80%BE9-%E7%BE%8E%E8%82%A1",
+    "timestamp": "2026-04-01T01:04:31.597Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "股神巴菲特受訪重點一文看清　手握現金等暴跌　坦言過早沽蘋果",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260313/1109108606604677120642107.jpeg/PxF86Z2aP3b1qAhV2sAdkgEereP83M9eXDa2_lw2tv4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60335882/%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8B%A2-%E5%9C%8B%E6%B3%B0%E6%9E%97%E7%B4%B9%E6%B3%A2-%E7%B6%AD%E6%8C%81%E9%81%8B%E5%8A%9B%E7%82%BA%E9%A6%96%E8%A6%81%E4%BB%BB%E5%8B%99-%E5%89%8A%E8%88%AA%E7%8F%AD%E5%B1%AC%E6%9C%80%E5%BE%8C%E6%89%8B%E6%AE%B5",
     "timestamp": "2026-03-31T03:40:57.671Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "占星師喪兄：疑排便太用力猝死馬桶上　她曾歷險境：耳鳴意識模糊",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260330/1115321818538840064163784.png/IMfq88M6SWs7pJlSWOI6T9iYUjAZiunDsg2pmbINqZk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60333952/%E5%8D%A0%E6%98%9F%E5%B8%AB%E5%96%AA%E5%85%84-%E7%96%91%E6%8E%92%E4%BE%BF%E5%A4%AA%E7%94%A8%E5%8A%9B%E7%8C%9D%E6%AD%BB%E9%A6%AC%E6%A1%B6%E4%B8%8A-%E5%A5%B9%E6%9B%BE%E6%AD%B7%E9%9A%AA%E5%A2%83-%E8%80%B3%E9%B3%B4%E6%84%8F%E8%AD%98%E6%A8%A1%E7%B3%8A",
-    "timestamp": "2026-03-31T01:25:02.092Z",
     "strategy": ".content-card__main"
   }
 ];
