@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-01T10:32:26.317Z
+// Last updated: 2026-04-01T10:57:32.918Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "新界村屋僭建物申報重啟　2011.6.28前建成僭建物適用　為期一年",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/2660381/org/3dd1dffaf0d66489a75923752fb009c2.jpg/ZCoA4OIWfgpHs60EQqoTYEfiCQ95HVwtHVsExx1bBMc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60336481/%E6%96%B0%E7%95%8C%E6%9D%91%E5%B1%8B%E5%83%AD%E5%BB%BA%E7%89%A9%E7%94%B3%E5%A0%B1%E9%87%8D%E5%95%9F-2011-6-28%E5%89%8D%E5%BB%BA%E6%88%90%E5%83%AD%E5%BB%BA%E7%89%A9%E9%81%A9%E7%94%A8-%E7%82%BA%E6%9C%9F%E4%B8%80%E5%B9%B4",
+    "timestamp": "2026-04-01T10:57:32.918Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "張崇德批《中年好聲音4》淪為外勞騷　周國豐亮收視數據霸氣反擊",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260114/1088167500547493888015749.jpeg/Y2YEf3N-WjgngI2AuyKL8A3Dtu-uuUHy5maolMNmqJQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60336106/%E5%A4%A7%E5%B6%BC%E5%B1%B1%E4%B8%80%E6%9D%91%E9%95%B7%E5%9B%A0%E6%B3%8A%E8%BB%8A%E7%88%AD%E5%9F%B7%E6%B6%89%E6%89%93%E5%A7%A8%E7%94%A5%E5%A5%B3%E5%A4%AB%E5%A9%A6-%E6%9D%91%E9%95%B7%E7%88%B6%E5%AD%90%E5%8F%8A%E4%B8%80%E7%94%B7%E8%A5%B2%E6%93%8A%E7%BD%AA%E6%88%90",
     "timestamp": "2026-03-31T11:12:33.150Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "2025年立法會選舉｜投訴逾3000宗較上屆多八成　逾六成涉選舉廣告",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20251207/1074409215483056128397024.jpeg/mXgKzB7WR53FlaZPSGnwmIPRmxOxyTFJbiL1524i9ec?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60336053/2025%E5%B9%B4%E7%AB%8B%E6%B3%95%E6%9C%83%E9%81%B8%E8%88%89-%E6%8A%95%E8%A8%B4%E9%80%BE3000%E5%AE%97%E8%BC%83%E4%B8%8A%E5%B1%86%E5%A4%9A%E5%85%AB%E6%88%90-%E9%80%BE%E5%85%AD%E6%88%90%E6%B6%89%E9%81%B8%E8%88%89%E5%BB%A3%E5%91%8A",
-    "timestamp": "2026-03-31T10:42:00.985Z",
     "strategy": ".content-card__main"
   }
 ];
