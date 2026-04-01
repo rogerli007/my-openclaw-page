@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-01T18:09:05.655Z
+// Last updated: 2026-04-01T18:40:03.703Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "伊朗戰爭｜法國海軍參謀長：中國遲早須參與重開霍爾木茲討論",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260402/1116200726918336512450697.jpeg/cdIv0fMcQIkZJ6W-4WbxpwWbmSLdqgp00RwV0tEcFdI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60336545/%E4%BC%8A%E6%9C%97%E6%88%B0%E7%88%AD-%E6%B3%95%E5%9C%8B%E6%B5%B7%E8%BB%8D%E5%8F%83%E8%AC%80%E9%95%B7-%E4%B8%AD%E5%9C%8B%E9%81%B2%E6%97%A9%E9%A0%88%E5%8F%83%E8%88%87%E9%87%8D%E9%96%8B%E9%9C%8D%E7%88%BE%E6%9C%A8%E8%8C%B2%E8%A8%8E%E8%AB%96",
+    "timestamp": "2026-04-01T18:40:03.703Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "結業潮｜8鍋臭臭鍋結束香港業務　唯一葵芳分店6月底結業",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260401/1115874187827744768390567.jpeg/j5kQS6Z5hbcvAcXzoTu5pig0WB9AsIMxYnJ3LGJydyw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60336159/%E4%B8%96%E7%9B%83%E5%A4%96%E9%99%84%E5%8A%A0%E8%B3%BD-%E6%84%8F%E5%A4%A7%E5%88%A9%E4%BA%92%E5%B0%8412%E7%A2%BC%E6%95%97%E6%96%BC%E6%B3%A2%E6%96%AF%E5%B0%BC%E4%BA%9E-%E9%80%A3%E7%BA%8C%E4%B8%89%E5%B1%86%E7%84%A1%E7%B7%A3%E6%B1%BA%E8%B3%BD%E5%91%A8",
     "timestamp": "2026-03-31T21:52:47.867Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "李思穎返港落機即置裝　首膺十傑比落場更緊張｜傑運選舉",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260401/1115812320677728256974123.jpeg/k4OhKnpn4feJcM8iqyV4daCoJYUw9vUCJAllbCQJZWw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60335935/%E6%9D%8E%E6%80%9D%E7%A9%8E%E8%BF%94%E6%B8%AF%E8%90%BD%E6%A9%9F%E5%8D%B3%E7%BD%AE%E8%A3%9D-%E9%A6%96%E8%86%BA%E5%8D%81%E5%82%91%E6%AF%94%E8%90%BD%E5%A0%B4%E6%9B%B4%E7%B7%8A%E5%BC%B5-%E5%82%91%E9%81%8B%E9%81%B8%E8%88%89",
-    "timestamp": "2026-03-31T17:41:37.751Z",
     "strategy": ".content-card__main"
   }
 ];
