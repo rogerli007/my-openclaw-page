@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-01T18:40:03.703Z
+// Last updated: 2026-04-01T20:07:31.963Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "穆傑塔巴籲伊朗人民植樹　紀念戰事中喪生烈士",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260309/1107609437184462848352987.jpeg/S0pO4_Ufg05G6mo4ivP7bTZc7-pqup4NHAqiFBwKohQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60336549/%E7%A9%86%E5%82%91%E5%A1%94%E5%B7%B4%E7%B1%B2%E4%BC%8A%E6%9C%97%E4%BA%BA%E6%B0%91%E6%A4%8D%E6%A8%B9-%E7%B4%80%E5%BF%B5%E6%88%B0%E4%BA%8B%E4%B8%AD%E5%96%AA%E7%94%9F%E7%83%88%E5%A3%AB",
+    "timestamp": "2026-04-01T20:07:31.963Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "伊朗戰爭｜法國海軍參謀長：中國遲早須參與重開霍爾木茲討論",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250504/995543853953978368361925.png/rhMRguPRWHIxg_AvB0FqYIAyX2zpg0PS9Hk6CPR5Ogg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60336168/%E8%82%A1%E7%A5%9E%E5%B7%B4%E8%8F%B2%E7%89%B9%E5%8F%97%E8%A8%AA%E9%87%8D%E9%BB%9E%E4%B8%80%E6%96%87%E7%9C%8B%E6%B8%85-%E6%89%8B%E6%8F%A1%E7%8F%BE%E9%87%91%E7%AD%89%E6%9A%B4%E8%B7%8C-%E5%9D%A6%E8%A8%80%E9%81%8E%E6%97%A9%E6%B2%BD%E8%98%8B%E6%9E%9C",
     "timestamp": "2026-03-31T23:37:19.154Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "世盃外附加賽｜意大利互射12碼敗於波斯尼亞　連續三屆無緣決賽周",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260401/1115874187827744768390567.jpeg/j5kQS6Z5hbcvAcXzoTu5pig0WB9AsIMxYnJ3LGJydyw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60336159/%E4%B8%96%E7%9B%83%E5%A4%96%E9%99%84%E5%8A%A0%E8%B3%BD-%E6%84%8F%E5%A4%A7%E5%88%A9%E4%BA%92%E5%B0%8412%E7%A2%BC%E6%95%97%E6%96%BC%E6%B3%A2%E6%96%AF%E5%B0%BC%E4%BA%9E-%E9%80%A3%E7%BA%8C%E4%B8%89%E5%B1%86%E7%84%A1%E7%B7%A3%E6%B1%BA%E8%B3%BD%E5%91%A8",
-    "timestamp": "2026-03-31T21:52:47.867Z",
     "strategy": ".content-card__main"
   }
 ];
