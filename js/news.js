@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-01T13:44:43.872Z
+// Last updated: 2026-04-01T14:23:03.140Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "施明逝世｜李泳漢哀痛發文　感激母親抱去醫院：我的命是你救回來",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260401/1116136587248275456905764.jpeg/bo1_Wj8KHBTDoM7kU1ZSqtOYpYwIAjE_bT3Wt2091rc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60336521/%E6%96%BD%E6%98%8E%E9%80%9D%E4%B8%96-%E6%9D%8E%E6%B3%B3%E6%BC%A2%E5%93%80%E7%97%9B%E7%99%BC%E6%96%87-%E6%84%9F%E6%BF%80%E6%AF%8D%E8%A6%AA%E6%8A%B1%E5%8E%BB%E9%86%AB%E9%99%A2-%E6%88%91%E7%9A%84%E5%91%BD%E6%98%AF%E4%BD%A0%E6%95%91%E5%9B%9E%E4%BE%86",
+    "timestamp": "2026-04-01T14:23:03.140Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "特朗普稱伊朗領導人要求停火　革命衛隊：拒因其荒謬表演開放海峽",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260331/1115780185396875264037629.jpeg/VJjbYPzfZf5LPcJus65N26INn86gEf8ThYr6O4WK-js?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60335957/%E9%84%A7%E4%BF%8A%E6%96%87%E8%AC%9D%E5%BD%B1%E9%9B%AA6%E5%BA%A6%E7%8D%B2%E7%8D%8E%E4%B8%A6%E5%88%97%E5%8F%B2%E4%B8%8A%E6%9C%80%E5%A4%9A-%E7%8F%8D%E6%83%9C%E6%AF%8F%E6%AC%A1%E4%B8%8A%E5%8F%B0%E6%A9%9F%E6%9C%83-%E5%82%91%E9%81%8B%E9%81%B8%E8%88%89",
     "timestamp": "2026-03-31T14:43:50.363Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "迷你杯裝蒟蒻果凍4.1起禁售　包裝上須標示預防哽噎警告字句",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260331/1115767231393828864930716.jpeg/AGGIPGpTGy5Undbjy4Wy6PZLjNpTNO8Fi6X-Voul_lY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60336120/%E8%BF%B7%E4%BD%A0%E6%9D%AF%E8%A3%9D%E8%92%9F%E8%92%BB%E6%9E%9C%E5%87%8D4-1%E8%B5%B7%E7%A6%81%E5%94%AE-%E5%8C%85%E8%A3%9D%E4%B8%8A%E9%A0%88%E6%A8%99%E7%A4%BA%E9%A0%90%E9%98%B2%E5%93%BD%E5%99%8E%E8%AD%A6%E5%91%8A%E5%AD%97%E5%8F%A5",
-    "timestamp": "2026-03-31T14:01:28.752Z",
     "strategy": ".content-card__main"
   }
 ];
