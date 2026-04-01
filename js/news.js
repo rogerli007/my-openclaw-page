@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-01T20:59:06.818Z
+// Last updated: 2026-04-01T21:25:34.252Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "霍爾木茲海峽航運受阻推高能源價格　韓國擬研究繞道紅海運出石油",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260402/1116223968307580928124830.jpeg/6D-sOOitvtPAcbLSdyqETXZENfs1LEyJYIsV2mCLFdo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60336552/%E9%9C%8D%E7%88%BE%E6%9C%A8%E8%8C%B2%E6%B5%B7%E5%B3%BD%E8%88%AA%E9%81%8B%E5%8F%97%E9%98%BB%E6%8E%A8%E9%AB%98%E8%83%BD%E6%BA%90%E5%83%B9%E6%A0%BC-%E9%9F%93%E5%9C%8B%E6%93%AC%E7%A0%94%E7%A9%B6%E7%B9%9E%E9%81%93%E7%B4%85%E6%B5%B7%E9%81%8B%E5%87%BA%E7%9F%B3%E6%B2%B9",
+    "timestamp": "2026-04-01T21:25:34.252Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "穆傑塔巴籲伊朗人民植樹　紀念戰事中喪生烈士",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260401/1115947750916100096427619.jpeg/vvYwpCGFQFSLoj9H8dC8n6nY50yyYCwlsGHMh7BhzIc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60336181/%E6%97%A5%E6%9C%AC%E8%8C%A8%E5%9F%8E%E7%B8%A3%E5%8D%97%E9%83%A8%E7%99%BC%E7%94%9F5%E7%B4%9A%E5%9C%B0%E9%9C%87-%E6%9D%B1%E4%BA%AC%E9%9C%87%E6%84%9F%E6%98%8E%E9%A1%AF-%E6%9C%AA%E7%99%BC%E5%B8%83%E6%B5%B7%E5%98%AF%E9%A0%90%E8%AD%A6",
     "timestamp": "2026-04-01T01:47:45.175Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "Nike預期中國市場本季收入跌2成　累股價盤後瀉逾9%｜美股",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250710/1019956406754742272574913.jpeg/Y-XQrshUwmyPtunQx755_gSL-3LuC76vQtXXmkLV15o?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60336172/nike%E9%A0%90%E6%9C%9F%E4%B8%AD%E5%9C%8B%E5%B8%82%E5%A0%B4%E6%9C%AC%E5%AD%A3%E6%94%B6%E5%85%A5%E8%B7%8C2%E6%88%90-%E7%B4%AF%E8%82%A1%E5%83%B9%E7%9B%A4%E5%BE%8C%E7%80%89%E9%80%BE9-%E7%BE%8E%E8%82%A1",
-    "timestamp": "2026-04-01T01:04:31.597Z",
     "strategy": ".content-card__main"
   }
 ];
