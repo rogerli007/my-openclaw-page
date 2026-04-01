@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-01T11:29:51.685Z
+// Last updated: 2026-04-01T11:54:32.050Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "三會2026｜立會新丁莊豪鋒無連任分區會　棄選議員陸瀚民入撲滅會",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20251209/1075112332482711552532689.jpeg/AVOlPkbqGfMSw86nSStT2_c4cmPfgFXXW3NF1ltzRdY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60336498/%E4%B8%89%E6%9C%832026-%E7%AB%8B%E6%9C%83%E6%96%B0%E4%B8%81%E8%8E%8A%E8%B1%AA%E9%8B%92%E7%84%A1%E9%80%A3%E4%BB%BB%E5%88%86%E5%8D%80%E6%9C%83-%E6%A3%84%E9%81%B8%E8%AD%B0%E5%93%A1%E9%99%B8%E7%80%9A%E6%B0%91%E5%85%A5%E6%92%B2%E6%BB%85%E6%9C%83",
+    "timestamp": "2026-04-01T11:54:32.050Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "李克勤新加坡開騷遭神秘公仔偷襲　林子祥葉蒨文驚喜現身後台探班",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260331/1115667181166661632603942.jpeg/WUHqIYhossTVzXZGuMimr0DPpQunGHQVG7-HUBu_h1A?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60335951/%E6%98%9F%E4%BA%8C%E4%BB%A3%E9%BE%90%E6%99%AF%E5%B3%B0%E9%81%AD%E5%8A%89%E6%BA%AB%E9%A6%A8%E7%8B%A0%E9%A3%9B%E5%BE%8C%E8%90%BD%E9%AD%84%E4%BD%8F%E5%B7%A5%E5%BB%88-%E6%97%A5%E6%89%93%E4%B8%89%E4%BB%BD%E5%B7%A5%E5%8E%BB%E5%85%AC%E5%BB%81%E6%B2%96%E6%B6%BC",
     "timestamp": "2026-03-31T12:02:30.230Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "歐瑞偉武師出身曾獲張國榮暖心照顧　轉型演員被鬧「返去耕田」",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260331/1115667218273669120358419.jpeg/z85o0hgnzzUo9MZ_ADlHrwCxNuWCiVwmLpS6yy6Uuss?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60335932/%E6%AD%90%E7%91%9E%E5%81%89%E6%AD%A6%E5%B8%AB%E5%87%BA%E8%BA%AB%E6%9B%BE%E7%8D%B2%E5%BC%B5%E5%9C%8B%E6%A6%AE%E6%9A%96%E5%BF%83%E7%85%A7%E9%A1%A7-%E8%BD%89%E5%9E%8B%E6%BC%94%E5%93%A1%E8%A2%AB%E9%AC%A7-%E8%BF%94%E5%8E%BB%E8%80%95%E7%94%B0",
-    "timestamp": "2026-03-31T11:39:11.698Z",
     "strategy": ".content-card__main"
   }
 ];
