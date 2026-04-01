@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-01T15:40:06.567Z
+// Last updated: 2026-04-01T16:40:10.495Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "古巴時隔三個月再有俄羅斯油輪靠岸　俄羅斯要求美方解除能源封鎖",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260401/1116130707287052288860524.jpeg/HTuBUzaMRVjxMg3rAlOixFe4hlcV_XD27bNIhe2zSIU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60336517/%E5%8F%A4%E5%B7%B4%E6%99%82%E9%9A%94%E4%B8%89%E5%80%8B%E6%9C%88%E5%86%8D%E6%9C%89%E4%BF%84%E7%BE%85%E6%96%AF%E6%B2%B9%E8%BC%AA%E9%9D%A0%E5%B2%B8-%E4%BF%84%E7%BE%85%E6%96%AF%E8%A6%81%E6%B1%82%E7%BE%8E%E6%96%B9%E8%A7%A3%E9%99%A4%E8%83%BD%E6%BA%90%E5%B0%81%E9%8E%96",
+    "timestamp": "2026-04-01T16:40:10.495Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "北都大學城｜陳國基率團訪河北雄安新區　考察校城融合整體規劃",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260401/1115806145403949056504962.jpeg/bvrYlLekhongEpX-ur8FFP7SaCl7udGwSBflPkgX5T4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60336142/%E5%AE%8F%E7%A6%8F%E8%8B%91-%E9%BA%A5%E7%BE%8E%E5%A8%9F-%E5%90%88%E5%AE%89%E6%AD%A3%E5%AF%A9%E8%A6%9680%E8%90%AC%E4%BB%BD%E6%96%87%E4%BB%B6-%E7%B0%A1%E4%BB%8B%E6%9C%83%E9%81%BF%E8%81%BD%E8%AD%89%E6%9C%83%E5%8F%8A%E4%B8%8A%E6%A8%93%E6%97%A5",
     "timestamp": "2026-03-31T16:43:03.718Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "歐瑞偉自爆武師生涯搵命搏　曾溺水險死、目擊同門失手致半身不遂",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260331/1115686988746330112506721.jpeg/NKNISodqrJxnj5MjwOOKFHZz3wiq9SalaROfPGkTnzw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60335974/%E6%AD%90%E7%91%9E%E5%81%89%E8%87%AA%E7%88%86%E6%AD%A6%E5%B8%AB%E7%94%9F%E6%B6%AF%E6%90%B5%E5%91%BD%E6%90%8F-%E6%9B%BE%E6%BA%BA%E6%B0%B4%E9%9A%AA%E6%AD%BB-%E7%9B%AE%E6%93%8A%E5%90%8C%E9%96%80%E5%A4%B1%E6%89%8B%E8%87%B4%E5%8D%8A%E8%BA%AB%E4%B8%8D%E9%81%82",
-    "timestamp": "2026-03-31T15:48:19.969Z",
     "strategy": ".content-card__main"
   }
 ];
