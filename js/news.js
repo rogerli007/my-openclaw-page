@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-01T10:57:32.918Z
+// Last updated: 2026-04-01T11:29:51.685Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "李克勤新加坡開騷遭神秘公仔偷襲　林子祥葉蒨文驚喜現身後台探班",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260401/1116021749373210624581274.jpeg/y1itGSqKaXPSPhY8F8H-yg6vSB4YvDpKq0gG76tIBu8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60336333/%E6%9D%8E%E5%85%8B%E5%8B%A4%E6%96%B0%E5%8A%A0%E5%9D%A1%E9%96%8B%E9%A8%B7%E9%81%AD%E7%A5%9E%E7%A7%98%E5%85%AC%E4%BB%94%E5%81%B7%E8%A5%B2-%E6%9E%97%E5%AD%90%E7%A5%A5%E8%91%89%E8%92%A8%E6%96%87%E9%A9%9A%E5%96%9C%E7%8F%BE%E8%BA%AB%E5%BE%8C%E5%8F%B0%E6%8E%A2%E7%8F%AD",
+    "timestamp": "2026-04-01T11:29:51.685Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "新界村屋僭建物申報重啟　2011.6.28前建成僭建物適用　為期一年",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260331/1115667218273669120358419.jpeg/z85o0hgnzzUo9MZ_ADlHrwCxNuWCiVwmLpS6yy6Uuss?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60335932/%E6%AD%90%E7%91%9E%E5%81%89%E6%AD%A6%E5%B8%AB%E5%87%BA%E8%BA%AB%E6%9B%BE%E7%8D%B2%E5%BC%B5%E5%9C%8B%E6%A6%AE%E6%9A%96%E5%BF%83%E7%85%A7%E9%A1%A7-%E8%BD%89%E5%9E%8B%E6%BC%94%E5%93%A1%E8%A2%AB%E9%AC%A7-%E8%BF%94%E5%8E%BB%E8%80%95%E7%94%B0",
     "timestamp": "2026-03-31T11:39:11.698Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "大嶼山一村長因泊車爭執涉打姨甥女夫婦　村長父子及一男襲擊罪成",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260114/1088167500547493888015749.jpeg/Y2YEf3N-WjgngI2AuyKL8A3Dtu-uuUHy5maolMNmqJQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60336106/%E5%A4%A7%E5%B6%BC%E5%B1%B1%E4%B8%80%E6%9D%91%E9%95%B7%E5%9B%A0%E6%B3%8A%E8%BB%8A%E7%88%AD%E5%9F%B7%E6%B6%89%E6%89%93%E5%A7%A8%E7%94%A5%E5%A5%B3%E5%A4%AB%E5%A9%A6-%E6%9D%91%E9%95%B7%E7%88%B6%E5%AD%90%E5%8F%8A%E4%B8%80%E7%94%B7%E8%A5%B2%E6%93%8A%E7%BD%AA%E6%88%90",
-    "timestamp": "2026-03-31T11:12:33.150Z",
     "strategy": ".content-card__main"
   }
 ];
