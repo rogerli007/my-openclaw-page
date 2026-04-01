@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-01T20:07:31.963Z
+// Last updated: 2026-04-01T20:59:06.818Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "穆傑塔巴籲伊朗人民植樹　紀念戰事中喪生烈士",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260309/1107609437184462848352987.jpeg/S0pO4_Ufg05G6mo4ivP7bTZc7-pqup4NHAqiFBwKohQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60336549/%E7%A9%86%E5%82%91%E5%A1%94%E5%B7%B4%E7%B1%B2%E4%BC%8A%E6%9C%97%E4%BA%BA%E6%B0%91%E6%A4%8D%E6%A8%B9-%E7%B4%80%E5%BF%B5%E6%88%B0%E4%BA%8B%E4%B8%AD%E5%96%AA%E7%94%9F%E7%83%88%E5%A3%AB",
+    "timestamp": "2026-04-01T20:59:06.818Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "穆傑塔巴籲伊朗人民植樹　紀念戰事中喪生烈士",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250710/1019956406754742272574913.jpeg/Y-XQrshUwmyPtunQx755_gSL-3LuC76vQtXXmkLV15o?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60336172/nike%E9%A0%90%E6%9C%9F%E4%B8%AD%E5%9C%8B%E5%B8%82%E5%A0%B4%E6%9C%AC%E5%AD%A3%E6%94%B6%E5%85%A5%E8%B7%8C2%E6%88%90-%E7%B4%AF%E8%82%A1%E5%83%B9%E7%9B%A4%E5%BE%8C%E7%80%89%E9%80%BE9-%E7%BE%8E%E8%82%A1",
     "timestamp": "2026-04-01T01:04:31.597Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "股神巴菲特受訪重點一文看清　手握現金等暴跌　坦言過早沽蘋果",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250504/995543853953978368361925.png/rhMRguPRWHIxg_AvB0FqYIAyX2zpg0PS9Hk6CPR5Ogg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60336168/%E8%82%A1%E7%A5%9E%E5%B7%B4%E8%8F%B2%E7%89%B9%E5%8F%97%E8%A8%AA%E9%87%8D%E9%BB%9E%E4%B8%80%E6%96%87%E7%9C%8B%E6%B8%85-%E6%89%8B%E6%8F%A1%E7%8F%BE%E9%87%91%E7%AD%89%E6%9A%B4%E8%B7%8C-%E5%9D%A6%E8%A8%80%E9%81%8E%E6%97%A9%E6%B2%BD%E8%98%8B%E6%9E%9C",
-    "timestamp": "2026-03-31T23:37:19.154Z",
     "strategy": ".content-card__main"
   }
 ];
