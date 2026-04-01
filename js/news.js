@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-01T16:40:10.495Z
+// Last updated: 2026-04-01T18:09:05.655Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "結業潮｜8鍋臭臭鍋結束香港業務　唯一葵芳分店6月底結業",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260402/1116189629582675968954036.jpeg/NZncBh_I1nwyHkTHrf_ct31KDT_uihc6i72Gz4u9hs8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60336544/%E7%B5%90%E6%A5%AD%E6%BD%AE-8%E9%8D%8B%E8%87%AD%E8%87%AD%E9%8D%8B%E7%B5%90%E6%9D%9F%E9%A6%99%E6%B8%AF%E6%A5%AD%E5%8B%99-%E5%94%AF%E4%B8%80%E8%91%B5%E8%8A%B3%E5%88%86%E5%BA%976%E6%9C%88%E5%BA%95%E7%B5%90%E6%A5%AD",
+    "timestamp": "2026-04-01T18:09:05.655Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "古巴時隔三個月再有俄羅斯油輪靠岸　俄羅斯要求美方解除能源封鎖",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260401/1115812320677728256974123.jpeg/k4OhKnpn4feJcM8iqyV4daCoJYUw9vUCJAllbCQJZWw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60335935/%E6%9D%8E%E6%80%9D%E7%A9%8E%E8%BF%94%E6%B8%AF%E8%90%BD%E6%A9%9F%E5%8D%B3%E7%BD%AE%E8%A3%9D-%E9%A6%96%E8%86%BA%E5%8D%81%E5%82%91%E6%AF%94%E8%90%BD%E5%A0%B4%E6%9B%B4%E7%B7%8A%E5%BC%B5-%E5%82%91%E9%81%8B%E9%81%B8%E8%88%89",
     "timestamp": "2026-03-31T17:41:37.751Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "宏福苑｜麥美娟：合安正審視80萬份文件　簡介會避聽證會及上樓日",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260401/1115806145403949056504962.jpeg/bvrYlLekhongEpX-ur8FFP7SaCl7udGwSBflPkgX5T4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60336142/%E5%AE%8F%E7%A6%8F%E8%8B%91-%E9%BA%A5%E7%BE%8E%E5%A8%9F-%E5%90%88%E5%AE%89%E6%AD%A3%E5%AF%A9%E8%A6%9680%E8%90%AC%E4%BB%BD%E6%96%87%E4%BB%B6-%E7%B0%A1%E4%BB%8B%E6%9C%83%E9%81%BF%E8%81%BD%E8%AD%89%E6%9C%83%E5%8F%8A%E4%B8%8A%E6%A8%93%E6%97%A5",
-    "timestamp": "2026-03-31T16:43:03.718Z",
     "strategy": ".content-card__main"
   }
 ];
