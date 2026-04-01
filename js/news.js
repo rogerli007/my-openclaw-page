@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-01T21:52:34.179Z
+// Last updated: 2026-04-01T22:21:52.698Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "天氣｜今日有幾陣驟雨最高26度　明日稍後驟雨逐漸增多",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260402/1116254481642688512419876.jpeg/U238bG4FdwSUDW_RZTq5QM4fxX2UcCEtFirztRYq87U?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60336538/%E5%A4%A9%E6%B0%A3-%E4%BB%8A%E6%97%A5%E6%9C%89%E5%B9%BE%E9%99%A3%E9%A9%9F%E9%9B%A8%E6%9C%80%E9%AB%9826%E5%BA%A6-%E6%98%8E%E6%97%A5%E7%A8%8D%E5%BE%8C%E9%A9%9F%E9%9B%A8%E9%80%90%E6%BC%B8%E5%A2%9E%E5%A4%9A",
+    "timestamp": "2026-04-01T22:21:52.698Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "霍爾木茲海峽航運受阻推高能源價格　韓國擬研究繞道紅海運出石油",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260401/1115997650445930496305874.jpeg/je0-L44RvEHI6q1u3Za_l8XikllFabAvfTXRYX010WE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%A3%9F%E7%8E%A9%E8%B2%B7/60335995/%E6%B8%85%E6%98%8E%E7%AF%80%E7%A6%81%E5%BF%8C10%E5%A4%A7-%E5%BF%8C%E5%B8%B64%E6%AC%BE%E6%B0%B4%E6%9E%9C-%E7%94%9F%E6%97%A5%E8%A6%81%E9%BB%9E%E5%81%9A-%E5%B0%88%E5%AE%B6%E6%95%99%E6%8E%83%E5%A2%93%E6%9C%80%E4%BD%B3%E6%99%82%E9%96%93",
     "timestamp": "2026-04-01T05:13:18.090Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "廈門網民買安眠藥竟收到吊銷駕照短訊　交警證實：為了大家安全",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260331/1115665515176529920735601.jpeg/hWoAQkIY8IvJKWHOM1QTu62dfxyrY_iNwjHx48Ix8eM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60335963/%E5%BB%88%E9%96%80%E7%B6%B2%E6%B0%91%E8%B2%B7%E5%AE%89%E7%9C%A0%E8%97%A5%E7%AB%9F%E6%94%B6%E5%88%B0%E5%90%8A%E9%8A%B7%E9%A7%95%E7%85%A7%E7%9F%AD%E8%A8%8A-%E4%BA%A4%E8%AD%A6%E8%AD%89%E5%AF%A6-%E7%82%BA%E4%BA%86%E5%A4%A7%E5%AE%B6%E5%AE%89%E5%85%A8",
-    "timestamp": "2026-04-01T02:50:29.615Z",
     "strategy": ".content-card__main"
   }
 ];
