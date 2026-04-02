@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-02T23:21:30.698Z
+// Last updated: 2026-04-02T23:51:43.103Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "伊朗戰爭｜美國防長據報要求陸軍參謀長辭職　國防部證實離任",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260403/1116636923583008768085391.jpeg/SPvhQxMFdkNxSuQJnoMtxZuaFDbbAXkTPm6nTD5up0w?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60336944/%E4%BC%8A%E6%9C%97%E6%88%B0%E7%88%AD-%E7%BE%8E%E5%9C%8B%E9%98%B2%E9%95%B7%E6%93%9A%E5%A0%B1%E8%A6%81%E6%B1%82%E9%99%B8%E8%BB%8D%E5%8F%83%E8%AC%80%E9%95%B7%E8%BE%AD%E8%81%B7-%E5%9C%8B%E9%98%B2%E9%83%A8%E8%AD%89%E5%AF%A6%E9%9B%A2%E4%BB%BB",
+    "timestamp": "2026-04-02T23:51:43.103Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "杭州金匠壽司大老鼠竄過迴轉帶！食客嚇呆拍片公審　店家回應致歉",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260402/1116347641630822400284165.jpeg/w47wXPj23uSjK4IM_V0HtyPp2T6zm9JPSOWIzkjliM4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60336622/%E5%AE%8F%E7%A6%8F%E8%8B%91%E6%A5%AD%E4%B8%BB%E9%9C%B83%E4%B8%8A%E6%A8%93%E5%90%8D%E9%A1%8D-%E4%B8%83%E6%97%AC%E7%A7%9F%E5%AE%A2%E8%A6%81%E5%96%AE%E4%B8%81%E5%9F%B7%E5%B1%8B-%E5%AE%B6%E5%B1%AC%E5%80%A1%E7%A7%9F%E5%AE%A2%E5%84%AA%E5%85%88",
     "timestamp": "2026-04-02T04:45:37.427Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "家事法庭劇情｜最新追劇日曆/播出時間+演員角色簡介",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260325/1113281673136443392385914.jpeg/P5rn_tGa8LFzHEQbwFn7iA6vw12SV9UCFvL69Rby-vU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60333870/%E5%AE%B6%E4%BA%8B%E6%B3%95%E5%BA%AD%E5%8A%87%E6%83%85-%E6%9C%80%E6%96%B0%E8%BF%BD%E5%8A%87%E6%97%A5%E6%9B%86-%E6%92%AD%E5%87%BA%E6%99%82%E9%96%93-%E6%BC%94%E5%93%A1%E9%97%9C%E4%BF%82%E5%9C%96-%E8%A7%92%E8%89%B2%E7%B0%A1%E4%BB%8B",
-    "timestamp": "2026-04-02T03:37:31.891Z",
     "strategy": ".content-card__main"
   }
 ];
