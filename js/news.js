@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-02T12:06:28.731Z
+// Last updated: 2026-04-02T12:41:25.719Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "復活節片單2026｜Netflix4月精選片單推薦：逐玉/泥娃娃/獵犬2",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260402/1116380718058967040352401.png/E90Z5wiJr0A9115Dpq5IL3Vb0swN1fY0ShJPFkoSTxY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%9F%A5%E6%80%A7%E5%A5%B3%E7%94%9F/60336720/%E5%BE%A9%E6%B4%BB%E7%AF%80%E7%89%87%E5%96%AE2026-netflix4%E6%9C%88%E7%B2%BE%E9%81%B8%E7%89%87%E5%96%AE%E6%8E%A8%E8%96%A6-%E9%80%90%E7%8E%89-%E6%B3%A5%E5%A8%83%E5%A8%83-%E7%8D%B5%E7%8A%AC2",
+    "timestamp": "2026-04-02T12:41:25.719Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "禁電子煙｜何謂公眾地方？警方可否執法？旅客獲豁免？常見QA一覽",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260401/1116130707287052288860524.jpeg/HTuBUzaMRVjxMg3rAlOixFe4hlcV_XD27bNIhe2zSIU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60336517/%E5%8F%A4%E5%B7%B4%E6%99%82%E9%9A%94%E4%B8%89%E5%80%8B%E6%9C%88%E5%86%8D%E6%9C%89%E4%BF%84%E7%BE%85%E6%96%AF%E6%B2%B9%E8%BC%AA%E9%9D%A0%E5%B2%B8-%E4%BF%84%E7%BE%85%E6%96%AF%E8%A6%81%E6%B1%82%E7%BE%8E%E6%96%B9%E8%A7%A3%E9%99%A4%E8%83%BD%E6%BA%90%E5%B0%81%E9%8E%96",
     "timestamp": "2026-04-01T16:40:10.495Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "北都大學城｜陳國基率團訪河北雄安新區　考察校城融合整體規劃",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260401/1116154375145000960347182.jpeg/aAlwAU3b3RmKrz5b3XERy-fi_RMbM78sasDm52rA5uc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60336530/%E5%8C%97%E9%83%BD%E5%A4%A7%E5%AD%B8%E5%9F%8E-%E9%99%B3%E5%9C%8B%E5%9F%BA%E7%8E%87%E5%9C%98%E8%A8%AA%E6%B2%B3%E5%8C%97%E9%9B%84%E5%AE%89%E6%96%B0%E5%8D%80-%E8%80%83%E5%AF%9F%E6%A0%A1%E5%9F%8E%E8%9E%8D%E5%90%88%E6%95%B4%E9%AB%94%E8%A6%8F%E5%8A%83",
-    "timestamp": "2026-04-01T15:40:06.567Z",
     "strategy": ".content-card__main"
   }
 ];
