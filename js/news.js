@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-02T14:37:38.888Z
+// Last updated: 2026-04-02T15:42:38.181Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "伊朗標誌性大橋據報遭美以襲擊　造成至少2死｜有片",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260402/1116517213696692224359627.png/kNU-vL-x3gFZ6iJOdiFr5e_GHLUXgBK5S2GJtUthibU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60336912/%E4%BC%8A%E6%9C%97%E6%A8%99%E8%AA%8C%E6%80%A7%E5%A4%A7%E6%A9%8B%E6%93%9A%E5%A0%B1%E9%81%AD%E7%BE%8E%E4%BB%A5%E8%A5%B2%E6%93%8A-%E9%80%A0%E6%88%90%E8%87%B3%E5%B0%912%E6%AD%BB-%E6%9C%89%E7%89%87",
+    "timestamp": "2026-04-02T15:42:38.181Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "范麒智開YouTube獲李凱賢傳授心法　首集素顏上陣立志衝5萬訂閱",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260309/1107609437184462848352987.jpeg/S0pO4_Ufg05G6mo4ivP7bTZc7-pqup4NHAqiFBwKohQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60336549/%E7%A9%86%E5%82%91%E5%A1%94%E5%B7%B4%E7%B1%B2%E4%BC%8A%E6%9C%97%E4%BA%BA%E6%B0%91%E6%A4%8D%E6%A8%B9-%E7%B4%80%E5%BF%B5%E6%88%B0%E4%BA%8B%E4%B8%AD%E5%96%AA%E7%94%9F%E7%83%88%E5%A3%AB",
     "timestamp": "2026-04-01T20:07:31.963Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "伊朗戰爭｜法國海軍參謀長：中國遲早須參與重開霍爾木茲討論",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260402/1116200726918336512450697.jpeg/cdIv0fMcQIkZJ6W-4WbxpwWbmSLdqgp00RwV0tEcFdI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60336545/%E4%BC%8A%E6%9C%97%E6%88%B0%E7%88%AD-%E6%B3%95%E5%9C%8B%E6%B5%B7%E8%BB%8D%E5%8F%83%E8%AC%80%E9%95%B7-%E4%B8%AD%E5%9C%8B%E9%81%B2%E6%97%A9%E9%A0%88%E5%8F%83%E8%88%87%E9%87%8D%E9%96%8B%E9%9C%8D%E7%88%BE%E6%9C%A8%E8%8C%B2%E8%A8%8E%E8%AB%96",
-    "timestamp": "2026-04-01T18:40:03.703Z",
     "strategy": ".content-card__main"
   }
 ];
