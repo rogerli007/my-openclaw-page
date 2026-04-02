@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-02T03:37:31.891Z
+// Last updated: 2026-04-02T04:45:37.427Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "宏福苑業主霸3上樓名額　七旬租客要單丁執屋？　家屬倡租客優先",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260402/1116347641630822400284165.jpeg/w47wXPj23uSjK4IM_V0HtyPp2T6zm9JPSOWIzkjliM4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60336622/%E5%AE%8F%E7%A6%8F%E8%8B%91%E6%A5%AD%E4%B8%BB%E9%9C%B83%E4%B8%8A%E6%A8%93%E5%90%8D%E9%A1%8D-%E4%B8%83%E6%97%AC%E7%A7%9F%E5%AE%A2%E8%A6%81%E5%96%AE%E4%B8%81%E5%9F%B7%E5%B1%8B-%E5%AE%B6%E5%B1%AC%E5%80%A1%E7%A7%9F%E5%AE%A2%E5%84%AA%E5%85%88",
+    "timestamp": "2026-04-02T04:45:37.427Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "家事法庭劇情｜最新追劇日曆/播出時間+演員角色簡介",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/2660381/org/3dd1dffaf0d66489a75923752fb009c2.jpg/ZCoA4OIWfgpHs60EQqoTYEfiCQ95HVwtHVsExx1bBMc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60336481/%E6%96%B0%E7%95%8C%E6%9D%91%E5%B1%8B%E5%83%AD%E5%BB%BA%E7%89%A9%E7%94%B3%E5%A0%B1%E9%87%8D%E5%95%9F-2011-6-28%E5%89%8D%E5%BB%BA%E6%88%90%E5%83%AD%E5%BB%BA%E7%89%A9%E9%81%A9%E7%94%A8-%E7%82%BA%E6%9C%9F%E4%B8%80%E5%B9%B4",
     "timestamp": "2026-04-01T10:57:32.918Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "張崇德批《中年好聲音4》淪為外勞騷　周國豐亮收視數據霸氣反擊",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260401/1116052702309126144273160.jpeg/bBo9-zemogzHXw9s1v5YPH6TN5Ajuw_Dn3pr1p96a9Y?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60336400/%E5%BC%B5%E5%B4%87%E5%BE%B7%E6%89%B9-%E4%B8%AD%E5%B9%B4%E5%A5%BD%E8%81%B2%E9%9F%B34-%E6%B7%AA%E7%82%BA%E5%A4%96%E5%8B%9E%E9%A8%B7-%E5%91%A8%E5%9C%8B%E8%B1%90%E4%BA%AE%E6%94%B6%E8%A6%96%E6%95%B8%E6%93%9A%E9%9C%B8%E6%B0%A3%E5%8F%8D%E6%93%8A",
-    "timestamp": "2026-04-01T10:32:26.317Z",
     "strategy": ".content-card__main"
   }
 ];
