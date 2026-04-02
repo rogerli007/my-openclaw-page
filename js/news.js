@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-02T12:41:25.719Z
+// Last updated: 2026-04-02T13:16:17.881Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "男友月薪不高呻窮！1行為令女友醒覺：只是不願意把錢花在你身上",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260315/1109821799144624128216894.png/Owi4C0EHC_kozjzvaQqxy0A-5fN9e4or4KWvwOClr8A?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60330535/%E7%94%B7%E5%8F%8B%E6%9C%88%E8%96%AA%E4%B8%8D%E9%AB%98%E5%91%BB%E7%AA%AE-1%E8%A1%8C%E7%82%BA%E4%BB%A4%E5%A5%B3%E5%8F%8B%E9%86%92%E8%A6%BA-%E5%8F%AA%E6%98%AF%E4%B8%8D%E9%A1%98%E6%84%8F%E6%8A%8A%E9%8C%A2%E8%8A%B1%E5%9C%A8%E4%BD%A0%E8%BA%AB%E4%B8%8A",
+    "timestamp": "2026-04-02T13:16:17.881Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "復活節片單2026｜Netflix4月精選片單推薦：逐玉/泥娃娃/獵犬2",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260402/1116189629582675968954036.jpeg/NZncBh_I1nwyHkTHrf_ct31KDT_uihc6i72Gz4u9hs8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60336544/%E7%B5%90%E6%A5%AD%E6%BD%AE-8%E9%8D%8B%E8%87%AD%E8%87%AD%E9%8D%8B%E7%B5%90%E6%9D%9F%E9%A6%99%E6%B8%AF%E6%A5%AD%E5%8B%99-%E5%94%AF%E4%B8%80%E8%91%B5%E8%8A%B3%E5%88%86%E5%BA%976%E6%9C%88%E5%BA%95%E7%B5%90%E6%A5%AD",
     "timestamp": "2026-04-01T18:09:05.655Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "古巴時隔三個月再有俄羅斯油輪靠岸　俄羅斯要求美方解除能源封鎖",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260401/1116130707287052288860524.jpeg/HTuBUzaMRVjxMg3rAlOixFe4hlcV_XD27bNIhe2zSIU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60336517/%E5%8F%A4%E5%B7%B4%E6%99%82%E9%9A%94%E4%B8%89%E5%80%8B%E6%9C%88%E5%86%8D%E6%9C%89%E4%BF%84%E7%BE%85%E6%96%AF%E6%B2%B9%E8%BC%AA%E9%9D%A0%E5%B2%B8-%E4%BF%84%E7%BE%85%E6%96%AF%E8%A6%81%E6%B1%82%E7%BE%8E%E6%96%B9%E8%A7%A3%E9%99%A4%E8%83%BD%E6%BA%90%E5%B0%81%E9%8E%96",
-    "timestamp": "2026-04-01T16:40:10.495Z",
     "strategy": ".content-card__main"
   }
 ];
