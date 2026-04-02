@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-02T11:13:29.194Z
+// Last updated: 2026-04-02T12:06:28.731Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "禁電子煙｜何謂公眾地方？警方可否執法？旅客獲豁免？常見QA一覽",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260402/1116350085152641024405238.jpeg/72ZRU8mRZMAOxxgtStRGKuxTsl7ZqCMkjyDC8qogwvI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60336860/%E7%A6%81%E9%9B%BB%E5%AD%90%E7%85%99-%E4%BD%95%E8%AC%82%E5%85%AC%E7%9C%BE%E5%9C%B0%E6%96%B9-%E8%AD%A6%E6%96%B9%E5%8F%AF%E5%90%A6%E5%9F%B7%E6%B3%95-%E6%97%85%E5%AE%A2%E7%8D%B2%E8%B1%81%E5%85%8D-%E5%B8%B8%E8%A6%8Bqa%E4%B8%80%E8%A6%BD",
+    "timestamp": "2026-04-02T12:06:28.731Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "機場二號客運大樓5.27啟用　機管局料首年分流800萬人次離境旅客",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260401/1116154375145000960347182.jpeg/aAlwAU3b3RmKrz5b3XERy-fi_RMbM78sasDm52rA5uc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60336530/%E5%8C%97%E9%83%BD%E5%A4%A7%E5%AD%B8%E5%9F%8E-%E9%99%B3%E5%9C%8B%E5%9F%BA%E7%8E%87%E5%9C%98%E8%A8%AA%E6%B2%B3%E5%8C%97%E9%9B%84%E5%AE%89%E6%96%B0%E5%8D%80-%E8%80%83%E5%AF%9F%E6%A0%A1%E5%9F%8E%E8%9E%8D%E5%90%88%E6%95%B4%E9%AB%94%E8%A6%8F%E5%8A%83",
     "timestamp": "2026-04-01T15:40:06.567Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "曾慶業成東華三院新一屆董事局主席　來年開支超過130億",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260401/1116138496415764480357190.jpeg/L3p7JdRaDn7ntfh6DTbQetwPXX-lPLbEwHIqZMByKmQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60336518/%E6%9B%BE%E6%85%B6%E6%A5%AD%E6%88%90%E6%9D%B1%E8%8F%AF%E4%B8%89%E9%99%A2%E6%96%B0%E4%B8%80%E5%B1%86%E8%91%A3%E4%BA%8B%E5%B1%80%E4%B8%BB%E5%B8%AD-%E4%BE%86%E5%B9%B4%E9%96%8B%E6%94%AF%E8%B6%85%E9%81%8E130%E5%84%84",
-    "timestamp": "2026-04-01T14:59:31.267Z",
     "strategy": ".content-card__main"
   }
 ];
