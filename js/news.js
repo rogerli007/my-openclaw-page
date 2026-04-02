@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-02T07:50:03.891Z
+// Last updated: 2026-04-02T10:13:18.031Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "茶餐廳焗豬扒呈粉紅色　食客質疑未熟：已食幾嚿　職員稱雪藏所致",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260401/1115989353189871616623748.png/6l4b-9ojUVQBe6s8I3T9Flkf8FOBgfLc4BjLQ-AYy0M?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60336003/%E8%8C%B6%E9%A4%90%E5%BB%B3%E7%84%97%E8%B1%AC%E6%89%92%E5%91%88%E7%B2%89%E7%B4%85%E8%89%B2-%E9%A3%9F%E5%AE%A2%E8%B3%AA%E7%96%91%E6%9C%AA%E7%86%9F-%E5%B7%B2%E9%A3%9F%E5%B9%BE%E5%9A%BF-%E8%81%B7%E5%93%A1%E7%A8%B1%E9%9B%AA%E8%97%8F%E6%89%80%E8%87%B4",
+    "timestamp": "2026-04-02T10:13:18.031Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "伊朗｜德銀：衝突或削弱石油美元主導地位　促成石油人民幣體系",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260401/1116136587248275456905764.jpeg/bo1_Wj8KHBTDoM7kU1ZSqtOYpYwIAjE_bT3Wt2091rc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60336521/%E6%96%BD%E6%98%8E%E9%80%9D%E4%B8%96-%E6%9D%8E%E6%B3%B3%E6%BC%A2%E5%93%80%E7%97%9B%E7%99%BC%E6%96%87-%E6%84%9F%E6%BF%80%E6%AF%8D%E8%A6%AA%E6%8A%B1%E5%8E%BB%E9%86%AB%E9%99%A2-%E6%88%91%E7%9A%84%E5%91%BD%E6%98%AF%E4%BD%A0%E6%95%91%E5%9B%9E%E4%BE%86",
     "timestamp": "2026-04-01T14:23:03.140Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普稱伊朗領導人要求停火　革命衛隊：拒因其荒謬表演開放海峽",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260331/1115470174078636032318954.jpeg/qQmehwEZESvx5o2ePCtalp11U3IogKAeM2nxRTNp8UU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60336513/%E7%89%B9%E6%9C%97%E6%99%AE%E7%A8%B1%E4%BC%8A%E6%9C%97%E9%A0%98%E5%B0%8E%E4%BA%BA%E8%A6%81%E6%B1%82%E5%81%9C%E7%81%AB-%E9%9D%A9%E5%91%BD%E8%A1%9B%E9%9A%8A-%E6%8B%92%E5%9B%A0%E5%85%B6%E8%8D%92%E8%AC%AC%E8%A1%A8%E6%BC%94%E9%96%8B%E6%94%BE%E6%B5%B7%E5%B3%BD",
-    "timestamp": "2026-04-01T13:44:43.872Z",
     "strategy": ".content-card__main"
   }
 ];
