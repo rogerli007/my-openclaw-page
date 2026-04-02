@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-02T16:13:25.578Z
+// Last updated: 2026-04-02T17:38:45.340Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美媒：特朗普炒魷司法部長邦迪　或考慮讓環保署長接替職務",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250715/1021827821703532544571938.jpeg/KN46BYqoTCp12WkpNdaKIS2c3kZ5nW9sbX8PT21_D08?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60336926/%E7%BE%8E%E5%AA%92-%E7%89%B9%E6%9C%97%E6%99%AE%E7%82%92%E9%AD%B7%E5%8F%B8%E6%B3%95%E9%83%A8%E9%95%B7%E9%82%A6%E8%BF%AA-%E6%88%96%E8%80%83%E6%85%AE%E8%AE%93%E7%92%B0%E4%BF%9D%E7%BD%B2%E9%95%B7%E6%8E%A5%E6%9B%BF%E8%81%B7%E5%8B%99",
+    "timestamp": "2026-04-02T17:38:45.340Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "運動專題︱D‧PARK商場變運動場背後思維　假期辦匹克球賽狂吸人流",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260402/1116223968307580928124830.jpeg/6D-sOOitvtPAcbLSdyqETXZENfs1LEyJYIsV2mCLFdo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60336552/%E9%9C%8D%E7%88%BE%E6%9C%A8%E8%8C%B2%E6%B5%B7%E5%B3%BD%E8%88%AA%E9%81%8B%E5%8F%97%E9%98%BB%E6%8E%A8%E9%AB%98%E8%83%BD%E6%BA%90%E5%83%B9%E6%A0%BC-%E9%9F%93%E5%9C%8B%E6%93%AC%E7%A0%94%E7%A9%B6%E7%B9%9E%E9%81%93%E7%B4%85%E6%B5%B7%E9%81%8B%E5%87%BA%E7%9F%B3%E6%B2%B9",
     "timestamp": "2026-04-01T21:25:34.252Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "穆傑塔巴籲伊朗人民植樹　紀念戰事中喪生烈士",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260309/1107609437184462848352987.jpeg/S0pO4_Ufg05G6mo4ivP7bTZc7-pqup4NHAqiFBwKohQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60336549/%E7%A9%86%E5%82%91%E5%A1%94%E5%B7%B4%E7%B1%B2%E4%BC%8A%E6%9C%97%E4%BA%BA%E6%B0%91%E6%A4%8D%E6%A8%B9-%E7%B4%80%E5%BF%B5%E6%88%B0%E4%BA%8B%E4%B8%AD%E5%96%AA%E7%94%9F%E7%83%88%E5%A3%AB",
-    "timestamp": "2026-04-01T20:59:06.818Z",
     "strategy": ".content-card__main"
   }
 ];
