@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-02T21:21:06.611Z
+// Last updated: 2026-04-02T21:52:27.245Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美國對專利藥加徵100%關稅　推動遷美生產及與政府達定價協議",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250805/1029518122224193536613548.jpeg/oc83v3JNVjX29FLbKrUhr9nTIFcqqC4fBTllNAU5ZTQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60336941/%E7%BE%8E%E5%9C%8B%E5%B0%8D%E5%B0%88%E5%88%A9%E8%97%A5%E5%8A%A0%E5%BE%B5100-%E9%97%9C%E7%A8%85-%E6%8E%A8%E5%8B%95%E9%81%B7%E7%BE%8E%E7%94%9F%E7%94%A2%E5%8F%8A%E8%88%87%E6%94%BF%E5%BA%9C%E9%81%94%E5%AE%9A%E5%83%B9%E5%8D%94%E8%AD%B0",
+    "timestamp": "2026-04-02T21:52:27.245Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美國對專利藥加徵100%關稅　推動遷美生產及與政府達定價協議",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260401/1116128678279909376356947.jpeg/U1beVZyvHTiGJw0QlE00hEEkZlha77yZcorzhXKK84U?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60336397/%E7%8E%8B%E5%98%89%E6%85%A72-200%E8%90%AC%E8%A5%BF%E4%B9%9D%E9%BE%8D%E8%B1%AA%E5%AE%85%E6%9B%9D%E5%85%89-%E5%AE%B6%E4%B8%AD%E5%81%9Agym%E7%B6%B2%E6%B0%91%E9%A9%9A%E5%91%BC%E5%A5%BD%E5%8D%B1%E9%9A%AA",
     "timestamp": "2026-04-01T22:52:13.675Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "天氣｜今日有幾陣驟雨最高26度　明日稍後驟雨逐漸增多",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260402/1116254481642688512419876.jpeg/U238bG4FdwSUDW_RZTq5QM4fxX2UcCEtFirztRYq87U?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60336538/%E5%A4%A9%E6%B0%A3-%E4%BB%8A%E6%97%A5%E6%9C%89%E5%B9%BE%E9%99%A3%E9%A9%9F%E9%9B%A8%E6%9C%80%E9%AB%9826%E5%BA%A6-%E6%98%8E%E6%97%A5%E7%A8%8D%E5%BE%8C%E9%A9%9F%E9%9B%A8%E9%80%90%E6%BC%B8%E5%A2%9E%E5%A4%9A",
-    "timestamp": "2026-04-01T22:21:52.698Z",
     "strategy": ".content-card__main"
   }
 ];
