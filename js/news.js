@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-02T06:48:52.957Z
+// Last updated: 2026-04-02T07:16:23.290Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "福岡手信必買10選　能吃到章魚碎和明太子的仙貝　白芸豆泥餡饅頭",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260402/1116349294580862976154863.jpeg/rrc-N0ND9Ej4pspfApvz5bWmgKSYN1AZpH5SXqR-Ul4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%97%85%E9%81%8A/60306486/%E7%A6%8F%E5%B2%A1%E6%89%8B%E4%BF%A1%E5%BF%85%E8%B2%B710%E9%81%B8-%E8%83%BD%E5%90%83%E5%88%B0%E7%AB%A0%E9%AD%9A%E7%A2%8E%E5%92%8C%E6%98%8E%E5%A4%AA%E5%AD%90%E7%9A%84%E4%BB%99%E8%B2%9D-%E7%99%BD%E8%8A%B8%E8%B1%86%E6%B3%A5%E9%A4%A1%E9%A5%85%E9%A0%AD",
+    "timestamp": "2026-04-02T07:16:23.290Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "Dear Jane澳洲悉尼首個演唱會　Tim走落台再兩度encore樂迷唔願走",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260401/1116041992334217216854276.jpeg/hBgGsFCY-iRpVXfBiSzbgvbrlgZTja46KeRnHynkZx8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60336379/%E7%A7%91%E6%9E%97%E6%88%B0%E5%8B%9D%E7%99%8C%E7%97%87%E5%BC%B7%E5%8B%A2%E5%9B%9E%E6%AD%B8%E6%96%B0%E5%9F%8E%E5%BB%A3%E6%92%AD-%E5%A4%A5%E5%90%8C%E8%91%89%E6%96%87%E8%BC%9D%E8%81%AF%E6%89%8B%E7%82%AE%E8%A3%BD%E5%85%A8%E6%96%B0%E7%AF%80%E7%9B%AE",
     "timestamp": "2026-04-01T12:38:15.462Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "三會2026｜立會新丁莊豪鋒無連任分區會　棄選議員陸瀚民入撲滅會",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20251209/1075112332482711552532689.jpeg/AVOlPkbqGfMSw86nSStT2_c4cmPfgFXXW3NF1ltzRdY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60336498/%E4%B8%89%E6%9C%832026-%E7%AB%8B%E6%9C%83%E6%96%B0%E4%B8%81%E8%8E%8A%E8%B1%AA%E9%8B%92%E7%84%A1%E9%80%A3%E4%BB%BB%E5%88%86%E5%8D%80%E6%9C%83-%E6%A3%84%E9%81%B8%E8%AD%B0%E5%93%A1%E9%99%B8%E7%80%9A%E6%B0%91%E5%85%A5%E6%92%B2%E6%BB%85%E6%9C%83",
-    "timestamp": "2026-04-01T11:54:32.050Z",
     "strategy": ".content-card__main"
   }
 ];
