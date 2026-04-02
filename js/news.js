@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-02T23:02:07.032Z
+// Last updated: 2026-04-02T23:21:30.698Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "杭州金匠壽司大老鼠竄過迴轉帶！食客嚇呆拍片公審　店家回應致歉",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260331/1115642487877144576753042.jpeg/rloOvT0LdDhlIfL-CDzqs7psoQ0SgRmvCWA-eglgPno",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60335809/%E6%9D%AD%E5%B7%9E%E9%87%91%E5%8C%A0%E5%A3%BD%E5%8F%B8%E5%A4%A7%E8%80%81%E9%BC%A0%E7%AB%84%E9%81%8E%E8%BF%B4%E8%BD%89%E5%B8%B6-%E9%A3%9F%E5%AE%A2%E5%9A%87%E5%91%86%E6%8B%8D%E7%89%87%E5%85%AC%E5%AF%A9-%E5%BA%97%E5%AE%B6%E5%9B%9E%E6%87%89%E8%87%B4%E6%AD%89",
+    "timestamp": "2026-04-02T23:21:30.698Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "數名大漢企的士前談天阻礙開車　司機要求讓開遭對方圍毆頭破血流",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260325/1113281673136443392385914.jpeg/P5rn_tGa8LFzHEQbwFn7iA6vw12SV9UCFvL69Rby-vU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60333870/%E5%AE%B6%E4%BA%8B%E6%B3%95%E5%BA%AD%E5%8A%87%E6%83%85-%E6%9C%80%E6%96%B0%E8%BF%BD%E5%8A%87%E6%97%A5%E6%9B%86-%E6%92%AD%E5%87%BA%E6%99%82%E9%96%93-%E6%BC%94%E5%93%A1%E9%97%9C%E4%BF%82%E5%9C%96-%E8%A7%92%E8%89%B2%E7%B0%A1%E4%BB%8B",
     "timestamp": "2026-04-02T03:37:31.891Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "伊朗局勢│俄羅斯稱OPEC+4月會議將聚焦油價上漲問題",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20230830/773601930277556224461390.jpeg/w0POTUWYzX_5j0PUDQB_aos0jN-hFifL7KxtEeysbRE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60336558/%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8B%A2-%E4%BF%84%E7%BE%85%E6%96%AF%E7%A8%B1opec-4%E6%9C%88%E6%9C%83%E8%AD%B0%E5%B0%87%E8%81%9A%E7%84%A6%E6%B2%B9%E5%83%B9%E4%B8%8A%E6%BC%B2%E5%95%8F%E9%A1%8C",
-    "timestamp": "2026-04-01T23:50:54.554Z",
     "strategy": ".content-card__main"
   }
 ];
