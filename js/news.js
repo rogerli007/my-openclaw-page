@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-01T23:50:54.554Z
+// Last updated: 2026-04-02T03:37:31.891Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "家事法庭劇情｜最新追劇日曆/播出時間+演員角色簡介",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260325/1113281673136443392385914.jpeg/P5rn_tGa8LFzHEQbwFn7iA6vw12SV9UCFvL69Rby-vU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60333870/%E5%AE%B6%E4%BA%8B%E6%B3%95%E5%BA%AD%E5%8A%87%E6%83%85-%E6%9C%80%E6%96%B0%E8%BF%BD%E5%8A%87%E6%97%A5%E6%9B%86-%E6%92%AD%E5%87%BA%E6%99%82%E9%96%93-%E6%BC%94%E5%93%A1%E9%97%9C%E4%BF%82%E5%9C%96-%E8%A7%92%E8%89%B2%E7%B0%A1%E4%BB%8B",
+    "timestamp": "2026-04-02T03:37:31.891Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "伊朗局勢│俄羅斯稱OPEC+4月會議將聚焦油價上漲問題",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260401/1116052702309126144273160.jpeg/bBo9-zemogzHXw9s1v5YPH6TN5Ajuw_Dn3pr1p96a9Y?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60336400/%E5%BC%B5%E5%B4%87%E5%BE%B7%E6%89%B9-%E4%B8%AD%E5%B9%B4%E5%A5%BD%E8%81%B2%E9%9F%B34-%E6%B7%AA%E7%82%BA%E5%A4%96%E5%8B%9E%E9%A8%B7-%E5%91%A8%E5%9C%8B%E8%B1%90%E4%BA%AE%E6%94%B6%E8%A6%96%E6%95%B8%E6%93%9A%E9%9C%B8%E6%B0%A3%E5%8F%8D%E6%93%8A",
     "timestamp": "2026-04-01T10:32:26.317Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美軍士兵涉向脫衣舞孃泄密：下週要部署了　軍方緊急警告｜ 有片",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260401/1116057352533970944387261.jpeg/cHsyTwQ7dCBNa9HXYvl1CPX2vY3T7vuChmpxuIZqcbg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60336412/%E7%BE%8E%E8%BB%8D%E5%A3%AB%E5%85%B5%E6%B6%89%E5%90%91%E8%84%AB%E8%A1%A3%E8%88%9E%E5%AD%83%E6%B3%84%E5%AF%86-%E4%B8%8B%E9%80%B1%E8%A6%81%E9%83%A8%E7%BD%B2%E4%BA%86-%E8%BB%8D%E6%96%B9%E7%B7%8A%E6%80%A5%E8%AD%A6%E5%91%8A-%E6%9C%89%E7%89%87",
-    "timestamp": "2026-04-01T09:21:32.061Z",
     "strategy": ".content-card__main"
   }
 ];
