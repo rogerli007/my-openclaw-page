@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-02T17:38:45.340Z
+// Last updated: 2026-04-02T19:40:40.919Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "伊朗戰爭｜美銀巴黎辦事處被放炸彈後　高盛花旗允員工遙距辦公",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260403/1116566016168562688563129.jpeg/4xy0WAElvI8SxZF5YYc4A-MTO-lRzBS057E5reexOa0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60336932/%E4%BC%8A%E6%9C%97%E6%88%B0%E7%88%AD-%E7%BE%8E%E9%8A%80%E5%B7%B4%E9%BB%8E%E8%BE%A6%E4%BA%8B%E8%99%95%E8%A2%AB%E6%94%BE%E7%82%B8%E5%BD%88%E5%BE%8C-%E9%AB%98%E7%9B%9B%E8%8A%B1%E6%97%97%E5%85%81%E5%93%A1%E5%B7%A5%E9%81%99%E8%B7%9D%E8%BE%A6%E5%85%AC",
+    "timestamp": "2026-04-02T19:40:40.919Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美媒：特朗普炒魷司法部長邦迪　或考慮讓環保署長接替職務",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260402/1116223968307580928124830.jpeg/6D-sOOitvtPAcbLSdyqETXZENfs1LEyJYIsV2mCLFdo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60336552/%E9%9C%8D%E7%88%BE%E6%9C%A8%E8%8C%B2%E6%B5%B7%E5%B3%BD%E8%88%AA%E9%81%8B%E5%8F%97%E9%98%BB%E6%8E%A8%E9%AB%98%E8%83%BD%E6%BA%90%E5%83%B9%E6%A0%BC-%E9%9F%93%E5%9C%8B%E6%93%AC%E7%A0%94%E7%A9%B6%E7%B9%9E%E9%81%93%E7%B4%85%E6%B5%B7%E9%81%8B%E5%87%BA%E7%9F%B3%E6%B2%B9",
     "timestamp": "2026-04-01T21:52:34.179Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "霍爾木茲海峽航運受阻推高能源價格　韓國擬研究繞道紅海運出石油",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260402/1116223968307580928124830.jpeg/6D-sOOitvtPAcbLSdyqETXZENfs1LEyJYIsV2mCLFdo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60336552/%E9%9C%8D%E7%88%BE%E6%9C%A8%E8%8C%B2%E6%B5%B7%E5%B3%BD%E8%88%AA%E9%81%8B%E5%8F%97%E9%98%BB%E6%8E%A8%E9%AB%98%E8%83%BD%E6%BA%90%E5%83%B9%E6%A0%BC-%E9%9F%93%E5%9C%8B%E6%93%AC%E7%A0%94%E7%A9%B6%E7%B9%9E%E9%81%93%E7%B4%85%E6%B5%B7%E9%81%8B%E5%87%BA%E7%9F%B3%E6%B2%B9",
-    "timestamp": "2026-04-01T21:25:34.252Z",
     "strategy": ".content-card__main"
   }
 ];
