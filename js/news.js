@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-02T15:42:38.181Z
+// Last updated: 2026-04-02T16:13:25.578Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "運動專題︱D‧PARK商場變運動場背後思維　假期辦匹克球賽狂吸人流",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260402/1116512003775533056083672.jpeg/ygb2S1F9ATvbEL7w-0VFe0sKzrdWuyD2YnwOTWJ8Dk0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60336895/%E9%81%8B%E5%8B%95%E5%B0%88%E9%A1%8C-d-park%E5%95%86%E5%A0%B4%E8%AE%8A%E9%81%8B%E5%8B%95%E5%A0%B4%E8%83%8C%E5%BE%8C%E6%80%9D%E7%B6%AD-%E5%81%87%E6%9C%9F%E8%BE%A6%E5%8C%B9%E5%85%8B%E7%90%83%E8%B3%BD%E7%8B%82%E5%90%B8%E4%BA%BA%E6%B5%81",
+    "timestamp": "2026-04-02T16:13:25.578Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "伊朗標誌性大橋據報遭美以襲擊　造成至少2死｜有片",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260309/1107609437184462848352987.jpeg/S0pO4_Ufg05G6mo4ivP7bTZc7-pqup4NHAqiFBwKohQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60336549/%E7%A9%86%E5%82%91%E5%A1%94%E5%B7%B4%E7%B1%B2%E4%BC%8A%E6%9C%97%E4%BA%BA%E6%B0%91%E6%A4%8D%E6%A8%B9-%E7%B4%80%E5%BF%B5%E6%88%B0%E4%BA%8B%E4%B8%AD%E5%96%AA%E7%94%9F%E7%83%88%E5%A3%AB",
     "timestamp": "2026-04-01T20:59:06.818Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "穆傑塔巴籲伊朗人民植樹　紀念戰事中喪生烈士",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260309/1107609437184462848352987.jpeg/S0pO4_Ufg05G6mo4ivP7bTZc7-pqup4NHAqiFBwKohQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60336549/%E7%A9%86%E5%82%91%E5%A1%94%E5%B7%B4%E7%B1%B2%E4%BC%8A%E6%9C%97%E4%BA%BA%E6%B0%91%E6%A4%8D%E6%A8%B9-%E7%B4%80%E5%BF%B5%E6%88%B0%E4%BA%8B%E4%B8%AD%E5%96%AA%E7%94%9F%E7%83%88%E5%A3%AB",
-    "timestamp": "2026-04-01T20:07:31.963Z",
     "strategy": ".content-card__main"
   }
 ];
