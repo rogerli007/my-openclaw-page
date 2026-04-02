@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-02T04:45:37.427Z
+// Last updated: 2026-04-02T05:27:37.523Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "英格蘭友賽負日本菲爾科頓表現欠佳　杜慈：不保證穩入世界盃名單",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260402/1116324765158608896467105.jpeg/jGrzJmXdW8bXbN6-kJJW_ZIlKoQY5X-zLzTdXS803V0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60336614/%E8%8B%B1%E6%A0%BC%E8%98%AD%E5%8F%8B%E8%B3%BD%E8%B2%A0%E6%97%A5%E6%9C%AC%E8%8F%B2%E7%88%BE%E7%A7%91%E9%A0%93%E8%A1%A8%E7%8F%BE%E6%AC%A0%E4%BD%B3-%E6%9D%9C%E6%85%88-%E4%B8%8D%E4%BF%9D%E8%AD%89%E7%A9%A9%E5%85%A5%E4%B8%96%E7%95%8C%E7%9B%83%E5%90%8D%E5%96%AE",
+    "timestamp": "2026-04-02T05:27:37.523Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "宏福苑業主霸3上樓名額　七旬租客要單丁執屋？　家屬倡租客優先",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260401/1116021749373210624581274.jpeg/y1itGSqKaXPSPhY8F8H-yg6vSB4YvDpKq0gG76tIBu8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60336333/%E6%9D%8E%E5%85%8B%E5%8B%A4%E6%96%B0%E5%8A%A0%E5%9D%A1%E9%96%8B%E9%A8%B7%E9%81%AD%E7%A5%9E%E7%A7%98%E5%85%AC%E4%BB%94%E5%81%B7%E8%A5%B2-%E6%9E%97%E5%AD%90%E7%A5%A5%E8%91%89%E8%92%A8%E6%96%87%E9%A9%9A%E5%96%9C%E7%8F%BE%E8%BA%AB%E5%BE%8C%E5%8F%B0%E6%8E%A2%E7%8F%AD",
     "timestamp": "2026-04-01T11:29:51.685Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "新界村屋僭建物申報重啟　2011.6.28前建成僭建物適用　為期一年",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/2660381/org/3dd1dffaf0d66489a75923752fb009c2.jpg/ZCoA4OIWfgpHs60EQqoTYEfiCQ95HVwtHVsExx1bBMc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60336481/%E6%96%B0%E7%95%8C%E6%9D%91%E5%B1%8B%E5%83%AD%E5%BB%BA%E7%89%A9%E7%94%B3%E5%A0%B1%E9%87%8D%E5%95%9F-2011-6-28%E5%89%8D%E5%BB%BA%E6%88%90%E5%83%AD%E5%BB%BA%E7%89%A9%E9%81%A9%E7%94%A8-%E7%82%BA%E6%9C%9F%E4%B8%80%E5%B9%B4",
-    "timestamp": "2026-04-01T10:57:32.918Z",
     "strategy": ".content-card__main"
   }
 ];
