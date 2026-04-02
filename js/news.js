@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-02T05:27:37.523Z
+// Last updated: 2026-04-02T06:48:52.957Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "Dear Jane澳洲悉尼首個演唱會　Tim走落台再兩度encore樂迷唔願走",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260402/1116385224465321984301628.jpeg/ETyWZiSif6uz-wVKBtLiPHLPaiWZHcCV-tOawfrTmsE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60336734/dear-jane%E6%BE%B3%E6%B4%B2%E6%82%89%E5%B0%BC%E9%A6%96%E5%80%8B%E6%BC%94%E5%94%B1%E6%9C%83-tim%E8%B5%B0%E8%90%BD%E5%8F%B0%E5%86%8D%E5%85%A9%E5%BA%A6encore%E6%A8%82%E8%BF%B7%E5%94%94%E9%A1%98%E8%B5%B0",
+    "timestamp": "2026-04-02T06:48:52.957Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "英格蘭友賽負日本菲爾科頓表現欠佳　杜慈：不保證穩入世界盃名單",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20251209/1075112332482711552532689.jpeg/AVOlPkbqGfMSw86nSStT2_c4cmPfgFXXW3NF1ltzRdY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60336498/%E4%B8%89%E6%9C%832026-%E7%AB%8B%E6%9C%83%E6%96%B0%E4%B8%81%E8%8E%8A%E8%B1%AA%E9%8B%92%E7%84%A1%E9%80%A3%E4%BB%BB%E5%88%86%E5%8D%80%E6%9C%83-%E6%A3%84%E9%81%B8%E8%AD%B0%E5%93%A1%E9%99%B8%E7%80%9A%E6%B0%91%E5%85%A5%E6%92%B2%E6%BB%85%E6%9C%83",
     "timestamp": "2026-04-01T11:54:32.050Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "李克勤新加坡開騷遭神秘公仔偷襲　林子祥葉蒨文驚喜現身後台探班",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260401/1116021749373210624581274.jpeg/y1itGSqKaXPSPhY8F8H-yg6vSB4YvDpKq0gG76tIBu8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60336333/%E6%9D%8E%E5%85%8B%E5%8B%A4%E6%96%B0%E5%8A%A0%E5%9D%A1%E9%96%8B%E9%A8%B7%E9%81%AD%E7%A5%9E%E7%A7%98%E5%85%AC%E4%BB%94%E5%81%B7%E8%A5%B2-%E6%9E%97%E5%AD%90%E7%A5%A5%E8%91%89%E8%92%A8%E6%96%87%E9%A9%9A%E5%96%9C%E7%8F%BE%E8%BA%AB%E5%BE%8C%E5%8F%B0%E6%8E%A2%E7%8F%AD",
-    "timestamp": "2026-04-01T11:29:51.685Z",
     "strategy": ".content-card__main"
   }
 ];
