@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-02T23:51:43.103Z
+// Last updated: 2026-04-03T00:49:53.135Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "林依晨演舞台劇皺紋盡現被指斷崖式衰老　童顏女神大崩壞震撼網民",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260402/1116498921837826048198243.jpeg/0loAOCnw5HXI3tJ1igD-zRuNJeJZZLI-sDj3SbA490k?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60336642/%E6%9E%97%E4%BE%9D%E6%99%A8%E6%BC%94%E8%88%9E%E5%8F%B0%E5%8A%87%E7%9A%BA%E7%B4%8B%E7%9B%A1%E7%8F%BE%E8%A2%AB%E6%8C%87%E6%96%B7%E5%B4%96%E5%BC%8F%E8%A1%B0%E8%80%81-%E7%AB%A5%E9%A1%8F%E5%A5%B3%E7%A5%9E%E5%A4%A7%E5%B4%A9%E5%A3%9E%E9%9C%87%E6%92%BC%E7%B6%B2%E6%B0%91",
+    "timestamp": "2026-04-03T00:49:53.135Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "伊朗戰爭｜美國防長據報要求陸軍參謀長辭職　國防部證實離任",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260402/1116324765158608896467105.jpeg/jGrzJmXdW8bXbN6-kJJW_ZIlKoQY5X-zLzTdXS803V0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60336614/%E8%8B%B1%E6%A0%BC%E8%98%AD%E5%8F%8B%E8%B3%BD%E8%B2%A0%E6%97%A5%E6%9C%AC%E8%8F%B2%E7%88%BE%E7%A7%91%E9%A0%93%E8%A1%A8%E7%8F%BE%E6%AC%A0%E4%BD%B3-%E6%9D%9C%E6%85%88-%E4%B8%8D%E4%BF%9D%E8%AD%89%E7%A9%A9%E5%85%A5%E4%B8%96%E7%95%8C%E7%9B%83%E5%90%8D%E5%96%AE",
     "timestamp": "2026-04-02T05:27:37.523Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "宏福苑業主霸3上樓名額　七旬租客要單丁執屋？　家屬倡租客優先",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260402/1116347641630822400284165.jpeg/w47wXPj23uSjK4IM_V0HtyPp2T6zm9JPSOWIzkjliM4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60336622/%E5%AE%8F%E7%A6%8F%E8%8B%91%E6%A5%AD%E4%B8%BB%E9%9C%B83%E4%B8%8A%E6%A8%93%E5%90%8D%E9%A1%8D-%E4%B8%83%E6%97%AC%E7%A7%9F%E5%AE%A2%E8%A6%81%E5%96%AE%E4%B8%81%E5%9F%B7%E5%B1%8B-%E5%AE%B6%E5%B1%AC%E5%80%A1%E7%A7%9F%E5%AE%A2%E5%84%AA%E5%85%88",
-    "timestamp": "2026-04-02T04:45:37.427Z",
     "strategy": ".content-card__main"
   }
 ];
