@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-03T21:50:25.847Z
+// Last updated: 2026-04-03T22:36:10.962Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "日本小學34歲男教師與24歲女教師校內發生性行為　副校長聞聲撞破",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260403/1116754738826711040501362.png/7TD5Q6i8EG_SHSvq0zH-DiP-V1-loGQN6iO62eojutk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E8%A9%B1%E9%A1%8C/60335847/%E6%97%A5%E6%9C%AC%E5%B0%8F%E5%AD%B834%E6%AD%B2%E7%94%B7%E6%95%99%E5%B8%AB%E8%88%8724%E6%AD%B2%E5%A5%B3%E6%95%99%E5%B8%AB%E6%A0%A1%E5%85%A7%E7%99%BC%E7%94%9F%E6%80%A7%E8%A1%8C%E7%82%BA-%E5%89%AF%E6%A0%A1%E9%95%B7%E8%81%9E%E8%81%B2%E6%92%9E%E7%A0%B4",
+    "timestamp": "2026-04-03T22:36:10.962Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "伊朗戰爭｜阿聯酋攔截飛行物　碎片墜落引設施起火至少1死多傷",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260403/1116758454954889216215639.jpeg/k_lmeDMZRP3hqOFVDedn_6H5xXFrhGY5T8-nLU_Ppy0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8C%97%E4%B8%8A%E5%BB%A3%E6%9D%B1/60337085/%E5%BE%A9%E6%B4%BB%E7%AF%80%E6%B8%85%E6%98%8E%E7%AF%80%E9%95%B7%E5%81%87-%E6%B7%B1%E5%9C%B3%E5%8A%A0%E9%96%8B%E5%A4%9C%E9%96%93%E5%88%97%E8%BB%8A-%E9%A0%90%E8%A8%88%E5%91%A8%E5%85%AD%E7%8F%BE%E5%AE%A2%E6%B5%81%E9%AB%98%E5%B3%B0",
     "timestamp": "2026-04-03T07:52:01.974Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "港躍升全球第五大商品貿易經濟體　貿發局︰有賴自由開放營商環境",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260401/1115953615001882624239068.jpeg/hDdcBJcI0IiMUy0_bgCF67vAbZri5ZbclieoZZYnqGU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60337072/%E6%B8%AF%E8%BA%8D%E5%8D%87%E5%85%A8%E7%90%83%E7%AC%AC%E4%BA%94%E5%A4%A7%E5%95%86%E5%93%81%E8%B2%BF%E6%98%93%E7%B6%93%E6%BF%9F%E9%AB%94-%E8%B2%BF%E7%99%BC%E5%B1%80-%E6%9C%89%E8%B3%B4%E8%87%AA%E7%94%B1%E9%96%8B%E6%94%BE%E7%87%9F%E5%95%86%E7%92%B0%E5%A2%83",
-    "timestamp": "2026-04-03T06:49:31.108Z",
     "strategy": ".content-card__main"
   }
 ];
