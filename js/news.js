@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-03T13:37:57.753Z
+// Last updated: 2026-04-03T14:10:35.710Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "東京澀谷十字路口突遭縱火　男子倒可燃液體後點火引起混亂｜有片",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260403/1116856284050624512483965.png/ElGeYd70zRR1LR_XmC_fZh7lA85X-gvWt8K9tbfCvbU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60337181/%E6%9D%B1%E4%BA%AC%E6%BE%80%E8%B0%B7%E5%8D%81%E5%AD%97%E8%B7%AF%E5%8F%A3%E7%AA%81%E9%81%AD%E7%B8%B1%E7%81%AB-%E7%94%B7%E5%AD%90%E5%80%92%E5%8F%AF%E7%87%83%E6%B6%B2%E9%AB%94%E5%BE%8C%E9%BB%9E%E7%81%AB%E5%BC%95%E8%B5%B7%E6%B7%B7%E4%BA%82-%E6%9C%89%E7%89%87",
+    "timestamp": "2026-04-03T14:10:35.710Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "麋先生彈Beyond家駒結他驚見90萬標價　朝聖搖滾地標嘆要被清拆",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260402/1116398037896269824142039.jpeg/CU27F12PmRunSrCsLSNVf8fkxICy6oK0rrkxCq65MQo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60336759/%E8%8C%83%E9%BA%92%E6%99%BA%E9%96%8Byoutube%E7%8D%B2%E6%9D%8E%E5%87%B1%E8%B3%A2%E5%82%B3%E6%8E%88%E5%BF%83%E6%B3%95-%E9%A6%96%E9%9B%86%E7%B4%A0%E9%A1%8F%E4%B8%8A%E9%99%A3%E7%AB%8B%E5%BF%97%E8%A1%9D5%E8%90%AC%E8%A8%82%E9%96%B1",
     "timestamp": "2026-04-02T14:37:38.888Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "男友月薪不高呻窮！1行為令女友醒覺：只是不願意把錢花在你身上",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260315/1109821799144624128216894.png/Owi4C0EHC_kozjzvaQqxy0A-5fN9e4or4KWvwOClr8A?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60330535/%E7%94%B7%E5%8F%8B%E6%9C%88%E8%96%AA%E4%B8%8D%E9%AB%98%E5%91%BB%E7%AA%AE-1%E8%A1%8C%E7%82%BA%E4%BB%A4%E5%A5%B3%E5%8F%8B%E9%86%92%E8%A6%BA-%E5%8F%AA%E6%98%AF%E4%B8%8D%E9%A1%98%E6%84%8F%E6%8A%8A%E9%8C%A2%E8%8A%B1%E5%9C%A8%E4%BD%A0%E8%BA%AB%E4%B8%8A",
-    "timestamp": "2026-04-02T13:16:17.881Z",
     "strategy": ".content-card__main"
   }
 ];
