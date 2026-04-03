@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-03T15:34:55.415Z
+// Last updated: 2026-04-03T15:56:16.120Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美國防長准軍人攜私人武器進基地　稱基地不應成「無槍區」",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260331/1115777246439673856391874.jpeg/FYB4a_-IKEQ99obd0EHK6hXgb3rPELEQLK3Q9Syt0PU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60337183/%E7%BE%8E%E5%9C%8B%E9%98%B2%E9%95%B7%E5%87%86%E8%BB%8D%E4%BA%BA%E6%94%9C%E7%A7%81%E4%BA%BA%E6%AD%A6%E5%99%A8%E9%80%B2%E5%9F%BA%E5%9C%B0-%E7%A8%B1%E5%9F%BA%E5%9C%B0%E4%B8%8D%E6%87%89%E6%88%90-%E7%84%A1%E6%A7%8D%E5%8D%80",
+    "timestamp": "2026-04-03T15:56:16.120Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "翠屏北邨樓上單位冒煙　消防到場救火",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250715/1021827821703532544571938.jpeg/KN46BYqoTCp12WkpNdaKIS2c3kZ5nW9sbX8PT21_D08?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60336926/%E7%BE%8E%E5%AA%92-%E7%89%B9%E6%9C%97%E6%99%AE%E7%82%92%E9%AD%B7%E5%8F%B8%E6%B3%95%E9%83%A8%E9%95%B7%E9%82%A6%E8%BF%AA-%E6%88%96%E8%80%83%E6%85%AE%E8%AE%93%E7%92%B0%E4%BF%9D%E7%BD%B2%E9%95%B7%E6%8E%A5%E6%9B%BF%E8%81%B7%E5%8B%99",
     "timestamp": "2026-04-02T17:38:45.340Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "運動專題︱D‧PARK商場變運動場背後思維　假期辦匹克球賽狂吸人流",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260402/1116512003775533056083672.jpeg/ygb2S1F9ATvbEL7w-0VFe0sKzrdWuyD2YnwOTWJ8Dk0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60336895/%E9%81%8B%E5%8B%95%E5%B0%88%E9%A1%8C-d-park%E5%95%86%E5%A0%B4%E8%AE%8A%E9%81%8B%E5%8B%95%E5%A0%B4%E8%83%8C%E5%BE%8C%E6%80%9D%E7%B6%AD-%E5%81%87%E6%9C%9F%E8%BE%A6%E5%8C%B9%E5%85%8B%E7%90%83%E8%B3%BD%E7%8B%82%E5%90%B8%E4%BA%BA%E6%B5%81",
-    "timestamp": "2026-04-02T16:13:25.578Z",
     "strategy": ".content-card__main"
   }
 ];
