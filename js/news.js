@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-03T23:24:19.509Z
+// Last updated: 2026-04-03T23:53:57.696Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "廣州飲茶好去處9個｜¥4.2點心！招牌芋泥包　一間脆皮叉燒必吃",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250722/1024401353054621696345820.jpeg/ID3BSTzsQIB8_2Gaw64lCy8yDqL5F0OZif3QkIn90JA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%97%85%E9%81%8A/60259303/%E5%BB%A3%E5%B7%9E%E9%A3%B2%E8%8C%B6%E5%A5%BD%E5%8E%BB%E8%99%959%E5%80%8B-4-2%E9%BB%9E%E5%BF%83-%E6%8B%9B%E7%89%8C%E8%8A%8B%E6%B3%A5%E5%8C%85-%E4%B8%80%E9%96%93%E8%84%86%E7%9A%AE%E5%8F%89%E7%87%92%E5%BF%85%E5%90%83",
+    "timestamp": "2026-04-03T23:53:57.696Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "大埔行山｜烏蛟騰郊遊徑接烏七古道　再登高峒探二戰機槍堡戰壕",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250725/1025379340348559360037426.jpeg/1B5ZmS3fGGK3xd_kuleQ9wrqHI8RoyqcEeOFjBHjhYw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60337170/%E7%8F%8D%E6%83%9C%E7%94%9F%E5%91%BD-%E6%B7%98%E5%A4%A7%E8%8A%B1%E5%9C%92%E7%94%B7%E5%AD%90%E5%A2%AE%E6%A8%93-%E7%95%B6%E5%A0%B4%E4%B8%8D%E6%B2%BB",
     "timestamp": "2026-04-03T11:52:01.698Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "林濤任廈門市委書記、福建省委委員",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260403/1116794882237665280652480.jpeg/PQtlacJ9ZGcxMBMpzSjfjrInUDKJPma_7G6WMuxuljI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60337146/%E6%9E%97%E6%BF%A4%E4%BB%BB%E5%BB%88%E9%96%80%E5%B8%82%E5%A7%94%E6%9B%B8%E8%A8%98-%E7%A6%8F%E5%BB%BA%E7%9C%81%E5%A7%94%E5%A7%94%E5%93%A1",
-    "timestamp": "2026-04-03T09:54:32.500Z",
     "strategy": ".content-card__main"
   }
 ];
