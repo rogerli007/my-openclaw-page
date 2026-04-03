@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-03T19:24:30.174Z
+// Last updated: 2026-04-03T19:51:43.987Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美媒：美軍F-15E戰機遭伊朗擊落後　另一A-10戰機同時墜毀",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260404/1116941818919915520458367.jpeg/TsupaWKpSBdSQOLg4M2DGl0sxInhdJgCaCCHJGgghyQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60337202/%E7%BE%8E%E5%AA%92-%E7%BE%8E%E8%BB%8Df-15e%E6%88%B0%E6%A9%9F%E9%81%AD%E4%BC%8A%E6%9C%97%E6%93%8A%E8%90%BD%E5%BE%8C-%E5%8F%A6%E4%B8%80a-10%E6%88%B0%E6%A9%9F%E5%90%8C%E6%99%82%E5%A2%9C%E6%AF%80",
+    "timestamp": "2026-04-03T19:51:43.987Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美媒：繼F－15E戰機遭擊落後　美國再有A－10戰機墜毀",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260402/1116498921837826048198243.jpeg/0loAOCnw5HXI3tJ1igD-zRuNJeJZZLI-sDj3SbA490k?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60336642/%E6%9E%97%E4%BE%9D%E6%99%A8%E6%BC%94%E8%88%9E%E5%8F%B0%E5%8A%87%E7%9A%BA%E7%B4%8B%E7%9B%A1%E7%8F%BE%E8%A2%AB%E6%8C%87%E6%96%B7%E5%B4%96%E5%BC%8F%E8%A1%B0%E8%80%81-%E7%AB%A5%E9%A1%8F%E5%A5%B3%E7%A5%9E%E5%A4%A7%E5%B4%A9%E5%A3%9E%E9%9C%87%E6%92%BC%E7%B6%B2%E6%B0%91",
     "timestamp": "2026-04-03T00:49:53.135Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "伊朗戰爭｜美國防長據報要求陸軍參謀長辭職　國防部證實離任",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260403/1116636923583008768085391.jpeg/SPvhQxMFdkNxSuQJnoMtxZuaFDbbAXkTPm6nTD5up0w?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60336944/%E4%BC%8A%E6%9C%97%E6%88%B0%E7%88%AD-%E7%BE%8E%E5%9C%8B%E9%98%B2%E9%95%B7%E6%93%9A%E5%A0%B1%E8%A6%81%E6%B1%82%E9%99%B8%E8%BB%8D%E5%8F%83%E8%AC%80%E9%95%B7%E8%BE%AD%E8%81%B7-%E5%9C%8B%E9%98%B2%E9%83%A8%E8%AD%89%E5%AF%A6%E9%9B%A2%E4%BB%BB",
-    "timestamp": "2026-04-02T23:51:43.103Z",
     "strategy": ".content-card__main"
   }
 ];
