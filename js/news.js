@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-03T14:10:35.710Z
+// Last updated: 2026-04-03T15:07:46.910Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "元朗錦綉花園6個月大女嬰昏迷送院亡　警拘38歲印傭交重案組調查",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/246862/org/192aea6f8f755697acfb55b6a2648f1e.jpg/AN7_cMaewSSOKhwlYqN-kjnnX-HliusVeF3Dm3hdw5s?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60337188/%E5%85%83%E6%9C%97%E9%8C%A6%E7%B6%89%E8%8A%B1%E5%9C%926%E5%80%8B%E6%9C%88%E5%A4%A7%E5%A5%B3%E5%AC%B0%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2%E4%BA%A1-%E8%AD%A6%E6%8B%9838%E6%AD%B2%E5%8D%B0%E5%82%AD%E4%BA%A4%E9%87%8D%E6%A1%88%E7%B5%84%E8%AA%BF%E6%9F%A5",
+    "timestamp": "2026-04-03T15:07:46.910Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "東京澀谷十字路口突遭縱火　男子倒可燃液體後點火引起混亂｜有片",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260402/1116517213696692224359627.png/kNU-vL-x3gFZ6iJOdiFr5e_GHLUXgBK5S2GJtUthibU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60336912/%E4%BC%8A%E6%9C%97%E6%A8%99%E8%AA%8C%E6%80%A7%E5%A4%A7%E6%A9%8B%E6%93%9A%E5%A0%B1%E9%81%AD%E7%BE%8E%E4%BB%A5%E8%A5%B2%E6%93%8A-%E9%80%A0%E6%88%90%E8%87%B3%E5%B0%912%E6%AD%BB-%E6%9C%89%E7%89%87",
     "timestamp": "2026-04-02T15:42:38.181Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "范麒智開YouTube獲李凱賢傳授心法　首集素顏上陣立志衝5萬訂閱",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260402/1116398037896269824142039.jpeg/CU27F12PmRunSrCsLSNVf8fkxICy6oK0rrkxCq65MQo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60336759/%E8%8C%83%E9%BA%92%E6%99%BA%E9%96%8Byoutube%E7%8D%B2%E6%9D%8E%E5%87%B1%E8%B3%A2%E5%82%B3%E6%8E%88%E5%BF%83%E6%B3%95-%E9%A6%96%E9%9B%86%E7%B4%A0%E9%A1%8F%E4%B8%8A%E9%99%A3%E7%AB%8B%E5%BF%97%E8%A1%9D5%E8%90%AC%E8%A8%82%E9%96%B1",
-    "timestamp": "2026-04-02T14:37:38.888Z",
     "strategy": ".content-card__main"
   }
 ];
