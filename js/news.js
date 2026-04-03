@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-03T11:52:01.698Z
+// Last updated: 2026-04-03T13:37:57.753Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "麋先生彈Beyond家駒結他驚見90萬標價　朝聖搖滾地標嘆要被清拆",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260403/1116707609143939072256109.jpeg/DQ7gblnTnrSeU9eER-PZokG_7Yt_e4Jx8Yu9g_GLvYM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60337020/%E9%BA%8B%E5%85%88%E7%94%9F%E5%BD%88beyond%E5%AE%B6%E9%A7%92%E7%B5%90%E4%BB%96%E9%A9%9A%E8%A6%8B90%E8%90%AC%E6%A8%99%E5%83%B9-%E6%9C%9D%E8%81%96%E6%90%96%E6%BB%BE%E5%9C%B0%E6%A8%99%E5%98%86%E8%A6%81%E8%A2%AB%E6%B8%85%E6%8B%86",
+    "timestamp": "2026-04-03T13:37:57.753Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "珍惜生命｜淘大花園男子墮樓　當場不治",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260315/1109821799144624128216894.png/Owi4C0EHC_kozjzvaQqxy0A-5fN9e4or4KWvwOClr8A?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60330535/%E7%94%B7%E5%8F%8B%E6%9C%88%E8%96%AA%E4%B8%8D%E9%AB%98%E5%91%BB%E7%AA%AE-1%E8%A1%8C%E7%82%BA%E4%BB%A4%E5%A5%B3%E5%8F%8B%E9%86%92%E8%A6%BA-%E5%8F%AA%E6%98%AF%E4%B8%8D%E9%A1%98%E6%84%8F%E6%8A%8A%E9%8C%A2%E8%8A%B1%E5%9C%A8%E4%BD%A0%E8%BA%AB%E4%B8%8A",
     "timestamp": "2026-04-02T13:16:17.881Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "復活節片單2026｜Netflix4月精選片單推薦：逐玉/泥娃娃/獵犬2",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260402/1116380718058967040352401.png/E90Z5wiJr0A9115Dpq5IL3Vb0swN1fY0ShJPFkoSTxY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%9F%A5%E6%80%A7%E5%A5%B3%E7%94%9F/60336720/%E5%BE%A9%E6%B4%BB%E7%AF%80%E7%89%87%E5%96%AE2026-netflix4%E6%9C%88%E7%B2%BE%E9%81%B8%E7%89%87%E5%96%AE%E6%8E%A8%E8%96%A6-%E9%80%90%E7%8E%89-%E6%B3%A5%E5%A8%83%E5%A8%83-%E7%8D%B5%E7%8A%AC2",
-    "timestamp": "2026-04-02T12:41:25.719Z",
     "strategy": ".content-card__main"
   }
 ];
