@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-03T09:54:32.500Z
+// Last updated: 2026-04-03T11:52:01.698Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "珍惜生命｜淘大花園男子墮樓　當場不治",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250725/1025379340348559360037426.jpeg/1B5ZmS3fGGK3xd_kuleQ9wrqHI8RoyqcEeOFjBHjhYw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60337170/%E7%8F%8D%E6%83%9C%E7%94%9F%E5%91%BD-%E6%B7%98%E5%A4%A7%E8%8A%B1%E5%9C%92%E7%94%B7%E5%AD%90%E5%A2%AE%E6%A8%93-%E7%95%B6%E5%A0%B4%E4%B8%8D%E6%B2%BB",
+    "timestamp": "2026-04-03T11:52:01.698Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "林濤任廈門市委書記、福建省委委員",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260402/1116380718058967040352401.png/E90Z5wiJr0A9115Dpq5IL3Vb0swN1fY0ShJPFkoSTxY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%9F%A5%E6%80%A7%E5%A5%B3%E7%94%9F/60336720/%E5%BE%A9%E6%B4%BB%E7%AF%80%E7%89%87%E5%96%AE2026-netflix4%E6%9C%88%E7%B2%BE%E9%81%B8%E7%89%87%E5%96%AE%E6%8E%A8%E8%96%A6-%E9%80%90%E7%8E%89-%E6%B3%A5%E5%A8%83%E5%A8%83-%E7%8D%B5%E7%8A%AC2",
     "timestamp": "2026-04-02T12:41:25.719Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "禁電子煙｜何謂公眾地方？警方可否執法？旅客獲豁免？常見QA一覽",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260402/1116350085152641024405238.jpeg/72ZRU8mRZMAOxxgtStRGKuxTsl7ZqCMkjyDC8qogwvI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60336860/%E7%A6%81%E9%9B%BB%E5%AD%90%E7%85%99-%E4%BD%95%E8%AC%82%E5%85%AC%E7%9C%BE%E5%9C%B0%E6%96%B9-%E8%AD%A6%E6%96%B9%E5%8F%AF%E5%90%A6%E5%9F%B7%E6%B3%95-%E6%97%85%E5%AE%A2%E7%8D%B2%E8%B1%81%E5%85%8D-%E5%B8%B8%E8%A6%8Bqa%E4%B8%80%E8%A6%BD",
-    "timestamp": "2026-04-02T12:06:28.731Z",
     "strategy": ".content-card__main"
   }
 ];
