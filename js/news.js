@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-03T03:38:26.994Z
+// Last updated: 2026-04-03T06:05:17.212Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "來稿｜中東資金為什麼來香港？",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260402/1116502191910162432280497.jpeg/rU5kFbfDwGaM3V35NYhY1wj4weDV8Wm8Q0yFD0NMhQ8?v=w1920r16_9",
+    "url": "https://www.hk01.com/01%E8%AB%96%E5%A3%87/60336904/%E4%BE%86%E7%A8%BF-%E4%B8%AD%E6%9D%B1%E8%B3%87%E9%87%91%E7%82%BA%E4%BB%80%E9%BA%BC%E4%BE%86%E9%A6%99%E6%B8%AF",
+    "timestamp": "2026-04-03T06:05:17.212Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "雨鞋穿搭｜10款時髦感搭配返工出街都適用　附保養技巧和品牌推薦",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260402/1116398062185484288062819.jpeg/iBWyc6dT1qO90N7mVMpBgLTjv46NfAGwGbXBKxm1wSs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60336754/%E4%BC%8A%E6%9C%97-%E5%BE%B7%E9%8A%80-%E8%A1%9D%E7%AA%81%E6%88%96%E5%89%8A%E5%BC%B1%E7%9F%B3%E6%B2%B9%E7%BE%8E%E5%85%83%E4%B8%BB%E5%B0%8E%E5%9C%B0%E4%BD%8D-%E4%BF%83%E6%88%90%E7%9F%B3%E6%B2%B9%E4%BA%BA%E6%B0%91%E5%B9%A3%E9%AB%94%E7%B3%BB",
     "timestamp": "2026-04-02T07:50:03.891Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "福岡手信必買10選　能吃到章魚碎和明太子的仙貝　白芸豆泥餡饅頭",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260402/1116349294580862976154863.jpeg/rrc-N0ND9Ej4pspfApvz5bWmgKSYN1AZpH5SXqR-Ul4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%97%85%E9%81%8A/60306486/%E7%A6%8F%E5%B2%A1%E6%89%8B%E4%BF%A1%E5%BF%85%E8%B2%B710%E9%81%B8-%E8%83%BD%E5%90%83%E5%88%B0%E7%AB%A0%E9%AD%9A%E7%A2%8E%E5%92%8C%E6%98%8E%E5%A4%AA%E5%AD%90%E7%9A%84%E4%BB%99%E8%B2%9D-%E7%99%BD%E8%8A%B8%E8%B1%86%E6%B3%A5%E9%A4%A1%E9%A5%85%E9%A0%AD",
-    "timestamp": "2026-04-02T07:16:23.290Z",
     "strategy": ".content-card__main"
   }
 ];
