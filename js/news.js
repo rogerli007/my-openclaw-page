@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-03T06:05:17.212Z
+// Last updated: 2026-04-03T06:49:31.108Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "港躍升全球第五大商品貿易經濟體　貿發局︰有賴自由開放營商環境",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260401/1115953615001882624239068.jpeg/hDdcBJcI0IiMUy0_bgCF67vAbZri5ZbclieoZZYnqGU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60337072/%E6%B8%AF%E8%BA%8D%E5%8D%87%E5%85%A8%E7%90%83%E7%AC%AC%E4%BA%94%E5%A4%A7%E5%95%86%E5%93%81%E8%B2%BF%E6%98%93%E7%B6%93%E6%BF%9F%E9%AB%94-%E8%B2%BF%E7%99%BC%E5%B1%80-%E6%9C%89%E8%B3%B4%E8%87%AA%E7%94%B1%E9%96%8B%E6%94%BE%E7%87%9F%E5%95%86%E7%92%B0%E5%A2%83",
+    "timestamp": "2026-04-03T06:49:31.108Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "來稿｜中東資金為什麼來香港？",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260401/1115989353189871616623748.png/6l4b-9ojUVQBe6s8I3T9Flkf8FOBgfLc4BjLQ-AYy0M?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60336003/%E8%8C%B6%E9%A4%90%E5%BB%B3%E7%84%97%E8%B1%AC%E6%89%92%E5%91%88%E7%B2%89%E7%B4%85%E8%89%B2-%E9%A3%9F%E5%AE%A2%E8%B3%AA%E7%96%91%E6%9C%AA%E7%86%9F-%E5%B7%B2%E9%A3%9F%E5%B9%BE%E5%9A%BF-%E8%81%B7%E5%93%A1%E7%A8%B1%E9%9B%AA%E8%97%8F%E6%89%80%E8%87%B4",
     "timestamp": "2026-04-02T10:13:18.031Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "伊朗｜德銀：衝突或削弱石油美元主導地位　促成石油人民幣體系",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260402/1116398062185484288062819.jpeg/iBWyc6dT1qO90N7mVMpBgLTjv46NfAGwGbXBKxm1wSs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60336754/%E4%BC%8A%E6%9C%97-%E5%BE%B7%E9%8A%80-%E8%A1%9D%E7%AA%81%E6%88%96%E5%89%8A%E5%BC%B1%E7%9F%B3%E6%B2%B9%E7%BE%8E%E5%85%83%E4%B8%BB%E5%B0%8E%E5%9C%B0%E4%BD%8D-%E4%BF%83%E6%88%90%E7%9F%B3%E6%B2%B9%E4%BA%BA%E6%B0%91%E5%B9%A3%E9%AB%94%E7%B3%BB",
-    "timestamp": "2026-04-02T07:50:03.891Z",
     "strategy": ".content-card__main"
   }
 ];
