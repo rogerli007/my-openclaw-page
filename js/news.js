@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-03T02:25:25.251Z
+// Last updated: 2026-04-03T03:38:26.994Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "雨鞋穿搭｜10款時髦感搭配返工出街都適用　附保養技巧和品牌推薦",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20251030/1060606304336220160367240.png/EgA0HTe2dbsj3MfO02ocfxefUwkgXfuGDr9h2w6_Yds?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A9%BF%E6%90%AD%E7%AD%86%E8%A8%98/60289901/%E9%9B%A8%E9%9E%8B%E7%A9%BF%E6%90%AD-10%E6%AC%BE%E6%99%82%E9%AB%A6%E6%84%9F%E6%90%AD%E9%85%8D%E8%BF%94%E5%B7%A5%E5%87%BA%E8%A1%97%E9%83%BD%E9%81%A9%E7%94%A8-%E9%99%84%E4%BF%9D%E9%A4%8A%E6%8A%80%E5%B7%A7%E5%92%8C%E5%93%81%E7%89%8C%E6%8E%A8%E8%96%A6",
+    "timestamp": "2026-04-03T03:38:26.994Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "水煮白煙不是水蒸氣？醫揭氣溶膠直入肺泡　不開抽油煙機最傷肺",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260402/1116349294580862976154863.jpeg/rrc-N0ND9Ej4pspfApvz5bWmgKSYN1AZpH5SXqR-Ul4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%97%85%E9%81%8A/60306486/%E7%A6%8F%E5%B2%A1%E6%89%8B%E4%BF%A1%E5%BF%85%E8%B2%B710%E9%81%B8-%E8%83%BD%E5%90%83%E5%88%B0%E7%AB%A0%E9%AD%9A%E7%A2%8E%E5%92%8C%E6%98%8E%E5%A4%AA%E5%AD%90%E7%9A%84%E4%BB%99%E8%B2%9D-%E7%99%BD%E8%8A%B8%E8%B1%86%E6%B3%A5%E9%A4%A1%E9%A5%85%E9%A0%AD",
     "timestamp": "2026-04-02T07:16:23.290Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "Dear Jane澳洲悉尼首個演唱會　Tim走落台再兩度encore樂迷唔願走",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260402/1116385224465321984301628.jpeg/ETyWZiSif6uz-wVKBtLiPHLPaiWZHcCV-tOawfrTmsE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60336734/dear-jane%E6%BE%B3%E6%B4%B2%E6%82%89%E5%B0%BC%E9%A6%96%E5%80%8B%E6%BC%94%E5%94%B1%E6%9C%83-tim%E8%B5%B0%E8%90%BD%E5%8F%B0%E5%86%8D%E5%85%A9%E5%BA%A6encore%E6%A8%82%E8%BF%B7%E5%94%94%E9%A1%98%E8%B5%B0",
-    "timestamp": "2026-04-02T06:48:52.957Z",
     "strategy": ".content-card__main"
   }
 ];
