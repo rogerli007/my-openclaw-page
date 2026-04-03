@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-03T18:52:58.840Z
+// Last updated: 2026-04-03T19:24:30.174Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美媒：繼F－15E戰機遭擊落後　美國再有A－10戰機墜毀",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260404/1116932830769713152176408.jpeg/IxxTbMwECM6tPTBz4xY_KxsCEEqvgkEUJmVE5SZlROU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60337202/%E7%BE%8E%E5%AA%92-%E7%B9%BCf-15e%E6%88%B0%E6%A9%9F%E9%81%AD%E6%93%8A%E8%90%BD%E5%BE%8C-%E7%BE%8E%E5%9C%8B%E5%86%8D%E6%9C%89a-10%E6%88%B0%E6%A9%9F%E5%A2%9C%E6%AF%80",
+    "timestamp": "2026-04-03T19:24:30.174Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "伊朗據報拒絕美國停火條件　多方斡旋中東停戰陷入僵局",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260403/1116636923583008768085391.jpeg/SPvhQxMFdkNxSuQJnoMtxZuaFDbbAXkTPm6nTD5up0w?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60336944/%E4%BC%8A%E6%9C%97%E6%88%B0%E7%88%AD-%E7%BE%8E%E5%9C%8B%E9%98%B2%E9%95%B7%E6%93%9A%E5%A0%B1%E8%A6%81%E6%B1%82%E9%99%B8%E8%BB%8D%E5%8F%83%E8%AC%80%E9%95%B7%E8%BE%AD%E8%81%B7-%E5%9C%8B%E9%98%B2%E9%83%A8%E8%AD%89%E5%AF%A6%E9%9B%A2%E4%BB%BB",
     "timestamp": "2026-04-02T23:51:43.103Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "杭州金匠壽司大老鼠竄過迴轉帶！食客嚇呆拍片公審　店家回應致歉",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260331/1115642487877144576753042.jpeg/rloOvT0LdDhlIfL-CDzqs7psoQ0SgRmvCWA-eglgPno",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60335809/%E6%9D%AD%E5%B7%9E%E9%87%91%E5%8C%A0%E5%A3%BD%E5%8F%B8%E5%A4%A7%E8%80%81%E9%BC%A0%E7%AB%84%E9%81%8E%E8%BF%B4%E8%BD%89%E5%B8%B6-%E9%A3%9F%E5%AE%A2%E5%9A%87%E5%91%86%E6%8B%8D%E7%89%87%E5%85%AC%E5%AF%A9-%E5%BA%97%E5%AE%B6%E5%9B%9E%E6%87%89%E8%87%B4%E6%AD%89",
-    "timestamp": "2026-04-02T23:21:30.698Z",
     "strategy": ".content-card__main"
   }
 ];
