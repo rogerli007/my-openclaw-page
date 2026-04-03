@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-03T20:37:25.024Z
+// Last updated: 2026-04-03T21:04:00.951Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美媒：美軍F－15E戰機遭伊朗擊落後　另一A－10戰機同時墜毀",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260404/1116941818919915520458367.jpeg/TsupaWKpSBdSQOLg4M2DGl0sxInhdJgCaCCHJGgghyQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60337202/%E7%BE%8E%E5%AA%92-%E7%BE%8E%E8%BB%8Df-15e%E6%88%B0%E6%A9%9F%E9%81%AD%E4%BC%8A%E6%9C%97%E6%93%8A%E8%90%BD%E5%BE%8C-%E5%8F%A6%E4%B8%80a-10%E6%88%B0%E6%A9%9F%E5%90%8C%E6%99%82%E5%A2%9C%E6%AF%80",
+    "timestamp": "2026-04-03T21:04:00.951Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美媒：美軍F-15E戰機遭伊朗擊落後　另一A-10戰機同時墜毀",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20251030/1060606304336220160367240.png/EgA0HTe2dbsj3MfO02ocfxefUwkgXfuGDr9h2w6_Yds?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A9%BF%E6%90%AD%E7%AD%86%E8%A8%98/60289901/%E9%9B%A8%E9%9E%8B%E7%A9%BF%E6%90%AD-10%E6%AC%BE%E6%99%82%E9%AB%A6%E6%84%9F%E6%90%AD%E9%85%8D%E8%BF%94%E5%B7%A5%E5%87%BA%E8%A1%97%E9%83%BD%E9%81%A9%E7%94%A8-%E9%99%84%E4%BF%9D%E9%A4%8A%E6%8A%80%E5%B7%A7%E5%92%8C%E5%93%81%E7%89%8C%E6%8E%A8%E8%96%A6",
     "timestamp": "2026-04-03T03:38:26.994Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "水煮白煙不是水蒸氣？醫揭氣溶膠直入肺泡　不開抽油煙機最傷肺",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260331/1115665840566439936135924.jpeg/3BI7csiSFGXmahaZ4lLj4CPfddoxNJf-XVkyt11ZMrc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/60329343/%E6%B0%B4%E7%85%AE%E7%99%BD%E7%85%99%E4%B8%8D%E6%98%AF%E6%B0%B4%E8%92%B8%E6%B0%A3-%E9%86%AB%E6%8F%AD%E6%B0%A3%E6%BA%B6%E8%86%A0%E7%9B%B4%E5%85%A5%E8%82%BA%E6%B3%A1-%E4%B8%8D%E9%96%8B%E6%8A%BD%E6%B2%B9%E7%85%99%E6%A9%9F%E6%9C%80%E5%82%B7%E8%82%BA",
-    "timestamp": "2026-04-03T02:25:25.251Z",
     "strategy": ".content-card__main"
   }
 ];
