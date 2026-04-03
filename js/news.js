@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-03T15:07:46.910Z
+// Last updated: 2026-04-03T15:34:55.415Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "翠屏北邨樓上單位冒煙　消防到場救火",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260403/1116876909859311616396780.png/Vt6nwcDqDzfxiREYY0g6vKx1eVm4mXUt7jSvXu40r14?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60337193/%E7%BF%A0%E5%B1%8F%E5%8C%97%E9%82%A8%E6%A8%93%E4%B8%8A%E5%96%AE%E4%BD%8D%E5%86%92%E7%85%99-%E6%B6%88%E9%98%B2%E5%88%B0%E5%A0%B4%E6%95%91%E7%81%AB",
+    "timestamp": "2026-04-03T15:34:55.415Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "元朗錦綉花園6個月大女嬰昏迷送院亡　警拘38歲印傭交重案組調查",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260402/1116512003775533056083672.jpeg/ygb2S1F9ATvbEL7w-0VFe0sKzrdWuyD2YnwOTWJ8Dk0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60336895/%E9%81%8B%E5%8B%95%E5%B0%88%E9%A1%8C-d-park%E5%95%86%E5%A0%B4%E8%AE%8A%E9%81%8B%E5%8B%95%E5%A0%B4%E8%83%8C%E5%BE%8C%E6%80%9D%E7%B6%AD-%E5%81%87%E6%9C%9F%E8%BE%A6%E5%8C%B9%E5%85%8B%E7%90%83%E8%B3%BD%E7%8B%82%E5%90%B8%E4%BA%BA%E6%B5%81",
     "timestamp": "2026-04-02T16:13:25.578Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "伊朗標誌性大橋據報遭美以襲擊　造成至少2死｜有片",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260402/1116517213696692224359627.png/kNU-vL-x3gFZ6iJOdiFr5e_GHLUXgBK5S2GJtUthibU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60336912/%E4%BC%8A%E6%9C%97%E6%A8%99%E8%AA%8C%E6%80%A7%E5%A4%A7%E6%A9%8B%E6%93%9A%E5%A0%B1%E9%81%AD%E7%BE%8E%E4%BB%A5%E8%A5%B2%E6%93%8A-%E9%80%A0%E6%88%90%E8%87%B3%E5%B0%912%E6%AD%BB-%E6%9C%89%E7%89%87",
-    "timestamp": "2026-04-02T15:42:38.181Z",
     "strategy": ".content-card__main"
   }
 ];
