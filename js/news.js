@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-03T21:04:00.951Z
+// Last updated: 2026-04-03T21:21:12.017Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "警復活節一連2日執法　2男鐵騎士左穿右插　涉非法賽車等3罪被捕",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260404/1116964528114896896178946.jpeg/5P5mAcXh9O6notRLHIDQIp29tD78hY7BQeLqL0Hi6i8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60337203/%E8%AD%A6%E5%BE%A9%E6%B4%BB%E7%AF%80%E4%B8%80%E9%80%A32%E6%97%A5%E5%9F%B7%E6%B3%95-2%E7%94%B7%E9%90%B5%E9%A8%8E%E5%A3%AB%E5%B7%A6%E7%A9%BF%E5%8F%B3%E6%8F%92-%E6%B6%89%E9%9D%9E%E6%B3%95%E8%B3%BD%E8%BB%8A%E7%AD%893%E7%BD%AA%E8%A2%AB%E6%8D%95",
+    "timestamp": "2026-04-03T21:21:12.017Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美媒：美軍F－15E戰機遭伊朗擊落後　另一A－10戰機同時墜毀",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260402/1116502191910162432280497.jpeg/rU5kFbfDwGaM3V35NYhY1wj4weDV8Wm8Q0yFD0NMhQ8?v=w1920r16_9",
     "url": "https://www.hk01.com/01%E8%AB%96%E5%A3%87/60336904/%E4%BE%86%E7%A8%BF-%E4%B8%AD%E6%9D%B1%E8%B3%87%E9%87%91%E7%82%BA%E4%BB%80%E9%BA%BC%E4%BE%86%E9%A6%99%E6%B8%AF",
     "timestamp": "2026-04-03T06:05:17.212Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "雨鞋穿搭｜10款時髦感搭配返工出街都適用　附保養技巧和品牌推薦",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20251030/1060606304336220160367240.png/EgA0HTe2dbsj3MfO02ocfxefUwkgXfuGDr9h2w6_Yds?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A9%BF%E6%90%AD%E7%AD%86%E8%A8%98/60289901/%E9%9B%A8%E9%9E%8B%E7%A9%BF%E6%90%AD-10%E6%AC%BE%E6%99%82%E9%AB%A6%E6%84%9F%E6%90%AD%E9%85%8D%E8%BF%94%E5%B7%A5%E5%87%BA%E8%A1%97%E9%83%BD%E9%81%A9%E7%94%A8-%E9%99%84%E4%BF%9D%E9%A4%8A%E6%8A%80%E5%B7%A7%E5%92%8C%E5%93%81%E7%89%8C%E6%8E%A8%E8%96%A6",
-    "timestamp": "2026-04-03T03:38:26.994Z",
     "strategy": ".content-card__main"
   }
 ];
