@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-03T17:22:39.854Z
+// Last updated: 2026-04-03T18:02:56.259Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "特朗普「送伊朗回石器時代」論惹議　伊朗總統：意味大規模戰爭罪",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260404/1116904014814908416682391.jpeg/PEpZZJ7wx8oTfDYc9M_rDUAJW9-ipCt4ciSQl3IkkJc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60337197/%E7%89%B9%E6%9C%97%E6%99%AE-%E9%80%81%E4%BC%8A%E6%9C%97%E5%9B%9E%E7%9F%B3%E5%99%A8%E6%99%82%E4%BB%A3-%E8%AB%96%E6%83%B9%E8%AD%B0-%E4%BC%8A%E6%9C%97%E7%B8%BD%E7%B5%B1-%E6%84%8F%E5%91%B3%E5%A4%A7%E8%A6%8F%E6%A8%A1%E6%88%B0%E7%88%AD%E7%BD%AA",
+    "timestamp": "2026-04-03T18:02:56.259Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "特朗普「送伊朗回石器時代」論惹議　伊朗總統：意味大規模戰爭罪",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250805/1029518122224193536613548.jpeg/oc83v3JNVjX29FLbKrUhr9nTIFcqqC4fBTllNAU5ZTQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60336941/%E7%BE%8E%E5%9C%8B%E5%B0%8D%E5%B0%88%E5%88%A9%E8%97%A5%E5%8A%A0%E5%BE%B5100-%E9%97%9C%E7%A8%85-%E6%8E%A8%E5%8B%95%E9%81%B7%E7%BE%8E%E7%94%9F%E7%94%A2%E5%8F%8A%E8%88%87%E6%94%BF%E5%BA%9C%E9%81%94%E5%AE%9A%E5%83%B9%E5%8D%94%E8%AD%B0",
     "timestamp": "2026-04-02T21:52:27.245Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美國對專利藥加徵100%關稅　推動遷美生產及與政府達定價協議",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250805/1029518122224193536613548.jpeg/oc83v3JNVjX29FLbKrUhr9nTIFcqqC4fBTllNAU5ZTQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60336941/%E7%BE%8E%E5%9C%8B%E5%B0%8D%E5%B0%88%E5%88%A9%E8%97%A5%E5%8A%A0%E5%BE%B5100-%E9%97%9C%E7%A8%85-%E6%8E%A8%E5%8B%95%E9%81%B7%E7%BE%8E%E7%94%9F%E7%94%A2%E5%8F%8A%E8%88%87%E6%94%BF%E5%BA%9C%E9%81%94%E5%AE%9A%E5%83%B9%E5%8D%94%E8%AD%B0",
-    "timestamp": "2026-04-02T21:21:06.611Z",
     "strategy": ".content-card__main"
   }
 ];
