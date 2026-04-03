@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-03T06:49:31.108Z
+// Last updated: 2026-04-03T07:52:01.974Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "復活節清明節長假　深圳加開夜間列車　預計周六現客流高峰",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260403/1116758454954889216215639.jpeg/k_lmeDMZRP3hqOFVDedn_6H5xXFrhGY5T8-nLU_Ppy0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8C%97%E4%B8%8A%E5%BB%A3%E6%9D%B1/60337085/%E5%BE%A9%E6%B4%BB%E7%AF%80%E6%B8%85%E6%98%8E%E7%AF%80%E9%95%B7%E5%81%87-%E6%B7%B1%E5%9C%B3%E5%8A%A0%E9%96%8B%E5%A4%9C%E9%96%93%E5%88%97%E8%BB%8A-%E9%A0%90%E8%A8%88%E5%91%A8%E5%85%AD%E7%8F%BE%E5%AE%A2%E6%B5%81%E9%AB%98%E5%B3%B0",
+    "timestamp": "2026-04-03T07:52:01.974Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "港躍升全球第五大商品貿易經濟體　貿發局︰有賴自由開放營商環境",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250608/1008428333799051264601497.jpeg/YFcE-sZQOcHm_dQV1a4Si9HZuEZrC3xhvVYq7phWKu4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60336812/%E6%A9%9F%E5%A0%B4%E4%BA%8C%E8%99%9F%E5%AE%A2%E9%81%8B%E5%A4%A7%E6%A8%935-27%E5%95%9F%E7%94%A8-%E6%A9%9F%E7%AE%A1%E5%B1%80%E6%96%99%E9%A6%96%E5%B9%B4%E5%88%86%E6%B5%81800%E8%90%AC%E4%BA%BA%E6%AC%A1%E9%9B%A2%E5%A2%83%E6%97%85%E5%AE%A2",
     "timestamp": "2026-04-02T11:13:29.194Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "茶餐廳焗豬扒呈粉紅色　食客質疑未熟：已食幾嚿　職員稱雪藏所致",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260401/1115989353189871616623748.png/6l4b-9ojUVQBe6s8I3T9Flkf8FOBgfLc4BjLQ-AYy0M?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60336003/%E8%8C%B6%E9%A4%90%E5%BB%B3%E7%84%97%E8%B1%AC%E6%89%92%E5%91%88%E7%B2%89%E7%B4%85%E8%89%B2-%E9%A3%9F%E5%AE%A2%E8%B3%AA%E7%96%91%E6%9C%AA%E7%86%9F-%E5%B7%B2%E9%A3%9F%E5%B9%BE%E5%9A%BF-%E8%81%B7%E5%93%A1%E7%A8%B1%E9%9B%AA%E8%97%8F%E6%89%80%E8%87%B4",
-    "timestamp": "2026-04-02T10:13:18.031Z",
     "strategy": ".content-card__main"
   }
 ];
