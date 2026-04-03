@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-03T22:36:10.962Z
+// Last updated: 2026-04-03T23:24:19.509Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "大埔行山｜烏蛟騰郊遊徑接烏七古道　再登高峒探二戰機槍堡戰壕",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260403/1116774963018207232349721.jpeg/kKtI5BRHKAIm7tbSqfsoZJe4KO0Ryrvdkr0OApK9DgI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60331977/%E5%A4%A7%E5%9F%94%E8%A1%8C%E5%B1%B1-%E7%83%8F%E8%9B%9F%E9%A8%B0%E9%83%8A%E9%81%8A%E5%BE%91%E6%8E%A5%E7%83%8F%E4%B8%83%E5%8F%A4%E9%81%93-%E5%86%8D%E7%99%BB%E9%AB%98%E5%B3%92%E6%8E%A2%E4%BA%8C%E6%88%B0%E6%A9%9F%E6%A7%8D%E5%A0%A1%E6%88%B0%E5%A3%95",
+    "timestamp": "2026-04-03T23:24:19.509Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "日本小學34歲男教師與24歲女教師校內發生性行為　副校長聞聲撞破",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260403/1116794882237665280652480.jpeg/PQtlacJ9ZGcxMBMpzSjfjrInUDKJPma_7G6WMuxuljI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60337146/%E6%9E%97%E6%BF%A4%E4%BB%BB%E5%BB%88%E9%96%80%E5%B8%82%E5%A7%94%E6%9B%B8%E8%A8%98-%E7%A6%8F%E5%BB%BA%E7%9C%81%E5%A7%94%E5%A7%94%E5%93%A1",
     "timestamp": "2026-04-03T09:54:32.500Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "復活節清明節長假　深圳加開夜間列車　預計周六現客流高峰",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260403/1116758454954889216215639.jpeg/k_lmeDMZRP3hqOFVDedn_6H5xXFrhGY5T8-nLU_Ppy0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8C%97%E4%B8%8A%E5%BB%A3%E6%9D%B1/60337085/%E5%BE%A9%E6%B4%BB%E7%AF%80%E6%B8%85%E6%98%8E%E7%AF%80%E9%95%B7%E5%81%87-%E6%B7%B1%E5%9C%B3%E5%8A%A0%E9%96%8B%E5%A4%9C%E9%96%93%E5%88%97%E8%BB%8A-%E9%A0%90%E8%A8%88%E5%91%A8%E5%85%AD%E7%8F%BE%E5%AE%A2%E6%B5%81%E9%AB%98%E5%B3%B0",
-    "timestamp": "2026-04-03T07:52:01.974Z",
     "strategy": ".content-card__main"
   }
 ];
