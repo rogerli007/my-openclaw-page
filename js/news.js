@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-03T18:02:56.259Z
+// Last updated: 2026-04-03T18:27:44.182Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "伊朗據報拒絕美國停火條件　多方斡旋中東停戰陷入僵局",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250417/989406414021595136526730.jpeg/SF-FuWuHg9qbWHx77eQOKNFX4po-mhi94eoH7uHqB-4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60337200/%E4%BC%8A%E6%9C%97%E6%93%9A%E5%A0%B1%E6%8B%92%E7%B5%95%E7%BE%8E%E5%9C%8B%E5%81%9C%E7%81%AB%E6%A2%9D%E4%BB%B6-%E5%A4%9A%E6%96%B9%E6%96%A1%E6%97%8B%E4%B8%AD%E6%9D%B1%E5%81%9C%E6%88%B0%E9%99%B7%E5%85%A5%E5%83%B5%E5%B1%80",
+    "timestamp": "2026-04-03T18:27:44.182Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "特朗普「送伊朗回石器時代」論惹議　伊朗總統：意味大規模戰爭罪",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260403/1116618623817879552357129.jpeg/XZeIjLYyVMkDoUu_hqcfdHdsZapQw-XSqtK5yqrSuco?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60336942/%E6%95%B8%E5%90%8D%E5%A4%A7%E6%BC%A2%E4%BC%81%E7%9A%84%E5%A3%AB%E5%89%8D%E8%AB%87%E5%A4%A9%E9%98%BB%E7%A4%99%E9%96%8B%E8%BB%8A-%E5%8F%B8%E6%A9%9F%E8%A6%81%E6%B1%82%E8%AE%93%E9%96%8B%E9%81%AD%E5%B0%8D%E6%96%B9%E5%9C%8D%E6%AF%86%E9%A0%AD%E7%A0%B4%E8%A1%80%E6%B5%81",
     "timestamp": "2026-04-02T23:02:07.032Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美國對專利藥加徵100%關稅　推動遷美生產及與政府達定價協議",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250805/1029518122224193536613548.jpeg/oc83v3JNVjX29FLbKrUhr9nTIFcqqC4fBTllNAU5ZTQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60336941/%E7%BE%8E%E5%9C%8B%E5%B0%8D%E5%B0%88%E5%88%A9%E8%97%A5%E5%8A%A0%E5%BE%B5100-%E9%97%9C%E7%A8%85-%E6%8E%A8%E5%8B%95%E9%81%B7%E7%BE%8E%E7%94%9F%E7%94%A2%E5%8F%8A%E8%88%87%E6%94%BF%E5%BA%9C%E9%81%94%E5%AE%9A%E5%83%B9%E5%8D%94%E8%AD%B0",
-    "timestamp": "2026-04-02T21:52:27.245Z",
     "strategy": ".content-card__main"
   }
 ];
