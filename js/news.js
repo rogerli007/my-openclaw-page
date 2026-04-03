@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-03T07:52:01.974Z
+// Last updated: 2026-04-03T09:54:32.500Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "林濤任廈門市委書記、福建省委委員",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260403/1116794882237665280652480.jpeg/PQtlacJ9ZGcxMBMpzSjfjrInUDKJPma_7G6WMuxuljI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60337146/%E6%9E%97%E6%BF%A4%E4%BB%BB%E5%BB%88%E9%96%80%E5%B8%82%E5%A7%94%E6%9B%B8%E8%A8%98-%E7%A6%8F%E5%BB%BA%E7%9C%81%E5%A7%94%E5%A7%94%E5%93%A1",
+    "timestamp": "2026-04-03T09:54:32.500Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "復活節清明節長假　深圳加開夜間列車　預計周六現客流高峰",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260402/1116350085152641024405238.jpeg/72ZRU8mRZMAOxxgtStRGKuxTsl7ZqCMkjyDC8qogwvI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60336860/%E7%A6%81%E9%9B%BB%E5%AD%90%E7%85%99-%E4%BD%95%E8%AC%82%E5%85%AC%E7%9C%BE%E5%9C%B0%E6%96%B9-%E8%AD%A6%E6%96%B9%E5%8F%AF%E5%90%A6%E5%9F%B7%E6%B3%95-%E6%97%85%E5%AE%A2%E7%8D%B2%E8%B1%81%E5%85%8D-%E5%B8%B8%E8%A6%8Bqa%E4%B8%80%E8%A6%BD",
     "timestamp": "2026-04-02T12:06:28.731Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "機場二號客運大樓5.27啟用　機管局料首年分流800萬人次離境旅客",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250608/1008428333799051264601497.jpeg/YFcE-sZQOcHm_dQV1a4Si9HZuEZrC3xhvVYq7phWKu4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60336812/%E6%A9%9F%E5%A0%B4%E4%BA%8C%E8%99%9F%E5%AE%A2%E9%81%8B%E5%A4%A7%E6%A8%935-27%E5%95%9F%E7%94%A8-%E6%A9%9F%E7%AE%A1%E5%B1%80%E6%96%99%E9%A6%96%E5%B9%B4%E5%88%86%E6%B5%81800%E8%90%AC%E4%BA%BA%E6%AC%A1%E9%9B%A2%E5%A2%83%E6%97%85%E5%AE%A2",
-    "timestamp": "2026-04-02T11:13:29.194Z",
     "strategy": ".content-card__main"
   }
 ];
