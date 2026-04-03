@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-03T00:49:53.135Z
+// Last updated: 2026-04-03T02:25:25.251Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "水煮白煙不是水蒸氣？醫揭氣溶膠直入肺泡　不開抽油煙機最傷肺",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260331/1115665840566439936135924.jpeg/3BI7csiSFGXmahaZ4lLj4CPfddoxNJf-XVkyt11ZMrc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/60329343/%E6%B0%B4%E7%85%AE%E7%99%BD%E7%85%99%E4%B8%8D%E6%98%AF%E6%B0%B4%E8%92%B8%E6%B0%A3-%E9%86%AB%E6%8F%AD%E6%B0%A3%E6%BA%B6%E8%86%A0%E7%9B%B4%E5%85%A5%E8%82%BA%E6%B3%A1-%E4%B8%8D%E9%96%8B%E6%8A%BD%E6%B2%B9%E7%85%99%E6%A9%9F%E6%9C%80%E5%82%B7%E8%82%BA",
+    "timestamp": "2026-04-03T02:25:25.251Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "林依晨演舞台劇皺紋盡現被指斷崖式衰老　童顏女神大崩壞震撼網民",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260402/1116385224465321984301628.jpeg/ETyWZiSif6uz-wVKBtLiPHLPaiWZHcCV-tOawfrTmsE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60336734/dear-jane%E6%BE%B3%E6%B4%B2%E6%82%89%E5%B0%BC%E9%A6%96%E5%80%8B%E6%BC%94%E5%94%B1%E6%9C%83-tim%E8%B5%B0%E8%90%BD%E5%8F%B0%E5%86%8D%E5%85%A9%E5%BA%A6encore%E6%A8%82%E8%BF%B7%E5%94%94%E9%A1%98%E8%B5%B0",
     "timestamp": "2026-04-02T06:48:52.957Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "英格蘭友賽負日本菲爾科頓表現欠佳　杜慈：不保證穩入世界盃名單",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260402/1116324765158608896467105.jpeg/jGrzJmXdW8bXbN6-kJJW_ZIlKoQY5X-zLzTdXS803V0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60336614/%E8%8B%B1%E6%A0%BC%E8%98%AD%E5%8F%8B%E8%B3%BD%E8%B2%A0%E6%97%A5%E6%9C%AC%E8%8F%B2%E7%88%BE%E7%A7%91%E9%A0%93%E8%A1%A8%E7%8F%BE%E6%AC%A0%E4%BD%B3-%E6%9D%9C%E6%85%88-%E4%B8%8D%E4%BF%9D%E8%AD%89%E7%A9%A9%E5%85%A5%E4%B8%96%E7%95%8C%E7%9B%83%E5%90%8D%E5%96%AE",
-    "timestamp": "2026-04-02T05:27:37.523Z",
     "strategy": ".content-card__main"
   }
 ];
