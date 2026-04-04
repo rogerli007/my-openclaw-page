@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-04T05:45:03.261Z
+// Last updated: 2026-04-04T06:12:15.336Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "上海交大宣傳片稱男生敲代碼、女生變寶媽　遭批性別歧視",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260403/1116803683057668096740628.jpeg/FOHvsQxtNWgf72oz4wTJ7bVStt067kcoUXoAkFF6AJA",
+    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60337138/%E4%B8%8A%E6%B5%B7%E4%BA%A4%E5%A4%A7%E5%AE%A3%E5%82%B3%E7%89%87%E7%A8%B1%E7%94%B7%E7%94%9F%E6%95%B2%E4%BB%A3%E7%A2%BC-%E5%A5%B3%E7%94%9F%E8%AE%8A%E5%AF%B6%E5%AA%BD-%E9%81%AD%E6%89%B9%E6%80%A7%E5%88%A5%E6%AD%A7%E8%A6%96",
+    "timestamp": "2026-04-04T06:12:15.336Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "油麻地住所內女子遭男子持刀架頸　搶銀包現金　警列搶劫追緝",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260403/1116876909859311616396780.png/Vt6nwcDqDzfxiREYY0g6vKx1eVm4mXUt7jSvXu40r14?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60337193/%E7%BF%A0%E5%B1%8F%E5%8C%97%E9%82%A8%E6%A8%93%E4%B8%8A%E5%96%AE%E4%BD%8D%E5%86%92%E7%85%99-%E6%B6%88%E9%98%B2%E5%88%B0%E5%A0%B4%E6%95%91%E7%81%AB",
     "timestamp": "2026-04-03T15:34:55.415Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "元朗錦綉花園6個月大女嬰昏迷送院亡　警拘38歲印傭交重案組調查",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/246862/org/192aea6f8f755697acfb55b6a2648f1e.jpg/AN7_cMaewSSOKhwlYqN-kjnnX-HliusVeF3Dm3hdw5s?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60337188/%E5%85%83%E6%9C%97%E9%8C%A6%E7%B6%89%E8%8A%B1%E5%9C%926%E5%80%8B%E6%9C%88%E5%A4%A7%E5%A5%B3%E5%AC%B0%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2%E4%BA%A1-%E8%AD%A6%E6%8B%9838%E6%AD%B2%E5%8D%B0%E5%82%AD%E4%BA%A4%E9%87%8D%E6%A1%88%E7%B5%84%E8%AA%BF%E6%9F%A5",
-    "timestamp": "2026-04-03T15:07:46.910Z",
     "strategy": ".content-card__main"
   }
 ];
