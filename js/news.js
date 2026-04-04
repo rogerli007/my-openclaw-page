@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-04T12:53:55.962Z
+// Last updated: 2026-04-04T13:32:39.534Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "涉行李藏$290萬海洛英　大馬抵港20歲男遭海關拘控　下周一提堂",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260404/1117207088087437312248670.jpeg/ixfJpVT__yh3nk1lQQLL6t98XqMDMp9LPwjGeD8Ixng?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60337347/%E6%B6%89%E8%A1%8C%E6%9D%8E%E8%97%8F-290%E8%90%AC%E6%B5%B7%E6%B4%9B%E8%8B%B1-%E5%A4%A7%E9%A6%AC%E6%8A%B5%E6%B8%AF20%E6%AD%B2%E7%94%B7%E9%81%AD%E6%B5%B7%E9%97%9C%E6%8B%98%E6%8E%A7-%E4%B8%8B%E5%91%A8%E4%B8%80%E6%8F%90%E5%A0%82",
+    "timestamp": "2026-04-04T13:32:39.534Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "乘風2026｜33位姐姐首輪投票前10名單曝光　陳凱琳排名令人意外",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260404/1116974250691923968864732.jpeg/2-bJh1RQq-VMQT05Wqn9-sOynCgQBNEMMV9JpjFfSaY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60337204/%E4%BC%8A%E6%9C%97%E6%88%B0%E7%88%AD-%E9%98%BF%E8%81%AF%E9%85%8B%E6%94%94%E6%88%AA%E9%A3%9B%E8%A1%8C%E7%89%A9-%E7%A2%8E%E7%89%87%E5%A2%9C%E8%90%BD%E5%BC%95%E8%A8%AD%E6%96%BD%E8%B5%B7%E7%81%AB%E8%87%B3%E5%B0%911%E6%AD%BB%E5%A4%9A%E5%82%B7",
     "timestamp": "2026-04-03T21:50:25.847Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "警復活節一連2日執法　2男鐵騎士左穿右插　涉非法賽車等3罪被捕",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260404/1116964528114896896178946.jpeg/5P5mAcXh9O6notRLHIDQIp29tD78hY7BQeLqL0Hi6i8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60337203/%E8%AD%A6%E5%BE%A9%E6%B4%BB%E7%AF%80%E4%B8%80%E9%80%A32%E6%97%A5%E5%9F%B7%E6%B3%95-2%E7%94%B7%E9%90%B5%E9%A8%8E%E5%A3%AB%E5%B7%A6%E7%A9%BF%E5%8F%B3%E6%8F%92-%E6%B6%89%E9%9D%9E%E6%B3%95%E8%B3%BD%E8%BB%8A%E7%AD%893%E7%BD%AA%E8%A2%AB%E6%8D%95",
-    "timestamp": "2026-04-03T21:21:12.017Z",
     "strategy": ".content-card__main"
   }
 ];
