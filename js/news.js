@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-04T13:57:14.973Z
+// Last updated: 2026-04-04T14:50:01.988Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "蘇永康賀老婆50歲生日公開表白愛意　圈中好友到賀盡見人緣極佳",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260404/1117142479401914368962538.jpeg/lkBFiTYSAcY1i5RMbYshwMqyillr5OgddkUMZnZFDGY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60337297/%E8%98%87%E6%B0%B8%E5%BA%B7%E8%B3%80%E8%80%81%E5%A9%8650%E6%AD%B2%E7%94%9F%E6%97%A5%E5%85%AC%E9%96%8B%E8%A1%A8%E7%99%BD%E6%84%9B%E6%84%8F-%E5%9C%88%E4%B8%AD%E5%A5%BD%E5%8F%8B%E5%88%B0%E8%B3%80%E7%9B%A1%E8%A6%8B%E4%BA%BA%E7%B7%A3%E6%A5%B5%E4%BD%B3",
+    "timestamp": "2026-04-04T14:50:01.988Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "警一連七日觀塘掃黃　拘14名內地女　3廈檢宣傳賣淫標誌",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260403/1116774963018207232349721.jpeg/kKtI5BRHKAIm7tbSqfsoZJe4KO0Ryrvdkr0OApK9DgI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60331977/%E5%A4%A7%E5%9F%94%E8%A1%8C%E5%B1%B1-%E7%83%8F%E8%9B%9F%E9%A8%B0%E9%83%8A%E9%81%8A%E5%BE%91%E6%8E%A5%E7%83%8F%E4%B8%83%E5%8F%A4%E9%81%93-%E5%86%8D%E7%99%BB%E9%AB%98%E5%B3%92%E6%8E%A2%E4%BA%8C%E6%88%B0%E6%A9%9F%E6%A7%8D%E5%A0%A1%E6%88%B0%E5%A3%95",
     "timestamp": "2026-04-03T23:24:19.509Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "日本小學34歲男教師與24歲女教師校內發生性行為　副校長聞聲撞破",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260403/1116754738826711040501362.png/7TD5Q6i8EG_SHSvq0zH-DiP-V1-loGQN6iO62eojutk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E8%A9%B1%E9%A1%8C/60335847/%E6%97%A5%E6%9C%AC%E5%B0%8F%E5%AD%B834%E6%AD%B2%E7%94%B7%E6%95%99%E5%B8%AB%E8%88%8724%E6%AD%B2%E5%A5%B3%E6%95%99%E5%B8%AB%E6%A0%A1%E5%85%A7%E7%99%BC%E7%94%9F%E6%80%A7%E8%A1%8C%E7%82%BA-%E5%89%AF%E6%A0%A1%E9%95%B7%E8%81%9E%E8%81%B2%E6%92%9E%E7%A0%B4",
-    "timestamp": "2026-04-03T22:36:10.962Z",
     "strategy": ".content-card__main"
   }
 ];
