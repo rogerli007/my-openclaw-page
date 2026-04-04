@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-04T07:14:20.436Z
+// Last updated: 2026-04-04T07:40:11.862Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "亞博CON-CON 現場直擊｜排球少年打卡場、高達霓虹燈超正必影",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260404/1117123671345860608687049.jpeg/NxAFWoj6T3PqZnCqtUdPd9PABzzPByf48yIvKvMiLyo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60336231/%E4%BA%9E%E5%8D%9Acon-con-%E7%8F%BE%E5%A0%B4%E7%9B%B4%E6%93%8A-%E6%8E%92%E7%90%83%E5%B0%91%E5%B9%B4%E6%89%93%E5%8D%A1%E5%A0%B4-%E9%AB%98%E9%81%94%E9%9C%93%E8%99%B9%E7%87%88%E8%B6%85%E6%AD%A3%E5%BF%85%E5%BD%B1",
+    "timestamp": "2026-04-04T07:40:11.862Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "特朗普公開模仿取笑施紀賢　英美關係因伊朗戰爭跌至新低｜有片",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260404/1116904014814908416682391.jpeg/PEpZZJ7wx8oTfDYc9M_rDUAJW9-ipCt4ciSQl3IkkJc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60337197/%E7%89%B9%E6%9C%97%E6%99%AE-%E9%80%81%E4%BC%8A%E6%9C%97%E5%9B%9E%E7%9F%B3%E5%99%A8%E6%99%82%E4%BB%A3-%E8%AB%96%E6%83%B9%E8%AD%B0-%E4%BC%8A%E6%9C%97%E7%B8%BD%E7%B5%B1-%E6%84%8F%E5%91%B3%E5%A4%A7%E8%A6%8F%E6%A8%A1%E6%88%B0%E7%88%AD%E7%BD%AA",
     "timestamp": "2026-04-03T17:22:39.854Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "大老山公路私家車與貨車相撞　貨車司機被困車內",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260404/1116890787561345024530496.jpeg/A9W6f2W7h-hd8wb02ONNxGIf3fHZJfixBzi_Ywc4v2M?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60337195/%E5%A4%A7%E8%80%81%E5%B1%B1%E5%85%AC%E8%B7%AF%E7%A7%81%E5%AE%B6%E8%BB%8A%E8%88%87%E8%B2%A8%E8%BB%8A%E7%9B%B8%E6%92%9E-%E8%B2%A8%E8%BB%8A%E5%8F%B8%E6%A9%9F%E8%A2%AB%E5%9B%B0%E8%BB%8A%E5%85%A7",
-    "timestamp": "2026-04-03T16:21:31.459Z",
     "strategy": ".content-card__main"
   }
 ];
