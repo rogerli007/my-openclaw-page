@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-04T16:35:48.719Z
+// Last updated: 2026-04-04T17:02:57.972Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "老夫婦昨晨大欖涌行山遇暴雨走散　八旬夫失蹤　救援人員連夜搜索",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260405/1117257057804750848159384.jpeg/AFmbkmgEY14KSJlWVpV9hzbKu-SNOMbgzG6K4sxuiuI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60337360/%E8%80%81%E5%A4%AB%E5%A9%A6%E6%98%A8%E6%99%A8%E5%A4%A7%E6%AC%96%E6%B6%8C%E8%A1%8C%E5%B1%B1%E9%81%87%E6%9A%B4%E9%9B%A8%E8%B5%B0%E6%95%A3-%E5%85%AB%E6%97%AC%E5%A4%AB%E5%A4%B1%E8%B9%A4-%E6%95%91%E6%8F%B4%E4%BA%BA%E5%93%A1%E9%80%A3%E5%A4%9C%E6%90%9C%E7%B4%A2",
+    "timestamp": "2026-04-04T17:02:57.972Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "老夫婦昨晨大欖涌行山遇暴雨走散　八旬夫失蹤　救援人員連夜搜索",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260403/1116803683057668096740628.jpeg/FOHvsQxtNWgf72oz4wTJ7bVStt067kcoUXoAkFF6AJA",
     "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60337138/%E4%B8%8A%E6%B5%B7%E4%BA%A4%E5%A4%A7%E5%AE%A3%E5%82%B3%E7%89%87%E7%A8%B1%E7%94%B7%E7%94%9F%E6%95%B2%E4%BB%A3%E7%A2%BC-%E5%A5%B3%E7%94%9F%E8%AE%8A%E5%AF%B6%E5%AA%BD-%E9%81%AD%E6%89%B9%E6%80%A7%E5%88%A5%E6%AD%A7%E8%A6%96",
     "timestamp": "2026-04-04T06:12:15.336Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "油麻地住所內女子遭男子持刀架頸　搶銀包現金　警列搶劫追緝",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260404/1117095206664015872076529.jpeg/R_vd-aDBJJC0adh42D1WhcwePlgXBwVzs8CrnbPAq50?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60337263/%E6%B2%B9%E9%BA%BB%E5%9C%B0%E4%BD%8F%E6%89%80%E5%85%A7%E5%A5%B3%E5%AD%90%E9%81%AD%E7%94%B7%E5%AD%90%E6%8C%81%E5%88%80%E6%9E%B6%E9%A0%B8-%E6%90%B6%E9%8A%80%E5%8C%85%E7%8F%BE%E9%87%91-%E8%AD%A6%E5%88%97%E6%90%B6%E5%8A%AB%E8%BF%BD%E7%B7%9D",
-    "timestamp": "2026-04-04T05:45:03.261Z",
     "strategy": ".content-card__main"
   }
 ];
