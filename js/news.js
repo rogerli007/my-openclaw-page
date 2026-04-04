@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-04T11:02:23.072Z
+// Last updated: 2026-04-04T11:19:53.529Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "8000萬六合彩頭獎｜復活節金多寶晚上9時半攪珠　投注額已逾1.3億",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260404/1117100519945670656439672.jpeg/SdeIMUARqbW5pyODfKalkPpk1VXsAL9OpopctbOKXLU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60337335/8000%E8%90%AC%E5%85%AD%E5%90%88%E5%BD%A9%E9%A0%AD%E7%8D%8E-%E5%BE%A9%E6%B4%BB%E7%AF%80%E9%87%91%E5%A4%9A%E5%AF%B6%E6%99%9A%E4%B8%8A9%E6%99%82%E5%8D%8A%E6%94%AA%E7%8F%A0-%E6%8A%95%E6%B3%A8%E9%A1%8D%E5%B7%B2%E9%80%BE1-3%E5%84%84",
+    "timestamp": "2026-04-04T11:19:53.529Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "復活節｜截至下午4時　入境處錄11萬內地客入境、42萬港人出境",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260404/1116932830769713152176408.jpeg/IxxTbMwECM6tPTBz4xY_KxsCEEqvgkEUJmVE5SZlROU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60337202/%E7%BE%8E%E5%AA%92-%E7%B9%BCf-15e%E6%88%B0%E6%A9%9F%E9%81%AD%E6%93%8A%E8%90%BD%E5%BE%8C-%E7%BE%8E%E5%9C%8B%E5%86%8D%E6%9C%89a-10%E6%88%B0%E6%A9%9F%E5%A2%9C%E6%AF%80",
     "timestamp": "2026-04-03T19:24:30.174Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "伊朗據報拒絕美國停火條件　多方斡旋中東停戰陷入僵局",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250417/989406414021595136526730.jpeg/SF-FuWuHg9qbWHx77eQOKNFX4po-mhi94eoH7uHqB-4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60337200/%E4%BC%8A%E6%9C%97%E6%93%9A%E5%A0%B1%E6%8B%92%E7%B5%95%E7%BE%8E%E5%9C%8B%E5%81%9C%E7%81%AB%E6%A2%9D%E4%BB%B6-%E5%A4%9A%E6%96%B9%E6%96%A1%E6%97%8B%E4%B8%AD%E6%9D%B1%E5%81%9C%E6%88%B0%E9%99%B7%E5%85%A5%E5%83%B5%E5%B1%80",
-    "timestamp": "2026-04-03T18:52:58.840Z",
     "strategy": ".content-card__main"
   }
 ];
