@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-04T14:50:01.988Z
+// Last updated: 2026-04-04T15:17:45.657Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "住一樓最害怕的事情發生了！貓貓引不速之客天天來　畫面超暖心",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260403/1116707700818841600236954.png/vEuGjIzYgSRtgR6JZQX0M_430AYbVJbbIIzOxiCMzsY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60335822/%E4%BD%8F%E4%B8%80%E6%A8%93%E6%9C%80%E5%AE%B3%E6%80%95%E7%9A%84%E4%BA%8B%E6%83%85%E7%99%BC%E7%94%9F%E4%BA%86-%E8%B2%93%E8%B2%93%E5%BC%95%E4%B8%8D%E9%80%9F%E4%B9%8B%E5%AE%A2%E5%A4%A9%E5%A4%A9%E4%BE%86-%E7%95%AB%E9%9D%A2%E8%B6%85%E6%9A%96%E5%BF%83",
+    "timestamp": "2026-04-04T15:17:45.657Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "蘇永康賀老婆50歲生日公開表白愛意　圈中好友到賀盡見人緣極佳",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250722/1024401353054621696345820.jpeg/ID3BSTzsQIB8_2Gaw64lCy8yDqL5F0OZif3QkIn90JA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%97%85%E9%81%8A/60259303/%E5%BB%A3%E5%B7%9E%E9%A3%B2%E8%8C%B6%E5%A5%BD%E5%8E%BB%E8%99%959%E5%80%8B-4-2%E9%BB%9E%E5%BF%83-%E6%8B%9B%E7%89%8C%E8%8A%8B%E6%B3%A5%E5%8C%85-%E4%B8%80%E9%96%93%E8%84%86%E7%9A%AE%E5%8F%89%E7%87%92%E5%BF%85%E5%90%83",
     "timestamp": "2026-04-03T23:53:57.696Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "大埔行山｜烏蛟騰郊遊徑接烏七古道　再登高峒探二戰機槍堡戰壕",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260403/1116774963018207232349721.jpeg/kKtI5BRHKAIm7tbSqfsoZJe4KO0Ryrvdkr0OApK9DgI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60331977/%E5%A4%A7%E5%9F%94%E8%A1%8C%E5%B1%B1-%E7%83%8F%E8%9B%9F%E9%A8%B0%E9%83%8A%E9%81%8A%E5%BE%91%E6%8E%A5%E7%83%8F%E4%B8%83%E5%8F%A4%E9%81%93-%E5%86%8D%E7%99%BB%E9%AB%98%E5%B3%92%E6%8E%A2%E4%BA%8C%E6%88%B0%E6%A9%9F%E6%A7%8D%E5%A0%A1%E6%88%B0%E5%A3%95",
-    "timestamp": "2026-04-03T23:24:19.509Z",
     "strategy": ".content-card__main"
   }
 ];
