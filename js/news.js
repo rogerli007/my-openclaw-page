@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-04T08:27:07.941Z
+// Last updated: 2026-04-04T10:39:09.900Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "HKIFF50｜王淨與泰星Win任亞洲大使　與袁澧林到大學分享拍攝經歷",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260404/1117072542020931584589712.jpeg/s5zjH08Sa_LD2QPsRCcPW-J3PKWdlG_7g4QAGoOEABo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60337247/hkiff50-%E7%8E%8B%E6%B7%A8%E8%88%87%E6%B3%B0%E6%98%9Fwin%E4%BB%BB%E4%BA%9E%E6%B4%B2%E5%A4%A7%E4%BD%BF-%E8%88%87%E8%A2%81%E6%BE%A7%E6%9E%97%E5%88%B0%E5%A4%A7%E5%AD%B8%E5%88%86%E4%BA%AB%E6%8B%8D%E6%94%9D%E7%B6%93%E6%AD%B7",
+    "timestamp": "2026-04-04T10:39:09.900Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "澀谷十字路口縱火案　中年漢自首　稱為「讓人知道日本現況」犯案",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250417/989406414021595136526730.jpeg/SF-FuWuHg9qbWHx77eQOKNFX4po-mhi94eoH7uHqB-4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60337200/%E4%BC%8A%E6%9C%97%E6%93%9A%E5%A0%B1%E6%8B%92%E7%B5%95%E7%BE%8E%E5%9C%8B%E5%81%9C%E7%81%AB%E6%A2%9D%E4%BB%B6-%E5%A4%9A%E6%96%B9%E6%96%A1%E6%97%8B%E4%B8%AD%E6%9D%B1%E5%81%9C%E6%88%B0%E9%99%B7%E5%85%A5%E5%83%B5%E5%B1%80",
     "timestamp": "2026-04-03T18:27:44.182Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普「送伊朗回石器時代」論惹議　伊朗總統：意味大規模戰爭罪",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260404/1116904014814908416682391.jpeg/PEpZZJ7wx8oTfDYc9M_rDUAJW9-ipCt4ciSQl3IkkJc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60337197/%E7%89%B9%E6%9C%97%E6%99%AE-%E9%80%81%E4%BC%8A%E6%9C%97%E5%9B%9E%E7%9F%B3%E5%99%A8%E6%99%82%E4%BB%A3-%E8%AB%96%E6%83%B9%E8%AD%B0-%E4%BC%8A%E6%9C%97%E7%B8%BD%E7%B5%B1-%E6%84%8F%E5%91%B3%E5%A4%A7%E8%A6%8F%E6%A8%A1%E6%88%B0%E7%88%AD%E7%BD%AA",
-    "timestamp": "2026-04-03T18:02:56.259Z",
     "strategy": ".content-card__main"
   }
 ];
