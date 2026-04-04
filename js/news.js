@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-04T11:36:16.629Z
+// Last updated: 2026-04-04T11:59:39.104Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "12星座把你放心上的表現　土象默默付出　風象頻繁分享根本藏不住",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250916/1044668025753571328450937.jpeg/spud6wzIG2NyfIpb_ec57tbuZNMSmGuTJulVUCbpVVA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%AB%87%E6%83%85%E8%AA%AA%E6%80%A7/60276997/12%E6%98%9F%E5%BA%A7%E6%8A%8A%E4%BD%A0%E6%94%BE%E5%BF%83%E4%B8%8A%E7%9A%84%E8%A1%A8%E7%8F%BE-%E5%9C%9F%E8%B1%A1%E9%BB%98%E9%BB%98%E4%BB%98%E5%87%BA-%E9%A2%A8%E8%B1%A1%E9%A0%BB%E7%B9%81%E5%88%86%E4%BA%AB%E6%A0%B9%E6%9C%AC%E8%97%8F%E4%B8%8D%E4%BD%8F",
+    "timestamp": "2026-04-04T11:59:39.104Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "正義女神｜「佘詩曼主題咖啡店」開幕？　忠粉佈置辦茶敍勁有心思",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260404/1116941818919915520458367.jpeg/TsupaWKpSBdSQOLg4M2DGl0sxInhdJgCaCCHJGgghyQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60337202/%E7%BE%8E%E5%AA%92-%E7%BE%8E%E8%BB%8Df-15e%E6%88%B0%E6%A9%9F%E9%81%AD%E4%BC%8A%E6%9C%97%E6%93%8A%E8%90%BD%E5%BE%8C-%E5%8F%A6%E4%B8%80a-10%E6%88%B0%E6%A9%9F%E5%90%8C%E6%99%82%E5%A2%9C%E6%AF%80",
     "timestamp": "2026-04-03T20:37:25.024Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美媒：美軍F-15E戰機遭伊朗擊落後　另一A-10戰機同時墜毀",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260404/1116941818919915520458367.jpeg/TsupaWKpSBdSQOLg4M2DGl0sxInhdJgCaCCHJGgghyQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60337202/%E7%BE%8E%E5%AA%92-%E7%BE%8E%E8%BB%8Df-15e%E6%88%B0%E6%A9%9F%E9%81%AD%E4%BC%8A%E6%9C%97%E6%93%8A%E8%90%BD%E5%BE%8C-%E5%8F%A6%E4%B8%80a-10%E6%88%B0%E6%A9%9F%E5%90%8C%E6%99%82%E5%A2%9C%E6%AF%80",
-    "timestamp": "2026-04-03T19:51:43.987Z",
     "strategy": ".content-card__main"
   }
 ];
