@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-04T11:19:53.529Z
+// Last updated: 2026-04-04T11:36:16.629Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "正義女神｜「佘詩曼主題咖啡店」開幕？　忠粉佈置辦茶敍勁有心思",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260404/1117171687071158272726390.jpeg/XEgYxXgmiTCJnz6_RPj2GEV2IxnPt6iX0yMEG9MjBBs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60337324/%E6%AD%A3%E7%BE%A9%E5%A5%B3%E7%A5%9E-%E4%BD%98%E8%A9%A9%E6%9B%BC%E4%B8%BB%E9%A1%8C%E5%92%96%E5%95%A1%E5%BA%97-%E9%96%8B%E5%B9%95-%E5%BF%A0%E7%B2%89%E4%BD%88%E7%BD%AE%E8%BE%A6%E8%8C%B6%E6%95%8D%E5%8B%81%E6%9C%89%E5%BF%83%E6%80%9D",
+    "timestamp": "2026-04-04T11:36:16.629Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "8000萬六合彩頭獎｜復活節金多寶晚上9時半攪珠　投注額已逾1.3億",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260404/1116941818919915520458367.jpeg/TsupaWKpSBdSQOLg4M2DGl0sxInhdJgCaCCHJGgghyQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60337202/%E7%BE%8E%E5%AA%92-%E7%BE%8E%E8%BB%8Df-15e%E6%88%B0%E6%A9%9F%E9%81%AD%E4%BC%8A%E6%9C%97%E6%93%8A%E8%90%BD%E5%BE%8C-%E5%8F%A6%E4%B8%80a-10%E6%88%B0%E6%A9%9F%E5%90%8C%E6%99%82%E5%A2%9C%E6%AF%80",
     "timestamp": "2026-04-03T19:51:43.987Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美媒：繼F－15E戰機遭擊落後　美國再有A－10戰機墜毀",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260404/1116932830769713152176408.jpeg/IxxTbMwECM6tPTBz4xY_KxsCEEqvgkEUJmVE5SZlROU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60337202/%E7%BE%8E%E5%AA%92-%E7%B9%BCf-15e%E6%88%B0%E6%A9%9F%E9%81%AD%E6%93%8A%E8%90%BD%E5%BE%8C-%E7%BE%8E%E5%9C%8B%E5%86%8D%E6%9C%89a-10%E6%88%B0%E6%A9%9F%E5%A2%9C%E6%AF%80",
-    "timestamp": "2026-04-03T19:24:30.174Z",
     "strategy": ".content-card__main"
   }
 ];
