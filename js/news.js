@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-04T15:52:45.003Z
+// Last updated: 2026-04-04T16:18:42.472Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "北大嶼公路貨車撼箭嘴車　幸無人傷　入機場交通稍為受阻",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260404/1117249228490412032467930.jpeg/0PS7eIt7-jB_pamKB6yuBNy8eG8_cot0Iaa30CGmt9A?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60337359/%E5%8C%97%E5%A4%A7%E5%B6%BC%E5%85%AC%E8%B7%AF%E8%B2%A8%E8%BB%8A%E6%92%BC%E7%AE%AD%E5%98%B4%E8%BB%8A-%E5%B9%B8%E7%84%A1%E4%BA%BA%E5%82%B7-%E5%85%A5%E6%A9%9F%E5%A0%B4%E4%BA%A4%E9%80%9A%E7%A8%8D%E7%82%BA%E5%8F%97%E9%98%BB",
+    "timestamp": "2026-04-04T16:18:42.472Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "中加金融工作組首次會議北京舉行　潘功勝晤商鵬飛討論經濟形勢等",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260404/1117054672322957312312574.jpeg/XXhnzpSCLWTOqtfUKAPSc7aqMJw7sc8u76HG7O-hxuw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60337235/%E7%95%B6%E5%8F%B0%E7%81%A3-%E7%8E%8B%E5%AD%90-%E9%80%83%E5%85%B5%E5%BD%B9-%E4%B8%B9%E9%BA%A5%E5%B9%B4%E5%83%8518%E6%AD%B2%E5%85%AC%E4%B8%BB%E6%AD%A5%E5%85%84%E9%95%B7%E5%BE%8C%E5%A1%B5%E5%BE%9E%E8%BB%8D",
     "timestamp": "2026-04-04T04:23:49.934Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "視察在校課後託管服務　李家超：喜見有成效　將研擴展計劃",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260404/1117047525270884352546918.png/yctCI0Euj-bh1CWnvtqmrJU5Y7-ZEHzjxH0jgsR9I4I?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60337233/%E8%A6%96%E5%AF%9F%E5%9C%A8%E6%A0%A1%E8%AA%B2%E5%BE%8C%E8%A8%97%E7%AE%A1%E6%9C%8D%E5%8B%99-%E6%9D%8E%E5%AE%B6%E8%B6%85-%E5%96%9C%E8%A6%8B%E6%9C%89%E6%88%90%E6%95%88-%E5%B0%87%E7%A0%94%E6%93%B4%E5%B1%95%E8%A8%88%E5%8A%83",
-    "timestamp": "2026-04-04T03:30:18.364Z",
     "strategy": ".content-card__main"
   }
 ];
