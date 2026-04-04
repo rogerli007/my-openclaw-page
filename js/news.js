@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-04T21:24:21.188Z
+// Last updated: 2026-04-04T22:15:55.236Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美國ICE稱逮捕蘇萊曼尼2親屬　伊媒：他女兒否認",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/47adced5d6ea56634c84f71f824df81c.jpg/UeoZF6msa9htOegXfD8DHA2aC_41K5tT3Rk4kt0ZOJI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60337370/%E7%BE%8E%E5%9C%8Bice%E7%A8%B1%E9%80%AE%E6%8D%95%E8%98%87%E8%90%8A%E6%9B%BC%E5%B0%BC2%E8%A6%AA%E5%B1%AC-%E4%BC%8A%E5%AA%92-%E4%BB%96%E5%A5%B3%E5%85%92%E5%90%A6%E8%AA%8D",
+    "timestamp": "2026-04-04T22:15:55.236Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "車路士7：0「血洗」維爾港　晉級英足盃4強",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260404/1117171687071158272726390.jpeg/XEgYxXgmiTCJnz6_RPj2GEV2IxnPt6iX0yMEG9MjBBs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60337324/%E6%AD%A3%E7%BE%A9%E5%A5%B3%E7%A5%9E-%E4%BD%98%E8%A9%A9%E6%9B%BC%E4%B8%BB%E9%A1%8C%E5%92%96%E5%95%A1%E5%BA%97-%E9%96%8B%E5%B9%95-%E5%BF%A0%E7%B2%89%E4%BD%88%E7%BD%AE%E8%BE%A6%E8%8C%B6%E6%95%8D%E5%8B%81%E6%9C%89%E5%BF%83%E6%80%9D",
     "timestamp": "2026-04-04T11:36:16.629Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "8000萬六合彩頭獎｜復活節金多寶晚上9時半攪珠　投注額已逾1.3億",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260404/1117100519945670656439672.jpeg/SdeIMUARqbW5pyODfKalkPpk1VXsAL9OpopctbOKXLU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60337335/8000%E8%90%AC%E5%85%AD%E5%90%88%E5%BD%A9%E9%A0%AD%E7%8D%8E-%E5%BE%A9%E6%B4%BB%E7%AF%80%E9%87%91%E5%A4%9A%E5%AF%B6%E6%99%9A%E4%B8%8A9%E6%99%82%E5%8D%8A%E6%94%AA%E7%8F%A0-%E6%8A%95%E6%B3%A8%E9%A1%8D%E5%B7%B2%E9%80%BE1-3%E5%84%84",
-    "timestamp": "2026-04-04T11:19:53.529Z",
     "strategy": ".content-card__main"
   }
 ];
