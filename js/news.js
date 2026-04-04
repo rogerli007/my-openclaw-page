@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-04T10:39:09.900Z
+// Last updated: 2026-04-04T11:02:23.072Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "復活節｜截至下午4時　入境處錄11萬內地客入境、42萬港人出境",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260404/1117059591222464512163948.jpeg/DbBLpQvNcBIYcj4h0nPqaifG8H5pk7cedewD9lDsA_Y?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60337318/%E5%BE%A9%E6%B4%BB%E7%AF%80-%E6%88%AA%E8%87%B3%E4%B8%8B%E5%8D%884%E6%99%82-%E5%85%A5%E5%A2%83%E8%99%95%E9%8C%8411%E8%90%AC%E5%85%A7%E5%9C%B0%E5%AE%A2%E5%85%A5%E5%A2%83-42%E8%90%AC%E6%B8%AF%E4%BA%BA%E5%87%BA%E5%A2%83",
+    "timestamp": "2026-04-04T11:02:23.072Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "HKIFF50｜王淨與泰星Win任亞洲大使　與袁澧林到大學分享拍攝經歷",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250417/989406414021595136526730.jpeg/SF-FuWuHg9qbWHx77eQOKNFX4po-mhi94eoH7uHqB-4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60337200/%E4%BC%8A%E6%9C%97%E6%93%9A%E5%A0%B1%E6%8B%92%E7%B5%95%E7%BE%8E%E5%9C%8B%E5%81%9C%E7%81%AB%E6%A2%9D%E4%BB%B6-%E5%A4%9A%E6%96%B9%E6%96%A1%E6%97%8B%E4%B8%AD%E6%9D%B1%E5%81%9C%E6%88%B0%E9%99%B7%E5%85%A5%E5%83%B5%E5%B1%80",
     "timestamp": "2026-04-03T18:52:58.840Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "伊朗據報拒絕美國停火條件　多方斡旋中東停戰陷入僵局",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250417/989406414021595136526730.jpeg/SF-FuWuHg9qbWHx77eQOKNFX4po-mhi94eoH7uHqB-4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60337200/%E4%BC%8A%E6%9C%97%E6%93%9A%E5%A0%B1%E6%8B%92%E7%B5%95%E7%BE%8E%E5%9C%8B%E5%81%9C%E7%81%AB%E6%A2%9D%E4%BB%B6-%E5%A4%9A%E6%96%B9%E6%96%A1%E6%97%8B%E4%B8%AD%E6%9D%B1%E5%81%9C%E6%88%B0%E9%99%B7%E5%85%A5%E5%83%B5%E5%B1%80",
-    "timestamp": "2026-04-03T18:27:44.182Z",
     "strategy": ".content-card__main"
   }
 ];
