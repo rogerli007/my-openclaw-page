@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-04T20:17:52.642Z
+// Last updated: 2026-04-04T20:35:25.329Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "車路士7：0「血洗」維爾港　晉級英足盃4強",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260405/1117307704868605952712850.jpeg/8ZTp2OaKmavtVECAcZDcKusOkhB1wD9bh_HqsYfx6rE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60337367/%E8%BB%8A%E8%B7%AF%E5%A3%AB7-0-%E8%A1%80%E6%B4%97-%E7%B6%AD%E7%88%BE%E6%B8%AF-%E6%99%89%E7%B4%9A%E8%8B%B1%E8%B6%B3%E7%9B%834%E5%BC%B7",
+    "timestamp": "2026-04-04T20:35:25.329Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "車路士7：0「血洗」維爾港　晉級英足盃4強",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260404/1117059591222464512163948.jpeg/DbBLpQvNcBIYcj4h0nPqaifG8H5pk7cedewD9lDsA_Y?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60337318/%E5%BE%A9%E6%B4%BB%E7%AF%80-%E6%88%AA%E8%87%B3%E4%B8%8B%E5%8D%884%E6%99%82-%E5%85%A5%E5%A2%83%E8%99%95%E9%8C%8411%E8%90%AC%E5%85%A7%E5%9C%B0%E5%AE%A2%E5%85%A5%E5%A2%83-42%E8%90%AC%E6%B8%AF%E4%BA%BA%E5%87%BA%E5%A2%83",
     "timestamp": "2026-04-04T11:02:23.072Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "HKIFF50｜王淨與泰星Win任亞洲大使　與袁澧林到大學分享拍攝經歷",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260404/1117072542020931584589712.jpeg/s5zjH08Sa_LD2QPsRCcPW-J3PKWdlG_7g4QAGoOEABo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60337247/hkiff50-%E7%8E%8B%E6%B7%A8%E8%88%87%E6%B3%B0%E6%98%9Fwin%E4%BB%BB%E4%BA%9E%E6%B4%B2%E5%A4%A7%E4%BD%BF-%E8%88%87%E8%A2%81%E6%BE%A7%E6%9E%97%E5%88%B0%E5%A4%A7%E5%AD%B8%E5%88%86%E4%BA%AB%E6%8B%8D%E6%94%9D%E7%B6%93%E6%AD%B7",
-    "timestamp": "2026-04-04T10:39:09.900Z",
     "strategy": ".content-card__main"
   }
 ];
