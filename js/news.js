@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-04T22:15:55.236Z
+// Last updated: 2026-04-04T22:32:53.073Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "特朗普發影片　宣稱「打死多名伊朗軍事領導人」",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260402/1116319331026735104621038.jpeg/NCXHK1K1XvP8hb4P31Svcom7GiOCZllkzV4ZL81eGS8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60337371/%E7%89%B9%E6%9C%97%E6%99%AE%E7%99%BC%E5%BD%B1%E7%89%87-%E5%AE%A3%E7%A8%B1-%E6%89%93%E6%AD%BB%E5%A4%9A%E5%90%8D%E4%BC%8A%E6%9C%97%E8%BB%8D%E4%BA%8B%E9%A0%98%E5%B0%8E%E4%BA%BA",
+    "timestamp": "2026-04-04T22:32:53.073Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美國ICE稱逮捕蘇萊曼尼2親屬　伊媒：他女兒否認",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250916/1044668025753571328450937.jpeg/spud6wzIG2NyfIpb_ec57tbuZNMSmGuTJulVUCbpVVA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%AB%87%E6%83%85%E8%AA%AA%E6%80%A7/60276997/12%E6%98%9F%E5%BA%A7%E6%8A%8A%E4%BD%A0%E6%94%BE%E5%BF%83%E4%B8%8A%E7%9A%84%E8%A1%A8%E7%8F%BE-%E5%9C%9F%E8%B1%A1%E9%BB%98%E9%BB%98%E4%BB%98%E5%87%BA-%E9%A2%A8%E8%B1%A1%E9%A0%BB%E7%B9%81%E5%88%86%E4%BA%AB%E6%A0%B9%E6%9C%AC%E8%97%8F%E4%B8%8D%E4%BD%8F",
     "timestamp": "2026-04-04T11:59:39.104Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "正義女神｜「佘詩曼主題咖啡店」開幕？　忠粉佈置辦茶敍勁有心思",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260404/1117171687071158272726390.jpeg/XEgYxXgmiTCJnz6_RPj2GEV2IxnPt6iX0yMEG9MjBBs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60337324/%E6%AD%A3%E7%BE%A9%E5%A5%B3%E7%A5%9E-%E4%BD%98%E8%A9%A9%E6%9B%BC%E4%B8%BB%E9%A1%8C%E5%92%96%E5%95%A1%E5%BA%97-%E9%96%8B%E5%B9%95-%E5%BF%A0%E7%B2%89%E4%BD%88%E7%BD%AE%E8%BE%A6%E8%8C%B6%E6%95%8D%E5%8B%81%E6%9C%89%E5%BF%83%E6%80%9D",
-    "timestamp": "2026-04-04T11:36:16.629Z",
     "strategy": ".content-card__main"
   }
 ];
