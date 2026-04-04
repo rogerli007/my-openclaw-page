@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-04T06:12:15.336Z
+// Last updated: 2026-04-04T06:43:03.706Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "潛入東涌酒樓撬櫃盜竊兼揸走兩車　警起回失車拘兩男賊",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260404/1117106246948753408317465.jpeg/1WWQZ53riWMH4BugUk0BFFkCyVGtlCQxx5zBzcecwc0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60337254/%E6%BD%9B%E5%85%A5%E6%9D%B1%E6%B6%8C%E9%85%92%E6%A8%93%E6%92%AC%E6%AB%83%E7%9B%9C%E7%AB%8A%E5%85%BC%E6%8F%B8%E8%B5%B0%E5%85%A9%E8%BB%8A-%E8%AD%A6%E8%B5%B7%E5%9B%9E%E5%A4%B1%E8%BB%8A%E6%8B%98%E5%85%A9%E7%94%B7%E8%B3%8A",
+    "timestamp": "2026-04-04T06:43:03.706Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "上海交大宣傳片稱男生敲代碼、女生變寶媽　遭批性別歧視",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260331/1115777246439673856391874.jpeg/FYB4a_-IKEQ99obd0EHK6hXgb3rPELEQLK3Q9Syt0PU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60337183/%E7%BE%8E%E5%9C%8B%E9%98%B2%E9%95%B7%E5%87%86%E8%BB%8D%E4%BA%BA%E6%94%9C%E7%A7%81%E4%BA%BA%E6%AD%A6%E5%99%A8%E9%80%B2%E5%9F%BA%E5%9C%B0-%E7%A8%B1%E5%9F%BA%E5%9C%B0%E4%B8%8D%E6%87%89%E6%88%90-%E7%84%A1%E6%A7%8D%E5%8D%80",
     "timestamp": "2026-04-03T15:56:16.120Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "翠屏北邨樓上單位冒煙　消防到場救火",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260403/1116876909859311616396780.png/Vt6nwcDqDzfxiREYY0g6vKx1eVm4mXUt7jSvXu40r14?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60337193/%E7%BF%A0%E5%B1%8F%E5%8C%97%E9%82%A8%E6%A8%93%E4%B8%8A%E5%96%AE%E4%BD%8D%E5%86%92%E7%85%99-%E6%B6%88%E9%98%B2%E5%88%B0%E5%A0%B4%E6%95%91%E7%81%AB",
-    "timestamp": "2026-04-03T15:34:55.415Z",
     "strategy": ".content-card__main"
   }
 ];
