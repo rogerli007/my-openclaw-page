@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-04T15:17:45.657Z
+// Last updated: 2026-04-04T15:52:45.003Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "中加金融工作組首次會議北京舉行　潘功勝晤商鵬飛討論經濟形勢等",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260404/1117226795968499712328104.jpeg/hU4Z2P0UsU47NDML4FX_MMQaWTxPDY82mB0dnJgdHZw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60337353/%E4%B8%AD%E5%8A%A0%E9%87%91%E8%9E%8D%E5%B7%A5%E4%BD%9C%E7%B5%84%E9%A6%96%E6%AC%A1%E6%9C%83%E8%AD%B0%E5%8C%97%E4%BA%AC%E8%88%89%E8%A1%8C-%E6%BD%98%E5%8A%9F%E5%8B%9D%E6%99%A4%E5%95%86%E9%B5%AC%E9%A3%9B%E8%A8%8E%E8%AB%96%E7%B6%93%E6%BF%9F%E5%BD%A2%E5%8B%A2%E7%AD%89",
+    "timestamp": "2026-04-04T15:52:45.003Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "住一樓最害怕的事情發生了！貓貓引不速之客天天來　畫面超暖心",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260404/1117047525270884352546918.png/yctCI0Euj-bh1CWnvtqmrJU5Y7-ZEHzjxH0jgsR9I4I?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60337233/%E8%A6%96%E5%AF%9F%E5%9C%A8%E6%A0%A1%E8%AA%B2%E5%BE%8C%E8%A8%97%E7%AE%A1%E6%9C%8D%E5%8B%99-%E6%9D%8E%E5%AE%B6%E8%B6%85-%E5%96%9C%E8%A6%8B%E6%9C%89%E6%88%90%E6%95%88-%E5%B0%87%E7%A0%94%E6%93%B4%E5%B1%95%E8%A8%88%E5%8A%83",
     "timestamp": "2026-04-04T03:30:18.364Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "廣州飲茶好去處9個｜¥4.2點心！招牌芋泥包　一間脆皮叉燒必吃",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250722/1024401353054621696345820.jpeg/ID3BSTzsQIB8_2Gaw64lCy8yDqL5F0OZif3QkIn90JA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%97%85%E9%81%8A/60259303/%E5%BB%A3%E5%B7%9E%E9%A3%B2%E8%8C%B6%E5%A5%BD%E5%8E%BB%E8%99%959%E5%80%8B-4-2%E9%BB%9E%E5%BF%83-%E6%8B%9B%E7%89%8C%E8%8A%8B%E6%B3%A5%E5%8C%85-%E4%B8%80%E9%96%93%E8%84%86%E7%9A%AE%E5%8F%89%E7%87%92%E5%BF%85%E5%90%83",
-    "timestamp": "2026-04-03T23:53:57.696Z",
     "strategy": ".content-card__main"
   }
 ];
