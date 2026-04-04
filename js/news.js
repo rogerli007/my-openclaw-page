@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-04T17:02:57.972Z
+// Last updated: 2026-04-04T17:38:08.778Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "特朗普：伊朗僅剩2天時間來達成協議",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260402/1116340499439947776261958.jpeg/Bj3UmGyD_-OQY1bCpU9MvycyVb_3gtZr1klY8NZJWPA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60337363/%E7%89%B9%E6%9C%97%E6%99%AE-%E4%BC%8A%E6%9C%97%E5%83%85%E5%89%A92%E5%A4%A9%E6%99%82%E9%96%93%E4%BE%86%E9%81%94%E6%88%90%E5%8D%94%E8%AD%B0",
+    "timestamp": "2026-04-04T17:38:08.778Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "老夫婦昨晨大欖涌行山遇暴雨走散　八旬夫失蹤　救援人員連夜搜索",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260404/1117106246948753408317465.jpeg/1WWQZ53riWMH4BugUk0BFFkCyVGtlCQxx5zBzcecwc0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60337254/%E6%BD%9B%E5%85%A5%E6%9D%B1%E6%B6%8C%E9%85%92%E6%A8%93%E6%92%AC%E6%AB%83%E7%9B%9C%E7%AB%8A%E5%85%BC%E6%8F%B8%E8%B5%B0%E5%85%A9%E8%BB%8A-%E8%AD%A6%E8%B5%B7%E5%9B%9E%E5%A4%B1%E8%BB%8A%E6%8B%98%E5%85%A9%E7%94%B7%E8%B3%8A",
     "timestamp": "2026-04-04T06:43:03.706Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "上海交大宣傳片稱男生敲代碼、女生變寶媽　遭批性別歧視",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260403/1116803683057668096740628.jpeg/FOHvsQxtNWgf72oz4wTJ7bVStt067kcoUXoAkFF6AJA",
-    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60337138/%E4%B8%8A%E6%B5%B7%E4%BA%A4%E5%A4%A7%E5%AE%A3%E5%82%B3%E7%89%87%E7%A8%B1%E7%94%B7%E7%94%9F%E6%95%B2%E4%BB%A3%E7%A2%BC-%E5%A5%B3%E7%94%9F%E8%AE%8A%E5%AF%B6%E5%AA%BD-%E9%81%AD%E6%89%B9%E6%80%A7%E5%88%A5%E6%AD%A7%E8%A6%96",
-    "timestamp": "2026-04-04T06:12:15.336Z",
     "strategy": ".content-card__main"
   }
 ];
