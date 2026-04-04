@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-04T20:35:25.329Z
+// Last updated: 2026-04-04T21:24:21.188Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "車路士7：0「血洗」維爾港　晉級英足盃4強",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260405/1117307704868605952712850.jpeg/8ZTp2OaKmavtVECAcZDcKusOkhB1wD9bh_HqsYfx6rE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60337367/%E8%BB%8A%E8%B7%AF%E5%A3%AB7-0-%E8%A1%80%E6%B4%97-%E7%B6%AD%E7%88%BE%E6%B8%AF-%E6%99%89%E7%B4%9A%E8%8B%B1%E8%B6%B3%E7%9B%834%E5%BC%B7",
+    "timestamp": "2026-04-04T21:24:21.188Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "車路士7：0「血洗」維爾港　晉級英足盃4強",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260404/1117100519945670656439672.jpeg/SdeIMUARqbW5pyODfKalkPpk1VXsAL9OpopctbOKXLU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60337335/8000%E8%90%AC%E5%85%AD%E5%90%88%E5%BD%A9%E9%A0%AD%E7%8D%8E-%E5%BE%A9%E6%B4%BB%E7%AF%80%E9%87%91%E5%A4%9A%E5%AF%B6%E6%99%9A%E4%B8%8A9%E6%99%82%E5%8D%8A%E6%94%AA%E7%8F%A0-%E6%8A%95%E6%B3%A8%E9%A1%8D%E5%B7%B2%E9%80%BE1-3%E5%84%84",
     "timestamp": "2026-04-04T11:19:53.529Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "復活節｜截至下午4時　入境處錄11萬內地客入境、42萬港人出境",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260404/1117059591222464512163948.jpeg/DbBLpQvNcBIYcj4h0nPqaifG8H5pk7cedewD9lDsA_Y?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60337318/%E5%BE%A9%E6%B4%BB%E7%AF%80-%E6%88%AA%E8%87%B3%E4%B8%8B%E5%8D%884%E6%99%82-%E5%85%A5%E5%A2%83%E8%99%95%E9%8C%8411%E8%90%AC%E5%85%A7%E5%9C%B0%E5%AE%A2%E5%85%A5%E5%A2%83-42%E8%90%AC%E6%B8%AF%E4%BA%BA%E5%87%BA%E5%A2%83",
-    "timestamp": "2026-04-04T11:02:23.072Z",
     "strategy": ".content-card__main"
   }
 ];
