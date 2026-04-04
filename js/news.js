@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-04T18:22:29.400Z
+// Last updated: 2026-04-04T18:53:27.459Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "伊朗革命衛隊：感謝山民擊中兩架美國「黑鷹」",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260302/1105172713166606336812659.jpeg/A7xQ19AcECuM6Fxs1JZ-_0_v7C7Ck29wGOYaABjmGgA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60337364/%E4%BC%8A%E6%9C%97%E9%9D%A9%E5%91%BD%E8%A1%9B%E9%9A%8A-%E6%84%9F%E8%AC%9D%E5%B1%B1%E6%B0%91%E6%93%8A%E4%B8%AD%E5%85%A9%E6%9E%B6%E7%BE%8E%E5%9C%8B-%E9%BB%91%E9%B7%B9",
+    "timestamp": "2026-04-04T18:53:27.459Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "伊朗革命衛隊：感謝山民擊中兩架美國「黑鷹」",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260404/1117123671345860608687049.jpeg/NxAFWoj6T3PqZnCqtUdPd9PABzzPByf48yIvKvMiLyo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60336231/%E4%BA%9E%E5%8D%9Acon-con-%E7%8F%BE%E5%A0%B4%E7%9B%B4%E6%93%8A-%E6%8E%92%E7%90%83%E5%B0%91%E5%B9%B4%E6%89%93%E5%8D%A1%E5%A0%B4-%E9%AB%98%E9%81%94%E9%9C%93%E8%99%B9%E7%87%88%E8%B6%85%E6%AD%A3%E5%BF%85%E5%BD%B1",
     "timestamp": "2026-04-04T07:40:11.862Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普公開模仿取笑施紀賢　英美關係因伊朗戰爭跌至新低｜有片",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260404/1117097359382155264681270.jpeg/wIEcrNTyWbHIkF0XaF59Xun0TW4wOZmiE62UexOtlHs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60337267/%E7%89%B9%E6%9C%97%E6%99%AE%E5%85%AC%E9%96%8B%E6%A8%A1%E4%BB%BF%E5%8F%96%E7%AC%91%E6%96%BD%E7%B4%80%E8%B3%A2-%E8%8B%B1%E7%BE%8E%E9%97%9C%E4%BF%82%E5%9B%A0%E4%BC%8A%E6%9C%97%E6%88%B0%E7%88%AD%E8%B7%8C%E8%87%B3%E6%96%B0%E4%BD%8E-%E6%9C%89%E7%89%87",
-    "timestamp": "2026-04-04T07:14:20.436Z",
     "strategy": ".content-card__main"
   }
 ];
