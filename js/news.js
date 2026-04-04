@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-03T23:53:57.696Z
+// Last updated: 2026-04-04T03:30:18.364Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "視察在校課後託管服務　李家超：喜見有成效　將研擴展計劃",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260404/1117047525270884352546918.png/yctCI0Euj-bh1CWnvtqmrJU5Y7-ZEHzjxH0jgsR9I4I?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60337233/%E8%A6%96%E5%AF%9F%E5%9C%A8%E6%A0%A1%E8%AA%B2%E5%BE%8C%E8%A8%97%E7%AE%A1%E6%9C%8D%E5%8B%99-%E6%9D%8E%E5%AE%B6%E8%B6%85-%E5%96%9C%E8%A6%8B%E6%9C%89%E6%88%90%E6%95%88-%E5%B0%87%E7%A0%94%E6%93%B4%E5%B1%95%E8%A8%88%E5%8A%83",
+    "timestamp": "2026-04-04T03:30:18.364Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "廣州飲茶好去處9個｜¥4.2點心！招牌芋泥包　一間脆皮叉燒必吃",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260403/1116707609143939072256109.jpeg/DQ7gblnTnrSeU9eER-PZokG_7Yt_e4Jx8Yu9g_GLvYM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60337020/%E9%BA%8B%E5%85%88%E7%94%9F%E5%BD%88beyond%E5%AE%B6%E9%A7%92%E7%B5%90%E4%BB%96%E9%A9%9A%E8%A6%8B90%E8%90%AC%E6%A8%99%E5%83%B9-%E6%9C%9D%E8%81%96%E6%90%96%E6%BB%BE%E5%9C%B0%E6%A8%99%E5%98%86%E8%A6%81%E8%A2%AB%E6%B8%85%E6%8B%86",
     "timestamp": "2026-04-03T13:37:57.753Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "珍惜生命｜淘大花園男子墮樓　當場不治",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250725/1025379340348559360037426.jpeg/1B5ZmS3fGGK3xd_kuleQ9wrqHI8RoyqcEeOFjBHjhYw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60337170/%E7%8F%8D%E6%83%9C%E7%94%9F%E5%91%BD-%E6%B7%98%E5%A4%A7%E8%8A%B1%E5%9C%92%E7%94%B7%E5%AD%90%E5%A2%AE%E6%A8%93-%E7%95%B6%E5%A0%B4%E4%B8%8D%E6%B2%BB",
-    "timestamp": "2026-04-03T11:52:01.698Z",
     "strategy": ".content-card__main"
   }
 ];
