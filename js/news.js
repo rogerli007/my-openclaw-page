@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-04T07:40:11.862Z
+// Last updated: 2026-04-04T08:27:07.941Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "澀谷十字路口縱火案　中年漢自首　稱為「讓人知道日本現況」犯案",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260404/1117121849650581504815942.jpeg/zR76lw-FjrOofIkB-fx9MiPRS42lQNS23waf7t8Gn-4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60337284/%E6%BE%80%E8%B0%B7%E5%8D%81%E5%AD%97%E8%B7%AF%E5%8F%A3%E7%B8%B1%E7%81%AB%E6%A1%88-%E4%B8%AD%E5%B9%B4%E6%BC%A2%E8%87%AA%E9%A6%96-%E7%A8%B1%E7%82%BA-%E8%AE%93%E4%BA%BA%E7%9F%A5%E9%81%93%E6%97%A5%E6%9C%AC%E7%8F%BE%E6%B3%81-%E7%8A%AF%E6%A1%88",
+    "timestamp": "2026-04-04T08:27:07.941Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "亞博CON-CON 現場直擊｜排球少年打卡場、高達霓虹燈超正必影",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260404/1116904014814908416682391.jpeg/PEpZZJ7wx8oTfDYc9M_rDUAJW9-ipCt4ciSQl3IkkJc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60337197/%E7%89%B9%E6%9C%97%E6%99%AE-%E9%80%81%E4%BC%8A%E6%9C%97%E5%9B%9E%E7%9F%B3%E5%99%A8%E6%99%82%E4%BB%A3-%E8%AB%96%E6%83%B9%E8%AD%B0-%E4%BC%8A%E6%9C%97%E7%B8%BD%E7%B5%B1-%E6%84%8F%E5%91%B3%E5%A4%A7%E8%A6%8F%E6%A8%A1%E6%88%B0%E7%88%AD%E7%BD%AA",
     "timestamp": "2026-04-03T18:02:56.259Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普「送伊朗回石器時代」論惹議　伊朗總統：意味大規模戰爭罪",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260404/1116904014814908416682391.jpeg/PEpZZJ7wx8oTfDYc9M_rDUAJW9-ipCt4ciSQl3IkkJc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60337197/%E7%89%B9%E6%9C%97%E6%99%AE-%E9%80%81%E4%BC%8A%E6%9C%97%E5%9B%9E%E7%9F%B3%E5%99%A8%E6%99%82%E4%BB%A3-%E8%AB%96%E6%83%B9%E8%AD%B0-%E4%BC%8A%E6%9C%97%E7%B8%BD%E7%B5%B1-%E6%84%8F%E5%91%B3%E5%A4%A7%E8%A6%8F%E6%A8%A1%E6%88%B0%E7%88%AD%E7%BD%AA",
-    "timestamp": "2026-04-03T17:22:39.854Z",
     "strategy": ".content-card__main"
   }
 ];
