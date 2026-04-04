@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-04T23:17:42.166Z
+// Last updated: 2026-04-04T23:35:16.842Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "恐怖車禍‧有片│好媽媽駕電單車遭貨車輾碎慘死　女兒目擊崩潰痛哭",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260401/1116102062749257728481902.jpeg/CZqlHeJWOWMh6AyiMx_-wCnzJjVEr6bO6KV7w-ile8M",
+    "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E8%A9%B1%E9%A1%8C/60336476/%E6%81%90%E6%80%96%E8%BB%8A%E7%A6%8D-%E6%9C%89%E7%89%87-%E5%A5%BD%E5%AA%BD%E5%AA%BD%E9%A7%95%E9%9B%BB%E5%96%AE%E8%BB%8A%E9%81%AD%E8%B2%A8%E8%BB%8A%E8%BC%BE%E7%A2%8E%E6%85%98%E6%AD%BB-%E5%A5%B3%E5%85%92%E7%9B%AE%E6%93%8A%E5%B4%A9%E6%BD%B0%E7%97%9B%E5%93%AD",
+    "timestamp": "2026-04-04T23:35:16.842Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "恐怖車禍‧有片│好媽媽駕電單車遭貨車輾碎慘死　女兒目擊崩潰痛哭",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260404/1117114555911114752203574.jpeg/x61uLZH9sPxX41GDn2FtYDXeL7PcmUTFUWRblFFkW5Q?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60337270/%E4%B9%98%E9%A2%A82026-33%E4%BD%8D%E5%A7%90%E5%A7%90%E9%A6%96%E8%BC%AA%E6%8A%95%E7%A5%A8%E5%89%8D10%E5%90%8D%E5%96%AE%E6%9B%9D%E5%85%89-%E9%99%B3%E5%87%B1%E7%90%B3%E6%8E%92%E5%90%8D%E4%BB%A4%E4%BA%BA%E6%84%8F%E5%A4%96",
     "timestamp": "2026-04-04T12:53:55.962Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "正義女神｜佘詩曼無私教劉倬昕演技：緊張佢嘅演出多過自己",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260404/1117178428496285696180924.jpeg/rOU1tNrCo4hHXHpXBd8yjNw-F4ybze8Go3Hk_aNx5P0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60337331/%E6%AD%A3%E7%BE%A9%E5%A5%B3%E7%A5%9E-%E4%BD%98%E8%A9%A9%E6%9B%BC%E7%84%A1%E7%A7%81%E6%95%99%E5%8A%89%E5%80%AC%E6%98%95%E6%BC%94%E6%8A%80-%E7%B7%8A%E5%BC%B5%E4%BD%A2%E5%98%85%E6%BC%94%E5%87%BA%E5%A4%9A%E9%81%8E%E8%87%AA%E5%B7%B1",
-    "timestamp": "2026-04-04T12:23:54.592Z",
     "strategy": ".content-card__main"
   }
 ];
