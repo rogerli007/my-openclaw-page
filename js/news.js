@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-04T13:32:39.534Z
+// Last updated: 2026-04-04T13:57:14.973Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "警一連七日觀塘掃黃　拘14名內地女　3廈檢宣傳賣淫標誌",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260404/1117214456267411456082697.jpeg/r4L6zQl2chnXrZgyq9KQ8TOk-yRUYADwStNJU0rTSVM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60337349/%E8%AD%A6%E4%B8%80%E9%80%A3%E4%B8%83%E6%97%A5%E8%A7%80%E5%A1%98%E6%8E%83%E9%BB%83-%E6%8B%9814%E5%90%8D%E5%85%A7%E5%9C%B0%E5%A5%B3-3%E5%BB%88%E6%AA%A2%E5%AE%A3%E5%82%B3%E8%B3%A3%E6%B7%AB%E6%A8%99%E8%AA%8C",
+    "timestamp": "2026-04-04T13:57:14.973Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "涉行李藏$290萬海洛英　大馬抵港20歲男遭海關拘控　下周一提堂",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260403/1116754738826711040501362.png/7TD5Q6i8EG_SHSvq0zH-DiP-V1-loGQN6iO62eojutk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E8%A9%B1%E9%A1%8C/60335847/%E6%97%A5%E6%9C%AC%E5%B0%8F%E5%AD%B834%E6%AD%B2%E7%94%B7%E6%95%99%E5%B8%AB%E8%88%8724%E6%AD%B2%E5%A5%B3%E6%95%99%E5%B8%AB%E6%A0%A1%E5%85%A7%E7%99%BC%E7%94%9F%E6%80%A7%E8%A1%8C%E7%82%BA-%E5%89%AF%E6%A0%A1%E9%95%B7%E8%81%9E%E8%81%B2%E6%92%9E%E7%A0%B4",
     "timestamp": "2026-04-03T22:36:10.962Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "伊朗戰爭｜阿聯酋攔截飛行物　碎片墜落引設施起火至少1死多傷",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260404/1116974250691923968864732.jpeg/2-bJh1RQq-VMQT05Wqn9-sOynCgQBNEMMV9JpjFfSaY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60337204/%E4%BC%8A%E6%9C%97%E6%88%B0%E7%88%AD-%E9%98%BF%E8%81%AF%E9%85%8B%E6%94%94%E6%88%AA%E9%A3%9B%E8%A1%8C%E7%89%A9-%E7%A2%8E%E7%89%87%E5%A2%9C%E8%90%BD%E5%BC%95%E8%A8%AD%E6%96%BD%E8%B5%B7%E7%81%AB%E8%87%B3%E5%B0%911%E6%AD%BB%E5%A4%9A%E5%82%B7",
-    "timestamp": "2026-04-03T21:50:25.847Z",
     "strategy": ".content-card__main"
   }
 ];
