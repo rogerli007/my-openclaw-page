@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-04T12:23:54.592Z
+// Last updated: 2026-04-04T12:53:55.962Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "乘風2026｜33位姐姐首輪投票前10名單曝光　陳凱琳排名令人意外",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260404/1117114555911114752203574.jpeg/x61uLZH9sPxX41GDn2FtYDXeL7PcmUTFUWRblFFkW5Q?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60337270/%E4%B9%98%E9%A2%A82026-33%E4%BD%8D%E5%A7%90%E5%A7%90%E9%A6%96%E8%BC%AA%E6%8A%95%E7%A5%A8%E5%89%8D10%E5%90%8D%E5%96%AE%E6%9B%9D%E5%85%89-%E9%99%B3%E5%87%B1%E7%90%B3%E6%8E%92%E5%90%8D%E4%BB%A4%E4%BA%BA%E6%84%8F%E5%A4%96",
+    "timestamp": "2026-04-04T12:53:55.962Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "正義女神｜佘詩曼無私教劉倬昕演技：緊張佢嘅演出多過自己",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260404/1116964528114896896178946.jpeg/5P5mAcXh9O6notRLHIDQIp29tD78hY7BQeLqL0Hi6i8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60337203/%E8%AD%A6%E5%BE%A9%E6%B4%BB%E7%AF%80%E4%B8%80%E9%80%A32%E6%97%A5%E5%9F%B7%E6%B3%95-2%E7%94%B7%E9%90%B5%E9%A8%8E%E5%A3%AB%E5%B7%A6%E7%A9%BF%E5%8F%B3%E6%8F%92-%E6%B6%89%E9%9D%9E%E6%B3%95%E8%B3%BD%E8%BB%8A%E7%AD%893%E7%BD%AA%E8%A2%AB%E6%8D%95",
     "timestamp": "2026-04-03T21:21:12.017Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美媒：美軍F－15E戰機遭伊朗擊落後　另一A－10戰機同時墜毀",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260404/1116941818919915520458367.jpeg/TsupaWKpSBdSQOLg4M2DGl0sxInhdJgCaCCHJGgghyQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60337202/%E7%BE%8E%E5%AA%92-%E7%BE%8E%E8%BB%8Df-15e%E6%88%B0%E6%A9%9F%E9%81%AD%E4%BC%8A%E6%9C%97%E6%93%8A%E8%90%BD%E5%BE%8C-%E5%8F%A6%E4%B8%80a-10%E6%88%B0%E6%A9%9F%E5%90%8C%E6%99%82%E5%A2%9C%E6%AF%80",
-    "timestamp": "2026-04-03T21:04:00.951Z",
     "strategy": ".content-card__main"
   }
 ];
