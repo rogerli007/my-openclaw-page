@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-04T04:23:49.934Z
+// Last updated: 2026-04-04T05:45:03.261Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "油麻地住所內女子遭男子持刀架頸　搶銀包現金　警列搶劫追緝",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260404/1117095206664015872076529.jpeg/R_vd-aDBJJC0adh42D1WhcwePlgXBwVzs8CrnbPAq50?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60337263/%E6%B2%B9%E9%BA%BB%E5%9C%B0%E4%BD%8F%E6%89%80%E5%85%A7%E5%A5%B3%E5%AD%90%E9%81%AD%E7%94%B7%E5%AD%90%E6%8C%81%E5%88%80%E6%9E%B6%E9%A0%B8-%E6%90%B6%E9%8A%80%E5%8C%85%E7%8F%BE%E9%87%91-%E8%AD%A6%E5%88%97%E6%90%B6%E5%8A%AB%E8%BF%BD%E7%B7%9D",
+    "timestamp": "2026-04-04T05:45:03.261Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "當台灣「王子」逃兵役　丹麥年僅18歲公主步兄長後塵從軍",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/246862/org/192aea6f8f755697acfb55b6a2648f1e.jpg/AN7_cMaewSSOKhwlYqN-kjnnX-HliusVeF3Dm3hdw5s?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60337188/%E5%85%83%E6%9C%97%E9%8C%A6%E7%B6%89%E8%8A%B1%E5%9C%926%E5%80%8B%E6%9C%88%E5%A4%A7%E5%A5%B3%E5%AC%B0%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2%E4%BA%A1-%E8%AD%A6%E6%8B%9838%E6%AD%B2%E5%8D%B0%E5%82%AD%E4%BA%A4%E9%87%8D%E6%A1%88%E7%B5%84%E8%AA%BF%E6%9F%A5",
     "timestamp": "2026-04-03T15:07:46.910Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "東京澀谷十字路口突遭縱火　男子倒可燃液體後點火引起混亂｜有片",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260403/1116856284050624512483965.png/ElGeYd70zRR1LR_XmC_fZh7lA85X-gvWt8K9tbfCvbU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60337181/%E6%9D%B1%E4%BA%AC%E6%BE%80%E8%B0%B7%E5%8D%81%E5%AD%97%E8%B7%AF%E5%8F%A3%E7%AA%81%E9%81%AD%E7%B8%B1%E7%81%AB-%E7%94%B7%E5%AD%90%E5%80%92%E5%8F%AF%E7%87%83%E6%B6%B2%E9%AB%94%E5%BE%8C%E9%BB%9E%E7%81%AB%E5%BC%95%E8%B5%B7%E6%B7%B7%E4%BA%82-%E6%9C%89%E7%89%87",
-    "timestamp": "2026-04-03T14:10:35.710Z",
     "strategy": ".content-card__main"
   }
 ];
