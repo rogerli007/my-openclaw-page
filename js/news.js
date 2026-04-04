@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-04T03:30:18.364Z
+// Last updated: 2026-04-04T04:23:49.934Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "當台灣「王子」逃兵役　丹麥年僅18歲公主步兄長後塵從軍",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260404/1117054672322957312312574.jpeg/XXhnzpSCLWTOqtfUKAPSc7aqMJw7sc8u76HG7O-hxuw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60337235/%E7%95%B6%E5%8F%B0%E7%81%A3-%E7%8E%8B%E5%AD%90-%E9%80%83%E5%85%B5%E5%BD%B9-%E4%B8%B9%E9%BA%A5%E5%B9%B4%E5%83%8518%E6%AD%B2%E5%85%AC%E4%B8%BB%E6%AD%A5%E5%85%84%E9%95%B7%E5%BE%8C%E5%A1%B5%E5%BE%9E%E8%BB%8D",
+    "timestamp": "2026-04-04T04:23:49.934Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "視察在校課後託管服務　李家超：喜見有成效　將研擴展計劃",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260403/1116856284050624512483965.png/ElGeYd70zRR1LR_XmC_fZh7lA85X-gvWt8K9tbfCvbU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60337181/%E6%9D%B1%E4%BA%AC%E6%BE%80%E8%B0%B7%E5%8D%81%E5%AD%97%E8%B7%AF%E5%8F%A3%E7%AA%81%E9%81%AD%E7%B8%B1%E7%81%AB-%E7%94%B7%E5%AD%90%E5%80%92%E5%8F%AF%E7%87%83%E6%B6%B2%E9%AB%94%E5%BE%8C%E9%BB%9E%E7%81%AB%E5%BC%95%E8%B5%B7%E6%B7%B7%E4%BA%82-%E6%9C%89%E7%89%87",
     "timestamp": "2026-04-03T14:10:35.710Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "麋先生彈Beyond家駒結他驚見90萬標價　朝聖搖滾地標嘆要被清拆",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260403/1116707609143939072256109.jpeg/DQ7gblnTnrSeU9eER-PZokG_7Yt_e4Jx8Yu9g_GLvYM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60337020/%E9%BA%8B%E5%85%88%E7%94%9F%E5%BD%88beyond%E5%AE%B6%E9%A7%92%E7%B5%90%E4%BB%96%E9%A9%9A%E8%A6%8B90%E8%90%AC%E6%A8%99%E5%83%B9-%E6%9C%9D%E8%81%96%E6%90%96%E6%BB%BE%E5%9C%B0%E6%A8%99%E5%98%86%E8%A6%81%E8%A2%AB%E6%B8%85%E6%8B%86",
-    "timestamp": "2026-04-03T13:37:57.753Z",
     "strategy": ".content-card__main"
   }
 ];
