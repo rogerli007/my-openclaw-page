@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-04T06:43:03.706Z
+// Last updated: 2026-04-04T07:14:20.436Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "特朗普公開模仿取笑施紀賢　英美關係因伊朗戰爭跌至新低｜有片",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260404/1117097359382155264681270.jpeg/wIEcrNTyWbHIkF0XaF59Xun0TW4wOZmiE62UexOtlHs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60337267/%E7%89%B9%E6%9C%97%E6%99%AE%E5%85%AC%E9%96%8B%E6%A8%A1%E4%BB%BF%E5%8F%96%E7%AC%91%E6%96%BD%E7%B4%80%E8%B3%A2-%E8%8B%B1%E7%BE%8E%E9%97%9C%E4%BF%82%E5%9B%A0%E4%BC%8A%E6%9C%97%E6%88%B0%E7%88%AD%E8%B7%8C%E8%87%B3%E6%96%B0%E4%BD%8E-%E6%9C%89%E7%89%87",
+    "timestamp": "2026-04-04T07:14:20.436Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "潛入東涌酒樓撬櫃盜竊兼揸走兩車　警起回失車拘兩男賊",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260404/1116890787561345024530496.jpeg/A9W6f2W7h-hd8wb02ONNxGIf3fHZJfixBzi_Ywc4v2M?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60337195/%E5%A4%A7%E8%80%81%E5%B1%B1%E5%85%AC%E8%B7%AF%E7%A7%81%E5%AE%B6%E8%BB%8A%E8%88%87%E8%B2%A8%E8%BB%8A%E7%9B%B8%E6%92%9E-%E8%B2%A8%E8%BB%8A%E5%8F%B8%E6%A9%9F%E8%A2%AB%E5%9B%B0%E8%BB%8A%E5%85%A7",
     "timestamp": "2026-04-03T16:21:31.459Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美國防長准軍人攜私人武器進基地　稱基地不應成「無槍區」",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260331/1115777246439673856391874.jpeg/FYB4a_-IKEQ99obd0EHK6hXgb3rPELEQLK3Q9Syt0PU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60337183/%E7%BE%8E%E5%9C%8B%E9%98%B2%E9%95%B7%E5%87%86%E8%BB%8D%E4%BA%BA%E6%94%9C%E7%A7%81%E4%BA%BA%E6%AD%A6%E5%99%A8%E9%80%B2%E5%9F%BA%E5%9C%B0-%E7%A8%B1%E5%9F%BA%E5%9C%B0%E4%B8%8D%E6%87%89%E6%88%90-%E7%84%A1%E6%A7%8D%E5%8D%80",
-    "timestamp": "2026-04-03T15:56:16.120Z",
     "strategy": ".content-card__main"
   }
 ];
