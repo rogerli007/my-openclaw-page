@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-04T18:53:27.459Z
+// Last updated: 2026-04-04T20:01:16.657Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "車路士7：0「血洗」維爾港　晉級英足盃4強",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260405/1117307704868605952712850.jpeg/8ZTp2OaKmavtVECAcZDcKusOkhB1wD9bh_HqsYfx6rE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60337367/%E8%BB%8A%E8%B7%AF%E5%A3%AB7-0-%E8%A1%80%E6%B4%97-%E7%B6%AD%E7%88%BE%E6%B8%AF-%E6%99%89%E7%B4%9A%E8%8B%B1%E8%B6%B3%E7%9B%834%E5%BC%B7",
+    "timestamp": "2026-04-04T20:01:16.657Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "伊朗革命衛隊：感謝山民擊中兩架美國「黑鷹」",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260404/1117121849650581504815942.jpeg/zR76lw-FjrOofIkB-fx9MiPRS42lQNS23waf7t8Gn-4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60337284/%E6%BE%80%E8%B0%B7%E5%8D%81%E5%AD%97%E8%B7%AF%E5%8F%A3%E7%B8%B1%E7%81%AB%E6%A1%88-%E4%B8%AD%E5%B9%B4%E6%BC%A2%E8%87%AA%E9%A6%96-%E7%A8%B1%E7%82%BA-%E8%AE%93%E4%BA%BA%E7%9F%A5%E9%81%93%E6%97%A5%E6%9C%AC%E7%8F%BE%E6%B3%81-%E7%8A%AF%E6%A1%88",
     "timestamp": "2026-04-04T08:27:07.941Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "亞博CON-CON 現場直擊｜排球少年打卡場、高達霓虹燈超正必影",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260404/1117123671345860608687049.jpeg/NxAFWoj6T3PqZnCqtUdPd9PABzzPByf48yIvKvMiLyo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60336231/%E4%BA%9E%E5%8D%9Acon-con-%E7%8F%BE%E5%A0%B4%E7%9B%B4%E6%93%8A-%E6%8E%92%E7%90%83%E5%B0%91%E5%B9%B4%E6%89%93%E5%8D%A1%E5%A0%B4-%E9%AB%98%E9%81%94%E9%9C%93%E8%99%B9%E7%87%88%E8%B6%85%E6%AD%A3%E5%BF%85%E5%BD%B1",
-    "timestamp": "2026-04-04T07:40:11.862Z",
     "strategy": ".content-card__main"
   }
 ];
