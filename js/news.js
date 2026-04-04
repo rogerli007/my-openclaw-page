@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-04T20:01:16.657Z
+// Last updated: 2026-04-04T20:17:52.642Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "車路士7：0「血洗」維爾港　晉級英足盃4強",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260405/1117307704868605952712850.jpeg/8ZTp2OaKmavtVECAcZDcKusOkhB1wD9bh_HqsYfx6rE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60337367/%E8%BB%8A%E8%B7%AF%E5%A3%AB7-0-%E8%A1%80%E6%B4%97-%E7%B6%AD%E7%88%BE%E6%B8%AF-%E6%99%89%E7%B4%9A%E8%8B%B1%E8%B6%B3%E7%9B%834%E5%BC%B7",
+    "timestamp": "2026-04-04T20:17:52.642Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "車路士7：0「血洗」維爾港　晉級英足盃4強",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260404/1117072542020931584589712.jpeg/s5zjH08Sa_LD2QPsRCcPW-J3PKWdlG_7g4QAGoOEABo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60337247/hkiff50-%E7%8E%8B%E6%B7%A8%E8%88%87%E6%B3%B0%E6%98%9Fwin%E4%BB%BB%E4%BA%9E%E6%B4%B2%E5%A4%A7%E4%BD%BF-%E8%88%87%E8%A2%81%E6%BE%A7%E6%9E%97%E5%88%B0%E5%A4%A7%E5%AD%B8%E5%88%86%E4%BA%AB%E6%8B%8D%E6%94%9D%E7%B6%93%E6%AD%B7",
     "timestamp": "2026-04-04T10:39:09.900Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "澀谷十字路口縱火案　中年漢自首　稱為「讓人知道日本現況」犯案",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260404/1117121849650581504815942.jpeg/zR76lw-FjrOofIkB-fx9MiPRS42lQNS23waf7t8Gn-4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60337284/%E6%BE%80%E8%B0%B7%E5%8D%81%E5%AD%97%E8%B7%AF%E5%8F%A3%E7%B8%B1%E7%81%AB%E6%A1%88-%E4%B8%AD%E5%B9%B4%E6%BC%A2%E8%87%AA%E9%A6%96-%E7%A8%B1%E7%82%BA-%E8%AE%93%E4%BA%BA%E7%9F%A5%E9%81%93%E6%97%A5%E6%9C%AC%E7%8F%BE%E6%B3%81-%E7%8A%AF%E6%A1%88",
-    "timestamp": "2026-04-04T08:27:07.941Z",
     "strategy": ".content-card__main"
   }
 ];
