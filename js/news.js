@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-05T00:00:29.342Z
+// Last updated: 2026-04-05T01:43:52.145Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "台灣地震｜台灣花蓮凌晨發生5.7級及4.8級地震　全台有震感",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260405/1117394341195681792914857.png/L51GHES51UUI_9q6W18Oz-X8ttAH0Y7nq6zuiqus7oo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8F%B0%E7%81%A3%E6%96%B0%E8%81%9E/60337383/%E5%8F%B0%E7%81%A3%E5%9C%B0%E9%9C%87-%E5%8F%B0%E7%81%A3%E8%8A%B1%E8%93%AE%E5%87%8C%E6%99%A8%E7%99%BC%E7%94%9F5-7%E7%B4%9A%E5%8F%8A4-8%E7%B4%9A%E5%9C%B0%E9%9C%87-%E5%85%A8%E5%8F%B0%E6%9C%89%E9%9C%87%E6%84%9F",
+    "timestamp": "2026-04-05T01:43:52.145Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美國路易斯安那州一汽車衝入人群　至少15傷",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260404/1117214456267411456082697.jpeg/r4L6zQl2chnXrZgyq9KQ8TOk-yRUYADwStNJU0rTSVM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60337349/%E8%AD%A6%E4%B8%80%E9%80%A3%E4%B8%83%E6%97%A5%E8%A7%80%E5%A1%98%E6%8E%83%E9%BB%83-%E6%8B%9814%E5%90%8D%E5%85%A7%E5%9C%B0%E5%A5%B3-3%E5%BB%88%E6%AA%A2%E5%AE%A3%E5%82%B3%E8%B3%A3%E6%B7%AB%E6%A8%99%E8%AA%8C",
     "timestamp": "2026-04-04T13:57:14.973Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "涉行李藏$290萬海洛英　大馬抵港20歲男遭海關拘控　下周一提堂",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260404/1117207088087437312248670.jpeg/ixfJpVT__yh3nk1lQQLL6t98XqMDMp9LPwjGeD8Ixng?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60337347/%E6%B6%89%E8%A1%8C%E6%9D%8E%E8%97%8F-290%E8%90%AC%E6%B5%B7%E6%B4%9B%E8%8B%B1-%E5%A4%A7%E9%A6%AC%E6%8A%B5%E6%B8%AF20%E6%AD%B2%E7%94%B7%E9%81%AD%E6%B5%B7%E9%97%9C%E6%8B%98%E6%8E%A7-%E4%B8%8B%E5%91%A8%E4%B8%80%E6%8F%90%E5%A0%82",
-    "timestamp": "2026-04-04T13:32:39.534Z",
     "strategy": ".content-card__main"
   }
 ];
