@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-05T14:24:08.551Z
+// Last updated: 2026-04-05T14:51:01.221Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "權發小廚觀塘工場凍肉擺走廊傳惡臭　租戶不滿　老闆誠懇登門磋商",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260405/1117589844269207552701942.jpeg/J5VOS2RCyG6jyuAGa4EQhsVzYUHpOf0BBwdpywcHacs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60337524/%E6%AC%8A%E7%99%BC%E5%B0%8F%E5%BB%9A%E8%A7%80%E5%A1%98%E5%B7%A5%E5%A0%B4%E5%87%8D%E8%82%89%E6%93%BA%E8%B5%B0%E5%BB%8A%E5%82%B3%E6%83%A1%E8%87%AD-%E7%A7%9F%E6%88%B6%E4%B8%8D%E6%BB%BF-%E8%80%81%E9%97%86%E8%AA%A0%E6%87%87%E7%99%BB%E9%96%80%E7%A3%8B%E5%95%86",
+    "timestamp": "2026-04-05T14:51:01.221Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "田曦薇穿深V旗袍直播　露出有料「雪白半胸」險走光　平台急中斷",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260401/1116102062749257728481902.jpeg/CZqlHeJWOWMh6AyiMx_-wCnzJjVEr6bO6KV7w-ile8M",
     "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E8%A9%B1%E9%A1%8C/60336476/%E6%81%90%E6%80%96%E8%BB%8A%E7%A6%8D-%E6%9C%89%E7%89%87-%E5%A5%BD%E5%AA%BD%E5%AA%BD%E9%A7%95%E9%9B%BB%E5%96%AE%E8%BB%8A%E9%81%AD%E8%B2%A8%E8%BB%8A%E8%BC%BE%E7%A2%8E%E6%85%98%E6%AD%BB-%E5%A5%B3%E5%85%92%E7%9B%AE%E6%93%8A%E5%B4%A9%E6%BD%B0%E7%97%9B%E5%93%AD",
     "timestamp": "2026-04-04T23:17:42.166Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普發影片　宣稱「打死多名伊朗軍事領導人」",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260402/1116319331026735104621038.jpeg/NCXHK1K1XvP8hb4P31Svcom7GiOCZllkzV4ZL81eGS8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60337371/%E7%89%B9%E6%9C%97%E6%99%AE%E7%99%BC%E5%BD%B1%E7%89%87-%E5%AE%A3%E7%A8%B1-%E6%89%93%E6%AD%BB%E5%A4%9A%E5%90%8D%E4%BC%8A%E6%9C%97%E8%BB%8D%E4%BA%8B%E9%A0%98%E5%B0%8E%E4%BA%BA",
-    "timestamp": "2026-04-04T22:32:53.073Z",
     "strategy": ".content-card__main"
   }
 ];
