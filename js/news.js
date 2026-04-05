@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-05T13:34:50.428Z
+// Last updated: 2026-04-05T13:58:01.980Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "旺角日式連鎖餐廳驚現全裸紋身男　警到場帶走送院檢查",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260405/1117575910074093568769204.jpeg/hYxlkBy5-TT593u8zjGuQj8Yzr4lzerFNGap2TRmqdk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60337520/%E6%97%BA%E8%A7%92%E6%97%A5%E5%BC%8F%E9%80%A3%E9%8E%96%E9%A4%90%E5%BB%B3%E9%A9%9A%E7%8F%BE%E5%85%A8%E8%A3%B8%E7%B4%8B%E8%BA%AB%E7%94%B7-%E8%AD%A6%E5%88%B0%E5%A0%B4%E5%B8%B6%E8%B5%B0%E9%80%81%E9%99%A2%E6%AA%A2%E6%9F%A5",
+    "timestamp": "2026-04-05T13:58:01.980Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "滕麗名餵愛貓意外曝光複式豪宅　露台寬闊落地玻璃飽覽翠綠山景",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/47adced5d6ea56634c84f71f824df81c.jpg/UeoZF6msa9htOegXfD8DHA2aC_41K5tT3Rk4kt0ZOJI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60337370/%E7%BE%8E%E5%9C%8Bice%E7%A8%B1%E9%80%AE%E6%8D%95%E8%98%87%E8%90%8A%E6%9B%BC%E5%B0%BC2%E8%A6%AA%E5%B1%AC-%E4%BC%8A%E5%AA%92-%E4%BB%96%E5%A5%B3%E5%85%92%E5%90%A6%E8%AA%8D",
     "timestamp": "2026-04-04T22:15:55.236Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "車路士7：0「血洗」維爾港　晉級英足盃4強",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260405/1117307704868605952712850.jpeg/8ZTp2OaKmavtVECAcZDcKusOkhB1wD9bh_HqsYfx6rE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60337367/%E8%BB%8A%E8%B7%AF%E5%A3%AB7-0-%E8%A1%80%E6%B4%97-%E7%B6%AD%E7%88%BE%E6%B8%AF-%E6%99%89%E7%B4%9A%E8%8B%B1%E8%B6%B3%E7%9B%834%E5%BC%B7",
-    "timestamp": "2026-04-04T21:24:21.188Z",
     "strategy": ".content-card__main"
   }
 ];
