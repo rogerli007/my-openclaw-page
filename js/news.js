@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-05T17:03:21.164Z
+// Last updated: 2026-04-05T17:20:51.046Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "伊朗戰爭｜特朗普疑延長最後通牒時間24小時",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260402/1116319331026735104621038.jpeg/NCXHK1K1XvP8hb4P31Svcom7GiOCZllkzV4ZL81eGS8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60337544/%E4%BC%8A%E6%9C%97%E6%88%B0%E7%88%AD-%E7%89%B9%E6%9C%97%E6%99%AE%E7%96%91%E5%BB%B6%E9%95%B7%E6%9C%80%E5%BE%8C%E9%80%9A%E7%89%92%E6%99%82%E9%96%9324%E5%B0%8F%E6%99%82",
+    "timestamp": "2026-04-05T17:20:51.046Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "阿Mo康復路走過193星期　從依賴維生儀器到能分享「開」電動輪椅",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260325/1113526325202653184134065.jpeg/cB7bqRpnGiThmiSam604QbruTXeL-fqzJZKqjgCSqo4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60337419/%E7%BE%85%E6%B7%91%E4%BD%A9-%E9%A6%99%E6%B8%AF%E5%89%B5%E4%BD%9C%E5%9C%9F%E5%A3%A4%E8%82%A5%E6%B2%83%E4%BD%86%E9%A0%88%E5%AE%88%E6%B3%95-%E4%BA%86%E8%A7%A3%E5%9C%8B%E5%AE%89%E6%B3%95%E4%BE%BF%E7%84%A1%E6%86%82-%E8%B8%A9%E5%9C%B0%E9%9B%B7",
     "timestamp": "2026-04-05T05:00:36.413Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美法官叫停白宮31億宴會廳改建項目　政府上訴指構成嚴重國安威脅",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260405/1117423147876880384389062.jpeg/RjL8is-busNiN8sz7wqwUHYi0eY-FmltO01epTtNXqU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60337399/%E7%BE%8E%E6%B3%95%E5%AE%98%E5%8F%AB%E5%81%9C%E7%99%BD%E5%AE%AE31%E5%84%84%E5%AE%B4%E6%9C%83%E5%BB%B3%E6%94%B9%E5%BB%BA%E9%A0%85%E7%9B%AE-%E6%94%BF%E5%BA%9C%E4%B8%8A%E8%A8%B4%E6%8C%87%E6%A7%8B%E6%88%90%E5%9A%B4%E9%87%8D%E5%9C%8B%E5%AE%89%E5%A8%81%E8%84%85",
-    "timestamp": "2026-04-05T03:52:25.066Z",
     "strategy": ".content-card__main"
   }
 ];
