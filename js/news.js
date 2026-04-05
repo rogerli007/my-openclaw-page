@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-05T03:52:25.066Z
+// Last updated: 2026-04-05T05:00:36.413Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "羅淑佩：香港創作土壤肥沃但須守法　了解國安法便無憂「踩地雷」",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260325/1113526325202653184134065.jpeg/cB7bqRpnGiThmiSam604QbruTXeL-fqzJZKqjgCSqo4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60337419/%E7%BE%85%E6%B7%91%E4%BD%A9-%E9%A6%99%E6%B8%AF%E5%89%B5%E4%BD%9C%E5%9C%9F%E5%A3%A4%E8%82%A5%E6%B2%83%E4%BD%86%E9%A0%88%E5%AE%88%E6%B3%95-%E4%BA%86%E8%A7%A3%E5%9C%8B%E5%AE%89%E6%B3%95%E4%BE%BF%E7%84%A1%E6%86%82-%E8%B8%A9%E5%9C%B0%E9%9B%B7",
+    "timestamp": "2026-04-05T05:00:36.413Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美法官叫停白宮31億宴會廳改建項目　政府上訴指構成嚴重國安威脅",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260403/1116707700818841600236954.png/vEuGjIzYgSRtgR6JZQX0M_430AYbVJbbIIzOxiCMzsY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60335822/%E4%BD%8F%E4%B8%80%E6%A8%93%E6%9C%80%E5%AE%B3%E6%80%95%E7%9A%84%E4%BA%8B%E6%83%85%E7%99%BC%E7%94%9F%E4%BA%86-%E8%B2%93%E8%B2%93%E5%BC%95%E4%B8%8D%E9%80%9F%E4%B9%8B%E5%AE%A2%E5%A4%A9%E5%A4%A9%E4%BE%86-%E7%95%AB%E9%9D%A2%E8%B6%85%E6%9A%96%E5%BF%83",
     "timestamp": "2026-04-04T15:17:45.657Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "蘇永康賀老婆50歲生日公開表白愛意　圈中好友到賀盡見人緣極佳",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260404/1117142479401914368962538.jpeg/lkBFiTYSAcY1i5RMbYshwMqyillr5OgddkUMZnZFDGY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60337297/%E8%98%87%E6%B0%B8%E5%BA%B7%E8%B3%80%E8%80%81%E5%A9%8650%E6%AD%B2%E7%94%9F%E6%97%A5%E5%85%AC%E9%96%8B%E8%A1%A8%E7%99%BD%E6%84%9B%E6%84%8F-%E5%9C%88%E4%B8%AD%E5%A5%BD%E5%8F%8B%E5%88%B0%E8%B3%80%E7%9B%A1%E8%A6%8B%E4%BA%BA%E7%B7%A3%E6%A5%B5%E4%BD%B3",
-    "timestamp": "2026-04-04T14:50:01.988Z",
     "strategy": ".content-card__main"
   }
 ];
