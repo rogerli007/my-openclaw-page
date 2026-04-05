@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-05T11:20:01.847Z
+// Last updated: 2026-04-05T11:48:42.948Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "有片｜江蘇動物園火裙舞裙擺起火　女演員跳湖自救　節目緊急叫停",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260405/1117513717987151872374065.png/JfZhGaaNvBqNXuxKb2r6-BDY_ho3VuI-GoESKRqBEik",
+    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60337468/%E6%9C%89%E7%89%87-%E6%B1%9F%E8%98%87%E5%8B%95%E7%89%A9%E5%9C%92%E7%81%AB%E8%A3%99%E8%88%9E%E8%A3%99%E6%93%BA%E8%B5%B7%E7%81%AB-%E5%A5%B3%E6%BC%94%E5%93%A1%E8%B7%B3%E6%B9%96%E8%87%AA%E6%95%91-%E7%AF%80%E7%9B%AE%E7%B7%8A%E6%80%A5%E5%8F%AB%E5%81%9C",
+    "timestamp": "2026-04-05T11:48:42.948Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "韓國逾百中國留學生涉學歷造假　5學生不服遭勒令出境提行政訴訟",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260405/1117307704868605952712850.jpeg/8ZTp2OaKmavtVECAcZDcKusOkhB1wD9bh_HqsYfx6rE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60337367/%E8%BB%8A%E8%B7%AF%E5%A3%AB7-0-%E8%A1%80%E6%B4%97-%E7%B6%AD%E7%88%BE%E6%B8%AF-%E6%99%89%E7%B4%9A%E8%8B%B1%E8%B6%B3%E7%9B%834%E5%BC%B7",
     "timestamp": "2026-04-04T20:01:16.657Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "伊朗革命衛隊：感謝山民擊中兩架美國「黑鷹」",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260302/1105172713166606336812659.jpeg/A7xQ19AcECuM6Fxs1JZ-_0_v7C7Ck29wGOYaABjmGgA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60337364/%E4%BC%8A%E6%9C%97%E9%9D%A9%E5%91%BD%E8%A1%9B%E9%9A%8A-%E6%84%9F%E8%AC%9D%E5%B1%B1%E6%B0%91%E6%93%8A%E4%B8%AD%E5%85%A9%E6%9E%B6%E7%BE%8E%E5%9C%8B-%E9%BB%91%E9%B7%B9",
-    "timestamp": "2026-04-04T18:53:27.459Z",
     "strategy": ".content-card__main"
   }
 ];
