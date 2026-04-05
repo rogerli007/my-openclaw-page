@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-05T05:00:36.413Z
+// Last updated: 2026-04-05T05:44:37.645Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "張可頤素顏自拍展手臂肌肉盡顯自信　擺可愛表情罕有流露童心一面",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260405/1117446203886276608436510.jpeg/KxyjDWnhP45PaUudw5gNazATeeiA3FYimEAOEZhADhE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60337300/%E5%BC%B5%E5%8F%AF%E9%A0%A4%E7%B4%A0%E9%A1%8F%E8%87%AA%E6%8B%8D%E5%B1%95%E6%89%8B%E8%87%82%E8%82%8C%E8%82%89%E7%9B%A1%E9%A1%AF%E8%87%AA%E4%BF%A1-%E6%93%BA%E5%8F%AF%E6%84%9B%E8%A1%A8%E6%83%85%E7%BD%95%E6%9C%89%E6%B5%81%E9%9C%B2%E7%AB%A5%E5%BF%83%E4%B8%80%E9%9D%A2",
+    "timestamp": "2026-04-05T05:44:37.645Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "羅淑佩：香港創作土壤肥沃但須守法　了解國安法便無憂「踩地雷」",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260404/1117226795968499712328104.jpeg/hU4Z2P0UsU47NDML4FX_MMQaWTxPDY82mB0dnJgdHZw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60337353/%E4%B8%AD%E5%8A%A0%E9%87%91%E8%9E%8D%E5%B7%A5%E4%BD%9C%E7%B5%84%E9%A6%96%E6%AC%A1%E6%9C%83%E8%AD%B0%E5%8C%97%E4%BA%AC%E8%88%89%E8%A1%8C-%E6%BD%98%E5%8A%9F%E5%8B%9D%E6%99%A4%E5%95%86%E9%B5%AC%E9%A3%9B%E8%A8%8E%E8%AB%96%E7%B6%93%E6%BF%9F%E5%BD%A2%E5%8B%A2%E7%AD%89",
     "timestamp": "2026-04-04T15:52:45.003Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "住一樓最害怕的事情發生了！貓貓引不速之客天天來　畫面超暖心",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260403/1116707700818841600236954.png/vEuGjIzYgSRtgR6JZQX0M_430AYbVJbbIIzOxiCMzsY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60335822/%E4%BD%8F%E4%B8%80%E6%A8%93%E6%9C%80%E5%AE%B3%E6%80%95%E7%9A%84%E4%BA%8B%E6%83%85%E7%99%BC%E7%94%9F%E4%BA%86-%E8%B2%93%E8%B2%93%E5%BC%95%E4%B8%8D%E9%80%9F%E4%B9%8B%E5%AE%A2%E5%A4%A9%E5%A4%A9%E4%BE%86-%E7%95%AB%E9%9D%A2%E8%B6%85%E6%9A%96%E5%BF%83",
-    "timestamp": "2026-04-04T15:17:45.657Z",
     "strategy": ".content-card__main"
   }
 ];
