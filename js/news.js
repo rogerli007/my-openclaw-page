@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-05T16:43:59.576Z
+// Last updated: 2026-04-05T17:03:21.164Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "阿Mo康復路走過193星期　從依賴維生儀器到能分享「開」電動輪椅",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260406/1117620085347848192132694.png/BlFAG4cRJYBBwjptNM9UPygLchp21AAQDxKYHg8SmB4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60337541/%E9%98%BFmo%E5%BA%B7%E5%BE%A9%E8%B7%AF%E8%B5%B0%E9%81%8E193%E6%98%9F%E6%9C%9F-%E5%BE%9E%E4%BE%9D%E8%B3%B4%E7%B6%AD%E7%94%9F%E5%84%80%E5%99%A8%E5%88%B0%E8%83%BD%E5%88%86%E4%BA%AB-%E9%96%8B-%E9%9B%BB%E5%8B%95%E8%BC%AA%E6%A4%85",
+    "timestamp": "2026-04-05T17:03:21.164Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "陳耀李道瑜逝世｜第五期藝訓班出身　拍完《我老婆係賭聖》從商",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260405/1117423147876880384389062.jpeg/RjL8is-busNiN8sz7wqwUHYi0eY-FmltO01epTtNXqU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60337399/%E7%BE%8E%E6%B3%95%E5%AE%98%E5%8F%AB%E5%81%9C%E7%99%BD%E5%AE%AE31%E5%84%84%E5%AE%B4%E6%9C%83%E5%BB%B3%E6%94%B9%E5%BB%BA%E9%A0%85%E7%9B%AE-%E6%94%BF%E5%BA%9C%E4%B8%8A%E8%A8%B4%E6%8C%87%E6%A7%8B%E6%88%90%E5%9A%B4%E9%87%8D%E5%9C%8B%E5%AE%89%E5%A8%81%E8%84%85",
     "timestamp": "2026-04-05T03:52:25.066Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "台灣地震｜台灣花蓮凌晨發生5.7級及4.8級地震　全台有震感",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260405/1117394341195681792914857.png/L51GHES51UUI_9q6W18Oz-X8ttAH0Y7nq6zuiqus7oo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8F%B0%E7%81%A3%E6%96%B0%E8%81%9E/60337383/%E5%8F%B0%E7%81%A3%E5%9C%B0%E9%9C%87-%E5%8F%B0%E7%81%A3%E8%8A%B1%E8%93%AE%E5%87%8C%E6%99%A8%E7%99%BC%E7%94%9F5-7%E7%B4%9A%E5%8F%8A4-8%E7%B4%9A%E5%9C%B0%E9%9C%87-%E5%85%A8%E5%8F%B0%E6%9C%89%E9%9C%87%E6%84%9F",
-    "timestamp": "2026-04-05T01:43:52.145Z",
     "strategy": ".content-card__main"
   }
 ];
