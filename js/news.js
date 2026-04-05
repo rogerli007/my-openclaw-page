@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-05T20:37:21.756Z
+// Last updated: 2026-04-05T21:01:37.913Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "有片！沙田小巴驚現超載　男乘客坐車門前　網民：全車人變無保險",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260405/1117447873999409152210364.png/lfw9iI5f-4fEoLhIql4rRHmIJjwCpKjiYTr49mE6-PY",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60337385/%E6%9C%89%E7%89%87-%E6%B2%99%E7%94%B0%E5%B0%8F%E5%B7%B4%E9%A9%9A%E7%8F%BE%E8%B6%85%E8%BC%89-%E7%94%B7%E4%B9%98%E5%AE%A2%E5%9D%90%E8%BB%8A%E9%96%80%E5%89%8D-%E7%B6%B2%E6%B0%91-%E5%85%A8%E8%BB%8A%E4%BA%BA%E8%AE%8A%E7%84%A1%E4%BF%9D%E9%9A%AA",
+    "timestamp": "2026-04-05T21:01:37.913Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "有片！沙田小巴驚現超載　男乘客坐車門前　網民：全車人變無保險",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260405/1117513717987151872374065.png/JfZhGaaNvBqNXuxKb2r6-BDY_ho3VuI-GoESKRqBEik",
     "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60337468/%E6%9C%89%E7%89%87-%E6%B1%9F%E8%98%87%E5%8B%95%E7%89%A9%E5%9C%92%E7%81%AB%E8%A3%99%E8%88%9E%E8%A3%99%E6%93%BA%E8%B5%B7%E7%81%AB-%E5%A5%B3%E6%BC%94%E5%93%A1%E8%B7%B3%E6%B9%96%E8%87%AA%E6%95%91-%E7%AF%80%E7%9B%AE%E7%B7%8A%E6%80%A5%E5%8F%AB%E5%81%9C",
     "timestamp": "2026-04-05T11:48:42.948Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "韓國逾百中國留學生涉學歷造假　5學生不服遭勒令出境提行政訴訟",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260405/1117535747046379520056821.jpeg/Iq5zYeMFfJXCVVK4o7DOR3yixLWHYTzUPQDgFj0A4BY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60337492/%E9%9F%93%E5%9C%8B%E9%80%BE%E7%99%BE%E4%B8%AD%E5%9C%8B%E7%95%99%E5%AD%B8%E7%94%9F%E6%B6%89%E5%AD%B8%E6%AD%B7%E9%80%A0%E5%81%87-5%E5%AD%B8%E7%94%9F%E4%B8%8D%E6%9C%8D%E9%81%AD%E5%8B%92%E4%BB%A4%E5%87%BA%E5%A2%83%E6%8F%90%E8%A1%8C%E6%94%BF%E8%A8%B4%E8%A8%9F",
-    "timestamp": "2026-04-05T11:20:01.847Z",
     "strategy": ".content-card__main"
   }
 ];
