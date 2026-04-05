@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-05T21:01:37.913Z
+// Last updated: 2026-04-05T21:24:45.485Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "有片！沙田小巴驚現超載　男乘客坐車門前　網民：全車人變無保險",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260405/1117447873999409152210364.png/lfw9iI5f-4fEoLhIql4rRHmIJjwCpKjiYTr49mE6-PY",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60337385/%E6%9C%89%E7%89%87-%E6%B2%99%E7%94%B0%E5%B0%8F%E5%B7%B4%E9%A9%9A%E7%8F%BE%E8%B6%85%E8%BC%89-%E7%94%B7%E4%B9%98%E5%AE%A2%E5%9D%90%E8%BB%8A%E9%96%80%E5%89%8D-%E7%B6%B2%E6%B0%91-%E5%85%A8%E8%BB%8A%E4%BA%BA%E8%AE%8A%E7%84%A1%E4%BF%9D%E9%9A%AA",
+    "timestamp": "2026-04-05T21:24:45.485Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "有片！沙田小巴驚現超載　男乘客坐車門前　網民：全車人變無保險",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260405/1117551564949557248635190.jpeg/pessUxYgeqCIlbfYU9i_SZjJRlf46RfoQDqWz0A6ls8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60337483/%E5%BE%A9%E6%B4%BB%E7%AF%80%E9%95%B7%E5%81%87-%E9%81%8B%E8%BC%B8%E7%BD%B2%E6%96%99%E5%91%A8%E4%B8%80%E4%BA%8C%E5%9B%9E%E6%B8%AF%E9%AB%98%E5%B3%B0-%E7%B1%B2%E7%94%A8%E6%B8%AF%E7%8F%A0%E6%BE%B3%E5%A4%A7%E6%A9%8B%E8%A6%81%E8%80%90%E5%BF%83%E7%AD%89%E5%80%99",
     "timestamp": "2026-04-05T12:26:38.432Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "有片｜江蘇動物園火裙舞裙擺起火　女演員跳湖自救　節目緊急叫停",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260405/1117513717987151872374065.png/JfZhGaaNvBqNXuxKb2r6-BDY_ho3VuI-GoESKRqBEik",
-    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60337468/%E6%9C%89%E7%89%87-%E6%B1%9F%E8%98%87%E5%8B%95%E7%89%A9%E5%9C%92%E7%81%AB%E8%A3%99%E8%88%9E%E8%A3%99%E6%93%BA%E8%B5%B7%E7%81%AB-%E5%A5%B3%E6%BC%94%E5%93%A1%E8%B7%B3%E6%B9%96%E8%87%AA%E6%95%91-%E7%AF%80%E7%9B%AE%E7%B7%8A%E6%80%A5%E5%8F%AB%E5%81%9C",
-    "timestamp": "2026-04-05T11:48:42.948Z",
     "strategy": ".content-card__main"
   }
 ];
