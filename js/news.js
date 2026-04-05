@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-04T23:35:16.842Z
+// Last updated: 2026-04-05T00:00:29.342Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美國路易斯安那州一汽車衝入人群　至少15傷",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260405/1117370068041207808308251.jpeg/Kn63Crv04443MXcH9NMvlSLjcyNioY5266zGaeusxmk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60337374/%E7%BE%8E%E5%9C%8B%E8%B7%AF%E6%98%93%E6%96%AF%E5%AE%89%E9%82%A3%E5%B7%9E%E4%B8%80%E6%B1%BD%E8%BB%8A%E8%A1%9D%E5%85%A5%E4%BA%BA%E7%BE%A4-%E8%87%B3%E5%B0%9115%E5%82%B7",
+    "timestamp": "2026-04-05T00:00:29.342Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "恐怖車禍‧有片│好媽媽駕電單車遭貨車輾碎慘死　女兒目擊崩潰痛哭",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260404/1117207088087437312248670.jpeg/ixfJpVT__yh3nk1lQQLL6t98XqMDMp9LPwjGeD8Ixng?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60337347/%E6%B6%89%E8%A1%8C%E6%9D%8E%E8%97%8F-290%E8%90%AC%E6%B5%B7%E6%B4%9B%E8%8B%B1-%E5%A4%A7%E9%A6%AC%E6%8A%B5%E6%B8%AF20%E6%AD%B2%E7%94%B7%E9%81%AD%E6%B5%B7%E9%97%9C%E6%8B%98%E6%8E%A7-%E4%B8%8B%E5%91%A8%E4%B8%80%E6%8F%90%E5%A0%82",
     "timestamp": "2026-04-04T13:32:39.534Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "乘風2026｜33位姐姐首輪投票前10名單曝光　陳凱琳排名令人意外",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260404/1117114555911114752203574.jpeg/x61uLZH9sPxX41GDn2FtYDXeL7PcmUTFUWRblFFkW5Q?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60337270/%E4%B9%98%E9%A2%A82026-33%E4%BD%8D%E5%A7%90%E5%A7%90%E9%A6%96%E8%BC%AA%E6%8A%95%E7%A5%A8%E5%89%8D10%E5%90%8D%E5%96%AE%E6%9B%9D%E5%85%89-%E9%99%B3%E5%87%B1%E7%90%B3%E6%8E%92%E5%90%8D%E4%BB%A4%E4%BA%BA%E6%84%8F%E5%A4%96",
-    "timestamp": "2026-04-04T12:53:55.962Z",
     "strategy": ".content-card__main"
   }
 ];
