@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-05T21:24:45.485Z
+// Last updated: 2026-04-05T21:42:24.615Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "伊朗戰爭｜穆傑塔巴：須繼續封鎖霍爾木茲海峽",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260313/1108943395591557120867213.jpeg/_y3A9nrlw50P_8DlwC3iLIzUKMj13nPLuXUMP7l1DD8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60337553/%E4%BC%8A%E6%9C%97%E6%88%B0%E7%88%AD-%E7%A9%86%E5%82%91%E5%A1%94%E5%B7%B4-%E9%A0%88%E7%B9%BC%E7%BA%8C%E5%B0%81%E9%8E%96%E9%9C%8D%E7%88%BE%E6%9C%A8%E8%8C%B2%E6%B5%B7%E5%B3%BD",
+    "timestamp": "2026-04-05T21:42:24.615Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "有片！沙田小巴驚現超載　男乘客坐車門前　網民：全車人變無保險",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260318/1110785389552996352835019.jpeg/C70r4OImgeGSWRj5HKdOcOJN7Xa2pDB3pYsKRKWLCkQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60337513/%E5%BE%B7%E5%A4%96%E9%95%B7%E5%91%BC%E7%B1%B2%E6%AD%90%E7%9B%9F%E5%8F%96%E6%B6%88%E5%85%A8%E9%AB%94%E4%B8%80%E8%87%B4%E9%80%9A%E9%81%8E%E6%B1%BA%E7%AD%96%E5%8E%9F%E5%89%87-%E4%BB%A5%E4%BE%BF%E5%9C%8B%E9%9A%9B%E8%A1%8C%E5%8B%95",
     "timestamp": "2026-04-05T12:55:51.649Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "復活節長假｜運輸署料周一二回港高峰　籲用港珠澳大橋要耐心等候",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260405/1117551564949557248635190.jpeg/pessUxYgeqCIlbfYU9i_SZjJRlf46RfoQDqWz0A6ls8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60337483/%E5%BE%A9%E6%B4%BB%E7%AF%80%E9%95%B7%E5%81%87-%E9%81%8B%E8%BC%B8%E7%BD%B2%E6%96%99%E5%91%A8%E4%B8%80%E4%BA%8C%E5%9B%9E%E6%B8%AF%E9%AB%98%E5%B3%B0-%E7%B1%B2%E7%94%A8%E6%B8%AF%E7%8F%A0%E6%BE%B3%E5%A4%A7%E6%A9%8B%E8%A6%81%E8%80%90%E5%BF%83%E7%AD%89%E5%80%99",
-    "timestamp": "2026-04-05T12:26:38.432Z",
     "strategy": ".content-card__main"
   }
 ];
