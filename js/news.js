@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-05T15:19:08.393Z
+// Last updated: 2026-04-05T16:01:56.220Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "陳豪回應「3000萬天價包薪」傳聞　仲自爆NG 40次惹梅小青不滿",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260405/1117585878810628096835960.jpeg/32PmkqxZQwS-l45ZJTmlMGKjdOwFOL17ndCZa53QmWs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60337515/%E9%99%B3%E8%B1%AA%E5%9B%9E%E6%87%89-3000%E8%90%AC%E5%A4%A9%E5%83%B9%E5%8C%85%E8%96%AA-%E5%82%B3%E8%81%9E-%E4%BB%B2%E8%87%AA%E7%88%86ng-40%E6%AC%A1%E6%83%B9%E6%A2%85%E5%B0%8F%E9%9D%92%E4%B8%8D%E6%BB%BF",
+    "timestamp": "2026-04-05T16:01:56.220Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "「陳耀」李道瑜逝世｜23年出山拍TVB劇《一舞傾城》 與蔡潔有床戲",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260405/1117370068041207808308251.jpeg/Kn63Crv04443MXcH9NMvlSLjcyNioY5266zGaeusxmk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60337374/%E7%BE%8E%E5%9C%8B%E8%B7%AF%E6%98%93%E6%96%AF%E5%AE%89%E9%82%A3%E5%B7%9E%E4%B8%80%E6%B1%BD%E8%BB%8A%E8%A1%9D%E5%85%A5%E4%BA%BA%E7%BE%A4-%E8%87%B3%E5%B0%9115%E5%82%B7",
     "timestamp": "2026-04-05T00:00:29.342Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "恐怖車禍‧有片│好媽媽駕電單車遭貨車輾碎慘死　女兒目擊崩潰痛哭",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260401/1116102062749257728481902.jpeg/CZqlHeJWOWMh6AyiMx_-wCnzJjVEr6bO6KV7w-ile8M",
-    "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E8%A9%B1%E9%A1%8C/60336476/%E6%81%90%E6%80%96%E8%BB%8A%E7%A6%8D-%E6%9C%89%E7%89%87-%E5%A5%BD%E5%AA%BD%E5%AA%BD%E9%A7%95%E9%9B%BB%E5%96%AE%E8%BB%8A%E9%81%AD%E8%B2%A8%E8%BB%8A%E8%BC%BE%E7%A2%8E%E6%85%98%E6%AD%BB-%E5%A5%B3%E5%85%92%E7%9B%AE%E6%93%8A%E5%B4%A9%E6%BD%B0%E7%97%9B%E5%93%AD",
-    "timestamp": "2026-04-04T23:35:16.842Z",
     "strategy": ".content-card__main"
   }
 ];
