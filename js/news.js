@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-05T12:26:38.432Z
+// Last updated: 2026-04-05T12:55:51.649Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "德外長呼籲歐盟取消全體一致通過決策原則　以便國際行動",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260318/1110785389552996352835019.jpeg/C70r4OImgeGSWRj5HKdOcOJN7Xa2pDB3pYsKRKWLCkQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60337513/%E5%BE%B7%E5%A4%96%E9%95%B7%E5%91%BC%E7%B1%B2%E6%AD%90%E7%9B%9F%E5%8F%96%E6%B6%88%E5%85%A8%E9%AB%94%E4%B8%80%E8%87%B4%E9%80%9A%E9%81%8E%E6%B1%BA%E7%AD%96%E5%8E%9F%E5%89%87-%E4%BB%A5%E4%BE%BF%E5%9C%8B%E9%9A%9B%E8%A1%8C%E5%8B%95",
+    "timestamp": "2026-04-05T12:55:51.649Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "復活節長假｜運輸署料周一二回港高峰　籲用港珠澳大橋要耐心等候",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260405/1117307704868605952712850.jpeg/8ZTp2OaKmavtVECAcZDcKusOkhB1wD9bh_HqsYfx6rE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60337367/%E8%BB%8A%E8%B7%AF%E5%A3%AB7-0-%E8%A1%80%E6%B4%97-%E7%B6%AD%E7%88%BE%E6%B8%AF-%E6%99%89%E7%B4%9A%E8%8B%B1%E8%B6%B3%E7%9B%834%E5%BC%B7",
     "timestamp": "2026-04-04T20:35:25.329Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "車路士7：0「血洗」維爾港　晉級英足盃4強",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260405/1117307704868605952712850.jpeg/8ZTp2OaKmavtVECAcZDcKusOkhB1wD9bh_HqsYfx6rE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60337367/%E8%BB%8A%E8%B7%AF%E5%A3%AB7-0-%E8%A1%80%E6%B4%97-%E7%B6%AD%E7%88%BE%E6%B8%AF-%E6%99%89%E7%B4%9A%E8%8B%B1%E8%B6%B3%E7%9B%834%E5%BC%B7",
-    "timestamp": "2026-04-04T20:17:52.642Z",
     "strategy": ".content-card__main"
   }
 ];
