@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-05T08:07:08.477Z
+// Last updated: 2026-04-05T08:36:05.281Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "牙黑指腫原地踱步　羅湖海關識破癮君子走私　揭內褲藏白粉藍精靈",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260405/1117487946866364416106793.jpeg/z-skOKKoRSseK2UbOJ7rC7TKbpg-hzz5-8lhDvvJYQ4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60337446/%E7%89%99%E9%BB%91%E6%8C%87%E8%85%AB%E5%8E%9F%E5%9C%B0%E8%B8%B1%E6%AD%A5-%E7%BE%85%E6%B9%96%E6%B5%B7%E9%97%9C%E8%AD%98%E7%A0%B4%E7%99%AE%E5%90%9B%E5%AD%90%E8%B5%B0%E7%A7%81-%E6%8F%AD%E5%85%A7%E8%A4%B2%E8%97%8F%E7%99%BD%E7%B2%89%E8%97%8D%E7%B2%BE%E9%9D%88",
+    "timestamp": "2026-04-05T08:36:05.281Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "最新天氣｜黃色暴雨警告信號生效　天文台：廣泛地區或受大雨影響",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260402/1116340499439947776261958.jpeg/Bj3UmGyD_-OQY1bCpU9MvycyVb_3gtZr1klY8NZJWPA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60337363/%E7%89%B9%E6%9C%97%E6%99%AE-%E4%BC%8A%E6%9C%97%E5%83%85%E5%89%A92%E5%A4%A9%E6%99%82%E9%96%93%E4%BE%86%E9%81%94%E6%88%90%E5%8D%94%E8%AD%B0",
     "timestamp": "2026-04-04T17:38:08.778Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "老夫婦昨晨大欖涌行山遇暴雨走散　八旬夫失蹤　救援人員連夜搜索",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260405/1117257057804750848159384.jpeg/AFmbkmgEY14KSJlWVpV9hzbKu-SNOMbgzG6K4sxuiuI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60337360/%E8%80%81%E5%A4%AB%E5%A9%A6%E6%98%A8%E6%99%A8%E5%A4%A7%E6%AC%96%E6%B6%8C%E8%A1%8C%E5%B1%B1%E9%81%87%E6%9A%B4%E9%9B%A8%E8%B5%B0%E6%95%A3-%E5%85%AB%E6%97%AC%E5%A4%AB%E5%A4%B1%E8%B9%A4-%E6%95%91%E6%8F%B4%E4%BA%BA%E5%93%A1%E9%80%A3%E5%A4%9C%E6%90%9C%E7%B4%A2",
-    "timestamp": "2026-04-04T17:02:57.972Z",
     "strategy": ".content-card__main"
   }
 ];
