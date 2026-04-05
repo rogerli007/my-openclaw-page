@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-05T12:55:51.649Z
+// Last updated: 2026-04-05T13:34:50.428Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "滕麗名餵愛貓意外曝光複式豪宅　露台寬闊落地玻璃飽覽翠綠山景",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260405/1117515939101806592516407.jpeg/BYH_gSyVsbgznyDmK5VYzOMIn4fIZ5CCVT9udFU_bnQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60337469/%E6%BB%95%E9%BA%97%E5%90%8D%E9%A4%B5%E6%84%9B%E8%B2%93%E6%84%8F%E5%A4%96%E6%9B%9D%E5%85%89%E8%A4%87%E5%BC%8F%E8%B1%AA%E5%AE%85-%E9%9C%B2%E5%8F%B0%E5%AF%AC%E9%97%8A%E8%90%BD%E5%9C%B0%E7%8E%BB%E7%92%83%E9%A3%BD%E8%A6%BD%E7%BF%A0%E7%B6%A0%E5%B1%B1%E6%99%AF",
+    "timestamp": "2026-04-05T13:34:50.428Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "德外長呼籲歐盟取消全體一致通過決策原則　以便國際行動",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260405/1117307704868605952712850.jpeg/8ZTp2OaKmavtVECAcZDcKusOkhB1wD9bh_HqsYfx6rE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60337367/%E8%BB%8A%E8%B7%AF%E5%A3%AB7-0-%E8%A1%80%E6%B4%97-%E7%B6%AD%E7%88%BE%E6%B8%AF-%E6%99%89%E7%B4%9A%E8%8B%B1%E8%B6%B3%E7%9B%834%E5%BC%B7",
     "timestamp": "2026-04-04T21:24:21.188Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "車路士7：0「血洗」維爾港　晉級英足盃4強",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260405/1117307704868605952712850.jpeg/8ZTp2OaKmavtVECAcZDcKusOkhB1wD9bh_HqsYfx6rE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60337367/%E8%BB%8A%E8%B7%AF%E5%A3%AB7-0-%E8%A1%80%E6%B4%97-%E7%B6%AD%E7%88%BE%E6%B8%AF-%E6%99%89%E7%B4%9A%E8%8B%B1%E8%B6%B3%E7%9B%834%E5%BC%B7",
-    "timestamp": "2026-04-04T20:35:25.329Z",
     "strategy": ".content-card__main"
   }
 ];
