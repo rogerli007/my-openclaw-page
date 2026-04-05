@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-05T11:48:42.948Z
+// Last updated: 2026-04-05T12:26:38.432Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "復活節長假｜運輸署料周一二回港高峰　籲用港珠澳大橋要耐心等候",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260405/1117551564949557248635190.jpeg/pessUxYgeqCIlbfYU9i_SZjJRlf46RfoQDqWz0A6ls8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60337483/%E5%BE%A9%E6%B4%BB%E7%AF%80%E9%95%B7%E5%81%87-%E9%81%8B%E8%BC%B8%E7%BD%B2%E6%96%99%E5%91%A8%E4%B8%80%E4%BA%8C%E5%9B%9E%E6%B8%AF%E9%AB%98%E5%B3%B0-%E7%B1%B2%E7%94%A8%E6%B8%AF%E7%8F%A0%E6%BE%B3%E5%A4%A7%E6%A9%8B%E8%A6%81%E8%80%90%E5%BF%83%E7%AD%89%E5%80%99",
+    "timestamp": "2026-04-05T12:26:38.432Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "有片｜江蘇動物園火裙舞裙擺起火　女演員跳湖自救　節目緊急叫停",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260405/1117307704868605952712850.jpeg/8ZTp2OaKmavtVECAcZDcKusOkhB1wD9bh_HqsYfx6rE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60337367/%E8%BB%8A%E8%B7%AF%E5%A3%AB7-0-%E8%A1%80%E6%B4%97-%E7%B6%AD%E7%88%BE%E6%B8%AF-%E6%99%89%E7%B4%9A%E8%8B%B1%E8%B6%B3%E7%9B%834%E5%BC%B7",
     "timestamp": "2026-04-04T20:17:52.642Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "車路士7：0「血洗」維爾港　晉級英足盃4強",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260405/1117307704868605952712850.jpeg/8ZTp2OaKmavtVECAcZDcKusOkhB1wD9bh_HqsYfx6rE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60337367/%E8%BB%8A%E8%B7%AF%E5%A3%AB7-0-%E8%A1%80%E6%B4%97-%E7%B6%AD%E7%88%BE%E6%B8%AF-%E6%99%89%E7%B4%9A%E8%8B%B1%E8%B6%B3%E7%9B%834%E5%BC%B7",
-    "timestamp": "2026-04-04T20:01:16.657Z",
     "strategy": ".content-card__main"
   }
 ];
