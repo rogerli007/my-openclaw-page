@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-05T07:22:50.086Z
+// Last updated: 2026-04-05T08:07:08.477Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "最新天氣｜黃色暴雨警告信號生效　天文台：廣泛地區或受大雨影響",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260405/1117467565061312512845712.jpeg/pRXjwCXF6ZJkNusB7IAc3hkq0dnd9QeplziDK5c4gys?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60337104/%E6%9C%80%E6%96%B0%E5%A4%A9%E6%B0%A3-%E9%BB%83%E8%89%B2%E6%9A%B4%E9%9B%A8%E8%AD%A6%E5%91%8A%E4%BF%A1%E8%99%9F%E7%94%9F%E6%95%88-%E5%A4%A9%E6%96%87%E5%8F%B0-%E5%BB%A3%E6%B3%9B%E5%9C%B0%E5%8D%80%E6%88%96%E5%8F%97%E5%A4%A7%E9%9B%A8%E5%BD%B1%E9%9F%BF",
+    "timestamp": "2026-04-05T08:07:08.477Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "復活節長假期｜過去兩日126萬港人離港　今截至10時13萬港人出境",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260405/1117257057804750848159384.jpeg/AFmbkmgEY14KSJlWVpV9hzbKu-SNOMbgzG6K4sxuiuI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60337360/%E8%80%81%E5%A4%AB%E5%A9%A6%E6%98%A8%E6%99%A8%E5%A4%A7%E6%AC%96%E6%B6%8C%E8%A1%8C%E5%B1%B1%E9%81%87%E6%9A%B4%E9%9B%A8%E8%B5%B0%E6%95%A3-%E5%85%AB%E6%97%AC%E5%A4%AB%E5%A4%B1%E8%B9%A4-%E6%95%91%E6%8F%B4%E4%BA%BA%E5%93%A1%E9%80%A3%E5%A4%9C%E6%90%9C%E7%B4%A2",
     "timestamp": "2026-04-04T17:02:57.972Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "老夫婦昨晨大欖涌行山遇暴雨走散　八旬夫失蹤　救援人員連夜搜索",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260405/1117257057804750848159384.jpeg/AFmbkmgEY14KSJlWVpV9hzbKu-SNOMbgzG6K4sxuiuI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60337360/%E8%80%81%E5%A4%AB%E5%A9%A6%E6%98%A8%E6%99%A8%E5%A4%A7%E6%AC%96%E6%B6%8C%E8%A1%8C%E5%B1%B1%E9%81%87%E6%9A%B4%E9%9B%A8%E8%B5%B0%E6%95%A3-%E5%85%AB%E6%97%AC%E5%A4%AB%E5%A4%B1%E8%B9%A4-%E6%95%91%E6%8F%B4%E4%BA%BA%E5%93%A1%E9%80%A3%E5%A4%9C%E6%90%9C%E7%B4%A2",
-    "timestamp": "2026-04-04T16:35:48.719Z",
     "strategy": ".content-card__main"
   }
 ];
