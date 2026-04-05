@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-05T01:43:52.145Z
+// Last updated: 2026-04-05T03:52:25.066Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美法官叫停白宮31億宴會廳改建項目　政府上訴指構成嚴重國安威脅",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260405/1117423147876880384389062.jpeg/RjL8is-busNiN8sz7wqwUHYi0eY-FmltO01epTtNXqU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60337399/%E7%BE%8E%E6%B3%95%E5%AE%98%E5%8F%AB%E5%81%9C%E7%99%BD%E5%AE%AE31%E5%84%84%E5%AE%B4%E6%9C%83%E5%BB%B3%E6%94%B9%E5%BB%BA%E9%A0%85%E7%9B%AE-%E6%94%BF%E5%BA%9C%E4%B8%8A%E8%A8%B4%E6%8C%87%E6%A7%8B%E6%88%90%E5%9A%B4%E9%87%8D%E5%9C%8B%E5%AE%89%E5%A8%81%E8%84%85",
+    "timestamp": "2026-04-05T03:52:25.066Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "台灣地震｜台灣花蓮凌晨發生5.7級及4.8級地震　全台有震感",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260404/1117142479401914368962538.jpeg/lkBFiTYSAcY1i5RMbYshwMqyillr5OgddkUMZnZFDGY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60337297/%E8%98%87%E6%B0%B8%E5%BA%B7%E8%B3%80%E8%80%81%E5%A9%8650%E6%AD%B2%E7%94%9F%E6%97%A5%E5%85%AC%E9%96%8B%E8%A1%A8%E7%99%BD%E6%84%9B%E6%84%8F-%E5%9C%88%E4%B8%AD%E5%A5%BD%E5%8F%8B%E5%88%B0%E8%B3%80%E7%9B%A1%E8%A6%8B%E4%BA%BA%E7%B7%A3%E6%A5%B5%E4%BD%B3",
     "timestamp": "2026-04-04T14:50:01.988Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "警一連七日觀塘掃黃　拘14名內地女　3廈檢宣傳賣淫標誌",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260404/1117214456267411456082697.jpeg/r4L6zQl2chnXrZgyq9KQ8TOk-yRUYADwStNJU0rTSVM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60337349/%E8%AD%A6%E4%B8%80%E9%80%A3%E4%B8%83%E6%97%A5%E8%A7%80%E5%A1%98%E6%8E%83%E9%BB%83-%E6%8B%9814%E5%90%8D%E5%85%A7%E5%9C%B0%E5%A5%B3-3%E5%BB%88%E6%AA%A2%E5%AE%A3%E5%82%B3%E8%B3%A3%E6%B7%AB%E6%A8%99%E8%AA%8C",
-    "timestamp": "2026-04-04T13:57:14.973Z",
     "strategy": ".content-card__main"
   }
 ];
