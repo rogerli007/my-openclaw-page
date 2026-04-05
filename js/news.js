@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-05T18:53:32.168Z
+// Last updated: 2026-04-05T19:49:21.860Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "英足總盃︱韋斯咸互射12碼落敗　列斯聯晉級四強",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260406/1117655826346020864634572.jpeg/EVR0kw1cS5F4u9WZFiI6RI_dmxN-1NKUWOs3b1jrN28?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60337550/%E8%8B%B1%E8%B6%B3%E7%B8%BD%E7%9B%83-%E9%9F%8B%E6%96%AF%E5%92%B8%E4%BA%92%E5%B0%8412%E7%A2%BC%E8%90%BD%E6%95%97-%E5%88%97%E6%96%AF%E8%81%AF%E6%99%89%E7%B4%9A%E5%9B%9B%E5%BC%B7",
+    "timestamp": "2026-04-05T19:49:21.860Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美媒：美官員討論戰爭進入新階段　將發電廠橋樑列為合法打擊目標",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260405/1117467565061312512845712.jpeg/pRXjwCXF6ZJkNusB7IAc3hkq0dnd9QeplziDK5c4gys?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60337104/%E6%9C%80%E6%96%B0%E5%A4%A9%E6%B0%A3-%E9%BB%83%E8%89%B2%E6%9A%B4%E9%9B%A8%E8%AD%A6%E5%91%8A%E4%BF%A1%E8%99%9F%E7%94%9F%E6%95%88-%E5%A4%A9%E6%96%87%E5%8F%B0-%E5%BB%A3%E6%B3%9B%E5%9C%B0%E5%8D%80%E6%88%96%E5%8F%97%E5%A4%A7%E9%9B%A8%E5%BD%B1%E9%9F%BF",
     "timestamp": "2026-04-05T08:07:08.477Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "復活節長假期｜過去兩日126萬港人離港　今截至10時13萬港人出境",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260403/1116876981116342272453186.jpeg/1VK8uuo_F_yu2e93SQoVXKapKvFX7WMRkLwyGLW8Mhg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60337437/%E5%BE%A9%E6%B4%BB%E7%AF%80%E9%95%B7%E5%81%87%E6%9C%9F-%E9%81%8E%E5%8E%BB%E5%85%A9%E6%97%A5126%E8%90%AC%E6%B8%AF%E4%BA%BA%E9%9B%A2%E6%B8%AF-%E4%BB%8A%E6%88%AA%E8%87%B310%E6%99%8213%E8%90%AC%E6%B8%AF%E4%BA%BA%E5%87%BA%E5%A2%83",
-    "timestamp": "2026-04-05T07:22:50.086Z",
     "strategy": ".content-card__main"
   }
 ];
