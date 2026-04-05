@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-05T13:58:01.980Z
+// Last updated: 2026-04-05T14:24:08.551Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "田曦薇穿深V旗袍直播　露出有料「雪白半胸」險走光　平台急中斷",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260403/1116773946566381568021879.png/fl1muLlhBKaAYIZJtFVD-ucn3cKHLwnVY7AbMmOwGzI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E5%A8%9B%E6%A8%82/60337106/%E7%94%B0%E6%9B%A6%E8%96%87%E7%A9%BF%E6%B7%B1v%E6%97%97%E8%A2%8D%E7%9B%B4%E6%92%AD-%E9%9C%B2%E5%87%BA%E6%9C%89%E6%96%99-%E9%9B%AA%E7%99%BD%E5%8D%8A%E8%83%B8-%E9%9A%AA%E8%B5%B0%E5%85%89-%E5%B9%B3%E5%8F%B0%E6%80%A5%E4%B8%AD%E6%96%B7",
+    "timestamp": "2026-04-05T14:24:08.551Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "旺角日式連鎖餐廳驚現全裸紋身男　警到場帶走送院檢查",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260402/1116319331026735104621038.jpeg/NCXHK1K1XvP8hb4P31Svcom7GiOCZllkzV4ZL81eGS8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60337371/%E7%89%B9%E6%9C%97%E6%99%AE%E7%99%BC%E5%BD%B1%E7%89%87-%E5%AE%A3%E7%A8%B1-%E6%89%93%E6%AD%BB%E5%A4%9A%E5%90%8D%E4%BC%8A%E6%9C%97%E8%BB%8D%E4%BA%8B%E9%A0%98%E5%B0%8E%E4%BA%BA",
     "timestamp": "2026-04-04T22:32:53.073Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美國ICE稱逮捕蘇萊曼尼2親屬　伊媒：他女兒否認",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/47adced5d6ea56634c84f71f824df81c.jpg/UeoZF6msa9htOegXfD8DHA2aC_41K5tT3Rk4kt0ZOJI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60337370/%E7%BE%8E%E5%9C%8Bice%E7%A8%B1%E9%80%AE%E6%8D%95%E8%98%87%E8%90%8A%E6%9B%BC%E5%B0%BC2%E8%A6%AA%E5%B1%AC-%E4%BC%8A%E5%AA%92-%E4%BB%96%E5%A5%B3%E5%85%92%E5%90%A6%E8%AA%8D",
-    "timestamp": "2026-04-04T22:15:55.236Z",
     "strategy": ".content-card__main"
   }
 ];
