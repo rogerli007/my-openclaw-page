@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-05T08:36:05.281Z
+// Last updated: 2026-04-05T09:52:21.352Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "智能廚餘回收桶｜115屋苑安裝　涵27萬住戶　回收逾7300公噸廚餘",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260405/1117502666465873920952640.jpeg/uaTW55edALs46VVE1apEnzTPlhqr0xRS-_XnK_v15ys?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60337457/%E6%99%BA%E8%83%BD%E5%BB%9A%E9%A4%98%E5%9B%9E%E6%94%B6%E6%A1%B6-115%E5%B1%8B%E8%8B%91%E5%AE%89%E8%A3%9D-%E6%B6%B527%E8%90%AC%E4%BD%8F%E6%88%B6-%E5%9B%9E%E6%94%B6%E9%80%BE7300%E5%85%AC%E5%99%B8%E5%BB%9A%E9%A4%98",
+    "timestamp": "2026-04-05T09:52:21.352Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "牙黑指腫原地踱步　羅湖海關識破癮君子走私　揭內褲藏白粉藍精靈",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260302/1105172713166606336812659.jpeg/A7xQ19AcECuM6Fxs1JZ-_0_v7C7Ck29wGOYaABjmGgA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60337364/%E4%BC%8A%E6%9C%97%E9%9D%A9%E5%91%BD%E8%A1%9B%E9%9A%8A-%E6%84%9F%E8%AC%9D%E5%B1%B1%E6%B0%91%E6%93%8A%E4%B8%AD%E5%85%A9%E6%9E%B6%E7%BE%8E%E5%9C%8B-%E9%BB%91%E9%B7%B9",
     "timestamp": "2026-04-04T18:22:29.400Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普：伊朗僅剩2天時間來達成協議",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260402/1116340499439947776261958.jpeg/Bj3UmGyD_-OQY1bCpU9MvycyVb_3gtZr1klY8NZJWPA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60337363/%E7%89%B9%E6%9C%97%E6%99%AE-%E4%BC%8A%E6%9C%97%E5%83%85%E5%89%A92%E5%A4%A9%E6%99%82%E9%96%93%E4%BE%86%E9%81%94%E6%88%90%E5%8D%94%E8%AD%B0",
-    "timestamp": "2026-04-04T17:38:08.778Z",
     "strategy": ".content-card__main"
   }
 ];
