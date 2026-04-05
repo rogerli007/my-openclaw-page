@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-05T09:52:21.352Z
+// Last updated: 2026-04-05T11:20:01.847Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "韓國逾百中國留學生涉學歷造假　5學生不服遭勒令出境提行政訴訟",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260405/1117535747046379520056821.jpeg/Iq5zYeMFfJXCVVK4o7DOR3yixLWHYTzUPQDgFj0A4BY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60337492/%E9%9F%93%E5%9C%8B%E9%80%BE%E7%99%BE%E4%B8%AD%E5%9C%8B%E7%95%99%E5%AD%B8%E7%94%9F%E6%B6%89%E5%AD%B8%E6%AD%B7%E9%80%A0%E5%81%87-5%E5%AD%B8%E7%94%9F%E4%B8%8D%E6%9C%8D%E9%81%AD%E5%8B%92%E4%BB%A4%E5%87%BA%E5%A2%83%E6%8F%90%E8%A1%8C%E6%94%BF%E8%A8%B4%E8%A8%9F",
+    "timestamp": "2026-04-05T11:20:01.847Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "智能廚餘回收桶｜115屋苑安裝　涵27萬住戶　回收逾7300公噸廚餘",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260302/1105172713166606336812659.jpeg/A7xQ19AcECuM6Fxs1JZ-_0_v7C7Ck29wGOYaABjmGgA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60337364/%E4%BC%8A%E6%9C%97%E9%9D%A9%E5%91%BD%E8%A1%9B%E9%9A%8A-%E6%84%9F%E8%AC%9D%E5%B1%B1%E6%B0%91%E6%93%8A%E4%B8%AD%E5%85%A9%E6%9E%B6%E7%BE%8E%E5%9C%8B-%E9%BB%91%E9%B7%B9",
     "timestamp": "2026-04-04T18:53:27.459Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "伊朗革命衛隊：感謝山民擊中兩架美國「黑鷹」",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260302/1105172713166606336812659.jpeg/A7xQ19AcECuM6Fxs1JZ-_0_v7C7Ck29wGOYaABjmGgA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60337364/%E4%BC%8A%E6%9C%97%E9%9D%A9%E5%91%BD%E8%A1%9B%E9%9A%8A-%E6%84%9F%E8%AC%9D%E5%B1%B1%E6%B0%91%E6%93%8A%E4%B8%AD%E5%85%A9%E6%9E%B6%E7%BE%8E%E5%9C%8B-%E9%BB%91%E9%B7%B9",
-    "timestamp": "2026-04-04T18:22:29.400Z",
     "strategy": ".content-card__main"
   }
 ];
