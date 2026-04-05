@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-05T17:20:51.046Z
+// Last updated: 2026-04-05T17:49:50.138Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "伊朗戰爭｜特朗普疑延長最後通牒時間24小時",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260402/1116319331026735104621038.jpeg/NCXHK1K1XvP8hb4P31Svcom7GiOCZllkzV4ZL81eGS8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60337544/%E4%BC%8A%E6%9C%97%E6%88%B0%E7%88%AD-%E7%89%B9%E6%9C%97%E6%99%AE%E7%96%91%E5%BB%B6%E9%95%B7%E6%9C%80%E5%BE%8C%E9%80%9A%E7%89%92%E6%99%82%E9%96%9324%E5%B0%8F%E6%99%82",
+    "timestamp": "2026-04-05T17:49:50.138Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "伊朗戰爭｜特朗普疑延長最後通牒時間24小時",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260405/1117446203886276608436510.jpeg/KxyjDWnhP45PaUudw5gNazATeeiA3FYimEAOEZhADhE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60337300/%E5%BC%B5%E5%8F%AF%E9%A0%A4%E7%B4%A0%E9%A1%8F%E8%87%AA%E6%8B%8D%E5%B1%95%E6%89%8B%E8%87%82%E8%82%8C%E8%82%89%E7%9B%A1%E9%A1%AF%E8%87%AA%E4%BF%A1-%E6%93%BA%E5%8F%AF%E6%84%9B%E8%A1%A8%E6%83%85%E7%BD%95%E6%9C%89%E6%B5%81%E9%9C%B2%E7%AB%A5%E5%BF%83%E4%B8%80%E9%9D%A2",
     "timestamp": "2026-04-05T05:44:37.645Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "羅淑佩：香港創作土壤肥沃但須守法　了解國安法便無憂「踩地雷」",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260325/1113526325202653184134065.jpeg/cB7bqRpnGiThmiSam604QbruTXeL-fqzJZKqjgCSqo4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60337419/%E7%BE%85%E6%B7%91%E4%BD%A9-%E9%A6%99%E6%B8%AF%E5%89%B5%E4%BD%9C%E5%9C%9F%E5%A3%A4%E8%82%A5%E6%B2%83%E4%BD%86%E9%A0%88%E5%AE%88%E6%B3%95-%E4%BA%86%E8%A7%A3%E5%9C%8B%E5%AE%89%E6%B3%95%E4%BE%BF%E7%84%A1%E6%86%82-%E8%B8%A9%E5%9C%B0%E9%9B%B7",
-    "timestamp": "2026-04-05T05:00:36.413Z",
     "strategy": ".content-card__main"
   }
 ];
