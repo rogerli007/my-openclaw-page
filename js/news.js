@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-05T05:44:37.645Z
+// Last updated: 2026-04-05T06:19:30.144Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "清明節拜山人潮減　新廈街電梯不用排　孝子賢孫：長假港人都外遊",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260405/1117456621463670784981756.jpeg/FmFkfSMTuLdpQP5-1_zwx2PYj0pCDfivFxQxzDIUMcw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60337427/%E6%B8%85%E6%98%8E%E7%AF%80%E6%8B%9C%E5%B1%B1%E4%BA%BA%E6%BD%AE%E6%B8%9B-%E6%96%B0%E5%BB%88%E8%A1%97%E9%9B%BB%E6%A2%AF%E4%B8%8D%E7%94%A8%E6%8E%92-%E5%AD%9D%E5%AD%90%E8%B3%A2%E5%AD%AB-%E9%95%B7%E5%81%87%E6%B8%AF%E4%BA%BA%E9%83%BD%E5%A4%96%E9%81%8A",
+    "timestamp": "2026-04-05T06:19:30.144Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "張可頤素顏自拍展手臂肌肉盡顯自信　擺可愛表情罕有流露童心一面",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260404/1117249228490412032467930.jpeg/0PS7eIt7-jB_pamKB6yuBNy8eG8_cot0Iaa30CGmt9A?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60337359/%E5%8C%97%E5%A4%A7%E5%B6%BC%E5%85%AC%E8%B7%AF%E8%B2%A8%E8%BB%8A%E6%92%BC%E7%AE%AD%E5%98%B4%E8%BB%8A-%E5%B9%B8%E7%84%A1%E4%BA%BA%E5%82%B7-%E5%85%A5%E6%A9%9F%E5%A0%B4%E4%BA%A4%E9%80%9A%E7%A8%8D%E7%82%BA%E5%8F%97%E9%98%BB",
     "timestamp": "2026-04-04T16:18:42.472Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "中加金融工作組首次會議北京舉行　潘功勝晤商鵬飛討論經濟形勢等",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260404/1117226795968499712328104.jpeg/hU4Z2P0UsU47NDML4FX_MMQaWTxPDY82mB0dnJgdHZw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60337353/%E4%B8%AD%E5%8A%A0%E9%87%91%E8%9E%8D%E5%B7%A5%E4%BD%9C%E7%B5%84%E9%A6%96%E6%AC%A1%E6%9C%83%E8%AD%B0%E5%8C%97%E4%BA%AC%E8%88%89%E8%A1%8C-%E6%BD%98%E5%8A%9F%E5%8B%9D%E6%99%A4%E5%95%86%E9%B5%AC%E9%A3%9B%E8%A8%8E%E8%AB%96%E7%B6%93%E6%BF%9F%E5%BD%A2%E5%8B%A2%E7%AD%89",
-    "timestamp": "2026-04-04T15:52:45.003Z",
     "strategy": ".content-card__main"
   }
 ];
