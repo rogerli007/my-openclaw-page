@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-05T06:19:30.144Z
+// Last updated: 2026-04-05T07:22:50.086Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "復活節長假期｜過去兩日126萬港人離港　今截至10時13萬港人出境",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260403/1116876981116342272453186.jpeg/1VK8uuo_F_yu2e93SQoVXKapKvFX7WMRkLwyGLW8Mhg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60337437/%E5%BE%A9%E6%B4%BB%E7%AF%80%E9%95%B7%E5%81%87%E6%9C%9F-%E9%81%8E%E5%8E%BB%E5%85%A9%E6%97%A5126%E8%90%AC%E6%B8%AF%E4%BA%BA%E9%9B%A2%E6%B8%AF-%E4%BB%8A%E6%88%AA%E8%87%B310%E6%99%8213%E8%90%AC%E6%B8%AF%E4%BA%BA%E5%87%BA%E5%A2%83",
+    "timestamp": "2026-04-05T07:22:50.086Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "清明節拜山人潮減　新廈街電梯不用排　孝子賢孫：長假港人都外遊",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260405/1117257057804750848159384.jpeg/AFmbkmgEY14KSJlWVpV9hzbKu-SNOMbgzG6K4sxuiuI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60337360/%E8%80%81%E5%A4%AB%E5%A9%A6%E6%98%A8%E6%99%A8%E5%A4%A7%E6%AC%96%E6%B6%8C%E8%A1%8C%E5%B1%B1%E9%81%87%E6%9A%B4%E9%9B%A8%E8%B5%B0%E6%95%A3-%E5%85%AB%E6%97%AC%E5%A4%AB%E5%A4%B1%E8%B9%A4-%E6%95%91%E6%8F%B4%E4%BA%BA%E5%93%A1%E9%80%A3%E5%A4%9C%E6%90%9C%E7%B4%A2",
     "timestamp": "2026-04-04T16:35:48.719Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "北大嶼公路貨車撼箭嘴車　幸無人傷　入機場交通稍為受阻",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260404/1117249228490412032467930.jpeg/0PS7eIt7-jB_pamKB6yuBNy8eG8_cot0Iaa30CGmt9A?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60337359/%E5%8C%97%E5%A4%A7%E5%B6%BC%E5%85%AC%E8%B7%AF%E8%B2%A8%E8%BB%8A%E6%92%BC%E7%AE%AD%E5%98%B4%E8%BB%8A-%E5%B9%B8%E7%84%A1%E4%BA%BA%E5%82%B7-%E5%85%A5%E6%A9%9F%E5%A0%B4%E4%BA%A4%E9%80%9A%E7%A8%8D%E7%82%BA%E5%8F%97%E9%98%BB",
-    "timestamp": "2026-04-04T16:18:42.472Z",
     "strategy": ".content-card__main"
   }
 ];
