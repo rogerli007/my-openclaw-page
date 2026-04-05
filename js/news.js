@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-05T14:51:01.221Z
+// Last updated: 2026-04-05T15:19:08.393Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "「陳耀」李道瑜逝世｜23年出山拍TVB劇《一舞傾城》 與蔡潔有床戲",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260405/1117598221380620288612908.jpeg/2L5kQCh--xOuBlGq2x8Uep0tRWHx8l8IsEnjc7BJ43M?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60337533/%E9%99%B3%E8%80%80-%E6%9D%8E%E9%81%93%E7%91%9C%E9%80%9D%E4%B8%96-23%E5%B9%B4%E5%87%BA%E5%B1%B1%E6%8B%8Dtvb%E5%8A%87-%E4%B8%80%E8%88%9E%E5%82%BE%E5%9F%8E-%E8%88%87%E8%94%A1%E6%BD%94%E6%9C%89%E5%BA%8A%E6%88%B2",
+    "timestamp": "2026-04-05T15:19:08.393Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "權發小廚觀塘工場凍肉擺走廊傳惡臭　租戶不滿　老闆誠懇登門磋商",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260401/1116102062749257728481902.jpeg/CZqlHeJWOWMh6AyiMx_-wCnzJjVEr6bO6KV7w-ile8M",
     "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E8%A9%B1%E9%A1%8C/60336476/%E6%81%90%E6%80%96%E8%BB%8A%E7%A6%8D-%E6%9C%89%E7%89%87-%E5%A5%BD%E5%AA%BD%E5%AA%BD%E9%A7%95%E9%9B%BB%E5%96%AE%E8%BB%8A%E9%81%AD%E8%B2%A8%E8%BB%8A%E8%BC%BE%E7%A2%8E%E6%85%98%E6%AD%BB-%E5%A5%B3%E5%85%92%E7%9B%AE%E6%93%8A%E5%B4%A9%E6%BD%B0%E7%97%9B%E5%93%AD",
     "timestamp": "2026-04-04T23:35:16.842Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "恐怖車禍‧有片│好媽媽駕電單車遭貨車輾碎慘死　女兒目擊崩潰痛哭",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260401/1116102062749257728481902.jpeg/CZqlHeJWOWMh6AyiMx_-wCnzJjVEr6bO6KV7w-ile8M",
-    "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E8%A9%B1%E9%A1%8C/60336476/%E6%81%90%E6%80%96%E8%BB%8A%E7%A6%8D-%E6%9C%89%E7%89%87-%E5%A5%BD%E5%AA%BD%E5%AA%BD%E9%A7%95%E9%9B%BB%E5%96%AE%E8%BB%8A%E9%81%AD%E8%B2%A8%E8%BB%8A%E8%BC%BE%E7%A2%8E%E6%85%98%E6%AD%BB-%E5%A5%B3%E5%85%92%E7%9B%AE%E6%93%8A%E5%B4%A9%E6%BD%B0%E7%97%9B%E5%93%AD",
-    "timestamp": "2026-04-04T23:17:42.166Z",
     "strategy": ".content-card__main"
   }
 ];
