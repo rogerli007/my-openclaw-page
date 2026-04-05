@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-05T16:01:56.220Z
+// Last updated: 2026-04-05T16:43:59.576Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "陳耀李道瑜逝世｜第五期藝訓班出身　拍完《我老婆係賭聖》從商",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260405/1117606905343119360014873.jpeg/FuLsxvCQNtDagcPaSb2B3GnjormVW6XAk0FYepNBWHo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60337537/%E9%99%B3%E8%80%80%E6%9D%8E%E9%81%93%E7%91%9C%E9%80%9D%E4%B8%96-%E7%AC%AC%E4%BA%94%E6%9C%9F%E8%97%9D%E8%A8%93%E7%8F%AD%E5%87%BA%E8%BA%AB-%E6%8B%8D%E5%AE%8C-%E6%88%91%E8%80%81%E5%A9%86%E4%BF%82%E8%B3%AD%E8%81%96-%E5%BE%9E%E5%95%86",
+    "timestamp": "2026-04-05T16:43:59.576Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "陳豪回應「3000萬天價包薪」傳聞　仲自爆NG 40次惹梅小青不滿",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260405/1117394341195681792914857.png/L51GHES51UUI_9q6W18Oz-X8ttAH0Y7nq6zuiqus7oo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8F%B0%E7%81%A3%E6%96%B0%E8%81%9E/60337383/%E5%8F%B0%E7%81%A3%E5%9C%B0%E9%9C%87-%E5%8F%B0%E7%81%A3%E8%8A%B1%E8%93%AE%E5%87%8C%E6%99%A8%E7%99%BC%E7%94%9F5-7%E7%B4%9A%E5%8F%8A4-8%E7%B4%9A%E5%9C%B0%E9%9C%87-%E5%85%A8%E5%8F%B0%E6%9C%89%E9%9C%87%E6%84%9F",
     "timestamp": "2026-04-05T01:43:52.145Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美國路易斯安那州一汽車衝入人群　至少15傷",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260405/1117370068041207808308251.jpeg/Kn63Crv04443MXcH9NMvlSLjcyNioY5266zGaeusxmk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60337374/%E7%BE%8E%E5%9C%8B%E8%B7%AF%E6%98%93%E6%96%AF%E5%AE%89%E9%82%A3%E5%B7%9E%E4%B8%80%E6%B1%BD%E8%BB%8A%E8%A1%9D%E5%85%A5%E4%BA%BA%E7%BE%A4-%E8%87%B3%E5%B0%9115%E5%82%B7",
-    "timestamp": "2026-04-05T00:00:29.342Z",
     "strategy": ".content-card__main"
   }
 ];
