@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-05T20:19:13.202Z
+// Last updated: 2026-04-05T20:37:21.756Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "有片！沙田小巴驚現超載　男乘客坐車門前　網民：全車人變無保險",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260405/1117447873999409152210364.png/lfw9iI5f-4fEoLhIql4rRHmIJjwCpKjiYTr49mE6-PY",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60337385/%E6%9C%89%E7%89%87-%E6%B2%99%E7%94%B0%E5%B0%8F%E5%B7%B4%E9%A9%9A%E7%8F%BE%E8%B6%85%E8%BC%89-%E7%94%B7%E4%B9%98%E5%AE%A2%E5%9D%90%E8%BB%8A%E9%96%80%E5%89%8D-%E7%B6%B2%E6%B0%91-%E5%85%A8%E8%BB%8A%E4%BA%BA%E8%AE%8A%E7%84%A1%E4%BF%9D%E9%9A%AA",
+    "timestamp": "2026-04-05T20:37:21.756Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "英足總盃︱韋斯咸互射12碼落敗　列斯聯晉級四強",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260405/1117535747046379520056821.jpeg/Iq5zYeMFfJXCVVK4o7DOR3yixLWHYTzUPQDgFj0A4BY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60337492/%E9%9F%93%E5%9C%8B%E9%80%BE%E7%99%BE%E4%B8%AD%E5%9C%8B%E7%95%99%E5%AD%B8%E7%94%9F%E6%B6%89%E5%AD%B8%E6%AD%B7%E9%80%A0%E5%81%87-5%E5%AD%B8%E7%94%9F%E4%B8%8D%E6%9C%8D%E9%81%AD%E5%8B%92%E4%BB%A4%E5%87%BA%E5%A2%83%E6%8F%90%E8%A1%8C%E6%94%BF%E8%A8%B4%E8%A8%9F",
     "timestamp": "2026-04-05T11:20:01.847Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "智能廚餘回收桶｜115屋苑安裝　涵27萬住戶　回收逾7300公噸廚餘",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260405/1117502666465873920952640.jpeg/uaTW55edALs46VVE1apEnzTPlhqr0xRS-_XnK_v15ys?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60337457/%E6%99%BA%E8%83%BD%E5%BB%9A%E9%A4%98%E5%9B%9E%E6%94%B6%E6%A1%B6-115%E5%B1%8B%E8%8B%91%E5%AE%89%E8%A3%9D-%E6%B6%B527%E8%90%AC%E4%BD%8F%E6%88%B6-%E5%9B%9E%E6%94%B6%E9%80%BE7300%E5%85%AC%E5%99%B8%E5%BB%9A%E9%A4%98",
-    "timestamp": "2026-04-05T09:52:21.352Z",
     "strategy": ".content-card__main"
   }
 ];
