@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-05T18:04:53.025Z
+// Last updated: 2026-04-05T18:53:32.168Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美媒：美官員討論戰爭進入新階段　將發電廠橋樑列為合法打擊目標",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260403/1116763548295368704576034.jpeg/Rcfw-IGKO_nKN69LkPLlZIyWlLeYYoxeGfzo9xn86Pc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60337548/%E7%BE%8E%E5%AA%92-%E7%BE%8E%E5%AE%98%E5%93%A1%E8%A8%8E%E8%AB%96%E6%88%B0%E7%88%AD%E9%80%B2%E5%85%A5%E6%96%B0%E9%9A%8E%E6%AE%B5-%E5%B0%87%E7%99%BC%E9%9B%BB%E5%BB%A0%E6%A9%8B%E6%A8%91%E5%88%97%E7%82%BA%E5%90%88%E6%B3%95%E6%89%93%E6%93%8A%E7%9B%AE%E6%A8%99",
+    "timestamp": "2026-04-05T18:53:32.168Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "伊朗戰爭｜特朗普疑延長最後通牒時間24小時",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260403/1116876981116342272453186.jpeg/1VK8uuo_F_yu2e93SQoVXKapKvFX7WMRkLwyGLW8Mhg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60337437/%E5%BE%A9%E6%B4%BB%E7%AF%80%E9%95%B7%E5%81%87%E6%9C%9F-%E9%81%8E%E5%8E%BB%E5%85%A9%E6%97%A5126%E8%90%AC%E6%B8%AF%E4%BA%BA%E9%9B%A2%E6%B8%AF-%E4%BB%8A%E6%88%AA%E8%87%B310%E6%99%8213%E8%90%AC%E6%B8%AF%E4%BA%BA%E5%87%BA%E5%A2%83",
     "timestamp": "2026-04-05T07:22:50.086Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "清明節拜山人潮減　新廈街電梯不用排　孝子賢孫：長假港人都外遊",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260405/1117456621463670784981756.jpeg/FmFkfSMTuLdpQP5-1_zwx2PYj0pCDfivFxQxzDIUMcw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60337427/%E6%B8%85%E6%98%8E%E7%AF%80%E6%8B%9C%E5%B1%B1%E4%BA%BA%E6%BD%AE%E6%B8%9B-%E6%96%B0%E5%BB%88%E8%A1%97%E9%9B%BB%E6%A2%AF%E4%B8%8D%E7%94%A8%E6%8E%92-%E5%AD%9D%E5%AD%90%E8%B3%A2%E5%AD%AB-%E9%95%B7%E5%81%87%E6%B8%AF%E4%BA%BA%E9%83%BD%E5%A4%96%E9%81%8A",
-    "timestamp": "2026-04-05T06:19:30.144Z",
     "strategy": ".content-card__main"
   }
 ];
