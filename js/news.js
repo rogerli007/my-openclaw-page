@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-06T06:01:51.933Z
+// Last updated: 2026-04-06T07:43:34.868Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美媒：美伊已收到巴國停火協議框架　若雙方同意最快4月6日生效",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20230929/784406292142755840257860.jpeg/YjIl7eYs6MYgyi-VhRvJVd7cVTiRFfRdsgCpjLIAqYw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60337624/%E7%BE%8E%E5%AA%92-%E7%BE%8E%E4%BC%8A%E5%B7%B2%E6%94%B6%E5%88%B0%E5%B7%B4%E5%9C%8B%E5%81%9C%E7%81%AB%E5%8D%94%E8%AD%B0%E6%A1%86%E6%9E%B6-%E8%8B%A5%E9%9B%99%E6%96%B9%E5%90%8C%E6%84%8F%E6%9C%80%E5%BF%AB4%E6%9C%886%E6%97%A5%E7%94%9F%E6%95%88",
+    "timestamp": "2026-04-06T07:43:34.868Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "中國駐沙特大使館提醒公民減少外出　遠離敏感區域",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260406/1117620085347848192132694.png/BlFAG4cRJYBBwjptNM9UPygLchp21AAQDxKYHg8SmB4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60337541/%E9%98%BFmo%E5%BA%B7%E5%BE%A9%E8%B7%AF%E8%B5%B0%E9%81%8E193%E6%98%9F%E6%9C%9F-%E5%BE%9E%E4%BE%9D%E8%B3%B4%E7%B6%AD%E7%94%9F%E5%84%80%E5%99%A8%E5%88%B0%E8%83%BD%E5%88%86%E4%BA%AB-%E9%96%8B-%E9%9B%BB%E5%8B%95%E8%BC%AA%E6%A4%85",
     "timestamp": "2026-04-05T17:03:21.164Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "陳耀李道瑜逝世｜第五期藝訓班出身　拍完《我老婆係賭聖》從商",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260405/1117606905343119360014873.jpeg/FuLsxvCQNtDagcPaSb2B3GnjormVW6XAk0FYepNBWHo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60337537/%E9%99%B3%E8%80%80%E6%9D%8E%E9%81%93%E7%91%9C%E9%80%9D%E4%B8%96-%E7%AC%AC%E4%BA%94%E6%9C%9F%E8%97%9D%E8%A8%93%E7%8F%AD%E5%87%BA%E8%BA%AB-%E6%8B%8D%E5%AE%8C-%E6%88%91%E8%80%81%E5%A9%86%E4%BF%82%E8%B3%AD%E8%81%96-%E5%BE%9E%E5%95%86",
-    "timestamp": "2026-04-05T16:43:59.576Z",
     "strategy": ".content-card__main"
   }
 ];
