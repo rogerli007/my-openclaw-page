@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-06T18:31:24.500Z
+// Last updated: 2026-04-06T19:33:30.211Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "特朗普：伊朗或一夜被摧毀　倘7日不達協議　午夜再無大橋發電廠",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260407/1117999102920364032790526.jpeg/Qg7R5M97u-H7wwaVNelG5FBJvD6pcqj8_AdsQPwHbEA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60337746/%E7%89%B9%E6%9C%97%E6%99%AE-%E4%BC%8A%E6%9C%97%E6%88%96%E4%B8%80%E5%A4%9C%E8%A2%AB%E6%91%A7%E6%AF%80-%E5%80%987%E6%97%A5%E4%B8%8D%E9%81%94%E5%8D%94%E8%AD%B0-%E5%8D%88%E5%A4%9C%E5%86%8D%E7%84%A1%E5%A4%A7%E6%A9%8B%E7%99%BC%E9%9B%BB%E5%BB%A0",
+    "timestamp": "2026-04-06T19:33:30.211Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "特朗普：伊朗或一夜間遭摧毀　出動逾170軍機營救失蹤機師",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260406/1117694651399147520346127.jpeg/CBzUDVniSFalVEeuSLcol833tFINU8b6AZ2njQGdp40?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60337554/%E7%A6%8F%E5%B3%B6%E7%AC%AC%E4%BA%8C%E6%A0%B8%E9%9B%BB%E7%AB%991%E8%99%9F%E6%A9%9F%E7%B5%84%E7%87%83%E6%96%99%E6%B1%A0%E5%86%B7%E5%8D%BB%E7%B3%BB%E7%B5%B1%E6%95%85%E9%9A%9C%E5%81%9C%E9%81%8B",
     "timestamp": "2026-04-05T22:00:29.069Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "伊朗戰爭｜穆傑塔巴：須繼續封鎖霍爾木茲海峽",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260313/1108943395591557120867213.jpeg/_y3A9nrlw50P_8DlwC3iLIzUKMj13nPLuXUMP7l1DD8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60337553/%E4%BC%8A%E6%9C%97%E6%88%B0%E7%88%AD-%E7%A9%86%E5%82%91%E5%A1%94%E5%B7%B4-%E9%A0%88%E7%B9%BC%E7%BA%8C%E5%B0%81%E9%8E%96%E9%9C%8D%E7%88%BE%E6%9C%A8%E8%8C%B2%E6%B5%B7%E5%B3%BD",
-    "timestamp": "2026-04-05T21:42:24.615Z",
     "strategy": ".content-card__main"
   }
 ];
