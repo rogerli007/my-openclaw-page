@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-06T15:53:27.598Z
+// Last updated: 2026-04-06T17:53:30.929Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "復活節回港潮｜深圳灣口岸深夜打蛇餅　羅湖大塞車有人趕唔切過關",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260407/1118000565750599680574312.jpeg/cxykUMes8dHHE0Fgkquh2O2lpYxTxsjAVjEbylYxG8o?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60337741/%E5%BE%A9%E6%B4%BB%E7%AF%80%E5%9B%9E%E6%B8%AF%E6%BD%AE-%E6%B7%B1%E5%9C%B3%E7%81%A3%E5%8F%A3%E5%B2%B8%E6%B7%B1%E5%A4%9C%E6%89%93%E8%9B%87%E9%A4%85-%E7%BE%85%E6%B9%96%E5%A4%A7%E5%A1%9E%E8%BB%8A%E6%9C%89%E4%BA%BA%E8%B6%95%E5%94%94%E5%88%87%E9%81%8E%E9%97%9C",
+    "timestamp": "2026-04-06T17:53:30.929Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "《給十九歲的我》預告從遠東電影節網站下架　據悉未取消參展",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260405/1117447873999409152210364.png/lfw9iI5f-4fEoLhIql4rRHmIJjwCpKjiYTr49mE6-PY",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60337385/%E6%9C%89%E7%89%87-%E6%B2%99%E7%94%B0%E5%B0%8F%E5%B7%B4%E9%A9%9A%E7%8F%BE%E8%B6%85%E8%BC%89-%E7%94%B7%E4%B9%98%E5%AE%A2%E5%9D%90%E8%BB%8A%E9%96%80%E5%89%8D-%E7%B6%B2%E6%B0%91-%E5%85%A8%E8%BB%8A%E4%BA%BA%E8%AE%8A%E7%84%A1%E4%BF%9D%E9%9A%AA",
     "timestamp": "2026-04-05T21:24:45.485Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "有片！沙田小巴驚現超載　男乘客坐車門前　網民：全車人變無保險",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260405/1117447873999409152210364.png/lfw9iI5f-4fEoLhIql4rRHmIJjwCpKjiYTr49mE6-PY",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60337385/%E6%9C%89%E7%89%87-%E6%B2%99%E7%94%B0%E5%B0%8F%E5%B7%B4%E9%A9%9A%E7%8F%BE%E8%B6%85%E8%BC%89-%E7%94%B7%E4%B9%98%E5%AE%A2%E5%9D%90%E8%BB%8A%E9%96%80%E5%89%8D-%E7%B6%B2%E6%B0%91-%E5%85%A8%E8%BB%8A%E4%BA%BA%E8%AE%8A%E7%84%A1%E4%BF%9D%E9%9A%AA",
-    "timestamp": "2026-04-05T21:01:37.913Z",
     "strategy": ".content-card__main"
   }
 ];
