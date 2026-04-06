@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-06T01:48:02.057Z
+// Last updated: 2026-04-06T02:49:53.288Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "伊朗持續空襲鄰國　阿聯酋：願加入美國主導行動",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260404/1116974250691923968864732.jpeg/2-bJh1RQq-VMQT05Wqn9-sOynCgQBNEMMV9JpjFfSaY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60337579/%E4%BC%8A%E6%9C%97%E6%8C%81%E7%BA%8C%E7%A9%BA%E8%A5%B2%E9%84%B0%E5%9C%8B-%E9%98%BF%E8%81%AF%E9%85%8B-%E9%A1%98%E5%8A%A0%E5%85%A5%E7%BE%8E%E5%9C%8B%E4%B8%BB%E5%B0%8E%E8%A1%8C%E5%8B%95",
+    "timestamp": "2026-04-06T02:49:53.288Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "教宗良十四世發表首份復活節文告　敦促各國當權者「選擇和平」",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260405/1117598221380620288612908.jpeg/2L5kQCh--xOuBlGq2x8Uep0tRWHx8l8IsEnjc7BJ43M?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60337533/%E9%99%B3%E8%80%80-%E6%9D%8E%E9%81%93%E7%91%9C%E9%80%9D%E4%B8%96-23%E5%B9%B4%E5%87%BA%E5%B1%B1%E6%8B%8Dtvb%E5%8A%87-%E4%B8%80%E8%88%9E%E5%82%BE%E5%9F%8E-%E8%88%87%E8%94%A1%E6%BD%94%E6%9C%89%E5%BA%8A%E6%88%B2",
     "timestamp": "2026-04-05T15:19:08.393Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "權發小廚觀塘工場凍肉擺走廊傳惡臭　租戶不滿　老闆誠懇登門磋商",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260405/1117589844269207552701942.jpeg/J5VOS2RCyG6jyuAGa4EQhsVzYUHpOf0BBwdpywcHacs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60337524/%E6%AC%8A%E7%99%BC%E5%B0%8F%E5%BB%9A%E8%A7%80%E5%A1%98%E5%B7%A5%E5%A0%B4%E5%87%8D%E8%82%89%E6%93%BA%E8%B5%B0%E5%BB%8A%E5%82%B3%E6%83%A1%E8%87%AD-%E7%A7%9F%E6%88%B6%E4%B8%8D%E6%BB%BF-%E8%80%81%E9%97%86%E8%AA%A0%E6%87%87%E7%99%BB%E9%96%80%E7%A3%8B%E5%95%86",
-    "timestamp": "2026-04-05T14:51:01.221Z",
     "strategy": ".content-card__main"
   }
 ];
