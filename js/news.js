@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-06T22:38:37.437Z
+// Last updated: 2026-04-06T23:04:11.029Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "天氣｜今日有一兩陣驟雨　日間炎熱市區約30度　新界再高一兩度",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260407/1118067127132229632943751.jpeg/US1-5QIf8mszFtSUIKKnY8PvvnYPh2TTYilOHGIpThw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60337753/%E5%A4%A9%E6%B0%A3-%E4%BB%8A%E6%97%A5%E6%9C%89%E4%B8%80%E5%85%A9%E9%99%A3%E9%A9%9F%E9%9B%A8-%E6%97%A5%E9%96%93%E7%82%8E%E7%86%B1%E5%B8%82%E5%8D%80%E7%B4%8430%E5%BA%A6-%E6%96%B0%E7%95%8C%E5%86%8D%E9%AB%98%E4%B8%80%E5%85%A9%E5%BA%A6",
+    "timestamp": "2026-04-06T23:04:11.029Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "天氣｜今日有一兩陣驟雨　日間炎熱市區約30度　新界再高一兩度",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260404/1116974250691923968864732.jpeg/2-bJh1RQq-VMQT05Wqn9-sOynCgQBNEMMV9JpjFfSaY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60337579/%E4%BC%8A%E6%9C%97%E6%8C%81%E7%BA%8C%E7%A9%BA%E8%A5%B2%E9%84%B0%E5%9C%8B-%E9%98%BF%E8%81%AF%E9%85%8B-%E9%A1%98%E5%8A%A0%E5%85%A5%E7%BE%8E%E5%9C%8B%E4%B8%BB%E5%B0%8E%E8%A1%8C%E5%8B%95",
     "timestamp": "2026-04-06T02:49:53.288Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "教宗良十四世發表首份復活節文告　敦促各國當權者「選擇和平」",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260406/1117757331921178624709816.jpeg/4EGx3dUUkjUFvnOy_2uKEdimJirMXeSTf_3WS3_91ks?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60337569/%E6%95%99%E5%AE%97%E8%89%AF%E5%8D%81%E5%9B%9B%E4%B8%96%E7%99%BC%E8%A1%A8%E9%A6%96%E4%BB%BD%E5%BE%A9%E6%B4%BB%E7%AF%80%E6%96%87%E5%91%8A-%E6%95%A6%E4%BF%83%E5%90%84%E5%9C%8B%E7%95%B6%E6%AC%8A%E8%80%85-%E9%81%B8%E6%93%87%E5%92%8C%E5%B9%B3",
-    "timestamp": "2026-04-06T01:48:02.057Z",
     "strategy": ".content-card__main"
   }
 ];
