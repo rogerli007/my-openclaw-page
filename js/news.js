@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-06T19:33:30.211Z
+// Last updated: 2026-04-06T20:23:33.542Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美國載人飛船將探索月背　打破人類距離地球最遠飛行紀錄",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260407/1118026604254072832278946.jpeg/I73Q-QN1fdfLvMhBMk3rtpcjFjXYJ_lGLRKbLS0Smy0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60337748/%E7%BE%8E%E5%9C%8B%E8%BC%89%E4%BA%BA%E9%A3%9B%E8%88%B9%E5%B0%87%E6%8E%A2%E7%B4%A2%E6%9C%88%E8%83%8C-%E6%89%93%E7%A0%B4%E4%BA%BA%E9%A1%9E%E8%B7%9D%E9%9B%A2%E5%9C%B0%E7%90%83%E6%9C%80%E9%81%A0%E9%A3%9B%E8%A1%8C%E7%B4%80%E9%8C%84",
+    "timestamp": "2026-04-06T20:23:33.542Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "特朗普：伊朗或一夜被摧毀　倘7日不達協議　午夜再無大橋發電廠",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260406/1117701864348061696921453.jpeg/BCGDqeN_pbYtVfZYRjXogugCSLfy7xXfAZ4G5AGeBuQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60337551/%E5%A4%A9%E6%B0%A3-%E4%BB%8A%E6%97%A5%E6%9C%89%E5%B9%BE%E9%99%A3%E9%A9%9F%E9%9B%A8-%E5%88%9D%E6%99%82%E5%B1%80%E9%83%A8%E5%9C%B0%E5%8D%80%E6%9C%89%E9%9B%B7%E6%9A%B4-%E6%9C%80%E9%AB%9828%E5%BA%A6",
     "timestamp": "2026-04-05T22:16:14.715Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "福島第二核電站1號機組燃料池冷卻系統故障停運",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260406/1117694651399147520346127.jpeg/CBzUDVniSFalVEeuSLcol833tFINU8b6AZ2njQGdp40?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60337554/%E7%A6%8F%E5%B3%B6%E7%AC%AC%E4%BA%8C%E6%A0%B8%E9%9B%BB%E7%AB%991%E8%99%9F%E6%A9%9F%E7%B5%84%E7%87%83%E6%96%99%E6%B1%A0%E5%86%B7%E5%8D%BB%E7%B3%BB%E7%B5%B1%E6%95%85%E9%9A%9C%E5%81%9C%E9%81%8B",
-    "timestamp": "2026-04-05T22:00:29.069Z",
     "strategy": ".content-card__main"
   }
 ];
