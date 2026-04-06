@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-06T14:30:38.064Z
+// Last updated: 2026-04-06T14:57:23.596Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "影片直擊｜兩少年球場動武糾纏倒地　一人亮刀一人戴鐵蓮花",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260406/1117954177125847040367190.jpeg/stGnwjfPvZpFWASc2MJQ5kzUy3n1m-2Q9KE8IPShPCA?v=w1920",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60337730/%E5%BD%B1%E7%89%87%E7%9B%B4%E6%93%8A-%E5%85%A9%E5%B0%91%E5%B9%B4%E7%90%83%E5%A0%B4%E5%8B%95%E6%AD%A6%E7%B3%BE%E7%BA%8F%E5%80%92%E5%9C%B0-%E4%B8%80%E4%BA%BA%E4%BA%AE%E5%88%80%E4%B8%80%E4%BA%BA%E6%88%B4%E9%90%B5%E8%93%AE%E8%8A%B1",
+    "timestamp": "2026-04-06T14:57:23.596Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "吳麗珠罕有提及與許冠武長達12年的戀情：有時有啲嘢冇得後悔",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260405/1117447873999409152210364.png/lfw9iI5f-4fEoLhIql4rRHmIJjwCpKjiYTr49mE6-PY",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60337385/%E6%9C%89%E7%89%87-%E6%B2%99%E7%94%B0%E5%B0%8F%E5%B7%B4%E9%A9%9A%E7%8F%BE%E8%B6%85%E8%BC%89-%E7%94%B7%E4%B9%98%E5%AE%A2%E5%9D%90%E8%BB%8A%E9%96%80%E5%89%8D-%E7%B6%B2%E6%B0%91-%E5%85%A8%E8%BB%8A%E4%BA%BA%E8%AE%8A%E7%84%A1%E4%BF%9D%E9%9A%AA",
     "timestamp": "2026-04-05T20:37:21.756Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "英足總盃︱韋斯咸互射12碼落敗　列斯聯晉級四強",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260406/1117655826346020864634572.jpeg/EVR0kw1cS5F4u9WZFiI6RI_dmxN-1NKUWOs3b1jrN28?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60337550/%E8%8B%B1%E8%B6%B3%E7%B8%BD%E7%9B%83-%E9%9F%8B%E6%96%AF%E5%92%B8%E4%BA%92%E5%B0%8412%E7%A2%BC%E8%90%BD%E6%95%97-%E5%88%97%E6%96%AF%E8%81%AF%E6%99%89%E7%B4%9A%E5%9B%9B%E5%BC%B7",
-    "timestamp": "2026-04-05T20:19:13.202Z",
     "strategy": ".content-card__main"
   }
 ];
