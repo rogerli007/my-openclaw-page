@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-06T23:04:11.029Z
+// Last updated: 2026-04-06T23:24:39.833Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "男友下體長達17厘米！持久激戰最長維持1小時　女生太累崩潰喊慘",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260405/1117302373484597248057682.png/GB-RWrBFtAM1udydPNGdSiNGvxQF4mWP3tCO7d7Qju0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E8%A9%B1%E9%A1%8C/60312810/%E7%94%B7%E5%8F%8B%E4%B8%8B%E9%AB%94%E9%95%B7%E9%81%9417%E5%8E%98%E7%B1%B3-%E6%8C%81%E4%B9%85%E6%BF%80%E6%88%B0%E6%9C%80%E9%95%B7%E7%B6%AD%E6%8C%811%E5%B0%8F%E6%99%82-%E5%A5%B3%E7%94%9F%E5%A4%AA%E7%B4%AF%E5%B4%A9%E6%BD%B0%E5%96%8A%E6%85%98",
+    "timestamp": "2026-04-06T23:24:39.833Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "天氣｜今日有一兩陣驟雨　日間炎熱市區約30度　新界再高一兩度",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260315/1109789975248900096793201.jpeg/CbjfVOUOlTwGsqeOPO_vzuJuLSpMokeEHCiWMRwoljE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60337587/%E7%BE%8E%E5%AA%92-%E7%BE%8E%E4%BC%8A%E7%82%BA%E7%88%AD%E5%8F%9645%E5%A4%A9%E5%81%9C%E7%81%AB%E5%81%9A%E6%9C%80%E5%BE%8C%E5%8A%AA%E5%8A%9B-%E7%B5%82%E6%88%B0%E8%AB%87%E5%88%A4%E6%88%96%E9%80%B2%E5%85%A5%E7%9B%B4%E8%B7%AF",
     "timestamp": "2026-04-06T03:56:47.183Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "伊朗持續空襲鄰國　阿聯酋：願加入美國主導行動",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260404/1116974250691923968864732.jpeg/2-bJh1RQq-VMQT05Wqn9-sOynCgQBNEMMV9JpjFfSaY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60337579/%E4%BC%8A%E6%9C%97%E6%8C%81%E7%BA%8C%E7%A9%BA%E8%A5%B2%E9%84%B0%E5%9C%8B-%E9%98%BF%E8%81%AF%E9%85%8B-%E9%A1%98%E5%8A%A0%E5%85%A5%E7%BE%8E%E5%9C%8B%E4%B8%BB%E5%B0%8E%E8%A1%8C%E5%8B%95",
-    "timestamp": "2026-04-06T02:49:53.288Z",
     "strategy": ".content-card__main"
   }
 ];
