@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-06T12:40:05.984Z
+// Last updated: 2026-04-06T13:16:04.591Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "姐姐啃老10年！不工作狂打機　妹妹急問怎辦？　網民獻計：斷金援",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260403/1116764127209984000472806.png/uK08p7ZdJIYpeK-OfsZo3qxxPmMM9Sj4fl8CMH5fAjA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60276959/%E5%A7%90%E5%A7%90-%E5%95%83%E8%80%81-10%E5%B9%B4-%E6%8B%92%E5%8D%87%E5%AD%B8%E4%B8%8D%E5%B7%A5%E4%BD%9C%E7%8B%82%E6%89%93%E6%A9%9F-%E5%AE%B6%E4%BA%BA%E5%91%BB%E6%85%98-%E7%B6%B2%E6%B0%91%E9%BB%9E%E5%87%BA%E9%97%9C%E9%8D%B5",
+    "timestamp": "2026-04-06T13:16:04.591Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "一道藥品關稅劃出美台關係「斬殺線」",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260406/1117655826346020864634572.jpeg/EVR0kw1cS5F4u9WZFiI6RI_dmxN-1NKUWOs3b1jrN28?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60337550/%E8%8B%B1%E8%B6%B3%E7%B8%BD%E7%9B%83-%E9%9F%8B%E6%96%AF%E5%92%B8%E4%BA%92%E5%B0%8412%E7%A2%BC%E8%90%BD%E6%95%97-%E5%88%97%E6%96%AF%E8%81%AF%E6%99%89%E7%B4%9A%E5%9B%9B%E5%BC%B7",
     "timestamp": "2026-04-05T20:02:31.153Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "英足總盃︱韋斯咸互射12碼落敗　列斯聯晉級四強",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260406/1117655826346020864634572.jpeg/EVR0kw1cS5F4u9WZFiI6RI_dmxN-1NKUWOs3b1jrN28?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60337550/%E8%8B%B1%E8%B6%B3%E7%B8%BD%E7%9B%83-%E9%9F%8B%E6%96%AF%E5%92%B8%E4%BA%92%E5%B0%8412%E7%A2%BC%E8%90%BD%E6%95%97-%E5%88%97%E6%96%AF%E8%81%AF%E6%99%89%E7%B4%9A%E5%9B%9B%E5%BC%B7",
-    "timestamp": "2026-04-05T19:49:21.860Z",
     "strategy": ".content-card__main"
   }
 ];
