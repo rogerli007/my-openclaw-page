@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-06T11:39:33.915Z
+// Last updated: 2026-04-06T12:06:13.069Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "啟德DOUBLE COAST III周五發售88伙　全盤累售399伙、套現近32億",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260406/1117912994219560960451680.jpeg/K_1SO7CYn8wIOkbGxCDurDU_zJEXApM92bHKNtmxyjY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60337707/%E5%95%9F%E5%BE%B7double-coast-iii%E5%91%A8%E4%BA%94%E7%99%BC%E5%94%AE88%E4%BC%99-%E5%85%A8%E7%9B%A4%E7%B4%AF%E5%94%AE399%E4%BC%99-%E5%A5%97%E7%8F%BE%E8%BF%9132%E5%84%84",
+    "timestamp": "2026-04-06T12:06:13.069Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "天文台料周五起吹南風既濕且熱　氣溫最高30度、相對濕度90%至95%",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260403/1116763548295368704576034.jpeg/Rcfw-IGKO_nKN69LkPLlZIyWlLeYYoxeGfzo9xn86Pc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60337548/%E7%BE%8E%E5%AA%92-%E7%BE%8E%E5%AE%98%E5%93%A1%E8%A8%8E%E8%AB%96%E6%88%B0%E7%88%AD%E9%80%B2%E5%85%A5%E6%96%B0%E9%9A%8E%E6%AE%B5-%E5%B0%87%E7%99%BC%E9%9B%BB%E5%BB%A0%E6%A9%8B%E6%A8%91%E5%88%97%E7%82%BA%E5%90%88%E6%B3%95%E6%89%93%E6%93%8A%E7%9B%AE%E6%A8%99",
     "timestamp": "2026-04-05T18:53:32.168Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "伊朗戰爭｜特朗普疑延長最後通牒時間24小時",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260402/1116319331026735104621038.jpeg/NCXHK1K1XvP8hb4P31Svcom7GiOCZllkzV4ZL81eGS8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60337544/%E4%BC%8A%E6%9C%97%E6%88%B0%E7%88%AD-%E7%89%B9%E6%9C%97%E6%99%AE%E7%96%91%E5%BB%B6%E9%95%B7%E6%9C%80%E5%BE%8C%E9%80%9A%E7%89%92%E6%99%82%E9%96%9324%E5%B0%8F%E6%99%82",
-    "timestamp": "2026-04-05T18:04:53.025Z",
     "strategy": ".content-card__main"
   }
 ];
