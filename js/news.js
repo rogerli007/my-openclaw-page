@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-06T10:17:57.276Z
+// Last updated: 2026-04-06T11:13:41.501Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "迷你奶茶？茶記熱奶茶細似微縮玩具　食客呻慳皮　網民嘲分子料理",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260405/1117504597846396928846307.png/wYevSIF29Jo2ZPHuOyFU5FKkb5zm1XRXsnSGa7J0hms?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60337438/%E8%BF%B7%E4%BD%A0%E5%A5%B6%E8%8C%B6-%E8%8C%B6%E8%A8%98%E7%86%B1%E5%A5%B6%E8%8C%B6%E7%B4%B0%E4%BC%BC%E5%BE%AE%E7%B8%AE%E7%8E%A9%E5%85%B7-%E9%A3%9F%E5%AE%A2%E5%91%BB%E6%85%B3%E7%9A%AE-%E7%B6%B2%E6%B0%91%E5%98%B2%E5%88%86%E5%AD%90%E6%96%99%E7%90%86",
+    "timestamp": "2026-04-06T11:13:41.501Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "內地女批「香港是舊城市」？本尊澄清真實版本　仙氣美貌全網力撐",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260402/1116319331026735104621038.jpeg/NCXHK1K1XvP8hb4P31Svcom7GiOCZllkzV4ZL81eGS8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60337544/%E4%BC%8A%E6%9C%97%E6%88%B0%E7%88%AD-%E7%89%B9%E6%9C%97%E6%99%AE%E7%96%91%E5%BB%B6%E9%95%B7%E6%9C%80%E5%BE%8C%E9%80%9A%E7%89%92%E6%99%82%E9%96%9324%E5%B0%8F%E6%99%82",
     "timestamp": "2026-04-05T17:49:50.138Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "伊朗戰爭｜特朗普疑延長最後通牒時間24小時",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260402/1116319331026735104621038.jpeg/NCXHK1K1XvP8hb4P31Svcom7GiOCZllkzV4ZL81eGS8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60337544/%E4%BC%8A%E6%9C%97%E6%88%B0%E7%88%AD-%E7%89%B9%E6%9C%97%E6%99%AE%E7%96%91%E5%BB%B6%E9%95%B7%E6%9C%80%E5%BE%8C%E9%80%9A%E7%89%92%E6%99%82%E9%96%9324%E5%B0%8F%E6%99%82",
-    "timestamp": "2026-04-05T17:20:51.046Z",
     "strategy": ".content-card__main"
   }
 ];
