@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-06T02:49:53.288Z
+// Last updated: 2026-04-06T03:56:47.183Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美媒：美伊為爭取45天停火做最後努力　終戰談判或進入直路",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260315/1109789975248900096793201.jpeg/CbjfVOUOlTwGsqeOPO_vzuJuLSpMokeEHCiWMRwoljE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60337587/%E7%BE%8E%E5%AA%92-%E7%BE%8E%E4%BC%8A%E7%82%BA%E7%88%AD%E5%8F%9645%E5%A4%A9%E5%81%9C%E7%81%AB%E5%81%9A%E6%9C%80%E5%BE%8C%E5%8A%AA%E5%8A%9B-%E7%B5%82%E6%88%B0%E8%AB%87%E5%88%A4%E6%88%96%E9%80%B2%E5%85%A5%E7%9B%B4%E8%B7%AF",
+    "timestamp": "2026-04-06T03:56:47.183Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "伊朗持續空襲鄰國　阿聯酋：願加入美國主導行動",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260405/1117585878810628096835960.jpeg/32PmkqxZQwS-l45ZJTmlMGKjdOwFOL17ndCZa53QmWs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60337515/%E9%99%B3%E8%B1%AA%E5%9B%9E%E6%87%89-3000%E8%90%AC%E5%A4%A9%E5%83%B9%E5%8C%85%E8%96%AA-%E5%82%B3%E8%81%9E-%E4%BB%B2%E8%87%AA%E7%88%86ng-40%E6%AC%A1%E6%83%B9%E6%A2%85%E5%B0%8F%E9%9D%92%E4%B8%8D%E6%BB%BF",
     "timestamp": "2026-04-05T16:01:56.220Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "「陳耀」李道瑜逝世｜23年出山拍TVB劇《一舞傾城》 與蔡潔有床戲",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260405/1117598221380620288612908.jpeg/2L5kQCh--xOuBlGq2x8Uep0tRWHx8l8IsEnjc7BJ43M?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60337533/%E9%99%B3%E8%80%80-%E6%9D%8E%E9%81%93%E7%91%9C%E9%80%9D%E4%B8%96-23%E5%B9%B4%E5%87%BA%E5%B1%B1%E6%8B%8Dtvb%E5%8A%87-%E4%B8%80%E8%88%9E%E5%82%BE%E5%9F%8E-%E8%88%87%E8%94%A1%E6%BD%94%E6%9C%89%E5%BA%8A%E6%88%B2",
-    "timestamp": "2026-04-05T15:19:08.393Z",
     "strategy": ".content-card__main"
   }
 ];
