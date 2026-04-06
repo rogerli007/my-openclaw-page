@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-06T23:24:39.833Z
+// Last updated: 2026-04-06T23:52:33.554Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "男友下體長達17厘米！持久激戰最長維持1小時　女生太累崩潰喊慘",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260405/1117302373484597248057682.png/GB-RWrBFtAM1udydPNGdSiNGvxQF4mWP3tCO7d7Qju0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E8%A9%B1%E9%A1%8C/60312810/%E7%94%B7%E5%8F%8B%E4%B8%8B%E9%AB%94%E9%95%B7%E9%81%9417%E5%8E%98%E7%B1%B3-%E6%8C%81%E4%B9%85%E6%BF%80%E6%88%B0%E6%9C%80%E9%95%B7%E7%B6%AD%E6%8C%811%E5%B0%8F%E6%99%82-%E5%A5%B3%E7%94%9F%E5%A4%AA%E7%B4%AF%E5%B4%A9%E6%BD%B0%E5%96%8A%E6%85%98",
+    "timestamp": "2026-04-06T23:52:33.554Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "男友下體長達17厘米！持久激戰最長維持1小時　女生太累崩潰喊慘",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260406/1117822289040117760398057.jpeg/7I0SYZdwHfcopmQqOfKtH_1IHiQTtLTDcL9ezXC_Xs0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60337606/%E4%B8%AD%E5%9C%8B%E9%A7%90%E6%B2%99%E7%89%B9%E5%A4%A7%E4%BD%BF%E9%A4%A8%E6%8F%90%E9%86%92%E5%85%AC%E6%B0%91%E6%B8%9B%E5%B0%91%E5%A4%96%E5%87%BA-%E9%81%A0%E9%9B%A2%E6%95%8F%E6%84%9F%E5%8D%80%E5%9F%9F",
     "timestamp": "2026-04-06T06:01:51.933Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美媒：美伊為爭取45天停火做最後努力　終戰談判或進入直路",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260315/1109789975248900096793201.jpeg/CbjfVOUOlTwGsqeOPO_vzuJuLSpMokeEHCiWMRwoljE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60337587/%E7%BE%8E%E5%AA%92-%E7%BE%8E%E4%BC%8A%E7%82%BA%E7%88%AD%E5%8F%9645%E5%A4%A9%E5%81%9C%E7%81%AB%E5%81%9A%E6%9C%80%E5%BE%8C%E5%8A%AA%E5%8A%9B-%E7%B5%82%E6%88%B0%E8%AB%87%E5%88%A4%E6%88%96%E9%80%B2%E5%85%A5%E7%9B%B4%E8%B7%AF",
-    "timestamp": "2026-04-06T03:56:47.183Z",
     "strategy": ".content-card__main"
   }
 ];
