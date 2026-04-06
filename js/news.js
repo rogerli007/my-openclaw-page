@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-06T07:43:34.868Z
+// Last updated: 2026-04-06T10:17:57.276Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "內地女批「香港是舊城市」？本尊澄清真實版本　仙氣美貌全網力撐",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260406/1117870590833725440059124.jpeg/fU4xPr79CdIy04kzfKTL1o4Lz509-Wc0OWJrczlia3M",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60337605/%E5%85%A7%E5%9C%B0%E5%A5%B3%E6%89%B9-%E9%A6%99%E6%B8%AF%E6%98%AF%E8%88%8A%E5%9F%8E%E5%B8%82-%E6%9C%AC%E5%B0%8A%E6%BE%84%E6%B8%85%E7%9C%9F%E5%AF%A6%E7%89%88%E6%9C%AC-%E4%BB%99%E6%B0%A3%E7%BE%8E%E8%B2%8C%E5%85%A8%E7%B6%B2%E5%8A%9B%E6%92%90",
+    "timestamp": "2026-04-06T10:17:57.276Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美媒：美伊已收到巴國停火協議框架　若雙方同意最快4月6日生效",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260402/1116319331026735104621038.jpeg/NCXHK1K1XvP8hb4P31Svcom7GiOCZllkzV4ZL81eGS8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60337544/%E4%BC%8A%E6%9C%97%E6%88%B0%E7%88%AD-%E7%89%B9%E6%9C%97%E6%99%AE%E7%96%91%E5%BB%B6%E9%95%B7%E6%9C%80%E5%BE%8C%E9%80%9A%E7%89%92%E6%99%82%E9%96%9324%E5%B0%8F%E6%99%82",
     "timestamp": "2026-04-05T17:20:51.046Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "阿Mo康復路走過193星期　從依賴維生儀器到能分享「開」電動輪椅",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260406/1117620085347848192132694.png/BlFAG4cRJYBBwjptNM9UPygLchp21AAQDxKYHg8SmB4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60337541/%E9%98%BFmo%E5%BA%B7%E5%BE%A9%E8%B7%AF%E8%B5%B0%E9%81%8E193%E6%98%9F%E6%9C%9F-%E5%BE%9E%E4%BE%9D%E8%B3%B4%E7%B6%AD%E7%94%9F%E5%84%80%E5%99%A8%E5%88%B0%E8%83%BD%E5%88%86%E4%BA%AB-%E9%96%8B-%E9%9B%BB%E5%8B%95%E8%BC%AA%E6%A4%85",
-    "timestamp": "2026-04-05T17:03:21.164Z",
     "strategy": ".content-card__main"
   }
 ];
