@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-06T12:06:13.069Z
+// Last updated: 2026-04-06T12:40:05.984Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "一道藥品關稅劃出美台關係「斬殺線」",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260406/1117868832753455104408153.jpeg/UVpuNpbRSDC7EaRwaeSwM-OsPZOI6tP7U_f72FP3-9g?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E4%B8%AD%E5%9C%8B%E8%A7%80%E5%AF%9F/60337663/%E4%B8%80%E9%81%93%E8%97%A5%E5%93%81%E9%97%9C%E7%A8%85%E5%8A%83%E5%87%BA%E7%BE%8E%E5%8F%B0%E9%97%9C%E4%BF%82-%E6%96%AC%E6%AE%BA%E7%B7%9A",
+    "timestamp": "2026-04-06T12:40:05.984Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "啟德DOUBLE COAST III周五發售88伙　全盤累售399伙、套現近32億",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260406/1117655826346020864634572.jpeg/EVR0kw1cS5F4u9WZFiI6RI_dmxN-1NKUWOs3b1jrN28?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60337550/%E8%8B%B1%E8%B6%B3%E7%B8%BD%E7%9B%83-%E9%9F%8B%E6%96%AF%E5%92%B8%E4%BA%92%E5%B0%8412%E7%A2%BC%E8%90%BD%E6%95%97-%E5%88%97%E6%96%AF%E8%81%AF%E6%99%89%E7%B4%9A%E5%9B%9B%E5%BC%B7",
     "timestamp": "2026-04-05T19:49:21.860Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美媒：美官員討論戰爭進入新階段　將發電廠橋樑列為合法打擊目標",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260403/1116763548295368704576034.jpeg/Rcfw-IGKO_nKN69LkPLlZIyWlLeYYoxeGfzo9xn86Pc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60337548/%E7%BE%8E%E5%AA%92-%E7%BE%8E%E5%AE%98%E5%93%A1%E8%A8%8E%E8%AB%96%E6%88%B0%E7%88%AD%E9%80%B2%E5%85%A5%E6%96%B0%E9%9A%8E%E6%AE%B5-%E5%B0%87%E7%99%BC%E9%9B%BB%E5%BB%A0%E6%A9%8B%E6%A8%91%E5%88%97%E7%82%BA%E5%90%88%E6%B3%95%E6%89%93%E6%93%8A%E7%9B%AE%E6%A8%99",
-    "timestamp": "2026-04-05T18:53:32.168Z",
     "strategy": ".content-card__main"
   }
 ];
