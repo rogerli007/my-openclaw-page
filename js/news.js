@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-05T22:54:24.238Z
+// Last updated: 2026-04-06T01:48:02.057Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "教宗良十四世發表首份復活節文告　敦促各國當權者「選擇和平」",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260406/1117757331921178624709816.jpeg/4EGx3dUUkjUFvnOy_2uKEdimJirMXeSTf_3WS3_91ks?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60337569/%E6%95%99%E5%AE%97%E8%89%AF%E5%8D%81%E5%9B%9B%E4%B8%96%E7%99%BC%E8%A1%A8%E9%A6%96%E4%BB%BD%E5%BE%A9%E6%B4%BB%E7%AF%80%E6%96%87%E5%91%8A-%E6%95%A6%E4%BF%83%E5%90%84%E5%9C%8B%E7%95%B6%E6%AC%8A%E8%80%85-%E9%81%B8%E6%93%87%E5%92%8C%E5%B9%B3",
+    "timestamp": "2026-04-06T01:48:02.057Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "天氣｜今日有幾陣驟雨　初時局部地區有雷暴　最高28度",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260405/1117589844269207552701942.jpeg/J5VOS2RCyG6jyuAGa4EQhsVzYUHpOf0BBwdpywcHacs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60337524/%E6%AC%8A%E7%99%BC%E5%B0%8F%E5%BB%9A%E8%A7%80%E5%A1%98%E5%B7%A5%E5%A0%B4%E5%87%8D%E8%82%89%E6%93%BA%E8%B5%B0%E5%BB%8A%E5%82%B3%E6%83%A1%E8%87%AD-%E7%A7%9F%E6%88%B6%E4%B8%8D%E6%BB%BF-%E8%80%81%E9%97%86%E8%AA%A0%E6%87%87%E7%99%BB%E9%96%80%E7%A3%8B%E5%95%86",
     "timestamp": "2026-04-05T14:51:01.221Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "田曦薇穿深V旗袍直播　露出有料「雪白半胸」險走光　平台急中斷",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260403/1116773946566381568021879.png/fl1muLlhBKaAYIZJtFVD-ucn3cKHLwnVY7AbMmOwGzI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E5%A8%9B%E6%A8%82/60337106/%E7%94%B0%E6%9B%A6%E8%96%87%E7%A9%BF%E6%B7%B1v%E6%97%97%E8%A2%8D%E7%9B%B4%E6%92%AD-%E9%9C%B2%E5%87%BA%E6%9C%89%E6%96%99-%E9%9B%AA%E7%99%BD%E5%8D%8A%E8%83%B8-%E9%9A%AA%E8%B5%B0%E5%85%89-%E5%B9%B3%E5%8F%B0%E6%80%A5%E4%B8%AD%E6%96%B7",
-    "timestamp": "2026-04-05T14:24:08.551Z",
     "strategy": ".content-card__main"
   }
 ];
