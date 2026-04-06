@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-06T11:13:41.501Z
+// Last updated: 2026-04-06T11:39:33.915Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "天文台料周五起吹南風既濕且熱　氣溫最高30度、相對濕度90%至95%",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260406/1117903140520202240187604.jpeg/4MkemKpQF9giK-bQx_lX2ZabBSTdLh6i9nXUWPZ11Fg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60337664/%E5%A4%A9%E6%96%87%E5%8F%B0%E6%96%99%E5%91%A8%E4%BA%94%E8%B5%B7%E5%90%B9%E5%8D%97%E9%A2%A8%E6%97%A2%E6%BF%95%E4%B8%94%E7%86%B1-%E6%B0%A3%E6%BA%AB%E6%9C%80%E9%AB%9830%E5%BA%A6-%E7%9B%B8%E5%B0%8D%E6%BF%95%E5%BA%A690-%E8%87%B395",
+    "timestamp": "2026-04-06T11:39:33.915Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "迷你奶茶？茶記熱奶茶細似微縮玩具　食客呻慳皮　網民嘲分子料理",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260402/1116319331026735104621038.jpeg/NCXHK1K1XvP8hb4P31Svcom7GiOCZllkzV4ZL81eGS8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60337544/%E4%BC%8A%E6%9C%97%E6%88%B0%E7%88%AD-%E7%89%B9%E6%9C%97%E6%99%AE%E7%96%91%E5%BB%B6%E9%95%B7%E6%9C%80%E5%BE%8C%E9%80%9A%E7%89%92%E6%99%82%E9%96%9324%E5%B0%8F%E6%99%82",
     "timestamp": "2026-04-05T18:04:53.025Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "伊朗戰爭｜特朗普疑延長最後通牒時間24小時",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260402/1116319331026735104621038.jpeg/NCXHK1K1XvP8hb4P31Svcom7GiOCZllkzV4ZL81eGS8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60337544/%E4%BC%8A%E6%9C%97%E6%88%B0%E7%88%AD-%E7%89%B9%E6%9C%97%E6%99%AE%E7%96%91%E5%BB%B6%E9%95%B7%E6%9C%80%E5%BE%8C%E9%80%9A%E7%89%92%E6%99%82%E9%96%9324%E5%B0%8F%E6%99%82",
-    "timestamp": "2026-04-05T17:49:50.138Z",
     "strategy": ".content-card__main"
   }
 ];
