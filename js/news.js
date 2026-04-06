@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-06T03:56:47.183Z
+// Last updated: 2026-04-06T06:01:51.933Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "中國駐沙特大使館提醒公民減少外出　遠離敏感區域",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260406/1117822289040117760398057.jpeg/7I0SYZdwHfcopmQqOfKtH_1IHiQTtLTDcL9ezXC_Xs0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60337606/%E4%B8%AD%E5%9C%8B%E9%A7%90%E6%B2%99%E7%89%B9%E5%A4%A7%E4%BD%BF%E9%A4%A8%E6%8F%90%E9%86%92%E5%85%AC%E6%B0%91%E6%B8%9B%E5%B0%91%E5%A4%96%E5%87%BA-%E9%81%A0%E9%9B%A2%E6%95%8F%E6%84%9F%E5%8D%80%E5%9F%9F",
+    "timestamp": "2026-04-06T06:01:51.933Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美媒：美伊為爭取45天停火做最後努力　終戰談判或進入直路",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260405/1117606905343119360014873.jpeg/FuLsxvCQNtDagcPaSb2B3GnjormVW6XAk0FYepNBWHo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60337537/%E9%99%B3%E8%80%80%E6%9D%8E%E9%81%93%E7%91%9C%E9%80%9D%E4%B8%96-%E7%AC%AC%E4%BA%94%E6%9C%9F%E8%97%9D%E8%A8%93%E7%8F%AD%E5%87%BA%E8%BA%AB-%E6%8B%8D%E5%AE%8C-%E6%88%91%E8%80%81%E5%A9%86%E4%BF%82%E8%B3%AD%E8%81%96-%E5%BE%9E%E5%95%86",
     "timestamp": "2026-04-05T16:43:59.576Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "陳豪回應「3000萬天價包薪」傳聞　仲自爆NG 40次惹梅小青不滿",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260405/1117585878810628096835960.jpeg/32PmkqxZQwS-l45ZJTmlMGKjdOwFOL17ndCZa53QmWs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60337515/%E9%99%B3%E8%B1%AA%E5%9B%9E%E6%87%89-3000%E8%90%AC%E5%A4%A9%E5%83%B9%E5%8C%85%E8%96%AA-%E5%82%B3%E8%81%9E-%E4%BB%B2%E8%87%AA%E7%88%86ng-40%E6%AC%A1%E6%83%B9%E6%A2%85%E5%B0%8F%E9%9D%92%E4%B8%8D%E6%BB%BF",
-    "timestamp": "2026-04-05T16:01:56.220Z",
     "strategy": ".content-card__main"
   }
 ];
