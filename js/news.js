@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-07T16:33:20.439Z
+// Last updated: 2026-04-07T17:02:24.168Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "方力申登台與「高仿鄧麗欣」唱《好心好報》　同台做心心引爆暇想",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260408/1118345750879670272048369.jpeg/BG-Kd3a9opgx91EhGR5lrvZLg7s14JGsMHrErDB6xKw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60338023/%E6%96%B9%E5%8A%9B%E7%94%B3%E7%99%BB%E5%8F%B0%E8%88%87-%E9%AB%98%E4%BB%BF%E9%84%A7%E9%BA%97%E6%AC%A3-%E5%94%B1-%E5%A5%BD%E5%BF%83%E5%A5%BD%E5%A0%B1-%E5%90%8C%E5%8F%B0%E5%81%9A%E5%BF%83%E5%BF%83%E5%BC%95%E7%88%86%E6%9A%87%E6%83%B3",
+    "timestamp": "2026-04-07T17:02:24.168Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "伊朗戰爭｜萬斯警告有「尚未決定使用的工具」　白宮否認暗示核武",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260407/1117999102920364032790526.jpeg/Qg7R5M97u-H7wwaVNelG5FBJvD6pcqj8_AdsQPwHbEA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60337746/%E7%89%B9%E6%9C%97%E6%99%AE-%E4%BC%8A%E6%9C%97%E6%88%96%E4%B8%80%E5%A4%9C%E8%A2%AB%E6%91%A7%E6%AF%80-%E5%80%987%E6%97%A5%E4%B8%8D%E9%81%94%E5%8D%94%E8%AD%B0-%E5%8D%88%E5%A4%9C%E5%86%8D%E7%84%A1%E5%A4%A7%E6%A9%8B%E7%99%BC%E9%9B%BB%E5%BB%A0",
     "timestamp": "2026-04-06T19:33:30.211Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普：伊朗或一夜間遭摧毀　出動逾170軍機營救失蹤機師",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260407/1117999098793037824072135.jpeg/WucMyK-nuLqFJFCplz8FSZ1U0x1lZG3S203I9ttNyPY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60337742/%E7%89%B9%E6%9C%97%E6%99%AE-%E4%BC%8A%E6%9C%97%E6%88%96%E4%B8%80%E5%A4%9C%E9%96%93%E9%81%AD%E6%91%A7%E6%AF%80-%E5%87%BA%E5%8B%95%E9%80%BE170%E8%BB%8D%E6%A9%9F%E7%87%9F%E6%95%91%E5%A4%B1%E8%B9%A4%E6%A9%9F%E5%B8%AB",
-    "timestamp": "2026-04-06T18:31:24.500Z",
     "strategy": ".content-card__main"
   }
 ];
