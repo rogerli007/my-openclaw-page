@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-07T15:55:40.519Z
+// Last updated: 2026-04-07T16:33:20.439Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "伊朗戰爭｜萬斯警告有「尚未決定使用的工具」　白宮否認暗示核武",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260408/1118338715127648256902864.jpeg/uONT9p5hSEWnm_jPVa-U5KW3Smm9qZ2AH8Rfix_EX4s?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60338020/%E4%BC%8A%E6%9C%97%E6%88%B0%E7%88%AD-%E8%90%AC%E6%96%AF%E8%AD%A6%E5%91%8A%E6%9C%89-%E5%B0%9A%E6%9C%AA%E6%B1%BA%E5%AE%9A%E4%BD%BF%E7%94%A8%E7%9A%84%E5%B7%A5%E5%85%B7-%E7%99%BD%E5%AE%AE%E5%90%A6%E8%AA%8D%E6%9A%97%E7%A4%BA%E6%A0%B8%E6%AD%A6",
+    "timestamp": "2026-04-07T16:33:20.439Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "特朗普：若談判出現進展　將考慮改變對伊朗打擊行動",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260407/1117999098793037824072135.jpeg/WucMyK-nuLqFJFCplz8FSZ1U0x1lZG3S203I9ttNyPY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60337742/%E7%89%B9%E6%9C%97%E6%99%AE-%E4%BC%8A%E6%9C%97%E6%88%96%E4%B8%80%E5%A4%9C%E9%96%93%E9%81%AD%E6%91%A7%E6%AF%80-%E5%87%BA%E5%8B%95%E9%80%BE170%E8%BB%8D%E6%A9%9F%E7%87%9F%E6%95%91%E5%A4%B1%E8%B9%A4%E6%A9%9F%E5%B8%AB",
     "timestamp": "2026-04-06T18:31:24.500Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "復活節回港潮｜深圳灣口岸深夜打蛇餅　羅湖大塞車有人趕唔切過關",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260407/1118000565750599680574312.jpeg/cxykUMes8dHHE0Fgkquh2O2lpYxTxsjAVjEbylYxG8o?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60337741/%E5%BE%A9%E6%B4%BB%E7%AF%80%E5%9B%9E%E6%B8%AF%E6%BD%AE-%E6%B7%B1%E5%9C%B3%E7%81%A3%E5%8F%A3%E5%B2%B8%E6%B7%B1%E5%A4%9C%E6%89%93%E8%9B%87%E9%A4%85-%E7%BE%85%E6%B9%96%E5%A4%A7%E5%A1%9E%E8%BB%8A%E6%9C%89%E4%BA%BA%E8%B6%95%E5%94%94%E5%88%87%E9%81%8E%E9%97%9C",
-    "timestamp": "2026-04-06T17:53:30.929Z",
     "strategy": ".content-card__main"
   }
 ];
