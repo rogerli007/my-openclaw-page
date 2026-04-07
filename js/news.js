@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-07T18:56:35.644Z
+// Last updated: 2026-04-07T19:34:27.461Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "東區走廊重型貨車疑切線撞的士　的士失控撞壆釀4人傷",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260408/1118381529437835264327695.jpeg/tXUpaOf1RWvnRgRJiuFtBCbbom3tREntMI84ORWPODk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60338032/%E6%9D%B1%E5%8D%80%E8%B5%B0%E5%BB%8A%E9%87%8D%E5%9E%8B%E8%B2%A8%E8%BB%8A%E7%96%91%E5%88%87%E7%B7%9A%E6%92%9E%E7%9A%84%E5%A3%AB-%E7%9A%84%E5%A3%AB%E5%A4%B1%E6%8E%A7%E6%92%9E%E5%A3%86%E9%87%804%E4%BA%BA%E5%82%B7",
+    "timestamp": "2026-04-07T19:34:27.461Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "東張西望｜酒樓竟然推出半價「糧票」　收銀踢爆同事收回佣反被炒",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260407/1118067127132229632943751.jpeg/US1-5QIf8mszFtSUIKKnY8PvvnYPh2TTYilOHGIpThw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60337753/%E5%A4%A9%E6%B0%A3-%E4%BB%8A%E6%97%A5%E6%9C%89%E4%B8%80%E5%85%A9%E9%99%A3%E9%A9%9F%E9%9B%A8-%E6%97%A5%E9%96%93%E7%82%8E%E7%86%B1%E5%B8%82%E5%8D%80%E7%B4%8430%E5%BA%A6-%E6%96%B0%E7%95%8C%E5%86%8D%E9%AB%98%E4%B8%80%E5%85%A9%E5%BA%A6",
     "timestamp": "2026-04-06T23:04:11.029Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "天氣｜今日有一兩陣驟雨　日間炎熱市區約30度　新界再高一兩度",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260407/1118067127132229632943751.jpeg/US1-5QIf8mszFtSUIKKnY8PvvnYPh2TTYilOHGIpThw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60337753/%E5%A4%A9%E6%B0%A3-%E4%BB%8A%E6%97%A5%E6%9C%89%E4%B8%80%E5%85%A9%E9%99%A3%E9%A9%9F%E9%9B%A8-%E6%97%A5%E9%96%93%E7%82%8E%E7%86%B1%E5%B8%82%E5%8D%80%E7%B4%8430%E5%BA%A6-%E6%96%B0%E7%95%8C%E5%86%8D%E9%AB%98%E4%B8%80%E5%85%A9%E5%BA%A6",
-    "timestamp": "2026-04-06T22:38:37.437Z",
     "strategy": ".content-card__main"
   }
 ];
