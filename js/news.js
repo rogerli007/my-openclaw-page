@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-07T09:19:05.513Z
+// Last updated: 2026-04-07T10:20:15.313Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "東張西望｜啟德居屋疑被當收費行李寄存倉　閒雜人進出惹鄰居困擾",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260407/1118171220357943296467830.png/qqut-ZyRT48A-Zbc2ZhiELLgETrMIDrV0NNMY9DTTGM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60337763/%E6%9D%B1%E5%BC%B5%E8%A5%BF%E6%9C%9B-%E5%95%9F%E5%BE%B7%E5%B1%85%E5%B1%8B%E7%96%91%E8%A2%AB%E7%95%B6%E6%94%B6%E8%B2%BB%E8%A1%8C%E6%9D%8E%E5%AF%84%E5%AD%98%E5%80%89-%E9%96%92%E9%9B%9C%E4%BA%BA%E9%80%B2%E5%87%BA%E6%83%B9%E9%84%B0%E5%B1%85%E5%9B%B0%E6%93%BE",
+    "timestamp": "2026-04-07T10:20:15.313Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "英國超市老員工制止「0元購」反被辭退　保守黨：應復職並獎勵",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260403/1116764127209984000472806.png/uK08p7ZdJIYpeK-OfsZo3qxxPmMM9Sj4fl8CMH5fAjA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60276959/%E5%A7%90%E5%A7%90-%E5%95%83%E8%80%81-10%E5%B9%B4-%E6%8B%92%E5%8D%87%E5%AD%B8%E4%B8%8D%E5%B7%A5%E4%BD%9C%E7%8B%82%E6%89%93%E6%A9%9F-%E5%AE%B6%E4%BA%BA%E5%91%BB%E6%85%98-%E7%B6%B2%E6%B0%91%E9%BB%9E%E5%87%BA%E9%97%9C%E9%8D%B5",
     "timestamp": "2026-04-06T13:16:04.591Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "一道藥品關稅劃出美台關係「斬殺線」",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260406/1117868832753455104408153.jpeg/UVpuNpbRSDC7EaRwaeSwM-OsPZOI6tP7U_f72FP3-9g?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E4%B8%AD%E5%9C%8B%E8%A7%80%E5%AF%9F/60337663/%E4%B8%80%E9%81%93%E8%97%A5%E5%93%81%E9%97%9C%E7%A8%85%E5%8A%83%E5%87%BA%E7%BE%8E%E5%8F%B0%E9%97%9C%E4%BF%82-%E6%96%AC%E6%AE%BA%E7%B7%9A",
-    "timestamp": "2026-04-06T12:40:05.984Z",
     "strategy": ".content-card__main"
   }
 ];
