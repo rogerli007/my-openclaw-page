@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-06T23:52:33.554Z
+// Last updated: 2026-04-07T00:54:35.707Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美國AI三大競爭對手合作　擬聯手遏制中國公司蒸餾行為",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20240626/882432172407918592790581.jpeg/beOWSL_YEcs9eCFhky0fxJMdA6y-3gtfU_wQ_FP8EPw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60337761/%E7%BE%8E%E5%9C%8Bai%E4%B8%89%E5%A4%A7%E7%AB%B6%E7%88%AD%E5%B0%8D%E6%89%8B%E5%90%88%E4%BD%9C-%E6%93%AC%E8%81%AF%E6%89%8B%E9%81%8F%E5%88%B6%E4%B8%AD%E5%9C%8B%E5%85%AC%E5%8F%B8%E8%92%B8%E9%A4%BE%E8%A1%8C%E7%82%BA",
+    "timestamp": "2026-04-07T00:54:35.707Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "男友下體長達17厘米！持久激戰最長維持1小時　女生太累崩潰喊慘",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20230929/784406292142755840257860.jpeg/YjIl7eYs6MYgyi-VhRvJVd7cVTiRFfRdsgCpjLIAqYw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60337624/%E7%BE%8E%E5%AA%92-%E7%BE%8E%E4%BC%8A%E5%B7%B2%E6%94%B6%E5%88%B0%E5%B7%B4%E5%9C%8B%E5%81%9C%E7%81%AB%E5%8D%94%E8%AD%B0%E6%A1%86%E6%9E%B6-%E8%8B%A5%E9%9B%99%E6%96%B9%E5%90%8C%E6%84%8F%E6%9C%80%E5%BF%AB4%E6%9C%886%E6%97%A5%E7%94%9F%E6%95%88",
     "timestamp": "2026-04-06T07:43:34.868Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "中國駐沙特大使館提醒公民減少外出　遠離敏感區域",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260406/1117822289040117760398057.jpeg/7I0SYZdwHfcopmQqOfKtH_1IHiQTtLTDcL9ezXC_Xs0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60337606/%E4%B8%AD%E5%9C%8B%E9%A7%90%E6%B2%99%E7%89%B9%E5%A4%A7%E4%BD%BF%E9%A4%A8%E6%8F%90%E9%86%92%E5%85%AC%E6%B0%91%E6%B8%9B%E5%B0%91%E5%A4%96%E5%87%BA-%E9%81%A0%E9%9B%A2%E6%95%8F%E6%84%9F%E5%8D%80%E5%9F%9F",
-    "timestamp": "2026-04-06T06:01:51.933Z",
     "strategy": ".content-card__main"
   }
 ];
