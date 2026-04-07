@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-07T21:53:05.575Z
+// Last updated: 2026-04-07T22:23:23.558Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "伊朗戰爭｜美媒：特朗普團隊力促安置滯留在美軍中東基地阿富汗人",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20210830/509048331684024320158047.jpeg/MB4309BK6yDkP-MNPXArKZdJ0zl-WQi3rqL32q6i99o?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60338040/%E4%BC%8A%E6%9C%97%E6%88%B0%E7%88%AD-%E7%BE%8E%E5%AA%92-%E7%89%B9%E6%9C%97%E6%99%AE%E5%9C%98%E9%9A%8A%E5%8A%9B%E4%BF%83%E5%AE%89%E7%BD%AE%E6%BB%AF%E7%95%99%E5%9C%A8%E7%BE%8E%E8%BB%8D%E4%B8%AD%E6%9D%B1%E5%9F%BA%E5%9C%B0%E9%98%BF%E5%AF%8C%E6%B1%97%E4%BA%BA",
+    "timestamp": "2026-04-07T22:23:23.558Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "歐聯8強首回合｜皇馬1：2不敵拜仁　阿仙奴作客1：0勝士砵亭",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260407/1118122113853558784706523.jpeg/fe-w5CUnlo9J_-K5PjbbTEm_1btfIoziTz5xvk8-cb4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60337770/%E7%A6%8F%E5%BB%BA%E9%95%B7%E6%B1%80%E6%9C%89%E7%A7%81%E5%AE%B6%E8%BB%8A%E5%A2%AE%E5%85%A5%E6%A9%8B%E4%B8%8B%E6%B2%B3%E9%81%93-%E9%80%A0%E6%88%905%E4%BA%BA%E6%AD%BB%E4%BA%A1",
     "timestamp": "2026-04-07T01:49:18.903Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美國AI三大競爭對手合作　擬聯手遏制中國公司蒸餾行為",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20240626/882432172407918592790581.jpeg/beOWSL_YEcs9eCFhky0fxJMdA6y-3gtfU_wQ_FP8EPw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60337761/%E7%BE%8E%E5%9C%8Bai%E4%B8%89%E5%A4%A7%E7%AB%B6%E7%88%AD%E5%B0%8D%E6%89%8B%E5%90%88%E4%BD%9C-%E6%93%AC%E8%81%AF%E6%89%8B%E9%81%8F%E5%88%B6%E4%B8%AD%E5%9C%8B%E5%85%AC%E5%8F%B8%E8%92%B8%E9%A4%BE%E8%A1%8C%E7%82%BA",
-    "timestamp": "2026-04-07T00:54:35.707Z",
     "strategy": ".content-card__main"
   }
 ];
