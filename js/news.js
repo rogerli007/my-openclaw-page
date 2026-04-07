@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-07T20:25:02.664Z
+// Last updated: 2026-04-07T21:53:05.575Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "歐聯8強首回合｜皇馬1：2不敵拜仁　阿仙奴作客1：0勝士砵亭",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260408/1118413876149489664769083.jpeg/F2aOJXBDfcxDdAqaVjyKP6hNElQ1mYGMx59OrsefTq4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60338038/%E6%AD%90%E8%81%AF8%E5%BC%B7%E9%A6%96%E5%9B%9E%E5%90%88-%E7%9A%87%E9%A6%AC1-2%E4%B8%8D%E6%95%B5%E6%8B%9C%E4%BB%81-%E9%98%BF%E4%BB%99%E5%A5%B4%E4%BD%9C%E5%AE%A21-0%E5%8B%9D%E5%A3%AB%E7%A0%B5%E4%BA%AD",
+    "timestamp": "2026-04-07T21:53:05.575Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "伊朗戰爭｜巴基斯坦總理籲特朗普寬限兩周　促伊朗重開霍爾木茲",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20240626/882432172407918592790581.jpeg/beOWSL_YEcs9eCFhky0fxJMdA6y-3gtfU_wQ_FP8EPw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60337761/%E7%BE%8E%E5%9C%8Bai%E4%B8%89%E5%A4%A7%E7%AB%B6%E7%88%AD%E5%B0%8D%E6%89%8B%E5%90%88%E4%BD%9C-%E6%93%AC%E8%81%AF%E6%89%8B%E9%81%8F%E5%88%B6%E4%B8%AD%E5%9C%8B%E5%85%AC%E5%8F%B8%E8%92%B8%E9%A4%BE%E8%A1%8C%E7%82%BA",
     "timestamp": "2026-04-07T00:54:35.707Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "男友下體長達17厘米！持久激戰最長維持1小時　女生太累崩潰喊慘",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260405/1117302373484597248057682.png/GB-RWrBFtAM1udydPNGdSiNGvxQF4mWP3tCO7d7Qju0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E8%A9%B1%E9%A1%8C/60312810/%E7%94%B7%E5%8F%8B%E4%B8%8B%E9%AB%94%E9%95%B7%E9%81%9417%E5%8E%98%E7%B1%B3-%E6%8C%81%E4%B9%85%E6%BF%80%E6%88%B0%E6%9C%80%E9%95%B7%E7%B6%AD%E6%8C%811%E5%B0%8F%E6%99%82-%E5%A5%B3%E7%94%9F%E5%A4%AA%E7%B4%AF%E5%B4%A9%E6%BD%B0%E5%96%8A%E6%85%98",
-    "timestamp": "2026-04-06T23:52:33.554Z",
     "strategy": ".content-card__main"
   }
 ];
