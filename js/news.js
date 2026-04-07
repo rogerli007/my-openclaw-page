@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-07T13:16:33.764Z
+// Last updated: 2026-04-07T14:00:33.220Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "Medicare計劃費率上調　美醫保概念股大漲　聯合健康升近9%",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250515/999700516843819008204175.jpeg/iq9qflTsqrIWhUMQ9Hagbgi3Xm3PHPGHCOkymgjpMpo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60337870/medicare%E8%A8%88%E5%8A%83%E8%B2%BB%E7%8E%87%E4%B8%8A%E8%AA%BF-%E7%BE%8E%E9%86%AB%E4%BF%9D%E6%A6%82%E5%BF%B5%E8%82%A1%E5%A4%A7%E6%BC%B2-%E8%81%AF%E5%90%88%E5%81%A5%E5%BA%B7%E5%8D%87%E8%BF%919",
+    "timestamp": "2026-04-07T14:00:33.220Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "特朗普警告伊朗文明或今晚消亡　萬斯：美國軍事目標已大致實現",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20230128/696042894129106944679241.jpeg/9xhdEHUC0kS28WoYicn6xOX_t5prFaBp6cp_ztPKf84?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60337733/%E7%B5%A6%E5%8D%81%E4%B9%9D%E6%AD%B2%E7%9A%84%E6%88%91-%E9%A0%90%E5%91%8A%E5%BE%9E%E9%81%A0%E6%9D%B1%E9%9B%BB%E5%BD%B1%E7%AF%80%E7%B6%B2%E7%AB%99%E4%B8%8B%E6%9E%B6-%E6%93%9A%E6%82%89%E6%9C%AA%E5%8F%96%E6%B6%88%E5%8F%83%E5%B1%95",
     "timestamp": "2026-04-06T15:53:27.598Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "影片直擊｜兩少年球場動武糾纏倒地　一人亮刀一人戴鐵蓮花",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260406/1117954177125847040367190.jpeg/stGnwjfPvZpFWASc2MJQ5kzUy3n1m-2Q9KE8IPShPCA?v=w1920",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60337730/%E5%BD%B1%E7%89%87%E7%9B%B4%E6%93%8A-%E5%85%A9%E5%B0%91%E5%B9%B4%E7%90%83%E5%A0%B4%E5%8B%95%E6%AD%A6%E7%B3%BE%E7%BA%8F%E5%80%92%E5%9C%B0-%E4%B8%80%E4%BA%BA%E4%BA%AE%E5%88%80%E4%B8%80%E4%BA%BA%E6%88%B4%E9%90%B5%E8%93%AE%E8%8A%B1",
-    "timestamp": "2026-04-06T14:57:23.596Z",
     "strategy": ".content-card__main"
   }
 ];
