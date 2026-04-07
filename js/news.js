@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-07T17:56:48.189Z
+// Last updated: 2026-04-07T18:56:35.644Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "東張西望｜酒樓竟然推出半價「糧票」　收銀踢爆同事收回佣反被炒",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260408/1118362482285481984857964.jpeg/0RVuHN42KI9W0ZGFXn2tFqkGypmmrsm1Czq73Qs6u90?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60338027/%E6%9D%B1%E5%BC%B5%E8%A5%BF%E6%9C%9B-%E9%85%92%E6%A8%93%E7%AB%9F%E7%84%B6%E6%8E%A8%E5%87%BA%E5%8D%8A%E5%83%B9-%E7%B3%A7%E7%A5%A8-%E6%94%B6%E9%8A%80%E8%B8%A2%E7%88%86%E5%90%8C%E4%BA%8B%E6%94%B6%E5%9B%9E%E4%BD%A3%E5%8F%8D%E8%A2%AB%E7%82%92",
+    "timestamp": "2026-04-07T18:56:35.644Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "伊朗戰爭｜中俄否決安理會涉霍爾木茲決議草案　憂局勢進一步升級",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260407/1118067127132229632943751.jpeg/US1-5QIf8mszFtSUIKKnY8PvvnYPh2TTYilOHGIpThw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60337753/%E5%A4%A9%E6%B0%A3-%E4%BB%8A%E6%97%A5%E6%9C%89%E4%B8%80%E5%85%A9%E9%99%A3%E9%A9%9F%E9%9B%A8-%E6%97%A5%E9%96%93%E7%82%8E%E7%86%B1%E5%B8%82%E5%8D%80%E7%B4%8430%E5%BA%A6-%E6%96%B0%E7%95%8C%E5%86%8D%E9%AB%98%E4%B8%80%E5%85%A9%E5%BA%A6",
     "timestamp": "2026-04-06T22:38:37.437Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美國載人飛船將探索月背　打破人類距離地球最遠飛行紀錄",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260407/1118026604254072832278946.jpeg/I73Q-QN1fdfLvMhBMk3rtpcjFjXYJ_lGLRKbLS0Smy0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60337748/%E7%BE%8E%E5%9C%8B%E8%BC%89%E4%BA%BA%E9%A3%9B%E8%88%B9%E5%B0%87%E6%8E%A2%E7%B4%A2%E6%9C%88%E8%83%8C-%E6%89%93%E7%A0%B4%E4%BA%BA%E9%A1%9E%E8%B7%9D%E9%9B%A2%E5%9C%B0%E7%90%83%E6%9C%80%E9%81%A0%E9%A3%9B%E8%A1%8C%E7%B4%80%E9%8C%84",
-    "timestamp": "2026-04-06T21:22:14.633Z",
     "strategy": ".content-card__main"
   }
 ];
