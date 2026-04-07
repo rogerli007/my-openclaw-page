@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-07T19:34:27.461Z
+// Last updated: 2026-04-07T20:00:27.796Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "特朗普威脅要整個伊朗文明滅亡　教宗良十四世：針對民眾不可接受",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260405/1117481613815451648243951.jpeg/hEDIhf1lmXQ_Tg6VDgEIbRtOzHOFwr-T4-lh9uPpYfY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60338035/%E7%89%B9%E6%9C%97%E6%99%AE%E5%A8%81%E8%84%85%E8%A6%81%E6%95%B4%E5%80%8B%E4%BC%8A%E6%9C%97%E6%96%87%E6%98%8E%E6%BB%85%E4%BA%A1-%E6%95%99%E5%AE%97%E8%89%AF%E5%8D%81%E5%9B%9B%E4%B8%96-%E9%87%9D%E5%B0%8D%E6%B0%91%E7%9C%BE%E4%B8%8D%E5%8F%AF%E6%8E%A5%E5%8F%97",
+    "timestamp": "2026-04-07T20:00:27.796Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "東區走廊重型貨車疑切線撞的士　的士失控撞壆釀4人傷",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260405/1117302373484597248057682.png/GB-RWrBFtAM1udydPNGdSiNGvxQF4mWP3tCO7d7Qju0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E8%A9%B1%E9%A1%8C/60312810/%E7%94%B7%E5%8F%8B%E4%B8%8B%E9%AB%94%E9%95%B7%E9%81%9417%E5%8E%98%E7%B1%B3-%E6%8C%81%E4%B9%85%E6%BF%80%E6%88%B0%E6%9C%80%E9%95%B7%E7%B6%AD%E6%8C%811%E5%B0%8F%E6%99%82-%E5%A5%B3%E7%94%9F%E5%A4%AA%E7%B4%AF%E5%B4%A9%E6%BD%B0%E5%96%8A%E6%85%98",
     "timestamp": "2026-04-06T23:24:39.833Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "天氣｜今日有一兩陣驟雨　日間炎熱市區約30度　新界再高一兩度",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260407/1118067127132229632943751.jpeg/US1-5QIf8mszFtSUIKKnY8PvvnYPh2TTYilOHGIpThw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60337753/%E5%A4%A9%E6%B0%A3-%E4%BB%8A%E6%97%A5%E6%9C%89%E4%B8%80%E5%85%A9%E9%99%A3%E9%A9%9F%E9%9B%A8-%E6%97%A5%E9%96%93%E7%82%8E%E7%86%B1%E5%B8%82%E5%8D%80%E7%B4%8430%E5%BA%A6-%E6%96%B0%E7%95%8C%E5%86%8D%E9%AB%98%E4%B8%80%E5%85%A9%E5%BA%A6",
-    "timestamp": "2026-04-06T23:04:11.029Z",
     "strategy": ".content-card__main"
   }
 ];
