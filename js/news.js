@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-07T20:00:27.796Z
+// Last updated: 2026-04-07T20:25:02.664Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "伊朗戰爭｜巴基斯坦總理籲特朗普寬限兩周　促伊朗重開霍爾木茲",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250508/997188521871544320259807.jpeg/C1feAkT1dwR9GNfeoPcbi_tsjQoAeNo85QDdzeUA3c0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60338037/%E4%BC%8A%E6%9C%97%E6%88%B0%E7%88%AD-%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E7%B8%BD%E7%90%86%E7%B1%B2%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%AC%E9%99%90%E5%85%A9%E5%91%A8-%E4%BF%83%E4%BC%8A%E6%9C%97%E9%87%8D%E9%96%8B%E9%9C%8D%E7%88%BE%E6%9C%A8%E8%8C%B2",
+    "timestamp": "2026-04-07T20:25:02.664Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "特朗普威脅要整個伊朗文明滅亡　教宗良十四世：針對民眾不可接受",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260405/1117302373484597248057682.png/GB-RWrBFtAM1udydPNGdSiNGvxQF4mWP3tCO7d7Qju0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E8%A9%B1%E9%A1%8C/60312810/%E7%94%B7%E5%8F%8B%E4%B8%8B%E9%AB%94%E9%95%B7%E9%81%9417%E5%8E%98%E7%B1%B3-%E6%8C%81%E4%B9%85%E6%BF%80%E6%88%B0%E6%9C%80%E9%95%B7%E7%B6%AD%E6%8C%811%E5%B0%8F%E6%99%82-%E5%A5%B3%E7%94%9F%E5%A4%AA%E7%B4%AF%E5%B4%A9%E6%BD%B0%E5%96%8A%E6%85%98",
     "timestamp": "2026-04-06T23:52:33.554Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "男友下體長達17厘米！持久激戰最長維持1小時　女生太累崩潰喊慘",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260405/1117302373484597248057682.png/GB-RWrBFtAM1udydPNGdSiNGvxQF4mWP3tCO7d7Qju0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E8%A9%B1%E9%A1%8C/60312810/%E7%94%B7%E5%8F%8B%E4%B8%8B%E9%AB%94%E9%95%B7%E9%81%9417%E5%8E%98%E7%B1%B3-%E6%8C%81%E4%B9%85%E6%BF%80%E6%88%B0%E6%9C%80%E9%95%B7%E7%B6%AD%E6%8C%811%E5%B0%8F%E6%99%82-%E5%A5%B3%E7%94%9F%E5%A4%AA%E7%B4%AF%E5%B4%A9%E6%BD%B0%E5%96%8A%E6%85%98",
-    "timestamp": "2026-04-06T23:24:39.833Z",
     "strategy": ".content-card__main"
   }
 ];
