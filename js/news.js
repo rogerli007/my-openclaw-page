@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-07T01:49:18.903Z
+// Last updated: 2026-04-07T03:49:11.550Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "北都大學城｜蔡若蓮：助院校引入海外頂尖師資和課程　深化交流",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260407/1118147719303532544210698.jpeg/i--x0OQvfN0-M53QaZbIw7tM9iX41fyayzWEk8s1hJM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60337831/%E5%8C%97%E9%83%BD%E5%A4%A7%E5%AD%B8%E5%9F%8E-%E8%94%A1%E8%8B%A5%E8%93%AE-%E5%8A%A9%E9%99%A2%E6%A0%A1%E5%BC%95%E5%85%A5%E6%B5%B7%E5%A4%96%E9%A0%82%E5%B0%96%E5%B8%AB%E8%B3%87%E5%92%8C%E8%AA%B2%E7%A8%8B-%E6%B7%B1%E5%8C%96%E4%BA%A4%E6%B5%81",
+    "timestamp": "2026-04-07T03:49:11.550Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "福建長汀有私家車墮入橋下河道　造成5人死亡",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260405/1117504597846396928846307.png/wYevSIF29Jo2ZPHuOyFU5FKkb5zm1XRXsnSGa7J0hms?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60337438/%E8%BF%B7%E4%BD%A0%E5%A5%B6%E8%8C%B6-%E8%8C%B6%E8%A8%98%E7%86%B1%E5%A5%B6%E8%8C%B6%E7%B4%B0%E4%BC%BC%E5%BE%AE%E7%B8%AE%E7%8E%A9%E5%85%B7-%E9%A3%9F%E5%AE%A2%E5%91%BB%E6%85%B3%E7%9A%AE-%E7%B6%B2%E6%B0%91%E5%98%B2%E5%88%86%E5%AD%90%E6%96%99%E7%90%86",
     "timestamp": "2026-04-06T11:13:41.501Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "內地女批「香港是舊城市」？本尊澄清真實版本　仙氣美貌全網力撐",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260406/1117870590833725440059124.jpeg/fU4xPr79CdIy04kzfKTL1o4Lz509-Wc0OWJrczlia3M",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60337605/%E5%85%A7%E5%9C%B0%E5%A5%B3%E6%89%B9-%E9%A6%99%E6%B8%AF%E6%98%AF%E8%88%8A%E5%9F%8E%E5%B8%82-%E6%9C%AC%E5%B0%8A%E6%BE%84%E6%B8%85%E7%9C%9F%E5%AF%A6%E7%89%88%E6%9C%AC-%E4%BB%99%E6%B0%A3%E7%BE%8E%E8%B2%8C%E5%85%A8%E7%B6%B2%E5%8A%9B%E6%92%90",
-    "timestamp": "2026-04-06T10:17:57.276Z",
     "strategy": ".content-card__main"
   }
 ];
