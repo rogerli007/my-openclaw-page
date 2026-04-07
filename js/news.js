@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-07T03:49:11.550Z
+// Last updated: 2026-04-07T04:46:01.989Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "70號經典路線重現？九巴送「站牌」給深圳港人院舍　老友記滿回憶",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260407/1118156526784090112453167.png/1lvZLwsp_CWKr4ht9piHHY6ktcQAnW7Gk8IrNZPCKzU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60337838/70%E8%99%9F%E7%B6%93%E5%85%B8%E8%B7%AF%E7%B7%9A%E9%87%8D%E7%8F%BE-%E4%B9%9D%E5%B7%B4%E9%80%81-%E7%AB%99%E7%89%8C-%E7%B5%A6%E6%B7%B1%E5%9C%B3%E6%B8%AF%E4%BA%BA%E9%99%A2%E8%88%8D-%E8%80%81%E5%8F%8B%E8%A8%98%E6%BB%BF%E5%9B%9E%E6%86%B6",
+    "timestamp": "2026-04-07T04:46:01.989Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "北都大學城｜蔡若蓮：助院校引入海外頂尖師資和課程　深化交流",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260406/1117903140520202240187604.jpeg/4MkemKpQF9giK-bQx_lX2ZabBSTdLh6i9nXUWPZ11Fg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60337664/%E5%A4%A9%E6%96%87%E5%8F%B0%E6%96%99%E5%91%A8%E4%BA%94%E8%B5%B7%E5%90%B9%E5%8D%97%E9%A2%A8%E6%97%A2%E6%BF%95%E4%B8%94%E7%86%B1-%E6%B0%A3%E6%BA%AB%E6%9C%80%E9%AB%9830%E5%BA%A6-%E7%9B%B8%E5%B0%8D%E6%BF%95%E5%BA%A690-%E8%87%B395",
     "timestamp": "2026-04-06T11:39:33.915Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "迷你奶茶？茶記熱奶茶細似微縮玩具　食客呻慳皮　網民嘲分子料理",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260405/1117504597846396928846307.png/wYevSIF29Jo2ZPHuOyFU5FKkb5zm1XRXsnSGa7J0hms?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60337438/%E8%BF%B7%E4%BD%A0%E5%A5%B6%E8%8C%B6-%E8%8C%B6%E8%A8%98%E7%86%B1%E5%A5%B6%E8%8C%B6%E7%B4%B0%E4%BC%BC%E5%BE%AE%E7%B8%AE%E7%8E%A9%E5%85%B7-%E9%A3%9F%E5%AE%A2%E5%91%BB%E6%85%B3%E7%9A%AE-%E7%B6%B2%E6%B0%91%E5%98%B2%E5%88%86%E5%AD%90%E6%96%99%E7%90%86",
-    "timestamp": "2026-04-06T11:13:41.501Z",
     "strategy": ".content-card__main"
   }
 ];
