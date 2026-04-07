@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-07T14:00:33.220Z
+// Last updated: 2026-04-07T15:55:40.519Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "特朗普：若談判出現進展　將考慮改變對伊朗打擊行動",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260407/1118140527670202368710935.jpeg/BBk483yjAjjB1uzXdYR6HUXbfJ1eqVWa6J9oleifaJU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60338018/%E7%89%B9%E6%9C%97%E6%99%AE-%E8%8B%A5%E8%AB%87%E5%88%A4%E5%87%BA%E7%8F%BE%E9%80%B2%E5%B1%95-%E5%B0%87%E8%80%83%E6%85%AE%E6%94%B9%E8%AE%8A%E5%B0%8D%E4%BC%8A%E6%9C%97%E6%89%93%E6%93%8A%E8%A1%8C%E5%8B%95",
+    "timestamp": "2026-04-07T15:55:40.519Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "Medicare計劃費率上調　美醫保概念股大漲　聯合健康升近9%",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260407/1118000565750599680574312.jpeg/cxykUMes8dHHE0Fgkquh2O2lpYxTxsjAVjEbylYxG8o?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60337741/%E5%BE%A9%E6%B4%BB%E7%AF%80%E5%9B%9E%E6%B8%AF%E6%BD%AE-%E6%B7%B1%E5%9C%B3%E7%81%A3%E5%8F%A3%E5%B2%B8%E6%B7%B1%E5%A4%9C%E6%89%93%E8%9B%87%E9%A4%85-%E7%BE%85%E6%B9%96%E5%A4%A7%E5%A1%9E%E8%BB%8A%E6%9C%89%E4%BA%BA%E8%B6%95%E5%94%94%E5%88%87%E9%81%8E%E9%97%9C",
     "timestamp": "2026-04-06T17:53:30.929Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "《給十九歲的我》預告從遠東電影節網站下架　據悉未取消參展",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20230128/696042894129106944679241.jpeg/9xhdEHUC0kS28WoYicn6xOX_t5prFaBp6cp_ztPKf84?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60337733/%E7%B5%A6%E5%8D%81%E4%B9%9D%E6%AD%B2%E7%9A%84%E6%88%91-%E9%A0%90%E5%91%8A%E5%BE%9E%E9%81%A0%E6%9D%B1%E9%9B%BB%E5%BD%B1%E7%AF%80%E7%B6%B2%E7%AB%99%E4%B8%8B%E6%9E%B6-%E6%93%9A%E6%82%89%E6%9C%AA%E5%8F%96%E6%B6%88%E5%8F%83%E5%B1%95",
-    "timestamp": "2026-04-06T15:53:27.598Z",
     "strategy": ".content-card__main"
   }
 ];
