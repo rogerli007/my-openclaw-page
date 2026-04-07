@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-07T08:47:26.580Z
+// Last updated: 2026-04-07T09:19:05.513Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "英國超市老員工制止「0元購」反被辭退　保守黨：應復職並獎勵",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260407/1118217270284259328748956.jpeg/LLDhw4F_8hMGNK_5lX4q3oUpZxKTUTtxd71Et3e9RLc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60337919/%E8%8B%B1%E5%9C%8B%E8%B6%85%E5%B8%82%E8%80%81%E5%93%A1%E5%B7%A5%E5%88%B6%E6%AD%A2-0%E5%85%83%E8%B3%BC-%E5%8F%8D%E8%A2%AB%E8%BE%AD%E9%80%80-%E4%BF%9D%E5%AE%88%E9%BB%A8-%E6%87%89%E5%BE%A9%E8%81%B7%E4%B8%A6%E7%8D%8E%E5%8B%B5",
+    "timestamp": "2026-04-07T09:19:05.513Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "夏天來了　天文台料周四起日間炎熱　周五至下周一市區氣溫30度",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260406/1117868832753455104408153.jpeg/UVpuNpbRSDC7EaRwaeSwM-OsPZOI6tP7U_f72FP3-9g?v=w1920r16_9",
     "url": "https://www.hk01.com/%E4%B8%AD%E5%9C%8B%E8%A7%80%E5%AF%9F/60337663/%E4%B8%80%E9%81%93%E8%97%A5%E5%93%81%E9%97%9C%E7%A8%85%E5%8A%83%E5%87%BA%E7%BE%8E%E5%8F%B0%E9%97%9C%E4%BF%82-%E6%96%AC%E6%AE%BA%E7%B7%9A",
     "timestamp": "2026-04-06T12:40:05.984Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "啟德DOUBLE COAST III周五發售88伙　全盤累售399伙、套現近32億",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260406/1117912994219560960451680.jpeg/K_1SO7CYn8wIOkbGxCDurDU_zJEXApM92bHKNtmxyjY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60337707/%E5%95%9F%E5%BE%B7double-coast-iii%E5%91%A8%E4%BA%94%E7%99%BC%E5%94%AE88%E4%BC%99-%E5%85%A8%E7%9B%A4%E7%B4%AF%E5%94%AE399%E4%BC%99-%E5%A5%97%E7%8F%BE%E8%BF%9132%E5%84%84",
-    "timestamp": "2026-04-06T12:06:13.069Z",
     "strategy": ".content-card__main"
   }
 ];
