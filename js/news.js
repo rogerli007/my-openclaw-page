@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-07T00:54:35.707Z
+// Last updated: 2026-04-07T01:49:18.903Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "福建長汀有私家車墮入橋下河道　造成5人死亡",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260407/1118122113853558784706523.jpeg/fe-w5CUnlo9J_-K5PjbbTEm_1btfIoziTz5xvk8-cb4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60337770/%E7%A6%8F%E5%BB%BA%E9%95%B7%E6%B1%80%E6%9C%89%E7%A7%81%E5%AE%B6%E8%BB%8A%E5%A2%AE%E5%85%A5%E6%A9%8B%E4%B8%8B%E6%B2%B3%E9%81%93-%E9%80%A0%E6%88%905%E4%BA%BA%E6%AD%BB%E4%BA%A1",
+    "timestamp": "2026-04-07T01:49:18.903Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美國AI三大競爭對手合作　擬聯手遏制中國公司蒸餾行為",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260406/1117870590833725440059124.jpeg/fU4xPr79CdIy04kzfKTL1o4Lz509-Wc0OWJrczlia3M",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60337605/%E5%85%A7%E5%9C%B0%E5%A5%B3%E6%89%B9-%E9%A6%99%E6%B8%AF%E6%98%AF%E8%88%8A%E5%9F%8E%E5%B8%82-%E6%9C%AC%E5%B0%8A%E6%BE%84%E6%B8%85%E7%9C%9F%E5%AF%A6%E7%89%88%E6%9C%AC-%E4%BB%99%E6%B0%A3%E7%BE%8E%E8%B2%8C%E5%85%A8%E7%B6%B2%E5%8A%9B%E6%92%90",
     "timestamp": "2026-04-06T10:17:57.276Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美媒：美伊已收到巴國停火協議框架　若雙方同意最快4月6日生效",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20230929/784406292142755840257860.jpeg/YjIl7eYs6MYgyi-VhRvJVd7cVTiRFfRdsgCpjLIAqYw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60337624/%E7%BE%8E%E5%AA%92-%E7%BE%8E%E4%BC%8A%E5%B7%B2%E6%94%B6%E5%88%B0%E5%B7%B4%E5%9C%8B%E5%81%9C%E7%81%AB%E5%8D%94%E8%AD%B0%E6%A1%86%E6%9E%B6-%E8%8B%A5%E9%9B%99%E6%96%B9%E5%90%8C%E6%84%8F%E6%9C%80%E5%BF%AB4%E6%9C%886%E6%97%A5%E7%94%9F%E6%95%88",
-    "timestamp": "2026-04-06T07:43:34.868Z",
     "strategy": ".content-card__main"
   }
 ];
