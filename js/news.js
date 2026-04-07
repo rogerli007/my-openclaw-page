@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-07T04:46:01.989Z
+// Last updated: 2026-04-07T08:47:26.580Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "夏天來了　天文台料周四起日間炎熱　周五至下周一市區氣溫30度",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260406/1117859878971641856091375.jpeg/Fy1FIe6RmWT7qGZVySJrVcF5GmtwJ5hlNLzBvS68wb0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60337918/%E5%A4%8F%E5%A4%A9%E4%BE%86%E4%BA%86-%E5%A4%A9%E6%96%87%E5%8F%B0%E6%96%99%E5%91%A8%E5%9B%9B%E8%B5%B7%E6%97%A5%E9%96%93%E7%82%8E%E7%86%B1-%E5%91%A8%E4%BA%94%E8%87%B3%E4%B8%8B%E5%91%A8%E4%B8%80%E5%B8%82%E5%8D%80%E6%B0%A3%E6%BA%AB30%E5%BA%A6",
+    "timestamp": "2026-04-07T08:47:26.580Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "70號經典路線重現？九巴送「站牌」給深圳港人院舍　老友記滿回憶",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260406/1117912994219560960451680.jpeg/K_1SO7CYn8wIOkbGxCDurDU_zJEXApM92bHKNtmxyjY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60337707/%E5%95%9F%E5%BE%B7double-coast-iii%E5%91%A8%E4%BA%94%E7%99%BC%E5%94%AE88%E4%BC%99-%E5%85%A8%E7%9B%A4%E7%B4%AF%E5%94%AE399%E4%BC%99-%E5%A5%97%E7%8F%BE%E8%BF%9132%E5%84%84",
     "timestamp": "2026-04-06T12:06:13.069Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "天文台料周五起吹南風既濕且熱　氣溫最高30度、相對濕度90%至95%",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260406/1117903140520202240187604.jpeg/4MkemKpQF9giK-bQx_lX2ZabBSTdLh6i9nXUWPZ11Fg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60337664/%E5%A4%A9%E6%96%87%E5%8F%B0%E6%96%99%E5%91%A8%E4%BA%94%E8%B5%B7%E5%90%B9%E5%8D%97%E9%A2%A8%E6%97%A2%E6%BF%95%E4%B8%94%E7%86%B1-%E6%B0%A3%E6%BA%AB%E6%9C%80%E9%AB%9830%E5%BA%A6-%E7%9B%B8%E5%B0%8D%E6%BF%95%E5%BA%A690-%E8%87%B395",
-    "timestamp": "2026-04-06T11:39:33.915Z",
     "strategy": ".content-card__main"
   }
 ];
