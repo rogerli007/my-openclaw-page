@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-07T17:02:24.168Z
+// Last updated: 2026-04-07T17:32:29.205Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "伊朗戰爭｜中俄否決安理會涉霍爾木茲決議草案　憂局勢進一步升級",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260408/1118354313819721728361479.jpeg/XRp-1uOnzo9wSdvSXyu-95w6A4ZfCdDMSHz4nEh8-Jw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60338026/%E4%BC%8A%E6%9C%97%E6%88%B0%E7%88%AD-%E4%B8%AD%E4%BF%84%E5%90%A6%E6%B1%BA%E5%AE%89%E7%90%86%E6%9C%83%E6%B6%89%E9%9C%8D%E7%88%BE%E6%9C%A8%E8%8C%B2%E6%B1%BA%E8%AD%B0%E8%8D%89%E6%A1%88-%E6%86%82%E5%B1%80%E5%8B%A2%E9%80%B2%E4%B8%80%E6%AD%A5%E5%8D%87%E7%B4%9A",
+    "timestamp": "2026-04-07T17:32:29.205Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "方力申登台與「高仿鄧麗欣」唱《好心好報》　同台做心心引爆暇想",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260407/1118026604254072832278946.jpeg/I73Q-QN1fdfLvMhBMk3rtpcjFjXYJ_lGLRKbLS0Smy0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60337748/%E7%BE%8E%E5%9C%8B%E8%BC%89%E4%BA%BA%E9%A3%9B%E8%88%B9%E5%B0%87%E6%8E%A2%E7%B4%A2%E6%9C%88%E8%83%8C-%E6%89%93%E7%A0%B4%E4%BA%BA%E9%A1%9E%E8%B7%9D%E9%9B%A2%E5%9C%B0%E7%90%83%E6%9C%80%E9%81%A0%E9%A3%9B%E8%A1%8C%E7%B4%80%E9%8C%84",
     "timestamp": "2026-04-06T20:23:33.542Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普：伊朗或一夜被摧毀　倘7日不達協議　午夜再無大橋發電廠",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260407/1117999102920364032790526.jpeg/Qg7R5M97u-H7wwaVNelG5FBJvD6pcqj8_AdsQPwHbEA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60337746/%E7%89%B9%E6%9C%97%E6%99%AE-%E4%BC%8A%E6%9C%97%E6%88%96%E4%B8%80%E5%A4%9C%E8%A2%AB%E6%91%A7%E6%AF%80-%E5%80%987%E6%97%A5%E4%B8%8D%E9%81%94%E5%8D%94%E8%AD%B0-%E5%8D%88%E5%A4%9C%E5%86%8D%E7%84%A1%E5%A4%A7%E6%A9%8B%E7%99%BC%E9%9B%BB%E5%BB%A0",
-    "timestamp": "2026-04-06T19:33:30.211Z",
     "strategy": ".content-card__main"
   }
 ];
