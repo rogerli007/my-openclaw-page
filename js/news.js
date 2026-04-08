@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-08T21:52:16.847Z
+// Last updated: 2026-04-08T22:29:08.857Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "天氣｜今日初時局部能見度較低　日間炎熱約29度　明日最高達30度",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260409/1118793318759665664284906.jpeg/YR_nmFWzIRZ8p5aNfspXtG1O5lmTwHsuEjYzRRI2M0U?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60338414/%E5%A4%A9%E6%B0%A3-%E4%BB%8A%E6%97%A5%E5%88%9D%E6%99%82%E5%B1%80%E9%83%A8%E8%83%BD%E8%A6%8B%E5%BA%A6%E8%BC%83%E4%BD%8E-%E6%97%A5%E9%96%93%E7%82%8E%E7%86%B1%E7%B4%8429%E5%BA%A6-%E6%98%8E%E6%97%A5%E6%9C%80%E9%AB%98%E9%81%9430%E5%BA%A6",
+    "timestamp": "2026-04-08T22:29:08.857Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "歐聯8強首回合｜10人巴塞0：2不敵馬體會　利物浦作客吞PSG雙蛋",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20240115/823640013802573824587369.jpeg/tiWddKECpjpPurzQmj5ecMberVrwNGrulw5e6ZcOXuk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60338357/%E5%9C%B0%E6%94%BF%E7%B8%BD%E7%BD%B2-4%E6%9C%88%E4%B8%8A%E8%AA%BF%E6%96%B0%E7%95%8C%E8%BE%B2%E5%9C%B0%E6%94%B6%E5%9C%B0%E5%83%B9%E8%87%B31043%E5%85%83-%E8%BC%83%E5%8D%8A%E5%B9%B4%E5%89%8D%E5%8D%873-5",
     "timestamp": "2026-04-08T10:54:54.069Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "宏福苑｜消防系統早預計要停一年　承辦商被問申請停多少次答不出",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260408/1118610795069050880049368.jpeg/33CMMddZY58cq6K7aL19ic-1FjoswXuV_DYnqPw2J6g?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60338341/%E5%AE%8F%E7%A6%8F%E8%8B%91-%E6%B6%88%E9%98%B2%E7%B3%BB%E7%B5%B1%E6%97%A9%E9%A0%90%E8%A8%88%E8%A6%81%E5%81%9C%E4%B8%80%E5%B9%B4-%E6%89%BF%E8%BE%A6%E5%95%86%E8%A2%AB%E5%95%8F%E7%94%B3%E8%AB%8B%E5%81%9C%E5%A4%9A%E5%B0%91%E6%AC%A1%E7%AD%94%E4%B8%8D%E5%87%BA",
-    "timestamp": "2026-04-08T10:20:38.080Z",
     "strategy": ".content-card__main"
   }
 ];
