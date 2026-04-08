@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-08T13:00:38.272Z
+// Last updated: 2026-04-08T13:44:37.827Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "伊朗局勢丨停戰消息撐美股　道指飆逾1300點　西方石油逆市瀉一成",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20251017/1055875744955109376304867.jpeg/xDpXLLEFEIPYDFv5lDYAcicnK4RDcbLSEprTYBKa02A?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60338346/%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8B%A2-%E5%81%9C%E6%88%B0%E6%B6%88%E6%81%AF%E6%92%90%E7%BE%8E%E8%82%A1-%E9%81%93%E6%8C%87%E9%A3%86%E9%80%BE1300%E9%BB%9E-%E8%A5%BF%E6%96%B9%E7%9F%B3%E6%B2%B9%E9%80%86%E5%B8%82%E7%80%89%E4%B8%80%E6%88%90",
+    "timestamp": "2026-04-08T13:44:37.827Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "宏福苑聽證會｜消防措施失效誰責任？　一文看清兩消防承辦商口供",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260405/1117481613815451648243951.jpeg/hEDIhf1lmXQ_Tg6VDgEIbRtOzHOFwr-T4-lh9uPpYfY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60338035/%E7%89%B9%E6%9C%97%E6%99%AE%E5%A8%81%E8%84%85%E8%A6%81%E6%95%B4%E5%80%8B%E4%BC%8A%E6%9C%97%E6%96%87%E6%98%8E%E6%BB%85%E4%BA%A1-%E6%95%99%E5%AE%97%E8%89%AF%E5%8D%81%E5%9B%9B%E4%B8%96-%E9%87%9D%E5%B0%8D%E6%B0%91%E7%9C%BE%E4%B8%8D%E5%8F%AF%E6%8E%A5%E5%8F%97",
     "timestamp": "2026-04-07T20:00:27.796Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "東區走廊重型貨車疑切線撞的士　的士失控撞壆釀4人傷",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260408/1118381529437835264327695.jpeg/tXUpaOf1RWvnRgRJiuFtBCbbom3tREntMI84ORWPODk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60338032/%E6%9D%B1%E5%8D%80%E8%B5%B0%E5%BB%8A%E9%87%8D%E5%9E%8B%E8%B2%A8%E8%BB%8A%E7%96%91%E5%88%87%E7%B7%9A%E6%92%9E%E7%9A%84%E5%A3%AB-%E7%9A%84%E5%A3%AB%E5%A4%B1%E6%8E%A7%E6%92%9E%E5%A3%86%E9%87%804%E4%BA%BA%E5%82%B7",
-    "timestamp": "2026-04-07T19:34:27.461Z",
     "strategy": ".content-card__main"
   }
 ];
