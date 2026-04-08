@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-08T07:42:32.875Z
+// Last updated: 2026-04-08T09:17:56.552Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "日本工業意外　500噸混凝土砸穿地面　鷹架坍塌工人墮海3死｜有片",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260408/1118596454865178624103695.jpeg/ltjebfqxWoUie6p1PdZN264uFYKY-1MWZr4kUGa-JFA?v=w1920",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60338304/%E6%97%A5%E6%9C%AC%E5%B7%A5%E6%A5%AD%E6%84%8F%E5%A4%96-500%E5%99%B8%E6%B7%B7%E5%87%9D%E5%9C%9F%E7%A0%B8%E7%A9%BF%E5%9C%B0%E9%9D%A2-%E9%B7%B9%E6%9E%B6%E5%9D%8D%E5%A1%8C%E5%B7%A5%E4%BA%BA%E5%A2%AE%E6%B5%B73%E6%AD%BB-%E6%9C%89%E7%89%87",
+    "timestamp": "2026-04-08T09:17:56.552Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "男子涉放疑似手榴彈　督察目測認為似真　被告稱是朋友不要的玩具",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250515/999700516843819008204175.jpeg/iq9qflTsqrIWhUMQ9Hagbgi3Xm3PHPGHCOkymgjpMpo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60337870/medicare%E8%A8%88%E5%8A%83%E8%B2%BB%E7%8E%87%E4%B8%8A%E8%AA%BF-%E7%BE%8E%E9%86%AB%E4%BF%9D%E6%A6%82%E5%BF%B5%E8%82%A1%E5%A4%A7%E6%BC%B2-%E8%81%AF%E5%90%88%E5%81%A5%E5%BA%B7%E5%8D%87%E8%BF%919",
     "timestamp": "2026-04-07T14:00:33.220Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普警告伊朗文明或今晚消亡　萬斯：美國軍事目標已大致實現",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260317/1110448541262155776531478.jpeg/y1vkUV3iSjSBepFfvJHF4M6YpQH6GzM8fbk9-n25Pfo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60338001/%E7%89%B9%E6%9C%97%E6%99%AE%E8%AD%A6%E5%91%8A%E4%BC%8A%E6%9C%97%E6%96%87%E6%98%8E%E6%88%96%E4%BB%8A%E6%99%9A%E6%B6%88%E4%BA%A1-%E8%90%AC%E6%96%AF-%E7%BE%8E%E5%9C%8B%E8%BB%8D%E4%BA%8B%E7%9B%AE%E6%A8%99%E5%B7%B2%E5%A4%A7%E8%87%B4%E5%AF%A6%E7%8F%BE",
-    "timestamp": "2026-04-07T13:16:33.764Z",
     "strategy": ".content-card__main"
   }
 ];
