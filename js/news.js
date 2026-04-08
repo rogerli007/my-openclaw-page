@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-08T09:49:58.251Z
+// Last updated: 2026-04-08T10:20:38.080Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "宏福苑｜消防系統早預計要停一年　承辦商被問申請停多少次答不出",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260408/1118610795069050880049368.jpeg/33CMMddZY58cq6K7aL19ic-1FjoswXuV_DYnqPw2J6g?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60338341/%E5%AE%8F%E7%A6%8F%E8%8B%91-%E6%B6%88%E9%98%B2%E7%B3%BB%E7%B5%B1%E6%97%A9%E9%A0%90%E8%A8%88%E8%A6%81%E5%81%9C%E4%B8%80%E5%B9%B4-%E6%89%BF%E8%BE%A6%E5%95%86%E8%A2%AB%E5%95%8F%E7%94%B3%E8%AB%8B%E5%81%9C%E5%A4%9A%E5%B0%91%E6%AC%A1%E7%AD%94%E4%B8%8D%E5%87%BA",
+    "timestamp": "2026-04-08T10:20:38.080Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "《不良一族尋愛記》小制現身！山本耀司WILDSIDE聯乘日本盆栽團隊",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260408/1118338715127648256902864.jpeg/uONT9p5hSEWnm_jPVa-U5KW3Smm9qZ2AH8Rfix_EX4s?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60338020/%E4%BC%8A%E6%9C%97%E6%88%B0%E7%88%AD-%E8%90%AC%E6%96%AF%E8%AD%A6%E5%91%8A%E6%9C%89-%E5%B0%9A%E6%9C%AA%E6%B1%BA%E5%AE%9A%E4%BD%BF%E7%94%A8%E7%9A%84%E5%B7%A5%E5%85%B7-%E7%99%BD%E5%AE%AE%E5%90%A6%E8%AA%8D%E6%9A%97%E7%A4%BA%E6%A0%B8%E6%AD%A6",
     "timestamp": "2026-04-07T16:33:20.439Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普：若談判出現進展　將考慮改變對伊朗打擊行動",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260407/1118140527670202368710935.jpeg/BBk483yjAjjB1uzXdYR6HUXbfJ1eqVWa6J9oleifaJU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60338018/%E7%89%B9%E6%9C%97%E6%99%AE-%E8%8B%A5%E8%AB%87%E5%88%A4%E5%87%BA%E7%8F%BE%E9%80%B2%E5%B1%95-%E5%B0%87%E8%80%83%E6%85%AE%E6%94%B9%E8%AE%8A%E5%B0%8D%E4%BC%8A%E6%9C%97%E6%89%93%E6%93%8A%E8%A1%8C%E5%8B%95",
-    "timestamp": "2026-04-07T15:55:40.519Z",
     "strategy": ".content-card__main"
   }
 ];
