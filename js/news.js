@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-07T23:52:22.194Z
+// Last updated: 2026-04-08T00:50:31.912Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "伊朗局勢｜美伊同意停火兩周　美匯應聲挫　金價重上4800美元",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260404/1116904014814908416682391.jpeg/PEpZZJ7wx8oTfDYc9M_rDUAJW9-ipCt4ciSQl3IkkJc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60338047/%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8B%A2-%E7%BE%8E%E4%BC%8A%E5%90%8C%E6%84%8F%E5%81%9C%E7%81%AB%E5%85%A9%E5%91%A8-%E7%BE%8E%E5%8C%AF%E6%87%89%E8%81%B2%E6%8C%AB-%E9%87%91%E5%83%B9%E9%87%8D%E4%B8%8A4800%E7%BE%8E%E5%85%83",
+    "timestamp": "2026-04-08T00:50:31.912Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "特朗普逆轉了伊朗形象",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260407/1118156526784090112453167.png/1lvZLwsp_CWKr4ht9piHHY6ktcQAnW7Gk8IrNZPCKzU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60337838/70%E8%99%9F%E7%B6%93%E5%85%B8%E8%B7%AF%E7%B7%9A%E9%87%8D%E7%8F%BE-%E4%B9%9D%E5%B7%B4%E9%80%81-%E7%AB%99%E7%89%8C-%E7%B5%A6%E6%B7%B1%E5%9C%B3%E6%B8%AF%E4%BA%BA%E9%99%A2%E8%88%8D-%E8%80%81%E5%8F%8B%E8%A8%98%E6%BB%BF%E5%9B%9E%E6%86%B6",
     "timestamp": "2026-04-07T04:46:01.989Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "北都大學城｜蔡若蓮：助院校引入海外頂尖師資和課程　深化交流",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260407/1118147719303532544210698.jpeg/i--x0OQvfN0-M53QaZbIw7tM9iX41fyayzWEk8s1hJM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60337831/%E5%8C%97%E9%83%BD%E5%A4%A7%E5%AD%B8%E5%9F%8E-%E8%94%A1%E8%8B%A5%E8%93%AE-%E5%8A%A9%E9%99%A2%E6%A0%A1%E5%BC%95%E5%85%A5%E6%B5%B7%E5%A4%96%E9%A0%82%E5%B0%96%E5%B8%AB%E8%B3%87%E5%92%8C%E8%AA%B2%E7%A8%8B-%E6%B7%B1%E5%8C%96%E4%BA%A4%E6%B5%81",
-    "timestamp": "2026-04-07T03:49:11.550Z",
     "strategy": ".content-card__main"
   }
 ];
