@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-08T02:46:25.179Z
+// Last updated: 2026-04-08T05:37:51.332Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "8旬翁與女子起爭執還咬人　被捕時情緒穩定　上警車後竟離奇死亡",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260408/1118515517821292544103682.png/siB1O8mDzqlFJcHsXPNrarFX3wDONL6h5ZrTSeWa00k?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60338137/8%E6%97%AC%E7%BF%81%E8%88%87%E5%A5%B3%E5%AD%90%E8%B5%B7%E7%88%AD%E5%9F%B7%E9%82%84%E5%92%AC%E4%BA%BA-%E8%A2%AB%E6%8D%95%E6%99%82%E6%83%85%E7%B7%92%E7%A9%A9%E5%AE%9A-%E4%B8%8A%E8%AD%A6%E8%BB%8A%E5%BE%8C%E7%AB%9F%E9%9B%A2%E5%A5%87%E6%AD%BB%E4%BA%A1",
+    "timestamp": "2026-04-08T05:37:51.332Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "伊朗局勢｜美伊同意暫停火　滙豐及渣打今早飆逾半成【港股異動】",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260407/1118217270284259328748956.jpeg/LLDhw4F_8hMGNK_5lX4q3oUpZxKTUTtxd71Et3e9RLc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60337919/%E8%8B%B1%E5%9C%8B%E8%B6%85%E5%B8%82%E8%80%81%E5%93%A1%E5%B7%A5%E5%88%B6%E6%AD%A2-0%E5%85%83%E8%B3%BC-%E5%8F%8D%E8%A2%AB%E8%BE%AD%E9%80%80-%E4%BF%9D%E5%AE%88%E9%BB%A8-%E6%87%89%E5%BE%A9%E8%81%B7%E4%B8%A6%E7%8D%8E%E5%8B%B5",
     "timestamp": "2026-04-07T09:19:05.513Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "夏天來了　天文台料周四起日間炎熱　周五至下周一市區氣溫30度",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260406/1117859878971641856091375.jpeg/Fy1FIe6RmWT7qGZVySJrVcF5GmtwJ5hlNLzBvS68wb0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60337918/%E5%A4%8F%E5%A4%A9%E4%BE%86%E4%BA%86-%E5%A4%A9%E6%96%87%E5%8F%B0%E6%96%99%E5%91%A8%E5%9B%9B%E8%B5%B7%E6%97%A5%E9%96%93%E7%82%8E%E7%86%B1-%E5%91%A8%E4%BA%94%E8%87%B3%E4%B8%8B%E5%91%A8%E4%B8%80%E5%B8%82%E5%8D%80%E6%B0%A3%E6%BA%AB30%E5%BA%A6",
-    "timestamp": "2026-04-07T08:47:26.580Z",
     "strategy": ".content-card__main"
   }
 ];
