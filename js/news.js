@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-08T21:25:55.794Z
+// Last updated: 2026-04-08T21:52:16.847Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "歐聯8強首回合｜10人巴塞0：2不敵馬體會　利物浦作客吞PSG雙蛋",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260409/1118773646467534848298471.jpeg/f9XjAB33q7m2iveGuLwWGq3F6jtb7dHCkhhiipIYYoo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60338428/%E6%AD%90%E8%81%AF8%E5%BC%B7%E9%A6%96%E5%9B%9E%E5%90%88-10%E4%BA%BA%E5%B7%B4%E5%A1%9E0-2%E4%B8%8D%E6%95%B5%E9%A6%AC%E9%AB%94%E6%9C%83-%E5%88%A9%E7%89%A9%E6%B5%A6%E4%BD%9C%E5%AE%A2%E5%90%9Epsg%E9%9B%99%E8%9B%8B",
+    "timestamp": "2026-04-08T21:52:16.847Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "歐聯8強首回合｜10人巴塞0：2不敵馬體會　利物浦作客吞PSG雙蛋",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260408/1118610795069050880049368.jpeg/33CMMddZY58cq6K7aL19ic-1FjoswXuV_DYnqPw2J6g?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60338341/%E5%AE%8F%E7%A6%8F%E8%8B%91-%E6%B6%88%E9%98%B2%E7%B3%BB%E7%B5%B1%E6%97%A9%E9%A0%90%E8%A8%88%E8%A6%81%E5%81%9C%E4%B8%80%E5%B9%B4-%E6%89%BF%E8%BE%A6%E5%95%86%E8%A2%AB%E5%95%8F%E7%94%B3%E8%AB%8B%E5%81%9C%E5%A4%9A%E5%B0%91%E6%AC%A1%E7%AD%94%E4%B8%8D%E5%87%BA",
     "timestamp": "2026-04-08T10:20:38.080Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "《不良一族尋愛記》小制現身！山本耀司WILDSIDE聯乘日本盆栽團隊",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260327/1114243390444146688790861.jpeg/jFkj8067kYubQ1iFPg8zXHgunsyAarIndSRJLnUkSS4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E4%B8%80%E7%89%A9/60334877/%E4%B8%8D%E8%89%AF%E4%B8%80%E6%97%8F%E5%B0%8B%E6%84%9B%E8%A8%98-%E5%B0%8F%E5%88%B6%E7%8F%BE%E8%BA%AB-%E5%B1%B1%E6%9C%AC%E8%80%80%E5%8F%B8wildside%E8%81%AF%E4%B9%98%E6%97%A5%E6%9C%AC%E7%9B%86%E6%A0%BD%E5%9C%98%E9%9A%8A",
-    "timestamp": "2026-04-08T09:49:58.251Z",
     "strategy": ".content-card__main"
   }
 ];
