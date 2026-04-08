@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-08T22:29:08.857Z
+// Last updated: 2026-04-08T22:52:08.586Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "林穎彤神隱半年露面與譚嘉儀聚會　捲男友JPEX案傳狂推Job避風頭",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260408/1118664743133908992164235.jpeg/hJ2oguRV9dyonX4Sg5nJ9nxY15YQlzFFOWd2fDlndnw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60337989/%E6%9E%97%E7%A9%8E%E5%BD%A4%E7%A5%9E%E9%9A%B1%E5%8D%8A%E5%B9%B4%E9%9C%B2%E9%9D%A2%E8%88%87%E8%AD%9A%E5%98%89%E5%84%80%E8%81%9A%E6%9C%83-%E6%8D%B2%E7%94%B7%E5%8F%8Bjpex%E6%A1%88%E5%82%B3%E7%8B%82%E6%8E%A8job%E9%81%BF%E9%A2%A8%E9%A0%AD",
+    "timestamp": "2026-04-08T22:52:08.586Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "天氣｜今日初時局部能見度較低　日間炎熱約29度　明日最高達30度",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260405/1117414370318618624948760.jpeg/ZFqkxQs254z6o60w4LxAJZ8b8637LUbTsMuAJbDLgCU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60338328/%E5%8D%B0%E5%BA%A6%E5%B0%87%E6%8E%A5%E6%94%B6%E9%A6%96%E6%89%B9%E4%BC%8A%E6%9C%97%E7%9F%B3%E6%B2%B9-7%E5%B9%B4%E4%BE%86%E9%A6%96%E6%AC%A1",
     "timestamp": "2026-04-08T11:25:28.821Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "地政總署：4月上調新界農地收地價至1043元　較半年前升3.5%",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20240115/823640013802573824587369.jpeg/tiWddKECpjpPurzQmj5ecMberVrwNGrulw5e6ZcOXuk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60338357/%E5%9C%B0%E6%94%BF%E7%B8%BD%E7%BD%B2-4%E6%9C%88%E4%B8%8A%E8%AA%BF%E6%96%B0%E7%95%8C%E8%BE%B2%E5%9C%B0%E6%94%B6%E5%9C%B0%E5%83%B9%E8%87%B31043%E5%85%83-%E8%BC%83%E5%8D%8A%E5%B9%B4%E5%89%8D%E5%8D%873-5",
-    "timestamp": "2026-04-08T10:54:54.069Z",
     "strategy": ".content-card__main"
   }
 ];
