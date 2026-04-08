@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-08T11:25:28.821Z
+// Last updated: 2026-04-08T11:55:20.568Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "醫管局資料外泄｜局方稱涉聯合醫院手術室資訊　停承辦商接觸系統",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260408/1118617579364028416094138.jpeg/l0Ealk3YZjDYhhDOANI6cpn8KTJK-xv_Wit5JloreSY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60338370/%E9%86%AB%E7%AE%A1%E5%B1%80%E8%B3%87%E6%96%99%E5%A4%96%E6%B3%84-%E5%B1%80%E6%96%B9%E7%A8%B1%E6%B6%89%E8%81%AF%E5%90%88%E9%86%AB%E9%99%A2%E6%89%8B%E8%A1%93%E5%AE%A4%E8%B3%87%E8%A8%8A-%E5%81%9C%E6%89%BF%E8%BE%A6%E5%95%86%E6%8E%A5%E8%A7%B8%E7%B3%BB%E7%B5%B1",
+    "timestamp": "2026-04-08T11:55:20.568Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "印度將接收首批伊朗石油　7年來首次",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260408/1118354313819721728361479.jpeg/XRp-1uOnzo9wSdvSXyu-95w6A4ZfCdDMSHz4nEh8-Jw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60338026/%E4%BC%8A%E6%9C%97%E6%88%B0%E7%88%AD-%E4%B8%AD%E4%BF%84%E5%90%A6%E6%B1%BA%E5%AE%89%E7%90%86%E6%9C%83%E6%B6%89%E9%9C%8D%E7%88%BE%E6%9C%A8%E8%8C%B2%E6%B1%BA%E8%AD%B0%E8%8D%89%E6%A1%88-%E6%86%82%E5%B1%80%E5%8B%A2%E9%80%B2%E4%B8%80%E6%AD%A5%E5%8D%87%E7%B4%9A",
     "timestamp": "2026-04-07T17:56:48.189Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "伊朗戰爭｜中俄否決安理會涉霍爾木茲決議草案　憂局勢進一步升級",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260408/1118354313819721728361479.jpeg/XRp-1uOnzo9wSdvSXyu-95w6A4ZfCdDMSHz4nEh8-Jw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60338026/%E4%BC%8A%E6%9C%97%E6%88%B0%E7%88%AD-%E4%B8%AD%E4%BF%84%E5%90%A6%E6%B1%BA%E5%AE%89%E7%90%86%E6%9C%83%E6%B6%89%E9%9C%8D%E7%88%BE%E6%9C%A8%E8%8C%B2%E6%B1%BA%E8%AD%B0%E8%8D%89%E6%A1%88-%E6%86%82%E5%B1%80%E5%8B%A2%E9%80%B2%E4%B8%80%E6%AD%A5%E5%8D%87%E7%B4%9A",
-    "timestamp": "2026-04-07T17:32:29.205Z",
     "strategy": ".content-card__main"
   }
 ];
