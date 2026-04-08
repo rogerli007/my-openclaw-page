@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-08T14:23:13.348Z
+// Last updated: 2026-04-08T15:01:22.380Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "監製蕭鍵鏗離世享年73歲　《我和春天有個約會》為代表作",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260408/1118680835814330368054936.jpeg/l-xNoNXcF8Tulm5tKO69v801IOANIQWEGGqFvhhqhb4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60338397/%E7%9B%A3%E8%A3%BD%E8%95%AD%E9%8D%B5%E9%8F%97%E9%9B%A2%E4%B8%96%E4%BA%AB%E5%B9%B473%E6%AD%B2-%E6%88%91%E5%92%8C%E6%98%A5%E5%A4%A9%E6%9C%89%E5%80%8B%E7%B4%84%E6%9C%83-%E7%82%BA%E4%BB%A3%E8%A1%A8%E4%BD%9C",
+    "timestamp": "2026-04-08T15:01:22.380Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "陸劇冰湖重生將揭楚喬傳十年之謎　李昀銳零下20度拍到凍傷極敬業",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260408/1118413876149489664769083.jpeg/F2aOJXBDfcxDdAqaVjyKP6hNElQ1mYGMx59OrsefTq4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60338038/%E6%AD%90%E8%81%AF8%E5%BC%B7%E9%A6%96%E5%9B%9E%E5%90%88-%E7%9A%87%E9%A6%AC1-2%E4%B8%8D%E6%95%B5%E6%8B%9C%E4%BB%81-%E9%98%BF%E4%BB%99%E5%A5%B4%E4%BD%9C%E5%AE%A21-0%E5%8B%9D%E5%A3%AB%E7%A0%B5%E4%BA%AD",
     "timestamp": "2026-04-07T21:53:05.575Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "伊朗戰爭｜巴基斯坦總理籲特朗普寬限兩周　促伊朗重開霍爾木茲",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250508/997188521871544320259807.jpeg/C1feAkT1dwR9GNfeoPcbi_tsjQoAeNo85QDdzeUA3c0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60338037/%E4%BC%8A%E6%9C%97%E6%88%B0%E7%88%AD-%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E7%B8%BD%E7%90%86%E7%B1%B2%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%AC%E9%99%90%E5%85%A9%E5%91%A8-%E4%BF%83%E4%BC%8A%E6%9C%97%E9%87%8D%E9%96%8B%E9%9C%8D%E7%88%BE%E6%9C%A8%E8%8C%B2",
-    "timestamp": "2026-04-07T20:25:02.664Z",
     "strategy": ".content-card__main"
   }
 ];
