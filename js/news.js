@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-08T10:20:38.080Z
+// Last updated: 2026-04-08T10:54:54.069Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "地政總署：4月上調新界農地收地價至1043元　較半年前升3.5%",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20240115/823640013802573824587369.jpeg/tiWddKECpjpPurzQmj5ecMberVrwNGrulw5e6ZcOXuk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60338357/%E5%9C%B0%E6%94%BF%E7%B8%BD%E7%BD%B2-4%E6%9C%88%E4%B8%8A%E8%AA%BF%E6%96%B0%E7%95%8C%E8%BE%B2%E5%9C%B0%E6%94%B6%E5%9C%B0%E5%83%B9%E8%87%B31043%E5%85%83-%E8%BC%83%E5%8D%8A%E5%B9%B4%E5%89%8D%E5%8D%873-5",
+    "timestamp": "2026-04-08T10:54:54.069Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "宏福苑｜消防系統早預計要停一年　承辦商被問申請停多少次答不出",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260408/1118345750879670272048369.jpeg/BG-Kd3a9opgx91EhGR5lrvZLg7s14JGsMHrErDB6xKw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60338023/%E6%96%B9%E5%8A%9B%E7%94%B3%E7%99%BB%E5%8F%B0%E8%88%87-%E9%AB%98%E4%BB%BF%E9%84%A7%E9%BA%97%E6%AC%A3-%E5%94%B1-%E5%A5%BD%E5%BF%83%E5%A5%BD%E5%A0%B1-%E5%90%8C%E5%8F%B0%E5%81%9A%E5%BF%83%E5%BF%83%E5%BC%95%E7%88%86%E6%9A%87%E6%83%B3",
     "timestamp": "2026-04-07T17:02:24.168Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "伊朗戰爭｜萬斯警告有「尚未決定使用的工具」　白宮否認暗示核武",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260408/1118338715127648256902864.jpeg/uONT9p5hSEWnm_jPVa-U5KW3Smm9qZ2AH8Rfix_EX4s?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60338020/%E4%BC%8A%E6%9C%97%E6%88%B0%E7%88%AD-%E8%90%AC%E6%96%AF%E8%AD%A6%E5%91%8A%E6%9C%89-%E5%B0%9A%E6%9C%AA%E6%B1%BA%E5%AE%9A%E4%BD%BF%E7%94%A8%E7%9A%84%E5%B7%A5%E5%85%B7-%E7%99%BD%E5%AE%AE%E5%90%A6%E8%AA%8D%E6%9A%97%E7%A4%BA%E6%A0%B8%E6%AD%A6",
-    "timestamp": "2026-04-07T16:33:20.439Z",
     "strategy": ".content-card__main"
   }
 ];
