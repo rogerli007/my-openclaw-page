@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-08T11:55:20.568Z
+// Last updated: 2026-04-08T12:33:27.191Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "31歲馮盈盈轉型成司儀界新寵　穿紅色低胸喱士長裙大騷身材做主持",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260408/1118550785546784768285401.jpeg/KDAaRG7JQ9h-OZwpCbZH1uk5uyx2MqoXH6HrgR-h64E?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60338187/31%E6%AD%B2%E9%A6%AE%E7%9B%88%E7%9B%88%E8%BD%89%E5%9E%8B%E6%88%90%E5%8F%B8%E5%84%80%E7%95%8C%E6%96%B0%E5%AF%B5-%E7%A9%BF%E7%B4%85%E8%89%B2%E4%BD%8E%E8%83%B8%E5%96%B1%E5%A3%AB%E9%95%B7%E8%A3%99%E5%A4%A7%E9%A8%B7%E8%BA%AB%E6%9D%90%E5%81%9A%E4%B8%BB%E6%8C%81",
+    "timestamp": "2026-04-08T12:33:27.191Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "醫管局資料外泄｜局方稱涉聯合醫院手術室資訊　停承辦商接觸系統",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260408/1118362482285481984857964.jpeg/0RVuHN42KI9W0ZGFXn2tFqkGypmmrsm1Czq73Qs6u90?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60338027/%E6%9D%B1%E5%BC%B5%E8%A5%BF%E6%9C%9B-%E9%85%92%E6%A8%93%E7%AB%9F%E7%84%B6%E6%8E%A8%E5%87%BA%E5%8D%8A%E5%83%B9-%E7%B3%A7%E7%A5%A8-%E6%94%B6%E9%8A%80%E8%B8%A2%E7%88%86%E5%90%8C%E4%BA%8B%E6%94%B6%E5%9B%9E%E4%BD%A3%E5%8F%8D%E8%A2%AB%E7%82%92",
     "timestamp": "2026-04-07T18:56:35.644Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "伊朗戰爭｜中俄否決安理會涉霍爾木茲決議草案　憂局勢進一步升級",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260408/1118354313819721728361479.jpeg/XRp-1uOnzo9wSdvSXyu-95w6A4ZfCdDMSHz4nEh8-Jw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60338026/%E4%BC%8A%E6%9C%97%E6%88%B0%E7%88%AD-%E4%B8%AD%E4%BF%84%E5%90%A6%E6%B1%BA%E5%AE%89%E7%90%86%E6%9C%83%E6%B6%89%E9%9C%8D%E7%88%BE%E6%9C%A8%E8%8C%B2%E6%B1%BA%E8%AD%B0%E8%8D%89%E6%A1%88-%E6%86%82%E5%B1%80%E5%8B%A2%E9%80%B2%E4%B8%80%E6%AD%A5%E5%8D%87%E7%B4%9A",
-    "timestamp": "2026-04-07T17:56:48.189Z",
     "strategy": ".content-card__main"
   }
 ];
