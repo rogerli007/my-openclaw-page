@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-08T22:52:08.586Z
+// Last updated: 2026-04-08T23:53:04.331Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "朝中社：4月6日至8日連續進行多項新型武器系統試驗",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260329/1114904928259674112418206.jpeg/8CYafs85-Ic8pzjt7qrTbkcX9y2KKD1aeiRQk3okUJM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60338434/%E6%9C%9D%E4%B8%AD%E7%A4%BE-4%E6%9C%886%E6%97%A5%E8%87%B38%E6%97%A5%E9%80%A3%E7%BA%8C%E9%80%B2%E8%A1%8C%E5%A4%9A%E9%A0%85%E6%96%B0%E5%9E%8B%E6%AD%A6%E5%99%A8%E7%B3%BB%E7%B5%B1%E8%A9%A6%E9%A9%97",
+    "timestamp": "2026-04-08T23:53:04.331Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "林穎彤神隱半年露面與譚嘉儀聚會　捲男友JPEX案傳狂推Job避風頭",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260408/1118617579364028416094138.jpeg/l0Ealk3YZjDYhhDOANI6cpn8KTJK-xv_Wit5JloreSY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60338370/%E9%86%AB%E7%AE%A1%E5%B1%80%E8%B3%87%E6%96%99%E5%A4%96%E6%B3%84-%E5%B1%80%E6%96%B9%E7%A8%B1%E6%B6%89%E8%81%AF%E5%90%88%E9%86%AB%E9%99%A2%E6%89%8B%E8%A1%93%E5%AE%A4%E8%B3%87%E8%A8%8A-%E5%81%9C%E6%89%BF%E8%BE%A6%E5%95%86%E6%8E%A5%E8%A7%B8%E7%B3%BB%E7%B5%B1",
     "timestamp": "2026-04-08T11:55:20.568Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "印度將接收首批伊朗石油　7年來首次",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260405/1117414370318618624948760.jpeg/ZFqkxQs254z6o60w4LxAJZ8b8637LUbTsMuAJbDLgCU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60338328/%E5%8D%B0%E5%BA%A6%E5%B0%87%E6%8E%A5%E6%94%B6%E9%A6%96%E6%89%B9%E4%BC%8A%E6%9C%97%E7%9F%B3%E6%B2%B9-7%E5%B9%B4%E4%BE%86%E9%A6%96%E6%AC%A1",
-    "timestamp": "2026-04-08T11:25:28.821Z",
     "strategy": ".content-card__main"
   }
 ];
