@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-08T16:47:19.719Z
+// Last updated: 2026-04-08T17:17:24.950Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "25+英皇群星演唱會│王雙駿辭任音樂總監：一直不能與歌手直接對話",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260409/1118717878598635520956407.jpeg/UBj-ok-2hjR0Yc6yzlszn03LO7tPlVJv-sjY6frI2Ok?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60338412/25-%E8%8B%B1%E7%9A%87%E7%BE%A4%E6%98%9F%E6%BC%94%E5%94%B1%E6%9C%83-%E7%8E%8B%E9%9B%99%E9%A7%BF%E8%BE%AD%E4%BB%BB%E9%9F%B3%E6%A8%82%E7%B8%BD%E7%9B%A3-%E4%B8%80%E7%9B%B4%E4%B8%8D%E8%83%BD%E8%88%87%E6%AD%8C%E6%89%8B%E7%9B%B4%E6%8E%A5%E5%B0%8D%E8%A9%B1",
+    "timestamp": "2026-04-08T17:17:24.950Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "羽毛球亞錦賽｜楊雅婷楊霈霖闖次圈　激戰三局逆轉志田千陽組合",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260408/1118497505009471488614537.jpeg/zjusG-DfPGi8N_VyG8cmSY_p7fMiBmFdxMICEsTCAhI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60338096/%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8B%A2-%E7%BE%8E%E4%BC%8A%E5%90%8C%E6%84%8F%E6%9A%AB%E5%81%9C%E7%81%AB-%E6%BB%99%E8%B1%90%E5%8F%8A%E6%B8%A3%E6%89%93%E4%BB%8A%E6%97%A9%E9%A3%86%E9%80%BE%E5%8D%8A%E6%88%90-%E6%B8%AF%E8%82%A1%E7%95%B0%E5%8B%95",
     "timestamp": "2026-04-08T02:46:25.179Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "伊朗局勢｜美伊同意停火兩周　美匯應聲挫　金價重上4800美元",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260404/1116904014814908416682391.jpeg/PEpZZJ7wx8oTfDYc9M_rDUAJW9-ipCt4ciSQl3IkkJc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60338047/%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8B%A2-%E7%BE%8E%E4%BC%8A%E5%90%8C%E6%84%8F%E5%81%9C%E7%81%AB%E5%85%A9%E5%91%A8-%E7%BE%8E%E5%8C%AF%E6%87%89%E8%81%B2%E6%8C%AB-%E9%87%91%E5%83%B9%E9%87%8D%E4%B8%8A4800%E7%BE%8E%E5%85%83",
-    "timestamp": "2026-04-08T00:50:31.912Z",
     "strategy": ".content-card__main"
   }
 ];
