@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-08T15:01:22.380Z
+// Last updated: 2026-04-08T15:42:41.516Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "張振朗疑拒被TVB管理社交平台遭減Job  女友楊偲泳：咁敏感嘅話題",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260408/1118689972782632960376584.jpeg/r44e7dT2V6ZR5yt7rRUcD-E9rrUj6z6BW3GrX1txq18?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60338396/%E5%BC%B5%E6%8C%AF%E6%9C%97%E7%96%91%E6%8B%92%E8%A2%ABtvb%E7%AE%A1%E7%90%86%E7%A4%BE%E4%BA%A4%E5%B9%B3%E5%8F%B0%E9%81%AD%E6%B8%9Bjob-%E5%A5%B3%E5%8F%8B%E6%A5%8A%E5%81%B2%E6%B3%B3-%E5%92%81%E6%95%8F%E6%84%9F%E5%98%85%E8%A9%B1%E9%A1%8C",
+    "timestamp": "2026-04-08T15:42:41.516Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "監製蕭鍵鏗離世享年73歲　《我和春天有個約會》為代表作",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20210830/509048331684024320158047.jpeg/MB4309BK6yDkP-MNPXArKZdJ0zl-WQi3rqL32q6i99o?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60338040/%E4%BC%8A%E6%9C%97%E6%88%B0%E7%88%AD-%E7%BE%8E%E5%AA%92-%E7%89%B9%E6%9C%97%E6%99%AE%E5%9C%98%E9%9A%8A%E5%8A%9B%E4%BF%83%E5%AE%89%E7%BD%AE%E6%BB%AF%E7%95%99%E5%9C%A8%E7%BE%8E%E8%BB%8D%E4%B8%AD%E6%9D%B1%E5%9F%BA%E5%9C%B0%E9%98%BF%E5%AF%8C%E6%B1%97%E4%BA%BA",
     "timestamp": "2026-04-07T22:23:23.558Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "歐聯8強首回合｜皇馬1：2不敵拜仁　阿仙奴作客1：0勝士砵亭",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260408/1118413876149489664769083.jpeg/F2aOJXBDfcxDdAqaVjyKP6hNElQ1mYGMx59OrsefTq4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60338038/%E6%AD%90%E8%81%AF8%E5%BC%B7%E9%A6%96%E5%9B%9E%E5%90%88-%E7%9A%87%E9%A6%AC1-2%E4%B8%8D%E6%95%B5%E6%8B%9C%E4%BB%81-%E9%98%BF%E4%BB%99%E5%A5%B4%E4%BD%9C%E5%AE%A21-0%E5%8B%9D%E5%A3%AB%E7%A0%B5%E4%BA%AD",
-    "timestamp": "2026-04-07T21:53:05.575Z",
     "strategy": ".content-card__main"
   }
 ];
