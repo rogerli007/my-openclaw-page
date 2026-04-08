@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-08T16:17:01.703Z
+// Last updated: 2026-04-08T16:47:19.719Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "羽毛球亞錦賽｜楊雅婷楊霈霖闖次圈　激戰三局逆轉志田千陽組合",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20251010/1053271070968123392420913.jpeg/RvrNQ4O3Nww_iiIcXsxFc0LvRQtV48m7Q25y8UNucvE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60338407/%E7%BE%BD%E6%AF%9B%E7%90%83%E4%BA%9E%E9%8C%A6%E8%B3%BD-%E6%A5%8A%E9%9B%85%E5%A9%B7%E6%A5%8A%E9%9C%88%E9%9C%96%E9%97%96%E6%AC%A1%E5%9C%88-%E6%BF%80%E6%88%B0%E4%B8%89%E5%B1%80%E9%80%86%E8%BD%89%E5%BF%97%E7%94%B0%E5%8D%83%E9%99%BD%E7%B5%84%E5%90%88",
+    "timestamp": "2026-04-08T16:47:19.719Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "伊媒：伊朗已叫停霍爾木茲油輪通行　與美談判前提包括黎巴嫩停火",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260404/1116904014814908416682391.jpeg/PEpZZJ7wx8oTfDYc9M_rDUAJW9-ipCt4ciSQl3IkkJc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60338047/%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8B%A2-%E7%BE%8E%E4%BC%8A%E5%90%8C%E6%84%8F%E5%81%9C%E7%81%AB%E5%85%A9%E5%91%A8-%E7%BE%8E%E5%8C%AF%E6%87%89%E8%81%B2%E6%8C%AB-%E9%87%91%E5%83%B9%E9%87%8D%E4%B8%8A4800%E7%BE%8E%E5%85%83",
     "timestamp": "2026-04-08T00:50:31.912Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普逆轉了伊朗形象",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260407/1118128242490871808350176.jpeg/Cogl8TFsOnzpjIBFyVccmD9uajgu1xgQO4zLmjuMy5o?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%9C%8B%E9%9A%9B%E5%88%86%E6%9E%90/60337976/%E7%89%B9%E6%9C%97%E6%99%AE%E9%80%86%E8%BD%89%E4%BA%86%E4%BC%8A%E6%9C%97%E5%BD%A2%E8%B1%A1",
-    "timestamp": "2026-04-07T23:52:22.194Z",
     "strategy": ".content-card__main"
   }
 ];
