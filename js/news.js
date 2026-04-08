@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-08T15:42:41.516Z
+// Last updated: 2026-04-08T16:17:01.703Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "伊媒：伊朗已叫停霍爾木茲油輪通行　與美談判前提包括黎巴嫩停火",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260409/1118700245782499328623518.jpeg/Cxt5amoT6ntZtaauzgfZ_xoILgYBd9LQnkazvJ5Gs7w?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60338401/%E4%BC%8A%E5%AA%92-%E4%BC%8A%E6%9C%97%E5%B7%B2%E5%8F%AB%E5%81%9C%E9%9C%8D%E7%88%BE%E6%9C%A8%E8%8C%B2%E6%B2%B9%E8%BC%AA%E9%80%9A%E8%A1%8C-%E8%88%87%E7%BE%8E%E8%AB%87%E5%88%A4%E5%89%8D%E6%8F%90%E5%8C%85%E6%8B%AC%E9%BB%8E%E5%B7%B4%E5%AB%A9%E5%81%9C%E7%81%AB",
+    "timestamp": "2026-04-08T16:17:01.703Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "張振朗疑拒被TVB管理社交平台遭減Job  女友楊偲泳：咁敏感嘅話題",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260407/1118128242490871808350176.jpeg/Cogl8TFsOnzpjIBFyVccmD9uajgu1xgQO4zLmjuMy5o?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%9C%8B%E9%9A%9B%E5%88%86%E6%9E%90/60337976/%E7%89%B9%E6%9C%97%E6%99%AE%E9%80%86%E8%BD%89%E4%BA%86%E4%BC%8A%E6%9C%97%E5%BD%A2%E8%B1%A1",
     "timestamp": "2026-04-07T23:52:22.194Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "伊朗戰爭｜美媒：特朗普團隊力促安置滯留在美軍中東基地阿富汗人",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20210830/509048331684024320158047.jpeg/MB4309BK6yDkP-MNPXArKZdJ0zl-WQi3rqL32q6i99o?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60338040/%E4%BC%8A%E6%9C%97%E6%88%B0%E7%88%AD-%E7%BE%8E%E5%AA%92-%E7%89%B9%E6%9C%97%E6%99%AE%E5%9C%98%E9%9A%8A%E5%8A%9B%E4%BF%83%E5%AE%89%E7%BD%AE%E6%BB%AF%E7%95%99%E5%9C%A8%E7%BE%8E%E8%BB%8D%E4%B8%AD%E6%9D%B1%E5%9F%BA%E5%9C%B0%E9%98%BF%E5%AF%8C%E6%B1%97%E4%BA%BA",
-    "timestamp": "2026-04-07T22:23:23.558Z",
     "strategy": ".content-card__main"
   }
 ];
