@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-08T20:33:20.670Z
+// Last updated: 2026-04-08T21:25:55.794Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "歐聯8強首回合｜10人巴塞0：2不敵馬體會　利物浦作客吞PSG雙蛋",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260409/1118773646467534848298471.jpeg/f9XjAB33q7m2iveGuLwWGq3F6jtb7dHCkhhiipIYYoo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60338428/%E6%AD%90%E8%81%AF8%E5%BC%B7%E9%A6%96%E5%9B%9E%E5%90%88-10%E4%BA%BA%E5%B7%B4%E5%A1%9E0-2%E4%B8%8D%E6%95%B5%E9%A6%AC%E9%AB%94%E6%9C%83-%E5%88%A9%E7%89%A9%E6%B5%A6%E4%BD%9C%E5%AE%A2%E5%90%9Epsg%E9%9B%99%E8%9B%8B",
+    "timestamp": "2026-04-08T21:25:55.794Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美國白宮：特朗普將與北約秘書長討論美退出北約",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260327/1114243390444146688790861.jpeg/jFkj8067kYubQ1iFPg8zXHgunsyAarIndSRJLnUkSS4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E4%B8%80%E7%89%A9/60334877/%E4%B8%8D%E8%89%AF%E4%B8%80%E6%97%8F%E5%B0%8B%E6%84%9B%E8%A8%98-%E5%B0%8F%E5%88%B6%E7%8F%BE%E8%BA%AB-%E5%B1%B1%E6%9C%AC%E8%80%80%E5%8F%B8wildside%E8%81%AF%E4%B9%98%E6%97%A5%E6%9C%AC%E7%9B%86%E6%A0%BD%E5%9C%98%E9%9A%8A",
     "timestamp": "2026-04-08T09:49:58.251Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "日本工業意外　500噸混凝土砸穿地面　鷹架坍塌工人墮海3死｜有片",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260408/1118596454865178624103695.jpeg/ltjebfqxWoUie6p1PdZN264uFYKY-1MWZr4kUGa-JFA?v=w1920",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60338304/%E6%97%A5%E6%9C%AC%E5%B7%A5%E6%A5%AD%E6%84%8F%E5%A4%96-500%E5%99%B8%E6%B7%B7%E5%87%9D%E5%9C%9F%E7%A0%B8%E7%A9%BF%E5%9C%B0%E9%9D%A2-%E9%B7%B9%E6%9E%B6%E5%9D%8D%E5%A1%8C%E5%B7%A5%E4%BA%BA%E5%A2%AE%E6%B5%B73%E6%AD%BB-%E6%9C%89%E7%89%87",
-    "timestamp": "2026-04-08T09:17:56.552Z",
     "strategy": ".content-card__main"
   }
 ];
