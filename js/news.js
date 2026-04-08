@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-08T18:18:12.118Z
+// Last updated: 2026-04-08T18:50:58.858Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "伊朗外長：若美國有誠意　徹底結束戰爭「完全可能」",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260217/1100573447966167040032476.jpeg/vaqHGidwz-3EDQ9wsVF0SzoP4Vav45cT2MGK1NjBitQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60338422/%E4%BC%8A%E6%9C%97%E5%A4%96%E9%95%B7-%E8%8B%A5%E7%BE%8E%E5%9C%8B%E6%9C%89%E8%AA%A0%E6%84%8F-%E5%BE%B9%E5%BA%95%E7%B5%90%E6%9D%9F%E6%88%B0%E7%88%AD-%E5%AE%8C%E5%85%A8%E5%8F%AF%E8%83%BD",
+    "timestamp": "2026-04-08T18:50:58.858Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "新田奪命車禍‧車CAM│狂撼釀5車串燒　被撞貨車司機：小巴似無收掣",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20231024/793535078927044608128693.jpeg/IxCzq--QV2UBm3nee9S91pzr4__xoUTqguQvFpTkLxY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60338201/%E7%B2%BE%E9%80%B2%E5%BB%BA%E7%AF%89%E8%A2%AB%E6%8C%87%E6%8B%96%E6%AC%A0%E5%88%86%E5%88%A4%E5%95%86%E5%B7%A5%E7%A8%8B%E8%B2%BB%E7%94%A8-%E8%A2%AB%E5%85%A5%E7%A8%9F%E8%BF%BD%E8%A8%8E2464%E8%90%AC%E5%A4%9A%E5%85%83",
     "timestamp": "2026-04-08T06:12:39.966Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "8旬翁與女子起爭執還咬人　被捕時情緒穩定　上警車後竟離奇死亡",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260408/1118515517821292544103682.png/siB1O8mDzqlFJcHsXPNrarFX3wDONL6h5ZrTSeWa00k?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60338137/8%E6%97%AC%E7%BF%81%E8%88%87%E5%A5%B3%E5%AD%90%E8%B5%B7%E7%88%AD%E5%9F%B7%E9%82%84%E5%92%AC%E4%BA%BA-%E8%A2%AB%E6%8D%95%E6%99%82%E6%83%85%E7%B7%92%E7%A9%A9%E5%AE%9A-%E4%B8%8A%E8%AD%A6%E8%BB%8A%E5%BE%8C%E7%AB%9F%E9%9B%A2%E5%A5%87%E6%AD%BB%E4%BA%A1",
-    "timestamp": "2026-04-08T05:37:51.332Z",
     "strategy": ".content-card__main"
   }
 ];
