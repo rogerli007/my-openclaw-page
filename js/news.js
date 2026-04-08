@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-08T17:17:24.950Z
+// Last updated: 2026-04-08T18:18:12.118Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "新田奪命車禍‧車CAM│狂撼釀5車串燒　被撞貨車司機：小巴似無收掣",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260409/1118711732353634304046957.jpeg/-UOKZgj4be4LY-LBEVYr7GLnXT__F2OPyBhZUu0YWVI",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60338415/%E6%96%B0%E7%94%B0%E5%A5%AA%E5%91%BD%E8%BB%8A%E7%A6%8D-%E8%BB%8Acam-%E7%8B%82%E6%92%BC%E9%87%805%E8%BB%8A%E4%B8%B2%E7%87%92-%E8%A2%AB%E6%92%9E%E8%B2%A8%E8%BB%8A%E5%8F%B8%E6%A9%9F-%E5%B0%8F%E5%B7%B4%E4%BC%BC%E7%84%A1%E6%94%B6%E6%8E%A3",
+    "timestamp": "2026-04-08T18:18:12.118Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "25+英皇群星演唱會│王雙駿辭任音樂總監：一直不能與歌手直接對話",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260408/1118515517821292544103682.png/siB1O8mDzqlFJcHsXPNrarFX3wDONL6h5ZrTSeWa00k?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60338137/8%E6%97%AC%E7%BF%81%E8%88%87%E5%A5%B3%E5%AD%90%E8%B5%B7%E7%88%AD%E5%9F%B7%E9%82%84%E5%92%AC%E4%BA%BA-%E8%A2%AB%E6%8D%95%E6%99%82%E6%83%85%E7%B7%92%E7%A9%A9%E5%AE%9A-%E4%B8%8A%E8%AD%A6%E8%BB%8A%E5%BE%8C%E7%AB%9F%E9%9B%A2%E5%A5%87%E6%AD%BB%E4%BA%A1",
     "timestamp": "2026-04-08T05:37:51.332Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "伊朗局勢｜美伊同意暫停火　滙豐及渣打今早飆逾半成【港股異動】",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260408/1118497505009471488614537.jpeg/zjusG-DfPGi8N_VyG8cmSY_p7fMiBmFdxMICEsTCAhI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60338096/%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8B%A2-%E7%BE%8E%E4%BC%8A%E5%90%8C%E6%84%8F%E6%9A%AB%E5%81%9C%E7%81%AB-%E6%BB%99%E8%B1%90%E5%8F%8A%E6%B8%A3%E6%89%93%E4%BB%8A%E6%97%A9%E9%A3%86%E9%80%BE%E5%8D%8A%E6%88%90-%E6%B8%AF%E8%82%A1%E7%95%B0%E5%8B%95",
-    "timestamp": "2026-04-08T02:46:25.179Z",
     "strategy": ".content-card__main"
   }
 ];
