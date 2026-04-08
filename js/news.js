@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-08T12:33:27.191Z
+// Last updated: 2026-04-08T13:00:38.272Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "宏福苑聽證會｜消防措施失效誰責任？　一文看清兩消防承辦商口供",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260408/1118652166588862464986270.jpeg/z55BUkSNoQyZzlZJzoz9TA0uR8NI9geE41cvT-NXL08?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60338383/%E5%AE%8F%E7%A6%8F%E8%8B%91%E8%81%BD%E8%AD%89%E6%9C%83-%E6%B6%88%E9%98%B2%E6%8E%AA%E6%96%BD%E5%A4%B1%E6%95%88%E8%AA%B0%E8%B2%AC%E4%BB%BB-%E4%B8%80%E6%96%87%E7%9C%8B%E6%B8%85%E5%85%A9%E6%B6%88%E9%98%B2%E6%89%BF%E8%BE%A6%E5%95%86%E5%8F%A3%E4%BE%9B",
+    "timestamp": "2026-04-08T13:00:38.272Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "31歲馮盈盈轉型成司儀界新寵　穿紅色低胸喱士長裙大騷身材做主持",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260408/1118381529437835264327695.jpeg/tXUpaOf1RWvnRgRJiuFtBCbbom3tREntMI84ORWPODk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60338032/%E6%9D%B1%E5%8D%80%E8%B5%B0%E5%BB%8A%E9%87%8D%E5%9E%8B%E8%B2%A8%E8%BB%8A%E7%96%91%E5%88%87%E7%B7%9A%E6%92%9E%E7%9A%84%E5%A3%AB-%E7%9A%84%E5%A3%AB%E5%A4%B1%E6%8E%A7%E6%92%9E%E5%A3%86%E9%87%804%E4%BA%BA%E5%82%B7",
     "timestamp": "2026-04-07T19:34:27.461Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "東張西望｜酒樓竟然推出半價「糧票」　收銀踢爆同事收回佣反被炒",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260408/1118362482285481984857964.jpeg/0RVuHN42KI9W0ZGFXn2tFqkGypmmrsm1Czq73Qs6u90?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60338027/%E6%9D%B1%E5%BC%B5%E8%A5%BF%E6%9C%9B-%E9%85%92%E6%A8%93%E7%AB%9F%E7%84%B6%E6%8E%A8%E5%87%BA%E5%8D%8A%E5%83%B9-%E7%B3%A7%E7%A5%A8-%E6%94%B6%E9%8A%80%E8%B8%A2%E7%88%86%E5%90%8C%E4%BA%8B%E6%94%B6%E5%9B%9E%E4%BD%A3%E5%8F%8D%E8%A2%AB%E7%82%92",
-    "timestamp": "2026-04-07T18:56:35.644Z",
     "strategy": ".content-card__main"
   }
 ];
