@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-08T10:54:54.069Z
+// Last updated: 2026-04-08T11:25:28.821Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "印度將接收首批伊朗石油　7年來首次",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260405/1117414370318618624948760.jpeg/ZFqkxQs254z6o60w4LxAJZ8b8637LUbTsMuAJbDLgCU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60338328/%E5%8D%B0%E5%BA%A6%E5%B0%87%E6%8E%A5%E6%94%B6%E9%A6%96%E6%89%B9%E4%BC%8A%E6%9C%97%E7%9F%B3%E6%B2%B9-7%E5%B9%B4%E4%BE%86%E9%A6%96%E6%AC%A1",
+    "timestamp": "2026-04-08T11:25:28.821Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "地政總署：4月上調新界農地收地價至1043元　較半年前升3.5%",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260408/1118354313819721728361479.jpeg/XRp-1uOnzo9wSdvSXyu-95w6A4ZfCdDMSHz4nEh8-Jw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60338026/%E4%BC%8A%E6%9C%97%E6%88%B0%E7%88%AD-%E4%B8%AD%E4%BF%84%E5%90%A6%E6%B1%BA%E5%AE%89%E7%90%86%E6%9C%83%E6%B6%89%E9%9C%8D%E7%88%BE%E6%9C%A8%E8%8C%B2%E6%B1%BA%E8%AD%B0%E8%8D%89%E6%A1%88-%E6%86%82%E5%B1%80%E5%8B%A2%E9%80%B2%E4%B8%80%E6%AD%A5%E5%8D%87%E7%B4%9A",
     "timestamp": "2026-04-07T17:32:29.205Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "方力申登台與「高仿鄧麗欣」唱《好心好報》　同台做心心引爆暇想",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260408/1118345750879670272048369.jpeg/BG-Kd3a9opgx91EhGR5lrvZLg7s14JGsMHrErDB6xKw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60338023/%E6%96%B9%E5%8A%9B%E7%94%B3%E7%99%BB%E5%8F%B0%E8%88%87-%E9%AB%98%E4%BB%BF%E9%84%A7%E9%BA%97%E6%AC%A3-%E5%94%B1-%E5%A5%BD%E5%BF%83%E5%A5%BD%E5%A0%B1-%E5%90%8C%E5%8F%B0%E5%81%9A%E5%BF%83%E5%BF%83%E5%BC%95%E7%88%86%E6%9A%87%E6%83%B3",
-    "timestamp": "2026-04-07T17:02:24.168Z",
     "strategy": ".content-card__main"
   }
 ];
