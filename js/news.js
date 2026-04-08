@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-08T06:12:39.966Z
+// Last updated: 2026-04-08T06:54:30.456Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "伊朗｜特朗普指中國促成停火談判　駐美大使館稱中方致力結束衝突",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260402/1116314134850310144324769.jpeg/GGMbFIHiDHUC_WRPjYZHMRh3KSy8_8MpQss_eULLP3k?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60338207/%E4%BC%8A%E6%9C%97-%E7%89%B9%E6%9C%97%E6%99%AE%E6%8C%87%E4%B8%AD%E5%9C%8B%E4%BF%83%E6%88%90%E5%81%9C%E7%81%AB%E8%AB%87%E5%88%A4-%E9%A7%90%E7%BE%8E%E5%A4%A7%E4%BD%BF%E9%A4%A8%E7%A8%B1%E4%B8%AD%E6%96%B9%E8%87%B4%E5%8A%9B%E7%B5%90%E6%9D%9F%E8%A1%9D%E7%AA%81",
+    "timestamp": "2026-04-08T06:54:30.456Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "精進建築被指拖欠分判商工程費用　被入稟追討2464萬多元",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260320/1111791601090301952829674.jpeg/s733qhFSjqaDLWSuENX4uAm2XB6IOkkGdc6uFkDOrhY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60332692/%E6%AD%A3%E7%BE%A9%E5%A5%B3%E7%A5%9E-%E6%88%B4%E7%A5%96%E5%84%80%E5%8C%96%E8%BA%AB%E6%AA%A2%E6%8E%A7%E5%AE%98-%E8%88%87%E9%A6%AC%E8%B2%AB%E6%9D%B1%E4%BA%A4%E6%89%8B-%E9%8B%A4%E6%AD%BB%E4%BD%A2%E5%95%B2%E4%BA%BA",
     "timestamp": "2026-04-07T12:43:54.984Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "東張西望｜啟德居屋疑被當收費行李寄存倉　閒雜人進出惹鄰居困擾",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260407/1118171220357943296467830.png/qqut-ZyRT48A-Zbc2ZhiELLgETrMIDrV0NNMY9DTTGM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60337763/%E6%9D%B1%E5%BC%B5%E8%A5%BF%E6%9C%9B-%E5%95%9F%E5%BE%B7%E5%B1%85%E5%B1%8B%E7%96%91%E8%A2%AB%E7%95%B6%E6%94%B6%E8%B2%BB%E8%A1%8C%E6%9D%8E%E5%AF%84%E5%AD%98%E5%80%89-%E9%96%92%E9%9B%9C%E4%BA%BA%E9%80%B2%E5%87%BA%E6%83%B9%E9%84%B0%E5%B1%85%E5%9B%B0%E6%93%BE",
-    "timestamp": "2026-04-07T10:20:15.313Z",
     "strategy": ".content-card__main"
   }
 ];
