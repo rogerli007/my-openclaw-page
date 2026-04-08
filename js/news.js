@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-08T09:17:56.552Z
+// Last updated: 2026-04-08T09:49:58.251Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "《不良一族尋愛記》小制現身！山本耀司WILDSIDE聯乘日本盆栽團隊",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260327/1114243390444146688790861.jpeg/jFkj8067kYubQ1iFPg8zXHgunsyAarIndSRJLnUkSS4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E4%B8%80%E7%89%A9/60334877/%E4%B8%8D%E8%89%AF%E4%B8%80%E6%97%8F%E5%B0%8B%E6%84%9B%E8%A8%98-%E5%B0%8F%E5%88%B6%E7%8F%BE%E8%BA%AB-%E5%B1%B1%E6%9C%AC%E8%80%80%E5%8F%B8wildside%E8%81%AF%E4%B9%98%E6%97%A5%E6%9C%AC%E7%9B%86%E6%A0%BD%E5%9C%98%E9%9A%8A",
+    "timestamp": "2026-04-08T09:49:58.251Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "日本工業意外　500噸混凝土砸穿地面　鷹架坍塌工人墮海3死｜有片",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260407/1118140527670202368710935.jpeg/BBk483yjAjjB1uzXdYR6HUXbfJ1eqVWa6J9oleifaJU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60338018/%E7%89%B9%E6%9C%97%E6%99%AE-%E8%8B%A5%E8%AB%87%E5%88%A4%E5%87%BA%E7%8F%BE%E9%80%B2%E5%B1%95-%E5%B0%87%E8%80%83%E6%85%AE%E6%94%B9%E8%AE%8A%E5%B0%8D%E4%BC%8A%E6%9C%97%E6%89%93%E6%93%8A%E8%A1%8C%E5%8B%95",
     "timestamp": "2026-04-07T15:55:40.519Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "Medicare計劃費率上調　美醫保概念股大漲　聯合健康升近9%",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250515/999700516843819008204175.jpeg/iq9qflTsqrIWhUMQ9Hagbgi3Xm3PHPGHCOkymgjpMpo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60337870/medicare%E8%A8%88%E5%8A%83%E8%B2%BB%E7%8E%87%E4%B8%8A%E8%AA%BF-%E7%BE%8E%E9%86%AB%E4%BF%9D%E6%A6%82%E5%BF%B5%E8%82%A1%E5%A4%A7%E6%BC%B2-%E8%81%AF%E5%90%88%E5%81%A5%E5%BA%B7%E5%8D%87%E8%BF%919",
-    "timestamp": "2026-04-07T14:00:33.220Z",
     "strategy": ".content-card__main"
   }
 ];
