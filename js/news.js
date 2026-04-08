@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-08T18:50:58.858Z
+// Last updated: 2026-04-08T19:38:16.142Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美國白宮：特朗普將與北約秘書長討論美退出北約",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260409/1118739832265248768702394.jpeg/iRa2dA81k1iJaodhrbKmW6f371aXVP2Xva4hqL2uIag?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60338426/%E7%BE%8E%E5%9C%8B%E7%99%BD%E5%AE%AE-%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%87%E8%88%87%E5%8C%97%E7%B4%84%E7%A7%98%E6%9B%B8%E9%95%B7%E8%A8%8E%E8%AB%96%E7%BE%8E%E9%80%80%E5%87%BA%E5%8C%97%E7%B4%84",
+    "timestamp": "2026-04-08T19:38:16.142Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "伊朗外長：若美國有誠意　徹底結束戰爭「完全可能」",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260402/1116314134850310144324769.jpeg/GGMbFIHiDHUC_WRPjYZHMRh3KSy8_8MpQss_eULLP3k?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60338207/%E4%BC%8A%E6%9C%97-%E7%89%B9%E6%9C%97%E6%99%AE%E6%8C%87%E4%B8%AD%E5%9C%8B%E4%BF%83%E6%88%90%E5%81%9C%E7%81%AB%E8%AB%87%E5%88%A4-%E9%A7%90%E7%BE%8E%E5%A4%A7%E4%BD%BF%E9%A4%A8%E7%A8%B1%E4%B8%AD%E6%96%B9%E8%87%B4%E5%8A%9B%E7%B5%90%E6%9D%9F%E8%A1%9D%E7%AA%81",
     "timestamp": "2026-04-08T06:54:30.456Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "精進建築被指拖欠分判商工程費用　被入稟追討2464萬多元",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20231024/793535078927044608128693.jpeg/IxCzq--QV2UBm3nee9S91pzr4__xoUTqguQvFpTkLxY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60338201/%E7%B2%BE%E9%80%B2%E5%BB%BA%E7%AF%89%E8%A2%AB%E6%8C%87%E6%8B%96%E6%AC%A0%E5%88%86%E5%88%A4%E5%95%86%E5%B7%A5%E7%A8%8B%E8%B2%BB%E7%94%A8-%E8%A2%AB%E5%85%A5%E7%A8%9F%E8%BF%BD%E8%A8%8E2464%E8%90%AC%E5%A4%9A%E5%85%83",
-    "timestamp": "2026-04-08T06:12:39.966Z",
     "strategy": ".content-card__main"
   }
 ];
