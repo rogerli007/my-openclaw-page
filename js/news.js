@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-08T19:38:16.142Z
+// Last updated: 2026-04-08T20:09:12.072Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美國白宮：特朗普將與北約秘書長討論美退出北約",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260409/1118739832265248768702394.jpeg/iRa2dA81k1iJaodhrbKmW6f371aXVP2Xva4hqL2uIag?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60338426/%E7%BE%8E%E5%9C%8B%E7%99%BD%E5%AE%AE-%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%87%E8%88%87%E5%8C%97%E7%B4%84%E7%A7%98%E6%9B%B8%E9%95%B7%E8%A8%8E%E8%AB%96%E7%BE%8E%E9%80%80%E5%87%BA%E5%8C%97%E7%B4%84",
+    "timestamp": "2026-04-08T20:09:12.072Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美國白宮：特朗普將與北約秘書長討論美退出北約",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/4327215/org/a94a0c64c49b1133c1f7b6846d3649ab.jpg/47AnSjVu9X2Wptv_a8D2p2lwTlvPTnbtB7NF4wezReM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60338248/%E7%94%B7%E5%AD%90%E6%B6%89%E6%94%BE%E7%96%91%E4%BC%BC%E6%89%8B%E6%A6%B4%E5%BD%88-%E7%9D%A3%E5%AF%9F%E7%9B%AE%E6%B8%AC%E8%AA%8D%E7%82%BA%E4%BC%BC%E7%9C%9F-%E8%A2%AB%E5%91%8A%E7%A8%B1%E6%98%AF%E6%9C%8B%E5%8F%8B%E4%B8%8D%E8%A6%81%E7%9A%84%E7%8E%A9%E5%85%B7",
     "timestamp": "2026-04-08T07:42:32.875Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "伊朗｜特朗普指中國促成停火談判　駐美大使館稱中方致力結束衝突",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260402/1116314134850310144324769.jpeg/GGMbFIHiDHUC_WRPjYZHMRh3KSy8_8MpQss_eULLP3k?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60338207/%E4%BC%8A%E6%9C%97-%E7%89%B9%E6%9C%97%E6%99%AE%E6%8C%87%E4%B8%AD%E5%9C%8B%E4%BF%83%E6%88%90%E5%81%9C%E7%81%AB%E8%AB%87%E5%88%A4-%E9%A7%90%E7%BE%8E%E5%A4%A7%E4%BD%BF%E9%A4%A8%E7%A8%B1%E4%B8%AD%E6%96%B9%E8%87%B4%E5%8A%9B%E7%B5%90%E6%9D%9F%E8%A1%9D%E7%AA%81",
-    "timestamp": "2026-04-08T06:54:30.456Z",
     "strategy": ".content-card__main"
   }
 ];
