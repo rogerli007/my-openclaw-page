@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-08T13:44:37.827Z
+// Last updated: 2026-04-08T14:23:13.348Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "陸劇冰湖重生將揭楚喬傳十年之謎　李昀銳零下20度拍到凍傷極敬業",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260408/1118590123567484928396871.jpeg/hy5dHSrTFlemhnySYi_5ZSlb3ZZ0dIxU6TR7Yuk0e2I?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60338285/%E9%99%B8%E5%8A%87%E5%86%B0%E6%B9%96%E9%87%8D%E7%94%9F%E5%B0%87%E6%8F%AD%E6%A5%9A%E5%96%AC%E5%82%B3%E5%8D%81%E5%B9%B4%E4%B9%8B%E8%AC%8E-%E6%9D%8E%E6%98%80%E9%8A%B3%E9%9B%B6%E4%B8%8B20%E5%BA%A6%E6%8B%8D%E5%88%B0%E5%87%8D%E5%82%B7%E6%A5%B5%E6%95%AC%E6%A5%AD",
+    "timestamp": "2026-04-08T14:23:13.348Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "伊朗局勢丨停戰消息撐美股　道指飆逾1300點　西方石油逆市瀉一成",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250508/997188521871544320259807.jpeg/C1feAkT1dwR9GNfeoPcbi_tsjQoAeNo85QDdzeUA3c0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60338037/%E4%BC%8A%E6%9C%97%E6%88%B0%E7%88%AD-%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E7%B8%BD%E7%90%86%E7%B1%B2%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%AC%E9%99%90%E5%85%A9%E5%91%A8-%E4%BF%83%E4%BC%8A%E6%9C%97%E9%87%8D%E9%96%8B%E9%9C%8D%E7%88%BE%E6%9C%A8%E8%8C%B2",
     "timestamp": "2026-04-07T20:25:02.664Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普威脅要整個伊朗文明滅亡　教宗良十四世：針對民眾不可接受",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260405/1117481613815451648243951.jpeg/hEDIhf1lmXQ_Tg6VDgEIbRtOzHOFwr-T4-lh9uPpYfY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60338035/%E7%89%B9%E6%9C%97%E6%99%AE%E5%A8%81%E8%84%85%E8%A6%81%E6%95%B4%E5%80%8B%E4%BC%8A%E6%9C%97%E6%96%87%E6%98%8E%E6%BB%85%E4%BA%A1-%E6%95%99%E5%AE%97%E8%89%AF%E5%8D%81%E5%9B%9B%E4%B8%96-%E9%87%9D%E5%B0%8D%E6%B0%91%E7%9C%BE%E4%B8%8D%E5%8F%AF%E6%8E%A5%E5%8F%97",
-    "timestamp": "2026-04-07T20:00:27.796Z",
     "strategy": ".content-card__main"
   }
 ];
