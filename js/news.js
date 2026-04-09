@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-09T15:45:40.803Z
+// Last updated: 2026-04-09T16:18:18.565Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "張繼聰演唱會呂爵安驚喜合唱　勁舞15分鐘炸爆舞台",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260409/1119050058495430656724063.jpeg/S5qec7HnYzu4bNyafI93rsPVqW5WJIrKxU3o2MVN6Ng?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60338772/%E5%BC%B5%E7%B9%BC%E8%81%B0%E6%BC%94%E5%94%B1%E6%9C%83%E5%91%82%E7%88%B5%E5%AE%89%E9%A9%9A%E5%96%9C%E5%90%88%E5%94%B1-%E5%8B%81%E8%88%9E15%E5%88%86%E9%90%98%E7%82%B8%E7%88%86%E8%88%9E%E5%8F%B0",
+    "timestamp": "2026-04-09T16:18:18.565Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "給十九歲的我｜高先指獲學校授權國際發行　參展版本不包爭議部份",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260409/1118793318759665664284906.jpeg/YR_nmFWzIRZ8p5aNfspXtG1O5lmTwHsuEjYzRRI2M0U?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60338414/%E5%A4%A9%E6%B0%A3-%E4%BB%8A%E6%97%A5%E5%88%9D%E6%99%82%E5%B1%80%E9%83%A8%E8%83%BD%E8%A6%8B%E5%BA%A6%E8%BC%83%E4%BD%8E-%E6%97%A5%E9%96%93%E7%82%8E%E7%86%B1%E7%B4%8429%E5%BA%A6-%E6%98%8E%E6%97%A5%E6%9C%80%E9%AB%98%E9%81%9430%E5%BA%A6",
     "timestamp": "2026-04-08T22:29:08.857Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "歐聯8強首回合｜10人巴塞0：2不敵馬體會　利物浦作客吞PSG雙蛋",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260409/1118773646467534848298471.jpeg/f9XjAB33q7m2iveGuLwWGq3F6jtb7dHCkhhiipIYYoo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60338428/%E6%AD%90%E8%81%AF8%E5%BC%B7%E9%A6%96%E5%9B%9E%E5%90%88-10%E4%BA%BA%E5%B7%B4%E5%A1%9E0-2%E4%B8%8D%E6%95%B5%E9%A6%AC%E9%AB%94%E6%9C%83-%E5%88%A9%E7%89%A9%E6%B5%A6%E4%BD%9C%E5%AE%A2%E5%90%9Epsg%E9%9B%99%E8%9B%8B",
-    "timestamp": "2026-04-08T21:52:16.847Z",
     "strategy": ".content-card__main"
   }
 ];
