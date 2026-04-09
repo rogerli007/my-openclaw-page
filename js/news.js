@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-09T07:44:07.357Z
+// Last updated: 2026-04-09T08:17:44.080Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "台20歲變態男豆漿店當眾脫褲自慰　老闆娘不敢看　CCTV曝光警拉人",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260409/1118918225858400256016925.jpeg/a2uiKay3JVEKz6aNUonRY4jThTKY1tVJW9BqJVvQaiU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8F%B0%E7%81%A3%E6%96%B0%E8%81%9E/60338586/%E5%8F%B020%E6%AD%B2%E8%AE%8A%E6%85%8B%E7%94%B7%E8%B1%86%E6%BC%BF%E5%BA%97%E7%95%B6%E7%9C%BE%E8%84%AB%E8%A4%B2%E8%87%AA%E6%85%B0-%E8%80%81%E9%97%86%E5%A8%98%E4%B8%8D%E6%95%A2%E7%9C%8B-cctv%E6%9B%9D%E5%85%89%E8%AD%A6%E6%8B%89%E4%BA%BA",
+    "timestamp": "2026-04-09T08:17:44.080Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "小米推米家熨燙機2　掛燙平熨二合一設6種模式　獲母嬰級除菌認證",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260409/1118700245782499328623518.jpeg/Cxt5amoT6ntZtaauzgfZ_xoILgYBd9LQnkazvJ5Gs7w?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60338401/%E4%BC%8A%E5%AA%92-%E4%BC%8A%E6%9C%97%E5%B7%B2%E5%8F%AB%E5%81%9C%E9%9C%8D%E7%88%BE%E6%9C%A8%E8%8C%B2%E6%B2%B9%E8%BC%AA%E9%80%9A%E8%A1%8C-%E8%88%87%E7%BE%8E%E8%AB%87%E5%88%A4%E5%89%8D%E6%8F%90%E5%8C%85%E6%8B%AC%E9%BB%8E%E5%B7%B4%E5%AB%A9%E5%81%9C%E7%81%AB",
     "timestamp": "2026-04-08T16:17:01.703Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "張振朗疑拒被TVB管理社交平台遭減Job  女友楊偲泳：咁敏感嘅話題",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260408/1118689972782632960376584.jpeg/r44e7dT2V6ZR5yt7rRUcD-E9rrUj6z6BW3GrX1txq18?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60338396/%E5%BC%B5%E6%8C%AF%E6%9C%97%E7%96%91%E6%8B%92%E8%A2%ABtvb%E7%AE%A1%E7%90%86%E7%A4%BE%E4%BA%A4%E5%B9%B3%E5%8F%B0%E9%81%AD%E6%B8%9Bjob-%E5%A5%B3%E5%8F%8B%E6%A5%8A%E5%81%B2%E6%B3%B3-%E5%92%81%E6%95%8F%E6%84%9F%E5%98%85%E8%A9%B1%E9%A1%8C",
-    "timestamp": "2026-04-08T15:42:41.516Z",
     "strategy": ".content-card__main"
   }
 ];
