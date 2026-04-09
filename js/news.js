@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-09T05:22:13.584Z
+// Last updated: 2026-04-09T06:09:28.483Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "輝瑞寶潔齊聚　美中貿委會最高規模訪粵　廣東已成外企競爭大平台",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260409/1118852554189443072654927.jpeg/T4ip8gU21yFqh15mDGLPc86bD926fToQVjUCSlY1Ako?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60338454/%E8%BC%9D%E7%91%9E%E5%AF%B6%E6%BD%94%E9%BD%8A%E8%81%9A-%E7%BE%8E%E4%B8%AD%E8%B2%BF%E5%A7%94%E6%9C%83%E6%9C%80%E9%AB%98%E8%A6%8F%E6%A8%A1%E8%A8%AA%E7%B2%B5-%E5%BB%A3%E6%9D%B1%E5%B7%B2%E6%88%90%E5%A4%96%E4%BC%81%E7%AB%B6%E7%88%AD%E5%A4%A7%E5%B9%B3%E5%8F%B0",
+    "timestamp": "2026-04-09T06:09:28.483Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "利物浦應如何處置史諾？ 功勳教頭戰術超錯幸運兩球負PSG︱01球評",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260408/1118590123567484928396871.jpeg/hy5dHSrTFlemhnySYi_5ZSlb3ZZ0dIxU6TR7Yuk0e2I?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60338285/%E9%99%B8%E5%8A%87%E5%86%B0%E6%B9%96%E9%87%8D%E7%94%9F%E5%B0%87%E6%8F%AD%E6%A5%9A%E5%96%AC%E5%82%B3%E5%8D%81%E5%B9%B4%E4%B9%8B%E8%AC%8E-%E6%9D%8E%E6%98%80%E9%8A%B3%E9%9B%B6%E4%B8%8B20%E5%BA%A6%E6%8B%8D%E5%88%B0%E5%87%8D%E5%82%B7%E6%A5%B5%E6%95%AC%E6%A5%AD",
     "timestamp": "2026-04-08T14:23:13.348Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "伊朗局勢丨停戰消息撐美股　道指飆逾1300點　西方石油逆市瀉一成",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20251017/1055875744955109376304867.jpeg/xDpXLLEFEIPYDFv5lDYAcicnK4RDcbLSEprTYBKa02A?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60338346/%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8B%A2-%E5%81%9C%E6%88%B0%E6%B6%88%E6%81%AF%E6%92%90%E7%BE%8E%E8%82%A1-%E9%81%93%E6%8C%87%E9%A3%86%E9%80%BE1300%E9%BB%9E-%E8%A5%BF%E6%96%B9%E7%9F%B3%E6%B2%B9%E9%80%86%E5%B8%82%E7%80%89%E4%B8%80%E6%88%90",
-    "timestamp": "2026-04-08T13:44:37.827Z",
     "strategy": ".content-card__main"
   }
 ];
