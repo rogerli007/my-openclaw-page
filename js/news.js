@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-09T22:52:27.767Z
+// Last updated: 2026-04-09T23:51:49.487Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "張繼聰演唱會壓軸與農夫同台　未敢透露下一步︰組合入面我係三弟",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260410/1119096694848360448541907.jpeg/4WDYBDgLFFDFxw-ATgdUEhsGDjLTVkRrtpfztLaX87Q?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60338790/%E5%BC%B5%E7%B9%BC%E8%81%B0%E6%BC%94%E5%94%B1%E6%9C%83%E5%A3%93%E8%BB%B8%E8%88%87%E8%BE%B2%E5%A4%AB%E5%90%8C%E5%8F%B0-%E6%9C%AA%E6%95%A2%E9%80%8F%E9%9C%B2%E4%B8%8B%E4%B8%80%E6%AD%A5-%E7%B5%84%E5%90%88%E5%85%A5%E9%9D%A2%E6%88%91%E4%BF%82%E4%B8%89%E5%BC%9F",
+    "timestamp": "2026-04-09T23:51:49.487Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "謝婷婷再奪網球大師賽雙打冠軍　曾與球后李娜對打獲激讚",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260409/1118852554189443072654927.jpeg/T4ip8gU21yFqh15mDGLPc86bD926fToQVjUCSlY1Ako?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60338454/%E8%BC%9D%E7%91%9E%E5%AF%B6%E6%BD%94%E9%BD%8A%E8%81%9A-%E7%BE%8E%E4%B8%AD%E8%B2%BF%E5%A7%94%E6%9C%83%E6%9C%80%E9%AB%98%E8%A6%8F%E6%A8%A1%E8%A8%AA%E7%B2%B5-%E5%BB%A3%E6%9D%B1%E5%B7%B2%E6%88%90%E5%A4%96%E4%BC%81%E7%AB%B6%E7%88%AD%E5%A4%A7%E5%B9%B3%E5%8F%B0",
     "timestamp": "2026-04-09T06:09:28.483Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "利物浦應如何處置史諾？ 功勳教頭戰術超錯幸運兩球負PSG︱01球評",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260409/1118871219366531072706853.jpeg/XOFcbc5VwNTLrEffCMSFbL4LS85nLMKzaUETJmlBEyY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60338505/%E5%88%A9%E7%89%A9%E6%B5%A6%E6%87%89%E5%A6%82%E4%BD%95%E8%99%95%E7%BD%AE%E5%8F%B2%E8%AB%BE-%E5%8A%9F%E5%8B%B3%E6%95%99%E9%A0%AD%E6%88%B0%E8%A1%93%E8%B6%85%E9%8C%AF%E5%B9%B8%E9%81%8B%E5%85%A9%E7%90%83%E8%B2%A0psg-01%E7%90%83%E8%A9%95",
-    "timestamp": "2026-04-09T05:22:13.584Z",
     "strategy": ".content-card__main"
   }
 ];
