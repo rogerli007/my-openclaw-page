@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-09T09:45:02.375Z
+// Last updated: 2026-04-09T10:16:07.749Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "DSE｜中文教師稱寫作卷難度高、選材受限　「談說話」最能發揮",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260409/1118910474583412736580146.jpeg/cQUIcSFpmLCsx9S_w4YdxfHFh9HsmfEqruxAia7sQIk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60338660/dse-%E4%B8%AD%E6%96%87%E6%95%99%E5%B8%AB%E7%A8%B1%E5%AF%AB%E4%BD%9C%E5%8D%B7%E9%9B%A3%E5%BA%A6%E9%AB%98-%E9%81%B8%E6%9D%90%E5%8F%97%E9%99%90-%E8%AB%87%E8%AA%AA%E8%A9%B1-%E6%9C%80%E8%83%BD%E7%99%BC%E6%8F%AE",
+    "timestamp": "2026-04-09T10:16:07.749Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "中央出手反內捲　互聯網平台價格行為規則明起實施",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260409/1118711732353634304046957.jpeg/-UOKZgj4be4LY-LBEVYr7GLnXT__F2OPyBhZUu0YWVI",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60338415/%E6%96%B0%E7%94%B0%E5%A5%AA%E5%91%BD%E8%BB%8A%E7%A6%8D-%E8%BB%8Acam-%E7%8B%82%E6%92%BC%E9%87%805%E8%BB%8A%E4%B8%B2%E7%87%92-%E8%A2%AB%E6%92%9E%E8%B2%A8%E8%BB%8A%E5%8F%B8%E6%A9%9F-%E5%B0%8F%E5%B7%B4%E4%BC%BC%E7%84%A1%E6%94%B6%E6%8E%A3",
     "timestamp": "2026-04-08T18:18:12.118Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "25+英皇群星演唱會│王雙駿辭任音樂總監：一直不能與歌手直接對話",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260409/1118717878598635520956407.jpeg/UBj-ok-2hjR0Yc6yzlszn03LO7tPlVJv-sjY6frI2Ok?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60338412/25-%E8%8B%B1%E7%9A%87%E7%BE%A4%E6%98%9F%E6%BC%94%E5%94%B1%E6%9C%83-%E7%8E%8B%E9%9B%99%E9%A7%BF%E8%BE%AD%E4%BB%BB%E9%9F%B3%E6%A8%82%E7%B8%BD%E7%9B%A3-%E4%B8%80%E7%9B%B4%E4%B8%8D%E8%83%BD%E8%88%87%E6%AD%8C%E6%89%8B%E7%9B%B4%E6%8E%A5%E5%B0%8D%E8%A9%B1",
-    "timestamp": "2026-04-08T17:17:24.950Z",
     "strategy": ".content-card__main"
   }
 ];
