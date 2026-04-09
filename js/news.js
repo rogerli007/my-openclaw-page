@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-09T12:08:56.585Z
+// Last updated: 2026-04-09T12:46:11.690Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "黎巴嫩累計1739死　歐盟倡納入停火範圍　伊朗：不拋棄黎巴嫩人民",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260409/1119011867532988416475629.jpeg/WB_Hp_w1PFv5H1viyLtJRW1-0P7DSY3iy82aisvNmoo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60338745/%E9%BB%8E%E5%B7%B4%E5%AB%A9%E7%B4%AF%E8%A8%881739%E6%AD%BB-%E6%AD%90%E7%9B%9F%E5%80%A1%E7%B4%8D%E5%85%A5%E5%81%9C%E7%81%AB%E7%AF%84%E5%9C%8D-%E4%BC%8A%E6%9C%97-%E4%B8%8D%E6%8B%8B%E6%A3%84%E9%BB%8E%E5%B7%B4%E5%AB%A9%E4%BA%BA%E6%B0%91",
+    "timestamp": "2026-04-09T12:46:11.690Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "華女坎培拉遇種族歧視　遭狂毆十拳滿臉鮮血　施襲者更揮長刀威脅",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260409/1118773646467534848298471.jpeg/f9XjAB33q7m2iveGuLwWGq3F6jtb7dHCkhhiipIYYoo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60338428/%E6%AD%90%E8%81%AF8%E5%BC%B7%E9%A6%96%E5%9B%9E%E5%90%88-10%E4%BA%BA%E5%B7%B4%E5%A1%9E0-2%E4%B8%8D%E6%95%B5%E9%A6%AC%E9%AB%94%E6%9C%83-%E5%88%A9%E7%89%A9%E6%B5%A6%E4%BD%9C%E5%AE%A2%E5%90%9Epsg%E9%9B%99%E8%9B%8B",
     "timestamp": "2026-04-08T21:25:55.794Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美國白宮：特朗普將與北約秘書長討論美退出北約",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260409/1118739832265248768702394.jpeg/iRa2dA81k1iJaodhrbKmW6f371aXVP2Xva4hqL2uIag?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60338426/%E7%BE%8E%E5%9C%8B%E7%99%BD%E5%AE%AE-%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%87%E8%88%87%E5%8C%97%E7%B4%84%E7%A7%98%E6%9B%B8%E9%95%B7%E8%A8%8E%E8%AB%96%E7%BE%8E%E9%80%80%E5%87%BA%E5%8C%97%E7%B4%84",
-    "timestamp": "2026-04-08T20:33:20.670Z",
     "strategy": ".content-card__main"
   }
 ];
