@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-09T06:54:30.875Z
+// Last updated: 2026-04-09T07:44:07.357Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "小米推米家熨燙機2　掛燙平熨二合一設6種模式　獲母嬰級除菌認證",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260408/1118558202007392256794381.jpeg/ODi1lVCZrYbxA8kYN5Va0KRcZHs_W0FpDG7jMgxu4zI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60338203/%E5%B0%8F%E7%B1%B3%E6%8E%A8%E7%B1%B3%E5%AE%B6%E7%86%A8%E7%87%99%E6%A9%9F2-%E6%8E%9B%E7%87%99%E5%B9%B3%E7%86%A8%E4%BA%8C%E5%90%88%E4%B8%80%E8%A8%AD6%E7%A8%AE%E6%A8%A1%E5%BC%8F-%E7%8D%B2%E6%AF%8D%E5%AC%B0%E7%B4%9A%E9%99%A4%E8%8F%8C%E8%AA%8D%E8%AD%89",
+    "timestamp": "2026-04-09T07:44:07.357Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "港島停電｜數間DSE試場照明短暫閃爍或轉暗　考評局：沒影響考試",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260408/1118689972782632960376584.jpeg/r44e7dT2V6ZR5yt7rRUcD-E9rrUj6z6BW3GrX1txq18?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60338396/%E5%BC%B5%E6%8C%AF%E6%9C%97%E7%96%91%E6%8B%92%E8%A2%ABtvb%E7%AE%A1%E7%90%86%E7%A4%BE%E4%BA%A4%E5%B9%B3%E5%8F%B0%E9%81%AD%E6%B8%9Bjob-%E5%A5%B3%E5%8F%8B%E6%A5%8A%E5%81%B2%E6%B3%B3-%E5%92%81%E6%95%8F%E6%84%9F%E5%98%85%E8%A9%B1%E9%A1%8C",
     "timestamp": "2026-04-08T15:42:41.516Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "監製蕭鍵鏗離世享年73歲　《我和春天有個約會》為代表作",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260408/1118680835814330368054936.jpeg/l-xNoNXcF8Tulm5tKO69v801IOANIQWEGGqFvhhqhb4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60338397/%E7%9B%A3%E8%A3%BD%E8%95%AD%E9%8D%B5%E9%8F%97%E9%9B%A2%E4%B8%96%E4%BA%AB%E5%B9%B473%E6%AD%B2-%E6%88%91%E5%92%8C%E6%98%A5%E5%A4%A9%E6%9C%89%E5%80%8B%E7%B4%84%E6%9C%83-%E7%82%BA%E4%BB%A3%E8%A1%A8%E4%BD%9C",
-    "timestamp": "2026-04-08T15:01:22.380Z",
     "strategy": ".content-card__main"
   }
 ];
