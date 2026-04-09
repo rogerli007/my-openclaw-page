@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-09T10:47:42.364Z
+// Last updated: 2026-04-09T11:15:49.511Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "珍惜生命｜鰂魚涌南豐新邨男子墮樓　昏迷送院不治",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/2435872/org/e53c8860d2ac23f513a67b7f49aabf88.JPG/ZRWMNa8eFOj09Lz5-tnDwwHrxdCVEvh6s2xjorNsY6I?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60338705/%E7%8F%8D%E6%83%9C%E7%94%9F%E5%91%BD-%E9%B0%82%E9%AD%9A%E6%B6%8C%E5%8D%97%E8%B1%90%E6%96%B0%E9%82%A8%E7%94%B7%E5%AD%90%E5%A2%AE%E6%A8%93-%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2%E4%B8%8D%E6%B2%BB",
+    "timestamp": "2026-04-09T11:15:49.511Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "MONTBLANC將千年冰川與古木凝於手中 推出Iced Sea 0 Oxygen腕錶",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260409/1118739832265248768702394.jpeg/iRa2dA81k1iJaodhrbKmW6f371aXVP2Xva4hqL2uIag?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60338426/%E7%BE%8E%E5%9C%8B%E7%99%BD%E5%AE%AE-%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%87%E8%88%87%E5%8C%97%E7%B4%84%E7%A7%98%E6%9B%B8%E9%95%B7%E8%A8%8E%E8%AB%96%E7%BE%8E%E9%80%80%E5%87%BA%E5%8C%97%E7%B4%84",
     "timestamp": "2026-04-08T19:38:16.142Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "伊朗外長：若美國有誠意　徹底結束戰爭「完全可能」",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260217/1100573447966167040032476.jpeg/vaqHGidwz-3EDQ9wsVF0SzoP4Vav45cT2MGK1NjBitQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60338422/%E4%BC%8A%E6%9C%97%E5%A4%96%E9%95%B7-%E8%8B%A5%E7%BE%8E%E5%9C%8B%E6%9C%89%E8%AA%A0%E6%84%8F-%E5%BE%B9%E5%BA%95%E7%B5%90%E6%9D%9F%E6%88%B0%E7%88%AD-%E5%AE%8C%E5%85%A8%E5%8F%AF%E8%83%BD",
-    "timestamp": "2026-04-08T18:50:58.858Z",
     "strategy": ".content-card__main"
   }
 ];
