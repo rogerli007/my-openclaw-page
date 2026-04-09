@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-09T02:05:13.911Z
+// Last updated: 2026-04-09T05:22:13.584Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "利物浦應如何處置史諾？ 功勳教頭戰術超錯幸運兩球負PSG︱01球評",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260409/1118871219366531072706853.jpeg/XOFcbc5VwNTLrEffCMSFbL4LS85nLMKzaUETJmlBEyY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60338505/%E5%88%A9%E7%89%A9%E6%B5%A6%E6%87%89%E5%A6%82%E4%BD%95%E8%99%95%E7%BD%AE%E5%8F%B2%E8%AB%BE-%E5%8A%9F%E5%8B%B3%E6%95%99%E9%A0%AD%E6%88%B0%E8%A1%93%E8%B6%85%E9%8C%AF%E5%B9%B8%E9%81%8B%E5%85%A9%E7%90%83%E8%B2%A0psg-01%E7%90%83%E8%A9%95",
+    "timestamp": "2026-04-09T05:22:13.584Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "伊朗提出10項停戰條款　特朗普政府官員：非美方同意版本",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20251017/1055875744955109376304867.jpeg/xDpXLLEFEIPYDFv5lDYAcicnK4RDcbLSEprTYBKa02A?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60338346/%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8B%A2-%E5%81%9C%E6%88%B0%E6%B6%88%E6%81%AF%E6%92%90%E7%BE%8E%E8%82%A1-%E9%81%93%E6%8C%87%E9%A3%86%E9%80%BE1300%E9%BB%9E-%E8%A5%BF%E6%96%B9%E7%9F%B3%E6%B2%B9%E9%80%86%E5%B8%82%E7%80%89%E4%B8%80%E6%88%90",
     "timestamp": "2026-04-08T13:44:37.827Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "宏福苑聽證會｜消防措施失效誰責任？　一文看清兩消防承辦商口供",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260408/1118652166588862464986270.jpeg/z55BUkSNoQyZzlZJzoz9TA0uR8NI9geE41cvT-NXL08?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60338383/%E5%AE%8F%E7%A6%8F%E8%8B%91%E8%81%BD%E8%AD%89%E6%9C%83-%E6%B6%88%E9%98%B2%E6%8E%AA%E6%96%BD%E5%A4%B1%E6%95%88%E8%AA%B0%E8%B2%AC%E4%BB%BB-%E4%B8%80%E6%96%87%E7%9C%8B%E6%B8%85%E5%85%A9%E6%B6%88%E9%98%B2%E6%89%BF%E8%BE%A6%E5%95%86%E5%8F%A3%E4%BE%9B",
-    "timestamp": "2026-04-08T13:00:38.272Z",
     "strategy": ".content-card__main"
   }
 ];
