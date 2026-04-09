@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-09T08:17:44.080Z
+// Last updated: 2026-04-09T08:53:46.632Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "尖沙咀Pokémon卡牌專門店失竊　黑衣賊盜兩卡總值$20萬後逃去",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260409/1118943571643207680283907.jpeg/VsoczgdK6fPzzRZGGJkE7iTqZZNm7TzgEpAumhKQLpo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60338628/%E5%B0%96%E6%B2%99%E5%92%80pok%C3%A9mon%E5%8D%A1%E7%89%8C%E5%B0%88%E9%96%80%E5%BA%97%E5%A4%B1%E7%AB%8A-%E9%BB%91%E8%A1%A3%E8%B3%8A%E7%9B%9C%E5%85%A9%E5%8D%A1%E7%B8%BD%E5%80%BC-20%E8%90%AC%E5%BE%8C%E9%80%83%E5%8E%BB",
+    "timestamp": "2026-04-09T08:53:46.632Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "台20歲變態男豆漿店當眾脫褲自慰　老闆娘不敢看　CCTV曝光警拉人",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20251010/1053271070968123392420913.jpeg/RvrNQ4O3Nww_iiIcXsxFc0LvRQtV48m7Q25y8UNucvE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60338407/%E7%BE%BD%E6%AF%9B%E7%90%83%E4%BA%9E%E9%8C%A6%E8%B3%BD-%E6%A5%8A%E9%9B%85%E5%A9%B7%E6%A5%8A%E9%9C%88%E9%9C%96%E9%97%96%E6%AC%A1%E5%9C%88-%E6%BF%80%E6%88%B0%E4%B8%89%E5%B1%80%E9%80%86%E8%BD%89%E5%BF%97%E7%94%B0%E5%8D%83%E9%99%BD%E7%B5%84%E5%90%88",
     "timestamp": "2026-04-08T16:47:19.719Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "伊媒：伊朗已叫停霍爾木茲油輪通行　與美談判前提包括黎巴嫩停火",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260409/1118700245782499328623518.jpeg/Cxt5amoT6ntZtaauzgfZ_xoILgYBd9LQnkazvJ5Gs7w?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60338401/%E4%BC%8A%E5%AA%92-%E4%BC%8A%E6%9C%97%E5%B7%B2%E5%8F%AB%E5%81%9C%E9%9C%8D%E7%88%BE%E6%9C%A8%E8%8C%B2%E6%B2%B9%E8%BC%AA%E9%80%9A%E8%A1%8C-%E8%88%87%E7%BE%8E%E8%AB%87%E5%88%A4%E5%89%8D%E6%8F%90%E5%8C%85%E6%8B%AC%E9%BB%8E%E5%B7%B4%E5%AB%A9%E5%81%9C%E7%81%AB",
-    "timestamp": "2026-04-08T16:17:01.703Z",
     "strategy": ".content-card__main"
   }
 ];
