@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-09T21:37:33.719Z
+// Last updated: 2026-04-09T22:52:27.767Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "謝婷婷再奪網球大師賽雙打冠軍　曾與球后李娜對打獲激讚",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260409/1118920128780570624836951.jpeg/DVS20fKNXqS4rMecWv5dVo3FjD7FH7jCqna9w6p2vcM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60338570/%E8%AC%9D%E5%A9%B7%E5%A9%B7%E5%86%8D%E5%A5%AA%E7%B6%B2%E7%90%83%E5%A4%A7%E5%B8%AB%E8%B3%BD%E9%9B%99%E6%89%93%E5%86%A0%E8%BB%8D-%E6%9B%BE%E8%88%87%E7%90%83%E5%90%8E%E6%9D%8E%E5%A8%9C%E5%B0%8D%E6%89%93%E7%8D%B2%E6%BF%80%E8%AE%9A",
+    "timestamp": "2026-04-09T22:52:27.767Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "歐協聯八強首回合｜水晶宮3：0勝費倫天拿",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260409/1118871219366531072706853.jpeg/XOFcbc5VwNTLrEffCMSFbL4LS85nLMKzaUETJmlBEyY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60338505/%E5%88%A9%E7%89%A9%E6%B5%A6%E6%87%89%E5%A6%82%E4%BD%95%E8%99%95%E7%BD%AE%E5%8F%B2%E8%AB%BE-%E5%8A%9F%E5%8B%B3%E6%95%99%E9%A0%AD%E6%88%B0%E8%A1%93%E8%B6%85%E9%8C%AF%E5%B9%B8%E9%81%8B%E5%85%A9%E7%90%83%E8%B2%A0psg-01%E7%90%83%E8%A9%95",
     "timestamp": "2026-04-09T05:22:13.584Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "伊朗提出10項停戰條款　特朗普政府官員：非美方同意版本",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260408/1118477519012499456671593.jpeg/6BbmYNXAkNCqoPEYvieecQyyUNwofxQtVPOgxlTzoMY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60338451/%E4%BC%8A%E6%9C%97%E6%8F%90%E5%87%BA10%E9%A0%85%E5%81%9C%E6%88%B0%E6%A2%9D%E6%AC%BE-%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%E5%AE%98%E5%93%A1-%E9%9D%9E%E7%BE%8E%E6%96%B9%E5%90%8C%E6%84%8F%E7%89%88%E6%9C%AC",
-    "timestamp": "2026-04-09T02:05:13.911Z",
     "strategy": ".content-card__main"
   }
 ];
