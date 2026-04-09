@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-09T06:09:28.483Z
+// Last updated: 2026-04-09T06:54:30.875Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "港島停電｜數間DSE試場照明短暫閃爍或轉暗　考評局：沒影響考試",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260409/1118908467017551872932650.jpeg/VYpreFQkiIVdTTWngBmHRgvLy7-V2Phf4Qy_quEMv6o?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60338592/%E6%B8%AF%E5%B3%B6%E5%81%9C%E9%9B%BB-%E6%95%B8%E9%96%93dse%E8%A9%A6%E5%A0%B4%E7%85%A7%E6%98%8E%E7%9F%AD%E6%9A%AB%E9%96%83%E7%88%8D%E6%88%96%E8%BD%89%E6%9A%97-%E8%80%83%E8%A9%95%E5%B1%80-%E6%B2%92%E5%BD%B1%E9%9F%BF%E8%80%83%E8%A9%A6",
+    "timestamp": "2026-04-09T06:54:30.875Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "輝瑞寶潔齊聚　美中貿委會最高規模訪粵　廣東已成外企競爭大平台",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260408/1118680835814330368054936.jpeg/l-xNoNXcF8Tulm5tKO69v801IOANIQWEGGqFvhhqhb4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60338397/%E7%9B%A3%E8%A3%BD%E8%95%AD%E9%8D%B5%E9%8F%97%E9%9B%A2%E4%B8%96%E4%BA%AB%E5%B9%B473%E6%AD%B2-%E6%88%91%E5%92%8C%E6%98%A5%E5%A4%A9%E6%9C%89%E5%80%8B%E7%B4%84%E6%9C%83-%E7%82%BA%E4%BB%A3%E8%A1%A8%E4%BD%9C",
     "timestamp": "2026-04-08T15:01:22.380Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "陸劇冰湖重生將揭楚喬傳十年之謎　李昀銳零下20度拍到凍傷極敬業",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260408/1118590123567484928396871.jpeg/hy5dHSrTFlemhnySYi_5ZSlb3ZZ0dIxU6TR7Yuk0e2I?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60338285/%E9%99%B8%E5%8A%87%E5%86%B0%E6%B9%96%E9%87%8D%E7%94%9F%E5%B0%87%E6%8F%AD%E6%A5%9A%E5%96%AC%E5%82%B3%E5%8D%81%E5%B9%B4%E4%B9%8B%E8%AC%8E-%E6%9D%8E%E6%98%80%E9%8A%B3%E9%9B%B6%E4%B8%8B20%E5%BA%A6%E6%8B%8D%E5%88%B0%E5%87%8D%E5%82%B7%E6%A5%B5%E6%95%AC%E6%A5%AD",
-    "timestamp": "2026-04-08T14:23:13.348Z",
     "strategy": ".content-card__main"
   }
 ];
