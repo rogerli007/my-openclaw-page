@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-09T16:18:18.565Z
+// Last updated: 2026-04-09T18:00:29.478Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "夜王｜導演版Renci阿Dee蒜蓉白菜之吻解封　芯駖：開場以為錯戲院",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260410/1119088082864312320173240.jpeg/r6q0uCk8WijzyzcvcEew3Tu9F9yH6gXdAjhVigI4VYo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60338787/%E5%A4%9C%E7%8E%8B-%E5%B0%8E%E6%BC%94%E7%89%88renci%E9%98%BFdee%E8%92%9C%E8%93%89%E7%99%BD%E8%8F%9C%E4%B9%8B%E5%90%BB%E8%A7%A3%E5%B0%81-%E8%8A%AF%E9%A7%96-%E9%96%8B%E5%A0%B4%E4%BB%A5%E7%82%BA%E9%8C%AF%E6%88%B2%E9%99%A2",
+    "timestamp": "2026-04-09T18:00:29.478Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "張繼聰演唱會呂爵安驚喜合唱　勁舞15分鐘炸爆舞台",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260408/1118664743133908992164235.jpeg/hJ2oguRV9dyonX4Sg5nJ9nxY15YQlzFFOWd2fDlndnw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60337989/%E6%9E%97%E7%A9%8E%E5%BD%A4%E7%A5%9E%E9%9A%B1%E5%8D%8A%E5%B9%B4%E9%9C%B2%E9%9D%A2%E8%88%87%E8%AD%9A%E5%98%89%E5%84%80%E8%81%9A%E6%9C%83-%E6%8D%B2%E7%94%B7%E5%8F%8Bjpex%E6%A1%88%E5%82%B3%E7%8B%82%E6%8E%A8job%E9%81%BF%E9%A2%A8%E9%A0%AD",
     "timestamp": "2026-04-08T22:52:08.586Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "天氣｜今日初時局部能見度較低　日間炎熱約29度　明日最高達30度",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260409/1118793318759665664284906.jpeg/YR_nmFWzIRZ8p5aNfspXtG1O5lmTwHsuEjYzRRI2M0U?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60338414/%E5%A4%A9%E6%B0%A3-%E4%BB%8A%E6%97%A5%E5%88%9D%E6%99%82%E5%B1%80%E9%83%A8%E8%83%BD%E8%A6%8B%E5%BA%A6%E8%BC%83%E4%BD%8E-%E6%97%A5%E9%96%93%E7%82%8E%E7%86%B1%E7%B4%8429%E5%BA%A6-%E6%98%8E%E6%97%A5%E6%9C%80%E9%AB%98%E9%81%9430%E5%BA%A6",
-    "timestamp": "2026-04-08T22:29:08.857Z",
     "strategy": ".content-card__main"
   }
 ];
