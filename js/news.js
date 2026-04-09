@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-09T08:53:46.632Z
+// Last updated: 2026-04-09T09:45:02.375Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "中央出手反內捲　互聯網平台價格行為規則明起實施",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260409/1118964526176276480510496.jpeg/ijAj-7-dkCpGgRwJPn1oKrZYeZdeaezJU3QtH1N0LR8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60338686/%E4%B8%AD%E5%A4%AE%E5%87%BA%E6%89%8B%E5%8F%8D%E5%85%A7%E6%8D%B2-%E4%BA%92%E8%81%AF%E7%B6%B2%E5%B9%B3%E5%8F%B0%E5%83%B9%E6%A0%BC%E8%A1%8C%E7%82%BA%E8%A6%8F%E5%89%87%E6%98%8E%E8%B5%B7%E5%AF%A6%E6%96%BD",
+    "timestamp": "2026-04-09T09:45:02.375Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "尖沙咀Pokémon卡牌專門店失竊　黑衣賊盜兩卡總值$20萬後逃去",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260409/1118717878598635520956407.jpeg/UBj-ok-2hjR0Yc6yzlszn03LO7tPlVJv-sjY6frI2Ok?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60338412/25-%E8%8B%B1%E7%9A%87%E7%BE%A4%E6%98%9F%E6%BC%94%E5%94%B1%E6%9C%83-%E7%8E%8B%E9%9B%99%E9%A7%BF%E8%BE%AD%E4%BB%BB%E9%9F%B3%E6%A8%82%E7%B8%BD%E7%9B%A3-%E4%B8%80%E7%9B%B4%E4%B8%8D%E8%83%BD%E8%88%87%E6%AD%8C%E6%89%8B%E7%9B%B4%E6%8E%A5%E5%B0%8D%E8%A9%B1",
     "timestamp": "2026-04-08T17:17:24.950Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "羽毛球亞錦賽｜楊雅婷楊霈霖闖次圈　激戰三局逆轉志田千陽組合",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20251010/1053271070968123392420913.jpeg/RvrNQ4O3Nww_iiIcXsxFc0LvRQtV48m7Q25y8UNucvE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60338407/%E7%BE%BD%E6%AF%9B%E7%90%83%E4%BA%9E%E9%8C%A6%E8%B3%BD-%E6%A5%8A%E9%9B%85%E5%A9%B7%E6%A5%8A%E9%9C%88%E9%9C%96%E9%97%96%E6%AC%A1%E5%9C%88-%E6%BF%80%E6%88%B0%E4%B8%89%E5%B1%80%E9%80%86%E8%BD%89%E5%BF%97%E7%94%B0%E5%8D%83%E9%99%BD%E7%B5%84%E5%90%88",
-    "timestamp": "2026-04-08T16:47:19.719Z",
     "strategy": ".content-card__main"
   }
 ];
