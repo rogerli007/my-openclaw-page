@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-09T21:07:56.576Z
+// Last updated: 2026-04-09T21:37:33.719Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "歐協聯八強首回合｜水晶宮3：0勝費倫天拿",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260410/1119142472459489280543109.jpeg/jOn_7tqdatIPfdvzukF2k7_3A81QxwZrKz9mdys_Znc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60338802/%E6%AD%90%E5%8D%94%E8%81%AF%E5%85%AB%E5%BC%B7%E9%A6%96%E5%9B%9E%E5%90%88-%E6%B0%B4%E6%99%B6%E5%AE%AE3-0%E5%8B%9D%E8%B2%BB%E5%80%AB%E5%A4%A9%E6%8B%BF",
+    "timestamp": "2026-04-09T21:37:33.719Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "普京宣布東正教復活節暫時停火　籲烏克蘭仿照做法",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260408/1118477519012499456671593.jpeg/6BbmYNXAkNCqoPEYvieecQyyUNwofxQtVPOgxlTzoMY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60338451/%E4%BC%8A%E6%9C%97%E6%8F%90%E5%87%BA10%E9%A0%85%E5%81%9C%E6%88%B0%E6%A2%9D%E6%AC%BE-%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%E5%AE%98%E5%93%A1-%E9%9D%9E%E7%BE%8E%E6%96%B9%E5%90%8C%E6%84%8F%E7%89%88%E6%9C%AC",
     "timestamp": "2026-04-09T02:05:13.911Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美聯儲會議紀要︰有官員擔憂伊朗戰爭或會減緩通脹進程",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260324/1113126671843594240861253.jpeg/TKzf9DaPwgSL1GfEfIKgJ5BVf2gGIsLqJEqKWyRKils?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60338441/%E7%BE%8E%E8%81%AF%E5%84%B2%E6%9C%83%E8%AD%B0%E7%B4%80%E8%A6%81-%E6%9C%89%E5%AE%98%E5%93%A1%E6%93%94%E6%86%82%E4%BC%8A%E6%9C%97%E6%88%B0%E7%88%AD%E6%88%96%E6%9C%83%E6%B8%9B%E7%B7%A9%E9%80%9A%E8%84%B9%E9%80%B2%E7%A8%8B",
-    "timestamp": "2026-04-09T01:17:49.708Z",
     "strategy": ".content-card__main"
   }
 ];
