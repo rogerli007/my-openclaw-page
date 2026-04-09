@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-09T10:16:07.749Z
+// Last updated: 2026-04-09T10:47:42.364Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "MONTBLANC將千年冰川與古木凝於手中 推出Iced Sea 0 Oxygen腕錶",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260409/1118979532892672000865203.jpeg/YQEYDSRhGO6YbiPDulrfwgipAbPMjkXwdD0Fl3Q9BZc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E4%B8%80%E7%89%A9/60338477/montblanc%E5%B0%87%E5%8D%83%E5%B9%B4%E5%86%B0%E5%B7%9D%E8%88%87%E5%8F%A4%E6%9C%A8%E5%87%9D%E6%96%BC%E6%89%8B%E4%B8%AD-%E6%8E%A8%E5%87%BAiced-sea-0-oxygen%E8%85%95%E9%8C%B6",
+    "timestamp": "2026-04-09T10:47:42.364Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "DSE｜中文教師稱寫作卷難度高、選材受限　「談說話」最能發揮",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260217/1100573447966167040032476.jpeg/vaqHGidwz-3EDQ9wsVF0SzoP4Vav45cT2MGK1NjBitQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60338422/%E4%BC%8A%E6%9C%97%E5%A4%96%E9%95%B7-%E8%8B%A5%E7%BE%8E%E5%9C%8B%E6%9C%89%E8%AA%A0%E6%84%8F-%E5%BE%B9%E5%BA%95%E7%B5%90%E6%9D%9F%E6%88%B0%E7%88%AD-%E5%AE%8C%E5%85%A8%E5%8F%AF%E8%83%BD",
     "timestamp": "2026-04-08T18:50:58.858Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "新田奪命車禍‧車CAM│狂撼釀5車串燒　被撞貨車司機：小巴似無收掣",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260409/1118711732353634304046957.jpeg/-UOKZgj4be4LY-LBEVYr7GLnXT__F2OPyBhZUu0YWVI",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60338415/%E6%96%B0%E7%94%B0%E5%A5%AA%E5%91%BD%E8%BB%8A%E7%A6%8D-%E8%BB%8Acam-%E7%8B%82%E6%92%BC%E9%87%805%E8%BB%8A%E4%B8%B2%E7%87%92-%E8%A2%AB%E6%92%9E%E8%B2%A8%E8%BB%8A%E5%8F%B8%E6%A9%9F-%E5%B0%8F%E5%B7%B4%E4%BC%BC%E7%84%A1%E6%94%B6%E6%8E%A3",
-    "timestamp": "2026-04-08T18:18:12.118Z",
     "strategy": ".content-card__main"
   }
 ];
