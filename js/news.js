@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-09T01:17:49.708Z
+// Last updated: 2026-04-09T02:05:13.911Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "伊朗提出10項停戰條款　特朗普政府官員：非美方同意版本",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260408/1118477519012499456671593.jpeg/6BbmYNXAkNCqoPEYvieecQyyUNwofxQtVPOgxlTzoMY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60338451/%E4%BC%8A%E6%9C%97%E6%8F%90%E5%87%BA10%E9%A0%85%E5%81%9C%E6%88%B0%E6%A2%9D%E6%AC%BE-%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%E5%AE%98%E5%93%A1-%E9%9D%9E%E7%BE%8E%E6%96%B9%E5%90%8C%E6%84%8F%E7%89%88%E6%9C%AC",
+    "timestamp": "2026-04-09T02:05:13.911Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美聯儲會議紀要︰有官員擔憂伊朗戰爭或會減緩通脹進程",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260408/1118652166588862464986270.jpeg/z55BUkSNoQyZzlZJzoz9TA0uR8NI9geE41cvT-NXL08?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60338383/%E5%AE%8F%E7%A6%8F%E8%8B%91%E8%81%BD%E8%AD%89%E6%9C%83-%E6%B6%88%E9%98%B2%E6%8E%AA%E6%96%BD%E5%A4%B1%E6%95%88%E8%AA%B0%E8%B2%AC%E4%BB%BB-%E4%B8%80%E6%96%87%E7%9C%8B%E6%B8%85%E5%85%A9%E6%B6%88%E9%98%B2%E6%89%BF%E8%BE%A6%E5%95%86%E5%8F%A3%E4%BE%9B",
     "timestamp": "2026-04-08T13:00:38.272Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "31歲馮盈盈轉型成司儀界新寵　穿紅色低胸喱士長裙大騷身材做主持",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260408/1118550785546784768285401.jpeg/KDAaRG7JQ9h-OZwpCbZH1uk5uyx2MqoXH6HrgR-h64E?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60338187/31%E6%AD%B2%E9%A6%AE%E7%9B%88%E7%9B%88%E8%BD%89%E5%9E%8B%E6%88%90%E5%8F%B8%E5%84%80%E7%95%8C%E6%96%B0%E5%AF%B5-%E7%A9%BF%E7%B4%85%E8%89%B2%E4%BD%8E%E8%83%B8%E5%96%B1%E5%A3%AB%E9%95%B7%E8%A3%99%E5%A4%A7%E9%A8%B7%E8%BA%AB%E6%9D%90%E5%81%9A%E4%B8%BB%E6%8C%81",
-    "timestamp": "2026-04-08T12:33:27.191Z",
     "strategy": ".content-card__main"
   }
 ];
