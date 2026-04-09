@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-09T18:00:29.478Z
+// Last updated: 2026-04-09T20:37:49.606Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "普京宣布東正教復活節暫時停火　籲烏克蘭仿照做法",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260410/1119127392879644672174823.jpeg/zcTgGn5AwP9S_ZxoU4FcMc8XKSXJ-1kcpz0556c9Oec?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60338800/%E6%99%AE%E4%BA%AC%E5%AE%A3%E5%B8%83%E6%9D%B1%E6%AD%A3%E6%95%99%E5%BE%A9%E6%B4%BB%E7%AF%80%E6%9A%AB%E6%99%82%E5%81%9C%E7%81%AB-%E7%B1%B2%E7%83%8F%E5%85%8B%E8%98%AD%E4%BB%BF%E7%85%A7%E5%81%9A%E6%B3%95",
+    "timestamp": "2026-04-09T20:37:49.606Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "夜王｜導演版Renci阿Dee蒜蓉白菜之吻解封　芯駖：開場以為錯戲院",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260329/1114904928259674112418206.jpeg/8CYafs85-Ic8pzjt7qrTbkcX9y2KKD1aeiRQk3okUJM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60338434/%E6%9C%9D%E4%B8%AD%E7%A4%BE-4%E6%9C%886%E6%97%A5%E8%87%B38%E6%97%A5%E9%80%A3%E7%BA%8C%E9%80%B2%E8%A1%8C%E5%A4%9A%E9%A0%85%E6%96%B0%E5%9E%8B%E6%AD%A6%E5%99%A8%E7%B3%BB%E7%B5%B1%E8%A9%A6%E9%A9%97",
     "timestamp": "2026-04-08T23:53:04.331Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "林穎彤神隱半年露面與譚嘉儀聚會　捲男友JPEX案傳狂推Job避風頭",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260408/1118664743133908992164235.jpeg/hJ2oguRV9dyonX4Sg5nJ9nxY15YQlzFFOWd2fDlndnw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60337989/%E6%9E%97%E7%A9%8E%E5%BD%A4%E7%A5%9E%E9%9A%B1%E5%8D%8A%E5%B9%B4%E9%9C%B2%E9%9D%A2%E8%88%87%E8%AD%9A%E5%98%89%E5%84%80%E8%81%9A%E6%9C%83-%E6%8D%B2%E7%94%B7%E5%8F%8Bjpex%E6%A1%88%E5%82%B3%E7%8B%82%E6%8E%A8job%E9%81%BF%E9%A2%A8%E9%A0%AD",
-    "timestamp": "2026-04-08T22:52:08.586Z",
     "strategy": ".content-card__main"
   }
 ];
