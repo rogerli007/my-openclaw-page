@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-10T07:43:41.575Z
+// Last updated: 2026-04-10T08:18:11.732Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "台灣人最愛10大香港傳統飲品！鴛鴦第5  奶茶第3　榜首唔係人人啱",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260410/1119285037745836032317405.jpeg/V3EzmAMCFsQ4ODc_gv0y9uGf6wJJZULUb4CxNW-AsTU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60337105/%E5%8F%B0%E7%81%A3%E4%BA%BA%E6%9C%80%E6%84%9B10%E5%A4%A7%E9%A6%99%E6%B8%AF%E5%82%B3%E7%B5%B1%E9%A3%B2%E5%93%81-%E9%B4%9B%E9%B4%A6%E7%AC%AC5-%E5%A5%B6%E8%8C%B6%E7%AC%AC3-%E6%A6%9C%E9%A6%96%E5%94%94%E4%BF%82%E4%BA%BA%E4%BA%BA%E5%95%B1",
+    "timestamp": "2026-04-10T08:18:11.732Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "海底撈升近3%　大股東張勇擬增持不少於1億元公司股份",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260409/1118964526176276480510496.jpeg/ijAj-7-dkCpGgRwJPn1oKrZYeZdeaezJU3QtH1N0LR8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60338686/%E4%B8%AD%E5%A4%AE%E5%87%BA%E6%89%8B%E5%8F%8D%E5%85%A7%E6%8D%B2-%E4%BA%92%E8%81%AF%E7%B6%B2%E5%B9%B3%E5%8F%B0%E5%83%B9%E6%A0%BC%E8%A1%8C%E7%82%BA%E8%A6%8F%E5%89%87%E6%98%8E%E8%B5%B7%E5%AF%A6%E6%96%BD",
     "timestamp": "2026-04-09T09:45:02.375Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "尖沙咀Pokémon卡牌專門店失竊　黑衣賊盜兩卡總值$20萬後逃去",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260409/1118943571643207680283907.jpeg/VsoczgdK6fPzzRZGGJkE7iTqZZNm7TzgEpAumhKQLpo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60338628/%E5%B0%96%E6%B2%99%E5%92%80pok%C3%A9mon%E5%8D%A1%E7%89%8C%E5%B0%88%E9%96%80%E5%BA%97%E5%A4%B1%E7%AB%8A-%E9%BB%91%E8%A1%A3%E8%B3%8A%E7%9B%9C%E5%85%A9%E5%8D%A1%E7%B8%BD%E5%80%BC-20%E8%90%AC%E5%BE%8C%E9%80%83%E5%8E%BB",
-    "timestamp": "2026-04-09T08:53:46.632Z",
     "strategy": ".content-card__main"
   }
 ];
