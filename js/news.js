@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-10T19:30:26.461Z
+// Last updated: 2026-04-10T19:52:25.211Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "前模特兒星探Paolo Zampoll：梅拉尼婭與特朗普是我介紹認識的",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20240715/889462579712233472862593.jpeg/fRyMcsGisYpMfWfDIFVF_7qX-EYx1JJi7z7IeO8-yHg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60339171/%E5%89%8D%E6%A8%A1%E7%89%B9%E5%85%92%E6%98%9F%E6%8E%A2paolo-zampoll-%E6%A2%85%E6%8B%89%E5%B0%BC%E5%A9%AD%E8%88%87%E7%89%B9%E6%9C%97%E6%99%AE%E6%98%AF%E6%88%91%E4%BB%8B%E7%B4%B9%E8%AA%8D%E8%AD%98%E7%9A%84",
+    "timestamp": "2026-04-10T19:52:25.211Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "iKKO MindOne Pro深度評測｜AI 語音翻譯功能打造高效辦公利器",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20251114/1065879188155666432581049.jpeg/RuOlBu_hX1pLkf3xRyJnaTXGr29sIRzOu-d4eo7neHo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60338821/%E8%A7%80%E5%A1%9838%E6%AD%B2%E7%94%B7%E5%AD%90%E6%9A%88%E5%80%92%E9%80%81%E9%99%A2%E4%BA%A1-%E5%85%A9%E5%91%A8%E5%89%8D%E6%9B%BE%E6%82%A3%E9%87%8D%E6%84%9F%E5%86%92-%E6%AD%BB%E5%9B%A0%E6%9C%89%E5%BE%85%E7%A2%BA%E5%AE%9A",
     "timestamp": "2026-04-10T01:47:07.801Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "張繼聰演唱會壓軸與農夫同台　未敢透露下一步︰組合入面我係三弟",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260410/1119096694848360448541907.jpeg/4WDYBDgLFFDFxw-ATgdUEhsGDjLTVkRrtpfztLaX87Q?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60338790/%E5%BC%B5%E7%B9%BC%E8%81%B0%E6%BC%94%E5%94%B1%E6%9C%83%E5%A3%93%E8%BB%B8%E8%88%87%E8%BE%B2%E5%A4%AB%E5%90%8C%E5%8F%B0-%E6%9C%AA%E6%95%A2%E9%80%8F%E9%9C%B2%E4%B8%8B%E4%B8%80%E6%AD%A5-%E7%B5%84%E5%90%88%E5%85%A5%E9%9D%A2%E6%88%91%E4%BF%82%E4%B8%89%E5%BC%9F",
-    "timestamp": "2026-04-09T23:51:49.487Z",
     "strategy": ".content-card__main"
   }
 ];
