@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-10T21:52:06.836Z
+// Last updated: 2026-04-10T22:21:15.293Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "【星之谷】賣樓冇簽正約連累新樓按揭 換樓客兩招自救",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260410/1119354864640462848495261.jpeg/g-htnMhmHX10AGBnJ7G1smTba7rDLD-A_yyp9P8sqfQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60338859/%E6%98%9F%E4%B9%8B%E8%B0%B7-%E8%B3%A3%E6%A8%93%E5%86%87%E7%B0%BD%E6%AD%A3%E7%B4%84%E9%80%A3%E7%B4%AF%E6%96%B0%E6%A8%93%E6%8C%89%E6%8F%AD-%E6%8F%9B%E6%A8%93%E5%AE%A2%E5%85%A9%E6%8B%9B%E8%87%AA%E6%95%91",
+    "timestamp": "2026-04-10T22:21:15.293Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "特朗普：美國為軍艦裝填精良彈藥　以備與伊朗談判失敗",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260410/1119307637687586816510942.png/qFBUx93b4lB4rfj95GaEbOfnCzUkcmjTSm8xpEpvMaQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60339042/esg-acca%E5%BB%BA%E8%AD%B0%E5%8A%A0%E5%BF%AB%E9%A6%96%E9%9A%8E%E6%AE%B5%E5%BC%B7%E5%88%B6%E6%80%A7%E6%9C%89%E9%99%90%E6%A0%B8%E8%AD%89%E5%AF%A6%E8%A1%8C",
     "timestamp": "2026-04-10T08:54:36.897Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "台灣人最愛10大香港傳統飲品！鴛鴦第5  奶茶第3　榜首唔係人人啱",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260410/1119285037745836032317405.jpeg/V3EzmAMCFsQ4ODc_gv0y9uGf6wJJZULUb4CxNW-AsTU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60337105/%E5%8F%B0%E7%81%A3%E4%BA%BA%E6%9C%80%E6%84%9B10%E5%A4%A7%E9%A6%99%E6%B8%AF%E5%82%B3%E7%B5%B1%E9%A3%B2%E5%93%81-%E9%B4%9B%E9%B4%A6%E7%AC%AC5-%E5%A5%B6%E8%8C%B6%E7%AC%AC3-%E6%A6%9C%E9%A6%96%E5%94%94%E4%BF%82%E4%BA%BA%E4%BA%BA%E5%95%B1",
-    "timestamp": "2026-04-10T08:18:11.732Z",
     "strategy": ".content-card__main"
   }
 ];
