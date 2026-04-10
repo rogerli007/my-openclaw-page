@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-10T20:53:52.526Z
+// Last updated: 2026-04-10T21:21:26.066Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "傳世茂許榮茂25億沽中環中心6層　大業主星展買呼聲高",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20241105/930528192521834496162498.jpeg/bxh4gzIV7BuclsFF03hRuoHm96OoewkbV_PHVFfzx1Q?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60339125/%E5%82%B3%E4%B8%96%E8%8C%82%E8%A8%B1%E6%A6%AE%E8%8C%8225%E5%84%84%E6%B2%BD%E4%B8%AD%E7%92%B0%E4%B8%AD%E5%BF%836%E5%B1%A4-%E5%A4%A7%E6%A5%AD%E4%B8%BB%E6%98%9F%E5%B1%95%E8%B2%B7%E5%91%BC%E8%81%B2%E9%AB%98",
+    "timestamp": "2026-04-10T21:21:26.066Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美伊談判前　伊朗代表團抵達　伊斯蘭堡戒備森嚴",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260112/1087386145215614976547139.jpeg/PQXWgBwkEl1ouYP-Qjr3bNNowg_VIg0hDt3eug7d3ro?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60339018/%E6%B5%B7%E5%BA%95%E6%92%88%E5%8D%87%E8%BF%913-%E5%A4%A7%E8%82%A1%E6%9D%B1%E5%BC%B5%E5%8B%87%E6%93%AC%E5%A2%9E%E6%8C%81%E4%B8%8D%E5%B0%91%E6%96%BC1%E5%84%84%E5%85%83%E5%85%AC%E5%8F%B8%E8%82%A1%E4%BB%BD",
     "timestamp": "2026-04-10T07:43:41.575Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "利物浦左閘羅拔臣季尾離隊　高普年代英超首冠主力還有誰？︱足球",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260410/1119235873838206976054391.jpeg/2QNHe5l4CoJNA2Yf3vU0GN2fhbKA9-VwO6UGXzulBl8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60338896/%E5%88%A9%E7%89%A9%E6%B5%A6%E5%B7%A6%E9%96%98%E7%BE%85%E6%8B%94%E8%87%A3%E5%AD%A3%E5%B0%BE%E9%9B%A2%E9%9A%8A-%E9%AB%98%E6%99%AE%E5%B9%B4%E4%BB%A3%E8%8B%B1%E8%B6%85%E9%A6%96%E5%86%A0%E4%B8%BB%E5%8A%9B%E9%82%84%E6%9C%89%E8%AA%B0-%E8%B6%B3%E7%90%83",
-    "timestamp": "2026-04-10T05:12:36.447Z",
     "strategy": ".content-card__main"
   }
 ];
