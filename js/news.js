@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-10T22:21:15.293Z
+// Last updated: 2026-04-10T22:55:04.334Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "Michael Burry新建倉阿里巴巴　加碼京東　增加沽空Nvidia",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260114/1088122675324260352059418.jpeg/4CYxngRhkbH3mX6mtMBmRGbkpinabthiUvlyCVL5cgk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60339178/michael-burry%E6%96%B0%E5%BB%BA%E5%80%89%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4-%E5%8A%A0%E7%A2%BC%E4%BA%AC%E6%9D%B1-%E5%A2%9E%E5%8A%A0%E6%B2%BD%E7%A9%BAnvidia",
+    "timestamp": "2026-04-10T22:55:04.334Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "【星之谷】賣樓冇簽正約連累新樓按揭 換樓客兩招自救",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260410/1119286191326236672058379.png/S6XH204SeCzapEGXeb7dHxIKNHQtFf-qxdOUtcXTlLU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60338835/%E5%A5%B3%E6%A3%8B%E6%89%8B%E8%88%87%E5%8D%A1%E7%88%BE%E6%A3%AE%E5%B0%8D%E5%BC%88%E8%88%88%E5%A5%AE%E9%82%80%E8%87%AA%E6%8B%8D-%E6%A3%8B%E7%8E%8B%E5%BE%AE%E7%AC%91%E5%90%88%E5%BD%B1-%E8%BD%89%E9%A0%AD%E7%A7%92%E8%88%89%E5%A0%B1%E5%85%B6%E9%81%95%E8%A6%8F",
     "timestamp": "2026-04-10T09:42:11.632Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "ESG丨ACCA建議加快首階段強制性有限核證實行",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260410/1119307637687586816510942.png/qFBUx93b4lB4rfj95GaEbOfnCzUkcmjTSm8xpEpvMaQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60339042/esg-acca%E5%BB%BA%E8%AD%B0%E5%8A%A0%E5%BF%AB%E9%A6%96%E9%9A%8E%E6%AE%B5%E5%BC%B7%E5%88%B6%E6%80%A7%E6%9C%89%E9%99%90%E6%A0%B8%E8%AD%89%E5%AF%A6%E8%A1%8C",
-    "timestamp": "2026-04-10T08:54:36.897Z",
     "strategy": ".content-card__main"
   }
 ];
