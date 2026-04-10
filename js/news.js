@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-10T01:47:07.801Z
+// Last updated: 2026-04-10T03:56:33.294Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "宏福苑｜姜世明稱物管無牌關「刀掣」屬犯法　形容為「低級錯誤」",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260410/1119204744498253824578601.jpeg/NT4MfGUa4NJSsaPIf8NnKy72c-5vlHHZq3z8JKt8_CQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60338866/%E5%AE%8F%E7%A6%8F%E8%8B%91-%E5%A7%9C%E4%B8%96%E6%98%8E%E7%A8%B1%E7%89%A9%E7%AE%A1%E7%84%A1%E7%89%8C%E9%97%9C-%E5%88%80%E6%8E%A3-%E5%B1%AC%E7%8A%AF%E6%B3%95-%E5%BD%A2%E5%AE%B9%E7%82%BA-%E4%BD%8E%E7%B4%9A%E9%8C%AF%E8%AA%A4",
+    "timestamp": "2026-04-10T03:56:33.294Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "觀塘38歲男子暈倒送院亡　兩周前曾患重感冒　死因有待確定",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260408/1118558202007392256794381.jpeg/ODi1lVCZrYbxA8kYN5Va0KRcZHs_W0FpDG7jMgxu4zI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60338203/%E5%B0%8F%E7%B1%B3%E6%8E%A8%E7%B1%B3%E5%AE%B6%E7%86%A8%E7%87%99%E6%A9%9F2-%E6%8E%9B%E7%87%99%E5%B9%B3%E7%86%A8%E4%BA%8C%E5%90%88%E4%B8%80%E8%A8%AD6%E7%A8%AE%E6%A8%A1%E5%BC%8F-%E7%8D%B2%E6%AF%8D%E5%AC%B0%E7%B4%9A%E9%99%A4%E8%8F%8C%E8%AA%8D%E8%AD%89",
     "timestamp": "2026-04-09T07:44:07.357Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "港島停電｜數間DSE試場照明短暫閃爍或轉暗　考評局：沒影響考試",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260409/1118908467017551872932650.jpeg/VYpreFQkiIVdTTWngBmHRgvLy7-V2Phf4Qy_quEMv6o?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60338592/%E6%B8%AF%E5%B3%B6%E5%81%9C%E9%9B%BB-%E6%95%B8%E9%96%93dse%E8%A9%A6%E5%A0%B4%E7%85%A7%E6%98%8E%E7%9F%AD%E6%9A%AB%E9%96%83%E7%88%8D%E6%88%96%E8%BD%89%E6%9A%97-%E8%80%83%E8%A9%95%E5%B1%80-%E6%B2%92%E5%BD%B1%E9%9F%BF%E8%80%83%E8%A9%A6",
-    "timestamp": "2026-04-09T06:54:30.875Z",
     "strategy": ".content-card__main"
   }
 ];
