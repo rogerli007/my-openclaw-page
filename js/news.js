@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-10T19:52:25.211Z
+// Last updated: 2026-04-10T20:20:21.148Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美伊談判前　伊朗代表團抵達　伊斯蘭堡戒備森嚴",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260411/1119487152271396864497368.jpeg/U7BDkMcGgG3qDN-xsO3hF5NLMnura2Xo2fGFA9nxhQM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60339173/%E7%BE%8E%E4%BC%8A%E8%AB%87%E5%88%A4%E5%89%8D-%E4%BC%8A%E6%9C%97%E4%BB%A3%E8%A1%A8%E5%9C%98%E6%8A%B5%E9%81%94-%E4%BC%8A%E6%96%AF%E8%98%AD%E5%A0%A1%E6%88%92%E5%82%99%E6%A3%AE%E5%9A%B4",
+    "timestamp": "2026-04-10T20:20:21.148Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "前模特兒星探Paolo Zampoll：梅拉尼婭與特朗普是我介紹認識的",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260410/1119204744498253824578601.jpeg/NT4MfGUa4NJSsaPIf8NnKy72c-5vlHHZq3z8JKt8_CQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60338866/%E5%AE%8F%E7%A6%8F%E8%8B%91-%E5%A7%9C%E4%B8%96%E6%98%8E%E7%A8%B1%E7%89%A9%E7%AE%A1%E7%84%A1%E7%89%8C%E9%97%9C-%E5%88%80%E6%8E%A3-%E5%B1%AC%E7%8A%AF%E6%B3%95-%E5%BD%A2%E5%AE%B9%E7%82%BA-%E4%BD%8E%E7%B4%9A%E9%8C%AF%E8%AA%A4",
     "timestamp": "2026-04-10T03:56:33.294Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "觀塘38歲男子暈倒送院亡　兩周前曾患重感冒　死因有待確定",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20251114/1065879188155666432581049.jpeg/RuOlBu_hX1pLkf3xRyJnaTXGr29sIRzOu-d4eo7neHo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60338821/%E8%A7%80%E5%A1%9838%E6%AD%B2%E7%94%B7%E5%AD%90%E6%9A%88%E5%80%92%E9%80%81%E9%99%A2%E4%BA%A1-%E5%85%A9%E5%91%A8%E5%89%8D%E6%9B%BE%E6%82%A3%E9%87%8D%E6%84%9F%E5%86%92-%E6%AD%BB%E5%9B%A0%E6%9C%89%E5%BE%85%E7%A2%BA%E5%AE%9A",
-    "timestamp": "2026-04-10T01:47:07.801Z",
     "strategy": ".content-card__main"
   }
 ];
