@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-10T14:33:49.539Z
+// Last updated: 2026-04-10T16:29:11.326Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "「娛樂新聞台主持」鍾翠詩忽然性感！　夏天未到搶閘曬噴血比堅尼",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260410/1119295972640296960321604.jpeg/PoZQ7UvsXzXf7BwQO9HY6vBhLiyPevGCh9rIEofayBI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60338994/%E5%A8%9B%E6%A8%82%E6%96%B0%E8%81%9E%E5%8F%B0%E4%B8%BB%E6%8C%81-%E9%8D%BE%E7%BF%A0%E8%A9%A9%E5%BF%BD%E7%84%B6%E6%80%A7%E6%84%9F-%E5%A4%8F%E5%A4%A9%E6%9C%AA%E5%88%B0%E6%90%B6%E9%96%98%E6%9B%AC%E5%99%B4%E8%A1%80%E6%AF%94%E5%A0%85%E5%B0%BC",
+    "timestamp": "2026-04-10T16:29:11.326Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "泰國男神Mario Maurer旋風式襲港　大談「冒險」想去海灘叉電",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260410/1119127392879644672174823.jpeg/zcTgGn5AwP9S_ZxoU4FcMc8XKSXJ-1kcpz0556c9Oec?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60338800/%E6%99%AE%E4%BA%AC%E5%AE%A3%E5%B8%83%E6%9D%B1%E6%AD%A3%E6%95%99%E5%BE%A9%E6%B4%BB%E7%AF%80%E6%9A%AB%E6%99%82%E5%81%9C%E7%81%AB-%E7%B1%B2%E7%83%8F%E5%85%8B%E8%98%AD%E4%BB%BF%E7%85%A7%E5%81%9A%E6%B3%95",
     "timestamp": "2026-04-09T20:37:49.606Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "夜王｜導演版Renci阿Dee蒜蓉白菜之吻解封　芯駖：開場以為錯戲院",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260410/1119088082864312320173240.jpeg/r6q0uCk8WijzyzcvcEew3Tu9F9yH6gXdAjhVigI4VYo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60338787/%E5%A4%9C%E7%8E%8B-%E5%B0%8E%E6%BC%94%E7%89%88renci%E9%98%BFdee%E8%92%9C%E8%93%89%E7%99%BD%E8%8F%9C%E4%B9%8B%E5%90%BB%E8%A7%A3%E5%B0%81-%E8%8A%AF%E9%A7%96-%E9%96%8B%E5%A0%B4%E4%BB%A5%E7%82%BA%E9%8C%AF%E6%88%B2%E9%99%A2",
-    "timestamp": "2026-04-09T18:00:29.478Z",
     "strategy": ".content-card__main"
   }
 ];
