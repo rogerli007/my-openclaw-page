@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-10T03:56:33.294Z
+// Last updated: 2026-04-10T05:12:36.447Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "利物浦左閘羅拔臣季尾離隊　高普年代英超首冠主力還有誰？︱足球",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260410/1119235873838206976054391.jpeg/2QNHe5l4CoJNA2Yf3vU0GN2fhbKA9-VwO6UGXzulBl8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60338896/%E5%88%A9%E7%89%A9%E6%B5%A6%E5%B7%A6%E9%96%98%E7%BE%85%E6%8B%94%E8%87%A3%E5%AD%A3%E5%B0%BE%E9%9B%A2%E9%9A%8A-%E9%AB%98%E6%99%AE%E5%B9%B4%E4%BB%A3%E8%8B%B1%E8%B6%85%E9%A6%96%E5%86%A0%E4%B8%BB%E5%8A%9B%E9%82%84%E6%9C%89%E8%AA%B0-%E8%B6%B3%E7%90%83",
+    "timestamp": "2026-04-10T05:12:36.447Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "宏福苑｜姜世明稱物管無牌關「刀掣」屬犯法　形容為「低級錯誤」",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260409/1118918225858400256016925.jpeg/a2uiKay3JVEKz6aNUonRY4jThTKY1tVJW9BqJVvQaiU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8F%B0%E7%81%A3%E6%96%B0%E8%81%9E/60338586/%E5%8F%B020%E6%AD%B2%E8%AE%8A%E6%85%8B%E7%94%B7%E8%B1%86%E6%BC%BF%E5%BA%97%E7%95%B6%E7%9C%BE%E8%84%AB%E8%A4%B2%E8%87%AA%E6%85%B0-%E8%80%81%E9%97%86%E5%A8%98%E4%B8%8D%E6%95%A2%E7%9C%8B-cctv%E6%9B%9D%E5%85%89%E8%AD%A6%E6%8B%89%E4%BA%BA",
     "timestamp": "2026-04-09T08:17:44.080Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "小米推米家熨燙機2　掛燙平熨二合一設6種模式　獲母嬰級除菌認證",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260408/1118558202007392256794381.jpeg/ODi1lVCZrYbxA8kYN5Va0KRcZHs_W0FpDG7jMgxu4zI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60338203/%E5%B0%8F%E7%B1%B3%E6%8E%A8%E7%B1%B3%E5%AE%B6%E7%86%A8%E7%87%99%E6%A9%9F2-%E6%8E%9B%E7%87%99%E5%B9%B3%E7%86%A8%E4%BA%8C%E5%90%88%E4%B8%80%E8%A8%AD6%E7%A8%AE%E6%A8%A1%E5%BC%8F-%E7%8D%B2%E6%AF%8D%E5%AC%B0%E7%B4%9A%E9%99%A4%E8%8F%8C%E8%AA%8D%E8%AD%89",
-    "timestamp": "2026-04-09T07:44:07.357Z",
     "strategy": ".content-card__main"
   }
 ];
