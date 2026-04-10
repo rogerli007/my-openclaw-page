@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-10T05:12:36.447Z
+// Last updated: 2026-04-10T07:43:41.575Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "海底撈升近3%　大股東張勇擬增持不少於1億元公司股份",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260112/1087386145215614976547139.jpeg/PQXWgBwkEl1ouYP-Qjr3bNNowg_VIg0hDt3eug7d3ro?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60339018/%E6%B5%B7%E5%BA%95%E6%92%88%E5%8D%87%E8%BF%913-%E5%A4%A7%E8%82%A1%E6%9D%B1%E5%BC%B5%E5%8B%87%E6%93%AC%E5%A2%9E%E6%8C%81%E4%B8%8D%E5%B0%91%E6%96%BC1%E5%84%84%E5%85%83%E5%85%AC%E5%8F%B8%E8%82%A1%E4%BB%BD",
+    "timestamp": "2026-04-10T07:43:41.575Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "利物浦左閘羅拔臣季尾離隊　高普年代英超首冠主力還有誰？︱足球",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260409/1118943571643207680283907.jpeg/VsoczgdK6fPzzRZGGJkE7iTqZZNm7TzgEpAumhKQLpo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60338628/%E5%B0%96%E6%B2%99%E5%92%80pok%C3%A9mon%E5%8D%A1%E7%89%8C%E5%B0%88%E9%96%80%E5%BA%97%E5%A4%B1%E7%AB%8A-%E9%BB%91%E8%A1%A3%E8%B3%8A%E7%9B%9C%E5%85%A9%E5%8D%A1%E7%B8%BD%E5%80%BC-20%E8%90%AC%E5%BE%8C%E9%80%83%E5%8E%BB",
     "timestamp": "2026-04-09T08:53:46.632Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "台20歲變態男豆漿店當眾脫褲自慰　老闆娘不敢看　CCTV曝光警拉人",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260409/1118918225858400256016925.jpeg/a2uiKay3JVEKz6aNUonRY4jThTKY1tVJW9BqJVvQaiU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8F%B0%E7%81%A3%E6%96%B0%E8%81%9E/60338586/%E5%8F%B020%E6%AD%B2%E8%AE%8A%E6%85%8B%E7%94%B7%E8%B1%86%E6%BC%BF%E5%BA%97%E7%95%B6%E7%9C%BE%E8%84%AB%E8%A4%B2%E8%87%AA%E6%85%B0-%E8%80%81%E9%97%86%E5%A8%98%E4%B8%8D%E6%95%A2%E7%9C%8B-cctv%E6%9B%9D%E5%85%89%E8%AD%A6%E6%8B%89%E4%BA%BA",
-    "timestamp": "2026-04-09T08:17:44.080Z",
     "strategy": ".content-card__main"
   }
 ];
