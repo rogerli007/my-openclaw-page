@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-10T18:29:40.011Z
+// Last updated: 2026-04-10T18:53:56.769Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "iKKO MindOne Pro深度評測｜AI 語音翻譯功能打造高效辦公利器",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260411/1119446752416501760059163.jpeg/oruACaYtRM5dJR8oTqv9JemYiP6TH-QpSB69TUgevU0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60335750/ikko-mindone-pro%E6%B7%B1%E5%BA%A6%E8%A9%95%E6%B8%AC-ai-%E8%AA%9E%E9%9F%B3%E7%BF%BB%E8%AD%AF%E5%8A%9F%E8%83%BD%E6%89%93%E9%80%A0%E9%AB%98%E6%95%88%E8%BE%A6%E5%85%AC%E5%88%A9%E5%99%A8",
+    "timestamp": "2026-04-10T18:53:56.769Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "iKKO MindOne Pro深度評測｜AI 語音翻譯功能打造高效辦公利器",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260409/1118920128780570624836951.jpeg/DVS20fKNXqS4rMecWv5dVo3FjD7FH7jCqna9w6p2vcM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60338570/%E8%AC%9D%E5%A9%B7%E5%A9%B7%E5%86%8D%E5%A5%AA%E7%B6%B2%E7%90%83%E5%A4%A7%E5%B8%AB%E8%B3%BD%E9%9B%99%E6%89%93%E5%86%A0%E8%BB%8D-%E6%9B%BE%E8%88%87%E7%90%83%E5%90%8E%E6%9D%8E%E5%A8%9C%E5%B0%8D%E6%89%93%E7%8D%B2%E6%BF%80%E8%AE%9A",
     "timestamp": "2026-04-09T22:52:27.767Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "歐協聯八強首回合｜水晶宮3：0勝費倫天拿",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260410/1119142472459489280543109.jpeg/jOn_7tqdatIPfdvzukF2k7_3A81QxwZrKz9mdys_Znc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60338802/%E6%AD%90%E5%8D%94%E8%81%AF%E5%85%AB%E5%BC%B7%E9%A6%96%E5%9B%9E%E5%90%88-%E6%B0%B4%E6%99%B6%E5%AE%AE3-0%E5%8B%9D%E8%B2%BB%E5%80%AB%E5%A4%A9%E6%8B%BF",
-    "timestamp": "2026-04-09T21:37:33.719Z",
     "strategy": ".content-card__main"
   }
 ];
