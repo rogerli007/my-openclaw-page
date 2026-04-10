@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-10T21:21:26.066Z
+// Last updated: 2026-04-10T21:52:06.836Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "特朗普：美國為軍艦裝填精良彈藥　以備與伊朗談判失敗",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260407/1118128242490871808350176.jpeg/Cogl8TFsOnzpjIBFyVccmD9uajgu1xgQO4zLmjuMy5o?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60339175/%E7%89%B9%E6%9C%97%E6%99%AE-%E7%BE%8E%E5%9C%8B%E7%82%BA%E8%BB%8D%E8%89%A6%E8%A3%9D%E5%A1%AB%E7%B2%BE%E8%89%AF%E5%BD%88%E8%97%A5-%E4%BB%A5%E5%82%99%E8%88%87%E4%BC%8A%E6%9C%97%E8%AB%87%E5%88%A4%E5%A4%B1%E6%95%97",
+    "timestamp": "2026-04-10T21:52:06.836Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "傳世茂許榮茂25億沽中環中心6層　大業主星展買呼聲高",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260410/1119285037745836032317405.jpeg/V3EzmAMCFsQ4ODc_gv0y9uGf6wJJZULUb4CxNW-AsTU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60337105/%E5%8F%B0%E7%81%A3%E4%BA%BA%E6%9C%80%E6%84%9B10%E5%A4%A7%E9%A6%99%E6%B8%AF%E5%82%B3%E7%B5%B1%E9%A3%B2%E5%93%81-%E9%B4%9B%E9%B4%A6%E7%AC%AC5-%E5%A5%B6%E8%8C%B6%E7%AC%AC3-%E6%A6%9C%E9%A6%96%E5%94%94%E4%BF%82%E4%BA%BA%E4%BA%BA%E5%95%B1",
     "timestamp": "2026-04-10T08:18:11.732Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "海底撈升近3%　大股東張勇擬增持不少於1億元公司股份",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260112/1087386145215614976547139.jpeg/PQXWgBwkEl1ouYP-Qjr3bNNowg_VIg0hDt3eug7d3ro?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60339018/%E6%B5%B7%E5%BA%95%E6%92%88%E5%8D%87%E8%BF%913-%E5%A4%A7%E8%82%A1%E6%9D%B1%E5%BC%B5%E5%8B%87%E6%93%AC%E5%A2%9E%E6%8C%81%E4%B8%8D%E5%B0%91%E6%96%BC1%E5%84%84%E5%85%83%E5%85%AC%E5%8F%B8%E8%82%A1%E4%BB%BD",
-    "timestamp": "2026-04-10T07:43:41.575Z",
     "strategy": ".content-card__main"
   }
 ];
