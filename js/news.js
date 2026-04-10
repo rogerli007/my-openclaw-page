@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-10T16:29:11.326Z
+// Last updated: 2026-04-10T17:27:30.215Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美伊談判前夕　特朗普：世界上最強大重啟",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260408/1118656270534971392871342.jpeg/rP6yQMtof3xmgyECp4GtGDjVZX9u_gWUA9h06gPYdOo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60339165/%E7%BE%8E%E4%BC%8A%E8%AB%87%E5%88%A4%E5%89%8D%E5%A4%95-%E7%89%B9%E6%9C%97%E6%99%AE-%E4%B8%96%E7%95%8C%E4%B8%8A%E6%9C%80%E5%BC%B7%E5%A4%A7%E9%87%8D%E5%95%9F",
+    "timestamp": "2026-04-10T17:27:30.215Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "「娛樂新聞台主持」鍾翠詩忽然性感！　夏天未到搶閘曬噴血比堅尼",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260410/1119127392879644672174823.jpeg/zcTgGn5AwP9S_ZxoU4FcMc8XKSXJ-1kcpz0556c9Oec?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60338800/%E6%99%AE%E4%BA%AC%E5%AE%A3%E5%B8%83%E6%9D%B1%E6%AD%A3%E6%95%99%E5%BE%A9%E6%B4%BB%E7%AF%80%E6%9A%AB%E6%99%82%E5%81%9C%E7%81%AB-%E7%B1%B2%E7%83%8F%E5%85%8B%E8%98%AD%E4%BB%BF%E7%85%A7%E5%81%9A%E6%B3%95",
     "timestamp": "2026-04-09T21:07:56.576Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "普京宣布東正教復活節暫時停火　籲烏克蘭仿照做法",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260410/1119127392879644672174823.jpeg/zcTgGn5AwP9S_ZxoU4FcMc8XKSXJ-1kcpz0556c9Oec?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60338800/%E6%99%AE%E4%BA%AC%E5%AE%A3%E5%B8%83%E6%9D%B1%E6%AD%A3%E6%95%99%E5%BE%A9%E6%B4%BB%E7%AF%80%E6%9A%AB%E6%99%82%E5%81%9C%E7%81%AB-%E7%B1%B2%E7%83%8F%E5%85%8B%E8%98%AD%E4%BB%BF%E7%85%A7%E5%81%9A%E6%B3%95",
-    "timestamp": "2026-04-09T20:37:49.606Z",
     "strategy": ".content-card__main"
   }
 ];
