@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-10T22:55:04.334Z
+// Last updated: 2026-04-10T23:51:26.972Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "泰3歲童被虐死！母稱兒病發驗屍揭腹腔積血腸破裂　20歲繼父被捕",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260411/1119428265463779328735084.png/xqdfY2sixHjYWK3y7esgMDN15pLrbeOefa-1lH2vtZQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E8%A9%B1%E9%A1%8C/60338917/%E6%B3%B03%E6%AD%B2%E7%AB%A5%E8%A2%AB%E8%99%90%E6%AD%BB-%E6%AF%8D%E7%A8%B1%E5%85%92%E7%97%85%E7%99%BC%E9%A9%97%E5%B1%8D%E6%8F%AD%E8%85%B9%E8%85%94%E7%A9%8D%E8%A1%80%E8%85%B8%E7%A0%B4%E8%A3%82-20%E6%AD%B2%E7%B9%BC%E7%88%B6%E8%A2%AB%E6%8D%95",
+    "timestamp": "2026-04-10T23:51:26.972Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "Michael Burry新建倉阿里巴巴　加碼京東　增加沽空Nvidia",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260408/1118593385154744320328456.png/_f4XKkRL5Yd7cDh-UBprUe73RXq_Vc9zDFhJewxYSXs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60338252/%E8%91%B5%E8%8A%B3%E6%92%9E%E8%BB%8A%E9%BB%A8-%E7%96%91%E9%A8%99%E5%BE%92%E5%82%B3ai%E6%92%9E%E8%BB%8A%E5%81%87%E7%9B%B8%E9%81%93%E6%AD%89-%E5%81%9A1%E4%BB%B6%E4%BA%8B-tesla%E8%BB%8A%E4%B8%BB-%E6%81%90%E6%80%96",
     "timestamp": "2026-04-10T10:16:35.935Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "女棋手與卡爾森對弈興奮邀自拍　棋王微笑合影　轉頭秒舉報其違規",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260410/1119286191326236672058379.png/S6XH204SeCzapEGXeb7dHxIKNHQtFf-qxdOUtcXTlLU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60338835/%E5%A5%B3%E6%A3%8B%E6%89%8B%E8%88%87%E5%8D%A1%E7%88%BE%E6%A3%AE%E5%B0%8D%E5%BC%88%E8%88%88%E5%A5%AE%E9%82%80%E8%87%AA%E6%8B%8D-%E6%A3%8B%E7%8E%8B%E5%BE%AE%E7%AC%91%E5%90%88%E5%BD%B1-%E8%BD%89%E9%A0%AD%E7%A7%92%E8%88%89%E5%A0%B1%E5%85%B6%E9%81%95%E8%A6%8F",
-    "timestamp": "2026-04-10T09:42:11.632Z",
     "strategy": ".content-card__main"
   }
 ];
