@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-10T10:40:16.569Z
+// Last updated: 2026-04-10T11:38:08.320Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "愛情心測｜你的戀情為何總是不順？選1個最不愛顏色測該怎麼調整",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260326/1113895156781682688047395.jpeg/Po3zY9kUvALxukK4CQzVO4TA3CZgFNVelSqzD5Uqsw8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%AB%87%E6%83%85%E8%AA%AA%E6%80%A7/60334580/%E6%84%9B%E6%83%85%E5%BF%83%E6%B8%AC-%E4%BD%A0%E7%9A%84%E6%88%80%E6%83%85%E7%82%BA%E4%BD%95%E7%B8%BD%E6%98%AF%E4%B8%8D%E9%A0%86-%E9%81%B81%E5%80%8B%E6%9C%80%E4%B8%8D%E6%84%9B%E9%A1%8F%E8%89%B2%E6%B8%AC%E8%A9%B2%E6%80%8E%E9%BA%BC%E8%AA%BF%E6%95%B4",
+    "timestamp": "2026-04-10T11:38:08.320Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "「Hold住姐」謝依霖赴大馬墮網騙　慘遭海關拒入境　崩潰嘆冤大頭",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260409/1119000959784062976807546.png/RoYiplHPsOV8jEt3pryVJQZcTPP6vvTpFvEkshbxJLI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60338738/%E8%8F%AF%E5%A5%B3%E5%9D%8E%E5%9F%B9%E6%8B%89%E9%81%87%E7%A8%AE%E6%97%8F%E6%AD%A7%E8%A6%96-%E9%81%AD%E7%8B%82%E6%AF%86%E5%8D%81%E6%8B%B3%E6%BB%BF%E8%87%89%E9%AE%AE%E8%A1%80-%E6%96%BD%E8%A5%B2%E8%80%85%E6%9B%B4%E6%8F%AE%E9%95%B7%E5%88%80%E5%A8%81%E8%84%85",
     "timestamp": "2026-04-09T12:08:56.585Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美伊停火彰顯特朗普式「狂人策略」　被迫「陪瘋」的盟友反最傷？",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250417/989406414021595136526730.jpeg/SF-FuWuHg9qbWHx77eQOKNFX4po-mhi94eoH7uHqB-4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%9C%8B%E9%9A%9B%E5%88%86%E6%9E%90/60338731/%E7%BE%8E%E4%BC%8A%E5%81%9C%E7%81%AB%E5%BD%B0%E9%A1%AF%E7%89%B9%E6%9C%97%E6%99%AE%E5%BC%8F-%E7%8B%82%E4%BA%BA%E7%AD%96%E7%95%A5-%E8%A2%AB%E8%BF%AB-%E9%99%AA%E7%98%8B-%E7%9A%84%E7%9B%9F%E5%8F%8B%E5%8F%8D%E6%9C%80%E5%82%B7",
-    "timestamp": "2026-04-09T11:40:40.512Z",
     "strategy": ".content-card__main"
   }
 ];
