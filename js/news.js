@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-10T13:15:34.906Z
+// Last updated: 2026-04-10T13:54:46.267Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "夏寶龍半個月內第二度調研大灣區　至少6名香港主要官員北上陪同",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260410/1119385664446533632564379.jpeg/TgzUEUDIH6hEhcKvCO9P0WJ7lAyGqffq8RFCnfERQp0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60339144/%E5%A4%8F%E5%AF%B6%E9%BE%8D%E5%8D%8A%E5%80%8B%E6%9C%88%E5%85%A7%E7%AC%AC%E4%BA%8C%E5%BA%A6%E8%AA%BF%E7%A0%94%E5%A4%A7%E7%81%A3%E5%8D%80-%E8%87%B3%E5%B0%916%E5%90%8D%E9%A6%99%E6%B8%AF%E4%B8%BB%E8%A6%81%E5%AE%98%E5%93%A1%E5%8C%97%E4%B8%8A%E9%99%AA%E5%90%8C",
+    "timestamp": "2026-04-10T13:54:46.267Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "中美｢乒乓外交｣55周年　習近平發賀信籲兩國青年積極推動中美關係",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260409/1119050058495430656724063.jpeg/S5qec7HnYzu4bNyafI93rsPVqW5WJIrKxU3o2MVN6Ng?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60338772/%E5%BC%B5%E7%B9%BC%E8%81%B0%E6%BC%94%E5%94%B1%E6%9C%83%E5%91%82%E7%88%B5%E5%AE%89%E9%A9%9A%E5%96%9C%E5%90%88%E5%94%B1-%E5%8B%81%E8%88%9E15%E5%88%86%E9%90%98%E7%82%B8%E7%88%86%E8%88%9E%E5%8F%B0",
     "timestamp": "2026-04-09T16:18:18.565Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "給十九歲的我｜高先指獲學校授權國際發行　參展版本不包爭議部份",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20230128/696040711287476224362415.jpeg/WlPzQBFbx84ZpabdF4bBXj2o65jB2fjWEKLLHyqiyx8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60338773/%E7%B5%A6%E5%8D%81%E4%B9%9D%E6%AD%B2%E7%9A%84%E6%88%91-%E9%AB%98%E5%85%88%E6%8C%87%E7%8D%B2%E5%AD%B8%E6%A0%A1%E6%8E%88%E6%AC%8A%E5%9C%8B%E9%9A%9B%E7%99%BC%E8%A1%8C-%E5%8F%83%E5%B1%95%E7%89%88%E6%9C%AC%E4%B8%8D%E5%8C%85%E7%88%AD%E8%AD%B0%E9%83%A8%E4%BB%BD",
-    "timestamp": "2026-04-09T15:45:40.803Z",
     "strategy": ".content-card__main"
   }
 ];
