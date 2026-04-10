@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-10T12:05:59.548Z
+// Last updated: 2026-04-10T13:15:34.906Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "中美｢乒乓外交｣55周年　習近平發賀信籲兩國青年積極推動中美關係",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260114/1088150933889617920402563.jpeg/LHDzyDIspOZzjTMWra2KWCA8J44jt52FWdxr_Fnca_w?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60339123/%E4%B8%AD%E7%BE%8E-%E4%B9%92%E4%B9%93%E5%A4%96%E4%BA%A4-55%E5%91%A8%E5%B9%B4-%E7%BF%92%E8%BF%91%E5%B9%B3%E7%99%BC%E8%B3%80%E4%BF%A1%E7%B1%B2%E5%85%A9%E5%9C%8B%E9%9D%92%E5%B9%B4%E7%A9%8D%E6%A5%B5%E6%8E%A8%E5%8B%95%E4%B8%AD%E7%BE%8E%E9%97%9C%E4%BF%82",
+    "timestamp": "2026-04-10T13:15:34.906Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "歐聯｜佩比爾手球爭議　巴塞隆拿向歐洲足協上訴",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20230128/696040711287476224362415.jpeg/WlPzQBFbx84ZpabdF4bBXj2o65jB2fjWEKLLHyqiyx8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60338773/%E7%B5%A6%E5%8D%81%E4%B9%9D%E6%AD%B2%E7%9A%84%E6%88%91-%E9%AB%98%E5%85%88%E6%8C%87%E7%8D%B2%E5%AD%B8%E6%A0%A1%E6%8E%88%E6%AC%8A%E5%9C%8B%E9%9A%9B%E7%99%BC%E8%A1%8C-%E5%8F%83%E5%B1%95%E7%89%88%E6%9C%AC%E4%B8%8D%E5%8C%85%E7%88%AD%E8%AD%B0%E9%83%A8%E4%BB%BD",
     "timestamp": "2026-04-09T15:45:40.803Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "黎巴嫩累計1739死　歐盟倡納入停火範圍　伊朗：不拋棄黎巴嫩人民",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260409/1119011867532988416475629.jpeg/WB_Hp_w1PFv5H1viyLtJRW1-0P7DSY3iy82aisvNmoo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60338745/%E9%BB%8E%E5%B7%B4%E5%AB%A9%E7%B4%AF%E8%A8%881739%E6%AD%BB-%E6%AD%90%E7%9B%9F%E5%80%A1%E7%B4%8D%E5%85%A5%E5%81%9C%E7%81%AB%E7%AF%84%E5%9C%8D-%E4%BC%8A%E6%9C%97-%E4%B8%8D%E6%8B%8B%E6%A3%84%E9%BB%8E%E5%B7%B4%E5%AB%A9%E4%BA%BA%E6%B0%91",
-    "timestamp": "2026-04-09T12:46:11.690Z",
     "strategy": ".content-card__main"
   }
 ];
