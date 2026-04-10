@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-09T23:51:49.487Z
+// Last updated: 2026-04-10T01:47:07.801Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "觀塘38歲男子暈倒送院亡　兩周前曾患重感冒　死因有待確定",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20251114/1065879188155666432581049.jpeg/RuOlBu_hX1pLkf3xRyJnaTXGr29sIRzOu-d4eo7neHo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60338821/%E8%A7%80%E5%A1%9838%E6%AD%B2%E7%94%B7%E5%AD%90%E6%9A%88%E5%80%92%E9%80%81%E9%99%A2%E4%BA%A1-%E5%85%A9%E5%91%A8%E5%89%8D%E6%9B%BE%E6%82%A3%E9%87%8D%E6%84%9F%E5%86%92-%E6%AD%BB%E5%9B%A0%E6%9C%89%E5%BE%85%E7%A2%BA%E5%AE%9A",
+    "timestamp": "2026-04-10T01:47:07.801Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "張繼聰演唱會壓軸與農夫同台　未敢透露下一步︰組合入面我係三弟",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260409/1118908467017551872932650.jpeg/VYpreFQkiIVdTTWngBmHRgvLy7-V2Phf4Qy_quEMv6o?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60338592/%E6%B8%AF%E5%B3%B6%E5%81%9C%E9%9B%BB-%E6%95%B8%E9%96%93dse%E8%A9%A6%E5%A0%B4%E7%85%A7%E6%98%8E%E7%9F%AD%E6%9A%AB%E9%96%83%E7%88%8D%E6%88%96%E8%BD%89%E6%9A%97-%E8%80%83%E8%A9%95%E5%B1%80-%E6%B2%92%E5%BD%B1%E9%9F%BF%E8%80%83%E8%A9%A6",
     "timestamp": "2026-04-09T06:54:30.875Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "輝瑞寶潔齊聚　美中貿委會最高規模訪粵　廣東已成外企競爭大平台",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260409/1118852554189443072654927.jpeg/T4ip8gU21yFqh15mDGLPc86bD926fToQVjUCSlY1Ako?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60338454/%E8%BC%9D%E7%91%9E%E5%AF%B6%E6%BD%94%E9%BD%8A%E8%81%9A-%E7%BE%8E%E4%B8%AD%E8%B2%BF%E5%A7%94%E6%9C%83%E6%9C%80%E9%AB%98%E8%A6%8F%E6%A8%A1%E8%A8%AA%E7%B2%B5-%E5%BB%A3%E6%9D%B1%E5%B7%B2%E6%88%90%E5%A4%96%E4%BC%81%E7%AB%B6%E7%88%AD%E5%A4%A7%E5%B9%B3%E5%8F%B0",
-    "timestamp": "2026-04-09T06:09:28.483Z",
     "strategy": ".content-card__main"
   }
 ];
