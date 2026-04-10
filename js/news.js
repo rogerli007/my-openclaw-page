@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-10T10:16:35.935Z
+// Last updated: 2026-04-10T10:40:16.569Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "「Hold住姐」謝依霖赴大馬墮網騙　慘遭海關拒入境　崩潰嘆冤大頭",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260410/1119270731989913600408196.png/zL9vQh-7Epmm7FKkYrFmLsnKMIYJnrDdRNJvukTSb7o?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60338962/hold%E4%BD%8F%E5%A7%90-%E8%AC%9D%E4%BE%9D%E9%9C%96%E8%B5%B4%E5%A4%A7%E9%A6%AC%E5%A2%AE%E7%B6%B2%E9%A8%99-%E6%85%98%E9%81%AD%E6%B5%B7%E9%97%9C%E6%8B%92%E5%85%A5%E5%A2%83-%E5%B4%A9%E6%BD%B0%E5%98%86%E5%86%A4%E5%A4%A7%E9%A0%AD",
+    "timestamp": "2026-04-10T10:40:16.569Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "葵芳撞車黨？疑騙徒傳AI撞車假相道歉+做1件事　Tesla車主：恐怖",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250417/989406414021595136526730.jpeg/SF-FuWuHg9qbWHx77eQOKNFX4po-mhi94eoH7uHqB-4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%9C%8B%E9%9A%9B%E5%88%86%E6%9E%90/60338731/%E7%BE%8E%E4%BC%8A%E5%81%9C%E7%81%AB%E5%BD%B0%E9%A1%AF%E7%89%B9%E6%9C%97%E6%99%AE%E5%BC%8F-%E7%8B%82%E4%BA%BA%E7%AD%96%E7%95%A5-%E8%A2%AB%E8%BF%AB-%E9%99%AA%E7%98%8B-%E7%9A%84%E7%9B%9F%E5%8F%8B%E5%8F%8D%E6%9C%80%E5%82%B7",
     "timestamp": "2026-04-09T11:40:40.512Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "珍惜生命｜鰂魚涌南豐新邨男子墮樓　昏迷送院不治",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/2435872/org/e53c8860d2ac23f513a67b7f49aabf88.JPG/ZRWMNa8eFOj09Lz5-tnDwwHrxdCVEvh6s2xjorNsY6I?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60338705/%E7%8F%8D%E6%83%9C%E7%94%9F%E5%91%BD-%E9%B0%82%E9%AD%9A%E6%B6%8C%E5%8D%97%E8%B1%90%E6%96%B0%E9%82%A8%E7%94%B7%E5%AD%90%E5%A2%AE%E6%A8%93-%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2%E4%B8%8D%E6%B2%BB",
-    "timestamp": "2026-04-09T11:15:49.511Z",
     "strategy": ".content-card__main"
   }
 ];
