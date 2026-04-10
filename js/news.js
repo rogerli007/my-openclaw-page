@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-10T17:27:30.215Z
+// Last updated: 2026-04-10T18:29:40.011Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "iKKO MindOne Pro深度評測｜AI 語音翻譯功能打造高效辦公利器",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260411/1119446752416501760059163.jpeg/oruACaYtRM5dJR8oTqv9JemYiP6TH-QpSB69TUgevU0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60335750/ikko-mindone-pro%E6%B7%B1%E5%BA%A6%E8%A9%95%E6%B8%AC-ai-%E8%AA%9E%E9%9F%B3%E7%BF%BB%E8%AD%AF%E5%8A%9F%E8%83%BD%E6%89%93%E9%80%A0%E9%AB%98%E6%95%88%E8%BE%A6%E5%85%AC%E5%88%A9%E5%99%A8",
+    "timestamp": "2026-04-10T18:29:40.011Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美伊談判前夕　特朗普：世界上最強大重啟",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260410/1119142472459489280543109.jpeg/jOn_7tqdatIPfdvzukF2k7_3A81QxwZrKz9mdys_Znc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60338802/%E6%AD%90%E5%8D%94%E8%81%AF%E5%85%AB%E5%BC%B7%E9%A6%96%E5%9B%9E%E5%90%88-%E6%B0%B4%E6%99%B6%E5%AE%AE3-0%E5%8B%9D%E8%B2%BB%E5%80%AB%E5%A4%A9%E6%8B%BF",
     "timestamp": "2026-04-09T21:37:33.719Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "普京宣布東正教復活節暫時停火　籲烏克蘭仿照做法",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260410/1119127392879644672174823.jpeg/zcTgGn5AwP9S_ZxoU4FcMc8XKSXJ-1kcpz0556c9Oec?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60338800/%E6%99%AE%E4%BA%AC%E5%AE%A3%E5%B8%83%E6%9D%B1%E6%AD%A3%E6%95%99%E5%BE%A9%E6%B4%BB%E7%AF%80%E6%9A%AB%E6%99%82%E5%81%9C%E7%81%AB-%E7%B1%B2%E7%83%8F%E5%85%8B%E8%98%AD%E4%BB%BF%E7%85%A7%E5%81%9A%E6%B3%95",
-    "timestamp": "2026-04-09T21:07:56.576Z",
     "strategy": ".content-card__main"
   }
 ];
