@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-10T08:54:36.897Z
+// Last updated: 2026-04-10T09:42:11.632Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "女棋手與卡爾森對弈興奮邀自拍　棋王微笑合影　轉頭秒舉報其違規",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260410/1119286191326236672058379.png/S6XH204SeCzapEGXeb7dHxIKNHQtFf-qxdOUtcXTlLU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60338835/%E5%A5%B3%E6%A3%8B%E6%89%8B%E8%88%87%E5%8D%A1%E7%88%BE%E6%A3%AE%E5%B0%8D%E5%BC%88%E8%88%88%E5%A5%AE%E9%82%80%E8%87%AA%E6%8B%8D-%E6%A3%8B%E7%8E%8B%E5%BE%AE%E7%AC%91%E5%90%88%E5%BD%B1-%E8%BD%89%E9%A0%AD%E7%A7%92%E8%88%89%E5%A0%B1%E5%85%B6%E9%81%95%E8%A6%8F",
+    "timestamp": "2026-04-10T09:42:11.632Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "ESG丨ACCA建議加快首階段強制性有限核證實行",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260409/1118979532892672000865203.jpeg/YQEYDSRhGO6YbiPDulrfwgipAbPMjkXwdD0Fl3Q9BZc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E4%B8%80%E7%89%A9/60338477/montblanc%E5%B0%87%E5%8D%83%E5%B9%B4%E5%86%B0%E5%B7%9D%E8%88%87%E5%8F%A4%E6%9C%A8%E5%87%9D%E6%96%BC%E6%89%8B%E4%B8%AD-%E6%8E%A8%E5%87%BAiced-sea-0-oxygen%E8%85%95%E9%8C%B6",
     "timestamp": "2026-04-09T10:47:42.364Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "DSE｜中文教師稱寫作卷難度高、選材受限　「談說話」最能發揮",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260409/1118910474583412736580146.jpeg/cQUIcSFpmLCsx9S_w4YdxfHFh9HsmfEqruxAia7sQIk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60338660/dse-%E4%B8%AD%E6%96%87%E6%95%99%E5%B8%AB%E7%A8%B1%E5%AF%AB%E4%BD%9C%E5%8D%B7%E9%9B%A3%E5%BA%A6%E9%AB%98-%E9%81%B8%E6%9D%90%E5%8F%97%E9%99%90-%E8%AB%87%E8%AA%AA%E8%A9%B1-%E6%9C%80%E8%83%BD%E7%99%BC%E6%8F%AE",
-    "timestamp": "2026-04-09T10:16:07.749Z",
     "strategy": ".content-card__main"
   }
 ];
