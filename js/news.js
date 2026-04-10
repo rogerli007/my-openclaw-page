@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-10T09:42:11.632Z
+// Last updated: 2026-04-10T10:16:35.935Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "葵芳撞車黨？疑騙徒傳AI撞車假相道歉+做1件事　Tesla車主：恐怖",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260408/1118593385154744320328456.png/_f4XKkRL5Yd7cDh-UBprUe73RXq_Vc9zDFhJewxYSXs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60338252/%E8%91%B5%E8%8A%B3%E6%92%9E%E8%BB%8A%E9%BB%A8-%E7%96%91%E9%A8%99%E5%BE%92%E5%82%B3ai%E6%92%9E%E8%BB%8A%E5%81%87%E7%9B%B8%E9%81%93%E6%AD%89-%E5%81%9A1%E4%BB%B6%E4%BA%8B-tesla%E8%BB%8A%E4%B8%BB-%E6%81%90%E6%80%96",
+    "timestamp": "2026-04-10T10:16:35.935Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "女棋手與卡爾森對弈興奮邀自拍　棋王微笑合影　轉頭秒舉報其違規",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/2435872/org/e53c8860d2ac23f513a67b7f49aabf88.JPG/ZRWMNa8eFOj09Lz5-tnDwwHrxdCVEvh6s2xjorNsY6I?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60338705/%E7%8F%8D%E6%83%9C%E7%94%9F%E5%91%BD-%E9%B0%82%E9%AD%9A%E6%B6%8C%E5%8D%97%E8%B1%90%E6%96%B0%E9%82%A8%E7%94%B7%E5%AD%90%E5%A2%AE%E6%A8%93-%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2%E4%B8%8D%E6%B2%BB",
     "timestamp": "2026-04-09T11:15:49.511Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "MONTBLANC將千年冰川與古木凝於手中 推出Iced Sea 0 Oxygen腕錶",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260409/1118979532892672000865203.jpeg/YQEYDSRhGO6YbiPDulrfwgipAbPMjkXwdD0Fl3Q9BZc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E4%B8%80%E7%89%A9/60338477/montblanc%E5%B0%87%E5%8D%83%E5%B9%B4%E5%86%B0%E5%B7%9D%E8%88%87%E5%8F%A4%E6%9C%A8%E5%87%9D%E6%96%BC%E6%89%8B%E4%B8%AD-%E6%8E%A8%E5%87%BAiced-sea-0-oxygen%E8%85%95%E9%8C%B6",
-    "timestamp": "2026-04-09T10:47:42.364Z",
     "strategy": ".content-card__main"
   }
 ];
