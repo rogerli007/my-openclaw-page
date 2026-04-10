@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-10T08:18:11.732Z
+// Last updated: 2026-04-10T08:54:36.897Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "ESG丨ACCA建議加快首階段強制性有限核證實行",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260410/1119307637687586816510942.png/qFBUx93b4lB4rfj95GaEbOfnCzUkcmjTSm8xpEpvMaQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60339042/esg-acca%E5%BB%BA%E8%AD%B0%E5%8A%A0%E5%BF%AB%E9%A6%96%E9%9A%8E%E6%AE%B5%E5%BC%B7%E5%88%B6%E6%80%A7%E6%9C%89%E9%99%90%E6%A0%B8%E8%AD%89%E5%AF%A6%E8%A1%8C",
+    "timestamp": "2026-04-10T08:54:36.897Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "台灣人最愛10大香港傳統飲品！鴛鴦第5  奶茶第3　榜首唔係人人啱",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260409/1118910474583412736580146.jpeg/cQUIcSFpmLCsx9S_w4YdxfHFh9HsmfEqruxAia7sQIk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60338660/dse-%E4%B8%AD%E6%96%87%E6%95%99%E5%B8%AB%E7%A8%B1%E5%AF%AB%E4%BD%9C%E5%8D%B7%E9%9B%A3%E5%BA%A6%E9%AB%98-%E9%81%B8%E6%9D%90%E5%8F%97%E9%99%90-%E8%AB%87%E8%AA%AA%E8%A9%B1-%E6%9C%80%E8%83%BD%E7%99%BC%E6%8F%AE",
     "timestamp": "2026-04-09T10:16:07.749Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "中央出手反內捲　互聯網平台價格行為規則明起實施",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260409/1118964526176276480510496.jpeg/ijAj-7-dkCpGgRwJPn1oKrZYeZdeaezJU3QtH1N0LR8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60338686/%E4%B8%AD%E5%A4%AE%E5%87%BA%E6%89%8B%E5%8F%8D%E5%85%A7%E6%8D%B2-%E4%BA%92%E8%81%AF%E7%B6%B2%E5%B9%B3%E5%8F%B0%E5%83%B9%E6%A0%BC%E8%A1%8C%E7%82%BA%E8%A6%8F%E5%89%87%E6%98%8E%E8%B5%B7%E5%AF%A6%E6%96%BD",
-    "timestamp": "2026-04-09T09:45:02.375Z",
     "strategy": ".content-card__main"
   }
 ];
