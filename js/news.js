@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-11T21:02:03.309Z
+// Last updated: 2026-04-11T21:20:03.213Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "深水埗單位住戶疑燒衣惹火　2人吸濃煙不適送院",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260412/1119843059845042176312754.jpeg/Cwi6eKXtAg02v9vJANObWETdnbp59tuS9kDy_NxA8vw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60339335/%E6%B7%B1%E6%B0%B4%E5%9F%97%E5%96%AE%E4%BD%8D%E4%BD%8F%E6%88%B6%E7%96%91%E7%87%92%E8%A1%A3%E6%83%B9%E7%81%AB-2%E4%BA%BA%E5%90%B8%E6%BF%83%E7%85%99%E4%B8%8D%E9%81%A9%E9%80%81%E9%99%A2",
+    "timestamp": "2026-04-11T21:20:03.213Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "深水埗單位住戶疑燒衣惹火　2人吸濃煙不適送院",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250220/969336678286102528289475.jpeg/Ui7zHezw-6prFsBiFKmNEw6__1OG-XTg7hbM0NQWzNA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60339294/%E5%BC%B5%E6%95%AC%E8%BB%92%E4%BB%BB%E4%BF%9D%E5%AE%89%E5%B1%80%E6%AD%A3%E5%90%91%E9%A0%85%E7%9B%AE%E5%B0%8E%E5%B8%AB-%E4%BD%95%E6%95%AC%E5%BA%B7%E5%8A%9B%E6%92%90-%E6%AF%8F%E5%80%8B%E4%BA%BA%E9%83%BD%E6%9C%89%E9%81%8E%E5%8E%BB",
     "timestamp": "2026-04-11T10:20:08.344Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美孚呈祥道P牌私家車疑失控自炒　車頭盡毁4人受傷拒送院",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260411/1119690735633829888896254.jpeg/XfSlO1hM9V18sRYygaHu34mpncNGoMfZXilZeF4pWXg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60339289/%E7%BE%8E%E5%AD%9A%E5%91%88%E7%A5%A5%E9%81%93p%E7%89%8C%E7%A7%81%E5%AE%B6%E8%BB%8A%E7%96%91%E5%A4%B1%E6%8E%A7%E8%87%AA%E7%82%92-%E8%BB%8A%E9%A0%AD%E7%9B%A1%E6%AF%814%E4%BA%BA%E5%8F%97%E5%82%B7%E6%8B%92%E9%80%81%E9%99%A2",
-    "timestamp": "2026-04-11T09:52:08.324Z",
     "strategy": ".content-card__main"
   }
 ];
