@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-11T11:18:18.233Z
+// Last updated: 2026-04-11T11:37:03.803Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "巴基斯坦軍機抵沙特阿拉伯　財長同日訪伊斯蘭堡",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260411/1119716254333014016361049.jpeg/xgPUmfHjEvjlqUv8D6oXVn5rEkfjNMegtFggnLRYIJw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60339307/%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E8%BB%8D%E6%A9%9F%E6%8A%B5%E6%B2%99%E7%89%B9%E9%98%BF%E6%8B%89%E4%BC%AF-%E8%B2%A1%E9%95%B7%E5%90%8C%E6%97%A5%E8%A8%AA%E4%BC%8A%E6%96%AF%E8%98%AD%E5%A0%A1",
+    "timestamp": "2026-04-11T11:37:03.803Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "習近平鄭麗文握手14秒　回顧胡連會：北京正重塑兩岸關係？｜有片",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260407/1118128242490871808350176.jpeg/Cogl8TFsOnzpjIBFyVccmD9uajgu1xgQO4zLmjuMy5o?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60339175/%E7%89%B9%E6%9C%97%E6%99%AE-%E7%BE%8E%E5%9C%8B%E7%82%BA%E8%BB%8D%E8%89%A6%E8%A3%9D%E5%A1%AB%E7%B2%BE%E8%89%AF%E5%BD%88%E8%97%A5-%E4%BB%A5%E5%82%99%E8%88%87%E4%BC%8A%E6%9C%97%E8%AB%87%E5%88%A4%E5%A4%B1%E6%95%97",
     "timestamp": "2026-04-10T21:52:06.836Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "傳世茂許榮茂25億沽中環中心6層　大業主星展買呼聲高",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20241105/930528192521834496162498.jpeg/bxh4gzIV7BuclsFF03hRuoHm96OoewkbV_PHVFfzx1Q?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60339125/%E5%82%B3%E4%B8%96%E8%8C%82%E8%A8%B1%E6%A6%AE%E8%8C%8225%E5%84%84%E6%B2%BD%E4%B8%AD%E7%92%B0%E4%B8%AD%E5%BF%836%E5%B1%A4-%E5%A4%A7%E6%A5%AD%E4%B8%BB%E6%98%9F%E5%B1%95%E8%B2%B7%E5%91%BC%E8%81%B2%E9%AB%98",
-    "timestamp": "2026-04-10T21:21:26.066Z",
     "strategy": ".content-card__main"
   }
 ];
