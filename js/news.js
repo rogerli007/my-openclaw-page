@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-11T11:59:36.073Z
+// Last updated: 2026-04-11T12:23:43.129Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "警辦嘉年華推廣人寵共融及道路安全　逾600市民攜毛孩參與",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260411/1119727110483611648724305.jpeg/D1fH6dwNrDjUX_jpzK5Wm1k38Gsjkm9f-HItWvhyLVo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60339310/%E8%AD%A6%E8%BE%A6%E5%98%89%E5%B9%B4%E8%8F%AF%E6%8E%A8%E5%BB%A3%E4%BA%BA%E5%AF%B5%E5%85%B1%E8%9E%8D%E5%8F%8A%E9%81%93%E8%B7%AF%E5%AE%89%E5%85%A8-%E9%80%BE600%E5%B8%82%E6%B0%91%E6%94%9C%E6%AF%9B%E5%AD%A9%E5%8F%83%E8%88%87",
+    "timestamp": "2026-04-11T12:23:43.129Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "傳海南12歲童吸毒後偷開平治　至少輾斃3人包括2兒童　車底全是血",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260114/1088122675324260352059418.jpeg/4CYxngRhkbH3mX6mtMBmRGbkpinabthiUvlyCVL5cgk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60339178/michael-burry%E6%96%B0%E5%BB%BA%E5%80%89%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4-%E5%8A%A0%E7%A2%BC%E4%BA%AC%E6%9D%B1-%E5%A2%9E%E5%8A%A0%E6%B2%BD%E7%A9%BAnvidia",
     "timestamp": "2026-04-10T22:55:04.334Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "【星之谷】賣樓冇簽正約連累新樓按揭 換樓客兩招自救",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260410/1119354864640462848495261.jpeg/g-htnMhmHX10AGBnJ7G1smTba7rDLD-A_yyp9P8sqfQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60338859/%E6%98%9F%E4%B9%8B%E8%B0%B7-%E8%B3%A3%E6%A8%93%E5%86%87%E7%B0%BD%E6%AD%A3%E7%B4%84%E9%80%A3%E7%B4%AF%E6%96%B0%E6%A8%93%E6%8C%89%E6%8F%AD-%E6%8F%9B%E6%A8%93%E5%AE%A2%E5%85%A9%E6%8B%9B%E8%87%AA%E6%95%91",
-    "timestamp": "2026-04-10T22:21:15.293Z",
     "strategy": ".content-card__main"
   }
 ];
