@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-11T06:15:34.037Z
+// Last updated: 2026-04-11T07:40:47.657Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "印尼新人婚禮回禮竟送盒裝「染色活小雞」　惹全網怒轟虐待動物",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260410/1119325156754329600093267.png/l4S4X_KOemiHyN8yl0eNL-Q6hc0QDFW5EPp1bxD6dW8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60338836/%E5%8D%B0%E5%B0%BC%E6%96%B0%E4%BA%BA%E5%A9%9A%E7%A6%AE%E5%9B%9E%E7%A6%AE%E7%AB%9F%E9%80%81%E7%9B%92%E8%A3%9D-%E6%9F%93%E8%89%B2%E6%B4%BB%E5%B0%8F%E9%9B%9E-%E6%83%B9%E5%85%A8%E7%B6%B2%E6%80%92%E8%BD%9F%E8%99%90%E5%BE%85%E5%8B%95%E7%89%A9",
+    "timestamp": "2026-04-11T07:40:47.657Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "連續九日落雨！抽濕機﹑浴室寶　教你全方位家電乾衣對策",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260408/1118656270534971392871342.jpeg/rP6yQMtof3xmgyECp4GtGDjVZX9u_gWUA9h06gPYdOo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60339165/%E7%BE%8E%E4%BC%8A%E8%AB%87%E5%88%A4%E5%89%8D%E5%A4%95-%E7%89%B9%E6%9C%97%E6%99%AE-%E4%B8%96%E7%95%8C%E4%B8%8A%E6%9C%80%E5%BC%B7%E5%A4%A7%E9%87%8D%E5%95%9F",
     "timestamp": "2026-04-10T17:27:30.215Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "「娛樂新聞台主持」鍾翠詩忽然性感！　夏天未到搶閘曬噴血比堅尼",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260410/1119295972640296960321604.jpeg/PoZQ7UvsXzXf7BwQO9HY6vBhLiyPevGCh9rIEofayBI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60338994/%E5%A8%9B%E6%A8%82%E6%96%B0%E8%81%9E%E5%8F%B0%E4%B8%BB%E6%8C%81-%E9%8D%BE%E7%BF%A0%E8%A9%A9%E5%BF%BD%E7%84%B6%E6%80%A7%E6%84%9F-%E5%A4%8F%E5%A4%A9%E6%9C%AA%E5%88%B0%E6%90%B6%E9%96%98%E6%9B%AC%E5%99%B4%E8%A1%80%E6%AF%94%E5%A0%85%E5%B0%BC",
-    "timestamp": "2026-04-10T16:29:11.326Z",
     "strategy": ".content-card__main"
   }
 ];
