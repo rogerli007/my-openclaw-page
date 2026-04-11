@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-11T14:22:54.952Z
+// Last updated: 2026-04-11T14:52:17.943Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "MIRROR缺二姜濤不適早走　軒公unfollow陳卓賢不知情：有我份㗎？",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260411/1119762080711315456289374.jpeg/LpGAnw4a0eDvxJsz0KAnYqVFhFedhmdqu_cnh7v3J4c?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60339321/mirror%E7%BC%BA%E4%BA%8C%E5%A7%9C%E6%BF%A4%E4%B8%8D%E9%81%A9%E6%97%A9%E8%B5%B0-%E8%BB%92%E5%85%ACunfollow%E9%99%B3%E5%8D%93%E8%B3%A2%E4%B8%8D%E7%9F%A5%E6%83%85-%E6%9C%89%E6%88%91%E4%BB%BD%E3%97%8E",
+    "timestamp": "2026-04-11T14:52:17.943Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "六合彩4.14頭獎$1800萬｜6個最旺號碼+2招增中獎機會",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20210408/456959339777757184245709.jpeg/yBXqXJTlH2LiaDIWmNB9ITrwMT9E8S3ZgNKIfYDSiH0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60339197/%E6%85%88%E9%9B%B2%E5%B1%B1%E4%B8%80%E5%B0%8F%E6%99%82%E5%85%A7%E5%85%A9%E5%AE%97%E7%B8%B1%E7%81%AB-%E6%85%88%E5%BA%B7%E9%82%A8%E6%85%88%E6%A8%82%E9%82%A8%E5%A4%A7%E5%BB%88%E5%91%8A%E7%A4%BA%E8%A2%AB%E7%87%92%E7%84%A6",
     "timestamp": "2026-04-11T02:24:30.816Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "青馬大橋奪命車禍︱貨車撞爆軚寶馬釀1死3傷　司機涉危駕被捕",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260411/1119558447084343296810657.jpeg/v1cy5Y3oKXl3Kg6Nnl_oihzQthjNwDD4Zhhi12YYYtc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60339183/%E9%9D%92%E9%A6%AC%E5%A4%A7%E6%A9%8B%E5%A5%AA%E5%91%BD%E8%BB%8A%E7%A6%8D-%E8%B2%A8%E8%BB%8A%E6%92%9E%E7%88%86%E8%BB%9A%E5%AF%B6%E9%A6%AC%E9%87%801%E6%AD%BB3%E5%82%B7-%E5%8F%B8%E6%A9%9F%E6%B6%89%E5%8D%B1%E9%A7%95%E8%A2%AB%E6%8D%95",
-    "timestamp": "2026-04-11T01:23:40.955Z",
     "strategy": ".content-card__main"
   }
 ];
