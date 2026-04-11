@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-11T11:37:03.803Z
+// Last updated: 2026-04-11T11:59:36.073Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "傳海南12歲童吸毒後偷開平治　至少輾斃3人包括2兒童　車底全是血",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260411/1119698482232299520620583.jpeg/KyBjxsu7a1COb4n7O7zHSqFf5Chf_2U2kF1z_JBdc_w?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60339296/%E5%82%B3%E6%B5%B7%E5%8D%9712%E6%AD%B2%E7%AB%A5%E5%90%B8%E6%AF%92%E5%BE%8C%E5%81%B7%E9%96%8B%E5%B9%B3%E6%B2%BB-%E8%87%B3%E5%B0%91%E8%BC%BE%E6%96%833%E4%BA%BA%E5%8C%85%E6%8B%AC2%E5%85%92%E7%AB%A5-%E8%BB%8A%E5%BA%95%E5%85%A8%E6%98%AF%E8%A1%80",
+    "timestamp": "2026-04-11T11:59:36.073Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "巴基斯坦軍機抵沙特阿拉伯　財長同日訪伊斯蘭堡",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260410/1119354864640462848495261.jpeg/g-htnMhmHX10AGBnJ7G1smTba7rDLD-A_yyp9P8sqfQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60338859/%E6%98%9F%E4%B9%8B%E8%B0%B7-%E8%B3%A3%E6%A8%93%E5%86%87%E7%B0%BD%E6%AD%A3%E7%B4%84%E9%80%A3%E7%B4%AF%E6%96%B0%E6%A8%93%E6%8C%89%E6%8F%AD-%E6%8F%9B%E6%A8%93%E5%AE%A2%E5%85%A9%E6%8B%9B%E8%87%AA%E6%95%91",
     "timestamp": "2026-04-10T22:21:15.293Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普：美國為軍艦裝填精良彈藥　以備與伊朗談判失敗",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260407/1118128242490871808350176.jpeg/Cogl8TFsOnzpjIBFyVccmD9uajgu1xgQO4zLmjuMy5o?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60339175/%E7%89%B9%E6%9C%97%E6%99%AE-%E7%BE%8E%E5%9C%8B%E7%82%BA%E8%BB%8D%E8%89%A6%E8%A3%9D%E5%A1%AB%E7%B2%BE%E8%89%AF%E5%BD%88%E8%97%A5-%E4%BB%A5%E5%82%99%E8%88%87%E4%BC%8A%E6%9C%97%E8%AB%87%E5%88%A4%E5%A4%B1%E6%95%97",
-    "timestamp": "2026-04-10T21:52:06.836Z",
     "strategy": ".content-card__main"
   }
 ];
