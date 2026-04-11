@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-11T14:52:17.943Z
+// Last updated: 2026-04-11T15:37:33.237Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "中年4丨企鵝人周志康為索妻慶生曬全家福　26歲結婚人工全交老婆",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260411/1119736015108444160235198.png/EpX0auzUtX7wTFrmhg73C95pyH-9VqAsY2gAl2NoAJc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60339299/%E4%B8%AD%E5%B9%B44-%E4%BC%81%E9%B5%9D%E4%BA%BA%E5%91%A8%E5%BF%97%E5%BA%B7%E7%82%BA%E7%B4%A2%E5%A6%BB%E6%85%B6%E7%94%9F%E6%9B%AC%E5%85%A8%E5%AE%B6%E7%A6%8F-26%E6%AD%B2%E7%B5%90%E5%A9%9A%E4%BA%BA%E5%B7%A5%E5%85%A8%E4%BA%A4%E8%80%81%E5%A9%86",
+    "timestamp": "2026-04-11T15:37:33.237Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "MIRROR缺二姜濤不適早走　軒公unfollow陳卓賢不知情：有我份㗎？",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260411/1119482516294602752897052.jpeg/-WO1efAfeWZUMrB5pl3a9z3rqaciLw7YAR6DzDseg8w?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60339172/%E7%9B%A7%E5%BB%A3%E4%BB%B2%E6%BC%94%E5%94%B1%E6%9C%83%E9%A9%9A%E5%96%9C%E5%94%B1-%E6%96%B9%E5%A4%A7%E5%90%8C%E7%B5%84%E6%9B%B2-%E9%A6%96%E5%A0%B4%E5%B7%B2%E7%B6%93encore%E5%85%A9%E6%AC%A1%E6%BB%BF%E8%B6%B3%E6%AD%8C%E8%BF%B7",
     "timestamp": "2026-04-11T03:32:48.024Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "慈雲山一小時內兩宗縱火　慈康邨慈樂邨大廈告示被燒焦",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20210408/456959339777757184245709.jpeg/yBXqXJTlH2LiaDIWmNB9ITrwMT9E8S3ZgNKIfYDSiH0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60339197/%E6%85%88%E9%9B%B2%E5%B1%B1%E4%B8%80%E5%B0%8F%E6%99%82%E5%85%A7%E5%85%A9%E5%AE%97%E7%B8%B1%E7%81%AB-%E6%85%88%E5%BA%B7%E9%82%A8%E6%85%88%E6%A8%82%E9%82%A8%E5%A4%A7%E5%BB%88%E5%91%8A%E7%A4%BA%E8%A2%AB%E7%87%92%E7%84%A6",
-    "timestamp": "2026-04-11T02:24:30.816Z",
     "strategy": ".content-card__main"
   }
 ];
