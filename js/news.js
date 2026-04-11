@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-11T02:24:30.816Z
+// Last updated: 2026-04-11T03:32:48.024Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "盧廣仲演唱會驚喜唱「方大同組曲」　首場已經encore兩次滿足歌迷",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260411/1119482516294602752897052.jpeg/-WO1efAfeWZUMrB5pl3a9z3rqaciLw7YAR6DzDseg8w?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60339172/%E7%9B%A7%E5%BB%A3%E4%BB%B2%E6%BC%94%E5%94%B1%E6%9C%83%E9%A9%9A%E5%96%9C%E5%94%B1-%E6%96%B9%E5%A4%A7%E5%90%8C%E7%B5%84%E6%9B%B2-%E9%A6%96%E5%A0%B4%E5%B7%B2%E7%B6%93encore%E5%85%A9%E6%AC%A1%E6%BB%BF%E8%B6%B3%E6%AD%8C%E8%BF%B7",
+    "timestamp": "2026-04-11T03:32:48.024Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "慈雲山一小時內兩宗縱火　慈康邨慈樂邨大廈告示被燒焦",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260114/1088150933889617920402563.jpeg/LHDzyDIspOZzjTMWra2KWCA8J44jt52FWdxr_Fnca_w?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60339123/%E4%B8%AD%E7%BE%8E-%E4%B9%92%E4%B9%93%E5%A4%96%E4%BA%A4-55%E5%91%A8%E5%B9%B4-%E7%BF%92%E8%BF%91%E5%B9%B3%E7%99%BC%E8%B3%80%E4%BF%A1%E7%B1%B2%E5%85%A9%E5%9C%8B%E9%9D%92%E5%B9%B4%E7%A9%8D%E6%A5%B5%E6%8E%A8%E5%8B%95%E4%B8%AD%E7%BE%8E%E9%97%9C%E4%BF%82",
     "timestamp": "2026-04-10T13:15:34.906Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "歐聯｜佩比爾手球爭議　巴塞隆拿向歐洲足協上訴",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260410/1119302516006195200951673.png/6QHpgVzt-ObeRqavNH-C6pOUmIbPZE3gvjK0Tb4ytE0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60339016/%E6%AD%90%E8%81%AF-%E4%BD%A9%E6%AF%94%E7%88%BE%E6%89%8B%E7%90%83%E7%88%AD%E8%AD%B0-%E5%B7%B4%E5%A1%9E%E9%9A%86%E6%8B%BF%E5%90%91%E6%AD%90%E6%B4%B2%E8%B6%B3%E5%8D%94%E4%B8%8A%E8%A8%B4",
-    "timestamp": "2026-04-10T12:05:59.548Z",
     "strategy": ".content-card__main"
   }
 ];
