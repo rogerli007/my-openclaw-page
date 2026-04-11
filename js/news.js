@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-11T05:13:27.009Z
+// Last updated: 2026-04-11T05:47:21.863Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "謝天華路人視角生圖流出一下子蒼老憔悴　網民慨嘆歲月不饒人",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260411/1119613443020689408419536.jpeg/vcPzemB_xUo4pjvFHTDHKJDrk2ppgNrIWyz-Xlss_l4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60339224/%E8%AC%9D%E5%A4%A9%E8%8F%AF%E8%B7%AF%E4%BA%BA%E8%A6%96%E8%A7%92%E7%94%9F%E5%9C%96%E6%B5%81%E5%87%BA%E4%B8%80%E4%B8%8B%E5%AD%90%E8%92%BC%E8%80%81%E6%86%94%E6%82%B4-%E7%B6%B2%E6%B0%91%E6%85%A8%E5%98%86%E6%AD%B2%E6%9C%88%E4%B8%8D%E9%A5%92%E4%BA%BA",
+    "timestamp": "2026-04-11T05:47:21.863Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "港男台灣二手市集行騙　假Y-3鞋換真Supreme帽　受害人夥女兒智擒",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260410/1119348489143193600410356.jpeg/ECG10ElcaGe3fOmF7bGDY3h3uWOBhMkrECkyWSopMlk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60339117/%E6%B3%B0%E5%9C%8B%E7%94%B7%E7%A5%9E-mario-maurer-%E6%97%8B%E9%A2%A8%E5%BC%8F%E8%A5%B2%E6%B8%AF-%E5%A4%A7%E8%AB%87%E5%86%92%E9%9A%AA%E5%BF%83%E6%B3%95%E5%8E%BB%E9%A6%99%E6%B8%AF%E6%B5%B7%E7%81%98%E5%8F%89%E9%9B%BB",
     "timestamp": "2026-04-10T14:33:49.539Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "夏寶龍半個月內第二度調研大灣區　至少6名香港主要官員北上陪同",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260410/1119385664446533632564379.jpeg/TgzUEUDIH6hEhcKvCO9P0WJ7lAyGqffq8RFCnfERQp0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60339144/%E5%A4%8F%E5%AF%B6%E9%BE%8D%E5%8D%8A%E5%80%8B%E6%9C%88%E5%85%A7%E7%AC%AC%E4%BA%8C%E5%BA%A6%E8%AA%BF%E7%A0%94%E5%A4%A7%E7%81%A3%E5%8D%80-%E8%87%B3%E5%B0%916%E5%90%8D%E9%A6%99%E6%B8%AF%E4%B8%BB%E8%A6%81%E5%AE%98%E5%93%A1%E5%8C%97%E4%B8%8A%E9%99%AA%E5%90%8C",
-    "timestamp": "2026-04-10T13:54:46.267Z",
     "strategy": ".content-card__main"
   }
 ];
