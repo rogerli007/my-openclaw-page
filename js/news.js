@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-11T19:49:28.459Z
+// Last updated: 2026-04-11T20:03:22.129Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "深水埗單位住戶疑燒衣惹火　2人吸濃煙不適送院",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260412/1119843059845042176312754.jpeg/Cwi6eKXtAg02v9vJANObWETdnbp59tuS9kDy_NxA8vw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60339335/%E6%B7%B1%E6%B0%B4%E5%9F%97%E5%96%AE%E4%BD%8D%E4%BD%8F%E6%88%B6%E7%96%91%E7%87%92%E8%A1%A3%E6%83%B9%E7%81%AB-2%E4%BA%BA%E5%90%B8%E6%BF%83%E7%85%99%E4%B8%8D%E9%81%A9%E9%80%81%E9%99%A2",
+    "timestamp": "2026-04-11T20:03:22.129Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "伊美即將舉行第三輪會談　霍爾木茲海峽成「膠着點」",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260411/1119674892086677504045923.png/qt5OBJzy3fVgmsIziLZjapOH64bjNy8TQqKkwUKipME?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60339270/%E7%BE%8E%E5%9C%8B%E6%93%AC%E5%BB%BA250%E5%B0%BA-%E6%96%B0%E5%87%B1%E6%97%8B%E9%96%80-%E6%85%B6%E7%A5%9D%E5%BB%BA%E5%9C%8B-%E8%BC%83%E6%B3%95%E5%9C%8B%E5%9C%B0%E6%A8%99%E9%AB%98%E8%BF%91%E7%99%BE%E5%B0%BA",
     "timestamp": "2026-04-11T08:56:35.919Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "習鄭會｜台灣成談判焦點？美媒：北京試圖動搖美國保台決心",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20251031/1061041558163427328390472.jpeg/dnnadK-Ua_ppk6pjkbb1GZmYY5CUXGEzB9bvEgfW7xI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8F%B0%E7%81%A3%E6%96%B0%E8%81%9E/60339257/%E7%BF%92%E9%84%AD%E6%9C%83-%E5%8F%B0%E7%81%A3%E6%88%90%E8%AB%87%E5%88%A4%E7%84%A6%E9%BB%9E-%E7%BE%8E%E5%AA%92-%E5%8C%97%E4%BA%AC%E8%A9%A6%E5%9C%96%E5%8B%95%E6%90%96%E7%BE%8E%E5%9C%8B%E4%BF%9D%E5%8F%B0%E6%B1%BA%E5%BF%83",
-    "timestamp": "2026-04-11T08:32:46.626Z",
     "strategy": ".content-card__main"
   }
 ];
