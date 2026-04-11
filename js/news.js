@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-11T07:40:47.657Z
+// Last updated: 2026-04-11T08:05:11.341Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "李在明轉載舊片當新聞惹以色列批評　再反擊無心反省",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260402/1116223968307580928124830.jpeg/6D-sOOitvtPAcbLSdyqETXZENfs1LEyJYIsV2mCLFdo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60339263/%E6%9D%8E%E5%9C%A8%E6%98%8E%E8%BD%89%E8%BC%89%E8%88%8A%E7%89%87%E7%95%B6%E6%96%B0%E8%81%9E%E6%83%B9%E4%BB%A5%E8%89%B2%E5%88%97%E6%89%B9%E8%A9%95-%E5%86%8D%E5%8F%8D%E6%93%8A%E7%84%A1%E5%BF%83%E5%8F%8D%E7%9C%81",
+    "timestamp": "2026-04-11T08:05:11.341Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "印尼新人婚禮回禮竟送盒裝「染色活小雞」　惹全網怒轟虐待動物",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260411/1119446752416501760059163.jpeg/oruACaYtRM5dJR8oTqv9JemYiP6TH-QpSB69TUgevU0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60335750/ikko-mindone-pro%E6%B7%B1%E5%BA%A6%E8%A9%95%E6%B8%AC-ai-%E8%AA%9E%E9%9F%B3%E7%BF%BB%E8%AD%AF%E5%8A%9F%E8%83%BD%E6%89%93%E9%80%A0%E9%AB%98%E6%95%88%E8%BE%A6%E5%85%AC%E5%88%A9%E5%99%A8",
     "timestamp": "2026-04-10T18:29:40.011Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美伊談判前夕　特朗普：世界上最強大重啟",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260408/1118656270534971392871342.jpeg/rP6yQMtof3xmgyECp4GtGDjVZX9u_gWUA9h06gPYdOo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60339165/%E7%BE%8E%E4%BC%8A%E8%AB%87%E5%88%A4%E5%89%8D%E5%A4%95-%E7%89%B9%E6%9C%97%E6%99%AE-%E4%B8%96%E7%95%8C%E4%B8%8A%E6%9C%80%E5%BC%B7%E5%A4%A7%E9%87%8D%E5%95%9F",
-    "timestamp": "2026-04-10T17:27:30.215Z",
     "strategy": ".content-card__main"
   }
 ];
