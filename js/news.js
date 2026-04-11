@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-11T00:48:43.944Z
+// Last updated: 2026-04-11T01:23:40.955Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "青馬大橋奪命車禍︱貨車撞爆軚寶馬釀1死3傷　司機涉危駕被捕",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260411/1119558447084343296810657.jpeg/v1cy5Y3oKXl3Kg6Nnl_oihzQthjNwDD4Zhhi12YYYtc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60339183/%E9%9D%92%E9%A6%AC%E5%A4%A7%E6%A9%8B%E5%A5%AA%E5%91%BD%E8%BB%8A%E7%A6%8D-%E8%B2%A8%E8%BB%8A%E6%92%9E%E7%88%86%E8%BB%9A%E5%AF%B6%E9%A6%AC%E9%87%801%E6%AD%BB3%E5%82%B7-%E5%8F%B8%E6%A9%9F%E6%B6%89%E5%8D%B1%E9%A7%95%E8%A2%AB%E6%8D%95",
+    "timestamp": "2026-04-11T01:23:40.955Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "有片︱男子講電話扮取外賣徘徊餐廳　順手牽羊偷走外賣飯盒",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260326/1113895156781682688047395.jpeg/Po3zY9kUvALxukK4CQzVO4TA3CZgFNVelSqzD5Uqsw8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%AB%87%E6%83%85%E8%AA%AA%E6%80%A7/60334580/%E6%84%9B%E6%83%85%E5%BF%83%E6%B8%AC-%E4%BD%A0%E7%9A%84%E6%88%80%E6%83%85%E7%82%BA%E4%BD%95%E7%B8%BD%E6%98%AF%E4%B8%8D%E9%A0%86-%E9%81%B81%E5%80%8B%E6%9C%80%E4%B8%8D%E6%84%9B%E9%A1%8F%E8%89%B2%E6%B8%AC%E8%A9%B2%E6%80%8E%E9%BA%BC%E8%AA%BF%E6%95%B4",
     "timestamp": "2026-04-10T11:38:08.320Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "「Hold住姐」謝依霖赴大馬墮網騙　慘遭海關拒入境　崩潰嘆冤大頭",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260410/1119270731989913600408196.png/zL9vQh-7Epmm7FKkYrFmLsnKMIYJnrDdRNJvukTSb7o?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60338962/hold%E4%BD%8F%E5%A7%90-%E8%AC%9D%E4%BE%9D%E9%9C%96%E8%B5%B4%E5%A4%A7%E9%A6%AC%E5%A2%AE%E7%B6%B2%E9%A8%99-%E6%85%98%E9%81%AD%E6%B5%B7%E9%97%9C%E6%8B%92%E5%85%A5%E5%A2%83-%E5%B4%A9%E6%BD%B0%E5%98%86%E5%86%A4%E5%A4%A7%E9%A0%AD",
-    "timestamp": "2026-04-10T10:40:16.569Z",
     "strategy": ".content-card__main"
   }
 ];
