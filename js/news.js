@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-11T23:20:46.772Z
+// Last updated: 2026-04-11T23:51:15.677Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "珍惜生命︱柴灣女子疑跳橋輕生　當場不治",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260412/1119896595882577920571480.jpeg/cvU4CEEeSZwEs6v9QX6n0_H5X4DYX6Z8xmxuTuxsbk4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60339339/%E7%8F%8D%E6%83%9C%E7%94%9F%E5%91%BD-%E6%9F%B4%E7%81%A3%E5%A5%B3%E5%AD%90%E7%96%91%E8%B7%B3%E6%A9%8B%E8%BC%95%E7%94%9F-%E7%95%B6%E5%A0%B4%E4%B8%8D%E6%B2%BB",
+    "timestamp": "2026-04-11T23:51:15.677Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "特朗普：中國若運送武器給伊朗　將面臨大問題",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20251108/1063946896650801152834512.jpeg/oy7PzVnmKC3CNgd8bXPknyKQYEfirao1okVxiaJFcYk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60339325/%E5%85%AD%E5%90%88%E5%BD%A94-14%E9%A0%AD%E7%8D%8E-1800%E8%90%AC-6%E5%80%8B%E6%9C%80%E6%97%BA%E8%99%9F%E7%A2%BC-2%E6%8B%9B%E5%A2%9E%E4%B8%AD%E7%8D%8E%E6%A9%9F%E6%9C%83",
     "timestamp": "2026-04-11T14:22:54.952Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "中國衛星全程直擊　全球最大冰山A23a徹底崩解「縮至35平方公里」",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260411/1119699195339476992296501.png/e0_3QqD3NknUifiNhyND637dFeDGdWdgnRI-3Z0SPt0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60339302/%E4%B8%AD%E5%9C%8B%E8%A1%9B%E6%98%9F%E5%85%A8%E7%A8%8B%E7%9B%B4%E6%93%8A-%E5%85%A8%E7%90%83%E6%9C%80%E5%A4%A7%E5%86%B0%E5%B1%B1a23a%E5%BE%B9%E5%BA%95%E5%B4%A9%E8%A7%A3-%E7%B8%AE%E8%87%B335%E5%B9%B3%E6%96%B9%E5%85%AC%E9%87%8C",
-    "timestamp": "2026-04-11T13:58:57.355Z",
     "strategy": ".content-card__main"
   }
 ];
