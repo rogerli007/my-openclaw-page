@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-11T03:32:48.024Z
+// Last updated: 2026-04-11T05:13:27.009Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "港男台灣二手市集行騙　假Y-3鞋換真Supreme帽　受害人夥女兒智擒",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260411/1119589849729339392602375.jpeg/BminDvqqc6gCTLvg5Ng8SEO931C4v7NIZOOSfGTjknw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8F%B0%E7%81%A3%E6%96%B0%E8%81%9E/60339208/%E6%B8%AF%E7%94%B7%E5%8F%B0%E7%81%A3%E4%BA%8C%E6%89%8B%E5%B8%82%E9%9B%86%E8%A1%8C%E9%A8%99-%E5%81%87y-3%E9%9E%8B%E6%8F%9B%E7%9C%9Fsupreme%E5%B8%BD-%E5%8F%97%E5%AE%B3%E4%BA%BA%E5%A4%A5%E5%A5%B3%E5%85%92%E6%99%BA%E6%93%92",
+    "timestamp": "2026-04-11T05:13:27.009Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "盧廣仲演唱會驚喜唱「方大同組曲」　首場已經encore兩次滿足歌迷",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260410/1119385664446533632564379.jpeg/TgzUEUDIH6hEhcKvCO9P0WJ7lAyGqffq8RFCnfERQp0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60339144/%E5%A4%8F%E5%AF%B6%E9%BE%8D%E5%8D%8A%E5%80%8B%E6%9C%88%E5%85%A7%E7%AC%AC%E4%BA%8C%E5%BA%A6%E8%AA%BF%E7%A0%94%E5%A4%A7%E7%81%A3%E5%8D%80-%E8%87%B3%E5%B0%916%E5%90%8D%E9%A6%99%E6%B8%AF%E4%B8%BB%E8%A6%81%E5%AE%98%E5%93%A1%E5%8C%97%E4%B8%8A%E9%99%AA%E5%90%8C",
     "timestamp": "2026-04-10T13:54:46.267Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "中美｢乒乓外交｣55周年　習近平發賀信籲兩國青年積極推動中美關係",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260114/1088150933889617920402563.jpeg/LHDzyDIspOZzjTMWra2KWCA8J44jt52FWdxr_Fnca_w?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60339123/%E4%B8%AD%E7%BE%8E-%E4%B9%92%E4%B9%93%E5%A4%96%E4%BA%A4-55%E5%91%A8%E5%B9%B4-%E7%BF%92%E8%BF%91%E5%B9%B3%E7%99%BC%E8%B3%80%E4%BF%A1%E7%B1%B2%E5%85%A9%E5%9C%8B%E9%9D%92%E5%B9%B4%E7%A9%8D%E6%A5%B5%E6%8E%A8%E5%8B%95%E4%B8%AD%E7%BE%8E%E9%97%9C%E4%BF%82",
-    "timestamp": "2026-04-10T13:15:34.906Z",
     "strategy": ".content-card__main"
   }
 ];
