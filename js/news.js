@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-11T13:58:57.355Z
+// Last updated: 2026-04-11T14:22:54.952Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "六合彩4.14頭獎$1800萬｜6個最旺號碼+2招增中獎機會",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20251108/1063946896650801152834512.jpeg/oy7PzVnmKC3CNgd8bXPknyKQYEfirao1okVxiaJFcYk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60339325/%E5%85%AD%E5%90%88%E5%BD%A94-14%E9%A0%AD%E7%8D%8E-1800%E8%90%AC-6%E5%80%8B%E6%9C%80%E6%97%BA%E8%99%9F%E7%A2%BC-2%E6%8B%9B%E5%A2%9E%E4%B8%AD%E7%8D%8E%E6%A9%9F%E6%9C%83",
+    "timestamp": "2026-04-11T14:22:54.952Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "中國衛星全程直擊　全球最大冰山A23a徹底崩解「縮至35平方公里」",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260411/1119558447084343296810657.jpeg/v1cy5Y3oKXl3Kg6Nnl_oihzQthjNwDD4Zhhi12YYYtc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60339183/%E9%9D%92%E9%A6%AC%E5%A4%A7%E6%A9%8B%E5%A5%AA%E5%91%BD%E8%BB%8A%E7%A6%8D-%E8%B2%A8%E8%BB%8A%E6%92%9E%E7%88%86%E8%BB%9A%E5%AF%B6%E9%A6%AC%E9%87%801%E6%AD%BB3%E5%82%B7-%E5%8F%B8%E6%A9%9F%E6%B6%89%E5%8D%B1%E9%A7%95%E8%A2%AB%E6%8D%95",
     "timestamp": "2026-04-11T01:23:40.955Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "有片︱男子講電話扮取外賣徘徊餐廳　順手牽羊偷走外賣飯盒",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260411/1119550193885253632821490.jpeg/hRaXSRgh5FTrooU0vZ4trm1jsYzrWMcPu_awPLv2sDw",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60339182/%E6%9C%89%E7%89%87-%E7%94%B7%E5%AD%90%E8%AC%9B%E9%9B%BB%E8%A9%B1%E6%89%AE%E5%8F%96%E5%A4%96%E8%B3%A3%E5%BE%98%E5%BE%8A%E9%A4%90%E5%BB%B3-%E9%A0%86%E6%89%8B%E7%89%BD%E7%BE%8A%E5%81%B7%E8%B5%B0%E5%A4%96%E8%B3%A3%E9%A3%AF%E7%9B%92",
-    "timestamp": "2026-04-11T00:48:43.944Z",
     "strategy": ".content-card__main"
   }
 ];
