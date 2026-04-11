@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-11T10:20:08.344Z
+// Last updated: 2026-04-11T11:18:18.233Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "習近平鄭麗文握手14秒　回顧胡連會：北京正重塑兩岸關係？｜有片",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260410/1119375524435595264590184.jpeg/sTBHwXtgQoa22gPmYjhfz-Gze963kmOov-Z2GL_mdhg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60339134/%E7%BF%92%E8%BF%91%E5%B9%B3%E9%84%AD%E9%BA%97%E6%96%87%E6%8F%A1%E6%89%8B14%E7%A7%92-%E5%9B%9E%E9%A1%A7%E8%83%A1%E9%80%A3%E6%9C%83-%E5%8C%97%E4%BA%AC%E6%AD%A3%E9%87%8D%E5%A1%91%E5%85%A9%E5%B2%B8%E9%97%9C%E4%BF%82-%E6%9C%89%E7%89%87",
+    "timestamp": "2026-04-11T11:18:18.233Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "張敬軒任保安局正向項目導師　何敬康力撐：每個人都有過去",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20241105/930528192521834496162498.jpeg/bxh4gzIV7BuclsFF03hRuoHm96OoewkbV_PHVFfzx1Q?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60339125/%E5%82%B3%E4%B8%96%E8%8C%82%E8%A8%B1%E6%A6%AE%E8%8C%8225%E5%84%84%E6%B2%BD%E4%B8%AD%E7%92%B0%E4%B8%AD%E5%BF%836%E5%B1%A4-%E5%A4%A7%E6%A5%AD%E4%B8%BB%E6%98%9F%E5%B1%95%E8%B2%B7%E5%91%BC%E8%81%B2%E9%AB%98",
     "timestamp": "2026-04-10T21:21:26.066Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美伊談判前　伊朗代表團抵達　伊斯蘭堡戒備森嚴",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260411/1119487152271396864497368.jpeg/U7BDkMcGgG3qDN-xsO3hF5NLMnura2Xo2fGFA9nxhQM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60339173/%E7%BE%8E%E4%BC%8A%E8%AB%87%E5%88%A4%E5%89%8D-%E4%BC%8A%E6%9C%97%E4%BB%A3%E8%A1%A8%E5%9C%98%E6%8A%B5%E9%81%94-%E4%BC%8A%E6%96%AF%E8%98%AD%E5%A0%A1%E6%88%92%E5%82%99%E6%A3%AE%E5%9A%B4",
-    "timestamp": "2026-04-10T20:53:52.526Z",
     "strategy": ".content-card__main"
   }
 ];
