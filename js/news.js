@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-11T18:52:49.794Z
+// Last updated: 2026-04-11T19:25:29.613Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美國紐約地鐵站持刀傷人　1死3傷",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260412/1119831114521776128416298.jpeg/RuFAGA6S448hN5NnGbIli63YODlwjJuD7qEez-6hHs8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60339333/%E7%BE%8E%E5%9C%8B%E7%B4%90%E7%B4%84%E5%9C%B0%E9%90%B5%E7%AB%99%E6%8C%81%E5%88%80%E5%82%B7%E4%BA%BA-1%E6%AD%BB3%E5%82%B7",
+    "timestamp": "2026-04-11T19:25:29.613Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "英超｜利物浦2:0擊敗富咸",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260402/1116223968307580928124830.jpeg/6D-sOOitvtPAcbLSdyqETXZENfs1LEyJYIsV2mCLFdo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60339263/%E6%9D%8E%E5%9C%A8%E6%98%8E%E8%BD%89%E8%BC%89%E8%88%8A%E7%89%87%E7%95%B6%E6%96%B0%E8%81%9E%E6%83%B9%E4%BB%A5%E8%89%B2%E5%88%97%E6%89%B9%E8%A9%95-%E5%86%8D%E5%8F%8D%E6%93%8A%E7%84%A1%E5%BF%83%E5%8F%8D%E7%9C%81",
     "timestamp": "2026-04-11T08:05:11.341Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "印尼新人婚禮回禮竟送盒裝「染色活小雞」　惹全網怒轟虐待動物",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260410/1119325156754329600093267.png/l4S4X_KOemiHyN8yl0eNL-Q6hc0QDFW5EPp1bxD6dW8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60338836/%E5%8D%B0%E5%B0%BC%E6%96%B0%E4%BA%BA%E5%A9%9A%E7%A6%AE%E5%9B%9E%E7%A6%AE%E7%AB%9F%E9%80%81%E7%9B%92%E8%A3%9D-%E6%9F%93%E8%89%B2%E6%B4%BB%E5%B0%8F%E9%9B%9E-%E6%83%B9%E5%85%A8%E7%B6%B2%E6%80%92%E8%BD%9F%E8%99%90%E5%BE%85%E5%8B%95%E7%89%A9",
-    "timestamp": "2026-04-11T07:40:47.657Z",
     "strategy": ".content-card__main"
   }
 ];
