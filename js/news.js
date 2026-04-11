@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-11T08:32:46.626Z
+// Last updated: 2026-04-11T08:56:35.919Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美國擬建250尺「新凱旋門」慶祝建國　較法國地標高近百尺",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260411/1119674892086677504045923.png/qt5OBJzy3fVgmsIziLZjapOH64bjNy8TQqKkwUKipME?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60339270/%E7%BE%8E%E5%9C%8B%E6%93%AC%E5%BB%BA250%E5%B0%BA-%E6%96%B0%E5%87%B1%E6%97%8B%E9%96%80-%E6%85%B6%E7%A5%9D%E5%BB%BA%E5%9C%8B-%E8%BC%83%E6%B3%95%E5%9C%8B%E5%9C%B0%E6%A8%99%E9%AB%98%E8%BF%91%E7%99%BE%E5%B0%BA",
+    "timestamp": "2026-04-11T08:56:35.919Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "習鄭會｜台灣成談判焦點？美媒：北京試圖動搖美國保台決心",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260411/1119446752416501760059163.jpeg/oruACaYtRM5dJR8oTqv9JemYiP6TH-QpSB69TUgevU0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60335750/ikko-mindone-pro%E6%B7%B1%E5%BA%A6%E8%A9%95%E6%B8%AC-ai-%E8%AA%9E%E9%9F%B3%E7%BF%BB%E8%AD%AF%E5%8A%9F%E8%83%BD%E6%89%93%E9%80%A0%E9%AB%98%E6%95%88%E8%BE%A6%E5%85%AC%E5%88%A9%E5%99%A8",
     "timestamp": "2026-04-10T19:30:26.461Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "iKKO MindOne Pro深度評測｜AI 語音翻譯功能打造高效辦公利器",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260411/1119446752416501760059163.jpeg/oruACaYtRM5dJR8oTqv9JemYiP6TH-QpSB69TUgevU0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60335750/ikko-mindone-pro%E6%B7%B1%E5%BA%A6%E8%A9%95%E6%B8%AC-ai-%E8%AA%9E%E9%9F%B3%E7%BF%BB%E8%AD%AF%E5%8A%9F%E8%83%BD%E6%89%93%E9%80%A0%E9%AB%98%E6%95%88%E8%BE%A6%E5%85%AC%E5%88%A9%E5%99%A8",
-    "timestamp": "2026-04-10T18:53:56.769Z",
     "strategy": ".content-card__main"
   }
 ];
