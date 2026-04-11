@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-11T13:33:04.002Z
+// Last updated: 2026-04-11T13:58:57.355Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "中國衛星全程直擊　全球最大冰山A23a徹底崩解「縮至35平方公里」",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260411/1119699195339476992296501.png/e0_3QqD3NknUifiNhyND637dFeDGdWdgnRI-3Z0SPt0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60339302/%E4%B8%AD%E5%9C%8B%E8%A1%9B%E6%98%9F%E5%85%A8%E7%A8%8B%E7%9B%B4%E6%93%8A-%E5%85%A8%E7%90%83%E6%9C%80%E5%A4%A7%E5%86%B0%E5%B1%B1a23a%E5%BE%B9%E5%BA%95%E5%B4%A9%E8%A7%A3-%E7%B8%AE%E8%87%B335%E5%B9%B3%E6%96%B9%E5%85%AC%E9%87%8C",
+    "timestamp": "2026-04-11T13:58:57.355Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "英超｜阿仙奴主場輸波　領先曼城9分打多2場　下仗碰頭演爭標大戰",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260411/1119550193885253632821490.jpeg/hRaXSRgh5FTrooU0vZ4trm1jsYzrWMcPu_awPLv2sDw",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60339182/%E6%9C%89%E7%89%87-%E7%94%B7%E5%AD%90%E8%AC%9B%E9%9B%BB%E8%A9%B1%E6%89%AE%E5%8F%96%E5%A4%96%E8%B3%A3%E5%BE%98%E5%BE%8A%E9%A4%90%E5%BB%B3-%E9%A0%86%E6%89%8B%E7%89%BD%E7%BE%8A%E5%81%B7%E8%B5%B0%E5%A4%96%E8%B3%A3%E9%A3%AF%E7%9B%92",
     "timestamp": "2026-04-11T00:48:43.944Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "泰3歲童被虐死！母稱兒病發驗屍揭腹腔積血腸破裂　20歲繼父被捕",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260411/1119428265463779328735084.png/xqdfY2sixHjYWK3y7esgMDN15pLrbeOefa-1lH2vtZQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E8%A9%B1%E9%A1%8C/60338917/%E6%B3%B03%E6%AD%B2%E7%AB%A5%E8%A2%AB%E8%99%90%E6%AD%BB-%E6%AF%8D%E7%A8%B1%E5%85%92%E7%97%85%E7%99%BC%E9%A9%97%E5%B1%8D%E6%8F%AD%E8%85%B9%E8%85%94%E7%A9%8D%E8%A1%80%E8%85%B8%E7%A0%B4%E8%A3%82-20%E6%AD%B2%E7%B9%BC%E7%88%B6%E8%A2%AB%E6%8D%95",
-    "timestamp": "2026-04-10T23:51:26.972Z",
     "strategy": ".content-card__main"
   }
 ];
