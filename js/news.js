@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-11T22:00:53.373Z
+// Last updated: 2026-04-11T22:17:52.424Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美伊馬拉松式談判至凌晨　美媒：萬斯卡利巴夫握手　氣氛和諧平靜",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260412/1119877024949735424982036.jpeg/Av90CVh7BU9q5YRf1TNjt3xNuvfmn4N7edsbCHnbGwg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60339336/%E7%BE%8E%E4%BC%8A%E9%A6%AC%E6%8B%89%E6%9D%BE%E5%BC%8F%E8%AB%87%E5%88%A4%E8%87%B3%E5%87%8C%E6%99%A8-%E7%BE%8E%E5%AA%92-%E8%90%AC%E6%96%AF%E5%8D%A1%E5%88%A9%E5%B7%B4%E5%A4%AB%E6%8F%A1%E6%89%8B-%E6%B0%A3%E6%B0%9B%E5%92%8C%E8%AB%A7%E5%B9%B3%E9%9D%9C",
+    "timestamp": "2026-04-11T22:17:52.424Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "深水埗單位住戶疑燒衣惹火　2人吸濃煙不適送院",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260411/1119698482232299520620583.jpeg/KyBjxsu7a1COb4n7O7zHSqFf5Chf_2U2kF1z_JBdc_w?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60339296/%E5%82%B3%E6%B5%B7%E5%8D%9712%E6%AD%B2%E7%AB%A5%E5%90%B8%E6%AF%92%E5%BE%8C%E5%81%B7%E9%96%8B%E5%B9%B3%E6%B2%BB-%E8%87%B3%E5%B0%91%E8%BC%BE%E6%96%833%E4%BA%BA%E5%8C%85%E6%8B%AC2%E5%85%92%E7%AB%A5-%E8%BB%8A%E5%BA%95%E5%85%A8%E6%98%AF%E8%A1%80",
     "timestamp": "2026-04-11T11:59:36.073Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "巴基斯坦軍機抵沙特阿拉伯　財長同日訪伊斯蘭堡",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260411/1119716254333014016361049.jpeg/xgPUmfHjEvjlqUv8D6oXVn5rEkfjNMegtFggnLRYIJw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60339307/%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E8%BB%8D%E6%A9%9F%E6%8A%B5%E6%B2%99%E7%89%B9%E9%98%BF%E6%8B%89%E4%BC%AF-%E8%B2%A1%E9%95%B7%E5%90%8C%E6%97%A5%E8%A8%AA%E4%BC%8A%E6%96%AF%E8%98%AD%E5%A0%A1",
-    "timestamp": "2026-04-11T11:37:03.803Z",
     "strategy": ".content-card__main"
   }
 ];
