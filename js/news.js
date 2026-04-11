@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-11T22:35:17.462Z
+// Last updated: 2026-04-11T23:02:26.531Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "單季提價44.61%！稀土雙巨頭的底氣是什麼？|拆局",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260412/1119892328681574400091263.jpeg/aumSCr4j8ZHcA76w_EkwGIOCMuuxNQXAVB-xIVQfsSE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60339337/%E5%96%AE%E5%AD%A3%E6%8F%90%E5%83%B944-61-%E7%A8%80%E5%9C%9F%E9%9B%99%E5%B7%A8%E9%A0%AD%E7%9A%84%E5%BA%95%E6%B0%A3%E6%98%AF%E4%BB%80%E9%BA%BC-%E6%8B%86%E5%B1%80",
+    "timestamp": "2026-04-11T23:02:26.531Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美伊馬拉松式談判至凌晨　美媒：萬斯卡利巴夫握手　氣氛和諧平靜",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260411/1119747493614063616914260.jpeg/wynSK0JWlzk-F_DWhSWNoj6h5PkZpAjT3oSkeN6EpHg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60339298/%E8%8B%B1%E8%B6%85-%E9%98%BF%E4%BB%99%E5%A5%B4%E4%B8%BB%E5%A0%B4%E8%BC%B8%E6%B3%A2-%E9%A0%98%E5%85%88%E6%9B%BC%E5%9F%8E9%E5%88%86%E6%89%93%E5%A4%9A2%E5%A0%B4-%E4%B8%8B%E4%BB%97%E7%A2%B0%E9%A0%AD%E6%BC%94%E7%88%AD%E6%A8%99%E5%A4%A7%E6%88%B0",
     "timestamp": "2026-04-11T13:33:04.002Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "警辦嘉年華推廣人寵共融及道路安全　逾600市民攜毛孩參與",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260411/1119727110483611648724305.jpeg/D1fH6dwNrDjUX_jpzK5Wm1k38Gsjkm9f-HItWvhyLVo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60339310/%E8%AD%A6%E8%BE%A6%E5%98%89%E5%B9%B4%E8%8F%AF%E6%8E%A8%E5%BB%A3%E4%BA%BA%E5%AF%B5%E5%85%B1%E8%9E%8D%E5%8F%8A%E9%81%93%E8%B7%AF%E5%AE%89%E5%85%A8-%E9%80%BE600%E5%B8%82%E6%B0%91%E6%94%9C%E6%AF%9B%E5%AD%A9%E5%8F%83%E8%88%87",
-    "timestamp": "2026-04-11T12:23:43.129Z",
     "strategy": ".content-card__main"
   }
 ];
