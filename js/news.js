@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-11T23:02:26.531Z
+// Last updated: 2026-04-11T23:20:46.772Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "特朗普：中國若運送武器給伊朗　將面臨大問題",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260401/1115894791003967488671049.jpeg/Ug_mWmDm6aZ8rrYaaEt_S5d2V3VDt6JkO-nf8zvp3_M?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60339338/%E7%89%B9%E6%9C%97%E6%99%AE-%E4%B8%AD%E5%9C%8B%E8%8B%A5%E9%81%8B%E9%80%81%E6%AD%A6%E5%99%A8%E7%B5%A6%E4%BC%8A%E6%9C%97-%E5%B0%87%E9%9D%A2%E8%87%A8%E5%A4%A7%E5%95%8F%E9%A1%8C",
+    "timestamp": "2026-04-11T23:20:46.772Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "單季提價44.61%！稀土雙巨頭的底氣是什麼？|拆局",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260411/1119699195339476992296501.png/e0_3QqD3NknUifiNhyND637dFeDGdWdgnRI-3Z0SPt0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60339302/%E4%B8%AD%E5%9C%8B%E8%A1%9B%E6%98%9F%E5%85%A8%E7%A8%8B%E7%9B%B4%E6%93%8A-%E5%85%A8%E7%90%83%E6%9C%80%E5%A4%A7%E5%86%B0%E5%B1%B1a23a%E5%BE%B9%E5%BA%95%E5%B4%A9%E8%A7%A3-%E7%B8%AE%E8%87%B335%E5%B9%B3%E6%96%B9%E5%85%AC%E9%87%8C",
     "timestamp": "2026-04-11T13:58:57.355Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "英超｜阿仙奴主場輸波　領先曼城9分打多2場　下仗碰頭演爭標大戰",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260411/1119747493614063616914260.jpeg/wynSK0JWlzk-F_DWhSWNoj6h5PkZpAjT3oSkeN6EpHg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60339298/%E8%8B%B1%E8%B6%85-%E9%98%BF%E4%BB%99%E5%A5%B4%E4%B8%BB%E5%A0%B4%E8%BC%B8%E6%B3%A2-%E9%A0%98%E5%85%88%E6%9B%BC%E5%9F%8E9%E5%88%86%E6%89%93%E5%A4%9A2%E5%A0%B4-%E4%B8%8B%E4%BB%97%E7%A2%B0%E9%A0%AD%E6%BC%94%E7%88%AD%E6%A8%99%E5%A4%A7%E6%88%B0",
-    "timestamp": "2026-04-11T13:33:04.002Z",
     "strategy": ".content-card__main"
   }
 ];
