@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-10T23:51:26.972Z
+// Last updated: 2026-04-11T00:48:43.944Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "有片︱男子講電話扮取外賣徘徊餐廳　順手牽羊偷走外賣飯盒",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260411/1119550193885253632821490.jpeg/hRaXSRgh5FTrooU0vZ4trm1jsYzrWMcPu_awPLv2sDw",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60339182/%E6%9C%89%E7%89%87-%E7%94%B7%E5%AD%90%E8%AC%9B%E9%9B%BB%E8%A9%B1%E6%89%AE%E5%8F%96%E5%A4%96%E8%B3%A3%E5%BE%98%E5%BE%8A%E9%A4%90%E5%BB%B3-%E9%A0%86%E6%89%8B%E7%89%BD%E7%BE%8A%E5%81%B7%E8%B5%B0%E5%A4%96%E8%B3%A3%E9%A3%AF%E7%9B%92",
+    "timestamp": "2026-04-11T00:48:43.944Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "泰3歲童被虐死！母稱兒病發驗屍揭腹腔積血腸破裂　20歲繼父被捕",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260410/1119270731989913600408196.png/zL9vQh-7Epmm7FKkYrFmLsnKMIYJnrDdRNJvukTSb7o?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60338962/hold%E4%BD%8F%E5%A7%90-%E8%AC%9D%E4%BE%9D%E9%9C%96%E8%B5%B4%E5%A4%A7%E9%A6%AC%E5%A2%AE%E7%B6%B2%E9%A8%99-%E6%85%98%E9%81%AD%E6%B5%B7%E9%97%9C%E6%8B%92%E5%85%A5%E5%A2%83-%E5%B4%A9%E6%BD%B0%E5%98%86%E5%86%A4%E5%A4%A7%E9%A0%AD",
     "timestamp": "2026-04-10T10:40:16.569Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "葵芳撞車黨？疑騙徒傳AI撞車假相道歉+做1件事　Tesla車主：恐怖",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260408/1118593385154744320328456.png/_f4XKkRL5Yd7cDh-UBprUe73RXq_Vc9zDFhJewxYSXs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60338252/%E8%91%B5%E8%8A%B3%E6%92%9E%E8%BB%8A%E9%BB%A8-%E7%96%91%E9%A8%99%E5%BE%92%E5%82%B3ai%E6%92%9E%E8%BB%8A%E5%81%87%E7%9B%B8%E9%81%93%E6%AD%89-%E5%81%9A1%E4%BB%B6%E4%BA%8B-tesla%E8%BB%8A%E4%B8%BB-%E6%81%90%E6%80%96",
-    "timestamp": "2026-04-10T10:16:35.935Z",
     "strategy": ".content-card__main"
   }
 ];
