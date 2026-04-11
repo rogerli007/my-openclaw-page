@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-11T09:52:08.324Z
+// Last updated: 2026-04-11T10:20:08.344Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "張敬軒任保安局正向項目導師　何敬康力撐：每個人都有過去",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250220/969336678286102528289475.jpeg/Ui7zHezw-6prFsBiFKmNEw6__1OG-XTg7hbM0NQWzNA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60339294/%E5%BC%B5%E6%95%AC%E8%BB%92%E4%BB%BB%E4%BF%9D%E5%AE%89%E5%B1%80%E6%AD%A3%E5%90%91%E9%A0%85%E7%9B%AE%E5%B0%8E%E5%B8%AB-%E4%BD%95%E6%95%AC%E5%BA%B7%E5%8A%9B%E6%92%90-%E6%AF%8F%E5%80%8B%E4%BA%BA%E9%83%BD%E6%9C%89%E9%81%8E%E5%8E%BB",
+    "timestamp": "2026-04-11T10:20:08.344Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美孚呈祥道P牌私家車疑失控自炒　車頭盡毁4人受傷拒送院",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260411/1119487152271396864497368.jpeg/U7BDkMcGgG3qDN-xsO3hF5NLMnura2Xo2fGFA9nxhQM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60339173/%E7%BE%8E%E4%BC%8A%E8%AB%87%E5%88%A4%E5%89%8D-%E4%BC%8A%E6%9C%97%E4%BB%A3%E8%A1%A8%E5%9C%98%E6%8A%B5%E9%81%94-%E4%BC%8A%E6%96%AF%E8%98%AD%E5%A0%A1%E6%88%92%E5%82%99%E6%A3%AE%E5%9A%B4",
     "timestamp": "2026-04-10T20:53:52.526Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美伊談判前　伊朗代表團抵達　伊斯蘭堡戒備森嚴",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260411/1119487152271396864497368.jpeg/U7BDkMcGgG3qDN-xsO3hF5NLMnura2Xo2fGFA9nxhQM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60339173/%E7%BE%8E%E4%BC%8A%E8%AB%87%E5%88%A4%E5%89%8D-%E4%BC%8A%E6%9C%97%E4%BB%A3%E8%A1%A8%E5%9C%98%E6%8A%B5%E9%81%94-%E4%BC%8A%E6%96%AF%E8%98%AD%E5%A0%A1%E6%88%92%E5%82%99%E6%A3%AE%E5%9A%B4",
-    "timestamp": "2026-04-10T20:20:21.148Z",
     "strategy": ".content-card__main"
   }
 ];
