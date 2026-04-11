@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-11T20:19:23.989Z
+// Last updated: 2026-04-11T21:02:03.309Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "深水埗單位住戶疑燒衣惹火　2人吸濃煙不適送院",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260412/1119843059845042176312754.jpeg/Cwi6eKXtAg02v9vJANObWETdnbp59tuS9kDy_NxA8vw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60339335/%E6%B7%B1%E6%B0%B4%E5%9F%97%E5%96%AE%E4%BD%8D%E4%BD%8F%E6%88%B6%E7%96%91%E7%87%92%E8%A1%A3%E6%83%B9%E7%81%AB-2%E4%BA%BA%E5%90%B8%E6%BF%83%E7%85%99%E4%B8%8D%E9%81%A9%E9%80%81%E9%99%A2",
+    "timestamp": "2026-04-11T21:02:03.309Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "深水埗單位住戶疑燒衣惹火　2人吸濃煙不適送院",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260411/1119690735633829888896254.jpeg/XfSlO1hM9V18sRYygaHu34mpncNGoMfZXilZeF4pWXg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60339289/%E7%BE%8E%E5%AD%9A%E5%91%88%E7%A5%A5%E9%81%93p%E7%89%8C%E7%A7%81%E5%AE%B6%E8%BB%8A%E7%96%91%E5%A4%B1%E6%8E%A7%E8%87%AA%E7%82%92-%E8%BB%8A%E9%A0%AD%E7%9B%A1%E6%AF%814%E4%BA%BA%E5%8F%97%E5%82%B7%E6%8B%92%E9%80%81%E9%99%A2",
     "timestamp": "2026-04-11T09:52:08.324Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "訪中關村尋台灣產業新支柱　鄭麗文獲贈機械手　坦言想去深圳看看",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260411/1119671747314978816396582.jpeg/69PsMEKZqbZksuU19gG0gfn8L8AcwCU6kAobc5AKG3M?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60339275/%E8%A8%AA%E4%B8%AD%E9%97%9C%E6%9D%91%E5%B0%8B%E5%8F%B0%E7%81%A3%E7%94%A2%E6%A5%AD%E6%96%B0%E6%94%AF%E6%9F%B1-%E9%84%AD%E9%BA%97%E6%96%87%E7%8D%B2%E8%B4%88%E6%A9%9F%E6%A2%B0%E6%89%8B-%E5%9D%A6%E8%A8%80%E6%83%B3%E5%8E%BB%E6%B7%B1%E5%9C%B3%E7%9C%8B%E7%9C%8B",
-    "timestamp": "2026-04-11T09:23:56.929Z",
     "strategy": ".content-card__main"
   }
 ];
