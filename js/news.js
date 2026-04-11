@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-11T19:25:29.613Z
+// Last updated: 2026-04-11T19:49:28.459Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "伊美即將舉行第三輪會談　霍爾木茲海峽成「膠着點」",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260408/1118657510518034432821745.jpeg/G5iOacsywIHqQS3fjj8DgT5TOI9AKyvdhUW4WYVFuFk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60339334/%E4%BC%8A%E7%BE%8E%E5%8D%B3%E5%B0%87%E8%88%89%E8%A1%8C%E7%AC%AC%E4%B8%89%E8%BC%AA%E6%9C%83%E8%AB%87-%E9%9C%8D%E7%88%BE%E6%9C%A8%E8%8C%B2%E6%B5%B7%E5%B3%BD%E6%88%90-%E8%86%A0%E7%9D%80%E9%BB%9E",
+    "timestamp": "2026-04-11T19:49:28.459Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美國紐約地鐵站持刀傷人　1死3傷",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20251031/1061041558163427328390472.jpeg/dnnadK-Ua_ppk6pjkbb1GZmYY5CUXGEzB9bvEgfW7xI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8F%B0%E7%81%A3%E6%96%B0%E8%81%9E/60339257/%E7%BF%92%E9%84%AD%E6%9C%83-%E5%8F%B0%E7%81%A3%E6%88%90%E8%AB%87%E5%88%A4%E7%84%A6%E9%BB%9E-%E7%BE%8E%E5%AA%92-%E5%8C%97%E4%BA%AC%E8%A9%A6%E5%9C%96%E5%8B%95%E6%90%96%E7%BE%8E%E5%9C%8B%E4%BF%9D%E5%8F%B0%E6%B1%BA%E5%BF%83",
     "timestamp": "2026-04-11T08:32:46.626Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "李在明轉載舊片當新聞惹以色列批評　再反擊無心反省",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260402/1116223968307580928124830.jpeg/6D-sOOitvtPAcbLSdyqETXZENfs1LEyJYIsV2mCLFdo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60339263/%E6%9D%8E%E5%9C%A8%E6%98%8E%E8%BD%89%E8%BC%89%E8%88%8A%E7%89%87%E7%95%B6%E6%96%B0%E8%81%9E%E6%83%B9%E4%BB%A5%E8%89%B2%E5%88%97%E6%89%B9%E8%A9%95-%E5%86%8D%E5%8F%8D%E6%93%8A%E7%84%A1%E5%BF%83%E5%8F%8D%E7%9C%81",
-    "timestamp": "2026-04-11T08:05:11.341Z",
     "strategy": ".content-card__main"
   }
 ];
