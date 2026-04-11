@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-11T21:20:03.213Z
+// Last updated: 2026-04-11T21:38:01.564Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "深水埗單位住戶疑燒衣惹火　2人吸濃煙不適送院",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260412/1119871511046393856938462.jpeg/kpocOmCUslZAisbGLkgrAf2D88lQIK9-8EQi9PBEIvQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60339335/%E6%B7%B1%E6%B0%B4%E5%9F%97%E5%96%AE%E4%BD%8D%E4%BD%8F%E6%88%B6%E7%96%91%E7%87%92%E8%A1%A3%E6%83%B9%E7%81%AB-2%E4%BA%BA%E5%90%B8%E6%BF%83%E7%85%99%E4%B8%8D%E9%81%A9%E9%80%81%E9%99%A2",
+    "timestamp": "2026-04-11T21:38:01.564Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "深水埗單位住戶疑燒衣惹火　2人吸濃煙不適送院",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260410/1119375524435595264590184.jpeg/sTBHwXtgQoa22gPmYjhfz-Gze963kmOov-Z2GL_mdhg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60339134/%E7%BF%92%E8%BF%91%E5%B9%B3%E9%84%AD%E9%BA%97%E6%96%87%E6%8F%A1%E6%89%8B14%E7%A7%92-%E5%9B%9E%E9%A1%A7%E8%83%A1%E9%80%A3%E6%9C%83-%E5%8C%97%E4%BA%AC%E6%AD%A3%E9%87%8D%E5%A1%91%E5%85%A9%E5%B2%B8%E9%97%9C%E4%BF%82-%E6%9C%89%E7%89%87",
     "timestamp": "2026-04-11T11:18:18.233Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "張敬軒任保安局正向項目導師　何敬康力撐：每個人都有過去",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250220/969336678286102528289475.jpeg/Ui7zHezw-6prFsBiFKmNEw6__1OG-XTg7hbM0NQWzNA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60339294/%E5%BC%B5%E6%95%AC%E8%BB%92%E4%BB%BB%E4%BF%9D%E5%AE%89%E5%B1%80%E6%AD%A3%E5%90%91%E9%A0%85%E7%9B%AE%E5%B0%8E%E5%B8%AB-%E4%BD%95%E6%95%AC%E5%BA%B7%E5%8A%9B%E6%92%90-%E6%AF%8F%E5%80%8B%E4%BA%BA%E9%83%BD%E6%9C%89%E9%81%8E%E5%8E%BB",
-    "timestamp": "2026-04-11T10:20:08.344Z",
     "strategy": ".content-card__main"
   }
 ];
