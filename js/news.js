@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-11T17:19:23.185Z
+// Last updated: 2026-04-11T18:23:15.250Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "特朗普：開始清除水雷　美國2艦艇穿過霍爾木茲海峽",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260407/1117999102920364032790526.jpeg/Qg7R5M97u-H7wwaVNelG5FBJvD6pcqj8_AdsQPwHbEA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60339328/%E7%89%B9%E6%9C%97%E6%99%AE-%E9%96%8B%E5%A7%8B%E6%B8%85%E9%99%A4%E6%B0%B4%E9%9B%B7-%E7%BE%8E%E5%9C%8B2%E8%89%A6%E8%89%87%E7%A9%BF%E9%81%8E%E9%9C%8D%E7%88%BE%E6%9C%A8%E8%8C%B2%E6%B5%B7%E5%B3%BD",
+    "timestamp": "2026-04-11T18:23:15.250Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "特朗普：開始清除水雷　美國2艦艇穿過霍爾木茲海峽",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260401/1115928640454922240023175.jpeg/8idJTX4B6imhWYKoz0WELjx7lJwa9JA_n1ANCZ9QDQk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60336065/%E9%80%A3%E7%BA%8C%E4%B9%9D%E6%97%A5%E8%90%BD%E9%9B%A8-%E6%8A%BD%E6%BF%95%E6%A9%9F-%E6%B5%B4%E5%AE%A4%E5%AF%B6-%E6%95%99%E4%BD%A0%E5%85%A8%E6%96%B9%E4%BD%8D%E5%AE%B6%E9%9B%BB%E4%B9%BE%E8%A1%A3%E5%B0%8D%E7%AD%96",
     "timestamp": "2026-04-11T06:15:34.037Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "謝天華路人視角生圖流出一下子蒼老憔悴　網民慨嘆歲月不饒人",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260411/1119613443020689408419536.jpeg/vcPzemB_xUo4pjvFHTDHKJDrk2ppgNrIWyz-Xlss_l4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60339224/%E8%AC%9D%E5%A4%A9%E8%8F%AF%E8%B7%AF%E4%BA%BA%E8%A6%96%E8%A7%92%E7%94%9F%E5%9C%96%E6%B5%81%E5%87%BA%E4%B8%80%E4%B8%8B%E5%AD%90%E8%92%BC%E8%80%81%E6%86%94%E6%82%B4-%E7%B6%B2%E6%B0%91%E6%85%A8%E5%98%86%E6%AD%B2%E6%9C%88%E4%B8%8D%E9%A5%92%E4%BA%BA",
-    "timestamp": "2026-04-11T05:47:21.863Z",
     "strategy": ".content-card__main"
   }
 ];
