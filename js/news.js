@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-11T09:23:56.929Z
+// Last updated: 2026-04-11T09:52:08.324Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美孚呈祥道P牌私家車疑失控自炒　車頭盡毁4人受傷拒送院",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260411/1119690735633829888896254.jpeg/XfSlO1hM9V18sRYygaHu34mpncNGoMfZXilZeF4pWXg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60339289/%E7%BE%8E%E5%AD%9A%E5%91%88%E7%A5%A5%E9%81%93p%E7%89%8C%E7%A7%81%E5%AE%B6%E8%BB%8A%E7%96%91%E5%A4%B1%E6%8E%A7%E8%87%AA%E7%82%92-%E8%BB%8A%E9%A0%AD%E7%9B%A1%E6%AF%814%E4%BA%BA%E5%8F%97%E5%82%B7%E6%8B%92%E9%80%81%E9%99%A2",
+    "timestamp": "2026-04-11T09:52:08.324Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "訪中關村尋台灣產業新支柱　鄭麗文獲贈機械手　坦言想去深圳看看",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260411/1119487152271396864497368.jpeg/U7BDkMcGgG3qDN-xsO3hF5NLMnura2Xo2fGFA9nxhQM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60339173/%E7%BE%8E%E4%BC%8A%E8%AB%87%E5%88%A4%E5%89%8D-%E4%BC%8A%E6%9C%97%E4%BB%A3%E8%A1%A8%E5%9C%98%E6%8A%B5%E9%81%94-%E4%BC%8A%E6%96%AF%E8%98%AD%E5%A0%A1%E6%88%92%E5%82%99%E6%A3%AE%E5%9A%B4",
     "timestamp": "2026-04-10T20:20:21.148Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "前模特兒星探Paolo Zampoll：梅拉尼婭與特朗普是我介紹認識的",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20240715/889462579712233472862593.jpeg/fRyMcsGisYpMfWfDIFVF_7qX-EYx1JJi7z7IeO8-yHg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60339171/%E5%89%8D%E6%A8%A1%E7%89%B9%E5%85%92%E6%98%9F%E6%8E%A2paolo-zampoll-%E6%A2%85%E6%8B%89%E5%B0%BC%E5%A9%AD%E8%88%87%E7%89%B9%E6%9C%97%E6%99%AE%E6%98%AF%E6%88%91%E4%BB%8B%E7%B4%B9%E8%AA%8D%E8%AD%98%E7%9A%84",
-    "timestamp": "2026-04-10T19:52:25.211Z",
     "strategy": ".content-card__main"
   }
 ];
