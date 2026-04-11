@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-11T08:56:35.919Z
+// Last updated: 2026-04-11T09:23:56.929Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "訪中關村尋台灣產業新支柱　鄭麗文獲贈機械手　坦言想去深圳看看",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260411/1119671747314978816396582.jpeg/69PsMEKZqbZksuU19gG0gfn8L8AcwCU6kAobc5AKG3M?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60339275/%E8%A8%AA%E4%B8%AD%E9%97%9C%E6%9D%91%E5%B0%8B%E5%8F%B0%E7%81%A3%E7%94%A2%E6%A5%AD%E6%96%B0%E6%94%AF%E6%9F%B1-%E9%84%AD%E9%BA%97%E6%96%87%E7%8D%B2%E8%B4%88%E6%A9%9F%E6%A2%B0%E6%89%8B-%E5%9D%A6%E8%A8%80%E6%83%B3%E5%8E%BB%E6%B7%B1%E5%9C%B3%E7%9C%8B%E7%9C%8B",
+    "timestamp": "2026-04-11T09:23:56.929Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美國擬建250尺「新凱旋門」慶祝建國　較法國地標高近百尺",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20240715/889462579712233472862593.jpeg/fRyMcsGisYpMfWfDIFVF_7qX-EYx1JJi7z7IeO8-yHg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60339171/%E5%89%8D%E6%A8%A1%E7%89%B9%E5%85%92%E6%98%9F%E6%8E%A2paolo-zampoll-%E6%A2%85%E6%8B%89%E5%B0%BC%E5%A9%AD%E8%88%87%E7%89%B9%E6%9C%97%E6%99%AE%E6%98%AF%E6%88%91%E4%BB%8B%E7%B4%B9%E8%AA%8D%E8%AD%98%E7%9A%84",
     "timestamp": "2026-04-10T19:52:25.211Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "iKKO MindOne Pro深度評測｜AI 語音翻譯功能打造高效辦公利器",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260411/1119446752416501760059163.jpeg/oruACaYtRM5dJR8oTqv9JemYiP6TH-QpSB69TUgevU0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60335750/ikko-mindone-pro%E6%B7%B1%E5%BA%A6%E8%A9%95%E6%B8%AC-ai-%E8%AA%9E%E9%9F%B3%E7%BF%BB%E8%AD%AF%E5%8A%9F%E8%83%BD%E6%89%93%E9%80%A0%E9%AB%98%E6%95%88%E8%BE%A6%E5%85%AC%E5%88%A9%E5%99%A8",
-    "timestamp": "2026-04-10T19:30:26.461Z",
     "strategy": ".content-card__main"
   }
 ];
