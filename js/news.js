@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-11T05:47:21.863Z
+// Last updated: 2026-04-11T06:15:34.037Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "連續九日落雨！抽濕機﹑浴室寶　教你全方位家電乾衣對策",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260401/1115928640454922240023175.jpeg/8idJTX4B6imhWYKoz0WELjx7lJwa9JA_n1ANCZ9QDQk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60336065/%E9%80%A3%E7%BA%8C%E4%B9%9D%E6%97%A5%E8%90%BD%E9%9B%A8-%E6%8A%BD%E6%BF%95%E6%A9%9F-%E6%B5%B4%E5%AE%A4%E5%AF%B6-%E6%95%99%E4%BD%A0%E5%85%A8%E6%96%B9%E4%BD%8D%E5%AE%B6%E9%9B%BB%E4%B9%BE%E8%A1%A3%E5%B0%8D%E7%AD%96",
+    "timestamp": "2026-04-11T06:15:34.037Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "謝天華路人視角生圖流出一下子蒼老憔悴　網民慨嘆歲月不饒人",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260410/1119295972640296960321604.jpeg/PoZQ7UvsXzXf7BwQO9HY6vBhLiyPevGCh9rIEofayBI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60338994/%E5%A8%9B%E6%A8%82%E6%96%B0%E8%81%9E%E5%8F%B0%E4%B8%BB%E6%8C%81-%E9%8D%BE%E7%BF%A0%E8%A9%A9%E5%BF%BD%E7%84%B6%E6%80%A7%E6%84%9F-%E5%A4%8F%E5%A4%A9%E6%9C%AA%E5%88%B0%E6%90%B6%E9%96%98%E6%9B%AC%E5%99%B4%E8%A1%80%E6%AF%94%E5%A0%85%E5%B0%BC",
     "timestamp": "2026-04-10T16:29:11.326Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "泰國男神Mario Maurer旋風式襲港　大談「冒險」想去海灘叉電",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260410/1119348489143193600410356.jpeg/ECG10ElcaGe3fOmF7bGDY3h3uWOBhMkrECkyWSopMlk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60339117/%E6%B3%B0%E5%9C%8B%E7%94%B7%E7%A5%9E-mario-maurer-%E6%97%8B%E9%A2%A8%E5%BC%8F%E8%A5%B2%E6%B8%AF-%E5%A4%A7%E8%AB%87%E5%86%92%E9%9A%AA%E5%BF%83%E6%B3%95%E5%8E%BB%E9%A6%99%E6%B8%AF%E6%B5%B7%E7%81%98%E5%8F%89%E9%9B%BB",
-    "timestamp": "2026-04-10T14:33:49.539Z",
     "strategy": ".content-card__main"
   }
 ];
