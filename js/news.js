@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-11T18:23:15.250Z
+// Last updated: 2026-04-11T18:52:49.794Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "英超｜利物浦2:0擊敗富咸",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260412/1119828741887889408294160.jpeg/7ToP-9Z_XTNmJ7Ymr4ZbDS778niBzj3Y51EAL-dRAC8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60339332/%E8%8B%B1%E8%B6%85-%E5%88%A9%E7%89%A9%E6%B5%A62-0%E6%93%8A%E6%95%97%E5%AF%8C%E5%92%B8",
+    "timestamp": "2026-04-11T18:52:49.794Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "特朗普：開始清除水雷　美國2艦艇穿過霍爾木茲海峽",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260410/1119325156754329600093267.png/l4S4X_KOemiHyN8yl0eNL-Q6hc0QDFW5EPp1bxD6dW8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60338836/%E5%8D%B0%E5%B0%BC%E6%96%B0%E4%BA%BA%E5%A9%9A%E7%A6%AE%E5%9B%9E%E7%A6%AE%E7%AB%9F%E9%80%81%E7%9B%92%E8%A3%9D-%E6%9F%93%E8%89%B2%E6%B4%BB%E5%B0%8F%E9%9B%9E-%E6%83%B9%E5%85%A8%E7%B6%B2%E6%80%92%E8%BD%9F%E8%99%90%E5%BE%85%E5%8B%95%E7%89%A9",
     "timestamp": "2026-04-11T07:40:47.657Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "連續九日落雨！抽濕機﹑浴室寶　教你全方位家電乾衣對策",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260401/1115928640454922240023175.jpeg/8idJTX4B6imhWYKoz0WELjx7lJwa9JA_n1ANCZ9QDQk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60336065/%E9%80%A3%E7%BA%8C%E4%B9%9D%E6%97%A5%E8%90%BD%E9%9B%A8-%E6%8A%BD%E6%BF%95%E6%A9%9F-%E6%B5%B4%E5%AE%A4%E5%AF%B6-%E6%95%99%E4%BD%A0%E5%85%A8%E6%96%B9%E4%BD%8D%E5%AE%B6%E9%9B%BB%E4%B9%BE%E8%A1%A3%E5%B0%8D%E7%AD%96",
-    "timestamp": "2026-04-11T06:15:34.037Z",
     "strategy": ".content-card__main"
   }
 ];
