@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-11T23:51:15.677Z
+// Last updated: 2026-04-12T00:55:48.251Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "阿Bob林盛斌力壓視帝黎耀祥奪C位　大馬群星演出海報排位見真章",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260411/1119764658580885504035642.jpeg/zs7r2RRJ7rek6e6pspHTLmH_g4Q_lC4xIJKu1yCSrtc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60338572/%E9%98%BFbob%E6%9E%97%E7%9B%9B%E6%96%8C%E5%8A%9B%E5%A3%93%E8%A6%96%E5%B8%9D%E9%BB%8E%E8%80%80%E7%A5%A5%E5%A5%AAc%E4%BD%8D-%E5%A4%A7%E9%A6%AC%E7%BE%A4%E6%98%9F%E6%BC%94%E5%87%BA%E6%B5%B7%E5%A0%B1%E6%8E%92%E4%BD%8D%E8%A6%8B%E7%9C%9F%E7%AB%A0",
+    "timestamp": "2026-04-12T00:55:48.251Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "珍惜生命︱柴灣女子疑跳橋輕生　當場不治",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260411/1119762080711315456289374.jpeg/LpGAnw4a0eDvxJsz0KAnYqVFhFedhmdqu_cnh7v3J4c?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60339321/mirror%E7%BC%BA%E4%BA%8C%E5%A7%9C%E6%BF%A4%E4%B8%8D%E9%81%A9%E6%97%A9%E8%B5%B0-%E8%BB%92%E5%85%ACunfollow%E9%99%B3%E5%8D%93%E8%B3%A2%E4%B8%8D%E7%9F%A5%E6%83%85-%E6%9C%89%E6%88%91%E4%BB%BD%E3%97%8E",
     "timestamp": "2026-04-11T14:52:17.943Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "六合彩4.14頭獎$1800萬｜6個最旺號碼+2招增中獎機會",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20251108/1063946896650801152834512.jpeg/oy7PzVnmKC3CNgd8bXPknyKQYEfirao1okVxiaJFcYk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60339325/%E5%85%AD%E5%90%88%E5%BD%A94-14%E9%A0%AD%E7%8D%8E-1800%E8%90%AC-6%E5%80%8B%E6%9C%80%E6%97%BA%E8%99%9F%E7%A2%BC-2%E6%8B%9B%E5%A2%9E%E4%B8%AD%E7%8D%8E%E6%A9%9F%E6%9C%83",
-    "timestamp": "2026-04-11T14:22:54.952Z",
     "strategy": ".content-card__main"
   }
 ];
