@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-12T15:23:47.281Z
+// Last updated: 2026-04-12T16:20:18.992Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "Amazfit T-Rex Ultra 2評測｜51mm鈦金屬配3000nits屏幕挑戰極限",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260412/1120123949359828992016972.jpeg/ucHfkmUFLeAWnpL71DV1Le11Jg1KeTlnGQVIiBkFSIg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60335733/amazfit-t-rex-ultra-2%E8%A9%95%E6%B8%AC-51mm%E9%88%A6%E9%87%91%E5%B1%AC%E9%85%8D3000nits%E5%B1%8F%E5%B9%95%E6%8C%91%E6%88%B0%E6%A5%B5%E9%99%90",
+    "timestamp": "2026-04-12T16:20:18.992Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "羅湖站大混戰·有片｜眼神問題爆毆鬥　爆粗按地壓頸　6人被捕",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260412/1119896595882577920571480.jpeg/cvU4CEEeSZwEs6v9QX6n0_H5X4DYX6Z8xmxuTuxsbk4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60339339/%E7%8F%8D%E6%83%9C%E7%94%9F%E5%91%BD-%E6%9F%B4%E7%81%A3%E5%A5%B3%E5%AD%90%E7%96%91%E8%B7%B3%E6%A9%8B%E8%BC%95%E7%94%9F-%E7%95%B6%E5%A0%B4%E4%B8%8D%E6%B2%BB",
     "timestamp": "2026-04-11T23:51:15.677Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普：中國若運送武器給伊朗　將面臨大問題",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260401/1115894791003967488671049.jpeg/Ug_mWmDm6aZ8rrYaaEt_S5d2V3VDt6JkO-nf8zvp3_M?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60339338/%E7%89%B9%E6%9C%97%E6%99%AE-%E4%B8%AD%E5%9C%8B%E8%8B%A5%E9%81%8B%E9%80%81%E6%AD%A6%E5%99%A8%E7%B5%A6%E4%BC%8A%E6%9C%97-%E5%B0%87%E9%9D%A2%E8%87%A8%E5%A4%A7%E5%95%8F%E9%A1%8C",
-    "timestamp": "2026-04-11T23:20:46.772Z",
     "strategy": ".content-card__main"
   }
 ];
