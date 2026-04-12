@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-12T01:44:05.251Z
+// Last updated: 2026-04-12T02:45:43.156Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "賴雅妍演唱會夢成真　揭初入行其實想唱歌　感謝粉絲為她拜神許願",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260313/1109094320041889792267438.jpeg/OkvjFEqbYBX7mTGaoSMZa5cwNZc3utnRafBpjmnwaY4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60330132/%E8%B3%B4%E9%9B%85%E5%A6%8D%E6%BC%94%E5%94%B1%E6%9C%83%E5%A4%A2%E6%88%90%E7%9C%9F-%E6%8F%AD%E5%88%9D%E5%85%A5%E8%A1%8C%E5%85%B6%E5%AF%A6%E6%83%B3%E5%94%B1%E6%AD%8C-%E6%84%9F%E8%AC%9D%E7%B2%89%E7%B5%B2%E7%82%BA%E5%A5%B9%E6%8B%9C%E7%A5%9E%E8%A8%B1%E9%A1%98",
+    "timestamp": "2026-04-12T02:45:43.156Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "福建艦有望今年遠海訓練或與四川艦編隊　挑戰全甲板放飛艦載機",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260411/1119736015108444160235198.png/EpX0auzUtX7wTFrmhg73C95pyH-9VqAsY2gAl2NoAJc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60339299/%E4%B8%AD%E5%B9%B44-%E4%BC%81%E9%B5%9D%E4%BA%BA%E5%91%A8%E5%BF%97%E5%BA%B7%E7%82%BA%E7%B4%A2%E5%A6%BB%E6%85%B6%E7%94%9F%E6%9B%AC%E5%85%A8%E5%AE%B6%E7%A6%8F-26%E6%AD%B2%E7%B5%90%E5%A9%9A%E4%BA%BA%E5%B7%A5%E5%85%A8%E4%BA%A4%E8%80%81%E5%A9%86",
     "timestamp": "2026-04-11T16:00:40.593Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "中年4丨企鵝人周志康為索妻慶生曬全家福　26歲結婚人工全交老婆",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260411/1119736015108444160235198.png/EpX0auzUtX7wTFrmhg73C95pyH-9VqAsY2gAl2NoAJc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60339299/%E4%B8%AD%E5%B9%B44-%E4%BC%81%E9%B5%9D%E4%BA%BA%E5%91%A8%E5%BF%97%E5%BA%B7%E7%82%BA%E7%B4%A2%E5%A6%BB%E6%85%B6%E7%94%9F%E6%9B%AC%E5%85%A8%E5%AE%B6%E7%A6%8F-26%E6%AD%B2%E7%B5%90%E5%A9%9A%E4%BA%BA%E5%B7%A5%E5%85%A8%E4%BA%A4%E8%80%81%E5%A9%86",
-    "timestamp": "2026-04-11T15:37:33.237Z",
     "strategy": ".content-card__main"
   }
 ];
