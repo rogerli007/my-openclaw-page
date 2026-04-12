@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-12T18:53:31.851Z
+// Last updated: 2026-04-12T19:24:36.314Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "伊朗代表：談判中抵制了美方三大「無理要求」",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260411/1119659262092513280046185.jpeg/PmxUQaZ-3wSXeL_Av7JuQxT80uO_ZBlhRsSNQ0bEjUM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60339500/%E4%BC%8A%E6%9C%97%E4%BB%A3%E8%A1%A8-%E8%AB%87%E5%88%A4%E4%B8%AD%E6%8A%B5%E5%88%B6%E4%BA%86%E7%BE%8E%E6%96%B9%E4%B8%89%E5%A4%A7-%E7%84%A1%E7%90%86%E8%A6%81%E6%B1%82",
+    "timestamp": "2026-04-12T19:24:36.314Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "伊朗代表：談判中抵制了美方三大「無理要求」",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260409/1118937782484471808308245.jpeg/Tkx3bnM42IeGevIi9REwHPJeyJrviFJO8daNwPHWjcA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A9%BF%E6%90%AD%E7%AD%86%E8%A8%98/60300469/vca%E5%85%A5%E9%96%80%E7%B4%9A%E7%8F%A0%E5%AF%B6%E6%8E%A8%E8%96%A6-%E5%9B%9B%E8%91%89%E8%8D%89-%E7%93%A2%E8%9F%B2%E5%B8%B6%E5%B9%B8%E9%81%8B%E6%84%8F%E6%80%9D-14000%E8%B5%B7%E7%B6%93%E5%85%B8%E6%AC%BE%E5%BC%8F",
     "timestamp": "2026-04-12T05:07:21.756Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "宏福苑｜卓永興：宏志閣居民5月可回家執拾　7座約380戶冀再上門",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260221/1101964415144038400804567.jpeg/cgjetAey6087wWgvsa__B1S0d4AlLXBJkIEzEIqBMxA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60339349/%E5%AE%8F%E7%A6%8F%E8%8B%91-%E5%8D%93%E6%B0%B8%E8%88%88-%E5%AE%8F%E5%BF%97%E9%96%A3%E5%B1%85%E6%B0%915%E6%9C%88%E5%8F%AF%E5%9B%9E%E5%AE%B6%E5%9F%B7%E6%8B%BE-7%E5%BA%A7%E7%B4%84380%E6%88%B6%E5%86%80%E5%86%8D%E4%B8%8A%E9%96%80",
-    "timestamp": "2026-04-12T03:58:28.448Z",
     "strategy": ".content-card__main"
   }
 ];
