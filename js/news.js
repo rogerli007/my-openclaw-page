@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-12T16:52:29.162Z
+// Last updated: 2026-04-12T17:20:01.194Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "伊媒：美軍艦遭革命衛隊鎖定後撤出波斯灣　距被摧毀僅差數分鐘",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260402/1116200726918336512450697.jpeg/cdIv0fMcQIkZJ6W-4WbxpwWbmSLdqgp00RwV0tEcFdI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60339496/%E4%BC%8A%E5%AA%92-%E7%BE%8E%E8%BB%8D%E8%89%A6%E9%81%AD%E9%9D%A9%E5%91%BD%E8%A1%9B%E9%9A%8A%E9%8E%96%E5%AE%9A%E5%BE%8C%E6%92%A4%E5%87%BA%E6%B3%A2%E6%96%AF%E7%81%A3-%E8%B7%9D%E8%A2%AB%E6%91%A7%E6%AF%80%E5%83%85%E5%B7%AE%E6%95%B8%E5%88%86%E9%90%98",
+    "timestamp": "2026-04-12T17:20:01.194Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "新九龍廣場醉漢以酒杯施襲　52歲男額頭受傷　警刑事調查隊跟進",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20251226/1081267467382165504648025.jpeg/wFuWXYDwGBai9TbH-5EwfTfof9Y6fh43Cuh2Jwrodic?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60339322/%E7%A6%8F%E5%BB%BA%E8%89%A6%E6%9C%89%E6%9C%9B%E4%BB%8A%E5%B9%B4%E9%81%A0%E6%B5%B7%E8%A8%93%E7%B7%B4%E6%88%96%E8%88%87%E5%9B%9B%E5%B7%9D%E8%89%A6%E7%B7%A8%E9%9A%8A-%E6%8C%91%E6%88%B0%E5%85%A8%E7%94%B2%E6%9D%BF%E6%94%BE%E9%A3%9B%E8%89%A6%E8%BC%89%E6%A9%9F",
     "timestamp": "2026-04-12T01:44:05.251Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "阿Bob林盛斌力壓視帝黎耀祥奪C位　大馬群星演出海報排位見真章",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260411/1119764658580885504035642.jpeg/zs7r2RRJ7rek6e6pspHTLmH_g4Q_lC4xIJKu1yCSrtc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60338572/%E9%98%BFbob%E6%9E%97%E7%9B%9B%E6%96%8C%E5%8A%9B%E5%A3%93%E8%A6%96%E5%B8%9D%E9%BB%8E%E8%80%80%E7%A5%A5%E5%A5%AAc%E4%BD%8D-%E5%A4%A7%E9%A6%AC%E7%BE%A4%E6%98%9F%E6%BC%94%E5%87%BA%E6%B5%B7%E5%A0%B1%E6%8E%92%E4%BD%8D%E8%A6%8B%E7%9C%9F%E7%AB%A0",
-    "timestamp": "2026-04-12T00:55:48.251Z",
     "strategy": ".content-card__main"
   }
 ];
