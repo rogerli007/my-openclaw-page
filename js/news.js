@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-12T08:53:01.143Z
+// Last updated: 2026-04-12T09:26:36.570Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "薯仔發芽含毒素可致腹瀉呼吸困難！網友3招保鮮　4食物發芽都能吃",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260412/1119789418509504512032541.jpeg/iIfUSGXC2agLiFKt90Wowkqn2EySuYfYQ40si0ONLIs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60336585/%E8%96%AF%E4%BB%94%E7%99%BC%E8%8A%BD%E5%90%AB%E6%AF%92%E7%B4%A0%E5%8F%AF%E8%87%B4%E8%85%B9%E7%80%89%E5%91%BC%E5%90%B8%E5%9B%B0%E9%9B%A3-%E7%B6%B2%E5%8F%8B3%E6%8B%9B%E4%BF%9D%E9%AE%AE-4%E9%A3%9F%E7%89%A9%E7%99%BC%E8%8A%BD%E9%83%BD%E8%83%BD%E5%90%83",
+    "timestamp": "2026-04-12T09:26:36.570Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "內地電競旁述｢喳喳｣着短裙捱轟　油黑臉變身｢柯南黑衣人｣反擊網民",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260412/1119843059845042176312754.jpeg/Cwi6eKXtAg02v9vJANObWETdnbp59tuS9kDy_NxA8vw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60339335/%E6%B7%B1%E6%B0%B4%E5%9F%97%E5%96%AE%E4%BD%8D%E4%BD%8F%E6%88%B6%E7%96%91%E7%87%92%E8%A1%A3%E6%83%B9%E7%81%AB-2%E4%BA%BA%E5%90%B8%E6%BF%83%E7%85%99%E4%B8%8D%E9%81%A9%E9%80%81%E9%99%A2",
     "timestamp": "2026-04-11T20:03:22.129Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "伊美即將舉行第三輪會談　霍爾木茲海峽成「膠着點」",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260408/1118657510518034432821745.jpeg/G5iOacsywIHqQS3fjj8DgT5TOI9AKyvdhUW4WYVFuFk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60339334/%E4%BC%8A%E7%BE%8E%E5%8D%B3%E5%B0%87%E8%88%89%E8%A1%8C%E7%AC%AC%E4%B8%89%E8%BC%AA%E6%9C%83%E8%AB%87-%E9%9C%8D%E7%88%BE%E6%9C%A8%E8%8C%B2%E6%B5%B7%E5%B3%BD%E6%88%90-%E8%86%A0%E7%9D%80%E9%BB%9E",
-    "timestamp": "2026-04-11T19:49:28.459Z",
     "strategy": ".content-card__main"
   }
 ];
