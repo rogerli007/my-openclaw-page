@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-12T02:45:43.156Z
+// Last updated: 2026-04-12T03:58:28.448Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "宏福苑｜卓永興：宏志閣居民5月可回家執拾　7座約380戶冀再上門",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260221/1101964415144038400804567.jpeg/cgjetAey6087wWgvsa__B1S0d4AlLXBJkIEzEIqBMxA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60339349/%E5%AE%8F%E7%A6%8F%E8%8B%91-%E5%8D%93%E6%B0%B8%E8%88%88-%E5%AE%8F%E5%BF%97%E9%96%A3%E5%B1%85%E6%B0%915%E6%9C%88%E5%8F%AF%E5%9B%9E%E5%AE%B6%E5%9F%B7%E6%8B%BE-7%E5%BA%A7%E7%B4%84380%E6%88%B6%E5%86%80%E5%86%8D%E4%B8%8A%E9%96%80",
+    "timestamp": "2026-04-12T03:58:28.448Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "賴雅妍演唱會夢成真　揭初入行其實想唱歌　感謝粉絲為她拜神許願",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260407/1117999102920364032790526.jpeg/Qg7R5M97u-H7wwaVNelG5FBJvD6pcqj8_AdsQPwHbEA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60339328/%E7%89%B9%E6%9C%97%E6%99%AE-%E9%96%8B%E5%A7%8B%E6%B8%85%E9%99%A4%E6%B0%B4%E9%9B%B7-%E7%BE%8E%E5%9C%8B2%E8%89%A6%E8%89%87%E7%A9%BF%E9%81%8E%E9%9C%8D%E7%88%BE%E6%9C%A8%E8%8C%B2%E6%B5%B7%E5%B3%BD",
     "timestamp": "2026-04-11T17:19:23.185Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "中年4丨企鵝人周志康為索妻慶生曬全家福　26歲結婚人工全交老婆",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260411/1119736015108444160235198.png/EpX0auzUtX7wTFrmhg73C95pyH-9VqAsY2gAl2NoAJc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60339299/%E4%B8%AD%E5%B9%B44-%E4%BC%81%E9%B5%9D%E4%BA%BA%E5%91%A8%E5%BF%97%E5%BA%B7%E7%82%BA%E7%B4%A2%E5%A6%BB%E6%85%B6%E7%94%9F%E6%9B%AC%E5%85%A8%E5%AE%B6%E7%A6%8F-26%E6%AD%B2%E7%B5%90%E5%A9%9A%E4%BA%BA%E5%B7%A5%E5%85%A8%E4%BA%A4%E8%80%81%E5%A9%86",
-    "timestamp": "2026-04-11T16:00:40.593Z",
     "strategy": ".content-card__main"
   }
 ];
