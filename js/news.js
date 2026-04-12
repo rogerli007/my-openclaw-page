@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-12T19:50:29.904Z
+// Last updated: 2026-04-12T20:18:10.268Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美國新澤西州快餐店槍擊案　至少1死6人受傷",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260413/1120208994896449536249713.jpeg/WZ2vMKKU_QlYpKl3rlgA-6WMwTu2gSMaMU-OJTFPjiU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60339503/%E7%BE%8E%E5%9C%8B%E6%96%B0%E6%BE%A4%E8%A5%BF%E5%B7%9E%E5%BF%AB%E9%A4%90%E5%BA%97%E6%A7%8D%E6%93%8A%E6%A1%88-%E8%87%B3%E5%B0%911%E6%AD%BB6%E4%BA%BA%E5%8F%97%E5%82%B7",
+    "timestamp": "2026-04-12T20:18:10.268Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "伊朗代表：談判中抵制了美方三大「無理要求」",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20251106/1062923665085042688423589.jpeg/lrXJ2pX7-9MLbTSw7zvQxL0rf0c0ZgZjoTbsQJs27EA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60339404/%E5%8C%97%E8%A7%92%E4%BA%94%E6%97%AC%E6%BC%A2%E7%9D%A1%E6%88%BF%E5%9C%B0%E4%B8%8A%E6%9A%88%E5%80%92-%E5%A6%BB%E5%AD%90%E5%A0%B1%E6%A1%88%E6%83%9C%E5%A4%AA%E9%81%B2",
     "timestamp": "2026-04-12T06:46:20.366Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "賭王何鴻燊女兒何超蕸逝世　臨終前家人陪伴在側",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20240916/912344190770352128761258.jpeg/zTxxWtyNruvZDtlWGMEersonGrmgQTMT3uLKGffiyhk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60339390/%E8%B3%AD%E7%8E%8B%E4%BD%95%E9%B4%BB%E7%87%8A%E5%A5%B3%E5%85%92%E4%BD%95%E8%B6%85%E8%95%B8%E9%80%9D%E4%B8%96-%E8%87%A8%E7%B5%82%E5%89%8D%E5%AE%B6%E4%BA%BA%E9%99%AA%E4%BC%B4%E5%9C%A8%E5%81%B4",
-    "timestamp": "2026-04-12T06:00:04.438Z",
     "strategy": ".content-card__main"
   }
 ];
