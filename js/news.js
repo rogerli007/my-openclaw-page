@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-12T14:56:36.296Z
+// Last updated: 2026-04-12T15:23:47.281Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "羅湖站大混戰·有片｜眼神問題爆毆鬥　爆粗按地壓頸　6人被捕",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260412/1120135319568519168367240.jpeg/11SFNZ3J6qer8MMGypSExfZ8dw0MTPDfGAk_cBgJP3A",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60339448/%E7%BE%85%E6%B9%96%E7%AB%99%E5%A4%A7%E6%B7%B7%E6%88%B0-%E6%9C%89%E7%89%87-%E7%9C%BC%E7%A5%9E%E5%95%8F%E9%A1%8C%E7%88%86%E6%AF%86%E9%AC%A5-%E7%88%86%E7%B2%97%E6%8C%89%E5%9C%B0%E5%A3%93%E9%A0%B8-6%E4%BA%BA%E8%A2%AB%E6%8D%95",
+    "timestamp": "2026-04-12T15:23:47.281Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "空手道｜劉慕裳K1聯賽樂山站再勝尾野真步　跨季連續6站奪冠",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260401/1115894791003967488671049.jpeg/Ug_mWmDm6aZ8rrYaaEt_S5d2V3VDt6JkO-nf8zvp3_M?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60339338/%E7%89%B9%E6%9C%97%E6%99%AE-%E4%B8%AD%E5%9C%8B%E8%8B%A5%E9%81%8B%E9%80%81%E6%AD%A6%E5%99%A8%E7%B5%A6%E4%BC%8A%E6%9C%97-%E5%B0%87%E9%9D%A2%E8%87%A8%E5%A4%A7%E5%95%8F%E9%A1%8C",
     "timestamp": "2026-04-11T23:20:46.772Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "單季提價44.61%！稀土雙巨頭的底氣是什麼？|拆局",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260412/1119892328681574400091263.jpeg/aumSCr4j8ZHcA76w_EkwGIOCMuuxNQXAVB-xIVQfsSE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60339337/%E5%96%AE%E5%AD%A3%E6%8F%90%E5%83%B944-61-%E7%A8%80%E5%9C%9F%E9%9B%99%E5%B7%A8%E9%A0%AD%E7%9A%84%E5%BA%95%E6%B0%A3%E6%98%AF%E4%BB%80%E9%BA%BC-%E6%8B%86%E5%B1%80",
-    "timestamp": "2026-04-11T23:02:26.531Z",
     "strategy": ".content-card__main"
   }
 ];
