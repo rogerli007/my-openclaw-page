@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-12T10:23:37.823Z
+// Last updated: 2026-04-12T10:52:11.475Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "WTT太原挑戰賽︱杜凱琹吳詠琳女雙獲亞軍　港隊兩銀一銅收官",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260412/1120057061292380160390754.jpeg/pt-r4h4ELmKA8jZAqarnjRXJ-xp6ew16ItFKUiLRSlI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60339445/wtt%E5%A4%AA%E5%8E%9F%E6%8C%91%E6%88%B0%E8%B3%BD-%E6%9D%9C%E5%87%B1%E7%90%B9%E5%90%B3%E8%A9%A0%E7%90%B3%E5%A5%B3%E9%9B%99%E7%8D%B2%E4%BA%9E%E8%BB%8D-%E6%B8%AF%E9%9A%8A%E5%85%A9%E9%8A%80%E4%B8%80%E9%8A%85%E6%94%B6%E5%AE%98",
+    "timestamp": "2026-04-12T10:52:11.475Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "鄭麗文結束訪陸返台：盼民眾直接感受到兩岸和平發展的紅利",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260412/1119843059845042176312754.jpeg/Cwi6eKXtAg02v9vJANObWETdnbp59tuS9kDy_NxA8vw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60339335/%E6%B7%B1%E6%B0%B4%E5%9F%97%E5%96%AE%E4%BD%8D%E4%BD%8F%E6%88%B6%E7%96%91%E7%87%92%E8%A1%A3%E6%83%B9%E7%81%AB-2%E4%BA%BA%E5%90%B8%E6%BF%83%E7%85%99%E4%B8%8D%E9%81%A9%E9%80%81%E9%99%A2",
     "timestamp": "2026-04-11T21:02:03.309Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "深水埗單位住戶疑燒衣惹火　2人吸濃煙不適送院",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260412/1119843059845042176312754.jpeg/Cwi6eKXtAg02v9vJANObWETdnbp59tuS9kDy_NxA8vw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60339335/%E6%B7%B1%E6%B0%B4%E5%9F%97%E5%96%AE%E4%BD%8D%E4%BD%8F%E6%88%B6%E7%96%91%E7%87%92%E8%A1%A3%E6%83%B9%E7%81%AB-2%E4%BA%BA%E5%90%B8%E6%BF%83%E7%85%99%E4%B8%8D%E9%81%A9%E9%80%81%E9%99%A2",
-    "timestamp": "2026-04-11T20:19:23.989Z",
     "strategy": ".content-card__main"
   }
 ];
