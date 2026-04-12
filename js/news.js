@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-12T14:08:27.397Z
+// Last updated: 2026-04-12T14:56:36.296Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "空手道｜劉慕裳K1聯賽樂山站再勝尾野真步　跨季連續6站奪冠",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260412/1120123959375826944837159.jpeg/JGn3XNeDEHURwOCJwvAd44vak_aA0k5mvD1lTbw9ZU0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60339483/%E7%A9%BA%E6%89%8B%E9%81%93-%E5%8A%89%E6%85%95%E8%A3%B3k1%E8%81%AF%E8%B3%BD%E6%A8%82%E5%B1%B1%E7%AB%99%E5%86%8D%E5%8B%9D%E5%B0%BE%E9%87%8E%E7%9C%9F%E6%AD%A5-%E8%B7%A8%E5%AD%A3%E9%80%A3%E7%BA%8C6%E7%AB%99%E5%A5%AA%E5%86%A0",
+    "timestamp": "2026-04-12T14:56:36.296Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "張寶兒分享育兒經疑樣貌升級　網民錯重點嘲怪怪的：成個樣都變咗",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260412/1119892328681574400091263.jpeg/aumSCr4j8ZHcA76w_EkwGIOCMuuxNQXAVB-xIVQfsSE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60339337/%E5%96%AE%E5%AD%A3%E6%8F%90%E5%83%B944-61-%E7%A8%80%E5%9C%9F%E9%9B%99%E5%B7%A8%E9%A0%AD%E7%9A%84%E5%BA%95%E6%B0%A3%E6%98%AF%E4%BB%80%E9%BA%BC-%E6%8B%86%E5%B1%80",
     "timestamp": "2026-04-11T23:02:26.531Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美伊馬拉松式談判至凌晨　美媒：萬斯卡利巴夫握手　氣氛和諧平靜",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260412/1119877024949735424982036.jpeg/Av90CVh7BU9q5YRf1TNjt3xNuvfmn4N7edsbCHnbGwg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60339336/%E7%BE%8E%E4%BC%8A%E9%A6%AC%E6%8B%89%E6%9D%BE%E5%BC%8F%E8%AB%87%E5%88%A4%E8%87%B3%E5%87%8C%E6%99%A8-%E7%BE%8E%E5%AA%92-%E8%90%AC%E6%96%AF%E5%8D%A1%E5%88%A9%E5%B7%B4%E5%A4%AB%E6%8F%A1%E6%89%8B-%E6%B0%A3%E6%B0%9B%E5%92%8C%E8%AB%A7%E5%B9%B3%E9%9D%9C",
-    "timestamp": "2026-04-11T22:35:17.462Z",
     "strategy": ".content-card__main"
   }
 ];
