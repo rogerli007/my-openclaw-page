@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-12T00:55:48.251Z
+// Last updated: 2026-04-12T01:44:05.251Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "福建艦有望今年遠海訓練或與四川艦編隊　挑戰全甲板放飛艦載機",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20251226/1081267467382165504648025.jpeg/wFuWXYDwGBai9TbH-5EwfTfof9Y6fh43Cuh2Jwrodic?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60339322/%E7%A6%8F%E5%BB%BA%E8%89%A6%E6%9C%89%E6%9C%9B%E4%BB%8A%E5%B9%B4%E9%81%A0%E6%B5%B7%E8%A8%93%E7%B7%B4%E6%88%96%E8%88%87%E5%9B%9B%E5%B7%9D%E8%89%A6%E7%B7%A8%E9%9A%8A-%E6%8C%91%E6%88%B0%E5%85%A8%E7%94%B2%E6%9D%BF%E6%94%BE%E9%A3%9B%E8%89%A6%E8%BC%89%E6%A9%9F",
+    "timestamp": "2026-04-12T01:44:05.251Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "阿Bob林盛斌力壓視帝黎耀祥奪C位　大馬群星演出海報排位見真章",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260411/1119736015108444160235198.png/EpX0auzUtX7wTFrmhg73C95pyH-9VqAsY2gAl2NoAJc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60339299/%E4%B8%AD%E5%B9%B44-%E4%BC%81%E9%B5%9D%E4%BA%BA%E5%91%A8%E5%BF%97%E5%BA%B7%E7%82%BA%E7%B4%A2%E5%A6%BB%E6%85%B6%E7%94%9F%E6%9B%AC%E5%85%A8%E5%AE%B6%E7%A6%8F-26%E6%AD%B2%E7%B5%90%E5%A9%9A%E4%BA%BA%E5%B7%A5%E5%85%A8%E4%BA%A4%E8%80%81%E5%A9%86",
     "timestamp": "2026-04-11T15:37:33.237Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "MIRROR缺二姜濤不適早走　軒公unfollow陳卓賢不知情：有我份㗎？",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260411/1119762080711315456289374.jpeg/LpGAnw4a0eDvxJsz0KAnYqVFhFedhmdqu_cnh7v3J4c?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60339321/mirror%E7%BC%BA%E4%BA%8C%E5%A7%9C%E6%BF%A4%E4%B8%8D%E9%81%A9%E6%97%A9%E8%B5%B0-%E8%BB%92%E5%85%ACunfollow%E9%99%B3%E5%8D%93%E8%B3%A2%E4%B8%8D%E7%9F%A5%E6%83%85-%E6%9C%89%E6%88%91%E4%BB%BD%E3%97%8E",
-    "timestamp": "2026-04-11T14:52:17.943Z",
     "strategy": ".content-card__main"
   }
 ];
