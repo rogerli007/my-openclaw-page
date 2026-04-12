@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-12T20:18:10.268Z
+// Last updated: 2026-04-12T20:37:04.077Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美國新澤西州快餐店槍擊案　至少1死6人受傷",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260413/1120208994896449536249713.jpeg/WZ2vMKKU_QlYpKl3rlgA-6WMwTu2gSMaMU-OJTFPjiU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60339503/%E7%BE%8E%E5%9C%8B%E6%96%B0%E6%BE%A4%E8%A5%BF%E5%B7%9E%E5%BF%AB%E9%A4%90%E5%BA%97%E6%A7%8D%E6%93%8A%E6%A1%88-%E8%87%B3%E5%B0%911%E6%AD%BB6%E4%BA%BA%E5%8F%97%E5%82%B7",
+    "timestamp": "2026-04-12T20:37:04.077Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美國新澤西州快餐店槍擊案　至少1死6人受傷",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260412/1120039511439446016048951.jpeg/Z0S9qICAvzPRJAA9TFFJR9FOMZj0HzUcmv-aApr_mgI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60339417/%E6%B0%B8%E5%8A%AB%E7%84%A1%E9%96%93%E6%97%81%E8%BF%B0%E5%96%B3%E5%96%B3%E7%9D%80%E7%9F%AD%E8%A3%99%E6%8D%B1%E8%BD%9F-%E6%B2%B9%E9%BB%91%E8%87%89%E8%AE%8A%E8%BA%AB-%E6%9F%AF%E5%8D%97%E9%BB%91%E8%A1%A3%E4%BA%BA-%E5%8F%8D%E6%93%8A%E7%B6%B2%E6%B0%91",
     "timestamp": "2026-04-12T08:53:01.143Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "北角五旬漢睡房地上暈倒　妻子報案惜太遲",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20251106/1062923665085042688423589.jpeg/lrXJ2pX7-9MLbTSw7zvQxL0rf0c0ZgZjoTbsQJs27EA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60339404/%E5%8C%97%E8%A7%92%E4%BA%94%E6%97%AC%E6%BC%A2%E7%9D%A1%E6%88%BF%E5%9C%B0%E4%B8%8A%E6%9A%88%E5%80%92-%E5%A6%BB%E5%AD%90%E5%A0%B1%E6%A1%88%E6%83%9C%E5%A4%AA%E9%81%B2",
-    "timestamp": "2026-04-12T06:46:20.366Z",
     "strategy": ".content-card__main"
   }
 ];
