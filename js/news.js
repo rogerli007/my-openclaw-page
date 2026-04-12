@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-12T21:21:14.809Z
+// Last updated: 2026-04-12T21:51:04.990Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美中央司令部：13日上午開始　封鎖所有進出伊朗港口海上交通",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260413/1120232368053948416831672.jpeg/QVinjPpJ58SyjyeR98aAkkGcvUXLa3o66SIXK-kiFys?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60339507/%E7%BE%8E%E4%B8%AD%E5%A4%AE%E5%8F%B8%E4%BB%A4%E9%83%A8-13%E6%97%A5%E4%B8%8A%E5%8D%88%E9%96%8B%E5%A7%8B-%E5%B0%81%E9%8E%96%E6%89%80%E6%9C%89%E9%80%B2%E5%87%BA%E4%BC%8A%E6%9C%97%E6%B8%AF%E5%8F%A3%E6%B5%B7%E4%B8%8A%E4%BA%A4%E9%80%9A",
+    "timestamp": "2026-04-12T21:51:04.990Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "匈牙利大選｜歐洲多國祝賀反對派勝選　馮德萊恩：歐盟更加強大",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260412/1120057061292380160390754.jpeg/pt-r4h4ELmKA8jZAqarnjRXJ-xp6ew16ItFKUiLRSlI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60339445/wtt%E5%A4%AA%E5%8E%9F%E6%8C%91%E6%88%B0%E8%B3%BD-%E6%9D%9C%E5%87%B1%E7%90%B9%E5%90%B3%E8%A9%A0%E7%90%B3%E5%A5%B3%E9%9B%99%E7%8D%B2%E4%BA%9E%E8%BB%8D-%E6%B8%AF%E9%9A%8A%E5%85%A9%E9%8A%80%E4%B8%80%E9%8A%85%E6%94%B6%E5%AE%98",
     "timestamp": "2026-04-12T10:52:11.475Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "鄭麗文結束訪陸返台：盼民眾直接感受到兩岸和平發展的紅利",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260412/1120062650219237376234801.png/imcmH9B2lZ7djmPG0lWx4sonlAOwcuBAECyFSRAshUk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8F%B0%E7%81%A3%E6%96%B0%E8%81%9E/60339450/%E9%84%AD%E9%BA%97%E6%96%87%E7%B5%90%E6%9D%9F%E8%A8%AA%E9%99%B8%E8%BF%94%E5%8F%B0-%E7%9B%BC%E6%B0%91%E7%9C%BE%E7%9B%B4%E6%8E%A5%E6%84%9F%E5%8F%97%E5%88%B0%E5%85%A9%E5%B2%B8%E5%92%8C%E5%B9%B3%E7%99%BC%E5%B1%95%E7%9A%84%E7%B4%85%E5%88%A9",
-    "timestamp": "2026-04-12T10:23:37.823Z",
     "strategy": ".content-card__main"
   }
 ];
