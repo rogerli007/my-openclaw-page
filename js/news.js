@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-12T21:03:00.891Z
+// Last updated: 2026-04-12T21:21:14.809Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "匈牙利大選｜歐洲多國祝賀反對派勝選　馮德萊恩：歐盟更加強大",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260413/1120226463631544320042973.jpeg/a0S4VU9m4rthv5OcvCZXWF72WtkV_UpRC8dpxQvHacU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60339504/%E5%8C%88%E7%89%99%E5%88%A9%E5%A4%A7%E9%81%B8-%E6%AD%90%E6%B4%B2%E5%A4%9A%E5%9C%8B%E7%A5%9D%E8%B3%80%E5%8F%8D%E5%B0%8D%E6%B4%BE%E5%8B%9D%E9%81%B8-%E9%A6%AE%E5%BE%B7%E8%90%8A%E6%81%A9-%E6%AD%90%E7%9B%9F%E6%9B%B4%E5%8A%A0%E5%BC%B7%E5%A4%A7",
+    "timestamp": "2026-04-12T21:21:14.809Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美國新澤西州快餐店槍擊案　至少1死6人受傷",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260412/1120062650219237376234801.png/imcmH9B2lZ7djmPG0lWx4sonlAOwcuBAECyFSRAshUk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8F%B0%E7%81%A3%E6%96%B0%E8%81%9E/60339450/%E9%84%AD%E9%BA%97%E6%96%87%E7%B5%90%E6%9D%9F%E8%A8%AA%E9%99%B8%E8%BF%94%E5%8F%B0-%E7%9B%BC%E6%B0%91%E7%9C%BE%E7%9B%B4%E6%8E%A5%E6%84%9F%E5%8F%97%E5%88%B0%E5%85%A9%E5%B2%B8%E5%92%8C%E5%B9%B3%E7%99%BC%E5%B1%95%E7%9A%84%E7%B4%85%E5%88%A9",
     "timestamp": "2026-04-12T10:23:37.823Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "薯仔發芽含毒素可致腹瀉呼吸困難！網友3招保鮮　4食物發芽都能吃",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260412/1119789418509504512032541.jpeg/iIfUSGXC2agLiFKt90Wowkqn2EySuYfYQ40si0ONLIs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60336585/%E8%96%AF%E4%BB%94%E7%99%BC%E8%8A%BD%E5%90%AB%E6%AF%92%E7%B4%A0%E5%8F%AF%E8%87%B4%E8%85%B9%E7%80%89%E5%91%BC%E5%90%B8%E5%9B%B0%E9%9B%A3-%E7%B6%B2%E5%8F%8B3%E6%8B%9B%E4%BF%9D%E9%AE%AE-4%E9%A3%9F%E7%89%A9%E7%99%BC%E8%8A%BD%E9%83%BD%E8%83%BD%E5%90%83",
-    "timestamp": "2026-04-12T09:26:36.570Z",
     "strategy": ".content-card__main"
   }
 ];
