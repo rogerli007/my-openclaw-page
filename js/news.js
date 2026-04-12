@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-12T22:17:28.550Z
+// Last updated: 2026-04-12T22:36:11.559Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "天氣｜今日日間炎熱　市區最高約29度　新界再高一兩度",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260413/1120243959189344256361924.jpeg/A2t68NcgjbINEg9GMQlFX6qW6yjMOw_aVcXysFXF8rA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60339494/%E5%A4%A9%E6%B0%A3-%E4%BB%8A%E6%97%A5%E6%97%A5%E9%96%93%E7%82%8E%E7%86%B1-%E5%B8%82%E5%8D%80%E6%9C%80%E9%AB%98%E7%B4%8429%E5%BA%A6-%E6%96%B0%E7%95%8C%E5%86%8D%E9%AB%98%E4%B8%80%E5%85%A9%E5%BA%A6",
+    "timestamp": "2026-04-12T22:36:11.559Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "十大屋苑周末8宗成交　重回單位數水平　創5周新低",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260306/1106545677350998016915623.jpeg/RwmARC07sQzsS99qUk99gmfRzZMzLMjcEPQUNhD0FDY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60339446/%E7%89%B9%E6%9C%97%E6%99%AE%E6%89%BF%E8%AB%BE%E5%8D%B8%E4%BB%BB%E5%89%8D%E5%A4%A7%E8%A6%8F%E6%A8%A1%E8%B5%A6%E5%85%8D%E5%AE%98%E5%93%A1%E5%8F%8A%E5%B9%95%E5%83%9A-%E5%85%8D%E9%81%AD%E8%B5%B7%E8%A8%B4%E6%88%96%E5%9C%8B%E6%9C%83%E8%AA%BF%E6%9F%A5",
     "timestamp": "2026-04-12T12:04:43.770Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "網購送貨員暴力掟貨到門口　鏡頭錄過程　網民：物流每環節不斷掟",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260412/1120055684017164288314870.jpeg/0FW5CtyWZ5tvKbtkzkSlNLzQ0KaN7fy8KnLzkCpy85A",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60339372/%E7%B6%B2%E8%B3%BC%E9%80%81%E8%B2%A8%E5%93%A1%E6%9A%B4%E5%8A%9B%E6%8E%9F%E8%B2%A8%E5%88%B0%E9%96%80%E5%8F%A3-%E9%8F%A1%E9%A0%AD%E9%8C%84%E9%81%8E%E7%A8%8B-%E7%B6%B2%E6%B0%91-%E7%89%A9%E6%B5%81%E6%AF%8F%E7%92%B0%E7%AF%80%E4%B8%8D%E6%96%B7%E6%8E%9F",
-    "timestamp": "2026-04-12T11:21:05.729Z",
     "strategy": ".content-card__main"
   }
 ];
