@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-12T20:37:04.077Z
+// Last updated: 2026-04-12T21:03:00.891Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美國新澤西州快餐店槍擊案　至少1死6人受傷",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260413/1120208994896449536249713.jpeg/WZ2vMKKU_QlYpKl3rlgA-6WMwTu2gSMaMU-OJTFPjiU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60339503/%E7%BE%8E%E5%9C%8B%E6%96%B0%E6%BE%A4%E8%A5%BF%E5%B7%9E%E5%BF%AB%E9%A4%90%E5%BA%97%E6%A7%8D%E6%93%8A%E6%A1%88-%E8%87%B3%E5%B0%911%E6%AD%BB6%E4%BA%BA%E5%8F%97%E5%82%B7",
+    "timestamp": "2026-04-12T21:03:00.891Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美國新澤西州快餐店槍擊案　至少1死6人受傷",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260412/1119789418509504512032541.jpeg/iIfUSGXC2agLiFKt90Wowkqn2EySuYfYQ40si0ONLIs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60336585/%E8%96%AF%E4%BB%94%E7%99%BC%E8%8A%BD%E5%90%AB%E6%AF%92%E7%B4%A0%E5%8F%AF%E8%87%B4%E8%85%B9%E7%80%89%E5%91%BC%E5%90%B8%E5%9B%B0%E9%9B%A3-%E7%B6%B2%E5%8F%8B3%E6%8B%9B%E4%BF%9D%E9%AE%AE-4%E9%A3%9F%E7%89%A9%E7%99%BC%E8%8A%BD%E9%83%BD%E8%83%BD%E5%90%83",
     "timestamp": "2026-04-12T09:26:36.570Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "內地電競旁述｢喳喳｣着短裙捱轟　油黑臉變身｢柯南黑衣人｣反擊網民",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260412/1120039511439446016048951.jpeg/Z0S9qICAvzPRJAA9TFFJR9FOMZj0HzUcmv-aApr_mgI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60339417/%E6%B0%B8%E5%8A%AB%E7%84%A1%E9%96%93%E6%97%81%E8%BF%B0%E5%96%B3%E5%96%B3%E7%9D%80%E7%9F%AD%E8%A3%99%E6%8D%B1%E8%BD%9F-%E6%B2%B9%E9%BB%91%E8%87%89%E8%AE%8A%E8%BA%AB-%E6%9F%AF%E5%8D%97%E9%BB%91%E8%A1%A3%E4%BA%BA-%E5%8F%8D%E6%93%8A%E7%B6%B2%E6%B0%91",
-    "timestamp": "2026-04-12T08:53:01.143Z",
     "strategy": ".content-card__main"
   }
 ];
