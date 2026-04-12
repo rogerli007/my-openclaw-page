@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-12T05:07:21.756Z
+// Last updated: 2026-04-12T06:00:04.438Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "賭王何鴻燊女兒何超蕸逝世　臨終前家人陪伴在側",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20240916/912344190770352128761258.jpeg/zTxxWtyNruvZDtlWGMEersonGrmgQTMT3uLKGffiyhk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60339390/%E8%B3%AD%E7%8E%8B%E4%BD%95%E9%B4%BB%E7%87%8A%E5%A5%B3%E5%85%92%E4%BD%95%E8%B6%85%E8%95%B8%E9%80%9D%E4%B8%96-%E8%87%A8%E7%B5%82%E5%89%8D%E5%AE%B6%E4%BA%BA%E9%99%AA%E4%BC%B4%E5%9C%A8%E5%81%B4",
+    "timestamp": "2026-04-12T06:00:04.438Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "VCA入門級珠寶推薦｜四葉草、瓢蟲帶幸運意思！$14000起經典款式",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260412/1119828741887889408294160.jpeg/7ToP-9Z_XTNmJ7Ymr4ZbDS778niBzj3Y51EAL-dRAC8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60339332/%E8%8B%B1%E8%B6%85-%E5%88%A9%E7%89%A9%E6%B5%A62-0%E6%93%8A%E6%95%97%E5%AF%8C%E5%92%B8",
     "timestamp": "2026-04-11T18:52:49.794Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普：開始清除水雷　美國2艦艇穿過霍爾木茲海峽",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260407/1117999102920364032790526.jpeg/Qg7R5M97u-H7wwaVNelG5FBJvD6pcqj8_AdsQPwHbEA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60339328/%E7%89%B9%E6%9C%97%E6%99%AE-%E9%96%8B%E5%A7%8B%E6%B8%85%E9%99%A4%E6%B0%B4%E9%9B%B7-%E7%BE%8E%E5%9C%8B2%E8%89%A6%E8%89%87%E7%A9%BF%E9%81%8E%E9%9C%8D%E7%88%BE%E6%9C%A8%E8%8C%B2%E6%B5%B7%E5%B3%BD",
-    "timestamp": "2026-04-11T18:23:15.250Z",
     "strategy": ".content-card__main"
   }
 ];
