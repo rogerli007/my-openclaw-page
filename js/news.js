@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-12T03:58:28.448Z
+// Last updated: 2026-04-12T05:07:21.756Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "VCA入門級珠寶推薦｜四葉草、瓢蟲帶幸運意思！$14000起經典款式",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260409/1118937782484471808308245.jpeg/Tkx3bnM42IeGevIi9REwHPJeyJrviFJO8daNwPHWjcA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A9%BF%E6%90%AD%E7%AD%86%E8%A8%98/60300469/vca%E5%85%A5%E9%96%80%E7%B4%9A%E7%8F%A0%E5%AF%B6%E6%8E%A8%E8%96%A6-%E5%9B%9B%E8%91%89%E8%8D%89-%E7%93%A2%E8%9F%B2%E5%B8%B6%E5%B9%B8%E9%81%8B%E6%84%8F%E6%80%9D-14000%E8%B5%B7%E7%B6%93%E5%85%B8%E6%AC%BE%E5%BC%8F",
+    "timestamp": "2026-04-12T05:07:21.756Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "宏福苑｜卓永興：宏志閣居民5月可回家執拾　7座約380戶冀再上門",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260407/1117999102920364032790526.jpeg/Qg7R5M97u-H7wwaVNelG5FBJvD6pcqj8_AdsQPwHbEA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60339328/%E7%89%B9%E6%9C%97%E6%99%AE-%E9%96%8B%E5%A7%8B%E6%B8%85%E9%99%A4%E6%B0%B4%E9%9B%B7-%E7%BE%8E%E5%9C%8B2%E8%89%A6%E8%89%87%E7%A9%BF%E9%81%8E%E9%9C%8D%E7%88%BE%E6%9C%A8%E8%8C%B2%E6%B5%B7%E5%B3%BD",
     "timestamp": "2026-04-11T18:23:15.250Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普：開始清除水雷　美國2艦艇穿過霍爾木茲海峽",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260407/1117999102920364032790526.jpeg/Qg7R5M97u-H7wwaVNelG5FBJvD6pcqj8_AdsQPwHbEA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60339328/%E7%89%B9%E6%9C%97%E6%99%AE-%E9%96%8B%E5%A7%8B%E6%B8%85%E9%99%A4%E6%B0%B4%E9%9B%B7-%E7%BE%8E%E5%9C%8B2%E8%89%A6%E8%89%87%E7%A9%BF%E9%81%8E%E9%9C%8D%E7%88%BE%E6%9C%A8%E8%8C%B2%E6%B5%B7%E5%B3%BD",
-    "timestamp": "2026-04-11T17:19:23.185Z",
     "strategy": ".content-card__main"
   }
 ];
