@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-12T21:51:04.990Z
+// Last updated: 2026-04-12T22:17:28.550Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "十大屋苑周末8宗成交　重回單位數水平　創5周新低",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20241025/926520330363604992659740.jpeg/9KQZeejFCNYDDRIe43PbaPpyOCuzSXoe3fASBejwEgU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60339489/%E5%8D%81%E5%A4%A7%E5%B1%8B%E8%8B%91%E5%91%A8%E6%9C%AB8%E5%AE%97%E6%88%90%E4%BA%A4-%E9%87%8D%E5%9B%9E%E5%96%AE%E4%BD%8D%E6%95%B8%E6%B0%B4%E5%B9%B3-%E5%89%B55%E5%91%A8%E6%96%B0%E4%BD%8E",
+    "timestamp": "2026-04-12T22:17:28.550Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美中央司令部：13日上午開始　封鎖所有進出伊朗港口海上交通",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260412/1120055684017164288314870.jpeg/0FW5CtyWZ5tvKbtkzkSlNLzQ0KaN7fy8KnLzkCpy85A",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60339372/%E7%B6%B2%E8%B3%BC%E9%80%81%E8%B2%A8%E5%93%A1%E6%9A%B4%E5%8A%9B%E6%8E%9F%E8%B2%A8%E5%88%B0%E9%96%80%E5%8F%A3-%E9%8F%A1%E9%A0%AD%E9%8C%84%E9%81%8E%E7%A8%8B-%E7%B6%B2%E6%B0%91-%E7%89%A9%E6%B5%81%E6%AF%8F%E7%92%B0%E7%AF%80%E4%B8%8D%E6%96%B7%E6%8E%9F",
     "timestamp": "2026-04-12T11:21:05.729Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "WTT太原挑戰賽︱杜凱琹吳詠琳女雙獲亞軍　港隊兩銀一銅收官",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260412/1120057061292380160390754.jpeg/pt-r4h4ELmKA8jZAqarnjRXJ-xp6ew16ItFKUiLRSlI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60339445/wtt%E5%A4%AA%E5%8E%9F%E6%8C%91%E6%88%B0%E8%B3%BD-%E6%9D%9C%E5%87%B1%E7%90%B9%E5%90%B3%E8%A9%A0%E7%90%B3%E5%A5%B3%E9%9B%99%E7%8D%B2%E4%BA%9E%E8%BB%8D-%E6%B8%AF%E9%9A%8A%E5%85%A9%E9%8A%80%E4%B8%80%E9%8A%85%E6%94%B6%E5%AE%98",
-    "timestamp": "2026-04-12T10:52:11.475Z",
     "strategy": ".content-card__main"
   }
 ];
