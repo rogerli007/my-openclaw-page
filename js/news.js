@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-12T06:00:04.438Z
+// Last updated: 2026-04-12T06:46:20.366Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "北角五旬漢睡房地上暈倒　妻子報案惜太遲",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20251106/1062923665085042688423589.jpeg/lrXJ2pX7-9MLbTSw7zvQxL0rf0c0ZgZjoTbsQJs27EA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60339404/%E5%8C%97%E8%A7%92%E4%BA%94%E6%97%AC%E6%BC%A2%E7%9D%A1%E6%88%BF%E5%9C%B0%E4%B8%8A%E6%9A%88%E5%80%92-%E5%A6%BB%E5%AD%90%E5%A0%B1%E6%A1%88%E6%83%9C%E5%A4%AA%E9%81%B2",
+    "timestamp": "2026-04-12T06:46:20.366Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "賭王何鴻燊女兒何超蕸逝世　臨終前家人陪伴在側",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260412/1119831114521776128416298.jpeg/RuFAGA6S448hN5NnGbIli63YODlwjJuD7qEez-6hHs8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60339333/%E7%BE%8E%E5%9C%8B%E7%B4%90%E7%B4%84%E5%9C%B0%E9%90%B5%E7%AB%99%E6%8C%81%E5%88%80%E5%82%B7%E4%BA%BA-1%E6%AD%BB3%E5%82%B7",
     "timestamp": "2026-04-11T19:25:29.613Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "英超｜利物浦2:0擊敗富咸",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260412/1119828741887889408294160.jpeg/7ToP-9Z_XTNmJ7Ymr4ZbDS778niBzj3Y51EAL-dRAC8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60339332/%E8%8B%B1%E8%B6%85-%E5%88%A9%E7%89%A9%E6%B5%A62-0%E6%93%8A%E6%95%97%E5%AF%8C%E5%92%B8",
-    "timestamp": "2026-04-11T18:52:49.794Z",
     "strategy": ".content-card__main"
   }
 ];
