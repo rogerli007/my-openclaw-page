@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-12T19:24:36.314Z
+// Last updated: 2026-04-12T19:50:29.904Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "伊朗代表：談判中抵制了美方三大「無理要求」",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260411/1119659262092513280046185.jpeg/PmxUQaZ-3wSXeL_Av7JuQxT80uO_ZBlhRsSNQ0bEjUM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60339500/%E4%BC%8A%E6%9C%97%E4%BB%A3%E8%A1%A8-%E8%AB%87%E5%88%A4%E4%B8%AD%E6%8A%B5%E5%88%B6%E4%BA%86%E7%BE%8E%E6%96%B9%E4%B8%89%E5%A4%A7-%E7%84%A1%E7%90%86%E8%A6%81%E6%B1%82",
+    "timestamp": "2026-04-12T19:50:29.904Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "伊朗代表：談判中抵制了美方三大「無理要求」",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20240916/912344190770352128761258.jpeg/zTxxWtyNruvZDtlWGMEersonGrmgQTMT3uLKGffiyhk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60339390/%E8%B3%AD%E7%8E%8B%E4%BD%95%E9%B4%BB%E7%87%8A%E5%A5%B3%E5%85%92%E4%BD%95%E8%B6%85%E8%95%B8%E9%80%9D%E4%B8%96-%E8%87%A8%E7%B5%82%E5%89%8D%E5%AE%B6%E4%BA%BA%E9%99%AA%E4%BC%B4%E5%9C%A8%E5%81%B4",
     "timestamp": "2026-04-12T06:00:04.438Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "VCA入門級珠寶推薦｜四葉草、瓢蟲帶幸運意思！$14000起經典款式",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260409/1118937782484471808308245.jpeg/Tkx3bnM42IeGevIi9REwHPJeyJrviFJO8daNwPHWjcA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A9%BF%E6%90%AD%E7%AD%86%E8%A8%98/60300469/vca%E5%85%A5%E9%96%80%E7%B4%9A%E7%8F%A0%E5%AF%B6%E6%8E%A8%E8%96%A6-%E5%9B%9B%E8%91%89%E8%8D%89-%E7%93%A2%E8%9F%B2%E5%B8%B6%E5%B9%B8%E9%81%8B%E6%84%8F%E6%80%9D-14000%E8%B5%B7%E7%B6%93%E5%85%B8%E6%AC%BE%E5%BC%8F",
-    "timestamp": "2026-04-12T05:07:21.756Z",
     "strategy": ".content-card__main"
   }
 ];
