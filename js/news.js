@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-12T16:20:18.992Z
+// Last updated: 2026-04-12T16:52:29.162Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "新九龍廣場醉漢以酒杯施襲　52歲男額頭受傷　警刑事調查隊跟進",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/437308/org/4f6b55d5bc8f57ac53dcfea7d4edd88a.jpg/PiRe9dnWauiT81PstPThnMAyjsevvSr2B1-S_gdfkv4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60339495/%E6%96%B0%E4%B9%9D%E9%BE%8D%E5%BB%A3%E5%A0%B4%E9%86%89%E6%BC%A2%E4%BB%A5%E9%85%92%E6%9D%AF%E6%96%BD%E8%A5%B2-52%E6%AD%B2%E7%94%B7%E9%A1%8D%E9%A0%AD%E5%8F%97%E5%82%B7-%E8%AD%A6%E5%88%91%E4%BA%8B%E8%AA%BF%E6%9F%A5%E9%9A%8A%E8%B7%9F%E9%80%B2",
+    "timestamp": "2026-04-12T16:52:29.162Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "Amazfit T-Rex Ultra 2評測｜51mm鈦金屬配3000nits屏幕挑戰極限",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260411/1119764658580885504035642.jpeg/zs7r2RRJ7rek6e6pspHTLmH_g4Q_lC4xIJKu1yCSrtc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60338572/%E9%98%BFbob%E6%9E%97%E7%9B%9B%E6%96%8C%E5%8A%9B%E5%A3%93%E8%A6%96%E5%B8%9D%E9%BB%8E%E8%80%80%E7%A5%A5%E5%A5%AAc%E4%BD%8D-%E5%A4%A7%E9%A6%AC%E7%BE%A4%E6%98%9F%E6%BC%94%E5%87%BA%E6%B5%B7%E5%A0%B1%E6%8E%92%E4%BD%8D%E8%A6%8B%E7%9C%9F%E7%AB%A0",
     "timestamp": "2026-04-12T00:55:48.251Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "珍惜生命︱柴灣女子疑跳橋輕生　當場不治",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260412/1119896595882577920571480.jpeg/cvU4CEEeSZwEs6v9QX6n0_H5X4DYX6Z8xmxuTuxsbk4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60339339/%E7%8F%8D%E6%83%9C%E7%94%9F%E5%91%BD-%E6%9F%B4%E7%81%A3%E5%A5%B3%E5%AD%90%E7%96%91%E8%B7%B3%E6%A9%8B%E8%BC%95%E7%94%9F-%E7%95%B6%E5%A0%B4%E4%B8%8D%E6%B2%BB",
-    "timestamp": "2026-04-11T23:51:15.677Z",
     "strategy": ".content-card__main"
   }
 ];
