@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-12T12:29:24.759Z
+// Last updated: 2026-04-12T12:54:10.293Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "中醫醫院首辦培訓講座　邀中港學者分享診治心得　1.2萬人次參加",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260412/1120092925779251200132709.jpeg/5i8hbvGpEchdDKNpyciDuk2a46oHa8KMIk8eTiJPHk4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60339464/%E4%B8%AD%E9%86%AB%E9%86%AB%E9%99%A2%E9%A6%96%E8%BE%A6%E5%9F%B9%E8%A8%93%E8%AC%9B%E5%BA%A7-%E9%82%80%E4%B8%AD%E6%B8%AF%E5%AD%B8%E8%80%85%E5%88%86%E4%BA%AB%E8%A8%BA%E6%B2%BB%E5%BF%83%E5%BE%97-1-2%E8%90%AC%E4%BA%BA%E6%AC%A1%E5%8F%83%E5%8A%A0",
+    "timestamp": "2026-04-12T12:54:10.293Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "天文台料周二及周三市區最高30度　低壓槽本周後期起後帶來驟雨",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260412/1119877024949735424982036.jpeg/Av90CVh7BU9q5YRf1TNjt3xNuvfmn4N7edsbCHnbGwg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60339336/%E7%BE%8E%E4%BC%8A%E9%A6%AC%E6%8B%89%E6%9D%BE%E5%BC%8F%E8%AB%87%E5%88%A4%E8%87%B3%E5%87%8C%E6%99%A8-%E7%BE%8E%E5%AA%92-%E8%90%AC%E6%96%AF%E5%8D%A1%E5%88%A9%E5%B7%B4%E5%A4%AB%E6%8F%A1%E6%89%8B-%E6%B0%A3%E6%B0%9B%E5%92%8C%E8%AB%A7%E5%B9%B3%E9%9D%9C",
     "timestamp": "2026-04-11T22:17:52.424Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "深水埗單位住戶疑燒衣惹火　2人吸濃煙不適送院",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260412/1119871511046393856938462.jpeg/kpocOmCUslZAisbGLkgrAf2D88lQIK9-8EQi9PBEIvQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60339335/%E6%B7%B1%E6%B0%B4%E5%9F%97%E5%96%AE%E4%BD%8D%E4%BD%8F%E6%88%B6%E7%96%91%E7%87%92%E8%A1%A3%E6%83%B9%E7%81%AB-2%E4%BA%BA%E5%90%B8%E6%BF%83%E7%85%99%E4%B8%8D%E9%81%A9%E9%80%81%E9%99%A2",
-    "timestamp": "2026-04-11T22:00:53.373Z",
     "strategy": ".content-card__main"
   }
 ];
