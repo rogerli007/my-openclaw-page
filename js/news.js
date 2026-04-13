@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-13T07:07:52.998Z
+// Last updated: 2026-04-13T08:58:59.198Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "運輸署增發332個私人駕駛導師執照　248個公眾配額　5月起可申請",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/4344385/org/d2d734550e483b43f84894fae1ad882f.jpg/clnEggW3C0SBy9HJTiZ3_ybwHyDiZmAyLe1MwC3tTMA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60339707/%E9%81%8B%E8%BC%B8%E7%BD%B2%E5%A2%9E%E7%99%BC332%E5%80%8B%E7%A7%81%E4%BA%BA%E9%A7%95%E9%A7%9B%E5%B0%8E%E5%B8%AB%E5%9F%B7%E7%85%A7-248%E5%80%8B%E5%85%AC%E7%9C%BE%E9%85%8D%E9%A1%8D-5%E6%9C%88%E8%B5%B7%E5%8F%AF%E7%94%B3%E8%AB%8B",
+    "timestamp": "2026-04-13T08:58:59.198Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "LiSA織部里沙演唱會2026香港｜門票優先/公售攻略+連結+座位表",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260413/1120166669109432320065238.jpeg/fdbYtkjRHvaaU2YkRiRiF2D634hR0VRvN7BbkjewW5I?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60339497/%E8%8B%B1%E8%B6%85-%E6%9B%BC%E5%9F%8E%E4%BD%9C%E5%AE%A2%E8%B4%88%E8%BB%8A%E8%B7%AF%E5%A3%AB3%E8%9B%8B-%E8%90%BD%E5%BE%8C%E6%A6%9C%E9%A6%96%E9%98%BF%E4%BB%99%E5%A5%B46%E5%88%86",
     "timestamp": "2026-04-12T17:50:38.878Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "伊媒：美軍艦遭革命衛隊鎖定後撤出波斯灣　距被摧毀僅差數分鐘",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260402/1116200726918336512450697.jpeg/cdIv0fMcQIkZJ6W-4WbxpwWbmSLdqgp00RwV0tEcFdI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60339496/%E4%BC%8A%E5%AA%92-%E7%BE%8E%E8%BB%8D%E8%89%A6%E9%81%AD%E9%9D%A9%E5%91%BD%E8%A1%9B%E9%9A%8A%E9%8E%96%E5%AE%9A%E5%BE%8C%E6%92%A4%E5%87%BA%E6%B3%A2%E6%96%AF%E7%81%A3-%E8%B7%9D%E8%A2%AB%E6%91%A7%E6%AF%80%E5%83%85%E5%B7%AE%E6%95%B8%E5%88%86%E9%90%98",
-    "timestamp": "2026-04-12T17:20:01.194Z",
     "strategy": ".content-card__main"
   }
 ];
