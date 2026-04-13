@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-13T15:41:11.938Z
+// Last updated: 2026-04-13T16:47:12.228Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "「S媽」黃春梅一年失兩至親　痛失愛女大S再失親哥：我心碎中",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260413/1120508892640448512495218.jpeg/wqgqfJkXglCnbnKGesTgLnUp0enxetb6AjpcEAI6XBA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60339842/s%E5%AA%BD-%E9%BB%83%E6%98%A5%E6%A2%85%E4%B8%80%E5%B9%B4%E5%A4%B1%E5%85%A9%E8%87%B3%E8%A6%AA-%E7%97%9B%E5%A4%B1%E6%84%9B%E5%A5%B3%E5%A4%A7s%E5%86%8D%E5%A4%B1%E8%A6%AA%E5%93%A5-%E6%88%91%E5%BF%83%E7%A2%8E%E4%B8%AD",
+    "timestamp": "2026-04-13T16:47:12.228Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "世界互聯網大會亞太峰會再在港舉行　匯聚千名政商領袖及專家學者",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260413/1120232368053948416831672.jpeg/QVinjPpJ58SyjyeR98aAkkGcvUXLa3o66SIXK-kiFys?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60339507/%E7%BE%8E%E4%B8%AD%E5%A4%AE%E5%8F%B8%E4%BB%A4%E9%83%A8-13%E6%97%A5%E4%B8%8A%E5%8D%88%E9%96%8B%E5%A7%8B-%E5%B0%81%E9%8E%96%E6%89%80%E6%9C%89%E9%80%B2%E5%87%BA%E4%BC%8A%E6%9C%97%E6%B8%AF%E5%8F%A3%E6%B5%B7%E4%B8%8A%E4%BA%A4%E9%80%9A",
     "timestamp": "2026-04-12T21:51:04.990Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "匈牙利大選｜歐洲多國祝賀反對派勝選　馮德萊恩：歐盟更加強大",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260413/1120226463631544320042973.jpeg/a0S4VU9m4rthv5OcvCZXWF72WtkV_UpRC8dpxQvHacU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60339504/%E5%8C%88%E7%89%99%E5%88%A9%E5%A4%A7%E9%81%B8-%E6%AD%90%E6%B4%B2%E5%A4%9A%E5%9C%8B%E7%A5%9D%E8%B3%80%E5%8F%8D%E5%B0%8D%E6%B4%BE%E5%8B%9D%E9%81%B8-%E9%A6%AE%E5%BE%B7%E8%90%8A%E6%81%A9-%E6%AD%90%E7%9B%9F%E6%9B%B4%E5%8A%A0%E5%BC%B7%E5%A4%A7",
-    "timestamp": "2026-04-12T21:21:14.809Z",
     "strategy": ".content-card__main"
   }
 ];
