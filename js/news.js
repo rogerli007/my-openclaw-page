@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-13T18:16:29.765Z
+// Last updated: 2026-04-13T19:20:33.683Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "特朗普：伊朗致電稱希望達成協議　前一天34船通過霍爾木茲",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260414/1120533310691348480298043.jpeg/0iOOol7gvyGTHx8z7wUij1OLHj2SI-aTqUq4ralKuK0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60339848/%E7%89%B9%E6%9C%97%E6%99%AE-%E4%BC%8A%E6%9C%97%E8%87%B4%E9%9B%BB%E7%A8%B1%E5%B8%8C%E6%9C%9B%E9%81%94%E6%88%90%E5%8D%94%E8%AD%B0-%E5%89%8D%E4%B8%80%E5%A4%A934%E8%88%B9%E9%80%9A%E9%81%8E%E9%9C%8D%E7%88%BE%E6%9C%A8%E8%8C%B2",
+    "timestamp": "2026-04-13T19:20:33.683Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "特朗普：伊朗致電稱希望達成協議　前一天34船通過霍爾木茲",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260413/1120243959189344256361924.jpeg/A2t68NcgjbINEg9GMQlFX6qW6yjMOw_aVcXysFXF8rA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60339494/%E5%A4%A9%E6%B0%A3-%E4%BB%8A%E6%97%A5%E6%97%A5%E9%96%93%E7%82%8E%E7%86%B1-%E5%B8%82%E5%8D%80%E6%9C%80%E9%AB%98%E7%B4%8429%E5%BA%A6-%E6%96%B0%E7%95%8C%E5%86%8D%E9%AB%98%E4%B8%80%E5%85%A9%E5%BA%A6",
     "timestamp": "2026-04-12T22:36:11.559Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "十大屋苑周末8宗成交　重回單位數水平　創5周新低",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20241025/926520330363604992659740.jpeg/9KQZeejFCNYDDRIe43PbaPpyOCuzSXoe3fASBejwEgU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60339489/%E5%8D%81%E5%A4%A7%E5%B1%8B%E8%8B%91%E5%91%A8%E6%9C%AB8%E5%AE%97%E6%88%90%E4%BA%A4-%E9%87%8D%E5%9B%9E%E5%96%AE%E4%BD%8D%E6%95%B8%E6%B0%B4%E5%B9%B3-%E5%89%B55%E5%91%A8%E6%96%B0%E4%BD%8E",
-    "timestamp": "2026-04-12T22:17:28.550Z",
     "strategy": ".content-card__main"
   }
 ];
