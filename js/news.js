@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-13T11:07:22.599Z
+// Last updated: 2026-04-13T11:49:29.925Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "《蝙蝠俠》John Nolan離世　享年87歲　路蘭家族影視事業痛失大將",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260413/1120356655498792960423061.png/ldS3e0-zhXkgDwgNJnI8fNBUq1SVY_8cAvs6tAL7OrQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60339644/%E8%9D%99%E8%9D%A0%E4%BF%A0-john-nolan%E9%9B%A2%E4%B8%96-%E4%BA%AB%E5%B9%B487%E6%AD%B2-%E8%B7%AF%E8%98%AD%E5%AE%B6%E6%97%8F%E5%BD%B1%E8%A6%96%E4%BA%8B%E6%A5%AD%E7%97%9B%E5%A4%B1%E5%A4%A7%E5%B0%87",
+    "timestamp": "2026-04-13T11:49:29.925Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "西班牙官員批以色列政府：種族滅絕犯罪政權　終將接受法院審判",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260411/1119659262092513280046185.jpeg/PmxUQaZ-3wSXeL_Av7JuQxT80uO_ZBlhRsSNQ0bEjUM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60339500/%E4%BC%8A%E6%9C%97%E4%BB%A3%E8%A1%A8-%E8%AB%87%E5%88%A4%E4%B8%AD%E6%8A%B5%E5%88%B6%E4%BA%86%E7%BE%8E%E6%96%B9%E4%B8%89%E5%A4%A7-%E7%84%A1%E7%90%86%E8%A6%81%E6%B1%82",
     "timestamp": "2026-04-12T19:50:29.904Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "伊朗代表：談判中抵制了美方三大「無理要求」",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260411/1119659262092513280046185.jpeg/PmxUQaZ-3wSXeL_Av7JuQxT80uO_ZBlhRsSNQ0bEjUM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60339500/%E4%BC%8A%E6%9C%97%E4%BB%A3%E8%A1%A8-%E8%AB%87%E5%88%A4%E4%B8%AD%E6%8A%B5%E5%88%B6%E4%BA%86%E7%BE%8E%E6%96%B9%E4%B8%89%E5%A4%A7-%E7%84%A1%E7%90%86%E8%A6%81%E6%B1%82",
-    "timestamp": "2026-04-12T19:24:36.314Z",
     "strategy": ".content-card__main"
   }
 ];
