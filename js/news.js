@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-13T05:17:40.349Z
+// Last updated: 2026-04-13T06:09:41.902Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "特朗普「仿」伊朗封霍爾木茲海峽　美媒揭主因：截斷戰爭收入來源",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260413/1120337672703840256301784.jpeg/f-3lwV4XXe6SxUqOwKULlNmSQEe7-uBC8mw8BfJsPAU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%9C%8B%E9%9A%9B%E5%88%86%E6%9E%90/60339602/%E7%89%B9%E6%9C%97%E6%99%AE-%E4%BB%BF-%E4%BC%8A%E6%9C%97%E5%B0%81%E9%9C%8D%E7%88%BE%E6%9C%A8%E8%8C%B2%E6%B5%B7%E5%B3%BD-%E7%BE%8E%E5%AA%92%E6%8F%AD%E4%B8%BB%E5%9B%A0-%E6%88%AA%E6%96%B7%E6%88%B0%E7%88%AD%E6%94%B6%E5%85%A5%E4%BE%86%E6%BA%90",
+    "timestamp": "2026-04-13T06:09:41.902Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "平保據報擬售軟件業私募股權投資　價值約78億元",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/437308/org/4f6b55d5bc8f57ac53dcfea7d4edd88a.jpg/PiRe9dnWauiT81PstPThnMAyjsevvSr2B1-S_gdfkv4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60339495/%E6%96%B0%E4%B9%9D%E9%BE%8D%E5%BB%A3%E5%A0%B4%E9%86%89%E6%BC%A2%E4%BB%A5%E9%85%92%E6%9D%AF%E6%96%BD%E8%A5%B2-52%E6%AD%B2%E7%94%B7%E9%A1%8D%E9%A0%AD%E5%8F%97%E5%82%B7-%E8%AD%A6%E5%88%91%E4%BA%8B%E8%AA%BF%E6%9F%A5%E9%9A%8A%E8%B7%9F%E9%80%B2",
     "timestamp": "2026-04-12T16:52:29.162Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "Amazfit T-Rex Ultra 2評測｜51mm鈦金屬配3000nits屏幕挑戰極限",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260412/1120123949359828992016972.jpeg/ucHfkmUFLeAWnpL71DV1Le11Jg1KeTlnGQVIiBkFSIg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60335733/amazfit-t-rex-ultra-2%E8%A9%95%E6%B8%AC-51mm%E9%88%A6%E9%87%91%E5%B1%AC%E9%85%8D3000nits%E5%B1%8F%E5%B9%95%E6%8C%91%E6%88%B0%E6%A5%B5%E9%99%90",
-    "timestamp": "2026-04-12T16:20:18.992Z",
     "strategy": ".content-card__main"
   }
 ];
