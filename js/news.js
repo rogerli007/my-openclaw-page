@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-13T19:20:33.683Z
+// Last updated: 2026-04-13T20:30:57.508Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "特朗普再批教宗「非常軟弱」　否認藉AI圖自比救世主",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260414/1120540777529741312057621.jpeg/yUjaBTV9Z3tfLZHRW10Mz-rFhE46jqC5w4FH6cOBR-k?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60339850/%E7%89%B9%E6%9C%97%E6%99%AE%E5%86%8D%E6%89%B9%E6%95%99%E5%AE%97-%E9%9D%9E%E5%B8%B8%E8%BB%9F%E5%BC%B1-%E5%90%A6%E8%AA%8D%E8%97%89ai%E5%9C%96%E8%87%AA%E6%AF%94%E6%95%91%E4%B8%96%E4%B8%BB",
+    "timestamp": "2026-04-13T20:30:57.508Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "特朗普：伊朗致電稱希望達成協議　前一天34船通過霍爾木茲",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250916/1044591890046914560436750.png/k097FeAA0iqFUTI1kAhojM5D8qVGo-uOT1nRVU9Z0VU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60276758/%E6%B8%AF%E9%90%B5%E7%94%B7%E8%83%8C%E8%84%8A%E6%9C%89%E8%9D%B4%E8%9D%B6%E5%81%9C%E9%9D%A0-bb%E8%BB%8A%E5%A5%B3%E7%AB%A5%E5%8D%B3%E6%8B%89%E8%BB%8A%E7%AF%B7-%E7%B6%B2%E6%B0%91%E7%8B%82%E8%AE%9A-%E6%9C%89%E5%8D%B1%E6%A9%9F%E6%84%9F",
     "timestamp": "2026-04-12T23:22:15.542Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "天氣｜今日日間炎熱　市區最高約29度　新界再高一兩度",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260413/1120243959189344256361924.jpeg/A2t68NcgjbINEg9GMQlFX6qW6yjMOw_aVcXysFXF8rA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60339494/%E5%A4%A9%E6%B0%A3-%E4%BB%8A%E6%97%A5%E6%97%A5%E9%96%93%E7%82%8E%E7%86%B1-%E5%B8%82%E5%8D%80%E6%9C%80%E9%AB%98%E7%B4%8429%E5%BA%A6-%E6%96%B0%E7%95%8C%E5%86%8D%E9%AB%98%E4%B8%80%E5%85%A9%E5%BA%A6",
-    "timestamp": "2026-04-12T22:36:11.559Z",
     "strategy": ".content-card__main"
   }
 ];
