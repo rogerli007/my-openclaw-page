@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-13T10:27:41.272Z
+// Last updated: 2026-04-13T11:07:22.599Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "西班牙官員批以色列政府：種族滅絕犯罪政權　終將接受法院審判",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260407/1118132452158607360096748.jpeg/XEgdVSHrhKAn2IjNizddqLZ99SaJep7jenhH4Hp4R-A?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60339620/%E8%A5%BF%E7%8F%AD%E7%89%99%E5%AE%98%E5%93%A1%E6%89%B9%E4%BB%A5%E8%89%B2%E5%88%97%E6%94%BF%E5%BA%9C-%E7%A8%AE%E6%97%8F%E6%BB%85%E7%B5%95%E7%8A%AF%E7%BD%AA%E6%94%BF%E6%AC%8A-%E7%B5%82%E5%B0%87%E6%8E%A5%E5%8F%97%E6%B3%95%E9%99%A2%E5%AF%A9%E5%88%A4",
+    "timestamp": "2026-04-13T11:07:22.599Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美食新聞報道丨謝嫣薇推介米芝蓮肉骨茶　伍倩彤食琵琶鵝食到升仙",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260411/1119659262092513280046185.jpeg/PmxUQaZ-3wSXeL_Av7JuQxT80uO_ZBlhRsSNQ0bEjUM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60339500/%E4%BC%8A%E6%9C%97%E4%BB%A3%E8%A1%A8-%E8%AB%87%E5%88%A4%E4%B8%AD%E6%8A%B5%E5%88%B6%E4%BA%86%E7%BE%8E%E6%96%B9%E4%B8%89%E5%A4%A7-%E7%84%A1%E7%90%86%E8%A6%81%E6%B1%82",
     "timestamp": "2026-04-12T19:24:36.314Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "伊朗代表：談判中抵制了美方三大「無理要求」",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260411/1119659262092513280046185.jpeg/PmxUQaZ-3wSXeL_Av7JuQxT80uO_ZBlhRsSNQ0bEjUM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60339500/%E4%BC%8A%E6%9C%97%E4%BB%A3%E8%A1%A8-%E8%AB%87%E5%88%A4%E4%B8%AD%E6%8A%B5%E5%88%B6%E4%BA%86%E7%BE%8E%E6%96%B9%E4%B8%89%E5%A4%A7-%E7%84%A1%E7%90%86%E8%A6%81%E6%B1%82",
-    "timestamp": "2026-04-12T18:53:31.851Z",
     "strategy": ".content-card__main"
   }
 ];
