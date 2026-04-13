@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-13T11:49:29.925Z
+// Last updated: 2026-04-13T12:17:29.859Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "「粵港澳大灣區學生書法及名家書畫聯展」上環文娛中心展覽廳舉行",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260413/1120451715213037568385147.jpeg/nJEA8rbFQDV5JtpvmHX3wW_-XuHYbfD8qO_j16jv49c?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%97%9D%E6%96%87%E4%B8%AD%E5%9C%8B/60339811/%E7%B2%B5%E6%B8%AF%E6%BE%B3%E5%A4%A7%E7%81%A3%E5%8D%80%E5%AD%B8%E7%94%9F%E6%9B%B8%E6%B3%95%E5%8F%8A%E5%90%8D%E5%AE%B6%E6%9B%B8%E7%95%AB%E8%81%AF%E5%B1%95-%E4%B8%8A%E7%92%B0%E6%96%87%E5%A8%9B%E4%B8%AD%E5%BF%83%E5%B1%95%E8%A6%BD%E5%BB%B3%E8%88%89%E8%A1%8C",
+    "timestamp": "2026-04-13T12:17:29.859Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "《蝙蝠俠》John Nolan離世　享年87歲　路蘭家族影視事業痛失大將",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260413/1120208994896449536249713.jpeg/WZ2vMKKU_QlYpKl3rlgA-6WMwTu2gSMaMU-OJTFPjiU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60339503/%E7%BE%8E%E5%9C%8B%E6%96%B0%E6%BE%A4%E8%A5%BF%E5%B7%9E%E5%BF%AB%E9%A4%90%E5%BA%97%E6%A7%8D%E6%93%8A%E6%A1%88-%E8%87%B3%E5%B0%911%E6%AD%BB6%E4%BA%BA%E5%8F%97%E5%82%B7",
     "timestamp": "2026-04-12T20:18:10.268Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "伊朗代表：談判中抵制了美方三大「無理要求」",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260411/1119659262092513280046185.jpeg/PmxUQaZ-3wSXeL_Av7JuQxT80uO_ZBlhRsSNQ0bEjUM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60339500/%E4%BC%8A%E6%9C%97%E4%BB%A3%E8%A1%A8-%E8%AB%87%E5%88%A4%E4%B8%AD%E6%8A%B5%E5%88%B6%E4%BA%86%E7%BE%8E%E6%96%B9%E4%B8%89%E5%A4%A7-%E7%84%A1%E7%90%86%E8%A6%81%E6%B1%82",
-    "timestamp": "2026-04-12T19:50:29.904Z",
     "strategy": ".content-card__main"
   }
 ];
