@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-13T04:03:05.763Z
+// Last updated: 2026-04-13T05:17:40.349Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "平保據報擬售軟件業私募股權投資　價值約78億元",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20231108/798941101762285568485962.jpeg/lW6kebcSTnbvb9Svd1PODdbU1t08xgPZ98kaNvfJGjY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60339614/%E5%B9%B3%E4%BF%9D%E6%93%9A%E5%A0%B1%E6%93%AC%E5%94%AE%E8%BB%9F%E4%BB%B6%E6%A5%AD%E7%A7%81%E5%8B%9F%E8%82%A1%E6%AC%8A%E6%8A%95%E8%B3%87-%E5%83%B9%E5%80%BC%E7%B4%8478%E5%84%84%E5%85%83",
+    "timestamp": "2026-04-13T05:17:40.349Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "沙田一中學男生認校內女廁偷拍女同學　官稱不宜判監　判感化1年",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260412/1120123949359828992016972.jpeg/ucHfkmUFLeAWnpL71DV1Le11Jg1KeTlnGQVIiBkFSIg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60335733/amazfit-t-rex-ultra-2%E8%A9%95%E6%B8%AC-51mm%E9%88%A6%E9%87%91%E5%B1%AC%E9%85%8D3000nits%E5%B1%8F%E5%B9%95%E6%8C%91%E6%88%B0%E6%A5%B5%E9%99%90",
     "timestamp": "2026-04-12T16:20:18.992Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "羅湖站大混戰·有片｜眼神問題爆毆鬥　爆粗按地壓頸　6人被捕",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260412/1120135319568519168367240.jpeg/11SFNZ3J6qer8MMGypSExfZ8dw0MTPDfGAk_cBgJP3A",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60339448/%E7%BE%85%E6%B9%96%E7%AB%99%E5%A4%A7%E6%B7%B7%E6%88%B0-%E6%9C%89%E7%89%87-%E7%9C%BC%E7%A5%9E%E5%95%8F%E9%A1%8C%E7%88%86%E6%AF%86%E9%AC%A5-%E7%88%86%E7%B2%97%E6%8C%89%E5%9C%B0%E5%A3%93%E9%A0%B8-6%E4%BA%BA%E8%A2%AB%E6%8D%95",
-    "timestamp": "2026-04-12T15:23:47.281Z",
     "strategy": ".content-card__main"
   }
 ];
