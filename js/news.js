@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-13T21:57:19.572Z
+// Last updated: 2026-04-13T22:26:14.427Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "天氣｜今日市區最高約30度　未來一兩日仍日間炎熱",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260414/1120602726695178240314862.jpeg/RpDdNfoANDM4WePgdCWsXOL4U8Fz7Ulxc0CN63NAjes?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60339858/%E5%A4%A9%E6%B0%A3-%E4%BB%8A%E6%97%A5%E5%B8%82%E5%8D%80%E6%9C%80%E9%AB%98%E7%B4%8430%E5%BA%A6-%E6%9C%AA%E4%BE%86%E4%B8%80%E5%85%A9%E6%97%A5%E4%BB%8D%E6%97%A5%E9%96%93%E7%82%8E%E7%86%B1",
+    "timestamp": "2026-04-13T22:26:14.427Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "巴基斯坦總理：美伊停火協議仍有效　繼續推動實和平進程",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20240220/836561270890041344067821.jpeg/DgrS3PtZOg9niOHj-XdlnP9wfLACIihG55E9kMKRPZA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60339586/%E6%B2%99%E7%94%B0%E4%B8%80%E4%B8%AD%E5%AD%B8%E7%94%B7%E7%94%9F%E8%AA%8D%E6%A0%A1%E5%85%A7%E5%A5%B3%E5%BB%81%E5%81%B7%E6%8B%8D%E5%A5%B3%E5%90%8C%E5%AD%B8-%E5%AE%98%E7%A8%B1%E4%B8%8D%E5%AE%9C%E5%88%A4%E7%9B%A3-%E5%88%A4%E6%84%9F%E5%8C%961%E5%B9%B4",
     "timestamp": "2026-04-13T04:03:05.763Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "伊朗局勢｜IMF稱倘美伊維持停火　物價回落至戰前水平仍需時",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260124/1091719613000978432956274.jpeg/oHkBdCqCHmgeaZocKEaYGC7j5pLGZf7KDkx-Aw5MfgM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60339525/%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8B%A2-imf%E7%A8%B1%E5%80%98%E7%BE%8E%E4%BC%8A%E7%B6%AD%E6%8C%81%E5%81%9C%E7%81%AB-%E7%89%A9%E5%83%B9%E5%9B%9E%E8%90%BD%E8%87%B3%E6%88%B0%E5%89%8D%E6%B0%B4%E5%B9%B3%E4%BB%8D%E9%9C%80%E6%99%82",
-    "timestamp": "2026-04-13T01:45:57.297Z",
     "strategy": ".content-card__main"
   }
 ];
