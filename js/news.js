@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-13T20:54:50.651Z
+// Last updated: 2026-04-13T21:26:25.387Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "英超｜10人曼聯1：2不敵列斯聯",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260414/1120584304062238720376820.jpeg/Of9m_C1JgpKZtdy3Lhj0cidA-EHkwCf1qB63PKgetzw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60339857/%E8%8B%B1%E8%B6%85-10%E4%BA%BA%E6%9B%BC%E8%81%AF1-2%E4%B8%8D%E6%95%B5%E5%88%97%E6%96%AF%E8%81%AF",
+    "timestamp": "2026-04-13T21:26:25.387Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "伊朗戰爭｜中巴外長通話　王毅：當務之急全力避免戰端重啟",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260412/1119968566364344320276493.jpeg/QYphNEydFUsOy6gr0C0MJXc64IFhmst8_s4VEv7OFRI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60339516/%E7%BE%8E%E5%9C%8B%E5%8A%A0%E5%B7%9E%E5%B7%9E%E9%95%B7%E7%86%B1%E9%96%80%E5%80%99%E9%81%B8%E4%BA%BA%E6%96%AF%E6%B2%83%E9%9F%8B%E7%88%BE%E9%99%B7%E6%80%A7%E4%BE%B5%E9%86%9C%E8%81%9E-%E5%AE%A3%E5%B8%83%E6%9A%AB%E5%81%9C%E7%AB%B6%E9%81%B8",
     "timestamp": "2026-04-13T00:54:54.175Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "搵黃子華拍戲救命？　翁子光幽默：我自己都要爭氣，佢唔係我老竇",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260413/1120184343529000960530172.jpeg/Q6Ocupkdy6BBiACrXgrqnkcaF_qfEdYI5lPLrOZTy6w?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60339498/%E6%90%B5%E9%BB%83%E5%AD%90%E8%8F%AF%E6%8B%8D%E6%88%B2%E6%95%91%E5%91%BD-%E7%BF%81%E5%AD%90%E5%85%89%E5%B9%BD%E9%BB%98-%E6%88%91%E8%87%AA%E5%B7%B1%E9%83%BD%E8%A6%81%E7%88%AD%E6%B0%A3-%E4%BD%A2%E5%94%94%E4%BF%82%E6%88%91%E8%80%81%E7%AB%87",
-    "timestamp": "2026-04-12T23:51:09.041Z",
     "strategy": ".content-card__main"
   }
 ];
