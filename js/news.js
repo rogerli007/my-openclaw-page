@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-13T00:54:54.175Z
+// Last updated: 2026-04-13T01:45:57.297Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "伊朗局勢｜IMF稱倘美伊維持停火　物價回落至戰前水平仍需時",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260124/1091719613000978432956274.jpeg/oHkBdCqCHmgeaZocKEaYGC7j5pLGZf7KDkx-Aw5MfgM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60339525/%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8B%A2-imf%E7%A8%B1%E5%80%98%E7%BE%8E%E4%BC%8A%E7%B6%AD%E6%8C%81%E5%81%9C%E7%81%AB-%E7%89%A9%E5%83%B9%E5%9B%9E%E8%90%BD%E8%87%B3%E6%88%B0%E5%89%8D%E6%B0%B4%E5%B9%B3%E4%BB%8D%E9%9C%80%E6%99%82",
+    "timestamp": "2026-04-13T01:45:57.297Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美國加州州長熱門候選人斯沃韋爾陷性侵醜聞　宣布暫停競選",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260412/1120123959375826944837159.jpeg/JGn3XNeDEHURwOCJwvAd44vak_aA0k5mvD1lTbw9ZU0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60339483/%E7%A9%BA%E6%89%8B%E9%81%93-%E5%8A%89%E6%85%95%E8%A3%B3k1%E8%81%AF%E8%B3%BD%E6%A8%82%E5%B1%B1%E7%AB%99%E5%86%8D%E5%8B%9D%E5%B0%BE%E9%87%8E%E7%9C%9F%E6%AD%A5-%E8%B7%A8%E5%AD%A3%E9%80%A3%E7%BA%8C6%E7%AB%99%E5%A5%AA%E5%86%A0",
     "timestamp": "2026-04-12T14:56:36.296Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "張寶兒分享育兒經疑樣貌升級　網民錯重點嘲怪怪的：成個樣都變咗",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260412/1120083195337904128098276.jpeg/DLgpR6M3C4oA47WJlDwS17_SXAuMvN3J_Wvgn_1r4J8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60339454/%E5%BC%B5%E5%AF%B6%E5%85%92%E5%88%86%E4%BA%AB%E8%82%B2%E5%85%92%E7%B6%93%E7%96%91%E6%A8%A3%E8%B2%8C%E5%8D%87%E7%B4%9A-%E7%B6%B2%E6%B0%91%E9%8C%AF%E9%87%8D%E9%BB%9E%E5%98%B2%E6%80%AA%E6%80%AA%E7%9A%84-%E6%88%90%E5%80%8B%E6%A8%A3%E9%83%BD%E8%AE%8A%E5%92%97",
-    "timestamp": "2026-04-12T14:08:27.397Z",
     "strategy": ".content-card__main"
   }
 ];
