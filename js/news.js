@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-13T16:47:12.228Z
+// Last updated: 2026-04-13T18:16:29.765Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "特朗普：伊朗致電稱希望達成協議　前一天34船通過霍爾木茲",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260414/1120533310691348480298043.jpeg/0iOOol7gvyGTHx8z7wUij1OLHj2SI-aTqUq4ralKuK0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60339848/%E7%89%B9%E6%9C%97%E6%99%AE-%E4%BC%8A%E6%9C%97%E8%87%B4%E9%9B%BB%E7%A8%B1%E5%B8%8C%E6%9C%9B%E9%81%94%E6%88%90%E5%8D%94%E8%AD%B0-%E5%89%8D%E4%B8%80%E5%A4%A934%E8%88%B9%E9%80%9A%E9%81%8E%E9%9C%8D%E7%88%BE%E6%9C%A8%E8%8C%B2",
+    "timestamp": "2026-04-13T18:16:29.765Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "「S媽」黃春梅一年失兩至親　痛失愛女大S再失親哥：我心碎中",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20241025/926520330363604992659740.jpeg/9KQZeejFCNYDDRIe43PbaPpyOCuzSXoe3fASBejwEgU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60339489/%E5%8D%81%E5%A4%A7%E5%B1%8B%E8%8B%91%E5%91%A8%E6%9C%AB8%E5%AE%97%E6%88%90%E4%BA%A4-%E9%87%8D%E5%9B%9E%E5%96%AE%E4%BD%8D%E6%95%B8%E6%B0%B4%E5%B9%B3-%E5%89%B55%E5%91%A8%E6%96%B0%E4%BD%8E",
     "timestamp": "2026-04-12T22:17:28.550Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美中央司令部：13日上午開始　封鎖所有進出伊朗港口海上交通",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260413/1120232368053948416831672.jpeg/QVinjPpJ58SyjyeR98aAkkGcvUXLa3o66SIXK-kiFys?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60339507/%E7%BE%8E%E4%B8%AD%E5%A4%AE%E5%8F%B8%E4%BB%A4%E9%83%A8-13%E6%97%A5%E4%B8%8A%E5%8D%88%E9%96%8B%E5%A7%8B-%E5%B0%81%E9%8E%96%E6%89%80%E6%9C%89%E9%80%B2%E5%87%BA%E4%BC%8A%E6%9C%97%E6%B8%AF%E5%8F%A3%E6%B5%B7%E4%B8%8A%E4%BA%A4%E9%80%9A",
-    "timestamp": "2026-04-12T21:51:04.990Z",
     "strategy": ".content-card__main"
   }
 ];
