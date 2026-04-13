@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-13T21:26:25.387Z
+// Last updated: 2026-04-13T21:57:19.572Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "巴基斯坦總理：美伊停火協議仍有效　繼續推動實和平進程",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250508/997188521871544320259807.jpeg/C1feAkT1dwR9GNfeoPcbi_tsjQoAeNo85QDdzeUA3c0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60339851/%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E7%B8%BD%E7%90%86-%E7%BE%8E%E4%BC%8A%E5%81%9C%E7%81%AB%E5%8D%94%E8%AD%B0%E4%BB%8D%E6%9C%89%E6%95%88-%E7%B9%BC%E7%BA%8C%E6%8E%A8%E5%8B%95%E5%AF%A6%E5%92%8C%E5%B9%B3%E9%80%B2%E7%A8%8B",
+    "timestamp": "2026-04-13T21:57:19.572Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "英超｜10人曼聯1：2不敵列斯聯",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260124/1091719613000978432956274.jpeg/oHkBdCqCHmgeaZocKEaYGC7j5pLGZf7KDkx-Aw5MfgM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60339525/%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8B%A2-imf%E7%A8%B1%E5%80%98%E7%BE%8E%E4%BC%8A%E7%B6%AD%E6%8C%81%E5%81%9C%E7%81%AB-%E7%89%A9%E5%83%B9%E5%9B%9E%E8%90%BD%E8%87%B3%E6%88%B0%E5%89%8D%E6%B0%B4%E5%B9%B3%E4%BB%8D%E9%9C%80%E6%99%82",
     "timestamp": "2026-04-13T01:45:57.297Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美國加州州長熱門候選人斯沃韋爾陷性侵醜聞　宣布暫停競選",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260412/1119968566364344320276493.jpeg/QYphNEydFUsOy6gr0C0MJXc64IFhmst8_s4VEv7OFRI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60339516/%E7%BE%8E%E5%9C%8B%E5%8A%A0%E5%B7%9E%E5%B7%9E%E9%95%B7%E7%86%B1%E9%96%80%E5%80%99%E9%81%B8%E4%BA%BA%E6%96%AF%E6%B2%83%E9%9F%8B%E7%88%BE%E9%99%B7%E6%80%A7%E4%BE%B5%E9%86%9C%E8%81%9E-%E5%AE%A3%E5%B8%83%E6%9A%AB%E5%81%9C%E7%AB%B6%E9%81%B8",
-    "timestamp": "2026-04-13T00:54:54.175Z",
     "strategy": ".content-card__main"
   }
 ];
