@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-13T08:58:59.198Z
+// Last updated: 2026-04-13T10:27:41.272Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美食新聞報道丨謝嫣薇推介米芝蓮肉骨茶　伍倩彤食琵琶鵝食到升仙",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260413/1120382087489130496382169.jpeg/c668yt6jQe39WtneJX9yAtDESRhBp1hPz5Hs0c-R7NE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60339673/%E7%BE%8E%E9%A3%9F%E6%96%B0%E8%81%9E%E5%A0%B1%E9%81%93-%E8%AC%9D%E5%AB%A3%E8%96%87%E6%8E%A8%E4%BB%8B%E7%B1%B3%E8%8A%9D%E8%93%AE%E8%82%89%E9%AA%A8%E8%8C%B6-%E4%BC%8D%E5%80%A9%E5%BD%A4%E9%A3%9F%E7%90%B5%E7%90%B6%E9%B5%9D%E9%A3%9F%E5%88%B0%E5%8D%87%E4%BB%99",
+    "timestamp": "2026-04-13T10:27:41.272Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "運輸署增發332個私人駕駛導師執照　248個公眾配額　5月起可申請",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260411/1119659262092513280046185.jpeg/PmxUQaZ-3wSXeL_Av7JuQxT80uO_ZBlhRsSNQ0bEjUM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60339500/%E4%BC%8A%E6%9C%97%E4%BB%A3%E8%A1%A8-%E8%AB%87%E5%88%A4%E4%B8%AD%E6%8A%B5%E5%88%B6%E4%BA%86%E7%BE%8E%E6%96%B9%E4%B8%89%E5%A4%A7-%E7%84%A1%E7%90%86%E8%A6%81%E6%B1%82",
     "timestamp": "2026-04-12T18:53:31.851Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "英超｜曼城作客贈車路士3蛋　落後榜首阿仙奴6分",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260413/1120166669109432320065238.jpeg/fdbYtkjRHvaaU2YkRiRiF2D634hR0VRvN7BbkjewW5I?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60339497/%E8%8B%B1%E8%B6%85-%E6%9B%BC%E5%9F%8E%E4%BD%9C%E5%AE%A2%E8%B4%88%E8%BB%8A%E8%B7%AF%E5%A3%AB3%E8%9B%8B-%E8%90%BD%E5%BE%8C%E6%A6%9C%E9%A6%96%E9%98%BF%E4%BB%99%E5%A5%B46%E5%88%86",
-    "timestamp": "2026-04-12T17:50:38.878Z",
     "strategy": ".content-card__main"
   }
 ];
