@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-13T06:09:41.902Z
+// Last updated: 2026-04-13T07:07:52.998Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "LiSA織部里沙演唱會2026香港｜門票優先/公售攻略+連結+座位表",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260413/1120358699274080256250786.jpeg/DzCAjdrjgjJCgjcAK0vThKb-Z17bDzUYk5ci_ZOXIv0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60339627/lisa%E7%B9%94%E9%83%A8%E9%87%8C%E6%B2%99%E6%BC%94%E5%94%B1%E6%9C%832026%E9%A6%99%E6%B8%AF-%E9%96%80%E7%A5%A8%E5%84%AA%E5%85%88-%E5%85%AC%E5%94%AE%E6%94%BB%E7%95%A5-%E9%80%A3%E7%B5%90-%E5%BA%A7%E4%BD%8D%E8%A1%A8",
+    "timestamp": "2026-04-13T07:07:52.998Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "特朗普「仿」伊朗封霍爾木茲海峽　美媒揭主因：截斷戰爭收入來源",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260402/1116200726918336512450697.jpeg/cdIv0fMcQIkZJ6W-4WbxpwWbmSLdqgp00RwV0tEcFdI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60339496/%E4%BC%8A%E5%AA%92-%E7%BE%8E%E8%BB%8D%E8%89%A6%E9%81%AD%E9%9D%A9%E5%91%BD%E8%A1%9B%E9%9A%8A%E9%8E%96%E5%AE%9A%E5%BE%8C%E6%92%A4%E5%87%BA%E6%B3%A2%E6%96%AF%E7%81%A3-%E8%B7%9D%E8%A2%AB%E6%91%A7%E6%AF%80%E5%83%85%E5%B7%AE%E6%95%B8%E5%88%86%E9%90%98",
     "timestamp": "2026-04-12T17:20:01.194Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "新九龍廣場醉漢以酒杯施襲　52歲男額頭受傷　警刑事調查隊跟進",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/437308/org/4f6b55d5bc8f57ac53dcfea7d4edd88a.jpg/PiRe9dnWauiT81PstPThnMAyjsevvSr2B1-S_gdfkv4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60339495/%E6%96%B0%E4%B9%9D%E9%BE%8D%E5%BB%A3%E5%A0%B4%E9%86%89%E6%BC%A2%E4%BB%A5%E9%85%92%E6%9D%AF%E6%96%BD%E8%A5%B2-52%E6%AD%B2%E7%94%B7%E9%A1%8D%E9%A0%AD%E5%8F%97%E5%82%B7-%E8%AD%A6%E5%88%91%E4%BA%8B%E8%AA%BF%E6%9F%A5%E9%9A%8A%E8%B7%9F%E9%80%B2",
-    "timestamp": "2026-04-12T16:52:29.162Z",
     "strategy": ".content-card__main"
   }
 ];
