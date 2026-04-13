@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-13T14:07:55.884Z
+// Last updated: 2026-04-13T15:41:11.938Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "世界互聯網大會亞太峰會再在港舉行　匯聚千名政商領袖及專家學者",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260413/1120504059909378048542096.jpeg/OnsCrJxttahmDF_JzSS37EPl18Y8n-Te8QNpSPEDaUg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60339840/%E4%B8%96%E7%95%8C%E4%BA%92%E8%81%AF%E7%B6%B2%E5%A4%A7%E6%9C%83%E4%BA%9E%E5%A4%AA%E5%B3%B0%E6%9C%83%E5%86%8D%E5%9C%A8%E6%B8%AF%E8%88%89%E8%A1%8C-%E5%8C%AF%E8%81%9A%E5%8D%83%E5%90%8D%E6%94%BF%E5%95%86%E9%A0%98%E8%A2%96%E5%8F%8A%E5%B0%88%E5%AE%B6%E5%AD%B8%E8%80%85",
+    "timestamp": "2026-04-13T15:41:11.938Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "李貞秀遭民眾黨開除黨籍　為首位陸配立委　未滿3個月失立委身分",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260413/1120226463631544320042973.jpeg/a0S4VU9m4rthv5OcvCZXWF72WtkV_UpRC8dpxQvHacU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60339504/%E5%8C%88%E7%89%99%E5%88%A9%E5%A4%A7%E9%81%B8-%E6%AD%90%E6%B4%B2%E5%A4%9A%E5%9C%8B%E7%A5%9D%E8%B3%80%E5%8F%8D%E5%B0%8D%E6%B4%BE%E5%8B%9D%E9%81%B8-%E9%A6%AE%E5%BE%B7%E8%90%8A%E6%81%A9-%E6%AD%90%E7%9B%9F%E6%9B%B4%E5%8A%A0%E5%BC%B7%E5%A4%A7",
     "timestamp": "2026-04-12T21:21:14.809Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美國新澤西州快餐店槍擊案　至少1死6人受傷",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260413/1120208994896449536249713.jpeg/WZ2vMKKU_QlYpKl3rlgA-6WMwTu2gSMaMU-OJTFPjiU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60339503/%E7%BE%8E%E5%9C%8B%E6%96%B0%E6%BE%A4%E8%A5%BF%E5%B7%9E%E5%BF%AB%E9%A4%90%E5%BA%97%E6%A7%8D%E6%93%8A%E6%A1%88-%E8%87%B3%E5%B0%911%E6%AD%BB6%E4%BA%BA%E5%8F%97%E5%82%B7",
-    "timestamp": "2026-04-12T21:03:00.891Z",
     "strategy": ".content-card__main"
   }
 ];
