@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-13T12:17:29.859Z
+// Last updated: 2026-04-13T13:18:52.044Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "中年好聲音4丨范子睿爆晒Rap功High到眼鏡起霧　唯一被淘汰無憾",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260413/1120403241893367808548372.jpeg/neIwZkAF3lkiRHiyXtucs-cFD2opRe6ETx2WfE8dlnw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60339716/%E4%B8%AD%E5%B9%B4%E5%A5%BD%E8%81%B2%E9%9F%B34-%E8%8C%83%E5%AD%90%E7%9D%BF%E7%88%86%E6%99%92rap%E5%8A%9Fhigh%E5%88%B0%E7%9C%BC%E9%8F%A1%E8%B5%B7%E9%9C%A7-%E5%94%AF%E4%B8%80%E8%A2%AB%E6%B7%98%E6%B1%B0%E7%84%A1%E6%86%BE",
+    "timestamp": "2026-04-13T13:18:52.044Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "「粵港澳大灣區學生書法及名家書畫聯展」上環文娛中心展覽廳舉行",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260413/1120208994896449536249713.jpeg/WZ2vMKKU_QlYpKl3rlgA-6WMwTu2gSMaMU-OJTFPjiU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60339503/%E7%BE%8E%E5%9C%8B%E6%96%B0%E6%BE%A4%E8%A5%BF%E5%B7%9E%E5%BF%AB%E9%A4%90%E5%BA%97%E6%A7%8D%E6%93%8A%E6%A1%88-%E8%87%B3%E5%B0%911%E6%AD%BB6%E4%BA%BA%E5%8F%97%E5%82%B7",
     "timestamp": "2026-04-12T20:37:04.077Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美國新澤西州快餐店槍擊案　至少1死6人受傷",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260413/1120208994896449536249713.jpeg/WZ2vMKKU_QlYpKl3rlgA-6WMwTu2gSMaMU-OJTFPjiU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60339503/%E7%BE%8E%E5%9C%8B%E6%96%B0%E6%BE%A4%E8%A5%BF%E5%B7%9E%E5%BF%AB%E9%A4%90%E5%BA%97%E6%A7%8D%E6%93%8A%E6%A1%88-%E8%87%B3%E5%B0%911%E6%AD%BB6%E4%BA%BA%E5%8F%97%E5%82%B7",
-    "timestamp": "2026-04-12T20:18:10.268Z",
     "strategy": ".content-card__main"
   }
 ];
