@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-14T18:48:49.723Z
+// Last updated: 2026-04-14T19:21:13.520Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "伊朗戰爭｜特朗普反擊稱梅洛尼才不可接受　為對方拒助美國感震驚",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250105/952705685634682880813702.jpeg/T81ueypMz2qf1xHudkcnYcgr1utzSpOPpR_5gqUf-YI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60340241/%E4%BC%8A%E6%9C%97%E6%88%B0%E7%88%AD-%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%8D%E6%93%8A%E7%A8%B1%E6%A2%85%E6%B4%9B%E5%B0%BC%E6%89%8D%E4%B8%8D%E5%8F%AF%E6%8E%A5%E5%8F%97-%E7%82%BA%E5%B0%8D%E6%96%B9%E6%8B%92%E5%8A%A9%E7%BE%8E%E5%9C%8B%E6%84%9F%E9%9C%87%E9%A9%9A",
+    "timestamp": "2026-04-14T19:21:13.520Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "特朗普：與美伊談判　或將在近2日內在巴基斯坦舉行",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250508/997188521871544320259807.jpeg/C1feAkT1dwR9GNfeoPcbi_tsjQoAeNo85QDdzeUA3c0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60339851/%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E7%B8%BD%E7%90%86-%E7%BE%8E%E4%BC%8A%E5%81%9C%E7%81%AB%E5%8D%94%E8%AD%B0%E4%BB%8D%E6%9C%89%E6%95%88-%E7%B9%BC%E7%BA%8C%E6%8E%A8%E5%8B%95%E5%AF%A6%E5%92%8C%E5%B9%B3%E9%80%B2%E7%A8%8B",
     "timestamp": "2026-04-13T21:57:19.572Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "英超｜10人曼聯1：2不敵列斯聯",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260414/1120584304062238720376820.jpeg/Of9m_C1JgpKZtdy3Lhj0cidA-EHkwCf1qB63PKgetzw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60339857/%E8%8B%B1%E8%B6%85-10%E4%BA%BA%E6%9B%BC%E8%81%AF1-2%E4%B8%8D%E6%95%B5%E5%88%97%E6%96%AF%E8%81%AF",
-    "timestamp": "2026-04-13T21:26:25.387Z",
     "strategy": ".content-card__main"
   }
 ];
