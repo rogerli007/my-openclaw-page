@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-14T16:37:49.473Z
+// Last updated: 2026-04-14T17:15:30.520Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "去年「M」品牌共花$3億資助25活動　七欖帶動九龍城區生意額升15%",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250330/983038649564270592126974.jpeg/IR2v_Qtvja_TUswulckGwKYht5TOAt5527B1ucGwdbk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60340223/%E5%8E%BB%E5%B9%B4-m-%E5%93%81%E7%89%8C%E5%85%B1%E8%8A%B1-3%E5%84%84%E8%B3%87%E5%8A%A925%E6%B4%BB%E5%8B%95-%E4%B8%83%E6%AC%96%E5%B8%B6%E5%8B%95%E4%B9%9D%E9%BE%8D%E5%9F%8E%E5%8D%80%E7%94%9F%E6%84%8F%E9%A1%8D%E5%8D%8715",
+    "timestamp": "2026-04-14T17:15:30.520Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "醫療氣體6.14起納藥劑製品規管　衞生署提醒業界須領牌及註冊產品",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260414/1120540777529741312057621.jpeg/yUjaBTV9Z3tfLZHRW10Mz-rFhE46jqC5w4FH6cOBR-k?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60339850/%E7%89%B9%E6%9C%97%E6%99%AE%E5%86%8D%E6%89%B9%E6%95%99%E5%AE%97-%E9%9D%9E%E5%B8%B8%E8%BB%9F%E5%BC%B1-%E5%90%A6%E8%AA%8D%E8%97%89ai%E5%9C%96%E8%87%AA%E6%AF%94%E6%95%91%E4%B8%96%E4%B8%BB",
     "timestamp": "2026-04-13T20:30:57.508Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普：伊朗致電稱希望達成協議　前一天34船通過霍爾木茲",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260414/1120533310691348480298043.jpeg/0iOOol7gvyGTHx8z7wUij1OLHj2SI-aTqUq4ralKuK0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60339848/%E7%89%B9%E6%9C%97%E6%99%AE-%E4%BC%8A%E6%9C%97%E8%87%B4%E9%9B%BB%E7%A8%B1%E5%B8%8C%E6%9C%9B%E9%81%94%E6%88%90%E5%8D%94%E8%AD%B0-%E5%89%8D%E4%B8%80%E5%A4%A934%E8%88%B9%E9%80%9A%E9%81%8E%E9%9C%8D%E7%88%BE%E6%9C%A8%E8%8C%B2",
-    "timestamp": "2026-04-13T19:20:33.683Z",
     "strategy": ".content-card__main"
   }
 ];
