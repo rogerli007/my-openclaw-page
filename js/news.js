@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-14T06:54:25.781Z
+// Last updated: 2026-04-14T09:13:40.030Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "首爾近郊｜朝韓三八線禁區：DMZ非武裝地帶深度遊　親睹真實朝鮮",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260414/1120735276952457216647258.jpeg/e1pGebjAci4lTg2oNMiAIf5s_0dt4o5u7zwfdu88H3Y?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%97%85%E9%81%8A/60280142/%E9%A6%96%E7%88%BE%E8%BF%91%E9%83%8A-%E6%9C%9D%E9%9F%93%E4%B8%89%E5%85%AB%E7%B7%9A%E7%A6%81%E5%8D%80-dmz%E9%9D%9E%E6%AD%A6%E8%A3%9D%E5%9C%B0%E5%B8%B6%E6%B7%B1%E5%BA%A6%E9%81%8A-%E8%A6%AA%E7%9D%B9%E7%9C%9F%E5%AF%A6%E6%9C%9D%E9%AE%AE",
+    "timestamp": "2026-04-14T09:13:40.030Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "滙豐艾橋智︰中東發展仍為重要戰略　中國發展模式改變為港帶機遇",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260413/1120382087489130496382169.jpeg/c668yt6jQe39WtneJX9yAtDESRhBp1hPz5Hs0c-R7NE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60339673/%E7%BE%8E%E9%A3%9F%E6%96%B0%E8%81%9E%E5%A0%B1%E9%81%93-%E8%AC%9D%E5%AB%A3%E8%96%87%E6%8E%A8%E4%BB%8B%E7%B1%B3%E8%8A%9D%E8%93%AE%E8%82%89%E9%AA%A8%E8%8C%B6-%E4%BC%8D%E5%80%A9%E5%BD%A4%E9%A3%9F%E7%90%B5%E7%90%B6%E9%B5%9D%E9%A3%9F%E5%88%B0%E5%8D%87%E4%BB%99",
     "timestamp": "2026-04-13T10:27:41.272Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "運輸署增發332個私人駕駛導師執照　248個公眾配額　5月起可申請",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/4344385/org/d2d734550e483b43f84894fae1ad882f.jpg/clnEggW3C0SBy9HJTiZ3_ybwHyDiZmAyLe1MwC3tTMA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60339707/%E9%81%8B%E8%BC%B8%E7%BD%B2%E5%A2%9E%E7%99%BC332%E5%80%8B%E7%A7%81%E4%BA%BA%E9%A7%95%E9%A7%9B%E5%B0%8E%E5%B8%AB%E5%9F%B7%E7%85%A7-248%E5%80%8B%E5%85%AC%E7%9C%BE%E9%85%8D%E9%A1%8D-5%E6%9C%88%E8%B5%B7%E5%8F%AF%E7%94%B3%E8%AB%8B",
-    "timestamp": "2026-04-13T08:58:59.198Z",
     "strategy": ".content-card__main"
   }
 ];
