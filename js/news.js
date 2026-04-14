@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-14T09:13:40.030Z
+// Last updated: 2026-04-14T09:53:50.081Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "曾沛慈疑遇浪姐黑箱作業跌出前10　瘋傳不滿怒退賽　本人現身闢謠",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260413/1120421858835959808320614.png/9Ie6T8gmwzSRVO88GGLSlY9lDuP9YSGvMAn8rjAJ_K4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60339773/%E6%9B%BE%E6%B2%9B%E6%85%88%E7%96%91%E9%81%87%E6%B5%AA%E5%A7%90%E9%BB%91%E7%AE%B1%E4%BD%9C%E6%A5%AD%E8%B7%8C%E5%87%BA%E5%89%8D10-%E7%98%8B%E5%82%B3%E4%B8%8D%E6%BB%BF%E6%80%92%E9%80%80%E8%B3%BD-%E6%9C%AC%E4%BA%BA%E7%8F%BE%E8%BA%AB%E9%97%A2%E8%AC%A0",
+    "timestamp": "2026-04-14T09:53:50.081Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "首爾近郊｜朝韓三八線禁區：DMZ非武裝地帶深度遊　親睹真實朝鮮",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260407/1118132452158607360096748.jpeg/XEgdVSHrhKAn2IjNizddqLZ99SaJep7jenhH4Hp4R-A?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60339620/%E8%A5%BF%E7%8F%AD%E7%89%99%E5%AE%98%E5%93%A1%E6%89%B9%E4%BB%A5%E8%89%B2%E5%88%97%E6%94%BF%E5%BA%9C-%E7%A8%AE%E6%97%8F%E6%BB%85%E7%B5%95%E7%8A%AF%E7%BD%AA%E6%94%BF%E6%AC%8A-%E7%B5%82%E5%B0%87%E6%8E%A5%E5%8F%97%E6%B3%95%E9%99%A2%E5%AF%A9%E5%88%A4",
     "timestamp": "2026-04-13T11:07:22.599Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美食新聞報道丨謝嫣薇推介米芝蓮肉骨茶　伍倩彤食琵琶鵝食到升仙",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260413/1120382087489130496382169.jpeg/c668yt6jQe39WtneJX9yAtDESRhBp1hPz5Hs0c-R7NE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60339673/%E7%BE%8E%E9%A3%9F%E6%96%B0%E8%81%9E%E5%A0%B1%E9%81%93-%E8%AC%9D%E5%AB%A3%E8%96%87%E6%8E%A8%E4%BB%8B%E7%B1%B3%E8%8A%9D%E8%93%AE%E8%82%89%E9%AA%A8%E8%8C%B6-%E4%BC%8D%E5%80%A9%E5%BD%A4%E9%A3%9F%E7%90%B5%E7%90%B6%E9%B5%9D%E9%A3%9F%E5%88%B0%E5%8D%87%E4%BB%99",
-    "timestamp": "2026-04-13T10:27:41.272Z",
     "strategy": ".content-card__main"
   }
 ];
