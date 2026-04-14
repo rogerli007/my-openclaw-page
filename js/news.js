@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-14T17:15:30.520Z
+// Last updated: 2026-04-14T17:47:08.947Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "以黎代表在華府直接會談　英法等17國外長促把握機遇",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260415/1120897283185971200153068.jpeg/qJ4TYoTmYuKrcLJcVNHJDM91ObMNAJcHaRC8omkQvKI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60340236/%E4%BB%A5%E9%BB%8E%E4%BB%A3%E8%A1%A8%E5%9C%A8%E8%8F%AF%E5%BA%9C%E7%9B%B4%E6%8E%A5%E6%9C%83%E8%AB%87-%E8%8B%B1%E6%B3%95%E7%AD%8917%E5%9C%8B%E5%A4%96%E9%95%B7%E4%BF%83%E6%8A%8A%E6%8F%A1%E6%A9%9F%E9%81%87",
+    "timestamp": "2026-04-14T17:47:08.947Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "去年「M」品牌共花$3億資助25活動　七欖帶動九龍城區生意額升15%",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260410/1119235927865036800203896.jpeg/xMm-uH9GEp_AkH56I79dWeOOrYlQ_G3CNvKOFTbyjhU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60339852/%E4%BC%8A%E6%9C%97%E6%88%B0%E7%88%AD-%E4%B8%AD%E5%B7%B4%E5%A4%96%E9%95%B7%E9%80%9A%E8%A9%B1-%E7%8E%8B%E6%AF%85-%E7%95%B6%E5%8B%99%E4%B9%8B%E6%80%A5%E5%85%A8%E5%8A%9B%E9%81%BF%E5%85%8D%E6%88%B0%E7%AB%AF%E9%87%8D%E5%95%9F",
     "timestamp": "2026-04-13T20:54:50.651Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普再批教宗「非常軟弱」　否認藉AI圖自比救世主",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260414/1120540777529741312057621.jpeg/yUjaBTV9Z3tfLZHRW10Mz-rFhE46jqC5w4FH6cOBR-k?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60339850/%E7%89%B9%E6%9C%97%E6%99%AE%E5%86%8D%E6%89%B9%E6%95%99%E5%AE%97-%E9%9D%9E%E5%B8%B8%E8%BB%9F%E5%BC%B1-%E5%90%A6%E8%AA%8D%E8%97%89ai%E5%9C%96%E8%87%AA%E6%AF%94%E6%95%91%E4%B8%96%E4%B8%BB",
-    "timestamp": "2026-04-13T20:30:57.508Z",
     "strategy": ".content-card__main"
   }
 ];
