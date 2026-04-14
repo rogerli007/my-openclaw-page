@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-14T11:44:30.512Z
+// Last updated: 2026-04-14T12:11:50.414Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "前男警迫子自瀆案　終院裁圖達至性滿足　不屬必須證明的控罪元素",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250508/997296021107118080371605.jpeg/pbjvRutPMHLUoLPtBWlEB4ezMVhzlP6nHqMkPx6jJD8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60340187/%E5%89%8D%E7%94%B7%E8%AD%A6%E8%BF%AB%E5%AD%90%E8%87%AA%E7%80%86%E6%A1%88-%E7%B5%82%E9%99%A2%E8%A3%81%E5%9C%96%E9%81%94%E8%87%B3%E6%80%A7%E6%BB%BF%E8%B6%B3-%E4%B8%8D%E5%B1%AC%E5%BF%85%E9%A0%88%E8%AD%89%E6%98%8E%E7%9A%84%E6%8E%A7%E7%BD%AA%E5%85%83%E7%B4%A0",
+    "timestamp": "2026-04-14T12:11:50.414Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "嫁入豪門能一步登天？豪門媳婦談婚姻：為金錢結婚地位低難以立足",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260413/1120480646112743424048129.jpeg/cw5OBz-R-COBXmz9WdU7ehyLeRqytD31UiEuAVIhLgE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8F%B0%E7%81%A3%E6%96%B0%E8%81%9E/60339828/%E6%9D%8E%E8%B2%9E%E7%A7%80%E9%81%AD%E6%B0%91%E7%9C%BE%E9%BB%A8%E9%96%8B%E9%99%A4%E9%BB%A8%E7%B1%8D-%E7%82%BA%E9%A6%96%E4%BD%8D%E9%99%B8%E9%85%8D%E7%AB%8B%E5%A7%94-%E6%9C%AA%E6%BB%BF3%E5%80%8B%E6%9C%88%E5%A4%B1%E7%AB%8B%E5%A7%94%E8%BA%AB%E5%88%86",
     "timestamp": "2026-04-13T14:07:55.884Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "中年好聲音4丨范子睿爆晒Rap功High到眼鏡起霧　唯一被淘汰無憾",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260413/1120403241893367808548372.jpeg/neIwZkAF3lkiRHiyXtucs-cFD2opRe6ETx2WfE8dlnw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60339716/%E4%B8%AD%E5%B9%B4%E5%A5%BD%E8%81%B2%E9%9F%B34-%E8%8C%83%E5%AD%90%E7%9D%BF%E7%88%86%E6%99%92rap%E5%8A%9Fhigh%E5%88%B0%E7%9C%BC%E9%8F%A1%E8%B5%B7%E9%9C%A7-%E5%94%AF%E4%B8%80%E8%A2%AB%E6%B7%98%E6%B1%B0%E7%84%A1%E6%86%BE",
-    "timestamp": "2026-04-13T13:18:52.044Z",
     "strategy": ".content-card__main"
   }
 ];
