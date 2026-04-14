@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-13T22:26:14.427Z
+// Last updated: 2026-04-14T02:45:25.347Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "紀惠湯文亮佐敦柯士甸廣場再傳沽出　作價料約5.8億、升值近三成",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/2861298/org/2fada067118ea680832df396599746bc.jpg/Va2_-M4vJWN8bQAOs63go1_Ck7utx9P4wp7R-sKe0fo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60339910/%E7%B4%80%E6%83%A0%E6%B9%AF%E6%96%87%E4%BA%AE%E4%BD%90%E6%95%A6%E6%9F%AF%E5%A3%AB%E7%94%B8%E5%BB%A3%E5%A0%B4%E5%86%8D%E5%82%B3%E6%B2%BD%E5%87%BA-%E4%BD%9C%E5%83%B9%E6%96%99%E7%B4%845-8%E5%84%84-%E5%8D%87%E5%80%BC%E8%BF%91%E4%B8%89%E6%88%90",
+    "timestamp": "2026-04-14T02:45:25.347Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "天氣｜今日市區最高約30度　未來一兩日仍日間炎熱",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20231108/798941101762285568485962.jpeg/lW6kebcSTnbvb9Svd1PODdbU1t08xgPZ98kaNvfJGjY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60339614/%E5%B9%B3%E4%BF%9D%E6%93%9A%E5%A0%B1%E6%93%AC%E5%94%AE%E8%BB%9F%E4%BB%B6%E6%A5%AD%E7%A7%81%E5%8B%9F%E8%82%A1%E6%AC%8A%E6%8A%95%E8%B3%87-%E5%83%B9%E5%80%BC%E7%B4%8478%E5%84%84%E5%85%83",
     "timestamp": "2026-04-13T05:17:40.349Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "沙田一中學男生認校內女廁偷拍女同學　官稱不宜判監　判感化1年",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20240220/836561270890041344067821.jpeg/DgrS3PtZOg9niOHj-XdlnP9wfLACIihG55E9kMKRPZA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60339586/%E6%B2%99%E7%94%B0%E4%B8%80%E4%B8%AD%E5%AD%B8%E7%94%B7%E7%94%9F%E8%AA%8D%E6%A0%A1%E5%85%A7%E5%A5%B3%E5%BB%81%E5%81%B7%E6%8B%8D%E5%A5%B3%E5%90%8C%E5%AD%B8-%E5%AE%98%E7%A8%B1%E4%B8%8D%E5%AE%9C%E5%88%A4%E7%9B%A3-%E5%88%A4%E6%84%9F%E5%8C%961%E5%B9%B4",
-    "timestamp": "2026-04-13T04:03:05.763Z",
     "strategy": ".content-card__main"
   }
 ];
