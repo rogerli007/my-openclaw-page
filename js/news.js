@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-14T16:00:04.002Z
+// Last updated: 2026-04-14T16:37:49.473Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "醫療氣體6.14起納藥劑製品規管　衞生署提醒業界須領牌及註冊產品",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250716/1021958143015391232672983.jpeg/MrGP3G_ws5LwbG5erCBwZgQa_1VTjE4z88A33vPAN94?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60340230/%E9%86%AB%E7%99%82%E6%B0%A3%E9%AB%946-14%E8%B5%B7%E7%B4%8D%E8%97%A5%E5%8A%91%E8%A3%BD%E5%93%81%E8%A6%8F%E7%AE%A1-%E8%A1%9E%E7%94%9F%E7%BD%B2%E6%8F%90%E9%86%92%E6%A5%AD%E7%95%8C%E9%A0%88%E9%A0%98%E7%89%8C%E5%8F%8A%E8%A8%BB%E5%86%8A%E7%94%A2%E5%93%81",
+    "timestamp": "2026-04-14T16:37:49.473Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "香港電車推手機App　提供實時到站預報及附近景點資訊",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260414/1120533310691348480298043.jpeg/0iOOol7gvyGTHx8z7wUij1OLHj2SI-aTqUq4ralKuK0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60339848/%E7%89%B9%E6%9C%97%E6%99%AE-%E4%BC%8A%E6%9C%97%E8%87%B4%E9%9B%BB%E7%A8%B1%E5%B8%8C%E6%9C%9B%E9%81%94%E6%88%90%E5%8D%94%E8%AD%B0-%E5%89%8D%E4%B8%80%E5%A4%A934%E8%88%B9%E9%80%9A%E9%81%8E%E9%9C%8D%E7%88%BE%E6%9C%A8%E8%8C%B2",
     "timestamp": "2026-04-13T19:20:33.683Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普：伊朗致電稱希望達成協議　前一天34船通過霍爾木茲",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260414/1120533310691348480298043.jpeg/0iOOol7gvyGTHx8z7wUij1OLHj2SI-aTqUq4ralKuK0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60339848/%E7%89%B9%E6%9C%97%E6%99%AE-%E4%BC%8A%E6%9C%97%E8%87%B4%E9%9B%BB%E7%A8%B1%E5%B8%8C%E6%9C%9B%E9%81%94%E6%88%90%E5%8D%94%E8%AD%B0-%E5%89%8D%E4%B8%80%E5%A4%A934%E8%88%B9%E9%80%9A%E9%81%8E%E9%9C%8D%E7%88%BE%E6%9C%A8%E8%8C%B2",
-    "timestamp": "2026-04-13T18:16:29.765Z",
     "strategy": ".content-card__main"
   }
 ];
