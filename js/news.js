@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-14T21:27:09.603Z
+// Last updated: 2026-04-14T22:26:01.697Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "天氣｜今日日間炎熱　市區最高約29度　新界再高一兩度",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260415/1120965324389224448792364.jpeg/s8TqIUvqxtCQxwbQ0wlYRdgnxZ4-Lss8Jj9VliY_VZY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60340228/%E5%A4%A9%E6%B0%A3-%E4%BB%8A%E6%97%A5%E6%97%A5%E9%96%93%E7%82%8E%E7%86%B1-%E5%B8%82%E5%8D%80%E6%9C%80%E9%AB%98%E7%B4%8429%E5%BA%A6-%E6%96%B0%E7%95%8C%E5%86%8D%E9%AB%98%E4%B8%80%E5%85%A9%E5%BA%A6",
+    "timestamp": "2026-04-14T22:26:01.697Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "歐聯8強｜馬體會兩回合3：2淘汰巴塞　利物浦合計0：4送PSG晉4強",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/2861298/org/2fada067118ea680832df396599746bc.jpg/Va2_-M4vJWN8bQAOs63go1_Ck7utx9P4wp7R-sKe0fo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60339910/%E7%B4%80%E6%83%A0%E6%B9%AF%E6%96%87%E4%BA%AE%E4%BD%90%E6%95%A6%E6%9F%AF%E5%A3%AB%E7%94%B8%E5%BB%A3%E5%A0%B4%E5%86%8D%E5%82%B3%E6%B2%BD%E5%87%BA-%E4%BD%9C%E5%83%B9%E6%96%99%E7%B4%845-8%E5%84%84-%E5%8D%87%E5%80%BC%E8%BF%91%E4%B8%89%E6%88%90",
     "timestamp": "2026-04-14T02:45:25.347Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "天氣｜今日市區最高約30度　未來一兩日仍日間炎熱",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260414/1120602726695178240314862.jpeg/RpDdNfoANDM4WePgdCWsXOL4U8Fz7Ulxc0CN63NAjes?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60339858/%E5%A4%A9%E6%B0%A3-%E4%BB%8A%E6%97%A5%E5%B8%82%E5%8D%80%E6%9C%80%E9%AB%98%E7%B4%8430%E5%BA%A6-%E6%9C%AA%E4%BE%86%E4%B8%80%E5%85%A9%E6%97%A5%E4%BB%8D%E6%97%A5%E9%96%93%E7%82%8E%E7%86%B1",
-    "timestamp": "2026-04-13T22:26:14.427Z",
     "strategy": ".content-card__main"
   }
 ];
