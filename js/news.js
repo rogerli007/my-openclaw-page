@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-14T03:57:23.003Z
+// Last updated: 2026-04-14T05:07:39.828Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "長沙灣冰室食下午茶　未坐夠1小時被趕　食客：沒寫明限時未滿座",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260413/1120429505328975872974506.png/_YnR-0dd1UbQ6jWpDyes2AeKYNi79H3A-Y47KfmOOyk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60339631/%E9%95%B7%E6%B2%99%E7%81%A3%E5%86%B0%E5%AE%A4%E9%A3%9F%E4%B8%8B%E5%8D%88%E8%8C%B6-%E6%9C%AA%E5%9D%90%E5%A4%A01%E5%B0%8F%E6%99%82%E8%A2%AB%E8%B6%95-%E9%A3%9F%E5%AE%A2-%E6%B2%92%E5%AF%AB%E6%98%8E%E9%99%90%E6%99%82%E6%9C%AA%E6%BB%BF%E5%BA%A7",
+    "timestamp": "2026-04-14T05:07:39.828Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "深圳樓盤大減價引通宵排隊搶樓！有人打尖爆衝突保安噴辣椒水驅趕",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260413/1120358699274080256250786.jpeg/DzCAjdrjgjJCgjcAK0vThKb-Z17bDzUYk5ci_ZOXIv0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60339627/lisa%E7%B9%94%E9%83%A8%E9%87%8C%E6%B2%99%E6%BC%94%E5%94%B1%E6%9C%832026%E9%A6%99%E6%B8%AF-%E9%96%80%E7%A5%A8%E5%84%AA%E5%85%88-%E5%85%AC%E5%94%AE%E6%94%BB%E7%95%A5-%E9%80%A3%E7%B5%90-%E5%BA%A7%E4%BD%8D%E8%A1%A8",
     "timestamp": "2026-04-13T07:07:52.998Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普「仿」伊朗封霍爾木茲海峽　美媒揭主因：截斷戰爭收入來源",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260413/1120337672703840256301784.jpeg/f-3lwV4XXe6SxUqOwKULlNmSQEe7-uBC8mw8BfJsPAU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%9C%8B%E9%9A%9B%E5%88%86%E6%9E%90/60339602/%E7%89%B9%E6%9C%97%E6%99%AE-%E4%BB%BF-%E4%BC%8A%E6%9C%97%E5%B0%81%E9%9C%8D%E7%88%BE%E6%9C%A8%E8%8C%B2%E6%B5%B7%E5%B3%BD-%E7%BE%8E%E5%AA%92%E6%8F%AD%E4%B8%BB%E5%9B%A0-%E6%88%AA%E6%96%B7%E6%88%B0%E7%88%AD%E6%94%B6%E5%85%A5%E4%BE%86%E6%BA%90",
-    "timestamp": "2026-04-13T06:09:41.902Z",
     "strategy": ".content-card__main"
   }
 ];
