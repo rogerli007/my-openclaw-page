@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-14T22:26:01.697Z
+// Last updated: 2026-04-14T22:53:18.586Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "伊朗總統讚揚6國反戰立場　包括中國",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260402/1116220781160828928174936.jpeg/kogL3PLbFW1Wf5XMfuNdVQdkUtMrvpwRh4tn5IeLZ-Q?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60340251/%E4%BC%8A%E6%9C%97%E7%B8%BD%E7%B5%B1%E8%AE%9A%E6%8F%9A6%E5%9C%8B%E5%8F%8D%E6%88%B0%E7%AB%8B%E5%A0%B4-%E5%8C%85%E6%8B%AC%E4%B8%AD%E5%9C%8B",
+    "timestamp": "2026-04-14T22:53:18.586Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "天氣｜今日日間炎熱　市區最高約29度　新界再高一兩度",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260414/1120684753868034048024517.jpeg/JKXEmcmFyDI-SxK-Z6tp0rcs4uuKspGFh-0s-4ftLPs",
     "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60339891/%E6%B7%B1%E5%9C%B3%E6%A8%93%E7%9B%A4%E5%A4%A7%E6%B8%9B%E5%83%B9%E5%BC%95%E9%80%9A%E5%AE%B5%E6%8E%92%E9%9A%8A%E6%90%B6%E6%A8%93-%E6%9C%89%E4%BA%BA%E6%89%93%E5%B0%96%E7%88%86%E8%A1%9D%E7%AA%81%E4%BF%9D%E5%AE%89%E5%99%B4%E8%BE%A3%E6%A4%92%E6%B0%B4%E9%A9%85%E8%B6%95",
     "timestamp": "2026-04-14T03:57:23.003Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "紀惠湯文亮佐敦柯士甸廣場再傳沽出　作價料約5.8億、升值近三成",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/2861298/org/2fada067118ea680832df396599746bc.jpg/Va2_-M4vJWN8bQAOs63go1_Ck7utx9P4wp7R-sKe0fo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60339910/%E7%B4%80%E6%83%A0%E6%B9%AF%E6%96%87%E4%BA%AE%E4%BD%90%E6%95%A6%E6%9F%AF%E5%A3%AB%E7%94%B8%E5%BB%A3%E5%A0%B4%E5%86%8D%E5%82%B3%E6%B2%BD%E5%87%BA-%E4%BD%9C%E5%83%B9%E6%96%99%E7%B4%845-8%E5%84%84-%E5%8D%87%E5%80%BC%E8%BF%91%E4%B8%89%E6%88%90",
-    "timestamp": "2026-04-14T02:45:25.347Z",
     "strategy": ".content-card__main"
   }
 ];
