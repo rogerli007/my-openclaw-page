@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-14T11:14:48.019Z
+// Last updated: 2026-04-14T11:44:30.512Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "嫁入豪門能一步登天？豪門媳婦談婚姻：為金錢結婚地位低難以立足",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260316/1110228356843966464372809.png/4nhyC57XHGBFxysJ7IUgJ9633JxRjHHsl1r-Ue1a_lE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%AB%87%E6%83%85%E8%AA%AA%E6%80%A7/60330909/%E5%AB%81%E5%85%A5%E8%B1%AA%E9%96%80%E8%83%BD%E4%B8%80%E6%AD%A5%E7%99%BB%E5%A4%A9-%E8%B1%AA%E9%96%80%E5%AA%B3%E5%A9%A6%E8%AB%87%E5%A9%9A%E5%A7%BB-%E7%82%BA%E9%87%91%E9%8C%A2%E7%B5%90%E5%A9%9A%E5%9C%B0%E4%BD%8D%E4%BD%8E%E9%9B%A3%E4%BB%A5%E7%AB%8B%E8%B6%B3",
+    "timestamp": "2026-04-14T11:44:30.512Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "發展局擬中央採購30萬噸鋼筋　料應付未來兩年20項工務工程",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260413/1120403241893367808548372.jpeg/neIwZkAF3lkiRHiyXtucs-cFD2opRe6ETx2WfE8dlnw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60339716/%E4%B8%AD%E5%B9%B4%E5%A5%BD%E8%81%B2%E9%9F%B34-%E8%8C%83%E5%AD%90%E7%9D%BF%E7%88%86%E6%99%92rap%E5%8A%9Fhigh%E5%88%B0%E7%9C%BC%E9%8F%A1%E8%B5%B7%E9%9C%A7-%E5%94%AF%E4%B8%80%E8%A2%AB%E6%B7%98%E6%B1%B0%E7%84%A1%E6%86%BE",
     "timestamp": "2026-04-13T13:18:52.044Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "「粵港澳大灣區學生書法及名家書畫聯展」上環文娛中心展覽廳舉行",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260413/1120451715213037568385147.jpeg/nJEA8rbFQDV5JtpvmHX3wW_-XuHYbfD8qO_j16jv49c?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%97%9D%E6%96%87%E4%B8%AD%E5%9C%8B/60339811/%E7%B2%B5%E6%B8%AF%E6%BE%B3%E5%A4%A7%E7%81%A3%E5%8D%80%E5%AD%B8%E7%94%9F%E6%9B%B8%E6%B3%95%E5%8F%8A%E5%90%8D%E5%AE%B6%E6%9B%B8%E7%95%AB%E8%81%AF%E5%B1%95-%E4%B8%8A%E7%92%B0%E6%96%87%E5%A8%9B%E4%B8%AD%E5%BF%83%E5%B1%95%E8%A6%BD%E5%BB%B3%E8%88%89%E8%A1%8C",
-    "timestamp": "2026-04-13T12:17:29.859Z",
     "strategy": ".content-card__main"
   }
 ];
