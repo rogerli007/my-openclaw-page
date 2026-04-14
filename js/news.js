@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-14T10:40:04.460Z
+// Last updated: 2026-04-14T11:14:48.019Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "發展局擬中央採購30萬噸鋼筋　料應付未來兩年20項工務工程",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/2342994/org/c40117a341cb3e44cc99c5aec71213dd.jpg/K7WFvS2ix5OCauu5t7HSpuCzFsUdjmgNJQfKGCUHyhg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60340172/%E7%99%BC%E5%B1%95%E5%B1%80%E6%93%AC%E4%B8%AD%E5%A4%AE%E6%8E%A1%E8%B3%BC30%E8%90%AC%E5%99%B8%E9%8B%BC%E7%AD%8B-%E6%96%99%E6%87%89%E4%BB%98%E6%9C%AA%E4%BE%86%E5%85%A9%E5%B9%B420%E9%A0%85%E5%B7%A5%E5%8B%99%E5%B7%A5%E7%A8%8B",
+    "timestamp": "2026-04-14T11:14:48.019Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "教育局估算2035年僅3.2萬人升中一　9年大減逾2萬　3.8萬人升小一",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260413/1120451715213037568385147.jpeg/nJEA8rbFQDV5JtpvmHX3wW_-XuHYbfD8qO_j16jv49c?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%97%9D%E6%96%87%E4%B8%AD%E5%9C%8B/60339811/%E7%B2%B5%E6%B8%AF%E6%BE%B3%E5%A4%A7%E7%81%A3%E5%8D%80%E5%AD%B8%E7%94%9F%E6%9B%B8%E6%B3%95%E5%8F%8A%E5%90%8D%E5%AE%B6%E6%9B%B8%E7%95%AB%E8%81%AF%E5%B1%95-%E4%B8%8A%E7%92%B0%E6%96%87%E5%A8%9B%E4%B8%AD%E5%BF%83%E5%B1%95%E8%A6%BD%E5%BB%B3%E8%88%89%E8%A1%8C",
     "timestamp": "2026-04-13T12:17:29.859Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "《蝙蝠俠》John Nolan離世　享年87歲　路蘭家族影視事業痛失大將",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260413/1120356655498792960423061.png/ldS3e0-zhXkgDwgNJnI8fNBUq1SVY_8cAvs6tAL7OrQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60339644/%E8%9D%99%E8%9D%A0%E4%BF%A0-john-nolan%E9%9B%A2%E4%B8%96-%E4%BA%AB%E5%B9%B487%E6%AD%B2-%E8%B7%AF%E8%98%AD%E5%AE%B6%E6%97%8F%E5%BD%B1%E8%A6%96%E4%BA%8B%E6%A5%AD%E7%97%9B%E5%A4%B1%E5%A4%A7%E5%B0%87",
-    "timestamp": "2026-04-13T11:49:29.925Z",
     "strategy": ".content-card__main"
   }
 ];
