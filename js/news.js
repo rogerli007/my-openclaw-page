@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-14T19:21:13.520Z
+// Last updated: 2026-04-14T21:27:09.603Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "歐聯8強｜馬體會兩回合3：2淘汰巴塞　利物浦合計0：4送PSG晉4強",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260415/1120946917703028736536917.jpeg/hNW634OAy3En71qCAzgczukDysN85442HWfMhh1nzIY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60340246/%E6%AD%90%E8%81%AF8%E5%BC%B7-%E9%A6%AC%E9%AB%94%E6%9C%83%E5%85%A9%E5%9B%9E%E5%90%883-2%E6%B7%98%E6%B1%B0%E5%B7%B4%E5%A1%9E-%E5%88%A9%E7%89%A9%E6%B5%A6%E5%90%88%E8%A8%880-4%E9%80%81psg%E6%99%894%E5%BC%B7",
+    "timestamp": "2026-04-14T21:27:09.603Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "伊朗戰爭｜特朗普反擊稱梅洛尼才不可接受　為對方拒助美國感震驚",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260414/1120602726695178240314862.jpeg/RpDdNfoANDM4WePgdCWsXOL4U8Fz7Ulxc0CN63NAjes?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60339858/%E5%A4%A9%E6%B0%A3-%E4%BB%8A%E6%97%A5%E5%B8%82%E5%8D%80%E6%9C%80%E9%AB%98%E7%B4%8430%E5%BA%A6-%E6%9C%AA%E4%BE%86%E4%B8%80%E5%85%A9%E6%97%A5%E4%BB%8D%E6%97%A5%E9%96%93%E7%82%8E%E7%86%B1",
     "timestamp": "2026-04-13T22:26:14.427Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "巴基斯坦總理：美伊停火協議仍有效　繼續推動實和平進程",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250508/997188521871544320259807.jpeg/C1feAkT1dwR9GNfeoPcbi_tsjQoAeNo85QDdzeUA3c0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60339851/%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E7%B8%BD%E7%90%86-%E7%BE%8E%E4%BC%8A%E5%81%9C%E7%81%AB%E5%8D%94%E8%AD%B0%E4%BB%8D%E6%9C%89%E6%95%88-%E7%B9%BC%E7%BA%8C%E6%8E%A8%E5%8B%95%E5%AF%A6%E5%92%8C%E5%B9%B3%E9%80%B2%E7%A8%8B",
-    "timestamp": "2026-04-13T21:57:19.572Z",
     "strategy": ".content-card__main"
   }
 ];
