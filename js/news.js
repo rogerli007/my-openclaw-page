@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-14T17:47:08.947Z
+// Last updated: 2026-04-14T18:48:49.723Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "特朗普：與美伊談判　或將在近2日內在巴基斯坦舉行",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260407/1118128242490871808350176.jpeg/Cogl8TFsOnzpjIBFyVccmD9uajgu1xgQO4zLmjuMy5o?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60340240/%E7%89%B9%E6%9C%97%E6%99%AE-%E8%88%87%E7%BE%8E%E4%BC%8A%E8%AB%87%E5%88%A4-%E6%88%96%E5%B0%87%E5%9C%A8%E8%BF%912%E6%97%A5%E5%85%A7%E5%9C%A8%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E8%88%89%E8%A1%8C",
+    "timestamp": "2026-04-14T18:48:49.723Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "以黎代表在華府直接會談　英法等17國外長促把握機遇",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260414/1120584304062238720376820.jpeg/Of9m_C1JgpKZtdy3Lhj0cidA-EHkwCf1qB63PKgetzw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60339857/%E8%8B%B1%E8%B6%85-10%E4%BA%BA%E6%9B%BC%E8%81%AF1-2%E4%B8%8D%E6%95%B5%E5%88%97%E6%96%AF%E8%81%AF",
     "timestamp": "2026-04-13T21:26:25.387Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "伊朗戰爭｜中巴外長通話　王毅：當務之急全力避免戰端重啟",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260410/1119235927865036800203896.jpeg/xMm-uH9GEp_AkH56I79dWeOOrYlQ_G3CNvKOFTbyjhU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60339852/%E4%BC%8A%E6%9C%97%E6%88%B0%E7%88%AD-%E4%B8%AD%E5%B7%B4%E5%A4%96%E9%95%B7%E9%80%9A%E8%A9%B1-%E7%8E%8B%E6%AF%85-%E7%95%B6%E5%8B%99%E4%B9%8B%E6%80%A5%E5%85%A8%E5%8A%9B%E9%81%BF%E5%85%8D%E6%88%B0%E7%AB%AF%E9%87%8D%E5%95%9F",
-    "timestamp": "2026-04-13T20:54:50.651Z",
     "strategy": ".content-card__main"
   }
 ];
