@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-14T12:11:50.414Z
+// Last updated: 2026-04-14T13:16:49.676Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "半數體育總會管治未獲認證　限期過後或被削資　港協修例增接管權",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20241120/935973974301609984596107.jpeg/K-wogL1uAbucGvm02PqU9-j5O_m3E9vNlduatLDbmrQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60340192/%E5%8D%8A%E6%95%B8%E9%AB%94%E8%82%B2%E7%B8%BD%E6%9C%83%E7%AE%A1%E6%B2%BB%E6%9C%AA%E7%8D%B2%E8%AA%8D%E8%AD%89-%E9%99%90%E6%9C%9F%E9%81%8E%E5%BE%8C%E6%88%96%E8%A2%AB%E5%89%8A%E8%B3%87-%E6%B8%AF%E5%8D%94%E4%BF%AE%E4%BE%8B%E5%A2%9E%E6%8E%A5%E7%AE%A1%E6%AC%8A",
+    "timestamp": "2026-04-14T13:16:49.676Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "前男警迫子自瀆案　終院裁圖達至性滿足　不屬必須證明的控罪元素",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260413/1120504059909378048542096.jpeg/OnsCrJxttahmDF_JzSS37EPl18Y8n-Te8QNpSPEDaUg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60339840/%E4%B8%96%E7%95%8C%E4%BA%92%E8%81%AF%E7%B6%B2%E5%A4%A7%E6%9C%83%E4%BA%9E%E5%A4%AA%E5%B3%B0%E6%9C%83%E5%86%8D%E5%9C%A8%E6%B8%AF%E8%88%89%E8%A1%8C-%E5%8C%AF%E8%81%9A%E5%8D%83%E5%90%8D%E6%94%BF%E5%95%86%E9%A0%98%E8%A2%96%E5%8F%8A%E5%B0%88%E5%AE%B6%E5%AD%B8%E8%80%85",
     "timestamp": "2026-04-13T15:41:11.938Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "李貞秀遭民眾黨開除黨籍　為首位陸配立委　未滿3個月失立委身分",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260413/1120480646112743424048129.jpeg/cw5OBz-R-COBXmz9WdU7ehyLeRqytD31UiEuAVIhLgE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8F%B0%E7%81%A3%E6%96%B0%E8%81%9E/60339828/%E6%9D%8E%E8%B2%9E%E7%A7%80%E9%81%AD%E6%B0%91%E7%9C%BE%E9%BB%A8%E9%96%8B%E9%99%A4%E9%BB%A8%E7%B1%8D-%E7%82%BA%E9%A6%96%E4%BD%8D%E9%99%B8%E9%85%8D%E7%AB%8B%E5%A7%94-%E6%9C%AA%E6%BB%BF3%E5%80%8B%E6%9C%88%E5%A4%B1%E7%AB%8B%E5%A7%94%E8%BA%AB%E5%88%86",
-    "timestamp": "2026-04-13T14:07:55.884Z",
     "strategy": ".content-card__main"
   }
 ];
