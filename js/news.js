@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-14T22:53:18.586Z
+// Last updated: 2026-04-15T00:55:33.926Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "兒子遭欺凌　雲南父在學校調解時情緒激動猝死　現場無人會用AED",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260414/1120787563829792768326179.jpeg/e6iNKEe7BJS22PmqDkjVkcKh8Vm81gZEHe9q_B3vavw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60340112/%E5%85%92%E5%AD%90%E9%81%AD%E6%AC%BA%E5%87%8C-%E9%9B%B2%E5%8D%97%E7%88%B6%E5%9C%A8%E5%AD%B8%E6%A0%A1%E8%AA%BF%E8%A7%A3%E6%99%82%E6%83%85%E7%B7%92%E6%BF%80%E5%8B%95%E7%8C%9D%E6%AD%BB-%E7%8F%BE%E5%A0%B4%E7%84%A1%E4%BA%BA%E6%9C%83%E7%94%A8aed",
+    "timestamp": "2026-04-15T00:55:33.926Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "伊朗總統讚揚6國反戰立場　包括中國",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260413/1120429505328975872974506.png/_YnR-0dd1UbQ6jWpDyes2AeKYNi79H3A-Y47KfmOOyk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60339631/%E9%95%B7%E6%B2%99%E7%81%A3%E5%86%B0%E5%AE%A4%E9%A3%9F%E4%B8%8B%E5%8D%88%E8%8C%B6-%E6%9C%AA%E5%9D%90%E5%A4%A01%E5%B0%8F%E6%99%82%E8%A2%AB%E8%B6%95-%E9%A3%9F%E5%AE%A2-%E6%B2%92%E5%AF%AB%E6%98%8E%E9%99%90%E6%99%82%E6%9C%AA%E6%BB%BF%E5%BA%A7",
     "timestamp": "2026-04-14T05:07:39.828Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "深圳樓盤大減價引通宵排隊搶樓！有人打尖爆衝突保安噴辣椒水驅趕",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260414/1120684753868034048024517.jpeg/JKXEmcmFyDI-SxK-Z6tp0rcs4uuKspGFh-0s-4ftLPs",
-    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60339891/%E6%B7%B1%E5%9C%B3%E6%A8%93%E7%9B%A4%E5%A4%A7%E6%B8%9B%E5%83%B9%E5%BC%95%E9%80%9A%E5%AE%B5%E6%8E%92%E9%9A%8A%E6%90%B6%E6%A8%93-%E6%9C%89%E4%BA%BA%E6%89%93%E5%B0%96%E7%88%86%E8%A1%9D%E7%AA%81%E4%BF%9D%E5%AE%89%E5%99%B4%E8%BE%A3%E6%A4%92%E6%B0%B4%E9%A9%85%E8%B6%95",
-    "timestamp": "2026-04-14T03:57:23.003Z",
     "strategy": ".content-card__main"
   }
 ];
