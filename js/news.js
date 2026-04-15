@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-15T19:51:40.412Z
+// Last updated: 2026-04-15T20:28:06.139Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "內塔尼亞胡：談判期間續打擊真主黨　外媒：以內閣將討論與黎停火",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260320/1111507910162124800210596.jpeg/95TIGibeRwtDYxmBylJEFFqoNe7MB_e1rWxrpa1sa6U?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60340631/%E5%85%A7%E5%A1%94%E5%B0%BC%E4%BA%9E%E8%83%A1-%E8%AB%87%E5%88%A4%E6%9C%9F%E9%96%93%E7%BA%8C%E6%89%93%E6%93%8A%E7%9C%9F%E4%B8%BB%E9%BB%A8-%E5%A4%96%E5%AA%92-%E4%BB%A5%E5%85%A7%E9%96%A3%E5%B0%87%E8%A8%8E%E8%AB%96%E8%88%87%E9%BB%8E%E5%81%9C%E7%81%AB",
+    "timestamp": "2026-04-15T20:28:06.139Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "內塔尼亞胡：談判期間續打擊真主黨　外媒：以內閣將討論與黎停火",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260415/1121027843053195264543197.jpeg/RXhA_2rBADURjDz94fdVZw_39rxbgn0krosMuIuLDLg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60340337/%E5%AE%8F%E7%A6%8F%E8%8B%91-%E6%9D%8E%E5%AE%B6%E8%B6%85-%E5%AE%8C%E6%88%90%E8%81%86%E8%A8%8A%E6%9C%83%E8%BF%BD%E7%A9%B6%E8%B2%AC%E4%BB%BB-%E7%B3%BB%E7%B5%B1%E6%80%A7%E6%94%B9%E9%9D%A9%E8%B7%9F%E9%80%B2%E5%A7%94%E5%93%A1%E6%9C%83%E5%BB%BA%E8%AD%B0",
     "timestamp": "2026-04-15T03:56:10.142Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "伊朗戰爭｜美軍派逾萬士兵封鎖霍爾木茲海峽　6艘商船被迫返航",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260325/1113408116134776832850426.jpeg/qede1Z7zVrjbjzSs76auCLUSoJmPQ1VEr2Nn5a9jZ-U?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60340288/%E4%BC%8A%E6%9C%97%E6%88%B0%E7%88%AD-%E7%BE%8E%E8%BB%8D%E6%B4%BE%E9%80%BE%E8%90%AC%E5%A3%AB%E5%85%B5%E5%B0%81%E9%8E%96%E9%9C%8D%E7%88%BE%E6%9C%A8%E8%8C%B2%E6%B5%B7%E5%B3%BD-6%E8%89%98%E5%95%86%E8%88%B9%E8%A2%AB%E8%BF%AB%E8%BF%94%E8%88%AA",
-    "timestamp": "2026-04-15T02:46:36.579Z",
     "strategy": ".content-card__main"
   }
 ];
