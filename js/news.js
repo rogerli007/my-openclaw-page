@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-15T11:41:41.884Z
+// Last updated: 2026-04-15T12:44:47.533Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "TVB童星合體掀回憶殺　吳諾弘現場翻看冼迪琦大尺度寫真瞬間面紅",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260415/1121089016867852288380674.jpeg/FJ3M8xJIAtaEcm74xmfzjLQgQ8eeHB9XdA8aHHQPGhw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60340399/tvb%E7%AB%A5%E6%98%9F%E5%90%88%E9%AB%94%E6%8E%80%E5%9B%9E%E6%86%B6%E6%AE%BA-%E5%90%B3%E8%AB%BE%E5%BC%98%E7%8F%BE%E5%A0%B4%E7%BF%BB%E7%9C%8B%E5%86%BC%E8%BF%AA%E7%90%A6%E5%A4%A7%E5%B0%BA%E5%BA%A6%E5%AF%AB%E7%9C%9F%E7%9E%AC%E9%96%93%E9%9D%A2%E7%B4%85",
+    "timestamp": "2026-04-15T12:44:47.533Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "特朗普稱曾去信習近平要求別向伊朗供應武器　對方回信：沒這樣做",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260407/1118128242490871808350176.jpeg/Cogl8TFsOnzpjIBFyVccmD9uajgu1xgQO4zLmjuMy5o?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60340240/%E7%89%B9%E6%9C%97%E6%99%AE-%E8%88%87%E7%BE%8E%E4%BC%8A%E8%AB%87%E5%88%A4-%E6%88%96%E5%B0%87%E5%9C%A8%E8%BF%912%E6%97%A5%E5%85%A7%E5%9C%A8%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E8%88%89%E8%A1%8C",
     "timestamp": "2026-04-14T18:48:49.723Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "以黎代表在華府直接會談　英法等17國外長促把握機遇",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260415/1120897283185971200153068.jpeg/qJ4TYoTmYuKrcLJcVNHJDM91ObMNAJcHaRC8omkQvKI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60340236/%E4%BB%A5%E9%BB%8E%E4%BB%A3%E8%A1%A8%E5%9C%A8%E8%8F%AF%E5%BA%9C%E7%9B%B4%E6%8E%A5%E6%9C%83%E8%AB%87-%E8%8B%B1%E6%B3%95%E7%AD%8917%E5%9C%8B%E5%A4%96%E9%95%B7%E4%BF%83%E6%8A%8A%E6%8F%A1%E6%A9%9F%E9%81%87",
-    "timestamp": "2026-04-14T17:47:08.947Z",
     "strategy": ".content-card__main"
   }
 ];
