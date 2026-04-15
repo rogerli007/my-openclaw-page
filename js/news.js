@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-15T01:49:20.024Z
+// Last updated: 2026-04-15T02:46:36.579Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "伊朗戰爭｜美軍派逾萬士兵封鎖霍爾木茲海峽　6艘商船被迫返航",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260325/1113408116134776832850426.jpeg/qede1Z7zVrjbjzSs76auCLUSoJmPQ1VEr2Nn5a9jZ-U?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60340288/%E4%BC%8A%E6%9C%97%E6%88%B0%E7%88%AD-%E7%BE%8E%E8%BB%8D%E6%B4%BE%E9%80%BE%E8%90%AC%E5%A3%AB%E5%85%B5%E5%B0%81%E9%8E%96%E9%9C%8D%E7%88%BE%E6%9C%A8%E8%8C%B2%E6%B5%B7%E5%B3%BD-6%E8%89%98%E5%95%86%E8%88%B9%E8%A2%AB%E8%BF%AB%E8%BF%94%E8%88%AA",
+    "timestamp": "2026-04-15T02:46:36.579Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "新華社：習近平會見俄羅斯外長拉夫羅夫",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260414/1120735276952457216647258.jpeg/e1pGebjAci4lTg2oNMiAIf5s_0dt4o5u7zwfdu88H3Y?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%97%85%E9%81%8A/60280142/%E9%A6%96%E7%88%BE%E8%BF%91%E9%83%8A-%E6%9C%9D%E9%9F%93%E4%B8%89%E5%85%AB%E7%B7%9A%E7%A6%81%E5%8D%80-dmz%E9%9D%9E%E6%AD%A6%E8%A3%9D%E5%9C%B0%E5%B8%B6%E6%B7%B1%E5%BA%A6%E9%81%8A-%E8%A6%AA%E7%9D%B9%E7%9C%9F%E5%AF%A6%E6%9C%9D%E9%AE%AE",
     "timestamp": "2026-04-14T09:13:40.030Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "滙豐艾橋智︰中東發展仍為重要戰略　中國發展模式改變為港帶機遇",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260414/1120732392957415424374895.jpeg/EcsKDChaVwo-MMuvz_7OszXKXkrD0bNZQE4A-UBOAPk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60340048/%E6%BB%99%E8%B1%90%E8%89%BE%E6%A9%8B%E6%99%BA-%E4%B8%AD%E6%9D%B1%E7%99%BC%E5%B1%95%E4%BB%8D%E7%82%BA%E9%87%8D%E8%A6%81%E6%88%B0%E7%95%A5-%E4%B8%AD%E5%9C%8B%E7%99%BC%E5%B1%95%E6%A8%A1%E5%BC%8F%E6%94%B9%E8%AE%8A%E7%82%BA%E6%B8%AF%E5%B8%B6%E6%A9%9F%E9%81%87",
-    "timestamp": "2026-04-14T06:54:25.781Z",
     "strategy": ".content-card__main"
   }
 ];
