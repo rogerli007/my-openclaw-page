@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-15T00:55:33.926Z
+// Last updated: 2026-04-15T01:49:20.024Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "新華社：習近平會見俄羅斯外長拉夫羅夫",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20240409/854428746831106048352401.png/osF9_Kgg0PZNR8TkmhYVgFDI94u2zGVrsQUZN7EFGTc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60340269/%E6%96%B0%E8%8F%AF%E7%A4%BE-%E7%BF%92%E8%BF%91%E5%B9%B3%E6%9C%83%E8%A6%8B%E4%BF%84%E7%BE%85%E6%96%AF%E5%A4%96%E9%95%B7%E6%8B%89%E5%A4%AB%E7%BE%85%E5%A4%AB",
+    "timestamp": "2026-04-15T01:49:20.024Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "兒子遭欺凌　雲南父在學校調解時情緒激動猝死　現場無人會用AED",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260414/1120732392957415424374895.jpeg/EcsKDChaVwo-MMuvz_7OszXKXkrD0bNZQE4A-UBOAPk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60340048/%E6%BB%99%E8%B1%90%E8%89%BE%E6%A9%8B%E6%99%BA-%E4%B8%AD%E6%9D%B1%E7%99%BC%E5%B1%95%E4%BB%8D%E7%82%BA%E9%87%8D%E8%A6%81%E6%88%B0%E7%95%A5-%E4%B8%AD%E5%9C%8B%E7%99%BC%E5%B1%95%E6%A8%A1%E5%BC%8F%E6%94%B9%E8%AE%8A%E7%82%BA%E6%B8%AF%E5%B8%B6%E6%A9%9F%E9%81%87",
     "timestamp": "2026-04-14T06:54:25.781Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "長沙灣冰室食下午茶　未坐夠1小時被趕　食客：沒寫明限時未滿座",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260413/1120429505328975872974506.png/_YnR-0dd1UbQ6jWpDyes2AeKYNi79H3A-Y47KfmOOyk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60339631/%E9%95%B7%E6%B2%99%E7%81%A3%E5%86%B0%E5%AE%A4%E9%A3%9F%E4%B8%8B%E5%8D%88%E8%8C%B6-%E6%9C%AA%E5%9D%90%E5%A4%A01%E5%B0%8F%E6%99%82%E8%A2%AB%E8%B6%95-%E9%A3%9F%E5%AE%A2-%E6%B2%92%E5%AF%AB%E6%98%8E%E9%99%90%E6%99%82%E6%9C%AA%E6%BB%BF%E5%BA%A7",
-    "timestamp": "2026-04-14T05:07:39.828Z",
     "strategy": ".content-card__main"
   }
 ];
