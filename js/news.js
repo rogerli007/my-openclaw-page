@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-15T22:24:12.569Z
+// Last updated: 2026-04-15T22:52:29.185Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "陳展鵬單文柔複式豪宅逐格睇　空間感十足擁私人3棵大樹加植物園",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260415/1121197843919409152965037.jpeg/NY-G33jL3qevwtzz3lqftX6rRfdGe8RyfTIQG30yEBs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60340445/%E9%99%B3%E5%B1%95%E9%B5%AC%E5%96%AE%E6%96%87%E6%9F%94%E8%A4%87%E5%BC%8F%E8%B1%AA%E5%AE%85%E9%80%90%E6%A0%BC%E7%9D%87-%E7%A9%BA%E9%96%93%E6%84%9F%E5%8D%81%E8%B6%B3%E6%93%81%E7%A7%81%E4%BA%BA3%E6%A3%B5%E5%A4%A7%E6%A8%B9%E5%8A%A0%E6%A4%8D%E7%89%A9%E5%9C%92",
+    "timestamp": "2026-04-15T22:52:29.185Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "天氣｜今日炎熱最高約29度　明起連日有驟雨",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260415/1121103118390530048247698.jpeg/Ef5VOKNWiT20w8GNkcuDrJEh59_CFkAk7juUZ-47lGc?v=w1920",
     "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60340455/%E7%A5%9D%E7%A6%8F%E8%AE%8A%E9%A8%B7%E6%93%BE-%E9%9B%B2%E5%8D%97%E6%BD%91%E6%B0%B4%E7%AF%80%E5%85%A9%E5%A5%B3%E9%81%AD%E5%A4%9A%E7%94%B7%E7%94%A8%E9%AB%98%E5%A3%93%E6%B0%B4%E6%A7%8D%E5%9C%8D%E6%94%BB%E5%8F%97%E9%A9%9A%E6%B1%82%E9%A5%92-%E6%9C%89%E7%89%87",
     "timestamp": "2026-04-15T07:44:29.405Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "豐澤優惠2026｜1折抽iPhone！800件家電低至18折｜附搶購攻略",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260415/1121098938082922496529641.jpeg/o3myEzKa160JZqHKoHwlLoZ8fNXuQH8SgDJBX4AyQV8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%A3%9F%E7%8E%A9%E8%B2%B7/60340311/%E8%B1%90%E6%BE%A4%E5%84%AA%E6%83%A02026-1%E6%8A%98%E6%8A%BDiphone-800%E4%BB%B6%E5%AE%B6%E9%9B%BB%E4%BD%8E%E8%87%B318%E6%8A%98-%E9%99%84%E6%90%B6%E8%B3%BC%E6%94%BB%E7%95%A5",
-    "timestamp": "2026-04-15T06:54:44.462Z",
     "strategy": ".content-card__main"
   }
 ];
