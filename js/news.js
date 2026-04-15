@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-15T11:14:26.344Z
+// Last updated: 2026-04-15T11:41:41.884Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "特朗普稱曾去信習近平要求別向伊朗供應武器　對方回信：沒這樣做",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260407/1117999102920364032790526.jpeg/Qg7R5M97u-H7wwaVNelG5FBJvD6pcqj8_AdsQPwHbEA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60340590/%E7%89%B9%E6%9C%97%E6%99%AE%E7%A8%B1%E6%9B%BE%E5%8E%BB%E4%BF%A1%E7%BF%92%E8%BF%91%E5%B9%B3%E8%A6%81%E6%B1%82%E5%88%A5%E5%90%91%E4%BC%8A%E6%9C%97%E4%BE%9B%E6%87%89%E6%AD%A6%E5%99%A8-%E5%B0%8D%E6%96%B9%E5%9B%9E%E4%BF%A1-%E6%B2%92%E9%80%99%E6%A8%A3%E5%81%9A",
+    "timestamp": "2026-04-15T11:41:41.884Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "46歲內地男涉借出銀行及證券戶口　洗黑錢$80萬　被判囚16個月",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260415/1120897283185971200153068.jpeg/qJ4TYoTmYuKrcLJcVNHJDM91ObMNAJcHaRC8omkQvKI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60340236/%E4%BB%A5%E9%BB%8E%E4%BB%A3%E8%A1%A8%E5%9C%A8%E8%8F%AF%E5%BA%9C%E7%9B%B4%E6%8E%A5%E6%9C%83%E8%AB%87-%E8%8B%B1%E6%B3%95%E7%AD%8917%E5%9C%8B%E5%A4%96%E9%95%B7%E4%BF%83%E6%8A%8A%E6%8F%A1%E6%A9%9F%E9%81%87",
     "timestamp": "2026-04-14T17:47:08.947Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "去年「M」品牌共花$3億資助25活動　七欖帶動九龍城區生意額升15%",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250330/983038649564270592126974.jpeg/IR2v_Qtvja_TUswulckGwKYht5TOAt5527B1ucGwdbk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60340223/%E5%8E%BB%E5%B9%B4-m-%E5%93%81%E7%89%8C%E5%85%B1%E8%8A%B1-3%E5%84%84%E8%B3%87%E5%8A%A925%E6%B4%BB%E5%8B%95-%E4%B8%83%E6%AC%96%E5%B8%B6%E5%8B%95%E4%B9%9D%E9%BE%8D%E5%9F%8E%E5%8D%80%E7%94%9F%E6%84%8F%E9%A1%8D%E5%8D%8715",
-    "timestamp": "2026-04-14T17:15:30.520Z",
     "strategy": ".content-card__main"
   }
 ];
