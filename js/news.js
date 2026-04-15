@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-15T17:35:42.511Z
+// Last updated: 2026-04-15T18:15:20.872Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "巴基斯坦陸軍參謀長率代表團抵伊朗　伊媒：為下輪美伊會談鋪路",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260416/1121259989785120768097638.png/eQBYZuoGNJoNpHB_ozLyWB4OX5Cg085yQpHsT0KR7E8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60340625/%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E9%99%B8%E8%BB%8D%E5%8F%83%E8%AC%80%E9%95%B7%E7%8E%87%E4%BB%A3%E8%A1%A8%E5%9C%98%E6%8A%B5%E4%BC%8A%E6%9C%97-%E4%BC%8A%E5%AA%92-%E7%82%BA%E4%B8%8B%E8%BC%AA%E7%BE%8E%E4%BC%8A%E6%9C%83%E8%AB%87%E9%8B%AA%E8%B7%AF",
+    "timestamp": "2026-04-15T18:15:20.872Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "籃球博彩稅煞停｜消指馬會已投放10億、聘180人　最快3個月可啟動",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260414/1120787563829792768326179.jpeg/e6iNKEe7BJS22PmqDkjVkcKh8Vm81gZEHe9q_B3vavw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60340112/%E5%85%92%E5%AD%90%E9%81%AD%E6%AC%BA%E5%87%8C-%E9%9B%B2%E5%8D%97%E7%88%B6%E5%9C%A8%E5%AD%B8%E6%A0%A1%E8%AA%BF%E8%A7%A3%E6%99%82%E6%83%85%E7%B7%92%E6%BF%80%E5%8B%95%E7%8C%9D%E6%AD%BB-%E7%8F%BE%E5%A0%B4%E7%84%A1%E4%BA%BA%E6%9C%83%E7%94%A8aed",
     "timestamp": "2026-04-15T00:55:33.926Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "伊朗總統讚揚6國反戰立場　包括中國",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260402/1116220781160828928174936.jpeg/kogL3PLbFW1Wf5XMfuNdVQdkUtMrvpwRh4tn5IeLZ-Q?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60340251/%E4%BC%8A%E6%9C%97%E7%B8%BD%E7%B5%B1%E8%AE%9A%E6%8F%9A6%E5%9C%8B%E5%8F%8D%E6%88%B0%E7%AB%8B%E5%A0%B4-%E5%8C%85%E6%8B%AC%E4%B8%AD%E5%9C%8B",
-    "timestamp": "2026-04-14T22:53:18.586Z",
     "strategy": ".content-card__main"
   }
 ];
