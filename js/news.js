@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-15T12:44:47.533Z
+// Last updated: 2026-04-15T14:47:39.952Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美籍網紅在韓親吻慰安婦雕像　韓國法院判6個月監禁",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260415/1121205936547958784439170.png/gHh5eIpzSSkwgIGa0a-XJD4vK8kCy4VxRaTBtUWkwbU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60340605/%E7%BE%8E%E7%B1%8D%E7%B6%B2%E7%B4%85%E5%9C%A8%E9%9F%93%E8%A6%AA%E5%90%BB%E6%85%B0%E5%AE%89%E5%A9%A6%E9%9B%95%E5%83%8F-%E9%9F%93%E5%9C%8B%E6%B3%95%E9%99%A2%E5%88%A46%E5%80%8B%E6%9C%88%E7%9B%A3%E7%A6%81",
+    "timestamp": "2026-04-15T14:47:39.952Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "TVB童星合體掀回憶殺　吳諾弘現場翻看冼迪琦大尺度寫真瞬間面紅",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250105/952705685634682880813702.jpeg/T81ueypMz2qf1xHudkcnYcgr1utzSpOPpR_5gqUf-YI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60340241/%E4%BC%8A%E6%9C%97%E6%88%B0%E7%88%AD-%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%8D%E6%93%8A%E7%A8%B1%E6%A2%85%E6%B4%9B%E5%B0%BC%E6%89%8D%E4%B8%8D%E5%8F%AF%E6%8E%A5%E5%8F%97-%E7%82%BA%E5%B0%8D%E6%96%B9%E6%8B%92%E5%8A%A9%E7%BE%8E%E5%9C%8B%E6%84%9F%E9%9C%87%E9%A9%9A",
     "timestamp": "2026-04-14T19:21:13.520Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普：與美伊談判　或將在近2日內在巴基斯坦舉行",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260407/1118128242490871808350176.jpeg/Cogl8TFsOnzpjIBFyVccmD9uajgu1xgQO4zLmjuMy5o?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60340240/%E7%89%B9%E6%9C%97%E6%99%AE-%E8%88%87%E7%BE%8E%E4%BC%8A%E8%AB%87%E5%88%A4-%E6%88%96%E5%B0%87%E5%9C%A8%E8%BF%912%E6%97%A5%E5%85%A7%E5%9C%A8%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E8%88%89%E8%A1%8C",
-    "timestamp": "2026-04-14T18:48:49.723Z",
     "strategy": ".content-card__main"
   }
 ];
