@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-15T07:44:29.405Z
+// Last updated: 2026-04-15T08:22:15.417Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "中東戰火累事　愛馬仕季績遜預期　股價遇史上單日盤中最大跌幅",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20251107/1063515726586843136651038.jpeg/chZeMIBNZ9rnUHCGFotadBGpSMDM-XjnTehYoE3oWKA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60340494/%E4%B8%AD%E6%9D%B1%E6%88%B0%E7%81%AB%E7%B4%AF%E4%BA%8B-%E6%84%9B%E9%A6%AC%E4%BB%95%E5%AD%A3%E7%B8%BE%E9%81%9C%E9%A0%90%E6%9C%9F-%E8%82%A1%E5%83%B9%E9%81%87%E5%8F%B2%E4%B8%8A%E5%96%AE%E6%97%A5%E7%9B%A4%E4%B8%AD%E6%9C%80%E5%A4%A7%E8%B7%8C%E5%B9%85",
+    "timestamp": "2026-04-15T08:22:15.417Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "祝福變騷擾　雲南潑水節兩女遭多男用高壓水槍圍攻受驚求饒｜有片",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20241120/935973974301609984596107.jpeg/K-wogL1uAbucGvm02PqU9-j5O_m3E9vNlduatLDbmrQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60340192/%E5%8D%8A%E6%95%B8%E9%AB%94%E8%82%B2%E7%B8%BD%E6%9C%83%E7%AE%A1%E6%B2%BB%E6%9C%AA%E7%8D%B2%E8%AA%8D%E8%AD%89-%E9%99%90%E6%9C%9F%E9%81%8E%E5%BE%8C%E6%88%96%E8%A2%AB%E5%89%8A%E8%B3%87-%E6%B8%AF%E5%8D%94%E4%BF%AE%E4%BE%8B%E5%A2%9E%E6%8E%A5%E7%AE%A1%E6%AC%8A",
     "timestamp": "2026-04-14T13:16:49.676Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "前男警迫子自瀆案　終院裁圖達至性滿足　不屬必須證明的控罪元素",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250508/997296021107118080371605.jpeg/pbjvRutPMHLUoLPtBWlEB4ezMVhzlP6nHqMkPx6jJD8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60340187/%E5%89%8D%E7%94%B7%E8%AD%A6%E8%BF%AB%E5%AD%90%E8%87%AA%E7%80%86%E6%A1%88-%E7%B5%82%E9%99%A2%E8%A3%81%E5%9C%96%E9%81%94%E8%87%B3%E6%80%A7%E6%BB%BF%E8%B6%B3-%E4%B8%8D%E5%B1%AC%E5%BF%85%E9%A0%88%E8%AD%89%E6%98%8E%E7%9A%84%E6%8E%A7%E7%BD%AA%E5%85%83%E7%B4%A0",
-    "timestamp": "2026-04-14T12:11:50.414Z",
     "strategy": ".content-card__main"
   }
 ];
