@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-15T17:00:23.688Z
+// Last updated: 2026-04-15T17:35:42.511Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "籃球博彩稅煞停｜消指馬會已投放10億、聘180人　最快3個月可啟動",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260415/1121220302282428416103642.jpeg/sjgtsBP1sem1zDQBjKggqhsiygq5eXTTZx0USWcdFEk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60340615/%E7%B1%83%E7%90%83%E5%8D%9A%E5%BD%A9%E7%A8%85%E7%85%9E%E5%81%9C-%E6%B6%88%E6%8C%87%E9%A6%AC%E6%9C%83%E5%B7%B2%E6%8A%95%E6%94%BE10%E5%84%84-%E8%81%98180%E4%BA%BA-%E6%9C%80%E5%BF%AB3%E5%80%8B%E6%9C%88%E5%8F%AF%E5%95%9F%E5%8B%95",
+    "timestamp": "2026-04-15T17:35:42.511Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "籃球博彩稅煞停｜消指馬會已投放10億、聘180人　最快3個月可啟動",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260402/1116220781160828928174936.jpeg/kogL3PLbFW1Wf5XMfuNdVQdkUtMrvpwRh4tn5IeLZ-Q?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60340251/%E4%BC%8A%E6%9C%97%E7%B8%BD%E7%B5%B1%E8%AE%9A%E6%8F%9A6%E5%9C%8B%E5%8F%8D%E6%88%B0%E7%AB%8B%E5%A0%B4-%E5%8C%85%E6%8B%AC%E4%B8%AD%E5%9C%8B",
     "timestamp": "2026-04-14T22:53:18.586Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "天氣｜今日日間炎熱　市區最高約29度　新界再高一兩度",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260415/1120965324389224448792364.jpeg/s8TqIUvqxtCQxwbQ0wlYRdgnxZ4-Lss8Jj9VliY_VZY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60340228/%E5%A4%A9%E6%B0%A3-%E4%BB%8A%E6%97%A5%E6%97%A5%E9%96%93%E7%82%8E%E7%86%B1-%E5%B8%82%E5%8D%80%E6%9C%80%E9%AB%98%E7%B4%8429%E5%BA%A6-%E6%96%B0%E7%95%8C%E5%86%8D%E9%AB%98%E4%B8%80%E5%85%A9%E5%BA%A6",
-    "timestamp": "2026-04-14T22:26:01.697Z",
     "strategy": ".content-card__main"
   }
 ];
