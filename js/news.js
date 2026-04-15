@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-15T08:22:15.417Z
+// Last updated: 2026-04-15T09:10:28.047Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "青協｜設「郊野公園保育基金」　促自然資產長遠保育",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20251228/1081935156874317824321870.jpeg/iAmUpPEB2JGt8yTtuOTfUauqX9fCpXKaFD33cQ4993E?v=w1920r16_9",
+    "url": "https://www.hk01.com/01%E8%AB%96%E5%A3%87/60339983/%E9%9D%92%E5%8D%94-%E8%A8%AD-%E9%83%8A%E9%87%8E%E5%85%AC%E5%9C%92%E4%BF%9D%E8%82%B2%E5%9F%BA%E9%87%91-%E4%BF%83%E8%87%AA%E7%84%B6%E8%B3%87%E7%94%A2%E9%95%B7%E9%81%A0%E4%BF%9D%E8%82%B2",
+    "timestamp": "2026-04-15T09:10:28.047Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "中東戰火累事　愛馬仕季績遜預期　股價遇史上單日盤中最大跌幅",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20251111/1065034029666930688967250.jpeg/9amSI5zOi4UZc4pehYIAYASyuiy2EuuPWI-MOliPjDo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60340208/%E5%85%AD%E5%90%88%E5%BD%A94-16%E9%A0%AD%E7%8D%8E-2500%E8%90%AC-6%E5%80%8B%E6%9C%80%E6%97%BA%E8%99%9F%E7%A2%BC-2%E6%8B%9B%E5%A2%9E%E4%B8%AD%E7%8D%8E%E6%A9%9F%E6%9C%83",
     "timestamp": "2026-04-14T14:02:54.774Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "半數體育總會管治未獲認證　限期過後或被削資　港協修例增接管權",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20241120/935973974301609984596107.jpeg/K-wogL1uAbucGvm02PqU9-j5O_m3E9vNlduatLDbmrQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60340192/%E5%8D%8A%E6%95%B8%E9%AB%94%E8%82%B2%E7%B8%BD%E6%9C%83%E7%AE%A1%E6%B2%BB%E6%9C%AA%E7%8D%B2%E8%AA%8D%E8%AD%89-%E9%99%90%E6%9C%9F%E9%81%8E%E5%BE%8C%E6%88%96%E8%A2%AB%E5%89%8A%E8%B3%87-%E6%B8%AF%E5%8D%94%E4%BF%AE%E4%BE%8B%E5%A2%9E%E6%8E%A5%E7%AE%A1%E6%AC%8A",
-    "timestamp": "2026-04-14T13:16:49.676Z",
     "strategy": ".content-card__main"
   }
 ];
