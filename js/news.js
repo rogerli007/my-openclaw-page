@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-15T03:56:10.142Z
+// Last updated: 2026-04-15T05:09:10.101Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "七人欖球賽周五開鑼　港鐵加密屯馬綫班次　巴士公司加開10條路線",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260415/1121065501749940224164752.jpeg/eUvrdTQ9WGSnVFcKxeWEpINnjWJVAwVrbRq8wUcavME?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60340365/%E4%B8%83%E4%BA%BA%E6%AC%96%E7%90%83%E8%B3%BD%E5%91%A8%E4%BA%94%E9%96%8B%E9%91%BC-%E6%B8%AF%E9%90%B5%E5%8A%A0%E5%AF%86%E5%B1%AF%E9%A6%AC%E7%B6%AB%E7%8F%AD%E6%AC%A1-%E5%B7%B4%E5%A3%AB%E5%85%AC%E5%8F%B8%E5%8A%A0%E9%96%8B10%E6%A2%9D%E8%B7%AF%E7%B7%9A",
+    "timestamp": "2026-04-15T05:09:10.101Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "宏福苑︱李家超：完成聆訊會追究責任　系統性改革跟進委員會建議",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260414/1120778762242232320036598.jpeg/Zh4yHBMzM5jk5O1WJpcJKSIHbHUXfjkDsmCUAbJglAE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60340160/%E6%95%99%E8%82%B2%E5%B1%80%E4%BC%B0%E7%AE%972035%E5%B9%B4%E5%83%853-2%E8%90%AC%E4%BA%BA%E5%8D%87%E4%B8%AD%E4%B8%80-9%E5%B9%B4%E5%A4%A7%E6%B8%9B%E9%80%BE2%E8%90%AC-3-8%E8%90%AC%E4%BA%BA%E5%8D%87%E5%B0%8F%E4%B8%80",
     "timestamp": "2026-04-14T10:40:04.460Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "曾沛慈疑遇浪姐黑箱作業跌出前10　瘋傳不滿怒退賽　本人現身闢謠",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260413/1120421858835959808320614.png/9Ie6T8gmwzSRVO88GGLSlY9lDuP9YSGvMAn8rjAJ_K4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60339773/%E6%9B%BE%E6%B2%9B%E6%85%88%E7%96%91%E9%81%87%E6%B5%AA%E5%A7%90%E9%BB%91%E7%AE%B1%E4%BD%9C%E6%A5%AD%E8%B7%8C%E5%87%BA%E5%89%8D10-%E7%98%8B%E5%82%B3%E4%B8%8D%E6%BB%BF%E6%80%92%E9%80%80%E8%B3%BD-%E6%9C%AC%E4%BA%BA%E7%8F%BE%E8%BA%AB%E9%97%A2%E8%AC%A0",
-    "timestamp": "2026-04-14T09:53:50.081Z",
     "strategy": ".content-card__main"
   }
 ];
