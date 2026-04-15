@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-15T21:55:23.534Z
+// Last updated: 2026-04-15T22:24:12.569Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "天氣｜今日炎熱最高約29度　明起連日有驟雨",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260416/1121327995928186880763480.jpeg/3Lamqy_VzbeHYT8QAsyWQ2zp9gQFkx26K-PIOivjyDo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60340623/%E5%A4%A9%E6%B0%A3-%E4%BB%8A%E6%97%A5%E7%82%8E%E7%86%B1%E6%9C%80%E9%AB%98%E7%B4%8429%E5%BA%A6-%E6%98%8E%E8%B5%B7%E9%80%A3%E6%97%A5%E6%9C%89%E9%A9%9F%E9%9B%A8",
+    "timestamp": "2026-04-15T22:24:12.569Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "歐聯8強｜拜仁兩回合6：4淘汰皇馬　阿仙奴合計1：0勝士砵亭",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260415/1121098938082922496529641.jpeg/o3myEzKa160JZqHKoHwlLoZ8fNXuQH8SgDJBX4AyQV8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%A3%9F%E7%8E%A9%E8%B2%B7/60340311/%E8%B1%90%E6%BE%A4%E5%84%AA%E6%83%A02026-1%E6%8A%98%E6%8A%BDiphone-800%E4%BB%B6%E5%AE%B6%E9%9B%BB%E4%BD%8E%E8%87%B318%E6%8A%98-%E9%99%84%E6%90%B6%E8%B3%BC%E6%94%BB%E7%95%A5",
     "timestamp": "2026-04-15T06:54:44.462Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "巴基斯坦28歲挖墓工「8年性侵48具女屍」　自爆專挑新鮮墳墓下手",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260415/1121036391493406720390625.jpeg/zQWyQso-MQ7M61iVtxyTuGBrBiqvZqtuEtvvIBLb7yA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60340272/%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A628%E6%AD%B2%E6%8C%96%E5%A2%93%E5%B7%A5-8%E5%B9%B4%E6%80%A7%E4%BE%B548%E5%85%B7%E5%A5%B3%E5%B1%8D-%E8%87%AA%E7%88%86%E5%B0%88%E6%8C%91%E6%96%B0%E9%AE%AE%E5%A2%B3%E5%A2%93%E4%B8%8B%E6%89%8B",
-    "timestamp": "2026-04-15T06:02:09.483Z",
     "strategy": ".content-card__main"
   }
 ];
