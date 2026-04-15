@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-15T22:52:29.185Z
+// Last updated: 2026-04-15T23:26:00.870Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "泰度假村女遊客沐浴遭偷窺！男友追出揭男員工逃　老闆反應惹憤怒",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260415/1121151500458921984169754.png/dW8xvAYqUDkfvfBbKEj9lssyaPymnDWDbdH5CG3R-Qg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60340075/%E6%B3%B0%E5%BA%A6%E5%81%87%E6%9D%91%E5%A5%B3%E9%81%8A%E5%AE%A2%E6%B2%90%E6%B5%B4%E9%81%AD%E5%81%B7%E7%AA%BA-%E7%94%B7%E5%8F%8B%E8%BF%BD%E5%87%BA%E6%8F%AD%E7%94%B7%E5%93%A1%E5%B7%A5%E9%80%83-%E8%80%81%E9%97%86%E5%8F%8D%E6%87%89%E6%83%B9%E6%86%A4%E6%80%92",
+    "timestamp": "2026-04-15T23:26:00.870Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "陳展鵬單文柔複式豪宅逐格睇　空間感十足擁私人3棵大樹加植物園",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20251107/1063515726586843136651038.jpeg/chZeMIBNZ9rnUHCGFotadBGpSMDM-XjnTehYoE3oWKA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60340494/%E4%B8%AD%E6%9D%B1%E6%88%B0%E7%81%AB%E7%B4%AF%E4%BA%8B-%E6%84%9B%E9%A6%AC%E4%BB%95%E5%AD%A3%E7%B8%BE%E9%81%9C%E9%A0%90%E6%9C%9F-%E8%82%A1%E5%83%B9%E9%81%87%E5%8F%B2%E4%B8%8A%E5%96%AE%E6%97%A5%E7%9B%A4%E4%B8%AD%E6%9C%80%E5%A4%A7%E8%B7%8C%E5%B9%85",
     "timestamp": "2026-04-15T08:22:15.417Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "祝福變騷擾　雲南潑水節兩女遭多男用高壓水槍圍攻受驚求饒｜有片",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260415/1121103118390530048247698.jpeg/Ef5VOKNWiT20w8GNkcuDrJEh59_CFkAk7juUZ-47lGc?v=w1920",
-    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60340455/%E7%A5%9D%E7%A6%8F%E8%AE%8A%E9%A8%B7%E6%93%BE-%E9%9B%B2%E5%8D%97%E6%BD%91%E6%B0%B4%E7%AF%80%E5%85%A9%E5%A5%B3%E9%81%AD%E5%A4%9A%E7%94%B7%E7%94%A8%E9%AB%98%E5%A3%93%E6%B0%B4%E6%A7%8D%E5%9C%8D%E6%94%BB%E5%8F%97%E9%A9%9A%E6%B1%82%E9%A5%92-%E6%9C%89%E7%89%87",
-    "timestamp": "2026-04-15T07:44:29.405Z",
     "strategy": ".content-card__main"
   }
 ];
