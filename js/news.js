@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-15T05:09:10.101Z
+// Last updated: 2026-04-15T06:02:09.483Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "巴基斯坦28歲挖墓工「8年性侵48具女屍」　自爆專挑新鮮墳墓下手",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260415/1121036391493406720390625.jpeg/zQWyQso-MQ7M61iVtxyTuGBrBiqvZqtuEtvvIBLb7yA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60340272/%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A628%E6%AD%B2%E6%8C%96%E5%A2%93%E5%B7%A5-8%E5%B9%B4%E6%80%A7%E4%BE%B548%E5%85%B7%E5%A5%B3%E5%B1%8D-%E8%87%AA%E7%88%86%E5%B0%88%E6%8C%91%E6%96%B0%E9%AE%AE%E5%A2%B3%E5%A2%93%E4%B8%8B%E6%89%8B",
+    "timestamp": "2026-04-15T06:02:09.483Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "七人欖球賽周五開鑼　港鐵加密屯馬綫班次　巴士公司加開10條路線",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/2342994/org/c40117a341cb3e44cc99c5aec71213dd.jpg/K7WFvS2ix5OCauu5t7HSpuCzFsUdjmgNJQfKGCUHyhg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60340172/%E7%99%BC%E5%B1%95%E5%B1%80%E6%93%AC%E4%B8%AD%E5%A4%AE%E6%8E%A1%E8%B3%BC30%E8%90%AC%E5%99%B8%E9%8B%BC%E7%AD%8B-%E6%96%99%E6%87%89%E4%BB%98%E6%9C%AA%E4%BE%86%E5%85%A9%E5%B9%B420%E9%A0%85%E5%B7%A5%E5%8B%99%E5%B7%A5%E7%A8%8B",
     "timestamp": "2026-04-14T11:14:48.019Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "教育局估算2035年僅3.2萬人升中一　9年大減逾2萬　3.8萬人升小一",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260414/1120778762242232320036598.jpeg/Zh4yHBMzM5jk5O1WJpcJKSIHbHUXfjkDsmCUAbJglAE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60340160/%E6%95%99%E8%82%B2%E5%B1%80%E4%BC%B0%E7%AE%972035%E5%B9%B4%E5%83%853-2%E8%90%AC%E4%BA%BA%E5%8D%87%E4%B8%AD%E4%B8%80-9%E5%B9%B4%E5%A4%A7%E6%B8%9B%E9%80%BE2%E8%90%AC-3-8%E8%90%AC%E4%BA%BA%E5%8D%87%E5%B0%8F%E4%B8%80",
-    "timestamp": "2026-04-14T10:40:04.460Z",
     "strategy": ".content-card__main"
   }
 ];
