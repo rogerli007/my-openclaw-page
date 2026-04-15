@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-15T06:02:09.483Z
+// Last updated: 2026-04-15T06:54:44.462Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "豐澤優惠2026｜1折抽iPhone！800件家電低至18折｜附搶購攻略",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260415/1121098938082922496529641.jpeg/o3myEzKa160JZqHKoHwlLoZ8fNXuQH8SgDJBX4AyQV8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%A3%9F%E7%8E%A9%E8%B2%B7/60340311/%E8%B1%90%E6%BE%A4%E5%84%AA%E6%83%A02026-1%E6%8A%98%E6%8A%BDiphone-800%E4%BB%B6%E5%AE%B6%E9%9B%BB%E4%BD%8E%E8%87%B318%E6%8A%98-%E9%99%84%E6%90%B6%E8%B3%BC%E6%94%BB%E7%95%A5",
+    "timestamp": "2026-04-15T06:54:44.462Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "巴基斯坦28歲挖墓工「8年性侵48具女屍」　自爆專挑新鮮墳墓下手",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260316/1110228356843966464372809.png/4nhyC57XHGBFxysJ7IUgJ9633JxRjHHsl1r-Ue1a_lE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%AB%87%E6%83%85%E8%AA%AA%E6%80%A7/60330909/%E5%AB%81%E5%85%A5%E8%B1%AA%E9%96%80%E8%83%BD%E4%B8%80%E6%AD%A5%E7%99%BB%E5%A4%A9-%E8%B1%AA%E9%96%80%E5%AA%B3%E5%A9%A6%E8%AB%87%E5%A9%9A%E5%A7%BB-%E7%82%BA%E9%87%91%E9%8C%A2%E7%B5%90%E5%A9%9A%E5%9C%B0%E4%BD%8D%E4%BD%8E%E9%9B%A3%E4%BB%A5%E7%AB%8B%E8%B6%B3",
     "timestamp": "2026-04-14T11:44:30.512Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "發展局擬中央採購30萬噸鋼筋　料應付未來兩年20項工務工程",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/2342994/org/c40117a341cb3e44cc99c5aec71213dd.jpg/K7WFvS2ix5OCauu5t7HSpuCzFsUdjmgNJQfKGCUHyhg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60340172/%E7%99%BC%E5%B1%95%E5%B1%80%E6%93%AC%E4%B8%AD%E5%A4%AE%E6%8E%A1%E8%B3%BC30%E8%90%AC%E5%99%B8%E9%8B%BC%E7%AD%8B-%E6%96%99%E6%87%89%E4%BB%98%E6%9C%AA%E4%BE%86%E5%85%A9%E5%B9%B420%E9%A0%85%E5%B7%A5%E5%8B%99%E5%B7%A5%E7%A8%8B",
-    "timestamp": "2026-04-14T11:14:48.019Z",
     "strategy": ".content-card__main"
   }
 ];
