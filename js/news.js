@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-15T10:39:08.545Z
+// Last updated: 2026-04-15T11:14:26.344Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "46歲內地男涉借出銀行及證券戶口　洗黑錢$80萬　被判囚16個月",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/5041911/org/176cbf0a65322851611bb5b847eab1cc.jpg/_TEHN7cSjTMkGiKZ9LevVfPE21dSPngpBleP6gZXj-o?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60340568/46%E6%AD%B2%E5%85%A7%E5%9C%B0%E7%94%B7%E6%B6%89%E5%80%9F%E5%87%BA%E9%8A%80%E8%A1%8C%E5%8F%8A%E8%AD%89%E5%88%B8%E6%88%B6%E5%8F%A3-%E6%B4%97%E9%BB%91%E9%8C%A2-80%E8%90%AC-%E8%A2%AB%E5%88%A4%E5%9B%9A16%E5%80%8B%E6%9C%88",
+    "timestamp": "2026-04-15T11:14:26.344Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "彭博：Anthropic估值達8000億美元　吸引投資人競購",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250330/983038649564270592126974.jpeg/IR2v_Qtvja_TUswulckGwKYht5TOAt5527B1ucGwdbk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60340223/%E5%8E%BB%E5%B9%B4-m-%E5%93%81%E7%89%8C%E5%85%B1%E8%8A%B1-3%E5%84%84%E8%B3%87%E5%8A%A925%E6%B4%BB%E5%8B%95-%E4%B8%83%E6%AC%96%E5%B8%B6%E5%8B%95%E4%B9%9D%E9%BE%8D%E5%9F%8E%E5%8D%80%E7%94%9F%E6%84%8F%E9%A1%8D%E5%8D%8715",
     "timestamp": "2026-04-14T17:15:30.520Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "醫療氣體6.14起納藥劑製品規管　衞生署提醒業界須領牌及註冊產品",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250716/1021958143015391232672983.jpeg/MrGP3G_ws5LwbG5erCBwZgQa_1VTjE4z88A33vPAN94?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60340230/%E9%86%AB%E7%99%82%E6%B0%A3%E9%AB%946-14%E8%B5%B7%E7%B4%8D%E8%97%A5%E5%8A%91%E8%A3%BD%E5%93%81%E8%A6%8F%E7%AE%A1-%E8%A1%9E%E7%94%9F%E7%BD%B2%E6%8F%90%E9%86%92%E6%A5%AD%E7%95%8C%E9%A0%88%E9%A0%98%E7%89%8C%E5%8F%8A%E8%A8%BB%E5%86%8A%E7%94%A2%E5%93%81",
-    "timestamp": "2026-04-14T16:37:49.473Z",
     "strategy": ".content-card__main"
   }
 ];
