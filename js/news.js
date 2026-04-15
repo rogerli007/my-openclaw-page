@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-15T14:47:39.952Z
+// Last updated: 2026-04-15T15:17:50.913Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "國安部揭3諜案：駐外人員嫖妓被｢捉黃腳雞｣拍淫照　淪間諜賣機密",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260415/1121225308935032832402831.jpeg/2gxbxG0CYFV9mvoh3iRe6ARykXNk5HZsbBAComwQAqI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60340588/%E5%9C%8B%E5%AE%89%E9%83%A8%E6%8F%AD3%E8%AB%9C%E6%A1%88-%E9%A7%90%E5%A4%96%E4%BA%BA%E5%93%A1%E5%AB%96%E5%A6%93%E8%A2%AB-%E6%8D%89%E9%BB%83%E8%85%B3%E9%9B%9E-%E6%8B%8D%E6%B7%AB%E7%85%A7-%E6%B7%AA%E9%96%93%E8%AB%9C%E8%B3%A3%E6%A9%9F%E5%AF%86",
+    "timestamp": "2026-04-15T15:17:50.913Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美籍網紅在韓親吻慰安婦雕像　韓國法院判6個月監禁",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260415/1120946917703028736536917.jpeg/hNW634OAy3En71qCAzgczukDysN85442HWfMhh1nzIY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60340246/%E6%AD%90%E8%81%AF8%E5%BC%B7-%E9%A6%AC%E9%AB%94%E6%9C%83%E5%85%A9%E5%9B%9E%E5%90%883-2%E6%B7%98%E6%B1%B0%E5%B7%B4%E5%A1%9E-%E5%88%A9%E7%89%A9%E6%B5%A6%E5%90%88%E8%A8%880-4%E9%80%81psg%E6%99%894%E5%BC%B7",
     "timestamp": "2026-04-14T21:27:09.603Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "伊朗戰爭｜特朗普反擊稱梅洛尼才不可接受　為對方拒助美國感震驚",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250105/952705685634682880813702.jpeg/T81ueypMz2qf1xHudkcnYcgr1utzSpOPpR_5gqUf-YI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60340241/%E4%BC%8A%E6%9C%97%E6%88%B0%E7%88%AD-%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%8D%E6%93%8A%E7%A8%B1%E6%A2%85%E6%B4%9B%E5%B0%BC%E6%89%8D%E4%B8%8D%E5%8F%AF%E6%8E%A5%E5%8F%97-%E7%82%BA%E5%B0%8D%E6%96%B9%E6%8B%92%E5%8A%A9%E7%BE%8E%E5%9C%8B%E6%84%9F%E9%9C%87%E9%A9%9A",
-    "timestamp": "2026-04-14T19:21:13.520Z",
     "strategy": ".content-card__main"
   }
 ];
