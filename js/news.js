@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-15T20:53:33.829Z
+// Last updated: 2026-04-15T21:55:23.534Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "歐聯8強｜拜仁兩回合6：4淘汰皇馬　阿仙奴合計1：0勝士砵亭",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260416/1121314234677071872795438.jpeg/SmrKNCTpQL3_0NFMkHADvy8Sj06I-BWDvedoBL3naAQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60340633/%E6%AD%90%E8%81%AF8%E5%BC%B7-%E6%8B%9C%E4%BB%81%E5%85%A9%E5%9B%9E%E5%90%886-4%E6%B7%98%E6%B1%B0%E7%9A%87%E9%A6%AC-%E9%98%BF%E4%BB%99%E5%A5%B4%E5%90%88%E8%A8%881-0%E5%8B%9D%E5%A3%AB%E7%A0%B5%E4%BA%AD",
+    "timestamp": "2026-04-15T21:55:23.534Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "元朗左軚石屎泵車撞拖架　司機雙腳被夾困駕駛室　半昏迷送院",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260415/1121036391493406720390625.jpeg/zQWyQso-MQ7M61iVtxyTuGBrBiqvZqtuEtvvIBLb7yA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60340272/%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A628%E6%AD%B2%E6%8C%96%E5%A2%93%E5%B7%A5-8%E5%B9%B4%E6%80%A7%E4%BE%B548%E5%85%B7%E5%A5%B3%E5%B1%8D-%E8%87%AA%E7%88%86%E5%B0%88%E6%8C%91%E6%96%B0%E9%AE%AE%E5%A2%B3%E5%A2%93%E4%B8%8B%E6%89%8B",
     "timestamp": "2026-04-15T06:02:09.483Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "七人欖球賽周五開鑼　港鐵加密屯馬綫班次　巴士公司加開10條路線",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260415/1121065501749940224164752.jpeg/eUvrdTQ9WGSnVFcKxeWEpINnjWJVAwVrbRq8wUcavME?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60340365/%E4%B8%83%E4%BA%BA%E6%AC%96%E7%90%83%E8%B3%BD%E5%91%A8%E4%BA%94%E9%96%8B%E9%91%BC-%E6%B8%AF%E9%90%B5%E5%8A%A0%E5%AF%86%E5%B1%AF%E9%A6%AC%E7%B6%AB%E7%8F%AD%E6%AC%A1-%E5%B7%B4%E5%A3%AB%E5%85%AC%E5%8F%B8%E5%8A%A0%E9%96%8B10%E6%A2%9D%E8%B7%AF%E7%B7%9A",
-    "timestamp": "2026-04-15T05:09:10.101Z",
     "strategy": ".content-card__main"
   }
 ];
