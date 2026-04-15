@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-15T02:46:36.579Z
+// Last updated: 2026-04-15T03:56:10.142Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "宏福苑︱李家超：完成聆訊會追究責任　系統性改革跟進委員會建議",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260415/1121027843053195264543197.jpeg/RXhA_2rBADURjDz94fdVZw_39rxbgn0krosMuIuLDLg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60340337/%E5%AE%8F%E7%A6%8F%E8%8B%91-%E6%9D%8E%E5%AE%B6%E8%B6%85-%E5%AE%8C%E6%88%90%E8%81%86%E8%A8%8A%E6%9C%83%E8%BF%BD%E7%A9%B6%E8%B2%AC%E4%BB%BB-%E7%B3%BB%E7%B5%B1%E6%80%A7%E6%94%B9%E9%9D%A9%E8%B7%9F%E9%80%B2%E5%A7%94%E5%93%A1%E6%9C%83%E5%BB%BA%E8%AD%B0",
+    "timestamp": "2026-04-15T03:56:10.142Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "伊朗戰爭｜美軍派逾萬士兵封鎖霍爾木茲海峽　6艘商船被迫返航",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260413/1120421858835959808320614.png/9Ie6T8gmwzSRVO88GGLSlY9lDuP9YSGvMAn8rjAJ_K4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60339773/%E6%9B%BE%E6%B2%9B%E6%85%88%E7%96%91%E9%81%87%E6%B5%AA%E5%A7%90%E9%BB%91%E7%AE%B1%E4%BD%9C%E6%A5%AD%E8%B7%8C%E5%87%BA%E5%89%8D10-%E7%98%8B%E5%82%B3%E4%B8%8D%E6%BB%BF%E6%80%92%E9%80%80%E8%B3%BD-%E6%9C%AC%E4%BA%BA%E7%8F%BE%E8%BA%AB%E9%97%A2%E8%AC%A0",
     "timestamp": "2026-04-14T09:53:50.081Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "首爾近郊｜朝韓三八線禁區：DMZ非武裝地帶深度遊　親睹真實朝鮮",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260414/1120735276952457216647258.jpeg/e1pGebjAci4lTg2oNMiAIf5s_0dt4o5u7zwfdu88H3Y?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%97%85%E9%81%8A/60280142/%E9%A6%96%E7%88%BE%E8%BF%91%E9%83%8A-%E6%9C%9D%E9%9F%93%E4%B8%89%E5%85%AB%E7%B7%9A%E7%A6%81%E5%8D%80-dmz%E9%9D%9E%E6%AD%A6%E8%A3%9D%E5%9C%B0%E5%B8%B6%E6%B7%B1%E5%BA%A6%E9%81%8A-%E8%A6%AA%E7%9D%B9%E7%9C%9F%E5%AF%A6%E6%9C%9D%E9%AE%AE",
-    "timestamp": "2026-04-14T09:13:40.030Z",
     "strategy": ".content-card__main"
   }
 ];
