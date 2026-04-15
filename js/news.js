@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-15T20:28:06.139Z
+// Last updated: 2026-04-15T20:53:33.829Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "元朗左軚石屎泵車撞拖架　司機雙腳被夾困駕駛室　半昏迷送院",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260416/1121301959874187264286913.jpeg/_UVcgckeYbPiNI-DH2RTBOLuTOOyQYlzDfx9ZSj8fWU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60340632/%E5%85%83%E6%9C%97%E5%B7%A6%E8%BB%9A%E7%9F%B3%E5%B1%8E%E6%B3%B5%E8%BB%8A%E6%92%9E%E6%8B%96%E6%9E%B6-%E5%8F%B8%E6%A9%9F%E9%9B%99%E8%85%B3%E8%A2%AB%E5%A4%BE%E5%9B%B0%E9%A7%95%E9%A7%9B%E5%AE%A4-%E5%8D%8A%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2",
+    "timestamp": "2026-04-15T20:53:33.829Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "內塔尼亞胡：談判期間續打擊真主黨　外媒：以內閣將討論與黎停火",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260415/1121065501749940224164752.jpeg/eUvrdTQ9WGSnVFcKxeWEpINnjWJVAwVrbRq8wUcavME?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60340365/%E4%B8%83%E4%BA%BA%E6%AC%96%E7%90%83%E8%B3%BD%E5%91%A8%E4%BA%94%E9%96%8B%E9%91%BC-%E6%B8%AF%E9%90%B5%E5%8A%A0%E5%AF%86%E5%B1%AF%E9%A6%AC%E7%B6%AB%E7%8F%AD%E6%AC%A1-%E5%B7%B4%E5%A3%AB%E5%85%AC%E5%8F%B8%E5%8A%A0%E9%96%8B10%E6%A2%9D%E8%B7%AF%E7%B7%9A",
     "timestamp": "2026-04-15T05:09:10.101Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "宏福苑︱李家超：完成聆訊會追究責任　系統性改革跟進委員會建議",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260415/1121027843053195264543197.jpeg/RXhA_2rBADURjDz94fdVZw_39rxbgn0krosMuIuLDLg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60340337/%E5%AE%8F%E7%A6%8F%E8%8B%91-%E6%9D%8E%E5%AE%B6%E8%B6%85-%E5%AE%8C%E6%88%90%E8%81%86%E8%A8%8A%E6%9C%83%E8%BF%BD%E7%A9%B6%E8%B2%AC%E4%BB%BB-%E7%B3%BB%E7%B5%B1%E6%80%A7%E6%94%B9%E9%9D%A9%E8%B7%9F%E9%80%B2%E5%A7%94%E5%93%A1%E6%9C%83%E5%BB%BA%E8%AD%B0",
-    "timestamp": "2026-04-15T03:56:10.142Z",
     "strategy": ".content-card__main"
   }
 ];
