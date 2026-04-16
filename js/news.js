@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-16T08:23:03.091Z
+// Last updated: 2026-04-16T09:07:39.487Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "情侶攬住瞓好處多？醫學研究列5大好處：睡眠+情感連結勝食藥",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260416/1121481561233952768918657.jpeg/aqmEt6dpmSVj8XXOw5DmPNAVqn1S-OEzbLg7k2y4O5M?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%96%8B%E7%BD%90/60340689/%E6%83%85%E4%BE%B6%E6%94%AC%E4%BD%8F%E7%9E%93%E5%A5%BD%E8%99%95%E5%A4%9A-%E9%86%AB%E5%AD%B8%E7%A0%94%E7%A9%B6%E5%88%975%E5%A4%A7%E5%A5%BD%E8%99%95-%E7%9D%A1%E7%9C%A0-%E6%83%85%E6%84%9F%E9%80%A3%E7%B5%90%E5%8B%9D%E9%A3%9F%E8%97%A5",
+    "timestamp": "2026-04-16T09:07:39.487Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "香港唱片店日2026推限量黑膠　Taylor Swift林憶蓮古天樂驚喜有名",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260415/1121220302282428416103642.jpeg/sjgtsBP1sem1zDQBjKggqhsiygq5eXTTZx0USWcdFEk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60340615/%E7%B1%83%E7%90%83%E5%8D%9A%E5%BD%A9%E7%A8%85%E7%85%9E%E5%81%9C-%E6%B6%88%E6%8C%87%E9%A6%AC%E6%9C%83%E5%B7%B2%E6%8A%95%E6%94%BE10%E5%84%84-%E8%81%98180%E4%BA%BA-%E6%9C%80%E5%BF%AB3%E5%80%8B%E6%9C%88%E5%8F%AF%E5%95%9F%E5%8B%95",
     "timestamp": "2026-04-15T17:35:42.511Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "籃球博彩稅煞停｜消指馬會已投放10億、聘180人　最快3個月可啟動",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260415/1121220302282428416103642.jpeg/sjgtsBP1sem1zDQBjKggqhsiygq5eXTTZx0USWcdFEk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60340615/%E7%B1%83%E7%90%83%E5%8D%9A%E5%BD%A9%E7%A8%85%E7%85%9E%E5%81%9C-%E6%B6%88%E6%8C%87%E9%A6%AC%E6%9C%83%E5%B7%B2%E6%8A%95%E6%94%BE10%E5%84%84-%E8%81%98180%E4%BA%BA-%E6%9C%80%E5%BF%AB3%E5%80%8B%E6%9C%88%E5%8F%AF%E5%95%9F%E5%8B%95",
-    "timestamp": "2026-04-15T17:00:23.688Z",
     "strategy": ".content-card__main"
   }
 ];
