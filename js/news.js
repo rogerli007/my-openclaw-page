@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-16T07:01:11.318Z
+// Last updated: 2026-04-16T07:44:56.683Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "中方：駐日本使館接連遭威脅　曾收恐嚇信後報警　日警方未重視",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20240519/868890219212967936107623.jpeg/m7Vpuqb4kyz01UPtrV5S5IeXPs-ruSNXBIZQOASGUDg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60340863/%E4%B8%AD%E5%9C%8B-%E9%A7%90%E6%97%A5%E6%9C%AC%E4%BD%BF%E9%A4%A8%E6%8E%A5%E9%80%A3%E9%81%AD%E5%A8%81%E8%84%85-%E6%9B%BE%E6%94%B6%E6%81%90%E5%9A%87%E4%BF%A1%E5%BE%8C%E5%A0%B1%E8%AD%A6-%E6%97%A5%E8%AD%A6%E6%96%B9%E6%9C%AA%E9%87%8D%E8%A6%96",
+    "timestamp": "2026-04-16T07:44:56.683Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "Nvidia供應商之一　勝宏科技招股已截止　孖展認購額5189億元",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260415/1121225308935032832402831.jpeg/2gxbxG0CYFV9mvoh3iRe6ARykXNk5HZsbBAComwQAqI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60340588/%E5%9C%8B%E5%AE%89%E9%83%A8%E6%8F%AD3%E8%AB%9C%E6%A1%88-%E9%A7%90%E5%A4%96%E4%BA%BA%E5%93%A1%E5%AB%96%E5%A6%93%E8%A2%AB-%E6%8D%89%E9%BB%83%E8%85%B3%E9%9B%9E-%E6%8B%8D%E6%B7%AB%E7%85%A7-%E6%B7%AA%E9%96%93%E8%AB%9C%E8%B3%A3%E6%A9%9F%E5%AF%86",
     "timestamp": "2026-04-15T15:17:50.913Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美籍網紅在韓親吻慰安婦雕像　韓國法院判6個月監禁",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260415/1121205936547958784439170.png/gHh5eIpzSSkwgIGa0a-XJD4vK8kCy4VxRaTBtUWkwbU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60340605/%E7%BE%8E%E7%B1%8D%E7%B6%B2%E7%B4%85%E5%9C%A8%E9%9F%93%E8%A6%AA%E5%90%BB%E6%85%B0%E5%AE%89%E5%A9%A6%E9%9B%95%E5%83%8F-%E9%9F%93%E5%9C%8B%E6%B3%95%E9%99%A2%E5%88%A46%E5%80%8B%E6%9C%88%E7%9B%A3%E7%A6%81",
-    "timestamp": "2026-04-15T14:47:39.952Z",
     "strategy": ".content-card__main"
   }
 ];
