@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-16T20:25:57.805Z
+// Last updated: 2026-04-16T20:53:52.581Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "特朗普：或前往巴基斯坦　推動與伊朗達協議",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260408/1118498209946144768082354.jpeg/EJD38zK1ZK-XBOmkRYTjS-9dUb8V0uUVbpZE4W6WROE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60341032/%E7%89%B9%E6%9C%97%E6%99%AE-%E6%88%96%E5%89%8D%E5%BE%80%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6-%E6%8E%A8%E5%8B%95%E8%88%87%E4%BC%8A%E6%9C%97%E9%81%94%E5%8D%94%E8%AD%B0",
+    "timestamp": "2026-04-16T20:53:52.581Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美國務院：以黎停火10天期限可延長　黎巴嫩須阻止真主黨發動攻擊",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20251126/1070410390480883712960312.jpeg/5_7NJBbKU5G5gw20ZCrXSzjOl-5V_awcl-S3ypfkt8o?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%A3%9F%E7%8E%A9%E8%B2%B7/60296124/%E4%BF%A1%E7%94%A8%E5%8D%A1%E5%8F%96%E6%B6%88%E6%94%BB%E7%95%A5-11%E9%96%93%E9%8A%80%E8%A1%8Ccut%E5%8D%A1%E6%95%99%E5%AD%B8-%E6%9C%AA%E9%81%8E%E5%86%B7%E6%B2%B3%E6%9C%9F%E9%9A%A8%E6%99%82%E8%B3%A0%E8%BF%8E%E6%96%B0%E7%A6%AE%E5%93%81",
     "timestamp": "2026-04-16T06:01:38.407Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "絲芭傳媒總裁王子傑去世　曾與鞠婧禕陷解約糾紛",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260416/1121434969789435904716294.jpeg/nP97GZfEIV8zQ0EOJtjueknSiOAkhg-1Ro1zGUaNcxk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60340786/%E7%B5%B2%E8%8A%AD%E5%82%B3%E5%AA%92%E7%B8%BD%E8%A3%81%E7%8E%8B%E5%AD%90%E5%82%91%E5%8E%BB%E4%B8%96-%E6%9B%BE%E8%88%87%E9%9E%A0%E5%A9%A7%E7%A6%95%E9%99%B7%E8%A7%A3%E7%B4%84%E7%B3%BE%E7%B4%9B",
-    "timestamp": "2026-04-16T05:13:31.172Z",
     "strategy": ".content-card__main"
   }
 ];
