@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-15T23:52:44.142Z
+// Last updated: 2026-04-16T00:56:53.929Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "白宮否認美國要求延長美伊停火期限",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260331/1115469828983885824152736.jpeg/unjFXsKRBhYzDv7ho9BenVSXyO977c6k46_8b-Ov_G8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60340653/%E7%99%BD%E5%AE%AE%E5%90%A6%E8%AA%8D%E7%BE%8E%E5%9C%8B%E8%A6%81%E6%B1%82%E5%BB%B6%E9%95%B7%E7%BE%8E%E4%BC%8A%E5%81%9C%E7%81%AB%E6%9C%9F%E9%99%90",
+    "timestamp": "2026-04-16T00:56:53.929Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "泰度假村女遊客沐浴遭偷窺！男友追出揭男員工逃　老闆反應惹憤怒",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260415/1121143090300588032045286.png/Q6z1i7r3tWfuk4UkewRqHpiKf9cgwAKuFLNkMxSzZDM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60340501/%E5%B0%8F%E5%AD%B8%E5%AE%BF%E8%88%8D%E5%A4%A7%E7%81%AB13%E6%AD%BB%E8%A2%AB%E8%99%95%E5%88%86-%E6%B2%B3%E5%8D%97%E7%9C%81%E5%8D%97%E9%99%BD%E5%B8%82%E5%89%AF%E5%B8%82%E9%95%B7%E9%98%BF%E7%A9%8E%E8%A2%AB%E6%9F%A5",
     "timestamp": "2026-04-15T09:55:12.596Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "青協｜設「郊野公園保育基金」　促自然資產長遠保育",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20251228/1081935156874317824321870.jpeg/iAmUpPEB2JGt8yTtuOTfUauqX9fCpXKaFD33cQ4993E?v=w1920r16_9",
-    "url": "https://www.hk01.com/01%E8%AB%96%E5%A3%87/60339983/%E9%9D%92%E5%8D%94-%E8%A8%AD-%E9%83%8A%E9%87%8E%E5%85%AC%E5%9C%92%E4%BF%9D%E8%82%B2%E5%9F%BA%E9%87%91-%E4%BF%83%E8%87%AA%E7%84%B6%E8%B3%87%E7%94%A2%E9%95%B7%E9%81%A0%E4%BF%9D%E8%82%B2",
-    "timestamp": "2026-04-15T09:10:28.047Z",
     "strategy": ".content-card__main"
   }
 ];
