@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-16T14:05:59.834Z
+// Last updated: 2026-04-16T16:19:00.728Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "豐澤家電優惠｜1折抽iPhone 17 Pro Max！800件家電低至18折",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260416/1121364278314536960284015.jpeg/tu6M7kV5m0L3uLi6xxq9RuWBrUhA5wqeLE-eJSxPniU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60340562/%E8%B1%90%E6%BE%A4%E5%AE%B6%E9%9B%BB%E5%84%AA%E6%83%A0-1%E6%8A%98%E6%8A%BDiphone-17-pro-max-800%E4%BB%B6%E5%AE%B6%E9%9B%BB%E4%BD%8E%E8%87%B318%E6%8A%98",
+    "timestamp": "2026-04-16T16:19:00.728Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "古裝短劇《冒姓琅琊2》妙用AI生成大場面　誅殺前朝宗室過程殘忍",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260415/1121197843919409152965037.jpeg/NY-G33jL3qevwtzz3lqftX6rRfdGe8RyfTIQG30yEBs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60340445/%E9%99%B3%E5%B1%95%E9%B5%AC%E5%96%AE%E6%96%87%E6%9F%94%E8%A4%87%E5%BC%8F%E8%B1%AA%E5%AE%85%E9%80%90%E6%A0%BC%E7%9D%87-%E7%A9%BA%E9%96%93%E6%84%9F%E5%8D%81%E8%B6%B3%E6%93%81%E7%A7%81%E4%BA%BA3%E6%A3%B5%E5%A4%A7%E6%A8%B9%E5%8A%A0%E6%A4%8D%E7%89%A9%E5%9C%92",
     "timestamp": "2026-04-15T22:52:29.185Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "天氣｜今日炎熱最高約29度　明起連日有驟雨",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260416/1121327995928186880763480.jpeg/3Lamqy_VzbeHYT8QAsyWQ2zp9gQFkx26K-PIOivjyDo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60340623/%E5%A4%A9%E6%B0%A3-%E4%BB%8A%E6%97%A5%E7%82%8E%E7%86%B1%E6%9C%80%E9%AB%98%E7%B4%8429%E5%BA%A6-%E6%98%8E%E8%B5%B7%E9%80%A3%E6%97%A5%E6%9C%89%E9%A9%9F%E9%9B%A8",
-    "timestamp": "2026-04-15T22:24:12.569Z",
     "strategy": ".content-card__main"
   }
 ];
