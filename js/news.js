@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-16T05:13:31.172Z
+// Last updated: 2026-04-16T06:01:38.407Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "信用卡取消攻略｜11間銀行CUT卡教學！未過冷河期隨時賠迎新禮品",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20251126/1070410390480883712960312.jpeg/5_7NJBbKU5G5gw20ZCrXSzjOl-5V_awcl-S3ypfkt8o?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%A3%9F%E7%8E%A9%E8%B2%B7/60296124/%E4%BF%A1%E7%94%A8%E5%8D%A1%E5%8F%96%E6%B6%88%E6%94%BB%E7%95%A5-11%E9%96%93%E9%8A%80%E8%A1%8Ccut%E5%8D%A1%E6%95%99%E5%AD%B8-%E6%9C%AA%E9%81%8E%E5%86%B7%E6%B2%B3%E6%9C%9F%E9%9A%A8%E6%99%82%E8%B3%A0%E8%BF%8E%E6%96%B0%E7%A6%AE%E5%93%81",
+    "timestamp": "2026-04-16T06:01:38.407Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "絲芭傳媒總裁王子傑去世　曾與鞠婧禕陷解約糾紛",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260415/1121089016867852288380674.jpeg/FJ3M8xJIAtaEcm74xmfzjLQgQ8eeHB9XdA8aHHQPGhw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60340399/tvb%E7%AB%A5%E6%98%9F%E5%90%88%E9%AB%94%E6%8E%80%E5%9B%9E%E6%86%B6%E6%AE%BA-%E5%90%B3%E8%AB%BE%E5%BC%98%E7%8F%BE%E5%A0%B4%E7%BF%BB%E7%9C%8B%E5%86%BC%E8%BF%AA%E7%90%A6%E5%A4%A7%E5%B0%BA%E5%BA%A6%E5%AF%AB%E7%9C%9F%E7%9E%AC%E9%96%93%E9%9D%A2%E7%B4%85",
     "timestamp": "2026-04-15T12:44:47.533Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普稱曾去信習近平要求別向伊朗供應武器　對方回信：沒這樣做",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260407/1117999102920364032790526.jpeg/Qg7R5M97u-H7wwaVNelG5FBJvD6pcqj8_AdsQPwHbEA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60340590/%E7%89%B9%E6%9C%97%E6%99%AE%E7%A8%B1%E6%9B%BE%E5%8E%BB%E4%BF%A1%E7%BF%92%E8%BF%91%E5%B9%B3%E8%A6%81%E6%B1%82%E5%88%A5%E5%90%91%E4%BC%8A%E6%9C%97%E4%BE%9B%E6%87%89%E6%AD%A6%E5%99%A8-%E5%B0%8D%E6%96%B9%E5%9B%9E%E4%BF%A1-%E6%B2%92%E9%80%99%E6%A8%A3%E5%81%9A",
-    "timestamp": "2026-04-15T11:41:41.884Z",
     "strategy": ".content-card__main"
   }
 ];
