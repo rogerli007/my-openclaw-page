@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-16T01:45:25.366Z
+// Last updated: 2026-04-16T04:00:58.258Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "戲飛優惠2026｜百老匯年票攻略　每月2張飛價錢　換無限睇戲Pass",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260112/1087324954757959680089672.jpeg/G3MVWXTyr7Ac4vWxm1pmgIQxejq46scAvBkJ97wZCfc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%A3%9F%E7%8E%A9%E8%B2%B7/60340584/%E6%88%B2%E9%A3%9B%E5%84%AA%E6%83%A02026-%E7%99%BE%E8%80%81%E5%8C%AF%E5%B9%B4%E7%A5%A8%E6%94%BB%E7%95%A5-%E6%AF%8F%E6%9C%882%E5%BC%B5%E9%A3%9B%E5%83%B9%E9%8C%A2-%E6%8F%9B%E7%84%A1%E9%99%90%E7%9D%87%E6%88%B2pass",
+    "timestamp": "2026-04-16T04:00:58.258Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "歐聯｜皇馬卡馬雲加被逐　負拜仁或四大皆空　銀河艦隊方針惹反思",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/5041911/org/176cbf0a65322851611bb5b847eab1cc.jpg/_TEHN7cSjTMkGiKZ9LevVfPE21dSPngpBleP6gZXj-o?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60340568/46%E6%AD%B2%E5%85%A7%E5%9C%B0%E7%94%B7%E6%B6%89%E5%80%9F%E5%87%BA%E9%8A%80%E8%A1%8C%E5%8F%8A%E8%AD%89%E5%88%B8%E6%88%B6%E5%8F%A3-%E6%B4%97%E9%BB%91%E9%8C%A2-80%E8%90%AC-%E8%A2%AB%E5%88%A4%E5%9B%9A16%E5%80%8B%E6%9C%88",
     "timestamp": "2026-04-15T11:14:26.344Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "彭博：Anthropic估值達8000億美元　吸引投資人競購",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260322/1112363836024819712159743.jpeg/BGp6CnogZA8T380_LwEHIzEY1b-QpTibNhj-WjYY_lo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60340518/%E5%BD%AD%E5%8D%9A-anthropic%E4%BC%B0%E5%80%BC%E9%81%948000%E5%84%84%E7%BE%8E%E5%85%83-%E5%90%B8%E5%BC%95%E6%8A%95%E8%B3%87%E4%BA%BA%E7%AB%B6%E8%B3%BC",
-    "timestamp": "2026-04-15T10:39:08.545Z",
     "strategy": ".content-card__main"
   }
 ];
