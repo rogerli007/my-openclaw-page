@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-16T13:20:37.598Z
+// Last updated: 2026-04-16T14:05:59.834Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "古裝短劇《冒姓琅琊2》妙用AI生成大場面　誅殺前朝宗室過程殘忍",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260414/1120776415856300032270895.jpeg/gieWV8LCtlUzm9cvrqYTH0pGllWY7feVaseOlmrHjpY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60336310/%E5%8F%A4%E8%A3%9D%E7%9F%AD%E5%8A%87-%E5%86%92%E5%A7%93%E7%90%85%E7%90%8A2-%E5%A6%99%E7%94%A8ai%E7%94%9F%E6%88%90%E5%A4%A7%E5%A0%B4%E9%9D%A2-%E8%AA%85%E6%AE%BA%E5%89%8D%E6%9C%9D%E5%AE%97%E5%AE%A4%E9%81%8E%E7%A8%8B%E6%AE%98%E5%BF%8D",
+    "timestamp": "2026-04-16T14:05:59.834Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "六合彩結果｜今期4.16頭獎2500萬即時攪珠｜中獎號碼+派彩獎金",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260416/1121327995928186880763480.jpeg/3Lamqy_VzbeHYT8QAsyWQ2zp9gQFkx26K-PIOivjyDo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60340623/%E5%A4%A9%E6%B0%A3-%E4%BB%8A%E6%97%A5%E7%82%8E%E7%86%B1%E6%9C%80%E9%AB%98%E7%B4%8429%E5%BA%A6-%E6%98%8E%E8%B5%B7%E9%80%A3%E6%97%A5%E6%9C%89%E9%A9%9F%E9%9B%A8",
     "timestamp": "2026-04-15T22:24:12.569Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "歐聯8強｜拜仁兩回合6：4淘汰皇馬　阿仙奴合計1：0勝士砵亭",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260416/1121314234677071872795438.jpeg/SmrKNCTpQL3_0NFMkHADvy8Sj06I-BWDvedoBL3naAQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60340633/%E6%AD%90%E8%81%AF8%E5%BC%B7-%E6%8B%9C%E4%BB%81%E5%85%A9%E5%9B%9E%E5%90%886-4%E6%B7%98%E6%B1%B0%E7%9A%87%E9%A6%AC-%E9%98%BF%E4%BB%99%E5%A5%B4%E5%90%88%E8%A8%881-0%E5%8B%9D%E5%A3%AB%E7%A0%B5%E4%BA%AD",
-    "timestamp": "2026-04-15T21:55:23.534Z",
     "strategy": ".content-card__main"
   }
 ];
