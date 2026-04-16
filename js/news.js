@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-16T19:18:53.974Z
+// Last updated: 2026-04-16T20:25:57.805Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美國務院：以黎停火10天期限可延長　黎巴嫩須阻止真主黨發動攻擊",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260401/1115817371269861376413806.jpeg/R12uoKOhAxQvM1NOrLMqER5qDTHvUuj9cU2skHFNrJA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60341033/%E7%BE%8E%E5%9C%8B%E5%8B%99%E9%99%A2-%E4%BB%A5%E9%BB%8E%E5%81%9C%E7%81%AB10%E5%A4%A9%E6%9C%9F%E9%99%90%E5%8F%AF%E5%BB%B6%E9%95%B7-%E9%BB%8E%E5%B7%B4%E5%AB%A9%E9%A0%88%E9%98%BB%E6%AD%A2%E7%9C%9F%E4%B8%BB%E9%BB%A8%E7%99%BC%E5%8B%95%E6%94%BB%E6%93%8A",
+    "timestamp": "2026-04-16T20:25:57.805Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "潘宏彬與劉德華是昔日好友更直接住在一起　轉行做經紀後不相往來",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260416/1121434969789435904716294.jpeg/nP97GZfEIV8zQ0EOJtjueknSiOAkhg-1Ro1zGUaNcxk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60340786/%E7%B5%B2%E8%8A%AD%E5%82%B3%E5%AA%92%E7%B8%BD%E8%A3%81%E7%8E%8B%E5%AD%90%E5%82%91%E5%8E%BB%E4%B8%96-%E6%9B%BE%E8%88%87%E9%9E%A0%E5%A9%A7%E7%A6%95%E9%99%B7%E8%A7%A3%E7%B4%84%E7%B3%BE%E7%B4%9B",
     "timestamp": "2026-04-16T05:13:31.172Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "戲飛優惠2026｜百老匯年票攻略　每月2張飛價錢　換無限睇戲Pass",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260112/1087324954757959680089672.jpeg/G3MVWXTyr7Ac4vWxm1pmgIQxejq46scAvBkJ97wZCfc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%A3%9F%E7%8E%A9%E8%B2%B7/60340584/%E6%88%B2%E9%A3%9B%E5%84%AA%E6%83%A02026-%E7%99%BE%E8%80%81%E5%8C%AF%E5%B9%B4%E7%A5%A8%E6%94%BB%E7%95%A5-%E6%AF%8F%E6%9C%882%E5%BC%B5%E9%A3%9B%E5%83%B9%E9%8C%A2-%E6%8F%9B%E7%84%A1%E9%99%90%E7%9D%87%E6%88%B2pass",
-    "timestamp": "2026-04-16T04:00:58.258Z",
     "strategy": ".content-card__main"
   }
 ];
