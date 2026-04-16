@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-16T07:44:56.683Z
+// Last updated: 2026-04-16T08:23:03.091Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "香港唱片店日2026推限量黑膠　Taylor Swift林憶蓮古天樂驚喜有名",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260416/1121460624723808256016954.jpeg/cVuAHukfJBWbKacdCZFh7FdHpFi4DnkwIowwPyKMMD8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60340839/%E9%A6%99%E6%B8%AF%E5%94%B1%E7%89%87%E5%BA%97%E6%97%A52026%E6%8E%A8%E9%99%90%E9%87%8F%E9%BB%91%E8%86%A0-taylor-swift%E6%9E%97%E6%86%B6%E8%93%AE%E5%8F%A4%E5%A4%A9%E6%A8%82%E9%A9%9A%E5%96%9C%E6%9C%89%E5%90%8D",
+    "timestamp": "2026-04-16T08:23:03.091Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "中方：駐日本使館接連遭威脅　曾收恐嚇信後報警　日警方未重視",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260415/1121220302282428416103642.jpeg/sjgtsBP1sem1zDQBjKggqhsiygq5eXTTZx0USWcdFEk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60340615/%E7%B1%83%E7%90%83%E5%8D%9A%E5%BD%A9%E7%A8%85%E7%85%9E%E5%81%9C-%E6%B6%88%E6%8C%87%E9%A6%AC%E6%9C%83%E5%B7%B2%E6%8A%95%E6%94%BE10%E5%84%84-%E8%81%98180%E4%BA%BA-%E6%9C%80%E5%BF%AB3%E5%80%8B%E6%9C%88%E5%8F%AF%E5%95%9F%E5%8B%95",
     "timestamp": "2026-04-15T17:00:23.688Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "國安部揭3諜案：駐外人員嫖妓被｢捉黃腳雞｣拍淫照　淪間諜賣機密",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260415/1121225308935032832402831.jpeg/2gxbxG0CYFV9mvoh3iRe6ARykXNk5HZsbBAComwQAqI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60340588/%E5%9C%8B%E5%AE%89%E9%83%A8%E6%8F%AD3%E8%AB%9C%E6%A1%88-%E9%A7%90%E5%A4%96%E4%BA%BA%E5%93%A1%E5%AB%96%E5%A6%93%E8%A2%AB-%E6%8D%89%E9%BB%83%E8%85%B3%E9%9B%9E-%E6%8B%8D%E6%B7%AB%E7%85%A7-%E6%B7%AA%E9%96%93%E8%AB%9C%E8%B3%A3%E6%A9%9F%E5%AF%86",
-    "timestamp": "2026-04-15T15:17:50.913Z",
     "strategy": ".content-card__main"
   }
 ];
