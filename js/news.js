@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-16T10:40:37.527Z
+// Last updated: 2026-04-16T11:14:24.505Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "落馬洲蕃田村村屋疑拜神失火傳爆炸聲　露台及外牆嚴重熏黑",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260416/1121515648116461568410758.jpeg/r6-WAYZTLBRsd__fkMP3JCwyVFL-aFogOj3D1Do9w9Q?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60340944/%E8%90%BD%E9%A6%AC%E6%B4%B2%E8%95%83%E7%94%B0%E6%9D%91%E6%9D%91%E5%B1%8B%E7%96%91%E6%8B%9C%E7%A5%9E%E5%A4%B1%E7%81%AB%E5%82%B3%E7%88%86%E7%82%B8%E8%81%B2-%E9%9C%B2%E5%8F%B0%E5%8F%8A%E5%A4%96%E7%89%86%E5%9A%B4%E9%87%8D%E7%86%8F%E9%BB%91",
+    "timestamp": "2026-04-16T11:14:24.505Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "與歐盟成員國駐港總領事舉行午餐會　李家超：特區重視與歐盟關係",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20170510/149439258259129f067d108.jpg/bBQJsebFSsI8pNJrCB6ksaVrf7qee1Ke3sr6tN7K-rQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60340630/%E4%B8%AD%E8%B6%8A%E5%85%A9%E5%9C%8B%E5%90%8C%E6%84%8F%E6%8E%A8%E5%8B%95%E5%92%8C%E5%B9%B3%E8%A7%A3%E6%B1%BA%E5%8D%97%E6%B5%B7%E9%A0%98%E5%9C%9F%E7%88%AD%E7%AB%AF",
     "timestamp": "2026-04-15T19:17:03.544Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "巴基斯坦陸軍參謀長率代表團抵伊朗　伊媒：為下輪美伊會談鋪路",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260416/1121259989785120768097638.png/eQBYZuoGNJoNpHB_ozLyWB4OX5Cg085yQpHsT0KR7E8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60340625/%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E9%99%B8%E8%BB%8D%E5%8F%83%E8%AC%80%E9%95%B7%E7%8E%87%E4%BB%A3%E8%A1%A8%E5%9C%98%E6%8A%B5%E4%BC%8A%E6%9C%97-%E4%BC%8A%E5%AA%92-%E7%82%BA%E4%B8%8B%E8%BC%AA%E7%BE%8E%E4%BC%8A%E6%9C%83%E8%AB%87%E9%8B%AA%E8%B7%AF",
-    "timestamp": "2026-04-15T18:15:20.872Z",
     "strategy": ".content-card__main"
   }
 ];
