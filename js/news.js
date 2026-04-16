@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-16T12:45:47.681Z
+// Last updated: 2026-04-16T13:20:37.598Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "六合彩結果｜今期4.16頭獎2500萬即時攪珠｜中獎號碼+派彩獎金",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260106/1085277999818870784691350.jpeg/qlD4zXZuaDWP92HwHoC750bl4vsF6LbIzKpuzcyqbs0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60340904/%E5%85%AD%E5%90%88%E5%BD%A9%E7%B5%90%E6%9E%9C-%E4%BB%8A%E6%9C%9F4-16%E9%A0%AD%E7%8D%8E2500%E8%90%AC%E5%8D%B3%E6%99%82%E6%94%AA%E7%8F%A0-%E4%B8%AD%E7%8D%8E%E8%99%9F%E7%A2%BC-%E6%B4%BE%E5%BD%A9%E7%8D%8E%E9%87%91",
+    "timestamp": "2026-04-16T13:20:37.598Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "匈牙利選舉　特朗普淡化歐爾班敗選影響　稱毛焦爾「是個好人」",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260416/1121314234677071872795438.jpeg/SmrKNCTpQL3_0NFMkHADvy8Sj06I-BWDvedoBL3naAQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60340633/%E6%AD%90%E8%81%AF8%E5%BC%B7-%E6%8B%9C%E4%BB%81%E5%85%A9%E5%9B%9E%E5%90%886-4%E6%B7%98%E6%B1%B0%E7%9A%87%E9%A6%AC-%E9%98%BF%E4%BB%99%E5%A5%B4%E5%90%88%E8%A8%881-0%E5%8B%9D%E5%A3%AB%E7%A0%B5%E4%BA%AD",
     "timestamp": "2026-04-15T21:55:23.534Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "元朗左軚石屎泵車撞拖架　司機雙腳被夾困駕駛室　半昏迷送院",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260416/1121301959874187264286913.jpeg/_UVcgckeYbPiNI-DH2RTBOLuTOOyQYlzDfx9ZSj8fWU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60340632/%E5%85%83%E6%9C%97%E5%B7%A6%E8%BB%9A%E7%9F%B3%E5%B1%8E%E6%B3%B5%E8%BB%8A%E6%92%9E%E6%8B%96%E6%9E%B6-%E5%8F%B8%E6%A9%9F%E9%9B%99%E8%85%B3%E8%A2%AB%E5%A4%BE%E5%9B%B0%E9%A7%95%E9%A7%9B%E5%AE%A4-%E5%8D%8A%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2",
-    "timestamp": "2026-04-15T20:53:33.829Z",
     "strategy": ".content-card__main"
   }
 ];
