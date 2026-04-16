@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-16T21:52:31.124Z
+// Last updated: 2026-04-16T22:52:12.734Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "「四千金」褟素霞近況曝光　演藝生涯堪稱傳奇息影多年鮮有露面",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260416/1121582640172896256352984.jpeg/FxpUTdK6tL4sVcB5D08qA1cG3CkWAEHvIGoI9yBqCPc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60340828/%E5%9B%9B%E5%8D%83%E9%87%91-%E8%A4%9F%E7%B4%A0%E9%9C%9E%E8%BF%91%E6%B3%81%E6%9B%9D%E5%85%89-%E6%BC%94%E8%97%9D%E7%94%9F%E6%B6%AF%E5%A0%AA%E7%A8%B1%E5%82%B3%E5%A5%87%E6%81%AF%E5%BD%B1%E5%A4%9A%E5%B9%B4%E9%AE%AE%E6%9C%89%E9%9C%B2%E9%9D%A2",
+    "timestamp": "2026-04-16T22:52:12.734Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "神舟二十一號航天員乘組完成第三次出艙　在軌駐留將延長約1個月",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260416/1121460624723808256016954.jpeg/cVuAHukfJBWbKacdCZFh7FdHpFi4DnkwIowwPyKMMD8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60340839/%E9%A6%99%E6%B8%AF%E5%94%B1%E7%89%87%E5%BA%97%E6%97%A52026%E6%8E%A8%E9%99%90%E9%87%8F%E9%BB%91%E8%86%A0-taylor-swift%E6%9E%97%E6%86%B6%E8%93%AE%E5%8F%A4%E5%A4%A9%E6%A8%82%E9%A9%9A%E5%96%9C%E6%9C%89%E5%90%8D",
     "timestamp": "2026-04-16T08:23:03.091Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "中方：駐日本使館接連遭威脅　曾收恐嚇信後報警　日警方未重視",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20240519/868890219212967936107623.jpeg/m7Vpuqb4kyz01UPtrV5S5IeXPs-ruSNXBIZQOASGUDg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60340863/%E4%B8%AD%E5%9C%8B-%E9%A7%90%E6%97%A5%E6%9C%AC%E4%BD%BF%E9%A4%A8%E6%8E%A5%E9%80%A3%E9%81%AD%E5%A8%81%E8%84%85-%E6%9B%BE%E6%94%B6%E6%81%90%E5%9A%87%E4%BF%A1%E5%BE%8C%E5%A0%B1%E8%AD%A6-%E6%97%A5%E8%AD%A6%E6%96%B9%E6%9C%AA%E9%87%8D%E8%A6%96",
-    "timestamp": "2026-04-16T07:44:56.683Z",
     "strategy": ".content-card__main"
   }
 ];
