@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-16T09:07:39.487Z
+// Last updated: 2026-04-16T10:40:37.527Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "與歐盟成員國駐港總領事舉行午餐會　李家超：特區重視與歐盟關係",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260416/1121515584480088064691378.jpeg/hrwjYj1uI1l1bql9tNNvYsxfJkaattPO40pVZ-NKVWc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60340952/%E8%88%87%E6%AD%90%E7%9B%9F%E6%88%90%E5%93%A1%E5%9C%8B%E9%A7%90%E6%B8%AF%E7%B8%BD%E9%A0%98%E4%BA%8B%E8%88%89%E8%A1%8C%E5%8D%88%E9%A4%90%E6%9C%83-%E6%9D%8E%E5%AE%B6%E8%B6%85-%E7%89%B9%E5%8D%80%E9%87%8D%E8%A6%96%E8%88%87%E6%AD%90%E7%9B%9F%E9%97%9C%E4%BF%82",
+    "timestamp": "2026-04-16T10:40:37.527Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "情侶攬住瞓好處多？醫學研究列5大好處：睡眠+情感連結勝食藥",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260416/1121259989785120768097638.png/eQBYZuoGNJoNpHB_ozLyWB4OX5Cg085yQpHsT0KR7E8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60340625/%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E9%99%B8%E8%BB%8D%E5%8F%83%E8%AC%80%E9%95%B7%E7%8E%87%E4%BB%A3%E8%A1%A8%E5%9C%98%E6%8A%B5%E4%BC%8A%E6%9C%97-%E4%BC%8A%E5%AA%92-%E7%82%BA%E4%B8%8B%E8%BC%AA%E7%BE%8E%E4%BC%8A%E6%9C%83%E8%AB%87%E9%8B%AA%E8%B7%AF",
     "timestamp": "2026-04-15T18:15:20.872Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "籃球博彩稅煞停｜消指馬會已投放10億、聘180人　最快3個月可啟動",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260415/1121220302282428416103642.jpeg/sjgtsBP1sem1zDQBjKggqhsiygq5eXTTZx0USWcdFEk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60340615/%E7%B1%83%E7%90%83%E5%8D%9A%E5%BD%A9%E7%A8%85%E7%85%9E%E5%81%9C-%E6%B6%88%E6%8C%87%E9%A6%AC%E6%9C%83%E5%B7%B2%E6%8A%95%E6%94%BE10%E5%84%84-%E8%81%98180%E4%BA%BA-%E6%9C%80%E5%BF%AB3%E5%80%8B%E6%9C%88%E5%8F%AF%E5%95%9F%E5%8B%95",
-    "timestamp": "2026-04-15T17:35:42.511Z",
     "strategy": ".content-card__main"
   }
 ];
