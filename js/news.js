@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-16T16:19:00.728Z
+// Last updated: 2026-04-16T16:55:50.583Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "科學館推新展覽及35周年主題活動　能量穿梭機呈獻期間限定升級版",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260417/1121604551137431552863295.jpeg/mCUY5dvfYrp3CYC68X20JgOGoM4Uibx0vzhh2b84Ydk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60341018/%E7%A7%91%E5%AD%B8%E9%A4%A8%E6%8E%A8%E6%96%B0%E5%B1%95%E8%A6%BD%E5%8F%8A35%E5%91%A8%E5%B9%B4%E4%B8%BB%E9%A1%8C%E6%B4%BB%E5%8B%95-%E8%83%BD%E9%87%8F%E7%A9%BF%E6%A2%AD%E6%A9%9F%E5%91%88%E7%8D%BB%E6%9C%9F%E9%96%93%E9%99%90%E5%AE%9A%E5%8D%87%E7%B4%9A%E7%89%88",
+    "timestamp": "2026-04-16T16:55:50.583Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "豐澤家電優惠｜1折抽iPhone 17 Pro Max！800件家電低至18折",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260415/1121151500458921984169754.png/dW8xvAYqUDkfvfBbKEj9lssyaPymnDWDbdH5CG3R-Qg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60340075/%E6%B3%B0%E5%BA%A6%E5%81%87%E6%9D%91%E5%A5%B3%E9%81%8A%E5%AE%A2%E6%B2%90%E6%B5%B4%E9%81%AD%E5%81%B7%E7%AA%BA-%E7%94%B7%E5%8F%8B%E8%BF%BD%E5%87%BA%E6%8F%AD%E7%94%B7%E5%93%A1%E5%B7%A5%E9%80%83-%E8%80%81%E9%97%86%E5%8F%8D%E6%87%89%E6%83%B9%E6%86%A4%E6%80%92",
     "timestamp": "2026-04-15T23:26:00.870Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "陳展鵬單文柔複式豪宅逐格睇　空間感十足擁私人3棵大樹加植物園",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260415/1121197843919409152965037.jpeg/NY-G33jL3qevwtzz3lqftX6rRfdGe8RyfTIQG30yEBs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60340445/%E9%99%B3%E5%B1%95%E9%B5%AC%E5%96%AE%E6%96%87%E6%9F%94%E8%A4%87%E5%BC%8F%E8%B1%AA%E5%AE%85%E9%80%90%E6%A0%BC%E7%9D%87-%E7%A9%BA%E9%96%93%E6%84%9F%E5%8D%81%E8%B6%B3%E6%93%81%E7%A7%81%E4%BA%BA3%E6%A3%B5%E5%A4%A7%E6%A8%B9%E5%8A%A0%E6%A4%8D%E7%89%A9%E5%9C%92",
-    "timestamp": "2026-04-15T22:52:29.185Z",
     "strategy": ".content-card__main"
   }
 ];
