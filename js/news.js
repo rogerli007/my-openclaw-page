@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-16T17:41:37.566Z
+// Last updated: 2026-04-16T18:15:03.661Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "王毅晤塔亞尼　稱當務之急是推動美伊重回談判",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260417/1121623951345192960264705.jpeg/vU9pnoY6sSNjYYU03ypnYGpDlTCjShl4TJnEdUyZxHU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60341027/%E7%8E%8B%E6%AF%85%E6%99%A4%E5%A1%94%E4%BA%9E%E5%B0%BC-%E7%A8%B1%E7%95%B6%E5%8B%99%E4%B9%8B%E6%80%A5%E6%98%AF%E6%8E%A8%E5%8B%95%E7%BE%8E%E4%BC%8A%E9%87%8D%E5%9B%9E%E8%AB%87%E5%88%A4",
+    "timestamp": "2026-04-16T18:15:03.661Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "宏福苑｜居民索樓宇結構報告　房屋局：石屎微細裂痕影響結構安全",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260331/1115469828983885824152736.jpeg/unjFXsKRBhYzDv7ho9BenVSXyO977c6k46_8b-Ov_G8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60340653/%E7%99%BD%E5%AE%AE%E5%90%A6%E8%AA%8D%E7%BE%8E%E5%9C%8B%E8%A6%81%E6%B1%82%E5%BB%B6%E9%95%B7%E7%BE%8E%E4%BC%8A%E5%81%9C%E7%81%AB%E6%9C%9F%E9%99%90",
     "timestamp": "2026-04-16T00:56:53.929Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "泰度假村女遊客沐浴遭偷窺！男友追出揭男員工逃　老闆反應惹憤怒",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260415/1121151500458921984169754.png/dW8xvAYqUDkfvfBbKEj9lssyaPymnDWDbdH5CG3R-Qg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60340075/%E6%B3%B0%E5%BA%A6%E5%81%87%E6%9D%91%E5%A5%B3%E9%81%8A%E5%AE%A2%E6%B2%90%E6%B5%B4%E9%81%AD%E5%81%B7%E7%AA%BA-%E7%94%B7%E5%8F%8B%E8%BF%BD%E5%87%BA%E6%8F%AD%E7%94%B7%E5%93%A1%E5%B7%A5%E9%80%83-%E8%80%81%E9%97%86%E5%8F%8D%E6%87%89%E6%83%B9%E6%86%A4%E6%80%92",
-    "timestamp": "2026-04-15T23:52:44.142Z",
     "strategy": ".content-card__main"
   }
 ];
