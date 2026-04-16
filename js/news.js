@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-16T11:44:42.947Z
+// Last updated: 2026-04-16T12:12:07.040Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "城大前副教授杜渡就賂賄經紀案上訴　城大指杜已非其校的教職員",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250923/1047126717698674688859126.jpeg/pMnhn9HL_EE5YqbkLu-cOFLCLN40tAwm2MBShP3AUoQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60340985/%E5%9F%8E%E5%A4%A7%E5%89%8D%E5%89%AF%E6%95%99%E6%8E%88%E6%9D%9C%E6%B8%A1%E5%B0%B1%E8%B3%82%E8%B3%84%E7%B6%93%E7%B4%80%E6%A1%88%E4%B8%8A%E8%A8%B4-%E5%9F%8E%E5%A4%A7%E6%8C%87%E6%9D%9C%E5%B7%B2%E9%9D%9E%E5%85%B6%E6%A0%A1%E7%9A%84%E6%95%99%E8%81%B7%E5%93%A1",
+    "timestamp": "2026-04-16T12:12:07.040Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "郭家麒醫生牌永久釘牌　FB發文稱意料中事　仍以幫助他人為己任",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260320/1111507910162124800210596.jpeg/95TIGibeRwtDYxmBylJEFFqoNe7MB_e1rWxrpa1sa6U?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60340631/%E5%85%A7%E5%A1%94%E5%B0%BC%E4%BA%9E%E8%83%A1-%E8%AB%87%E5%88%A4%E6%9C%9F%E9%96%93%E7%BA%8C%E6%89%93%E6%93%8A%E7%9C%9F%E4%B8%BB%E9%BB%A8-%E5%A4%96%E5%AA%92-%E4%BB%A5%E5%85%A7%E9%96%A3%E5%B0%87%E8%A8%8E%E8%AB%96%E8%88%87%E9%BB%8E%E5%81%9C%E7%81%AB",
     "timestamp": "2026-04-15T20:28:06.139Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "內塔尼亞胡：談判期間續打擊真主黨　外媒：以內閣將討論與黎停火",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260320/1111507910162124800210596.jpeg/95TIGibeRwtDYxmBylJEFFqoNe7MB_e1rWxrpa1sa6U?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60340631/%E5%85%A7%E5%A1%94%E5%B0%BC%E4%BA%9E%E8%83%A1-%E8%AB%87%E5%88%A4%E6%9C%9F%E9%96%93%E7%BA%8C%E6%89%93%E6%93%8A%E7%9C%9F%E4%B8%BB%E9%BB%A8-%E5%A4%96%E5%AA%92-%E4%BB%A5%E5%85%A7%E9%96%A3%E5%B0%87%E8%A8%8E%E8%AB%96%E8%88%87%E9%BB%8E%E5%81%9C%E7%81%AB",
-    "timestamp": "2026-04-15T19:51:40.412Z",
     "strategy": ".content-card__main"
   }
 ];
