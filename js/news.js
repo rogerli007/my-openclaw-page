@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-16T22:52:12.734Z
+// Last updated: 2026-04-16T23:24:22.341Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "戲曲中心對開十字路口　的士客貨車相撞　兩司機俱受傷",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260417/1121706454005321728485209.jpeg/bWkav2VjMIw_0Tu7wlalhaXWi45EBgsUO7B0Wx6wdFs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60341042/%E6%88%B2%E6%9B%B2%E4%B8%AD%E5%BF%83%E5%B0%8D%E9%96%8B%E5%8D%81%E5%AD%97%E8%B7%AF%E5%8F%A3-%E7%9A%84%E5%A3%AB%E5%AE%A2%E8%B2%A8%E8%BB%8A%E7%9B%B8%E6%92%9E-%E5%85%A9%E5%8F%B8%E6%A9%9F%E4%BF%B1%E5%8F%97%E5%82%B7",
+    "timestamp": "2026-04-16T23:24:22.341Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "「四千金」褟素霞近況曝光　演藝生涯堪稱傳奇息影多年鮮有露面",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260416/1121481561233952768918657.jpeg/aqmEt6dpmSVj8XXOw5DmPNAVqn1S-OEzbLg7k2y4O5M?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%96%8B%E7%BD%90/60340689/%E6%83%85%E4%BE%B6%E6%94%AC%E4%BD%8F%E7%9E%93%E5%A5%BD%E8%99%95%E5%A4%9A-%E9%86%AB%E5%AD%B8%E7%A0%94%E7%A9%B6%E5%88%975%E5%A4%A7%E5%A5%BD%E8%99%95-%E7%9D%A1%E7%9C%A0-%E6%83%85%E6%84%9F%E9%80%A3%E7%B5%90%E5%8B%9D%E9%A3%9F%E8%97%A5",
     "timestamp": "2026-04-16T09:07:39.487Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "香港唱片店日2026推限量黑膠　Taylor Swift林憶蓮古天樂驚喜有名",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260416/1121460624723808256016954.jpeg/cVuAHukfJBWbKacdCZFh7FdHpFi4DnkwIowwPyKMMD8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60340839/%E9%A6%99%E6%B8%AF%E5%94%B1%E7%89%87%E5%BA%97%E6%97%A52026%E6%8E%A8%E9%99%90%E9%87%8F%E9%BB%91%E8%86%A0-taylor-swift%E6%9E%97%E6%86%B6%E8%93%AE%E5%8F%A4%E5%A4%A9%E6%A8%82%E9%A9%9A%E5%96%9C%E6%9C%89%E5%90%8D",
-    "timestamp": "2026-04-16T08:23:03.091Z",
     "strategy": ".content-card__main"
   }
 ];
