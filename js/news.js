@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-16T18:46:51.171Z
+// Last updated: 2026-04-16T19:18:53.974Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "潘宏彬與劉德華是昔日好友更直接住在一起　轉行做經紀後不相往來",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260417/1121635976184074240307924.jpeg/TTBZgA0i5d1kT_y6r9PYQFoUIMmddn1ha28BoGtvAaA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60341031/%E6%BD%98%E5%AE%8F%E5%BD%AC%E8%88%87%E5%8A%89%E5%BE%B7%E8%8F%AF%E6%98%AF%E6%98%94%E6%97%A5%E5%A5%BD%E5%8F%8B%E6%9B%B4%E7%9B%B4%E6%8E%A5%E4%BD%8F%E5%9C%A8%E4%B8%80%E8%B5%B7-%E8%BD%89%E8%A1%8C%E5%81%9A%E7%B6%93%E7%B4%80%E5%BE%8C%E4%B8%8D%E7%9B%B8%E5%BE%80%E4%BE%86",
+    "timestamp": "2026-04-16T19:18:53.974Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "潘宏彬與劉德華是昔日好友更直接住在一起　轉行做經紀後不相往來",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260112/1087324954757959680089672.jpeg/G3MVWXTyr7Ac4vWxm1pmgIQxejq46scAvBkJ97wZCfc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%A3%9F%E7%8E%A9%E8%B2%B7/60340584/%E6%88%B2%E9%A3%9B%E5%84%AA%E6%83%A02026-%E7%99%BE%E8%80%81%E5%8C%AF%E5%B9%B4%E7%A5%A8%E6%94%BB%E7%95%A5-%E6%AF%8F%E6%9C%882%E5%BC%B5%E9%A3%9B%E5%83%B9%E9%8C%A2-%E6%8F%9B%E7%84%A1%E9%99%90%E7%9D%87%E6%88%B2pass",
     "timestamp": "2026-04-16T04:00:58.258Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "歐聯｜皇馬卡馬雲加被逐　負拜仁或四大皆空　銀河艦隊方針惹反思",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260416/1121380762138972160281397.jpeg/8LpTJNqa925qqIIWZM02cqhD1WLthKkK-FFbg_hRW4M?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60340662/%E6%AD%90%E8%81%AF-%E7%9A%87%E9%A6%AC%E5%8D%A1%E9%A6%AC%E9%9B%B2%E5%8A%A0%E8%A2%AB%E9%80%90-%E8%B2%A0%E6%8B%9C%E4%BB%81%E6%88%96%E5%9B%9B%E5%A4%A7%E7%9A%86%E7%A9%BA-%E9%8A%80%E6%B2%B3%E8%89%A6%E9%9A%8A%E6%96%B9%E9%87%9D%E6%83%B9%E5%8F%8D%E6%80%9D",
-    "timestamp": "2026-04-16T01:45:25.366Z",
     "strategy": ".content-card__main"
   }
 ];
