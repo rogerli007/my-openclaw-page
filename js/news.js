@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-16T21:25:56.799Z
+// Last updated: 2026-04-16T21:52:31.124Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "神舟二十一號航天員乘組完成第三次出艙　在軌駐留將延長約1個月",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260417/1121681732517498880974350.jpeg/ygCLbfAQ3b0GGYFjuNmXHmJYhdDbQUl-CL7v9wi-7_c?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60341036/%E7%A5%9E%E8%88%9F%E4%BA%8C%E5%8D%81%E4%B8%80%E8%99%9F%E8%88%AA%E5%A4%A9%E5%93%A1%E4%B9%98%E7%B5%84%E5%AE%8C%E6%88%90%E7%AC%AC%E4%B8%89%E6%AC%A1%E5%87%BA%E8%89%99-%E5%9C%A8%E8%BB%8C%E9%A7%90%E7%95%99%E5%B0%87%E5%BB%B6%E9%95%B7%E7%B4%841%E5%80%8B%E6%9C%88",
+    "timestamp": "2026-04-16T21:52:31.124Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "歐霸8強｜阿士東維拉兩回合7：1淘汰博洛尼亞　森林合計2：1波圖",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20240519/868890219212967936107623.jpeg/m7Vpuqb4kyz01UPtrV5S5IeXPs-ruSNXBIZQOASGUDg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60340863/%E4%B8%AD%E5%9C%8B-%E9%A7%90%E6%97%A5%E6%9C%AC%E4%BD%BF%E9%A4%A8%E6%8E%A5%E9%80%A3%E9%81%AD%E5%A8%81%E8%84%85-%E6%9B%BE%E6%94%B6%E6%81%90%E5%9A%87%E4%BF%A1%E5%BE%8C%E5%A0%B1%E8%AD%A6-%E6%97%A5%E8%AD%A6%E6%96%B9%E6%9C%AA%E9%87%8D%E8%A6%96",
     "timestamp": "2026-04-16T07:44:56.683Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "Nvidia供應商之一　勝宏科技招股已截止　孖展認購額5189億元",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20220309/578151143142592512784103.png/hJnCp7iT8MdiHS10BZfGGDzhz6Gthnst334yAt9-MgI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60340837/nvidia%E4%BE%9B%E6%87%89%E5%95%86%E4%B9%8B%E4%B8%80-%E5%8B%9D%E5%AE%8F%E7%A7%91%E6%8A%80%E6%8B%9B%E8%82%A1%E5%B7%B2%E6%88%AA%E6%AD%A2-%E5%AD%96%E5%B1%95%E8%AA%8D%E8%B3%BC%E9%A1%8D5189%E5%84%84%E5%85%83",
-    "timestamp": "2026-04-16T07:01:11.318Z",
     "strategy": ".content-card__main"
   }
 ];
