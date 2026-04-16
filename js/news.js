@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-16T18:15:03.661Z
+// Last updated: 2026-04-16T18:46:51.171Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "潘宏彬與劉德華是昔日好友更直接住在一起　轉行做經紀後不相往來",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260417/1121635976184074240307924.jpeg/TTBZgA0i5d1kT_y6r9PYQFoUIMmddn1ha28BoGtvAaA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60341031/%E6%BD%98%E5%AE%8F%E5%BD%AC%E8%88%87%E5%8A%89%E5%BE%B7%E8%8F%AF%E6%98%AF%E6%98%94%E6%97%A5%E5%A5%BD%E5%8F%8B%E6%9B%B4%E7%9B%B4%E6%8E%A5%E4%BD%8F%E5%9C%A8%E4%B8%80%E8%B5%B7-%E8%BD%89%E8%A1%8C%E5%81%9A%E7%B6%93%E7%B4%80%E5%BE%8C%E4%B8%8D%E7%9B%B8%E5%BE%80%E4%BE%86",
+    "timestamp": "2026-04-16T18:46:51.171Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "王毅晤塔亞尼　稱當務之急是推動美伊重回談判",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260416/1121380762138972160281397.jpeg/8LpTJNqa925qqIIWZM02cqhD1WLthKkK-FFbg_hRW4M?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60340662/%E6%AD%90%E8%81%AF-%E7%9A%87%E9%A6%AC%E5%8D%A1%E9%A6%AC%E9%9B%B2%E5%8A%A0%E8%A2%AB%E9%80%90-%E8%B2%A0%E6%8B%9C%E4%BB%81%E6%88%96%E5%9B%9B%E5%A4%A7%E7%9A%86%E7%A9%BA-%E9%8A%80%E6%B2%B3%E8%89%A6%E9%9A%8A%E6%96%B9%E9%87%9D%E6%83%B9%E5%8F%8D%E6%80%9D",
     "timestamp": "2026-04-16T01:45:25.366Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "白宮否認美國要求延長美伊停火期限",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260331/1115469828983885824152736.jpeg/unjFXsKRBhYzDv7ho9BenVSXyO977c6k46_8b-Ov_G8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60340653/%E7%99%BD%E5%AE%AE%E5%90%A6%E8%AA%8D%E7%BE%8E%E5%9C%8B%E8%A6%81%E6%B1%82%E5%BB%B6%E9%95%B7%E7%BE%8E%E4%BC%8A%E5%81%9C%E7%81%AB%E6%9C%9F%E9%99%90",
-    "timestamp": "2026-04-16T00:56:53.929Z",
     "strategy": ".content-card__main"
   }
 ];
