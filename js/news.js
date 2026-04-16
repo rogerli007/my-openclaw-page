@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-16T00:56:53.929Z
+// Last updated: 2026-04-16T01:45:25.366Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "歐聯｜皇馬卡馬雲加被逐　負拜仁或四大皆空　銀河艦隊方針惹反思",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260416/1121380762138972160281397.jpeg/8LpTJNqa925qqIIWZM02cqhD1WLthKkK-FFbg_hRW4M?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60340662/%E6%AD%90%E8%81%AF-%E7%9A%87%E9%A6%AC%E5%8D%A1%E9%A6%AC%E9%9B%B2%E5%8A%A0%E8%A2%AB%E9%80%90-%E8%B2%A0%E6%8B%9C%E4%BB%81%E6%88%96%E5%9B%9B%E5%A4%A7%E7%9A%86%E7%A9%BA-%E9%8A%80%E6%B2%B3%E8%89%A6%E9%9A%8A%E6%96%B9%E9%87%9D%E6%83%B9%E5%8F%8D%E6%80%9D",
+    "timestamp": "2026-04-16T01:45:25.366Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "白宮否認美國要求延長美伊停火期限",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260322/1112363836024819712159743.jpeg/BGp6CnogZA8T380_LwEHIzEY1b-QpTibNhj-WjYY_lo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60340518/%E5%BD%AD%E5%8D%9A-anthropic%E4%BC%B0%E5%80%BC%E9%81%948000%E5%84%84%E7%BE%8E%E5%85%83-%E5%90%B8%E5%BC%95%E6%8A%95%E8%B3%87%E4%BA%BA%E7%AB%B6%E8%B3%BC",
     "timestamp": "2026-04-15T10:39:08.545Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "小學宿舍大火13死被處分　河南省南陽市副市長阿穎被查",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260415/1121143090300588032045286.png/Q6z1i7r3tWfuk4UkewRqHpiKf9cgwAKuFLNkMxSzZDM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60340501/%E5%B0%8F%E5%AD%B8%E5%AE%BF%E8%88%8D%E5%A4%A7%E7%81%AB13%E6%AD%BB%E8%A2%AB%E8%99%95%E5%88%86-%E6%B2%B3%E5%8D%97%E7%9C%81%E5%8D%97%E9%99%BD%E5%B8%82%E5%89%AF%E5%B8%82%E9%95%B7%E9%98%BF%E7%A9%8E%E8%A2%AB%E6%9F%A5",
-    "timestamp": "2026-04-15T09:55:12.596Z",
     "strategy": ".content-card__main"
   }
 ];
