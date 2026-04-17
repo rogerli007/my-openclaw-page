@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-17T13:16:32.228Z
+// Last updated: 2026-04-17T13:59:18.142Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "宏福苑聽證會｜法團投訴工人吸煙遭無視　曾暫緩工程費卻被指拖糧",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260325/1113499335942737920749385.jpeg/cUaKlPeIo6qmdMuuq7weTsUoJbC_r3imcnuw-HJ7sPg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60341370/%E5%AE%8F%E7%A6%8F%E8%8B%91%E8%81%BD%E8%AD%89%E6%9C%83-%E6%B3%95%E5%9C%98%E6%8A%95%E8%A8%B4%E5%B7%A5%E4%BA%BA%E5%90%B8%E7%85%99%E9%81%AD%E7%84%A1%E8%A6%96-%E6%9B%BE%E6%9A%AB%E7%B7%A9%E5%B7%A5%E7%A8%8B%E8%B2%BB%E5%8D%BB%E8%A2%AB%E6%8C%87%E6%8B%96%E7%B3%A7",
+    "timestamp": "2026-04-17T13:59:18.142Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "惠康傳合併百佳｜兩大超市鬥足半世紀　「黃老太」廣告最深入民心",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260417/1121635976184074240307924.jpeg/TTBZgA0i5d1kT_y6r9PYQFoUIMmddn1ha28BoGtvAaA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60341031/%E6%BD%98%E5%AE%8F%E5%BD%AC%E8%88%87%E5%8A%89%E5%BE%B7%E8%8F%AF%E6%98%AF%E6%98%94%E6%97%A5%E5%A5%BD%E5%8F%8B%E6%9B%B4%E7%9B%B4%E6%8E%A5%E4%BD%8F%E5%9C%A8%E4%B8%80%E8%B5%B7-%E8%BD%89%E8%A1%8C%E5%81%9A%E7%B6%93%E7%B4%80%E5%BE%8C%E4%B8%8D%E7%9B%B8%E5%BE%80%E4%BE%86",
     "timestamp": "2026-04-16T19:18:53.974Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "潘宏彬與劉德華是昔日好友更直接住在一起　轉行做經紀後不相往來",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260417/1121635976184074240307924.jpeg/TTBZgA0i5d1kT_y6r9PYQFoUIMmddn1ha28BoGtvAaA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60341031/%E6%BD%98%E5%AE%8F%E5%BD%AC%E8%88%87%E5%8A%89%E5%BE%B7%E8%8F%AF%E6%98%AF%E6%98%94%E6%97%A5%E5%A5%BD%E5%8F%8B%E6%9B%B4%E7%9B%B4%E6%8E%A5%E4%BD%8F%E5%9C%A8%E4%B8%80%E8%B5%B7-%E8%BD%89%E8%A1%8C%E5%81%9A%E7%B6%93%E7%B4%80%E5%BE%8C%E4%B8%8D%E7%9B%B8%E5%BE%80%E4%BE%86",
-    "timestamp": "2026-04-16T18:46:51.171Z",
     "strategy": ".content-card__main"
   }
 ];
