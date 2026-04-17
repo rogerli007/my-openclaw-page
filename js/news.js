@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-17T19:44:14.860Z
+// Last updated: 2026-04-17T20:35:15.671Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "伊朗高官：與美國間仍存重大分歧　包括核議題",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260416/1121259989785120768097638.png/eQBYZuoGNJoNpHB_ozLyWB4OX5Cg085yQpHsT0KR7E8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60341402/%E4%BC%8A%E6%9C%97%E9%AB%98%E5%AE%98-%E8%88%87%E7%BE%8E%E5%9C%8B%E9%96%93%E4%BB%8D%E5%AD%98%E9%87%8D%E5%A4%A7%E5%88%86%E6%AD%A7-%E5%8C%85%E6%8B%AC%E6%A0%B8%E8%AD%B0%E9%A1%8C",
+    "timestamp": "2026-04-17T20:35:15.671Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "伊朗高官：與美國間仍存重大分歧　包括核議題",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260417/1121706454005321728485209.jpeg/bWkav2VjMIw_0Tu7wlalhaXWi45EBgsUO7B0Wx6wdFs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60341042/%E6%88%B2%E6%9B%B2%E4%B8%AD%E5%BF%83%E5%B0%8D%E9%96%8B%E5%8D%81%E5%AD%97%E8%B7%AF%E5%8F%A3-%E7%9A%84%E5%A3%AB%E5%AE%A2%E8%B2%A8%E8%BB%8A%E7%9B%B8%E6%92%9E-%E5%85%A9%E5%8F%B8%E6%A9%9F%E4%BF%B1%E5%8F%97%E5%82%B7",
     "timestamp": "2026-04-16T23:24:22.341Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "「四千金」褟素霞近況曝光　演藝生涯堪稱傳奇息影多年鮮有露面",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260416/1121582640172896256352984.jpeg/FxpUTdK6tL4sVcB5D08qA1cG3CkWAEHvIGoI9yBqCPc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60340828/%E5%9B%9B%E5%8D%83%E9%87%91-%E8%A4%9F%E7%B4%A0%E9%9C%9E%E8%BF%91%E6%B3%81%E6%9B%9D%E5%85%89-%E6%BC%94%E8%97%9D%E7%94%9F%E6%B6%AF%E5%A0%AA%E7%A8%B1%E5%82%B3%E5%A5%87%E6%81%AF%E5%BD%B1%E5%A4%9A%E5%B9%B4%E9%AE%AE%E6%9C%89%E9%9C%B2%E9%9D%A2",
-    "timestamp": "2026-04-16T22:52:12.734Z",
     "strategy": ".content-card__main"
   }
 ];
