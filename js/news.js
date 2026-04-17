@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-17T20:35:15.671Z
+// Last updated: 2026-04-17T21:34:20.187Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "日本自衛隊官員闖入中國使館　檢方對實施鑑定拘留",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260329/1114860979272814592139278.png/AyM9M2hz84DyUX3SXYQJXoNiUK6D4CMKed2Fg3ndhYM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60341404/%E6%97%A5%E6%9C%AC%E8%87%AA%E8%A1%9B%E9%9A%8A%E5%AE%98%E5%93%A1%E9%97%96%E5%85%A5%E4%B8%AD%E5%9C%8B%E4%BD%BF%E9%A4%A8-%E6%AA%A2%E6%96%B9%E5%B0%8D%E5%AF%A6%E6%96%BD%E9%91%91%E5%AE%9A%E6%8B%98%E7%95%99",
+    "timestamp": "2026-04-17T21:34:20.187Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "伊朗高官：與美國間仍存重大分歧　包括核議題",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/183186/org/0106aa95db04160c7e8db556159e4241.JPG/YJdmXwYohjew0ZqQzqMVIh265oE5Kyxw-OkWbfjpFm0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60341050/%E7%B4%90%E7%B4%84%E5%84%B2%E9%8A%80%E7%B8%BD%E8%A3%81%E6%96%99%E6%98%8E%E5%B9%B4%E7%BE%8E%E5%9C%8B%E9%80%9A%E8%84%B9-%E5%B0%87%E5%9B%9E%E8%87%B32-%E7%9B%AE%E6%A8%99%E6%B0%B4%E5%B9%B3",
     "timestamp": "2026-04-17T00:55:42.742Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "戲曲中心對開十字路口　的士客貨車相撞　兩司機俱受傷",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260417/1121706454005321728485209.jpeg/bWkav2VjMIw_0Tu7wlalhaXWi45EBgsUO7B0Wx6wdFs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60341042/%E6%88%B2%E6%9B%B2%E4%B8%AD%E5%BF%83%E5%B0%8D%E9%96%8B%E5%8D%81%E5%AD%97%E8%B7%AF%E5%8F%A3-%E7%9A%84%E5%A3%AB%E5%AE%A2%E8%B2%A8%E8%BB%8A%E7%9B%B8%E6%92%9E-%E5%85%A9%E5%8F%B8%E6%A9%9F%E4%BF%B1%E5%8F%97%E5%82%B7",
-    "timestamp": "2026-04-16T23:24:22.341Z",
     "strategy": ".content-card__main"
   }
 ];
