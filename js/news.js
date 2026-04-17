@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-17T09:07:18.886Z
+// Last updated: 2026-04-17T09:52:39.420Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "兩賊欲爆竊觀塘工廈Pokémon卡專門店　警埋伏拘捕　檢電鑽等工具",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260417/1121862376220528640295367.jpeg/O4geLQjbuZhc02yeXTNJ0ax96iL2fwQROq7WrB-u1qw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60341307/%E5%85%A9%E8%B3%8A%E6%AC%B2%E7%88%86%E7%AB%8A%E8%A7%80%E5%A1%98%E5%B7%A5%E5%BB%88pok%C3%A9mon%E5%8D%A1%E5%B0%88%E9%96%80%E5%BA%97-%E8%AD%A6%E5%9F%8B%E4%BC%8F%E6%8B%98%E6%8D%95-%E6%AA%A2%E9%9B%BB%E9%91%BD%E7%AD%89%E5%B7%A5%E5%85%B7",
+    "timestamp": "2026-04-17T09:52:39.420Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "勞工法例病假怎計算　有薪病假法定上限　醫生紙與到診紙分別",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260417/1121604551137431552863295.jpeg/mCUY5dvfYrp3CYC68X20JgOGoM4Uibx0vzhh2b84Ydk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60341018/%E7%A7%91%E5%AD%B8%E9%A4%A8%E6%8E%A8%E6%96%B0%E5%B1%95%E8%A6%BD%E5%8F%8A35%E5%91%A8%E5%B9%B4%E4%B8%BB%E9%A1%8C%E6%B4%BB%E5%8B%95-%E8%83%BD%E9%87%8F%E7%A9%BF%E6%A2%AD%E6%A9%9F%E5%91%88%E7%8D%BB%E6%9C%9F%E9%96%93%E9%99%90%E5%AE%9A%E5%8D%87%E7%B4%9A%E7%89%88",
     "timestamp": "2026-04-16T16:55:50.583Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "豐澤家電優惠｜1折抽iPhone 17 Pro Max！800件家電低至18折",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260416/1121364278314536960284015.jpeg/tu6M7kV5m0L3uLi6xxq9RuWBrUhA5wqeLE-eJSxPniU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60340562/%E8%B1%90%E6%BE%A4%E5%AE%B6%E9%9B%BB%E5%84%AA%E6%83%A0-1%E6%8A%98%E6%8A%BDiphone-17-pro-max-800%E4%BB%B6%E5%AE%B6%E9%9B%BB%E4%BD%8E%E8%87%B318%E6%8A%98",
-    "timestamp": "2026-04-16T16:19:00.728Z",
     "strategy": ".content-card__main"
   }
 ];
