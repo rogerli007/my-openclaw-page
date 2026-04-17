@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-17T00:55:42.742Z
+// Last updated: 2026-04-17T01:45:16.890Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "特朗普稱伊朗戰爭應該很快就要結束　強調絕不讓德黑蘭擁有核武器",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260417/1121728347223625728916850.jpeg/OXn7cskpMIobTnY8EBC2a7CRndcj8O6vJKqx8SSqsfE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60341054/%E7%89%B9%E6%9C%97%E6%99%AE%E7%A8%B1%E4%BC%8A%E6%9C%97%E6%88%B0%E7%88%AD%E6%87%89%E8%A9%B2%E5%BE%88%E5%BF%AB%E5%B0%B1%E8%A6%81%E7%B5%90%E6%9D%9F-%E5%BC%B7%E8%AA%BF%E7%B5%95%E4%B8%8D%E8%AE%93%E5%BE%B7%E9%BB%91%E8%98%AD%E6%93%81%E6%9C%89%E6%A0%B8%E6%AD%A6%E5%99%A8",
+    "timestamp": "2026-04-17T01:45:16.890Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "紐約儲銀總裁料明年美國通脹　將回至2%目標水平",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260416/1121515648116461568410758.jpeg/r6-WAYZTLBRsd__fkMP3JCwyVFL-aFogOj3D1Do9w9Q?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60340944/%E8%90%BD%E9%A6%AC%E6%B4%B2%E8%95%83%E7%94%B0%E6%9D%91%E6%9D%91%E5%B1%8B%E7%96%91%E6%8B%9C%E7%A5%9E%E5%A4%B1%E7%81%AB%E5%82%B3%E7%88%86%E7%82%B8%E8%81%B2-%E9%9C%B2%E5%8F%B0%E5%8F%8A%E5%A4%96%E7%89%86%E5%9A%B4%E9%87%8D%E7%86%8F%E9%BB%91",
     "timestamp": "2026-04-16T11:14:24.505Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "與歐盟成員國駐港總領事舉行午餐會　李家超：特區重視與歐盟關係",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260416/1121515584480088064691378.jpeg/hrwjYj1uI1l1bql9tNNvYsxfJkaattPO40pVZ-NKVWc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60340952/%E8%88%87%E6%AD%90%E7%9B%9F%E6%88%90%E5%93%A1%E5%9C%8B%E9%A7%90%E6%B8%AF%E7%B8%BD%E9%A0%98%E4%BA%8B%E8%88%89%E8%A1%8C%E5%8D%88%E9%A4%90%E6%9C%83-%E6%9D%8E%E5%AE%B6%E8%B6%85-%E7%89%B9%E5%8D%80%E9%87%8D%E8%A6%96%E8%88%87%E6%AD%90%E7%9B%9F%E9%97%9C%E4%BF%82",
-    "timestamp": "2026-04-16T10:40:37.527Z",
     "strategy": ".content-card__main"
   }
 ];
