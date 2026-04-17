@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-17T07:44:33.161Z
+// Last updated: 2026-04-17T08:21:37.915Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "緬甸新年特赦逾4300囚犯　前總統溫敏獲釋　昂山素姬減刑六分一",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20251216/1077611589718249472047698.jpeg/6z83yhHi6ZdYvvZN0zfdsIlhK_Im284z1dTAYtXUwGI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60341244/%E7%B7%AC%E7%94%B8%E6%96%B0%E5%B9%B4%E7%89%B9%E8%B5%A6%E9%80%BE4300%E5%9B%9A%E7%8A%AF-%E5%89%8D%E7%B8%BD%E7%B5%B1%E6%BA%AB%E6%95%8F%E7%8D%B2%E9%87%8B-%E6%98%82%E5%B1%B1%E7%B4%A0%E5%A7%AC%E6%B8%9B%E5%88%91%E5%85%AD%E5%88%86%E4%B8%80",
+    "timestamp": "2026-04-17T08:21:37.915Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "中國外交部：日方派自衛隊艦艇闖台海耀武揚威　中方提強烈抗議",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260414/1120776415856300032270895.jpeg/gieWV8LCtlUzm9cvrqYTH0pGllWY7feVaseOlmrHjpY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60336310/%E5%8F%A4%E8%A3%9D%E7%9F%AD%E5%8A%87-%E5%86%92%E5%A7%93%E7%90%85%E7%90%8A2-%E5%A6%99%E7%94%A8ai%E7%94%9F%E6%88%90%E5%A4%A7%E5%A0%B4%E9%9D%A2-%E8%AA%85%E6%AE%BA%E5%89%8D%E6%9C%9D%E5%AE%97%E5%AE%A4%E9%81%8E%E7%A8%8B%E6%AE%98%E5%BF%8D",
     "timestamp": "2026-04-16T14:05:59.834Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "六合彩結果｜今期4.16頭獎2500萬即時攪珠｜中獎號碼+派彩獎金",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260106/1085277999818870784691350.jpeg/qlD4zXZuaDWP92HwHoC750bl4vsF6LbIzKpuzcyqbs0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60340904/%E5%85%AD%E5%90%88%E5%BD%A9%E7%B5%90%E6%9E%9C-%E4%BB%8A%E6%9C%9F4-16%E9%A0%AD%E7%8D%8E2500%E8%90%AC%E5%8D%B3%E6%99%82%E6%94%AA%E7%8F%A0-%E4%B8%AD%E7%8D%8E%E8%99%9F%E7%A2%BC-%E6%B4%BE%E5%BD%A9%E7%8D%8E%E9%87%91",
-    "timestamp": "2026-04-16T13:20:37.598Z",
     "strategy": ".content-card__main"
   }
 ];
