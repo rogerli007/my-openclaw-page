@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-17T09:52:39.420Z
+// Last updated: 2026-04-17T10:36:30.648Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "31歲司機駕Amigo車隊的士　機場「兜客」稱豁免行李費被檢控",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260417/1121873163060252672159670.jpeg/nysIA9Cw_jy56EFwlBDFAqWCbhL3MVmSdAg7kXQIO5E?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60341332/31%E6%AD%B2%E5%8F%B8%E6%A9%9F%E9%A7%95amigo%E8%BB%8A%E9%9A%8A%E7%9A%84%E5%A3%AB-%E6%A9%9F%E5%A0%B4-%E5%85%9C%E5%AE%A2-%E7%A8%B1%E8%B1%81%E5%85%8D%E8%A1%8C%E6%9D%8E%E8%B2%BB%E8%A2%AB%E6%AA%A2%E6%8E%A7",
+    "timestamp": "2026-04-17T10:36:30.648Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "兩賊欲爆竊觀塘工廈Pokémon卡專門店　警埋伏拘捕　檢電鑽等工具",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260417/1121609404408401920512067.jpeg/fvPpCWya_t3A6k1R7FN_l3ZsW1W0gzsnt4edXLeHnVw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60341024/%E5%AE%8F%E7%A6%8F%E8%8B%91-%E5%B1%85%E6%B0%91%E7%B4%A2%E6%A8%93%E5%AE%87%E7%B5%90%E6%A7%8B%E5%A0%B1%E5%91%8A-%E6%88%BF%E5%B1%8B%E5%B1%80-%E7%9F%B3%E5%B1%8E%E5%BE%AE%E7%B4%B0%E8%A3%82%E7%97%95%E5%BD%B1%E9%9F%BF%E7%B5%90%E6%A7%8B%E5%AE%89%E5%85%A8",
     "timestamp": "2026-04-16T17:41:37.566Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "科學館推新展覽及35周年主題活動　能量穿梭機呈獻期間限定升級版",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260417/1121604551137431552863295.jpeg/mCUY5dvfYrp3CYC68X20JgOGoM4Uibx0vzhh2b84Ydk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60341018/%E7%A7%91%E5%AD%B8%E9%A4%A8%E6%8E%A8%E6%96%B0%E5%B1%95%E8%A6%BD%E5%8F%8A35%E5%91%A8%E5%B9%B4%E4%B8%BB%E9%A1%8C%E6%B4%BB%E5%8B%95-%E8%83%BD%E9%87%8F%E7%A9%BF%E6%A2%AD%E6%A9%9F%E5%91%88%E7%8D%BB%E6%9C%9F%E9%96%93%E9%99%90%E5%AE%9A%E5%8D%87%E7%B4%9A%E7%89%88",
-    "timestamp": "2026-04-16T16:55:50.583Z",
     "strategy": ".content-card__main"
   }
 ];
