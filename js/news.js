@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-17T10:36:30.648Z
+// Last updated: 2026-04-17T12:43:29.022Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "趕巴士能夠救命？研究揭每天數分鐘高強度運動　各種慢性病率急跌",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260417/1121821557409189888961427.png/mM_Y5hVdCqJzz2Jl875PovE6-SWTFfmpWfuBPVn7gT0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60341092/%E8%B6%95%E5%B7%B4%E5%A3%AB%E8%83%BD%E5%A4%A0%E6%95%91%E5%91%BD-%E7%A0%94%E7%A9%B6%E6%8F%AD%E6%AF%8F%E5%A4%A9%E6%95%B8%E5%88%86%E9%90%98%E9%AB%98%E5%BC%B7%E5%BA%A6%E9%81%8B%E5%8B%95-%E5%90%84%E7%A8%AE%E6%85%A2%E6%80%A7%E7%97%85%E7%8E%87%E6%80%A5%E8%B7%8C",
+    "timestamp": "2026-04-17T12:43:29.022Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "31歲司機駕Amigo車隊的士　機場「兜客」稱豁免行李費被檢控",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260417/1121623951345192960264705.jpeg/vU9pnoY6sSNjYYU03ypnYGpDlTCjShl4TJnEdUyZxHU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60341027/%E7%8E%8B%E6%AF%85%E6%99%A4%E5%A1%94%E4%BA%9E%E5%B0%BC-%E7%A8%B1%E7%95%B6%E5%8B%99%E4%B9%8B%E6%80%A5%E6%98%AF%E6%8E%A8%E5%8B%95%E7%BE%8E%E4%BC%8A%E9%87%8D%E5%9B%9E%E8%AB%87%E5%88%A4",
     "timestamp": "2026-04-16T18:15:03.661Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "宏福苑｜居民索樓宇結構報告　房屋局：石屎微細裂痕影響結構安全",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260417/1121609404408401920512067.jpeg/fvPpCWya_t3A6k1R7FN_l3ZsW1W0gzsnt4edXLeHnVw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60341024/%E5%AE%8F%E7%A6%8F%E8%8B%91-%E5%B1%85%E6%B0%91%E7%B4%A2%E6%A8%93%E5%AE%87%E7%B5%90%E6%A7%8B%E5%A0%B1%E5%91%8A-%E6%88%BF%E5%B1%8B%E5%B1%80-%E7%9F%B3%E5%B1%8E%E5%BE%AE%E7%B4%B0%E8%A3%82%E7%97%95%E5%BD%B1%E9%9F%BF%E7%B5%90%E6%A7%8B%E5%AE%89%E5%85%A8",
-    "timestamp": "2026-04-16T17:41:37.566Z",
     "strategy": ".content-card__main"
   }
 ];
