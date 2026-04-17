@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-17T06:56:16.303Z
+// Last updated: 2026-04-17T07:44:33.161Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "中國外交部：日方派自衛隊艦艇闖台海耀武揚威　中方提強烈抗議",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260127/1092845155297267712756423.jpeg/ix_OkSIMSTn44i_w0yazynFshhHBHrGSiz12lYs9dpU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60341242/%E4%B8%AD%E5%9C%8B%E5%A4%96%E4%BA%A4%E9%83%A8-%E6%97%A5%E6%96%B9%E6%B4%BE%E8%87%AA%E8%A1%9B%E9%9A%8A%E8%89%A6%E8%89%87%E9%97%96%E5%8F%B0%E6%B5%B7%E8%80%80%E6%AD%A6%E6%8F%9A%E5%A8%81-%E4%B8%AD%E6%96%B9%E6%8F%90%E5%BC%B7%E7%83%88%E6%8A%97%E8%AD%B0",
+    "timestamp": "2026-04-17T07:44:33.161Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "幫手搵人︱大埔15歲羅詠欣離開大美督院舍後失蹤　職員報警尋人",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260106/1085277999818870784691350.jpeg/qlD4zXZuaDWP92HwHoC750bl4vsF6LbIzKpuzcyqbs0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60340904/%E5%85%AD%E5%90%88%E5%BD%A9%E7%B5%90%E6%9E%9C-%E4%BB%8A%E6%9C%9F4-16%E9%A0%AD%E7%8D%8E2500%E8%90%AC%E5%8D%B3%E6%99%82%E6%94%AA%E7%8F%A0-%E4%B8%AD%E7%8D%8E%E8%99%9F%E7%A2%BC-%E6%B4%BE%E5%BD%A9%E7%8D%8E%E9%87%91",
     "timestamp": "2026-04-16T13:20:37.598Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "匈牙利選舉　特朗普淡化歐爾班敗選影響　稱毛焦爾「是個好人」",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20251108/1063755665748529152368049.jpeg/ykygO6KaRXni_ZE2KKowhSeiFdKMNleSDlFqfQ5Ran0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60340911/%E5%8C%88%E7%89%99%E5%88%A9%E9%81%B8%E8%88%89-%E7%89%B9%E6%9C%97%E6%99%AE%E6%B7%A1%E5%8C%96%E6%AD%90%E7%88%BE%E7%8F%AD%E6%95%97%E9%81%B8%E5%BD%B1%E9%9F%BF-%E7%A8%B1%E6%AF%9B%E7%84%A6%E7%88%BE-%E6%98%AF%E5%80%8B%E5%A5%BD%E4%BA%BA",
-    "timestamp": "2026-04-16T12:45:47.681Z",
     "strategy": ".content-card__main"
   }
 ];
