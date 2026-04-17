@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-17T21:57:22.874Z
+// Last updated: 2026-04-17T22:22:55.506Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "特朗普：美國伊朗或在未來一兩天內達成協議",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260417/1121712607938482176827140.jpeg/1q_4VtsvKK7iRHcI0NDiOJOpTQbeogZr5dPg4uXT4OI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60341407/%E7%89%B9%E6%9C%97%E6%99%AE-%E7%BE%8E%E5%9C%8B%E4%BC%8A%E6%9C%97%E6%88%96%E5%9C%A8%E6%9C%AA%E4%BE%86%E4%B8%80%E5%85%A9%E5%A4%A9%E5%85%A7%E9%81%94%E6%88%90%E5%8D%94%E8%AD%B0",
+    "timestamp": "2026-04-17T22:22:55.506Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "日本自衛隊官員闖入中國使館　檢方對實施鑑定拘留",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260417/1121777185099616256658329.jpeg/8GbKMy7iUJiYfHaJhhtS90BjnpGvRBBlCJfViQiX1Yk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60341123/%E4%B8%8A%E7%92%B0%E5%95%86%E5%BB%88%E5%A4%96%E7%94%B7%E5%AD%90%E9%81%AD%E4%BA%BA%E7%94%A8%E5%88%80%E5%88%BA%E5%82%B7%E5%A4%A7%E8%85%BF-%E8%AD%A6%E6%88%B4%E9%A0%AD%E7%9B%94%E6%8C%81%E7%9B%BE%E7%89%8C%E8%BF%BD%E7%B7%9D%E6%B6%89%E6%A1%88%E7%94%B7",
     "timestamp": "2026-04-17T03:58:21.051Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普稱伊朗戰爭應該很快就要結束　強調絕不讓德黑蘭擁有核武器",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260417/1121728347223625728916850.jpeg/OXn7cskpMIobTnY8EBC2a7CRndcj8O6vJKqx8SSqsfE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60341054/%E7%89%B9%E6%9C%97%E6%99%AE%E7%A8%B1%E4%BC%8A%E6%9C%97%E6%88%B0%E7%88%AD%E6%87%89%E8%A9%B2%E5%BE%88%E5%BF%AB%E5%B0%B1%E8%A6%81%E7%B5%90%E6%9D%9F-%E5%BC%B7%E8%AA%BF%E7%B5%95%E4%B8%8D%E8%AE%93%E5%BE%B7%E9%BB%91%E8%98%AD%E6%93%81%E6%9C%89%E6%A0%B8%E6%AD%A6%E5%99%A8",
-    "timestamp": "2026-04-17T01:45:16.890Z",
     "strategy": ".content-card__main"
   }
 ];
