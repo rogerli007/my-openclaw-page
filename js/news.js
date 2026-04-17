@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-17T08:21:37.915Z
+// Last updated: 2026-04-17T09:07:18.886Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "勞工法例病假怎計算　有薪病假法定上限　醫生紙與到診紙分別",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260330/1115335960364584960094176.png/RVLR5sAQKQeqNDw4MvmCAieuexMb8Dimo_hEKKP4RCg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%81%B7%E5%A0%B4/60335650/%E5%8B%9E%E5%B7%A5%E6%B3%95%E4%BE%8B%E7%97%85%E5%81%87%E6%80%8E%E8%A8%88%E7%AE%97-%E6%9C%89%E8%96%AA%E7%97%85%E5%81%87%E6%B3%95%E5%AE%9A%E4%B8%8A%E9%99%90-%E9%86%AB%E7%94%9F%E7%B4%99%E8%88%87%E5%88%B0%E8%A8%BA%E7%B4%99%E5%88%86%E5%88%A5",
+    "timestamp": "2026-04-17T09:07:18.886Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "緬甸新年特赦逾4300囚犯　前總統溫敏獲釋　昂山素姬減刑六分一",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260416/1121364278314536960284015.jpeg/tu6M7kV5m0L3uLi6xxq9RuWBrUhA5wqeLE-eJSxPniU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60340562/%E8%B1%90%E6%BE%A4%E5%AE%B6%E9%9B%BB%E5%84%AA%E6%83%A0-1%E6%8A%98%E6%8A%BDiphone-17-pro-max-800%E4%BB%B6%E5%AE%B6%E9%9B%BB%E4%BD%8E%E8%87%B318%E6%8A%98",
     "timestamp": "2026-04-16T16:19:00.728Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "古裝短劇《冒姓琅琊2》妙用AI生成大場面　誅殺前朝宗室過程殘忍",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260414/1120776415856300032270895.jpeg/gieWV8LCtlUzm9cvrqYTH0pGllWY7feVaseOlmrHjpY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60336310/%E5%8F%A4%E8%A3%9D%E7%9F%AD%E5%8A%87-%E5%86%92%E5%A7%93%E7%90%85%E7%90%8A2-%E5%A6%99%E7%94%A8ai%E7%94%9F%E6%88%90%E5%A4%A7%E5%A0%B4%E9%9D%A2-%E8%AA%85%E6%AE%BA%E5%89%8D%E6%9C%9D%E5%AE%97%E5%AE%A4%E9%81%8E%E7%A8%8B%E6%AE%98%E5%BF%8D",
-    "timestamp": "2026-04-16T14:05:59.834Z",
     "strategy": ".content-card__main"
   }
 ];
