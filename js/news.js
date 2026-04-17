@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-17T18:08:56.339Z
+// Last updated: 2026-04-17T19:44:14.860Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "伊朗高官：與美國間仍存重大分歧　包括核議題",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260416/1121259989785120768097638.png/eQBYZuoGNJoNpHB_ozLyWB4OX5Cg085yQpHsT0KR7E8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60341402/%E4%BC%8A%E6%9C%97%E9%AB%98%E5%AE%98-%E8%88%87%E7%BE%8E%E5%9C%8B%E9%96%93%E4%BB%8D%E5%AD%98%E9%87%8D%E5%A4%A7%E5%88%86%E6%AD%A7-%E5%8C%85%E6%8B%AC%E6%A0%B8%E8%AD%B0%E9%A1%8C",
+    "timestamp": "2026-04-17T19:44:14.860Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "特朗普稱伊朗同意今後將不再封鎖霍爾木茲海峽　傳媒：設三項條件",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260416/1121582640172896256352984.jpeg/FxpUTdK6tL4sVcB5D08qA1cG3CkWAEHvIGoI9yBqCPc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60340828/%E5%9B%9B%E5%8D%83%E9%87%91-%E8%A4%9F%E7%B4%A0%E9%9C%9E%E8%BF%91%E6%B3%81%E6%9B%9D%E5%85%89-%E6%BC%94%E8%97%9D%E7%94%9F%E6%B6%AF%E5%A0%AA%E7%A8%B1%E5%82%B3%E5%A5%87%E6%81%AF%E5%BD%B1%E5%A4%9A%E5%B9%B4%E9%AE%AE%E6%9C%89%E9%9C%B2%E9%9D%A2",
     "timestamp": "2026-04-16T22:52:12.734Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "神舟二十一號航天員乘組完成第三次出艙　在軌駐留將延長約1個月",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260417/1121681732517498880974350.jpeg/ygCLbfAQ3b0GGYFjuNmXHmJYhdDbQUl-CL7v9wi-7_c?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60341036/%E7%A5%9E%E8%88%9F%E4%BA%8C%E5%8D%81%E4%B8%80%E8%99%9F%E8%88%AA%E5%A4%A9%E5%93%A1%E4%B9%98%E7%B5%84%E5%AE%8C%E6%88%90%E7%AC%AC%E4%B8%89%E6%AC%A1%E5%87%BA%E8%89%99-%E5%9C%A8%E8%BB%8C%E9%A7%90%E7%95%99%E5%B0%87%E5%BB%B6%E9%95%B7%E7%B4%841%E5%80%8B%E6%9C%88",
-    "timestamp": "2026-04-16T21:52:31.124Z",
     "strategy": ".content-card__main"
   }
 ];
