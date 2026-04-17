@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-17T21:34:20.187Z
+// Last updated: 2026-04-17T21:57:22.874Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "日本自衛隊官員闖入中國使館　檢方對實施鑑定拘留",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260329/1114860979272814592139278.png/AyM9M2hz84DyUX3SXYQJXoNiUK6D4CMKed2Fg3ndhYM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60341404/%E6%97%A5%E6%9C%AC%E8%87%AA%E8%A1%9B%E9%9A%8A%E5%AE%98%E5%93%A1%E9%97%96%E5%85%A5%E4%B8%AD%E5%9C%8B%E4%BD%BF%E9%A4%A8-%E6%AA%A2%E6%96%B9%E5%B0%8D%E5%AF%A6%E6%96%BD%E9%91%91%E5%AE%9A%E6%8B%98%E7%95%99",
+    "timestamp": "2026-04-17T21:57:22.874Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "日本自衛隊官員闖入中國使館　檢方對實施鑑定拘留",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260417/1121728347223625728916850.jpeg/OXn7cskpMIobTnY8EBC2a7CRndcj8O6vJKqx8SSqsfE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60341054/%E7%89%B9%E6%9C%97%E6%99%AE%E7%A8%B1%E4%BC%8A%E6%9C%97%E6%88%B0%E7%88%AD%E6%87%89%E8%A9%B2%E5%BE%88%E5%BF%AB%E5%B0%B1%E8%A6%81%E7%B5%90%E6%9D%9F-%E5%BC%B7%E8%AA%BF%E7%B5%95%E4%B8%8D%E8%AE%93%E5%BE%B7%E9%BB%91%E8%98%AD%E6%93%81%E6%9C%89%E6%A0%B8%E6%AD%A6%E5%99%A8",
     "timestamp": "2026-04-17T01:45:16.890Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "紐約儲銀總裁料明年美國通脹　將回至2%目標水平",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/183186/org/0106aa95db04160c7e8db556159e4241.JPG/YJdmXwYohjew0ZqQzqMVIh265oE5Kyxw-OkWbfjpFm0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60341050/%E7%B4%90%E7%B4%84%E5%84%B2%E9%8A%80%E7%B8%BD%E8%A3%81%E6%96%99%E6%98%8E%E5%B9%B4%E7%BE%8E%E5%9C%8B%E9%80%9A%E8%84%B9-%E5%B0%87%E5%9B%9E%E8%87%B32-%E7%9B%AE%E6%A8%99%E6%B0%B4%E5%B9%B3",
-    "timestamp": "2026-04-17T00:55:42.742Z",
     "strategy": ".content-card__main"
   }
 ];
