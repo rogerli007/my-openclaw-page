@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-17T03:58:21.051Z
+// Last updated: 2026-04-17T05:10:28.016Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "港男垃圾站蹂躪Chiikawa兔哥公仔「當波踢」　粉絲怒斥：虐待動物",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260415/1121126680828579840069245.png/L06YSv2cvRjWPoDj84I-CHbUu5MzEtm8cIc6snCHOrI",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60340267/%E6%B8%AF%E7%94%B7%E5%9E%83%E5%9C%BE%E7%AB%99%E8%B9%82%E8%BA%AAchiikawa%E5%85%94%E5%93%A5%E5%85%AC%E4%BB%94-%E7%95%B6%E6%B3%A2%E8%B8%A2-%E7%B2%89%E7%B5%B2%E6%80%92%E6%96%A5-%E8%99%90%E5%BE%85%E5%8B%95%E7%89%A9",
+    "timestamp": "2026-04-17T05:10:28.016Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "上環商廈外男子遭人用刀刺傷大腿　警戴頭盔持盾牌追緝涉案男",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250923/1047126717698674688859126.jpeg/pMnhn9HL_EE5YqbkLu-cOFLCLN40tAwm2MBShP3AUoQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60340985/%E5%9F%8E%E5%A4%A7%E5%89%8D%E5%89%AF%E6%95%99%E6%8E%88%E6%9D%9C%E6%B8%A1%E5%B0%B1%E8%B3%82%E8%B3%84%E7%B6%93%E7%B4%80%E6%A1%88%E4%B8%8A%E8%A8%B4-%E5%9F%8E%E5%A4%A7%E6%8C%87%E6%9D%9C%E5%B7%B2%E9%9D%9E%E5%85%B6%E6%A0%A1%E7%9A%84%E6%95%99%E8%81%B7%E5%93%A1",
     "timestamp": "2026-04-16T12:12:07.040Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "郭家麒醫生牌永久釘牌　FB發文稱意料中事　仍以幫助他人為己任",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20200929/387686059355541505.jpeg/d6NSV3V2YRprlefZJBInwctcxDB4MMZ75soBXObKAVw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60340973/%E9%83%AD%E5%AE%B6%E9%BA%92%E9%86%AB%E7%94%9F%E7%89%8C%E6%B0%B8%E4%B9%85%E9%87%98%E7%89%8C-fb%E7%99%BC%E6%96%87%E7%A8%B1%E6%84%8F%E6%96%99%E4%B8%AD%E4%BA%8B-%E4%BB%8D%E4%BB%A5%E5%B9%AB%E5%8A%A9%E4%BB%96%E4%BA%BA%E7%82%BA%E5%B7%B1%E4%BB%BB",
-    "timestamp": "2026-04-16T11:44:42.947Z",
     "strategy": ".content-card__main"
   }
 ];
