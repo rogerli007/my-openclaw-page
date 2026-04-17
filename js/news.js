@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-17T05:10:28.016Z
+// Last updated: 2026-04-17T06:56:16.303Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "幫手搵人︱大埔15歲羅詠欣離開大美督院舍後失蹤　職員報警尋人",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260417/1121821974679523328105678.jpeg/YGXsGA095J0bpOkUodsTstyJTRq87u5BLueiAC7nogA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60341204/%E5%B9%AB%E6%89%8B%E6%90%B5%E4%BA%BA-%E5%A4%A7%E5%9F%9415%E6%AD%B2%E7%BE%85%E8%A9%A0%E6%AC%A3%E9%9B%A2%E9%96%8B%E5%A4%A7%E7%BE%8E%E7%9D%A3%E9%99%A2%E8%88%8D%E5%BE%8C%E5%A4%B1%E8%B9%A4-%E8%81%B7%E5%93%A1%E5%A0%B1%E8%AD%A6%E5%B0%8B%E4%BA%BA",
+    "timestamp": "2026-04-17T06:56:16.303Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "港男垃圾站蹂躪Chiikawa兔哥公仔「當波踢」　粉絲怒斥：虐待動物",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20251108/1063755665748529152368049.jpeg/ykygO6KaRXni_ZE2KKowhSeiFdKMNleSDlFqfQ5Ran0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60340911/%E5%8C%88%E7%89%99%E5%88%A9%E9%81%B8%E8%88%89-%E7%89%B9%E6%9C%97%E6%99%AE%E6%B7%A1%E5%8C%96%E6%AD%90%E7%88%BE%E7%8F%AD%E6%95%97%E9%81%B8%E5%BD%B1%E9%9F%BF-%E7%A8%B1%E6%AF%9B%E7%84%A6%E7%88%BE-%E6%98%AF%E5%80%8B%E5%A5%BD%E4%BA%BA",
     "timestamp": "2026-04-16T12:45:47.681Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "城大前副教授杜渡就賂賄經紀案上訴　城大指杜已非其校的教職員",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250923/1047126717698674688859126.jpeg/pMnhn9HL_EE5YqbkLu-cOFLCLN40tAwm2MBShP3AUoQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60340985/%E5%9F%8E%E5%A4%A7%E5%89%8D%E5%89%AF%E6%95%99%E6%8E%88%E6%9D%9C%E6%B8%A1%E5%B0%B1%E8%B3%82%E8%B3%84%E7%B6%93%E7%B4%80%E6%A1%88%E4%B8%8A%E8%A8%B4-%E5%9F%8E%E5%A4%A7%E6%8C%87%E6%9D%9C%E5%B7%B2%E9%9D%9E%E5%85%B6%E6%A0%A1%E7%9A%84%E6%95%99%E8%81%B7%E5%93%A1",
-    "timestamp": "2026-04-16T12:12:07.040Z",
     "strategy": ".content-card__main"
   }
 ];
