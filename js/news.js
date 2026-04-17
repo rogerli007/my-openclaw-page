@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-17T13:59:18.142Z
+// Last updated: 2026-04-17T15:43:46.476Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "西方軍情：伊朗戰前規劃最大限度保留軍事打擊能力",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260407/1118005578560573440601487.jpeg/fwRQlDhbT2RDWSAMI5scIQvAgNVDm_dlCFvoOwhb6Ds?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60341384/%E8%A5%BF%E6%96%B9%E8%BB%8D%E6%83%85-%E4%BC%8A%E6%9C%97%E6%88%B0%E5%89%8D%E8%A6%8F%E5%8A%83%E6%9C%80%E5%A4%A7%E9%99%90%E5%BA%A6%E4%BF%9D%E7%95%99%E8%BB%8D%E4%BA%8B%E6%89%93%E6%93%8A%E8%83%BD%E5%8A%9B",
+    "timestamp": "2026-04-17T15:43:46.476Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "宏福苑聽證會｜法團投訴工人吸煙遭無視　曾暫緩工程費卻被指拖糧",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260401/1115817371269861376413806.jpeg/R12uoKOhAxQvM1NOrLMqER5qDTHvUuj9cU2skHFNrJA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60341033/%E7%BE%8E%E5%9C%8B%E5%8B%99%E9%99%A2-%E4%BB%A5%E9%BB%8E%E5%81%9C%E7%81%AB10%E5%A4%A9%E6%9C%9F%E9%99%90%E5%8F%AF%E5%BB%B6%E9%95%B7-%E9%BB%8E%E5%B7%B4%E5%AB%A9%E9%A0%88%E9%98%BB%E6%AD%A2%E7%9C%9F%E4%B8%BB%E9%BB%A8%E7%99%BC%E5%8B%95%E6%94%BB%E6%93%8A",
     "timestamp": "2026-04-16T20:25:57.805Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "潘宏彬與劉德華是昔日好友更直接住在一起　轉行做經紀後不相往來",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260417/1121635976184074240307924.jpeg/TTBZgA0i5d1kT_y6r9PYQFoUIMmddn1ha28BoGtvAaA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60341031/%E6%BD%98%E5%AE%8F%E5%BD%AC%E8%88%87%E5%8A%89%E5%BE%B7%E8%8F%AF%E6%98%AF%E6%98%94%E6%97%A5%E5%A5%BD%E5%8F%8B%E6%9B%B4%E7%9B%B4%E6%8E%A5%E4%BD%8F%E5%9C%A8%E4%B8%80%E8%B5%B7-%E8%BD%89%E8%A1%8C%E5%81%9A%E7%B6%93%E7%B4%80%E5%BE%8C%E4%B8%8D%E7%9B%B8%E5%BE%80%E4%BE%86",
-    "timestamp": "2026-04-16T19:18:53.974Z",
     "strategy": ".content-card__main"
   }
 ];
