@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-17T22:22:55.506Z
+// Last updated: 2026-04-17T22:52:25.680Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "特朗普：美國伊朗或在未來一兩天內達成協議",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260417/1121712607938482176827140.jpeg/1q_4VtsvKK7iRHcI0NDiOJOpTQbeogZr5dPg4uXT4OI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60341407/%E7%89%B9%E6%9C%97%E6%99%AE-%E7%BE%8E%E5%9C%8B%E4%BC%8A%E6%9C%97%E6%88%96%E5%9C%A8%E6%9C%AA%E4%BE%86%E4%B8%80%E5%85%A9%E5%A4%A9%E5%85%A7%E9%81%94%E6%88%90%E5%8D%94%E8%AD%B0",
+    "timestamp": "2026-04-17T22:52:25.680Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "特朗普：美國伊朗或在未來一兩天內達成協議",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260415/1121126680828579840069245.png/L06YSv2cvRjWPoDj84I-CHbUu5MzEtm8cIc6snCHOrI",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60340267/%E6%B8%AF%E7%94%B7%E5%9E%83%E5%9C%BE%E7%AB%99%E8%B9%82%E8%BA%AAchiikawa%E5%85%94%E5%93%A5%E5%85%AC%E4%BB%94-%E7%95%B6%E6%B3%A2%E8%B8%A2-%E7%B2%89%E7%B5%B2%E6%80%92%E6%96%A5-%E8%99%90%E5%BE%85%E5%8B%95%E7%89%A9",
     "timestamp": "2026-04-17T05:10:28.016Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "上環商廈外男子遭人用刀刺傷大腿　警戴頭盔持盾牌追緝涉案男",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260417/1121777185099616256658329.jpeg/8GbKMy7iUJiYfHaJhhtS90BjnpGvRBBlCJfViQiX1Yk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60341123/%E4%B8%8A%E7%92%B0%E5%95%86%E5%BB%88%E5%A4%96%E7%94%B7%E5%AD%90%E9%81%AD%E4%BA%BA%E7%94%A8%E5%88%80%E5%88%BA%E5%82%B7%E5%A4%A7%E8%85%BF-%E8%AD%A6%E6%88%B4%E9%A0%AD%E7%9B%94%E6%8C%81%E7%9B%BE%E7%89%8C%E8%BF%BD%E7%B7%9D%E6%B6%89%E6%A1%88%E7%94%B7",
-    "timestamp": "2026-04-17T03:58:21.051Z",
     "strategy": ".content-card__main"
   }
 ];
