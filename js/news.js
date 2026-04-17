@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-17T12:43:29.022Z
+// Last updated: 2026-04-17T13:16:32.228Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "惠康傳合併百佳｜兩大超市鬥足半世紀　「黃老太」廣告最深入民心",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260417/1121918972661338112973582.jpeg/GfhKkS-mFKyXRWxoT7b9fpLfEx8hXEAEwuJY0MLiWNA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60341310/%E6%83%A0%E5%BA%B7%E5%82%B3%E5%90%88%E4%BD%B5%E7%99%BE%E4%BD%B3-%E5%85%A9%E5%A4%A7%E8%B6%85%E5%B8%82%E9%AC%A5%E8%B6%B3%E5%8D%8A%E4%B8%96%E7%B4%80-%E9%BB%83%E8%80%81%E5%A4%AA-%E5%BB%A3%E5%91%8A%E6%9C%80%E6%B7%B1%E5%85%A5%E6%B0%91%E5%BF%83",
+    "timestamp": "2026-04-17T13:16:32.228Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "趕巴士能夠救命？研究揭每天數分鐘高強度運動　各種慢性病率急跌",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260417/1121635976184074240307924.jpeg/TTBZgA0i5d1kT_y6r9PYQFoUIMmddn1ha28BoGtvAaA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60341031/%E6%BD%98%E5%AE%8F%E5%BD%AC%E8%88%87%E5%8A%89%E5%BE%B7%E8%8F%AF%E6%98%AF%E6%98%94%E6%97%A5%E5%A5%BD%E5%8F%8B%E6%9B%B4%E7%9B%B4%E6%8E%A5%E4%BD%8F%E5%9C%A8%E4%B8%80%E8%B5%B7-%E8%BD%89%E8%A1%8C%E5%81%9A%E7%B6%93%E7%B4%80%E5%BE%8C%E4%B8%8D%E7%9B%B8%E5%BE%80%E4%BE%86",
     "timestamp": "2026-04-16T18:46:51.171Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "王毅晤塔亞尼　稱當務之急是推動美伊重回談判",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260417/1121623951345192960264705.jpeg/vU9pnoY6sSNjYYU03ypnYGpDlTCjShl4TJnEdUyZxHU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60341027/%E7%8E%8B%E6%AF%85%E6%99%A4%E5%A1%94%E4%BA%9E%E5%B0%BC-%E7%A8%B1%E7%95%B6%E5%8B%99%E4%B9%8B%E6%80%A5%E6%98%AF%E6%8E%A8%E5%8B%95%E7%BE%8E%E4%BC%8A%E9%87%8D%E5%9B%9E%E8%AB%87%E5%88%A4",
-    "timestamp": "2026-04-16T18:15:03.661Z",
     "strategy": ".content-card__main"
   }
 ];
