@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-17T01:45:16.890Z
+// Last updated: 2026-04-17T03:58:21.051Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "上環商廈外男子遭人用刀刺傷大腿　警戴頭盔持盾牌追緝涉案男",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260417/1121777185099616256658329.jpeg/8GbKMy7iUJiYfHaJhhtS90BjnpGvRBBlCJfViQiX1Yk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60341123/%E4%B8%8A%E7%92%B0%E5%95%86%E5%BB%88%E5%A4%96%E7%94%B7%E5%AD%90%E9%81%AD%E4%BA%BA%E7%94%A8%E5%88%80%E5%88%BA%E5%82%B7%E5%A4%A7%E8%85%BF-%E8%AD%A6%E6%88%B4%E9%A0%AD%E7%9B%94%E6%8C%81%E7%9B%BE%E7%89%8C%E8%BF%BD%E7%B7%9D%E6%B6%89%E6%A1%88%E7%94%B7",
+    "timestamp": "2026-04-17T03:58:21.051Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "特朗普稱伊朗戰爭應該很快就要結束　強調絕不讓德黑蘭擁有核武器",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20200929/387686059355541505.jpeg/d6NSV3V2YRprlefZJBInwctcxDB4MMZ75soBXObKAVw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60340973/%E9%83%AD%E5%AE%B6%E9%BA%92%E9%86%AB%E7%94%9F%E7%89%8C%E6%B0%B8%E4%B9%85%E9%87%98%E7%89%8C-fb%E7%99%BC%E6%96%87%E7%A8%B1%E6%84%8F%E6%96%99%E4%B8%AD%E4%BA%8B-%E4%BB%8D%E4%BB%A5%E5%B9%AB%E5%8A%A9%E4%BB%96%E4%BA%BA%E7%82%BA%E5%B7%B1%E4%BB%BB",
     "timestamp": "2026-04-16T11:44:42.947Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "落馬洲蕃田村村屋疑拜神失火傳爆炸聲　露台及外牆嚴重熏黑",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260416/1121515648116461568410758.jpeg/r6-WAYZTLBRsd__fkMP3JCwyVFL-aFogOj3D1Do9w9Q?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60340944/%E8%90%BD%E9%A6%AC%E6%B4%B2%E8%95%83%E7%94%B0%E6%9D%91%E6%9D%91%E5%B1%8B%E7%96%91%E6%8B%9C%E7%A5%9E%E5%A4%B1%E7%81%AB%E5%82%B3%E7%88%86%E7%82%B8%E8%81%B2-%E9%9C%B2%E5%8F%B0%E5%8F%8A%E5%A4%96%E7%89%86%E5%9A%B4%E9%87%8D%E7%86%8F%E9%BB%91",
-    "timestamp": "2026-04-16T11:14:24.505Z",
     "strategy": ".content-card__main"
   }
 ];
