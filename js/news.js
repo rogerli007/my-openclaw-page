@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-17T15:43:46.476Z
+// Last updated: 2026-04-17T16:13:25.785Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "HONOR 600 Pro深度評測｜AI創作升級！2億像素專業影像大玩AI影片",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260417/1121783718432739328140927.jpeg/CBTp_xleuG4gd98CrTSdr9POQt46mDXohsZlbYbGZW0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60341015/honor-600-pro%E6%B7%B1%E5%BA%A6%E8%A9%95%E6%B8%AC-ai%E5%89%B5%E4%BD%9C%E5%8D%87%E7%B4%9A-2%E5%84%84%E5%83%8F%E7%B4%A0%E5%B0%88%E6%A5%AD%E5%BD%B1%E5%83%8F%E5%A4%A7%E7%8E%A9ai%E5%BD%B1%E7%89%87",
+    "timestamp": "2026-04-17T16:13:25.785Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "西方軍情：伊朗戰前規劃最大限度保留軍事打擊能力",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260408/1118498209946144768082354.jpeg/EJD38zK1ZK-XBOmkRYTjS-9dUb8V0uUVbpZE4W6WROE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60341032/%E7%89%B9%E6%9C%97%E6%99%AE-%E6%88%96%E5%89%8D%E5%BE%80%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6-%E6%8E%A8%E5%8B%95%E8%88%87%E4%BC%8A%E6%9C%97%E9%81%94%E5%8D%94%E8%AD%B0",
     "timestamp": "2026-04-16T20:53:52.581Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美國務院：以黎停火10天期限可延長　黎巴嫩須阻止真主黨發動攻擊",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260401/1115817371269861376413806.jpeg/R12uoKOhAxQvM1NOrLMqER5qDTHvUuj9cU2skHFNrJA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60341033/%E7%BE%8E%E5%9C%8B%E5%8B%99%E9%99%A2-%E4%BB%A5%E9%BB%8E%E5%81%9C%E7%81%AB10%E5%A4%A9%E6%9C%9F%E9%99%90%E5%8F%AF%E5%BB%B6%E9%95%B7-%E9%BB%8E%E5%B7%B4%E5%AB%A9%E9%A0%88%E9%98%BB%E6%AD%A2%E7%9C%9F%E4%B8%BB%E9%BB%A8%E7%99%BC%E5%8B%95%E6%94%BB%E6%93%8A",
-    "timestamp": "2026-04-16T20:25:57.805Z",
     "strategy": ".content-card__main"
   }
 ];
