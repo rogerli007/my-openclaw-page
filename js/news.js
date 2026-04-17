@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-17T16:13:25.785Z
+// Last updated: 2026-04-17T17:41:21.852Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "特朗普稱伊朗同意今後將不再封鎖霍爾木茲海峽　傳媒：設三項條件",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260417/1121712607938482176827140.jpeg/1q_4VtsvKK7iRHcI0NDiOJOpTQbeogZr5dPg4uXT4OI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60341400/%E7%89%B9%E6%9C%97%E6%99%AE%E7%A8%B1%E4%BC%8A%E6%9C%97%E5%90%8C%E6%84%8F%E4%BB%8A%E5%BE%8C%E5%B0%87%E4%B8%8D%E5%86%8D%E5%B0%81%E9%8E%96%E9%9C%8D%E7%88%BE%E6%9C%A8%E8%8C%B2%E6%B5%B7%E5%B3%BD-%E5%82%B3%E5%AA%92-%E8%A8%AD%E4%B8%89%E9%A0%85%E6%A2%9D%E4%BB%B6",
+    "timestamp": "2026-04-17T17:41:21.852Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "HONOR 600 Pro深度評測｜AI創作升級！2億像素專業影像大玩AI影片",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260417/1121669765862133760509264.jpeg/Er1RHUCggjc8sFHm_lPKH41Qijt5111_I3NhFSNzYRU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60341035/%E6%AD%90%E9%9C%B88%E5%BC%B7-%E9%98%BF%E5%A3%AB%E6%9D%B1%E7%B6%AD%E6%8B%89%E5%85%A9%E5%9B%9E%E5%90%887-1%E6%B7%98%E6%B1%B0%E5%8D%9A%E6%B4%9B%E5%B0%BC%E4%BA%9E-%E6%A3%AE%E6%9E%97%E5%90%88%E8%A8%882-1%E6%B3%A2%E5%9C%96",
     "timestamp": "2026-04-16T21:25:56.799Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普：或前往巴基斯坦　推動與伊朗達協議",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260408/1118498209946144768082354.jpeg/EJD38zK1ZK-XBOmkRYTjS-9dUb8V0uUVbpZE4W6WROE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60341032/%E7%89%B9%E6%9C%97%E6%99%AE-%E6%88%96%E5%89%8D%E5%BE%80%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6-%E6%8E%A8%E5%8B%95%E8%88%87%E4%BC%8A%E6%9C%97%E9%81%94%E5%8D%94%E8%AD%B0",
-    "timestamp": "2026-04-16T20:53:52.581Z",
     "strategy": ".content-card__main"
   }
 ];
