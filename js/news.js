@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-18T10:32:58.728Z
+// Last updated: 2026-04-18T10:56:36.040Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "有片｜彩雲邨時雨樓地下垃圾站起火　目擊者指保安一度用水喉撲救",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260418/1122236482229112832908526.jpeg/IXgQCLuK5BddeSfdecyXKxuy2JOYrgwPunE4RbpxOEU",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60341512/%E6%9C%89%E7%89%87-%E5%BD%A9%E9%9B%B2%E9%82%A8%E6%99%82%E9%9B%A8%E6%A8%93%E5%9C%B0%E4%B8%8B%E5%9E%83%E5%9C%BE%E7%AB%99%E8%B5%B7%E7%81%AB-%E7%9B%AE%E6%93%8A%E8%80%85%E6%8C%87%E4%BF%9D%E5%AE%89%E4%B8%80%E5%BA%A6%E7%94%A8%E6%B0%B4%E5%96%89%E6%92%B2%E6%95%91",
+    "timestamp": "2026-04-18T10:56:36.040Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "江旻憓進駐土瓜灣開地辦　冀結合啟德九龍城　創具吸引力旅遊路線",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260416/1121259989785120768097638.png/eQBYZuoGNJoNpHB_ozLyWB4OX5Cg085yQpHsT0KR7E8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60341402/%E4%BC%8A%E6%9C%97%E9%AB%98%E5%AE%98-%E8%88%87%E7%BE%8E%E5%9C%8B%E9%96%93%E4%BB%8D%E5%AD%98%E9%87%8D%E5%A4%A7%E5%88%86%E6%AD%A7-%E5%8C%85%E6%8B%AC%E6%A0%B8%E8%AD%B0%E9%A1%8C",
     "timestamp": "2026-04-17T19:44:14.860Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普稱伊朗同意今後將不再封鎖霍爾木茲海峽　傳媒：設三項條件",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260417/1121712607938482176827140.jpeg/1q_4VtsvKK7iRHcI0NDiOJOpTQbeogZr5dPg4uXT4OI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60341400/%E7%89%B9%E6%9C%97%E6%99%AE%E7%A8%B1%E4%BC%8A%E6%9C%97%E5%90%8C%E6%84%8F%E4%BB%8A%E5%BE%8C%E5%B0%87%E4%B8%8D%E5%86%8D%E5%B0%81%E9%8E%96%E9%9C%8D%E7%88%BE%E6%9C%A8%E8%8C%B2%E6%B5%B7%E5%B3%BD-%E5%82%B3%E5%AA%92-%E8%A8%AD%E4%B8%89%E9%A0%85%E6%A2%9D%E4%BB%B6",
-    "timestamp": "2026-04-17T18:08:56.339Z",
     "strategy": ".content-card__main"
   }
 ];
