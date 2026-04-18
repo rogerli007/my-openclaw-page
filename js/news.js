@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-18T10:56:36.040Z
+// Last updated: 2026-04-18T11:22:15.334Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "宏福苑｜周一開始7廈分批上樓執拾　廣福多處設帳篷通道指揮中心",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260418/1122249683654152192579834.jpeg/Q5RQMDBrLU5zGLy6pP_t6gXGLyo7mBPEjktyeqdLcno?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60341513/%E5%AE%8F%E7%A6%8F%E8%8B%91-%E5%91%A8%E4%B8%80%E9%96%8B%E5%A7%8B7%E5%BB%88%E5%88%86%E6%89%B9%E4%B8%8A%E6%A8%93%E5%9F%B7%E6%8B%BE-%E5%BB%A3%E7%A6%8F%E5%A4%9A%E8%99%95%E8%A8%AD%E5%B8%B3%E7%AF%B7%E9%80%9A%E9%81%93%E6%8C%87%E6%8F%AE%E4%B8%AD%E5%BF%83",
+    "timestamp": "2026-04-18T11:22:15.334Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "有片｜彩雲邨時雨樓地下垃圾站起火　目擊者指保安一度用水喉撲救",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260416/1121259989785120768097638.png/eQBYZuoGNJoNpHB_ozLyWB4OX5Cg085yQpHsT0KR7E8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60341402/%E4%BC%8A%E6%9C%97%E9%AB%98%E5%AE%98-%E8%88%87%E7%BE%8E%E5%9C%8B%E9%96%93%E4%BB%8D%E5%AD%98%E9%87%8D%E5%A4%A7%E5%88%86%E6%AD%A7-%E5%8C%85%E6%8B%AC%E6%A0%B8%E8%AD%B0%E9%A1%8C",
     "timestamp": "2026-04-17T20:35:15.671Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "伊朗高官：與美國間仍存重大分歧　包括核議題",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260416/1121259989785120768097638.png/eQBYZuoGNJoNpHB_ozLyWB4OX5Cg085yQpHsT0KR7E8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60341402/%E4%BC%8A%E6%9C%97%E9%AB%98%E5%AE%98-%E8%88%87%E7%BE%8E%E5%9C%8B%E9%96%93%E4%BB%8D%E5%AD%98%E9%87%8D%E5%A4%A7%E5%88%86%E6%AD%A7-%E5%8C%85%E6%8B%AC%E6%A0%B8%E8%AD%B0%E9%A1%8C",
-    "timestamp": "2026-04-17T19:44:14.860Z",
     "strategy": ".content-card__main"
   }
 ];
