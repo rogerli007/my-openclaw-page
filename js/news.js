@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-17T23:52:22.405Z
+// Last updated: 2026-04-18T00:51:06.785Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "郭晉安陳展鵬兩大視帝球場廝殺　與伍富橋李思雅組匹克球精英隊",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260417/1121922595898265600046379.jpeg/gQ_1IZp-yjYwwnk8CUES2ZaxfgKYTZ_sDlAGWw5QBls?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60341152/%E9%83%AD%E6%99%89%E5%AE%89%E9%99%B3%E5%B1%95%E9%B5%AC%E5%85%A9%E5%A4%A7%E8%A6%96%E5%B8%9D%E7%90%83%E5%A0%B4%E5%BB%9D%E6%AE%BA-%E8%88%87%E4%BC%8D%E5%AF%8C%E6%A9%8B%E6%9D%8E%E6%80%9D%E9%9B%85%E7%B5%84%E5%8C%B9%E5%85%8B%E7%90%83%E7%B2%BE%E8%8B%B1%E9%9A%8A",
+    "timestamp": "2026-04-18T00:51:06.785Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "特朗普稱移除濃縮鈾行動不派美軍　伊朗拒絕將濃縮鈾運往國外",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260127/1092845155297267712756423.jpeg/ix_OkSIMSTn44i_w0yazynFshhHBHrGSiz12lYs9dpU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60341242/%E4%B8%AD%E5%9C%8B%E5%A4%96%E4%BA%A4%E9%83%A8-%E6%97%A5%E6%96%B9%E6%B4%BE%E8%87%AA%E8%A1%9B%E9%9A%8A%E8%89%A6%E8%89%87%E9%97%96%E5%8F%B0%E6%B5%B7%E8%80%80%E6%AD%A6%E6%8F%9A%E5%A8%81-%E4%B8%AD%E6%96%B9%E6%8F%90%E5%BC%B7%E7%83%88%E6%8A%97%E8%AD%B0",
     "timestamp": "2026-04-17T07:44:33.161Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "幫手搵人︱大埔15歲羅詠欣離開大美督院舍後失蹤　職員報警尋人",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260417/1121821974679523328105678.jpeg/YGXsGA095J0bpOkUodsTstyJTRq87u5BLueiAC7nogA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60341204/%E5%B9%AB%E6%89%8B%E6%90%B5%E4%BA%BA-%E5%A4%A7%E5%9F%9415%E6%AD%B2%E7%BE%85%E8%A9%A0%E6%AC%A3%E9%9B%A2%E9%96%8B%E5%A4%A7%E7%BE%8E%E7%9D%A3%E9%99%A2%E8%88%8D%E5%BE%8C%E5%A4%B1%E8%B9%A4-%E8%81%B7%E5%93%A1%E5%A0%B1%E8%AD%A6%E5%B0%8B%E4%BA%BA",
-    "timestamp": "2026-04-17T06:56:16.303Z",
     "strategy": ".content-card__main"
   }
 ];
