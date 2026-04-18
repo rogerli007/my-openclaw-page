@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-18T20:39:07.360Z
+// Last updated: 2026-04-18T21:22:08.837Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "牛頭角單位門外雜物起火　警刑事調查隊列「縱火」調查",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/282692/org/e10d765255ef28c955d7666f31417cd1.jpg/iW4FvxyPNbDBkgbV-x6BaXYI5FgZfoGcCf9jNwn_Yzc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60341556/%E7%89%9B%E9%A0%AD%E8%A7%92%E5%96%AE%E4%BD%8D%E9%96%80%E5%A4%96%E9%9B%9C%E7%89%A9%E8%B5%B7%E7%81%AB-%E8%AD%A6%E5%88%91%E4%BA%8B%E8%AA%BF%E6%9F%A5%E9%9A%8A%E5%88%97-%E7%B8%B1%E7%81%AB-%E8%AA%BF%E6%9F%A5",
+    "timestamp": "2026-04-18T21:22:08.837Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "伊朗宣布關閉霍爾木茲海峽",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260418/1122224897045565440964871.jpeg/AdWjHK7SKAGK6C9quz5XCHRGosMgVlZNjYPJb42DyW8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60341511/%E6%B1%9F%E6%97%BB%E6%86%93%E9%80%B2%E9%A7%90%E5%9C%9F%E7%93%9C%E7%81%A3%E9%96%8B%E5%9C%B0%E8%BE%A6-%E5%86%80%E7%B5%90%E5%90%88%E5%95%9F%E5%BE%B7%E4%B9%9D%E9%BE%8D%E5%9F%8E-%E5%89%B5%E5%85%B7%E5%90%B8%E5%BC%95%E5%8A%9B%E6%97%85%E9%81%8A%E8%B7%AF%E7%B7%9A",
     "timestamp": "2026-04-18T10:32:58.728Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "泰國潑水節「奪命周」｜中國遊客：有人缺氧暈倒、額頭受傷被抬走",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260418/1122218647301918720740812.jpeg/nrBRoFlz8SHZqyTUjbzEV_SyQMNx5n6GXwmDKl8Jgyo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60341504/%E6%B3%B0%E5%9C%8B%E6%BD%91%E6%B0%B4%E7%AF%80-%E5%A5%AA%E5%91%BD%E5%91%A8-%E4%B8%AD%E5%9C%8B%E9%81%8A%E5%AE%A2-%E6%9C%89%E4%BA%BA%E7%BC%BA%E6%B0%A7%E6%9A%88%E5%80%92-%E9%A1%8D%E9%A0%AD%E5%8F%97%E5%82%B7%E8%A2%AB%E6%8A%AC%E8%B5%B0",
-    "timestamp": "2026-04-18T09:37:45.920Z",
     "strategy": ".content-card__main"
   }
 ];
