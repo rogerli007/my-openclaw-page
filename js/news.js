@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-18T01:44:47.610Z
+// Last updated: 2026-04-18T02:47:39.112Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "啟德海灣第2期今首輪發售160伙　準買家陸續到場",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260418/1122123267792965632853047.jpeg/Q90TZtdv2gx4FunyaOzTu5Pt-xF0jGEL_he0tf4XtLU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60341440/%E5%95%9F%E5%BE%B7%E6%B5%B7%E7%81%A3%E7%AC%AC2%E6%9C%9F%E4%BB%8A%E9%A6%96%E8%BC%AA%E7%99%BC%E5%94%AE160%E4%BC%99-%E6%BA%96%E8%B2%B7%E5%AE%B6%E9%99%B8%E7%BA%8C%E5%88%B0%E5%A0%B4",
+    "timestamp": "2026-04-18T02:47:39.112Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美國被指擬解凍伊朗200億美元資產換濃縮鈾　特朗普：沒金錢交易",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260330/1115335960364584960094176.png/RVLR5sAQKQeqNDw4MvmCAieuexMb8Dimo_hEKKP4RCg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%81%B7%E5%A0%B4/60335650/%E5%8B%9E%E5%B7%A5%E6%B3%95%E4%BE%8B%E7%97%85%E5%81%87%E6%80%8E%E8%A8%88%E7%AE%97-%E6%9C%89%E8%96%AA%E7%97%85%E5%81%87%E6%B3%95%E5%AE%9A%E4%B8%8A%E9%99%90-%E9%86%AB%E7%94%9F%E7%B4%99%E8%88%87%E5%88%B0%E8%A8%BA%E7%B4%99%E5%88%86%E5%88%A5",
     "timestamp": "2026-04-17T09:07:18.886Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "緬甸新年特赦逾4300囚犯　前總統溫敏獲釋　昂山素姬減刑六分一",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20251216/1077611589718249472047698.jpeg/6z83yhHi6ZdYvvZN0zfdsIlhK_Im284z1dTAYtXUwGI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60341244/%E7%B7%AC%E7%94%B8%E6%96%B0%E5%B9%B4%E7%89%B9%E8%B5%A6%E9%80%BE4300%E5%9B%9A%E7%8A%AF-%E5%89%8D%E7%B8%BD%E7%B5%B1%E6%BA%AB%E6%95%8F%E7%8D%B2%E9%87%8B-%E6%98%82%E5%B1%B1%E7%B4%A0%E5%A7%AC%E6%B8%9B%E5%88%91%E5%85%AD%E5%88%86%E4%B8%80",
-    "timestamp": "2026-04-17T08:21:37.915Z",
     "strategy": ".content-card__main"
   }
 ];
