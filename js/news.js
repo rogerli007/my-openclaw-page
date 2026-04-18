@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-18T06:47:20.147Z
+// Last updated: 2026-04-18T07:19:04.963Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "七人欖球賽｜啟德體育園：主場館南看台及二樓觀賽區人數已達上限",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260417/1121920489166999552137260.jpeg/egQHCHGV3WSdkmZmwp5PsA_4sXN01_RT8IDFqMqAxag?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60341481/%E4%B8%83%E4%BA%BA%E6%AC%96%E7%90%83%E8%B3%BD-%E5%95%9F%E5%BE%B7%E9%AB%94%E8%82%B2%E5%9C%92-%E4%B8%BB%E5%A0%B4%E9%A4%A8%E5%8D%97%E7%9C%8B%E5%8F%B0%E5%8F%8A%E4%BA%8C%E6%A8%93%E8%A7%80%E8%B3%BD%E5%8D%80%E4%BA%BA%E6%95%B8%E5%B7%B2%E9%81%94%E4%B8%8A%E9%99%90",
+    "timestamp": "2026-04-18T07:19:04.963Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "射程6米每秒最多擊落30隻蚊子　國產AI激光｢滅蚊神器｣爆紅｜有片",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260417/1121821557409189888961427.png/mM_Y5hVdCqJzz2Jl875PovE6-SWTFfmpWfuBPVn7gT0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60341092/%E8%B6%95%E5%B7%B4%E5%A3%AB%E8%83%BD%E5%A4%A0%E6%95%91%E5%91%BD-%E7%A0%94%E7%A9%B6%E6%8F%AD%E6%AF%8F%E5%A4%A9%E6%95%B8%E5%88%86%E9%90%98%E9%AB%98%E5%BC%B7%E5%BA%A6%E9%81%8B%E5%8B%95-%E5%90%84%E7%A8%AE%E6%85%A2%E6%80%A7%E7%97%85%E7%8E%87%E6%80%A5%E8%B7%8C",
     "timestamp": "2026-04-17T12:43:29.022Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "31歲司機駕Amigo車隊的士　機場「兜客」稱豁免行李費被檢控",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260417/1121873163060252672159670.jpeg/nysIA9Cw_jy56EFwlBDFAqWCbhL3MVmSdAg7kXQIO5E?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60341332/31%E6%AD%B2%E5%8F%B8%E6%A9%9F%E9%A7%95amigo%E8%BB%8A%E9%9A%8A%E7%9A%84%E5%A3%AB-%E6%A9%9F%E5%A0%B4-%E5%85%9C%E5%AE%A2-%E7%A8%B1%E8%B1%81%E5%85%8D%E8%A1%8C%E6%9D%8E%E8%B2%BB%E8%A2%AB%E6%AA%A2%E6%8E%A7",
-    "timestamp": "2026-04-17T10:36:30.648Z",
     "strategy": ".content-card__main"
   }
 ];
