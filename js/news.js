@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-18T00:51:06.785Z
+// Last updated: 2026-04-18T01:44:47.610Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美國被指擬解凍伊朗200億美元資產換濃縮鈾　特朗普：沒金錢交易",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260418/1122102287599144960875940.jpeg/phlKhEsW39AsHCcPmRnmxAaLA4d9erO4fsjeYH7I3mA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60341420/%E7%BE%8E%E5%9C%8B%E8%A2%AB%E6%8C%87%E6%93%AC%E8%A7%A3%E5%87%8D%E4%BC%8A%E6%9C%97200%E5%84%84%E7%BE%8E%E5%85%83%E8%B3%87%E7%94%A2%E6%8F%9B%E6%BF%83%E7%B8%AE%E9%88%BE-%E7%89%B9%E6%9C%97%E6%99%AE-%E6%B2%92%E9%87%91%E9%8C%A2%E4%BA%A4%E6%98%93",
+    "timestamp": "2026-04-18T01:44:47.610Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "郭晉安陳展鵬兩大視帝球場廝殺　與伍富橋李思雅組匹克球精英隊",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20251216/1077611589718249472047698.jpeg/6z83yhHi6ZdYvvZN0zfdsIlhK_Im284z1dTAYtXUwGI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60341244/%E7%B7%AC%E7%94%B8%E6%96%B0%E5%B9%B4%E7%89%B9%E8%B5%A6%E9%80%BE4300%E5%9B%9A%E7%8A%AF-%E5%89%8D%E7%B8%BD%E7%B5%B1%E6%BA%AB%E6%95%8F%E7%8D%B2%E9%87%8B-%E6%98%82%E5%B1%B1%E7%B4%A0%E5%A7%AC%E6%B8%9B%E5%88%91%E5%85%AD%E5%88%86%E4%B8%80",
     "timestamp": "2026-04-17T08:21:37.915Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "中國外交部：日方派自衛隊艦艇闖台海耀武揚威　中方提強烈抗議",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260127/1092845155297267712756423.jpeg/ix_OkSIMSTn44i_w0yazynFshhHBHrGSiz12lYs9dpU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60341242/%E4%B8%AD%E5%9C%8B%E5%A4%96%E4%BA%A4%E9%83%A8-%E6%97%A5%E6%96%B9%E6%B4%BE%E8%87%AA%E8%A1%9B%E9%9A%8A%E8%89%A6%E8%89%87%E9%97%96%E5%8F%B0%E6%B5%B7%E8%80%80%E6%AD%A6%E6%8F%9A%E5%A8%81-%E4%B8%AD%E6%96%B9%E6%8F%90%E5%BC%B7%E7%83%88%E6%8A%97%E8%AD%B0",
-    "timestamp": "2026-04-17T07:44:33.161Z",
     "strategy": ".content-card__main"
   }
 ];
