@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-18T07:19:04.963Z
+// Last updated: 2026-04-18T07:48:20.605Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "外電︰Meta擬5月下旬全球裁員10%",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20251116/1066735739296944128751423.jpeg/nFn8RlMoahQPDcuaMxHifjvp1e8_0EbJfd7KlX3eypU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60341489/%E5%A4%96%E9%9B%BB-meta%E6%93%AC5%E6%9C%88%E4%B8%8B%E6%97%AC%E5%85%A8%E7%90%83%E8%A3%81%E5%93%A110",
+    "timestamp": "2026-04-18T07:48:20.605Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "七人欖球賽｜啟德體育園：主場館南看台及二樓觀賽區人數已達上限",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260417/1121918972661338112973582.jpeg/GfhKkS-mFKyXRWxoT7b9fpLfEx8hXEAEwuJY0MLiWNA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60341310/%E6%83%A0%E5%BA%B7%E5%82%B3%E5%90%88%E4%BD%B5%E7%99%BE%E4%BD%B3-%E5%85%A9%E5%A4%A7%E8%B6%85%E5%B8%82%E9%AC%A5%E8%B6%B3%E5%8D%8A%E4%B8%96%E7%B4%80-%E9%BB%83%E8%80%81%E5%A4%AA-%E5%BB%A3%E5%91%8A%E6%9C%80%E6%B7%B1%E5%85%A5%E6%B0%91%E5%BF%83",
     "timestamp": "2026-04-17T13:16:32.228Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "趕巴士能夠救命？研究揭每天數分鐘高強度運動　各種慢性病率急跌",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260417/1121821557409189888961427.png/mM_Y5hVdCqJzz2Jl875PovE6-SWTFfmpWfuBPVn7gT0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60341092/%E8%B6%95%E5%B7%B4%E5%A3%AB%E8%83%BD%E5%A4%A0%E6%95%91%E5%91%BD-%E7%A0%94%E7%A9%B6%E6%8F%AD%E6%AF%8F%E5%A4%A9%E6%95%B8%E5%88%86%E9%90%98%E9%AB%98%E5%BC%B7%E5%BA%A6%E9%81%8B%E5%8B%95-%E5%90%84%E7%A8%AE%E6%85%A2%E6%80%A7%E7%97%85%E7%8E%87%E6%80%A5%E8%B7%8C",
-    "timestamp": "2026-04-17T12:43:29.022Z",
     "strategy": ".content-card__main"
   }
 ];
