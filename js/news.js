@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-18T07:48:20.605Z
+// Last updated: 2026-04-18T08:10:26.511Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "旅遊心得｜出國行李箱愈普通愈安全　達人：包膜/上鎖更易被破壞",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260418/1121972239034486784748250.jpeg/yxPiVRu08TOswVXN52IXRkwuDtby440ja7UYq2u1GKs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%97%85%E9%81%8A/60328784/%E6%97%85%E9%81%8A%E5%BF%83%E5%BE%97-%E5%87%BA%E5%9C%8B%E8%A1%8C%E6%9D%8E%E7%AE%B1%E6%84%88%E6%99%AE%E9%80%9A%E6%84%88%E5%AE%89%E5%85%A8-%E9%81%94%E4%BA%BA-%E5%8C%85%E8%86%9C-%E4%B8%8A%E9%8E%96%E6%9B%B4%E6%98%93%E8%A2%AB%E7%A0%B4%E5%A3%9E",
+    "timestamp": "2026-04-18T08:10:26.511Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "外電︰Meta擬5月下旬全球裁員10%",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260325/1113499335942737920749385.jpeg/cUaKlPeIo6qmdMuuq7weTsUoJbC_r3imcnuw-HJ7sPg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60341370/%E5%AE%8F%E7%A6%8F%E8%8B%91%E8%81%BD%E8%AD%89%E6%9C%83-%E6%B3%95%E5%9C%98%E6%8A%95%E8%A8%B4%E5%B7%A5%E4%BA%BA%E5%90%B8%E7%85%99%E9%81%AD%E7%84%A1%E8%A6%96-%E6%9B%BE%E6%9A%AB%E7%B7%A9%E5%B7%A5%E7%A8%8B%E8%B2%BB%E5%8D%BB%E8%A2%AB%E6%8C%87%E6%8B%96%E7%B3%A7",
     "timestamp": "2026-04-17T13:59:18.142Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "惠康傳合併百佳｜兩大超市鬥足半世紀　「黃老太」廣告最深入民心",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260417/1121918972661338112973582.jpeg/GfhKkS-mFKyXRWxoT7b9fpLfEx8hXEAEwuJY0MLiWNA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60341310/%E6%83%A0%E5%BA%B7%E5%82%B3%E5%90%88%E4%BD%B5%E7%99%BE%E4%BD%B3-%E5%85%A9%E5%A4%A7%E8%B6%85%E5%B8%82%E9%AC%A5%E8%B6%B3%E5%8D%8A%E4%B8%96%E7%B4%80-%E9%BB%83%E8%80%81%E5%A4%AA-%E5%BB%A3%E5%91%8A%E6%9C%80%E6%B7%B1%E5%85%A5%E6%B0%91%E5%BF%83",
-    "timestamp": "2026-04-17T13:16:32.228Z",
     "strategy": ".content-card__main"
   }
 ];
