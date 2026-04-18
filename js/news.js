@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-18T14:09:49.209Z
+// Last updated: 2026-04-18T14:34:30.196Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美伊下輪談判前景未明　巴基斯坦首都封路作準備　伊尚未同意參與",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260418/1122295940485484544159386.jpeg/KlCgrSnnRzBZrsc9p4wABV_crL4eVwv8vdMt2r3TLdo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60341539/%E7%BE%8E%E4%BC%8A%E4%B8%8B%E8%BC%AA%E8%AB%87%E5%88%A4%E5%89%8D%E6%99%AF%E6%9C%AA%E6%98%8E-%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E9%A6%96%E9%83%BD%E5%B0%81%E8%B7%AF%E4%BD%9C%E6%BA%96%E5%82%99-%E4%BC%8A%E5%B0%9A%E6%9C%AA%E5%90%8C%E6%84%8F%E5%8F%83%E8%88%87",
+    "timestamp": "2026-04-18T14:34:30.196Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "明珠奇譚．短劇｜盜墓神作《鬼吹燈》授權改編　棄AI全用實景拍攝",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260417/1121712611973533696610275.jpeg/Bg-db4sryTDNndPhiIZXPmCzmp8kmH0huN732bje99k?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60341409/%E7%89%B9%E6%9C%97%E6%99%AE%E7%A8%B1%E7%A7%BB%E9%99%A4%E6%BF%83%E7%B8%AE%E9%88%BE%E8%A1%8C%E5%8B%95%E4%B8%8D%E6%B4%BE%E7%BE%8E%E8%BB%8D-%E4%BC%8A%E6%9C%97%E6%8B%92%E7%B5%95%E5%B0%87%E6%BF%83%E7%B8%AE%E9%88%BE%E9%81%8B%E5%BE%80%E5%9C%8B%E5%A4%96",
     "timestamp": "2026-04-17T23:52:22.405Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普：美國伊朗或在未來一兩天內達成協議",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260417/1121712607938482176827140.jpeg/1q_4VtsvKK7iRHcI0NDiOJOpTQbeogZr5dPg4uXT4OI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60341407/%E7%89%B9%E6%9C%97%E6%99%AE-%E7%BE%8E%E5%9C%8B%E4%BC%8A%E6%9C%97%E6%88%96%E5%9C%A8%E6%9C%AA%E4%BE%86%E4%B8%80%E5%85%A9%E5%A4%A9%E5%85%A7%E9%81%94%E6%88%90%E5%8D%94%E8%AD%B0",
-    "timestamp": "2026-04-17T22:52:25.680Z",
     "strategy": ".content-card__main"
   }
 ];
