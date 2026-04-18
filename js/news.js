@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-18T22:35:13.012Z
+// Last updated: 2026-04-18T23:03:09.584Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "英超｜曼聯1：0車路士",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260419/1122427674875138048510398.jpeg/kKfajFy_cy1gKunHqRlmzr5Xq6quf7ewyHYrEch2KxE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60341559/%E8%8B%B1%E8%B6%85-%E6%9B%BC%E8%81%AF1-0%E8%BB%8A%E8%B7%AF%E5%A3%AB",
+    "timestamp": "2026-04-18T23:03:09.584Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "警新界北一連兩日執法　拘7人涉危險駕駛、酒後駕駛等6罪",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260418/1122249683654152192579834.jpeg/Q5RQMDBrLU5zGLy6pP_t6gXGLyo7mBPEjktyeqdLcno?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60341513/%E5%AE%8F%E7%A6%8F%E8%8B%91-%E5%91%A8%E4%B8%80%E9%96%8B%E5%A7%8B7%E5%BB%88%E5%88%86%E6%89%B9%E4%B8%8A%E6%A8%93%E5%9F%B7%E6%8B%BE-%E5%BB%A3%E7%A6%8F%E5%A4%9A%E8%99%95%E8%A8%AD%E5%B8%B3%E7%AF%B7%E9%80%9A%E9%81%93%E6%8C%87%E6%8F%AE%E4%B8%AD%E5%BF%83",
     "timestamp": "2026-04-18T11:22:15.334Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "有片｜彩雲邨時雨樓地下垃圾站起火　目擊者指保安一度用水喉撲救",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260418/1122236482229112832908526.jpeg/IXgQCLuK5BddeSfdecyXKxuy2JOYrgwPunE4RbpxOEU",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60341512/%E6%9C%89%E7%89%87-%E5%BD%A9%E9%9B%B2%E9%82%A8%E6%99%82%E9%9B%A8%E6%A8%93%E5%9C%B0%E4%B8%8B%E5%9E%83%E5%9C%BE%E7%AB%99%E8%B5%B7%E7%81%AB-%E7%9B%AE%E6%93%8A%E8%80%85%E6%8C%87%E4%BF%9D%E5%AE%89%E4%B8%80%E5%BA%A6%E7%94%A8%E6%B0%B4%E5%96%89%E6%92%B2%E6%95%91",
-    "timestamp": "2026-04-18T10:56:36.040Z",
     "strategy": ".content-card__main"
   }
 ];
