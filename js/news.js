@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-18T16:21:10.872Z
+// Last updated: 2026-04-18T16:52:14.063Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "烏克蘭基輔槍擊　5人死亡　槍手遭擊斃",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260419/1122332586257944576731029.jpeg/jpuQXjGDqNMX6slLiekdyfyIJDwUJRaMZwhnTmcIZ04?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60341550/%E7%83%8F%E5%85%8B%E8%98%AD%E5%9F%BA%E8%BC%94%E6%A7%8D%E6%93%8A-5%E4%BA%BA%E6%AD%BB%E4%BA%A1-%E6%A7%8D%E6%89%8B%E9%81%AD%E6%93%8A%E6%96%83",
+    "timestamp": "2026-04-18T16:52:14.063Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "寒戰1994｜謝君豪連摑吳慷仁6大巴　事後要休息3日︰我係咪重手咗",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260418/1122172718674874368764289.jpeg/3UCV_rawdNJ8fUB9vA85y58t2tzkcdnqAWC11gFgtdY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60341183/%E9%84%A7%E5%85%86%E5%B0%8A%E8%87%AA%E6%8F%AD%E4%B8%89%E6%88%BF%E5%92%8C%E7%9D%A6%E7%9B%B8%E8%99%95%E7%A7%98%E8%A8%A3-%E5%A4%A7%E7%88%86%E4%B8%89%E4%BD%8D%E5%A5%B3%E4%BC%B4%E5%94%94%E7%89%A9%E8%B3%AA%E7%94%9F%E6%97%A5%E5%94%94%E4%BD%BF%E9%80%81%E7%A6%AE",
     "timestamp": "2026-04-18T06:04:52.664Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "啟德海灣第2期今首輪發售160伙　準買家陸續到場",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260418/1122123267792965632853047.jpeg/Q90TZtdv2gx4FunyaOzTu5Pt-xF0jGEL_he0tf4XtLU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60341440/%E5%95%9F%E5%BE%B7%E6%B5%B7%E7%81%A3%E7%AC%AC2%E6%9C%9F%E4%BB%8A%E9%A6%96%E8%BC%AA%E7%99%BC%E5%94%AE160%E4%BC%99-%E6%BA%96%E8%B2%B7%E5%AE%B6%E9%99%B8%E7%BA%8C%E5%88%B0%E5%A0%B4",
-    "timestamp": "2026-04-18T02:47:39.112Z",
     "strategy": ".content-card__main"
   }
 ];
