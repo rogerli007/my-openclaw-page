@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-18T12:24:53.578Z
+// Last updated: 2026-04-18T12:54:19.800Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "退役AV女優桃乃木香奈現身台北棒球場　「球迷瘋搶合照」全場轟動",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260417/1121800918484914176548706.jpeg/wFGK2p19iwwoqS71xUz-ys0vKaQZYvOe3d_it93f4rc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E8%A9%B1%E9%A1%8C/60341162/%E9%80%80%E5%BD%B9av%E5%A5%B3%E5%84%AA%E6%A1%83%E4%B9%83%E6%9C%A8%E9%A6%99%E5%A5%88%E7%8F%BE%E8%BA%AB%E5%8F%B0%E5%8C%97%E6%A3%92%E7%90%83%E5%A0%B4-%E7%90%83%E8%BF%B7%E7%98%8B%E6%90%B6%E5%90%88%E7%85%A7-%E5%85%A8%E5%A0%B4%E8%BD%9F%E5%8B%95",
+    "timestamp": "2026-04-18T12:54:19.800Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美國尖端研究領域11科學家接連死亡或失蹤引關注　特朗普承諾徹查",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260417/1121712607938482176827140.jpeg/1q_4VtsvKK7iRHcI0NDiOJOpTQbeogZr5dPg4uXT4OI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60341407/%E7%89%B9%E6%9C%97%E6%99%AE-%E7%BE%8E%E5%9C%8B%E4%BC%8A%E6%9C%97%E6%88%96%E5%9C%A8%E6%9C%AA%E4%BE%86%E4%B8%80%E5%85%A9%E5%A4%A9%E5%85%A7%E9%81%94%E6%88%90%E5%8D%94%E8%AD%B0",
     "timestamp": "2026-04-17T22:22:55.506Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "日本自衛隊官員闖入中國使館　檢方對實施鑑定拘留",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260329/1114860979272814592139278.png/AyM9M2hz84DyUX3SXYQJXoNiUK6D4CMKed2Fg3ndhYM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60341404/%E6%97%A5%E6%9C%AC%E8%87%AA%E8%A1%9B%E9%9A%8A%E5%AE%98%E5%93%A1%E9%97%96%E5%85%A5%E4%B8%AD%E5%9C%8B%E4%BD%BF%E9%A4%A8-%E6%AA%A2%E6%96%B9%E5%B0%8D%E5%AF%A6%E6%96%BD%E9%91%91%E5%AE%9A%E6%8B%98%E7%95%99",
-    "timestamp": "2026-04-17T21:57:22.874Z",
     "strategy": ".content-card__main"
   }
 ];
