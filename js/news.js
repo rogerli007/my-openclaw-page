@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-18T20:19:24.929Z
+// Last updated: 2026-04-18T20:39:07.360Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "伊朗宣布關閉霍爾木茲海峽",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260417/1121881875229446144842537.jpeg/K1YBEVI5vReo1fzlOyy7P9j3tc2hZ4bk9t2WxfbdlsU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60341553/%E4%BC%8A%E6%9C%97%E5%AE%A3%E5%B8%83%E9%97%9C%E9%96%89%E9%9C%8D%E7%88%BE%E6%9C%A8%E8%8C%B2%E6%B5%B7%E5%B3%BD",
+    "timestamp": "2026-04-18T20:39:07.360Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "伊朗宣布關閉霍爾木茲海峽",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260418/1122218647301918720740812.jpeg/nrBRoFlz8SHZqyTUjbzEV_SyQMNx5n6GXwmDKl8Jgyo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60341504/%E6%B3%B0%E5%9C%8B%E6%BD%91%E6%B0%B4%E7%AF%80-%E5%A5%AA%E5%91%BD%E5%91%A8-%E4%B8%AD%E5%9C%8B%E9%81%8A%E5%AE%A2-%E6%9C%89%E4%BA%BA%E7%BC%BA%E6%B0%A7%E6%9A%88%E5%80%92-%E9%A1%8D%E9%A0%AD%E5%8F%97%E5%82%B7%E8%A2%AB%E6%8A%AC%E8%B5%B0",
     "timestamp": "2026-04-18T09:37:45.920Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "梅州旅遊｜客家美食必吃醃麵三及第湯　景點打卡松口古鎮/千佛塔",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260418/1121972424225591296754032.jpeg/xlSkvYPE3i2JdJ7gke6-wQIIz2iayFp_-Pqa6vj6muo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%97%85%E9%81%8A/60339383/%E6%A2%85%E5%B7%9E%E6%97%85%E9%81%8A-%E5%AE%A2%E5%AE%B6%E7%BE%8E%E9%A3%9F%E5%BF%85%E5%90%83%E9%86%83%E9%BA%B5%E4%B8%89%E5%8F%8A%E7%AC%AC%E6%B9%AF-%E6%99%AF%E9%BB%9E%E6%89%93%E5%8D%A1%E6%9D%BE%E5%8F%A3%E5%8F%A4%E9%8E%AE-%E5%8D%83%E4%BD%9B%E5%A1%94",
-    "timestamp": "2026-04-18T09:08:58.932Z",
     "strategy": ".content-card__main"
   }
 ];
