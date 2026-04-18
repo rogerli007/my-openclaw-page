@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-18T12:54:19.800Z
+// Last updated: 2026-04-18T14:09:49.209Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "明珠奇譚．短劇｜盜墓神作《鬼吹燈》授權改編　棄AI全用實景拍攝",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260415/1121027799809789952524078.jpeg/O8s9kNH7qH2wNiwuH78cZFB0MFoJ9eE2eqSqx3qkqsc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60336424/%E6%98%8E%E7%8F%A0%E5%A5%87%E8%AD%9A-%E7%9F%AD%E5%8A%87-%E7%9B%9C%E5%A2%93%E7%A5%9E%E4%BD%9C-%E9%AC%BC%E5%90%B9%E7%87%88-%E6%8E%88%E6%AC%8A%E6%94%B9%E7%B7%A8-%E6%A3%84ai%E5%85%A8%E7%94%A8%E5%AF%A6%E6%99%AF%E6%8B%8D%E6%94%9D",
+    "timestamp": "2026-04-18T14:09:49.209Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "退役AV女優桃乃木香奈現身台北棒球場　「球迷瘋搶合照」全場轟動",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260417/1121712607938482176827140.jpeg/1q_4VtsvKK7iRHcI0NDiOJOpTQbeogZr5dPg4uXT4OI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60341407/%E7%89%B9%E6%9C%97%E6%99%AE-%E7%BE%8E%E5%9C%8B%E4%BC%8A%E6%9C%97%E6%88%96%E5%9C%A8%E6%9C%AA%E4%BE%86%E4%B8%80%E5%85%A9%E5%A4%A9%E5%85%A7%E9%81%94%E6%88%90%E5%8D%94%E8%AD%B0",
     "timestamp": "2026-04-17T22:52:25.680Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普：美國伊朗或在未來一兩天內達成協議",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260417/1121712607938482176827140.jpeg/1q_4VtsvKK7iRHcI0NDiOJOpTQbeogZr5dPg4uXT4OI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60341407/%E7%89%B9%E6%9C%97%E6%99%AE-%E7%BE%8E%E5%9C%8B%E4%BC%8A%E6%9C%97%E6%88%96%E5%9C%A8%E6%9C%AA%E4%BE%86%E4%B8%80%E5%85%A9%E5%A4%A9%E5%85%A7%E9%81%94%E6%88%90%E5%8D%94%E8%AD%B0",
-    "timestamp": "2026-04-17T22:22:55.506Z",
     "strategy": ".content-card__main"
   }
 ];
