@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-18T21:22:08.837Z
+// Last updated: 2026-04-18T22:35:13.012Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "警新界北一連兩日執法　拘7人涉危險駕駛、酒後駕駛等6罪",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260419/1122418264916365312986350.jpeg/KpiH3rckRjsqoIooERtFw28VwVAp0m41_TbLWf02y1k?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60341557/%E8%AD%A6%E6%96%B0%E7%95%8C%E5%8C%97%E4%B8%80%E9%80%A3%E5%85%A9%E6%97%A5%E5%9F%B7%E6%B3%95-%E6%8B%987%E4%BA%BA%E6%B6%89%E5%8D%B1%E9%9A%AA%E9%A7%95%E9%A7%9B-%E9%85%92%E5%BE%8C%E9%A7%95%E9%A7%9B%E7%AD%896%E7%BD%AA",
+    "timestamp": "2026-04-18T22:35:13.012Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "牛頭角單位門外雜物起火　警刑事調查隊列「縱火」調查",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260418/1122236482229112832908526.jpeg/IXgQCLuK5BddeSfdecyXKxuy2JOYrgwPunE4RbpxOEU",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60341512/%E6%9C%89%E7%89%87-%E5%BD%A9%E9%9B%B2%E9%82%A8%E6%99%82%E9%9B%A8%E6%A8%93%E5%9C%B0%E4%B8%8B%E5%9E%83%E5%9C%BE%E7%AB%99%E8%B5%B7%E7%81%AB-%E7%9B%AE%E6%93%8A%E8%80%85%E6%8C%87%E4%BF%9D%E5%AE%89%E4%B8%80%E5%BA%A6%E7%94%A8%E6%B0%B4%E5%96%89%E6%92%B2%E6%95%91",
     "timestamp": "2026-04-18T10:56:36.040Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "江旻憓進駐土瓜灣開地辦　冀結合啟德九龍城　創具吸引力旅遊路線",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260418/1122224897045565440964871.jpeg/AdWjHK7SKAGK6C9quz5XCHRGosMgVlZNjYPJb42DyW8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60341511/%E6%B1%9F%E6%97%BB%E6%86%93%E9%80%B2%E9%A7%90%E5%9C%9F%E7%93%9C%E7%81%A3%E9%96%8B%E5%9C%B0%E8%BE%A6-%E5%86%80%E7%B5%90%E5%90%88%E5%95%9F%E5%BE%B7%E4%B9%9D%E9%BE%8D%E5%9F%8E-%E5%89%B5%E5%85%B7%E5%90%B8%E5%BC%95%E5%8A%9B%E6%97%85%E9%81%8A%E8%B7%AF%E7%B7%9A",
-    "timestamp": "2026-04-18T10:32:58.728Z",
     "strategy": ".content-card__main"
   }
 ];
