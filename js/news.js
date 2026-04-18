@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-18T17:51:13.090Z
+// Last updated: 2026-04-18T18:24:26.901Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "伊朗最高國安委：接獲美國經巴基斯坦轉交新提議　正在研究",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260415/1121219918818185216807235.jpeg/XhcxnPuAu4ncaUKjLDOaslGOp6AxE7pYyvI1DsryNQ4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60341551/%E4%BC%8A%E6%9C%97%E6%9C%80%E9%AB%98%E5%9C%8B%E5%AE%89%E5%A7%94-%E6%8E%A5%E7%8D%B2%E7%BE%8E%E5%9C%8B%E7%B6%93%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E8%BD%89%E4%BA%A4%E6%96%B0%E6%8F%90%E8%AD%B0-%E6%AD%A3%E5%9C%A8%E7%A0%94%E7%A9%B6",
+    "timestamp": "2026-04-18T18:24:26.901Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "伊朗最高國安委：接獲美國經巴基斯坦轉交新提議　正在研究",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20251116/1066735739296944128751423.jpeg/nFn8RlMoahQPDcuaMxHifjvp1e8_0EbJfd7KlX3eypU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60341489/%E5%A4%96%E9%9B%BB-meta%E6%93%AC5%E6%9C%88%E4%B8%8B%E6%97%AC%E5%85%A8%E7%90%83%E8%A3%81%E5%93%A110",
     "timestamp": "2026-04-18T07:48:20.605Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "七人欖球賽｜啟德體育園：主場館南看台及二樓觀賽區人數已達上限",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260417/1121920489166999552137260.jpeg/egQHCHGV3WSdkmZmwp5PsA_4sXN01_RT8IDFqMqAxag?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60341481/%E4%B8%83%E4%BA%BA%E6%AC%96%E7%90%83%E8%B3%BD-%E5%95%9F%E5%BE%B7%E9%AB%94%E8%82%B2%E5%9C%92-%E4%B8%BB%E5%A0%B4%E9%A4%A8%E5%8D%97%E7%9C%8B%E5%8F%B0%E5%8F%8A%E4%BA%8C%E6%A8%93%E8%A7%80%E8%B3%BD%E5%8D%80%E4%BA%BA%E6%95%B8%E5%B7%B2%E9%81%94%E4%B8%8A%E9%99%90",
-    "timestamp": "2026-04-18T07:19:04.963Z",
     "strategy": ".content-card__main"
   }
 ];
