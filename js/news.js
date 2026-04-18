@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-18T18:53:38.828Z
+// Last updated: 2026-04-18T19:24:22.896Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "英國海上貿易行動辦公室：霍爾木茲海峽附近發生多宗船隻遇襲事件",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260418/1122277072757067776790153.jpeg/MMQ6fTI_Nd1h6RE3-1KAon97H7aViAJwh_V1KYf1dSk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60341552/%E8%8B%B1%E5%9C%8B%E6%B5%B7%E4%B8%8A%E8%B2%BF%E6%98%93%E8%A1%8C%E5%8B%95%E8%BE%A6%E5%85%AC%E5%AE%A4-%E9%9C%8D%E7%88%BE%E6%9C%A8%E8%8C%B2%E6%B5%B7%E5%B3%BD%E9%99%84%E8%BF%91%E7%99%BC%E7%94%9F%E5%A4%9A%E5%AE%97%E8%88%B9%E9%9A%BB%E9%81%87%E8%A5%B2%E4%BA%8B%E4%BB%B6",
+    "timestamp": "2026-04-18T19:24:22.896Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "英國海上貿易行動辦公室：霍爾木茲海峽附近發生多宗船隻遇襲事件",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260416/1121416836877914112904576.jpeg/7EhRrNixIXFsBxzEBg5Fv_1lBnKMULS91IApttSAKbY",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60341493/%E6%97%A5%E6%9C%AC11%E6%AD%B2%E7%94%B7%E7%AB%A5%E8%A2%AB%E6%AE%BA%E6%A1%88-%E6%97%A5%E5%AA%92-%E7%B9%BC%E7%88%B6%E7%96%91%E6%9B%BE%E5%85%AC%E5%BB%81%E8%97%8F%E5%B1%8D-%E8%AD%A6%E6%96%B9%E7%B7%8A%E6%80%A5%E5%B0%81%E9%8E%96%E6%8E%A1%E8%AD%89",
     "timestamp": "2026-04-18T08:35:41.159Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "旅遊心得｜出國行李箱愈普通愈安全　達人：包膜/上鎖更易被破壞",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260418/1121972239034486784748250.jpeg/yxPiVRu08TOswVXN52IXRkwuDtby440ja7UYq2u1GKs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%97%85%E9%81%8A/60328784/%E6%97%85%E9%81%8A%E5%BF%83%E5%BE%97-%E5%87%BA%E5%9C%8B%E8%A1%8C%E6%9D%8E%E7%AE%B1%E6%84%88%E6%99%AE%E9%80%9A%E6%84%88%E5%AE%89%E5%85%A8-%E9%81%94%E4%BA%BA-%E5%8C%85%E8%86%9C-%E4%B8%8A%E9%8E%96%E6%9B%B4%E6%98%93%E8%A2%AB%E7%A0%B4%E5%A3%9E",
-    "timestamp": "2026-04-18T08:10:26.511Z",
     "strategy": ".content-card__main"
   }
 ];
