@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-18T14:34:30.196Z
+// Last updated: 2026-04-18T14:59:08.619Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "國家氣候中心料5月進入厄爾尼諾狀態　強度中等及以上",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260418/1122282011671662592429103.jpeg/TZ1kAJreBrO7y75yolZHfP1fDqck5eUHWgtg0loLYNI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60341531/%E5%9C%8B%E5%AE%B6%E6%B0%A3%E5%80%99%E4%B8%AD%E5%BF%83%E6%96%995%E6%9C%88%E9%80%B2%E5%85%A5%E5%8E%84%E7%88%BE%E5%B0%BC%E8%AB%BE%E7%8B%80%E6%85%8B-%E5%BC%B7%E5%BA%A6%E4%B8%AD%E7%AD%89%E5%8F%8A%E4%BB%A5%E4%B8%8A",
+    "timestamp": "2026-04-18T14:59:08.619Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美伊下輪談判前景未明　巴基斯坦首都封路作準備　伊尚未同意參與",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260417/1121922595898265600046379.jpeg/gQ_1IZp-yjYwwnk8CUES2ZaxfgKYTZ_sDlAGWw5QBls?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60341152/%E9%83%AD%E6%99%89%E5%AE%89%E9%99%B3%E5%B1%95%E9%B5%AC%E5%85%A9%E5%A4%A7%E8%A6%96%E5%B8%9D%E7%90%83%E5%A0%B4%E5%BB%9D%E6%AE%BA-%E8%88%87%E4%BC%8D%E5%AF%8C%E6%A9%8B%E6%9D%8E%E6%80%9D%E9%9B%85%E7%B5%84%E5%8C%B9%E5%85%8B%E7%90%83%E7%B2%BE%E8%8B%B1%E9%9A%8A",
     "timestamp": "2026-04-18T00:51:06.785Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普稱移除濃縮鈾行動不派美軍　伊朗拒絕將濃縮鈾運往國外",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260417/1121712611973533696610275.jpeg/Bg-db4sryTDNndPhiIZXPmCzmp8kmH0huN732bje99k?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60341409/%E7%89%B9%E6%9C%97%E6%99%AE%E7%A8%B1%E7%A7%BB%E9%99%A4%E6%BF%83%E7%B8%AE%E9%88%BE%E8%A1%8C%E5%8B%95%E4%B8%8D%E6%B4%BE%E7%BE%8E%E8%BB%8D-%E4%BC%8A%E6%9C%97%E6%8B%92%E7%B5%95%E5%B0%87%E6%BF%83%E7%B8%AE%E9%88%BE%E9%81%8B%E5%BE%80%E5%9C%8B%E5%A4%96",
-    "timestamp": "2026-04-17T23:52:22.405Z",
     "strategy": ".content-card__main"
   }
 ];
