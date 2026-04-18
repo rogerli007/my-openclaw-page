@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-18T06:04:52.664Z
+// Last updated: 2026-04-18T06:47:20.147Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "射程6米每秒最多擊落30隻蚊子　國產AI激光｢滅蚊神器｣爆紅｜有片",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260418/1122139582511452160856923.jpeg/TfSA0a__5LxvLsu_qQtL-XcUIuwjJK7MYaQP3mGkD94",
+    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60341450/%E5%B0%84%E7%A8%8B6%E7%B1%B3%E6%AF%8F%E7%A7%92%E6%9C%80%E5%A4%9A%E6%93%8A%E8%90%BD30%E9%9A%BB%E8%9A%8A%E5%AD%90-%E5%9C%8B%E7%94%A2ai%E6%BF%80%E5%85%89-%E6%BB%85%E8%9A%8A%E7%A5%9E%E5%99%A8-%E7%88%86%E7%B4%85-%E6%9C%89%E7%89%87",
+    "timestamp": "2026-04-18T06:47:20.147Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "鄧兆尊自揭三房和睦相處秘訣　大爆三位女伴唔物質生日唔使送禮",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260417/1121873163060252672159670.jpeg/nysIA9Cw_jy56EFwlBDFAqWCbhL3MVmSdAg7kXQIO5E?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60341332/31%E6%AD%B2%E5%8F%B8%E6%A9%9F%E9%A7%95amigo%E8%BB%8A%E9%9A%8A%E7%9A%84%E5%A3%AB-%E6%A9%9F%E5%A0%B4-%E5%85%9C%E5%AE%A2-%E7%A8%B1%E8%B1%81%E5%85%8D%E8%A1%8C%E6%9D%8E%E8%B2%BB%E8%A2%AB%E6%AA%A2%E6%8E%A7",
     "timestamp": "2026-04-17T10:36:30.648Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "兩賊欲爆竊觀塘工廈Pokémon卡專門店　警埋伏拘捕　檢電鑽等工具",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260417/1121862376220528640295367.jpeg/O4geLQjbuZhc02yeXTNJ0ax96iL2fwQROq7WrB-u1qw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60341307/%E5%85%A9%E8%B3%8A%E6%AC%B2%E7%88%86%E7%AB%8A%E8%A7%80%E5%A1%98%E5%B7%A5%E5%BB%88pok%C3%A9mon%E5%8D%A1%E5%B0%88%E9%96%80%E5%BA%97-%E8%AD%A6%E5%9F%8B%E4%BC%8F%E6%8B%98%E6%8D%95-%E6%AA%A2%E9%9B%BB%E9%91%BD%E7%AD%89%E5%B7%A5%E5%85%B7",
-    "timestamp": "2026-04-17T09:52:39.420Z",
     "strategy": ".content-card__main"
   }
 ];
