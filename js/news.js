@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-18T15:23:02.679Z
+// Last updated: 2026-04-18T16:21:10.872Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "寒戰1994｜謝君豪連摑吳慷仁6大巴　事後要休息3日︰我係咪重手咗",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260418/1122311460723101696857061.jpeg/jXrN6QO2Iv520QrkjbdQ_bagWrVkD6M5KUA2pylANqc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60341542/%E5%AF%92%E6%88%B01994-%E8%AC%9D%E5%90%9B%E8%B1%AA%E9%80%A3%E6%91%91%E5%90%B3%E6%85%B7%E4%BB%816%E5%A4%A7%E5%B7%B4-%E4%BA%8B%E5%BE%8C%E8%A6%81%E4%BC%91%E6%81%AF3%E6%97%A5-%E6%88%91%E4%BF%82%E5%92%AA%E9%87%8D%E6%89%8B%E5%92%97",
+    "timestamp": "2026-04-18T16:21:10.872Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "大維修擬升格聘第三方監督　富善居民指助理解工程：加價唔係問題",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260418/1122123267792965632853047.jpeg/Q90TZtdv2gx4FunyaOzTu5Pt-xF0jGEL_he0tf4XtLU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60341440/%E5%95%9F%E5%BE%B7%E6%B5%B7%E7%81%A3%E7%AC%AC2%E6%9C%9F%E4%BB%8A%E9%A6%96%E8%BC%AA%E7%99%BC%E5%94%AE160%E4%BC%99-%E6%BA%96%E8%B2%B7%E5%AE%B6%E9%99%B8%E7%BA%8C%E5%88%B0%E5%A0%B4",
     "timestamp": "2026-04-18T02:47:39.112Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美國被指擬解凍伊朗200億美元資產換濃縮鈾　特朗普：沒金錢交易",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260418/1122102287599144960875940.jpeg/phlKhEsW39AsHCcPmRnmxAaLA4d9erO4fsjeYH7I3mA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60341420/%E7%BE%8E%E5%9C%8B%E8%A2%AB%E6%8C%87%E6%93%AC%E8%A7%A3%E5%87%8D%E4%BC%8A%E6%9C%97200%E5%84%84%E7%BE%8E%E5%85%83%E8%B3%87%E7%94%A2%E6%8F%9B%E6%BF%83%E7%B8%AE%E9%88%BE-%E7%89%B9%E6%9C%97%E6%99%AE-%E6%B2%92%E9%87%91%E9%8C%A2%E4%BA%A4%E6%98%93",
-    "timestamp": "2026-04-18T01:44:47.610Z",
     "strategy": ".content-card__main"
   }
 ];
