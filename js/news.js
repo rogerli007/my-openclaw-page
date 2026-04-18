@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-18T09:08:58.932Z
+// Last updated: 2026-04-18T09:37:45.920Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "泰國潑水節「奪命周」｜中國遊客：有人缺氧暈倒、額頭受傷被抬走",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260418/1122218647301918720740812.jpeg/nrBRoFlz8SHZqyTUjbzEV_SyQMNx5n6GXwmDKl8Jgyo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60341504/%E6%B3%B0%E5%9C%8B%E6%BD%91%E6%B0%B4%E7%AF%80-%E5%A5%AA%E5%91%BD%E5%91%A8-%E4%B8%AD%E5%9C%8B%E9%81%8A%E5%AE%A2-%E6%9C%89%E4%BA%BA%E7%BC%BA%E6%B0%A7%E6%9A%88%E5%80%92-%E9%A1%8D%E9%A0%AD%E5%8F%97%E5%82%B7%E8%A2%AB%E6%8A%AC%E8%B5%B0",
+    "timestamp": "2026-04-18T09:37:45.920Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "梅州旅遊｜客家美食必吃醃麵三及第湯　景點打卡松口古鎮/千佛塔",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260417/1121712607938482176827140.jpeg/1q_4VtsvKK7iRHcI0NDiOJOpTQbeogZr5dPg4uXT4OI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60341400/%E7%89%B9%E6%9C%97%E6%99%AE%E7%A8%B1%E4%BC%8A%E6%9C%97%E5%90%8C%E6%84%8F%E4%BB%8A%E5%BE%8C%E5%B0%87%E4%B8%8D%E5%86%8D%E5%B0%81%E9%8E%96%E9%9C%8D%E7%88%BE%E6%9C%A8%E8%8C%B2%E6%B5%B7%E5%B3%BD-%E5%82%B3%E5%AA%92-%E8%A8%AD%E4%B8%89%E9%A0%85%E6%A2%9D%E4%BB%B6",
     "timestamp": "2026-04-17T17:41:21.852Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "HONOR 600 Pro深度評測｜AI創作升級！2億像素專業影像大玩AI影片",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260417/1121783718432739328140927.jpeg/CBTp_xleuG4gd98CrTSdr9POQt46mDXohsZlbYbGZW0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60341015/honor-600-pro%E6%B7%B1%E5%BA%A6%E8%A9%95%E6%B8%AC-ai%E5%89%B5%E4%BD%9C%E5%8D%87%E7%B4%9A-2%E5%84%84%E5%83%8F%E7%B4%A0%E5%B0%88%E6%A5%AD%E5%BD%B1%E5%83%8F%E5%A4%A7%E7%8E%A9ai%E5%BD%B1%E7%89%87",
-    "timestamp": "2026-04-17T16:13:25.785Z",
     "strategy": ".content-card__main"
   }
 ];
