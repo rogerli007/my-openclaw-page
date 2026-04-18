@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-18T09:37:45.920Z
+// Last updated: 2026-04-18T10:32:58.728Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "江旻憓進駐土瓜灣開地辦　冀結合啟德九龍城　創具吸引力旅遊路線",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260418/1122224897045565440964871.jpeg/AdWjHK7SKAGK6C9quz5XCHRGosMgVlZNjYPJb42DyW8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60341511/%E6%B1%9F%E6%97%BB%E6%86%93%E9%80%B2%E9%A7%90%E5%9C%9F%E7%93%9C%E7%81%A3%E9%96%8B%E5%9C%B0%E8%BE%A6-%E5%86%80%E7%B5%90%E5%90%88%E5%95%9F%E5%BE%B7%E4%B9%9D%E9%BE%8D%E5%9F%8E-%E5%89%B5%E5%85%B7%E5%90%B8%E5%BC%95%E5%8A%9B%E6%97%85%E9%81%8A%E8%B7%AF%E7%B7%9A",
+    "timestamp": "2026-04-18T10:32:58.728Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "泰國潑水節「奪命周」｜中國遊客：有人缺氧暈倒、額頭受傷被抬走",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260417/1121712607938482176827140.jpeg/1q_4VtsvKK7iRHcI0NDiOJOpTQbeogZr5dPg4uXT4OI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60341400/%E7%89%B9%E6%9C%97%E6%99%AE%E7%A8%B1%E4%BC%8A%E6%9C%97%E5%90%8C%E6%84%8F%E4%BB%8A%E5%BE%8C%E5%B0%87%E4%B8%8D%E5%86%8D%E5%B0%81%E9%8E%96%E9%9C%8D%E7%88%BE%E6%9C%A8%E8%8C%B2%E6%B5%B7%E5%B3%BD-%E5%82%B3%E5%AA%92-%E8%A8%AD%E4%B8%89%E9%A0%85%E6%A2%9D%E4%BB%B6",
     "timestamp": "2026-04-17T18:08:56.339Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普稱伊朗同意今後將不再封鎖霍爾木茲海峽　傳媒：設三項條件",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260417/1121712607938482176827140.jpeg/1q_4VtsvKK7iRHcI0NDiOJOpTQbeogZr5dPg4uXT4OI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60341400/%E7%89%B9%E6%9C%97%E6%99%AE%E7%A8%B1%E4%BC%8A%E6%9C%97%E5%90%8C%E6%84%8F%E4%BB%8A%E5%BE%8C%E5%B0%87%E4%B8%8D%E5%86%8D%E5%B0%81%E9%8E%96%E9%9C%8D%E7%88%BE%E6%9C%A8%E8%8C%B2%E6%B5%B7%E5%B3%BD-%E5%82%B3%E5%AA%92-%E8%A8%AD%E4%B8%89%E9%A0%85%E6%A2%9D%E4%BB%B6",
-    "timestamp": "2026-04-17T17:41:21.852Z",
     "strategy": ".content-card__main"
   }
 ];
