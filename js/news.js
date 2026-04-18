@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-18T08:10:26.511Z
+// Last updated: 2026-04-18T08:35:41.159Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "日本11歲男童被殺案　日媒：繼父疑曾公廁藏屍　警方緊急封鎖採證",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260416/1121416836877914112904576.jpeg/7EhRrNixIXFsBxzEBg5Fv_1lBnKMULS91IApttSAKbY",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60341493/%E6%97%A5%E6%9C%AC11%E6%AD%B2%E7%94%B7%E7%AB%A5%E8%A2%AB%E6%AE%BA%E6%A1%88-%E6%97%A5%E5%AA%92-%E7%B9%BC%E7%88%B6%E7%96%91%E6%9B%BE%E5%85%AC%E5%BB%81%E8%97%8F%E5%B1%8D-%E8%AD%A6%E6%96%B9%E7%B7%8A%E6%80%A5%E5%B0%81%E9%8E%96%E6%8E%A1%E8%AD%89",
+    "timestamp": "2026-04-18T08:35:41.159Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "旅遊心得｜出國行李箱愈普通愈安全　達人：包膜/上鎖更易被破壞",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260407/1118005578560573440601487.jpeg/fwRQlDhbT2RDWSAMI5scIQvAgNVDm_dlCFvoOwhb6Ds?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60341384/%E8%A5%BF%E6%96%B9%E8%BB%8D%E6%83%85-%E4%BC%8A%E6%9C%97%E6%88%B0%E5%89%8D%E8%A6%8F%E5%8A%83%E6%9C%80%E5%A4%A7%E9%99%90%E5%BA%A6%E4%BF%9D%E7%95%99%E8%BB%8D%E4%BA%8B%E6%89%93%E6%93%8A%E8%83%BD%E5%8A%9B",
     "timestamp": "2026-04-17T15:43:46.476Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "宏福苑聽證會｜法團投訴工人吸煙遭無視　曾暫緩工程費卻被指拖糧",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260325/1113499335942737920749385.jpeg/cUaKlPeIo6qmdMuuq7weTsUoJbC_r3imcnuw-HJ7sPg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60341370/%E5%AE%8F%E7%A6%8F%E8%8B%91%E8%81%BD%E8%AD%89%E6%9C%83-%E6%B3%95%E5%9C%98%E6%8A%95%E8%A8%B4%E5%B7%A5%E4%BA%BA%E5%90%B8%E7%85%99%E9%81%AD%E7%84%A1%E8%A6%96-%E6%9B%BE%E6%9A%AB%E7%B7%A9%E5%B7%A5%E7%A8%8B%E8%B2%BB%E5%8D%BB%E8%A2%AB%E6%8C%87%E6%8B%96%E7%B3%A7",
-    "timestamp": "2026-04-17T13:59:18.142Z",
     "strategy": ".content-card__main"
   }
 ];
