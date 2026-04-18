@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-18T16:52:14.063Z
+// Last updated: 2026-04-18T17:21:03.659Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "烏克蘭基輔槍擊　6人死亡　槍手遭擊斃",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260419/1122332586257944576731029.jpeg/jpuQXjGDqNMX6slLiekdyfyIJDwUJRaMZwhnTmcIZ04?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60341550/%E7%83%8F%E5%85%8B%E8%98%AD%E5%9F%BA%E8%BC%94%E6%A7%8D%E6%93%8A-6%E4%BA%BA%E6%AD%BB%E4%BA%A1-%E6%A7%8D%E6%89%8B%E9%81%AD%E6%93%8A%E6%96%83",
+    "timestamp": "2026-04-18T17:21:03.659Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "烏克蘭基輔槍擊　5人死亡　槍手遭擊斃",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260418/1122139582511452160856923.jpeg/TfSA0a__5LxvLsu_qQtL-XcUIuwjJK7MYaQP3mGkD94",
     "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60341450/%E5%B0%84%E7%A8%8B6%E7%B1%B3%E6%AF%8F%E7%A7%92%E6%9C%80%E5%A4%9A%E6%93%8A%E8%90%BD30%E9%9A%BB%E8%9A%8A%E5%AD%90-%E5%9C%8B%E7%94%A2ai%E6%BF%80%E5%85%89-%E6%BB%85%E8%9A%8A%E7%A5%9E%E5%99%A8-%E7%88%86%E7%B4%85-%E6%9C%89%E7%89%87",
     "timestamp": "2026-04-18T06:47:20.147Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "鄧兆尊自揭三房和睦相處秘訣　大爆三位女伴唔物質生日唔使送禮",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260418/1122172718674874368764289.jpeg/3UCV_rawdNJ8fUB9vA85y58t2tzkcdnqAWC11gFgtdY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60341183/%E9%84%A7%E5%85%86%E5%B0%8A%E8%87%AA%E6%8F%AD%E4%B8%89%E6%88%BF%E5%92%8C%E7%9D%A6%E7%9B%B8%E8%99%95%E7%A7%98%E8%A8%A3-%E5%A4%A7%E7%88%86%E4%B8%89%E4%BD%8D%E5%A5%B3%E4%BC%B4%E5%94%94%E7%89%A9%E8%B3%AA%E7%94%9F%E6%97%A5%E5%94%94%E4%BD%BF%E9%80%81%E7%A6%AE",
-    "timestamp": "2026-04-18T06:04:52.664Z",
     "strategy": ".content-card__main"
   }
 ];
