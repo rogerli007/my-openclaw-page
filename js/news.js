@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-18T02:47:39.112Z
+// Last updated: 2026-04-18T06:04:52.664Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "鄧兆尊自揭三房和睦相處秘訣　大爆三位女伴唔物質生日唔使送禮",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260418/1122172718674874368764289.jpeg/3UCV_rawdNJ8fUB9vA85y58t2tzkcdnqAWC11gFgtdY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60341183/%E9%84%A7%E5%85%86%E5%B0%8A%E8%87%AA%E6%8F%AD%E4%B8%89%E6%88%BF%E5%92%8C%E7%9D%A6%E7%9B%B8%E8%99%95%E7%A7%98%E8%A8%A3-%E5%A4%A7%E7%88%86%E4%B8%89%E4%BD%8D%E5%A5%B3%E4%BC%B4%E5%94%94%E7%89%A9%E8%B3%AA%E7%94%9F%E6%97%A5%E5%94%94%E4%BD%BF%E9%80%81%E7%A6%AE",
+    "timestamp": "2026-04-18T06:04:52.664Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "啟德海灣第2期今首輪發售160伙　準買家陸續到場",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260417/1121862376220528640295367.jpeg/O4geLQjbuZhc02yeXTNJ0ax96iL2fwQROq7WrB-u1qw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60341307/%E5%85%A9%E8%B3%8A%E6%AC%B2%E7%88%86%E7%AB%8A%E8%A7%80%E5%A1%98%E5%B7%A5%E5%BB%88pok%C3%A9mon%E5%8D%A1%E5%B0%88%E9%96%80%E5%BA%97-%E8%AD%A6%E5%9F%8B%E4%BC%8F%E6%8B%98%E6%8D%95-%E6%AA%A2%E9%9B%BB%E9%91%BD%E7%AD%89%E5%B7%A5%E5%85%B7",
     "timestamp": "2026-04-17T09:52:39.420Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "勞工法例病假怎計算　有薪病假法定上限　醫生紙與到診紙分別",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260330/1115335960364584960094176.png/RVLR5sAQKQeqNDw4MvmCAieuexMb8Dimo_hEKKP4RCg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%81%B7%E5%A0%B4/60335650/%E5%8B%9E%E5%B7%A5%E6%B3%95%E4%BE%8B%E7%97%85%E5%81%87%E6%80%8E%E8%A8%88%E7%AE%97-%E6%9C%89%E8%96%AA%E7%97%85%E5%81%87%E6%B3%95%E5%AE%9A%E4%B8%8A%E9%99%90-%E9%86%AB%E7%94%9F%E7%B4%99%E8%88%87%E5%88%B0%E8%A8%BA%E7%B4%99%E5%88%86%E5%88%A5",
-    "timestamp": "2026-04-17T09:07:18.886Z",
     "strategy": ".content-card__main"
   }
 ];
