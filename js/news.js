@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-18T08:35:41.159Z
+// Last updated: 2026-04-18T09:08:58.932Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "梅州旅遊｜客家美食必吃醃麵三及第湯　景點打卡松口古鎮/千佛塔",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260418/1121972424225591296754032.jpeg/xlSkvYPE3i2JdJ7gke6-wQIIz2iayFp_-Pqa6vj6muo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%97%85%E9%81%8A/60339383/%E6%A2%85%E5%B7%9E%E6%97%85%E9%81%8A-%E5%AE%A2%E5%AE%B6%E7%BE%8E%E9%A3%9F%E5%BF%85%E5%90%83%E9%86%83%E9%BA%B5%E4%B8%89%E5%8F%8A%E7%AC%AC%E6%B9%AF-%E6%99%AF%E9%BB%9E%E6%89%93%E5%8D%A1%E6%9D%BE%E5%8F%A3%E5%8F%A4%E9%8E%AE-%E5%8D%83%E4%BD%9B%E5%A1%94",
+    "timestamp": "2026-04-18T09:08:58.932Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "日本11歲男童被殺案　日媒：繼父疑曾公廁藏屍　警方緊急封鎖採證",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260417/1121783718432739328140927.jpeg/CBTp_xleuG4gd98CrTSdr9POQt46mDXohsZlbYbGZW0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60341015/honor-600-pro%E6%B7%B1%E5%BA%A6%E8%A9%95%E6%B8%AC-ai%E5%89%B5%E4%BD%9C%E5%8D%87%E7%B4%9A-2%E5%84%84%E5%83%8F%E7%B4%A0%E5%B0%88%E6%A5%AD%E5%BD%B1%E5%83%8F%E5%A4%A7%E7%8E%A9ai%E5%BD%B1%E7%89%87",
     "timestamp": "2026-04-17T16:13:25.785Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "西方軍情：伊朗戰前規劃最大限度保留軍事打擊能力",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260407/1118005578560573440601487.jpeg/fwRQlDhbT2RDWSAMI5scIQvAgNVDm_dlCFvoOwhb6Ds?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60341384/%E8%A5%BF%E6%96%B9%E8%BB%8D%E6%83%85-%E4%BC%8A%E6%9C%97%E6%88%B0%E5%89%8D%E8%A6%8F%E5%8A%83%E6%9C%80%E5%A4%A7%E9%99%90%E5%BA%A6%E4%BF%9D%E7%95%99%E8%BB%8D%E4%BA%8B%E6%89%93%E6%93%8A%E8%83%BD%E5%8A%9B",
-    "timestamp": "2026-04-17T15:43:46.476Z",
     "strategy": ".content-card__main"
   }
 ];
