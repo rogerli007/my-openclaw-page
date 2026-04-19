@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-19T10:33:04.841Z
+// Last updated: 2026-04-19T11:22:22.688Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "東部戰區組織133號艦艇編隊赴西太平洋海域開展演訓活動",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260419/1122612707661451264632504.png/rKoINL3S-mRUejdrJZsy1bDsotRoP5r9ykwRn8pMEZ8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60341681/%E6%9D%B1%E9%83%A8%E6%88%B0%E5%8D%80%E7%B5%84%E7%B9%94133%E8%99%9F%E8%89%A6%E8%89%87%E7%B7%A8%E9%9A%8A%E8%B5%B4%E8%A5%BF%E5%A4%AA%E5%B9%B3%E6%B4%8B%E6%B5%B7%E5%9F%9F%E9%96%8B%E5%B1%95%E6%BC%94%E8%A8%93%E6%B4%BB%E5%8B%95",
+    "timestamp": "2026-04-19T11:22:22.688Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "金像獎｜訪問背景出現《尋秦記》船　谷德昭：丟你支持嗰套戲嘅架",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260419/1122332586257944576731029.jpeg/jpuQXjGDqNMX6slLiekdyfyIJDwUJRaMZwhnTmcIZ04?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60341550/%E7%83%8F%E5%85%8B%E8%98%AD%E5%9F%BA%E8%BC%94%E6%A7%8D%E6%93%8A-6%E4%BA%BA%E6%AD%BB%E4%BA%A1-%E6%A7%8D%E6%89%8B%E9%81%AD%E6%93%8A%E6%96%83",
     "timestamp": "2026-04-18T17:21:03.659Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "烏克蘭基輔槍擊　5人死亡　槍手遭擊斃",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260419/1122332586257944576731029.jpeg/jpuQXjGDqNMX6slLiekdyfyIJDwUJRaMZwhnTmcIZ04?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60341550/%E7%83%8F%E5%85%8B%E8%98%AD%E5%9F%BA%E8%BC%94%E6%A7%8D%E6%93%8A-5%E4%BA%BA%E6%AD%BB%E4%BA%A1-%E6%A7%8D%E6%89%8B%E9%81%AD%E6%93%8A%E6%96%83",
-    "timestamp": "2026-04-18T16:52:14.063Z",
     "strategy": ".content-card__main"
   }
 ];
