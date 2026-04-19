@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-19T00:55:55.429Z
+// Last updated: 2026-04-19T01:44:42.170Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "場地單車世界盃香港站｜杜棹熙競輪賽闖決賽　摘第五創生涯最佳",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260419/1122463377965191168013684.jpeg/jUSORrfDHwxoZSSijjs2O3nOfslmS1hHEY0XpRGNF6U?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60341568/%E5%A0%B4%E5%9C%B0%E5%96%AE%E8%BB%8A%E4%B8%96%E7%95%8C%E7%9B%83%E9%A6%99%E6%B8%AF%E7%AB%99-%E6%9D%9C%E6%A3%B9%E7%86%99%E7%AB%B6%E8%BC%AA%E8%B3%BD%E9%97%96%E6%B1%BA%E8%B3%BD-%E6%91%98%E7%AC%AC%E4%BA%94%E5%89%B5%E7%94%9F%E6%B6%AF%E6%9C%80%E4%BD%B3",
+    "timestamp": "2026-04-19T01:44:42.170Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "謝玲玲做拉伸運動曝光4億九龍塘獨立屋　露台景觀開揚設健身室",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260417/1121800918484914176548706.jpeg/wFGK2p19iwwoqS71xUz-ys0vKaQZYvOe3d_it93f4rc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E8%A9%B1%E9%A1%8C/60341162/%E9%80%80%E5%BD%B9av%E5%A5%B3%E5%84%AA%E6%A1%83%E4%B9%83%E6%9C%A8%E9%A6%99%E5%A5%88%E7%8F%BE%E8%BA%AB%E5%8F%B0%E5%8C%97%E6%A3%92%E7%90%83%E5%A0%B4-%E7%90%83%E8%BF%B7%E7%98%8B%E6%90%B6%E5%90%88%E7%85%A7-%E5%85%A8%E5%A0%B4%E8%BD%9F%E5%8B%95",
     "timestamp": "2026-04-18T12:54:19.800Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美國尖端研究領域11科學家接連死亡或失蹤引關注　特朗普承諾徹查",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260415/1121025551084032000352814.png/hxum5_0onlcrxbSe1ojfWVgJUjJ2VedEVOJCjlTiQo4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60341521/%E7%BE%8E%E5%9C%8B%E5%B0%96%E7%AB%AF%E7%A0%94%E7%A9%B6%E9%A0%98%E5%9F%9F11%E7%A7%91%E5%AD%B8%E5%AE%B6%E6%8E%A5%E9%80%A3%E6%AD%BB%E4%BA%A1%E6%88%96%E5%A4%B1%E8%B9%A4%E5%BC%95%E9%97%9C%E6%B3%A8-%E7%89%B9%E6%9C%97%E6%99%AE%E6%89%BF%E8%AB%BE%E5%BE%B9%E6%9F%A5",
-    "timestamp": "2026-04-18T12:24:53.578Z",
     "strategy": ".content-card__main"
   }
 ];
