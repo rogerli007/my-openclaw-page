@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-19T21:51:11.256Z
+// Last updated: 2026-04-19T22:20:16.385Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "穀雨天氣｜今早局部能見度頗低　稍後有驟雨局部有雷暴　最高29度",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260420/1122777551337426944457963.jpeg/Mxtnen1pcUoBtMatdn9R_SGC2HI2x_xaVwzwjFcM8Iw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60341738/%E7%A9%80%E9%9B%A8%E5%A4%A9%E6%B0%A3-%E4%BB%8A%E6%97%A9%E5%B1%80%E9%83%A8%E8%83%BD%E8%A6%8B%E5%BA%A6%E9%A0%97%E4%BD%8E-%E7%A8%8D%E5%BE%8C%E6%9C%89%E9%A9%9F%E9%9B%A8%E5%B1%80%E9%83%A8%E6%9C%89%E9%9B%B7%E6%9A%B4-%E6%9C%80%E9%AB%9829%E5%BA%A6",
+    "timestamp": "2026-04-19T22:20:16.385Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "伊媒：伊朗已為戰火重燃做好準備　認為可能性高於繼續談判",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260419/1122527210998075392273408.jpeg/9jQ6Q-NAa68ZmBBoWcZHdYC4So3DpLwvSf4dA0n-HQM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60341602/%E4%B8%80%E5%91%A8%E6%98%9F%E6%98%9F-%E6%A2%81%E6%80%9D%E6%B5%A9%E8%A6%AA%E7%88%86%E6%B1%9F%E7%BE%8E%E5%84%80%E6%88%90%E6%97%A5%E7%95%80%E4%BA%BA%E8%9D%A6-%E6%9B%BE%E7%88%86%E5%96%8A%E8%87%B4%E9%9B%BB%E8%A8%B4%E8%8B%A6%E5%95%8F%E9%BB%9E%E8%A7%A3",
     "timestamp": "2026-04-19T06:01:16.992Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "真主黨領袖：停火不可單方遵守　已準備好回應以色列違反停火行為",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260419/1122480968171524096763214.jpeg/JTftcEhbfPPoH20Nk1jlXq8GlpsAGaqHiUAzs4lAM7M?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60341575/%E7%9C%9F%E4%B8%BB%E9%BB%A8%E9%A0%98%E8%A2%96-%E5%81%9C%E7%81%AB%E4%B8%8D%E5%8F%AF%E5%96%AE%E6%96%B9%E9%81%B5%E5%AE%88-%E5%B7%B2%E6%BA%96%E5%82%99%E5%A5%BD%E5%9B%9E%E6%87%89%E4%BB%A5%E8%89%B2%E5%88%97%E9%81%95%E5%8F%8D%E5%81%9C%E7%81%AB%E8%A1%8C%E7%82%BA",
-    "timestamp": "2026-04-19T02:46:31.233Z",
     "strategy": ".content-card__main"
   }
 ];
