@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-19T15:52:11.817Z
+// Last updated: 2026-04-19T16:25:34.485Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "特朗普：如美伊達成協議　很可能親赴伊斯蘭堡",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260407/1117999102920364032790526.jpeg/Qg7R5M97u-H7wwaVNelG5FBJvD6pcqj8_AdsQPwHbEA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60341735/%E7%89%B9%E6%9C%97%E6%99%AE-%E5%A6%82%E7%BE%8E%E4%BC%8A%E9%81%94%E6%88%90%E5%8D%94%E8%AD%B0-%E5%BE%88%E5%8F%AF%E8%83%BD%E8%A6%AA%E8%B5%B4%E4%BC%8A%E6%96%AF%E8%98%AD%E5%A0%A1",
+    "timestamp": "2026-04-19T16:25:34.485Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "七欖｜馬會支持國際欖球盛事　推社區計劃惠及逾12000人",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/282692/org/e10d765255ef28c955d7666f31417cd1.jpg/iW4FvxyPNbDBkgbV-x6BaXYI5FgZfoGcCf9jNwn_Yzc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60341556/%E7%89%9B%E9%A0%AD%E8%A7%92%E5%96%AE%E4%BD%8D%E9%96%80%E5%A4%96%E9%9B%9C%E7%89%A9%E8%B5%B7%E7%81%AB-%E8%AD%A6%E5%88%91%E4%BA%8B%E8%AA%BF%E6%9F%A5%E9%9A%8A%E5%88%97-%E7%B8%B1%E7%81%AB-%E8%AA%BF%E6%9F%A5",
     "timestamp": "2026-04-18T21:22:08.837Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "伊朗宣布關閉霍爾木茲海峽",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260417/1121881875229446144842537.jpeg/K1YBEVI5vReo1fzlOyy7P9j3tc2hZ4bk9t2WxfbdlsU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60341553/%E4%BC%8A%E6%9C%97%E5%AE%A3%E5%B8%83%E9%97%9C%E9%96%89%E9%9C%8D%E7%88%BE%E6%9C%A8%E8%8C%B2%E6%B5%B7%E5%B3%BD",
-    "timestamp": "2026-04-18T20:39:07.360Z",
     "strategy": ".content-card__main"
   }
 ];
