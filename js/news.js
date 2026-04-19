@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-18T23:50:59.771Z
+// Last updated: 2026-04-19T00:55:55.429Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "謝玲玲做拉伸運動曝光4億九龍塘獨立屋　露台景觀開揚設健身室",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260418/1122228491291463680925786.jpeg/HRPviaNYrPmKf70nITIRAXRoIz7YD6oJpTomxKU6JsQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60332178/%E8%AC%9D%E7%8E%B2%E7%8E%B2%E5%81%9A%E9%81%8B%E5%8B%95%E6%9B%9D%E5%85%894%E5%84%84%E4%B9%9D%E9%BE%8D%E5%A1%98%E7%8D%A8%E7%AB%8B%E5%B1%8B-%E9%9C%B2%E5%8F%B0%E6%99%AF%E8%A7%80%E9%96%8B%E6%8F%9A%E8%A8%AD%E5%81%A5%E8%BA%AB%E5%AE%A4",
+    "timestamp": "2026-04-19T00:55:55.429Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "歐爾班執政生涯將完？匈牙利國會選舉最終結果：蒂薩黨逾七成議席",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260415/1121025551084032000352814.png/hxum5_0onlcrxbSe1ojfWVgJUjJ2VedEVOJCjlTiQo4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60341521/%E7%BE%8E%E5%9C%8B%E5%B0%96%E7%AB%AF%E7%A0%94%E7%A9%B6%E9%A0%98%E5%9F%9F11%E7%A7%91%E5%AD%B8%E5%AE%B6%E6%8E%A5%E9%80%A3%E6%AD%BB%E4%BA%A1%E6%88%96%E5%A4%B1%E8%B9%A4%E5%BC%95%E9%97%9C%E6%B3%A8-%E7%89%B9%E6%9C%97%E6%99%AE%E6%89%BF%E8%AB%BE%E5%BE%B9%E6%9F%A5",
     "timestamp": "2026-04-18T12:24:53.578Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "試真D丨江美儀批海鮮如灰甲惹議　一句觸動神經：不要評論我媽媽",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260418/1122248243619565568430276.png/OHY23hmKQUpvLOqiL_M4x_79P57dEXxc7L0V-uy9Ffo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60341518/%E8%A9%A6%E7%9C%9Fd-%E6%B1%9F%E7%BE%8E%E5%84%80%E6%89%B9%E6%B5%B7%E9%AE%AE%E5%A6%82%E7%81%B0%E7%94%B2%E6%83%B9%E8%AD%B0-%E4%B8%80%E5%8F%A5%E8%A7%B8%E5%8B%95%E7%A5%9E%E7%B6%93-%E4%B8%8D%E8%A6%81%E8%A9%95%E8%AB%96%E6%88%91%E5%AA%BD%E5%AA%BD",
-    "timestamp": "2026-04-18T11:50:48.986Z",
     "strategy": ".content-card__main"
   }
 ];
