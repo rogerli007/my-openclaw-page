@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-19T17:51:09.256Z
+// Last updated: 2026-04-19T18:24:51.452Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "金像獎2026｜杜德偉難忘梁家輝教演戲：佢用五種方式去演一個角色",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260420/1122713520723464192480716.jpeg/3gkEl7uEAYJsuzGUTcTJ9kOlCSycJevFYgvlm2IL5Zs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60341744/%E9%87%91%E5%83%8F%E7%8D%8E2026-%E6%9D%9C%E5%BE%B7%E5%81%89%E9%9B%A3%E5%BF%98%E6%A2%81%E5%AE%B6%E8%BC%9D%E6%95%99%E6%BC%94%E6%88%B2-%E4%BD%A2%E7%94%A8%E4%BA%94%E7%A8%AE%E6%96%B9%E5%BC%8F%E5%8E%BB%E6%BC%94%E4%B8%80%E5%80%8B%E8%A7%92%E8%89%B2",
+    "timestamp": "2026-04-19T18:24:51.452Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "英超｜曼城2：1擊敗阿仙奴　落後3分但少踢一場",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260419/1122434163199184896687153.jpeg/pyWmSLeJsDHGz-Wp-EM2-K-lkvROYKpn1asaCtWrGgo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60341560/%E6%AD%90%E7%88%BE%E7%8F%AD%E5%9F%B7%E6%94%BF%E7%94%9F%E6%B6%AF%E5%B0%87%E5%AE%8C-%E5%8C%88%E7%89%99%E5%88%A9%E5%9C%8B%E6%9C%83%E9%81%B8%E8%88%89%E6%9C%80%E7%B5%82%E7%B5%90%E6%9E%9C-%E8%92%82%E8%96%A9%E9%BB%A8%E9%80%BE%E4%B8%83%E6%88%90%E8%AD%B0%E5%B8%AD",
     "timestamp": "2026-04-18T23:50:59.771Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "英超｜曼聯1：0車路士",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260419/1122427674875138048510398.jpeg/kKfajFy_cy1gKunHqRlmzr5Xq6quf7ewyHYrEch2KxE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60341559/%E8%8B%B1%E8%B6%85-%E6%9B%BC%E8%81%AF1-0%E8%BB%8A%E8%B7%AF%E5%A3%AB",
-    "timestamp": "2026-04-18T23:03:09.584Z",
     "strategy": ".content-card__main"
   }
 ];
