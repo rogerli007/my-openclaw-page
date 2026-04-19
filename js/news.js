@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-19T15:25:03.446Z
+// Last updated: 2026-04-19T15:52:11.817Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "七欖｜馬會支持國際欖球盛事　推社區計劃惠及逾12000人",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260419/1122679782593662976816597.jpeg/UWnX-gK4lNesSHFgpp7K51CQy8b7r6YsXh7Fdl4exXY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60341731/%E4%B8%83%E6%AC%96-%E9%A6%AC%E6%9C%83%E6%94%AF%E6%8C%81%E5%9C%8B%E9%9A%9B%E6%AC%96%E7%90%83%E7%9B%9B%E4%BA%8B-%E6%8E%A8%E7%A4%BE%E5%8D%80%E8%A8%88%E5%8A%83%E6%83%A0%E5%8F%8A%E9%80%BE12000%E4%BA%BA",
+    "timestamp": "2026-04-19T15:52:11.817Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "翠屏北邨通過暫緩所有大維修及外牆修葺等工程　終止鴻毅顧問工作",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260417/1121881875229446144842537.jpeg/K1YBEVI5vReo1fzlOyy7P9j3tc2hZ4bk9t2WxfbdlsU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60341553/%E4%BC%8A%E6%9C%97%E5%AE%A3%E5%B8%83%E9%97%9C%E9%96%89%E9%9C%8D%E7%88%BE%E6%9C%A8%E8%8C%B2%E6%B5%B7%E5%B3%BD",
     "timestamp": "2026-04-18T20:39:07.360Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "伊朗宣布關閉霍爾木茲海峽",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260417/1121881875229446144842537.jpeg/K1YBEVI5vReo1fzlOyy7P9j3tc2hZ4bk9t2WxfbdlsU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60341553/%E4%BC%8A%E6%9C%97%E5%AE%A3%E5%B8%83%E9%97%9C%E9%96%89%E9%9C%8D%E7%88%BE%E6%9C%A8%E8%8C%B2%E6%B5%B7%E5%B3%BD",
-    "timestamp": "2026-04-18T20:19:24.929Z",
     "strategy": ".content-card__main"
   }
 ];
