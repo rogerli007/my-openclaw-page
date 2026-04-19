@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-19T09:39:24.278Z
+// Last updated: 2026-04-19T10:33:04.841Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "金像獎｜訪問背景出現《尋秦記》船　谷德昭：丟你支持嗰套戲嘅架",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260419/1122599806552772608195076.jpeg/QsuvgNqXjGF5vSC6oR0VTY4CkZ70w_JKAMRUagDEVGo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60341668/%E9%87%91%E5%83%8F%E7%8D%8E-%E8%A8%AA%E5%95%8F%E8%83%8C%E6%99%AF%E5%87%BA%E7%8F%BE-%E5%B0%8B%E7%A7%A6%E8%A8%98-%E8%88%B9-%E8%B0%B7%E5%BE%B7%E6%98%AD-%E4%B8%9F%E4%BD%A0%E6%94%AF%E6%8C%81%E5%97%B0%E5%A5%97%E6%88%B2%E5%98%85%E6%9E%B6",
+    "timestamp": "2026-04-19T10:33:04.841Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "金像獎紅地氈｜泰妹楊雅文性感危險邊緣　大露背心口得兩條布遮住",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260419/1122332586257944576731029.jpeg/jpuQXjGDqNMX6slLiekdyfyIJDwUJRaMZwhnTmcIZ04?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60341550/%E7%83%8F%E5%85%8B%E8%98%AD%E5%9F%BA%E8%BC%94%E6%A7%8D%E6%93%8A-5%E4%BA%BA%E6%AD%BB%E4%BA%A1-%E6%A7%8D%E6%89%8B%E9%81%AD%E6%93%8A%E6%96%83",
     "timestamp": "2026-04-18T16:52:14.063Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "寒戰1994｜謝君豪連摑吳慷仁6大巴　事後要休息3日︰我係咪重手咗",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260418/1122311460723101696857061.jpeg/jXrN6QO2Iv520QrkjbdQ_bagWrVkD6M5KUA2pylANqc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60341542/%E5%AF%92%E6%88%B01994-%E8%AC%9D%E5%90%9B%E8%B1%AA%E9%80%A3%E6%91%91%E5%90%B3%E6%85%B7%E4%BB%816%E5%A4%A7%E5%B7%B4-%E4%BA%8B%E5%BE%8C%E8%A6%81%E4%BC%91%E6%81%AF3%E6%97%A5-%E6%88%91%E4%BF%82%E5%92%AA%E9%87%8D%E6%89%8B%E5%92%97",
-    "timestamp": "2026-04-18T16:21:10.872Z",
     "strategy": ".content-card__main"
   }
 ];
