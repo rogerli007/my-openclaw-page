@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-19T16:53:10.397Z
+// Last updated: 2026-04-19T17:51:09.256Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "英超｜曼城2：1擊敗阿仙奴　落後3分但少踢一場",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260420/1122707912469254144695204.jpeg/p76whonFA1Gs2PjdijHJpWOklDQNa5_0xEwE_sRMBP4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60341742/%E8%8B%B1%E8%B6%85-%E6%9B%BC%E5%9F%8E2-1%E6%93%8A%E6%95%97%E9%98%BF%E4%BB%99%E5%A5%B4-%E8%90%BD%E5%BE%8C3%E5%88%86%E4%BD%86%E5%B0%91%E8%B8%A2%E4%B8%80%E5%A0%B4",
+    "timestamp": "2026-04-19T17:51:09.256Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "英超︱雲迪積克領利物浦挫愛華頓　沙拿最後一次打吡平謝拉特紀錄",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260419/1122427674875138048510398.jpeg/kKfajFy_cy1gKunHqRlmzr5Xq6quf7ewyHYrEch2KxE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60341559/%E8%8B%B1%E8%B6%85-%E6%9B%BC%E8%81%AF1-0%E8%BB%8A%E8%B7%AF%E5%A3%AB",
     "timestamp": "2026-04-18T23:03:09.584Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "警新界北一連兩日執法　拘7人涉危險駕駛、酒後駕駛等6罪",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260419/1122418264916365312986350.jpeg/KpiH3rckRjsqoIooERtFw28VwVAp0m41_TbLWf02y1k?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60341557/%E8%AD%A6%E6%96%B0%E7%95%8C%E5%8C%97%E4%B8%80%E9%80%A3%E5%85%A9%E6%97%A5%E5%9F%B7%E6%B3%95-%E6%8B%987%E4%BA%BA%E6%B6%89%E5%8D%B1%E9%9A%AA%E9%A7%95%E9%A7%9B-%E9%85%92%E5%BE%8C%E9%A7%95%E9%A7%9B%E7%AD%896%E7%BD%AA",
-    "timestamp": "2026-04-18T22:35:13.012Z",
     "strategy": ".content-card__main"
   }
 ];
