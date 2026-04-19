@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-19T18:24:51.452Z
+// Last updated: 2026-04-19T19:51:10.211Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "加拿大總理：與美關係優勢變劣勢　需藉外貿易多樣化應對挑戰",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260123/1091247353840537600205187.jpeg/D4SVGvoOBOX-OlEHv-vN4X9arS9SlWbG51C-xedQvsU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60341745/%E5%8A%A0%E6%8B%BF%E5%A4%A7%E7%B8%BD%E7%90%86-%E8%88%87%E7%BE%8E%E9%97%9C%E4%BF%82%E5%84%AA%E5%8B%A2%E8%AE%8A%E5%8A%A3%E5%8B%A2-%E9%9C%80%E8%97%89%E5%A4%96%E8%B2%BF%E6%98%93%E5%A4%9A%E6%A8%A3%E5%8C%96%E6%87%89%E5%B0%8D%E6%8C%91%E6%88%B0",
+    "timestamp": "2026-04-19T19:51:10.211Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "金像獎2026｜杜德偉難忘梁家輝教演戲：佢用五種方式去演一個角色",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260418/1122228491291463680925786.jpeg/HRPviaNYrPmKf70nITIRAXRoIz7YD6oJpTomxKU6JsQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60332178/%E8%AC%9D%E7%8E%B2%E7%8E%B2%E5%81%9A%E9%81%8B%E5%8B%95%E6%9B%9D%E5%85%894%E5%84%84%E4%B9%9D%E9%BE%8D%E5%A1%98%E7%8D%A8%E7%AB%8B%E5%B1%8B-%E9%9C%B2%E5%8F%B0%E6%99%AF%E8%A7%80%E9%96%8B%E6%8F%9A%E8%A8%AD%E5%81%A5%E8%BA%AB%E5%AE%A4",
     "timestamp": "2026-04-19T00:55:55.429Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "歐爾班執政生涯將完？匈牙利國會選舉最終結果：蒂薩黨逾七成議席",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260419/1122434163199184896687153.jpeg/pyWmSLeJsDHGz-Wp-EM2-K-lkvROYKpn1asaCtWrGgo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60341560/%E6%AD%90%E7%88%BE%E7%8F%AD%E5%9F%B7%E6%94%BF%E7%94%9F%E6%B6%AF%E5%B0%87%E5%AE%8C-%E5%8C%88%E7%89%99%E5%88%A9%E5%9C%8B%E6%9C%83%E9%81%B8%E8%88%89%E6%9C%80%E7%B5%82%E7%B5%90%E6%9E%9C-%E8%92%82%E8%96%A9%E9%BB%A8%E9%80%BE%E4%B8%83%E6%88%90%E8%AD%B0%E5%B8%AD",
-    "timestamp": "2026-04-18T23:50:59.771Z",
     "strategy": ".content-card__main"
   }
 ];
