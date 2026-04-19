@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-19T08:14:18.013Z
+// Last updated: 2026-04-19T08:39:15.595Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "路透社：伊朗戰爭爆發近50天　全球石油收入損失逾500億美元",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260413/1120337672703840256301784.jpeg/f-3lwV4XXe6SxUqOwKULlNmSQEe7-uBC8mw8BfJsPAU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60341625/%E8%B7%AF%E9%80%8F%E7%A4%BE-%E4%BC%8A%E6%9C%97%E6%88%B0%E7%88%AD%E7%88%86%E7%99%BC%E8%BF%9150%E5%A4%A9-%E5%85%A8%E7%90%83%E7%9F%B3%E6%B2%B9%E6%94%B6%E5%85%A5%E6%90%8D%E5%A4%B1%E9%80%BE500%E5%84%84%E7%BE%8E%E5%85%83",
+    "timestamp": "2026-04-19T08:39:15.595Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "房委會「共築創業家2.0」逾70商舖供青年創業　規模達首階段7倍",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260418/1122223960281321472769538.jpeg/p4g5dRS2IpJotD1lriHB0_8slsx-UMuQ0NGNx_rRjcc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60341535/%E5%A4%A7%E7%B6%AD%E4%BF%AE%E6%93%AC%E5%8D%87%E6%A0%BC%E8%81%98%E7%AC%AC%E4%B8%89%E6%96%B9%E7%9B%A3%E7%9D%A3-%E5%AF%8C%E5%96%84%E5%B1%85%E6%B0%91%E6%8C%87%E5%8A%A9%E7%90%86%E8%A7%A3%E5%B7%A5%E7%A8%8B-%E5%8A%A0%E5%83%B9%E5%94%94%E4%BF%82%E5%95%8F%E9%A1%8C",
     "timestamp": "2026-04-18T15:23:02.679Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "國家氣候中心料5月進入厄爾尼諾狀態　強度中等及以上",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260418/1122282011671662592429103.jpeg/TZ1kAJreBrO7y75yolZHfP1fDqck5eUHWgtg0loLYNI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60341531/%E5%9C%8B%E5%AE%B6%E6%B0%A3%E5%80%99%E4%B8%AD%E5%BF%83%E6%96%995%E6%9C%88%E9%80%B2%E5%85%A5%E5%8E%84%E7%88%BE%E5%B0%BC%E8%AB%BE%E7%8B%80%E6%85%8B-%E5%BC%B7%E5%BA%A6%E4%B8%AD%E7%AD%89%E5%8F%8A%E4%BB%A5%E4%B8%8A",
-    "timestamp": "2026-04-18T14:59:08.619Z",
     "strategy": ".content-card__main"
   }
 ];
