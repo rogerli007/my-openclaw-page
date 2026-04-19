@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-19T16:25:34.485Z
+// Last updated: 2026-04-19T16:53:10.397Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "英超︱雲迪積克領利物浦挫愛華頓　沙拿最後一次打吡平謝拉特紀錄",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260419/1122676773373349888345708.jpeg/gFaGqDAJpIbZfJZKGd3sPjgLIBEqj7EWADeN_QA3jf0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60341730/%E8%8B%B1%E8%B6%85-%E9%9B%B2%E8%BF%AA%E7%A9%8D%E5%85%8B%E9%A0%98%E5%88%A9%E7%89%A9%E6%B5%A6%E6%8C%AB%E6%84%9B%E8%8F%AF%E9%A0%93-%E6%B2%99%E6%8B%BF%E6%9C%80%E5%BE%8C%E4%B8%80%E6%AC%A1%E6%89%93%E5%90%A1%E5%B9%B3%E8%AC%9D%E6%8B%89%E7%89%B9%E7%B4%80%E9%8C%84",
+    "timestamp": "2026-04-19T16:53:10.397Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "特朗普：如美伊達成協議　很可能親赴伊斯蘭堡",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260419/1122418264916365312986350.jpeg/KpiH3rckRjsqoIooERtFw28VwVAp0m41_TbLWf02y1k?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60341557/%E8%AD%A6%E6%96%B0%E7%95%8C%E5%8C%97%E4%B8%80%E9%80%A3%E5%85%A9%E6%97%A5%E5%9F%B7%E6%B3%95-%E6%8B%987%E4%BA%BA%E6%B6%89%E5%8D%B1%E9%9A%AA%E9%A7%95%E9%A7%9B-%E9%85%92%E5%BE%8C%E9%A7%95%E9%A7%9B%E7%AD%896%E7%BD%AA",
     "timestamp": "2026-04-18T22:35:13.012Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "牛頭角單位門外雜物起火　警刑事調查隊列「縱火」調查",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/282692/org/e10d765255ef28c955d7666f31417cd1.jpg/iW4FvxyPNbDBkgbV-x6BaXYI5FgZfoGcCf9jNwn_Yzc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60341556/%E7%89%9B%E9%A0%AD%E8%A7%92%E5%96%AE%E4%BD%8D%E9%96%80%E5%A4%96%E9%9B%9C%E7%89%A9%E8%B5%B7%E7%81%AB-%E8%AD%A6%E5%88%91%E4%BA%8B%E8%AA%BF%E6%9F%A5%E9%9A%8A%E5%88%97-%E7%B8%B1%E7%81%AB-%E8%AA%BF%E6%9F%A5",
-    "timestamp": "2026-04-18T21:22:08.837Z",
     "strategy": ".content-card__main"
   }
 ];
