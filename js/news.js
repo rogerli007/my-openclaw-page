@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-19T12:54:06.071Z
+// Last updated: 2026-04-19T14:09:04.582Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "將軍澳持刀．內情｜16歲仔持膠刀扮遊戲角色玩捉伊人　警口頭警告",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260419/1122461938626859008124859.png/b5WAZObWh3NrFm3dXTlrXHvAJfvAWxEhMi84mDIvOJg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60341710/%E5%B0%87%E8%BB%8D%E6%BE%B3%E6%8C%81%E5%88%80-%E5%85%A7%E6%83%85-16%E6%AD%B2%E4%BB%94%E6%8C%81%E8%86%A0%E5%88%80%E6%89%AE%E9%81%8A%E6%88%B2%E8%A7%92%E8%89%B2%E7%8E%A9%E6%8D%89%E4%BC%8A%E4%BA%BA-%E8%AD%A6%E5%8F%A3%E9%A0%AD%E8%AD%A6%E5%91%8A",
+    "timestamp": "2026-04-19T14:09:04.582Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "金像獎2026｜周潤發多謝朱家欣驚揭神秘關係：冇佢老爹我畢唔到業",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260418/1122277072757067776790153.jpeg/MMQ6fTI_Nd1h6RE3-1KAon97H7aViAJwh_V1KYf1dSk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60341552/%E8%8B%B1%E5%9C%8B%E6%B5%B7%E4%B8%8A%E8%B2%BF%E6%98%93%E8%A1%8C%E5%8B%95%E8%BE%A6%E5%85%AC%E5%AE%A4-%E9%9C%8D%E7%88%BE%E6%9C%A8%E8%8C%B2%E6%B5%B7%E5%B3%BD%E9%99%84%E8%BF%91%E7%99%BC%E7%94%9F%E5%A4%9A%E5%AE%97%E8%88%B9%E9%9A%BB%E9%81%87%E8%A5%B2%E4%BA%8B%E4%BB%B6",
     "timestamp": "2026-04-18T18:53:38.828Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "伊朗最高國安委：接獲美國經巴基斯坦轉交新提議　正在研究",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260415/1121219918818185216807235.jpeg/XhcxnPuAu4ncaUKjLDOaslGOp6AxE7pYyvI1DsryNQ4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60341551/%E4%BC%8A%E6%9C%97%E6%9C%80%E9%AB%98%E5%9C%8B%E5%AE%89%E5%A7%94-%E6%8E%A5%E7%8D%B2%E7%BE%8E%E5%9C%8B%E7%B6%93%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E8%BD%89%E4%BA%A4%E6%96%B0%E6%8F%90%E8%AD%B0-%E6%AD%A3%E5%9C%A8%E7%A0%94%E7%A9%B6",
-    "timestamp": "2026-04-18T18:24:26.901Z",
     "strategy": ".content-card__main"
   }
 ];
