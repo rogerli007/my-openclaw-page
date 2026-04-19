@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-19T02:46:31.233Z
+// Last updated: 2026-04-19T06:01:16.992Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "一周星星｜梁思浩親爆江美儀成日畀人蝦　曾爆喊致電訴苦問點解",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260419/1122527210998075392273408.jpeg/9jQ6Q-NAa68ZmBBoWcZHdYC4So3DpLwvSf4dA0n-HQM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60341602/%E4%B8%80%E5%91%A8%E6%98%9F%E6%98%9F-%E6%A2%81%E6%80%9D%E6%B5%A9%E8%A6%AA%E7%88%86%E6%B1%9F%E7%BE%8E%E5%84%80%E6%88%90%E6%97%A5%E7%95%80%E4%BA%BA%E8%9D%A6-%E6%9B%BE%E7%88%86%E5%96%8A%E8%87%B4%E9%9B%BB%E8%A8%B4%E8%8B%A6%E5%95%8F%E9%BB%9E%E8%A7%A3",
+    "timestamp": "2026-04-19T06:01:16.992Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "真主黨領袖：停火不可單方遵守　已準備好回應以色列違反停火行為",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260418/1122295940485484544159386.jpeg/KlCgrSnnRzBZrsc9p4wABV_crL4eVwv8vdMt2r3TLdo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60341539/%E7%BE%8E%E4%BC%8A%E4%B8%8B%E8%BC%AA%E8%AB%87%E5%88%A4%E5%89%8D%E6%99%AF%E6%9C%AA%E6%98%8E-%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E9%A6%96%E9%83%BD%E5%B0%81%E8%B7%AF%E4%BD%9C%E6%BA%96%E5%82%99-%E4%BC%8A%E5%B0%9A%E6%9C%AA%E5%90%8C%E6%84%8F%E5%8F%83%E8%88%87",
     "timestamp": "2026-04-18T14:34:30.196Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "明珠奇譚．短劇｜盜墓神作《鬼吹燈》授權改編　棄AI全用實景拍攝",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260415/1121027799809789952524078.jpeg/O8s9kNH7qH2wNiwuH78cZFB0MFoJ9eE2eqSqx3qkqsc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60336424/%E6%98%8E%E7%8F%A0%E5%A5%87%E8%AD%9A-%E7%9F%AD%E5%8A%87-%E7%9B%9C%E5%A2%93%E7%A5%9E%E4%BD%9C-%E9%AC%BC%E5%90%B9%E7%87%88-%E6%8E%88%E6%AC%8A%E6%94%B9%E7%B7%A8-%E6%A3%84ai%E5%85%A8%E7%94%A8%E5%AF%A6%E6%99%AF%E6%8B%8D%E6%94%9D",
-    "timestamp": "2026-04-18T14:09:49.209Z",
     "strategy": ".content-card__main"
   }
 ];
