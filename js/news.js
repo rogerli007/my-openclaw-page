@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-19T23:23:35.324Z
+// Last updated: 2026-04-19T23:51:57.185Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "金像獎2026｜姚敏琦從偶像俞琤手上奪「專業精神獎」：最開心嘅事",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260420/1122737200509751296602943.jpeg/-vX95TeBuW04hgC7obtQF_cVB2gbUgbr5lCzONxQszg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60341747/%E9%87%91%E5%83%8F%E7%8D%8E2026-%E5%A7%9A%E6%95%8F%E7%90%A6%E5%BE%9E%E5%81%B6%E5%83%8F%E4%BF%9E%E7%90%A4%E6%89%8B%E4%B8%8A%E5%A5%AA-%E5%B0%88%E6%A5%AD%E7%B2%BE%E7%A5%9E%E7%8D%8E-%E6%9C%80%E9%96%8B%E5%BF%83%E5%98%85%E4%BA%8B",
+    "timestamp": "2026-04-19T23:51:57.185Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "華裔男獨自玩老虎機突昏迷倒地　終離奇死亡　警揭動脈瘤破裂出事",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260419/1122588377741266944271864.jpeg/Suh1EZu8TIQqqbJGSLEYHl_R1ytow4Q7vKExBryhMQY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60341653/%E9%87%91%E5%83%8F%E7%8D%8E%E7%B4%85%E5%9C%B0%E6%B0%88-%E6%B3%B0%E5%A6%B9%E6%A5%8A%E9%9B%85%E6%96%87%E6%80%A7%E6%84%9F%E5%8D%B1%E9%9A%AA%E9%82%8A%E7%B7%A3-%E5%A4%A7%E9%9C%B2%E8%83%8C%E5%BF%83%E5%8F%A3%E5%BE%97%E5%85%A9%E6%A2%9D%E5%B8%83%E9%81%AE%E4%BD%8F",
     "timestamp": "2026-04-19T09:39:24.278Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "路透社：伊朗戰爭爆發近50天　全球石油收入損失逾500億美元",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260413/1120337672703840256301784.jpeg/f-3lwV4XXe6SxUqOwKULlNmSQEe7-uBC8mw8BfJsPAU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60341625/%E8%B7%AF%E9%80%8F%E7%A4%BE-%E4%BC%8A%E6%9C%97%E6%88%B0%E7%88%AD%E7%88%86%E7%99%BC%E8%BF%9150%E5%A4%A9-%E5%85%A8%E7%90%83%E7%9F%B3%E6%B2%B9%E6%94%B6%E5%85%A5%E6%90%8D%E5%A4%B1%E9%80%BE500%E5%84%84%E7%BE%8E%E5%85%83",
-    "timestamp": "2026-04-19T08:39:15.595Z",
     "strategy": ".content-card__main"
   }
 ];
