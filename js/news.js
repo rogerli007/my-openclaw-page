@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-19T19:51:10.211Z
+// Last updated: 2026-04-19T20:20:12.458Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "伊朗戰爭｜特朗普：一艘伊朗貨船圖突破封鎖　遭美軍開火及扣押",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260420/1122747598772375552496130.jpeg/lMi1RvIFlcMOZtLmpS7rEReoSW0a6FApZ9SormfUqK4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60341749/%E4%BC%8A%E6%9C%97%E6%88%B0%E7%88%AD-%E7%89%B9%E6%9C%97%E6%99%AE-%E4%B8%80%E8%89%98%E4%BC%8A%E6%9C%97%E8%B2%A8%E8%88%B9%E5%9C%96%E7%AA%81%E7%A0%B4%E5%B0%81%E9%8E%96-%E9%81%AD%E7%BE%8E%E8%BB%8D%E9%96%8B%E7%81%AB%E5%8F%8A%E6%89%A3%E6%8A%BC",
+    "timestamp": "2026-04-19T20:20:12.458Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "加拿大總理：與美關係優勢變劣勢　需藉外貿易多樣化應對挑戰",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260419/1122463377965191168013684.jpeg/jUSORrfDHwxoZSSijjs2O3nOfslmS1hHEY0XpRGNF6U?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60341568/%E5%A0%B4%E5%9C%B0%E5%96%AE%E8%BB%8A%E4%B8%96%E7%95%8C%E7%9B%83%E9%A6%99%E6%B8%AF%E7%AB%99-%E6%9D%9C%E6%A3%B9%E7%86%99%E7%AB%B6%E8%BC%AA%E8%B3%BD%E9%97%96%E6%B1%BA%E8%B3%BD-%E6%91%98%E7%AC%AC%E4%BA%94%E5%89%B5%E7%94%9F%E6%B6%AF%E6%9C%80%E4%BD%B3",
     "timestamp": "2026-04-19T01:44:42.170Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "謝玲玲做拉伸運動曝光4億九龍塘獨立屋　露台景觀開揚設健身室",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260418/1122228491291463680925786.jpeg/HRPviaNYrPmKf70nITIRAXRoIz7YD6oJpTomxKU6JsQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60332178/%E8%AC%9D%E7%8E%B2%E7%8E%B2%E5%81%9A%E9%81%8B%E5%8B%95%E6%9B%9D%E5%85%894%E5%84%84%E4%B9%9D%E9%BE%8D%E5%A1%98%E7%8D%A8%E7%AB%8B%E5%B1%8B-%E9%9C%B2%E5%8F%B0%E6%99%AF%E8%A7%80%E9%96%8B%E6%8F%9A%E8%A8%AD%E5%81%A5%E8%BA%AB%E5%AE%A4",
-    "timestamp": "2026-04-19T00:55:55.429Z",
     "strategy": ".content-card__main"
   }
 ];
