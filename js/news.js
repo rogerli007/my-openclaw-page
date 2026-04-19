@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-19T14:09:04.582Z
+// Last updated: 2026-04-19T14:34:56.726Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "宏福苑｜居民冀改上樓時間遭拒　政府：正處理10戶居民改時間申請",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260418/1122237734615126016824659.jpeg/SmVjGcBuxZ76GQKNaqMDv_PU2t-gYpXpT_aRjmX2kY4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60341715/%E5%AE%8F%E7%A6%8F%E8%8B%91-%E5%B1%85%E6%B0%91%E5%86%80%E6%94%B9%E4%B8%8A%E6%A8%93%E6%99%82%E9%96%93%E9%81%AD%E6%8B%92-%E6%94%BF%E5%BA%9C-%E6%AD%A3%E8%99%95%E7%90%8610%E6%88%B6%E5%B1%85%E6%B0%91%E6%94%B9%E6%99%82%E9%96%93%E7%94%B3%E8%AB%8B",
+    "timestamp": "2026-04-19T14:34:56.726Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "將軍澳持刀．內情｜16歲仔持膠刀扮遊戲角色玩捉伊人　警口頭警告",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260418/1122277072757067776790153.jpeg/MMQ6fTI_Nd1h6RE3-1KAon97H7aViAJwh_V1KYf1dSk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60341552/%E8%8B%B1%E5%9C%8B%E6%B5%B7%E4%B8%8A%E8%B2%BF%E6%98%93%E8%A1%8C%E5%8B%95%E8%BE%A6%E5%85%AC%E5%AE%A4-%E9%9C%8D%E7%88%BE%E6%9C%A8%E8%8C%B2%E6%B5%B7%E5%B3%BD%E9%99%84%E8%BF%91%E7%99%BC%E7%94%9F%E5%A4%9A%E5%AE%97%E8%88%B9%E9%9A%BB%E9%81%87%E8%A5%B2%E4%BA%8B%E4%BB%B6",
     "timestamp": "2026-04-18T19:24:22.896Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "英國海上貿易行動辦公室：霍爾木茲海峽附近發生多宗船隻遇襲事件",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260418/1122277072757067776790153.jpeg/MMQ6fTI_Nd1h6RE3-1KAon97H7aViAJwh_V1KYf1dSk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60341552/%E8%8B%B1%E5%9C%8B%E6%B5%B7%E4%B8%8A%E8%B2%BF%E6%98%93%E8%A1%8C%E5%8B%95%E8%BE%A6%E5%85%AC%E5%AE%A4-%E9%9C%8D%E7%88%BE%E6%9C%A8%E8%8C%B2%E6%B5%B7%E5%B3%BD%E9%99%84%E8%BF%91%E7%99%BC%E7%94%9F%E5%A4%9A%E5%AE%97%E8%88%B9%E9%9A%BB%E9%81%87%E8%A5%B2%E4%BA%8B%E4%BB%B6",
-    "timestamp": "2026-04-18T18:53:38.828Z",
     "strategy": ".content-card__main"
   }
 ];
