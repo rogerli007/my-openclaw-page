@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-19T22:20:16.385Z
+// Last updated: 2026-04-19T22:39:04.868Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "李雨陽終於有主角做江湖猛人做監製　曾四出搲撈搵戲拍俾人嫌老",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260419/1122668164086239232594601.jpeg/GWt1EAbyohFproKsTRkT-aFedKULjoIgkULA0pFCwNI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60341663/%E6%9D%8E%E9%9B%A8%E9%99%BD%E7%B5%82%E6%96%BC%E6%9C%89%E4%B8%BB%E8%A7%92%E5%81%9A%E6%B1%9F%E6%B9%96%E7%8C%9B%E4%BA%BA%E5%81%9A%E7%9B%A3%E8%A3%BD-%E6%9B%BE%E5%9B%9B%E5%87%BA%E6%90%B2%E6%92%88%E6%90%B5%E6%88%B2%E6%8B%8D%E4%BF%BE%E4%BA%BA%E5%AB%8C%E8%80%81",
+    "timestamp": "2026-04-19T22:39:04.868Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "穀雨天氣｜今早局部能見度頗低　稍後有驟雨局部有雷暴　最高29度",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260107/1085645348111650816485791.jpeg/bMDi98v6gJZJ3VRiapUKf0LzVMA-PfsB4yMDAcYjAwE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60341638/%E6%88%BF%E5%A7%94%E6%9C%83-%E5%85%B1%E7%AF%89%E5%89%B5%E6%A5%AD%E5%AE%B62-0-%E9%80%BE70%E5%95%86%E8%88%96%E4%BE%9B%E9%9D%92%E5%B9%B4%E5%89%B5%E6%A5%AD-%E8%A6%8F%E6%A8%A1%E9%81%94%E9%A6%96%E9%9A%8E%E6%AE%B57%E5%80%8D",
     "timestamp": "2026-04-19T08:14:18.013Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "一周星星｜梁思浩親爆江美儀成日畀人蝦　曾爆喊致電訴苦問點解",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260419/1122527210998075392273408.jpeg/9jQ6Q-NAa68ZmBBoWcZHdYC4So3DpLwvSf4dA0n-HQM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60341602/%E4%B8%80%E5%91%A8%E6%98%9F%E6%98%9F-%E6%A2%81%E6%80%9D%E6%B5%A9%E8%A6%AA%E7%88%86%E6%B1%9F%E7%BE%8E%E5%84%80%E6%88%90%E6%97%A5%E7%95%80%E4%BA%BA%E8%9D%A6-%E6%9B%BE%E7%88%86%E5%96%8A%E8%87%B4%E9%9B%BB%E8%A8%B4%E8%8B%A6%E5%95%8F%E9%BB%9E%E8%A7%A3",
-    "timestamp": "2026-04-19T06:01:16.992Z",
     "strategy": ".content-card__main"
   }
 ];
