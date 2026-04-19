@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-19T11:22:22.688Z
+// Last updated: 2026-04-19T12:24:23.274Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "金像獎2026｜鄧濤奪獎疑回應陳可辛　對未來有希望：我相信有UFO",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260419/1122629238411759616103674.jpeg/MaV0hTIjepO224a8fp7WK2_w-rL0hNrjQBQi73kUIu8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60341683/%E9%87%91%E5%83%8F%E7%8D%8E2026-%E9%84%A7%E6%BF%A4%E5%A5%AA%E7%8D%8E%E7%96%91%E5%9B%9E%E6%87%89%E9%99%B3%E5%8F%AF%E8%BE%9B-%E5%B0%8D%E6%9C%AA%E4%BE%86%E6%9C%89%E5%B8%8C%E6%9C%9B-%E6%88%91%E7%9B%B8%E4%BF%A1%E6%9C%89ufo",
+    "timestamp": "2026-04-19T12:24:23.274Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "東部戰區組織133號艦艇編隊赴西太平洋海域開展演訓活動",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260415/1121219918818185216807235.jpeg/XhcxnPuAu4ncaUKjLDOaslGOp6AxE7pYyvI1DsryNQ4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60341551/%E4%BC%8A%E6%9C%97%E6%9C%80%E9%AB%98%E5%9C%8B%E5%AE%89%E5%A7%94-%E6%8E%A5%E7%8D%B2%E7%BE%8E%E5%9C%8B%E7%B6%93%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E8%BD%89%E4%BA%A4%E6%96%B0%E6%8F%90%E8%AD%B0-%E6%AD%A3%E5%9C%A8%E7%A0%94%E7%A9%B6",
     "timestamp": "2026-04-18T17:51:13.090Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "烏克蘭基輔槍擊　6人死亡　槍手遭擊斃",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260419/1122332586257944576731029.jpeg/jpuQXjGDqNMX6slLiekdyfyIJDwUJRaMZwhnTmcIZ04?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60341550/%E7%83%8F%E5%85%8B%E8%98%AD%E5%9F%BA%E8%BC%94%E6%A7%8D%E6%93%8A-6%E4%BA%BA%E6%AD%BB%E4%BA%A1-%E6%A7%8D%E6%89%8B%E9%81%AD%E6%93%8A%E6%96%83",
-    "timestamp": "2026-04-18T17:21:03.659Z",
     "strategy": ".content-card__main"
   }
 ];
