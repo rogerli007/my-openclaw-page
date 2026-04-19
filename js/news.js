@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-19T22:39:04.868Z
+// Last updated: 2026-04-19T23:23:35.324Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "華裔男獨自玩老虎機突昏迷倒地　終離奇死亡　警揭動脈瘤破裂出事",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260418/1122217314415022080453867.png/Lg6Wh2UnsHAxhf1wsKqZqDmjMM6KvF8syuMOcMrjDnA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60341062/%E8%8F%AF%E8%A3%94%E7%94%B7%E7%8D%A8%E8%87%AA%E7%8E%A9%E8%80%81%E8%99%8E%E6%A9%9F%E7%AA%81%E6%98%8F%E8%BF%B7%E5%80%92%E5%9C%B0-%E7%B5%82%E9%9B%A2%E5%A5%87%E6%AD%BB%E4%BA%A1-%E8%AD%A6%E6%8F%AD%E5%8B%95%E8%84%88%E7%98%A4%E7%A0%B4%E8%A3%82%E5%87%BA%E4%BA%8B",
+    "timestamp": "2026-04-19T23:23:35.324Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "李雨陽終於有主角做江湖猛人做監製　曾四出搲撈搵戲拍俾人嫌老",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260413/1120337672703840256301784.jpeg/f-3lwV4XXe6SxUqOwKULlNmSQEe7-uBC8mw8BfJsPAU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60341625/%E8%B7%AF%E9%80%8F%E7%A4%BE-%E4%BC%8A%E6%9C%97%E6%88%B0%E7%88%AD%E7%88%86%E7%99%BC%E8%BF%9150%E5%A4%A9-%E5%85%A8%E7%90%83%E7%9F%B3%E6%B2%B9%E6%94%B6%E5%85%A5%E6%90%8D%E5%A4%B1%E9%80%BE500%E5%84%84%E7%BE%8E%E5%85%83",
     "timestamp": "2026-04-19T08:39:15.595Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "房委會「共築創業家2.0」逾70商舖供青年創業　規模達首階段7倍",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260107/1085645348111650816485791.jpeg/bMDi98v6gJZJ3VRiapUKf0LzVMA-PfsB4yMDAcYjAwE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60341638/%E6%88%BF%E5%A7%94%E6%9C%83-%E5%85%B1%E7%AF%89%E5%89%B5%E6%A5%AD%E5%AE%B62-0-%E9%80%BE70%E5%95%86%E8%88%96%E4%BE%9B%E9%9D%92%E5%B9%B4%E5%89%B5%E6%A5%AD-%E8%A6%8F%E6%A8%A1%E9%81%94%E9%A6%96%E9%9A%8E%E6%AE%B57%E5%80%8D",
-    "timestamp": "2026-04-19T08:14:18.013Z",
     "strategy": ".content-card__main"
   }
 ];
