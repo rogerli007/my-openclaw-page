@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-19T20:20:12.458Z
+// Last updated: 2026-04-19T21:51:11.256Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "伊媒：伊朗已為戰火重燃做好準備　認為可能性高於繼續談判",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260420/1122741001396424704215370.jpeg/KZmZj1wpWM9c0yrAtUpWC6cEhgPa0yxT8j8at_I_Grc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60341748/%E4%BC%8A%E5%AA%92-%E4%BC%8A%E6%9C%97%E5%B7%B2%E7%82%BA%E6%88%B0%E7%81%AB%E9%87%8D%E7%87%83%E5%81%9A%E5%A5%BD%E6%BA%96%E5%82%99-%E8%AA%8D%E7%82%BA%E5%8F%AF%E8%83%BD%E6%80%A7%E9%AB%98%E6%96%BC%E7%B9%BC%E7%BA%8C%E8%AB%87%E5%88%A4",
+    "timestamp": "2026-04-19T21:51:11.256Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "伊朗戰爭｜特朗普：一艘伊朗貨船圖突破封鎖　遭美軍開火及扣押",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260419/1122480968171524096763214.jpeg/JTftcEhbfPPoH20Nk1jlXq8GlpsAGaqHiUAzs4lAM7M?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60341575/%E7%9C%9F%E4%B8%BB%E9%BB%A8%E9%A0%98%E8%A2%96-%E5%81%9C%E7%81%AB%E4%B8%8D%E5%8F%AF%E5%96%AE%E6%96%B9%E9%81%B5%E5%AE%88-%E5%B7%B2%E6%BA%96%E5%82%99%E5%A5%BD%E5%9B%9E%E6%87%89%E4%BB%A5%E8%89%B2%E5%88%97%E9%81%95%E5%8F%8D%E5%81%9C%E7%81%AB%E8%A1%8C%E7%82%BA",
     "timestamp": "2026-04-19T02:46:31.233Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "場地單車世界盃香港站｜杜棹熙競輪賽闖決賽　摘第五創生涯最佳",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260419/1122463377965191168013684.jpeg/jUSORrfDHwxoZSSijjs2O3nOfslmS1hHEY0XpRGNF6U?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60341568/%E5%A0%B4%E5%9C%B0%E5%96%AE%E8%BB%8A%E4%B8%96%E7%95%8C%E7%9B%83%E9%A6%99%E6%B8%AF%E7%AB%99-%E6%9D%9C%E6%A3%B9%E7%86%99%E7%AB%B6%E8%BC%AA%E8%B3%BD%E9%97%96%E6%B1%BA%E8%B3%BD-%E6%91%98%E7%AC%AC%E4%BA%94%E5%89%B5%E7%94%9F%E6%B6%AF%E6%9C%80%E4%BD%B3",
-    "timestamp": "2026-04-19T01:44:42.170Z",
     "strategy": ".content-card__main"
   }
 ];
