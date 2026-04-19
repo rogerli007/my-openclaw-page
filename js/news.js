@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-19T06:01:16.992Z
+// Last updated: 2026-04-19T08:14:18.013Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "房委會「共築創業家2.0」逾70商舖供青年創業　規模達首階段7倍",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260107/1085645348111650816485791.jpeg/bMDi98v6gJZJ3VRiapUKf0LzVMA-PfsB4yMDAcYjAwE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60341638/%E6%88%BF%E5%A7%94%E6%9C%83-%E5%85%B1%E7%AF%89%E5%89%B5%E6%A5%AD%E5%AE%B62-0-%E9%80%BE70%E5%95%86%E8%88%96%E4%BE%9B%E9%9D%92%E5%B9%B4%E5%89%B5%E6%A5%AD-%E8%A6%8F%E6%A8%A1%E9%81%94%E9%A6%96%E9%9A%8E%E6%AE%B57%E5%80%8D",
+    "timestamp": "2026-04-19T08:14:18.013Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "一周星星｜梁思浩親爆江美儀成日畀人蝦　曾爆喊致電訴苦問點解",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260418/1122282011671662592429103.jpeg/TZ1kAJreBrO7y75yolZHfP1fDqck5eUHWgtg0loLYNI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60341531/%E5%9C%8B%E5%AE%B6%E6%B0%A3%E5%80%99%E4%B8%AD%E5%BF%83%E6%96%995%E6%9C%88%E9%80%B2%E5%85%A5%E5%8E%84%E7%88%BE%E5%B0%BC%E8%AB%BE%E7%8B%80%E6%85%8B-%E5%BC%B7%E5%BA%A6%E4%B8%AD%E7%AD%89%E5%8F%8A%E4%BB%A5%E4%B8%8A",
     "timestamp": "2026-04-18T14:59:08.619Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美伊下輪談判前景未明　巴基斯坦首都封路作準備　伊尚未同意參與",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260418/1122295940485484544159386.jpeg/KlCgrSnnRzBZrsc9p4wABV_crL4eVwv8vdMt2r3TLdo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60341539/%E7%BE%8E%E4%BC%8A%E4%B8%8B%E8%BC%AA%E8%AB%87%E5%88%A4%E5%89%8D%E6%99%AF%E6%9C%AA%E6%98%8E-%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E9%A6%96%E9%83%BD%E5%B0%81%E8%B7%AF%E4%BD%9C%E6%BA%96%E5%82%99-%E4%BC%8A%E5%B0%9A%E6%9C%AA%E5%90%8C%E6%84%8F%E5%8F%83%E8%88%87",
-    "timestamp": "2026-04-18T14:34:30.196Z",
     "strategy": ".content-card__main"
   }
 ];
