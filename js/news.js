@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-19T01:44:42.170Z
+// Last updated: 2026-04-19T02:46:31.233Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "真主黨領袖：停火不可單方遵守　已準備好回應以色列違反停火行為",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260419/1122480968171524096763214.jpeg/JTftcEhbfPPoH20Nk1jlXq8GlpsAGaqHiUAzs4lAM7M?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60341575/%E7%9C%9F%E4%B8%BB%E9%BB%A8%E9%A0%98%E8%A2%96-%E5%81%9C%E7%81%AB%E4%B8%8D%E5%8F%AF%E5%96%AE%E6%96%B9%E9%81%B5%E5%AE%88-%E5%B7%B2%E6%BA%96%E5%82%99%E5%A5%BD%E5%9B%9E%E6%87%89%E4%BB%A5%E8%89%B2%E5%88%97%E9%81%95%E5%8F%8D%E5%81%9C%E7%81%AB%E8%A1%8C%E7%82%BA",
+    "timestamp": "2026-04-19T02:46:31.233Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "場地單車世界盃香港站｜杜棹熙競輪賽闖決賽　摘第五創生涯最佳",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260415/1121027799809789952524078.jpeg/O8s9kNH7qH2wNiwuH78cZFB0MFoJ9eE2eqSqx3qkqsc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60336424/%E6%98%8E%E7%8F%A0%E5%A5%87%E8%AD%9A-%E7%9F%AD%E5%8A%87-%E7%9B%9C%E5%A2%93%E7%A5%9E%E4%BD%9C-%E9%AC%BC%E5%90%B9%E7%87%88-%E6%8E%88%E6%AC%8A%E6%94%B9%E7%B7%A8-%E6%A3%84ai%E5%85%A8%E7%94%A8%E5%AF%A6%E6%99%AF%E6%8B%8D%E6%94%9D",
     "timestamp": "2026-04-18T14:09:49.209Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "退役AV女優桃乃木香奈現身台北棒球場　「球迷瘋搶合照」全場轟動",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260417/1121800918484914176548706.jpeg/wFGK2p19iwwoqS71xUz-ys0vKaQZYvOe3d_it93f4rc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E8%A9%B1%E9%A1%8C/60341162/%E9%80%80%E5%BD%B9av%E5%A5%B3%E5%84%AA%E6%A1%83%E4%B9%83%E6%9C%A8%E9%A6%99%E5%A5%88%E7%8F%BE%E8%BA%AB%E5%8F%B0%E5%8C%97%E6%A3%92%E7%90%83%E5%A0%B4-%E7%90%83%E8%BF%B7%E7%98%8B%E6%90%B6%E5%90%88%E7%85%A7-%E5%85%A8%E5%A0%B4%E8%BD%9F%E5%8B%95",
-    "timestamp": "2026-04-18T12:54:19.800Z",
     "strategy": ".content-card__main"
   }
 ];
