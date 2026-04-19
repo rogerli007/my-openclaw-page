@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-19T12:24:23.274Z
+// Last updated: 2026-04-19T12:54:06.071Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "金像獎2026｜周潤發多謝朱家欣驚揭神秘關係：冇佢老爹我畢唔到業",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260419/1122636701844377600421670.jpeg/FrQy7LXzg8_KJklWdEgZGtf26MjHl_vdI9mBghrZgYI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60341692/%E9%87%91%E5%83%8F%E7%8D%8E2026-%E5%91%A8%E6%BD%A4%E7%99%BC%E5%A4%9A%E8%AC%9D%E6%9C%B1%E5%AE%B6%E6%AC%A3%E9%A9%9A%E6%8F%AD%E7%A5%9E%E7%A7%98%E9%97%9C%E4%BF%82-%E5%86%87%E4%BD%A2%E8%80%81%E7%88%B9%E6%88%91%E7%95%A2%E5%94%94%E5%88%B0%E6%A5%AD",
+    "timestamp": "2026-04-19T12:54:06.071Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "金像獎2026｜鄧濤奪獎疑回應陳可辛　對未來有希望：我相信有UFO",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260415/1121219918818185216807235.jpeg/XhcxnPuAu4ncaUKjLDOaslGOp6AxE7pYyvI1DsryNQ4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60341551/%E4%BC%8A%E6%9C%97%E6%9C%80%E9%AB%98%E5%9C%8B%E5%AE%89%E5%A7%94-%E6%8E%A5%E7%8D%B2%E7%BE%8E%E5%9C%8B%E7%B6%93%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E8%BD%89%E4%BA%A4%E6%96%B0%E6%8F%90%E8%AD%B0-%E6%AD%A3%E5%9C%A8%E7%A0%94%E7%A9%B6",
     "timestamp": "2026-04-18T18:24:26.901Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "伊朗最高國安委：接獲美國經巴基斯坦轉交新提議　正在研究",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260415/1121219918818185216807235.jpeg/XhcxnPuAu4ncaUKjLDOaslGOp6AxE7pYyvI1DsryNQ4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60341551/%E4%BC%8A%E6%9C%97%E6%9C%80%E9%AB%98%E5%9C%8B%E5%AE%89%E5%A7%94-%E6%8E%A5%E7%8D%B2%E7%BE%8E%E5%9C%8B%E7%B6%93%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E8%BD%89%E4%BA%A4%E6%96%B0%E6%8F%90%E8%AD%B0-%E6%AD%A3%E5%9C%A8%E7%A0%94%E7%A9%B6",
-    "timestamp": "2026-04-18T17:51:13.090Z",
     "strategy": ".content-card__main"
   }
 ];
