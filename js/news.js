@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-19T08:39:15.595Z
+// Last updated: 2026-04-19T09:39:24.278Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "金像獎紅地氈｜泰妹楊雅文性感危險邊緣　大露背心口得兩條布遮住",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260419/1122588377741266944271864.jpeg/Suh1EZu8TIQqqbJGSLEYHl_R1ytow4Q7vKExBryhMQY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60341653/%E9%87%91%E5%83%8F%E7%8D%8E%E7%B4%85%E5%9C%B0%E6%B0%88-%E6%B3%B0%E5%A6%B9%E6%A5%8A%E9%9B%85%E6%96%87%E6%80%A7%E6%84%9F%E5%8D%B1%E9%9A%AA%E9%82%8A%E7%B7%A3-%E5%A4%A7%E9%9C%B2%E8%83%8C%E5%BF%83%E5%8F%A3%E5%BE%97%E5%85%A9%E6%A2%9D%E5%B8%83%E9%81%AE%E4%BD%8F",
+    "timestamp": "2026-04-19T09:39:24.278Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "路透社：伊朗戰爭爆發近50天　全球石油收入損失逾500億美元",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260418/1122311460723101696857061.jpeg/jXrN6QO2Iv520QrkjbdQ_bagWrVkD6M5KUA2pylANqc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60341542/%E5%AF%92%E6%88%B01994-%E8%AC%9D%E5%90%9B%E8%B1%AA%E9%80%A3%E6%91%91%E5%90%B3%E6%85%B7%E4%BB%816%E5%A4%A7%E5%B7%B4-%E4%BA%8B%E5%BE%8C%E8%A6%81%E4%BC%91%E6%81%AF3%E6%97%A5-%E6%88%91%E4%BF%82%E5%92%AA%E9%87%8D%E6%89%8B%E5%92%97",
     "timestamp": "2026-04-18T16:21:10.872Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "大維修擬升格聘第三方監督　富善居民指助理解工程：加價唔係問題",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260418/1122223960281321472769538.jpeg/p4g5dRS2IpJotD1lriHB0_8slsx-UMuQ0NGNx_rRjcc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60341535/%E5%A4%A7%E7%B6%AD%E4%BF%AE%E6%93%AC%E5%8D%87%E6%A0%BC%E8%81%98%E7%AC%AC%E4%B8%89%E6%96%B9%E7%9B%A3%E7%9D%A3-%E5%AF%8C%E5%96%84%E5%B1%85%E6%B0%91%E6%8C%87%E5%8A%A9%E7%90%86%E8%A7%A3%E5%B7%A5%E7%A8%8B-%E5%8A%A0%E5%83%B9%E5%94%94%E4%BF%82%E5%95%8F%E9%A1%8C",
-    "timestamp": "2026-04-18T15:23:02.679Z",
     "strategy": ".content-card__main"
   }
 ];
