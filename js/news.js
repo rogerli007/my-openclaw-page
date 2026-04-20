@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-20T11:17:16.921Z
+// Last updated: 2026-04-20T14:03:45.827Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "警荃灣打擊街頭聚賭　拘12人最老91歲　檢賭具現金",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260420/1123005585952870400537069.jpeg/F8Tu_CPq2McxGAPeIjBZnnpXvIMAAYTcoTs1U6E7NVM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60342102/%E8%AD%A6%E8%8D%83%E7%81%A3%E6%89%93%E6%93%8A%E8%A1%97%E9%A0%AD%E8%81%9A%E8%B3%AD-%E6%8B%9812%E4%BA%BA%E6%9C%80%E8%80%8191%E6%AD%B2-%E6%AA%A2%E8%B3%AD%E5%85%B7%E7%8F%BE%E9%87%91",
+    "timestamp": "2026-04-20T14:03:45.827Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "日本3月旅客人次創歷年新高　香港佔21.6萬　內地客按年暴跌一半",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260407/1117999102920364032790526.jpeg/Qg7R5M97u-H7wwaVNelG5FBJvD6pcqj8_AdsQPwHbEA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60341735/%E7%89%B9%E6%9C%97%E6%99%AE-%E5%A6%82%E7%BE%8E%E4%BC%8A%E9%81%94%E6%88%90%E5%8D%94%E8%AD%B0-%E5%BE%88%E5%8F%AF%E8%83%BD%E8%A6%AA%E8%B5%B4%E4%BC%8A%E6%96%AF%E8%98%AD%E5%A0%A1",
     "timestamp": "2026-04-19T16:25:34.485Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "七欖｜馬會支持國際欖球盛事　推社區計劃惠及逾12000人",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260419/1122679782593662976816597.jpeg/UWnX-gK4lNesSHFgpp7K51CQy8b7r6YsXh7Fdl4exXY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60341731/%E4%B8%83%E6%AC%96-%E9%A6%AC%E6%9C%83%E6%94%AF%E6%8C%81%E5%9C%8B%E9%9A%9B%E6%AC%96%E7%90%83%E7%9B%9B%E4%BA%8B-%E6%8E%A8%E7%A4%BE%E5%8D%80%E8%A8%88%E5%8A%83%E6%83%A0%E5%8F%8A%E9%80%BE12000%E4%BA%BA",
-    "timestamp": "2026-04-19T15:52:11.817Z",
     "strategy": ".content-card__main"
   }
 ];
