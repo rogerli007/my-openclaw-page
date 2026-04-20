@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-20T16:01:21.042Z
+// Last updated: 2026-04-20T17:15:02.542Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "地勤人員躺飛機引擎被指休息：好爽爽咁　機管局澄清正進行維修",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260421/1123058935671033856576238.jpeg/0YndcdGMDYh_lUXNXxY5srT20BsZ4ZRZwwwNWMMMDVg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60342128/%E5%9C%B0%E5%8B%A4%E4%BA%BA%E5%93%A1%E8%BA%BA%E9%A3%9B%E6%A9%9F%E5%BC%95%E6%93%8E%E8%A2%AB%E6%8C%87%E4%BC%91%E6%81%AF-%E5%A5%BD%E7%88%BD%E7%88%BD%E5%92%81-%E6%A9%9F%E7%AE%A1%E5%B1%80%E6%BE%84%E6%B8%85%E6%AD%A3%E9%80%B2%E8%A1%8C%E7%B6%AD%E4%BF%AE",
+    "timestamp": "2026-04-20T17:15:02.542Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "周潤發以750萬出售西半山三房單位　持貨逾30年帳面翻倍賺358萬元",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260420/1122713520723464192480716.jpeg/3gkEl7uEAYJsuzGUTcTJ9kOlCSycJevFYgvlm2IL5Zs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60341744/%E9%87%91%E5%83%8F%E7%8D%8E2026-%E6%9D%9C%E5%BE%B7%E5%81%89%E9%9B%A3%E5%BF%98%E6%A2%81%E5%AE%B6%E8%BC%9D%E6%95%99%E6%BC%94%E6%88%B2-%E4%BD%A2%E7%94%A8%E4%BA%94%E7%A8%AE%E6%96%B9%E5%BC%8F%E5%8E%BB%E6%BC%94%E4%B8%80%E5%80%8B%E8%A7%92%E8%89%B2",
     "timestamp": "2026-04-19T18:24:51.452Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "英超｜曼城2：1擊敗阿仙奴　落後3分但少踢一場",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260420/1122707912469254144695204.jpeg/p76whonFA1Gs2PjdijHJpWOklDQNa5_0xEwE_sRMBP4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60341742/%E8%8B%B1%E8%B6%85-%E6%9B%BC%E5%9F%8E2-1%E6%93%8A%E6%95%97%E9%98%BF%E4%BB%99%E5%A5%B4-%E8%90%BD%E5%BE%8C3%E5%88%86%E4%BD%86%E5%B0%91%E8%B8%A2%E4%B8%80%E5%A0%B4",
-    "timestamp": "2026-04-19T17:51:09.256Z",
     "strategy": ".content-card__main"
   }
 ];
