@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-20T06:11:47.144Z
+// Last updated: 2026-04-20T07:09:04.663Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "是回家也是告別！宏新閣居民取回掛畫與結婚書　喚喚罹難愛貓名字",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260420/1122905952660492288138692.jpeg/2iMeJPC898xpZEyyWk90cN6W5y9UHg7A7Mme6-zJnus?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60341907/%E6%98%AF%E5%9B%9E%E5%AE%B6%E4%B9%9F%E6%98%AF%E5%91%8A%E5%88%A5-%E5%AE%8F%E6%96%B0%E9%96%A3%E5%B1%85%E6%B0%91%E5%8F%96%E5%9B%9E%E6%8E%9B%E7%95%AB%E8%88%87%E7%B5%90%E5%A9%9A%E6%9B%B8-%E5%96%9A%E5%96%9A%E7%BD%B9%E9%9B%A3%E6%84%9B%E8%B2%93%E5%90%8D%E5%AD%97",
+    "timestamp": "2026-04-20T07:09:04.663Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "鐵達尼號救生衣英國拍賣　附生還者簽名　710萬成交遠超原估價",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260419/1122461938626859008124859.png/b5WAZObWh3NrFm3dXTlrXHvAJfvAWxEhMi84mDIvOJg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60341710/%E5%B0%87%E8%BB%8D%E6%BE%B3%E6%8C%81%E5%88%80-%E5%85%A7%E6%83%85-16%E6%AD%B2%E4%BB%94%E6%8C%81%E8%86%A0%E5%88%80%E6%89%AE%E9%81%8A%E6%88%B2%E8%A7%92%E8%89%B2%E7%8E%A9%E6%8D%89%E4%BC%8A%E4%BA%BA-%E8%AD%A6%E5%8F%A3%E9%A0%AD%E8%AD%A6%E5%91%8A",
     "timestamp": "2026-04-19T14:09:04.582Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "金像獎2026｜周潤發多謝朱家欣驚揭神秘關係：冇佢老爹我畢唔到業",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260419/1122636701844377600421670.jpeg/FrQy7LXzg8_KJklWdEgZGtf26MjHl_vdI9mBghrZgYI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60341692/%E9%87%91%E5%83%8F%E7%8D%8E2026-%E5%91%A8%E6%BD%A4%E7%99%BC%E5%A4%9A%E8%AC%9D%E6%9C%B1%E5%AE%B6%E6%AC%A3%E9%A9%9A%E6%8F%AD%E7%A5%9E%E7%A7%98%E9%97%9C%E4%BF%82-%E5%86%87%E4%BD%A2%E8%80%81%E7%88%B9%E6%88%91%E7%95%A2%E5%94%94%E5%88%B0%E6%A5%AD",
-    "timestamp": "2026-04-19T12:54:06.071Z",
     "strategy": ".content-card__main"
   }
 ];
