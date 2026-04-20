@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-20T22:12:57.780Z
+// Last updated: 2026-04-20T22:35:11.042Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "伊朗戰爭｜穆傑塔巴重申基本立場　外長︰將綜合評估下一步行動",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260312/1108592471115304960963721.jpeg/Av5S8OVo8r-AN3OMqe7Krw_mtLRJrq3veJWmZXiVpmU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60342142/%E4%BC%8A%E6%9C%97%E6%88%B0%E7%88%AD-%E7%A9%86%E5%82%91%E5%A1%94%E5%B7%B4%E9%87%8D%E7%94%B3%E5%9F%BA%E6%9C%AC%E7%AB%8B%E5%A0%B4-%E5%A4%96%E9%95%B7-%E5%B0%87%E7%B6%9C%E5%90%88%E8%A9%95%E4%BC%B0%E4%B8%8B%E4%B8%80%E6%AD%A5%E8%A1%8C%E5%8B%95",
+    "timestamp": "2026-04-20T22:35:11.042Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "投資者黎永滔4168萬沽中環雲咸街樓上舖　利豐馮氏家族接貨",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260420/1122737200509751296602943.jpeg/-vX95TeBuW04hgC7obtQF_cVB2gbUgbr5lCzONxQszg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60341747/%E9%87%91%E5%83%8F%E7%8D%8E2026-%E5%A7%9A%E6%95%8F%E7%90%A6%E5%BE%9E%E5%81%B6%E5%83%8F%E4%BF%9E%E7%90%A4%E6%89%8B%E4%B8%8A%E5%A5%AA-%E5%B0%88%E6%A5%AD%E7%B2%BE%E7%A5%9E%E7%8D%8E-%E6%9C%80%E9%96%8B%E5%BF%83%E5%98%85%E4%BA%8B",
     "timestamp": "2026-04-19T23:51:57.185Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "華裔男獨自玩老虎機突昏迷倒地　終離奇死亡　警揭動脈瘤破裂出事",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260418/1122217314415022080453867.png/Lg6Wh2UnsHAxhf1wsKqZqDmjMM6KvF8syuMOcMrjDnA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60341062/%E8%8F%AF%E8%A3%94%E7%94%B7%E7%8D%A8%E8%87%AA%E7%8E%A9%E8%80%81%E8%99%8E%E6%A9%9F%E7%AA%81%E6%98%8F%E8%BF%B7%E5%80%92%E5%9C%B0-%E7%B5%82%E9%9B%A2%E5%A5%87%E6%AD%BB%E4%BA%A1-%E8%AD%A6%E6%8F%AD%E5%8B%95%E8%84%88%E7%98%A4%E7%A0%B4%E8%A3%82%E5%87%BA%E4%BA%8B",
-    "timestamp": "2026-04-19T23:23:35.324Z",
     "strategy": ".content-card__main"
   }
 ];
