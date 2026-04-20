@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-20T04:03:05.658Z
+// Last updated: 2026-04-20T05:16:56.257Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "正義女神線上看大結局25劇情｜高成彬如何?佘詩曼陳煒法庭再交手",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260317/1110382153528512512765132.jpeg/jBw5Ak0swEvn7sCtI1rpdQIdiBaimcxt43N1nuNzdZ4?v=w1920",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60330750/%E6%AD%A3%E7%BE%A9%E5%A5%B3%E7%A5%9E%E7%B7%9A%E4%B8%8A%E7%9C%8B%E5%A4%A7%E7%B5%90%E5%B1%8025%E5%8A%87%E6%83%85-%E9%AB%98%E6%88%90%E5%BD%AC%E5%A6%82%E4%BD%95-%E4%BD%98%E8%A9%A9%E6%9B%BC%E9%99%B3%E7%85%92%E6%B3%95%E5%BA%AD%E5%86%8D%E4%BA%A4%E6%89%8B",
+    "timestamp": "2026-04-20T05:16:56.257Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "蒜頭功效｜消炎降血壓生蒜／熟蒜哪種好？中醫提醒吃錯傷肝損目！",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260419/1122629238411759616103674.jpeg/MaV0hTIjepO224a8fp7WK2_w-rL0hNrjQBQi73kUIu8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60341683/%E9%87%91%E5%83%8F%E7%8D%8E2026-%E9%84%A7%E6%BF%A4%E5%A5%AA%E7%8D%8E%E7%96%91%E5%9B%9E%E6%87%89%E9%99%B3%E5%8F%AF%E8%BE%9B-%E5%B0%8D%E6%9C%AA%E4%BE%86%E6%9C%89%E5%B8%8C%E6%9C%9B-%E6%88%91%E7%9B%B8%E4%BF%A1%E6%9C%89ufo",
     "timestamp": "2026-04-19T12:24:23.274Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "東部戰區組織133號艦艇編隊赴西太平洋海域開展演訓活動",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260419/1122612707661451264632504.png/rKoINL3S-mRUejdrJZsy1bDsotRoP5r9ykwRn8pMEZ8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60341681/%E6%9D%B1%E9%83%A8%E6%88%B0%E5%8D%80%E7%B5%84%E7%B9%94133%E8%99%9F%E8%89%A6%E8%89%87%E7%B7%A8%E9%9A%8A%E8%B5%B4%E8%A5%BF%E5%A4%AA%E5%B9%B3%E6%B4%8B%E6%B5%B7%E5%9F%9F%E9%96%8B%E5%B1%95%E6%BC%94%E8%A8%93%E6%B4%BB%E5%8B%95",
-    "timestamp": "2026-04-19T11:22:22.688Z",
     "strategy": ".content-card__main"
   }
 ];
