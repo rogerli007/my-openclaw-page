@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-20T01:45:38.450Z
+// Last updated: 2026-04-20T04:03:05.658Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "蒜頭功效｜消炎降血壓生蒜／熟蒜哪種好？中醫提醒吃錯傷肝損目！",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20240412/855443589218439168401579.jpeg/GHedubIpKu0913KLXHzGDsB6a4FsM-Nn8xeuE_MXrhM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/70655/%E8%92%9C%E9%A0%AD%E5%8A%9F%E6%95%88-%E6%B6%88%E7%82%8E%E9%99%8D%E8%A1%80%E5%A3%93%E7%94%9F%E8%92%9C-%E7%86%9F%E8%92%9C%E5%93%AA%E7%A8%AE%E5%A5%BD-%E4%B8%AD%E9%86%AB%E6%8F%90%E9%86%92%E5%90%83%E9%8C%AF%E5%82%B7%E8%82%9D%E6%90%8D%E7%9B%AE",
+    "timestamp": "2026-04-20T04:03:05.658Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "深水埗公園游泳池男子疑遇溺　昏迷送院搶救",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260419/1122612707661451264632504.png/rKoINL3S-mRUejdrJZsy1bDsotRoP5r9ykwRn8pMEZ8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60341681/%E6%9D%B1%E9%83%A8%E6%88%B0%E5%8D%80%E7%B5%84%E7%B9%94133%E8%99%9F%E8%89%A6%E8%89%87%E7%B7%A8%E9%9A%8A%E8%B5%B4%E8%A5%BF%E5%A4%AA%E5%B9%B3%E6%B4%8B%E6%B5%B7%E5%9F%9F%E9%96%8B%E5%B1%95%E6%BC%94%E8%A8%93%E6%B4%BB%E5%8B%95",
     "timestamp": "2026-04-19T11:22:22.688Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "金像獎｜訪問背景出現《尋秦記》船　谷德昭：丟你支持嗰套戲嘅架",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260419/1122599806552772608195076.jpeg/QsuvgNqXjGF5vSC6oR0VTY4CkZ70w_JKAMRUagDEVGo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60341668/%E9%87%91%E5%83%8F%E7%8D%8E-%E8%A8%AA%E5%95%8F%E8%83%8C%E6%99%AF%E5%87%BA%E7%8F%BE-%E5%B0%8B%E7%A7%A6%E8%A8%98-%E8%88%B9-%E8%B0%B7%E5%BE%B7%E6%98%AD-%E4%B8%9F%E4%BD%A0%E6%94%AF%E6%8C%81%E5%97%B0%E5%A5%97%E6%88%B2%E5%98%85%E6%9E%B6",
-    "timestamp": "2026-04-19T10:33:04.841Z",
     "strategy": ".content-card__main"
   }
 ];
