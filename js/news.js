@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-19T23:51:57.185Z
+// Last updated: 2026-04-20T01:45:38.450Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "深水埗公園游泳池男子疑遇溺　昏迷送院搶救",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260420/1122828452571910144479028.jpeg/VYJaP5A3PRjVDxv0PnddQAoKmGn4jfBA8_-KVPP_ilQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60341763/%E6%B7%B1%E6%B0%B4%E5%9F%97%E5%85%AC%E5%9C%92%E6%B8%B8%E6%B3%B3%E6%B1%A0%E7%94%B7%E5%AD%90%E7%96%91%E9%81%87%E6%BA%BA-%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2%E6%90%B6%E6%95%91",
+    "timestamp": "2026-04-20T01:45:38.450Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "金像獎2026｜姚敏琦從偶像俞琤手上奪「專業精神獎」：最開心嘅事",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260419/1122599806552772608195076.jpeg/QsuvgNqXjGF5vSC6oR0VTY4CkZ70w_JKAMRUagDEVGo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60341668/%E9%87%91%E5%83%8F%E7%8D%8E-%E8%A8%AA%E5%95%8F%E8%83%8C%E6%99%AF%E5%87%BA%E7%8F%BE-%E5%B0%8B%E7%A7%A6%E8%A8%98-%E8%88%B9-%E8%B0%B7%E5%BE%B7%E6%98%AD-%E4%B8%9F%E4%BD%A0%E6%94%AF%E6%8C%81%E5%97%B0%E5%A5%97%E6%88%B2%E5%98%85%E6%9E%B6",
     "timestamp": "2026-04-19T10:33:04.841Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "金像獎紅地氈｜泰妹楊雅文性感危險邊緣　大露背心口得兩條布遮住",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260419/1122588377741266944271864.jpeg/Suh1EZu8TIQqqbJGSLEYHl_R1ytow4Q7vKExBryhMQY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60341653/%E9%87%91%E5%83%8F%E7%8D%8E%E7%B4%85%E5%9C%B0%E6%B0%88-%E6%B3%B0%E5%A6%B9%E6%A5%8A%E9%9B%85%E6%96%87%E6%80%A7%E6%84%9F%E5%8D%B1%E9%9A%AA%E9%82%8A%E7%B7%A3-%E5%A4%A7%E9%9C%B2%E8%83%8C%E5%BF%83%E5%8F%A3%E5%BE%97%E5%85%A9%E6%A2%9D%E5%B8%83%E9%81%AE%E4%BD%8F",
-    "timestamp": "2026-04-19T09:39:24.278Z",
     "strategy": ".content-card__main"
   }
 ];
