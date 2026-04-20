@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-20T17:15:02.542Z
+// Last updated: 2026-04-20T18:42:42.408Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "特朗普：如未能與伊朗達成協議　極不可能延長停火",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260407/1118140527670202368710935.jpeg/BBk483yjAjjB1uzXdYR6HUXbfJ1eqVWa6J9oleifaJU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60342129/%E7%89%B9%E6%9C%97%E6%99%AE-%E5%A6%82%E6%9C%AA%E8%83%BD%E8%88%87%E4%BC%8A%E6%9C%97%E9%81%94%E6%88%90%E5%8D%94%E8%AD%B0-%E6%A5%B5%E4%B8%8D%E5%8F%AF%E8%83%BD%E5%BB%B6%E9%95%B7%E5%81%9C%E7%81%AB",
+    "timestamp": "2026-04-20T18:42:42.408Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "地勤人員躺飛機引擎被指休息：好爽爽咁　機管局澄清正進行維修",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260123/1091247353840537600205187.jpeg/D4SVGvoOBOX-OlEHv-vN4X9arS9SlWbG51C-xedQvsU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60341745/%E5%8A%A0%E6%8B%BF%E5%A4%A7%E7%B8%BD%E7%90%86-%E8%88%87%E7%BE%8E%E9%97%9C%E4%BF%82%E5%84%AA%E5%8B%A2%E8%AE%8A%E5%8A%A3%E5%8B%A2-%E9%9C%80%E8%97%89%E5%A4%96%E8%B2%BF%E6%98%93%E5%A4%9A%E6%A8%A3%E5%8C%96%E6%87%89%E5%B0%8D%E6%8C%91%E6%88%B0",
     "timestamp": "2026-04-19T19:51:10.211Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "金像獎2026｜杜德偉難忘梁家輝教演戲：佢用五種方式去演一個角色",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260420/1122713520723464192480716.jpeg/3gkEl7uEAYJsuzGUTcTJ9kOlCSycJevFYgvlm2IL5Zs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60341744/%E9%87%91%E5%83%8F%E7%8D%8E2026-%E6%9D%9C%E5%BE%B7%E5%81%89%E9%9B%A3%E5%BF%98%E6%A2%81%E5%AE%B6%E8%BC%9D%E6%95%99%E6%BC%94%E6%88%B2-%E4%BD%A2%E7%94%A8%E4%BA%94%E7%A8%AE%E6%96%B9%E5%BC%8F%E5%8E%BB%E6%BC%94%E4%B8%80%E5%80%8B%E8%A7%92%E8%89%B2",
-    "timestamp": "2026-04-19T18:24:51.452Z",
     "strategy": ".content-card__main"
   }
 ];
