@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-20T23:25:34.174Z
+// Last updated: 2026-04-20T23:52:27.518Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "加拿大宣布逐步增加對華直航航班　推動貿易多元化",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20221119/670678206277750784513724.jpeg/6f1HmWKAFCs3oyJfeaVxkReeSKz5xLX0HQvBlx0LwZc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60342139/%E5%8A%A0%E6%8B%BF%E5%A4%A7%E5%AE%A3%E5%B8%83%E9%80%90%E6%AD%A5%E5%A2%9E%E5%8A%A0%E5%B0%8D%E8%8F%AF%E7%9B%B4%E8%88%AA%E8%88%AA%E7%8F%AD-%E6%8E%A8%E5%8B%95%E8%B2%BF%E6%98%93%E5%A4%9A%E5%85%83%E5%8C%96",
+    "timestamp": "2026-04-20T23:52:27.518Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "15歲少女蒙眼等驚喜！慘遭2未成年閨密殘忍殺害　法院輕判惹公憤",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20240412/855443589218439168401579.jpeg/GHedubIpKu0913KLXHzGDsB6a4FsM-Nn8xeuE_MXrhM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/70655/%E8%92%9C%E9%A0%AD%E5%8A%9F%E6%95%88-%E6%B6%88%E7%82%8E%E9%99%8D%E8%A1%80%E5%A3%93%E7%94%9F%E8%92%9C-%E7%86%9F%E8%92%9C%E5%93%AA%E7%A8%AE%E5%A5%BD-%E4%B8%AD%E9%86%AB%E6%8F%90%E9%86%92%E5%90%83%E9%8C%AF%E5%82%B7%E8%82%9D%E6%90%8D%E7%9B%AE",
     "timestamp": "2026-04-20T04:03:05.658Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "深水埗公園游泳池男子疑遇溺　昏迷送院搶救",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260420/1122828452571910144479028.jpeg/VYJaP5A3PRjVDxv0PnddQAoKmGn4jfBA8_-KVPP_ilQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60341763/%E6%B7%B1%E6%B0%B4%E5%9F%97%E5%85%AC%E5%9C%92%E6%B8%B8%E6%B3%B3%E6%B1%A0%E7%94%B7%E5%AD%90%E7%96%91%E9%81%87%E6%BA%BA-%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2%E6%90%B6%E6%95%91",
-    "timestamp": "2026-04-20T01:45:38.450Z",
     "strategy": ".content-card__main"
   }
 ];
