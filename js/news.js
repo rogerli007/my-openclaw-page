@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-20T14:03:45.827Z
+// Last updated: 2026-04-20T14:53:31.664Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "東張西望｜苦主體檢變驗精指睾丸會細到變珍珠　黃耀英聽到勁驚訝",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260420/1123011657006583808675294.jpeg/A4OtdjGm3E43yHu55czVxfY5UvF7Eb5uOXMMPDlzDDw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60342110/%E6%9D%B1%E5%BC%B5%E8%A5%BF%E6%9C%9B-%E8%8B%A6%E4%B8%BB%E9%AB%94%E6%AA%A2%E8%AE%8A%E9%A9%97%E7%B2%BE%E6%8C%87%E7%9D%BE%E4%B8%B8%E6%9C%83%E7%B4%B0%E5%88%B0%E8%AE%8A%E7%8F%8D%E7%8F%A0-%E9%BB%83%E8%80%80%E8%8B%B1%E8%81%BD%E5%88%B0%E5%8B%81%E9%A9%9A%E8%A8%9D",
+    "timestamp": "2026-04-20T14:53:31.664Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "警荃灣打擊街頭聚賭　拘12人最老91歲　檢賭具現金",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260419/1122676773373349888345708.jpeg/gFaGqDAJpIbZfJZKGd3sPjgLIBEqj7EWADeN_QA3jf0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60341730/%E8%8B%B1%E8%B6%85-%E9%9B%B2%E8%BF%AA%E7%A9%8D%E5%85%8B%E9%A0%98%E5%88%A9%E7%89%A9%E6%B5%A6%E6%8C%AB%E6%84%9B%E8%8F%AF%E9%A0%93-%E6%B2%99%E6%8B%BF%E6%9C%80%E5%BE%8C%E4%B8%80%E6%AC%A1%E6%89%93%E5%90%A1%E5%B9%B3%E8%AC%9D%E6%8B%89%E7%89%B9%E7%B4%80%E9%8C%84",
     "timestamp": "2026-04-19T16:53:10.397Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普：如美伊達成協議　很可能親赴伊斯蘭堡",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260407/1117999102920364032790526.jpeg/Qg7R5M97u-H7wwaVNelG5FBJvD6pcqj8_AdsQPwHbEA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60341735/%E7%89%B9%E6%9C%97%E6%99%AE-%E5%A6%82%E7%BE%8E%E4%BC%8A%E9%81%94%E6%88%90%E5%8D%94%E8%AD%B0-%E5%BE%88%E5%8F%AF%E8%83%BD%E8%A6%AA%E8%B5%B4%E4%BC%8A%E6%96%AF%E8%98%AD%E5%A0%A1",
-    "timestamp": "2026-04-19T16:25:34.485Z",
     "strategy": ".content-card__main"
   }
 ];
