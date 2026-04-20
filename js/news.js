@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-20T20:10:54.908Z
+// Last updated: 2026-04-20T20:35:00.701Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "中方對歐盟《網絡安全法》修訂草案嚴正關切　憂傷害中歐經貿關係",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20240710/887734315692068864365890.jpeg/ozPeqhfMRg4ZjWucEHxtZCX8K__WYy8abFOk_mxTpP4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60342136/%E4%B8%AD%E6%96%B9%E5%B0%8D%E6%AD%90%E7%9B%9F-%E7%B6%B2%E7%B5%A1%E5%AE%89%E5%85%A8%E6%B3%95-%E4%BF%AE%E8%A8%82%E8%8D%89%E6%A1%88%E5%9A%B4%E6%AD%A3%E9%97%9C%E5%88%87-%E6%86%82%E5%82%B7%E5%AE%B3%E4%B8%AD%E6%AD%90%E7%B6%93%E8%B2%BF%E9%97%9C%E4%BF%82",
+    "timestamp": "2026-04-20T20:35:00.701Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "墨西哥金字塔景區爆槍擊　包括槍手在內兩死　據指多人受傷",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260420/1122777551337426944457963.jpeg/Mxtnen1pcUoBtMatdn9R_SGC2HI2x_xaVwzwjFcM8Iw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60341738/%E7%A9%80%E9%9B%A8%E5%A4%A9%E6%B0%A3-%E4%BB%8A%E6%97%A9%E5%B1%80%E9%83%A8%E8%83%BD%E8%A6%8B%E5%BA%A6%E9%A0%97%E4%BD%8E-%E7%A8%8D%E5%BE%8C%E6%9C%89%E9%A9%9F%E9%9B%A8%E5%B1%80%E9%83%A8%E6%9C%89%E9%9B%B7%E6%9A%B4-%E6%9C%80%E9%AB%9829%E5%BA%A6",
     "timestamp": "2026-04-19T22:20:16.385Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "伊媒：伊朗已為戰火重燃做好準備　認為可能性高於繼續談判",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260420/1122741001396424704215370.jpeg/KZmZj1wpWM9c0yrAtUpWC6cEhgPa0yxT8j8at_I_Grc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60341748/%E4%BC%8A%E5%AA%92-%E4%BC%8A%E6%9C%97%E5%B7%B2%E7%82%BA%E6%88%B0%E7%81%AB%E9%87%8D%E7%87%83%E5%81%9A%E5%A5%BD%E6%BA%96%E5%82%99-%E8%AA%8D%E7%82%BA%E5%8F%AF%E8%83%BD%E6%80%A7%E9%AB%98%E6%96%BC%E7%B9%BC%E7%BA%8C%E8%AB%87%E5%88%A4",
-    "timestamp": "2026-04-19T21:51:11.256Z",
     "strategy": ".content-card__main"
   }
 ];
