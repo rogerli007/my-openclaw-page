@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-20T20:35:00.701Z
+// Last updated: 2026-04-20T21:07:13.085Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "Apple：庫克將卸任CEO　John Ternus於9月起接任",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260421/1123122480370683904503812.jpeg/AGPu-zdeqrjUFJssMk70XPDGpx1PElrEYwcGa2MHBms?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60342137/apple-%E5%BA%AB%E5%85%8B%E5%B0%87%E5%8D%B8%E4%BB%BBceo-john-ternus%E6%96%BC9%E6%9C%88%E8%B5%B7%E6%8E%A5%E4%BB%BB",
+    "timestamp": "2026-04-20T21:07:13.085Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "中方對歐盟《網絡安全法》修訂草案嚴正關切　憂傷害中歐經貿關係",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260419/1122668164086239232594601.jpeg/GWt1EAbyohFproKsTRkT-aFedKULjoIgkULA0pFCwNI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60341663/%E6%9D%8E%E9%9B%A8%E9%99%BD%E7%B5%82%E6%96%BC%E6%9C%89%E4%B8%BB%E8%A7%92%E5%81%9A%E6%B1%9F%E6%B9%96%E7%8C%9B%E4%BA%BA%E5%81%9A%E7%9B%A3%E8%A3%BD-%E6%9B%BE%E5%9B%9B%E5%87%BA%E6%90%B2%E6%92%88%E6%90%B5%E6%88%B2%E6%8B%8D%E4%BF%BE%E4%BA%BA%E5%AB%8C%E8%80%81",
     "timestamp": "2026-04-19T22:39:04.868Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "穀雨天氣｜今早局部能見度頗低　稍後有驟雨局部有雷暴　最高29度",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260420/1122777551337426944457963.jpeg/Mxtnen1pcUoBtMatdn9R_SGC2HI2x_xaVwzwjFcM8Iw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60341738/%E7%A9%80%E9%9B%A8%E5%A4%A9%E6%B0%A3-%E4%BB%8A%E6%97%A9%E5%B1%80%E9%83%A8%E8%83%BD%E8%A6%8B%E5%BA%A6%E9%A0%97%E4%BD%8E-%E7%A8%8D%E5%BE%8C%E6%9C%89%E9%A9%9F%E9%9B%A8%E5%B1%80%E9%83%A8%E6%9C%89%E9%9B%B7%E6%9A%B4-%E6%9C%80%E9%AB%9829%E5%BA%A6",
-    "timestamp": "2026-04-19T22:20:16.385Z",
     "strategy": ".content-card__main"
   }
 ];
