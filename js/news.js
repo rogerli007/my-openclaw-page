@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-20T09:01:55.854Z
+// Last updated: 2026-04-20T09:50:26.654Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "預測市場平台Polymarket傳籌31億　估值近1200億元",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260409/1118944924549517312108249.jpeg/aiJWdr7fLg_hiMWKLkWNGWDGUcqRVGuVXqFyM16hcjM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60342027/%E9%A0%90%E6%B8%AC%E5%B8%82%E5%A0%B4%E5%B9%B3%E5%8F%B0polymarket%E5%82%B3%E7%B1%8C31%E5%84%84-%E4%BC%B0%E5%80%BC%E8%BF%911200%E5%84%84%E5%85%83",
+    "timestamp": "2026-04-20T09:50:26.654Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "宏福苑上樓｜妻捨身救5命　宏泰葉生提早到：想拎有紀念價值嘅嘢",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260419/1122668154628345856054938.jpeg/1xxV9zqUDQN-CbzJ-9l63QNua2MsREQFR2SYtUdkmLU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60341726/%E7%BF%A0%E5%B1%8F%E5%8C%97%E9%82%A8%E9%80%9A%E9%81%8E%E6%9A%AB%E7%B7%A9%E6%89%80%E6%9C%89%E5%A4%A7%E7%B6%AD%E4%BF%AE%E5%8F%8A%E5%A4%96%E7%89%86%E4%BF%AE%E8%91%BA%E7%AD%89%E5%B7%A5%E7%A8%8B-%E7%B5%82%E6%AD%A2%E9%B4%BB%E6%AF%85%E9%A1%A7%E5%95%8F%E5%B7%A5%E4%BD%9C",
     "timestamp": "2026-04-19T15:25:03.446Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "宏福苑｜居民冀改上樓時間遭拒　政府：正處理10戶居民改時間申請",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260418/1122237734615126016824659.jpeg/SmVjGcBuxZ76GQKNaqMDv_PU2t-gYpXpT_aRjmX2kY4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60341715/%E5%AE%8F%E7%A6%8F%E8%8B%91-%E5%B1%85%E6%B0%91%E5%86%80%E6%94%B9%E4%B8%8A%E6%A8%93%E6%99%82%E9%96%93%E9%81%AD%E6%8B%92-%E6%94%BF%E5%BA%9C-%E6%AD%A3%E8%99%95%E7%90%8610%E6%88%B6%E5%B1%85%E6%B0%91%E6%94%B9%E6%99%82%E9%96%93%E7%94%B3%E8%AB%8B",
-    "timestamp": "2026-04-19T14:34:56.726Z",
     "strategy": ".content-card__main"
   }
 ];
