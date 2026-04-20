@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-20T05:16:56.257Z
+// Last updated: 2026-04-20T06:11:47.144Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "鐵達尼號救生衣英國拍賣　附生還者簽名　710萬成交遠超原估價",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260420/1122880117484294144754169.jpeg/cD6b_W62tlNSc39oSNGbRstq9M3Y2jvnFpQ_dhaUP3Y?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%92%B0%E7%90%83%E8%B6%A3%E8%81%9E/60341818/%E9%90%B5%E9%81%94%E5%B0%BC%E8%99%9F%E6%95%91%E7%94%9F%E8%A1%A3%E8%8B%B1%E5%9C%8B%E6%8B%8D%E8%B3%A3-%E9%99%84%E7%94%9F%E9%82%84%E8%80%85%E7%B0%BD%E5%90%8D-710%E8%90%AC%E6%88%90%E4%BA%A4%E9%81%A0%E8%B6%85%E5%8E%9F%E4%BC%B0%E5%83%B9",
+    "timestamp": "2026-04-20T06:11:47.144Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "正義女神線上看大結局25劇情｜高成彬如何?佘詩曼陳煒法庭再交手",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260419/1122636701844377600421670.jpeg/FrQy7LXzg8_KJklWdEgZGtf26MjHl_vdI9mBghrZgYI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60341692/%E9%87%91%E5%83%8F%E7%8D%8E2026-%E5%91%A8%E6%BD%A4%E7%99%BC%E5%A4%9A%E8%AC%9D%E6%9C%B1%E5%AE%B6%E6%AC%A3%E9%A9%9A%E6%8F%AD%E7%A5%9E%E7%A7%98%E9%97%9C%E4%BF%82-%E5%86%87%E4%BD%A2%E8%80%81%E7%88%B9%E6%88%91%E7%95%A2%E5%94%94%E5%88%B0%E6%A5%AD",
     "timestamp": "2026-04-19T12:54:06.071Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "金像獎2026｜鄧濤奪獎疑回應陳可辛　對未來有希望：我相信有UFO",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260419/1122629238411759616103674.jpeg/MaV0hTIjepO224a8fp7WK2_w-rL0hNrjQBQi73kUIu8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60341683/%E9%87%91%E5%83%8F%E7%8D%8E2026-%E9%84%A7%E6%BF%A4%E5%A5%AA%E7%8D%8E%E7%96%91%E5%9B%9E%E6%87%89%E9%99%B3%E5%8F%AF%E8%BE%9B-%E5%B0%8D%E6%9C%AA%E4%BE%86%E6%9C%89%E5%B8%8C%E6%9C%9B-%E6%88%91%E7%9B%B8%E4%BF%A1%E6%9C%89ufo",
-    "timestamp": "2026-04-19T12:24:23.274Z",
     "strategy": ".content-card__main"
   }
 ];
