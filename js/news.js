@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-20T09:50:26.654Z
+// Last updated: 2026-04-20T11:17:16.921Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "日本3月旅客人次創歷年新高　香港佔21.6萬　內地客按年暴跌一半",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/1322154/org/ffe951268b23757be19430de12beea98.JPG/AUepBs1EOI3kGMFTQRgXHn_BIBsBh3ZuKL7_PT2-_z0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60342074/%E6%97%A5%E6%9C%AC3%E6%9C%88%E6%97%85%E5%AE%A2%E4%BA%BA%E6%AC%A1%E5%89%B5%E6%AD%B7%E5%B9%B4%E6%96%B0%E9%AB%98-%E9%A6%99%E6%B8%AF%E4%BD%9421-6%E8%90%AC-%E5%85%A7%E5%9C%B0%E5%AE%A2%E6%8C%89%E5%B9%B4%E6%9A%B4%E8%B7%8C%E4%B8%80%E5%8D%8A",
+    "timestamp": "2026-04-20T11:17:16.921Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "預測市場平台Polymarket傳籌31億　估值近1200億元",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260419/1122679782593662976816597.jpeg/UWnX-gK4lNesSHFgpp7K51CQy8b7r6YsXh7Fdl4exXY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60341731/%E4%B8%83%E6%AC%96-%E9%A6%AC%E6%9C%83%E6%94%AF%E6%8C%81%E5%9C%8B%E9%9A%9B%E6%AC%96%E7%90%83%E7%9B%9B%E4%BA%8B-%E6%8E%A8%E7%A4%BE%E5%8D%80%E8%A8%88%E5%8A%83%E6%83%A0%E5%8F%8A%E9%80%BE12000%E4%BA%BA",
     "timestamp": "2026-04-19T15:52:11.817Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "翠屏北邨通過暫緩所有大維修及外牆修葺等工程　終止鴻毅顧問工作",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260419/1122668154628345856054938.jpeg/1xxV9zqUDQN-CbzJ-9l63QNua2MsREQFR2SYtUdkmLU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60341726/%E7%BF%A0%E5%B1%8F%E5%8C%97%E9%82%A8%E9%80%9A%E9%81%8E%E6%9A%AB%E7%B7%A9%E6%89%80%E6%9C%89%E5%A4%A7%E7%B6%AD%E4%BF%AE%E5%8F%8A%E5%A4%96%E7%89%86%E4%BF%AE%E8%91%BA%E7%AD%89%E5%B7%A5%E7%A8%8B-%E7%B5%82%E6%AD%A2%E9%B4%BB%E6%AF%85%E9%A1%A7%E5%95%8F%E5%B7%A5%E4%BD%9C",
-    "timestamp": "2026-04-19T15:25:03.446Z",
     "strategy": ".content-card__main"
   }
 ];
