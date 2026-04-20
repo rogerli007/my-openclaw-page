@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-20T22:35:11.042Z
+// Last updated: 2026-04-20T23:25:34.174Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "15歲少女蒙眼等驚喜！慘遭2未成年閨密殘忍殺害　法院輕判惹公憤",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260420/1122963970945191936853297.png/jeCUZMFaZl8Xv6o8TETPwj32GD4vMhSxNQTHsTUEx7E?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E8%A9%B1%E9%A1%8C/60341772/15%E6%AD%B2%E5%B0%91%E5%A5%B3%E8%92%99%E7%9C%BC%E7%AD%89%E9%A9%9A%E5%96%9C-%E6%85%98%E9%81%AD2%E6%9C%AA%E6%88%90%E5%B9%B4%E9%96%A8%E5%AF%86%E6%AE%98%E5%BF%8D%E6%AE%BA%E5%AE%B3-%E6%B3%95%E9%99%A2%E8%BC%95%E5%88%A4%E6%83%B9%E5%85%AC%E6%86%A4",
+    "timestamp": "2026-04-20T23:25:34.174Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "伊朗戰爭｜穆傑塔巴重申基本立場　外長︰將綜合評估下一步行動",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260420/1122828452571910144479028.jpeg/VYJaP5A3PRjVDxv0PnddQAoKmGn4jfBA8_-KVPP_ilQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60341763/%E6%B7%B1%E6%B0%B4%E5%9F%97%E5%85%AC%E5%9C%92%E6%B8%B8%E6%B3%B3%E6%B1%A0%E7%94%B7%E5%AD%90%E7%96%91%E9%81%87%E6%BA%BA-%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2%E6%90%B6%E6%95%91",
     "timestamp": "2026-04-20T01:45:38.450Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "金像獎2026｜姚敏琦從偶像俞琤手上奪「專業精神獎」：最開心嘅事",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260420/1122737200509751296602943.jpeg/-vX95TeBuW04hgC7obtQF_cVB2gbUgbr5lCzONxQszg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60341747/%E9%87%91%E5%83%8F%E7%8D%8E2026-%E5%A7%9A%E6%95%8F%E7%90%A6%E5%BE%9E%E5%81%B6%E5%83%8F%E4%BF%9E%E7%90%A4%E6%89%8B%E4%B8%8A%E5%A5%AA-%E5%B0%88%E6%A5%AD%E7%B2%BE%E7%A5%9E%E7%8D%8E-%E6%9C%80%E9%96%8B%E5%BF%83%E5%98%85%E4%BA%8B",
-    "timestamp": "2026-04-19T23:51:57.185Z",
     "strategy": ".content-card__main"
   }
 ];
