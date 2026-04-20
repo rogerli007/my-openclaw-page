@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-20T18:42:42.408Z
+// Last updated: 2026-04-20T19:45:11.130Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "警破元朗懷疑製毒工場拘一女　檢值140萬元依托咪酯煙彈及原材料",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260421/1123090125518016512230867.jpeg/GUDvy_gkJIcFrtOjd2MkumNdcAknILrAh9AslYfQLJU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60342134/%E8%AD%A6%E7%A0%B4%E5%85%83%E6%9C%97%E6%87%B7%E7%96%91%E8%A3%BD%E6%AF%92%E5%B7%A5%E5%A0%B4%E6%8B%98%E4%B8%80%E5%A5%B3-%E6%AA%A2%E5%80%BC140%E8%90%AC%E5%85%83%E4%BE%9D%E6%89%98%E5%92%AA%E9%85%AF%E7%85%99%E5%BD%88%E5%8F%8A%E5%8E%9F%E6%9D%90%E6%96%99",
+    "timestamp": "2026-04-20T19:45:11.130Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "特朗普：如未能與伊朗達成協議　極不可能延長停火",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260420/1122747598772375552496130.jpeg/lMi1RvIFlcMOZtLmpS7rEReoSW0a6FApZ9SormfUqK4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60341749/%E4%BC%8A%E6%9C%97%E6%88%B0%E7%88%AD-%E7%89%B9%E6%9C%97%E6%99%AE-%E4%B8%80%E8%89%98%E4%BC%8A%E6%9C%97%E8%B2%A8%E8%88%B9%E5%9C%96%E7%AA%81%E7%A0%B4%E5%B0%81%E9%8E%96-%E9%81%AD%E7%BE%8E%E8%BB%8D%E9%96%8B%E7%81%AB%E5%8F%8A%E6%89%A3%E6%8A%BC",
     "timestamp": "2026-04-19T20:20:12.458Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "加拿大總理：與美關係優勢變劣勢　需藉外貿易多樣化應對挑戰",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260123/1091247353840537600205187.jpeg/D4SVGvoOBOX-OlEHv-vN4X9arS9SlWbG51C-xedQvsU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60341745/%E5%8A%A0%E6%8B%BF%E5%A4%A7%E7%B8%BD%E7%90%86-%E8%88%87%E7%BE%8E%E9%97%9C%E4%BF%82%E5%84%AA%E5%8B%A2%E8%AE%8A%E5%8A%A3%E5%8B%A2-%E9%9C%80%E8%97%89%E5%A4%96%E8%B2%BF%E6%98%93%E5%A4%9A%E6%A8%A3%E5%8C%96%E6%87%89%E5%B0%8D%E6%8C%91%E6%88%B0",
-    "timestamp": "2026-04-19T19:51:10.211Z",
     "strategy": ".content-card__main"
   }
 ];
