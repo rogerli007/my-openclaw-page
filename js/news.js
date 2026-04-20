@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-20T07:09:04.663Z
+// Last updated: 2026-04-20T09:01:55.854Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "宏福苑上樓｜妻捨身救5命　宏泰葉生提早到：想拎有紀念價值嘅嘢",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260420/1122927689808744448754693.jpeg/kkrGe6EubBKrMembZjJi23BA2sW6DdXk0v5bw9L-W8M?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60341973/%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%B8%8A%E6%A8%93-%E5%A6%BB%E6%8D%A8%E8%BA%AB%E6%95%915%E5%91%BD-%E5%AE%8F%E6%B3%B0%E8%91%89%E7%94%9F%E6%8F%90%E6%97%A9%E5%88%B0-%E6%83%B3%E6%8B%8E%E6%9C%89%E7%B4%80%E5%BF%B5%E5%83%B9%E5%80%BC%E5%98%85%E5%98%A2",
+    "timestamp": "2026-04-20T09:01:55.854Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "是回家也是告別！宏新閣居民取回掛畫與結婚書　喚喚罹難愛貓名字",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260418/1122237734615126016824659.jpeg/SmVjGcBuxZ76GQKNaqMDv_PU2t-gYpXpT_aRjmX2kY4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60341715/%E5%AE%8F%E7%A6%8F%E8%8B%91-%E5%B1%85%E6%B0%91%E5%86%80%E6%94%B9%E4%B8%8A%E6%A8%93%E6%99%82%E9%96%93%E9%81%AD%E6%8B%92-%E6%94%BF%E5%BA%9C-%E6%AD%A3%E8%99%95%E7%90%8610%E6%88%B6%E5%B1%85%E6%B0%91%E6%94%B9%E6%99%82%E9%96%93%E7%94%B3%E8%AB%8B",
     "timestamp": "2026-04-19T14:34:56.726Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "將軍澳持刀．內情｜16歲仔持膠刀扮遊戲角色玩捉伊人　警口頭警告",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260419/1122461938626859008124859.png/b5WAZObWh3NrFm3dXTlrXHvAJfvAWxEhMi84mDIvOJg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60341710/%E5%B0%87%E8%BB%8D%E6%BE%B3%E6%8C%81%E5%88%80-%E5%85%A7%E6%83%85-16%E6%AD%B2%E4%BB%94%E6%8C%81%E8%86%A0%E5%88%80%E6%89%AE%E9%81%8A%E6%88%B2%E8%A7%92%E8%89%B2%E7%8E%A9%E6%8D%89%E4%BC%8A%E4%BA%BA-%E8%AD%A6%E5%8F%A3%E9%A0%AD%E8%AD%A6%E5%91%8A",
-    "timestamp": "2026-04-19T14:09:04.582Z",
     "strategy": ".content-card__main"
   }
 ];
