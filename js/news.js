@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-21T20:38:24.971Z
+// Last updated: 2026-04-21T22:32:46.949Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "天氣｜今日最高30度　稍後有一兩陣驟雨　明有狂風雷暴氣溫稍降",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260422/1123501765820551168682794.jpeg/ZJ_DB7GUl6XvsAv7xaYvvsta5bGA9AHVH5KZWR-SmVk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60342535/%E5%A4%A9%E6%B0%A3-%E4%BB%8A%E6%97%A5%E6%9C%80%E9%AB%9830%E5%BA%A6-%E7%A8%8D%E5%BE%8C%E6%9C%89%E4%B8%80%E5%85%A9%E9%99%A3%E9%A9%9F%E9%9B%A8-%E6%98%8E%E6%9C%89%E7%8B%82%E9%A2%A8%E9%9B%B7%E6%9A%B4%E6%B0%A3%E6%BA%AB%E7%A8%8D%E9%99%8D",
+    "timestamp": "2026-04-21T22:32:46.949Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "伊朗外長：美國封鎖港口是戰爭行為　伊朗能夠「化解限制」",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20221119/670678206277750784513724.jpeg/6f1HmWKAFCs3oyJfeaVxkReeSKz5xLX0HQvBlx0LwZc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60342139/%E5%8A%A0%E6%8B%BF%E5%A4%A7%E5%AE%A3%E5%B8%83%E9%80%90%E6%AD%A5%E5%A2%9E%E5%8A%A0%E5%B0%8D%E8%8F%AF%E7%9B%B4%E8%88%AA%E8%88%AA%E7%8F%AD-%E6%8E%A8%E5%8B%95%E8%B2%BF%E6%98%93%E5%A4%9A%E5%85%83%E5%8C%96",
     "timestamp": "2026-04-20T23:52:27.518Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "15歲少女蒙眼等驚喜！慘遭2未成年閨密殘忍殺害　法院輕判惹公憤",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260420/1122963970945191936853297.png/jeCUZMFaZl8Xv6o8TETPwj32GD4vMhSxNQTHsTUEx7E?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E8%A9%B1%E9%A1%8C/60341772/15%E6%AD%B2%E5%B0%91%E5%A5%B3%E8%92%99%E7%9C%BC%E7%AD%89%E9%A9%9A%E5%96%9C-%E6%85%98%E9%81%AD2%E6%9C%AA%E6%88%90%E5%B9%B4%E9%96%A8%E5%AF%86%E6%AE%98%E5%BF%8D%E6%AE%BA%E5%AE%B3-%E6%B3%95%E9%99%A2%E8%BC%95%E5%88%A4%E6%83%B9%E5%85%AC%E6%86%A4",
-    "timestamp": "2026-04-20T23:25:34.174Z",
     "strategy": ".content-card__main"
   }
 ];
