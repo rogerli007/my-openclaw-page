@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-21T12:12:28.409Z
+// Last updated: 2026-04-21T12:45:31.232Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "口罩小姐徐蒨駖宣布離婚　9年夫妻關係告終：我哋會共同撫養女兒",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260421/1123357965718392832690751.png/LreWQoQUgTxZ1YjVcRGQS_VYSAI1UGELzy5P8s8uT_I?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60342500/%E5%8F%A3%E7%BD%A9%E5%B0%8F%E5%A7%90%E5%BE%90%E8%92%A8%E9%A7%96%E5%AE%A3%E5%B8%83%E9%9B%A2%E5%A9%9A-9%E5%B9%B4%E5%A4%AB%E5%A6%BB%E9%97%9C%E4%BF%82%E5%91%8A%E7%B5%82-%E6%88%91%E5%93%8B%E6%9C%83%E5%85%B1%E5%90%8C%E6%92%AB%E9%A4%8A%E5%A5%B3%E5%85%92",
+    "timestamp": "2026-04-21T12:45:31.232Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "滙豐︰未涉伊朗洗錢活動　派息比率維持50%　暫無意恢復以股代息",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260420/1123011657006583808675294.jpeg/A4OtdjGm3E43yHu55czVxfY5UvF7Eb5uOXMMPDlzDDw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60342110/%E6%9D%B1%E5%BC%B5%E8%A5%BF%E6%9C%9B-%E8%8B%A6%E4%B8%BB%E9%AB%94%E6%AA%A2%E8%AE%8A%E9%A9%97%E7%B2%BE%E6%8C%87%E7%9D%BE%E4%B8%B8%E6%9C%83%E7%B4%B0%E5%88%B0%E8%AE%8A%E7%8F%8D%E7%8F%A0-%E9%BB%83%E8%80%80%E8%8B%B1%E8%81%BD%E5%88%B0%E5%8B%81%E9%A9%9A%E8%A8%9D",
     "timestamp": "2026-04-20T14:53:31.664Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "警荃灣打擊街頭聚賭　拘12人最老91歲　檢賭具現金",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260420/1123005585952870400537069.jpeg/F8Tu_CPq2McxGAPeIjBZnnpXvIMAAYTcoTs1U6E7NVM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60342102/%E8%AD%A6%E8%8D%83%E7%81%A3%E6%89%93%E6%93%8A%E8%A1%97%E9%A0%AD%E8%81%9A%E8%B3%AD-%E6%8B%9812%E4%BA%BA%E6%9C%80%E8%80%8191%E6%AD%B2-%E6%AA%A2%E8%B3%AD%E5%85%B7%E7%8F%BE%E9%87%91",
-    "timestamp": "2026-04-20T14:03:45.827Z",
     "strategy": ".content-card__main"
   }
 ];
