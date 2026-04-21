@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-21T19:52:12.008Z
+// Last updated: 2026-04-21T20:16:06.189Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "伊朗外長：美國封鎖港口是戰爭行為　伊朗能夠「化解限制」",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260222/1102099544411213824719458.jpeg/CRG-xVc3VxrVygUd9wkhe3u5YzUOH2wXESqqPREqqj0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60342545/%E4%BC%8A%E6%9C%97%E5%A4%96%E9%95%B7-%E7%BE%8E%E5%9C%8B%E5%B0%81%E9%8E%96%E6%B8%AF%E5%8F%A3%E6%98%AF%E6%88%B0%E7%88%AD%E8%A1%8C%E7%82%BA-%E4%BC%8A%E6%9C%97%E8%83%BD%E5%A4%A0-%E5%8C%96%E8%A7%A3%E9%99%90%E5%88%B6",
+    "timestamp": "2026-04-21T20:16:06.189Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "伊朗外長：美國封鎖港口是戰爭行為　伊朗能夠「化解限制」",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260312/1108592471115304960963721.jpeg/Av5S8OVo8r-AN3OMqe7Krw_mtLRJrq3veJWmZXiVpmU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60342142/%E4%BC%8A%E6%9C%97%E6%88%B0%E7%88%AD-%E7%A9%86%E5%82%91%E5%A1%94%E5%B7%B4%E9%87%8D%E7%94%B3%E5%9F%BA%E6%9C%AC%E7%AB%8B%E5%A0%B4-%E5%A4%96%E9%95%B7-%E5%B0%87%E7%B6%9C%E5%90%88%E8%A9%95%E4%BC%B0%E4%B8%8B%E4%B8%80%E6%AD%A5%E8%A1%8C%E5%8B%95",
     "timestamp": "2026-04-20T22:35:11.042Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "投資者黎永滔4168萬沽中環雲咸街樓上舖　利豐馮氏家族接貨",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260119/1089999279742783488269817.jpeg/RzoUGjHnqOvfV9olhDOkG5QknZgx5Qa7YEIq_2BCKv8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60341986/%E6%8A%95%E8%B3%87%E8%80%85%E9%BB%8E%E6%B0%B8%E6%BB%944168%E8%90%AC%E6%B2%BD%E4%B8%AD%E7%92%B0%E9%9B%B2%E5%92%B8%E8%A1%97%E6%A8%93%E4%B8%8A%E8%88%96-%E5%88%A9%E8%B1%90%E9%A6%AE%E6%B0%8F%E5%AE%B6%E6%97%8F%E6%8E%A5%E8%B2%A8",
-    "timestamp": "2026-04-20T22:12:57.780Z",
     "strategy": ".content-card__main"
   }
 ];
