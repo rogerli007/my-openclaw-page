@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-21T04:01:47.389Z
+// Last updated: 2026-04-21T06:02:14.714Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "消防隊目訛稱父患癌借錢　獲同袍友人借17萬應急　認欺詐等罪候判",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20230826/771954381288378368167029.jpeg/uVr6Q6hKRYskTx1ivG9X0KvOGxXKzBir7rCEEe6whBE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60342299/%E6%B6%88%E9%98%B2%E9%9A%8A%E7%9B%AE%E8%A8%9B%E7%A8%B1%E7%88%B6%E6%82%A3%E7%99%8C%E5%80%9F%E9%8C%A2-%E7%8D%B2%E5%90%8C%E8%A2%8D%E5%8F%8B%E4%BA%BA%E5%80%9F17%E8%90%AC%E6%87%89%E6%80%A5-%E8%AA%8D%E6%AC%BA%E8%A9%90%E7%AD%89%E7%BD%AA%E5%80%99%E5%88%A4",
+    "timestamp": "2026-04-21T06:02:14.714Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "部門首長責任制不涵常秘是漏洞？李家超反對搞針對　司局長會問責",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260420/1122880117484294144754169.jpeg/cD6b_W62tlNSc39oSNGbRstq9M3Y2jvnFpQ_dhaUP3Y?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%92%B0%E7%90%83%E8%B6%A3%E8%81%9E/60341818/%E9%90%B5%E9%81%94%E5%B0%BC%E8%99%9F%E6%95%91%E7%94%9F%E8%A1%A3%E8%8B%B1%E5%9C%8B%E6%8B%8D%E8%B3%A3-%E9%99%84%E7%94%9F%E9%82%84%E8%80%85%E7%B0%BD%E5%90%8D-710%E8%90%AC%E6%88%90%E4%BA%A4%E9%81%A0%E8%B6%85%E5%8E%9F%E4%BC%B0%E5%83%B9",
     "timestamp": "2026-04-20T06:11:47.144Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "正義女神線上看大結局25劇情｜高成彬如何?佘詩曼陳煒法庭再交手",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260317/1110382153528512512765132.jpeg/jBw5Ak0swEvn7sCtI1rpdQIdiBaimcxt43N1nuNzdZ4?v=w1920",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60330750/%E6%AD%A3%E7%BE%A9%E5%A5%B3%E7%A5%9E%E7%B7%9A%E4%B8%8A%E7%9C%8B%E5%A4%A7%E7%B5%90%E5%B1%8025%E5%8A%87%E6%83%85-%E9%AB%98%E6%88%90%E5%BD%AC%E5%A6%82%E4%BD%95-%E4%BD%98%E8%A9%A9%E6%9B%BC%E9%99%B3%E7%85%92%E6%B3%95%E5%BA%AD%E5%86%8D%E4%BA%A4%E6%89%8B",
-    "timestamp": "2026-04-20T05:16:56.257Z",
     "strategy": ".content-card__main"
   }
 ];
