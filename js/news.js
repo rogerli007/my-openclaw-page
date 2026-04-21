@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-21T06:56:36.251Z
+// Last updated: 2026-04-21T07:44:51.579Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "62歲男騎車蚊子入眼揉眼竟讓視力降至0.04　醫生：真菌性角膜潰瘍",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250829/1038132148143394816549286.jpeg/hRszSkF-i7Xhc87Auc9wxJ8i_hcx-TPb44P0UOOD9FA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60342342/62%E6%AD%B2%E7%94%B7%E9%A8%8E%E8%BB%8A%E8%9A%8A%E5%AD%90%E5%85%A5%E7%9C%BC%E6%8F%89%E7%9C%BC%E7%AB%9F%E8%AE%93%E8%A6%96%E5%8A%9B%E9%99%8D%E8%87%B30-04-%E9%86%AB%E7%94%9F-%E7%9C%9F%E8%8F%8C%E6%80%A7%E8%A7%92%E8%86%9C%E6%BD%B0%E7%98%8D",
+    "timestamp": "2026-04-21T07:44:51.579Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "黎智英案｜政府求取黎逾1.27億財產　黎獲退還200萬罰款亦須充公",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260420/1122927689808744448754693.jpeg/kkrGe6EubBKrMembZjJi23BA2sW6DdXk0v5bw9L-W8M?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60341973/%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%B8%8A%E6%A8%93-%E5%A6%BB%E6%8D%A8%E8%BA%AB%E6%95%915%E5%91%BD-%E5%AE%8F%E6%B3%B0%E8%91%89%E7%94%9F%E6%8F%90%E6%97%A9%E5%88%B0-%E6%83%B3%E6%8B%8E%E6%9C%89%E7%B4%80%E5%BF%B5%E5%83%B9%E5%80%BC%E5%98%85%E5%98%A2",
     "timestamp": "2026-04-20T09:01:55.854Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "是回家也是告別！宏新閣居民取回掛畫與結婚書　喚喚罹難愛貓名字",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260420/1122905952660492288138692.jpeg/2iMeJPC898xpZEyyWk90cN6W5y9UHg7A7Mme6-zJnus?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60341907/%E6%98%AF%E5%9B%9E%E5%AE%B6%E4%B9%9F%E6%98%AF%E5%91%8A%E5%88%A5-%E5%AE%8F%E6%96%B0%E9%96%A3%E5%B1%85%E6%B0%91%E5%8F%96%E5%9B%9E%E6%8E%9B%E7%95%AB%E8%88%87%E7%B5%90%E5%A9%9A%E6%9B%B8-%E5%96%9A%E5%96%9A%E7%BD%B9%E9%9B%A3%E6%84%9B%E8%B2%93%E5%90%8D%E5%AD%97",
-    "timestamp": "2026-04-20T07:09:04.663Z",
     "strategy": ".content-card__main"
   }
 ];
