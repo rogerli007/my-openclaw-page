@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-21T07:44:51.579Z
+// Last updated: 2026-04-21T09:12:51.211Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "番薯發芽有黑黏液不能吃？專家解謎無毒又通便+1招保存應否放雪櫃",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260421/1123270689399246848297541.jpeg/OZXQbwdJCuAH_emRegvOuzek-wj8K7E64OxUguDsVII?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60327768/%E7%95%AA%E8%96%AF%E7%99%BC%E8%8A%BD%E6%9C%89%E9%BB%91%E9%BB%8F%E6%B6%B2%E4%B8%8D%E8%83%BD%E5%90%83-%E5%B0%88%E5%AE%B6%E8%A7%A3%E8%AC%8E%E7%84%A1%E6%AF%92%E5%8F%88%E9%80%9A%E4%BE%BF-1%E6%8B%9B%E4%BF%9D%E5%AD%98%E6%87%89%E5%90%A6%E6%94%BE%E9%9B%AA%E6%AB%83",
+    "timestamp": "2026-04-21T09:12:51.211Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "62歲男騎車蚊子入眼揉眼竟讓視力降至0.04　醫生：真菌性角膜潰瘍",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260409/1118944924549517312108249.jpeg/aiJWdr7fLg_hiMWKLkWNGWDGUcqRVGuVXqFyM16hcjM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60342027/%E9%A0%90%E6%B8%AC%E5%B8%82%E5%A0%B4%E5%B9%B3%E5%8F%B0polymarket%E5%82%B3%E7%B1%8C31%E5%84%84-%E4%BC%B0%E5%80%BC%E8%BF%911200%E5%84%84%E5%85%83",
     "timestamp": "2026-04-20T09:50:26.654Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "宏福苑上樓｜妻捨身救5命　宏泰葉生提早到：想拎有紀念價值嘅嘢",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260420/1122927689808744448754693.jpeg/kkrGe6EubBKrMembZjJi23BA2sW6DdXk0v5bw9L-W8M?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60341973/%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%B8%8A%E6%A8%93-%E5%A6%BB%E6%8D%A8%E8%BA%AB%E6%95%915%E5%91%BD-%E5%AE%8F%E6%B3%B0%E8%91%89%E7%94%9F%E6%8F%90%E6%97%A9%E5%88%B0-%E6%83%B3%E6%8B%8E%E6%9C%89%E7%B4%80%E5%BF%B5%E5%83%B9%E5%80%BC%E5%98%85%E5%98%A2",
-    "timestamp": "2026-04-20T09:01:55.854Z",
     "strategy": ".content-card__main"
   }
 ];
