@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-21T22:32:46.949Z
+// Last updated: 2026-04-21T22:55:46.399Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "條路自己揀！年青人的十字街頭！｜汪敦敬",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260210/1097907503150141440452970.jpeg/KGhuYLZfZ7Yof9rax55MdekxiOp_-Y-IjCTLzYwky80?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60342479/%E6%A2%9D%E8%B7%AF%E8%87%AA%E5%B7%B1%E6%8F%80-%E5%B9%B4%E9%9D%92%E4%BA%BA%E7%9A%84%E5%8D%81%E5%AD%97%E8%A1%97%E9%A0%AD-%E6%B1%AA%E6%95%A6%E6%95%AC",
+    "timestamp": "2026-04-21T22:55:46.399Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "天氣｜今日最高30度　稍後有一兩陣驟雨　明有狂風雷暴氣溫稍降",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260421/1123218815552196608406213.jpeg/9pfIoXdXcADdWIA4s-5MzHIxuMVjv7MkOzxqjx48ao8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60342238/%E9%83%A8%E9%96%80%E9%A6%96%E9%95%B7%E8%B2%AC%E4%BB%BB%E5%88%B6%E4%B8%8D%E6%B6%B5%E5%B8%B8%E7%A7%98%E6%98%AF%E6%BC%8F%E6%B4%9E-%E6%9D%8E%E5%AE%B6%E8%B6%85%E5%8F%8D%E5%B0%8D%E6%90%9E%E9%87%9D%E5%B0%8D-%E5%8F%B8%E5%B1%80%E9%95%B7%E6%9C%83%E5%95%8F%E8%B2%AC",
     "timestamp": "2026-04-21T04:01:47.389Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "加拿大宣布逐步增加對華直航航班　推動貿易多元化",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20221119/670678206277750784513724.jpeg/6f1HmWKAFCs3oyJfeaVxkReeSKz5xLX0HQvBlx0LwZc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60342139/%E5%8A%A0%E6%8B%BF%E5%A4%A7%E5%AE%A3%E5%B8%83%E9%80%90%E6%AD%A5%E5%A2%9E%E5%8A%A0%E5%B0%8D%E8%8F%AF%E7%9B%B4%E8%88%AA%E8%88%AA%E7%8F%AD-%E6%8E%A8%E5%8B%95%E8%B2%BF%E6%98%93%E5%A4%9A%E5%85%83%E5%8C%96",
-    "timestamp": "2026-04-20T23:52:27.518Z",
     "strategy": ".content-card__main"
   }
 ];
