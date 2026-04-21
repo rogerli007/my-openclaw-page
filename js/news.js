@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-21T22:55:46.399Z
+// Last updated: 2026-04-21T23:22:57.928Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美國與歐盟加強對伊朗制裁",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260122/1090906562152632320842159.jpeg/uyR5G5qMD-RUnJ-Z8W42v-juuexgp6Q7xrj3Nca49zU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60342550/%E7%BE%8E%E5%9C%8B%E8%88%87%E6%AD%90%E7%9B%9F%E5%8A%A0%E5%BC%B7%E5%B0%8D%E4%BC%8A%E6%9C%97%E5%88%B6%E8%A3%81",
+    "timestamp": "2026-04-21T23:22:57.928Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "條路自己揀！年青人的十字街頭！｜汪敦敬",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20230826/771954381288378368167029.jpeg/uVr6Q6hKRYskTx1ivG9X0KvOGxXKzBir7rCEEe6whBE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60342299/%E6%B6%88%E9%98%B2%E9%9A%8A%E7%9B%AE%E8%A8%9B%E7%A8%B1%E7%88%B6%E6%82%A3%E7%99%8C%E5%80%9F%E9%8C%A2-%E7%8D%B2%E5%90%8C%E8%A2%8D%E5%8F%8B%E4%BA%BA%E5%80%9F17%E8%90%AC%E6%87%89%E6%80%A5-%E8%AA%8D%E6%AC%BA%E8%A9%90%E7%AD%89%E7%BD%AA%E5%80%99%E5%88%A4",
     "timestamp": "2026-04-21T06:02:14.714Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "部門首長責任制不涵常秘是漏洞？李家超反對搞針對　司局長會問責",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260421/1123218815552196608406213.jpeg/9pfIoXdXcADdWIA4s-5MzHIxuMVjv7MkOzxqjx48ao8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60342238/%E9%83%A8%E9%96%80%E9%A6%96%E9%95%B7%E8%B2%AC%E4%BB%BB%E5%88%B6%E4%B8%8D%E6%B6%B5%E5%B8%B8%E7%A7%98%E6%98%AF%E6%BC%8F%E6%B4%9E-%E6%9D%8E%E5%AE%B6%E8%B6%85%E5%8F%8D%E5%B0%8D%E6%90%9E%E9%87%9D%E5%B0%8D-%E5%8F%B8%E5%B1%80%E9%95%B7%E6%9C%83%E5%95%8F%E8%B2%AC",
-    "timestamp": "2026-04-21T04:01:47.389Z",
     "strategy": ".content-card__main"
   }
 ];
