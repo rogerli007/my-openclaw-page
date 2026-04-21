@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-21T09:12:51.211Z
+// Last updated: 2026-04-21T09:55:05.922Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "江旻憓逾1.4萬買｢世界十大名椅｣　申報買MacBook相機｜政壇諸事町",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20251211/1075745653415481344821356.jpeg/n15F-0J_eFDu4PoC58V6Kc5iMlXSRapQ0fVXONH1Vzg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60342425/%E6%B1%9F%E6%97%BB%E6%86%93%E9%80%BE1-4%E8%90%AC%E8%B2%B7-%E4%B8%96%E7%95%8C%E5%8D%81%E5%A4%A7%E5%90%8D%E6%A4%85-%E7%94%B3%E5%A0%B1%E8%B2%B7macbook%E7%9B%B8%E6%A9%9F-%E6%94%BF%E5%A3%87%E8%AB%B8%E4%BA%8B%E7%94%BA",
+    "timestamp": "2026-04-21T09:55:05.922Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "番薯發芽有黑黏液不能吃？專家解謎無毒又通便+1招保存應否放雪櫃",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/1322154/org/ffe951268b23757be19430de12beea98.JPG/AUepBs1EOI3kGMFTQRgXHn_BIBsBh3ZuKL7_PT2-_z0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60342074/%E6%97%A5%E6%9C%AC3%E6%9C%88%E6%97%85%E5%AE%A2%E4%BA%BA%E6%AC%A1%E5%89%B5%E6%AD%B7%E5%B9%B4%E6%96%B0%E9%AB%98-%E9%A6%99%E6%B8%AF%E4%BD%9421-6%E8%90%AC-%E5%85%A7%E5%9C%B0%E5%AE%A2%E6%8C%89%E5%B9%B4%E6%9A%B4%E8%B7%8C%E4%B8%80%E5%8D%8A",
     "timestamp": "2026-04-20T11:17:16.921Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "預測市場平台Polymarket傳籌31億　估值近1200億元",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260409/1118944924549517312108249.jpeg/aiJWdr7fLg_hiMWKLkWNGWDGUcqRVGuVXqFyM16hcjM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60342027/%E9%A0%90%E6%B8%AC%E5%B8%82%E5%A0%B4%E5%B9%B3%E5%8F%B0polymarket%E5%82%B3%E7%B1%8C31%E5%84%84-%E4%BC%B0%E5%80%BC%E8%BF%911200%E5%84%84%E5%85%83",
-    "timestamp": "2026-04-20T09:50:26.654Z",
     "strategy": ".content-card__main"
   }
 ];
