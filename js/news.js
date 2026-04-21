@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-21T13:17:43.514Z
+// Last updated: 2026-04-21T14:04:06.069Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "王晶談《逐玉》原片外洩有感而發　揭露當年港產片被盜錄驚人內幕",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260421/1123253439447437312208354.jpeg/FN9v_tMWXfIgjC96J6XQGVsCQlD1z5CvGyDmSRsg5kk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60342217/%E7%8E%8B%E6%99%B6%E8%AB%87-%E9%80%90%E7%8E%89-%E5%8E%9F%E7%89%87%E5%A4%96%E6%B4%A9%E6%9C%89%E6%84%9F%E8%80%8C%E7%99%BC-%E6%8F%AD%E9%9C%B2%E7%95%B6%E5%B9%B4%E6%B8%AF%E7%94%A2%E7%89%87%E8%A2%AB%E7%9B%9C%E9%8C%84%E9%A9%9A%E4%BA%BA%E5%85%A7%E5%B9%95",
+    "timestamp": "2026-04-21T14:04:06.069Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "警隊辦反恐試煉日招募運動員　眾多體壇名將參與挑戰",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260421/1123058935671033856576238.jpeg/0YndcdGMDYh_lUXNXxY5srT20BsZ4ZRZwwwNWMMMDVg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60342128/%E5%9C%B0%E5%8B%A4%E4%BA%BA%E5%93%A1%E8%BA%BA%E9%A3%9B%E6%A9%9F%E5%BC%95%E6%93%8E%E8%A2%AB%E6%8C%87%E4%BC%91%E6%81%AF-%E5%A5%BD%E7%88%BD%E7%88%BD%E5%92%81-%E6%A9%9F%E7%AE%A1%E5%B1%80%E6%BE%84%E6%B8%85%E6%AD%A3%E9%80%B2%E8%A1%8C%E7%B6%AD%E4%BF%AE",
     "timestamp": "2026-04-20T17:15:02.542Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "周潤發以750萬出售西半山三房單位　持貨逾30年帳面翻倍賺358萬元",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260420/1123037520968290304463985.jpeg/KZNxe7YyWmLWUcKp666w7j3aLQQ31F58WeJrhVnia4U?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60342121/%E5%91%A8%E6%BD%A4%E7%99%BC%E4%BB%A5750%E8%90%AC%E5%87%BA%E5%94%AE%E8%A5%BF%E5%8D%8A%E5%B1%B1%E4%B8%89%E6%88%BF%E5%96%AE%E4%BD%8D-%E6%8C%81%E8%B2%A8%E9%80%BE30%E5%B9%B4%E5%B8%B3%E9%9D%A2%E7%BF%BB%E5%80%8D%E8%B3%BA358%E8%90%AC%E5%85%83",
-    "timestamp": "2026-04-20T16:01:21.042Z",
     "strategy": ".content-card__main"
   }
 ];
