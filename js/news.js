@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-21T14:04:06.069Z
+// Last updated: 2026-04-21T14:48:20.502Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "特朗普：美軍攔截貨船　為中國給伊朗「禮物」",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260421/1123377400218914816760539.jpeg/eHo5yZSHn_hLTZAxSNxkC0JoHSqhx07n0ec-i9HnPos?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60342510/%E7%89%B9%E6%9C%97%E6%99%AE-%E7%BE%8E%E8%BB%8D%E6%94%94%E6%88%AA%E8%B2%A8%E8%88%B9-%E7%82%BA%E4%B8%AD%E5%9C%8B%E7%B5%A6%E4%BC%8A%E6%9C%97-%E7%A6%AE%E7%89%A9",
+    "timestamp": "2026-04-21T14:48:20.502Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "王晶談《逐玉》原片外洩有感而發　揭露當年港產片被盜錄驚人內幕",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260407/1118140527670202368710935.jpeg/BBk483yjAjjB1uzXdYR6HUXbfJ1eqVWa6J9oleifaJU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60342129/%E7%89%B9%E6%9C%97%E6%99%AE-%E5%A6%82%E6%9C%AA%E8%83%BD%E8%88%87%E4%BC%8A%E6%9C%97%E9%81%94%E6%88%90%E5%8D%94%E8%AD%B0-%E6%A5%B5%E4%B8%8D%E5%8F%AF%E8%83%BD%E5%BB%B6%E9%95%B7%E5%81%9C%E7%81%AB",
     "timestamp": "2026-04-20T18:42:42.408Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "地勤人員躺飛機引擎被指休息：好爽爽咁　機管局澄清正進行維修",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260421/1123058935671033856576238.jpeg/0YndcdGMDYh_lUXNXxY5srT20BsZ4ZRZwwwNWMMMDVg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60342128/%E5%9C%B0%E5%8B%A4%E4%BA%BA%E5%93%A1%E8%BA%BA%E9%A3%9B%E6%A9%9F%E5%BC%95%E6%93%8E%E8%A2%AB%E6%8C%87%E4%BC%91%E6%81%AF-%E5%A5%BD%E7%88%BD%E7%88%BD%E5%92%81-%E6%A9%9F%E7%AE%A1%E5%B1%80%E6%BE%84%E6%B8%85%E6%AD%A3%E9%80%B2%E8%A1%8C%E7%B6%AD%E4%BF%AE",
-    "timestamp": "2026-04-20T17:15:02.542Z",
     "strategy": ".content-card__main"
   }
 ];
