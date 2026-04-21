@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-21T06:02:14.714Z
+// Last updated: 2026-04-21T06:56:36.251Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "黎智英案｜政府求取黎逾1.27億財產　黎獲退還200萬罰款亦須充公",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20240516/867807825714221056289741.jpeg/nRsXmHq4lFRjaEwhmCcQBjxXmR6KwwsIZnOLoGZzi6A?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60342322/%E9%BB%8E%E6%99%BA%E8%8B%B1%E6%A1%88-%E6%94%BF%E5%BA%9C%E6%B1%82%E5%8F%96%E9%BB%8E%E9%80%BE1-27%E5%84%84%E8%B2%A1%E7%94%A2-%E9%BB%8E%E7%8D%B2%E9%80%80%E9%82%84200%E8%90%AC%E7%BD%B0%E6%AC%BE%E4%BA%A6%E9%A0%88%E5%85%85%E5%85%AC",
+    "timestamp": "2026-04-21T06:56:36.251Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "消防隊目訛稱父患癌借錢　獲同袍友人借17萬應急　認欺詐等罪候判",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260420/1122905952660492288138692.jpeg/2iMeJPC898xpZEyyWk90cN6W5y9UHg7A7Mme6-zJnus?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60341907/%E6%98%AF%E5%9B%9E%E5%AE%B6%E4%B9%9F%E6%98%AF%E5%91%8A%E5%88%A5-%E5%AE%8F%E6%96%B0%E9%96%A3%E5%B1%85%E6%B0%91%E5%8F%96%E5%9B%9E%E6%8E%9B%E7%95%AB%E8%88%87%E7%B5%90%E5%A9%9A%E6%9B%B8-%E5%96%9A%E5%96%9A%E7%BD%B9%E9%9B%A3%E6%84%9B%E8%B2%93%E5%90%8D%E5%AD%97",
     "timestamp": "2026-04-20T07:09:04.663Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "鐵達尼號救生衣英國拍賣　附生還者簽名　710萬成交遠超原估價",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260420/1122880117484294144754169.jpeg/cD6b_W62tlNSc39oSNGbRstq9M3Y2jvnFpQ_dhaUP3Y?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%92%B0%E7%90%83%E8%B6%A3%E8%81%9E/60341818/%E9%90%B5%E9%81%94%E5%B0%BC%E8%99%9F%E6%95%91%E7%94%9F%E8%A1%A3%E8%8B%B1%E5%9C%8B%E6%8B%8D%E8%B3%A3-%E9%99%84%E7%94%9F%E9%82%84%E8%80%85%E7%B0%BD%E5%90%8D-710%E8%90%AC%E6%88%90%E4%BA%A4%E9%81%A0%E8%B6%85%E5%8E%9F%E4%BC%B0%E5%83%B9",
-    "timestamp": "2026-04-20T06:11:47.144Z",
     "strategy": ".content-card__main"
   }
 ];
