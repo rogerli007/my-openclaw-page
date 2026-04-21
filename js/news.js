@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-21T20:16:06.189Z
+// Last updated: 2026-04-21T20:38:24.971Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "伊朗外長：美國封鎖港口是戰爭行為　伊朗能夠「化解限制」",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260222/1102099544411213824719458.jpeg/CRG-xVc3VxrVygUd9wkhe3u5YzUOH2wXESqqPREqqj0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60342545/%E4%BC%8A%E6%9C%97%E5%A4%96%E9%95%B7-%E7%BE%8E%E5%9C%8B%E5%B0%81%E9%8E%96%E6%B8%AF%E5%8F%A3%E6%98%AF%E6%88%B0%E7%88%AD%E8%A1%8C%E7%82%BA-%E4%BC%8A%E6%9C%97%E8%83%BD%E5%A4%A0-%E5%8C%96%E8%A7%A3%E9%99%90%E5%88%B6",
+    "timestamp": "2026-04-21T20:38:24.971Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "伊朗外長：美國封鎖港口是戰爭行為　伊朗能夠「化解限制」",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260420/1122963970945191936853297.png/jeCUZMFaZl8Xv6o8TETPwj32GD4vMhSxNQTHsTUEx7E?v=w1920r16_9",
     "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E8%A9%B1%E9%A1%8C/60341772/15%E6%AD%B2%E5%B0%91%E5%A5%B3%E8%92%99%E7%9C%BC%E7%AD%89%E9%A9%9A%E5%96%9C-%E6%85%98%E9%81%AD2%E6%9C%AA%E6%88%90%E5%B9%B4%E9%96%A8%E5%AF%86%E6%AE%98%E5%BF%8D%E6%AE%BA%E5%AE%B3-%E6%B3%95%E9%99%A2%E8%BC%95%E5%88%A4%E6%83%B9%E5%85%AC%E6%86%A4",
     "timestamp": "2026-04-20T23:25:34.174Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "伊朗戰爭｜穆傑塔巴重申基本立場　外長︰將綜合評估下一步行動",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260312/1108592471115304960963721.jpeg/Av5S8OVo8r-AN3OMqe7Krw_mtLRJrq3veJWmZXiVpmU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60342142/%E4%BC%8A%E6%9C%97%E6%88%B0%E7%88%AD-%E7%A9%86%E5%82%91%E5%A1%94%E5%B7%B4%E9%87%8D%E7%94%B3%E5%9F%BA%E6%9C%AC%E7%AB%8B%E5%A0%B4-%E5%A4%96%E9%95%B7-%E5%B0%87%E7%B6%9C%E5%90%88%E8%A9%95%E4%BC%B0%E4%B8%8B%E4%B8%80%E6%AD%A5%E8%A1%8C%E5%8B%95",
-    "timestamp": "2026-04-20T22:35:11.042Z",
     "strategy": ".content-card__main"
   }
 ];
