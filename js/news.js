@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-21T14:48:20.502Z
+// Last updated: 2026-04-21T15:20:52.428Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "Gordon Flanders演唱會圓滿落幕　MC張天賦任嘉賓台上公開追歌債",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260421/1123315261592571904640573.jpeg/fHxwY5CsSCvljhG4U0zGc95OpN-4Pyf5N9Z2GjfWdho?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60342434/gordon-flanders%E6%BC%94%E5%94%B1%E6%9C%83%E5%9C%93%E6%BB%BF%E8%90%BD%E5%B9%95-mc%E5%BC%B5%E5%A4%A9%E8%B3%A6%E4%BB%BB%E5%98%89%E8%B3%93%E5%8F%B0%E4%B8%8A%E5%85%AC%E9%96%8B%E8%BF%BD%E6%AD%8C%E5%82%B5",
+    "timestamp": "2026-04-21T15:20:52.428Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "特朗普：美軍攔截貨船　為中國給伊朗「禮物」",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260421/1123090125518016512230867.jpeg/GUDvy_gkJIcFrtOjd2MkumNdcAknILrAh9AslYfQLJU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60342134/%E8%AD%A6%E7%A0%B4%E5%85%83%E6%9C%97%E6%87%B7%E7%96%91%E8%A3%BD%E6%AF%92%E5%B7%A5%E5%A0%B4%E6%8B%98%E4%B8%80%E5%A5%B3-%E6%AA%A2%E5%80%BC140%E8%90%AC%E5%85%83%E4%BE%9D%E6%89%98%E5%92%AA%E9%85%AF%E7%85%99%E5%BD%88%E5%8F%8A%E5%8E%9F%E6%9D%90%E6%96%99",
     "timestamp": "2026-04-20T19:45:11.130Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普：如未能與伊朗達成協議　極不可能延長停火",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260407/1118140527670202368710935.jpeg/BBk483yjAjjB1uzXdYR6HUXbfJ1eqVWa6J9oleifaJU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60342129/%E7%89%B9%E6%9C%97%E6%99%AE-%E5%A6%82%E6%9C%AA%E8%83%BD%E8%88%87%E4%BC%8A%E6%9C%97%E9%81%94%E6%88%90%E5%8D%94%E8%AD%B0-%E6%A5%B5%E4%B8%8D%E5%8F%AF%E8%83%BD%E5%BB%B6%E9%95%B7%E5%81%9C%E7%81%AB",
-    "timestamp": "2026-04-20T18:42:42.408Z",
     "strategy": ".content-card__main"
   }
 ];
