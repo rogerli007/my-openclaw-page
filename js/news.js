@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-20T23:52:27.518Z
+// Last updated: 2026-04-21T04:01:47.389Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "部門首長責任制不涵常秘是漏洞？李家超反對搞針對　司局長會問責",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260421/1123218815552196608406213.jpeg/9pfIoXdXcADdWIA4s-5MzHIxuMVjv7MkOzxqjx48ao8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60342238/%E9%83%A8%E9%96%80%E9%A6%96%E9%95%B7%E8%B2%AC%E4%BB%BB%E5%88%B6%E4%B8%8D%E6%B6%B5%E5%B8%B8%E7%A7%98%E6%98%AF%E6%BC%8F%E6%B4%9E-%E6%9D%8E%E5%AE%B6%E8%B6%85%E5%8F%8D%E5%B0%8D%E6%90%9E%E9%87%9D%E5%B0%8D-%E5%8F%B8%E5%B1%80%E9%95%B7%E6%9C%83%E5%95%8F%E8%B2%AC",
+    "timestamp": "2026-04-21T04:01:47.389Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "加拿大宣布逐步增加對華直航航班　推動貿易多元化",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260317/1110382153528512512765132.jpeg/jBw5Ak0swEvn7sCtI1rpdQIdiBaimcxt43N1nuNzdZ4?v=w1920",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60330750/%E6%AD%A3%E7%BE%A9%E5%A5%B3%E7%A5%9E%E7%B7%9A%E4%B8%8A%E7%9C%8B%E5%A4%A7%E7%B5%90%E5%B1%8025%E5%8A%87%E6%83%85-%E9%AB%98%E6%88%90%E5%BD%AC%E5%A6%82%E4%BD%95-%E4%BD%98%E8%A9%A9%E6%9B%BC%E9%99%B3%E7%85%92%E6%B3%95%E5%BA%AD%E5%86%8D%E4%BA%A4%E6%89%8B",
     "timestamp": "2026-04-20T05:16:56.257Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "蒜頭功效｜消炎降血壓生蒜／熟蒜哪種好？中醫提醒吃錯傷肝損目！",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20240412/855443589218439168401579.jpeg/GHedubIpKu0913KLXHzGDsB6a4FsM-Nn8xeuE_MXrhM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/70655/%E8%92%9C%E9%A0%AD%E5%8A%9F%E6%95%88-%E6%B6%88%E7%82%8E%E9%99%8D%E8%A1%80%E5%A3%93%E7%94%9F%E8%92%9C-%E7%86%9F%E8%92%9C%E5%93%AA%E7%A8%AE%E5%A5%BD-%E4%B8%AD%E9%86%AB%E6%8F%90%E9%86%92%E5%90%83%E9%8C%AF%E5%82%B7%E8%82%9D%E6%90%8D%E7%9B%AE",
-    "timestamp": "2026-04-20T04:03:05.658Z",
     "strategy": ".content-card__main"
   }
 ];
