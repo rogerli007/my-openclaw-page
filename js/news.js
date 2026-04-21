@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-21T12:45:31.232Z
+// Last updated: 2026-04-21T13:17:43.514Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "警隊辦反恐試煉日招募運動員　眾多體壇名將參與挑戰",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260421/1123365975073230848143089.png/yPkw1WYHQCr74nGy2iXqAkTRzvgHLwQREwnWChMJ1go?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60342506/%E8%AD%A6%E9%9A%8A%E8%BE%A6%E5%8F%8D%E6%81%90%E8%A9%A6%E7%85%89%E6%97%A5%E6%8B%9B%E5%8B%9F%E9%81%8B%E5%8B%95%E5%93%A1-%E7%9C%BE%E5%A4%9A%E9%AB%94%E5%A3%87%E5%90%8D%E5%B0%87%E5%8F%83%E8%88%87%E6%8C%91%E6%88%B0",
+    "timestamp": "2026-04-21T13:17:43.514Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "口罩小姐徐蒨駖宣布離婚　9年夫妻關係告終：我哋會共同撫養女兒",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260420/1123037520968290304463985.jpeg/KZNxe7YyWmLWUcKp666w7j3aLQQ31F58WeJrhVnia4U?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60342121/%E5%91%A8%E6%BD%A4%E7%99%BC%E4%BB%A5750%E8%90%AC%E5%87%BA%E5%94%AE%E8%A5%BF%E5%8D%8A%E5%B1%B1%E4%B8%89%E6%88%BF%E5%96%AE%E4%BD%8D-%E6%8C%81%E8%B2%A8%E9%80%BE30%E5%B9%B4%E5%B8%B3%E9%9D%A2%E7%BF%BB%E5%80%8D%E8%B3%BA358%E8%90%AC%E5%85%83",
     "timestamp": "2026-04-20T16:01:21.042Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "東張西望｜苦主體檢變驗精指睾丸會細到變珍珠　黃耀英聽到勁驚訝",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260420/1123011657006583808675294.jpeg/A4OtdjGm3E43yHu55czVxfY5UvF7Eb5uOXMMPDlzDDw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60342110/%E6%9D%B1%E5%BC%B5%E8%A5%BF%E6%9C%9B-%E8%8B%A6%E4%B8%BB%E9%AB%94%E6%AA%A2%E8%AE%8A%E9%A9%97%E7%B2%BE%E6%8C%87%E7%9D%BE%E4%B8%B8%E6%9C%83%E7%B4%B0%E5%88%B0%E8%AE%8A%E7%8F%8D%E7%8F%A0-%E9%BB%83%E8%80%80%E8%8B%B1%E8%81%BD%E5%88%B0%E5%8B%81%E9%A9%9A%E8%A8%9D",
-    "timestamp": "2026-04-20T14:53:31.664Z",
     "strategy": ".content-card__main"
   }
 ];
