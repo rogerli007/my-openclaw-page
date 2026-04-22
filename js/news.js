@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-22T22:37:15.729Z
+// Last updated: 2026-04-22T23:37:47.016Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "東張西望｜林以諾牧師收自己艷照有裸女相伴　被威脅要畀錢",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260422/1123733764359327744187905.jpeg/5XAuS5u720eAkEI6d-da_ijiucNZtMzLs0DmxbNA5sU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60342910/%E6%9D%B1%E5%BC%B5%E8%A5%BF%E6%9C%9B-%E6%9E%97%E4%BB%A5%E8%AB%BE%E7%89%A7%E5%B8%AB%E6%94%B6%E8%87%AA%E5%B7%B1%E8%89%B7%E7%85%A7%E6%9C%89%E8%A3%B8%E5%A5%B3%E7%9B%B8%E4%BC%B4-%E8%A2%AB%E5%A8%81%E8%84%85%E8%A6%81%E7%95%80%E9%8C%A2",
+    "timestamp": "2026-04-22T23:37:47.016Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "特朗普否認為停火設定限期　不認為伊朗扣押兩船違協議",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260422/1123567283281596416963185.jpeg/04uOGJCMwFKtiaGxQ6mph51Oj3x8UYmq8mO1JPJjtSQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60342575/%E6%84%8F%E5%A4%A7%E5%88%A9%E7%9B%83-%E5%9C%8B%E7%B1%B33-2%E5%8F%8D%E5%8B%9D%E7%A7%91%E6%9C%A8-%E5%BD%BC%E9%81%94%E8%98%87%E9%8C%AB89%E5%88%86%E9%90%98%E5%85%A5%E7%90%83%E5%8A%A9%E7%90%83%E9%9A%8A%E6%99%89%E7%B4%9A%E6%B1%BA%E8%B3%BD",
     "timestamp": "2026-04-22T06:01:47.264Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "A股市值迫萬億人民幣　中際旭創據報6月來港上市　最多籌390億元",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260422/1123557423412416512035419.jpeg/vtI6qEH74ihcaO50O-j4adwjBOhFlaDmFdqt5RXareU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60342573/a%E8%82%A1%E5%B8%82%E5%80%BC%E8%BF%AB%E8%90%AC%E5%84%84%E4%BA%BA%E6%B0%91%E5%B9%A3-%E4%B8%AD%E9%9A%9B%E6%97%AD%E5%89%B5%E6%93%9A%E5%A0%B16%E6%9C%88%E4%BE%86%E6%B8%AF%E4%B8%8A%E5%B8%82-%E6%9C%80%E5%A4%9A%E7%B1%8C390%E5%84%84%E5%85%83",
-    "timestamp": "2026-04-22T01:45:26.379Z",
     "strategy": ".content-card__main"
   }
 ];
