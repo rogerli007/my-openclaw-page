@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-22T15:38:46.136Z
+// Last updated: 2026-04-22T16:15:01.973Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "鄭秀文演唱會2026香港｜門票優先/公售攻略＋購票連結＋座位表",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260311/1108463881551876096934508.jpeg/IPpT_veQR4K4gp__1FBZ-HJWaa0fWseUQqys8EKsrPA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60329577/%E9%84%AD%E7%A7%80%E6%96%87%E6%BC%94%E5%94%B1%E6%9C%832026%E9%A6%99%E6%B8%AF-%E9%96%80%E7%A5%A8%E5%84%AA%E5%85%88-%E5%85%AC%E5%94%AE%E6%94%BB%E7%95%A5-%E8%B3%BC%E7%A5%A8%E9%80%A3%E7%B5%90-%E5%BA%A7%E4%BD%8D%E8%A1%A8",
+    "timestamp": "2026-04-22T16:15:01.973Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "啟德醫院地盤奪命意外｜工權會：工友被預製消防喉轆組件壓斃",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260319/1111168314882658304921783.jpeg/KWvEaUsTKebHXpYXmlvAYeh-PU0KYmvfGe7oRxnu6Ec?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60342536/%E5%8D%A1%E5%A1%94%E7%88%BE-%E5%B0%87%E6%8E%A8%E5%8B%95%E9%9C%8D%E7%88%BE%E6%9C%A8%E8%8C%B2%E6%B5%B7%E5%B3%BD%E6%81%A2%E5%BE%A9%E6%AD%A3%E5%B8%B8%E9%80%9A%E8%A1%8C",
     "timestamp": "2026-04-21T19:15:57.744Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "萬斯訪問巴基斯坦行程據報延後　美元延續漲勢",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260325/1113452510720299008430827.jpeg/h02eqEhH3mMSS5Xn9jZ8ti8abTOG18daO3JMKjtyTCo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60342538/%E8%90%AC%E6%96%AF%E8%A8%AA%E5%95%8F%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E8%A1%8C%E7%A8%8B%E6%93%9A%E5%A0%B1%E5%BB%B6%E5%BE%8C-%E7%BE%8E%E5%85%83%E5%BB%B6%E7%BA%8C%E6%BC%B2%E5%8B%A2",
-    "timestamp": "2026-04-21T18:13:05.441Z",
     "strategy": ".content-card__main"
   }
 ];
