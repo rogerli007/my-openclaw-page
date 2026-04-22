@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-22T11:44:16.580Z
+// Last updated: 2026-04-22T13:18:30.997Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "北都｜陳國基率代表團訪韓　了解大田市大學培養學生創新能力工作",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260422/1123717095733858304305978.jpeg/Jmfgkc62g11WVTYwSiasDbjni6EH6U05EibkShIm5Eo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60342893/%E5%8C%97%E9%83%BD-%E9%99%B3%E5%9C%8B%E5%9F%BA%E7%8E%87%E4%BB%A3%E8%A1%A8%E5%9C%98%E8%A8%AA%E9%9F%93-%E4%BA%86%E8%A7%A3%E5%A4%A7%E7%94%B0%E5%B8%82%E5%A4%A7%E5%AD%B8%E5%9F%B9%E9%A4%8A%E5%AD%B8%E7%94%9F%E5%89%B5%E6%96%B0%E8%83%BD%E5%8A%9B%E5%B7%A5%E4%BD%9C",
+    "timestamp": "2026-04-22T13:18:30.997Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "「暖男」卞慶華形象大翻轉　下藥欲性侵女星　遭正宮酒店抓姦掌摑",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260421/1123315261592571904640573.jpeg/fHxwY5CsSCvljhG4U0zGc95OpN-4Pyf5N9Z2GjfWdho?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60342434/gordon-flanders%E6%BC%94%E5%94%B1%E6%9C%83%E5%9C%93%E6%BB%BF%E8%90%BD%E5%B9%95-mc%E5%BC%B5%E5%A4%A9%E8%B3%A6%E4%BB%BB%E5%98%89%E8%B3%93%E5%8F%B0%E4%B8%8A%E5%85%AC%E9%96%8B%E8%BF%BD%E6%AD%8C%E5%82%B5",
     "timestamp": "2026-04-21T15:20:52.428Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普：美軍攔截貨船　為中國給伊朗「禮物」",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260421/1123377400218914816760539.jpeg/eHo5yZSHn_hLTZAxSNxkC0JoHSqhx07n0ec-i9HnPos?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60342510/%E7%89%B9%E6%9C%97%E6%99%AE-%E7%BE%8E%E8%BB%8D%E6%94%94%E6%88%AA%E8%B2%A8%E8%88%B9-%E7%82%BA%E4%B8%AD%E5%9C%8B%E7%B5%A6%E4%BC%8A%E6%9C%97-%E7%A6%AE%E7%89%A9",
-    "timestamp": "2026-04-21T14:48:20.502Z",
     "strategy": ".content-card__main"
   }
 ];
