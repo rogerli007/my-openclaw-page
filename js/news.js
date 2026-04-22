@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-22T10:40:32.002Z
+// Last updated: 2026-04-22T11:14:46.126Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "的士司機涉載客自瀆　辯稱患濕疹轉季會痕癢　內褲有鈕陽具不易露",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260422/1123698606725926912408596.jpeg/4QslRqC3nNi-RXJt0sr5Y6DqkhrJUfG9L28YeQpvGHk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60342883/%E7%9A%84%E5%A3%AB%E5%8F%B8%E6%A9%9F%E6%B6%89%E8%BC%89%E5%AE%A2%E8%87%AA%E7%80%86-%E8%BE%AF%E7%A8%B1%E6%82%A3%E6%BF%95%E7%96%B9%E8%BD%89%E5%AD%A3%E6%9C%83%E7%97%95%E7%99%A2-%E5%85%A7%E8%A4%B2%E6%9C%89%E9%88%95%E9%99%BD%E5%85%B7%E4%B8%8D%E6%98%93%E9%9C%B2",
+    "timestamp": "2026-04-22T11:14:46.126Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "南丫海難｜家屬不滿死因庭裁無裝水密門非疏忽　求司法覆核",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260421/1123253439447437312208354.jpeg/FN9v_tMWXfIgjC96J6XQGVsCQlD1z5CvGyDmSRsg5kk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60342217/%E7%8E%8B%E6%99%B6%E8%AB%87-%E9%80%90%E7%8E%89-%E5%8E%9F%E7%89%87%E5%A4%96%E6%B4%A9%E6%9C%89%E6%84%9F%E8%80%8C%E7%99%BC-%E6%8F%AD%E9%9C%B2%E7%95%B6%E5%B9%B4%E6%B8%AF%E7%94%A2%E7%89%87%E8%A2%AB%E7%9B%9C%E9%8C%84%E9%A9%9A%E4%BA%BA%E5%85%A7%E5%B9%95",
     "timestamp": "2026-04-21T14:04:06.069Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "警隊辦反恐試煉日招募運動員　眾多體壇名將參與挑戰",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260421/1123365975073230848143089.png/yPkw1WYHQCr74nGy2iXqAkTRzvgHLwQREwnWChMJ1go?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60342506/%E8%AD%A6%E9%9A%8A%E8%BE%A6%E5%8F%8D%E6%81%90%E8%A9%A6%E7%85%89%E6%97%A5%E6%8B%9B%E5%8B%9F%E9%81%8B%E5%8B%95%E5%93%A1-%E7%9C%BE%E5%A4%9A%E9%AB%94%E5%A3%87%E5%90%8D%E5%B0%87%E5%8F%83%E8%88%87%E6%8C%91%E6%88%B0",
-    "timestamp": "2026-04-21T13:17:43.514Z",
     "strategy": ".content-card__main"
   }
 ];
