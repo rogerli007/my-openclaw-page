@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-22T19:49:15.924Z
+// Last updated: 2026-04-22T20:19:46.088Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "Telegram創辦人杜羅夫稱接獲俄方傳票　指他為刑事案件「疑犯」",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20240917/912830785747161088401598.jpeg/sRNQBjUDT8RxbXv7xSwKY98AmoIA86OVs1_DM7NfwzM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60342945/telegram%E5%89%B5%E8%BE%A6%E4%BA%BA%E6%9D%9C%E7%BE%85%E5%A4%AB%E7%A8%B1%E6%8E%A5%E7%8D%B2%E4%BF%84%E6%96%B9%E5%82%B3%E7%A5%A8-%E6%8C%87%E4%BB%96%E7%82%BA%E5%88%91%E4%BA%8B%E6%A1%88%E4%BB%B6-%E7%96%91%E7%8A%AF",
+    "timestamp": "2026-04-22T20:19:46.088Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "警旺角搗破非法麻雀賭檔　18男女被捕",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260122/1090906562152632320842159.jpeg/uyR5G5qMD-RUnJ-Z8W42v-juuexgp6Q7xrj3Nca49zU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60342550/%E7%BE%8E%E5%9C%8B%E8%88%87%E6%AD%90%E7%9B%9F%E5%8A%A0%E5%BC%B7%E5%B0%8D%E4%BC%8A%E6%9C%97%E5%88%B6%E8%A3%81",
     "timestamp": "2026-04-21T23:22:57.928Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "條路自己揀！年青人的十字街頭！｜汪敦敬",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260210/1097907503150141440452970.jpeg/KGhuYLZfZ7Yof9rax55MdekxiOp_-Y-IjCTLzYwky80?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60342479/%E6%A2%9D%E8%B7%AF%E8%87%AA%E5%B7%B1%E6%8F%80-%E5%B9%B4%E9%9D%92%E4%BA%BA%E7%9A%84%E5%8D%81%E5%AD%97%E8%A1%97%E9%A0%AD-%E6%B1%AA%E6%95%A6%E6%95%AC",
-    "timestamp": "2026-04-21T22:55:46.399Z",
     "strategy": ".content-card__main"
   }
 ];
