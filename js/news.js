@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-22T20:40:58.659Z
+// Last updated: 2026-04-22T21:39:35.507Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "英超｜曼城作客1：0般尼　曼城暫升榜首　般尼確定降班",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260423/1123846551341371392786952.jpeg/QEbQIGtVVGOKgDnJ8K0jM9E-eiZRHJaSr-041K_tONQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60342948/%E8%8B%B1%E8%B6%85-%E6%9B%BC%E5%9F%8E%E4%BD%9C%E5%AE%A21-0%E8%88%AC%E5%B0%BC-%E6%9B%BC%E5%9F%8E%E6%9A%AB%E5%8D%87%E6%A6%9C%E9%A6%96-%E8%88%AC%E5%B0%BC%E7%A2%BA%E5%AE%9A%E9%99%8D%E7%8F%AD",
+    "timestamp": "2026-04-22T21:39:35.507Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美媒：美軍需6個月才能完成霍爾木茲海峽掃雷",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260421/1123395844255518720839267.jpeg/zy42zGfTZX2yoQhWFT9I1Hkf6Z4po4QJ2TpAbtk6QG4?v=w1920r16_9",
     "url": "https://www.hk01.com/01%E8%AB%96%E5%A3%87/60342522/%E8%AD%B0%E5%93%A1%E4%BE%86%E7%A8%BF-%E8%8C%83%E5%87%B1%E5%82%91-%E5%BC%95%E9%A0%82%E5%B0%96%E9%99%A2%E6%A0%A1%E8%90%BD%E6%88%B6%E5%8C%97%E9%83%BD-%E7%AF%89-%E7%95%99%E5%AD%B8%E9%A6%99%E6%B8%AF-%E5%85%A8%E7%90%83%E5%93%81%E7%89%8C",
     "timestamp": "2026-04-22T00:52:32.442Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美國與歐盟加強對伊朗制裁",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260122/1090906562152632320842159.jpeg/uyR5G5qMD-RUnJ-Z8W42v-juuexgp6Q7xrj3Nca49zU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60342550/%E7%BE%8E%E5%9C%8B%E8%88%87%E6%AD%90%E7%9B%9F%E5%8A%A0%E5%BC%B7%E5%B0%8D%E4%BC%8A%E6%9C%97%E5%88%B6%E8%A3%81",
-    "timestamp": "2026-04-21T23:51:10.477Z",
     "strategy": ".content-card__main"
   }
 ];
