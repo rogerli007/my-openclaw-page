@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-22T21:39:35.507Z
+// Last updated: 2026-04-22T22:37:15.729Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "特朗普否認為停火設定限期　不認為伊朗扣押兩船違協議",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260328/1114631267011268608746208.jpeg/lih1MJb0mCGOLGJ0_uI6F01OpgwLkH9TUo37DlKN-w4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60342950/%E7%89%B9%E6%9C%97%E6%99%AE%E5%90%A6%E8%AA%8D%E7%82%BA%E5%81%9C%E7%81%AB%E8%A8%AD%E5%AE%9A%E9%99%90%E6%9C%9F-%E4%B8%8D%E8%AA%8D%E7%82%BA%E4%BC%8A%E6%9C%97%E6%89%A3%E6%8A%BC%E5%85%A9%E8%88%B9%E9%81%95%E5%8D%94%E8%AD%B0",
+    "timestamp": "2026-04-22T22:37:15.729Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "英超｜曼城作客1：0般尼　曼城暫升榜首　般尼確定降班",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260422/1123557423412416512035419.jpeg/vtI6qEH74ihcaO50O-j4adwjBOhFlaDmFdqt5RXareU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60342573/a%E8%82%A1%E5%B8%82%E5%80%BC%E8%BF%AB%E8%90%AC%E5%84%84%E4%BA%BA%E6%B0%91%E5%B9%A3-%E4%B8%AD%E9%9A%9B%E6%97%AD%E5%89%B5%E6%93%9A%E5%A0%B16%E6%9C%88%E4%BE%86%E6%B8%AF%E4%B8%8A%E5%B8%82-%E6%9C%80%E5%A4%9A%E7%B1%8C390%E5%84%84%E5%85%83",
     "timestamp": "2026-04-22T01:45:26.379Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "議員來稿．范凱傑｜引頂尖院校落戶北都　築「留學香港」全球品牌",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260421/1123395844255518720839267.jpeg/zy42zGfTZX2yoQhWFT9I1Hkf6Z4po4QJ2TpAbtk6QG4?v=w1920r16_9",
-    "url": "https://www.hk01.com/01%E8%AB%96%E5%A3%87/60342522/%E8%AD%B0%E5%93%A1%E4%BE%86%E7%A8%BF-%E8%8C%83%E5%87%B1%E5%82%91-%E5%BC%95%E9%A0%82%E5%B0%96%E9%99%A2%E6%A0%A1%E8%90%BD%E6%88%B6%E5%8C%97%E9%83%BD-%E7%AF%89-%E7%95%99%E5%AD%B8%E9%A6%99%E6%B8%AF-%E5%85%A8%E7%90%83%E5%93%81%E7%89%8C",
-    "timestamp": "2026-04-22T00:52:32.442Z",
     "strategy": ".content-card__main"
   }
 ];
