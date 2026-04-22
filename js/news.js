@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-22T16:15:01.973Z
+// Last updated: 2026-04-22T16:43:40.416Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "珍惜生命｜荃灣八旬翁和妻子口角後離家蹈海　警員跳落水救人",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260423/1123780375621931008708693.jpeg/A1om2w4K3uVmL44ae4ne9vJveaViF4BgTqBxIE6gcSA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60342927/%E7%8F%8D%E6%83%9C%E7%94%9F%E5%91%BD-%E8%8D%83%E7%81%A3%E5%85%AB%E6%97%AC%E7%BF%81%E5%92%8C%E5%A6%BB%E5%AD%90%E5%8F%A3%E8%A7%92%E5%BE%8C%E9%9B%A2%E5%AE%B6%E8%B9%88%E6%B5%B7-%E8%AD%A6%E5%93%A1%E8%B7%B3%E8%90%BD%E6%B0%B4%E6%95%91%E4%BA%BA",
+    "timestamp": "2026-04-22T16:43:40.416Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "鄭秀文演唱會2026香港｜門票優先/公售攻略＋購票連結＋座位表",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260222/1102099544411213824719458.jpeg/CRG-xVc3VxrVygUd9wkhe3u5YzUOH2wXESqqPREqqj0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60342545/%E4%BC%8A%E6%9C%97%E5%A4%96%E9%95%B7-%E7%BE%8E%E5%9C%8B%E5%B0%81%E9%8E%96%E6%B8%AF%E5%8F%A3%E6%98%AF%E6%88%B0%E7%88%AD%E8%A1%8C%E7%82%BA-%E4%BC%8A%E6%9C%97%E8%83%BD%E5%A4%A0-%E5%8C%96%E8%A7%A3%E9%99%90%E5%88%B6",
     "timestamp": "2026-04-21T19:52:12.008Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "卡塔爾：將推動霍爾木茲海峽恢復正常通行",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260319/1111168314882658304921783.jpeg/KWvEaUsTKebHXpYXmlvAYeh-PU0KYmvfGe7oRxnu6Ec?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60342536/%E5%8D%A1%E5%A1%94%E7%88%BE-%E5%B0%87%E6%8E%A8%E5%8B%95%E9%9C%8D%E7%88%BE%E6%9C%A8%E8%8C%B2%E6%B5%B7%E5%B3%BD%E6%81%A2%E5%BE%A9%E6%AD%A3%E5%B8%B8%E9%80%9A%E8%A1%8C",
-    "timestamp": "2026-04-21T19:15:57.744Z",
     "strategy": ".content-card__main"
   }
 ];
