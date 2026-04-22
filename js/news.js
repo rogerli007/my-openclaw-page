@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-22T00:52:32.442Z
+// Last updated: 2026-04-22T01:45:26.379Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "A股市值迫萬億人民幣　中際旭創據報6月來港上市　最多籌390億元",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260422/1123557423412416512035419.jpeg/vtI6qEH74ihcaO50O-j4adwjBOhFlaDmFdqt5RXareU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60342573/a%E8%82%A1%E5%B8%82%E5%80%BC%E8%BF%AB%E8%90%AC%E5%84%84%E4%BA%BA%E6%B0%91%E5%B9%A3-%E4%B8%AD%E9%9A%9B%E6%97%AD%E5%89%B5%E6%93%9A%E5%A0%B16%E6%9C%88%E4%BE%86%E6%B8%AF%E4%B8%8A%E5%B8%82-%E6%9C%80%E5%A4%9A%E7%B1%8C390%E5%84%84%E5%85%83",
+    "timestamp": "2026-04-22T01:45:26.379Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "議員來稿．范凱傑｜引頂尖院校落戶北都　築「留學香港」全球品牌",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260421/1123270689399246848297541.jpeg/OZXQbwdJCuAH_emRegvOuzek-wj8K7E64OxUguDsVII?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60327768/%E7%95%AA%E8%96%AF%E7%99%BC%E8%8A%BD%E6%9C%89%E9%BB%91%E9%BB%8F%E6%B6%B2%E4%B8%8D%E8%83%BD%E5%90%83-%E5%B0%88%E5%AE%B6%E8%A7%A3%E8%AC%8E%E7%84%A1%E6%AF%92%E5%8F%88%E9%80%9A%E4%BE%BF-1%E6%8B%9B%E4%BF%9D%E5%AD%98%E6%87%89%E5%90%A6%E6%94%BE%E9%9B%AA%E6%AB%83",
     "timestamp": "2026-04-21T09:12:51.211Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "62歲男騎車蚊子入眼揉眼竟讓視力降至0.04　醫生：真菌性角膜潰瘍",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250829/1038132148143394816549286.jpeg/hRszSkF-i7Xhc87Auc9wxJ8i_hcx-TPb44P0UOOD9FA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60342342/62%E6%AD%B2%E7%94%B7%E9%A8%8E%E8%BB%8A%E8%9A%8A%E5%AD%90%E5%85%A5%E7%9C%BC%E6%8F%89%E7%9C%BC%E7%AB%9F%E8%AE%93%E8%A6%96%E5%8A%9B%E9%99%8D%E8%87%B30-04-%E9%86%AB%E7%94%9F-%E7%9C%9F%E8%8F%8C%E6%80%A7%E8%A7%92%E8%86%9C%E6%BD%B0%E7%98%8D",
-    "timestamp": "2026-04-21T07:44:51.579Z",
     "strategy": ".content-card__main"
   }
 ];
