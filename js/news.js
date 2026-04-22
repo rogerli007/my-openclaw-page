@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-22T17:41:36.424Z
+// Last updated: 2026-04-22T18:13:26.899Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "宏福苑｜消防處：4月起優化誤投個案轉介機制　確保投訴不被忽略",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260420/1122980203283615744047692.jpeg/rsUUOIuBo9bd2onT3KoS3OtzPG3FSkcoh-5UBqLuVAY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60342934/%E5%AE%8F%E7%A6%8F%E8%8B%91-%E6%B6%88%E9%98%B2%E8%99%95-4%E6%9C%88%E8%B5%B7%E5%84%AA%E5%8C%96%E8%AA%A4%E6%8A%95%E5%80%8B%E6%A1%88%E8%BD%89%E4%BB%8B%E6%A9%9F%E5%88%B6-%E7%A2%BA%E4%BF%9D%E6%8A%95%E8%A8%B4%E4%B8%8D%E8%A2%AB%E5%BF%BD%E7%95%A5",
+    "timestamp": "2026-04-22T18:13:26.899Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "中國柬埔寨2+2首次會議　王毅：國際局勢動盪仍堅持守望相助",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260222/1102099544411213824719458.jpeg/CRG-xVc3VxrVygUd9wkhe3u5YzUOH2wXESqqPREqqj0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60342545/%E4%BC%8A%E6%9C%97%E5%A4%96%E9%95%B7-%E7%BE%8E%E5%9C%8B%E5%B0%81%E9%8E%96%E6%B8%AF%E5%8F%A3%E6%98%AF%E6%88%B0%E7%88%AD%E8%A1%8C%E7%82%BA-%E4%BC%8A%E6%9C%97%E8%83%BD%E5%A4%A0-%E5%8C%96%E8%A7%A3%E9%99%90%E5%88%B6",
     "timestamp": "2026-04-21T20:38:24.971Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "伊朗外長：美國封鎖港口是戰爭行為　伊朗能夠「化解限制」",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260222/1102099544411213824719458.jpeg/CRG-xVc3VxrVygUd9wkhe3u5YzUOH2wXESqqPREqqj0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60342545/%E4%BC%8A%E6%9C%97%E5%A4%96%E9%95%B7-%E7%BE%8E%E5%9C%8B%E5%B0%81%E9%8E%96%E6%B8%AF%E5%8F%A3%E6%98%AF%E6%88%B0%E7%88%AD%E8%A1%8C%E7%82%BA-%E4%BC%8A%E6%9C%97%E8%83%BD%E5%A4%A0-%E5%8C%96%E8%A7%A3%E9%99%90%E5%88%B6",
-    "timestamp": "2026-04-21T20:16:06.189Z",
     "strategy": ".content-card__main"
   }
 ];
