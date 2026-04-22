@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-22T14:03:07.344Z
+// Last updated: 2026-04-22T15:38:46.136Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "啟德醫院地盤奪命意外｜工權會：工友被預製消防喉轆組件壓斃",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260422/1123757418195456000768902.jpeg/TryGU3_RqCkik9FeDb_OrbmcXwfaK2otYZ1o5ludaOY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60342923/%E5%95%9F%E5%BE%B7%E9%86%AB%E9%99%A2%E5%9C%B0%E7%9B%A4%E5%A5%AA%E5%91%BD%E6%84%8F%E5%A4%96-%E5%B7%A5%E6%AC%8A%E6%9C%83-%E5%B7%A5%E5%8F%8B%E8%A2%AB%E9%A0%90%E8%A3%BD%E6%B6%88%E9%98%B2%E5%96%89%E8%BD%86%E7%B5%84%E4%BB%B6%E5%A3%93%E6%96%83",
+    "timestamp": "2026-04-22T15:38:46.136Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "名模出身安歆澐爆曾被陳小春夜店搭訕　私下邀約「塞紙條寫房號」",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260325/1113452510720299008430827.jpeg/h02eqEhH3mMSS5Xn9jZ8ti8abTOG18daO3JMKjtyTCo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60342538/%E8%90%AC%E6%96%AF%E8%A8%AA%E5%95%8F%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E8%A1%8C%E7%A8%8B%E6%93%9A%E5%A0%B1%E5%BB%B6%E5%BE%8C-%E7%BE%8E%E5%85%83%E5%BB%B6%E7%BA%8C%E6%BC%B2%E5%8B%A2",
     "timestamp": "2026-04-21T18:13:05.441Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "萬斯訪問巴基斯坦行程據報延後　美元延續漲勢",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260325/1113452510720299008430827.jpeg/h02eqEhH3mMSS5Xn9jZ8ti8abTOG18daO3JMKjtyTCo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60342538/%E8%90%AC%E6%96%AF%E8%A8%AA%E5%95%8F%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E8%A1%8C%E7%A8%8B%E6%93%9A%E5%A0%B1%E5%BB%B6%E5%BE%8C-%E7%BE%8E%E5%85%83%E5%BB%B6%E7%BA%8C%E6%BC%B2%E5%8B%A2",
-    "timestamp": "2026-04-21T17:42:40.734Z",
     "strategy": ".content-card__main"
   }
 ];
