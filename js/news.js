@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-22T08:23:44.730Z
+// Last updated: 2026-04-22T10:40:32.002Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "南丫海難｜家屬不滿死因庭裁無裝水密門非疏忽　求司法覆核",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250516/1000027392867307520417350.jpeg/TzQwy8YjSgK36N9R30V8fHTdHQCiktnxKPIVGSjyFRk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60342868/%E5%8D%97%E4%B8%AB%E6%B5%B7%E9%9B%A3-%E5%AE%B6%E5%B1%AC%E4%B8%8D%E6%BB%BF%E6%AD%BB%E5%9B%A0%E5%BA%AD%E8%A3%81%E7%84%A1%E8%A3%9D%E6%B0%B4%E5%AF%86%E9%96%80%E9%9D%9E%E7%96%8F%E5%BF%BD-%E6%B1%82%E5%8F%B8%E6%B3%95%E8%A6%86%E6%A0%B8",
+    "timestamp": "2026-04-22T10:40:32.002Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "英冠｜李斯特城連續兩季降班　十年前英超童話式奪冠軍今日變悲劇",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260421/1123365975073230848143089.png/yPkw1WYHQCr74nGy2iXqAkTRzvgHLwQREwnWChMJ1go?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60342506/%E8%AD%A6%E9%9A%8A%E8%BE%A6%E5%8F%8D%E6%81%90%E8%A9%A6%E7%85%89%E6%97%A5%E6%8B%9B%E5%8B%9F%E9%81%8B%E5%8B%95%E5%93%A1-%E7%9C%BE%E5%A4%9A%E9%AB%94%E5%A3%87%E5%90%8D%E5%B0%87%E5%8F%83%E8%88%87%E6%8C%91%E6%88%B0",
     "timestamp": "2026-04-21T13:17:43.514Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "口罩小姐徐蒨駖宣布離婚　9年夫妻關係告終：我哋會共同撫養女兒",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260421/1123357965718392832690751.png/LreWQoQUgTxZ1YjVcRGQS_VYSAI1UGELzy5P8s8uT_I?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60342500/%E5%8F%A3%E7%BD%A9%E5%B0%8F%E5%A7%90%E5%BE%90%E8%92%A8%E9%A7%96%E5%AE%A3%E5%B8%83%E9%9B%A2%E5%A9%9A-9%E5%B9%B4%E5%A4%AB%E5%A6%BB%E9%97%9C%E4%BF%82%E5%91%8A%E7%B5%82-%E6%88%91%E5%93%8B%E6%9C%83%E5%85%B1%E5%90%8C%E6%92%AB%E9%A4%8A%E5%A5%B3%E5%85%92",
-    "timestamp": "2026-04-21T12:45:31.232Z",
     "strategy": ".content-card__main"
   }
 ];
