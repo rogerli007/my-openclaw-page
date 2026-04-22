@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-22T18:45:22.315Z
+// Last updated: 2026-04-22T19:49:15.924Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "警旺角搗破非法麻雀賭檔　18男女被捕",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260423/1123822163602706432321580.jpeg/BomiPjmhRaUnIJ4K6KsxCwL85ouPh24nsPLev7Dy3r8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60342942/%E8%AD%A6%E6%97%BA%E8%A7%92%E6%90%97%E7%A0%B4%E9%9D%9E%E6%B3%95%E9%BA%BB%E9%9B%80%E8%B3%AD%E6%AA%94-18%E7%94%B7%E5%A5%B3%E8%A2%AB%E6%8D%95",
+    "timestamp": "2026-04-22T19:49:15.924Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "警油尖單日發逾800張牛肉乾　今年首季達4萬張　庫房進帳$1780萬",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260210/1097907503150141440452970.jpeg/KGhuYLZfZ7Yof9rax55MdekxiOp_-Y-IjCTLzYwky80?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60342479/%E6%A2%9D%E8%B7%AF%E8%87%AA%E5%B7%B1%E6%8F%80-%E5%B9%B4%E9%9D%92%E4%BA%BA%E7%9A%84%E5%8D%81%E5%AD%97%E8%A1%97%E9%A0%AD-%E6%B1%AA%E6%95%A6%E6%95%AC",
     "timestamp": "2026-04-21T22:55:46.399Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "天氣｜今日最高30度　稍後有一兩陣驟雨　明有狂風雷暴氣溫稍降",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260422/1123501765820551168682794.jpeg/ZJ_DB7GUl6XvsAv7xaYvvsta5bGA9AHVH5KZWR-SmVk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60342535/%E5%A4%A9%E6%B0%A3-%E4%BB%8A%E6%97%A5%E6%9C%80%E9%AB%9830%E5%BA%A6-%E7%A8%8D%E5%BE%8C%E6%9C%89%E4%B8%80%E5%85%A9%E9%99%A3%E9%A9%9F%E9%9B%A8-%E6%98%8E%E6%9C%89%E7%8B%82%E9%A2%A8%E9%9B%B7%E6%9A%B4%E6%B0%A3%E6%BA%AB%E7%A8%8D%E9%99%8D",
-    "timestamp": "2026-04-21T22:32:46.949Z",
     "strategy": ".content-card__main"
   }
 ];
