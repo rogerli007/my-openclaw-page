@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-22T16:43:40.416Z
+// Last updated: 2026-04-22T17:41:36.424Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "中國柬埔寨2+2首次會議　王毅：國際局勢動盪仍堅持守望相助",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260423/1123793772736417792690482.jpeg/_yfk7bzAmrc0ycoQ-eFB1R1WExt5xGwF-6qGofuqhqE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60342936/%E4%B8%AD%E5%9C%8B%E6%9F%AC%E5%9F%94%E5%AF%A82-2%E9%A6%96%E6%AC%A1%E6%9C%83%E8%AD%B0-%E7%8E%8B%E6%AF%85-%E5%9C%8B%E9%9A%9B%E5%B1%80%E5%8B%A2%E5%8B%95%E7%9B%AA%E4%BB%8D%E5%A0%85%E6%8C%81%E5%AE%88%E6%9C%9B%E7%9B%B8%E5%8A%A9",
+    "timestamp": "2026-04-22T17:41:36.424Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "珍惜生命｜荃灣八旬翁和妻子口角後離家蹈海　警員跳落水救人",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260222/1102099544411213824719458.jpeg/CRG-xVc3VxrVygUd9wkhe3u5YzUOH2wXESqqPREqqj0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60342545/%E4%BC%8A%E6%9C%97%E5%A4%96%E9%95%B7-%E7%BE%8E%E5%9C%8B%E5%B0%81%E9%8E%96%E6%B8%AF%E5%8F%A3%E6%98%AF%E6%88%B0%E7%88%AD%E8%A1%8C%E7%82%BA-%E4%BC%8A%E6%9C%97%E8%83%BD%E5%A4%A0-%E5%8C%96%E8%A7%A3%E9%99%90%E5%88%B6",
     "timestamp": "2026-04-21T20:16:06.189Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "伊朗外長：美國封鎖港口是戰爭行為　伊朗能夠「化解限制」",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260222/1102099544411213824719458.jpeg/CRG-xVc3VxrVygUd9wkhe3u5YzUOH2wXESqqPREqqj0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60342545/%E4%BC%8A%E6%9C%97%E5%A4%96%E9%95%B7-%E7%BE%8E%E5%9C%8B%E5%B0%81%E9%8E%96%E6%B8%AF%E5%8F%A3%E6%98%AF%E6%88%B0%E7%88%AD%E8%A1%8C%E7%82%BA-%E4%BC%8A%E6%9C%97%E8%83%BD%E5%A4%A0-%E5%8C%96%E8%A7%A3%E9%99%90%E5%88%B6",
-    "timestamp": "2026-04-21T19:52:12.008Z",
     "strategy": ".content-card__main"
   }
 ];
