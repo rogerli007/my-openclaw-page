@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-22T11:14:46.126Z
+// Last updated: 2026-04-22T11:44:16.580Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "「暖男」卞慶華形象大翻轉　下藥欲性侵女星　遭正宮酒店抓姦掌摑",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260422/1123649819429048320401729.png/e9NNVJmQDImax6QMJmQBRXlr_JkSqZA68i2BOvItgTo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60342758/%E6%9A%96%E7%94%B7-%E5%8D%9E%E6%85%B6%E8%8F%AF%E5%BD%A2%E8%B1%A1%E5%A4%A7%E7%BF%BB%E8%BD%89-%E4%B8%8B%E8%97%A5%E6%AC%B2%E6%80%A7%E4%BE%B5%E5%A5%B3%E6%98%9F-%E9%81%AD%E6%AD%A3%E5%AE%AE%E9%85%92%E5%BA%97%E6%8A%93%E5%A7%A6%E6%8E%8C%E6%91%91",
+    "timestamp": "2026-04-22T11:44:16.580Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "的士司機涉載客自瀆　辯稱患濕疹轉季會痕癢　內褲有鈕陽具不易露",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260421/1123377400218914816760539.jpeg/eHo5yZSHn_hLTZAxSNxkC0JoHSqhx07n0ec-i9HnPos?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60342510/%E7%89%B9%E6%9C%97%E6%99%AE-%E7%BE%8E%E8%BB%8D%E6%94%94%E6%88%AA%E8%B2%A8%E8%88%B9-%E7%82%BA%E4%B8%AD%E5%9C%8B%E7%B5%A6%E4%BC%8A%E6%9C%97-%E7%A6%AE%E7%89%A9",
     "timestamp": "2026-04-21T14:48:20.502Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "王晶談《逐玉》原片外洩有感而發　揭露當年港產片被盜錄驚人內幕",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260421/1123253439447437312208354.jpeg/FN9v_tMWXfIgjC96J6XQGVsCQlD1z5CvGyDmSRsg5kk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60342217/%E7%8E%8B%E6%99%B6%E8%AB%87-%E9%80%90%E7%8E%89-%E5%8E%9F%E7%89%87%E5%A4%96%E6%B4%A9%E6%9C%89%E6%84%9F%E8%80%8C%E7%99%BC-%E6%8F%AD%E9%9C%B2%E7%95%B6%E5%B9%B4%E6%B8%AF%E7%94%A2%E7%89%87%E8%A2%AB%E7%9B%9C%E9%8C%84%E9%A9%9A%E4%BA%BA%E5%85%A7%E5%B9%95",
-    "timestamp": "2026-04-21T14:04:06.069Z",
     "strategy": ".content-card__main"
   }
 ];
