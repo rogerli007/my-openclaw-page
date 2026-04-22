@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-21T23:51:10.477Z
+// Last updated: 2026-04-22T00:52:32.442Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "議員來稿．范凱傑｜引頂尖院校落戶北都　築「留學香港」全球品牌",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260421/1123395844255518720839267.jpeg/zy42zGfTZX2yoQhWFT9I1Hkf6Z4po4QJ2TpAbtk6QG4?v=w1920r16_9",
+    "url": "https://www.hk01.com/01%E8%AB%96%E5%A3%87/60342522/%E8%AD%B0%E5%93%A1%E4%BE%86%E7%A8%BF-%E8%8C%83%E5%87%B1%E5%82%91-%E5%BC%95%E9%A0%82%E5%B0%96%E9%99%A2%E6%A0%A1%E8%90%BD%E6%88%B6%E5%8C%97%E9%83%BD-%E7%AF%89-%E7%95%99%E5%AD%B8%E9%A6%99%E6%B8%AF-%E5%85%A8%E7%90%83%E5%93%81%E7%89%8C",
+    "timestamp": "2026-04-22T00:52:32.442Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美國與歐盟加強對伊朗制裁",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250829/1038132148143394816549286.jpeg/hRszSkF-i7Xhc87Auc9wxJ8i_hcx-TPb44P0UOOD9FA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60342342/62%E6%AD%B2%E7%94%B7%E9%A8%8E%E8%BB%8A%E8%9A%8A%E5%AD%90%E5%85%A5%E7%9C%BC%E6%8F%89%E7%9C%BC%E7%AB%9F%E8%AE%93%E8%A6%96%E5%8A%9B%E9%99%8D%E8%87%B30-04-%E9%86%AB%E7%94%9F-%E7%9C%9F%E8%8F%8C%E6%80%A7%E8%A7%92%E8%86%9C%E6%BD%B0%E7%98%8D",
     "timestamp": "2026-04-21T07:44:51.579Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "黎智英案｜政府求取黎逾1.27億財產　黎獲退還200萬罰款亦須充公",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20240516/867807825714221056289741.jpeg/nRsXmHq4lFRjaEwhmCcQBjxXmR6KwwsIZnOLoGZzi6A?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60342322/%E9%BB%8E%E6%99%BA%E8%8B%B1%E6%A1%88-%E6%94%BF%E5%BA%9C%E6%B1%82%E5%8F%96%E9%BB%8E%E9%80%BE1-27%E5%84%84%E8%B2%A1%E7%94%A2-%E9%BB%8E%E7%8D%B2%E9%80%80%E9%82%84200%E8%90%AC%E7%BD%B0%E6%AC%BE%E4%BA%A6%E9%A0%88%E5%85%85%E5%85%AC",
-    "timestamp": "2026-04-21T06:56:36.251Z",
     "strategy": ".content-card__main"
   }
 ];
