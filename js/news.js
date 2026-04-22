@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-22T01:45:26.379Z
+// Last updated: 2026-04-22T06:01:47.264Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "意大利盃｜國米3：2反勝科木　彼達蘇錫89分鐘入球助球隊晉級決賽",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260422/1123567283281596416963185.jpeg/04uOGJCMwFKtiaGxQ6mph51Oj3x8UYmq8mO1JPJjtSQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60342575/%E6%84%8F%E5%A4%A7%E5%88%A9%E7%9B%83-%E5%9C%8B%E7%B1%B33-2%E5%8F%8D%E5%8B%9D%E7%A7%91%E6%9C%A8-%E5%BD%BC%E9%81%94%E8%98%87%E9%8C%AB89%E5%88%86%E9%90%98%E5%85%A5%E7%90%83%E5%8A%A9%E7%90%83%E9%9A%8A%E6%99%89%E7%B4%9A%E6%B1%BA%E8%B3%BD",
+    "timestamp": "2026-04-22T06:01:47.264Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "A股市值迫萬億人民幣　中際旭創據報6月來港上市　最多籌390億元",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20251211/1075745653415481344821356.jpeg/n15F-0J_eFDu4PoC58V6Kc5iMlXSRapQ0fVXONH1Vzg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60342425/%E6%B1%9F%E6%97%BB%E6%86%93%E9%80%BE1-4%E8%90%AC%E8%B2%B7-%E4%B8%96%E7%95%8C%E5%8D%81%E5%A4%A7%E5%90%8D%E6%A4%85-%E7%94%B3%E5%A0%B1%E8%B2%B7macbook%E7%9B%B8%E6%A9%9F-%E6%94%BF%E5%A3%87%E8%AB%B8%E4%BA%8B%E7%94%BA",
     "timestamp": "2026-04-21T09:55:05.922Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "番薯發芽有黑黏液不能吃？專家解謎無毒又通便+1招保存應否放雪櫃",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260421/1123270689399246848297541.jpeg/OZXQbwdJCuAH_emRegvOuzek-wj8K7E64OxUguDsVII?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60327768/%E7%95%AA%E8%96%AF%E7%99%BC%E8%8A%BD%E6%9C%89%E9%BB%91%E9%BB%8F%E6%B6%B2%E4%B8%8D%E8%83%BD%E5%90%83-%E5%B0%88%E5%AE%B6%E8%A7%A3%E8%AC%8E%E7%84%A1%E6%AF%92%E5%8F%88%E9%80%9A%E4%BE%BF-1%E6%8B%9B%E4%BF%9D%E5%AD%98%E6%87%89%E5%90%A6%E6%94%BE%E9%9B%AA%E6%AB%83",
-    "timestamp": "2026-04-21T09:12:51.211Z",
     "strategy": ".content-card__main"
   }
 ];
