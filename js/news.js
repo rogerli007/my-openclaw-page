@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-22T18:13:26.899Z
+// Last updated: 2026-04-22T18:45:22.315Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "警油尖單日發逾800張牛肉乾　今年首季達4萬張　庫房進帳$1780萬",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260423/1123808793537286144273469.jpeg/6JRdN0V02QbJS2h4Byjjo_vy5x0ltiJKr6Ljm6-i45s?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60342939/%E8%AD%A6%E6%B2%B9%E5%B0%96%E5%96%AE%E6%97%A5%E7%99%BC%E9%80%BE800%E5%BC%B5%E7%89%9B%E8%82%89%E4%B9%BE-%E4%BB%8A%E5%B9%B4%E9%A6%96%E5%AD%A3%E9%81%944%E8%90%AC%E5%BC%B5-%E5%BA%AB%E6%88%BF%E9%80%B2%E5%B8%B3-1780%E8%90%AC",
+    "timestamp": "2026-04-22T18:45:22.315Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "宏福苑｜消防處：4月起優化誤投個案轉介機制　確保投訴不被忽略",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260422/1123501765820551168682794.jpeg/ZJ_DB7GUl6XvsAv7xaYvvsta5bGA9AHVH5KZWR-SmVk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60342535/%E5%A4%A9%E6%B0%A3-%E4%BB%8A%E6%97%A5%E6%9C%80%E9%AB%9830%E5%BA%A6-%E7%A8%8D%E5%BE%8C%E6%9C%89%E4%B8%80%E5%85%A9%E9%99%A3%E9%A9%9F%E9%9B%A8-%E6%98%8E%E6%9C%89%E7%8B%82%E9%A2%A8%E9%9B%B7%E6%9A%B4%E6%B0%A3%E6%BA%AB%E7%A8%8D%E9%99%8D",
     "timestamp": "2026-04-21T22:32:46.949Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "伊朗外長：美國封鎖港口是戰爭行為　伊朗能夠「化解限制」",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260222/1102099544411213824719458.jpeg/CRG-xVc3VxrVygUd9wkhe3u5YzUOH2wXESqqPREqqj0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60342545/%E4%BC%8A%E6%9C%97%E5%A4%96%E9%95%B7-%E7%BE%8E%E5%9C%8B%E5%B0%81%E9%8E%96%E6%B8%AF%E5%8F%A3%E6%98%AF%E6%88%B0%E7%88%AD%E8%A1%8C%E7%82%BA-%E4%BC%8A%E6%9C%97%E8%83%BD%E5%A4%A0-%E5%8C%96%E8%A7%A3%E9%99%90%E5%88%B6",
-    "timestamp": "2026-04-21T20:38:24.971Z",
     "strategy": ".content-card__main"
   }
 ];
