@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-22T06:01:47.264Z
+// Last updated: 2026-04-22T07:44:29.407Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "女會計經理6年偷公司逾6300萬　申請破產中無力還款　判囚8年",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260422/1123646275904868352240561.jpeg/xnMKObjAsx3pNQu9XaVLp57A1gkIyrAfeCYuzXgmLs0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60342750/%E5%A5%B3%E6%9C%83%E8%A8%88%E7%B6%93%E7%90%866%E5%B9%B4%E5%81%B7%E5%85%AC%E5%8F%B8%E9%80%BE6300%E8%90%AC-%E7%94%B3%E8%AB%8B%E7%A0%B4%E7%94%A2%E4%B8%AD%E7%84%A1%E5%8A%9B%E9%82%84%E6%AC%BE-%E5%88%A4%E5%9B%9A8%E5%B9%B4",
+    "timestamp": "2026-04-22T07:44:29.407Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "意大利盃｜國米3：2反勝科木　彼達蘇錫89分鐘入球助球隊晉級決賽",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260421/1123350457406722048918254.jpeg/Sg0d2T6UozRBtc7jt-fHM6ncSLzV4bUkGlVuMxpVbjM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60342497/%E6%BB%99%E8%B1%90-%E6%9C%AA%E6%B6%89%E4%BC%8A%E6%9C%97%E6%B4%97%E9%8C%A2%E6%B4%BB%E5%8B%95-%E6%B4%BE%E6%81%AF%E6%AF%94%E7%8E%87%E7%B6%AD%E6%8C%8150-%E6%9A%AB%E7%84%A1%E6%84%8F%E6%81%A2%E5%BE%A9%E4%BB%A5%E8%82%A1%E4%BB%A3%E6%81%AF",
     "timestamp": "2026-04-21T12:12:28.409Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "江旻憓逾1.4萬買｢世界十大名椅｣　申報買MacBook相機｜政壇諸事町",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20251211/1075745653415481344821356.jpeg/n15F-0J_eFDu4PoC58V6Kc5iMlXSRapQ0fVXONH1Vzg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60342425/%E6%B1%9F%E6%97%BB%E6%86%93%E9%80%BE1-4%E8%90%AC%E8%B2%B7-%E4%B8%96%E7%95%8C%E5%8D%81%E5%A4%A7%E5%90%8D%E6%A4%85-%E7%94%B3%E5%A0%B1%E8%B2%B7macbook%E7%9B%B8%E6%A9%9F-%E6%94%BF%E5%A3%87%E8%AB%B8%E4%BA%8B%E7%94%BA",
-    "timestamp": "2026-04-21T09:55:05.922Z",
     "strategy": ".content-card__main"
   }
 ];
