@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-22T20:19:46.088Z
+// Last updated: 2026-04-22T20:40:58.659Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美媒：美軍需6個月才能完成霍爾木茲海峽掃雷",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260420/1122862339033403392216830.jpeg/98glKEvJ8iFmRQ9U1u9I58Y8YriMhZlAgn4zCIJ-Mwg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60342947/%E7%BE%8E%E5%AA%92-%E7%BE%8E%E8%BB%8D%E9%9C%806%E5%80%8B%E6%9C%88%E6%89%8D%E8%83%BD%E5%AE%8C%E6%88%90%E9%9C%8D%E7%88%BE%E6%9C%A8%E8%8C%B2%E6%B5%B7%E5%B3%BD%E6%8E%83%E9%9B%B7",
+    "timestamp": "2026-04-22T20:40:58.659Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "Telegram創辦人杜羅夫稱接獲俄方傳票　指他為刑事案件「疑犯」",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260122/1090906562152632320842159.jpeg/uyR5G5qMD-RUnJ-Z8W42v-juuexgp6Q7xrj3Nca49zU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60342550/%E7%BE%8E%E5%9C%8B%E8%88%87%E6%AD%90%E7%9B%9F%E5%8A%A0%E5%BC%B7%E5%B0%8D%E4%BC%8A%E6%9C%97%E5%88%B6%E8%A3%81",
     "timestamp": "2026-04-21T23:51:10.477Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美國與歐盟加強對伊朗制裁",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260122/1090906562152632320842159.jpeg/uyR5G5qMD-RUnJ-Z8W42v-juuexgp6Q7xrj3Nca49zU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60342550/%E7%BE%8E%E5%9C%8B%E8%88%87%E6%AD%90%E7%9B%9F%E5%8A%A0%E5%BC%B7%E5%B0%8D%E4%BC%8A%E6%9C%97%E5%88%B6%E8%A3%81",
-    "timestamp": "2026-04-21T23:22:57.928Z",
     "strategy": ".content-card__main"
   }
 ];
