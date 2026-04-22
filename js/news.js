@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-22T13:18:30.997Z
+// Last updated: 2026-04-22T14:03:07.344Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "名模出身安歆澐爆曾被陳小春夜店搭訕　私下邀約「塞紙條寫房號」",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260422/1123631320501587968984537.png/--sIIXTxjWcMCSExiLB1abLJ3bFGWtyBAYdA3AGHQNw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60342705/%E5%90%8D%E6%A8%A1%E5%87%BA%E8%BA%AB%E5%AE%89%E6%AD%86%E6%BE%90%E7%88%86%E6%9B%BE%E8%A2%AB%E9%99%B3%E5%B0%8F%E6%98%A5%E5%A4%9C%E5%BA%97%E6%90%AD%E8%A8%95-%E7%A7%81%E4%B8%8B%E9%82%80%E7%B4%84-%E5%A1%9E%E7%B4%99%E6%A2%9D%E5%AF%AB%E6%88%BF%E8%99%9F",
+    "timestamp": "2026-04-22T14:03:07.344Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "北都｜陳國基率代表團訪韓　了解大田市大學培養學生創新能力工作",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260325/1113452510720299008430827.jpeg/h02eqEhH3mMSS5Xn9jZ8ti8abTOG18daO3JMKjtyTCo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60342538/%E8%90%AC%E6%96%AF%E8%A8%AA%E5%95%8F%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E8%A1%8C%E7%A8%8B%E6%93%9A%E5%A0%B1%E5%BB%B6%E5%BE%8C-%E7%BE%8E%E5%85%83%E5%BB%B6%E7%BA%8C%E6%BC%B2%E5%8B%A2",
     "timestamp": "2026-04-21T17:42:40.734Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "Gordon Flanders演唱會圓滿落幕　MC張天賦任嘉賓台上公開追歌債",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260421/1123315261592571904640573.jpeg/fHxwY5CsSCvljhG4U0zGc95OpN-4Pyf5N9Z2GjfWdho?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60342434/gordon-flanders%E6%BC%94%E5%94%B1%E6%9C%83%E5%9C%93%E6%BB%BF%E8%90%BD%E5%B9%95-mc%E5%BC%B5%E5%A4%A9%E8%B3%A6%E4%BB%BB%E5%98%89%E8%B3%93%E5%8F%B0%E4%B8%8A%E5%85%AC%E9%96%8B%E8%BF%BD%E6%AD%8C%E5%82%B5",
-    "timestamp": "2026-04-21T15:20:52.428Z",
     "strategy": ".content-card__main"
   }
 ];
