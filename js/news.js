@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-23T06:29:35.034Z
+// Last updated: 2026-04-23T07:15:11.858Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "宏福苑居民質疑棄用警示決定　稱唯一方法提示逃生：走唔到仲嚇親",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260423/1124003079637700608321840.jpeg/Lsudcmp5-5dVhpdKtOejVKtgOrojrPnq4HxXHeB8Vx0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60343169/%E5%AE%8F%E7%A6%8F%E8%8B%91%E5%B1%85%E6%B0%91%E8%B3%AA%E7%96%91%E6%A3%84%E7%94%A8%E8%AD%A6%E7%A4%BA%E6%B1%BA%E5%AE%9A-%E7%A8%B1%E5%94%AF%E4%B8%80%E6%96%B9%E6%B3%95%E6%8F%90%E7%A4%BA%E9%80%83%E7%94%9F-%E8%B5%B0%E5%94%94%E5%88%B0%E4%BB%B2%E5%9A%87%E8%A6%AA",
+    "timestamp": "2026-04-23T07:15:11.858Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "佐丹奴中環GL旗艦店重開　首三日收入升117%　CEO看好零售市道",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260422/1123631320501587968984537.png/--sIIXTxjWcMCSExiLB1abLJ3bFGWtyBAYdA3AGHQNw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60342705/%E5%90%8D%E6%A8%A1%E5%87%BA%E8%BA%AB%E5%AE%89%E6%AD%86%E6%BE%90%E7%88%86%E6%9B%BE%E8%A2%AB%E9%99%B3%E5%B0%8F%E6%98%A5%E5%A4%9C%E5%BA%97%E6%90%AD%E8%A8%95-%E7%A7%81%E4%B8%8B%E9%82%80%E7%B4%84-%E5%A1%9E%E7%B4%99%E6%A2%9D%E5%AF%AB%E6%88%BF%E8%99%9F",
     "timestamp": "2026-04-22T14:03:07.344Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "北都｜陳國基率代表團訪韓　了解大田市大學培養學生創新能力工作",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260422/1123717095733858304305978.jpeg/Jmfgkc62g11WVTYwSiasDbjni6EH6U05EibkShIm5Eo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60342893/%E5%8C%97%E9%83%BD-%E9%99%B3%E5%9C%8B%E5%9F%BA%E7%8E%87%E4%BB%A3%E8%A1%A8%E5%9C%98%E8%A8%AA%E9%9F%93-%E4%BA%86%E8%A7%A3%E5%A4%A7%E7%94%B0%E5%B8%82%E5%A4%A7%E5%AD%B8%E5%9F%B9%E9%A4%8A%E5%AD%B8%E7%94%9F%E5%89%B5%E6%96%B0%E8%83%BD%E5%8A%9B%E5%B7%A5%E4%BD%9C",
-    "timestamp": "2026-04-22T13:18:30.997Z",
     "strategy": ".content-card__main"
   }
 ];
