@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-23T21:36:59.992Z
+// Last updated: 2026-04-23T22:06:44.195Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "女遊客來港光顧冰室驚見「五星級大鼠」：已落單唯有頂硬上｜有片",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260424/1124158547404263424871095.jpeg/cBBvWKhnu7k4j9k_1CYM-KB6c_N9IBbRMDtD0jA7Q9I?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%92%B0%E7%90%83%E8%B6%A3%E8%81%9E/60343359/%E5%A5%B3%E9%81%8A%E5%AE%A2%E4%BE%86%E6%B8%AF%E5%85%89%E9%A1%A7%E5%86%B0%E5%AE%A4%E9%A9%9A%E8%A6%8B-%E4%BA%94%E6%98%9F%E7%B4%9A%E5%A4%A7%E9%BC%A0-%E5%B7%B2%E8%90%BD%E5%96%AE%E5%94%AF%E6%9C%89%E9%A0%82%E7%A1%AC%E4%B8%8A-%E6%9C%89%E7%89%87",
+    "timestamp": "2026-04-23T22:06:44.195Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美國路易斯安那州購物中心爆槍擊　至少1死9人傷　料涉兩幫人衝突",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/246862/org/192aea6f8f755697acfb55b6a2648f1e.jpg/AN7_cMaewSSOKhwlYqN-kjnnX-HliusVeF3Dm3hdw5s?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60343045/%E9%8C%A6%E7%B6%89%E8%8A%B1%E5%9C%923%E6%AD%B2%E7%94%B7%E7%AB%A5%E5%91%BC%E5%90%B8%E5%9B%B0%E9%9B%A3-%E9%80%81%E9%99%A2%E6%90%B6%E6%95%91%E6%83%9C%E4%B8%8D%E6%B2%BB",
     "timestamp": "2026-04-23T03:20:43.777Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "非洲三國取消賴清德飛航許可　國台辦讚賞有關國家堅持一中原則",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260423/1123923769983766528271089.jpeg/JR7TzOA_rAV_Gs4Goo3ti5wfqWYzoEWfWauthFmrrYQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60342988/%E9%9D%9E%E6%B4%B2%E4%B8%89%E5%9C%8B%E5%8F%96%E6%B6%88%E8%B3%B4%E6%B8%85%E5%BE%B7%E9%A3%9B%E8%88%AA%E8%A8%B1%E5%8F%AF-%E5%9C%8B%E5%8F%B0%E8%BE%A6%E8%AE%9A%E8%B3%9E%E6%9C%89%E9%97%9C%E5%9C%8B%E5%AE%B6%E5%A0%85%E6%8C%81%E4%B8%80%E4%B8%AD%E5%8E%9F%E5%89%87",
-    "timestamp": "2026-04-23T02:01:54.583Z",
     "strategy": ".content-card__main"
   }
 ];
