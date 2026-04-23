@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-23T08:52:44.067Z
+// Last updated: 2026-04-23T10:55:13.155Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "兩男涉與未成年男童肛交　男童拒庭獲裁無罪　官為公義求讀出案情",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260423/1124056087763488768603528.jpeg/KheaYfn0ZaXZ2m2n-NciBjx7eBg_NZh0ppIYRIOSGEQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60343295/%E5%85%A9%E7%94%B7%E6%B6%89%E8%88%87%E6%9C%AA%E6%88%90%E5%B9%B4%E7%94%B7%E7%AB%A5%E8%82%9B%E4%BA%A4-%E7%94%B7%E7%AB%A5%E6%8B%92%E5%BA%AD%E7%8D%B2%E8%A3%81%E7%84%A1%E7%BD%AA-%E5%AE%98%E7%82%BA%E5%85%AC%E7%BE%A9%E6%B1%82%E8%AE%80%E5%87%BA%E6%A1%88%E6%83%85",
+    "timestamp": "2026-04-23T10:55:13.155Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "外交元老李道豫逝世　官媒揭52年外交生涯與中美博弈往事",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260423/1123780375621931008708693.jpeg/A1om2w4K3uVmL44ae4ne9vJveaViF4BgTqBxIE6gcSA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60342927/%E7%8F%8D%E6%83%9C%E7%94%9F%E5%91%BD-%E8%8D%83%E7%81%A3%E5%85%AB%E6%97%AC%E7%BF%81%E5%92%8C%E5%A6%BB%E5%AD%90%E5%8F%A3%E8%A7%92%E5%BE%8C%E9%9B%A2%E5%AE%B6%E8%B9%88%E6%B5%B7-%E8%AD%A6%E5%93%A1%E8%B7%B3%E8%90%BD%E6%B0%B4%E6%95%91%E4%BA%BA",
     "timestamp": "2026-04-22T16:43:40.416Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "鄭秀文演唱會2026香港｜門票優先/公售攻略＋購票連結＋座位表",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260311/1108463881551876096934508.jpeg/IPpT_veQR4K4gp__1FBZ-HJWaa0fWseUQqys8EKsrPA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60329577/%E9%84%AD%E7%A7%80%E6%96%87%E6%BC%94%E5%94%B1%E6%9C%832026%E9%A6%99%E6%B8%AF-%E9%96%80%E7%A5%A8%E5%84%AA%E5%85%88-%E5%85%AC%E5%94%AE%E6%94%BB%E7%95%A5-%E8%B3%BC%E7%A5%A8%E9%80%A3%E7%B5%90-%E5%BA%A7%E4%BD%8D%E8%A1%A8",
-    "timestamp": "2026-04-22T16:15:01.973Z",
     "strategy": ".content-card__main"
   }
 ];
