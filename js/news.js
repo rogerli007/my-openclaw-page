@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-23T22:59:25.419Z
+// Last updated: 2026-04-23T23:52:51.801Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "議員來稿．陳博智｜從「藍圖」到「餐桌」——漁農業現代化的落地",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260423/1124113367443705856894025.jpeg/hGv7u9F6zKt6xkLnyU6WUN2lMLlqqswKhsNNZ4bDTWc?v=w1920r16_9",
+    "url": "https://www.hk01.com/01%E8%AB%96%E5%A3%87/60343339/%E8%AD%B0%E5%93%A1%E4%BE%86%E7%A8%BF-%E9%99%B3%E5%8D%9A%E6%99%BA-%E5%BE%9E-%E8%97%8D%E5%9C%96-%E5%88%B0-%E9%A4%90%E6%A1%8C-%E6%BC%81%E8%BE%B2%E6%A5%AD%E7%8F%BE%E4%BB%A3%E5%8C%96%E7%9A%84%E8%90%BD%E5%9C%B0",
+    "timestamp": "2026-04-23T23:52:51.801Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "Apple新CEO John Ternus是誰？曾為一顆螺絲跟同事吵翻的細節狂魔",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260423/1124003079637700608321840.jpeg/Lsudcmp5-5dVhpdKtOejVKtgOrojrPnq4HxXHeB8Vx0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60343169/%E5%AE%8F%E7%A6%8F%E8%8B%91%E5%B1%85%E6%B0%91%E8%B3%AA%E7%96%91%E6%A3%84%E7%94%A8%E8%AD%A6%E7%A4%BA%E6%B1%BA%E5%AE%9A-%E7%A8%B1%E5%94%AF%E4%B8%80%E6%96%B9%E6%B3%95%E6%8F%90%E7%A4%BA%E9%80%83%E7%94%9F-%E8%B5%B0%E5%94%94%E5%88%B0%E4%BB%B2%E5%9A%87%E8%A6%AA",
     "timestamp": "2026-04-23T07:15:11.858Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "佐丹奴中環GL旗艦店重開　首三日收入升117%　CEO看好零售市道",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260423/1123989618115481600492578.jpeg/hwmgH8r3be9TuWKFfh0E8oVYjM-QR8AT_wy9Y_8MvWM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60343144/%E4%BD%90%E4%B8%B9%E5%A5%B4%E4%B8%AD%E7%92%B0gl%E6%97%97%E8%89%A6%E5%BA%97%E9%87%8D%E9%96%8B-%E9%A6%96%E4%B8%89%E6%97%A5%E6%94%B6%E5%85%A5%E5%8D%87117-ceo%E7%9C%8B%E5%A5%BD%E9%9B%B6%E5%94%AE%E5%B8%82%E9%81%93",
-    "timestamp": "2026-04-23T06:29:35.034Z",
     "strategy": ".content-card__main"
   }
 ];
