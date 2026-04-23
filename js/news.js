@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-23T19:50:54.616Z
+// Last updated: 2026-04-23T20:17:57.338Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "警土瓜灣單位檢$51萬毒品　包括冰毒和迷幻蘑菇　17歲男被捕",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260424/1124179289999151104835167.jpeg/jHLWYYu23dWilRrYu9se543roV2-oTy_CmMylgpjMpY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60343368/%E8%AD%A6%E5%9C%9F%E7%93%9C%E7%81%A3%E5%96%AE%E4%BD%8D%E6%AA%A2-51%E8%90%AC%E6%AF%92%E5%93%81-%E5%8C%85%E6%8B%AC%E5%86%B0%E6%AF%92%E5%92%8C%E8%BF%B7%E5%B9%BB%E8%98%91%E8%8F%87-17%E6%AD%B2%E7%94%B7%E8%A2%AB%E6%8D%95",
+    "timestamp": "2026-04-23T20:17:57.338Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "警土瓜灣單位檢$51萬毒品　包括冰毒和迷幻蘑菇　17歲男被捕",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260102/1083802832877916160312604.jpeg/cQLA1BdMp9aNbbDcpuJBdnIxgRyTilv-Y2HMF2NhzBc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60342958/%E6%AF%94%E7%89%B9%E5%B9%A3%E9%80%BC%E8%BF%918%E8%90%AC%E7%BE%8E%E5%85%83-%E6%B7%A1%E5%80%89%E5%80%89%E4%BD%8D%E5%A4%A7%E8%A6%8F%E6%A8%A1%E7%88%86%E5%80%89",
     "timestamp": "2026-04-23T00:07:38.479Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "東張西望｜林以諾牧師收自己艷照有裸女相伴　被威脅要畀錢",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260422/1123733764359327744187905.jpeg/5XAuS5u720eAkEI6d-da_ijiucNZtMzLs0DmxbNA5sU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60342910/%E6%9D%B1%E5%BC%B5%E8%A5%BF%E6%9C%9B-%E6%9E%97%E4%BB%A5%E8%AB%BE%E7%89%A7%E5%B8%AB%E6%94%B6%E8%87%AA%E5%B7%B1%E8%89%B7%E7%85%A7%E6%9C%89%E8%A3%B8%E5%A5%B3%E7%9B%B8%E4%BC%B4-%E8%A2%AB%E5%A8%81%E8%84%85%E8%A6%81%E7%95%80%E9%8C%A2",
-    "timestamp": "2026-04-22T23:37:47.016Z",
     "strategy": ".content-card__main"
   }
 ];
