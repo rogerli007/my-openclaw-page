@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-23T22:34:52.213Z
+// Last updated: 2026-04-23T22:59:25.419Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "Apple新CEO John Ternus是誰？曾為一顆螺絲跟同事吵翻的細節狂魔",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260424/1124237351732645888590864.jpeg/N1a6Qhf9ncZk7moRtlijNq2suvjkREpGQ0nOKUNJzik?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60343373/apple%E6%96%B0ceo-john-ternus%E6%98%AF%E8%AA%B0-%E6%9B%BE%E7%82%BA%E4%B8%80%E9%A1%86%E8%9E%BA%E7%B5%B2%E8%B7%9F%E5%90%8C%E4%BA%8B%E5%90%B5%E7%BF%BB%E7%9A%84%E7%B4%B0%E7%AF%80%E7%8B%82%E9%AD%94",
+    "timestamp": "2026-04-23T22:59:25.419Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "楊其龍夜店重開獲霍啟山捧場　曾與何超瓊相戀婚後修心養性變慈父",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260423/1123989618115481600492578.jpeg/hwmgH8r3be9TuWKFfh0E8oVYjM-QR8AT_wy9Y_8MvWM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60343144/%E4%BD%90%E4%B8%B9%E5%A5%B4%E4%B8%AD%E7%92%B0gl%E6%97%97%E8%89%A6%E5%BA%97%E9%87%8D%E9%96%8B-%E9%A6%96%E4%B8%89%E6%97%A5%E6%94%B6%E5%85%A5%E5%8D%87117-ceo%E7%9C%8B%E5%A5%BD%E9%9B%B6%E5%94%AE%E5%B8%82%E9%81%93",
     "timestamp": "2026-04-23T06:29:35.034Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "阿里千問「AI辦事」能力　首對外開放　接入東航實現航班預訂服務",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20251117/1067047210291564544875203.png/C47E-I6tLoYBEoIgpw88MnwPh-Id1fXAMWE-oDFhPqA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60343072/%E9%98%BF%E9%87%8C%E5%8D%83%E5%95%8F-ai%E8%BE%A6%E4%BA%8B-%E8%83%BD%E5%8A%9B-%E9%A6%96%E5%B0%8D%E5%A4%96%E9%96%8B%E6%94%BE-%E6%8E%A5%E5%85%A5%E6%9D%B1%E8%88%AA%E5%AF%A6%E7%8F%BE%E8%88%AA%E7%8F%AD%E9%A0%90%E8%A8%82%E6%9C%8D%E5%8B%99",
-    "timestamp": "2026-04-23T04:38:05.335Z",
     "strategy": ".content-card__main"
   }
 ];
