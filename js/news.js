@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-23T15:47:29.220Z
+// Last updated: 2026-04-23T16:26:33.599Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "免試簽發駕照｜運輸署：全面網上預約大致暢順　文件齊備即日領證",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260423/1124135120589033472309248.jpeg/8IoZVKp2SdAG1OFTXcWYOnzUXEtvFaVN8lv6efJb-nk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60343350/%E5%85%8D%E8%A9%A6%E7%B0%BD%E7%99%BC%E9%A7%95%E7%85%A7-%E9%81%8B%E8%BC%B8%E7%BD%B2-%E5%85%A8%E9%9D%A2%E7%B6%B2%E4%B8%8A%E9%A0%90%E7%B4%84%E5%A4%A7%E8%87%B4%E6%9A%A2%E9%A0%86-%E6%96%87%E4%BB%B6%E9%BD%8A%E5%82%99%E5%8D%B3%E6%97%A5%E9%A0%98%E8%AD%89",
+    "timestamp": "2026-04-23T16:26:33.599Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "長沙灣救護車私家車相撞後翻側　多名街坊上前助救護員脫困│有片",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260420/1122862339033403392216830.jpeg/98glKEvJ8iFmRQ9U1u9I58Y8YriMhZlAgn4zCIJ-Mwg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60342947/%E7%BE%8E%E5%AA%92-%E7%BE%8E%E8%BB%8D%E9%9C%806%E5%80%8B%E6%9C%88%E6%89%8D%E8%83%BD%E5%AE%8C%E6%88%90%E9%9C%8D%E7%88%BE%E6%9C%A8%E8%8C%B2%E6%B5%B7%E5%B3%BD%E6%8E%83%E9%9B%B7",
     "timestamp": "2026-04-22T20:40:58.659Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "Telegram創辦人杜羅夫稱接獲俄方傳票　指他為刑事案件「疑犯」",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20240917/912830785747161088401598.jpeg/sRNQBjUDT8RxbXv7xSwKY98AmoIA86OVs1_DM7NfwzM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60342945/telegram%E5%89%B5%E8%BE%A6%E4%BA%BA%E6%9D%9C%E7%BE%85%E5%A4%AB%E7%A8%B1%E6%8E%A5%E7%8D%B2%E4%BF%84%E6%96%B9%E5%82%B3%E7%A5%A8-%E6%8C%87%E4%BB%96%E7%82%BA%E5%88%91%E4%BA%8B%E6%A1%88%E4%BB%B6-%E7%96%91%E7%8A%AF",
-    "timestamp": "2026-04-22T20:19:46.088Z",
     "strategy": ".content-card__main"
   }
 ];
