@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-23T00:07:38.479Z
+// Last updated: 2026-04-23T01:09:57.969Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "Tesla首季多賺17%至4.77億美元　全年投資額增至250億美元",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260327/1114219306868019200326780.jpeg/qUxUDTeC50VjDpnH0_9OewTHUurvgb2_9VMlYvVTJWI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60342969/tesla%E9%A6%96%E5%AD%A3%E5%A4%9A%E8%B3%BA17-%E8%87%B34-77%E5%84%84%E7%BE%8E%E5%85%83-%E5%85%A8%E5%B9%B4%E6%8A%95%E8%B3%87%E9%A1%8D%E5%A2%9E%E8%87%B3250%E5%84%84%E7%BE%8E%E5%85%83",
+    "timestamp": "2026-04-23T01:09:57.969Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "比特幣逼近8萬美元　淡倉倉位大規模爆倉",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260422/1123652870877483008837591.jpeg/UL_kvSLVQxTDtcecW9Ej1pQJYFd4yJRYtBxfDbQcXw0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60342593/%E8%8B%B1%E5%86%A0-%E6%9D%8E%E6%96%AF%E7%89%B9%E5%9F%8E%E9%80%A3%E7%BA%8C%E5%85%A9%E5%AD%A3%E9%99%8D%E7%8F%AD-%E5%8D%81%E5%B9%B4%E5%89%8D%E8%8B%B1%E8%B6%85%E7%AB%A5%E8%A9%B1%E5%BC%8F%E5%A5%AA%E5%86%A0%E8%BB%8D%E4%BB%8A%E6%97%A5%E8%AE%8A%E6%82%B2%E5%8A%87",
     "timestamp": "2026-04-22T08:23:44.730Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "女會計經理6年偷公司逾6300萬　申請破產中無力還款　判囚8年",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260422/1123646275904868352240561.jpeg/xnMKObjAsx3pNQu9XaVLp57A1gkIyrAfeCYuzXgmLs0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60342750/%E5%A5%B3%E6%9C%83%E8%A8%88%E7%B6%93%E7%90%866%E5%B9%B4%E5%81%B7%E5%85%AC%E5%8F%B8%E9%80%BE6300%E8%90%AC-%E7%94%B3%E8%AB%8B%E7%A0%B4%E7%94%A2%E4%B8%AD%E7%84%A1%E5%8A%9B%E9%82%84%E6%AC%BE-%E5%88%A4%E5%9B%9A8%E5%B9%B4",
-    "timestamp": "2026-04-22T07:44:29.407Z",
     "strategy": ".content-card__main"
   }
 ];
