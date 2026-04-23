@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-23T22:06:44.195Z
+// Last updated: 2026-04-23T22:34:52.213Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "楊其龍夜店重開獲霍啟山捧場　曾與何超瓊相戀婚後修心養性變慈父",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260423/1124103831957803008602749.jpeg/kwXlFCVTcdl4mgghgchhHVhMULKDOPvF2n4botp-G6I?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60343131/%E6%A5%8A%E5%85%B6%E9%BE%8D%E5%A4%9C%E5%BA%97%E9%87%8D%E9%96%8B%E7%8D%B2%E9%9C%8D%E5%95%9F%E5%B1%B1%E6%8D%A7%E5%A0%B4-%E6%9B%BE%E8%88%87%E4%BD%95%E8%B6%85%E7%93%8A%E7%9B%B8%E6%88%80%E5%A9%9A%E5%BE%8C%E4%BF%AE%E5%BF%83%E9%A4%8A%E6%80%A7%E8%AE%8A%E6%85%88%E7%88%B6",
+    "timestamp": "2026-04-23T22:34:52.213Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "女遊客來港光顧冰室驚見「五星級大鼠」：已落單唯有頂硬上｜有片",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20251117/1067047210291564544875203.png/C47E-I6tLoYBEoIgpw88MnwPh-Id1fXAMWE-oDFhPqA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60343072/%E9%98%BF%E9%87%8C%E5%8D%83%E5%95%8F-ai%E8%BE%A6%E4%BA%8B-%E8%83%BD%E5%8A%9B-%E9%A6%96%E5%B0%8D%E5%A4%96%E9%96%8B%E6%94%BE-%E6%8E%A5%E5%85%A5%E6%9D%B1%E8%88%AA%E5%AF%A6%E7%8F%BE%E8%88%AA%E7%8F%AD%E9%A0%90%E8%A8%82%E6%9C%8D%E5%8B%99",
     "timestamp": "2026-04-23T04:38:05.335Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "錦綉花園3歲男童呼吸困難　送院搶救惜不治",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/246862/org/192aea6f8f755697acfb55b6a2648f1e.jpg/AN7_cMaewSSOKhwlYqN-kjnnX-HliusVeF3Dm3hdw5s?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60343045/%E9%8C%A6%E7%B6%89%E8%8A%B1%E5%9C%923%E6%AD%B2%E7%94%B7%E7%AB%A5%E5%91%BC%E5%90%B8%E5%9B%B0%E9%9B%A3-%E9%80%81%E9%99%A2%E6%90%B6%E6%95%91%E6%83%9C%E4%B8%8D%E6%B2%BB",
-    "timestamp": "2026-04-23T03:20:43.777Z",
     "strategy": ".content-card__main"
   }
 ];
