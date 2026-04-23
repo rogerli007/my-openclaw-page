@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-23T13:20:08.667Z
+// Last updated: 2026-04-23T14:03:07.667Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "44歲宋慧喬狀態驚人被讚「凍齡女神」　與李冰冰激罕同框",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260423/1124001183699046400784619.jpeg/qs3Ao_8Qd1S-ugIcs0upTrvWtMJaRZRqFQuaYhULmmI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60343153/44%E6%AD%B2%E5%AE%8B%E6%85%A7%E5%96%AC%E7%8B%80%E6%85%8B%E9%A9%9A%E4%BA%BA%E8%A2%AB%E8%AE%9A-%E5%87%8D%E9%BD%A1%E5%A5%B3%E7%A5%9E-%E8%88%87%E6%9D%8E%E5%86%B0%E5%86%B0%E6%BF%80%E7%BD%95%E5%90%8C%E6%A1%86",
+    "timestamp": "2026-04-23T14:03:07.667Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "六合彩結果｜今期4.23頭獎2000萬即時攪珠｜中獎號碼+派彩獎金",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260423/1123822163602706432321580.jpeg/BomiPjmhRaUnIJ4K6KsxCwL85ouPh24nsPLev7Dy3r8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60342942/%E8%AD%A6%E6%97%BA%E8%A7%92%E6%90%97%E7%A0%B4%E9%9D%9E%E6%B3%95%E9%BA%BB%E9%9B%80%E8%B3%AD%E6%AA%94-18%E7%94%B7%E5%A5%B3%E8%A2%AB%E6%8D%95",
     "timestamp": "2026-04-22T19:49:15.924Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "警油尖單日發逾800張牛肉乾　今年首季達4萬張　庫房進帳$1780萬",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260423/1123808793537286144273469.jpeg/6JRdN0V02QbJS2h4Byjjo_vy5x0ltiJKr6Ljm6-i45s?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60342939/%E8%AD%A6%E6%B2%B9%E5%B0%96%E5%96%AE%E6%97%A5%E7%99%BC%E9%80%BE800%E5%BC%B5%E7%89%9B%E8%82%89%E4%B9%BE-%E4%BB%8A%E5%B9%B4%E9%A6%96%E5%AD%A3%E9%81%944%E8%90%AC%E5%BC%B5-%E5%BA%AB%E6%88%BF%E9%80%B2%E5%B8%B3-1780%E8%90%AC",
-    "timestamp": "2026-04-22T18:45:22.315Z",
     "strategy": ".content-card__main"
   }
 ];
