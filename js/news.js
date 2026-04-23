@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-23T12:39:54.613Z
+// Last updated: 2026-04-23T13:20:08.667Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "六合彩結果｜今期4.23頭獎2000萬即時攪珠｜中獎號碼+派彩獎金",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260106/1085277999818870784691350.jpeg/qlD4zXZuaDWP92HwHoC750bl4vsF6LbIzKpuzcyqbs0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60343101/%E5%85%AD%E5%90%88%E5%BD%A9%E7%B5%90%E6%9E%9C-%E4%BB%8A%E6%9C%9F4-23%E9%A0%AD%E7%8D%8E2000%E8%90%AC%E5%8D%B3%E6%99%82%E6%94%AA%E7%8F%A0-%E4%B8%AD%E7%8D%8E%E8%99%9F%E7%A2%BC-%E6%B4%BE%E5%BD%A9%E7%8D%8E%E9%87%91",
+    "timestamp": "2026-04-23T13:20:08.667Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "免費乘搭電車｜姜濤香港後援會慶祝偶像生日　4.30請市民任坐電車",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260423/1123808793537286144273469.jpeg/6JRdN0V02QbJS2h4Byjjo_vy5x0ltiJKr6Ljm6-i45s?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60342939/%E8%AD%A6%E6%B2%B9%E5%B0%96%E5%96%AE%E6%97%A5%E7%99%BC%E9%80%BE800%E5%BC%B5%E7%89%9B%E8%82%89%E4%B9%BE-%E4%BB%8A%E5%B9%B4%E9%A6%96%E5%AD%A3%E9%81%944%E8%90%AC%E5%BC%B5-%E5%BA%AB%E6%88%BF%E9%80%B2%E5%B8%B3-1780%E8%90%AC",
     "timestamp": "2026-04-22T18:45:22.315Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "宏福苑｜消防處：4月起優化誤投個案轉介機制　確保投訴不被忽略",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260420/1122980203283615744047692.jpeg/rsUUOIuBo9bd2onT3KoS3OtzPG3FSkcoh-5UBqLuVAY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60342934/%E5%AE%8F%E7%A6%8F%E8%8B%91-%E6%B6%88%E9%98%B2%E8%99%95-4%E6%9C%88%E8%B5%B7%E5%84%AA%E5%8C%96%E8%AA%A4%E6%8A%95%E5%80%8B%E6%A1%88%E8%BD%89%E4%BB%8B%E6%A9%9F%E5%88%B6-%E7%A2%BA%E4%BF%9D%E6%8A%95%E8%A8%B4%E4%B8%8D%E8%A2%AB%E5%BF%BD%E7%95%A5",
-    "timestamp": "2026-04-22T18:13:26.899Z",
     "strategy": ".content-card__main"
   }
 ];
