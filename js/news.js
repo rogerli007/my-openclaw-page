@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-22T23:37:47.016Z
+// Last updated: 2026-04-23T00:07:38.479Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "比特幣逼近8萬美元　淡倉倉位大規模爆倉",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260102/1083802832877916160312604.jpeg/cQLA1BdMp9aNbbDcpuJBdnIxgRyTilv-Y2HMF2NhzBc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60342958/%E6%AF%94%E7%89%B9%E5%B9%A3%E9%80%BC%E8%BF%918%E8%90%AC%E7%BE%8E%E5%85%83-%E6%B7%A1%E5%80%89%E5%80%89%E4%BD%8D%E5%A4%A7%E8%A6%8F%E6%A8%A1%E7%88%86%E5%80%89",
+    "timestamp": "2026-04-23T00:07:38.479Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "東張西望｜林以諾牧師收自己艷照有裸女相伴　被威脅要畀錢",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260422/1123646275904868352240561.jpeg/xnMKObjAsx3pNQu9XaVLp57A1gkIyrAfeCYuzXgmLs0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60342750/%E5%A5%B3%E6%9C%83%E8%A8%88%E7%B6%93%E7%90%866%E5%B9%B4%E5%81%B7%E5%85%AC%E5%8F%B8%E9%80%BE6300%E8%90%AC-%E7%94%B3%E8%AB%8B%E7%A0%B4%E7%94%A2%E4%B8%AD%E7%84%A1%E5%8A%9B%E9%82%84%E6%AC%BE-%E5%88%A4%E5%9B%9A8%E5%B9%B4",
     "timestamp": "2026-04-22T07:44:29.407Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "意大利盃｜國米3：2反勝科木　彼達蘇錫89分鐘入球助球隊晉級決賽",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260422/1123567283281596416963185.jpeg/04uOGJCMwFKtiaGxQ6mph51Oj3x8UYmq8mO1JPJjtSQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60342575/%E6%84%8F%E5%A4%A7%E5%88%A9%E7%9B%83-%E5%9C%8B%E7%B1%B33-2%E5%8F%8D%E5%8B%9D%E7%A7%91%E6%9C%A8-%E5%BD%BC%E9%81%94%E8%98%87%E9%8C%AB89%E5%88%86%E9%90%98%E5%85%A5%E7%90%83%E5%8A%A9%E7%90%83%E9%9A%8A%E6%99%89%E7%B4%9A%E6%B1%BA%E8%B3%BD",
-    "timestamp": "2026-04-22T06:01:47.264Z",
     "strategy": ".content-card__main"
   }
 ];
