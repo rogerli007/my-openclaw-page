@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-23T16:26:33.599Z
+// Last updated: 2026-04-23T17:06:45.543Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "天氣｜天文台提示：預料未來一兩小時本港部份地區雨勢較大",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260404/1117097233880322048635910.jpeg/iIkizi9iMq3vc3yikbPzcQu5HJ-KrHYFLfCzITfwsyE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60343358/%E5%A4%A9%E6%B0%A3-%E5%A4%A9%E6%96%87%E5%8F%B0%E6%8F%90%E7%A4%BA-%E9%A0%90%E6%96%99%E6%9C%AA%E4%BE%86%E4%B8%80%E5%85%A9%E5%B0%8F%E6%99%82%E6%9C%AC%E6%B8%AF%E9%83%A8%E4%BB%BD%E5%9C%B0%E5%8D%80%E9%9B%A8%E5%8B%A2%E8%BC%83%E5%A4%A7",
+    "timestamp": "2026-04-23T17:06:45.543Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "免試簽發駕照｜運輸署：全面網上預約大致暢順　文件齊備即日領證",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260423/1123846551341371392786952.jpeg/QEbQIGtVVGOKgDnJ8K0jM9E-eiZRHJaSr-041K_tONQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60342948/%E8%8B%B1%E8%B6%85-%E6%9B%BC%E5%9F%8E%E4%BD%9C%E5%AE%A21-0%E8%88%AC%E5%B0%BC-%E6%9B%BC%E5%9F%8E%E6%9A%AB%E5%8D%87%E6%A6%9C%E9%A6%96-%E8%88%AC%E5%B0%BC%E7%A2%BA%E5%AE%9A%E9%99%8D%E7%8F%AD",
     "timestamp": "2026-04-22T21:39:35.507Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美媒：美軍需6個月才能完成霍爾木茲海峽掃雷",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260420/1122862339033403392216830.jpeg/98glKEvJ8iFmRQ9U1u9I58Y8YriMhZlAgn4zCIJ-Mwg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60342947/%E7%BE%8E%E5%AA%92-%E7%BE%8E%E8%BB%8D%E9%9C%806%E5%80%8B%E6%9C%88%E6%89%8D%E8%83%BD%E5%AE%8C%E6%88%90%E9%9C%8D%E7%88%BE%E6%9C%A8%E8%8C%B2%E6%B5%B7%E5%B3%BD%E6%8E%83%E9%9B%B7",
-    "timestamp": "2026-04-22T20:40:58.659Z",
     "strategy": ".content-card__main"
   }
 ];
