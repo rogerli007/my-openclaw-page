@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-23T14:03:07.667Z
+// Last updated: 2026-04-23T15:47:29.220Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "長沙灣救護車私家車相撞後翻側　多名街坊上前助救護員脫困│有片",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260423/1124127758323027968254803.jpeg/6Ljvp9dLBAL4KCpel1Po-8b93QPL3Cwf9JnSM_SZ0jM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60343348/%E9%95%B7%E6%B2%99%E7%81%A3%E6%95%91%E8%AD%B7%E8%BB%8A%E7%A7%81%E5%AE%B6%E8%BB%8A%E7%9B%B8%E6%92%9E%E5%BE%8C%E7%BF%BB%E5%81%B4-%E5%A4%9A%E5%90%8D%E8%A1%97%E5%9D%8A%E4%B8%8A%E5%89%8D%E5%8A%A9%E6%95%91%E8%AD%B7%E5%93%A1%E8%84%AB%E5%9B%B0-%E6%9C%89%E7%89%87",
+    "timestamp": "2026-04-23T15:47:29.220Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "44歲宋慧喬狀態驚人被讚「凍齡女神」　與李冰冰激罕同框",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20240917/912830785747161088401598.jpeg/sRNQBjUDT8RxbXv7xSwKY98AmoIA86OVs1_DM7NfwzM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60342945/telegram%E5%89%B5%E8%BE%A6%E4%BA%BA%E6%9D%9C%E7%BE%85%E5%A4%AB%E7%A8%B1%E6%8E%A5%E7%8D%B2%E4%BF%84%E6%96%B9%E5%82%B3%E7%A5%A8-%E6%8C%87%E4%BB%96%E7%82%BA%E5%88%91%E4%BA%8B%E6%A1%88%E4%BB%B6-%E7%96%91%E7%8A%AF",
     "timestamp": "2026-04-22T20:19:46.088Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "警旺角搗破非法麻雀賭檔　18男女被捕",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260423/1123822163602706432321580.jpeg/BomiPjmhRaUnIJ4K6KsxCwL85ouPh24nsPLev7Dy3r8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60342942/%E8%AD%A6%E6%97%BA%E8%A7%92%E6%90%97%E7%A0%B4%E9%9D%9E%E6%B3%95%E9%BA%BB%E9%9B%80%E8%B3%AD%E6%AA%94-18%E7%94%B7%E5%A5%B3%E8%A2%AB%E6%8D%95",
-    "timestamp": "2026-04-22T19:49:15.924Z",
     "strategy": ".content-card__main"
   }
 ];
