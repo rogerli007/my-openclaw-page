@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-23T11:35:00.044Z
+// Last updated: 2026-04-23T12:39:54.613Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "免費乘搭電車｜姜濤香港後援會慶祝偶像生日　4.30請市民任坐電車",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260423/1124079484882915328849517.jpeg/_5D7gsORU8w7mWo9Bn7bUw6yIhJPcN3CEFohsRBaIbE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60343320/%E5%85%8D%E8%B2%BB%E4%B9%98%E6%90%AD%E9%9B%BB%E8%BB%8A-%E5%A7%9C%E6%BF%A4%E9%A6%99%E6%B8%AF%E5%BE%8C%E6%8F%B4%E6%9C%83%E6%85%B6%E7%A5%9D%E5%81%B6%E5%83%8F%E7%94%9F%E6%97%A5-4-30%E8%AB%8B%E5%B8%82%E6%B0%91%E4%BB%BB%E5%9D%90%E9%9B%BB%E8%BB%8A",
+    "timestamp": "2026-04-23T12:39:54.613Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "「剪裁魔法師」姚子裕點名指鍾嘉欣的舞台服裝　有「抄襲」之嫌",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260420/1122980203283615744047692.jpeg/rsUUOIuBo9bd2onT3KoS3OtzPG3FSkcoh-5UBqLuVAY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60342934/%E5%AE%8F%E7%A6%8F%E8%8B%91-%E6%B6%88%E9%98%B2%E8%99%95-4%E6%9C%88%E8%B5%B7%E5%84%AA%E5%8C%96%E8%AA%A4%E6%8A%95%E5%80%8B%E6%A1%88%E8%BD%89%E4%BB%8B%E6%A9%9F%E5%88%B6-%E7%A2%BA%E4%BF%9D%E6%8A%95%E8%A8%B4%E4%B8%8D%E8%A2%AB%E5%BF%BD%E7%95%A5",
     "timestamp": "2026-04-22T18:13:26.899Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "中國柬埔寨2+2首次會議　王毅：國際局勢動盪仍堅持守望相助",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260423/1123793772736417792690482.jpeg/_yfk7bzAmrc0ycoQ-eFB1R1WExt5xGwF-6qGofuqhqE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60342936/%E4%B8%AD%E5%9C%8B%E6%9F%AC%E5%9F%94%E5%AF%A82-2%E9%A6%96%E6%AC%A1%E6%9C%83%E8%AD%B0-%E7%8E%8B%E6%AF%85-%E5%9C%8B%E9%9A%9B%E5%B1%80%E5%8B%A2%E5%8B%95%E7%9B%AA%E4%BB%8D%E5%A0%85%E6%8C%81%E5%AE%88%E6%9C%9B%E7%9B%B8%E5%8A%A9",
-    "timestamp": "2026-04-22T17:41:36.424Z",
     "strategy": ".content-card__main"
   }
 ];
