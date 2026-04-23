@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-23T20:17:57.338Z
+// Last updated: 2026-04-23T20:42:43.232Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "警土瓜灣單位檢$51萬毒品　包括冰毒和迷幻蘑菇　17歲男被捕",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260424/1124179289999151104835167.jpeg/jHLWYYu23dWilRrYu9se543roV2-oTy_CmMylgpjMpY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60343368/%E8%AD%A6%E5%9C%9F%E7%93%9C%E7%81%A3%E5%96%AE%E4%BD%8D%E6%AA%A2-51%E8%90%AC%E6%AF%92%E5%93%81-%E5%8C%85%E6%8B%AC%E5%86%B0%E6%AF%92%E5%92%8C%E8%BF%B7%E5%B9%BB%E8%98%91%E8%8F%87-17%E6%AD%B2%E7%94%B7%E8%A2%AB%E6%8D%95",
+    "timestamp": "2026-04-23T20:42:43.232Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "警土瓜灣單位檢$51萬毒品　包括冰毒和迷幻蘑菇　17歲男被捕",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260327/1114219306868019200326780.jpeg/qUxUDTeC50VjDpnH0_9OewTHUurvgb2_9VMlYvVTJWI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60342969/tesla%E9%A6%96%E5%AD%A3%E5%A4%9A%E8%B3%BA17-%E8%87%B34-77%E5%84%84%E7%BE%8E%E5%85%83-%E5%85%A8%E5%B9%B4%E6%8A%95%E8%B3%87%E9%A1%8D%E5%A2%9E%E8%87%B3250%E5%84%84%E7%BE%8E%E5%85%83",
     "timestamp": "2026-04-23T01:09:57.969Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "比特幣逼近8萬美元　淡倉倉位大規模爆倉",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260102/1083802832877916160312604.jpeg/cQLA1BdMp9aNbbDcpuJBdnIxgRyTilv-Y2HMF2NhzBc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60342958/%E6%AF%94%E7%89%B9%E5%B9%A3%E9%80%BC%E8%BF%918%E8%90%AC%E7%BE%8E%E5%85%83-%E6%B7%A1%E5%80%89%E5%80%89%E4%BD%8D%E5%A4%A7%E8%A6%8F%E6%A8%A1%E7%88%86%E5%80%89",
-    "timestamp": "2026-04-23T00:07:38.479Z",
     "strategy": ".content-card__main"
   }
 ];
