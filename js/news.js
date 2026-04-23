@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-23T10:55:13.155Z
+// Last updated: 2026-04-23T11:35:00.044Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "「剪裁魔法師」姚子裕點名指鍾嘉欣的舞台服裝　有「抄襲」之嫌",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260423/1124062612091310080104239.jpeg/rwAatilGAqUO1nvxWH6HU8LrftcLZ4IgqThLRqk4S0Y?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60343302/%E5%89%AA%E8%A3%81%E9%AD%94%E6%B3%95%E5%B8%AB-%E5%A7%9A%E5%AD%90%E8%A3%95%E9%BB%9E%E5%90%8D%E6%8C%87%E9%8D%BE%E5%98%89%E6%AC%A3%E7%9A%84%E8%88%9E%E5%8F%B0%E6%9C%8D%E8%A3%9D-%E6%9C%89-%E6%8A%84%E8%A5%B2-%E4%B9%8B%E5%AB%8C",
+    "timestamp": "2026-04-23T11:35:00.044Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "兩男涉與未成年男童肛交　男童拒庭獲裁無罪　官為公義求讀出案情",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260423/1123793772736417792690482.jpeg/_yfk7bzAmrc0ycoQ-eFB1R1WExt5xGwF-6qGofuqhqE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60342936/%E4%B8%AD%E5%9C%8B%E6%9F%AC%E5%9F%94%E5%AF%A82-2%E9%A6%96%E6%AC%A1%E6%9C%83%E8%AD%B0-%E7%8E%8B%E6%AF%85-%E5%9C%8B%E9%9A%9B%E5%B1%80%E5%8B%A2%E5%8B%95%E7%9B%AA%E4%BB%8D%E5%A0%85%E6%8C%81%E5%AE%88%E6%9C%9B%E7%9B%B8%E5%8A%A9",
     "timestamp": "2026-04-22T17:41:36.424Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "珍惜生命｜荃灣八旬翁和妻子口角後離家蹈海　警員跳落水救人",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260423/1123780375621931008708693.jpeg/A1om2w4K3uVmL44ae4ne9vJveaViF4BgTqBxIE6gcSA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60342927/%E7%8F%8D%E6%83%9C%E7%94%9F%E5%91%BD-%E8%8D%83%E7%81%A3%E5%85%AB%E6%97%AC%E7%BF%81%E5%92%8C%E5%A6%BB%E5%AD%90%E5%8F%A3%E8%A7%92%E5%BE%8C%E9%9B%A2%E5%AE%B6%E8%B9%88%E6%B5%B7-%E8%AD%A6%E5%93%A1%E8%B7%B3%E8%90%BD%E6%B0%B4%E6%95%91%E4%BA%BA",
-    "timestamp": "2026-04-22T16:43:40.416Z",
     "strategy": ".content-card__main"
   }
 ];
