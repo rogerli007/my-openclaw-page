@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-23T01:09:57.969Z
+// Last updated: 2026-04-23T02:01:54.583Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "非洲三國取消賴清德飛航許可　國台辦讚賞有關國家堅持一中原則",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260423/1123923769983766528271089.jpeg/JR7TzOA_rAV_Gs4Goo3ti5wfqWYzoEWfWauthFmrrYQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60342988/%E9%9D%9E%E6%B4%B2%E4%B8%89%E5%9C%8B%E5%8F%96%E6%B6%88%E8%B3%B4%E6%B8%85%E5%BE%B7%E9%A3%9B%E8%88%AA%E8%A8%B1%E5%8F%AF-%E5%9C%8B%E5%8F%B0%E8%BE%A6%E8%AE%9A%E8%B3%9E%E6%9C%89%E9%97%9C%E5%9C%8B%E5%AE%B6%E5%A0%85%E6%8C%81%E4%B8%80%E4%B8%AD%E5%8E%9F%E5%89%87",
+    "timestamp": "2026-04-23T02:01:54.583Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "Tesla首季多賺17%至4.77億美元　全年投資額增至250億美元",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250516/1000027392867307520417350.jpeg/TzQwy8YjSgK36N9R30V8fHTdHQCiktnxKPIVGSjyFRk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60342868/%E5%8D%97%E4%B8%AB%E6%B5%B7%E9%9B%A3-%E5%AE%B6%E5%B1%AC%E4%B8%8D%E6%BB%BF%E6%AD%BB%E5%9B%A0%E5%BA%AD%E8%A3%81%E7%84%A1%E8%A3%9D%E6%B0%B4%E5%AF%86%E9%96%80%E9%9D%9E%E7%96%8F%E5%BF%BD-%E6%B1%82%E5%8F%B8%E6%B3%95%E8%A6%86%E6%A0%B8",
     "timestamp": "2026-04-22T10:40:32.002Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "英冠｜李斯特城連續兩季降班　十年前英超童話式奪冠軍今日變悲劇",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260422/1123652870877483008837591.jpeg/UL_kvSLVQxTDtcecW9Ej1pQJYFd4yJRYtBxfDbQcXw0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60342593/%E8%8B%B1%E5%86%A0-%E6%9D%8E%E6%96%AF%E7%89%B9%E5%9F%8E%E9%80%A3%E7%BA%8C%E5%85%A9%E5%AD%A3%E9%99%8D%E7%8F%AD-%E5%8D%81%E5%B9%B4%E5%89%8D%E8%8B%B1%E8%B6%85%E7%AB%A5%E8%A9%B1%E5%BC%8F%E5%A5%AA%E5%86%A0%E8%BB%8D%E4%BB%8A%E6%97%A5%E8%AE%8A%E6%82%B2%E5%8A%87",
-    "timestamp": "2026-04-22T08:23:44.730Z",
     "strategy": ".content-card__main"
   }
 ];
