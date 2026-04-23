@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-23T04:38:05.335Z
+// Last updated: 2026-04-23T06:29:35.034Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "佐丹奴中環GL旗艦店重開　首三日收入升117%　CEO看好零售市道",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260423/1123989618115481600492578.jpeg/hwmgH8r3be9TuWKFfh0E8oVYjM-QR8AT_wy9Y_8MvWM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60343144/%E4%BD%90%E4%B8%B9%E5%A5%B4%E4%B8%AD%E7%92%B0gl%E6%97%97%E8%89%A6%E5%BA%97%E9%87%8D%E9%96%8B-%E9%A6%96%E4%B8%89%E6%97%A5%E6%94%B6%E5%85%A5%E5%8D%87117-ceo%E7%9C%8B%E5%A5%BD%E9%9B%B6%E5%94%AE%E5%B8%82%E9%81%93",
+    "timestamp": "2026-04-23T06:29:35.034Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "阿里千問「AI辦事」能力　首對外開放　接入東航實現航班預訂服務",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260422/1123717095733858304305978.jpeg/Jmfgkc62g11WVTYwSiasDbjni6EH6U05EibkShIm5Eo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60342893/%E5%8C%97%E9%83%BD-%E9%99%B3%E5%9C%8B%E5%9F%BA%E7%8E%87%E4%BB%A3%E8%A1%A8%E5%9C%98%E8%A8%AA%E9%9F%93-%E4%BA%86%E8%A7%A3%E5%A4%A7%E7%94%B0%E5%B8%82%E5%A4%A7%E5%AD%B8%E5%9F%B9%E9%A4%8A%E5%AD%B8%E7%94%9F%E5%89%B5%E6%96%B0%E8%83%BD%E5%8A%9B%E5%B7%A5%E4%BD%9C",
     "timestamp": "2026-04-22T13:18:30.997Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "「暖男」卞慶華形象大翻轉　下藥欲性侵女星　遭正宮酒店抓姦掌摑",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260422/1123649819429048320401729.png/e9NNVJmQDImax6QMJmQBRXlr_JkSqZA68i2BOvItgTo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60342758/%E6%9A%96%E7%94%B7-%E5%8D%9E%E6%85%B6%E8%8F%AF%E5%BD%A2%E8%B1%A1%E5%A4%A7%E7%BF%BB%E8%BD%89-%E4%B8%8B%E8%97%A5%E6%AC%B2%E6%80%A7%E4%BE%B5%E5%A5%B3%E6%98%9F-%E9%81%AD%E6%AD%A3%E5%AE%AE%E9%85%92%E5%BA%97%E6%8A%93%E5%A7%A6%E6%8E%8C%E6%91%91",
-    "timestamp": "2026-04-22T11:44:16.580Z",
     "strategy": ".content-card__main"
   }
 ];
