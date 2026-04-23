@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-23T02:01:54.583Z
+// Last updated: 2026-04-23T03:20:43.777Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "錦綉花園3歲男童呼吸困難　送院搶救惜不治",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/246862/org/192aea6f8f755697acfb55b6a2648f1e.jpg/AN7_cMaewSSOKhwlYqN-kjnnX-HliusVeF3Dm3hdw5s?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60343045/%E9%8C%A6%E7%B6%89%E8%8A%B1%E5%9C%923%E6%AD%B2%E7%94%B7%E7%AB%A5%E5%91%BC%E5%90%B8%E5%9B%B0%E9%9B%A3-%E9%80%81%E9%99%A2%E6%90%B6%E6%95%91%E6%83%9C%E4%B8%8D%E6%B2%BB",
+    "timestamp": "2026-04-23T03:20:43.777Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "非洲三國取消賴清德飛航許可　國台辦讚賞有關國家堅持一中原則",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260422/1123698606725926912408596.jpeg/4QslRqC3nNi-RXJt0sr5Y6DqkhrJUfG9L28YeQpvGHk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60342883/%E7%9A%84%E5%A3%AB%E5%8F%B8%E6%A9%9F%E6%B6%89%E8%BC%89%E5%AE%A2%E8%87%AA%E7%80%86-%E8%BE%AF%E7%A8%B1%E6%82%A3%E6%BF%95%E7%96%B9%E8%BD%89%E5%AD%A3%E6%9C%83%E7%97%95%E7%99%A2-%E5%85%A7%E8%A4%B2%E6%9C%89%E9%88%95%E9%99%BD%E5%85%B7%E4%B8%8D%E6%98%93%E9%9C%B2",
     "timestamp": "2026-04-22T11:14:46.126Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "南丫海難｜家屬不滿死因庭裁無裝水密門非疏忽　求司法覆核",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250516/1000027392867307520417350.jpeg/TzQwy8YjSgK36N9R30V8fHTdHQCiktnxKPIVGSjyFRk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60342868/%E5%8D%97%E4%B8%AB%E6%B5%B7%E9%9B%A3-%E5%AE%B6%E5%B1%AC%E4%B8%8D%E6%BB%BF%E6%AD%BB%E5%9B%A0%E5%BA%AD%E8%A3%81%E7%84%A1%E8%A3%9D%E6%B0%B4%E5%AF%86%E9%96%80%E9%9D%9E%E7%96%8F%E5%BF%BD-%E6%B1%82%E5%8F%B8%E6%B3%95%E8%A6%86%E6%A0%B8",
-    "timestamp": "2026-04-22T10:40:32.002Z",
     "strategy": ".content-card__main"
   }
 ];
