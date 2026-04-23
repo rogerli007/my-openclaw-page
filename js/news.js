@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-23T20:42:43.232Z
+// Last updated: 2026-04-23T21:36:59.992Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美國路易斯安那州購物中心爆槍擊　至少1死9人傷　料涉兩幫人衝突",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260424/1124212724557942784890673.png/AoPdCRTV_C9JnjPTtlUrCqkHeiv26CY4HGolDhxqJQ4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60343370/%E7%BE%8E%E5%9C%8B%E8%B7%AF%E6%98%93%E6%96%AF%E5%AE%89%E9%82%A3%E5%B7%9E%E8%B3%BC%E7%89%A9%E4%B8%AD%E5%BF%83%E7%88%86%E6%A7%8D%E6%93%8A-%E8%87%B3%E5%B0%911%E6%AD%BB9%E4%BA%BA%E5%82%B7-%E6%96%99%E6%B6%89%E5%85%A9%E5%B9%AB%E4%BA%BA%E8%A1%9D%E7%AA%81",
+    "timestamp": "2026-04-23T21:36:59.992Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "警土瓜灣單位檢$51萬毒品　包括冰毒和迷幻蘑菇　17歲男被捕",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260423/1123923769983766528271089.jpeg/JR7TzOA_rAV_Gs4Goo3ti5wfqWYzoEWfWauthFmrrYQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60342988/%E9%9D%9E%E6%B4%B2%E4%B8%89%E5%9C%8B%E5%8F%96%E6%B6%88%E8%B3%B4%E6%B8%85%E5%BE%B7%E9%A3%9B%E8%88%AA%E8%A8%B1%E5%8F%AF-%E5%9C%8B%E5%8F%B0%E8%BE%A6%E8%AE%9A%E8%B3%9E%E6%9C%89%E9%97%9C%E5%9C%8B%E5%AE%B6%E5%A0%85%E6%8C%81%E4%B8%80%E4%B8%AD%E5%8E%9F%E5%89%87",
     "timestamp": "2026-04-23T02:01:54.583Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "Tesla首季多賺17%至4.77億美元　全年投資額增至250億美元",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260327/1114219306868019200326780.jpeg/qUxUDTeC50VjDpnH0_9OewTHUurvgb2_9VMlYvVTJWI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60342969/tesla%E9%A6%96%E5%AD%A3%E5%A4%9A%E8%B3%BA17-%E8%87%B34-77%E5%84%84%E7%BE%8E%E5%85%83-%E5%85%A8%E5%B9%B4%E6%8A%95%E8%B3%87%E9%A1%8D%E5%A2%9E%E8%87%B3250%E5%84%84%E7%BE%8E%E5%85%83",
-    "timestamp": "2026-04-23T01:09:57.969Z",
     "strategy": ".content-card__main"
   }
 ];
