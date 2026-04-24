@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-24T21:26:36.003Z
+// Last updated: 2026-04-24T22:52:14.636Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "伊朗：兩艘貨船被扣　一艘涉嫌與美軍合作",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260419/1122563502595117056346958.png/Bq6Qv31usP8gshn_kp7wBdzoxBNbJRgpnw4h-58OIfs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60343742/%E4%BC%8A%E6%9C%97-%E5%85%A9%E8%89%98%E8%B2%A8%E8%88%B9%E8%A2%AB%E6%89%A3-%E4%B8%80%E8%89%98%E6%B6%89%E5%AB%8C%E8%88%87%E7%BE%8E%E8%BB%8D%E5%90%88%E4%BD%9C",
+    "timestamp": "2026-04-24T22:52:14.636Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "東涌的士疑天雨路滑失控　剷上花槽石壆　司機無受傷",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260424/1124359611583827968485291.jpeg/WWQxVVzQb6nsjXAHd2vj8jGSD58zu2AYx6EaK8ehGis?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60343521/%E5%8C%97%E6%B5%B7%E9%81%93%E6%97%AD%E5%B1%B1%E5%8B%95%E7%89%A9%E5%9C%92%E7%88%86%E6%87%B7%E7%96%91%E6%A3%84%E5%B1%8D%E6%A1%88-%E7%94%B7%E5%93%A1%E5%B7%A5%E6%B6%89%E6%8A%8A%E5%A6%BB%E5%AD%90%E9%81%BA%E9%AB%94%E6%A3%84%E7%84%9A%E5%8C%96%E7%88%90%E5%85%A7",
     "timestamp": "2026-04-24T06:58:39.519Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "「九龍居屋王」旺角富榮花園三房613.8萬沽　持貨28年升兩倍",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20221019/659455072945573888274583.jpeg/IYyshbyeTVDpGbJqil_vXblNvSge78P34x162eMdetk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60343428/%E4%B9%9D%E9%BE%8D%E5%B1%85%E5%B1%8B%E7%8E%8B-%E6%97%BA%E8%A7%92%E5%AF%8C%E6%A6%AE%E8%8A%B1%E5%9C%92%E4%B8%89%E6%88%BF613-8%E8%90%AC%E6%B2%BD-%E6%8C%81%E8%B2%A828%E5%B9%B4%E5%8D%87%E5%85%A9%E5%80%8D",
-    "timestamp": "2026-04-24T06:05:35.366Z",
     "strategy": ".content-card__main"
   }
 ];
