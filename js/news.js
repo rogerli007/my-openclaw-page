@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-24T06:05:35.366Z
+// Last updated: 2026-04-24T06:58:39.519Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "北海道旭山動物園爆懷疑棄屍案　男員工涉把妻子遺體棄焚化爐內",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260424/1124359611583827968485291.jpeg/WWQxVVzQb6nsjXAHd2vj8jGSD58zu2AYx6EaK8ehGis?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60343521/%E5%8C%97%E6%B5%B7%E9%81%93%E6%97%AD%E5%B1%B1%E5%8B%95%E7%89%A9%E5%9C%92%E7%88%86%E6%87%B7%E7%96%91%E6%A3%84%E5%B1%8D%E6%A1%88-%E7%94%B7%E5%93%A1%E5%B7%A5%E6%B6%89%E6%8A%8A%E5%A6%BB%E5%AD%90%E9%81%BA%E9%AB%94%E6%A3%84%E7%84%9A%E5%8C%96%E7%88%90%E5%85%A7",
+    "timestamp": "2026-04-24T06:58:39.519Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "「九龍居屋王」旺角富榮花園三房613.8萬沽　持貨28年升兩倍",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260106/1085277999818870784691350.jpeg/qlD4zXZuaDWP92HwHoC750bl4vsF6LbIzKpuzcyqbs0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60343101/%E5%85%AD%E5%90%88%E5%BD%A9%E7%B5%90%E6%9E%9C-%E4%BB%8A%E6%9C%9F4-23%E9%A0%AD%E7%8D%8E2000%E8%90%AC%E5%8D%B3%E6%99%82%E6%94%AA%E7%8F%A0-%E4%B8%AD%E7%8D%8E%E8%99%9F%E7%A2%BC-%E6%B4%BE%E5%BD%A9%E7%8D%8E%E9%87%91",
     "timestamp": "2026-04-23T13:20:08.667Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "免費乘搭電車｜姜濤香港後援會慶祝偶像生日　4.30請市民任坐電車",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260423/1124079484882915328849517.jpeg/_5D7gsORU8w7mWo9Bn7bUw6yIhJPcN3CEFohsRBaIbE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60343320/%E5%85%8D%E8%B2%BB%E4%B9%98%E6%90%AD%E9%9B%BB%E8%BB%8A-%E5%A7%9C%E6%BF%A4%E9%A6%99%E6%B8%AF%E5%BE%8C%E6%8F%B4%E6%9C%83%E6%85%B6%E7%A5%9D%E5%81%B6%E5%83%8F%E7%94%9F%E6%97%A5-4-30%E8%AB%8B%E5%B8%82%E6%B0%91%E4%BB%BB%E5%9D%90%E9%9B%BB%E8%BB%8A",
-    "timestamp": "2026-04-23T12:39:54.613Z",
     "strategy": ".content-card__main"
   }
 ];
