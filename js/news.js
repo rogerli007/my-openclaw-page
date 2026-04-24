@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-24T23:24:32.983Z
+// Last updated: 2026-04-24T23:51:46.578Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "殘障父怒斥不幫忙做家務！揮斬雞刀砍傷2名子女　認罪判入獄6個月",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260423/1123818614915338240762803.png/aCjpH9XQRZJkqf1VpqRjAKN1_72SCBylO5XJCzuVyQs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E8%A9%B1%E9%A1%8C/60342537/%E6%AE%98%E9%9A%9C%E7%88%B6%E6%80%92%E6%96%A5%E4%B8%8D%E5%B9%AB%E5%BF%99%E5%81%9A%E5%AE%B6%E5%8B%99-%E6%8F%AE%E6%96%AC%E9%9B%9E%E5%88%80%E7%A0%8D%E5%82%B72%E5%90%8D%E5%AD%90%E5%A5%B3-%E8%AA%8D%E7%BD%AA%E5%88%A4%E5%85%A5%E7%8D%846%E5%80%8B%E6%9C%88",
+    "timestamp": "2026-04-24T23:51:46.578Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "殘障父怒斥不幫忙做家務！揮斬雞刀砍傷2名子女　認罪判入獄6個月",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260424/1124378560744656896301879.png/qH6nHTvWfkcW3Fnn1z4d3ZaXUx7XKN5--TOMIfkzjCE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60343526/%E6%96%BD%E6%98%8E%E5%96%AA%E7%A6%AE%E6%87%B6%E4%BA%BA%E5%8C%85-%E6%9D%8E%E6%B3%B3%E8%B1%AA%E5%96%8A%E5%88%B0%E7%9C%BC%E8%85%AB%E5%AF%B8%E6%AD%A5%E4%B8%8D%E9%9B%A2%E8%80%81%E7%88%B6-%E6%B3%B3%E6%BC%A2%E4%B8%80%E5%AE%B6%E4%BA%94%E5%8F%A3%E8%87%B4%E5%93%80",
     "timestamp": "2026-04-24T08:34:53.985Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "深圳海景Cafe推介6大｜地鐵直達!南山蛇口海邊歎咖啡｜附交通方法",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260424/1124370368052596736763124.png/fGtfxto-H1YeU1-Trz7Nosz2Wfgo0CltK4MeBCuDHgQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%97%85%E9%81%8A/60343458/%E6%B7%B1%E5%9C%B3%E6%B5%B7%E6%99%AFcafe%E6%8E%A8%E4%BB%8B6%E5%A4%A7-%E5%9C%B0%E9%90%B5%E7%9B%B4%E9%81%94-%E5%8D%97%E5%B1%B1%E8%9B%87%E5%8F%A3%E6%B5%B7%E9%82%8A%E6%AD%8E%E5%92%96%E5%95%A1-%E9%99%84%E4%BA%A4%E9%80%9A%E6%96%B9%E6%B3%95",
-    "timestamp": "2026-04-24T07:46:41.900Z",
     "strategy": ".content-card__main"
   }
 ];
