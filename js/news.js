@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-24T22:52:14.636Z
+// Last updated: 2026-04-24T23:24:32.983Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "殘障父怒斥不幫忙做家務！揮斬雞刀砍傷2名子女　認罪判入獄6個月",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260423/1123818614915338240762803.png/aCjpH9XQRZJkqf1VpqRjAKN1_72SCBylO5XJCzuVyQs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E8%A9%B1%E9%A1%8C/60342537/%E6%AE%98%E9%9A%9C%E7%88%B6%E6%80%92%E6%96%A5%E4%B8%8D%E5%B9%AB%E5%BF%99%E5%81%9A%E5%AE%B6%E5%8B%99-%E6%8F%AE%E6%96%AC%E9%9B%9E%E5%88%80%E7%A0%8D%E5%82%B72%E5%90%8D%E5%AD%90%E5%A5%B3-%E8%AA%8D%E7%BD%AA%E5%88%A4%E5%85%A5%E7%8D%846%E5%80%8B%E6%9C%88",
+    "timestamp": "2026-04-24T23:24:32.983Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "伊朗：兩艘貨船被扣　一艘涉嫌與美軍合作",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260424/1124370368052596736763124.png/fGtfxto-H1YeU1-Trz7Nosz2Wfgo0CltK4MeBCuDHgQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%97%85%E9%81%8A/60343458/%E6%B7%B1%E5%9C%B3%E6%B5%B7%E6%99%AFcafe%E6%8E%A8%E4%BB%8B6%E5%A4%A7-%E5%9C%B0%E9%90%B5%E7%9B%B4%E9%81%94-%E5%8D%97%E5%B1%B1%E8%9B%87%E5%8F%A3%E6%B5%B7%E9%82%8A%E6%AD%8E%E5%92%96%E5%95%A1-%E9%99%84%E4%BA%A4%E9%80%9A%E6%96%B9%E6%B3%95",
     "timestamp": "2026-04-24T07:46:41.900Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "北海道旭山動物園爆懷疑棄屍案　男員工涉把妻子遺體棄焚化爐內",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260424/1124359611583827968485291.jpeg/WWQxVVzQb6nsjXAHd2vj8jGSD58zu2AYx6EaK8ehGis?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60343521/%E5%8C%97%E6%B5%B7%E9%81%93%E6%97%AD%E5%B1%B1%E5%8B%95%E7%89%A9%E5%9C%92%E7%88%86%E6%87%B7%E7%96%91%E6%A3%84%E5%B1%8D%E6%A1%88-%E7%94%B7%E5%93%A1%E5%B7%A5%E6%B6%89%E6%8A%8A%E5%A6%BB%E5%AD%90%E9%81%BA%E9%AB%94%E6%A3%84%E7%84%9A%E5%8C%96%E7%88%90%E5%85%A7",
-    "timestamp": "2026-04-24T06:58:39.519Z",
     "strategy": ".content-card__main"
   }
 ];
