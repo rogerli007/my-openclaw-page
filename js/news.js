@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-24T06:58:39.519Z
+// Last updated: 2026-04-24T07:46:41.900Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "深圳海景Cafe推介6大｜地鐵直達!南山蛇口海邊歎咖啡｜附交通方法",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260424/1124370368052596736763124.png/fGtfxto-H1YeU1-Trz7Nosz2Wfgo0CltK4MeBCuDHgQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%97%85%E9%81%8A/60343458/%E6%B7%B1%E5%9C%B3%E6%B5%B7%E6%99%AFcafe%E6%8E%A8%E4%BB%8B6%E5%A4%A7-%E5%9C%B0%E9%90%B5%E7%9B%B4%E9%81%94-%E5%8D%97%E5%B1%B1%E8%9B%87%E5%8F%A3%E6%B5%B7%E9%82%8A%E6%AD%8E%E5%92%96%E5%95%A1-%E9%99%84%E4%BA%A4%E9%80%9A%E6%96%B9%E6%B3%95",
+    "timestamp": "2026-04-24T07:46:41.900Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "北海道旭山動物園爆懷疑棄屍案　男員工涉把妻子遺體棄焚化爐內",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260423/1124001183699046400784619.jpeg/qs3Ao_8Qd1S-ugIcs0upTrvWtMJaRZRqFQuaYhULmmI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60343153/44%E6%AD%B2%E5%AE%8B%E6%85%A7%E5%96%AC%E7%8B%80%E6%85%8B%E9%A9%9A%E4%BA%BA%E8%A2%AB%E8%AE%9A-%E5%87%8D%E9%BD%A1%E5%A5%B3%E7%A5%9E-%E8%88%87%E6%9D%8E%E5%86%B0%E5%86%B0%E6%BF%80%E7%BD%95%E5%90%8C%E6%A1%86",
     "timestamp": "2026-04-23T14:03:07.667Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "六合彩結果｜今期4.23頭獎2000萬即時攪珠｜中獎號碼+派彩獎金",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260106/1085277999818870784691350.jpeg/qlD4zXZuaDWP92HwHoC750bl4vsF6LbIzKpuzcyqbs0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60343101/%E5%85%AD%E5%90%88%E5%BD%A9%E7%B5%90%E6%9E%9C-%E4%BB%8A%E6%9C%9F4-23%E9%A0%AD%E7%8D%8E2000%E8%90%AC%E5%8D%B3%E6%99%82%E6%94%AA%E7%8F%A0-%E4%B8%AD%E7%8D%8E%E8%99%9F%E7%A2%BC-%E6%B4%BE%E5%BD%A9%E7%8D%8E%E9%87%91",
-    "timestamp": "2026-04-23T13:20:08.667Z",
     "strategy": ".content-card__main"
   }
 ];
