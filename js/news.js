@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-24T15:18:13.572Z
+// Last updated: 2026-04-24T16:31:47.331Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "Dyson Supersonic Travel旅行風筒｜330g超輕量 全球電壓外遊必備",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260424/1124381913033740288263791.jpeg/iiFMZ2vohXeFUVT3Q7dQNIzW4bGf9gtr6vKZROrymUQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60342797/dyson-supersonic-travel%E6%97%85%E8%A1%8C%E9%A2%A8%E7%AD%92-330g%E8%B6%85%E8%BC%95%E9%87%8F-%E5%85%A8%E7%90%83%E9%9B%BB%E5%A3%93%E5%A4%96%E9%81%8A%E5%BF%85%E5%82%99",
+    "timestamp": "2026-04-24T16:31:47.331Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美國對伊朗戰事花費巨大　美媒：日均近10億美元",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260423/1124103831957803008602749.jpeg/kwXlFCVTcdl4mgghgchhHVhMULKDOPvF2n4botp-G6I?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60343131/%E6%A5%8A%E5%85%B6%E9%BE%8D%E5%A4%9C%E5%BA%97%E9%87%8D%E9%96%8B%E7%8D%B2%E9%9C%8D%E5%95%9F%E5%B1%B1%E6%8D%A7%E5%A0%B4-%E6%9B%BE%E8%88%87%E4%BD%95%E8%B6%85%E7%93%8A%E7%9B%B8%E6%88%80%E5%A9%9A%E5%BE%8C%E4%BF%AE%E5%BF%83%E9%A4%8A%E6%80%A7%E8%AE%8A%E6%85%88%E7%88%B6",
     "timestamp": "2026-04-23T22:34:52.213Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "女遊客來港光顧冰室驚見「五星級大鼠」：已落單唯有頂硬上｜有片",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260424/1124158547404263424871095.jpeg/cBBvWKhnu7k4j9k_1CYM-KB6c_N9IBbRMDtD0jA7Q9I?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%92%B0%E7%90%83%E8%B6%A3%E8%81%9E/60343359/%E5%A5%B3%E9%81%8A%E5%AE%A2%E4%BE%86%E6%B8%AF%E5%85%89%E9%A1%A7%E5%86%B0%E5%AE%A4%E9%A9%9A%E8%A6%8B-%E4%BA%94%E6%98%9F%E7%B4%9A%E5%A4%A7%E9%BC%A0-%E5%B7%B2%E8%90%BD%E5%96%AE%E5%94%AF%E6%9C%89%E9%A0%82%E7%A1%AC%E4%B8%8A-%E6%9C%89%E7%89%87",
-    "timestamp": "2026-04-23T22:06:44.195Z",
     "strategy": ".content-card__main"
   }
 ];
