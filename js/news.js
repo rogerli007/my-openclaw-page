@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-24T02:46:23.301Z
+// Last updated: 2026-04-24T05:15:19.788Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "ChatGPT images 2.0超強！一網提供超過700提示詞　免費生成圖片",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260423/1124065615175225344510984.jpeg/QLsV-iJsn4s2ZmolTheb2qPNqdyqYl28l47TnJeO05w?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60343192/chatgpt-images-2-0%E8%B6%85%E5%BC%B7-%E4%B8%80%E7%B6%B2%E6%8F%90%E4%BE%9B%E8%B6%85%E9%81%8E700%E6%8F%90%E7%A4%BA%E8%A9%9E-%E5%85%8D%E8%B2%BB%E7%94%9F%E6%88%90%E5%9C%96%E7%89%87",
+    "timestamp": "2026-04-24T05:15:19.788Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "Meta擬裁約8000人＋凍結6000空缺職位　提升營運效率彌補投資開支",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260423/1124062612091310080104239.jpeg/rwAatilGAqUO1nvxWH6HU8LrftcLZ4IgqThLRqk4S0Y?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60343302/%E5%89%AA%E8%A3%81%E9%AD%94%E6%B3%95%E5%B8%AB-%E5%A7%9A%E5%AD%90%E8%A3%95%E9%BB%9E%E5%90%8D%E6%8C%87%E9%8D%BE%E5%98%89%E6%AC%A3%E7%9A%84%E8%88%9E%E5%8F%B0%E6%9C%8D%E8%A3%9D-%E6%9C%89-%E6%8A%84%E8%A5%B2-%E4%B9%8B%E5%AB%8C",
     "timestamp": "2026-04-23T11:35:00.044Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "兩男涉與未成年男童肛交　男童拒庭獲裁無罪　官為公義求讀出案情",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260423/1124056087763488768603528.jpeg/KheaYfn0ZaXZ2m2n-NciBjx7eBg_NZh0ppIYRIOSGEQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60343295/%E5%85%A9%E7%94%B7%E6%B6%89%E8%88%87%E6%9C%AA%E6%88%90%E5%B9%B4%E7%94%B7%E7%AB%A5%E8%82%9B%E4%BA%A4-%E7%94%B7%E7%AB%A5%E6%8B%92%E5%BA%AD%E7%8D%B2%E8%A3%81%E7%84%A1%E7%BD%AA-%E5%AE%98%E7%82%BA%E5%85%AC%E7%BE%A9%E6%B1%82%E8%AE%80%E5%87%BA%E6%A1%88%E6%83%85",
-    "timestamp": "2026-04-23T10:55:13.155Z",
     "strategy": ".content-card__main"
   }
 ];
