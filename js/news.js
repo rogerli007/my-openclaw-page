@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-24T09:18:00.694Z
+// Last updated: 2026-04-24T10:00:07.432Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "施明喪禮前夕李泳豪突公開2022年婚禮片　疑反擊李泳漢指控",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260424/1124397182502309888570839.png/OuGAGb46YbJJrRciS-y2a5vLXZgj5y5R4lrV-eJa1fk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60343595/%E6%96%BD%E6%98%8E%E5%96%AA%E7%A6%AE%E5%89%8D%E5%A4%95%E6%9D%8E%E6%B3%B3%E8%B1%AA%E7%AA%81%E5%85%AC%E9%96%8B2022%E5%B9%B4%E5%A9%9A%E7%A6%AE%E7%89%87-%E7%96%91%E5%8F%8D%E6%93%8A%E6%9D%8E%E6%B3%B3%E6%BC%A2%E6%8C%87%E6%8E%A7",
+    "timestamp": "2026-04-24T10:00:07.432Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "日本岩手縣大山火！火場面積約61個維園　消防隊及自衛隊陸空救火",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260404/1117097233880322048635910.jpeg/iIkizi9iMq3vc3yikbPzcQu5HJ-KrHYFLfCzITfwsyE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60343358/%E5%A4%A9%E6%B0%A3-%E5%A4%A9%E6%96%87%E5%8F%B0%E6%8F%90%E7%A4%BA-%E9%A0%90%E6%96%99%E6%9C%AA%E4%BE%86%E4%B8%80%E5%85%A9%E5%B0%8F%E6%99%82%E6%9C%AC%E6%B8%AF%E9%83%A8%E4%BB%BD%E5%9C%B0%E5%8D%80%E9%9B%A8%E5%8B%A2%E8%BC%83%E5%A4%A7",
     "timestamp": "2026-04-23T17:06:45.543Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "免試簽發駕照｜運輸署：全面網上預約大致暢順　文件齊備即日領證",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260423/1124135120589033472309248.jpeg/8IoZVKp2SdAG1OFTXcWYOnzUXEtvFaVN8lv6efJb-nk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60343350/%E5%85%8D%E8%A9%A6%E7%B0%BD%E7%99%BC%E9%A7%95%E7%85%A7-%E9%81%8B%E8%BC%B8%E7%BD%B2-%E5%85%A8%E9%9D%A2%E7%B6%B2%E4%B8%8A%E9%A0%90%E7%B4%84%E5%A4%A7%E8%87%B4%E6%9A%A2%E9%A0%86-%E6%96%87%E4%BB%B6%E9%BD%8A%E5%82%99%E5%8D%B3%E6%97%A5%E9%A0%98%E8%AD%89",
-    "timestamp": "2026-04-23T16:26:33.599Z",
     "strategy": ".content-card__main"
   }
 ];
