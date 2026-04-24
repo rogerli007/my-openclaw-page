@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-24T01:46:11.689Z
+// Last updated: 2026-04-24T02:46:23.301Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "Meta擬裁約8000人＋凍結6000空缺職位　提升營運效率彌補投資開支",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250429/993844259733901312806794.jpeg/qXHiKBTzcvoennSBnjs0dvZF768tjHrPVL2ruVS9q7k?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60343415/meta%E6%93%AC%E8%A3%81%E7%B4%848000%E4%BA%BA-%E5%87%8D%E7%B5%906000%E7%A9%BA%E7%BC%BA%E8%81%B7%E4%BD%8D-%E6%8F%90%E5%8D%87%E7%87%9F%E9%81%8B%E6%95%88%E7%8E%87%E5%BD%8C%E8%A3%9C%E6%8A%95%E8%B3%87%E9%96%8B%E6%94%AF",
+    "timestamp": "2026-04-24T02:46:23.301Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "大熊貓「平平」「福雙」將赴美　中美新一輪保護合作延續熊貓情",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260423/1124056087763488768603528.jpeg/KheaYfn0ZaXZ2m2n-NciBjx7eBg_NZh0ppIYRIOSGEQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60343295/%E5%85%A9%E7%94%B7%E6%B6%89%E8%88%87%E6%9C%AA%E6%88%90%E5%B9%B4%E7%94%B7%E7%AB%A5%E8%82%9B%E4%BA%A4-%E7%94%B7%E7%AB%A5%E6%8B%92%E5%BA%AD%E7%8D%B2%E8%A3%81%E7%84%A1%E7%BD%AA-%E5%AE%98%E7%82%BA%E5%85%AC%E7%BE%A9%E6%B1%82%E8%AE%80%E5%87%BA%E6%A1%88%E6%83%85",
     "timestamp": "2026-04-23T10:55:13.155Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "外交元老李道豫逝世　官媒揭52年外交生涯與中美博弈往事",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260423/1124024995551383552597024.jpeg/W10qvVlHTz5V9iIPgwW1GlvYtpEqaPyZiEb5W4hG-Vs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60343201/%E5%A4%96%E4%BA%A4%E5%85%83%E8%80%81%E6%9D%8E%E9%81%93%E8%B1%AB%E9%80%9D%E4%B8%96-%E5%AE%98%E5%AA%92%E6%8F%AD52%E5%B9%B4%E5%A4%96%E4%BA%A4%E7%94%9F%E6%B6%AF%E8%88%87%E4%B8%AD%E7%BE%8E%E5%8D%9A%E5%BC%88%E5%BE%80%E4%BA%8B",
-    "timestamp": "2026-04-23T08:52:44.067Z",
     "strategy": ".content-card__main"
   }
 ];
