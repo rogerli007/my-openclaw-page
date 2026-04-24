@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-24T10:00:07.432Z
+// Last updated: 2026-04-24T10:42:21.424Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "扎根46年利苑酒家旺角店4.28結業　曾獲米芝蓮二星　集團最老分店",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260424/1124407476897189888984102.jpeg/9McFdqHNHwTPL_qnQmfHrE-JXQcfOdrF4BgN7uAYDe4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60343650/%E6%89%8E%E6%A0%B946%E5%B9%B4%E5%88%A9%E8%8B%91%E9%85%92%E5%AE%B6%E6%97%BA%E8%A7%92%E5%BA%974-28%E7%B5%90%E6%A5%AD-%E6%9B%BE%E7%8D%B2%E7%B1%B3%E8%8A%9D%E8%93%AE%E4%BA%8C%E6%98%9F-%E9%9B%86%E5%9C%98%E6%9C%80%E8%80%81%E5%88%86%E5%BA%97",
+    "timestamp": "2026-04-24T10:42:21.424Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "施明喪禮前夕李泳豪突公開2022年婚禮片　疑反擊李泳漢指控",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260418/1122297945027252224593872.jpeg/Lq2YieLpK_cXDiO28B_m0CMGK0URY90PIC87HCAvOxw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60343364/%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E5%A4%96%E4%BA%A4%E5%AE%98-%E7%BE%8E%E4%BC%8A%E8%AB%87%E5%88%A4-%E9%99%B7%E5%85%A5%E5%83%B5%E5%B1%80",
     "timestamp": "2026-04-23T18:38:18.470Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "天氣｜天文台提示：預料未來一兩小時本港部份地區雨勢較大",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260404/1117097233880322048635910.jpeg/iIkizi9iMq3vc3yikbPzcQu5HJ-KrHYFLfCzITfwsyE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60343358/%E5%A4%A9%E6%B0%A3-%E5%A4%A9%E6%96%87%E5%8F%B0%E6%8F%90%E7%A4%BA-%E9%A0%90%E6%96%99%E6%9C%AA%E4%BE%86%E4%B8%80%E5%85%A9%E5%B0%8F%E6%99%82%E6%9C%AC%E6%B8%AF%E9%83%A8%E4%BB%BD%E5%9C%B0%E5%8D%80%E9%9B%A8%E5%8B%A2%E8%BC%83%E5%A4%A7",
-    "timestamp": "2026-04-23T17:06:45.543Z",
     "strategy": ".content-card__main"
   }
 ];
