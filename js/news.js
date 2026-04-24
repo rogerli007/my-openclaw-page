@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-24T00:57:40.944Z
+// Last updated: 2026-04-24T01:46:11.689Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "大熊貓「平平」「福雙」將赴美　中美新一輪保護合作延續熊貓情",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260424/1124280521291993088634751.jpeg/avd05AhVF0l9iLZrxmIX1Wrdj_W7yhZwCWtowAlraMA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60343399/%E5%A4%A7%E7%86%8A%E8%B2%93-%E5%B9%B3%E5%B9%B3-%E7%A6%8F%E9%9B%99-%E5%B0%87%E8%B5%B4%E7%BE%8E-%E4%B8%AD%E7%BE%8E%E6%96%B0%E4%B8%80%E8%BC%AA%E4%BF%9D%E8%AD%B7%E5%90%88%E4%BD%9C%E5%BB%B6%E7%BA%8C%E7%86%8A%E8%B2%93%E6%83%85",
+    "timestamp": "2026-04-24T01:46:11.689Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "夜王｜何啟華不敢重溫情慾演出　楊偲泳接受朋友意見尺度要進取點",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260423/1124024995551383552597024.jpeg/W10qvVlHTz5V9iIPgwW1GlvYtpEqaPyZiEb5W4hG-Vs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60343201/%E5%A4%96%E4%BA%A4%E5%85%83%E8%80%81%E6%9D%8E%E9%81%93%E8%B1%AB%E9%80%9D%E4%B8%96-%E5%AE%98%E5%AA%92%E6%8F%AD52%E5%B9%B4%E5%A4%96%E4%BA%A4%E7%94%9F%E6%B6%AF%E8%88%87%E4%B8%AD%E7%BE%8E%E5%8D%9A%E5%BC%88%E5%BE%80%E4%BA%8B",
     "timestamp": "2026-04-23T08:52:44.067Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "揭宏福苑光井起火序　五級火前消防早調派6倍人手　毋須升災難級",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20251127/1070635801219567616596712.jpeg/pmDgVrzpwGpMsTWFXyVusr51UThIxJreydP7r-zT-68?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60343130/%E6%8F%AD%E5%AE%8F%E7%A6%8F%E8%8B%91%E5%85%89%E4%BA%95%E8%B5%B7%E7%81%AB%E5%BA%8F-%E4%BA%94%E7%B4%9A%E7%81%AB%E5%89%8D%E6%B6%88%E9%98%B2%E6%97%A9%E8%AA%BF%E6%B4%BE6%E5%80%8D%E4%BA%BA%E6%89%8B-%E6%AF%8B%E9%A0%88%E5%8D%87%E7%81%BD%E9%9B%A3%E7%B4%9A",
-    "timestamp": "2026-04-23T08:01:59.198Z",
     "strategy": ".content-card__main"
   }
 ];
