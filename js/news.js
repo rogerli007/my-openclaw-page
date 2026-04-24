@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-24T05:15:19.788Z
+// Last updated: 2026-04-24T06:05:35.366Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "「九龍居屋王」旺角富榮花園三房613.8萬沽　持貨28年升兩倍",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20221019/659455072945573888274583.jpeg/IYyshbyeTVDpGbJqil_vXblNvSge78P34x162eMdetk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60343428/%E4%B9%9D%E9%BE%8D%E5%B1%85%E5%B1%8B%E7%8E%8B-%E6%97%BA%E8%A7%92%E5%AF%8C%E6%A6%AE%E8%8A%B1%E5%9C%92%E4%B8%89%E6%88%BF613-8%E8%90%AC%E6%B2%BD-%E6%8C%81%E8%B2%A828%E5%B9%B4%E5%8D%87%E5%85%A9%E5%80%8D",
+    "timestamp": "2026-04-24T06:05:35.366Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "ChatGPT images 2.0超強！一網提供超過700提示詞　免費生成圖片",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260423/1124079484882915328849517.jpeg/_5D7gsORU8w7mWo9Bn7bUw6yIhJPcN3CEFohsRBaIbE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60343320/%E5%85%8D%E8%B2%BB%E4%B9%98%E6%90%AD%E9%9B%BB%E8%BB%8A-%E5%A7%9C%E6%BF%A4%E9%A6%99%E6%B8%AF%E5%BE%8C%E6%8F%B4%E6%9C%83%E6%85%B6%E7%A5%9D%E5%81%B6%E5%83%8F%E7%94%9F%E6%97%A5-4-30%E8%AB%8B%E5%B8%82%E6%B0%91%E4%BB%BB%E5%9D%90%E9%9B%BB%E8%BB%8A",
     "timestamp": "2026-04-23T12:39:54.613Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "「剪裁魔法師」姚子裕點名指鍾嘉欣的舞台服裝　有「抄襲」之嫌",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260423/1124062612091310080104239.jpeg/rwAatilGAqUO1nvxWH6HU8LrftcLZ4IgqThLRqk4S0Y?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60343302/%E5%89%AA%E8%A3%81%E9%AD%94%E6%B3%95%E5%B8%AB-%E5%A7%9A%E5%AD%90%E8%A3%95%E9%BB%9E%E5%90%8D%E6%8C%87%E9%8D%BE%E5%98%89%E6%AC%A3%E7%9A%84%E8%88%9E%E5%8F%B0%E6%9C%8D%E8%A3%9D-%E6%9C%89-%E6%8A%84%E8%A5%B2-%E4%B9%8B%E5%AB%8C",
-    "timestamp": "2026-04-23T11:35:00.044Z",
     "strategy": ".content-card__main"
   }
 ];
