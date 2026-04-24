@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-24T20:25:36.356Z
+// Last updated: 2026-04-24T20:52:59.240Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "瑞士將重新開放駐伊朗使館",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20251130/1071920721388638208716098.jpeg/xwNSM-jykqmVJNRrqO223d6ZU7PLq65qZj8bAGY_GwA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60343738/%E7%91%9E%E5%A3%AB%E5%B0%87%E9%87%8D%E6%96%B0%E9%96%8B%E6%94%BE%E9%A7%90%E4%BC%8A%E6%9C%97%E4%BD%BF%E9%A4%A8",
+    "timestamp": "2026-04-24T20:52:59.240Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "瑞士將重新開放駐伊朗使館",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260423/1124065615175225344510984.jpeg/QLsV-iJsn4s2ZmolTheb2qPNqdyqYl28l47TnJeO05w?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60343192/chatgpt-images-2-0%E8%B6%85%E5%BC%B7-%E4%B8%80%E7%B6%B2%E6%8F%90%E4%BE%9B%E8%B6%85%E9%81%8E700%E6%8F%90%E7%A4%BA%E8%A9%9E-%E5%85%8D%E8%B2%BB%E7%94%9F%E6%88%90%E5%9C%96%E7%89%87",
     "timestamp": "2026-04-24T05:15:19.788Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "Meta擬裁約8000人＋凍結6000空缺職位　提升營運效率彌補投資開支",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250429/993844259733901312806794.jpeg/qXHiKBTzcvoennSBnjs0dvZF768tjHrPVL2ruVS9q7k?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60343415/meta%E6%93%AC%E8%A3%81%E7%B4%848000%E4%BA%BA-%E5%87%8D%E7%B5%906000%E7%A9%BA%E7%BC%BA%E8%81%B7%E4%BD%8D-%E6%8F%90%E5%8D%87%E7%87%9F%E9%81%8B%E6%95%88%E7%8E%87%E5%BD%8C%E8%A3%9C%E6%8A%95%E8%B3%87%E9%96%8B%E6%94%AF",
-    "timestamp": "2026-04-24T02:46:23.301Z",
     "strategy": ".content-card__main"
   }
 ];
