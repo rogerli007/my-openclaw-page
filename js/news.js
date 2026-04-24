@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-24T20:52:59.240Z
+// Last updated: 2026-04-24T21:26:36.003Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "東涌的士疑天雨路滑失控　剷上花槽石壆　司機無受傷",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260425/1124572230777311232480167.jpeg/aO6Qd6qqn_Sd0PMqZLNZi1EI96Ae_hJfPkEu6D5BLug?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60343740/%E6%9D%B1%E6%B6%8C%E7%9A%84%E5%A3%AB%E7%96%91%E5%A4%A9%E9%9B%A8%E8%B7%AF%E6%BB%91%E5%A4%B1%E6%8E%A7-%E5%89%B7%E4%B8%8A%E8%8A%B1%E6%A7%BD%E7%9F%B3%E5%A3%86-%E5%8F%B8%E6%A9%9F%E7%84%A1%E5%8F%97%E5%82%B7",
+    "timestamp": "2026-04-24T21:26:36.003Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "瑞士將重新開放駐伊朗使館",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20221019/659455072945573888274583.jpeg/IYyshbyeTVDpGbJqil_vXblNvSge78P34x162eMdetk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60343428/%E4%B9%9D%E9%BE%8D%E5%B1%85%E5%B1%8B%E7%8E%8B-%E6%97%BA%E8%A7%92%E5%AF%8C%E6%A6%AE%E8%8A%B1%E5%9C%92%E4%B8%89%E6%88%BF613-8%E8%90%AC%E6%B2%BD-%E6%8C%81%E8%B2%A828%E5%B9%B4%E5%8D%87%E5%85%A9%E5%80%8D",
     "timestamp": "2026-04-24T06:05:35.366Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "ChatGPT images 2.0超強！一網提供超過700提示詞　免費生成圖片",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260423/1124065615175225344510984.jpeg/QLsV-iJsn4s2ZmolTheb2qPNqdyqYl28l47TnJeO05w?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60343192/chatgpt-images-2-0%E8%B6%85%E5%BC%B7-%E4%B8%80%E7%B6%B2%E6%8F%90%E4%BE%9B%E8%B6%85%E9%81%8E700%E6%8F%90%E7%A4%BA%E8%A9%9E-%E5%85%8D%E8%B2%BB%E7%94%9F%E6%88%90%E5%9C%96%E7%89%87",
-    "timestamp": "2026-04-24T05:15:19.788Z",
     "strategy": ".content-card__main"
   }
 ];
