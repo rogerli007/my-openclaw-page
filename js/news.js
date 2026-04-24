@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-24T14:02:30.131Z
+// Last updated: 2026-04-24T15:18:13.572Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美國對伊朗戰事花費巨大　美媒：日均近10億美元",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260305/1106296111053672448763254.jpeg/qxArdG3OBAwk2LDK7PkX0nYQpWdw4YbBlD0L55Q9C-c?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60343722/%E7%BE%8E%E5%9C%8B%E5%B0%8D%E4%BC%8A%E6%9C%97%E6%88%B0%E4%BA%8B%E8%8A%B1%E8%B2%BB%E5%B7%A8%E5%A4%A7-%E7%BE%8E%E5%AA%92-%E6%97%A5%E5%9D%87%E8%BF%9110%E5%84%84%E7%BE%8E%E5%85%83",
+    "timestamp": "2026-04-24T15:18:13.572Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "金像獎2026｜連詩雅澄清冇黑面　交緊戲有層次：由內到外再到返內",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260424/1124158547404263424871095.jpeg/cBBvWKhnu7k4j9k_1CYM-KB6c_N9IBbRMDtD0jA7Q9I?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%92%B0%E7%90%83%E8%B6%A3%E8%81%9E/60343359/%E5%A5%B3%E9%81%8A%E5%AE%A2%E4%BE%86%E6%B8%AF%E5%85%89%E9%A1%A7%E5%86%B0%E5%AE%A4%E9%A9%9A%E8%A6%8B-%E4%BA%94%E6%98%9F%E7%B4%9A%E5%A4%A7%E9%BC%A0-%E5%B7%B2%E8%90%BD%E5%96%AE%E5%94%AF%E6%9C%89%E9%A0%82%E7%A1%AC%E4%B8%8A-%E6%9C%89%E7%89%87",
     "timestamp": "2026-04-23T22:06:44.195Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美國路易斯安那州購物中心爆槍擊　至少1死9人傷　料涉兩幫人衝突",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260424/1124212724557942784890673.png/AoPdCRTV_C9JnjPTtlUrCqkHeiv26CY4HGolDhxqJQ4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60343370/%E7%BE%8E%E5%9C%8B%E8%B7%AF%E6%98%93%E6%96%AF%E5%AE%89%E9%82%A3%E5%B7%9E%E8%B3%BC%E7%89%A9%E4%B8%AD%E5%BF%83%E7%88%86%E6%A7%8D%E6%93%8A-%E8%87%B3%E5%B0%911%E6%AD%BB9%E4%BA%BA%E5%82%B7-%E6%96%99%E6%B6%89%E5%85%A9%E5%B9%AB%E4%BA%BA%E8%A1%9D%E7%AA%81",
-    "timestamp": "2026-04-23T21:36:59.992Z",
     "strategy": ".content-card__main"
   }
 ];
