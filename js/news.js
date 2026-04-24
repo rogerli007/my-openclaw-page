@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-24T17:54:04.757Z
+// Last updated: 2026-04-24T18:26:16.324Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "長沙灣怡閣苑單位遭爆竊　73歲女損失逾$50萬財物　警追緝賊人",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260425/1124532509292367872540793.jpeg/ztYicui08SZwyf1B-llP_gK6qMiHdFXVioq4W7CKuFs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60343734/%E9%95%B7%E6%B2%99%E7%81%A3%E6%80%A1%E9%96%A3%E8%8B%91%E5%96%AE%E4%BD%8D%E9%81%AD%E7%88%86%E7%AB%8A-73%E6%AD%B2%E5%A5%B3%E6%90%8D%E5%A4%B1%E9%80%BE-50%E8%90%AC%E8%B2%A1%E7%89%A9-%E8%AD%A6%E8%BF%BD%E7%B7%9D%E8%B3%8A%E4%BA%BA",
+    "timestamp": "2026-04-24T18:26:16.324Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "王毅：中方歷來主張通過對話而非武力解決國與國分歧",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260424/1124164315251740672412685.jpeg/fukdfL0vRbC1-09vTwmGf5mngGN-Gv4uSflMK0n5TCs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60343362/%E5%A4%9C%E7%8E%8B-%E4%BD%95%E5%95%9F%E8%8F%AF%E4%B8%8D%E6%95%A2%E9%87%8D%E6%BA%AB%E6%83%85%E6%85%BE%E6%BC%94%E5%87%BA-%E6%A5%8A%E5%81%B2%E6%B3%B3%E6%8E%A5%E5%8F%97%E6%9C%8B%E5%8F%8B%E6%84%8F%E8%A6%8B%E5%B0%BA%E5%BA%A6%E8%A6%81%E9%80%B2%E5%8F%96%E9%BB%9E",
     "timestamp": "2026-04-24T00:57:40.944Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "議員來稿．陳博智｜從「藍圖」到「餐桌」——漁農業現代化的落地",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260423/1124113367443705856894025.jpeg/hGv7u9F6zKt6xkLnyU6WUN2lMLlqqswKhsNNZ4bDTWc?v=w1920r16_9",
-    "url": "https://www.hk01.com/01%E8%AB%96%E5%A3%87/60343339/%E8%AD%B0%E5%93%A1%E4%BE%86%E7%A8%BF-%E9%99%B3%E5%8D%9A%E6%99%BA-%E5%BE%9E-%E8%97%8D%E5%9C%96-%E5%88%B0-%E9%A4%90%E6%A1%8C-%E6%BC%81%E8%BE%B2%E6%A5%AD%E7%8F%BE%E4%BB%A3%E5%8C%96%E7%9A%84%E8%90%BD%E5%9C%B0",
-    "timestamp": "2026-04-23T23:52:51.801Z",
     "strategy": ".content-card__main"
   }
 ];
