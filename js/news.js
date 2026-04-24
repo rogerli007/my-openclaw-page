@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-24T08:34:53.985Z
+// Last updated: 2026-04-24T09:18:00.694Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "日本岩手縣大山火！火場面積約61個維園　消防隊及自衛隊陸空救火",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260424/1124395727464697856832657.png/ZMPT6jXditoUOBS6s3yXEeEhGcrwTJHLtLzssLS87LA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60343512/%E6%97%A5%E6%9C%AC%E5%B2%A9%E6%89%8B%E7%B8%A3%E5%A4%A7%E5%B1%B1%E7%81%AB-%E7%81%AB%E5%A0%B4%E9%9D%A2%E7%A9%8D%E7%B4%8461%E5%80%8B%E7%B6%AD%E5%9C%92-%E6%B6%88%E9%98%B2%E9%9A%8A%E5%8F%8A%E8%87%AA%E8%A1%9B%E9%9A%8A%E9%99%B8%E7%A9%BA%E6%95%91%E7%81%AB",
+    "timestamp": "2026-04-24T09:18:00.694Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "施明喪禮懶人包丨李泳豪喊到眼腫寸步不離老父　泳漢一家五口致哀",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260423/1124135120589033472309248.jpeg/8IoZVKp2SdAG1OFTXcWYOnzUXEtvFaVN8lv6efJb-nk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60343350/%E5%85%8D%E8%A9%A6%E7%B0%BD%E7%99%BC%E9%A7%95%E7%85%A7-%E9%81%8B%E8%BC%B8%E7%BD%B2-%E5%85%A8%E9%9D%A2%E7%B6%B2%E4%B8%8A%E9%A0%90%E7%B4%84%E5%A4%A7%E8%87%B4%E6%9A%A2%E9%A0%86-%E6%96%87%E4%BB%B6%E9%BD%8A%E5%82%99%E5%8D%B3%E6%97%A5%E9%A0%98%E8%AD%89",
     "timestamp": "2026-04-23T16:26:33.599Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "長沙灣救護車私家車相撞後翻側　多名街坊上前助救護員脫困│有片",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260423/1124127758323027968254803.jpeg/6Ljvp9dLBAL4KCpel1Po-8b93QPL3Cwf9JnSM_SZ0jM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60343348/%E9%95%B7%E6%B2%99%E7%81%A3%E6%95%91%E8%AD%B7%E8%BB%8A%E7%A7%81%E5%AE%B6%E8%BB%8A%E7%9B%B8%E6%92%9E%E5%BE%8C%E7%BF%BB%E5%81%B4-%E5%A4%9A%E5%90%8D%E8%A1%97%E5%9D%8A%E4%B8%8A%E5%89%8D%E5%8A%A9%E6%95%91%E8%AD%B7%E5%93%A1%E8%84%AB%E5%9B%B0-%E6%9C%89%E7%89%87",
-    "timestamp": "2026-04-23T15:47:29.220Z",
     "strategy": ".content-card__main"
   }
 ];
