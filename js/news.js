@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-24T18:26:16.324Z
+// Last updated: 2026-04-24T19:27:53.812Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "伊朗媒體：德黑蘭機場將恢復赴華航班",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20230918/780564198890409984876425.jpeg/Mj_fsFK44OBl7b6JZkqB53AfZLgIiFGKqxt5gqsbeYI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60343735/%E4%BC%8A%E6%9C%97%E5%AA%92%E9%AB%94-%E5%BE%B7%E9%BB%91%E8%98%AD%E6%A9%9F%E5%A0%B4%E5%B0%87%E6%81%A2%E5%BE%A9%E8%B5%B4%E8%8F%AF%E8%88%AA%E7%8F%AD",
+    "timestamp": "2026-04-24T19:27:53.812Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "長沙灣怡閣苑單位遭爆竊　73歲女損失逾$50萬財物　警追緝賊人",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260424/1124280521291993088634751.jpeg/avd05AhVF0l9iLZrxmIX1Wrdj_W7yhZwCWtowAlraMA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60343399/%E5%A4%A7%E7%86%8A%E8%B2%93-%E5%B9%B3%E5%B9%B3-%E7%A6%8F%E9%9B%99-%E5%B0%87%E8%B5%B4%E7%BE%8E-%E4%B8%AD%E7%BE%8E%E6%96%B0%E4%B8%80%E8%BC%AA%E4%BF%9D%E8%AD%B7%E5%90%88%E4%BD%9C%E5%BB%B6%E7%BA%8C%E7%86%8A%E8%B2%93%E6%83%85",
     "timestamp": "2026-04-24T01:46:11.689Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "夜王｜何啟華不敢重溫情慾演出　楊偲泳接受朋友意見尺度要進取點",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260424/1124164315251740672412685.jpeg/fukdfL0vRbC1-09vTwmGf5mngGN-Gv4uSflMK0n5TCs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60343362/%E5%A4%9C%E7%8E%8B-%E4%BD%95%E5%95%9F%E8%8F%AF%E4%B8%8D%E6%95%A2%E9%87%8D%E6%BA%AB%E6%83%85%E6%85%BE%E6%BC%94%E5%87%BA-%E6%A5%8A%E5%81%B2%E6%B3%B3%E6%8E%A5%E5%8F%97%E6%9C%8B%E5%8F%8B%E6%84%8F%E8%A6%8B%E5%B0%BA%E5%BA%A6%E8%A6%81%E9%80%B2%E5%8F%96%E9%BB%9E",
-    "timestamp": "2026-04-24T00:57:40.944Z",
     "strategy": ".content-card__main"
   }
 ];
