@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-23T23:52:51.801Z
+// Last updated: 2026-04-24T00:57:40.944Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "夜王｜何啟華不敢重溫情慾演出　楊偲泳接受朋友意見尺度要進取點",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260424/1124164315251740672412685.jpeg/fukdfL0vRbC1-09vTwmGf5mngGN-Gv4uSflMK0n5TCs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60343362/%E5%A4%9C%E7%8E%8B-%E4%BD%95%E5%95%9F%E8%8F%AF%E4%B8%8D%E6%95%A2%E9%87%8D%E6%BA%AB%E6%83%85%E6%85%BE%E6%BC%94%E5%87%BA-%E6%A5%8A%E5%81%B2%E6%B3%B3%E6%8E%A5%E5%8F%97%E6%9C%8B%E5%8F%8B%E6%84%8F%E8%A6%8B%E5%B0%BA%E5%BA%A6%E8%A6%81%E9%80%B2%E5%8F%96%E9%BB%9E",
+    "timestamp": "2026-04-24T00:57:40.944Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "議員來稿．陳博智｜從「藍圖」到「餐桌」——漁農業現代化的落地",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20251127/1070635801219567616596712.jpeg/pmDgVrzpwGpMsTWFXyVusr51UThIxJreydP7r-zT-68?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60343130/%E6%8F%AD%E5%AE%8F%E7%A6%8F%E8%8B%91%E5%85%89%E4%BA%95%E8%B5%B7%E7%81%AB%E5%BA%8F-%E4%BA%94%E7%B4%9A%E7%81%AB%E5%89%8D%E6%B6%88%E9%98%B2%E6%97%A9%E8%AA%BF%E6%B4%BE6%E5%80%8D%E4%BA%BA%E6%89%8B-%E6%AF%8B%E9%A0%88%E5%8D%87%E7%81%BD%E9%9B%A3%E7%B4%9A",
     "timestamp": "2026-04-23T08:01:59.198Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "宏福苑居民質疑棄用警示決定　稱唯一方法提示逃生：走唔到仲嚇親",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260423/1124003079637700608321840.jpeg/Lsudcmp5-5dVhpdKtOejVKtgOrojrPnq4HxXHeB8Vx0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60343169/%E5%AE%8F%E7%A6%8F%E8%8B%91%E5%B1%85%E6%B0%91%E8%B3%AA%E7%96%91%E6%A3%84%E7%94%A8%E8%AD%A6%E7%A4%BA%E6%B1%BA%E5%AE%9A-%E7%A8%B1%E5%94%AF%E4%B8%80%E6%96%B9%E6%B3%95%E6%8F%90%E7%A4%BA%E9%80%83%E7%94%9F-%E8%B5%B0%E5%94%94%E5%88%B0%E4%BB%B2%E5%9A%87%E8%A6%AA",
-    "timestamp": "2026-04-23T07:15:11.858Z",
     "strategy": ".content-card__main"
   }
 ];
