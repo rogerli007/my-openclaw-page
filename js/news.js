@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-24T16:31:47.331Z
+// Last updated: 2026-04-24T17:29:41.896Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "古天樂驚喜宣布與宣萱推出合唱歌　預告周日合體開Live：到時見",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260425/1124501683439669248802463.jpeg/QTL-efc6Qv6iS_6cu331Xw9Sd9ekmK3UCbf-Kwm3_is?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60343730/%E5%8F%A4%E5%A4%A9%E6%A8%82%E9%A9%9A%E5%96%9C%E5%AE%A3%E5%B8%83%E8%88%87%E5%AE%A3%E8%90%B1%E6%8E%A8%E5%87%BA%E5%90%88%E5%94%B1%E6%AD%8C-%E9%A0%90%E5%91%8A%E5%91%A8%E6%97%A5%E5%90%88%E9%AB%94%E9%96%8Blive-%E5%88%B0%E6%99%82%E8%A6%8B",
+    "timestamp": "2026-04-24T17:29:41.896Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "Dyson Supersonic Travel旅行風筒｜330g超輕量 全球電壓外遊必備",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260424/1124237351732645888590864.jpeg/N1a6Qhf9ncZk7moRtlijNq2suvjkREpGQ0nOKUNJzik?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60343373/apple%E6%96%B0ceo-john-ternus%E6%98%AF%E8%AA%B0-%E6%9B%BE%E7%82%BA%E4%B8%80%E9%A1%86%E8%9E%BA%E7%B5%B2%E8%B7%9F%E5%90%8C%E4%BA%8B%E5%90%B5%E7%BF%BB%E7%9A%84%E7%B4%B0%E7%AF%80%E7%8B%82%E9%AD%94",
     "timestamp": "2026-04-23T22:59:25.419Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "楊其龍夜店重開獲霍啟山捧場　曾與何超瓊相戀婚後修心養性變慈父",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260423/1124103831957803008602749.jpeg/kwXlFCVTcdl4mgghgchhHVhMULKDOPvF2n4botp-G6I?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60343131/%E6%A5%8A%E5%85%B6%E9%BE%8D%E5%A4%9C%E5%BA%97%E9%87%8D%E9%96%8B%E7%8D%B2%E9%9C%8D%E5%95%9F%E5%B1%B1%E6%8D%A7%E5%A0%B4-%E6%9B%BE%E8%88%87%E4%BD%95%E8%B6%85%E7%93%8A%E7%9B%B8%E6%88%80%E5%A9%9A%E5%BE%8C%E4%BF%AE%E5%BF%83%E9%A4%8A%E6%80%A7%E8%AE%8A%E6%85%88%E7%88%B6",
-    "timestamp": "2026-04-23T22:34:52.213Z",
     "strategy": ".content-card__main"
   }
 ];
