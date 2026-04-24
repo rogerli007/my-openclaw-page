@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-24T17:29:41.896Z
+// Last updated: 2026-04-24T17:54:04.757Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "王毅：中方歷來主張通過對話而非武力解決國與國分歧",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20251230/1082717903490387968428079.jpeg/X9-VP3zmaFUxYPN71j9mQ1dxUJ5JWB2S-J-bNPifmzQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60343733/%E7%8E%8B%E6%AF%85-%E4%B8%AD%E6%96%B9%E6%AD%B7%E4%BE%86%E4%B8%BB%E5%BC%B5%E9%80%9A%E9%81%8E%E5%B0%8D%E8%A9%B1%E8%80%8C%E9%9D%9E%E6%AD%A6%E5%8A%9B%E8%A7%A3%E6%B1%BA%E5%9C%8B%E8%88%87%E5%9C%8B%E5%88%86%E6%AD%A7",
+    "timestamp": "2026-04-24T17:54:04.757Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "古天樂驚喜宣布與宣萱推出合唱歌　預告周日合體開Live：到時見",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260423/1124113367443705856894025.jpeg/hGv7u9F6zKt6xkLnyU6WUN2lMLlqqswKhsNNZ4bDTWc?v=w1920r16_9",
     "url": "https://www.hk01.com/01%E8%AB%96%E5%A3%87/60343339/%E8%AD%B0%E5%93%A1%E4%BE%86%E7%A8%BF-%E9%99%B3%E5%8D%9A%E6%99%BA-%E5%BE%9E-%E8%97%8D%E5%9C%96-%E5%88%B0-%E9%A4%90%E6%A1%8C-%E6%BC%81%E8%BE%B2%E6%A5%AD%E7%8F%BE%E4%BB%A3%E5%8C%96%E7%9A%84%E8%90%BD%E5%9C%B0",
     "timestamp": "2026-04-23T23:52:51.801Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "Apple新CEO John Ternus是誰？曾為一顆螺絲跟同事吵翻的細節狂魔",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260424/1124237351732645888590864.jpeg/N1a6Qhf9ncZk7moRtlijNq2suvjkREpGQ0nOKUNJzik?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60343373/apple%E6%96%B0ceo-john-ternus%E6%98%AF%E8%AA%B0-%E6%9B%BE%E7%82%BA%E4%B8%80%E9%A1%86%E8%9E%BA%E7%B5%B2%E8%B7%9F%E5%90%8C%E4%BA%8B%E5%90%B5%E7%BF%BB%E7%9A%84%E7%B4%B0%E7%AF%80%E7%8B%82%E9%AD%94",
-    "timestamp": "2026-04-23T22:59:25.419Z",
     "strategy": ".content-card__main"
   }
 ];
