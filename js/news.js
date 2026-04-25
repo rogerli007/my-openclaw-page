@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-25T19:52:19.607Z
+// Last updated: 2026-04-25T20:52:51.055Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "九龍城男子街頭捱斬　腳傷送院　警拘1刀手",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260426/1124925134600146944640527.jpeg/AK9pnvyGh9-RA2M6sROry01rhbLH8yz6T0_5xHVP-cQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60343909/%E4%B9%9D%E9%BE%8D%E5%9F%8E%E7%94%B7%E5%AD%90%E8%A1%97%E9%A0%AD%E6%8D%B1%E6%96%AC-%E8%85%B3%E5%82%B7%E9%80%81%E9%99%A2-%E8%AD%A6%E6%8B%981%E5%88%80%E6%89%8B",
+    "timestamp": "2026-04-25T20:52:51.055Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "緬甸新任總統會晤王毅　稱絕不允許發生任何有損中國利益行爲",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260425/1124753472151883776947685.jpeg/OU_UZAH_h3_7aIobzTR1zWSpLKbbPC5xkv80KZL_NCk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60343835/%E4%B8%96%E7%95%8C%E7%9B%832026-%E4%BA%8C%E6%89%8B%E5%B9%B3%E5%8F%B0%E8%B3%A3%E6%B1%BA%E8%B3%BD-%E9%BB%83%E7%89%9B%E9%A3%9B-%E4%B8%80%E5%BC%B5%E7%B4%A2%E5%83%B91800%E8%90%AC%E6%83%B9%E8%AD%B0",
     "timestamp": "2026-04-25T09:11:41.618Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "伊朗外長抵伊斯蘭堡　先後會面巴基斯坦外長及陸軍參謀長",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260425/1124745272753131520524917.jpeg/6Ktey3GhlHSbzocui69bstD11UJrBc24coFETXKBRE0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60343810/%E4%BC%8A%E6%9C%97%E5%A4%96%E9%95%B7%E6%8A%B5%E4%BC%8A%E6%96%AF%E8%98%AD%E5%A0%A1-%E5%85%88%E5%BE%8C%E6%9C%83%E9%9D%A2%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E5%A4%96%E9%95%B7%E5%8F%8A%E9%99%B8%E8%BB%8D%E5%8F%83%E8%AC%80%E9%95%B7",
-    "timestamp": "2026-04-25T08:39:56.405Z",
     "strategy": ".content-card__main"
   }
 ];
