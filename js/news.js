@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-25T18:25:55.599Z
+// Last updated: 2026-04-25T19:25:58.111Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "緬甸新任總統會晤王毅　稱絕不允許發生任何有損中國利益行爲",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260426/1124897179345883136645981.jpeg/g2Yjf4_fa0zCaL2eDkQNSRh2qKey5N-39hvJZPYbyWQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60343908/%E7%B7%AC%E7%94%B8%E6%96%B0%E4%BB%BB%E7%B8%BD%E7%B5%B1%E6%9C%83%E6%99%A4%E7%8E%8B%E6%AF%85-%E7%A8%B1%E7%B5%95%E4%B8%8D%E5%85%81%E8%A8%B1%E7%99%BC%E7%94%9F%E4%BB%BB%E4%BD%95%E6%9C%89%E6%90%8D%E4%B8%AD%E5%9C%8B%E5%88%A9%E7%9B%8A%E8%A1%8C%E7%88%B2",
+    "timestamp": "2026-04-25T19:25:58.111Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "新華社：伊朗外長或在未來率團返回伊斯蘭堡",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260425/1124708381030879232562831.jpeg/WM5mApcagaPVsYCg4_sKJucYYIp0SWfAN-FwXTfhcF0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60343798/%E5%82%B3%E5%A5%A7%E9%81%8B%E5%86%A0%E8%BB%8D-%E4%B8%AD%E5%9C%8B%E7%BE%BD%E5%8D%94%E4%B8%BB%E5%B8%AD%E5%BC%B5%E8%BB%8D%E5%A4%B1%E8%81%AF%E8%B6%85%E9%81%8E10%E6%97%A5-%E5%85%A7%E5%AA%92%E6%8C%87%E8%A2%AB%E7%B4%80%E6%AA%A2%E8%AA%BF%E6%9F%A5",
     "timestamp": "2026-04-25T07:39:39.773Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "警荃灣掃黃搗淫窟拘38歲內地女　檢避孕套等",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260425/1124719332752887808297105.jpeg/xo6ErahW3WizuzKNmqBxv6lx7V9MS5aj7A81Z-wPNWc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60343808/%E8%AD%A6%E8%8D%83%E7%81%A3%E6%8E%83%E9%BB%83%E6%90%97%E6%B7%AB%E7%AA%9F%E6%8B%9838%E6%AD%B2%E5%85%A7%E5%9C%B0%E5%A5%B3-%E6%AA%A2%E9%81%BF%E5%AD%95%E5%A5%97%E7%AD%89",
-    "timestamp": "2026-04-25T06:52:41.556Z",
     "strategy": ".content-card__main"
   }
 ];
