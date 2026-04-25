@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-25T02:45:08.311Z
+// Last updated: 2026-04-25T03:53:30.075Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美眾議院通過MATCH等出口管制法案　商務部：將堅決採取必要措施",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260425/1124669530136645632983560.jpeg/NMqATLZzQA-SAoZqTefYmbwamP8UlFvJZ_6bNGf-mzQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60343766/%E7%BE%8E%E7%9C%BE%E8%AD%B0%E9%99%A2%E9%80%9A%E9%81%8Ematch%E7%AD%89%E5%87%BA%E5%8F%A3%E7%AE%A1%E5%88%B6%E6%B3%95%E6%A1%88-%E5%95%86%E5%8B%99%E9%83%A8-%E5%B0%87%E5%A0%85%E6%B1%BA%E6%8E%A1%E5%8F%96%E5%BF%85%E8%A6%81%E6%8E%AA%E6%96%BD",
+    "timestamp": "2026-04-25T03:53:30.075Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "魔音女團丨16位資料相曝光　莊子璇戴后冠搶鏡、盧映彤獲讚有仙氣",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260424/1124378851435089920618320.jpeg/sTbY1yTEi8PhT79W8mymzPFJ1hI-ppo30ZhutdGYbrU",
     "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60343583/%E5%85%A7%E5%9C%B0%E5%8D%83%E8%90%AC%E7%B6%B2%E7%B4%85%E9%80%BC%E5%A5%B3%E4%B8%BB%E6%92%AD%E8%88%87%E9%B1%B7%E9%AD%9A%E5%90%8C%E7%BC%B8-%E8%AA%98%E9%A8%99%E7%B2%89%E7%B5%B2%E6%89%93%E8%B3%9E10%E8%90%AC%E5%85%83-%E6%9C%89%E7%89%87",
     "timestamp": "2026-04-24T11:14:39.877Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "扎根46年利苑酒家旺角店4.28結業　曾獲米芝蓮二星　集團最老分店",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260424/1124407476897189888984102.jpeg/9McFdqHNHwTPL_qnQmfHrE-JXQcfOdrF4BgN7uAYDe4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60343650/%E6%89%8E%E6%A0%B946%E5%B9%B4%E5%88%A9%E8%8B%91%E9%85%92%E5%AE%B6%E6%97%BA%E8%A7%92%E5%BA%974-28%E7%B5%90%E6%A5%AD-%E6%9B%BE%E7%8D%B2%E7%B1%B3%E8%8A%9D%E8%93%AE%E4%BA%8C%E6%98%9F-%E9%9B%86%E5%9C%98%E6%9C%80%E8%80%81%E5%88%86%E5%BA%97",
-    "timestamp": "2026-04-24T10:42:21.424Z",
     "strategy": ".content-card__main"
   }
 ];
