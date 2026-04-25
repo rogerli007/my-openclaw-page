@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-25T13:38:21.467Z
+// Last updated: 2026-04-25T14:14:37.113Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "亡父默默留下18張台積電股票！值逾3000萬新台幣　女兒心情卻複雜",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260422/1123744731403128832578264.png/Z63_kqt__yyERkdiOkDQHR_394KGLwa2DTPKew0zyns?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60342907/%E4%BA%A1%E7%88%B6%E9%BB%98%E9%BB%98%E7%95%99%E4%B8%8B18%E5%BC%B5%E5%8F%B0%E7%A9%8D%E9%9B%BB%E8%82%A1%E7%A5%A8-%E5%80%BC%E9%80%BE3000%E8%90%AC%E6%96%B0%E5%8F%B0%E5%B9%A3-%E5%A5%B3%E5%85%92%E5%BF%83%E6%83%85%E5%8D%BB%E8%A4%87%E9%9B%9C",
+    "timestamp": "2026-04-25T14:14:37.113Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "亞沙運｜余承謙生涯最終戰　最後一棒衝線登頒獎台　感觸答謝隊友",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260425/1124521384274300928741562.jpeg/eBmTaRRSv-J2t8OrQLAL59RSOLhw4dAsG1_28Btf9vA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60343238/%E6%9E%97%E6%BC%AA%E5%A8%B8%E6%85%B6%E7%A5%9D67%E6%AD%B2%E7%94%9F%E6%97%A5%E7%8B%80%E6%85%8B%E6%A5%B5%E4%BD%B3-%E7%B7%B4%E6%B0%A3%E5%8A%9F%E9%80%BE20%E5%B9%B4%E4%BF%9D%E9%A4%8A%E5%87%8D%E9%BD%A1%E5%82%B3%E5%8F%AF%E9%9A%94%E7%A9%BA%E7%99%82%E5%82%B7",
     "timestamp": "2026-04-25T00:52:23.008Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "殘障父怒斥不幫忙做家務！揮斬雞刀砍傷2名子女　認罪判入獄6個月",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260423/1123818614915338240762803.png/aCjpH9XQRZJkqf1VpqRjAKN1_72SCBylO5XJCzuVyQs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E8%A9%B1%E9%A1%8C/60342537/%E6%AE%98%E9%9A%9C%E7%88%B6%E6%80%92%E6%96%A5%E4%B8%8D%E5%B9%AB%E5%BF%99%E5%81%9A%E5%AE%B6%E5%8B%99-%E6%8F%AE%E6%96%AC%E9%9B%9E%E5%88%80%E7%A0%8D%E5%82%B72%E5%90%8D%E5%AD%90%E5%A5%B3-%E8%AA%8D%E7%BD%AA%E5%88%A4%E5%85%A5%E7%8D%846%E5%80%8B%E6%9C%88",
-    "timestamp": "2026-04-24T23:51:46.578Z",
     "strategy": ".content-card__main"
   }
 ];
