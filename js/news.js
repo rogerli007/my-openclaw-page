@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-25T06:20:54.504Z
+// Last updated: 2026-04-25T06:52:41.556Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "警荃灣掃黃搗淫窟拘38歲內地女　檢避孕套等",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260425/1124719332752887808297105.jpeg/xo6ErahW3WizuzKNmqBxv6lx7V9MS5aj7A81Z-wPNWc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60343808/%E8%AD%A6%E8%8D%83%E7%81%A3%E6%8E%83%E9%BB%83%E6%90%97%E6%B7%AB%E7%AA%9F%E6%8B%9838%E6%AD%B2%E5%85%A7%E5%9C%B0%E5%A5%B3-%E6%AA%A2%E9%81%BF%E5%AD%95%E5%A5%97%E7%AD%89",
+    "timestamp": "2026-04-25T06:52:41.556Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "藝考圈房思琪案一審　教師杜英哲被控強姦罪　受害20多人最小17歲",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260305/1106296111053672448763254.jpeg/qxArdG3OBAwk2LDK7PkX0nYQpWdw4YbBlD0L55Q9C-c?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60343722/%E7%BE%8E%E5%9C%8B%E5%B0%8D%E4%BC%8A%E6%9C%97%E6%88%B0%E4%BA%8B%E8%8A%B1%E8%B2%BB%E5%B7%A8%E5%A4%A7-%E7%BE%8E%E5%AA%92-%E6%97%A5%E5%9D%87%E8%BF%9110%E5%84%84%E7%BE%8E%E5%85%83",
     "timestamp": "2026-04-24T15:18:13.572Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "金像獎2026｜連詩雅澄清冇黑面　交緊戲有層次：由內到外再到返內",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260424/1124450487135899648024163.jpeg/wi27fWKJzJL0mo6i5dx9YYqWl8U2V8zgc0Pd8nND3fI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60343697/%E9%87%91%E5%83%8F%E7%8D%8E2026-%E9%80%A3%E8%A9%A9%E9%9B%85%E6%BE%84%E6%B8%85%E5%86%87%E9%BB%91%E9%9D%A2-%E4%BA%A4%E7%B7%8A%E6%88%B2%E6%9C%89%E5%B1%A4%E6%AC%A1-%E7%94%B1%E5%85%A7%E5%88%B0%E5%A4%96%E5%86%8D%E5%88%B0%E8%BF%94%E5%85%A7",
-    "timestamp": "2026-04-24T14:02:30.131Z",
     "strategy": ".content-card__main"
   }
 ];
