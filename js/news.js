@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-25T04:59:40.551Z
+// Last updated: 2026-04-25T05:44:30.988Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "習鄭會｜民調：43%台民眾認為有助兩岸和平，66%支持兩岸恢復協商",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260410/1119277000360726528593426.jpeg/s-qnEsa9PBHOJArTx6aFO9XeGSo9cjBmm03uY5tN7mM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8F%B0%E7%81%A3%E6%96%B0%E8%81%9E/60343790/%E7%BF%92%E9%84%AD%E6%9C%83-%E6%B0%91%E8%AA%BF-43-%E5%8F%B0%E6%B0%91%E7%9C%BE%E8%AA%8D%E7%82%BA%E6%9C%89%E5%8A%A9%E5%85%A9%E5%B2%B8%E5%92%8C%E5%B9%B3-66-%E6%94%AF%E6%8C%81%E5%85%A9%E5%B2%B8%E6%81%A2%E5%BE%A9%E5%8D%94%E5%95%86",
+    "timestamp": "2026-04-25T05:44:30.988Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "台灣男於診所照腸胃鏡後死亡　2幼女致電親戚哭：我們沒爸爸了",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260424/1124446821096099840620547.jpeg/dg-FJR2qKRXD1quvIG2CjsXEVTU3a5uo2jnIouA5yKI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60343683/%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%B8%8A%E6%A8%93-%E5%BB%BF%E5%B9%BE%E4%BD%8F%E5%88%B071-%E5%AE%8F%E4%BB%81%E8%80%81%E8%A1%97%E5%9D%8A%E6%8A%AC%E8%B5%B065%E5%90%8B%E5%A4%A7%E9%9B%BB%E8%A6%96-%E7%96%91%E5%A4%96%E5%B9%A3%E5%A4%B1%E7%AB%8A",
     "timestamp": "2026-04-24T13:16:41.661Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "警「推動社群參與工作小組」一會一訪　攜手教育界守護青少年",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260424/1124424542945546240847215.jpeg/4bGZxjMSMWzMzXCbdMNVzoei7AIj7lp_oDyUY6A8lGM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60343675/%E8%AD%A6-%E6%8E%A8%E5%8B%95%E7%A4%BE%E7%BE%A4%E5%8F%83%E8%88%87%E5%B7%A5%E4%BD%9C%E5%B0%8F%E7%B5%84-%E4%B8%80%E6%9C%83%E4%B8%80%E8%A8%AA-%E6%94%9C%E6%89%8B%E6%95%99%E8%82%B2%E7%95%8C%E5%AE%88%E8%AD%B7%E9%9D%92%E5%B0%91%E5%B9%B4",
-    "timestamp": "2026-04-24T11:45:28.149Z",
     "strategy": ".content-card__main"
   }
 ];
