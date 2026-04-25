@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-25T03:53:30.075Z
+// Last updated: 2026-04-25T04:59:40.551Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "台灣男於診所照腸胃鏡後死亡　2幼女致電親戚哭：我們沒爸爸了",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260425/1124676019115003904243869.jpeg/2ekq4fz_lpoQ6A_IysX1gPnsX9do9_tfkGIk1ZBiJNU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8F%B0%E7%81%A3%E6%96%B0%E8%81%9E/60343772/%E5%8F%B0%E7%81%A3%E7%94%B7%E6%96%BC%E8%A8%BA%E6%89%80%E7%85%A7%E8%85%B8%E8%83%83%E9%8F%A1%E5%BE%8C%E6%AD%BB%E4%BA%A1-2%E5%B9%BC%E5%A5%B3%E8%87%B4%E9%9B%BB%E8%A6%AA%E6%88%9A%E5%93%AD-%E6%88%91%E5%80%91%E6%B2%92%E7%88%B8%E7%88%B8%E4%BA%86",
+    "timestamp": "2026-04-25T04:59:40.551Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美眾議院通過MATCH等出口管制法案　商務部：將堅決採取必要措施",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260424/1124424542945546240847215.jpeg/4bGZxjMSMWzMzXCbdMNVzoei7AIj7lp_oDyUY6A8lGM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60343675/%E8%AD%A6-%E6%8E%A8%E5%8B%95%E7%A4%BE%E7%BE%A4%E5%8F%83%E8%88%87%E5%B7%A5%E4%BD%9C%E5%B0%8F%E7%B5%84-%E4%B8%80%E6%9C%83%E4%B8%80%E8%A8%AA-%E6%94%9C%E6%89%8B%E6%95%99%E8%82%B2%E7%95%8C%E5%AE%88%E8%AD%B7%E9%9D%92%E5%B0%91%E5%B9%B4",
     "timestamp": "2026-04-24T11:45:28.149Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "內地千萬網紅逼女主播與鱷魚同缸、誘騙粉絲打賞10萬元｜有片",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260424/1124378851435089920618320.jpeg/sTbY1yTEi8PhT79W8mymzPFJ1hI-ppo30ZhutdGYbrU",
-    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60343583/%E5%85%A7%E5%9C%B0%E5%8D%83%E8%90%AC%E7%B6%B2%E7%B4%85%E9%80%BC%E5%A5%B3%E4%B8%BB%E6%92%AD%E8%88%87%E9%B1%B7%E9%AD%9A%E5%90%8C%E7%BC%B8-%E8%AA%98%E9%A8%99%E7%B2%89%E7%B5%B2%E6%89%93%E8%B3%9E10%E8%90%AC%E5%85%83-%E6%9C%89%E7%89%87",
-    "timestamp": "2026-04-24T11:14:39.877Z",
     "strategy": ".content-card__main"
   }
 ];
