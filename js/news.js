@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-25T08:39:56.405Z
+// Last updated: 2026-04-25T09:11:41.618Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "世界盃2026｜二手平台賣決賽「黃牛飛」　一張索價1800萬惹議",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260425/1124753472151883776947685.jpeg/OU_UZAH_h3_7aIobzTR1zWSpLKbbPC5xkv80KZL_NCk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60343835/%E4%B8%96%E7%95%8C%E7%9B%832026-%E4%BA%8C%E6%89%8B%E5%B9%B3%E5%8F%B0%E8%B3%A3%E6%B1%BA%E8%B3%BD-%E9%BB%83%E7%89%9B%E9%A3%9B-%E4%B8%80%E5%BC%B5%E7%B4%A2%E5%83%B91800%E8%90%AC%E6%83%B9%E8%AD%B0",
+    "timestamp": "2026-04-25T09:11:41.618Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "伊朗外長抵伊斯蘭堡　先後會面巴基斯坦外長及陸軍參謀長",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20251230/1082717903490387968428079.jpeg/X9-VP3zmaFUxYPN71j9mQ1dxUJ5JWB2S-J-bNPifmzQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60343733/%E7%8E%8B%E6%AF%85-%E4%B8%AD%E6%96%B9%E6%AD%B7%E4%BE%86%E4%B8%BB%E5%BC%B5%E9%80%9A%E9%81%8E%E5%B0%8D%E8%A9%B1%E8%80%8C%E9%9D%9E%E6%AD%A6%E5%8A%9B%E8%A7%A3%E6%B1%BA%E5%9C%8B%E8%88%87%E5%9C%8B%E5%88%86%E6%AD%A7",
     "timestamp": "2026-04-24T17:54:04.757Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "古天樂驚喜宣布與宣萱推出合唱歌　預告周日合體開Live：到時見",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260425/1124501683439669248802463.jpeg/QTL-efc6Qv6iS_6cu331Xw9Sd9ekmK3UCbf-Kwm3_is?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60343730/%E5%8F%A4%E5%A4%A9%E6%A8%82%E9%A9%9A%E5%96%9C%E5%AE%A3%E5%B8%83%E8%88%87%E5%AE%A3%E8%90%B1%E6%8E%A8%E5%87%BA%E5%90%88%E5%94%B1%E6%AD%8C-%E9%A0%90%E5%91%8A%E5%91%A8%E6%97%A5%E5%90%88%E9%AB%94%E9%96%8Blive-%E5%88%B0%E6%99%82%E8%A6%8B",
-    "timestamp": "2026-04-24T17:29:41.896Z",
     "strategy": ".content-card__main"
   }
 ];
