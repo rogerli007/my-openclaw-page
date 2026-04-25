@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-25T12:55:11.596Z
+// Last updated: 2026-04-25T13:38:21.467Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "亞沙運｜余承謙生涯最終戰　最後一棒衝線登頒獎台　感觸答謝隊友",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260425/1124824472541466624798430.jpeg/UwpBdxtmqbg12tBvlJJ0tpYvU6-vfgFOcpywmnKcsJo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60343879/%E4%BA%9E%E6%B2%99%E9%81%8B-%E4%BD%99%E6%89%BF%E8%AC%99%E7%94%9F%E6%B6%AF%E6%9C%80%E7%B5%82%E6%88%B0-%E6%9C%80%E5%BE%8C%E4%B8%80%E6%A3%92%E8%A1%9D%E7%B7%9A%E7%99%BB%E9%A0%92%E7%8D%8E%E5%8F%B0-%E6%84%9F%E8%A7%B8%E7%AD%94%E8%AC%9D%E9%9A%8A%E5%8F%8B",
+    "timestamp": "2026-04-25T13:38:21.467Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "青島一路口裝十幾個攝像頭網民熱議　警方：設備老化未拆除",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260423/1123818614915338240762803.png/aCjpH9XQRZJkqf1VpqRjAKN1_72SCBylO5XJCzuVyQs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E8%A9%B1%E9%A1%8C/60342537/%E6%AE%98%E9%9A%9C%E7%88%B6%E6%80%92%E6%96%A5%E4%B8%8D%E5%B9%AB%E5%BF%99%E5%81%9A%E5%AE%B6%E5%8B%99-%E6%8F%AE%E6%96%AC%E9%9B%9E%E5%88%80%E7%A0%8D%E5%82%B72%E5%90%8D%E5%AD%90%E5%A5%B3-%E8%AA%8D%E7%BD%AA%E5%88%A4%E5%85%A5%E7%8D%846%E5%80%8B%E6%9C%88",
     "timestamp": "2026-04-24T23:51:46.578Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "殘障父怒斥不幫忙做家務！揮斬雞刀砍傷2名子女　認罪判入獄6個月",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260423/1123818614915338240762803.png/aCjpH9XQRZJkqf1VpqRjAKN1_72SCBylO5XJCzuVyQs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E8%A9%B1%E9%A1%8C/60342537/%E6%AE%98%E9%9A%9C%E7%88%B6%E6%80%92%E6%96%A5%E4%B8%8D%E5%B9%AB%E5%BF%99%E5%81%9A%E5%AE%B6%E5%8B%99-%E6%8F%AE%E6%96%AC%E9%9B%9E%E5%88%80%E7%A0%8D%E5%82%B72%E5%90%8D%E5%AD%90%E5%A5%B3-%E8%AA%8D%E7%BD%AA%E5%88%A4%E5%85%A5%E7%8D%846%E5%80%8B%E6%9C%88",
-    "timestamp": "2026-04-24T23:24:32.983Z",
     "strategy": ".content-card__main"
   }
 ];
