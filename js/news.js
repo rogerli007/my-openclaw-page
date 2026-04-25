@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-25T01:44:59.586Z
+// Last updated: 2026-04-25T02:45:08.311Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "魔音女團丨16位資料相曝光　莊子璇戴后冠搶鏡、盧映彤獲讚有仙氣",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260424/1124394911173447680731598.jpeg/FrZT0ZxF-oD0x6w7FAemx8bIMWKgYBBelxygY5ccoGM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60343607/%E9%AD%94%E9%9F%B3%E5%A5%B3%E5%9C%98-16%E4%BD%8D%E8%B3%87%E6%96%99%E7%9B%B8%E6%9B%9D%E5%85%89-%E8%8E%8A%E5%AD%90%E7%92%87%E6%88%B4%E5%90%8E%E5%86%A0%E6%90%B6%E9%8F%A1-%E7%9B%A7%E6%98%A0%E5%BD%A4%E7%8D%B2%E8%AE%9A%E6%9C%89%E4%BB%99%E6%B0%A3",
+    "timestamp": "2026-04-25T02:45:08.311Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "友邦香港︰新造保單數目連續12年全港第一",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260424/1124407476897189888984102.jpeg/9McFdqHNHwTPL_qnQmfHrE-JXQcfOdrF4BgN7uAYDe4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60343650/%E6%89%8E%E6%A0%B946%E5%B9%B4%E5%88%A9%E8%8B%91%E9%85%92%E5%AE%B6%E6%97%BA%E8%A7%92%E5%BA%974-28%E7%B5%90%E6%A5%AD-%E6%9B%BE%E7%8D%B2%E7%B1%B3%E8%8A%9D%E8%93%AE%E4%BA%8C%E6%98%9F-%E9%9B%86%E5%9C%98%E6%9C%80%E8%80%81%E5%88%86%E5%BA%97",
     "timestamp": "2026-04-24T10:42:21.424Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "施明喪禮前夕李泳豪突公開2022年婚禮片　疑反擊李泳漢指控",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260424/1124397182502309888570839.png/OuGAGb46YbJJrRciS-y2a5vLXZgj5y5R4lrV-eJa1fk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60343595/%E6%96%BD%E6%98%8E%E5%96%AA%E7%A6%AE%E5%89%8D%E5%A4%95%E6%9D%8E%E6%B3%B3%E8%B1%AA%E7%AA%81%E5%85%AC%E9%96%8B2022%E5%B9%B4%E5%A9%9A%E7%A6%AE%E7%89%87-%E7%96%91%E5%8F%8D%E6%93%8A%E6%9D%8E%E6%B3%B3%E6%BC%A2%E6%8C%87%E6%8E%A7",
-    "timestamp": "2026-04-24T10:00:07.432Z",
     "strategy": ".content-card__main"
   }
 ];
