@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-25T14:14:37.113Z
+// Last updated: 2026-04-25T14:35:37.912Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "13歲開始的長期性侵案　70年未改的性罪行法例",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260425/1124672261366747136253168.jpeg/D8nEoPAN-0jY59_i-OknpNE80W5YoeueaPuQ42j7kOM?v=w1920r16_9",
+    "url": "https://www.hk01.com/01%E8%A7%80%E9%BB%9E/60340934/13%E6%AD%B2%E9%96%8B%E5%A7%8B%E7%9A%84%E9%95%B7%E6%9C%9F%E6%80%A7%E4%BE%B5%E6%A1%88-70%E5%B9%B4%E6%9C%AA%E6%94%B9%E7%9A%84%E6%80%A7%E7%BD%AA%E8%A1%8C%E6%B3%95%E4%BE%8B",
+    "timestamp": "2026-04-25T14:35:37.912Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "亡父默默留下18張台積電股票！值逾3000萬新台幣　女兒心情卻複雜",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260211/1098234774884978688246091.png/cavBrYd7CN_c1hURGscgE8Z_8oDt1-9giwNYcIsDWHA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60343751/%E5%8F%8B%E9%82%A6%E9%A6%99%E6%B8%AF-%E6%96%B0%E9%80%A0%E4%BF%9D%E5%96%AE%E6%95%B8%E7%9B%AE%E9%80%A3%E7%BA%8C12%E5%B9%B4%E5%85%A8%E6%B8%AF%E7%AC%AC%E4%B8%80",
     "timestamp": "2026-04-25T01:44:59.586Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "林漪娸慶祝67歲生日狀態極佳　練氣功逾20年保養凍齡傳可隔空療傷",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260425/1124521384274300928741562.jpeg/eBmTaRRSv-J2t8OrQLAL59RSOLhw4dAsG1_28Btf9vA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60343238/%E6%9E%97%E6%BC%AA%E5%A8%B8%E6%85%B6%E7%A5%9D67%E6%AD%B2%E7%94%9F%E6%97%A5%E7%8B%80%E6%85%8B%E6%A5%B5%E4%BD%B3-%E7%B7%B4%E6%B0%A3%E5%8A%9F%E9%80%BE20%E5%B9%B4%E4%BF%9D%E9%A4%8A%E5%87%8D%E9%BD%A1%E5%82%B3%E5%8F%AF%E9%9A%94%E7%A9%BA%E7%99%82%E5%82%B7",
-    "timestamp": "2026-04-25T00:52:23.008Z",
     "strategy": ".content-card__main"
   }
 ];
