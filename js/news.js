@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-25T11:33:48.548Z
+// Last updated: 2026-04-25T11:55:00.926Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "白宮發言人請產假離崗　傳內閣或輪流代職包括特朗普及萬斯｜有片",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260425/1124764762324865024365784.jpeg/MLVJ5_YwLm_tzOO9JVGvGu9b-y5oWeK49G75FvRu-RY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60343838/%E7%99%BD%E5%AE%AE%E7%99%BC%E8%A8%80%E4%BA%BA%E8%AB%8B%E7%94%A2%E5%81%87%E9%9B%A2%E5%B4%97-%E5%82%B3%E5%85%A7%E9%96%A3%E6%88%96%E8%BC%AA%E6%B5%81%E4%BB%A3%E8%81%B7%E5%8C%85%E6%8B%AC%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%8A%E8%90%AC%E6%96%AF-%E6%9C%89%E7%89%87",
+    "timestamp": "2026-04-25T11:55:00.926Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "宏福苑上樓｜宏仁一家四口愛兔化灰　敗瓦中尋回兩子兒時玉鈪金佛",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260425/1124572230777311232480167.jpeg/aO6Qd6qqn_Sd0PMqZLNZi1EI96Ae_hJfPkEu6D5BLug?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60343740/%E6%9D%B1%E6%B6%8C%E7%9A%84%E5%A3%AB%E7%96%91%E5%A4%A9%E9%9B%A8%E8%B7%AF%E6%BB%91%E5%A4%B1%E6%8E%A7-%E5%89%B7%E4%B8%8A%E8%8A%B1%E6%A7%BD%E7%9F%B3%E5%A3%86-%E5%8F%B8%E6%A9%9F%E7%84%A1%E5%8F%97%E5%82%B7",
     "timestamp": "2026-04-24T21:26:36.003Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "瑞士將重新開放駐伊朗使館",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20251130/1071920721388638208716098.jpeg/xwNSM-jykqmVJNRrqO223d6ZU7PLq65qZj8bAGY_GwA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60343738/%E7%91%9E%E5%A3%AB%E5%B0%87%E9%87%8D%E6%96%B0%E9%96%8B%E6%94%BE%E9%A7%90%E4%BC%8A%E6%9C%97%E4%BD%BF%E9%A4%A8",
-    "timestamp": "2026-04-24T20:52:59.240Z",
     "strategy": ".content-card__main"
   }
 ];
