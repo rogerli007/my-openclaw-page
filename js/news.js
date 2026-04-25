@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-25T21:51:18.528Z
+// Last updated: 2026-04-25T22:19:03.234Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "夏巴茲與伊朗總統通電話　重申巴基斯坦堅定致力維護地區和平",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260402/1116220781160828928174936.jpeg/kogL3PLbFW1Wf5XMfuNdVQdkUtMrvpwRh4tn5IeLZ-Q?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60343913/%E5%A4%8F%E5%B7%B4%E8%8C%B2%E8%88%87%E4%BC%8A%E6%9C%97%E7%B8%BD%E7%B5%B1%E9%80%9A%E9%9B%BB%E8%A9%B1-%E9%87%8D%E7%94%B3%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E5%A0%85%E5%AE%9A%E8%87%B4%E5%8A%9B%E7%B6%AD%E8%AD%B7%E5%9C%B0%E5%8D%80%E5%92%8C%E5%B9%B3",
+    "timestamp": "2026-04-25T22:19:03.234Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "夏巴茲與伊朗總統通電話　重申巴基斯坦堅定致力維護地區和平",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260425/1124770963276173312681524.jpeg/ifkFt8LtN5iFLxolV2vFpQjaqmVBDM35WnC1OlpwtTo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60343842/%E9%80%A3%E7%92%B0%E7%9B%9C17%E9%9C%B2%E5%AE%BF%E8%80%85%E5%AE%B6%E7%95%B6%E5%80%BC-14%E8%90%AC-%E5%85%A9%E5%8D%B0%E5%BA%A6%E8%B3%8A%E8%B8%A9%E5%96%AE%E8%BB%8A%E5%86%8D%E7%8A%AF%E6%A1%88%E6%96%B7%E6%AD%A3%E5%B0%B1%E6%93%92",
     "timestamp": "2026-04-25T11:08:27.570Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "妖魔鬼怪除了恐怖，也有其獨特的溫度《人間異冊》（下）｜開卷樂",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260425/1124768333896355840795284.jpeg/KYS6kN7jmGI9d5lwCmYSjSGrs_v9jHr1OIJr7jiCa-4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%97%9D%E6%96%87/60343851/%E5%A6%96%E9%AD%94%E9%AC%BC%E6%80%AA%E9%99%A4%E4%BA%86%E6%81%90%E6%80%96-%E4%B9%9F%E6%9C%89%E5%85%B6%E7%8D%A8%E7%89%B9%E7%9A%84%E6%BA%AB%E5%BA%A6-%E4%BA%BA%E9%96%93%E7%95%B0%E5%86%8A-%E4%B8%8B-%E9%96%8B%E5%8D%B7%E6%A8%82",
-    "timestamp": "2026-04-25T10:12:23.408Z",
     "strategy": ".content-card__main"
   }
 ];
