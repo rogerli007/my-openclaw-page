@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-25T21:21:02.537Z
+// Last updated: 2026-04-25T21:51:18.528Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "夏巴茲與伊朗總統通電話　重申巴基斯坦堅定致力維護地區和平",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260402/1116220781160828928174936.jpeg/kogL3PLbFW1Wf5XMfuNdVQdkUtMrvpwRh4tn5IeLZ-Q?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60343913/%E5%A4%8F%E5%B7%B4%E8%8C%B2%E8%88%87%E4%BC%8A%E6%9C%97%E7%B8%BD%E7%B5%B1%E9%80%9A%E9%9B%BB%E8%A9%B1-%E9%87%8D%E7%94%B3%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E5%A0%85%E5%AE%9A%E8%87%B4%E5%8A%9B%E7%B6%AD%E8%AD%B7%E5%9C%B0%E5%8D%80%E5%92%8C%E5%B9%B3",
+    "timestamp": "2026-04-25T21:51:18.528Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "英超｜阿仙奴1:0紐卡素",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260425/1124768333896355840795284.jpeg/KYS6kN7jmGI9d5lwCmYSjSGrs_v9jHr1OIJr7jiCa-4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%97%9D%E6%96%87/60343851/%E5%A6%96%E9%AD%94%E9%AC%BC%E6%80%AA%E9%99%A4%E4%BA%86%E6%81%90%E6%80%96-%E4%B9%9F%E6%9C%89%E5%85%B6%E7%8D%A8%E7%89%B9%E7%9A%84%E6%BA%AB%E5%BA%A6-%E4%BA%BA%E9%96%93%E7%95%B0%E5%86%8A-%E4%B8%8B-%E9%96%8B%E5%8D%B7%E6%A8%82",
     "timestamp": "2026-04-25T10:12:23.408Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "賴清德出訪落空　台外長林佳龍以特使身份抵達斯威士蘭",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260425/1124748617081425920218736.jpeg/QNiCGfhfecxsiqny5xlf6uI1cgvTP51XTahfZE2oX2Q?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8F%B0%E7%81%A3%E6%96%B0%E8%81%9E/60343831/%E8%B3%B4%E6%B8%85%E5%BE%B7%E5%87%BA%E8%A8%AA%E8%90%BD%E7%A9%BA-%E5%8F%B0%E5%A4%96%E9%95%B7%E6%9E%97%E4%BD%B3%E9%BE%8D%E4%BB%A5%E7%89%B9%E4%BD%BF%E8%BA%AB%E4%BB%BD%E6%8A%B5%E9%81%94%E6%96%AF%E5%A8%81%E5%A3%AB%E8%98%AD",
-    "timestamp": "2026-04-25T09:40:57.651Z",
     "strategy": ".content-card__main"
   }
 ];
