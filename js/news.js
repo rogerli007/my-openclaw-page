@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-25T17:23:25.054Z
+// Last updated: 2026-04-25T18:25:55.599Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "新華社：伊朗外長或在未來率團返回伊斯蘭堡",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20251116/1066827048120487936653792.jpeg/eS-tYOUonrCNA9yyAXlvGqGwRYPL-7bu7MopVuzKKVY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60343907/%E6%96%B0%E8%8F%AF%E7%A4%BE-%E4%BC%8A%E6%9C%97%E5%A4%96%E9%95%B7%E6%88%96%E5%9C%A8%E6%9C%AA%E4%BE%86%E7%8E%87%E5%9C%98%E8%BF%94%E5%9B%9E%E4%BC%8A%E6%96%AF%E8%98%AD%E5%A0%A1",
+    "timestamp": "2026-04-25T18:25:55.599Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "將軍澳「毒品快餐車」遇截查　警檢逾$5萬大麻花　2男被捕",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260425/1124719332752887808297105.jpeg/xo6ErahW3WizuzKNmqBxv6lx7V9MS5aj7A81Z-wPNWc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60343808/%E8%AD%A6%E8%8D%83%E7%81%A3%E6%8E%83%E9%BB%83%E6%90%97%E6%B7%AB%E7%AA%9F%E6%8B%9838%E6%AD%B2%E5%85%A7%E5%9C%B0%E5%A5%B3-%E6%AA%A2%E9%81%BF%E5%AD%95%E5%A5%97%E7%AD%89",
     "timestamp": "2026-04-25T06:52:41.556Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "藝考圈房思琪案一審　教師杜英哲被控強姦罪　受害20多人最小17歲",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260425/1124661258826551296681453.jpeg/dvq2wADJYFou-bATVYLgVCx1ab0RINmh9QjiqvUI4qo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60343754/%E8%97%9D%E8%80%83%E5%9C%88%E6%88%BF%E6%80%9D%E7%90%AA%E6%A1%88%E4%B8%80%E5%AF%A9-%E6%95%99%E5%B8%AB%E6%9D%9C%E8%8B%B1%E5%93%B2%E8%A2%AB%E6%8E%A7%E5%BC%B7%E5%A7%A6%E7%BD%AA-%E5%8F%97%E5%AE%B320%E5%A4%9A%E4%BA%BA%E6%9C%80%E5%B0%8F17%E6%AD%B2",
-    "timestamp": "2026-04-25T06:20:54.504Z",
     "strategy": ".content-card__main"
   }
 ];
