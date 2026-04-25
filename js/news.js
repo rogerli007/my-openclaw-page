@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-25T14:35:37.912Z
+// Last updated: 2026-04-25T15:07:11.597Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "馬里多地遭遇叛軍襲擊　中國駐馬里使館提醒中國公民暫勿前往",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260425/1124845409378766848297145.jpeg/RgbSpB11NxSTfiQ4R2u9VRNdPP5C1QDUD4gA5A-IAOQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60343894/%E9%A6%AC%E9%87%8C%E5%A4%9A%E5%9C%B0%E9%81%AD%E9%81%87%E5%8F%9B%E8%BB%8D%E8%A5%B2%E6%93%8A-%E4%B8%AD%E5%9C%8B%E9%A7%90%E9%A6%AC%E9%87%8C%E4%BD%BF%E9%A4%A8%E6%8F%90%E9%86%92%E4%B8%AD%E5%9C%8B%E5%85%AC%E6%B0%91%E6%9A%AB%E5%8B%BF%E5%89%8D%E5%BE%80",
+    "timestamp": "2026-04-25T15:07:11.597Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "13歲開始的長期性侵案　70年未改的性罪行法例",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260424/1124394911173447680731598.jpeg/FrZT0ZxF-oD0x6w7FAemx8bIMWKgYBBelxygY5ccoGM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60343607/%E9%AD%94%E9%9F%B3%E5%A5%B3%E5%9C%98-16%E4%BD%8D%E8%B3%87%E6%96%99%E7%9B%B8%E6%9B%9D%E5%85%89-%E8%8E%8A%E5%AD%90%E7%92%87%E6%88%B4%E5%90%8E%E5%86%A0%E6%90%B6%E9%8F%A1-%E7%9B%A7%E6%98%A0%E5%BD%A4%E7%8D%B2%E8%AE%9A%E6%9C%89%E4%BB%99%E6%B0%A3",
     "timestamp": "2026-04-25T02:45:08.311Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "友邦香港︰新造保單數目連續12年全港第一",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260211/1098234774884978688246091.png/cavBrYd7CN_c1hURGscgE8Z_8oDt1-9giwNYcIsDWHA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60343751/%E5%8F%8B%E9%82%A6%E9%A6%99%E6%B8%AF-%E6%96%B0%E9%80%A0%E4%BF%9D%E5%96%AE%E6%95%B8%E7%9B%AE%E9%80%A3%E7%BA%8C12%E5%B9%B4%E5%85%A8%E6%B8%AF%E7%AC%AC%E4%B8%80",
-    "timestamp": "2026-04-25T01:44:59.586Z",
     "strategy": ".content-card__main"
   }
 ];
