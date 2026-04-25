@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-25T10:12:23.408Z
+// Last updated: 2026-04-25T11:08:27.570Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "連環盜17露宿者家當值$14萬　兩印度賊踩單車再犯案斷正就擒",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260425/1124770963276173312681524.jpeg/ifkFt8LtN5iFLxolV2vFpQjaqmVBDM35WnC1OlpwtTo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60343842/%E9%80%A3%E7%92%B0%E7%9B%9C17%E9%9C%B2%E5%AE%BF%E8%80%85%E5%AE%B6%E7%95%B6%E5%80%BC-14%E8%90%AC-%E5%85%A9%E5%8D%B0%E5%BA%A6%E8%B3%8A%E8%B8%A9%E5%96%AE%E8%BB%8A%E5%86%8D%E7%8A%AF%E6%A1%88%E6%96%B7%E6%AD%A3%E5%B0%B1%E6%93%92",
+    "timestamp": "2026-04-25T11:08:27.570Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "妖魔鬼怪除了恐怖，也有其獨特的溫度《人間異冊》（下）｜開卷樂",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20251130/1071920721388638208716098.jpeg/xwNSM-jykqmVJNRrqO223d6ZU7PLq65qZj8bAGY_GwA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60343738/%E7%91%9E%E5%A3%AB%E5%B0%87%E9%87%8D%E6%96%B0%E9%96%8B%E6%94%BE%E9%A7%90%E4%BC%8A%E6%9C%97%E4%BD%BF%E9%A4%A8",
     "timestamp": "2026-04-24T20:25:36.356Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "伊朗媒體：德黑蘭機場將恢復赴華航班",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20230918/780564198890409984876425.jpeg/Mj_fsFK44OBl7b6JZkqB53AfZLgIiFGKqxt5gqsbeYI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60343735/%E4%BC%8A%E6%9C%97%E5%AA%92%E9%AB%94-%E5%BE%B7%E9%BB%91%E8%98%AD%E6%A9%9F%E5%A0%B4%E5%B0%87%E6%81%A2%E5%BE%A9%E8%B5%B4%E8%8F%AF%E8%88%AA%E7%8F%AD",
-    "timestamp": "2026-04-24T19:27:53.812Z",
     "strategy": ".content-card__main"
   }
 ];
