@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-25T16:22:41.253Z
+// Last updated: 2026-04-25T16:53:13.622Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "假官員指示赴港買金粒騙$700萬　警再拘44歲女　累計4人被捕",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260426/1124864259067482112236057.jpeg/cKO-8tWK66r2rR01xH_vVtQ3X9NoezZM-mdkWvpnZFo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60343903/%E5%81%87%E5%AE%98%E5%93%A1%E6%8C%87%E7%A4%BA%E8%B5%B4%E6%B8%AF%E8%B2%B7%E9%87%91%E7%B2%92%E9%A8%99-700%E8%90%AC-%E8%AD%A6%E5%86%8D%E6%8B%9844%E6%AD%B2%E5%A5%B3-%E7%B4%AF%E8%A8%884%E4%BA%BA%E8%A2%AB%E6%8D%95",
+    "timestamp": "2026-04-25T16:53:13.622Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "英超｜熱刺主力傷出取今年首勝　韋斯咸絕殺愛華頓　護級形勢未變",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260410/1119277000360726528593426.jpeg/s-qnEsa9PBHOJArTx6aFO9XeGSo9cjBmm03uY5tN7mM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8F%B0%E7%81%A3%E6%96%B0%E8%81%9E/60343790/%E7%BF%92%E9%84%AD%E6%9C%83-%E6%B0%91%E8%AA%BF-43-%E5%8F%B0%E6%B0%91%E7%9C%BE%E8%AA%8D%E7%82%BA%E6%9C%89%E5%8A%A9%E5%85%A9%E5%B2%B8%E5%92%8C%E5%B9%B3-66-%E6%94%AF%E6%8C%81%E5%85%A9%E5%B2%B8%E6%81%A2%E5%BE%A9%E5%8D%94%E5%95%86",
     "timestamp": "2026-04-25T05:44:30.988Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "台灣男於診所照腸胃鏡後死亡　2幼女致電親戚哭：我們沒爸爸了",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260425/1124676019115003904243869.jpeg/2ekq4fz_lpoQ6A_IysX1gPnsX9do9_tfkGIk1ZBiJNU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8F%B0%E7%81%A3%E6%96%B0%E8%81%9E/60343772/%E5%8F%B0%E7%81%A3%E7%94%B7%E6%96%BC%E8%A8%BA%E6%89%80%E7%85%A7%E8%85%B8%E8%83%83%E9%8F%A1%E5%BE%8C%E6%AD%BB%E4%BA%A1-2%E5%B9%BC%E5%A5%B3%E8%87%B4%E9%9B%BB%E8%A6%AA%E6%88%9A%E5%93%AD-%E6%88%91%E5%80%91%E6%B2%92%E7%88%B8%E7%88%B8%E4%BA%86",
-    "timestamp": "2026-04-25T04:59:40.551Z",
     "strategy": ".content-card__main"
   }
 ];
