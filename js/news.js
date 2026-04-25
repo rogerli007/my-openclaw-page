@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-25T06:52:41.556Z
+// Last updated: 2026-04-25T07:39:39.773Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "傳奧運冠軍、中國羽協主席張軍失聯超過10日　內媒指被紀檢調查",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260425/1124708381030879232562831.jpeg/WM5mApcagaPVsYCg4_sKJucYYIp0SWfAN-FwXTfhcF0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60343798/%E5%82%B3%E5%A5%A7%E9%81%8B%E5%86%A0%E8%BB%8D-%E4%B8%AD%E5%9C%8B%E7%BE%BD%E5%8D%94%E4%B8%BB%E5%B8%AD%E5%BC%B5%E8%BB%8D%E5%A4%B1%E8%81%AF%E8%B6%85%E9%81%8E10%E6%97%A5-%E5%85%A7%E5%AA%92%E6%8C%87%E8%A2%AB%E7%B4%80%E6%AA%A2%E8%AA%BF%E6%9F%A5",
+    "timestamp": "2026-04-25T07:39:39.773Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "警荃灣掃黃搗淫窟拘38歲內地女　檢避孕套等",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260424/1124381913033740288263791.jpeg/iiFMZ2vohXeFUVT3Q7dQNIzW4bGf9gtr6vKZROrymUQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60342797/dyson-supersonic-travel%E6%97%85%E8%A1%8C%E9%A2%A8%E7%AD%92-330g%E8%B6%85%E8%BC%95%E9%87%8F-%E5%85%A8%E7%90%83%E9%9B%BB%E5%A3%93%E5%A4%96%E9%81%8A%E5%BF%85%E5%82%99",
     "timestamp": "2026-04-24T16:31:47.331Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美國對伊朗戰事花費巨大　美媒：日均近10億美元",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260305/1106296111053672448763254.jpeg/qxArdG3OBAwk2LDK7PkX0nYQpWdw4YbBlD0L55Q9C-c?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60343722/%E7%BE%8E%E5%9C%8B%E5%B0%8D%E4%BC%8A%E6%9C%97%E6%88%B0%E4%BA%8B%E8%8A%B1%E8%B2%BB%E5%B7%A8%E5%A4%A7-%E7%BE%8E%E5%AA%92-%E6%97%A5%E5%9D%87%E8%BF%9110%E5%84%84%E7%BE%8E%E5%85%83",
-    "timestamp": "2026-04-24T15:18:13.572Z",
     "strategy": ".content-card__main"
   }
 ];
