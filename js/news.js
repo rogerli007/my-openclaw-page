@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-25T07:39:39.773Z
+// Last updated: 2026-04-25T08:39:56.405Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "伊朗外長抵伊斯蘭堡　先後會面巴基斯坦外長及陸軍參謀長",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260425/1124745272753131520524917.jpeg/6Ktey3GhlHSbzocui69bstD11UJrBc24coFETXKBRE0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60343810/%E4%BC%8A%E6%9C%97%E5%A4%96%E9%95%B7%E6%8A%B5%E4%BC%8A%E6%96%AF%E8%98%AD%E5%A0%A1-%E5%85%88%E5%BE%8C%E6%9C%83%E9%9D%A2%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E5%A4%96%E9%95%B7%E5%8F%8A%E9%99%B8%E8%BB%8D%E5%8F%83%E8%AC%80%E9%95%B7",
+    "timestamp": "2026-04-25T08:39:56.405Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "傳奧運冠軍、中國羽協主席張軍失聯超過10日　內媒指被紀檢調查",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260425/1124501683439669248802463.jpeg/QTL-efc6Qv6iS_6cu331Xw9Sd9ekmK3UCbf-Kwm3_is?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60343730/%E5%8F%A4%E5%A4%A9%E6%A8%82%E9%A9%9A%E5%96%9C%E5%AE%A3%E5%B8%83%E8%88%87%E5%AE%A3%E8%90%B1%E6%8E%A8%E5%87%BA%E5%90%88%E5%94%B1%E6%AD%8C-%E9%A0%90%E5%91%8A%E5%91%A8%E6%97%A5%E5%90%88%E9%AB%94%E9%96%8Blive-%E5%88%B0%E6%99%82%E8%A6%8B",
     "timestamp": "2026-04-24T17:29:41.896Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "Dyson Supersonic Travel旅行風筒｜330g超輕量 全球電壓外遊必備",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260424/1124381913033740288263791.jpeg/iiFMZ2vohXeFUVT3Q7dQNIzW4bGf9gtr6vKZROrymUQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60342797/dyson-supersonic-travel%E6%97%85%E8%A1%8C%E9%A2%A8%E7%AD%92-330g%E8%B6%85%E8%BC%95%E9%87%8F-%E5%85%A8%E7%90%83%E9%9B%BB%E5%A3%93%E5%A4%96%E9%81%8A%E5%BF%85%E5%82%99",
-    "timestamp": "2026-04-24T16:31:47.331Z",
     "strategy": ".content-card__main"
   }
 ];
