@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-25T05:44:30.988Z
+// Last updated: 2026-04-25T06:20:54.504Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "藝考圈房思琪案一審　教師杜英哲被控強姦罪　受害20多人最小17歲",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260425/1124661258826551296681453.jpeg/dvq2wADJYFou-bATVYLgVCx1ab0RINmh9QjiqvUI4qo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60343754/%E8%97%9D%E8%80%83%E5%9C%88%E6%88%BF%E6%80%9D%E7%90%AA%E6%A1%88%E4%B8%80%E5%AF%A9-%E6%95%99%E5%B8%AB%E6%9D%9C%E8%8B%B1%E5%93%B2%E8%A2%AB%E6%8E%A7%E5%BC%B7%E5%A7%A6%E7%BD%AA-%E5%8F%97%E5%AE%B320%E5%A4%9A%E4%BA%BA%E6%9C%80%E5%B0%8F17%E6%AD%B2",
+    "timestamp": "2026-04-25T06:20:54.504Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "習鄭會｜民調：43%台民眾認為有助兩岸和平，66%支持兩岸恢復協商",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260424/1124450487135899648024163.jpeg/wi27fWKJzJL0mo6i5dx9YYqWl8U2V8zgc0Pd8nND3fI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60343697/%E9%87%91%E5%83%8F%E7%8D%8E2026-%E9%80%A3%E8%A9%A9%E9%9B%85%E6%BE%84%E6%B8%85%E5%86%87%E9%BB%91%E9%9D%A2-%E4%BA%A4%E7%B7%8A%E6%88%B2%E6%9C%89%E5%B1%A4%E6%AC%A1-%E7%94%B1%E5%85%A7%E5%88%B0%E5%A4%96%E5%86%8D%E5%88%B0%E8%BF%94%E5%85%A7",
     "timestamp": "2026-04-24T14:02:30.131Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "宏福苑上樓｜廿幾住到71　宏仁老街坊抬走65吋大電視　疑外幣失竊",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260424/1124446821096099840620547.jpeg/dg-FJR2qKRXD1quvIG2CjsXEVTU3a5uo2jnIouA5yKI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60343683/%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%B8%8A%E6%A8%93-%E5%BB%BF%E5%B9%BE%E4%BD%8F%E5%88%B071-%E5%AE%8F%E4%BB%81%E8%80%81%E8%A1%97%E5%9D%8A%E6%8A%AC%E8%B5%B065%E5%90%8B%E5%A4%A7%E9%9B%BB%E8%A6%96-%E7%96%91%E5%A4%96%E5%B9%A3%E5%A4%B1%E7%AB%8A",
-    "timestamp": "2026-04-24T13:16:41.661Z",
     "strategy": ".content-card__main"
   }
 ];
