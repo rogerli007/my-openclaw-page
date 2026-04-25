@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-25T09:11:41.618Z
+// Last updated: 2026-04-25T09:40:57.651Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "賴清德出訪落空　台外長林佳龍以特使身份抵達斯威士蘭",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260425/1124748617081425920218736.jpeg/QNiCGfhfecxsiqny5xlf6uI1cgvTP51XTahfZE2oX2Q?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8F%B0%E7%81%A3%E6%96%B0%E8%81%9E/60343831/%E8%B3%B4%E6%B8%85%E5%BE%B7%E5%87%BA%E8%A8%AA%E8%90%BD%E7%A9%BA-%E5%8F%B0%E5%A4%96%E9%95%B7%E6%9E%97%E4%BD%B3%E9%BE%8D%E4%BB%A5%E7%89%B9%E4%BD%BF%E8%BA%AB%E4%BB%BD%E6%8A%B5%E9%81%94%E6%96%AF%E5%A8%81%E5%A3%AB%E8%98%AD",
+    "timestamp": "2026-04-25T09:40:57.651Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "世界盃2026｜二手平台賣決賽「黃牛飛」　一張索價1800萬惹議",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260425/1124532509292367872540793.jpeg/ztYicui08SZwyf1B-llP_gK6qMiHdFXVioq4W7CKuFs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60343734/%E9%95%B7%E6%B2%99%E7%81%A3%E6%80%A1%E9%96%A3%E8%8B%91%E5%96%AE%E4%BD%8D%E9%81%AD%E7%88%86%E7%AB%8A-73%E6%AD%B2%E5%A5%B3%E6%90%8D%E5%A4%B1%E9%80%BE-50%E8%90%AC%E8%B2%A1%E7%89%A9-%E8%AD%A6%E8%BF%BD%E7%B7%9D%E8%B3%8A%E4%BA%BA",
     "timestamp": "2026-04-24T18:26:16.324Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "王毅：中方歷來主張通過對話而非武力解決國與國分歧",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20251230/1082717903490387968428079.jpeg/X9-VP3zmaFUxYPN71j9mQ1dxUJ5JWB2S-J-bNPifmzQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60343733/%E7%8E%8B%E6%AF%85-%E4%B8%AD%E6%96%B9%E6%AD%B7%E4%BE%86%E4%B8%BB%E5%BC%B5%E9%80%9A%E9%81%8E%E5%B0%8D%E8%A9%B1%E8%80%8C%E9%9D%9E%E6%AD%A6%E5%8A%9B%E8%A7%A3%E6%B1%BA%E5%9C%8B%E8%88%87%E5%9C%8B%E5%88%86%E6%AD%A7",
-    "timestamp": "2026-04-24T17:54:04.757Z",
     "strategy": ".content-card__main"
   }
 ];
