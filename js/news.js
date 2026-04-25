@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-25T16:53:13.622Z
+// Last updated: 2026-04-25T17:23:25.054Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "將軍澳「毒品快餐車」遇截查　警檢逾$5萬大麻花　2男被捕",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260426/1124877784250847232431708.jpeg/XD2gHW8YYGTe1hCxW9Tszjj1oSTfINYTDac7nQ2nO50?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60343906/%E5%B0%87%E8%BB%8D%E6%BE%B3-%E6%AF%92%E5%93%81%E5%BF%AB%E9%A4%90%E8%BB%8A-%E9%81%87%E6%88%AA%E6%9F%A5-%E8%AD%A6%E6%AA%A2%E9%80%BE-5%E8%90%AC%E5%A4%A7%E9%BA%BB%E8%8A%B1-2%E7%94%B7%E8%A2%AB%E6%8D%95",
+    "timestamp": "2026-04-25T17:23:25.054Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "假官員指示赴港買金粒騙$700萬　警再拘44歲女　累計4人被捕",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260425/1124661258826551296681453.jpeg/dvq2wADJYFou-bATVYLgVCx1ab0RINmh9QjiqvUI4qo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60343754/%E8%97%9D%E8%80%83%E5%9C%88%E6%88%BF%E6%80%9D%E7%90%AA%E6%A1%88%E4%B8%80%E5%AF%A9-%E6%95%99%E5%B8%AB%E6%9D%9C%E8%8B%B1%E5%93%B2%E8%A2%AB%E6%8E%A7%E5%BC%B7%E5%A7%A6%E7%BD%AA-%E5%8F%97%E5%AE%B320%E5%A4%9A%E4%BA%BA%E6%9C%80%E5%B0%8F17%E6%AD%B2",
     "timestamp": "2026-04-25T06:20:54.504Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "習鄭會｜民調：43%台民眾認為有助兩岸和平，66%支持兩岸恢復協商",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260410/1119277000360726528593426.jpeg/s-qnEsa9PBHOJArTx6aFO9XeGSo9cjBmm03uY5tN7mM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8F%B0%E7%81%A3%E6%96%B0%E8%81%9E/60343790/%E7%BF%92%E9%84%AD%E6%9C%83-%E6%B0%91%E8%AA%BF-43-%E5%8F%B0%E6%B0%91%E7%9C%BE%E8%AA%8D%E7%82%BA%E6%9C%89%E5%8A%A9%E5%85%A9%E5%B2%B8%E5%92%8C%E5%B9%B3-66-%E6%94%AF%E6%8C%81%E5%85%A9%E5%B2%B8%E6%81%A2%E5%BE%A9%E5%8D%94%E5%95%86",
-    "timestamp": "2026-04-25T05:44:30.988Z",
     "strategy": ".content-card__main"
   }
 ];
