@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-24T23:51:46.578Z
+// Last updated: 2026-04-25T00:52:23.008Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "林漪娸慶祝67歲生日狀態極佳　練氣功逾20年保養凍齡傳可隔空療傷",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260425/1124521384274300928741562.jpeg/eBmTaRRSv-J2t8OrQLAL59RSOLhw4dAsG1_28Btf9vA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60343238/%E6%9E%97%E6%BC%AA%E5%A8%B8%E6%85%B6%E7%A5%9D67%E6%AD%B2%E7%94%9F%E6%97%A5%E7%8B%80%E6%85%8B%E6%A5%B5%E4%BD%B3-%E7%B7%B4%E6%B0%A3%E5%8A%9F%E9%80%BE20%E5%B9%B4%E4%BF%9D%E9%A4%8A%E5%87%8D%E9%BD%A1%E5%82%B3%E5%8F%AF%E9%9A%94%E7%A9%BA%E7%99%82%E5%82%B7",
+    "timestamp": "2026-04-25T00:52:23.008Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "殘障父怒斥不幫忙做家務！揮斬雞刀砍傷2名子女　認罪判入獄6個月",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260424/1124395727464697856832657.png/ZMPT6jXditoUOBS6s3yXEeEhGcrwTJHLtLzssLS87LA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60343512/%E6%97%A5%E6%9C%AC%E5%B2%A9%E6%89%8B%E7%B8%A3%E5%A4%A7%E5%B1%B1%E7%81%AB-%E7%81%AB%E5%A0%B4%E9%9D%A2%E7%A9%8D%E7%B4%8461%E5%80%8B%E7%B6%AD%E5%9C%92-%E6%B6%88%E9%98%B2%E9%9A%8A%E5%8F%8A%E8%87%AA%E8%A1%9B%E9%9A%8A%E9%99%B8%E7%A9%BA%E6%95%91%E7%81%AB",
     "timestamp": "2026-04-24T09:18:00.694Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "施明喪禮懶人包丨李泳豪喊到眼腫寸步不離老父　泳漢一家五口致哀",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260424/1124378560744656896301879.png/qH6nHTvWfkcW3Fnn1z4d3ZaXUx7XKN5--TOMIfkzjCE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60343526/%E6%96%BD%E6%98%8E%E5%96%AA%E7%A6%AE%E6%87%B6%E4%BA%BA%E5%8C%85-%E6%9D%8E%E6%B3%B3%E8%B1%AA%E5%96%8A%E5%88%B0%E7%9C%BC%E8%85%AB%E5%AF%B8%E6%AD%A5%E4%B8%8D%E9%9B%A2%E8%80%81%E7%88%B6-%E6%B3%B3%E6%BC%A2%E4%B8%80%E5%AE%B6%E4%BA%94%E5%8F%A3%E8%87%B4%E5%93%80",
-    "timestamp": "2026-04-24T08:34:53.985Z",
     "strategy": ".content-card__main"
   }
 ];
