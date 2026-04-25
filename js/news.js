@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-25T11:08:27.570Z
+// Last updated: 2026-04-25T11:33:48.548Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "宏福苑上樓｜宏仁一家四口愛兔化灰　敗瓦中尋回兩子兒時玉鈪金佛",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260425/1124778715792805888861409.jpeg/o6WqlB_95ayhTih1IKl0jqrpijgabn7X2qbB-Nqmwfg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60343855/%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%B8%8A%E6%A8%93-%E5%AE%8F%E4%BB%81%E4%B8%80%E5%AE%B6%E5%9B%9B%E5%8F%A3%E6%84%9B%E5%85%94%E5%8C%96%E7%81%B0-%E6%95%97%E7%93%A6%E4%B8%AD%E5%B0%8B%E5%9B%9E%E5%85%A9%E5%AD%90%E5%85%92%E6%99%82%E7%8E%89%E9%88%AA%E9%87%91%E4%BD%9B",
+    "timestamp": "2026-04-25T11:33:48.548Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "連環盜17露宿者家當值$14萬　兩印度賊踩單車再犯案斷正就擒",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20251130/1071920721388638208716098.jpeg/xwNSM-jykqmVJNRrqO223d6ZU7PLq65qZj8bAGY_GwA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60343738/%E7%91%9E%E5%A3%AB%E5%B0%87%E9%87%8D%E6%96%B0%E9%96%8B%E6%94%BE%E9%A7%90%E4%BC%8A%E6%9C%97%E4%BD%BF%E9%A4%A8",
     "timestamp": "2026-04-24T20:52:59.240Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "瑞士將重新開放駐伊朗使館",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20251130/1071920721388638208716098.jpeg/xwNSM-jykqmVJNRrqO223d6ZU7PLq65qZj8bAGY_GwA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60343738/%E7%91%9E%E5%A3%AB%E5%B0%87%E9%87%8D%E6%96%B0%E9%96%8B%E6%94%BE%E9%A7%90%E4%BC%8A%E6%9C%97%E4%BD%BF%E9%A4%A8",
-    "timestamp": "2026-04-24T20:25:36.356Z",
     "strategy": ".content-card__main"
   }
 ];
