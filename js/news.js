@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-25T11:55:00.926Z
+// Last updated: 2026-04-25T12:27:59.280Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "警少訊聯同浸大舉行AI比賽　周一鳴冀學員探索科技可能性",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260425/1124796655967670272947520.jpeg/XzqxIg29sm-cC-dHJ-zcGgyOVcvfA4bvA3fWtQN31rU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60343866/%E8%AD%A6%E5%B0%91%E8%A8%8A%E8%81%AF%E5%90%8C%E6%B5%B8%E5%A4%A7%E8%88%89%E8%A1%8Cai%E6%AF%94%E8%B3%BD-%E5%91%A8%E4%B8%80%E9%B3%B4%E5%86%80%E5%AD%B8%E5%93%A1%E6%8E%A2%E7%B4%A2%E7%A7%91%E6%8A%80%E5%8F%AF%E8%83%BD%E6%80%A7",
+    "timestamp": "2026-04-25T12:27:59.280Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "白宮發言人請產假離崗　傳內閣或輪流代職包括特朗普及萬斯｜有片",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260419/1122563502595117056346958.png/Bq6Qv31usP8gshn_kp7wBdzoxBNbJRgpnw4h-58OIfs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60343742/%E4%BC%8A%E6%9C%97-%E5%85%A9%E8%89%98%E8%B2%A8%E8%88%B9%E8%A2%AB%E6%89%A3-%E4%B8%80%E8%89%98%E6%B6%89%E5%AB%8C%E8%88%87%E7%BE%8E%E8%BB%8D%E5%90%88%E4%BD%9C",
     "timestamp": "2026-04-24T22:52:14.636Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "東涌的士疑天雨路滑失控　剷上花槽石壆　司機無受傷",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260425/1124572230777311232480167.jpeg/aO6Qd6qqn_Sd0PMqZLNZi1EI96Ae_hJfPkEu6D5BLug?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60343740/%E6%9D%B1%E6%B6%8C%E7%9A%84%E5%A3%AB%E7%96%91%E5%A4%A9%E9%9B%A8%E8%B7%AF%E6%BB%91%E5%A4%B1%E6%8E%A7-%E5%89%B7%E4%B8%8A%E8%8A%B1%E6%A7%BD%E7%9F%B3%E5%A3%86-%E5%8F%B8%E6%A9%9F%E7%84%A1%E5%8F%97%E5%82%B7",
-    "timestamp": "2026-04-24T21:26:36.003Z",
     "strategy": ".content-card__main"
   }
 ];
