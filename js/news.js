@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-25T00:52:23.008Z
+// Last updated: 2026-04-25T01:44:59.586Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "友邦香港︰新造保單數目連續12年全港第一",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260211/1098234774884978688246091.png/cavBrYd7CN_c1hURGscgE8Z_8oDt1-9giwNYcIsDWHA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60343751/%E5%8F%8B%E9%82%A6%E9%A6%99%E6%B8%AF-%E6%96%B0%E9%80%A0%E4%BF%9D%E5%96%AE%E6%95%B8%E7%9B%AE%E9%80%A3%E7%BA%8C12%E5%B9%B4%E5%85%A8%E6%B8%AF%E7%AC%AC%E4%B8%80",
+    "timestamp": "2026-04-25T01:44:59.586Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "林漪娸慶祝67歲生日狀態極佳　練氣功逾20年保養凍齡傳可隔空療傷",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260424/1124397182502309888570839.png/OuGAGb46YbJJrRciS-y2a5vLXZgj5y5R4lrV-eJa1fk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60343595/%E6%96%BD%E6%98%8E%E5%96%AA%E7%A6%AE%E5%89%8D%E5%A4%95%E6%9D%8E%E6%B3%B3%E8%B1%AA%E7%AA%81%E5%85%AC%E9%96%8B2022%E5%B9%B4%E5%A9%9A%E7%A6%AE%E7%89%87-%E7%96%91%E5%8F%8D%E6%93%8A%E6%9D%8E%E6%B3%B3%E6%BC%A2%E6%8C%87%E6%8E%A7",
     "timestamp": "2026-04-24T10:00:07.432Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "日本岩手縣大山火！火場面積約61個維園　消防隊及自衛隊陸空救火",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260424/1124395727464697856832657.png/ZMPT6jXditoUOBS6s3yXEeEhGcrwTJHLtLzssLS87LA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60343512/%E6%97%A5%E6%9C%AC%E5%B2%A9%E6%89%8B%E7%B8%A3%E5%A4%A7%E5%B1%B1%E7%81%AB-%E7%81%AB%E5%A0%B4%E9%9D%A2%E7%A9%8D%E7%B4%8461%E5%80%8B%E7%B6%AD%E5%9C%92-%E6%B6%88%E9%98%B2%E9%9A%8A%E5%8F%8A%E8%87%AA%E8%A1%9B%E9%9A%8A%E9%99%B8%E7%A9%BA%E6%95%91%E7%81%AB",
-    "timestamp": "2026-04-24T09:18:00.694Z",
     "strategy": ".content-card__main"
   }
 ];
