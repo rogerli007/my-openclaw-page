@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-25T22:37:23.667Z
+// Last updated: 2026-04-25T23:51:49.410Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "車資肉償？美女乘客脫衣強行摸下體　的士司機神應對獲讚：好男人",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260423/1124034797933432832893240.jpeg/YJsF1P_KVsCX1NB7UzHBlYd9BUxmSo01mCHepJgh3qQ",
+    "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E8%A9%B1%E9%A1%8C/60343276/%E8%BB%8A%E8%B3%87%E8%82%89%E5%84%9F-%E7%BE%8E%E5%A5%B3%E4%B9%98%E5%AE%A2%E8%84%AB%E8%A1%A3%E5%BC%B7%E8%A1%8C%E6%91%B8%E4%B8%8B%E9%AB%94-%E7%9A%84%E5%A3%AB%E5%8F%B8%E6%A9%9F%E6%87%89%E5%B0%8D%E7%8D%B2%E6%BF%80%E8%AE%9A-%E5%A5%BD%E7%94%B7%E4%BA%BA",
+    "timestamp": "2026-04-25T23:51:49.410Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "深水埗菜檔男東主店內暈倒　昏迷送院搶救不治",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260425/1124764762324865024365784.jpeg/MLVJ5_YwLm_tzOO9JVGvGu9b-y5oWeK49G75FvRu-RY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60343838/%E7%99%BD%E5%AE%AE%E7%99%BC%E8%A8%80%E4%BA%BA%E8%AB%8B%E7%94%A2%E5%81%87%E9%9B%A2%E5%B4%97-%E5%82%B3%E5%85%A7%E9%96%A3%E6%88%96%E8%BC%AA%E6%B5%81%E4%BB%A3%E8%81%B7%E5%8C%85%E6%8B%AC%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%8A%E8%90%AC%E6%96%AF-%E6%9C%89%E7%89%87",
     "timestamp": "2026-04-25T11:55:00.926Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "宏福苑上樓｜宏仁一家四口愛兔化灰　敗瓦中尋回兩子兒時玉鈪金佛",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260425/1124778715792805888861409.jpeg/o6WqlB_95ayhTih1IKl0jqrpijgabn7X2qbB-Nqmwfg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60343855/%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%B8%8A%E6%A8%93-%E5%AE%8F%E4%BB%81%E4%B8%80%E5%AE%B6%E5%9B%9B%E5%8F%A3%E6%84%9B%E5%85%94%E5%8C%96%E7%81%B0-%E6%95%97%E7%93%A6%E4%B8%AD%E5%B0%8B%E5%9B%9E%E5%85%A9%E5%AD%90%E5%85%92%E6%99%82%E7%8E%89%E9%88%AA%E9%87%91%E4%BD%9B",
-    "timestamp": "2026-04-25T11:33:48.548Z",
     "strategy": ".content-card__main"
   }
 ];
