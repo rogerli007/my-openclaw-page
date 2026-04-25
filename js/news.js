@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-25T09:40:57.651Z
+// Last updated: 2026-04-25T10:12:23.408Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "妖魔鬼怪除了恐怖，也有其獨特的溫度《人間異冊》（下）｜開卷樂",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260425/1124768333896355840795284.jpeg/KYS6kN7jmGI9d5lwCmYSjSGrs_v9jHr1OIJr7jiCa-4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%97%9D%E6%96%87/60343851/%E5%A6%96%E9%AD%94%E9%AC%BC%E6%80%AA%E9%99%A4%E4%BA%86%E6%81%90%E6%80%96-%E4%B9%9F%E6%9C%89%E5%85%B6%E7%8D%A8%E7%89%B9%E7%9A%84%E6%BA%AB%E5%BA%A6-%E4%BA%BA%E9%96%93%E7%95%B0%E5%86%8A-%E4%B8%8B-%E9%96%8B%E5%8D%B7%E6%A8%82",
+    "timestamp": "2026-04-25T10:12:23.408Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "賴清德出訪落空　台外長林佳龍以特使身份抵達斯威士蘭",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20230918/780564198890409984876425.jpeg/Mj_fsFK44OBl7b6JZkqB53AfZLgIiFGKqxt5gqsbeYI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60343735/%E4%BC%8A%E6%9C%97%E5%AA%92%E9%AB%94-%E5%BE%B7%E9%BB%91%E8%98%AD%E6%A9%9F%E5%A0%B4%E5%B0%87%E6%81%A2%E5%BE%A9%E8%B5%B4%E8%8F%AF%E8%88%AA%E7%8F%AD",
     "timestamp": "2026-04-24T19:27:53.812Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "長沙灣怡閣苑單位遭爆竊　73歲女損失逾$50萬財物　警追緝賊人",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260425/1124532509292367872540793.jpeg/ztYicui08SZwyf1B-llP_gK6qMiHdFXVioq4W7CKuFs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60343734/%E9%95%B7%E6%B2%99%E7%81%A3%E6%80%A1%E9%96%A3%E8%8B%91%E5%96%AE%E4%BD%8D%E9%81%AD%E7%88%86%E7%AB%8A-73%E6%AD%B2%E5%A5%B3%E6%90%8D%E5%A4%B1%E9%80%BE-50%E8%90%AC%E8%B2%A1%E7%89%A9-%E8%AD%A6%E8%BF%BD%E7%B7%9D%E8%B3%8A%E4%BA%BA",
-    "timestamp": "2026-04-24T18:26:16.324Z",
     "strategy": ".content-card__main"
   }
 ];
