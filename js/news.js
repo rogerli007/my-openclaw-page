@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-26T19:53:15.070Z
+// Last updated: 2026-04-26T20:22:37.424Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美國印第安納州槍擊案9人傷　疑因爭執引起",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260427/1125282753274056704045793.jpeg/ozbEMsCAbWF7hAzy7_O-nlueJjDqHhOkQoSC-EKEgvg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60344075/%E7%BE%8E%E5%9C%8B%E5%8D%B0%E7%AC%AC%E5%AE%89%E7%B4%8D%E5%B7%9E%E6%A7%8D%E6%93%8A%E6%A1%889%E4%BA%BA%E5%82%B7-%E7%96%91%E5%9B%A0%E7%88%AD%E5%9F%B7%E5%BC%95%E8%B5%B7",
+    "timestamp": "2026-04-26T20:22:37.424Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "白宮記者晚宴槍擊｜槍手宣言曝光：目標特朗普政府官員　嘲保安差",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260426/1125112165217341440483059.jpeg/yz2gttgycSTb8YaeLCAiiNbN4n8pjmKwDEQ-swxEPrM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60343997/%E6%9F%8F%E5%82%B2%E8%8E%8Aiii%E5%91%A8%E5%9B%9B%E5%83%B9%E5%96%AE%E5%86%8D%E8%B3%A345%E4%BC%99-%E5%85%A5%E5%A0%B4%E8%B2%BB921-6%E8%90%AC-%E5%91%8E%E5%83%B92-56%E8%90%AC%E8%B5%B7",
     "timestamp": "2026-04-26T08:48:11.896Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "愉景灣中年漢單位暈倒　家人揭發惜返魂乏術",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260206/1096501181242413056723495.jpeg/ftxkRaaq73gBNDyV-acFKDpGrSY8XqHMYIxvZWCMb2U?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60343985/%E6%84%89%E6%99%AF%E7%81%A3%E4%B8%AD%E5%B9%B4%E6%BC%A2%E5%96%AE%E4%BD%8D%E6%9A%88%E5%80%92-%E5%AE%B6%E4%BA%BA%E6%8F%AD%E7%99%BC%E6%83%9C%E8%BF%94%E9%AD%82%E4%B9%8F%E8%A1%93",
-    "timestamp": "2026-04-26T07:41:44.448Z",
     "strategy": ".content-card__main"
   }
 ];
