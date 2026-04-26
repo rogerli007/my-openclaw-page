@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-26T10:36:27.238Z
+// Last updated: 2026-04-26T11:07:57.910Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "陳展鵬迷上新興運動Pickleball　網民一留言吸Like數竟超原Po四倍",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260426/1125073576496467968543170.jpeg/SfXmJGw6w8kqgjPoUD6WuBUWEIkBrZ0yu5I9druSPXY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60343963/%E9%99%B3%E5%B1%95%E9%B5%AC%E8%BF%B7%E4%B8%8A%E6%96%B0%E8%88%88%E9%81%8B%E5%8B%95pickleball-%E7%B6%B2%E6%B0%91%E4%B8%80%E7%95%99%E8%A8%80%E5%90%B8like%E6%95%B8%E7%AB%9F%E8%B6%85%E5%8E%9Fpo%E5%9B%9B%E5%80%8D",
+    "timestamp": "2026-04-26T11:07:57.910Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "長洲太平清醮｜飄色巡遊訴油價高企、「大圍收」諷圍標　冀喚關注",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20251116/1066827048120487936653792.jpeg/eS-tYOUonrCNA9yyAXlvGqGwRYPL-7bu7MopVuzKKVY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60343907/%E6%96%B0%E8%8F%AF%E7%A4%BE-%E4%BC%8A%E6%9C%97%E5%A4%96%E9%95%B7%E6%88%96%E5%9C%A8%E6%9C%AA%E4%BE%86%E7%8E%87%E5%9C%98%E8%BF%94%E5%9B%9E%E4%BC%8A%E6%96%AF%E8%98%AD%E5%A0%A1",
     "timestamp": "2026-04-25T18:25:55.599Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "將軍澳「毒品快餐車」遇截查　警檢逾$5萬大麻花　2男被捕",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260426/1124877784250847232431708.jpeg/XD2gHW8YYGTe1hCxW9Tszjj1oSTfINYTDac7nQ2nO50?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60343906/%E5%B0%87%E8%BB%8D%E6%BE%B3-%E6%AF%92%E5%93%81%E5%BF%AB%E9%A4%90%E8%BB%8A-%E9%81%87%E6%88%AA%E6%9F%A5-%E8%AD%A6%E6%AA%A2%E9%80%BE-5%E8%90%AC%E5%A4%A7%E9%BA%BB%E8%8A%B1-2%E7%94%B7%E8%A2%AB%E6%8D%95",
-    "timestamp": "2026-04-25T17:23:25.054Z",
     "strategy": ".content-card__main"
   }
 ];
