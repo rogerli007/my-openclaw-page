@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-26T17:51:53.718Z
+// Last updated: 2026-04-26T18:24:59.710Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "白宮記者晚宴槍擊｜特朗普：槍手仇恨基督徒　留字條籲襲政府官員",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260427/1125249012656508928352149.jpeg/h5lJeOJHWH4JvOXngwX7SkzEYt6DT7r0SrhdSEq4XUg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60344070/%E7%99%BD%E5%AE%AE%E8%A8%98%E8%80%85%E6%99%9A%E5%AE%B4%E6%A7%8D%E6%93%8A-%E7%89%B9%E6%9C%97%E6%99%AE-%E6%A7%8D%E6%89%8B%E4%BB%87%E6%81%A8%E5%9F%BA%E7%9D%A3%E5%BE%92-%E7%95%99%E5%AD%97%E6%A2%9D%E7%B1%B2%E8%A5%B2%E6%94%BF%E5%BA%9C%E5%AE%98%E5%93%A1",
+    "timestamp": "2026-04-26T18:24:59.710Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "白宮記者晚宴槍擊｜特朗普：槍手仇恨基督徒　留字條籲襲政府官員",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260422/1123771017701888000572401.png/Us-6RZC_B4Zx_gKLBTffn3WwcuSZW6F7PfiF8T34hfE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60342920/%E5%A4%A7%E5%9F%94%E6%B8%AF%E9%90%B5%E6%8E%A5%E9%A7%81%E5%B7%B4%E5%A3%AB%E8%81%B7%E5%93%A1%E4%B8%8B%E9%9B%A8%E5%A4%A9%E9%96%8B%E5%82%98-%E4%B9%98%E5%AE%A2%E5%85%8D%E6%B7%8B%E9%9B%A8-%E7%9B%AE%E6%93%8A%E8%80%85%E6%AC%A3%E8%B3%9E-%E6%8A%B5%E8%AE%9A",
     "timestamp": "2026-04-26T05:15:40.762Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "東龍洲女子墮海　昏迷送院搶救",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260426/1125040006289690624152380.jpeg/humu_rhhz76E2GA65vnug_uze3rQrX-YyaKbWMmim1g?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60343942/%E6%9D%B1%E9%BE%8D%E6%B4%B2%E5%A5%B3%E5%AD%90%E5%A2%AE%E6%B5%B7-%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2%E6%90%B6%E6%95%91",
-    "timestamp": "2026-04-26T04:04:00.596Z",
     "strategy": ".content-card__main"
   }
 ];
