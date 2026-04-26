@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-26T11:07:57.910Z
+// Last updated: 2026-04-26T11:33:38.493Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "特朗普遇強襲｜又是「獨狼」人人岌岌可危　美國進入暴力民粹主義",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260426/1125054364159840256438270.jpeg/dt2IcjZiQ0yjpW5Iv6DwvHi_3OibGTMe-SoFXPkqBVw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%9C%8B%E9%9A%9B%E5%88%86%E6%9E%90/60344022/%E7%89%B9%E6%9C%97%E6%99%AE%E9%81%87%E5%BC%B7%E8%A5%B2-%E5%8F%88%E6%98%AF-%E7%8D%A8%E7%8B%BC-%E4%BA%BA%E4%BA%BA%E5%B2%8C%E5%B2%8C%E5%8F%AF%E5%8D%B1-%E7%BE%8E%E5%9C%8B%E9%80%B2%E5%85%A5%E6%9A%B4%E5%8A%9B%E6%B0%91%E7%B2%B9%E4%B8%BB%E7%BE%A9",
+    "timestamp": "2026-04-26T11:33:38.493Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "陳展鵬迷上新興運動Pickleball　網民一留言吸Like數竟超原Po四倍",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260426/1124897179345883136645981.jpeg/g2Yjf4_fa0zCaL2eDkQNSRh2qKey5N-39hvJZPYbyWQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60343908/%E7%B7%AC%E7%94%B8%E6%96%B0%E4%BB%BB%E7%B8%BD%E7%B5%B1%E6%9C%83%E6%99%A4%E7%8E%8B%E6%AF%85-%E7%A8%B1%E7%B5%95%E4%B8%8D%E5%85%81%E8%A8%B1%E7%99%BC%E7%94%9F%E4%BB%BB%E4%BD%95%E6%9C%89%E6%90%8D%E4%B8%AD%E5%9C%8B%E5%88%A9%E7%9B%8A%E8%A1%8C%E7%88%B2",
     "timestamp": "2026-04-25T19:25:58.111Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "新華社：伊朗外長或在未來率團返回伊斯蘭堡",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20251116/1066827048120487936653792.jpeg/eS-tYOUonrCNA9yyAXlvGqGwRYPL-7bu7MopVuzKKVY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60343907/%E6%96%B0%E8%8F%AF%E7%A4%BE-%E4%BC%8A%E6%9C%97%E5%A4%96%E9%95%B7%E6%88%96%E5%9C%A8%E6%9C%AA%E4%BE%86%E7%8E%87%E5%9C%98%E8%BF%94%E5%9B%9E%E4%BC%8A%E6%96%AF%E8%98%AD%E5%A0%A1",
-    "timestamp": "2026-04-25T18:25:55.599Z",
     "strategy": ".content-card__main"
   }
 ];
