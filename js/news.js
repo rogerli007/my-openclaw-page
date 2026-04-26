@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-26T21:52:14.281Z
+// Last updated: 2026-04-26T22:21:28.199Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "準新郎車禍亡！原定下月迎娶空姐　騎電單車遭2車連撞　毀容身亡",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260427/1125284888568664064569820.png/2tpdBiM28C8qNZfL2ikp8Rco0Zr3yYWxCtppNwraaTc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60343403/%E6%BA%96%E6%96%B0%E9%83%8E%E8%BB%8A%E7%A6%8D%E4%BA%A1-%E5%8E%9F%E5%AE%9A%E4%B8%8B%E6%9C%88%E8%BF%8E%E5%A8%B6%E7%A9%BA%E5%A7%90-%E9%A8%8E%E9%9B%BB%E5%96%AE%E8%BB%8A%E9%81%AD2%E8%BB%8A%E9%80%A3%E6%92%9E-%E6%AF%80%E5%AE%B9%E8%BA%AB%E4%BA%A1",
+    "timestamp": "2026-04-26T22:21:28.199Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "白宮記者晚宴槍擊｜白金漢宮：英王查理斯三世如期訪美",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260426/1125054364159840256438270.jpeg/dt2IcjZiQ0yjpW5Iv6DwvHi_3OibGTMe-SoFXPkqBVw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60343991/%E7%89%B9%E6%9C%97%E6%99%AE2%E5%B9%B4%E5%85%A73%E5%BA%A6%E9%81%87%E6%AD%BB%E4%BA%A1%E5%A8%81%E8%84%85-%E4%BF%9D%E5%AE%89%E5%8F%97%E9%97%9C%E6%B3%A8-%E5%AE%98%E5%93%A1%E7%A8%B1-%E5%A4%9A%E5%B1%A4%E6%8E%AA%E6%96%BD-%E6%9C%89%E6%95%88",
     "timestamp": "2026-04-26T09:41:13.263Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "即食麵常吃增失智風險！醫生警告超加工食品傷腦致中風+3招健康吃",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260424/1124436534368407552602478.jpeg/X1nEPYp4ECZcjuWrbug0_nryvYvzWq7C4P0DkeD9A5E?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60337000/%E5%8D%B3%E9%A3%9F%E9%BA%B5%E5%B8%B8%E5%90%83%E5%A2%9E%E5%A4%B1%E6%99%BA%E9%A2%A8%E9%9A%AA-%E9%86%AB%E7%94%9F%E8%AD%A6%E5%91%8A%E8%B6%85%E5%8A%A0%E5%B7%A5%E9%A3%9F%E5%93%81%E5%82%B7%E8%85%A6%E8%87%B4%E4%B8%AD%E9%A2%A8-3%E6%8B%9B%E5%81%A5%E5%BA%B7%E5%90%83",
-    "timestamp": "2026-04-26T09:16:35.190Z",
     "strategy": ".content-card__main"
   }
 ];
