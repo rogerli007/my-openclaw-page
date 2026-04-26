@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-26T23:23:26.213Z
+// Last updated: 2026-04-26T23:52:16.932Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "施明喪禮後李泳豪首次出post思念媽媽：我會好好照顧爸，不用擔心",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260427/1125254027550920704059687.jpeg/aREsar3wPn8K9567Z91FW4XJWrT4osOMzJui0PqbotA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60344071/%E6%96%BD%E6%98%8E%E5%96%AA%E7%A6%AE%E5%BE%8C%E6%9D%8E%E6%B3%B3%E8%B1%AA%E9%A6%96%E6%AC%A1%E5%87%BApost%E6%80%9D%E5%BF%B5%E5%AA%BD%E5%AA%BD-%E6%88%91%E6%9C%83%E5%A5%BD%E5%A5%BD%E7%85%A7%E9%A1%A7%E7%88%B8-%E4%B8%8D%E7%94%A8%E6%93%94%E5%BF%83",
+    "timestamp": "2026-04-26T23:52:16.932Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "土瓜灣馬頭圍邨49歲女暈倒　家人報警惜太遲　送院不治",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260426/1125073576496467968543170.jpeg/SfXmJGw6w8kqgjPoUD6WuBUWEIkBrZ0yu5I9druSPXY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60343963/%E9%99%B3%E5%B1%95%E9%B5%AC%E8%BF%B7%E4%B8%8A%E6%96%B0%E8%88%88%E9%81%8B%E5%8B%95pickleball-%E7%B6%B2%E6%B0%91%E4%B8%80%E7%95%99%E8%A8%80%E5%90%B8like%E6%95%B8%E7%AB%9F%E8%B6%85%E5%8E%9Fpo%E5%9B%9B%E5%80%8D",
     "timestamp": "2026-04-26T11:07:57.910Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "長洲太平清醮｜飄色巡遊訴油價高企、「大圍收」諷圍標　冀喚關注",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260426/1125089953382928384024398.jpeg/WVFJb5ga7-GATYXJ4wPM9IGEJIWbEPWNVrwK7Va8Cu0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60340092/%E9%95%B7%E6%B4%B2%E5%A4%AA%E5%B9%B3%E6%B8%85%E9%86%AE-%E9%A3%84%E8%89%B2%E5%B7%A1%E9%81%8A%E8%A8%B4%E6%B2%B9%E5%83%B9%E9%AB%98%E4%BC%81-%E5%A4%A7%E5%9C%8D%E6%94%B6-%E8%AB%B7%E5%9C%8D%E6%A8%99-%E5%86%80%E5%96%9A%E9%97%9C%E6%B3%A8",
-    "timestamp": "2026-04-26T10:36:27.238Z",
     "strategy": ".content-card__main"
   }
 ];
