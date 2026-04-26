@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-26T13:39:03.797Z
+// Last updated: 2026-04-26T14:12:26.680Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "灣仔謝斐道爆水管變「黃河」　市民赤腳涉水行　路邊電單車排排浸",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260426/1125193034804236288051864.jpeg/QcGLfyu4QgjvScNfMAAh69GXzCIB9NUosYK23bGCtt0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60344038/%E7%81%A3%E4%BB%94%E8%AC%9D%E6%96%90%E9%81%93%E7%88%86%E6%B0%B4%E7%AE%A1%E8%AE%8A-%E9%BB%83%E6%B2%B3-%E5%B8%82%E6%B0%91%E8%B5%A4%E8%85%B3%E6%B6%89%E6%B0%B4%E8%A1%8C-%E8%B7%AF%E9%82%8A%E9%9B%BB%E5%96%AE%E8%BB%8A%E6%8E%92%E6%8E%92%E6%B5%B8",
+    "timestamp": "2026-04-26T14:12:26.680Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "特朗普出席白宮記者晚宴遇槍擊　多國領袖慰問及譴責暴力",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260402/1116220781160828928174936.jpeg/kogL3PLbFW1Wf5XMfuNdVQdkUtMrvpwRh4tn5IeLZ-Q?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60343913/%E5%A4%8F%E5%B7%B4%E8%8C%B2%E8%88%87%E4%BC%8A%E6%9C%97%E7%B8%BD%E7%B5%B1%E9%80%9A%E9%9B%BB%E8%A9%B1-%E9%87%8D%E7%94%B3%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E5%A0%85%E5%AE%9A%E8%87%B4%E5%8A%9B%E7%B6%AD%E8%AD%B7%E5%9C%B0%E5%8D%80%E5%92%8C%E5%B9%B3",
     "timestamp": "2026-04-25T21:51:18.528Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "英超｜阿仙奴1:0紐卡素",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260426/1124937245904605184436052.jpeg/XSxyFoZ9BycPj_GSRj_YIPrq3zgyC23o5IV3j-SFd48?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60343912/%E8%8B%B1%E8%B6%85-%E9%98%BF%E4%BB%99%E5%A5%B41-0%E7%B4%90%E5%8D%A1%E7%B4%A0",
-    "timestamp": "2026-04-25T21:21:02.537Z",
     "strategy": ".content-card__main"
   }
 ];
