@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-26T12:31:12.090Z
+// Last updated: 2026-04-26T13:39:03.797Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "特朗普出席白宮記者晚宴遇槍擊　多國領袖慰問及譴責暴力",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260426/1125170865458122752807259.jpeg/WrR_VBh922d9XznyHA62oxqQ9HLOEKYOnh48kp4ePJI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60344008/%E7%89%B9%E6%9C%97%E6%99%AE%E5%87%BA%E5%B8%AD%E7%99%BD%E5%AE%AE%E8%A8%98%E8%80%85%E6%99%9A%E5%AE%B4%E9%81%87%E6%A7%8D%E6%93%8A-%E5%A4%9A%E5%9C%8B%E9%A0%98%E8%A2%96%E6%85%B0%E5%95%8F%E5%8F%8A%E8%AD%B4%E8%B2%AC%E6%9A%B4%E5%8A%9B",
+    "timestamp": "2026-04-26T13:39:03.797Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美國富商花費31萬赴非洲打獵　發生意外遭5頭大象踩踏身亡",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260426/1124937245904605184436052.jpeg/XSxyFoZ9BycPj_GSRj_YIPrq3zgyC23o5IV3j-SFd48?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60343912/%E8%8B%B1%E8%B6%85-%E9%98%BF%E4%BB%99%E5%A5%B41-0%E7%B4%90%E5%8D%A1%E7%B4%A0",
     "timestamp": "2026-04-25T21:21:02.537Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "九龍城男子街頭捱斬　腳傷送院　警拘1刀手",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260426/1124925134600146944640527.jpeg/AK9pnvyGh9-RA2M6sROry01rhbLH8yz6T0_5xHVP-cQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60343909/%E4%B9%9D%E9%BE%8D%E5%9F%8E%E7%94%B7%E5%AD%90%E8%A1%97%E9%A0%AD%E6%8D%B1%E6%96%AC-%E8%85%B3%E5%82%B7%E9%80%81%E9%99%A2-%E8%AD%A6%E6%8B%981%E5%88%80%E6%89%8B",
-    "timestamp": "2026-04-25T20:52:51.055Z",
     "strategy": ".content-card__main"
   }
 ];
