@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-26T20:22:37.424Z
+// Last updated: 2026-04-26T21:52:14.281Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "白宮記者晚宴槍擊｜白金漢宮：英王查理斯三世如期訪美",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260427/1125285517777178624627485.jpeg/iLh8uPmd1KhtOYqAmnfKJUqceSge3xOuN8EZOTfBGTk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60344076/%E7%99%BD%E5%AE%AE%E8%A8%98%E8%80%85%E6%99%9A%E5%AE%B4%E6%A7%8D%E6%93%8A-%E7%99%BD%E9%87%91%E6%BC%A2%E5%AE%AE-%E8%8B%B1%E7%8E%8B%E6%9F%A5%E7%90%86%E6%96%AF%E4%B8%89%E4%B8%96%E5%A6%82%E6%9C%9F%E8%A8%AA%E7%BE%8E",
+    "timestamp": "2026-04-26T21:52:14.281Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美國印第安納州槍擊案9人傷　疑因爭執引起",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260424/1124436534368407552602478.jpeg/X1nEPYp4ECZcjuWrbug0_nryvYvzWq7C4P0DkeD9A5E?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60337000/%E5%8D%B3%E9%A3%9F%E9%BA%B5%E5%B8%B8%E5%90%83%E5%A2%9E%E5%A4%B1%E6%99%BA%E9%A2%A8%E9%9A%AA-%E9%86%AB%E7%94%9F%E8%AD%A6%E5%91%8A%E8%B6%85%E5%8A%A0%E5%B7%A5%E9%A3%9F%E5%93%81%E5%82%B7%E8%85%A6%E8%87%B4%E4%B8%AD%E9%A2%A8-3%E6%8B%9B%E5%81%A5%E5%BA%B7%E5%90%83",
     "timestamp": "2026-04-26T09:16:35.190Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "柏傲莊III周四價單再賣45伙　入場費921.6萬、呎價2.56萬起",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260426/1125112165217341440483059.jpeg/yz2gttgycSTb8YaeLCAiiNbN4n8pjmKwDEQ-swxEPrM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60343997/%E6%9F%8F%E5%82%B2%E8%8E%8Aiii%E5%91%A8%E5%9B%9B%E5%83%B9%E5%96%AE%E5%86%8D%E8%B3%A345%E4%BC%99-%E5%85%A5%E5%A0%B4%E8%B2%BB921-6%E8%90%AC-%E5%91%8E%E5%83%B92-56%E8%90%AC%E8%B5%B7",
-    "timestamp": "2026-04-26T08:48:11.896Z",
     "strategy": ".content-card__main"
   }
 ];
