@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-26T16:52:35.048Z
+// Last updated: 2026-04-26T17:23:52.909Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "英格蘭足總盃｜車路士安素費南迪斯早段破網　淘汰列斯聯闖決賽",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260427/1125236264061112320365482.jpeg/FiohNmkDueapPeFPMGT63Rmj8A1ccWzpW598VVuffFU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60344066/%E8%8B%B1%E6%A0%BC%E8%98%AD%E8%B6%B3%E7%B8%BD%E7%9B%83-%E8%BB%8A%E8%B7%AF%E5%A3%AB%E5%AE%89%E7%B4%A0%E8%B2%BB%E5%8D%97%E8%BF%AA%E6%96%AF%E6%97%A9%E6%AE%B5%E7%A0%B4%E7%B6%B2-%E6%B7%98%E6%B1%B0%E5%88%97%E6%96%AF%E8%81%AF%E9%97%96%E6%B1%BA%E8%B3%BD",
+    "timestamp": "2026-04-26T17:23:52.909Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "草蜢演唱會｜重量級嘉賓陳奕迅登場即high爆　仲自爆同蘇志威爭女",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260426/1125005473385287680751926.jpeg/eYdbirsbDxI_S4Ic9-86gDdwAyfEe6QC-3_jzPt_48w?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60343920/%E7%99%BD%E5%AE%AE%E8%A8%98%E8%80%85%E5%8D%94%E6%9C%83%E6%99%9A%E5%AE%B4%E5%82%B3%E5%87%BA%E6%A7%8D%E6%93%8A-%E7%89%B9%E6%9C%97%E6%99%AE%E7%B7%8A%E6%80%A5%E6%92%A4%E9%9B%A2-%E6%A7%8D%E6%89%8B%E6%93%9A%E5%A0%B1%E5%B7%B2%E8%BA%AB%E4%BA%A1",
     "timestamp": "2026-04-26T01:44:04.748Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普取消巴基斯坦談判　稱「坐着空談毫無意義」",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260424/1124285553664069632120834.jpeg/dmeWsXdQA5Zxun5019OorXft2cvBoEo0WPzDDVj8ww0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60343919/%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%96%E6%B6%88%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E8%AB%87%E5%88%A4-%E7%A8%B1-%E5%9D%90%E7%9D%80%E7%A9%BA%E8%AB%87%E6%AF%AB%E7%84%A1%E6%84%8F%E7%BE%A9",
-    "timestamp": "2026-04-26T00:59:15.452Z",
     "strategy": ".content-card__main"
   }
 ];
