@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-26T09:16:35.190Z
+// Last updated: 2026-04-26T09:41:13.263Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "特朗普2年內3度遇死亡威脅　保安受關注　官員稱「多層措施」有效",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260426/1125054364159840256438270.jpeg/dt2IcjZiQ0yjpW5Iv6DwvHi_3OibGTMe-SoFXPkqBVw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60343991/%E7%89%B9%E6%9C%97%E6%99%AE2%E5%B9%B4%E5%85%A73%E5%BA%A6%E9%81%87%E6%AD%BB%E4%BA%A1%E5%A8%81%E8%84%85-%E4%BF%9D%E5%AE%89%E5%8F%97%E9%97%9C%E6%B3%A8-%E5%AE%98%E5%93%A1%E7%A8%B1-%E5%A4%9A%E5%B1%A4%E6%8E%AA%E6%96%BD-%E6%9C%89%E6%95%88",
+    "timestamp": "2026-04-26T09:41:13.263Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "即食麵常吃增失智風險！醫生警告超加工食品傷腦致中風+3招健康吃",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260426/1124864896027070464185729.jpeg/aNC9vujG1ugYEEVtr1gAH9Fn4wy8i5VA9As0DPQLNAw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60343875/%E8%8B%B1%E8%B6%85-%E7%86%B1%E5%88%BA%E4%B8%BB%E5%8A%9B%E5%82%B7%E5%87%BA%E5%8F%96%E4%BB%8A%E5%B9%B4%E9%A6%96%E5%8B%9D-%E9%9F%8B%E6%96%AF%E5%92%B8%E7%B5%95%E6%AE%BA%E6%84%9B%E8%8F%AF%E9%A0%93-%E8%AD%B7%E7%B4%9A%E5%BD%A2%E5%8B%A2%E6%9C%AA%E8%AE%8A",
     "timestamp": "2026-04-25T16:22:41.253Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "上山詩鈉女兒Hilary與名廚跨界合作　獲劉嘉玲張智霖袁詠儀捧場",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260425/1124839592726368256042386.jpeg/vwGHc2bIGXFYjlAglW342K7C9fqNXl8yuACZtrgAmbY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60343888/%E4%B8%8A%E5%B1%B1%E8%A9%A9%E9%88%89%E5%A5%B3%E5%85%92hilary%E8%88%87%E5%90%8D%E5%BB%9A%E8%B7%A8%E7%95%8C%E5%90%88%E4%BD%9C-%E7%8D%B2%E5%8A%89%E5%98%89%E7%8E%B2%E5%BC%B5%E6%99%BA%E9%9C%96%E8%A2%81%E8%A9%A0%E5%84%80%E6%8D%A7%E5%A0%B4",
-    "timestamp": "2026-04-25T15:33:38.521Z",
     "strategy": ".content-card__main"
   }
 ];
