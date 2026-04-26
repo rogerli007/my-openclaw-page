@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-26T07:41:44.448Z
+// Last updated: 2026-04-26T08:48:11.896Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "柏傲莊III周四價單再賣45伙　入場費921.6萬、呎價2.56萬起",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260426/1125112165217341440483059.jpeg/yz2gttgycSTb8YaeLCAiiNbN4n8pjmKwDEQ-swxEPrM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60343997/%E6%9F%8F%E5%82%B2%E8%8E%8Aiii%E5%91%A8%E5%9B%9B%E5%83%B9%E5%96%AE%E5%86%8D%E8%B3%A345%E4%BC%99-%E5%85%A5%E5%A0%B4%E8%B2%BB921-6%E8%90%AC-%E5%91%8E%E5%83%B92-56%E8%90%AC%E8%B5%B7",
+    "timestamp": "2026-04-26T08:48:11.896Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "愉景灣中年漢單位暈倒　家人揭發惜返魂乏術",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260425/1124845409378766848297145.jpeg/RgbSpB11NxSTfiQ4R2u9VRNdPP5C1QDUD4gA5A-IAOQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60343894/%E9%A6%AC%E9%87%8C%E5%A4%9A%E5%9C%B0%E9%81%AD%E9%81%87%E5%8F%9B%E8%BB%8D%E8%A5%B2%E6%93%8A-%E4%B8%AD%E5%9C%8B%E9%A7%90%E9%A6%AC%E9%87%8C%E4%BD%BF%E9%A4%A8%E6%8F%90%E9%86%92%E4%B8%AD%E5%9C%8B%E5%85%AC%E6%B0%91%E6%9A%AB%E5%8B%BF%E5%89%8D%E5%BE%80",
     "timestamp": "2026-04-25T15:07:11.597Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "13歲開始的長期性侵案　70年未改的性罪行法例",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260425/1124672261366747136253168.jpeg/D8nEoPAN-0jY59_i-OknpNE80W5YoeueaPuQ42j7kOM?v=w1920r16_9",
-    "url": "https://www.hk01.com/01%E8%A7%80%E9%BB%9E/60340934/13%E6%AD%B2%E9%96%8B%E5%A7%8B%E7%9A%84%E9%95%B7%E6%9C%9F%E6%80%A7%E4%BE%B5%E6%A1%88-70%E5%B9%B4%E6%9C%AA%E6%94%B9%E7%9A%84%E6%80%A7%E7%BD%AA%E8%A1%8C%E6%B3%95%E4%BE%8B",
-    "timestamp": "2026-04-25T14:35:37.912Z",
     "strategy": ".content-card__main"
   }
 ];
