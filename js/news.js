@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-26T05:15:40.762Z
+// Last updated: 2026-04-26T07:41:44.448Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "愉景灣中年漢單位暈倒　家人揭發惜返魂乏術",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260206/1096501181242413056723495.jpeg/ftxkRaaq73gBNDyV-acFKDpGrSY8XqHMYIxvZWCMb2U?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60343985/%E6%84%89%E6%99%AF%E7%81%A3%E4%B8%AD%E5%B9%B4%E6%BC%A2%E5%96%AE%E4%BD%8D%E6%9A%88%E5%80%92-%E5%AE%B6%E4%BA%BA%E6%8F%AD%E7%99%BC%E6%83%9C%E8%BF%94%E9%AD%82%E4%B9%8F%E8%A1%93",
+    "timestamp": "2026-04-26T07:41:44.448Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "大埔港鐵接駁巴士職員下雨天開傘！乘客免淋雨　目擊者欣賞︰抵讚",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260425/1124672261366747136253168.jpeg/D8nEoPAN-0jY59_i-OknpNE80W5YoeueaPuQ42j7kOM?v=w1920r16_9",
     "url": "https://www.hk01.com/01%E8%A7%80%E9%BB%9E/60340934/13%E6%AD%B2%E9%96%8B%E5%A7%8B%E7%9A%84%E9%95%B7%E6%9C%9F%E6%80%A7%E4%BE%B5%E6%A1%88-70%E5%B9%B4%E6%9C%AA%E6%94%B9%E7%9A%84%E6%80%A7%E7%BD%AA%E8%A1%8C%E6%B3%95%E4%BE%8B",
     "timestamp": "2026-04-25T14:35:37.912Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "亡父默默留下18張台積電股票！值逾3000萬新台幣　女兒心情卻複雜",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260422/1123744731403128832578264.png/Z63_kqt__yyERkdiOkDQHR_394KGLwa2DTPKew0zyns?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60342907/%E4%BA%A1%E7%88%B6%E9%BB%98%E9%BB%98%E7%95%99%E4%B8%8B18%E5%BC%B5%E5%8F%B0%E7%A9%8D%E9%9B%BB%E8%82%A1%E7%A5%A8-%E5%80%BC%E9%80%BE3000%E8%90%AC%E6%96%B0%E5%8F%B0%E5%B9%A3-%E5%A5%B3%E5%85%92%E5%BF%83%E6%83%85%E5%8D%BB%E8%A4%87%E9%9B%9C",
-    "timestamp": "2026-04-25T14:14:37.113Z",
     "strategy": ".content-card__main"
   }
 ];
