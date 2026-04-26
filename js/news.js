@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-26T22:51:42.548Z
+// Last updated: 2026-04-26T23:23:26.213Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "土瓜灣馬頭圍邨49歲女暈倒　家人報警惜太遲　送院不治",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250820/1034824749303205888795123.jpeg/XzGmKrNg7tNxETHHvwOEfEVPmcIFfZi3STxPR0k8T0c?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60344081/%E5%9C%9F%E7%93%9C%E7%81%A3%E9%A6%AC%E9%A0%AD%E5%9C%8D%E9%82%A849%E6%AD%B2%E5%A5%B3%E6%9A%88%E5%80%92-%E5%AE%B6%E4%BA%BA%E5%A0%B1%E8%AD%A6%E6%83%9C%E5%A4%AA%E9%81%B2-%E9%80%81%E9%99%A2%E4%B8%8D%E6%B2%BB",
+    "timestamp": "2026-04-26T23:23:26.213Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "何守信最新飯局個個都係影視圈猛人　多間公司CEO齊齊食飯",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260426/1125089953382928384024398.jpeg/WVFJb5ga7-GATYXJ4wPM9IGEJIWbEPWNVrwK7Va8Cu0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60340092/%E9%95%B7%E6%B4%B2%E5%A4%AA%E5%B9%B3%E6%B8%85%E9%86%AE-%E9%A3%84%E8%89%B2%E5%B7%A1%E9%81%8A%E8%A8%B4%E6%B2%B9%E5%83%B9%E9%AB%98%E4%BC%81-%E5%A4%A7%E5%9C%8D%E6%94%B6-%E8%AB%B7%E5%9C%8D%E6%A8%99-%E5%86%80%E5%96%9A%E9%97%9C%E6%B3%A8",
     "timestamp": "2026-04-26T10:36:27.238Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "有片！觀塘道家長推BB車越7行車線！遭拍片公審　網民：怪獸父母",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260426/1125103652843819008286319.png/gc5f5YXGh-AnLWWxvuVELvVBldunbKtGcn2a43J9muM",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60343926/%E6%9C%89%E7%89%87-%E8%A7%80%E5%A1%98%E9%81%93%E5%AE%B6%E9%95%B7%E6%8E%A8bb%E8%BB%8A%E8%B6%8A7%E8%A1%8C%E8%BB%8A%E7%B7%9A-%E9%81%AD%E6%8B%8D%E7%89%87%E5%85%AC%E5%AF%A9-%E7%B6%B2%E6%B0%91-%E6%80%AA%E7%8D%B8%E7%88%B6%E6%AF%8D",
-    "timestamp": "2026-04-26T10:09:43.390Z",
     "strategy": ".content-card__main"
   }
 ];
