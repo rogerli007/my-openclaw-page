@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-26T04:04:00.596Z
+// Last updated: 2026-04-26T05:15:40.762Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "大埔港鐵接駁巴士職員下雨天開傘！乘客免淋雨　目擊者欣賞︰抵讚",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260422/1123771017701888000572401.png/Us-6RZC_B4Zx_gKLBTffn3WwcuSZW6F7PfiF8T34hfE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60342920/%E5%A4%A7%E5%9F%94%E6%B8%AF%E9%90%B5%E6%8E%A5%E9%A7%81%E5%B7%B4%E5%A3%AB%E8%81%B7%E5%93%A1%E4%B8%8B%E9%9B%A8%E5%A4%A9%E9%96%8B%E5%82%98-%E4%B9%98%E5%AE%A2%E5%85%8D%E6%B7%8B%E9%9B%A8-%E7%9B%AE%E6%93%8A%E8%80%85%E6%AC%A3%E8%B3%9E-%E6%8A%B5%E8%AE%9A",
+    "timestamp": "2026-04-26T05:15:40.762Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "東龍洲女子墮海　昏迷送院搶救",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260422/1123744731403128832578264.png/Z63_kqt__yyERkdiOkDQHR_394KGLwa2DTPKew0zyns?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60342907/%E4%BA%A1%E7%88%B6%E9%BB%98%E9%BB%98%E7%95%99%E4%B8%8B18%E5%BC%B5%E5%8F%B0%E7%A9%8D%E9%9B%BB%E8%82%A1%E7%A5%A8-%E5%80%BC%E9%80%BE3000%E8%90%AC%E6%96%B0%E5%8F%B0%E5%B9%A3-%E5%A5%B3%E5%85%92%E5%BF%83%E6%83%85%E5%8D%BB%E8%A4%87%E9%9B%9C",
     "timestamp": "2026-04-25T14:14:37.113Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "亞沙運｜余承謙生涯最終戰　最後一棒衝線登頒獎台　感觸答謝隊友",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260425/1124824472541466624798430.jpeg/UwpBdxtmqbg12tBvlJJ0tpYvU6-vfgFOcpywmnKcsJo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60343879/%E4%BA%9E%E6%B2%99%E9%81%8B-%E4%BD%99%E6%89%BF%E8%AC%99%E7%94%9F%E6%B6%AF%E6%9C%80%E7%B5%82%E6%88%B0-%E6%9C%80%E5%BE%8C%E4%B8%80%E6%A3%92%E8%A1%9D%E7%B7%9A%E7%99%BB%E9%A0%92%E7%8D%8E%E5%8F%B0-%E6%84%9F%E8%A7%B8%E7%AD%94%E8%AC%9D%E9%9A%8A%E5%8F%8B",
-    "timestamp": "2026-04-25T13:38:21.467Z",
     "strategy": ".content-card__main"
   }
 ];
