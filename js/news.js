@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-26T15:07:29.519Z
+// Last updated: 2026-04-26T16:04:23.507Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "李麗珍大馬拍戲興奮撞瘀眼　與林明禎兩代女神同框一部位盡顯優勢",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260426/1125118608750415872850246.jpeg/-PGkqwJX_4i3oHzwxd2EfRHtpbhixPcPajX_yGo1_8g?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60343992/%E6%9D%8E%E9%BA%97%E7%8F%8D%E5%A4%A7%E9%A6%AC%E6%8B%8D%E6%88%B2%E8%88%88%E5%A5%AE%E6%92%9E%E7%98%80%E7%9C%BC-%E8%88%87%E6%9E%97%E6%98%8E%E7%A6%8E%E5%85%A9%E4%BB%A3%E5%A5%B3%E7%A5%9E%E5%90%8C%E6%A1%86%E4%B8%80%E9%83%A8%E4%BD%8D%E7%9B%A1%E9%A1%AF%E5%84%AA%E5%8B%A2",
+    "timestamp": "2026-04-26T16:04:23.507Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "陳柏宇Jason Chan 2026紅館演唱會｜優先及公售攻略｜座位表+連結",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260426/1124953619091689472324015.jpeg/qLkf9E72Z91Wqs2cnKgNWe_bIJdxtkQmETZBtCs2QbQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60343914/%E6%B7%B1%E6%B0%B4%E5%9F%97%E8%8F%9C%E6%AA%94%E7%94%B7%E6%9D%B1%E4%B8%BB%E5%BA%97%E5%85%A7%E6%9A%88%E5%80%92-%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2%E6%90%B6%E6%95%91%E4%B8%8D%E6%B2%BB",
     "timestamp": "2026-04-25T22:37:23.667Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "夏巴茲與伊朗總統通電話　重申巴基斯坦堅定致力維護地區和平",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260402/1116220781160828928174936.jpeg/kogL3PLbFW1Wf5XMfuNdVQdkUtMrvpwRh4tn5IeLZ-Q?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60343913/%E5%A4%8F%E5%B7%B4%E8%8C%B2%E8%88%87%E4%BC%8A%E6%9C%97%E7%B8%BD%E7%B5%B1%E9%80%9A%E9%9B%BB%E8%A9%B1-%E9%87%8D%E7%94%B3%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E5%A0%85%E5%AE%9A%E8%87%B4%E5%8A%9B%E7%B6%AD%E8%AD%B7%E5%9C%B0%E5%8D%80%E5%92%8C%E5%B9%B3",
-    "timestamp": "2026-04-25T22:19:03.234Z",
     "strategy": ".content-card__main"
   }
 ];
