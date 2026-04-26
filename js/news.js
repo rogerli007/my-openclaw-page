@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-25T23:51:49.410Z
+// Last updated: 2026-04-26T00:59:15.452Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "特朗普取消巴基斯坦談判　稱「坐着空談毫無意義」",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260424/1124285553664069632120834.jpeg/dmeWsXdQA5Zxun5019OorXft2cvBoEo0WPzDDVj8ww0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60343919/%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%96%E6%B6%88%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E8%AB%87%E5%88%A4-%E7%A8%B1-%E5%9D%90%E7%9D%80%E7%A9%BA%E8%AB%87%E6%AF%AB%E7%84%A1%E6%84%8F%E7%BE%A9",
+    "timestamp": "2026-04-26T00:59:15.452Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "車資肉償？美女乘客脫衣強行摸下體　的士司機神應對獲讚：好男人",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260425/1124796655967670272947520.jpeg/XzqxIg29sm-cC-dHJ-zcGgyOVcvfA4bvA3fWtQN31rU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60343866/%E8%AD%A6%E5%B0%91%E8%A8%8A%E8%81%AF%E5%90%8C%E6%B5%B8%E5%A4%A7%E8%88%89%E8%A1%8Cai%E6%AF%94%E8%B3%BD-%E5%91%A8%E4%B8%80%E9%B3%B4%E5%86%80%E5%AD%B8%E5%93%A1%E6%8E%A2%E7%B4%A2%E7%A7%91%E6%8A%80%E5%8F%AF%E8%83%BD%E6%80%A7",
     "timestamp": "2026-04-25T12:27:59.280Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "白宮發言人請產假離崗　傳內閣或輪流代職包括特朗普及萬斯｜有片",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260425/1124764762324865024365784.jpeg/MLVJ5_YwLm_tzOO9JVGvGu9b-y5oWeK49G75FvRu-RY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60343838/%E7%99%BD%E5%AE%AE%E7%99%BC%E8%A8%80%E4%BA%BA%E8%AB%8B%E7%94%A2%E5%81%87%E9%9B%A2%E5%B4%97-%E5%82%B3%E5%85%A7%E9%96%A3%E6%88%96%E8%BC%AA%E6%B5%81%E4%BB%A3%E8%81%B7%E5%8C%85%E6%8B%AC%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%8A%E8%90%AC%E6%96%AF-%E6%9C%89%E7%89%87",
-    "timestamp": "2026-04-25T11:55:00.926Z",
     "strategy": ".content-card__main"
   }
 ];
