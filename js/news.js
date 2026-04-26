@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-26T18:24:59.710Z
+// Last updated: 2026-04-26T19:53:15.070Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "白宮記者晚宴槍擊｜槍手宣言曝光：目標特朗普政府官員　嘲保安差",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260427/1125259595820830720645179.jpeg/BUnmGQ5g4Zfwd3Dr0YNhE7dabsZIA-wCSJ3fNkid3zY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60344072/%E7%99%BD%E5%AE%AE%E8%A8%98%E8%80%85%E6%99%9A%E5%AE%B4%E6%A7%8D%E6%93%8A-%E6%A7%8D%E6%89%8B%E5%AE%A3%E8%A8%80%E6%9B%9D%E5%85%89-%E7%9B%AE%E6%A8%99%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%E5%AE%98%E5%93%A1-%E5%98%B2%E4%BF%9D%E5%AE%89%E5%B7%AE",
+    "timestamp": "2026-04-26T19:53:15.070Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "白宮記者晚宴槍擊｜特朗普：槍手仇恨基督徒　留字條籲襲政府官員",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260206/1096501181242413056723495.jpeg/ftxkRaaq73gBNDyV-acFKDpGrSY8XqHMYIxvZWCMb2U?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60343985/%E6%84%89%E6%99%AF%E7%81%A3%E4%B8%AD%E5%B9%B4%E6%BC%A2%E5%96%AE%E4%BD%8D%E6%9A%88%E5%80%92-%E5%AE%B6%E4%BA%BA%E6%8F%AD%E7%99%BC%E6%83%9C%E8%BF%94%E9%AD%82%E4%B9%8F%E8%A1%93",
     "timestamp": "2026-04-26T07:41:44.448Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "大埔港鐵接駁巴士職員下雨天開傘！乘客免淋雨　目擊者欣賞︰抵讚",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260422/1123771017701888000572401.png/Us-6RZC_B4Zx_gKLBTffn3WwcuSZW6F7PfiF8T34hfE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60342920/%E5%A4%A7%E5%9F%94%E6%B8%AF%E9%90%B5%E6%8E%A5%E9%A7%81%E5%B7%B4%E5%A3%AB%E8%81%B7%E5%93%A1%E4%B8%8B%E9%9B%A8%E5%A4%A9%E9%96%8B%E5%82%98-%E4%B9%98%E5%AE%A2%E5%85%8D%E6%B7%8B%E9%9B%A8-%E7%9B%AE%E6%93%8A%E8%80%85%E6%AC%A3%E8%B3%9E-%E6%8A%B5%E8%AE%9A",
-    "timestamp": "2026-04-26T05:15:40.762Z",
     "strategy": ".content-card__main"
   }
 ];
