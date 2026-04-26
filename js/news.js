@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-26T10:09:43.390Z
+// Last updated: 2026-04-26T10:36:27.238Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "長洲太平清醮｜飄色巡遊訴油價高企、「大圍收」諷圍標　冀喚關注",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260426/1125089953382928384024398.jpeg/WVFJb5ga7-GATYXJ4wPM9IGEJIWbEPWNVrwK7Va8Cu0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60340092/%E9%95%B7%E6%B4%B2%E5%A4%AA%E5%B9%B3%E6%B8%85%E9%86%AE-%E9%A3%84%E8%89%B2%E5%B7%A1%E9%81%8A%E8%A8%B4%E6%B2%B9%E5%83%B9%E9%AB%98%E4%BC%81-%E5%A4%A7%E5%9C%8D%E6%94%B6-%E8%AB%B7%E5%9C%8D%E6%A8%99-%E5%86%80%E5%96%9A%E9%97%9C%E6%B3%A8",
+    "timestamp": "2026-04-26T10:36:27.238Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "有片！觀塘道家長推BB車越7行車線！遭拍片公審　網民：怪獸父母",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260426/1124877784250847232431708.jpeg/XD2gHW8YYGTe1hCxW9Tszjj1oSTfINYTDac7nQ2nO50?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60343906/%E5%B0%87%E8%BB%8D%E6%BE%B3-%E6%AF%92%E5%93%81%E5%BF%AB%E9%A4%90%E8%BB%8A-%E9%81%87%E6%88%AA%E6%9F%A5-%E8%AD%A6%E6%AA%A2%E9%80%BE-5%E8%90%AC%E5%A4%A7%E9%BA%BB%E8%8A%B1-2%E7%94%B7%E8%A2%AB%E6%8D%95",
     "timestamp": "2026-04-25T17:23:25.054Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "假官員指示赴港買金粒騙$700萬　警再拘44歲女　累計4人被捕",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260426/1124864259067482112236057.jpeg/cKO-8tWK66r2rR01xH_vVtQ3X9NoezZM-mdkWvpnZFo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60343903/%E5%81%87%E5%AE%98%E5%93%A1%E6%8C%87%E7%A4%BA%E8%B5%B4%E6%B8%AF%E8%B2%B7%E9%87%91%E7%B2%92%E9%A8%99-700%E8%90%AC-%E8%AD%A6%E5%86%8D%E6%8B%9844%E6%AD%B2%E5%A5%B3-%E7%B4%AF%E8%A8%884%E4%BA%BA%E8%A2%AB%E6%8D%95",
-    "timestamp": "2026-04-25T16:53:13.622Z",
     "strategy": ".content-card__main"
   }
 ];
