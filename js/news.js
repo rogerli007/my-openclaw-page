@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-26T16:26:46.603Z
+// Last updated: 2026-04-26T16:52:35.048Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "草蜢演唱會｜重量級嘉賓陳奕迅登場即high爆　仲自爆同蘇志威爭女",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260427/1125228892731215872736089.jpeg/I3_aUemnhobrcR7HXe_eh7c17hxvV_NP-wDkLM0A5Cw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60344064/%E8%8D%89%E8%9C%A2%E6%BC%94%E5%94%B1%E6%9C%83-%E9%87%8D%E9%87%8F%E7%B4%9A%E5%98%89%E8%B3%93%E9%99%B3%E5%A5%95%E8%BF%85%E7%99%BB%E5%A0%B4%E5%8D%B3high%E7%88%86-%E4%BB%B2%E8%87%AA%E7%88%86%E5%90%8C%E8%98%87%E5%BF%97%E5%A8%81%E7%88%AD%E5%A5%B3",
+    "timestamp": "2026-04-26T16:52:35.048Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "伊朗戰爭｜特朗普：美國將取得勝利　伊朗如想談判可主動聯繫",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260424/1124285553664069632120834.jpeg/dmeWsXdQA5Zxun5019OorXft2cvBoEo0WPzDDVj8ww0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60343919/%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%96%E6%B6%88%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E8%AB%87%E5%88%A4-%E7%A8%B1-%E5%9D%90%E7%9D%80%E7%A9%BA%E8%AB%87%E6%AF%AB%E7%84%A1%E6%84%8F%E7%BE%A9",
     "timestamp": "2026-04-26T00:59:15.452Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "車資肉償？美女乘客脫衣強行摸下體　的士司機神應對獲讚：好男人",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260423/1124034797933432832893240.jpeg/YJsF1P_KVsCX1NB7UzHBlYd9BUxmSo01mCHepJgh3qQ",
-    "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E8%A9%B1%E9%A1%8C/60343276/%E8%BB%8A%E8%B3%87%E8%82%89%E5%84%9F-%E7%BE%8E%E5%A5%B3%E4%B9%98%E5%AE%A2%E8%84%AB%E8%A1%A3%E5%BC%B7%E8%A1%8C%E6%91%B8%E4%B8%8B%E9%AB%94-%E7%9A%84%E5%A3%AB%E5%8F%B8%E6%A9%9F%E6%87%89%E5%B0%8D%E7%8D%B2%E6%BF%80%E8%AE%9A-%E5%A5%BD%E7%94%B7%E4%BA%BA",
-    "timestamp": "2026-04-25T23:51:49.410Z",
     "strategy": ".content-card__main"
   }
 ];
