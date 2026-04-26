@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-26T09:41:13.263Z
+// Last updated: 2026-04-26T10:09:43.390Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "有片！觀塘道家長推BB車越7行車線！遭拍片公審　網民：怪獸父母",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260426/1125103652843819008286319.png/gc5f5YXGh-AnLWWxvuVELvVBldunbKtGcn2a43J9muM",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60343926/%E6%9C%89%E7%89%87-%E8%A7%80%E5%A1%98%E9%81%93%E5%AE%B6%E9%95%B7%E6%8E%A8bb%E8%BB%8A%E8%B6%8A7%E8%A1%8C%E8%BB%8A%E7%B7%9A-%E9%81%AD%E6%8B%8D%E7%89%87%E5%85%AC%E5%AF%A9-%E7%B6%B2%E6%B0%91-%E6%80%AA%E7%8D%B8%E7%88%B6%E6%AF%8D",
+    "timestamp": "2026-04-26T10:09:43.390Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "特朗普2年內3度遇死亡威脅　保安受關注　官員稱「多層措施」有效",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260426/1124864259067482112236057.jpeg/cKO-8tWK66r2rR01xH_vVtQ3X9NoezZM-mdkWvpnZFo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60343903/%E5%81%87%E5%AE%98%E5%93%A1%E6%8C%87%E7%A4%BA%E8%B5%B4%E6%B8%AF%E8%B2%B7%E9%87%91%E7%B2%92%E9%A8%99-700%E8%90%AC-%E8%AD%A6%E5%86%8D%E6%8B%9844%E6%AD%B2%E5%A5%B3-%E7%B4%AF%E8%A8%884%E4%BA%BA%E8%A2%AB%E6%8D%95",
     "timestamp": "2026-04-25T16:53:13.622Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "英超｜熱刺主力傷出取今年首勝　韋斯咸絕殺愛華頓　護級形勢未變",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260426/1124864896027070464185729.jpeg/aNC9vujG1ugYEEVtr1gAH9Fn4wy8i5VA9As0DPQLNAw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60343875/%E8%8B%B1%E8%B6%85-%E7%86%B1%E5%88%BA%E4%B8%BB%E5%8A%9B%E5%82%B7%E5%87%BA%E5%8F%96%E4%BB%8A%E5%B9%B4%E9%A6%96%E5%8B%9D-%E9%9F%8B%E6%96%AF%E5%92%B8%E7%B5%95%E6%AE%BA%E6%84%9B%E8%8F%AF%E9%A0%93-%E8%AD%B7%E7%B4%9A%E5%BD%A2%E5%8B%A2%E6%9C%AA%E8%AE%8A",
-    "timestamp": "2026-04-25T16:22:41.253Z",
     "strategy": ".content-card__main"
   }
 ];
