@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-26T17:23:52.909Z
+// Last updated: 2026-04-26T17:51:53.718Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "白宮記者晚宴槍擊｜特朗普：槍手仇恨基督徒　留字條籲襲政府官員",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260427/1125249012656508928352149.jpeg/h5lJeOJHWH4JvOXngwX7SkzEYt6DT7r0SrhdSEq4XUg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60344070/%E7%99%BD%E5%AE%AE%E8%A8%98%E8%80%85%E6%99%9A%E5%AE%B4%E6%A7%8D%E6%93%8A-%E7%89%B9%E6%9C%97%E6%99%AE-%E6%A7%8D%E6%89%8B%E4%BB%87%E6%81%A8%E5%9F%BA%E7%9D%A3%E5%BE%92-%E7%95%99%E5%AD%97%E6%A2%9D%E7%B1%B2%E8%A5%B2%E6%94%BF%E5%BA%9C%E5%AE%98%E5%93%A1",
+    "timestamp": "2026-04-26T17:51:53.718Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "英格蘭足總盃｜車路士安素費南迪斯早段破網　淘汰列斯聯闖決賽",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260426/1125040006289690624152380.jpeg/humu_rhhz76E2GA65vnug_uze3rQrX-YyaKbWMmim1g?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60343942/%E6%9D%B1%E9%BE%8D%E6%B4%B2%E5%A5%B3%E5%AD%90%E5%A2%AE%E6%B5%B7-%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2%E6%90%B6%E6%95%91",
     "timestamp": "2026-04-26T04:04:00.596Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "白宮記者協會晚宴傳出槍擊　特朗普緊急撤離　槍手據報已身亡",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260426/1125005473385287680751926.jpeg/eYdbirsbDxI_S4Ic9-86gDdwAyfEe6QC-3_jzPt_48w?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60343920/%E7%99%BD%E5%AE%AE%E8%A8%98%E8%80%85%E5%8D%94%E6%9C%83%E6%99%9A%E5%AE%B4%E5%82%B3%E5%87%BA%E6%A7%8D%E6%93%8A-%E7%89%B9%E6%9C%97%E6%99%AE%E7%B7%8A%E6%80%A5%E6%92%A4%E9%9B%A2-%E6%A7%8D%E6%89%8B%E6%93%9A%E5%A0%B1%E5%B7%B2%E8%BA%AB%E4%BA%A1",
-    "timestamp": "2026-04-26T01:44:04.748Z",
     "strategy": ".content-card__main"
   }
 ];
