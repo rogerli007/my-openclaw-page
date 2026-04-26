@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-26T11:55:53.873Z
+// Last updated: 2026-04-26T12:31:12.090Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美國富商花費31萬赴非洲打獵　發生意外遭5頭大象踩踏身亡",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260426/1125169861731815424920758.jpeg/tokwU-QvtX0iZ71zqE00wwmzJQf4t6O-fimozX4pqM0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60344017/%E7%BE%8E%E5%9C%8B%E5%AF%8C%E5%95%86%E8%8A%B1%E8%B2%BB31%E8%90%AC%E8%B5%B4%E9%9D%9E%E6%B4%B2%E6%89%93%E7%8D%B5-%E7%99%BC%E7%94%9F%E6%84%8F%E5%A4%96%E9%81%AD5%E9%A0%AD%E5%A4%A7%E8%B1%A1%E8%B8%A9%E8%B8%8F%E8%BA%AB%E4%BA%A1",
+    "timestamp": "2026-04-26T12:31:12.090Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "宏福苑上樓｜「釣魚郎」慶幸尋回心愛魚竿及相簿　物色迷你倉寄存",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260426/1124925134600146944640527.jpeg/AK9pnvyGh9-RA2M6sROry01rhbLH8yz6T0_5xHVP-cQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60343909/%E4%B9%9D%E9%BE%8D%E5%9F%8E%E7%94%B7%E5%AD%90%E8%A1%97%E9%A0%AD%E6%8D%B1%E6%96%AC-%E8%85%B3%E5%82%B7%E9%80%81%E9%99%A2-%E8%AD%A6%E6%8B%981%E5%88%80%E6%89%8B",
     "timestamp": "2026-04-25T20:52:51.055Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "緬甸新任總統會晤王毅　稱絕不允許發生任何有損中國利益行爲",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260426/1124897179345883136645981.jpeg/g2Yjf4_fa0zCaL2eDkQNSRh2qKey5N-39hvJZPYbyWQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60343908/%E7%B7%AC%E7%94%B8%E6%96%B0%E4%BB%BB%E7%B8%BD%E7%B5%B1%E6%9C%83%E6%99%A4%E7%8E%8B%E6%AF%85-%E7%A8%B1%E7%B5%95%E4%B8%8D%E5%85%81%E8%A8%B1%E7%99%BC%E7%94%9F%E4%BB%BB%E4%BD%95%E6%9C%89%E6%90%8D%E4%B8%AD%E5%9C%8B%E5%88%A9%E7%9B%8A%E8%A1%8C%E7%88%B2",
-    "timestamp": "2026-04-25T19:52:19.607Z",
     "strategy": ".content-card__main"
   }
 ];
