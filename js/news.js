@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-26T08:48:11.896Z
+// Last updated: 2026-04-26T09:16:35.190Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "即食麵常吃增失智風險！醫生警告超加工食品傷腦致中風+3招健康吃",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260424/1124436534368407552602478.jpeg/X1nEPYp4ECZcjuWrbug0_nryvYvzWq7C4P0DkeD9A5E?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60337000/%E5%8D%B3%E9%A3%9F%E9%BA%B5%E5%B8%B8%E5%90%83%E5%A2%9E%E5%A4%B1%E6%99%BA%E9%A2%A8%E9%9A%AA-%E9%86%AB%E7%94%9F%E8%AD%A6%E5%91%8A%E8%B6%85%E5%8A%A0%E5%B7%A5%E9%A3%9F%E5%93%81%E5%82%B7%E8%85%A6%E8%87%B4%E4%B8%AD%E9%A2%A8-3%E6%8B%9B%E5%81%A5%E5%BA%B7%E5%90%83",
+    "timestamp": "2026-04-26T09:16:35.190Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "柏傲莊III周四價單再賣45伙　入場費921.6萬、呎價2.56萬起",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260425/1124839592726368256042386.jpeg/vwGHc2bIGXFYjlAglW342K7C9fqNXl8yuACZtrgAmbY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60343888/%E4%B8%8A%E5%B1%B1%E8%A9%A9%E9%88%89%E5%A5%B3%E5%85%92hilary%E8%88%87%E5%90%8D%E5%BB%9A%E8%B7%A8%E7%95%8C%E5%90%88%E4%BD%9C-%E7%8D%B2%E5%8A%89%E5%98%89%E7%8E%B2%E5%BC%B5%E6%99%BA%E9%9C%96%E8%A2%81%E8%A9%A0%E5%84%80%E6%8D%A7%E5%A0%B4",
     "timestamp": "2026-04-25T15:33:38.521Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "馬里多地遭遇叛軍襲擊　中國駐馬里使館提醒中國公民暫勿前往",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260425/1124845409378766848297145.jpeg/RgbSpB11NxSTfiQ4R2u9VRNdPP5C1QDUD4gA5A-IAOQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60343894/%E9%A6%AC%E9%87%8C%E5%A4%9A%E5%9C%B0%E9%81%AD%E9%81%87%E5%8F%9B%E8%BB%8D%E8%A5%B2%E6%93%8A-%E4%B8%AD%E5%9C%8B%E9%A7%90%E9%A6%AC%E9%87%8C%E4%BD%BF%E9%A4%A8%E6%8F%90%E9%86%92%E4%B8%AD%E5%9C%8B%E5%85%AC%E6%B0%91%E6%9A%AB%E5%8B%BF%E5%89%8D%E5%BE%80",
-    "timestamp": "2026-04-25T15:07:11.597Z",
     "strategy": ".content-card__main"
   }
 ];
