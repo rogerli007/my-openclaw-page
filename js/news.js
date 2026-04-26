@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-26T01:44:04.748Z
+// Last updated: 2026-04-26T04:04:00.596Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "東龍洲女子墮海　昏迷送院搶救",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260426/1125040006289690624152380.jpeg/humu_rhhz76E2GA65vnug_uze3rQrX-YyaKbWMmim1g?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60343942/%E6%9D%B1%E9%BE%8D%E6%B4%B2%E5%A5%B3%E5%AD%90%E5%A2%AE%E6%B5%B7-%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2%E6%90%B6%E6%95%91",
+    "timestamp": "2026-04-26T04:04:00.596Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "白宮記者協會晚宴傳出槍擊　特朗普緊急撤離　槍手據報已身亡",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260425/1124824472541466624798430.jpeg/UwpBdxtmqbg12tBvlJJ0tpYvU6-vfgFOcpywmnKcsJo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60343879/%E4%BA%9E%E6%B2%99%E9%81%8B-%E4%BD%99%E6%89%BF%E8%AC%99%E7%94%9F%E6%B6%AF%E6%9C%80%E7%B5%82%E6%88%B0-%E6%9C%80%E5%BE%8C%E4%B8%80%E6%A3%92%E8%A1%9D%E7%B7%9A%E7%99%BB%E9%A0%92%E7%8D%8E%E5%8F%B0-%E6%84%9F%E8%A7%B8%E7%AD%94%E8%AC%9D%E9%9A%8A%E5%8F%8B",
     "timestamp": "2026-04-25T13:38:21.467Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "青島一路口裝十幾個攝像頭網民熱議　警方：設備老化未拆除",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260425/1124791462274273280051267.png/zWYOV7sigMutN0rgw4jA1Vpht_fC_MHmd_jJXnf4yV4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60343864/%E9%9D%92%E5%B3%B6%E4%B8%80%E8%B7%AF%E5%8F%A3%E8%A3%9D%E5%8D%81%E5%B9%BE%E5%80%8B%E6%94%9D%E5%83%8F%E9%A0%AD%E7%B6%B2%E6%B0%91%E7%86%B1%E8%AD%B0-%E8%AD%A6%E6%96%B9-%E8%A8%AD%E5%82%99%E8%80%81%E5%8C%96%E6%9C%AA%E6%8B%86%E9%99%A4",
-    "timestamp": "2026-04-25T12:55:11.596Z",
     "strategy": ".content-card__main"
   }
 ];
