@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-27T16:56:10.894Z
+// Last updated: 2026-04-27T17:39:43.455Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "伊朗外長：正評估美方談判請求　伊媒：261議員稱信任談判代表團",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260428/1125603691160670208627180.jpeg/UGyxICYU0_XOv6RwqKMPVgdy3OqYfyVe_gWaz_4Fms8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60344415/%E4%BC%8A%E6%9C%97%E5%A4%96%E9%95%B7-%E6%AD%A3%E8%A9%95%E4%BC%B0%E7%BE%8E%E6%96%B9%E8%AB%87%E5%88%A4%E8%AB%8B%E6%B1%82-%E4%BC%8A%E5%AA%92-261%E8%AD%B0%E5%93%A1%E7%A8%B1%E4%BF%A1%E4%BB%BB%E8%AB%87%E5%88%A4%E4%BB%A3%E8%A1%A8%E5%9C%98",
+    "timestamp": "2026-04-27T17:39:43.455Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "五一好去處｜廉署咖啡廳推音樂主題活動　全新文創紀念品免費送",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260427/1125282753274056704045793.jpeg/ozbEMsCAbWF7hAzy7_O-nlueJjDqHhOkQoSC-EKEgvg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60344075/%E7%BE%8E%E5%9C%8B%E5%8D%B0%E7%AC%AC%E5%AE%89%E7%B4%8D%E5%B7%9E%E6%A7%8D%E6%93%8A%E6%A1%889%E4%BA%BA%E5%82%B7-%E7%96%91%E5%9B%A0%E7%88%AD%E5%9F%B7%E5%BC%95%E8%B5%B7",
     "timestamp": "2026-04-26T20:22:37.424Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "白宮記者晚宴槍擊｜槍手宣言曝光：目標特朗普政府官員　嘲保安差",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260427/1125259595820830720645179.jpeg/BUnmGQ5g4Zfwd3Dr0YNhE7dabsZIA-wCSJ3fNkid3zY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60344072/%E7%99%BD%E5%AE%AE%E8%A8%98%E8%80%85%E6%99%9A%E5%AE%B4%E6%A7%8D%E6%93%8A-%E6%A7%8D%E6%89%8B%E5%AE%A3%E8%A8%80%E6%9B%9D%E5%85%89-%E7%9B%AE%E6%A8%99%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%E5%AE%98%E5%93%A1-%E5%98%B2%E4%BF%9D%E5%AE%89%E5%B7%AE",
-    "timestamp": "2026-04-26T19:53:15.070Z",
     "strategy": ".content-card__main"
   }
 ];
