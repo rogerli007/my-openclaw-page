@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-27T05:30:38.939Z
+// Last updated: 2026-04-27T06:25:34.161Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "商務部就歐盟《工業加速器法案》表達關切：倘執意推動將反制",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20240710/887734315692068864365890.jpeg/ozPeqhfMRg4ZjWucEHxtZCX8K__WYy8abFOk_mxTpP4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60344198/%E5%95%86%E5%8B%99%E9%83%A8%E5%B0%B1%E6%AD%90%E7%9B%9F-%E5%B7%A5%E6%A5%AD%E5%8A%A0%E9%80%9F%E5%99%A8%E6%B3%95%E6%A1%88-%E8%A1%A8%E9%81%94%E9%97%9C%E5%88%87-%E5%80%98%E5%9F%B7%E6%84%8F%E6%8E%A8%E5%8B%95%E5%B0%87%E5%8F%8D%E5%88%B6",
+    "timestamp": "2026-04-27T06:25:34.161Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "着迷劇情｜最新追劇日曆/播出時間+演員角色簡介",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260426/1125193034804236288051864.jpeg/QcGLfyu4QgjvScNfMAAh69GXzCIB9NUosYK23bGCtt0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60344038/%E7%81%A3%E4%BB%94%E8%AC%9D%E6%96%90%E9%81%93%E7%88%86%E6%B0%B4%E7%AE%A1%E8%AE%8A-%E9%BB%83%E6%B2%B3-%E5%B8%82%E6%B0%91%E8%B5%A4%E8%85%B3%E6%B6%89%E6%B0%B4%E8%A1%8C-%E8%B7%AF%E9%82%8A%E9%9B%BB%E5%96%AE%E8%BB%8A%E6%8E%92%E6%8E%92%E6%B5%B8",
     "timestamp": "2026-04-26T14:12:26.680Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普出席白宮記者晚宴遇槍擊　多國領袖慰問及譴責暴力",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260426/1125170865458122752807259.jpeg/WrR_VBh922d9XznyHA62oxqQ9HLOEKYOnh48kp4ePJI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60344008/%E7%89%B9%E6%9C%97%E6%99%AE%E5%87%BA%E5%B8%AD%E7%99%BD%E5%AE%AE%E8%A8%98%E8%80%85%E6%99%9A%E5%AE%B4%E9%81%87%E6%A7%8D%E6%93%8A-%E5%A4%9A%E5%9C%8B%E9%A0%98%E8%A2%96%E6%85%B0%E5%95%8F%E5%8F%8A%E8%AD%B4%E8%B2%AC%E6%9A%B4%E5%8A%9B",
-    "timestamp": "2026-04-26T13:39:03.797Z",
     "strategy": ".content-card__main"
   }
 ];
