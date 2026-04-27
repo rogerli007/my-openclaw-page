@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-27T21:41:24.843Z
+// Last updated: 2026-04-27T22:09:44.863Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "阿根廷門將推倒對手被逐　把心一橫向對方再補一拳爆全武行｜有片",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260428/1125592205826723840254079.jpeg/jFYYmMn6ui_g-au_pEcG9X9jX7u_iLGgeocb1nqHG9Y?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%92%B0%E7%90%83%E8%B6%A3%E8%81%9E/60344411/%E9%98%BF%E6%A0%B9%E5%BB%B7%E9%96%80%E5%B0%87%E6%8E%A8%E5%80%92%E5%B0%8D%E6%89%8B%E8%A2%AB%E9%80%90-%E6%8A%8A%E5%BF%83%E4%B8%80%E6%A9%AB%E5%90%91%E5%B0%8D%E6%96%B9%E5%86%8D%E8%A3%9C%E4%B8%80%E6%8B%B3%E7%88%86%E5%85%A8%E6%AD%A6%E8%A1%8C-%E6%9C%89%E7%89%87",
+    "timestamp": "2026-04-27T22:09:44.863Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "英超｜曼聯2：1勝賓福特　續居第三位",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260422/1123736612123971584438521.jpeg/EDuynmvuqtIJsLYLYEftQPPEBsp_ZUOZQ6h2dUOodnU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60344084/%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8B%A2-%E9%AB%98%E7%9B%9B%E5%9B%A0%E4%BE%9B%E6%87%89%E7%B7%8A%E5%BC%B5%E4%B8%8A%E8%AA%BF%E6%B2%B9%E5%83%B9%E9%A0%90%E6%B8%AC-%E6%96%99%E5%B8%83%E6%B2%B9%E7%AC%AC%E5%9B%9B%E5%AD%A3%E6%AF%8F%E6%A1%B690%E7%BE%8E%E5%85%83",
     "timestamp": "2026-04-27T00:57:35.051Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "施明喪禮後李泳豪首次出post思念媽媽：我會好好照顧爸，不用擔心",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260427/1125254027550920704059687.jpeg/aREsar3wPn8K9567Z91FW4XJWrT4osOMzJui0PqbotA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60344071/%E6%96%BD%E6%98%8E%E5%96%AA%E7%A6%AE%E5%BE%8C%E6%9D%8E%E6%B3%B3%E8%B1%AA%E9%A6%96%E6%AC%A1%E5%87%BApost%E6%80%9D%E5%BF%B5%E5%AA%BD%E5%AA%BD-%E6%88%91%E6%9C%83%E5%A5%BD%E5%A5%BD%E7%85%A7%E9%A1%A7%E7%88%B8-%E4%B8%8D%E7%94%A8%E6%93%94%E5%BF%83",
-    "timestamp": "2026-04-26T23:52:16.932Z",
     "strategy": ".content-card__main"
   }
 ];
