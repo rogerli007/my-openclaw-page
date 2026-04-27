@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-27T11:19:21.182Z
+// Last updated: 2026-04-27T12:02:52.467Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "宏福苑｜聽證會作供自責未拍鄰居門　女居民重返舊居：有好好道歉",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260427/1125518209877807104751820.jpeg/eeGTC7mFoxdaOwJJInZJ68hcBqmNrvE-_Nrh1dna4dU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60344363/%E5%AE%8F%E7%A6%8F%E8%8B%91-%E8%81%BD%E8%AD%89%E6%9C%83%E4%BD%9C%E4%BE%9B%E8%87%AA%E8%B2%AC%E6%9C%AA%E6%8B%8D%E9%84%B0%E5%B1%85%E9%96%80-%E5%A5%B3%E5%B1%85%E6%B0%91%E9%87%8D%E8%BF%94%E8%88%8A%E5%B1%85-%E6%9C%89%E5%A5%BD%E5%A5%BD%E9%81%93%E6%AD%89",
+    "timestamp": "2026-04-27T12:02:52.467Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "中國書畫拍賣屢創天價！專訪佳士得專家解構價值連城的秘密",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260427/1125236264061112320365482.jpeg/FiohNmkDueapPeFPMGT63Rmj8A1ccWzpW598VVuffFU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60344066/%E8%8B%B1%E6%A0%BC%E8%98%AD%E8%B6%B3%E7%B8%BD%E7%9B%83-%E8%BB%8A%E8%B7%AF%E5%A3%AB%E5%AE%89%E7%B4%A0%E8%B2%BB%E5%8D%97%E8%BF%AA%E6%96%AF%E6%97%A9%E6%AE%B5%E7%A0%B4%E7%B6%B2-%E6%B7%98%E6%B1%B0%E5%88%97%E6%96%AF%E8%81%AF%E9%97%96%E6%B1%BA%E8%B3%BD",
     "timestamp": "2026-04-26T17:23:52.909Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "草蜢演唱會｜重量級嘉賓陳奕迅登場即high爆　仲自爆同蘇志威爭女",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260427/1125228892731215872736089.jpeg/I3_aUemnhobrcR7HXe_eh7c17hxvV_NP-wDkLM0A5Cw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60344064/%E8%8D%89%E8%9C%A2%E6%BC%94%E5%94%B1%E6%9C%83-%E9%87%8D%E9%87%8F%E7%B4%9A%E5%98%89%E8%B3%93%E9%99%B3%E5%A5%95%E8%BF%85%E7%99%BB%E5%A0%B4%E5%8D%B3high%E7%88%86-%E4%BB%B2%E8%87%AA%E7%88%86%E5%90%8C%E8%98%87%E5%BF%97%E5%A8%81%E7%88%AD%E5%A5%B3",
-    "timestamp": "2026-04-26T16:52:35.048Z",
     "strategy": ".content-card__main"
   }
 ];
