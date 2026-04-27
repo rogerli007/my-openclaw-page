@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-27T06:25:34.161Z
+// Last updated: 2026-04-27T08:24:01.488Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "馬斯克旗下X Money將推出　存息6厘現金回贈3%　美版微信將面世？",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250106/952998329292165120746321.jpeg/YB-3LzgixFw8tXHhuv4umkpEXwLRQ_i2A6ryMwOq8jM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60344262/%E9%A6%AC%E6%96%AF%E5%85%8B%E6%97%97%E4%B8%8Bx-money%E5%B0%87%E6%8E%A8%E5%87%BA-%E5%AD%98%E6%81%AF6%E5%8E%98%E7%8F%BE%E9%87%91%E5%9B%9E%E8%B4%883-%E7%BE%8E%E7%89%88%E5%BE%AE%E4%BF%A1%E5%B0%87%E9%9D%A2%E4%B8%96",
+    "timestamp": "2026-04-27T08:24:01.488Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "商務部就歐盟《工業加速器法案》表達關切：倘執意推動將反制",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260426/1125204869418848256835140.jpeg/Q4BLiE3lhEZGb5_1Bz4wo_T69a1Ah-TVoEJDB6BCQwc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60344043/%E9%99%B3%E6%9F%8F%E5%AE%87jason-chan-2026%E7%B4%85%E9%A4%A8%E6%BC%94%E5%94%B1%E6%9C%83-%E5%84%AA%E5%85%88%E5%8F%8A%E5%85%AC%E5%94%AE%E6%94%BB%E7%95%A5-%E5%BA%A7%E4%BD%8D%E8%A1%A8-%E9%80%A3%E7%B5%90",
     "timestamp": "2026-04-26T15:07:29.519Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "灣仔謝斐道爆水管變「黃河」　市民赤腳涉水行　路邊電單車排排浸",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260426/1125193034804236288051864.jpeg/QcGLfyu4QgjvScNfMAAh69GXzCIB9NUosYK23bGCtt0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60344038/%E7%81%A3%E4%BB%94%E8%AC%9D%E6%96%90%E9%81%93%E7%88%86%E6%B0%B4%E7%AE%A1%E8%AE%8A-%E9%BB%83%E6%B2%B3-%E5%B8%82%E6%B0%91%E8%B5%A4%E8%85%B3%E6%B6%89%E6%B0%B4%E8%A1%8C-%E8%B7%AF%E9%82%8A%E9%9B%BB%E5%96%AE%E8%BB%8A%E6%8E%92%E6%8E%92%E6%B5%B8",
-    "timestamp": "2026-04-26T14:12:26.680Z",
     "strategy": ".content-card__main"
   }
 ];
