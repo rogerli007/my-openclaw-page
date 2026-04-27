@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-27T22:37:15.658Z
+// Last updated: 2026-04-27T23:11:18.550Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "香港仔工業學校學生講座　夏中建師傅以紮作講解結構力學與美學",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260421/1123266190853017600461208.jpeg/6ypzo2wjhUXQdEoVd9nDRX4UV3h22YMUuXT9mbl0_Zk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E4%B8%AD%E5%B0%8F%E5%AD%B8%E6%A0%A1%E5%9C%92/60342241/%E9%A6%99%E6%B8%AF%E4%BB%94%E5%B7%A5%E6%A5%AD%E5%AD%B8%E6%A0%A1%E5%AD%B8%E7%94%9F%E8%AC%9B%E5%BA%A7-%E5%A4%8F%E4%B8%AD%E5%BB%BA%E5%B8%AB%E5%82%85%E4%BB%A5%E7%B4%AE%E4%BD%9C%E8%AC%9B%E8%A7%A3%E7%B5%90%E6%A7%8B%E5%8A%9B%E5%AD%B8%E8%88%87%E7%BE%8E%E5%AD%B8",
+    "timestamp": "2026-04-27T23:11:18.550Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "60歲郭富城開巡唱吸金養家暴瘦攰到殘　搭飛機包到冚恰眼瞓惹憂心",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260427/1125392326189912064843602.jpeg/eLOSTMEe07xSA5qtGTXNscvE2dedWemwjXsGjI17Bow?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%A3%9F%E7%8E%A9%E8%B2%B7/60344126/%E9%BA%A5%E7%95%B6%E5%8B%9E%E5%84%AA%E6%83%A0-%E7%8E%89%E5%AD%90%E5%B0%87%E8%BB%8D%E6%BC%A2%E5%A0%A1%E8%BF%94%E5%9A%9F-%E5%A5%97%E9%A4%90%E5%84%AA%E6%83%A0%E5%86%8D%E6%B8%9B-5-%E5%8F%A4%E5%A4%A9%E6%A8%82%E5%AE%A3%E8%90%B1%E7%8F%8D%E8%97%8F%E5%8D%A1",
     "timestamp": "2026-04-27T04:08:18.470Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "伊外長突折返巴基斯坦　消息指因沙特或加入霍爾木茲海峽合作機制",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260427/1125369511160057856573280.jpeg/-DgrXq4Hfb-VlE7e7I7mS7c7YHbxPCvrwXVzQMF1c0A?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60344101/%E4%BC%8A%E5%A4%96%E9%95%B7%E7%AA%81%E6%8A%98%E8%BF%94%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6-%E6%B6%88%E6%81%AF%E6%8C%87%E5%9B%A0%E6%B2%99%E7%89%B9%E6%88%96%E5%8A%A0%E5%85%A5%E9%9C%8D%E7%88%BE%E6%9C%A8%E8%8C%B2%E6%B5%B7%E5%B3%BD%E5%90%88%E4%BD%9C%E6%A9%9F%E5%88%B6",
-    "timestamp": "2026-04-27T01:44:51.649Z",
     "strategy": ".content-card__main"
   }
 ];
