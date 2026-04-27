@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-27T04:08:18.470Z
+// Last updated: 2026-04-27T05:30:38.939Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "着迷劇情｜最新追劇日曆/播出時間+演員角色簡介",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260427/1125425481072513024317642.jpeg/Ovao32Jyi007m9v9brqv9ZtP88aU9uZdwRZj7cEWY-0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60344184/%E7%9D%80%E8%BF%B7%E5%8A%87%E6%83%85-%E6%9C%80%E6%96%B0%E8%BF%BD%E5%8A%87%E6%97%A5%E6%9B%86-%E6%92%AD%E5%87%BA%E6%99%82%E9%96%93-%E6%BC%94%E5%93%A1%E8%A7%92%E8%89%B2%E7%B0%A1%E4%BB%8B",
+    "timestamp": "2026-04-27T05:30:38.939Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "麥當勞優惠｜玉子將軍漢堡返嚟!套餐優惠再減$5+古天樂宣萱珍藏卡",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260426/1125170865458122752807259.jpeg/WrR_VBh922d9XznyHA62oxqQ9HLOEKYOnh48kp4ePJI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60344008/%E7%89%B9%E6%9C%97%E6%99%AE%E5%87%BA%E5%B8%AD%E7%99%BD%E5%AE%AE%E8%A8%98%E8%80%85%E6%99%9A%E5%AE%B4%E9%81%87%E6%A7%8D%E6%93%8A-%E5%A4%9A%E5%9C%8B%E9%A0%98%E8%A2%96%E6%85%B0%E5%95%8F%E5%8F%8A%E8%AD%B4%E8%B2%AC%E6%9A%B4%E5%8A%9B",
     "timestamp": "2026-04-26T13:39:03.797Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美國富商花費31萬赴非洲打獵　發生意外遭5頭大象踩踏身亡",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260426/1125169861731815424920758.jpeg/tokwU-QvtX0iZ71zqE00wwmzJQf4t6O-fimozX4pqM0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60344017/%E7%BE%8E%E5%9C%8B%E5%AF%8C%E5%95%86%E8%8A%B1%E8%B2%BB31%E8%90%AC%E8%B5%B4%E9%9D%9E%E6%B4%B2%E6%89%93%E7%8D%B5-%E7%99%BC%E7%94%9F%E6%84%8F%E5%A4%96%E9%81%AD5%E9%A0%AD%E5%A4%A7%E8%B1%A1%E8%B8%A9%E8%B8%8F%E8%BA%AB%E4%BA%A1",
-    "timestamp": "2026-04-26T12:31:12.090Z",
     "strategy": ".content-card__main"
   }
 ];
