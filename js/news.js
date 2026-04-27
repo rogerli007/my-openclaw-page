@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-27T01:44:51.649Z
+// Last updated: 2026-04-27T04:08:18.470Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "麥當勞優惠｜玉子將軍漢堡返嚟!套餐優惠再減$5+古天樂宣萱珍藏卡",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260427/1125392326189912064843602.jpeg/eLOSTMEe07xSA5qtGTXNscvE2dedWemwjXsGjI17Bow?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%A3%9F%E7%8E%A9%E8%B2%B7/60344126/%E9%BA%A5%E7%95%B6%E5%8B%9E%E5%84%AA%E6%83%A0-%E7%8E%89%E5%AD%90%E5%B0%87%E8%BB%8D%E6%BC%A2%E5%A0%A1%E8%BF%94%E5%9A%9F-%E5%A5%97%E9%A4%90%E5%84%AA%E6%83%A0%E5%86%8D%E6%B8%9B-5-%E5%8F%A4%E5%A4%A9%E6%A8%82%E5%AE%A3%E8%90%B1%E7%8F%8D%E8%97%8F%E5%8D%A1",
+    "timestamp": "2026-04-27T04:08:18.470Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "伊外長突折返巴基斯坦　消息指因沙特或加入霍爾木茲海峽合作機制",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260426/1125169861731815424920758.jpeg/tokwU-QvtX0iZ71zqE00wwmzJQf4t6O-fimozX4pqM0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60344017/%E7%BE%8E%E5%9C%8B%E5%AF%8C%E5%95%86%E8%8A%B1%E8%B2%BB31%E8%90%AC%E8%B5%B4%E9%9D%9E%E6%B4%B2%E6%89%93%E7%8D%B5-%E7%99%BC%E7%94%9F%E6%84%8F%E5%A4%96%E9%81%AD5%E9%A0%AD%E5%A4%A7%E8%B1%A1%E8%B8%A9%E8%B8%8F%E8%BA%AB%E4%BA%A1",
     "timestamp": "2026-04-26T12:31:12.090Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "宏福苑上樓｜「釣魚郎」慶幸尋回心愛魚竿及相簿　物色迷你倉寄存",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260426/1125151275231481856183702.jpeg/QAXeKjwY0zkIPvsHcCdVCKfxwwV7EVJs4YZwgeGGcIE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60344019/%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%B8%8A%E6%A8%93-%E9%87%A3%E9%AD%9A%E9%83%8E-%E6%85%B6%E5%B9%B8%E5%B0%8B%E5%9B%9E%E5%BF%83%E6%84%9B%E9%AD%9A%E7%AB%BF%E5%8F%8A%E7%9B%B8%E7%B0%BF-%E7%89%A9%E8%89%B2%E8%BF%B7%E4%BD%A0%E5%80%89%E5%AF%84%E5%AD%98",
-    "timestamp": "2026-04-26T11:55:53.873Z",
     "strategy": ".content-card__main"
   }
 ];
