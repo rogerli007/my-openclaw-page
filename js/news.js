@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-27T20:39:03.177Z
+// Last updated: 2026-04-27T21:16:12.924Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "英王查理斯三世訪美　抵白宮與特朗普喝下午茶",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260428/1125653971856527360021769.jpeg/x-Aw2lRJrnEQg6QKgkwvtZLHxekl838Phw01KYcNNSk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60344422/%E8%8B%B1%E7%8E%8B%E6%9F%A5%E7%90%86%E6%96%AF%E4%B8%89%E4%B8%96%E8%A8%AA%E7%BE%8E-%E6%8A%B5%E7%99%BD%E5%AE%AE%E8%88%87%E7%89%B9%E6%9C%97%E6%99%AE%E5%96%9D%E4%B8%8B%E5%8D%88%E8%8C%B6",
+    "timestamp": "2026-04-27T21:16:12.924Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "英王查理斯三世抵美　展開為期4天國事訪問",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250820/1034824749303205888795123.jpeg/XzGmKrNg7tNxETHHvwOEfEVPmcIFfZi3STxPR0k8T0c?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60344081/%E5%9C%9F%E7%93%9C%E7%81%A3%E9%A6%AC%E9%A0%AD%E5%9C%8D%E9%82%A849%E6%AD%B2%E5%A5%B3%E6%9A%88%E5%80%92-%E5%AE%B6%E4%BA%BA%E5%A0%B1%E8%AD%A6%E6%83%9C%E5%A4%AA%E9%81%B2-%E9%80%81%E9%99%A2%E4%B8%8D%E6%B2%BB",
     "timestamp": "2026-04-26T23:23:26.213Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "何守信最新飯局個個都係影視圈猛人　多間公司CEO齊齊食飯",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260426/1125097032990593024653971.jpeg/wBWTmZ11KMluSrgymJCXh-KDn77BlfdikAl8Y5AJfGM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60343981/%E4%BD%95%E5%AE%88%E4%BF%A1%E6%9C%80%E6%96%B0%E9%A3%AF%E5%B1%80%E5%80%8B%E5%80%8B%E9%83%BD%E4%BF%82%E5%BD%B1%E8%A6%96%E5%9C%88%E7%8C%9B%E4%BA%BA-%E5%A4%9A%E9%96%93%E5%85%AC%E5%8F%B8ceo%E9%BD%8A%E9%BD%8A%E9%A3%9F%E9%A3%AF",
-    "timestamp": "2026-04-26T22:51:42.548Z",
     "strategy": ".content-card__main"
   }
 ];
