@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-27T21:16:12.924Z
+// Last updated: 2026-04-27T21:41:24.843Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "英超｜曼聯2：1勝賓福特　續居第三位",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260428/1125656227901083648738690.jpeg/GB5JaqznBN_nNaOyrQ7glXJisW5Z3FupN-EjKDfhIyg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60344423/%E8%8B%B1%E8%B6%85-%E6%9B%BC%E8%81%AF2-1%E5%8B%9D%E8%B3%93%E7%A6%8F%E7%89%B9-%E7%BA%8C%E5%B1%85%E7%AC%AC%E4%B8%89%E4%BD%8D",
+    "timestamp": "2026-04-27T21:41:24.843Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "英王查理斯三世訪美　抵白宮與特朗普喝下午茶",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260427/1125254027550920704059687.jpeg/aREsar3wPn8K9567Z91FW4XJWrT4osOMzJui0PqbotA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60344071/%E6%96%BD%E6%98%8E%E5%96%AA%E7%A6%AE%E5%BE%8C%E6%9D%8E%E6%B3%B3%E8%B1%AA%E9%A6%96%E6%AC%A1%E5%87%BApost%E6%80%9D%E5%BF%B5%E5%AA%BD%E5%AA%BD-%E6%88%91%E6%9C%83%E5%A5%BD%E5%A5%BD%E7%85%A7%E9%A1%A7%E7%88%B8-%E4%B8%8D%E7%94%A8%E6%93%94%E5%BF%83",
     "timestamp": "2026-04-26T23:52:16.932Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "土瓜灣馬頭圍邨49歲女暈倒　家人報警惜太遲　送院不治",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250820/1034824749303205888795123.jpeg/XzGmKrNg7tNxETHHvwOEfEVPmcIFfZi3STxPR0k8T0c?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60344081/%E5%9C%9F%E7%93%9C%E7%81%A3%E9%A6%AC%E9%A0%AD%E5%9C%8D%E9%82%A849%E6%AD%B2%E5%A5%B3%E6%9A%88%E5%80%92-%E5%AE%B6%E4%BA%BA%E5%A0%B1%E8%AD%A6%E6%83%9C%E5%A4%AA%E9%81%B2-%E9%80%81%E9%99%A2%E4%B8%8D%E6%B2%BB",
-    "timestamp": "2026-04-26T23:23:26.213Z",
     "strategy": ".content-card__main"
   }
 ];
