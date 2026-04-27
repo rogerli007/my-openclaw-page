@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-27T23:11:18.550Z
+// Last updated: 2026-04-27T23:39:42.178Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美國與中國AI競爭的系統性困局：已經與晶片無關",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260428/1125599194107613184410578.jpeg/a5qMsABeAnmUVT-uYMhQzkRqs45BhqWNh2osRodqLEY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%9C%8B%E9%9A%9B%E5%88%86%E6%9E%90/60344334/%E7%BE%8E%E5%9C%8B%E8%88%87%E4%B8%AD%E5%9C%8Bai%E7%AB%B6%E7%88%AD%E7%9A%84%E7%B3%BB%E7%B5%B1%E6%80%A7%E5%9B%B0%E5%B1%80-%E5%B7%B2%E7%B6%93%E8%88%87%E6%99%B6%E7%89%87%E7%84%A1%E9%97%9C",
+    "timestamp": "2026-04-27T23:39:42.178Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "香港仔工業學校學生講座　夏中建師傅以紮作講解結構力學與美學",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260427/1125425481072513024317642.jpeg/Ovao32Jyi007m9v9brqv9ZtP88aU9uZdwRZj7cEWY-0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60344184/%E7%9D%80%E8%BF%B7%E5%8A%87%E6%83%85-%E6%9C%80%E6%96%B0%E8%BF%BD%E5%8A%87%E6%97%A5%E6%9B%86-%E6%92%AD%E5%87%BA%E6%99%82%E9%96%93-%E6%BC%94%E5%93%A1%E8%A7%92%E8%89%B2%E7%B0%A1%E4%BB%8B",
     "timestamp": "2026-04-27T05:30:38.939Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "麥當勞優惠｜玉子將軍漢堡返嚟!套餐優惠再減$5+古天樂宣萱珍藏卡",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260427/1125392326189912064843602.jpeg/eLOSTMEe07xSA5qtGTXNscvE2dedWemwjXsGjI17Bow?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%A3%9F%E7%8E%A9%E8%B2%B7/60344126/%E9%BA%A5%E7%95%B6%E5%8B%9E%E5%84%AA%E6%83%A0-%E7%8E%89%E5%AD%90%E5%B0%87%E8%BB%8D%E6%BC%A2%E5%A0%A1%E8%BF%94%E5%9A%9F-%E5%A5%97%E9%A4%90%E5%84%AA%E6%83%A0%E5%86%8D%E6%B8%9B-5-%E5%8F%A4%E5%A4%A9%E6%A8%82%E5%AE%A3%E8%90%B1%E7%8F%8D%E8%97%8F%E5%8D%A1",
-    "timestamp": "2026-04-27T04:08:18.470Z",
     "strategy": ".content-card__main"
   }
 ];
