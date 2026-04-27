@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-27T08:24:01.488Z
+// Last updated: 2026-04-27T09:24:03.213Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "5月新手爸媽講座｜贏嬰兒奶瓶套裝/三合一UV消毒器/嬰兒棉被",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260427/1125483814412357632203785.jpeg/_-WcZzQgV-jREOsBUNGg7nVXF0N_LTLnCnDNMQpwzTE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%A6%AA%E5%AD%90/60342813/5%E6%9C%88%E6%96%B0%E6%89%8B%E7%88%B8%E5%AA%BD%E8%AC%9B%E5%BA%A7-%E8%B4%8F%E5%AC%B0%E5%85%92%E5%A5%B6%E7%93%B6%E5%A5%97%E8%A3%9D-%E4%B8%89%E5%90%88%E4%B8%80uv%E6%B6%88%E6%AF%92%E5%99%A8-%E5%AC%B0%E5%85%92%E6%A3%89%E8%A2%AB",
+    "timestamp": "2026-04-27T09:24:03.213Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "馬斯克旗下X Money將推出　存息6厘現金回贈3%　美版微信將面世？",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260426/1125118608750415872850246.jpeg/-PGkqwJX_4i3oHzwxd2EfRHtpbhixPcPajX_yGo1_8g?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60343992/%E6%9D%8E%E9%BA%97%E7%8F%8D%E5%A4%A7%E9%A6%AC%E6%8B%8D%E6%88%B2%E8%88%88%E5%A5%AE%E6%92%9E%E7%98%80%E7%9C%BC-%E8%88%87%E6%9E%97%E6%98%8E%E7%A6%8E%E5%85%A9%E4%BB%A3%E5%A5%B3%E7%A5%9E%E5%90%8C%E6%A1%86%E4%B8%80%E9%83%A8%E4%BD%8D%E7%9B%A1%E9%A1%AF%E5%84%AA%E5%8B%A2",
     "timestamp": "2026-04-26T16:04:23.507Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "陳柏宇Jason Chan 2026紅館演唱會｜優先及公售攻略｜座位表+連結",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260426/1125204869418848256835140.jpeg/Q4BLiE3lhEZGb5_1Bz4wo_T69a1Ah-TVoEJDB6BCQwc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60344043/%E9%99%B3%E6%9F%8F%E5%AE%87jason-chan-2026%E7%B4%85%E9%A4%A8%E6%BC%94%E5%94%B1%E6%9C%83-%E5%84%AA%E5%85%88%E5%8F%8A%E5%85%AC%E5%94%AE%E6%94%BB%E7%95%A5-%E5%BA%A7%E4%BD%8D%E8%A1%A8-%E9%80%A3%E7%B5%90",
-    "timestamp": "2026-04-26T15:07:29.519Z",
     "strategy": ".content-card__main"
   }
 ];
