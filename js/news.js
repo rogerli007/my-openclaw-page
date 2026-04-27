@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-27T12:02:52.467Z
+// Last updated: 2026-04-27T12:52:26.465Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "五一黃金周｜首日多班來港高鐵車票售罄　政府料600萬人次出入境",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250502/994950710707884032821509.jpeg/cnY4vrzQPDKo6f5WXysThYsg2pa5vWtqOaoLTSOqC00?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60344369/%E4%BA%94%E4%B8%80%E9%BB%83%E9%87%91%E5%91%A8-%E9%A6%96%E6%97%A5%E5%A4%9A%E7%8F%AD%E4%BE%86%E6%B8%AF%E9%AB%98%E9%90%B5%E8%BB%8A%E7%A5%A8%E5%94%AE%E7%BD%84-%E6%94%BF%E5%BA%9C%E6%96%99600%E8%90%AC%E4%BA%BA%E6%AC%A1%E5%87%BA%E5%85%A5%E5%A2%83",
+    "timestamp": "2026-04-27T12:52:26.465Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "宏福苑｜聽證會作供自責未拍鄰居門　女居民重返舊居：有好好道歉",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260427/1125249012656508928352149.jpeg/h5lJeOJHWH4JvOXngwX7SkzEYt6DT7r0SrhdSEq4XUg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60344070/%E7%99%BD%E5%AE%AE%E8%A8%98%E8%80%85%E6%99%9A%E5%AE%B4%E6%A7%8D%E6%93%8A-%E7%89%B9%E6%9C%97%E6%99%AE-%E6%A7%8D%E6%89%8B%E4%BB%87%E6%81%A8%E5%9F%BA%E7%9D%A3%E5%BE%92-%E7%95%99%E5%AD%97%E6%A2%9D%E7%B1%B2%E8%A5%B2%E6%94%BF%E5%BA%9C%E5%AE%98%E5%93%A1",
     "timestamp": "2026-04-26T17:51:53.718Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "英格蘭足總盃｜車路士安素費南迪斯早段破網　淘汰列斯聯闖決賽",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260427/1125236264061112320365482.jpeg/FiohNmkDueapPeFPMGT63Rmj8A1ccWzpW598VVuffFU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60344066/%E8%8B%B1%E6%A0%BC%E8%98%AD%E8%B6%B3%E7%B8%BD%E7%9B%83-%E8%BB%8A%E8%B7%AF%E5%A3%AB%E5%AE%89%E7%B4%A0%E8%B2%BB%E5%8D%97%E8%BF%AA%E6%96%AF%E6%97%A9%E6%AE%B5%E7%A0%B4%E7%B6%B2-%E6%B7%98%E6%B1%B0%E5%88%97%E6%96%AF%E8%81%AF%E9%97%96%E6%B1%BA%E8%B3%BD",
-    "timestamp": "2026-04-26T17:23:52.909Z",
     "strategy": ".content-card__main"
   }
 ];
