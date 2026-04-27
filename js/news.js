@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-27T09:24:03.213Z
+// Last updated: 2026-04-27T10:23:20.639Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "古天樂自爆有潔癖　離開酒店房間前一定做呢件事",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260427/1125490438736711680782693.jpeg/dwvIfp9BqTzjKxVCxc0DD7pSFRUJUVILSQ5EqEkORKg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60344325/%E5%8F%A4%E5%A4%A9%E6%A8%82%E8%87%AA%E7%88%86%E6%9C%89%E6%BD%94%E7%99%96-%E9%9B%A2%E9%96%8B%E9%85%92%E5%BA%97%E6%88%BF%E9%96%93%E5%89%8D%E4%B8%80%E5%AE%9A%E5%81%9A%E5%91%A2%E4%BB%B6%E4%BA%8B",
+    "timestamp": "2026-04-27T10:23:20.639Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "5月新手爸媽講座｜贏嬰兒奶瓶套裝/三合一UV消毒器/嬰兒棉被",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260426/1125222794045427712496051.jpeg/A2XvmysMVFsm-YizNo7TSYdMZWLoXjR0REAmh0RAJoc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60344061/%E4%BC%8A%E6%9C%97%E6%88%B0%E7%88%AD-%E7%89%B9%E6%9C%97%E6%99%AE-%E7%BE%8E%E5%9C%8B%E5%B0%87%E5%8F%96%E5%BE%97%E5%8B%9D%E5%88%A9-%E4%BC%8A%E6%9C%97%E5%A6%82%E6%83%B3%E8%AB%87%E5%88%A4%E5%8F%AF%E4%B8%BB%E5%8B%95%E8%81%AF%E7%B9%AB",
     "timestamp": "2026-04-26T16:26:46.603Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "李麗珍大馬拍戲興奮撞瘀眼　與林明禎兩代女神同框一部位盡顯優勢",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260426/1125118608750415872850246.jpeg/-PGkqwJX_4i3oHzwxd2EfRHtpbhixPcPajX_yGo1_8g?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60343992/%E6%9D%8E%E9%BA%97%E7%8F%8D%E5%A4%A7%E9%A6%AC%E6%8B%8D%E6%88%B2%E8%88%88%E5%A5%AE%E6%92%9E%E7%98%80%E7%9C%BC-%E8%88%87%E6%9E%97%E6%98%8E%E7%A6%8E%E5%85%A9%E4%BB%A3%E5%A5%B3%E7%A5%9E%E5%90%8C%E6%A1%86%E4%B8%80%E9%83%A8%E4%BD%8D%E7%9B%A1%E9%A1%AF%E5%84%AA%E5%8B%A2",
-    "timestamp": "2026-04-26T16:04:23.507Z",
     "strategy": ".content-card__main"
   }
 ];
