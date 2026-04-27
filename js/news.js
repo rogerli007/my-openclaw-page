@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-27T10:23:20.639Z
+// Last updated: 2026-04-27T11:19:21.182Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "中國書畫拍賣屢創天價！專訪佳士得專家解構價值連城的秘密",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260427/1125502367731552256364258.jpeg/C1PIAPRNafl58CJAZrKZF1F15fQvwLcXhiu_rIYrv6w?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%97%9D%E6%96%87/60344323/%E5%B0%88%E8%A8%AA-%E4%B8%AD%E5%9C%8B%E6%9B%B8%E7%95%AB%E6%94%B6%E8%97%8F%E6%AD%A3%E8%BF%8E%E4%BE%86%E4%B8%96%E4%BB%A3%E4%BA%A4%E6%9B%BF-%E4%BD%B3%E5%A3%AB%E5%BE%97%E5%B0%88%E5%AE%B6%E8%A7%A3%E5%AF%86-%E5%A4%A9%E5%83%B9-%E9%82%8F%E8%BC%AF",
+    "timestamp": "2026-04-27T11:19:21.182Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "古天樂自爆有潔癖　離開酒店房間前一定做呢件事",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260427/1125228892731215872736089.jpeg/I3_aUemnhobrcR7HXe_eh7c17hxvV_NP-wDkLM0A5Cw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60344064/%E8%8D%89%E8%9C%A2%E6%BC%94%E5%94%B1%E6%9C%83-%E9%87%8D%E9%87%8F%E7%B4%9A%E5%98%89%E8%B3%93%E9%99%B3%E5%A5%95%E8%BF%85%E7%99%BB%E5%A0%B4%E5%8D%B3high%E7%88%86-%E4%BB%B2%E8%87%AA%E7%88%86%E5%90%8C%E8%98%87%E5%BF%97%E5%A8%81%E7%88%AD%E5%A5%B3",
     "timestamp": "2026-04-26T16:52:35.048Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "伊朗戰爭｜特朗普：美國將取得勝利　伊朗如想談判可主動聯繫",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260426/1125222794045427712496051.jpeg/A2XvmysMVFsm-YizNo7TSYdMZWLoXjR0REAmh0RAJoc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60344061/%E4%BC%8A%E6%9C%97%E6%88%B0%E7%88%AD-%E7%89%B9%E6%9C%97%E6%99%AE-%E7%BE%8E%E5%9C%8B%E5%B0%87%E5%8F%96%E5%BE%97%E5%8B%9D%E5%88%A9-%E4%BC%8A%E6%9C%97%E5%A6%82%E6%83%B3%E8%AB%87%E5%88%A4%E5%8F%AF%E4%B8%BB%E5%8B%95%E8%81%AF%E7%B9%AB",
-    "timestamp": "2026-04-26T16:26:46.603Z",
     "strategy": ".content-card__main"
   }
 ];
