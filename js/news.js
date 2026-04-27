@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-27T19:22:29.755Z
+// Last updated: 2026-04-27T20:39:03.177Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "英王查理斯三世抵美　展開為期4天國事訪問",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260428/1125636978919215104365249.jpeg/_DCggu4a_9PbsU-bgoWEKSkVare988OvuDf2ebg39nk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60344422/%E8%8B%B1%E7%8E%8B%E6%9F%A5%E7%90%86%E6%96%AF%E4%B8%89%E4%B8%96%E6%8A%B5%E7%BE%8E-%E5%B1%95%E9%96%8B%E7%82%BA%E6%9C%9F4%E5%A4%A9%E5%9C%8B%E4%BA%8B%E8%A8%AA%E5%95%8F",
+    "timestamp": "2026-04-27T20:39:03.177Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "白宮記者晚宴槍擊｜疑犯首次法院提堂　被控企圖暗殺總統等3罪",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260426/1125097032990593024653971.jpeg/wBWTmZ11KMluSrgymJCXh-KDn77BlfdikAl8Y5AJfGM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60343981/%E4%BD%95%E5%AE%88%E4%BF%A1%E6%9C%80%E6%96%B0%E9%A3%AF%E5%B1%80%E5%80%8B%E5%80%8B%E9%83%BD%E4%BF%82%E5%BD%B1%E8%A6%96%E5%9C%88%E7%8C%9B%E4%BA%BA-%E5%A4%9A%E9%96%93%E5%85%AC%E5%8F%B8ceo%E9%BD%8A%E9%BD%8A%E9%A3%9F%E9%A3%AF",
     "timestamp": "2026-04-26T22:51:42.548Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "準新郎車禍亡！原定下月迎娶空姐　騎電單車遭2車連撞　毀容身亡",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260427/1125284888568664064569820.png/2tpdBiM28C8qNZfL2ikp8Rco0Zr3yYWxCtppNwraaTc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60343403/%E6%BA%96%E6%96%B0%E9%83%8E%E8%BB%8A%E7%A6%8D%E4%BA%A1-%E5%8E%9F%E5%AE%9A%E4%B8%8B%E6%9C%88%E8%BF%8E%E5%A8%B6%E7%A9%BA%E5%A7%90-%E9%A8%8E%E9%9B%BB%E5%96%AE%E8%BB%8A%E9%81%AD2%E8%BB%8A%E9%80%A3%E6%92%9E-%E6%AF%80%E5%AE%B9%E8%BA%AB%E4%BA%A1",
-    "timestamp": "2026-04-26T22:21:28.199Z",
     "strategy": ".content-card__main"
   }
 ];
