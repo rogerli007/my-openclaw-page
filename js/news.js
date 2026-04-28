@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-28T05:53:23.873Z
+// Last updated: 2026-04-28T10:06:04.150Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "蔡卓妍阿Sa無預警閃婚　MIRROR Edan、Jer愕然：婚禮已經搞咗？",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260428/1125852011833593856978216.jpeg/FE4Mb04cslpM00iJT1dCR7mRIG-J_BhM9rUyP8C1Mj8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60344741/%E8%94%A1%E5%8D%93%E5%A6%8D%E9%98%BFsa%E7%84%A1%E9%A0%90%E8%AD%A6%E9%96%83%E5%A9%9A-mirror-edan-jer%E6%84%95%E7%84%B6-%E5%A9%9A%E7%A6%AE%E5%B7%B2%E7%B6%93%E6%90%9E%E5%92%97",
+    "timestamp": "2026-04-28T10:06:04.150Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "亞沙運｜袁靜雪女子滑浪風帆添銀　煞科日風勢微弱未能作賽",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250502/994950710707884032821509.jpeg/cnY4vrzQPDKo6f5WXysThYsg2pa5vWtqOaoLTSOqC00?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60344369/%E4%BA%94%E4%B8%80%E9%BB%83%E9%87%91%E5%91%A8-%E9%A6%96%E6%97%A5%E5%A4%9A%E7%8F%AD%E4%BE%86%E6%B8%AF%E9%AB%98%E9%90%B5%E8%BB%8A%E7%A5%A8%E5%94%AE%E7%BD%84-%E6%94%BF%E5%BA%9C%E6%96%99600%E8%90%AC%E4%BA%BA%E6%AC%A1%E5%87%BA%E5%85%A5%E5%A2%83",
     "timestamp": "2026-04-27T12:52:26.465Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "宏福苑｜聽證會作供自責未拍鄰居門　女居民重返舊居：有好好道歉",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260427/1125518209877807104751820.jpeg/eeGTC7mFoxdaOwJJInZJ68hcBqmNrvE-_Nrh1dna4dU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60344363/%E5%AE%8F%E7%A6%8F%E8%8B%91-%E8%81%BD%E8%AD%89%E6%9C%83%E4%BD%9C%E4%BE%9B%E8%87%AA%E8%B2%AC%E6%9C%AA%E6%8B%8D%E9%84%B0%E5%B1%85%E9%96%80-%E5%A5%B3%E5%B1%85%E6%B0%91%E9%87%8D%E8%BF%94%E8%88%8A%E5%B1%85-%E6%9C%89%E5%A5%BD%E5%A5%BD%E9%81%93%E6%AD%89",
-    "timestamp": "2026-04-27T12:02:52.467Z",
     "strategy": ".content-card__main"
   }
 ];
