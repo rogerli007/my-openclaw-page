@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-28T00:09:41.148Z
+// Last updated: 2026-04-28T01:14:20.871Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "失聰松鼠狗熟睡不知狗主回家！暖心狗兄弟即叫醒　帶隊討摸超有愛",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260425/1124799591338741760349256.png/LGcBcf5Ch_KkqlCSXwg1TAFHhiH3_AS1ZxlWymcZVso?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60343404/%E5%A4%B1%E8%81%B0%E6%9D%BE%E9%BC%A0%E7%8B%97%E7%86%9F%E7%9D%A1%E4%B8%8D%E7%9F%A5%E7%8B%97%E4%B8%BB%E5%9B%9E%E5%AE%B6-%E6%9A%96%E5%BF%83%E7%8B%97%E5%85%84%E5%BC%9F%E5%8D%B3%E5%8F%AB%E9%86%92-%E5%B8%B6%E9%9A%8A%E8%A8%8E%E6%91%B8%E8%B6%85%E6%9C%89%E6%84%9B",
+    "timestamp": "2026-04-28T01:14:20.871Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "谷歌員工敦促CEO　阻止美國軍方使用其人工智能技術",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250106/952998329292165120746321.jpeg/YB-3LzgixFw8tXHhuv4umkpEXwLRQ_i2A6ryMwOq8jM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60344262/%E9%A6%AC%E6%96%AF%E5%85%8B%E6%97%97%E4%B8%8Bx-money%E5%B0%87%E6%8E%A8%E5%87%BA-%E5%AD%98%E6%81%AF6%E5%8E%98%E7%8F%BE%E9%87%91%E5%9B%9E%E8%B4%883-%E7%BE%8E%E7%89%88%E5%BE%AE%E4%BF%A1%E5%B0%87%E9%9D%A2%E4%B8%96",
     "timestamp": "2026-04-27T08:24:01.488Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "商務部就歐盟《工業加速器法案》表達關切：倘執意推動將反制",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20240710/887734315692068864365890.jpeg/ozPeqhfMRg4ZjWucEHxtZCX8K__WYy8abFOk_mxTpP4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60344198/%E5%95%86%E5%8B%99%E9%83%A8%E5%B0%B1%E6%AD%90%E7%9B%9F-%E5%B7%A5%E6%A5%AD%E5%8A%A0%E9%80%9F%E5%99%A8%E6%B3%95%E6%A1%88-%E8%A1%A8%E9%81%94%E9%97%9C%E5%88%87-%E5%80%98%E5%9F%B7%E6%84%8F%E6%8E%A8%E5%8B%95%E5%B0%87%E5%8F%8D%E5%88%B6",
-    "timestamp": "2026-04-27T06:25:34.161Z",
     "strategy": ".content-card__main"
   }
 ];
