@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-28T19:41:23.959Z
+// Last updated: 2026-04-28T20:17:20.007Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "特朗普稱「伊朗希望美國」盡快開放霍爾木茲海峽",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260423/1123943174725701632624879.png/eOfdFtKbj0zqOxWMhChxWHvyvoGEtnjdTYtfk02LX5M?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60344856/%E7%89%B9%E6%9C%97%E6%99%AE%E7%A8%B1-%E4%BC%8A%E6%9C%97%E5%B8%8C%E6%9C%9B%E7%BE%8E%E5%9C%8B-%E7%9B%A1%E5%BF%AB%E9%96%8B%E6%94%BE%E9%9C%8D%E7%88%BE%E6%9C%A8%E8%8C%B2%E6%B5%B7%E5%B3%BD",
+    "timestamp": "2026-04-28T20:17:20.007Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "Meta併購Manus被叫停　央視：禁止企業「洗澡式出海」",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260428/1125636978919215104365249.jpeg/_DCggu4a_9PbsU-bgoWEKSkVare988OvuDf2ebg39nk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60344422/%E8%8B%B1%E7%8E%8B%E6%9F%A5%E7%90%86%E6%96%AF%E4%B8%89%E4%B8%96%E6%8A%B5%E7%BE%8E-%E5%B1%95%E9%96%8B%E7%82%BA%E6%9C%9F4%E5%A4%A9%E5%9C%8B%E4%BA%8B%E8%A8%AA%E5%95%8F",
     "timestamp": "2026-04-27T20:39:03.177Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "白宮記者晚宴槍擊｜疑犯首次法院提堂　被控企圖暗殺總統等3罪",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260426/1125051390356623360496721.png/Fq_56RQ3hrVi6vLlyveZ8KmeAotLvQM8sbm4grG5uII?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60344420/%E7%99%BD%E5%AE%AE%E8%A8%98%E8%80%85%E6%99%9A%E5%AE%B4%E6%A7%8D%E6%93%8A-%E7%96%91%E7%8A%AF%E9%A6%96%E6%AC%A1%E6%B3%95%E9%99%A2%E6%8F%90%E5%A0%82-%E8%A2%AB%E6%8E%A7%E4%BC%81%E5%9C%96%E6%9A%97%E6%AE%BA%E7%B8%BD%E7%B5%B1%E7%AD%893%E7%BD%AA",
-    "timestamp": "2026-04-27T19:22:29.755Z",
     "strategy": ".content-card__main"
   }
 ];
