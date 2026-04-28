@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-28T23:29:31.818Z
+// Last updated: 2026-04-28T23:54:09.876Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "英王查理斯三世於美國國會演說　談及白宮槍擊：暴行永不會得逞",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260429/1126064301438668800236157.jpeg/yOcf7zKm-4DAklqNJoVvroUPCfASu6X_BJqTdgSak3Y?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60344864/%E8%8B%B1%E7%8E%8B%E6%9F%A5%E7%90%86%E6%96%AF%E4%B8%89%E4%B8%96%E6%96%BC%E7%BE%8E%E5%9C%8B%E5%9C%8B%E6%9C%83%E6%BC%94%E8%AA%AA-%E8%AB%87%E5%8F%8A%E7%99%BD%E5%AE%AE%E6%A7%8D%E6%93%8A-%E6%9A%B4%E8%A1%8C%E6%B0%B8%E4%B8%8D%E6%9C%83%E5%BE%97%E9%80%9E",
+    "timestamp": "2026-04-28T23:54:09.876Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "電子煙4.30起禁　何謂「另類煙用物質」？有煙機違法否？一文看清",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260427/1125576911834058752357812.jpeg/dmT31mLB4hKbKrnJxuBu1dDU05qFvptsIWpYNiFqWDY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60344247/60%E6%AD%B2%E9%83%AD%E5%AF%8C%E5%9F%8E%E9%96%8B%E5%B7%A1%E5%94%B1%E5%90%B8%E9%87%91%E9%A4%8A%E5%AE%B6%E6%9A%B4%E7%98%A6%E6%94%B0%E5%88%B0%E6%AE%98-%E6%90%AD%E9%A3%9B%E6%A9%9F%E5%8C%85%E5%88%B0%E5%86%9A%E6%81%B0%E7%9C%BC%E7%9E%93%E6%83%B9%E6%86%82%E5%BF%83",
     "timestamp": "2026-04-27T22:37:15.658Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "阿根廷門將推倒對手被逐　把心一橫向對方再補一拳爆全武行｜有片",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260428/1125592205826723840254079.jpeg/jFYYmMn6ui_g-au_pEcG9X9jX7u_iLGgeocb1nqHG9Y?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%92%B0%E7%90%83%E8%B6%A3%E8%81%9E/60344411/%E9%98%BF%E6%A0%B9%E5%BB%B7%E9%96%80%E5%B0%87%E6%8E%A8%E5%80%92%E5%B0%8D%E6%89%8B%E8%A2%AB%E9%80%90-%E6%8A%8A%E5%BF%83%E4%B8%80%E6%A9%AB%E5%90%91%E5%B0%8D%E6%96%B9%E5%86%8D%E8%A3%9C%E4%B8%80%E6%8B%B3%E7%88%86%E5%85%A8%E6%AD%A6%E8%A1%8C-%E6%9C%89%E7%89%87",
-    "timestamp": "2026-04-27T22:09:44.863Z",
     "strategy": ".content-card__main"
   }
 ];
