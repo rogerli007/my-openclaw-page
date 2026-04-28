@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-28T16:00:38.537Z
+// Last updated: 2026-04-28T16:46:47.171Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "警天水圍打擊街頭賭博　24男女被捕",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260429/1125955457601507328519738.jpeg/mAVsEvK51mCW1AbFiXCKpiXAb8PLHMW6kp5oHZKeaB0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60344842/%E8%AD%A6%E5%A4%A9%E6%B0%B4%E5%9C%8D%E6%89%93%E6%93%8A%E8%A1%97%E9%A0%AD%E8%B3%AD%E5%8D%9A-24%E7%94%B7%E5%A5%B3%E8%A2%AB%E6%8D%95",
+    "timestamp": "2026-04-28T16:46:47.171Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "穿Prada的惡魔2｜林盛斌兩女兒出席首映  大擺可愛pose",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260428/1125603691160670208627180.jpeg/UGyxICYU0_XOv6RwqKMPVgdy3OqYfyVe_gWaz_4Fms8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60344415/%E4%BC%8A%E6%9C%97%E5%A4%96%E9%95%B7-%E6%AD%A3%E8%A9%95%E4%BC%B0%E7%BE%8E%E6%96%B9%E8%AB%87%E5%88%A4%E8%AB%8B%E6%B1%82-%E4%BC%8A%E5%AA%92-261%E8%AD%B0%E5%93%A1%E7%A8%B1%E4%BF%A1%E4%BB%BB%E8%AB%87%E5%88%A4%E4%BB%A3%E8%A1%A8%E5%9C%98",
     "timestamp": "2026-04-27T17:39:43.455Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "五一好去處｜廉署咖啡廳推音樂主題活動　全新文創紀念品免費送",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260428/1125595670665760768740138.png/wbbUJ988sw-zrp8IW7DeEf2U7Fs8NDdSArwtfwK8LX8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60344413/%E4%BA%94%E4%B8%80%E5%A5%BD%E5%8E%BB%E8%99%95-%E5%BB%89%E7%BD%B2%E5%92%96%E5%95%A1%E5%BB%B3%E6%8E%A8%E9%9F%B3%E6%A8%82%E4%B8%BB%E9%A1%8C%E6%B4%BB%E5%8B%95-%E5%85%A8%E6%96%B0%E6%96%87%E5%89%B5%E7%B4%80%E5%BF%B5%E5%93%81%E5%85%8D%E8%B2%BB%E9%80%81",
-    "timestamp": "2026-04-27T16:56:10.894Z",
     "strategy": ".content-card__main"
   }
 ];
