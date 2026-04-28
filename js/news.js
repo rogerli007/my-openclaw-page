@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-28T11:02:02.514Z
+// Last updated: 2026-04-28T16:00:38.537Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "穿Prada的惡魔2｜林盛斌兩女兒出席首映  大擺可愛pose",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260428/1125934099815469056471598.jpeg/yiszmMcLzSmbjEl0QEswTULrCI302otuFCFu6BQhbug?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60344834/%E7%A9%BFprada%E7%9A%84%E6%83%A1%E9%AD%942-%E6%9E%97%E7%9B%9B%E6%96%8C%E5%85%A9%E5%A5%B3%E5%85%92%E5%87%BA%E5%B8%AD%E9%A6%96%E6%98%A0-%E5%A4%A7%E6%93%BA%E5%8F%AF%E6%84%9Bpose",
+    "timestamp": "2026-04-28T16:00:38.537Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "日媒：日本召開觀光「雙軌制」定價會議　料明年3月制定方針",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260428/1125595670665760768740138.png/wbbUJ988sw-zrp8IW7DeEf2U7Fs8NDdSArwtfwK8LX8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60344413/%E4%BA%94%E4%B8%80%E5%A5%BD%E5%8E%BB%E8%99%95-%E5%BB%89%E7%BD%B2%E5%92%96%E5%95%A1%E5%BB%B3%E6%8E%A8%E9%9F%B3%E6%A8%82%E4%B8%BB%E9%A1%8C%E6%B4%BB%E5%8B%95-%E5%85%A8%E6%96%B0%E6%96%87%E5%89%B5%E7%B4%80%E5%BF%B5%E5%93%81%E5%85%8D%E8%B2%BB%E9%80%81",
     "timestamp": "2026-04-27T16:56:10.894Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美媒：伊朗向美提新方案　先重開霍爾木茲海峽及停火　延後核談判",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260408/1118485592221421568486395.jpeg/5KiNJbtOlShl6zXCgClQsTMOdi7mlBw257LaLuey2i4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60344381/%E7%BE%8E%E5%AA%92-%E4%BC%8A%E6%9C%97%E5%90%91%E7%BE%8E%E6%8F%90%E6%96%B0%E6%96%B9%E6%A1%88-%E5%85%88%E9%87%8D%E9%96%8B%E9%9C%8D%E7%88%BE%E6%9C%A8%E8%8C%B2%E6%B5%B7%E5%B3%BD%E5%8F%8A%E5%81%9C%E7%81%AB-%E5%BB%B6%E5%BE%8C%E6%A0%B8%E8%AB%87%E5%88%A4",
-    "timestamp": "2026-04-27T13:44:40.211Z",
     "strategy": ".content-card__main"
   }
 ];
