@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-28T21:20:55.596Z
+// Last updated: 2026-04-28T22:55:26.384Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "袁偉豪減產生活依然奢華　豪晒百萬跑車名錶「燒錢」愛好顯身家",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260428/1125901374987440128359741.jpeg/S2yAIZyxPeSyDlwWKJcHJiwh8YjuHQUlqaj0lqmo9JY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60344596/%E8%A2%81%E5%81%89%E8%B1%AA%E6%B8%9B%E7%94%A2%E7%94%9F%E6%B4%BB%E4%BE%9D%E7%84%B6%E5%A5%A2%E8%8F%AF-%E8%B1%AA%E6%99%92%E7%99%BE%E8%90%AC%E8%B7%91%E8%BB%8A%E5%90%8D%E9%8C%B6-%E7%87%92%E9%8C%A2-%E6%84%9B%E5%A5%BD%E9%A1%AF%E8%BA%AB%E5%AE%B6",
+    "timestamp": "2026-04-28T22:55:26.384Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "歐聯4強首回合｜巴黎聖日耳門5：4拜仁慕尼黑",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260428/1125656227901083648738690.jpeg/GB5JaqznBN_nNaOyrQ7glXJisW5Z3FupN-EjKDfhIyg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60344423/%E8%8B%B1%E8%B6%85-%E6%9B%BC%E8%81%AF2-1%E5%8B%9D%E8%B3%93%E7%A6%8F%E7%89%B9-%E7%BA%8C%E5%B1%85%E7%AC%AC%E4%B8%89%E4%BD%8D",
     "timestamp": "2026-04-27T21:41:24.843Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "英王查理斯三世訪美　抵白宮與特朗普喝下午茶",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260428/1125653971856527360021769.jpeg/x-Aw2lRJrnEQg6QKgkwvtZLHxekl838Phw01KYcNNSk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60344422/%E8%8B%B1%E7%8E%8B%E6%9F%A5%E7%90%86%E6%96%AF%E4%B8%89%E4%B8%96%E8%A8%AA%E7%BE%8E-%E6%8A%B5%E7%99%BD%E5%AE%AE%E8%88%87%E7%89%B9%E6%9C%97%E6%99%AE%E5%96%9D%E4%B8%8B%E5%8D%88%E8%8C%B6",
-    "timestamp": "2026-04-27T21:16:12.924Z",
     "strategy": ".content-card__main"
   }
 ];
