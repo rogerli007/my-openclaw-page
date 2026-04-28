@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-28T01:14:20.871Z
+// Last updated: 2026-04-28T02:03:36.127Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "恒隆內地第11個項目杭州開幕　商場出租率逾90%　陳文博親臨撐場",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260428/1125733792615501824421908.jpeg/DpKLgkaCxVxcSZO44bKV3EocnsYmt12sPp6DUT6eg1E?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60344463/%E6%81%92%E9%9A%86%E5%85%A7%E5%9C%B0%E7%AC%AC11%E5%80%8B%E9%A0%85%E7%9B%AE%E6%9D%AD%E5%B7%9E%E9%96%8B%E5%B9%95-%E5%95%86%E5%A0%B4%E5%87%BA%E7%A7%9F%E7%8E%87%E9%80%BE90-%E9%99%B3%E6%96%87%E5%8D%9A%E8%A6%AA%E8%87%A8%E6%92%90%E5%A0%B4",
+    "timestamp": "2026-04-28T02:03:36.127Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "失聰松鼠狗熟睡不知狗主回家！暖心狗兄弟即叫醒　帶隊討摸超有愛",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260427/1125483814412357632203785.jpeg/_-WcZzQgV-jREOsBUNGg7nVXF0N_LTLnCnDNMQpwzTE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%A6%AA%E5%AD%90/60342813/5%E6%9C%88%E6%96%B0%E6%89%8B%E7%88%B8%E5%AA%BD%E8%AC%9B%E5%BA%A7-%E8%B4%8F%E5%AC%B0%E5%85%92%E5%A5%B6%E7%93%B6%E5%A5%97%E8%A3%9D-%E4%B8%89%E5%90%88%E4%B8%80uv%E6%B6%88%E6%AF%92%E5%99%A8-%E5%AC%B0%E5%85%92%E6%A3%89%E8%A2%AB",
     "timestamp": "2026-04-27T09:24:03.213Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "馬斯克旗下X Money將推出　存息6厘現金回贈3%　美版微信將面世？",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250106/952998329292165120746321.jpeg/YB-3LzgixFw8tXHhuv4umkpEXwLRQ_i2A6ryMwOq8jM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60344262/%E9%A6%AC%E6%96%AF%E5%85%8B%E6%97%97%E4%B8%8Bx-money%E5%B0%87%E6%8E%A8%E5%87%BA-%E5%AD%98%E6%81%AF6%E5%8E%98%E7%8F%BE%E9%87%91%E5%9B%9E%E8%B4%883-%E7%BE%8E%E7%89%88%E5%BE%AE%E4%BF%A1%E5%B0%87%E9%9D%A2%E4%B8%96",
-    "timestamp": "2026-04-27T08:24:01.488Z",
     "strategy": ".content-card__main"
   }
 ];
