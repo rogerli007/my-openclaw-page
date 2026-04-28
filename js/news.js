@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-28T18:54:59.178Z
+// Last updated: 2026-04-28T19:41:23.959Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "Meta併購Manus被叫停　央視：禁止企業「洗澡式出海」",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250307/974710391399518208874193.jpeg/W_bq4zzoZglxAkhvsQa2Jky0lLc9IA4E-_BXdPvwV3Q?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60344852/meta%E4%BD%B5%E8%B3%BCmanus%E8%A2%AB%E5%8F%AB%E5%81%9C-%E5%A4%AE%E8%A6%96-%E7%A6%81%E6%AD%A2%E4%BC%81%E6%A5%AD-%E6%B4%97%E6%BE%A1%E5%BC%8F%E5%87%BA%E6%B5%B7",
+    "timestamp": "2026-04-28T19:41:23.959Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "石排灣邨74歲女途人遭小巴撞傷昏迷　68歲司機涉危駕和毒駕被捕",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260426/1125051390356623360496721.png/Fq_56RQ3hrVi6vLlyveZ8KmeAotLvQM8sbm4grG5uII?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60344420/%E7%99%BD%E5%AE%AE%E8%A8%98%E8%80%85%E6%99%9A%E5%AE%B4%E6%A7%8D%E6%93%8A-%E7%96%91%E7%8A%AF%E9%A6%96%E6%AC%A1%E6%B3%95%E9%99%A2%E6%8F%90%E5%A0%82-%E8%A2%AB%E6%8E%A7%E4%BC%81%E5%9C%96%E6%9A%97%E6%AE%BA%E7%B8%BD%E7%B5%B1%E7%AD%893%E7%BD%AA",
     "timestamp": "2026-04-27T19:22:29.755Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "荃威花園單位冒煙　消防全副裝備行樓梯搜索　證為滅蝨彈虛驚一場",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260428/1125618808954818560678453.jpeg/XveTGMjazRpJJeHHH3dskDD7vD37f5VPZ_BczWfwXM0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60344419/%E8%8D%83%E5%A8%81%E8%8A%B1%E5%9C%92%E5%96%AE%E4%BD%8D%E5%86%92%E7%85%99-%E6%B6%88%E9%98%B2%E5%85%A8%E5%89%AF%E8%A3%9D%E5%82%99%E8%A1%8C%E6%A8%93%E6%A2%AF%E6%90%9C%E7%B4%A2-%E8%AD%89%E7%82%BA%E6%BB%85%E8%9D%A8%E5%BD%88%E8%99%9B%E9%A9%9A%E4%B8%80%E5%A0%B4",
-    "timestamp": "2026-04-27T18:49:48.795Z",
     "strategy": ".content-card__main"
   }
 ];
