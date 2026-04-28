@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-28T03:23:08.691Z
+// Last updated: 2026-04-28T04:47:51.948Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "宏福苑｜消息：宏志閣料納政府收購方案　75%業主初步同意賣業權",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260221/1101964409015898112783016.jpeg/weRidmkLR9-BMlQLb0W5wMVYDdKX9D3B5bYH7v-2B-4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60344557/%E5%AE%8F%E7%A6%8F%E8%8B%91-%E6%B6%88%E6%81%AF-%E5%AE%8F%E5%BF%97%E9%96%A3%E6%96%99%E7%B4%8D%E6%94%BF%E5%BA%9C%E6%94%B6%E8%B3%BC%E6%96%B9%E6%A1%88-75-%E6%A5%AD%E4%B8%BB%E5%88%9D%E6%AD%A5%E5%90%8C%E6%84%8F%E8%B3%A3%E6%A5%AD%E6%AC%8A",
+    "timestamp": "2026-04-28T04:47:51.948Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "特朗普轉載保守派網紅建議　撐ICE移民執法部門更名NICE｜有片",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260427/1125502367731552256364258.jpeg/C1PIAPRNafl58CJAZrKZF1F15fQvwLcXhiu_rIYrv6w?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%97%9D%E6%96%87/60344323/%E5%B0%88%E8%A8%AA-%E4%B8%AD%E5%9C%8B%E6%9B%B8%E7%95%AB%E6%94%B6%E8%97%8F%E6%AD%A3%E8%BF%8E%E4%BE%86%E4%B8%96%E4%BB%A3%E4%BA%A4%E6%9B%BF-%E4%BD%B3%E5%A3%AB%E5%BE%97%E5%B0%88%E5%AE%B6%E8%A7%A3%E5%AF%86-%E5%A4%A9%E5%83%B9-%E9%82%8F%E8%BC%AF",
     "timestamp": "2026-04-27T11:19:21.182Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "古天樂自爆有潔癖　離開酒店房間前一定做呢件事",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260427/1125490438736711680782693.jpeg/dwvIfp9BqTzjKxVCxc0DD7pSFRUJUVILSQ5EqEkORKg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60344325/%E5%8F%A4%E5%A4%A9%E6%A8%82%E8%87%AA%E7%88%86%E6%9C%89%E6%BD%94%E7%99%96-%E9%9B%A2%E9%96%8B%E9%85%92%E5%BA%97%E6%88%BF%E9%96%93%E5%89%8D%E4%B8%80%E5%AE%9A%E5%81%9A%E5%91%A2%E4%BB%B6%E4%BA%8B",
-    "timestamp": "2026-04-27T10:23:20.639Z",
     "strategy": ".content-card__main"
   }
 ];
