@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-27T23:39:42.178Z
+// Last updated: 2026-04-28T00:09:41.148Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "谷歌員工敦促CEO　阻止美國軍方使用其人工智能技術",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20251218/1078379042312294400687154.jpeg/hxtEpFKvjAvSAxHPn-7_H3BTnBc9ybcsMqoTIzKqEyM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60344431/%E8%B0%B7%E6%AD%8C%E5%93%A1%E5%B7%A5%E6%95%A6%E4%BF%83ceo-%E9%98%BB%E6%AD%A2%E7%BE%8E%E5%9C%8B%E8%BB%8D%E6%96%B9%E4%BD%BF%E7%94%A8%E5%85%B6%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E6%8A%80%E8%A1%93",
+    "timestamp": "2026-04-28T00:09:41.148Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美國與中國AI競爭的系統性困局：已經與晶片無關",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20240710/887734315692068864365890.jpeg/ozPeqhfMRg4ZjWucEHxtZCX8K__WYy8abFOk_mxTpP4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60344198/%E5%95%86%E5%8B%99%E9%83%A8%E5%B0%B1%E6%AD%90%E7%9B%9F-%E5%B7%A5%E6%A5%AD%E5%8A%A0%E9%80%9F%E5%99%A8%E6%B3%95%E6%A1%88-%E8%A1%A8%E9%81%94%E9%97%9C%E5%88%87-%E5%80%98%E5%9F%B7%E6%84%8F%E6%8E%A8%E5%8B%95%E5%B0%87%E5%8F%8D%E5%88%B6",
     "timestamp": "2026-04-27T06:25:34.161Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "着迷劇情｜最新追劇日曆/播出時間+演員角色簡介",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260427/1125425481072513024317642.jpeg/Ovao32Jyi007m9v9brqv9ZtP88aU9uZdwRZj7cEWY-0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60344184/%E7%9D%80%E8%BF%B7%E5%8A%87%E6%83%85-%E6%9C%80%E6%96%B0%E8%BF%BD%E5%8A%87%E6%97%A5%E6%9B%86-%E6%92%AD%E5%87%BA%E6%99%82%E9%96%93-%E6%BC%94%E5%93%A1%E8%A7%92%E8%89%B2%E7%B0%A1%E4%BB%8B",
-    "timestamp": "2026-04-27T05:30:38.939Z",
     "strategy": ".content-card__main"
   }
 ];
