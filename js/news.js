@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-28T22:55:26.384Z
+// Last updated: 2026-04-28T23:29:31.818Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "電子煙4.30起禁　何謂「另類煙用物質」？有煙機違法否？一文看清",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260428/1125935707504775168915673.jpeg/M5AIR3B2zNZl-_wKi_4gUYeJP2CI4C5AACZI9QAmSPU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60344825/%E9%9B%BB%E5%AD%90%E7%85%994-30%E8%B5%B7%E7%A6%81-%E4%BD%95%E8%AC%82-%E5%8F%A6%E9%A1%9E%E7%85%99%E7%94%A8%E7%89%A9%E8%B3%AA-%E6%9C%89%E7%85%99%E6%A9%9F%E9%81%95%E6%B3%95%E5%90%A6-%E4%B8%80%E6%96%87%E7%9C%8B%E6%B8%85",
+    "timestamp": "2026-04-28T23:29:31.818Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "袁偉豪減產生活依然奢華　豪晒百萬跑車名錶「燒錢」愛好顯身家",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260428/1125592205826723840254079.jpeg/jFYYmMn6ui_g-au_pEcG9X9jX7u_iLGgeocb1nqHG9Y?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%92%B0%E7%90%83%E8%B6%A3%E8%81%9E/60344411/%E9%98%BF%E6%A0%B9%E5%BB%B7%E9%96%80%E5%B0%87%E6%8E%A8%E5%80%92%E5%B0%8D%E6%89%8B%E8%A2%AB%E9%80%90-%E6%8A%8A%E5%BF%83%E4%B8%80%E6%A9%AB%E5%90%91%E5%B0%8D%E6%96%B9%E5%86%8D%E8%A3%9C%E4%B8%80%E6%8B%B3%E7%88%86%E5%85%A8%E6%AD%A6%E8%A1%8C-%E6%9C%89%E7%89%87",
     "timestamp": "2026-04-27T22:09:44.863Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "英超｜曼聯2：1勝賓福特　續居第三位",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260428/1125656227901083648738690.jpeg/GB5JaqznBN_nNaOyrQ7glXJisW5Z3FupN-EjKDfhIyg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60344423/%E8%8B%B1%E8%B6%85-%E6%9B%BC%E8%81%AF2-1%E5%8B%9D%E8%B3%93%E7%A6%8F%E7%89%B9-%E7%BA%8C%E5%B1%85%E7%AC%AC%E4%B8%89%E4%BD%8D",
-    "timestamp": "2026-04-27T21:41:24.843Z",
     "strategy": ".content-card__main"
   }
 ];
