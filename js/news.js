@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-28T04:47:51.948Z
+// Last updated: 2026-04-28T05:53:23.873Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "亞沙運｜袁靜雪女子滑浪風帆添銀　煞科日風勢微弱未能作賽",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260428/1125792691913756672129804.jpeg/oL2SDoQwWOPID_X1ykhP_Zs6XtHdsDRVwinA38IpwN8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60344591/%E4%BA%9E%E6%B2%99%E9%81%8B-%E8%A2%81%E9%9D%9C%E9%9B%AA%E5%A5%B3%E5%AD%90%E6%BB%91%E6%B5%AA%E9%A2%A8%E5%B8%86%E6%B7%BB%E9%8A%80-%E7%85%9E%E7%A7%91%E6%97%A5%E9%A2%A8%E5%8B%A2%E5%BE%AE%E5%BC%B1%E6%9C%AA%E8%83%BD%E4%BD%9C%E8%B3%BD",
+    "timestamp": "2026-04-28T05:53:23.873Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "宏福苑｜消息：宏志閣料納政府收購方案　75%業主初步同意賣業權",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260427/1125518209877807104751820.jpeg/eeGTC7mFoxdaOwJJInZJ68hcBqmNrvE-_Nrh1dna4dU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60344363/%E5%AE%8F%E7%A6%8F%E8%8B%91-%E8%81%BD%E8%AD%89%E6%9C%83%E4%BD%9C%E4%BE%9B%E8%87%AA%E8%B2%AC%E6%9C%AA%E6%8B%8D%E9%84%B0%E5%B1%85%E9%96%80-%E5%A5%B3%E5%B1%85%E6%B0%91%E9%87%8D%E8%BF%94%E8%88%8A%E5%B1%85-%E6%9C%89%E5%A5%BD%E5%A5%BD%E9%81%93%E6%AD%89",
     "timestamp": "2026-04-27T12:02:52.467Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "中國書畫拍賣屢創天價！專訪佳士得專家解構價值連城的秘密",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260427/1125502367731552256364258.jpeg/C1PIAPRNafl58CJAZrKZF1F15fQvwLcXhiu_rIYrv6w?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%97%9D%E6%96%87/60344323/%E5%B0%88%E8%A8%AA-%E4%B8%AD%E5%9C%8B%E6%9B%B8%E7%95%AB%E6%94%B6%E8%97%8F%E6%AD%A3%E8%BF%8E%E4%BE%86%E4%B8%96%E4%BB%A3%E4%BA%A4%E6%9B%BF-%E4%BD%B3%E5%A3%AB%E5%BE%97%E5%B0%88%E5%AE%B6%E8%A7%A3%E5%AF%86-%E5%A4%A9%E5%83%B9-%E9%82%8F%E8%BC%AF",
-    "timestamp": "2026-04-27T11:19:21.182Z",
     "strategy": ".content-card__main"
   }
 ];
