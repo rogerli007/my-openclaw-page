@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-28T16:46:47.171Z
+// Last updated: 2026-04-28T18:54:59.178Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "石排灣邨74歲女途人遭小巴撞傷昏迷　68歲司機涉危駕和毒駕被捕",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260429/1125984564741672960247195.jpeg/aAwhNrLY6PwGX-WyGIFXnDtFw7DNwNe_TUM0kk1DNJI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60344849/%E7%9F%B3%E6%8E%92%E7%81%A3%E9%82%A874%E6%AD%B2%E5%A5%B3%E9%80%94%E4%BA%BA%E9%81%AD%E5%B0%8F%E5%B7%B4%E6%92%9E%E5%82%B7%E6%98%8F%E8%BF%B7-68%E6%AD%B2%E5%8F%B8%E6%A9%9F%E6%B6%89%E5%8D%B1%E9%A7%95%E5%92%8C%E6%AF%92%E9%A7%95%E8%A2%AB%E6%8D%95",
+    "timestamp": "2026-04-28T18:54:59.178Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "警天水圍打擊街頭賭博　24男女被捕",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260428/1125618808954818560678453.jpeg/XveTGMjazRpJJeHHH3dskDD7vD37f5VPZ_BczWfwXM0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60344419/%E8%8D%83%E5%A8%81%E8%8A%B1%E5%9C%92%E5%96%AE%E4%BD%8D%E5%86%92%E7%85%99-%E6%B6%88%E9%98%B2%E5%85%A8%E5%89%AF%E8%A3%9D%E5%82%99%E8%A1%8C%E6%A8%93%E6%A2%AF%E6%90%9C%E7%B4%A2-%E8%AD%89%E7%82%BA%E6%BB%85%E8%9D%A8%E5%BD%88%E8%99%9B%E9%A9%9A%E4%B8%80%E5%A0%B4",
     "timestamp": "2026-04-27T18:49:48.795Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "伊朗外長：正評估美方談判請求　伊媒：261議員稱信任談判代表團",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260428/1125603691160670208627180.jpeg/UGyxICYU0_XOv6RwqKMPVgdy3OqYfyVe_gWaz_4Fms8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60344415/%E4%BC%8A%E6%9C%97%E5%A4%96%E9%95%B7-%E6%AD%A3%E8%A9%95%E4%BC%B0%E7%BE%8E%E6%96%B9%E8%AB%87%E5%88%A4%E8%AB%8B%E6%B1%82-%E4%BC%8A%E5%AA%92-261%E8%AD%B0%E5%93%A1%E7%A8%B1%E4%BF%A1%E4%BB%BB%E8%AB%87%E5%88%A4%E4%BB%A3%E8%A1%A8%E5%9C%98",
-    "timestamp": "2026-04-27T17:39:43.455Z",
     "strategy": ".content-card__main"
   }
 ];
