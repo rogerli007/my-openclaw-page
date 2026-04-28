@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-28T02:03:36.127Z
+// Last updated: 2026-04-28T03:23:08.691Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "特朗普轉載保守派網紅建議　撐ICE移民執法部門更名NICE｜有片",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260428/1125751767036858368249361.jpeg/fxmSm5zNRCukd1BcVp0-FA7inDAeQWpFV6PdS1ej3Us?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60344512/%E7%89%B9%E6%9C%97%E6%99%AE%E8%BD%89%E8%BC%89%E4%BF%9D%E5%AE%88%E6%B4%BE%E7%B6%B2%E7%B4%85%E5%BB%BA%E8%AD%B0-%E6%92%90ice%E7%A7%BB%E6%B0%91%E5%9F%B7%E6%B3%95%E9%83%A8%E9%96%80%E6%9B%B4%E5%90%8Dnice-%E6%9C%89%E7%89%87",
+    "timestamp": "2026-04-28T03:23:08.691Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "恒隆內地第11個項目杭州開幕　商場出租率逾90%　陳文博親臨撐場",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260427/1125490438736711680782693.jpeg/dwvIfp9BqTzjKxVCxc0DD7pSFRUJUVILSQ5EqEkORKg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60344325/%E5%8F%A4%E5%A4%A9%E6%A8%82%E8%87%AA%E7%88%86%E6%9C%89%E6%BD%94%E7%99%96-%E9%9B%A2%E9%96%8B%E9%85%92%E5%BA%97%E6%88%BF%E9%96%93%E5%89%8D%E4%B8%80%E5%AE%9A%E5%81%9A%E5%91%A2%E4%BB%B6%E4%BA%8B",
     "timestamp": "2026-04-27T10:23:20.639Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "5月新手爸媽講座｜贏嬰兒奶瓶套裝/三合一UV消毒器/嬰兒棉被",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260427/1125483814412357632203785.jpeg/_-WcZzQgV-jREOsBUNGg7nVXF0N_LTLnCnDNMQpwzTE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%A6%AA%E5%AD%90/60342813/5%E6%9C%88%E6%96%B0%E6%89%8B%E7%88%B8%E5%AA%BD%E8%AC%9B%E5%BA%A7-%E8%B4%8F%E5%AC%B0%E5%85%92%E5%A5%B6%E7%93%B6%E5%A5%97%E8%A3%9D-%E4%B8%89%E5%90%88%E4%B8%80uv%E6%B6%88%E6%AF%92%E5%99%A8-%E5%AC%B0%E5%85%92%E6%A3%89%E8%A2%AB",
-    "timestamp": "2026-04-27T09:24:03.213Z",
     "strategy": ".content-card__main"
   }
 ];
