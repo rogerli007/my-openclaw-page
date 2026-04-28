@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-28T20:17:20.007Z
+// Last updated: 2026-04-28T21:20:55.596Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "歐聯4強首回合｜巴黎聖日耳門5：4拜仁慕尼黑",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260429/1126022259316756480089512.jpeg/cwrbARa0pi8zOsInpsgT3gELjiz_B9Se3esL2d3rC9k?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60344857/%E6%AD%90%E8%81%AF4%E5%BC%B7%E9%A6%96%E5%9B%9E%E5%90%88-%E5%B7%B4%E9%BB%8E%E8%81%96%E6%97%A5%E8%80%B3%E9%96%805-4%E6%8B%9C%E4%BB%81%E6%85%95%E5%B0%BC%E9%BB%91",
+    "timestamp": "2026-04-28T21:20:55.596Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "特朗普稱「伊朗希望美國」盡快開放霍爾木茲海峽",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260428/1125653971856527360021769.jpeg/x-Aw2lRJrnEQg6QKgkwvtZLHxekl838Phw01KYcNNSk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60344422/%E8%8B%B1%E7%8E%8B%E6%9F%A5%E7%90%86%E6%96%AF%E4%B8%89%E4%B8%96%E8%A8%AA%E7%BE%8E-%E6%8A%B5%E7%99%BD%E5%AE%AE%E8%88%87%E7%89%B9%E6%9C%97%E6%99%AE%E5%96%9D%E4%B8%8B%E5%8D%88%E8%8C%B6",
     "timestamp": "2026-04-27T21:16:12.924Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "英王查理斯三世抵美　展開為期4天國事訪問",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260428/1125636978919215104365249.jpeg/_DCggu4a_9PbsU-bgoWEKSkVare988OvuDf2ebg39nk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60344422/%E8%8B%B1%E7%8E%8B%E6%9F%A5%E7%90%86%E6%96%AF%E4%B8%89%E4%B8%96%E6%8A%B5%E7%BE%8E-%E5%B1%95%E9%96%8B%E7%82%BA%E6%9C%9F4%E5%A4%A9%E5%9C%8B%E4%BA%8B%E8%A8%AA%E5%95%8F",
-    "timestamp": "2026-04-27T20:39:03.177Z",
     "strategy": ".content-card__main"
   }
 ];
