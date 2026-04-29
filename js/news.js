@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-29T21:15:39.899Z
+// Last updated: 2026-04-29T21:44:57.195Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "伊朗戰爭逼近關鍵60天期限　五角大樓證實已迄今耗資250億美元",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260430/1126391042711490560496258.jpeg/2rueIrGPRCJxzy2cgOt4WWHiLFSBwpk9IJmAqCCZgKg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60345268/%E4%BC%8A%E6%9C%97%E6%88%B0%E7%88%AD%E9%80%BC%E8%BF%91%E9%97%9C%E9%8D%B560%E5%A4%A9%E6%9C%9F%E9%99%90-%E4%BA%94%E8%A7%92%E5%A4%A7%E6%A8%93%E8%AD%89%E5%AF%A6%E5%B7%B2%E8%BF%84%E4%BB%8A%E8%80%97%E8%B3%87250%E5%84%84%E7%BE%8E%E5%85%83",
+    "timestamp": "2026-04-29T21:44:57.195Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "珍惜生命｜觀塘翠屏北邨男子梯間上吊　昏迷送院搶救",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260429/1126151870897721344509148.jpeg/xHBBPel3B2gdao1loaaw9LVrb0hJzA8O4mK99eJivfU",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60344992/%E6%9C%89%E7%89%87-%E9%BB%83%E9%9B%A8%E4%B8%8B%E7%AD%B2%E7%AE%95%E7%81%A3%E9%98%BF%E5%85%AC%E5%B2%A9%E9%81%93%E8%B7%AF%E9%99%B7%E6%B0%B4%E6%B5%B8-%E7%9A%84%E5%A3%AB%E8%A2%AB%E5%9B%B0%E6%B0%B4%E4%B8%AD%E5%8F%B8%E6%A9%9F%E7%88%AC%E5%87%BA%E5%BE%85%E6%95%91",
     "timestamp": "2026-04-29T05:41:53.535Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "阿聯酋退出OPEC　舊石油秩序瓦解　預示更加動盪 ｜點經",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260429/1126093029371809792953608.jpeg/WMWyXiyfwx3n3P9zKTLjv6lgq9c9YhNNKc72IinO9iI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%9C%8B%E9%9A%9B%E5%88%86%E6%9E%90/60344877/%E9%98%BF%E8%81%AF%E9%85%8B%E9%80%80%E5%87%BAopec-%E8%88%8A%E7%9F%B3%E6%B2%B9%E7%A7%A9%E5%BA%8F%E7%93%A6%E8%A7%A3-%E9%A0%90%E7%A4%BA%E6%9B%B4%E5%8A%A0%E5%8B%95%E7%9B%AA-%E9%BB%9E%E7%B6%93",
-    "timestamp": "2026-04-29T01:47:53.041Z",
     "strategy": ".content-card__main"
   }
 ];
