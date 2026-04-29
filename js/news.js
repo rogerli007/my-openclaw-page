@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-29T14:22:24.773Z
+// Last updated: 2026-04-29T16:13:01.862Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "51歲吳彥祖男神容貌「崩壞」？　光頭T恤阿伯Look獨自健行玩電話",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260429/1126295805276196864689410.jpeg/LRrwFBQN-hCIJXUpRjVo4N6BEHpoaJOOy5aEkcuWhJE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60345069/51%E6%AD%B2%E5%90%B3%E5%BD%A5%E7%A5%96%E7%94%B7%E7%A5%9E%E5%AE%B9%E8%B2%8C-%E5%B4%A9%E5%A3%9E-%E5%85%89%E9%A0%ADt%E6%81%A4%E9%98%BF%E4%BC%AFlook%E7%8D%A8%E8%87%AA%E5%81%A5%E8%A1%8C%E7%8E%A9%E9%9B%BB%E8%A9%B1",
+    "timestamp": "2026-04-29T16:13:01.862Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "深圳優化樓市政策　放寬福田南山等核心區限購　調高貸款上限",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260429/1125984564741672960247195.jpeg/aAwhNrLY6PwGX-WyGIFXnDtFw7DNwNe_TUM0kk1DNJI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60344849/%E7%9F%B3%E6%8E%92%E7%81%A3%E9%82%A874%E6%AD%B2%E5%A5%B3%E9%80%94%E4%BA%BA%E9%81%AD%E5%B0%8F%E5%B7%B4%E6%92%9E%E5%82%B7%E6%98%8F%E8%BF%B7-68%E6%AD%B2%E5%8F%B8%E6%A9%9F%E6%B6%89%E5%8D%B1%E9%A7%95%E5%92%8C%E6%AF%92%E9%A7%95%E8%A2%AB%E6%8D%95",
     "timestamp": "2026-04-28T18:54:59.178Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "警天水圍打擊街頭賭博　24男女被捕",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260429/1125955457601507328519738.jpeg/mAVsEvK51mCW1AbFiXCKpiXAb8PLHMW6kp5oHZKeaB0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60344842/%E8%AD%A6%E5%A4%A9%E6%B0%B4%E5%9C%8D%E6%89%93%E6%93%8A%E8%A1%97%E9%A0%AD%E8%B3%AD%E5%8D%9A-24%E7%94%B7%E5%A5%B3%E8%A2%AB%E6%8D%95",
-    "timestamp": "2026-04-28T16:46:47.171Z",
     "strategy": ".content-card__main"
   }
 ];
