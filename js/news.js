@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-29T16:13:01.862Z
+// Last updated: 2026-04-29T16:55:19.516Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "油價｜政府補貼液化石油氣燃料費　2萬架的士、小巴及校巴受惠",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260430/1126313824316559360832795.jpeg/sZN6IR4l7q7yvA30zasd9-ZPNZLq3yhEfllGfn5ZRn4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60345248/%E6%B2%B9%E5%83%B9-%E6%94%BF%E5%BA%9C%E8%A3%9C%E8%B2%BC%E6%B6%B2%E5%8C%96%E7%9F%B3%E6%B2%B9%E6%B0%A3%E7%87%83%E6%96%99%E8%B2%BB-2%E8%90%AC%E6%9E%B6%E7%9A%84%E5%A3%AB-%E5%B0%8F%E5%B7%B4%E5%8F%8A%E6%A0%A1%E5%B7%B4%E5%8F%97%E6%83%A0",
+    "timestamp": "2026-04-29T16:55:19.516Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "51歲吳彥祖男神容貌「崩壞」？　光頭T恤阿伯Look獨自健行玩電話",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250307/974710391399518208874193.jpeg/W_bq4zzoZglxAkhvsQa2Jky0lLc9IA4E-_BXdPvwV3Q?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60344852/meta%E4%BD%B5%E8%B3%BCmanus%E8%A2%AB%E5%8F%AB%E5%81%9C-%E5%A4%AE%E8%A6%96-%E7%A6%81%E6%AD%A2%E4%BC%81%E6%A5%AD-%E6%B4%97%E6%BE%A1%E5%BC%8F%E5%87%BA%E6%B5%B7",
     "timestamp": "2026-04-28T19:41:23.959Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "石排灣邨74歲女途人遭小巴撞傷昏迷　68歲司機涉危駕和毒駕被捕",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260429/1125984564741672960247195.jpeg/aAwhNrLY6PwGX-WyGIFXnDtFw7DNwNe_TUM0kk1DNJI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60344849/%E7%9F%B3%E6%8E%92%E7%81%A3%E9%82%A874%E6%AD%B2%E5%A5%B3%E9%80%94%E4%BA%BA%E9%81%AD%E5%B0%8F%E5%B7%B4%E6%92%9E%E5%82%B7%E6%98%8F%E8%BF%B7-68%E6%AD%B2%E5%8F%B8%E6%A9%9F%E6%B6%89%E5%8D%B1%E9%A7%95%E5%92%8C%E6%AF%92%E9%A7%95%E8%A2%AB%E6%8D%95",
-    "timestamp": "2026-04-28T18:54:59.178Z",
     "strategy": ".content-card__main"
   }
 ];
