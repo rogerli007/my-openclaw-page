@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-29T11:13:19.777Z
+// Last updated: 2026-04-29T11:56:39.152Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "感情破裂並非偶然　拆解6種最怕發生的行為　會讓人因失望而分手",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250903/1039974671233060864356917.jpeg/0nC-J1lkQ1_R6zRIs2IlT5oOychDxZ5czE8UB8xPFAc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%AB%87%E6%83%85%E8%AA%AA%E6%80%A7/60272903/%E6%84%9F%E6%83%85%E7%A0%B4%E8%A3%82%E4%B8%A6%E9%9D%9E%E5%81%B6%E7%84%B6-%E6%8B%86%E8%A7%A36%E7%A8%AE%E6%9C%80%E6%80%95%E7%99%BC%E7%94%9F%E7%9A%84%E8%A1%8C%E7%82%BA-%E6%9C%83%E8%AE%93%E4%BA%BA%E5%9B%A0%E5%A4%B1%E6%9C%9B%E8%80%8C%E5%88%86%E6%89%8B",
+    "timestamp": "2026-04-29T11:56:39.152Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "金監總局刪局長李雲澤資料　路透︰因涉違層被降職",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260428/1125852011833593856978216.jpeg/FE4Mb04cslpM00iJT1dCR7mRIG-J_BhM9rUyP8C1Mj8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60344741/%E8%94%A1%E5%8D%93%E5%A6%8D%E9%98%BFsa%E7%84%A1%E9%A0%90%E8%AD%A6%E9%96%83%E5%A9%9A-mirror-edan-jer%E6%84%95%E7%84%B6-%E5%A9%9A%E7%A6%AE%E5%B7%B2%E7%B6%93%E6%90%9E%E5%92%97",
     "timestamp": "2026-04-28T10:06:04.150Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "亞沙運｜袁靜雪女子滑浪風帆添銀　煞科日風勢微弱未能作賽",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260428/1125792691913756672129804.jpeg/oL2SDoQwWOPID_X1ykhP_Zs6XtHdsDRVwinA38IpwN8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60344591/%E4%BA%9E%E6%B2%99%E9%81%8B-%E8%A2%81%E9%9D%9C%E9%9B%AA%E5%A5%B3%E5%AD%90%E6%BB%91%E6%B5%AA%E9%A2%A8%E5%B8%86%E6%B7%BB%E9%8A%80-%E7%85%9E%E7%A7%91%E6%97%A5%E9%A2%A8%E5%8B%A2%E5%BE%AE%E5%BC%B1%E6%9C%AA%E8%83%BD%E4%BD%9C%E8%B3%BD",
-    "timestamp": "2026-04-28T05:53:23.873Z",
     "strategy": ".content-card__main"
   }
 ];
