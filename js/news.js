@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-29T20:15:09.617Z
+// Last updated: 2026-04-29T20:45:20.898Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "中澳外交與戰略對話　王毅籲客觀看待中國與太平洋島國合作",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260430/1126360512523669504426031.jpeg/wk-VGEWjvzOUuFjLlZnCHkzqFMbkZhtTOReHVDkXh1Q?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60345264/%E4%B8%AD%E6%BE%B3%E5%A4%96%E4%BA%A4%E8%88%87%E6%88%B0%E7%95%A5%E5%B0%8D%E8%A9%B1-%E7%8E%8B%E6%AF%85%E7%B1%B2%E5%AE%A2%E8%A7%80%E7%9C%8B%E5%BE%85%E4%B8%AD%E5%9C%8B%E8%88%87%E5%A4%AA%E5%B9%B3%E6%B4%8B%E5%B3%B6%E5%9C%8B%E5%90%88%E4%BD%9C",
+    "timestamp": "2026-04-29T20:45:20.898Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "中澳外交與戰略對話　王毅籲客觀看待中國與太平洋島國合作",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20210827/507886924438966272169204.jpeg/vY0kXjxpwnUNL4rbptf5dLPc5n1tfYt0ZBEuxWQRLsU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60344866/%E5%8F%97%E7%B4%AF%E5%8F%B0%E7%A9%8D%E9%9B%BB%E6%B8%9B%E6%8C%81%E5%A5%97%E7%8F%BE2-3%E5%84%84%E7%BE%8E%E5%85%83-arm%E8%82%A1%E4%BB%BD%E7%80%89%E8%BF%918",
     "timestamp": "2026-04-29T01:01:15.481Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "英王查理斯三世於美國國會演說　談及白宮槍擊：暴行永不會得逞",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260429/1126064301438668800236157.jpeg/yOcf7zKm-4DAklqNJoVvroUPCfASu6X_BJqTdgSak3Y?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60344864/%E8%8B%B1%E7%8E%8B%E6%9F%A5%E7%90%86%E6%96%AF%E4%B8%89%E4%B8%96%E6%96%BC%E7%BE%8E%E5%9C%8B%E5%9C%8B%E6%9C%83%E6%BC%94%E8%AA%AA-%E8%AB%87%E5%8F%8A%E7%99%BD%E5%AE%AE%E6%A7%8D%E6%93%8A-%E6%9A%B4%E8%A1%8C%E6%B0%B8%E4%B8%8D%E6%9C%83%E5%BE%97%E9%80%9E",
-    "timestamp": "2026-04-28T23:54:09.876Z",
     "strategy": ".content-card__main"
   }
 ];
