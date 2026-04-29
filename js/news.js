@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-29T12:47:53.996Z
+// Last updated: 2026-04-29T13:22:44.613Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "有片！強風暴襲印度集體婚禮！36對新人急逃命　婚禮現場瞬間夷平",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260429/1126211097909530624503712.png/fG1tnj0gcE59goLRtvPuaEL7sEHAwp5zF1o3bhdaN24",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60344648/%E6%9C%89%E7%89%87-%E5%BC%B7%E9%A2%A8%E6%9A%B4%E8%A5%B2%E5%8D%B0%E5%BA%A6%E9%9B%86%E9%AB%94%E5%A9%9A%E7%A6%AE-36%E5%B0%8D%E6%96%B0%E4%BA%BA%E6%80%A5%E9%80%83%E5%91%BD-%E5%A9%9A%E7%A6%AE%E7%8F%BE%E5%A0%B4%E7%9E%AC%E9%96%93%E5%A4%B7%E5%B9%B3",
+    "timestamp": "2026-04-29T13:22:44.613Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "審計報告｜物監局拖政府防疫基金1.2億　4成物管遲續牌沒通知業主",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260428/1125934099815469056471598.jpeg/yiszmMcLzSmbjEl0QEswTULrCI302otuFCFu6BQhbug?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60344834/%E7%A9%BFprada%E7%9A%84%E6%83%A1%E9%AD%942-%E6%9E%97%E7%9B%9B%E6%96%8C%E5%85%A9%E5%A5%B3%E5%85%92%E5%87%BA%E5%B8%AD%E9%A6%96%E6%98%A0-%E5%A4%A7%E6%93%BA%E5%8F%AF%E6%84%9Bpose",
     "timestamp": "2026-04-28T16:00:38.537Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "日媒：日本召開觀光「雙軌制」定價會議　料明年3月制定方針",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260115/1088517468756119552287413.jpeg/APbmrnQy-CEb-SUIy2XP6dHgnfMUevq5j0FxGo9BcRo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60344734/%E6%97%A5%E5%AA%92-%E6%97%A5%E6%9C%AC%E5%8F%AC%E9%96%8B%E8%A7%80%E5%85%89-%E9%9B%99%E8%BB%8C%E5%88%B6-%E5%AE%9A%E5%83%B9%E6%9C%83%E8%AD%B0-%E6%96%99%E6%98%8E%E5%B9%B43%E6%9C%88%E5%88%B6%E5%AE%9A%E6%96%B9%E9%87%9D",
-    "timestamp": "2026-04-28T11:02:02.514Z",
     "strategy": ".content-card__main"
   }
 ];
