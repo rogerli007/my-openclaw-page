@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-29T21:44:57.195Z
+// Last updated: 2026-04-29T22:12:55.708Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "89歲謝賢山頂被捕獲坐輪椅撐拐杖　懶理被舊愛Coco揭追女秘聞",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260429/1126214216458440704829740.jpeg/25LRTAMoyp8JnIClmkstRl2t6bZ88MWgbN37ZWzd-2U?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60345129/89%E6%AD%B2%E8%AC%9D%E8%B3%A2%E5%B1%B1%E9%A0%82%E8%A2%AB%E6%8D%95%E7%8D%B2%E5%9D%90%E8%BC%AA%E6%A4%85%E6%92%90%E6%8B%90%E6%9D%96-%E6%87%B6%E7%90%86%E8%A2%AB%E8%88%8A%E6%84%9Bcoco%E6%8F%AD%E8%BF%BD%E5%A5%B3%E7%A7%98%E8%81%9E",
+    "timestamp": "2026-04-29T22:12:55.708Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "伊朗戰爭逼近關鍵60天期限　五角大樓證實已迄今耗資250億美元",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260429/1126166482628120576024895.jpeg/Lk0k9fvZQGStGLl_ziWXVr1aNqZl9ilMTEfmZkxH5mY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%97%85%E9%81%8A/60344923/%E6%B7%B1%E5%9C%B3%E5%9C%8B%E8%B2%BFspring%E5%85%89%E6%98%8E%E9%87%8C-5-1%E9%96%8B%E5%B9%95-%E5%B9%B3%E5%83%B9%E7%89%88%E7%9B%92%E9%A6%AC%E8%B6%85%E5%B8%82-miniso%E6%97%97%E8%89%A6%E5%BA%97",
     "timestamp": "2026-04-29T06:39:57.013Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "有片︱黃雨下筲箕灣阿公岩道路陷水浸　的士被困水中司機爬出待救",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260429/1126151870897721344509148.jpeg/xHBBPel3B2gdao1loaaw9LVrb0hJzA8O4mK99eJivfU",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60344992/%E6%9C%89%E7%89%87-%E9%BB%83%E9%9B%A8%E4%B8%8B%E7%AD%B2%E7%AE%95%E7%81%A3%E9%98%BF%E5%85%AC%E5%B2%A9%E9%81%93%E8%B7%AF%E9%99%B7%E6%B0%B4%E6%B5%B8-%E7%9A%84%E5%A3%AB%E8%A2%AB%E5%9B%B0%E6%B0%B4%E4%B8%AD%E5%8F%B8%E6%A9%9F%E7%88%AC%E5%87%BA%E5%BE%85%E6%95%91",
-    "timestamp": "2026-04-29T05:41:53.535Z",
     "strategy": ".content-card__main"
   }
 ];
