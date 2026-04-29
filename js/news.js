@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-29T22:41:27.359Z
+// Last updated: 2026-04-29T23:40:24.095Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "初中女沉迷手機！揭遭男子誘拍私密照　母崩潰求救　網民：先別罵",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260429/1126006516311134208739865.png/gzXVCcwQv-mtpghFrmAVotnHDSiGBW0kSeTxJ0nk8Sc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60344818/%E5%88%9D%E4%B8%AD%E5%A5%B3%E6%B2%89%E8%BF%B7%E6%89%8B%E6%A9%9F-%E6%8F%AD%E9%81%AD%E7%94%B7%E5%AD%90%E8%AA%98%E6%8B%8D%E7%A7%81%E5%AF%86%E7%85%A7-%E6%AF%8D%E5%B4%A9%E6%BD%B0%E6%B1%82%E6%95%91-%E7%B6%B2%E6%B0%91-%E5%85%88%E5%88%A5%E7%BD%B5",
+    "timestamp": "2026-04-29T23:40:24.095Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "特朗普：與伊朗談判正通過電話進行",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250623/1013918564031139840210357.png/YNb-W8OOx1hqU3SnCtFY67okCm4PuyEwNBF5UzQReVM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60345021/%E9%AB%98%E5%BE%B7%E5%9C%B0%E5%9C%96app%E6%9C%89%E5%AE%89%E5%85%A8%E7%96%91%E6%85%AE%E5%8F%B0%E7%81%A3%E6%AC%B2%E7%A6%81%E7%94%A8-%E5%9C%8B%E5%8F%B0%E8%BE%A6-%E6%9D%AF%E5%BC%93%E8%9B%87%E5%BD%B1-%E8%8D%92%E5%94%90%E5%8F%AF%E7%AC%91",
     "timestamp": "2026-04-29T08:38:52.616Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美國防部正式要求國會批准更名「戰爭部」　料耗資5200萬美元",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260319/1111231927228043264182049.jpeg/b_Fcj_4qT4cBZD7Ou-Ee8Qzukr16-M6OuDayTrg2sk4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60345036/%E7%BE%8E%E5%9C%8B%E9%98%B2%E9%83%A8%E6%AD%A3%E5%BC%8F%E8%A6%81%E6%B1%82%E5%9C%8B%E6%9C%83%E6%89%B9%E5%87%86%E6%9B%B4%E5%90%8D-%E6%88%B0%E7%88%AD%E9%83%A8-%E6%96%99%E8%80%97%E8%B3%875200%E8%90%AC%E7%BE%8E%E5%85%83",
-    "timestamp": "2026-04-29T07:39:23.098Z",
     "strategy": ".content-card__main"
   }
 ];
