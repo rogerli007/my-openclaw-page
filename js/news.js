@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-29T08:38:52.616Z
+// Last updated: 2026-04-29T10:23:04.468Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "宏福苑｜殉職消防員何偉豪助輪椅婦　媳婦親述經過：真係好多謝佢",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260429/1126217481724104704179480.jpeg/o4neiZ-sKz-0k_80Gb1iPYZtt_syFBBio0jbSqNI20o?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60345163/%E5%AE%8F%E7%A6%8F%E8%8B%91-%E6%AE%89%E8%81%B7%E6%B6%88%E9%98%B2%E5%93%A1%E4%BD%95%E5%81%89%E8%B1%AA%E5%8A%A9%E8%BC%AA%E6%A4%85%E5%A9%A6-%E5%AA%B3%E5%A9%A6%E8%A6%AA%E8%BF%B0%E7%B6%93%E9%81%8E-%E7%9C%9F%E4%BF%82%E5%A5%BD%E5%A4%9A%E8%AC%9D%E4%BD%A2",
+    "timestamp": "2026-04-29T10:23:04.468Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "高德地圖App有安全疑慮台灣欲禁用　國台辦：杯弓蛇影，荒唐可笑",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260221/1101964409015898112783016.jpeg/weRidmkLR9-BMlQLb0W5wMVYDdKX9D3B5bYH7v-2B-4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60344557/%E5%AE%8F%E7%A6%8F%E8%8B%91-%E6%B6%88%E6%81%AF-%E5%AE%8F%E5%BF%97%E9%96%A3%E6%96%99%E7%B4%8D%E6%94%BF%E5%BA%9C%E6%94%B6%E8%B3%BC%E6%96%B9%E6%A1%88-75-%E6%A5%AD%E4%B8%BB%E5%88%9D%E6%AD%A5%E5%90%8C%E6%84%8F%E8%B3%A3%E6%A5%AD%E6%AC%8A",
     "timestamp": "2026-04-28T04:47:51.948Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普轉載保守派網紅建議　撐ICE移民執法部門更名NICE｜有片",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260428/1125751767036858368249361.jpeg/fxmSm5zNRCukd1BcVp0-FA7inDAeQWpFV6PdS1ej3Us?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60344512/%E7%89%B9%E6%9C%97%E6%99%AE%E8%BD%89%E8%BC%89%E4%BF%9D%E5%AE%88%E6%B4%BE%E7%B6%B2%E7%B4%85%E5%BB%BA%E8%AD%B0-%E6%92%90ice%E7%A7%BB%E6%B0%91%E5%9F%B7%E6%B3%95%E9%83%A8%E9%96%80%E6%9B%B4%E5%90%8Dnice-%E6%9C%89%E7%89%87",
-    "timestamp": "2026-04-28T03:23:08.691Z",
     "strategy": ".content-card__main"
   }
 ];
