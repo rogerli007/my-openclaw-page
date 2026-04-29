@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-29T01:01:15.481Z
+// Last updated: 2026-04-29T01:47:53.041Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "阿聯酋退出OPEC　舊石油秩序瓦解　預示更加動盪 ｜點經",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260429/1126093029371809792953608.jpeg/WMWyXiyfwx3n3P9zKTLjv6lgq9c9YhNNKc72IinO9iI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%9C%8B%E9%9A%9B%E5%88%86%E6%9E%90/60344877/%E9%98%BF%E8%81%AF%E9%85%8B%E9%80%80%E5%87%BAopec-%E8%88%8A%E7%9F%B3%E6%B2%B9%E7%A7%A9%E5%BA%8F%E7%93%A6%E8%A7%A3-%E9%A0%90%E7%A4%BA%E6%9B%B4%E5%8A%A0%E5%8B%95%E7%9B%AA-%E9%BB%9E%E7%B6%93",
+    "timestamp": "2026-04-29T01:47:53.041Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "受累台積電減持套現2.3億美元　Arm股份瀉近8%",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260428/1125599194107613184410578.jpeg/a5qMsABeAnmUVT-uYMhQzkRqs45BhqWNh2osRodqLEY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%9C%8B%E9%9A%9B%E5%88%86%E6%9E%90/60344334/%E7%BE%8E%E5%9C%8B%E8%88%87%E4%B8%AD%E5%9C%8Bai%E7%AB%B6%E7%88%AD%E7%9A%84%E7%B3%BB%E7%B5%B1%E6%80%A7%E5%9B%B0%E5%B1%80-%E5%B7%B2%E7%B6%93%E8%88%87%E6%99%B6%E7%89%87%E7%84%A1%E9%97%9C",
     "timestamp": "2026-04-27T23:39:42.178Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "香港仔工業學校學生講座　夏中建師傅以紮作講解結構力學與美學",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260421/1123266190853017600461208.jpeg/6ypzo2wjhUXQdEoVd9nDRX4UV3h22YMUuXT9mbl0_Zk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E4%B8%AD%E5%B0%8F%E5%AD%B8%E6%A0%A1%E5%9C%92/60342241/%E9%A6%99%E6%B8%AF%E4%BB%94%E5%B7%A5%E6%A5%AD%E5%AD%B8%E6%A0%A1%E5%AD%B8%E7%94%9F%E8%AC%9B%E5%BA%A7-%E5%A4%8F%E4%B8%AD%E5%BB%BA%E5%B8%AB%E5%82%85%E4%BB%A5%E7%B4%AE%E4%BD%9C%E8%AC%9B%E8%A7%A3%E7%B5%90%E6%A7%8B%E5%8A%9B%E5%AD%B8%E8%88%87%E7%BE%8E%E5%AD%B8",
-    "timestamp": "2026-04-27T23:11:18.550Z",
     "strategy": ".content-card__main"
   }
 ];
