@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-29T20:45:20.898Z
+// Last updated: 2026-04-29T21:15:39.899Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "珍惜生命｜觀塘翠屏北邨男子梯間上吊　昏迷送院搶救",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260430/1126383093595246592876132.jpeg/Bw5OMlR9aiHVkkqIcfOaa1VOvQ8rSa9l-urHScDqx0k?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60345265/%E7%8F%8D%E6%83%9C%E7%94%9F%E5%91%BD-%E8%A7%80%E5%A1%98%E7%BF%A0%E5%B1%8F%E5%8C%97%E9%82%A8%E7%94%B7%E5%AD%90%E6%A2%AF%E9%96%93%E4%B8%8A%E5%90%8A-%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2%E6%90%B6%E6%95%91",
+    "timestamp": "2026-04-29T21:15:39.899Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "中澳外交與戰略對話　王毅籲客觀看待中國與太平洋島國合作",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260429/1126093029371809792953608.jpeg/WMWyXiyfwx3n3P9zKTLjv6lgq9c9YhNNKc72IinO9iI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%9C%8B%E9%9A%9B%E5%88%86%E6%9E%90/60344877/%E9%98%BF%E8%81%AF%E9%85%8B%E9%80%80%E5%87%BAopec-%E8%88%8A%E7%9F%B3%E6%B2%B9%E7%A7%A9%E5%BA%8F%E7%93%A6%E8%A7%A3-%E9%A0%90%E7%A4%BA%E6%9B%B4%E5%8A%A0%E5%8B%95%E7%9B%AA-%E9%BB%9E%E7%B6%93",
     "timestamp": "2026-04-29T01:47:53.041Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "受累台積電減持套現2.3億美元　Arm股份瀉近8%",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20210827/507886924438966272169204.jpeg/vY0kXjxpwnUNL4rbptf5dLPc5n1tfYt0ZBEuxWQRLsU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60344866/%E5%8F%97%E7%B4%AF%E5%8F%B0%E7%A9%8D%E9%9B%BB%E6%B8%9B%E6%8C%81%E5%A5%97%E7%8F%BE2-3%E5%84%84%E7%BE%8E%E5%85%83-arm%E8%82%A1%E4%BB%BD%E7%80%89%E8%BF%918",
-    "timestamp": "2026-04-29T01:01:15.481Z",
     "strategy": ".content-card__main"
   }
 ];
