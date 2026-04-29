@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-29T16:55:19.516Z
+// Last updated: 2026-04-29T17:41:42.096Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "宏福苑｜大埔浸小籌款為遷校添設備　稱教局撥款僅夠基本翻新",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20251222/1079807711203561472512896.jpeg/gPifMlLEJ0F2Eam-Gu4y7hM5ri6hJHcSdoLgAXaC4AE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60345258/%E5%AE%8F%E7%A6%8F%E8%8B%91-%E5%A4%A7%E5%9F%94%E6%B5%B8%E5%B0%8F%E7%B1%8C%E6%AC%BE%E7%82%BA%E9%81%B7%E6%A0%A1%E6%B7%BB%E8%A8%AD%E5%82%99-%E7%A8%B1%E6%95%99%E5%B1%80%E6%92%A5%E6%AC%BE%E5%83%85%E5%A4%A0%E5%9F%BA%E6%9C%AC%E7%BF%BB%E6%96%B0",
+    "timestamp": "2026-04-29T17:41:42.096Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "油價｜政府補貼液化石油氣燃料費　2萬架的士、小巴及校巴受惠",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260423/1123943174725701632624879.png/eOfdFtKbj0zqOxWMhChxWHvyvoGEtnjdTYtfk02LX5M?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60344856/%E7%89%B9%E6%9C%97%E6%99%AE%E7%A8%B1-%E4%BC%8A%E6%9C%97%E5%B8%8C%E6%9C%9B%E7%BE%8E%E5%9C%8B-%E7%9B%A1%E5%BF%AB%E9%96%8B%E6%94%BE%E9%9C%8D%E7%88%BE%E6%9C%A8%E8%8C%B2%E6%B5%B7%E5%B3%BD",
     "timestamp": "2026-04-28T20:17:20.007Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "Meta併購Manus被叫停　央視：禁止企業「洗澡式出海」",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250307/974710391399518208874193.jpeg/W_bq4zzoZglxAkhvsQa2Jky0lLc9IA4E-_BXdPvwV3Q?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60344852/meta%E4%BD%B5%E8%B3%BCmanus%E8%A2%AB%E5%8F%AB%E5%81%9C-%E5%A4%AE%E8%A6%96-%E7%A6%81%E6%AD%A2%E4%BC%81%E6%A5%AD-%E6%B4%97%E6%BE%A1%E5%BC%8F%E5%87%BA%E6%B5%B7",
-    "timestamp": "2026-04-28T19:41:23.959Z",
     "strategy": ".content-card__main"
   }
 ];
