@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-29T05:41:53.535Z
+// Last updated: 2026-04-29T06:39:57.013Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "深圳國貿SPRING光明里｜5.1開幕！平價版盒馬超市＋MINISO旗艦店",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260429/1126166482628120576024895.jpeg/Lk0k9fvZQGStGLl_ziWXVr1aNqZl9ilMTEfmZkxH5mY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%97%85%E9%81%8A/60344923/%E6%B7%B1%E5%9C%B3%E5%9C%8B%E8%B2%BFspring%E5%85%89%E6%98%8E%E9%87%8C-5-1%E9%96%8B%E5%B9%95-%E5%B9%B3%E5%83%B9%E7%89%88%E7%9B%92%E9%A6%AC%E8%B6%85%E5%B8%82-miniso%E6%97%97%E8%89%A6%E5%BA%97",
+    "timestamp": "2026-04-29T06:39:57.013Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "有片︱黃雨下筲箕灣阿公岩道路陷水浸　的士被困水中司機爬出待救",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260425/1124799591338741760349256.png/LGcBcf5Ch_KkqlCSXwg1TAFHhiH3_AS1ZxlWymcZVso?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60343404/%E5%A4%B1%E8%81%B0%E6%9D%BE%E9%BC%A0%E7%8B%97%E7%86%9F%E7%9D%A1%E4%B8%8D%E7%9F%A5%E7%8B%97%E4%B8%BB%E5%9B%9E%E5%AE%B6-%E6%9A%96%E5%BF%83%E7%8B%97%E5%85%84%E5%BC%9F%E5%8D%B3%E5%8F%AB%E9%86%92-%E5%B8%B6%E9%9A%8A%E8%A8%8E%E6%91%B8%E8%B6%85%E6%9C%89%E6%84%9B",
     "timestamp": "2026-04-28T01:14:20.871Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "谷歌員工敦促CEO　阻止美國軍方使用其人工智能技術",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20251218/1078379042312294400687154.jpeg/hxtEpFKvjAvSAxHPn-7_H3BTnBc9ybcsMqoTIzKqEyM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60344431/%E8%B0%B7%E6%AD%8C%E5%93%A1%E5%B7%A5%E6%95%A6%E4%BF%83ceo-%E9%98%BB%E6%AD%A2%E7%BE%8E%E5%9C%8B%E8%BB%8D%E6%96%B9%E4%BD%BF%E7%94%A8%E5%85%B6%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E6%8A%80%E8%A1%93",
-    "timestamp": "2026-04-28T00:09:41.148Z",
     "strategy": ".content-card__main"
   }
 ];
