@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-29T11:56:39.152Z
+// Last updated: 2026-04-29T12:47:53.996Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "審計報告｜物監局拖政府防疫基金1.2億　4成物管遲續牌沒通知業主",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260429/1126247996078428160805243.jpeg/BdJyndluLrK8DBc5DZzeF6koihFB_0t5ayA0lU4gNJU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60345199/%E5%AF%A9%E8%A8%88%E5%A0%B1%E5%91%8A-%E7%89%A9%E7%9B%A3%E5%B1%80%E6%8B%96%E6%94%BF%E5%BA%9C%E9%98%B2%E7%96%AB%E5%9F%BA%E9%87%911-2%E5%84%84-4%E6%88%90%E7%89%A9%E7%AE%A1%E9%81%B2%E7%BA%8C%E7%89%8C%E6%B2%92%E9%80%9A%E7%9F%A5%E6%A5%AD%E4%B8%BB",
+    "timestamp": "2026-04-29T12:47:53.996Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "感情破裂並非偶然　拆解6種最怕發生的行為　會讓人因失望而分手",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260115/1088517468756119552287413.jpeg/APbmrnQy-CEb-SUIy2XP6dHgnfMUevq5j0FxGo9BcRo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60344734/%E6%97%A5%E5%AA%92-%E6%97%A5%E6%9C%AC%E5%8F%AC%E9%96%8B%E8%A7%80%E5%85%89-%E9%9B%99%E8%BB%8C%E5%88%B6-%E5%AE%9A%E5%83%B9%E6%9C%83%E8%AD%B0-%E6%96%99%E6%98%8E%E5%B9%B43%E6%9C%88%E5%88%B6%E5%AE%9A%E6%96%B9%E9%87%9D",
     "timestamp": "2026-04-28T11:02:02.514Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "蔡卓妍阿Sa無預警閃婚　MIRROR Edan、Jer愕然：婚禮已經搞咗？",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260428/1125852011833593856978216.jpeg/FE4Mb04cslpM00iJT1dCR7mRIG-J_BhM9rUyP8C1Mj8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60344741/%E8%94%A1%E5%8D%93%E5%A6%8D%E9%98%BFsa%E7%84%A1%E9%A0%90%E8%AD%A6%E9%96%83%E5%A9%9A-mirror-edan-jer%E6%84%95%E7%84%B6-%E5%A9%9A%E7%A6%AE%E5%B7%B2%E7%B6%93%E6%90%9E%E5%92%97",
-    "timestamp": "2026-04-28T10:06:04.150Z",
     "strategy": ".content-card__main"
   }
 ];
