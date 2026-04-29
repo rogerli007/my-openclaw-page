@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-29T18:54:16.062Z
+// Last updated: 2026-04-29T19:41:41.411Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "中澳外交與戰略對話　王毅籲客觀看待中國與太平洋島國合作",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260430/1126360512523669504426031.jpeg/wk-VGEWjvzOUuFjLlZnCHkzqFMbkZhtTOReHVDkXh1Q?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60345264/%E4%B8%AD%E6%BE%B3%E5%A4%96%E4%BA%A4%E8%88%87%E6%88%B0%E7%95%A5%E5%B0%8D%E8%A9%B1-%E7%8E%8B%E6%AF%85%E7%B1%B2%E5%AE%A2%E8%A7%80%E7%9C%8B%E5%BE%85%E4%B8%AD%E5%9C%8B%E8%88%87%E5%A4%AA%E5%B9%B3%E6%B4%8B%E5%B3%B6%E5%9C%8B%E5%90%88%E4%BD%9C",
+    "timestamp": "2026-04-29T19:41:41.411Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "普京與特朗普通電話　俄羅斯總統助理：普京擬宣布勝利日期間停火",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260428/1125935707504775168915673.jpeg/M5AIR3B2zNZl-_wKi_4gUYeJP2CI4C5AACZI9QAmSPU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60344825/%E9%9B%BB%E5%AD%90%E7%85%994-30%E8%B5%B7%E7%A6%81-%E4%BD%95%E8%AC%82-%E5%8F%A6%E9%A1%9E%E7%85%99%E7%94%A8%E7%89%A9%E8%B3%AA-%E6%9C%89%E7%85%99%E6%A9%9F%E9%81%95%E6%B3%95%E5%90%A6-%E4%B8%80%E6%96%87%E7%9C%8B%E6%B8%85",
     "timestamp": "2026-04-28T23:29:31.818Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "袁偉豪減產生活依然奢華　豪晒百萬跑車名錶「燒錢」愛好顯身家",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260428/1125901374987440128359741.jpeg/S2yAIZyxPeSyDlwWKJcHJiwh8YjuHQUlqaj0lqmo9JY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60344596/%E8%A2%81%E5%81%89%E8%B1%AA%E6%B8%9B%E7%94%A2%E7%94%9F%E6%B4%BB%E4%BE%9D%E7%84%B6%E5%A5%A2%E8%8F%AF-%E8%B1%AA%E6%99%92%E7%99%BE%E8%90%AC%E8%B7%91%E8%BB%8A%E5%90%8D%E9%8C%B6-%E7%87%92%E9%8C%A2-%E6%84%9B%E5%A5%BD%E9%A1%AF%E8%BA%AB%E5%AE%B6",
-    "timestamp": "2026-04-28T22:55:26.384Z",
     "strategy": ".content-card__main"
   }
 ];
