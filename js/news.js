@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-29T13:22:44.613Z
+// Last updated: 2026-04-29T14:22:24.773Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "深圳優化樓市政策　放寬福田南山等核心區限購　調高貸款上限",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260429/1126270000982659072103624.jpeg/uFVd4bXqCY2ZTBQemzel09cw5ZxZy-W-7LUXsuy1F7I?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60345226/%E6%B7%B1%E5%9C%B3%E5%84%AA%E5%8C%96%E6%A8%93%E5%B8%82%E6%94%BF%E7%AD%96-%E6%94%BE%E5%AF%AC%E7%A6%8F%E7%94%B0%E5%8D%97%E5%B1%B1%E7%AD%89%E6%A0%B8%E5%BF%83%E5%8D%80%E9%99%90%E8%B3%BC-%E8%AA%BF%E9%AB%98%E8%B2%B8%E6%AC%BE%E4%B8%8A%E9%99%90",
+    "timestamp": "2026-04-29T14:22:24.773Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "有片！強風暴襲印度集體婚禮！36對新人急逃命　婚禮現場瞬間夷平",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260429/1125955457601507328519738.jpeg/mAVsEvK51mCW1AbFiXCKpiXAb8PLHMW6kp5oHZKeaB0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60344842/%E8%AD%A6%E5%A4%A9%E6%B0%B4%E5%9C%8D%E6%89%93%E6%93%8A%E8%A1%97%E9%A0%AD%E8%B3%AD%E5%8D%9A-24%E7%94%B7%E5%A5%B3%E8%A2%AB%E6%8D%95",
     "timestamp": "2026-04-28T16:46:47.171Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "穿Prada的惡魔2｜林盛斌兩女兒出席首映  大擺可愛pose",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260428/1125934099815469056471598.jpeg/yiszmMcLzSmbjEl0QEswTULrCI302otuFCFu6BQhbug?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60344834/%E7%A9%BFprada%E7%9A%84%E6%83%A1%E9%AD%942-%E6%9E%97%E7%9B%9B%E6%96%8C%E5%85%A9%E5%A5%B3%E5%85%92%E5%87%BA%E5%B8%AD%E9%A6%96%E6%98%A0-%E5%A4%A7%E6%93%BA%E5%8F%AF%E6%84%9Bpose",
-    "timestamp": "2026-04-28T16:00:38.537Z",
     "strategy": ".content-card__main"
   }
 ];
