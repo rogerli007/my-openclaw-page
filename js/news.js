@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-29T07:39:23.098Z
+// Last updated: 2026-04-29T08:38:52.616Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "高德地圖App有安全疑慮台灣欲禁用　國台辦：杯弓蛇影，荒唐可笑",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250623/1013918564031139840210357.png/YNb-W8OOx1hqU3SnCtFY67okCm4PuyEwNBF5UzQReVM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60345021/%E9%AB%98%E5%BE%B7%E5%9C%B0%E5%9C%96app%E6%9C%89%E5%AE%89%E5%85%A8%E7%96%91%E6%85%AE%E5%8F%B0%E7%81%A3%E6%AC%B2%E7%A6%81%E7%94%A8-%E5%9C%8B%E5%8F%B0%E8%BE%A6-%E6%9D%AF%E5%BC%93%E8%9B%87%E5%BD%B1-%E8%8D%92%E5%94%90%E5%8F%AF%E7%AC%91",
+    "timestamp": "2026-04-29T08:38:52.616Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美國防部正式要求國會批准更名「戰爭部」　料耗資5200萬美元",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260428/1125751767036858368249361.jpeg/fxmSm5zNRCukd1BcVp0-FA7inDAeQWpFV6PdS1ej3Us?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60344512/%E7%89%B9%E6%9C%97%E6%99%AE%E8%BD%89%E8%BC%89%E4%BF%9D%E5%AE%88%E6%B4%BE%E7%B6%B2%E7%B4%85%E5%BB%BA%E8%AD%B0-%E6%92%90ice%E7%A7%BB%E6%B0%91%E5%9F%B7%E6%B3%95%E9%83%A8%E9%96%80%E6%9B%B4%E5%90%8Dnice-%E6%9C%89%E7%89%87",
     "timestamp": "2026-04-28T03:23:08.691Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "恒隆內地第11個項目杭州開幕　商場出租率逾90%　陳文博親臨撐場",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260428/1125733792615501824421908.jpeg/DpKLgkaCxVxcSZO44bKV3EocnsYmt12sPp6DUT6eg1E?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60344463/%E6%81%92%E9%9A%86%E5%85%A7%E5%9C%B0%E7%AC%AC11%E5%80%8B%E9%A0%85%E7%9B%AE%E6%9D%AD%E5%B7%9E%E9%96%8B%E5%B9%95-%E5%95%86%E5%A0%B4%E5%87%BA%E7%A7%9F%E7%8E%87%E9%80%BE90-%E9%99%B3%E6%96%87%E5%8D%9A%E8%A6%AA%E8%87%A8%E6%92%90%E5%A0%B4",
-    "timestamp": "2026-04-28T02:03:36.127Z",
     "strategy": ".content-card__main"
   }
 ];
