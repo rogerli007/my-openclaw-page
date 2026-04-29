@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-29T10:23:04.468Z
+// Last updated: 2026-04-29T11:13:19.777Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "金監總局刪局長李雲澤資料　路透︰因涉違層被降職",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260429/1126232271871938560641529.jpeg/dZdLFW_s3qVBdG8M1uFbiqKlLdUnD6kaLqdN2y6nTds?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60345189/%E9%87%91%E7%9B%A3%E7%B8%BD%E5%B1%80%E5%88%AA%E5%B1%80%E9%95%B7%E6%9D%8E%E9%9B%B2%E6%BE%A4%E8%B3%87%E6%96%99-%E8%B7%AF%E9%80%8F-%E5%9B%A0%E6%B6%89%E9%81%95%E5%B1%A4%E8%A2%AB%E9%99%8D%E8%81%B7",
+    "timestamp": "2026-04-29T11:13:19.777Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "宏福苑｜殉職消防員何偉豪助輪椅婦　媳婦親述經過：真係好多謝佢",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260428/1125792691913756672129804.jpeg/oL2SDoQwWOPID_X1ykhP_Zs6XtHdsDRVwinA38IpwN8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60344591/%E4%BA%9E%E6%B2%99%E9%81%8B-%E8%A2%81%E9%9D%9C%E9%9B%AA%E5%A5%B3%E5%AD%90%E6%BB%91%E6%B5%AA%E9%A2%A8%E5%B8%86%E6%B7%BB%E9%8A%80-%E7%85%9E%E7%A7%91%E6%97%A5%E9%A2%A8%E5%8B%A2%E5%BE%AE%E5%BC%B1%E6%9C%AA%E8%83%BD%E4%BD%9C%E8%B3%BD",
     "timestamp": "2026-04-28T05:53:23.873Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "宏福苑｜消息：宏志閣料納政府收購方案　75%業主初步同意賣業權",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260221/1101964409015898112783016.jpeg/weRidmkLR9-BMlQLb0W5wMVYDdKX9D3B5bYH7v-2B-4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60344557/%E5%AE%8F%E7%A6%8F%E8%8B%91-%E6%B6%88%E6%81%AF-%E5%AE%8F%E5%BF%97%E9%96%A3%E6%96%99%E7%B4%8D%E6%94%BF%E5%BA%9C%E6%94%B6%E8%B3%BC%E6%96%B9%E6%A1%88-75-%E6%A5%AD%E4%B8%BB%E5%88%9D%E6%AD%A5%E5%90%8C%E6%84%8F%E8%B3%A3%E6%A5%AD%E6%AC%8A",
-    "timestamp": "2026-04-28T04:47:51.948Z",
     "strategy": ".content-card__main"
   }
 ];
