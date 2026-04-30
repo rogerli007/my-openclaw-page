@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-30T10:49:06.550Z
+// Last updated: 2026-04-30T12:06:44.173Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "宏福苑上樓｜新買新裝修家園毀於一旦　宏泰閣夫婦寧選原址重建",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260430/1126597681666330624183459.jpeg/_lZO--7XTRn-ooOAFivBU4oX3r4RbzkZmrR0Boy0dAY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60345622/%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%B8%8A%E6%A8%93-%E6%96%B0%E8%B2%B7%E6%96%B0%E8%A3%9D%E4%BF%AE%E5%AE%B6%E5%9C%92%E6%AF%80%E6%96%BC%E4%B8%80%E6%97%A6-%E5%AE%8F%E6%B3%B0%E9%96%A3%E5%A4%AB%E5%A9%A6%E5%AF%A7%E9%81%B8%E5%8E%9F%E5%9D%80%E9%87%8D%E5%BB%BA",
+    "timestamp": "2026-04-30T12:06:44.173Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "5月新手爸媽講座｜豐富福袋 退熱貼/母乳及產後媽配方/手巾仔",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20251222/1079807711203561472512896.jpeg/gPifMlLEJ0F2Eam-Gu4y7hM5ri6hJHcSdoLgAXaC4AE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60345258/%E5%AE%8F%E7%A6%8F%E8%8B%91-%E5%A4%A7%E5%9F%94%E6%B5%B8%E5%B0%8F%E7%B1%8C%E6%AC%BE%E7%82%BA%E9%81%B7%E6%A0%A1%E6%B7%BB%E8%A8%AD%E5%82%99-%E7%A8%B1%E6%95%99%E5%B1%80%E6%92%A5%E6%AC%BE%E5%83%85%E5%A4%A0%E5%9F%BA%E6%9C%AC%E7%BF%BB%E6%96%B0",
     "timestamp": "2026-04-29T18:15:25.813Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "宏福苑｜大埔浸小籌款為遷校添設備　稱教局撥款僅夠基本翻新",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20251222/1079807711203561472512896.jpeg/gPifMlLEJ0F2Eam-Gu4y7hM5ri6hJHcSdoLgAXaC4AE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60345258/%E5%AE%8F%E7%A6%8F%E8%8B%91-%E5%A4%A7%E5%9F%94%E6%B5%B8%E5%B0%8F%E7%B1%8C%E6%AC%BE%E7%82%BA%E9%81%B7%E6%A0%A1%E6%B7%BB%E8%A8%AD%E5%82%99-%E7%A8%B1%E6%95%99%E5%B1%80%E6%92%A5%E6%AC%BE%E5%83%85%E5%A4%A0%E5%9F%BA%E6%9C%AC%E7%BF%BB%E6%96%B0",
-    "timestamp": "2026-04-29T17:41:42.096Z",
     "strategy": ".content-card__main"
   }
 ];
