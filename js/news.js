@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-30T13:44:50.395Z
+// Last updated: 2026-04-30T14:33:36.233Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "特朗普再批默茨：多花時間修復德國這破碎國家　少干涉伊朗問題",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260430/1126486667771777024621508.jpeg/mlrJ98egFj_7lLOJ3UWTOrUvxGoFyEYz6t9jUurfY1I?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60345654/%E7%89%B9%E6%9C%97%E6%99%AE%E5%86%8D%E6%89%B9%E9%BB%98%E8%8C%A8-%E5%A4%9A%E8%8A%B1%E6%99%82%E9%96%93%E4%BF%AE%E5%BE%A9%E5%BE%B7%E5%9C%8B%E9%80%99%E7%A0%B4%E7%A2%8E%E5%9C%8B%E5%AE%B6-%E5%B0%91%E5%B9%B2%E6%B6%89%E4%BC%8A%E6%9C%97%E5%95%8F%E9%A1%8C",
+    "timestamp": "2026-04-30T14:33:36.233Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "Meta早段急挫近一成　上調全年支出預估　AI巨額投資燃回報擔憂",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260430/1126360512523669504426031.jpeg/wk-VGEWjvzOUuFjLlZnCHkzqFMbkZhtTOReHVDkXh1Q?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60345264/%E4%B8%AD%E6%BE%B3%E5%A4%96%E4%BA%A4%E8%88%87%E6%88%B0%E7%95%A5%E5%B0%8D%E8%A9%B1-%E7%8E%8B%E6%AF%85%E7%B1%B2%E5%AE%A2%E8%A7%80%E7%9C%8B%E5%BE%85%E4%B8%AD%E5%9C%8B%E8%88%87%E5%A4%AA%E5%B9%B3%E6%B4%8B%E5%B3%B6%E5%9C%8B%E5%90%88%E4%BD%9C",
     "timestamp": "2026-04-29T20:15:09.617Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "中澳外交與戰略對話　王毅籲客觀看待中國與太平洋島國合作",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260430/1126360512523669504426031.jpeg/wk-VGEWjvzOUuFjLlZnCHkzqFMbkZhtTOReHVDkXh1Q?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60345264/%E4%B8%AD%E6%BE%B3%E5%A4%96%E4%BA%A4%E8%88%87%E6%88%B0%E7%95%A5%E5%B0%8D%E8%A9%B1-%E7%8E%8B%E6%AF%85%E7%B1%B2%E5%AE%A2%E8%A7%80%E7%9C%8B%E5%BE%85%E4%B8%AD%E5%9C%8B%E8%88%87%E5%A4%AA%E5%B9%B3%E6%B4%8B%E5%B3%B6%E5%9C%8B%E5%90%88%E4%BD%9C",
-    "timestamp": "2026-04-29T19:41:41.411Z",
     "strategy": ".content-card__main"
   }
 ];
