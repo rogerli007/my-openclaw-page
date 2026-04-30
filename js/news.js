@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-30T04:46:41.412Z
+// Last updated: 2026-04-30T05:51:46.764Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "C朗頂入生涯第970球助艾納斯勝強敵　有望奪加盟沙特聯後首個冠軍",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260430/1126475006339977216927361.jpeg/L_51j41y4eOIeEn9un4NMiS_AmSXByo2xUT-68VE_us?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60345312/c%E6%9C%97%E9%A0%82%E5%85%A5%E7%94%9F%E6%B6%AF%E7%AC%AC970%E7%90%83%E5%8A%A9%E8%89%BE%E7%B4%8D%E6%96%AF%E5%8B%9D%E5%BC%B7%E6%95%B5-%E6%9C%89%E6%9C%9B%E5%A5%AA%E5%8A%A0%E7%9B%9F%E6%B2%99%E7%89%B9%E8%81%AF%E5%BE%8C%E9%A6%96%E5%80%8B%E5%86%A0%E8%BB%8D",
+    "timestamp": "2026-04-30T05:51:46.764Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "Novelbright演唱會2026香港｜門票優先/公售攻略+購票連結+座位表",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260429/1126211097909530624503712.png/fG1tnj0gcE59goLRtvPuaEL7sEHAwp5zF1o3bhdaN24",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60344648/%E6%9C%89%E7%89%87-%E5%BC%B7%E9%A2%A8%E6%9A%B4%E8%A5%B2%E5%8D%B0%E5%BA%A6%E9%9B%86%E9%AB%94%E5%A9%9A%E7%A6%AE-36%E5%B0%8D%E6%96%B0%E4%BA%BA%E6%80%A5%E9%80%83%E5%91%BD-%E5%A9%9A%E7%A6%AE%E7%8F%BE%E5%A0%B4%E7%9E%AC%E9%96%93%E5%A4%B7%E5%B9%B3",
     "timestamp": "2026-04-29T13:22:44.613Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "審計報告｜物監局拖政府防疫基金1.2億　4成物管遲續牌沒通知業主",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260429/1126247996078428160805243.jpeg/BdJyndluLrK8DBc5DZzeF6koihFB_0t5ayA0lU4gNJU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60345199/%E5%AF%A9%E8%A8%88%E5%A0%B1%E5%91%8A-%E7%89%A9%E7%9B%A3%E5%B1%80%E6%8B%96%E6%94%BF%E5%BA%9C%E9%98%B2%E7%96%AB%E5%9F%BA%E9%87%911-2%E5%84%84-4%E6%88%90%E7%89%A9%E7%AE%A1%E9%81%B2%E7%BA%8C%E7%89%8C%E6%B2%92%E9%80%9A%E7%9F%A5%E6%A5%AD%E4%B8%BB",
-    "timestamp": "2026-04-29T12:47:53.996Z",
     "strategy": ".content-card__main"
   }
 ];
