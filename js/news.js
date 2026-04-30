@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-30T07:06:20.128Z
+// Last updated: 2026-04-30T08:02:44.805Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "中銀香港投資管理稱高油價對美經濟影響將顯現　憂陷滯漲風險",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260429/1126303781777051648975081.jpeg/Gt7YQdqjcK8cB6Vp3Oem2GZcD7P29PUWEAlN7xAJTe8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60345499/%E4%B8%AD%E9%8A%80%E9%A6%99%E6%B8%AF%E6%8A%95%E8%B3%87%E7%AE%A1%E7%90%86%E7%A8%B1%E9%AB%98%E6%B2%B9%E5%83%B9%E5%B0%8D%E7%BE%8E%E7%B6%93%E6%BF%9F%E5%BD%B1%E9%9F%BF%E5%B0%87%E9%A1%AF%E7%8F%BE-%E6%86%82%E9%99%B7%E6%BB%AF%E6%BC%B2%E9%A2%A8%E9%9A%AA",
+    "timestamp": "2026-04-30T08:02:44.805Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "彭博︰Anthropic估值逾9000億美元　正考慮新一輪融資｜人工智能",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260429/1126295805276196864689410.jpeg/LRrwFBQN-hCIJXUpRjVo4N6BEHpoaJOOy5aEkcuWhJE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60345069/51%E6%AD%B2%E5%90%B3%E5%BD%A5%E7%A5%96%E7%94%B7%E7%A5%9E%E5%AE%B9%E8%B2%8C-%E5%B4%A9%E5%A3%9E-%E5%85%89%E9%A0%ADt%E6%81%A4%E9%98%BF%E4%BC%AFlook%E7%8D%A8%E8%87%AA%E5%81%A5%E8%A1%8C%E7%8E%A9%E9%9B%BB%E8%A9%B1",
     "timestamp": "2026-04-29T16:13:01.862Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "深圳優化樓市政策　放寬福田南山等核心區限購　調高貸款上限",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260429/1126270000982659072103624.jpeg/uFVd4bXqCY2ZTBQemzel09cw5ZxZy-W-7LUXsuy1F7I?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60345226/%E6%B7%B1%E5%9C%B3%E5%84%AA%E5%8C%96%E6%A8%93%E5%B8%82%E6%94%BF%E7%AD%96-%E6%94%BE%E5%AF%AC%E7%A6%8F%E7%94%B0%E5%8D%97%E5%B1%B1%E7%AD%89%E6%A0%B8%E5%BF%83%E5%8D%80%E9%99%90%E8%B3%BC-%E8%AA%BF%E9%AB%98%E8%B2%B8%E6%AC%BE%E4%B8%8A%E9%99%90",
-    "timestamp": "2026-04-29T14:22:24.773Z",
     "strategy": ".content-card__main"
   }
 ];
