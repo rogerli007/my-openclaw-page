@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-30T09:55:17.115Z
+// Last updated: 2026-04-30T10:49:06.550Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "5月新手爸媽講座｜豐富福袋 退熱貼/母乳及產後媽配方/手巾仔",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260429/1126124458394783744478960.jpeg/y7GHSG-i_S3xJ0agA7R1jYHOwyet429RNoat0zaGrdM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%A6%AA%E5%AD%90/60342814/5%E6%9C%88%E6%96%B0%E6%89%8B%E7%88%B8%E5%AA%BD%E8%AC%9B%E5%BA%A7-%E8%B1%90%E5%AF%8C%E7%A6%8F%E8%A2%8B-%E9%80%80%E7%86%B1%E8%B2%BC-%E6%AF%8D%E4%B9%B3%E5%8F%8A%E7%94%A2%E5%BE%8C%E5%AA%BD%E9%85%8D%E6%96%B9-%E6%89%8B%E5%B7%BE%E4%BB%94",
+    "timestamp": "2026-04-30T10:49:06.550Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "宏福苑居民投訴鴻毅及宏業「打龍通」　市建局沒受理反倡查詢鴻毅",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20251222/1079807711203561472512896.jpeg/gPifMlLEJ0F2Eam-Gu4y7hM5ri6hJHcSdoLgAXaC4AE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60345258/%E5%AE%8F%E7%A6%8F%E8%8B%91-%E5%A4%A7%E5%9F%94%E6%B5%B8%E5%B0%8F%E7%B1%8C%E6%AC%BE%E7%82%BA%E9%81%B7%E6%A0%A1%E6%B7%BB%E8%A8%AD%E5%82%99-%E7%A8%B1%E6%95%99%E5%B1%80%E6%92%A5%E6%AC%BE%E5%83%85%E5%A4%A0%E5%9F%BA%E6%9C%AC%E7%BF%BB%E6%96%B0",
     "timestamp": "2026-04-29T17:41:42.096Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "油價｜政府補貼液化石油氣燃料費　2萬架的士、小巴及校巴受惠",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260430/1126313824316559360832795.jpeg/sZN6IR4l7q7yvA30zasd9-ZPNZLq3yhEfllGfn5ZRn4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60345248/%E6%B2%B9%E5%83%B9-%E6%94%BF%E5%BA%9C%E8%A3%9C%E8%B2%BC%E6%B6%B2%E5%8C%96%E7%9F%B3%E6%B2%B9%E6%B0%A3%E7%87%83%E6%96%99%E8%B2%BB-2%E8%90%AC%E6%9E%B6%E7%9A%84%E5%A3%AB-%E5%B0%8F%E5%B7%B4%E5%8F%8A%E6%A0%A1%E5%B7%B4%E5%8F%97%E6%83%A0",
-    "timestamp": "2026-04-29T16:55:19.516Z",
     "strategy": ".content-card__main"
   }
 ];
