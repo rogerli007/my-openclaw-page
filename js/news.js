@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-30T15:24:29.675Z
+// Last updated: 2026-04-30T16:08:25.230Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "姜濤四年前做Do姐訪問｜被追問學歷隱晦答：讀到Form 3之前就走咗",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260430/1126587250600054784170382.jpeg/b9wT2gtv2AnQvLLvv-aE8hmW4VbHlCvBepHmD3qR5g8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60345599/%E5%A7%9C%E6%BF%A4%E5%9B%9B%E5%B9%B4%E5%89%8D%E5%81%9Ado%E5%A7%90%E8%A8%AA%E5%95%8F-%E8%A2%AB%E8%BF%BD%E5%95%8F%E5%AD%B8%E6%AD%B7%E9%9A%B1%E6%99%A6%E7%AD%94-%E8%AE%80%E5%88%B0form-3%E4%B9%8B%E5%89%8D%E5%B0%B1%E8%B5%B0%E5%92%97",
+    "timestamp": "2026-04-30T16:08:25.230Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "宏福苑上樓｜第11日共117戶457人執拾　錄9宗求警協助涉遺失財物",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260430/1126383093595246592876132.jpeg/Bw5OMlR9aiHVkkqIcfOaa1VOvQ8rSa9l-urHScDqx0k?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60345265/%E7%8F%8D%E6%83%9C%E7%94%9F%E5%91%BD-%E8%A7%80%E5%A1%98%E7%BF%A0%E5%B1%8F%E5%8C%97%E9%82%A8%E7%94%B7%E5%AD%90%E6%A2%AF%E9%96%93%E4%B8%8A%E5%90%8A-%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2%E6%90%B6%E6%95%91",
     "timestamp": "2026-04-29T21:15:39.899Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "中澳外交與戰略對話　王毅籲客觀看待中國與太平洋島國合作",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260430/1126360512523669504426031.jpeg/wk-VGEWjvzOUuFjLlZnCHkzqFMbkZhtTOReHVDkXh1Q?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60345264/%E4%B8%AD%E6%BE%B3%E5%A4%96%E4%BA%A4%E8%88%87%E6%88%B0%E7%95%A5%E5%B0%8D%E8%A9%B1-%E7%8E%8B%E6%AF%85%E7%B1%B2%E5%AE%A2%E8%A7%80%E7%9C%8B%E5%BE%85%E4%B8%AD%E5%9C%8B%E8%88%87%E5%A4%AA%E5%B9%B3%E6%B4%8B%E5%B3%B6%E5%9C%8B%E5%90%88%E4%BD%9C",
-    "timestamp": "2026-04-29T20:45:20.898Z",
     "strategy": ".content-card__main"
   }
 ];
