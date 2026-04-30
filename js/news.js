@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-30T20:15:51.053Z
+// Last updated: 2026-04-30T20:45:03.906Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "倫敦持刀襲擊事件後　英國上調恐怖威脅等級",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260430/1126614182251204608156704.png/NIBTT-Ai50HngVedL_PPZAzl2-_sDImnDAVdYgwFXWI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60345693/%E5%80%AB%E6%95%A6%E6%8C%81%E5%88%80%E8%A5%B2%E6%93%8A%E4%BA%8B%E4%BB%B6%E5%BE%8C-%E8%8B%B1%E5%9C%8B%E4%B8%8A%E8%AA%BF%E6%81%90%E6%80%96%E5%A8%81%E8%84%85%E7%AD%89%E7%B4%9A",
+    "timestamp": "2026-04-30T20:45:03.906Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "倫敦持刀襲擊事件後　英國上調恐怖威脅等級",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260427/1125405208814292992675194.png/bLjGEzhyLe8KkoDS1nkkEo8rai9_1X4ACmY_NwpmPzc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60345270/%E7%89%B9%E6%9C%97%E6%99%AE-%E8%88%87%E4%BC%8A%E6%9C%97%E8%AB%87%E5%88%A4%E6%AD%A3%E9%80%9A%E9%81%8E%E9%9B%BB%E8%A9%B1%E9%80%B2%E8%A1%8C",
     "timestamp": "2026-04-29T22:41:27.359Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "89歲謝賢山頂被捕獲坐輪椅撐拐杖　懶理被舊愛Coco揭追女秘聞",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260429/1126214216458440704829740.jpeg/25LRTAMoyp8JnIClmkstRl2t6bZ88MWgbN37ZWzd-2U?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60345129/89%E6%AD%B2%E8%AC%9D%E8%B3%A2%E5%B1%B1%E9%A0%82%E8%A2%AB%E6%8D%95%E7%8D%B2%E5%9D%90%E8%BC%AA%E6%A4%85%E6%92%90%E6%8B%90%E6%9D%96-%E6%87%B6%E7%90%86%E8%A2%AB%E8%88%8A%E6%84%9Bcoco%E6%8F%AD%E8%BF%BD%E5%A5%B3%E7%A7%98%E8%81%9E",
-    "timestamp": "2026-04-29T22:12:55.708Z",
     "strategy": ".content-card__main"
   }
 ];
