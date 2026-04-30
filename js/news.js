@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-30T21:14:10.856Z
+// Last updated: 2026-04-30T22:11:38.205Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "尖沙咀酒店職員揭住客房間藏毒　警檢$8000可卡因　4男女被捕",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260501/1126763882103181312378426.jpeg/9IcUDdH0ENrH130YQQN3DqUI4GCOXoY1vJxBdbycQXU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60345698/%E5%B0%96%E6%B2%99%E5%92%80%E9%85%92%E5%BA%97%E8%81%B7%E5%93%A1%E6%8F%AD%E4%BD%8F%E5%AE%A2%E6%88%BF%E9%96%93%E8%97%8F%E6%AF%92-%E8%AD%A6%E6%AA%A2-8000%E5%8F%AF%E5%8D%A1%E5%9B%A0-4%E7%94%B7%E5%A5%B3%E8%A2%AB%E6%8D%95",
+    "timestamp": "2026-04-30T22:11:38.205Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "五一│去年黃金周凌晨座無虛設情景不再　網吧半滿　麥當勞冷清清",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260430/1126413600206884864450278.jpeg/gW1TKDtuZfJ9CLdr80tLNG4z9ddkc_GchGXbXoRl214?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60345271/%E7%89%B9%E6%9C%97%E6%99%AE%E7%A8%B1%E5%96%9C%E6%AD%A1%E9%BB%8E%E5%B7%B4%E5%AB%A9-%E4%BF%83%E5%85%A7%E5%A1%94%E5%B0%BC%E4%BA%9E%E8%83%A1%E8%BB%8D%E4%BA%8B%E8%A1%8C%E5%8B%95%E9%99%90%E6%96%BC%E7%B2%BE%E6%BA%96%E6%89%93%E6%93%8A",
     "timestamp": "2026-04-30T00:10:22.545Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "初中女沉迷手機！揭遭男子誘拍私密照　母崩潰求救　網民：先別罵",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260429/1126006516311134208739865.png/gzXVCcwQv-mtpghFrmAVotnHDSiGBW0kSeTxJ0nk8Sc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60344818/%E5%88%9D%E4%B8%AD%E5%A5%B3%E6%B2%89%E8%BF%B7%E6%89%8B%E6%A9%9F-%E6%8F%AD%E9%81%AD%E7%94%B7%E5%AD%90%E8%AA%98%E6%8B%8D%E7%A7%81%E5%AF%86%E7%85%A7-%E6%AF%8D%E5%B4%A9%E6%BD%B0%E6%B1%82%E6%95%91-%E7%B6%B2%E6%B0%91-%E5%85%88%E5%88%A5%E7%BD%B5",
-    "timestamp": "2026-04-29T23:40:24.095Z",
     "strategy": ".content-card__main"
   }
 ];
