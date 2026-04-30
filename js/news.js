@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-29T23:40:24.095Z
+// Last updated: 2026-04-30T00:10:22.545Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "特朗普稱喜歡黎巴嫩　促內塔尼亞胡軍事行動限於精準打擊",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260430/1126413600206884864450278.jpeg/gW1TKDtuZfJ9CLdr80tLNG4z9ddkc_GchGXbXoRl214?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60345271/%E7%89%B9%E6%9C%97%E6%99%AE%E7%A8%B1%E5%96%9C%E6%AD%A1%E9%BB%8E%E5%B7%B4%E5%AB%A9-%E4%BF%83%E5%85%A7%E5%A1%94%E5%B0%BC%E4%BA%9E%E8%83%A1%E8%BB%8D%E4%BA%8B%E8%A1%8C%E5%8B%95%E9%99%90%E6%96%BC%E7%B2%BE%E6%BA%96%E6%89%93%E6%93%8A",
+    "timestamp": "2026-04-30T00:10:22.545Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "初中女沉迷手機！揭遭男子誘拍私密照　母崩潰求救　網民：先別罵",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260429/1126217481724104704179480.jpeg/o4neiZ-sKz-0k_80Gb1iPYZtt_syFBBio0jbSqNI20o?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60345163/%E5%AE%8F%E7%A6%8F%E8%8B%91-%E6%AE%89%E8%81%B7%E6%B6%88%E9%98%B2%E5%93%A1%E4%BD%95%E5%81%89%E8%B1%AA%E5%8A%A9%E8%BC%AA%E6%A4%85%E5%A9%A6-%E5%AA%B3%E5%A9%A6%E8%A6%AA%E8%BF%B0%E7%B6%93%E9%81%8E-%E7%9C%9F%E4%BF%82%E5%A5%BD%E5%A4%9A%E8%AC%9D%E4%BD%A2",
     "timestamp": "2026-04-29T10:23:04.468Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "高德地圖App有安全疑慮台灣欲禁用　國台辦：杯弓蛇影，荒唐可笑",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250623/1013918564031139840210357.png/YNb-W8OOx1hqU3SnCtFY67okCm4PuyEwNBF5UzQReVM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60345021/%E9%AB%98%E5%BE%B7%E5%9C%B0%E5%9C%96app%E6%9C%89%E5%AE%89%E5%85%A8%E7%96%91%E6%85%AE%E5%8F%B0%E7%81%A3%E6%AC%B2%E7%A6%81%E7%94%A8-%E5%9C%8B%E5%8F%B0%E8%BE%A6-%E6%9D%AF%E5%BC%93%E8%9B%87%E5%BD%B1-%E8%8D%92%E5%94%90%E5%8F%AF%E7%AC%91",
-    "timestamp": "2026-04-29T08:38:52.616Z",
     "strategy": ".content-card__main"
   }
 ];
