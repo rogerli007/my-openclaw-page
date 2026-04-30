@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-30T14:33:36.233Z
+// Last updated: 2026-04-30T15:24:29.675Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "宏福苑上樓｜第11日共117戶457人執拾　錄9宗求警協助涉遺失財物",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260430/1126639450877595648782390.jpeg/LMvT02cseIKp5VK_-wc-2wvdP-co5JMvDOcWRQznFkU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60345652/%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%B8%8A%E6%A8%93-%E7%AC%AC11%E6%97%A5%E5%85%B1117%E6%88%B6457%E4%BA%BA%E5%9F%B7%E6%8B%BE-%E9%8C%849%E5%AE%97%E6%B1%82%E8%AD%A6%E5%8D%94%E5%8A%A9%E6%B6%89%E9%81%BA%E5%A4%B1%E8%B2%A1%E7%89%A9",
+    "timestamp": "2026-04-30T15:24:29.675Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "特朗普再批默茨：多花時間修復德國這破碎國家　少干涉伊朗問題",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260430/1126360512523669504426031.jpeg/wk-VGEWjvzOUuFjLlZnCHkzqFMbkZhtTOReHVDkXh1Q?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60345264/%E4%B8%AD%E6%BE%B3%E5%A4%96%E4%BA%A4%E8%88%87%E6%88%B0%E7%95%A5%E5%B0%8D%E8%A9%B1-%E7%8E%8B%E6%AF%85%E7%B1%B2%E5%AE%A2%E8%A7%80%E7%9C%8B%E5%BE%85%E4%B8%AD%E5%9C%8B%E8%88%87%E5%A4%AA%E5%B9%B3%E6%B4%8B%E5%B3%B6%E5%9C%8B%E5%90%88%E4%BD%9C",
     "timestamp": "2026-04-29T20:45:20.898Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "中澳外交與戰略對話　王毅籲客觀看待中國與太平洋島國合作",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260430/1126360512523669504426031.jpeg/wk-VGEWjvzOUuFjLlZnCHkzqFMbkZhtTOReHVDkXh1Q?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60345264/%E4%B8%AD%E6%BE%B3%E5%A4%96%E4%BA%A4%E8%88%87%E6%88%B0%E7%95%A5%E5%B0%8D%E8%A9%B1-%E7%8E%8B%E6%AF%85%E7%B1%B2%E5%AE%A2%E8%A7%80%E7%9C%8B%E5%BE%85%E4%B8%AD%E5%9C%8B%E8%88%87%E5%A4%AA%E5%B9%B3%E6%B4%8B%E5%B3%B6%E5%9C%8B%E5%90%88%E4%BD%9C",
-    "timestamp": "2026-04-29T20:15:09.617Z",
     "strategy": ".content-card__main"
   }
 ];
