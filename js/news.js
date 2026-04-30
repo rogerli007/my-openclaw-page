@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-30T22:11:38.205Z
+// Last updated: 2026-04-30T23:39:22.846Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "特朗普：已「摧毀」伊朗核能力",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260501/1126767585979797504064729.jpeg/JokHl2x_HPG5aTO6ojPVAXuww_U12ua5jZWr542Vq-c?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60345700/%E7%89%B9%E6%9C%97%E6%99%AE-%E5%B7%B2-%E6%91%A7%E6%AF%80-%E4%BC%8A%E6%9C%97%E6%A0%B8%E8%83%BD%E5%8A%9B",
+    "timestamp": "2026-04-30T23:39:22.846Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "尖沙咀酒店職員揭住客房間藏毒　警檢$8000可卡因　4男女被捕",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260126/1092491013101981696413579.jpeg/duofH0bkMyZ8ddjvNiTZQHx1SbZiga0xDaB_pg2gf6Y?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60345304/%E9%AB%98%E7%9B%9B%E7%B6%AD%E6%8C%81%E5%B9%B4%E5%BA%95%E9%87%91%E5%83%B9%E8%A6%8B5400%E7%BE%8E%E5%85%83%E9%A0%90%E6%B8%AC-%E6%8C%81%E7%B5%90%E6%A7%8B%E6%80%A7%E7%9C%8B%E5%A5%BD%E6%88%B0%E8%A1%93%E6%80%A7%E8%AC%B9%E6%85%8E%E7%9C%8B%E6%B3%95",
     "timestamp": "2026-04-30T02:03:00.330Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普稱喜歡黎巴嫩　促內塔尼亞胡軍事行動限於精準打擊",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260430/1126413600206884864450278.jpeg/gW1TKDtuZfJ9CLdr80tLNG4z9ddkc_GchGXbXoRl214?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60345271/%E7%89%B9%E6%9C%97%E6%99%AE%E7%A8%B1%E5%96%9C%E6%AD%A1%E9%BB%8E%E5%B7%B4%E5%AB%A9-%E4%BF%83%E5%85%A7%E5%A1%94%E5%B0%BC%E4%BA%9E%E8%83%A1%E8%BB%8D%E4%BA%8B%E8%A1%8C%E5%8B%95%E9%99%90%E6%96%BC%E7%B2%BE%E6%BA%96%E6%89%93%E6%93%8A",
-    "timestamp": "2026-04-30T00:10:22.545Z",
     "strategy": ".content-card__main"
   }
 ];
