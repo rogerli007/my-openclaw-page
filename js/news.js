@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-01T05:00:01.933Z
+// Last updated: 2026-05-01T06:11:02.682Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "宏福苑｜家園疑遭搜掠幸無損失　住戶檢珍藏果皮、柑桔、海味等",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260501/1126880736750604288587490.png/lM907ydhqMjI2BHcrS7nRMAFPNFU1U8gywcZHssHGR4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60345767/%E5%AE%8F%E7%A6%8F%E8%8B%91-%E5%AE%B6%E5%9C%92%E7%96%91%E9%81%AD%E6%90%9C%E6%8E%A0%E5%B9%B8%E7%84%A1%E6%90%8D%E5%A4%B1-%E4%BD%8F%E6%88%B6%E6%AA%A2%E7%8F%8D%E8%97%8F%E6%9E%9C%E7%9A%AE-%E6%9F%91%E6%A1%94-%E6%B5%B7%E5%91%B3%E7%AD%89",
+    "timestamp": "2026-05-01T06:11:02.682Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "五一｜西貢東壩逼爆　漁護署指人流非常繁忙　破邊洲實施人流管制",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260430/1126556896824659968687192.jpeg/nvr8U6wrldzpQJfGX7eHeMziSq2KWYAQMnSCXhR0gl4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60345509/%E5%AE%8F%E7%A6%8F%E8%8B%91%E5%B1%85%E6%B0%91%E6%8A%95%E8%A8%B4%E9%B4%BB%E6%AF%85%E5%8F%8A%E5%AE%8F%E6%A5%AD-%E6%89%93%E9%BE%8D%E9%80%9A-%E5%B8%82%E5%BB%BA%E5%B1%80%E6%B2%92%E5%8F%97%E7%90%86%E5%8F%8D%E5%80%A1%E6%9F%A5%E8%A9%A2%E9%B4%BB%E6%AF%85",
     "timestamp": "2026-04-30T09:55:17.115Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "中銀香港投資管理稱高油價對美經濟影響將顯現　憂陷滯漲風險",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260429/1126303781777051648975081.jpeg/Gt7YQdqjcK8cB6Vp3Oem2GZcD7P29PUWEAlN7xAJTe8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60345499/%E4%B8%AD%E9%8A%80%E9%A6%99%E6%B8%AF%E6%8A%95%E8%B3%87%E7%AE%A1%E7%90%86%E7%A8%B1%E9%AB%98%E6%B2%B9%E5%83%B9%E5%B0%8D%E7%BE%8E%E7%B6%93%E6%BF%9F%E5%BD%B1%E9%9F%BF%E5%B0%87%E9%A1%AF%E7%8F%BE-%E6%86%82%E9%99%B7%E6%BB%AF%E6%BC%B2%E9%A2%A8%E9%9A%AA",
-    "timestamp": "2026-04-30T08:02:44.805Z",
     "strategy": ".content-card__main"
   }
 ];
