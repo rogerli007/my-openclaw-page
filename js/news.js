@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-04-30T23:39:22.846Z
+// Last updated: 2026-05-01T00:08:54.154Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "貓貓上演「真假美猴王」！主人認錯毛孩　原住民和外來咪當場對質",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260429/1126201253555081216250496.png/fIoe_17T-CL9UvOLk13GZHn4WPIufVqA0RzTCdEc0wk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%AF%B5%E7%89%A9/60289357/%E8%B2%93%E8%B2%93%E4%B8%8A%E6%BC%94-%E7%9C%9F%E5%81%87%E7%BE%8E%E7%8C%B4%E7%8E%8B-%E4%B8%BB%E4%BA%BA%E8%AA%8D%E9%8C%AF%E6%AF%9B%E5%AD%A9-%E5%8E%9F%E4%BD%8F%E6%B0%91%E5%92%8C%E5%A4%96%E4%BE%86%E5%92%AA%E7%95%B6%E5%A0%B4%E5%B0%8D%E8%B3%AA",
+    "timestamp": "2026-05-01T00:08:54.154Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "特朗普：已「摧毀」伊朗核能力",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260430/1126477284719464448065849.jpeg/dJC6yQvA0KuaE455YmN4c7WFf_XME06VYqdlyWKnZck?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60345346/%E9%87%91%E7%8E%8B-%E5%BC%B5%E5%BE%B7%E7%86%99%E5%87%BA%E8%B2%A8-8000%E8%90%AC%E6%B2%BD%E5%A4%A7%E5%9F%94%E5%BA%B7%E6%A8%82%E5%9C%92%E5%85%A9%E6%B4%8B%E6%88%BF-%E9%95%B7%E6%8F%B8%E7%88%BD%E8%B3%BA%E5%9B%9B%E5%8D%83%E8%90%AC",
     "timestamp": "2026-04-30T03:23:43.901Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "高盛維持年底金價見5400美元預測　持結構性看好戰術性謹慎看法",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260126/1092491013101981696413579.jpeg/duofH0bkMyZ8ddjvNiTZQHx1SbZiga0xDaB_pg2gf6Y?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60345304/%E9%AB%98%E7%9B%9B%E7%B6%AD%E6%8C%81%E5%B9%B4%E5%BA%95%E9%87%91%E5%83%B9%E8%A6%8B5400%E7%BE%8E%E5%85%83%E9%A0%90%E6%B8%AC-%E6%8C%81%E7%B5%90%E6%A7%8B%E6%80%A7%E7%9C%8B%E5%A5%BD%E6%88%B0%E8%A1%93%E6%80%A7%E8%AC%B9%E6%85%8E%E7%9C%8B%E6%B3%95",
-    "timestamp": "2026-04-30T02:03:00.330Z",
     "strategy": ".content-card__main"
   }
 ];
