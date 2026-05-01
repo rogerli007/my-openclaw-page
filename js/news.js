@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-01T10:54:03.927Z
+// Last updated: 2026-05-01T11:34:33.550Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "陳嘉華｜國家需要真抓實幹的香港",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250929/1049433561394057216983641.jpeg/zFQduhOQ2uofR7ueyS3F03Dm36XFVXsaaOxkonLsZKI?v=w1920r16_9",
+    "url": "https://www.hk01.com/01%E8%AB%96%E5%A3%87/60344566/%E9%99%B3%E5%98%89%E8%8F%AF-%E5%9C%8B%E5%AE%B6%E9%9C%80%E8%A6%81%E7%9C%9F%E6%8A%93%E5%AF%A6%E5%B9%B9%E7%9A%84%E9%A6%99%E6%B8%AF",
+    "timestamp": "2026-05-01T11:34:33.550Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "「鴨王」何浩文自資圓音樂夢　街頭派傳單慘被無視直言小辛苦",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260430/1126486667771777024621508.jpeg/mlrJ98egFj_7lLOJ3UWTOrUvxGoFyEYz6t9jUurfY1I?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60345654/%E7%89%B9%E6%9C%97%E6%99%AE%E5%86%8D%E6%89%B9%E9%BB%98%E8%8C%A8-%E5%A4%9A%E8%8A%B1%E6%99%82%E9%96%93%E4%BF%AE%E5%BE%A9%E5%BE%B7%E5%9C%8B%E9%80%99%E7%A0%B4%E7%A2%8E%E5%9C%8B%E5%AE%B6-%E5%B0%91%E5%B9%B2%E6%B6%89%E4%BC%8A%E6%9C%97%E5%95%8F%E9%A1%8C",
     "timestamp": "2026-04-30T14:33:36.233Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "Meta早段急挫近一成　上調全年支出預估　AI巨額投資燃回報擔憂",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260424/1124295752474955776946780.jpeg/My0xN_MXdJtt4aj8esa7il2AC2FY0U6CbrkeZW65HmU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60345328/meta%E6%97%A9%E6%AE%B5%E6%80%A5%E6%8C%AB%E8%BF%91%E4%B8%80%E6%88%90-%E4%B8%8A%E8%AA%BF%E5%85%A8%E5%B9%B4%E6%94%AF%E5%87%BA%E9%A0%90%E4%BC%B0-ai%E5%B7%A8%E9%A1%8D%E6%8A%95%E8%B3%87%E7%87%83%E5%9B%9E%E5%A0%B1%E6%93%94%E6%86%82",
-    "timestamp": "2026-04-30T13:44:50.395Z",
     "strategy": ".content-card__main"
   }
 ];
