@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-01T03:30:28.337Z
+// Last updated: 2026-05-01T05:00:01.933Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "五一｜西貢東壩逼爆　漁護署指人流非常繁忙　破邊洲實施人流管制",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260501/1126857824194793472743982.jpeg/CnKFdp4-GAOOl6yg5a36-g2DxNSY5D8jKU4SYClOEmA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60345753/%E4%BA%94%E4%B8%80-%E8%A5%BF%E8%B2%A2%E6%9D%B1%E5%A3%A9%E9%80%BC%E7%88%86-%E6%BC%81%E8%AD%B7%E7%BD%B2%E6%8C%87%E4%BA%BA%E6%B5%81%E9%9D%9E%E5%B8%B8%E7%B9%81%E5%BF%99-%E7%A0%B4%E9%82%8A%E6%B4%B2%E5%AF%A6%E6%96%BD%E4%BA%BA%E6%B5%81%E7%AE%A1%E5%88%B6",
+    "timestamp": "2026-05-01T05:00:01.933Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "寒戰1994丨40位實力派演員角色陣容+三大巨星陣營強勢曝光",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260429/1126303781777051648975081.jpeg/Gt7YQdqjcK8cB6Vp3Oem2GZcD7P29PUWEAlN7xAJTe8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60345499/%E4%B8%AD%E9%8A%80%E9%A6%99%E6%B8%AF%E6%8A%95%E8%B3%87%E7%AE%A1%E7%90%86%E7%A8%B1%E9%AB%98%E6%B2%B9%E5%83%B9%E5%B0%8D%E7%BE%8E%E7%B6%93%E6%BF%9F%E5%BD%B1%E9%9F%BF%E5%B0%87%E9%A1%AF%E7%8F%BE-%E6%86%82%E9%99%B7%E6%BB%AF%E6%BC%B2%E9%A2%A8%E9%9A%AA",
     "timestamp": "2026-04-30T08:02:44.805Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "彭博︰Anthropic估值逾9000億美元　正考慮新一輪融資｜人工智能",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250905/1040648086034059264702516.jpeg/mMpbZdIjaIko6Gqc5wRefAwC0nMZOLzRvWkdlL1pHZQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60345331/%E5%BD%AD%E5%8D%9A-anthropic%E4%BC%B0%E5%80%BC%E9%80%BE9000%E5%84%84%E7%BE%8E%E5%85%83-%E6%AD%A3%E8%80%83%E6%85%AE%E6%96%B0%E4%B8%80%E8%BC%AA%E8%9E%8D%E8%B3%87-%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD",
-    "timestamp": "2026-04-30T07:06:20.128Z",
     "strategy": ".content-card__main"
   }
 ];
