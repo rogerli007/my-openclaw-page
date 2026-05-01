@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-01T00:08:54.154Z
+// Last updated: 2026-05-01T01:20:05.542Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "健康隱憂！40歲女日日喝1飲品罹癌　醫生揭3偽健康飲品致癌溫床",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260429/1126118111171317760935042.jpeg/2G1UAE9O8RG_3hd-omYOt4rYYBc_5bg3ekVnJnpFZyY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60344754/%E5%81%A5%E5%BA%B7%E9%9A%B1%E6%86%82-40%E6%AD%B2%E5%A5%B3%E6%97%A5%E6%97%A5%E5%96%9D%E6%9E%9C%E6%B1%81%E7%BD%B9%E7%99%8C-%E9%86%AB%E7%94%9F%E6%8F%AD3%E5%81%BD%E5%81%A5%E5%BA%B7%E9%A3%B2%E5%93%81%E8%87%B4%E7%99%8C%E6%BA%AB%E5%BA%8A",
+    "timestamp": "2026-05-01T01:20:05.542Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "貓貓上演「真假美猴王」！主人認錯毛孩　原住民和外來咪當場對質",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260430/1126488311834087424498306.jpeg/1AWu_UgSammz5pPjKepflVrlj2zmVOJnVY0-DVWNPg0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60345361/novelbright%E6%BC%94%E5%94%B1%E6%9C%832026%E9%A6%99%E6%B8%AF-%E9%96%80%E7%A5%A8%E5%84%AA%E5%85%88-%E5%85%AC%E5%94%AE%E6%94%BB%E7%95%A5-%E8%B3%BC%E7%A5%A8%E9%80%A3%E7%B5%90-%E5%BA%A7%E4%BD%8D%E8%A1%A8",
     "timestamp": "2026-04-30T04:46:41.412Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "「金王」張德熙出貨！8000萬沽大埔康樂園兩洋房　長揸爽賺四千萬",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260430/1126477284719464448065849.jpeg/dJC6yQvA0KuaE455YmN4c7WFf_XME06VYqdlyWKnZck?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60345346/%E9%87%91%E7%8E%8B-%E5%BC%B5%E5%BE%B7%E7%86%99%E5%87%BA%E8%B2%A8-8000%E8%90%AC%E6%B2%BD%E5%A4%A7%E5%9F%94%E5%BA%B7%E6%A8%82%E5%9C%92%E5%85%A9%E6%B4%8B%E6%88%BF-%E9%95%B7%E6%8F%B8%E7%88%BD%E8%B3%BA%E5%9B%9B%E5%8D%83%E8%90%AC",
-    "timestamp": "2026-04-30T03:23:43.901Z",
     "strategy": ".content-card__main"
   }
 ];
