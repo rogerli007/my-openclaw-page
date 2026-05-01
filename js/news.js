@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-01T19:50:15.760Z
+// Last updated: 2026-05-01T21:11:21.350Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "醉男蘭桂坊一帶取車駕駛保時捷　警灣仔截停　男司機涉醉駕被捕",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260502/1127109413669179392176490.jpeg/9BpJPbSwKS6bu2a4OS7KY1_tQXVs2uSPP1DAbQVQwG0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60345893/%E9%86%89%E7%94%B7%E8%98%AD%E6%A1%82%E5%9D%8A%E4%B8%80%E5%B8%B6%E5%8F%96%E8%BB%8A%E9%A7%95%E9%A7%9B%E4%BF%9D%E6%99%82%E6%8D%B7-%E8%AD%A6%E7%81%A3%E4%BB%94%E6%88%AA%E5%81%9C-%E7%94%B7%E5%8F%B8%E6%A9%9F%E6%B6%89%E9%86%89%E9%A7%95%E8%A2%AB%E6%8D%95",
+    "timestamp": "2026-05-01T21:11:21.350Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "長沙灣卡舖遭扑爆玻璃　沒有遺失財物　警追緝歹徒",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260501/1126857824194793472743982.jpeg/CnKFdp4-GAOOl6yg5a36-g2DxNSY5D8jKU4SYClOEmA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60345753/%E4%BA%94%E4%B8%80-%E8%A5%BF%E8%B2%A2%E6%9D%B1%E5%A3%A9%E9%80%BC%E7%88%86-%E6%BC%81%E8%AD%B7%E7%BD%B2%E6%8C%87%E4%BA%BA%E6%B5%81%E9%9D%9E%E5%B8%B8%E7%B9%81%E5%BF%99-%E7%A0%B4%E9%82%8A%E6%B4%B2%E5%AF%A6%E6%96%BD%E4%BA%BA%E6%B5%81%E7%AE%A1%E5%88%B6",
     "timestamp": "2026-05-01T05:00:01.933Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "寒戰1994丨40位實力派演員角色陣容+三大巨星陣營強勢曝光",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260415/1121108579852488704704169.jpeg/inb_pshoOrPoq24mdlhdyTRTvPPAVL_MEg_3RxIP90c?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60340462/%E5%AF%92%E6%88%B01994-40%E4%BD%8D%E5%AF%A6%E5%8A%9B%E6%B4%BE%E6%BC%94%E5%93%A1%E8%A7%92%E8%89%B2%E9%99%A3%E5%AE%B9-%E4%B8%89%E5%A4%A7%E5%B7%A8%E6%98%9F%E9%99%A3%E7%87%9F%E5%BC%B7%E5%8B%A2%E6%9B%9D%E5%85%89",
-    "timestamp": "2026-05-01T03:30:28.337Z",
     "strategy": ".content-card__main"
   }
 ];
