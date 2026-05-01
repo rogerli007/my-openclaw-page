@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-01T02:10:43.322Z
+// Last updated: 2026-05-01T03:30:28.337Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "寒戰1994丨40位實力派演員角色陣容+三大巨星陣營強勢曝光",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260415/1121108579852488704704169.jpeg/inb_pshoOrPoq24mdlhdyTRTvPPAVL_MEg_3RxIP90c?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60340462/%E5%AF%92%E6%88%B01994-40%E4%BD%8D%E5%AF%A6%E5%8A%9B%E6%B4%BE%E6%BC%94%E5%93%A1%E8%A7%92%E8%89%B2%E9%99%A3%E5%AE%B9-%E4%B8%89%E5%A4%A7%E5%B7%A8%E6%98%9F%E9%99%A3%E7%87%9F%E5%BC%B7%E5%8B%A2%E6%9B%9D%E5%85%89",
+    "timestamp": "2026-05-01T03:30:28.337Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "花旗︰維持黃金6至12個月目標為5000美元",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250905/1040648086034059264702516.jpeg/mMpbZdIjaIko6Gqc5wRefAwC0nMZOLzRvWkdlL1pHZQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60345331/%E5%BD%AD%E5%8D%9A-anthropic%E4%BC%B0%E5%80%BC%E9%80%BE9000%E5%84%84%E7%BE%8E%E5%85%83-%E6%AD%A3%E8%80%83%E6%85%AE%E6%96%B0%E4%B8%80%E8%BC%AA%E8%9E%8D%E8%B3%87-%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD",
     "timestamp": "2026-04-30T07:06:20.128Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "C朗頂入生涯第970球助艾納斯勝強敵　有望奪加盟沙特聯後首個冠軍",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260430/1126475006339977216927361.jpeg/L_51j41y4eOIeEn9un4NMiS_AmSXByo2xUT-68VE_us?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60345312/c%E6%9C%97%E9%A0%82%E5%85%A5%E7%94%9F%E6%B6%AF%E7%AC%AC970%E7%90%83%E5%8A%A9%E8%89%BE%E7%B4%8D%E6%96%AF%E5%8B%9D%E5%BC%B7%E6%95%B5-%E6%9C%89%E6%9C%9B%E5%A5%AA%E5%8A%A0%E7%9B%9F%E6%B2%99%E7%89%B9%E8%81%AF%E5%BE%8C%E9%A6%96%E5%80%8B%E5%86%A0%E8%BB%8D",
-    "timestamp": "2026-04-30T05:51:46.764Z",
     "strategy": ".content-card__main"
   }
 ];
