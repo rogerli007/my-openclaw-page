@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-01T06:11:02.682Z
+// Last updated: 2026-05-01T08:08:19.141Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "陳法拉自編自導新片已完成　爆曾想過搵梁朝偉演出因為冇錢請唔起",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260501/1126914146403618816172845.jpeg/w8OaohYJ4TuyJRFvaWttklos1ahI3aspNJagiDSWoIg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60345801/%E9%99%B3%E6%B3%95%E6%8B%89%E8%87%AA%E7%B7%A8%E8%87%AA%E5%B0%8E%E6%96%B0%E7%89%87%E5%B7%B2%E5%AE%8C%E6%88%90-%E7%88%86%E6%9B%BE%E6%83%B3%E9%81%8E%E6%90%B5%E6%A2%81%E6%9C%9D%E5%81%89%E6%BC%94%E5%87%BA%E5%9B%A0%E7%82%BA%E5%86%87%E9%8C%A2%E8%AB%8B%E5%94%94%E8%B5%B7",
+    "timestamp": "2026-05-01T08:08:19.141Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "宏福苑｜家園疑遭搜掠幸無損失　住戶檢珍藏果皮、柑桔、海味等",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260429/1126124458394783744478960.jpeg/y7GHSG-i_S3xJ0agA7R1jYHOwyet429RNoat0zaGrdM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%A6%AA%E5%AD%90/60342814/5%E6%9C%88%E6%96%B0%E6%89%8B%E7%88%B8%E5%AA%BD%E8%AC%9B%E5%BA%A7-%E8%B1%90%E5%AF%8C%E7%A6%8F%E8%A2%8B-%E9%80%80%E7%86%B1%E8%B2%BC-%E6%AF%8D%E4%B9%B3%E5%8F%8A%E7%94%A2%E5%BE%8C%E5%AA%BD%E9%85%8D%E6%96%B9-%E6%89%8B%E5%B7%BE%E4%BB%94",
     "timestamp": "2026-04-30T10:49:06.550Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "宏福苑居民投訴鴻毅及宏業「打龍通」　市建局沒受理反倡查詢鴻毅",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260430/1126556896824659968687192.jpeg/nvr8U6wrldzpQJfGX7eHeMziSq2KWYAQMnSCXhR0gl4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60345509/%E5%AE%8F%E7%A6%8F%E8%8B%91%E5%B1%85%E6%B0%91%E6%8A%95%E8%A8%B4%E9%B4%BB%E6%AF%85%E5%8F%8A%E5%AE%8F%E6%A5%AD-%E6%89%93%E9%BE%8D%E9%80%9A-%E5%B8%82%E5%BB%BA%E5%B1%80%E6%B2%92%E5%8F%97%E7%90%86%E5%8F%8D%E5%80%A1%E6%9F%A5%E8%A9%A2%E9%B4%BB%E6%AF%85",
-    "timestamp": "2026-04-30T09:55:17.115Z",
     "strategy": ".content-card__main"
   }
 ];
