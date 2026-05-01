@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-01T18:11:31.305Z
+// Last updated: 2026-05-01T19:15:22.604Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "長沙灣卡舖遭扑爆玻璃　沒有遺失財物　警追緝歹徒",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260502/1127079723076161536895231.jpeg/S5vUCxuSMJpwOAE8pZGVc4BIHd7VEoUSoK5pAZquaQE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60345889/%E9%95%B7%E6%B2%99%E7%81%A3%E5%8D%A1%E8%88%96%E9%81%AD%E6%89%91%E7%88%86%E7%8E%BB%E7%92%83-%E6%B2%92%E6%9C%89%E9%81%BA%E5%A4%B1%E8%B2%A1%E7%89%A9-%E8%AD%A6%E8%BF%BD%E7%B7%9D%E6%AD%B9%E5%BE%92",
+    "timestamp": "2026-05-01T19:15:22.604Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "五一黃金周｜警機場和迪士尼樂園「放蛇」打擊黑的　4司機被捕",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/cis/5e508ca65e00e37651d94dc6.jpg/p1NK2RKcS76fHHtmbnGp1FQt6KXxsgnFKM2NxyjNjcc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60345714/%E8%8A%B1%E6%97%97-%E7%B6%AD%E6%8C%81%E9%BB%83%E9%87%916%E8%87%B312%E5%80%8B%E6%9C%88%E7%9B%AE%E6%A8%99%E7%82%BA5000%E7%BE%8E%E5%85%83",
     "timestamp": "2026-05-01T02:10:43.322Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "健康隱憂！40歲女日日喝1飲品罹癌　醫生揭3偽健康飲品致癌溫床",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260429/1126118111171317760935042.jpeg/2G1UAE9O8RG_3hd-omYOt4rYYBc_5bg3ekVnJnpFZyY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60344754/%E5%81%A5%E5%BA%B7%E9%9A%B1%E6%86%82-40%E6%AD%B2%E5%A5%B3%E6%97%A5%E6%97%A5%E5%96%9D%E6%9E%9C%E6%B1%81%E7%BD%B9%E7%99%8C-%E9%86%AB%E7%94%9F%E6%8F%AD3%E5%81%BD%E5%81%A5%E5%BA%B7%E9%A3%B2%E5%93%81%E8%87%B4%E7%99%8C%E6%BA%AB%E5%BA%8A",
-    "timestamp": "2026-05-01T01:20:05.542Z",
     "strategy": ".content-card__main"
   }
 ];
