@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-01T23:13:02.288Z
+// Last updated: 2026-05-01T23:40:23.315Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "女醫生誘男病人激戰！曾車震、診室內性交　3年情斷被舉報遭釘牌",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260430/1126611294598729728792056.png/HSI1flku7qp27VG9A_k559SCV5MC69DdDNsQpAzbEKQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E8%A9%B1%E9%A1%8C/60344882/%E5%A5%B3%E9%86%AB%E7%94%9F%E8%AA%98%E7%94%B7%E7%97%85%E4%BA%BA%E6%BF%80%E6%88%B0-%E6%9B%BE%E8%BB%8A%E9%9C%87-%E8%A8%BA%E5%AE%A4%E5%85%A7%E6%80%A7%E4%BA%A4-3%E5%B9%B4%E6%83%85%E6%96%B7%E8%A2%AB%E8%88%89%E5%A0%B1%E9%81%AD%E9%87%98%E7%89%8C",
+    "timestamp": "2026-05-01T23:40:23.315Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "特斯拉給馬斯克開出「天價」薪酬方案　2025年薪酬逾萬億元",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260501/1126925275175587840703891.jpeg/eloApr-tm7xoNw5ChGSZAX4ugPOxVIDWa9PAOmvTwDo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60345811/%E9%8C%A6%E6%B2%B3%E8%B7%AF%E6%9D%91%E5%B1%8B%E8%88%8A%E6%84%9B%E8%A5%B2%E6%96%B0%E6%AD%A1-28%E6%AD%B2%E7%94%B7%E5%BE%80%E5%89%8D%E5%A5%B3%E5%8F%8B%E5%AE%B6%E6%94%B6%E6%8B%BE-%E6%80%92%E6%89%9322%E6%AD%B2-%E6%83%85%E6%95%B5",
     "timestamp": "2026-05-01T09:01:17.442Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "陳法拉自編自導新片已完成　爆曾想過搵梁朝偉演出因為冇錢請唔起",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260501/1126914146403618816172845.jpeg/w8OaohYJ4TuyJRFvaWttklos1ahI3aspNJagiDSWoIg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60345801/%E9%99%B3%E6%B3%95%E6%8B%89%E8%87%AA%E7%B7%A8%E8%87%AA%E5%B0%8E%E6%96%B0%E7%89%87%E5%B7%B2%E5%AE%8C%E6%88%90-%E7%88%86%E6%9B%BE%E6%83%B3%E9%81%8E%E6%90%B5%E6%A2%81%E6%9C%9D%E5%81%89%E6%BC%94%E5%87%BA%E5%9B%A0%E7%82%BA%E5%86%87%E9%8C%A2%E8%AB%8B%E5%94%94%E8%B5%B7",
-    "timestamp": "2026-05-01T08:08:19.141Z",
     "strategy": ".content-card__main"
   }
 ];
