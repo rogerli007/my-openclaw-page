@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-01T09:45:51.674Z
+// Last updated: 2026-05-01T10:54:03.927Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "「鴨王」何浩文自資圓音樂夢　街頭派傳單慘被無視直言小辛苦",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260430/1126586226057416704165792.jpeg/UtiujYtfjQFyj4YmVAhaghQjJkt4QzOCysTMPcrEzD0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60345603/%E9%B4%A8%E7%8E%8B-%E4%BD%95%E6%B5%A9%E6%96%87%E8%87%AA%E8%B3%87%E5%9C%93%E9%9F%B3%E6%A8%82%E5%A4%A2-%E8%A1%97%E9%A0%AD%E6%B4%BE%E5%82%B3%E5%96%AE%E6%85%98%E8%A2%AB%E7%84%A1%E8%A6%96%E7%9B%B4%E8%A8%80%E5%B0%8F%E8%BE%9B%E8%8B%A6",
+    "timestamp": "2026-05-01T10:54:03.927Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "八旬翁fb誤信假投資專家　交保證金、買股票後大跌　失逾$1000萬",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260424/1124295752474955776946780.jpeg/My0xN_MXdJtt4aj8esa7il2AC2FY0U6CbrkeZW65HmU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60345328/meta%E6%97%A9%E6%AE%B5%E6%80%A5%E6%8C%AB%E8%BF%91%E4%B8%80%E6%88%90-%E4%B8%8A%E8%AA%BF%E5%85%A8%E5%B9%B4%E6%94%AF%E5%87%BA%E9%A0%90%E4%BC%B0-ai%E5%B7%A8%E9%A1%8D%E6%8A%95%E8%B3%87%E7%87%83%E5%9B%9E%E5%A0%B1%E6%93%94%E6%86%82",
     "timestamp": "2026-04-30T13:44:50.395Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "宏福苑上樓｜宏建3母子取回獎盃、乳牙　感恩一家齊整可重頭開始",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260430/1126623566255624192014657.jpeg/V0t6L1xd4LuE5qtqaaYWAmHqe0KeDzp8N2qR7B5qkew?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60345637/%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%B8%8A%E6%A8%93-%E5%AE%8F%E5%BB%BA3%E6%AF%8D%E5%AD%90%E5%8F%96%E5%9B%9E%E7%8D%8E%E7%9B%83-%E4%B9%B3%E7%89%99-%E6%84%9F%E6%81%A9%E4%B8%80%E5%AE%B6%E9%BD%8A%E6%95%B4%E5%8F%AF%E9%87%8D%E9%A0%AD%E9%96%8B%E5%A7%8B",
-    "timestamp": "2026-04-30T12:56:07.168Z",
     "strategy": ".content-card__main"
   }
 ];
