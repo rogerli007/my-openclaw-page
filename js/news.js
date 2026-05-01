@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-01T11:34:33.550Z
+// Last updated: 2026-05-01T12:01:07.316Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "烏克蘭駐日大使：日本放寬武器出口限制　或可讓烏獲得日本武器",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260501/1126972271827619840498201.jpeg/GjC5Qvu5fQIcch-yB022oFpEU7UpMFuSDdfIGw3XyBs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60345851/%E7%83%8F%E5%85%8B%E8%98%AD%E9%A7%90%E6%97%A5%E5%A4%A7%E4%BD%BF-%E6%97%A5%E6%9C%AC%E6%94%BE%E5%AF%AC%E6%AD%A6%E5%99%A8%E5%87%BA%E5%8F%A3%E9%99%90%E5%88%B6-%E6%88%96%E5%8F%AF%E8%AE%93%E7%83%8F%E7%8D%B2%E5%BE%97%E6%97%A5%E6%9C%AC%E6%AD%A6%E5%99%A8",
+    "timestamp": "2026-05-01T12:01:07.316Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "陳嘉華｜國家需要真抓實幹的香港",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260430/1126639450877595648782390.jpeg/LMvT02cseIKp5VK_-wc-2wvdP-co5JMvDOcWRQznFkU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60345652/%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%B8%8A%E6%A8%93-%E7%AC%AC11%E6%97%A5%E5%85%B1117%E6%88%B6457%E4%BA%BA%E5%9F%B7%E6%8B%BE-%E9%8C%849%E5%AE%97%E6%B1%82%E8%AD%A6%E5%8D%94%E5%8A%A9%E6%B6%89%E9%81%BA%E5%A4%B1%E8%B2%A1%E7%89%A9",
     "timestamp": "2026-04-30T15:24:29.675Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普再批默茨：多花時間修復德國這破碎國家　少干涉伊朗問題",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260430/1126486667771777024621508.jpeg/mlrJ98egFj_7lLOJ3UWTOrUvxGoFyEYz6t9jUurfY1I?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60345654/%E7%89%B9%E6%9C%97%E6%99%AE%E5%86%8D%E6%89%B9%E9%BB%98%E8%8C%A8-%E5%A4%9A%E8%8A%B1%E6%99%82%E9%96%93%E4%BF%AE%E5%BE%A9%E5%BE%B7%E5%9C%8B%E9%80%99%E7%A0%B4%E7%A2%8E%E5%9C%8B%E5%AE%B6-%E5%B0%91%E5%B9%B2%E6%B6%89%E4%BC%8A%E6%9C%97%E5%95%8F%E9%A1%8C",
-    "timestamp": "2026-04-30T14:33:36.233Z",
     "strategy": ".content-card__main"
   }
 ];
