@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-01T15:41:00.445Z
+// Last updated: 2026-05-01T16:11:15.540Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "特朗普：歐盟汽車與卡車關稅下周起增至25%",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260429/1126140809515634688649815.jpeg/x2KW9VozKoJnhv_fwJFhVleUvYsRmMrageX8qYHl_Kk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60345883/%E7%89%B9%E6%9C%97%E6%99%AE-%E6%AD%90%E7%9B%9F%E6%B1%BD%E8%BB%8A%E8%88%87%E5%8D%A1%E8%BB%8A%E9%97%9C%E7%A8%85%E4%B8%8B%E5%91%A8%E8%B5%B7%E5%A2%9E%E8%87%B325",
+    "timestamp": "2026-05-01T16:11:15.540Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "宏福苑上樓｜第12日共130戶511人上樓　錄7宗求警個案涉財物損失",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260501/1126763882103181312378426.jpeg/9IcUDdH0ENrH130YQQN3DqUI4GCOXoY1vJxBdbycQXU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60345698/%E5%B0%96%E6%B2%99%E5%92%80%E9%85%92%E5%BA%97%E8%81%B7%E5%93%A1%E6%8F%AD%E4%BD%8F%E5%AE%A2%E6%88%BF%E9%96%93%E8%97%8F%E6%AF%92-%E8%AD%A6%E6%AA%A2-8000%E5%8F%AF%E5%8D%A1%E5%9B%A0-4%E7%94%B7%E5%A5%B3%E8%A2%AB%E6%8D%95",
     "timestamp": "2026-04-30T22:11:38.205Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "五一│去年黃金周凌晨座無虛設情景不再　網吧半滿　麥當勞冷清清",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260501/1126736520498122752540692.jpeg/W6j06S6YygzJsWYTjvENFQvL53UhkK5sTkRIh2tESIc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60345668/%E4%BA%94%E4%B8%80-%E5%8E%BB%E5%B9%B4%E9%BB%83%E9%87%91%E5%91%A8%E5%87%8C%E6%99%A8%E5%BA%A7%E7%84%A1%E8%99%9B%E8%A8%AD%E6%83%85%E6%99%AF%E4%B8%8D%E5%86%8D-%E7%B6%B2%E5%90%A7%E5%8D%8A%E6%BB%BF-%E9%BA%A5%E7%95%B6%E5%8B%9E%E5%86%B7%E6%B8%85%E6%B8%85",
-    "timestamp": "2026-04-30T21:14:10.856Z",
     "strategy": ".content-card__main"
   }
 ];
