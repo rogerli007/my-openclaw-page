@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-01T14:35:12.199Z
+// Last updated: 2026-05-01T15:12:59.367Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "水警搗柴灣工廈私煙倉拘7人　檢$1350萬水路走私貨",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260501/1127014327199469568961027.jpeg/azMh7dtSp75qxnbo4yVpDNpKtU_1q4JnsWD_GrFg_xo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60345874/%E6%B0%B4%E8%AD%A6%E6%90%97%E6%9F%B4%E7%81%A3%E5%B7%A5%E5%BB%88%E7%A7%81%E7%85%99%E5%80%89%E6%8B%987%E4%BA%BA-%E6%AA%A2-1350%E8%90%AC%E6%B0%B4%E8%B7%AF%E8%B5%B0%E7%A7%81%E8%B2%A8",
+    "timestamp": "2026-05-01T15:12:59.367Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "大馬抵港男身藏$140萬海洛英　海關搜行李檢157支私煙　涉3罪被捕",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260430/1126614182251204608156704.png/NIBTT-Ai50HngVedL_PPZAzl2-_sDImnDAVdYgwFXWI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60345693/%E5%80%AB%E6%95%A6%E6%8C%81%E5%88%80%E8%A5%B2%E6%93%8A%E4%BA%8B%E4%BB%B6%E5%BE%8C-%E8%8B%B1%E5%9C%8B%E4%B8%8A%E8%AA%BF%E6%81%90%E6%80%96%E5%A8%81%E8%84%85%E7%AD%89%E7%B4%9A",
     "timestamp": "2026-04-30T20:45:03.906Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "倫敦持刀襲擊事件後　英國上調恐怖威脅等級",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260430/1126614182251204608156704.png/NIBTT-Ai50HngVedL_PPZAzl2-_sDImnDAVdYgwFXWI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60345693/%E5%80%AB%E6%95%A6%E6%8C%81%E5%88%80%E8%A5%B2%E6%93%8A%E4%BA%8B%E4%BB%B6%E5%BE%8C-%E8%8B%B1%E5%9C%8B%E4%B8%8A%E8%AA%BF%E6%81%90%E6%80%96%E5%A8%81%E8%84%85%E7%AD%89%E7%B4%9A",
-    "timestamp": "2026-04-30T20:15:51.053Z",
     "strategy": ".content-card__main"
   }
 ];
