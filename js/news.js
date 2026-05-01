@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-01T21:11:21.350Z
+// Last updated: 2026-05-01T21:40:19.862Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "醉男蘭桂坊一帶取車駕駛保時捷　警灣仔截停　男司機涉醉駕被捕",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260502/1127109413669179392176490.jpeg/9BpJPbSwKS6bu2a4OS7KY1_tQXVs2uSPP1DAbQVQwG0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60345893/%E9%86%89%E7%94%B7%E8%98%AD%E6%A1%82%E5%9D%8A%E4%B8%80%E5%B8%B6%E5%8F%96%E8%BB%8A%E9%A7%95%E9%A7%9B%E4%BF%9D%E6%99%82%E6%8D%B7-%E8%AD%A6%E7%81%A3%E4%BB%94%E6%88%AA%E5%81%9C-%E7%94%B7%E5%8F%B8%E6%A9%9F%E6%B6%89%E9%86%89%E9%A7%95%E8%A2%AB%E6%8D%95",
+    "timestamp": "2026-05-01T21:40:19.862Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "醉男蘭桂坊一帶取車駕駛保時捷　警灣仔截停　男司機涉醉駕被捕",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260501/1126880736750604288587490.png/lM907ydhqMjI2BHcrS7nRMAFPNFU1U8gywcZHssHGR4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60345767/%E5%AE%8F%E7%A6%8F%E8%8B%91-%E5%AE%B6%E5%9C%92%E7%96%91%E9%81%AD%E6%90%9C%E6%8E%A0%E5%B9%B8%E7%84%A1%E6%90%8D%E5%A4%B1-%E4%BD%8F%E6%88%B6%E6%AA%A2%E7%8F%8D%E8%97%8F%E6%9E%9C%E7%9A%AE-%E6%9F%91%E6%A1%94-%E6%B5%B7%E5%91%B3%E7%AD%89",
     "timestamp": "2026-05-01T06:11:02.682Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "五一｜西貢東壩逼爆　漁護署指人流非常繁忙　破邊洲實施人流管制",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260501/1126857824194793472743982.jpeg/CnKFdp4-GAOOl6yg5a36-g2DxNSY5D8jKU4SYClOEmA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60345753/%E4%BA%94%E4%B8%80-%E8%A5%BF%E8%B2%A2%E6%9D%B1%E5%A3%A9%E9%80%BC%E7%88%86-%E6%BC%81%E8%AD%B7%E7%BD%B2%E6%8C%87%E4%BA%BA%E6%B5%81%E9%9D%9E%E5%B8%B8%E7%B9%81%E5%BF%99-%E7%A0%B4%E9%82%8A%E6%B4%B2%E5%AF%A6%E6%96%BD%E4%BA%BA%E6%B5%81%E7%AE%A1%E5%88%B6",
-    "timestamp": "2026-05-01T05:00:01.933Z",
     "strategy": ".content-card__main"
   }
 ];
