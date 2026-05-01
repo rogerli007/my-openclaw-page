@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-01T13:57:18.387Z
+// Last updated: 2026-05-01T14:35:12.199Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "大馬抵港男身藏$140萬海洛英　海關搜行李檢157支私煙　涉3罪被捕",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260501/1127011237457039360764851.jpeg/4_ausKlzr7LZuBEDdk6BxBMwUXA-AyvAsHGgybBxoMk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60345875/%E5%A4%A7%E9%A6%AC%E6%8A%B5%E6%B8%AF%E7%94%B7%E8%BA%AB%E8%97%8F-140%E8%90%AC%E6%B5%B7%E6%B4%9B%E8%8B%B1-%E6%B5%B7%E9%97%9C%E6%90%9C%E8%A1%8C%E6%9D%8E%E6%AA%A2157%E6%94%AF%E7%A7%81%E7%85%99-%E6%B6%893%E7%BD%AA%E8%A2%AB%E6%8D%95",
+    "timestamp": "2026-05-01T14:35:12.199Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "五一假期首日成都奪命車禍　男子駕駛轎車撞人後逃逸釀1死11傷",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260430/1126614182251204608156704.png/NIBTT-Ai50HngVedL_PPZAzl2-_sDImnDAVdYgwFXWI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60345693/%E5%80%AB%E6%95%A6%E6%8C%81%E5%88%80%E8%A5%B2%E6%93%8A%E4%BA%8B%E4%BB%B6%E5%BE%8C-%E8%8B%B1%E5%9C%8B%E4%B8%8A%E8%AA%BF%E6%81%90%E6%80%96%E5%A8%81%E8%84%85%E7%AD%89%E7%B4%9A",
     "timestamp": "2026-04-30T20:15:51.053Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "世界盃2026｜伊朗足總主席被拒入境加拿大　無法出席國際足協大會",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260501/1126715599985053696927865.jpeg/z72u1xzr2MGH38Z5w79mpAe1aQxOzVEfo9xHJKPcRyQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60345689/%E4%B8%96%E7%95%8C%E7%9B%832026-%E4%BC%8A%E6%9C%97%E8%B6%B3%E7%B8%BD%E4%B8%BB%E5%B8%AD%E8%A2%AB%E6%8B%92%E5%85%A5%E5%A2%83%E5%8A%A0%E6%8B%BF%E5%A4%A7-%E7%84%A1%E6%B3%95%E5%87%BA%E5%B8%AD%E5%9C%8B%E9%9A%9B%E8%B6%B3%E5%8D%94%E5%A4%A7%E6%9C%83",
-    "timestamp": "2026-04-30T19:41:16.323Z",
     "strategy": ".content-card__main"
   }
 ];
