@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-01T09:01:17.442Z
+// Last updated: 2026-05-01T09:45:51.674Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "八旬翁fb誤信假投資專家　交保證金、買股票後大跌　失逾$1000萬",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260501/1126934167884402688843179.jpeg/smM0oeJ5SspYA2dBU3mW4gQHODZOJfZGqK4SqqiuEqo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60345819/%E5%85%AB%E6%97%AC%E7%BF%81fb%E8%AA%A4%E4%BF%A1%E5%81%87%E6%8A%95%E8%B3%87%E5%B0%88%E5%AE%B6-%E4%BA%A4%E4%BF%9D%E8%AD%89%E9%87%91-%E8%B2%B7%E8%82%A1%E7%A5%A8%E5%BE%8C%E5%A4%A7%E8%B7%8C-%E5%A4%B1%E9%80%BE-1000%E8%90%AC",
+    "timestamp": "2026-05-01T09:45:51.674Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "錦河路村屋舊愛襲新歡　28歲男往前女友家收拾　怒打22歲「情敵」",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260430/1126623566255624192014657.jpeg/V0t6L1xd4LuE5qtqaaYWAmHqe0KeDzp8N2qR7B5qkew?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60345637/%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%B8%8A%E6%A8%93-%E5%AE%8F%E5%BB%BA3%E6%AF%8D%E5%AD%90%E5%8F%96%E5%9B%9E%E7%8D%8E%E7%9B%83-%E4%B9%B3%E7%89%99-%E6%84%9F%E6%81%A9%E4%B8%80%E5%AE%B6%E9%BD%8A%E6%95%B4%E5%8F%AF%E9%87%8D%E9%A0%AD%E9%96%8B%E5%A7%8B",
     "timestamp": "2026-04-30T12:56:07.168Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "宏福苑上樓｜新買新裝修家園毀於一旦　宏泰閣夫婦寧選原址重建",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260430/1126597681666330624183459.jpeg/_lZO--7XTRn-ooOAFivBU4oX3r4RbzkZmrR0Boy0dAY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60345622/%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%B8%8A%E6%A8%93-%E6%96%B0%E8%B2%B7%E6%96%B0%E8%A3%9D%E4%BF%AE%E5%AE%B6%E5%9C%92%E6%AF%80%E6%96%BC%E4%B8%80%E6%97%A6-%E5%AE%8F%E6%B3%B0%E9%96%A3%E5%A4%AB%E5%A9%A6%E5%AF%A7%E9%81%B8%E5%8E%9F%E5%9D%80%E9%87%8D%E5%BB%BA",
-    "timestamp": "2026-04-30T12:06:44.173Z",
     "strategy": ".content-card__main"
   }
 ];
