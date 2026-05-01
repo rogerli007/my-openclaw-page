@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-01T13:16:26.266Z
+// Last updated: 2026-05-01T13:57:18.387Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "五一假期首日成都奪命車禍　男子駕駛轎車撞人後逃逸釀1死11傷",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260501/1126999752311836672761950.jpeg/5JrXPLCgK4GLqEKr4xzOXJiJljgJfDXyVYiorlWIqK4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60345866/%E4%BA%94%E4%B8%80%E5%81%87%E6%9C%9F%E9%A6%96%E6%97%A5%E6%88%90%E9%83%BD%E5%A5%AA%E5%91%BD%E8%BB%8A%E7%A6%8D-%E7%94%B7%E5%AD%90%E9%A7%95%E9%A7%9B%E8%BD%8E%E8%BB%8A%E6%92%9E%E4%BA%BA%E5%BE%8C%E9%80%83%E9%80%B8%E9%87%801%E6%AD%BB11%E5%82%B7",
+    "timestamp": "2026-05-01T13:57:18.387Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "FIFA會長邀以巴足協代表握手　巴方拒絕　當場高喊「我們正受苦」",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260501/1126715599985053696927865.jpeg/z72u1xzr2MGH38Z5w79mpAe1aQxOzVEfo9xHJKPcRyQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60345689/%E4%B8%96%E7%95%8C%E7%9B%832026-%E4%BC%8A%E6%9C%97%E8%B6%B3%E7%B8%BD%E4%B8%BB%E5%B8%AD%E8%A2%AB%E6%8B%92%E5%85%A5%E5%A2%83%E5%8A%A0%E6%8B%BF%E5%A4%A7-%E7%84%A1%E6%B3%95%E5%87%BA%E5%B8%AD%E5%9C%8B%E9%9A%9B%E8%B6%B3%E5%8D%94%E5%A4%A7%E6%9C%83",
     "timestamp": "2026-04-30T19:41:16.323Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "姜濤四年前做Do姐訪問｜被追問學歷隱晦答：讀到Form 3之前就走咗",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260430/1126587250600054784170382.jpeg/b9wT2gtv2AnQvLLvv-aE8hmW4VbHlCvBepHmD3qR5g8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60345599/%E5%A7%9C%E6%BF%A4%E5%9B%9B%E5%B9%B4%E5%89%8D%E5%81%9Ado%E5%A7%90%E8%A8%AA%E5%95%8F-%E8%A2%AB%E8%BF%BD%E5%95%8F%E5%AD%B8%E6%AD%B7%E9%9A%B1%E6%99%A6%E7%AD%94-%E8%AE%80%E5%88%B0form-3%E4%B9%8B%E5%89%8D%E5%B0%B1%E8%B5%B0%E5%92%97",
-    "timestamp": "2026-04-30T16:08:25.230Z",
     "strategy": ".content-card__main"
   }
 ];
