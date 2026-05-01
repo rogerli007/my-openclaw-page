@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-01T21:40:19.862Z
+// Last updated: 2026-05-01T23:13:02.288Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "特斯拉給馬斯克開出「天價」薪酬方案　2025年薪酬逾萬億元",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260502/1127073787557187584653817.jpeg/HqrcqPTW-jjZdO3bT5dOSN9i60DHBFiIbQmRqW0Jkak?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60345888/%E7%89%B9%E6%96%AF%E6%8B%89%E7%B5%A6%E9%A6%AC%E6%96%AF%E5%85%8B%E9%96%8B%E5%87%BA-%E5%A4%A9%E5%83%B9-%E8%96%AA%E9%85%AC%E6%96%B9%E6%A1%88-2025%E5%B9%B4%E8%96%AA%E9%85%AC%E9%80%BE%E8%90%AC%E5%84%84%E5%85%83",
+    "timestamp": "2026-05-01T23:13:02.288Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "醉男蘭桂坊一帶取車駕駛保時捷　警灣仔截停　男司機涉醉駕被捕",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260501/1126914146403618816172845.jpeg/w8OaohYJ4TuyJRFvaWttklos1ahI3aspNJagiDSWoIg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60345801/%E9%99%B3%E6%B3%95%E6%8B%89%E8%87%AA%E7%B7%A8%E8%87%AA%E5%B0%8E%E6%96%B0%E7%89%87%E5%B7%B2%E5%AE%8C%E6%88%90-%E7%88%86%E6%9B%BE%E6%83%B3%E9%81%8E%E6%90%B5%E6%A2%81%E6%9C%9D%E5%81%89%E6%BC%94%E5%87%BA%E5%9B%A0%E7%82%BA%E5%86%87%E9%8C%A2%E8%AB%8B%E5%94%94%E8%B5%B7",
     "timestamp": "2026-05-01T08:08:19.141Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "宏福苑｜家園疑遭搜掠幸無損失　住戶檢珍藏果皮、柑桔、海味等",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260501/1126880736750604288587490.png/lM907ydhqMjI2BHcrS7nRMAFPNFU1U8gywcZHssHGR4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60345767/%E5%AE%8F%E7%A6%8F%E8%8B%91-%E5%AE%B6%E5%9C%92%E7%96%91%E9%81%AD%E6%90%9C%E6%8E%A0%E5%B9%B8%E7%84%A1%E6%90%8D%E5%A4%B1-%E4%BD%8F%E6%88%B6%E6%AA%A2%E7%8F%8D%E8%97%8F%E6%9E%9C%E7%9A%AE-%E6%9F%91%E6%A1%94-%E6%B5%B7%E5%91%B3%E7%AD%89",
-    "timestamp": "2026-05-01T06:11:02.682Z",
     "strategy": ".content-card__main"
   }
 ];
