@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-01T08:08:19.141Z
+// Last updated: 2026-05-01T09:01:17.442Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "錦河路村屋舊愛襲新歡　28歲男往前女友家收拾　怒打22歲「情敵」",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260501/1126925275175587840703891.jpeg/eloApr-tm7xoNw5ChGSZAX4ugPOxVIDWa9PAOmvTwDo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60345811/%E9%8C%A6%E6%B2%B3%E8%B7%AF%E6%9D%91%E5%B1%8B%E8%88%8A%E6%84%9B%E8%A5%B2%E6%96%B0%E6%AD%A1-28%E6%AD%B2%E7%94%B7%E5%BE%80%E5%89%8D%E5%A5%B3%E5%8F%8B%E5%AE%B6%E6%94%B6%E6%8B%BE-%E6%80%92%E6%89%9322%E6%AD%B2-%E6%83%85%E6%95%B5",
+    "timestamp": "2026-05-01T09:01:17.442Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "陳法拉自編自導新片已完成　爆曾想過搵梁朝偉演出因為冇錢請唔起",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260430/1126597681666330624183459.jpeg/_lZO--7XTRn-ooOAFivBU4oX3r4RbzkZmrR0Boy0dAY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60345622/%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%B8%8A%E6%A8%93-%E6%96%B0%E8%B2%B7%E6%96%B0%E8%A3%9D%E4%BF%AE%E5%AE%B6%E5%9C%92%E6%AF%80%E6%96%BC%E4%B8%80%E6%97%A6-%E5%AE%8F%E6%B3%B0%E9%96%A3%E5%A4%AB%E5%A9%A6%E5%AF%A7%E9%81%B8%E5%8E%9F%E5%9D%80%E9%87%8D%E5%BB%BA",
     "timestamp": "2026-04-30T12:06:44.173Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "5月新手爸媽講座｜豐富福袋 退熱貼/母乳及產後媽配方/手巾仔",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260429/1126124458394783744478960.jpeg/y7GHSG-i_S3xJ0agA7R1jYHOwyet429RNoat0zaGrdM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%A6%AA%E5%AD%90/60342814/5%E6%9C%88%E6%96%B0%E6%89%8B%E7%88%B8%E5%AA%BD%E8%AC%9B%E5%BA%A7-%E8%B1%90%E5%AF%8C%E7%A6%8F%E8%A2%8B-%E9%80%80%E7%86%B1%E8%B2%BC-%E6%AF%8D%E4%B9%B3%E5%8F%8A%E7%94%A2%E5%BE%8C%E5%AA%BD%E9%85%8D%E6%96%B9-%E6%89%8B%E5%B7%BE%E4%BB%94",
-    "timestamp": "2026-04-30T10:49:06.550Z",
     "strategy": ".content-card__main"
   }
 ];
