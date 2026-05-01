@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-01T12:01:07.316Z
+// Last updated: 2026-05-01T13:16:26.266Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "FIFA會長邀以巴足協代表握手　巴方拒絕　當場高喊「我們正受苦」",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260501/1126942763384836096527836.png/d6AnvDa9Vd4z4tTNXoqWVol1mWRRIN0eU9X4HlPV-B4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60345822/fifa%E6%9C%83%E9%95%B7%E9%82%80%E4%BB%A5%E5%B7%B4%E8%B6%B3%E5%8D%94%E4%BB%A3%E8%A1%A8%E6%8F%A1%E6%89%8B-%E5%B7%B4%E6%96%B9%E6%8B%92%E7%B5%95-%E7%95%B6%E5%A0%B4%E9%AB%98%E5%96%8A-%E6%88%91%E5%80%91%E6%AD%A3%E5%8F%97%E8%8B%A6",
+    "timestamp": "2026-05-01T13:16:26.266Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "烏克蘭駐日大使：日本放寬武器出口限制　或可讓烏獲得日本武器",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260430/1126587250600054784170382.jpeg/b9wT2gtv2AnQvLLvv-aE8hmW4VbHlCvBepHmD3qR5g8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60345599/%E5%A7%9C%E6%BF%A4%E5%9B%9B%E5%B9%B4%E5%89%8D%E5%81%9Ado%E5%A7%90%E8%A8%AA%E5%95%8F-%E8%A2%AB%E8%BF%BD%E5%95%8F%E5%AD%B8%E6%AD%B7%E9%9A%B1%E6%99%A6%E7%AD%94-%E8%AE%80%E5%88%B0form-3%E4%B9%8B%E5%89%8D%E5%B0%B1%E8%B5%B0%E5%92%97",
     "timestamp": "2026-04-30T16:08:25.230Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "宏福苑上樓｜第11日共117戶457人執拾　錄9宗求警協助涉遺失財物",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260430/1126639450877595648782390.jpeg/LMvT02cseIKp5VK_-wc-2wvdP-co5JMvDOcWRQznFkU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60345652/%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%B8%8A%E6%A8%93-%E7%AC%AC11%E6%97%A5%E5%85%B1117%E6%88%B6457%E4%BA%BA%E5%9F%B7%E6%8B%BE-%E9%8C%849%E5%AE%97%E6%B1%82%E8%AD%A6%E5%8D%94%E5%8A%A9%E6%B6%89%E9%81%BA%E5%A4%B1%E8%B2%A1%E7%89%A9",
-    "timestamp": "2026-04-30T15:24:29.675Z",
     "strategy": ".content-card__main"
   }
 ];
