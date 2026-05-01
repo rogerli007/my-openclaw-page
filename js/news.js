@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-01T17:41:13.296Z
+// Last updated: 2026-05-01T18:11:31.305Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "五一黃金周｜警機場和迪士尼樂園「放蛇」打擊黑的　4司機被捕",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260502/1127035952569520128125870.jpeg/Dv5Ymrx5pk9nhF4baQ34mt4oi6r0E7v7OKtVGDirVRg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60345884/%E4%BA%94%E4%B8%80%E9%BB%83%E9%87%91%E5%91%A8-%E8%AD%A6%E6%A9%9F%E5%A0%B4%E5%92%8C%E8%BF%AA%E5%A3%AB%E5%B0%BC%E6%A8%82%E5%9C%92-%E6%94%BE%E8%9B%87-%E6%89%93%E6%93%8A%E9%BB%91%E7%9A%84-4%E5%8F%B8%E6%A9%9F%E8%A2%AB%E6%8D%95",
+    "timestamp": "2026-05-01T18:11:31.305Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "五一黃金周｜警機場和迪士尼樂園「放蛇」打擊黑的　4司機被捕",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260429/1126118111171317760935042.jpeg/2G1UAE9O8RG_3hd-omYOt4rYYBc_5bg3ekVnJnpFZyY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60344754/%E5%81%A5%E5%BA%B7%E9%9A%B1%E6%86%82-40%E6%AD%B2%E5%A5%B3%E6%97%A5%E6%97%A5%E5%96%9D%E6%9E%9C%E6%B1%81%E7%BD%B9%E7%99%8C-%E9%86%AB%E7%94%9F%E6%8F%AD3%E5%81%BD%E5%81%A5%E5%BA%B7%E9%A3%B2%E5%93%81%E8%87%B4%E7%99%8C%E6%BA%AB%E5%BA%8A",
     "timestamp": "2026-05-01T01:20:05.542Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "貓貓上演「真假美猴王」！主人認錯毛孩　原住民和外來咪當場對質",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260429/1126201253555081216250496.png/fIoe_17T-CL9UvOLk13GZHn4WPIufVqA0RzTCdEc0wk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%AF%B5%E7%89%A9/60289357/%E8%B2%93%E8%B2%93%E4%B8%8A%E6%BC%94-%E7%9C%9F%E5%81%87%E7%BE%8E%E7%8C%B4%E7%8E%8B-%E4%B8%BB%E4%BA%BA%E8%AA%8D%E9%8C%AF%E6%AF%9B%E5%AD%A9-%E5%8E%9F%E4%BD%8F%E6%B0%91%E5%92%8C%E5%A4%96%E4%BE%86%E5%92%AA%E7%95%B6%E5%A0%B4%E5%B0%8D%E8%B3%AA",
-    "timestamp": "2026-05-01T00:08:54.154Z",
     "strategy": ".content-card__main"
   }
 ];
