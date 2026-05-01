@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-01T16:11:15.540Z
+// Last updated: 2026-05-01T16:40:17.357Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "五一黃金周｜警機場和迪士尼樂園「放蛇」打擊黑的　4司機被捕",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260502/1127035952569520128125870.jpeg/Dv5Ymrx5pk9nhF4baQ34mt4oi6r0E7v7OKtVGDirVRg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60345884/%E4%BA%94%E4%B8%80%E9%BB%83%E9%87%91%E5%91%A8-%E8%AD%A6%E6%A9%9F%E5%A0%B4%E5%92%8C%E8%BF%AA%E5%A3%AB%E5%B0%BC%E6%A8%82%E5%9C%92-%E6%94%BE%E8%9B%87-%E6%89%93%E6%93%8A%E9%BB%91%E7%9A%84-4%E5%8F%B8%E6%A9%9F%E8%A2%AB%E6%8D%95",
+    "timestamp": "2026-05-01T16:40:17.357Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "特朗普：歐盟汽車與卡車關稅下周起增至25%",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260501/1126767585979797504064729.jpeg/JokHl2x_HPG5aTO6ojPVAXuww_U12ua5jZWr542Vq-c?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60345700/%E7%89%B9%E6%9C%97%E6%99%AE-%E5%B7%B2-%E6%91%A7%E6%AF%80-%E4%BC%8A%E6%9C%97%E6%A0%B8%E8%83%BD%E5%8A%9B",
     "timestamp": "2026-04-30T23:39:22.846Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "尖沙咀酒店職員揭住客房間藏毒　警檢$8000可卡因　4男女被捕",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260501/1126763882103181312378426.jpeg/9IcUDdH0ENrH130YQQN3DqUI4GCOXoY1vJxBdbycQXU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60345698/%E5%B0%96%E6%B2%99%E5%92%80%E9%85%92%E5%BA%97%E8%81%B7%E5%93%A1%E6%8F%AD%E4%BD%8F%E5%AE%A2%E6%88%BF%E9%96%93%E8%97%8F%E6%AF%92-%E8%AD%A6%E6%AA%A2-8000%E5%8F%AF%E5%8D%A1%E5%9B%A0-4%E7%94%B7%E5%A5%B3%E8%A2%AB%E6%8D%95",
-    "timestamp": "2026-04-30T22:11:38.205Z",
     "strategy": ".content-card__main"
   }
 ];
