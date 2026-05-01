@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-01T01:20:05.542Z
+// Last updated: 2026-05-01T02:10:43.322Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "花旗︰維持黃金6至12個月目標為5000美元",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/cis/5e508ca65e00e37651d94dc6.jpg/p1NK2RKcS76fHHtmbnGp1FQt6KXxsgnFKM2NxyjNjcc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60345714/%E8%8A%B1%E6%97%97-%E7%B6%AD%E6%8C%81%E9%BB%83%E9%87%916%E8%87%B312%E5%80%8B%E6%9C%88%E7%9B%AE%E6%A8%99%E7%82%BA5000%E7%BE%8E%E5%85%83",
+    "timestamp": "2026-05-01T02:10:43.322Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "健康隱憂！40歲女日日喝1飲品罹癌　醫生揭3偽健康飲品致癌溫床",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260430/1126475006339977216927361.jpeg/L_51j41y4eOIeEn9un4NMiS_AmSXByo2xUT-68VE_us?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60345312/c%E6%9C%97%E9%A0%82%E5%85%A5%E7%94%9F%E6%B6%AF%E7%AC%AC970%E7%90%83%E5%8A%A9%E8%89%BE%E7%B4%8D%E6%96%AF%E5%8B%9D%E5%BC%B7%E6%95%B5-%E6%9C%89%E6%9C%9B%E5%A5%AA%E5%8A%A0%E7%9B%9F%E6%B2%99%E7%89%B9%E8%81%AF%E5%BE%8C%E9%A6%96%E5%80%8B%E5%86%A0%E8%BB%8D",
     "timestamp": "2026-04-30T05:51:46.764Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "Novelbright演唱會2026香港｜門票優先/公售攻略+購票連結+座位表",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260430/1126488311834087424498306.jpeg/1AWu_UgSammz5pPjKepflVrlj2zmVOJnVY0-DVWNPg0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60345361/novelbright%E6%BC%94%E5%94%B1%E6%9C%832026%E9%A6%99%E6%B8%AF-%E9%96%80%E7%A5%A8%E5%84%AA%E5%85%88-%E5%85%AC%E5%94%AE%E6%94%BB%E7%95%A5-%E8%B3%BC%E7%A5%A8%E9%80%A3%E7%B5%90-%E5%BA%A7%E4%BD%8D%E8%A1%A8",
-    "timestamp": "2026-04-30T04:46:41.412Z",
     "strategy": ".content-card__main"
   }
 ];
