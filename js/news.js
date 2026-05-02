@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-02T23:30:37.790Z
+// Last updated: 2026-05-02T23:53:34.998Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "伊朗局勢｜美國多家石油巨頭CEO齊警告︰能源市場正逼近懸崖邊緣",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260316/1110152992629198848079246.jpeg/JXI9R9qKEoxdF3kcDWVlRmUHJJ2qgKJdoeltlaHpbZU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60345990/%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8B%A2-%E7%BE%8E%E5%9C%8B%E5%A4%9A%E5%AE%B6%E7%9F%B3%E6%B2%B9%E5%B7%A8%E9%A0%ADceo%E9%BD%8A%E8%AD%A6%E5%91%8A-%E8%83%BD%E6%BA%90%E5%B8%82%E5%A0%B4%E6%AD%A3%E9%80%BC%E8%BF%91%E6%87%B8%E5%B4%96%E9%82%8A%E7%B7%A3",
+    "timestamp": "2026-05-02T23:53:34.998Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "打女人影片瘋傳！男暴毆長髮女拳拳打頭　揭內情風向逆轉：不可辱",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260502/1127309776033026048925460.jpeg/ZZN4v5irl8MYENUGegvRtr-Kms99X7enYX1kt1t9ZLc?v=w1920",
     "url": "https://www.hk01.com/%E5%8C%97%E4%B8%8A%E5%BB%A3%E6%9D%B1/60346006/%E8%B5%B0%E9%80%B2%E5%BB%A3%E6%9D%B1%E7%9C%81%E7%AB%8B%E4%B8%AD%E5%B1%B1%E5%9C%96%E6%9B%B8%E9%A4%A8-%E9%AB%94%E9%A9%97%E5%8F%A4%E7%B1%8D%E4%BF%AE%E5%BE%A9%E6%B4%BB%E5%AD%97%E5%8D%B0%E5%88%B7-%E8%B6%A3share%E5%A4%A7%E7%81%A3%E5%8D%80",
     "timestamp": "2026-05-02T12:05:56.163Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "草蜢x軟硬復刻2012年集體回憶鬥唱鬥嘴　五子手搭手結盟場面感人",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260502/1127269327293124608541983.jpeg/iEuFidRX6WobvPFuj0GNY_pZTEcvsO7gnejurJ3o7qw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60345962/%E8%8D%89%E8%9C%A2x%E8%BB%9F%E7%A1%AC%E5%BE%A9%E5%88%BB2012%E5%B9%B4%E9%9B%86%E9%AB%94%E5%9B%9E%E6%86%B6%E9%AC%A5%E5%94%B1%E9%AC%A5%E5%98%B4-%E4%BA%94%E5%AD%90%E6%89%8B%E6%90%AD%E6%89%8B%E7%B5%90%E7%9B%9F%E5%A0%B4%E9%9D%A2%E6%84%9F%E4%BA%BA",
-    "timestamp": "2026-05-02T11:36:45.895Z",
     "strategy": ".content-card__main"
   }
 ];
