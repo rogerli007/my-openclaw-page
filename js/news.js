@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-02T19:32:38.008Z
+// Last updated: 2026-05-02T19:56:16.760Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "伊朗擬定管理霍爾木茲海峽法案　副議長：完全禁止以色列船隻通過",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260319/1111233379946205184425031.jpeg/w8RMEeBcg1gA7sbenfNOfL33OekkA2_85C4_n-QuP58?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60346072/%E4%BC%8A%E6%9C%97%E6%93%AC%E5%AE%9A%E7%AE%A1%E7%90%86%E9%9C%8D%E7%88%BE%E6%9C%A8%E8%8C%B2%E6%B5%B7%E5%B3%BD%E6%B3%95%E6%A1%88-%E5%89%AF%E8%AD%B0%E9%95%B7-%E5%AE%8C%E5%85%A8%E7%A6%81%E6%AD%A2%E4%BB%A5%E8%89%B2%E5%88%97%E8%88%B9%E9%9A%BB%E9%80%9A%E9%81%8E",
+    "timestamp": "2026-05-02T19:56:16.760Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "伊朗擬定管理霍爾木茲海峽法案　副議長：完全禁止以色列船隻通過",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260302/1105244918630060032308971.jpeg/XssiGMYsuX0UZZ-8GmQjvX85ahM2dH_eE8rBBzbKwQc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60345918/%E6%9E%97%E5%AE%9A%E5%9C%8B-%E9%A6%99%E6%B8%AF%E6%B3%95%E5%BE%8B%E5%88%B6%E5%BA%A6%E9%9C%80%E8%88%87%E6%99%82%E4%B8%A6%E9%80%B2-%E6%AD%A3%E5%A4%A7%E8%A6%8F%E6%A8%A1%E6%AA%A2%E8%A8%8E%E4%BB%B2%E8%A3%81%E6%B3%95%E4%BE%8B",
     "timestamp": "2026-05-02T03:21:18.049Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "兒童早餐｜營養師推5種省心營養早餐配搭　不用開火也能吃得健康",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260422/1123655457165021184028917.png/NVN38iHLowBJvGA7bjSr9o0obOARDX9igLpQnPW6UJw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%A6%AA%E5%AD%90/60342748/%E5%85%92%E7%AB%A5%E6%97%A9%E9%A4%90-%E7%87%9F%E9%A4%8A%E5%B8%AB%E6%8E%A85%E7%A8%AE%E7%9C%81%E5%BF%83%E7%87%9F%E9%A4%8A%E6%97%A9%E9%A4%90%E9%85%8D%E6%90%AD-%E4%B8%8D%E7%94%A8%E9%96%8B%E7%81%AB%E4%B9%9F%E8%83%BD%E5%90%83%E5%BE%97%E5%81%A5%E5%BA%B7",
-    "timestamp": "2026-05-02T02:06:23.885Z",
     "strategy": ".content-card__main"
   }
 ];
