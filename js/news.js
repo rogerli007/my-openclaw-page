@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-02T11:09:42.633Z
+// Last updated: 2026-05-02T11:36:45.895Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "草蜢x軟硬復刻2012年集體回憶鬥唱鬥嘴　五子手搭手結盟場面感人",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260502/1127269327293124608541983.jpeg/iEuFidRX6WobvPFuj0GNY_pZTEcvsO7gnejurJ3o7qw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60345962/%E8%8D%89%E8%9C%A2x%E8%BB%9F%E7%A1%AC%E5%BE%A9%E5%88%BB2012%E5%B9%B4%E9%9B%86%E9%AB%94%E5%9B%9E%E6%86%B6%E9%AC%A5%E5%94%B1%E9%AC%A5%E5%98%B4-%E4%BA%94%E5%AD%90%E6%89%8B%E6%90%AD%E6%89%8B%E7%B5%90%E7%9B%9F%E5%A0%B4%E9%9D%A2%E6%84%9F%E4%BA%BA",
+    "timestamp": "2026-05-02T11:36:45.895Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "薩頓日記揭南京大屠殺鐵證　90後收藏家10萬美金標下捐贈紀念館",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260501/1127014327199469568961027.jpeg/azMh7dtSp75qxnbo4yVpDNpKtU_1q4JnsWD_GrFg_xo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60345874/%E6%B0%B4%E8%AD%A6%E6%90%97%E6%9F%B4%E7%81%A3%E5%B7%A5%E5%BB%88%E7%A7%81%E7%85%99%E5%80%89%E6%8B%987%E4%BA%BA-%E6%AA%A2-1350%E8%90%AC%E6%B0%B4%E8%B7%AF%E8%B5%B0%E7%A7%81%E8%B2%A8",
     "timestamp": "2026-05-01T15:12:59.367Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "大馬抵港男身藏$140萬海洛英　海關搜行李檢157支私煙　涉3罪被捕",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260501/1127011237457039360764851.jpeg/4_ausKlzr7LZuBEDdk6BxBMwUXA-AyvAsHGgybBxoMk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60345875/%E5%A4%A7%E9%A6%AC%E6%8A%B5%E6%B8%AF%E7%94%B7%E8%BA%AB%E8%97%8F-140%E8%90%AC%E6%B5%B7%E6%B4%9B%E8%8B%B1-%E6%B5%B7%E9%97%9C%E6%90%9C%E8%A1%8C%E6%9D%8E%E6%AA%A2157%E6%94%AF%E7%A7%81%E7%85%99-%E6%B6%893%E7%BD%AA%E8%A2%AB%E6%8D%95",
-    "timestamp": "2026-05-01T14:35:12.199Z",
     "strategy": ".content-card__main"
   }
 ];
