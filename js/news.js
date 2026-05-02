@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-02T15:25:15.964Z
+// Last updated: 2026-05-02T15:53:23.964Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "英冠煞科｜葉士域治重返英超　域斯咸失附加賽資格無緣四連升",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260502/1127376422910824448604571.jpeg/ACyQHtzG5WmiBNkjHpAw6j5bByscRsRtHbA5Cx2wOQs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60346052/%E8%8B%B1%E5%86%A0%E7%85%9E%E7%A7%91-%E8%91%89%E5%A3%AB%E5%9F%9F%E6%B2%BB%E9%87%8D%E8%BF%94%E8%8B%B1%E8%B6%85-%E5%9F%9F%E6%96%AF%E5%92%B8%E5%A4%B1%E9%99%84%E5%8A%A0%E8%B3%BD%E8%B3%87%E6%A0%BC%E7%84%A1%E7%B7%A3%E5%9B%9B%E9%80%A3%E5%8D%87",
+    "timestamp": "2026-05-02T15:53:23.964Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "海關機場檢$230萬大麻花和9支私煙　2男旅客被捕　案件周一提堂",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260502/1127079723076161536895231.jpeg/S5vUCxuSMJpwOAE8pZGVc4BIHd7VEoUSoK5pAZquaQE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60345889/%E9%95%B7%E6%B2%99%E7%81%A3%E5%8D%A1%E8%88%96%E9%81%AD%E6%89%91%E7%88%86%E7%8E%BB%E7%92%83-%E6%B2%92%E6%9C%89%E9%81%BA%E5%A4%B1%E8%B2%A1%E7%89%A9-%E8%AD%A6%E8%BF%BD%E7%B7%9D%E6%AD%B9%E5%BE%92",
     "timestamp": "2026-05-01T19:50:15.760Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "長沙灣卡舖遭扑爆玻璃　沒有遺失財物　警追緝歹徒",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260502/1127079723076161536895231.jpeg/S5vUCxuSMJpwOAE8pZGVc4BIHd7VEoUSoK5pAZquaQE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60345889/%E9%95%B7%E6%B2%99%E7%81%A3%E5%8D%A1%E8%88%96%E9%81%AD%E6%89%91%E7%88%86%E7%8E%BB%E7%92%83-%E6%B2%92%E6%9C%89%E9%81%BA%E5%A4%B1%E8%B2%A1%E7%89%A9-%E8%AD%A6%E8%BF%BD%E7%B7%9D%E6%AD%B9%E5%BE%92",
-    "timestamp": "2026-05-01T19:15:22.604Z",
     "strategy": ".content-card__main"
   }
 ];
