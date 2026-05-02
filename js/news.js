@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-02T14:29:21.026Z
+// Last updated: 2026-05-02T15:25:15.964Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "海關機場檢$230萬大麻花和9支私煙　2男旅客被捕　案件周一提堂",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260502/1127386534043979776201469.jpeg/QPMn403VZfQyL5-civL2XNLLj4lE1v4MzzaexM82nsQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60346056/%E6%B5%B7%E9%97%9C%E6%A9%9F%E5%A0%B4%E6%AA%A2-230%E8%90%AC%E5%A4%A7%E9%BA%BB%E8%8A%B1%E5%92%8C9%E6%94%AF%E7%A7%81%E7%85%99-2%E7%94%B7%E6%97%85%E5%AE%A2%E8%A2%AB%E6%8D%95-%E6%A1%88%E4%BB%B6%E5%91%A8%E4%B8%80%E6%8F%90%E5%A0%82",
+    "timestamp": "2026-05-02T15:25:15.964Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "草蜢演唱會2026｜張玉珊孖富豪未婚夫入場睇騷　呂良偉楊小娟同行",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260502/1127079723076161536895231.jpeg/S5vUCxuSMJpwOAE8pZGVc4BIHd7VEoUSoK5pAZquaQE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60345889/%E9%95%B7%E6%B2%99%E7%81%A3%E5%8D%A1%E8%88%96%E9%81%AD%E6%89%91%E7%88%86%E7%8E%BB%E7%92%83-%E6%B2%92%E6%9C%89%E9%81%BA%E5%A4%B1%E8%B2%A1%E7%89%A9-%E8%AD%A6%E8%BF%BD%E7%B7%9D%E6%AD%B9%E5%BE%92",
     "timestamp": "2026-05-01T19:15:22.604Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "五一黃金周｜警機場和迪士尼樂園「放蛇」打擊黑的　4司機被捕",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260502/1127035952569520128125870.jpeg/Dv5Ymrx5pk9nhF4baQ34mt4oi6r0E7v7OKtVGDirVRg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60345884/%E4%BA%94%E4%B8%80%E9%BB%83%E9%87%91%E5%91%A8-%E8%AD%A6%E6%A9%9F%E5%A0%B4%E5%92%8C%E8%BF%AA%E5%A3%AB%E5%B0%BC%E6%A8%82%E5%9C%92-%E6%94%BE%E8%9B%87-%E6%89%93%E6%93%8A%E9%BB%91%E7%9A%84-4%E5%8F%B8%E6%A9%9F%E8%A2%AB%E6%8D%95",
-    "timestamp": "2026-05-01T18:11:31.305Z",
     "strategy": ".content-card__main"
   }
 ];
