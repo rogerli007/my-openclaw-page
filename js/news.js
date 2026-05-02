@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-02T10:38:27.469Z
+// Last updated: 2026-05-02T11:09:42.633Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "薩頓日記揭南京大屠殺鐵證　90後收藏家10萬美金標下捐贈紀念館",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260502/1127300918308507648647390.png/L9iSiUepTJ1S5vkuJaX7XILYFJ_moD3rdNr-vXTa_r0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60345987/%E8%96%A9%E9%A0%93%E6%97%A5%E8%A8%98%E6%8F%AD%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%B1%A0%E6%AE%BA%E9%90%B5%E8%AD%89-90%E5%BE%8C%E6%94%B6%E8%97%8F%E5%AE%B610%E8%90%AC%E7%BE%8E%E9%87%91%E6%A8%99%E4%B8%8B%E6%8D%90%E8%B4%88%E7%B4%80%E5%BF%B5%E9%A4%A8",
+    "timestamp": "2026-05-02T11:09:42.633Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "奧斯卡頒新規禁AI演員與編劇入圍　演員可獲同獎項類別多次提名",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260501/1127011237457039360764851.jpeg/4_ausKlzr7LZuBEDdk6BxBMwUXA-AyvAsHGgybBxoMk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60345875/%E5%A4%A7%E9%A6%AC%E6%8A%B5%E6%B8%AF%E7%94%B7%E8%BA%AB%E8%97%8F-140%E8%90%AC%E6%B5%B7%E6%B4%9B%E8%8B%B1-%E6%B5%B7%E9%97%9C%E6%90%9C%E8%A1%8C%E6%9D%8E%E6%AA%A2157%E6%94%AF%E7%A7%81%E7%85%99-%E6%B6%893%E7%BD%AA%E8%A2%AB%E6%8D%95",
     "timestamp": "2026-05-01T14:35:12.199Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "五一假期首日成都奪命車禍　男子駕駛轎車撞人後逃逸釀1死11傷",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260501/1126999752311836672761950.jpeg/5JrXPLCgK4GLqEKr4xzOXJiJljgJfDXyVYiorlWIqK4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60345866/%E4%BA%94%E4%B8%80%E5%81%87%E6%9C%9F%E9%A6%96%E6%97%A5%E6%88%90%E9%83%BD%E5%A5%AA%E5%91%BD%E8%BB%8A%E7%A6%8D-%E7%94%B7%E5%AD%90%E9%A7%95%E9%A7%9B%E8%BD%8E%E8%BB%8A%E6%92%9E%E4%BA%BA%E5%BE%8C%E9%80%83%E9%80%B8%E9%87%801%E6%AD%BB11%E5%82%B7",
-    "timestamp": "2026-05-01T13:57:18.387Z",
     "strategy": ".content-card__main"
   }
 ];
