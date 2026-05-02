@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-02T16:27:46.031Z
+// Last updated: 2026-05-02T16:53:14.624Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "中國企業涉伊朗石油交易遭美國制裁　商務部發布禁令阻斷",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260224/1102914374441373696058732.jpeg/8Tql5gJu4pUDO8QW6dc9YL22ombJD4hofc5LlX3OS5U?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60346065/%E4%B8%AD%E5%9C%8B%E4%BC%81%E6%A5%AD%E6%B6%89%E4%BC%8A%E6%9C%97%E7%9F%B3%E6%B2%B9%E4%BA%A4%E6%98%93%E9%81%AD%E7%BE%8E%E5%9C%8B%E5%88%B6%E8%A3%81-%E5%95%86%E5%8B%99%E9%83%A8%E7%99%BC%E5%B8%83%E7%A6%81%E4%BB%A4%E9%98%BB%E6%96%B7",
+    "timestamp": "2026-05-02T16:53:14.624Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "大濛影評｜悲情城市裡見證人性真善美　柯煒林演繹大放異彩｜何故",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260502/1127109413669179392176490.jpeg/9BpJPbSwKS6bu2a4OS7KY1_tQXVs2uSPP1DAbQVQwG0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60345893/%E9%86%89%E7%94%B7%E8%98%AD%E6%A1%82%E5%9D%8A%E4%B8%80%E5%B8%B6%E5%8F%96%E8%BB%8A%E9%A7%95%E9%A7%9B%E4%BF%9D%E6%99%82%E6%8D%B7-%E8%AD%A6%E7%81%A3%E4%BB%94%E6%88%AA%E5%81%9C-%E7%94%B7%E5%8F%B8%E6%A9%9F%E6%B6%89%E9%86%89%E9%A7%95%E8%A2%AB%E6%8D%95",
     "timestamp": "2026-05-01T21:40:19.862Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "醉男蘭桂坊一帶取車駕駛保時捷　警灣仔截停　男司機涉醉駕被捕",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260502/1127109413669179392176490.jpeg/9BpJPbSwKS6bu2a4OS7KY1_tQXVs2uSPP1DAbQVQwG0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60345893/%E9%86%89%E7%94%B7%E8%98%AD%E6%A1%82%E5%9D%8A%E4%B8%80%E5%B8%B6%E5%8F%96%E8%BB%8A%E9%A7%95%E9%A7%9B%E4%BF%9D%E6%99%82%E6%8D%B7-%E8%AD%A6%E7%81%A3%E4%BB%94%E6%88%AA%E5%81%9C-%E7%94%B7%E5%8F%B8%E6%A9%9F%E6%B6%89%E9%86%89%E9%A7%95%E8%A2%AB%E6%8D%95",
-    "timestamp": "2026-05-01T21:11:21.350Z",
     "strategy": ".content-card__main"
   }
 ];
