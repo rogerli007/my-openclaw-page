@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-02T11:36:45.895Z
+// Last updated: 2026-05-02T12:05:56.163Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "走進廣東省立中山圖書館　體驗古籍修復活字印刷｜趣Share大灣區",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260502/1127309776033026048925460.jpeg/ZZN4v5irl8MYENUGegvRtr-Kms99X7enYX1kt1t9ZLc?v=w1920",
+    "url": "https://www.hk01.com/%E5%8C%97%E4%B8%8A%E5%BB%A3%E6%9D%B1/60346006/%E8%B5%B0%E9%80%B2%E5%BB%A3%E6%9D%B1%E7%9C%81%E7%AB%8B%E4%B8%AD%E5%B1%B1%E5%9C%96%E6%9B%B8%E9%A4%A8-%E9%AB%94%E9%A9%97%E5%8F%A4%E7%B1%8D%E4%BF%AE%E5%BE%A9%E6%B4%BB%E5%AD%97%E5%8D%B0%E5%88%B7-%E8%B6%A3share%E5%A4%A7%E7%81%A3%E5%8D%80",
+    "timestamp": "2026-05-02T12:05:56.163Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "草蜢x軟硬復刻2012年集體回憶鬥唱鬥嘴　五子手搭手結盟場面感人",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260501/1127026370946273280743268.jpeg/8zD1lGvHm3BkBf0PPPAn1sm7VMhSb5OLjPhs34z4bN8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60345880/%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%B8%8A%E6%A8%93-%E7%AC%AC12%E6%97%A5%E5%85%B1130%E6%88%B6511%E4%BA%BA%E4%B8%8A%E6%A8%93-%E9%8C%847%E5%AE%97%E6%B1%82%E8%AD%A6%E5%80%8B%E6%A1%88%E6%B6%89%E8%B2%A1%E7%89%A9%E6%90%8D%E5%A4%B1",
     "timestamp": "2026-05-01T15:41:00.445Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "水警搗柴灣工廈私煙倉拘7人　檢$1350萬水路走私貨",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260501/1127014327199469568961027.jpeg/azMh7dtSp75qxnbo4yVpDNpKtU_1q4JnsWD_GrFg_xo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60345874/%E6%B0%B4%E8%AD%A6%E6%90%97%E6%9F%B4%E7%81%A3%E5%B7%A5%E5%BB%88%E7%A7%81%E7%85%99%E5%80%89%E6%8B%987%E4%BA%BA-%E6%AA%A2-1350%E8%90%AC%E6%B0%B4%E8%B7%AF%E8%B5%B0%E7%A7%81%E8%B2%A8",
-    "timestamp": "2026-05-01T15:12:59.367Z",
     "strategy": ".content-card__main"
   }
 ];
