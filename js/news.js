@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-01T23:40:23.315Z
+// Last updated: 2026-05-02T01:11:24.166Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "Gemini香港付費版完整攻略　課金$32月費生成1500張Nano Banana！",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260502/1127168131421179904954071.jpeg/xB0wcWug_LWCYo0bwX14MOBFfGZ5aPAdd4Wx5neFseY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60345898/gemini%E9%A6%99%E6%B8%AF%E4%BB%98%E8%B2%BB%E7%89%88%E5%AE%8C%E6%95%B4%E6%94%BB%E7%95%A5-%E8%AA%B2%E9%87%91-32%E6%9C%88%E8%B2%BB%E7%94%9F%E6%88%901500%E5%BC%B5nano-banana",
+    "timestamp": "2026-05-02T01:11:24.166Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "女醫生誘男病人激戰！曾車震、診室內性交　3年情斷被舉報遭釘牌",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260501/1126934167884402688843179.jpeg/smM0oeJ5SspYA2dBU3mW4gQHODZOJfZGqK4SqqiuEqo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60345819/%E5%85%AB%E6%97%AC%E7%BF%81fb%E8%AA%A4%E4%BF%A1%E5%81%87%E6%8A%95%E8%B3%87%E5%B0%88%E5%AE%B6-%E4%BA%A4%E4%BF%9D%E8%AD%89%E9%87%91-%E8%B2%B7%E8%82%A1%E7%A5%A8%E5%BE%8C%E5%A4%A7%E8%B7%8C-%E5%A4%B1%E9%80%BE-1000%E8%90%AC",
     "timestamp": "2026-05-01T09:45:51.674Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "錦河路村屋舊愛襲新歡　28歲男往前女友家收拾　怒打22歲「情敵」",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260501/1126925275175587840703891.jpeg/eloApr-tm7xoNw5ChGSZAX4ugPOxVIDWa9PAOmvTwDo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60345811/%E9%8C%A6%E6%B2%B3%E8%B7%AF%E6%9D%91%E5%B1%8B%E8%88%8A%E6%84%9B%E8%A5%B2%E6%96%B0%E6%AD%A1-28%E6%AD%B2%E7%94%B7%E5%BE%80%E5%89%8D%E5%A5%B3%E5%8F%8B%E5%AE%B6%E6%94%B6%E6%8B%BE-%E6%80%92%E6%89%9322%E6%AD%B2-%E6%83%85%E6%95%B5",
-    "timestamp": "2026-05-01T09:01:17.442Z",
     "strategy": ".content-card__main"
   }
 ];
