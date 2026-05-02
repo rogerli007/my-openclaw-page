@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-02T17:27:15.937Z
+// Last updated: 2026-05-02T18:31:55.316Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "深圳行山｜大梅沙登馬巒山梅亭訪羅氏大屋　走翠微徑觀馬巒瀑布",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260502/1127324887287861248842975.jpeg/MoXBH8m-bt2rFvl5fFMksNp1drYeAkgATeUt-k3lLfo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60339572/%E6%B7%B1%E5%9C%B3%E8%A1%8C%E5%B1%B1-%E5%A4%A7%E6%A2%85%E6%B2%99%E7%99%BB%E9%A6%AC%E5%B7%92%E5%B1%B1%E6%A2%85%E4%BA%AD%E8%A8%AA%E7%BE%85%E6%B0%8F%E5%A4%A7%E5%B1%8B-%E8%B5%B0%E7%BF%A0%E5%BE%AE%E5%BE%91%E8%A7%80%E9%A6%AC%E5%B7%92%E7%80%91%E5%B8%83",
+    "timestamp": "2026-05-02T18:31:55.316Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "五一｜遊人橋咀洲廈門灣及橋頭挖掘海岸生物　環團促納入保護區",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260430/1126611294598729728792056.png/HSI1flku7qp27VG9A_k559SCV5MC69DdDNsQpAzbEKQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E8%A9%B1%E9%A1%8C/60344882/%E5%A5%B3%E9%86%AB%E7%94%9F%E8%AA%98%E7%94%B7%E7%97%85%E4%BA%BA%E6%BF%80%E6%88%B0-%E6%9B%BE%E8%BB%8A%E9%9C%87-%E8%A8%BA%E5%AE%A4%E5%85%A7%E6%80%A7%E4%BA%A4-3%E5%B9%B4%E6%83%85%E6%96%B7%E8%A2%AB%E8%88%89%E5%A0%B1%E9%81%AD%E9%87%98%E7%89%8C",
     "timestamp": "2026-05-01T23:40:23.315Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特斯拉給馬斯克開出「天價」薪酬方案　2025年薪酬逾萬億元",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260502/1127073787557187584653817.jpeg/HqrcqPTW-jjZdO3bT5dOSN9i60DHBFiIbQmRqW0Jkak?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60345888/%E7%89%B9%E6%96%AF%E6%8B%89%E7%B5%A6%E9%A6%AC%E6%96%AF%E5%85%8B%E9%96%8B%E5%87%BA-%E5%A4%A9%E5%83%B9-%E8%96%AA%E9%85%AC%E6%96%B9%E6%A1%88-2025%E5%B9%B4%E8%96%AA%E9%85%AC%E9%80%BE%E8%90%AC%E5%84%84%E5%85%83",
-    "timestamp": "2026-05-01T23:13:02.288Z",
     "strategy": ".content-card__main"
   }
 ];
