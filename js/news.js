@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-02T22:52:39.989Z
+// Last updated: 2026-05-02T23:30:37.790Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "打女人影片瘋傳！男暴毆長髮女拳拳打頭　揭內情風向逆轉：不可辱",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260430/1126579743194353664157098.jpeg/VuMY52biMUL4W6WC50GpLpyts2FDJqBVi_cCqov3Aqo",
+    "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E8%A9%B1%E9%A1%8C/60345559/%E6%89%93%E5%A5%B3%E4%BA%BA%E5%BD%B1%E7%89%87%E7%98%8B%E5%82%B3-%E7%94%B7%E6%9A%B4%E6%AF%86%E9%95%B7%E9%AB%AE%E5%A5%B3%E6%8B%B3%E6%8B%B3%E6%89%93%E9%A0%AD-%E6%8F%AD%E5%85%A7%E6%83%85%E9%A2%A8%E5%90%91%E9%80%86%E8%BD%89-%E4%B8%8D%E5%8F%AF%E8%BE%B1",
+    "timestamp": "2026-05-02T23:30:37.790Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "特朗普政府推動價值逾80億美元武器出口　支援中東四國盟友",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260502/1127269327293124608541983.jpeg/iEuFidRX6WobvPFuj0GNY_pZTEcvsO7gnejurJ3o7qw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60345962/%E8%8D%89%E8%9C%A2x%E8%BB%9F%E7%A1%AC%E5%BE%A9%E5%88%BB2012%E5%B9%B4%E9%9B%86%E9%AB%94%E5%9B%9E%E6%86%B6%E9%AC%A5%E5%94%B1%E9%AC%A5%E5%98%B4-%E4%BA%94%E5%AD%90%E6%89%8B%E6%90%AD%E6%89%8B%E7%B5%90%E7%9B%9F%E5%A0%B4%E9%9D%A2%E6%84%9F%E4%BA%BA",
     "timestamp": "2026-05-02T11:36:45.895Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "薩頓日記揭南京大屠殺鐵證　90後收藏家10萬美金標下捐贈紀念館",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260502/1127300918308507648647390.png/L9iSiUepTJ1S5vkuJaX7XILYFJ_moD3rdNr-vXTa_r0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60345987/%E8%96%A9%E9%A0%93%E6%97%A5%E8%A8%98%E6%8F%AD%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%B1%A0%E6%AE%BA%E9%90%B5%E8%AD%89-90%E5%BE%8C%E6%94%B6%E8%97%8F%E5%AE%B610%E8%90%AC%E7%BE%8E%E9%87%91%E6%A8%99%E4%B8%8B%E6%8D%90%E8%B4%88%E7%B4%80%E5%BF%B5%E9%A4%A8",
-    "timestamp": "2026-05-02T11:09:42.633Z",
     "strategy": ".content-card__main"
   }
 ];
