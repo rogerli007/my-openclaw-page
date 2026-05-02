@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-02T03:21:18.049Z
+// Last updated: 2026-05-02T05:45:11.075Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "拍照別做V字手勢？專家指拍攝距離不足3米　可被人憑照片提取指紋",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260502/1127229247526539264914056.jpeg/AfpyI2EaQy-mhcda3dWc2P9a9oRzHq7U-6vXOPur1zg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60345935/%E6%8B%8D%E7%85%A7%E5%88%A5%E5%81%9Av%E5%AD%97%E6%89%8B%E5%8B%A2-%E5%B0%88%E5%AE%B6%E6%8C%87%E6%8B%8D%E6%94%9D%E8%B7%9D%E9%9B%A2%E4%B8%8D%E8%B6%B33%E7%B1%B3-%E5%8F%AF%E8%A2%AB%E4%BA%BA%E6%86%91%E7%85%A7%E7%89%87%E6%8F%90%E5%8F%96%E6%8C%87%E7%B4%8B",
+    "timestamp": "2026-05-02T05:45:11.075Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "林定國：香港法律制度需與時並進　正大規模檢討仲裁法例",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260501/1126972271827619840498201.jpeg/GjC5Qvu5fQIcch-yB022oFpEU7UpMFuSDdfIGw3XyBs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60345851/%E7%83%8F%E5%85%8B%E8%98%AD%E9%A7%90%E6%97%A5%E5%A4%A7%E4%BD%BF-%E6%97%A5%E6%9C%AC%E6%94%BE%E5%AF%AC%E6%AD%A6%E5%99%A8%E5%87%BA%E5%8F%A3%E9%99%90%E5%88%B6-%E6%88%96%E5%8F%AF%E8%AE%93%E7%83%8F%E7%8D%B2%E5%BE%97%E6%97%A5%E6%9C%AC%E6%AD%A6%E5%99%A8",
     "timestamp": "2026-05-01T12:01:07.316Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "陳嘉華｜國家需要真抓實幹的香港",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250929/1049433561394057216983641.jpeg/zFQduhOQ2uofR7ueyS3F03Dm36XFVXsaaOxkonLsZKI?v=w1920r16_9",
-    "url": "https://www.hk01.com/01%E8%AB%96%E5%A3%87/60344566/%E9%99%B3%E5%98%89%E8%8F%AF-%E5%9C%8B%E5%AE%B6%E9%9C%80%E8%A6%81%E7%9C%9F%E6%8A%93%E5%AF%A6%E5%B9%B9%E7%9A%84%E9%A6%99%E6%B8%AF",
-    "timestamp": "2026-05-01T11:34:33.550Z",
     "strategy": ".content-card__main"
   }
 ];
