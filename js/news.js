@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-02T18:54:10.150Z
+// Last updated: 2026-05-02T19:32:38.008Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "伊朗擬定管理霍爾木茲海峽法案　副議長：完全禁止以色列船隻通過",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260319/1111233379946205184425031.jpeg/w8RMEeBcg1gA7sbenfNOfL33OekkA2_85C4_n-QuP58?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60346072/%E4%BC%8A%E6%9C%97%E6%93%AC%E5%AE%9A%E7%AE%A1%E7%90%86%E9%9C%8D%E7%88%BE%E6%9C%A8%E8%8C%B2%E6%B5%B7%E5%B3%BD%E6%B3%95%E6%A1%88-%E5%89%AF%E8%AD%B0%E9%95%B7-%E5%AE%8C%E5%85%A8%E7%A6%81%E6%AD%A2%E4%BB%A5%E8%89%B2%E5%88%97%E8%88%B9%E9%9A%BB%E9%80%9A%E9%81%8E",
+    "timestamp": "2026-05-02T19:32:38.008Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "深圳行山｜大梅沙登馬巒山梅亭訪羅氏大屋　走翠微徑觀馬巒瀑布",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260422/1123655457165021184028917.png/NVN38iHLowBJvGA7bjSr9o0obOARDX9igLpQnPW6UJw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%A6%AA%E5%AD%90/60342748/%E5%85%92%E7%AB%A5%E6%97%A9%E9%A4%90-%E7%87%9F%E9%A4%8A%E5%B8%AB%E6%8E%A85%E7%A8%AE%E7%9C%81%E5%BF%83%E7%87%9F%E9%A4%8A%E6%97%A9%E9%A4%90%E9%85%8D%E6%90%AD-%E4%B8%8D%E7%94%A8%E9%96%8B%E7%81%AB%E4%B9%9F%E8%83%BD%E5%90%83%E5%BE%97%E5%81%A5%E5%BA%B7",
     "timestamp": "2026-05-02T02:06:23.885Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "Gemini香港付費版完整攻略　課金$32月費生成1500張Nano Banana！",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260502/1127168131421179904954071.jpeg/xB0wcWug_LWCYo0bwX14MOBFfGZ5aPAdd4Wx5neFseY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60345898/gemini%E9%A6%99%E6%B8%AF%E4%BB%98%E8%B2%BB%E7%89%88%E5%AE%8C%E6%95%B4%E6%94%BB%E7%95%A5-%E8%AA%B2%E9%87%91-32%E6%9C%88%E8%B2%BB%E7%94%9F%E6%88%901500%E5%BC%B5nano-banana",
-    "timestamp": "2026-05-02T01:11:24.166Z",
     "strategy": ".content-card__main"
   }
 ];
