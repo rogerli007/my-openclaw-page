@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-02T12:05:56.163Z
+// Last updated: 2026-05-02T12:39:20.839Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "一周星星丨吳彥祖年過半百靠三大保養Keep住靚樣　揭13歲女兒秘密",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260502/1127316005467459584840736.jpeg/EiNcjZ8fwkbt1YgvesmYh2E1lvoK8LPfRWeMMkVnjDI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60345979/%E4%B8%80%E5%91%A8%E6%98%9F%E6%98%9F-%E5%90%B3%E5%BD%A5%E7%A5%96%E5%B9%B4%E9%81%8E%E5%8D%8A%E7%99%BE%E9%9D%A0%E4%B8%89%E5%A4%A7%E4%BF%9D%E9%A4%8Akeep%E4%BD%8F%E9%9D%9A%E6%A8%A3-%E6%8F%AD13%E6%AD%B2%E5%A5%B3%E5%85%92%E7%A7%98%E5%AF%86",
+    "timestamp": "2026-05-02T12:39:20.839Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "走進廣東省立中山圖書館　體驗古籍修復活字印刷｜趣Share大灣區",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260429/1126140809515634688649815.jpeg/x2KW9VozKoJnhv_fwJFhVleUvYsRmMrageX8qYHl_Kk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60345883/%E7%89%B9%E6%9C%97%E6%99%AE-%E6%AD%90%E7%9B%9F%E6%B1%BD%E8%BB%8A%E8%88%87%E5%8D%A1%E8%BB%8A%E9%97%9C%E7%A8%85%E4%B8%8B%E5%91%A8%E8%B5%B7%E5%A2%9E%E8%87%B325",
     "timestamp": "2026-05-01T16:11:15.540Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "宏福苑上樓｜第12日共130戶511人上樓　錄7宗求警個案涉財物損失",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260501/1127026370946273280743268.jpeg/8zD1lGvHm3BkBf0PPPAn1sm7VMhSb5OLjPhs34z4bN8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60345880/%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%B8%8A%E6%A8%93-%E7%AC%AC12%E6%97%A5%E5%85%B1130%E6%88%B6511%E4%BA%BA%E4%B8%8A%E6%A8%93-%E9%8C%847%E5%AE%97%E6%B1%82%E8%AD%A6%E5%80%8B%E6%A1%88%E6%B6%89%E8%B2%A1%E7%89%A9%E6%90%8D%E5%A4%B1",
-    "timestamp": "2026-05-01T15:41:00.445Z",
     "strategy": ".content-card__main"
   }
 ];
