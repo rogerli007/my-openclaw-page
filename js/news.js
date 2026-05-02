@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-02T22:22:20.320Z
+// Last updated: 2026-05-02T22:52:39.989Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "特朗普政府推動價值逾80億美元武器出口　支援中東四國盟友",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260503/1127487831447441408360425.jpeg/gvHW42qlKiYosTvef6R6baK-aWx8B94S9FbXKfRW1yk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60346075/%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%E6%8E%A8%E5%8B%95%E5%83%B9%E5%80%BC%E9%80%BE80%E5%84%84%E7%BE%8E%E5%85%83%E6%AD%A6%E5%99%A8%E5%87%BA%E5%8F%A3-%E6%94%AF%E6%8F%B4%E4%B8%AD%E6%9D%B1%E5%9B%9B%E5%9C%8B%E7%9B%9F%E5%8F%8B",
+    "timestamp": "2026-05-02T22:52:39.989Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "特朗普政府推動價值逾80億美元武器出口　支援中東四國盟友",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260502/1127300918308507648647390.png/L9iSiUepTJ1S5vkuJaX7XILYFJ_moD3rdNr-vXTa_r0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60345987/%E8%96%A9%E9%A0%93%E6%97%A5%E8%A8%98%E6%8F%AD%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%B1%A0%E6%AE%BA%E9%90%B5%E8%AD%89-90%E5%BE%8C%E6%94%B6%E8%97%8F%E5%AE%B610%E8%90%AC%E7%BE%8E%E9%87%91%E6%A8%99%E4%B8%8B%E6%8D%90%E8%B4%88%E7%B4%80%E5%BF%B5%E9%A4%A8",
     "timestamp": "2026-05-02T11:09:42.633Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "奧斯卡頒新規禁AI演員與編劇入圍　演員可獲同獎項類別多次提名",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260307/1106995179912433664293064.jpeg/fOrbQHiOgpdKj8DC7pEtkRvreJ5q85JKS2LOE0tizhM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60345997/%E5%A5%A7%E6%96%AF%E5%8D%A1%E9%A0%92%E6%96%B0%E8%A6%8F%E7%A6%81ai%E6%BC%94%E5%93%A1%E8%88%87%E7%B7%A8%E5%8A%87%E5%85%A5%E5%9C%8D-%E6%BC%94%E5%93%A1%E5%8F%AF%E7%8D%B2%E5%90%8C%E7%8D%8E%E9%A0%85%E9%A1%9E%E5%88%A5%E5%A4%9A%E6%AC%A1%E6%8F%90%E5%90%8D",
-    "timestamp": "2026-05-02T10:38:27.469Z",
     "strategy": ".content-card__main"
   }
 ];
