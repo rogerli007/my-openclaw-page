@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-02T16:53:14.624Z
+// Last updated: 2026-05-02T17:27:15.937Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "五一｜遊人橋咀洲廈門灣及橋頭挖掘海岸生物　環團促納入保護區",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260503/1127409899811115008456270.jpeg/_sul1_JcWijtcFpLLLeqRcMV2MgFXVaQrWv_7K1r_-w?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60346066/%E4%BA%94%E4%B8%80-%E9%81%8A%E4%BA%BA%E6%A9%8B%E5%92%80%E6%B4%B2%E5%BB%88%E9%96%80%E7%81%A3%E5%8F%8A%E6%A9%8B%E9%A0%AD%E6%8C%96%E6%8E%98%E6%B5%B7%E5%B2%B8%E7%94%9F%E7%89%A9-%E7%92%B0%E5%9C%98%E4%BF%83%E7%B4%8D%E5%85%A5%E4%BF%9D%E8%AD%B7%E5%8D%80",
+    "timestamp": "2026-05-02T17:27:15.937Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "中國企業涉伊朗石油交易遭美國制裁　商務部發布禁令阻斷",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260502/1127073787557187584653817.jpeg/HqrcqPTW-jjZdO3bT5dOSN9i60DHBFiIbQmRqW0Jkak?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60345888/%E7%89%B9%E6%96%AF%E6%8B%89%E7%B5%A6%E9%A6%AC%E6%96%AF%E5%85%8B%E9%96%8B%E5%87%BA-%E5%A4%A9%E5%83%B9-%E8%96%AA%E9%85%AC%E6%96%B9%E6%A1%88-2025%E5%B9%B4%E8%96%AA%E9%85%AC%E9%80%BE%E8%90%AC%E5%84%84%E5%85%83",
     "timestamp": "2026-05-01T23:13:02.288Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "醉男蘭桂坊一帶取車駕駛保時捷　警灣仔截停　男司機涉醉駕被捕",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260502/1127109413669179392176490.jpeg/9BpJPbSwKS6bu2a4OS7KY1_tQXVs2uSPP1DAbQVQwG0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60345893/%E9%86%89%E7%94%B7%E8%98%AD%E6%A1%82%E5%9D%8A%E4%B8%80%E5%B8%B6%E5%8F%96%E8%BB%8A%E9%A7%95%E9%A7%9B%E4%BF%9D%E6%99%82%E6%8D%B7-%E8%AD%A6%E7%81%A3%E4%BB%94%E6%88%AA%E5%81%9C-%E7%94%B7%E5%8F%B8%E6%A9%9F%E6%B6%89%E9%86%89%E9%A7%95%E8%A2%AB%E6%8D%95",
-    "timestamp": "2026-05-01T21:40:19.862Z",
     "strategy": ".content-card__main"
   }
 ];
