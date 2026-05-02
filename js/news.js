@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-02T13:15:27.394Z
+// Last updated: 2026-05-02T13:53:42.221Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "東張西望｜劉洋指向遠處大嗌「水性楊花」　主持梁麗翹差啲接唔住",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260502/1127340298691678208735086.jpeg/3o7o9CZ6dKwfadtmhjMq_f34Zl3IMjEmkK0dSJCtHUg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60346029/%E6%9D%B1%E5%BC%B5%E8%A5%BF%E6%9C%9B-%E5%8A%89%E6%B4%8B%E6%8C%87%E5%90%91%E9%81%A0%E8%99%95%E5%A4%A7%E5%97%8C-%E6%B0%B4%E6%80%A7%E6%A5%8A%E8%8A%B1-%E4%B8%BB%E6%8C%81%E6%A2%81%E9%BA%97%E7%BF%B9%E5%B7%AE%E5%95%B2%E6%8E%A5%E5%94%94%E4%BD%8F",
+    "timestamp": "2026-05-02T13:53:42.221Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "完美男友年薪150萬台幣！見貴商品呼買不起　女友：嫌貴是你問題",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260502/1127035952569520128125870.jpeg/Dv5Ymrx5pk9nhF4baQ34mt4oi6r0E7v7OKtVGDirVRg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60345884/%E4%BA%94%E4%B8%80%E9%BB%83%E9%87%91%E5%91%A8-%E8%AD%A6%E6%A9%9F%E5%A0%B4%E5%92%8C%E8%BF%AA%E5%A3%AB%E5%B0%BC%E6%A8%82%E5%9C%92-%E6%94%BE%E8%9B%87-%E6%89%93%E6%93%8A%E9%BB%91%E7%9A%84-4%E5%8F%B8%E6%A9%9F%E8%A2%AB%E6%8D%95",
     "timestamp": "2026-05-01T17:41:13.296Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "五一黃金周｜警機場和迪士尼樂園「放蛇」打擊黑的　4司機被捕",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260502/1127035952569520128125870.jpeg/Dv5Ymrx5pk9nhF4baQ34mt4oi6r0E7v7OKtVGDirVRg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60345884/%E4%BA%94%E4%B8%80%E9%BB%83%E9%87%91%E5%91%A8-%E8%AD%A6%E6%A9%9F%E5%A0%B4%E5%92%8C%E8%BF%AA%E5%A3%AB%E5%B0%BC%E6%A8%82%E5%9C%92-%E6%94%BE%E8%9B%87-%E6%89%93%E6%93%8A%E9%BB%91%E7%9A%84-4%E5%8F%B8%E6%A9%9F%E8%A2%AB%E6%8D%95",
-    "timestamp": "2026-05-01T16:40:17.357Z",
     "strategy": ".content-card__main"
   }
 ];
