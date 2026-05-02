@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-02T15:53:23.964Z
+// Last updated: 2026-05-02T16:27:46.031Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "大濛影評｜悲情城市裡見證人性真善美　柯煒林演繹大放異彩｜何故",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260503/1127398072834330624917240.jpeg/TazKp1vc9e9w0LC68crv1XEI4GnnH01ezyfOPc8nzj0",
+    "url": "https://www.hk01.com/%E8%97%9D%E6%96%87/60346062/%E5%A4%A7%E6%BF%9B%E5%BD%B1%E8%A9%95-%E6%82%B2%E6%83%85%E5%9F%8E%E5%B8%82%E8%A3%A1%E8%A6%8B%E8%AD%89%E4%BA%BA%E6%80%A7%E7%9C%9F%E5%96%84%E7%BE%8E-%E6%9F%AF%E7%85%92%E6%9E%97%E6%BC%94%E7%B9%B9%E5%A4%A7%E6%94%BE%E7%95%B0%E5%BD%A9-%E4%BD%95%E6%95%85",
+    "timestamp": "2026-05-02T16:27:46.031Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "英冠煞科｜葉士域治重返英超　域斯咸失附加賽資格無緣四連升",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260502/1127109413669179392176490.jpeg/9BpJPbSwKS6bu2a4OS7KY1_tQXVs2uSPP1DAbQVQwG0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60345893/%E9%86%89%E7%94%B7%E8%98%AD%E6%A1%82%E5%9D%8A%E4%B8%80%E5%B8%B6%E5%8F%96%E8%BB%8A%E9%A7%95%E9%A7%9B%E4%BF%9D%E6%99%82%E6%8D%B7-%E8%AD%A6%E7%81%A3%E4%BB%94%E6%88%AA%E5%81%9C-%E7%94%B7%E5%8F%B8%E6%A9%9F%E6%B6%89%E9%86%89%E9%A7%95%E8%A2%AB%E6%8D%95",
     "timestamp": "2026-05-01T21:11:21.350Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "長沙灣卡舖遭扑爆玻璃　沒有遺失財物　警追緝歹徒",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260502/1127079723076161536895231.jpeg/S5vUCxuSMJpwOAE8pZGVc4BIHd7VEoUSoK5pAZquaQE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60345889/%E9%95%B7%E6%B2%99%E7%81%A3%E5%8D%A1%E8%88%96%E9%81%AD%E6%89%91%E7%88%86%E7%8E%BB%E7%92%83-%E6%B2%92%E6%9C%89%E9%81%BA%E5%A4%B1%E8%B2%A1%E7%89%A9-%E8%AD%A6%E8%BF%BD%E7%B7%9D%E6%AD%B9%E5%BE%92",
-    "timestamp": "2026-05-01T19:50:15.760Z",
     "strategy": ".content-card__main"
   }
 ];
