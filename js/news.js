@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-02T05:45:11.075Z
+// Last updated: 2026-05-02T06:30:30.882Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "ChatGPT Images 2.0有幾勁？網民生成《黑神話：潘金蓮》難分真假",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260502/1127174249816002560786913.jpeg/LhvRcSqvYREsblU3yhW7YtD4JdHOh9PPS3P7tEtz-7Q?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60345472/chatgpt-images-2-0%E6%9C%89%E5%B9%BE%E5%8B%81-%E7%B6%B2%E6%B0%91%E7%94%9F%E6%88%90-%E9%BB%91%E7%A5%9E%E8%A9%B1-%E6%BD%98%E9%87%91%E8%93%AE-%E9%9B%A3%E5%88%86%E7%9C%9F%E5%81%87",
+    "timestamp": "2026-05-02T06:30:30.882Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "拍照別做V字手勢？專家指拍攝距離不足3米　可被人憑照片提取指紋",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260501/1126942763384836096527836.png/d6AnvDa9Vd4z4tTNXoqWVol1mWRRIN0eU9X4HlPV-B4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60345822/fifa%E6%9C%83%E9%95%B7%E9%82%80%E4%BB%A5%E5%B7%B4%E8%B6%B3%E5%8D%94%E4%BB%A3%E8%A1%A8%E6%8F%A1%E6%89%8B-%E5%B7%B4%E6%96%B9%E6%8B%92%E7%B5%95-%E7%95%B6%E5%A0%B4%E9%AB%98%E5%96%8A-%E6%88%91%E5%80%91%E6%AD%A3%E5%8F%97%E8%8B%A6",
     "timestamp": "2026-05-01T13:16:26.266Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "烏克蘭駐日大使：日本放寬武器出口限制　或可讓烏獲得日本武器",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260501/1126972271827619840498201.jpeg/GjC5Qvu5fQIcch-yB022oFpEU7UpMFuSDdfIGw3XyBs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60345851/%E7%83%8F%E5%85%8B%E8%98%AD%E9%A7%90%E6%97%A5%E5%A4%A7%E4%BD%BF-%E6%97%A5%E6%9C%AC%E6%94%BE%E5%AF%AC%E6%AD%A6%E5%99%A8%E5%87%BA%E5%8F%A3%E9%99%90%E5%88%B6-%E6%88%96%E5%8F%AF%E8%AE%93%E7%83%8F%E7%8D%B2%E5%BE%97%E6%97%A5%E6%9C%AC%E6%AD%A6%E5%99%A8",
-    "timestamp": "2026-05-01T12:01:07.316Z",
     "strategy": ".content-card__main"
   }
 ];
