@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-02T01:11:24.166Z
+// Last updated: 2026-05-02T02:06:23.885Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "兒童早餐｜營養師推5種省心營養早餐配搭　不用開火也能吃得健康",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260422/1123655457165021184028917.png/NVN38iHLowBJvGA7bjSr9o0obOARDX9igLpQnPW6UJw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%A6%AA%E5%AD%90/60342748/%E5%85%92%E7%AB%A5%E6%97%A9%E9%A4%90-%E7%87%9F%E9%A4%8A%E5%B8%AB%E6%8E%A85%E7%A8%AE%E7%9C%81%E5%BF%83%E7%87%9F%E9%A4%8A%E6%97%A9%E9%A4%90%E9%85%8D%E6%90%AD-%E4%B8%8D%E7%94%A8%E9%96%8B%E7%81%AB%E4%B9%9F%E8%83%BD%E5%90%83%E5%BE%97%E5%81%A5%E5%BA%B7",
+    "timestamp": "2026-05-02T02:06:23.885Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "Gemini香港付費版完整攻略　課金$32月費生成1500張Nano Banana！",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260430/1126586226057416704165792.jpeg/UtiujYtfjQFyj4YmVAhaghQjJkt4QzOCysTMPcrEzD0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60345603/%E9%B4%A8%E7%8E%8B-%E4%BD%95%E6%B5%A9%E6%96%87%E8%87%AA%E8%B3%87%E5%9C%93%E9%9F%B3%E6%A8%82%E5%A4%A2-%E8%A1%97%E9%A0%AD%E6%B4%BE%E5%82%B3%E5%96%AE%E6%85%98%E8%A2%AB%E7%84%A1%E8%A6%96%E7%9B%B4%E8%A8%80%E5%B0%8F%E8%BE%9B%E8%8B%A6",
     "timestamp": "2026-05-01T10:54:03.927Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "八旬翁fb誤信假投資專家　交保證金、買股票後大跌　失逾$1000萬",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260501/1126934167884402688843179.jpeg/smM0oeJ5SspYA2dBU3mW4gQHODZOJfZGqK4SqqiuEqo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60345819/%E5%85%AB%E6%97%AC%E7%BF%81fb%E8%AA%A4%E4%BF%A1%E5%81%87%E6%8A%95%E8%B3%87%E5%B0%88%E5%AE%B6-%E4%BA%A4%E4%BF%9D%E8%AD%89%E9%87%91-%E8%B2%B7%E8%82%A1%E7%A5%A8%E5%BE%8C%E5%A4%A7%E8%B7%8C-%E5%A4%B1%E9%80%BE-1000%E8%90%AC",
-    "timestamp": "2026-05-01T09:45:51.674Z",
     "strategy": ".content-card__main"
   }
 ];
