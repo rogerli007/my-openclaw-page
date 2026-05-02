@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-02T21:52:53.818Z
+// Last updated: 2026-05-02T22:22:20.320Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "特朗普政府推動價值逾80億美元武器出口　支援中東四國盟友",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260503/1127487831447441408360425.jpeg/gvHW42qlKiYosTvef6R6baK-aWx8B94S9FbXKfRW1yk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60346075/%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%E6%8E%A8%E5%8B%95%E5%83%B9%E5%80%BC%E9%80%BE80%E5%84%84%E7%BE%8E%E5%85%83%E6%AD%A6%E5%99%A8%E5%87%BA%E5%8F%A3-%E6%94%AF%E6%8F%B4%E4%B8%AD%E6%9D%B1%E5%9B%9B%E5%9C%8B%E7%9B%9F%E5%8F%8B",
+    "timestamp": "2026-05-02T22:22:20.320Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "伊媒曝光伊朗與美國談判新方案　列14項提議要求美方30日內解決",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260307/1106995179912433664293064.jpeg/fOrbQHiOgpdKj8DC7pEtkRvreJ5q85JKS2LOE0tizhM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60345997/%E5%A5%A7%E6%96%AF%E5%8D%A1%E9%A0%92%E6%96%B0%E8%A6%8F%E7%A6%81ai%E6%BC%94%E5%93%A1%E8%88%87%E7%B7%A8%E5%8A%87%E5%85%A5%E5%9C%8D-%E6%BC%94%E5%93%A1%E5%8F%AF%E7%8D%B2%E5%90%8C%E7%8D%8E%E9%A0%85%E9%A1%9E%E5%88%A5%E5%A4%9A%E6%AC%A1%E6%8F%90%E5%90%8D",
     "timestamp": "2026-05-02T10:38:27.469Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "ChatGPT Images 2.0有幾勁？網民生成《黑神話：潘金蓮》難分真假",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260502/1127174249816002560786913.jpeg/LhvRcSqvYREsblU3yhW7YtD4JdHOh9PPS3P7tEtz-7Q?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60345472/chatgpt-images-2-0%E6%9C%89%E5%B9%BE%E5%8B%81-%E7%B6%B2%E6%B0%91%E7%94%9F%E6%88%90-%E9%BB%91%E7%A5%9E%E8%A9%B1-%E6%BD%98%E9%87%91%E8%93%AE-%E9%9B%A3%E5%88%86%E7%9C%9F%E5%81%87",
-    "timestamp": "2026-05-02T06:30:30.882Z",
     "strategy": ".content-card__main"
   }
 ];
