@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-02T06:30:30.882Z
+// Last updated: 2026-05-02T10:38:27.469Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "奧斯卡頒新規禁AI演員與編劇入圍　演員可獲同獎項類別多次提名",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260307/1106995179912433664293064.jpeg/fOrbQHiOgpdKj8DC7pEtkRvreJ5q85JKS2LOE0tizhM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60345997/%E5%A5%A7%E6%96%AF%E5%8D%A1%E9%A0%92%E6%96%B0%E8%A6%8F%E7%A6%81ai%E6%BC%94%E5%93%A1%E8%88%87%E7%B7%A8%E5%8A%87%E5%85%A5%E5%9C%8D-%E6%BC%94%E5%93%A1%E5%8F%AF%E7%8D%B2%E5%90%8C%E7%8D%8E%E9%A0%85%E9%A1%9E%E5%88%A5%E5%A4%9A%E6%AC%A1%E6%8F%90%E5%90%8D",
+    "timestamp": "2026-05-02T10:38:27.469Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "ChatGPT Images 2.0有幾勁？網民生成《黑神話：潘金蓮》難分真假",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260501/1126999752311836672761950.jpeg/5JrXPLCgK4GLqEKr4xzOXJiJljgJfDXyVYiorlWIqK4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60345866/%E4%BA%94%E4%B8%80%E5%81%87%E6%9C%9F%E9%A6%96%E6%97%A5%E6%88%90%E9%83%BD%E5%A5%AA%E5%91%BD%E8%BB%8A%E7%A6%8D-%E7%94%B7%E5%AD%90%E9%A7%95%E9%A7%9B%E8%BD%8E%E8%BB%8A%E6%92%9E%E4%BA%BA%E5%BE%8C%E9%80%83%E9%80%B8%E9%87%801%E6%AD%BB11%E5%82%B7",
     "timestamp": "2026-05-01T13:57:18.387Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "FIFA會長邀以巴足協代表握手　巴方拒絕　當場高喊「我們正受苦」",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260501/1126942763384836096527836.png/d6AnvDa9Vd4z4tTNXoqWVol1mWRRIN0eU9X4HlPV-B4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60345822/fifa%E6%9C%83%E9%95%B7%E9%82%80%E4%BB%A5%E5%B7%B4%E8%B6%B3%E5%8D%94%E4%BB%A3%E8%A1%A8%E6%8F%A1%E6%89%8B-%E5%B7%B4%E6%96%B9%E6%8B%92%E7%B5%95-%E7%95%B6%E5%A0%B4%E9%AB%98%E5%96%8A-%E6%88%91%E5%80%91%E6%AD%A3%E5%8F%97%E8%8B%A6",
-    "timestamp": "2026-05-01T13:16:26.266Z",
     "strategy": ".content-card__main"
   }
 ];
