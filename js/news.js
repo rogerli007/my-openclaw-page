@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-02T12:39:20.839Z
+// Last updated: 2026-05-02T13:15:27.394Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "完美男友年薪150萬台幣！見貴商品呼買不起　女友：嫌貴是你問題",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260429/1126007550601334784593067.png/-Xj7I4CLfDRGCubbFo_Tzc00WBgeUzp6kz5YGJM-WBg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60344824/%E5%AE%8C%E7%BE%8E%E7%94%B7%E5%8F%8B%E5%B9%B4%E8%96%AA150%E8%90%AC%E5%8F%B0%E5%B9%A3-%E8%A6%8B%E8%B2%B4%E5%95%86%E5%93%81%E5%91%BC%E8%B2%B7%E4%B8%8D%E8%B5%B7-%E5%A5%B3%E5%8F%8B-%E5%AB%8C%E8%B2%B4%E6%98%AF%E4%BD%A0%E5%95%8F%E9%A1%8C",
+    "timestamp": "2026-05-02T13:15:27.394Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "一周星星丨吳彥祖年過半百靠三大保養Keep住靚樣　揭13歲女兒秘密",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260502/1127035952569520128125870.jpeg/Dv5Ymrx5pk9nhF4baQ34mt4oi6r0E7v7OKtVGDirVRg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60345884/%E4%BA%94%E4%B8%80%E9%BB%83%E9%87%91%E5%91%A8-%E8%AD%A6%E6%A9%9F%E5%A0%B4%E5%92%8C%E8%BF%AA%E5%A3%AB%E5%B0%BC%E6%A8%82%E5%9C%92-%E6%94%BE%E8%9B%87-%E6%89%93%E6%93%8A%E9%BB%91%E7%9A%84-4%E5%8F%B8%E6%A9%9F%E8%A2%AB%E6%8D%95",
     "timestamp": "2026-05-01T16:40:17.357Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普：歐盟汽車與卡車關稅下周起增至25%",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260429/1126140809515634688649815.jpeg/x2KW9VozKoJnhv_fwJFhVleUvYsRmMrageX8qYHl_Kk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60345883/%E7%89%B9%E6%9C%97%E6%99%AE-%E6%AD%90%E7%9B%9F%E6%B1%BD%E8%BB%8A%E8%88%87%E5%8D%A1%E8%BB%8A%E9%97%9C%E7%A8%85%E4%B8%8B%E5%91%A8%E8%B5%B7%E5%A2%9E%E8%87%B325",
-    "timestamp": "2026-05-01T16:11:15.540Z",
     "strategy": ".content-card__main"
   }
 ];
