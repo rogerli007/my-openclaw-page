@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-02T21:29:07.812Z
+// Last updated: 2026-05-02T21:52:53.818Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "伊媒曝光伊朗與美國談判新方案　列14項提議要求美方30日內解決",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260503/1127482032436285440907831.jpeg/X7of3iOUNWZ35AdMjhvwboLqvAmlOGnTOqN6RjqjekY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60346074/%E4%BC%8A%E5%AA%92%E6%9B%9D%E5%85%89%E4%BC%8A%E6%9C%97%E8%88%87%E7%BE%8E%E5%9C%8B%E8%AB%87%E5%88%A4%E6%96%B0%E6%96%B9%E6%A1%88-%E5%88%9714%E9%A0%85%E6%8F%90%E8%AD%B0%E8%A6%81%E6%B1%82%E7%BE%8E%E6%96%B930%E6%97%A5%E5%85%A7%E8%A7%A3%E6%B1%BA",
+    "timestamp": "2026-05-02T21:52:53.818Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "上水建築工人坐後巷吸煙！港男憂火警稱報勞工處　網民反體諒工人",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260502/1127174249816002560786913.jpeg/LhvRcSqvYREsblU3yhW7YtD4JdHOh9PPS3P7tEtz-7Q?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60345472/chatgpt-images-2-0%E6%9C%89%E5%B9%BE%E5%8B%81-%E7%B6%B2%E6%B0%91%E7%94%9F%E6%88%90-%E9%BB%91%E7%A5%9E%E8%A9%B1-%E6%BD%98%E9%87%91%E8%93%AE-%E9%9B%A3%E5%88%86%E7%9C%9F%E5%81%87",
     "timestamp": "2026-05-02T06:30:30.882Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "拍照別做V字手勢？專家指拍攝距離不足3米　可被人憑照片提取指紋",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260502/1127229247526539264914056.jpeg/AfpyI2EaQy-mhcda3dWc2P9a9oRzHq7U-6vXOPur1zg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60345935/%E6%8B%8D%E7%85%A7%E5%88%A5%E5%81%9Av%E5%AD%97%E6%89%8B%E5%8B%A2-%E5%B0%88%E5%AE%B6%E6%8C%87%E6%8B%8D%E6%94%9D%E8%B7%9D%E9%9B%A2%E4%B8%8D%E8%B6%B33%E7%B1%B3-%E5%8F%AF%E8%A2%AB%E4%BA%BA%E6%86%91%E7%85%A7%E7%89%87%E6%8F%90%E5%8F%96%E6%8C%87%E7%B4%8B",
-    "timestamp": "2026-05-02T05:45:11.075Z",
     "strategy": ".content-card__main"
   }
 ];
