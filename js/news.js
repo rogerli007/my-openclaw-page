@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-02T13:53:42.221Z
+// Last updated: 2026-05-02T14:29:21.026Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "草蜢演唱會2026｜張玉珊孖富豪未婚夫入場睇騷　呂良偉楊小娟同行",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260502/1127337198111166464927061.jpeg/xmXbca8CEOJtQzQnMYuOsL3f53p2CQSfjtniuY7Z4rk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60346026/%E8%8D%89%E8%9C%A2%E6%BC%94%E5%94%B1%E6%9C%832026-%E5%BC%B5%E7%8E%89%E7%8F%8A%E5%AD%96%E5%AF%8C%E8%B1%AA%E6%9C%AA%E5%A9%9A%E5%A4%AB%E5%85%A5%E5%A0%B4%E7%9D%87%E9%A8%B7-%E5%91%82%E8%89%AF%E5%81%89%E6%A5%8A%E5%B0%8F%E5%A8%9F%E5%90%8C%E8%A1%8C",
+    "timestamp": "2026-05-02T14:29:21.026Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "東張西望｜劉洋指向遠處大嗌「水性楊花」　主持梁麗翹差啲接唔住",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260502/1127035952569520128125870.jpeg/Dv5Ymrx5pk9nhF4baQ34mt4oi6r0E7v7OKtVGDirVRg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60345884/%E4%BA%94%E4%B8%80%E9%BB%83%E9%87%91%E5%91%A8-%E8%AD%A6%E6%A9%9F%E5%A0%B4%E5%92%8C%E8%BF%AA%E5%A3%AB%E5%B0%BC%E6%A8%82%E5%9C%92-%E6%94%BE%E8%9B%87-%E6%89%93%E6%93%8A%E9%BB%91%E7%9A%84-4%E5%8F%B8%E6%A9%9F%E8%A2%AB%E6%8D%95",
     "timestamp": "2026-05-01T18:11:31.305Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "五一黃金周｜警機場和迪士尼樂園「放蛇」打擊黑的　4司機被捕",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260502/1127035952569520128125870.jpeg/Dv5Ymrx5pk9nhF4baQ34mt4oi6r0E7v7OKtVGDirVRg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60345884/%E4%BA%94%E4%B8%80%E9%BB%83%E9%87%91%E5%91%A8-%E8%AD%A6%E6%A9%9F%E5%A0%B4%E5%92%8C%E8%BF%AA%E5%A3%AB%E5%B0%BC%E6%A8%82%E5%9C%92-%E6%94%BE%E8%9B%87-%E6%89%93%E6%93%8A%E9%BB%91%E7%9A%84-4%E5%8F%B8%E6%A9%9F%E8%A2%AB%E6%8D%95",
-    "timestamp": "2026-05-01T17:41:13.296Z",
     "strategy": ".content-card__main"
   }
 ];
