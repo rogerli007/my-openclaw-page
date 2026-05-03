@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-03T01:46:49.211Z
+// Last updated: 2026-05-03T02:49:12.607Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "特朗普喊停　美伊僵局復盤　下一步會怎麼走？",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260501/1126894442737831936639570.jpeg/hq0wWgRguZPSXL5zH-p5bvCXtD3MzrnKM0nUKjNJ1Co?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%9C%8B%E9%9A%9B%E5%88%86%E6%9E%90/60346109/%E7%89%B9%E6%9C%97%E6%99%AE%E5%96%8A%E5%81%9C-%E7%BE%8E%E4%BC%8A%E5%83%B5%E5%B1%80%E5%BE%A9%E7%9B%A4-%E4%B8%8B%E4%B8%80%E6%AD%A5%E6%9C%83%E6%80%8E%E9%BA%BC%E8%B5%B0",
+    "timestamp": "2026-05-03T02:49:12.607Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "醫善同行｜「蟬病毒」恐慌背後：家長別被網上誇張說辭嚇倒",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260429/1126007550601334784593067.png/-Xj7I4CLfDRGCubbFo_Tzc00WBgeUzp6kz5YGJM-WBg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60344824/%E5%AE%8C%E7%BE%8E%E7%94%B7%E5%8F%8B%E5%B9%B4%E8%96%AA150%E8%90%AC%E5%8F%B0%E5%B9%A3-%E8%A6%8B%E8%B2%B4%E5%95%86%E5%93%81%E5%91%BC%E8%B2%B7%E4%B8%8D%E8%B5%B7-%E5%A5%B3%E5%8F%8B-%E5%AB%8C%E8%B2%B4%E6%98%AF%E4%BD%A0%E5%95%8F%E9%A1%8C",
     "timestamp": "2026-05-02T13:15:27.394Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "一周星星丨吳彥祖年過半百靠三大保養Keep住靚樣　揭13歲女兒秘密",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260502/1127316005467459584840736.jpeg/EiNcjZ8fwkbt1YgvesmYh2E1lvoK8LPfRWeMMkVnjDI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60345979/%E4%B8%80%E5%91%A8%E6%98%9F%E6%98%9F-%E5%90%B3%E5%BD%A5%E7%A5%96%E5%B9%B4%E9%81%8E%E5%8D%8A%E7%99%BE%E9%9D%A0%E4%B8%89%E5%A4%A7%E4%BF%9D%E9%A4%8Akeep%E4%BD%8F%E9%9D%9A%E6%A8%A3-%E6%8F%AD13%E6%AD%B2%E5%A5%B3%E5%85%92%E7%A7%98%E5%AF%86",
-    "timestamp": "2026-05-02T12:39:20.839Z",
     "strategy": ".content-card__main"
   }
 ];
