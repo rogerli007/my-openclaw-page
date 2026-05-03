@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-03T23:25:50.527Z
+// Last updated: 2026-05-03T23:53:12.768Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "特朗普：美國4日起展開行動　助滯留霍爾木茲海峽船舶駛離",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260420/1122862339033403392216830.jpeg/98glKEvJ8iFmRQ9U1u9I58Y8YriMhZlAgn4zCIJ-Mwg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60346286/%E7%89%B9%E6%9C%97%E6%99%AE-%E7%BE%8E%E5%9C%8B4%E6%97%A5%E8%B5%B7%E5%B1%95%E9%96%8B%E8%A1%8C%E5%8B%95-%E5%8A%A9%E6%BB%AF%E7%95%99%E9%9C%8D%E7%88%BE%E6%9C%A8%E8%8C%B2%E6%B5%B7%E5%B3%BD%E8%88%B9%E8%88%B6%E9%A7%9B%E9%9B%A2",
+    "timestamp": "2026-05-03T23:53:12.768Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "月子中心抱錯嬰！護士稱無錯　人夫憑直覺求查驗DNA　尋回真兒子",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260503/1127660803214807040704518.jpeg/07PliExhKYoWgtLMbAD1A8aKfz8H-OWQjnhPn454T58?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60346185/%E7%9C%9F%E4%B8%BB%E9%BB%A8%E9%A0%98%E8%A2%96%E9%81%AD%E5%BD%B1%E5%B0%84%E7%82%BA-%E6%86%A4%E6%80%92%E9%B3%A5-%E7%B5%84%E7%B9%94%E6%89%B9%E9%BB%8E%E5%B7%B4%E5%AB%A9%E9%9B%BB%E8%A6%96%E5%8F%B0%E4%BE%AE%E8%BE%B1-%E6%9C%89%E7%89%87",
     "timestamp": "2026-05-03T10:40:10.509Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "日本夫妻住重慶大廈！聞爛洋蔥味極頭痛　急求醫證實一氧化碳中毒",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260503/1127649109390397440579046.png/Y1FxJw_NIJ6KiNnBTQttybg9wmHQHATXlAFb0JQBW9A?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60345857/%E6%97%A5%E6%9C%AC%E5%A4%AB%E5%A6%BB%E4%BD%8F%E9%87%8D%E6%85%B6%E5%A4%A7%E5%BB%88-%E8%81%9E%E7%88%9B%E6%B4%8B%E8%94%A5%E5%91%B3%E6%A5%B5%E9%A0%AD%E7%97%9B-%E6%80%A5%E6%B1%82%E9%86%AB%E8%AD%89%E5%AF%A6%E4%B8%80%E6%B0%A7%E5%8C%96%E7%A2%B3%E4%B8%AD%E6%AF%92",
-    "timestamp": "2026-05-03T10:14:48.620Z",
     "strategy": ".content-card__main"
   }
 ];
