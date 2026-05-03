@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-03T08:18:28.987Z
+// Last updated: 2026-05-03T09:00:28.987Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "大澳鹽田橋及寶珠潭橋明起開放使用　為全港首條伸縮式開合行人橋",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260503/1127646725025042432817092.jpeg/FEoKhKmgR2P1YjTfSWrC6_9JkNHQt4jqsrB70rKwe9I?v=w1920r16_9",
+    "url": "https://www.hk01.com/18%E5%8D%80%E6%96%B0%E8%81%9E/60346180/%E5%A4%A7%E6%BE%B3%E9%B9%BD%E7%94%B0%E6%A9%8B%E5%8F%8A%E5%AF%B6%E7%8F%A0%E6%BD%AD%E6%A9%8B%E6%98%8E%E8%B5%B7%E9%96%8B%E6%94%BE%E4%BD%BF%E7%94%A8-%E7%82%BA%E5%85%A8%E6%B8%AF%E9%A6%96%E6%A2%9D%E4%BC%B8%E7%B8%AE%E5%BC%8F%E9%96%8B%E5%90%88%E8%A1%8C%E4%BA%BA%E6%A9%8B",
+    "timestamp": "2026-05-03T09:00:28.987Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "雪櫃慳電丨冰箱塞滿食物更耗電　專家揭4大省電秘訣放幾分滿最好?",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260502/1127376422910824448604571.jpeg/ACyQHtzG5WmiBNkjHpAw6j5bByscRsRtHbA5Cx2wOQs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60346052/%E8%8B%B1%E5%86%A0%E7%85%9E%E7%A7%91-%E8%91%89%E5%A3%AB%E5%9F%9F%E6%B2%BB%E9%87%8D%E8%BF%94%E8%8B%B1%E8%B6%85-%E5%9F%9F%E6%96%AF%E5%92%B8%E5%A4%B1%E9%99%84%E5%8A%A0%E8%B3%BD%E8%B3%87%E6%A0%BC%E7%84%A1%E7%B7%A3%E5%9B%9B%E9%80%A3%E5%8D%87",
     "timestamp": "2026-05-02T15:53:23.964Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "海關機場檢$230萬大麻花和9支私煙　2男旅客被捕　案件周一提堂",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260502/1127386534043979776201469.jpeg/QPMn403VZfQyL5-civL2XNLLj4lE1v4MzzaexM82nsQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60346056/%E6%B5%B7%E9%97%9C%E6%A9%9F%E5%A0%B4%E6%AA%A2-230%E8%90%AC%E5%A4%A7%E9%BA%BB%E8%8A%B1%E5%92%8C9%E6%94%AF%E7%A7%81%E7%85%99-2%E7%94%B7%E6%97%85%E5%AE%A2%E8%A2%AB%E6%8D%95-%E6%A1%88%E4%BB%B6%E5%91%A8%E4%B8%80%E6%8F%90%E5%A0%82",
-    "timestamp": "2026-05-02T15:25:15.964Z",
     "strategy": ".content-card__main"
   }
 ];
