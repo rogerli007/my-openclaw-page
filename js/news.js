@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-02T23:53:34.998Z
+// Last updated: 2026-05-03T01:46:49.211Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "醫善同行｜「蟬病毒」恐慌背後：家長別被網上誇張說辭嚇倒",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260503/1127543466016903168630872.jpeg/rd6BPkakfFXOi1O56rCURbn0sqZaNmyFNqjRczao0XM?v=w1920r16_9",
+    "url": "https://www.hk01.com/01%E8%AB%96%E5%A3%87/60346095/%E9%86%AB%E5%96%84%E5%90%8C%E8%A1%8C-%E8%9F%AC%E7%97%85%E6%AF%92-%E6%81%90%E6%85%8C%E8%83%8C%E5%BE%8C-%E5%AE%B6%E9%95%B7%E5%88%A5%E8%A2%AB%E7%B6%B2%E4%B8%8A%E8%AA%87%E5%BC%B5%E8%AA%AA%E8%BE%AD%E5%9A%87%E5%80%92",
+    "timestamp": "2026-05-03T01:46:49.211Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "伊朗局勢｜美國多家石油巨頭CEO齊警告︰能源市場正逼近懸崖邊緣",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260502/1127316005467459584840736.jpeg/EiNcjZ8fwkbt1YgvesmYh2E1lvoK8LPfRWeMMkVnjDI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60345979/%E4%B8%80%E5%91%A8%E6%98%9F%E6%98%9F-%E5%90%B3%E5%BD%A5%E7%A5%96%E5%B9%B4%E9%81%8E%E5%8D%8A%E7%99%BE%E9%9D%A0%E4%B8%89%E5%A4%A7%E4%BF%9D%E9%A4%8Akeep%E4%BD%8F%E9%9D%9A%E6%A8%A3-%E6%8F%AD13%E6%AD%B2%E5%A5%B3%E5%85%92%E7%A7%98%E5%AF%86",
     "timestamp": "2026-05-02T12:39:20.839Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "走進廣東省立中山圖書館　體驗古籍修復活字印刷｜趣Share大灣區",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260502/1127309776033026048925460.jpeg/ZZN4v5irl8MYENUGegvRtr-Kms99X7enYX1kt1t9ZLc?v=w1920",
-    "url": "https://www.hk01.com/%E5%8C%97%E4%B8%8A%E5%BB%A3%E6%9D%B1/60346006/%E8%B5%B0%E9%80%B2%E5%BB%A3%E6%9D%B1%E7%9C%81%E7%AB%8B%E4%B8%AD%E5%B1%B1%E5%9C%96%E6%9B%B8%E9%A4%A8-%E9%AB%94%E9%A9%97%E5%8F%A4%E7%B1%8D%E4%BF%AE%E5%BE%A9%E6%B4%BB%E5%AD%97%E5%8D%B0%E5%88%B7-%E8%B6%A3share%E5%A4%A7%E7%81%A3%E5%8D%80",
-    "timestamp": "2026-05-02T12:05:56.163Z",
     "strategy": ".content-card__main"
   }
 ];
