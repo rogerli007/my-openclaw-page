@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-03T10:40:10.509Z
+// Last updated: 2026-05-03T11:10:27.759Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "深圳樓市鬆限購　業者：香港靠高租售比搶客　杭州AI大佬湧入買樓",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250206/964261391655505920809326.jpeg/twwah-KfKvX-SeJ9s2WTgPH-dxT2_WBNSuOvN0rjrzc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60346183/%E6%B7%B1%E5%9C%B3%E6%A8%93%E5%B8%82%E9%AC%86%E9%99%90%E8%B3%BC-%E6%A5%AD%E8%80%85-%E9%A6%99%E6%B8%AF%E9%9D%A0%E9%AB%98%E7%A7%9F%E5%94%AE%E6%AF%94%E6%90%B6%E5%AE%A2-%E6%9D%AD%E5%B7%9Eai%E5%A4%A7%E4%BD%AC%E6%B9%A7%E5%85%A5%E8%B2%B7%E6%A8%93",
+    "timestamp": "2026-05-03T11:10:27.759Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "真主黨領袖遭影射為「憤怒鳥」　組織批黎巴嫩電視台侮辱｜有片",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260502/1127324887287861248842975.jpeg/MoXBH8m-bt2rFvl5fFMksNp1drYeAkgATeUt-k3lLfo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60339572/%E6%B7%B1%E5%9C%B3%E8%A1%8C%E5%B1%B1-%E5%A4%A7%E6%A2%85%E6%B2%99%E7%99%BB%E9%A6%AC%E5%B7%92%E5%B1%B1%E6%A2%85%E4%BA%AD%E8%A8%AA%E7%BE%85%E6%B0%8F%E5%A4%A7%E5%B1%8B-%E8%B5%B0%E7%BF%A0%E5%BE%AE%E5%BE%91%E8%A7%80%E9%A6%AC%E5%B7%92%E7%80%91%E5%B8%83",
     "timestamp": "2026-05-02T18:31:55.316Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "五一｜遊人橋咀洲廈門灣及橋頭挖掘海岸生物　環團促納入保護區",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260503/1127409899811115008456270.jpeg/_sul1_JcWijtcFpLLLeqRcMV2MgFXVaQrWv_7K1r_-w?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60346066/%E4%BA%94%E4%B8%80-%E9%81%8A%E4%BA%BA%E6%A9%8B%E5%92%80%E6%B4%B2%E5%BB%88%E9%96%80%E7%81%A3%E5%8F%8A%E6%A9%8B%E9%A0%AD%E6%8C%96%E6%8E%98%E6%B5%B7%E5%B2%B8%E7%94%9F%E7%89%A9-%E7%92%B0%E5%9C%98%E4%BF%83%E7%B4%8D%E5%85%A5%E4%BF%9D%E8%AD%B7%E5%8D%80",
-    "timestamp": "2026-05-02T17:27:15.937Z",
     "strategy": ".content-card__main"
   }
 ];
