@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-03T21:52:13.175Z
+// Last updated: 2026-05-03T22:23:08.993Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "天氣｜今日稍涼最低21度　稍後雨勢較頻密　局部地局有雷暴",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260504/1127850992092712960408163.jpeg/78vyLr44DTU0CgFth2W_2xgA_aoO64hcavhCSGr4Qkg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60346274/%E5%A4%A9%E6%B0%A3-%E4%BB%8A%E6%97%A5%E7%A8%8D%E6%B6%BC%E6%9C%80%E4%BD%8E21%E5%BA%A6-%E7%A8%8D%E5%BE%8C%E9%9B%A8%E5%8B%A2%E8%BC%83%E9%A0%BB%E5%AF%86-%E5%B1%80%E9%83%A8%E5%9C%B0%E5%B1%80%E6%9C%89%E9%9B%B7%E6%9A%B4",
+    "timestamp": "2026-05-03T22:23:08.993Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "港珠澳大橋口岸私家車翻側　女乘客滿面鮮血被困昏迷　心外壓送院",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260503/1127646725025042432817092.jpeg/FEoKhKmgR2P1YjTfSWrC6_9JkNHQt4jqsrB70rKwe9I?v=w1920r16_9",
     "url": "https://www.hk01.com/18%E5%8D%80%E6%96%B0%E8%81%9E/60346180/%E5%A4%A7%E6%BE%B3%E9%B9%BD%E7%94%B0%E6%A9%8B%E5%8F%8A%E5%AF%B6%E7%8F%A0%E6%BD%AD%E6%A9%8B%E6%98%8E%E8%B5%B7%E9%96%8B%E6%94%BE%E4%BD%BF%E7%94%A8-%E7%82%BA%E5%85%A8%E6%B8%AF%E9%A6%96%E6%A2%9D%E4%BC%B8%E7%B8%AE%E5%BC%8F%E9%96%8B%E5%90%88%E8%A1%8C%E4%BA%BA%E6%A9%8B",
     "timestamp": "2026-05-03T09:00:28.987Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "雪櫃慳電丨冰箱塞滿食物更耗電　專家揭4大省電秘訣放幾分滿最好?",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260430/1126537298813390848905432.jpeg/OAeeJqHx7pRNYLot-S6aNAypkwP9P6K60P9A8ND_QPA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60340302/%E9%9B%AA%E6%AB%83%E6%85%B3%E9%9B%BB-%E5%86%B0%E7%AE%B1%E5%A1%9E%E6%BB%BF%E9%A3%9F%E7%89%A9%E6%9B%B4%E8%80%97%E9%9B%BB-%E5%B0%88%E5%AE%B6%E6%8F%AD4%E5%A4%A7%E7%9C%81%E9%9B%BB%E7%A7%98%E8%A8%A3%E6%94%BE%E5%B9%BE%E5%88%86%E6%BB%BF%E6%9C%80%E5%A5%BD",
-    "timestamp": "2026-05-03T08:18:28.987Z",
     "strategy": ".content-card__main"
   }
 ];
