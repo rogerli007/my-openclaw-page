@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-03T09:00:28.987Z
+// Last updated: 2026-05-03T09:40:43.689Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "長沙灣新開火鍋店遭淋紅油　疑有背景人士曾上門　老闆：一言難盡",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260503/1127661012183420928651283.jpeg/fugwN5bCcghS96EVpj92T_FKkDQBVstX6gS-VuoEvlY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60346175/%E9%95%B7%E6%B2%99%E7%81%A3%E6%96%B0%E9%96%8B%E7%81%AB%E9%8D%8B%E5%BA%97%E9%81%AD%E6%B7%8B%E7%B4%85%E6%B2%B9-%E7%96%91%E6%9C%89%E8%83%8C%E6%99%AF%E4%BA%BA%E5%A3%AB%E6%9B%BE%E4%B8%8A%E9%96%80-%E8%80%81%E9%97%86-%E4%B8%80%E8%A8%80%E9%9B%A3%E7%9B%A1",
+    "timestamp": "2026-05-03T09:40:43.689Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "大澳鹽田橋及寶珠潭橋明起開放使用　為全港首條伸縮式開合行人橋",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260503/1127398072834330624917240.jpeg/TazKp1vc9e9w0LC68crv1XEI4GnnH01ezyfOPc8nzj0",
     "url": "https://www.hk01.com/%E8%97%9D%E6%96%87/60346062/%E5%A4%A7%E6%BF%9B%E5%BD%B1%E8%A9%95-%E6%82%B2%E6%83%85%E5%9F%8E%E5%B8%82%E8%A3%A1%E8%A6%8B%E8%AD%89%E4%BA%BA%E6%80%A7%E7%9C%9F%E5%96%84%E7%BE%8E-%E6%9F%AF%E7%85%92%E6%9E%97%E6%BC%94%E7%B9%B9%E5%A4%A7%E6%94%BE%E7%95%B0%E5%BD%A9-%E4%BD%95%E6%95%85",
     "timestamp": "2026-05-02T16:27:46.031Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "英冠煞科｜葉士域治重返英超　域斯咸失附加賽資格無緣四連升",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260502/1127376422910824448604571.jpeg/ACyQHtzG5WmiBNkjHpAw6j5bByscRsRtHbA5Cx2wOQs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60346052/%E8%8B%B1%E5%86%A0%E7%85%9E%E7%A7%91-%E8%91%89%E5%A3%AB%E5%9F%9F%E6%B2%BB%E9%87%8D%E8%BF%94%E8%8B%B1%E8%B6%85-%E5%9F%9F%E6%96%AF%E5%92%B8%E5%A4%B1%E9%99%84%E5%8A%A0%E8%B3%BD%E8%B3%87%E6%A0%BC%E7%84%A1%E7%B7%A3%E5%9B%9B%E9%80%A3%E5%8D%87",
-    "timestamp": "2026-05-02T15:53:23.964Z",
     "strategy": ".content-card__main"
   }
 ];
