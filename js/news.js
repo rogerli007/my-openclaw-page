@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-03T20:52:53.236Z
+// Last updated: 2026-05-03T21:24:41.723Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "大西洋一艘遊輪疑爆發漢坦病毒　3人死亡　另3人染疫",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260504/1127832921449697280713264.png/ailbCgram6QYBxSoNp1WLItcTWTJIY53ODWhBzg1oQc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60346285/%E5%A4%A7%E8%A5%BF%E6%B4%8B%E4%B8%80%E8%89%98%E9%81%8A%E8%BC%AA%E7%96%91%E7%88%86%E7%99%BC%E6%BC%A2%E5%9D%A6%E7%97%85%E6%AF%92-3%E4%BA%BA%E6%AD%BB%E4%BA%A1-%E5%8F%A63%E4%BA%BA%E6%9F%93%E7%96%AB",
+    "timestamp": "2026-05-03T21:24:41.723Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "駕車往女友沙田寓所箍煲　撼路牌咪錶翻側　男司機涉醉駕錄逾百度",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260503/1127578288131149824962803.jpeg/HBdI-JcbggTl1pJLuhCVtxU7x4BTpHqQEItRMxCLUTM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8F%B0%E7%81%A3%E6%96%B0%E8%81%9E/60346123/%E4%B8%8D%E5%BF%BF%E8%A2%AB%E5%98%B2%E6%98%AF-%E7%A4%BE%E6%9C%83%E5%BA%95%E5%B1%A4-%E5%8F%B0%E7%84%A1%E6%A5%AD%E6%BC%A2%E9%85%92%E5%BE%8C%E7%8B%82%E6%8D%8556%E6%AD%B2%E9%84%B0%E5%B1%85%E9%80%BE20%E5%88%80%E5%A5%AA%E5%91%BD",
     "timestamp": "2026-05-03T06:26:51.161Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "馬國醋男疑嫉妒起殺機　19歲女友身中61刀遭棄屍稻田　4人落網",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260503/1127567548984856576268495.jpeg/F65ISmGKspqAqE-dKT3bDqA9SGgPwQN_1P-LjtT_i44?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60346115/%E9%A6%AC%E5%9C%8B%E9%86%8B%E7%94%B7%E7%96%91%E5%AB%89%E5%A6%92%E8%B5%B7%E6%AE%BA%E6%A9%9F-19%E6%AD%B2%E5%A5%B3%E5%8F%8B%E8%BA%AB%E4%B8%AD61%E5%88%80%E9%81%AD%E6%A3%84%E5%B1%8D%E7%A8%BB%E7%94%B0-4%E4%BA%BA%E8%90%BD%E7%B6%B2",
-    "timestamp": "2026-05-03T04:15:16.618Z",
     "strategy": ".content-card__main"
   }
 ];
