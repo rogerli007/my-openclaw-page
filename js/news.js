@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-03T22:55:03.788Z
+// Last updated: 2026-05-03T23:25:50.527Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "月子中心抱錯嬰！護士稱無錯　人夫憑直覺求查驗DNA　尋回真兒子",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260504/1127812209670361088305289.png/44UUSLgJtAzMzBBsmfoUf0mo-T1Kl8RtACgeGQAoHhk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60346059/%E6%9C%88%E5%AD%90%E4%B8%AD%E5%BF%83%E6%8A%B1%E9%8C%AF%E5%AC%B0-%E8%AD%B7%E5%A3%AB%E7%A8%B1%E7%84%A1%E9%8C%AF-%E4%BA%BA%E5%A4%AB%E6%86%91%E7%9B%B4%E8%A6%BA%E6%B1%82%E6%9F%A5%E9%A9%97dna-%E5%B0%8B%E5%9B%9E%E7%9C%9F%E5%85%92%E5%AD%90",
+    "timestamp": "2026-05-03T23:25:50.527Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "Gemini訂閱計劃比較：AI Plus和AI Pro家庭共享超平收費價格/限制",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260503/1127649109390397440579046.png/Y1FxJw_NIJ6KiNnBTQttybg9wmHQHATXlAFb0JQBW9A?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60345857/%E6%97%A5%E6%9C%AC%E5%A4%AB%E5%A6%BB%E4%BD%8F%E9%87%8D%E6%85%B6%E5%A4%A7%E5%BB%88-%E8%81%9E%E7%88%9B%E6%B4%8B%E8%94%A5%E5%91%B3%E6%A5%B5%E9%A0%AD%E7%97%9B-%E6%80%A5%E6%B1%82%E9%86%AB%E8%AD%89%E5%AF%A6%E4%B8%80%E6%B0%A7%E5%8C%96%E7%A2%B3%E4%B8%AD%E6%AF%92",
     "timestamp": "2026-05-03T10:14:48.620Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "長沙灣新開火鍋店遭淋紅油　疑有背景人士曾上門　老闆：一言難盡",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260503/1127661012183420928651283.jpeg/fugwN5bCcghS96EVpj92T_FKkDQBVstX6gS-VuoEvlY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60346175/%E9%95%B7%E6%B2%99%E7%81%A3%E6%96%B0%E9%96%8B%E7%81%AB%E9%8D%8B%E5%BA%97%E9%81%AD%E6%B7%8B%E7%B4%85%E6%B2%B9-%E7%96%91%E6%9C%89%E8%83%8C%E6%99%AF%E4%BA%BA%E5%A3%AB%E6%9B%BE%E4%B8%8A%E9%96%80-%E8%80%81%E9%97%86-%E4%B8%80%E8%A8%80%E9%9B%A3%E7%9B%A1",
-    "timestamp": "2026-05-03T09:40:43.689Z",
     "strategy": ".content-card__main"
   }
 ];
