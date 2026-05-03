@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-03T19:56:34.027Z
+// Last updated: 2026-05-03T20:23:08.486Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "駕車往女友沙田寓所箍煲　撼路牌咪錶翻側　男司機涉醉駕錄逾百度",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260504/1127819020775460864578143.jpeg/gEm-RR6wrjen8dyRLQ6f5TnkyMUTG37F8fkzt9T5M7c?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60346284/%E9%A7%95%E8%BB%8A%E5%BE%80%E5%A5%B3%E5%8F%8B%E6%B2%99%E7%94%B0%E5%AF%93%E6%89%80%E7%AE%8D%E7%85%B2-%E6%92%BC%E8%B7%AF%E7%89%8C%E5%92%AA%E9%8C%B6%E7%BF%BB%E5%81%B4-%E7%94%B7%E5%8F%B8%E6%A9%9F%E6%B6%89%E9%86%89%E9%A7%95%E9%8C%84%E9%80%BE%E7%99%BE%E5%BA%A6",
+    "timestamp": "2026-05-03T20:23:08.486Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "周殷廷唔希望影響女友與小朋友　梁詠琪簽名CD被放售否認自己賣",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260501/1126894442737831936639570.jpeg/hq0wWgRguZPSXL5zH-p5bvCXtD3MzrnKM0nUKjNJ1Co?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%9C%8B%E9%9A%9B%E5%88%86%E6%9E%90/60346109/%E7%89%B9%E6%9C%97%E6%99%AE%E5%96%8A%E5%81%9C-%E7%BE%8E%E4%BC%8A%E5%83%B5%E5%B1%80%E5%BE%A9%E7%9B%A4-%E4%B8%8B%E4%B8%80%E6%AD%A5%E6%9C%83%E6%80%8E%E9%BA%BC%E8%B5%B0",
     "timestamp": "2026-05-03T02:49:12.607Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "醫善同行｜「蟬病毒」恐慌背後：家長別被網上誇張說辭嚇倒",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260503/1127543466016903168630872.jpeg/rd6BPkakfFXOi1O56rCURbn0sqZaNmyFNqjRczao0XM?v=w1920r16_9",
-    "url": "https://www.hk01.com/01%E8%AB%96%E5%A3%87/60346095/%E9%86%AB%E5%96%84%E5%90%8C%E8%A1%8C-%E8%9F%AC%E7%97%85%E6%AF%92-%E6%81%90%E6%85%8C%E8%83%8C%E5%BE%8C-%E5%AE%B6%E9%95%B7%E5%88%A5%E8%A2%AB%E7%B6%B2%E4%B8%8A%E8%AA%87%E5%BC%B5%E8%AA%AA%E8%BE%AD%E5%9A%87%E5%80%92",
-    "timestamp": "2026-05-03T01:46:49.211Z",
     "strategy": ".content-card__main"
   }
 ];
