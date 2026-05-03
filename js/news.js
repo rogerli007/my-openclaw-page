@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-03T11:10:27.759Z
+// Last updated: 2026-05-03T11:35:30.575Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "珍惜生命｜鴨脷洲邨女子墮樓　昏迷送院不治",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/5348646/org/e655b9eab57f6c43a273aa688baf742d.jpg/39L4KSgFP-cLRi4Cufa33HLeEZVo-sQ2K2mHCitphwo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60346219/%E7%8F%8D%E6%83%9C%E7%94%9F%E5%91%BD-%E9%B4%A8%E8%84%B7%E6%B4%B2%E9%82%A8%E5%A5%B3%E5%AD%90%E5%A2%AE%E6%A8%93-%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2%E4%B8%8D%E6%B2%BB",
+    "timestamp": "2026-05-03T11:35:30.575Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "深圳樓市鬆限購　業者：香港靠高租售比搶客　杭州AI大佬湧入買樓",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260502/1127324887287861248842975.jpeg/MoXBH8m-bt2rFvl5fFMksNp1drYeAkgATeUt-k3lLfo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60339572/%E6%B7%B1%E5%9C%B3%E8%A1%8C%E5%B1%B1-%E5%A4%A7%E6%A2%85%E6%B2%99%E7%99%BB%E9%A6%AC%E5%B7%92%E5%B1%B1%E6%A2%85%E4%BA%AD%E8%A8%AA%E7%BE%85%E6%B0%8F%E5%A4%A7%E5%B1%8B-%E8%B5%B0%E7%BF%A0%E5%BE%AE%E5%BE%91%E8%A7%80%E9%A6%AC%E5%B7%92%E7%80%91%E5%B8%83",
     "timestamp": "2026-05-02T18:54:10.150Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "深圳行山｜大梅沙登馬巒山梅亭訪羅氏大屋　走翠微徑觀馬巒瀑布",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260502/1127324887287861248842975.jpeg/MoXBH8m-bt2rFvl5fFMksNp1drYeAkgATeUt-k3lLfo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60339572/%E6%B7%B1%E5%9C%B3%E8%A1%8C%E5%B1%B1-%E5%A4%A7%E6%A2%85%E6%B2%99%E7%99%BB%E9%A6%AC%E5%B7%92%E5%B1%B1%E6%A2%85%E4%BA%AD%E8%A8%AA%E7%BE%85%E6%B0%8F%E5%A4%A7%E5%B1%8B-%E8%B5%B0%E7%BF%A0%E5%BE%AE%E5%BE%91%E8%A7%80%E9%A6%AC%E5%B7%92%E7%80%91%E5%B8%83",
-    "timestamp": "2026-05-02T18:31:55.316Z",
     "strategy": ".content-card__main"
   }
 ];
