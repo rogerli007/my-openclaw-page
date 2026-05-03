@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-03T02:49:12.607Z
+// Last updated: 2026-05-03T04:15:16.618Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "馬國醋男疑嫉妒起殺機　19歲女友身中61刀遭棄屍稻田　4人落網",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260503/1127567548984856576268495.jpeg/F65ISmGKspqAqE-dKT3bDqA9SGgPwQN_1P-LjtT_i44?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60346115/%E9%A6%AC%E5%9C%8B%E9%86%8B%E7%94%B7%E7%96%91%E5%AB%89%E5%A6%92%E8%B5%B7%E6%AE%BA%E6%A9%9F-19%E6%AD%B2%E5%A5%B3%E5%8F%8B%E8%BA%AB%E4%B8%AD61%E5%88%80%E9%81%AD%E6%A3%84%E5%B1%8D%E7%A8%BB%E7%94%B0-4%E4%BA%BA%E8%90%BD%E7%B6%B2",
+    "timestamp": "2026-05-03T04:15:16.618Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "特朗普喊停　美伊僵局復盤　下一步會怎麼走？",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260502/1127340298691678208735086.jpeg/3o7o9CZ6dKwfadtmhjMq_f34Zl3IMjEmkK0dSJCtHUg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60346029/%E6%9D%B1%E5%BC%B5%E8%A5%BF%E6%9C%9B-%E5%8A%89%E6%B4%8B%E6%8C%87%E5%90%91%E9%81%A0%E8%99%95%E5%A4%A7%E5%97%8C-%E6%B0%B4%E6%80%A7%E6%A5%8A%E8%8A%B1-%E4%B8%BB%E6%8C%81%E6%A2%81%E9%BA%97%E7%BF%B9%E5%B7%AE%E5%95%B2%E6%8E%A5%E5%94%94%E4%BD%8F",
     "timestamp": "2026-05-02T13:53:42.221Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "完美男友年薪150萬台幣！見貴商品呼買不起　女友：嫌貴是你問題",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260429/1126007550601334784593067.png/-Xj7I4CLfDRGCubbFo_Tzc00WBgeUzp6kz5YGJM-WBg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60344824/%E5%AE%8C%E7%BE%8E%E7%94%B7%E5%8F%8B%E5%B9%B4%E8%96%AA150%E8%90%AC%E5%8F%B0%E5%B9%A3-%E8%A6%8B%E8%B2%B4%E5%95%86%E5%93%81%E5%91%BC%E8%B2%B7%E4%B8%8D%E8%B5%B7-%E5%A5%B3%E5%8F%8B-%E5%AB%8C%E8%B2%B4%E6%98%AF%E4%BD%A0%E5%95%8F%E9%A1%8C",
-    "timestamp": "2026-05-02T13:15:27.394Z",
     "strategy": ".content-card__main"
   }
 ];
