@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-03T16:26:03.643Z
+// Last updated: 2026-05-03T17:26:02.892Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "倫敦南部發生「無差別」槍擊案　4名傷者一人命危",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260504/1127770169750327296908534.png/Uspi_7OZjRgSODhAYTH0tSrau4s9XfCN8uU4M_LlODM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60346270/%E5%80%AB%E6%95%A6%E5%8D%97%E9%83%A8%E7%99%BC%E7%94%9F-%E7%84%A1%E5%B7%AE%E5%88%A5-%E6%A7%8D%E6%93%8A%E6%A1%88-4%E5%90%8D%E5%82%B7%E8%80%85%E4%B8%80%E4%BA%BA%E5%91%BD%E5%8D%B1",
+    "timestamp": "2026-05-03T17:26:02.892Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "粉嶺停車場兩貨車焚毀　消防救熄調查有可疑　警緝兩男疑擲易燃物",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260503/1127487831447441408360425.jpeg/gvHW42qlKiYosTvef6R6baK-aWx8B94S9FbXKfRW1yk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60346075/%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%E6%8E%A8%E5%8B%95%E5%83%B9%E5%80%BC%E9%80%BE80%E5%84%84%E7%BE%8E%E5%85%83%E6%AD%A6%E5%99%A8%E5%87%BA%E5%8F%A3-%E6%94%AF%E6%8F%B4%E4%B8%AD%E6%9D%B1%E5%9B%9B%E5%9C%8B%E7%9B%9F%E5%8F%8B",
     "timestamp": "2026-05-02T22:52:39.989Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普政府推動價值逾80億美元武器出口　支援中東四國盟友",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260503/1127487831447441408360425.jpeg/gvHW42qlKiYosTvef6R6baK-aWx8B94S9FbXKfRW1yk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60346075/%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%E6%8E%A8%E5%8B%95%E5%83%B9%E5%80%BC%E9%80%BE80%E5%84%84%E7%BE%8E%E5%85%83%E6%AD%A6%E5%99%A8%E5%87%BA%E5%8F%A3-%E6%94%AF%E6%8F%B4%E4%B8%AD%E6%9D%B1%E5%9B%9B%E5%9C%8B%E7%9B%9F%E5%8F%8B",
-    "timestamp": "2026-05-02T22:22:20.320Z",
     "strategy": ".content-card__main"
   }
 ];
