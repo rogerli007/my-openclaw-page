@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-03T21:24:41.723Z
+// Last updated: 2026-05-03T21:52:13.175Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "港珠澳大橋口岸私家車翻側　女乘客滿面鮮血被困昏迷　心外壓送院",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260504/1127843552051597312169732.jpeg/Awrj7Llfxgs21c6FAg5k0VUmHjOG8d7LpCN4roEjeK4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60346287/%E6%B8%AF%E7%8F%A0%E6%BE%B3%E5%A4%A7%E6%A9%8B%E5%8F%A3%E5%B2%B8%E7%A7%81%E5%AE%B6%E8%BB%8A%E7%BF%BB%E5%81%B4-%E5%A5%B3%E4%B9%98%E5%AE%A2%E6%BB%BF%E9%9D%A2%E9%AE%AE%E8%A1%80%E8%A2%AB%E5%9B%B0%E6%98%8F%E8%BF%B7-%E5%BF%83%E5%A4%96%E5%A3%93%E9%80%81%E9%99%A2",
+    "timestamp": "2026-05-03T21:52:13.175Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "大西洋一艘遊輪疑爆發漢坦病毒　3人死亡　另3人染疫",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260430/1126537298813390848905432.jpeg/OAeeJqHx7pRNYLot-S6aNAypkwP9P6K60P9A8ND_QPA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60340302/%E9%9B%AA%E6%AB%83%E6%85%B3%E9%9B%BB-%E5%86%B0%E7%AE%B1%E5%A1%9E%E6%BB%BF%E9%A3%9F%E7%89%A9%E6%9B%B4%E8%80%97%E9%9B%BB-%E5%B0%88%E5%AE%B6%E6%8F%AD4%E5%A4%A7%E7%9C%81%E9%9B%BB%E7%A7%98%E8%A8%A3%E6%94%BE%E5%B9%BE%E5%88%86%E6%BB%BF%E6%9C%80%E5%A5%BD",
     "timestamp": "2026-05-03T08:18:28.987Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "不忿被嘲是「社會底層」　台無業漢酒後狂捅56歲鄰居逾20刀奪命",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260503/1127578288131149824962803.jpeg/HBdI-JcbggTl1pJLuhCVtxU7x4BTpHqQEItRMxCLUTM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8F%B0%E7%81%A3%E6%96%B0%E8%81%9E/60346123/%E4%B8%8D%E5%BF%BF%E8%A2%AB%E5%98%B2%E6%98%AF-%E7%A4%BE%E6%9C%83%E5%BA%95%E5%B1%A4-%E5%8F%B0%E7%84%A1%E6%A5%AD%E6%BC%A2%E9%85%92%E5%BE%8C%E7%8B%82%E6%8D%8556%E6%AD%B2%E9%84%B0%E5%B1%85%E9%80%BE20%E5%88%80%E5%A5%AA%E5%91%BD",
-    "timestamp": "2026-05-03T06:26:51.161Z",
     "strategy": ".content-card__main"
   }
 ];
