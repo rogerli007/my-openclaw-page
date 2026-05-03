@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-03T14:28:57.920Z
+// Last updated: 2026-05-03T14:53:49.398Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "珍惜生命｜葵興邨女子上吊　朋友揭發惜太遲",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20251017/1055812912913977344861752.jpeg/TdySJRSsPNt9LwvayHOeJpcjHKL--wKEPbOg5hizoOY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60346254/%E7%8F%8D%E6%83%9C%E7%94%9F%E5%91%BD-%E8%91%B5%E8%88%88%E9%82%A8%E5%A5%B3%E5%AD%90%E4%B8%8A%E5%90%8A-%E6%9C%8B%E5%8F%8B%E6%8F%AD%E7%99%BC%E6%83%9C%E5%A4%AA%E9%81%B2",
+    "timestamp": "2026-05-03T14:53:49.398Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "李盛林牧師離世｜阿Mo兄長：父以血肉之軀建堤壩助家人擋洪水",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260503/1127482032436285440907831.jpeg/X7of3iOUNWZ35AdMjhvwboLqvAmlOGnTOqN6RjqjekY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60346074/%E4%BC%8A%E5%AA%92%E6%9B%9D%E5%85%89%E4%BC%8A%E6%9C%97%E8%88%87%E7%BE%8E%E5%9C%8B%E8%AB%87%E5%88%A4%E6%96%B0%E6%96%B9%E6%A1%88-%E5%88%9714%E9%A0%85%E6%8F%90%E8%AD%B0%E8%A6%81%E6%B1%82%E7%BE%8E%E6%96%B930%E6%97%A5%E5%85%A7%E8%A7%A3%E6%B1%BA",
     "timestamp": "2026-05-02T21:52:53.818Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "上水建築工人坐後巷吸煙！港男憂火警稱報勞工處　網民反體諒工人",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260502/1127103048947077120613579.png/wrrl2nCacgwby82ITp4AnCDOfwvvthbfAEz_HABM_xw",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60345794/%E4%B8%8A%E6%B0%B4%E5%BB%BA%E7%AF%89%E5%B7%A5%E4%BA%BA%E5%9D%90%E5%BE%8C%E5%B7%B7%E5%90%B8%E7%85%99-%E6%B8%AF%E7%94%B7%E6%86%82%E7%81%AB%E8%AD%A6%E7%A8%B1%E5%A0%B1%E5%8B%9E%E5%B7%A5%E8%99%95-%E7%B6%B2%E6%B0%91%E5%8F%8D%E9%AB%94%E8%AB%92%E5%B7%A5%E4%BA%BA",
-    "timestamp": "2026-05-02T21:29:07.812Z",
     "strategy": ".content-card__main"
   }
 ];
