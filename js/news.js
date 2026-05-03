@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-03T11:35:30.575Z
+// Last updated: 2026-05-03T12:04:43.451Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "重案解密｜苗僑偉岑麗香攜手破八大奇案　靈感來自真實故事",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260503/1127639668595101696943275.jpeg/pI4kjIOf5pTkUZjVqskIvkbP-PNmg6XlyyKPNcsijzU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60346167/%E9%87%8D%E6%A1%88%E8%A7%A3%E5%AF%86-%E8%8B%97%E5%83%91%E5%81%89%E5%B2%91%E9%BA%97%E9%A6%99%E6%94%9C%E6%89%8B%E7%A0%B4%E5%85%AB%E5%A4%A7%E5%A5%87%E6%A1%88-%E9%9D%88%E6%84%9F%E4%BE%86%E8%87%AA%E7%9C%9F%E5%AF%A6%E6%95%85%E4%BA%8B",
+    "timestamp": "2026-05-03T12:04:43.451Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "珍惜生命｜鴨脷洲邨女子墮樓　昏迷送院不治",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260319/1111233379946205184425031.jpeg/w8RMEeBcg1gA7sbenfNOfL33OekkA2_85C4_n-QuP58?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60346072/%E4%BC%8A%E6%9C%97%E6%93%AC%E5%AE%9A%E7%AE%A1%E7%90%86%E9%9C%8D%E7%88%BE%E6%9C%A8%E8%8C%B2%E6%B5%B7%E5%B3%BD%E6%B3%95%E6%A1%88-%E5%89%AF%E8%AD%B0%E9%95%B7-%E5%AE%8C%E5%85%A8%E7%A6%81%E6%AD%A2%E4%BB%A5%E8%89%B2%E5%88%97%E8%88%B9%E9%9A%BB%E9%80%9A%E9%81%8E",
     "timestamp": "2026-05-02T19:32:38.008Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "深圳行山｜大梅沙登馬巒山梅亭訪羅氏大屋　走翠微徑觀馬巒瀑布",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260502/1127324887287861248842975.jpeg/MoXBH8m-bt2rFvl5fFMksNp1drYeAkgATeUt-k3lLfo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60339572/%E6%B7%B1%E5%9C%B3%E8%A1%8C%E5%B1%B1-%E5%A4%A7%E6%A2%85%E6%B2%99%E7%99%BB%E9%A6%AC%E5%B7%92%E5%B1%B1%E6%A2%85%E4%BA%AD%E8%A8%AA%E7%BE%85%E6%B0%8F%E5%A4%A7%E5%B1%8B-%E8%B5%B0%E7%BF%A0%E5%BE%AE%E5%BE%91%E8%A7%80%E9%A6%AC%E5%B7%92%E7%80%91%E5%B8%83",
-    "timestamp": "2026-05-02T18:54:10.150Z",
     "strategy": ".content-card__main"
   }
 ];
