@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-03T22:23:08.993Z
+// Last updated: 2026-05-03T22:55:03.788Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "Gemini訂閱計劃比較：AI Plus和AI Pro家庭共享超平收費價格/限制",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260504/1127779367192104960179346.jpeg/Iusq-Jr193D3hQTMM_nXNWsb-mcwI8FemP2n25j9p9s?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60346266/gemini%E8%A8%82%E9%96%B1%E8%A8%88%E5%8A%83%E6%AF%94%E8%BC%83-ai-plus%E5%92%8Cai-pro%E5%AE%B6%E5%BA%AD%E5%85%B1%E4%BA%AB%E8%B6%85%E5%B9%B3%E6%94%B6%E8%B2%BB%E5%83%B9%E6%A0%BC-%E9%99%90%E5%88%B6",
+    "timestamp": "2026-05-03T22:55:03.788Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "天氣｜今日稍涼最低21度　稍後雨勢較頻密　局部地局有雷暴",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260503/1127661012183420928651283.jpeg/fugwN5bCcghS96EVpj92T_FKkDQBVstX6gS-VuoEvlY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60346175/%E9%95%B7%E6%B2%99%E7%81%A3%E6%96%B0%E9%96%8B%E7%81%AB%E9%8D%8B%E5%BA%97%E9%81%AD%E6%B7%8B%E7%B4%85%E6%B2%B9-%E7%96%91%E6%9C%89%E8%83%8C%E6%99%AF%E4%BA%BA%E5%A3%AB%E6%9B%BE%E4%B8%8A%E9%96%80-%E8%80%81%E9%97%86-%E4%B8%80%E8%A8%80%E9%9B%A3%E7%9B%A1",
     "timestamp": "2026-05-03T09:40:43.689Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "大澳鹽田橋及寶珠潭橋明起開放使用　為全港首條伸縮式開合行人橋",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260503/1127646725025042432817092.jpeg/FEoKhKmgR2P1YjTfSWrC6_9JkNHQt4jqsrB70rKwe9I?v=w1920r16_9",
-    "url": "https://www.hk01.com/18%E5%8D%80%E6%96%B0%E8%81%9E/60346180/%E5%A4%A7%E6%BE%B3%E9%B9%BD%E7%94%B0%E6%A9%8B%E5%8F%8A%E5%AF%B6%E7%8F%A0%E6%BD%AD%E6%A9%8B%E6%98%8E%E8%B5%B7%E9%96%8B%E6%94%BE%E4%BD%BF%E7%94%A8-%E7%82%BA%E5%85%A8%E6%B8%AF%E9%A6%96%E6%A2%9D%E4%BC%B8%E7%B8%AE%E5%BC%8F%E9%96%8B%E5%90%88%E8%A1%8C%E4%BA%BA%E6%A9%8B",
-    "timestamp": "2026-05-03T09:00:28.987Z",
     "strategy": ".content-card__main"
   }
 ];
