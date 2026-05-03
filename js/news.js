@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-03T19:31:41.117Z
+// Last updated: 2026-05-03T19:56:34.027Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "周殷廷唔希望影響女友與小朋友　梁詠琪簽名CD被放售否認自己賣",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260504/1127785589408534528923160.jpeg/xUAm0GBVkixSqunkdtWkv9EVSWcGIdSiNbPytDWz8rQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60346228/%E5%91%A8%E6%AE%B7%E5%BB%B7%E5%94%94%E5%B8%8C%E6%9C%9B%E5%BD%B1%E9%9F%BF%E5%A5%B3%E5%8F%8B%E8%88%87%E5%B0%8F%E6%9C%8B%E5%8F%8B-%E6%A2%81%E8%A9%A0%E7%90%AA%E7%B0%BD%E5%90%8Dcd%E8%A2%AB%E6%94%BE%E5%94%AE%E5%90%A6%E8%AA%8D%E8%87%AA%E5%B7%B1%E8%B3%A3",
+    "timestamp": "2026-05-03T19:56:34.027Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "周殷廷唔希望影響女友與小朋友　梁詠琪簽名CD被放售否認自己賣",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260503/1127543466016903168630872.jpeg/rd6BPkakfFXOi1O56rCURbn0sqZaNmyFNqjRczao0XM?v=w1920r16_9",
     "url": "https://www.hk01.com/01%E8%AB%96%E5%A3%87/60346095/%E9%86%AB%E5%96%84%E5%90%8C%E8%A1%8C-%E8%9F%AC%E7%97%85%E6%AF%92-%E6%81%90%E6%85%8C%E8%83%8C%E5%BE%8C-%E5%AE%B6%E9%95%B7%E5%88%A5%E8%A2%AB%E7%B6%B2%E4%B8%8A%E8%AA%87%E5%BC%B5%E8%AA%AA%E8%BE%AD%E5%9A%87%E5%80%92",
     "timestamp": "2026-05-03T01:46:49.211Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "伊朗局勢｜美國多家石油巨頭CEO齊警告︰能源市場正逼近懸崖邊緣",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260316/1110152992629198848079246.jpeg/JXI9R9qKEoxdF3kcDWVlRmUHJJ2qgKJdoeltlaHpbZU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60345990/%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8B%A2-%E7%BE%8E%E5%9C%8B%E5%A4%9A%E5%AE%B6%E7%9F%B3%E6%B2%B9%E5%B7%A8%E9%A0%ADceo%E9%BD%8A%E8%AD%A6%E5%91%8A-%E8%83%BD%E6%BA%90%E5%B8%82%E5%A0%B4%E6%AD%A3%E9%80%BC%E8%BF%91%E6%87%B8%E5%B4%96%E9%82%8A%E7%B7%A3",
-    "timestamp": "2026-05-02T23:53:34.998Z",
     "strategy": ".content-card__main"
   }
 ];
