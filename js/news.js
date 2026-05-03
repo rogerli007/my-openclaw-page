@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-03T12:04:43.451Z
+// Last updated: 2026-05-03T13:15:29.720Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "五一｜旅客黃雨九龍公園紫色的噴泉打卡　深圳客：以為池水也紫色",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260503/1127704846078578688483760.jpeg/CsT0Kp6DMRM9Zysw30OlGtsGOfxJyUcQXXWj5F11o-Q?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60346230/%E4%BA%94%E4%B8%80-%E6%97%85%E5%AE%A2%E9%BB%83%E9%9B%A8%E4%B9%9D%E9%BE%8D%E5%85%AC%E5%9C%92%E7%B4%AB%E8%89%B2%E7%9A%84%E5%99%B4%E6%B3%89%E6%89%93%E5%8D%A1-%E6%B7%B1%E5%9C%B3%E5%AE%A2-%E4%BB%A5%E7%82%BA%E6%B1%A0%E6%B0%B4%E4%B9%9F%E7%B4%AB%E8%89%B2",
+    "timestamp": "2026-05-03T13:15:29.720Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "重案解密｜苗僑偉岑麗香攜手破八大奇案　靈感來自真實故事",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260319/1111233379946205184425031.jpeg/w8RMEeBcg1gA7sbenfNOfL33OekkA2_85C4_n-QuP58?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60346072/%E4%BC%8A%E6%9C%97%E6%93%AC%E5%AE%9A%E7%AE%A1%E7%90%86%E9%9C%8D%E7%88%BE%E6%9C%A8%E8%8C%B2%E6%B5%B7%E5%B3%BD%E6%B3%95%E6%A1%88-%E5%89%AF%E8%AD%B0%E9%95%B7-%E5%AE%8C%E5%85%A8%E7%A6%81%E6%AD%A2%E4%BB%A5%E8%89%B2%E5%88%97%E8%88%B9%E9%9A%BB%E9%80%9A%E9%81%8E",
     "timestamp": "2026-05-02T19:56:16.760Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "伊朗擬定管理霍爾木茲海峽法案　副議長：完全禁止以色列船隻通過",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260319/1111233379946205184425031.jpeg/w8RMEeBcg1gA7sbenfNOfL33OekkA2_85C4_n-QuP58?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60346072/%E4%BC%8A%E6%9C%97%E6%93%AC%E5%AE%9A%E7%AE%A1%E7%90%86%E9%9C%8D%E7%88%BE%E6%9C%A8%E8%8C%B2%E6%B5%B7%E5%B3%BD%E6%B3%95%E6%A1%88-%E5%89%AF%E8%AD%B0%E9%95%B7-%E5%AE%8C%E5%85%A8%E7%A6%81%E6%AD%A2%E4%BB%A5%E8%89%B2%E5%88%97%E8%88%B9%E9%9A%BB%E9%80%9A%E9%81%8E",
-    "timestamp": "2026-05-02T19:32:38.008Z",
     "strategy": ".content-card__main"
   }
 ];
