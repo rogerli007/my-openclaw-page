@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-04T13:00:06.057Z
+// Last updated: 2026-05-04T14:38:13.490Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "TVB收視｜《正義女神》大結局奪冠　《試真D》成績不似預期",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260504/1128047056208793600617428.jpeg/uzJLRGo02rmqzjNZlrGlOQEMX9uBHuhh0qYjZdKmI2U?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60346518/tvb%E6%94%B6%E8%A6%96-%E6%AD%A3%E7%BE%A9%E5%A5%B3%E7%A5%9E-%E5%A4%A7%E7%B5%90%E5%B1%80%E5%A5%AA%E5%86%A0-%E8%A9%A6%E7%9C%9Fd-%E6%88%90%E7%B8%BE%E4%B8%8D%E4%BC%BC%E9%A0%90%E6%9C%9F",
+    "timestamp": "2026-05-04T14:38:13.490Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "東陽光藥甘精胰島素獲FDA批准上市　為國產胰島素首進入美國市場",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20230116/691764302884900864140537.jpeg/YesGd_Gx8eOetGU6GkjpX3hHBGSjYx0hPdEOzD3RDsw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60346267/%E7%B2%89%E5%B6%BA%E5%81%9C%E8%BB%8A%E5%A0%B4%E5%85%A9%E8%B2%A8%E8%BB%8A%E7%84%9A%E6%AF%80-%E6%B6%88%E9%98%B2%E6%95%91%E7%86%84%E8%AA%BF%E6%9F%A5%E6%9C%89%E5%8F%AF%E7%96%91-%E8%AD%A6%E7%B7%9D%E5%85%A9%E7%94%B7%E7%96%91%E6%93%B2%E6%98%93%E7%87%83%E7%89%A9",
     "timestamp": "2026-05-03T16:26:03.643Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "珍惜生命｜葵興邨女子上吊　朋友揭發惜太遲",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20251017/1055812912913977344861752.jpeg/TdySJRSsPNt9LwvayHOeJpcjHKL--wKEPbOg5hizoOY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60346254/%E7%8F%8D%E6%83%9C%E7%94%9F%E5%91%BD-%E8%91%B5%E8%88%88%E9%82%A8%E5%A5%B3%E5%AD%90%E4%B8%8A%E5%90%8A-%E6%9C%8B%E5%8F%8B%E6%8F%AD%E7%99%BC%E6%83%9C%E5%A4%AA%E9%81%B2",
-    "timestamp": "2026-05-03T14:53:49.398Z",
     "strategy": ".content-card__main"
   }
 ];
