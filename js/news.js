@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-04T10:52:34.541Z
+// Last updated: 2026-05-04T13:00:06.057Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "東陽光藥甘精胰島素獲FDA批准上市　為國產胰島素首進入美國市場",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260504/1128026925567053824304798.jpeg/Hp4u7jYSVbibAyF01L8bbod5AUgHPAqaidgoo4nYKKM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60346488/%E6%9D%B1%E9%99%BD%E5%85%89%E8%97%A5%E7%94%98%E7%B2%BE%E8%83%B0%E5%B3%B6%E7%B4%A0%E7%8D%B2fda%E6%89%B9%E5%87%86%E4%B8%8A%E5%B8%82-%E7%82%BA%E5%9C%8B%E7%94%A2%E8%83%B0%E5%B3%B6%E7%B4%A0%E9%A6%96%E9%80%B2%E5%85%A5%E7%BE%8E%E5%9C%8B%E5%B8%82%E5%A0%B4",
+    "timestamp": "2026-05-04T13:00:06.057Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "港交所未來數月重啟黃金期貨　將優化合約及機制",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20251017/1055812912913977344861752.jpeg/TdySJRSsPNt9LwvayHOeJpcjHKL--wKEPbOg5hizoOY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60346254/%E7%8F%8D%E6%83%9C%E7%94%9F%E5%91%BD-%E8%91%B5%E8%88%88%E9%82%A8%E5%A5%B3%E5%AD%90%E4%B8%8A%E5%90%8A-%E6%9C%8B%E5%8F%8B%E6%8F%AD%E7%99%BC%E6%83%9C%E5%A4%AA%E9%81%B2",
     "timestamp": "2026-05-03T14:53:49.398Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "李盛林牧師離世｜阿Mo兄長：父以血肉之軀建堤壩助家人擋洪水",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260503/1127724203496181760086321.jpeg/vA1zQ0z5ah0xHYdHrJwOCtkZTa8XRJjti-Zujovmbo4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60346242/%E6%9D%8E%E7%9B%9B%E6%9E%97%E7%89%A7%E5%B8%AB%E9%9B%A2%E4%B8%96-%E9%98%BFmo%E5%85%84%E9%95%B7-%E7%88%B6%E4%BB%A5%E8%A1%80%E8%82%89%E4%B9%8B%E8%BB%80%E5%BB%BA%E5%A0%A4%E5%A3%A9%E5%8A%A9%E5%AE%B6%E4%BA%BA%E6%93%8B%E6%B4%AA%E6%B0%B4",
-    "timestamp": "2026-05-03T14:28:57.920Z",
     "strategy": ".content-card__main"
   }
 ];
