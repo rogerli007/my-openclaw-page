@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-04T02:50:45.891Z
+// Last updated: 2026-05-04T05:48:09.394Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "港珠澳口岸私家車奪命車禍｜夫婦被困　妻傷重不治　夫涉危駕被捕",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260504/1127843552051597312169732.jpeg/Awrj7Llfxgs21c6FAg5k0VUmHjOG8d7LpCN4roEjeK4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60346382/%E6%B8%AF%E7%8F%A0%E6%BE%B3%E5%8F%A3%E5%B2%B8%E7%A7%81%E5%AE%B6%E8%BB%8A%E5%A5%AA%E5%91%BD%E8%BB%8A%E7%A6%8D-%E5%A4%AB%E5%A9%A6%E8%A2%AB%E5%9B%B0-%E5%A6%BB%E5%82%B7%E9%87%8D%E4%B8%8D%E6%B2%BB-%E5%A4%AB%E6%B6%89%E5%8D%B1%E9%A7%95%E8%A2%AB%E6%8D%95",
+    "timestamp": "2026-05-04T05:48:09.394Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "觀塘男子跌傷頭昏迷　救援人員到場證不治",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260503/1127639668595101696943275.jpeg/pI4kjIOf5pTkUZjVqskIvkbP-PNmg6XlyyKPNcsijzU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60346167/%E9%87%8D%E6%A1%88%E8%A7%A3%E5%AF%86-%E8%8B%97%E5%83%91%E5%81%89%E5%B2%91%E9%BA%97%E9%A6%99%E6%94%9C%E6%89%8B%E7%A0%B4%E5%85%AB%E5%A4%A7%E5%A5%87%E6%A1%88-%E9%9D%88%E6%84%9F%E4%BE%86%E8%87%AA%E7%9C%9F%E5%AF%A6%E6%95%85%E4%BA%8B",
     "timestamp": "2026-05-03T12:04:43.451Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "珍惜生命｜鴨脷洲邨女子墮樓　昏迷送院不治",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/5348646/org/e655b9eab57f6c43a273aa688baf742d.jpg/39L4KSgFP-cLRi4Cufa33HLeEZVo-sQ2K2mHCitphwo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60346219/%E7%8F%8D%E6%83%9C%E7%94%9F%E5%91%BD-%E9%B4%A8%E8%84%B7%E6%B4%B2%E9%82%A8%E5%A5%B3%E5%AD%90%E5%A2%AE%E6%A8%93-%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2%E4%B8%8D%E6%B2%BB",
-    "timestamp": "2026-05-03T11:35:30.575Z",
     "strategy": ".content-card__main"
   }
 ];
