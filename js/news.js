@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-04T05:48:09.394Z
+// Last updated: 2026-05-04T07:52:17.168Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "英皇群星演唱會｜長遮須放場外體育園儲物架　宜帶「縮骨遮」入場",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260504/1127994784355454976827540.jpeg/LoX4Zk1pivgd69ltQOboo18OvsCMNIBHBRQLFSAUCxU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60346415/%E8%8B%B1%E7%9A%87%E7%BE%A4%E6%98%9F%E6%BC%94%E5%94%B1%E6%9C%83-%E9%95%B7%E9%81%AE%E9%A0%88%E6%94%BE%E5%A0%B4%E5%A4%96%E9%AB%94%E8%82%B2%E5%9C%92%E5%84%B2%E7%89%A9%E6%9E%B6-%E5%AE%9C%E5%B8%B6-%E7%B8%AE%E9%AA%A8%E9%81%AE-%E5%85%A5%E5%A0%B4",
+    "timestamp": "2026-05-04T07:52:17.168Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "港珠澳口岸私家車奪命車禍｜夫婦被困　妻傷重不治　夫涉危駕被捕",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260503/1127704846078578688483760.jpeg/CsT0Kp6DMRM9Zysw30OlGtsGOfxJyUcQXXWj5F11o-Q?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60346230/%E4%BA%94%E4%B8%80-%E6%97%85%E5%AE%A2%E9%BB%83%E9%9B%A8%E4%B9%9D%E9%BE%8D%E5%85%AC%E5%9C%92%E7%B4%AB%E8%89%B2%E7%9A%84%E5%99%B4%E6%B3%89%E6%89%93%E5%8D%A1-%E6%B7%B1%E5%9C%B3%E5%AE%A2-%E4%BB%A5%E7%82%BA%E6%B1%A0%E6%B0%B4%E4%B9%9F%E7%B4%AB%E8%89%B2",
     "timestamp": "2026-05-03T13:15:29.720Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "重案解密｜苗僑偉岑麗香攜手破八大奇案　靈感來自真實故事",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260503/1127639668595101696943275.jpeg/pI4kjIOf5pTkUZjVqskIvkbP-PNmg6XlyyKPNcsijzU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60346167/%E9%87%8D%E6%A1%88%E8%A7%A3%E5%AF%86-%E8%8B%97%E5%83%91%E5%81%89%E5%B2%91%E9%BA%97%E9%A6%99%E6%94%9C%E6%89%8B%E7%A0%B4%E5%85%AB%E5%A4%A7%E5%A5%87%E6%A1%88-%E9%9D%88%E6%84%9F%E4%BE%86%E8%87%AA%E7%9C%9F%E5%AF%A6%E6%95%85%E4%BA%8B",
-    "timestamp": "2026-05-03T12:04:43.451Z",
     "strategy": ".content-card__main"
   }
 ];
