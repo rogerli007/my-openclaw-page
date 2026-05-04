@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-04T14:38:13.490Z
+// Last updated: 2026-05-04T15:32:54.288Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "加密貨幣公司World Liberty Financial反控孫宇晨誹謗",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20230323/715452754973167616490621.jpeg/sCNC5a_i0gHdDRniE-8E2wMt2L6H1k96G_YhShv2IUo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60346551/%E5%8A%A0%E5%AF%86%E8%B2%A8%E5%B9%A3%E5%85%AC%E5%8F%B8world-liberty-financial%E5%8F%8D%E6%8E%A7%E5%AD%AB%E5%AE%87%E6%99%A8%E8%AA%B9%E8%AC%97",
+    "timestamp": "2026-05-04T15:32:54.288Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "TVB收視｜《正義女神》大結局奪冠　《試真D》成績不似預期",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260504/1127770169750327296908534.png/Uspi_7OZjRgSODhAYTH0tSrau4s9XfCN8uU4M_LlODM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60346270/%E5%80%AB%E6%95%A6%E5%8D%97%E9%83%A8%E7%99%BC%E7%94%9F-%E7%84%A1%E5%B7%AE%E5%88%A5-%E6%A7%8D%E6%93%8A%E6%A1%88-4%E5%90%8D%E5%82%B7%E8%80%85%E4%B8%80%E4%BA%BA%E5%91%BD%E5%8D%B1",
     "timestamp": "2026-05-03T17:26:02.892Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "粉嶺停車場兩貨車焚毀　消防救熄調查有可疑　警緝兩男疑擲易燃物",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20230116/691764302884900864140537.jpeg/YesGd_Gx8eOetGU6GkjpX3hHBGSjYx0hPdEOzD3RDsw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60346267/%E7%B2%89%E5%B6%BA%E5%81%9C%E8%BB%8A%E5%A0%B4%E5%85%A9%E8%B2%A8%E8%BB%8A%E7%84%9A%E6%AF%80-%E6%B6%88%E9%98%B2%E6%95%91%E7%86%84%E8%AA%BF%E6%9F%A5%E6%9C%89%E5%8F%AF%E7%96%91-%E8%AD%A6%E7%B7%9D%E5%85%A9%E7%94%B7%E7%96%91%E6%93%B2%E6%98%93%E7%87%83%E7%89%A9",
-    "timestamp": "2026-05-03T16:26:03.643Z",
     "strategy": ".content-card__main"
   }
 ];
