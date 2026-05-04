@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-04T21:55:17.279Z
+// Last updated: 2026-05-04T22:30:44.096Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "立夏天氣｜今日稍涼最高23度　間中有驟雨　初時局部地區有雷暴",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260505/1128214230554644480502867.jpeg/KODcumx6wCy-ZADszFtY8-lx8J86DlI5Rmqik0ZqopM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60346568/%E7%AB%8B%E5%A4%8F%E5%A4%A9%E6%B0%A3-%E4%BB%8A%E6%97%A5%E7%A8%8D%E6%B6%BC%E6%9C%80%E9%AB%9823%E5%BA%A6-%E9%96%93%E4%B8%AD%E6%9C%89%E9%A9%9F%E9%9B%A8-%E5%88%9D%E6%99%82%E5%B1%80%E9%83%A8%E5%9C%B0%E5%8D%80%E6%9C%89%E9%9B%B7%E6%9A%B4",
+    "timestamp": "2026-05-04T22:30:44.096Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "特朗普稱期待與習近平會面　貝森特指中美元首將討論霍爾木茲問題",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260504/1127819020775460864578143.jpeg/gEm-RR6wrjen8dyRLQ6f5TnkyMUTG37F8fkzt9T5M7c?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60346284/%E9%A7%95%E8%BB%8A%E5%BE%80%E5%A5%B3%E5%8F%8B%E6%B2%99%E7%94%B0%E5%AF%93%E6%89%80%E7%AE%8D%E7%85%B2-%E6%92%BC%E8%B7%AF%E7%89%8C%E5%92%AA%E9%8C%B6%E7%BF%BB%E5%81%B4-%E7%94%B7%E5%8F%B8%E6%A9%9F%E6%B6%89%E9%86%89%E9%A7%95%E9%8C%84%E9%80%BE%E7%99%BE%E5%BA%A6",
     "timestamp": "2026-05-03T20:52:53.236Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "駕車往女友沙田寓所箍煲　撼路牌咪錶翻側　男司機涉醉駕錄逾百度",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260504/1127819020775460864578143.jpeg/gEm-RR6wrjen8dyRLQ6f5TnkyMUTG37F8fkzt9T5M7c?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60346284/%E9%A7%95%E8%BB%8A%E5%BE%80%E5%A5%B3%E5%8F%8B%E6%B2%99%E7%94%B0%E5%AF%93%E6%89%80%E7%AE%8D%E7%85%B2-%E6%92%BC%E8%B7%AF%E7%89%8C%E5%92%AA%E9%8C%B6%E7%BF%BB%E5%81%B4-%E7%94%B7%E5%8F%B8%E6%A9%9F%E6%B6%89%E9%86%89%E9%A7%95%E9%8C%84%E9%80%BE%E7%99%BE%E5%BA%A6",
-    "timestamp": "2026-05-03T20:23:08.486Z",
     "strategy": ".content-card__main"
   }
 ];
