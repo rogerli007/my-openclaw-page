@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-04T16:19:44.615Z
+// Last updated: 2026-05-04T18:16:45.923Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "俄媒：普京決定5.8及5.9對烏克蘭停火　紀念衛國戰爭勝利日",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260410/1119127392879644672174823.jpeg/zcTgGn5AwP9S_ZxoU4FcMc8XKSXJ-1kcpz0556c9Oec?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60346571/%E4%BF%84%E5%AA%92-%E6%99%AE%E4%BA%AC%E6%B1%BA%E5%AE%9A5-8%E5%8F%8A5-9%E5%B0%8D%E7%83%8F%E5%85%8B%E8%98%AD%E5%81%9C%E7%81%AB-%E7%B4%80%E5%BF%B5%E8%A1%9B%E5%9C%8B%E6%88%B0%E7%88%AD%E5%8B%9D%E5%88%A9%E6%97%A5",
+    "timestamp": "2026-05-04T18:16:45.923Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "保時捷駕駛中心2026珠海直擊｜駕馭911 GT3到純電Macan全高性能車",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260504/1127785589408534528923160.jpeg/xUAm0GBVkixSqunkdtWkv9EVSWcGIdSiNbPytDWz8rQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60346228/%E5%91%A8%E6%AE%B7%E5%BB%B7%E5%94%94%E5%B8%8C%E6%9C%9B%E5%BD%B1%E9%9F%BF%E5%A5%B3%E5%8F%8B%E8%88%87%E5%B0%8F%E6%9C%8B%E5%8F%8B-%E6%A2%81%E8%A9%A0%E7%90%AA%E7%B0%BD%E5%90%8Dcd%E8%A2%AB%E6%94%BE%E5%94%AE%E5%90%A6%E8%AA%8D%E8%87%AA%E5%B7%B1%E8%B3%A3",
     "timestamp": "2026-05-03T19:31:41.117Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "周殷廷唔希望影響女友與小朋友　梁詠琪簽名CD被放售否認自己賣",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260504/1127785589408534528923160.jpeg/xUAm0GBVkixSqunkdtWkv9EVSWcGIdSiNbPytDWz8rQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60346228/%E5%91%A8%E6%AE%B7%E5%BB%B7%E5%94%94%E5%B8%8C%E6%9C%9B%E5%BD%B1%E9%9F%BF%E5%A5%B3%E5%8F%8B%E8%88%87%E5%B0%8F%E6%9C%8B%E5%8F%8B-%E6%A2%81%E8%A9%A0%E7%90%AA%E7%B0%BD%E5%90%8Dcd%E8%A2%AB%E6%94%BE%E5%94%AE%E5%90%A6%E8%AA%8D%E8%87%AA%E5%B7%B1%E8%B3%A3",
-    "timestamp": "2026-05-03T18:54:46.903Z",
     "strategy": ".content-card__main"
   }
 ];
