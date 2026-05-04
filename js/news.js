@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-04T18:16:45.923Z
+// Last updated: 2026-05-04T18:57:10.443Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "警將軍澳掃毒拘69歲男子　起獲340萬元可卡因及包裝工具",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260505/1128164738056851456078932.jpeg/EacXFv9T6j0TWLjb2itP2wYYl-MWPeCvSnRGBkp0RgY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60346574/%E8%AD%A6%E5%B0%87%E8%BB%8D%E6%BE%B3%E6%8E%83%E6%AF%92%E6%8B%9869%E6%AD%B2%E7%94%B7%E5%AD%90-%E8%B5%B7%E7%8D%B2340%E8%90%AC%E5%85%83%E5%8F%AF%E5%8D%A1%E5%9B%A0%E5%8F%8A%E5%8C%85%E8%A3%9D%E5%B7%A5%E5%85%B7",
+    "timestamp": "2026-05-04T18:57:10.443Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "俄媒：普京決定5.8及5.9對烏克蘭停火　紀念衛國戰爭勝利日",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260504/1127785589408534528923160.jpeg/xUAm0GBVkixSqunkdtWkv9EVSWcGIdSiNbPytDWz8rQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60346228/%E5%91%A8%E6%AE%B7%E5%BB%B7%E5%94%94%E5%B8%8C%E6%9C%9B%E5%BD%B1%E9%9F%BF%E5%A5%B3%E5%8F%8B%E8%88%87%E5%B0%8F%E6%9C%8B%E5%8F%8B-%E6%A2%81%E8%A9%A0%E7%90%AA%E7%B0%BD%E5%90%8Dcd%E8%A2%AB%E6%94%BE%E5%94%AE%E5%90%A6%E8%AA%8D%E8%87%AA%E5%B7%B1%E8%B3%A3",
     "timestamp": "2026-05-03T19:56:34.027Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "周殷廷唔希望影響女友與小朋友　梁詠琪簽名CD被放售否認自己賣",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260504/1127785589408534528923160.jpeg/xUAm0GBVkixSqunkdtWkv9EVSWcGIdSiNbPytDWz8rQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60346228/%E5%91%A8%E6%AE%B7%E5%BB%B7%E5%94%94%E5%B8%8C%E6%9C%9B%E5%BD%B1%E9%9F%BF%E5%A5%B3%E5%8F%8B%E8%88%87%E5%B0%8F%E6%9C%8B%E5%8F%8B-%E6%A2%81%E8%A9%A0%E7%90%AA%E7%B0%BD%E5%90%8Dcd%E8%A2%AB%E6%94%BE%E5%94%AE%E5%90%A6%E8%AA%8D%E8%87%AA%E5%B7%B1%E8%B3%A3",
-    "timestamp": "2026-05-03T19:31:41.117Z",
     "strategy": ".content-card__main"
   }
 ];
