@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-03T23:53:12.768Z
+// Last updated: 2026-05-04T01:01:32.314Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "黃冰芬｜接力棒，你接不接？——寫在五四青年節",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260504/1127886159288995840684730.jpeg/cYDltlkFA-AF7TdRQtf6IefDhqRroamvDqx5YQ6seWE?v=w1920r16_9",
+    "url": "https://www.hk01.com/01%E8%AB%96%E5%A3%87/60346291/%E9%BB%83%E5%86%B0%E8%8A%AC-%E6%8E%A5%E5%8A%9B%E6%A3%92-%E4%BD%A0%E6%8E%A5%E4%B8%8D%E6%8E%A5-%E5%AF%AB%E5%9C%A8%E4%BA%94%E5%9B%9B%E9%9D%92%E5%B9%B4%E7%AF%80",
+    "timestamp": "2026-05-04T01:01:32.314Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "特朗普：美國4日起展開行動　助滯留霍爾木茲海峽船舶駛離",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250206/964261391655505920809326.jpeg/twwah-KfKvX-SeJ9s2WTgPH-dxT2_WBNSuOvN0rjrzc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60346183/%E6%B7%B1%E5%9C%B3%E6%A8%93%E5%B8%82%E9%AC%86%E9%99%90%E8%B3%BC-%E6%A5%AD%E8%80%85-%E9%A6%99%E6%B8%AF%E9%9D%A0%E9%AB%98%E7%A7%9F%E5%94%AE%E6%AF%94%E6%90%B6%E5%AE%A2-%E6%9D%AD%E5%B7%9Eai%E5%A4%A7%E4%BD%AC%E6%B9%A7%E5%85%A5%E8%B2%B7%E6%A8%93",
     "timestamp": "2026-05-03T11:10:27.759Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "真主黨領袖遭影射為「憤怒鳥」　組織批黎巴嫩電視台侮辱｜有片",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260503/1127660803214807040704518.jpeg/07PliExhKYoWgtLMbAD1A8aKfz8H-OWQjnhPn454T58?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60346185/%E7%9C%9F%E4%B8%BB%E9%BB%A8%E9%A0%98%E8%A2%96%E9%81%AD%E5%BD%B1%E5%B0%84%E7%82%BA-%E6%86%A4%E6%80%92%E9%B3%A5-%E7%B5%84%E7%B9%94%E6%89%B9%E9%BB%8E%E5%B7%B4%E5%AB%A9%E9%9B%BB%E8%A6%96%E5%8F%B0%E4%BE%AE%E8%BE%B1-%E6%9C%89%E7%89%87",
-    "timestamp": "2026-05-03T10:40:10.509Z",
     "strategy": ".content-card__main"
   }
 ];
