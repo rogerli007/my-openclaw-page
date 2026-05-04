@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-04T07:52:17.168Z
+// Last updated: 2026-05-04T10:52:34.541Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "港交所未來數月重啟黃金期貨　將優化合約及機制",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20251218/1078309514563817472405129.jpeg/pgG-0yz-hEJA25KWmI2LzPm6VtW8H6Usjpr8mY6a_Jk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60346496/%E6%B8%AF%E4%BA%A4%E6%89%80%E6%9C%AA%E4%BE%86%E6%95%B8%E6%9C%88%E9%87%8D%E5%95%9F%E9%BB%83%E9%87%91%E6%9C%9F%E8%B2%A8-%E5%B0%87%E5%84%AA%E5%8C%96%E5%90%88%E7%B4%84%E5%8F%8A%E6%A9%9F%E5%88%B6",
+    "timestamp": "2026-05-04T10:52:34.541Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "英皇群星演唱會｜長遮須放場外體育園儲物架　宜帶「縮骨遮」入場",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260503/1127724203496181760086321.jpeg/vA1zQ0z5ah0xHYdHrJwOCtkZTa8XRJjti-Zujovmbo4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60346242/%E6%9D%8E%E7%9B%9B%E6%9E%97%E7%89%A7%E5%B8%AB%E9%9B%A2%E4%B8%96-%E9%98%BFmo%E5%85%84%E9%95%B7-%E7%88%B6%E4%BB%A5%E8%A1%80%E8%82%89%E4%B9%8B%E8%BB%80%E5%BB%BA%E5%A0%A4%E5%A3%A9%E5%8A%A9%E5%AE%B6%E4%BA%BA%E6%93%8B%E6%B4%AA%E6%B0%B4",
     "timestamp": "2026-05-03T14:28:57.920Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "五一｜旅客黃雨九龍公園紫色的噴泉打卡　深圳客：以為池水也紫色",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260503/1127704846078578688483760.jpeg/CsT0Kp6DMRM9Zysw30OlGtsGOfxJyUcQXXWj5F11o-Q?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60346230/%E4%BA%94%E4%B8%80-%E6%97%85%E5%AE%A2%E9%BB%83%E9%9B%A8%E4%B9%9D%E9%BE%8D%E5%85%AC%E5%9C%92%E7%B4%AB%E8%89%B2%E7%9A%84%E5%99%B4%E6%B3%89%E6%89%93%E5%8D%A1-%E6%B7%B1%E5%9C%B3%E5%AE%A2-%E4%BB%A5%E7%82%BA%E6%B1%A0%E6%B0%B4%E4%B9%9F%E7%B4%AB%E8%89%B2",
-    "timestamp": "2026-05-03T13:15:29.720Z",
     "strategy": ".content-card__main"
   }
 ];
