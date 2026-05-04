@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-04T22:55:48.223Z
+// Last updated: 2026-05-04T23:28:33.332Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "2華人男網紅泰國被捕！擁60萬粉絲　豪宅開性愛毒P拍色情片夜裸跑",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260504/1128009792334336000910834.png/Kmnne4Ks1tBWzQIjXcQW5MH0caIcmQqsC4vMjwuLzI8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E8%A9%B1%E9%A1%8C/60345421/2%E4%B8%AD%E5%9C%8B%E7%94%B7%E7%B6%B2%E7%B4%85%E6%B3%B0%E5%9C%8B%E8%A2%AB%E6%8D%95-%E6%93%8160%E8%90%AC%E7%B2%89%E7%B5%B2-%E8%B1%AA%E5%AE%85%E9%96%8B%E6%80%A7%E6%84%9B%E6%AF%92p%E6%8B%8D%E8%89%B2%E6%83%85%E7%89%87%E5%A4%9C%E8%A3%B8%E8%B7%91",
+    "timestamp": "2026-05-04T23:28:33.332Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "校長灼見｜以探究式學習及人工智能素養發展學生科學探究精神",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260504/1127843552051597312169732.jpeg/Awrj7Llfxgs21c6FAg5k0VUmHjOG8d7LpCN4roEjeK4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60346287/%E6%B8%AF%E7%8F%A0%E6%BE%B3%E5%A4%A7%E6%A9%8B%E5%8F%A3%E5%B2%B8%E7%A7%81%E5%AE%B6%E8%BB%8A%E7%BF%BB%E5%81%B4-%E5%A5%B3%E4%B9%98%E5%AE%A2%E6%BB%BF%E9%9D%A2%E9%AE%AE%E8%A1%80%E8%A2%AB%E5%9B%B0%E6%98%8F%E8%BF%B7-%E5%BF%83%E5%A4%96%E5%A3%93%E9%80%81%E9%99%A2",
     "timestamp": "2026-05-03T21:52:13.175Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "大西洋一艘遊輪疑爆發漢坦病毒　3人死亡　另3人染疫",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260504/1127832921449697280713264.png/ailbCgram6QYBxSoNp1WLItcTWTJIY53ODWhBzg1oQc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60346285/%E5%A4%A7%E8%A5%BF%E6%B4%8B%E4%B8%80%E8%89%98%E9%81%8A%E8%BC%AA%E7%96%91%E7%88%86%E7%99%BC%E6%BC%A2%E5%9D%A6%E7%97%85%E6%AF%92-3%E4%BA%BA%E6%AD%BB%E4%BA%A1-%E5%8F%A63%E4%BA%BA%E6%9F%93%E7%96%AB",
-    "timestamp": "2026-05-03T21:24:41.723Z",
     "strategy": ".content-card__main"
   }
 ];
