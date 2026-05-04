@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-04T18:57:10.443Z
+// Last updated: 2026-05-04T21:55:17.279Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "特朗普稱期待與習近平會面　貝森特指中美元首將討論霍爾木茲問題",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260505/1128205227590160384163082.jpeg/jU1fp3BpC_i9yzuoM1p1EYavZpVrB1KdR-piK0fqYis?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60346580/%E7%89%B9%E6%9C%97%E6%99%AE%E7%A8%B1%E6%9C%9F%E5%BE%85%E8%88%87%E7%BF%92%E8%BF%91%E5%B9%B3%E6%9C%83%E9%9D%A2-%E8%B2%9D%E6%A3%AE%E7%89%B9%E6%8C%87%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E5%B0%87%E8%A8%8E%E8%AB%96%E9%9C%8D%E7%88%BE%E6%9C%A8%E8%8C%B2%E5%95%8F%E9%A1%8C",
+    "timestamp": "2026-05-04T21:55:17.279Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "警將軍澳掃毒拘69歲男子　起獲340萬元可卡因及包裝工具",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260504/1127819020775460864578143.jpeg/gEm-RR6wrjen8dyRLQ6f5TnkyMUTG37F8fkzt9T5M7c?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60346284/%E9%A7%95%E8%BB%8A%E5%BE%80%E5%A5%B3%E5%8F%8B%E6%B2%99%E7%94%B0%E5%AF%93%E6%89%80%E7%AE%8D%E7%85%B2-%E6%92%BC%E8%B7%AF%E7%89%8C%E5%92%AA%E9%8C%B6%E7%BF%BB%E5%81%B4-%E7%94%B7%E5%8F%B8%E6%A9%9F%E6%B6%89%E9%86%89%E9%A7%95%E9%8C%84%E9%80%BE%E7%99%BE%E5%BA%A6",
     "timestamp": "2026-05-03T20:23:08.486Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "周殷廷唔希望影響女友與小朋友　梁詠琪簽名CD被放售否認自己賣",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260504/1127785589408534528923160.jpeg/xUAm0GBVkixSqunkdtWkv9EVSWcGIdSiNbPytDWz8rQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60346228/%E5%91%A8%E6%AE%B7%E5%BB%B7%E5%94%94%E5%B8%8C%E6%9C%9B%E5%BD%B1%E9%9F%BF%E5%A5%B3%E5%8F%8B%E8%88%87%E5%B0%8F%E6%9C%8B%E5%8F%8B-%E6%A2%81%E8%A9%A0%E7%90%AA%E7%B0%BD%E5%90%8Dcd%E8%A2%AB%E6%94%BE%E5%94%AE%E5%90%A6%E8%AA%8D%E8%87%AA%E5%B7%B1%E8%B3%A3",
-    "timestamp": "2026-05-03T19:56:34.027Z",
     "strategy": ".content-card__main"
   }
 ];
