@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-04T23:28:33.332Z
+// Last updated: 2026-05-04T23:54:09.620Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "八鄉錦上路小巴撞男子　傷者昏迷送院",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260505/1128239053297160192576409.jpeg/hRuKp4vS1vUvci9lwDLe5W7VQzPWMQxPu9BTprvQU6Y?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60346584/%E5%85%AB%E9%84%89%E9%8C%A6%E4%B8%8A%E8%B7%AF%E5%B0%8F%E5%B7%B4%E6%92%9E%E7%94%B7%E5%AD%90-%E5%82%B7%E8%80%85%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2",
+    "timestamp": "2026-05-04T23:54:09.620Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "2華人男網紅泰國被捕！擁60萬粉絲　豪宅開性愛毒P拍色情片夜裸跑",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260504/1127850992092712960408163.jpeg/78vyLr44DTU0CgFth2W_2xgA_aoO64hcavhCSGr4Qkg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60346274/%E5%A4%A9%E6%B0%A3-%E4%BB%8A%E6%97%A5%E7%A8%8D%E6%B6%BC%E6%9C%80%E4%BD%8E21%E5%BA%A6-%E7%A8%8D%E5%BE%8C%E9%9B%A8%E5%8B%A2%E8%BC%83%E9%A0%BB%E5%AF%86-%E5%B1%80%E9%83%A8%E5%9C%B0%E5%B1%80%E6%9C%89%E9%9B%B7%E6%9A%B4",
     "timestamp": "2026-05-03T22:23:08.993Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "港珠澳大橋口岸私家車翻側　女乘客滿面鮮血被困昏迷　心外壓送院",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260504/1127843552051597312169732.jpeg/Awrj7Llfxgs21c6FAg5k0VUmHjOG8d7LpCN4roEjeK4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60346287/%E6%B8%AF%E7%8F%A0%E6%BE%B3%E5%A4%A7%E6%A9%8B%E5%8F%A3%E5%B2%B8%E7%A7%81%E5%AE%B6%E8%BB%8A%E7%BF%BB%E5%81%B4-%E5%A5%B3%E4%B9%98%E5%AE%A2%E6%BB%BF%E9%9D%A2%E9%AE%AE%E8%A1%80%E8%A2%AB%E5%9B%B0%E6%98%8F%E8%BF%B7-%E5%BF%83%E5%A4%96%E5%A3%93%E9%80%81%E9%99%A2",
-    "timestamp": "2026-05-03T21:52:13.175Z",
     "strategy": ".content-card__main"
   }
 ];
