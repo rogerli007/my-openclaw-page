@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-04T01:01:32.314Z
+// Last updated: 2026-05-04T02:50:45.891Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "觀塘男子跌傷頭昏迷　救援人員到場證不治",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260504/1127902651669811200412068.jpeg/3ZTeEcbDRdVO1xmZ6JcuRR9yBt0TqW9baYmQeGmJkHg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60346322/%E8%A7%80%E5%A1%98%E7%94%B7%E5%AD%90%E8%B7%8C%E5%82%B7%E9%A0%AD%E6%98%8F%E8%BF%B7-%E6%95%91%E6%8F%B4%E4%BA%BA%E5%93%A1%E5%88%B0%E5%A0%B4%E8%AD%89%E4%B8%8D%E6%B2%BB",
+    "timestamp": "2026-05-04T02:50:45.891Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "黃冰芬｜接力棒，你接不接？——寫在五四青年節",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/5348646/org/e655b9eab57f6c43a273aa688baf742d.jpg/39L4KSgFP-cLRi4Cufa33HLeEZVo-sQ2K2mHCitphwo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60346219/%E7%8F%8D%E6%83%9C%E7%94%9F%E5%91%BD-%E9%B4%A8%E8%84%B7%E6%B4%B2%E9%82%A8%E5%A5%B3%E5%AD%90%E5%A2%AE%E6%A8%93-%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2%E4%B8%8D%E6%B2%BB",
     "timestamp": "2026-05-03T11:35:30.575Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "深圳樓市鬆限購　業者：香港靠高租售比搶客　杭州AI大佬湧入買樓",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250206/964261391655505920809326.jpeg/twwah-KfKvX-SeJ9s2WTgPH-dxT2_WBNSuOvN0rjrzc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60346183/%E6%B7%B1%E5%9C%B3%E6%A8%93%E5%B8%82%E9%AC%86%E9%99%90%E8%B3%BC-%E6%A5%AD%E8%80%85-%E9%A6%99%E6%B8%AF%E9%9D%A0%E9%AB%98%E7%A7%9F%E5%94%AE%E6%AF%94%E6%90%B6%E5%AE%A2-%E6%9D%AD%E5%B7%9Eai%E5%A4%A7%E4%BD%AC%E6%B9%A7%E5%85%A5%E8%B2%B7%E6%A8%93",
-    "timestamp": "2026-05-03T11:10:27.759Z",
     "strategy": ".content-card__main"
   }
 ];
