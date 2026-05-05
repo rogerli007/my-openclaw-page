@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-05T13:17:49.733Z
+// Last updated: 2026-05-05T15:48:01.877Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "寒戰1994｜揭開角色對照　楊樂文何啟華角色早在《寒戰2》出現",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260505/1128381513893679104792163.jpeg/burN4vrTvl5xSIZbOjd2Z8g2mYR0Qhek736XGO9-lxg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60346808/%E5%AF%92%E6%88%B01994-%E6%8F%AD%E9%96%8B%E8%A7%92%E8%89%B2%E5%B0%8D%E7%85%A7-%E6%A5%8A%E6%A8%82%E6%96%87%E4%BD%95%E5%95%9F%E8%8F%AF%E8%A7%92%E8%89%B2%E6%97%A9%E5%9C%A8-%E5%AF%92%E6%88%B02-%E5%87%BA%E7%8F%BE",
+    "timestamp": "2026-05-05T15:48:01.877Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "六合彩結果｜今期5.5頭獎800萬即時攪珠｜中獎號碼+派彩獎金",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20230323/715452754973167616490621.jpeg/sCNC5a_i0gHdDRniE-8E2wMt2L6H1k96G_YhShv2IUo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60346551/%E5%8A%A0%E5%AF%86%E8%B2%A8%E5%B9%A3%E5%85%AC%E5%8F%B8world-liberty-financial%E5%8F%8D%E6%8E%A7%E5%AD%AB%E5%AE%87%E6%99%A8%E8%AA%B9%E8%AC%97",
     "timestamp": "2026-05-04T15:32:54.288Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "TVB收視｜《正義女神》大結局奪冠　《試真D》成績不似預期",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260504/1128047056208793600617428.jpeg/uzJLRGo02rmqzjNZlrGlOQEMX9uBHuhh0qYjZdKmI2U?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60346518/tvb%E6%94%B6%E8%A6%96-%E6%AD%A3%E7%BE%A9%E5%A5%B3%E7%A5%9E-%E5%A4%A7%E7%B5%90%E5%B1%80%E5%A5%AA%E5%86%A0-%E8%A9%A6%E7%9C%9Fd-%E6%88%90%E7%B8%BE%E4%B8%8D%E4%BC%BC%E9%A0%90%E6%9C%9F",
-    "timestamp": "2026-05-04T14:38:13.490Z",
     "strategy": ".content-card__main"
   }
 ];
