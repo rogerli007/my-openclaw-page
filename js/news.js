@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-05T19:56:22.616Z
+// Last updated: 2026-05-05T21:14:21.983Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "歐聯4強｜阿仙奴時隔20年再闖決賽　兩回合2：1淘汰馬體會",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260506/1128557871517143040947852.jpeg/8L76RlfnF7nsC_et8GxaZBXP6B5IQHmjXhrhyF4a4cg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60346922/%E6%AD%90%E8%81%AF4%E5%BC%B7-%E9%98%BF%E4%BB%99%E5%A5%B4%E6%99%82%E9%9A%9420%E5%B9%B4%E5%86%8D%E9%97%96%E6%B1%BA%E8%B3%BD-%E5%85%A9%E5%9B%9E%E5%90%882-1%E6%B7%98%E6%B1%B0%E9%A6%AC%E9%AB%94%E6%9C%83",
+    "timestamp": "2026-05-05T21:14:21.983Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美國德州爆槍擊　韓國購物中心附近2死3傷　69歲疑犯被捕",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260430/1126563931557466112738965.jpeg/wn0crZwagEhzTM0R_g0_LnZ-daSQBdlgZny3ZGZ8t2Q?v=w1920r16_9",
     "url": "https://www.hk01.com/%E4%B8%AD%E5%B0%8F%E5%AD%B8%E6%A0%A1%E5%9C%92/60345122/%E6%A0%A1%E9%95%B7%E7%81%BC%E8%A6%8B-%E4%BB%A5%E6%8E%A2%E7%A9%B6%E5%BC%8F%E5%AD%B8%E7%BF%92%E5%8F%8A%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E7%B4%A0%E9%A4%8A%E7%99%BC%E5%B1%95%E5%AD%B8%E7%94%9F%E7%A7%91%E5%AD%B8%E6%8E%A2%E7%A9%B6%E7%B2%BE%E7%A5%9E",
     "timestamp": "2026-05-04T22:55:48.223Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "立夏天氣｜今日稍涼最高23度　間中有驟雨　初時局部地區有雷暴",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260505/1128214230554644480502867.jpeg/KODcumx6wCy-ZADszFtY8-lx8J86DlI5Rmqik0ZqopM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60346568/%E7%AB%8B%E5%A4%8F%E5%A4%A9%E6%B0%A3-%E4%BB%8A%E6%97%A5%E7%A8%8D%E6%B6%BC%E6%9C%80%E9%AB%9823%E5%BA%A6-%E9%96%93%E4%B8%AD%E6%9C%89%E9%A9%9F%E9%9B%A8-%E5%88%9D%E6%99%82%E5%B1%80%E9%83%A8%E5%9C%B0%E5%8D%80%E6%9C%89%E9%9B%B7%E6%9A%B4",
-    "timestamp": "2026-05-04T22:30:44.096Z",
     "strategy": ".content-card__main"
   }
 ];
