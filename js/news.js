@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-05T22:39:46.633Z
+// Last updated: 2026-05-05T23:11:43.628Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "Momax／LG新品登場｜磁吸小喇叭加強版+超薄定位器及纖巧淨化茶几",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260503/1127744841095057408562310.jpeg/kZ2lEt1sZF63NLcxsHG41Z_TcHrHVLHOg4cs1YOHLNU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60346234/momax-lg%E6%96%B0%E5%93%81%E7%99%BB%E5%A0%B4-%E7%A3%81%E5%90%B8%E5%B0%8F%E5%96%87%E5%8F%AD%E5%8A%A0%E5%BC%B7%E7%89%88-%E8%B6%85%E8%96%84%E5%AE%9A%E4%BD%8D%E5%99%A8%E5%8F%8A%E7%BA%96%E5%B7%A7%E6%B7%A8%E5%8C%96%E8%8C%B6%E5%87%A0",
+    "timestamp": "2026-05-05T23:11:43.628Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "袁偉豪賀母親71歲大壽　袁媽媽「防腐級」凍齡樣貌驚艷網民",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20251028/1059725389456609280708159.jpeg/oGJYxYRA9Cb0NIyHiZAgbpxUxINOW7cVBqdrCCOnawg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60346589/%E5%B1%AF%E9%96%80%E7%BF%A0%E6%BF%A4%E5%B1%85%E9%80%A3%E7%92%B0%E7%88%86%E7%AB%8A-%E5%85%A9%E5%96%AE%E4%BD%8D%E5%A4%B1%E9%80%BE50%E8%90%AC-%E5%8C%85%E6%8B%ACherm%C3%A8s-chanel%E7%AD%89%E6%89%8B%E8%A2%8B",
     "timestamp": "2026-05-05T00:56:34.421Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "八鄉錦上路小巴撞男子　傷者昏迷送院",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260505/1128239053297160192576409.jpeg/hRuKp4vS1vUvci9lwDLe5W7VQzPWMQxPu9BTprvQU6Y?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60346584/%E5%85%AB%E9%84%89%E9%8C%A6%E4%B8%8A%E8%B7%AF%E5%B0%8F%E5%B7%B4%E6%92%9E%E7%94%B7%E5%AD%90-%E5%82%B7%E8%80%85%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2",
-    "timestamp": "2026-05-04T23:54:09.620Z",
     "strategy": ".content-card__main"
   }
 ];
