@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-05T10:43:15.665Z
+// Last updated: 2026-05-05T11:17:46.917Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "AI 實戰轉型提升營運效能　行業領袖深度解構心得",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260505/1128410769851944960015869.jpeg/SS-wolHrW5x-GpkqDYYZ6R5Z_1jyAZerLH1fkCx9X5A?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60343483/ai-%E5%AF%A6%E6%88%B0%E8%BD%89%E5%9E%8B%E6%8F%90%E5%8D%87%E7%87%9F%E9%81%8B%E6%95%88%E8%83%BD-%E8%A1%8C%E6%A5%AD%E9%A0%98%E8%A2%96%E6%B7%B1%E5%BA%A6%E8%A7%A3%E6%A7%8B%E5%BF%83%E5%BE%97",
+    "timestamp": "2026-05-05T11:17:46.917Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "未來電力供應告急！新能源業界呼籲：港府必須主導電動車生態建設",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260504/1128026925567053824304798.jpeg/Hp4u7jYSVbibAyF01L8bbod5AUgHPAqaidgoo4nYKKM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60346488/%E6%9D%B1%E9%99%BD%E5%85%89%E8%97%A5%E7%94%98%E7%B2%BE%E8%83%B0%E5%B3%B6%E7%B4%A0%E7%8D%B2fda%E6%89%B9%E5%87%86%E4%B8%8A%E5%B8%82-%E7%82%BA%E5%9C%8B%E7%94%A2%E8%83%B0%E5%B3%B6%E7%B4%A0%E9%A6%96%E9%80%B2%E5%85%A5%E7%BE%8E%E5%9C%8B%E5%B8%82%E5%A0%B4",
     "timestamp": "2026-05-04T13:00:06.057Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "港交所未來數月重啟黃金期貨　將優化合約及機制",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20251218/1078309514563817472405129.jpeg/pgG-0yz-hEJA25KWmI2LzPm6VtW8H6Usjpr8mY6a_Jk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60346496/%E6%B8%AF%E4%BA%A4%E6%89%80%E6%9C%AA%E4%BE%86%E6%95%B8%E6%9C%88%E9%87%8D%E5%95%9F%E9%BB%83%E9%87%91%E6%9C%9F%E8%B2%A8-%E5%B0%87%E5%84%AA%E5%8C%96%E5%90%88%E7%B4%84%E5%8F%8A%E6%A9%9F%E5%88%B6",
-    "timestamp": "2026-05-04T10:52:34.541Z",
     "strategy": ".content-card__main"
   }
 ];
