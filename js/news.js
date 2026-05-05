@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-05T19:16:31.752Z
+// Last updated: 2026-05-05T19:56:22.616Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美國德州爆槍擊　韓國購物中心附近2死3傷　69歲疑犯被捕",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260506/1128535996753776640028143.png/2ZThA5ZJzLno6IvQ3148vir_XndksRtDtE_Uv7RP1L8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60346918/%E7%BE%8E%E5%9C%8B%E5%BE%B7%E5%B7%9E%E7%88%86%E6%A7%8D%E6%93%8A-%E9%9F%93%E5%9C%8B%E8%B3%BC%E7%89%A9%E4%B8%AD%E5%BF%83%E9%99%84%E8%BF%912%E6%AD%BB3%E5%82%B7-69%E6%AD%B2%E7%96%91%E7%8A%AF%E8%A2%AB%E6%8D%95",
+    "timestamp": "2026-05-05T19:56:22.616Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "阿聯酋再指遭來自伊朗方向無人機襲擊　伊朗軍方否認施襲",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260505/1128214230554644480502867.jpeg/KODcumx6wCy-ZADszFtY8-lx8J86DlI5Rmqik0ZqopM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60346568/%E7%AB%8B%E5%A4%8F%E5%A4%A9%E6%B0%A3-%E4%BB%8A%E6%97%A5%E7%A8%8D%E6%B6%BC%E6%9C%80%E9%AB%9823%E5%BA%A6-%E9%96%93%E4%B8%AD%E6%9C%89%E9%A9%9F%E9%9B%A8-%E5%88%9D%E6%99%82%E5%B1%80%E9%83%A8%E5%9C%B0%E5%8D%80%E6%9C%89%E9%9B%B7%E6%9A%B4",
     "timestamp": "2026-05-04T22:30:44.096Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普稱期待與習近平會面　貝森特指中美元首將討論霍爾木茲問題",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260505/1128205227590160384163082.jpeg/jU1fp3BpC_i9yzuoM1p1EYavZpVrB1KdR-piK0fqYis?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60346580/%E7%89%B9%E6%9C%97%E6%99%AE%E7%A8%B1%E6%9C%9F%E5%BE%85%E8%88%87%E7%BF%92%E8%BF%91%E5%B9%B3%E6%9C%83%E9%9D%A2-%E8%B2%9D%E6%A3%AE%E7%89%B9%E6%8C%87%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E5%B0%87%E8%A8%8E%E8%AB%96%E9%9C%8D%E7%88%BE%E6%9C%A8%E8%8C%B2%E5%95%8F%E9%A1%8C",
-    "timestamp": "2026-05-04T21:55:17.279Z",
     "strategy": ".content-card__main"
   }
 ];
