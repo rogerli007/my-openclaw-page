@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-05T09:01:08.927Z
+// Last updated: 2026-05-05T09:50:38.166Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "抗老飲食新發現！專家揭黃金3要素　飯+醋降血糖/炸雞加1物防老化",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260505/1128390048484429824215308.jpeg/qcgmKaEyqEnG42-CM-A9WT7opOlbrRYQEhxZ7xIcWe8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60346706/%E6%8A%97%E8%80%81%E9%A3%B2%E9%A3%9F%E6%96%B0%E7%99%BC%E7%8F%BE-%E5%B0%88%E5%AE%B6%E6%8F%AD%E9%BB%83%E9%87%913%E8%A6%81%E7%B4%A0-%E9%A3%AF-%E9%86%8B%E9%99%8D%E8%A1%80%E7%B3%96-%E7%82%B8%E9%9B%9E%E5%8A%A01%E7%89%A9%E9%98%B2%E8%80%81%E5%8C%96",
+    "timestamp": "2026-05-05T09:50:38.166Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "五一黃金周｜內地客五人兩晚住宿花費4千　稱早規劃應對高物價",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260504/1127994784355454976827540.jpeg/LoX4Zk1pivgd69ltQOboo18OvsCMNIBHBRQLFSAUCxU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60346415/%E8%8B%B1%E7%9A%87%E7%BE%A4%E6%98%9F%E6%BC%94%E5%94%B1%E6%9C%83-%E9%95%B7%E9%81%AE%E9%A0%88%E6%94%BE%E5%A0%B4%E5%A4%96%E9%AB%94%E8%82%B2%E5%9C%92%E5%84%B2%E7%89%A9%E6%9E%B6-%E5%AE%9C%E5%B8%B6-%E7%B8%AE%E9%AA%A8%E9%81%AE-%E5%85%A5%E5%A0%B4",
     "timestamp": "2026-05-04T07:52:17.168Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "港珠澳口岸私家車奪命車禍｜夫婦被困　妻傷重不治　夫涉危駕被捕",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260504/1127843552051597312169732.jpeg/Awrj7Llfxgs21c6FAg5k0VUmHjOG8d7LpCN4roEjeK4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60346382/%E6%B8%AF%E7%8F%A0%E6%BE%B3%E5%8F%A3%E5%B2%B8%E7%A7%81%E5%AE%B6%E8%BB%8A%E5%A5%AA%E5%91%BD%E8%BB%8A%E7%A6%8D-%E5%A4%AB%E5%A9%A6%E8%A2%AB%E5%9B%B0-%E5%A6%BB%E5%82%B7%E9%87%8D%E4%B8%8D%E6%B2%BB-%E5%A4%AB%E6%B6%89%E5%8D%B1%E9%A7%95%E8%A2%AB%E6%8D%95",
-    "timestamp": "2026-05-04T05:48:09.394Z",
     "strategy": ".content-card__main"
   }
 ];
