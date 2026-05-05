@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-04T23:54:09.620Z
+// Last updated: 2026-05-05T00:56:34.421Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "屯門翠濤居連環爆竊　兩單位失逾50萬　包括Hermès、CHANEL等手袋",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20251028/1059725389456609280708159.jpeg/oGJYxYRA9Cb0NIyHiZAgbpxUxINOW7cVBqdrCCOnawg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60346589/%E5%B1%AF%E9%96%80%E7%BF%A0%E6%BF%A4%E5%B1%85%E9%80%A3%E7%92%B0%E7%88%86%E7%AB%8A-%E5%85%A9%E5%96%AE%E4%BD%8D%E5%A4%B1%E9%80%BE50%E8%90%AC-%E5%8C%85%E6%8B%ACherm%C3%A8s-chanel%E7%AD%89%E6%89%8B%E8%A2%8B",
+    "timestamp": "2026-05-05T00:56:34.421Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "八鄉錦上路小巴撞男子　傷者昏迷送院",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260504/1127779367192104960179346.jpeg/Iusq-Jr193D3hQTMM_nXNWsb-mcwI8FemP2n25j9p9s?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60346266/gemini%E8%A8%82%E9%96%B1%E8%A8%88%E5%8A%83%E6%AF%94%E8%BC%83-ai-plus%E5%92%8Cai-pro%E5%AE%B6%E5%BA%AD%E5%85%B1%E4%BA%AB%E8%B6%85%E5%B9%B3%E6%94%B6%E8%B2%BB%E5%83%B9%E6%A0%BC-%E9%99%90%E5%88%B6",
     "timestamp": "2026-05-03T22:55:03.788Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "天氣｜今日稍涼最低21度　稍後雨勢較頻密　局部地局有雷暴",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260504/1127850992092712960408163.jpeg/78vyLr44DTU0CgFth2W_2xgA_aoO64hcavhCSGr4Qkg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60346274/%E5%A4%A9%E6%B0%A3-%E4%BB%8A%E6%97%A5%E7%A8%8D%E6%B6%BC%E6%9C%80%E4%BD%8E21%E5%BA%A6-%E7%A8%8D%E5%BE%8C%E9%9B%A8%E5%8B%A2%E8%BC%83%E9%A0%BB%E5%AF%86-%E5%B1%80%E9%83%A8%E5%9C%B0%E5%B1%80%E6%9C%89%E9%9B%B7%E6%9A%B4",
-    "timestamp": "2026-05-03T22:23:08.993Z",
     "strategy": ".content-card__main"
   }
 ];
