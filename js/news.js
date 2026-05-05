@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-05T04:02:13.005Z
+// Last updated: 2026-05-05T06:10:53.652Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "石硤尾邨32歲男子家中昏迷　送院搶救不治",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250829/1038113717776027648927184.jpeg/koxsHPa9JUt7qpSs0QRQ6S-OrAB8E_N6cFi36XBYt-k?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60346724/%E7%9F%B3%E7%A1%A4%E5%B0%BE%E9%82%A832%E6%AD%B2%E7%94%B7%E5%AD%90%E5%AE%B6%E4%B8%AD%E6%98%8F%E8%BF%B7-%E9%80%81%E9%99%A2%E6%90%B6%E6%95%91%E4%B8%8D%E6%B2%BB",
+    "timestamp": "2026-05-05T06:10:53.652Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "謝振中任新聞處長破AO壟斷　劉兆佳：政府工作趨多元應擴大人才庫",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260504/1127886159288995840684730.jpeg/cYDltlkFA-AF7TdRQtf6IefDhqRroamvDqx5YQ6seWE?v=w1920r16_9",
     "url": "https://www.hk01.com/01%E8%AB%96%E5%A3%87/60346291/%E9%BB%83%E5%86%B0%E8%8A%AC-%E6%8E%A5%E5%8A%9B%E6%A3%92-%E4%BD%A0%E6%8E%A5%E4%B8%8D%E6%8E%A5-%E5%AF%AB%E5%9C%A8%E4%BA%94%E5%9B%9B%E9%9D%92%E5%B9%B4%E7%AF%80",
     "timestamp": "2026-05-04T01:01:32.314Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普：美國4日起展開行動　助滯留霍爾木茲海峽船舶駛離",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260420/1122862339033403392216830.jpeg/98glKEvJ8iFmRQ9U1u9I58Y8YriMhZlAgn4zCIJ-Mwg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60346286/%E7%89%B9%E6%9C%97%E6%99%AE-%E7%BE%8E%E5%9C%8B4%E6%97%A5%E8%B5%B7%E5%B1%95%E9%96%8B%E8%A1%8C%E5%8B%95-%E5%8A%A9%E6%BB%AF%E7%95%99%E9%9C%8D%E7%88%BE%E6%9C%A8%E8%8C%B2%E6%B5%B7%E5%B3%BD%E8%88%B9%E8%88%B6%E9%A7%9B%E9%9B%A2",
-    "timestamp": "2026-05-03T23:53:12.768Z",
     "strategy": ".content-card__main"
   }
 ];
