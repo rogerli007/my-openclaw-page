@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-05T16:21:15.803Z
+// Last updated: 2026-05-05T17:08:49.918Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "紅磡4車串燒相撞　最後方司機涉醉駕被捕　被撞鐵騎士頭傷半昏迷",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260506/1128495513356734464381546.jpeg/wS9EW3bRpSDJw6jHYTjBivnjJnq8UJ6961SKydFUisk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60346905/%E7%B4%85%E7%A3%A14%E8%BB%8A%E4%B8%B2%E7%87%92%E7%9B%B8%E6%92%9E-%E6%9C%80%E5%BE%8C%E6%96%B9%E5%8F%B8%E6%A9%9F%E6%B6%89%E9%86%89%E9%A7%95%E8%A2%AB%E6%8D%95-%E8%A2%AB%E6%92%9E%E9%90%B5%E9%A8%8E%E5%A3%AB%E9%A0%AD%E5%82%B7%E5%8D%8A%E6%98%8F%E8%BF%B7",
+    "timestamp": "2026-05-05T17:08:49.918Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "天文台：4月繼續異常溫暖　平均25.5度歷年同期第二高",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260410/1119127392879644672174823.jpeg/zcTgGn5AwP9S_ZxoU4FcMc8XKSXJ-1kcpz0556c9Oec?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60346571/%E4%BF%84%E5%AA%92-%E6%99%AE%E4%BA%AC%E6%B1%BA%E5%AE%9A5-8%E5%8F%8A5-9%E5%B0%8D%E7%83%8F%E5%85%8B%E8%98%AD%E5%81%9C%E7%81%AB-%E7%B4%80%E5%BF%B5%E8%A1%9B%E5%9C%8B%E6%88%B0%E7%88%AD%E5%8B%9D%E5%88%A9%E6%97%A5",
     "timestamp": "2026-05-04T18:16:45.923Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "保時捷駕駛中心2026珠海直擊｜駕馭911 GT3到純電Macan全高性能車",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260428/1125594401209323520982401.jpeg/pLcGayBetrHkqIhrahfIwAHXhYVZQ8OVkiFBV5IhQVc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60339624/%E4%BF%9D%E6%99%82%E6%8D%B7%E9%A7%95%E9%A7%9B%E4%B8%AD%E5%BF%832026%E7%8F%A0%E6%B5%B7%E7%9B%B4%E6%93%8A-%E9%A7%95%E9%A6%AD911-gt3%E5%88%B0%E7%B4%94%E9%9B%BBmacan%E5%85%A8%E9%AB%98%E6%80%A7%E8%83%BD%E8%BB%8A",
-    "timestamp": "2026-05-04T16:19:44.615Z",
     "strategy": ".content-card__main"
   }
 ];
