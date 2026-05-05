@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-05T15:48:01.877Z
+// Last updated: 2026-05-05T16:21:15.803Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "天文台：4月繼續異常溫暖　平均25.5度歷年同期第二高",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260406/1117859875754479616492576.jpeg/FL9u1PznQzfmJQ9QwAn6t4xR93qCy20j0EBbospAW6I?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60346891/%E5%A4%A9%E6%96%87%E5%8F%B0-4%E6%9C%88%E7%B9%BC%E7%BA%8C%E7%95%B0%E5%B8%B8%E6%BA%AB%E6%9A%96-%E5%B9%B3%E5%9D%8725-5%E5%BA%A6%E6%AD%B7%E5%B9%B4%E5%90%8C%E6%9C%9F%E7%AC%AC%E4%BA%8C%E9%AB%98",
+    "timestamp": "2026-05-05T16:21:15.803Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "寒戰1994｜揭開角色對照　楊樂文何啟華角色早在《寒戰2》出現",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260428/1125594401209323520982401.jpeg/pLcGayBetrHkqIhrahfIwAHXhYVZQ8OVkiFBV5IhQVc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60339624/%E4%BF%9D%E6%99%82%E6%8D%B7%E9%A7%95%E9%A7%9B%E4%B8%AD%E5%BF%832026%E7%8F%A0%E6%B5%B7%E7%9B%B4%E6%93%8A-%E9%A7%95%E9%A6%AD911-gt3%E5%88%B0%E7%B4%94%E9%9B%BBmacan%E5%85%A8%E9%AB%98%E6%80%A7%E8%83%BD%E8%BB%8A",
     "timestamp": "2026-05-04T16:19:44.615Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "加密貨幣公司World Liberty Financial反控孫宇晨誹謗",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20230323/715452754973167616490621.jpeg/sCNC5a_i0gHdDRniE-8E2wMt2L6H1k96G_YhShv2IUo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60346551/%E5%8A%A0%E5%AF%86%E8%B2%A8%E5%B9%A3%E5%85%AC%E5%8F%B8world-liberty-financial%E5%8F%8D%E6%8E%A7%E5%AD%AB%E5%AE%87%E6%99%A8%E8%AA%B9%E8%AC%97",
-    "timestamp": "2026-05-04T15:32:54.288Z",
     "strategy": ".content-card__main"
   }
 ];
