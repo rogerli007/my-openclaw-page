@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-05T21:43:56.216Z
+// Last updated: 2026-05-05T22:39:46.633Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "袁偉豪賀母親71歲大壽　袁媽媽「防腐級」凍齡樣貌驚艷網民",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260505/1128459712765890560012479.jpeg/xZjqxS8IGV57Yit7o6kHj-1R2eImrkswPAlJDDwJSQw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60346791/%E8%A2%81%E5%81%89%E8%B1%AA%E8%B3%80%E6%AF%8D%E8%A6%AA71%E6%AD%B2%E5%A4%A7%E5%A3%BD-%E8%A2%81%E5%AA%BD%E5%AA%BD-%E9%98%B2%E8%85%90%E7%B4%9A-%E5%87%8D%E9%BD%A1%E6%A8%A3%E8%B2%8C%E9%A9%9A%E8%89%B7%E7%B6%B2%E6%B0%91",
+    "timestamp": "2026-05-05T22:39:46.633Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "漢坦病毒｜郵輪將靠岸西班牙加那利群岛　3名病患移送荷蘭救治",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260505/1128239053297160192576409.jpeg/hRuKp4vS1vUvci9lwDLe5W7VQzPWMQxPu9BTprvQU6Y?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60346584/%E5%85%AB%E9%84%89%E9%8C%A6%E4%B8%8A%E8%B7%AF%E5%B0%8F%E5%B7%B4%E6%92%9E%E7%94%B7%E5%AD%90-%E5%82%B7%E8%80%85%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2",
     "timestamp": "2026-05-04T23:54:09.620Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "2華人男網紅泰國被捕！擁60萬粉絲　豪宅開性愛毒P拍色情片夜裸跑",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260504/1128009792334336000910834.png/Kmnne4Ks1tBWzQIjXcQW5MH0caIcmQqsC4vMjwuLzI8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E8%A9%B1%E9%A1%8C/60345421/2%E4%B8%AD%E5%9C%8B%E7%94%B7%E7%B6%B2%E7%B4%85%E6%B3%B0%E5%9C%8B%E8%A2%AB%E6%8D%95-%E6%93%8160%E8%90%AC%E7%B2%89%E7%B5%B2-%E8%B1%AA%E5%AE%85%E9%96%8B%E6%80%A7%E6%84%9B%E6%AF%92p%E6%8B%8D%E8%89%B2%E6%83%85%E7%89%87%E5%A4%9C%E8%A3%B8%E8%B7%91",
-    "timestamp": "2026-05-04T23:28:33.332Z",
     "strategy": ".content-card__main"
   }
 ];
