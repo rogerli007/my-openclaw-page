@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-05T02:47:01.956Z
+// Last updated: 2026-05-05T04:02:13.005Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "謝振中任新聞處長破AO壟斷　劉兆佳：政府工作趨多元應擴大人才庫",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/5072050/org/daf7a4f0cf98551c8b0481923d687755.jpg/SR4oPVhjIw7Eksco9ado8z19xKMpFEm-3JPMVMaTzFQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60346615/%E8%AC%9D%E6%8C%AF%E4%B8%AD%E4%BB%BB%E6%96%B0%E8%81%9E%E8%99%95%E9%95%B7%E7%A0%B4ao%E5%A3%9F%E6%96%B7-%E5%8A%89%E5%85%86%E4%BD%B3-%E6%94%BF%E5%BA%9C%E5%B7%A5%E4%BD%9C%E8%B6%A8%E5%A4%9A%E5%85%83%E6%87%89%E6%93%B4%E5%A4%A7%E4%BA%BA%E6%89%8D%E5%BA%AB",
+    "timestamp": "2026-05-05T04:02:13.005Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "夏天擦防曬卻還是曬黑？醫拆解狂擦無效迷思　量與補擦時間很關鍵",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260420/1122862339033403392216830.jpeg/98glKEvJ8iFmRQ9U1u9I58Y8YriMhZlAgn4zCIJ-Mwg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60346286/%E7%89%B9%E6%9C%97%E6%99%AE-%E7%BE%8E%E5%9C%8B4%E6%97%A5%E8%B5%B7%E5%B1%95%E9%96%8B%E8%A1%8C%E5%8B%95-%E5%8A%A9%E6%BB%AF%E7%95%99%E9%9C%8D%E7%88%BE%E6%9C%A8%E8%8C%B2%E6%B5%B7%E5%B3%BD%E8%88%B9%E8%88%B6%E9%A7%9B%E9%9B%A2",
     "timestamp": "2026-05-03T23:53:12.768Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "月子中心抱錯嬰！護士稱無錯　人夫憑直覺求查驗DNA　尋回真兒子",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260504/1127812209670361088305289.png/44UUSLgJtAzMzBBsmfoUf0mo-T1Kl8RtACgeGQAoHhk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60346059/%E6%9C%88%E5%AD%90%E4%B8%AD%E5%BF%83%E6%8A%B1%E9%8C%AF%E5%AC%B0-%E8%AD%B7%E5%A3%AB%E7%A8%B1%E7%84%A1%E9%8C%AF-%E4%BA%BA%E5%A4%AB%E6%86%91%E7%9B%B4%E8%A6%BA%E6%B1%82%E6%9F%A5%E9%A9%97dna-%E5%B0%8B%E5%9B%9E%E7%9C%9F%E5%85%92%E5%AD%90",
-    "timestamp": "2026-05-03T23:25:50.527Z",
     "strategy": ".content-card__main"
   }
 ];
