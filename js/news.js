@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-05T09:50:38.166Z
+// Last updated: 2026-05-05T10:43:15.665Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "未來電力供應告急！新能源業界呼籲：港府必須主導電動車生態建設",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260505/1128397906244538368835174.jpeg/kBBQqSs6knacOvpxM95kQZIzgm_9eBlth34IT4d-CE8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%B7%B1%E5%BA%A6%E5%A0%B1%E9%81%93/60346789/%E6%9C%AA%E4%BE%86%E9%9B%BB%E5%8A%9B%E4%BE%9B%E6%87%89%E5%91%8A%E6%80%A5-%E6%96%B0%E8%83%BD%E6%BA%90%E6%A5%AD%E7%95%8C%E5%91%BC%E7%B1%B2-%E6%B8%AF%E5%BA%9C%E5%BF%85%E9%A0%88%E4%B8%BB%E5%B0%8E%E9%9B%BB%E5%8B%95%E8%BB%8A%E7%94%9F%E6%85%8B%E5%BB%BA%E8%A8%AD",
+    "timestamp": "2026-05-05T10:43:15.665Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "抗老飲食新發現！專家揭黃金3要素　飯+醋降血糖/炸雞加1物防老化",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20251218/1078309514563817472405129.jpeg/pgG-0yz-hEJA25KWmI2LzPm6VtW8H6Usjpr8mY6a_Jk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60346496/%E6%B8%AF%E4%BA%A4%E6%89%80%E6%9C%AA%E4%BE%86%E6%95%B8%E6%9C%88%E9%87%8D%E5%95%9F%E9%BB%83%E9%87%91%E6%9C%9F%E8%B2%A8-%E5%B0%87%E5%84%AA%E5%8C%96%E5%90%88%E7%B4%84%E5%8F%8A%E6%A9%9F%E5%88%B6",
     "timestamp": "2026-05-04T10:52:34.541Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "英皇群星演唱會｜長遮須放場外體育園儲物架　宜帶「縮骨遮」入場",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260504/1127994784355454976827540.jpeg/LoX4Zk1pivgd69ltQOboo18OvsCMNIBHBRQLFSAUCxU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60346415/%E8%8B%B1%E7%9A%87%E7%BE%A4%E6%98%9F%E6%BC%94%E5%94%B1%E6%9C%83-%E9%95%B7%E9%81%AE%E9%A0%88%E6%94%BE%E5%A0%B4%E5%A4%96%E9%AB%94%E8%82%B2%E5%9C%92%E5%84%B2%E7%89%A9%E6%9E%B6-%E5%AE%9C%E5%B8%B6-%E7%B8%AE%E9%AA%A8%E9%81%AE-%E5%85%A5%E5%A0%B4",
-    "timestamp": "2026-05-04T07:52:17.168Z",
     "strategy": ".content-card__main"
   }
 ];
