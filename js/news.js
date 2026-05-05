@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-05T17:08:49.918Z
+// Last updated: 2026-05-05T17:53:32.761Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "紅磡4車串燒相撞　最後方司機涉醉駕被捕　被撞鐵騎士頭傷半昏迷",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260506/1128495513356734464381546.jpeg/wS9EW3bRpSDJw6jHYTjBivnjJnq8UJ6961SKydFUisk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60346905/%E7%B4%85%E7%A3%A14%E8%BB%8A%E4%B8%B2%E7%87%92%E7%9B%B8%E6%92%9E-%E6%9C%80%E5%BE%8C%E6%96%B9%E5%8F%B8%E6%A9%9F%E6%B6%89%E9%86%89%E9%A7%95%E8%A2%AB%E6%8D%95-%E8%A2%AB%E6%92%9E%E9%90%B5%E9%A8%8E%E5%A3%AB%E9%A0%AD%E5%82%B7%E5%8D%8A%E6%98%8F%E8%BF%B7",
+    "timestamp": "2026-05-05T17:53:32.761Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "紅磡4車串燒相撞　最後方司機涉醉駕被捕　被撞鐵騎士頭傷半昏迷",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260505/1128164738056851456078932.jpeg/EacXFv9T6j0TWLjb2itP2wYYl-MWPeCvSnRGBkp0RgY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60346574/%E8%AD%A6%E5%B0%87%E8%BB%8D%E6%BE%B3%E6%8E%83%E6%AF%92%E6%8B%9869%E6%AD%B2%E7%94%B7%E5%AD%90-%E8%B5%B7%E7%8D%B2340%E8%90%AC%E5%85%83%E5%8F%AF%E5%8D%A1%E5%9B%A0%E5%8F%8A%E5%8C%85%E8%A3%9D%E5%B7%A5%E5%85%B7",
     "timestamp": "2026-05-04T18:57:10.443Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "俄媒：普京決定5.8及5.9對烏克蘭停火　紀念衛國戰爭勝利日",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260410/1119127392879644672174823.jpeg/zcTgGn5AwP9S_ZxoU4FcMc8XKSXJ-1kcpz0556c9Oec?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60346571/%E4%BF%84%E5%AA%92-%E6%99%AE%E4%BA%AC%E6%B1%BA%E5%AE%9A5-8%E5%8F%8A5-9%E5%B0%8D%E7%83%8F%E5%85%8B%E8%98%AD%E5%81%9C%E7%81%AB-%E7%B4%80%E5%BF%B5%E8%A1%9B%E5%9C%8B%E6%88%B0%E7%88%AD%E5%8B%9D%E5%88%A9%E6%97%A5",
-    "timestamp": "2026-05-04T18:16:45.923Z",
     "strategy": ".content-card__main"
   }
 ];
