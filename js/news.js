@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-05T06:10:53.652Z
+// Last updated: 2026-05-05T07:08:49.817Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "歐聯全攻略｜4強次回合　拜仁慕尼黑巴黎聖日耳門「大」鬥法",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260504/1128057638261624832027536.jpeg/hlt8WOpm2io8QEDYeGSlGLCeWSEqYQuHF7H9sRex_bE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60346524/%E6%AD%90%E8%81%AF%E5%85%A8%E6%94%BB%E7%95%A5-4%E5%BC%B7%E6%AC%A1%E5%9B%9E%E5%90%88-%E6%8B%9C%E4%BB%81%E6%85%95%E5%B0%BC%E9%BB%91%E5%B7%B4%E9%BB%8E%E8%81%96%E6%97%A5%E8%80%B3%E9%96%80-%E5%A4%A7-%E9%AC%A5%E6%B3%95",
+    "timestamp": "2026-05-05T07:08:49.817Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "石硤尾邨32歲男子家中昏迷　送院搶救不治",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260504/1127902651669811200412068.jpeg/3ZTeEcbDRdVO1xmZ6JcuRR9yBt0TqW9baYmQeGmJkHg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60346322/%E8%A7%80%E5%A1%98%E7%94%B7%E5%AD%90%E8%B7%8C%E5%82%B7%E9%A0%AD%E6%98%8F%E8%BF%B7-%E6%95%91%E6%8F%B4%E4%BA%BA%E5%93%A1%E5%88%B0%E5%A0%B4%E8%AD%89%E4%B8%8D%E6%B2%BB",
     "timestamp": "2026-05-04T02:50:45.891Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "黃冰芬｜接力棒，你接不接？——寫在五四青年節",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260504/1127886159288995840684730.jpeg/cYDltlkFA-AF7TdRQtf6IefDhqRroamvDqx5YQ6seWE?v=w1920r16_9",
-    "url": "https://www.hk01.com/01%E8%AB%96%E5%A3%87/60346291/%E9%BB%83%E5%86%B0%E8%8A%AC-%E6%8E%A5%E5%8A%9B%E6%A3%92-%E4%BD%A0%E6%8E%A5%E4%B8%8D%E6%8E%A5-%E5%AF%AB%E5%9C%A8%E4%BA%94%E5%9B%9B%E9%9D%92%E5%B9%B4%E7%AF%80",
-    "timestamp": "2026-05-04T01:01:32.314Z",
     "strategy": ".content-card__main"
   }
 ];
