@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-05T21:14:21.983Z
+// Last updated: 2026-05-05T21:43:56.216Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "漢坦病毒｜郵輪將靠岸西班牙加那利群岛　3名病患移送荷蘭救治",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260504/1127832969793245184294506.jpeg/6AlvUwF6Hgz1WkGfCS7EYLJi7aVBFC1jhdYSGYXWEhk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60346923/%E6%BC%A2%E5%9D%A6%E7%97%85%E6%AF%92-%E9%83%B5%E8%BC%AA%E5%B0%87%E9%9D%A0%E5%B2%B8%E8%A5%BF%E7%8F%AD%E7%89%99%E5%8A%A0%E9%82%A3%E5%88%A9%E7%BE%A4%E5%B2%9B-3%E5%90%8D%E7%97%85%E6%82%A3%E7%A7%BB%E9%80%81%E8%8D%B7%E8%98%AD%E6%95%91%E6%B2%BB",
+    "timestamp": "2026-05-05T21:43:56.216Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "歐聯4強｜阿仙奴時隔20年再闖決賽　兩回合2：1淘汰馬體會",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260504/1128009792334336000910834.png/Kmnne4Ks1tBWzQIjXcQW5MH0caIcmQqsC4vMjwuLzI8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E8%A9%B1%E9%A1%8C/60345421/2%E4%B8%AD%E5%9C%8B%E7%94%B7%E7%B6%B2%E7%B4%85%E6%B3%B0%E5%9C%8B%E8%A2%AB%E6%8D%95-%E6%93%8160%E8%90%AC%E7%B2%89%E7%B5%B2-%E8%B1%AA%E5%AE%85%E9%96%8B%E6%80%A7%E6%84%9B%E6%AF%92p%E6%8B%8D%E8%89%B2%E6%83%85%E7%89%87%E5%A4%9C%E8%A3%B8%E8%B7%91",
     "timestamp": "2026-05-04T23:28:33.332Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "校長灼見｜以探究式學習及人工智能素養發展學生科學探究精神",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260430/1126563931557466112738965.jpeg/wn0crZwagEhzTM0R_g0_LnZ-daSQBdlgZny3ZGZ8t2Q?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E4%B8%AD%E5%B0%8F%E5%AD%B8%E6%A0%A1%E5%9C%92/60345122/%E6%A0%A1%E9%95%B7%E7%81%BC%E8%A6%8B-%E4%BB%A5%E6%8E%A2%E7%A9%B6%E5%BC%8F%E5%AD%B8%E7%BF%92%E5%8F%8A%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E7%B4%A0%E9%A4%8A%E7%99%BC%E5%B1%95%E5%AD%B8%E7%94%9F%E7%A7%91%E5%AD%B8%E6%8E%A2%E7%A9%B6%E7%B2%BE%E7%A5%9E",
-    "timestamp": "2026-05-04T22:55:48.223Z",
     "strategy": ".content-card__main"
   }
 ];
