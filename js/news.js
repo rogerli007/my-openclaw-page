@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-05T11:17:46.917Z
+// Last updated: 2026-05-05T13:17:49.733Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "六合彩結果｜今期5.5頭獎800萬即時攪珠｜中獎號碼+派彩獎金",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260106/1085277999818870784691350.jpeg/qlD4zXZuaDWP92HwHoC750bl4vsF6LbIzKpuzcyqbs0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60346648/%E5%85%AD%E5%90%88%E5%BD%A9%E7%B5%90%E6%9E%9C-%E4%BB%8A%E6%9C%9F5-5%E9%A0%AD%E7%8D%8E800%E8%90%AC%E5%8D%B3%E6%99%82%E6%94%AA%E7%8F%A0-%E4%B8%AD%E7%8D%8E%E8%99%9F%E7%A2%BC-%E6%B4%BE%E5%BD%A9%E7%8D%8E%E9%87%91",
+    "timestamp": "2026-05-05T13:17:49.733Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "AI 實戰轉型提升營運效能　行業領袖深度解構心得",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260504/1128047056208793600617428.jpeg/uzJLRGo02rmqzjNZlrGlOQEMX9uBHuhh0qYjZdKmI2U?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60346518/tvb%E6%94%B6%E8%A6%96-%E6%AD%A3%E7%BE%A9%E5%A5%B3%E7%A5%9E-%E5%A4%A7%E7%B5%90%E5%B1%80%E5%A5%AA%E5%86%A0-%E8%A9%A6%E7%9C%9Fd-%E6%88%90%E7%B8%BE%E4%B8%8D%E4%BC%BC%E9%A0%90%E6%9C%9F",
     "timestamp": "2026-05-04T14:38:13.490Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "東陽光藥甘精胰島素獲FDA批准上市　為國產胰島素首進入美國市場",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260504/1128026925567053824304798.jpeg/Hp4u7jYSVbibAyF01L8bbod5AUgHPAqaidgoo4nYKKM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60346488/%E6%9D%B1%E9%99%BD%E5%85%89%E8%97%A5%E7%94%98%E7%B2%BE%E8%83%B0%E5%B3%B6%E7%B4%A0%E7%8D%B2fda%E6%89%B9%E5%87%86%E4%B8%8A%E5%B8%82-%E7%82%BA%E5%9C%8B%E7%94%A2%E8%83%B0%E5%B3%B6%E7%B4%A0%E9%A6%96%E9%80%B2%E5%85%A5%E7%BE%8E%E5%9C%8B%E5%B8%82%E5%A0%B4",
-    "timestamp": "2026-05-04T13:00:06.057Z",
     "strategy": ".content-card__main"
   }
 ];
