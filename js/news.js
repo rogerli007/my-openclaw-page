@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-06T20:54:13.451Z
+// Last updated: 2026-05-06T21:33:38.835Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "歐聯4強｜PSG合計6：5淘汰拜仁　決賽對陣阿仙奴",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260507/1128920261265985536765028.jpeg/7wcFfnGBCikcmixZuKkOdzRLZSrzbGov_es9eP3rPXg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60347336/%E6%AD%90%E8%81%AF4%E5%BC%B7-psg%E5%90%88%E8%A8%886-5%E6%B7%98%E6%B1%B0%E6%8B%9C%E4%BB%81-%E6%B1%BA%E8%B3%BD%E5%B0%8D%E9%99%A3%E9%98%BF%E4%BB%99%E5%A5%B4",
+    "timestamp": "2026-05-06T21:33:38.835Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "英國地方選舉今舉行　各政黨領袖臨選前齊發聲拉票　施紀賢籲團結",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260505/1128410499734573056653018.jpeg/tsAC-d0B5tCozLPobmrH0eo2ZpS2f-EYldiT-JXYk_g?v=w1920r16_9",
     "url": "https://www.hk01.com/01%E8%AB%96%E5%A3%87/60346640/%E4%BE%86%E7%A8%BF-%E6%BE%B3%E9%96%80%E7%94%B7%E8%B5%B0%E7%A7%8151%E5%85%AC%E6%96%A4%E9%A3%AF%E7%9B%92%E8%83%8C%E5%BE%8C-%E8%B3%87%E6%9C%AC%E5%A3%9F%E6%96%B7%E4%B8%8B%E7%9A%84%E5%9F%BA%E5%B1%A4%E6%82%B2%E6%AD%8C",
     "timestamp": "2026-05-06T01:11:26.489Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "Momax／LG新品登場｜磁吸小喇叭加強版+超薄定位器及纖巧淨化茶几",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260503/1127744841095057408562310.jpeg/kZ2lEt1sZF63NLcxsHG41Z_TcHrHVLHOg4cs1YOHLNU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60346234/momax-lg%E6%96%B0%E5%93%81%E7%99%BB%E5%A0%B4-%E7%A3%81%E5%90%B8%E5%B0%8F%E5%96%87%E5%8F%AD%E5%8A%A0%E5%BC%B7%E7%89%88-%E8%B6%85%E8%96%84%E5%AE%9A%E4%BD%8D%E5%99%A8%E5%8F%8A%E7%BA%96%E5%B7%A7%E6%B7%A8%E5%8C%96%E8%8C%B6%E5%87%A0",
-    "timestamp": "2026-05-05T23:11:43.628Z",
     "strategy": ".content-card__main"
   }
 ];
