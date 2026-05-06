@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-06T14:02:35.322Z
+// Last updated: 2026-05-06T16:03:11.334Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "特朗普稱極有可能結束伊朗戰爭　訪華前或能與德黑蘭達成協議",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260506/1128845626738479104872469.jpeg/GuC6D8jWH6Wt9KaxNADGaJQu8_F6YVpVvucQWr7nEFo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60347316/%E7%89%B9%E6%9C%97%E6%99%AE%E7%A8%B1%E6%A5%B5%E6%9C%89%E5%8F%AF%E8%83%BD%E7%B5%90%E6%9D%9F%E4%BC%8A%E6%9C%97%E6%88%B0%E7%88%AD-%E8%A8%AA%E8%8F%AF%E5%89%8D%E6%88%96%E8%83%BD%E8%88%87%E5%BE%B7%E9%BB%91%E8%98%AD%E9%81%94%E6%88%90%E5%8D%94%E8%AD%B0",
+    "timestamp": "2026-05-06T16:03:11.334Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "台內政部長劉世芳親屬被炒　江西台企挺｢一中｣：嚴禁資金挺台獨",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260506/1128495513356734464381546.jpeg/wS9EW3bRpSDJw6jHYTjBivnjJnq8UJ6961SKydFUisk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60346905/%E7%B4%85%E7%A3%A14%E8%BB%8A%E4%B8%B2%E7%87%92%E7%9B%B8%E6%92%9E-%E6%9C%80%E5%BE%8C%E6%96%B9%E5%8F%B8%E6%A9%9F%E6%B6%89%E9%86%89%E9%A7%95%E8%A2%AB%E6%8D%95-%E8%A2%AB%E6%92%9E%E9%90%B5%E9%A8%8E%E5%A3%AB%E9%A0%AD%E5%82%B7%E5%8D%8A%E6%98%8F%E8%BF%B7",
     "timestamp": "2026-05-05T17:08:49.918Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "天文台：4月繼續異常溫暖　平均25.5度歷年同期第二高",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260406/1117859875754479616492576.jpeg/FL9u1PznQzfmJQ9QwAn6t4xR93qCy20j0EBbospAW6I?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60346891/%E5%A4%A9%E6%96%87%E5%8F%B0-4%E6%9C%88%E7%B9%BC%E7%BA%8C%E7%95%B0%E5%B8%B8%E6%BA%AB%E6%9A%96-%E5%B9%B3%E5%9D%8725-5%E5%BA%A6%E6%AD%B7%E5%B9%B4%E5%90%8C%E6%9C%9F%E7%AC%AC%E4%BA%8C%E9%AB%98",
-    "timestamp": "2026-05-05T16:21:15.803Z",
     "strategy": ".content-card__main"
   }
 ];
