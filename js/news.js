@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-06T10:07:49.109Z
+// Last updated: 2026-05-06T11:45:08.687Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "懲教員涉捅穿囚友直腸　懲教主任跟上級指示　調查已定事件屬輕微",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/3384937/org/8a89fa36e67c4922f9b32f138b2731bd.jpg/OFNV7Gmb5j2OkIwcUtFjT4XMTmhdgQb6FxFPNRcRTzU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60347281/%E6%87%B2%E6%95%99%E5%93%A1%E6%B6%89%E6%8D%85%E7%A9%BF%E5%9B%9A%E5%8F%8B%E7%9B%B4%E8%85%B8-%E6%87%B2%E6%95%99%E4%B8%BB%E4%BB%BB%E8%B7%9F%E4%B8%8A%E7%B4%9A%E6%8C%87%E7%A4%BA-%E8%AA%BF%E6%9F%A5%E5%B7%B2%E5%AE%9A%E4%BA%8B%E4%BB%B6%E5%B1%AC%E8%BC%95%E5%BE%AE",
+    "timestamp": "2026-05-06T11:45:08.687Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "深圳黃金交易平台杰我睿爆煲　負責人涉經濟犯罪被採刑事強制措施",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260106/1085277999818870784691350.jpeg/qlD4zXZuaDWP92HwHoC750bl4vsF6LbIzKpuzcyqbs0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60346648/%E5%85%AD%E5%90%88%E5%BD%A9%E7%B5%90%E6%9E%9C-%E4%BB%8A%E6%9C%9F5-5%E9%A0%AD%E7%8D%8E800%E8%90%AC%E5%8D%B3%E6%99%82%E6%94%AA%E7%8F%A0-%E4%B8%AD%E7%8D%8E%E8%99%9F%E7%A2%BC-%E6%B4%BE%E5%BD%A9%E7%8D%8E%E9%87%91",
     "timestamp": "2026-05-05T13:17:49.733Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "AI 實戰轉型提升營運效能　行業領袖深度解構心得",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260505/1128410769851944960015869.jpeg/SS-wolHrW5x-GpkqDYYZ6R5Z_1jyAZerLH1fkCx9X5A?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60343483/ai-%E5%AF%A6%E6%88%B0%E8%BD%89%E5%9E%8B%E6%8F%90%E5%8D%87%E7%87%9F%E9%81%8B%E6%95%88%E8%83%BD-%E8%A1%8C%E6%A5%AD%E9%A0%98%E8%A2%96%E6%B7%B1%E5%BA%A6%E8%A7%A3%E6%A7%8B%E5%BF%83%E5%BE%97",
-    "timestamp": "2026-05-05T11:17:46.917Z",
     "strategy": ".content-card__main"
   }
 ];
