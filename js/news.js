@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-06T11:45:08.687Z
+// Last updated: 2026-05-06T13:12:38.371Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "三星宣布停止在華銷售所有家電產品　遭國產品牌夾擊　不敵價格戰",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20240607/875749540848734208405879.jpeg/_DqrXsXtUjG8WtNsPd2m7OAJJr9eOqMlh5SxXIeUsVw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60347294/%E4%B8%89%E6%98%9F%E5%AE%A3%E5%B8%83%E5%81%9C%E6%AD%A2%E5%9C%A8%E8%8F%AF%E9%8A%B7%E5%94%AE%E6%89%80%E6%9C%89%E5%AE%B6%E9%9B%BB%E7%94%A2%E5%93%81-%E9%81%AD%E5%9C%8B%E7%94%A2%E5%93%81%E7%89%8C%E5%A4%BE%E6%93%8A-%E4%B8%8D%E6%95%B5%E5%83%B9%E6%A0%BC%E6%88%B0",
+    "timestamp": "2026-05-06T13:12:38.371Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "懲教員涉捅穿囚友直腸　懲教主任跟上級指示　調查已定事件屬輕微",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260505/1128381513893679104792163.jpeg/burN4vrTvl5xSIZbOjd2Z8g2mYR0Qhek736XGO9-lxg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60346808/%E5%AF%92%E6%88%B01994-%E6%8F%AD%E9%96%8B%E8%A7%92%E8%89%B2%E5%B0%8D%E7%85%A7-%E6%A5%8A%E6%A8%82%E6%96%87%E4%BD%95%E5%95%9F%E8%8F%AF%E8%A7%92%E8%89%B2%E6%97%A9%E5%9C%A8-%E5%AF%92%E6%88%B02-%E5%87%BA%E7%8F%BE",
     "timestamp": "2026-05-05T15:48:01.877Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "六合彩結果｜今期5.5頭獎800萬即時攪珠｜中獎號碼+派彩獎金",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260106/1085277999818870784691350.jpeg/qlD4zXZuaDWP92HwHoC750bl4vsF6LbIzKpuzcyqbs0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60346648/%E5%85%AD%E5%90%88%E5%BD%A9%E7%B5%90%E6%9E%9C-%E4%BB%8A%E6%9C%9F5-5%E9%A0%AD%E7%8D%8E800%E8%90%AC%E5%8D%B3%E6%99%82%E6%94%AA%E7%8F%A0-%E4%B8%AD%E7%8D%8E%E8%99%9F%E7%A2%BC-%E6%B4%BE%E5%BD%A9%E7%8D%8E%E9%87%91",
-    "timestamp": "2026-05-05T13:17:49.733Z",
     "strategy": ".content-card__main"
   }
 ];
