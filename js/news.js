@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-06T19:42:50.329Z
+// Last updated: 2026-05-06T20:19:50.599Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "以軍停火期間空襲貝魯特南郊　以媒稱擊斃真主黨精銳部隊指揮官",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260507/1128901659489996800695402.jpeg/4Dlx2eouvbMxzFQQVDE2o0vfhjvmPqpzfFFcXnxRXF4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60347334/%E4%BB%A5%E8%BB%8D%E5%81%9C%E7%81%AB%E6%9C%9F%E9%96%93%E7%A9%BA%E8%A5%B2%E8%B2%9D%E9%AD%AF%E7%89%B9%E5%8D%97%E9%83%8A-%E4%BB%A5%E5%AA%92%E7%A8%B1%E6%93%8A%E6%96%83%E7%9C%9F%E4%B8%BB%E9%BB%A8%E7%B2%BE%E9%8A%B3%E9%83%A8%E9%9A%8A%E6%8C%87%E6%8F%AE%E5%AE%98",
+    "timestamp": "2026-05-06T20:19:50.599Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "伊朗外交部：仍在審閱美國提出方案　尚未向巴基斯坦轉達意見",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260505/1128459712765890560012479.jpeg/xZjqxS8IGV57Yit7o6kHj-1R2eImrkswPAlJDDwJSQw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60346791/%E8%A2%81%E5%81%89%E8%B1%AA%E8%B3%80%E6%AF%8D%E8%A6%AA71%E6%AD%B2%E5%A4%A7%E5%A3%BD-%E8%A2%81%E5%AA%BD%E5%AA%BD-%E9%98%B2%E8%85%90%E7%B4%9A-%E5%87%8D%E9%BD%A1%E6%A8%A3%E8%B2%8C%E9%A9%9A%E8%89%B7%E7%B6%B2%E6%B0%91",
     "timestamp": "2026-05-05T22:39:46.633Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "漢坦病毒｜郵輪將靠岸西班牙加那利群岛　3名病患移送荷蘭救治",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260504/1127832969793245184294506.jpeg/6AlvUwF6Hgz1WkGfCS7EYLJi7aVBFC1jhdYSGYXWEhk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60346923/%E6%BC%A2%E5%9D%A6%E7%97%85%E6%AF%92-%E9%83%B5%E8%BC%AA%E5%B0%87%E9%9D%A0%E5%B2%B8%E8%A5%BF%E7%8F%AD%E7%89%99%E5%8A%A0%E9%82%A3%E5%88%A9%E7%BE%A4%E5%B2%9B-3%E5%90%8D%E7%97%85%E6%82%A3%E7%A7%BB%E9%80%81%E8%8D%B7%E8%98%AD%E6%95%91%E6%B2%BB",
-    "timestamp": "2026-05-05T21:43:56.216Z",
     "strategy": ".content-card__main"
   }
 ];
