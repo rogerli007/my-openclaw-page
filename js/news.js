@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-06T02:02:20.897Z
+// Last updated: 2026-05-06T03:24:04.773Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "陳家珮逆線行車｜立法會監委會裁定屬貪方便魯莽行為　作書面警告",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260309/1107698406555389952803296.jpeg/5BoagvhH8DtL3TxW9bPzkkajcIWhbqvhA3bYACZ22AA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60346989/%E9%99%B3%E5%AE%B6%E7%8F%AE%E9%80%86%E7%B7%9A%E8%A1%8C%E8%BB%8A-%E7%AB%8B%E6%B3%95%E6%9C%83%E7%9B%A3%E5%A7%94%E6%9C%83%E8%A3%81%E5%AE%9A%E5%B1%AC%E8%B2%AA%E6%96%B9%E4%BE%BF%E9%AD%AF%E8%8E%BD%E8%A1%8C%E7%82%BA-%E4%BD%9C%E6%9B%B8%E9%9D%A2%E8%AD%A6%E5%91%8A",
+    "timestamp": "2026-05-06T03:24:04.773Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "兩港男日本飛驒山遇險釀一死　 攀山專家：5月天氣不穩救援難度增",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250829/1038113717776027648927184.jpeg/koxsHPa9JUt7qpSs0QRQ6S-OrAB8E_N6cFi36XBYt-k?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60346724/%E7%9F%B3%E7%A1%A4%E5%B0%BE%E9%82%A832%E6%AD%B2%E7%94%B7%E5%AD%90%E5%AE%B6%E4%B8%AD%E6%98%8F%E8%BF%B7-%E9%80%81%E9%99%A2%E6%90%B6%E6%95%91%E4%B8%8D%E6%B2%BB",
     "timestamp": "2026-05-05T06:10:53.652Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "謝振中任新聞處長破AO壟斷　劉兆佳：政府工作趨多元應擴大人才庫",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/5072050/org/daf7a4f0cf98551c8b0481923d687755.jpg/SR4oPVhjIw7Eksco9ado8z19xKMpFEm-3JPMVMaTzFQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60346615/%E8%AC%9D%E6%8C%AF%E4%B8%AD%E4%BB%BB%E6%96%B0%E8%81%9E%E8%99%95%E9%95%B7%E7%A0%B4ao%E5%A3%9F%E6%96%B7-%E5%8A%89%E5%85%86%E4%BD%B3-%E6%94%BF%E5%BA%9C%E5%B7%A5%E4%BD%9C%E8%B6%A8%E5%A4%9A%E5%85%83%E6%87%89%E6%93%B4%E5%A4%A7%E4%BA%BA%E6%89%8D%E5%BA%AB",
-    "timestamp": "2026-05-05T04:02:13.005Z",
     "strategy": ".content-card__main"
   }
 ];
