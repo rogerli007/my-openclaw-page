@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-06T01:11:26.489Z
+// Last updated: 2026-05-06T02:02:20.897Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "兩港男日本飛驒山遇險釀一死　 攀山專家：5月天氣不穩救援難度增",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260505/1128307140973301760850317.png/DjMU6LSZl3AIcrN2-DzdDbtpDP9mlJHKmDZ_3pg2f94?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60346945/%E5%85%A9%E6%B8%AF%E7%94%B7%E6%97%A5%E6%9C%AC%E9%A3%9B%E9%A9%92%E5%B1%B1%E9%81%87%E9%9A%AA%E9%87%80%E4%B8%80%E6%AD%BB-%E6%94%80%E5%B1%B1%E5%B0%88%E5%AE%B6-5%E6%9C%88%E5%A4%A9%E6%B0%A3%E4%B8%8D%E7%A9%A9%E6%95%91%E6%8F%B4%E9%9B%A3%E5%BA%A6%E5%A2%9E",
+    "timestamp": "2026-05-06T02:02:20.897Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "來稿｜澳門男走私51公斤飯盒背後——資本壟斷下的基層悲歌",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/5072050/org/daf7a4f0cf98551c8b0481923d687755.jpg/SR4oPVhjIw7Eksco9ado8z19xKMpFEm-3JPMVMaTzFQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60346615/%E8%AC%9D%E6%8C%AF%E4%B8%AD%E4%BB%BB%E6%96%B0%E8%81%9E%E8%99%95%E9%95%B7%E7%A0%B4ao%E5%A3%9F%E6%96%B7-%E5%8A%89%E5%85%86%E4%BD%B3-%E6%94%BF%E5%BA%9C%E5%B7%A5%E4%BD%9C%E8%B6%A8%E5%A4%9A%E5%85%83%E6%87%89%E6%93%B4%E5%A4%A7%E4%BA%BA%E6%89%8D%E5%BA%AB",
     "timestamp": "2026-05-05T04:02:13.005Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "夏天擦防曬卻還是曬黑？醫拆解狂擦無效迷思　量與補擦時間很關鍵",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260429/1126216187143786496690814.png/74QqZwG2i7lmvX4AUaNZqthl7yFbtXcmIhANiCIQDYg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60345162/%E5%A4%8F%E5%A4%A9%E6%93%A6%E9%98%B2%E6%9B%AC%E5%8D%BB%E9%82%84%E6%98%AF%E6%9B%AC%E9%BB%91-%E9%86%AB%E6%8B%86%E8%A7%A3%E7%8B%82%E6%93%A6%E7%84%A1%E6%95%88%E8%BF%B7%E6%80%9D-%E9%87%8F%E8%88%87%E8%A3%9C%E6%93%A6%E6%99%82%E9%96%93%E5%BE%88%E9%97%9C%E9%8D%B5",
-    "timestamp": "2026-05-05T02:47:01.956Z",
     "strategy": ".content-card__main"
   }
 ];
