@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-06T08:04:21.484Z
+// Last updated: 2026-05-06T09:17:15.895Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "李泳知演唱會2026香港｜門票優先／公售攻略＋購票連結＋座位表",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260209/1097525667613904896576340.png/7a6qgMiFsR-mTJQ2Km8S9-Vk3FUcoknSZ2HM7GdhzOw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60320595/%E6%9D%8E%E6%B3%B3%E7%9F%A5%E6%BC%94%E5%94%B1%E6%9C%832026%E9%A6%99%E6%B8%AF-%E9%96%80%E7%A5%A8%E5%84%AA%E5%85%88-%E5%85%AC%E5%94%AE%E6%94%BB%E7%95%A5-%E8%B3%BC%E7%A5%A8%E9%80%A3%E7%B5%90-%E5%BA%A7%E4%BD%8D%E8%A1%A8",
+    "timestamp": "2026-05-06T09:17:15.895Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "日本戰後首次境外發射進攻型導彈　中國：日本新軍國主義成勢為患",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260505/1128397906244538368835174.jpeg/kBBQqSs6knacOvpxM95kQZIzgm_9eBlth34IT4d-CE8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%B7%B1%E5%BA%A6%E5%A0%B1%E9%81%93/60346789/%E6%9C%AA%E4%BE%86%E9%9B%BB%E5%8A%9B%E4%BE%9B%E6%87%89%E5%91%8A%E6%80%A5-%E6%96%B0%E8%83%BD%E6%BA%90%E6%A5%AD%E7%95%8C%E5%91%BC%E7%B1%B2-%E6%B8%AF%E5%BA%9C%E5%BF%85%E9%A0%88%E4%B8%BB%E5%B0%8E%E9%9B%BB%E5%8B%95%E8%BB%8A%E7%94%9F%E6%85%8B%E5%BB%BA%E8%A8%AD",
     "timestamp": "2026-05-05T10:43:15.665Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "抗老飲食新發現！專家揭黃金3要素　飯+醋降血糖/炸雞加1物防老化",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260505/1128390048484429824215308.jpeg/qcgmKaEyqEnG42-CM-A9WT7opOlbrRYQEhxZ7xIcWe8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60346706/%E6%8A%97%E8%80%81%E9%A3%B2%E9%A3%9F%E6%96%B0%E7%99%BC%E7%8F%BE-%E5%B0%88%E5%AE%B6%E6%8F%AD%E9%BB%83%E9%87%913%E8%A6%81%E7%B4%A0-%E9%A3%AF-%E9%86%8B%E9%99%8D%E8%A1%80%E7%B3%96-%E7%82%B8%E9%9B%9E%E5%8A%A01%E7%89%A9%E9%98%B2%E8%80%81%E5%8C%96",
-    "timestamp": "2026-05-05T09:50:38.166Z",
     "strategy": ".content-card__main"
   }
 ];
