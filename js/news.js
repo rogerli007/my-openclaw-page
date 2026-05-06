@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-06T05:51:10.031Z
+// Last updated: 2026-05-06T07:09:34.071Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "2026最髒與最乾淨蔬果名單｜農藥殘留差異明顯　醫教正確清洗方法",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260420/1122853695420108800672530.jpeg/iqEtE09dlHIoiQcfbPhGn2q9_pv34HS7EgoR6xIKEes?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60341793/2026%E6%9C%80%E9%AB%92%E8%88%87%E6%9C%80%E4%B9%BE%E6%B7%A8%E8%94%AC%E6%9E%9C%E5%90%8D%E5%96%AE-%E8%BE%B2%E8%97%A5%E6%AE%98%E7%95%99%E5%B7%AE%E7%95%B0%E6%98%8E%E9%A1%AF-%E9%86%AB%E6%95%99%E6%AD%A3%E7%A2%BA%E6%B8%85%E6%B4%97%E6%96%B9%E6%B3%95",
+    "timestamp": "2026-05-06T07:09:34.071Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "日本北海道驚現300KG棕熊　秋田縣農夫遭熊抓傷面手急逃命｜有片",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260505/1128349898287091712417936.jpeg/sAaprzsikgxDMpF3dQ-Vup9GMmQmLHPF3P_yR9z_8kc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60346743/%E4%BA%94%E4%B8%80%E9%BB%83%E9%87%91%E5%91%A8-%E5%85%A7%E5%9C%B0%E5%AE%A2%E4%BA%94%E4%BA%BA%E5%85%A9%E6%99%9A%E4%BD%8F%E5%AE%BF%E8%8A%B1%E8%B2%BB4%E5%8D%83-%E7%A8%B1%E6%97%A9%E8%A6%8F%E5%8A%83%E6%87%89%E5%B0%8D%E9%AB%98%E7%89%A9%E5%83%B9",
     "timestamp": "2026-05-05T09:01:08.927Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "歐聯全攻略｜4強次回合　拜仁慕尼黑巴黎聖日耳門「大」鬥法",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260504/1128057638261624832027536.jpeg/hlt8WOpm2io8QEDYeGSlGLCeWSEqYQuHF7H9sRex_bE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60346524/%E6%AD%90%E8%81%AF%E5%85%A8%E6%94%BB%E7%95%A5-4%E5%BC%B7%E6%AC%A1%E5%9B%9E%E5%90%88-%E6%8B%9C%E4%BB%81%E6%85%95%E5%B0%BC%E9%BB%91%E5%B7%B4%E9%BB%8E%E8%81%96%E6%97%A5%E8%80%B3%E9%96%80-%E5%A4%A7-%E9%AC%A5%E6%B3%95",
-    "timestamp": "2026-05-05T07:08:49.817Z",
     "strategy": ".content-card__main"
   }
 ];
