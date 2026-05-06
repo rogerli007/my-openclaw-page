@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-06T17:25:00.719Z
+// Last updated: 2026-05-06T18:06:52.256Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "觀塘繞道豐田「舞龍」撞壆凌空彈起　撼本田衝近一公里始撞欄停低",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260507/1128867080670547968362950.jpeg/nfSYnhAF0PK_p3P2-dUge9nOCzNMJ8_1KOd2NSjndjU",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60347326/%E8%A7%80%E5%A1%98%E7%B9%9E%E9%81%93%E8%B1%90%E7%94%B0-%E8%88%9E%E9%BE%8D-%E6%92%9E%E5%A3%86%E5%87%8C%E7%A9%BA%E5%BD%88%E8%B5%B7-%E6%92%BC%E6%9C%AC%E7%94%B0%E8%A1%9D%E8%BF%91%E4%B8%80%E5%85%AC%E9%87%8C%E5%A7%8B%E6%92%9E%E6%AC%84%E5%81%9C%E4%BD%8E",
+    "timestamp": "2026-05-06T18:06:52.256Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "白宮記協槍擊｜路透社：疑犯動機或涉不滿伊朗戰事　網上痛批政府",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260506/1128535996753776640028143.png/2ZThA5ZJzLno6IvQ3148vir_XndksRtDtE_Uv7RP1L8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60346918/%E7%BE%8E%E5%9C%8B%E5%BE%B7%E5%B7%9E%E7%88%86%E6%A7%8D%E6%93%8A-%E9%9F%93%E5%9C%8B%E8%B3%BC%E7%89%A9%E4%B8%AD%E5%BF%83%E9%99%84%E8%BF%912%E6%AD%BB3%E5%82%B7-69%E6%AD%B2%E7%96%91%E7%8A%AF%E8%A2%AB%E6%8D%95",
     "timestamp": "2026-05-05T19:56:22.616Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "阿聯酋再指遭來自伊朗方向無人機襲擊　伊朗軍方否認施襲",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260505/1128139652285337600762395.jpeg/MKzNV9DMrEEGrmoMDnp1DiTbgn0zUFMgFpXEHhaVxB4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60346915/%E9%98%BF%E8%81%AF%E9%85%8B%E5%86%8D%E6%8C%87%E9%81%AD%E4%BE%86%E8%87%AA%E4%BC%8A%E6%9C%97%E6%96%B9%E5%90%91%E7%84%A1%E4%BA%BA%E6%A9%9F%E8%A5%B2%E6%93%8A-%E4%BC%8A%E6%9C%97%E8%BB%8D%E6%96%B9%E5%90%A6%E8%AA%8D%E6%96%BD%E8%A5%B2",
-    "timestamp": "2026-05-05T19:16:31.752Z",
     "strategy": ".content-card__main"
   }
 ];
