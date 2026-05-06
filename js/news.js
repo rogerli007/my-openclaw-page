@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-06T16:45:58.010Z
+// Last updated: 2026-05-06T17:25:00.719Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "白宮記協槍擊｜路透社：疑犯動機或涉不滿伊朗戰事　網上痛批政府",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260506/1128627987697111040496051.jpeg/LMsu-Z8hBxn15BtRe_R4jS6XQH2-lLwa_rQ_f_60P38?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60347325/%E7%99%BD%E5%AE%AE%E8%A8%98%E5%8D%94%E6%A7%8D%E6%93%8A-%E8%B7%AF%E9%80%8F%E7%A4%BE-%E7%96%91%E7%8A%AF%E5%8B%95%E6%A9%9F%E6%88%96%E6%B6%89%E4%B8%8D%E6%BB%BF%E4%BC%8A%E6%9C%97%E6%88%B0%E4%BA%8B-%E7%B6%B2%E4%B8%8A%E7%97%9B%E6%89%B9%E6%94%BF%E5%BA%9C",
+    "timestamp": "2026-05-06T17:25:00.719Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "重案解密｜朱晨麗破格演技演活變態兇手　改編劏孕婦肚真人真事",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260505/1128139652285337600762395.jpeg/MKzNV9DMrEEGrmoMDnp1DiTbgn0zUFMgFpXEHhaVxB4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60346915/%E9%98%BF%E8%81%AF%E9%85%8B%E5%86%8D%E6%8C%87%E9%81%AD%E4%BE%86%E8%87%AA%E4%BC%8A%E6%9C%97%E6%96%B9%E5%90%91%E7%84%A1%E4%BA%BA%E6%A9%9F%E8%A5%B2%E6%93%8A-%E4%BC%8A%E6%9C%97%E8%BB%8D%E6%96%B9%E5%90%A6%E8%AA%8D%E6%96%BD%E8%A5%B2",
     "timestamp": "2026-05-05T19:16:31.752Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "紅磡4車串燒相撞　最後方司機涉醉駕被捕　被撞鐵騎士頭傷半昏迷",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260506/1128495513356734464381546.jpeg/wS9EW3bRpSDJw6jHYTjBivnjJnq8UJ6961SKydFUisk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60346905/%E7%B4%85%E7%A3%A14%E8%BB%8A%E4%B8%B2%E7%87%92%E7%9B%B8%E6%92%9E-%E6%9C%80%E5%BE%8C%E6%96%B9%E5%8F%B8%E6%A9%9F%E6%B6%89%E9%86%89%E9%A7%95%E8%A2%AB%E6%8D%95-%E8%A2%AB%E6%92%9E%E9%90%B5%E9%A8%8E%E5%A3%AB%E9%A0%AD%E5%82%B7%E5%8D%8A%E6%98%8F%E8%BF%B7",
-    "timestamp": "2026-05-05T17:53:32.761Z",
     "strategy": ".content-card__main"
   }
 ];
