@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-06T18:06:52.256Z
+// Last updated: 2026-05-06T18:56:57.263Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "伊朗外交部：仍在審閱美國提出方案　尚未向巴基斯坦轉達意見",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260507/1128881154817003520180459.jpeg/vl9z7dsCfbEo4HhYRYxrnBpfdnm9vN2TNMTs7DTE7Ow?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60347330/%E4%BC%8A%E6%9C%97%E5%A4%96%E4%BA%A4%E9%83%A8-%E4%BB%8D%E5%9C%A8%E5%AF%A9%E9%96%B1%E7%BE%8E%E5%9C%8B%E6%8F%90%E5%87%BA%E6%96%B9%E6%A1%88-%E5%B0%9A%E6%9C%AA%E5%90%91%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E8%BD%89%E9%81%94%E6%84%8F%E8%A6%8B",
+    "timestamp": "2026-05-06T18:56:57.263Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "觀塘繞道豐田「舞龍」撞壆凌空彈起　撼本田衝近一公里始撞欄停低",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260506/1128557871517143040947852.jpeg/8L76RlfnF7nsC_et8GxaZBXP6B5IQHmjXhrhyF4a4cg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60346922/%E6%AD%90%E8%81%AF4%E5%BC%B7-%E9%98%BF%E4%BB%99%E5%A5%B4%E6%99%82%E9%9A%9420%E5%B9%B4%E5%86%8D%E9%97%96%E6%B1%BA%E8%B3%BD-%E5%85%A9%E5%9B%9E%E5%90%882-1%E6%B7%98%E6%B1%B0%E9%A6%AC%E9%AB%94%E6%9C%83",
     "timestamp": "2026-05-05T21:14:21.983Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美國德州爆槍擊　韓國購物中心附近2死3傷　69歲疑犯被捕",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260506/1128535996753776640028143.png/2ZThA5ZJzLno6IvQ3148vir_XndksRtDtE_Uv7RP1L8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60346918/%E7%BE%8E%E5%9C%8B%E5%BE%B7%E5%B7%9E%E7%88%86%E6%A7%8D%E6%93%8A-%E9%9F%93%E5%9C%8B%E8%B3%BC%E7%89%A9%E4%B8%AD%E5%BF%83%E9%99%84%E8%BF%912%E6%AD%BB3%E5%82%B7-69%E6%AD%B2%E7%96%91%E7%8A%AF%E8%A2%AB%E6%8D%95",
-    "timestamp": "2026-05-05T19:56:22.616Z",
     "strategy": ".content-card__main"
   }
 ];
