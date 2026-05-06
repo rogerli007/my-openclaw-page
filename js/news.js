@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-06T09:17:15.895Z
+// Last updated: 2026-05-06T10:07:49.109Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "深圳黃金交易平台杰我睿爆煲　負責人涉經濟犯罪被採刑事強制措施",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260506/1128754347946020864370952.png/5UoLKvJlLXhw0YKTwxc7ViQ5__l4AcblOxdNKDsXTSg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60347238/%E6%B7%B1%E5%9C%B3%E9%BB%83%E9%87%91%E4%BA%A4%E6%98%93%E5%B9%B3%E5%8F%B0%E6%9D%B0%E6%88%91%E7%9D%BF%E7%88%86%E7%85%B2-%E8%B2%A0%E8%B2%AC%E4%BA%BA%E6%B6%89%E7%B6%93%E6%BF%9F%E7%8A%AF%E7%BD%AA%E8%A2%AB%E6%8E%A1%E5%88%91%E4%BA%8B%E5%BC%B7%E5%88%B6%E6%8E%AA%E6%96%BD",
+    "timestamp": "2026-05-06T10:07:49.109Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "李泳知演唱會2026香港｜門票優先／公售攻略＋購票連結＋座位表",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260505/1128410769851944960015869.jpeg/SS-wolHrW5x-GpkqDYYZ6R5Z_1jyAZerLH1fkCx9X5A?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60343483/ai-%E5%AF%A6%E6%88%B0%E8%BD%89%E5%9E%8B%E6%8F%90%E5%8D%87%E7%87%9F%E9%81%8B%E6%95%88%E8%83%BD-%E8%A1%8C%E6%A5%AD%E9%A0%98%E8%A2%96%E6%B7%B1%E5%BA%A6%E8%A7%A3%E6%A7%8B%E5%BF%83%E5%BE%97",
     "timestamp": "2026-05-05T11:17:46.917Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "未來電力供應告急！新能源業界呼籲：港府必須主導電動車生態建設",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260505/1128397906244538368835174.jpeg/kBBQqSs6knacOvpxM95kQZIzgm_9eBlth34IT4d-CE8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%B7%B1%E5%BA%A6%E5%A0%B1%E9%81%93/60346789/%E6%9C%AA%E4%BE%86%E9%9B%BB%E5%8A%9B%E4%BE%9B%E6%87%89%E5%91%8A%E6%80%A5-%E6%96%B0%E8%83%BD%E6%BA%90%E6%A5%AD%E7%95%8C%E5%91%BC%E7%B1%B2-%E6%B8%AF%E5%BA%9C%E5%BF%85%E9%A0%88%E4%B8%BB%E5%B0%8E%E9%9B%BB%E5%8B%95%E8%BB%8A%E7%94%9F%E6%85%8B%E5%BB%BA%E8%A8%AD",
-    "timestamp": "2026-05-05T10:43:15.665Z",
     "strategy": ".content-card__main"
   }
 ];
