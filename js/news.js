@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-06T22:26:29.509Z
+// Last updated: 2026-05-06T22:53:54.758Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "TVB女星二度改名慘被諷改極唔紅　自爆本名撞港姐冠軍陳曉華",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260506/1128816808736854016719430.jpeg/p9koa8C_2NLDEeHDuOjld6li58xljI26Yblll2G5ZZc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60347140/tvb%E5%A5%B3%E6%98%9F%E4%BA%8C%E5%BA%A6%E6%94%B9%E5%90%8D%E6%85%98%E8%A2%AB%E8%AB%B7%E6%94%B9%E6%A5%B5%E5%94%94%E7%B4%85-%E8%87%AA%E7%88%86%E6%9C%AC%E5%90%8D%E6%92%9E%E6%B8%AF%E5%A7%90%E5%86%A0%E8%BB%8D%E9%99%B3%E6%9B%89%E8%8F%AF",
+    "timestamp": "2026-05-06T22:53:54.758Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "天氣｜今日介乎23至27度　局部有一兩陣驟雨　明有驟雨及狂風雷暴",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260309/1107698406555389952803296.jpeg/5BoagvhH8DtL3TxW9bPzkkajcIWhbqvhA3bYACZ22AA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60346989/%E9%99%B3%E5%AE%B6%E7%8F%AE%E9%80%86%E7%B7%9A%E8%A1%8C%E8%BB%8A-%E7%AB%8B%E6%B3%95%E6%9C%83%E7%9B%A3%E5%A7%94%E6%9C%83%E8%A3%81%E5%AE%9A%E5%B1%AC%E8%B2%AA%E6%96%B9%E4%BE%BF%E9%AD%AF%E8%8E%BD%E8%A1%8C%E7%82%BA-%E4%BD%9C%E6%9B%B8%E9%9D%A2%E8%AD%A6%E5%91%8A",
     "timestamp": "2026-05-06T03:24:04.773Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "兩港男日本飛驒山遇險釀一死　 攀山專家：5月天氣不穩救援難度增",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260505/1128307140973301760850317.png/DjMU6LSZl3AIcrN2-DzdDbtpDP9mlJHKmDZ_3pg2f94?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60346945/%E5%85%A9%E6%B8%AF%E7%94%B7%E6%97%A5%E6%9C%AC%E9%A3%9B%E9%A9%92%E5%B1%B1%E9%81%87%E9%9A%AA%E9%87%80%E4%B8%80%E6%AD%BB-%E6%94%80%E5%B1%B1%E5%B0%88%E5%AE%B6-5%E6%9C%88%E5%A4%A9%E6%B0%A3%E4%B8%8D%E7%A9%A9%E6%95%91%E6%8F%B4%E9%9B%A3%E5%BA%A6%E5%A2%9E",
-    "timestamp": "2026-05-06T02:02:20.897Z",
     "strategy": ".content-card__main"
   }
 ];
