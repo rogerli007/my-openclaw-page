@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-05T23:11:43.628Z
+// Last updated: 2026-05-06T01:11:26.489Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "來稿｜澳門男走私51公斤飯盒背後——資本壟斷下的基層悲歌",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260505/1128410499734573056653018.jpeg/tsAC-d0B5tCozLPobmrH0eo2ZpS2f-EYldiT-JXYk_g?v=w1920r16_9",
+    "url": "https://www.hk01.com/01%E8%AB%96%E5%A3%87/60346640/%E4%BE%86%E7%A8%BF-%E6%BE%B3%E9%96%80%E7%94%B7%E8%B5%B0%E7%A7%8151%E5%85%AC%E6%96%A4%E9%A3%AF%E7%9B%92%E8%83%8C%E5%BE%8C-%E8%B3%87%E6%9C%AC%E5%A3%9F%E6%96%B7%E4%B8%8B%E7%9A%84%E5%9F%BA%E5%B1%A4%E6%82%B2%E6%AD%8C",
+    "timestamp": "2026-05-06T01:11:26.489Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "Momax／LG新品登場｜磁吸小喇叭加強版+超薄定位器及纖巧淨化茶几",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260429/1126216187143786496690814.png/74QqZwG2i7lmvX4AUaNZqthl7yFbtXcmIhANiCIQDYg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60345162/%E5%A4%8F%E5%A4%A9%E6%93%A6%E9%98%B2%E6%9B%AC%E5%8D%BB%E9%82%84%E6%98%AF%E6%9B%AC%E9%BB%91-%E9%86%AB%E6%8B%86%E8%A7%A3%E7%8B%82%E6%93%A6%E7%84%A1%E6%95%88%E8%BF%B7%E6%80%9D-%E9%87%8F%E8%88%87%E8%A3%9C%E6%93%A6%E6%99%82%E9%96%93%E5%BE%88%E9%97%9C%E9%8D%B5",
     "timestamp": "2026-05-05T02:47:01.956Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "屯門翠濤居連環爆竊　兩單位失逾50萬　包括Hermès、CHANEL等手袋",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20251028/1059725389456609280708159.jpeg/oGJYxYRA9Cb0NIyHiZAgbpxUxINOW7cVBqdrCCOnawg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60346589/%E5%B1%AF%E9%96%80%E7%BF%A0%E6%BF%A4%E5%B1%85%E9%80%A3%E7%92%B0%E7%88%86%E7%AB%8A-%E5%85%A9%E5%96%AE%E4%BD%8D%E5%A4%B1%E9%80%BE50%E8%90%AC-%E5%8C%85%E6%8B%ACherm%C3%A8s-chanel%E7%AD%89%E6%89%8B%E8%A2%8B",
-    "timestamp": "2026-05-05T00:56:34.421Z",
     "strategy": ".content-card__main"
   }
 ];
