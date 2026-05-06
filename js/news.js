@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-06T03:24:04.773Z
+// Last updated: 2026-05-06T05:51:10.031Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "日本北海道驚現300KG棕熊　秋田縣農夫遭熊抓傷面手急逃命｜有片",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260506/1128689590866022400829567.png/5W2UVkG0RwFBY7zyyhpMIF-08d1hym5NvBLfoLwS36A?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60347079/%E6%97%A5%E6%9C%AC%E5%8C%97%E6%B5%B7%E9%81%93%E9%A9%9A%E7%8F%BE300kg%E6%A3%95%E7%86%8A-%E7%A7%8B%E7%94%B0%E7%B8%A3%E8%BE%B2%E5%A4%AB%E9%81%AD%E7%86%8A%E6%8A%93%E5%82%B7%E9%9D%A2%E6%89%8B%E6%80%A5%E9%80%83%E5%91%BD-%E6%9C%89%E7%89%87",
+    "timestamp": "2026-05-06T05:51:10.031Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "陳家珮逆線行車｜立法會監委會裁定屬貪方便魯莽行為　作書面警告",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260504/1128057638261624832027536.jpeg/hlt8WOpm2io8QEDYeGSlGLCeWSEqYQuHF7H9sRex_bE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60346524/%E6%AD%90%E8%81%AF%E5%85%A8%E6%94%BB%E7%95%A5-4%E5%BC%B7%E6%AC%A1%E5%9B%9E%E5%90%88-%E6%8B%9C%E4%BB%81%E6%85%95%E5%B0%BC%E9%BB%91%E5%B7%B4%E9%BB%8E%E8%81%96%E6%97%A5%E8%80%B3%E9%96%80-%E5%A4%A7-%E9%AC%A5%E6%B3%95",
     "timestamp": "2026-05-05T07:08:49.817Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "石硤尾邨32歲男子家中昏迷　送院搶救不治",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250829/1038113717776027648927184.jpeg/koxsHPa9JUt7qpSs0QRQ6S-OrAB8E_N6cFi36XBYt-k?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60346724/%E7%9F%B3%E7%A1%A4%E5%B0%BE%E9%82%A832%E6%AD%B2%E7%94%B7%E5%AD%90%E5%AE%B6%E4%B8%AD%E6%98%8F%E8%BF%B7-%E9%80%81%E9%99%A2%E6%90%B6%E6%95%91%E4%B8%8D%E6%B2%BB",
-    "timestamp": "2026-05-05T06:10:53.652Z",
     "strategy": ".content-card__main"
   }
 ];
