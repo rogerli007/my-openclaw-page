@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-06T07:09:34.071Z
+// Last updated: 2026-05-06T08:04:21.484Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "日本戰後首次境外發射進攻型導彈　中國：日本新軍國主義成勢為患",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260506/1128712990221144064265149.png/Zw0WZ_wk3-ixcXUh98hYJnt30X6Z3a3ZJzJrkScya5E?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60347134/%E6%97%A5%E6%9C%AC%E6%88%B0%E5%BE%8C%E9%A6%96%E6%AC%A1%E5%A2%83%E5%A4%96%E7%99%BC%E5%B0%84%E9%80%B2%E6%94%BB%E5%9E%8B%E5%B0%8E%E5%BD%88-%E4%B8%AD%E5%9C%8B-%E6%97%A5%E6%9C%AC%E6%96%B0%E8%BB%8D%E5%9C%8B%E4%B8%BB%E7%BE%A9%E6%88%90%E5%8B%A2%E7%82%BA%E6%82%A3",
+    "timestamp": "2026-05-06T08:04:21.484Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "2026最髒與最乾淨蔬果名單｜農藥殘留差異明顯　醫教正確清洗方法",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260505/1128390048484429824215308.jpeg/qcgmKaEyqEnG42-CM-A9WT7opOlbrRYQEhxZ7xIcWe8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60346706/%E6%8A%97%E8%80%81%E9%A3%B2%E9%A3%9F%E6%96%B0%E7%99%BC%E7%8F%BE-%E5%B0%88%E5%AE%B6%E6%8F%AD%E9%BB%83%E9%87%913%E8%A6%81%E7%B4%A0-%E9%A3%AF-%E9%86%8B%E9%99%8D%E8%A1%80%E7%B3%96-%E7%82%B8%E9%9B%9E%E5%8A%A01%E7%89%A9%E9%98%B2%E8%80%81%E5%8C%96",
     "timestamp": "2026-05-05T09:50:38.166Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "五一黃金周｜內地客五人兩晚住宿花費4千　稱早規劃應對高物價",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260505/1128349898287091712417936.jpeg/sAaprzsikgxDMpF3dQ-Vup9GMmQmLHPF3P_yR9z_8kc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60346743/%E4%BA%94%E4%B8%80%E9%BB%83%E9%87%91%E5%91%A8-%E5%85%A7%E5%9C%B0%E5%AE%A2%E4%BA%94%E4%BA%BA%E5%85%A9%E6%99%9A%E4%BD%8F%E5%AE%BF%E8%8A%B1%E8%B2%BB4%E5%8D%83-%E7%A8%B1%E6%97%A9%E8%A6%8F%E5%8A%83%E6%87%89%E5%B0%8D%E9%AB%98%E7%89%A9%E5%83%B9",
-    "timestamp": "2026-05-05T09:01:08.927Z",
     "strategy": ".content-card__main"
   }
 ];
