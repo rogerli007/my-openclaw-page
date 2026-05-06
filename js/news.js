@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-06T13:12:38.371Z
+// Last updated: 2026-05-06T14:02:35.322Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "台內政部長劉世芳親屬被炒　江西台企挺｢一中｣：嚴禁資金挺台獨",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260506/1128804376974987264745392.jpeg/_5E8t1djpp7UewJXmQIVFcTELH0qwIKIR8qT20fKk9s?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8F%B0%E7%81%A3%E6%96%B0%E8%81%9E/60347296/%E5%8F%B0%E5%85%A7%E6%94%BF%E9%83%A8%E9%95%B7%E5%8A%89%E4%B8%96%E8%8A%B3%E8%A6%AA%E5%B1%AC%E8%A2%AB%E7%82%92-%E6%B1%9F%E8%A5%BF%E5%8F%B0%E4%BC%81%E6%8C%BA-%E4%B8%80%E4%B8%AD-%E5%9A%B4%E7%A6%81%E8%B3%87%E9%87%91%E6%8C%BA%E5%8F%B0%E7%8D%A8",
+    "timestamp": "2026-05-06T14:02:35.322Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "三星宣布停止在華銷售所有家電產品　遭國產品牌夾擊　不敵價格戰",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260406/1117859875754479616492576.jpeg/FL9u1PznQzfmJQ9QwAn6t4xR93qCy20j0EBbospAW6I?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60346891/%E5%A4%A9%E6%96%87%E5%8F%B0-4%E6%9C%88%E7%B9%BC%E7%BA%8C%E7%95%B0%E5%B8%B8%E6%BA%AB%E6%9A%96-%E5%B9%B3%E5%9D%8725-5%E5%BA%A6%E6%AD%B7%E5%B9%B4%E5%90%8C%E6%9C%9F%E7%AC%AC%E4%BA%8C%E9%AB%98",
     "timestamp": "2026-05-05T16:21:15.803Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "寒戰1994｜揭開角色對照　楊樂文何啟華角色早在《寒戰2》出現",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260505/1128381513893679104792163.jpeg/burN4vrTvl5xSIZbOjd2Z8g2mYR0Qhek736XGO9-lxg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60346808/%E5%AF%92%E6%88%B01994-%E6%8F%AD%E9%96%8B%E8%A7%92%E8%89%B2%E5%B0%8D%E7%85%A7-%E6%A5%8A%E6%A8%82%E6%96%87%E4%BD%95%E5%95%9F%E8%8F%AF%E8%A7%92%E8%89%B2%E6%97%A9%E5%9C%A8-%E5%AF%92%E6%88%B02-%E5%87%BA%E7%8F%BE",
-    "timestamp": "2026-05-05T15:48:01.877Z",
     "strategy": ".content-card__main"
   }
 ];
