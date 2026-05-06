@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-06T21:33:38.835Z
+// Last updated: 2026-05-06T22:26:29.509Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "天氣｜今日介乎23至27度　局部有一兩陣驟雨　明有驟雨及狂風雷暴",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260507/1128937085684944896723568.jpeg/_WoIYv5a0M9nj3vki1aNWiu9mbve4F1joh_5J6If-Sc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60347323/%E5%A4%A9%E6%B0%A3-%E4%BB%8A%E6%97%A5%E4%BB%8B%E4%B9%8E23%E8%87%B327%E5%BA%A6-%E5%B1%80%E9%83%A8%E6%9C%89%E4%B8%80%E5%85%A9%E9%99%A3%E9%A9%9F%E9%9B%A8-%E6%98%8E%E6%9C%89%E9%A9%9F%E9%9B%A8%E5%8F%8A%E7%8B%82%E9%A2%A8%E9%9B%B7%E6%9A%B4",
+    "timestamp": "2026-05-06T22:26:29.509Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "歐聯4強｜PSG合計6：5淘汰拜仁　決賽對陣阿仙奴",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260505/1128307140973301760850317.png/DjMU6LSZl3AIcrN2-DzdDbtpDP9mlJHKmDZ_3pg2f94?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60346945/%E5%85%A9%E6%B8%AF%E7%94%B7%E6%97%A5%E6%9C%AC%E9%A3%9B%E9%A9%92%E5%B1%B1%E9%81%87%E9%9A%AA%E9%87%80%E4%B8%80%E6%AD%BB-%E6%94%80%E5%B1%B1%E5%B0%88%E5%AE%B6-5%E6%9C%88%E5%A4%A9%E6%B0%A3%E4%B8%8D%E7%A9%A9%E6%95%91%E6%8F%B4%E9%9B%A3%E5%BA%A6%E5%A2%9E",
     "timestamp": "2026-05-06T02:02:20.897Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "來稿｜澳門男走私51公斤飯盒背後——資本壟斷下的基層悲歌",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260505/1128410499734573056653018.jpeg/tsAC-d0B5tCozLPobmrH0eo2ZpS2f-EYldiT-JXYk_g?v=w1920r16_9",
-    "url": "https://www.hk01.com/01%E8%AB%96%E5%A3%87/60346640/%E4%BE%86%E7%A8%BF-%E6%BE%B3%E9%96%80%E7%94%B7%E8%B5%B0%E7%A7%8151%E5%85%AC%E6%96%A4%E9%A3%AF%E7%9B%92%E8%83%8C%E5%BE%8C-%E8%B3%87%E6%9C%AC%E5%A3%9F%E6%96%B7%E4%B8%8B%E7%9A%84%E5%9F%BA%E5%B1%A4%E6%82%B2%E6%AD%8C",
-    "timestamp": "2026-05-06T01:11:26.489Z",
     "strategy": ".content-card__main"
   }
 ];
