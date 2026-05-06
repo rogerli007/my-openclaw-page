@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-06T22:53:54.758Z
+// Last updated: 2026-05-06T23:27:25.161Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "機場安檢慢飛機照起飛！30人闖禁區「肉身擋機」　83名乘客被遺棄",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260506/1128736359482134528498725.png/vTpHSCV5BYIYI08dOiWlk_DOwUpBwlOYZSbzRGUm80Q?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60345310/%E6%A9%9F%E5%A0%B4%E5%AE%89%E6%AA%A2%E6%85%A2%E9%A3%9B%E6%A9%9F%E7%85%A7%E8%B5%B7%E9%A3%9B-30%E4%BA%BA%E9%97%96%E7%A6%81%E5%8D%80-%E8%82%89%E8%BA%AB%E6%93%8B%E6%A9%9F-83%E5%90%8D%E4%B9%98%E5%AE%A2%E8%A2%AB%E9%81%BA%E6%A3%84",
+    "timestamp": "2026-05-06T23:27:25.161Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "TVB女星二度改名慘被諷改極唔紅　自爆本名撞港姐冠軍陳曉華",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260506/1128689590866022400829567.png/5W2UVkG0RwFBY7zyyhpMIF-08d1hym5NvBLfoLwS36A?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60347079/%E6%97%A5%E6%9C%AC%E5%8C%97%E6%B5%B7%E9%81%93%E9%A9%9A%E7%8F%BE300kg%E6%A3%95%E7%86%8A-%E7%A7%8B%E7%94%B0%E7%B8%A3%E8%BE%B2%E5%A4%AB%E9%81%AD%E7%86%8A%E6%8A%93%E5%82%B7%E9%9D%A2%E6%89%8B%E6%80%A5%E9%80%83%E5%91%BD-%E6%9C%89%E7%89%87",
     "timestamp": "2026-05-06T05:51:10.031Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "陳家珮逆線行車｜立法會監委會裁定屬貪方便魯莽行為　作書面警告",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260309/1107698406555389952803296.jpeg/5BoagvhH8DtL3TxW9bPzkkajcIWhbqvhA3bYACZ22AA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60346989/%E9%99%B3%E5%AE%B6%E7%8F%AE%E9%80%86%E7%B7%9A%E8%A1%8C%E8%BB%8A-%E7%AB%8B%E6%B3%95%E6%9C%83%E7%9B%A3%E5%A7%94%E6%9C%83%E8%A3%81%E5%AE%9A%E5%B1%AC%E8%B2%AA%E6%96%B9%E4%BE%BF%E9%AD%AF%E8%8E%BD%E8%A1%8C%E7%82%BA-%E4%BD%9C%E6%9B%B8%E9%9D%A2%E8%AD%A6%E5%91%8A",
-    "timestamp": "2026-05-06T03:24:04.773Z",
     "strategy": ".content-card__main"
   }
 ];
