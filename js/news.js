@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-06T18:56:57.263Z
+// Last updated: 2026-05-06T19:42:50.329Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "伊朗外交部：仍在審閱美國提出方案　尚未向巴基斯坦轉達意見",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260507/1128881154817003520180459.jpeg/vl9z7dsCfbEo4HhYRYxrnBpfdnm9vN2TNMTs7DTE7Ow?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60347330/%E4%BC%8A%E6%9C%97%E5%A4%96%E4%BA%A4%E9%83%A8-%E4%BB%8D%E5%9C%A8%E5%AF%A9%E9%96%B1%E7%BE%8E%E5%9C%8B%E6%8F%90%E5%87%BA%E6%96%B9%E6%A1%88-%E5%B0%9A%E6%9C%AA%E5%90%91%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E8%BD%89%E9%81%94%E6%84%8F%E8%A6%8B",
+    "timestamp": "2026-05-06T19:42:50.329Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "伊朗外交部：仍在審閱美國提出方案　尚未向巴基斯坦轉達意見",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260504/1127832969793245184294506.jpeg/6AlvUwF6Hgz1WkGfCS7EYLJi7aVBFC1jhdYSGYXWEhk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60346923/%E6%BC%A2%E5%9D%A6%E7%97%85%E6%AF%92-%E9%83%B5%E8%BC%AA%E5%B0%87%E9%9D%A0%E5%B2%B8%E8%A5%BF%E7%8F%AD%E7%89%99%E5%8A%A0%E9%82%A3%E5%88%A9%E7%BE%A4%E5%B2%9B-3%E5%90%8D%E7%97%85%E6%82%A3%E7%A7%BB%E9%80%81%E8%8D%B7%E8%98%AD%E6%95%91%E6%B2%BB",
     "timestamp": "2026-05-05T21:43:56.216Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "歐聯4強｜阿仙奴時隔20年再闖決賽　兩回合2：1淘汰馬體會",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260506/1128557871517143040947852.jpeg/8L76RlfnF7nsC_et8GxaZBXP6B5IQHmjXhrhyF4a4cg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60346922/%E6%AD%90%E8%81%AF4%E5%BC%B7-%E9%98%BF%E4%BB%99%E5%A5%B4%E6%99%82%E9%9A%9420%E5%B9%B4%E5%86%8D%E9%97%96%E6%B1%BA%E8%B3%BD-%E5%85%A9%E5%9B%9E%E5%90%882-1%E6%B7%98%E6%B1%B0%E9%A6%AC%E9%AB%94%E6%9C%83",
-    "timestamp": "2026-05-05T21:14:21.983Z",
     "strategy": ".content-card__main"
   }
 ];
