@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-06T20:19:50.599Z
+// Last updated: 2026-05-06T20:54:13.451Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "英國地方選舉今舉行　各政黨領袖臨選前齊發聲拉票　施紀賢籲團結",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260507/1128915415351693312152346.jpeg/xpPvi1_4DKgdx-cgNdvGTd4y-GFlxl9OjuKI2I7iiNg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60347335/%E8%8B%B1%E5%9C%8B%E5%9C%B0%E6%96%B9%E9%81%B8%E8%88%89%E4%BB%8A%E8%88%89%E8%A1%8C-%E5%90%84%E6%94%BF%E9%BB%A8%E9%A0%98%E8%A2%96%E8%87%A8%E9%81%B8%E5%89%8D%E9%BD%8A%E7%99%BC%E8%81%B2%E6%8B%89%E7%A5%A8-%E6%96%BD%E7%B4%80%E8%B3%A2%E7%B1%B2%E5%9C%98%E7%B5%90",
+    "timestamp": "2026-05-06T20:54:13.451Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "以軍停火期間空襲貝魯特南郊　以媒稱擊斃真主黨精銳部隊指揮官",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260503/1127744841095057408562310.jpeg/kZ2lEt1sZF63NLcxsHG41Z_TcHrHVLHOg4cs1YOHLNU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60346234/momax-lg%E6%96%B0%E5%93%81%E7%99%BB%E5%A0%B4-%E7%A3%81%E5%90%B8%E5%B0%8F%E5%96%87%E5%8F%AD%E5%8A%A0%E5%BC%B7%E7%89%88-%E8%B6%85%E8%96%84%E5%AE%9A%E4%BD%8D%E5%99%A8%E5%8F%8A%E7%BA%96%E5%B7%A7%E6%B7%A8%E5%8C%96%E8%8C%B6%E5%87%A0",
     "timestamp": "2026-05-05T23:11:43.628Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "袁偉豪賀母親71歲大壽　袁媽媽「防腐級」凍齡樣貌驚艷網民",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260505/1128459712765890560012479.jpeg/xZjqxS8IGV57Yit7o6kHj-1R2eImrkswPAlJDDwJSQw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60346791/%E8%A2%81%E5%81%89%E8%B1%AA%E8%B3%80%E6%AF%8D%E8%A6%AA71%E6%AD%B2%E5%A4%A7%E5%A3%BD-%E8%A2%81%E5%AA%BD%E5%AA%BD-%E9%98%B2%E8%85%90%E7%B4%9A-%E5%87%8D%E9%BD%A1%E6%A8%A3%E8%B2%8C%E9%A9%9A%E8%89%B7%E7%B6%B2%E6%B0%91",
-    "timestamp": "2026-05-05T22:39:46.633Z",
     "strategy": ".content-card__main"
   }
 ];
