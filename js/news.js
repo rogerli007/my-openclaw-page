@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-07T09:47:40.812Z
+// Last updated: 2026-05-07T10:40:32.504Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "海關機場破行李藏毒案檢5公斤K仔　37歲女旅客被控販毒周五提堂",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260507/1129119608314269696250791.jpeg/Q7h4aCWB4NdyckN20JA0Tt_uU2LEQODb70FJJu9BSSY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60347630/%E6%B5%B7%E9%97%9C%E6%A9%9F%E5%A0%B4%E7%A0%B4%E8%A1%8C%E6%9D%8E%E8%97%8F%E6%AF%92%E6%A1%88%E6%AA%A25%E5%85%AC%E6%96%A4k%E4%BB%94-37%E6%AD%B2%E5%A5%B3%E6%97%85%E5%AE%A2%E8%A2%AB%E6%8E%A7%E8%B2%A9%E6%AF%92%E5%91%A8%E4%BA%94%E6%8F%90%E5%A0%82",
+    "timestamp": "2026-05-07T10:40:32.504Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "廣州14歲童酒後墮樓亡　父母告房東未裝防盜網索償68萬　法院駁回",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260506/1128804376974987264745392.jpeg/_5E8t1djpp7UewJXmQIVFcTELH0qwIKIR8qT20fKk9s?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8F%B0%E7%81%A3%E6%96%B0%E8%81%9E/60347296/%E5%8F%B0%E5%85%A7%E6%94%BF%E9%83%A8%E9%95%B7%E5%8A%89%E4%B8%96%E8%8A%B3%E8%A6%AA%E5%B1%AC%E8%A2%AB%E7%82%92-%E6%B1%9F%E8%A5%BF%E5%8F%B0%E4%BC%81%E6%8C%BA-%E4%B8%80%E4%B8%AD-%E5%9A%B4%E7%A6%81%E8%B3%87%E9%87%91%E6%8C%BA%E5%8F%B0%E7%8D%A8",
     "timestamp": "2026-05-06T14:02:35.322Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "三星宣布停止在華銷售所有家電產品　遭國產品牌夾擊　不敵價格戰",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20240607/875749540848734208405879.jpeg/_DqrXsXtUjG8WtNsPd2m7OAJJr9eOqMlh5SxXIeUsVw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60347294/%E4%B8%89%E6%98%9F%E5%AE%A3%E5%B8%83%E5%81%9C%E6%AD%A2%E5%9C%A8%E8%8F%AF%E9%8A%B7%E5%94%AE%E6%89%80%E6%9C%89%E5%AE%B6%E9%9B%BB%E7%94%A2%E5%93%81-%E9%81%AD%E5%9C%8B%E7%94%A2%E5%93%81%E7%89%8C%E5%A4%BE%E6%93%8A-%E4%B8%8D%E6%95%B5%E5%83%B9%E6%A0%BC%E6%88%B0",
-    "timestamp": "2026-05-06T13:12:38.371Z",
     "strategy": ".content-card__main"
   }
 ];
