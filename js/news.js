@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-06T23:27:25.161Z
+// Last updated: 2026-05-07T01:01:16.926Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "內塔尼亞胡：美以共同目標是移除伊朗所有濃縮鈾",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260414/1120678416878669824170539.png/ZodH-UiUm4mcfDDLyMdo9YI_BipRN1fC1BNfTdQTX00?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60347350/%E5%85%A7%E5%A1%94%E5%B0%BC%E4%BA%9E%E8%83%A1-%E7%BE%8E%E4%BB%A5%E5%85%B1%E5%90%8C%E7%9B%AE%E6%A8%99%E6%98%AF%E7%A7%BB%E9%99%A4%E4%BC%8A%E6%9C%97%E6%89%80%E6%9C%89%E6%BF%83%E7%B8%AE%E9%88%BE",
+    "timestamp": "2026-05-07T01:01:16.926Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "機場安檢慢飛機照起飛！30人闖禁區「肉身擋機」　83名乘客被遺棄",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260420/1122853695420108800672530.jpeg/iqEtE09dlHIoiQcfbPhGn2q9_pv34HS7EgoR6xIKEes?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60341793/2026%E6%9C%80%E9%AB%92%E8%88%87%E6%9C%80%E4%B9%BE%E6%B7%A8%E8%94%AC%E6%9E%9C%E5%90%8D%E5%96%AE-%E8%BE%B2%E8%97%A5%E6%AE%98%E7%95%99%E5%B7%AE%E7%95%B0%E6%98%8E%E9%A1%AF-%E9%86%AB%E6%95%99%E6%AD%A3%E7%A2%BA%E6%B8%85%E6%B4%97%E6%96%B9%E6%B3%95",
     "timestamp": "2026-05-06T07:09:34.071Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "日本北海道驚現300KG棕熊　秋田縣農夫遭熊抓傷面手急逃命｜有片",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260506/1128689590866022400829567.png/5W2UVkG0RwFBY7zyyhpMIF-08d1hym5NvBLfoLwS36A?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60347079/%E6%97%A5%E6%9C%AC%E5%8C%97%E6%B5%B7%E9%81%93%E9%A9%9A%E7%8F%BE300kg%E6%A3%95%E7%86%8A-%E7%A7%8B%E7%94%B0%E7%B8%A3%E8%BE%B2%E5%A4%AB%E9%81%AD%E7%86%8A%E6%8A%93%E5%82%B7%E9%9D%A2%E6%89%8B%E6%80%A5%E9%80%83%E5%91%BD-%E6%9C%89%E7%89%87",
-    "timestamp": "2026-05-06T05:51:10.031Z",
     "strategy": ".content-card__main"
   }
 ];
