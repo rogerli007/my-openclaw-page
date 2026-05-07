@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-07T10:40:32.504Z
+// Last updated: 2026-05-07T11:34:40.301Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "尖沙咀酒吧命案　另6人囚10年至10年4月　官稱後悔也無法起死回生",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20251125/1070066976191156224437906.jpeg/KR5ozwU8caparS46VagYbe0oz28DUBmEZLSpp2S0qac?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60347659/%E5%B0%96%E6%B2%99%E5%92%80%E9%85%92%E5%90%A7%E5%91%BD%E6%A1%88-%E5%8F%A66%E4%BA%BA%E5%9B%9A10%E5%B9%B4%E8%87%B310%E5%B9%B44%E6%9C%88-%E5%AE%98%E7%A8%B1%E5%BE%8C%E6%82%94%E4%B9%9F%E7%84%A1%E6%B3%95%E8%B5%B7%E6%AD%BB%E5%9B%9E%E7%94%9F",
+    "timestamp": "2026-05-07T11:34:40.301Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "海關機場破行李藏毒案檢5公斤K仔　37歲女旅客被控販毒周五提堂",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260506/1128845626738479104872469.jpeg/GuC6D8jWH6Wt9KaxNADGaJQu8_F6YVpVvucQWr7nEFo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60347316/%E7%89%B9%E6%9C%97%E6%99%AE%E7%A8%B1%E6%A5%B5%E6%9C%89%E5%8F%AF%E8%83%BD%E7%B5%90%E6%9D%9F%E4%BC%8A%E6%9C%97%E6%88%B0%E7%88%AD-%E8%A8%AA%E8%8F%AF%E5%89%8D%E6%88%96%E8%83%BD%E8%88%87%E5%BE%B7%E9%BB%91%E8%98%AD%E9%81%94%E6%88%90%E5%8D%94%E8%AD%B0",
     "timestamp": "2026-05-06T16:03:11.334Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "台內政部長劉世芳親屬被炒　江西台企挺｢一中｣：嚴禁資金挺台獨",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260506/1128804376974987264745392.jpeg/_5E8t1djpp7UewJXmQIVFcTELH0qwIKIR8qT20fKk9s?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8F%B0%E7%81%A3%E6%96%B0%E8%81%9E/60347296/%E5%8F%B0%E5%85%A7%E6%94%BF%E9%83%A8%E9%95%B7%E5%8A%89%E4%B8%96%E8%8A%B3%E8%A6%AA%E5%B1%AC%E8%A2%AB%E7%82%92-%E6%B1%9F%E8%A5%BF%E5%8F%B0%E4%BC%81%E6%8C%BA-%E4%B8%80%E4%B8%AD-%E5%9A%B4%E7%A6%81%E8%B3%87%E9%87%91%E6%8C%BA%E5%8F%B0%E7%8D%A8",
-    "timestamp": "2026-05-06T14:02:35.322Z",
     "strategy": ".content-card__main"
   }
 ];
