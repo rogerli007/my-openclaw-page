@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-07T01:47:56.078Z
+// Last updated: 2026-05-07T05:45:31.533Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "天津男稱爺爺捐贈古畫去向不明　天津美院：正調查",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260507/1129046080126717952826730.jpeg/-JvdaoFNcvCVDvs7EovsTQQHVOy-859yxSDBFMUgwRQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60347454/%E5%A4%A9%E6%B4%A5%E7%94%B7%E7%A8%B1%E7%88%BA%E7%88%BA%E6%8D%90%E8%B4%88%E5%8F%A4%E7%95%AB%E5%8E%BB%E5%90%91%E4%B8%8D%E6%98%8E-%E5%A4%A9%E6%B4%A5%E7%BE%8E%E9%99%A2-%E6%AD%A3%E8%AA%BF%E6%9F%A5",
+    "timestamp": "2026-05-07T05:45:31.533Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "特朗普稱或在訪華前與伊朗達成協議　美媒：伊方7日回覆美方提議",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260209/1097525667613904896576340.png/7a6qgMiFsR-mTJQ2Km8S9-Vk3FUcoknSZ2HM7GdhzOw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60320595/%E6%9D%8E%E6%B3%B3%E7%9F%A5%E6%BC%94%E5%94%B1%E6%9C%832026%E9%A6%99%E6%B8%AF-%E9%96%80%E7%A5%A8%E5%84%AA%E5%85%88-%E5%85%AC%E5%94%AE%E6%94%BB%E7%95%A5-%E8%B3%BC%E7%A5%A8%E9%80%A3%E7%B5%90-%E5%BA%A7%E4%BD%8D%E8%A1%A8",
     "timestamp": "2026-05-06T09:17:15.895Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "日本戰後首次境外發射進攻型導彈　中國：日本新軍國主義成勢為患",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260506/1128712990221144064265149.png/Zw0WZ_wk3-ixcXUh98hYJnt30X6Z3a3ZJzJrkScya5E?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60347134/%E6%97%A5%E6%9C%AC%E6%88%B0%E5%BE%8C%E9%A6%96%E6%AC%A1%E5%A2%83%E5%A4%96%E7%99%BC%E5%B0%84%E9%80%B2%E6%94%BB%E5%9E%8B%E5%B0%8E%E5%BD%88-%E4%B8%AD%E5%9C%8B-%E6%97%A5%E6%9C%AC%E6%96%B0%E8%BB%8D%E5%9C%8B%E4%B8%BB%E7%BE%A9%E6%88%90%E5%8B%A2%E7%82%BA%E6%82%A3",
-    "timestamp": "2026-05-06T08:04:21.484Z",
     "strategy": ".content-card__main"
   }
 ];
