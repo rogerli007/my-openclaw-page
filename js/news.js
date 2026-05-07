@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-07T23:12:52.401Z
+// Last updated: 2026-05-07T23:39:03.333Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "倪晨曦出錢出力為殘疾人士圓夢　從孩子身上找回初心:夢想好簡單",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260507/1129136964071591936405723.jpeg/Qlwfj-zhBtTeZOiDaQdHh8wlp67ti0P2oD79SJo-_Ug?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60347655/%E5%80%AA%E6%99%A8%E6%9B%A6%E5%87%BA%E9%8C%A2%E5%87%BA%E5%8A%9B%E7%82%BA%E6%AE%98%E7%96%BE%E4%BA%BA%E5%A3%AB%E5%9C%93%E5%A4%A2-%E5%BE%9E%E5%AD%A9%E5%AD%90%E8%BA%AB%E4%B8%8A%E6%89%BE%E5%9B%9E%E5%88%9D%E5%BF%83-%E5%A4%A2%E6%83%B3%E5%A5%BD%E7%B0%A1%E5%96%AE",
+    "timestamp": "2026-05-07T23:39:03.333Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "前東張女神攻讀教育學博士　曾為養家還債日打7份工揭學霸之路",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260507/1128988382714662912653807.jpeg/cZpHIiUi5nYsLQpKtRbmqw7yaxp5GmiBjuKs3o7irN4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60347353/%E7%89%B9%E6%9C%97%E6%99%AE%E7%A8%B1%E6%88%96%E5%9C%A8%E8%A8%AA%E8%8F%AF%E5%89%8D%E8%88%87%E4%BC%8A%E6%9C%97%E9%81%94%E6%88%90%E5%8D%94%E8%AD%B0-%E7%BE%8E%E5%AA%92-%E4%BC%8A%E6%96%B97%E6%97%A5%E5%9B%9E%E8%A6%86%E7%BE%8E%E6%96%B9%E6%8F%90%E8%AD%B0",
     "timestamp": "2026-05-07T01:47:56.078Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "內塔尼亞胡：美以共同目標是移除伊朗所有濃縮鈾",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260414/1120678416878669824170539.png/ZodH-UiUm4mcfDDLyMdo9YI_BipRN1fC1BNfTdQTX00?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60347350/%E5%85%A7%E5%A1%94%E5%B0%BC%E4%BA%9E%E8%83%A1-%E7%BE%8E%E4%BB%A5%E5%85%B1%E5%90%8C%E7%9B%AE%E6%A8%99%E6%98%AF%E7%A7%BB%E9%99%A4%E4%BC%8A%E6%9C%97%E6%89%80%E6%9C%89%E6%BF%83%E7%B8%AE%E9%88%BE",
-    "timestamp": "2026-05-07T01:01:16.926Z",
     "strategy": ".content-card__main"
   }
 ];
