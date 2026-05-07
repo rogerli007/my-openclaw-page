@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-07T05:45:31.533Z
+// Last updated: 2026-05-07T06:46:09.722Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "前中天主播「馬德」涉共諜案　收陸資誘台軍拍投降片　或重判12年",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260507/1129064624314912768516428.png/OVE0aB04nvzVxXotJ16UhgXWQajVvpH33FRRFNxUURQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8F%B0%E7%81%A3%E6%96%B0%E8%81%9E/60347509/%E5%89%8D%E4%B8%AD%E5%A4%A9%E4%B8%BB%E6%92%AD-%E9%A6%AC%E5%BE%B7-%E6%B6%89%E5%85%B1%E8%AB%9C%E6%A1%88-%E6%94%B6%E9%99%B8%E8%B3%87%E8%AA%98%E5%8F%B0%E8%BB%8D%E6%8B%8D%E6%8A%95%E9%99%8D%E7%89%87-%E6%88%96%E9%87%8D%E5%88%A412%E5%B9%B4",
+    "timestamp": "2026-05-07T06:46:09.722Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "天津男稱爺爺捐贈古畫去向不明　天津美院：正調查",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260506/1128754347946020864370952.png/5UoLKvJlLXhw0YKTwxc7ViQ5__l4AcblOxdNKDsXTSg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60347238/%E6%B7%B1%E5%9C%B3%E9%BB%83%E9%87%91%E4%BA%A4%E6%98%93%E5%B9%B3%E5%8F%B0%E6%9D%B0%E6%88%91%E7%9D%BF%E7%88%86%E7%85%B2-%E8%B2%A0%E8%B2%AC%E4%BA%BA%E6%B6%89%E7%B6%93%E6%BF%9F%E7%8A%AF%E7%BD%AA%E8%A2%AB%E6%8E%A1%E5%88%91%E4%BA%8B%E5%BC%B7%E5%88%B6%E6%8E%AA%E6%96%BD",
     "timestamp": "2026-05-06T10:07:49.109Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "李泳知演唱會2026香港｜門票優先／公售攻略＋購票連結＋座位表",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260209/1097525667613904896576340.png/7a6qgMiFsR-mTJQ2Km8S9-Vk3FUcoknSZ2HM7GdhzOw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60320595/%E6%9D%8E%E6%B3%B3%E7%9F%A5%E6%BC%94%E5%94%B1%E6%9C%832026%E9%A6%99%E6%B8%AF-%E9%96%80%E7%A5%A8%E5%84%AA%E5%85%88-%E5%85%AC%E5%94%AE%E6%94%BB%E7%95%A5-%E8%B3%BC%E7%A5%A8%E9%80%A3%E7%B5%90-%E5%BA%A7%E4%BD%8D%E8%A1%A8",
-    "timestamp": "2026-05-06T09:17:15.895Z",
     "strategy": ".content-card__main"
   }
 ];
