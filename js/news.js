@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-07T20:49:16.499Z
+// Last updated: 2026-05-07T21:17:14.084Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "歐霸4強｜阿士東維拉合計4：1勝諾定咸森林　決賽對陣弗賴堡",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260508/1129280135522947072157649.jpeg/wBAxc-LtToW4LPivn_KBn7oJI06v3wFqBaBjtAWgY7Q?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60347733/%E6%AD%90%E9%9C%B84%E5%BC%B7-%E9%98%BF%E5%A3%AB%E6%9D%B1%E7%B6%AD%E6%8B%89%E5%90%88%E8%A8%884-1%E5%8B%9D%E8%AB%BE%E5%AE%9A%E5%92%B8%E6%A3%AE%E6%9E%97-%E6%B1%BA%E8%B3%BD%E5%B0%8D%E9%99%A3%E5%BC%97%E8%B3%B4%E5%A0%A1",
+    "timestamp": "2026-05-07T21:17:14.084Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "伊朗南部傳多聲爆炸　伊媒：或涉阿聯酋「敵對行動」",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260507/1128920261265985536765028.jpeg/7wcFfnGBCikcmixZuKkOdzRLZSrzbGov_es9eP3rPXg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60347336/%E6%AD%90%E8%81%AF4%E5%BC%B7-psg%E5%90%88%E8%A8%886-5%E6%B7%98%E6%B1%B0%E6%8B%9C%E4%BB%81-%E6%B1%BA%E8%B3%BD%E5%B0%8D%E9%99%A3%E9%98%BF%E4%BB%99%E5%A5%B4",
     "timestamp": "2026-05-06T21:33:38.835Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "英國地方選舉今舉行　各政黨領袖臨選前齊發聲拉票　施紀賢籲團結",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260507/1128915415351693312152346.jpeg/xpPvi1_4DKgdx-cgNdvGTd4y-GFlxl9OjuKI2I7iiNg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60347335/%E8%8B%B1%E5%9C%8B%E5%9C%B0%E6%96%B9%E9%81%B8%E8%88%89%E4%BB%8A%E8%88%89%E8%A1%8C-%E5%90%84%E6%94%BF%E9%BB%A8%E9%A0%98%E8%A2%96%E8%87%A8%E9%81%B8%E5%89%8D%E9%BD%8A%E7%99%BC%E8%81%B2%E6%8B%89%E7%A5%A8-%E6%96%BD%E7%B4%80%E8%B3%A2%E7%B1%B2%E5%9C%98%E7%B5%90",
-    "timestamp": "2026-05-06T20:54:13.451Z",
     "strategy": ".content-card__main"
   }
 ];
