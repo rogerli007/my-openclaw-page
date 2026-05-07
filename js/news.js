@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-07T13:02:45.788Z
+// Last updated: 2026-05-07T14:47:29.262Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "結業｜易址重開不到兩年　livehouse餐廳Lost Stars宣布月底結業",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260507/1129185592735698944830154.jpeg/ymvtdoMCLg7K4GejPNGUFP3jYhBbm3QQgYduN4GHbjc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60347700/%E7%B5%90%E6%A5%AD-%E6%98%93%E5%9D%80%E9%87%8D%E9%96%8B%E4%B8%8D%E5%88%B0%E5%85%A9%E5%B9%B4-livehouse%E9%A4%90%E5%BB%B3lost-stars%E5%AE%A3%E5%B8%83%E6%9C%88%E5%BA%95%E7%B5%90%E6%A5%AD",
+    "timestamp": "2026-05-07T14:47:29.262Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "五索當街遭員工兜口兜面掟蛋糕再兜頭射水　驚爆公司秘密花式炫富",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260507/1128867080670547968362950.jpeg/nfSYnhAF0PK_p3P2-dUge9nOCzNMJ8_1KOd2NSjndjU",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60347326/%E8%A7%80%E5%A1%98%E7%B9%9E%E9%81%93%E8%B1%90%E7%94%B0-%E8%88%9E%E9%BE%8D-%E6%92%9E%E5%A3%86%E5%87%8C%E7%A9%BA%E5%BD%88%E8%B5%B7-%E6%92%BC%E6%9C%AC%E7%94%B0%E8%A1%9D%E8%BF%91%E4%B8%80%E5%85%AC%E9%87%8C%E5%A7%8B%E6%92%9E%E6%AC%84%E5%81%9C%E4%BD%8E",
     "timestamp": "2026-05-06T18:06:52.256Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "白宮記協槍擊｜路透社：疑犯動機或涉不滿伊朗戰事　網上痛批政府",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260506/1128627987697111040496051.jpeg/LMsu-Z8hBxn15BtRe_R4jS6XQH2-lLwa_rQ_f_60P38?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60347325/%E7%99%BD%E5%AE%AE%E8%A8%98%E5%8D%94%E6%A7%8D%E6%93%8A-%E8%B7%AF%E9%80%8F%E7%A4%BE-%E7%96%91%E7%8A%AF%E5%8B%95%E6%A9%9F%E6%88%96%E6%B6%89%E4%B8%8D%E6%BB%BF%E4%BC%8A%E6%9C%97%E6%88%B0%E4%BA%8B-%E7%B6%B2%E4%B8%8A%E7%97%9B%E6%89%B9%E6%94%BF%E5%BA%9C",
-    "timestamp": "2026-05-06T17:25:00.719Z",
     "strategy": ".content-card__main"
   }
 ];
