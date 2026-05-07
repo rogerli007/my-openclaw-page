@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-07T06:46:09.722Z
+// Last updated: 2026-05-07T07:47:02.851Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "光希維港拍攝於暴雨讚香港雨景浪漫　自爆愛吃酸辣火鍋兼抽空行山",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260507/1129080250240602112178625.jpeg/hCJpRxkZgJmYrETBRUrVtfXPKmyBR7wR8qjUFPKo1BQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60347538/%E5%85%89%E5%B8%8C%E7%B6%AD%E6%B8%AF%E6%8B%8D%E6%94%9D%E6%96%BC%E6%9A%B4%E9%9B%A8%E8%AE%9A%E9%A6%99%E6%B8%AF%E9%9B%A8%E6%99%AF%E6%B5%AA%E6%BC%AB-%E8%87%AA%E7%88%86%E6%84%9B%E5%90%83%E9%85%B8%E8%BE%A3%E7%81%AB%E9%8D%8B%E5%85%BC%E6%8A%BD%E7%A9%BA%E8%A1%8C%E5%B1%B1",
+    "timestamp": "2026-05-07T07:47:02.851Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "前中天主播「馬德」涉共諜案　收陸資誘台軍拍投降片　或重判12年",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/3384937/org/8a89fa36e67c4922f9b32f138b2731bd.jpg/OFNV7Gmb5j2OkIwcUtFjT4XMTmhdgQb6FxFPNRcRTzU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60347281/%E6%87%B2%E6%95%99%E5%93%A1%E6%B6%89%E6%8D%85%E7%A9%BF%E5%9B%9A%E5%8F%8B%E7%9B%B4%E8%85%B8-%E6%87%B2%E6%95%99%E4%B8%BB%E4%BB%BB%E8%B7%9F%E4%B8%8A%E7%B4%9A%E6%8C%87%E7%A4%BA-%E8%AA%BF%E6%9F%A5%E5%B7%B2%E5%AE%9A%E4%BA%8B%E4%BB%B6%E5%B1%AC%E8%BC%95%E5%BE%AE",
     "timestamp": "2026-05-06T11:45:08.687Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "深圳黃金交易平台杰我睿爆煲　負責人涉經濟犯罪被採刑事強制措施",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260506/1128754347946020864370952.png/5UoLKvJlLXhw0YKTwxc7ViQ5__l4AcblOxdNKDsXTSg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60347238/%E6%B7%B1%E5%9C%B3%E9%BB%83%E9%87%91%E4%BA%A4%E6%98%93%E5%B9%B3%E5%8F%B0%E6%9D%B0%E6%88%91%E7%9D%BF%E7%88%86%E7%85%B2-%E8%B2%A0%E8%B2%AC%E4%BA%BA%E6%B6%89%E7%B6%93%E6%BF%9F%E7%8A%AF%E7%BD%AA%E8%A2%AB%E6%8E%A1%E5%88%91%E4%BA%8B%E5%BC%B7%E5%88%B6%E6%8E%AA%E6%96%BD",
-    "timestamp": "2026-05-06T10:07:49.109Z",
     "strategy": ".content-card__main"
   }
 ];
