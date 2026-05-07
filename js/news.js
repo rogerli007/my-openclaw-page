@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-07T14:47:29.262Z
+// Last updated: 2026-05-07T16:28:32.667Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "16歲女玩懸崖鞦韆墮亡　四川河南多家景區暫停營運高空繩索項目",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260507/1129147825863528448081672.jpeg/sd9QjdEqpDynHMwfVhykkYcXKYHjUCJ77BgK5OwYCuQ",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60347666/16%E6%AD%B2%E5%A5%B3%E7%8E%A9%E6%87%B8%E5%B4%96%E9%9E%A6%E9%9F%86%E5%A2%AE%E4%BA%A1-%E5%9B%9B%E5%B7%9D%E6%B2%B3%E5%8D%97%E5%A4%9A%E5%AE%B6%E6%99%AF%E5%8D%80%E6%9A%AB%E5%81%9C%E7%87%9F%E9%81%8B%E9%AB%98%E7%A9%BA%E7%B9%A9%E7%B4%A2%E9%A0%85%E7%9B%AE",
+    "timestamp": "2026-05-07T16:28:32.667Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "結業｜易址重開不到兩年　livehouse餐廳Lost Stars宣布月底結業",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260507/1128881154817003520180459.jpeg/vl9z7dsCfbEo4HhYRYxrnBpfdnm9vN2TNMTs7DTE7Ow?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60347330/%E4%BC%8A%E6%9C%97%E5%A4%96%E4%BA%A4%E9%83%A8-%E4%BB%8D%E5%9C%A8%E5%AF%A9%E9%96%B1%E7%BE%8E%E5%9C%8B%E6%8F%90%E5%87%BA%E6%96%B9%E6%A1%88-%E5%B0%9A%E6%9C%AA%E5%90%91%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E8%BD%89%E9%81%94%E6%84%8F%E8%A6%8B",
     "timestamp": "2026-05-06T18:56:57.263Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "觀塘繞道豐田「舞龍」撞壆凌空彈起　撼本田衝近一公里始撞欄停低",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260507/1128867080670547968362950.jpeg/nfSYnhAF0PK_p3P2-dUge9nOCzNMJ8_1KOd2NSjndjU",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60347326/%E8%A7%80%E5%A1%98%E7%B9%9E%E9%81%93%E8%B1%90%E7%94%B0-%E8%88%9E%E9%BE%8D-%E6%92%9E%E5%A3%86%E5%87%8C%E7%A9%BA%E5%BD%88%E8%B5%B7-%E6%92%BC%E6%9C%AC%E7%94%B0%E8%A1%9D%E8%BF%91%E4%B8%80%E5%85%AC%E9%87%8C%E5%A7%8B%E6%92%9E%E6%AC%84%E5%81%9C%E4%BD%8E",
-    "timestamp": "2026-05-06T18:06:52.256Z",
     "strategy": ".content-card__main"
   }
 ];
