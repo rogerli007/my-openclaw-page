@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-07T21:17:14.084Z
+// Last updated: 2026-05-07T21:42:21.121Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "歐霸4強｜阿士東維拉合計4：1勝諾定咸森林　決賽對陣弗賴堡",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260508/1129280135522947072157649.jpeg/wBAxc-LtToW4LPivn_KBn7oJI06v3wFqBaBjtAWgY7Q?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60347733/%E6%AD%90%E9%9C%B84%E5%BC%B7-%E9%98%BF%E5%A3%AB%E6%9D%B1%E7%B6%AD%E6%8B%89%E5%90%88%E8%A8%884-1%E5%8B%9D%E8%AB%BE%E5%AE%9A%E5%92%B8%E6%A3%AE%E6%9E%97-%E6%B1%BA%E8%B3%BD%E5%B0%8D%E9%99%A3%E5%BC%97%E8%B3%B4%E5%A0%A1",
+    "timestamp": "2026-05-07T21:42:21.121Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "歐霸4強｜阿士東維拉合計4：1勝諾定咸森林　決賽對陣弗賴堡",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260507/1128937085684944896723568.jpeg/_WoIYv5a0M9nj3vki1aNWiu9mbve4F1joh_5J6If-Sc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60347323/%E5%A4%A9%E6%B0%A3-%E4%BB%8A%E6%97%A5%E4%BB%8B%E4%B9%8E23%E8%87%B327%E5%BA%A6-%E5%B1%80%E9%83%A8%E6%9C%89%E4%B8%80%E5%85%A9%E9%99%A3%E9%A9%9F%E9%9B%A8-%E6%98%8E%E6%9C%89%E9%A9%9F%E9%9B%A8%E5%8F%8A%E7%8B%82%E9%A2%A8%E9%9B%B7%E6%9A%B4",
     "timestamp": "2026-05-06T22:26:29.509Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "歐聯4強｜PSG合計6：5淘汰拜仁　決賽對陣阿仙奴",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260507/1128920261265985536765028.jpeg/7wcFfnGBCikcmixZuKkOdzRLZSrzbGov_es9eP3rPXg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60347336/%E6%AD%90%E8%81%AF4%E5%BC%B7-psg%E5%90%88%E8%A8%886-5%E6%B7%98%E6%B1%B0%E6%8B%9C%E4%BB%81-%E6%B1%BA%E8%B3%BD%E5%B0%8D%E9%99%A3%E9%98%BF%E4%BB%99%E5%A5%B4",
-    "timestamp": "2026-05-06T21:33:38.835Z",
     "strategy": ".content-card__main"
   }
 ];
