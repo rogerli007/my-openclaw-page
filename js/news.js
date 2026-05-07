@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-07T21:42:21.121Z
+// Last updated: 2026-05-07T22:14:09.515Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "伊朗：美國違反停火協議襲擊港口　伊方反擊嚴重損壞美軍艦",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260508/1129302268529610752809231.jpeg/ARphhSwMMqa3XLW54p5i1bOePaiURMvHeHns-Xh57Pk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60347741/%E4%BC%8A%E6%9C%97-%E7%BE%8E%E5%9C%8B%E9%81%95%E5%8F%8D%E5%81%9C%E7%81%AB%E5%8D%94%E8%AD%B0%E8%A5%B2%E6%93%8A%E6%B8%AF%E5%8F%A3-%E4%BC%8A%E6%96%B9%E5%8F%8D%E6%93%8A%E5%9A%B4%E9%87%8D%E6%90%8D%E5%A3%9E%E7%BE%8E%E8%BB%8D%E8%89%A6",
+    "timestamp": "2026-05-07T22:14:09.515Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "歐霸4強｜阿士東維拉合計4：1勝諾定咸森林　決賽對陣弗賴堡",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260506/1128816808736854016719430.jpeg/p9koa8C_2NLDEeHDuOjld6li58xljI26Yblll2G5ZZc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60347140/tvb%E5%A5%B3%E6%98%9F%E4%BA%8C%E5%BA%A6%E6%94%B9%E5%90%8D%E6%85%98%E8%A2%AB%E8%AB%B7%E6%94%B9%E6%A5%B5%E5%94%94%E7%B4%85-%E8%87%AA%E7%88%86%E6%9C%AC%E5%90%8D%E6%92%9E%E6%B8%AF%E5%A7%90%E5%86%A0%E8%BB%8D%E9%99%B3%E6%9B%89%E8%8F%AF",
     "timestamp": "2026-05-06T22:53:54.758Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "天氣｜今日介乎23至27度　局部有一兩陣驟雨　明有驟雨及狂風雷暴",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260507/1128937085684944896723568.jpeg/_WoIYv5a0M9nj3vki1aNWiu9mbve4F1joh_5J6If-Sc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60347323/%E5%A4%A9%E6%B0%A3-%E4%BB%8A%E6%97%A5%E4%BB%8B%E4%B9%8E23%E8%87%B327%E5%BA%A6-%E5%B1%80%E9%83%A8%E6%9C%89%E4%B8%80%E5%85%A9%E9%99%A3%E9%A9%9F%E9%9B%A8-%E6%98%8E%E6%9C%89%E9%A9%9F%E9%9B%A8%E5%8F%8A%E7%8B%82%E9%A2%A8%E9%9B%B7%E6%9A%B4",
-    "timestamp": "2026-05-06T22:26:29.509Z",
     "strategy": ".content-card__main"
   }
 ];
