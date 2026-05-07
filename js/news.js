@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-07T07:47:02.851Z
+// Last updated: 2026-05-07T09:47:40.812Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "廣州14歲童酒後墮樓亡　父母告房東未裝防盜網索償68萬　法院駁回",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260507/1129100104502874112237851.jpeg/yiD0bxhn3FnCsV6L2rK_aQJ4JoD_Hyu5AzCaSwMwmks?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60347437/%E5%BB%A3%E5%B7%9E14%E6%AD%B2%E7%AB%A5%E9%85%92%E5%BE%8C%E5%A2%AE%E6%A8%93%E4%BA%A1-%E7%88%B6%E6%AF%8D%E5%91%8A%E6%88%BF%E6%9D%B1%E6%9C%AA%E8%A3%9D%E9%98%B2%E7%9B%9C%E7%B6%B2%E7%B4%A2%E5%84%9F68%E8%90%AC-%E6%B3%95%E9%99%A2%E9%A7%81%E5%9B%9E",
+    "timestamp": "2026-05-07T09:47:40.812Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "光希維港拍攝於暴雨讚香港雨景浪漫　自爆愛吃酸辣火鍋兼抽空行山",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20240607/875749540848734208405879.jpeg/_DqrXsXtUjG8WtNsPd2m7OAJJr9eOqMlh5SxXIeUsVw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60347294/%E4%B8%89%E6%98%9F%E5%AE%A3%E5%B8%83%E5%81%9C%E6%AD%A2%E5%9C%A8%E8%8F%AF%E9%8A%B7%E5%94%AE%E6%89%80%E6%9C%89%E5%AE%B6%E9%9B%BB%E7%94%A2%E5%93%81-%E9%81%AD%E5%9C%8B%E7%94%A2%E5%93%81%E7%89%8C%E5%A4%BE%E6%93%8A-%E4%B8%8D%E6%95%B5%E5%83%B9%E6%A0%BC%E6%88%B0",
     "timestamp": "2026-05-06T13:12:38.371Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "懲教員涉捅穿囚友直腸　懲教主任跟上級指示　調查已定事件屬輕微",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/3384937/org/8a89fa36e67c4922f9b32f138b2731bd.jpg/OFNV7Gmb5j2OkIwcUtFjT4XMTmhdgQb6FxFPNRcRTzU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60347281/%E6%87%B2%E6%95%99%E5%93%A1%E6%B6%89%E6%8D%85%E7%A9%BF%E5%9B%9A%E5%8F%8B%E7%9B%B4%E8%85%B8-%E6%87%B2%E6%95%99%E4%B8%BB%E4%BB%BB%E8%B7%9F%E4%B8%8A%E7%B4%9A%E6%8C%87%E7%A4%BA-%E8%AA%BF%E6%9F%A5%E5%B7%B2%E5%AE%9A%E4%BA%8B%E4%BB%B6%E5%B1%AC%E8%BC%95%E5%BE%AE",
-    "timestamp": "2026-05-06T11:45:08.687Z",
     "strategy": ".content-card__main"
   }
 ];
