@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-07T01:01:16.926Z
+// Last updated: 2026-05-07T01:47:56.078Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "特朗普稱或在訪華前與伊朗達成協議　美媒：伊方7日回覆美方提議",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260507/1128988382714662912653807.jpeg/cZpHIiUi5nYsLQpKtRbmqw7yaxp5GmiBjuKs3o7irN4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60347353/%E7%89%B9%E6%9C%97%E6%99%AE%E7%A8%B1%E6%88%96%E5%9C%A8%E8%A8%AA%E8%8F%AF%E5%89%8D%E8%88%87%E4%BC%8A%E6%9C%97%E9%81%94%E6%88%90%E5%8D%94%E8%AD%B0-%E7%BE%8E%E5%AA%92-%E4%BC%8A%E6%96%B97%E6%97%A5%E5%9B%9E%E8%A6%86%E7%BE%8E%E6%96%B9%E6%8F%90%E8%AD%B0",
+    "timestamp": "2026-05-07T01:47:56.078Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "內塔尼亞胡：美以共同目標是移除伊朗所有濃縮鈾",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260506/1128712990221144064265149.png/Zw0WZ_wk3-ixcXUh98hYJnt30X6Z3a3ZJzJrkScya5E?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60347134/%E6%97%A5%E6%9C%AC%E6%88%B0%E5%BE%8C%E9%A6%96%E6%AC%A1%E5%A2%83%E5%A4%96%E7%99%BC%E5%B0%84%E9%80%B2%E6%94%BB%E5%9E%8B%E5%B0%8E%E5%BD%88-%E4%B8%AD%E5%9C%8B-%E6%97%A5%E6%9C%AC%E6%96%B0%E8%BB%8D%E5%9C%8B%E4%B8%BB%E7%BE%A9%E6%88%90%E5%8B%A2%E7%82%BA%E6%82%A3",
     "timestamp": "2026-05-06T08:04:21.484Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "2026最髒與最乾淨蔬果名單｜農藥殘留差異明顯　醫教正確清洗方法",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260420/1122853695420108800672530.jpeg/iqEtE09dlHIoiQcfbPhGn2q9_pv34HS7EgoR6xIKEes?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60341793/2026%E6%9C%80%E9%AB%92%E8%88%87%E6%9C%80%E4%B9%BE%E6%B7%A8%E8%94%AC%E6%9E%9C%E5%90%8D%E5%96%AE-%E8%BE%B2%E8%97%A5%E6%AE%98%E7%95%99%E5%B7%AE%E7%95%B0%E6%98%8E%E9%A1%AF-%E9%86%AB%E6%95%99%E6%AD%A3%E7%A2%BA%E6%B8%85%E6%B4%97%E6%96%B9%E6%B3%95",
-    "timestamp": "2026-05-06T07:09:34.071Z",
     "strategy": ".content-card__main"
   }
 ];
