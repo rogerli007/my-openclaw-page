@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-07T22:14:09.515Z
+// Last updated: 2026-05-07T22:43:57.617Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "「御用反派」上海被捕獲勁有型戴名錶　低調娶富貴老婆生活無憂",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260507/1129132379680542720451892.jpeg/2Eo8mXRt9lFHGf7QU9XRBo8f1wUpFjqZKhee1ioXntY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60347458/%E9%99%B3%E4%BF%9D%E5%85%83%E4%B8%8A%E6%B5%B7%E8%A2%AB%E6%8D%95%E7%8D%B2%E5%8B%81%E6%9C%89%E5%9E%8B%E6%88%B4%E5%90%8D%E9%8C%B6-%E4%BD%8E%E8%AA%BF%E5%A8%B6%E5%AF%8C%E8%B2%B4%E8%80%81%E5%A9%86%E7%94%9F%E6%B4%BB%E7%84%A1%E6%86%82",
+    "timestamp": "2026-05-07T22:43:57.617Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "伊朗：美國違反停火協議襲擊港口　伊方反擊嚴重損壞美軍艦",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260506/1128736359482134528498725.png/vTpHSCV5BYIYI08dOiWlk_DOwUpBwlOYZSbzRGUm80Q?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60345310/%E6%A9%9F%E5%A0%B4%E5%AE%89%E6%AA%A2%E6%85%A2%E9%A3%9B%E6%A9%9F%E7%85%A7%E8%B5%B7%E9%A3%9B-30%E4%BA%BA%E9%97%96%E7%A6%81%E5%8D%80-%E8%82%89%E8%BA%AB%E6%93%8B%E6%A9%9F-83%E5%90%8D%E4%B9%98%E5%AE%A2%E8%A2%AB%E9%81%BA%E6%A3%84",
     "timestamp": "2026-05-06T23:27:25.161Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "TVB女星二度改名慘被諷改極唔紅　自爆本名撞港姐冠軍陳曉華",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260506/1128816808736854016719430.jpeg/p9koa8C_2NLDEeHDuOjld6li58xljI26Yblll2G5ZZc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60347140/tvb%E5%A5%B3%E6%98%9F%E4%BA%8C%E5%BA%A6%E6%94%B9%E5%90%8D%E6%85%98%E8%A2%AB%E8%AB%B7%E6%94%B9%E6%A5%B5%E5%94%94%E7%B4%85-%E8%87%AA%E7%88%86%E6%9C%AC%E5%90%8D%E6%92%9E%E6%B8%AF%E5%A7%90%E5%86%A0%E8%BB%8D%E9%99%B3%E6%9B%89%E8%8F%AF",
-    "timestamp": "2026-05-06T22:53:54.758Z",
     "strategy": ".content-card__main"
   }
 ];
