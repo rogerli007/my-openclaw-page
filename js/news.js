@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-07T22:43:57.617Z
+// Last updated: 2026-05-07T23:12:52.401Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "前東張女神攻讀教育學博士　曾為養家還債日打7份工揭學霸之路",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260507/1129172629400326144982341.jpeg/vERNIJUw1RzeYOT_GhNfJRrZ6klYP4eSxXrABsV6wAY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60347580/%E9%BB%83%E7%A9%8E%E5%90%9B%E6%94%BB%E8%AE%80%E6%95%99%E8%82%B2%E5%AD%B8%E5%8D%9A%E5%A3%AB-%E6%9B%BE%E7%82%BA%E9%A4%8A%E5%AE%B6%E9%82%84%E5%82%B5%E6%97%A5%E6%89%937%E4%BB%BD%E5%B7%A5%E6%8F%AD%E5%AD%B8%E9%9C%B8%E4%B9%8B%E8%B7%AF",
+    "timestamp": "2026-05-07T23:12:52.401Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "「御用反派」上海被捕獲勁有型戴名錶　低調娶富貴老婆生活無憂",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260414/1120678416878669824170539.png/ZodH-UiUm4mcfDDLyMdo9YI_BipRN1fC1BNfTdQTX00?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60347350/%E5%85%A7%E5%A1%94%E5%B0%BC%E4%BA%9E%E8%83%A1-%E7%BE%8E%E4%BB%A5%E5%85%B1%E5%90%8C%E7%9B%AE%E6%A8%99%E6%98%AF%E7%A7%BB%E9%99%A4%E4%BC%8A%E6%9C%97%E6%89%80%E6%9C%89%E6%BF%83%E7%B8%AE%E9%88%BE",
     "timestamp": "2026-05-07T01:01:16.926Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "機場安檢慢飛機照起飛！30人闖禁區「肉身擋機」　83名乘客被遺棄",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260506/1128736359482134528498725.png/vTpHSCV5BYIYI08dOiWlk_DOwUpBwlOYZSbzRGUm80Q?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60345310/%E6%A9%9F%E5%A0%B4%E5%AE%89%E6%AA%A2%E6%85%A2%E9%A3%9B%E6%A9%9F%E7%85%A7%E8%B5%B7%E9%A3%9B-30%E4%BA%BA%E9%97%96%E7%A6%81%E5%8D%80-%E8%82%89%E8%BA%AB%E6%93%8B%E6%A9%9F-83%E5%90%8D%E4%B9%98%E5%AE%A2%E8%A2%AB%E9%81%BA%E6%A3%84",
-    "timestamp": "2026-05-06T23:27:25.161Z",
     "strategy": ".content-card__main"
   }
 ];
