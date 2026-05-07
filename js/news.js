@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-07T17:14:35.604Z
+// Last updated: 2026-05-07T18:00:47.385Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "魯比奧晤教宗良十四世　緩和教宗與特朗普分歧　促進雙邊關係",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260508/1129234521204461568170256.jpeg/7Mimtbi_02eFaGYC97z7GlbqNhsM9C5g0l0Uk9JdFJM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60347724/%E9%AD%AF%E6%AF%94%E5%A5%A7%E6%99%A4%E6%95%99%E5%AE%97%E8%89%AF%E5%8D%81%E5%9B%9B%E4%B8%96-%E7%B7%A9%E5%92%8C%E6%95%99%E5%AE%97%E8%88%87%E7%89%B9%E6%9C%97%E6%99%AE%E5%88%86%E6%AD%A7-%E4%BF%83%E9%80%B2%E9%9B%99%E9%82%8A%E9%97%9C%E4%BF%82",
+    "timestamp": "2026-05-07T18:00:47.385Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "青衣爆水管│有居民洗碗時突停水　有人推車仔行10分鐘取水沖涼",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260507/1128901659489996800695402.jpeg/4Dlx2eouvbMxzFQQVDE2o0vfhjvmPqpzfFFcXnxRXF4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60347334/%E4%BB%A5%E8%BB%8D%E5%81%9C%E7%81%AB%E6%9C%9F%E9%96%93%E7%A9%BA%E8%A5%B2%E8%B2%9D%E9%AD%AF%E7%89%B9%E5%8D%97%E9%83%8A-%E4%BB%A5%E5%AA%92%E7%A8%B1%E6%93%8A%E6%96%83%E7%9C%9F%E4%B8%BB%E9%BB%A8%E7%B2%BE%E9%8A%B3%E9%83%A8%E9%9A%8A%E6%8C%87%E6%8F%AE%E5%AE%98",
     "timestamp": "2026-05-06T20:19:50.599Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "伊朗外交部：仍在審閱美國提出方案　尚未向巴基斯坦轉達意見",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260507/1128881154817003520180459.jpeg/vl9z7dsCfbEo4HhYRYxrnBpfdnm9vN2TNMTs7DTE7Ow?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60347330/%E4%BC%8A%E6%9C%97%E5%A4%96%E4%BA%A4%E9%83%A8-%E4%BB%8D%E5%9C%A8%E5%AF%A9%E9%96%B1%E7%BE%8E%E5%9C%8B%E6%8F%90%E5%87%BA%E6%96%B9%E6%A1%88-%E5%B0%9A%E6%9C%AA%E5%90%91%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E8%BD%89%E9%81%94%E6%84%8F%E8%A6%8B",
-    "timestamp": "2026-05-06T19:42:50.329Z",
     "strategy": ".content-card__main"
   }
 ];
