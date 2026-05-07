@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-07T16:28:32.667Z
+// Last updated: 2026-05-07T17:14:35.604Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "青衣爆水管│有居民洗碗時突停水　有人推車仔行10分鐘取水沖涼",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260508/1129222036489506816960174.jpeg/WI75hwv7hO688wZbenVFXQ-2uYXSWs5AgfAbA6TwGwM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60347719/%E9%9D%92%E8%A1%A3%E7%88%86%E6%B0%B4%E7%AE%A1-%E6%9C%89%E5%B1%85%E6%B0%91%E6%B4%97%E7%A2%97%E6%99%82%E7%AA%81%E5%81%9C%E6%B0%B4-%E6%9C%89%E4%BA%BA%E6%8E%A8%E8%BB%8A%E4%BB%94%E8%A1%8C10%E5%88%86%E9%90%98%E5%8F%96%E6%B0%B4%E6%B2%96%E6%B6%BC",
+    "timestamp": "2026-05-07T17:14:35.604Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "16歲女玩懸崖鞦韆墮亡　四川河南多家景區暫停營運高空繩索項目",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260507/1128881154817003520180459.jpeg/vl9z7dsCfbEo4HhYRYxrnBpfdnm9vN2TNMTs7DTE7Ow?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60347330/%E4%BC%8A%E6%9C%97%E5%A4%96%E4%BA%A4%E9%83%A8-%E4%BB%8D%E5%9C%A8%E5%AF%A9%E9%96%B1%E7%BE%8E%E5%9C%8B%E6%8F%90%E5%87%BA%E6%96%B9%E6%A1%88-%E5%B0%9A%E6%9C%AA%E5%90%91%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E8%BD%89%E9%81%94%E6%84%8F%E8%A6%8B",
     "timestamp": "2026-05-06T19:42:50.329Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "伊朗外交部：仍在審閱美國提出方案　尚未向巴基斯坦轉達意見",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260507/1128881154817003520180459.jpeg/vl9z7dsCfbEo4HhYRYxrnBpfdnm9vN2TNMTs7DTE7Ow?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60347330/%E4%BC%8A%E6%9C%97%E5%A4%96%E4%BA%A4%E9%83%A8-%E4%BB%8D%E5%9C%A8%E5%AF%A9%E9%96%B1%E7%BE%8E%E5%9C%8B%E6%8F%90%E5%87%BA%E6%96%B9%E6%A1%88-%E5%B0%9A%E6%9C%AA%E5%90%91%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E8%BD%89%E9%81%94%E6%84%8F%E8%A6%8B",
-    "timestamp": "2026-05-06T18:56:57.263Z",
     "strategy": ".content-card__main"
   }
 ];
