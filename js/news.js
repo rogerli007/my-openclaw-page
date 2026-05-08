@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-08T11:16:17.283Z
+// Last updated: 2026-05-08T11:52:51.613Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "將軍澳男子海面載浮載沉　昏迷送院搶救不治",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260508/1129496759366586368813296.jpeg/lLSFxvFmwEhVxnXF8WLIYRfDnJuiSbLgdVP9sXVT_bE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60348033/%E5%B0%87%E8%BB%8D%E6%BE%B3%E7%94%B7%E5%AD%90%E6%B5%B7%E9%9D%A2%E8%BC%89%E6%B5%AE%E8%BC%89%E6%B2%89-%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2%E6%90%B6%E6%95%91%E4%B8%8D%E6%B2%BB",
+    "timestamp": "2026-05-08T11:52:51.613Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "三亞4隻瀨尿蝦1035元遊客拒收賠款　海鮮店涉串通網約車遭停業",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260508/1129272147764580352421609.jpeg/1SlmjISCX-yBnzuMx_nhtAtC9skI2TEzKBRTnSgUU50?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60347732/%E4%BC%8A%E6%9C%97%E5%8D%97%E9%83%A8%E5%82%B3%E5%A4%9A%E8%81%B2%E7%88%86%E7%82%B8-%E4%BC%8A%E5%AA%92-%E6%88%96%E6%B6%89%E9%98%BF%E8%81%AF%E9%85%8B-%E6%95%B5%E5%B0%8D%E8%A1%8C%E5%8B%95",
     "timestamp": "2026-05-07T20:49:16.499Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "魯比奧晤教宗良十四世　緩和教宗與特朗普分歧　促進雙邊關係",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260508/1129234521204461568170256.jpeg/7Mimtbi_02eFaGYC97z7GlbqNhsM9C5g0l0Uk9JdFJM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60347724/%E9%AD%AF%E6%AF%94%E5%A5%A7%E6%99%A4%E6%95%99%E5%AE%97%E8%89%AF%E5%8D%81%E5%9B%9B%E4%B8%96-%E7%B7%A9%E5%92%8C%E6%95%99%E5%AE%97%E8%88%87%E7%89%B9%E6%9C%97%E6%99%AE%E5%88%86%E6%AD%A7-%E4%BF%83%E9%80%B2%E9%9B%99%E9%82%8A%E9%97%9C%E4%BF%82",
-    "timestamp": "2026-05-07T18:00:47.385Z",
     "strategy": ".content-card__main"
   }
 ];
