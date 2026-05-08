@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-08T05:39:23.217Z
+// Last updated: 2026-05-08T06:24:28.228Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "立法會超時激辯醫療收費　議員官員火藥味濃　中大醫院議程被取消",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260508/1129420905882062848098617.png/HCFI7UNM5Fh8cFCdAxpK4AyYuNJvcgur_72loP-9paA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60347886/%E7%AB%8B%E6%B3%95%E6%9C%83%E8%B6%85%E6%99%82%E6%BF%80%E8%BE%AF%E9%86%AB%E7%99%82%E6%94%B6%E8%B2%BB-%E8%AD%B0%E5%93%A1%E5%AE%98%E5%93%A1%E7%81%AB%E8%97%A5%E5%91%B3%E6%BF%83-%E4%B8%AD%E5%A4%A7%E9%86%AB%E9%99%A2%E8%AD%B0%E7%A8%8B%E8%A2%AB%E5%8F%96%E6%B6%88",
+    "timestamp": "2026-05-08T06:24:28.228Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "李泳漢學歷之謎　昔參選稱讀大學政治系　今哭窮：高中都冇畢業",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20251125/1070066976191156224437906.jpeg/KR5ozwU8caparS46VagYbe0oz28DUBmEZLSpp2S0qac?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60347659/%E5%B0%96%E6%B2%99%E5%92%80%E9%85%92%E5%90%A7%E5%91%BD%E6%A1%88-%E5%8F%A66%E4%BA%BA%E5%9B%9A10%E5%B9%B4%E8%87%B310%E5%B9%B44%E6%9C%88-%E5%AE%98%E7%A8%B1%E5%BE%8C%E6%82%94%E4%B9%9F%E7%84%A1%E6%B3%95%E8%B5%B7%E6%AD%BB%E5%9B%9E%E7%94%9F",
     "timestamp": "2026-05-07T11:34:40.301Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "海關機場破行李藏毒案檢5公斤K仔　37歲女旅客被控販毒周五提堂",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260507/1129119608314269696250791.jpeg/Q7h4aCWB4NdyckN20JA0Tt_uU2LEQODb70FJJu9BSSY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60347630/%E6%B5%B7%E9%97%9C%E6%A9%9F%E5%A0%B4%E7%A0%B4%E8%A1%8C%E6%9D%8E%E8%97%8F%E6%AF%92%E6%A1%88%E6%AA%A25%E5%85%AC%E6%96%A4k%E4%BB%94-37%E6%AD%B2%E5%A5%B3%E6%97%85%E5%AE%A2%E8%A2%AB%E6%8E%A7%E8%B2%A9%E6%AF%92%E5%91%A8%E4%BA%94%E6%8F%90%E5%A0%82",
-    "timestamp": "2026-05-07T10:40:32.504Z",
     "strategy": ".content-card__main"
   }
 ];
