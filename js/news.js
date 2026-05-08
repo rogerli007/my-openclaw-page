@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-08T16:15:58.982Z
+// Last updated: 2026-05-08T16:51:08.150Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "戴祖儀超激罕曬比堅尼「放題」　擦邊球變直線震撼網民！",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260509/1129580391397593088132670.jpeg/DDlyPmPFbAV_wexnEgZF-lVKEfyKhSuskdl6npHZep4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E5%A8%9B%E6%A8%82/60348088/%E6%88%B4%E7%A5%96%E5%84%80%E8%B6%85%E6%BF%80%E7%BD%95%E6%9B%AC%E6%AF%94%E5%A0%85%E5%B0%BC-%E6%94%BE%E9%A1%8C-%E6%93%A6%E9%82%8A%E7%90%83%E8%AE%8A%E7%9B%B4%E7%B7%9A%E9%9C%87%E6%92%BC%E7%B6%B2%E6%B0%91",
+    "timestamp": "2026-05-08T16:51:08.150Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "旺角下雨天平治疑失控撞欄　車尾掃中城巴致車長受傷　司機蹤杳",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260507/1129136964071591936405723.jpeg/Qlwfj-zhBtTeZOiDaQdHh8wlp67ti0P2oD79SJo-_Ug?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60347655/%E5%80%AA%E6%99%A8%E6%9B%A6%E5%87%BA%E9%8C%A2%E5%87%BA%E5%8A%9B%E7%82%BA%E6%AE%98%E7%96%BE%E4%BA%BA%E5%A3%AB%E5%9C%93%E5%A4%A2-%E5%BE%9E%E5%AD%A9%E5%AD%90%E8%BA%AB%E4%B8%8A%E6%89%BE%E5%9B%9E%E5%88%9D%E5%BF%83-%E5%A4%A2%E6%83%B3%E5%A5%BD%E7%B0%A1%E5%96%AE",
     "timestamp": "2026-05-07T23:39:03.333Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "前東張女神攻讀教育學博士　曾為養家還債日打7份工揭學霸之路",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260507/1129172629400326144982341.jpeg/vERNIJUw1RzeYOT_GhNfJRrZ6klYP4eSxXrABsV6wAY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60347580/%E9%BB%83%E7%A9%8E%E5%90%9B%E6%94%BB%E8%AE%80%E6%95%99%E8%82%B2%E5%AD%B8%E5%8D%9A%E5%A3%AB-%E6%9B%BE%E7%82%BA%E9%A4%8A%E5%AE%B6%E9%82%84%E5%82%B5%E6%97%A5%E6%89%937%E4%BB%BD%E5%B7%A5%E6%8F%AD%E5%AD%B8%E9%9C%B8%E4%B9%8B%E8%B7%AF",
-    "timestamp": "2026-05-07T23:12:52.401Z",
     "strategy": ".content-card__main"
   }
 ];
