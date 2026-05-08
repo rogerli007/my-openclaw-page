@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-08T08:45:32.811Z
+// Last updated: 2026-05-08T09:56:40.249Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "百樂酒店自助餐買一送一!人均$191+任食麵包蟹、片皮鴨",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260508/1129461468622753792596842.png/8MTeB8BdzBWSbj57x5fEd3oKMqffEbkMsXJr2rFya9o?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%A3%9F%E7%8E%A9%E8%B2%B7/910546/%E7%99%BE%E6%A8%82%E9%85%92%E5%BA%97%E8%87%AA%E5%8A%A9%E9%A4%90%E8%B2%B7%E4%B8%80%E9%80%81%E4%B8%80-%E4%BA%BA%E5%9D%87-191-%E4%BB%BB%E9%A3%9F%E9%BA%B5%E5%8C%85%E8%9F%B9-%E7%89%87%E7%9A%AE%E9%B4%A8",
+    "timestamp": "2026-05-08T09:56:40.249Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "宏福苑｜7災廈5.21起再開放執拾　可逗留單位3小時、不限上落次數",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260507/1129147825863528448081672.jpeg/sd9QjdEqpDynHMwfVhykkYcXKYHjUCJ77BgK5OwYCuQ",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60347666/16%E6%AD%B2%E5%A5%B3%E7%8E%A9%E6%87%B8%E5%B4%96%E9%9E%A6%E9%9F%86%E5%A2%AE%E4%BA%A1-%E5%9B%9B%E5%B7%9D%E6%B2%B3%E5%8D%97%E5%A4%9A%E5%AE%B6%E6%99%AF%E5%8D%80%E6%9A%AB%E5%81%9C%E7%87%9F%E9%81%8B%E9%AB%98%E7%A9%BA%E7%B9%A9%E7%B4%A2%E9%A0%85%E7%9B%AE",
     "timestamp": "2026-05-07T16:28:32.667Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "結業｜易址重開不到兩年　livehouse餐廳Lost Stars宣布月底結業",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260507/1129185592735698944830154.jpeg/ymvtdoMCLg7K4GejPNGUFP3jYhBbm3QQgYduN4GHbjc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60347700/%E7%B5%90%E6%A5%AD-%E6%98%93%E5%9D%80%E9%87%8D%E9%96%8B%E4%B8%8D%E5%88%B0%E5%85%A9%E5%B9%B4-livehouse%E9%A4%90%E5%BB%B3lost-stars%E5%AE%A3%E5%B8%83%E6%9C%88%E5%BA%95%E7%B5%90%E6%A5%AD",
-    "timestamp": "2026-05-07T14:47:29.262Z",
     "strategy": ".content-card__main"
   }
 ];
