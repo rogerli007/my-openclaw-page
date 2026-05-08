@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-08T19:40:25.578Z
+// Last updated: 2026-05-08T20:41:30.615Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美國確認5.14舉辦以黎會談　討論和平框架尋求結束衝突",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260507/1128881506043826176596138.jpeg/tMM-8Z88QcoQhlQ5QG2gIhg7K6Gi5Jubv3TGOL90xjg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60348099/%E7%BE%8E%E5%9C%8B%E7%A2%BA%E8%AA%8D5-14%E8%88%89%E8%BE%A6%E4%BB%A5%E9%BB%8E%E6%9C%83%E8%AB%87-%E8%A8%8E%E8%AB%96%E5%92%8C%E5%B9%B3%E6%A1%86%E6%9E%B6%E5%B0%8B%E6%B1%82%E7%B5%90%E6%9D%9F%E8%A1%9D%E7%AA%81",
+    "timestamp": "2026-05-08T20:41:30.615Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美國確認5.14舉辦以黎會談　討論和平框架尋求結束衝突",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260507/1129204426855157760310947.png/ljv5jJBZXPXn29uBQLWzfpQtY8KaJ7C3UxMgtlMTILY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%81%8A%E6%88%B2%E5%8B%95%E6%BC%AB/60347693/%E8%8D%83%E7%81%A3%E7%B2%BE%E5%93%81%E7%8E%A9%E5%85%B7%E9%96%8B%E5%80%89-899%E8%B6%85%E9%BE%8D%E7%A5%9E%E8%B6%85%E5%90%88%E9%87%91-%E9%AB%98%E9%81%94%E6%A8%A1%E5%9E%8B-20%E8%B5%B7-9%E6%8E%83%E6%99%AF%E5%93%81",
     "timestamp": "2026-05-08T03:22:41.057Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "喉嚨痛足個半月！男子不煙不酒服藥全無效　醫生揭HPV感染罹癌",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260506/1128540347501121536795183.png/ZJvLFrdkW-1P-akPB_SBigsrZR2q1ctmVf8aZVX_GmU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60346879/%E5%96%89%E5%9A%A8%E7%97%9B%E8%B6%B3%E5%80%8B%E5%8D%8A%E6%9C%88-%E7%94%B7%E5%AD%90%E4%B8%8D%E7%85%99%E4%B8%8D%E9%85%92%E6%9C%8D%E8%97%A5%E5%85%A8%E7%84%A1%E6%95%88-%E9%86%AB%E7%94%9F%E6%8F%ADhpv%E6%84%9F%E6%9F%93%E7%BD%B9%E7%99%8C",
-    "timestamp": "2026-05-08T01:15:11.719Z",
     "strategy": ".content-card__main"
   }
 ];
