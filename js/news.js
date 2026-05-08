@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-08T22:13:23.164Z
+// Last updated: 2026-05-08T23:12:15.202Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "伊朗戰爭影響供應鏈　全球食物價格飆升至三年來最高水準",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260509/1129584700172537856251673.jpeg/tJpOtIIewcQA0a0eiiVHE62NUkx30LVDuT9Zvrk_Wb4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60348090/%E4%BC%8A%E6%9C%97%E6%88%B0%E7%88%AD%E5%BD%B1%E9%9F%BF%E4%BE%9B%E6%87%89%E9%8F%88-%E5%85%A8%E7%90%83%E9%A3%9F%E7%89%A9%E5%83%B9%E6%A0%BC%E9%A3%86%E5%8D%87%E8%87%B3%E4%B8%89%E5%B9%B4%E4%BE%86%E6%9C%80%E9%AB%98%E6%B0%B4%E6%BA%96",
+    "timestamp": "2026-05-08T23:12:15.202Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "救人變害命？豐田意外翻側　途人誤將車輛推落溝渠　司機當場死亡",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260506/1128703698516578304043257.jpeg/sXAAlEVAyc99oxdMbJs4FUk9rc1OsqHOZre70Wa3u9E?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%97%85%E9%81%8A/60270131/%E6%B7%B1%E5%9C%B3%E5%AF%B6%E5%AE%89%E7%89%88-%E7%B6%A0%E9%87%8E%E4%BB%99%E8%B9%A4-%E6%B3%B0%E8%8F%AF%E6%A2%A7%E6%A1%90%E6%9D%91%E6%B9%96%E7%95%94%E6%95%A3%E6%AD%A5%E6%AD%8E%E5%92%96%E5%95%A1-%E5%9C%B0%E9%90%B5%E7%9B%B4%E9%81%94",
     "timestamp": "2026-05-08T07:10:03.347Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "立法會超時激辯醫療收費　議員官員火藥味濃　中大醫院議程被取消",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260508/1129420905882062848098617.png/HCFI7UNM5Fh8cFCdAxpK4AyYuNJvcgur_72loP-9paA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60347886/%E7%AB%8B%E6%B3%95%E6%9C%83%E8%B6%85%E6%99%82%E6%BF%80%E8%BE%AF%E9%86%AB%E7%99%82%E6%94%B6%E8%B2%BB-%E8%AD%B0%E5%93%A1%E5%AE%98%E5%93%A1%E7%81%AB%E8%97%A5%E5%91%B3%E6%BF%83-%E4%B8%AD%E5%A4%A7%E9%86%AB%E9%99%A2%E8%AD%B0%E7%A8%8B%E8%A2%AB%E5%8F%96%E6%B6%88",
-    "timestamp": "2026-05-08T06:24:28.228Z",
     "strategy": ".content-card__main"
   }
 ];
