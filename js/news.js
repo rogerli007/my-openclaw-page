@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-08T04:38:27.417Z
+// Last updated: 2026-05-08T05:39:23.217Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "李泳漢學歷之謎　昔參選稱讀大學政治系　今哭窮：高中都冇畢業",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260508/1129411632905064448061597.jpeg/jUXYkSiY_7bzoM6z6FfOro2QcZL3pnD71qzbLtas2y4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60347868/%E6%9D%8E%E6%B3%B3%E6%BC%A2%E5%AD%B8%E6%AD%B7%E4%B9%8B%E8%AC%8E-%E6%98%94%E5%8F%83%E9%81%B8%E7%A8%B1%E8%AE%80%E5%A4%A7%E5%AD%B8%E6%94%BF%E6%B2%BB%E7%B3%BB-%E4%BB%8A%E5%93%AD%E7%AA%AE-%E9%AB%98%E4%B8%AD%E9%83%BD%E5%86%87%E7%95%A2%E6%A5%AD",
+    "timestamp": "2026-05-08T05:39:23.217Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "洪永城4歲及2歲愛女大曬流利英文　送爸爸返工推喼狂錫手冧到爆",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260507/1129119608314269696250791.jpeg/Q7h4aCWB4NdyckN20JA0Tt_uU2LEQODb70FJJu9BSSY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60347630/%E6%B5%B7%E9%97%9C%E6%A9%9F%E5%A0%B4%E7%A0%B4%E8%A1%8C%E6%9D%8E%E8%97%8F%E6%AF%92%E6%A1%88%E6%AA%A25%E5%85%AC%E6%96%A4k%E4%BB%94-37%E6%AD%B2%E5%A5%B3%E6%97%85%E5%AE%A2%E8%A2%AB%E6%8E%A7%E8%B2%A9%E6%AF%92%E5%91%A8%E4%BA%94%E6%8F%90%E5%A0%82",
     "timestamp": "2026-05-07T10:40:32.504Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "廣州14歲童酒後墮樓亡　父母告房東未裝防盜網索償68萬　法院駁回",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260507/1129100104502874112237851.jpeg/yiD0bxhn3FnCsV6L2rK_aQJ4JoD_Hyu5AzCaSwMwmks?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60347437/%E5%BB%A3%E5%B7%9E14%E6%AD%B2%E7%AB%A5%E9%85%92%E5%BE%8C%E5%A2%AE%E6%A8%93%E4%BA%A1-%E7%88%B6%E6%AF%8D%E5%91%8A%E6%88%BF%E6%9D%B1%E6%9C%AA%E8%A3%9D%E9%98%B2%E7%9B%9C%E7%B6%B2%E7%B4%A2%E5%84%9F68%E8%90%AC-%E6%B3%95%E9%99%A2%E9%A7%81%E5%9B%9E",
-    "timestamp": "2026-05-07T09:47:40.812Z",
     "strategy": ".content-card__main"
   }
 ];
