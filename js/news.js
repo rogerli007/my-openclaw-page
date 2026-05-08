@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-08T03:22:41.057Z
+// Last updated: 2026-05-08T04:38:27.417Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "洪永城4歲及2歲愛女大曬流利英文　送爸爸返工推喼狂錫手冧到爆",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260507/1129058174830120960489265.jpeg/Tj95rFAeIJJFgOViEXubduG8z82-tFBk7Pwz4-z8M-M?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60347469/%E6%B4%AA%E6%B0%B8%E5%9F%8E4%E6%AD%B2%E5%8F%8A2%E6%AD%B2%E6%84%9B%E5%A5%B3%E5%A4%A7%E6%9B%AC%E6%B5%81%E5%88%A9%E8%8B%B1%E6%96%87-%E9%80%81%E7%88%B8%E7%88%B8%E8%BF%94%E5%B7%A5%E6%8E%A8%E5%96%BC%E7%8B%82%E9%8C%AB%E6%89%8B%E5%86%A7%E5%88%B0%E7%88%86",
+    "timestamp": "2026-05-08T04:38:27.417Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "荃灣精品玩具開倉｜$899超龍神超合金 高達模型$20起 $9掃景品",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260507/1129100104502874112237851.jpeg/yiD0bxhn3FnCsV6L2rK_aQJ4JoD_Hyu5AzCaSwMwmks?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60347437/%E5%BB%A3%E5%B7%9E14%E6%AD%B2%E7%AB%A5%E9%85%92%E5%BE%8C%E5%A2%AE%E6%A8%93%E4%BA%A1-%E7%88%B6%E6%AF%8D%E5%91%8A%E6%88%BF%E6%9D%B1%E6%9C%AA%E8%A3%9D%E9%98%B2%E7%9B%9C%E7%B6%B2%E7%B4%A2%E5%84%9F68%E8%90%AC-%E6%B3%95%E9%99%A2%E9%A7%81%E5%9B%9E",
     "timestamp": "2026-05-07T09:47:40.812Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "光希維港拍攝於暴雨讚香港雨景浪漫　自爆愛吃酸辣火鍋兼抽空行山",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260507/1129080250240602112178625.jpeg/hCJpRxkZgJmYrETBRUrVtfXPKmyBR7wR8qjUFPKo1BQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60347538/%E5%85%89%E5%B8%8C%E7%B6%AD%E6%B8%AF%E6%8B%8D%E6%94%9D%E6%96%BC%E6%9A%B4%E9%9B%A8%E8%AE%9A%E9%A6%99%E6%B8%AF%E9%9B%A8%E6%99%AF%E6%B5%AA%E6%BC%AB-%E8%87%AA%E7%88%86%E6%84%9B%E5%90%83%E9%85%B8%E8%BE%A3%E7%81%AB%E9%8D%8B%E5%85%BC%E6%8A%BD%E7%A9%BA%E8%A1%8C%E5%B1%B1",
-    "timestamp": "2026-05-07T07:47:02.851Z",
     "strategy": ".content-card__main"
   }
 ];
