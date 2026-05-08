@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-08T09:56:40.249Z
+// Last updated: 2026-05-08T10:43:23.517Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "任天堂宣佈Switch 2主機加價1萬圓｜日本已現搶機人龍．香港未定",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260508/1129488645418389504973428.jpeg/GCIjLQisdpTjuohY_PCoJ_n3pJ57U-f-5XNI0eVzSNE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%81%8A%E6%88%B2%E5%8B%95%E6%BC%AB/60348020/%E4%BB%BB%E5%A4%A9%E5%A0%82%E5%AE%A3%E4%BD%88switch-2%E4%B8%BB%E6%A9%9F%E5%8A%A0%E5%83%B91%E8%90%AC%E5%9C%93-%E6%97%A5%E6%9C%AC%E5%B7%B2%E7%8F%BE%E6%90%B6%E6%A9%9F%E4%BA%BA%E9%BE%8D-%E9%A6%99%E6%B8%AF%E6%9C%AA%E5%AE%9A",
+    "timestamp": "2026-05-08T10:43:23.517Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "百樂酒店自助餐買一送一!人均$191+任食麵包蟹、片皮鴨",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260508/1129222036489506816960174.jpeg/WI75hwv7hO688wZbenVFXQ-2uYXSWs5AgfAbA6TwGwM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60347719/%E9%9D%92%E8%A1%A3%E7%88%86%E6%B0%B4%E7%AE%A1-%E6%9C%89%E5%B1%85%E6%B0%91%E6%B4%97%E7%A2%97%E6%99%82%E7%AA%81%E5%81%9C%E6%B0%B4-%E6%9C%89%E4%BA%BA%E6%8E%A8%E8%BB%8A%E4%BB%94%E8%A1%8C10%E5%88%86%E9%90%98%E5%8F%96%E6%B0%B4%E6%B2%96%E6%B6%BC",
     "timestamp": "2026-05-07T17:14:35.604Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "16歲女玩懸崖鞦韆墮亡　四川河南多家景區暫停營運高空繩索項目",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260507/1129147825863528448081672.jpeg/sd9QjdEqpDynHMwfVhykkYcXKYHjUCJ77BgK5OwYCuQ",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60347666/16%E6%AD%B2%E5%A5%B3%E7%8E%A9%E6%87%B8%E5%B4%96%E9%9E%A6%E9%9F%86%E5%A2%AE%E4%BA%A1-%E5%9B%9B%E5%B7%9D%E6%B2%B3%E5%8D%97%E5%A4%9A%E5%AE%B6%E6%99%AF%E5%8D%80%E6%9A%AB%E5%81%9C%E7%87%9F%E9%81%8B%E9%AB%98%E7%A9%BA%E7%B9%A9%E7%B4%A2%E9%A0%85%E7%9B%AE",
-    "timestamp": "2026-05-07T16:28:32.667Z",
     "strategy": ".content-card__main"
   }
 ];
