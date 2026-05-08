@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-08T16:51:08.150Z
+// Last updated: 2026-05-08T17:41:15.571Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "德國一間銀行發生挾持人質事件　特警從金庫救出兩人",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260509/1129592760341368832253801.jpeg/ihr9rF7gosmdm4imWdkX5H2ERCTKMYMVDFqzZgxas2Y?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60348091/%E5%BE%B7%E5%9C%8B%E4%B8%80%E9%96%93%E9%8A%80%E8%A1%8C%E7%99%BC%E7%94%9F%E6%8C%BE%E6%8C%81%E4%BA%BA%E8%B3%AA%E4%BA%8B%E4%BB%B6-%E7%89%B9%E8%AD%A6%E5%BE%9E%E9%87%91%E5%BA%AB%E6%95%91%E5%87%BA%E5%85%A9%E4%BA%BA",
+    "timestamp": "2026-05-08T17:41:15.571Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "戴祖儀超激罕曬比堅尼「放題」　擦邊球變直線震撼網民！",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260504/1128013809911336960375410.jpeg/IsOcF9MHyQ3wz8tTK_lQXlcIKIR-I-s4NpH5cTaR-XE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%96%8B%E7%BD%90/60345466/%E6%9C%88%E5%85%A5-30k%E9%99%B7-%E7%B2%BE%E7%B7%BB%E7%AA%AE-%E9%99%B7%E9%98%B1-%E6%89%93%E5%B7%A5%E4%BB%94%E5%88%973%E9%BB%9E%E8%87%AA%E5%98%B2%E8%A1%A8%E9%9D%A2%E9%A2%A8%E5%85%89-%E5%A4%BE%E5%BF%83%E9%9A%8E%E5%B1%A4",
     "timestamp": "2026-05-08T00:09:56.060Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "倪晨曦出錢出力為殘疾人士圓夢　從孩子身上找回初心:夢想好簡單",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260507/1129136964071591936405723.jpeg/Qlwfj-zhBtTeZOiDaQdHh8wlp67ti0P2oD79SJo-_Ug?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60347655/%E5%80%AA%E6%99%A8%E6%9B%A6%E5%87%BA%E9%8C%A2%E5%87%BA%E5%8A%9B%E7%82%BA%E6%AE%98%E7%96%BE%E4%BA%BA%E5%A3%AB%E5%9C%93%E5%A4%A2-%E5%BE%9E%E5%AD%A9%E5%AD%90%E8%BA%AB%E4%B8%8A%E6%89%BE%E5%9B%9E%E5%88%9D%E5%BF%83-%E5%A4%A2%E6%83%B3%E5%A5%BD%E7%B0%A1%E5%96%AE",
-    "timestamp": "2026-05-07T23:39:03.333Z",
     "strategy": ".content-card__main"
   }
 ];
