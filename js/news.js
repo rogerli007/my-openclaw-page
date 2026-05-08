@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-08T21:14:40.909Z
+// Last updated: 2026-05-08T21:40:57.210Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "屯門36歲男酒店昏迷　妻子揭發報案　送院搶救不治",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260509/1129653293484609536267394.jpeg/J-3BJtflh-Ci_HGRy8xDNYe5ynkgrRM4X6d4CGWneAg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60348101/%E5%B1%AF%E9%96%8036%E6%AD%B2%E7%94%B7%E9%85%92%E5%BA%97%E6%98%8F%E8%BF%B7-%E5%A6%BB%E5%AD%90%E6%8F%AD%E7%99%BC%E5%A0%B1%E6%A1%88-%E9%80%81%E9%99%A2%E6%90%B6%E6%95%91%E4%B8%8D%E6%B2%BB",
+    "timestamp": "2026-05-08T21:40:57.210Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "七欖｜社區計劃邀弱勢社群體驗  1.5萬人受惠",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260508/1129411632905064448061597.jpeg/jUXYkSiY_7bzoM6z6FfOro2QcZL3pnD71qzbLtas2y4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60347868/%E6%9D%8E%E6%B3%B3%E6%BC%A2%E5%AD%B8%E6%AD%B7%E4%B9%8B%E8%AC%8E-%E6%98%94%E5%8F%83%E9%81%B8%E7%A8%B1%E8%AE%80%E5%A4%A7%E5%AD%B8%E6%94%BF%E6%B2%BB%E7%B3%BB-%E4%BB%8A%E5%93%AD%E7%AA%AE-%E9%AB%98%E4%B8%AD%E9%83%BD%E5%86%87%E7%95%A2%E6%A5%AD",
     "timestamp": "2026-05-08T05:39:23.217Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "洪永城4歲及2歲愛女大曬流利英文　送爸爸返工推喼狂錫手冧到爆",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260507/1129058174830120960489265.jpeg/Tj95rFAeIJJFgOViEXubduG8z82-tFBk7Pwz4-z8M-M?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60347469/%E6%B4%AA%E6%B0%B8%E5%9F%8E4%E6%AD%B2%E5%8F%8A2%E6%AD%B2%E6%84%9B%E5%A5%B3%E5%A4%A7%E6%9B%AC%E6%B5%81%E5%88%A9%E8%8B%B1%E6%96%87-%E9%80%81%E7%88%B8%E7%88%B8%E8%BF%94%E5%B7%A5%E6%8E%A8%E5%96%BC%E7%8B%82%E9%8C%AB%E6%89%8B%E5%86%A7%E5%88%B0%E7%88%86",
-    "timestamp": "2026-05-08T04:38:27.417Z",
     "strategy": ".content-card__main"
   }
 ];
