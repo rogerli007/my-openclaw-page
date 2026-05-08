@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-08T21:40:57.210Z
+// Last updated: 2026-05-08T22:13:23.164Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "救人變害命？豐田意外翻側　途人誤將車輛推落溝渠　司機當場死亡",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260508/1129442797615583232564097.png/5o0o0dRsMxqoV2FRJTruVkwHWh2kNPHiiIBuYIiAbmA",
+    "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E8%A9%B1%E9%A1%8C/60344766/%E6%95%91%E4%BA%BA%E8%AE%8A%E5%AE%B3%E5%91%BD-%E8%B1%90%E7%94%B0%E6%84%8F%E5%A4%96%E7%BF%BB%E5%81%B4-%E9%80%94%E4%BA%BA%E8%AA%A4%E5%B0%87%E8%BB%8A%E8%BC%9B%E6%8E%A8%E8%90%BD%E6%BA%9D%E6%B8%A0-%E5%8F%B8%E6%A9%9F%E7%95%B6%E5%A0%B4%E6%AD%BB%E4%BA%A1",
+    "timestamp": "2026-05-08T22:13:23.164Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "屯門36歲男酒店昏迷　妻子揭發報案　送院搶救不治",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260508/1129420905882062848098617.png/HCFI7UNM5Fh8cFCdAxpK4AyYuNJvcgur_72loP-9paA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60347886/%E7%AB%8B%E6%B3%95%E6%9C%83%E8%B6%85%E6%99%82%E6%BF%80%E8%BE%AF%E9%86%AB%E7%99%82%E6%94%B6%E8%B2%BB-%E8%AD%B0%E5%93%A1%E5%AE%98%E5%93%A1%E7%81%AB%E8%97%A5%E5%91%B3%E6%BF%83-%E4%B8%AD%E5%A4%A7%E9%86%AB%E9%99%A2%E8%AD%B0%E7%A8%8B%E8%A2%AB%E5%8F%96%E6%B6%88",
     "timestamp": "2026-05-08T06:24:28.228Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "李泳漢學歷之謎　昔參選稱讀大學政治系　今哭窮：高中都冇畢業",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260508/1129411632905064448061597.jpeg/jUXYkSiY_7bzoM6z6FfOro2QcZL3pnD71qzbLtas2y4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60347868/%E6%9D%8E%E6%B3%B3%E6%BC%A2%E5%AD%B8%E6%AD%B7%E4%B9%8B%E8%AC%8E-%E6%98%94%E5%8F%83%E9%81%B8%E7%A8%B1%E8%AE%80%E5%A4%A7%E5%AD%B8%E6%94%BF%E6%B2%BB%E7%B3%BB-%E4%BB%8A%E5%93%AD%E7%AA%AE-%E9%AB%98%E4%B8%AD%E9%83%BD%E5%86%87%E7%95%A2%E6%A5%AD",
-    "timestamp": "2026-05-08T05:39:23.217Z",
     "strategy": ".content-card__main"
   }
 ];
