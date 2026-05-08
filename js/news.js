@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-08T14:03:44.975Z
+// Last updated: 2026-05-08T15:43:47.710Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "百想｜玄彬勇奪視帝孫藝珍台下狂影　公開向老婆表白：我愛你們",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260508/1129564821713326080362789.jpeg/86CupuXnUkVkowblZtsYRNGfSmhUoRRiI92EYCPdhGA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60348084/%E7%99%BE%E6%83%B3-%E7%8E%84%E5%BD%AC%E5%8B%87%E5%A5%AA%E8%A6%96%E5%B8%9D%E5%AD%AB%E8%97%9D%E7%8F%8D%E5%8F%B0%E4%B8%8B%E7%8B%82%E5%BD%B1-%E5%85%AC%E9%96%8B%E5%90%91%E8%80%81%E5%A9%86%E8%A1%A8%E7%99%BD-%E6%88%91%E6%84%9B%E4%BD%A0%E5%80%91",
+    "timestamp": "2026-05-08T15:43:47.710Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "50歲焦媛素顏近照曝光魚尾紋明顯　不悔背負小三罵名情斷高志森",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260507/1129132379680542720451892.jpeg/2Eo8mXRt9lFHGf7QU9XRBo8f1wUpFjqZKhee1ioXntY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60347458/%E9%99%B3%E4%BF%9D%E5%85%83%E4%B8%8A%E6%B5%B7%E8%A2%AB%E6%8D%95%E7%8D%B2%E5%8B%81%E6%9C%89%E5%9E%8B%E6%88%B4%E5%90%8D%E9%8C%B6-%E4%BD%8E%E8%AA%BF%E5%A8%B6%E5%AF%8C%E8%B2%B4%E8%80%81%E5%A9%86%E7%94%9F%E6%B4%BB%E7%84%A1%E6%86%82",
     "timestamp": "2026-05-07T22:43:57.617Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "伊朗：美國違反停火協議襲擊港口　伊方反擊嚴重損壞美軍艦",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260508/1129302268529610752809231.jpeg/ARphhSwMMqa3XLW54p5i1bOePaiURMvHeHns-Xh57Pk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60347741/%E4%BC%8A%E6%9C%97-%E7%BE%8E%E5%9C%8B%E9%81%95%E5%8F%8D%E5%81%9C%E7%81%AB%E5%8D%94%E8%AD%B0%E8%A5%B2%E6%93%8A%E6%B8%AF%E5%8F%A3-%E4%BC%8A%E6%96%B9%E5%8F%8D%E6%93%8A%E5%9A%B4%E9%87%8D%E6%90%8D%E5%A3%9E%E7%BE%8E%E8%BB%8D%E8%89%A6",
-    "timestamp": "2026-05-07T22:14:09.515Z",
     "strategy": ".content-card__main"
   }
 ];
