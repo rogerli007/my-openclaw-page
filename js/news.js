@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-08T07:10:03.347Z
+// Last updated: 2026-05-08T07:58:01.512Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "皇馬國家打吡前內訌　傳曹亞文尼動武華維迪傷頭　眾將屢傳不和",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260508/1129414829140873216405218.jpeg/uMD7zNHzk8ATAFAoe0AWahoC9YVYG8A-pwJc-qcCXPo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60347790/%E7%9A%87%E9%A6%AC%E5%9C%8B%E5%AE%B6%E6%89%93%E5%90%A1%E5%89%8D%E5%85%A7%E8%A8%8C-%E5%82%B3%E6%9B%B9%E4%BA%9E%E6%96%87%E5%B0%BC%E5%8B%95%E6%AD%A6%E8%8F%AF%E7%B6%AD%E8%BF%AA%E5%82%B7%E9%A0%AD-%E7%9C%BE%E5%B0%87%E5%B1%A2%E5%82%B3%E4%B8%8D%E5%92%8C",
+    "timestamp": "2026-05-08T07:58:01.512Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "深圳寶安版「綠野仙蹤」　泰華梧桐村湖畔散步歎咖啡｜地鐵直達",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260507/1129137843914936320956427.jpeg/KMIZoNpxdosr8vjJvYmNz9VaAy9xirGNXTIyEF0yMhA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60347500/%E4%BA%94%E7%B4%A2%E7%95%B6%E8%A1%97%E9%81%AD%E5%93%A1%E5%B7%A5%E5%85%9C%E5%8F%A3%E5%85%9C%E9%9D%A2%E6%8E%9F%E8%9B%8B%E7%B3%95%E5%86%8D%E5%85%9C%E9%A0%AD%E5%B0%84%E6%B0%B4-%E9%A9%9A%E7%88%86%E5%85%AC%E5%8F%B8%E7%A7%98%E5%AF%86%E8%8A%B1%E5%BC%8F%E7%82%AB%E5%AF%8C",
     "timestamp": "2026-05-07T13:02:45.788Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "華為曼谷發佈會直擊｜WATCH FIT 5 PRO領銜多款全場景AI新品登場",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260507/1129140420652044288247195.jpeg/GRlmoPm-Sji8tkiKU_ZpO8kfnFhp98eCTIa5XUyGuV0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60347328/huawei%E8%8F%AF%E7%82%BA%E6%9B%BC%E8%B0%B7%E7%99%BC%E4%BD%88%E6%9C%83%E7%9B%B4%E6%93%8A-watch-fit-5%E7%B3%BB%E5%88%97%E5%8F%8A5%E6%AC%BE%E5%85%A8%E5%A0%B4%E6%99%AF%E6%96%B0%E5%93%81%E7%99%BB%E5%A0%B4",
-    "timestamp": "2026-05-07T12:16:50.182Z",
     "strategy": ".content-card__main"
   }
 ];
