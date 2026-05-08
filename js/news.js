@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-08T07:58:01.512Z
+// Last updated: 2026-05-08T08:45:32.811Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "宏福苑｜7災廈5.21起再開放執拾　可逗留單位3小時、不限上落次數",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260430/1126639458947829760620975.jpeg/oSNX9Se5Ayon1Mix2--1PDzP8RIsz2alTHKKrkxyiq4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60347971/%E5%AE%8F%E7%A6%8F%E8%8B%91-7%E7%81%BD%E5%BB%885-21%E8%B5%B7%E5%86%8D%E9%96%8B%E6%94%BE%E5%9F%B7%E6%8B%BE-%E5%8F%AF%E9%80%97%E7%95%99%E5%96%AE%E4%BD%8D3%E5%B0%8F%E6%99%82-%E4%B8%8D%E9%99%90%E4%B8%8A%E8%90%BD%E6%AC%A1%E6%95%B8",
+    "timestamp": "2026-05-08T08:45:32.811Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "皇馬國家打吡前內訌　傳曹亞文尼動武華維迪傷頭　眾將屢傳不和",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260507/1129185592735698944830154.jpeg/ymvtdoMCLg7K4GejPNGUFP3jYhBbm3QQgYduN4GHbjc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60347700/%E7%B5%90%E6%A5%AD-%E6%98%93%E5%9D%80%E9%87%8D%E9%96%8B%E4%B8%8D%E5%88%B0%E5%85%A9%E5%B9%B4-livehouse%E9%A4%90%E5%BB%B3lost-stars%E5%AE%A3%E5%B8%83%E6%9C%88%E5%BA%95%E7%B5%90%E6%A5%AD",
     "timestamp": "2026-05-07T14:47:29.262Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "五索當街遭員工兜口兜面掟蛋糕再兜頭射水　驚爆公司秘密花式炫富",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260507/1129137843914936320956427.jpeg/KMIZoNpxdosr8vjJvYmNz9VaAy9xirGNXTIyEF0yMhA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60347500/%E4%BA%94%E7%B4%A2%E7%95%B6%E8%A1%97%E9%81%AD%E5%93%A1%E5%B7%A5%E5%85%9C%E5%8F%A3%E5%85%9C%E9%9D%A2%E6%8E%9F%E8%9B%8B%E7%B3%95%E5%86%8D%E5%85%9C%E9%A0%AD%E5%B0%84%E6%B0%B4-%E9%A9%9A%E7%88%86%E5%85%AC%E5%8F%B8%E7%A7%98%E5%AF%86%E8%8A%B1%E5%BC%8F%E7%82%AB%E5%AF%8C",
-    "timestamp": "2026-05-07T13:02:45.788Z",
     "strategy": ".content-card__main"
   }
 ];
