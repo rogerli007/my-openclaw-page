@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-08T13:17:44.859Z
+// Last updated: 2026-05-08T14:03:44.975Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "50歲焦媛素顏近照曝光魚尾紋明顯　不悔背負小三罵名情斷高志森",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260508/1129486945022382080793486.jpeg/47IiOPIYCOxw3TcX22JpzvNPaa4S_6CR4wRrXeMEa10?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60347835/50%E6%AD%B2%E7%84%A6%E5%AA%9B%E7%B4%A0%E9%A1%8F%E8%BF%91%E7%85%A7%E6%9B%9D%E5%85%89%E9%AD%9A%E5%B0%BE%E7%B4%8B%E6%98%8E%E9%A1%AF-%E4%B8%8D%E6%82%94%E8%83%8C%E8%B2%A0%E5%B0%8F%E4%B8%89%E7%BD%B5%E5%90%8D%E6%83%85%E6%96%B7%E9%AB%98%E5%BF%97%E6%A3%AE",
+    "timestamp": "2026-05-08T14:03:44.975Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "中年好聲音4｜母親節歌頌親恩極度感人　許美琪陳旭培唱到淚崩",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260508/1129302268529610752809231.jpeg/ARphhSwMMqa3XLW54p5i1bOePaiURMvHeHns-Xh57Pk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60347741/%E4%BC%8A%E6%9C%97-%E7%BE%8E%E5%9C%8B%E9%81%95%E5%8F%8D%E5%81%9C%E7%81%AB%E5%8D%94%E8%AD%B0%E8%A5%B2%E6%93%8A%E6%B8%AF%E5%8F%A3-%E4%BC%8A%E6%96%B9%E5%8F%8D%E6%93%8A%E5%9A%B4%E9%87%8D%E6%90%8D%E5%A3%9E%E7%BE%8E%E8%BB%8D%E8%89%A6",
     "timestamp": "2026-05-07T22:14:09.515Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "歐霸4強｜阿士東維拉合計4：1勝諾定咸森林　決賽對陣弗賴堡",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260508/1129280135522947072157649.jpeg/wBAxc-LtToW4LPivn_KBn7oJI06v3wFqBaBjtAWgY7Q?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60347733/%E6%AD%90%E9%9C%B84%E5%BC%B7-%E9%98%BF%E5%A3%AB%E6%9D%B1%E7%B6%AD%E6%8B%89%E5%90%88%E8%A8%884-1%E5%8B%9D%E8%AB%BE%E5%AE%9A%E5%92%B8%E6%A3%AE%E6%9E%97-%E6%B1%BA%E8%B3%BD%E5%B0%8D%E9%99%A3%E5%BC%97%E8%B3%B4%E5%A0%A1",
-    "timestamp": "2026-05-07T21:42:21.121Z",
     "strategy": ".content-card__main"
   }
 ];
