@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-08T23:12:15.202Z
+// Last updated: 2026-05-08T23:40:25.462Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "金正恩致電普京祝賀俄羅斯勝利日　稱朝俄始終站在一起",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250904/1040215797684768768395870.jpeg/fyUIBoWfxxcsCdaW0dl-6RIEL3OGDC9k2hE1qtoRNao?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60348115/%E9%87%91%E6%AD%A3%E6%81%A9%E8%87%B4%E9%9B%BB%E6%99%AE%E4%BA%AC%E7%A5%9D%E8%B3%80%E4%BF%84%E7%BE%85%E6%96%AF%E5%8B%9D%E5%88%A9%E6%97%A5-%E7%A8%B1%E6%9C%9D%E4%BF%84%E5%A7%8B%E7%B5%82%E7%AB%99%E5%9C%A8%E4%B8%80%E8%B5%B7",
+    "timestamp": "2026-05-08T23:40:25.462Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "伊朗戰爭影響供應鏈　全球食物價格飆升至三年來最高水準",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260508/1129414829140873216405218.jpeg/uMD7zNHzk8ATAFAoe0AWahoC9YVYG8A-pwJc-qcCXPo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60347790/%E7%9A%87%E9%A6%AC%E5%9C%8B%E5%AE%B6%E6%89%93%E5%90%A1%E5%89%8D%E5%85%A7%E8%A8%8C-%E5%82%B3%E6%9B%B9%E4%BA%9E%E6%96%87%E5%B0%BC%E5%8B%95%E6%AD%A6%E8%8F%AF%E7%B6%AD%E8%BF%AA%E5%82%B7%E9%A0%AD-%E7%9C%BE%E5%B0%87%E5%B1%A2%E5%82%B3%E4%B8%8D%E5%92%8C",
     "timestamp": "2026-05-08T07:58:01.512Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "深圳寶安版「綠野仙蹤」　泰華梧桐村湖畔散步歎咖啡｜地鐵直達",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260506/1128703698516578304043257.jpeg/sXAAlEVAyc99oxdMbJs4FUk9rc1OsqHOZre70Wa3u9E?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%97%85%E9%81%8A/60270131/%E6%B7%B1%E5%9C%B3%E5%AF%B6%E5%AE%89%E7%89%88-%E7%B6%A0%E9%87%8E%E4%BB%99%E8%B9%A4-%E6%B3%B0%E8%8F%AF%E6%A2%A7%E6%A1%90%E6%9D%91%E6%B9%96%E7%95%94%E6%95%A3%E6%AD%A5%E6%AD%8E%E5%92%96%E5%95%A1-%E5%9C%B0%E9%90%B5%E7%9B%B4%E9%81%94",
-    "timestamp": "2026-05-08T07:10:03.347Z",
     "strategy": ".content-card__main"
   }
 ];
