@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-08T10:43:23.517Z
+// Last updated: 2026-05-08T11:16:17.283Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "三亞4隻瀨尿蝦1035元遊客拒收賠款　海鮮店涉串通網約車遭停業",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260507/1129119475942035456623019.jpeg/YNlDyQryTe-gwEa9-a2kRpAl5UXZzhMzi3vYL4t72C8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60347637/%E4%B8%89%E4%BA%9E4%E9%9A%BB%E7%80%A8%E5%B0%BF%E8%9D%A61035%E5%85%83%E9%81%8A%E5%AE%A2%E6%8B%92%E6%94%B6%E8%B3%A0%E6%AC%BE-%E6%B5%B7%E9%AE%AE%E5%BA%97%E6%B6%89%E4%B8%B2%E9%80%9A%E7%B6%B2%E7%B4%84%E8%BB%8A%E9%81%AD%E5%81%9C%E6%A5%AD",
+    "timestamp": "2026-05-08T11:16:17.283Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "任天堂宣佈Switch 2主機加價1萬圓｜日本已現搶機人龍．香港未定",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260508/1129234521204461568170256.jpeg/7Mimtbi_02eFaGYC97z7GlbqNhsM9C5g0l0Uk9JdFJM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60347724/%E9%AD%AF%E6%AF%94%E5%A5%A7%E6%99%A4%E6%95%99%E5%AE%97%E8%89%AF%E5%8D%81%E5%9B%9B%E4%B8%96-%E7%B7%A9%E5%92%8C%E6%95%99%E5%AE%97%E8%88%87%E7%89%B9%E6%9C%97%E6%99%AE%E5%88%86%E6%AD%A7-%E4%BF%83%E9%80%B2%E9%9B%99%E9%82%8A%E9%97%9C%E4%BF%82",
     "timestamp": "2026-05-07T18:00:47.385Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "青衣爆水管│有居民洗碗時突停水　有人推車仔行10分鐘取水沖涼",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260508/1129222036489506816960174.jpeg/WI75hwv7hO688wZbenVFXQ-2uYXSWs5AgfAbA6TwGwM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60347719/%E9%9D%92%E8%A1%A3%E7%88%86%E6%B0%B4%E7%AE%A1-%E6%9C%89%E5%B1%85%E6%B0%91%E6%B4%97%E7%A2%97%E6%99%82%E7%AA%81%E5%81%9C%E6%B0%B4-%E6%9C%89%E4%BA%BA%E6%8E%A8%E8%BB%8A%E4%BB%94%E8%A1%8C10%E5%88%86%E9%90%98%E5%8F%96%E6%B0%B4%E6%B2%96%E6%B6%BC",
-    "timestamp": "2026-05-07T17:14:35.604Z",
     "strategy": ".content-card__main"
   }
 ];
