@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-08T12:43:59.127Z
+// Last updated: 2026-05-08T13:17:44.859Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "中年好聲音4｜母親節歌頌親恩極度感人　許美琪陳旭培唱到淚崩",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260508/1129442194780852224834520.jpeg/ZjhmR1OT-vxqxX7ebzUh_1UIVxYvla3-LtjSly7Y0pc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60347932/%E4%B8%AD%E5%B9%B4%E5%A5%BD%E8%81%B2%E9%9F%B34-%E6%AF%8D%E8%A6%AA%E7%AF%80%E6%AD%8C%E9%A0%8C%E8%A6%AA%E6%81%A9%E6%A5%B5%E5%BA%A6%E6%84%9F%E4%BA%BA-%E8%A8%B1%E7%BE%8E%E7%90%AA%E9%99%B3%E6%97%AD%E5%9F%B9%E5%94%B1%E5%88%B0%E6%B7%9A%E5%B4%A9",
+    "timestamp": "2026-05-08T13:17:44.859Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "太古地產：首季港寫字樓出租率91%　三大商場均「滿租」",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260508/1129280135522947072157649.jpeg/wBAxc-LtToW4LPivn_KBn7oJI06v3wFqBaBjtAWgY7Q?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60347733/%E6%AD%90%E9%9C%B84%E5%BC%B7-%E9%98%BF%E5%A3%AB%E6%9D%B1%E7%B6%AD%E6%8B%89%E5%90%88%E8%A8%884-1%E5%8B%9D%E8%AB%BE%E5%AE%9A%E5%92%B8%E6%A3%AE%E6%9E%97-%E6%B1%BA%E8%B3%BD%E5%B0%8D%E9%99%A3%E5%BC%97%E8%B3%B4%E5%A0%A1",
     "timestamp": "2026-05-07T21:42:21.121Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "歐霸4強｜阿士東維拉合計4：1勝諾定咸森林　決賽對陣弗賴堡",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260508/1129280135522947072157649.jpeg/wBAxc-LtToW4LPivn_KBn7oJI06v3wFqBaBjtAWgY7Q?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60347733/%E6%AD%90%E9%9C%B84%E5%BC%B7-%E9%98%BF%E5%A3%AB%E6%9D%B1%E7%B6%AD%E6%8B%89%E5%90%88%E8%A8%884-1%E5%8B%9D%E8%AB%BE%E5%AE%9A%E5%92%B8%E6%A3%AE%E6%9E%97-%E6%B1%BA%E8%B3%BD%E5%B0%8D%E9%99%A3%E5%BC%97%E8%B3%B4%E5%A0%A1",
-    "timestamp": "2026-05-07T21:17:14.084Z",
     "strategy": ".content-card__main"
   }
 ];
