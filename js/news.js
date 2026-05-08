@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-08T00:09:56.060Z
+// Last updated: 2026-05-08T01:15:11.719Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "喉嚨痛足個半月！男子不煙不酒服藥全無效　醫生揭HPV感染罹癌",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260506/1128540347501121536795183.png/ZJvLFrdkW-1P-akPB_SBigsrZR2q1ctmVf8aZVX_GmU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60346879/%E5%96%89%E5%9A%A8%E7%97%9B%E8%B6%B3%E5%80%8B%E5%8D%8A%E6%9C%88-%E7%94%B7%E5%AD%90%E4%B8%8D%E7%85%99%E4%B8%8D%E9%85%92%E6%9C%8D%E8%97%A5%E5%85%A8%E7%84%A1%E6%95%88-%E9%86%AB%E7%94%9F%E6%8F%ADhpv%E6%84%9F%E6%9F%93%E7%BD%B9%E7%99%8C",
+    "timestamp": "2026-05-08T01:15:11.719Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "月入$30K陷「精緻窮」陷阱？打工仔列3點自嘲表面風光：夾心階層",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260507/1129064624314912768516428.png/OVE0aB04nvzVxXotJ16UhgXWQajVvpH33FRRFNxUURQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8F%B0%E7%81%A3%E6%96%B0%E8%81%9E/60347509/%E5%89%8D%E4%B8%AD%E5%A4%A9%E4%B8%BB%E6%92%AD-%E9%A6%AC%E5%BE%B7-%E6%B6%89%E5%85%B1%E8%AB%9C%E6%A1%88-%E6%94%B6%E9%99%B8%E8%B3%87%E8%AA%98%E5%8F%B0%E8%BB%8D%E6%8B%8D%E6%8A%95%E9%99%8D%E7%89%87-%E6%88%96%E9%87%8D%E5%88%A412%E5%B9%B4",
     "timestamp": "2026-05-07T06:46:09.722Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "天津男稱爺爺捐贈古畫去向不明　天津美院：正調查",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260507/1129046080126717952826730.jpeg/-JvdaoFNcvCVDvs7EovsTQQHVOy-859yxSDBFMUgwRQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60347454/%E5%A4%A9%E6%B4%A5%E7%94%B7%E7%A8%B1%E7%88%BA%E7%88%BA%E6%8D%90%E8%B4%88%E5%8F%A4%E7%95%AB%E5%8E%BB%E5%90%91%E4%B8%8D%E6%98%8E-%E5%A4%A9%E6%B4%A5%E7%BE%8E%E9%99%A2-%E6%AD%A3%E8%AA%BF%E6%9F%A5",
-    "timestamp": "2026-05-07T05:45:31.533Z",
     "strategy": ".content-card__main"
   }
 ];
