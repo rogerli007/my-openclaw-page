@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-08T15:43:47.710Z
+// Last updated: 2026-05-08T16:15:58.982Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "旺角下雨天平治疑失控撞欄　車尾掃中城巴致車長受傷　司機蹤杳",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260508/1129571630473809920267104.jpeg/RH8g4JAEajGO8Ou4NPqHT5DnED1IAWMrBhBnjTwQZ40?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60348083/%E6%97%BA%E8%A7%92%E4%B8%8B%E9%9B%A8%E5%A4%A9%E5%B9%B3%E6%B2%BB%E7%96%91%E5%A4%B1%E6%8E%A7%E6%92%9E%E6%AC%84-%E8%BB%8A%E5%B0%BE%E6%8E%83%E4%B8%AD%E5%9F%8E%E5%B7%B4%E8%87%B4%E8%BB%8A%E9%95%B7%E5%8F%97%E5%82%B7-%E5%8F%B8%E6%A9%9F%E8%B9%A4%E6%9D%B3",
+    "timestamp": "2026-05-08T16:15:58.982Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "百想｜玄彬勇奪視帝孫藝珍台下狂影　公開向老婆表白：我愛你們",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260507/1129172629400326144982341.jpeg/vERNIJUw1RzeYOT_GhNfJRrZ6klYP4eSxXrABsV6wAY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60347580/%E9%BB%83%E7%A9%8E%E5%90%9B%E6%94%BB%E8%AE%80%E6%95%99%E8%82%B2%E5%AD%B8%E5%8D%9A%E5%A3%AB-%E6%9B%BE%E7%82%BA%E9%A4%8A%E5%AE%B6%E9%82%84%E5%82%B5%E6%97%A5%E6%89%937%E4%BB%BD%E5%B7%A5%E6%8F%AD%E5%AD%B8%E9%9C%B8%E4%B9%8B%E8%B7%AF",
     "timestamp": "2026-05-07T23:12:52.401Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "「御用反派」上海被捕獲勁有型戴名錶　低調娶富貴老婆生活無憂",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260507/1129132379680542720451892.jpeg/2Eo8mXRt9lFHGf7QU9XRBo8f1wUpFjqZKhee1ioXntY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60347458/%E9%99%B3%E4%BF%9D%E5%85%83%E4%B8%8A%E6%B5%B7%E8%A2%AB%E6%8D%95%E7%8D%B2%E5%8B%81%E6%9C%89%E5%9E%8B%E6%88%B4%E5%90%8D%E9%8C%B6-%E4%BD%8E%E8%AA%BF%E5%A8%B6%E5%AF%8C%E8%B2%B4%E8%80%81%E5%A9%86%E7%94%9F%E6%B4%BB%E7%84%A1%E6%86%82",
-    "timestamp": "2026-05-07T22:43:57.617Z",
     "strategy": ".content-card__main"
   }
 ];
