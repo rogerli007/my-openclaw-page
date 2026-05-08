@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-08T17:41:15.571Z
+// Last updated: 2026-05-08T19:40:25.578Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美國確認5.14舉辦以黎會談　討論和平框架尋求結束衝突",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260507/1128881506043826176596138.jpeg/tMM-8Z88QcoQhlQ5QG2gIhg7K6Gi5Jubv3TGOL90xjg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60348099/%E7%BE%8E%E5%9C%8B%E7%A2%BA%E8%AA%8D5-14%E8%88%89%E8%BE%A6%E4%BB%A5%E9%BB%8E%E6%9C%83%E8%AB%87-%E8%A8%8E%E8%AB%96%E5%92%8C%E5%B9%B3%E6%A1%86%E6%9E%B6%E5%B0%8B%E6%B1%82%E7%B5%90%E6%9D%9F%E8%A1%9D%E7%AA%81",
+    "timestamp": "2026-05-08T19:40:25.578Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "德國一間銀行發生挾持人質事件　特警從金庫救出兩人",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260506/1128540347501121536795183.png/ZJvLFrdkW-1P-akPB_SBigsrZR2q1ctmVf8aZVX_GmU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60346879/%E5%96%89%E5%9A%A8%E7%97%9B%E8%B6%B3%E5%80%8B%E5%8D%8A%E6%9C%88-%E7%94%B7%E5%AD%90%E4%B8%8D%E7%85%99%E4%B8%8D%E9%85%92%E6%9C%8D%E8%97%A5%E5%85%A8%E7%84%A1%E6%95%88-%E9%86%AB%E7%94%9F%E6%8F%ADhpv%E6%84%9F%E6%9F%93%E7%BD%B9%E7%99%8C",
     "timestamp": "2026-05-08T01:15:11.719Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "月入$30K陷「精緻窮」陷阱？打工仔列3點自嘲表面風光：夾心階層",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260504/1128013809911336960375410.jpeg/IsOcF9MHyQ3wz8tTK_lQXlcIKIR-I-s4NpH5cTaR-XE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%96%8B%E7%BD%90/60345466/%E6%9C%88%E5%85%A5-30k%E9%99%B7-%E7%B2%BE%E7%B7%BB%E7%AA%AE-%E9%99%B7%E9%98%B1-%E6%89%93%E5%B7%A5%E4%BB%94%E5%88%973%E9%BB%9E%E8%87%AA%E5%98%B2%E8%A1%A8%E9%9D%A2%E9%A2%A8%E5%85%89-%E5%A4%BE%E5%BF%83%E9%9A%8E%E5%B1%A4",
-    "timestamp": "2026-05-08T00:09:56.060Z",
     "strategy": ".content-card__main"
   }
 ];
