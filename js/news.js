@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-08T06:24:28.228Z
+// Last updated: 2026-05-08T07:10:03.347Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "深圳寶安版「綠野仙蹤」　泰華梧桐村湖畔散步歎咖啡｜地鐵直達",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260506/1128703698516578304043257.jpeg/sXAAlEVAyc99oxdMbJs4FUk9rc1OsqHOZre70Wa3u9E?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%97%85%E9%81%8A/60270131/%E6%B7%B1%E5%9C%B3%E5%AF%B6%E5%AE%89%E7%89%88-%E7%B6%A0%E9%87%8E%E4%BB%99%E8%B9%A4-%E6%B3%B0%E8%8F%AF%E6%A2%A7%E6%A1%90%E6%9D%91%E6%B9%96%E7%95%94%E6%95%A3%E6%AD%A5%E6%AD%8E%E5%92%96%E5%95%A1-%E5%9C%B0%E9%90%B5%E7%9B%B4%E9%81%94",
+    "timestamp": "2026-05-08T07:10:03.347Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "立法會超時激辯醫療收費　議員官員火藥味濃　中大醫院議程被取消",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260507/1129140420652044288247195.jpeg/GRlmoPm-Sji8tkiKU_ZpO8kfnFhp98eCTIa5XUyGuV0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60347328/huawei%E8%8F%AF%E7%82%BA%E6%9B%BC%E8%B0%B7%E7%99%BC%E4%BD%88%E6%9C%83%E7%9B%B4%E6%93%8A-watch-fit-5%E7%B3%BB%E5%88%97%E5%8F%8A5%E6%AC%BE%E5%85%A8%E5%A0%B4%E6%99%AF%E6%96%B0%E5%93%81%E7%99%BB%E5%A0%B4",
     "timestamp": "2026-05-07T12:16:50.182Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "尖沙咀酒吧命案　另6人囚10年至10年4月　官稱後悔也無法起死回生",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20251125/1070066976191156224437906.jpeg/KR5ozwU8caparS46VagYbe0oz28DUBmEZLSpp2S0qac?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60347659/%E5%B0%96%E6%B2%99%E5%92%80%E9%85%92%E5%90%A7%E5%91%BD%E6%A1%88-%E5%8F%A66%E4%BA%BA%E5%9B%9A10%E5%B9%B4%E8%87%B310%E5%B9%B44%E6%9C%88-%E5%AE%98%E7%A8%B1%E5%BE%8C%E6%82%94%E4%B9%9F%E7%84%A1%E6%B3%95%E8%B5%B7%E6%AD%BB%E5%9B%9E%E7%94%9F",
-    "timestamp": "2026-05-07T11:34:40.301Z",
     "strategy": ".content-card__main"
   }
 ];
