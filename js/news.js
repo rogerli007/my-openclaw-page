@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-08T20:41:30.615Z
+// Last updated: 2026-05-08T21:14:40.909Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "七欖｜社區計劃邀弱勢社群體驗  1.5萬人受惠",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260509/1129644574180904960723190.jpeg/yucy30rYsBPDZj9gsmrNmH8z8nyzM2Ype0Y4o3tGOKM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60348100/%E4%B8%83%E6%AC%96-%E7%A4%BE%E5%8D%80%E8%A8%88%E5%8A%83%E9%82%80%E5%BC%B1%E5%8B%A2%E7%A4%BE%E7%BE%A4%E9%AB%94%E9%A9%97-1-5%E8%90%AC%E4%BA%BA%E5%8F%97%E6%83%A0",
+    "timestamp": "2026-05-08T21:14:40.909Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美國確認5.14舉辦以黎會談　討論和平框架尋求結束衝突",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260507/1129058174830120960489265.jpeg/Tj95rFAeIJJFgOViEXubduG8z82-tFBk7Pwz4-z8M-M?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60347469/%E6%B4%AA%E6%B0%B8%E5%9F%8E4%E6%AD%B2%E5%8F%8A2%E6%AD%B2%E6%84%9B%E5%A5%B3%E5%A4%A7%E6%9B%AC%E6%B5%81%E5%88%A9%E8%8B%B1%E6%96%87-%E9%80%81%E7%88%B8%E7%88%B8%E8%BF%94%E5%B7%A5%E6%8E%A8%E5%96%BC%E7%8B%82%E9%8C%AB%E6%89%8B%E5%86%A7%E5%88%B0%E7%88%86",
     "timestamp": "2026-05-08T04:38:27.417Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "荃灣精品玩具開倉｜$899超龍神超合金 高達模型$20起 $9掃景品",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260507/1129204426855157760310947.png/ljv5jJBZXPXn29uBQLWzfpQtY8KaJ7C3UxMgtlMTILY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%81%8A%E6%88%B2%E5%8B%95%E6%BC%AB/60347693/%E8%8D%83%E7%81%A3%E7%B2%BE%E5%93%81%E7%8E%A9%E5%85%B7%E9%96%8B%E5%80%89-899%E8%B6%85%E9%BE%8D%E7%A5%9E%E8%B6%85%E5%90%88%E9%87%91-%E9%AB%98%E9%81%94%E6%A8%A1%E5%9E%8B-20%E8%B5%B7-9%E6%8E%83%E6%99%AF%E5%93%81",
-    "timestamp": "2026-05-08T03:22:41.057Z",
     "strategy": ".content-card__main"
   }
 ];
