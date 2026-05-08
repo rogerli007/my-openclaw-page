@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-07T23:39:03.333Z
+// Last updated: 2026-05-08T00:09:56.060Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "月入$30K陷「精緻窮」陷阱？打工仔列3點自嘲表面風光：夾心階層",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260504/1128013809911336960375410.jpeg/IsOcF9MHyQ3wz8tTK_lQXlcIKIR-I-s4NpH5cTaR-XE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%96%8B%E7%BD%90/60345466/%E6%9C%88%E5%85%A5-30k%E9%99%B7-%E7%B2%BE%E7%B7%BB%E7%AA%AE-%E9%99%B7%E9%98%B1-%E6%89%93%E5%B7%A5%E4%BB%94%E5%88%973%E9%BB%9E%E8%87%AA%E5%98%B2%E8%A1%A8%E9%9D%A2%E9%A2%A8%E5%85%89-%E5%A4%BE%E5%BF%83%E9%9A%8E%E5%B1%A4",
+    "timestamp": "2026-05-08T00:09:56.060Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "倪晨曦出錢出力為殘疾人士圓夢　從孩子身上找回初心:夢想好簡單",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260507/1129046080126717952826730.jpeg/-JvdaoFNcvCVDvs7EovsTQQHVOy-859yxSDBFMUgwRQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60347454/%E5%A4%A9%E6%B4%A5%E7%94%B7%E7%A8%B1%E7%88%BA%E7%88%BA%E6%8D%90%E8%B4%88%E5%8F%A4%E7%95%AB%E5%8E%BB%E5%90%91%E4%B8%8D%E6%98%8E-%E5%A4%A9%E6%B4%A5%E7%BE%8E%E9%99%A2-%E6%AD%A3%E8%AA%BF%E6%9F%A5",
     "timestamp": "2026-05-07T05:45:31.533Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普稱或在訪華前與伊朗達成協議　美媒：伊方7日回覆美方提議",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260507/1128988382714662912653807.jpeg/cZpHIiUi5nYsLQpKtRbmqw7yaxp5GmiBjuKs3o7irN4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60347353/%E7%89%B9%E6%9C%97%E6%99%AE%E7%A8%B1%E6%88%96%E5%9C%A8%E8%A8%AA%E8%8F%AF%E5%89%8D%E8%88%87%E4%BC%8A%E6%9C%97%E9%81%94%E6%88%90%E5%8D%94%E8%AD%B0-%E7%BE%8E%E5%AA%92-%E4%BC%8A%E6%96%B97%E6%97%A5%E5%9B%9E%E8%A6%86%E7%BE%8E%E6%96%B9%E6%8F%90%E8%AD%B0",
-    "timestamp": "2026-05-07T01:47:56.078Z",
     "strategy": ".content-card__main"
   }
 ];
