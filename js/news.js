@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-09T22:24:31.077Z
+// Last updated: 2026-05-09T22:52:45.130Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "魯比奧與威特科夫會晤卡塔爾首相　據報就美伊停戰備忘錄進行談判",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20251224/1080343517907128320905712.jpeg/eXuTn8cl0OWK37X7D_qfxOAuLmeNaPBeFkGoyhZBqMo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60348340/%E9%AD%AF%E6%AF%94%E5%A5%A7%E8%88%87%E5%A8%81%E7%89%B9%E7%A7%91%E5%A4%AB%E6%9C%83%E6%99%A4%E5%8D%A1%E5%A1%94%E7%88%BE%E9%A6%96%E7%9B%B8-%E6%93%9A%E5%A0%B1%E5%B0%B1%E7%BE%8E%E4%BC%8A%E5%81%9C%E6%88%B0%E5%82%99%E5%BF%98%E9%8C%84%E9%80%B2%E8%A1%8C%E8%AB%87%E5%88%A4",
+    "timestamp": "2026-05-09T22:52:45.130Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "小紅書女澳洲遇「樹上掛鞋」　覺不尋常駕車走　遭轟3槍奇蹟無恙",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260509/1129811256841080832569403.jpeg/82XOID9FParn_W3bRdXKvef87gOSQzuG9PN4k_TzeJM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60348213/%E5%A4%A9%E5%90%8E%E8%AA%95-%E5%85%83%E6%9C%97%E9%80%BE30%E8%8A%B1%E7%82%AE%E8%88%9E%E7%8D%85%E9%9A%8A%E5%87%BA%E5%B7%A1-%E8%A1%97%E5%9D%8A%E5%B0%88%E7%A8%8B%E5%B8%B6%E5%AD%90%E5%A5%B3%E6%92%90%E6%9C%AC%E5%9C%9F%E5%82%B3%E7%B5%B1%E6%96%87%E5%8C%96",
     "timestamp": "2026-05-09T08:15:56.195Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "Canvas平台遭黑客入侵　新加坡國立大學：學生姓名電郵等或已外洩",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260508/1129530037347815424821974.png/ghvkUaZLMekgvxW2-ykkP630N_IRWcyrz-Ppu8_j6bs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60348193/canvas%E5%B9%B3%E5%8F%B0%E9%81%AD%E9%BB%91%E5%AE%A2%E5%85%A5%E4%BE%B5-%E6%96%B0%E5%8A%A0%E5%9D%A1%E5%9C%8B%E7%AB%8B%E5%A4%A7%E5%AD%B8-%E5%AD%B8%E7%94%9F%E5%A7%93%E5%90%8D%E9%9B%BB%E9%83%B5%E7%AD%89%E6%88%96%E5%B7%B2%E5%A4%96%E6%B4%A9",
-    "timestamp": "2026-05-09T07:29:58.113Z",
     "strategy": ".content-card__main"
   }
 ];
