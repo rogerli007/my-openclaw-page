@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-09T12:41:55.542Z
+// Last updated: 2026-05-09T13:16:44.383Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "擁2億日圓不買名牌名車！75歲獨居翁不炫富　分享富人理財智慧",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260507/1128935971937587200357016.png/olOeIiGCyPxBZWBoX4-mhF7GeTl9wk18exaYg3sWmIM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60347304/%E6%93%812%E5%84%84%E6%97%A5%E5%9C%93%E4%B8%8D%E8%B2%B7%E5%90%8D%E7%89%8C%E5%90%8D%E8%BB%8A-75%E6%AD%B2%E7%8D%A8%E5%B1%85%E7%BF%81%E4%B8%8D%E7%82%AB%E5%AF%8C-%E5%88%86%E4%BA%AB%E5%AF%8C%E4%BA%BA%E7%90%86%E8%B2%A1%E6%99%BA%E6%85%A7",
+    "timestamp": "2026-05-09T13:16:44.383Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "跑鞋推薦2026｜New Balance Grey Days　1080+Rebel向元祖灰致敬",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260509/1129592760341368832253801.jpeg/ihr9rF7gosmdm4imWdkX5H2ERCTKMYMVDFqzZgxas2Y?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60348091/%E5%BE%B7%E5%9C%8B%E4%B8%80%E9%96%93%E9%8A%80%E8%A1%8C%E7%99%BC%E7%94%9F%E6%8C%BE%E6%8C%81%E4%BA%BA%E8%B3%AA%E4%BA%8B%E4%BB%B6-%E7%89%B9%E8%AD%A6%E5%BE%9E%E9%87%91%E5%BA%AB%E6%95%91%E5%87%BA%E5%85%A9%E4%BA%BA",
     "timestamp": "2026-05-08T17:41:15.571Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "戴祖儀超激罕曬比堅尼「放題」　擦邊球變直線震撼網民！",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260509/1129580391397593088132670.jpeg/DDlyPmPFbAV_wexnEgZF-lVKEfyKhSuskdl6npHZep4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E5%A8%9B%E6%A8%82/60348088/%E6%88%B4%E7%A5%96%E5%84%80%E8%B6%85%E6%BF%80%E7%BD%95%E6%9B%AC%E6%AF%94%E5%A0%85%E5%B0%BC-%E6%94%BE%E9%A1%8C-%E6%93%A6%E9%82%8A%E7%90%83%E8%AE%8A%E7%9B%B4%E7%B7%9A%E9%9C%87%E6%92%BC%E7%B6%B2%E6%B0%91",
-    "timestamp": "2026-05-08T16:51:08.150Z",
     "strategy": ".content-card__main"
   }
 ];
