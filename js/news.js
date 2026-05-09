@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-09T06:39:27.009Z
+// Last updated: 2026-05-09T07:29:58.113Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "Canvas平台遭黑客入侵　新加坡國立大學：學生姓名電郵等或已外洩",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260508/1129530037347815424821974.png/ghvkUaZLMekgvxW2-ykkP630N_IRWcyrz-Ppu8_j6bs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60348193/canvas%E5%B9%B3%E5%8F%B0%E9%81%AD%E9%BB%91%E5%AE%A2%E5%85%A5%E4%BE%B5-%E6%96%B0%E5%8A%A0%E5%9D%A1%E5%9C%8B%E7%AB%8B%E5%A4%A7%E5%AD%B8-%E5%AD%B8%E7%94%9F%E5%A7%93%E5%90%8D%E9%9B%BB%E9%83%B5%E7%AD%89%E6%88%96%E5%B7%B2%E5%A4%96%E6%B4%A9",
+    "timestamp": "2026-05-09T07:29:58.113Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "百想｜文佳煐「深V高開衩裙」封紅毯最辣女神　擊敗孫藝珍奪影后",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260508/1129442194780852224834520.jpeg/ZjhmR1OT-vxqxX7ebzUh_1UIVxYvla3-LtjSly7Y0pc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60347932/%E4%B8%AD%E5%B9%B4%E5%A5%BD%E8%81%B2%E9%9F%B34-%E6%AF%8D%E8%A6%AA%E7%AF%80%E6%AD%8C%E9%A0%8C%E8%A6%AA%E6%81%A9%E6%A5%B5%E5%BA%A6%E6%84%9F%E4%BA%BA-%E8%A8%B1%E7%BE%8E%E7%90%AA%E9%99%B3%E6%97%AD%E5%9F%B9%E5%94%B1%E5%88%B0%E6%B7%9A%E5%B4%A9",
     "timestamp": "2026-05-08T13:17:44.859Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "太古地產：首季港寫字樓出租率91%　三大商場均「滿租」",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260131/1094117960903168000341980.jpeg/HMqcU1atBIUvlO-riMaVQev515gzZ6ztHjO0JB4ztCQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60348061/%E5%A4%AA%E5%8F%A4%E5%9C%B0%E7%94%A2-%E9%A6%96%E5%AD%A3%E6%B8%AF%E5%AF%AB%E5%AD%97%E6%A8%93%E5%87%BA%E7%A7%9F%E7%8E%8791-%E4%B8%89%E5%A4%A7%E5%95%86%E5%A0%B4%E5%9D%87-%E6%BB%BF%E7%A7%9F",
-    "timestamp": "2026-05-08T12:43:59.127Z",
     "strategy": ".content-card__main"
   }
 ];
