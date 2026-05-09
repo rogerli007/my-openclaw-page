@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-09T11:38:43.778Z
+// Last updated: 2026-05-09T12:41:55.542Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "跑鞋推薦2026｜New Balance Grey Days　1080+Rebel向元祖灰致敬",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260509/1129881214115647488459086.png/RX7LwN8cHo3oNeQ_y2C_aLxwb7MjpGmwz2Fzgs9hc4I?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B7%91%E6%AD%A5/60348301/%E8%B7%91%E9%9E%8B%E6%8E%A8%E8%96%A62026-new-balance-grey-days-1080-rebel%E5%90%91%E5%85%83%E7%A5%96%E7%81%B0%E8%87%B4%E6%95%AC",
+    "timestamp": "2026-05-09T12:41:55.542Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "一艘印度船在霍爾木茲海峽附近起火　1死4傷",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260509/1129580391397593088132670.jpeg/DDlyPmPFbAV_wexnEgZF-lVKEfyKhSuskdl6npHZep4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E5%A8%9B%E6%A8%82/60348088/%E6%88%B4%E7%A5%96%E5%84%80%E8%B6%85%E6%BF%80%E7%BD%95%E6%9B%AC%E6%AF%94%E5%A0%85%E5%B0%BC-%E6%94%BE%E9%A1%8C-%E6%93%A6%E9%82%8A%E7%90%83%E8%AE%8A%E7%9B%B4%E7%B7%9A%E9%9C%87%E6%92%BC%E7%B6%B2%E6%B0%91",
     "timestamp": "2026-05-08T16:51:08.150Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "旺角下雨天平治疑失控撞欄　車尾掃中城巴致車長受傷　司機蹤杳",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260508/1129571630473809920267104.jpeg/RH8g4JAEajGO8Ou4NPqHT5DnED1IAWMrBhBnjTwQZ40?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60348083/%E6%97%BA%E8%A7%92%E4%B8%8B%E9%9B%A8%E5%A4%A9%E5%B9%B3%E6%B2%BB%E7%96%91%E5%A4%B1%E6%8E%A7%E6%92%9E%E6%AC%84-%E8%BB%8A%E5%B0%BE%E6%8E%83%E4%B8%AD%E5%9F%8E%E5%B7%B4%E8%87%B4%E8%BB%8A%E9%95%B7%E5%8F%97%E5%82%B7-%E5%8F%B8%E6%A9%9F%E8%B9%A4%E6%9D%B3",
-    "timestamp": "2026-05-08T16:15:58.982Z",
     "strategy": ".content-card__main"
   }
 ];
