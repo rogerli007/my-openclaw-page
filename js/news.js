@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-09T16:53:42.521Z
+// Last updated: 2026-05-09T17:28:21.939Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "大角咀私樓單位淪販毒中心　警反黑組檢$2800萬毒品　23歲男被捕",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260510/1129950315806724096687209.jpeg/XQYxGiu5NOsCEDwVRwou8LlXkOGkJjf4MmY_ujJmP7o?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60348331/%E5%A4%A7%E8%A7%92%E5%92%80%E7%A7%81%E6%A8%93%E5%96%AE%E4%BD%8D%E6%B7%AA%E8%B2%A9%E6%AF%92%E4%B8%AD%E5%BF%83-%E8%AD%A6%E5%8F%8D%E9%BB%91%E7%B5%84%E6%AA%A2-2800%E8%90%AC%E6%AF%92%E5%93%81-23%E6%AD%B2%E7%94%B7%E8%A2%AB%E6%8D%95",
+    "timestamp": "2026-05-09T17:28:21.939Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "李家鼎向李泳豪呻窮憂200萬老本不保　設雙簽戶口遭大仔夫婦截擊",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250904/1040215797684768768395870.jpeg/fyUIBoWfxxcsCdaW0dl-6RIEL3OGDC9k2hE1qtoRNao?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60348115/%E9%87%91%E6%AD%A3%E6%81%A9%E8%87%B4%E9%9B%BB%E6%99%AE%E4%BA%AC%E7%A5%9D%E8%B3%80%E4%BF%84%E7%BE%85%E6%96%AF%E5%8B%9D%E5%88%A9%E6%97%A5-%E7%A8%B1%E6%9C%9D%E4%BF%84%E5%A7%8B%E7%B5%82%E7%AB%99%E5%9C%A8%E4%B8%80%E8%B5%B7",
     "timestamp": "2026-05-08T23:40:25.462Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "伊朗戰爭影響供應鏈　全球食物價格飆升至三年來最高水準",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260509/1129584700172537856251673.jpeg/tJpOtIIewcQA0a0eiiVHE62NUkx30LVDuT9Zvrk_Wb4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60348090/%E4%BC%8A%E6%9C%97%E6%88%B0%E7%88%AD%E5%BD%B1%E9%9F%BF%E4%BE%9B%E6%87%89%E9%8F%88-%E5%85%A8%E7%90%83%E9%A3%9F%E7%89%A9%E5%83%B9%E6%A0%BC%E9%A3%86%E5%8D%87%E8%87%B3%E4%B8%89%E5%B9%B4%E4%BE%86%E6%9C%80%E9%AB%98%E6%B0%B4%E6%BA%96",
-    "timestamp": "2026-05-08T23:12:15.202Z",
     "strategy": ".content-card__main"
   }
 ];
