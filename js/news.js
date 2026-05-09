@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-09T22:52:45.130Z
+// Last updated: 2026-05-09T23:26:49.641Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "港媽當街跪求兒子影片瘋傳！被趕死纏原因心酸　網民激讚：好母親",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250820/1034894122281865216760921.jpeg/IS8rUemMj35Lw-D_aGb5PY6vSRu-jJlUyQSyPMkEsjw",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60347661/%E6%B8%AF%E5%AA%BD%E7%95%B6%E8%A1%97%E8%B7%AA%E6%B1%82%E5%85%92%E5%AD%90%E5%BD%B1%E7%89%87%E7%98%8B%E5%82%B3-%E8%A2%AB%E8%B6%95%E6%AD%BB%E7%BA%8F%E5%8E%9F%E5%9B%A0%E5%BF%83%E9%85%B8-%E7%B6%B2%E6%B0%91%E6%BF%80%E8%AE%9A-%E5%A5%BD%E6%AF%8D%E8%A6%AA",
+    "timestamp": "2026-05-09T23:26:49.641Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "魯比奧與威特科夫會晤卡塔爾首相　據報就美伊停戰備忘錄進行談判",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260509/1129809042395369472217638.jpeg/j69DPD7mqQkLx2GyjkgRGHreIvRZGC9WLvG-Ty7xvk8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60348217/%E5%BB%BF%E5%9B%9B%E5%91%B3%E6%BC%94%E5%94%B1%E6%9C%832026%E9%A6%99%E6%B8%AF-%E9%96%80%E7%A5%A8%E5%84%AA%E5%85%88-%E5%85%AC%E5%94%AE%E6%94%BB%E7%95%A5-%E8%B3%BC%E7%A5%A8%E9%80%A3%E7%B5%90-%E5%BA%A7%E4%BD%8D%E8%A1%A8",
     "timestamp": "2026-05-09T10:39:41.411Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "天后誕｜元朗逾30花炮舞獅隊出巡　街坊專程帶子女撐本土傳統文化",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260509/1129811256841080832569403.jpeg/82XOID9FParn_W3bRdXKvef87gOSQzuG9PN4k_TzeJM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60348213/%E5%A4%A9%E5%90%8E%E8%AA%95-%E5%85%83%E6%9C%97%E9%80%BE30%E8%8A%B1%E7%82%AE%E8%88%9E%E7%8D%85%E9%9A%8A%E5%87%BA%E5%B7%A1-%E8%A1%97%E5%9D%8A%E5%B0%88%E7%A8%8B%E5%B8%B6%E5%AD%90%E5%A5%B3%E6%92%90%E6%9C%AC%E5%9C%9F%E5%82%B3%E7%B5%B1%E6%96%87%E5%8C%96",
-    "timestamp": "2026-05-09T08:15:56.195Z",
     "strategy": ".content-card__main"
   }
 ];
