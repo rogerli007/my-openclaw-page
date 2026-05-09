@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-09T08:15:56.195Z
+// Last updated: 2026-05-09T10:39:41.411Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "廿四味演唱會2026香港｜門票優先/公售攻略＋購票連結＋座位表",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260509/1129809042395369472217638.jpeg/j69DPD7mqQkLx2GyjkgRGHreIvRZGC9WLvG-Ty7xvk8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60348217/%E5%BB%BF%E5%9B%9B%E5%91%B3%E6%BC%94%E5%94%B1%E6%9C%832026%E9%A6%99%E6%B8%AF-%E9%96%80%E7%A5%A8%E5%84%AA%E5%85%88-%E5%85%AC%E5%94%AE%E6%94%BB%E7%95%A5-%E8%B3%BC%E7%A5%A8%E9%80%A3%E7%B5%90-%E5%BA%A7%E4%BD%8D%E8%A1%A8",
+    "timestamp": "2026-05-09T10:39:41.411Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "天后誕｜元朗逾30花炮舞獅隊出巡　街坊專程帶子女撐本土傳統文化",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260508/1129564821713326080362789.jpeg/86CupuXnUkVkowblZtsYRNGfSmhUoRRiI92EYCPdhGA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60348084/%E7%99%BE%E6%83%B3-%E7%8E%84%E5%BD%AC%E5%8B%87%E5%A5%AA%E8%A6%96%E5%B8%9D%E5%AD%AB%E8%97%9D%E7%8F%8D%E5%8F%B0%E4%B8%8B%E7%8B%82%E5%BD%B1-%E5%85%AC%E9%96%8B%E5%90%91%E8%80%81%E5%A9%86%E8%A1%A8%E7%99%BD-%E6%88%91%E6%84%9B%E4%BD%A0%E5%80%91",
     "timestamp": "2026-05-08T15:43:47.710Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "50歲焦媛素顏近照曝光魚尾紋明顯　不悔背負小三罵名情斷高志森",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260508/1129486945022382080793486.jpeg/47IiOPIYCOxw3TcX22JpzvNPaa4S_6CR4wRrXeMEa10?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60347835/50%E6%AD%B2%E7%84%A6%E5%AA%9B%E7%B4%A0%E9%A1%8F%E8%BF%91%E7%85%A7%E6%9B%9D%E5%85%89%E9%AD%9A%E5%B0%BE%E7%B4%8B%E6%98%8E%E9%A1%AF-%E4%B8%8D%E6%82%94%E8%83%8C%E8%B2%A0%E5%B0%8F%E4%B8%89%E7%BD%B5%E5%90%8D%E6%83%85%E6%96%B7%E9%AB%98%E5%BF%97%E6%A3%AE",
-    "timestamp": "2026-05-08T14:03:44.975Z",
     "strategy": ".content-card__main"
   }
 ];
