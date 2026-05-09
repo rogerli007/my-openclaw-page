@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-09T14:57:55.537Z
+// Last updated: 2026-05-09T15:29:24.979Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "白安《路邊野餐》巡演宣布加碼　邀歌迷相聚現場用音樂「野餐」",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260509/1129816675726659584968045.jpeg/JrjuT0EP_EiCfFQCfXKcY05cPZdyNJ7zjJYRgIyWEYA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60348228/%E7%99%BD%E5%AE%89-%E8%B7%AF%E9%82%8A%E9%87%8E%E9%A4%90-%E5%B7%A1%E6%BC%94%E5%AE%A3%E5%B8%83%E5%8A%A0%E7%A2%BC-%E9%82%80%E6%AD%8C%E8%BF%B7%E7%9B%B8%E8%81%9A%E7%8F%BE%E5%A0%B4%E7%94%A8%E9%9F%B3%E6%A8%82-%E9%87%8E%E9%A4%90",
+    "timestamp": "2026-05-09T15:29:24.979Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "胡楓讚薛家燕是偉大媽媽　陳淑芬爆修哥演唱會破天荒擺10圍酒席",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260509/1129644574180904960723190.jpeg/yucy30rYsBPDZj9gsmrNmH8z8nyzM2Ype0Y4o3tGOKM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60348100/%E4%B8%83%E6%AC%96-%E7%A4%BE%E5%8D%80%E8%A8%88%E5%8A%83%E9%82%80%E5%BC%B1%E5%8B%A2%E7%A4%BE%E7%BE%A4%E9%AB%94%E9%A9%97-1-5%E8%90%AC%E4%BA%BA%E5%8F%97%E6%83%A0",
     "timestamp": "2026-05-08T21:14:40.909Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美國確認5.14舉辦以黎會談　討論和平框架尋求結束衝突",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260507/1128881506043826176596138.jpeg/tMM-8Z88QcoQhlQ5QG2gIhg7K6Gi5Jubv3TGOL90xjg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60348099/%E7%BE%8E%E5%9C%8B%E7%A2%BA%E8%AA%8D5-14%E8%88%89%E8%BE%A6%E4%BB%A5%E9%BB%8E%E6%9C%83%E8%AB%87-%E8%A8%8E%E8%AB%96%E5%92%8C%E5%B9%B3%E6%A1%86%E6%9E%B6%E5%B0%8B%E6%B1%82%E7%B5%90%E6%9D%9F%E8%A1%9D%E7%AA%81",
-    "timestamp": "2026-05-08T20:41:30.615Z",
     "strategy": ".content-card__main"
   }
 ];
