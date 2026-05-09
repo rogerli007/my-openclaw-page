@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-09T03:22:58.290Z
+// Last updated: 2026-05-09T04:42:33.894Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "珍惜生命｜大埔創新路男子高處墮下　送院搶救不治",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260509/1129759925099040768748569.jpeg/pL9tU_HtGOlK9h7novUfRAFheoIPumt3ER-2bREftm0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60348118/%E7%8F%8D%E6%83%9C%E7%94%9F%E5%91%BD-%E5%A4%A7%E5%9F%94%E5%89%B5%E6%96%B0%E8%B7%AF%E7%94%B7%E5%AD%90%E9%AB%98%E8%99%95%E5%A2%AE%E4%B8%8B-%E9%80%81%E9%99%A2%E6%90%B6%E6%95%91%E4%B8%8D%E6%B2%BB",
+    "timestamp": "2026-05-09T04:42:33.894Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "將與習近平討論伊朗戰爭，特朗普訪華時移勢施壓變求救",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260507/1129119475942035456623019.jpeg/YNlDyQryTe-gwEa9-a2kRpAl5UXZzhMzi3vYL4t72C8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60347637/%E4%B8%89%E4%BA%9E4%E9%9A%BB%E7%80%A8%E5%B0%BF%E8%9D%A61035%E5%85%83%E9%81%8A%E5%AE%A2%E6%8B%92%E6%94%B6%E8%B3%A0%E6%AC%BE-%E6%B5%B7%E9%AE%AE%E5%BA%97%E6%B6%89%E4%B8%B2%E9%80%9A%E7%B6%B2%E7%B4%84%E8%BB%8A%E9%81%AD%E5%81%9C%E6%A5%AD",
     "timestamp": "2026-05-08T11:16:17.283Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "任天堂宣佈Switch 2主機加價1萬圓｜日本已現搶機人龍．香港未定",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260508/1129488645418389504973428.jpeg/GCIjLQisdpTjuohY_PCoJ_n3pJ57U-f-5XNI0eVzSNE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%81%8A%E6%88%B2%E5%8B%95%E6%BC%AB/60348020/%E4%BB%BB%E5%A4%A9%E5%A0%82%E5%AE%A3%E4%BD%88switch-2%E4%B8%BB%E6%A9%9F%E5%8A%A0%E5%83%B91%E8%90%AC%E5%9C%93-%E6%97%A5%E6%9C%AC%E5%B7%B2%E7%8F%BE%E6%90%B6%E6%A9%9F%E4%BA%BA%E9%BE%8D-%E9%A6%99%E6%B8%AF%E6%9C%AA%E5%AE%9A",
-    "timestamp": "2026-05-08T10:43:23.517Z",
     "strategy": ".content-card__main"
   }
 ];
