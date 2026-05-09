@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-09T05:46:58.328Z
+// Last updated: 2026-05-09T06:39:27.009Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "百想｜文佳煐「深V高開衩裙」封紅毯最辣女神　擊敗孫藝珍奪影后",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260509/1129734778166185984063489.png/X1CPXFzurfXgPOkL9rhsPqRj_XtHf53qfqpPfX6qT30?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60348127/%E7%99%BE%E6%83%B3-%E6%96%87%E4%BD%B3%E7%85%90-%E6%B7%B1v%E9%AB%98%E9%96%8B%E8%A1%A9%E8%A3%99-%E5%B0%81%E7%B4%85%E6%AF%AF%E6%9C%80%E8%BE%A3%E5%A5%B3%E7%A5%9E-%E6%93%8A%E6%95%97%E5%AD%AB%E8%97%9D%E7%8F%8D%E5%A5%AA%E5%BD%B1%E5%90%8E",
+    "timestamp": "2026-05-09T06:39:27.009Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "英國地方選舉｜極右改革黨搶佔主流成大贏家　兩黨獨大時代告終",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260131/1094117960903168000341980.jpeg/HMqcU1atBIUvlO-riMaVQev515gzZ6ztHjO0JB4ztCQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60348061/%E5%A4%AA%E5%8F%A4%E5%9C%B0%E7%94%A2-%E9%A6%96%E5%AD%A3%E6%B8%AF%E5%AF%AB%E5%AD%97%E6%A8%93%E5%87%BA%E7%A7%9F%E7%8E%8791-%E4%B8%89%E5%A4%A7%E5%95%86%E5%A0%B4%E5%9D%87-%E6%BB%BF%E7%A7%9F",
     "timestamp": "2026-05-08T12:43:59.127Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "將軍澳男子海面載浮載沉　昏迷送院搶救不治",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260508/1129496759366586368813296.jpeg/lLSFxvFmwEhVxnXF8WLIYRfDnJuiSbLgdVP9sXVT_bE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60348033/%E5%B0%87%E8%BB%8D%E6%BE%B3%E7%94%B7%E5%AD%90%E6%B5%B7%E9%9D%A2%E8%BC%89%E6%B5%AE%E8%BC%89%E6%B2%89-%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2%E6%90%B6%E6%95%91%E4%B8%8D%E6%B2%BB",
-    "timestamp": "2026-05-08T11:52:51.613Z",
     "strategy": ".content-card__main"
   }
 ];
