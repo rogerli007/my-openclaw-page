@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-09T21:25:02.035Z
+// Last updated: 2026-05-09T22:24:31.077Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "小紅書女澳洲遇「樹上掛鞋」　覺不尋常駕車走　遭轟3槍奇蹟無恙",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260509/1129803668103630848280735.png/ejE5Yh4Y8nfgBZMP3xLuAYYOQjte0au_s8oWSbPKFkk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60347770/%E5%B0%8F%E7%B4%85%E6%9B%B8%E5%A5%B3%E6%BE%B3%E6%B4%B2%E9%81%87-%E6%A8%B9%E4%B8%8A%E6%8E%9B%E9%9E%8B-%E8%A6%BA%E4%B8%8D%E5%B0%8B%E5%B8%B8%E9%A7%95%E8%BB%8A%E8%B5%B0-%E9%81%AD%E6%A7%8D%E6%93%8A%E5%9B%A0%E8%BA%BA%E5%B9%B3%E4%BF%9D%E5%91%BD",
+    "timestamp": "2026-05-09T22:24:31.077Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "中國巴西歐盟組建全球碳定價聯盟　推動碳定價政策促進環境保護",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260508/1129530037347815424821974.png/ghvkUaZLMekgvxW2-ykkP630N_IRWcyrz-Ppu8_j6bs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60348193/canvas%E5%B9%B3%E5%8F%B0%E9%81%AD%E9%BB%91%E5%AE%A2%E5%85%A5%E4%BE%B5-%E6%96%B0%E5%8A%A0%E5%9D%A1%E5%9C%8B%E7%AB%8B%E5%A4%A7%E5%AD%B8-%E5%AD%B8%E7%94%9F%E5%A7%93%E5%90%8D%E9%9B%BB%E9%83%B5%E7%AD%89%E6%88%96%E5%B7%B2%E5%A4%96%E6%B4%A9",
     "timestamp": "2026-05-09T07:29:58.113Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "百想｜文佳煐「深V高開衩裙」封紅毯最辣女神　擊敗孫藝珍奪影后",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260509/1129734778166185984063489.png/X1CPXFzurfXgPOkL9rhsPqRj_XtHf53qfqpPfX6qT30?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60348127/%E7%99%BE%E6%83%B3-%E6%96%87%E4%BD%B3%E7%85%90-%E6%B7%B1v%E9%AB%98%E9%96%8B%E8%A1%A9%E8%A3%99-%E5%B0%81%E7%B4%85%E6%AF%AF%E6%9C%80%E8%BE%A3%E5%A5%B3%E7%A5%9E-%E6%93%8A%E6%95%97%E5%AD%AB%E8%97%9D%E7%8F%8D%E5%A5%AA%E5%BD%B1%E5%90%8E",
-    "timestamp": "2026-05-09T06:39:27.009Z",
     "strategy": ".content-card__main"
   }
 ];
