@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-09T00:11:37.665Z
+// Last updated: 2026-05-09T01:13:54.604Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "整頓職場！請喪假不獲批　00後打工仔披麻戴孝返工　主管下場曝光",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260507/1129083724915281920768594.png/NuyZEJR-Wfn6k-SmAjG1ldVN6Wr7QtCT_DOSOvwzkjo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60347375/%E6%95%B4%E9%A0%93%E8%81%B7%E5%A0%B4-%E8%AB%8B%E5%96%AA%E5%81%87%E4%B8%8D%E7%8D%B2%E6%89%B9-00%E5%BE%8C%E6%89%93%E5%B7%A5%E4%BB%94%E6%8A%AB%E9%BA%BB%E6%88%B4%E5%AD%9D%E8%BF%94%E5%B7%A5-%E4%B8%BB%E7%AE%A1%E5%8D%B3%E8%A2%AB%E8%AA%BF%E8%81%B7",
+    "timestamp": "2026-05-09T01:13:54.604Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "舊物復修——即棄時代的逆流",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260508/1129461468622753792596842.png/8MTeB8BdzBWSbj57x5fEd3oKMqffEbkMsXJr2rFya9o?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%A3%9F%E7%8E%A9%E8%B2%B7/910546/%E7%99%BE%E6%A8%82%E9%85%92%E5%BA%97%E8%87%AA%E5%8A%A9%E9%A4%90%E8%B2%B7%E4%B8%80%E9%80%81%E4%B8%80-%E4%BA%BA%E5%9D%87-191-%E4%BB%BB%E9%A3%9F%E9%BA%B5%E5%8C%85%E8%9F%B9-%E7%89%87%E7%9A%AE%E9%B4%A8",
     "timestamp": "2026-05-08T09:56:40.249Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "宏福苑｜7災廈5.21起再開放執拾　可逗留單位3小時、不限上落次數",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260430/1126639458947829760620975.jpeg/oSNX9Se5Ayon1Mix2--1PDzP8RIsz2alTHKKrkxyiq4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60347971/%E5%AE%8F%E7%A6%8F%E8%8B%91-7%E7%81%BD%E5%BB%885-21%E8%B5%B7%E5%86%8D%E9%96%8B%E6%94%BE%E5%9F%B7%E6%8B%BE-%E5%8F%AF%E9%80%97%E7%95%99%E5%96%AE%E4%BD%8D3%E5%B0%8F%E6%99%82-%E4%B8%8D%E9%99%90%E4%B8%8A%E8%90%BD%E6%AC%A1%E6%95%B8",
-    "timestamp": "2026-05-08T08:45:32.811Z",
     "strategy": ".content-card__main"
   }
 ];
