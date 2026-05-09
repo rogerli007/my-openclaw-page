@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-08T23:40:25.462Z
+// Last updated: 2026-05-09T00:11:37.665Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "舊物復修——即棄時代的逆流",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260430/1126559081683750912410367.jpeg/UoKO9wquRsBNFGi3t6pg8X4t3-K8i3z0_M46wvzOOsI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E5%8D%80%E5%B0%88%E9%A1%8C/60345527/%E8%88%8A%E7%89%A9%E5%BE%A9%E4%BF%AE-%E5%8D%B3%E6%A3%84%E6%99%82%E4%BB%A3%E7%9A%84%E9%80%86%E6%B5%81",
+    "timestamp": "2026-05-09T00:11:37.665Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "金正恩致電普京祝賀俄羅斯勝利日　稱朝俄始終站在一起",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260430/1126639458947829760620975.jpeg/oSNX9Se5Ayon1Mix2--1PDzP8RIsz2alTHKKrkxyiq4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60347971/%E5%AE%8F%E7%A6%8F%E8%8B%91-7%E7%81%BD%E5%BB%885-21%E8%B5%B7%E5%86%8D%E9%96%8B%E6%94%BE%E5%9F%B7%E6%8B%BE-%E5%8F%AF%E9%80%97%E7%95%99%E5%96%AE%E4%BD%8D3%E5%B0%8F%E6%99%82-%E4%B8%8D%E9%99%90%E4%B8%8A%E8%90%BD%E6%AC%A1%E6%95%B8",
     "timestamp": "2026-05-08T08:45:32.811Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "皇馬國家打吡前內訌　傳曹亞文尼動武華維迪傷頭　眾將屢傳不和",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260508/1129414829140873216405218.jpeg/uMD7zNHzk8ATAFAoe0AWahoC9YVYG8A-pwJc-qcCXPo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60347790/%E7%9A%87%E9%A6%AC%E5%9C%8B%E5%AE%B6%E6%89%93%E5%90%A1%E5%89%8D%E5%85%A7%E8%A8%8C-%E5%82%B3%E6%9B%B9%E4%BA%9E%E6%96%87%E5%B0%BC%E5%8B%95%E6%AD%A6%E8%8F%AF%E7%B6%AD%E8%BF%AA%E5%82%B7%E9%A0%AD-%E7%9C%BE%E5%B0%87%E5%B1%A2%E5%82%B3%E4%B8%8D%E5%92%8C",
-    "timestamp": "2026-05-08T07:58:01.512Z",
     "strategy": ".content-card__main"
   }
 ];
