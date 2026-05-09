@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-09T14:33:27.770Z
+// Last updated: 2026-05-09T14:57:55.537Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "胡楓讚薛家燕是偉大媽媽　陳淑芬爆修哥演唱會破天荒擺10圍酒席",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260509/1129840084456050688056127.jpeg/dTMdQO8s1WnL7azlSFf1K9AP7InVQuCXfZfxmn2X8Zo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60348260/%E8%83%A1%E6%A5%93%E8%AE%9A%E8%96%9B%E5%AE%B6%E7%87%95%E6%98%AF%E5%81%89%E5%A4%A7%E5%AA%BD%E5%AA%BD-%E9%99%B3%E6%B7%91%E8%8A%AC%E7%88%86%E4%BF%AE%E5%93%A5%E6%BC%94%E5%94%B1%E6%9C%83%E7%A0%B4%E5%A4%A9%E8%8D%92%E6%93%BA10%E5%9C%8D%E9%85%92%E5%B8%AD",
+    "timestamp": "2026-05-09T14:57:55.537Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "俄羅斯閱兵未展示坦克等裝備　普京：俄正對抗北約支持的侵略勢力",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260507/1128881506043826176596138.jpeg/tMM-8Z88QcoQhlQ5QG2gIhg7K6Gi5Jubv3TGOL90xjg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60348099/%E7%BE%8E%E5%9C%8B%E7%A2%BA%E8%AA%8D5-14%E8%88%89%E8%BE%A6%E4%BB%A5%E9%BB%8E%E6%9C%83%E8%AB%87-%E8%A8%8E%E8%AB%96%E5%92%8C%E5%B9%B3%E6%A1%86%E6%9E%B6%E5%B0%8B%E6%B1%82%E7%B5%90%E6%9D%9F%E8%A1%9D%E7%AA%81",
     "timestamp": "2026-05-08T20:41:30.615Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美國確認5.14舉辦以黎會談　討論和平框架尋求結束衝突",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260507/1128881506043826176596138.jpeg/tMM-8Z88QcoQhlQ5QG2gIhg7K6Gi5Jubv3TGOL90xjg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60348099/%E7%BE%8E%E5%9C%8B%E7%A2%BA%E8%AA%8D5-14%E8%88%89%E8%BE%A6%E4%BB%A5%E9%BB%8E%E6%9C%83%E8%AB%87-%E8%A8%8E%E8%AB%96%E5%92%8C%E5%B9%B3%E6%A1%86%E6%9E%B6%E5%B0%8B%E6%B1%82%E7%B5%90%E6%9D%9F%E8%A1%9D%E7%AA%81",
-    "timestamp": "2026-05-08T19:40:25.578Z",
     "strategy": ".content-card__main"
   }
 ];
