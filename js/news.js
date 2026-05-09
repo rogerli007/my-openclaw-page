@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-09T17:28:21.939Z
+// Last updated: 2026-05-09T17:53:20.761Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "漢坦病毒｜郵輪逼近加那利群島引不安　居民憂再現Covid－19抗議",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260510/1129950820259860480528697.jpeg/HAWnVi51mDortCb6DZx9-JmuizPGRLYgZuFsTGbhbEw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60348330/%E6%BC%A2%E5%9D%A6%E7%97%85%E6%AF%92-%E9%83%B5%E8%BC%AA%E9%80%BC%E8%BF%91%E5%8A%A0%E9%82%A3%E5%88%A9%E7%BE%A4%E5%B3%B6%E5%BC%95%E4%B8%8D%E5%AE%89-%E5%B1%85%E6%B0%91%E6%86%82%E5%86%8D%E7%8F%BEcovid-19%E6%8A%97%E8%AD%B0",
+    "timestamp": "2026-05-09T17:53:20.761Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "大角咀私樓單位淪販毒中心　警反黑組檢$2800萬毒品　23歲男被捕",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260430/1126559081683750912410367.jpeg/UoKO9wquRsBNFGi3t6pg8X4t3-K8i3z0_M46wvzOOsI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E5%8D%80%E5%B0%88%E9%A1%8C/60345527/%E8%88%8A%E7%89%A9%E5%BE%A9%E4%BF%AE-%E5%8D%B3%E6%A3%84%E6%99%82%E4%BB%A3%E7%9A%84%E9%80%86%E6%B5%81",
     "timestamp": "2026-05-09T00:11:37.665Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "金正恩致電普京祝賀俄羅斯勝利日　稱朝俄始終站在一起",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250904/1040215797684768768395870.jpeg/fyUIBoWfxxcsCdaW0dl-6RIEL3OGDC9k2hE1qtoRNao?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60348115/%E9%87%91%E6%AD%A3%E6%81%A9%E8%87%B4%E9%9B%BB%E6%99%AE%E4%BA%AC%E7%A5%9D%E8%B3%80%E4%BF%84%E7%BE%85%E6%96%AF%E5%8B%9D%E5%88%A9%E6%97%A5-%E7%A8%B1%E6%9C%9D%E4%BF%84%E5%A7%8B%E7%B5%82%E7%AB%99%E5%9C%A8%E4%B8%80%E8%B5%B7",
-    "timestamp": "2026-05-08T23:40:25.462Z",
     "strategy": ".content-card__main"
   }
 ];
