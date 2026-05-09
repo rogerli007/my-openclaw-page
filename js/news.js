@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-09T13:16:44.383Z
+// Last updated: 2026-05-09T14:33:27.770Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "俄羅斯閱兵未展示坦克等裝備　普京：俄正對抗北約支持的侵略勢力",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260509/1129907464230146048098512.jpeg/cVYfQm5sD1Gv7dMV1MEhfyQFgfDVr4tFIrnmaSK55mk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60348306/%E4%BF%84%E7%BE%85%E6%96%AF%E9%96%B1%E5%85%B5%E6%9C%AA%E5%B1%95%E7%A4%BA%E5%9D%A6%E5%85%8B%E7%AD%89%E8%A3%9D%E5%82%99-%E6%99%AE%E4%BA%AC-%E4%BF%84%E6%AD%A3%E5%B0%8D%E6%8A%97%E5%8C%97%E7%B4%84%E6%94%AF%E6%8C%81%E7%9A%84%E4%BE%B5%E7%95%A5%E5%8B%A2%E5%8A%9B",
+    "timestamp": "2026-05-09T14:33:27.770Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "擁2億日圓不買名牌名車！75歲獨居翁不炫富　分享富人理財智慧",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260507/1128881506043826176596138.jpeg/tMM-8Z88QcoQhlQ5QG2gIhg7K6Gi5Jubv3TGOL90xjg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60348099/%E7%BE%8E%E5%9C%8B%E7%A2%BA%E8%AA%8D5-14%E8%88%89%E8%BE%A6%E4%BB%A5%E9%BB%8E%E6%9C%83%E8%AB%87-%E8%A8%8E%E8%AB%96%E5%92%8C%E5%B9%B3%E6%A1%86%E6%9E%B6%E5%B0%8B%E6%B1%82%E7%B5%90%E6%9D%9F%E8%A1%9D%E7%AA%81",
     "timestamp": "2026-05-08T19:40:25.578Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "德國一間銀行發生挾持人質事件　特警從金庫救出兩人",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260509/1129592760341368832253801.jpeg/ihr9rF7gosmdm4imWdkX5H2ERCTKMYMVDFqzZgxas2Y?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60348091/%E5%BE%B7%E5%9C%8B%E4%B8%80%E9%96%93%E9%8A%80%E8%A1%8C%E7%99%BC%E7%94%9F%E6%8C%BE%E6%8C%81%E4%BA%BA%E8%B3%AA%E4%BA%8B%E4%BB%B6-%E7%89%B9%E8%AD%A6%E5%BE%9E%E9%87%91%E5%BA%AB%E6%95%91%E5%87%BA%E5%85%A9%E4%BA%BA",
-    "timestamp": "2026-05-08T17:41:15.571Z",
     "strategy": ".content-card__main"
   }
 ];
