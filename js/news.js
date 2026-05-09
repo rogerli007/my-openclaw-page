@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-09T10:39:41.411Z
+// Last updated: 2026-05-09T11:38:43.778Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "一艘印度船在霍爾木茲海峽附近起火　1死4傷",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260325/1113544700700135424375198.jpeg/0OYgVxi1QwZEuCl5NFFBgxGpqb4G-stJQ6-hqkOvoao?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60348269/%E4%B8%80%E8%89%98%E5%8D%B0%E5%BA%A6%E8%88%B9%E5%9C%A8%E9%9C%8D%E7%88%BE%E6%9C%A8%E8%8C%B2%E6%B5%B7%E5%B3%BD%E9%99%84%E8%BF%91%E8%B5%B7%E7%81%AB-1%E6%AD%BB4%E5%82%B7",
+    "timestamp": "2026-05-09T11:38:43.778Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "廿四味演唱會2026香港｜門票優先/公售攻略＋購票連結＋座位表",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260508/1129571630473809920267104.jpeg/RH8g4JAEajGO8Ou4NPqHT5DnED1IAWMrBhBnjTwQZ40?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60348083/%E6%97%BA%E8%A7%92%E4%B8%8B%E9%9B%A8%E5%A4%A9%E5%B9%B3%E6%B2%BB%E7%96%91%E5%A4%B1%E6%8E%A7%E6%92%9E%E6%AC%84-%E8%BB%8A%E5%B0%BE%E6%8E%83%E4%B8%AD%E5%9F%8E%E5%B7%B4%E8%87%B4%E8%BB%8A%E9%95%B7%E5%8F%97%E5%82%B7-%E5%8F%B8%E6%A9%9F%E8%B9%A4%E6%9D%B3",
     "timestamp": "2026-05-08T16:15:58.982Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "百想｜玄彬勇奪視帝孫藝珍台下狂影　公開向老婆表白：我愛你們",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260508/1129564821713326080362789.jpeg/86CupuXnUkVkowblZtsYRNGfSmhUoRRiI92EYCPdhGA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60348084/%E7%99%BE%E6%83%B3-%E7%8E%84%E5%BD%AC%E5%8B%87%E5%A5%AA%E8%A6%96%E5%B8%9D%E5%AD%AB%E8%97%9D%E7%8F%8D%E5%8F%B0%E4%B8%8B%E7%8B%82%E5%BD%B1-%E5%85%AC%E9%96%8B%E5%90%91%E8%80%81%E5%A9%86%E8%A1%A8%E7%99%BD-%E6%88%91%E6%84%9B%E4%BD%A0%E5%80%91",
-    "timestamp": "2026-05-08T15:43:47.710Z",
     "strategy": ".content-card__main"
   }
 ];
