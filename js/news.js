@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-09T17:53:20.761Z
+// Last updated: 2026-05-09T18:31:10.379Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "漢坦病毒｜郵輪逼近加那利群島引不安　居民憂再現Covid－19抗議",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260510/1129950820259860480528697.jpeg/HAWnVi51mDortCb6DZx9-JmuizPGRLYgZuFsTGbhbEw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60348330/%E6%BC%A2%E5%9D%A6%E7%97%85%E6%AF%92-%E9%83%B5%E8%BC%AA%E9%80%BC%E8%BF%91%E5%8A%A0%E9%82%A3%E5%88%A9%E7%BE%A4%E5%B3%B6%E5%BC%95%E4%B8%8D%E5%AE%89-%E5%B1%85%E6%B0%91%E6%86%82%E5%86%8D%E7%8F%BEcovid-19%E6%8A%97%E8%AD%B0",
+    "timestamp": "2026-05-09T18:31:10.379Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "漢坦病毒｜郵輪逼近加那利群島引不安　居民憂再現Covid－19抗議",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260507/1129083724915281920768594.png/NuyZEJR-Wfn6k-SmAjG1ldVN6Wr7QtCT_DOSOvwzkjo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60347375/%E6%95%B4%E9%A0%93%E8%81%B7%E5%A0%B4-%E8%AB%8B%E5%96%AA%E5%81%87%E4%B8%8D%E7%8D%B2%E6%89%B9-00%E5%BE%8C%E6%89%93%E5%B7%A5%E4%BB%94%E6%8A%AB%E9%BA%BB%E6%88%B4%E5%AD%9D%E8%BF%94%E5%B7%A5-%E4%B8%BB%E7%AE%A1%E5%8D%B3%E8%A2%AB%E8%AA%BF%E8%81%B7",
     "timestamp": "2026-05-09T01:13:54.604Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "舊物復修——即棄時代的逆流",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260430/1126559081683750912410367.jpeg/UoKO9wquRsBNFGi3t6pg8X4t3-K8i3z0_M46wvzOOsI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E5%8D%80%E5%B0%88%E9%A1%8C/60345527/%E8%88%8A%E7%89%A9%E5%BE%A9%E4%BF%AE-%E5%8D%B3%E6%A3%84%E6%99%82%E4%BB%A3%E7%9A%84%E9%80%86%E6%B5%81",
-    "timestamp": "2026-05-09T00:11:37.665Z",
     "strategy": ".content-card__main"
   }
 ];
