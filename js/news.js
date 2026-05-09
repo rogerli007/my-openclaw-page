@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-09T20:24:36.127Z
+// Last updated: 2026-05-09T20:52:23.071Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "西環2城巴駛近行人路避工程　車窗掃樹椏碎片四散　1男乘客受傷",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260510/1130001131594846208025348.jpeg/krowoI9LEqwtRt1HPzIokxgu4IIMsRbVMuBnzgjgZ84?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60348337/%E8%A5%BF%E7%92%B02%E5%9F%8E%E5%B7%B4%E9%A7%9B%E8%BF%91%E8%A1%8C%E4%BA%BA%E8%B7%AF%E9%81%BF%E5%B7%A5%E7%A8%8B-%E8%BB%8A%E7%AA%97%E6%8E%83%E6%A8%B9%E6%A4%8F%E7%A2%8E%E7%89%87%E5%9B%9B%E6%95%A3-1%E7%94%B7%E4%B9%98%E5%AE%A2%E5%8F%97%E5%82%B7",
+    "timestamp": "2026-05-09T20:52:23.071Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "英國派軍艦前往中東　準備參與霍爾木茲海峽護航行動",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260509/1129738027212476416612048.jpeg/7VvttHE9Vg0jthRLnCm-hkOzo8DQRVk5EVEpehFRKXo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%9C%8B%E9%9A%9B%E5%88%86%E6%9E%90/60348167/%E8%8B%B1%E5%9C%8B%E5%9C%B0%E6%96%B9%E9%81%B8%E8%88%89-%E6%A5%B5%E5%8F%B3%E6%94%B9%E9%9D%A9%E9%BB%A8%E6%90%B6%E4%BD%94%E4%B8%BB%E6%B5%81%E6%88%90%E5%A4%A7%E8%B4%8F%E5%AE%B6-%E5%85%A9%E9%BB%A8%E7%8D%A8%E5%A4%A7%E6%99%82%E4%BB%A3%E5%91%8A%E7%B5%82",
     "timestamp": "2026-05-09T05:46:58.328Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "珍惜生命｜大埔創新路男子高處墮下　送院搶救不治",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260509/1129759925099040768748569.jpeg/pL9tU_HtGOlK9h7novUfRAFheoIPumt3ER-2bREftm0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60348118/%E7%8F%8D%E6%83%9C%E7%94%9F%E5%91%BD-%E5%A4%A7%E5%9F%94%E5%89%B5%E6%96%B0%E8%B7%AF%E7%94%B7%E5%AD%90%E9%AB%98%E8%99%95%E5%A2%AE%E4%B8%8B-%E9%80%81%E9%99%A2%E6%90%B6%E6%95%91%E4%B8%8D%E6%B2%BB",
-    "timestamp": "2026-05-09T04:42:33.894Z",
     "strategy": ".content-card__main"
   }
 ];
