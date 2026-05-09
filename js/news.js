@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-09T16:28:09.833Z
+// Last updated: 2026-05-09T16:53:42.521Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "李家鼎向李泳豪呻窮憂200萬老本不保　設雙簽戶口遭大仔夫婦截擊",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260510/1129934606846398464920481.png/0LO9NM6V87Rnh0-Fwp-EnDCqnQFAoLgck-jE7pPoxO4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60348322/%E6%9D%8E%E5%AE%B6%E9%BC%8E%E5%90%91%E6%9D%8E%E6%B3%B3%E8%B1%AA%E5%91%BB%E7%AA%AE%E6%86%82200%E8%90%AC%E8%80%81%E6%9C%AC%E4%B8%8D%E4%BF%9D-%E8%A8%AD%E9%9B%99%E7%B0%BD%E6%88%B6%E5%8F%A3%E9%81%AD%E5%A4%A7%E4%BB%94%E5%A4%AB%E5%A9%A6%E6%88%AA%E6%93%8A",
+    "timestamp": "2026-05-09T16:53:42.521Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "李家鼎向李泳豪呻窮憂200萬老本不保　設雙簽戶口遭大仔夫婦截擊",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260509/1129584700172537856251673.jpeg/tJpOtIIewcQA0a0eiiVHE62NUkx30LVDuT9Zvrk_Wb4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60348090/%E4%BC%8A%E6%9C%97%E6%88%B0%E7%88%AD%E5%BD%B1%E9%9F%BF%E4%BE%9B%E6%87%89%E9%8F%88-%E5%85%A8%E7%90%83%E9%A3%9F%E7%89%A9%E5%83%B9%E6%A0%BC%E9%A3%86%E5%8D%87%E8%87%B3%E4%B8%89%E5%B9%B4%E4%BE%86%E6%9C%80%E9%AB%98%E6%B0%B4%E6%BA%96",
     "timestamp": "2026-05-08T23:12:15.202Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "救人變害命？豐田意外翻側　途人誤將車輛推落溝渠　司機當場死亡",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260508/1129442797615583232564097.png/5o0o0dRsMxqoV2FRJTruVkwHWh2kNPHiiIBuYIiAbmA",
-    "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E8%A9%B1%E9%A1%8C/60344766/%E6%95%91%E4%BA%BA%E8%AE%8A%E5%AE%B3%E5%91%BD-%E8%B1%90%E7%94%B0%E6%84%8F%E5%A4%96%E7%BF%BB%E5%81%B4-%E9%80%94%E4%BA%BA%E8%AA%A4%E5%B0%87%E8%BB%8A%E8%BC%9B%E6%8E%A8%E8%90%BD%E6%BA%9D%E6%B8%A0-%E5%8F%B8%E6%A9%9F%E7%95%B6%E5%A0%B4%E6%AD%BB%E4%BA%A1",
-    "timestamp": "2026-05-08T22:13:23.164Z",
     "strategy": ".content-card__main"
   }
 ];
