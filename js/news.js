@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-10T09:40:50.894Z
+// Last updated: 2026-05-10T11:20:50.427Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "有片！外傭屯市外粗暴對待輪椅婆婆　狂拍打致喊叫不斷惹網民氣憤",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260510/1130217651428134912318965.png/EsL1tDki0AIf55zy4cFPIZ0TYCcyiNeSzcBwC83AcAs",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60348394/%E6%9C%89%E7%89%87-%E5%A4%96%E5%82%AD%E5%B1%AF%E5%B8%82%E5%A4%96%E7%B2%97%E6%9A%B4%E5%B0%8D%E5%BE%85%E8%BC%AA%E6%A4%85%E5%A9%86%E5%A9%86-%E7%8B%82%E6%8B%8D%E6%89%93%E8%87%B4%E5%96%8A%E5%8F%AB%E4%B8%8D%E6%96%B7%E6%83%B9%E7%B6%B2%E6%B0%91%E6%B0%A3%E6%86%A4",
+    "timestamp": "2026-05-10T11:20:50.427Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "關曜儁三年抱三「關三弟」出世　老婆生完叫老公：唔該你紮咗佢",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260510/1129950315806724096687209.jpeg/XQYxGiu5NOsCEDwVRwou8LlXkOGkJjf4MmY_ujJmP7o?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60348331/%E5%A4%A7%E8%A7%92%E5%92%80%E7%A7%81%E6%A8%93%E5%96%AE%E4%BD%8D%E6%B7%AA%E8%B2%A9%E6%AF%92%E4%B8%AD%E5%BF%83-%E8%AD%A6%E5%8F%8D%E9%BB%91%E7%B5%84%E6%AA%A2-2800%E8%90%AC%E6%AF%92%E5%93%81-23%E6%AD%B2%E7%94%B7%E8%A2%AB%E6%8D%95",
     "timestamp": "2026-05-09T17:28:21.939Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "李家鼎向李泳豪呻窮憂200萬老本不保　設雙簽戶口遭大仔夫婦截擊",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260510/1129934606846398464920481.png/0LO9NM6V87Rnh0-Fwp-EnDCqnQFAoLgck-jE7pPoxO4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60348322/%E6%9D%8E%E5%AE%B6%E9%BC%8E%E5%90%91%E6%9D%8E%E6%B3%B3%E8%B1%AA%E5%91%BB%E7%AA%AE%E6%86%82200%E8%90%AC%E8%80%81%E6%9C%AC%E4%B8%8D%E4%BF%9D-%E8%A8%AD%E9%9B%99%E7%B0%BD%E6%88%B6%E5%8F%A3%E9%81%AD%E5%A4%A7%E4%BB%94%E5%A4%AB%E5%A9%A6%E6%88%AA%E6%93%8A",
-    "timestamp": "2026-05-09T16:53:42.521Z",
     "strategy": ".content-card__main"
   }
 ];
