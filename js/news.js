@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-10T02:02:30.665Z
+// Last updated: 2026-05-10T03:24:09.259Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "大埔2單車相撞　67歲婦昏迷送院",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20230421/726220144434483200659130.jpeg/RH0oAfMNnLF5CwU0Uzbj4_MuvDL7_MYseIf0xHiH9MQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60348363/%E5%A4%A7%E5%9F%942%E5%96%AE%E8%BB%8A%E7%9B%B8%E6%92%9E-67%E6%AD%B2%E5%A9%A6%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2",
+    "timestamp": "2026-05-10T03:24:09.259Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "普京：中俄協作是全球穩定最重要因素",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260507/1128935971937587200357016.png/olOeIiGCyPxBZWBoX4-mhF7GeTl9wk18exaYg3sWmIM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60347304/%E6%93%812%E5%84%84%E6%97%A5%E5%9C%93%E4%B8%8D%E8%B2%B7%E5%90%8D%E7%89%8C%E5%90%8D%E8%BB%8A-75%E6%AD%B2%E7%8D%A8%E5%B1%85%E7%BF%81%E4%B8%8D%E7%82%AB%E5%AF%8C-%E5%88%86%E4%BA%AB%E5%AF%8C%E4%BA%BA%E7%90%86%E8%B2%A1%E6%99%BA%E6%85%A7",
     "timestamp": "2026-05-09T13:16:44.383Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "跑鞋推薦2026｜New Balance Grey Days　1080+Rebel向元祖灰致敬",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260509/1129881214115647488459086.png/RX7LwN8cHo3oNeQ_y2C_aLxwb7MjpGmwz2Fzgs9hc4I?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B7%91%E6%AD%A5/60348301/%E8%B7%91%E9%9E%8B%E6%8E%A8%E8%96%A62026-new-balance-grey-days-1080-rebel%E5%90%91%E5%85%83%E7%A5%96%E7%81%B0%E8%87%B4%E6%95%AC",
-    "timestamp": "2026-05-09T12:41:55.542Z",
     "strategy": ".content-card__main"
   }
 ];
