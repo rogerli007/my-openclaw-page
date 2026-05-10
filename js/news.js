@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-10T03:24:09.259Z
+// Last updated: 2026-05-10T04:52:12.051Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "海關落馬洲管制站截46歲旅客　檢紙袋揭走私7隻天竺鼠及蜜袋鼯等",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260510/1130123657520091136630198.jpeg/Ng0_6BBvDbyIEDAJB9_5Fp-g4k7F35NDz7EteM-xLXg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60348382/%E6%B5%B7%E9%97%9C%E8%90%BD%E9%A6%AC%E6%B4%B2%E7%AE%A1%E5%88%B6%E7%AB%99%E6%88%AA46%E6%AD%B2%E6%97%85%E5%AE%A2-%E6%AA%A2%E7%B4%99%E8%A2%8B%E6%8F%AD%E8%B5%B0%E7%A7%817%E9%9A%BB%E5%A4%A9%E7%AB%BA%E9%BC%A0%E5%8F%8A%E8%9C%9C%E8%A2%8B%E9%BC%AF%E7%AD%89",
+    "timestamp": "2026-05-10T04:52:12.051Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "大埔2單車相撞　67歲婦昏迷送院",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260509/1129907464230146048098512.jpeg/cVYfQm5sD1Gv7dMV1MEhfyQFgfDVr4tFIrnmaSK55mk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60348306/%E4%BF%84%E7%BE%85%E6%96%AF%E9%96%B1%E5%85%B5%E6%9C%AA%E5%B1%95%E7%A4%BA%E5%9D%A6%E5%85%8B%E7%AD%89%E8%A3%9D%E5%82%99-%E6%99%AE%E4%BA%AC-%E4%BF%84%E6%AD%A3%E5%B0%8D%E6%8A%97%E5%8C%97%E7%B4%84%E6%94%AF%E6%8C%81%E7%9A%84%E4%BE%B5%E7%95%A5%E5%8B%A2%E5%8A%9B",
     "timestamp": "2026-05-09T14:33:27.770Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "擁2億日圓不買名牌名車！75歲獨居翁不炫富　分享富人理財智慧",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260507/1128935971937587200357016.png/olOeIiGCyPxBZWBoX4-mhF7GeTl9wk18exaYg3sWmIM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60347304/%E6%93%812%E5%84%84%E6%97%A5%E5%9C%93%E4%B8%8D%E8%B2%B7%E5%90%8D%E7%89%8C%E5%90%8D%E8%BB%8A-75%E6%AD%B2%E7%8D%A8%E5%B1%85%E7%BF%81%E4%B8%8D%E7%82%AB%E5%AF%8C-%E5%88%86%E4%BA%AB%E5%AF%8C%E4%BA%BA%E7%90%86%E8%B2%A1%E6%99%BA%E6%85%A7",
-    "timestamp": "2026-05-09T13:16:44.383Z",
     "strategy": ".content-card__main"
   }
 ];
