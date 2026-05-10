@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-10T21:26:19.399Z
+// Last updated: 2026-05-10T21:53:01.527Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "特朗普稱伊朗回應「完全不可接受」　斥反覆拖延及戲弄美國",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260417/1121712482855948288734251.jpeg/kCWM-UMmqSRtbY_IRow-Q6PJNEyevqO-n76xd5--sXc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60348506/%E7%89%B9%E6%9C%97%E6%99%AE%E7%A8%B1%E4%BC%8A%E6%9C%97%E5%9B%9E%E6%87%89-%E5%AE%8C%E5%85%A8%E4%B8%8D%E5%8F%AF%E6%8E%A5%E5%8F%97-%E6%96%A5%E5%8F%8D%E8%A6%86%E6%8B%96%E5%BB%B6%E5%8F%8A%E6%88%B2%E5%BC%84%E7%BE%8E%E5%9C%8B",
+    "timestamp": "2026-05-10T21:53:01.527Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "特朗普稱伊朗回應「完全不可接受」　斥反覆 拖延及戲弄美國",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260122/1090875815274483712640375.jpeg/XGVsdfI1MaohCT5MkOtd1GBqIxJqYHx_OWtWbjlrVm4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60348391/%E5%BD%AD%E5%8D%9A-%E5%8C%97%E7%B4%84%E5%9C%8B%E5%AE%B6%E7%82%BA%E7%89%B9%E6%9C%97%E6%99%AE%E9%80%B2%E4%B8%80%E6%AD%A5%E5%BE%9E%E6%AD%90%E6%B4%B2%E6%92%A4%E8%BB%8D%E5%81%9A%E6%BA%96%E5%82%99",
     "timestamp": "2026-05-10T06:09:17.978Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "海關落馬洲管制站截46歲旅客　檢紙袋揭走私7隻天竺鼠及蜜袋鼯等",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260510/1130123657520091136630198.jpeg/Ng0_6BBvDbyIEDAJB9_5Fp-g4k7F35NDz7EteM-xLXg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60348382/%E6%B5%B7%E9%97%9C%E8%90%BD%E9%A6%AC%E6%B4%B2%E7%AE%A1%E5%88%B6%E7%AB%99%E6%88%AA46%E6%AD%B2%E6%97%85%E5%AE%A2-%E6%AA%A2%E7%B4%99%E8%A2%8B%E6%8F%AD%E8%B5%B0%E7%A7%817%E9%9A%BB%E5%A4%A9%E7%AB%BA%E9%BC%A0%E5%8F%8A%E8%9C%9C%E8%A2%8B%E9%BC%AF%E7%AD%89",
-    "timestamp": "2026-05-10T04:52:12.051Z",
     "strategy": ".content-card__main"
   }
 ];
