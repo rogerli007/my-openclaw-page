@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-10T22:25:55.539Z
+// Last updated: 2026-05-10T23:27:50.781Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "恐怖車禍●有片│法拉利跣胎失控碰撞　夫妻被困活活燒死　身份曝光",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260511/1130338446246678528057461.jpeg/px05cejJoxfaoTTBYy2SZH0tKBxbVtpxevaOh3r2joc",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60348441/%E6%81%90%E6%80%96%E8%BB%8A%E7%A6%8D-%E6%9C%89%E7%89%87-%E6%B3%95%E6%8B%89%E5%88%A9%E8%B7%A3%E8%83%8E%E5%A4%B1%E6%8E%A7%E7%A2%B0%E6%92%9E-%E5%A4%AB%E5%A6%BB%E8%A2%AB%E5%9B%B0%E6%B4%BB%E6%B4%BB%E7%87%92%E6%AD%BB-%E8%BA%AB%E4%BB%BD%E6%9B%9D%E5%85%89",
+    "timestamp": "2026-05-10T23:27:50.781Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "越男越痛！2螺絲帽套生殖器　男子忍痛個多月　不能自拔腫脹變形",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260510/1130160323307769856941653.png/gUZOl7dwceJuZr_3_ieZED328ddAfoAZ7jEFCO4xBQg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60348403/%E6%B9%96%E5%8D%97%E7%85%99%E8%8A%B1%E5%BB%A037%E6%AD%BB-%E9%BB%91%E7%81%AB%E8%97%A5%E5%8F%8D%E8%A6%86%E5%BC%95%E7%87%83-%E5%80%96%E5%AD%98%E5%93%A1%E5%B7%A5-%E8%A6%8B%E5%86%92%E7%85%99%E5%89%9B%E8%B7%91%E5%85%A9%E7%A7%92%E5%B0%B1%E7%82%B8",
     "timestamp": "2026-05-10T08:03:29.823Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "大阪美食｜心齋橋、梅田6大必吃推薦　百年歷史鰻魚店　附地址",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260508/1129506063310131200480513.jpeg/hY5quGXcxmCQmE7gSMtwkKsog1RpgFpt4gl7TuIJe04?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%97%85%E9%81%8A/60336088/%E5%A4%A7%E9%98%AA%E7%BE%8E%E9%A3%9F-%E5%BF%83%E9%BD%8B%E6%A9%8B-%E6%A2%85%E7%94%B06%E5%A4%A7%E5%BF%85%E5%90%83%E6%8E%A8%E8%96%A6-%E7%99%BE%E5%B9%B4%E6%AD%B7%E5%8F%B2%E9%B0%BB%E9%AD%9A%E5%BA%97-%E9%99%84%E5%9C%B0%E5%9D%80",
-    "timestamp": "2026-05-10T07:20:29.222Z",
     "strategy": ".content-card__main"
   }
 ];
