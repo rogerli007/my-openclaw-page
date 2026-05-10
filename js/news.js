@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-10T17:53:53.226Z
+// Last updated: 2026-05-10T18:56:45.058Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "英超｜阿仙奴作客1：0險勝韋斯咸　杜沙特奠勝",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260511/1130318117625401344854713.jpeg/wAdxIPpujPoZOJsZ2XkJg-G5MEwqae1cAfuXqQH7l6k?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60348503/%E8%8B%B1%E8%B6%85-%E9%98%BF%E4%BB%99%E5%A5%B4%E4%BD%9C%E5%AE%A21-0%E9%9A%AA%E5%8B%9D%E9%9F%8B%E6%96%AF%E5%92%B8-%E6%9D%9C%E6%B2%99%E7%89%B9%E5%A5%A0%E5%8B%9D",
+    "timestamp": "2026-05-10T18:56:45.058Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "英超｜阿仙奴作客1：0險勝韋斯咸　杜沙特奠勝",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250820/1034894122281865216760921.jpeg/IS8rUemMj35Lw-D_aGb5PY6vSRu-jJlUyQSyPMkEsjw",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60347661/%E6%B8%AF%E5%AA%BD%E7%95%B6%E8%A1%97%E8%B7%AA%E6%B1%82%E5%85%92%E5%AD%90%E5%BD%B1%E7%89%87%E7%98%8B%E5%82%B3-%E8%A2%AB%E8%B6%95%E6%AD%BB%E7%BA%8F%E5%8E%9F%E5%9B%A0%E5%BF%83%E9%85%B8-%E7%B6%B2%E6%B0%91%E6%BF%80%E8%AE%9A-%E5%A5%BD%E6%AF%8D%E8%A6%AA",
     "timestamp": "2026-05-09T23:26:49.641Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "魯比奧與威特科夫會晤卡塔爾首相　據報就美伊停戰備忘錄進行談判",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20251224/1080343517907128320905712.jpeg/eXuTn8cl0OWK37X7D_qfxOAuLmeNaPBeFkGoyhZBqMo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60348340/%E9%AD%AF%E6%AF%94%E5%A5%A7%E8%88%87%E5%A8%81%E7%89%B9%E7%A7%91%E5%A4%AB%E6%9C%83%E6%99%A4%E5%8D%A1%E5%A1%94%E7%88%BE%E9%A6%96%E7%9B%B8-%E6%93%9A%E5%A0%B1%E5%B0%B1%E7%BE%8E%E4%BC%8A%E5%81%9C%E6%88%B0%E5%82%99%E5%BF%98%E9%8C%84%E9%80%B2%E8%A1%8C%E8%AB%87%E5%88%A4",
-    "timestamp": "2026-05-09T22:52:45.130Z",
     "strategy": ".content-card__main"
   }
 ];
