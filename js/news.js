@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-10T20:52:53.787Z
+// Last updated: 2026-05-10T21:26:19.399Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "特朗普稱伊朗回應「完全不可接受」　斥反覆 拖延及戲弄美國",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260417/1121712482855948288734251.jpeg/kCWM-UMmqSRtbY_IRow-Q6PJNEyevqO-n76xd5--sXc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60348506/%E7%89%B9%E6%9C%97%E6%99%AE%E7%A8%B1%E4%BC%8A%E6%9C%97%E5%9B%9E%E6%87%89-%E5%AE%8C%E5%85%A8%E4%B8%8D%E5%8F%AF%E6%8E%A5%E5%8F%97-%E6%96%A5%E5%8F%8D%E8%A6%86-%E6%8B%96%E5%BB%B6%E5%8F%8A%E6%88%B2%E5%BC%84%E7%BE%8E%E5%9C%8B",
+    "timestamp": "2026-05-10T21:26:19.399Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "白宮：特朗普13日晚抵北京　美官員：料與習近平討論伊朗AI等議題",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260510/1130123657520091136630198.jpeg/Ng0_6BBvDbyIEDAJB9_5Fp-g4k7F35NDz7EteM-xLXg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60348382/%E6%B5%B7%E9%97%9C%E8%90%BD%E9%A6%AC%E6%B4%B2%E7%AE%A1%E5%88%B6%E7%AB%99%E6%88%AA46%E6%AD%B2%E6%97%85%E5%AE%A2-%E6%AA%A2%E7%B4%99%E8%A2%8B%E6%8F%AD%E8%B5%B0%E7%A7%817%E9%9A%BB%E5%A4%A9%E7%AB%BA%E9%BC%A0%E5%8F%8A%E8%9C%9C%E8%A2%8B%E9%BC%AF%E7%AD%89",
     "timestamp": "2026-05-10T04:52:12.051Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "大埔2單車相撞　67歲婦昏迷送院",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20230421/726220144434483200659130.jpeg/RH0oAfMNnLF5CwU0Uzbj4_MuvDL7_MYseIf0xHiH9MQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60348363/%E5%A4%A7%E5%9F%942%E5%96%AE%E8%BB%8A%E7%9B%B8%E6%92%9E-67%E6%AD%B2%E5%A9%A6%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2",
-    "timestamp": "2026-05-10T03:24:09.259Z",
     "strategy": ".content-card__main"
   }
 ];
