@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-10T08:53:37.384Z
+// Last updated: 2026-05-10T09:40:50.894Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "關曜儁三年抱三「關三弟」出世　老婆生完叫老公：唔該你紮咗佢",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260510/1130188369255469056215493.png/L189KOic59CZV4HZhXKZmcuSWJOha_mGOHyiszh8orM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60348390/%E9%97%9C%E6%9B%9C%E5%84%81%E4%B8%89%E5%B9%B4%E6%8A%B1%E4%B8%89-%E9%97%9C%E4%B8%89%E5%BC%9F-%E5%87%BA%E4%B8%96-%E8%80%81%E5%A9%86%E7%94%9F%E5%AE%8C%E5%8F%AB%E8%80%81%E5%85%AC-%E5%94%94%E8%A9%B2%E4%BD%A0%E7%B4%AE%E5%92%97%E4%BD%A2",
+    "timestamp": "2026-05-10T09:40:50.894Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "中九龍繞道隧道貨車拖頭狂飆｜運輸署：營辦商即時將個案交警調查",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260510/1129934606846398464920481.png/0LO9NM6V87Rnh0-Fwp-EnDCqnQFAoLgck-jE7pPoxO4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60348322/%E6%9D%8E%E5%AE%B6%E9%BC%8E%E5%90%91%E6%9D%8E%E6%B3%B3%E8%B1%AA%E5%91%BB%E7%AA%AE%E6%86%82200%E8%90%AC%E8%80%81%E6%9C%AC%E4%B8%8D%E4%BF%9D-%E8%A8%AD%E9%9B%99%E7%B0%BD%E6%88%B6%E5%8F%A3%E9%81%AD%E5%A4%A7%E4%BB%94%E5%A4%AB%E5%A9%A6%E6%88%AA%E6%93%8A",
     "timestamp": "2026-05-09T16:53:42.521Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "李家鼎向李泳豪呻窮憂200萬老本不保　設雙簽戶口遭大仔夫婦截擊",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260510/1129934606846398464920481.png/0LO9NM6V87Rnh0-Fwp-EnDCqnQFAoLgck-jE7pPoxO4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60348322/%E6%9D%8E%E5%AE%B6%E9%BC%8E%E5%90%91%E6%9D%8E%E6%B3%B3%E8%B1%AA%E5%91%BB%E7%AA%AE%E6%86%82200%E8%90%AC%E8%80%81%E6%9C%AC%E4%B8%8D%E4%BF%9D-%E8%A8%AD%E9%9B%99%E7%B0%BD%E6%88%B6%E5%8F%A3%E9%81%AD%E5%A4%A7%E4%BB%94%E5%A4%AB%E5%A9%A6%E6%88%AA%E6%93%8A",
-    "timestamp": "2026-05-09T16:28:09.833Z",
     "strategy": ".content-card__main"
   }
 ];
