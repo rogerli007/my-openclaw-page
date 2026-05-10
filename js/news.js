@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-09T23:26:49.641Z
+// Last updated: 2026-05-10T01:05:51.399Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "珍惜生命｜屯門院舍八旬翁自縊　昏迷送院不治",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260422/1123596977607544832176245.jpeg/57cOascsGwo1Hob5d9jJ67PTL0Sq5mn5QVzUV0Fc1Fc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60348346/%E7%8F%8D%E6%83%9C%E7%94%9F%E5%91%BD-%E5%B1%AF%E9%96%80%E9%99%A2%E8%88%8D%E5%85%AB%E6%97%AC%E7%BF%81%E8%87%AA%E7%B8%8A-%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2%E4%B8%8D%E6%B2%BB",
+    "timestamp": "2026-05-10T01:05:51.399Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "港媽當街跪求兒子影片瘋傳！被趕死纏原因心酸　網民激讚：好母親",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260325/1113544700700135424375198.jpeg/0OYgVxi1QwZEuCl5NFFBgxGpqb4G-stJQ6-hqkOvoao?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60348269/%E4%B8%80%E8%89%98%E5%8D%B0%E5%BA%A6%E8%88%B9%E5%9C%A8%E9%9C%8D%E7%88%BE%E6%9C%A8%E8%8C%B2%E6%B5%B7%E5%B3%BD%E9%99%84%E8%BF%91%E8%B5%B7%E7%81%AB-1%E6%AD%BB4%E5%82%B7",
     "timestamp": "2026-05-09T11:38:43.778Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "廿四味演唱會2026香港｜門票優先/公售攻略＋購票連結＋座位表",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260509/1129809042395369472217638.jpeg/j69DPD7mqQkLx2GyjkgRGHreIvRZGC9WLvG-Ty7xvk8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60348217/%E5%BB%BF%E5%9B%9B%E5%91%B3%E6%BC%94%E5%94%B1%E6%9C%832026%E9%A6%99%E6%B8%AF-%E9%96%80%E7%A5%A8%E5%84%AA%E5%85%88-%E5%85%AC%E5%94%AE%E6%94%BB%E7%95%A5-%E8%B3%BC%E7%A5%A8%E9%80%A3%E7%B5%90-%E5%BA%A7%E4%BD%8D%E8%A1%A8",
-    "timestamp": "2026-05-09T10:39:41.411Z",
     "strategy": ".content-card__main"
   }
 ];
