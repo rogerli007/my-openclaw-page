@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-10T12:07:47.014Z
+// Last updated: 2026-05-10T13:16:02.062Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "香港田徑錦標賽｜葉景維175日兩破港績　比賽儲信心擊退自我懷疑",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260510/1130224124262617088963821.jpeg/lfXB7zW71-WQB2ifFnNjYYkNkiTbj885Fqt7NBarezQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60348393/%E9%A6%99%E6%B8%AF%E7%94%B0%E5%BE%91%E9%8C%A6%E6%A8%99%E8%B3%BD-%E8%91%89%E6%99%AF%E7%B6%AD175%E6%97%A5%E5%85%A9%E7%A0%B4%E6%B8%AF%E7%B8%BE-%E6%AF%94%E8%B3%BD%E5%84%B2%E4%BF%A1%E5%BF%83%E6%93%8A%E9%80%80%E8%87%AA%E6%88%91%E6%87%B7%E7%96%91",
+    "timestamp": "2026-05-10T13:16:02.062Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "法國左翼領袖梅朗雄四度出戰總統選舉　政壇老將對華立場清醒",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260510/1129950820259860480528697.jpeg/HAWnVi51mDortCb6DZx9-JmuizPGRLYgZuFsTGbhbEw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60348330/%E6%BC%A2%E5%9D%A6%E7%97%85%E6%AF%92-%E9%83%B5%E8%BC%AA%E9%80%BC%E8%BF%91%E5%8A%A0%E9%82%A3%E5%88%A9%E7%BE%A4%E5%B3%B6%E5%BC%95%E4%B8%8D%E5%AE%89-%E5%B1%85%E6%B0%91%E6%86%82%E5%86%8D%E7%8F%BEcovid-19%E6%8A%97%E8%AD%B0",
     "timestamp": "2026-05-09T18:31:10.379Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "漢坦病毒｜郵輪逼近加那利群島引不安　居民憂再現Covid－19抗議",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260510/1129950820259860480528697.jpeg/HAWnVi51mDortCb6DZx9-JmuizPGRLYgZuFsTGbhbEw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60348330/%E6%BC%A2%E5%9D%A6%E7%97%85%E6%AF%92-%E9%83%B5%E8%BC%AA%E9%80%BC%E8%BF%91%E5%8A%A0%E9%82%A3%E5%88%A9%E7%BE%A4%E5%B3%B6%E5%BC%95%E4%B8%8D%E5%AE%89-%E5%B1%85%E6%B0%91%E6%86%82%E5%86%8D%E7%8F%BEcovid-19%E6%8A%97%E8%AD%B0",
-    "timestamp": "2026-05-09T17:53:20.761Z",
     "strategy": ".content-card__main"
   }
 ];
