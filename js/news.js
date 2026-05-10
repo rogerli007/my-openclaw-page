@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-10T04:52:12.051Z
+// Last updated: 2026-05-10T06:09:17.978Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "彭博：北約國家為特朗普進一步從歐洲撤軍做準備",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260122/1090875815274483712640375.jpeg/XGVsdfI1MaohCT5MkOtd1GBqIxJqYHx_OWtWbjlrVm4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60348391/%E5%BD%AD%E5%8D%9A-%E5%8C%97%E7%B4%84%E5%9C%8B%E5%AE%B6%E7%82%BA%E7%89%B9%E6%9C%97%E6%99%AE%E9%80%B2%E4%B8%80%E6%AD%A5%E5%BE%9E%E6%AD%90%E6%B4%B2%E6%92%A4%E8%BB%8D%E5%81%9A%E6%BA%96%E5%82%99",
+    "timestamp": "2026-05-10T06:09:17.978Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "海關落馬洲管制站截46歲旅客　檢紙袋揭走私7隻天竺鼠及蜜袋鼯等",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260509/1129840084456050688056127.jpeg/dTMdQO8s1WnL7azlSFf1K9AP7InVQuCXfZfxmn2X8Zo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60348260/%E8%83%A1%E6%A5%93%E8%AE%9A%E8%96%9B%E5%AE%B6%E7%87%95%E6%98%AF%E5%81%89%E5%A4%A7%E5%AA%BD%E5%AA%BD-%E9%99%B3%E6%B7%91%E8%8A%AC%E7%88%86%E4%BF%AE%E5%93%A5%E6%BC%94%E5%94%B1%E6%9C%83%E7%A0%B4%E5%A4%A9%E8%8D%92%E6%93%BA10%E5%9C%8D%E9%85%92%E5%B8%AD",
     "timestamp": "2026-05-09T14:57:55.537Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "俄羅斯閱兵未展示坦克等裝備　普京：俄正對抗北約支持的侵略勢力",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260509/1129907464230146048098512.jpeg/cVYfQm5sD1Gv7dMV1MEhfyQFgfDVr4tFIrnmaSK55mk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60348306/%E4%BF%84%E7%BE%85%E6%96%AF%E9%96%B1%E5%85%B5%E6%9C%AA%E5%B1%95%E7%A4%BA%E5%9D%A6%E5%85%8B%E7%AD%89%E8%A3%9D%E5%82%99-%E6%99%AE%E4%BA%AC-%E4%BF%84%E6%AD%A3%E5%B0%8D%E6%8A%97%E5%8C%97%E7%B4%84%E6%94%AF%E6%8C%81%E7%9A%84%E4%BE%B5%E7%95%A5%E5%8B%A2%E5%8A%9B",
-    "timestamp": "2026-05-09T14:33:27.770Z",
     "strategy": ".content-card__main"
   }
 ];
