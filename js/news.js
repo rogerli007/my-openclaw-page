@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-10T20:00:01.562Z
+// Last updated: 2026-05-10T20:52:53.787Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "白宮：特朗普13日晚抵北京　美官員：料與習近平討論伊朗AI等議題",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20251114/1066020653993299968905612.jpeg/qUCXsZXrZSYtI4kHlG0kXqKdCvYl-uv2OTy8fDk8vHw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60348507/%E7%99%BD%E5%AE%AE-%E7%89%B9%E6%9C%97%E6%99%AE13%E6%97%A5%E6%99%9A%E6%8A%B5%E5%8C%97%E4%BA%AC-%E7%BE%8E%E5%AE%98%E5%93%A1-%E6%96%99%E8%88%87%E7%BF%92%E8%BF%91%E5%B9%B3%E8%A8%8E%E8%AB%96%E4%BC%8A%E6%9C%97ai%E7%AD%89%E8%AD%B0%E9%A1%8C",
+    "timestamp": "2026-05-10T20:52:53.787Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "啟德青年運動場23歲男跑步暈倒　昏迷送院搶救",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20230421/726220144434483200659130.jpeg/RH0oAfMNnLF5CwU0Uzbj4_MuvDL7_MYseIf0xHiH9MQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60348363/%E5%A4%A7%E5%9F%942%E5%96%AE%E8%BB%8A%E7%9B%B8%E6%92%9E-67%E6%AD%B2%E5%A9%A6%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2",
     "timestamp": "2026-05-10T03:24:09.259Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "普京：中俄協作是全球穩定最重要因素",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260204/1095782834452303872062158.jpeg/-MGNvdZqRX1s8VkkJ6lA5Pk2oztt4RCuGrxb-xq8W_s?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60348350/%E6%99%AE%E4%BA%AC-%E4%B8%AD%E4%BF%84%E5%8D%94%E4%BD%9C%E6%98%AF%E5%85%A8%E7%90%83%E7%A9%A9%E5%AE%9A%E6%9C%80%E9%87%8D%E8%A6%81%E5%9B%A0%E7%B4%A0",
-    "timestamp": "2026-05-10T02:02:30.665Z",
     "strategy": ".content-card__main"
   }
 ];
