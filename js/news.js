@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-10T07:20:29.222Z
+// Last updated: 2026-05-10T08:03:29.823Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "湖南煙花廠37死　黑火藥反覆引燃　倖存員工：見冒煙剛跑兩秒就炸",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260510/1130160323307769856941653.png/gUZOl7dwceJuZr_3_ieZED328ddAfoAZ7jEFCO4xBQg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60348403/%E6%B9%96%E5%8D%97%E7%85%99%E8%8A%B1%E5%BB%A037%E6%AD%BB-%E9%BB%91%E7%81%AB%E8%97%A5%E5%8F%8D%E8%A6%86%E5%BC%95%E7%87%83-%E5%80%96%E5%AD%98%E5%93%A1%E5%B7%A5-%E8%A6%8B%E5%86%92%E7%85%99%E5%89%9B%E8%B7%91%E5%85%A9%E7%A7%92%E5%B0%B1%E7%82%B8",
+    "timestamp": "2026-05-10T08:03:29.823Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "大阪美食｜心齋橋、梅田6大必吃推薦　百年歷史鰻魚店　附地址",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260509/1129918515965333504748236.jpeg/IB-1HzdGOwbsPvOs1U6vsNO4i2fXLB0OjuYyWo7mMlo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60348318/%E4%B8%AD%E5%B9%B4%E5%A5%BD%E8%81%B2%E9%9F%B34-%E6%B5%B7%E5%85%92%E8%80%81%E5%B8%AB%E8%A2%AB%E6%8F%AD%E5%90%8D%E8%8A%B1%E6%9C%89%E4%B8%BB-%E8%82%A5%E5%AA%BD%E6%B4%A9%E5%AF%86-%E4%BA%BA%E5%93%8B%E6%9C%89%E7%94%B7%E6%9C%8B%E5%8F%8B",
     "timestamp": "2026-05-09T15:54:25.815Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "白安《路邊野餐》巡演宣布加碼　邀歌迷相聚現場用音樂「野餐」",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260509/1129816675726659584968045.jpeg/JrjuT0EP_EiCfFQCfXKcY05cPZdyNJ7zjJYRgIyWEYA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60348228/%E7%99%BD%E5%AE%89-%E8%B7%AF%E9%82%8A%E9%87%8E%E9%A4%90-%E5%B7%A1%E6%BC%94%E5%AE%A3%E5%B8%83%E5%8A%A0%E7%A2%BC-%E9%82%80%E6%AD%8C%E8%BF%B7%E7%9B%B8%E8%81%9A%E7%8F%BE%E5%A0%B4%E7%94%A8%E9%9F%B3%E6%A8%82-%E9%87%8E%E9%A4%90",
-    "timestamp": "2026-05-09T15:29:24.979Z",
     "strategy": ".content-card__main"
   }
 ];
