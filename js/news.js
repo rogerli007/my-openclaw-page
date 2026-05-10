@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-10T06:09:17.978Z
+// Last updated: 2026-05-10T07:20:29.222Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "大阪美食｜心齋橋、梅田6大必吃推薦　百年歷史鰻魚店　附地址",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260508/1129506063310131200480513.jpeg/hY5quGXcxmCQmE7gSMtwkKsog1RpgFpt4gl7TuIJe04?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%97%85%E9%81%8A/60336088/%E5%A4%A7%E9%98%AA%E7%BE%8E%E9%A3%9F-%E5%BF%83%E9%BD%8B%E6%A9%8B-%E6%A2%85%E7%94%B06%E5%A4%A7%E5%BF%85%E5%90%83%E6%8E%A8%E8%96%A6-%E7%99%BE%E5%B9%B4%E6%AD%B7%E5%8F%B2%E9%B0%BB%E9%AD%9A%E5%BA%97-%E9%99%84%E5%9C%B0%E5%9D%80",
+    "timestamp": "2026-05-10T07:20:29.222Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "彭博：北約國家為特朗普進一步從歐洲撤軍做準備",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260509/1129816675726659584968045.jpeg/JrjuT0EP_EiCfFQCfXKcY05cPZdyNJ7zjJYRgIyWEYA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60348228/%E7%99%BD%E5%AE%89-%E8%B7%AF%E9%82%8A%E9%87%8E%E9%A4%90-%E5%B7%A1%E6%BC%94%E5%AE%A3%E5%B8%83%E5%8A%A0%E7%A2%BC-%E9%82%80%E6%AD%8C%E8%BF%B7%E7%9B%B8%E8%81%9A%E7%8F%BE%E5%A0%B4%E7%94%A8%E9%9F%B3%E6%A8%82-%E9%87%8E%E9%A4%90",
     "timestamp": "2026-05-09T15:29:24.979Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "胡楓讚薛家燕是偉大媽媽　陳淑芬爆修哥演唱會破天荒擺10圍酒席",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260509/1129840084456050688056127.jpeg/dTMdQO8s1WnL7azlSFf1K9AP7InVQuCXfZfxmn2X8Zo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60348260/%E8%83%A1%E6%A5%93%E8%AE%9A%E8%96%9B%E5%AE%B6%E7%87%95%E6%98%AF%E5%81%89%E5%A4%A7%E5%AA%BD%E5%AA%BD-%E9%99%B3%E6%B7%91%E8%8A%AC%E7%88%86%E4%BF%AE%E5%93%A5%E6%BC%94%E5%94%B1%E6%9C%83%E7%A0%B4%E5%A4%A9%E8%8D%92%E6%93%BA10%E5%9C%8D%E9%85%92%E5%B8%AD",
-    "timestamp": "2026-05-09T14:57:55.537Z",
     "strategy": ".content-card__main"
   }
 ];
