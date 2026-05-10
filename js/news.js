@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-10T19:33:52.250Z
+// Last updated: 2026-05-10T20:00:01.562Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "啟德青年運動場23歲男跑步暈倒　昏迷送院搶救",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260511/1130354009421385728340721.jpeg/3dkXXZeM9Zzxt1ZMz1lv_TwmYvvsAYU8KrxNNxC8TTc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60348509/%E5%95%9F%E5%BE%B7%E9%9D%92%E5%B9%B4%E9%81%8B%E5%8B%95%E5%A0%B423%E6%AD%B2%E7%94%B7%E8%B7%91%E6%AD%A5%E6%9A%88%E5%80%92-%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2%E6%90%B6%E6%95%91",
+    "timestamp": "2026-05-10T20:00:01.562Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "俄烏互相指控違反停火協議　 澤連斯基：已向俄提交換俘千人名單",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260204/1095782834452303872062158.jpeg/-MGNvdZqRX1s8VkkJ6lA5Pk2oztt4RCuGrxb-xq8W_s?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60348350/%E6%99%AE%E4%BA%AC-%E4%B8%AD%E4%BF%84%E5%8D%94%E4%BD%9C%E6%98%AF%E5%85%A8%E7%90%83%E7%A9%A9%E5%AE%9A%E6%9C%80%E9%87%8D%E8%A6%81%E5%9B%A0%E7%B4%A0",
     "timestamp": "2026-05-10T02:02:30.665Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "珍惜生命｜屯門院舍八旬翁自縊　昏迷送院不治",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260422/1123596977607544832176245.jpeg/57cOascsGwo1Hob5d9jJ67PTL0Sq5mn5QVzUV0Fc1Fc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60348346/%E7%8F%8D%E6%83%9C%E7%94%9F%E5%91%BD-%E5%B1%AF%E9%96%80%E9%99%A2%E8%88%8D%E5%85%AB%E6%97%AC%E7%BF%81%E8%87%AA%E7%B8%8A-%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2%E4%B8%8D%E6%B2%BB",
-    "timestamp": "2026-05-10T01:05:51.399Z",
     "strategy": ".content-card__main"
   }
 ];
