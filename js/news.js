@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-10T01:05:51.399Z
+// Last updated: 2026-05-10T02:02:30.665Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "普京：中俄協作是全球穩定最重要因素",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260204/1095782834452303872062158.jpeg/-MGNvdZqRX1s8VkkJ6lA5Pk2oztt4RCuGrxb-xq8W_s?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60348350/%E6%99%AE%E4%BA%AC-%E4%B8%AD%E4%BF%84%E5%8D%94%E4%BD%9C%E6%98%AF%E5%85%A8%E7%90%83%E7%A9%A9%E5%AE%9A%E6%9C%80%E9%87%8D%E8%A6%81%E5%9B%A0%E7%B4%A0",
+    "timestamp": "2026-05-10T02:02:30.665Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "珍惜生命｜屯門院舍八旬翁自縊　昏迷送院不治",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260509/1129881214115647488459086.png/RX7LwN8cHo3oNeQ_y2C_aLxwb7MjpGmwz2Fzgs9hc4I?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B7%91%E6%AD%A5/60348301/%E8%B7%91%E9%9E%8B%E6%8E%A8%E8%96%A62026-new-balance-grey-days-1080-rebel%E5%90%91%E5%85%83%E7%A5%96%E7%81%B0%E8%87%B4%E6%95%AC",
     "timestamp": "2026-05-09T12:41:55.542Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "一艘印度船在霍爾木茲海峽附近起火　1死4傷",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260325/1113544700700135424375198.jpeg/0OYgVxi1QwZEuCl5NFFBgxGpqb4G-stJQ6-hqkOvoao?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60348269/%E4%B8%80%E8%89%98%E5%8D%B0%E5%BA%A6%E8%88%B9%E5%9C%A8%E9%9C%8D%E7%88%BE%E6%9C%A8%E8%8C%B2%E6%B5%B7%E5%B3%BD%E9%99%84%E8%BF%91%E8%B5%B7%E7%81%AB-1%E6%AD%BB4%E5%82%B7",
-    "timestamp": "2026-05-09T11:38:43.778Z",
     "strategy": ".content-card__main"
   }
 ];
