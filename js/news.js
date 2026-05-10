@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-10T18:56:45.058Z
+// Last updated: 2026-05-10T19:33:52.250Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "俄烏互相指控違反停火協議　 澤連斯基：已向俄提交換俘千人名單",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260403/1116797217949093888082514.jpeg/P82lzApDFeQctg-THWfjaNbZYQySpyDV9w4gs_cOILM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60348505/%E4%BF%84%E7%83%8F%E4%BA%92%E7%9B%B8%E6%8C%87%E6%8E%A7%E9%81%95%E5%8F%8D%E5%81%9C%E7%81%AB%E5%8D%94%E8%AD%B0-%E6%BE%A4%E9%80%A3%E6%96%AF%E5%9F%BA-%E5%B7%B2%E5%90%91%E4%BF%84%E6%8F%90%E4%BA%A4%E6%8F%9B%E4%BF%98%E5%8D%83%E4%BA%BA%E5%90%8D%E5%96%AE",
+    "timestamp": "2026-05-10T19:33:52.250Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "英超｜阿仙奴作客1：0險勝韋斯咸　杜沙特奠勝",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260422/1123596977607544832176245.jpeg/57cOascsGwo1Hob5d9jJ67PTL0Sq5mn5QVzUV0Fc1Fc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60348346/%E7%8F%8D%E6%83%9C%E7%94%9F%E5%91%BD-%E5%B1%AF%E9%96%80%E9%99%A2%E8%88%8D%E5%85%AB%E6%97%AC%E7%BF%81%E8%87%AA%E7%B8%8A-%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2%E4%B8%8D%E6%B2%BB",
     "timestamp": "2026-05-10T01:05:51.399Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "港媽當街跪求兒子影片瘋傳！被趕死纏原因心酸　網民激讚：好母親",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250820/1034894122281865216760921.jpeg/IS8rUemMj35Lw-D_aGb5PY6vSRu-jJlUyQSyPMkEsjw",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60347661/%E6%B8%AF%E5%AA%BD%E7%95%B6%E8%A1%97%E8%B7%AA%E6%B1%82%E5%85%92%E5%AD%90%E5%BD%B1%E7%89%87%E7%98%8B%E5%82%B3-%E8%A2%AB%E8%B6%95%E6%AD%BB%E7%BA%8F%E5%8E%9F%E5%9B%A0%E5%BF%83%E9%85%B8-%E7%B6%B2%E6%B0%91%E6%BF%80%E8%AE%9A-%E5%A5%BD%E6%AF%8D%E8%A6%AA",
-    "timestamp": "2026-05-09T23:26:49.641Z",
     "strategy": ".content-card__main"
   }
 ];
