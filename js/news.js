@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-10T11:20:50.427Z
+// Last updated: 2026-05-10T12:07:47.014Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "法國左翼領袖梅朗雄四度出戰總統選舉　政壇老將對華立場清醒",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260510/1130166810314805248529678.jpeg/hL_D41ECqZUL2NpilT2LFlIxvTO90Aj3NDoStzQ6Erc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%9C%8B%E9%9A%9B%E5%88%86%E6%9E%90/60348411/%E6%B3%95%E5%9C%8B%E5%B7%A6%E7%BF%BC%E9%A0%98%E8%A2%96%E6%A2%85%E6%9C%97%E9%9B%84%E5%9B%9B%E5%BA%A6%E5%87%BA%E6%88%B0%E7%B8%BD%E7%B5%B1%E9%81%B8%E8%88%89-%E6%94%BF%E5%A3%87%E8%80%81%E5%B0%87%E5%B0%8D%E8%8F%AF%E7%AB%8B%E5%A0%B4%E6%B8%85%E9%86%92",
+    "timestamp": "2026-05-10T12:07:47.014Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "有片！外傭屯市外粗暴對待輪椅婆婆　狂拍打致喊叫不斷惹網民氣憤",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260510/1129950820259860480528697.jpeg/HAWnVi51mDortCb6DZx9-JmuizPGRLYgZuFsTGbhbEw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60348330/%E6%BC%A2%E5%9D%A6%E7%97%85%E6%AF%92-%E9%83%B5%E8%BC%AA%E9%80%BC%E8%BF%91%E5%8A%A0%E9%82%A3%E5%88%A9%E7%BE%A4%E5%B3%B6%E5%BC%95%E4%B8%8D%E5%AE%89-%E5%B1%85%E6%B0%91%E6%86%82%E5%86%8D%E7%8F%BEcovid-19%E6%8A%97%E8%AD%B0",
     "timestamp": "2026-05-09T17:53:20.761Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "大角咀私樓單位淪販毒中心　警反黑組檢$2800萬毒品　23歲男被捕",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260510/1129950315806724096687209.jpeg/XQYxGiu5NOsCEDwVRwou8LlXkOGkJjf4MmY_ujJmP7o?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60348331/%E5%A4%A7%E8%A7%92%E5%92%80%E7%A7%81%E6%A8%93%E5%96%AE%E4%BD%8D%E6%B7%AA%E8%B2%A9%E6%AF%92%E4%B8%AD%E5%BF%83-%E8%AD%A6%E5%8F%8D%E9%BB%91%E7%B5%84%E6%AA%A2-2800%E8%90%AC%E6%AF%92%E5%93%81-23%E6%AD%B2%E7%94%B7%E8%A2%AB%E6%8D%95",
-    "timestamp": "2026-05-09T17:28:21.939Z",
     "strategy": ".content-card__main"
   }
 ];
