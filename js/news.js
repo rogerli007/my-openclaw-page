@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-10T08:03:29.823Z
+// Last updated: 2026-05-10T08:53:37.384Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "中九龍繞道隧道貨車拖頭狂飆｜運輸署：營辦商即時將個案交警調查",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260510/1130006981214474240104839.jpeg/zcHS7r1fSTk4G3f3i8GUVcizvAj5Uhh48Tf0qPE39Kg",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60348417/%E4%B8%AD%E4%B9%9D%E9%BE%8D%E7%B9%9E%E9%81%93%E9%9A%A7%E9%81%93%E8%B2%A8%E8%BB%8A%E6%8B%96%E9%A0%AD%E7%8B%82%E9%A3%86-%E9%81%8B%E8%BC%B8%E7%BD%B2-%E7%87%9F%E8%BE%A6%E5%95%86%E5%8D%B3%E6%99%82%E5%B0%87%E5%80%8B%E6%A1%88%E4%BA%A4%E8%AD%A6%E8%AA%BF%E6%9F%A5",
+    "timestamp": "2026-05-10T08:53:37.384Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "湖南煙花廠37死　黑火藥反覆引燃　倖存員工：見冒煙剛跑兩秒就炸",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260510/1129934606846398464920481.png/0LO9NM6V87Rnh0-Fwp-EnDCqnQFAoLgck-jE7pPoxO4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60348322/%E6%9D%8E%E5%AE%B6%E9%BC%8E%E5%90%91%E6%9D%8E%E6%B3%B3%E8%B1%AA%E5%91%BB%E7%AA%AE%E6%86%82200%E8%90%AC%E8%80%81%E6%9C%AC%E4%B8%8D%E4%BF%9D-%E8%A8%AD%E9%9B%99%E7%B0%BD%E6%88%B6%E5%8F%A3%E9%81%AD%E5%A4%A7%E4%BB%94%E5%A4%AB%E5%A9%A6%E6%88%AA%E6%93%8A",
     "timestamp": "2026-05-09T16:28:09.833Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "中年好聲音4｜海兒老師被揭名花有主　肥媽洩密：人哋有男朋友！",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260509/1129918515965333504748236.jpeg/IB-1HzdGOwbsPvOs1U6vsNO4i2fXLB0OjuYyWo7mMlo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60348318/%E4%B8%AD%E5%B9%B4%E5%A5%BD%E8%81%B2%E9%9F%B34-%E6%B5%B7%E5%85%92%E8%80%81%E5%B8%AB%E8%A2%AB%E6%8F%AD%E5%90%8D%E8%8A%B1%E6%9C%89%E4%B8%BB-%E8%82%A5%E5%AA%BD%E6%B4%A9%E5%AF%86-%E4%BA%BA%E5%93%8B%E6%9C%89%E7%94%B7%E6%9C%8B%E5%8F%8B",
-    "timestamp": "2026-05-09T15:54:25.815Z",
     "strategy": ".content-card__main"
   }
 ];
