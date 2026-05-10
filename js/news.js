@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-10T15:32:52.330Z
+// Last updated: 2026-05-10T15:54:40.200Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "何立峰12至13日率團赴韓　與美方舉行經貿磋商",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260121/1090457722786156544169805.jpeg/msKEH0ocAfw2gVIjq9xbYqbLgzJwAW8pQz_AY0M_wGM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60348494/%E4%BD%95%E7%AB%8B%E5%B3%B012%E8%87%B313%E6%97%A5%E7%8E%87%E5%9C%98%E8%B5%B4%E9%9F%93-%E8%88%87%E7%BE%8E%E6%96%B9%E8%88%89%E8%A1%8C%E7%B6%93%E8%B2%BF%E7%A3%8B%E5%95%86",
+    "timestamp": "2026-05-10T15:54:40.200Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "網約車｜智慧交通聯盟倡發20500個牌照　才可免規管後無車可搭",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260510/1130007999276912640254376.png/chsOlJiSP5Fhk_vX-58VDEAfADmRvyDQB4P-ZgeD_mY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60348338/%E4%B8%AD%E5%9C%8B%E5%B7%B4%E8%A5%BF%E6%AD%90%E7%9B%9F%E7%B5%84%E5%BB%BA%E5%85%A8%E7%90%83%E7%A2%B3%E5%AE%9A%E5%83%B9%E8%81%AF%E7%9B%9F-%E6%8E%A8%E5%8B%95%E7%A2%B3%E5%AE%9A%E5%83%B9%E6%94%BF%E7%AD%96%E4%BF%83%E9%80%B2%E7%92%B0%E5%A2%83%E4%BF%9D%E8%AD%B7",
     "timestamp": "2026-05-09T21:25:02.035Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "西環2城巴駛近行人路避工程　車窗掃樹椏碎片四散　1男乘客受傷",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260510/1130001131594846208025348.jpeg/krowoI9LEqwtRt1HPzIokxgu4IIMsRbVMuBnzgjgZ84?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60348337/%E8%A5%BF%E7%92%B02%E5%9F%8E%E5%B7%B4%E9%A7%9B%E8%BF%91%E8%A1%8C%E4%BA%BA%E8%B7%AF%E9%81%BF%E5%B7%A5%E7%A8%8B-%E8%BB%8A%E7%AA%97%E6%8E%83%E6%A8%B9%E6%A4%8F%E7%A2%8E%E7%89%87%E5%9B%9B%E6%95%A3-1%E7%94%B7%E4%B9%98%E5%AE%A2%E5%8F%97%E5%82%B7",
-    "timestamp": "2026-05-09T20:52:23.071Z",
     "strategy": ".content-card__main"
   }
 ];
