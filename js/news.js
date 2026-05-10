@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-10T15:54:40.200Z
+// Last updated: 2026-05-10T16:29:10.702Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "農夫演唱會｜古天樂投資做老闆上公司傾足兩粒鐘　原來張繼聰牽線",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260511/1130299523130724352540729.jpeg/s3YdyE-udiUawRamWccCJLq_dsZzXT15TX20ZU19tGU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60348498/%E8%BE%B2%E5%A4%AB%E6%BC%94%E5%94%B1%E6%9C%83-%E5%8F%A4%E5%A4%A9%E6%A8%82%E6%8A%95%E8%B3%87%E5%81%9A%E8%80%81%E9%97%86%E4%B8%8A%E5%85%AC%E5%8F%B8%E5%82%BE%E8%B6%B3%E5%85%A9%E7%B2%92%E9%90%98-%E5%8E%9F%E4%BE%86%E5%BC%B5%E7%B9%BC%E8%81%B0%E7%89%BD%E7%B7%9A",
+    "timestamp": "2026-05-10T16:29:10.702Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "何立峰12至13日率團赴韓　與美方舉行經貿磋商",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260509/1129803668103630848280735.png/ejE5Yh4Y8nfgBZMP3xLuAYYOQjte0au_s8oWSbPKFkk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60347770/%E5%B0%8F%E7%B4%85%E6%9B%B8%E5%A5%B3%E6%BE%B3%E6%B4%B2%E9%81%87-%E6%A8%B9%E4%B8%8A%E6%8E%9B%E9%9E%8B-%E8%A6%BA%E4%B8%8D%E5%B0%8B%E5%B8%B8%E9%A7%95%E8%BB%8A%E8%B5%B0-%E9%81%AD%E6%A7%8D%E6%93%8A%E5%9B%A0%E8%BA%BA%E5%B9%B3%E4%BF%9D%E5%91%BD",
     "timestamp": "2026-05-09T22:24:31.077Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "中國巴西歐盟組建全球碳定價聯盟　推動碳定價政策促進環境保護",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260510/1130007999276912640254376.png/chsOlJiSP5Fhk_vX-58VDEAfADmRvyDQB4P-ZgeD_mY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60348338/%E4%B8%AD%E5%9C%8B%E5%B7%B4%E8%A5%BF%E6%AD%90%E7%9B%9F%E7%B5%84%E5%BB%BA%E5%85%A8%E7%90%83%E7%A2%B3%E5%AE%9A%E5%83%B9%E8%81%AF%E7%9B%9F-%E6%8E%A8%E5%8B%95%E7%A2%B3%E5%AE%9A%E5%83%B9%E6%94%BF%E7%AD%96%E4%BF%83%E9%80%B2%E7%92%B0%E5%A2%83%E4%BF%9D%E8%AD%B7",
-    "timestamp": "2026-05-09T21:25:02.035Z",
     "strategy": ".content-card__main"
   }
 ];
