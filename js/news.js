@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-10T16:29:10.702Z
+// Last updated: 2026-05-10T17:53:53.226Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "英超｜阿仙奴作客1：0險勝韋斯咸　杜沙特奠勝",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260511/1130318117625401344854713.jpeg/wAdxIPpujPoZOJsZ2XkJg-G5MEwqae1cAfuXqQH7l6k?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60348503/%E8%8B%B1%E8%B6%85-%E9%98%BF%E4%BB%99%E5%A5%B4%E4%BD%9C%E5%AE%A21-0%E9%9A%AA%E5%8B%9D%E9%9F%8B%E6%96%AF%E5%92%B8-%E6%9D%9C%E6%B2%99%E7%89%B9%E5%A5%A0%E5%8B%9D",
+    "timestamp": "2026-05-10T17:53:53.226Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "農夫演唱會｜古天樂投資做老闆上公司傾足兩粒鐘　原來張繼聰牽線",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20251224/1080343517907128320905712.jpeg/eXuTn8cl0OWK37X7D_qfxOAuLmeNaPBeFkGoyhZBqMo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60348340/%E9%AD%AF%E6%AF%94%E5%A5%A7%E8%88%87%E5%A8%81%E7%89%B9%E7%A7%91%E5%A4%AB%E6%9C%83%E6%99%A4%E5%8D%A1%E5%A1%94%E7%88%BE%E9%A6%96%E7%9B%B8-%E6%93%9A%E5%A0%B1%E5%B0%B1%E7%BE%8E%E4%BC%8A%E5%81%9C%E6%88%B0%E5%82%99%E5%BF%98%E9%8C%84%E9%80%B2%E8%A1%8C%E8%AB%87%E5%88%A4",
     "timestamp": "2026-05-09T22:52:45.130Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "小紅書女澳洲遇「樹上掛鞋」　覺不尋常駕車走　遭轟3槍奇蹟無恙",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260509/1129803668103630848280735.png/ejE5Yh4Y8nfgBZMP3xLuAYYOQjte0au_s8oWSbPKFkk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60347770/%E5%B0%8F%E7%B4%85%E6%9B%B8%E5%A5%B3%E6%BE%B3%E6%B4%B2%E9%81%87-%E6%A8%B9%E4%B8%8A%E6%8E%9B%E9%9E%8B-%E8%A6%BA%E4%B8%8D%E5%B0%8B%E5%B8%B8%E9%A7%95%E8%BB%8A%E8%B5%B0-%E9%81%AD%E6%A7%8D%E6%93%8A%E5%9B%A0%E8%BA%BA%E5%B9%B3%E4%BF%9D%E5%91%BD",
-    "timestamp": "2026-05-09T22:24:31.077Z",
     "strategy": ".content-card__main"
   }
 ];
