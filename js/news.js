@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-10T14:59:35.367Z
+// Last updated: 2026-05-10T15:32:52.330Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "網約車｜智慧交通聯盟倡發20500個牌照　才可免規管後無車可搭",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250220/969064057699045376137902.jpeg/2MG6piRCNHM9UOUKE-_cyiN2n1xiAP3h-AXmuPgF5rg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60348492/%E7%B6%B2%E7%B4%84%E8%BB%8A-%E6%99%BA%E6%85%A7%E4%BA%A4%E9%80%9A%E8%81%AF%E7%9B%9F%E5%80%A1%E7%99%BC20500%E5%80%8B%E7%89%8C%E7%85%A7-%E6%89%8D%E5%8F%AF%E5%85%8D%E8%A6%8F%E7%AE%A1%E5%BE%8C%E7%84%A1%E8%BB%8A%E5%8F%AF%E6%90%AD",
+    "timestamp": "2026-05-10T15:32:52.330Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "油塘肉檔「貓店長」疑被兩男女用紙箱偷走　東主籲歸還：好掛住佢",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260510/1130001131594846208025348.jpeg/krowoI9LEqwtRt1HPzIokxgu4IIMsRbVMuBnzgjgZ84?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60348337/%E8%A5%BF%E7%92%B02%E5%9F%8E%E5%B7%B4%E9%A7%9B%E8%BF%91%E8%A1%8C%E4%BA%BA%E8%B7%AF%E9%81%BF%E5%B7%A5%E7%A8%8B-%E8%BB%8A%E7%AA%97%E6%8E%83%E6%A8%B9%E6%A4%8F%E7%A2%8E%E7%89%87%E5%9B%9B%E6%95%A3-1%E7%94%B7%E4%B9%98%E5%AE%A2%E5%8F%97%E5%82%B7",
     "timestamp": "2026-05-09T20:52:23.071Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "英國派軍艦前往中東　準備參與霍爾木茲海峽護航行動",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260310/1107994258607968256820361.jpeg/q77iaLjwT0cKgurvaj0_d87v1e_8wUwKifb-eon2_no?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60348333/%E8%8B%B1%E5%9C%8B%E6%B4%BE%E8%BB%8D%E8%89%A6%E5%89%8D%E5%BE%80%E4%B8%AD%E6%9D%B1-%E6%BA%96%E5%82%99%E5%8F%83%E8%88%87%E9%9C%8D%E7%88%BE%E6%9C%A8%E8%8C%B2%E6%B5%B7%E5%B3%BD%E8%AD%B7%E8%88%AA%E8%A1%8C%E5%8B%95",
-    "timestamp": "2026-05-09T20:24:36.127Z",
     "strategy": ".content-card__main"
   }
 ];
