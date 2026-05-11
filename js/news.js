@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-11T18:13:17.363Z
+// Last updated: 2026-05-11T19:01:42.324Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "特朗普：伊朗回應愚蠢及垃圾　停火協議命懸一線",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260512/1130678237123317760516873.jpeg/egTynPhSvrdFLWD72FvXi4apM50-R9WE3HUYndx1GJ0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60348847/%E7%89%B9%E6%9C%97%E6%99%AE-%E4%BC%8A%E6%9C%97%E5%9B%9E%E6%87%89%E6%84%9A%E8%A0%A2%E5%8F%8A%E5%9E%83%E5%9C%BE-%E5%81%9C%E7%81%AB%E5%8D%94%E8%AD%B0%E5%91%BD%E6%87%B8%E4%B8%80%E7%B7%9A",
+    "timestamp": "2026-05-11T19:01:42.324Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "特朗普：伊朗回應愚蠢及垃圾　停火協議命懸一線",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260511/1130318117625401344854713.jpeg/wAdxIPpujPoZOJsZ2XkJg-G5MEwqae1cAfuXqQH7l6k?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60348503/%E8%8B%B1%E8%B6%85-%E9%98%BF%E4%BB%99%E5%A5%B4%E4%BD%9C%E5%AE%A21-0%E9%9A%AA%E5%8B%9D%E9%9F%8B%E6%96%AF%E5%92%B8-%E6%9D%9C%E6%B2%99%E7%89%B9%E5%A5%A0%E5%8B%9D",
     "timestamp": "2026-05-10T17:53:53.226Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "農夫演唱會｜古天樂投資做老闆上公司傾足兩粒鐘　原來張繼聰牽線",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260511/1130299523130724352540729.jpeg/s3YdyE-udiUawRamWccCJLq_dsZzXT15TX20ZU19tGU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60348498/%E8%BE%B2%E5%A4%AB%E6%BC%94%E5%94%B1%E6%9C%83-%E5%8F%A4%E5%A4%A9%E6%A8%82%E6%8A%95%E8%B3%87%E5%81%9A%E8%80%81%E9%97%86%E4%B8%8A%E5%85%AC%E5%8F%B8%E5%82%BE%E8%B6%B3%E5%85%A9%E7%B2%92%E9%90%98-%E5%8E%9F%E4%BE%86%E5%BC%B5%E7%B9%BC%E8%81%B0%E7%89%BD%E7%B7%9A",
-    "timestamp": "2026-05-10T16:29:10.702Z",
     "strategy": ".content-card__main"
   }
 ];
