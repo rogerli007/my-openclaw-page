@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-11T21:07:30.948Z
+// Last updated: 2026-05-11T21:50:56.329Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "英超｜熱刺遭列斯聯逼和1：1　領先降班區2分",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260512/1130730738983899136948165.jpeg/GGzTi0GIEktKVuN8zUssTZz3gJ4KfLjeh4NrkoeDa5I?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60348857/%E8%8B%B1%E8%B6%85-%E7%86%B1%E5%88%BA%E9%81%AD%E5%88%97%E6%96%AF%E8%81%AF%E9%80%BC%E5%92%8C1-1-%E9%A0%98%E5%85%88%E9%99%8D%E7%8F%AD%E5%8D%802%E5%88%86",
+    "timestamp": "2026-05-11T21:50:56.329Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "青山公路Audi電動車剷安全島　車頭懸空卡路牌鐵柱　司機受輕傷",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260511/1130354009421385728340721.jpeg/3dkXXZeM9Zzxt1ZMz1lv_TwmYvvsAYU8KrxNNxC8TTc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60348509/%E5%95%9F%E5%BE%B7%E9%9D%92%E5%B9%B4%E9%81%8B%E5%8B%95%E5%A0%B423%E6%AD%B2%E7%94%B7%E8%B7%91%E6%AD%A5%E6%9A%88%E5%80%92-%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2%E6%90%B6%E6%95%91",
     "timestamp": "2026-05-10T20:00:01.562Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "俄烏互相指控違反停火協議　 澤連斯基：已向俄提交換俘千人名單",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260403/1116797217949093888082514.jpeg/P82lzApDFeQctg-THWfjaNbZYQySpyDV9w4gs_cOILM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60348505/%E4%BF%84%E7%83%8F%E4%BA%92%E7%9B%B8%E6%8C%87%E6%8E%A7%E9%81%95%E5%8F%8D%E5%81%9C%E7%81%AB%E5%8D%94%E8%AD%B0-%E6%BE%A4%E9%80%A3%E6%96%AF%E5%9F%BA-%E5%B7%B2%E5%90%91%E4%BF%84%E6%8F%90%E4%BA%A4%E6%8F%9B%E4%BF%98%E5%8D%83%E4%BA%BA%E5%90%8D%E5%96%AE",
-    "timestamp": "2026-05-10T19:33:52.250Z",
     "strategy": ".content-card__main"
   }
 ];
