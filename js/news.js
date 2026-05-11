@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-11T01:05:07.872Z
+// Last updated: 2026-05-11T06:25:44.559Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "特朗普：倘法院關稅裁决加入「免退款」條文　政府可節省1萬億元",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250420/990512638528065536420157.jpeg/yHzSfNyCbhDSlRcpDc1T4sEaeDa_nKvfQudxikLncYo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60348650/%E7%89%B9%E6%9C%97%E6%99%AE-%E5%80%98%E6%B3%95%E9%99%A2%E9%97%9C%E7%A8%85%E8%A3%81%E5%86%B3%E5%8A%A0%E5%85%A5-%E5%85%8D%E9%80%80%E6%AC%BE-%E6%A2%9D%E6%96%87-%E6%94%BF%E5%BA%9C%E5%8F%AF%E7%AF%80%E7%9C%811%E8%90%AC%E5%84%84%E5%85%83",
+    "timestamp": "2026-05-11T06:25:44.559Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "泰星Mild叔仔Hiso Psi哭訴被阿哥性侵12年　反被斥破壞家族名聲",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260510/1130217651428134912318965.png/EsL1tDki0AIf55zy4cFPIZ0TYCcyiNeSzcBwC83AcAs",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60348394/%E6%9C%89%E7%89%87-%E5%A4%96%E5%82%AD%E5%B1%AF%E5%B8%82%E5%A4%96%E7%B2%97%E6%9A%B4%E5%B0%8D%E5%BE%85%E8%BC%AA%E6%A4%85%E5%A9%86%E5%A9%86-%E7%8B%82%E6%8B%8D%E6%89%93%E8%87%B4%E5%96%8A%E5%8F%AB%E4%B8%8D%E6%96%B7%E6%83%B9%E7%B6%B2%E6%B0%91%E6%B0%A3%E6%86%A4",
     "timestamp": "2026-05-10T11:20:50.427Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "關曜儁三年抱三「關三弟」出世　老婆生完叫老公：唔該你紮咗佢",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260510/1130188369255469056215493.png/L189KOic59CZV4HZhXKZmcuSWJOha_mGOHyiszh8orM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60348390/%E9%97%9C%E6%9B%9C%E5%84%81%E4%B8%89%E5%B9%B4%E6%8A%B1%E4%B8%89-%E9%97%9C%E4%B8%89%E5%BC%9F-%E5%87%BA%E4%B8%96-%E8%80%81%E5%A9%86%E7%94%9F%E5%AE%8C%E5%8F%AB%E8%80%81%E5%85%AC-%E5%94%94%E8%A9%B2%E4%BD%A0%E7%B4%AE%E5%92%97%E4%BD%A2",
-    "timestamp": "2026-05-10T09:40:50.894Z",
     "strategy": ".content-card__main"
   }
 ];
