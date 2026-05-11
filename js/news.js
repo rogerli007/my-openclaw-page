@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-11T23:29:05.384Z
+// Last updated: 2026-05-11T23:54:23.829Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "烏克蘭反腐部門搗破洗錢集團　澤連斯基辦公室前主任葉爾馬克涉案",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20240311/843855001670389760013586.jpeg/HXXXOKGCExNngxxn7cR76aRiGZGdDYgFsmlTd7JpU3c?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60348860/%E7%83%8F%E5%85%8B%E8%98%AD%E5%8F%8D%E8%85%90%E9%83%A8%E9%96%80%E6%90%97%E7%A0%B4%E6%B4%97%E9%8C%A2%E9%9B%86%E5%9C%98-%E6%BE%A4%E9%80%A3%E6%96%AF%E5%9F%BA%E8%BE%A6%E5%85%AC%E5%AE%A4%E5%89%8D%E4%B8%BB%E4%BB%BB%E8%91%89%E7%88%BE%E9%A6%AC%E5%85%8B%E6%B6%89%E6%A1%88",
+    "timestamp": "2026-05-11T23:54:23.829Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "馬國3中學生校內疑觸電　16歲男生當場身亡　另1男生重傷留醫ICU",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260417/1121712482855948288734251.jpeg/kCWM-UMmqSRtbY_IRow-Q6PJNEyevqO-n76xd5--sXc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60348506/%E7%89%B9%E6%9C%97%E6%99%AE%E7%A8%B1%E4%BC%8A%E6%9C%97%E5%9B%9E%E6%87%89-%E5%AE%8C%E5%85%A8%E4%B8%8D%E5%8F%AF%E6%8E%A5%E5%8F%97-%E6%96%A5%E5%8F%8D%E8%A6%86-%E6%8B%96%E5%BB%B6%E5%8F%8A%E6%88%B2%E5%BC%84%E7%BE%8E%E5%9C%8B",
     "timestamp": "2026-05-10T21:26:19.399Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "白宮：特朗普13日晚抵北京　美官員：料與習近平討論伊朗AI等議題",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20251114/1066020653993299968905612.jpeg/qUCXsZXrZSYtI4kHlG0kXqKdCvYl-uv2OTy8fDk8vHw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60348507/%E7%99%BD%E5%AE%AE-%E7%89%B9%E6%9C%97%E6%99%AE13%E6%97%A5%E6%99%9A%E6%8A%B5%E5%8C%97%E4%BA%AC-%E7%BE%8E%E5%AE%98%E5%93%A1-%E6%96%99%E8%88%87%E7%BF%92%E8%BF%91%E5%B9%B3%E8%A8%8E%E8%AB%96%E4%BC%8A%E6%9C%97ai%E7%AD%89%E8%AD%B0%E9%A1%8C",
-    "timestamp": "2026-05-10T20:52:53.787Z",
     "strategy": ".content-card__main"
   }
 ];
