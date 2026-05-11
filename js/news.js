@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-11T10:51:59.053Z
+// Last updated: 2026-05-11T11:58:09.256Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "網約車｜發牌數仍未定　政府：將稍後在憲報訂明　規管後動態調整",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250613/1010264089340940288608159.jpeg/zJIn1HADM3tdLr9vkhR-KaI4xI2dWMohTtObMk7TmzI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60348799/%E7%B6%B2%E7%B4%84%E8%BB%8A-%E7%99%BC%E7%89%8C%E6%95%B8%E4%BB%8D%E6%9C%AA%E5%AE%9A-%E6%94%BF%E5%BA%9C-%E5%B0%87%E7%A8%8D%E5%BE%8C%E5%9C%A8%E6%86%B2%E5%A0%B1%E8%A8%82%E6%98%8E-%E8%A6%8F%E7%AE%A1%E5%BE%8C%E5%8B%95%E6%85%8B%E8%AA%BF%E6%95%B4",
+    "timestamp": "2026-05-11T11:58:09.256Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "馬浚偉私人理由辭新城廣播CEO　郭艷明獲委首席營運總監兼總編輯",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260510/1130262574659538944792158.jpeg/FMm4qYmEt0rtEWYgEWNWBloNaT9W9C6gHb_nBx2_5wc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60348484/%E6%9C%9D%E8%BB%8D%E9%A6%96%E5%BA%A6%E7%8F%BE%E8%BA%AB%E4%BF%84-%E6%88%B0%E5%8B%9D%E7%AF%80-%E9%96%B1%E5%85%B5-%E5%88%86%E6%9E%90-%E6%9C%9D%E4%BF%84-%E8%A1%80%E7%9B%9F-%E9%97%9C%E4%BF%82%E5%86%8D%E5%8D%87%E7%B4%9A",
     "timestamp": "2026-05-10T13:57:10.129Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "香港田徑錦標賽｜葉景維175日兩破港績　比賽儲信心擊退自我懷疑",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260510/1130224124262617088963821.jpeg/lfXB7zW71-WQB2ifFnNjYYkNkiTbj885Fqt7NBarezQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60348393/%E9%A6%99%E6%B8%AF%E7%94%B0%E5%BE%91%E9%8C%A6%E6%A8%99%E8%B3%BD-%E8%91%89%E6%99%AF%E7%B6%AD175%E6%97%A5%E5%85%A9%E7%A0%B4%E6%B8%AF%E7%B8%BE-%E6%AF%94%E8%B3%BD%E5%84%B2%E4%BF%A1%E5%BF%83%E6%93%8A%E9%80%80%E8%87%AA%E6%88%91%E6%87%B7%E7%96%91",
-    "timestamp": "2026-05-10T13:16:02.062Z",
     "strategy": ".content-card__main"
   }
 ];
