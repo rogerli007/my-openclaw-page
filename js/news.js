@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-11T17:24:38.278Z
+// Last updated: 2026-05-11T18:13:17.363Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "特朗普：伊朗回應愚蠢及垃圾　停火協議命懸一線",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260512/1130678237123317760516873.jpeg/egTynPhSvrdFLWD72FvXi4apM50-R9WE3HUYndx1GJ0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60348847/%E7%89%B9%E6%9C%97%E6%99%AE-%E4%BC%8A%E6%9C%97%E5%9B%9E%E6%87%89%E6%84%9A%E8%A0%A2%E5%8F%8A%E5%9E%83%E5%9C%BE-%E5%81%9C%E7%81%AB%E5%8D%94%E8%AD%B0%E5%91%BD%E6%87%B8%E4%B8%80%E7%B7%9A",
+    "timestamp": "2026-05-11T18:13:17.363Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美媒：特朗普或與習近平討論對台軍售　恐違「六項保證」",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260511/1130299523130724352540729.jpeg/s3YdyE-udiUawRamWccCJLq_dsZzXT15TX20ZU19tGU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60348498/%E8%BE%B2%E5%A4%AB%E6%BC%94%E5%94%B1%E6%9C%83-%E5%8F%A4%E5%A4%A9%E6%A8%82%E6%8A%95%E8%B3%87%E5%81%9A%E8%80%81%E9%97%86%E4%B8%8A%E5%85%AC%E5%8F%B8%E5%82%BE%E8%B6%B3%E5%85%A9%E7%B2%92%E9%90%98-%E5%8E%9F%E4%BE%86%E5%BC%B5%E7%B9%BC%E8%81%B0%E7%89%BD%E7%B7%9A",
     "timestamp": "2026-05-10T16:29:10.702Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "何立峰12至13日率團赴韓　與美方舉行經貿磋商",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260121/1090457722786156544169805.jpeg/msKEH0ocAfw2gVIjq9xbYqbLgzJwAW8pQz_AY0M_wGM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60348494/%E4%BD%95%E7%AB%8B%E5%B3%B012%E8%87%B313%E6%97%A5%E7%8E%87%E5%9C%98%E8%B5%B4%E9%9F%93-%E8%88%87%E7%BE%8E%E6%96%B9%E8%88%89%E8%A1%8C%E7%B6%93%E8%B2%BF%E7%A3%8B%E5%95%86",
-    "timestamp": "2026-05-10T15:54:40.200Z",
     "strategy": ".content-card__main"
   }
 ];
