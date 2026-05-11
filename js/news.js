@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-11T11:58:09.256Z
+// Last updated: 2026-05-11T13:15:50.910Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "屯門公路救護電單車失事自炒　救護員擦傷送院",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260511/1130615485679800320295476.png/nD_C64oM4CPvuYD9z53XDOxfuHUiKa1rtEJkgLRCZIA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60348818/%E5%B1%AF%E9%96%80%E5%85%AC%E8%B7%AF%E6%95%91%E8%AD%B7%E9%9B%BB%E5%96%AE%E8%BB%8A%E5%A4%B1%E4%BA%8B%E8%87%AA%E7%82%92-%E6%95%91%E8%AD%B7%E5%93%A1%E6%93%A6%E5%82%B7%E9%80%81%E9%99%A2",
+    "timestamp": "2026-05-11T13:15:50.910Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "網約車｜發牌數仍未定　政府：將稍後在憲報訂明　規管後動態調整",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260510/1130276389405069312523810.jpeg/3lPSw0OtZcc2XTSn2154ZP-ZBMn24x1j0V1kJ9FdZCc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60348490/%E6%B2%B9%E5%A1%98%E8%82%89%E6%AA%94-%E8%B2%93%E5%BA%97%E9%95%B7-%E7%96%91%E8%A2%AB%E5%85%A9%E7%94%B7%E5%A5%B3%E7%94%A8%E7%B4%99%E7%AE%B1%E5%81%B7%E8%B5%B0-%E6%9D%B1%E4%B8%BB%E7%B1%B2%E6%AD%B8%E9%82%84-%E5%A5%BD%E6%8E%9B%E4%BD%8F%E4%BD%A2",
     "timestamp": "2026-05-10T14:59:35.367Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "朝軍首度現身俄「戰勝節」閱兵　分析：朝俄「血盟」關係再升級",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260510/1130262574659538944792158.jpeg/FMm4qYmEt0rtEWYgEWNWBloNaT9W9C6gHb_nBx2_5wc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60348484/%E6%9C%9D%E8%BB%8D%E9%A6%96%E5%BA%A6%E7%8F%BE%E8%BA%AB%E4%BF%84-%E6%88%B0%E5%8B%9D%E7%AF%80-%E9%96%B1%E5%85%B5-%E5%88%86%E6%9E%90-%E6%9C%9D%E4%BF%84-%E8%A1%80%E7%9B%9F-%E9%97%9C%E4%BF%82%E5%86%8D%E5%8D%87%E7%B4%9A",
-    "timestamp": "2026-05-10T13:57:10.129Z",
     "strategy": ".content-card__main"
   }
 ];
