@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-11T16:26:16.588Z
+// Last updated: 2026-05-11T17:24:38.278Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美媒：特朗普或與習近平討論對台軍售　恐違「六項保證」",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/cis/5d34f86fda2377195855822c.jpg/2I5Yo4a10BdQUuvVJfOKz73BskjNBl93_51KdP-dSnQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60348846/%E7%BE%8E%E5%AA%92-%E7%89%B9%E6%9C%97%E6%99%AE%E6%88%96%E8%88%87%E7%BF%92%E8%BF%91%E5%B9%B3%E8%A8%8E%E8%AB%96%E5%B0%8D%E5%8F%B0%E8%BB%8D%E5%94%AE-%E6%81%90%E9%81%95-%E5%85%AD%E9%A0%85%E4%BF%9D%E8%AD%89",
+    "timestamp": "2026-05-11T17:24:38.278Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "漢坦病毒｜西班牙：洪迪厄斯號乘客撤離接近完成",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260121/1090457722786156544169805.jpeg/msKEH0ocAfw2gVIjq9xbYqbLgzJwAW8pQz_AY0M_wGM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60348494/%E4%BD%95%E7%AB%8B%E5%B3%B012%E8%87%B313%E6%97%A5%E7%8E%87%E5%9C%98%E8%B5%B4%E9%9F%93-%E8%88%87%E7%BE%8E%E6%96%B9%E8%88%89%E8%A1%8C%E7%B6%93%E8%B2%BF%E7%A3%8B%E5%95%86",
     "timestamp": "2026-05-10T15:54:40.200Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "網約車｜智慧交通聯盟倡發20500個牌照　才可免規管後無車可搭",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250220/969064057699045376137902.jpeg/2MG6piRCNHM9UOUKE-_cyiN2n1xiAP3h-AXmuPgF5rg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60348492/%E7%B6%B2%E7%B4%84%E8%BB%8A-%E6%99%BA%E6%85%A7%E4%BA%A4%E9%80%9A%E8%81%AF%E7%9B%9F%E5%80%A1%E7%99%BC20500%E5%80%8B%E7%89%8C%E7%85%A7-%E6%89%8D%E5%8F%AF%E5%85%8D%E8%A6%8F%E7%AE%A1%E5%BE%8C%E7%84%A1%E8%BB%8A%E5%8F%AF%E6%90%AD",
-    "timestamp": "2026-05-10T15:32:52.330Z",
     "strategy": ".content-card__main"
   }
 ];
