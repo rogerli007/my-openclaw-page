@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-11T21:50:56.329Z
+// Last updated: 2026-05-11T23:29:05.384Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "馬國3中學生校內疑觸電　16歲男生當場身亡　另1男生重傷留醫ICU",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260510/1129978808900784128576830.png/fOQK6kYC_Qj0ltrPbkdlKvoTUx0NmCzTfKOa33yjmt8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E8%A9%B1%E9%A1%8C/60348307/%E9%A6%AC%E5%9C%8B3%E4%B8%AD%E5%AD%B8%E7%94%9F%E6%A0%A1%E5%85%A7%E7%96%91%E8%A7%B8%E9%9B%BB-16%E6%AD%B2%E7%94%B7%E7%94%9F%E7%95%B6%E5%A0%B4%E8%BA%AB%E4%BA%A1-%E5%8F%A61%E7%94%B7%E7%94%9F%E9%87%8D%E5%82%B7%E7%95%99%E9%86%ABicu",
+    "timestamp": "2026-05-11T23:29:05.384Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "英超｜熱刺遭列斯聯逼和1：1　領先降班區2分",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20251114/1066020653993299968905612.jpeg/qUCXsZXrZSYtI4kHlG0kXqKdCvYl-uv2OTy8fDk8vHw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60348507/%E7%99%BD%E5%AE%AE-%E7%89%B9%E6%9C%97%E6%99%AE13%E6%97%A5%E6%99%9A%E6%8A%B5%E5%8C%97%E4%BA%AC-%E7%BE%8E%E5%AE%98%E5%93%A1-%E6%96%99%E8%88%87%E7%BF%92%E8%BF%91%E5%B9%B3%E8%A8%8E%E8%AB%96%E4%BC%8A%E6%9C%97ai%E7%AD%89%E8%AD%B0%E9%A1%8C",
     "timestamp": "2026-05-10T20:52:53.787Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "啟德青年運動場23歲男跑步暈倒　昏迷送院搶救",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260511/1130354009421385728340721.jpeg/3dkXXZeM9Zzxt1ZMz1lv_TwmYvvsAYU8KrxNNxC8TTc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60348509/%E5%95%9F%E5%BE%B7%E9%9D%92%E5%B9%B4%E9%81%8B%E5%8B%95%E5%A0%B423%E6%AD%B2%E7%94%B7%E8%B7%91%E6%AD%A5%E6%9A%88%E5%80%92-%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2%E6%90%B6%E6%95%91",
-    "timestamp": "2026-05-10T20:00:01.562Z",
     "strategy": ".content-card__main"
   }
 ];
