@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-11T06:25:44.559Z
+// Last updated: 2026-05-11T07:53:08.278Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "葵芳捉亂過馬路5分鐘4人「中招」　位位罰2000元進帳庫房",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260511/1130533344375869440691805.jpeg/HOEfjeABUp4T9BdZbh0Z87tgEfIzDODgrwQRn4oEEZ8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60348677/%E8%91%B5%E8%8A%B3%E6%8D%89%E4%BA%82%E9%81%8E%E9%A6%AC%E8%B7%AF5%E5%88%86%E9%90%984%E4%BA%BA-%E4%B8%AD%E6%8B%9B-%E4%BD%8D%E4%BD%8D%E7%BD%B02000%E5%85%83%E9%80%B2%E5%B8%B3%E5%BA%AB%E6%88%BF",
+    "timestamp": "2026-05-11T07:53:08.278Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "特朗普：倘法院關稅裁决加入「免退款」條文　政府可節省1萬億元",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260510/1130166810314805248529678.jpeg/hL_D41ECqZUL2NpilT2LFlIxvTO90Aj3NDoStzQ6Erc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%9C%8B%E9%9A%9B%E5%88%86%E6%9E%90/60348411/%E6%B3%95%E5%9C%8B%E5%B7%A6%E7%BF%BC%E9%A0%98%E8%A2%96%E6%A2%85%E6%9C%97%E9%9B%84%E5%9B%9B%E5%BA%A6%E5%87%BA%E6%88%B0%E7%B8%BD%E7%B5%B1%E9%81%B8%E8%88%89-%E6%94%BF%E5%A3%87%E8%80%81%E5%B0%87%E5%B0%8D%E8%8F%AF%E7%AB%8B%E5%A0%B4%E6%B8%85%E9%86%92",
     "timestamp": "2026-05-10T12:07:47.014Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "有片！外傭屯市外粗暴對待輪椅婆婆　狂拍打致喊叫不斷惹網民氣憤",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260510/1130217651428134912318965.png/EsL1tDki0AIf55zy4cFPIZ0TYCcyiNeSzcBwC83AcAs",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60348394/%E6%9C%89%E7%89%87-%E5%A4%96%E5%82%AD%E5%B1%AF%E5%B8%82%E5%A4%96%E7%B2%97%E6%9A%B4%E5%B0%8D%E5%BE%85%E8%BC%AA%E6%A4%85%E5%A9%86%E5%A9%86-%E7%8B%82%E6%8B%8D%E6%89%93%E8%87%B4%E5%96%8A%E5%8F%AB%E4%B8%8D%E6%96%B7%E6%83%B9%E7%B6%B2%E6%B0%91%E6%B0%A3%E6%86%A4",
-    "timestamp": "2026-05-10T11:20:50.427Z",
     "strategy": ".content-card__main"
   }
 ];
