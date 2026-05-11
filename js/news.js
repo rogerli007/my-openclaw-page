@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-10T23:54:14.048Z
+// Last updated: 2026-05-11T01:05:07.872Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "泰星Mild叔仔Hiso Psi哭訴被阿哥性侵12年　反被斥破壞家族名聲",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260510/1130289734023647232924506.jpeg/sWALmoPxex7Xpaos5N3h9VDkCGvRLz1fRozdjkaM3Y4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60348496/%E6%B3%B0%E6%98%9Fmild%E5%8F%94%E4%BB%94hiso-psi%E5%93%AD%E8%A8%B4%E8%A2%AB%E9%98%BF%E5%93%A5%E6%80%A7%E4%BE%B512%E5%B9%B4-%E5%8F%8D%E8%A2%AB%E6%96%A5%E7%A0%B4%E5%A3%9E%E5%AE%B6%E6%97%8F%E5%90%8D%E8%81%B2",
+    "timestamp": "2026-05-11T01:05:07.872Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "瑞銀：友邦保險首季新業務價值增長超預期　維持「買入」評級",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260510/1130188369255469056215493.png/L189KOic59CZV4HZhXKZmcuSWJOha_mGOHyiszh8orM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60348390/%E9%97%9C%E6%9B%9C%E5%84%81%E4%B8%89%E5%B9%B4%E6%8A%B1%E4%B8%89-%E9%97%9C%E4%B8%89%E5%BC%9F-%E5%87%BA%E4%B8%96-%E8%80%81%E5%A9%86%E7%94%9F%E5%AE%8C%E5%8F%AB%E8%80%81%E5%85%AC-%E5%94%94%E8%A9%B2%E4%BD%A0%E7%B4%AE%E5%92%97%E4%BD%A2",
     "timestamp": "2026-05-10T09:40:50.894Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "中九龍繞道隧道貨車拖頭狂飆｜運輸署：營辦商即時將個案交警調查",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260510/1130006981214474240104839.jpeg/zcHS7r1fSTk4G3f3i8GUVcizvAj5Uhh48Tf0qPE39Kg",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60348417/%E4%B8%AD%E4%B9%9D%E9%BE%8D%E7%B9%9E%E9%81%93%E9%9A%A7%E9%81%93%E8%B2%A8%E8%BB%8A%E6%8B%96%E9%A0%AD%E7%8B%82%E9%A3%86-%E9%81%8B%E8%BC%B8%E7%BD%B2-%E7%87%9F%E8%BE%A6%E5%95%86%E5%8D%B3%E6%99%82%E5%B0%87%E5%80%8B%E6%A1%88%E4%BA%A4%E8%AD%A6%E8%AA%BF%E6%9F%A5",
-    "timestamp": "2026-05-10T08:53:37.384Z",
     "strategy": ".content-card__main"
   }
 ];
