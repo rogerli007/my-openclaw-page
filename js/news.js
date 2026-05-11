@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-11T13:15:50.910Z
+// Last updated: 2026-05-11T16:26:16.588Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "漢坦病毒｜西班牙：洪迪厄斯號乘客撤離接近完成",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260512/1130662671473971200538217.jpeg/27RlC_LC9ep1JNECl359yb0o9Blh3LiuppZ8k6aWfJM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60348842/%E6%BC%A2%E5%9D%A6%E7%97%85%E6%AF%92-%E8%A5%BF%E7%8F%AD%E7%89%99-%E6%B4%AA%E8%BF%AA%E5%8E%84%E6%96%AF%E8%99%9F%E4%B9%98%E5%AE%A2%E6%92%A4%E9%9B%A2%E6%8E%A5%E8%BF%91%E5%AE%8C%E6%88%90",
+    "timestamp": "2026-05-11T16:26:16.588Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "屯門公路救護電單車失事自炒　救護員擦傷送院",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250220/969064057699045376137902.jpeg/2MG6piRCNHM9UOUKE-_cyiN2n1xiAP3h-AXmuPgF5rg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60348492/%E7%B6%B2%E7%B4%84%E8%BB%8A-%E6%99%BA%E6%85%A7%E4%BA%A4%E9%80%9A%E8%81%AF%E7%9B%9F%E5%80%A1%E7%99%BC20500%E5%80%8B%E7%89%8C%E7%85%A7-%E6%89%8D%E5%8F%AF%E5%85%8D%E8%A6%8F%E7%AE%A1%E5%BE%8C%E7%84%A1%E8%BB%8A%E5%8F%AF%E6%90%AD",
     "timestamp": "2026-05-10T15:32:52.330Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "油塘肉檔「貓店長」疑被兩男女用紙箱偷走　東主籲歸還：好掛住佢",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260510/1130276389405069312523810.jpeg/3lPSw0OtZcc2XTSn2154ZP-ZBMn24x1j0V1kJ9FdZCc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60348490/%E6%B2%B9%E5%A1%98%E8%82%89%E6%AA%94-%E8%B2%93%E5%BA%97%E9%95%B7-%E7%96%91%E8%A2%AB%E5%85%A9%E7%94%B7%E5%A5%B3%E7%94%A8%E7%B4%99%E7%AE%B1%E5%81%B7%E8%B5%B0-%E6%9D%B1%E4%B8%BB%E7%B1%B2%E6%AD%B8%E9%82%84-%E5%A5%BD%E6%8E%9B%E4%BD%8F%E4%BD%A2",
-    "timestamp": "2026-05-10T14:59:35.367Z",
     "strategy": ".content-card__main"
   }
 ];
