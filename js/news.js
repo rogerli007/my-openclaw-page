@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-11T20:26:58.976Z
+// Last updated: 2026-05-11T21:07:30.948Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "青山公路Audi電動車剷安全島　車頭懸空卡路牌鐵柱　司機受輕傷",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260512/1130717139624267776786394.jpeg/fUw7hN3lIRHQAHaCo-Cr8dgZUyT8iubq3a1TLt2tUy4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60348855/%E9%9D%92%E5%B1%B1%E5%85%AC%E8%B7%AFaudi%E9%9B%BB%E5%8B%95%E8%BB%8A%E5%89%B7%E5%AE%89%E5%85%A8%E5%B3%B6-%E8%BB%8A%E9%A0%AD%E6%87%B8%E7%A9%BA%E5%8D%A1%E8%B7%AF%E7%89%8C%E9%90%B5%E6%9F%B1-%E5%8F%B8%E6%A9%9F%E5%8F%97%E8%BC%95%E5%82%B7",
+    "timestamp": "2026-05-11T21:07:30.948Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "青山公路Audi電動車剷安全島　車頭懸空卡路牌鐵柱　司機受輕傷",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260403/1116797217949093888082514.jpeg/P82lzApDFeQctg-THWfjaNbZYQySpyDV9w4gs_cOILM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60348505/%E4%BF%84%E7%83%8F%E4%BA%92%E7%9B%B8%E6%8C%87%E6%8E%A7%E9%81%95%E5%8F%8D%E5%81%9C%E7%81%AB%E5%8D%94%E8%AD%B0-%E6%BE%A4%E9%80%A3%E6%96%AF%E5%9F%BA-%E5%B7%B2%E5%90%91%E4%BF%84%E6%8F%90%E4%BA%A4%E6%8F%9B%E4%BF%98%E5%8D%83%E4%BA%BA%E5%90%8D%E5%96%AE",
     "timestamp": "2026-05-10T19:33:52.250Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "英超｜阿仙奴作客1：0險勝韋斯咸　杜沙特奠勝",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260511/1130318117625401344854713.jpeg/wAdxIPpujPoZOJsZ2XkJg-G5MEwqae1cAfuXqQH7l6k?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60348503/%E8%8B%B1%E8%B6%85-%E9%98%BF%E4%BB%99%E5%A5%B4%E4%BD%9C%E5%AE%A21-0%E9%9A%AA%E5%8B%9D%E9%9F%8B%E6%96%AF%E5%92%B8-%E6%9D%9C%E6%B2%99%E7%89%B9%E5%A5%A0%E5%8B%9D",
-    "timestamp": "2026-05-10T18:56:45.058Z",
     "strategy": ".content-card__main"
   }
 ];
