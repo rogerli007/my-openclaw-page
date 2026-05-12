@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-12T17:03:50.929Z
+// Last updated: 2026-05-12T17:52:38.647Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "樂風周佩賢輕生　大角咀商廈年初淪銀主盤　8項「輕資產」涉百億",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260512/1131011731749867520076258.jpeg/0udoO2dO6KOKlLmDLaxLzWSium3XUh-Z4F8HiuBfB4o?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60349249/%E6%A8%82%E9%A2%A8%E5%91%A8%E4%BD%A9%E8%B3%A2%E8%BC%95%E7%94%9F-%E5%A4%A7%E8%A7%92%E5%92%80%E5%95%86%E5%BB%88%E5%B9%B4%E5%88%9D%E6%B7%AA%E9%8A%80%E4%B8%BB%E7%9B%A4-8%E9%A0%85-%E8%BC%95%E8%B3%87%E7%94%A2-%E6%B6%89%E7%99%BE%E5%84%84",
+    "timestamp": "2026-05-12T17:52:38.647Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "沃什獲參議院通過出任聯儲局理事　主席任命料13日確認",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260512/1130662671473971200538217.jpeg/27RlC_LC9ep1JNECl359yb0o9Blh3LiuppZ8k6aWfJM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60348842/%E6%BC%A2%E5%9D%A6%E7%97%85%E6%AF%92-%E8%A5%BF%E7%8F%AD%E7%89%99-%E6%B4%AA%E8%BF%AA%E5%8E%84%E6%96%AF%E8%99%9F%E4%B9%98%E5%AE%A2%E6%92%A4%E9%9B%A2%E6%8E%A5%E8%BF%91%E5%AE%8C%E6%88%90",
     "timestamp": "2026-05-11T16:26:16.588Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "屯門公路救護電單車失事自炒　救護員擦傷送院",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260511/1130615485679800320295476.png/nD_C64oM4CPvuYD9z53XDOxfuHUiKa1rtEJkgLRCZIA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60348818/%E5%B1%AF%E9%96%80%E5%85%AC%E8%B7%AF%E6%95%91%E8%AD%B7%E9%9B%BB%E5%96%AE%E8%BB%8A%E5%A4%B1%E4%BA%8B%E8%87%AA%E7%82%92-%E6%95%91%E8%AD%B7%E5%93%A1%E6%93%A6%E5%82%B7%E9%80%81%E9%99%A2",
-    "timestamp": "2026-05-11T13:15:50.910Z",
     "strategy": ".content-card__main"
   }
 ];
