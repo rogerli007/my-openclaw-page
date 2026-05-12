@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-12T06:33:23.910Z
+// Last updated: 2026-05-12T07:36:05.477Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "「可能沒有前提嗎？」　國民黨張榮恭談特朗普訪華：繞不開｢一中｣",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20221027/662420972686544896895374.jpeg/Pr_0CIyf1S3nUzUZXoXq1dy15NmU1mY2xf0Bbf_9AW0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8F%B0%E7%81%A3%E6%96%B0%E8%81%9E/60349066/%E5%8F%AF%E8%83%BD%E6%B2%92%E6%9C%89%E5%89%8D%E6%8F%90%E5%97%8E-%E5%9C%8B%E6%B0%91%E9%BB%A8%E5%BC%B5%E6%A6%AE%E6%81%AD%E8%AB%87%E7%89%B9%E6%9C%97%E6%99%AE%E8%A8%AA%E8%8F%AF-%E7%B9%9E%E4%B8%8D%E9%96%8B-%E4%B8%80%E4%B8%AD",
+    "timestamp": "2026-05-12T07:36:05.477Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "嶺南大學申請擴建本部校園　稱收生5年增倍半　擬增可建樓面面積",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250420/990512638528065536420157.jpeg/yHzSfNyCbhDSlRcpDc1T4sEaeDa_nKvfQudxikLncYo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60348650/%E7%89%B9%E6%9C%97%E6%99%AE-%E5%80%98%E6%B3%95%E9%99%A2%E9%97%9C%E7%A8%85%E8%A3%81%E5%86%B3%E5%8A%A0%E5%85%A5-%E5%85%8D%E9%80%80%E6%AC%BE-%E6%A2%9D%E6%96%87-%E6%94%BF%E5%BA%9C%E5%8F%AF%E7%AF%80%E7%9C%811%E8%90%AC%E5%84%84%E5%85%83",
     "timestamp": "2026-05-11T06:25:44.559Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "泰星Mild叔仔Hiso Psi哭訴被阿哥性侵12年　反被斥破壞家族名聲",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260510/1130289734023647232924506.jpeg/sWALmoPxex7Xpaos5N3h9VDkCGvRLz1fRozdjkaM3Y4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60348496/%E6%B3%B0%E6%98%9Fmild%E5%8F%94%E4%BB%94hiso-psi%E5%93%AD%E8%A8%B4%E8%A2%AB%E9%98%BF%E5%93%A5%E6%80%A7%E4%BE%B512%E5%B9%B4-%E5%8F%8D%E8%A2%AB%E6%96%A5%E7%A0%B4%E5%A3%9E%E5%AE%B6%E6%97%8F%E5%90%8D%E8%81%B2",
-    "timestamp": "2026-05-11T01:05:07.872Z",
     "strategy": ".content-card__main"
   }
 ];
