@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-12T16:12:05.755Z
+// Last updated: 2026-05-12T17:03:50.929Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "沃什獲參議院通過出任聯儲局理事　主席任命料13日確認",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260429/1126303707718225920875201.jpeg/eQ2sH15z1hBfKk4y5NaqGO12UZXo4hvl512LaOddi2g?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60349250/%E6%B2%83%E4%BB%80%E7%8D%B2%E5%8F%83%E8%AD%B0%E9%99%A2%E9%80%9A%E9%81%8E%E5%87%BA%E4%BB%BB%E8%81%AF%E5%84%B2%E5%B1%80%E7%90%86%E4%BA%8B-%E4%B8%BB%E5%B8%AD%E4%BB%BB%E5%91%BD%E6%96%9913%E6%97%A5%E7%A2%BA%E8%AA%8D",
+    "timestamp": "2026-05-12T17:03:50.929Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "何文田43歲女子燒炭亡　消息：死者為樂風集團創辦人周佩賢",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260511/1130615485679800320295476.png/nD_C64oM4CPvuYD9z53XDOxfuHUiKa1rtEJkgLRCZIA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60348818/%E5%B1%AF%E9%96%80%E5%85%AC%E8%B7%AF%E6%95%91%E8%AD%B7%E9%9B%BB%E5%96%AE%E8%BB%8A%E5%A4%B1%E4%BA%8B%E8%87%AA%E7%82%92-%E6%95%91%E8%AD%B7%E5%93%A1%E6%93%A6%E5%82%B7%E9%80%81%E9%99%A2",
     "timestamp": "2026-05-11T13:15:50.910Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "網約車｜發牌數仍未定　政府：將稍後在憲報訂明　規管後動態調整",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250613/1010264089340940288608159.jpeg/zJIn1HADM3tdLr9vkhR-KaI4xI2dWMohTtObMk7TmzI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60348799/%E7%B6%B2%E7%B4%84%E8%BB%8A-%E7%99%BC%E7%89%8C%E6%95%B8%E4%BB%8D%E6%9C%AA%E5%AE%9A-%E6%94%BF%E5%BA%9C-%E5%B0%87%E7%A8%8D%E5%BE%8C%E5%9C%A8%E6%86%B2%E5%A0%B1%E8%A8%82%E6%98%8E-%E8%A6%8F%E7%AE%A1%E5%BE%8C%E5%8B%95%E6%85%8B%E8%AA%BF%E6%95%B4",
-    "timestamp": "2026-05-11T11:58:09.256Z",
     "strategy": ".content-card__main"
   }
 ];
