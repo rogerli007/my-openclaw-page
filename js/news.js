@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-12T04:12:47.047Z
+// Last updated: 2026-05-12T05:38:22.513Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "旅發局與波爾多葡萄酒協會未來5年合作　升級美酒佳餚吸全球旅客",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260512/1130857753112219648831507.jpeg/J1pYPu3-l5pkKCV-Leh-7vLWaF79N2YV_eT2wf3k9sE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60349006/%E6%97%85%E7%99%BC%E5%B1%80%E8%88%87%E6%B3%A2%E7%88%BE%E5%A4%9A%E8%91%A1%E8%90%84%E9%85%92%E5%8D%94%E6%9C%83%E6%9C%AA%E4%BE%865%E5%B9%B4%E5%90%88%E4%BD%9C-%E5%8D%87%E7%B4%9A%E7%BE%8E%E9%85%92%E4%BD%B3%E9%A4%9A%E5%90%B8%E5%85%A8%E7%90%83%E6%97%85%E5%AE%A2",
+    "timestamp": "2026-05-12T05:38:22.513Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "習特會將登場特朗普9年後再來華　美媒：中關注｢3T｣　美關注｢5B｣",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/5501494/org/407603c8295a7187b3489170df8f79d1.jpg/t9mrKPAZhWQ_SgOaFZTPuvhDaAhwr0qk_2q8fP9qvHw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60348343/%E7%91%9E%E9%8A%80-%E5%8F%8B%E9%82%A6%E4%BF%9D%E9%9A%AA%E9%A6%96%E5%AD%A3%E6%96%B0%E6%A5%AD%E5%8B%99%E5%83%B9%E5%80%BC%E5%A2%9E%E9%95%B7%E8%B6%85%E9%A0%90%E6%9C%9F-%E7%B6%AD%E6%8C%81-%E8%B2%B7%E5%85%A5-%E8%A9%95%E7%B4%9A",
     "timestamp": "2026-05-10T23:54:14.048Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "恐怖車禍●有片│法拉利跣胎失控碰撞　夫妻被困活活燒死　身份曝光",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260511/1130338446246678528057461.jpeg/px05cejJoxfaoTTBYy2SZH0tKBxbVtpxevaOh3r2joc",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60348441/%E6%81%90%E6%80%96%E8%BB%8A%E7%A6%8D-%E6%9C%89%E7%89%87-%E6%B3%95%E6%8B%89%E5%88%A9%E8%B7%A3%E8%83%8E%E5%A4%B1%E6%8E%A7%E7%A2%B0%E6%92%9E-%E5%A4%AB%E5%A6%BB%E8%A2%AB%E5%9B%B0%E6%B4%BB%E6%B4%BB%E7%87%92%E6%AD%BB-%E8%BA%AB%E4%BB%BD%E6%9B%9D%E5%85%89",
-    "timestamp": "2026-05-10T23:27:50.781Z",
     "strategy": ".content-card__main"
   }
 ];
