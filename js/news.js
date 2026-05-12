@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-12T07:36:05.477Z
+// Last updated: 2026-05-12T08:46:09.885Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "靈感來自鱷魚！中國團隊研發出新型陶瓷裝甲　稱可實現彈丸偏轉",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260512/1130891866456199168683592.jpeg/uxvmewh2wWT1djGyR3jiV3KMjvfOTxbZHsp_oB7Kf6A?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60349087/%E9%9D%88%E6%84%9F%E4%BE%86%E8%87%AA%E9%B1%B7%E9%AD%9A-%E4%B8%AD%E5%9C%8B%E5%9C%98%E9%9A%8A%E7%A0%94%E7%99%BC%E5%87%BA%E6%96%B0%E5%9E%8B%E9%99%B6%E7%93%B7%E8%A3%9D%E7%94%B2-%E7%A8%B1%E5%8F%AF%E5%AF%A6%E7%8F%BE%E5%BD%88%E4%B8%B8%E5%81%8F%E8%BD%89",
+    "timestamp": "2026-05-12T08:46:09.885Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "「可能沒有前提嗎？」　國民黨張榮恭談特朗普訪華：繞不開｢一中｣",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260511/1130533344375869440691805.jpeg/HOEfjeABUp4T9BdZbh0Z87tgEfIzDODgrwQRn4oEEZ8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60348677/%E8%91%B5%E8%8A%B3%E6%8D%89%E4%BA%82%E9%81%8E%E9%A6%AC%E8%B7%AF5%E5%88%86%E9%90%984%E4%BA%BA-%E4%B8%AD%E6%8B%9B-%E4%BD%8D%E4%BD%8D%E7%BD%B02000%E5%85%83%E9%80%B2%E5%B8%B3%E5%BA%AB%E6%88%BF",
     "timestamp": "2026-05-11T07:53:08.278Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普：倘法院關稅裁决加入「免退款」條文　政府可節省1萬億元",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250420/990512638528065536420157.jpeg/yHzSfNyCbhDSlRcpDc1T4sEaeDa_nKvfQudxikLncYo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60348650/%E7%89%B9%E6%9C%97%E6%99%AE-%E5%80%98%E6%B3%95%E9%99%A2%E9%97%9C%E7%A8%85%E8%A3%81%E5%86%B3%E5%8A%A0%E5%85%A5-%E5%85%8D%E9%80%80%E6%AC%BE-%E6%A2%9D%E6%96%87-%E6%94%BF%E5%BA%9C%E5%8F%AF%E7%AF%80%E7%9C%811%E8%90%AC%E5%84%84%E5%85%83",
-    "timestamp": "2026-05-11T06:25:44.559Z",
     "strategy": ".content-card__main"
   }
 ];
