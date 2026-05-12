@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-12T22:45:50.308Z
+// Last updated: 2026-05-12T23:15:36.441Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "校園天地｜基督教粉嶺神召會小學　「活演小畫家」視藝作品展",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260506/1128736675267088384068431.png/6zgCLwQN21g070Ce1dly-Z_ykIYMEd7MPjdqOz43ajs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E4%B8%AD%E5%B0%8F%E5%AD%B8%E6%A0%A1%E5%9C%92/60347202/%E6%A0%A1%E5%9C%92%E5%A4%A9%E5%9C%B0-%E5%9F%BA%E7%9D%A3%E6%95%99%E7%B2%89%E5%B6%BA%E7%A5%9E%E5%8F%AC%E6%9C%83%E5%B0%8F%E5%AD%B8-%E6%B4%BB%E6%BC%94%E5%B0%8F%E7%95%AB%E5%AE%B6-%E8%A6%96%E8%97%9D%E4%BD%9C%E5%93%81%E5%B1%95",
+    "timestamp": "2026-05-12T23:15:36.441Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "陳惠敏82歲生日獲太太送深情肉嘴　鐵漢瞬變小男人：唔好成日鬧我",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260512/1130730738983899136948165.jpeg/GGzTi0GIEktKVuN8zUssTZz3gJ4KfLjeh4NrkoeDa5I?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60348857/%E8%8B%B1%E8%B6%85-%E7%86%B1%E5%88%BA%E9%81%AD%E5%88%97%E6%96%AF%E8%81%AF%E9%80%BC%E5%92%8C1-1-%E9%A0%98%E5%85%88%E9%99%8D%E7%8F%AD%E5%8D%802%E5%88%86",
     "timestamp": "2026-05-11T21:50:56.329Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "青山公路Audi電動車剷安全島　車頭懸空卡路牌鐵柱　司機受輕傷",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260512/1130717139624267776786394.jpeg/fUw7hN3lIRHQAHaCo-Cr8dgZUyT8iubq3a1TLt2tUy4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60348855/%E9%9D%92%E5%B1%B1%E5%85%AC%E8%B7%AFaudi%E9%9B%BB%E5%8B%95%E8%BB%8A%E5%89%B7%E5%AE%89%E5%85%A8%E5%B3%B6-%E8%BB%8A%E9%A0%AD%E6%87%B8%E7%A9%BA%E5%8D%A1%E8%B7%AF%E7%89%8C%E9%90%B5%E6%9F%B1-%E5%8F%B8%E6%A9%9F%E5%8F%97%E8%BC%95%E5%82%B7",
-    "timestamp": "2026-05-11T21:07:30.948Z",
     "strategy": ".content-card__main"
   }
 ];
