@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-12T17:52:38.647Z
+// Last updated: 2026-05-12T18:49:44.589Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "特朗普：會與習近平長談伊朗　美國對伊朗行動有效故無需中國幫助",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260513/1131052606043459584721359.jpeg/WHVTpbjw_uelUQG4AHpZXeifGQTjGepKDK8ZYwyvGWM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60349256/%E7%89%B9%E6%9C%97%E6%99%AE-%E6%9C%83%E8%88%87%E7%BF%92%E8%BF%91%E5%B9%B3%E9%95%B7%E8%AB%87%E4%BC%8A%E6%9C%97-%E7%BE%8E%E5%9C%8B%E5%B0%8D%E4%BC%8A%E6%9C%97%E8%A1%8C%E5%8B%95%E6%9C%89%E6%95%88%E6%95%85%E7%84%A1%E9%9C%80%E4%B8%AD%E5%9C%8B%E5%B9%AB%E5%8A%A9",
+    "timestamp": "2026-05-12T18:49:44.589Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "樂風周佩賢輕生　大角咀商廈年初淪銀主盤　8項「輕資產」涉百億",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/cis/5d34f86fda2377195855822c.jpg/2I5Yo4a10BdQUuvVJfOKz73BskjNBl93_51KdP-dSnQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60348846/%E7%BE%8E%E5%AA%92-%E7%89%B9%E6%9C%97%E6%99%AE%E6%88%96%E8%88%87%E7%BF%92%E8%BF%91%E5%B9%B3%E8%A8%8E%E8%AB%96%E5%B0%8D%E5%8F%B0%E8%BB%8D%E5%94%AE-%E6%81%90%E9%81%95-%E5%85%AD%E9%A0%85%E4%BF%9D%E8%AD%89",
     "timestamp": "2026-05-11T17:24:38.278Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "漢坦病毒｜西班牙：洪迪厄斯號乘客撤離接近完成",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260512/1130662671473971200538217.jpeg/27RlC_LC9ep1JNECl359yb0o9Blh3LiuppZ8k6aWfJM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60348842/%E6%BC%A2%E5%9D%A6%E7%97%85%E6%AF%92-%E8%A5%BF%E7%8F%AD%E7%89%99-%E6%B4%AA%E8%BF%AA%E5%8E%84%E6%96%AF%E8%99%9F%E4%B9%98%E5%AE%A2%E6%92%A4%E9%9B%A2%E6%8E%A5%E8%BF%91%E5%AE%8C%E6%88%90",
-    "timestamp": "2026-05-11T16:26:16.588Z",
     "strategy": ".content-card__main"
   }
 ];
