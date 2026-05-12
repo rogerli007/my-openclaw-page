@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-12T19:28:01.689Z
+// Last updated: 2026-05-12T21:38:06.989Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美國上訴法院暫緩實行特朗普10%關稅裁決　允許短期繼續徵收關稅",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260513/1131090969085612032348951.jpeg/iuY_fGUhVkuHFueEjTRXLORKnqFQk8okz-x9b8_sfW8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60349264/%E7%BE%8E%E5%9C%8B%E4%B8%8A%E8%A8%B4%E6%B3%95%E9%99%A2%E6%9A%AB%E7%B7%A9%E5%AF%A6%E8%A1%8C%E7%89%B9%E6%9C%97%E6%99%AE10-%E9%97%9C%E7%A8%85%E8%A3%81%E6%B1%BA-%E5%85%81%E8%A8%B1%E7%9F%AD%E6%9C%9F%E7%B9%BC%E7%BA%8C%E5%BE%B5%E6%94%B6%E9%97%9C%E7%A8%85",
+    "timestamp": "2026-05-12T21:38:06.989Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "警方聯入境處多區反非法勞工及掃黃　拘10男15女",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260512/1130678237123317760516873.jpeg/egTynPhSvrdFLWD72FvXi4apM50-R9WE3HUYndx1GJ0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60348847/%E7%89%B9%E6%9C%97%E6%99%AE-%E4%BC%8A%E6%9C%97%E5%9B%9E%E6%87%89%E6%84%9A%E8%A0%A2%E5%8F%8A%E5%9E%83%E5%9C%BE-%E5%81%9C%E7%81%AB%E5%8D%94%E8%AD%B0%E5%91%BD%E6%87%B8%E4%B8%80%E7%B7%9A",
     "timestamp": "2026-05-11T19:01:42.324Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普：伊朗回應愚蠢及垃圾　停火協議命懸一線",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260512/1130678237123317760516873.jpeg/egTynPhSvrdFLWD72FvXi4apM50-R9WE3HUYndx1GJ0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60348847/%E7%89%B9%E6%9C%97%E6%99%AE-%E4%BC%8A%E6%9C%97%E5%9B%9E%E6%87%89%E6%84%9A%E8%A0%A2%E5%8F%8A%E5%9E%83%E5%9C%BE-%E5%81%9C%E7%81%AB%E5%8D%94%E8%AD%B0%E5%91%BD%E6%87%B8%E4%B8%80%E7%B7%9A",
-    "timestamp": "2026-05-11T18:13:17.363Z",
     "strategy": ".content-card__main"
   }
 ];
