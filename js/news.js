@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-12T08:46:09.885Z
+// Last updated: 2026-05-12T10:48:38.713Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "第三屆「HK2A ESG 企劃推廣大獎」頒獎典禮圓滿舉行",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260512/1130937652317523968907641.jpeg/8rXr40jkflsjMxlZN8uNGSP5_1VUkrZIuCbfi7gm34s?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%A6%99%E6%B8%AF%E7%B6%93%E6%BF%9F/60349176/%E7%AC%AC%E4%B8%89%E5%B1%86-hk2a-esg-%E4%BC%81%E5%8A%83%E6%8E%A8%E5%BB%A3%E5%A4%A7%E7%8D%8E-%E9%A0%92%E7%8D%8E%E5%85%B8%E7%A6%AE%E5%9C%93%E6%BB%BF%E8%88%89%E8%A1%8C",
+    "timestamp": "2026-05-12T10:48:38.713Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "靈感來自鱷魚！中國團隊研發出新型陶瓷裝甲　稱可實現彈丸偏轉",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260225/1103408431999488000680952.jpeg/Jo9pKwLyGQfL5q0EpcgWZVG48gWE69pZ1LP8xO6z_MQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60348794/%E9%A6%AC%E6%B5%9A%E5%81%89%E7%A7%81%E4%BA%BA%E7%90%86%E7%94%B1%E8%BE%AD%E6%96%B0%E5%9F%8E%E5%BB%A3%E6%92%ADceo-%E9%83%AD%E8%89%B7%E6%98%8E%E7%8D%B2%E5%A7%94%E9%A6%96%E5%B8%AD%E7%87%9F%E9%81%8B%E7%B8%BD%E7%9B%A3%E5%85%BC%E7%B8%BD%E7%B7%A8%E8%BC%AF",
     "timestamp": "2026-05-11T10:51:59.053Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "葵芳捉亂過馬路5分鐘4人「中招」　位位罰2000元進帳庫房",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260511/1130533344375869440691805.jpeg/HOEfjeABUp4T9BdZbh0Z87tgEfIzDODgrwQRn4oEEZ8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60348677/%E8%91%B5%E8%8A%B3%E6%8D%89%E4%BA%82%E9%81%8E%E9%A6%AC%E8%B7%AF5%E5%88%86%E9%90%984%E4%BA%BA-%E4%B8%AD%E6%8B%9B-%E4%BD%8D%E4%BD%8D%E7%BD%B02000%E5%85%83%E9%80%B2%E5%B8%B3%E5%BA%AB%E6%88%BF",
-    "timestamp": "2026-05-11T07:53:08.278Z",
     "strategy": ".content-card__main"
   }
 ];
