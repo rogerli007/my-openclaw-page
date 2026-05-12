@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-12T00:59:37.266Z
+// Last updated: 2026-05-12T02:49:28.511Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "大埔太湖花園單位電線短路　兩住戶吸入濃煙不適送院　140人疏散",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260313/1108968048900968448928756.jpeg/78XuB3t0DRM61AUV286sEGaBp1AhWd7-OkzC1TpMwtU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60348924/%E5%A4%A7%E5%9F%94%E5%A4%AA%E6%B9%96%E8%8A%B1%E5%9C%92%E5%96%AE%E4%BD%8D%E9%9B%BB%E7%B7%9A%E7%9F%AD%E8%B7%AF-%E5%85%A9%E4%BD%8F%E6%88%B6%E5%90%B8%E5%85%A5%E6%BF%83%E7%85%99%E4%B8%8D%E9%81%A9%E9%80%81%E9%99%A2-140%E4%BA%BA%E7%96%8F%E6%95%A3",
+    "timestamp": "2026-05-12T02:49:28.511Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "聯儲局新主席提名人沃什通過參議院關鍵程序投票　為接任舖平路",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260508/1129434647457959936379542.png/6EVVMmdNSK7rkfLD0hvEUmxq4MdYuMI1kkGeVJJBnlQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60347390/%E8%B6%8A%E7%94%B7%E8%B6%8A%E7%97%9B-2%E8%9E%BA%E7%B5%B2%E5%B8%BD%E5%A5%97%E7%94%9F%E6%AE%96%E5%99%A8-%E7%94%B7%E5%AD%90%E5%BF%8D%E7%97%9B%E5%80%8B%E5%A4%9A%E6%9C%88-%E4%B8%8D%E8%83%BD%E8%87%AA%E6%8B%94%E8%85%AB%E8%84%B9%E8%AE%8A%E5%BD%A2",
     "timestamp": "2026-05-10T22:25:55.539Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普稱伊朗回應「完全不可接受」　斥反覆拖延及戲弄美國",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260417/1121712482855948288734251.jpeg/kCWM-UMmqSRtbY_IRow-Q6PJNEyevqO-n76xd5--sXc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60348506/%E7%89%B9%E6%9C%97%E6%99%AE%E7%A8%B1%E4%BC%8A%E6%9C%97%E5%9B%9E%E6%87%89-%E5%AE%8C%E5%85%A8%E4%B8%8D%E5%8F%AF%E6%8E%A5%E5%8F%97-%E6%96%A5%E5%8F%8D%E8%A6%86%E6%8B%96%E5%BB%B6%E5%8F%8A%E6%88%B2%E5%BC%84%E7%BE%8E%E5%9C%8B",
-    "timestamp": "2026-05-10T21:53:01.527Z",
     "strategy": ".content-card__main"
   }
 ];
