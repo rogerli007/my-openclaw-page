@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-12T05:38:22.513Z
+// Last updated: 2026-05-12T06:33:23.910Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "嶺南大學申請擴建本部校園　稱收生5年增倍半　擬增可建樓面面積",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250812/1032013930676883456231476.jpeg/QP0Jiu7IZI0shDl5dhqdY4fvI4jFwUY3aWfx-Gln8fg?v=w1920r16_9",
+    "url": "https://www.hk01.com/18%E5%8D%80%E6%96%B0%E8%81%9E/60349032/%E5%B6%BA%E5%8D%97%E5%A4%A7%E5%AD%B8%E7%94%B3%E8%AB%8B%E6%93%B4%E5%BB%BA%E6%9C%AC%E9%83%A8%E6%A0%A1%E5%9C%92-%E7%A8%B1%E6%94%B6%E7%94%9F5%E5%B9%B4%E5%A2%9E%E5%80%8D%E5%8D%8A-%E6%93%AC%E5%A2%9E%E5%8F%AF%E5%BB%BA%E6%A8%93%E9%9D%A2%E9%9D%A2%E7%A9%8D",
+    "timestamp": "2026-05-12T06:33:23.910Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "旅發局與波爾多葡萄酒協會未來5年合作　升級美酒佳餚吸全球旅客",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260510/1130289734023647232924506.jpeg/sWALmoPxex7Xpaos5N3h9VDkCGvRLz1fRozdjkaM3Y4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60348496/%E6%B3%B0%E6%98%9Fmild%E5%8F%94%E4%BB%94hiso-psi%E5%93%AD%E8%A8%B4%E8%A2%AB%E9%98%BF%E5%93%A5%E6%80%A7%E4%BE%B512%E5%B9%B4-%E5%8F%8D%E8%A2%AB%E6%96%A5%E7%A0%B4%E5%A3%9E%E5%AE%B6%E6%97%8F%E5%90%8D%E8%81%B2",
     "timestamp": "2026-05-11T01:05:07.872Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "瑞銀：友邦保險首季新業務價值增長超預期　維持「買入」評級",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/5501494/org/407603c8295a7187b3489170df8f79d1.jpg/t9mrKPAZhWQ_SgOaFZTPuvhDaAhwr0qk_2q8fP9qvHw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60348343/%E7%91%9E%E9%8A%80-%E5%8F%8B%E9%82%A6%E4%BF%9D%E9%9A%AA%E9%A6%96%E5%AD%A3%E6%96%B0%E6%A5%AD%E5%8B%99%E5%83%B9%E5%80%BC%E5%A2%9E%E9%95%B7%E8%B6%85%E9%A0%90%E6%9C%9F-%E7%B6%AD%E6%8C%81-%E8%B2%B7%E5%85%A5-%E8%A9%95%E7%B4%9A",
-    "timestamp": "2026-05-10T23:54:14.048Z",
     "strategy": ".content-card__main"
   }
 ];
