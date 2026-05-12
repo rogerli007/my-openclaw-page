@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-12T10:48:38.713Z
+// Last updated: 2026-05-12T16:12:05.755Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "何文田43歲女子燒炭亡　消息：死者為樂風集團創辦人周佩賢",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20210301/443092484017491968163095.jpeg/mpelPsQkU3W5VgA6oF0rcYuFXXyDmHhnwJBjj8CQY48?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60349235/%E4%BD%95%E6%96%87%E7%94%B043%E6%AD%B2%E5%A5%B3%E5%AD%90%E7%87%92%E7%82%AD%E4%BA%A1-%E6%B6%88%E6%81%AF-%E6%AD%BB%E8%80%85%E7%82%BA%E6%A8%82%E9%A2%A8%E9%9B%86%E5%9C%98%E5%89%B5%E8%BE%A6%E4%BA%BA%E5%91%A8%E4%BD%A9%E8%B3%A2",
+    "timestamp": "2026-05-12T16:12:05.755Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "第三屆「HK2A ESG 企劃推廣大獎」頒獎典禮圓滿舉行",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250613/1010264089340940288608159.jpeg/zJIn1HADM3tdLr9vkhR-KaI4xI2dWMohTtObMk7TmzI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60348799/%E7%B6%B2%E7%B4%84%E8%BB%8A-%E7%99%BC%E7%89%8C%E6%95%B8%E4%BB%8D%E6%9C%AA%E5%AE%9A-%E6%94%BF%E5%BA%9C-%E5%B0%87%E7%A8%8D%E5%BE%8C%E5%9C%A8%E6%86%B2%E5%A0%B1%E8%A8%82%E6%98%8E-%E8%A6%8F%E7%AE%A1%E5%BE%8C%E5%8B%95%E6%85%8B%E8%AA%BF%E6%95%B4",
     "timestamp": "2026-05-11T11:58:09.256Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "馬浚偉私人理由辭新城廣播CEO　郭艷明獲委首席營運總監兼總編輯",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260225/1103408431999488000680952.jpeg/Jo9pKwLyGQfL5q0EpcgWZVG48gWE69pZ1LP8xO6z_MQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60348794/%E9%A6%AC%E6%B5%9A%E5%81%89%E7%A7%81%E4%BA%BA%E7%90%86%E7%94%B1%E8%BE%AD%E6%96%B0%E5%9F%8E%E5%BB%A3%E6%92%ADceo-%E9%83%AD%E8%89%B7%E6%98%8E%E7%8D%B2%E5%A7%94%E9%A6%96%E5%B8%AD%E7%87%9F%E9%81%8B%E7%B8%BD%E7%9B%A3%E5%85%BC%E7%B8%BD%E7%B7%A8%E8%BC%AF",
-    "timestamp": "2026-05-11T10:51:59.053Z",
     "strategy": ".content-card__main"
   }
 ];
