@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-12T23:15:36.441Z
+// Last updated: 2026-05-12T23:43:56.944Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "特朗普訪華闊別九年　形式主義還是世紀交易？｜Jack Talk・去片",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260512/1130879170100858880671283.jpeg/oRpcxRmCLAMyTWsHpFUePiSzqZd437qlO2KJaztiiWs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%9C%8B%E9%9A%9B%E5%88%86%E6%9E%90/60348713/%E7%89%B9%E6%9C%97%E6%99%AE%E8%A8%AA%E8%8F%AF%E9%97%8A%E5%88%A5%E4%B9%9D%E5%B9%B4-%E5%BD%A2%E5%BC%8F%E4%B8%BB%E7%BE%A9%E9%82%84%E6%98%AF%E4%B8%96%E7%B4%80%E4%BA%A4%E6%98%93-jack-talk-%E5%8E%BB%E7%89%87",
+    "timestamp": "2026-05-12T23:43:56.944Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "校園天地｜基督教粉嶺神召會小學　「活演小畫家」視藝作品展",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260510/1129978808900784128576830.png/fOQK6kYC_Qj0ltrPbkdlKvoTUx0NmCzTfKOa33yjmt8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E8%A9%B1%E9%A1%8C/60348307/%E9%A6%AC%E5%9C%8B3%E4%B8%AD%E5%AD%B8%E7%94%9F%E6%A0%A1%E5%85%A7%E7%96%91%E8%A7%B8%E9%9B%BB-16%E6%AD%B2%E7%94%B7%E7%94%9F%E7%95%B6%E5%A0%B4%E8%BA%AB%E4%BA%A1-%E5%8F%A61%E7%94%B7%E7%94%9F%E9%87%8D%E5%82%B7%E7%95%99%E9%86%ABicu",
     "timestamp": "2026-05-11T23:29:05.384Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "英超｜熱刺遭列斯聯逼和1：1　領先降班區2分",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260512/1130730738983899136948165.jpeg/GGzTi0GIEktKVuN8zUssTZz3gJ4KfLjeh4NrkoeDa5I?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60348857/%E8%8B%B1%E8%B6%85-%E7%86%B1%E5%88%BA%E9%81%AD%E5%88%97%E6%96%AF%E8%81%AF%E9%80%BC%E5%92%8C1-1-%E9%A0%98%E5%85%88%E9%99%8D%E7%8F%AD%E5%8D%802%E5%88%86",
-    "timestamp": "2026-05-11T21:50:56.329Z",
     "strategy": ".content-card__main"
   }
 ];
