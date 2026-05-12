@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-11T23:54:23.829Z
+// Last updated: 2026-05-12T00:59:37.266Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "聯儲局新主席提名人沃什通過參議院關鍵程序投票　為接任舖平路",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260429/1126303991806824448624879.jpeg/riUsq1pDCsJ5N2EsPBwhLzP3q5OFdHZUSAfjZEgH42Q?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60348876/%E8%81%AF%E5%84%B2%E5%B1%80%E6%96%B0%E4%B8%BB%E5%B8%AD%E6%8F%90%E5%90%8D%E4%BA%BA%E6%B2%83%E4%BB%80%E9%80%9A%E9%81%8E%E5%8F%83%E8%AD%B0%E9%99%A2%E9%97%9C%E9%8D%B5%E7%A8%8B%E5%BA%8F%E6%8A%95%E7%A5%A8-%E7%82%BA%E6%8E%A5%E4%BB%BB%E8%88%96%E5%B9%B3%E8%B7%AF",
+    "timestamp": "2026-05-12T00:59:37.266Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "烏克蘭反腐部門搗破洗錢集團　澤連斯基辦公室前主任葉爾馬克涉案",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260417/1121712482855948288734251.jpeg/kCWM-UMmqSRtbY_IRow-Q6PJNEyevqO-n76xd5--sXc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60348506/%E7%89%B9%E6%9C%97%E6%99%AE%E7%A8%B1%E4%BC%8A%E6%9C%97%E5%9B%9E%E6%87%89-%E5%AE%8C%E5%85%A8%E4%B8%8D%E5%8F%AF%E6%8E%A5%E5%8F%97-%E6%96%A5%E5%8F%8D%E8%A6%86%E6%8B%96%E5%BB%B6%E5%8F%8A%E6%88%B2%E5%BC%84%E7%BE%8E%E5%9C%8B",
     "timestamp": "2026-05-10T21:53:01.527Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普稱伊朗回應「完全不可接受」　斥反覆 拖延及戲弄美國",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260417/1121712482855948288734251.jpeg/kCWM-UMmqSRtbY_IRow-Q6PJNEyevqO-n76xd5--sXc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60348506/%E7%89%B9%E6%9C%97%E6%99%AE%E7%A8%B1%E4%BC%8A%E6%9C%97%E5%9B%9E%E6%87%89-%E5%AE%8C%E5%85%A8%E4%B8%8D%E5%8F%AF%E6%8E%A5%E5%8F%97-%E6%96%A5%E5%8F%8D%E8%A6%86-%E6%8B%96%E5%BB%B6%E5%8F%8A%E6%88%B2%E5%BC%84%E7%BE%8E%E5%9C%8B",
-    "timestamp": "2026-05-10T21:26:19.399Z",
     "strategy": ".content-card__main"
   }
 ];
