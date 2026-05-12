@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-12T22:15:50.131Z
+// Last updated: 2026-05-12T22:45:50.308Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "陳惠敏82歲生日獲太太送深情肉嘴　鐵漢瞬變小男人：唔好成日鬧我",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260512/1130993446085988352580231.jpeg/jfgC0zuqmNI4FAnNnsnNRrQcOr_HQuvT9G7X5_Ru1-c?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60348967/%E9%99%B3%E6%83%A0%E6%95%8F82%E6%AD%B2%E7%94%9F%E6%97%A5%E7%8D%B2%E5%A4%AA%E5%A4%AA%E9%80%81%E6%B7%B1%E6%83%85%E8%82%89%E5%98%B4-%E9%90%B5%E6%BC%A2%E7%9E%AC%E8%AE%8A%E5%B0%8F%E7%94%B7%E4%BA%BA-%E5%94%94%E5%A5%BD%E6%88%90%E6%97%A5%E9%AC%A7%E6%88%91",
+    "timestamp": "2026-05-12T22:45:50.308Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "泰離譜│人夫結婚23年出軌僧侶親嘴：超愛老公　邀妻「3人行」家變",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260512/1130717139624267776786394.jpeg/fUw7hN3lIRHQAHaCo-Cr8dgZUyT8iubq3a1TLt2tUy4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60348855/%E9%9D%92%E5%B1%B1%E5%85%AC%E8%B7%AFaudi%E9%9B%BB%E5%8B%95%E8%BB%8A%E5%89%B7%E5%AE%89%E5%85%A8%E5%B3%B6-%E8%BB%8A%E9%A0%AD%E6%87%B8%E7%A9%BA%E5%8D%A1%E8%B7%AF%E7%89%8C%E9%90%B5%E6%9F%B1-%E5%8F%B8%E6%A9%9F%E5%8F%97%E8%BC%95%E5%82%B7",
     "timestamp": "2026-05-11T21:07:30.948Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "青山公路Audi電動車剷安全島　車頭懸空卡路牌鐵柱　司機受輕傷",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260512/1130717139624267776786394.jpeg/fUw7hN3lIRHQAHaCo-Cr8dgZUyT8iubq3a1TLt2tUy4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60348855/%E9%9D%92%E5%B1%B1%E5%85%AC%E8%B7%AFaudi%E9%9B%BB%E5%8B%95%E8%BB%8A%E5%89%B7%E5%AE%89%E5%85%A8%E5%B3%B6-%E8%BB%8A%E9%A0%AD%E6%87%B8%E7%A9%BA%E5%8D%A1%E8%B7%AF%E7%89%8C%E9%90%B5%E6%9F%B1-%E5%8F%B8%E6%A9%9F%E5%8F%97%E8%BC%95%E5%82%B7",
-    "timestamp": "2026-05-11T20:26:58.976Z",
     "strategy": ".content-card__main"
   }
 ];
