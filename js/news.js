@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-12T21:38:06.989Z
+// Last updated: 2026-05-12T22:15:50.131Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "泰離譜│人夫結婚23年出軌僧侶親嘴：超愛老公　邀妻「3人行」家變",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260512/1130904044949213184840125.png/DZmiUBRYE45b062Ae4rr0xBZanaTA1uDXjxByl48Qco?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E8%A9%B1%E9%A1%8C/60347122/%E6%B3%B0%E9%9B%A2%E8%AD%9C-%E4%BA%BA%E5%A4%AB%E7%B5%90%E5%A9%9A23%E5%B9%B4%E5%87%BA%E8%BB%8C%E5%83%A7%E4%BE%B6%E8%A6%AA%E5%98%B4-%E8%B6%85%E6%84%9B%E8%80%81%E5%85%AC-%E9%82%80%E5%A6%BB-3%E4%BA%BA%E8%A1%8C-%E5%AE%B6%E8%AE%8A",
+    "timestamp": "2026-05-12T22:15:50.131Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美國上訴法院暫緩實行特朗普10%關稅裁決　允許短期繼續徵收關稅",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260512/1130717139624267776786394.jpeg/fUw7hN3lIRHQAHaCo-Cr8dgZUyT8iubq3a1TLt2tUy4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60348855/%E9%9D%92%E5%B1%B1%E5%85%AC%E8%B7%AFaudi%E9%9B%BB%E5%8B%95%E8%BB%8A%E5%89%B7%E5%AE%89%E5%85%A8%E5%B3%B6-%E8%BB%8A%E9%A0%AD%E6%87%B8%E7%A9%BA%E5%8D%A1%E8%B7%AF%E7%89%8C%E9%90%B5%E6%9F%B1-%E5%8F%B8%E6%A9%9F%E5%8F%97%E8%BC%95%E5%82%B7",
     "timestamp": "2026-05-11T20:26:58.976Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普：伊朗回應愚蠢及垃圾　停火協議命懸一線",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260512/1130678237123317760516873.jpeg/egTynPhSvrdFLWD72FvXi4apM50-R9WE3HUYndx1GJ0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60348847/%E7%89%B9%E6%9C%97%E6%99%AE-%E4%BC%8A%E6%9C%97%E5%9B%9E%E6%87%89%E6%84%9A%E8%A0%A2%E5%8F%8A%E5%9E%83%E5%9C%BE-%E5%81%9C%E7%81%AB%E5%8D%94%E8%AD%B0%E5%91%BD%E6%87%B8%E4%B8%80%E7%B7%9A",
-    "timestamp": "2026-05-11T19:01:42.324Z",
     "strategy": ".content-card__main"
   }
 ];
