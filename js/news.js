@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-12T18:49:44.589Z
+// Last updated: 2026-05-12T19:28:01.689Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "警方聯入境處多區反非法勞工及掃黃　拘10男15女",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260513/1131023959559507968179856.jpeg/7U53VIxsLNR9LFmiPoMnFiwuDGuIeBeUjBrE-4waxPs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60349242/%E8%AD%A6%E6%96%B9%E8%81%AF%E5%85%A5%E5%A2%83%E8%99%95%E5%A4%9A%E5%8D%80%E5%8F%8D%E9%9D%9E%E6%B3%95%E5%8B%9E%E5%B7%A5%E5%8F%8A%E6%8E%83%E9%BB%83-%E6%8B%9810%E7%94%B715%E5%A5%B3",
+    "timestamp": "2026-05-12T19:28:01.689Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "特朗普：會與習近平長談伊朗　美國對伊朗行動有效故無需中國幫助",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260512/1130678237123317760516873.jpeg/egTynPhSvrdFLWD72FvXi4apM50-R9WE3HUYndx1GJ0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60348847/%E7%89%B9%E6%9C%97%E6%99%AE-%E4%BC%8A%E6%9C%97%E5%9B%9E%E6%87%89%E6%84%9A%E8%A0%A2%E5%8F%8A%E5%9E%83%E5%9C%BE-%E5%81%9C%E7%81%AB%E5%8D%94%E8%AD%B0%E5%91%BD%E6%87%B8%E4%B8%80%E7%B7%9A",
     "timestamp": "2026-05-11T18:13:17.363Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美媒：特朗普或與習近平討論對台軍售　恐違「六項保證」",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/cis/5d34f86fda2377195855822c.jpg/2I5Yo4a10BdQUuvVJfOKz73BskjNBl93_51KdP-dSnQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60348846/%E7%BE%8E%E5%AA%92-%E7%89%B9%E6%9C%97%E6%99%AE%E6%88%96%E8%88%87%E7%BF%92%E8%BF%91%E5%B9%B3%E8%A8%8E%E8%AB%96%E5%B0%8D%E5%8F%B0%E8%BB%8D%E5%94%AE-%E6%81%90%E9%81%95-%E5%85%AD%E9%A0%85%E4%BF%9D%E8%AD%89",
-    "timestamp": "2026-05-11T17:24:38.278Z",
     "strategy": ".content-card__main"
   }
 ];
