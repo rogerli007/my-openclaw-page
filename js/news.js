@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-12T02:49:28.511Z
+// Last updated: 2026-05-12T04:12:47.047Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "習特會將登場特朗普9年後再來華　美媒：中關注｢3T｣　美關注｢5B｣",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20251126/1070311371591127040203195.jpeg/_4D4oufU9q5a073MZQykXV6TRe3wGGG3QSPuykEj7so?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E4%B8%AD%E5%9C%8B%E8%A7%80%E5%AF%9F/60348966/%E7%BF%92%E7%89%B9%E6%9C%83%E5%B0%87%E7%99%BB%E5%A0%B4%E7%89%B9%E6%9C%97%E6%99%AE9%E5%B9%B4%E5%BE%8C%E5%86%8D%E4%BE%86%E8%8F%AF-%E7%BE%8E%E5%AA%92-%E4%B8%AD%E9%97%9C%E6%B3%A8-3t-%E7%BE%8E%E9%97%9C%E6%B3%A8-5b",
+    "timestamp": "2026-05-12T04:12:47.047Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "大埔太湖花園單位電線短路　兩住戶吸入濃煙不適送院　140人疏散",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260511/1130338446246678528057461.jpeg/px05cejJoxfaoTTBYy2SZH0tKBxbVtpxevaOh3r2joc",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60348441/%E6%81%90%E6%80%96%E8%BB%8A%E7%A6%8D-%E6%9C%89%E7%89%87-%E6%B3%95%E6%8B%89%E5%88%A9%E8%B7%A3%E8%83%8E%E5%A4%B1%E6%8E%A7%E7%A2%B0%E6%92%9E-%E5%A4%AB%E5%A6%BB%E8%A2%AB%E5%9B%B0%E6%B4%BB%E6%B4%BB%E7%87%92%E6%AD%BB-%E8%BA%AB%E4%BB%BD%E6%9B%9D%E5%85%89",
     "timestamp": "2026-05-10T23:27:50.781Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "越男越痛！2螺絲帽套生殖器　男子忍痛個多月　不能自拔腫脹變形",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260508/1129434647457959936379542.png/6EVVMmdNSK7rkfLD0hvEUmxq4MdYuMI1kkGeVJJBnlQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60347390/%E8%B6%8A%E7%94%B7%E8%B6%8A%E7%97%9B-2%E8%9E%BA%E7%B5%B2%E5%B8%BD%E5%A5%97%E7%94%9F%E6%AE%96%E5%99%A8-%E7%94%B7%E5%AD%90%E5%BF%8D%E7%97%9B%E5%80%8B%E5%A4%9A%E6%9C%88-%E4%B8%8D%E8%83%BD%E8%87%AA%E6%8B%94%E8%85%AB%E8%84%B9%E8%AE%8A%E5%BD%A2",
-    "timestamp": "2026-05-10T22:25:55.539Z",
     "strategy": ".content-card__main"
   }
 ];
