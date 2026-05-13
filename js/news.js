@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-13T20:46:41.120Z
+// Last updated: 2026-05-13T23:14:36.890Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "中三升高中選科｜邊科派星最多？5+率最高？即睇DSE等級分佈數字",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260513/1131366106544476160054296.jpeg/Lq4WSha6fO2RynpKm4QjmCm0lWPQoi1-q9zdhKvc3YQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E4%B8%AD%E5%B0%8F%E5%AD%B8%E6%A0%A1%E5%9C%92/60346794/%E4%B8%AD%E4%B8%89%E5%8D%87%E9%AB%98%E4%B8%AD%E9%81%B8%E7%A7%91-%E9%82%8A%E7%A7%91%E6%B4%BE%E6%98%9F%E6%9C%80%E5%A4%9A-5-%E7%8E%87%E6%9C%80%E9%AB%98-%E5%8D%B3%E7%9D%87dse%E7%AD%89%E7%B4%9A%E5%88%86%E4%BD%88%E6%95%B8%E5%AD%97",
+    "timestamp": "2026-05-13T23:14:36.890Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "伊朗戰爭｜內塔尼亞胡於戰事期間曾秘密到訪阿聯酋",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260512/1130993446085988352580231.jpeg/jfgC0zuqmNI4FAnNnsnNRrQcOr_HQuvT9G7X5_Ru1-c?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60348967/%E9%99%B3%E6%83%A0%E6%95%8F82%E6%AD%B2%E7%94%9F%E6%97%A5%E7%8D%B2%E5%A4%AA%E5%A4%AA%E9%80%81%E6%B7%B1%E6%83%85%E8%82%89%E5%98%B4-%E9%90%B5%E6%BC%A2%E7%9E%AC%E8%AE%8A%E5%B0%8F%E7%94%B7%E4%BA%BA-%E5%94%94%E5%A5%BD%E6%88%90%E6%97%A5%E9%AC%A7%E6%88%91",
     "timestamp": "2026-05-12T22:45:50.308Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "泰離譜│人夫結婚23年出軌僧侶親嘴：超愛老公　邀妻「3人行」家變",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260512/1130904044949213184840125.png/DZmiUBRYE45b062Ae4rr0xBZanaTA1uDXjxByl48Qco?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E8%A9%B1%E9%A1%8C/60347122/%E6%B3%B0%E9%9B%A2%E8%AD%9C-%E4%BA%BA%E5%A4%AB%E7%B5%90%E5%A9%9A23%E5%B9%B4%E5%87%BA%E8%BB%8C%E5%83%A7%E4%BE%B6%E8%A6%AA%E5%98%B4-%E8%B6%85%E6%84%9B%E8%80%81%E5%85%AC-%E9%82%80%E5%A6%BB-3%E4%BA%BA%E8%A1%8C-%E5%AE%B6%E8%AE%8A",
-    "timestamp": "2026-05-12T22:15:50.131Z",
     "strategy": ".content-card__main"
   }
 ];
