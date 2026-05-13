@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-13T06:16:42.943Z
+// Last updated: 2026-05-13T07:28:14.480Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "懲教員涉捅穿囚友直腸　控方指多人擒欄看襲擊　被告否認容許私刑",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260512/1130958954516451328957134.jpeg/9A3yQI2QAF07P-fbhmma5WyjXhxz2Lo_7-SMXsrkjF4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60349490/%E6%87%B2%E6%95%99%E5%93%A1%E6%B6%89%E6%8D%85%E7%A9%BF%E5%9B%9A%E5%8F%8B%E7%9B%B4%E8%85%B8-%E6%8E%A7%E6%96%B9%E6%8C%87%E5%A4%9A%E4%BA%BA%E6%93%92%E6%AC%84%E7%9C%8B%E8%A5%B2%E6%93%8A-%E8%A2%AB%E5%91%8A%E5%90%A6%E8%AA%8D%E5%AE%B9%E8%A8%B1%E7%A7%81%E5%88%91",
+    "timestamp": "2026-05-13T07:28:14.480Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "專家示警：經濟史上最慘烈崩盤近在咫尺　全球股市迎最後狂歡？",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260512/1130857753112219648831507.jpeg/J1pYPu3-l5pkKCV-Leh-7vLWaF79N2YV_eT2wf3k9sE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60349006/%E6%97%85%E7%99%BC%E5%B1%80%E8%88%87%E6%B3%A2%E7%88%BE%E5%A4%9A%E8%91%A1%E8%90%84%E9%85%92%E5%8D%94%E6%9C%83%E6%9C%AA%E4%BE%865%E5%B9%B4%E5%90%88%E4%BD%9C-%E5%8D%87%E7%B4%9A%E7%BE%8E%E9%85%92%E4%BD%B3%E9%A4%9A%E5%90%B8%E5%85%A8%E7%90%83%E6%97%85%E5%AE%A2",
     "timestamp": "2026-05-12T05:38:22.513Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "習特會將登場特朗普9年後再來華　美媒：中關注｢3T｣　美關注｢5B｣",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20251126/1070311371591127040203195.jpeg/_4D4oufU9q5a073MZQykXV6TRe3wGGG3QSPuykEj7so?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E4%B8%AD%E5%9C%8B%E8%A7%80%E5%AF%9F/60348966/%E7%BF%92%E7%89%B9%E6%9C%83%E5%B0%87%E7%99%BB%E5%A0%B4%E7%89%B9%E6%9C%97%E6%99%AE9%E5%B9%B4%E5%BE%8C%E5%86%8D%E4%BE%86%E8%8F%AF-%E7%BE%8E%E5%AA%92-%E4%B8%AD%E9%97%9C%E6%B3%A8-3t-%E7%BE%8E%E9%97%9C%E6%B3%A8-5b",
-    "timestamp": "2026-05-12T04:12:47.047Z",
     "strategy": ".content-card__main"
   }
 ];
