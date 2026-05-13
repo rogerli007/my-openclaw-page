@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-13T23:14:36.890Z
+// Last updated: 2026-05-13T23:42:59.605Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "周大福創建16億人幣售長沙瀏陽高速　上海國資委接貨",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260514/1131499214056984576834502.png/OePdHpplN9aFcZWSP4bRVQSwvkLs7uowU4mbUFOJm1A?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60349688/%E5%91%A8%E5%A4%A7%E7%A6%8F%E5%89%B5%E5%BB%BA16%E5%84%84%E4%BA%BA%E5%B9%A3%E5%94%AE%E9%95%B7%E6%B2%99%E7%80%8F%E9%99%BD%E9%AB%98%E9%80%9F-%E4%B8%8A%E6%B5%B7%E5%9C%8B%E8%B3%87%E5%A7%94%E6%8E%A5%E8%B2%A8",
+    "timestamp": "2026-05-13T23:42:59.605Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "中三升高中選科｜邊科派星最多？5+率最高？即睇DSE等級分佈數字",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260506/1128736675267088384068431.png/6zgCLwQN21g070Ce1dly-Z_ykIYMEd7MPjdqOz43ajs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E4%B8%AD%E5%B0%8F%E5%AD%B8%E6%A0%A1%E5%9C%92/60347202/%E6%A0%A1%E5%9C%92%E5%A4%A9%E5%9C%B0-%E5%9F%BA%E7%9D%A3%E6%95%99%E7%B2%89%E5%B6%BA%E7%A5%9E%E5%8F%AC%E6%9C%83%E5%B0%8F%E5%AD%B8-%E6%B4%BB%E6%BC%94%E5%B0%8F%E7%95%AB%E5%AE%B6-%E8%A6%96%E8%97%9D%E4%BD%9C%E5%93%81%E5%B1%95",
     "timestamp": "2026-05-12T23:15:36.441Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "陳惠敏82歲生日獲太太送深情肉嘴　鐵漢瞬變小男人：唔好成日鬧我",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260512/1130993446085988352580231.jpeg/jfgC0zuqmNI4FAnNnsnNRrQcOr_HQuvT9G7X5_Ru1-c?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60348967/%E9%99%B3%E6%83%A0%E6%95%8F82%E6%AD%B2%E7%94%9F%E6%97%A5%E7%8D%B2%E5%A4%AA%E5%A4%AA%E9%80%81%E6%B7%B1%E6%83%85%E8%82%89%E5%98%B4-%E9%90%B5%E6%BC%A2%E7%9E%AC%E8%AE%8A%E5%B0%8F%E7%94%B7%E4%BA%BA-%E5%94%94%E5%A5%BD%E6%88%90%E6%97%A5%E9%AC%A7%E6%88%91",
-    "timestamp": "2026-05-12T22:45:50.308Z",
     "strategy": ".content-card__main"
   }
 ];
