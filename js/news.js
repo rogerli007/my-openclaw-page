@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-13T01:19:15.778Z
+// Last updated: 2026-05-13T02:08:50.931Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "李頴彰律師｜AI競賽深水區：美國困於資本堆砌，中國重塑算力版圖",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260512/1130925197986107392782534.jpeg/dB17ZgFSXWVJLXL1HqWKL0dPsXN9IJeLuui-ZLrovmQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/01%E5%B0%88%E6%AC%84/60349169/%E6%9D%8E%E9%A0%B4%E5%BD%B0%E5%BE%8B%E5%B8%AB-ai%E7%AB%B6%E8%B3%BD%E6%B7%B1%E6%B0%B4%E5%8D%80-%E7%BE%8E%E5%9C%8B%E5%9B%B0%E6%96%BC%E8%B3%87%E6%9C%AC%E5%A0%86%E7%A0%8C-%E4%B8%AD%E5%9C%8B%E9%87%8D%E5%A1%91%E7%AE%97%E5%8A%9B%E7%89%88%E5%9C%96",
+    "timestamp": "2026-05-13T02:08:50.931Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "龍翔道東行鋪新型瀝青7月中起動　荷里活廣場至斧山道泳池段先行",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260313/1108968048900968448928756.jpeg/78XuB3t0DRM61AUV286sEGaBp1AhWd7-OkzC1TpMwtU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60348924/%E5%A4%A7%E5%9F%94%E5%A4%AA%E6%B9%96%E8%8A%B1%E5%9C%92%E5%96%AE%E4%BD%8D%E9%9B%BB%E7%B7%9A%E7%9F%AD%E8%B7%AF-%E5%85%A9%E4%BD%8F%E6%88%B6%E5%90%B8%E5%85%A5%E6%BF%83%E7%85%99%E4%B8%8D%E9%81%A9%E9%80%81%E9%99%A2-140%E4%BA%BA%E7%96%8F%E6%95%A3",
     "timestamp": "2026-05-12T02:49:28.511Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "聯儲局新主席提名人沃什通過參議院關鍵程序投票　為接任舖平路",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260429/1126303991806824448624879.jpeg/riUsq1pDCsJ5N2EsPBwhLzP3q5OFdHZUSAfjZEgH42Q?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60348876/%E8%81%AF%E5%84%B2%E5%B1%80%E6%96%B0%E4%B8%BB%E5%B8%AD%E6%8F%90%E5%90%8D%E4%BA%BA%E6%B2%83%E4%BB%80%E9%80%9A%E9%81%8E%E5%8F%83%E8%AD%B0%E9%99%A2%E9%97%9C%E9%8D%B5%E7%A8%8B%E5%BA%8F%E6%8A%95%E7%A5%A8-%E7%82%BA%E6%8E%A5%E4%BB%BB%E8%88%96%E5%B9%B3%E8%B7%AF",
-    "timestamp": "2026-05-12T00:59:37.266Z",
     "strategy": ".content-card__main"
   }
 ];
