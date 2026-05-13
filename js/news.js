@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-13T14:27:31.152Z
+// Last updated: 2026-05-13T15:35:39.058Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "陳輝陽澳門作品展陣容公開！陳奕迅容祖兒炎明熹合體演繹經典",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260513/1131234766616530944081496.jpeg/C5sayhgoYLy-EPxvxamO3ZTBw8L8bquX613lEetd5RE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60349425/%E9%99%B3%E8%BC%9D%E9%99%BD%E6%BE%B3%E9%96%80%E4%BD%9C%E5%93%81%E5%B1%95%E9%99%A3%E5%AE%B9%E5%85%AC%E9%96%8B-%E9%99%B3%E5%A5%95%E8%BF%85%E5%AE%B9%E7%A5%96%E5%85%92%E7%82%8E%E6%98%8E%E7%86%B9%E5%90%88%E9%AB%94%E6%BC%94%E7%B9%B9%E7%B6%93%E5%85%B8",
+    "timestamp": "2026-05-13T15:35:39.058Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "今年最高分國產片！《給阿嬤的情書》跨海尋親　收集華僑四海家書",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20210301/443092484017491968163095.jpeg/mpelPsQkU3W5VgA6oF0rcYuFXXyDmHhnwJBjj8CQY48?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60349235/%E4%BD%95%E6%96%87%E7%94%B043%E6%AD%B2%E5%A5%B3%E5%AD%90%E7%87%92%E7%82%AD%E4%BA%A1-%E6%B6%88%E6%81%AF-%E6%AD%BB%E8%80%85%E7%82%BA%E6%A8%82%E9%A2%A8%E9%9B%86%E5%9C%98%E5%89%B5%E8%BE%A6%E4%BA%BA%E5%91%A8%E4%BD%A9%E8%B3%A2",
     "timestamp": "2026-05-12T16:12:05.755Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "第三屆「HK2A ESG 企劃推廣大獎」頒獎典禮圓滿舉行",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260512/1130937652317523968907641.jpeg/8rXr40jkflsjMxlZN8uNGSP5_1VUkrZIuCbfi7gm34s?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%A6%99%E6%B8%AF%E7%B6%93%E6%BF%9F/60349176/%E7%AC%AC%E4%B8%89%E5%B1%86-hk2a-esg-%E4%BC%81%E5%8A%83%E6%8E%A8%E5%BB%A3%E5%A4%A7%E7%8D%8E-%E9%A0%92%E7%8D%8E%E5%85%B8%E7%A6%AE%E5%9C%93%E6%BB%BF%E8%88%89%E8%A1%8C",
-    "timestamp": "2026-05-12T10:48:38.713Z",
     "strategy": ".content-card__main"
   }
 ];
