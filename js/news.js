@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-13T18:20:49.050Z
+// Last updated: 2026-05-13T19:15:58.124Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美國參議院確認沃什出任聯儲局主席　將接替鮑威爾開啟下一個任期",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260514/1131431848476413952531846.jpeg/7IwgLPg75dOtqtGZptY9pV06CTwJUOrK_BKN5vwSjeY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60349679/%E7%BE%8E%E5%9C%8B%E5%8F%83%E8%AD%B0%E9%99%A2%E7%A2%BA%E8%AA%8D%E6%B2%83%E4%BB%80%E5%87%BA%E4%BB%BB%E8%81%AF%E5%84%B2%E5%B1%80%E4%B8%BB%E5%B8%AD-%E5%B0%87%E6%8E%A5%E6%9B%BF%E9%AE%91%E5%A8%81%E7%88%BE%E9%96%8B%E5%95%9F%E4%B8%8B%E4%B8%80%E5%80%8B%E4%BB%BB%E6%9C%9F",
+    "timestamp": "2026-05-13T19:15:58.124Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "中電夥品質保證局推共建氣候韌性倡議平台　助企業管理氣候風險",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260513/1131023959559507968179856.jpeg/7U53VIxsLNR9LFmiPoMnFiwuDGuIeBeUjBrE-4waxPs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60349242/%E8%AD%A6%E6%96%B9%E8%81%AF%E5%85%A5%E5%A2%83%E8%99%95%E5%A4%9A%E5%8D%80%E5%8F%8D%E9%9D%9E%E6%B3%95%E5%8B%9E%E5%B7%A5%E5%8F%8A%E6%8E%83%E9%BB%83-%E6%8B%9810%E7%94%B715%E5%A5%B3",
     "timestamp": "2026-05-12T19:28:01.689Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普：會與習近平長談伊朗　美國對伊朗行動有效故無需中國幫助",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260513/1131052606043459584721359.jpeg/WHVTpbjw_uelUQG4AHpZXeifGQTjGepKDK8ZYwyvGWM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60349256/%E7%89%B9%E6%9C%97%E6%99%AE-%E6%9C%83%E8%88%87%E7%BF%92%E8%BF%91%E5%B9%B3%E9%95%B7%E8%AB%87%E4%BC%8A%E6%9C%97-%E7%BE%8E%E5%9C%8B%E5%B0%8D%E4%BC%8A%E6%9C%97%E8%A1%8C%E5%8B%95%E6%9C%89%E6%95%88%E6%95%85%E7%84%A1%E9%9C%80%E4%B8%AD%E5%9C%8B%E5%B9%AB%E5%8A%A9",
-    "timestamp": "2026-05-12T18:49:44.589Z",
     "strategy": ".content-card__main"
   }
 ];
