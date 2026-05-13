@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-13T12:20:50.716Z
+// Last updated: 2026-05-13T14:27:31.152Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "今年最高分國產片！《給阿嬤的情書》跨海尋親　收集華僑四海家書",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260513/1131351860603523072816930.jpeg/bLoyZTF5JO7FTY77faVACnAGwnU4qalbj5LhG4-S4Rs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60349650/%E4%BB%8A%E5%B9%B4%E6%9C%80%E9%AB%98%E5%88%86%E5%9C%8B%E7%94%A2%E7%89%87-%E7%B5%A6%E9%98%BF%E5%AC%A4%E7%9A%84%E6%83%85%E6%9B%B8-%E8%B7%A8%E6%B5%B7%E5%B0%8B%E8%A6%AA-%E6%94%B6%E9%9B%86%E8%8F%AF%E5%83%91%E5%9B%9B%E6%B5%B7%E5%AE%B6%E6%9B%B8",
+    "timestamp": "2026-05-13T14:27:31.152Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "重案解密｜梁靖琪繼承遺產鬧決裂　13年后再遇林子善風水輪流轉",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260512/1130937652317523968907641.jpeg/8rXr40jkflsjMxlZN8uNGSP5_1VUkrZIuCbfi7gm34s?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%A6%99%E6%B8%AF%E7%B6%93%E6%BF%9F/60349176/%E7%AC%AC%E4%B8%89%E5%B1%86-hk2a-esg-%E4%BC%81%E5%8A%83%E6%8E%A8%E5%BB%A3%E5%A4%A7%E7%8D%8E-%E9%A0%92%E7%8D%8E%E5%85%B8%E7%A6%AE%E5%9C%93%E6%BB%BF%E8%88%89%E8%A1%8C",
     "timestamp": "2026-05-12T10:48:38.713Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "靈感來自鱷魚！中國團隊研發出新型陶瓷裝甲　稱可實現彈丸偏轉",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260512/1130891866456199168683592.jpeg/uxvmewh2wWT1djGyR3jiV3KMjvfOTxbZHsp_oB7Kf6A?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60349087/%E9%9D%88%E6%84%9F%E4%BE%86%E8%87%AA%E9%B1%B7%E9%AD%9A-%E4%B8%AD%E5%9C%8B%E5%9C%98%E9%9A%8A%E7%A0%94%E7%99%BC%E5%87%BA%E6%96%B0%E5%9E%8B%E9%99%B6%E7%93%B7%E8%A3%9D%E7%94%B2-%E7%A8%B1%E5%8F%AF%E5%AF%A6%E7%8F%BE%E5%BD%88%E4%B8%B8%E5%81%8F%E8%BD%89",
-    "timestamp": "2026-05-12T08:46:09.885Z",
     "strategy": ".content-card__main"
   }
 ];
