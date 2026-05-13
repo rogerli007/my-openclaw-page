@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-13T02:08:50.931Z
+// Last updated: 2026-05-13T06:16:42.943Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "專家示警：經濟史上最慘烈崩盤近在咫尺　全球股市迎最後狂歡？",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260513/1131233432274210816265041.jpeg/QdjfzEoTp5LXk2yBvKuLQ2AtTl6L2VgZ8_FSWPPxUlg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60349431/%E5%B0%88%E5%AE%B6%E7%A4%BA%E8%AD%A6-%E7%B6%93%E6%BF%9F%E5%8F%B2%E4%B8%8A%E6%9C%80%E6%85%98%E7%83%88%E5%B4%A9%E7%9B%A4%E8%BF%91%E5%9C%A8%E5%92%AB%E5%B0%BA-%E5%85%A8%E7%90%83%E8%82%A1%E5%B8%82%E8%BF%8E%E6%9C%80%E5%BE%8C%E7%8B%82%E6%AD%A1",
+    "timestamp": "2026-05-13T06:16:42.943Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "李頴彰律師｜AI競賽深水區：美國困於資本堆砌，中國重塑算力版圖",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20251126/1070311371591127040203195.jpeg/_4D4oufU9q5a073MZQykXV6TRe3wGGG3QSPuykEj7so?v=w1920r16_9",
     "url": "https://www.hk01.com/%E4%B8%AD%E5%9C%8B%E8%A7%80%E5%AF%9F/60348966/%E7%BF%92%E7%89%B9%E6%9C%83%E5%B0%87%E7%99%BB%E5%A0%B4%E7%89%B9%E6%9C%97%E6%99%AE9%E5%B9%B4%E5%BE%8C%E5%86%8D%E4%BE%86%E8%8F%AF-%E7%BE%8E%E5%AA%92-%E4%B8%AD%E9%97%9C%E6%B3%A8-3t-%E7%BE%8E%E9%97%9C%E6%B3%A8-5b",
     "timestamp": "2026-05-12T04:12:47.047Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "大埔太湖花園單位電線短路　兩住戶吸入濃煙不適送院　140人疏散",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260313/1108968048900968448928756.jpeg/78XuB3t0DRM61AUV286sEGaBp1AhWd7-OkzC1TpMwtU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60348924/%E5%A4%A7%E5%9F%94%E5%A4%AA%E6%B9%96%E8%8A%B1%E5%9C%92%E5%96%AE%E4%BD%8D%E9%9B%BB%E7%B7%9A%E7%9F%AD%E8%B7%AF-%E5%85%A9%E4%BD%8F%E6%88%B6%E5%90%B8%E5%85%A5%E6%BF%83%E7%85%99%E4%B8%8D%E9%81%A9%E9%80%81%E9%99%A2-140%E4%BA%BA%E7%96%8F%E6%95%A3",
-    "timestamp": "2026-05-12T02:49:28.511Z",
     "strategy": ".content-card__main"
   }
 ];
