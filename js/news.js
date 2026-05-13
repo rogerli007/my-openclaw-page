@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-13T09:34:08.808Z
+// Last updated: 2026-05-13T10:29:20.395Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "彭博︰鄭氏家族不願失新世界控制權　黑石退出40億美元注資計劃",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20241204/940968280066232320204163.jpeg/TBwv72maPtiS8tevWeB5OKJI3jfKltIDNFOxdDRTsXQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60349603/%E5%BD%AD%E5%8D%9A-%E9%84%AD%E6%B0%8F%E5%AE%B6%E6%97%8F%E4%B8%8D%E9%A1%98%E5%A4%B1%E6%96%B0%E4%B8%96%E7%95%8C%E6%8E%A7%E5%88%B6%E6%AC%8A-%E9%BB%91%E7%9F%B3%E9%80%80%E5%87%BA40%E5%84%84%E7%BE%8E%E5%85%83%E6%B3%A8%E8%B3%87%E8%A8%88%E5%8A%83",
+    "timestamp": "2026-05-13T10:29:20.395Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "廣西梧州巴士墮橋3死5傷　排除司機酒駕、毒駕肇事嫌疑",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20221027/662420972686544896895374.jpeg/Pr_0CIyf1S3nUzUZXoXq1dy15NmU1mY2xf0Bbf_9AW0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8F%B0%E7%81%A3%E6%96%B0%E8%81%9E/60349066/%E5%8F%AF%E8%83%BD%E6%B2%92%E6%9C%89%E5%89%8D%E6%8F%90%E5%97%8E-%E5%9C%8B%E6%B0%91%E9%BB%A8%E5%BC%B5%E6%A6%AE%E6%81%AD%E8%AB%87%E7%89%B9%E6%9C%97%E6%99%AE%E8%A8%AA%E8%8F%AF-%E7%B9%9E%E4%B8%8D%E9%96%8B-%E4%B8%80%E4%B8%AD",
     "timestamp": "2026-05-12T07:36:05.477Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "嶺南大學申請擴建本部校園　稱收生5年增倍半　擬增可建樓面面積",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250812/1032013930676883456231476.jpeg/QP0Jiu7IZI0shDl5dhqdY4fvI4jFwUY3aWfx-Gln8fg?v=w1920r16_9",
-    "url": "https://www.hk01.com/18%E5%8D%80%E6%96%B0%E8%81%9E/60349032/%E5%B6%BA%E5%8D%97%E5%A4%A7%E5%AD%B8%E7%94%B3%E8%AB%8B%E6%93%B4%E5%BB%BA%E6%9C%AC%E9%83%A8%E6%A0%A1%E5%9C%92-%E7%A8%B1%E6%94%B6%E7%94%9F5%E5%B9%B4%E5%A2%9E%E5%80%8D%E5%8D%8A-%E6%93%AC%E5%A2%9E%E5%8F%AF%E5%BB%BA%E6%A8%93%E9%9D%A2%E9%9D%A2%E7%A9%8D",
-    "timestamp": "2026-05-12T06:33:23.910Z",
     "strategy": ".content-card__main"
   }
 ];
