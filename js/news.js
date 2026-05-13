@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-13T07:28:14.480Z
+// Last updated: 2026-05-13T09:34:08.808Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "廣西梧州巴士墮橋3死5傷　排除司機酒駕、毒駕肇事嫌疑",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260513/1131285048402644992023946.png/UA1dM11-umpVkARot3PVyPjWwXYiZdRSFEKlXBRCpVw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60349573/%E5%BB%A3%E8%A5%BF%E6%A2%A7%E5%B7%9E%E5%B7%B4%E5%A3%AB%E5%A2%AE%E6%A9%8B3%E6%AD%BB5%E5%82%B7-%E6%8E%92%E9%99%A4%E5%8F%B8%E6%A9%9F%E9%85%92%E9%A7%95-%E6%AF%92%E9%A7%95%E8%82%87%E4%BA%8B%E5%AB%8C%E7%96%91",
+    "timestamp": "2026-05-13T09:34:08.808Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "懲教員涉捅穿囚友直腸　控方指多人擒欄看襲擊　被告否認容許私刑",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250812/1032013930676883456231476.jpeg/QP0Jiu7IZI0shDl5dhqdY4fvI4jFwUY3aWfx-Gln8fg?v=w1920r16_9",
     "url": "https://www.hk01.com/18%E5%8D%80%E6%96%B0%E8%81%9E/60349032/%E5%B6%BA%E5%8D%97%E5%A4%A7%E5%AD%B8%E7%94%B3%E8%AB%8B%E6%93%B4%E5%BB%BA%E6%9C%AC%E9%83%A8%E6%A0%A1%E5%9C%92-%E7%A8%B1%E6%94%B6%E7%94%9F5%E5%B9%B4%E5%A2%9E%E5%80%8D%E5%8D%8A-%E6%93%AC%E5%A2%9E%E5%8F%AF%E5%BB%BA%E6%A8%93%E9%9D%A2%E9%9D%A2%E7%A9%8D",
     "timestamp": "2026-05-12T06:33:23.910Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "旅發局與波爾多葡萄酒協會未來5年合作　升級美酒佳餚吸全球旅客",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260512/1130857753112219648831507.jpeg/J1pYPu3-l5pkKCV-Leh-7vLWaF79N2YV_eT2wf3k9sE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60349006/%E6%97%85%E7%99%BC%E5%B1%80%E8%88%87%E6%B3%A2%E7%88%BE%E5%A4%9A%E8%91%A1%E8%90%84%E9%85%92%E5%8D%94%E6%9C%83%E6%9C%AA%E4%BE%865%E5%B9%B4%E5%90%88%E4%BD%9C-%E5%8D%87%E7%B4%9A%E7%BE%8E%E9%85%92%E4%BD%B3%E9%A4%9A%E5%90%B8%E5%85%A8%E7%90%83%E6%97%85%E5%AE%A2",
-    "timestamp": "2026-05-12T05:38:22.513Z",
     "strategy": ".content-card__main"
   }
 ];
