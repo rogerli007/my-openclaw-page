@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-13T00:14:09.029Z
+// Last updated: 2026-05-13T01:19:15.778Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "龍翔道東行鋪新型瀝青7月中起動　荷里活廣場至斧山道泳池段先行",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260513/1131156219008913408260893.png/C1HM7wnsfsX9Pqp_YDIdlYuOo3otFtAtWJokE1iaJBM?v=w1920r16_9",
+    "url": "https://www.hk01.com/18%E5%8D%80%E6%96%B0%E8%81%9E/60349282/%E9%BE%8D%E7%BF%94%E9%81%93%E6%9D%B1%E8%A1%8C%E9%8B%AA%E6%96%B0%E5%9E%8B%E7%80%9D%E9%9D%927%E6%9C%88%E4%B8%AD%E8%B5%B7%E5%8B%95-%E8%8D%B7%E9%87%8C%E6%B4%BB%E5%BB%A3%E5%A0%B4%E8%87%B3%E6%96%A7%E5%B1%B1%E9%81%93%E6%B3%B3%E6%B1%A0%E6%AE%B5%E5%85%88%E8%A1%8C",
+    "timestamp": "2026-05-13T01:19:15.778Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "內地多地加大存量房收購力度　努力穩定房地產市場",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260429/1126303991806824448624879.jpeg/riUsq1pDCsJ5N2EsPBwhLzP3q5OFdHZUSAfjZEgH42Q?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60348876/%E8%81%AF%E5%84%B2%E5%B1%80%E6%96%B0%E4%B8%BB%E5%B8%AD%E6%8F%90%E5%90%8D%E4%BA%BA%E6%B2%83%E4%BB%80%E9%80%9A%E9%81%8E%E5%8F%83%E8%AD%B0%E9%99%A2%E9%97%9C%E9%8D%B5%E7%A8%8B%E5%BA%8F%E6%8A%95%E7%A5%A8-%E7%82%BA%E6%8E%A5%E4%BB%BB%E8%88%96%E5%B9%B3%E8%B7%AF",
     "timestamp": "2026-05-12T00:59:37.266Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "烏克蘭反腐部門搗破洗錢集團　澤連斯基辦公室前主任葉爾馬克涉案",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20240311/843855001670389760013586.jpeg/HXXXOKGCExNngxxn7cR76aRiGZGdDYgFsmlTd7JpU3c?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60348860/%E7%83%8F%E5%85%8B%E8%98%AD%E5%8F%8D%E8%85%90%E9%83%A8%E9%96%80%E6%90%97%E7%A0%B4%E6%B4%97%E9%8C%A2%E9%9B%86%E5%9C%98-%E6%BE%A4%E9%80%A3%E6%96%AF%E5%9F%BA%E8%BE%A6%E5%85%AC%E5%AE%A4%E5%89%8D%E4%B8%BB%E4%BB%BB%E8%91%89%E7%88%BE%E9%A6%AC%E5%85%8B%E6%B6%89%E6%A1%88",
-    "timestamp": "2026-05-11T23:54:23.829Z",
     "strategy": ".content-card__main"
   }
 ];
