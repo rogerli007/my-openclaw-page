@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-13T15:35:39.058Z
+// Last updated: 2026-05-13T16:37:48.602Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "牛頭角奪命車禍｜車Cam直擊的士剷行人路　女途人近距離險捱撞",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260514/1131387721730756608860391.jpeg/tYciRQEwPk4ryGmBV1PxBcmGRIvP1PojUWvncFFr53A",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60349669/%E7%89%9B%E9%A0%AD%E8%A7%92%E5%A5%AA%E5%91%BD%E8%BB%8A%E7%A6%8D-%E8%BB%8Acam%E7%9B%B4%E6%93%8A%E7%9A%84%E5%A3%AB%E5%89%B7%E8%A1%8C%E4%BA%BA%E8%B7%AF-%E5%A5%B3%E9%80%94%E4%BA%BA%E8%BF%91%E8%B7%9D%E9%9B%A2%E9%9A%AA%E6%8D%B1%E6%92%9E",
+    "timestamp": "2026-05-13T16:37:48.602Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "陳輝陽澳門作品展陣容公開！陳奕迅容祖兒炎明熹合體演繹經典",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260429/1126303707718225920875201.jpeg/eQ2sH15z1hBfKk4y5NaqGO12UZXo4hvl512LaOddi2g?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60349250/%E6%B2%83%E4%BB%80%E7%8D%B2%E5%8F%83%E8%AD%B0%E9%99%A2%E9%80%9A%E9%81%8E%E5%87%BA%E4%BB%BB%E8%81%AF%E5%84%B2%E5%B1%80%E7%90%86%E4%BA%8B-%E4%B8%BB%E5%B8%AD%E4%BB%BB%E5%91%BD%E6%96%9913%E6%97%A5%E7%A2%BA%E8%AA%8D",
     "timestamp": "2026-05-12T17:03:50.929Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "何文田43歲女子燒炭亡　消息：死者為樂風集團創辦人周佩賢",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20210301/443092484017491968163095.jpeg/mpelPsQkU3W5VgA6oF0rcYuFXXyDmHhnwJBjj8CQY48?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60349235/%E4%BD%95%E6%96%87%E7%94%B043%E6%AD%B2%E5%A5%B3%E5%AD%90%E7%87%92%E7%82%AD%E4%BA%A1-%E6%B6%88%E6%81%AF-%E6%AD%BB%E8%80%85%E7%82%BA%E6%A8%82%E9%A2%A8%E9%9B%86%E5%9C%98%E5%89%B5%E8%BE%A6%E4%BA%BA%E5%91%A8%E4%BD%A9%E8%B3%A2",
-    "timestamp": "2026-05-12T16:12:05.755Z",
     "strategy": ".content-card__main"
   }
 ];
