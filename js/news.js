@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-13T16:37:48.602Z
+// Last updated: 2026-05-13T17:33:25.926Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "施紀賢釋放堅守崗位訊號　據報會在衞生大臣觸發黨内競選後回擊",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260508/1129530501086842880786459.jpeg/utY-sdNBDY-fJaR1vTrpJ0aXhSzmcFmAvzcspb83LKU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60349671/%E6%96%BD%E7%B4%80%E8%B3%A2%E9%87%8B%E6%94%BE%E5%A0%85%E5%AE%88%E5%B4%97%E4%BD%8D%E8%A8%8A%E8%99%9F-%E6%93%9A%E5%A0%B1%E6%9C%83%E5%9C%A8%E8%A1%9E%E7%94%9F%E5%A4%A7%E8%87%A3%E8%A7%B8%E7%99%BC%E9%BB%A8%E5%86%85%E7%AB%B6%E9%81%B8%E5%BE%8C%E5%9B%9E%E6%93%8A",
+    "timestamp": "2026-05-13T17:33:25.926Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "牛頭角奪命車禍｜車Cam直擊的士剷行人路　女途人近距離險捱撞",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260512/1131011731749867520076258.jpeg/0udoO2dO6KOKlLmDLaxLzWSium3XUh-Z4F8HiuBfB4o?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60349249/%E6%A8%82%E9%A2%A8%E5%91%A8%E4%BD%A9%E8%B3%A2%E8%BC%95%E7%94%9F-%E5%A4%A7%E8%A7%92%E5%92%80%E5%95%86%E5%BB%88%E5%B9%B4%E5%88%9D%E6%B7%AA%E9%8A%80%E4%B8%BB%E7%9B%A4-8%E9%A0%85-%E8%BC%95%E8%B3%87%E7%94%A2-%E6%B6%89%E7%99%BE%E5%84%84",
     "timestamp": "2026-05-12T17:52:38.647Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "沃什獲參議院通過出任聯儲局理事　主席任命料13日確認",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260429/1126303707718225920875201.jpeg/eQ2sH15z1hBfKk4y5NaqGO12UZXo4hvl512LaOddi2g?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60349250/%E6%B2%83%E4%BB%80%E7%8D%B2%E5%8F%83%E8%AD%B0%E9%99%A2%E9%80%9A%E9%81%8E%E5%87%BA%E4%BB%BB%E8%81%AF%E5%84%B2%E5%B1%80%E7%90%86%E4%BA%8B-%E4%B8%BB%E5%B8%AD%E4%BB%BB%E5%91%BD%E6%96%9913%E6%97%A5%E7%A2%BA%E8%AA%8D",
-    "timestamp": "2026-05-12T17:03:50.929Z",
     "strategy": ".content-card__main"
   }
 ];
