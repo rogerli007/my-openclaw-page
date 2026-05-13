@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-13T10:29:20.395Z
+// Last updated: 2026-05-13T12:20:50.716Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "重案解密｜梁靖琪繼承遺產鬧決裂　13年后再遇林子善風水輪流轉",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260513/1131197594345672704374208.jpeg/2m0yuzpJFSTPsBdPOSU7mzlycYFijTeLkb_UZ5G_1Gc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60349339/%E9%87%8D%E6%A1%88%E8%A7%A3%E5%AF%86-%E6%A2%81%E9%9D%96%E7%90%AA%E7%B9%BC%E6%89%BF%E9%81%BA%E7%94%A2%E9%AC%A7%E6%B1%BA%E8%A3%82-13%E5%B9%B4%E5%90%8E%E5%86%8D%E9%81%87%E6%9E%97%E5%AD%90%E5%96%84%E9%A2%A8%E6%B0%B4%E8%BC%AA%E6%B5%81%E8%BD%89",
+    "timestamp": "2026-05-13T12:20:50.716Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "彭博︰鄭氏家族不願失新世界控制權　黑石退出40億美元注資計劃",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260512/1130891866456199168683592.jpeg/uxvmewh2wWT1djGyR3jiV3KMjvfOTxbZHsp_oB7Kf6A?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60349087/%E9%9D%88%E6%84%9F%E4%BE%86%E8%87%AA%E9%B1%B7%E9%AD%9A-%E4%B8%AD%E5%9C%8B%E5%9C%98%E9%9A%8A%E7%A0%94%E7%99%BC%E5%87%BA%E6%96%B0%E5%9E%8B%E9%99%B6%E7%93%B7%E8%A3%9D%E7%94%B2-%E7%A8%B1%E5%8F%AF%E5%AF%A6%E7%8F%BE%E5%BD%88%E4%B8%B8%E5%81%8F%E8%BD%89",
     "timestamp": "2026-05-12T08:46:09.885Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "「可能沒有前提嗎？」　國民黨張榮恭談特朗普訪華：繞不開｢一中｣",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20221027/662420972686544896895374.jpeg/Pr_0CIyf1S3nUzUZXoXq1dy15NmU1mY2xf0Bbf_9AW0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8F%B0%E7%81%A3%E6%96%B0%E8%81%9E/60349066/%E5%8F%AF%E8%83%BD%E6%B2%92%E6%9C%89%E5%89%8D%E6%8F%90%E5%97%8E-%E5%9C%8B%E6%B0%91%E9%BB%A8%E5%BC%B5%E6%A6%AE%E6%81%AD%E8%AB%87%E7%89%B9%E6%9C%97%E6%99%AE%E8%A8%AA%E8%8F%AF-%E7%B9%9E%E4%B8%8D%E9%96%8B-%E4%B8%80%E4%B8%AD",
-    "timestamp": "2026-05-12T07:36:05.477Z",
     "strategy": ".content-card__main"
   }
 ];
