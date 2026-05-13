@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-13T17:33:25.926Z
+// Last updated: 2026-05-13T18:20:49.050Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "中電夥品質保證局推共建氣候韌性倡議平台　助企業管理氣候風險",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260514/1131398630054301696201569.jpeg/vl09ArI8e9xhHbyxrXvERPERkU9GKHkgqH4qwKh-KsA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60349672/%E4%B8%AD%E9%9B%BB%E5%A4%A5%E5%93%81%E8%B3%AA%E4%BF%9D%E8%AD%89%E5%B1%80%E6%8E%A8%E5%85%B1%E5%BB%BA%E6%B0%A3%E5%80%99%E9%9F%8C%E6%80%A7%E5%80%A1%E8%AD%B0%E5%B9%B3%E5%8F%B0-%E5%8A%A9%E4%BC%81%E6%A5%AD%E7%AE%A1%E7%90%86%E6%B0%A3%E5%80%99%E9%A2%A8%E9%9A%AA",
+    "timestamp": "2026-05-13T18:20:49.050Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "施紀賢釋放堅守崗位訊號　據報會在衞生大臣觸發黨内競選後回擊",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260513/1131052606043459584721359.jpeg/WHVTpbjw_uelUQG4AHpZXeifGQTjGepKDK8ZYwyvGWM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60349256/%E7%89%B9%E6%9C%97%E6%99%AE-%E6%9C%83%E8%88%87%E7%BF%92%E8%BF%91%E5%B9%B3%E9%95%B7%E8%AB%87%E4%BC%8A%E6%9C%97-%E7%BE%8E%E5%9C%8B%E5%B0%8D%E4%BC%8A%E6%9C%97%E8%A1%8C%E5%8B%95%E6%9C%89%E6%95%88%E6%95%85%E7%84%A1%E9%9C%80%E4%B8%AD%E5%9C%8B%E5%B9%AB%E5%8A%A9",
     "timestamp": "2026-05-12T18:49:44.589Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "樂風周佩賢輕生　大角咀商廈年初淪銀主盤　8項「輕資產」涉百億",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260512/1131011731749867520076258.jpeg/0udoO2dO6KOKlLmDLaxLzWSium3XUh-Z4F8HiuBfB4o?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60349249/%E6%A8%82%E9%A2%A8%E5%91%A8%E4%BD%A9%E8%B3%A2%E8%BC%95%E7%94%9F-%E5%A4%A7%E8%A7%92%E5%92%80%E5%95%86%E5%BB%88%E5%B9%B4%E5%88%9D%E6%B7%AA%E9%8A%80%E4%B8%BB%E7%9B%A4-8%E9%A0%85-%E8%BC%95%E8%B3%87%E7%94%A2-%E6%B6%89%E7%99%BE%E5%84%84",
-    "timestamp": "2026-05-12T17:52:38.647Z",
     "strategy": ".content-card__main"
   }
 ];
