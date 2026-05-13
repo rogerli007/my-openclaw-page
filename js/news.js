@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-12T23:43:56.944Z
+// Last updated: 2026-05-13T00:14:09.029Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "內地多地加大存量房收購力度　努力穩定房地產市場",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260305/1106173657509531648465278.jpeg/w5_sg5PefZpcdKPVY2GbfRIgxzTNheiECyw5JgssOSY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60349273/%E5%85%A7%E5%9C%B0%E5%A4%9A%E5%9C%B0%E5%8A%A0%E5%A4%A7%E5%AD%98%E9%87%8F%E6%88%BF%E6%94%B6%E8%B3%BC%E5%8A%9B%E5%BA%A6-%E5%8A%AA%E5%8A%9B%E7%A9%A9%E5%AE%9A%E6%88%BF%E5%9C%B0%E7%94%A2%E5%B8%82%E5%A0%B4",
+    "timestamp": "2026-05-13T00:14:09.029Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "特朗普訪華闊別九年　形式主義還是世紀交易？｜Jack Talk・去片",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20240311/843855001670389760013586.jpeg/HXXXOKGCExNngxxn7cR76aRiGZGdDYgFsmlTd7JpU3c?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60348860/%E7%83%8F%E5%85%8B%E8%98%AD%E5%8F%8D%E8%85%90%E9%83%A8%E9%96%80%E6%90%97%E7%A0%B4%E6%B4%97%E9%8C%A2%E9%9B%86%E5%9C%98-%E6%BE%A4%E9%80%A3%E6%96%AF%E5%9F%BA%E8%BE%A6%E5%85%AC%E5%AE%A4%E5%89%8D%E4%B8%BB%E4%BB%BB%E8%91%89%E7%88%BE%E9%A6%AC%E5%85%8B%E6%B6%89%E6%A1%88",
     "timestamp": "2026-05-11T23:54:23.829Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "馬國3中學生校內疑觸電　16歲男生當場身亡　另1男生重傷留醫ICU",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260510/1129978808900784128576830.png/fOQK6kYC_Qj0ltrPbkdlKvoTUx0NmCzTfKOa33yjmt8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E8%A9%B1%E9%A1%8C/60348307/%E9%A6%AC%E5%9C%8B3%E4%B8%AD%E5%AD%B8%E7%94%9F%E6%A0%A1%E5%85%A7%E7%96%91%E8%A7%B8%E9%9B%BB-16%E6%AD%B2%E7%94%B7%E7%94%9F%E7%95%B6%E5%A0%B4%E8%BA%AB%E4%BA%A1-%E5%8F%A61%E7%94%B7%E7%94%9F%E9%87%8D%E5%82%B7%E7%95%99%E9%86%ABicu",
-    "timestamp": "2026-05-11T23:29:05.384Z",
     "strategy": ".content-card__main"
   }
 ];
