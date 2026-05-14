@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-14T09:43:14.050Z
+// Last updated: 2026-05-14T10:37:52.639Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "習特會｜鄭麗文曝先訪北京見習近平原因：不願台灣淪大國博弈籌碼",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260514/1131663629716819968629038.jpeg/6Wtmazq-gGTfv6bQfxJPRokkEY8EULsRHijhJR4o4SU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8F%B0%E7%81%A3%E6%96%B0%E8%81%9E/60349783/%E7%BF%92%E7%89%B9%E6%9C%83-%E9%84%AD%E9%BA%97%E6%96%87%E6%9B%9D%E5%85%88%E8%A8%AA%E5%8C%97%E4%BA%AC%E8%A6%8B%E7%BF%92%E8%BF%91%E5%B9%B3%E5%8E%9F%E5%9B%A0-%E4%B8%8D%E9%A1%98%E5%8F%B0%E7%81%A3%E6%B7%AA%E5%A4%A7%E5%9C%8B%E5%8D%9A%E5%BC%88%E7%B1%8C%E7%A2%BC",
+    "timestamp": "2026-05-14T10:37:52.639Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "ASUS ExpertBook Ultra 香港登場｜0.99kg極致輕薄＋頂級 AI 效能",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20241204/940968280066232320204163.jpeg/TBwv72maPtiS8tevWeB5OKJI3jfKltIDNFOxdDRTsXQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60349603/%E5%BD%AD%E5%8D%9A-%E9%84%AD%E6%B0%8F%E5%AE%B6%E6%97%8F%E4%B8%8D%E9%A1%98%E5%A4%B1%E6%96%B0%E4%B8%96%E7%95%8C%E6%8E%A7%E5%88%B6%E6%AC%8A-%E9%BB%91%E7%9F%B3%E9%80%80%E5%87%BA40%E5%84%84%E7%BE%8E%E5%85%83%E6%B3%A8%E8%B3%87%E8%A8%88%E5%8A%83",
     "timestamp": "2026-05-13T10:29:20.395Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "廣西梧州巴士墮橋3死5傷　排除司機酒駕、毒駕肇事嫌疑",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260513/1131285048402644992023946.png/UA1dM11-umpVkARot3PVyPjWwXYiZdRSFEKlXBRCpVw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60349573/%E5%BB%A3%E8%A5%BF%E6%A2%A7%E5%B7%9E%E5%B7%B4%E5%A3%AB%E5%A2%AE%E6%A9%8B3%E6%AD%BB5%E5%82%B7-%E6%8E%92%E9%99%A4%E5%8F%B8%E6%A9%9F%E9%85%92%E9%A7%95-%E6%AF%92%E9%A7%95%E8%82%87%E4%BA%8B%E5%AB%8C%E7%96%91",
-    "timestamp": "2026-05-13T09:34:08.808Z",
     "strategy": ".content-card__main"
   }
 ];
