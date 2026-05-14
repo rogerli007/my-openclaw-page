@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-13T23:42:59.605Z
+// Last updated: 2026-05-14T00:16:55.977Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "居屋女友是賊！男子熟睡遭人臉別轉帳21次　戶口27萬人民幣被清空",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260511/1130569631224827904379451.png/hfHMk_IEDQS9XNb9UazCx-vzShOl4NdwfztVk387VZM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60348534/%E5%B1%85%E5%B1%8B%E5%A5%B3%E5%8F%8B%E6%98%AF%E8%B3%8A-%E7%94%B7%E5%AD%90%E7%86%9F%E7%9D%A1%E9%81%AD%E4%BA%BA%E8%87%89%E5%88%A5%E8%BD%89%E5%B8%B321%E6%AC%A1-%E6%88%B6%E5%8F%A327%E8%90%AC%E4%BA%BA%E6%B0%91%E5%B9%A3%E8%A2%AB%E6%B8%85%E7%A9%BA",
+    "timestamp": "2026-05-14T00:16:55.977Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "周大福創建16億人幣售長沙瀏陽高速　上海國資委接貨",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260512/1130879170100858880671283.jpeg/oRpcxRmCLAMyTWsHpFUePiSzqZd437qlO2KJaztiiWs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%9C%8B%E9%9A%9B%E5%88%86%E6%9E%90/60348713/%E7%89%B9%E6%9C%97%E6%99%AE%E8%A8%AA%E8%8F%AF%E9%97%8A%E5%88%A5%E4%B9%9D%E5%B9%B4-%E5%BD%A2%E5%BC%8F%E4%B8%BB%E7%BE%A9%E9%82%84%E6%98%AF%E4%B8%96%E7%B4%80%E4%BA%A4%E6%98%93-jack-talk-%E5%8E%BB%E7%89%87",
     "timestamp": "2026-05-12T23:43:56.944Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "校園天地｜基督教粉嶺神召會小學　「活演小畫家」視藝作品展",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260506/1128736675267088384068431.png/6zgCLwQN21g070Ce1dly-Z_ykIYMEd7MPjdqOz43ajs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E4%B8%AD%E5%B0%8F%E5%AD%B8%E6%A0%A1%E5%9C%92/60347202/%E6%A0%A1%E5%9C%92%E5%A4%A9%E5%9C%B0-%E5%9F%BA%E7%9D%A3%E6%95%99%E7%B2%89%E5%B6%BA%E7%A5%9E%E5%8F%AC%E6%9C%83%E5%B0%8F%E5%AD%B8-%E6%B4%BB%E6%BC%94%E5%B0%8F%E7%95%AB%E5%AE%B6-%E8%A6%96%E8%97%9D%E4%BD%9C%E5%93%81%E5%B1%95",
-    "timestamp": "2026-05-12T23:15:36.441Z",
     "strategy": ".content-card__main"
   }
 ];
