@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-14T01:21:14.697Z
+// Last updated: 2026-05-14T03:52:11.114Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "習近平晤特朗普：貿易戰沒有贏家　中美經貿關係的本質是互利共贏",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260514/1131544402926243840967581.jpeg/Or81QlACkSwJ4Q9-IvRAItTpuD0MYOzI60IAjOtCAIw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60349787/%E7%BF%92%E8%BF%91%E5%B9%B3%E6%99%A4%E7%89%B9%E6%9C%97%E6%99%AE-%E8%B2%BF%E6%98%93%E6%88%B0%E6%B2%92%E6%9C%89%E8%B4%8F%E5%AE%B6-%E4%B8%AD%E7%BE%8E%E7%B6%93%E8%B2%BF%E9%97%9C%E4%BF%82%E7%9A%84%E6%9C%AC%E8%B3%AA%E6%98%AF%E4%BA%92%E5%88%A9%E5%85%B1%E8%B4%8F",
+    "timestamp": "2026-05-14T03:52:11.114Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "夫妻掃墓後接連病倒！高燒無力、放屁即失禁　查AI疑染超強病毒",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260513/1131156219008913408260893.png/C1HM7wnsfsX9Pqp_YDIdlYuOo3otFtAtWJokE1iaJBM?v=w1920r16_9",
     "url": "https://www.hk01.com/18%E5%8D%80%E6%96%B0%E8%81%9E/60349282/%E9%BE%8D%E7%BF%94%E9%81%93%E6%9D%B1%E8%A1%8C%E9%8B%AA%E6%96%B0%E5%9E%8B%E7%80%9D%E9%9D%927%E6%9C%88%E4%B8%AD%E8%B5%B7%E5%8B%95-%E8%8D%B7%E9%87%8C%E6%B4%BB%E5%BB%A3%E5%A0%B4%E8%87%B3%E6%96%A7%E5%B1%B1%E9%81%93%E6%B3%B3%E6%B1%A0%E6%AE%B5%E5%85%88%E8%A1%8C",
     "timestamp": "2026-05-13T01:19:15.778Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "內地多地加大存量房收購力度　努力穩定房地產市場",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260305/1106173657509531648465278.jpeg/w5_sg5PefZpcdKPVY2GbfRIgxzTNheiECyw5JgssOSY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60349273/%E5%85%A7%E5%9C%B0%E5%A4%9A%E5%9C%B0%E5%8A%A0%E5%A4%A7%E5%AD%98%E9%87%8F%E6%88%BF%E6%94%B6%E8%B3%BC%E5%8A%9B%E5%BA%A6-%E5%8A%AA%E5%8A%9B%E7%A9%A9%E5%AE%9A%E6%88%BF%E5%9C%B0%E7%94%A2%E5%B8%82%E5%A0%B4",
-    "timestamp": "2026-05-13T00:14:09.029Z",
     "strategy": ".content-card__main"
   }
 ];
