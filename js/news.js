@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-14T16:31:15.449Z
+// Last updated: 2026-05-14T18:59:59.871Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "英擬國有化英國鋼鐵公司　中方促保障華企合法權益",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250412/987714922190213120059318.jpeg/jFuq44cEv5pO5atXnTwFZg1qfOFZ7RRH0VI7y9FSO8s?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60350095/%E8%8B%B1%E6%93%AC%E5%9C%8B%E6%9C%89%E5%8C%96%E8%8B%B1%E5%9C%8B%E9%8B%BC%E9%90%B5%E5%85%AC%E5%8F%B8-%E4%B8%AD%E6%96%B9%E4%BF%83%E4%BF%9D%E9%9A%9C%E8%8F%AF%E4%BC%81%E5%90%88%E6%B3%95%E6%AC%8A%E7%9B%8A",
+    "timestamp": "2026-05-14T18:59:59.871Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "跨部門銅鑼灣及灣仔掃黃　共拘9名女子",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260508/1129530501086842880786459.jpeg/utY-sdNBDY-fJaR1vTrpJ0aXhSzmcFmAvzcspb83LKU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60349671/%E6%96%BD%E7%B4%80%E8%B3%A2%E9%87%8B%E6%94%BE%E5%A0%85%E5%AE%88%E5%B4%97%E4%BD%8D%E8%A8%8A%E8%99%9F-%E6%93%9A%E5%A0%B1%E6%9C%83%E5%9C%A8%E8%A1%9E%E7%94%9F%E5%A4%A7%E8%87%A3%E8%A7%B8%E7%99%BC%E9%BB%A8%E5%86%85%E7%AB%B6%E9%81%B8%E5%BE%8C%E5%9B%9E%E6%93%8A",
     "timestamp": "2026-05-13T17:33:25.926Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "牛頭角奪命車禍｜車Cam直擊的士剷行人路　女途人近距離險捱撞",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260514/1131387721730756608860391.jpeg/tYciRQEwPk4ryGmBV1PxBcmGRIvP1PojUWvncFFr53A",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60349669/%E7%89%9B%E9%A0%AD%E8%A7%92%E5%A5%AA%E5%91%BD%E8%BB%8A%E7%A6%8D-%E8%BB%8Acam%E7%9B%B4%E6%93%8A%E7%9A%84%E5%A3%AB%E5%89%B7%E8%A1%8C%E4%BA%BA%E8%B7%AF-%E5%A5%B3%E9%80%94%E4%BA%BA%E8%BF%91%E8%B7%9D%E9%9B%A2%E9%9A%AA%E6%8D%B1%E6%92%9E",
-    "timestamp": "2026-05-13T16:37:48.602Z",
     "strategy": ".content-card__main"
   }
 ];
