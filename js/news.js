@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-14T21:38:51.900Z
+// Last updated: 2026-05-14T22:15:24.524Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美國7歲女童遭性侵殺害　生前哭喊：我要媽媽　FedEx前司機判死刑",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260513/1131299494357372928569103.png/bKFmVeSiKquvlmGDIFPDNoxC30u9XR_kwhg0ZMIYNGQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60348754/%E7%BE%8E%E5%9C%8B7%E6%AD%B2%E5%A5%B3%E7%AB%A5%E9%81%AD%E6%80%A7%E4%BE%B5%E6%AE%BA%E5%AE%B3-%E7%94%9F%E5%89%8D%E5%93%AD%E5%96%8A-%E6%88%91%E8%A6%81%E5%AA%BD%E5%AA%BD-fedex%E5%89%8D%E5%8F%B8%E6%A9%9F%E5%88%A4%E6%AD%BB%E5%88%91",
+    "timestamp": "2026-05-14T22:15:24.524Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "特朗普集團土豪金T1手機終發貨　公布至今近一年多次延遲",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260426/1125214448441626624235906.jpeg/hev6SiBh9I9jAPhgMToOwN4vnPYCZcYcoR5gRKEeYEQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60349680/%E4%BC%8A%E6%9C%97%E6%88%B0%E7%88%AD-%E5%85%A7%E5%A1%94%E5%B0%BC%E4%BA%9E%E8%83%A1%E6%96%BC%E6%88%B0%E4%BA%8B%E6%9C%9F%E9%96%93%E6%9B%BE%E7%A7%98%E5%AF%86%E5%88%B0%E8%A8%AA%E9%98%BF%E8%81%AF%E9%85%8B",
     "timestamp": "2026-05-13T20:00:53.771Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美國參議院確認沃什出任聯儲局主席　將接替鮑威爾開啟下一個任期",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260514/1131431848476413952531846.jpeg/7IwgLPg75dOtqtGZptY9pV06CTwJUOrK_BKN5vwSjeY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60349679/%E7%BE%8E%E5%9C%8B%E5%8F%83%E8%AD%B0%E9%99%A2%E7%A2%BA%E8%AA%8D%E6%B2%83%E4%BB%80%E5%87%BA%E4%BB%BB%E8%81%AF%E5%84%B2%E5%B1%80%E4%B8%BB%E5%B8%AD-%E5%B0%87%E6%8E%A5%E6%9B%BF%E9%AE%91%E5%A8%81%E7%88%BE%E9%96%8B%E5%95%9F%E4%B8%8B%E4%B8%80%E5%80%8B%E4%BB%BB%E6%9C%9F",
-    "timestamp": "2026-05-13T19:15:58.124Z",
     "strategy": ".content-card__main"
   }
 ];
