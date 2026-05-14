@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-14T22:42:57.178Z
+// Last updated: 2026-05-14T23:12:47.061Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "東涌裕東苑單位冷氣機起火　消防救熄　火場發現一具女性遺體",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260515/1131852421044113408130657.jpeg/Jr4wL3_N0GVKB_wbkMwaoqO6gZ6uwKPLiHE1QIhxNUA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60350107/%E6%9D%B1%E6%B6%8C%E8%A3%95%E6%9D%B1%E8%8B%91%E5%96%AE%E4%BD%8D%E5%86%B7%E6%B0%A3%E6%A9%9F%E8%B5%B7%E7%81%AB-%E6%B6%88%E9%98%B2%E6%95%91%E7%86%84-%E7%81%AB%E5%A0%B4%E7%99%BC%E7%8F%BE%E4%B8%80%E5%85%B7%E5%A5%B3%E6%80%A7%E9%81%BA%E9%AB%94",
+    "timestamp": "2026-05-14T23:12:47.061Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "91歲羅蘭離巢後近況曝光　常與「TVB御用奸角」聚會感情更勝修哥",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260513/1131366106544476160054296.jpeg/Lq4WSha6fO2RynpKm4QjmCm0lWPQoi1-q9zdhKvc3YQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E4%B8%AD%E5%B0%8F%E5%AD%B8%E6%A0%A1%E5%9C%92/60346794/%E4%B8%AD%E4%B8%89%E5%8D%87%E9%AB%98%E4%B8%AD%E9%81%B8%E7%A7%91-%E9%82%8A%E7%A7%91%E6%B4%BE%E6%98%9F%E6%9C%80%E5%A4%9A-5-%E7%8E%87%E6%9C%80%E9%AB%98-%E5%8D%B3%E7%9D%87dse%E7%AD%89%E7%B4%9A%E5%88%86%E4%BD%88%E6%95%B8%E5%AD%97",
     "timestamp": "2026-05-13T23:14:36.890Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "伊朗戰爭｜內塔尼亞胡於戰事期間曾秘密到訪阿聯酋",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260426/1125214448441626624235906.jpeg/hev6SiBh9I9jAPhgMToOwN4vnPYCZcYcoR5gRKEeYEQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60349680/%E4%BC%8A%E6%9C%97%E6%88%B0%E7%88%AD-%E5%85%A7%E5%A1%94%E5%B0%BC%E4%BA%9E%E8%83%A1%E6%96%BC%E6%88%B0%E4%BA%8B%E6%9C%9F%E9%96%93%E6%9B%BE%E7%A7%98%E5%AF%86%E5%88%B0%E8%A8%AA%E9%98%BF%E8%81%AF%E9%85%8B",
-    "timestamp": "2026-05-13T20:46:41.120Z",
     "strategy": ".content-card__main"
   }
 ];
