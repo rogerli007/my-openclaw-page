@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-14T00:16:55.977Z
+// Last updated: 2026-05-14T01:21:14.697Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "夫妻掃墓後接連病倒！高燒無力、放屁即失禁　查AI疑染超強病毒",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260511/1130507339846127616203481.png/4XASOUDFaqBn3fHmyhWapUi7g_ZaxcZmwvXA6ML1wOg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60340768/%E5%A4%AB%E5%A6%BB%E6%8E%83%E5%A2%93%E5%BE%8C%E6%8E%A5%E9%80%A3%E7%97%85%E5%80%92-%E9%AB%98%E7%87%92%E7%84%A1%E5%8A%9B-%E6%94%BE%E5%B1%81%E5%8D%B3%E5%A4%B1%E7%A6%81-%E6%9F%A5ai%E7%96%91%E6%9F%93%E8%B6%85%E5%BC%B7%E7%97%85%E6%AF%92",
+    "timestamp": "2026-05-14T01:21:14.697Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "居屋女友是賊！男子熟睡遭人臉別轉帳21次　戶口27萬人民幣被清空",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260305/1106173657509531648465278.jpeg/w5_sg5PefZpcdKPVY2GbfRIgxzTNheiECyw5JgssOSY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60349273/%E5%85%A7%E5%9C%B0%E5%A4%9A%E5%9C%B0%E5%8A%A0%E5%A4%A7%E5%AD%98%E9%87%8F%E6%88%BF%E6%94%B6%E8%B3%BC%E5%8A%9B%E5%BA%A6-%E5%8A%AA%E5%8A%9B%E7%A9%A9%E5%AE%9A%E6%88%BF%E5%9C%B0%E7%94%A2%E5%B8%82%E5%A0%B4",
     "timestamp": "2026-05-13T00:14:09.029Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普訪華闊別九年　形式主義還是世紀交易？｜Jack Talk・去片",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260512/1130879170100858880671283.jpeg/oRpcxRmCLAMyTWsHpFUePiSzqZd437qlO2KJaztiiWs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%9C%8B%E9%9A%9B%E5%88%86%E6%9E%90/60348713/%E7%89%B9%E6%9C%97%E6%99%AE%E8%A8%AA%E8%8F%AF%E9%97%8A%E5%88%A5%E4%B9%9D%E5%B9%B4-%E5%BD%A2%E5%BC%8F%E4%B8%BB%E7%BE%A9%E9%82%84%E6%98%AF%E4%B8%96%E7%B4%80%E4%BA%A4%E6%98%93-jack-talk-%E5%8E%BB%E7%89%87",
-    "timestamp": "2026-05-12T23:43:56.944Z",
     "strategy": ".content-card__main"
   }
 ];
