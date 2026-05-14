@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-14T10:37:52.639Z
+// Last updated: 2026-05-14T11:30:39.985Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "谷薇麗設靈 ｜田啟文現身悼念：佢提攜後輩不容置疑",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260514/1131673573446914048938105.jpeg/7dYJ3S9B0ZxajbeQmvHnZofGAdGfQcvkcVCZg3FQmYM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60350039/%E8%B0%B7%E8%96%87%E9%BA%97%E8%A8%AD%E9%9D%88-%E7%94%B0%E5%95%9F%E6%96%87%E7%8F%BE%E8%BA%AB%E6%82%BC%E5%BF%B5-%E4%BD%A2%E6%8F%90%E6%94%9C%E5%BE%8C%E8%BC%A9%E4%B8%8D%E5%AE%B9%E7%BD%AE%E7%96%91",
+    "timestamp": "2026-05-14T11:30:39.985Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "習特會｜鄭麗文曝先訪北京見習近平原因：不願台灣淪大國博弈籌碼",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260513/1131197594345672704374208.jpeg/2m0yuzpJFSTPsBdPOSU7mzlycYFijTeLkb_UZ5G_1Gc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60349339/%E9%87%8D%E6%A1%88%E8%A7%A3%E5%AF%86-%E6%A2%81%E9%9D%96%E7%90%AA%E7%B9%BC%E6%89%BF%E9%81%BA%E7%94%A2%E9%AC%A7%E6%B1%BA%E8%A3%82-13%E5%B9%B4%E5%90%8E%E5%86%8D%E9%81%87%E6%9E%97%E5%AD%90%E5%96%84%E9%A2%A8%E6%B0%B4%E8%BC%AA%E6%B5%81%E8%BD%89",
     "timestamp": "2026-05-13T12:20:50.716Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "彭博︰鄭氏家族不願失新世界控制權　黑石退出40億美元注資計劃",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20241204/940968280066232320204163.jpeg/TBwv72maPtiS8tevWeB5OKJI3jfKltIDNFOxdDRTsXQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60349603/%E5%BD%AD%E5%8D%9A-%E9%84%AD%E6%B0%8F%E5%AE%B6%E6%97%8F%E4%B8%8D%E9%A1%98%E5%A4%B1%E6%96%B0%E4%B8%96%E7%95%8C%E6%8E%A7%E5%88%B6%E6%AC%8A-%E9%BB%91%E7%9F%B3%E9%80%80%E5%87%BA40%E5%84%84%E7%BE%8E%E5%85%83%E6%B3%A8%E8%B3%87%E8%A8%88%E5%8A%83",
-    "timestamp": "2026-05-13T10:29:20.395Z",
     "strategy": ".content-card__main"
   }
 ];
