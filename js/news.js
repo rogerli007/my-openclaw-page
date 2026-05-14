@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-14T15:37:55.394Z
+// Last updated: 2026-05-14T16:31:15.449Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "跨部門銅鑼灣及灣仔掃黃　共拘9名女子",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260515/1131752491457712128842567.jpeg/lhBt02BPjBvzBDcLDvVM_lcOz9JJt7GHmn6o5Jp-qOQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60350087/%E8%B7%A8%E9%83%A8%E9%96%80%E9%8A%85%E9%91%BC%E7%81%A3%E5%8F%8A%E7%81%A3%E4%BB%94%E6%8E%83%E9%BB%83-%E5%85%B1%E6%8B%989%E5%90%8D%E5%A5%B3%E5%AD%90",
+    "timestamp": "2026-05-14T16:31:15.449Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "長青公路車禍｜順豐司機被捕　撞斃青馬男職員　5傷包括4韓國遊客",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260514/1131387721730756608860391.jpeg/tYciRQEwPk4ryGmBV1PxBcmGRIvP1PojUWvncFFr53A",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60349669/%E7%89%9B%E9%A0%AD%E8%A7%92%E5%A5%AA%E5%91%BD%E8%BB%8A%E7%A6%8D-%E8%BB%8Acam%E7%9B%B4%E6%93%8A%E7%9A%84%E5%A3%AB%E5%89%B7%E8%A1%8C%E4%BA%BA%E8%B7%AF-%E5%A5%B3%E9%80%94%E4%BA%BA%E8%BF%91%E8%B7%9D%E9%9B%A2%E9%9A%AA%E6%8D%B1%E6%92%9E",
     "timestamp": "2026-05-13T16:37:48.602Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "陳輝陽澳門作品展陣容公開！陳奕迅容祖兒炎明熹合體演繹經典",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260513/1131234766616530944081496.jpeg/C5sayhgoYLy-EPxvxamO3ZTBw8L8bquX613lEetd5RE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60349425/%E9%99%B3%E8%BC%9D%E9%99%BD%E6%BE%B3%E9%96%80%E4%BD%9C%E5%93%81%E5%B1%95%E9%99%A3%E5%AE%B9%E5%85%AC%E9%96%8B-%E9%99%B3%E5%A5%95%E8%BF%85%E5%AE%B9%E7%A5%96%E5%85%92%E7%82%8E%E6%98%8E%E7%86%B9%E5%90%88%E9%AB%94%E6%BC%94%E7%B9%B9%E7%B6%93%E5%85%B8",
-    "timestamp": "2026-05-13T15:35:39.058Z",
     "strategy": ".content-card__main"
   }
 ];
