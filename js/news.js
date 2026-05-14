@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-14T11:30:39.985Z
+// Last updated: 2026-05-14T12:13:50.993Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "牛池灣建行人通道接駁彩雲邨及彩虹站彩虹東站　發展局料惠10萬人",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260514/1131655816785432576570396.png/41s2PQGBxSL2D3Qaze2XiEULsc2mawbVt1S_6rdUv-o?v=w1920r16_9",
+    "url": "https://www.hk01.com/18%E5%8D%80%E6%96%B0%E8%81%9E/60350015/%E7%89%9B%E6%B1%A0%E7%81%A3%E5%BB%BA%E8%A1%8C%E4%BA%BA%E9%80%9A%E9%81%93%E6%8E%A5%E9%A7%81%E5%BD%A9%E9%9B%B2%E9%82%A8%E5%8F%8A%E5%BD%A9%E8%99%B9%E7%AB%99%E5%BD%A9%E8%99%B9%E6%9D%B1%E7%AB%99-%E7%99%BC%E5%B1%95%E5%B1%80%E6%96%99%E6%83%A010%E8%90%AC%E4%BA%BA",
+    "timestamp": "2026-05-14T12:13:50.993Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "谷薇麗設靈 ｜田啟文現身悼念：佢提攜後輩不容置疑",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260513/1131351860603523072816930.jpeg/bLoyZTF5JO7FTY77faVACnAGwnU4qalbj5LhG4-S4Rs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60349650/%E4%BB%8A%E5%B9%B4%E6%9C%80%E9%AB%98%E5%88%86%E5%9C%8B%E7%94%A2%E7%89%87-%E7%B5%A6%E9%98%BF%E5%AC%A4%E7%9A%84%E6%83%85%E6%9B%B8-%E8%B7%A8%E6%B5%B7%E5%B0%8B%E8%A6%AA-%E6%94%B6%E9%9B%86%E8%8F%AF%E5%83%91%E5%9B%9B%E6%B5%B7%E5%AE%B6%E6%9B%B8",
     "timestamp": "2026-05-13T14:27:31.152Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "重案解密｜梁靖琪繼承遺產鬧決裂　13年后再遇林子善風水輪流轉",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260513/1131197594345672704374208.jpeg/2m0yuzpJFSTPsBdPOSU7mzlycYFijTeLkb_UZ5G_1Gc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60349339/%E9%87%8D%E6%A1%88%E8%A7%A3%E5%AF%86-%E6%A2%81%E9%9D%96%E7%90%AA%E7%B9%BC%E6%89%BF%E9%81%BA%E7%94%A2%E9%AC%A7%E6%B1%BA%E8%A3%82-13%E5%B9%B4%E5%90%8E%E5%86%8D%E9%81%87%E6%9E%97%E5%AD%90%E5%96%84%E9%A2%A8%E6%B0%B4%E8%BC%AA%E6%B5%81%E8%BD%89",
-    "timestamp": "2026-05-13T12:20:50.716Z",
     "strategy": ".content-card__main"
   }
 ];
