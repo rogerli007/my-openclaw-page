@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-14T06:39:58.944Z
+// Last updated: 2026-05-14T08:45:57.025Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "王維基親解打減價戰原因　警告若剩餘一間大型超市所有港人成輸家",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20240405/852991141992206336932058.jpeg/mLlkHqn3zaY5guTR1YY9FWgyJChSqDfXob1IPIS9SDw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60349951/%E7%8E%8B%E7%B6%AD%E5%9F%BA%E8%A6%AA%E8%A7%A3%E6%89%93%E6%B8%9B%E5%83%B9%E6%88%B0%E5%8E%9F%E5%9B%A0-%E8%AD%A6%E5%91%8A%E8%8B%A5%E5%89%A9%E9%A4%98%E4%B8%80%E9%96%93%E5%A4%A7%E5%9E%8B%E8%B6%85%E5%B8%82%E6%89%80%E6%9C%89%E6%B8%AF%E4%BA%BA%E6%88%90%E8%BC%B8%E5%AE%B6",
+    "timestamp": "2026-05-14T08:45:57.025Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "荃灣單位淪為毒窟　警拘17男女　檢$5.5萬可卡因、海洛英等毒品",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260512/1130958954516451328957134.jpeg/9A3yQI2QAF07P-fbhmma5WyjXhxz2Lo_7-SMXsrkjF4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60349490/%E6%87%B2%E6%95%99%E5%93%A1%E6%B6%89%E6%8D%85%E7%A9%BF%E5%9B%9A%E5%8F%8B%E7%9B%B4%E8%85%B8-%E6%8E%A7%E6%96%B9%E6%8C%87%E5%A4%9A%E4%BA%BA%E6%93%92%E6%AC%84%E7%9C%8B%E8%A5%B2%E6%93%8A-%E8%A2%AB%E5%91%8A%E5%90%A6%E8%AA%8D%E5%AE%B9%E8%A8%B1%E7%A7%81%E5%88%91",
     "timestamp": "2026-05-13T07:28:14.480Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "專家示警：經濟史上最慘烈崩盤近在咫尺　全球股市迎最後狂歡？",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260513/1131233432274210816265041.jpeg/QdjfzEoTp5LXk2yBvKuLQ2AtTl6L2VgZ8_FSWPPxUlg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60349431/%E5%B0%88%E5%AE%B6%E7%A4%BA%E8%AD%A6-%E7%B6%93%E6%BF%9F%E5%8F%B2%E4%B8%8A%E6%9C%80%E6%85%98%E7%83%88%E5%B4%A9%E7%9B%A4%E8%BF%91%E5%9C%A8%E5%92%AB%E5%B0%BA-%E5%85%A8%E7%90%83%E8%82%A1%E5%B8%82%E8%BF%8E%E6%9C%80%E5%BE%8C%E7%8B%82%E6%AD%A1",
-    "timestamp": "2026-05-13T06:16:42.943Z",
     "strategy": ".content-card__main"
   }
 ];
