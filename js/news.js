@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-14T18:59:59.871Z
+// Last updated: 2026-05-14T20:23:10.399Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "特朗普訪華｜魯比奧：美國對台政策不變　習特會曾提及黎智英案",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260515/1131801161817395200504698.jpeg/vurRA7KpMvk8jLWLDmU3UZ06VU2R---y1kOqddZDqnU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60350100/%E7%89%B9%E6%9C%97%E6%99%AE%E8%A8%AA%E8%8F%AF-%E9%AD%AF%E6%AF%94%E5%A5%A7-%E7%BE%8E%E5%9C%8B%E5%B0%8D%E5%8F%B0%E6%94%BF%E7%AD%96%E4%B8%8D%E8%AE%8A-%E7%BF%92%E7%89%B9%E6%9C%83%E6%9B%BE%E6%8F%90%E5%8F%8A%E9%BB%8E%E6%99%BA%E8%8B%B1%E6%A1%88",
+    "timestamp": "2026-05-14T20:23:10.399Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "英擬國有化英國鋼鐵公司　中方促保障華企合法權益",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260514/1131398630054301696201569.jpeg/vl09ArI8e9xhHbyxrXvERPERkU9GKHkgqH4qwKh-KsA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60349672/%E4%B8%AD%E9%9B%BB%E5%A4%A5%E5%93%81%E8%B3%AA%E4%BF%9D%E8%AD%89%E5%B1%80%E6%8E%A8%E5%85%B1%E5%BB%BA%E6%B0%A3%E5%80%99%E9%9F%8C%E6%80%A7%E5%80%A1%E8%AD%B0%E5%B9%B3%E5%8F%B0-%E5%8A%A9%E4%BC%81%E6%A5%AD%E7%AE%A1%E7%90%86%E6%B0%A3%E5%80%99%E9%A2%A8%E9%9A%AA",
     "timestamp": "2026-05-13T18:20:49.050Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "施紀賢釋放堅守崗位訊號　據報會在衞生大臣觸發黨内競選後回擊",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260508/1129530501086842880786459.jpeg/utY-sdNBDY-fJaR1vTrpJ0aXhSzmcFmAvzcspb83LKU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60349671/%E6%96%BD%E7%B4%80%E8%B3%A2%E9%87%8B%E6%94%BE%E5%A0%85%E5%AE%88%E5%B4%97%E4%BD%8D%E8%A8%8A%E8%99%9F-%E6%93%9A%E5%A0%B1%E6%9C%83%E5%9C%A8%E8%A1%9E%E7%94%9F%E5%A4%A7%E8%87%A3%E8%A7%B8%E7%99%BC%E9%BB%A8%E5%86%85%E7%AB%B6%E9%81%B8%E5%BE%8C%E5%9B%9E%E6%93%8A",
-    "timestamp": "2026-05-13T17:33:25.926Z",
     "strategy": ".content-card__main"
   }
 ];
