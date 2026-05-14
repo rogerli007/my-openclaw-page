@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-14T08:45:57.025Z
+// Last updated: 2026-05-14T09:43:14.050Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "ASUS ExpertBook Ultra 香港登場｜0.99kg極致輕薄＋頂級 AI 效能",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260514/1131636113149005824319054.png/28Hivesxf_psDs8mIFbB9R-1LPSubrImJg7D2SYOw9k?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60349886/asus-expertbook-ultra-%E9%A6%99%E6%B8%AF%E7%99%BB%E5%A0%B4-0-99kg%E6%A5%B5%E8%87%B4%E8%BC%95%E8%96%84-%E9%A0%82%E7%B4%9A-ai-%E6%95%88%E8%83%BD",
+    "timestamp": "2026-05-14T09:43:14.050Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "王維基親解打減價戰原因　警告若剩餘一間大型超市所有港人成輸家",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260513/1131285048402644992023946.png/UA1dM11-umpVkARot3PVyPjWwXYiZdRSFEKlXBRCpVw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60349573/%E5%BB%A3%E8%A5%BF%E6%A2%A7%E5%B7%9E%E5%B7%B4%E5%A3%AB%E5%A2%AE%E6%A9%8B3%E6%AD%BB5%E5%82%B7-%E6%8E%92%E9%99%A4%E5%8F%B8%E6%A9%9F%E9%85%92%E9%A7%95-%E6%AF%92%E9%A7%95%E8%82%87%E4%BA%8B%E5%AB%8C%E7%96%91",
     "timestamp": "2026-05-13T09:34:08.808Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "懲教員涉捅穿囚友直腸　控方指多人擒欄看襲擊　被告否認容許私刑",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260512/1130958954516451328957134.jpeg/9A3yQI2QAF07P-fbhmma5WyjXhxz2Lo_7-SMXsrkjF4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60349490/%E6%87%B2%E6%95%99%E5%93%A1%E6%B6%89%E6%8D%85%E7%A9%BF%E5%9B%9A%E5%8F%8B%E7%9B%B4%E8%85%B8-%E6%8E%A7%E6%96%B9%E6%8C%87%E5%A4%9A%E4%BA%BA%E6%93%92%E6%AC%84%E7%9C%8B%E8%A5%B2%E6%93%8A-%E8%A2%AB%E5%91%8A%E5%90%A6%E8%AA%8D%E5%AE%B9%E8%A8%B1%E7%A7%81%E5%88%91",
-    "timestamp": "2026-05-13T07:28:14.480Z",
     "strategy": ".content-card__main"
   }
 ];
