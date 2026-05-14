@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-14T03:52:11.114Z
+// Last updated: 2026-05-14T05:28:27.162Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "特朗普訪華｜魯比奧對人民大會堂裝潢感讚嘆　馬斯克狂拍片｜有片",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260514/1131579064407035904053841.jpeg/F-ucifD12NYVEXCynV-D6scMqsoNSNmkZ4w-eGeMPng?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60349819/%E7%89%B9%E6%9C%97%E6%99%AE%E8%A8%AA%E8%8F%AF-%E9%AD%AF%E6%AF%94%E5%A5%A7%E5%B0%8D%E4%BA%BA%E6%B0%91%E5%A4%A7%E6%9C%83%E5%A0%82%E8%A3%9D%E6%BD%A2%E6%84%9F%E8%AE%9A%E5%98%86-%E9%A6%AC%E6%96%AF%E5%85%8B%E7%8B%82%E6%8B%8D%E7%89%87-%E6%9C%89%E7%89%87",
+    "timestamp": "2026-05-14T05:28:27.162Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "習近平晤特朗普：貿易戰沒有贏家　中美經貿關係的本質是互利共贏",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260512/1130925197986107392782534.jpeg/dB17ZgFSXWVJLXL1HqWKL0dPsXN9IJeLuui-ZLrovmQ?v=w1920r16_9",
     "url": "https://www.hk01.com/01%E5%B0%88%E6%AC%84/60349169/%E6%9D%8E%E9%A0%B4%E5%BD%B0%E5%BE%8B%E5%B8%AB-ai%E7%AB%B6%E8%B3%BD%E6%B7%B1%E6%B0%B4%E5%8D%80-%E7%BE%8E%E5%9C%8B%E5%9B%B0%E6%96%BC%E8%B3%87%E6%9C%AC%E5%A0%86%E7%A0%8C-%E4%B8%AD%E5%9C%8B%E9%87%8D%E5%A1%91%E7%AE%97%E5%8A%9B%E7%89%88%E5%9C%96",
     "timestamp": "2026-05-13T02:08:50.931Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "龍翔道東行鋪新型瀝青7月中起動　荷里活廣場至斧山道泳池段先行",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260513/1131156219008913408260893.png/C1HM7wnsfsX9Pqp_YDIdlYuOo3otFtAtWJokE1iaJBM?v=w1920r16_9",
-    "url": "https://www.hk01.com/18%E5%8D%80%E6%96%B0%E8%81%9E/60349282/%E9%BE%8D%E7%BF%94%E9%81%93%E6%9D%B1%E8%A1%8C%E9%8B%AA%E6%96%B0%E5%9E%8B%E7%80%9D%E9%9D%927%E6%9C%88%E4%B8%AD%E8%B5%B7%E5%8B%95-%E8%8D%B7%E9%87%8C%E6%B4%BB%E5%BB%A3%E5%A0%B4%E8%87%B3%E6%96%A7%E5%B1%B1%E9%81%93%E6%B3%B3%E6%B1%A0%E6%AE%B5%E5%85%88%E8%A1%8C",
-    "timestamp": "2026-05-13T01:19:15.778Z",
     "strategy": ".content-card__main"
   }
 ];
