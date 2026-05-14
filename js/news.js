@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-14T23:12:47.061Z
+// Last updated: 2026-05-14T23:39:08.571Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "內塔尼亞胡擬起訴《紐約時報》　指誹謗以軍性侵巴勒斯坦囚犯",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260515/1131755617728335872120458.jpeg/gFJMDDOS9zjp7bqNot1xZEt9r2_m9Yyi0tYDYtLWA2I?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60350088/%E5%85%A7%E5%A1%94%E5%B0%BC%E4%BA%9E%E8%83%A1%E6%93%AC%E8%B5%B7%E8%A8%B4-%E7%B4%90%E7%B4%84%E6%99%82%E5%A0%B1-%E6%8C%87%E8%AA%B9%E8%AC%97%E4%BB%A5%E8%BB%8D%E6%80%A7%E4%BE%B5%E5%B7%B4%E5%8B%92%E6%96%AF%E5%9D%A6%E5%9B%9A%E7%8A%AF",
+    "timestamp": "2026-05-14T23:39:08.571Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "東涌裕東苑單位冷氣機起火　消防救熄　火場發現一具女性遺體",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260514/1131499214056984576834502.png/OePdHpplN9aFcZWSP4bRVQSwvkLs7uowU4mbUFOJm1A?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60349688/%E5%91%A8%E5%A4%A7%E7%A6%8F%E5%89%B5%E5%BB%BA16%E5%84%84%E4%BA%BA%E5%B9%A3%E5%94%AE%E9%95%B7%E6%B2%99%E7%80%8F%E9%99%BD%E9%AB%98%E9%80%9F-%E4%B8%8A%E6%B5%B7%E5%9C%8B%E8%B3%87%E5%A7%94%E6%8E%A5%E8%B2%A8",
     "timestamp": "2026-05-13T23:42:59.605Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "中三升高中選科｜邊科派星最多？5+率最高？即睇DSE等級分佈數字",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260513/1131366106544476160054296.jpeg/Lq4WSha6fO2RynpKm4QjmCm0lWPQoi1-q9zdhKvc3YQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E4%B8%AD%E5%B0%8F%E5%AD%B8%E6%A0%A1%E5%9C%92/60346794/%E4%B8%AD%E4%B8%89%E5%8D%87%E9%AB%98%E4%B8%AD%E9%81%B8%E7%A7%91-%E9%82%8A%E7%A7%91%E6%B4%BE%E6%98%9F%E6%9C%80%E5%A4%9A-5-%E7%8E%87%E6%9C%80%E9%AB%98-%E5%8D%B3%E7%9D%87dse%E7%AD%89%E7%B4%9A%E5%88%86%E4%BD%88%E6%95%B8%E5%AD%97",
-    "timestamp": "2026-05-13T23:14:36.890Z",
     "strategy": ".content-card__main"
   }
 ];
