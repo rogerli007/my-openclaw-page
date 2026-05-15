@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-15T14:04:35.464Z
+// Last updated: 2026-05-15T16:46:43.070Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "台場獨角獸高達2026年8月退役｜S-Freedom前傳／50週年短片公開",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260515/1132103746931658752426710.jpeg/1r5Vd8l4iKWzGTwhihgupOxOv4goeQoX7Rrr3e0a690",
+    "url": "https://www.hk01.com/%E9%81%8A%E6%88%B2%E5%8B%95%E6%BC%AB/60350453/%E5%8F%B0%E5%A0%B4%E7%8D%A8%E8%A7%92%E7%8D%B8%E9%AB%98%E9%81%942026%E5%B9%B48%E6%9C%88%E9%80%80%E5%BD%B9-%E9%80%80%E5%BD%B9%E5%89%8D%E6%9C%89%E6%B4%BB%E5%8B%95-%E6%96%B0%E5%9C%B0%E6%A8%99%E6%9C%83%E6%98%AF%E5%93%AA%E6%A9%9F%E9%AB%94",
+    "timestamp": "2026-05-15T16:46:43.070Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "要買飛機了？發改委鄭柵潔會見波音CEO：中美航空領域合作潛力大",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250412/987714922190213120059318.jpeg/jFuq44cEv5pO5atXnTwFZg1qfOFZ7RRH0VI7y9FSO8s?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60350095/%E8%8B%B1%E6%93%AC%E5%9C%8B%E6%9C%89%E5%8C%96%E8%8B%B1%E5%9C%8B%E9%8B%BC%E9%90%B5%E5%85%AC%E5%8F%B8-%E4%B8%AD%E6%96%B9%E4%BF%83%E4%BF%9D%E9%9A%9C%E8%8F%AF%E4%BC%81%E5%90%88%E6%B3%95%E6%AC%8A%E7%9B%8A",
     "timestamp": "2026-05-14T18:59:59.871Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "跨部門銅鑼灣及灣仔掃黃　共拘9名女子",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260515/1131752491457712128842567.jpeg/lhBt02BPjBvzBDcLDvVM_lcOz9JJt7GHmn6o5Jp-qOQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60350087/%E8%B7%A8%E9%83%A8%E9%96%80%E9%8A%85%E9%91%BC%E7%81%A3%E5%8F%8A%E7%81%A3%E4%BB%94%E6%8E%83%E9%BB%83-%E5%85%B1%E6%8B%989%E5%90%8D%E5%A5%B3%E5%AD%90",
-    "timestamp": "2026-05-14T16:31:15.449Z",
     "strategy": ".content-card__main"
   }
 ];
