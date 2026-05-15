@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-15T22:39:47.920Z
+// Last updated: 2026-05-15T23:39:51.651Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美股13F｜巴郡首季增持Alphabet等股　清倉亞馬遜、Visa、UNH等",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20240910/910270474271854592931546.jpeg/_t0fEhdGG8DCTR9-2LJ5bHgCIK_txdstNZgdLzWYHS8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60350476/%E7%BE%8E%E8%82%A113f-%E5%B7%B4%E9%83%A1%E9%A6%96%E5%AD%A3%E5%A2%9E%E6%8C%81alphabet%E7%AD%89%E8%82%A1-%E6%B8%85%E5%80%89%E4%BA%9E%E9%A6%AC%E9%81%9C-visa-unh%E7%AD%89",
+    "timestamp": "2026-05-15T23:39:51.651Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "西瓜命案一家4口滅門！磷化鋅中毒致死　他殺？自殺？真相仍成謎",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260515/1131852421044113408130657.jpeg/Jr4wL3_N0GVKB_wbkMwaoqO6gZ6uwKPLiHE1QIhxNUA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60350107/%E6%9D%B1%E6%B6%8C%E8%A3%95%E6%9D%B1%E8%8B%91%E5%96%AE%E4%BD%8D%E5%86%B7%E6%B0%A3%E6%A9%9F%E8%B5%B7%E7%81%AB-%E6%B6%88%E9%98%B2%E6%95%91%E7%86%84-%E7%81%AB%E5%A0%B4%E7%99%BC%E7%8F%BE%E4%B8%80%E5%85%B7%E5%A5%B3%E6%80%A7%E9%81%BA%E9%AB%94",
     "timestamp": "2026-05-14T23:12:47.061Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "91歲羅蘭離巢後近況曝光　常與「TVB御用奸角」聚會感情更勝修哥",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260515/1131754993607512064354617.jpeg/V5CUO0IPyKIv6P1vqbShwJF4ZKm4_ulpRGHA_ERhwPw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60349852/91%E6%AD%B2%E7%BE%85%E8%98%AD%E9%9B%A2%E5%B7%A2%E5%BE%8C%E8%BF%91%E6%B3%81%E6%9B%9D%E5%85%89-%E5%B8%B8%E8%88%87-tvb%E5%BE%A1%E7%94%A8%E5%A5%B8%E8%A7%92-%E8%81%9A%E6%9C%83%E6%84%9F%E6%83%85%E6%9B%B4%E5%8B%9D%E4%BF%AE%E5%93%A5",
-    "timestamp": "2026-05-14T22:42:57.178Z",
     "strategy": ".content-card__main"
   }
 ];
