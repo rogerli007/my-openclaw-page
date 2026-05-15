@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-15T10:43:20.247Z
+// Last updated: 2026-05-15T13:17:38.355Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "肉毒桿菌｜32歲女子沙田打BOTOX後疑中毒留醫　涉非註冊醫生注射",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/3325996/org/4bca6290ab90fb851ed6f1763a509445.jpg/ASamIGu4TnbiYR_CFf14tAakN6J1dn0oWsu-8VrLvvE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60350430/%E8%82%89%E6%AF%92%E6%A1%BF%E8%8F%8C-32%E6%AD%B2%E5%A5%B3%E5%AD%90%E6%B2%99%E7%94%B0%E6%89%93botox%E5%BE%8C%E7%96%91%E4%B8%AD%E6%AF%92%E7%95%99%E9%86%AB-%E6%B6%89%E9%9D%9E%E8%A8%BB%E5%86%8A%E9%86%AB%E7%94%9F%E6%B3%A8%E5%B0%84",
+    "timestamp": "2026-05-15T13:17:38.355Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "黃仁勳北京掃街大口吃炸醬麵　喝豆汁皺眉問：這是什麼東西｜有片",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260514/1131677379777794048914765.jpeg/bMOF_x8R_PpIhZ-kBWlq3mNfGo8nlu1-4Vd-AshXfgI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60350074/%E9%95%B7%E9%9D%92%E5%85%AC%E8%B7%AF%E8%BB%8A%E7%A6%8D-%E9%A0%86%E8%B1%90%E5%8F%B8%E6%A9%9F%E8%A2%AB%E6%8D%95-%E6%92%9E%E6%96%83%E9%9D%92%E9%A6%AC%E7%94%B7%E8%81%B7%E5%93%A1-5%E5%82%B7%E5%8C%85%E6%8B%AC4%E9%9F%93%E5%9C%8B%E9%81%8A%E5%AE%A2",
     "timestamp": "2026-05-14T15:37:55.394Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "牛池灣建行人通道接駁彩雲邨及彩虹站彩虹東站　發展局料惠10萬人",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260514/1131655816785432576570396.png/41s2PQGBxSL2D3Qaze2XiEULsc2mawbVt1S_6rdUv-o?v=w1920r16_9",
-    "url": "https://www.hk01.com/18%E5%8D%80%E6%96%B0%E8%81%9E/60350015/%E7%89%9B%E6%B1%A0%E7%81%A3%E5%BB%BA%E8%A1%8C%E4%BA%BA%E9%80%9A%E9%81%93%E6%8E%A5%E9%A7%81%E5%BD%A9%E9%9B%B2%E9%82%A8%E5%8F%8A%E5%BD%A9%E8%99%B9%E7%AB%99%E5%BD%A9%E8%99%B9%E6%9D%B1%E7%AB%99-%E7%99%BC%E5%B1%95%E5%B1%80%E6%96%99%E6%83%A010%E8%90%AC%E4%BA%BA",
-    "timestamp": "2026-05-14T12:13:50.993Z",
     "strategy": ".content-card__main"
   }
 ];
