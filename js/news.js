@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-15T21:42:49.366Z
+// Last updated: 2026-05-15T22:39:47.920Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "西瓜命案一家4口滅門！磷化鋅中毒致死　他殺？自殺？真相仍成謎",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260516/1132133898906505216730821.png/agw48XuU7xEZ2_EwRNWTcEXKQyFETG9RCU8UaAlPFGg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E8%A9%B1%E9%A1%8C/60350175/%E8%A5%BF%E7%93%9C%E5%91%BD%E6%A1%88%E4%B8%80%E5%AE%B64%E5%8F%A3%E6%BB%85%E9%96%80-%E7%A3%B7%E5%8C%96%E9%8B%85%E4%B8%AD%E6%AF%92%E8%87%B4%E6%AD%BB-%E4%BB%96%E6%AE%BA-%E8%87%AA%E6%AE%BA-%E7%9C%9F%E7%9B%B8%E4%BB%8D%E6%88%90%E8%AC%8E",
+    "timestamp": "2026-05-15T22:39:47.920Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美國7歲女童遭性侵殺害　生前哭喊：我要媽媽　FedEx前司機判死刑",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260515/1131754993607512064354617.jpeg/V5CUO0IPyKIv6P1vqbShwJF4ZKm4_ulpRGHA_ERhwPw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60349852/91%E6%AD%B2%E7%BE%85%E8%98%AD%E9%9B%A2%E5%B7%A2%E5%BE%8C%E8%BF%91%E6%B3%81%E6%9B%9D%E5%85%89-%E5%B8%B8%E8%88%87-tvb%E5%BE%A1%E7%94%A8%E5%A5%B8%E8%A7%92-%E8%81%9A%E6%9C%83%E6%84%9F%E6%83%85%E6%9B%B4%E5%8B%9D%E4%BF%AE%E5%93%A5",
     "timestamp": "2026-05-14T22:42:57.178Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美國7歲女童遭性侵殺害　生前哭喊：我要媽媽　FedEx前司機判死刑",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260513/1131299494357372928569103.png/bKFmVeSiKquvlmGDIFPDNoxC30u9XR_kwhg0ZMIYNGQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60348754/%E7%BE%8E%E5%9C%8B7%E6%AD%B2%E5%A5%B3%E7%AB%A5%E9%81%AD%E6%80%A7%E4%BE%B5%E6%AE%BA%E5%AE%B3-%E7%94%9F%E5%89%8D%E5%93%AD%E5%96%8A-%E6%88%91%E8%A6%81%E5%AA%BD%E5%AA%BD-fedex%E5%89%8D%E5%8F%B8%E6%A9%9F%E5%88%A4%E6%AD%BB%E5%88%91",
-    "timestamp": "2026-05-14T22:15:24.524Z",
     "strategy": ".content-card__main"
   }
 ];
