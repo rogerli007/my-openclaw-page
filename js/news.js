@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-15T00:11:17.957Z
+// Last updated: 2026-05-15T01:17:29.103Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美新股集資王Cerebras首掛飆68%　OpenAI行政總裁為股東之一",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20251017/1055875744955109376304867.jpeg/xDpXLLEFEIPYDFv5lDYAcicnK4RDcbLSEprTYBKa02A?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60350129/%E7%BE%8E%E6%96%B0%E8%82%A1%E9%9B%86%E8%B3%87%E7%8E%8Bcerebras%E9%A6%96%E6%8E%9B%E9%A3%8668-openai%E8%A1%8C%E6%94%BF%E7%B8%BD%E8%A3%81%E7%82%BA%E8%82%A1%E6%9D%B1%E4%B9%8B%E4%B8%80",
+    "timestamp": "2026-05-15T01:17:29.103Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "68歲資深綠葉與苑瓊丹聚會近況曝光　曾嘆被TVB投閒置散無份宣傳",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260511/1130507339846127616203481.png/4XASOUDFaqBn3fHmyhWapUi7g_ZaxcZmwvXA6ML1wOg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60340768/%E5%A4%AB%E5%A6%BB%E6%8E%83%E5%A2%93%E5%BE%8C%E6%8E%A5%E9%80%A3%E7%97%85%E5%80%92-%E9%AB%98%E7%87%92%E7%84%A1%E5%8A%9B-%E6%94%BE%E5%B1%81%E5%8D%B3%E5%A4%B1%E7%A6%81-%E6%9F%A5ai%E7%96%91%E6%9F%93%E8%B6%85%E5%BC%B7%E7%97%85%E6%AF%92",
     "timestamp": "2026-05-14T01:21:14.697Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "居屋女友是賊！男子熟睡遭人臉別轉帳21次　戶口27萬人民幣被清空",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260511/1130569631224827904379451.png/hfHMk_IEDQS9XNb9UazCx-vzShOl4NdwfztVk387VZM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60348534/%E5%B1%85%E5%B1%8B%E5%A5%B3%E5%8F%8B%E6%98%AF%E8%B3%8A-%E7%94%B7%E5%AD%90%E7%86%9F%E7%9D%A1%E9%81%AD%E4%BA%BA%E8%87%89%E5%88%A5%E8%BD%89%E5%B8%B321%E6%AC%A1-%E6%88%B6%E5%8F%A327%E8%90%AC%E4%BA%BA%E6%B0%91%E5%B9%A3%E8%A2%AB%E6%B8%85%E7%A9%BA",
-    "timestamp": "2026-05-14T00:16:55.977Z",
     "strategy": ".content-card__main"
   }
 ];
