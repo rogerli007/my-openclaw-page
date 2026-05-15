@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-15T16:46:43.070Z
+// Last updated: 2026-05-15T19:40:19.840Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "特朗普向台發警告：不想有人走向獨立　美方不願遠赴9500英里打仗",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260516/1132159287649374208369581.jpeg/qvEKqTnKzJt3uWwADc0NjodHeqCELrGaiwX_TosF_04?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60350467/%E7%89%B9%E6%9C%97%E6%99%AE%E5%90%91%E5%8F%B0%E7%99%BC%E8%AD%A6%E5%91%8A-%E4%B8%8D%E6%83%B3%E6%9C%89%E4%BA%BA%E8%B5%B0%E5%90%91%E7%8D%A8%E7%AB%8B-%E7%BE%8E%E6%96%B9%E4%B8%8D%E9%A1%98%E9%81%A0%E8%B5%B49500%E8%8B%B1%E9%87%8C%E6%89%93%E4%BB%97",
+    "timestamp": "2026-05-15T19:40:19.840Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "台場獨角獸高達2026年8月退役｜S-Freedom前傳／50週年短片公開",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260515/1131801161817395200504698.jpeg/vurRA7KpMvk8jLWLDmU3UZ06VU2R---y1kOqddZDqnU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60350100/%E7%89%B9%E6%9C%97%E6%99%AE%E8%A8%AA%E8%8F%AF-%E9%AD%AF%E6%AF%94%E5%A5%A7-%E7%BE%8E%E5%9C%8B%E5%B0%8D%E5%8F%B0%E6%94%BF%E7%AD%96%E4%B8%8D%E8%AE%8A-%E7%BF%92%E7%89%B9%E6%9C%83%E6%9B%BE%E6%8F%90%E5%8F%8A%E9%BB%8E%E6%99%BA%E8%8B%B1%E6%A1%88",
     "timestamp": "2026-05-14T20:23:10.399Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "英擬國有化英國鋼鐵公司　中方促保障華企合法權益",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250412/987714922190213120059318.jpeg/jFuq44cEv5pO5atXnTwFZg1qfOFZ7RRH0VI7y9FSO8s?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60350095/%E8%8B%B1%E6%93%AC%E5%9C%8B%E6%9C%89%E5%8C%96%E8%8B%B1%E5%9C%8B%E9%8B%BC%E9%90%B5%E5%85%AC%E5%8F%B8-%E4%B8%AD%E6%96%B9%E4%BF%83%E4%BF%9D%E9%9A%9C%E8%8F%AF%E4%BC%81%E5%90%88%E6%B3%95%E6%AC%8A%E7%9B%8A",
-    "timestamp": "2026-05-14T18:59:59.871Z",
     "strategy": ".content-card__main"
   }
 ];
