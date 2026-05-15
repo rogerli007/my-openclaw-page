@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-15T02:06:48.547Z
+// Last updated: 2026-05-15T03:30:48.639Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "赤柱監獄35歲男囚犯以床單上吊昏迷　懲教署將事件通知警方",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260213/1098924522381250560915847.jpeg/ehL8FS8CNx2pkUAljAiQ3J2Wls2Zqqilef4B9Xn-AfU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60350194/%E8%B5%A4%E6%9F%B1%E7%9B%A3%E7%8D%8435%E6%AD%B2%E7%94%B7%E5%9B%9A%E7%8A%AF%E4%BB%A5%E5%BA%8A%E5%96%AE%E4%B8%8A%E5%90%8A%E6%98%8F%E8%BF%B7-%E6%87%B2%E6%95%99%E7%BD%B2%E5%B0%87%E4%BA%8B%E4%BB%B6%E9%80%9A%E7%9F%A5%E8%AD%A6%E6%96%B9",
+    "timestamp": "2026-05-15T03:30:48.639Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "奧德賽｜黑人演「海倫」被鬧爆罷睇　馬斯克批︰公然侮辱希臘人民",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260514/1131579064407035904053841.jpeg/F-ucifD12NYVEXCynV-D6scMqsoNSNmkZ4w-eGeMPng?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60349819/%E7%89%B9%E6%9C%97%E6%99%AE%E8%A8%AA%E8%8F%AF-%E9%AD%AF%E6%AF%94%E5%A5%A7%E5%B0%8D%E4%BA%BA%E6%B0%91%E5%A4%A7%E6%9C%83%E5%A0%82%E8%A3%9D%E6%BD%A2%E6%84%9F%E8%AE%9A%E5%98%86-%E9%A6%AC%E6%96%AF%E5%85%8B%E7%8B%82%E6%8B%8D%E7%89%87-%E6%9C%89%E7%89%87",
     "timestamp": "2026-05-14T05:28:27.162Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "習近平晤特朗普：貿易戰沒有贏家　中美經貿關係的本質是互利共贏",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260514/1131544402926243840967581.jpeg/Or81QlACkSwJ4Q9-IvRAItTpuD0MYOzI60IAjOtCAIw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60349787/%E7%BF%92%E8%BF%91%E5%B9%B3%E6%99%A4%E7%89%B9%E6%9C%97%E6%99%AE-%E8%B2%BF%E6%98%93%E6%88%B0%E6%B2%92%E6%9C%89%E8%B4%8F%E5%AE%B6-%E4%B8%AD%E7%BE%8E%E7%B6%93%E8%B2%BF%E9%97%9C%E4%BF%82%E7%9A%84%E6%9C%AC%E8%B3%AA%E6%98%AF%E4%BA%92%E5%88%A9%E5%85%B1%E8%B4%8F",
-    "timestamp": "2026-05-14T03:52:11.114Z",
     "strategy": ".content-card__main"
   }
 ];
