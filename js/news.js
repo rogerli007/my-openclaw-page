@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-15T07:42:03.086Z
+// Last updated: 2026-05-15T08:46:27.850Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "特朗普訪華｜午宴餐單曝光：宮保雞丁炸龍蝦球　或迎合其挑剔口味",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260515/1131988981982957568261345.jpeg/1FAl2JkE7QhyFLpnFOCAbd8EP5yXPY4P6mIXIepiFyE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60350365/%E7%89%B9%E6%9C%97%E6%99%AE%E8%A8%AA%E8%8F%AF-%E5%8D%88%E5%AE%B4%E9%A4%90%E5%96%AE%E6%9B%9D%E5%85%89-%E5%AE%AE%E4%BF%9D%E9%9B%9E%E4%B8%81%E7%82%B8%E9%BE%8D%E8%9D%A6%E7%90%83-%E6%88%96%E8%BF%8E%E5%90%88%E5%85%B6%E6%8C%91%E5%89%94%E5%8F%A3%E5%91%B3",
+    "timestamp": "2026-05-15T08:46:27.850Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "高鐵｜港鐵：內地單位通報因天氣惡劣　個別列車將延遲或可能取消",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260514/1131663629716819968629038.jpeg/6Wtmazq-gGTfv6bQfxJPRokkEY8EULsRHijhJR4o4SU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8F%B0%E7%81%A3%E6%96%B0%E8%81%9E/60349783/%E7%BF%92%E7%89%B9%E6%9C%83-%E9%84%AD%E9%BA%97%E6%96%87%E6%9B%9D%E5%85%88%E8%A8%AA%E5%8C%97%E4%BA%AC%E8%A6%8B%E7%BF%92%E8%BF%91%E5%B9%B3%E5%8E%9F%E5%9B%A0-%E4%B8%8D%E9%A1%98%E5%8F%B0%E7%81%A3%E6%B7%AA%E5%A4%A7%E5%9C%8B%E5%8D%9A%E5%BC%88%E7%B1%8C%E7%A2%BC",
     "timestamp": "2026-05-14T10:37:52.639Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "ASUS ExpertBook Ultra 香港登場｜0.99kg極致輕薄＋頂級 AI 效能",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260514/1131636113149005824319054.png/28Hivesxf_psDs8mIFbB9R-1LPSubrImJg7D2SYOw9k?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60349886/asus-expertbook-ultra-%E9%A6%99%E6%B8%AF%E7%99%BB%E5%A0%B4-0-99kg%E6%A5%B5%E8%87%B4%E8%BC%95%E8%96%84-%E9%A0%82%E7%B4%9A-ai-%E6%95%88%E8%83%BD",
-    "timestamp": "2026-05-14T09:43:14.050Z",
     "strategy": ".content-card__main"
   }
 ];
