@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-15T01:17:29.103Z
+// Last updated: 2026-05-15T02:06:48.547Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "奧德賽｜黑人演「海倫」被鬧爆罷睇　馬斯克批︰公然侮辱希臘人民",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260514/1131650321806790656257691.jpeg/YFmjfQZMLqFBN2FgpjkUeeMxvbV8Q5szU0feaFNH3mg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60349876/%E5%A5%A7%E5%BE%B7%E8%B3%BD-%E9%BB%91%E4%BA%BA%E6%BC%94-%E6%B5%B7%E5%80%AB-%E8%A2%AB%E9%AC%A7%E7%88%86%E7%BD%B7%E7%9D%87-%E9%A6%AC%E6%96%AF%E5%85%8B%E6%89%B9-%E5%85%AC%E7%84%B6%E4%BE%AE%E8%BE%B1%E5%B8%8C%E8%87%98%E4%BA%BA%E6%B0%91",
+    "timestamp": "2026-05-15T02:06:48.547Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美新股集資王Cerebras首掛飆68%　OpenAI行政總裁為股東之一",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260514/1131544402926243840967581.jpeg/Or81QlACkSwJ4Q9-IvRAItTpuD0MYOzI60IAjOtCAIw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60349787/%E7%BF%92%E8%BF%91%E5%B9%B3%E6%99%A4%E7%89%B9%E6%9C%97%E6%99%AE-%E8%B2%BF%E6%98%93%E6%88%B0%E6%B2%92%E6%9C%89%E8%B4%8F%E5%AE%B6-%E4%B8%AD%E7%BE%8E%E7%B6%93%E8%B2%BF%E9%97%9C%E4%BF%82%E7%9A%84%E6%9C%AC%E8%B3%AA%E6%98%AF%E4%BA%92%E5%88%A9%E5%85%B1%E8%B4%8F",
     "timestamp": "2026-05-14T03:52:11.114Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "夫妻掃墓後接連病倒！高燒無力、放屁即失禁　查AI疑染超強病毒",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260511/1130507339846127616203481.png/4XASOUDFaqBn3fHmyhWapUi7g_ZaxcZmwvXA6ML1wOg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60340768/%E5%A4%AB%E5%A6%BB%E6%8E%83%E5%A2%93%E5%BE%8C%E6%8E%A5%E9%80%A3%E7%97%85%E5%80%92-%E9%AB%98%E7%87%92%E7%84%A1%E5%8A%9B-%E6%94%BE%E5%B1%81%E5%8D%B3%E5%A4%B1%E7%A6%81-%E6%9F%A5ai%E7%96%91%E6%9F%93%E8%B6%85%E5%BC%B7%E7%97%85%E6%AF%92",
-    "timestamp": "2026-05-14T01:21:14.697Z",
     "strategy": ".content-card__main"
   }
 ];
