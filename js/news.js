@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-15T08:46:27.850Z
+// Last updated: 2026-05-15T09:48:48.923Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "AP x Swatch炒價直擊！香港排隊現人龍+白色款炒至逾3萬最搶手",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260515/1132005321682718720340528.jpeg/XWThCAladRsXTD8filJQ7tExyhS9iCRUk8NkyJPDZMg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E4%B8%80%E7%89%A9/60350253/ap-x-swatch%E7%82%92%E5%83%B9%E7%9B%B4%E6%93%8A-%E9%A6%99%E6%B8%AF%E6%8E%92%E9%9A%8A%E7%8F%BE%E4%BA%BA%E9%BE%8D-%E7%99%BD%E8%89%B2%E6%AC%BE%E7%82%92%E8%87%B3%E9%80%BE3%E8%90%AC%E6%9C%80%E6%90%B6%E6%89%8B",
+    "timestamp": "2026-05-15T09:48:48.923Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "特朗普訪華｜午宴餐單曝光：宮保雞丁炸龍蝦球　或迎合其挑剔口味",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260514/1131673573446914048938105.jpeg/7dYJ3S9B0ZxajbeQmvHnZofGAdGfQcvkcVCZg3FQmYM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60350039/%E8%B0%B7%E8%96%87%E9%BA%97%E8%A8%AD%E9%9D%88-%E7%94%B0%E5%95%9F%E6%96%87%E7%8F%BE%E8%BA%AB%E6%82%BC%E5%BF%B5-%E4%BD%A2%E6%8F%90%E6%94%9C%E5%BE%8C%E8%BC%A9%E4%B8%8D%E5%AE%B9%E7%BD%AE%E7%96%91",
     "timestamp": "2026-05-14T11:30:39.985Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "習特會｜鄭麗文曝先訪北京見習近平原因：不願台灣淪大國博弈籌碼",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260514/1131663629716819968629038.jpeg/6Wtmazq-gGTfv6bQfxJPRokkEY8EULsRHijhJR4o4SU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8F%B0%E7%81%A3%E6%96%B0%E8%81%9E/60349783/%E7%BF%92%E7%89%B9%E6%9C%83-%E9%84%AD%E9%BA%97%E6%96%87%E6%9B%9D%E5%85%88%E8%A8%AA%E5%8C%97%E4%BA%AC%E8%A6%8B%E7%BF%92%E8%BF%91%E5%B9%B3%E5%8E%9F%E5%9B%A0-%E4%B8%8D%E9%A1%98%E5%8F%B0%E7%81%A3%E6%B7%AA%E5%A4%A7%E5%9C%8B%E5%8D%9A%E5%BC%88%E7%B1%8C%E7%A2%BC",
-    "timestamp": "2026-05-14T10:37:52.639Z",
     "strategy": ".content-card__main"
   }
 ];
