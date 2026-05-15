@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-15T06:22:00.346Z
+// Last updated: 2026-05-15T07:42:03.086Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "高鐵｜港鐵：內地單位通報因天氣惡劣　個別列車將延遲或可能取消",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250502/994950710707884032821509.jpeg/cnY4vrzQPDKo6f5WXysThYsg2pa5vWtqOaoLTSOqC00?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60350335/%E9%AB%98%E9%90%B5-%E6%B8%AF%E9%90%B5-%E5%85%A7%E5%9C%B0%E5%96%AE%E4%BD%8D%E9%80%9A%E5%A0%B1%E5%9B%A0%E5%A4%A9%E6%B0%A3%E6%83%A1%E5%8A%A3-%E5%80%8B%E5%88%A5%E5%88%97%E8%BB%8A%E5%B0%87%E5%BB%B6%E9%81%B2%E6%88%96%E5%8F%AF%E8%83%BD%E5%8F%96%E6%B6%88",
+    "timestamp": "2026-05-15T07:42:03.086Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "審計報告｜智能廚餘機安裝逾期　環保署：批新合約會做好前期準備",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260514/1131636113149005824319054.png/28Hivesxf_psDs8mIFbB9R-1LPSubrImJg7D2SYOw9k?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60349886/asus-expertbook-ultra-%E9%A6%99%E6%B8%AF%E7%99%BB%E5%A0%B4-0-99kg%E6%A5%B5%E8%87%B4%E8%BC%95%E8%96%84-%E9%A0%82%E7%B4%9A-ai-%E6%95%88%E8%83%BD",
     "timestamp": "2026-05-14T09:43:14.050Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "王維基親解打減價戰原因　警告若剩餘一間大型超市所有港人成輸家",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20240405/852991141992206336932058.jpeg/mLlkHqn3zaY5guTR1YY9FWgyJChSqDfXob1IPIS9SDw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60349951/%E7%8E%8B%E7%B6%AD%E5%9F%BA%E8%A6%AA%E8%A7%A3%E6%89%93%E6%B8%9B%E5%83%B9%E6%88%B0%E5%8E%9F%E5%9B%A0-%E8%AD%A6%E5%91%8A%E8%8B%A5%E5%89%A9%E9%A4%98%E4%B8%80%E9%96%93%E5%A4%A7%E5%9E%8B%E8%B6%85%E5%B8%82%E6%89%80%E6%9C%89%E6%B8%AF%E4%BA%BA%E6%88%90%E8%BC%B8%E5%AE%B6",
-    "timestamp": "2026-05-14T08:45:57.025Z",
     "strategy": ".content-card__main"
   }
 ];
