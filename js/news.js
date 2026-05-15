@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-15T04:54:47.613Z
+// Last updated: 2026-05-15T06:22:00.346Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "審計報告｜智能廚餘機安裝逾期　環保署：批新合約會做好前期準備",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20240729/894594855882199040609143.jpeg/svBayBNVRAxi0DriO97M3ViE-qm_gwaHB5oshS2aLIU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60350283/%E5%AF%A9%E8%A8%88%E5%A0%B1%E5%91%8A-%E6%99%BA%E8%83%BD%E5%BB%9A%E9%A4%98%E6%A9%9F%E5%AE%89%E8%A3%9D%E9%80%BE%E6%9C%9F-%E7%92%B0%E4%BF%9D%E7%BD%B2-%E6%89%B9%E6%96%B0%E5%90%88%E7%B4%84%E6%9C%83%E5%81%9A%E5%A5%BD%E5%89%8D%E6%9C%9F%E6%BA%96%E5%82%99",
+    "timestamp": "2026-05-15T06:22:00.346Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "日本「憂慮」習特會　高市早苗尋求與特朗普通話",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20240405/852991141992206336932058.jpeg/mLlkHqn3zaY5guTR1YY9FWgyJChSqDfXob1IPIS9SDw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60349951/%E7%8E%8B%E7%B6%AD%E5%9F%BA%E8%A6%AA%E8%A7%A3%E6%89%93%E6%B8%9B%E5%83%B9%E6%88%B0%E5%8E%9F%E5%9B%A0-%E8%AD%A6%E5%91%8A%E8%8B%A5%E5%89%A9%E9%A4%98%E4%B8%80%E9%96%93%E5%A4%A7%E5%9E%8B%E8%B6%85%E5%B8%82%E6%89%80%E6%9C%89%E6%B8%AF%E4%BA%BA%E6%88%90%E8%BC%B8%E5%AE%B6",
     "timestamp": "2026-05-14T08:45:57.025Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "荃灣單位淪為毒窟　警拘17男女　檢$5.5萬可卡因、海洛英等毒品",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260514/1131601057265225728354621.jpeg/MLUER8a6L1OCJLgTFJfE2ZsgwdkjW0XhHSwVdR0sFXU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60349841/%E8%8D%83%E7%81%A3%E5%96%AE%E4%BD%8D%E6%B7%AA%E7%82%BA%E6%AF%92%E7%AA%9F-%E8%AD%A6%E6%8B%9817%E7%94%B7%E5%A5%B3-%E6%AA%A2-5-5%E8%90%AC%E5%8F%AF%E5%8D%A1%E5%9B%A0-%E6%B5%B7%E6%B4%9B%E8%8B%B1%E7%AD%89%E6%AF%92%E5%93%81",
-    "timestamp": "2026-05-14T06:39:58.944Z",
     "strategy": ".content-card__main"
   }
 ];
