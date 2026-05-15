@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-15T09:48:48.923Z
+// Last updated: 2026-05-15T10:43:20.247Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "黃仁勳北京掃街大口吃炸醬麵　喝豆汁皺眉問：這是什麼東西｜有片",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260515/1132023807251320832362098.jpeg/NDATkl17_MVWm2qctS3CLElNS_eRWZeHiInLwYiJy8E?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60350376/%E9%BB%83%E4%BB%81%E5%8B%B3%E5%8C%97%E4%BA%AC%E6%8E%83%E8%A1%97%E5%A4%A7%E5%8F%A3%E5%90%83%E7%82%B8%E9%86%AC%E9%BA%B5-%E5%96%9D%E8%B1%86%E6%B1%81%E7%9A%BA%E7%9C%89%E5%95%8F-%E9%80%99%E6%98%AF%E4%BB%80%E9%BA%BC%E6%9D%B1%E8%A5%BF-%E6%9C%89%E7%89%87",
+    "timestamp": "2026-05-15T10:43:20.247Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "AP x Swatch炒價直擊！香港排隊現人龍+白色款炒至逾3萬最搶手",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260514/1131655816785432576570396.png/41s2PQGBxSL2D3Qaze2XiEULsc2mawbVt1S_6rdUv-o?v=w1920r16_9",
     "url": "https://www.hk01.com/18%E5%8D%80%E6%96%B0%E8%81%9E/60350015/%E7%89%9B%E6%B1%A0%E7%81%A3%E5%BB%BA%E8%A1%8C%E4%BA%BA%E9%80%9A%E9%81%93%E6%8E%A5%E9%A7%81%E5%BD%A9%E9%9B%B2%E9%82%A8%E5%8F%8A%E5%BD%A9%E8%99%B9%E7%AB%99%E5%BD%A9%E8%99%B9%E6%9D%B1%E7%AB%99-%E7%99%BC%E5%B1%95%E5%B1%80%E6%96%99%E6%83%A010%E8%90%AC%E4%BA%BA",
     "timestamp": "2026-05-14T12:13:50.993Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "谷薇麗設靈 ｜田啟文現身悼念：佢提攜後輩不容置疑",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260514/1131673573446914048938105.jpeg/7dYJ3S9B0ZxajbeQmvHnZofGAdGfQcvkcVCZg3FQmYM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60350039/%E8%B0%B7%E8%96%87%E9%BA%97%E8%A8%AD%E9%9D%88-%E7%94%B0%E5%95%9F%E6%96%87%E7%8F%BE%E8%BA%AB%E6%82%BC%E5%BF%B5-%E4%BD%A2%E6%8F%90%E6%94%9C%E5%BE%8C%E8%BC%A9%E4%B8%8D%E5%AE%B9%E7%BD%AE%E7%96%91",
-    "timestamp": "2026-05-14T11:30:39.985Z",
     "strategy": ".content-card__main"
   }
 ];
