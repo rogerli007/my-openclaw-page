@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-15T03:30:48.639Z
+// Last updated: 2026-05-15T04:54:47.613Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "日本「憂慮」習特會　高市早苗尋求與特朗普通話",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260320/1111716111927218176376840.jpeg/YpJe1VS6L51lO0rMPebyyhW7HT3LjfVf7j3rKO496yg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60350238/%E6%97%A5%E6%9C%AC-%E6%86%82%E6%85%AE-%E7%BF%92%E7%89%B9%E6%9C%83-%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%B0%8B%E6%B1%82%E8%88%87%E7%89%B9%E6%9C%97%E6%99%AE%E9%80%9A%E8%A9%B1",
+    "timestamp": "2026-05-15T04:54:47.613Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "赤柱監獄35歲男囚犯以床單上吊昏迷　懲教署將事件通知警方",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260514/1131601057265225728354621.jpeg/MLUER8a6L1OCJLgTFJfE2ZsgwdkjW0XhHSwVdR0sFXU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60349841/%E8%8D%83%E7%81%A3%E5%96%AE%E4%BD%8D%E6%B7%AA%E7%82%BA%E6%AF%92%E7%AA%9F-%E8%AD%A6%E6%8B%9817%E7%94%B7%E5%A5%B3-%E6%AA%A2-5-5%E8%90%AC%E5%8F%AF%E5%8D%A1%E5%9B%A0-%E6%B5%B7%E6%B4%9B%E8%8B%B1%E7%AD%89%E6%AF%92%E5%93%81",
     "timestamp": "2026-05-14T06:39:58.944Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普訪華｜魯比奧對人民大會堂裝潢感讚嘆　馬斯克狂拍片｜有片",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260514/1131579064407035904053841.jpeg/F-ucifD12NYVEXCynV-D6scMqsoNSNmkZ4w-eGeMPng?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60349819/%E7%89%B9%E6%9C%97%E6%99%AE%E8%A8%AA%E8%8F%AF-%E9%AD%AF%E6%AF%94%E5%A5%A7%E5%B0%8D%E4%BA%BA%E6%B0%91%E5%A4%A7%E6%9C%83%E5%A0%82%E8%A3%9D%E6%BD%A2%E6%84%9F%E8%AE%9A%E5%98%86-%E9%A6%AC%E6%96%AF%E5%85%8B%E7%8B%82%E6%8B%8D%E7%89%87-%E6%9C%89%E7%89%87",
-    "timestamp": "2026-05-14T05:28:27.162Z",
     "strategy": ".content-card__main"
   }
 ];
