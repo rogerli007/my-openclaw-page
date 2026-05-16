@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-16T16:39:27.724Z
+// Last updated: 2026-05-16T17:40:31.159Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "本周剛辭職向施紀賢逼宮　英國前衛生大臣施卓添宣布將競逐黨魁",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260517/1132485823028006912093824.jpeg/-AoAGBu8VowIT0qWLXENP-lxMPf9H5Ci7t9Muu7fTLo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60350626/%E6%9C%AC%E5%91%A8%E5%89%9B%E8%BE%AD%E8%81%B7%E5%90%91%E6%96%BD%E7%B4%80%E8%B3%A2%E9%80%BC%E5%AE%AE-%E8%8B%B1%E5%9C%8B%E5%89%8D%E8%A1%9B%E7%94%9F%E5%A4%A7%E8%87%A3%E6%96%BD%E5%8D%93%E6%B7%BB%E5%AE%A3%E5%B8%83%E5%B0%87%E7%AB%B6%E9%80%90%E9%BB%A8%E9%AD%81",
+    "timestamp": "2026-05-16T17:40:31.159Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "5意大利人赴馬爾代夫水底50米洞穴潛水身亡　一救援潛水員殉職",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260516/1132133898906505216730821.png/agw48XuU7xEZ2_EwRNWTcEXKQyFETG9RCU8UaAlPFGg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E8%A9%B1%E9%A1%8C/60350175/%E8%A5%BF%E7%93%9C%E5%91%BD%E6%A1%88%E4%B8%80%E5%AE%B64%E5%8F%A3%E6%BB%85%E9%96%80-%E7%A3%B7%E5%8C%96%E9%8B%85%E4%B8%AD%E6%AF%92%E8%87%B4%E6%AD%BB-%E4%BB%96%E6%AE%BA-%E8%87%AA%E6%AE%BA-%E7%9C%9F%E7%9B%B8%E4%BB%8D%E6%88%90%E8%AC%8E",
     "timestamp": "2026-05-15T22:39:47.920Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美國7歲女童遭性侵殺害　生前哭喊：我要媽媽　FedEx前司機判死刑",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260515/1131895559670468608964218.png/-qIOkELwVnhDWajsR2xqCxJDV3lsivGRxUGhx8VBocc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60348754/%E7%BE%8E%E5%9C%8B7%E6%AD%B2%E5%A5%B3%E7%AB%A5%E9%81%AD%E6%80%A7%E4%BE%B5%E6%AE%BA%E5%AE%B3-%E7%94%9F%E5%89%8D%E5%93%AD%E5%96%8A-%E6%88%91%E8%A6%81%E5%AA%BD%E5%AA%BD-fedex%E5%89%8D%E5%8F%B8%E6%A9%9F%E5%88%A4%E6%AD%BB%E5%88%91",
-    "timestamp": "2026-05-15T21:42:49.366Z",
     "strategy": ".content-card__main"
   }
 ];
