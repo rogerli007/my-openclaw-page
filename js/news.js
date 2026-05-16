@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-16T18:41:14.194Z
+// Last updated: 2026-05-16T19:14:46.750Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "世界盃｜FIFA秘書長將晤伊朗足總官員　伊方稱尚未獲批赴美國簽證",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260517/1132508532168462336018576.jpeg/h76Di5qIsZZLBDRcECz8QK3ZKoBUDXRbNI8lqTSPJak?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60350629/%E4%B8%96%E7%95%8C%E7%9B%83-fifa%E7%A7%98%E6%9B%B8%E9%95%B7%E5%B0%87%E6%99%A4%E4%BC%8A%E6%9C%97%E8%B6%B3%E7%B8%BD%E5%AE%98%E5%93%A1-%E4%BC%8A%E6%96%B9%E7%A8%B1%E5%B0%9A%E6%9C%AA%E7%8D%B2%E6%89%B9%E8%B5%B4%E7%BE%8E%E5%9C%8B%E7%B0%BD%E8%AD%89",
+    "timestamp": "2026-05-16T19:14:46.750Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "世界盃｜FIFA秘書長將晤伊朗足總官員　伊方稱尚未獲批赴美國簽證",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260516/1132186016589811712567489.png/vsjynu-knfIxeITKC3qmXHdV7imoTZGitnFgHrZxYB4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60350468/%E8%97%8D%E7%94%B0%E5%AD%B8%E7%AB%A5%E4%BB%A5%E7%82%BA%E6%A0%A1%E5%B7%B4%E9%96%8B%E8%B5%B0%E7%88%86%E5%96%8A-%E6%9A%96%E7%94%B7%E8%B4%88-200%E6%90%AD%E7%9A%84%E5%A3%AB-%E6%B8%AF%E5%AA%BD%E5%B0%8B%E4%BA%BA%E7%B5%90%E5%B1%80%E8%B6%85%E6%9A%96",
     "timestamp": "2026-05-16T01:13:38.706Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "路透︰SpaceX 最快6月12日上市",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20251128/1071114739246960640528610.jpeg/J8a69nQuAgpZcEp0scImm-TnJrfyCcj3KhgKHyoYCh8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60350480/%E8%B7%AF%E9%80%8F-spacex-%E6%9C%80%E5%BF%AB6%E6%9C%8812%E6%97%A5%E4%B8%8A%E5%B8%82",
-    "timestamp": "2026-05-16T00:09:22.124Z",
     "strategy": ".content-card__main"
   }
 ];
