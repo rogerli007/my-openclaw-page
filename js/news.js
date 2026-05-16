@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-16T20:10:34.113Z
+// Last updated: 2026-05-16T20:36:25.640Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "亞冠盃2︱C朗未能捧盃　艾納斯決賽0：1不敵大阪飛腳",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260517/1132536029765439488510846.jpeg/zXNhxLaKPPbleqZi1pzmIaD0PGocRwfFZucwD2bnMA8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60350632/%E4%BA%9E%E5%86%A0%E7%9B%832-c%E6%9C%97%E6%9C%AA%E8%83%BD%E6%8D%A7%E7%9B%83-%E8%89%BE%E7%B4%8D%E6%96%AF%E6%B1%BA%E8%B3%BD0-1%E4%B8%8D%E6%95%B5%E5%A4%A7%E9%98%AA%E9%A3%9B%E8%85%B3",
+    "timestamp": "2026-05-16T20:36:25.640Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "意大利北部車輛撞人群8傷　女傷者截肢　市長：調查是否蓄意撞人",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260515/1132013898921152512567803.png/pa_avM-PFrsnLQkPJLXzIeFZDf3B8k25uaAObLmgDmw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60350395/%E4%BA%BA%E5%A6%BB%E7%B5%90%E5%A9%9A1%E5%B9%B4%E5%B4%A9%E6%BD%B0%E6%B1%82%E9%9B%A2%E5%A9%9A-%E6%8F%AD%E5%A4%AB%E4%B8%8D%E5%88%B7%E7%89%99%E4%B8%8D%E6%B4%97%E6%89%8B-%E5%B9%B4%E9%81%8E4%E6%97%AC%E7%90%86%E8%B2%A1%E4%BB%8D%E9%9D%A0%E9%98%BF%E5%AA%BD",
     "timestamp": "2026-05-16T06:42:02.284Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "英超｜阿士東維拉主場大勝利物浦穩奪歐聯席位　紅軍爭前五有暗湧",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260516/1132277824946704384867504.jpeg/V-zqemffXPoQtMmwEc8EFGl-deeuNs9FpCkw76QpMO8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60350500/%E8%8B%B1%E8%B6%85-%E9%98%BF%E5%A3%AB%E6%9D%B1%E7%B6%AD%E6%8B%89%E4%B8%BB%E5%A0%B4%E5%A4%A7%E5%8B%9D%E5%88%A9%E7%89%A9%E6%B5%A6%E7%A9%A9%E5%A5%AA%E6%AD%90%E8%81%AF%E5%B8%AD%E4%BD%8D-%E7%B4%85%E8%BB%8D%E7%88%AD%E5%89%8D%E4%BA%94%E6%9C%89%E6%9A%97%E6%B9%A7",
-    "timestamp": "2026-05-16T03:26:45.990Z",
     "strategy": ".content-card__main"
   }
 ];
