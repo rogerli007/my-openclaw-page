@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-16T15:41:46.196Z
+// Last updated: 2026-05-16T16:11:02.602Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "塞舌爾外長下週訪華　上月曾取消賴清德專機飛行許可",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260516/1132448701902491648172954.jpeg/kM7-23xGiMkHf8kvO-iiSDhb0UeNFCwuTmx8m05sfJs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60350612/%E5%A1%9E%E8%88%8C%E7%88%BE%E5%A4%96%E9%95%B7%E4%B8%8B%E9%80%B1%E8%A8%AA%E8%8F%AF-%E4%B8%8A%E6%9C%88%E6%9B%BE%E5%8F%96%E6%B6%88%E8%B3%B4%E6%B8%85%E5%BE%B7%E5%B0%88%E6%A9%9F%E9%A3%9B%E8%A1%8C%E8%A8%B1%E5%8F%AF",
+    "timestamp": "2026-05-16T16:11:02.602Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "大埔電單車撞塌樹　鐵騎士昏迷送院搶救",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260515/1131895559670468608964218.png/-qIOkELwVnhDWajsR2xqCxJDV3lsivGRxUGhx8VBocc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60348754/%E7%BE%8E%E5%9C%8B7%E6%AD%B2%E5%A5%B3%E7%AB%A5%E9%81%AD%E6%80%A7%E4%BE%B5%E6%AE%BA%E5%AE%B3-%E7%94%9F%E5%89%8D%E5%93%AD%E5%96%8A-%E6%88%91%E8%A6%81%E5%AA%BD%E5%AA%BD-fedex%E5%89%8D%E5%8F%B8%E6%A9%9F%E5%88%A4%E6%AD%BB%E5%88%91",
     "timestamp": "2026-05-15T21:15:29.604Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普向台發警告：不想有人走向獨立　美方不願遠赴9500英里打仗",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260516/1132159287649374208369581.jpeg/qvEKqTnKzJt3uWwADc0NjodHeqCELrGaiwX_TosF_04?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60350467/%E7%89%B9%E6%9C%97%E6%99%AE%E5%90%91%E5%8F%B0%E7%99%BC%E8%AD%A6%E5%91%8A-%E4%B8%8D%E6%83%B3%E6%9C%89%E4%BA%BA%E8%B5%B0%E5%90%91%E7%8D%A8%E7%AB%8B-%E7%BE%8E%E6%96%B9%E4%B8%8D%E9%A1%98%E9%81%A0%E8%B5%B49500%E8%8B%B1%E9%87%8C%E6%89%93%E4%BB%97",
-    "timestamp": "2026-05-15T19:40:19.840Z",
     "strategy": ".content-card__main"
   }
 ];
