@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-16T19:44:55.399Z
+// Last updated: 2026-05-16T20:10:34.113Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "意大利北部車輛撞人群8傷　女傷者截肢　市長：調查是否蓄意撞人",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260517/1132515059965104128769438.jpeg/MU3sIYUZB_m55IbNLX1GqE9QerpmetXi8jViuPI1Yrg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60350630/%E6%84%8F%E5%A4%A7%E5%88%A9%E5%8C%97%E9%83%A8%E8%BB%8A%E8%BC%9B%E6%92%9E%E4%BA%BA%E7%BE%A48%E5%82%B7-%E5%A5%B3%E5%82%B7%E8%80%85%E6%88%AA%E8%82%A2-%E5%B8%82%E9%95%B7-%E8%AA%BF%E6%9F%A5%E6%98%AF%E5%90%A6%E8%93%84%E6%84%8F%E6%92%9E%E4%BA%BA",
+    "timestamp": "2026-05-16T20:10:34.113Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "意大利北部車輛撞人群8傷　女傷者截肢　市長：調查是否蓄意撞人",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260516/1132277824946704384867504.jpeg/V-zqemffXPoQtMmwEc8EFGl-deeuNs9FpCkw76QpMO8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60350500/%E8%8B%B1%E8%B6%85-%E9%98%BF%E5%A3%AB%E6%9D%B1%E7%B6%AD%E6%8B%89%E4%B8%BB%E5%A0%B4%E5%A4%A7%E5%8B%9D%E5%88%A9%E7%89%A9%E6%B5%A6%E7%A9%A9%E5%A5%AA%E6%AD%90%E8%81%AF%E5%B8%AD%E4%BD%8D-%E7%B4%85%E8%BB%8D%E7%88%AD%E5%89%8D%E4%BA%94%E6%9C%89%E6%9A%97%E6%B9%A7",
     "timestamp": "2026-05-16T03:26:45.990Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "珠海海事局發航行警告　南海部分海域18日起進行實彈射擊",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20220803/631622812809170944354071.jpeg/nwfgFVsEI88HsGOWvxOCEk1KvcQTwTD1WIQLFViECxU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60350493/%E7%8F%A0%E6%B5%B7%E6%B5%B7%E4%BA%8B%E5%B1%80%E7%99%BC%E8%88%AA%E8%A1%8C%E8%AD%A6%E5%91%8A-%E5%8D%97%E6%B5%B7%E9%83%A8%E5%88%86%E6%B5%B7%E5%9F%9F18%E6%97%A5%E8%B5%B7%E9%80%B2%E8%A1%8C%E5%AF%A6%E5%BD%88%E5%B0%84%E6%93%8A",
-    "timestamp": "2026-05-16T02:02:07.902Z",
     "strategy": ".content-card__main"
   }
 ];
