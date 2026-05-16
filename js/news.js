@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-16T11:13:41.582Z
+// Last updated: 2026-05-16T11:39:22.667Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "尚氣｜梁朝偉嫌動作單一提議改動　導演一句直接KO︰我冇再爭論",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260516/1132353705585152000147239.jpeg/yDAWqMdyTbkIVjmIiFVbyJAEMaNOo3IejxsyU48bMlM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60350540/%E5%B0%9A%E6%B0%A3-%E6%A2%81%E6%9C%9D%E5%81%89%E5%AB%8C%E5%8B%95%E4%BD%9C%E5%96%AE%E4%B8%80%E6%8F%90%E8%AD%B0%E6%94%B9%E5%8B%95-%E5%B0%8E%E6%BC%94%E4%B8%80%E5%8F%A5%E7%9B%B4%E6%8E%A5ko-%E6%88%91%E5%86%87%E5%86%8D%E7%88%AD%E8%AB%96",
+    "timestamp": "2026-05-16T11:39:22.667Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "電車女子車尾跨閘下車影片瘋傳！　搭霸王車VS跑去車頭付錢惹激辯",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260515/1132023807251320832362098.jpeg/NDATkl17_MVWm2qctS3CLElNS_eRWZeHiInLwYiJy8E?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60350376/%E9%BB%83%E4%BB%81%E5%8B%B3%E5%8C%97%E4%BA%AC%E6%8E%83%E8%A1%97%E5%A4%A7%E5%8F%A3%E5%90%83%E7%82%B8%E9%86%AC%E9%BA%B5-%E5%96%9D%E8%B1%86%E6%B1%81%E7%9A%BA%E7%9C%89%E5%95%8F-%E9%80%99%E6%98%AF%E4%BB%80%E9%BA%BC%E6%9D%B1%E8%A5%BF-%E6%9C%89%E7%89%87",
     "timestamp": "2026-05-15T10:43:20.247Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "AP x Swatch炒價直擊！香港排隊現人龍+白色款炒至逾3萬最搶手",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260515/1132005321682718720340528.jpeg/XWThCAladRsXTD8filJQ7tExyhS9iCRUk8NkyJPDZMg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E4%B8%80%E7%89%A9/60350253/ap-x-swatch%E7%82%92%E5%83%B9%E7%9B%B4%E6%93%8A-%E9%A6%99%E6%B8%AF%E6%8E%92%E9%9A%8A%E7%8F%BE%E4%BA%BA%E9%BE%8D-%E7%99%BD%E8%89%B2%E6%AC%BE%E7%82%92%E8%87%B3%E9%80%BE3%E8%90%AC%E6%9C%80%E6%90%B6%E6%89%8B",
-    "timestamp": "2026-05-15T09:48:48.923Z",
     "strategy": ".content-card__main"
   }
 ];
