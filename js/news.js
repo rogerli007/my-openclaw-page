@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-16T09:12:01.685Z
+// Last updated: 2026-05-16T10:40:46.650Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "滕麗名TVB頒獎禮18次提名全落敗　拒百萬酬勞拍三級片：我好保守",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260516/1132316399348224000163720.png/x3DDs5Mq6VyP48F-02dKss2h1OlAI8fRXUqB5l1KgeY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60350536/%E6%BB%95%E9%BA%97%E5%90%8Dtvb%E9%A0%92%E7%8D%8E%E7%A6%AE18%E6%AC%A1%E6%8F%90%E5%90%8D%E5%85%A8%E8%90%BD%E6%95%97-%E6%8B%92%E7%99%BE%E8%90%AC%E9%85%AC%E5%8B%9E%E6%8B%8D%E4%B8%89%E7%B4%9A%E7%89%87-%E6%88%91%E5%A5%BD%E4%BF%9D%E5%AE%88",
+    "timestamp": "2026-05-16T10:40:46.650Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "墨西哥教師要求大幅加薪　威脅若不滿足將世界盃開幕舉行抗議活動",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260515/1131988981982957568261345.jpeg/1FAl2JkE7QhyFLpnFOCAbd8EP5yXPY4P6mIXIepiFyE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60350365/%E7%89%B9%E6%9C%97%E6%99%AE%E8%A8%AA%E8%8F%AF-%E5%8D%88%E5%AE%B4%E9%A4%90%E5%96%AE%E6%9B%9D%E5%85%89-%E5%AE%AE%E4%BF%9D%E9%9B%9E%E4%B8%81%E7%82%B8%E9%BE%8D%E8%9D%A6%E7%90%83-%E6%88%96%E8%BF%8E%E5%90%88%E5%85%B6%E6%8C%91%E5%89%94%E5%8F%A3%E5%91%B3",
     "timestamp": "2026-05-15T08:46:27.850Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "高鐵｜港鐵：內地單位通報因天氣惡劣　個別列車將延遲或可能取消",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250502/994950710707884032821509.jpeg/cnY4vrzQPDKo6f5WXysThYsg2pa5vWtqOaoLTSOqC00?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60350335/%E9%AB%98%E9%90%B5-%E6%B8%AF%E9%90%B5-%E5%85%A7%E5%9C%B0%E5%96%AE%E4%BD%8D%E9%80%9A%E5%A0%B1%E5%9B%A0%E5%A4%A9%E6%B0%A3%E6%83%A1%E5%8A%A3-%E5%80%8B%E5%88%A5%E5%88%97%E8%BB%8A%E5%B0%87%E5%BB%B6%E9%81%B2%E6%88%96%E5%8F%AF%E8%83%BD%E5%8F%96%E6%B6%88",
-    "timestamp": "2026-05-15T07:42:03.086Z",
     "strategy": ".content-card__main"
   }
 ];
