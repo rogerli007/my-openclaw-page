@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-16T03:26:45.990Z
+// Last updated: 2026-05-16T06:42:02.284Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "人妻結婚1年崩潰求離婚　揭夫不刷牙不洗手　年過4旬理財仍靠阿媽",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260515/1132013898921152512567803.png/pa_avM-PFrsnLQkPJLXzIeFZDf3B8k25uaAObLmgDmw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60350395/%E4%BA%BA%E5%A6%BB%E7%B5%90%E5%A9%9A1%E5%B9%B4%E5%B4%A9%E6%BD%B0%E6%B1%82%E9%9B%A2%E5%A9%9A-%E6%8F%AD%E5%A4%AB%E4%B8%8D%E5%88%B7%E7%89%99%E4%B8%8D%E6%B4%97%E6%89%8B-%E5%B9%B4%E9%81%8E4%E6%97%AC%E7%90%86%E8%B2%A1%E4%BB%8D%E9%9D%A0%E9%98%BF%E5%AA%BD",
+    "timestamp": "2026-05-16T06:42:02.284Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "英超｜阿士東維拉主場大勝利物浦穩奪歐聯席位　紅軍爭前五有暗湧",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260213/1098924522381250560915847.jpeg/ehL8FS8CNx2pkUAljAiQ3J2Wls2Zqqilef4B9Xn-AfU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60350194/%E8%B5%A4%E6%9F%B1%E7%9B%A3%E7%8D%8435%E6%AD%B2%E7%94%B7%E5%9B%9A%E7%8A%AF%E4%BB%A5%E5%BA%8A%E5%96%AE%E4%B8%8A%E5%90%8A%E6%98%8F%E8%BF%B7-%E6%87%B2%E6%95%99%E7%BD%B2%E5%B0%87%E4%BA%8B%E4%BB%B6%E9%80%9A%E7%9F%A5%E8%AD%A6%E6%96%B9",
     "timestamp": "2026-05-15T03:30:48.639Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "奧德賽｜黑人演「海倫」被鬧爆罷睇　馬斯克批︰公然侮辱希臘人民",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260514/1131650321806790656257691.jpeg/YFmjfQZMLqFBN2FgpjkUeeMxvbV8Q5szU0feaFNH3mg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60349876/%E5%A5%A7%E5%BE%B7%E8%B3%BD-%E9%BB%91%E4%BA%BA%E6%BC%94-%E6%B5%B7%E5%80%AB-%E8%A2%AB%E9%AC%A7%E7%88%86%E7%BD%B7%E7%9D%87-%E9%A6%AC%E6%96%AF%E5%85%8B%E6%89%B9-%E5%85%AC%E7%84%B6%E4%BE%AE%E8%BE%B1%E5%B8%8C%E8%87%98%E4%BA%BA%E6%B0%91",
-    "timestamp": "2026-05-15T02:06:48.547Z",
     "strategy": ".content-card__main"
   }
 ];
