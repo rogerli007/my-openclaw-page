@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-16T11:39:22.667Z
+// Last updated: 2026-05-16T13:16:38.213Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "今日新聞8分鐘｜奧運冠軍楊威訴苦一家屈港｜九巴7旬客跌倒昏迷亡",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260516/1132412447311794176584329.jpeg/db4TubJejq7jd3sFhQtYh-zDafXjWx3eRWslSUVrJUk",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60350581/%E4%BB%8A%E6%97%A5%E6%96%B0%E8%81%9E8%E5%88%86%E9%90%98-%E5%A5%A7%E9%81%8B%E5%86%A0%E8%BB%8D%E6%A5%8A%E5%A8%81%E8%A8%B4%E8%8B%A6%E4%B8%80%E5%AE%B6%E5%B1%88%E6%B8%AF-%E4%B9%9D%E5%B7%B47%E6%97%AC%E5%AE%A2%E8%B7%8C%E5%80%92%E6%98%8F%E8%BF%B7%E4%BA%A1",
+    "timestamp": "2026-05-16T13:16:38.213Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "尚氣｜梁朝偉嫌動作單一提議改動　導演一句直接KO︰我冇再爭論",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/3325996/org/4bca6290ab90fb851ed6f1763a509445.jpg/ASamIGu4TnbiYR_CFf14tAakN6J1dn0oWsu-8VrLvvE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60350430/%E8%82%89%E6%AF%92%E6%A1%BF%E8%8F%8C-32%E6%AD%B2%E5%A5%B3%E5%AD%90%E6%B2%99%E7%94%B0%E6%89%93botox%E5%BE%8C%E7%96%91%E4%B8%AD%E6%AF%92%E7%95%99%E9%86%AB-%E6%B6%89%E9%9D%9E%E8%A8%BB%E5%86%8A%E9%86%AB%E7%94%9F%E6%B3%A8%E5%B0%84",
     "timestamp": "2026-05-15T13:17:38.355Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "黃仁勳北京掃街大口吃炸醬麵　喝豆汁皺眉問：這是什麼東西｜有片",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260515/1132023807251320832362098.jpeg/NDATkl17_MVWm2qctS3CLElNS_eRWZeHiInLwYiJy8E?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60350376/%E9%BB%83%E4%BB%81%E5%8B%B3%E5%8C%97%E4%BA%AC%E6%8E%83%E8%A1%97%E5%A4%A7%E5%8F%A3%E5%90%83%E7%82%B8%E9%86%AC%E9%BA%B5-%E5%96%9D%E8%B1%86%E6%B1%81%E7%9A%BA%E7%9C%89%E5%95%8F-%E9%80%99%E6%98%AF%E4%BB%80%E9%BA%BC%E6%9D%B1%E8%A5%BF-%E6%9C%89%E7%89%87",
-    "timestamp": "2026-05-15T10:43:20.247Z",
     "strategy": ".content-card__main"
   }
 ];
