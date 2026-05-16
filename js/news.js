@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-16T10:40:46.650Z
+// Last updated: 2026-05-16T11:13:41.582Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "電車女子車尾跨閘下車影片瘋傳！　搭霸王車VS跑去車頭付錢惹激辯",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260516/1132178093574721536608719.png/HU_RK3UzJ4f9va4SpJmskwNrWNZHlLF2L8q84C_KvOA",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60350308/%E9%9B%BB%E8%BB%8A%E5%A5%B3%E5%AD%90%E8%BB%8A%E5%B0%BE%E8%B7%A8%E9%96%98%E4%B8%8B%E8%BB%8A%E5%BD%B1%E7%89%87%E7%98%8B%E5%82%B3-%E6%90%AD%E9%9C%B8%E7%8E%8B%E8%BB%8Avs%E8%B7%91%E5%8E%BB%E8%BB%8A%E9%A0%AD%E4%BB%98%E9%8C%A2%E6%83%B9%E6%BF%80%E8%BE%AF",
+    "timestamp": "2026-05-16T11:13:41.582Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "滕麗名TVB頒獎禮18次提名全落敗　拒百萬酬勞拍三級片：我好保守",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260515/1132005321682718720340528.jpeg/XWThCAladRsXTD8filJQ7tExyhS9iCRUk8NkyJPDZMg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E4%B8%80%E7%89%A9/60350253/ap-x-swatch%E7%82%92%E5%83%B9%E7%9B%B4%E6%93%8A-%E9%A6%99%E6%B8%AF%E6%8E%92%E9%9A%8A%E7%8F%BE%E4%BA%BA%E9%BE%8D-%E7%99%BD%E8%89%B2%E6%AC%BE%E7%82%92%E8%87%B3%E9%80%BE3%E8%90%AC%E6%9C%80%E6%90%B6%E6%89%8B",
     "timestamp": "2026-05-15T09:48:48.923Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普訪華｜午宴餐單曝光：宮保雞丁炸龍蝦球　或迎合其挑剔口味",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260515/1131988981982957568261345.jpeg/1FAl2JkE7QhyFLpnFOCAbd8EP5yXPY4P6mIXIepiFyE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60350365/%E7%89%B9%E6%9C%97%E6%99%AE%E8%A8%AA%E8%8F%AF-%E5%8D%88%E5%AE%B4%E9%A4%90%E5%96%AE%E6%9B%9D%E5%85%89-%E5%AE%AE%E4%BF%9D%E9%9B%9E%E4%B8%81%E7%82%B8%E9%BE%8D%E8%9D%A6%E7%90%83-%E6%88%96%E8%BF%8E%E5%90%88%E5%85%B6%E6%8C%91%E5%89%94%E5%8F%A3%E5%91%B3",
-    "timestamp": "2026-05-15T08:46:27.850Z",
     "strategy": ".content-card__main"
   }
 ];
