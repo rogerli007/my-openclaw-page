@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-16T00:09:22.124Z
+// Last updated: 2026-05-16T01:13:38.706Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "藍田學童以為校巴開走爆喊！暖男贈$200搭的士　港媽尋人結局超暖",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260516/1132186016589811712567489.png/vsjynu-knfIxeITKC3qmXHdV7imoTZGitnFgHrZxYB4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60350468/%E8%97%8D%E7%94%B0%E5%AD%B8%E7%AB%A5%E4%BB%A5%E7%82%BA%E6%A0%A1%E5%B7%B4%E9%96%8B%E8%B5%B0%E7%88%86%E5%96%8A-%E6%9A%96%E7%94%B7%E8%B4%88-200%E6%90%AD%E7%9A%84%E5%A3%AB-%E6%B8%AF%E5%AA%BD%E5%B0%8B%E4%BA%BA%E7%B5%90%E5%B1%80%E8%B6%85%E6%9A%96",
+    "timestamp": "2026-05-16T01:13:38.706Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "路透︰SpaceX 最快6月12日上市",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260514/1131631793045245952458296.png/MTSEbsuuDCv5KTFqpXVB3yqiAAZTUMVQfFiWknxYlpI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60349920/68%E6%AD%B2%E5%86%BC%E7%81%9D%E8%8B%B1%E8%88%87%E8%8B%91%E7%93%8A%E4%B8%B9%E8%81%9A%E6%9C%83%E8%BF%91%E6%B3%81%E6%9B%9D%E5%85%89-%E6%9B%BE%E5%98%86%E8%A2%ABtvb%E6%8A%95%E9%96%92%E7%BD%AE%E6%95%A3%E7%84%A1%E4%BB%BD%E5%AE%A3%E5%82%B3",
     "timestamp": "2026-05-15T00:11:17.957Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "內塔尼亞胡擬起訴《紐約時報》　指誹謗以軍性侵巴勒斯坦囚犯",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260515/1131755617728335872120458.jpeg/gFJMDDOS9zjp7bqNot1xZEt9r2_m9Yyi0tYDYtLWA2I?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60350088/%E5%85%A7%E5%A1%94%E5%B0%BC%E4%BA%9E%E8%83%A1%E6%93%AC%E8%B5%B7%E8%A8%B4-%E7%B4%90%E7%B4%84%E6%99%82%E5%A0%B1-%E6%8C%87%E8%AA%B9%E8%AC%97%E4%BB%A5%E8%BB%8D%E6%80%A7%E4%BE%B5%E5%B7%B4%E5%8B%92%E6%96%AF%E5%9D%A6%E5%9B%9A%E7%8A%AF",
-    "timestamp": "2026-05-14T23:39:08.571Z",
     "strategy": ".content-card__main"
   }
 ];
