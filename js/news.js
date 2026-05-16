@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-16T13:59:33.279Z
+// Last updated: 2026-05-16T14:37:29.570Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "沙田中心行人天橋逼爆　市民圍觀燕子歸巢　管理處去年曾違法拆巢",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260516/1132434644134793216254637.jpeg/2qGODp8ZWgWR-U6V5LWbv7dmNB2cOt28WhCoMVoQqDE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60350602/%E6%B2%99%E7%94%B0%E4%B8%AD%E5%BF%83%E8%A1%8C%E4%BA%BA%E5%A4%A9%E6%A9%8B%E9%80%BC%E7%88%86-%E5%B8%82%E6%B0%91%E5%9C%8D%E8%A7%80%E7%87%95%E5%AD%90%E6%AD%B8%E5%B7%A2-%E7%AE%A1%E7%90%86%E8%99%95%E5%8E%BB%E5%B9%B4%E6%9B%BE%E9%81%95%E6%B3%95%E6%8B%86%E5%B7%A2",
+    "timestamp": "2026-05-16T14:37:29.570Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "一人要¥20999！武漢開出新疆旅遊專列　17日豪華臥鋪配管家導遊",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260515/1132103746931658752426710.jpeg/1r5Vd8l4iKWzGTwhihgupOxOv4goeQoX7Rrr3e0a690",
     "url": "https://www.hk01.com/%E9%81%8A%E6%88%B2%E5%8B%95%E6%BC%AB/60350453/%E5%8F%B0%E5%A0%B4%E7%8D%A8%E8%A7%92%E7%8D%B8%E9%AB%98%E9%81%942026%E5%B9%B48%E6%9C%88%E9%80%80%E5%BD%B9-%E9%80%80%E5%BD%B9%E5%89%8D%E6%9C%89%E6%B4%BB%E5%8B%95-%E6%96%B0%E5%9C%B0%E6%A8%99%E6%9C%83%E6%98%AF%E5%93%AA%E6%A9%9F%E9%AB%94",
     "timestamp": "2026-05-15T16:46:43.070Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "要買飛機了？發改委鄭柵潔會見波音CEO：中美航空領域合作潛力大",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260515/1132071507443322880406395.jpeg/hwehIIke04B-rC80W8nPhUWdVqegqd2YHOQ0sBzkNLA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60350427/%E8%A6%81%E8%B2%B7%E9%A3%9B%E6%A9%9F%E4%BA%86-%E7%99%BC%E6%94%B9%E5%A7%94%E9%84%AD%E6%9F%B5%E6%BD%94%E6%9C%83%E8%A6%8B%E6%B3%A2%E9%9F%B3ceo-%E4%B8%AD%E7%BE%8E%E8%88%AA%E7%A9%BA%E9%A0%98%E5%9F%9F%E5%90%88%E4%BD%9C%E6%BD%9B%E5%8A%9B%E5%A4%A7",
-    "timestamp": "2026-05-15T14:04:35.464Z",
     "strategy": ".content-card__main"
   }
 ];
