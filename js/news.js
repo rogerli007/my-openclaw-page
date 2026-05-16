@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-16T21:08:47.944Z
+// Last updated: 2026-05-16T22:09:21.018Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "亞冠盃2︱C朗未能捧盃　艾納斯決賽0：1不敵大阪飛腳",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260517/1132536029765439488510846.jpeg/zXNhxLaKPPbleqZi1pzmIaD0PGocRwfFZucwD2bnMA8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60350632/%E4%BA%9E%E5%86%A0%E7%9B%832-c%E6%9C%97%E6%9C%AA%E8%83%BD%E6%8D%A7%E7%9B%83-%E8%89%BE%E7%B4%8D%E6%96%AF%E6%B1%BA%E8%B3%BD0-1%E4%B8%8D%E6%95%B5%E5%A4%A7%E9%98%AA%E9%A3%9B%E8%85%B3",
+    "timestamp": "2026-05-16T22:09:21.018Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "亞冠盃2︱C朗未能捧盃　艾納斯決賽0：1不敵大阪飛腳",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260516/1132353429503479808317624.png/y7PXQc4AlFVDvvCMv4C6SRqLLRGBoC4Qnomg-Z6JoPk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%97%9D%E6%96%87%E4%B8%AD%E5%9C%8B/60350556/%E9%A6%AC%E6%96%AF%E5%85%8B%E5%B9%BC%E5%AD%90%E6%96%B0%E4%B8%AD%E5%BC%8F%E9%A6%AC%E7%94%B2%E4%B8%80%E5%A4%9C%E5%94%AE%E7%BD%84-%E5%93%81%E7%89%8C%E5%89%B5%E5%A7%8B%E4%BA%BA%E6%8B%86%E8%A7%A3%E8%83%8C%E5%BE%8C%E7%9A%84%E6%96%87%E5%8C%96%E6%95%98%E4%BA%8B",
     "timestamp": "2026-05-16T08:23:13.827Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普訪華｜美媒記者北京街頭打卡：與大爺切磋乒乓球、挑戰豆汁",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260516/1132325571905196032829607.jpeg/hkDc3gkfbEgxM8QUDBu56myvoqrZM5B0dKdL8HSnS_A?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60350533/%E7%89%B9%E6%9C%97%E6%99%AE%E8%A8%AA%E8%8F%AF-%E7%BE%8E%E5%AA%92%E8%A8%98%E8%80%85%E5%8C%97%E4%BA%AC%E8%A1%97%E9%A0%AD%E6%89%93%E5%8D%A1-%E8%88%87%E5%A4%A7%E7%88%BA%E5%88%87%E7%A3%8B%E4%B9%92%E4%B9%93%E7%90%83-%E6%8C%91%E6%88%B0%E8%B1%86%E6%B1%81",
-    "timestamp": "2026-05-16T07:37:40.970Z",
     "strategy": ".content-card__main"
   }
 ];
