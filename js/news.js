@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-16T07:37:40.970Z
+// Last updated: 2026-05-16T08:23:13.827Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "馬斯克幼子新中式馬甲一夜售罄　品牌創始人拆解背後的文化敘事",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260516/1132353429503479808317624.png/y7PXQc4AlFVDvvCMv4C6SRqLLRGBoC4Qnomg-Z6JoPk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%97%9D%E6%96%87%E4%B8%AD%E5%9C%8B/60350556/%E9%A6%AC%E6%96%AF%E5%85%8B%E5%B9%BC%E5%AD%90%E6%96%B0%E4%B8%AD%E5%BC%8F%E9%A6%AC%E7%94%B2%E4%B8%80%E5%A4%9C%E5%94%AE%E7%BD%84-%E5%93%81%E7%89%8C%E5%89%B5%E5%A7%8B%E4%BA%BA%E6%8B%86%E8%A7%A3%E8%83%8C%E5%BE%8C%E7%9A%84%E6%96%87%E5%8C%96%E6%95%98%E4%BA%8B",
+    "timestamp": "2026-05-16T08:23:13.827Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "特朗普訪華｜美媒記者北京街頭打卡：與大爺切磋乒乓球、挑戰豆汁",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20240729/894594855882199040609143.jpeg/svBayBNVRAxi0DriO97M3ViE-qm_gwaHB5oshS2aLIU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60350283/%E5%AF%A9%E8%A8%88%E5%A0%B1%E5%91%8A-%E6%99%BA%E8%83%BD%E5%BB%9A%E9%A4%98%E6%A9%9F%E5%AE%89%E8%A3%9D%E9%80%BE%E6%9C%9F-%E7%92%B0%E4%BF%9D%E7%BD%B2-%E6%89%B9%E6%96%B0%E5%90%88%E7%B4%84%E6%9C%83%E5%81%9A%E5%A5%BD%E5%89%8D%E6%9C%9F%E6%BA%96%E5%82%99",
     "timestamp": "2026-05-15T06:22:00.346Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "日本「憂慮」習特會　高市早苗尋求與特朗普通話",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260320/1111716111927218176376840.jpeg/YpJe1VS6L51lO0rMPebyyhW7HT3LjfVf7j3rKO496yg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60350238/%E6%97%A5%E6%9C%AC-%E6%86%82%E6%85%AE-%E7%BF%92%E7%89%B9%E6%9C%83-%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%B0%8B%E6%B1%82%E8%88%87%E7%89%B9%E6%9C%97%E6%99%AE%E9%80%9A%E8%A9%B1",
-    "timestamp": "2026-05-15T04:54:47.613Z",
     "strategy": ".content-card__main"
   }
 ];
