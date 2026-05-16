@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-16T13:16:38.213Z
+// Last updated: 2026-05-16T13:59:33.279Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "一人要¥20999！武漢開出新疆旅遊專列　17日豪華臥鋪配管家導遊",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260516/1132427580641644544061728.jpeg/gnh3Dmwi01wf3UtWeUnhFNPwk0ojq8DL6tyo5urcqOY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60350603/%E4%B8%80%E4%BA%BA%E8%A6%81-20999-%E6%AD%A6%E6%BC%A2%E9%96%8B%E5%87%BA%E6%96%B0%E7%96%86%E6%97%85%E9%81%8A%E5%B0%88%E5%88%97-17%E6%97%A5%E8%B1%AA%E8%8F%AF%E8%87%A5%E9%8B%AA%E9%85%8D%E7%AE%A1%E5%AE%B6%E5%B0%8E%E9%81%8A",
+    "timestamp": "2026-05-16T13:59:33.279Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "今日新聞8分鐘｜奧運冠軍楊威訴苦一家屈港｜九巴7旬客跌倒昏迷亡",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260515/1132071507443322880406395.jpeg/hwehIIke04B-rC80W8nPhUWdVqegqd2YHOQ0sBzkNLA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60350427/%E8%A6%81%E8%B2%B7%E9%A3%9B%E6%A9%9F%E4%BA%86-%E7%99%BC%E6%94%B9%E5%A7%94%E9%84%AD%E6%9F%B5%E6%BD%94%E6%9C%83%E8%A6%8B%E6%B3%A2%E9%9F%B3ceo-%E4%B8%AD%E7%BE%8E%E8%88%AA%E7%A9%BA%E9%A0%98%E5%9F%9F%E5%90%88%E4%BD%9C%E6%BD%9B%E5%8A%9B%E5%A4%A7",
     "timestamp": "2026-05-15T14:04:35.464Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "肉毒桿菌｜32歲女子沙田打BOTOX後疑中毒留醫　涉非註冊醫生注射",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/3325996/org/4bca6290ab90fb851ed6f1763a509445.jpg/ASamIGu4TnbiYR_CFf14tAakN6J1dn0oWsu-8VrLvvE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60350430/%E8%82%89%E6%AF%92%E6%A1%BF%E8%8F%8C-32%E6%AD%B2%E5%A5%B3%E5%AD%90%E6%B2%99%E7%94%B0%E6%89%93botox%E5%BE%8C%E7%96%91%E4%B8%AD%E6%AF%92%E7%95%99%E9%86%AB-%E6%B6%89%E9%9D%9E%E8%A8%BB%E5%86%8A%E9%86%AB%E7%94%9F%E6%B3%A8%E5%B0%84",
-    "timestamp": "2026-05-15T13:17:38.355Z",
     "strategy": ".content-card__main"
   }
 ];
