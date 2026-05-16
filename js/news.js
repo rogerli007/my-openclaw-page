@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-16T01:13:38.706Z
+// Last updated: 2026-05-16T02:02:07.902Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "珠海海事局發航行警告　南海部分海域18日起進行實彈射擊",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20220803/631622812809170944354071.jpeg/nwfgFVsEI88HsGOWvxOCEk1KvcQTwTD1WIQLFViECxU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60350493/%E7%8F%A0%E6%B5%B7%E6%B5%B7%E4%BA%8B%E5%B1%80%E7%99%BC%E8%88%AA%E8%A1%8C%E8%AD%A6%E5%91%8A-%E5%8D%97%E6%B5%B7%E9%83%A8%E5%88%86%E6%B5%B7%E5%9F%9F18%E6%97%A5%E8%B5%B7%E9%80%B2%E8%A1%8C%E5%AF%A6%E5%BD%88%E5%B0%84%E6%93%8A",
+    "timestamp": "2026-05-16T02:02:07.902Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "藍田學童以為校巴開走爆喊！暖男贈$200搭的士　港媽尋人結局超暖",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20251017/1055875744955109376304867.jpeg/xDpXLLEFEIPYDFv5lDYAcicnK4RDcbLSEprTYBKa02A?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60350129/%E7%BE%8E%E6%96%B0%E8%82%A1%E9%9B%86%E8%B3%87%E7%8E%8Bcerebras%E9%A6%96%E6%8E%9B%E9%A3%8668-openai%E8%A1%8C%E6%94%BF%E7%B8%BD%E8%A3%81%E7%82%BA%E8%82%A1%E6%9D%B1%E4%B9%8B%E4%B8%80",
     "timestamp": "2026-05-15T01:17:29.103Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "68歲資深綠葉與苑瓊丹聚會近況曝光　曾嘆被TVB投閒置散無份宣傳",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260514/1131631793045245952458296.png/MTSEbsuuDCv5KTFqpXVB3yqiAAZTUMVQfFiWknxYlpI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60349920/68%E6%AD%B2%E5%86%BC%E7%81%9D%E8%8B%B1%E8%88%87%E8%8B%91%E7%93%8A%E4%B8%B9%E8%81%9A%E6%9C%83%E8%BF%91%E6%B3%81%E6%9B%9D%E5%85%89-%E6%9B%BE%E5%98%86%E8%A2%ABtvb%E6%8A%95%E9%96%92%E7%BD%AE%E6%95%A3%E7%84%A1%E4%BB%BD%E5%AE%A3%E5%82%B3",
-    "timestamp": "2026-05-15T00:11:17.957Z",
     "strategy": ".content-card__main"
   }
 ];
