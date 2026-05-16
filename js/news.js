@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-16T02:02:07.902Z
+// Last updated: 2026-05-16T03:26:45.990Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "英超｜阿士東維拉主場大勝利物浦穩奪歐聯席位　紅軍爭前五有暗湧",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260516/1132277824946704384867504.jpeg/V-zqemffXPoQtMmwEc8EFGl-deeuNs9FpCkw76QpMO8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60350500/%E8%8B%B1%E8%B6%85-%E9%98%BF%E5%A3%AB%E6%9D%B1%E7%B6%AD%E6%8B%89%E4%B8%BB%E5%A0%B4%E5%A4%A7%E5%8B%9D%E5%88%A9%E7%89%A9%E6%B5%A6%E7%A9%A9%E5%A5%AA%E6%AD%90%E8%81%AF%E5%B8%AD%E4%BD%8D-%E7%B4%85%E8%BB%8D%E7%88%AD%E5%89%8D%E4%BA%94%E6%9C%89%E6%9A%97%E6%B9%A7",
+    "timestamp": "2026-05-16T03:26:45.990Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "珠海海事局發航行警告　南海部分海域18日起進行實彈射擊",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260514/1131650321806790656257691.jpeg/YFmjfQZMLqFBN2FgpjkUeeMxvbV8Q5szU0feaFNH3mg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60349876/%E5%A5%A7%E5%BE%B7%E8%B3%BD-%E9%BB%91%E4%BA%BA%E6%BC%94-%E6%B5%B7%E5%80%AB-%E8%A2%AB%E9%AC%A7%E7%88%86%E7%BD%B7%E7%9D%87-%E9%A6%AC%E6%96%AF%E5%85%8B%E6%89%B9-%E5%85%AC%E7%84%B6%E4%BE%AE%E8%BE%B1%E5%B8%8C%E8%87%98%E4%BA%BA%E6%B0%91",
     "timestamp": "2026-05-15T02:06:48.547Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美新股集資王Cerebras首掛飆68%　OpenAI行政總裁為股東之一",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20251017/1055875744955109376304867.jpeg/xDpXLLEFEIPYDFv5lDYAcicnK4RDcbLSEprTYBKa02A?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60350129/%E7%BE%8E%E6%96%B0%E8%82%A1%E9%9B%86%E8%B3%87%E7%8E%8Bcerebras%E9%A6%96%E6%8E%9B%E9%A3%8668-openai%E8%A1%8C%E6%94%BF%E7%B8%BD%E8%A3%81%E7%82%BA%E8%82%A1%E6%9D%B1%E4%B9%8B%E4%B8%80",
-    "timestamp": "2026-05-15T01:17:29.103Z",
     "strategy": ".content-card__main"
   }
 ];
