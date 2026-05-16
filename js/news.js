@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-16T16:11:02.602Z
+// Last updated: 2026-05-16T16:39:27.724Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "5意大利人赴馬爾代夫水底50米洞穴潛水身亡　一救援潛水員殉職",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260517/1132477323728130048718934.jpeg/V57rjZeZgRmcd4IB1acQ0ao9fEb01ruyYpSrY2KUq2M?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60350623/5%E6%84%8F%E5%A4%A7%E5%88%A9%E4%BA%BA%E8%B5%B4%E9%A6%AC%E7%88%BE%E4%BB%A3%E5%A4%AB%E6%B0%B4%E5%BA%9550%E7%B1%B3%E6%B4%9E%E7%A9%B4%E6%BD%9B%E6%B0%B4%E8%BA%AB%E4%BA%A1-%E4%B8%80%E6%95%91%E6%8F%B4%E6%BD%9B%E6%B0%B4%E5%93%A1%E6%AE%89%E8%81%B7",
+    "timestamp": "2026-05-16T16:39:27.724Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "塞舌爾外長下週訪華　上月曾取消賴清德專機飛行許可",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260515/1131895559670468608964218.png/-qIOkELwVnhDWajsR2xqCxJDV3lsivGRxUGhx8VBocc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60348754/%E7%BE%8E%E5%9C%8B7%E6%AD%B2%E5%A5%B3%E7%AB%A5%E9%81%AD%E6%80%A7%E4%BE%B5%E6%AE%BA%E5%AE%B3-%E7%94%9F%E5%89%8D%E5%93%AD%E5%96%8A-%E6%88%91%E8%A6%81%E5%AA%BD%E5%AA%BD-fedex%E5%89%8D%E5%8F%B8%E6%A9%9F%E5%88%A4%E6%AD%BB%E5%88%91",
     "timestamp": "2026-05-15T21:42:49.366Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美國7歲女童遭性侵殺害　生前哭喊：我要媽媽　FedEx前司機判死刑",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260515/1131895559670468608964218.png/-qIOkELwVnhDWajsR2xqCxJDV3lsivGRxUGhx8VBocc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60348754/%E7%BE%8E%E5%9C%8B7%E6%AD%B2%E5%A5%B3%E7%AB%A5%E9%81%AD%E6%80%A7%E4%BE%B5%E6%AE%BA%E5%AE%B3-%E7%94%9F%E5%89%8D%E5%93%AD%E5%96%8A-%E6%88%91%E8%A6%81%E5%AA%BD%E5%AA%BD-fedex%E5%89%8D%E5%8F%B8%E6%A9%9F%E5%88%A4%E6%AD%BB%E5%88%91",
-    "timestamp": "2026-05-15T21:15:29.604Z",
     "strategy": ".content-card__main"
   }
 ];
