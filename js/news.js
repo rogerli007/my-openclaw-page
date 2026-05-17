@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-17T21:10:50.109Z
+// Last updated: 2026-05-17T22:10:36.729Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "「最強小三」激罕被百億男友鬧　與俄國靚仔曖昧：你係咪short㗎",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260517/1132803925620035584293087.jpeg/oMr5nJTjQGPU_3xwSCtQxEjHOyyKySPW-lFU-vpRVPo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60350742/%E4%BA%94%E7%B4%A2%E6%BF%80%E7%BD%95%E8%A2%AB%E9%A6%AC%E6%B8%85%E9%8F%97%E7%88%86%E9%AC%A7-%E8%88%87%E4%BF%84%E5%9C%8B%E9%9D%9A%E4%BB%94%E6%9B%96%E6%98%A7-%E4%BD%A0%E4%BF%82%E5%92%AAshort%E3%97%8E",
+    "timestamp": "2026-05-17T22:10:36.729Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "英超｜紐卡素贏3：1　韋斯咸護級勢危",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260517/1132699238476550144912364.jpeg/O_w2xpW5LTGOax5WhQ-Fnns7FcajqQEKxTRmGMU0Zhg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60350703/%E5%A4%A7%E5%9F%94%E9%90%B5%E9%A8%8E%E6%92%9E8%E7%B1%B3%E6%A8%B9%E6%9E%9D%E5%A5%AA%E5%91%BD-%E8%B7%AF%E6%94%BF-%E4%B8%8A%E6%9C%88%E6%AA%A2%E6%9F%A5%E7%84%A1%E7%95%B0%E6%A8%A3-%E7%96%91%E5%9B%A0%E5%A4%A9%E9%9B%A8%E9%99%A3%E9%A2%A8%E6%96%B7%E8%A3%82",
     "timestamp": "2026-05-17T07:44:37.248Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美名校生畢業旅行樂極生悲　18米高懸崖跳水慶祝　如撞玻璃沉底亡",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260517/1132651434001567744239645.png/tvMfy-99kEJeXCCvXh9_sAkv2zvAlLuCkyZ6F5Mmehc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60350669/%E7%BE%8E%E5%90%8D%E6%A0%A1%E7%94%9F%E7%95%A2%E6%A5%AD%E6%97%85%E8%A1%8C%E6%A8%82%E6%A5%B5%E7%94%9F%E6%82%B2-18%E7%B1%B3%E9%AB%98%E6%87%B8%E5%B4%96%E8%B7%B3%E6%B0%B4%E6%85%B6%E7%A5%9D-%E5%A6%82%E6%92%9E%E7%8E%BB%E7%92%83%E6%B2%89%E5%BA%95%E4%BA%A1",
-    "timestamp": "2026-05-17T06:39:00.272Z",
     "strategy": ".content-card__main"
   }
 ];
