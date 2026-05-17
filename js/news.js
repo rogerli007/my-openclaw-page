@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-17T15:32:10.286Z
+// Last updated: 2026-05-17T15:57:47.135Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "機場以北沙洲有船翻覆　據報有人墮海　由附近船隻救起",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260517/1132826793326153728183657.jpeg/oQWYHD5eObTibPijY1T45aSJOVym7d9tx61MTcetTE0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60350794/%E6%A9%9F%E5%A0%B4%E4%BB%A5%E5%8C%97%E6%B2%99%E6%B4%B2%E6%9C%89%E8%88%B9%E7%BF%BB%E8%A6%86-%E6%93%9A%E5%A0%B1%E6%9C%89%E4%BA%BA%E5%A2%AE%E6%B5%B7-%E7%94%B1%E9%99%84%E8%BF%91%E8%88%B9%E9%9A%BB%E6%95%91%E8%B5%B7",
+    "timestamp": "2026-05-17T15:57:47.135Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "慈樂邨火｜街坊親述逃生記　消防教四字訣「開拔套拉」用防煙頭套",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260517/1132536029765439488510846.jpeg/zXNhxLaKPPbleqZi1pzmIaD0PGocRwfFZucwD2bnMA8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60350632/%E4%BA%9E%E5%86%A0%E7%9B%832-c%E6%9C%97%E6%9C%AA%E8%83%BD%E6%8D%A7%E7%9B%83-%E8%89%BE%E7%B4%8D%E6%96%AF%E6%B1%BA%E8%B3%BD0-1%E4%B8%8D%E6%95%B5%E5%A4%A7%E9%98%AA%E9%A3%9B%E8%85%B3",
     "timestamp": "2026-05-16T22:09:21.018Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "亞冠盃2︱C朗未能捧盃　艾納斯決賽0：1不敵大阪飛腳",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260517/1132536029765439488510846.jpeg/zXNhxLaKPPbleqZi1pzmIaD0PGocRwfFZucwD2bnMA8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60350632/%E4%BA%9E%E5%86%A0%E7%9B%832-c%E6%9C%97%E6%9C%AA%E8%83%BD%E6%8D%A7%E7%9B%83-%E8%89%BE%E7%B4%8D%E6%96%AF%E6%B1%BA%E8%B3%BD0-1%E4%B8%8D%E6%95%B5%E5%A4%A7%E9%98%AA%E9%A3%9B%E8%85%B3",
-    "timestamp": "2026-05-16T21:08:47.944Z",
     "strategy": ".content-card__main"
   }
 ];
