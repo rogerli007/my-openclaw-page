@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-17T03:52:14.493Z
+// Last updated: 2026-05-17T05:28:08.767Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "洪水橋產業園｜林健鋒指納審計「綁手綁腳」礙速度　將研企業免稅",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260330/1115085568460460032845170.jpeg/jgHnEfP0_EQz4uvc_4hwZDZ7HfMYu8uYHjfB-R43wfk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60350670/%E6%B4%AA%E6%B0%B4%E6%A9%8B%E7%94%A2%E6%A5%AD%E5%9C%92-%E6%9E%97%E5%81%A5%E9%8B%92%E6%8C%87%E7%B4%8D%E5%AF%A9%E8%A8%88-%E7%B6%81%E6%89%8B%E7%B6%81%E8%85%B3-%E7%A4%99%E9%80%9F%E5%BA%A6-%E5%B0%87%E7%A0%94%E4%BC%81%E6%A5%AD%E5%85%8D%E7%A8%85",
+    "timestamp": "2026-05-17T05:28:08.767Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "何超蕸追思會｜四太梁安琪由何猷亨陪伴到場　何超盈一家三口現身",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260516/1132434644134793216254637.jpeg/2qGODp8ZWgWR-U6V5LWbv7dmNB2cOt28WhCoMVoQqDE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60350602/%E6%B2%99%E7%94%B0%E4%B8%AD%E5%BF%83%E8%A1%8C%E4%BA%BA%E5%A4%A9%E6%A9%8B%E9%80%BC%E7%88%86-%E5%B8%82%E6%B0%91%E5%9C%8D%E8%A7%80%E7%87%95%E5%AD%90%E6%AD%B8%E5%B7%A2-%E7%AE%A1%E7%90%86%E8%99%95%E5%8E%BB%E5%B9%B4%E6%9B%BE%E9%81%95%E6%B3%95%E6%8B%86%E5%B7%A2",
     "timestamp": "2026-05-16T14:37:29.570Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "一人要¥20999！武漢開出新疆旅遊專列　17日豪華臥鋪配管家導遊",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260516/1132427580641644544061728.jpeg/gnh3Dmwi01wf3UtWeUnhFNPwk0ojq8DL6tyo5urcqOY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60350603/%E4%B8%80%E4%BA%BA%E8%A6%81-20999-%E6%AD%A6%E6%BC%A2%E9%96%8B%E5%87%BA%E6%96%B0%E7%96%86%E6%97%85%E9%81%8A%E5%B0%88%E5%88%97-17%E6%97%A5%E8%B1%AA%E8%8F%AF%E8%87%A5%E9%8B%AA%E9%85%8D%E7%AE%A1%E5%AE%B6%E5%B0%8E%E9%81%8A",
-    "timestamp": "2026-05-16T13:59:33.279Z",
     "strategy": ".content-card__main"
   }
 ];
