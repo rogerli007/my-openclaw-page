@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-17T08:37:29.516Z
+// Last updated: 2026-05-17T09:26:15.525Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "《我們不是什麼》票房破千萬　譚耀文、AK化身茶餐廳夥計貼地慶功",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260517/1132730819647901696402783.png/cgPQTUQDT74xeHnMSREzuAvd6Vz5p91YOlMWZjpTFmY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60350728/%E6%88%91%E5%80%91%E4%B8%8D%E6%98%AF%E4%BB%80%E9%BA%BC-%E7%A5%A8%E6%88%BF%E7%A0%B4%E5%8D%83%E8%90%AC-%E8%AD%9A%E8%80%80%E6%96%87-ak%E5%8C%96%E8%BA%AB%E8%8C%B6%E9%A4%90%E5%BB%B3%E5%A4%A5%E8%A8%88%E8%B2%BC%E5%9C%B0%E6%85%B6%E5%8A%9F",
+    "timestamp": "2026-05-17T09:26:15.525Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "泰星Mild老公性侵親弟證據曝光　深夜致歉叔仔　宣佈暫時離開丈夫",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260517/1132485823028006912093824.jpeg/-AoAGBu8VowIT0qWLXENP-lxMPf9H5Ci7t9Muu7fTLo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60350626/%E6%9C%AC%E5%91%A8%E5%89%9B%E8%BE%AD%E8%81%B7%E5%90%91%E6%96%BD%E7%B4%80%E8%B3%A2%E9%80%BC%E5%AE%AE-%E8%8B%B1%E5%9C%8B%E5%89%8D%E8%A1%9B%E7%94%9F%E5%A4%A7%E8%87%A3%E6%96%BD%E5%8D%93%E6%B7%BB%E5%AE%A3%E5%B8%83%E5%B0%87%E7%AB%B6%E9%80%90%E9%BB%A8%E9%AD%81",
     "timestamp": "2026-05-16T17:40:31.159Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "5意大利人赴馬爾代夫水底50米洞穴潛水身亡　一救援潛水員殉職",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260517/1132477323728130048718934.jpeg/V57rjZeZgRmcd4IB1acQ0ao9fEb01ruyYpSrY2KUq2M?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60350623/5%E6%84%8F%E5%A4%A7%E5%88%A9%E4%BA%BA%E8%B5%B4%E9%A6%AC%E7%88%BE%E4%BB%A3%E5%A4%AB%E6%B0%B4%E5%BA%9550%E7%B1%B3%E6%B4%9E%E7%A9%B4%E6%BD%9B%E6%B0%B4%E8%BA%AB%E4%BA%A1-%E4%B8%80%E6%95%91%E6%8F%B4%E6%BD%9B%E6%B0%B4%E5%93%A1%E6%AE%89%E8%81%B7",
-    "timestamp": "2026-05-16T16:39:27.724Z",
     "strategy": ".content-card__main"
   }
 ];
