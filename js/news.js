@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-17T00:13:20.065Z
+// Last updated: 2026-05-17T01:22:14.421Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "珍惜生命｜屯門37歲內地女與男友爭執後墮樓　送院救治",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260505/1128239501752143872192576.jpeg/OW4DQRnESncd6gthrhoJ8R-g7B3ajfQnnZogNZ2aIDU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60350638/%E7%8F%8D%E6%83%9C%E7%94%9F%E5%91%BD-%E5%B1%AF%E9%96%8037%E6%AD%B2%E5%85%A7%E5%9C%B0%E5%A5%B3%E8%88%87%E7%94%B7%E5%8F%8B%E7%88%AD%E5%9F%B7%E5%BE%8C%E5%A2%AE%E6%A8%93-%E9%80%81%E9%99%A2%E6%95%91%E6%B2%BB",
+    "timestamp": "2026-05-17T01:22:14.421Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "日本飯糰為何多是三角形　相關紀念日因何叫Omusubi而非Onigiri？",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260516/1132353705585152000147239.jpeg/yDAWqMdyTbkIVjmIiFVbyJAEMaNOo3IejxsyU48bMlM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60350540/%E5%B0%9A%E6%B0%A3-%E6%A2%81%E6%9C%9D%E5%81%89%E5%AB%8C%E5%8B%95%E4%BD%9C%E5%96%AE%E4%B8%80%E6%8F%90%E8%AD%B0%E6%94%B9%E5%8B%95-%E5%B0%8E%E6%BC%94%E4%B8%80%E5%8F%A5%E7%9B%B4%E6%8E%A5ko-%E6%88%91%E5%86%87%E5%86%8D%E7%88%AD%E8%AB%96",
     "timestamp": "2026-05-16T11:39:22.667Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "電車女子車尾跨閘下車影片瘋傳！　搭霸王車VS跑去車頭付錢惹激辯",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260516/1132178093574721536608719.png/HU_RK3UzJ4f9va4SpJmskwNrWNZHlLF2L8q84C_KvOA",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60350308/%E9%9B%BB%E8%BB%8A%E5%A5%B3%E5%AD%90%E8%BB%8A%E5%B0%BE%E8%B7%A8%E9%96%98%E4%B8%8B%E8%BB%8A%E5%BD%B1%E7%89%87%E7%98%8B%E5%82%B3-%E6%90%AD%E9%9C%B8%E7%8E%8B%E8%BB%8Avs%E8%B7%91%E5%8E%BB%E8%BB%8A%E9%A0%AD%E4%BB%98%E9%8C%A2%E6%83%B9%E6%BF%80%E8%BE%AF",
-    "timestamp": "2026-05-16T11:13:41.582Z",
     "strategy": ".content-card__main"
   }
 ];
