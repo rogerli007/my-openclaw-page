@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-17T20:38:16.388Z
+// Last updated: 2026-05-17T21:10:50.109Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "英超｜紐卡素贏3：1　韋斯咸護級勢危",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260518/1132897162485698560487031.jpeg/TAuEvOWqKIUriI74NCYwoSZYx5GebktNiRkI2IkZCNg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60350813/%E8%8B%B1%E8%B6%85-%E7%B4%90%E5%8D%A1%E7%B4%A0%E8%B4%8F3-1-%E9%9F%8B%E6%96%AF%E5%92%B8%E8%AD%B7%E7%B4%9A%E5%8B%A2%E5%8D%B1",
+    "timestamp": "2026-05-17T21:10:50.109Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "英超｜紐卡素贏3：1　韋斯咸護級勢危",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260517/1132651434001567744239645.png/tvMfy-99kEJeXCCvXh9_sAkv2zvAlLuCkyZ6F5Mmehc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60350669/%E7%BE%8E%E5%90%8D%E6%A0%A1%E7%94%9F%E7%95%A2%E6%A5%AD%E6%97%85%E8%A1%8C%E6%A8%82%E6%A5%B5%E7%94%9F%E6%82%B2-18%E7%B1%B3%E9%AB%98%E6%87%B8%E5%B4%96%E8%B7%B3%E6%B0%B4%E6%85%B6%E7%A5%9D-%E5%A6%82%E6%92%9E%E7%8E%BB%E7%92%83%E6%B2%89%E5%BA%95%E4%BA%A1",
     "timestamp": "2026-05-17T06:39:00.272Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "洪水橋產業園｜林健鋒指納審計「綁手綁腳」礙速度　將研企業免稅",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260330/1115085568460460032845170.jpeg/jgHnEfP0_EQz4uvc_4hwZDZ7HfMYu8uYHjfB-R43wfk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60350670/%E6%B4%AA%E6%B0%B4%E6%A9%8B%E7%94%A2%E6%A5%AD%E5%9C%92-%E6%9E%97%E5%81%A5%E9%8B%92%E6%8C%87%E7%B4%8D%E5%AF%A9%E8%A8%88-%E7%B6%81%E6%89%8B%E7%B6%81%E8%85%B3-%E7%A4%99%E9%80%9F%E5%BA%A6-%E5%B0%87%E7%A0%94%E4%BC%81%E6%A5%AD%E5%85%8D%E7%A8%85",
-    "timestamp": "2026-05-17T05:28:08.767Z",
     "strategy": ".content-card__main"
   }
 ];
