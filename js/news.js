@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-17T20:12:11.277Z
+// Last updated: 2026-05-17T20:38:16.388Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "英超｜紐卡素贏3：1　韋斯咸護級勢危",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260518/1132897162485698560487031.jpeg/TAuEvOWqKIUriI74NCYwoSZYx5GebktNiRkI2IkZCNg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60350813/%E8%8B%B1%E8%B6%85-%E7%B4%90%E5%8D%A1%E7%B4%A0%E8%B4%8F3-1-%E9%9F%8B%E6%96%AF%E5%92%B8%E8%AD%B7%E7%B4%9A%E5%8B%A2%E5%8D%B1",
+    "timestamp": "2026-05-17T20:38:16.388Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "泰國火車與巴士相撞事故　火車司機毒檢初步呈陽性",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260330/1115085568460460032845170.jpeg/jgHnEfP0_EQz4uvc_4hwZDZ7HfMYu8uYHjfB-R43wfk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60350670/%E6%B4%AA%E6%B0%B4%E6%A9%8B%E7%94%A2%E6%A5%AD%E5%9C%92-%E6%9E%97%E5%81%A5%E9%8B%92%E6%8C%87%E7%B4%8D%E5%AF%A9%E8%A8%88-%E7%B6%81%E6%89%8B%E7%B6%81%E8%85%B3-%E7%A4%99%E9%80%9F%E5%BA%A6-%E5%B0%87%E7%A0%94%E4%BC%81%E6%A5%AD%E5%85%8D%E7%A8%85",
     "timestamp": "2026-05-17T05:28:08.767Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "何超蕸追思會｜四太梁安琪由何猷亨陪伴到場　何超盈一家三口現身",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260517/1132646039971434496735289.jpeg/lZuCptFoDCPtihm8OCPPTxxBCPKrfaaH813OX_Ndzl8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60350663/%E4%BD%95%E8%B6%85%E8%95%B8%E8%BF%BD%E6%80%9D%E6%9C%83-%E5%9B%9B%E5%A4%AA%E6%A2%81%E5%AE%89%E7%90%AA%E7%94%B1%E4%BD%95%E7%8C%B7%E4%BA%A8%E9%99%AA%E4%BC%B4%E5%88%B0%E5%A0%B4-%E4%BD%95%E8%B6%85%E7%9B%88%E4%B8%80%E5%AE%B6%E4%B8%89%E5%8F%A3%E7%8F%BE%E8%BA%AB",
-    "timestamp": "2026-05-17T03:52:14.493Z",
     "strategy": ".content-card__main"
   }
 ];
