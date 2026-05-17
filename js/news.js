@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-16T23:09:40.461Z
+// Last updated: 2026-05-17T00:13:20.065Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "日本飯糰為何多是三角形　相關紀念日因何叫Omusubi而非Onigiri？",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260506/1128650941596176384475910.jpeg/lgjbZFdYcxJPUyEqz8r81_z-XmuRZizyPDdGYTw3RmE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E4%B8%96%E7%95%8C%E5%B0%88%E9%A1%8C/60318824/%E6%97%A5%E6%9C%AC%E9%A3%AF%E7%B3%B0%E7%82%BA%E4%BD%95%E5%A4%9A%E6%98%AF%E4%B8%89%E8%A7%92%E5%BD%A2-%E7%9B%B8%E9%97%9C%E7%B4%80%E5%BF%B5%E6%97%A5%E5%9B%A0%E4%BD%95%E5%8F%ABomusubi%E8%80%8C%E9%9D%9Eonigiri",
+    "timestamp": "2026-05-17T00:13:20.065Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "亞冠盃2︱C朗未能捧盃　艾納斯決賽0：1不敵大阪飛腳",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260516/1132178093574721536608719.png/HU_RK3UzJ4f9va4SpJmskwNrWNZHlLF2L8q84C_KvOA",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60350308/%E9%9B%BB%E8%BB%8A%E5%A5%B3%E5%AD%90%E8%BB%8A%E5%B0%BE%E8%B7%A8%E9%96%98%E4%B8%8B%E8%BB%8A%E5%BD%B1%E7%89%87%E7%98%8B%E5%82%B3-%E6%90%AD%E9%9C%B8%E7%8E%8B%E8%BB%8Avs%E8%B7%91%E5%8E%BB%E8%BB%8A%E9%A0%AD%E4%BB%98%E9%8C%A2%E6%83%B9%E6%BF%80%E8%BE%AF",
     "timestamp": "2026-05-16T11:13:41.582Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "滕麗名TVB頒獎禮18次提名全落敗　拒百萬酬勞拍三級片：我好保守",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260516/1132316399348224000163720.png/x3DDs5Mq6VyP48F-02dKss2h1OlAI8fRXUqB5l1KgeY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60350536/%E6%BB%95%E9%BA%97%E5%90%8Dtvb%E9%A0%92%E7%8D%8E%E7%A6%AE18%E6%AC%A1%E6%8F%90%E5%90%8D%E5%85%A8%E8%90%BD%E6%95%97-%E6%8B%92%E7%99%BE%E8%90%AC%E9%85%AC%E5%8B%9E%E6%8B%8D%E4%B8%89%E7%B4%9A%E7%89%87-%E6%88%91%E5%A5%BD%E4%BF%9D%E5%AE%88",
-    "timestamp": "2026-05-16T10:40:46.650Z",
     "strategy": ".content-card__main"
   }
 ];
