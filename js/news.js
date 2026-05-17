@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-17T11:55:04.326Z
+// Last updated: 2026-05-17T13:42:26.056Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "張員瑛被控「C位病」同框前輩金智媛硬搶位置　遭當眾請走超尷尬",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260517/1132718185598947328843096.png/IfNroNQjoO3DSxSCHk-gCsjL3qNzed0x74DIkO-AyJA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60350723/%E5%BC%B5%E5%93%A1%E7%91%9B%E8%A2%AB%E6%8E%A7-c%E4%BD%8D%E7%97%85-%E5%90%8C%E6%A1%86%E5%89%8D%E8%BC%A9%E9%87%91%E6%99%BA%E5%AA%9B%E7%A1%AC%E6%90%B6%E4%BD%8D%E7%BD%AE-%E9%81%AD%E7%95%B6%E7%9C%BE%E8%AB%8B%E8%B5%B0%E8%B6%85%E5%B0%B7%E5%B0%AC",
+    "timestamp": "2026-05-17T13:42:26.056Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "林漪娸驚爆拍戲遭男星「加料伸脷」　螢幕初吻被加戲：肯定蝦𡃁妹",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260517/1132515059965104128769438.jpeg/MU3sIYUZB_m55IbNLX1GqE9QerpmetXi8jViuPI1Yrg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60350630/%E6%84%8F%E5%A4%A7%E5%88%A9%E5%8C%97%E9%83%A8%E8%BB%8A%E8%BC%9B%E6%92%9E%E4%BA%BA%E7%BE%A48%E5%82%B7-%E5%A5%B3%E5%82%B7%E8%80%85%E6%88%AA%E8%82%A2-%E5%B8%82%E9%95%B7-%E8%AA%BF%E6%9F%A5%E6%98%AF%E5%90%A6%E8%93%84%E6%84%8F%E6%92%9E%E4%BA%BA",
     "timestamp": "2026-05-16T20:10:34.113Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "意大利北部車輛撞人群8傷　女傷者截肢　市長：調查是否蓄意撞人",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260517/1132515059965104128769438.jpeg/MU3sIYUZB_m55IbNLX1GqE9QerpmetXi8jViuPI1Yrg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60350630/%E6%84%8F%E5%A4%A7%E5%88%A9%E5%8C%97%E9%83%A8%E8%BB%8A%E8%BC%9B%E6%92%9E%E4%BA%BA%E7%BE%A48%E5%82%B7-%E5%A5%B3%E5%82%B7%E8%80%85%E6%88%AA%E8%82%A2-%E5%B8%82%E9%95%B7-%E8%AA%BF%E6%9F%A5%E6%98%AF%E5%90%A6%E8%93%84%E6%84%8F%E6%92%9E%E4%BA%BA",
-    "timestamp": "2026-05-16T19:44:55.399Z",
     "strategy": ".content-card__main"
   }
 ];
