@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-17T19:35:56.872Z
+// Last updated: 2026-05-17T20:12:11.277Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "泰國火車與巴士相撞事故　火車司機毒檢初步呈陽性",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260518/1132886885635461120839512.jpeg/zC3lYKHCBRce6RL5aTJi0i7dUpJjEqgYjZe9442XveM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60350811/%E6%B3%B0%E5%9C%8B%E7%81%AB%E8%BB%8A%E8%88%87%E5%B7%B4%E5%A3%AB%E7%9B%B8%E6%92%9E%E4%BA%8B%E6%95%85-%E7%81%AB%E8%BB%8A%E5%8F%B8%E6%A9%9F%E6%AF%92%E6%AA%A2%E5%88%9D%E6%AD%A5%E5%91%88%E9%99%BD%E6%80%A7",
+    "timestamp": "2026-05-17T20:12:11.277Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "習特會｜白宮：中國承諾增購美農產品　連續3年每年至少170億美元",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260517/1132646039971434496735289.jpeg/lZuCptFoDCPtihm8OCPPTxxBCPKrfaaH813OX_Ndzl8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60350663/%E4%BD%95%E8%B6%85%E8%95%B8%E8%BF%BD%E6%80%9D%E6%9C%83-%E5%9B%9B%E5%A4%AA%E6%A2%81%E5%AE%89%E7%90%AA%E7%94%B1%E4%BD%95%E7%8C%B7%E4%BA%A8%E9%99%AA%E4%BC%B4%E5%88%B0%E5%A0%B4-%E4%BD%95%E8%B6%85%E7%9B%88%E4%B8%80%E5%AE%B6%E4%B8%89%E5%8F%A3%E7%8F%BE%E8%BA%AB",
     "timestamp": "2026-05-17T03:52:14.493Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "媽媽在超市讓女兒「隨便拿」結帳竟全退？網民：恐破壞孩子信任感",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260506/1128761147218989056953627.png/8BRq4_9f3_K8MMhZM0a2ERGXfBu3utfLBgs0WXMLNFk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%A6%AA%E5%AD%90/60347235/%E5%AA%BD%E5%AA%BD%E5%9C%A8%E8%B6%85%E5%B8%82%E8%AE%93%E5%A5%B3%E5%85%92-%E9%9A%A8%E4%BE%BF%E6%8B%BF-%E7%B5%90%E5%B8%B3%E7%AB%9F%E5%85%A8%E9%80%80-%E7%B6%B2%E6%B0%91-%E6%81%90%E7%A0%B4%E5%A3%9E%E5%AD%A9%E5%AD%90%E4%BF%A1%E4%BB%BB%E6%84%9F",
-    "timestamp": "2026-05-17T02:27:37.280Z",
     "strategy": ".content-card__main"
   }
 ];
