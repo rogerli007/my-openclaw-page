@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-17T07:44:37.248Z
+// Last updated: 2026-05-17T08:37:29.516Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "泰星Mild老公性侵親弟證據曝光　深夜致歉叔仔　宣佈暫時離開丈夫",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260517/1132642646238433280029618.png/MBvNMnt1KNYzb97N_5R27R565pv5zEIEvjNwvb4zcL0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E5%A8%9B%E6%A8%82/60350662/%E6%B3%B0%E6%98%9Fmild%E8%80%81%E5%85%AC%E6%80%A7%E4%BE%B5%E8%A6%AA%E5%BC%9F%E8%AD%89%E6%93%9A%E6%9B%9D%E5%85%89-%E6%B7%B1%E5%A4%9C%E8%87%B4%E6%AD%89%E5%8F%94%E4%BB%94-%E5%AE%A3%E4%BD%88%E6%9A%AB%E6%99%82%E9%9B%A2%E9%96%8B%E4%B8%88%E5%A4%AB",
+    "timestamp": "2026-05-17T08:37:29.516Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "大埔鐵騎撞8米樹枝奪命　路政:上月檢查無異樣　疑因天雨陣風斷裂",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260517/1132477323728130048718934.jpeg/V57rjZeZgRmcd4IB1acQ0ao9fEb01ruyYpSrY2KUq2M?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60350623/5%E6%84%8F%E5%A4%A7%E5%88%A9%E4%BA%BA%E8%B5%B4%E9%A6%AC%E7%88%BE%E4%BB%A3%E5%A4%AB%E6%B0%B4%E5%BA%9550%E7%B1%B3%E6%B4%9E%E7%A9%B4%E6%BD%9B%E6%B0%B4%E8%BA%AB%E4%BA%A1-%E4%B8%80%E6%95%91%E6%8F%B4%E6%BD%9B%E6%B0%B4%E5%93%A1%E6%AE%89%E8%81%B7",
     "timestamp": "2026-05-16T16:39:27.724Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "塞舌爾外長下週訪華　上月曾取消賴清德專機飛行許可",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260516/1132448701902491648172954.jpeg/kM7-23xGiMkHf8kvO-iiSDhb0UeNFCwuTmx8m05sfJs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60350612/%E5%A1%9E%E8%88%8C%E7%88%BE%E5%A4%96%E9%95%B7%E4%B8%8B%E9%80%B1%E8%A8%AA%E8%8F%AF-%E4%B8%8A%E6%9C%88%E6%9B%BE%E5%8F%96%E6%B6%88%E8%B3%B4%E6%B8%85%E5%BE%B7%E5%B0%88%E6%A9%9F%E9%A3%9B%E8%A1%8C%E8%A8%B1%E5%8F%AF",
-    "timestamp": "2026-05-16T16:11:02.602Z",
     "strategy": ".content-card__main"
   }
 ];
