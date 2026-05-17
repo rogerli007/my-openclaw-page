@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-17T17:55:55.738Z
+// Last updated: 2026-05-17T19:35:56.872Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "習特會｜白宮：中國承諾增購美農產品　連續3年每年至少170億美元",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260515/1131951678203891712853940.jpeg/b4kyRsXJoB9ud5ycw70v_sc-bqtXkOlp6wZ_GusGfxo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60350810/%E7%BF%92%E7%89%B9%E6%9C%83-%E7%99%BD%E5%AE%AE-%E4%B8%AD%E5%9C%8B%E6%89%BF%E8%AB%BE%E5%A2%9E%E8%B3%BC%E7%BE%8E%E8%BE%B2%E7%94%A2%E5%93%81-%E9%80%A3%E7%BA%8C3%E5%B9%B4%E6%AF%8F%E5%B9%B4%E8%87%B3%E5%B0%91170%E5%84%84%E7%BE%8E%E5%85%83",
+    "timestamp": "2026-05-17T19:35:56.872Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "特朗普警告伊朗時間不多　美媒：料19日討論軍事行動選項",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260506/1128761147218989056953627.png/8BRq4_9f3_K8MMhZM0a2ERGXfBu3utfLBgs0WXMLNFk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%A6%AA%E5%AD%90/60347235/%E5%AA%BD%E5%AA%BD%E5%9C%A8%E8%B6%85%E5%B8%82%E8%AE%93%E5%A5%B3%E5%85%92-%E9%9A%A8%E4%BE%BF%E6%8B%BF-%E7%B5%90%E5%B8%B3%E7%AB%9F%E5%85%A8%E9%80%80-%E7%B6%B2%E6%B0%91-%E6%81%90%E7%A0%B4%E5%A3%9E%E5%AD%A9%E5%AD%90%E4%BF%A1%E4%BB%BB%E6%84%9F",
     "timestamp": "2026-05-17T02:27:37.280Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "珍惜生命｜屯門37歲內地女與男友爭執後墮樓　送院救治",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260505/1128239501752143872192576.jpeg/OW4DQRnESncd6gthrhoJ8R-g7B3ajfQnnZogNZ2aIDU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60350638/%E7%8F%8D%E6%83%9C%E7%94%9F%E5%91%BD-%E5%B1%AF%E9%96%8037%E6%AD%B2%E5%85%A7%E5%9C%B0%E5%A5%B3%E8%88%87%E7%94%B7%E5%8F%8B%E7%88%AD%E5%9F%B7%E5%BE%8C%E5%A2%AE%E6%A8%93-%E9%80%81%E9%99%A2%E6%95%91%E6%B2%BB",
-    "timestamp": "2026-05-17T01:22:14.421Z",
     "strategy": ".content-card__main"
   }
 ];
