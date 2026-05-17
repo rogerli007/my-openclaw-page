@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-17T16:55:39.101Z
+// Last updated: 2026-05-17T17:31:06.514Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "社署嘉許逾200寄養家庭　長期服務最多超過30年",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260518/1132851469599510528639241.jpeg/-1GFQyAkUVixQDFYvzyXfQoA3frM-jFPtCljZ7QpY2c?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60350802/%E7%A4%BE%E7%BD%B2%E5%98%89%E8%A8%B1%E9%80%BE200%E5%AF%84%E9%A4%8A%E5%AE%B6%E5%BA%AD-%E9%95%B7%E6%9C%9F%E6%9C%8D%E5%8B%99%E6%9C%80%E5%A4%9A%E8%B6%85%E9%81%8E30%E5%B9%B4",
+    "timestamp": "2026-05-17T17:31:06.514Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "Anson Lo盧瀚霆演唱會2026澳門｜門票優先/公售攻略+連結+座位表",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260506/1128650941596176384475910.jpeg/lgjbZFdYcxJPUyEqz8r81_z-XmuRZizyPDdGYTw3RmE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E4%B8%96%E7%95%8C%E5%B0%88%E9%A1%8C/60318824/%E6%97%A5%E6%9C%AC%E9%A3%AF%E7%B3%B0%E7%82%BA%E4%BD%95%E5%A4%9A%E6%98%AF%E4%B8%89%E8%A7%92%E5%BD%A2-%E7%9B%B8%E9%97%9C%E7%B4%80%E5%BF%B5%E6%97%A5%E5%9B%A0%E4%BD%95%E5%8F%ABomusubi%E8%80%8C%E9%9D%9Eonigiri",
     "timestamp": "2026-05-17T00:13:20.065Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "亞冠盃2︱C朗未能捧盃　艾納斯決賽0：1不敵大阪飛腳",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260517/1132536029765439488510846.jpeg/zXNhxLaKPPbleqZi1pzmIaD0PGocRwfFZucwD2bnMA8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60350632/%E4%BA%9E%E5%86%A0%E7%9B%832-c%E6%9C%97%E6%9C%AA%E8%83%BD%E6%8D%A7%E7%9B%83-%E8%89%BE%E7%B4%8D%E6%96%AF%E6%B1%BA%E8%B3%BD0-1%E4%B8%8D%E6%95%B5%E5%A4%A7%E9%98%AA%E9%A3%9B%E8%85%B3",
-    "timestamp": "2026-05-16T23:09:40.461Z",
     "strategy": ".content-card__main"
   }
 ];
