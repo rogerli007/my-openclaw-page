@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-17T15:57:47.135Z
+// Last updated: 2026-05-17T16:30:45.952Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "WSBK捷克站｜「張雪機車」德比斯勝出次回合　奪本賽季第5冠",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260518/1132835521853263872538279.jpeg/SAYnQRw3GxL1zpBFVQzLb7aHICyZ2Xyd63IkCutyJAo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60350795/wsbk%E6%8D%B7%E5%85%8B%E7%AB%99-%E5%BC%B5%E9%9B%AA%E6%A9%9F%E8%BB%8A-%E5%BE%B7%E6%AF%94%E6%96%AF%E5%8B%9D%E5%87%BA%E6%AC%A1%E5%9B%9E%E5%90%88-%E5%A5%AA%E6%9C%AC%E8%B3%BD%E5%AD%A3%E7%AC%AC5%E5%86%A0",
+    "timestamp": "2026-05-17T16:30:45.952Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "機場以北沙洲有船翻覆　據報有人墮海　由附近船隻救起",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260517/1132536029765439488510846.jpeg/zXNhxLaKPPbleqZi1pzmIaD0PGocRwfFZucwD2bnMA8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60350632/%E4%BA%9E%E5%86%A0%E7%9B%832-c%E6%9C%97%E6%9C%AA%E8%83%BD%E6%8D%A7%E7%9B%83-%E8%89%BE%E7%B4%8D%E6%96%AF%E6%B1%BA%E8%B3%BD0-1%E4%B8%8D%E6%95%B5%E5%A4%A7%E9%98%AA%E9%A3%9B%E8%85%B3",
     "timestamp": "2026-05-16T22:35:54.056Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "亞冠盃2︱C朗未能捧盃　艾納斯決賽0：1不敵大阪飛腳",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260517/1132536029765439488510846.jpeg/zXNhxLaKPPbleqZi1pzmIaD0PGocRwfFZucwD2bnMA8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60350632/%E4%BA%9E%E5%86%A0%E7%9B%832-c%E6%9C%97%E6%9C%AA%E8%83%BD%E6%8D%A7%E7%9B%83-%E8%89%BE%E7%B4%8D%E6%96%AF%E6%B1%BA%E8%B3%BD0-1%E4%B8%8D%E6%95%B5%E5%A4%A7%E9%98%AA%E9%A3%9B%E8%85%B3",
-    "timestamp": "2026-05-16T22:09:21.018Z",
     "strategy": ".content-card__main"
   }
 ];
