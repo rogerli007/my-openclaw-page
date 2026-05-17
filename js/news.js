@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-17T05:28:08.767Z
+// Last updated: 2026-05-17T06:39:00.272Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美名校生畢業旅行樂極生悲　18米高懸崖跳水慶祝　如撞玻璃沉底亡",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260517/1132651434001567744239645.png/tvMfy-99kEJeXCCvXh9_sAkv2zvAlLuCkyZ6F5Mmehc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60350669/%E7%BE%8E%E5%90%8D%E6%A0%A1%E7%94%9F%E7%95%A2%E6%A5%AD%E6%97%85%E8%A1%8C%E6%A8%82%E6%A5%B5%E7%94%9F%E6%82%B2-18%E7%B1%B3%E9%AB%98%E6%87%B8%E5%B4%96%E8%B7%B3%E6%B0%B4%E6%85%B6%E7%A5%9D-%E5%A6%82%E6%92%9E%E7%8E%BB%E7%92%83%E6%B2%89%E5%BA%95%E4%BA%A1",
+    "timestamp": "2026-05-17T06:39:00.272Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "洪水橋產業園｜林健鋒指納審計「綁手綁腳」礙速度　將研企業免稅",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260516/1132463796514721792209486.jpeg/_8sv4GODeXjo5UWMsPSpe2S4x2ErJCW51KAGfu6gBn4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60350622/%E5%A4%A7%E5%9F%94%E9%9B%BB%E5%96%AE%E8%BB%8A%E6%92%9E%E5%A1%8C%E6%A8%B9-%E9%90%B5%E9%A8%8E%E5%A3%AB%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2%E6%90%B6%E6%95%91",
     "timestamp": "2026-05-16T15:41:46.196Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "沙田中心行人天橋逼爆　市民圍觀燕子歸巢　管理處去年曾違法拆巢",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260516/1132434644134793216254637.jpeg/2qGODp8ZWgWR-U6V5LWbv7dmNB2cOt28WhCoMVoQqDE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60350602/%E6%B2%99%E7%94%B0%E4%B8%AD%E5%BF%83%E8%A1%8C%E4%BA%BA%E5%A4%A9%E6%A9%8B%E9%80%BC%E7%88%86-%E5%B8%82%E6%B0%91%E5%9C%8D%E8%A7%80%E7%87%95%E5%AD%90%E6%AD%B8%E5%B7%A2-%E7%AE%A1%E7%90%86%E8%99%95%E5%8E%BB%E5%B9%B4%E6%9B%BE%E9%81%95%E6%B3%95%E6%8B%86%E5%B7%A2",
-    "timestamp": "2026-05-16T14:37:29.570Z",
     "strategy": ".content-card__main"
   }
 ];
