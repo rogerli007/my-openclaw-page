@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-17T10:09:37.741Z
+// Last updated: 2026-05-17T10:48:33.237Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "「我故鄉」抵達韓國　時隔12年再有朝鮮女足球員訪問",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260517/1132750148686843904012683.jpeg/C0gPdMWCqWapdbptIntMJxsb23nP1hHeL346CC9-Ogg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60350756/%E6%88%91%E6%95%85%E9%84%89-%E6%8A%B5%E9%81%94%E9%9F%93%E5%9C%8B-%E6%99%82%E9%9A%9412%E5%B9%B4%E5%86%8D%E6%9C%89%E6%9C%9D%E9%AE%AE%E5%A5%B3%E8%B6%B3%E7%90%83%E5%93%A1%E8%A8%AA%E5%95%8F",
+    "timestamp": "2026-05-17T10:48:33.237Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "曾挺彈劾特朗普　美共和黨參議員初選落敗無緣連任　成14年來首位",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260517/1132508532168462336018576.jpeg/h76Di5qIsZZLBDRcECz8QK3ZKoBUDXRbNI8lqTSPJak?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60350629/%E4%B8%96%E7%95%8C%E7%9B%83-fifa%E7%A7%98%E6%9B%B8%E9%95%B7%E5%B0%87%E6%99%A4%E4%BC%8A%E6%9C%97%E8%B6%B3%E7%B8%BD%E5%AE%98%E5%93%A1-%E4%BC%8A%E6%96%B9%E7%A8%B1%E5%B0%9A%E6%9C%AA%E7%8D%B2%E6%89%B9%E8%B5%B4%E7%BE%8E%E5%9C%8B%E7%B0%BD%E8%AD%89",
     "timestamp": "2026-05-16T18:41:14.194Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "本周剛辭職向施紀賢逼宮　英國前衛生大臣施卓添宣布將競逐黨魁",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260517/1132485823028006912093824.jpeg/-AoAGBu8VowIT0qWLXENP-lxMPf9H5Ci7t9Muu7fTLo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60350626/%E6%9C%AC%E5%91%A8%E5%89%9B%E8%BE%AD%E8%81%B7%E5%90%91%E6%96%BD%E7%B4%80%E8%B3%A2%E9%80%BC%E5%AE%AE-%E8%8B%B1%E5%9C%8B%E5%89%8D%E8%A1%9B%E7%94%9F%E5%A4%A7%E8%87%A3%E6%96%BD%E5%8D%93%E6%B7%BB%E5%AE%A3%E5%B8%83%E5%B0%87%E7%AB%B6%E9%80%90%E9%BB%A8%E9%AD%81",
-    "timestamp": "2026-05-16T18:09:09.937Z",
     "strategy": ".content-card__main"
   }
 ];
