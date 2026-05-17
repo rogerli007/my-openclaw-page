@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-17T17:31:06.514Z
+// Last updated: 2026-05-17T17:55:55.738Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "特朗普警告伊朗時間不多　美媒：料19日討論軍事行動選項",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260518/1132858800487796736241675.jpeg/QOpzgmbKqbxCcOthY2_o4dDbe_M8ylxwJb_pAyW_6QM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60350806/%E7%89%B9%E6%9C%97%E6%99%AE%E8%AD%A6%E5%91%8A%E4%BC%8A%E6%9C%97%E6%99%82%E9%96%93%E4%B8%8D%E5%A4%9A-%E7%BE%8E%E5%AA%92-%E6%96%9919%E6%97%A5%E8%A8%8E%E8%AB%96%E8%BB%8D%E4%BA%8B%E8%A1%8C%E5%8B%95%E9%81%B8%E9%A0%85",
+    "timestamp": "2026-05-17T17:55:55.738Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "社署嘉許逾200寄養家庭　長期服務最多超過30年",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260505/1128239501752143872192576.jpeg/OW4DQRnESncd6gthrhoJ8R-g7B3ajfQnnZogNZ2aIDU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60350638/%E7%8F%8D%E6%83%9C%E7%94%9F%E5%91%BD-%E5%B1%AF%E9%96%8037%E6%AD%B2%E5%85%A7%E5%9C%B0%E5%A5%B3%E8%88%87%E7%94%B7%E5%8F%8B%E7%88%AD%E5%9F%B7%E5%BE%8C%E5%A2%AE%E6%A8%93-%E9%80%81%E9%99%A2%E6%95%91%E6%B2%BB",
     "timestamp": "2026-05-17T01:22:14.421Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "日本飯糰為何多是三角形　相關紀念日因何叫Omusubi而非Onigiri？",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260506/1128650941596176384475910.jpeg/lgjbZFdYcxJPUyEqz8r81_z-XmuRZizyPDdGYTw3RmE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E4%B8%96%E7%95%8C%E5%B0%88%E9%A1%8C/60318824/%E6%97%A5%E6%9C%AC%E9%A3%AF%E7%B3%B0%E7%82%BA%E4%BD%95%E5%A4%9A%E6%98%AF%E4%B8%89%E8%A7%92%E5%BD%A2-%E7%9B%B8%E9%97%9C%E7%B4%80%E5%BF%B5%E6%97%A5%E5%9B%A0%E4%BD%95%E5%8F%ABomusubi%E8%80%8C%E9%9D%9Eonigiri",
-    "timestamp": "2026-05-17T00:13:20.065Z",
     "strategy": ".content-card__main"
   }
 ];
