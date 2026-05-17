@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-17T14:54:50.923Z
+// Last updated: 2026-05-17T15:32:10.286Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "慈樂邨火｜街坊親述逃生記　消防教四字訣「開拔套拉」用防煙頭套",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260517/1132817166022742016127368.jpeg/Gqud12MgagR7QnmPKlGun6URaixiNCLr4bwPq-G8D6s",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60350781/%E6%85%88%E6%A8%82%E9%82%A8%E7%81%AB-%E8%A1%97%E5%9D%8A%E8%A6%AA%E8%BF%B0%E9%80%83%E7%94%9F%E8%A8%98-%E6%B6%88%E9%98%B2%E6%95%99%E5%9B%9B%E5%AD%97%E8%A8%A3-%E9%96%8B%E6%8B%94%E5%A5%97%E6%8B%89-%E7%94%A8%E9%98%B2%E7%85%99%E9%A0%AD%E5%A5%97",
+    "timestamp": "2026-05-17T15:32:10.286Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "專跑機場司機分享經驗　揭旅客最常遺漏物品：每10人有1人回去拿",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260517/1132536029765439488510846.jpeg/zXNhxLaKPPbleqZi1pzmIaD0PGocRwfFZucwD2bnMA8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60350632/%E4%BA%9E%E5%86%A0%E7%9B%832-c%E6%9C%97%E6%9C%AA%E8%83%BD%E6%8D%A7%E7%9B%83-%E8%89%BE%E7%B4%8D%E6%96%AF%E6%B1%BA%E8%B3%BD0-1%E4%B8%8D%E6%95%B5%E5%A4%A7%E9%98%AA%E9%A3%9B%E8%85%B3",
     "timestamp": "2026-05-16T21:08:47.944Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "亞冠盃2︱C朗未能捧盃　艾納斯決賽0：1不敵大阪飛腳",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260517/1132536029765439488510846.jpeg/zXNhxLaKPPbleqZi1pzmIaD0PGocRwfFZucwD2bnMA8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60350632/%E4%BA%9E%E5%86%A0%E7%9B%832-c%E6%9C%97%E6%9C%AA%E8%83%BD%E6%8D%A7%E7%9B%83-%E8%89%BE%E7%B4%8D%E6%96%AF%E6%B1%BA%E8%B3%BD0-1%E4%B8%8D%E6%95%B5%E5%A4%A7%E9%98%AA%E9%A3%9B%E8%85%B3",
-    "timestamp": "2026-05-16T20:36:25.640Z",
     "strategy": ".content-card__main"
   }
 ];
