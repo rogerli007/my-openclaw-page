@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-17T22:10:36.729Z
+// Last updated: 2026-05-17T23:40:59.280Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "沙田的士剷上行人路撞愉翠商場外牆　消防員到場協助",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260518/1132946239436886016407835.jpeg/l3NybWDY1wYaLMMvDP6s2QICe2PBFr8ToJKrvKCSq7w?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60350818/%E6%B2%99%E7%94%B0%E7%9A%84%E5%A3%AB%E5%89%B7%E4%B8%8A%E8%A1%8C%E4%BA%BA%E8%B7%AF%E6%92%9E%E6%84%89%E7%BF%A0%E5%95%86%E5%A0%B4%E5%A4%96%E7%89%86-%E6%B6%88%E9%98%B2%E5%93%A1%E5%88%B0%E5%A0%B4%E5%8D%94%E5%8A%A9",
+    "timestamp": "2026-05-17T23:40:59.280Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "「最強小三」激罕被百億男友鬧　與俄國靚仔曖昧：你係咪short㗎",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260517/1132642646238433280029618.png/MBvNMnt1KNYzb97N_5R27R565pv5zEIEvjNwvb4zcL0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E5%A8%9B%E6%A8%82/60350662/%E6%B3%B0%E6%98%9Fmild%E8%80%81%E5%85%AC%E6%80%A7%E4%BE%B5%E8%A6%AA%E5%BC%9F%E8%AD%89%E6%93%9A%E6%9B%9D%E5%85%89-%E6%B7%B1%E5%A4%9C%E8%87%B4%E6%AD%89%E5%8F%94%E4%BB%94-%E5%AE%A3%E4%BD%88%E6%9A%AB%E6%99%82%E9%9B%A2%E9%96%8B%E4%B8%88%E5%A4%AB",
     "timestamp": "2026-05-17T08:37:29.516Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "大埔鐵騎撞8米樹枝奪命　路政:上月檢查無異樣　疑因天雨陣風斷裂",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260517/1132699238476550144912364.jpeg/O_w2xpW5LTGOax5WhQ-Fnns7FcajqQEKxTRmGMU0Zhg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60350703/%E5%A4%A7%E5%9F%94%E9%90%B5%E9%A8%8E%E6%92%9E8%E7%B1%B3%E6%A8%B9%E6%9E%9D%E5%A5%AA%E5%91%BD-%E8%B7%AF%E6%94%BF-%E4%B8%8A%E6%9C%88%E6%AA%A2%E6%9F%A5%E7%84%A1%E7%95%B0%E6%A8%A3-%E7%96%91%E5%9B%A0%E5%A4%A9%E9%9B%A8%E9%99%A3%E9%A2%A8%E6%96%B7%E8%A3%82",
-    "timestamp": "2026-05-17T07:44:37.248Z",
     "strategy": ".content-card__main"
   }
 ];
