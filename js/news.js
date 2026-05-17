@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-17T02:27:37.280Z
+// Last updated: 2026-05-17T03:52:14.493Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "何超蕸追思會｜四太梁安琪由何猷亨陪伴到場　何超盈一家三口現身",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260517/1132646039971434496735289.jpeg/lZuCptFoDCPtihm8OCPPTxxBCPKrfaaH813OX_Ndzl8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60350663/%E4%BD%95%E8%B6%85%E8%95%B8%E8%BF%BD%E6%80%9D%E6%9C%83-%E5%9B%9B%E5%A4%AA%E6%A2%81%E5%AE%89%E7%90%AA%E7%94%B1%E4%BD%95%E7%8C%B7%E4%BA%A8%E9%99%AA%E4%BC%B4%E5%88%B0%E5%A0%B4-%E4%BD%95%E8%B6%85%E7%9B%88%E4%B8%80%E5%AE%B6%E4%B8%89%E5%8F%A3%E7%8F%BE%E8%BA%AB",
+    "timestamp": "2026-05-17T03:52:14.493Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "媽媽在超市讓女兒「隨便拿」結帳竟全退？網民：恐破壞孩子信任感",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260516/1132427580641644544061728.jpeg/gnh3Dmwi01wf3UtWeUnhFNPwk0ojq8DL6tyo5urcqOY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60350603/%E4%B8%80%E4%BA%BA%E8%A6%81-20999-%E6%AD%A6%E6%BC%A2%E9%96%8B%E5%87%BA%E6%96%B0%E7%96%86%E6%97%85%E9%81%8A%E5%B0%88%E5%88%97-17%E6%97%A5%E8%B1%AA%E8%8F%AF%E8%87%A5%E9%8B%AA%E9%85%8D%E7%AE%A1%E5%AE%B6%E5%B0%8E%E9%81%8A",
     "timestamp": "2026-05-16T13:59:33.279Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "今日新聞8分鐘｜奧運冠軍楊威訴苦一家屈港｜九巴7旬客跌倒昏迷亡",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260516/1132412447311794176584329.jpeg/db4TubJejq7jd3sFhQtYh-zDafXjWx3eRWslSUVrJUk",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60350581/%E4%BB%8A%E6%97%A5%E6%96%B0%E8%81%9E8%E5%88%86%E9%90%98-%E5%A5%A7%E9%81%8B%E5%86%A0%E8%BB%8D%E6%A5%8A%E5%A8%81%E8%A8%B4%E8%8B%A6%E4%B8%80%E5%AE%B6%E5%B1%88%E6%B8%AF-%E4%B9%9D%E5%B7%B47%E6%97%AC%E5%AE%A2%E8%B7%8C%E5%80%92%E6%98%8F%E8%BF%B7%E4%BA%A1",
-    "timestamp": "2026-05-16T13:16:38.213Z",
     "strategy": ".content-card__main"
   }
 ];
