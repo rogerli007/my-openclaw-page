@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-17T01:22:14.421Z
+// Last updated: 2026-05-17T02:27:37.280Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "媽媽在超市讓女兒「隨便拿」結帳竟全退？網民：恐破壞孩子信任感",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260506/1128761147218989056953627.png/8BRq4_9f3_K8MMhZM0a2ERGXfBu3utfLBgs0WXMLNFk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%A6%AA%E5%AD%90/60347235/%E5%AA%BD%E5%AA%BD%E5%9C%A8%E8%B6%85%E5%B8%82%E8%AE%93%E5%A5%B3%E5%85%92-%E9%9A%A8%E4%BE%BF%E6%8B%BF-%E7%B5%90%E5%B8%B3%E7%AB%9F%E5%85%A8%E9%80%80-%E7%B6%B2%E6%B0%91-%E6%81%90%E7%A0%B4%E5%A3%9E%E5%AD%A9%E5%AD%90%E4%BF%A1%E4%BB%BB%E6%84%9F",
+    "timestamp": "2026-05-17T02:27:37.280Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "珍惜生命｜屯門37歲內地女與男友爭執後墮樓　送院救治",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260516/1132412447311794176584329.jpeg/db4TubJejq7jd3sFhQtYh-zDafXjWx3eRWslSUVrJUk",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60350581/%E4%BB%8A%E6%97%A5%E6%96%B0%E8%81%9E8%E5%88%86%E9%90%98-%E5%A5%A7%E9%81%8B%E5%86%A0%E8%BB%8D%E6%A5%8A%E5%A8%81%E8%A8%B4%E8%8B%A6%E4%B8%80%E5%AE%B6%E5%B1%88%E6%B8%AF-%E4%B9%9D%E5%B7%B47%E6%97%AC%E5%AE%A2%E8%B7%8C%E5%80%92%E6%98%8F%E8%BF%B7%E4%BA%A1",
     "timestamp": "2026-05-16T13:16:38.213Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "尚氣｜梁朝偉嫌動作單一提議改動　導演一句直接KO︰我冇再爭論",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260516/1132353705585152000147239.jpeg/yDAWqMdyTbkIVjmIiFVbyJAEMaNOo3IejxsyU48bMlM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60350540/%E5%B0%9A%E6%B0%A3-%E6%A2%81%E6%9C%9D%E5%81%89%E5%AB%8C%E5%8B%95%E4%BD%9C%E5%96%AE%E4%B8%80%E6%8F%90%E8%AD%B0%E6%94%B9%E5%8B%95-%E5%B0%8E%E6%BC%94%E4%B8%80%E5%8F%A5%E7%9B%B4%E6%8E%A5ko-%E6%88%91%E5%86%87%E5%86%8D%E7%88%AD%E8%AB%96",
-    "timestamp": "2026-05-16T11:39:22.667Z",
     "strategy": ".content-card__main"
   }
 ];
