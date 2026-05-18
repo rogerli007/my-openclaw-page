@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-17T23:40:59.280Z
+// Last updated: 2026-05-18T00:12:15.323Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "楊莉珊｜勿「獨」警告——主權紅線下的台灣抉擇",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260518/1132948199850381312576108.jpeg/POZr8E-K2WkOcCcJGNXKAF2Wemfw1PPin-Y-85_mPvM?v=w1920r16_9",
+    "url": "https://www.hk01.com/01%E8%AB%96%E5%A3%87/60350820/%E6%A5%8A%E8%8E%89%E7%8F%8A-%E5%8B%BF-%E7%8D%A8-%E8%AD%A6%E5%91%8A-%E4%B8%BB%E6%AC%8A%E7%B4%85%E7%B7%9A%E4%B8%8B%E7%9A%84%E5%8F%B0%E7%81%A3%E6%8A%89%E6%93%87",
+    "timestamp": "2026-05-18T00:12:15.323Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "沙田的士剷上行人路撞愉翠商場外牆　消防員到場協助",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260517/1132730819647901696402783.png/cgPQTUQDT74xeHnMSREzuAvd6Vz5p91YOlMWZjpTFmY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60350728/%E6%88%91%E5%80%91%E4%B8%8D%E6%98%AF%E4%BB%80%E9%BA%BC-%E7%A5%A8%E6%88%BF%E7%A0%B4%E5%8D%83%E8%90%AC-%E8%AD%9A%E8%80%80%E6%96%87-ak%E5%8C%96%E8%BA%AB%E8%8C%B6%E9%A4%90%E5%BB%B3%E5%A4%A5%E8%A8%88%E8%B2%BC%E5%9C%B0%E6%85%B6%E5%8A%9F",
     "timestamp": "2026-05-17T09:26:15.525Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "泰星Mild老公性侵親弟證據曝光　深夜致歉叔仔　宣佈暫時離開丈夫",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260517/1132642646238433280029618.png/MBvNMnt1KNYzb97N_5R27R565pv5zEIEvjNwvb4zcL0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E5%A8%9B%E6%A8%82/60350662/%E6%B3%B0%E6%98%9Fmild%E8%80%81%E5%85%AC%E6%80%A7%E4%BE%B5%E8%A6%AA%E5%BC%9F%E8%AD%89%E6%93%9A%E6%9B%9D%E5%85%89-%E6%B7%B1%E5%A4%9C%E8%87%B4%E6%AD%89%E5%8F%94%E4%BB%94-%E5%AE%A3%E4%BD%88%E6%9A%AB%E6%99%82%E9%9B%A2%E9%96%8B%E4%B8%88%E5%A4%AB",
-    "timestamp": "2026-05-17T08:37:29.516Z",
     "strategy": ".content-card__main"
   }
 ];
