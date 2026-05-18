@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-18T20:25:35.136Z
+// Last updated: 2026-05-18T21:01:00.087Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "特朗普指伊朗新提案令人失望　但推遲原定19日軍事打擊",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260506/1128626777749458944241309.jpeg/HN1y9oE1q6aLNXhcUQhXfpSqOrFQDilOWTmMAlk5jAI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60351197/%E7%89%B9%E6%9C%97%E6%99%AE%E6%8C%87%E4%BC%8A%E6%9C%97%E6%96%B0%E6%8F%90%E6%A1%88%E4%BB%A4%E4%BA%BA%E5%A4%B1%E6%9C%9B-%E4%BD%86%E6%8E%A8%E9%81%B2%E5%8E%9F%E5%AE%9A19%E6%97%A5%E8%BB%8D%E4%BA%8B%E6%89%93%E6%93%8A",
+    "timestamp": "2026-05-18T21:01:00.087Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "特朗普指伊朗新提案令人失望　但推遲原定19日軍事打擊",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260515/1131951678203891712853940.jpeg/b4kyRsXJoB9ud5ycw70v_sc-bqtXkOlp6wZ_GusGfxo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60350810/%E7%BF%92%E7%89%B9%E6%9C%83-%E7%99%BD%E5%AE%AE-%E4%B8%AD%E5%9C%8B%E6%89%BF%E8%AB%BE%E5%A2%9E%E8%B3%BC%E7%BE%8E%E8%BE%B2%E7%94%A2%E5%93%81-%E9%80%A3%E7%BA%8C3%E5%B9%B4%E6%AF%8F%E5%B9%B4%E8%87%B3%E5%B0%91170%E5%84%84%E7%BE%8E%E5%85%83",
     "timestamp": "2026-05-17T19:35:56.872Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普警告伊朗時間不多　美媒：料19日討論軍事行動選項",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260518/1132858800487796736241675.jpeg/QOpzgmbKqbxCcOthY2_o4dDbe_M8ylxwJb_pAyW_6QM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60350806/%E7%89%B9%E6%9C%97%E6%99%AE%E8%AD%A6%E5%91%8A%E4%BC%8A%E6%9C%97%E6%99%82%E9%96%93%E4%B8%8D%E5%A4%9A-%E7%BE%8E%E5%AA%92-%E6%96%9919%E6%97%A5%E8%A8%8E%E8%AB%96%E8%BB%8D%E4%BA%8B%E8%A1%8C%E5%8B%95%E9%81%B8%E9%A0%85",
-    "timestamp": "2026-05-17T17:55:55.738Z",
     "strategy": ".content-card__main"
   }
 ];
