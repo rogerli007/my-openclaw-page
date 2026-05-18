@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-18T18:52:47.426Z
+// Last updated: 2026-05-18T20:25:35.136Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "特朗普指伊朗新提案令人失望　但推遲原定19日軍事打擊",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260506/1128626777749458944241309.jpeg/HN1y9oE1q6aLNXhcUQhXfpSqOrFQDilOWTmMAlk5jAI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60351197/%E7%89%B9%E6%9C%97%E6%99%AE%E6%8C%87%E4%BC%8A%E6%9C%97%E6%96%B0%E6%8F%90%E6%A1%88%E4%BB%A4%E4%BA%BA%E5%A4%B1%E6%9C%9B-%E4%BD%86%E6%8E%A8%E9%81%B2%E5%8E%9F%E5%AE%9A19%E6%97%A5%E8%BB%8D%E4%BA%8B%E6%89%93%E6%93%8A",
+    "timestamp": "2026-05-18T20:25:35.136Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "漢坦病毒｜美國科羅拉多州一宗死亡病例　本地感染與爆疫郵輪無關",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260518/1132858800487796736241675.jpeg/QOpzgmbKqbxCcOthY2_o4dDbe_M8ylxwJb_pAyW_6QM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60350806/%E7%89%B9%E6%9C%97%E6%99%AE%E8%AD%A6%E5%91%8A%E4%BC%8A%E6%9C%97%E6%99%82%E9%96%93%E4%B8%8D%E5%A4%9A-%E7%BE%8E%E5%AA%92-%E6%96%9919%E6%97%A5%E8%A8%8E%E8%AB%96%E8%BB%8D%E4%BA%8B%E8%A1%8C%E5%8B%95%E9%81%B8%E9%A0%85",
     "timestamp": "2026-05-17T17:55:55.738Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "社署嘉許逾200寄養家庭　長期服務最多超過30年",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260518/1132851469599510528639241.jpeg/-1GFQyAkUVixQDFYvzyXfQoA3frM-jFPtCljZ7QpY2c?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60350802/%E7%A4%BE%E7%BD%B2%E5%98%89%E8%A8%B1%E9%80%BE200%E5%AF%84%E9%A4%8A%E5%AE%B6%E5%BA%AD-%E9%95%B7%E6%9C%9F%E6%9C%8D%E5%8B%99%E6%9C%80%E5%A4%9A%E8%B6%85%E9%81%8E30%E5%B9%B4",
-    "timestamp": "2026-05-17T17:31:06.514Z",
     "strategy": ".content-card__main"
   }
 ];
