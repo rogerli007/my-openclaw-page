@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-18T07:08:38.466Z
+// Last updated: 2026-05-18T08:39:52.510Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "日本拉麵店公告「吉伊卡哇禁入」惹議　揭曾有客人餐後佔位玩周邊",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260518/1133066568188563456762843.jpeg/SnuUPLACLbb_XrDja3D46wubSxmIjnRmkD5ZDJA-WQw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60351004/%E6%97%A5%E6%9C%AC%E6%8B%89%E9%BA%B5%E5%BA%97%E5%85%AC%E5%91%8A-%E5%90%89%E4%BC%8A%E5%8D%A1%E5%93%87%E7%A6%81%E5%85%A5-%E6%83%B9%E8%AD%B0-%E6%8F%AD%E6%9B%BE%E6%9C%89%E5%AE%A2%E4%BA%BA%E9%A4%90%E5%BE%8C%E4%BD%94%E4%BD%8D%E7%8E%A9%E5%91%A8%E9%82%8A",
+    "timestamp": "2026-05-18T08:39:52.510Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "啟德零售館首季整體表現按年增長4成　AC米蘭足球學院即將開幕",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260517/1132718185598947328843096.png/IfNroNQjoO3DSxSCHk-gCsjL3qNzed0x74DIkO-AyJA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60350723/%E5%BC%B5%E5%93%A1%E7%91%9B%E8%A2%AB%E6%8E%A7-c%E4%BD%8D%E7%97%85-%E5%90%8C%E6%A1%86%E5%89%8D%E8%BC%A9%E9%87%91%E6%99%BA%E5%AA%9B%E7%A1%AC%E6%90%B6%E4%BD%8D%E7%BD%AE-%E9%81%AD%E7%95%B6%E7%9C%BE%E8%AB%8B%E8%B5%B0%E8%B6%85%E5%B0%B7%E5%B0%AC",
     "timestamp": "2026-05-17T13:42:26.056Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "林漪娸驚爆拍戲遭男星「加料伸脷」　螢幕初吻被加戲：肯定蝦𡃁妹",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260517/1132692066980073472849527.jpeg/4k5_uuWS-wPaHiQSwh6HjTCnq8j2voj6VgM95FYDPeQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60350691/%E6%9E%97%E6%BC%AA%E5%A8%B8%E9%A9%9A%E7%88%86%E6%8B%8D%E6%88%B2%E9%81%AD%E7%94%B7%E6%98%9F-%E5%8A%A0%E6%96%99%E4%BC%B8%E8%84%B7-%E8%9E%A2%E5%B9%95%E5%88%9D%E5%90%BB%E8%A2%AB%E5%8A%A0%E6%88%B2-%E8%82%AF%E5%AE%9A%E8%9D%A6%F0%A1%83%81%E5%A6%B9",
-    "timestamp": "2026-05-17T11:55:04.326Z",
     "strategy": ".content-card__main"
   }
 ];
