@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-18T17:09:18.941Z
+// Last updated: 2026-05-18T18:01:07.233Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美財長：再延長豁免俄海運石油制裁30天",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260519/1133221408344641536104735.jpeg/xetdCd29p-FDmj0bJMtG1_rzl167T-lN5nnr6OZ56-g?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60351191/%E7%BE%8E%E8%B2%A1%E9%95%B7-%E5%86%8D%E5%BB%B6%E9%95%B7%E8%B1%81%E5%85%8D%E4%BF%84%E6%B5%B7%E9%81%8B%E7%9F%B3%E6%B2%B9%E5%88%B6%E8%A3%8130%E5%A4%A9",
+    "timestamp": "2026-05-18T18:01:07.233Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "女神配對計劃2｜林盛斌爆有新玩法　江美儀睇好怕羞仔地產經紀",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260514/1131596424614514688163280.jpeg/Nxg2ONIwcLh1NGQcI8P8kgv5F7gXulQdb9hJ9m_YSfY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60349861/anson-lo%E7%9B%A7%E7%80%9A%E9%9C%86%E6%BC%94%E5%94%B1%E6%9C%832026%E6%BE%B3%E9%96%80-%E9%96%80%E7%A5%A8%E5%84%AA%E5%85%88-%E5%85%AC%E5%94%AE%E6%94%BB%E7%95%A5-%E9%80%A3%E7%B5%90-%E5%BA%A7%E4%BD%8D%E8%A1%A8",
     "timestamp": "2026-05-17T16:55:39.101Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "WSBK捷克站｜「張雪機車」德比斯勝出次回合　奪本賽季第5冠",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260518/1132835521853263872538279.jpeg/SAYnQRw3GxL1zpBFVQzLb7aHICyZ2Xyd63IkCutyJAo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60350795/wsbk%E6%8D%B7%E5%85%8B%E7%AB%99-%E5%BC%B5%E9%9B%AA%E6%A9%9F%E8%BB%8A-%E5%BE%B7%E6%AF%94%E6%96%AF%E5%8B%9D%E5%87%BA%E6%AC%A1%E5%9B%9E%E5%90%88-%E5%A5%AA%E6%9C%AC%E8%B3%BD%E5%AD%A3%E7%AC%AC5%E5%86%A0",
-    "timestamp": "2026-05-17T16:30:45.952Z",
     "strategy": ".content-card__main"
   }
 ];
