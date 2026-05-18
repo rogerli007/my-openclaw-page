@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-18T00:12:15.323Z
+// Last updated: 2026-05-18T01:24:06.710Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "召妓感染陰蝨！年輕男下體痕癢醫生當場抓4隻：還有很多　4招杜絕",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260516/1132178213745725440397526.png/ccUNwFqb3-9jrL6EmFU40a_YopDbsM6QQ0_kPUNP5D0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60350432/%E5%8F%AC%E5%A6%93%E6%84%9F%E6%9F%93%E9%99%B0%E8%9D%A8-%E5%B9%B4%E8%BC%95%E7%94%B7%E4%B8%8B%E9%AB%94%E7%97%95%E7%99%A2%E9%86%AB%E7%94%9F%E7%95%B6%E5%A0%B4%E6%8A%934%E9%9A%BB-%E9%82%84%E6%9C%89%E5%BE%88%E5%A4%9A-4%E6%8B%9B%E6%9D%9C%E7%B5%95",
+    "timestamp": "2026-05-18T01:24:06.710Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "楊莉珊｜勿「獨」警告——主權紅線下的台灣抉擇",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260517/1132707998129459200813042.jpeg/zDa7-j-_p6aQlBfRMeh2drnEit3OR9PkrYz7k62M-5M?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60350708/%E6%9B%BE%E6%8C%BA%E5%BD%88%E5%8A%BE%E7%89%B9%E6%9C%97%E6%99%AE-%E7%BE%8E%E5%85%B1%E5%92%8C%E9%BB%A8%E5%8F%83%E8%AD%B0%E5%93%A1%E5%88%9D%E9%81%B8%E8%90%BD%E6%95%97%E7%84%A1%E7%B7%A3%E9%80%A3%E4%BB%BB-%E6%88%9014%E5%B9%B4%E4%BE%86%E9%A6%96%E4%BD%8D",
     "timestamp": "2026-05-17T10:09:37.741Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "《我們不是什麼》票房破千萬　譚耀文、AK化身茶餐廳夥計貼地慶功",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260517/1132730819647901696402783.png/cgPQTUQDT74xeHnMSREzuAvd6Vz5p91YOlMWZjpTFmY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60350728/%E6%88%91%E5%80%91%E4%B8%8D%E6%98%AF%E4%BB%80%E9%BA%BC-%E7%A5%A8%E6%88%BF%E7%A0%B4%E5%8D%83%E8%90%AC-%E8%AD%9A%E8%80%80%E6%96%87-ak%E5%8C%96%E8%BA%AB%E8%8C%B6%E9%A4%90%E5%BB%B3%E5%A4%A5%E8%A8%88%E8%B2%BC%E5%9C%B0%E6%85%B6%E5%8A%9F",
-    "timestamp": "2026-05-17T09:26:15.525Z",
     "strategy": ".content-card__main"
   }
 ];
