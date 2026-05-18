@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-18T11:37:02.399Z
+// Last updated: 2026-05-18T15:53:19.803Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "姜濤開腔回應被釘P牌　自認有問題會再考：師傅唔會再想同我合照",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260518/1133191831085912064875213.jpeg/-ckLWnA1A08m5K5QcDt3EWtJdSb8VpJgEdVAlyfVQJc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60351180/%E5%A7%9C%E6%BF%A4%E9%96%8B%E8%85%94%E5%9B%9E%E6%87%89%E8%A2%AB%E9%87%98p%E7%89%8C-%E8%87%AA%E8%AA%8D%E6%9C%89%E5%95%8F%E9%A1%8C%E6%9C%83%E5%86%8D%E8%80%83-%E5%B8%AB%E5%82%85%E5%94%94%E6%9C%83%E5%86%8D%E6%83%B3%E5%90%8C%E6%88%91%E5%90%88%E7%85%A7",
+    "timestamp": "2026-05-18T15:53:19.803Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "空姐成最想娶職業第二名！揭易嫁豪門3大原因　不只因為長得漂亮",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260517/1132826793326153728183657.jpeg/oQWYHD5eObTibPijY1T45aSJOVym7d9tx61MTcetTE0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60350794/%E6%A9%9F%E5%A0%B4%E4%BB%A5%E5%8C%97%E6%B2%99%E6%B4%B2%E6%9C%89%E8%88%B9%E7%BF%BB%E8%A6%86-%E6%93%9A%E5%A0%B1%E6%9C%89%E4%BA%BA%E5%A2%AE%E6%B5%B7-%E7%94%B1%E9%99%84%E8%BF%91%E8%88%B9%E9%9A%BB%E6%95%91%E8%B5%B7",
     "timestamp": "2026-05-17T15:57:47.135Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "慈樂邨火｜街坊親述逃生記　消防教四字訣「開拔套拉」用防煙頭套",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260517/1132817166022742016127368.jpeg/Gqud12MgagR7QnmPKlGun6URaixiNCLr4bwPq-G8D6s",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60350781/%E6%85%88%E6%A8%82%E9%82%A8%E7%81%AB-%E8%A1%97%E5%9D%8A%E8%A6%AA%E8%BF%B0%E9%80%83%E7%94%9F%E8%A8%98-%E6%B6%88%E9%98%B2%E6%95%99%E5%9B%9B%E5%AD%97%E8%A8%A3-%E9%96%8B%E6%8B%94%E5%A5%97%E6%8B%89-%E7%94%A8%E9%98%B2%E7%85%99%E9%A0%AD%E5%A5%97",
-    "timestamp": "2026-05-17T15:32:10.286Z",
     "strategy": ".content-card__main"
   }
 ];
