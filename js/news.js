@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-18T22:39:46.127Z
+// Last updated: 2026-05-18T23:14:15.058Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "巴士八旬翁猝死！家屬索賠逾¥11萬被法院駁回　網民：死哪訛哪？",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260519/1133218849252970496634209.png/GmO_u7IV3DSUG6rqhztFfM95Aw0wGdzUY4UzzmOFM84?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60350992/%E5%B7%B4%E5%A3%AB%E5%85%AB%E6%97%AC%E7%BF%81%E7%8C%9D%E6%AD%BB-%E5%AE%B6%E5%B1%AC%E7%B4%A2%E8%B3%A0%E9%80%BE-11%E8%90%AC%E8%A2%AB%E6%B3%95%E9%99%A2%E9%A7%81%E5%9B%9E-%E7%B6%B2%E6%B0%91-%E6%AD%BB%E5%93%AA%E8%A8%9B%E5%93%AA",
+    "timestamp": "2026-05-18T23:14:15.058Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "天氣｜今日有幾陣驟雨最高28度　初時驟雨較多　局部地區有雷暴",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260518/1132897162485698560487031.jpeg/TAuEvOWqKIUriI74NCYwoSZYx5GebktNiRkI2IkZCNg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60350813/%E8%8B%B1%E8%B6%85-%E7%B4%90%E5%8D%A1%E7%B4%A0%E8%B4%8F3-1-%E9%9F%8B%E6%96%AF%E5%92%B8%E8%AD%B7%E7%B4%9A%E5%8B%A2%E5%8D%B1",
     "timestamp": "2026-05-17T21:10:50.109Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "英超｜紐卡素贏3：1　韋斯咸護級勢危",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260518/1132897162485698560487031.jpeg/TAuEvOWqKIUriI74NCYwoSZYx5GebktNiRkI2IkZCNg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60350813/%E8%8B%B1%E8%B6%85-%E7%B4%90%E5%8D%A1%E7%B4%A0%E8%B4%8F3-1-%E9%9F%8B%E6%96%AF%E5%92%B8%E8%AD%B7%E7%B4%9A%E5%8B%A2%E5%8D%B1",
-    "timestamp": "2026-05-17T20:38:16.388Z",
     "strategy": ".content-card__main"
   }
 ];
