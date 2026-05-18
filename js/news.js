@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-18T01:24:06.710Z
+// Last updated: 2026-05-18T03:54:38.056Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "ENHYPEN演唱會2026澳門加場｜門票公售攻略+購票連結+座位表",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260505/1128316712542801920345107.png/kOVUg4tUq2_ho7LQ3vtvHFHjWSzKzIKBTSStHU0krR0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60346696/enhypen%E6%BC%94%E5%94%B1%E6%9C%832026%E6%BE%B3%E9%96%80%E5%8A%A0%E5%A0%B4-%E9%96%80%E7%A5%A8%E5%85%AC%E5%94%AE%E6%94%BB%E7%95%A5-%E8%B3%BC%E7%A5%A8%E9%80%A3%E7%B5%90-%E5%BA%A7%E4%BD%8D%E8%A1%A8",
+    "timestamp": "2026-05-18T03:54:38.056Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "召妓感染陰蝨！年輕男下體痕癢醫生當場抓4隻：還有很多　4招杜絕",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260517/1132750148686843904012683.jpeg/C0gPdMWCqWapdbptIntMJxsb23nP1hHeL346CC9-Ogg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60350756/%E6%88%91%E6%95%85%E9%84%89-%E6%8A%B5%E9%81%94%E9%9F%93%E5%9C%8B-%E6%99%82%E9%9A%9412%E5%B9%B4%E5%86%8D%E6%9C%89%E6%9C%9D%E9%AE%AE%E5%A5%B3%E8%B6%B3%E7%90%83%E5%93%A1%E8%A8%AA%E5%95%8F",
     "timestamp": "2026-05-17T10:48:33.237Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "曾挺彈劾特朗普　美共和黨參議員初選落敗無緣連任　成14年來首位",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260517/1132707998129459200813042.jpeg/zDa7-j-_p6aQlBfRMeh2drnEit3OR9PkrYz7k62M-5M?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60350708/%E6%9B%BE%E6%8C%BA%E5%BD%88%E5%8A%BE%E7%89%B9%E6%9C%97%E6%99%AE-%E7%BE%8E%E5%85%B1%E5%92%8C%E9%BB%A8%E5%8F%83%E8%AD%B0%E5%93%A1%E5%88%9D%E9%81%B8%E8%90%BD%E6%95%97%E7%84%A1%E7%B7%A3%E9%80%A3%E4%BB%BB-%E6%88%9014%E5%B9%B4%E4%BE%86%E9%A6%96%E4%BD%8D",
-    "timestamp": "2026-05-17T10:09:37.741Z",
     "strategy": ".content-card__main"
   }
 ];
