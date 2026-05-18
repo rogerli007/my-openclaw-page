@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-18T23:14:15.058Z
+// Last updated: 2026-05-18T23:43:35.669Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美媒：沃什22日宣誓就任聯儲局主席　特朗普白宮主持儀式顯重視",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260514/1131431848476413952531846.jpeg/7IwgLPg75dOtqtGZptY9pV06CTwJUOrK_BKN5vwSjeY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60351207/%E7%BE%8E%E5%AA%92-%E6%B2%83%E4%BB%8022%E6%97%A5%E5%AE%A3%E8%AA%93%E5%B0%B1%E4%BB%BB%E8%81%AF%E5%84%B2%E5%B1%80%E4%B8%BB%E5%B8%AD-%E7%89%B9%E6%9C%97%E6%99%AE%E7%99%BD%E5%AE%AE%E4%B8%BB%E6%8C%81%E5%84%80%E5%BC%8F%E9%A1%AF%E9%87%8D%E8%A6%96",
+    "timestamp": "2026-05-18T23:43:35.669Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "巴士八旬翁猝死！家屬索賠逾¥11萬被法院駁回　網民：死哪訛哪？",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260517/1132803925620035584293087.jpeg/oMr5nJTjQGPU_3xwSCtQxEjHOyyKySPW-lFU-vpRVPo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60350742/%E4%BA%94%E7%B4%A2%E6%BF%80%E7%BD%95%E8%A2%AB%E9%A6%AC%E6%B8%85%E9%8F%97%E7%88%86%E9%AC%A7-%E8%88%87%E4%BF%84%E5%9C%8B%E9%9D%9A%E4%BB%94%E6%9B%96%E6%98%A7-%E4%BD%A0%E4%BF%82%E5%92%AAshort%E3%97%8E",
     "timestamp": "2026-05-17T22:10:36.729Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "英超｜紐卡素贏3：1　韋斯咸護級勢危",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260518/1132897162485698560487031.jpeg/TAuEvOWqKIUriI74NCYwoSZYx5GebktNiRkI2IkZCNg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60350813/%E8%8B%B1%E8%B6%85-%E7%B4%90%E5%8D%A1%E7%B4%A0%E8%B4%8F3-1-%E9%9F%8B%E6%96%AF%E5%92%B8%E8%AD%B7%E7%B4%9A%E5%8B%A2%E5%8D%B1",
-    "timestamp": "2026-05-17T21:10:50.109Z",
     "strategy": ".content-card__main"
   }
 ];
