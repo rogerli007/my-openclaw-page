@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-18T08:39:52.510Z
+// Last updated: 2026-05-18T10:15:00.594Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "中國駐泰國使館籲警惕｢高薪招聘｣陷阱：近期多人被誘騙至境外失聯",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260518/1133105807294992384893165.jpeg/umzYzAZDDg588OrmqhsSy_tz8zsE8C48qvVCyqr1Qso?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60351107/%E4%B8%AD%E5%9C%8B%E9%A7%90%E6%B3%B0%E5%9C%8B%E4%BD%BF%E9%A4%A8%E7%B1%B2%E8%AD%A6%E6%83%95-%E9%AB%98%E8%96%AA%E6%8B%9B%E8%81%98-%E9%99%B7%E9%98%B1-%E8%BF%91%E6%9C%9F%E5%A4%9A%E4%BA%BA%E8%A2%AB%E8%AA%98%E9%A8%99%E8%87%B3%E5%A2%83%E5%A4%96%E5%A4%B1%E8%81%AF",
+    "timestamp": "2026-05-18T10:15:00.594Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "日本拉麵店公告「吉伊卡哇禁入」惹議　揭曾有客人餐後佔位玩周邊",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250922/1046757688853139456359482.png/_KRwySgw9jssPolEBDyaS_kN1YHP_lC63_S8pd_0vKU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60246343/%E5%B0%88%E8%B7%91%E6%A9%9F%E5%A0%B4%E5%8F%B8%E6%A9%9F%E5%88%86%E4%BA%AB%E7%B6%93%E9%A9%97-%E6%8F%AD%E6%97%85%E5%AE%A2%E6%9C%80%E5%B8%B8%E9%81%BA%E6%BC%8F%E7%89%A9%E5%93%81-%E6%AF%8F10%E4%BA%BA%E6%9C%891%E4%BA%BA%E5%9B%9E%E5%8E%BB%E6%8B%BF",
     "timestamp": "2026-05-17T14:54:50.923Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "張員瑛被控「C位病」同框前輩金智媛硬搶位置　遭當眾請走超尷尬",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260517/1132718185598947328843096.png/IfNroNQjoO3DSxSCHk-gCsjL3qNzed0x74DIkO-AyJA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60350723/%E5%BC%B5%E5%93%A1%E7%91%9B%E8%A2%AB%E6%8E%A7-c%E4%BD%8D%E7%97%85-%E5%90%8C%E6%A1%86%E5%89%8D%E8%BC%A9%E9%87%91%E6%99%BA%E5%AA%9B%E7%A1%AC%E6%90%B6%E4%BD%8D%E7%BD%AE-%E9%81%AD%E7%95%B6%E7%9C%BE%E8%AB%8B%E8%B5%B0%E8%B6%85%E5%B0%B7%E5%B0%AC",
-    "timestamp": "2026-05-17T13:42:26.056Z",
     "strategy": ".content-card__main"
   }
 ];
