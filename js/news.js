@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-18T21:01:00.087Z
+// Last updated: 2026-05-18T22:12:59.167Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "伊波拉｜一名美國公民在剛果確診　CDC對3國啟動入境限制",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260519/1133286228439863296276014.jpeg/kFoE56QS6upkHHCubs6VUQijxBo0bnM0LPQ_8iz0P_I?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60351202/%E4%BC%8A%E6%B3%A2%E6%8B%89-%E4%B8%80%E5%90%8D%E7%BE%8E%E5%9C%8B%E5%85%AC%E6%B0%91%E5%9C%A8%E5%89%9B%E6%9E%9C%E7%A2%BA%E8%A8%BA-cdc%E5%B0%8D3%E5%9C%8B%E5%95%9F%E5%8B%95%E5%85%A5%E5%A2%83%E9%99%90%E5%88%B6",
+    "timestamp": "2026-05-18T22:12:59.167Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "特朗普指伊朗新提案令人失望　但推遲原定19日軍事打擊",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260518/1132886885635461120839512.jpeg/zC3lYKHCBRce6RL5aTJi0i7dUpJjEqgYjZe9442XveM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60350811/%E6%B3%B0%E5%9C%8B%E7%81%AB%E8%BB%8A%E8%88%87%E5%B7%B4%E5%A3%AB%E7%9B%B8%E6%92%9E%E4%BA%8B%E6%95%85-%E7%81%AB%E8%BB%8A%E5%8F%B8%E6%A9%9F%E6%AF%92%E6%AA%A2%E5%88%9D%E6%AD%A5%E5%91%88%E9%99%BD%E6%80%A7",
     "timestamp": "2026-05-17T20:12:11.277Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "習特會｜白宮：中國承諾增購美農產品　連續3年每年至少170億美元",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260515/1131951678203891712853940.jpeg/b4kyRsXJoB9ud5ycw70v_sc-bqtXkOlp6wZ_GusGfxo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60350810/%E7%BF%92%E7%89%B9%E6%9C%83-%E7%99%BD%E5%AE%AE-%E4%B8%AD%E5%9C%8B%E6%89%BF%E8%AB%BE%E5%A2%9E%E8%B3%BC%E7%BE%8E%E8%BE%B2%E7%94%A2%E5%93%81-%E9%80%A3%E7%BA%8C3%E5%B9%B4%E6%AF%8F%E5%B9%B4%E8%87%B3%E5%B0%91170%E5%84%84%E7%BE%8E%E5%85%83",
-    "timestamp": "2026-05-17T19:35:56.872Z",
     "strategy": ".content-card__main"
   }
 ];
