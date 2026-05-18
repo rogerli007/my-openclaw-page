@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-18T15:53:19.803Z
+// Last updated: 2026-05-18T17:09:18.941Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "女神配對計劃2｜林盛斌爆有新玩法　江美儀睇好怕羞仔地產經紀",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260518/1133165887847665664761245.jpeg/zo5lBdS1_bX9HBM62U4N_G20OZzG2KjdaKLH72iix-8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60351161/%E5%A5%B3%E7%A5%9E%E9%85%8D%E5%B0%8D%E8%A8%88%E5%8A%832-%E6%9E%97%E7%9B%9B%E6%96%8C%E7%88%86%E6%9C%89%E6%96%B0%E7%8E%A9%E6%B3%95-%E6%B1%9F%E7%BE%8E%E5%84%80%E7%9D%87%E5%A5%BD%E6%80%95%E7%BE%9E%E4%BB%94%E5%9C%B0%E7%94%A2%E7%B6%93%E7%B4%80",
+    "timestamp": "2026-05-18T17:09:18.941Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "姜濤開腔回應被釘P牌　自認有問題會再考：師傅唔會再想同我合照",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260518/1132835521853263872538279.jpeg/SAYnQRw3GxL1zpBFVQzLb7aHICyZ2Xyd63IkCutyJAo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60350795/wsbk%E6%8D%B7%E5%85%8B%E7%AB%99-%E5%BC%B5%E9%9B%AA%E6%A9%9F%E8%BB%8A-%E5%BE%B7%E6%AF%94%E6%96%AF%E5%8B%9D%E5%87%BA%E6%AC%A1%E5%9B%9E%E5%90%88-%E5%A5%AA%E6%9C%AC%E8%B3%BD%E5%AD%A3%E7%AC%AC5%E5%86%A0",
     "timestamp": "2026-05-17T16:30:45.952Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "機場以北沙洲有船翻覆　據報有人墮海　由附近船隻救起",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260517/1132826793326153728183657.jpeg/oQWYHD5eObTibPijY1T45aSJOVym7d9tx61MTcetTE0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60350794/%E6%A9%9F%E5%A0%B4%E4%BB%A5%E5%8C%97%E6%B2%99%E6%B4%B2%E6%9C%89%E8%88%B9%E7%BF%BB%E8%A6%86-%E6%93%9A%E5%A0%B1%E6%9C%89%E4%BA%BA%E5%A2%AE%E6%B5%B7-%E7%94%B1%E9%99%84%E8%BF%91%E8%88%B9%E9%9A%BB%E6%95%91%E8%B5%B7",
-    "timestamp": "2026-05-17T15:57:47.135Z",
     "strategy": ".content-card__main"
   }
 ];
