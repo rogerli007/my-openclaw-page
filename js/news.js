@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-18T03:54:38.056Z
+// Last updated: 2026-05-18T05:35:29.815Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "視障女歌手中學輟學拒認命　獨自闖蕩當駐唱　靠聽覺剪片吸十萬粉",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260518/1132989405003255808495810.png/Q6yZBaByJTDpBvNvRQ7yfDtMu4ImxzUv6uZUGermVBk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60350868/%E8%A6%96%E9%9A%9C%E5%A5%B3%E6%AD%8C%E6%89%8B%E4%B8%AD%E5%AD%B8%E8%BC%9F%E5%AD%B8%E6%8B%92%E8%AA%8D%E5%91%BD-%E7%8D%A8%E8%87%AA%E9%97%96%E8%95%A9%E7%95%B6%E9%A7%90%E5%94%B1-%E9%9D%A0%E8%81%BD%E8%A6%BA%E5%89%AA%E7%89%87%E5%90%B8%E5%8D%81%E8%90%AC%E7%B2%89",
+    "timestamp": "2026-05-18T05:35:29.815Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "ENHYPEN演唱會2026澳門加場｜門票公售攻略+購票連結+座位表",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260517/1132699238476550144912364.jpeg/O_w2xpW5LTGOax5WhQ-Fnns7FcajqQEKxTRmGMU0Zhg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60350735/%E5%A4%A7%E5%9F%94%E6%92%9E%E6%A8%B9%E6%9E%9D%E5%A5%AA%E5%91%BD-%E6%A3%84%E7%A7%81%E5%AE%B6%E8%BB%8A%E9%A7%95%E9%90%B5%E9%A8%8E%E5%87%BA%E4%BA%8B-%E5%A5%B3%E5%8F%8B%E8%A9%AB%E7%95%B0-%E4%BA%8B%E5%89%8D%E6%9C%89%E7%9A%84%E5%A3%AB%E6%92%9E%E4%B8%8A",
     "timestamp": "2026-05-17T11:20:04.491Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "「我故鄉」抵達韓國　時隔12年再有朝鮮女足球員訪問",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260517/1132750148686843904012683.jpeg/C0gPdMWCqWapdbptIntMJxsb23nP1hHeL346CC9-Ogg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60350756/%E6%88%91%E6%95%85%E9%84%89-%E6%8A%B5%E9%81%94%E9%9F%93%E5%9C%8B-%E6%99%82%E9%9A%9412%E5%B9%B4%E5%86%8D%E6%9C%89%E6%9C%9D%E9%AE%AE%E5%A5%B3%E8%B6%B3%E7%90%83%E5%93%A1%E8%A8%AA%E5%95%8F",
-    "timestamp": "2026-05-17T10:48:33.237Z",
     "strategy": ".content-card__main"
   }
 ];
