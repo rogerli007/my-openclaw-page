@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-18T18:01:07.233Z
+// Last updated: 2026-05-18T18:52:47.426Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "漢坦病毒｜美國科羅拉多州一宗死亡病例　本地感染與爆疫郵輪無關",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260519/1133226252736401408205378.jpeg/Hzz0-fWUeAJQ0Mb7Mx-YfHlEsWLslpR6eJZPFXiWTxU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60351194/%E6%BC%A2%E5%9D%A6%E7%97%85%E6%AF%92-%E7%BE%8E%E5%9C%8B%E7%A7%91%E7%BE%85%E6%8B%89%E5%A4%9A%E5%B7%9E%E4%B8%80%E5%AE%97%E6%AD%BB%E4%BA%A1%E7%97%85%E4%BE%8B-%E6%9C%AC%E5%9C%B0%E6%84%9F%E6%9F%93%E8%88%87%E7%88%86%E7%96%AB%E9%83%B5%E8%BC%AA%E7%84%A1%E9%97%9C",
+    "timestamp": "2026-05-18T18:52:47.426Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美財長：再延長豁免俄海運石油制裁30天",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260518/1132851469599510528639241.jpeg/-1GFQyAkUVixQDFYvzyXfQoA3frM-jFPtCljZ7QpY2c?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60350802/%E7%A4%BE%E7%BD%B2%E5%98%89%E8%A8%B1%E9%80%BE200%E5%AF%84%E9%A4%8A%E5%AE%B6%E5%BA%AD-%E9%95%B7%E6%9C%9F%E6%9C%8D%E5%8B%99%E6%9C%80%E5%A4%9A%E8%B6%85%E9%81%8E30%E5%B9%B4",
     "timestamp": "2026-05-17T17:31:06.514Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "Anson Lo盧瀚霆演唱會2026澳門｜門票優先/公售攻略+連結+座位表",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260514/1131596424614514688163280.jpeg/Nxg2ONIwcLh1NGQcI8P8kgv5F7gXulQdb9hJ9m_YSfY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60349861/anson-lo%E7%9B%A7%E7%80%9A%E9%9C%86%E6%BC%94%E5%94%B1%E6%9C%832026%E6%BE%B3%E9%96%80-%E9%96%80%E7%A5%A8%E5%84%AA%E5%85%88-%E5%85%AC%E5%94%AE%E6%94%BB%E7%95%A5-%E9%80%A3%E7%B5%90-%E5%BA%A7%E4%BD%8D%E8%A1%A8",
-    "timestamp": "2026-05-17T16:55:39.101Z",
     "strategy": ".content-card__main"
   }
 ];
