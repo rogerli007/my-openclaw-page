@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-18T05:35:29.815Z
+// Last updated: 2026-05-18T07:08:38.466Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "啟德零售館首季整體表現按年增長4成　AC米蘭足球學院即將開幕",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260518/1133057341936111616496805.jpeg/mJ-afAQzgLPg4f2O-SMUKjTqKDEJzaIWVQ1bOlUNWzo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60350996/%E5%95%9F%E5%BE%B7%E9%9B%B6%E5%94%AE%E9%A4%A8%E9%A6%96%E5%AD%A3%E6%95%B4%E9%AB%94%E8%A1%A8%E7%8F%BE%E6%8C%89%E5%B9%B4%E5%A2%9E%E9%95%B74%E6%88%90-ac%E7%B1%B3%E8%98%AD%E8%B6%B3%E7%90%83%E5%AD%B8%E9%99%A2%E5%8D%B3%E5%B0%87%E9%96%8B%E5%B9%95",
+    "timestamp": "2026-05-18T07:08:38.466Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "視障女歌手中學輟學拒認命　獨自闖蕩當駐唱　靠聽覺剪片吸十萬粉",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260517/1132692066980073472849527.jpeg/4k5_uuWS-wPaHiQSwh6HjTCnq8j2voj6VgM95FYDPeQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60350691/%E6%9E%97%E6%BC%AA%E5%A8%B8%E9%A9%9A%E7%88%86%E6%8B%8D%E6%88%B2%E9%81%AD%E7%94%B7%E6%98%9F-%E5%8A%A0%E6%96%99%E4%BC%B8%E8%84%B7-%E8%9E%A2%E5%B9%95%E5%88%9D%E5%90%BB%E8%A2%AB%E5%8A%A0%E6%88%B2-%E8%82%AF%E5%AE%9A%E8%9D%A6%F0%A1%83%81%E5%A6%B9",
     "timestamp": "2026-05-17T11:55:04.326Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "大埔撞樹枝奪命｜棄私家車駕鐵騎出事　女友詫異　事前有的士撞上",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260517/1132699238476550144912364.jpeg/O_w2xpW5LTGOax5WhQ-Fnns7FcajqQEKxTRmGMU0Zhg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60350735/%E5%A4%A7%E5%9F%94%E6%92%9E%E6%A8%B9%E6%9E%9D%E5%A5%AA%E5%91%BD-%E6%A3%84%E7%A7%81%E5%AE%B6%E8%BB%8A%E9%A7%95%E9%90%B5%E9%A8%8E%E5%87%BA%E4%BA%8B-%E5%A5%B3%E5%8F%8B%E8%A9%AB%E7%95%B0-%E4%BA%8B%E5%89%8D%E6%9C%89%E7%9A%84%E5%A3%AB%E6%92%9E%E4%B8%8A",
-    "timestamp": "2026-05-17T11:20:04.491Z",
     "strategy": ".content-card__main"
   }
 ];
