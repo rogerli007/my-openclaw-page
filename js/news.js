@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-18T22:12:59.167Z
+// Last updated: 2026-05-18T22:39:46.127Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "天氣｜今日有幾陣驟雨最高28度　初時驟雨較多　局部地區有雷暴",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260519/1133288447587389440465273.jpeg/8j3bjw2xj__3rjGTL-sFSGo1KLPjBoXxHtCnMB7QpzA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60351185/%E5%A4%A9%E6%B0%A3-%E4%BB%8A%E6%97%A5%E6%9C%89%E5%B9%BE%E9%99%A3%E9%A9%9F%E9%9B%A8%E6%9C%80%E9%AB%9828%E5%BA%A6-%E5%88%9D%E6%99%82%E9%A9%9F%E9%9B%A8%E8%BC%83%E5%A4%9A-%E5%B1%80%E9%83%A8%E5%9C%B0%E5%8D%80%E6%9C%89%E9%9B%B7%E6%9A%B4",
+    "timestamp": "2026-05-18T22:39:46.127Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "伊波拉｜一名美國公民在剛果確診　CDC對3國啟動入境限制",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260518/1132897162485698560487031.jpeg/TAuEvOWqKIUriI74NCYwoSZYx5GebktNiRkI2IkZCNg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60350813/%E8%8B%B1%E8%B6%85-%E7%B4%90%E5%8D%A1%E7%B4%A0%E8%B4%8F3-1-%E9%9F%8B%E6%96%AF%E5%92%B8%E8%AD%B7%E7%B4%9A%E5%8B%A2%E5%8D%B1",
     "timestamp": "2026-05-17T20:38:16.388Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "泰國火車與巴士相撞事故　火車司機毒檢初步呈陽性",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260518/1132886885635461120839512.jpeg/zC3lYKHCBRce6RL5aTJi0i7dUpJjEqgYjZe9442XveM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60350811/%E6%B3%B0%E5%9C%8B%E7%81%AB%E8%BB%8A%E8%88%87%E5%B7%B4%E5%A3%AB%E7%9B%B8%E6%92%9E%E4%BA%8B%E6%95%85-%E7%81%AB%E8%BB%8A%E5%8F%B8%E6%A9%9F%E6%AF%92%E6%AA%A2%E5%88%9D%E6%AD%A5%E5%91%88%E9%99%BD%E6%80%A7",
-    "timestamp": "2026-05-17T20:12:11.277Z",
     "strategy": ".content-card__main"
   }
 ];
