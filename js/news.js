@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-18T10:15:00.594Z
+// Last updated: 2026-05-18T11:37:02.399Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "空姐成最想娶職業第二名！揭易嫁豪門3大原因　不只因為長得漂亮",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260421/1123213865950121984598307.png/mTdvGdeP6miiX-vWFDcDEhk8GqbFzXqO_uWpQ4vlqUM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%AB%87%E6%83%85%E8%AA%AA%E6%80%A7/60342171/%E7%A9%BA%E5%A7%90%E6%88%90%E6%9C%80%E6%83%B3%E5%A8%B6%E8%81%B7%E6%A5%AD%E7%AC%AC%E4%BA%8C%E5%90%8D-%E6%8F%AD%E6%98%93%E5%AB%81%E8%B1%AA%E9%96%803%E5%A4%A7%E5%8E%9F%E5%9B%A0-%E4%B8%8D%E5%8F%AA%E5%9B%A0%E7%82%BA%E9%95%B7%E5%BE%97%E6%BC%82%E4%BA%AE",
+    "timestamp": "2026-05-18T11:37:02.399Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "中國駐泰國使館籲警惕｢高薪招聘｣陷阱：近期多人被誘騙至境外失聯",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260517/1132817166022742016127368.jpeg/Gqud12MgagR7QnmPKlGun6URaixiNCLr4bwPq-G8D6s",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60350781/%E6%85%88%E6%A8%82%E9%82%A8%E7%81%AB-%E8%A1%97%E5%9D%8A%E8%A6%AA%E8%BF%B0%E9%80%83%E7%94%9F%E8%A8%98-%E6%B6%88%E9%98%B2%E6%95%99%E5%9B%9B%E5%AD%97%E8%A8%A3-%E9%96%8B%E6%8B%94%E5%A5%97%E6%8B%89-%E7%94%A8%E9%98%B2%E7%85%99%E9%A0%AD%E5%A5%97",
     "timestamp": "2026-05-17T15:32:10.286Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "專跑機場司機分享經驗　揭旅客最常遺漏物品：每10人有1人回去拿",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250922/1046757688853139456359482.png/_KRwySgw9jssPolEBDyaS_kN1YHP_lC63_S8pd_0vKU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60246343/%E5%B0%88%E8%B7%91%E6%A9%9F%E5%A0%B4%E5%8F%B8%E6%A9%9F%E5%88%86%E4%BA%AB%E7%B6%93%E9%A9%97-%E6%8F%AD%E6%97%85%E5%AE%A2%E6%9C%80%E5%B8%B8%E9%81%BA%E6%BC%8F%E7%89%A9%E5%93%81-%E6%AF%8F10%E4%BA%BA%E6%9C%891%E4%BA%BA%E5%9B%9E%E5%8E%BB%E6%8B%BF",
-    "timestamp": "2026-05-17T14:54:50.923Z",
     "strategy": ".content-card__main"
   }
 ];
