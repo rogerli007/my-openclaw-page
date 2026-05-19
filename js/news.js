@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-19T00:15:01.889Z
+// Last updated: 2026-05-19T02:29:05.767Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美30年國債孳息率曾觸5.16厘　3年來最高　憂通脹續頑固",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/3109093/org/3bac9ed6787ce83f511c0b5e0d121520.jpg/wiFUjv2TxIejX4uYEgdngwRaS5aXMSL1AvufUAL7n1A?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60351235/%E7%BE%8E30%E5%B9%B4%E5%9C%8B%E5%82%B5%E5%AD%B3%E6%81%AF%E7%8E%87%E6%9B%BE%E8%A7%B85-16%E5%8E%98-3%E5%B9%B4%E4%BE%86%E6%9C%80%E9%AB%98-%E6%86%82%E9%80%9A%E8%84%B9%E7%BA%8C%E9%A0%91%E5%9B%BA",
+    "timestamp": "2026-05-19T02:29:05.767Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美財政部：海外投資者3月所持長年期美債浮虧1421億美元",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260518/1132948199850381312576108.jpeg/POZr8E-K2WkOcCcJGNXKAF2Wemfw1PPin-Y-85_mPvM?v=w1920r16_9",
     "url": "https://www.hk01.com/01%E8%AB%96%E5%A3%87/60350820/%E6%A5%8A%E8%8E%89%E7%8F%8A-%E5%8B%BF-%E7%8D%A8-%E8%AD%A6%E5%91%8A-%E4%B8%BB%E6%AC%8A%E7%B4%85%E7%B7%9A%E4%B8%8B%E7%9A%84%E5%8F%B0%E7%81%A3%E6%8A%89%E6%93%87",
     "timestamp": "2026-05-18T00:12:15.323Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "沙田的士剷上行人路撞愉翠商場外牆　消防員到場協助",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260518/1132946239436886016407835.jpeg/l3NybWDY1wYaLMMvDP6s2QICe2PBFr8ToJKrvKCSq7w?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60350818/%E6%B2%99%E7%94%B0%E7%9A%84%E5%A3%AB%E5%89%B7%E4%B8%8A%E8%A1%8C%E4%BA%BA%E8%B7%AF%E6%92%9E%E6%84%89%E7%BF%A0%E5%95%86%E5%A0%B4%E5%A4%96%E7%89%86-%E6%B6%88%E9%98%B2%E5%93%A1%E5%88%B0%E5%A0%B4%E5%8D%94%E5%8A%A9",
-    "timestamp": "2026-05-17T23:40:59.280Z",
     "strategy": ".content-card__main"
   }
 ];
