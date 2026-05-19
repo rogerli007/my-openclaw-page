@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-19T21:07:58.269Z
+// Last updated: 2026-05-19T21:51:44.706Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "英超｜熱刺作客1：2車路士　未擺脫降班危機",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260520/1133615155301584896926184.jpeg/waMrWDbhd2kyWMPFevXLI18e5zd8QdlM9ePyivXj8oo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60351610/%E8%8B%B1%E8%B6%85-%E7%86%B1%E5%88%BA%E4%BD%9C%E5%AE%A21-2%E8%BB%8A%E8%B7%AF%E5%A3%AB-%E6%9C%AA%E6%93%BA%E8%84%AB%E9%99%8D%E7%8F%AD%E5%8D%B1%E6%A9%9F",
+    "timestamp": "2026-05-19T21:51:44.706Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "天氣｜天文台提示：雷雨逐漸靠近　今早部份地區較大雨有狂風雷暴",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260506/1128626777749458944241309.jpeg/HN1y9oE1q6aLNXhcUQhXfpSqOrFQDilOWTmMAlk5jAI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60351197/%E7%89%B9%E6%9C%97%E6%99%AE%E6%8C%87%E4%BC%8A%E6%9C%97%E6%96%B0%E6%8F%90%E6%A1%88%E4%BB%A4%E4%BA%BA%E5%A4%B1%E6%9C%9B-%E4%BD%86%E6%8E%A8%E9%81%B2%E5%8E%9F%E5%AE%9A19%E6%97%A5%E8%BB%8D%E4%BA%8B%E6%89%93%E6%93%8A",
     "timestamp": "2026-05-18T21:01:00.087Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普指伊朗新提案令人失望　但推遲原定19日軍事打擊",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260506/1128626777749458944241309.jpeg/HN1y9oE1q6aLNXhcUQhXfpSqOrFQDilOWTmMAlk5jAI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60351197/%E7%89%B9%E6%9C%97%E6%99%AE%E6%8C%87%E4%BC%8A%E6%9C%97%E6%96%B0%E6%8F%90%E6%A1%88%E4%BB%A4%E4%BA%BA%E5%A4%B1%E6%9C%9B-%E4%BD%86%E6%8E%A8%E9%81%B2%E5%8E%9F%E5%AE%9A19%E6%97%A5%E8%BB%8D%E4%BA%8B%E6%89%93%E6%93%8A",
-    "timestamp": "2026-05-18T20:25:35.136Z",
     "strategy": ".content-card__main"
   }
 ];
