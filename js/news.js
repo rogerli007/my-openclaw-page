@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-19T19:42:56.187Z
+// Last updated: 2026-05-19T20:24:00.741Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "萬斯稱與伊朗談判取得很大進展　美媒：調解方認為進展甚微",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260520/1133609437026586624639254.jpeg/EWYSzasyhGLy8V1OBo1CI4_-7I-ydi6RsfLcTLHy3Ew?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60351608/%E8%90%AC%E6%96%AF%E7%A8%B1%E8%88%87%E4%BC%8A%E6%9C%97%E8%AB%87%E5%88%A4%E5%8F%96%E5%BE%97%E5%BE%88%E5%A4%A7%E9%80%B2%E5%B1%95-%E7%BE%8E%E5%AA%92-%E8%AA%BF%E8%A7%A3%E6%96%B9%E8%AA%8D%E7%82%BA%E9%80%B2%E5%B1%95%E7%94%9A%E5%BE%AE",
+    "timestamp": "2026-05-19T20:24:00.741Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "泰國取消60天免簽證待遇　93國家或地區縮短至30日",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260519/1133226252736401408205378.jpeg/Hzz0-fWUeAJQ0Mb7Mx-YfHlEsWLslpR6eJZPFXiWTxU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60351194/%E6%BC%A2%E5%9D%A6%E7%97%85%E6%AF%92-%E7%BE%8E%E5%9C%8B%E7%A7%91%E7%BE%85%E6%8B%89%E5%A4%9A%E5%B7%9E%E4%B8%80%E5%AE%97%E6%AD%BB%E4%BA%A1%E7%97%85%E4%BE%8B-%E6%9C%AC%E5%9C%B0%E6%84%9F%E6%9F%93%E8%88%87%E7%88%86%E7%96%AB%E9%83%B5%E8%BC%AA%E7%84%A1%E9%97%9C",
     "timestamp": "2026-05-18T18:52:47.426Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美財長：再延長豁免俄海運石油制裁30天",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260519/1133221408344641536104735.jpeg/xetdCd29p-FDmj0bJMtG1_rzl167T-lN5nnr6OZ56-g?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60351191/%E7%BE%8E%E8%B2%A1%E9%95%B7-%E5%86%8D%E5%BB%B6%E9%95%B7%E8%B1%81%E5%85%8D%E4%BF%84%E6%B5%B7%E9%81%8B%E7%9F%B3%E6%B2%B9%E5%88%B6%E8%A3%8130%E5%A4%A9",
-    "timestamp": "2026-05-18T18:01:07.233Z",
     "strategy": ".content-card__main"
   }
 ];
