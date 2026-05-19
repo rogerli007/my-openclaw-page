@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-19T15:50:12.447Z
+// Last updated: 2026-05-19T17:09:28.022Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "張國鈞：港藉一國兩制優勢　可多層面為構建人類命運共同體作貢獻",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260520/1133570105934876672384205.jpeg/MPZMUAXghmSCd5rBUetyj7gQjR86eM2iQu9p9ELvafQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60351597/%E5%BC%B5%E5%9C%8B%E9%88%9E-%E6%B8%AF%E8%97%89%E4%B8%80%E5%9C%8B%E5%85%A9%E5%88%B6%E5%84%AA%E5%8B%A2-%E5%8F%AF%E5%A4%9A%E5%B1%A4%E9%9D%A2%E7%82%BA%E6%A7%8B%E5%BB%BA%E4%BA%BA%E9%A1%9E%E5%91%BD%E9%81%8B%E5%85%B1%E5%90%8C%E9%AB%94%E4%BD%9C%E8%B2%A2%E7%8D%BB",
+    "timestamp": "2026-05-19T17:09:28.022Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "東張西望｜少女遺失身份證疑被盜用假結婚：冒我簽名就可以結到婚",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260421/1123213865950121984598307.png/mTdvGdeP6miiX-vWFDcDEhk8GqbFzXqO_uWpQ4vlqUM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%AB%87%E6%83%85%E8%AA%AA%E6%80%A7/60342171/%E7%A9%BA%E5%A7%90%E6%88%90%E6%9C%80%E6%83%B3%E5%A8%B6%E8%81%B7%E6%A5%AD%E7%AC%AC%E4%BA%8C%E5%90%8D-%E6%8F%AD%E6%98%93%E5%AB%81%E8%B1%AA%E9%96%803%E5%A4%A7%E5%8E%9F%E5%9B%A0-%E4%B8%8D%E5%8F%AA%E5%9B%A0%E7%82%BA%E9%95%B7%E5%BE%97%E6%BC%82%E4%BA%AE",
     "timestamp": "2026-05-18T11:37:02.399Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "中國駐泰國使館籲警惕｢高薪招聘｣陷阱：近期多人被誘騙至境外失聯",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260518/1133105807294992384893165.jpeg/umzYzAZDDg588OrmqhsSy_tz8zsE8C48qvVCyqr1Qso?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60351107/%E4%B8%AD%E5%9C%8B%E9%A7%90%E6%B3%B0%E5%9C%8B%E4%BD%BF%E9%A4%A8%E7%B1%B2%E8%AD%A6%E6%83%95-%E9%AB%98%E8%96%AA%E6%8B%9B%E8%81%98-%E9%99%B7%E9%98%B1-%E8%BF%91%E6%9C%9F%E5%A4%9A%E4%BA%BA%E8%A2%AB%E8%AA%98%E9%A8%99%E8%87%B3%E5%A2%83%E5%A4%96%E5%A4%B1%E8%81%AF",
-    "timestamp": "2026-05-18T10:15:00.594Z",
     "strategy": ".content-card__main"
   }
 ];
