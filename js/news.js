@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-19T23:14:26.770Z
+// Last updated: 2026-05-19T23:45:28.200Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "彭博：倘霍爾木茲海峽7月仍未重開　北約考慮啟動護航行動",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260505/1128151780694298624093672.jpeg/PWLZUJF47AzESxlL7N-HHfyoelTnacrzNfomADX6JgA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60351606/%E5%BD%AD%E5%8D%9A-%E5%80%98%E9%9C%8D%E7%88%BE%E6%9C%A8%E8%8C%B2%E6%B5%B7%E5%B3%BD7%E6%9C%88%E4%BB%8D%E6%9C%AA%E9%87%8D%E9%96%8B-%E5%8C%97%E7%B4%84%E8%80%83%E6%85%AE%E5%95%9F%E5%8B%95%E8%AD%B7%E8%88%AA%E8%A1%8C%E5%8B%95",
+    "timestamp": "2026-05-19T23:45:28.200Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "管浩鳴心痛宏福火揭部門千瘡百孔　憑良心料有官員問責｜政・直說",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260519/1133218849252970496634209.png/GmO_u7IV3DSUG6rqhztFfM95Aw0wGdzUY4UzzmOFM84?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60350992/%E5%B7%B4%E5%A3%AB%E5%85%AB%E6%97%AC%E7%BF%81%E7%8C%9D%E6%AD%BB-%E5%AE%B6%E5%B1%AC%E7%B4%A2%E8%B3%A0%E9%80%BE-11%E8%90%AC%E8%A2%AB%E6%B3%95%E9%99%A2%E9%A7%81%E5%9B%9E-%E7%B6%B2%E6%B0%91-%E6%AD%BB%E5%93%AA%E8%A8%9B%E5%93%AA",
     "timestamp": "2026-05-18T23:14:15.058Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "天氣｜今日有幾陣驟雨最高28度　初時驟雨較多　局部地區有雷暴",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260519/1133288447587389440465273.jpeg/8j3bjw2xj__3rjGTL-sFSGo1KLPjBoXxHtCnMB7QpzA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60351185/%E5%A4%A9%E6%B0%A3-%E4%BB%8A%E6%97%A5%E6%9C%89%E5%B9%BE%E9%99%A3%E9%A9%9F%E9%9B%A8%E6%9C%80%E9%AB%9828%E5%BA%A6-%E5%88%9D%E6%99%82%E9%A9%9F%E9%9B%A8%E8%BC%83%E5%A4%9A-%E5%B1%80%E9%83%A8%E5%9C%B0%E5%8D%80%E6%9C%89%E9%9B%B7%E6%9A%B4",
-    "timestamp": "2026-05-18T22:39:46.127Z",
     "strategy": ".content-card__main"
   }
 ];
