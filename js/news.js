@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-19T18:53:50.753Z
+// Last updated: 2026-05-19T19:42:56.187Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "泰國取消60天免簽證待遇　93國家或地區縮短至30日",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/2009539/org/71a7d65fb25d283d60259814c8cb10fa.jpg/pc-a-Dx2pa5sxPYBuytjWs0WdWAOuSCv-Lvsh_i77Ic?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60351601/%E6%B3%B0%E5%9C%8B%E5%8F%96%E6%B6%8860%E5%A4%A9%E5%85%8D%E7%B0%BD%E8%AD%89%E5%BE%85%E9%81%87-93%E5%9C%8B%E5%AE%B6%E6%88%96%E5%9C%B0%E5%8D%80%E7%B8%AE%E7%9F%AD%E8%87%B330%E6%97%A5",
+    "timestamp": "2026-05-19T19:42:56.187Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "泰國取消60天免簽證待遇　93國家或地區縮短至30日",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260519/1133221408344641536104735.jpeg/xetdCd29p-FDmj0bJMtG1_rzl167T-lN5nnr6OZ56-g?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60351191/%E7%BE%8E%E8%B2%A1%E9%95%B7-%E5%86%8D%E5%BB%B6%E9%95%B7%E8%B1%81%E5%85%8D%E4%BF%84%E6%B5%B7%E9%81%8B%E7%9F%B3%E6%B2%B9%E5%88%B6%E8%A3%8130%E5%A4%A9",
     "timestamp": "2026-05-18T18:01:07.233Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "女神配對計劃2｜林盛斌爆有新玩法　江美儀睇好怕羞仔地產經紀",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260518/1133165887847665664761245.jpeg/zo5lBdS1_bX9HBM62U4N_G20OZzG2KjdaKLH72iix-8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60351161/%E5%A5%B3%E7%A5%9E%E9%85%8D%E5%B0%8D%E8%A8%88%E5%8A%832-%E6%9E%97%E7%9B%9B%E6%96%8C%E7%88%86%E6%9C%89%E6%96%B0%E7%8E%A9%E6%B3%95-%E6%B1%9F%E7%BE%8E%E5%84%80%E7%9D%87%E5%A5%BD%E6%80%95%E7%BE%9E%E4%BB%94%E5%9C%B0%E7%94%A2%E7%B6%93%E7%B4%80",
-    "timestamp": "2026-05-18T17:09:18.941Z",
     "strategy": ".content-card__main"
   }
 ];
