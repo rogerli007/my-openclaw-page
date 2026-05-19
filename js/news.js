@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-19T22:37:26.966Z
+// Last updated: 2026-05-19T23:14:26.770Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "管浩鳴心痛宏福火揭部門千瘡百孔　憑良心料有官員問責｜政・直說",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260518/1133066245227155456632754.jpeg/oFEivU2iiJeygAGea1WYyi_uwE3UWMq3-4EaP_uBGj8",
+    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60349993/%E7%AE%A1%E6%B5%A9%E9%B3%B4%E5%BF%83%E7%97%9B%E5%AE%8F%E7%A6%8F%E7%81%AB%E6%8F%AD%E9%83%A8%E9%96%80%E5%8D%83%E7%98%A1%E7%99%BE%E5%AD%94-%E6%86%91%E8%89%AF%E5%BF%83%E6%96%99%E6%9C%89%E5%AE%98%E5%93%A1%E5%95%8F%E8%B2%AC-%E6%94%BF-%E7%9B%B4%E8%AA%AA",
+    "timestamp": "2026-05-19T23:14:26.770Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "前TVB花旦舊照出土戴黑超夾Walkman極in　曾戀大馬富商未婚生子",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260519/1133288447587389440465273.jpeg/8j3bjw2xj__3rjGTL-sFSGo1KLPjBoXxHtCnMB7QpzA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60351185/%E5%A4%A9%E6%B0%A3-%E4%BB%8A%E6%97%A5%E6%9C%89%E5%B9%BE%E9%99%A3%E9%A9%9F%E9%9B%A8%E6%9C%80%E9%AB%9828%E5%BA%A6-%E5%88%9D%E6%99%82%E9%A9%9F%E9%9B%A8%E8%BC%83%E5%A4%9A-%E5%B1%80%E9%83%A8%E5%9C%B0%E5%8D%80%E6%9C%89%E9%9B%B7%E6%9A%B4",
     "timestamp": "2026-05-18T22:39:46.127Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "伊波拉｜一名美國公民在剛果確診　CDC對3國啟動入境限制",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260519/1133286228439863296276014.jpeg/kFoE56QS6upkHHCubs6VUQijxBo0bnM0LPQ_8iz0P_I?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60351202/%E4%BC%8A%E6%B3%A2%E6%8B%89-%E4%B8%80%E5%90%8D%E7%BE%8E%E5%9C%8B%E5%85%AC%E6%B0%91%E5%9C%A8%E5%89%9B%E6%9E%9C%E7%A2%BA%E8%A8%BA-cdc%E5%B0%8D3%E5%9C%8B%E5%95%9F%E5%8B%95%E5%85%A5%E5%A2%83%E9%99%90%E5%88%B6",
-    "timestamp": "2026-05-18T22:12:59.167Z",
     "strategy": ".content-card__main"
   }
 ];
