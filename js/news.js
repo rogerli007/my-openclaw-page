@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-18T23:43:35.669Z
+// Last updated: 2026-05-19T00:15:01.889Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美財政部：海外投資者3月所持長年期美債浮虧1421億美元",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/cis/5d48bb00da23771958558d89.jpg/mvOPi2agzI10zUOfABfpbg4JewMnft6IYT6xDmE-sQ4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60351208/%E7%BE%8E%E8%B2%A1%E6%94%BF%E9%83%A8-%E6%B5%B7%E5%A4%96%E6%8A%95%E8%B3%87%E8%80%853%E6%9C%88%E6%89%80%E6%8C%81%E9%95%B7%E5%B9%B4%E6%9C%9F%E7%BE%8E%E5%82%B5%E6%B5%AE%E8%99%A71421%E5%84%84%E7%BE%8E%E5%85%83",
+    "timestamp": "2026-05-19T00:15:01.889Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美媒：沃什22日宣誓就任聯儲局主席　特朗普白宮主持儀式顯重視",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260518/1132946239436886016407835.jpeg/l3NybWDY1wYaLMMvDP6s2QICe2PBFr8ToJKrvKCSq7w?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60350818/%E6%B2%99%E7%94%B0%E7%9A%84%E5%A3%AB%E5%89%B7%E4%B8%8A%E8%A1%8C%E4%BA%BA%E8%B7%AF%E6%92%9E%E6%84%89%E7%BF%A0%E5%95%86%E5%A0%B4%E5%A4%96%E7%89%86-%E6%B6%88%E9%98%B2%E5%93%A1%E5%88%B0%E5%A0%B4%E5%8D%94%E5%8A%A9",
     "timestamp": "2026-05-17T23:40:59.280Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "「最強小三」激罕被百億男友鬧　與俄國靚仔曖昧：你係咪short㗎",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260517/1132803925620035584293087.jpeg/oMr5nJTjQGPU_3xwSCtQxEjHOyyKySPW-lFU-vpRVPo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60350742/%E4%BA%94%E7%B4%A2%E6%BF%80%E7%BD%95%E8%A2%AB%E9%A6%AC%E6%B8%85%E9%8F%97%E7%88%86%E9%AC%A7-%E8%88%87%E4%BF%84%E5%9C%8B%E9%9D%9A%E4%BB%94%E6%9B%96%E6%98%A7-%E4%BD%A0%E4%BF%82%E5%92%AAshort%E3%97%8E",
-    "timestamp": "2026-05-17T22:10:36.729Z",
     "strategy": ".content-card__main"
   }
 ];
