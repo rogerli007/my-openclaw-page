@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-19T12:09:44.352Z
+// Last updated: 2026-05-19T13:32:11.282Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "世界盃2026韓國｜足球排名+國家隊球員名單陣容+最新賽程",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260415/1121126508765646848985470.jpeg/habSMp9arIvJKs1hAhEx8CqYrX53ygmdomNsvqJjbL4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60340453/%E4%B8%96%E7%95%8C%E7%9B%832026%E9%9F%93%E5%9C%8B-%E8%B6%B3%E7%90%83%E6%8E%92%E5%90%8D-%E5%9C%8B%E5%AE%B6%E9%9A%8A%E7%90%83%E5%93%A1%E5%90%8D%E5%96%AE%E9%99%A3%E5%AE%B9-%E6%9C%80%E6%96%B0%E8%B3%BD%E7%A8%8B",
+    "timestamp": "2026-05-19T13:32:11.282Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "成都廣場雕塑被指造型露骨似女性私處　物業：體現豐腴身體曲線",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260518/1133057341936111616496805.jpeg/mJ-afAQzgLPg4f2O-SMUKjTqKDEJzaIWVQ1bOlUNWzo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60350996/%E5%95%9F%E5%BE%B7%E9%9B%B6%E5%94%AE%E9%A4%A8%E9%A6%96%E5%AD%A3%E6%95%B4%E9%AB%94%E8%A1%A8%E7%8F%BE%E6%8C%89%E5%B9%B4%E5%A2%9E%E9%95%B74%E6%88%90-ac%E7%B1%B3%E8%98%AD%E8%B6%B3%E7%90%83%E5%AD%B8%E9%99%A2%E5%8D%B3%E5%B0%87%E9%96%8B%E5%B9%95",
     "timestamp": "2026-05-18T07:08:38.466Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "視障女歌手中學輟學拒認命　獨自闖蕩當駐唱　靠聽覺剪片吸十萬粉",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260518/1132989405003255808495810.png/Q6yZBaByJTDpBvNvRQ7yfDtMu4ImxzUv6uZUGermVBk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60350868/%E8%A6%96%E9%9A%9C%E5%A5%B3%E6%AD%8C%E6%89%8B%E4%B8%AD%E5%AD%B8%E8%BC%9F%E5%AD%B8%E6%8B%92%E8%AA%8D%E5%91%BD-%E7%8D%A8%E8%87%AA%E9%97%96%E8%95%A9%E7%95%B6%E9%A7%90%E5%94%B1-%E9%9D%A0%E8%81%BD%E8%A6%BA%E5%89%AA%E7%89%87%E5%90%B8%E5%8D%81%E8%90%AC%E7%B2%89",
-    "timestamp": "2026-05-18T05:35:29.815Z",
     "strategy": ".content-card__main"
   }
 ];
