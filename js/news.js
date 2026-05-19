@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-19T17:09:28.022Z
+// Last updated: 2026-05-19T18:02:42.794Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "特朗普：或需重啟軍事打擊　伊朗副外長：堅決應對任何形式侵略",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260520/1133579654083907584934675.jpeg/Uv-fpQzS3ynzE4_g2GnRI7PdThAd53qk48XuoePF7qE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60351600/%E7%89%B9%E6%9C%97%E6%99%AE-%E6%88%96%E9%9C%80%E9%87%8D%E5%95%9F%E8%BB%8D%E4%BA%8B%E6%89%93%E6%93%8A-%E4%BC%8A%E6%9C%97%E5%89%AF%E5%A4%96%E9%95%B7-%E5%A0%85%E6%B1%BA%E6%87%89%E5%B0%8D%E4%BB%BB%E4%BD%95%E5%BD%A2%E5%BC%8F%E4%BE%B5%E7%95%A5",
+    "timestamp": "2026-05-19T18:02:42.794Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "張國鈞：港藉一國兩制優勢　可多層面為構建人類命運共同體作貢獻",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260518/1133191831085912064875213.jpeg/-ckLWnA1A08m5K5QcDt3EWtJdSb8VpJgEdVAlyfVQJc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60351180/%E5%A7%9C%E6%BF%A4%E9%96%8B%E8%85%94%E5%9B%9E%E6%87%89%E8%A2%AB%E9%87%98p%E7%89%8C-%E8%87%AA%E8%AA%8D%E6%9C%89%E5%95%8F%E9%A1%8C%E6%9C%83%E5%86%8D%E8%80%83-%E5%B8%AB%E5%82%85%E5%94%94%E6%9C%83%E5%86%8D%E6%83%B3%E5%90%8C%E6%88%91%E5%90%88%E7%85%A7",
     "timestamp": "2026-05-18T15:53:19.803Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "空姐成最想娶職業第二名！揭易嫁豪門3大原因　不只因為長得漂亮",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260421/1123213865950121984598307.png/mTdvGdeP6miiX-vWFDcDEhk8GqbFzXqO_uWpQ4vlqUM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%AB%87%E6%83%85%E8%AA%AA%E6%80%A7/60342171/%E7%A9%BA%E5%A7%90%E6%88%90%E6%9C%80%E6%83%B3%E5%A8%B6%E8%81%B7%E6%A5%AD%E7%AC%AC%E4%BA%8C%E5%90%8D-%E6%8F%AD%E6%98%93%E5%AB%81%E8%B1%AA%E9%96%803%E5%A4%A7%E5%8E%9F%E5%9B%A0-%E4%B8%8D%E5%8F%AA%E5%9B%A0%E7%82%BA%E9%95%B7%E5%BE%97%E6%BC%82%E4%BA%AE",
-    "timestamp": "2026-05-18T11:37:02.399Z",
     "strategy": ".content-card__main"
   }
 ];
