@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-19T21:51:44.706Z
+// Last updated: 2026-05-19T22:37:26.966Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "前TVB花旦舊照出土戴黑超夾Walkman極in　曾戀大馬富商未婚生子",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260519/1133499658010628096394126.jpeg/lPOxfvbbtwAkSnhtdME8GiWKrCWjlmrU1UiO8dVIjvE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60351446/%E9%99%B3%E7%A7%80%E7%8F%A0%E8%88%8A%E7%85%A7%E5%87%BA%E5%9C%9F%E6%88%B4%E9%BB%91%E8%B6%85%E5%A4%BEwalkman%E6%A5%B5in-%E6%9B%BE%E6%88%80%E5%A4%A7%E9%A6%AC%E5%AF%8C%E5%95%86%E6%9C%AA%E5%A9%9A%E7%94%9F%E5%AD%90",
+    "timestamp": "2026-05-19T22:37:26.966Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "英超｜熱刺作客1：2車路士　未擺脫降班危機",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260519/1133286228439863296276014.jpeg/kFoE56QS6upkHHCubs6VUQijxBo0bnM0LPQ_8iz0P_I?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60351202/%E4%BC%8A%E6%B3%A2%E6%8B%89-%E4%B8%80%E5%90%8D%E7%BE%8E%E5%9C%8B%E5%85%AC%E6%B0%91%E5%9C%A8%E5%89%9B%E6%9E%9C%E7%A2%BA%E8%A8%BA-cdc%E5%B0%8D3%E5%9C%8B%E5%95%9F%E5%8B%95%E5%85%A5%E5%A2%83%E9%99%90%E5%88%B6",
     "timestamp": "2026-05-18T22:12:59.167Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普指伊朗新提案令人失望　但推遲原定19日軍事打擊",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260506/1128626777749458944241309.jpeg/HN1y9oE1q6aLNXhcUQhXfpSqOrFQDilOWTmMAlk5jAI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60351197/%E7%89%B9%E6%9C%97%E6%99%AE%E6%8C%87%E4%BC%8A%E6%9C%97%E6%96%B0%E6%8F%90%E6%A1%88%E4%BB%A4%E4%BA%BA%E5%A4%B1%E6%9C%9B-%E4%BD%86%E6%8E%A8%E9%81%B2%E5%8E%9F%E5%AE%9A19%E6%97%A5%E8%BB%8D%E4%BA%8B%E6%89%93%E6%93%8A",
-    "timestamp": "2026-05-18T21:01:00.087Z",
     "strategy": ".content-card__main"
   }
 ];
