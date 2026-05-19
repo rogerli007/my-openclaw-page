@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-19T13:32:11.282Z
+// Last updated: 2026-05-19T14:29:18.806Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "羅湖口岸︱北上男寬鬆牛仔褲異常凸起　竟藏近1400個手機鏡頭斷正",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260519/1133460041068711936987514.jpeg/Y8jHUkejwb_Jle1xeHN2EJwliiPN93YwY0BpBWNAaQU",
+    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60351490/%E7%BE%85%E6%B9%96%E5%8F%A3%E5%B2%B8-%E5%8C%97%E4%B8%8A%E7%94%B7%E5%AF%AC%E9%AC%86%E7%89%9B%E4%BB%94%E8%A4%B2%E7%95%B0%E5%B8%B8%E5%87%B8%E8%B5%B7-%E7%AB%9F%E8%97%8F%E8%BF%911400%E5%80%8B%E6%89%8B%E6%A9%9F%E9%8F%A1%E9%A0%AD%E6%96%B7%E6%AD%A3",
+    "timestamp": "2026-05-19T14:29:18.806Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "世界盃2026韓國｜足球排名+國家隊球員名單陣容+最新賽程",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260518/1133066568188563456762843.jpeg/SnuUPLACLbb_XrDja3D46wubSxmIjnRmkD5ZDJA-WQw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60351004/%E6%97%A5%E6%9C%AC%E6%8B%89%E9%BA%B5%E5%BA%97%E5%85%AC%E5%91%8A-%E5%90%89%E4%BC%8A%E5%8D%A1%E5%93%87%E7%A6%81%E5%85%A5-%E6%83%B9%E8%AD%B0-%E6%8F%AD%E6%9B%BE%E6%9C%89%E5%AE%A2%E4%BA%BA%E9%A4%90%E5%BE%8C%E4%BD%94%E4%BD%8D%E7%8E%A9%E5%91%A8%E9%82%8A",
     "timestamp": "2026-05-18T08:39:52.510Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "啟德零售館首季整體表現按年增長4成　AC米蘭足球學院即將開幕",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260518/1133057341936111616496805.jpeg/mJ-afAQzgLPg4f2O-SMUKjTqKDEJzaIWVQ1bOlUNWzo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60350996/%E5%95%9F%E5%BE%B7%E9%9B%B6%E5%94%AE%E9%A4%A8%E9%A6%96%E5%AD%A3%E6%95%B4%E9%AB%94%E8%A1%A8%E7%8F%BE%E6%8C%89%E5%B9%B4%E5%A2%9E%E9%95%B74%E6%88%90-ac%E7%B1%B3%E8%98%AD%E8%B6%B3%E7%90%83%E5%AD%B8%E9%99%A2%E5%8D%B3%E5%B0%87%E9%96%8B%E5%B9%95",
-    "timestamp": "2026-05-18T07:08:38.466Z",
     "strategy": ".content-card__main"
   }
 ];
