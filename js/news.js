@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-19T06:57:05.377Z
+// Last updated: 2026-05-19T10:54:35.497Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "「電影馬拉松」圓滿落幕　《阮玲玉》導演關錦鵬再談電影爭議",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260519/1133429371021824000809317.jpeg/0FEzI_C8xdhN8rwwpoTmCDVQxu-egCAetccxrbXHMa0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60351412/%E9%9B%BB%E5%BD%B1%E9%A6%AC%E6%8B%89%E6%9D%BE-%E5%9C%93%E6%BB%BF%E8%90%BD%E5%B9%95-%E9%98%AE%E7%8E%B2%E7%8E%89-%E5%B0%8E%E6%BC%94%E9%97%9C%E9%8C%A6%E9%B5%AC%E5%86%8D%E8%AB%87%E9%9B%BB%E5%BD%B1%E7%88%AD%E8%AD%B0",
+    "timestamp": "2026-05-19T10:54:35.497Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "韓國Starbucks光州紀念日用「坦克日」宣傳　CEO被炒　李在明狠批",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260505/1128316712542801920345107.png/kOVUg4tUq2_ho7LQ3vtvHFHjWSzKzIKBTSStHU0krR0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60346696/enhypen%E6%BC%94%E5%94%B1%E6%9C%832026%E6%BE%B3%E9%96%80%E5%8A%A0%E5%A0%B4-%E9%96%80%E7%A5%A8%E5%85%AC%E5%94%AE%E6%94%BB%E7%95%A5-%E8%B3%BC%E7%A5%A8%E9%80%A3%E7%B5%90-%E5%BA%A7%E4%BD%8D%E8%A1%A8",
     "timestamp": "2026-05-18T03:54:38.056Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "召妓感染陰蝨！年輕男下體痕癢醫生當場抓4隻：還有很多　4招杜絕",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260516/1132178213745725440397526.png/ccUNwFqb3-9jrL6EmFU40a_YopDbsM6QQ0_kPUNP5D0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60350432/%E5%8F%AC%E5%A6%93%E6%84%9F%E6%9F%93%E9%99%B0%E8%9D%A8-%E5%B9%B4%E8%BC%95%E7%94%B7%E4%B8%8B%E9%AB%94%E7%97%95%E7%99%A2%E9%86%AB%E7%94%9F%E7%95%B6%E5%A0%B4%E6%8A%934%E9%9A%BB-%E9%82%84%E6%9C%89%E5%BE%88%E5%A4%9A-4%E6%8B%9B%E6%9D%9C%E7%B5%95",
-    "timestamp": "2026-05-18T01:24:06.710Z",
     "strategy": ".content-card__main"
   }
 ];
