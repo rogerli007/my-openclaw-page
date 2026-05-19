@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-19T02:29:05.767Z
+// Last updated: 2026-05-19T06:57:05.377Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "韓國Starbucks光州紀念日用「坦克日」宣傳　CEO被炒　李在明狠批",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260519/1133414860059578368062453.jpeg/OAEMip_CaXmnWg-TehRaCTWynnej43g1HfLn4x3y5-M?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60351391/%E9%9F%93%E5%9C%8Bstarbucks%E5%85%89%E5%B7%9E%E7%B4%80%E5%BF%B5%E6%97%A5%E7%94%A8-%E5%9D%A6%E5%85%8B%E6%97%A5-%E5%AE%A3%E5%82%B3-ceo%E8%A2%AB%E7%82%92-%E6%9D%8E%E5%9C%A8%E6%98%8E%E7%8B%A0%E6%89%B9",
+    "timestamp": "2026-05-19T06:57:05.377Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美30年國債孳息率曾觸5.16厘　3年來最高　憂通脹續頑固",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260516/1132178213745725440397526.png/ccUNwFqb3-9jrL6EmFU40a_YopDbsM6QQ0_kPUNP5D0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60350432/%E5%8F%AC%E5%A6%93%E6%84%9F%E6%9F%93%E9%99%B0%E8%9D%A8-%E5%B9%B4%E8%BC%95%E7%94%B7%E4%B8%8B%E9%AB%94%E7%97%95%E7%99%A2%E9%86%AB%E7%94%9F%E7%95%B6%E5%A0%B4%E6%8A%934%E9%9A%BB-%E9%82%84%E6%9C%89%E5%BE%88%E5%A4%9A-4%E6%8B%9B%E6%9D%9C%E7%B5%95",
     "timestamp": "2026-05-18T01:24:06.710Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "楊莉珊｜勿「獨」警告——主權紅線下的台灣抉擇",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260518/1132948199850381312576108.jpeg/POZr8E-K2WkOcCcJGNXKAF2Wemfw1PPin-Y-85_mPvM?v=w1920r16_9",
-    "url": "https://www.hk01.com/01%E8%AB%96%E5%A3%87/60350820/%E6%A5%8A%E8%8E%89%E7%8F%8A-%E5%8B%BF-%E7%8D%A8-%E8%AD%A6%E5%91%8A-%E4%B8%BB%E6%AC%8A%E7%B4%85%E7%B7%9A%E4%B8%8B%E7%9A%84%E5%8F%B0%E7%81%A3%E6%8A%89%E6%93%87",
-    "timestamp": "2026-05-18T00:12:15.323Z",
     "strategy": ".content-card__main"
   }
 ];
