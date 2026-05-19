@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-19T14:29:18.806Z
+// Last updated: 2026-05-19T15:50:12.447Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "東張西望｜少女遺失身份證疑被盜用假結婚：冒我簽名就可以結到婚",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260519/1133545602550861824208135.jpeg/cReF2SHNgnfSTPE4bdkC46UkP61bSgZ0rG9smqxvbJo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60351586/%E6%9D%B1%E5%BC%B5%E8%A5%BF%E6%9C%9B-%E5%B0%91%E5%A5%B3%E9%81%BA%E5%A4%B1%E8%BA%AB%E4%BB%BD%E8%AD%89%E7%96%91%E8%A2%AB%E7%9B%9C%E7%94%A8%E5%81%87%E7%B5%90%E5%A9%9A-%E5%86%92%E6%88%91%E7%B0%BD%E5%90%8D%E5%B0%B1%E5%8F%AF%E4%BB%A5%E7%B5%90%E5%88%B0%E5%A9%9A",
+    "timestamp": "2026-05-19T15:50:12.447Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "羅湖口岸︱北上男寬鬆牛仔褲異常凸起　竟藏近1400個手機鏡頭斷正",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260518/1133105807294992384893165.jpeg/umzYzAZDDg588OrmqhsSy_tz8zsE8C48qvVCyqr1Qso?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60351107/%E4%B8%AD%E5%9C%8B%E9%A7%90%E6%B3%B0%E5%9C%8B%E4%BD%BF%E9%A4%A8%E7%B1%B2%E8%AD%A6%E6%83%95-%E9%AB%98%E8%96%AA%E6%8B%9B%E8%81%98-%E9%99%B7%E9%98%B1-%E8%BF%91%E6%9C%9F%E5%A4%9A%E4%BA%BA%E8%A2%AB%E8%AA%98%E9%A8%99%E8%87%B3%E5%A2%83%E5%A4%96%E5%A4%B1%E8%81%AF",
     "timestamp": "2026-05-18T10:15:00.594Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "日本拉麵店公告「吉伊卡哇禁入」惹議　揭曾有客人餐後佔位玩周邊",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260518/1133066568188563456762843.jpeg/SnuUPLACLbb_XrDja3D46wubSxmIjnRmkD5ZDJA-WQw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60351004/%E6%97%A5%E6%9C%AC%E6%8B%89%E9%BA%B5%E5%BA%97%E5%85%AC%E5%91%8A-%E5%90%89%E4%BC%8A%E5%8D%A1%E5%93%87%E7%A6%81%E5%85%A5-%E6%83%B9%E8%AD%B0-%E6%8F%AD%E6%9B%BE%E6%9C%89%E5%AE%A2%E4%BA%BA%E9%A4%90%E5%BE%8C%E4%BD%94%E4%BD%8D%E7%8E%A9%E5%91%A8%E9%82%8A",
-    "timestamp": "2026-05-18T08:39:52.510Z",
     "strategy": ".content-card__main"
   }
 ];
