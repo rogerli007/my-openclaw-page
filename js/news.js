@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-20T10:47:22.942Z
+// Last updated: 2026-05-20T11:50:13.470Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "瑪蒂爾達Matilda音樂劇深圳場｜門票85折+家長大讚反思育兒初衷",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260514/1131538141908307968893456.jpeg/j0JIU-FGlc4PBsaTgDvOLA3QIUJeWcCql0oLjZdKC40?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%A6%AA%E5%AD%90/60349300/%E7%91%AA%E8%92%82%E7%88%BE%E9%81%94matilda%E9%9F%B3%E6%A8%82%E5%8A%87%E6%B7%B1%E5%9C%B3%E5%A0%B4-%E9%96%80%E7%A5%A885%E6%8A%98-%E5%AE%B6%E9%95%B7%E5%A4%A7%E8%AE%9A%E5%8F%8D%E6%80%9D%E8%82%B2%E5%85%92%E5%88%9D%E8%A1%B7",
+    "timestamp": "2026-05-20T11:50:13.470Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "佛誕深圳好去處15推介！5A級度假區+大鵬灣最美海岸+2大主題樂園",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260520/1133570105934876672384205.jpeg/MPZMUAXghmSCd5rBUetyj7gQjR86eM2iQu9p9ELvafQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60351597/%E5%BC%B5%E5%9C%8B%E9%88%9E-%E6%B8%AF%E8%97%89%E4%B8%80%E5%9C%8B%E5%85%A9%E5%88%B6%E5%84%AA%E5%8B%A2-%E5%8F%AF%E5%A4%9A%E5%B1%A4%E9%9D%A2%E7%82%BA%E6%A7%8B%E5%BB%BA%E4%BA%BA%E9%A1%9E%E5%91%BD%E9%81%8B%E5%85%B1%E5%90%8C%E9%AB%94%E4%BD%9C%E8%B2%A2%E7%8D%BB",
     "timestamp": "2026-05-19T17:09:28.022Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "東張西望｜少女遺失身份證疑被盜用假結婚：冒我簽名就可以結到婚",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260519/1133545602550861824208135.jpeg/cReF2SHNgnfSTPE4bdkC46UkP61bSgZ0rG9smqxvbJo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60351586/%E6%9D%B1%E5%BC%B5%E8%A5%BF%E6%9C%9B-%E5%B0%91%E5%A5%B3%E9%81%BA%E5%A4%B1%E8%BA%AB%E4%BB%BD%E8%AD%89%E7%96%91%E8%A2%AB%E7%9B%9C%E7%94%A8%E5%81%87%E7%B5%90%E5%A9%9A-%E5%86%92%E6%88%91%E7%B0%BD%E5%90%8D%E5%B0%B1%E5%8F%AF%E4%BB%A5%E7%B5%90%E5%88%B0%E5%A9%9A",
-    "timestamp": "2026-05-19T15:50:12.447Z",
     "strategy": ".content-card__main"
   }
 ];
