@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-20T09:41:30.796Z
+// Last updated: 2026-05-20T10:47:22.942Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "佛誕深圳好去處15推介！5A級度假區+大鵬灣最美海岸+2大主題樂園",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260520/1133839861745192960518360.jpeg/aL1aDOdTRx3DZcod3_GYG22g5v_qqpusFAFTHxQBUx8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%97%85%E9%81%8A/60351739/%E4%BD%9B%E8%AA%95%E6%B7%B1%E5%9C%B3%E5%A5%BD%E5%8E%BB%E8%99%9515%E6%8E%A8%E4%BB%8B-5a%E7%B4%9A%E5%BA%A6%E5%81%87%E5%8D%80-%E5%A4%A7%E9%B5%AC%E7%81%A3%E6%9C%80%E7%BE%8E%E6%B5%B7%E5%B2%B8-2%E5%A4%A7%E4%B8%BB%E9%A1%8C%E6%A8%82%E5%9C%92",
+    "timestamp": "2026-05-20T10:47:22.942Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "搭地鐵唔使再逼車？　韓國首爾推「讓座」App　匿名共享落車訊息",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260519/1133545602550861824208135.jpeg/cReF2SHNgnfSTPE4bdkC46UkP61bSgZ0rG9smqxvbJo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60351586/%E6%9D%B1%E5%BC%B5%E8%A5%BF%E6%9C%9B-%E5%B0%91%E5%A5%B3%E9%81%BA%E5%A4%B1%E8%BA%AB%E4%BB%BD%E8%AD%89%E7%96%91%E8%A2%AB%E7%9B%9C%E7%94%A8%E5%81%87%E7%B5%90%E5%A9%9A-%E5%86%92%E6%88%91%E7%B0%BD%E5%90%8D%E5%B0%B1%E5%8F%AF%E4%BB%A5%E7%B5%90%E5%88%B0%E5%A9%9A",
     "timestamp": "2026-05-19T15:50:12.447Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "羅湖口岸︱北上男寬鬆牛仔褲異常凸起　竟藏近1400個手機鏡頭斷正",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260519/1133460041068711936987514.jpeg/Y8jHUkejwb_Jle1xeHN2EJwliiPN93YwY0BpBWNAaQU",
-    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60351490/%E7%BE%85%E6%B9%96%E5%8F%A3%E5%B2%B8-%E5%8C%97%E4%B8%8A%E7%94%B7%E5%AF%AC%E9%AC%86%E7%89%9B%E4%BB%94%E8%A4%B2%E7%95%B0%E5%B8%B8%E5%87%B8%E8%B5%B7-%E7%AB%9F%E8%97%8F%E8%BF%911400%E5%80%8B%E6%89%8B%E6%A9%9F%E9%8F%A1%E9%A0%AD%E6%96%B7%E6%AD%A3",
-    "timestamp": "2026-05-19T14:29:18.806Z",
     "strategy": ".content-card__main"
   }
 ];
