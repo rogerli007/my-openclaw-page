@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-20T14:13:01.462Z
+// Last updated: 2026-05-20T17:50:27.141Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "黃雨│龍躍頭環形行人天橋啟用僅1個月　上蓋去水喉甩脫暴雨瀉橋面",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260521/1133943045046145024721905.jpeg/AmNr-P4fnjfZ69ocYTIn37I3MY8Y1F65PgoGzRsKBs0",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60351991/%E9%BB%83%E9%9B%A8-%E9%BE%8D%E8%BA%8D%E9%A0%AD%E7%92%B0%E5%BD%A2%E8%A1%8C%E4%BA%BA%E5%A4%A9%E6%A9%8B%E5%95%9F%E7%94%A8%E5%83%851%E5%80%8B%E6%9C%88-%E4%B8%8A%E8%93%8B%E5%8E%BB%E6%B0%B4%E5%96%89%E7%94%A9%E8%84%AB%E6%9A%B4%E9%9B%A8%E7%80%89%E6%A9%8B%E9%9D%A2",
+    "timestamp": "2026-05-20T17:50:27.141Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "自民黨提安保三文件修改建議　日媒：倡設定日本軍費新目標",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/2009539/org/71a7d65fb25d283d60259814c8cb10fa.jpg/pc-a-Dx2pa5sxPYBuytjWs0WdWAOuSCv-Lvsh_i77Ic?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60351601/%E6%B3%B0%E5%9C%8B%E5%8F%96%E6%B6%8860%E5%A4%A9%E5%85%8D%E7%B0%BD%E8%AD%89%E5%BE%85%E9%81%87-93%E5%9C%8B%E5%AE%B6%E6%88%96%E5%9C%B0%E5%8D%80%E7%B8%AE%E7%9F%AD%E8%87%B330%E6%97%A5",
     "timestamp": "2026-05-19T19:42:56.187Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "泰國取消60天免簽證待遇　93國家或地區縮短至30日",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/2009539/org/71a7d65fb25d283d60259814c8cb10fa.jpg/pc-a-Dx2pa5sxPYBuytjWs0WdWAOuSCv-Lvsh_i77Ic?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60351601/%E6%B3%B0%E5%9C%8B%E5%8F%96%E6%B6%8860%E5%A4%A9%E5%85%8D%E7%B0%BD%E8%AD%89%E5%BE%85%E9%81%87-93%E5%9C%8B%E5%AE%B6%E6%88%96%E5%9C%B0%E5%8D%80%E7%B8%AE%E7%9F%AD%E8%87%B330%E6%97%A5",
-    "timestamp": "2026-05-19T18:53:50.753Z",
     "strategy": ".content-card__main"
   }
 ];
