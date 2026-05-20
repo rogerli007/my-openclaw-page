@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-20T11:50:13.470Z
+// Last updated: 2026-05-20T13:09:09.068Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "歐洲戰略調整：據報擬推高級特使與俄談判　人選包括德拉吉默克爾",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20251007/1052302436665921536094376.jpeg/P89lle9kh1UACq-EoI62_qOkWapOESLLnvCHbJ7wh2w?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60351908/%E6%AD%90%E6%B4%B2%E6%88%B0%E7%95%A5%E8%AA%BF%E6%95%B4-%E6%93%9A%E5%A0%B1%E6%93%AC%E6%8E%A8%E9%AB%98%E7%B4%9A%E7%89%B9%E4%BD%BF%E8%88%87%E4%BF%84%E8%AB%87%E5%88%A4-%E4%BA%BA%E9%81%B8%E5%8C%85%E6%8B%AC%E5%BE%B7%E6%8B%89%E5%90%89%E9%BB%98%E5%85%8B%E7%88%BE",
+    "timestamp": "2026-05-20T13:09:09.068Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "瑪蒂爾達Matilda音樂劇深圳場｜門票85折+家長大讚反思育兒初衷",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260520/1133579654083907584934675.jpeg/Uv-fpQzS3ynzE4_g2GnRI7PdThAd53qk48XuoePF7qE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60351600/%E7%89%B9%E6%9C%97%E6%99%AE-%E6%88%96%E9%9C%80%E9%87%8D%E5%95%9F%E8%BB%8D%E4%BA%8B%E6%89%93%E6%93%8A-%E4%BC%8A%E6%9C%97%E5%89%AF%E5%A4%96%E9%95%B7-%E5%A0%85%E6%B1%BA%E6%87%89%E5%B0%8D%E4%BB%BB%E4%BD%95%E5%BD%A2%E5%BC%8F%E4%BE%B5%E7%95%A5",
     "timestamp": "2026-05-19T18:02:42.794Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "張國鈞：港藉一國兩制優勢　可多層面為構建人類命運共同體作貢獻",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260520/1133570105934876672384205.jpeg/MPZMUAXghmSCd5rBUetyj7gQjR86eM2iQu9p9ELvafQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60351597/%E5%BC%B5%E5%9C%8B%E9%88%9E-%E6%B8%AF%E8%97%89%E4%B8%80%E5%9C%8B%E5%85%A9%E5%88%B6%E5%84%AA%E5%8B%A2-%E5%8F%AF%E5%A4%9A%E5%B1%A4%E9%9D%A2%E7%82%BA%E6%A7%8B%E5%BB%BA%E4%BA%BA%E9%A1%9E%E5%91%BD%E9%81%8B%E5%85%B1%E5%90%8C%E9%AB%94%E4%BD%9C%E8%B2%A2%E7%8D%BB",
-    "timestamp": "2026-05-19T17:09:28.022Z",
     "strategy": ".content-card__main"
   }
 ];
