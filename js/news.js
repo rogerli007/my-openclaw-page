@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-20T00:15:29.546Z
+// Last updated: 2026-05-20T01:24:18.325Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "女病人下體有異味！衛生棉條留體內30天發黑　醫生提醒8小時必換",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260516/1132437668764848128520147.png/wmdZM9ghHbe7i0dipQJPVVAXJc1Yv_9ZaLb1l2i29Zc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60350605/%E5%A5%B3%E7%97%85%E4%BA%BA%E4%B8%8B%E9%AB%94%E6%9C%89%E7%95%B0%E5%91%B3-%E8%A1%9B%E7%94%9F%E6%A3%89%E6%A2%9D%E7%95%99%E9%AB%94%E5%85%A730%E5%A4%A9%E7%99%BC%E9%BB%91-%E9%86%AB%E7%94%9F%E6%8F%90%E9%86%928%E5%B0%8F%E6%99%82%E5%BF%85%E6%8F%9B",
+    "timestamp": "2026-05-20T01:24:18.325Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "深井海韻花園三房608萬蝕沽　逾4年帳面輕微貶值15.8萬｜多圖",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/cis/5d48bb00da23771958558d89.jpg/mvOPi2agzI10zUOfABfpbg4JewMnft6IYT6xDmE-sQ4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60351208/%E7%BE%8E%E8%B2%A1%E6%94%BF%E9%83%A8-%E6%B5%B7%E5%A4%96%E6%8A%95%E8%B3%87%E8%80%853%E6%9C%88%E6%89%80%E6%8C%81%E9%95%B7%E5%B9%B4%E6%9C%9F%E7%BE%8E%E5%82%B5%E6%B5%AE%E8%99%A71421%E5%84%84%E7%BE%8E%E5%85%83",
     "timestamp": "2026-05-19T00:15:01.889Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美媒：沃什22日宣誓就任聯儲局主席　特朗普白宮主持儀式顯重視",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260514/1131431848476413952531846.jpeg/7IwgLPg75dOtqtGZptY9pV06CTwJUOrK_BKN5vwSjeY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60351207/%E7%BE%8E%E5%AA%92-%E6%B2%83%E4%BB%8022%E6%97%A5%E5%AE%A3%E8%AA%93%E5%B0%B1%E4%BB%BB%E8%81%AF%E5%84%B2%E5%B1%80%E4%B8%BB%E5%B8%AD-%E7%89%B9%E6%9C%97%E6%99%AE%E7%99%BD%E5%AE%AE%E4%B8%BB%E6%8C%81%E5%84%80%E5%BC%8F%E9%A1%AF%E9%87%8D%E8%A6%96",
-    "timestamp": "2026-05-18T23:43:35.669Z",
     "strategy": ".content-card__main"
   }
 ];
