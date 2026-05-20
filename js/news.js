@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-20T21:43:25.483Z
+// Last updated: 2026-05-20T23:02:38.966Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "星二代疑進攻幕前開抖音近況罕曝光　曬出全家福未因年上女友不和",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260520/1133899159825289216217364.jpeg/Lx0caiLWA_XP3xuyUef_y4UEgM7TqN0smp5MWpqeTFo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60351889/%E6%98%9F%E4%BA%8C%E4%BB%A3%E7%96%91%E9%80%B2%E6%94%BB%E5%B9%95%E5%89%8D%E9%96%8B%E6%8A%96%E9%9F%B3%E8%BF%91%E6%B3%81%E7%BD%95%E6%9B%9D%E5%85%89-%E6%9B%AC%E5%87%BA%E5%85%A8%E5%AE%B6%E7%A6%8F%E6%9C%AA%E5%9B%A0%E5%B9%B4%E4%B8%8A%E5%A5%B3%E5%8F%8B%E4%B8%8D%E5%92%8C",
+    "timestamp": "2026-05-20T23:02:38.966Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "歐霸｜阿士東維拉3：0擊敗弗賴堡　奪44年來首個歐洲賽錦標",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260518/1132923415829680128497031.jpeg/nFzXDC3rr5e8YkpD4DKWfB5l9gCT_CPoDMjwkAzI8JA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60351604/%E5%A4%A9%E6%B0%A3-%E5%A4%A9%E6%96%87%E5%8F%B0%E6%8F%90%E7%A4%BA-%E9%9B%B7%E9%9B%A8%E9%80%90%E6%BC%B8%E9%9D%A0%E8%BF%91-%E4%BB%8A%E6%97%A9%E9%83%A8%E4%BB%BD%E5%9C%B0%E5%8D%80%E8%BC%83%E5%A4%A7%E9%9B%A8%E6%9C%89%E7%8B%82%E9%A2%A8%E9%9B%B7%E6%9A%B4",
     "timestamp": "2026-05-19T21:07:58.269Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "萬斯稱與伊朗談判取得很大進展　美媒：調解方認為進展甚微",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260520/1133609437026586624639254.jpeg/EWYSzasyhGLy8V1OBo1CI4_-7I-ydi6RsfLcTLHy3Ew?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60351608/%E8%90%AC%E6%96%AF%E7%A8%B1%E8%88%87%E4%BC%8A%E6%9C%97%E8%AB%87%E5%88%A4%E5%8F%96%E5%BE%97%E5%BE%88%E5%A4%A7%E9%80%B2%E5%B1%95-%E7%BE%8E%E5%AA%92-%E8%AA%BF%E8%A7%A3%E6%96%B9%E8%AA%8D%E7%82%BA%E9%80%B2%E5%B1%95%E7%94%9A%E5%BE%AE",
-    "timestamp": "2026-05-19T20:24:00.741Z",
     "strategy": ".content-card__main"
   }
 ];
