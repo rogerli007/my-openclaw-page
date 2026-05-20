@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-20T05:33:34.208Z
+// Last updated: 2026-05-20T06:57:16.263Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "禁另類煙｜日本抵港男子行李藏1.42萬支另類煙產品　即時監禁6周",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260430/1126506726321819648183560.jpeg/BXGsxt8H1l0IPfHfCQL5Y7gmq_X1rGDvJ_7UjAL-1Iw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60351798/%E7%A6%81%E5%8F%A6%E9%A1%9E%E7%85%99-%E6%97%A5%E6%9C%AC%E6%8A%B5%E6%B8%AF%E7%94%B7%E5%AD%90%E8%A1%8C%E6%9D%8E%E8%97%8F1-42%E8%90%AC%E6%94%AF%E5%8F%A6%E9%A1%9E%E7%85%99%E7%94%A2%E5%93%81-%E5%8D%B3%E6%99%82%E7%9B%A3%E7%A6%816%E5%91%A8",
+    "timestamp": "2026-05-20T06:57:16.263Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "有片︱九龍灣臨興街午膳時間餐廳火警　抽油煙槽噴濃煙　籠罩街頭",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260519/1133372716838031360469308.jpeg/OvtR7wi4JLBozCTZVWcZ4YsPIxvAImkU_iroYP4q6GA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60351265/%E6%88%90%E9%83%BD%E5%BB%A3%E5%A0%B4%E9%9B%95%E5%A1%91%E8%A2%AB%E6%8C%87%E9%80%A0%E5%9E%8B%E9%9C%B2%E9%AA%A8%E4%BC%BC%E5%A5%B3%E6%80%A7%E7%A7%81%E8%99%95-%E7%89%A9%E6%A5%AD-%E9%AB%94%E7%8F%BE%E8%B1%90%E8%85%B4%E8%BA%AB%E9%AB%94%E6%9B%B2%E7%B7%9A",
     "timestamp": "2026-05-19T12:09:44.352Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "「電影馬拉松」圓滿落幕　《阮玲玉》導演關錦鵬再談電影爭議",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260519/1133429371021824000809317.jpeg/0FEzI_C8xdhN8rwwpoTmCDVQxu-egCAetccxrbXHMa0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60351412/%E9%9B%BB%E5%BD%B1%E9%A6%AC%E6%8B%89%E6%9D%BE-%E5%9C%93%E6%BB%BF%E8%90%BD%E5%B9%95-%E9%98%AE%E7%8E%B2%E7%8E%89-%E5%B0%8E%E6%BC%94%E9%97%9C%E9%8C%A6%E9%B5%AC%E5%86%8D%E8%AB%87%E9%9B%BB%E5%BD%B1%E7%88%AD%E8%AD%B0",
-    "timestamp": "2026-05-19T10:54:35.497Z",
     "strategy": ".content-card__main"
   }
 ];
