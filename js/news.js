@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-20T13:09:09.068Z
+// Last updated: 2026-05-20T14:13:01.462Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "自民黨提安保三文件修改建議　日媒：倡設定日本軍費新目標",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/2146878/org/c5b4ad0f776eb7e7dcb5ce3a6770fcf8.jpg/JjkeeeQwsCvxEVdZ-PtHtVB0ZDd5pRzRCY-iEAmPohA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60351928/%E8%87%AA%E6%B0%91%E9%BB%A8%E6%8F%90%E5%AE%89%E4%BF%9D%E4%B8%89%E6%96%87%E4%BB%B6%E4%BF%AE%E6%94%B9%E5%BB%BA%E8%AD%B0-%E6%97%A5%E5%AA%92-%E5%80%A1%E8%A8%AD%E5%AE%9A%E6%97%A5%E6%9C%AC%E8%BB%8D%E8%B2%BB%E6%96%B0%E7%9B%AE%E6%A8%99",
+    "timestamp": "2026-05-20T14:13:01.462Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "歐洲戰略調整：據報擬推高級特使與俄談判　人選包括德拉吉默克爾",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/2009539/org/71a7d65fb25d283d60259814c8cb10fa.jpg/pc-a-Dx2pa5sxPYBuytjWs0WdWAOuSCv-Lvsh_i77Ic?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60351601/%E6%B3%B0%E5%9C%8B%E5%8F%96%E6%B6%8860%E5%A4%A9%E5%85%8D%E7%B0%BD%E8%AD%89%E5%BE%85%E9%81%87-93%E5%9C%8B%E5%AE%B6%E6%88%96%E5%9C%B0%E5%8D%80%E7%B8%AE%E7%9F%AD%E8%87%B330%E6%97%A5",
     "timestamp": "2026-05-19T18:53:50.753Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普：或需重啟軍事打擊　伊朗副外長：堅決應對任何形式侵略",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260520/1133579654083907584934675.jpeg/Uv-fpQzS3ynzE4_g2GnRI7PdThAd53qk48XuoePF7qE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60351600/%E7%89%B9%E6%9C%97%E6%99%AE-%E6%88%96%E9%9C%80%E9%87%8D%E5%95%9F%E8%BB%8D%E4%BA%8B%E6%89%93%E6%93%8A-%E4%BC%8A%E6%9C%97%E5%89%AF%E5%A4%96%E9%95%B7-%E5%A0%85%E6%B1%BA%E6%87%89%E5%B0%8D%E4%BB%BB%E4%BD%95%E5%BD%A2%E5%BC%8F%E4%BE%B5%E7%95%A5",
-    "timestamp": "2026-05-19T18:02:42.794Z",
     "strategy": ".content-card__main"
   }
 ];
