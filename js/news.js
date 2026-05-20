@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-19T23:45:28.200Z
+// Last updated: 2026-05-20T00:15:29.546Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "深井海韻花園三房608萬蝕沽　逾4年帳面輕微貶值15.8萬｜多圖",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260519/1133374047791353856980625.jpeg/p624N3RpMolhSaJuP30JXkTckqjpYJIWX9SROl_UkTo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60351299/%E6%B7%B1%E4%BA%95%E6%B5%B7%E9%9F%BB%E8%8A%B1%E5%9C%92%E4%B8%89%E6%88%BF608%E8%90%AC%E8%9D%95%E6%B2%BD-%E9%80%BE4%E5%B9%B4%E5%B8%B3%E9%9D%A2%E8%BC%95%E5%BE%AE%E8%B2%B6%E5%80%BC15-8%E8%90%AC-%E5%A4%9A%E5%9C%96",
+    "timestamp": "2026-05-20T00:15:29.546Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "彭博：倘霍爾木茲海峽7月仍未重開　北約考慮啟動護航行動",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260514/1131431848476413952531846.jpeg/7IwgLPg75dOtqtGZptY9pV06CTwJUOrK_BKN5vwSjeY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60351207/%E7%BE%8E%E5%AA%92-%E6%B2%83%E4%BB%8022%E6%97%A5%E5%AE%A3%E8%AA%93%E5%B0%B1%E4%BB%BB%E8%81%AF%E5%84%B2%E5%B1%80%E4%B8%BB%E5%B8%AD-%E7%89%B9%E6%9C%97%E6%99%AE%E7%99%BD%E5%AE%AE%E4%B8%BB%E6%8C%81%E5%84%80%E5%BC%8F%E9%A1%AF%E9%87%8D%E8%A6%96",
     "timestamp": "2026-05-18T23:43:35.669Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "巴士八旬翁猝死！家屬索賠逾¥11萬被法院駁回　網民：死哪訛哪？",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260519/1133218849252970496634209.png/GmO_u7IV3DSUG6rqhztFfM95Aw0wGdzUY4UzzmOFM84?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60350992/%E5%B7%B4%E5%A3%AB%E5%85%AB%E6%97%AC%E7%BF%81%E7%8C%9D%E6%AD%BB-%E5%AE%B6%E5%B1%AC%E7%B4%A2%E8%B3%A0%E9%80%BE-11%E8%90%AC%E8%A2%AB%E6%B3%95%E9%99%A2%E9%A7%81%E5%9B%9E-%E7%B6%B2%E6%B0%91-%E6%AD%BB%E5%93%AA%E8%A8%9B%E5%93%AA",
-    "timestamp": "2026-05-18T23:14:15.058Z",
     "strategy": ".content-card__main"
   }
 ];
