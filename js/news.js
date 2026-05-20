@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-20T08:18:57.837Z
+// Last updated: 2026-05-20T09:41:30.796Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "搭地鐵唔使再逼車？　韓國首爾推「讓座」App　匿名共享落車訊息",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260520/1133822317625872384146890.jpeg/3sBWyaYigVZk9aBLAW8bB1waTZQrHrE130e8fN9HvHw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%92%B0%E7%90%83%E8%B6%A3%E8%81%9E/60351905/%E6%90%AD%E5%9C%B0%E9%90%B5%E5%94%94%E4%BD%BF%E5%86%8D%E9%80%BC%E8%BB%8A-%E9%9F%93%E5%9C%8B%E9%A6%96%E7%88%BE%E6%8E%A8-%E8%AE%93%E5%BA%A7-app-%E5%8C%BF%E5%90%8D%E5%85%B1%E4%BA%AB%E8%90%BD%E8%BB%8A%E8%A8%8A%E6%81%AF",
+    "timestamp": "2026-05-20T09:41:30.796Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "渠蓋遭貨車撞移　紐約56歲婦不慎墮坑渠慘死　家屬痛訴現場無警示",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260519/1133460041068711936987514.jpeg/Y8jHUkejwb_Jle1xeHN2EJwliiPN93YwY0BpBWNAaQU",
     "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60351490/%E7%BE%85%E6%B9%96%E5%8F%A3%E5%B2%B8-%E5%8C%97%E4%B8%8A%E7%94%B7%E5%AF%AC%E9%AC%86%E7%89%9B%E4%BB%94%E8%A4%B2%E7%95%B0%E5%B8%B8%E5%87%B8%E8%B5%B7-%E7%AB%9F%E8%97%8F%E8%BF%911400%E5%80%8B%E6%89%8B%E6%A9%9F%E9%8F%A1%E9%A0%AD%E6%96%B7%E6%AD%A3",
     "timestamp": "2026-05-19T14:29:18.806Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "世界盃2026韓國｜足球排名+國家隊球員名單陣容+最新賽程",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260415/1121126508765646848985470.jpeg/habSMp9arIvJKs1hAhEx8CqYrX53ygmdomNsvqJjbL4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60340453/%E4%B8%96%E7%95%8C%E7%9B%832026%E9%9F%93%E5%9C%8B-%E8%B6%B3%E7%90%83%E6%8E%92%E5%90%8D-%E5%9C%8B%E5%AE%B6%E9%9A%8A%E7%90%83%E5%93%A1%E5%90%8D%E5%96%AE%E9%99%A3%E5%AE%B9-%E6%9C%80%E6%96%B0%E8%B3%BD%E7%A8%8B",
-    "timestamp": "2026-05-19T13:32:11.282Z",
     "strategy": ".content-card__main"
   }
 ];
