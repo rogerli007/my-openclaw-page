@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-20T23:02:38.966Z
+// Last updated: 2026-05-20T23:40:26.501Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "韓媒：習近平或最快下周訪問朝鮮　韓總統府關注",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250904/1040358649114923008893576.jpeg/VOjG_5ltOlbIu71gJpi8xrEvOwJCejPFDRhItQ0YSLU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60352012/%E9%9F%93%E5%AA%92-%E7%BF%92%E8%BF%91%E5%B9%B3%E6%88%96%E6%9C%80%E5%BF%AB%E4%B8%8B%E5%91%A8%E8%A8%AA%E5%95%8F%E6%9C%9D%E9%AE%AE-%E9%9F%93%E7%B8%BD%E7%B5%B1%E5%BA%9C%E9%97%9C%E6%B3%A8",
+    "timestamp": "2026-05-20T23:40:26.501Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "星二代疑進攻幕前開抖音近況罕曝光　曬出全家福未因年上女友不和",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260520/1133615155301584896926184.jpeg/waMrWDbhd2kyWMPFevXLI18e5zd8QdlM9ePyivXj8oo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60351610/%E8%8B%B1%E8%B6%85-%E7%86%B1%E5%88%BA%E4%BD%9C%E5%AE%A21-2%E8%BB%8A%E8%B7%AF%E5%A3%AB-%E6%9C%AA%E6%93%BA%E8%84%AB%E9%99%8D%E7%8F%AD%E5%8D%B1%E6%A9%9F",
     "timestamp": "2026-05-19T21:51:44.706Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "天氣｜天文台提示：雷雨逐漸靠近　今早部份地區較大雨有狂風雷暴",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260518/1132923415829680128497031.jpeg/nFzXDC3rr5e8YkpD4DKWfB5l9gCT_CPoDMjwkAzI8JA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60351604/%E5%A4%A9%E6%B0%A3-%E5%A4%A9%E6%96%87%E5%8F%B0%E6%8F%90%E7%A4%BA-%E9%9B%B7%E9%9B%A8%E9%80%90%E6%BC%B8%E9%9D%A0%E8%BF%91-%E4%BB%8A%E6%97%A9%E9%83%A8%E4%BB%BD%E5%9C%B0%E5%8D%80%E8%BC%83%E5%A4%A7%E9%9B%A8%E6%9C%89%E7%8B%82%E9%A2%A8%E9%9B%B7%E6%9A%B4",
-    "timestamp": "2026-05-19T21:07:58.269Z",
     "strategy": ".content-card__main"
   }
 ];
