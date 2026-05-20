@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-20T01:24:18.325Z
+// Last updated: 2026-05-20T02:28:59.329Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "酒店禁忌｜千萬別赤腳沖涼　醫生警告隨時感染HPV　3類人易染病",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250711/1020350736736718848328456.jpeg/I6kPddgg27ydUO6mEYSELrS-C8-j_Xziz2HeTs9h3k4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%97%85%E9%81%8A/60255749/%E9%85%92%E5%BA%97%E7%A6%81%E5%BF%8C-%E5%8D%83%E8%90%AC%E5%88%A5%E8%B5%A4%E8%85%B3%E6%B2%96%E6%B6%BC-%E9%86%AB%E7%94%9F%E8%AD%A6%E5%91%8A%E9%9A%A8%E6%99%82%E6%84%9F%E6%9F%93hpv-3%E9%A1%9E%E4%BA%BA%E6%98%93%E6%9F%93%E7%97%85",
+    "timestamp": "2026-05-20T02:28:59.329Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "女病人下體有異味！衛生棉條留體內30天發黑　醫生提醒8小時必換",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/3109093/org/3bac9ed6787ce83f511c0b5e0d121520.jpg/wiFUjv2TxIejX4uYEgdngwRaS5aXMSL1AvufUAL7n1A?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60351235/%E7%BE%8E30%E5%B9%B4%E5%9C%8B%E5%82%B5%E5%AD%B3%E6%81%AF%E7%8E%87%E6%9B%BE%E8%A7%B85-16%E5%8E%98-3%E5%B9%B4%E4%BE%86%E6%9C%80%E9%AB%98-%E6%86%82%E9%80%9A%E8%84%B9%E7%BA%8C%E9%A0%91%E5%9B%BA",
     "timestamp": "2026-05-19T02:29:05.767Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美財政部：海外投資者3月所持長年期美債浮虧1421億美元",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/cis/5d48bb00da23771958558d89.jpg/mvOPi2agzI10zUOfABfpbg4JewMnft6IYT6xDmE-sQ4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60351208/%E7%BE%8E%E8%B2%A1%E6%94%BF%E9%83%A8-%E6%B5%B7%E5%A4%96%E6%8A%95%E8%B3%87%E8%80%853%E6%9C%88%E6%89%80%E6%8C%81%E9%95%B7%E5%B9%B4%E6%9C%9F%E7%BE%8E%E5%82%B5%E6%B5%AE%E8%99%A71421%E5%84%84%E7%BE%8E%E5%85%83",
-    "timestamp": "2026-05-19T00:15:01.889Z",
     "strategy": ".content-card__main"
   }
 ];
