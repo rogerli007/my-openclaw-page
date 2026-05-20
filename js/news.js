@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-20T17:50:27.141Z
+// Last updated: 2026-05-20T21:43:25.483Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "歐霸｜阿士東維拉3：0擊敗弗賴堡　奪44年來首個歐洲賽錦標",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260521/1133986704990932992781952.jpeg/_CNPeHv6Xs2PE5HsheebJhy2OURqK_ayu2OEQrtjhEI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60352006/%E6%AD%90%E9%9C%B8-%E9%98%BF%E5%A3%AB%E6%9D%B1%E7%B6%AD%E6%8B%893-0%E6%93%8A%E6%95%97%E5%BC%97%E8%B3%B4%E5%A0%A1-%E5%A5%AA44%E5%B9%B4%E4%BE%86%E9%A6%96%E5%80%8B%E6%AD%90%E6%B4%B2%E8%B3%BD%E9%8C%A6%E6%A8%99",
+    "timestamp": "2026-05-20T21:43:25.483Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "黃雨│龍躍頭環形行人天橋啟用僅1個月　上蓋去水喉甩脫暴雨瀉橋面",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260520/1133609437026586624639254.jpeg/EWYSzasyhGLy8V1OBo1CI4_-7I-ydi6RsfLcTLHy3Ew?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60351608/%E8%90%AC%E6%96%AF%E7%A8%B1%E8%88%87%E4%BC%8A%E6%9C%97%E8%AB%87%E5%88%A4%E5%8F%96%E5%BE%97%E5%BE%88%E5%A4%A7%E9%80%B2%E5%B1%95-%E7%BE%8E%E5%AA%92-%E8%AA%BF%E8%A7%A3%E6%96%B9%E8%AA%8D%E7%82%BA%E9%80%B2%E5%B1%95%E7%94%9A%E5%BE%AE",
     "timestamp": "2026-05-19T20:24:00.741Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "泰國取消60天免簽證待遇　93國家或地區縮短至30日",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/2009539/org/71a7d65fb25d283d60259814c8cb10fa.jpg/pc-a-Dx2pa5sxPYBuytjWs0WdWAOuSCv-Lvsh_i77Ic?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60351601/%E6%B3%B0%E5%9C%8B%E5%8F%96%E6%B6%8860%E5%A4%A9%E5%85%8D%E7%B0%BD%E8%AD%89%E5%BE%85%E9%81%87-93%E5%9C%8B%E5%AE%B6%E6%88%96%E5%9C%B0%E5%8D%80%E7%B8%AE%E7%9F%AD%E8%87%B330%E6%97%A5",
-    "timestamp": "2026-05-19T19:42:56.187Z",
     "strategy": ".content-card__main"
   }
 ];
