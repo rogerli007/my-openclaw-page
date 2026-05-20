@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-20T02:28:59.329Z
+// Last updated: 2026-05-20T03:52:33.402Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "補習老師要7歲男童口交　稱幼時亦曾被性侵　認控制他人有快感",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260520/1133735560968409088251607.jpeg/FFSiXmlQl00jsyo4idCGpG_DwWozzV2MsnEQxbJxEMU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60351722/%E8%A3%9C%E7%BF%92%E8%80%81%E5%B8%AB%E8%A6%817%E6%AD%B2%E7%94%B7%E7%AB%A5%E5%8F%A3%E4%BA%A4-%E7%A8%B1%E5%B9%BC%E6%99%82%E4%BA%A6%E6%9B%BE%E8%A2%AB%E6%80%A7%E4%BE%B5-%E8%AA%8D%E6%8E%A7%E5%88%B6%E4%BB%96%E4%BA%BA%E6%9C%89%E5%BF%AB%E6%84%9F",
+    "timestamp": "2026-05-20T03:52:33.402Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "酒店禁忌｜千萬別赤腳沖涼　醫生警告隨時感染HPV　3類人易染病",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260519/1133414860059578368062453.jpeg/OAEMip_CaXmnWg-TehRaCTWynnej43g1HfLn4x3y5-M?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60351391/%E9%9F%93%E5%9C%8Bstarbucks%E5%85%89%E5%B7%9E%E7%B4%80%E5%BF%B5%E6%97%A5%E7%94%A8-%E5%9D%A6%E5%85%8B%E6%97%A5-%E5%AE%A3%E5%82%B3-ceo%E8%A2%AB%E7%82%92-%E6%9D%8E%E5%9C%A8%E6%98%8E%E7%8B%A0%E6%89%B9",
     "timestamp": "2026-05-19T06:57:05.377Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美30年國債孳息率曾觸5.16厘　3年來最高　憂通脹續頑固",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/3109093/org/3bac9ed6787ce83f511c0b5e0d121520.jpg/wiFUjv2TxIejX4uYEgdngwRaS5aXMSL1AvufUAL7n1A?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60351235/%E7%BE%8E30%E5%B9%B4%E5%9C%8B%E5%82%B5%E5%AD%B3%E6%81%AF%E7%8E%87%E6%9B%BE%E8%A7%B85-16%E5%8E%98-3%E5%B9%B4%E4%BE%86%E6%9C%80%E9%AB%98-%E6%86%82%E9%80%9A%E8%84%B9%E7%BA%8C%E9%A0%91%E5%9B%BA",
-    "timestamp": "2026-05-19T02:29:05.767Z",
     "strategy": ".content-card__main"
   }
 ];
