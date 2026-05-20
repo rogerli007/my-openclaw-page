@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-20T03:52:33.402Z
+// Last updated: 2026-05-20T05:33:34.208Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "有片︱九龍灣臨興街午膳時間餐廳火警　抽油煙槽噴濃煙　籠罩街頭",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260520/1133757138783440896348506.jpeg/X6jpq4gsPB9n3FSc_8NitH7j8N6uZy908bn5tfG5-bU",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60351757/%E6%9C%89%E7%89%87-%E4%B9%9D%E9%BE%8D%E7%81%A3%E8%87%A8%E8%88%88%E8%A1%97%E5%8D%88%E8%86%B3%E6%99%82%E9%96%93%E9%A4%90%E5%BB%B3%E7%81%AB%E8%AD%A6-%E6%8A%BD%E6%B2%B9%E7%85%99%E6%A7%BD%E5%99%B4%E6%BF%83%E7%85%99-%E7%B1%A0%E7%BD%A9%E8%A1%97%E9%A0%AD",
+    "timestamp": "2026-05-20T05:33:34.208Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "補習老師要7歲男童口交　稱幼時亦曾被性侵　認控制他人有快感",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260519/1133429371021824000809317.jpeg/0FEzI_C8xdhN8rwwpoTmCDVQxu-egCAetccxrbXHMa0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60351412/%E9%9B%BB%E5%BD%B1%E9%A6%AC%E6%8B%89%E6%9D%BE-%E5%9C%93%E6%BB%BF%E8%90%BD%E5%B9%95-%E9%98%AE%E7%8E%B2%E7%8E%89-%E5%B0%8E%E6%BC%94%E9%97%9C%E9%8C%A6%E9%B5%AC%E5%86%8D%E8%AB%87%E9%9B%BB%E5%BD%B1%E7%88%AD%E8%AD%B0",
     "timestamp": "2026-05-19T10:54:35.497Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "韓國Starbucks光州紀念日用「坦克日」宣傳　CEO被炒　李在明狠批",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260519/1133414860059578368062453.jpeg/OAEMip_CaXmnWg-TehRaCTWynnej43g1HfLn4x3y5-M?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60351391/%E9%9F%93%E5%9C%8Bstarbucks%E5%85%89%E5%B7%9E%E7%B4%80%E5%BF%B5%E6%97%A5%E7%94%A8-%E5%9D%A6%E5%85%8B%E6%97%A5-%E5%AE%A3%E5%82%B3-ceo%E8%A2%AB%E7%82%92-%E6%9D%8E%E5%9C%A8%E6%98%8E%E7%8B%A0%E6%89%B9",
-    "timestamp": "2026-05-19T06:57:05.377Z",
     "strategy": ".content-card__main"
   }
 ];
