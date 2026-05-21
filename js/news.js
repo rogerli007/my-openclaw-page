@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-21T20:32:53.630Z
+// Last updated: 2026-05-21T21:10:25.306Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "法航與空中巴士因09年空難被裁定企業過失殺人罪　各罰22.5萬歐元",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260522/1134353259184525312094673.jpeg/skcGYGbYRBKtlq7RJoXbt345I2vcvvob2oGw39qBsN8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60352436/%E6%B3%95%E8%88%AA%E8%88%87%E7%A9%BA%E4%B8%AD%E5%B7%B4%E5%A3%AB%E5%9B%A009%E5%B9%B4%E7%A9%BA%E9%9B%A3%E8%A2%AB%E8%A3%81%E5%AE%9A%E4%BC%81%E6%A5%AD%E9%81%8E%E5%A4%B1%E6%AE%BA%E4%BA%BA%E7%BD%AA-%E5%90%84%E7%BD%B022-5%E8%90%AC%E6%AD%90%E5%85%83",
+    "timestamp": "2026-05-21T21:10:25.306Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "文苑樓奪命火｜消防事後檢查裝置　證實警鐘鳴響　起火原因無可疑",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260521/1133943045046145024721905.jpeg/AmNr-P4fnjfZ69ocYTIn37I3MY8Y1F65PgoGzRsKBs0",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60351991/%E9%BB%83%E9%9B%A8-%E9%BE%8D%E8%BA%8D%E9%A0%AD%E7%92%B0%E5%BD%A2%E8%A1%8C%E4%BA%BA%E5%A4%A9%E6%A9%8B%E5%95%9F%E7%94%A8%E5%83%851%E5%80%8B%E6%9C%88-%E4%B8%8A%E8%93%8B%E5%8E%BB%E6%B0%B4%E5%96%89%E7%94%A9%E8%84%AB%E6%9A%B4%E9%9B%A8%E7%80%89%E6%A9%8B%E9%9D%A2",
     "timestamp": "2026-05-20T17:50:27.141Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "自民黨提安保三文件修改建議　日媒：倡設定日本軍費新目標",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/2146878/org/c5b4ad0f776eb7e7dcb5ce3a6770fcf8.jpg/JjkeeeQwsCvxEVdZ-PtHtVB0ZDd5pRzRCY-iEAmPohA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60351928/%E8%87%AA%E6%B0%91%E9%BB%A8%E6%8F%90%E5%AE%89%E4%BF%9D%E4%B8%89%E6%96%87%E4%BB%B6%E4%BF%AE%E6%94%B9%E5%BB%BA%E8%AD%B0-%E6%97%A5%E5%AA%92-%E5%80%A1%E8%A8%AD%E5%AE%9A%E6%97%A5%E6%9C%AC%E8%BB%8D%E8%B2%BB%E6%96%B0%E7%9B%AE%E6%A8%99",
-    "timestamp": "2026-05-20T14:13:01.462Z",
     "strategy": ".content-card__main"
   }
 ];
