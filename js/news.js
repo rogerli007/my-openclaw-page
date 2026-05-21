@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-21T13:41:45.644Z
+// Last updated: 2026-05-21T14:47:49.640Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美媒：美國着手擬定對古巴軍事行動方案　情報部門正推演相關後果",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20240529/872295444397428736610245.jpeg/0iEpUj9VtuAa59SPZq9I3Nu62P69rLmWIJp3NyCadzc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60352404/%E7%BE%8E%E5%AA%92-%E7%BE%8E%E5%9C%8B%E7%9D%80%E6%89%8B%E6%93%AC%E5%AE%9A%E5%B0%8D%E5%8F%A4%E5%B7%B4%E8%BB%8D%E4%BA%8B%E8%A1%8C%E5%8B%95%E6%96%B9%E6%A1%88-%E6%83%85%E5%A0%B1%E9%83%A8%E9%96%80%E6%AD%A3%E6%8E%A8%E6%BC%94%E7%9B%B8%E9%97%9C%E5%BE%8C%E6%9E%9C",
+    "timestamp": "2026-05-21T14:47:49.640Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "英偉達跌逾1%　營收展望未驚艷市場　新增回購800億美元",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260520/1133788034077036544093816.jpeg/XsloACPZyblT9d48va1Q1F-gKM0BF8iNG_qUyhv6lMo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60351797/%E6%B8%A0%E8%93%8B%E9%81%AD%E8%B2%A8%E8%BB%8A%E6%92%9E%E7%A7%BB-%E7%B4%90%E7%B4%8456%E6%AD%B2%E5%A9%A6%E4%B8%8D%E6%85%8E%E5%A2%AE%E5%9D%91%E6%B8%A0%E6%85%98%E6%AD%BB-%E5%AE%B6%E5%B1%AC%E7%97%9B%E8%A8%B4%E7%8F%BE%E5%A0%B4%E7%84%A1%E8%AD%A6%E7%A4%BA",
     "timestamp": "2026-05-20T08:18:57.837Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "禁另類煙｜日本抵港男子行李藏1.42萬支另類煙產品　即時監禁6周",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260430/1126506726321819648183560.jpeg/BXGsxt8H1l0IPfHfCQL5Y7gmq_X1rGDvJ_7UjAL-1Iw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60351798/%E7%A6%81%E5%8F%A6%E9%A1%9E%E7%85%99-%E6%97%A5%E6%9C%AC%E6%8A%B5%E6%B8%AF%E7%94%B7%E5%AD%90%E8%A1%8C%E6%9D%8E%E8%97%8F1-42%E8%90%AC%E6%94%AF%E5%8F%A6%E9%A1%9E%E7%85%99%E7%94%A2%E5%93%81-%E5%8D%B3%E6%99%82%E7%9B%A3%E7%A6%816%E5%91%A8",
-    "timestamp": "2026-05-20T06:57:16.263Z",
     "strategy": ".content-card__main"
   }
 ];
