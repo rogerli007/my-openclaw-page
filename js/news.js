@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-21T02:29:47.373Z
+// Last updated: 2026-05-21T03:53:55.833Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "男警涉荔景站偷拍　為慳錢無請律師但擬不認罪　官稱難排期再押後",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260521/1134096309410598912238156.jpeg/9dbEgwkJfa2TsM0bvzWndHOi1bncBK7Dym7hve9u4b0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60352116/%E7%94%B7%E8%AD%A6%E6%B6%89%E8%8D%94%E6%99%AF%E7%AB%99%E5%81%B7%E6%8B%8D-%E7%82%BA%E6%85%B3%E9%8C%A2%E7%84%A1%E8%AB%8B%E5%BE%8B%E5%B8%AB%E4%BD%86%E6%93%AC%E4%B8%8D%E8%AA%8D%E7%BD%AA-%E5%AE%98%E7%A8%B1%E9%9B%A3%E6%8E%92%E6%9C%9F%E5%86%8D%E6%8A%BC%E5%BE%8C",
+    "timestamp": "2026-05-21T03:53:55.833Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "居屋、綠置居及白居二2025收10.5萬申請　居屋收9.9萬超額約13倍",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260505/1128151780694298624093672.jpeg/PWLZUJF47AzESxlL7N-HHfyoelTnacrzNfomADX6JgA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60351606/%E5%BD%AD%E5%8D%9A-%E5%80%98%E9%9C%8D%E7%88%BE%E6%9C%A8%E8%8C%B2%E6%B5%B7%E5%B3%BD7%E6%9C%88%E4%BB%8D%E6%9C%AA%E9%87%8D%E9%96%8B-%E5%8C%97%E7%B4%84%E8%80%83%E6%85%AE%E5%95%9F%E5%8B%95%E8%AD%B7%E8%88%AA%E8%A1%8C%E5%8B%95",
     "timestamp": "2026-05-19T23:45:28.200Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "管浩鳴心痛宏福火揭部門千瘡百孔　憑良心料有官員問責｜政・直說",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260518/1133066245227155456632754.jpeg/oFEivU2iiJeygAGea1WYyi_uwE3UWMq3-4EaP_uBGj8",
-    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60349993/%E7%AE%A1%E6%B5%A9%E9%B3%B4%E5%BF%83%E7%97%9B%E5%AE%8F%E7%A6%8F%E7%81%AB%E6%8F%AD%E9%83%A8%E9%96%80%E5%8D%83%E7%98%A1%E7%99%BE%E5%AD%94-%E6%86%91%E8%89%AF%E5%BF%83%E6%96%99%E6%9C%89%E5%AE%98%E5%93%A1%E5%95%8F%E8%B2%AC-%E6%94%BF-%E7%9B%B4%E8%AA%AA",
-    "timestamp": "2026-05-19T23:14:26.770Z",
     "strategy": ".content-card__main"
   }
 ];
