@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-21T01:24:27.852Z
+// Last updated: 2026-05-21T02:29:47.373Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "居屋、綠置居及白居二2025收10.5萬申請　居屋收9.9萬超額約13倍",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260520/1133869480447971328587246.jpeg/e3IdbtLog6BkN662vaxB4FoAqeL9LfcA2osFENqLBRA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60352049/%E5%B1%85%E5%B1%8B-%E7%B6%A0%E7%BD%AE%E5%B1%85%E5%8F%8A%E7%99%BD%E5%B1%85%E4%BA%8C2025%E6%94%B610-5%E8%90%AC%E7%94%B3%E8%AB%8B-%E5%B1%85%E5%B1%8B%E6%94%B69-9%E8%90%AC%E8%B6%85%E9%A1%8D%E7%B4%8413%E5%80%8D",
+    "timestamp": "2026-05-21T02:29:47.373Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "日本現「神秘感冒」？新冠流感均陰性　福岡個案急增有人全家中招",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260518/1133066245227155456632754.jpeg/oFEivU2iiJeygAGea1WYyi_uwE3UWMq3-4EaP_uBGj8",
     "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60349993/%E7%AE%A1%E6%B5%A9%E9%B3%B4%E5%BF%83%E7%97%9B%E5%AE%8F%E7%A6%8F%E7%81%AB%E6%8F%AD%E9%83%A8%E9%96%80%E5%8D%83%E7%98%A1%E7%99%BE%E5%AD%94-%E6%86%91%E8%89%AF%E5%BF%83%E6%96%99%E6%9C%89%E5%AE%98%E5%93%A1%E5%95%8F%E8%B2%AC-%E6%94%BF-%E7%9B%B4%E8%AA%AA",
     "timestamp": "2026-05-19T23:14:26.770Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "前TVB花旦舊照出土戴黑超夾Walkman極in　曾戀大馬富商未婚生子",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260519/1133499658010628096394126.jpeg/lPOxfvbbtwAkSnhtdME8GiWKrCWjlmrU1UiO8dVIjvE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60351446/%E9%99%B3%E7%A7%80%E7%8F%A0%E8%88%8A%E7%85%A7%E5%87%BA%E5%9C%9F%E6%88%B4%E9%BB%91%E8%B6%85%E5%A4%BEwalkman%E6%A5%B5in-%E6%9B%BE%E6%88%80%E5%A4%A7%E9%A6%AC%E5%AF%8C%E5%95%86%E6%9C%AA%E5%A9%9A%E7%94%9F%E5%AD%90",
-    "timestamp": "2026-05-19T22:37:26.966Z",
     "strategy": ".content-card__main"
   }
 ];
