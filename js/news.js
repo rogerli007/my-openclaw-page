@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-21T03:53:55.833Z
+// Last updated: 2026-05-21T05:36:45.325Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "俄羅斯副總理慨嘆中俄差距：中國有無人機我們只有蜂蜜與螃蟹",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260521/1134072027498418176315762.jpeg/gQqxod6M6cQR05i7ePMozH9b6fYLvaf0OK9yhjivcoY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60352149/%E4%BF%84%E7%BE%85%E6%96%AF%E5%89%AF%E7%B8%BD%E7%90%86%E6%85%A8%E5%98%86%E4%B8%AD%E4%BF%84%E5%B7%AE%E8%B7%9D-%E4%B8%AD%E5%9C%8B%E6%9C%89%E7%84%A1%E4%BA%BA%E6%A9%9F%E6%88%91%E5%80%91%E5%8F%AA%E6%9C%89%E8%9C%82%E8%9C%9C%E8%88%87%E8%9E%83%E8%9F%B9",
+    "timestamp": "2026-05-21T05:36:45.325Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "男警涉荔景站偷拍　為慳錢無請律師但擬不認罪　官稱難排期再押後",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260519/1133374047791353856980625.jpeg/p624N3RpMolhSaJuP30JXkTckqjpYJIWX9SROl_UkTo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60351299/%E6%B7%B1%E4%BA%95%E6%B5%B7%E9%9F%BB%E8%8A%B1%E5%9C%92%E4%B8%89%E6%88%BF608%E8%90%AC%E8%9D%95%E6%B2%BD-%E9%80%BE4%E5%B9%B4%E5%B8%B3%E9%9D%A2%E8%BC%95%E5%BE%AE%E8%B2%B6%E5%80%BC15-8%E8%90%AC-%E5%A4%9A%E5%9C%96",
     "timestamp": "2026-05-20T00:15:29.546Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "彭博：倘霍爾木茲海峽7月仍未重開　北約考慮啟動護航行動",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260505/1128151780694298624093672.jpeg/PWLZUJF47AzESxlL7N-HHfyoelTnacrzNfomADX6JgA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60351606/%E5%BD%AD%E5%8D%9A-%E5%80%98%E9%9C%8D%E7%88%BE%E6%9C%A8%E8%8C%B2%E6%B5%B7%E5%B3%BD7%E6%9C%88%E4%BB%8D%E6%9C%AA%E9%87%8D%E9%96%8B-%E5%8C%97%E7%B4%84%E8%80%83%E6%85%AE%E5%95%9F%E5%8B%95%E8%AD%B7%E8%88%AA%E8%A1%8C%E5%8B%95",
-    "timestamp": "2026-05-19T23:45:28.200Z",
     "strategy": ".content-card__main"
   }
 ];
