@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-21T19:42:28.744Z
+// Last updated: 2026-05-21T20:32:53.630Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "文苑樓奪命火｜消防事後檢查裝置　證實警鐘鳴響　起火原因無可疑",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260522/1134342089589395456561247.jpeg/MQZ4bLXnaCalQKzJdaijoErsIQ7KHRg-i_wz5bH8M-U",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60352435/%E6%96%87%E8%8B%91%E6%A8%93%E5%A5%AA%E5%91%BD%E7%81%AB-%E6%B6%88%E9%98%B2%E4%BA%8B%E5%BE%8C%E6%AA%A2%E6%9F%A5%E8%A3%9D%E7%BD%AE-%E8%AD%89%E5%AF%A6%E8%AD%A6%E9%90%98%E9%B3%B4%E9%9F%BF-%E8%B5%B7%E7%81%AB%E5%8E%9F%E5%9B%A0%E7%84%A1%E5%8F%AF%E7%96%91",
+    "timestamp": "2026-05-21T20:32:53.630Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "古巴外長：魯比奧正挑起軍事侵略　錯貼古巴「支持恐怖主義」標籤",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/2146878/org/c5b4ad0f776eb7e7dcb5ce3a6770fcf8.jpg/JjkeeeQwsCvxEVdZ-PtHtVB0ZDd5pRzRCY-iEAmPohA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60351928/%E8%87%AA%E6%B0%91%E9%BB%A8%E6%8F%90%E5%AE%89%E4%BF%9D%E4%B8%89%E6%96%87%E4%BB%B6%E4%BF%AE%E6%94%B9%E5%BB%BA%E8%AD%B0-%E6%97%A5%E5%AA%92-%E5%80%A1%E8%A8%AD%E5%AE%9A%E6%97%A5%E6%9C%AC%E8%BB%8D%E8%B2%BB%E6%96%B0%E7%9B%AE%E6%A8%99",
     "timestamp": "2026-05-20T14:13:01.462Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "歐洲戰略調整：據報擬推高級特使與俄談判　人選包括德拉吉默克爾",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20251007/1052302436665921536094376.jpeg/P89lle9kh1UACq-EoI62_qOkWapOESLLnvCHbJ7wh2w?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60351908/%E6%AD%90%E6%B4%B2%E6%88%B0%E7%95%A5%E8%AA%BF%E6%95%B4-%E6%93%9A%E5%A0%B1%E6%93%AC%E6%8E%A8%E9%AB%98%E7%B4%9A%E7%89%B9%E4%BD%BF%E8%88%87%E4%BF%84%E8%AB%87%E5%88%A4-%E4%BA%BA%E9%81%B8%E5%8C%85%E6%8B%AC%E5%BE%B7%E6%8B%89%E5%90%89%E9%BB%98%E5%85%8B%E7%88%BE",
-    "timestamp": "2026-05-20T13:09:09.068Z",
     "strategy": ".content-card__main"
   }
 ];
