@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-21T18:00:57.207Z
+// Last updated: 2026-05-21T18:53:30.261Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "巴基斯坦總理就中巴建交75周年發表書面致辭　讚賞兩國多領域合作",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260420/1122832939139207168405796.jpeg/Ryc9HRQBqmSAnpCgt3VOGYcH1MulhK4a46n9feOp_X0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60352430/%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E7%B8%BD%E7%90%86%E5%B0%B1%E4%B8%AD%E5%B7%B4%E5%BB%BA%E4%BA%A475%E5%91%A8%E5%B9%B4%E7%99%BC%E8%A1%A8%E6%9B%B8%E9%9D%A2%E8%87%B4%E8%BE%AD-%E8%AE%9A%E8%B3%9E%E5%85%A9%E5%9C%8B%E5%A4%9A%E9%A0%98%E5%9F%9F%E5%90%88%E4%BD%9C",
+    "timestamp": "2026-05-21T18:53:30.261Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "特朗普推遲簽署一項AI行政命令　稱訪華期間曾討論AI安全保障措施",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260514/1131538141908307968893456.jpeg/j0JIU-FGlc4PBsaTgDvOLA3QIUJeWcCql0oLjZdKC40?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%A6%AA%E5%AD%90/60349300/%E7%91%AA%E8%92%82%E7%88%BE%E9%81%94matilda%E9%9F%B3%E6%A8%82%E5%8A%87%E6%B7%B1%E5%9C%B3%E5%A0%B4-%E9%96%80%E7%A5%A885%E6%8A%98-%E5%AE%B6%E9%95%B7%E5%A4%A7%E8%AE%9A%E5%8F%8D%E6%80%9D%E8%82%B2%E5%85%92%E5%88%9D%E8%A1%B7",
     "timestamp": "2026-05-20T11:50:13.470Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "佛誕深圳好去處15推介！5A級度假區+大鵬灣最美海岸+2大主題樂園",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260520/1133839861745192960518360.jpeg/aL1aDOdTRx3DZcod3_GYG22g5v_qqpusFAFTHxQBUx8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%97%85%E9%81%8A/60351739/%E4%BD%9B%E8%AA%95%E6%B7%B1%E5%9C%B3%E5%A5%BD%E5%8E%BB%E8%99%9515%E6%8E%A8%E4%BB%8B-5a%E7%B4%9A%E5%BA%A6%E5%81%87%E5%8D%80-%E5%A4%A7%E9%B5%AC%E7%81%A3%E6%9C%80%E7%BE%8E%E6%B5%B7%E5%B2%B8-2%E5%A4%A7%E4%B8%BB%E9%A1%8C%E6%A8%82%E5%9C%92",
-    "timestamp": "2026-05-20T10:47:22.942Z",
     "strategy": ".content-card__main"
   }
 ];
