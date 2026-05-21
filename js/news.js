@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-21T18:53:30.261Z
+// Last updated: 2026-05-21T19:42:28.744Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "古巴外長：魯比奧正挑起軍事侵略　錯貼古巴「支持恐怖主義」標籤",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260522/1134327538617683968146230.jpeg/uPBS13oViHqeRCjNlAe31w0You9TWo-PdNS24nTUtuI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60352433/%E5%8F%A4%E5%B7%B4%E5%A4%96%E9%95%B7-%E9%AD%AF%E6%AF%94%E5%A5%A7%E6%AD%A3%E6%8C%91%E8%B5%B7%E8%BB%8D%E4%BA%8B%E4%BE%B5%E7%95%A5-%E9%8C%AF%E8%B2%BC%E5%8F%A4%E5%B7%B4-%E6%94%AF%E6%8C%81%E6%81%90%E6%80%96%E4%B8%BB%E7%BE%A9-%E6%A8%99%E7%B1%A4",
+    "timestamp": "2026-05-21T19:42:28.744Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "巴基斯坦總理就中巴建交75周年發表書面致辭　讚賞兩國多領域合作",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20251007/1052302436665921536094376.jpeg/P89lle9kh1UACq-EoI62_qOkWapOESLLnvCHbJ7wh2w?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60351908/%E6%AD%90%E6%B4%B2%E6%88%B0%E7%95%A5%E8%AA%BF%E6%95%B4-%E6%93%9A%E5%A0%B1%E6%93%AC%E6%8E%A8%E9%AB%98%E7%B4%9A%E7%89%B9%E4%BD%BF%E8%88%87%E4%BF%84%E8%AB%87%E5%88%A4-%E4%BA%BA%E9%81%B8%E5%8C%85%E6%8B%AC%E5%BE%B7%E6%8B%89%E5%90%89%E9%BB%98%E5%85%8B%E7%88%BE",
     "timestamp": "2026-05-20T13:09:09.068Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "瑪蒂爾達Matilda音樂劇深圳場｜門票85折+家長大讚反思育兒初衷",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260514/1131538141908307968893456.jpeg/j0JIU-FGlc4PBsaTgDvOLA3QIUJeWcCql0oLjZdKC40?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%A6%AA%E5%AD%90/60349300/%E7%91%AA%E8%92%82%E7%88%BE%E9%81%94matilda%E9%9F%B3%E6%A8%82%E5%8A%87%E6%B7%B1%E5%9C%B3%E5%A0%B4-%E9%96%80%E7%A5%A885%E6%8A%98-%E5%AE%B6%E9%95%B7%E5%A4%A7%E8%AE%9A%E5%8F%8D%E6%80%9D%E8%82%B2%E5%85%92%E5%88%9D%E8%A1%B7",
-    "timestamp": "2026-05-20T11:50:13.470Z",
     "strategy": ".content-card__main"
   }
 ];
