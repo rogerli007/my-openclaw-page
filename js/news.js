@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-20T23:40:26.501Z
+// Last updated: 2026-05-21T01:24:27.852Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "日本現「神秘感冒」？新冠流感均陰性　福岡個案急增有人全家中招",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260520/1133856559131004928543712.png/MzpV-5tueQ2t64GJnRT7Jq293XA6AcPvCesj1wnrI9c?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60351773/%E6%97%A5%E6%9C%AC%E7%8F%BE-%E7%A5%9E%E7%A7%98%E6%84%9F%E5%86%92-%E6%96%B0%E5%86%A0%E6%B5%81%E6%84%9F%E5%9D%87%E9%99%B0%E6%80%A7-%E7%A6%8F%E5%B2%A1%E5%80%8B%E6%A1%88%E6%80%A5%E5%A2%9E%E6%9C%89%E4%BA%BA%E5%85%A8%E5%AE%B6%E4%B8%AD%E6%8B%9B",
+    "timestamp": "2026-05-21T01:24:27.852Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "韓媒：習近平或最快下周訪問朝鮮　韓總統府關注",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260519/1133499658010628096394126.jpeg/lPOxfvbbtwAkSnhtdME8GiWKrCWjlmrU1UiO8dVIjvE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60351446/%E9%99%B3%E7%A7%80%E7%8F%A0%E8%88%8A%E7%85%A7%E5%87%BA%E5%9C%9F%E6%88%B4%E9%BB%91%E8%B6%85%E5%A4%BEwalkman%E6%A5%B5in-%E6%9B%BE%E6%88%80%E5%A4%A7%E9%A6%AC%E5%AF%8C%E5%95%86%E6%9C%AA%E5%A9%9A%E7%94%9F%E5%AD%90",
     "timestamp": "2026-05-19T22:37:26.966Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "英超｜熱刺作客1：2車路士　未擺脫降班危機",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260520/1133615155301584896926184.jpeg/waMrWDbhd2kyWMPFevXLI18e5zd8QdlM9ePyivXj8oo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60351610/%E8%8B%B1%E8%B6%85-%E7%86%B1%E5%88%BA%E4%BD%9C%E5%AE%A21-2%E8%BB%8A%E8%B7%AF%E5%A3%AB-%E6%9C%AA%E6%93%BA%E8%84%AB%E9%99%8D%E7%8F%AD%E5%8D%B1%E6%A9%9F",
-    "timestamp": "2026-05-19T21:51:44.706Z",
     "strategy": ".content-card__main"
   }
 ];
