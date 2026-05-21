@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-21T21:56:31.193Z
+// Last updated: 2026-05-21T23:13:59.534Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "影后自爆獲獎後變囂常對導演發脾氣　若非前輩點醒已變大牌討厭",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260521/1134275187282284544512480.jpeg/kfUOkrOgVZ5RTgyJj8WuJaBm2uVAYVpWqVQT7KlUE-w?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60352381/%E8%88%92%E6%B7%87%E8%87%AA%E7%88%86%E7%8D%B2%E7%8D%8E%E5%BE%8C%E8%AE%8A%E5%9B%82%E5%B8%B8%E5%B0%8D%E5%B0%8E%E6%BC%94%E7%99%BC%E8%84%BE%E6%B0%A3-%E8%8B%A5%E9%9D%9E%E5%89%8D%E8%BC%A9%E9%BB%9E%E9%86%92%E5%B7%B2%E8%AE%8A%E5%A4%A7%E7%89%8C%E8%A8%8E%E5%8E%AD",
+    "timestamp": "2026-05-21T23:13:59.534Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "特朗普宣布向波蘭增派5000駐兵　稱基於與波蘭總統交情",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260520/1133899159825289216217364.jpeg/Lx0caiLWA_XP3xuyUef_y4UEgM7TqN0smp5MWpqeTFo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60351889/%E6%98%9F%E4%BA%8C%E4%BB%A3%E7%96%91%E9%80%B2%E6%94%BB%E5%B9%95%E5%89%8D%E9%96%8B%E6%8A%96%E9%9F%B3%E8%BF%91%E6%B3%81%E7%BD%95%E6%9B%9D%E5%85%89-%E6%9B%AC%E5%87%BA%E5%85%A8%E5%AE%B6%E7%A6%8F%E6%9C%AA%E5%9B%A0%E5%B9%B4%E4%B8%8A%E5%A5%B3%E5%8F%8B%E4%B8%8D%E5%92%8C",
     "timestamp": "2026-05-20T23:02:38.966Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "歐霸｜阿士東維拉3：0擊敗弗賴堡　奪44年來首個歐洲賽錦標",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260521/1133986704990932992781952.jpeg/_CNPeHv6Xs2PE5HsheebJhy2OURqK_ayu2OEQrtjhEI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60352006/%E6%AD%90%E9%9C%B8-%E9%98%BF%E5%A3%AB%E6%9D%B1%E7%B6%AD%E6%8B%893-0%E6%93%8A%E6%95%97%E5%BC%97%E8%B3%B4%E5%A0%A1-%E5%A5%AA44%E5%B9%B4%E4%BE%86%E9%A6%96%E5%80%8B%E6%AD%90%E6%B4%B2%E8%B3%BD%E9%8C%A6%E6%A8%99",
-    "timestamp": "2026-05-20T21:43:25.483Z",
     "strategy": ".content-card__main"
   }
 ];
