@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-21T21:10:25.306Z
+// Last updated: 2026-05-21T21:56:31.193Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "特朗普宣布向波蘭增派5000駐兵　稱基於與波蘭總統交情",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250904/1040331902084452352529306.jpeg/JTCnPg5H74ZJJLCCYZnQj5k88o-I0demeHH-93hx_vc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60352437/%E7%89%B9%E6%9C%97%E6%99%AE%E5%AE%A3%E5%B8%83%E5%90%91%E6%B3%A2%E8%98%AD%E5%A2%9E%E6%B4%BE5000%E9%A7%90%E5%85%B5-%E7%A8%B1%E5%9F%BA%E6%96%BC%E8%88%87%E6%B3%A2%E8%98%AD%E7%B8%BD%E7%B5%B1%E4%BA%A4%E6%83%85",
+    "timestamp": "2026-05-21T21:56:31.193Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "法航與空中巴士因09年空難被裁定企業過失殺人罪　各罰22.5萬歐元",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260521/1133986704990932992781952.jpeg/_CNPeHv6Xs2PE5HsheebJhy2OURqK_ayu2OEQrtjhEI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60352006/%E6%AD%90%E9%9C%B8-%E9%98%BF%E5%A3%AB%E6%9D%B1%E7%B6%AD%E6%8B%893-0%E6%93%8A%E6%95%97%E5%BC%97%E8%B3%B4%E5%A0%A1-%E5%A5%AA44%E5%B9%B4%E4%BE%86%E9%A6%96%E5%80%8B%E6%AD%90%E6%B4%B2%E8%B3%BD%E9%8C%A6%E6%A8%99",
     "timestamp": "2026-05-20T21:43:25.483Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "黃雨│龍躍頭環形行人天橋啟用僅1個月　上蓋去水喉甩脫暴雨瀉橋面",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260521/1133943045046145024721905.jpeg/AmNr-P4fnjfZ69ocYTIn37I3MY8Y1F65PgoGzRsKBs0",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60351991/%E9%BB%83%E9%9B%A8-%E9%BE%8D%E8%BA%8D%E9%A0%AD%E7%92%B0%E5%BD%A2%E8%A1%8C%E4%BA%BA%E5%A4%A9%E6%A9%8B%E5%95%9F%E7%94%A8%E5%83%851%E5%80%8B%E6%9C%88-%E4%B8%8A%E8%93%8B%E5%8E%BB%E6%B0%B4%E5%96%89%E7%94%A9%E8%84%AB%E6%9A%B4%E9%9B%A8%E7%80%89%E6%A9%8B%E9%9D%A2",
-    "timestamp": "2026-05-20T17:50:27.141Z",
     "strategy": ".content-card__main"
   }
 ];
