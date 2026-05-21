@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-21T23:13:59.534Z
+// Last updated: 2026-05-21T23:42:09.727Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "普京訪華之際　烏克蘭已靜悄悄扭轉戰局？｜Jack Talk．去片",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260521/1134151075155152896932470.jpeg/j7RN55vFoNYgZ6gKud2WBtrqGL6I9P7ViS8_eIkvP3g?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%9C%8B%E9%9A%9B%E5%88%86%E6%9E%90/60352142/%E6%99%AE%E4%BA%AC%E8%A8%AA%E8%8F%AF%E4%B9%8B%E9%9A%9B-%E7%83%8F%E5%85%8B%E8%98%AD%E5%B7%B2%E9%9D%9C%E6%82%84%E6%82%84%E6%89%AD%E8%BD%89%E6%88%B0%E5%B1%80-jack-talk-%E5%8E%BB%E7%89%87",
+    "timestamp": "2026-05-21T23:42:09.727Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "影后自爆獲獎後變囂常對導演發脾氣　若非前輩點醒已變大牌討厭",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250904/1040358649114923008893576.jpeg/VOjG_5ltOlbIu71gJpi8xrEvOwJCejPFDRhItQ0YSLU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60352012/%E9%9F%93%E5%AA%92-%E7%BF%92%E8%BF%91%E5%B9%B3%E6%88%96%E6%9C%80%E5%BF%AB%E4%B8%8B%E5%91%A8%E8%A8%AA%E5%95%8F%E6%9C%9D%E9%AE%AE-%E9%9F%93%E7%B8%BD%E7%B5%B1%E5%BA%9C%E9%97%9C%E6%B3%A8",
     "timestamp": "2026-05-20T23:40:26.501Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "星二代疑進攻幕前開抖音近況罕曝光　曬出全家福未因年上女友不和",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260520/1133899159825289216217364.jpeg/Lx0caiLWA_XP3xuyUef_y4UEgM7TqN0smp5MWpqeTFo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60351889/%E6%98%9F%E4%BA%8C%E4%BB%A3%E7%96%91%E9%80%B2%E6%94%BB%E5%B9%95%E5%89%8D%E9%96%8B%E6%8A%96%E9%9F%B3%E8%BF%91%E6%B3%81%E7%BD%95%E6%9B%9D%E5%85%89-%E6%9B%AC%E5%87%BA%E5%85%A8%E5%AE%B6%E7%A6%8F%E6%9C%AA%E5%9B%A0%E5%B9%B4%E4%B8%8A%E5%A5%B3%E5%8F%8B%E4%B8%8D%E5%92%8C",
-    "timestamp": "2026-05-20T23:02:38.966Z",
     "strategy": ".content-card__main"
   }
 ];
