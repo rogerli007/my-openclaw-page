@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-21T11:15:40.568Z
+// Last updated: 2026-05-21T12:29:55.386Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "Stop Killing Games痛擊服務型遊戲｜迫PS6重歸3A級單機作品路線?",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260521/1134154249513472000463057.jpeg/9ol5D4bSDk49ufSjoF9hXaA4D0TlF_7BKvCIHSrwiB0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%81%8A%E6%88%B2%E5%8B%95%E6%BC%AB/60352157/stop-killing-games%E7%97%9B%E6%93%8A%E6%9C%8D%E5%8B%99%E5%9E%8B%E9%81%8A%E6%88%B2-%E8%BF%ABps6%E9%87%8D%E6%AD%B83a%E7%B4%9A%E5%96%AE%E6%A9%9F%E4%BD%9C%E5%93%81%E8%B7%AF%E7%B7%9A",
+    "timestamp": "2026-05-21T12:29:55.386Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "電熱水壺清洗｜壺底水垢費電又難洗！專家教4步快速除垢免用力刷",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260520/1133757138783440896348506.jpeg/X6jpq4gsPB9n3FSc_8NitH7j8N6uZy908bn5tfG5-bU",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60351757/%E6%9C%89%E7%89%87-%E4%B9%9D%E9%BE%8D%E7%81%A3%E8%87%A8%E8%88%88%E8%A1%97%E5%8D%88%E8%86%B3%E6%99%82%E9%96%93%E9%A4%90%E5%BB%B3%E7%81%AB%E8%AD%A6-%E6%8A%BD%E6%B2%B9%E7%85%99%E6%A7%BD%E5%99%B4%E6%BF%83%E7%85%99-%E7%B1%A0%E7%BD%A9%E8%A1%97%E9%A0%AD",
     "timestamp": "2026-05-20T05:33:34.208Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "補習老師要7歲男童口交　稱幼時亦曾被性侵　認控制他人有快感",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260520/1133735560968409088251607.jpeg/FFSiXmlQl00jsyo4idCGpG_DwWozzV2MsnEQxbJxEMU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60351722/%E8%A3%9C%E7%BF%92%E8%80%81%E5%B8%AB%E8%A6%817%E6%AD%B2%E7%94%B7%E7%AB%A5%E5%8F%A3%E4%BA%A4-%E7%A8%B1%E5%B9%BC%E6%99%82%E4%BA%A6%E6%9B%BE%E8%A2%AB%E6%80%A7%E4%BE%B5-%E8%AA%8D%E6%8E%A7%E5%88%B6%E4%BB%96%E4%BA%BA%E6%9C%89%E5%BF%AB%E6%84%9F",
-    "timestamp": "2026-05-20T03:52:33.402Z",
     "strategy": ".content-card__main"
   }
 ];
