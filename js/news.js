@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-21T14:47:49.640Z
+// Last updated: 2026-05-21T16:04:49.358Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "九龍城寨之終章｜劇組打造80年代璀璨尖東　舊報攤霓虹燈重現眼前",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260521/1134247069456797696974631.jpeg/E_l7td5UAgYjAFBdNq5pERwFpE3HF3lf6KU1FeilNRU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60352314/%E4%B9%9D%E9%BE%8D%E5%9F%8E%E5%AF%A8%E4%B9%8B%E7%B5%82%E7%AB%A0-%E5%8A%87%E7%B5%84%E6%89%93%E9%80%A080%E5%B9%B4%E4%BB%A3%E7%92%80%E7%92%A8%E5%B0%96%E6%9D%B1-%E8%88%8A%E5%A0%B1%E6%94%A4%E9%9C%93%E8%99%B9%E7%87%88%E9%87%8D%E7%8F%BE%E7%9C%BC%E5%89%8D",
+    "timestamp": "2026-05-21T16:04:49.358Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美媒：美國着手擬定對古巴軍事行動方案　情報部門正推演相關後果",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260520/1133822317625872384146890.jpeg/3sBWyaYigVZk9aBLAW8bB1waTZQrHrE130e8fN9HvHw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%92%B0%E7%90%83%E8%B6%A3%E8%81%9E/60351905/%E6%90%AD%E5%9C%B0%E9%90%B5%E5%94%94%E4%BD%BF%E5%86%8D%E9%80%BC%E8%BB%8A-%E9%9F%93%E5%9C%8B%E9%A6%96%E7%88%BE%E6%8E%A8-%E8%AE%93%E5%BA%A7-app-%E5%8C%BF%E5%90%8D%E5%85%B1%E4%BA%AB%E8%90%BD%E8%BB%8A%E8%A8%8A%E6%81%AF",
     "timestamp": "2026-05-20T09:41:30.796Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "渠蓋遭貨車撞移　紐約56歲婦不慎墮坑渠慘死　家屬痛訴現場無警示",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260520/1133788034077036544093816.jpeg/XsloACPZyblT9d48va1Q1F-gKM0BF8iNG_qUyhv6lMo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60351797/%E6%B8%A0%E8%93%8B%E9%81%AD%E8%B2%A8%E8%BB%8A%E6%92%9E%E7%A7%BB-%E7%B4%90%E7%B4%8456%E6%AD%B2%E5%A9%A6%E4%B8%8D%E6%85%8E%E5%A2%AE%E5%9D%91%E6%B8%A0%E6%85%98%E6%AD%BB-%E5%AE%B6%E5%B1%AC%E7%97%9B%E8%A8%B4%E7%8F%BE%E5%A0%B4%E7%84%A1%E8%AD%A6%E7%A4%BA",
-    "timestamp": "2026-05-20T08:18:57.837Z",
     "strategy": ".content-card__main"
   }
 ];
