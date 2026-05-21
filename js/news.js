@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-21T05:36:45.325Z
+// Last updated: 2026-05-21T07:06:29.537Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "長柄手袋7款推薦　jennie示範Chanel新世代風格　LV復古兼具實用",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260430/1126540194858668032058619.png/a8p8y-avIJHKNfjABd84vnMC5d4QhlAqFj_L4hY_y-I?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A9%BF%E6%90%AD%E7%AD%86%E8%A8%98/60345172/%E9%95%B7%E6%9F%84%E6%89%8B%E8%A2%8B7%E6%AC%BE%E6%8E%A8%E8%96%A6-jennie%E7%A4%BA%E7%AF%84chanel%E6%96%B0%E4%B8%96%E4%BB%A3%E9%A2%A8%E6%A0%BC-lv%E5%BE%A9%E5%8F%A4%E5%85%BC%E5%85%B7%E5%AF%A6%E7%94%A8",
+    "timestamp": "2026-05-21T07:06:29.537Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "俄羅斯副總理慨嘆中俄差距：中國有無人機我們只有蜂蜜與螃蟹",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260516/1132437668764848128520147.png/wmdZM9ghHbe7i0dipQJPVVAXJc1Yv_9ZaLb1l2i29Zc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60350605/%E5%A5%B3%E7%97%85%E4%BA%BA%E4%B8%8B%E9%AB%94%E6%9C%89%E7%95%B0%E5%91%B3-%E8%A1%9B%E7%94%9F%E6%A3%89%E6%A2%9D%E7%95%99%E9%AB%94%E5%85%A730%E5%A4%A9%E7%99%BC%E9%BB%91-%E9%86%AB%E7%94%9F%E6%8F%90%E9%86%928%E5%B0%8F%E6%99%82%E5%BF%85%E6%8F%9B",
     "timestamp": "2026-05-20T01:24:18.325Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "深井海韻花園三房608萬蝕沽　逾4年帳面輕微貶值15.8萬｜多圖",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260519/1133374047791353856980625.jpeg/p624N3RpMolhSaJuP30JXkTckqjpYJIWX9SROl_UkTo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60351299/%E6%B7%B1%E4%BA%95%E6%B5%B7%E9%9F%BB%E8%8A%B1%E5%9C%92%E4%B8%89%E6%88%BF608%E8%90%AC%E8%9D%95%E6%B2%BD-%E9%80%BE4%E5%B9%B4%E5%B8%B3%E9%9D%A2%E8%BC%95%E5%BE%AE%E8%B2%B6%E5%80%BC15-8%E8%90%AC-%E5%A4%9A%E5%9C%96",
-    "timestamp": "2026-05-20T00:15:29.546Z",
     "strategy": ".content-card__main"
   }
 ];
