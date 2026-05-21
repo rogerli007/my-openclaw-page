@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-21T12:29:55.386Z
+// Last updated: 2026-05-21T13:41:45.644Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "英偉達跌逾1%　營收展望未驚艷市場　新增回購800億美元",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260514/1131602020432613376390478.jpeg/6r2Mq-TEdO7xYOCGa593oitvzFSF6mRgxD5YUMQ-WFA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60352086/%E8%8B%B1%E5%81%89%E9%81%94%E8%B7%8C%E9%80%BE1-%E7%87%9F%E6%94%B6%E5%B1%95%E6%9C%9B%E6%9C%AA%E9%A9%9A%E8%89%B7%E5%B8%82%E5%A0%B4-%E6%96%B0%E5%A2%9E%E5%9B%9E%E8%B3%BC800%E5%84%84%E7%BE%8E%E5%85%83",
+    "timestamp": "2026-05-21T13:41:45.644Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "Stop Killing Games痛擊服務型遊戲｜迫PS6重歸3A級單機作品路線?",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260430/1126506726321819648183560.jpeg/BXGsxt8H1l0IPfHfCQL5Y7gmq_X1rGDvJ_7UjAL-1Iw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60351798/%E7%A6%81%E5%8F%A6%E9%A1%9E%E7%85%99-%E6%97%A5%E6%9C%AC%E6%8A%B5%E6%B8%AF%E7%94%B7%E5%AD%90%E8%A1%8C%E6%9D%8E%E8%97%8F1-42%E8%90%AC%E6%94%AF%E5%8F%A6%E9%A1%9E%E7%85%99%E7%94%A2%E5%93%81-%E5%8D%B3%E6%99%82%E7%9B%A3%E7%A6%816%E5%91%A8",
     "timestamp": "2026-05-20T06:57:16.263Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "有片︱九龍灣臨興街午膳時間餐廳火警　抽油煙槽噴濃煙　籠罩街頭",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260520/1133757138783440896348506.jpeg/X6jpq4gsPB9n3FSc_8NitH7j8N6uZy908bn5tfG5-bU",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60351757/%E6%9C%89%E7%89%87-%E4%B9%9D%E9%BE%8D%E7%81%A3%E8%87%A8%E8%88%88%E8%A1%97%E5%8D%88%E8%86%B3%E6%99%82%E9%96%93%E9%A4%90%E5%BB%B3%E7%81%AB%E8%AD%A6-%E6%8A%BD%E6%B2%B9%E7%85%99%E6%A7%BD%E5%99%B4%E6%BF%83%E7%85%99-%E7%B1%A0%E7%BD%A9%E8%A1%97%E9%A0%AD",
-    "timestamp": "2026-05-20T05:33:34.208Z",
     "strategy": ".content-card__main"
   }
 ];
