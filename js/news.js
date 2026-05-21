@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-21T16:04:49.358Z
+// Last updated: 2026-05-21T18:00:57.207Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "特朗普推遲簽署一項AI行政命令　稱訪華期間曾討論AI安全保障措施",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260522/1134303280512372736164927.jpeg/gJy-Zd3hDquKqzFLxn5wP3w0CYYwvtLwcM-FPHDPhTw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60352425/%E7%89%B9%E6%9C%97%E6%99%AE%E6%8E%A8%E9%81%B2%E7%B0%BD%E7%BD%B2%E4%B8%80%E9%A0%85ai%E8%A1%8C%E6%94%BF%E5%91%BD%E4%BB%A4-%E7%A8%B1%E8%A8%AA%E8%8F%AF%E6%9C%9F%E9%96%93%E6%9B%BE%E8%A8%8E%E8%AB%96ai%E5%AE%89%E5%85%A8%E4%BF%9D%E9%9A%9C%E6%8E%AA%E6%96%BD",
+    "timestamp": "2026-05-21T18:00:57.207Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "九龍城寨之終章｜劇組打造80年代璀璨尖東　舊報攤霓虹燈重現眼前",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260520/1133839861745192960518360.jpeg/aL1aDOdTRx3DZcod3_GYG22g5v_qqpusFAFTHxQBUx8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%97%85%E9%81%8A/60351739/%E4%BD%9B%E8%AA%95%E6%B7%B1%E5%9C%B3%E5%A5%BD%E5%8E%BB%E8%99%9515%E6%8E%A8%E4%BB%8B-5a%E7%B4%9A%E5%BA%A6%E5%81%87%E5%8D%80-%E5%A4%A7%E9%B5%AC%E7%81%A3%E6%9C%80%E7%BE%8E%E6%B5%B7%E5%B2%B8-2%E5%A4%A7%E4%B8%BB%E9%A1%8C%E6%A8%82%E5%9C%92",
     "timestamp": "2026-05-20T10:47:22.942Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "搭地鐵唔使再逼車？　韓國首爾推「讓座」App　匿名共享落車訊息",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260520/1133822317625872384146890.jpeg/3sBWyaYigVZk9aBLAW8bB1waTZQrHrE130e8fN9HvHw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%92%B0%E7%90%83%E8%B6%A3%E8%81%9E/60351905/%E6%90%AD%E5%9C%B0%E9%90%B5%E5%94%94%E4%BD%BF%E5%86%8D%E9%80%BC%E8%BB%8A-%E9%9F%93%E5%9C%8B%E9%A6%96%E7%88%BE%E6%8E%A8-%E8%AE%93%E5%BA%A7-app-%E5%8C%BF%E5%90%8D%E5%85%B1%E4%BA%AB%E8%90%BD%E8%BB%8A%E8%A8%8A%E6%81%AF",
-    "timestamp": "2026-05-20T09:41:30.796Z",
     "strategy": ".content-card__main"
   }
 ];
