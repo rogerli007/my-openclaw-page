@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-21T09:56:30.541Z
+// Last updated: 2026-05-21T11:15:40.568Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "電熱水壺清洗｜壺底水垢費電又難洗！專家教4步快速除垢免用力刷",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260521/1134210035899961344820935.jpeg/ouIFRBHgi-bi_Q8w78S6fpqL7hakJ7GshaLHW4Wix1s?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60348926/%E9%9B%BB%E7%86%B1%E6%B0%B4%E5%A3%BA%E6%B8%85%E6%B4%97-%E5%A3%BA%E5%BA%95%E6%B0%B4%E5%9E%A2%E8%B2%BB%E9%9B%BB%E5%8F%88%E9%9B%A3%E6%B4%97-%E5%B0%88%E5%AE%B6%E6%95%994%E6%AD%A5%E5%BF%AB%E9%80%9F%E9%99%A4%E5%9E%A2%E5%85%8D%E7%94%A8%E5%8A%9B%E5%88%B7",
+    "timestamp": "2026-05-21T11:15:40.568Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "暴雨｜新界北多處變河揸車變開船　消防助推車脫困、警員淋雨指揮",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260520/1133735560968409088251607.jpeg/FFSiXmlQl00jsyo4idCGpG_DwWozzV2MsnEQxbJxEMU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60351722/%E8%A3%9C%E7%BF%92%E8%80%81%E5%B8%AB%E8%A6%817%E6%AD%B2%E7%94%B7%E7%AB%A5%E5%8F%A3%E4%BA%A4-%E7%A8%B1%E5%B9%BC%E6%99%82%E4%BA%A6%E6%9B%BE%E8%A2%AB%E6%80%A7%E4%BE%B5-%E8%AA%8D%E6%8E%A7%E5%88%B6%E4%BB%96%E4%BA%BA%E6%9C%89%E5%BF%AB%E6%84%9F",
     "timestamp": "2026-05-20T03:52:33.402Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "酒店禁忌｜千萬別赤腳沖涼　醫生警告隨時感染HPV　3類人易染病",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250711/1020350736736718848328456.jpeg/I6kPddgg27ydUO6mEYSELrS-C8-j_Xziz2HeTs9h3k4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%97%85%E9%81%8A/60255749/%E9%85%92%E5%BA%97%E7%A6%81%E5%BF%8C-%E5%8D%83%E8%90%AC%E5%88%A5%E8%B5%A4%E8%85%B3%E6%B2%96%E6%B6%BC-%E9%86%AB%E7%94%9F%E8%AD%A6%E5%91%8A%E9%9A%A8%E6%99%82%E6%84%9F%E6%9F%93hpv-3%E9%A1%9E%E4%BA%BA%E6%98%93%E6%9F%93%E7%97%85",
-    "timestamp": "2026-05-20T02:28:59.329Z",
     "strategy": ".content-card__main"
   }
 ];
