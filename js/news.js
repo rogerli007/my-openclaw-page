@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-21T07:06:29.537Z
+// Last updated: 2026-05-21T09:56:30.541Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "暴雨｜新界北多處變河揸車變開船　消防助推車脫困、警員淋雨指揮",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260521/1134173675084320768615384.png/Lj1jNPulcGunQxGK80Hltk-vryh53Ar4dgsrUXYLK1E?v=w1920",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60352271/%E6%9A%B4%E9%9B%A8-%E6%96%B0%E7%95%8C%E5%8C%97%E5%A4%9A%E8%99%95%E8%AE%8A%E6%B2%B3%E6%8F%B8%E8%BB%8A%E8%AE%8A%E9%96%8B%E8%88%B9-%E6%B6%88%E9%98%B2%E5%8A%A9%E6%8E%A8%E8%BB%8A%E8%84%AB%E5%9B%B0-%E8%AD%A6%E5%93%A1%E6%B7%8B%E9%9B%A8%E6%8C%87%E6%8F%AE",
+    "timestamp": "2026-05-21T09:56:30.541Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "長柄手袋7款推薦　jennie示範Chanel新世代風格　LV復古兼具實用",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250711/1020350736736718848328456.jpeg/I6kPddgg27ydUO6mEYSELrS-C8-j_Xziz2HeTs9h3k4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%97%85%E9%81%8A/60255749/%E9%85%92%E5%BA%97%E7%A6%81%E5%BF%8C-%E5%8D%83%E8%90%AC%E5%88%A5%E8%B5%A4%E8%85%B3%E6%B2%96%E6%B6%BC-%E9%86%AB%E7%94%9F%E8%AD%A6%E5%91%8A%E9%9A%A8%E6%99%82%E6%84%9F%E6%9F%93hpv-3%E9%A1%9E%E4%BA%BA%E6%98%93%E6%9F%93%E7%97%85",
     "timestamp": "2026-05-20T02:28:59.329Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "女病人下體有異味！衛生棉條留體內30天發黑　醫生提醒8小時必換",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260516/1132437668764848128520147.png/wmdZM9ghHbe7i0dipQJPVVAXJc1Yv_9ZaLb1l2i29Zc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60350605/%E5%A5%B3%E7%97%85%E4%BA%BA%E4%B8%8B%E9%AB%94%E6%9C%89%E7%95%B0%E5%91%B3-%E8%A1%9B%E7%94%9F%E6%A3%89%E6%A2%9D%E7%95%99%E9%AB%94%E5%85%A730%E5%A4%A9%E7%99%BC%E9%BB%91-%E9%86%AB%E7%94%9F%E6%8F%90%E9%86%928%E5%B0%8F%E6%99%82%E5%BF%85%E6%8F%9B",
-    "timestamp": "2026-05-20T01:24:18.325Z",
     "strategy": ".content-card__main"
   }
 ];
