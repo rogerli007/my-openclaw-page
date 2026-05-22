@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-21T23:42:09.727Z
+// Last updated: 2026-05-22T02:29:27.944Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "伊波拉病毒｜專家指依賴旅客主動申報非百分百可靠　倡主動監察",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260519/1133501255520620544148906.jpeg/LqwgeUpwALNRcjvez6MgQWfjdkfWVncUJOq4OCTquDg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60352452/%E4%BC%8A%E6%B3%A2%E6%8B%89%E7%97%85%E6%AF%92-%E5%B0%88%E5%AE%B6%E6%8C%87%E4%BE%9D%E8%B3%B4%E6%97%85%E5%AE%A2%E4%B8%BB%E5%8B%95%E7%94%B3%E5%A0%B1%E9%9D%9E%E7%99%BE%E5%88%86%E7%99%BE%E5%8F%AF%E9%9D%A0-%E5%80%A1%E4%B8%BB%E5%8B%95%E7%9B%A3%E5%AF%9F",
+    "timestamp": "2026-05-22T02:29:27.944Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "普京訪華之際　烏克蘭已靜悄悄扭轉戰局？｜Jack Talk．去片",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260520/1133856559131004928543712.png/MzpV-5tueQ2t64GJnRT7Jq293XA6AcPvCesj1wnrI9c?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60351773/%E6%97%A5%E6%9C%AC%E7%8F%BE-%E7%A5%9E%E7%A7%98%E6%84%9F%E5%86%92-%E6%96%B0%E5%86%A0%E6%B5%81%E6%84%9F%E5%9D%87%E9%99%B0%E6%80%A7-%E7%A6%8F%E5%B2%A1%E5%80%8B%E6%A1%88%E6%80%A5%E5%A2%9E%E6%9C%89%E4%BA%BA%E5%85%A8%E5%AE%B6%E4%B8%AD%E6%8B%9B",
     "timestamp": "2026-05-21T01:24:27.852Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "韓媒：習近平或最快下周訪問朝鮮　韓總統府關注",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250904/1040358649114923008893576.jpeg/VOjG_5ltOlbIu71gJpi8xrEvOwJCejPFDRhItQ0YSLU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60352012/%E9%9F%93%E5%AA%92-%E7%BF%92%E8%BF%91%E5%B9%B3%E6%88%96%E6%9C%80%E5%BF%AB%E4%B8%8B%E5%91%A8%E8%A8%AA%E5%95%8F%E6%9C%9D%E9%AE%AE-%E9%9F%93%E7%B8%BD%E7%B5%B1%E5%BA%9C%E9%97%9C%E6%B3%A8",
-    "timestamp": "2026-05-20T23:40:26.501Z",
     "strategy": ".content-card__main"
   }
 ];
