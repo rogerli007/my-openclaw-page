@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-22T17:29:07.044Z
+// Last updated: 2026-05-22T18:13:37.098Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "二號客運大樓啟用｜HK Express 6月10日4:00遷入　先進設施增運力",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260523/1134664902040883200815437.jpeg/fnorZTl1HVj6N4o4xuKD4FYtYj7Bp5IjoZ-uhKGfroQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60352797/%E4%BA%8C%E8%99%9F%E5%AE%A2%E9%81%8B%E5%A4%A7%E6%A8%93%E5%95%9F%E7%94%A8-hk-express-6%E6%9C%8810%E6%97%A54-00%E9%81%B7%E5%85%A5-%E5%85%88%E9%80%B2%E8%A8%AD%E6%96%BD%E5%A2%9E%E9%81%8B%E5%8A%9B",
+    "timestamp": "2026-05-22T18:13:37.098Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "歐盟翻炒產能過剩指控等舉動激怒中國　中歐經貿摩擦加劇",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260522/1134303280512372736164927.jpeg/gJy-Zd3hDquKqzFLxn5wP3w0CYYwvtLwcM-FPHDPhTw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60352425/%E7%89%B9%E6%9C%97%E6%99%AE%E6%8E%A8%E9%81%B2%E7%B0%BD%E7%BD%B2%E4%B8%80%E9%A0%85ai%E8%A1%8C%E6%94%BF%E5%91%BD%E4%BB%A4-%E7%A8%B1%E8%A8%AA%E8%8F%AF%E6%9C%9F%E9%96%93%E6%9B%BE%E8%A8%8E%E8%AB%96ai%E5%AE%89%E5%85%A8%E4%BF%9D%E9%9A%9C%E6%8E%AA%E6%96%BD",
     "timestamp": "2026-05-21T18:00:57.207Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "九龍城寨之終章｜劇組打造80年代璀璨尖東　舊報攤霓虹燈重現眼前",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260521/1134247069456797696974631.jpeg/E_l7td5UAgYjAFBdNq5pERwFpE3HF3lf6KU1FeilNRU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60352314/%E4%B9%9D%E9%BE%8D%E5%9F%8E%E5%AF%A8%E4%B9%8B%E7%B5%82%E7%AB%A0-%E5%8A%87%E7%B5%84%E6%89%93%E9%80%A080%E5%B9%B4%E4%BB%A3%E7%92%80%E7%92%A8%E5%B0%96%E6%9D%B1-%E8%88%8A%E5%A0%B1%E6%94%A4%E9%9C%93%E8%99%B9%E7%87%88%E9%87%8D%E7%8F%BE%E7%9C%BC%E5%89%8D",
-    "timestamp": "2026-05-21T16:04:49.358Z",
     "strategy": ".content-card__main"
   }
 ];
