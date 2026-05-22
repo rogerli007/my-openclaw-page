@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-22T14:46:17.901Z
+// Last updated: 2026-05-22T15:48:32.941Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "視后佘詩曼迎51歲生日人緣極好　周嘉洛陳山聰等7大男神現身護花",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260522/1134599560199409664078524.jpeg/_KIkdgqdAgs-7WI11p-C6EDPPF5gMHw0LL6MUSy-jFE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60352759/%E8%A6%96%E5%90%8E%E4%BD%98%E8%A9%A9%E6%9B%BC%E8%BF%8E51%E6%AD%B2%E7%94%9F%E6%97%A5%E4%BA%BA%E7%B7%A3%E6%A5%B5%E5%A5%BD-%E5%91%A8%E5%98%89%E6%B4%9B%E9%99%B3%E5%B1%B1%E8%81%B0%E7%AD%897%E5%A4%A7%E7%94%B7%E7%A5%9E%E7%8F%BE%E8%BA%AB%E8%AD%B7%E8%8A%B1",
+    "timestamp": "2026-05-22T15:48:32.941Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "澎湖海戰｜史上最震撼的怒海決戰　7月30日香港6大院商聯手發行",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260514/1131602020432613376390478.jpeg/6r2Mq-TEdO7xYOCGa593oitvzFSF6mRgxD5YUMQ-WFA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60352086/%E8%8B%B1%E5%81%89%E9%81%94%E8%B7%8C%E9%80%BE1-%E7%87%9F%E6%94%B6%E5%B1%95%E6%9C%9B%E6%9C%AA%E9%A9%9A%E8%89%B7%E5%B8%82%E5%A0%B4-%E6%96%B0%E5%A2%9E%E5%9B%9E%E8%B3%BC800%E5%84%84%E7%BE%8E%E5%85%83",
     "timestamp": "2026-05-21T13:41:45.644Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "Stop Killing Games痛擊服務型遊戲｜迫PS6重歸3A級單機作品路線?",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260521/1134154249513472000463057.jpeg/9ol5D4bSDk49ufSjoF9hXaA4D0TlF_7BKvCIHSrwiB0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%81%8A%E6%88%B2%E5%8B%95%E6%BC%AB/60352157/stop-killing-games%E7%97%9B%E6%93%8A%E6%9C%8D%E5%8B%99%E5%9E%8B%E9%81%8A%E6%88%B2-%E8%BF%ABps6%E9%87%8D%E6%AD%B83a%E7%B4%9A%E5%96%AE%E6%A9%9F%E4%BD%9C%E5%93%81%E8%B7%AF%E7%B7%9A",
-    "timestamp": "2026-05-21T12:29:55.386Z",
     "strategy": ".content-card__main"
   }
 ];
