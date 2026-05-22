@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-22T22:41:36.803Z
+// Last updated: 2026-05-22T23:44:35.666Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "國泰澳洲抵港客機疑遇氣流　至少8名乘客及機組人員受傷",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260523/1134760773768187904967580.jpeg/AZ-K3YOjulERCoi71UK9ain60VrSs1H68ErnIfBK5yE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60352808/%E5%9C%8B%E6%B3%B0%E6%BE%B3%E6%B4%B2%E6%8A%B5%E6%B8%AF%E5%AE%A2%E6%A9%9F%E7%96%91%E9%81%87%E6%B0%A3%E6%B5%81-%E8%87%B3%E5%B0%918%E5%90%8D%E4%B9%98%E5%AE%A2%E5%8F%8A%E6%A9%9F%E7%B5%84%E4%BA%BA%E5%93%A1%E5%8F%97%E5%82%B7",
+    "timestamp": "2026-05-22T23:44:35.666Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "大角咀2私家車相撞　55歲女司機「吹爆波」涉醉駕被捕",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260521/1134151075155152896932470.jpeg/j7RN55vFoNYgZ6gKud2WBtrqGL6I9P7ViS8_eIkvP3g?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%9C%8B%E9%9A%9B%E5%88%86%E6%9E%90/60352142/%E6%99%AE%E4%BA%AC%E8%A8%AA%E8%8F%AF%E4%B9%8B%E9%9A%9B-%E7%83%8F%E5%85%8B%E8%98%AD%E5%B7%B2%E9%9D%9C%E6%82%84%E6%82%84%E6%89%AD%E8%BD%89%E6%88%B0%E5%B1%80-jack-talk-%E5%8E%BB%E7%89%87",
     "timestamp": "2026-05-21T23:42:09.727Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "影后自爆獲獎後變囂常對導演發脾氣　若非前輩點醒已變大牌討厭",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260521/1134275187282284544512480.jpeg/kfUOkrOgVZ5RTgyJj8WuJaBm2uVAYVpWqVQT7KlUE-w?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60352381/%E8%88%92%E6%B7%87%E8%87%AA%E7%88%86%E7%8D%B2%E7%8D%8E%E5%BE%8C%E8%AE%8A%E5%9B%82%E5%B8%B8%E5%B0%8D%E5%B0%8E%E6%BC%94%E7%99%BC%E8%84%BE%E6%B0%A3-%E8%8B%A5%E9%9D%9E%E5%89%8D%E8%BC%A9%E9%BB%9E%E9%86%92%E5%B7%B2%E8%AE%8A%E5%A4%A7%E7%89%8C%E8%A8%8E%E5%8E%AD",
-    "timestamp": "2026-05-21T23:13:59.534Z",
     "strategy": ".content-card__main"
   }
 ];
