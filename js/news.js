@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-22T13:42:11.209Z
+// Last updated: 2026-05-22T14:46:17.901Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "澎湖海戰｜史上最震撼的怒海決戰　7月30日香港6大院商聯手發行",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260522/1134605432485056512851926.jpeg/S-Ex-2f4fva2krky0k-_UXhDNPK-xgjlpWuQEaVrkBE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60352773/%E6%BE%8E%E6%B9%96%E6%B5%B7%E6%88%B0-%E5%8F%B2%E4%B8%8A%E6%9C%80%E9%9C%87%E6%92%BC%E7%9A%84%E6%80%92%E6%B5%B7%E6%B1%BA%E6%88%B0-7%E6%9C%8830%E6%97%A5%E9%A6%99%E6%B8%AF6%E5%A4%A7%E9%99%A2%E5%95%86%E8%81%AF%E6%89%8B%E7%99%BC%E8%A1%8C",
+    "timestamp": "2026-05-22T14:46:17.901Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "央視軍事：香港航天員將搭神舟二十三號升空，飛行標識中含紫荊花",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260521/1134154249513472000463057.jpeg/9ol5D4bSDk49ufSjoF9hXaA4D0TlF_7BKvCIHSrwiB0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%81%8A%E6%88%B2%E5%8B%95%E6%BC%AB/60352157/stop-killing-games%E7%97%9B%E6%93%8A%E6%9C%8D%E5%8B%99%E5%9E%8B%E9%81%8A%E6%88%B2-%E8%BF%ABps6%E9%87%8D%E6%AD%B83a%E7%B4%9A%E5%96%AE%E6%A9%9F%E4%BD%9C%E5%93%81%E8%B7%AF%E7%B7%9A",
     "timestamp": "2026-05-21T12:29:55.386Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "電熱水壺清洗｜壺底水垢費電又難洗！專家教4步快速除垢免用力刷",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260521/1134210035899961344820935.jpeg/ouIFRBHgi-bi_Q8w78S6fpqL7hakJ7GshaLHW4Wix1s?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60348926/%E9%9B%BB%E7%86%B1%E6%B0%B4%E5%A3%BA%E6%B8%85%E6%B4%97-%E5%A3%BA%E5%BA%95%E6%B0%B4%E5%9E%A2%E8%B2%BB%E9%9B%BB%E5%8F%88%E9%9B%A3%E6%B4%97-%E5%B0%88%E5%AE%B6%E6%95%994%E6%AD%A5%E5%BF%AB%E9%80%9F%E9%99%A4%E5%9E%A2%E5%85%8D%E7%94%A8%E5%8A%9B%E5%88%B7",
-    "timestamp": "2026-05-21T11:15:40.568Z",
     "strategy": ".content-card__main"
   }
 ];
