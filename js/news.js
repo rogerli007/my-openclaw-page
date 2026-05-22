@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-22T10:39:07.852Z
+// Last updated: 2026-05-22T12:39:27.248Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "狗隻進食肆｜哪款狗禁進入？拒鏟屎會罰錢？食環署最新指引一文看",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260522/1134584710882660352506842.jpeg/kjT4-W_C685rtj0mqr_Vic2wCdRIJB3BhK7bDJ6u2ww?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60352744/%E7%8B%97%E9%9A%BB%E9%80%B2%E9%A3%9F%E8%82%86-%E5%93%AA%E6%AC%BE%E7%8B%97%E7%A6%81%E9%80%B2%E5%85%A5-%E6%8B%92%E9%8F%9F%E5%B1%8E%E6%9C%83%E7%BD%B0%E9%8C%A2-%E9%A3%9F%E7%92%B0%E7%BD%B2%E6%9C%80%E6%96%B0%E6%8C%87%E5%BC%95%E4%B8%80%E6%96%87%E7%9C%8B",
+    "timestamp": "2026-05-22T12:39:27.248Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "證券行涉非法跨境展業　旺區插旗月花百萬開巨舖　富途擴充最積極",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260521/1134173675084320768615384.png/Lj1jNPulcGunQxGK80Hltk-vryh53Ar4dgsrUXYLK1E?v=w1920",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60352271/%E6%9A%B4%E9%9B%A8-%E6%96%B0%E7%95%8C%E5%8C%97%E5%A4%9A%E8%99%95%E8%AE%8A%E6%B2%B3%E6%8F%B8%E8%BB%8A%E8%AE%8A%E9%96%8B%E8%88%B9-%E6%B6%88%E9%98%B2%E5%8A%A9%E6%8E%A8%E8%BB%8A%E8%84%AB%E5%9B%B0-%E8%AD%A6%E5%93%A1%E6%B7%8B%E9%9B%A8%E6%8C%87%E6%8F%AE",
     "timestamp": "2026-05-21T09:56:30.541Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "長柄手袋7款推薦　jennie示範Chanel新世代風格　LV復古兼具實用",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260430/1126540194858668032058619.png/a8p8y-avIJHKNfjABd84vnMC5d4QhlAqFj_L4hY_y-I?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A9%BF%E6%90%AD%E7%AD%86%E8%A8%98/60345172/%E9%95%B7%E6%9F%84%E6%89%8B%E8%A2%8B7%E6%AC%BE%E6%8E%A8%E8%96%A6-jennie%E7%A4%BA%E7%AF%84chanel%E6%96%B0%E4%B8%96%E4%BB%A3%E9%A2%A8%E6%A0%BC-lv%E5%BE%A9%E5%8F%A4%E5%85%BC%E5%85%B7%E5%AF%A6%E7%94%A8",
-    "timestamp": "2026-05-21T07:06:29.537Z",
     "strategy": ".content-card__main"
   }
 ];
