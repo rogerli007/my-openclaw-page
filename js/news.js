@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-22T21:38:02.576Z
+// Last updated: 2026-05-22T22:15:45.092Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "伊朗稱與美仍就爭議事項存重大分歧　無法斷言雙方已接近達成協議",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260504/1127943329724502016827490.jpeg/qeZxAqxaTNqSdVdktWHnj_0j9mjbhb-n8HqDavB6g2o?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60352803/%E4%BC%8A%E6%9C%97%E7%A8%B1%E8%88%87%E7%BE%8E%E4%BB%8D%E5%B0%B1%E7%88%AD%E8%AD%B0%E4%BA%8B%E9%A0%85%E5%AD%98%E9%87%8D%E5%A4%A7%E5%88%86%E6%AD%A7-%E7%84%A1%E6%B3%95%E6%96%B7%E8%A8%80%E9%9B%99%E6%96%B9%E5%B7%B2%E6%8E%A5%E8%BF%91%E9%81%94%E6%88%90%E5%8D%94%E8%AD%B0",
+    "timestamp": "2026-05-22T22:15:45.092Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "伊朗稱與美仍就爭議事項存重大分歧　無法斷言雙方已接近達成協議",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250904/1040331902084452352529306.jpeg/JTCnPg5H74ZJJLCCYZnQj5k88o-I0demeHH-93hx_vc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60352437/%E7%89%B9%E6%9C%97%E6%99%AE%E5%AE%A3%E5%B8%83%E5%90%91%E6%B3%A2%E8%98%AD%E5%A2%9E%E6%B4%BE5000%E9%A7%90%E5%85%B5-%E7%A8%B1%E5%9F%BA%E6%96%BC%E8%88%87%E6%B3%A2%E8%98%AD%E7%B8%BD%E7%B5%B1%E4%BA%A4%E6%83%85",
     "timestamp": "2026-05-21T21:56:31.193Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "法航與空中巴士因09年空難被裁定企業過失殺人罪　各罰22.5萬歐元",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260522/1134353259184525312094673.jpeg/skcGYGbYRBKtlq7RJoXbt345I2vcvvob2oGw39qBsN8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60352436/%E6%B3%95%E8%88%AA%E8%88%87%E7%A9%BA%E4%B8%AD%E5%B7%B4%E5%A3%AB%E5%9B%A009%E5%B9%B4%E7%A9%BA%E9%9B%A3%E8%A2%AB%E8%A3%81%E5%AE%9A%E4%BC%81%E6%A5%AD%E9%81%8E%E5%A4%B1%E6%AE%BA%E4%BA%BA%E7%BD%AA-%E5%90%84%E7%BD%B022-5%E8%90%AC%E6%AD%90%E5%85%83",
-    "timestamp": "2026-05-21T21:10:25.306Z",
     "strategy": ".content-card__main"
   }
 ];
