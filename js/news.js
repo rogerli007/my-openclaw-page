@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-22T08:17:04.204Z
+// Last updated: 2026-05-22T10:39:07.852Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "證券行涉非法跨境展業　旺區插旗月花百萬開巨舖　富途擴充最積極",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260522/1134549980548173824126784.jpeg/YKdMIzSJJbY1QCpfjAY7IyKdoYI98zmeFNtnExTbZxM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60352670/%E8%AD%89%E5%88%B8%E8%A1%8C%E6%B6%89%E9%9D%9E%E6%B3%95%E8%B7%A8%E5%A2%83%E5%B1%95%E6%A5%AD-%E6%97%BA%E5%8D%80%E6%8F%92%E6%97%97%E6%9C%88%E8%8A%B1%E7%99%BE%E8%90%AC%E9%96%8B%E5%B7%A8%E8%88%96-%E5%AF%8C%E9%80%94%E6%93%B4%E5%85%85%E6%9C%80%E7%A9%8D%E6%A5%B5",
+    "timestamp": "2026-05-22T10:39:07.852Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "BTS香港演唱會2027｜門票優先訂票攻略+登陸啟德連開3場$799起",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260430/1126540194858668032058619.png/a8p8y-avIJHKNfjABd84vnMC5d4QhlAqFj_L4hY_y-I?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A9%BF%E6%90%AD%E7%AD%86%E8%A8%98/60345172/%E9%95%B7%E6%9F%84%E6%89%8B%E8%A2%8B7%E6%AC%BE%E6%8E%A8%E8%96%A6-jennie%E7%A4%BA%E7%AF%84chanel%E6%96%B0%E4%B8%96%E4%BB%A3%E9%A2%A8%E6%A0%BC-lv%E5%BE%A9%E5%8F%A4%E5%85%BC%E5%85%B7%E5%AF%A6%E7%94%A8",
     "timestamp": "2026-05-21T07:06:29.537Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "俄羅斯副總理慨嘆中俄差距：中國有無人機我們只有蜂蜜與螃蟹",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260521/1134072027498418176315762.jpeg/gQqxod6M6cQR05i7ePMozH9b6fYLvaf0OK9yhjivcoY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60352149/%E4%BF%84%E7%BE%85%E6%96%AF%E5%89%AF%E7%B8%BD%E7%90%86%E6%85%A8%E5%98%86%E4%B8%AD%E4%BF%84%E5%B7%AE%E8%B7%9D-%E4%B8%AD%E5%9C%8B%E6%9C%89%E7%84%A1%E4%BA%BA%E6%A9%9F%E6%88%91%E5%80%91%E5%8F%AA%E6%9C%89%E8%9C%82%E8%9C%9C%E8%88%87%E8%9E%83%E8%9F%B9",
-    "timestamp": "2026-05-21T05:36:45.325Z",
     "strategy": ".content-card__main"
   }
 ];
