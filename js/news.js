@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-22T15:48:32.941Z
+// Last updated: 2026-05-22T16:42:58.043Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "直擊Lines of EVANGELION EVA香港展｜詳睇香港打卡位及限定周邊",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260522/1134589802616721408681734.jpeg/ArTYi5FdTehSfH1b0ih15lajU_Z9765eIzxh9iM8YfY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60352729/%E7%9B%B4%E6%93%8Alines-of-evangelion-eva%E9%A6%99%E6%B8%AF%E5%B1%95-%E8%A9%B3%E7%9D%87%E9%A6%99%E6%B8%AF%E6%89%93%E5%8D%A1%E4%BD%8D%E5%8F%8A%E9%99%90%E5%AE%9A%E5%91%A8%E9%82%8A",
+    "timestamp": "2026-05-22T16:42:58.043Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "視后佘詩曼迎51歲生日人緣極好　周嘉洛陳山聰等7大男神現身護花",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20240529/872295444397428736610245.jpeg/0iEpUj9VtuAa59SPZq9I3Nu62P69rLmWIJp3NyCadzc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60352404/%E7%BE%8E%E5%AA%92-%E7%BE%8E%E5%9C%8B%E7%9D%80%E6%89%8B%E6%93%AC%E5%AE%9A%E5%B0%8D%E5%8F%A4%E5%B7%B4%E8%BB%8D%E4%BA%8B%E8%A1%8C%E5%8B%95%E6%96%B9%E6%A1%88-%E6%83%85%E5%A0%B1%E9%83%A8%E9%96%80%E6%AD%A3%E6%8E%A8%E6%BC%94%E7%9B%B8%E9%97%9C%E5%BE%8C%E6%9E%9C",
     "timestamp": "2026-05-21T14:47:49.640Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "英偉達跌逾1%　營收展望未驚艷市場　新增回購800億美元",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260514/1131602020432613376390478.jpeg/6r2Mq-TEdO7xYOCGa593oitvzFSF6mRgxD5YUMQ-WFA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60352086/%E8%8B%B1%E5%81%89%E9%81%94%E8%B7%8C%E9%80%BE1-%E7%87%9F%E6%94%B6%E5%B1%95%E6%9C%9B%E6%9C%AA%E9%A9%9A%E8%89%B7%E5%B8%82%E5%A0%B4-%E6%96%B0%E5%A2%9E%E5%9B%9E%E8%B3%BC800%E5%84%84%E7%BE%8E%E5%85%83",
-    "timestamp": "2026-05-21T13:41:45.644Z",
     "strategy": ".content-card__main"
   }
 ];
