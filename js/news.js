@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-22T06:57:41.450Z
+// Last updated: 2026-05-22T08:17:04.204Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "BTS香港演唱會2027｜門票優先訂票攻略+登陸啟德連開3場$799起",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260522/1134524908072603648618327.jpeg/ADlhy4RCUGJBYmBwTjAy1CuAeJRLcdTll4zJ3ZeMyd0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60352621/bts%E9%A6%99%E6%B8%AF%E6%BC%94%E5%94%B1%E6%9C%832027-%E9%96%80%E7%A5%A8%E5%84%AA%E5%85%88%E8%A8%82%E7%A5%A8%E6%94%BB%E7%95%A5-%E7%99%BB%E9%99%B8%E5%95%9F%E5%BE%B7%E9%80%A3%E9%96%8B3%E5%A0%B4-799%E8%B5%B7",
+    "timestamp": "2026-05-22T08:17:04.204Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "堅尼地城單位26歲男暈倒　母親揭發　惜送院不治",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260521/1134072027498418176315762.jpeg/gQqxod6M6cQR05i7ePMozH9b6fYLvaf0OK9yhjivcoY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60352149/%E4%BF%84%E7%BE%85%E6%96%AF%E5%89%AF%E7%B8%BD%E7%90%86%E6%85%A8%E5%98%86%E4%B8%AD%E4%BF%84%E5%B7%AE%E8%B7%9D-%E4%B8%AD%E5%9C%8B%E6%9C%89%E7%84%A1%E4%BA%BA%E6%A9%9F%E6%88%91%E5%80%91%E5%8F%AA%E6%9C%89%E8%9C%82%E8%9C%9C%E8%88%87%E8%9E%83%E8%9F%B9",
     "timestamp": "2026-05-21T05:36:45.325Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "男警涉荔景站偷拍　為慳錢無請律師但擬不認罪　官稱難排期再押後",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260521/1134096309410598912238156.jpeg/9dbEgwkJfa2TsM0bvzWndHOi1bncBK7Dym7hve9u4b0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60352116/%E7%94%B7%E8%AD%A6%E6%B6%89%E8%8D%94%E6%99%AF%E7%AB%99%E5%81%B7%E6%8B%8D-%E7%82%BA%E6%85%B3%E9%8C%A2%E7%84%A1%E8%AB%8B%E5%BE%8B%E5%B8%AB%E4%BD%86%E6%93%AC%E4%B8%8D%E8%AA%8D%E7%BD%AA-%E5%AE%98%E7%A8%B1%E9%9B%A3%E6%8E%92%E6%9C%9F%E5%86%8D%E6%8A%BC%E5%BE%8C",
-    "timestamp": "2026-05-21T03:53:55.833Z",
     "strategy": ".content-card__main"
   }
 ];
