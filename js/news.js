@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-22T19:42:18.715Z
+// Last updated: 2026-05-22T20:27:50.025Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "普京指責烏軍襲擊盧甘斯克一學生宿舍致6死　烏方否認指控",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260523/1134701142131871744534890.jpeg/89guT9sr3X7kfd7-M9U8j-AGsP0GKRJhEWOXeRFjl3k?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60352800/%E6%99%AE%E4%BA%AC%E6%8C%87%E8%B2%AC%E7%83%8F%E8%BB%8D%E8%A5%B2%E6%93%8A%E7%9B%A7%E7%94%98%E6%96%AF%E5%85%8B%E4%B8%80%E5%AD%B8%E7%94%9F%E5%AE%BF%E8%88%8D%E8%87%B46%E6%AD%BB-%E7%83%8F%E6%96%B9%E5%90%A6%E8%AA%8D%E6%8C%87%E6%8E%A7",
+    "timestamp": "2026-05-22T20:27:50.025Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "紅色暴雨｜新界北區8宗水浸　渠務署「龍吸水」兩三小時完成處理",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260522/1134342089589395456561247.jpeg/MQZ4bLXnaCalQKzJdaijoErsIQ7KHRg-i_wz5bH8M-U",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60352435/%E6%96%87%E8%8B%91%E6%A8%93%E5%A5%AA%E5%91%BD%E7%81%AB-%E6%B6%88%E9%98%B2%E4%BA%8B%E5%BE%8C%E6%AA%A2%E6%9F%A5%E8%A3%9D%E7%BD%AE-%E8%AD%89%E5%AF%A6%E8%AD%A6%E9%90%98%E9%B3%B4%E9%9F%BF-%E8%B5%B7%E7%81%AB%E5%8E%9F%E5%9B%A0%E7%84%A1%E5%8F%AF%E7%96%91",
     "timestamp": "2026-05-21T20:32:53.630Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "古巴外長：魯比奧正挑起軍事侵略　錯貼古巴「支持恐怖主義」標籤",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260522/1134327538617683968146230.jpeg/uPBS13oViHqeRCjNlAe31w0You9TWo-PdNS24nTUtuI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60352433/%E5%8F%A4%E5%B7%B4%E5%A4%96%E9%95%B7-%E9%AD%AF%E6%AF%94%E5%A5%A7%E6%AD%A3%E6%8C%91%E8%B5%B7%E8%BB%8D%E4%BA%8B%E4%BE%B5%E7%95%A5-%E9%8C%AF%E8%B2%BC%E5%8F%A4%E5%B7%B4-%E6%94%AF%E6%8C%81%E6%81%90%E6%80%96%E4%B8%BB%E7%BE%A9-%E6%A8%99%E7%B1%A4",
-    "timestamp": "2026-05-21T19:42:28.744Z",
     "strategy": ".content-card__main"
   }
 ];
