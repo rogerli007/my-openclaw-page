@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-22T18:13:37.098Z
+// Last updated: 2026-05-22T19:00:36.484Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "二號客運大樓啟用｜HK Express 6月10日4:00遷入　先進設施增運力",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260523/1134664902040883200815437.jpeg/fnorZTl1HVj6N4o4xuKD4FYtYj7Bp5IjoZ-uhKGfroQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60352797/%E4%BA%8C%E8%99%9F%E5%AE%A2%E9%81%8B%E5%A4%A7%E6%A8%93%E5%95%9F%E7%94%A8-hk-express-6%E6%9C%8810%E6%97%A54-00%E9%81%B7%E5%85%A5-%E5%85%88%E9%80%B2%E8%A8%AD%E6%96%BD%E5%A2%9E%E9%81%8B%E5%8A%9B",
+    "timestamp": "2026-05-22T19:00:36.484Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "二號客運大樓啟用｜HK Express 6月10日4:00遷入　先進設施增運力",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260420/1122832939139207168405796.jpeg/Ryc9HRQBqmSAnpCgt3VOGYcH1MulhK4a46n9feOp_X0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60352430/%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E7%B8%BD%E7%90%86%E5%B0%B1%E4%B8%AD%E5%B7%B4%E5%BB%BA%E4%BA%A475%E5%91%A8%E5%B9%B4%E7%99%BC%E8%A1%A8%E6%9B%B8%E9%9D%A2%E8%87%B4%E8%BE%AD-%E8%AE%9A%E8%B3%9E%E5%85%A9%E5%9C%8B%E5%A4%9A%E9%A0%98%E5%9F%9F%E5%90%88%E4%BD%9C",
     "timestamp": "2026-05-21T18:53:30.261Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普推遲簽署一項AI行政命令　稱訪華期間曾討論AI安全保障措施",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260522/1134303280512372736164927.jpeg/gJy-Zd3hDquKqzFLxn5wP3w0CYYwvtLwcM-FPHDPhTw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60352425/%E7%89%B9%E6%9C%97%E6%99%AE%E6%8E%A8%E9%81%B2%E7%B0%BD%E7%BD%B2%E4%B8%80%E9%A0%85ai%E8%A1%8C%E6%94%BF%E5%91%BD%E4%BB%A4-%E7%A8%B1%E8%A8%AA%E8%8F%AF%E6%9C%9F%E9%96%93%E6%9B%BE%E8%A8%8E%E8%AB%96ai%E5%AE%89%E5%85%A8%E4%BF%9D%E9%9A%9C%E6%8E%AA%E6%96%BD",
-    "timestamp": "2026-05-21T18:00:57.207Z",
     "strategy": ".content-card__main"
   }
 ];
