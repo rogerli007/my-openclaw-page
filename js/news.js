@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-22T22:15:45.092Z
+// Last updated: 2026-05-22T22:41:36.803Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "大角咀2私家車相撞　55歲女司機「吹爆波」涉醉駕被捕",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260523/1134744126856630272975021.jpeg/FBxLBtpgMthBL5Jy7G7OBXHq5mrXayN9U5o3LlOaNy4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60352805/%E5%A4%A7%E8%A7%92%E5%92%802%E7%A7%81%E5%AE%B6%E8%BB%8A%E7%9B%B8%E6%92%9E-55%E6%AD%B2%E5%A5%B3%E5%8F%B8%E6%A9%9F-%E5%90%B9%E7%88%86%E6%B3%A2-%E6%B6%89%E9%86%89%E9%A7%95%E8%A2%AB%E6%8D%95",
+    "timestamp": "2026-05-22T22:41:36.803Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "伊朗稱與美仍就爭議事項存重大分歧　無法斷言雙方已接近達成協議",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260521/1134275187282284544512480.jpeg/kfUOkrOgVZ5RTgyJj8WuJaBm2uVAYVpWqVQT7KlUE-w?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60352381/%E8%88%92%E6%B7%87%E8%87%AA%E7%88%86%E7%8D%B2%E7%8D%8E%E5%BE%8C%E8%AE%8A%E5%9B%82%E5%B8%B8%E5%B0%8D%E5%B0%8E%E6%BC%94%E7%99%BC%E8%84%BE%E6%B0%A3-%E8%8B%A5%E9%9D%9E%E5%89%8D%E8%BC%A9%E9%BB%9E%E9%86%92%E5%B7%B2%E8%AE%8A%E5%A4%A7%E7%89%8C%E8%A8%8E%E5%8E%AD",
     "timestamp": "2026-05-21T23:13:59.534Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普宣布向波蘭增派5000駐兵　稱基於與波蘭總統交情",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250904/1040331902084452352529306.jpeg/JTCnPg5H74ZJJLCCYZnQj5k88o-I0demeHH-93hx_vc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60352437/%E7%89%B9%E6%9C%97%E6%99%AE%E5%AE%A3%E5%B8%83%E5%90%91%E6%B3%A2%E8%98%AD%E5%A2%9E%E6%B4%BE5000%E9%A7%90%E5%85%B5-%E7%A8%B1%E5%9F%BA%E6%96%BC%E8%88%87%E6%B3%A2%E8%98%AD%E7%B8%BD%E7%B5%B1%E4%BA%A4%E6%83%85",
-    "timestamp": "2026-05-21T21:56:31.193Z",
     "strategy": ".content-card__main"
   }
 ];
