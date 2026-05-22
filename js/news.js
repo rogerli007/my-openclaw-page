@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-22T19:00:36.484Z
+// Last updated: 2026-05-22T19:42:18.715Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "紅色暴雨｜新界北區8宗水浸　渠務署「龍吸水」兩三小時完成處理",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260523/1134688245548847104670835.jpeg/xmjste-G2PQ6rdj5MEPHSpwfftAepjoayoA-OcqAPjk?v=w1920r16_9",
+    "url": "https://www.hk01.com/18%E5%8D%80%E6%96%B0%E8%81%9E/60352799/%E7%B4%85%E8%89%B2%E6%9A%B4%E9%9B%A8-%E6%96%B0%E7%95%8C%E5%8C%97%E5%8D%808%E5%AE%97%E6%B0%B4%E6%B5%B8-%E6%B8%A0%E5%8B%99%E7%BD%B2-%E9%BE%8D%E5%90%B8%E6%B0%B4-%E5%85%A9%E4%B8%89%E5%B0%8F%E6%99%82%E5%AE%8C%E6%88%90%E8%99%95%E7%90%86",
+    "timestamp": "2026-05-22T19:42:18.715Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "二號客運大樓啟用｜HK Express 6月10日4:00遷入　先進設施增運力",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260522/1134327538617683968146230.jpeg/uPBS13oViHqeRCjNlAe31w0You9TWo-PdNS24nTUtuI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60352433/%E5%8F%A4%E5%B7%B4%E5%A4%96%E9%95%B7-%E9%AD%AF%E6%AF%94%E5%A5%A7%E6%AD%A3%E6%8C%91%E8%B5%B7%E8%BB%8D%E4%BA%8B%E4%BE%B5%E7%95%A5-%E9%8C%AF%E8%B2%BC%E5%8F%A4%E5%B7%B4-%E6%94%AF%E6%8C%81%E6%81%90%E6%80%96%E4%B8%BB%E7%BE%A9-%E6%A8%99%E7%B1%A4",
     "timestamp": "2026-05-21T19:42:28.744Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "巴基斯坦總理就中巴建交75周年發表書面致辭　讚賞兩國多領域合作",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260420/1122832939139207168405796.jpeg/Ryc9HRQBqmSAnpCgt3VOGYcH1MulhK4a46n9feOp_X0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60352430/%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E7%B8%BD%E7%90%86%E5%B0%B1%E4%B8%AD%E5%B7%B4%E5%BB%BA%E4%BA%A475%E5%91%A8%E5%B9%B4%E7%99%BC%E8%A1%A8%E6%9B%B8%E9%9D%A2%E8%87%B4%E8%BE%AD-%E8%AE%9A%E8%B3%9E%E5%85%A9%E5%9C%8B%E5%A4%9A%E9%A0%98%E5%9F%9F%E5%90%88%E4%BD%9C",
-    "timestamp": "2026-05-21T18:53:30.261Z",
     "strategy": ".content-card__main"
   }
 ];
