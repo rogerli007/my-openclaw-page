@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-23T06:16:16.274Z
+// Last updated: 2026-05-23T07:17:31.247Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "減肥方法｜營養師自創免捱餓21分飽減肥法！3不原則養出易瘦體質",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260522/1134548388797222912635724.jpeg/fJ-LtfqVST4PW_3VVSDU8cUUO-pnzBCY5NXK2eTVytk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60349767/%E6%B8%9B%E8%82%A5%E6%96%B9%E6%B3%95-%E7%87%9F%E9%A4%8A%E5%B8%AB%E8%87%AA%E5%89%B5%E5%85%8D%E6%8D%B1%E9%A4%9321%E5%88%86%E9%A3%BD%E6%B8%9B%E8%82%A5%E6%B3%95-3%E4%B8%8D%E5%8E%9F%E5%89%87%E9%A4%8A%E5%87%BA%E6%98%93%E7%98%A6%E9%AB%94%E8%B3%AA",
+    "timestamp": "2026-05-23T07:17:31.247Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "夾公仔機設「保夾」金額？　麥美娟：會諮詢　無意改獎品金額上限",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260522/1134584710882660352506842.jpeg/kjT4-W_C685rtj0mqr_Vic2wCdRIJB3BhK7bDJ6u2ww?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60352744/%E7%8B%97%E9%9A%BB%E9%80%B2%E9%A3%9F%E8%82%86-%E5%93%AA%E6%AC%BE%E7%8B%97%E7%A6%81%E9%80%B2%E5%85%A5-%E6%8B%92%E9%8F%9F%E5%B1%8E%E6%9C%83%E7%BD%B0%E9%8C%A2-%E9%A3%9F%E7%92%B0%E7%BD%B2%E6%9C%80%E6%96%B0%E6%8C%87%E5%BC%95%E4%B8%80%E6%96%87%E7%9C%8B",
     "timestamp": "2026-05-22T12:39:27.248Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "證券行涉非法跨境展業　旺區插旗月花百萬開巨舖　富途擴充最積極",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260522/1134549980548173824126784.jpeg/YKdMIzSJJbY1QCpfjAY7IyKdoYI98zmeFNtnExTbZxM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60352670/%E8%AD%89%E5%88%B8%E8%A1%8C%E6%B6%89%E9%9D%9E%E6%B3%95%E8%B7%A8%E5%A2%83%E5%B1%95%E6%A5%AD-%E6%97%BA%E5%8D%80%E6%8F%92%E6%97%97%E6%9C%88%E8%8A%B1%E7%99%BE%E8%90%AC%E9%96%8B%E5%B7%A8%E8%88%96-%E5%AF%8C%E9%80%94%E6%93%B4%E5%85%85%E6%9C%80%E7%A9%8D%E6%A5%B5",
-    "timestamp": "2026-05-22T10:39:07.852Z",
     "strategy": ".content-card__main"
   }
 ];
