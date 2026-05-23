@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-23T00:14:47.929Z
+// Last updated: 2026-05-23T01:20:17.179Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "搬出公屋2年！女子自行除名遭母反鎖咬傷　3警方合力將婦人制服",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260523/1134699324681228288407856.png/fevhozWFifIEztDj0rWPKWq14a6ddpC0eagvj3moL48?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60352747/%E6%90%AC%E5%87%BA%E5%85%AC%E5%B1%8B2%E5%B9%B4-%E5%A5%B3%E5%AD%90%E8%87%AA%E8%A1%8C%E9%99%A4%E5%90%8D%E9%81%AD%E6%AF%8D%E5%8F%8D%E9%8E%96%E5%92%AC%E5%82%B7-3%E8%AD%A6%E6%96%B9%E5%90%88%E5%8A%9B%E5%B0%87%E5%A9%A6%E4%BA%BA%E5%88%B6%E6%9C%8D",
+    "timestamp": "2026-05-23T01:20:17.179Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "山西沁源煤礦爆炸已致8人死亡　井下38人仍被困",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260522/1134486574667403264216479.jpeg/gTz04kkdWDOA2zWG_H1G6wWm3nJcHXZNZrpmfma6Zn4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60352546/%E4%B8%AD%E7%92%B0%E5%B7%B1%E9%80%A3%E6%8B%BF%E5%88%A9%E5%90%8A%E8%87%82%E8%BB%8A%E6%96%9C%E8%B7%AF%E6%BA%9C%E5%89%8D-%E6%92%9E%E6%AF%808%E7%B1%B3%E6%AC%84%E5%8F%8A%E5%B9%BC%E7%A8%9A%E5%9C%92%E5%A4%96%E7%89%86",
     "timestamp": "2026-05-22T05:33:24.247Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "伊波拉病毒｜專家指依賴旅客主動申報非百分百可靠　倡主動監察",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260519/1133501255520620544148906.jpeg/LqwgeUpwALNRcjvez6MgQWfjdkfWVncUJOq4OCTquDg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60352452/%E4%BC%8A%E6%B3%A2%E6%8B%89%E7%97%85%E6%AF%92-%E5%B0%88%E5%AE%B6%E6%8C%87%E4%BE%9D%E8%B3%B4%E6%97%85%E5%AE%A2%E4%B8%BB%E5%8B%95%E7%94%B3%E5%A0%B1%E9%9D%9E%E7%99%BE%E5%88%86%E7%99%BE%E5%8F%AF%E9%9D%A0-%E5%80%A1%E4%B8%BB%E5%8B%95%E7%9B%A3%E5%AF%9F",
-    "timestamp": "2026-05-22T02:29:27.944Z",
     "strategy": ".content-card__main"
   }
 ];
