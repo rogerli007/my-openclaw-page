@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-23T11:03:48.660Z
+// Last updated: 2026-05-23T11:38:33.321Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "60歲離婚成為女木工師獲新生　她走出30年假面婚：我的人生剛開始",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260506/1128720658218356736218463.png/u34CPq5c1pQeB_bkfDcPGcvVT6_TY7BG6gwzC-oMMws?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%9F%A5%E6%80%A7%E5%A5%B3%E7%94%9F/60345604/60%E6%AD%B2%E9%9B%A2%E5%A9%9A%E6%88%90%E7%82%BA%E5%A5%B3%E6%9C%A8%E5%B7%A5%E5%B8%AB%E7%8D%B2%E6%96%B0%E7%94%9F-%E5%A5%B9%E8%B5%B0%E5%87%BA30%E5%B9%B4%E5%81%87%E9%9D%A2%E5%A9%9A-%E6%88%91%E7%9A%84%E4%BA%BA%E7%94%9F%E5%89%9B%E9%96%8B%E5%A7%8B",
+    "timestamp": "2026-05-23T11:38:33.321Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "巴基斯坦航天員學中文、掌握口令　其中一人將執行短期飛行任務",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260522/1134599560199409664078524.jpeg/_KIkdgqdAgs-7WI11p-C6EDPPF5gMHw0LL6MUSy-jFE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60352759/%E8%A6%96%E5%90%8E%E4%BD%98%E8%A9%A9%E6%9B%BC%E8%BF%8E51%E6%AD%B2%E7%94%9F%E6%97%A5%E4%BA%BA%E7%B7%A3%E6%A5%B5%E5%A5%BD-%E5%91%A8%E5%98%89%E6%B4%9B%E9%99%B3%E5%B1%B1%E8%81%B0%E7%AD%897%E5%A4%A7%E7%94%B7%E7%A5%9E%E7%8F%BE%E8%BA%AB%E8%AD%B7%E8%8A%B1",
     "timestamp": "2026-05-22T15:48:32.941Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "澎湖海戰｜史上最震撼的怒海決戰　7月30日香港6大院商聯手發行",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260522/1134605432485056512851926.jpeg/S-Ex-2f4fva2krky0k-_UXhDNPK-xgjlpWuQEaVrkBE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60352773/%E6%BE%8E%E6%B9%96%E6%B5%B7%E6%88%B0-%E5%8F%B2%E4%B8%8A%E6%9C%80%E9%9C%87%E6%92%BC%E7%9A%84%E6%80%92%E6%B5%B7%E6%B1%BA%E6%88%B0-7%E6%9C%8830%E6%97%A5%E9%A6%99%E6%B8%AF6%E5%A4%A7%E9%99%A2%E5%95%86%E8%81%AF%E6%89%8B%E7%99%BC%E8%A1%8C",
-    "timestamp": "2026-05-22T14:46:17.901Z",
     "strategy": ".content-card__main"
   }
 ];
