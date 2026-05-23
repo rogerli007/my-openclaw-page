@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-23T11:38:33.321Z
+// Last updated: 2026-05-23T12:11:00.859Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "青衣公屋升降機驚現大床褥！保安︰有人話擺住先　違者再犯扣7分",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260523/1134699288446636032316259.png/BsN7dX03u3-C0FXXXtaEJFGww6QU_5YWf3FIDH9xSAw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60352760/%E9%9D%92%E8%A1%A3%E5%85%AC%E5%B1%8B%E5%8D%87%E9%99%8D%E6%A9%9F%E9%A9%9A%E7%8F%BE%E5%A4%A7%E5%BA%8A%E8%A4%A5-%E4%BF%9D%E5%AE%89-%E6%9C%89%E4%BA%BA%E8%A9%B1%E6%93%BA%E4%BD%8F%E5%85%88-%E9%81%95%E8%80%85%E5%86%8D%E7%8A%AF%E6%89%A37%E5%88%86",
+    "timestamp": "2026-05-23T12:11:00.859Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "60歲離婚成為女木工師獲新生　她走出30年假面婚：我的人生剛開始",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260522/1134589802616721408681734.jpeg/ArTYi5FdTehSfH1b0ih15lajU_Z9765eIzxh9iM8YfY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60352729/%E7%9B%B4%E6%93%8Alines-of-evangelion-eva%E9%A6%99%E6%B8%AF%E5%B1%95-%E8%A9%B3%E7%9D%87%E9%A6%99%E6%B8%AF%E6%89%93%E5%8D%A1%E4%BD%8D%E5%8F%8A%E9%99%90%E5%AE%9A%E5%91%A8%E9%82%8A",
     "timestamp": "2026-05-22T16:42:58.043Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "視后佘詩曼迎51歲生日人緣極好　周嘉洛陳山聰等7大男神現身護花",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260522/1134599560199409664078524.jpeg/_KIkdgqdAgs-7WI11p-C6EDPPF5gMHw0LL6MUSy-jFE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60352759/%E8%A6%96%E5%90%8E%E4%BD%98%E8%A9%A9%E6%9B%BC%E8%BF%8E51%E6%AD%B2%E7%94%9F%E6%97%A5%E4%BA%BA%E7%B7%A3%E6%A5%B5%E5%A5%BD-%E5%91%A8%E5%98%89%E6%B4%9B%E9%99%B3%E5%B1%B1%E8%81%B0%E7%AD%897%E5%A4%A7%E7%94%B7%E7%A5%9E%E7%8F%BE%E8%BA%AB%E8%AD%B7%E8%8A%B1",
-    "timestamp": "2026-05-22T15:48:32.941Z",
     "strategy": ".content-card__main"
   }
 ];
