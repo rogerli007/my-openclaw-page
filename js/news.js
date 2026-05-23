@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-23T03:30:11.533Z
+// Last updated: 2026-05-23T04:52:11.983Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "神舟二十三號｜中國太空站黑科技　「抽氣坐廁」九成尿液變飲用水",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260522/1134520563134369792280541.png/NEaJlZrEn-Z1X_H-NKpTdBf6tUWz89VHGZf1JhmX9SY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60352588/%E7%A5%9E%E8%88%9F%E4%BA%8C%E5%8D%81%E4%B8%89%E8%99%9F-%E4%B8%AD%E5%9C%8B%E5%A4%AA%E7%A9%BA%E7%AB%99%E9%BB%91%E7%A7%91%E6%8A%80-%E6%8A%BD%E6%B0%A3%E5%9D%90%E5%BB%81-%E4%B9%9D%E6%88%90%E5%B0%BF%E6%B6%B2%E8%AE%8A%E9%A3%B2%E7%94%A8%E6%B0%B4",
+    "timestamp": "2026-05-23T04:52:11.983Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "黎家盈太空人｜15歲受楊利偉啟發萌航天夢　自爆小學三年級險留班",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260522/1134524908072603648618327.jpeg/ADlhy4RCUGJBYmBwTjAy1CuAeJRLcdTll4zJ3ZeMyd0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60352621/bts%E9%A6%99%E6%B8%AF%E6%BC%94%E5%94%B1%E6%9C%832027-%E9%96%80%E7%A5%A8%E5%84%AA%E5%85%88%E8%A8%82%E7%A5%A8%E6%94%BB%E7%95%A5-%E7%99%BB%E9%99%B8%E5%95%9F%E5%BE%B7%E9%80%A3%E9%96%8B3%E5%A0%B4-799%E8%B5%B7",
     "timestamp": "2026-05-22T08:17:04.204Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "堅尼地城單位26歲男暈倒　母親揭發　惜送院不治",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260419/1122542595386380288260853.jpeg/6B48eX2jfV9b0svdYswUvG2S82wZcHPGp4jdj6eI3Y8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60352579/%E5%A0%85%E5%B0%BC%E5%9C%B0%E5%9F%8E%E5%96%AE%E4%BD%8D26%E6%AD%B2%E7%94%B7%E6%9A%88%E5%80%92-%E6%AF%8D%E8%A6%AA%E6%8F%AD%E7%99%BC-%E6%83%9C%E9%80%81%E9%99%A2%E4%B8%8D%E6%B2%BB",
-    "timestamp": "2026-05-22T06:57:41.450Z",
     "strategy": ".content-card__main"
   }
 ];
