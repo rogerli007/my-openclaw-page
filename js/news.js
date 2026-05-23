@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-23T04:52:11.983Z
+// Last updated: 2026-05-23T06:16:16.274Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "夾公仔機設「保夾」金額？　麥美娟：會諮詢　無意改獎品金額上限",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260504/1128062018755497984308215.jpeg/sYA0e08RZ1ZKaYNp0DINunnsoTrIcsQy1y4PZ80uD2c?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60352874/%E5%A4%BE%E5%85%AC%E4%BB%94%E6%A9%9F%E8%A8%AD-%E4%BF%9D%E5%A4%BE-%E9%87%91%E9%A1%8D-%E9%BA%A5%E7%BE%8E%E5%A8%9F-%E6%9C%83%E8%AB%AE%E8%A9%A2-%E7%84%A1%E6%84%8F%E6%94%B9%E7%8D%8E%E5%93%81%E9%87%91%E9%A1%8D%E4%B8%8A%E9%99%90",
+    "timestamp": "2026-05-23T06:16:16.274Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "神舟二十三號｜中國太空站黑科技　「抽氣坐廁」九成尿液變飲用水",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260522/1134549980548173824126784.jpeg/YKdMIzSJJbY1QCpfjAY7IyKdoYI98zmeFNtnExTbZxM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60352670/%E8%AD%89%E5%88%B8%E8%A1%8C%E6%B6%89%E9%9D%9E%E6%B3%95%E8%B7%A8%E5%A2%83%E5%B1%95%E6%A5%AD-%E6%97%BA%E5%8D%80%E6%8F%92%E6%97%97%E6%9C%88%E8%8A%B1%E7%99%BE%E8%90%AC%E9%96%8B%E5%B7%A8%E8%88%96-%E5%AF%8C%E9%80%94%E6%93%B4%E5%85%85%E6%9C%80%E7%A9%8D%E6%A5%B5",
     "timestamp": "2026-05-22T10:39:07.852Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "BTS香港演唱會2027｜門票優先訂票攻略+登陸啟德連開3場$799起",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260522/1134524908072603648618327.jpeg/ADlhy4RCUGJBYmBwTjAy1CuAeJRLcdTll4zJ3ZeMyd0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60352621/bts%E9%A6%99%E6%B8%AF%E6%BC%94%E5%94%B1%E6%9C%832027-%E9%96%80%E7%A5%A8%E5%84%AA%E5%85%88%E8%A8%82%E7%A5%A8%E6%94%BB%E7%95%A5-%E7%99%BB%E9%99%B8%E5%95%9F%E5%BE%B7%E9%80%A3%E9%96%8B3%E5%A0%B4-799%E8%B5%B7",
-    "timestamp": "2026-05-22T08:17:04.204Z",
     "strategy": ".content-card__main"
   }
 ];
