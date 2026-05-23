@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-23T07:17:31.247Z
+// Last updated: 2026-05-23T09:46:33.634Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "32年前弒母埋3屍　美國死囚毒針注射失敗　受盡折磨1小時後暫逃死",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260523/1134890321730080768367108.jpeg/sOfOA4CcTZS92w4MAARgwfIj9OQ7EtcnBsxhNgbMYTY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60352902/32%E5%B9%B4%E5%89%8D%E5%BC%92%E6%AF%8D%E5%9F%8B3%E5%B1%8D-%E7%BE%8E%E5%9C%8B%E6%AD%BB%E5%9B%9A%E6%AF%92%E9%87%9D%E6%B3%A8%E5%B0%84%E5%A4%B1%E6%95%97-%E5%8F%97%E7%9B%A1%E6%8A%98%E7%A3%A81%E5%B0%8F%E6%99%82%E5%BE%8C%E6%9A%AB%E9%80%83%E6%AD%BB",
+    "timestamp": "2026-05-23T09:46:33.634Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "減肥方法｜營養師自創免捱餓21分飽減肥法！3不原則養出易瘦體質",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260522/1134556898209566720413675.jpeg/Nd8QSwiTywnpgzLjEuu5WTtSF1uMsS_z7VoFju1aBY4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60352768/%E5%A4%AE%E8%A6%96%E8%BB%8D%E4%BA%8B-%E9%A6%99%E6%B8%AF%E8%88%AA%E5%A4%A9%E5%93%A1%E5%B0%87%E6%90%AD%E7%A5%9E%E8%88%9F%E4%BA%8C%E5%8D%81%E4%B8%89%E8%99%9F%E5%8D%87%E7%A9%BA-%E9%A3%9B%E8%A1%8C%E6%A8%99%E8%AD%98%E4%B8%AD%E5%90%AB%E7%B4%AB%E8%8D%8A%E8%8A%B1",
     "timestamp": "2026-05-22T13:42:11.209Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "狗隻進食肆｜哪款狗禁進入？拒鏟屎會罰錢？食環署最新指引一文看",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260522/1134584710882660352506842.jpeg/kjT4-W_C685rtj0mqr_Vic2wCdRIJB3BhK7bDJ6u2ww?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60352744/%E7%8B%97%E9%9A%BB%E9%80%B2%E9%A3%9F%E8%82%86-%E5%93%AA%E6%AC%BE%E7%8B%97%E7%A6%81%E9%80%B2%E5%85%A5-%E6%8B%92%E9%8F%9F%E5%B1%8E%E6%9C%83%E7%BD%B0%E9%8C%A2-%E9%A3%9F%E7%92%B0%E7%BD%B2%E6%9C%80%E6%96%B0%E6%8C%87%E5%BC%95%E4%B8%80%E6%96%87%E7%9C%8B",
-    "timestamp": "2026-05-22T12:39:27.248Z",
     "strategy": ".content-card__main"
   }
 ];
