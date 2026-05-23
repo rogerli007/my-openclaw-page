@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-23T01:20:17.179Z
+// Last updated: 2026-05-23T03:30:11.533Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "黎家盈太空人｜15歲受楊利偉啟發萌航天夢　自爆小學三年級險留班",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260523/1134808041976238080293501.png/XD4rq2ueLd7tWgcVL0ZdLzDjdHzj6mukuwpFArsKRQI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60352835/%E9%BB%8E%E5%AE%B6%E7%9B%88%E5%A4%AA%E7%A9%BA%E4%BA%BA-15%E6%AD%B2%E5%8F%97%E6%A5%8A%E5%88%A9%E5%81%89%E5%95%9F%E7%99%BC%E8%90%8C%E8%88%AA%E5%A4%A9%E5%A4%A2-%E8%87%AA%E7%88%86%E5%B0%8F%E5%AD%B8%E4%B8%89%E5%B9%B4%E7%B4%9A%E9%9A%AA%E7%95%99%E7%8F%AD",
+    "timestamp": "2026-05-23T03:30:11.533Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "搬出公屋2年！女子自行除名遭母反鎖咬傷　3警方合力將婦人制服",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260419/1122542595386380288260853.jpeg/6B48eX2jfV9b0svdYswUvG2S82wZcHPGp4jdj6eI3Y8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60352579/%E5%A0%85%E5%B0%BC%E5%9C%B0%E5%9F%8E%E5%96%AE%E4%BD%8D26%E6%AD%B2%E7%94%B7%E6%9A%88%E5%80%92-%E6%AF%8D%E8%A6%AA%E6%8F%AD%E7%99%BC-%E6%83%9C%E9%80%81%E9%99%A2%E4%B8%8D%E6%B2%BB",
     "timestamp": "2026-05-22T06:57:41.450Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "中環己連拿利吊臂車斜路溜前　撞毀8米欄及幼稚園外牆",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260522/1134486574667403264216479.jpeg/gTz04kkdWDOA2zWG_H1G6wWm3nJcHXZNZrpmfma6Zn4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60352546/%E4%B8%AD%E7%92%B0%E5%B7%B1%E9%80%A3%E6%8B%BF%E5%88%A9%E5%90%8A%E8%87%82%E8%BB%8A%E6%96%9C%E8%B7%AF%E6%BA%9C%E5%89%8D-%E6%92%9E%E6%AF%808%E7%B1%B3%E6%AC%84%E5%8F%8A%E5%B9%BC%E7%A8%9A%E5%9C%92%E5%A4%96%E7%89%86",
-    "timestamp": "2026-05-22T05:33:24.247Z",
     "strategy": ".content-card__main"
   }
 ];
