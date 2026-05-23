@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-23T22:10:17.182Z
+// Last updated: 2026-05-23T23:11:08.518Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "01消息｜平台工工傷保障擬看齊勞保　病假補償按每月收入4/5計算",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250310/975838401771212800819254.jpeg/-kvO3sXohHNW9VOsz6b_d_TiaYcndTG-gMKmG5rCphs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60352960/01%E6%B6%88%E6%81%AF-%E5%B9%B3%E5%8F%B0%E5%B7%A5%E5%B7%A5%E5%82%B7%E4%BF%9D%E9%9A%9C%E6%93%AC%E7%9C%8B%E9%BD%8A%E5%8B%9E%E4%BF%9D-%E7%97%85%E5%81%87%E8%A3%9C%E5%84%9F%E6%8C%89%E6%AF%8F%E6%9C%88%E6%94%B6%E5%85%A54-5%E8%A8%88%E7%AE%97",
+    "timestamp": "2026-05-23T23:11:08.518Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "車Cam｜大圍私家車疑衝燈轉彎　和直駛的士相撞　3人受傷送院",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260522/1134520563134369792280541.png/NEaJlZrEn-Z1X_H-NKpTdBf6tUWz89VHGZf1JhmX9SY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60352588/%E7%A5%9E%E8%88%9F%E4%BA%8C%E5%8D%81%E4%B8%89%E8%99%9F-%E4%B8%AD%E5%9C%8B%E5%A4%AA%E7%A9%BA%E7%AB%99%E9%BB%91%E7%A7%91%E6%8A%80-%E6%8A%BD%E6%B0%A3%E5%9D%90%E5%BB%81-%E4%B9%9D%E6%88%90%E5%B0%BF%E6%B6%B2%E8%AE%8A%E9%A3%B2%E7%94%A8%E6%B0%B4",
     "timestamp": "2026-05-23T04:52:11.983Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "黎家盈太空人｜15歲受楊利偉啟發萌航天夢　自爆小學三年級險留班",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260523/1134808041976238080293501.png/XD4rq2ueLd7tWgcVL0ZdLzDjdHzj6mukuwpFArsKRQI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60352835/%E9%BB%8E%E5%AE%B6%E7%9B%88%E5%A4%AA%E7%A9%BA%E4%BA%BA-15%E6%AD%B2%E5%8F%97%E6%A5%8A%E5%88%A9%E5%81%89%E5%95%9F%E7%99%BC%E8%90%8C%E8%88%AA%E5%A4%A9%E5%A4%A2-%E8%87%AA%E7%88%86%E5%B0%8F%E5%AD%B8%E4%B8%89%E5%B9%B4%E7%B4%9A%E9%9A%AA%E7%95%99%E7%8F%AD",
-    "timestamp": "2026-05-23T03:30:11.533Z",
     "strategy": ".content-card__main"
   }
 ];
