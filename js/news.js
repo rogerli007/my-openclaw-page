@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-23T15:13:57.610Z
+// Last updated: 2026-05-23T16:41:05.075Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "山西煤礦爆炸82死　胡錫進：2009年以來最嚴重礦難，敲響新的警鐘",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260523/1134888926465626112502873.jpeg/IaSkSfKUV_tMOsYXBab5c0cwLtHZ1esPGx2WIBsdliA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60352982/%E5%B1%B1%E8%A5%BF%E7%85%A4%E7%A4%A6%E7%88%86%E7%82%B882%E6%AD%BB-%E8%83%A1%E9%8C%AB%E9%80%B2-2009%E5%B9%B4%E4%BB%A5%E4%BE%86%E6%9C%80%E5%9A%B4%E9%87%8D%E7%A4%A6%E9%9B%A3-%E6%95%B2%E9%9F%BF%E6%96%B0%E7%9A%84%E8%AD%A6%E9%90%98",
+    "timestamp": "2026-05-23T16:41:05.075Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "山西煤礦爆炸82死　普京表示深切慰問　高市早苗發文稱悲痛",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260523/1134701142131871744534890.jpeg/89guT9sr3X7kfd7-M9U8j-AGsP0GKRJhEWOXeRFjl3k?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60352800/%E6%99%AE%E4%BA%AC%E6%8C%87%E8%B2%AC%E7%83%8F%E8%BB%8D%E8%A5%B2%E6%93%8A%E7%9B%A7%E7%94%98%E6%96%AF%E5%85%8B%E4%B8%80%E5%AD%B8%E7%94%9F%E5%AE%BF%E8%88%8D%E8%87%B46%E6%AD%BB-%E7%83%8F%E6%96%B9%E5%90%A6%E8%AA%8D%E6%8C%87%E6%8E%A7",
     "timestamp": "2026-05-22T20:27:50.025Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "紅色暴雨｜新界北區8宗水浸　渠務署「龍吸水」兩三小時完成處理",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260523/1134688245548847104670835.jpeg/xmjste-G2PQ6rdj5MEPHSpwfftAepjoayoA-OcqAPjk?v=w1920r16_9",
-    "url": "https://www.hk01.com/18%E5%8D%80%E6%96%B0%E8%81%9E/60352799/%E7%B4%85%E8%89%B2%E6%9A%B4%E9%9B%A8-%E6%96%B0%E7%95%8C%E5%8C%97%E5%8D%808%E5%AE%97%E6%B0%B4%E6%B5%B8-%E6%B8%A0%E5%8B%99%E7%BD%B2-%E9%BE%8D%E5%90%B8%E6%B0%B4-%E5%85%A9%E4%B8%89%E5%B0%8F%E6%99%82%E5%AE%8C%E6%88%90%E8%99%95%E7%90%86",
-    "timestamp": "2026-05-22T19:42:18.715Z",
     "strategy": ".content-card__main"
   }
 ];
