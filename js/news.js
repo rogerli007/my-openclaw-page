@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-23T18:12:21.403Z
+// Last updated: 2026-05-23T18:42:04.054Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "孟加拉國現數十年來最嚴峻麻疹疫情之一　至少86名兒童死亡",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260524/1135039453388083200465872.jpeg/w_r479lG21cPFMx9JihkjuF2hMaON19oymNckcpjXJE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60352988/%E5%AD%9F%E5%8A%A0%E6%8B%89%E5%9C%8B%E7%8F%BE%E6%95%B8%E5%8D%81%E5%B9%B4%E4%BE%86%E6%9C%80%E5%9A%B4%E5%B3%BB%E9%BA%BB%E7%96%B9%E7%96%AB%E6%83%85%E4%B9%8B%E4%B8%80-%E8%87%B3%E5%B0%9186%E5%90%8D%E5%85%92%E7%AB%A5%E6%AD%BB%E4%BA%A1",
+    "timestamp": "2026-05-23T18:42:04.054Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美媒：特朗普或周日決定是否重啟伊朗戰爭　達協議或開戰機率各半",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260523/1134760773768187904967580.jpeg/AZ-K3YOjulERCoi71UK9ain60VrSs1H68ErnIfBK5yE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60352808/%E5%9C%8B%E6%B3%B0%E6%BE%B3%E6%B4%B2%E6%8A%B5%E6%B8%AF%E5%AE%A2%E6%A9%9F%E7%96%91%E9%81%87%E6%B0%A3%E6%B5%81-%E8%87%B3%E5%B0%918%E5%90%8D%E4%B9%98%E5%AE%A2%E5%8F%8A%E6%A9%9F%E7%B5%84%E4%BA%BA%E5%93%A1%E5%8F%97%E5%82%B7",
     "timestamp": "2026-05-22T23:44:35.666Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "大角咀2私家車相撞　55歲女司機「吹爆波」涉醉駕被捕",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260523/1134744126856630272975021.jpeg/FBxLBtpgMthBL5Jy7G7OBXHq5mrXayN9U5o3LlOaNy4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60352805/%E5%A4%A7%E8%A7%92%E5%92%802%E7%A7%81%E5%AE%B6%E8%BB%8A%E7%9B%B8%E6%92%9E-55%E6%AD%B2%E5%A5%B3%E5%8F%B8%E6%A9%9F-%E5%90%B9%E7%88%86%E6%B3%A2-%E6%B6%89%E9%86%89%E9%A7%95%E8%A2%AB%E6%8D%95",
-    "timestamp": "2026-05-22T22:41:36.803Z",
     "strategy": ".content-card__main"
   }
 ];
