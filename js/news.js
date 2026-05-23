@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-23T17:14:25.443Z
+// Last updated: 2026-05-23T17:42:10.733Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "西灣河2男持棍扑頭逃走　男傷者送院　現場遺下斷棍和染血鴨舌帽",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260524/1135019797965180928310924.jpeg/UJkJiaKxU7vv2Xu02diz9b9hTfeSvE7XxbueC_-7ngs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60352984/%E8%A5%BF%E7%81%A3%E6%B2%B32%E7%94%B7%E6%8C%81%E6%A3%8D%E6%89%91%E9%A0%AD%E9%80%83%E8%B5%B0-%E7%94%B7%E5%82%B7%E8%80%85%E9%80%81%E9%99%A2-%E7%8F%BE%E5%A0%B4%E9%81%BA%E4%B8%8B%E6%96%B7%E6%A3%8D%E5%92%8C%E6%9F%93%E8%A1%80%E9%B4%A8%E8%88%8C%E5%B8%BD",
+    "timestamp": "2026-05-23T17:42:10.733Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "西灣河2男持棍扑頭逃走　男傷者送院　現場遺下斷棍和染血鴨舌帽",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260504/1127943329724502016827490.jpeg/qeZxAqxaTNqSdVdktWHnj_0j9mjbhb-n8HqDavB6g2o?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60352803/%E4%BC%8A%E6%9C%97%E7%A8%B1%E8%88%87%E7%BE%8E%E4%BB%8D%E5%B0%B1%E7%88%AD%E8%AD%B0%E4%BA%8B%E9%A0%85%E5%AD%98%E9%87%8D%E5%A4%A7%E5%88%86%E6%AD%A7-%E7%84%A1%E6%B3%95%E6%96%B7%E8%A8%80%E9%9B%99%E6%96%B9%E5%B7%B2%E6%8E%A5%E8%BF%91%E9%81%94%E6%88%90%E5%8D%94%E8%AD%B0",
     "timestamp": "2026-05-22T22:15:45.092Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "伊朗稱與美仍就爭議事項存重大分歧　無法斷言雙方已接近達成協議",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260504/1127943329724502016827490.jpeg/qeZxAqxaTNqSdVdktWHnj_0j9mjbhb-n8HqDavB6g2o?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60352803/%E4%BC%8A%E6%9C%97%E7%A8%B1%E8%88%87%E7%BE%8E%E4%BB%8D%E5%B0%B1%E7%88%AD%E8%AD%B0%E4%BA%8B%E9%A0%85%E5%AD%98%E9%87%8D%E5%A4%A7%E5%88%86%E6%AD%A7-%E7%84%A1%E6%B3%95%E6%96%B7%E8%A8%80%E9%9B%99%E6%96%B9%E5%B7%B2%E6%8E%A5%E8%BF%91%E9%81%94%E6%88%90%E5%8D%94%E8%AD%B0",
-    "timestamp": "2026-05-22T21:38:02.576Z",
     "strategy": ".content-card__main"
   }
 ];
