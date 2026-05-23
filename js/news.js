@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-23T17:42:10.733Z
+// Last updated: 2026-05-23T18:12:21.403Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美媒：特朗普或周日決定是否重啟伊朗戰爭　達協議或開戰機率各半",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260522/1134441482996944896805423.jpeg/5Ka0blPVTVT_JFxbPJyj-I_P6DMEpbVmTUvScU1L0nE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60352983/%E7%BE%8E%E5%AA%92-%E7%89%B9%E6%9C%97%E6%99%AE%E6%88%96%E5%91%A8%E6%97%A5%E6%B1%BA%E5%AE%9A%E6%98%AF%E5%90%A6%E9%87%8D%E5%95%9F%E4%BC%8A%E6%9C%97%E6%88%B0%E7%88%AD-%E9%81%94%E5%8D%94%E8%AD%B0%E6%88%96%E9%96%8B%E6%88%B0%E6%A9%9F%E7%8E%87%E5%90%84%E5%8D%8A",
+    "timestamp": "2026-05-23T18:12:21.403Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "西灣河2男持棍扑頭逃走　男傷者送院　現場遺下斷棍和染血鴨舌帽",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260523/1134744126856630272975021.jpeg/FBxLBtpgMthBL5Jy7G7OBXHq5mrXayN9U5o3LlOaNy4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60352805/%E5%A4%A7%E8%A7%92%E5%92%802%E7%A7%81%E5%AE%B6%E8%BB%8A%E7%9B%B8%E6%92%9E-55%E6%AD%B2%E5%A5%B3%E5%8F%B8%E6%A9%9F-%E5%90%B9%E7%88%86%E6%B3%A2-%E6%B6%89%E9%86%89%E9%A7%95%E8%A2%AB%E6%8D%95",
     "timestamp": "2026-05-22T22:41:36.803Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "伊朗稱與美仍就爭議事項存重大分歧　無法斷言雙方已接近達成協議",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260504/1127943329724502016827490.jpeg/qeZxAqxaTNqSdVdktWHnj_0j9mjbhb-n8HqDavB6g2o?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60352803/%E4%BC%8A%E6%9C%97%E7%A8%B1%E8%88%87%E7%BE%8E%E4%BB%8D%E5%B0%B1%E7%88%AD%E8%AD%B0%E4%BA%8B%E9%A0%85%E5%AD%98%E9%87%8D%E5%A4%A7%E5%88%86%E6%AD%A7-%E7%84%A1%E6%B3%95%E6%96%B7%E8%A8%80%E9%9B%99%E6%96%B9%E5%B7%B2%E6%8E%A5%E8%BF%91%E9%81%94%E6%88%90%E5%8D%94%E8%AD%B0",
-    "timestamp": "2026-05-22T22:15:45.092Z",
     "strategy": ".content-card__main"
   }
 ];
