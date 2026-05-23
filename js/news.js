@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-23T18:42:04.054Z
+// Last updated: 2026-05-23T21:10:47.938Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "塞爾維亞首都爆發大規模反政府示威　抗議者促提前國會選舉",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260524/1135077726596632576763920.jpeg/ut0KknQ9NVzwMijTc2GEiykjqo5XkNFKYz997WM_fe0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60352992/%E5%A1%9E%E7%88%BE%E7%B6%AD%E4%BA%9E%E9%A6%96%E9%83%BD%E7%88%86%E7%99%BC%E5%A4%A7%E8%A6%8F%E6%A8%A1%E5%8F%8D%E6%94%BF%E5%BA%9C%E7%A4%BA%E5%A8%81-%E6%8A%97%E8%AD%B0%E8%80%85%E4%BF%83%E6%8F%90%E5%89%8D%E5%9C%8B%E6%9C%83%E9%81%B8%E8%88%89",
+    "timestamp": "2026-05-23T21:10:47.938Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "孟加拉國現數十年來最嚴峻麻疹疫情之一　至少86名兒童死亡",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260523/1134766139717455872364827.jpeg/P_EtUL8WiOztkA29Ae7W7m4uGcFAhvA4NUmbnDVJm5w?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60352811/%E5%B1%B1%E8%A5%BF%E6%B2%81%E6%BA%90%E7%85%A4%E7%A4%A6%E7%88%86%E7%82%B8%E5%B7%B2%E8%87%B48%E4%BA%BA%E6%AD%BB%E4%BA%A1-%E4%BA%95%E4%B8%8B38%E4%BA%BA%E4%BB%8D%E8%A2%AB%E5%9B%B0",
     "timestamp": "2026-05-23T00:14:47.929Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "國泰澳洲抵港客機疑遇氣流　至少8名乘客及機組人員受傷",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260523/1134760773768187904967580.jpeg/AZ-K3YOjulERCoi71UK9ain60VrSs1H68ErnIfBK5yE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60352808/%E5%9C%8B%E6%B3%B0%E6%BE%B3%E6%B4%B2%E6%8A%B5%E6%B8%AF%E5%AE%A2%E6%A9%9F%E7%96%91%E9%81%87%E6%B0%A3%E6%B5%81-%E8%87%B3%E5%B0%918%E5%90%8D%E4%B9%98%E5%AE%A2%E5%8F%8A%E6%A9%9F%E7%B5%84%E4%BA%BA%E5%93%A1%E5%8F%97%E5%82%B7",
-    "timestamp": "2026-05-22T23:44:35.666Z",
     "strategy": ".content-card__main"
   }
 ];
