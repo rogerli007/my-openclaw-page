@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-23T12:11:00.859Z
+// Last updated: 2026-05-23T12:42:49.422Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "石修新抱林佑蔚泳衣Top谷盡事業線　停車場內火辣狂扭挑戰辣妹",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260523/1134887294403088384917452.png/fqomQdF8VOzszqxSCDMI-irC7Ym2-FX5Q0O3G0NDtxs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60352896/%E7%9F%B3%E4%BF%AE%E6%96%B0%E6%8A%B1%E6%9E%97%E4%BD%91%E8%94%9A%E6%B3%B3%E8%A1%A3top%E8%B0%B7%E7%9B%A1%E4%BA%8B%E6%A5%AD%E7%B7%9A-%E5%81%9C%E8%BB%8A%E5%A0%B4%E5%85%A7%E7%81%AB%E8%BE%A3%E7%8B%82%E6%89%AD%E6%8C%91%E6%88%B0%E8%BE%A3%E5%A6%B9",
+    "timestamp": "2026-05-23T12:42:49.422Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "青衣公屋升降機驚現大床褥！保安︰有人話擺住先　違者再犯扣7分",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20240710/887734315692068864365890.jpeg/ozPeqhfMRg4ZjWucEHxtZCX8K__WYy8abFOk_mxTpP4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60352793/%E6%AD%90%E7%9B%9F%E7%BF%BB%E7%82%92%E7%94%A2%E8%83%BD%E9%81%8E%E5%89%A9%E6%8C%87%E6%8E%A7%E7%AD%89%E8%88%89%E5%8B%95%E6%BF%80%E6%80%92%E4%B8%AD%E5%9C%8B-%E4%B8%AD%E6%AD%90%E7%B6%93%E8%B2%BF%E6%91%A9%E6%93%A6%E5%8A%A0%E5%8A%87",
     "timestamp": "2026-05-22T17:29:07.044Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "直擊Lines of EVANGELION EVA香港展｜詳睇香港打卡位及限定周邊",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260522/1134589802616721408681734.jpeg/ArTYi5FdTehSfH1b0ih15lajU_Z9765eIzxh9iM8YfY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60352729/%E7%9B%B4%E6%93%8Alines-of-evangelion-eva%E9%A6%99%E6%B8%AF%E5%B1%95-%E8%A9%B3%E7%9D%87%E9%A6%99%E6%B8%AF%E6%89%93%E5%8D%A1%E4%BD%8D%E5%8F%8A%E9%99%90%E5%AE%9A%E5%91%A8%E9%82%8A",
-    "timestamp": "2026-05-22T16:42:58.043Z",
     "strategy": ".content-card__main"
   }
 ];
