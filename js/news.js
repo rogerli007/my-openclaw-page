@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-22T23:44:35.666Z
+// Last updated: 2026-05-23T00:14:47.929Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "山西沁源煤礦爆炸已致8人死亡　井下38人仍被困",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260523/1134766139717455872364827.jpeg/P_EtUL8WiOztkA29Ae7W7m4uGcFAhvA4NUmbnDVJm5w?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60352811/%E5%B1%B1%E8%A5%BF%E6%B2%81%E6%BA%90%E7%85%A4%E7%A4%A6%E7%88%86%E7%82%B8%E5%B7%B2%E8%87%B48%E4%BA%BA%E6%AD%BB%E4%BA%A1-%E4%BA%95%E4%B8%8B38%E4%BA%BA%E4%BB%8D%E8%A2%AB%E5%9B%B0",
+    "timestamp": "2026-05-23T00:14:47.929Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "國泰澳洲抵港客機疑遇氣流　至少8名乘客及機組人員受傷",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260519/1133501255520620544148906.jpeg/LqwgeUpwALNRcjvez6MgQWfjdkfWVncUJOq4OCTquDg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60352452/%E4%BC%8A%E6%B3%A2%E6%8B%89%E7%97%85%E6%AF%92-%E5%B0%88%E5%AE%B6%E6%8C%87%E4%BE%9D%E8%B3%B4%E6%97%85%E5%AE%A2%E4%B8%BB%E5%8B%95%E7%94%B3%E5%A0%B1%E9%9D%9E%E7%99%BE%E5%88%86%E7%99%BE%E5%8F%AF%E9%9D%A0-%E5%80%A1%E4%B8%BB%E5%8B%95%E7%9B%A3%E5%AF%9F",
     "timestamp": "2026-05-22T02:29:27.944Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "普京訪華之際　烏克蘭已靜悄悄扭轉戰局？｜Jack Talk．去片",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260521/1134151075155152896932470.jpeg/j7RN55vFoNYgZ6gKud2WBtrqGL6I9P7ViS8_eIkvP3g?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%9C%8B%E9%9A%9B%E5%88%86%E6%9E%90/60352142/%E6%99%AE%E4%BA%AC%E8%A8%AA%E8%8F%AF%E4%B9%8B%E9%9A%9B-%E7%83%8F%E5%85%8B%E8%98%AD%E5%B7%B2%E9%9D%9C%E6%82%84%E6%82%84%E6%89%AD%E8%BD%89%E6%88%B0%E5%B1%80-jack-talk-%E5%8E%BB%E7%89%87",
-    "timestamp": "2026-05-21T23:42:09.727Z",
     "strategy": ".content-card__main"
   }
 ];
