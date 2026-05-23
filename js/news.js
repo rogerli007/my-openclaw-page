@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-23T14:43:51.576Z
+// Last updated: 2026-05-23T15:13:57.610Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "山西煤礦爆炸82死　普京表示深切慰問　高市早苗發文稱悲痛",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20251010/1053453756319928320916845.jpeg/QXODs-IV-jQN3jcGGGK_xWKHL4c-DzdBd_xld3f8ZXc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60352976/%E5%B1%B1%E8%A5%BF%E7%85%A4%E7%A4%A6%E7%88%86%E7%82%B882%E6%AD%BB-%E6%99%AE%E4%BA%AC%E8%A1%A8%E7%A4%BA%E6%B7%B1%E5%88%87%E6%85%B0%E5%95%8F-%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E7%99%BC%E6%96%87%E7%A8%B1%E6%82%B2%E7%97%9B",
+    "timestamp": "2026-05-23T15:13:57.610Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美國南加州化工儲罐泄漏毒氣恐爆炸　緊急疏散近4萬居民",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260523/1134688245548847104670835.jpeg/xmjste-G2PQ6rdj5MEPHSpwfftAepjoayoA-OcqAPjk?v=w1920r16_9",
     "url": "https://www.hk01.com/18%E5%8D%80%E6%96%B0%E8%81%9E/60352799/%E7%B4%85%E8%89%B2%E6%9A%B4%E9%9B%A8-%E6%96%B0%E7%95%8C%E5%8C%97%E5%8D%808%E5%AE%97%E6%B0%B4%E6%B5%B8-%E6%B8%A0%E5%8B%99%E7%BD%B2-%E9%BE%8D%E5%90%B8%E6%B0%B4-%E5%85%A9%E4%B8%89%E5%B0%8F%E6%99%82%E5%AE%8C%E6%88%90%E8%99%95%E7%90%86",
     "timestamp": "2026-05-22T19:42:18.715Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "二號客運大樓啟用｜HK Express 6月10日4:00遷入　先進設施增運力",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260523/1134664902040883200815437.jpeg/fnorZTl1HVj6N4o4xuKD4FYtYj7Bp5IjoZ-uhKGfroQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60352797/%E4%BA%8C%E8%99%9F%E5%AE%A2%E9%81%8B%E5%A4%A7%E6%A8%93%E5%95%9F%E7%94%A8-hk-express-6%E6%9C%8810%E6%97%A54-00%E9%81%B7%E5%85%A5-%E5%85%88%E9%80%B2%E8%A8%AD%E6%96%BD%E5%A2%9E%E9%81%8B%E5%8A%9B",
-    "timestamp": "2026-05-22T19:00:36.484Z",
     "strategy": ".content-card__main"
   }
 ];
