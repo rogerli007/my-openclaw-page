@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-24T21:45:56.924Z
+// Last updated: 2026-05-24T22:41:32.497Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "天氣｜今日部份時間有陽光　日間炎熱約32度　未來數日酷熱達33度",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260525/1135463803048431616874503.jpeg/sV6LjrX3S8nOGol7rPDsUnmMmK2dDyWOM5wFUzOcBVM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60353175/%E5%A4%A9%E6%B0%A3-%E4%BB%8A%E6%97%A5%E9%83%A8%E4%BB%BD%E6%99%82%E9%96%93%E6%9C%89%E9%99%BD%E5%85%89-%E6%97%A5%E9%96%93%E7%82%8E%E7%86%B1%E7%B4%8432%E5%BA%A6-%E6%9C%AA%E4%BE%86%E6%95%B8%E6%97%A5%E9%85%B7%E7%86%B1%E9%81%9433%E5%BA%A6",
+    "timestamp": "2026-05-24T22:41:32.497Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "魯比奧：美伊協議草案獲多國支持　但核談判需時無法迅速解決",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260524/1135226942769860608714305.jpeg/Fvgpoz4d-HFUB5S6g6zw_Puhm4vQWCAadA7LpE4Oy6Q?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60353056/%E6%A5%8A%E6%80%9D%E7%90%A6%E6%89%BF%E8%AA%8D%E8%A2%AB%E6%AC%BA%E5%87%8C-%E7%A8%B1%E6%94%9E%E9%81%8E%E7%8D%8E%E5%90%A6%E8%AA%8D%E6%88%B2%E5%B1%8E%E6%88%96%E6%9C%89%E5%95%8F%E9%A1%8C%E8%A2%AB%E8%9D%A6-%E9%AB%98%E5%B1%A4%E5%94%94%E4%BF%82%E7%9B%B2",
     "timestamp": "2026-05-24T06:49:30.267Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "直播｜長洲太平清醮飄色巡遊下午出場　20台飄色諷刺圍標及油價高",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250505/996190266497437696926037.jpeg/cS4ciaXBw8rUTP3srNdnXCOcx2BFVNwd9koqiOxKKog",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60352975/%E7%9B%B4%E6%92%AD-%E9%95%B7%E6%B4%B2%E5%A4%AA%E5%B9%B3%E6%B8%85%E9%86%AE%E9%A3%84%E8%89%B2%E5%B7%A1%E9%81%8A%E4%B8%8B%E5%8D%88%E5%87%BA%E5%A0%B4-20%E5%8F%B0%E9%A3%84%E8%89%B2%E8%AB%B7%E5%88%BA%E5%9C%8D%E6%A8%99%E5%8F%8A%E6%B2%B9%E5%83%B9%E9%AB%98",
-    "timestamp": "2026-05-24T05:30:33.917Z",
     "strategy": ".content-card__main"
   }
 ];
