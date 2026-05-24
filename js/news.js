@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-24T15:46:59.848Z
+// Last updated: 2026-05-24T16:14:50.026Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "內塔尼亞胡：特朗普對伊朗立場不變　確認以色列在黎巴嫩有自衛權",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260407/1118132452158607360096748.jpeg/XEgdVSHrhKAn2IjNizddqLZ99SaJep7jenhH4Hp4R-A?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60353166/%E5%85%A7%E5%A1%94%E5%B0%BC%E4%BA%9E%E8%83%A1-%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%8D%E4%BC%8A%E6%9C%97%E7%AB%8B%E5%A0%B4%E4%B8%8D%E8%AE%8A-%E7%A2%BA%E8%AA%8D%E4%BB%A5%E8%89%B2%E5%88%97%E5%9C%A8%E9%BB%8E%E5%B7%B4%E5%AB%A9%E6%9C%89%E8%87%AA%E8%A1%9B%E6%AC%8A",
+    "timestamp": "2026-05-24T16:14:50.026Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "錦上路狗場逾10隻狗困籠淋雨　畜養人未改善　漁護署檢走看管調查",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260524/1135077726596632576763920.jpeg/ut0KknQ9NVzwMijTc2GEiykjqo5XkNFKYz997WM_fe0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60352992/%E5%A1%9E%E7%88%BE%E7%B6%AD%E4%BA%9E%E9%A6%96%E9%83%BD%E7%88%86%E7%99%BC%E5%A4%A7%E8%A6%8F%E6%A8%A1%E5%8F%8D%E6%94%BF%E5%BA%9C%E7%A4%BA%E5%A8%81-%E6%8A%97%E8%AD%B0%E8%80%85%E4%BF%83%E6%8F%90%E5%89%8D%E5%9C%8B%E6%9C%83%E9%81%B8%E8%88%89",
     "timestamp": "2026-05-23T21:10:47.938Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "孟加拉國現數十年來最嚴峻麻疹疫情之一　至少86名兒童死亡",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260524/1135039453388083200465872.jpeg/w_r479lG21cPFMx9JihkjuF2hMaON19oymNckcpjXJE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60352988/%E5%AD%9F%E5%8A%A0%E6%8B%89%E5%9C%8B%E7%8F%BE%E6%95%B8%E5%8D%81%E5%B9%B4%E4%BE%86%E6%9C%80%E5%9A%B4%E5%B3%BB%E9%BA%BB%E7%96%B9%E7%96%AB%E6%83%85%E4%B9%8B%E4%B8%80-%E8%87%B3%E5%B0%9186%E5%90%8D%E5%85%92%E7%AB%A5%E6%AD%BB%E4%BA%A1",
-    "timestamp": "2026-05-23T18:42:04.054Z",
     "strategy": ".content-card__main"
   }
 ];
