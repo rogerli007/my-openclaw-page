@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-23T23:11:08.518Z
+// Last updated: 2026-05-24T00:12:06.883Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美光CEO：內存短缺或持續至今年後　新產能2028年才能大規模釋放",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20251017/1055909688018735104964173.jpeg/3phQJB8uCJFfMvbYPTK23bVQXfywO_9iqFMHbahTB20?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60353002/%E7%BE%8E%E5%85%89ceo-%E5%85%A7%E5%AD%98%E7%9F%AD%E7%BC%BA%E6%88%96%E6%8C%81%E7%BA%8C%E8%87%B3%E4%BB%8A%E5%B9%B4%E5%BE%8C-%E6%96%B0%E7%94%A2%E8%83%BD2028%E5%B9%B4%E6%89%8D%E8%83%BD%E5%A4%A7%E8%A6%8F%E6%A8%A1%E9%87%8B%E6%94%BE",
+    "timestamp": "2026-05-24T00:12:06.883Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "01消息｜平台工工傷保障擬看齊勞保　病假補償按每月收入4/5計算",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260504/1128062018755497984308215.jpeg/sYA0e08RZ1ZKaYNp0DINunnsoTrIcsQy1y4PZ80uD2c?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60352874/%E5%A4%BE%E5%85%AC%E4%BB%94%E6%A9%9F%E8%A8%AD-%E4%BF%9D%E5%A4%BE-%E9%87%91%E9%A1%8D-%E9%BA%A5%E7%BE%8E%E5%A8%9F-%E6%9C%83%E8%AB%AE%E8%A9%A2-%E7%84%A1%E6%84%8F%E6%94%B9%E7%8D%8E%E5%93%81%E9%87%91%E9%A1%8D%E4%B8%8A%E9%99%90",
     "timestamp": "2026-05-23T06:16:16.274Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "神舟二十三號｜中國太空站黑科技　「抽氣坐廁」九成尿液變飲用水",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260522/1134520563134369792280541.png/NEaJlZrEn-Z1X_H-NKpTdBf6tUWz89VHGZf1JhmX9SY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60352588/%E7%A5%9E%E8%88%9F%E4%BA%8C%E5%8D%81%E4%B8%89%E8%99%9F-%E4%B8%AD%E5%9C%8B%E5%A4%AA%E7%A9%BA%E7%AB%99%E9%BB%91%E7%A7%91%E6%8A%80-%E6%8A%BD%E6%B0%A3%E5%9D%90%E5%BB%81-%E4%B9%9D%E6%88%90%E5%B0%BF%E6%B6%B2%E8%AE%8A%E9%A3%B2%E7%94%A8%E6%B0%B4",
-    "timestamp": "2026-05-23T04:52:11.983Z",
     "strategy": ".content-card__main"
   }
 ];
