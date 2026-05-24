@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-24T13:59:54.376Z
+// Last updated: 2026-05-24T14:41:30.554Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "英超煞科︱沙拿羅拔臣利物浦終極戰獲正選　哥迪奧拿曼城最後一仗",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260524/1135341463979167744478936.jpeg/3flmOEcS2xv_QYzPNJtzoluI8Y2B6qX4y-9posvvaaI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60353151/%E8%8B%B1%E8%B6%85%E7%85%9E%E7%A7%91-%E6%B2%99%E6%8B%BF%E7%BE%85%E6%8B%94%E8%87%A3%E5%88%A9%E7%89%A9%E6%B5%A6%E7%B5%82%E6%A5%B5%E6%88%B0%E7%8D%B2%E6%AD%A3%E9%81%B8-%E5%93%A5%E8%BF%AA%E5%A5%A7%E6%8B%BF%E6%9B%BC%E5%9F%8E%E6%9C%80%E5%BE%8C%E4%B8%80%E4%BB%97",
+    "timestamp": "2026-05-24T14:41:30.554Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "王祖藍聞撞樣邊佑錫回應「啲人咁早老花？」　爆遭妻女嫌中年發福",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260524/1135019797965180928310924.jpeg/UJkJiaKxU7vv2Xu02diz9b9hTfeSvE7XxbueC_-7ngs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60352984/%E8%A5%BF%E7%81%A3%E6%B2%B32%E7%94%B7%E6%8C%81%E6%A3%8D%E6%89%91%E9%A0%AD%E9%80%83%E8%B5%B0-%E7%94%B7%E5%82%B7%E8%80%85%E9%80%81%E9%99%A2-%E7%8F%BE%E5%A0%B4%E9%81%BA%E4%B8%8B%E6%96%B7%E6%A3%8D%E5%92%8C%E6%9F%93%E8%A1%80%E9%B4%A8%E8%88%8C%E5%B8%BD",
     "timestamp": "2026-05-23T17:42:10.733Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "西灣河2男持棍扑頭逃走　男傷者送院　現場遺下斷棍和染血鴨舌帽",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260524/1135019797965180928310924.jpeg/UJkJiaKxU7vv2Xu02diz9b9hTfeSvE7XxbueC_-7ngs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60352984/%E8%A5%BF%E7%81%A3%E6%B2%B32%E7%94%B7%E6%8C%81%E6%A3%8D%E6%89%91%E9%A0%AD%E9%80%83%E8%B5%B0-%E7%94%B7%E5%82%B7%E8%80%85%E9%80%81%E9%99%A2-%E7%8F%BE%E5%A0%B4%E9%81%BA%E4%B8%8B%E6%96%B7%E6%A3%8D%E5%92%8C%E6%9F%93%E8%A1%80%E9%B4%A8%E8%88%8C%E5%B8%BD",
-    "timestamp": "2026-05-23T17:14:25.443Z",
     "strategy": ".content-card__main"
   }
 ];
