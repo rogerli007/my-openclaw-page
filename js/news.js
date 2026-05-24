@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-24T15:15:06.149Z
+// Last updated: 2026-05-24T15:46:59.848Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "錦上路狗場逾10隻狗困籠淋雨　畜養人未改善　漁護署檢走看管調查",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260524/1135357092102672384973826.jpeg/mGb3-YEmuRCQpXCSwrV5zpaVl9v3oxGq-Fg5AvhYOQI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60353158/%E9%8C%A6%E4%B8%8A%E8%B7%AF%E7%8B%97%E5%A0%B4%E9%80%BE10%E9%9A%BB%E7%8B%97%E5%9B%B0%E7%B1%A0%E6%B7%8B%E9%9B%A8-%E7%95%9C%E9%A4%8A%E4%BA%BA%E6%9C%AA%E6%94%B9%E5%96%84-%E6%BC%81%E8%AD%B7%E7%BD%B2%E6%AA%A2%E8%B5%B0%E7%9C%8B%E7%AE%A1%E8%AA%BF%E6%9F%A5",
+    "timestamp": "2026-05-24T15:46:59.848Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "中年好聲音4｜黃日華驚喜客串唱《忘不了您》　肥媽冧爆狂派飛吻",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260524/1135039453388083200465872.jpeg/w_r479lG21cPFMx9JihkjuF2hMaON19oymNckcpjXJE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60352988/%E5%AD%9F%E5%8A%A0%E6%8B%89%E5%9C%8B%E7%8F%BE%E6%95%B8%E5%8D%81%E5%B9%B4%E4%BE%86%E6%9C%80%E5%9A%B4%E5%B3%BB%E9%BA%BB%E7%96%B9%E7%96%AB%E6%83%85%E4%B9%8B%E4%B8%80-%E8%87%B3%E5%B0%9186%E5%90%8D%E5%85%92%E7%AB%A5%E6%AD%BB%E4%BA%A1",
     "timestamp": "2026-05-23T18:42:04.054Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美媒：特朗普或周日決定是否重啟伊朗戰爭　達協議或開戰機率各半",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260522/1134441482996944896805423.jpeg/5Ka0blPVTVT_JFxbPJyj-I_P6DMEpbVmTUvScU1L0nE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60352983/%E7%BE%8E%E5%AA%92-%E7%89%B9%E6%9C%97%E6%99%AE%E6%88%96%E5%91%A8%E6%97%A5%E6%B1%BA%E5%AE%9A%E6%98%AF%E5%90%A6%E9%87%8D%E5%95%9F%E4%BC%8A%E6%9C%97%E6%88%B0%E7%88%AD-%E9%81%94%E5%8D%94%E8%AD%B0%E6%88%96%E9%96%8B%E6%88%B0%E6%A9%9F%E7%8E%87%E5%90%84%E5%8D%8A",
-    "timestamp": "2026-05-23T18:12:21.403Z",
     "strategy": ".content-card__main"
   }
 ];
