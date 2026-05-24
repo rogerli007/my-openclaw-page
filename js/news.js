@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-24T16:14:50.026Z
+// Last updated: 2026-05-24T16:42:08.138Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "黎家盈太空人｜同出警隊卓孝業感與有榮焉　信會為港帶來太空熱潮",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260524/1135368434926751744193750.jpeg/CbYGUIv2ISzIZ_Aerut9lDoCMZ4MwucBcAJGinACRoo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60353157/%E9%BB%8E%E5%AE%B6%E7%9B%88%E5%A4%AA%E7%A9%BA%E4%BA%BA-%E5%90%8C%E5%87%BA%E8%AD%A6%E9%9A%8A%E5%8D%93%E5%AD%9D%E6%A5%AD%E6%84%9F%E8%88%87%E6%9C%89%E6%A6%AE%E7%84%89-%E4%BF%A1%E6%9C%83%E7%82%BA%E6%B8%AF%E5%B8%B6%E4%BE%86%E5%A4%AA%E7%A9%BA%E7%86%B1%E6%BD%AE",
+    "timestamp": "2026-05-24T16:42:08.138Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "內塔尼亞胡：特朗普對伊朗立場不變　確認以色列在黎巴嫩有自衛權",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260524/1135077726596632576763920.jpeg/ut0KknQ9NVzwMijTc2GEiykjqo5XkNFKYz997WM_fe0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60352992/%E5%A1%9E%E7%88%BE%E7%B6%AD%E4%BA%9E%E9%A6%96%E9%83%BD%E7%88%86%E7%99%BC%E5%A4%A7%E8%A6%8F%E6%A8%A1%E5%8F%8D%E6%94%BF%E5%BA%9C%E7%A4%BA%E5%A8%81-%E6%8A%97%E8%AD%B0%E8%80%85%E4%BF%83%E6%8F%90%E5%89%8D%E5%9C%8B%E6%9C%83%E9%81%B8%E8%88%89",
     "timestamp": "2026-05-23T21:40:33.327Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "塞爾維亞首都爆發大規模反政府示威　抗議者促提前國會選舉",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260524/1135077726596632576763920.jpeg/ut0KknQ9NVzwMijTc2GEiykjqo5XkNFKYz997WM_fe0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60352992/%E5%A1%9E%E7%88%BE%E7%B6%AD%E4%BA%9E%E9%A6%96%E9%83%BD%E7%88%86%E7%99%BC%E5%A4%A7%E8%A6%8F%E6%A8%A1%E5%8F%8D%E6%94%BF%E5%BA%9C%E7%A4%BA%E5%A8%81-%E6%8A%97%E8%AD%B0%E8%80%85%E4%BF%83%E6%8F%90%E5%89%8D%E5%9C%8B%E6%9C%83%E9%81%B8%E8%88%89",
-    "timestamp": "2026-05-23T21:10:47.938Z",
     "strategy": ".content-card__main"
   }
 ];
