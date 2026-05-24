@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-24T20:18:47.250Z
+// Last updated: 2026-05-24T21:45:56.924Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "魯比奧：美伊協議草案獲多國支持　但核談判需時無法迅速解決",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260525/1135426103196913664130495.jpeg/mbbc4Oaztd_I4Rsd47B2vggcicGo2lJ7ncImJZ3CJiU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60353180/%E9%AD%AF%E6%AF%94%E5%A5%A7-%E7%BE%8E%E4%BC%8A%E5%8D%94%E8%AD%B0%E8%8D%89%E6%A1%88%E7%8D%B2%E5%A4%9A%E5%9C%8B%E6%94%AF%E6%8C%81-%E4%BD%86%E6%A0%B8%E8%AB%87%E5%88%A4%E9%9C%80%E6%99%82%E7%84%A1%E6%B3%95%E8%BF%85%E9%80%9F%E8%A7%A3%E6%B1%BA",
+    "timestamp": "2026-05-24T21:45:56.924Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "英超煞科︱阿仙奴封王派對阿迪達穿球衣　承認曾懷疑自己領軍功力",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250505/996190266497437696926037.jpeg/cS4ciaXBw8rUTP3srNdnXCOcx2BFVNwd9koqiOxKKog",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60352975/%E7%9B%B4%E6%92%AD-%E9%95%B7%E6%B4%B2%E5%A4%AA%E5%B9%B3%E6%B8%85%E9%86%AE%E9%A3%84%E8%89%B2%E5%B7%A1%E9%81%8A%E4%B8%8B%E5%8D%88%E5%87%BA%E5%A0%B4-20%E5%8F%B0%E9%A3%84%E8%89%B2%E8%AB%B7%E5%88%BA%E5%9C%8D%E6%A8%99%E5%8F%8A%E6%B2%B9%E5%83%B9%E9%AB%98",
     "timestamp": "2026-05-24T05:30:33.917Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "荃灣男子疑醉倒街頭　酒醒後驚覺$10萬現金不翼而飛",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260524/1135157936796995584782916.jpeg/UaI-Zjow-OyQqUI9tU8J2VKUrHKJBeqHYH_x7GB_8ew?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60353008/%E8%8D%83%E7%81%A3%E7%94%B7%E5%AD%90%E7%96%91%E9%86%89%E5%80%92%E8%A1%97%E9%A0%AD-%E9%85%92%E9%86%92%E5%BE%8C%E9%A9%9A%E8%A6%BA-10%E8%90%AC%E7%8F%BE%E9%87%91%E4%B8%8D%E7%BF%BC%E8%80%8C%E9%A3%9B",
-    "timestamp": "2026-05-24T02:28:23.742Z",
     "strategy": ".content-card__main"
   }
 ];
