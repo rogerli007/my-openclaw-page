@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-24T10:26:41.379Z
+// Last updated: 2026-05-24T11:04:09.281Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "佛誕三日連假｜61.5萬人次港人周六北上或外遊　30萬人樂而未返",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260524/1135281068451041280920687.jpeg/IsSddXVzviWx1DHi74Nad_frcfCIqWO325POrNuTzqw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60353112/%E4%BD%9B%E8%AA%95%E4%B8%89%E6%97%A5%E9%80%A3%E5%81%87-61-5%E8%90%AC%E4%BA%BA%E6%AC%A1%E6%B8%AF%E4%BA%BA%E5%91%A8%E5%85%AD%E5%8C%97%E4%B8%8A%E6%88%96%E5%A4%96%E9%81%8A-30%E8%90%AC%E4%BA%BA%E6%A8%82%E8%80%8C%E6%9C%AA%E8%BF%94",
+    "timestamp": "2026-05-24T11:04:09.281Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "佛誕｜陳國基：佛教倡慈悲化解仇恨　市民要共同維護社會穩定",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260523/1134974286260342784209376.jpeg/wKy1p_P2bqsrvcEKNDPI9EHljHyPAXvJWiF4kFoheJA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60352964/%E7%BE%8E%E5%9C%8B%E5%8D%97%E5%8A%A0%E5%B7%9E%E5%8C%96%E5%B7%A5%E5%84%B2%E7%BD%90%E6%B3%84%E6%BC%8F%E6%AF%92%E6%B0%A3%E6%81%90%E7%88%86%E7%82%B8-%E7%B7%8A%E6%80%A5%E7%96%8F%E6%95%A3%E8%BF%914%E8%90%AC%E5%B1%85%E6%B0%91",
     "timestamp": "2026-05-23T14:43:51.576Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "六合彩結果｜今期5.23頭獎1300萬即時攪珠｜中獎號碼+派彩獎金",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260106/1085277999818870784691350.jpeg/qlD4zXZuaDWP92HwHoC750bl4vsF6LbIzKpuzcyqbs0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60352930/%E5%85%AD%E5%90%88%E5%BD%A9%E7%B5%90%E6%9E%9C-%E4%BB%8A%E6%9C%9F5-23%E9%A0%AD%E7%8D%8E1300%E8%90%AC%E5%8D%B3%E6%99%82%E6%94%AA%E7%8F%A0-%E4%B8%AD%E7%8D%8E%E8%99%9F%E7%A2%BC-%E6%B4%BE%E5%BD%A9%E7%8D%8E%E9%87%91",
-    "timestamp": "2026-05-23T13:16:41.445Z",
     "strategy": ".content-card__main"
   }
 ];
