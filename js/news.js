@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-24T06:49:30.267Z
+// Last updated: 2026-05-24T07:52:32.494Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "佛誕放生｜荃灣西碼頭百人候船　搞手：經我手放生已逾100萬條魚",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260524/1135236879034093568342078.png/RCypi9w4eqyqRwDTFQxPw4JaVQQs13QdV6flWHGn5Vg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60353065/%E4%BD%9B%E8%AA%95%E6%94%BE%E7%94%9F-%E8%8D%83%E7%81%A3%E8%A5%BF%E7%A2%BC%E9%A0%AD%E7%99%BE%E4%BA%BA%E5%80%99%E8%88%B9-%E6%90%9E%E6%89%8B-%E7%B6%93%E6%88%91%E6%89%8B%E6%94%BE%E7%94%9F%E5%B7%B2%E9%80%BE100%E8%90%AC%E6%A2%9D%E9%AD%9A",
+    "timestamp": "2026-05-24T07:52:32.494Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "楊思琦承認被欺凌　稱攞過獎否認戲屎或有問題被蝦：高層唔係盲",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260523/1134699288446636032316259.png/BsN7dX03u3-C0FXXXtaEJFGww6QU_5YWf3FIDH9xSAw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60352760/%E9%9D%92%E8%A1%A3%E5%85%AC%E5%B1%8B%E5%8D%87%E9%99%8D%E6%A9%9F%E9%A9%9A%E7%8F%BE%E5%A4%A7%E5%BA%8A%E8%A4%A5-%E4%BF%9D%E5%AE%89-%E6%9C%89%E4%BA%BA%E8%A9%B1%E6%93%BA%E4%BD%8F%E5%85%88-%E9%81%95%E8%80%85%E5%86%8D%E7%8A%AF%E6%89%A37%E5%88%86",
     "timestamp": "2026-05-23T12:11:00.859Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "60歲離婚成為女木工師獲新生　她走出30年假面婚：我的人生剛開始",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260506/1128720658218356736218463.png/u34CPq5c1pQeB_bkfDcPGcvVT6_TY7BG6gwzC-oMMws?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%9F%A5%E6%80%A7%E5%A5%B3%E7%94%9F/60345604/60%E6%AD%B2%E9%9B%A2%E5%A9%9A%E6%88%90%E7%82%BA%E5%A5%B3%E6%9C%A8%E5%B7%A5%E5%B8%AB%E7%8D%B2%E6%96%B0%E7%94%9F-%E5%A5%B9%E8%B5%B0%E5%87%BA30%E5%B9%B4%E5%81%87%E9%9D%A2%E5%A9%9A-%E6%88%91%E7%9A%84%E4%BA%BA%E7%94%9F%E5%89%9B%E9%96%8B%E5%A7%8B",
-    "timestamp": "2026-05-23T11:38:33.321Z",
     "strategy": ".content-card__main"
   }
 ];
