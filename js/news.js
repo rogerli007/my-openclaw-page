@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-24T12:12:50.358Z
+// Last updated: 2026-05-24T13:59:54.376Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "王祖藍聞撞樣邊佑錫回應「啲人咁早老花？」　爆遭妻女嫌中年發福",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260524/1135322409465810944267308.jpeg/KFwDmz61oGwReyU0SmbrLKP6prpgLMOlSc19TknNfU4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60353135/%E7%8E%8B%E7%A5%96%E8%97%8D%E8%81%9E%E6%92%9E%E6%A8%A3%E9%82%8A%E4%BD%91%E9%8C%AB%E5%9B%9E%E6%87%89-%E5%95%B2%E4%BA%BA%E5%92%81%E6%97%A9%E8%80%81%E8%8A%B1-%E7%88%86%E9%81%AD%E5%A6%BB%E5%A5%B3%E5%AB%8C%E4%B8%AD%E5%B9%B4%E7%99%BC%E7%A6%8F",
+    "timestamp": "2026-05-24T13:59:54.376Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "羅拔臣深情撰文向利物浦告別　來自蘇格蘭的足球詩人︱英超人物認",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260524/1135019797965180928310924.jpeg/UJkJiaKxU7vv2Xu02diz9b9hTfeSvE7XxbueC_-7ngs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60352984/%E8%A5%BF%E7%81%A3%E6%B2%B32%E7%94%B7%E6%8C%81%E6%A3%8D%E6%89%91%E9%A0%AD%E9%80%83%E8%B5%B0-%E7%94%B7%E5%82%B7%E8%80%85%E9%80%81%E9%99%A2-%E7%8F%BE%E5%A0%B4%E9%81%BA%E4%B8%8B%E6%96%B7%E6%A3%8D%E5%92%8C%E6%9F%93%E8%A1%80%E9%B4%A8%E8%88%8C%E5%B8%BD",
     "timestamp": "2026-05-23T17:14:25.443Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "山西煤礦爆炸82死　胡錫進：2009年以來最嚴重礦難，敲響新的警鐘",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260523/1134888926465626112502873.jpeg/IaSkSfKUV_tMOsYXBab5c0cwLtHZ1esPGx2WIBsdliA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60352982/%E5%B1%B1%E8%A5%BF%E7%85%A4%E7%A4%A6%E7%88%86%E7%82%B882%E6%AD%BB-%E8%83%A1%E9%8C%AB%E9%80%B2-2009%E5%B9%B4%E4%BB%A5%E4%BE%86%E6%9C%80%E5%9A%B4%E9%87%8D%E7%A4%A6%E9%9B%A3-%E6%95%B2%E9%9F%BF%E6%96%B0%E7%9A%84%E8%AD%A6%E9%90%98",
-    "timestamp": "2026-05-23T16:41:05.075Z",
     "strategy": ".content-card__main"
   }
 ];
