@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-24T01:25:05.779Z
+// Last updated: 2026-05-24T02:28:23.742Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "荃灣男子疑醉倒街頭　酒醒後驚覺$10萬現金不翼而飛",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260524/1135157936796995584782916.jpeg/UaI-Zjow-OyQqUI9tU8J2VKUrHKJBeqHYH_x7GB_8ew?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60353008/%E8%8D%83%E7%81%A3%E7%94%B7%E5%AD%90%E7%96%91%E9%86%89%E5%80%92%E8%A1%97%E9%A0%AD-%E9%85%92%E9%86%92%E5%BE%8C%E9%A9%9A%E8%A6%BA-10%E8%90%AC%E7%8F%BE%E9%87%91%E4%B8%8D%E7%BF%BC%E8%80%8C%E9%A3%9B",
+    "timestamp": "2026-05-24T02:28:23.742Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "彭敬慈專訪｜演盡壞人角色但堅拒做三級男星　「推過王晶一部」",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260523/1134890321730080768367108.jpeg/sOfOA4CcTZS92w4MAARgwfIj9OQ7EtcnBsxhNgbMYTY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60352902/32%E5%B9%B4%E5%89%8D%E5%BC%92%E6%AF%8D%E5%9F%8B3%E5%B1%8D-%E7%BE%8E%E5%9C%8B%E6%AD%BB%E5%9B%9A%E6%AF%92%E9%87%9D%E6%B3%A8%E5%B0%84%E5%A4%B1%E6%95%97-%E5%8F%97%E7%9B%A1%E6%8A%98%E7%A3%A81%E5%B0%8F%E6%99%82%E5%BE%8C%E6%9A%AB%E9%80%83%E6%AD%BB",
     "timestamp": "2026-05-23T09:46:33.634Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "減肥方法｜營養師自創免捱餓21分飽減肥法！3不原則養出易瘦體質",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260522/1134548388797222912635724.jpeg/fJ-LtfqVST4PW_3VVSDU8cUUO-pnzBCY5NXK2eTVytk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60349767/%E6%B8%9B%E8%82%A5%E6%96%B9%E6%B3%95-%E7%87%9F%E9%A4%8A%E5%B8%AB%E8%87%AA%E5%89%B5%E5%85%8D%E6%8D%B1%E9%A4%9321%E5%88%86%E9%A3%BD%E6%B8%9B%E8%82%A5%E6%B3%95-3%E4%B8%8D%E5%8E%9F%E5%89%87%E9%A4%8A%E5%87%BA%E6%98%93%E7%98%A6%E9%AB%94%E8%B3%AA",
-    "timestamp": "2026-05-23T07:17:31.247Z",
     "strategy": ".content-card__main"
   }
 ];
