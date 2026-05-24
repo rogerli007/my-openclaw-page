@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-24T19:49:37.770Z
+// Last updated: 2026-05-24T20:18:47.250Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "英超煞科︱阿仙奴封王派對阿迪達穿球衣　承認曾懷疑自己領軍功力",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260525/1135421122272038912321407.jpeg/gPDx6ES5y6kOwL8Jdbj2oD3yCVszvSeqGXqLhRl6i4U?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60353178/%E8%8B%B1%E8%B6%85%E7%85%9E%E7%A7%91-%E9%98%BF%E4%BB%99%E5%A5%B4%E5%B0%81%E7%8E%8B%E6%B4%BE%E5%B0%8D%E9%98%BF%E8%BF%AA%E9%81%94%E7%A9%BF%E7%90%83%E8%A1%A3-%E6%89%BF%E8%AA%8D%E6%9B%BE%E6%87%B7%E7%96%91%E8%87%AA%E5%B7%B1%E9%A0%98%E8%BB%8D%E5%8A%9F%E5%8A%9B",
+    "timestamp": "2026-05-24T20:18:47.250Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "油麻地大廈墮石屎　碎片濺傷途人　警拘法團主席",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260524/1135157936796995584782916.jpeg/UaI-Zjow-OyQqUI9tU8J2VKUrHKJBeqHYH_x7GB_8ew?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60353008/%E8%8D%83%E7%81%A3%E7%94%B7%E5%AD%90%E7%96%91%E9%86%89%E5%80%92%E8%A1%97%E9%A0%AD-%E9%85%92%E9%86%92%E5%BE%8C%E9%A9%9A%E8%A6%BA-10%E8%90%AC%E7%8F%BE%E9%87%91%E4%B8%8D%E7%BF%BC%E8%80%8C%E9%A3%9B",
     "timestamp": "2026-05-24T02:28:23.742Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "彭敬慈專訪｜演盡壞人角色但堅拒做三級男星　「推過王晶一部」",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260524/1135045076582404096973680.jpeg/wpBJDfBfGgQAaytI38dpMrIg-CTWzEtBRl_OVEZfzlQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60352890/%E5%BD%AD%E6%95%AC%E6%85%88%E5%B0%88%E8%A8%AA-%E6%BC%94%E7%9B%A1%E5%A3%9E%E4%BA%BA%E8%A7%92%E8%89%B2%E4%BD%86%E5%A0%85%E6%8B%92%E5%81%9A%E4%B8%89%E7%B4%9A%E7%94%B7%E6%98%9F-%E6%8E%A8%E9%81%8E%E7%8E%8B%E6%99%B6%E4%B8%80%E9%83%A8",
-    "timestamp": "2026-05-24T01:25:05.779Z",
     "strategy": ".content-card__main"
   }
 ];
