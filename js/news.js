@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-24T16:42:08.138Z
+// Last updated: 2026-05-24T17:14:48.055Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "土耳其防暴警攻入反對黨總部　施放催淚彈驅逐黨魁",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260525/1135383535234846720724150.jpeg/KGSGpLKnEELmJ4WsS4IGCv2LgS31yCPL5iVYKeYlWCk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60353169/%E5%9C%9F%E8%80%B3%E5%85%B6%E9%98%B2%E6%9A%B4%E8%AD%A6%E6%94%BB%E5%85%A5%E5%8F%8D%E5%B0%8D%E9%BB%A8%E7%B8%BD%E9%83%A8-%E6%96%BD%E6%94%BE%E5%82%AC%E6%B7%9A%E5%BD%88%E9%A9%85%E9%80%90%E9%BB%A8%E9%AD%81",
+    "timestamp": "2026-05-24T17:14:48.055Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "黎家盈太空人｜同出警隊卓孝業感與有榮焉　信會為港帶來太空熱潮",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260524/1135091477861371904134568.jpeg/N_aNRvk1UjgUUCEFXal7RUdp83W9w2rPaC_RwGgv0cA",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60352994/%E8%BB%8Acam-%E5%A4%A7%E5%9C%8D%E7%A7%81%E5%AE%B6%E8%BB%8A%E7%96%91%E8%A1%9D%E7%87%88%E8%BD%89%E5%BD%8E-%E5%92%8C%E7%9B%B4%E9%A7%9B%E7%9A%84%E5%A3%AB%E7%9B%B8%E6%92%9E-3%E4%BA%BA%E5%8F%97%E5%82%B7%E9%80%81%E9%99%A2",
     "timestamp": "2026-05-23T22:10:17.182Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "塞爾維亞首都爆發大規模反政府示威　抗議者促提前國會選舉",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260524/1135077726596632576763920.jpeg/ut0KknQ9NVzwMijTc2GEiykjqo5XkNFKYz997WM_fe0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60352992/%E5%A1%9E%E7%88%BE%E7%B6%AD%E4%BA%9E%E9%A6%96%E9%83%BD%E7%88%86%E7%99%BC%E5%A4%A7%E8%A6%8F%E6%A8%A1%E5%8F%8D%E6%94%BF%E5%BA%9C%E7%A4%BA%E5%A8%81-%E6%8A%97%E8%AD%B0%E8%80%85%E4%BF%83%E6%8F%90%E5%89%8D%E5%9C%8B%E6%9C%83%E9%81%B8%E8%88%89",
-    "timestamp": "2026-05-23T21:40:33.327Z",
     "strategy": ".content-card__main"
   }
 ];
