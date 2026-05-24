@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-24T17:14:48.055Z
+// Last updated: 2026-05-24T17:41:25.155Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "土耳其防暴警攻入反對黨總部　施放催淚彈驅逐黨魁",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260525/1135383535234846720724150.jpeg/KGSGpLKnEELmJ4WsS4IGCv2LgS31yCPL5iVYKeYlWCk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60353169/%E5%9C%9F%E8%80%B3%E5%85%B6%E9%98%B2%E6%9A%B4%E8%AD%A6%E6%94%BB%E5%85%A5%E5%8F%8D%E5%B0%8D%E9%BB%A8%E7%B8%BD%E9%83%A8-%E6%96%BD%E6%94%BE%E5%82%AC%E6%B7%9A%E5%BD%88%E9%A9%85%E9%80%90%E9%BB%A8%E9%AD%81",
+    "timestamp": "2026-05-24T17:41:25.155Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "土耳其防暴警攻入反對黨總部　施放催淚彈驅逐黨魁",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250310/975838401771212800819254.jpeg/-kvO3sXohHNW9VOsz6b_d_TiaYcndTG-gMKmG5rCphs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60352960/01%E6%B6%88%E6%81%AF-%E5%B9%B3%E5%8F%B0%E5%B7%A5%E5%B7%A5%E5%82%B7%E4%BF%9D%E9%9A%9C%E6%93%AC%E7%9C%8B%E9%BD%8A%E5%8B%9E%E4%BF%9D-%E7%97%85%E5%81%87%E8%A3%9C%E5%84%9F%E6%8C%89%E6%AF%8F%E6%9C%88%E6%94%B6%E5%85%A54-5%E8%A8%88%E7%AE%97",
     "timestamp": "2026-05-23T23:11:08.518Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "車Cam｜大圍私家車疑衝燈轉彎　和直駛的士相撞　3人受傷送院",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260524/1135091477861371904134568.jpeg/N_aNRvk1UjgUUCEFXal7RUdp83W9w2rPaC_RwGgv0cA",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60352994/%E8%BB%8Acam-%E5%A4%A7%E5%9C%8D%E7%A7%81%E5%AE%B6%E8%BB%8A%E7%96%91%E8%A1%9D%E7%87%88%E8%BD%89%E5%BD%8E-%E5%92%8C%E7%9B%B4%E9%A7%9B%E7%9A%84%E5%A3%AB%E7%9B%B8%E6%92%9E-3%E4%BA%BA%E5%8F%97%E5%82%B7%E9%80%81%E9%99%A2",
-    "timestamp": "2026-05-23T22:10:17.182Z",
     "strategy": ".content-card__main"
   }
 ];
