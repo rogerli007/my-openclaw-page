@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-24T05:30:33.917Z
+// Last updated: 2026-05-24T06:49:30.267Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "楊思琦承認被欺凌　稱攞過獎否認戲屎或有問題被蝦：高層唔係盲",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260524/1135226942769860608714305.jpeg/Fvgpoz4d-HFUB5S6g6zw_Puhm4vQWCAadA7LpE4Oy6Q?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60353056/%E6%A5%8A%E6%80%9D%E7%90%A6%E6%89%BF%E8%AA%8D%E8%A2%AB%E6%AC%BA%E5%87%8C-%E7%A8%B1%E6%94%9E%E9%81%8E%E7%8D%8E%E5%90%A6%E8%AA%8D%E6%88%B2%E5%B1%8E%E6%88%96%E6%9C%89%E5%95%8F%E9%A1%8C%E8%A2%AB%E8%9D%A6-%E9%AB%98%E5%B1%A4%E5%94%94%E4%BF%82%E7%9B%B2",
+    "timestamp": "2026-05-24T06:49:30.267Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "直播｜長洲太平清醮飄色巡遊下午出場　20台飄色諷刺圍標及油價高",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260506/1128720658218356736218463.png/u34CPq5c1pQeB_bkfDcPGcvVT6_TY7BG6gwzC-oMMws?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%9F%A5%E6%80%A7%E5%A5%B3%E7%94%9F/60345604/60%E6%AD%B2%E9%9B%A2%E5%A9%9A%E6%88%90%E7%82%BA%E5%A5%B3%E6%9C%A8%E5%B7%A5%E5%B8%AB%E7%8D%B2%E6%96%B0%E7%94%9F-%E5%A5%B9%E8%B5%B0%E5%87%BA30%E5%B9%B4%E5%81%87%E9%9D%A2%E5%A9%9A-%E6%88%91%E7%9A%84%E4%BA%BA%E7%94%9F%E5%89%9B%E9%96%8B%E5%A7%8B",
     "timestamp": "2026-05-23T11:38:33.321Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "巴基斯坦航天員學中文、掌握口令　其中一人將執行短期飛行任務",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260523/1134928644418834432635104.png/d7HkZ0zyL9y1sjqpQnGURXqeG5VxNAUeTZz2o02c9qM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60352842/%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E8%88%AA%E5%A4%A9%E5%93%A1%E5%AD%B8%E4%B8%AD%E6%96%87-%E6%8E%8C%E6%8F%A1%E5%8F%A3%E4%BB%A4-%E5%85%B6%E4%B8%AD%E4%B8%80%E4%BA%BA%E5%B0%87%E5%9F%B7%E8%A1%8C%E7%9F%AD%E6%9C%9F%E9%A3%9B%E8%A1%8C%E4%BB%BB%E5%8B%99",
-    "timestamp": "2026-05-23T11:03:48.660Z",
     "strategy": ".content-card__main"
   }
 ];
