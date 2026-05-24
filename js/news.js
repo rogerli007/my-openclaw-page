@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-24T07:52:32.494Z
+// Last updated: 2026-05-24T09:04:14.406Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "油價｜黃傑龍籲油公司提高價格透明度　料兩電燃料費八月達高峰",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260430/1126317741372870656976518.jpeg/D0Smn5LGbfFqQ02yQQfRF-aQupwhTpJqdE3wcm5N8HI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60353071/%E6%B2%B9%E5%83%B9-%E9%BB%83%E5%82%91%E9%BE%8D%E7%B1%B2%E6%B2%B9%E5%85%AC%E5%8F%B8%E6%8F%90%E9%AB%98%E5%83%B9%E6%A0%BC%E9%80%8F%E6%98%8E%E5%BA%A6-%E6%96%99%E5%85%A9%E9%9B%BB%E7%87%83%E6%96%99%E8%B2%BB%E5%85%AB%E6%9C%88%E9%81%94%E9%AB%98%E5%B3%B0",
+    "timestamp": "2026-05-24T09:04:14.406Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "佛誕放生｜荃灣西碼頭百人候船　搞手：經我手放生已逾100萬條魚",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260523/1134887294403088384917452.png/fqomQdF8VOzszqxSCDMI-irC7Ym2-FX5Q0O3G0NDtxs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60352896/%E7%9F%B3%E4%BF%AE%E6%96%B0%E6%8A%B1%E6%9E%97%E4%BD%91%E8%94%9A%E6%B3%B3%E8%A1%A3top%E8%B0%B7%E7%9B%A1%E4%BA%8B%E6%A5%AD%E7%B7%9A-%E5%81%9C%E8%BB%8A%E5%A0%B4%E5%85%A7%E7%81%AB%E8%BE%A3%E7%8B%82%E6%89%AD%E6%8C%91%E6%88%B0%E8%BE%A3%E5%A6%B9",
     "timestamp": "2026-05-23T12:42:49.422Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "青衣公屋升降機驚現大床褥！保安︰有人話擺住先　違者再犯扣7分",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260523/1134699288446636032316259.png/BsN7dX03u3-C0FXXXtaEJFGww6QU_5YWf3FIDH9xSAw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60352760/%E9%9D%92%E8%A1%A3%E5%85%AC%E5%B1%8B%E5%8D%87%E9%99%8D%E6%A9%9F%E9%A9%9A%E7%8F%BE%E5%A4%A7%E5%BA%8A%E8%A4%A5-%E4%BF%9D%E5%AE%89-%E6%9C%89%E4%BA%BA%E8%A9%B1%E6%93%BA%E4%BD%8F%E5%85%88-%E9%81%95%E8%80%85%E5%86%8D%E7%8A%AF%E6%89%A37%E5%88%86",
-    "timestamp": "2026-05-23T12:11:00.859Z",
     "strategy": ".content-card__main"
   }
 ];
