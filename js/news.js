@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-24T09:04:14.406Z
+// Last updated: 2026-05-24T10:26:41.379Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "佛誕｜陳國基：佛教倡慈悲化解仇恨　市民要共同維護社會穩定",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260524/1135275652203679744409253.jpeg/x6ATGsJ4-xvuvXEn45b3I7oNfTlvi0quSJj-PEiY_jw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60353108/%E4%BD%9B%E8%AA%95-%E9%99%B3%E5%9C%8B%E5%9F%BA-%E4%BD%9B%E6%95%99%E5%80%A1%E6%85%88%E6%82%B2%E5%8C%96%E8%A7%A3%E4%BB%87%E6%81%A8-%E5%B8%82%E6%B0%91%E8%A6%81%E5%85%B1%E5%90%8C%E7%B6%AD%E8%AD%B7%E7%A4%BE%E6%9C%83%E7%A9%A9%E5%AE%9A",
+    "timestamp": "2026-05-24T10:26:41.379Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "油價｜黃傑龍籲油公司提高價格透明度　料兩電燃料費八月達高峰",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260106/1085277999818870784691350.jpeg/qlD4zXZuaDWP92HwHoC750bl4vsF6LbIzKpuzcyqbs0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60352930/%E5%85%AD%E5%90%88%E5%BD%A9%E7%B5%90%E6%9E%9C-%E4%BB%8A%E6%9C%9F5-23%E9%A0%AD%E7%8D%8E1300%E8%90%AC%E5%8D%B3%E6%99%82%E6%94%AA%E7%8F%A0-%E4%B8%AD%E7%8D%8E%E8%99%9F%E7%A2%BC-%E6%B4%BE%E5%BD%A9%E7%8D%8E%E9%87%91",
     "timestamp": "2026-05-23T13:16:41.445Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "石修新抱林佑蔚泳衣Top谷盡事業線　停車場內火辣狂扭挑戰辣妹",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260523/1134887294403088384917452.png/fqomQdF8VOzszqxSCDMI-irC7Ym2-FX5Q0O3G0NDtxs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60352896/%E7%9F%B3%E4%BF%AE%E6%96%B0%E6%8A%B1%E6%9E%97%E4%BD%91%E8%94%9A%E6%B3%B3%E8%A1%A3top%E8%B0%B7%E7%9B%A1%E4%BA%8B%E6%A5%AD%E7%B7%9A-%E5%81%9C%E8%BB%8A%E5%A0%B4%E5%85%A7%E7%81%AB%E8%BE%A3%E7%8B%82%E6%89%AD%E6%8C%91%E6%88%B0%E8%BE%A3%E5%A6%B9",
-    "timestamp": "2026-05-23T12:42:49.422Z",
     "strategy": ".content-card__main"
   }
 ];
