@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-24T11:40:42.593Z
+// Last updated: 2026-05-24T12:12:50.358Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "羅拔臣深情撰文向利物浦告別　來自蘇格蘭的足球詩人︱英超人物認",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260524/1135286642089660416240613.jpeg/enshr9Prs6ByQ4RTx8Q29Vcum4p40v6-MbSLWzG0i1s?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60353117/%E7%BE%85%E6%8B%94%E8%87%A3%E6%B7%B1%E6%83%85%E6%92%B0%E6%96%87%E5%90%91%E5%88%A9%E7%89%A9%E6%B5%A6%E5%91%8A%E5%88%A5-%E4%BE%86%E8%87%AA%E8%98%87%E6%A0%BC%E8%98%AD%E7%9A%84%E8%B6%B3%E7%90%83%E8%A9%A9%E4%BA%BA-%E8%8B%B1%E8%B6%85%E4%BA%BA%E7%89%A9%E8%AA%8D",
+    "timestamp": "2026-05-24T12:12:50.358Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "12生肖遇到命中注定的他會怎樣表現　屬羊勇敢爭取　屬蛇體貼黏人",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260523/1134888926465626112502873.jpeg/IaSkSfKUV_tMOsYXBab5c0cwLtHZ1esPGx2WIBsdliA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60352982/%E5%B1%B1%E8%A5%BF%E7%85%A4%E7%A4%A6%E7%88%86%E7%82%B882%E6%AD%BB-%E8%83%A1%E9%8C%AB%E9%80%B2-2009%E5%B9%B4%E4%BB%A5%E4%BE%86%E6%9C%80%E5%9A%B4%E9%87%8D%E7%A4%A6%E9%9B%A3-%E6%95%B2%E9%9F%BF%E6%96%B0%E7%9A%84%E8%AD%A6%E9%90%98",
     "timestamp": "2026-05-23T16:41:05.075Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "山西煤礦爆炸82死　普京表示深切慰問　高市早苗發文稱悲痛",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20251010/1053453756319928320916845.jpeg/QXODs-IV-jQN3jcGGGK_xWKHL4c-DzdBd_xld3f8ZXc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60352976/%E5%B1%B1%E8%A5%BF%E7%85%A4%E7%A4%A6%E7%88%86%E7%82%B882%E6%AD%BB-%E6%99%AE%E4%BA%AC%E8%A1%A8%E7%A4%BA%E6%B7%B1%E5%88%87%E6%85%B0%E5%95%8F-%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E7%99%BC%E6%96%87%E7%A8%B1%E6%82%B2%E7%97%9B",
-    "timestamp": "2026-05-23T15:13:57.610Z",
     "strategy": ".content-card__main"
   }
 ];
