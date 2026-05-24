@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-24T19:16:11.270Z
+// Last updated: 2026-05-24T19:49:37.770Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "油麻地大廈墮石屎　碎片濺傷途人　警拘法團主席",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260219/1101159867034374144489207.jpeg/fHT6HfdLyQDwBGSZE6Ljrdoh4V5dDLw6e2KUbHtilGw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60353177/%E6%B2%B9%E9%BA%BB%E5%9C%B0%E5%A4%A7%E5%BB%88%E5%A2%AE%E7%9F%B3%E5%B1%8E-%E7%A2%8E%E7%89%87%E6%BF%BA%E5%82%B7%E9%80%94%E4%BA%BA-%E8%AD%A6%E6%8B%98%E6%B3%95%E5%9C%98%E4%B8%BB%E5%B8%AD",
+    "timestamp": "2026-05-24T19:49:37.770Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "油麻地大廈墮石屎　碎片濺傷途人　警拘法團主席",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260524/1135045076582404096973680.jpeg/wpBJDfBfGgQAaytI38dpMrIg-CTWzEtBRl_OVEZfzlQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60352890/%E5%BD%AD%E6%95%AC%E6%85%88%E5%B0%88%E8%A8%AA-%E6%BC%94%E7%9B%A1%E5%A3%9E%E4%BA%BA%E8%A7%92%E8%89%B2%E4%BD%86%E5%A0%85%E6%8B%92%E5%81%9A%E4%B8%89%E7%B4%9A%E7%94%B7%E6%98%9F-%E6%8E%A8%E9%81%8E%E7%8E%8B%E6%99%B6%E4%B8%80%E9%83%A8",
     "timestamp": "2026-05-24T01:25:05.779Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美光CEO：內存短缺或持續至今年後　新產能2028年才能大規模釋放",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20251017/1055909688018735104964173.jpeg/3phQJB8uCJFfMvbYPTK23bVQXfywO_9iqFMHbahTB20?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60353002/%E7%BE%8E%E5%85%89ceo-%E5%85%A7%E5%AD%98%E7%9F%AD%E7%BC%BA%E6%88%96%E6%8C%81%E7%BA%8C%E8%87%B3%E4%BB%8A%E5%B9%B4%E5%BE%8C-%E6%96%B0%E7%94%A2%E8%83%BD2028%E5%B9%B4%E6%89%8D%E8%83%BD%E5%A4%A7%E8%A6%8F%E6%A8%A1%E9%87%8B%E6%94%BE",
-    "timestamp": "2026-05-24T00:12:06.883Z",
     "strategy": ".content-card__main"
   }
 ];
