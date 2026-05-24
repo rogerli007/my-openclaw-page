@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-24T11:04:09.281Z
+// Last updated: 2026-05-24T11:40:42.593Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "12生肖遇到命中注定的他會怎樣表現　屬羊勇敢爭取　屬蛇體貼黏人",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260512/1130823298871988224192407.jpeg/DNHfsqfymnPNwUZqC7pHqBviMyiFyYUyoaPSG6Gj0hs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%AB%87%E6%83%85%E8%AA%AA%E6%80%A7/60348910/12%E7%94%9F%E8%82%96%E9%81%87%E5%88%B0%E5%91%BD%E4%B8%AD%E6%B3%A8%E5%AE%9A%E7%9A%84%E4%BB%96%E6%9C%83%E6%80%8E%E6%A8%A3%E8%A1%A8%E7%8F%BE-%E5%B1%AC%E7%BE%8A%E5%8B%87%E6%95%A2%E7%88%AD%E5%8F%96-%E5%B1%AC%E8%9B%87%E9%AB%94%E8%B2%BC%E9%BB%8F%E4%BA%BA",
+    "timestamp": "2026-05-24T11:40:42.593Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "佛誕三日連假｜61.5萬人次港人周六北上或外遊　30萬人樂而未返",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20251010/1053453756319928320916845.jpeg/QXODs-IV-jQN3jcGGGK_xWKHL4c-DzdBd_xld3f8ZXc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60352976/%E5%B1%B1%E8%A5%BF%E7%85%A4%E7%A4%A6%E7%88%86%E7%82%B882%E6%AD%BB-%E6%99%AE%E4%BA%AC%E8%A1%A8%E7%A4%BA%E6%B7%B1%E5%88%87%E6%85%B0%E5%95%8F-%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E7%99%BC%E6%96%87%E7%A8%B1%E6%82%B2%E7%97%9B",
     "timestamp": "2026-05-23T15:13:57.610Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美國南加州化工儲罐泄漏毒氣恐爆炸　緊急疏散近4萬居民",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260523/1134974286260342784209376.jpeg/wKy1p_P2bqsrvcEKNDPI9EHljHyPAXvJWiF4kFoheJA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60352964/%E7%BE%8E%E5%9C%8B%E5%8D%97%E5%8A%A0%E5%B7%9E%E5%8C%96%E5%B7%A5%E5%84%B2%E7%BD%90%E6%B3%84%E6%BC%8F%E6%AF%92%E6%B0%A3%E6%81%90%E7%88%86%E7%82%B8-%E7%B7%8A%E6%80%A5%E7%96%8F%E6%95%A3%E8%BF%914%E8%90%AC%E5%B1%85%E6%B0%91",
-    "timestamp": "2026-05-23T14:43:51.576Z",
     "strategy": ".content-card__main"
   }
 ];
