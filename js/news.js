@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-24T00:12:06.883Z
+// Last updated: 2026-05-24T01:25:05.779Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "彭敬慈專訪｜演盡壞人角色但堅拒做三級男星　「推過王晶一部」",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260524/1135045076582404096973680.jpeg/wpBJDfBfGgQAaytI38dpMrIg-CTWzEtBRl_OVEZfzlQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60352890/%E5%BD%AD%E6%95%AC%E6%85%88%E5%B0%88%E8%A8%AA-%E6%BC%94%E7%9B%A1%E5%A3%9E%E4%BA%BA%E8%A7%92%E8%89%B2%E4%BD%86%E5%A0%85%E6%8B%92%E5%81%9A%E4%B8%89%E7%B4%9A%E7%94%B7%E6%98%9F-%E6%8E%A8%E9%81%8E%E7%8E%8B%E6%99%B6%E4%B8%80%E9%83%A8",
+    "timestamp": "2026-05-24T01:25:05.779Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美光CEO：內存短缺或持續至今年後　新產能2028年才能大規模釋放",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260522/1134548388797222912635724.jpeg/fJ-LtfqVST4PW_3VVSDU8cUUO-pnzBCY5NXK2eTVytk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60349767/%E6%B8%9B%E8%82%A5%E6%96%B9%E6%B3%95-%E7%87%9F%E9%A4%8A%E5%B8%AB%E8%87%AA%E5%89%B5%E5%85%8D%E6%8D%B1%E9%A4%9321%E5%88%86%E9%A3%BD%E6%B8%9B%E8%82%A5%E6%B3%95-3%E4%B8%8D%E5%8E%9F%E5%89%87%E9%A4%8A%E5%87%BA%E6%98%93%E7%98%A6%E9%AB%94%E8%B3%AA",
     "timestamp": "2026-05-23T07:17:31.247Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "夾公仔機設「保夾」金額？　麥美娟：會諮詢　無意改獎品金額上限",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260504/1128062018755497984308215.jpeg/sYA0e08RZ1ZKaYNp0DINunnsoTrIcsQy1y4PZ80uD2c?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60352874/%E5%A4%BE%E5%85%AC%E4%BB%94%E6%A9%9F%E8%A8%AD-%E4%BF%9D%E5%A4%BE-%E9%87%91%E9%A1%8D-%E9%BA%A5%E7%BE%8E%E5%A8%9F-%E6%9C%83%E8%AB%AE%E8%A9%A2-%E7%84%A1%E6%84%8F%E6%94%B9%E7%8D%8E%E5%93%81%E9%87%91%E9%A1%8D%E4%B8%8A%E9%99%90",
-    "timestamp": "2026-05-23T06:16:16.274Z",
     "strategy": ".content-card__main"
   }
 ];
