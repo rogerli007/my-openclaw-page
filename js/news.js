@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-24T22:41:32.497Z
+// Last updated: 2026-05-24T23:12:37.980Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "「小島學園」校長鄧明儀談重啟計劃原因 藉體驗營培養自理能力",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260519/1133450170499862528381497.jpeg/wElXVOcVvJJRXTJjJKCTlS8EkZ-fCZENDHFGqwxxRqs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%A6%AA%E5%AD%90/60351269/%E5%B0%8F%E5%B3%B6%E5%AD%B8%E5%9C%92-%E6%A0%A1%E9%95%B7%E9%84%A7%E6%98%8E%E5%84%80%E8%AB%87%E9%87%8D%E5%95%9F%E8%A8%88%E5%8A%83%E5%8E%9F%E5%9B%A0-%E8%97%89%E9%AB%94%E9%A9%97%E7%87%9F%E5%9F%B9%E9%A4%8A%E8%87%AA%E7%90%86%E8%83%BD%E5%8A%9B",
+    "timestamp": "2026-05-24T23:12:37.980Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "天氣｜今日部份時間有陽光　日間炎熱約32度　未來數日酷熱達33度",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260524/1135236879034093568342078.png/RCypi9w4eqyqRwDTFQxPw4JaVQQs13QdV6flWHGn5Vg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60353065/%E4%BD%9B%E8%AA%95%E6%94%BE%E7%94%9F-%E8%8D%83%E7%81%A3%E8%A5%BF%E7%A2%BC%E9%A0%AD%E7%99%BE%E4%BA%BA%E5%80%99%E8%88%B9-%E6%90%9E%E6%89%8B-%E7%B6%93%E6%88%91%E6%89%8B%E6%94%BE%E7%94%9F%E5%B7%B2%E9%80%BE100%E8%90%AC%E6%A2%9D%E9%AD%9A",
     "timestamp": "2026-05-24T07:52:32.494Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "楊思琦承認被欺凌　稱攞過獎否認戲屎或有問題被蝦：高層唔係盲",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260524/1135226942769860608714305.jpeg/Fvgpoz4d-HFUB5S6g6zw_Puhm4vQWCAadA7LpE4Oy6Q?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60353056/%E6%A5%8A%E6%80%9D%E7%90%A6%E6%89%BF%E8%AA%8D%E8%A2%AB%E6%AC%BA%E5%87%8C-%E7%A8%B1%E6%94%9E%E9%81%8E%E7%8D%8E%E5%90%A6%E8%AA%8D%E6%88%B2%E5%B1%8E%E6%88%96%E6%9C%89%E5%95%8F%E9%A1%8C%E8%A2%AB%E8%9D%A6-%E9%AB%98%E5%B1%A4%E5%94%94%E4%BF%82%E7%9B%B2",
-    "timestamp": "2026-05-24T06:49:30.267Z",
     "strategy": ".content-card__main"
   }
 ];
