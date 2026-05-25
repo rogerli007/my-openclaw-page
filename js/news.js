@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-25T03:53:18.570Z
+// Last updated: 2026-05-25T05:48:35.213Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "張國鈞丘應樺訪京拜會中央部委　交流協助內地企業出海事宜",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20251006/1051870435639037952140875.jpeg/FGOUT8OqtfABsffTfnorWkNuXSt3CE2bc7DQcXOw0HE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60353260/%E5%BC%B5%E5%9C%8B%E9%88%9E%E4%B8%98%E6%87%89%E6%A8%BA%E8%A8%AA%E4%BA%AC%E6%8B%9C%E6%9C%83%E4%B8%AD%E5%A4%AE%E9%83%A8%E5%A7%94-%E4%BA%A4%E6%B5%81%E5%8D%94%E5%8A%A9%E5%85%A7%E5%9C%B0%E4%BC%81%E6%A5%AD%E5%87%BA%E6%B5%B7%E4%BA%8B%E5%AE%9C",
+    "timestamp": "2026-05-25T05:48:35.213Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "日本7-Eleven創辦人鈴木敏文去世終年93歲　被譽為「便利店之父」",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260524/1135286642089660416240613.jpeg/enshr9Prs6ByQ4RTx8Q29Vcum4p40v6-MbSLWzG0i1s?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60353117/%E7%BE%85%E6%8B%94%E8%87%A3%E6%B7%B1%E6%83%85%E6%92%B0%E6%96%87%E5%90%91%E5%88%A9%E7%89%A9%E6%B5%A6%E5%91%8A%E5%88%A5-%E4%BE%86%E8%87%AA%E8%98%87%E6%A0%BC%E8%98%AD%E7%9A%84%E8%B6%B3%E7%90%83%E8%A9%A9%E4%BA%BA-%E8%8B%B1%E8%B6%85%E4%BA%BA%E7%89%A9%E8%AA%8D",
     "timestamp": "2026-05-24T12:12:50.358Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "12生肖遇到命中注定的他會怎樣表現　屬羊勇敢爭取　屬蛇體貼黏人",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260512/1130823298871988224192407.jpeg/DNHfsqfymnPNwUZqC7pHqBviMyiFyYUyoaPSG6Gj0hs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%AB%87%E6%83%85%E8%AA%AA%E6%80%A7/60348910/12%E7%94%9F%E8%82%96%E9%81%87%E5%88%B0%E5%91%BD%E4%B8%AD%E6%B3%A8%E5%AE%9A%E7%9A%84%E4%BB%96%E6%9C%83%E6%80%8E%E6%A8%A3%E8%A1%A8%E7%8F%BE-%E5%B1%AC%E7%BE%8A%E5%8B%87%E6%95%A2%E7%88%AD%E5%8F%96-%E5%B1%AC%E8%9B%87%E9%AB%94%E8%B2%BC%E9%BB%8F%E4%BA%BA",
-    "timestamp": "2026-05-24T11:40:42.593Z",
     "strategy": ".content-card__main"
   }
 ];
