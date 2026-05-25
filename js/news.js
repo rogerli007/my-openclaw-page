@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-25T23:14:31.394Z
+// Last updated: 2026-05-25T23:44:49.433Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "大摩：AI正引爆亞洲5.5萬億美元能源投資超級周期",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260505/1128273390600196096906571.jpeg/zxIbs8aCiDbZzTTzH7JcYN0pEVX-QYBgUMX6JlDF-iY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60353451/%E5%A4%A7%E6%91%A9-ai%E6%AD%A3%E5%BC%95%E7%88%86%E4%BA%9E%E6%B4%B25-5%E8%90%AC%E5%84%84%E7%BE%8E%E5%85%83%E8%83%BD%E6%BA%90%E6%8A%95%E8%B3%87%E8%B6%85%E7%B4%9A%E5%91%A8%E6%9C%9F",
+    "timestamp": "2026-05-25T23:44:49.433Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "宏福苑大火半年｜蘇先生回家的悲與怒　播《陪着你走》送別父母",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260525/1135463803048431616874503.jpeg/sV6LjrX3S8nOGol7rPDsUnmMmK2dDyWOM5wFUzOcBVM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60353175/%E5%A4%A9%E6%B0%A3-%E4%BB%8A%E6%97%A5%E9%83%A8%E4%BB%BD%E6%99%82%E9%96%93%E6%9C%89%E9%99%BD%E5%85%89-%E6%97%A5%E9%96%93%E7%82%8E%E7%86%B1%E7%B4%8432%E5%BA%A6-%E6%9C%AA%E4%BE%86%E6%95%B8%E6%97%A5%E9%85%B7%E7%86%B1%E9%81%9433%E5%BA%A6",
     "timestamp": "2026-05-24T22:41:32.497Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "魯比奧：美伊協議草案獲多國支持　但核談判需時無法迅速解決",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260525/1135426103196913664130495.jpeg/mbbc4Oaztd_I4Rsd47B2vggcicGo2lJ7ncImJZ3CJiU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60353180/%E9%AD%AF%E6%AF%94%E5%A5%A7-%E7%BE%8E%E4%BC%8A%E5%8D%94%E8%AD%B0%E8%8D%89%E6%A1%88%E7%8D%B2%E5%A4%9A%E5%9C%8B%E6%94%AF%E6%8C%81-%E4%BD%86%E6%A0%B8%E8%AB%87%E5%88%A4%E9%9C%80%E6%99%82%E7%84%A1%E6%B3%95%E8%BF%85%E9%80%9F%E8%A7%A3%E6%B1%BA",
-    "timestamp": "2026-05-24T21:45:56.924Z",
     "strategy": ".content-card__main"
   }
 ];
