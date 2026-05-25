@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-25T21:35:15.534Z
+// Last updated: 2026-05-25T22:14:46.934Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "18歲仔胃痛暴瘦！驚揭體內雙胞胎寄生吸血長大　取出2.5公斤腫塊",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260525/1135618191913914368406857.png/QtYGO0Jj2gZ8ZNwE5nGHtUi-ATX8RuStMOVHGjDlRxo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60352607/18%E6%AD%B2%E4%BB%94%E8%83%83%E7%97%9B%E6%9A%B4%E7%98%A6-%E9%A9%9A%E6%8F%AD%E9%AB%94%E5%85%A7%E9%9B%99%E8%83%9E%E8%83%8E%E5%AF%84%E7%94%9F%E5%90%B8%E8%A1%80%E9%95%B7%E5%A4%A7-%E5%8F%96%E5%87%BA2-5%E5%85%AC%E6%96%A4%E8%85%AB%E5%A1%8A",
+    "timestamp": "2026-05-25T22:14:46.934Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "李強分晤夏巴茲及武契奇　推動加強經貿合作",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260525/1135421122272038912321407.jpeg/gPDx6ES5y6kOwL8Jdbj2oD3yCVszvSeqGXqLhRl6i4U?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60353178/%E8%8B%B1%E8%B6%85%E7%85%9E%E7%A7%91-%E9%98%BF%E4%BB%99%E5%A5%B4%E5%B0%81%E7%8E%8B%E6%B4%BE%E5%B0%8D%E9%98%BF%E8%BF%AA%E9%81%94%E7%A9%BF%E7%90%83%E8%A1%A3-%E6%89%BF%E8%AA%8D%E6%9B%BE%E6%87%B7%E7%96%91%E8%87%AA%E5%B7%B1%E9%A0%98%E8%BB%8D%E5%8A%9F%E5%8A%9B",
     "timestamp": "2026-05-24T20:18:47.250Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "油麻地大廈墮石屎　碎片濺傷途人　警拘法團主席",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260219/1101159867034374144489207.jpeg/fHT6HfdLyQDwBGSZE6Ljrdoh4V5dDLw6e2KUbHtilGw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60353177/%E6%B2%B9%E9%BA%BB%E5%9C%B0%E5%A4%A7%E5%BB%88%E5%A2%AE%E7%9F%B3%E5%B1%8E-%E7%A2%8E%E7%89%87%E6%BF%BA%E5%82%B7%E9%80%94%E4%BA%BA-%E8%AD%A6%E6%8B%98%E6%B3%95%E5%9C%98%E4%B8%BB%E5%B8%AD",
-    "timestamp": "2026-05-24T19:49:37.770Z",
     "strategy": ".content-card__main"
   }
 ];
