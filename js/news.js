@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-25T11:53:53.594Z
+// Last updated: 2026-05-25T13:25:43.830Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "黃明志洗脫涉毒3罪　沉默7天發聲嘆：負面標籤難除、有很多話想說",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260525/1135577534520365056923164.png/EpRSY7wO6d2uMjK5TbIhAzBzfxcNTvYQ9X77W_V--1s?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60353271/%E9%BB%83%E6%98%8E%E5%BF%97%E6%B4%97%E8%84%AB%E6%B6%89%E6%AF%923%E7%BD%AA-%E6%B2%89%E9%BB%987%E5%A4%A9%E7%99%BC%E8%81%B2%E5%98%86-%E8%B2%A0%E9%9D%A2%E6%A8%99%E7%B1%A4%E9%9B%A3%E9%99%A4-%E6%9C%89%E5%BE%88%E5%A4%9A%E8%A9%B1%E6%83%B3%E8%AA%AA",
+    "timestamp": "2026-05-25T13:25:43.830Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "走過歷史大地丨洪永城黃翠如遊埃及走訪帝王谷　乘船尋尼羅河水怪",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260524/1135336493011701760786190.jpeg/f0Yug5337nKnaW7_Zrd1dVAvRkx8HoXUCOH3KQjh9yk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60353144/%E4%B8%AD%E5%B9%B4%E5%A5%BD%E8%81%B2%E9%9F%B34-%E9%BB%83%E6%97%A5%E8%8F%AF%E9%A9%9A%E5%96%9C%E5%AE%A2%E4%B8%B2%E5%94%B1-%E5%BF%98%E4%B8%8D%E4%BA%86%E6%82%A8-%E8%82%A5%E5%AA%BD%E5%86%A7%E7%88%86%E7%8B%82%E6%B4%BE%E9%A3%9B%E5%90%BB",
     "timestamp": "2026-05-24T15:15:06.149Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "英超煞科︱沙拿羅拔臣利物浦終極戰獲正選　哥迪奧拿曼城最後一仗",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260524/1135341463979167744478936.jpeg/3flmOEcS2xv_QYzPNJtzoluI8Y2B6qX4y-9posvvaaI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60353151/%E8%8B%B1%E8%B6%85%E7%85%9E%E7%A7%91-%E6%B2%99%E6%8B%BF%E7%BE%85%E6%8B%94%E8%87%A3%E5%88%A9%E7%89%A9%E6%B5%A6%E7%B5%82%E6%A5%B5%E6%88%B0%E7%8D%B2%E6%AD%A3%E9%81%B8-%E5%93%A5%E8%BF%AA%E5%A5%A7%E6%8B%BF%E6%9B%BC%E5%9F%8E%E6%9C%80%E5%BE%8C%E4%B8%80%E4%BB%97",
-    "timestamp": "2026-05-24T14:41:30.554Z",
     "strategy": ".content-card__main"
   }
 ];
