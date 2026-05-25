@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-25T14:28:52.791Z
+// Last updated: 2026-05-25T17:25:47.769Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "東張西望｜哥哥借千萬不還弟弟被擾　收數佬：快啲買棺材死咗去",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260525/1135723969417056256815360.jpeg/8U5zB8B-HXtim-rVrDgAfhE4AprU-h4kTLwqo0y8KqM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60353427/%E6%9D%B1%E5%BC%B5%E8%A5%BF%E6%9C%9B-%E5%93%A5%E5%93%A5%E5%80%9F%E5%8D%83%E8%90%AC%E4%B8%8D%E9%82%84%E5%BC%9F%E5%BC%9F%E8%A2%AB%E6%93%BE-%E6%94%B6%E6%95%B8%E4%BD%AC-%E5%BF%AB%E5%95%B2%E8%B2%B7%E6%A3%BA%E6%9D%90%E6%AD%BB%E5%92%97%E5%8E%BB",
+    "timestamp": "2026-05-25T17:25:47.769Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "黎家盈太空人｜黎家盈高考獲3A　丈夫竟是同班同學　班主任感意外",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260407/1118132452158607360096748.jpeg/XEgdVSHrhKAn2IjNizddqLZ99SaJep7jenhH4Hp4R-A?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60353166/%E5%85%A7%E5%A1%94%E5%B0%BC%E4%BA%9E%E8%83%A1-%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%8D%E4%BC%8A%E6%9C%97%E7%AB%8B%E5%A0%B4%E4%B8%8D%E8%AE%8A-%E7%A2%BA%E8%AA%8D%E4%BB%A5%E8%89%B2%E5%88%97%E5%9C%A8%E9%BB%8E%E5%B7%B4%E5%AB%A9%E6%9C%89%E8%87%AA%E8%A1%9B%E6%AC%8A",
     "timestamp": "2026-05-24T16:14:50.026Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "錦上路狗場逾10隻狗困籠淋雨　畜養人未改善　漁護署檢走看管調查",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260524/1135357092102672384973826.jpeg/mGb3-YEmuRCQpXCSwrV5zpaVl9v3oxGq-Fg5AvhYOQI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60353158/%E9%8C%A6%E4%B8%8A%E8%B7%AF%E7%8B%97%E5%A0%B4%E9%80%BE10%E9%9A%BB%E7%8B%97%E5%9B%B0%E7%B1%A0%E6%B7%8B%E9%9B%A8-%E7%95%9C%E9%A4%8A%E4%BA%BA%E6%9C%AA%E6%94%B9%E5%96%84-%E6%BC%81%E8%AD%B7%E7%BD%B2%E6%AA%A2%E8%B5%B0%E7%9C%8B%E7%AE%A1%E8%AA%BF%E6%9F%A5",
-    "timestamp": "2026-05-24T15:46:59.848Z",
     "strategy": ".content-card__main"
   }
 ];
