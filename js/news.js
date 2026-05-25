@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-25T02:29:37.684Z
+// Last updated: 2026-05-25T03:53:18.570Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "日本7-Eleven創辦人鈴木敏文去世終年93歲　被譽為「便利店之父」",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260525/1135538818351370240284751.png/yb5yheq7aLTX1SmLOiJJsCv9303YUxHjYG0dj2BtHY8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60353222/%E6%97%A5%E6%9C%AC7-eleven%E5%89%B5%E8%BE%A6%E4%BA%BA%E9%88%B4%E6%9C%A8%E6%95%8F%E6%96%87%E5%8E%BB%E4%B8%96%E7%B5%82%E5%B9%B493%E6%AD%B2-%E8%A2%AB%E8%AD%BD%E7%82%BA-%E4%BE%BF%E5%88%A9%E5%BA%97%E4%B9%8B%E7%88%B6",
+    "timestamp": "2026-05-25T03:53:18.570Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "伊波拉｜民主剛果疑似病例增至逾900　英媒：醫護人員面臨2大困境",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260512/1130823298871988224192407.jpeg/DNHfsqfymnPNwUZqC7pHqBviMyiFyYUyoaPSG6Gj0hs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%AB%87%E6%83%85%E8%AA%AA%E6%80%A7/60348910/12%E7%94%9F%E8%82%96%E9%81%87%E5%88%B0%E5%91%BD%E4%B8%AD%E6%B3%A8%E5%AE%9A%E7%9A%84%E4%BB%96%E6%9C%83%E6%80%8E%E6%A8%A3%E8%A1%A8%E7%8F%BE-%E5%B1%AC%E7%BE%8A%E5%8B%87%E6%95%A2%E7%88%AD%E5%8F%96-%E5%B1%AC%E8%9B%87%E9%AB%94%E8%B2%BC%E9%BB%8F%E4%BA%BA",
     "timestamp": "2026-05-24T11:40:42.593Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "佛誕三日連假｜61.5萬人次港人周六北上或外遊　30萬人樂而未返",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260524/1135281068451041280920687.jpeg/IsSddXVzviWx1DHi74Nad_frcfCIqWO325POrNuTzqw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60353112/%E4%BD%9B%E8%AA%95%E4%B8%89%E6%97%A5%E9%80%A3%E5%81%87-61-5%E8%90%AC%E4%BA%BA%E6%AC%A1%E6%B8%AF%E4%BA%BA%E5%91%A8%E5%85%AD%E5%8C%97%E4%B8%8A%E6%88%96%E5%A4%96%E9%81%8A-30%E8%90%AC%E4%BA%BA%E6%A8%82%E8%80%8C%E6%9C%AA%E8%BF%94",
-    "timestamp": "2026-05-24T11:04:09.281Z",
     "strategy": ".content-card__main"
   }
 ];
