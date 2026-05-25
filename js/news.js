@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-25T13:25:43.830Z
+// Last updated: 2026-05-25T14:28:52.791Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "黎家盈太空人｜黎家盈高考獲3A　丈夫竟是同班同學　班主任感意外",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260525/1135699230413819904062138.jpeg/Pj8yM10ON6E-4_peOgek-I7PcoIK1zxRpKfy2KSn8tg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60353410/%E9%BB%8E%E5%AE%B6%E7%9B%88%E5%A4%AA%E7%A9%BA%E4%BA%BA-%E9%BB%8E%E5%AE%B6%E7%9B%88%E9%AB%98%E8%80%83%E7%8D%B23a-%E4%B8%88%E5%A4%AB%E7%AB%9F%E6%98%AF%E5%90%8C%E7%8F%AD%E5%90%8C%E5%AD%B8-%E7%8F%AD%E4%B8%BB%E4%BB%BB%E6%84%9F%E6%84%8F%E5%A4%96",
+    "timestamp": "2026-05-25T14:28:52.791Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "黃明志洗脫涉毒3罪　沉默7天發聲嘆：負面標籤難除、有很多話想說",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260524/1135357092102672384973826.jpeg/mGb3-YEmuRCQpXCSwrV5zpaVl9v3oxGq-Fg5AvhYOQI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60353158/%E9%8C%A6%E4%B8%8A%E8%B7%AF%E7%8B%97%E5%A0%B4%E9%80%BE10%E9%9A%BB%E7%8B%97%E5%9B%B0%E7%B1%A0%E6%B7%8B%E9%9B%A8-%E7%95%9C%E9%A4%8A%E4%BA%BA%E6%9C%AA%E6%94%B9%E5%96%84-%E6%BC%81%E8%AD%B7%E7%BD%B2%E6%AA%A2%E8%B5%B0%E7%9C%8B%E7%AE%A1%E8%AA%BF%E6%9F%A5",
     "timestamp": "2026-05-24T15:46:59.848Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "中年好聲音4｜黃日華驚喜客串唱《忘不了您》　肥媽冧爆狂派飛吻",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260524/1135336493011701760786190.jpeg/f0Yug5337nKnaW7_Zrd1dVAvRkx8HoXUCOH3KQjh9yk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60353144/%E4%B8%AD%E5%B9%B4%E5%A5%BD%E8%81%B2%E9%9F%B34-%E9%BB%83%E6%97%A5%E8%8F%AF%E9%A9%9A%E5%96%9C%E5%AE%A2%E4%B8%B2%E5%94%B1-%E5%BF%98%E4%B8%8D%E4%BA%86%E6%82%A8-%E8%82%A5%E5%AA%BD%E5%86%A7%E7%88%86%E7%8B%82%E6%B4%BE%E9%A3%9B%E5%90%BB",
-    "timestamp": "2026-05-24T15:15:06.149Z",
     "strategy": ".content-card__main"
   }
 ];
