@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-25T22:14:46.934Z
+// Last updated: 2026-05-25T23:14:31.394Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "宏福苑大火半年｜蘇先生回家的悲與怒　播《陪着你走》送別父母",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260522/1134544784380137472462835.jpeg/O7FHjkkfFuK61LYjicxcNpNYQ6gJJmHqQeKysEHisrA",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60349082/%E5%AE%8F%E7%A6%8F%E8%8B%91%E5%A4%A7%E7%81%AB%E5%8D%8A%E5%B9%B4-%E8%98%87%E5%85%88%E7%94%9F%E5%9B%9E%E5%AE%B6%E7%9A%84%E6%82%B2%E8%88%87%E6%80%92-%E6%92%AD-%E9%99%AA%E7%9D%80%E4%BD%A0%E8%B5%B0-%E9%80%81%E5%88%A5%E7%88%B6%E6%AF%8D",
+    "timestamp": "2026-05-25T23:14:31.394Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "18歲仔胃痛暴瘦！驚揭體內雙胞胎寄生吸血長大　取出2.5公斤腫塊",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260525/1135426103196913664130495.jpeg/mbbc4Oaztd_I4Rsd47B2vggcicGo2lJ7ncImJZ3CJiU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60353180/%E9%AD%AF%E6%AF%94%E5%A5%A7-%E7%BE%8E%E4%BC%8A%E5%8D%94%E8%AD%B0%E8%8D%89%E6%A1%88%E7%8D%B2%E5%A4%9A%E5%9C%8B%E6%94%AF%E6%8C%81-%E4%BD%86%E6%A0%B8%E8%AB%87%E5%88%A4%E9%9C%80%E6%99%82%E7%84%A1%E6%B3%95%E8%BF%85%E9%80%9F%E8%A7%A3%E6%B1%BA",
     "timestamp": "2026-05-24T21:45:56.924Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "英超煞科︱阿仙奴封王派對阿迪達穿球衣　承認曾懷疑自己領軍功力",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260525/1135421122272038912321407.jpeg/gPDx6ES5y6kOwL8Jdbj2oD3yCVszvSeqGXqLhRl6i4U?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60353178/%E8%8B%B1%E8%B6%85%E7%85%9E%E7%A7%91-%E9%98%BF%E4%BB%99%E5%A5%B4%E5%B0%81%E7%8E%8B%E6%B4%BE%E5%B0%8D%E9%98%BF%E8%BF%AA%E9%81%94%E7%A9%BF%E7%90%83%E8%A1%A3-%E6%89%BF%E8%AA%8D%E6%9B%BE%E6%87%B7%E7%96%91%E8%87%AA%E5%B7%B1%E9%A0%98%E8%BB%8D%E5%8A%9F%E5%8A%9B",
-    "timestamp": "2026-05-24T20:18:47.250Z",
     "strategy": ".content-card__main"
   }
 ];
