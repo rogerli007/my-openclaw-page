@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-25T17:25:47.769Z
+// Last updated: 2026-05-25T18:09:57.949Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "外媒：美伊擬將停火延長60 天　30天內恢復霍爾木茲自由通航",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260313/1108943980365615104108725.jpeg/w4lfTAcu4GskIScwDNxXCX1zxIW9zWzcsQ46xbEOOsU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60353436/%E5%A4%96%E5%AA%92-%E7%BE%8E%E4%BC%8A%E6%93%AC%E5%B0%87%E5%81%9C%E7%81%AB%E5%BB%B6%E9%95%B760-%E5%A4%A9-30%E5%A4%A9%E5%85%A7%E6%81%A2%E5%BE%A9%E9%9C%8D%E7%88%BE%E6%9C%A8%E8%8C%B2%E8%87%AA%E7%94%B1%E9%80%9A%E8%88%AA",
+    "timestamp": "2026-05-25T18:09:57.949Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "東張西望｜哥哥借千萬不還弟弟被擾　收數佬：快啲買棺材死咗去",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260524/1135368434926751744193750.jpeg/CbYGUIv2ISzIZ_Aerut9lDoCMZ4MwucBcAJGinACRoo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60353157/%E9%BB%8E%E5%AE%B6%E7%9B%88%E5%A4%AA%E7%A9%BA%E4%BA%BA-%E5%90%8C%E5%87%BA%E8%AD%A6%E9%9A%8A%E5%8D%93%E5%AD%9D%E6%A5%AD%E6%84%9F%E8%88%87%E6%9C%89%E6%A6%AE%E7%84%89-%E4%BF%A1%E6%9C%83%E7%82%BA%E6%B8%AF%E5%B8%B6%E4%BE%86%E5%A4%AA%E7%A9%BA%E7%86%B1%E6%BD%AE",
     "timestamp": "2026-05-24T16:42:08.138Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "內塔尼亞胡：特朗普對伊朗立場不變　確認以色列在黎巴嫩有自衛權",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260407/1118132452158607360096748.jpeg/XEgdVSHrhKAn2IjNizddqLZ99SaJep7jenhH4Hp4R-A?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60353166/%E5%85%A7%E5%A1%94%E5%B0%BC%E4%BA%9E%E8%83%A1-%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%8D%E4%BC%8A%E6%9C%97%E7%AB%8B%E5%A0%B4%E4%B8%8D%E8%AE%8A-%E7%A2%BA%E8%AA%8D%E4%BB%A5%E8%89%B2%E5%88%97%E5%9C%A8%E9%BB%8E%E5%B7%B4%E5%AB%A9%E6%9C%89%E8%87%AA%E8%A1%9B%E6%AC%8A",
-    "timestamp": "2026-05-24T16:14:50.026Z",
     "strategy": ".content-card__main"
   }
 ];
