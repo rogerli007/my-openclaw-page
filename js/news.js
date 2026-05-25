@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-25T07:16:41.024Z
+// Last updated: 2026-05-25T11:53:53.594Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "走過歷史大地丨洪永城黃翠如遊埃及走訪帝王谷　乘船尋尼羅河水怪",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260525/1135634965996769280429056.jpeg/WJ6VDF54dPqxF8NPiac9QEtU2ZPHqTzhPiHXIz4h1yM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60353367/%E8%B5%B0%E9%81%8E%E6%AD%B7%E5%8F%B2%E5%A4%A7%E5%9C%B0-%E6%B4%AA%E6%B0%B8%E5%9F%8E%E9%BB%83%E7%BF%A0%E5%A6%82%E9%81%8A%E5%9F%83%E5%8F%8A%E8%B5%B0%E8%A8%AA%E5%B8%9D%E7%8E%8B%E8%B0%B7-%E4%B9%98%E8%88%B9%E5%B0%8B%E5%B0%BC%E7%BE%85%E6%B2%B3%E6%B0%B4%E6%80%AA",
+    "timestamp": "2026-05-25T11:53:53.594Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "心臟健康｜蛋白質怎吃最好？美國心臟協會：首選植物蛋白護心血管",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260524/1135341463979167744478936.jpeg/3flmOEcS2xv_QYzPNJtzoluI8Y2B6qX4y-9posvvaaI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60353151/%E8%8B%B1%E8%B6%85%E7%85%9E%E7%A7%91-%E6%B2%99%E6%8B%BF%E7%BE%85%E6%8B%94%E8%87%A3%E5%88%A9%E7%89%A9%E6%B5%A6%E7%B5%82%E6%A5%B5%E6%88%B0%E7%8D%B2%E6%AD%A3%E9%81%B8-%E5%93%A5%E8%BF%AA%E5%A5%A7%E6%8B%BF%E6%9B%BC%E5%9F%8E%E6%9C%80%E5%BE%8C%E4%B8%80%E4%BB%97",
     "timestamp": "2026-05-24T14:41:30.554Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "王祖藍聞撞樣邊佑錫回應「啲人咁早老花？」　爆遭妻女嫌中年發福",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260524/1135322409465810944267308.jpeg/KFwDmz61oGwReyU0SmbrLKP6prpgLMOlSc19TknNfU4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60353135/%E7%8E%8B%E7%A5%96%E8%97%8D%E8%81%9E%E6%92%9E%E6%A8%A3%E9%82%8A%E4%BD%91%E9%8C%AB%E5%9B%9E%E6%87%89-%E5%95%B2%E4%BA%BA%E5%92%81%E6%97%A9%E8%80%81%E8%8A%B1-%E7%88%86%E9%81%AD%E5%A6%BB%E5%A5%B3%E5%AB%8C%E4%B8%AD%E5%B9%B4%E7%99%BC%E7%A6%8F",
-    "timestamp": "2026-05-24T13:59:54.376Z",
     "strategy": ".content-card__main"
   }
 ];
