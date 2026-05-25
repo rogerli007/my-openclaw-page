@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-25T01:26:27.284Z
+// Last updated: 2026-05-25T02:29:37.684Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "伊波拉｜民主剛果疑似病例增至逾900　英媒：醫護人員面臨2大困境",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260525/1135521355274391552914820.jpeg/dnqpO569pJ9fS8plCiRJtlWfOIJAv8I0615EputeRKY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60353201/%E4%BC%8A%E6%B3%A2%E6%8B%89-%E6%B0%91%E4%B8%BB%E5%89%9B%E6%9E%9C%E7%96%91%E4%BC%BC%E7%97%85%E4%BE%8B%E5%A2%9E%E8%87%B3%E9%80%BE900-%E8%8B%B1%E5%AA%92-%E9%86%AB%E8%AD%B7%E4%BA%BA%E5%93%A1%E9%9D%A2%E8%87%A82%E5%A4%A7%E5%9B%B0%E5%A2%83",
+    "timestamp": "2026-05-25T02:29:37.684Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "Google街景見離世7年爺爺拖愛犬散步身影！港男感觸：好掛住佢哋",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260524/1135281068451041280920687.jpeg/IsSddXVzviWx1DHi74Nad_frcfCIqWO325POrNuTzqw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60353112/%E4%BD%9B%E8%AA%95%E4%B8%89%E6%97%A5%E9%80%A3%E5%81%87-61-5%E8%90%AC%E4%BA%BA%E6%AC%A1%E6%B8%AF%E4%BA%BA%E5%91%A8%E5%85%AD%E5%8C%97%E4%B8%8A%E6%88%96%E5%A4%96%E9%81%8A-30%E8%90%AC%E4%BA%BA%E6%A8%82%E8%80%8C%E6%9C%AA%E8%BF%94",
     "timestamp": "2026-05-24T11:04:09.281Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "佛誕｜陳國基：佛教倡慈悲化解仇恨　市民要共同維護社會穩定",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260524/1135275652203679744409253.jpeg/x6ATGsJ4-xvuvXEn45b3I7oNfTlvi0quSJj-PEiY_jw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60353108/%E4%BD%9B%E8%AA%95-%E9%99%B3%E5%9C%8B%E5%9F%BA-%E4%BD%9B%E6%95%99%E5%80%A1%E6%85%88%E6%82%B2%E5%8C%96%E8%A7%A3%E4%BB%87%E6%81%A8-%E5%B8%82%E6%B0%91%E8%A6%81%E5%85%B1%E5%90%8C%E7%B6%AD%E8%AD%B7%E7%A4%BE%E6%9C%83%E7%A9%A9%E5%AE%9A",
-    "timestamp": "2026-05-24T10:26:41.379Z",
     "strategy": ".content-card__main"
   }
 ];
