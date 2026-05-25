@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-25T20:58:34.897Z
+// Last updated: 2026-05-25T21:35:15.534Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "李強分晤夏巴茲及武契奇　推動加強經貿合作",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260526/1135745399626141696435260.jpeg/h6-NX-1LV0BhzdSbsdSCB_DQ8XbGh627LrcG6S63Buk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60353433/%E6%9D%8E%E5%BC%B7%E5%88%86%E6%99%A4%E5%A4%8F%E5%B7%B4%E8%8C%B2%E5%8F%8A%E6%AD%A6%E5%A5%91%E5%A5%87-%E6%8E%A8%E5%8B%95%E5%8A%A0%E5%BC%B7%E7%B6%93%E8%B2%BF%E5%90%88%E4%BD%9C",
+    "timestamp": "2026-05-25T21:35:15.534Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "教宗良十四世發布首份通諭　促加強監管AI防導致戰爭",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260219/1101159867034374144489207.jpeg/fHT6HfdLyQDwBGSZE6Ljrdoh4V5dDLw6e2KUbHtilGw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60353177/%E6%B2%B9%E9%BA%BB%E5%9C%B0%E5%A4%A7%E5%BB%88%E5%A2%AE%E7%9F%B3%E5%B1%8E-%E7%A2%8E%E7%89%87%E6%BF%BA%E5%82%B7%E9%80%94%E4%BA%BA-%E8%AD%A6%E6%8B%98%E6%B3%95%E5%9C%98%E4%B8%BB%E5%B8%AD",
     "timestamp": "2026-05-24T19:49:37.770Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "油麻地大廈墮石屎　碎片濺傷途人　警拘法團主席",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260219/1101159867034374144489207.jpeg/fHT6HfdLyQDwBGSZE6Ljrdoh4V5dDLw6e2KUbHtilGw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60353177/%E6%B2%B9%E9%BA%BB%E5%9C%B0%E5%A4%A7%E5%BB%88%E5%A2%AE%E7%9F%B3%E5%B1%8E-%E7%A2%8E%E7%89%87%E6%BF%BA%E5%82%B7%E9%80%94%E4%BA%BA-%E8%AD%A6%E6%8B%98%E6%B3%95%E5%9C%98%E4%B8%BB%E5%B8%AD",
-    "timestamp": "2026-05-24T19:16:11.270Z",
     "strategy": ".content-card__main"
   }
 ];
