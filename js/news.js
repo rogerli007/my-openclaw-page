@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-25T00:13:45.944Z
+// Last updated: 2026-05-25T01:26:27.284Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "Google街景見離世7年爺爺拖愛犬散步身影！港男感觸：好掛住佢哋",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260524/1135144391837487104734659.png/5av6mTzVtGkilAoi3XmPqQzOvS_OK_qwmngvF5p4Lxc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60352884/google%E8%A1%97%E6%99%AF%E8%A6%8B%E9%9B%A2%E4%B8%967%E5%B9%B4%E7%88%BA%E7%88%BA%E6%8B%96%E6%84%9B%E7%8A%AC%E6%95%A3%E6%AD%A5%E8%BA%AB%E5%BD%B1-%E6%B8%AF%E7%94%B7%E6%84%9F%E8%A7%B8-%E5%A5%BD%E6%8E%9B%E4%BD%8F%E4%BD%A2%E5%93%8B",
+    "timestamp": "2026-05-25T01:26:27.284Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "日本治安維持法「最後見證人」菱谷良一：因一幅尋常生活圖畫入獄",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260524/1135275652203679744409253.jpeg/x6ATGsJ4-xvuvXEn45b3I7oNfTlvi0quSJj-PEiY_jw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60353108/%E4%BD%9B%E8%AA%95-%E9%99%B3%E5%9C%8B%E5%9F%BA-%E4%BD%9B%E6%95%99%E5%80%A1%E6%85%88%E6%82%B2%E5%8C%96%E8%A7%A3%E4%BB%87%E6%81%A8-%E5%B8%82%E6%B0%91%E8%A6%81%E5%85%B1%E5%90%8C%E7%B6%AD%E8%AD%B7%E7%A4%BE%E6%9C%83%E7%A9%A9%E5%AE%9A",
     "timestamp": "2026-05-24T10:26:41.379Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "油價｜黃傑龍籲油公司提高價格透明度　料兩電燃料費八月達高峰",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260430/1126317741372870656976518.jpeg/D0Smn5LGbfFqQ02yQQfRF-aQupwhTpJqdE3wcm5N8HI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60353071/%E6%B2%B9%E5%83%B9-%E9%BB%83%E5%82%91%E9%BE%8D%E7%B1%B2%E6%B2%B9%E5%85%AC%E5%8F%B8%E6%8F%90%E9%AB%98%E5%83%B9%E6%A0%BC%E9%80%8F%E6%98%8E%E5%BA%A6-%E6%96%99%E5%85%A9%E9%9B%BB%E7%87%83%E6%96%99%E8%B2%BB%E5%85%AB%E6%9C%88%E9%81%94%E9%AB%98%E5%B3%B0",
-    "timestamp": "2026-05-24T09:04:14.406Z",
     "strategy": ".content-card__main"
   }
 ];
