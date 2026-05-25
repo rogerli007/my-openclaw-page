@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-25T19:40:21.569Z
+// Last updated: 2026-05-25T20:58:34.897Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "教宗良十四世發布首份通諭　促加強監管AI防導致戰爭",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260526/1135788390344560640072153.jpeg/HvyfXw2FY1gVEhf1L-_QRwmO1738lzJQQ1qvzUNar80?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60353440/%E6%95%99%E5%AE%97%E8%89%AF%E5%8D%81%E5%9B%9B%E4%B8%96%E7%99%BC%E5%B8%83%E9%A6%96%E4%BB%BD%E9%80%9A%E8%AB%AD-%E4%BF%83%E5%8A%A0%E5%BC%B7%E7%9B%A3%E7%AE%A1ai%E9%98%B2%E5%B0%8E%E8%87%B4%E6%88%B0%E7%88%AD",
+    "timestamp": "2026-05-25T20:58:34.897Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "伊媒：穆傑塔巴2月底受傷留院一夜　期間堅持齋戒",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260219/1101159867034374144489207.jpeg/fHT6HfdLyQDwBGSZE6Ljrdoh4V5dDLw6e2KUbHtilGw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60353177/%E6%B2%B9%E9%BA%BB%E5%9C%B0%E5%A4%A7%E5%BB%88%E5%A2%AE%E7%9F%B3%E5%B1%8E-%E7%A2%8E%E7%89%87%E6%BF%BA%E5%82%B7%E9%80%94%E4%BA%BA-%E8%AD%A6%E6%8B%98%E6%B3%95%E5%9C%98%E4%B8%BB%E5%B8%AD",
     "timestamp": "2026-05-24T19:16:11.270Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "土耳其防暴警攻入反對黨總部　施放催淚彈驅逐黨魁",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260525/1135383535234846720724150.jpeg/KGSGpLKnEELmJ4WsS4IGCv2LgS31yCPL5iVYKeYlWCk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60353169/%E5%9C%9F%E8%80%B3%E5%85%B6%E9%98%B2%E6%9A%B4%E8%AD%A6%E6%94%BB%E5%85%A5%E5%8F%8D%E5%B0%8D%E9%BB%A8%E7%B8%BD%E9%83%A8-%E6%96%BD%E6%94%BE%E5%82%AC%E6%B7%9A%E5%BD%88%E9%A9%85%E9%80%90%E9%BB%A8%E9%AD%81",
-    "timestamp": "2026-05-24T17:41:25.155Z",
     "strategy": ".content-card__main"
   }
 ];
