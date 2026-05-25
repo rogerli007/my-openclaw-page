@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-25T18:57:01.306Z
+// Last updated: 2026-05-25T19:40:21.569Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "伊媒：穆傑塔巴2月底受傷留院一夜　期間堅持齋戒",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260309/1107609437184462848352987.jpeg/S0pO4_Ufg05G6mo4ivP7bTZc7-pqup4NHAqiFBwKohQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60353438/%E4%BC%8A%E5%AA%92-%E7%A9%86%E5%82%91%E5%A1%94%E5%B7%B42%E6%9C%88%E5%BA%95%E5%8F%97%E5%82%B7%E7%95%99%E9%99%A2%E4%B8%80%E5%A4%9C-%E6%9C%9F%E9%96%93%E5%A0%85%E6%8C%81%E9%BD%8B%E6%88%92",
+    "timestamp": "2026-05-25T19:40:21.569Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "巴西總統盧拉確診早期皮膚癌　需接受放射治療",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260525/1135383535234846720724150.jpeg/KGSGpLKnEELmJ4WsS4IGCv2LgS31yCPL5iVYKeYlWCk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60353169/%E5%9C%9F%E8%80%B3%E5%85%B6%E9%98%B2%E6%9A%B4%E8%AD%A6%E6%94%BB%E5%85%A5%E5%8F%8D%E5%B0%8D%E9%BB%A8%E7%B8%BD%E9%83%A8-%E6%96%BD%E6%94%BE%E5%82%AC%E6%B7%9A%E5%BD%88%E9%A9%85%E9%80%90%E9%BB%A8%E9%AD%81",
     "timestamp": "2026-05-24T17:41:25.155Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "土耳其防暴警攻入反對黨總部　施放催淚彈驅逐黨魁",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260525/1135383535234846720724150.jpeg/KGSGpLKnEELmJ4WsS4IGCv2LgS31yCPL5iVYKeYlWCk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60353169/%E5%9C%9F%E8%80%B3%E5%85%B6%E9%98%B2%E6%9A%B4%E8%AD%A6%E6%94%BB%E5%85%A5%E5%8F%8D%E5%B0%8D%E9%BB%A8%E7%B8%BD%E9%83%A8-%E6%96%BD%E6%94%BE%E5%82%AC%E6%B7%9A%E5%BD%88%E9%A9%85%E9%80%90%E9%BB%A8%E9%AD%81",
-    "timestamp": "2026-05-24T17:14:48.055Z",
     "strategy": ".content-card__main"
   }
 ];
