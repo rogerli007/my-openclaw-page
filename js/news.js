@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-24T23:12:37.980Z
+// Last updated: 2026-05-25T00:13:45.944Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "日本治安維持法「最後見證人」菱谷良一：因一幅尋常生活圖畫入獄",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260202/1095000172250796032359042.png/KVDkKDny82MsD-QqXojyU1MSv3NcEZy664TYleuE2JU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E4%B8%96%E7%95%8C%E5%B0%88%E9%A1%8C/60318451/%E6%97%A5%E6%9C%AC%E6%B2%BB%E5%AE%89%E7%B6%AD%E6%8C%81%E6%B3%95-%E6%9C%80%E5%BE%8C%E8%A6%8B%E8%AD%89%E4%BA%BA-%E8%8F%B1%E8%B0%B7%E8%89%AF%E4%B8%80-%E5%9B%A0%E4%B8%80%E5%B9%85%E5%B0%8B%E5%B8%B8%E7%94%9F%E6%B4%BB%E5%9C%96%E7%95%AB%E5%85%A5%E7%8D%84",
+    "timestamp": "2026-05-25T00:13:45.944Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "「小島學園」校長鄧明儀談重啟計劃原因 藉體驗營培養自理能力",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260430/1126317741372870656976518.jpeg/D0Smn5LGbfFqQ02yQQfRF-aQupwhTpJqdE3wcm5N8HI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60353071/%E6%B2%B9%E5%83%B9-%E9%BB%83%E5%82%91%E9%BE%8D%E7%B1%B2%E6%B2%B9%E5%85%AC%E5%8F%B8%E6%8F%90%E9%AB%98%E5%83%B9%E6%A0%BC%E9%80%8F%E6%98%8E%E5%BA%A6-%E6%96%99%E5%85%A9%E9%9B%BB%E7%87%83%E6%96%99%E8%B2%BB%E5%85%AB%E6%9C%88%E9%81%94%E9%AB%98%E5%B3%B0",
     "timestamp": "2026-05-24T09:04:14.406Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "佛誕放生｜荃灣西碼頭百人候船　搞手：經我手放生已逾100萬條魚",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260524/1135236879034093568342078.png/RCypi9w4eqyqRwDTFQxPw4JaVQQs13QdV6flWHGn5Vg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60353065/%E4%BD%9B%E8%AA%95%E6%94%BE%E7%94%9F-%E8%8D%83%E7%81%A3%E8%A5%BF%E7%A2%BC%E9%A0%AD%E7%99%BE%E4%BA%BA%E5%80%99%E8%88%B9-%E6%90%9E%E6%89%8B-%E7%B6%93%E6%88%91%E6%89%8B%E6%94%BE%E7%94%9F%E5%B7%B2%E9%80%BE100%E8%90%AC%E6%A2%9D%E9%AD%9A",
-    "timestamp": "2026-05-24T07:52:32.494Z",
     "strategy": ".content-card__main"
   }
 ];
