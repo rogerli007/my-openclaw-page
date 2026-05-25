@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-25T18:09:57.949Z
+// Last updated: 2026-05-25T18:57:01.306Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "巴西總統盧拉確診早期皮膚癌　需接受放射治療",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260422/1123439547317751808063915.jpeg/QsXnDG9PzZXHeKprlrs6u0G2UHRL2OfF41YpA-NWKQM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60353437/%E5%B7%B4%E8%A5%BF%E7%B8%BD%E7%B5%B1%E7%9B%A7%E6%8B%89%E7%A2%BA%E8%A8%BA%E6%97%A9%E6%9C%9F%E7%9A%AE%E8%86%9A%E7%99%8C-%E9%9C%80%E6%8E%A5%E5%8F%97%E6%94%BE%E5%B0%84%E6%B2%BB%E7%99%82",
+    "timestamp": "2026-05-25T18:57:01.306Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "外媒：美伊擬將停火延長60 天　30天內恢復霍爾木茲自由通航",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260525/1135383535234846720724150.jpeg/KGSGpLKnEELmJ4WsS4IGCv2LgS31yCPL5iVYKeYlWCk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60353169/%E5%9C%9F%E8%80%B3%E5%85%B6%E9%98%B2%E6%9A%B4%E8%AD%A6%E6%94%BB%E5%85%A5%E5%8F%8D%E5%B0%8D%E9%BB%A8%E7%B8%BD%E9%83%A8-%E6%96%BD%E6%94%BE%E5%82%AC%E6%B7%9A%E5%BD%88%E9%A9%85%E9%80%90%E9%BB%A8%E9%AD%81",
     "timestamp": "2026-05-24T17:14:48.055Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "黎家盈太空人｜同出警隊卓孝業感與有榮焉　信會為港帶來太空熱潮",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260524/1135368434926751744193750.jpeg/CbYGUIv2ISzIZ_Aerut9lDoCMZ4MwucBcAJGinACRoo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60353157/%E9%BB%8E%E5%AE%B6%E7%9B%88%E5%A4%AA%E7%A9%BA%E4%BA%BA-%E5%90%8C%E5%87%BA%E8%AD%A6%E9%9A%8A%E5%8D%93%E5%AD%9D%E6%A5%AD%E6%84%9F%E8%88%87%E6%9C%89%E6%A6%AE%E7%84%89-%E4%BF%A1%E6%9C%83%E7%82%BA%E6%B8%AF%E5%B8%B6%E4%BE%86%E5%A4%AA%E7%A9%BA%E7%86%B1%E6%BD%AE",
-    "timestamp": "2026-05-24T16:42:08.138Z",
     "strategy": ".content-card__main"
   }
 ];
