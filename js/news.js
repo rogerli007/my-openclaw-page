@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-26T05:32:46.800Z
+// Last updated: 2026-05-26T06:58:32.156Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "杭州MUJI有女子拿店內指甲油「試搽落腳」　網民狠批：噁心壞了！",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260526/1135948579697856512027539.jpeg/nOOPDz4gdqDqZoYdfxqP3LijJGC-AiXwWj2QHlo9kB4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60353602/%E6%9D%AD%E5%B7%9Emuji%E6%9C%89%E5%A5%B3%E5%AD%90%E6%8B%BF%E5%BA%97%E5%85%A7%E6%8C%87%E7%94%B2%E6%B2%B9-%E8%A9%A6%E6%90%BD%E8%90%BD%E8%85%B3-%E7%B6%B2%E6%B0%91%E7%8B%A0%E6%89%B9-%E5%99%81%E5%BF%83%E5%A3%9E%E4%BA%86",
+    "timestamp": "2026-05-26T06:58:32.156Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "音樂人黃丹儀何文田舊樓　簽十年長約收租462萬　租客擬改簡樸房",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20251006/1051870435639037952140875.jpeg/FGOUT8OqtfABsffTfnorWkNuXSt3CE2bc7DQcXOw0HE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60353260/%E5%BC%B5%E5%9C%8B%E9%88%9E%E4%B8%98%E6%87%89%E6%A8%BA%E8%A8%AA%E4%BA%AC%E6%8B%9C%E6%9C%83%E4%B8%AD%E5%A4%AE%E9%83%A8%E5%A7%94-%E4%BA%A4%E6%B5%81%E5%8D%94%E5%8A%A9%E5%85%A7%E5%9C%B0%E4%BC%81%E6%A5%AD%E5%87%BA%E6%B5%B7%E4%BA%8B%E5%AE%9C",
     "timestamp": "2026-05-25T05:48:35.213Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "日本7-Eleven創辦人鈴木敏文去世終年93歲　被譽為「便利店之父」",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260525/1135538818351370240284751.png/yb5yheq7aLTX1SmLOiJJsCv9303YUxHjYG0dj2BtHY8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60353222/%E6%97%A5%E6%9C%AC7-eleven%E5%89%B5%E8%BE%A6%E4%BA%BA%E9%88%B4%E6%9C%A8%E6%95%8F%E6%96%87%E5%8E%BB%E4%B8%96%E7%B5%82%E5%B9%B493%E6%AD%B2-%E8%A2%AB%E8%AD%BD%E7%82%BA-%E4%BE%BF%E5%88%A9%E5%BA%97%E4%B9%8B%E7%88%B6",
-    "timestamp": "2026-05-25T03:53:18.570Z",
     "strategy": ".content-card__main"
   }
 ];
