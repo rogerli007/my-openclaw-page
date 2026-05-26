@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-26T18:25:24.505Z
+// Last updated: 2026-05-26T19:24:05.818Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "中國成功發射通信技術試驗衛星二十四號",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260527/1136140705069010944714860.png/o0T7OfHZbbLsF7h6jj1I-8zT9DFKIePjgwbSL4MG0i8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60353836/%E4%B8%AD%E5%9C%8B%E6%88%90%E5%8A%9F%E7%99%BC%E5%B0%84%E9%80%9A%E4%BF%A1%E6%8A%80%E8%A1%93%E8%A9%A6%E9%A9%97%E8%A1%9B%E6%98%9F%E4%BA%8C%E5%8D%81%E5%9B%9B%E8%99%9F",
+    "timestamp": "2026-05-26T19:24:05.818Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "王毅主持安理會高級別會議　提出五點重振　冀激活壯大聯合國",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260313/1108943980365615104108725.jpeg/w4lfTAcu4GskIScwDNxXCX1zxIW9zWzcsQ46xbEOOsU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60353436/%E5%A4%96%E5%AA%92-%E7%BE%8E%E4%BC%8A%E6%93%AC%E5%B0%87%E5%81%9C%E7%81%AB%E5%BB%B6%E9%95%B760-%E5%A4%A9-30%E5%A4%A9%E5%85%A7%E6%81%A2%E5%BE%A9%E9%9C%8D%E7%88%BE%E6%9C%A8%E8%8C%B2%E8%87%AA%E7%94%B1%E9%80%9A%E8%88%AA",
     "timestamp": "2026-05-25T18:09:57.949Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "東張西望｜哥哥借千萬不還弟弟被擾　收數佬：快啲買棺材死咗去",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260525/1135723969417056256815360.jpeg/8U5zB8B-HXtim-rVrDgAfhE4AprU-h4kTLwqo0y8KqM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60353427/%E6%9D%B1%E5%BC%B5%E8%A5%BF%E6%9C%9B-%E5%93%A5%E5%93%A5%E5%80%9F%E5%8D%83%E8%90%AC%E4%B8%8D%E9%82%84%E5%BC%9F%E5%BC%9F%E8%A2%AB%E6%93%BE-%E6%94%B6%E6%95%B8%E4%BD%AC-%E5%BF%AB%E5%95%B2%E8%B2%B7%E6%A3%BA%E6%9D%90%E6%AD%BB%E5%92%97%E5%8E%BB",
-    "timestamp": "2026-05-25T17:25:47.769Z",
     "strategy": ".content-card__main"
   }
 ];
