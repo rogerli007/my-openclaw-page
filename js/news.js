@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-26T01:21:39.466Z
+// Last updated: 2026-05-26T02:30:23.957Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "內地整治非法跨境炒股 　耀才曾泄逾一成　懶理早年已清内地戶口",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250509/997518299933708288280613.jpeg/eHXoNtrjyZnSTEiQqb_NkQrIwM5GLcAey4cVpMuHFaQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60353489/%E5%85%A7%E5%9C%B0%E6%95%B4%E6%B2%BB%E9%9D%9E%E6%B3%95%E8%B7%A8%E5%A2%83%E7%82%92%E8%82%A1-%E8%80%80%E6%89%8D%E6%9B%BE%E6%B3%84%E9%80%BE%E4%B8%80%E6%88%90-%E6%87%B6%E7%90%86%E6%97%A9%E5%B9%B4%E5%B7%B2%E6%B8%85%E5%86%85%E5%9C%B0%E6%88%B6%E5%8F%A3",
+    "timestamp": "2026-05-26T02:30:23.957Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "四川男無故變毒販！申樓宇按揭被拒　原來被親弟冒用身份頂罪10年",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260524/1135144391837487104734659.png/5av6mTzVtGkilAoi3XmPqQzOvS_OK_qwmngvF5p4Lxc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60352884/google%E8%A1%97%E6%99%AF%E8%A6%8B%E9%9B%A2%E4%B8%967%E5%B9%B4%E7%88%BA%E7%88%BA%E6%8B%96%E6%84%9B%E7%8A%AC%E6%95%A3%E6%AD%A5%E8%BA%AB%E5%BD%B1-%E6%B8%AF%E7%94%B7%E6%84%9F%E8%A7%B8-%E5%A5%BD%E6%8E%9B%E4%BD%8F%E4%BD%A2%E5%93%8B",
     "timestamp": "2026-05-25T01:26:27.284Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "日本治安維持法「最後見證人」菱谷良一：因一幅尋常生活圖畫入獄",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260202/1095000172250796032359042.png/KVDkKDny82MsD-QqXojyU1MSv3NcEZy664TYleuE2JU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E4%B8%96%E7%95%8C%E5%B0%88%E9%A1%8C/60318451/%E6%97%A5%E6%9C%AC%E6%B2%BB%E5%AE%89%E7%B6%AD%E6%8C%81%E6%B3%95-%E6%9C%80%E5%BE%8C%E8%A6%8B%E8%AD%89%E4%BA%BA-%E8%8F%B1%E8%B0%B7%E8%89%AF%E4%B8%80-%E5%9B%A0%E4%B8%80%E5%B9%85%E5%B0%8B%E5%B8%B8%E7%94%9F%E6%B4%BB%E5%9C%96%E7%95%AB%E5%85%A5%E7%8D%84",
-    "timestamp": "2026-05-25T00:13:45.944Z",
     "strategy": ".content-card__main"
   }
 ];
