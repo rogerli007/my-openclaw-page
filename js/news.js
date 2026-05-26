@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-26T22:38:23.890Z
+// Last updated: 2026-05-26T23:15:16.307Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "外媒：伊戰期間「星鏈」漲價　五角大樓與SpaceX爆爭執",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260521/1134161150808690688750698.jpeg/jf0zyL5mCeNgT1XuafvXMSKdKoWS2Ir0W9CU8FvQlPA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60353852/%E5%A4%96%E5%AA%92-%E4%BC%8A%E6%88%B0%E6%9C%9F%E9%96%93-%E6%98%9F%E9%8F%88-%E6%BC%B2%E5%83%B9-%E4%BA%94%E8%A7%92%E5%A4%A7%E6%A8%93%E8%88%87spacex%E7%88%86%E7%88%AD%E5%9F%B7",
+    "timestamp": "2026-05-26T23:15:16.307Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "Mandy Lieu前有米緋聞男友林威辰大婚　父親曾被封「廉署尅星」",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260526/1135745399626141696435260.jpeg/h6-NX-1LV0BhzdSbsdSCB_DQ8XbGh627LrcG6S63Buk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60353433/%E6%9D%8E%E5%BC%B7%E5%88%86%E6%99%A4%E5%A4%8F%E5%B7%B4%E8%8C%B2%E5%8F%8A%E6%AD%A6%E5%A5%91%E5%A5%87-%E6%8E%A8%E5%8B%95%E5%8A%A0%E5%BC%B7%E7%B6%93%E8%B2%BF%E5%90%88%E4%BD%9C",
     "timestamp": "2026-05-25T21:35:15.534Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "教宗良十四世發布首份通諭　促加強監管AI防導致戰爭",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260526/1135788390344560640072153.jpeg/HvyfXw2FY1gVEhf1L-_QRwmO1738lzJQQ1qvzUNar80?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60353440/%E6%95%99%E5%AE%97%E8%89%AF%E5%8D%81%E5%9B%9B%E4%B8%96%E7%99%BC%E5%B8%83%E9%A6%96%E4%BB%BD%E9%80%9A%E8%AB%AD-%E4%BF%83%E5%8A%A0%E5%BC%B7%E7%9B%A3%E7%AE%A1ai%E9%98%B2%E5%B0%8E%E8%87%B4%E6%88%B0%E7%88%AD",
-    "timestamp": "2026-05-25T20:58:34.897Z",
     "strategy": ".content-card__main"
   }
 ];
