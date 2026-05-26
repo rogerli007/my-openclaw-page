@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-26T03:52:41.044Z
+// Last updated: 2026-05-26T05:32:46.800Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "音樂人黃丹儀何文田舊樓　簽十年長約收租462萬　租客擬改簡樸房",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260526/1135928059644350464840961.jpeg/sC_-Sc-XLl9zaDLB9-4DboYnDvJfeaeSknuyuJJ7srg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60353573/%E9%9F%B3%E6%A8%82%E4%BA%BA%E9%BB%83%E4%B8%B9%E5%84%80%E4%BD%95%E6%96%87%E7%94%B0%E8%88%8A%E6%A8%93-%E7%B0%BD%E5%8D%81%E5%B9%B4%E9%95%B7%E7%B4%84%E6%94%B6%E7%A7%9F462%E8%90%AC-%E7%A7%9F%E5%AE%A2%E6%93%AC%E6%94%B9%E7%B0%A1%E6%A8%B8%E6%88%BF",
+    "timestamp": "2026-05-26T05:32:46.800Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "第四屆家鄉市集6.3至6.7維園舉行　首引有機糙米等鄉村振興產品",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260525/1135538818351370240284751.png/yb5yheq7aLTX1SmLOiJJsCv9303YUxHjYG0dj2BtHY8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60353222/%E6%97%A5%E6%9C%AC7-eleven%E5%89%B5%E8%BE%A6%E4%BA%BA%E9%88%B4%E6%9C%A8%E6%95%8F%E6%96%87%E5%8E%BB%E4%B8%96%E7%B5%82%E5%B9%B493%E6%AD%B2-%E8%A2%AB%E8%AD%BD%E7%82%BA-%E4%BE%BF%E5%88%A9%E5%BA%97%E4%B9%8B%E7%88%B6",
     "timestamp": "2026-05-25T03:53:18.570Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "伊波拉｜民主剛果疑似病例增至逾900　英媒：醫護人員面臨2大困境",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260525/1135521355274391552914820.jpeg/dnqpO569pJ9fS8plCiRJtlWfOIJAv8I0615EputeRKY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60353201/%E4%BC%8A%E6%B3%A2%E6%8B%89-%E6%B0%91%E4%B8%BB%E5%89%9B%E6%9E%9C%E7%96%91%E4%BC%BC%E7%97%85%E4%BE%8B%E5%A2%9E%E8%87%B3%E9%80%BE900-%E8%8B%B1%E5%AA%92-%E9%86%AB%E8%AD%B7%E4%BA%BA%E5%93%A1%E9%9D%A2%E8%87%A82%E5%A4%A7%E5%9B%B0%E5%A2%83",
-    "timestamp": "2026-05-25T02:29:37.684Z",
     "strategy": ".content-card__main"
   }
 ];
