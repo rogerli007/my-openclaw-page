@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-26T17:30:34.224Z
+// Last updated: 2026-05-26T18:25:24.505Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "王毅主持安理會高級別會議　提出五點重振　冀激活壯大聯合國",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260527/1136126322884481024359120.jpeg/PMct4RHmSSJHqf2BwzQWO-Bys4aPp5rk1tbtMNbW7TA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60353832/%E7%8E%8B%E6%AF%85%E4%B8%BB%E6%8C%81%E5%AE%89%E7%90%86%E6%9C%83%E9%AB%98%E7%B4%9A%E5%88%A5%E6%9C%83%E8%AD%B0-%E6%8F%90%E5%87%BA%E4%BA%94%E9%BB%9E%E9%87%8D%E6%8C%AF-%E5%86%80%E6%BF%80%E6%B4%BB%E5%A3%AF%E5%A4%A7%E8%81%AF%E5%90%88%E5%9C%8B",
+    "timestamp": "2026-05-26T18:25:24.505Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "姜濤驚後生不懂天赦日　被指䟴腳踢到陳瑞輝：我下次坐返好啲",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260525/1135723969417056256815360.jpeg/8U5zB8B-HXtim-rVrDgAfhE4AprU-h4kTLwqo0y8KqM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60353427/%E6%9D%B1%E5%BC%B5%E8%A5%BF%E6%9C%9B-%E5%93%A5%E5%93%A5%E5%80%9F%E5%8D%83%E8%90%AC%E4%B8%8D%E9%82%84%E5%BC%9F%E5%BC%9F%E8%A2%AB%E6%93%BE-%E6%94%B6%E6%95%B8%E4%BD%AC-%E5%BF%AB%E5%95%B2%E8%B2%B7%E6%A3%BA%E6%9D%90%E6%AD%BB%E5%92%97%E5%8E%BB",
     "timestamp": "2026-05-25T17:25:47.769Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "黎家盈太空人｜黎家盈高考獲3A　丈夫竟是同班同學　班主任感意外",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260525/1135699230413819904062138.jpeg/Pj8yM10ON6E-4_peOgek-I7PcoIK1zxRpKfy2KSn8tg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60353410/%E9%BB%8E%E5%AE%B6%E7%9B%88%E5%A4%AA%E7%A9%BA%E4%BA%BA-%E9%BB%8E%E5%AE%B6%E7%9B%88%E9%AB%98%E8%80%83%E7%8D%B23a-%E4%B8%88%E5%A4%AB%E7%AB%9F%E6%98%AF%E5%90%8C%E7%8F%AD%E5%90%8C%E5%AD%B8-%E7%8F%AD%E4%B8%BB%E4%BB%BB%E6%84%9F%E6%84%8F%E5%A4%96",
-    "timestamp": "2026-05-25T14:28:52.791Z",
     "strategy": ".content-card__main"
   }
 ];
