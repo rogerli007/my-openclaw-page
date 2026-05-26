@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-26T19:24:05.818Z
+// Last updated: 2026-05-26T20:23:10.230Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美國航空擬明年與SpaceX合作　為逾500架空中巴士安裝星鏈Wi-Fi",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260527/1136142894105628672018493.jpeg/3ixsm5_f83hkVzMq2XZ7cgxopp6kIBYHJng_GiZ4Pxo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60353835/%E7%BE%8E%E5%9C%8B%E8%88%AA%E7%A9%BA%E6%93%AC%E6%98%8E%E5%B9%B4%E8%88%87spacex%E5%90%88%E4%BD%9C-%E7%82%BA%E9%80%BE500%E6%9E%B6%E7%A9%BA%E4%B8%AD%E5%B7%B4%E5%A3%AB%E5%AE%89%E8%A3%9D%E6%98%9F%E9%8F%88wi-fi",
+    "timestamp": "2026-05-26T20:23:10.230Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "中國成功發射通信技術試驗衛星二十四號",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260422/1123439547317751808063915.jpeg/QsXnDG9PzZXHeKprlrs6u0G2UHRL2OfF41YpA-NWKQM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60353437/%E5%B7%B4%E8%A5%BF%E7%B8%BD%E7%B5%B1%E7%9B%A7%E6%8B%89%E7%A2%BA%E8%A8%BA%E6%97%A9%E6%9C%9F%E7%9A%AE%E8%86%9A%E7%99%8C-%E9%9C%80%E6%8E%A5%E5%8F%97%E6%94%BE%E5%B0%84%E6%B2%BB%E7%99%82",
     "timestamp": "2026-05-25T18:57:01.306Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "外媒：美伊擬將停火延長60 天　30天內恢復霍爾木茲自由通航",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260313/1108943980365615104108725.jpeg/w4lfTAcu4GskIScwDNxXCX1zxIW9zWzcsQ46xbEOOsU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60353436/%E5%A4%96%E5%AA%92-%E7%BE%8E%E4%BC%8A%E6%93%AC%E5%B0%87%E5%81%9C%E7%81%AB%E5%BB%B6%E9%95%B760-%E5%A4%A9-30%E5%A4%A9%E5%85%A7%E6%81%A2%E5%BE%A9%E9%9C%8D%E7%88%BE%E6%9C%A8%E8%8C%B2%E8%87%AA%E7%94%B1%E9%80%9A%E8%88%AA",
-    "timestamp": "2026-05-25T18:09:57.949Z",
     "strategy": ".content-card__main"
   }
 ];
