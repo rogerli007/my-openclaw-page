@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-26T20:23:10.230Z
+// Last updated: 2026-05-26T21:59:19.897Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "灣仔群煞闖酒吧　持木棍雨傘施襲後逃走　傷者清醒送院",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260527/1136180535496806400568091.jpeg/96x-uTsLSGTrgCW4krIk94FGqQtXWmcppsHpspzB6bI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60353846/%E7%81%A3%E4%BB%94%E7%BE%A4%E7%85%9E%E9%97%96%E9%85%92%E5%90%A7-%E6%8C%81%E6%9C%A8%E6%A3%8D%E9%9B%A8%E5%82%98%E6%96%BD%E8%A5%B2%E5%BE%8C%E9%80%83%E8%B5%B0-%E5%82%B7%E8%80%85%E6%B8%85%E9%86%92%E9%80%81%E9%99%A2",
+    "timestamp": "2026-05-26T21:59:19.897Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美國航空擬明年與SpaceX合作　為逾500架空中巴士安裝星鏈Wi-Fi",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260309/1107609437184462848352987.jpeg/S0pO4_Ufg05G6mo4ivP7bTZc7-pqup4NHAqiFBwKohQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60353438/%E4%BC%8A%E5%AA%92-%E7%A9%86%E5%82%91%E5%A1%94%E5%B7%B42%E6%9C%88%E5%BA%95%E5%8F%97%E5%82%B7%E7%95%99%E9%99%A2%E4%B8%80%E5%A4%9C-%E6%9C%9F%E9%96%93%E5%A0%85%E6%8C%81%E9%BD%8B%E6%88%92",
     "timestamp": "2026-05-25T19:40:21.569Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "巴西總統盧拉確診早期皮膚癌　需接受放射治療",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260422/1123439547317751808063915.jpeg/QsXnDG9PzZXHeKprlrs6u0G2UHRL2OfF41YpA-NWKQM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60353437/%E5%B7%B4%E8%A5%BF%E7%B8%BD%E7%B5%B1%E7%9B%A7%E6%8B%89%E7%A2%BA%E8%A8%BA%E6%97%A9%E6%9C%9F%E7%9A%AE%E8%86%9A%E7%99%8C-%E9%9C%80%E6%8E%A5%E5%8F%97%E6%94%BE%E5%B0%84%E6%B2%BB%E7%99%82",
-    "timestamp": "2026-05-25T18:57:01.306Z",
     "strategy": ".content-card__main"
   }
 ];
