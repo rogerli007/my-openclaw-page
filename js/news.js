@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-26T21:59:19.897Z
+// Last updated: 2026-05-26T22:38:23.890Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "Mandy Lieu前有米緋聞男友林威辰大婚　父親曾被封「廉署尅星」",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260526/1136069773021417472324516.jpeg/HE6yQGQ3LetmQc3Ukslu-h9EN8v2tcC2L9ZIpC_WSKQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60353576/mandy-lieu%E5%89%8D%E6%9C%89%E7%B1%B3%E7%B7%8B%E8%81%9E%E7%94%B7%E5%8F%8B%E6%9E%97%E5%A8%81%E8%BE%B0%E5%A4%A7%E5%A9%9A-%E7%88%B6%E8%A6%AA%E6%9B%BE%E8%A2%AB%E5%B0%81-%E5%BB%89%E7%BD%B2%E5%B0%85%E6%98%9F",
+    "timestamp": "2026-05-26T22:38:23.890Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "灣仔群煞闖酒吧　持木棍雨傘施襲後逃走　傷者清醒送院",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260526/1135788390344560640072153.jpeg/HvyfXw2FY1gVEhf1L-_QRwmO1738lzJQQ1qvzUNar80?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60353440/%E6%95%99%E5%AE%97%E8%89%AF%E5%8D%81%E5%9B%9B%E4%B8%96%E7%99%BC%E5%B8%83%E9%A6%96%E4%BB%BD%E9%80%9A%E8%AB%AD-%E4%BF%83%E5%8A%A0%E5%BC%B7%E7%9B%A3%E7%AE%A1ai%E9%98%B2%E5%B0%8E%E8%87%B4%E6%88%B0%E7%88%AD",
     "timestamp": "2026-05-25T20:58:34.897Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "伊媒：穆傑塔巴2月底受傷留院一夜　期間堅持齋戒",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260309/1107609437184462848352987.jpeg/S0pO4_Ufg05G6mo4ivP7bTZc7-pqup4NHAqiFBwKohQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60353438/%E4%BC%8A%E5%AA%92-%E7%A9%86%E5%82%91%E5%A1%94%E5%B7%B42%E6%9C%88%E5%BA%95%E5%8F%97%E5%82%B7%E7%95%99%E9%99%A2%E4%B8%80%E5%A4%9C-%E6%9C%9F%E9%96%93%E5%A0%85%E6%8C%81%E9%BD%8B%E6%88%92",
-    "timestamp": "2026-05-25T19:40:21.569Z",
     "strategy": ".content-card__main"
   }
 ];
