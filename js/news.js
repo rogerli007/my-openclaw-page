@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-26T00:14:29.128Z
+// Last updated: 2026-05-26T01:21:39.466Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "四川男無故變毒販！申樓宇按揭被拒　原來被親弟冒用身份頂罪10年",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260523/1134869160476545024541832.png/3-yE8dHrxK3D-fU5sSfNZjUys7sznoyQ-uT-tfrk_rU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60352508/%E5%9B%9B%E5%B7%9D%E7%94%B7%E7%84%A1%E6%95%85%E8%AE%8A%E6%AF%92%E8%B2%A9-%E7%94%B3%E6%A8%93%E5%AE%87%E6%8C%89%E6%8F%AD%E8%A2%AB%E6%8B%92-%E5%8E%9F%E4%BE%86%E8%A2%AB%E8%A6%AA%E5%BC%9F%E5%86%92%E7%94%A8%E8%BA%AB%E4%BB%BD%E9%A0%82%E7%BD%AA10%E5%B9%B4",
+    "timestamp": "2026-05-26T01:21:39.466Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "筷子尖向左擺居然源於帝王思想？禮儀專家揭秘日本傳統飲食規矩",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260202/1095000172250796032359042.png/KVDkKDny82MsD-QqXojyU1MSv3NcEZy664TYleuE2JU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E4%B8%96%E7%95%8C%E5%B0%88%E9%A1%8C/60318451/%E6%97%A5%E6%9C%AC%E6%B2%BB%E5%AE%89%E7%B6%AD%E6%8C%81%E6%B3%95-%E6%9C%80%E5%BE%8C%E8%A6%8B%E8%AD%89%E4%BA%BA-%E8%8F%B1%E8%B0%B7%E8%89%AF%E4%B8%80-%E5%9B%A0%E4%B8%80%E5%B9%85%E5%B0%8B%E5%B8%B8%E7%94%9F%E6%B4%BB%E5%9C%96%E7%95%AB%E5%85%A5%E7%8D%84",
     "timestamp": "2026-05-25T00:13:45.944Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "「小島學園」校長鄧明儀談重啟計劃原因 藉體驗營培養自理能力",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260519/1133450170499862528381497.jpeg/wElXVOcVvJJRXTJjJKCTlS8EkZ-fCZENDHFGqwxxRqs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%A6%AA%E5%AD%90/60351269/%E5%B0%8F%E5%B3%B6%E5%AD%B8%E5%9C%92-%E6%A0%A1%E9%95%B7%E9%84%A7%E6%98%8E%E5%84%80%E8%AB%87%E9%87%8D%E5%95%9F%E8%A8%88%E5%8A%83%E5%8E%9F%E5%9B%A0-%E8%97%89%E9%AB%94%E9%A9%97%E7%87%9F%E5%9F%B9%E9%A4%8A%E8%87%AA%E7%90%86%E8%83%BD%E5%8A%9B",
-    "timestamp": "2026-05-24T23:12:37.980Z",
     "strategy": ".content-card__main"
   }
 ];
