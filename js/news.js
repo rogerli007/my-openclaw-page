@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-26T06:58:32.156Z
+// Last updated: 2026-05-26T08:22:55.106Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "胡子彤新歌《見一個愛一個》張蔓莎陳可為聯手作曲　MV出浴無底線",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260526/1135947269938352128068372.jpeg/m8gf1G7V3ZcnHf5PFxNLQXQfGT-3XbrsuY9LUrmPS1I?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60353581/%E8%83%A1%E5%AD%90%E5%BD%A4%E6%96%B0%E6%AD%8C-%E8%A6%8B%E4%B8%80%E5%80%8B%E6%84%9B%E4%B8%80%E5%80%8B-%E5%BC%B5%E8%94%93%E8%8E%8E%E9%99%B3%E5%8F%AF%E7%82%BA%E8%81%AF%E6%89%8B%E4%BD%9C%E6%9B%B2-mv%E5%87%BA%E6%B5%B4%E7%84%A1%E5%BA%95%E7%B7%9A",
+    "timestamp": "2026-05-26T08:22:55.106Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "杭州MUJI有女子拿店內指甲油「試搽落腳」　網民狠批：噁心壞了！",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260523/1134986806509441024435617.jpeg/svRdy4QbFrcrbVnYqsjF8nFthR4KZoHSHUkgZB1JIGQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60343431/%E5%BF%83%E8%87%9F%E5%81%A5%E5%BA%B7-%E8%9B%8B%E7%99%BD%E8%B3%AA%E6%80%8E%E5%90%83%E6%9C%80%E5%A5%BD-%E7%BE%8E%E5%9C%8B%E5%BF%83%E8%87%9F%E5%8D%94%E6%9C%83-%E9%A6%96%E9%81%B8%E6%A4%8D%E7%89%A9%E8%9B%8B%E7%99%BD%E8%AD%B7%E5%BF%83%E8%A1%80%E7%AE%A1",
     "timestamp": "2026-05-25T07:16:41.024Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "張國鈞丘應樺訪京拜會中央部委　交流協助內地企業出海事宜",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20251006/1051870435639037952140875.jpeg/FGOUT8OqtfABsffTfnorWkNuXSt3CE2bc7DQcXOw0HE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60353260/%E5%BC%B5%E5%9C%8B%E9%88%9E%E4%B8%98%E6%87%89%E6%A8%BA%E8%A8%AA%E4%BA%AC%E6%8B%9C%E6%9C%83%E4%B8%AD%E5%A4%AE%E9%83%A8%E5%A7%94-%E4%BA%A4%E6%B5%81%E5%8D%94%E5%8A%A9%E5%85%A7%E5%9C%B0%E4%BC%81%E6%A5%AD%E5%87%BA%E6%B5%B7%E4%BA%8B%E5%AE%9C",
-    "timestamp": "2026-05-25T05:48:35.213Z",
     "strategy": ".content-card__main"
   }
 ];
