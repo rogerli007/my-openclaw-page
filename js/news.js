@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-26T08:22:55.106Z
+// Last updated: 2026-05-26T09:59:37.747Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "北都擬建劍擊館設1000觀眾席　議員質疑座位太少：僅夠辦學界比賽",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/259702/org/2384bb737d25227d44e73f5d3ac251cf.jpg/kBFxz1Mb-OGoaK7ZAR_OUJJBLM_8vlyDqahtaKmobWg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60353725/%E5%8C%97%E9%83%BD%E6%93%AC%E5%BB%BA%E5%8A%8D%E6%93%8A%E9%A4%A8%E8%A8%AD1000%E8%A7%80%E7%9C%BE%E5%B8%AD-%E8%AD%B0%E5%93%A1%E8%B3%AA%E7%96%91%E5%BA%A7%E4%BD%8D%E5%A4%AA%E5%B0%91-%E5%83%85%E5%A4%A0%E8%BE%A6%E5%AD%B8%E7%95%8C%E6%AF%94%E8%B3%BD",
+    "timestamp": "2026-05-26T09:59:37.747Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "胡子彤新歌《見一個愛一個》張蔓莎陳可為聯手作曲　MV出浴無底線",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260525/1135634965996769280429056.jpeg/WJ6VDF54dPqxF8NPiac9QEtU2ZPHqTzhPiHXIz4h1yM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60353367/%E8%B5%B0%E9%81%8E%E6%AD%B7%E5%8F%B2%E5%A4%A7%E5%9C%B0-%E6%B4%AA%E6%B0%B8%E5%9F%8E%E9%BB%83%E7%BF%A0%E5%A6%82%E9%81%8A%E5%9F%83%E5%8F%8A%E8%B5%B0%E8%A8%AA%E5%B8%9D%E7%8E%8B%E8%B0%B7-%E4%B9%98%E8%88%B9%E5%B0%8B%E5%B0%BC%E7%BE%85%E6%B2%B3%E6%B0%B4%E6%80%AA",
     "timestamp": "2026-05-25T11:53:53.594Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "心臟健康｜蛋白質怎吃最好？美國心臟協會：首選植物蛋白護心血管",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260523/1134986806509441024435617.jpeg/svRdy4QbFrcrbVnYqsjF8nFthR4KZoHSHUkgZB1JIGQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60343431/%E5%BF%83%E8%87%9F%E5%81%A5%E5%BA%B7-%E8%9B%8B%E7%99%BD%E8%B3%AA%E6%80%8E%E5%90%83%E6%9C%80%E5%A5%BD-%E7%BE%8E%E5%9C%8B%E5%BF%83%E8%87%9F%E5%8D%94%E6%9C%83-%E9%A6%96%E9%81%B8%E6%A4%8D%E7%89%A9%E8%9B%8B%E7%99%BD%E8%AD%B7%E5%BF%83%E8%A1%80%E7%AE%A1",
-    "timestamp": "2026-05-25T07:16:41.024Z",
     "strategy": ".content-card__main"
   }
 ];
