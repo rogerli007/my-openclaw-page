@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-26T23:15:16.307Z
+// Last updated: 2026-05-26T23:45:49.592Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "即使美國和伊朗達成協議，也不等於霍爾木茲海峽能正常開通",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260526/1136035724408131584213976.jpeg/XKEqt84KDnX64DCrCfbRsjXLbxbQYC6G0Iluc9CJbnM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%9C%8B%E9%9A%9B%E5%88%86%E6%9E%90/60353700/%E5%8D%B3%E4%BD%BF%E7%BE%8E%E5%9C%8B%E5%92%8C%E4%BC%8A%E6%9C%97%E9%81%94%E6%88%90%E5%8D%94%E8%AD%B0-%E4%B9%9F%E4%B8%8D%E7%AD%89%E6%96%BC%E9%9C%8D%E7%88%BE%E6%9C%A8%E8%8C%B2%E6%B5%B7%E5%B3%BD%E8%83%BD%E6%AD%A3%E5%B8%B8%E9%96%8B%E9%80%9A",
+    "timestamp": "2026-05-26T23:45:49.592Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "外媒：伊戰期間「星鏈」漲價　五角大樓與SpaceX爆爭執",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260525/1135618191913914368406857.png/QtYGO0Jj2gZ8ZNwE5nGHtUi-ATX8RuStMOVHGjDlRxo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60352607/18%E6%AD%B2%E4%BB%94%E8%83%83%E7%97%9B%E6%9A%B4%E7%98%A6-%E9%A9%9A%E6%8F%AD%E9%AB%94%E5%85%A7%E9%9B%99%E8%83%9E%E8%83%8E%E5%AF%84%E7%94%9F%E5%90%B8%E8%A1%80%E9%95%B7%E5%A4%A7-%E5%8F%96%E5%87%BA2-5%E5%85%AC%E6%96%A4%E8%85%AB%E5%A1%8A",
     "timestamp": "2026-05-25T22:14:46.934Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "李強分晤夏巴茲及武契奇　推動加強經貿合作",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260526/1135745399626141696435260.jpeg/h6-NX-1LV0BhzdSbsdSCB_DQ8XbGh627LrcG6S63Buk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60353433/%E6%9D%8E%E5%BC%B7%E5%88%86%E6%99%A4%E5%A4%8F%E5%B7%B4%E8%8C%B2%E5%8F%8A%E6%AD%A6%E5%A5%91%E5%A5%87-%E6%8E%A8%E5%8B%95%E5%8A%A0%E5%BC%B7%E7%B6%93%E8%B2%BF%E5%90%88%E4%BD%9C",
-    "timestamp": "2026-05-25T21:35:15.534Z",
     "strategy": ".content-card__main"
   }
 ];
