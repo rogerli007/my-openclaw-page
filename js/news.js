@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-25T23:44:49.433Z
+// Last updated: 2026-05-26T00:14:29.128Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "筷子尖向左擺居然源於帝王思想？禮儀專家揭秘日本傳統飲食規矩",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260423/1124035735884664832392864.jpeg/YhB9K9hUKS682H2AR1W5_LplXCDSvTPWRhgzQEYYM0A?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%92%B0%E7%90%83%E8%B6%A3%E8%81%9E/60343187/%E7%AD%B7%E5%AD%90%E5%B0%96%E5%90%91%E5%B7%A6%E6%93%BA%E5%B1%85%E7%84%B6%E6%BA%90%E6%96%BC%E5%B8%9D%E7%8E%8B%E6%80%9D%E6%83%B3-%E7%A6%AE%E5%84%80%E5%B0%88%E5%AE%B6%E6%8F%AD%E7%A7%98%E6%97%A5%E6%9C%AC%E5%82%B3%E7%B5%B1%E9%A3%B2%E9%A3%9F%E8%A6%8F%E7%9F%A9",
+    "timestamp": "2026-05-26T00:14:29.128Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "大摩：AI正引爆亞洲5.5萬億美元能源投資超級周期",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260519/1133450170499862528381497.jpeg/wElXVOcVvJJRXTJjJKCTlS8EkZ-fCZENDHFGqwxxRqs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%A6%AA%E5%AD%90/60351269/%E5%B0%8F%E5%B3%B6%E5%AD%B8%E5%9C%92-%E6%A0%A1%E9%95%B7%E9%84%A7%E6%98%8E%E5%84%80%E8%AB%87%E9%87%8D%E5%95%9F%E8%A8%88%E5%8A%83%E5%8E%9F%E5%9B%A0-%E8%97%89%E9%AB%94%E9%A9%97%E7%87%9F%E5%9F%B9%E9%A4%8A%E8%87%AA%E7%90%86%E8%83%BD%E5%8A%9B",
     "timestamp": "2026-05-24T23:12:37.980Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "天氣｜今日部份時間有陽光　日間炎熱約32度　未來數日酷熱達33度",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260525/1135463803048431616874503.jpeg/sV6LjrX3S8nOGol7rPDsUnmMmK2dDyWOM5wFUzOcBVM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60353175/%E5%A4%A9%E6%B0%A3-%E4%BB%8A%E6%97%A5%E9%83%A8%E4%BB%BD%E6%99%82%E9%96%93%E6%9C%89%E9%99%BD%E5%85%89-%E6%97%A5%E9%96%93%E7%82%8E%E7%86%B1%E7%B4%8432%E5%BA%A6-%E6%9C%AA%E4%BE%86%E6%95%B8%E6%97%A5%E9%85%B7%E7%86%B1%E9%81%9433%E5%BA%A6",
-    "timestamp": "2026-05-24T22:41:32.497Z",
     "strategy": ".content-card__main"
   }
 ];
