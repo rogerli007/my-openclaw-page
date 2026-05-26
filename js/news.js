@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-26T16:13:09.444Z
+// Last updated: 2026-05-26T17:30:34.224Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "姜濤驚後生不懂天赦日　被指䟴腳踢到陳瑞輝：我下次坐返好啲",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260527/1136095724568580096930512.jpeg/gDgGTvwMiP04X_LRhe_g3UjmGtriUDyWRFsOK35bDis?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60353824/%E5%A7%9C%E6%BF%A4%E9%A9%9A%E5%BE%8C%E7%94%9F%E4%B8%8D%E6%87%82%E5%A4%A9%E8%B5%A6%E6%97%A5-%E8%A2%AB%E6%8C%87%E4%9F%B4%E8%85%B3%E8%B8%A2%E5%88%B0%E9%99%B3%E7%91%9E%E8%BC%9D-%E6%88%91%E4%B8%8B%E6%AC%A1%E5%9D%90%E8%BF%94%E5%A5%BD%E5%95%B2",
+    "timestamp": "2026-05-26T17:30:34.224Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "小米17T售價｜晶片漲價潮席捲 逆市微調或成年度高性價比之選",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260525/1135699230413819904062138.jpeg/Pj8yM10ON6E-4_peOgek-I7PcoIK1zxRpKfy2KSn8tg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60353410/%E9%BB%8E%E5%AE%B6%E7%9B%88%E5%A4%AA%E7%A9%BA%E4%BA%BA-%E9%BB%8E%E5%AE%B6%E7%9B%88%E9%AB%98%E8%80%83%E7%8D%B23a-%E4%B8%88%E5%A4%AB%E7%AB%9F%E6%98%AF%E5%90%8C%E7%8F%AD%E5%90%8C%E5%AD%B8-%E7%8F%AD%E4%B8%BB%E4%BB%BB%E6%84%9F%E6%84%8F%E5%A4%96",
     "timestamp": "2026-05-25T14:28:52.791Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "黃明志洗脫涉毒3罪　沉默7天發聲嘆：負面標籤難除、有很多話想說",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260525/1135577534520365056923164.png/EpRSY7wO6d2uMjK5TbIhAzBzfxcNTvYQ9X77W_V--1s?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60353271/%E9%BB%83%E6%98%8E%E5%BF%97%E6%B4%97%E8%84%AB%E6%B6%89%E6%AF%923%E7%BD%AA-%E6%B2%89%E9%BB%987%E5%A4%A9%E7%99%BC%E8%81%B2%E5%98%86-%E8%B2%A0%E9%9D%A2%E6%A8%99%E7%B1%A4%E9%9B%A3%E9%99%A4-%E6%9C%89%E5%BE%88%E5%A4%9A%E8%A9%B1%E6%83%B3%E8%AA%AA",
-    "timestamp": "2026-05-25T13:25:43.830Z",
     "strategy": ".content-card__main"
   }
 ];
