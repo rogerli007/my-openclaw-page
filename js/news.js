@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-26T09:59:37.747Z
+// Last updated: 2026-05-26T16:13:09.444Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "小米17T售價｜晶片漲價潮席捲 逆市微調或成年度高性價比之選",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260524/1135293665585926144105629.png/nZK5RJOykybeTj44wtPU4W7EBCnRpKdnuIpTQLiKU0A?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60353081/%E5%B0%8F%E7%B1%B317t%E5%94%AE%E5%83%B9-%E6%99%B6%E7%89%87%E6%BC%B2%E5%83%B9%E6%BD%AE%E5%B8%AD%E6%8D%B2-%E9%80%86%E5%B8%82%E5%BE%AE%E8%AA%BF%E6%88%96%E6%88%90%E5%B9%B4%E5%BA%A6%E9%AB%98%E6%80%A7%E5%83%B9%E6%AF%94%E4%B9%8B%E9%81%B8",
+    "timestamp": "2026-05-26T16:13:09.444Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "北都擬建劍擊館設1000觀眾席　議員質疑座位太少：僅夠辦學界比賽",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260525/1135577534520365056923164.png/EpRSY7wO6d2uMjK5TbIhAzBzfxcNTvYQ9X77W_V--1s?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60353271/%E9%BB%83%E6%98%8E%E5%BF%97%E6%B4%97%E8%84%AB%E6%B6%89%E6%AF%923%E7%BD%AA-%E6%B2%89%E9%BB%987%E5%A4%A9%E7%99%BC%E8%81%B2%E5%98%86-%E8%B2%A0%E9%9D%A2%E6%A8%99%E7%B1%A4%E9%9B%A3%E9%99%A4-%E6%9C%89%E5%BE%88%E5%A4%9A%E8%A9%B1%E6%83%B3%E8%AA%AA",
     "timestamp": "2026-05-25T13:25:43.830Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "走過歷史大地丨洪永城黃翠如遊埃及走訪帝王谷　乘船尋尼羅河水怪",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260525/1135634965996769280429056.jpeg/WJ6VDF54dPqxF8NPiac9QEtU2ZPHqTzhPiHXIz4h1yM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60353367/%E8%B5%B0%E9%81%8E%E6%AD%B7%E5%8F%B2%E5%A4%A7%E5%9C%B0-%E6%B4%AA%E6%B0%B8%E5%9F%8E%E9%BB%83%E7%BF%A0%E5%A6%82%E9%81%8A%E5%9F%83%E5%8F%8A%E8%B5%B0%E8%A8%AA%E5%B8%9D%E7%8E%8B%E8%B0%B7-%E4%B9%98%E8%88%B9%E5%B0%8B%E5%B0%BC%E7%BE%85%E6%B2%B3%E6%B0%B4%E6%80%AA",
-    "timestamp": "2026-05-25T11:53:53.594Z",
     "strategy": ".content-card__main"
   }
 ];
