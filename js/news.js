@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-27T05:41:16.941Z
+// Last updated: 2026-05-27T07:14:32.434Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "夏日底妝愈控愈油？醫揭正確化妝順序：先補水後控油解決溶妝困擾",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260427/1125444380048494592914385.png/4d2KO12ujpEEER5yM3mGYmwcTx14lOJrK7taRl67WkY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%BE%8E%E5%AE%B9%E6%89%8B%E5%B8%B3/60344200/%E5%A4%8F%E6%97%A5%E5%BA%95%E5%A6%9D%E6%84%88%E6%8E%A7%E6%84%88%E6%B2%B9-%E9%86%AB%E6%8F%AD%E6%AD%A3%E7%A2%BA%E5%8C%96%E5%A6%9D%E9%A0%86%E5%BA%8F-%E5%85%88%E8%A3%9C%E6%B0%B4%E5%BE%8C%E6%8E%A7%E6%B2%B9%E8%A7%A3%E6%B1%BA%E6%BA%B6%E5%A6%9D%E5%9B%B0%E6%93%BE",
+    "timestamp": "2026-05-27T07:14:32.434Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "特朗普推動選區重劃受挫　南卡州共和黨議員倒戈否決",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250509/997518299933708288280613.jpeg/eHXoNtrjyZnSTEiQqb_NkQrIwM5GLcAey4cVpMuHFaQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60353489/%E5%85%A7%E5%9C%B0%E6%95%B4%E6%B2%BB%E9%9D%9E%E6%B3%95%E8%B7%A8%E5%A2%83%E7%82%92%E8%82%A1-%E8%80%80%E6%89%8D%E6%9B%BE%E6%B3%84%E9%80%BE%E4%B8%80%E6%88%90-%E6%87%B6%E7%90%86%E6%97%A9%E5%B9%B4%E5%B7%B2%E6%B8%85%E5%86%85%E5%9C%B0%E6%88%B6%E5%8F%A3",
     "timestamp": "2026-05-26T02:30:23.957Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "四川男無故變毒販！申樓宇按揭被拒　原來被親弟冒用身份頂罪10年",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260523/1134869160476545024541832.png/3-yE8dHrxK3D-fU5sSfNZjUys7sznoyQ-uT-tfrk_rU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60352508/%E5%9B%9B%E5%B7%9D%E7%94%B7%E7%84%A1%E6%95%85%E8%AE%8A%E6%AF%92%E8%B2%A9-%E7%94%B3%E6%A8%93%E5%AE%87%E6%8C%89%E6%8F%AD%E8%A2%AB%E6%8B%92-%E5%8E%9F%E4%BE%86%E8%A2%AB%E8%A6%AA%E5%BC%9F%E5%86%92%E7%94%A8%E8%BA%AB%E4%BB%BD%E9%A0%82%E7%BD%AA10%E5%B9%B4",
-    "timestamp": "2026-05-26T01:21:39.466Z",
     "strategy": ".content-card__main"
   }
 ];
