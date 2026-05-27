@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-27T16:49:06.943Z
+// Last updated: 2026-05-27T17:54:04.302Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "特朗普稱不急與伊朗達協議　指拖延戰術難逞因「不在乎中期選舉」",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260528/1136476278916911104573201.jpeg/24GUgI3sARIKq6EB7rR1eEwmPqRTA1LL9kHAU_ZBwFM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60354215/%E7%89%B9%E6%9C%97%E6%99%AE%E7%A8%B1%E4%B8%8D%E6%80%A5%E8%88%87%E4%BC%8A%E6%9C%97%E9%81%94%E5%8D%94%E8%AD%B0-%E6%8C%87%E6%8B%96%E5%BB%B6%E6%88%B0%E8%A1%93%E9%9B%A3%E9%80%9E%E5%9B%A0-%E4%B8%8D%E5%9C%A8%E4%B9%8E%E4%B8%AD%E6%9C%9F%E9%81%B8%E8%88%89",
+    "timestamp": "2026-05-27T17:54:04.302Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "特朗普：伊朗不會為制裁豁免而放棄高濃縮鈾　美方對協議仍不滿意",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260527/1136095724568580096930512.jpeg/gDgGTvwMiP04X_LRhe_g3UjmGtriUDyWRFsOK35bDis?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60353824/%E5%A7%9C%E6%BF%A4%E9%A9%9A%E5%BE%8C%E7%94%9F%E4%B8%8D%E6%87%82%E5%A4%A9%E8%B5%A6%E6%97%A5-%E8%A2%AB%E6%8C%87%E4%9F%B4%E8%85%B3%E8%B8%A2%E5%88%B0%E9%99%B3%E7%91%9E%E8%BC%9D-%E6%88%91%E4%B8%8B%E6%AC%A1%E5%9D%90%E8%BF%94%E5%A5%BD%E5%95%B2",
     "timestamp": "2026-05-26T17:30:34.224Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "小米17T售價｜晶片漲價潮席捲 逆市微調或成年度高性價比之選",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260524/1135293665585926144105629.png/nZK5RJOykybeTj44wtPU4W7EBCnRpKdnuIpTQLiKU0A?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60353081/%E5%B0%8F%E7%B1%B317t%E5%94%AE%E5%83%B9-%E6%99%B6%E7%89%87%E6%BC%B2%E5%83%B9%E6%BD%AE%E5%B8%AD%E6%8D%B2-%E9%80%86%E5%B8%82%E5%BE%AE%E8%AA%BF%E6%88%96%E6%88%90%E5%B9%B4%E5%BA%A6%E9%AB%98%E6%80%A7%E5%83%B9%E6%AF%94%E4%B9%8B%E9%81%B8",
-    "timestamp": "2026-05-26T16:13:09.444Z",
     "strategy": ".content-card__main"
   }
 ];
