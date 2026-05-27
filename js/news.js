@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-27T14:01:34.134Z
+// Last updated: 2026-05-27T15:22:04.536Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "澤尻英龍華久違20年再出寫真　鏤空衫比堅尼齊上陣　2天即登榜首",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260527/1136279787178823680952873.png/AwkFIxbdXpsaF1gcIo6NX1TPakBG8EWvl8smupfLJro?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E5%A8%9B%E6%A8%82/60353965/%E6%BE%A4%E5%B0%BB%E8%8B%B1%E9%BE%8D%E8%8F%AF%E4%B9%85%E9%81%9520%E5%B9%B4%E5%86%8D%E5%87%BA%E5%AF%AB%E7%9C%9F-%E9%8F%A4%E7%A9%BA%E8%A1%AB%E6%AF%94%E5%A0%85%E5%B0%BC%E9%BD%8A%E4%B8%8A%E9%99%A3-2%E5%A4%A9%E5%8D%B3%E7%99%BB%E6%A6%9C%E9%A6%96",
+    "timestamp": "2026-05-27T15:22:04.536Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "大角咀福利街男子墮樓　送院搶救後不治",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/259702/org/2384bb737d25227d44e73f5d3ac251cf.jpg/kBFxz1Mb-OGoaK7ZAR_OUJJBLM_8vlyDqahtaKmobWg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60353725/%E5%8C%97%E9%83%BD%E6%93%AC%E5%BB%BA%E5%8A%8D%E6%93%8A%E9%A4%A8%E8%A8%AD1000%E8%A7%80%E7%9C%BE%E5%B8%AD-%E8%AD%B0%E5%93%A1%E8%B3%AA%E7%96%91%E5%BA%A7%E4%BD%8D%E5%A4%AA%E5%B0%91-%E5%83%85%E5%A4%A0%E8%BE%A6%E5%AD%B8%E7%95%8C%E6%AF%94%E8%B3%BD",
     "timestamp": "2026-05-26T09:59:37.747Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "胡子彤新歌《見一個愛一個》張蔓莎陳可為聯手作曲　MV出浴無底線",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260526/1135947269938352128068372.jpeg/m8gf1G7V3ZcnHf5PFxNLQXQfGT-3XbrsuY9LUrmPS1I?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60353581/%E8%83%A1%E5%AD%90%E5%BD%A4%E6%96%B0%E6%AD%8C-%E8%A6%8B%E4%B8%80%E5%80%8B%E6%84%9B%E4%B8%80%E5%80%8B-%E5%BC%B5%E8%94%93%E8%8E%8E%E9%99%B3%E5%8F%AF%E7%82%BA%E8%81%AF%E6%89%8B%E4%BD%9C%E6%9B%B2-mv%E5%87%BA%E6%B5%B4%E7%84%A1%E5%BA%95%E7%B7%9A",
-    "timestamp": "2026-05-26T08:22:55.106Z",
     "strategy": ".content-card__main"
   }
 ];
