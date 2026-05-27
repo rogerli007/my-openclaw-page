@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-27T10:14:33.047Z
+// Last updated: 2026-05-27T11:32:36.959Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "金秀賢忍1年終獲清白！金世義涉嫌恐嚇遭批捕：不承認任何指控",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260527/1136267051703209984346720.jpeg/0Ud8imxy5G5KvVHP2Dken_fo9RkNWkbG4GyqvOBsqrw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60353895/%E9%87%91%E7%A7%80%E8%B3%A2%E5%BF%8D1%E5%B9%B4%E7%B5%82%E7%8D%B2%E6%B8%85%E7%99%BD-%E9%87%91%E4%B8%96%E7%BE%A9%E6%B6%89%E5%AB%8C%E6%81%90%E5%9A%87%E9%81%AD%E6%89%B9%E6%8D%95-%E4%B8%8D%E6%89%BF%E8%AA%8D%E4%BB%BB%E4%BD%95%E6%8C%87%E6%8E%A7",
+    "timestamp": "2026-05-27T11:32:36.959Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "補習老師要7歲男童口交　官斥行為自私　判囚54個月",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260526/1135948579697856512027539.jpeg/nOOPDz4gdqDqZoYdfxqP3LijJGC-AiXwWj2QHlo9kB4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60353602/%E6%9D%AD%E5%B7%9Emuji%E6%9C%89%E5%A5%B3%E5%AD%90%E6%8B%BF%E5%BA%97%E5%85%A7%E6%8C%87%E7%94%B2%E6%B2%B9-%E8%A9%A6%E6%90%BD%E8%90%BD%E8%85%B3-%E7%B6%B2%E6%B0%91%E7%8B%A0%E6%89%B9-%E5%99%81%E5%BF%83%E5%A3%9E%E4%BA%86",
     "timestamp": "2026-05-26T06:58:32.156Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "音樂人黃丹儀何文田舊樓　簽十年長約收租462萬　租客擬改簡樸房",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260526/1135928059644350464840961.jpeg/sC_-Sc-XLl9zaDLB9-4DboYnDvJfeaeSknuyuJJ7srg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60353573/%E9%9F%B3%E6%A8%82%E4%BA%BA%E9%BB%83%E4%B8%B9%E5%84%80%E4%BD%95%E6%96%87%E7%94%B0%E8%88%8A%E6%A8%93-%E7%B0%BD%E5%8D%81%E5%B9%B4%E9%95%B7%E7%B4%84%E6%94%B6%E7%A7%9F462%E8%90%AC-%E7%A7%9F%E5%AE%A2%E6%93%AC%E6%94%B9%E7%B0%A1%E6%A8%B8%E6%88%BF",
-    "timestamp": "2026-05-26T05:32:46.800Z",
     "strategy": ".content-card__main"
   }
 ];
