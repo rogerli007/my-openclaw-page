@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-27T11:32:36.959Z
+// Last updated: 2026-05-27T14:01:34.134Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "大角咀福利街男子墮樓　送院搶救後不治",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260527/1136422978834141184469527.jpeg/k1J_WiRDqSXDzJJDM85jmTL8CUp1WpS3fqVJUWilSVE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60354192/%E5%A4%A7%E8%A7%92%E5%92%80%E7%A6%8F%E5%88%A9%E8%A1%97%E7%94%B7%E5%AD%90%E5%A2%AE%E6%A8%93-%E9%80%81%E9%99%A2%E6%90%B6%E6%95%91%E5%BE%8C%E4%B8%8D%E6%B2%BB",
+    "timestamp": "2026-05-27T14:01:34.134Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "金秀賢忍1年終獲清白！金世義涉嫌恐嚇遭批捕：不承認任何指控",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260526/1135947269938352128068372.jpeg/m8gf1G7V3ZcnHf5PFxNLQXQfGT-3XbrsuY9LUrmPS1I?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60353581/%E8%83%A1%E5%AD%90%E5%BD%A4%E6%96%B0%E6%AD%8C-%E8%A6%8B%E4%B8%80%E5%80%8B%E6%84%9B%E4%B8%80%E5%80%8B-%E5%BC%B5%E8%94%93%E8%8E%8E%E9%99%B3%E5%8F%AF%E7%82%BA%E8%81%AF%E6%89%8B%E4%BD%9C%E6%9B%B2-mv%E5%87%BA%E6%B5%B4%E7%84%A1%E5%BA%95%E7%B7%9A",
     "timestamp": "2026-05-26T08:22:55.106Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "杭州MUJI有女子拿店內指甲油「試搽落腳」　網民狠批：噁心壞了！",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260526/1135948579697856512027539.jpeg/nOOPDz4gdqDqZoYdfxqP3LijJGC-AiXwWj2QHlo9kB4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60353602/%E6%9D%AD%E5%B7%9Emuji%E6%9C%89%E5%A5%B3%E5%AD%90%E6%8B%BF%E5%BA%97%E5%85%A7%E6%8C%87%E7%94%B2%E6%B2%B9-%E8%A9%A6%E6%90%BD%E8%90%BD%E8%85%B3-%E7%B6%B2%E6%B0%91%E7%8B%A0%E6%89%B9-%E5%99%81%E5%BF%83%E5%A3%9E%E4%BA%86",
-    "timestamp": "2026-05-26T06:58:32.156Z",
     "strategy": ".content-card__main"
   }
 ];
