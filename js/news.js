@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-27T01:26:34.464Z
+// Last updated: 2026-05-27T02:30:26.839Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "深水埗欽州街地盤機器疑高處墮下　擊中男工頭部　昏迷送院搶救",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260527/1136247004947550208813694.jpeg/kc0WsSK3fb3aBIn_lUp9xR8XhmVQHPyKmmOZvZpjmb0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60353873/%E6%B7%B1%E6%B0%B4%E5%9F%97%E6%AC%BD%E5%B7%9E%E8%A1%97%E5%9C%B0%E7%9B%A4%E6%A9%9F%E5%99%A8%E7%96%91%E9%AB%98%E8%99%95%E5%A2%AE%E4%B8%8B-%E6%93%8A%E4%B8%AD%E7%94%B7%E5%B7%A5%E9%A0%AD%E9%83%A8-%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2%E6%90%B6%E6%95%91",
+    "timestamp": "2026-05-27T02:30:26.839Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "筲箕灣明華大廈夫婦糾紛　女子遭丈夫施襲　頭流血送院治理",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260505/1128273390600196096906571.jpeg/zxIbs8aCiDbZzTTzH7JcYN0pEVX-QYBgUMX6JlDF-iY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60353451/%E5%A4%A7%E6%91%A9-ai%E6%AD%A3%E5%BC%95%E7%88%86%E4%BA%9E%E6%B4%B25-5%E8%90%AC%E5%84%84%E7%BE%8E%E5%85%83%E8%83%BD%E6%BA%90%E6%8A%95%E8%B3%87%E8%B6%85%E7%B4%9A%E5%91%A8%E6%9C%9F",
     "timestamp": "2026-05-25T23:44:49.433Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "宏福苑大火半年｜蘇先生回家的悲與怒　播《陪着你走》送別父母",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260522/1134544784380137472462835.jpeg/O7FHjkkfFuK61LYjicxcNpNYQ6gJJmHqQeKysEHisrA",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60349082/%E5%AE%8F%E7%A6%8F%E8%8B%91%E5%A4%A7%E7%81%AB%E5%8D%8A%E5%B9%B4-%E8%98%87%E5%85%88%E7%94%9F%E5%9B%9E%E5%AE%B6%E7%9A%84%E6%82%B2%E8%88%87%E6%80%92-%E6%92%AD-%E9%99%AA%E7%9D%80%E4%BD%A0%E8%B5%B0-%E9%80%81%E5%88%A5%E7%88%B6%E6%AF%8D",
-    "timestamp": "2026-05-25T23:14:31.394Z",
     "strategy": ".content-card__main"
   }
 ];
