@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-27T21:43:13.921Z
+// Last updated: 2026-05-27T23:46:49.687Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "李若彤零修圖側拍曝光　59歲狀態震驚全網：過兒老了她還這麼年輕",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260527/1136379759773618176657048.jpeg/ZRoooyX3DI7S_3N_jT7jZXkzHfeB4FdC78oX9O_KF_Q?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60353985/%E6%9D%8E%E8%8B%A5%E5%BD%A4%E9%9B%B6%E4%BF%AE%E5%9C%96%E5%81%B4%E6%8B%8D%E6%9B%9D%E5%85%89-59%E6%AD%B2%E7%8B%80%E6%85%8B%E9%9C%87%E9%A9%9A%E5%85%A8%E7%B6%B2-%E9%81%8E%E5%85%92%E8%80%81%E4%BA%86%E5%A5%B9%E9%82%84%E9%80%99%E9%BA%BC%E5%B9%B4%E8%BC%95",
+    "timestamp": "2026-05-27T23:46:49.687Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "歐協聯｜水晶宮1：0華歷簡奴　奪隊史首座歐戰冠軍",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260527/1136180535496806400568091.jpeg/96x-uTsLSGTrgCW4krIk94FGqQtXWmcppsHpspzB6bI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60353846/%E7%81%A3%E4%BB%94%E7%BE%A4%E7%85%9E%E9%97%96%E9%85%92%E5%90%A7-%E6%8C%81%E6%9C%A8%E6%A3%8D%E9%9B%A8%E5%82%98%E6%96%BD%E8%A5%B2%E5%BE%8C%E9%80%83%E8%B5%B0-%E5%82%B7%E8%80%85%E6%B8%85%E9%86%92%E9%80%81%E9%99%A2",
     "timestamp": "2026-05-26T21:59:19.897Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美國航空擬明年與SpaceX合作　為逾500架空中巴士安裝星鏈Wi-Fi",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260527/1136142894105628672018493.jpeg/3ixsm5_f83hkVzMq2XZ7cgxopp6kIBYHJng_GiZ4Pxo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60353835/%E7%BE%8E%E5%9C%8B%E8%88%AA%E7%A9%BA%E6%93%AC%E6%98%8E%E5%B9%B4%E8%88%87spacex%E5%90%88%E4%BD%9C-%E7%82%BA%E9%80%BE500%E6%9E%B6%E7%A9%BA%E4%B8%AD%E5%B7%B4%E5%A3%AB%E5%AE%89%E8%A3%9D%E6%98%9F%E9%8F%88wi-fi",
-    "timestamp": "2026-05-26T20:23:10.230Z",
     "strategy": ".content-card__main"
   }
 ];
