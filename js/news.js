@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-27T20:53:08.210Z
+// Last updated: 2026-05-27T21:43:13.921Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "歐協聯｜水晶宮1：0華歷簡奴　奪隊史首座歐戰冠軍",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260528/1136524027918028800435216.jpeg/bEtsZwzoVbnpNNDrJwWE-RD_6CoPbNxV0_JUVNPyVFQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60354229/%E6%AD%90%E5%8D%94%E8%81%AF-%E6%B0%B4%E6%99%B6%E5%AE%AE1-0%E8%8F%AF%E6%AD%B7%E7%B0%A1%E5%A5%B4-%E5%A5%AA%E9%9A%8A%E5%8F%B2%E9%A6%96%E5%BA%A7%E6%AD%90%E6%88%B0%E5%86%A0%E8%BB%8D",
+    "timestamp": "2026-05-27T21:43:13.921Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "沙田愉翠苑男子暈倒洗手間　母親揭發報案　當場不治",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260527/1136142894105628672018493.jpeg/3ixsm5_f83hkVzMq2XZ7cgxopp6kIBYHJng_GiZ4Pxo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60353835/%E7%BE%8E%E5%9C%8B%E8%88%AA%E7%A9%BA%E6%93%AC%E6%98%8E%E5%B9%B4%E8%88%87spacex%E5%90%88%E4%BD%9C-%E7%82%BA%E9%80%BE500%E6%9E%B6%E7%A9%BA%E4%B8%AD%E5%B7%B4%E5%A3%AB%E5%AE%89%E8%A3%9D%E6%98%9F%E9%8F%88wi-fi",
     "timestamp": "2026-05-26T20:23:10.230Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "中國成功發射通信技術試驗衛星二十四號",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260527/1136140705069010944714860.png/o0T7OfHZbbLsF7h6jj1I-8zT9DFKIePjgwbSL4MG0i8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60353836/%E4%B8%AD%E5%9C%8B%E6%88%90%E5%8A%9F%E7%99%BC%E5%B0%84%E9%80%9A%E4%BF%A1%E6%8A%80%E8%A1%93%E8%A9%A6%E9%A9%97%E8%A1%9B%E6%98%9F%E4%BA%8C%E5%8D%81%E5%9B%9B%E8%99%9F",
-    "timestamp": "2026-05-26T19:24:05.818Z",
     "strategy": ".content-card__main"
   }
 ];
