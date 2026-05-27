@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-26T23:45:49.592Z
+// Last updated: 2026-05-27T01:26:34.464Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "筲箕灣明華大廈夫婦糾紛　女子遭丈夫施襲　頭流血送院治理",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260527/1136227453040070656793524.jpeg/ZhmA_PCLt5AbY--Z4tC2HyE5LuWuRDOOgtcRc4LXEXM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60353862/%E7%AD%B2%E7%AE%95%E7%81%A3%E6%98%8E%E8%8F%AF%E5%A4%A7%E5%BB%88%E5%A4%AB%E5%A9%A6%E7%B3%BE%E7%B4%9B-%E5%A5%B3%E5%AD%90%E9%81%AD%E4%B8%88%E5%A4%AB%E6%96%BD%E8%A5%B2-%E9%A0%AD%E6%B5%81%E8%A1%80%E9%80%81%E9%99%A2%E6%B2%BB%E7%90%86",
+    "timestamp": "2026-05-27T01:26:34.464Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "即使美國和伊朗達成協議，也不等於霍爾木茲海峽能正常開通",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260522/1134544784380137472462835.jpeg/O7FHjkkfFuK61LYjicxcNpNYQ6gJJmHqQeKysEHisrA",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60349082/%E5%AE%8F%E7%A6%8F%E8%8B%91%E5%A4%A7%E7%81%AB%E5%8D%8A%E5%B9%B4-%E8%98%87%E5%85%88%E7%94%9F%E5%9B%9E%E5%AE%B6%E7%9A%84%E6%82%B2%E8%88%87%E6%80%92-%E6%92%AD-%E9%99%AA%E7%9D%80%E4%BD%A0%E8%B5%B0-%E9%80%81%E5%88%A5%E7%88%B6%E6%AF%8D",
     "timestamp": "2026-05-25T23:14:31.394Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "18歲仔胃痛暴瘦！驚揭體內雙胞胎寄生吸血長大　取出2.5公斤腫塊",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260525/1135618191913914368406857.png/QtYGO0Jj2gZ8ZNwE5nGHtUi-ATX8RuStMOVHGjDlRxo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60352607/18%E6%AD%B2%E4%BB%94%E8%83%83%E7%97%9B%E6%9A%B4%E7%98%A6-%E9%A9%9A%E6%8F%AD%E9%AB%94%E5%85%A7%E9%9B%99%E8%83%9E%E8%83%8E%E5%AF%84%E7%94%9F%E5%90%B8%E8%A1%80%E9%95%B7%E5%A4%A7-%E5%8F%96%E5%87%BA2-5%E5%85%AC%E6%96%A4%E8%85%AB%E5%A1%8A",
-    "timestamp": "2026-05-25T22:14:46.934Z",
     "strategy": ".content-card__main"
   }
 ];
