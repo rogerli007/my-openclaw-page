@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-27T08:35:32.101Z
+// Last updated: 2026-05-27T10:14:33.047Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "補習老師要7歲男童口交　官斥行為自私　判囚54個月",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/320850/org/4372c6f4eb88c22271d5f67730dd76b0.jpg/U7R1uxoISpEZNAqDEqvhs1uSz8DO0_iaiBTwLogU8C4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60353818/%E8%A3%9C%E7%BF%92%E8%80%81%E5%B8%AB%E8%A6%817%E6%AD%B2%E7%94%B7%E7%AB%A5%E5%8F%A3%E4%BA%A4-%E5%AE%98%E6%96%A5%E8%A1%8C%E7%82%BA%E8%87%AA%E7%A7%81-%E5%88%A4%E5%9B%9A54%E5%80%8B%E6%9C%88",
+    "timestamp": "2026-05-27T10:14:33.047Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "伴侶突變勤力洗衣恐「身有屎」　專家揭9大偷食徵兆：小心計數機",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260526/1135928059644350464840961.jpeg/sC_-Sc-XLl9zaDLB9-4DboYnDvJfeaeSknuyuJJ7srg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60353573/%E9%9F%B3%E6%A8%82%E4%BA%BA%E9%BB%83%E4%B8%B9%E5%84%80%E4%BD%95%E6%96%87%E7%94%B0%E8%88%8A%E6%A8%93-%E7%B0%BD%E5%8D%81%E5%B9%B4%E9%95%B7%E7%B4%84%E6%94%B6%E7%A7%9F462%E8%90%AC-%E7%A7%9F%E5%AE%A2%E6%93%AC%E6%94%B9%E7%B0%A1%E6%A8%B8%E6%88%BF",
     "timestamp": "2026-05-26T05:32:46.800Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "第四屆家鄉市集6.3至6.7維園舉行　首引有機糙米等鄉村振興產品",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260526/1135908302153060352615870.jpeg/bdGuUPZ3mCNrsDJGEx8lF0Vbt5S7qinu7b68vu2-vL4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60353548/%E7%AC%AC%E5%9B%9B%E5%B1%86%E5%AE%B6%E9%84%89%E5%B8%82%E9%9B%866-3%E8%87%B36-7%E7%B6%AD%E5%9C%92%E8%88%89%E8%A1%8C-%E9%A6%96%E5%BC%95%E6%9C%89%E6%A9%9F%E7%B3%99%E7%B1%B3%E7%AD%89%E9%84%89%E6%9D%91%E6%8C%AF%E8%88%88%E7%94%A2%E5%93%81",
-    "timestamp": "2026-05-26T03:52:41.044Z",
     "strategy": ".content-card__main"
   }
 ];
