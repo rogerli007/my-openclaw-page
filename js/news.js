@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-27T03:54:15.411Z
+// Last updated: 2026-05-27T05:41:16.941Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "特朗普推動選區重劃受挫　南卡州共和黨議員倒戈否決",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260522/1134298550256013312957018.jpeg/RgVUN9yesMtzkDtaLtMkXgfD5GGnfwMy830B4_N9AeM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60353990/%E7%89%B9%E6%9C%97%E6%99%AE%E6%8E%A8%E5%8B%95%E9%81%B8%E5%8D%80%E9%87%8D%E5%8A%83%E5%8F%97%E6%8C%AB-%E5%8D%97%E5%8D%A1%E5%B7%9E%E5%85%B1%E5%92%8C%E9%BB%A8%E8%AD%B0%E5%93%A1%E5%80%92%E6%88%88%E5%90%A6%E6%B1%BA",
+    "timestamp": "2026-05-27T05:41:16.941Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "T2今開幕11 SKIES何時開？機管局稱2028年是好時機　須減購物設施",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260523/1134869160476545024541832.png/3-yE8dHrxK3D-fU5sSfNZjUys7sznoyQ-uT-tfrk_rU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60352508/%E5%9B%9B%E5%B7%9D%E7%94%B7%E7%84%A1%E6%95%85%E8%AE%8A%E6%AF%92%E8%B2%A9-%E7%94%B3%E6%A8%93%E5%AE%87%E6%8C%89%E6%8F%AD%E8%A2%AB%E6%8B%92-%E5%8E%9F%E4%BE%86%E8%A2%AB%E8%A6%AA%E5%BC%9F%E5%86%92%E7%94%A8%E8%BA%AB%E4%BB%BD%E9%A0%82%E7%BD%AA10%E5%B9%B4",
     "timestamp": "2026-05-26T01:21:39.466Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "筷子尖向左擺居然源於帝王思想？禮儀專家揭秘日本傳統飲食規矩",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260423/1124035735884664832392864.jpeg/YhB9K9hUKS682H2AR1W5_LplXCDSvTPWRhgzQEYYM0A?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%92%B0%E7%90%83%E8%B6%A3%E8%81%9E/60343187/%E7%AD%B7%E5%AD%90%E5%B0%96%E5%90%91%E5%B7%A6%E6%93%BA%E5%B1%85%E7%84%B6%E6%BA%90%E6%96%BC%E5%B8%9D%E7%8E%8B%E6%80%9D%E6%83%B3-%E7%A6%AE%E5%84%80%E5%B0%88%E5%AE%B6%E6%8F%AD%E7%A7%98%E6%97%A5%E6%9C%AC%E5%82%B3%E7%B5%B1%E9%A3%B2%E9%A3%9F%E8%A6%8F%E7%9F%A9",
-    "timestamp": "2026-05-26T00:14:29.128Z",
     "strategy": ".content-card__main"
   }
 ];
