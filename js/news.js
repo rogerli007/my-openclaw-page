@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-27T15:22:04.536Z
+// Last updated: 2026-05-27T16:49:06.943Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "特朗普：伊朗不會為制裁豁免而放棄高濃縮鈾　美方對協議仍不滿意",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260528/1136465055664050176978403.jpeg/VU6fRF1aYLHBChcw4UvS2KVrrV8Hs4dmOBB0NTgQdDU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60354210/%E7%89%B9%E6%9C%97%E6%99%AE-%E4%BC%8A%E6%9C%97%E4%B8%8D%E6%9C%83%E7%82%BA%E5%88%B6%E8%A3%81%E8%B1%81%E5%85%8D%E8%80%8C%E6%94%BE%E6%A3%84%E9%AB%98%E6%BF%83%E7%B8%AE%E9%88%BE-%E7%BE%8E%E6%96%B9%E5%B0%8D%E5%8D%94%E8%AD%B0%E4%BB%8D%E4%B8%8D%E6%BB%BF%E6%84%8F",
+    "timestamp": "2026-05-27T16:49:06.943Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "澤尻英龍華久違20年再出寫真　鏤空衫比堅尼齊上陣　2天即登榜首",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260524/1135293665585926144105629.png/nZK5RJOykybeTj44wtPU4W7EBCnRpKdnuIpTQLiKU0A?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60353081/%E5%B0%8F%E7%B1%B317t%E5%94%AE%E5%83%B9-%E6%99%B6%E7%89%87%E6%BC%B2%E5%83%B9%E6%BD%AE%E5%B8%AD%E6%8D%B2-%E9%80%86%E5%B8%82%E5%BE%AE%E8%AA%BF%E6%88%96%E6%88%90%E5%B9%B4%E5%BA%A6%E9%AB%98%E6%80%A7%E5%83%B9%E6%AF%94%E4%B9%8B%E9%81%B8",
     "timestamp": "2026-05-26T16:13:09.444Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "北都擬建劍擊館設1000觀眾席　議員質疑座位太少：僅夠辦學界比賽",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/259702/org/2384bb737d25227d44e73f5d3ac251cf.jpg/kBFxz1Mb-OGoaK7ZAR_OUJJBLM_8vlyDqahtaKmobWg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60353725/%E5%8C%97%E9%83%BD%E6%93%AC%E5%BB%BA%E5%8A%8D%E6%93%8A%E9%A4%A8%E8%A8%AD1000%E8%A7%80%E7%9C%BE%E5%B8%AD-%E8%AD%B0%E5%93%A1%E8%B3%AA%E7%96%91%E5%BA%A7%E4%BD%8D%E5%A4%AA%E5%B0%91-%E5%83%85%E5%A4%A0%E8%BE%A6%E5%AD%B8%E7%95%8C%E6%AF%94%E8%B3%BD",
-    "timestamp": "2026-05-26T09:59:37.747Z",
     "strategy": ".content-card__main"
   }
 ];
