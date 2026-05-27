@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-27T07:14:32.434Z
+// Last updated: 2026-05-27T08:35:32.101Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "伴侶突變勤力洗衣恐「身有屎」　專家揭9大偷食徵兆：小心計數機",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260527/1136326540435394560341926.png/Wj2gcyN3NRTWXYGy3VY7VtboVKhuBUbEkNtq6JDbaug?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60354052/%E4%BC%B4%E4%BE%B6%E7%AA%81%E8%AE%8A%E5%8B%A4%E5%8A%9B%E6%B4%97%E8%A1%A3%E6%81%90-%E8%BA%AB%E6%9C%89%E5%B1%8E-%E5%B0%88%E5%AE%B6%E6%8F%AD9%E5%A4%A7%E5%81%B7%E9%A3%9F%E5%BE%B5%E5%85%86-%E5%B0%8F%E5%BF%83%E8%A8%88%E6%95%B8%E6%A9%9F",
+    "timestamp": "2026-05-27T08:35:32.101Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "夏日底妝愈控愈油？醫揭正確化妝順序：先補水後控油解決溶妝困擾",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260526/1135908302153060352615870.jpeg/bdGuUPZ3mCNrsDJGEx8lF0Vbt5S7qinu7b68vu2-vL4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60353548/%E7%AC%AC%E5%9B%9B%E5%B1%86%E5%AE%B6%E9%84%89%E5%B8%82%E9%9B%866-3%E8%87%B36-7%E7%B6%AD%E5%9C%92%E8%88%89%E8%A1%8C-%E9%A6%96%E5%BC%95%E6%9C%89%E6%A9%9F%E7%B3%99%E7%B1%B3%E7%AD%89%E9%84%89%E6%9D%91%E6%8C%AF%E8%88%88%E7%94%A2%E5%93%81",
     "timestamp": "2026-05-26T03:52:41.044Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "內地整治非法跨境炒股 　耀才曾泄逾一成　懶理早年已清内地戶口",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250509/997518299933708288280613.jpeg/eHXoNtrjyZnSTEiQqb_NkQrIwM5GLcAey4cVpMuHFaQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60353489/%E5%85%A7%E5%9C%B0%E6%95%B4%E6%B2%BB%E9%9D%9E%E6%B3%95%E8%B7%A8%E5%A2%83%E7%82%92%E8%82%A1-%E8%80%80%E6%89%8D%E6%9B%BE%E6%B3%84%E9%80%BE%E4%B8%80%E6%88%90-%E6%87%B6%E7%90%86%E6%97%A9%E5%B9%B4%E5%B7%B2%E6%B8%85%E5%86%85%E5%9C%B0%E6%88%B6%E5%8F%A3",
-    "timestamp": "2026-05-26T02:30:23.957Z",
     "strategy": ".content-card__main"
   }
 ];
