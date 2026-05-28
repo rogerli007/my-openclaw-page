@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-28T06:36:25.542Z
+// Last updated: 2026-05-28T08:13:35.968Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "大死撐日舞台劇2026香港加場｜門票攻略＋購票連結＋座位表",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260525/1135602599320358912569782.jpeg/deM6rjQWKRSo2lim7dXaKLnyNQElrLOWNv3KoTb9yqE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60353302/%E5%A4%A7%E6%AD%BB%E6%92%90%E6%97%A5%E8%88%9E%E5%8F%B0%E5%8A%872026%E9%A6%99%E6%B8%AF%E5%8A%A0%E5%A0%B4-%E9%96%80%E7%A5%A8%E6%94%BB%E7%95%A5-%E8%B3%BC%E7%A5%A8%E9%80%A3%E7%B5%90-%E5%BA%A7%E4%BD%8D%E8%A1%A8",
+    "timestamp": "2026-05-28T08:13:35.968Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "金價狂潮｜華夏數字黃金ETF 明日上市　專家籲配置5至10%黃金資產",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260420/1122941679461339136163587.jpeg/AO7l3juORiBFlCJg5KP_iRRwIwIPPtORwadxtcGncbU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60353921/t2%E4%BB%8A%E9%96%8B%E5%B9%9511-skies%E4%BD%95%E6%99%82%E9%96%8B-%E6%A9%9F%E7%AE%A1%E5%B1%80%E7%A8%B12028%E5%B9%B4%E6%98%AF%E5%A5%BD%E6%99%82%E6%A9%9F-%E9%A0%88%E6%B8%9B%E8%B3%BC%E7%89%A9%E8%A8%AD%E6%96%BD",
     "timestamp": "2026-05-27T03:54:15.411Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "深水埗欽州街地盤機器疑高處墮下　擊中男工頭部　昏迷送院搶救",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260527/1136247004947550208813694.jpeg/kc0WsSK3fb3aBIn_lUp9xR8XhmVQHPyKmmOZvZpjmb0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60353873/%E6%B7%B1%E6%B0%B4%E5%9F%97%E6%AC%BD%E5%B7%9E%E8%A1%97%E5%9C%B0%E7%9B%A4%E6%A9%9F%E5%99%A8%E7%96%91%E9%AB%98%E8%99%95%E5%A2%AE%E4%B8%8B-%E6%93%8A%E4%B8%AD%E7%94%B7%E5%B7%A5%E9%A0%AD%E9%83%A8-%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2%E6%90%B6%E6%95%91",
-    "timestamp": "2026-05-27T02:30:26.839Z",
     "strategy": ".content-card__main"
   }
 ];
