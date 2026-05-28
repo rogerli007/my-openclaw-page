@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-28T20:05:54.092Z
+// Last updated: 2026-05-28T21:00:49.991Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "伊媒：諒解備忘錄文本尚未定稿　西方媒體稱協議已敲定為不實消息",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260524/1135061578215854080840956.jpeg/6nzAp_eAdVIIl_R_Y9fm4X0BMD95yqU0ZzN-12czftc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60354630/%E4%BC%8A%E5%AA%92-%E8%AB%92%E8%A7%A3%E5%82%99%E5%BF%98%E9%8C%84%E6%96%87%E6%9C%AC%E5%B0%9A%E6%9C%AA%E5%AE%9A%E7%A8%BF-%E8%A5%BF%E6%96%B9%E5%AA%92%E9%AB%94%E7%A8%B1%E5%8D%94%E8%AD%B0%E5%B7%B2%E6%95%B2%E5%AE%9A%E7%82%BA%E4%B8%8D%E5%AF%A6%E6%B6%88%E6%81%AF",
+    "timestamp": "2026-05-28T21:00:49.991Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "貝森特警告阿曼：勿協助霍爾木茲海峽收費計劃　否則遭嚴厲打擊",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260528/1136476278916911104573201.jpeg/24GUgI3sARIKq6EB7rR1eEwmPqRTA1LL9kHAU_ZBwFM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60354215/%E7%89%B9%E6%9C%97%E6%99%AE%E7%A8%B1%E4%B8%8D%E6%80%A5%E8%88%87%E4%BC%8A%E6%9C%97%E9%81%94%E5%8D%94%E8%AD%B0-%E6%8C%87%E6%8B%96%E5%BB%B6%E6%88%B0%E8%A1%93%E9%9B%A3%E9%80%9E%E5%9B%A0-%E4%B8%8D%E5%9C%A8%E4%B9%8E%E4%B8%AD%E6%9C%9F%E9%81%B8%E8%88%89",
     "timestamp": "2026-05-27T17:54:04.302Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普：伊朗不會為制裁豁免而放棄高濃縮鈾　美方對協議仍不滿意",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260528/1136465055664050176978403.jpeg/VU6fRF1aYLHBChcw4UvS2KVrrV8Hs4dmOBB0NTgQdDU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60354210/%E7%89%B9%E6%9C%97%E6%99%AE-%E4%BC%8A%E6%9C%97%E4%B8%8D%E6%9C%83%E7%82%BA%E5%88%B6%E8%A3%81%E8%B1%81%E5%85%8D%E8%80%8C%E6%94%BE%E6%A3%84%E9%AB%98%E6%BF%83%E7%B8%AE%E9%88%BE-%E7%BE%8E%E6%96%B9%E5%B0%8D%E5%8D%94%E8%AD%B0%E4%BB%8D%E4%B8%8D%E6%BB%BF%E6%84%8F",
-    "timestamp": "2026-05-27T16:49:06.943Z",
     "strategy": ".content-card__main"
   }
 ];
