@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-27T23:46:49.687Z
+// Last updated: 2026-05-28T00:14:29.887Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "港銀據報收緊內地客開戶門檻　需證明資金來源　有在港內銀停開戶",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260520/1133888172204756992072659.jpeg/-lwzlvRe1BJ__EB1MwWLP_t12DSIBaxW7T8vkfc_L5E?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60354241/%E6%B8%AF%E9%8A%80%E6%93%9A%E5%A0%B1%E6%94%B6%E7%B7%8A%E5%85%A7%E5%9C%B0%E5%AE%A2%E9%96%8B%E6%88%B6%E9%96%80%E6%AA%BB-%E9%9C%80%E8%AD%89%E6%98%8E%E8%B3%87%E9%87%91%E4%BE%86%E6%BA%90-%E6%9C%89%E5%9C%A8%E6%B8%AF%E5%85%A7%E9%8A%80%E5%81%9C%E9%96%8B%E6%88%B6",
+    "timestamp": "2026-05-28T00:14:29.887Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "李若彤零修圖側拍曝光　59歲狀態震驚全網：過兒老了她還這麼年輕",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260526/1136069773021417472324516.jpeg/HE6yQGQ3LetmQc3Ukslu-h9EN8v2tcC2L9ZIpC_WSKQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60353576/mandy-lieu%E5%89%8D%E6%9C%89%E7%B1%B3%E7%B7%8B%E8%81%9E%E7%94%B7%E5%8F%8B%E6%9E%97%E5%A8%81%E8%BE%B0%E5%A4%A7%E5%A9%9A-%E7%88%B6%E8%A6%AA%E6%9B%BE%E8%A2%AB%E5%B0%81-%E5%BB%89%E7%BD%B2%E5%B0%85%E6%98%9F",
     "timestamp": "2026-05-26T22:38:23.890Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "灣仔群煞闖酒吧　持木棍雨傘施襲後逃走　傷者清醒送院",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260527/1136180535496806400568091.jpeg/96x-uTsLSGTrgCW4krIk94FGqQtXWmcppsHpspzB6bI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60353846/%E7%81%A3%E4%BB%94%E7%BE%A4%E7%85%9E%E9%97%96%E9%85%92%E5%90%A7-%E6%8C%81%E6%9C%A8%E6%A3%8D%E9%9B%A8%E5%82%98%E6%96%BD%E8%A5%B2%E5%BE%8C%E9%80%83%E8%B5%B0-%E5%82%B7%E8%80%85%E6%B8%85%E9%86%92%E9%80%81%E9%99%A2",
-    "timestamp": "2026-05-26T21:59:19.897Z",
     "strategy": ".content-card__main"
   }
 ];
