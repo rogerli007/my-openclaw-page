@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-28T16:54:40.210Z
+// Last updated: 2026-05-28T18:09:41.624Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "西貢村屋遇竊　42歲女失逾$8萬財物　包括Cartier扣針和小米CCTV",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260529/1136843008507908096426091.jpeg/7yiGtL5uJ6nl0cFKF54h2A-nuldVwUxK5UN0cd9DdHE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60354621/%E8%A5%BF%E8%B2%A2%E6%9D%91%E5%B1%8B%E9%81%87%E7%AB%8A-42%E6%AD%B2%E5%A5%B3%E5%A4%B1%E9%80%BE-8%E8%90%AC%E8%B2%A1%E7%89%A9-%E5%8C%85%E6%8B%ACcartier%E6%89%A3%E9%87%9D%E5%92%8C%E5%B0%8F%E7%B1%B3cctv",
+    "timestamp": "2026-05-28T18:09:41.624Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "天花板級港女網紅michexx.l_身份曝光　瘦底卻身材超狂引爭議",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260527/1136422978834141184469527.jpeg/k1J_WiRDqSXDzJJDM85jmTL8CUp1WpS3fqVJUWilSVE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60354192/%E5%A4%A7%E8%A7%92%E5%92%80%E7%A6%8F%E5%88%A9%E8%A1%97%E7%94%B7%E5%AD%90%E5%A2%AE%E6%A8%93-%E9%80%81%E9%99%A2%E6%90%B6%E6%95%91%E5%BE%8C%E4%B8%8D%E6%B2%BB",
     "timestamp": "2026-05-27T14:01:34.134Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "金秀賢忍1年終獲清白！金世義涉嫌恐嚇遭批捕：不承認任何指控",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260527/1136267051703209984346720.jpeg/0Ud8imxy5G5KvVHP2Dken_fo9RkNWkbG4GyqvOBsqrw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60353895/%E9%87%91%E7%A7%80%E8%B3%A2%E5%BF%8D1%E5%B9%B4%E7%B5%82%E7%8D%B2%E6%B8%85%E7%99%BD-%E9%87%91%E4%B8%96%E7%BE%A9%E6%B6%89%E5%AB%8C%E6%81%90%E5%9A%87%E9%81%AD%E6%89%B9%E6%8D%95-%E4%B8%8D%E6%89%BF%E8%AA%8D%E4%BB%BB%E4%BD%95%E6%8C%87%E6%8E%A7",
-    "timestamp": "2026-05-27T11:32:36.959Z",
     "strategy": ".content-card__main"
   }
 ];
