@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-28T08:13:35.968Z
+// Last updated: 2026-05-28T09:38:34.272Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "仁川機場哺乳室變「沖杯麵專區」？內地遊客小紅書教路惹韓網熱議",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260528/1136704032966971392936584.jpeg/GTEABXgQCwFJ0a60w5dkbmJbUYByJVwU4YMxJeGDMSU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60354458/%E4%BB%81%E5%B7%9D%E6%A9%9F%E5%A0%B4%E5%93%BA%E4%B9%B3%E5%AE%A4%E8%AE%8A-%E6%B2%96%E6%9D%AF%E9%BA%B5%E5%B0%88%E5%8D%80-%E5%85%A7%E5%9C%B0%E9%81%8A%E5%AE%A2%E5%B0%8F%E7%B4%85%E6%9B%B8%E6%95%99%E8%B7%AF%E6%83%B9%E9%9F%93%E7%B6%B2%E7%86%B1%E8%AD%B0",
+    "timestamp": "2026-05-28T09:38:34.272Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "大死撐日舞台劇2026香港加場｜門票攻略＋購票連結＋座位表",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260522/1134298550256013312957018.jpeg/RgVUN9yesMtzkDtaLtMkXgfD5GGnfwMy830B4_N9AeM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60353990/%E7%89%B9%E6%9C%97%E6%99%AE%E6%8E%A8%E5%8B%95%E9%81%B8%E5%8D%80%E9%87%8D%E5%8A%83%E5%8F%97%E6%8C%AB-%E5%8D%97%E5%8D%A1%E5%B7%9E%E5%85%B1%E5%92%8C%E9%BB%A8%E8%AD%B0%E5%93%A1%E5%80%92%E6%88%88%E5%90%A6%E6%B1%BA",
     "timestamp": "2026-05-27T05:41:16.941Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "T2今開幕11 SKIES何時開？機管局稱2028年是好時機　須減購物設施",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260420/1122941679461339136163587.jpeg/AO7l3juORiBFlCJg5KP_iRRwIwIPPtORwadxtcGncbU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60353921/t2%E4%BB%8A%E9%96%8B%E5%B9%9511-skies%E4%BD%95%E6%99%82%E9%96%8B-%E6%A9%9F%E7%AE%A1%E5%B1%80%E7%A8%B12028%E5%B9%B4%E6%98%AF%E5%A5%BD%E6%99%82%E6%A9%9F-%E9%A0%88%E6%B8%9B%E8%B3%BC%E7%89%A9%E8%A8%AD%E6%96%BD",
-    "timestamp": "2026-05-27T03:54:15.411Z",
     "strategy": ".content-card__main"
   }
 ];
