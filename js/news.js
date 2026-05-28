@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-28T05:04:08.782Z
+// Last updated: 2026-05-28T06:36:25.542Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "金價狂潮｜華夏數字黃金ETF 明日上市　專家籲配置5至10%黃金資產",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260528/1136672473064935424613280.jpeg/mY5Dfnsn0WROnRyUR-7LFfOu8eXkm_n-N566vjeeur4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60354400/%E9%87%91%E5%83%B9%E7%8B%82%E6%BD%AE-%E8%8F%AF%E5%A4%8F%E6%95%B8%E5%AD%97%E9%BB%83%E9%87%91etf-%E6%98%8E%E6%97%A5%E4%B8%8A%E5%B8%82-%E5%B0%88%E5%AE%B6%E7%B1%B2%E9%85%8D%E7%BD%AE5%E8%87%B310-%E9%BB%83%E9%87%91%E8%B3%87%E7%94%A2",
+    "timestamp": "2026-05-28T06:36:25.542Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "李蕙敏與英籍老公疑似鬧婚變　合照消失並與中性打扮密友態度親暱",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260527/1136247004947550208813694.jpeg/kc0WsSK3fb3aBIn_lUp9xR8XhmVQHPyKmmOZvZpjmb0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60353873/%E6%B7%B1%E6%B0%B4%E5%9F%97%E6%AC%BD%E5%B7%9E%E8%A1%97%E5%9C%B0%E7%9B%A4%E6%A9%9F%E5%99%A8%E7%96%91%E9%AB%98%E8%99%95%E5%A2%AE%E4%B8%8B-%E6%93%8A%E4%B8%AD%E7%94%B7%E5%B7%A5%E9%A0%AD%E9%83%A8-%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2%E6%90%B6%E6%95%91",
     "timestamp": "2026-05-27T02:30:26.839Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "筲箕灣明華大廈夫婦糾紛　女子遭丈夫施襲　頭流血送院治理",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260527/1136227453040070656793524.jpeg/ZhmA_PCLt5AbY--Z4tC2HyE5LuWuRDOOgtcRc4LXEXM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60353862/%E7%AD%B2%E7%AE%95%E7%81%A3%E6%98%8E%E8%8F%AF%E5%A4%A7%E5%BB%88%E5%A4%AB%E5%A9%A6%E7%B3%BE%E7%B4%9B-%E5%A5%B3%E5%AD%90%E9%81%AD%E4%B8%88%E5%A4%AB%E6%96%BD%E8%A5%B2-%E9%A0%AD%E6%B5%81%E8%A1%80%E9%80%81%E9%99%A2%E6%B2%BB%E7%90%86",
-    "timestamp": "2026-05-27T01:26:34.464Z",
     "strategy": ".content-card__main"
   }
 ];
