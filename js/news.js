@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-28T21:00:49.991Z
+// Last updated: 2026-05-28T21:49:33.760Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "Dell季績勝預期　市後股價飆逾30%",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20220828/640651568403714048873569.jpeg/Bke2DhXoMSvYPfywM2-pX_1IPUpYt8YDQZfyx0GX8sc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60354635/dell%E5%AD%A3%E7%B8%BE%E5%8B%9D%E9%A0%90%E6%9C%9F-%E5%B8%82%E5%BE%8C%E8%82%A1%E5%83%B9%E9%A3%86%E9%80%BE30",
+    "timestamp": "2026-05-28T21:49:33.760Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "伊媒：諒解備忘錄文本尚未定稿　西方媒體稱協議已敲定為不實消息",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260528/1136496101503799296073815.jpeg/0P95Fj5L5_MXHAZdlRo-I5yCI9mXOZfaKPiHICj4hyA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60354220/%E6%B7%B1%E6%B0%B4%E5%9F%97%E6%B8%A0%E5%8B%99%E7%BD%B2%E5%9C%B0%E7%9B%A4%E5%B7%A5%E4%BA%BA%E8%A2%AB%E6%A9%9F%E5%99%A8%E6%93%8A%E4%B8%AD-%E7%95%99%E9%86%AB14%E5%B0%8F%E6%99%82%E4%B8%8D%E6%B2%BB-%E7%BD%B2%E6%96%B9%E5%8B%92%E4%BB%A4%E5%81%9C%E5%B7%A5",
     "timestamp": "2026-05-27T19:00:29.124Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普稱不急與伊朗達協議　指拖延戰術難逞因「不在乎中期選舉」",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260528/1136476278916911104573201.jpeg/24GUgI3sARIKq6EB7rR1eEwmPqRTA1LL9kHAU_ZBwFM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60354215/%E7%89%B9%E6%9C%97%E6%99%AE%E7%A8%B1%E4%B8%8D%E6%80%A5%E8%88%87%E4%BC%8A%E6%9C%97%E9%81%94%E5%8D%94%E8%AD%B0-%E6%8C%87%E6%8B%96%E5%BB%B6%E6%88%B0%E8%A1%93%E9%9B%A3%E9%80%9E%E5%9B%A0-%E4%B8%8D%E5%9C%A8%E4%B9%8E%E4%B8%AD%E6%9C%9F%E9%81%B8%E8%88%89",
-    "timestamp": "2026-05-27T17:54:04.302Z",
     "strategy": ".content-card__main"
   }
 ];
