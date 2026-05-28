@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-28T21:49:33.760Z
+// Last updated: 2026-05-28T23:04:34.903Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "平機會指同性伴侶草案推倒　反映性傾向歧視立法難　社會須達共識",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260527/1136334809891606528130562.jpeg/tNwTUE7fDTPgFa4QFXjN8s_t-gwD5JUlFhSc9DMUnPQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60354064/%E5%B9%B3%E6%A9%9F%E6%9C%83%E6%8C%87%E5%90%8C%E6%80%A7%E4%BC%B4%E4%BE%B6%E8%8D%89%E6%A1%88%E6%8E%A8%E5%80%92-%E5%8F%8D%E6%98%A0%E6%80%A7%E5%82%BE%E5%90%91%E6%AD%A7%E8%A6%96%E7%AB%8B%E6%B3%95%E9%9B%A3-%E7%A4%BE%E6%9C%83%E9%A0%88%E9%81%94%E5%85%B1%E8%AD%98",
+    "timestamp": "2026-05-28T23:04:34.903Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "Dell季績勝預期　市後股價飆逾30%",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260528/1136527000874258432234681.jpeg/1VeBU59QJUiodH-7jhEdzHz5RARztE3UjLgmzoy4Js4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60354230/%E6%B2%99%E7%94%B0%E6%84%89%E7%BF%A0%E8%8B%91%E7%94%B7%E5%AD%90%E6%9A%88%E5%80%92%E6%B4%97%E6%89%8B%E9%96%93-%E6%AF%8D%E8%A6%AA%E6%8F%AD%E7%99%BC%E5%A0%B1%E6%A1%88-%E7%95%B6%E5%A0%B4%E4%B8%8D%E6%B2%BB",
     "timestamp": "2026-05-27T20:53:08.210Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "深水埗渠務署地盤工人被機器擊中　留醫14小時不治　署方勒令停工",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260528/1136496101503799296073815.jpeg/0P95Fj5L5_MXHAZdlRo-I5yCI9mXOZfaKPiHICj4hyA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60354220/%E6%B7%B1%E6%B0%B4%E5%9F%97%E6%B8%A0%E5%8B%99%E7%BD%B2%E5%9C%B0%E7%9B%A4%E5%B7%A5%E4%BA%BA%E8%A2%AB%E6%A9%9F%E5%99%A8%E6%93%8A%E4%B8%AD-%E7%95%99%E9%86%AB14%E5%B0%8F%E6%99%82%E4%B8%8D%E6%B2%BB-%E7%BD%B2%E6%96%B9%E5%8B%92%E4%BB%A4%E5%81%9C%E5%B7%A5",
-    "timestamp": "2026-05-27T19:00:29.124Z",
     "strategy": ".content-card__main"
   }
 ];
