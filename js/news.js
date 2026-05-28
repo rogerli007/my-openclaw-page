@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-28T00:14:29.887Z
+// Last updated: 2026-05-28T02:06:08.870Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "陳自瑤韓國狂擦美食貼地排隊掃街無人認出　身體一特質惹網民羨慕",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260527/1136353196864704512094613.jpeg/QEBzHn7AO_zZkKeiULV78yq265JYBxNrERoBPhEaAT4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60354079/%E9%99%B3%E8%87%AA%E7%91%A4%E9%9F%93%E5%9C%8B%E7%8B%82%E6%93%A6%E7%BE%8E%E9%A3%9F%E8%B2%BC%E5%9C%B0%E6%8E%92%E9%9A%8A%E6%8E%83%E8%A1%97%E7%84%A1%E4%BA%BA%E8%AA%8D%E5%87%BA-%E8%BA%AB%E9%AB%94%E4%B8%80%E7%89%B9%E8%B3%AA%E6%83%B9%E7%B6%B2%E6%B0%91%E7%BE%A8%E6%85%95",
+    "timestamp": "2026-05-28T02:06:08.870Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "港銀據報收緊內地客開戶門檻　需證明資金來源　有在港內銀停開戶",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260521/1134161150808690688750698.jpeg/jf0zyL5mCeNgT1XuafvXMSKdKoWS2Ir0W9CU8FvQlPA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60353852/%E5%A4%96%E5%AA%92-%E4%BC%8A%E6%88%B0%E6%9C%9F%E9%96%93-%E6%98%9F%E9%8F%88-%E6%BC%B2%E5%83%B9-%E4%BA%94%E8%A7%92%E5%A4%A7%E6%A8%93%E8%88%87spacex%E7%88%86%E7%88%AD%E5%9F%B7",
     "timestamp": "2026-05-26T23:15:16.307Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "Mandy Lieu前有米緋聞男友林威辰大婚　父親曾被封「廉署尅星」",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260526/1136069773021417472324516.jpeg/HE6yQGQ3LetmQc3Ukslu-h9EN8v2tcC2L9ZIpC_WSKQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60353576/mandy-lieu%E5%89%8D%E6%9C%89%E7%B1%B3%E7%B7%8B%E8%81%9E%E7%94%B7%E5%8F%8B%E6%9E%97%E5%A8%81%E8%BE%B0%E5%A4%A7%E5%A9%9A-%E7%88%B6%E8%A6%AA%E6%9B%BE%E8%A2%AB%E5%B0%81-%E5%BB%89%E7%BD%B2%E5%B0%85%E6%98%9F",
-    "timestamp": "2026-05-26T22:38:23.890Z",
     "strategy": ".content-card__main"
   }
 ];
