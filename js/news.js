@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-28T15:21:40.227Z
+// Last updated: 2026-05-28T16:54:40.210Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "天花板級港女網紅michexx.l_身份曝光　瘦底卻身材超狂引爭議",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260528/1136724083325538304894732.jpeg/Y3XCmyU4oPbTQuCbU6laK2rlhDi2WyHxILSutiC0rrY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E5%A8%9B%E6%A8%82/60354520/%E5%A4%A9%E8%8A%B1%E6%9D%BF%E7%B4%9A%E6%B8%AF%E5%A5%B3%E7%B6%B2%E7%B4%85michexx-l-%E8%BA%AB%E4%BB%BD%E6%9B%9D%E5%85%89-%E7%98%A6%E5%BA%95%E5%8D%BB%E8%BA%AB%E6%9D%90%E8%B6%85%E7%8B%82%E5%BC%95%E7%88%AD%E8%AD%B0",
+    "timestamp": "2026-05-28T16:54:40.210Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "洪卓立推新歌《一次一次提自己》　自爆因袁富華秒入戲差點爆喊",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260527/1136267051703209984346720.jpeg/0Ud8imxy5G5KvVHP2Dken_fo9RkNWkbG4GyqvOBsqrw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60353895/%E9%87%91%E7%A7%80%E8%B3%A2%E5%BF%8D1%E5%B9%B4%E7%B5%82%E7%8D%B2%E6%B8%85%E7%99%BD-%E9%87%91%E4%B8%96%E7%BE%A9%E6%B6%89%E5%AB%8C%E6%81%90%E5%9A%87%E9%81%AD%E6%89%B9%E6%8D%95-%E4%B8%8D%E6%89%BF%E8%AA%8D%E4%BB%BB%E4%BD%95%E6%8C%87%E6%8E%A7",
     "timestamp": "2026-05-27T11:32:36.959Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "補習老師要7歲男童口交　官斥行為自私　判囚54個月",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/320850/org/4372c6f4eb88c22271d5f67730dd76b0.jpg/U7R1uxoISpEZNAqDEqvhs1uSz8DO0_iaiBTwLogU8C4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60353818/%E8%A3%9C%E7%BF%92%E8%80%81%E5%B8%AB%E8%A6%817%E6%AD%B2%E7%94%B7%E7%AB%A5%E5%8F%A3%E4%BA%A4-%E5%AE%98%E6%96%A5%E8%A1%8C%E7%82%BA%E8%87%AA%E7%A7%81-%E5%88%A4%E5%9B%9A54%E5%80%8B%E6%9C%88",
-    "timestamp": "2026-05-27T10:14:33.047Z",
     "strategy": ".content-card__main"
   }
 ];
