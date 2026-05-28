@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-28T03:33:22.629Z
+// Last updated: 2026-05-28T05:04:08.782Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "李蕙敏與英籍老公疑似鬧婚變　合照消失並與中性打扮密友態度親暱",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260528/1136476842828500992910348.jpeg/4uFk2qHNFoWz8o484Ev8z53YkI-33J_pyre_k8q3v5M?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60354216/%E6%9D%8E%E8%95%99%E6%95%8F%E8%88%87%E8%8B%B1%E7%B1%8D%E8%80%81%E5%85%AC%E7%96%91%E4%BC%BC%E9%AC%A7%E5%A9%9A%E8%AE%8A-%E5%90%88%E7%85%A7%E6%B6%88%E5%A4%B1%E4%B8%A6%E8%88%87%E4%B8%AD%E6%80%A7%E6%89%93%E6%89%AE%E5%AF%86%E5%8F%8B%E6%85%8B%E5%BA%A6%E8%A6%AA%E6%9A%B1",
+    "timestamp": "2026-05-28T05:04:08.782Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "出品《給阿嬤的情書》　大麥娛樂增收兩成　惟股價曾跌近一成",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260527/1136227453040070656793524.jpeg/ZhmA_PCLt5AbY--Z4tC2HyE5LuWuRDOOgtcRc4LXEXM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60353862/%E7%AD%B2%E7%AE%95%E7%81%A3%E6%98%8E%E8%8F%AF%E5%A4%A7%E5%BB%88%E5%A4%AB%E5%A9%A6%E7%B3%BE%E7%B4%9B-%E5%A5%B3%E5%AD%90%E9%81%AD%E4%B8%88%E5%A4%AB%E6%96%BD%E8%A5%B2-%E9%A0%AD%E6%B5%81%E8%A1%80%E9%80%81%E9%99%A2%E6%B2%BB%E7%90%86",
     "timestamp": "2026-05-27T01:26:34.464Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "即使美國和伊朗達成協議，也不等於霍爾木茲海峽能正常開通",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260526/1136035724408131584213976.jpeg/XKEqt84KDnX64DCrCfbRsjXLbxbQYC6G0Iluc9CJbnM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%9C%8B%E9%9A%9B%E5%88%86%E6%9E%90/60353700/%E5%8D%B3%E4%BD%BF%E7%BE%8E%E5%9C%8B%E5%92%8C%E4%BC%8A%E6%9C%97%E9%81%94%E6%88%90%E5%8D%94%E8%AD%B0-%E4%B9%9F%E4%B8%8D%E7%AD%89%E6%96%BC%E9%9C%8D%E7%88%BE%E6%9C%A8%E8%8C%B2%E6%B5%B7%E5%B3%BD%E8%83%BD%E6%AD%A3%E5%B8%B8%E9%96%8B%E9%80%9A",
-    "timestamp": "2026-05-26T23:45:49.592Z",
     "strategy": ".content-card__main"
   }
 ];
