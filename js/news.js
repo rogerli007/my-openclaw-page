@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-28T19:15:46.796Z
+// Last updated: 2026-05-28T20:05:54.092Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "貝森特警告阿曼：勿協助霍爾木茲海峽收費計劃　否則遭嚴厲打擊",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260529/1136868399222099968154768.jpeg/zJp5GyabL34fEMgyKlDvuu-lWfaZdf5gdK9r5nSva-Y?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60354627/%E8%B2%9D%E6%A3%AE%E7%89%B9%E8%AD%A6%E5%91%8A%E9%98%BF%E6%9B%BC-%E5%8B%BF%E5%8D%94%E5%8A%A9%E9%9C%8D%E7%88%BE%E6%9C%A8%E8%8C%B2%E6%B5%B7%E5%B3%BD%E6%94%B6%E8%B2%BB%E8%A8%88%E5%8A%83-%E5%90%A6%E5%89%87%E9%81%AD%E5%9A%B4%E5%8E%B2%E6%89%93%E6%93%8A",
+    "timestamp": "2026-05-28T20:05:54.092Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "伊波拉｜路透：肯尼亞允美開隔離設施　有當地組織入稟挑戰",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260528/1136465055664050176978403.jpeg/VU6fRF1aYLHBChcw4UvS2KVrrV8Hs4dmOBB0NTgQdDU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60354210/%E7%89%B9%E6%9C%97%E6%99%AE-%E4%BC%8A%E6%9C%97%E4%B8%8D%E6%9C%83%E7%82%BA%E5%88%B6%E8%A3%81%E8%B1%81%E5%85%8D%E8%80%8C%E6%94%BE%E6%A3%84%E9%AB%98%E6%BF%83%E7%B8%AE%E9%88%BE-%E7%BE%8E%E6%96%B9%E5%B0%8D%E5%8D%94%E8%AD%B0%E4%BB%8D%E4%B8%8D%E6%BB%BF%E6%84%8F",
     "timestamp": "2026-05-27T16:49:06.943Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "澤尻英龍華久違20年再出寫真　鏤空衫比堅尼齊上陣　2天即登榜首",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260527/1136279787178823680952873.png/AwkFIxbdXpsaF1gcIo6NX1TPakBG8EWvl8smupfLJro?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E5%A8%9B%E6%A8%82/60353965/%E6%BE%A4%E5%B0%BB%E8%8B%B1%E9%BE%8D%E8%8F%AF%E4%B9%85%E9%81%9520%E5%B9%B4%E5%86%8D%E5%87%BA%E5%AF%AB%E7%9C%9F-%E9%8F%A4%E7%A9%BA%E8%A1%AB%E6%AF%94%E5%A0%85%E5%B0%BC%E9%BD%8A%E4%B8%8A%E9%99%A3-2%E5%A4%A9%E5%8D%B3%E7%99%BB%E6%A6%9C%E9%A6%96",
-    "timestamp": "2026-05-27T15:22:04.536Z",
     "strategy": ".content-card__main"
   }
 ];
