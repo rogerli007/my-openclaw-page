@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-28T18:09:41.624Z
+// Last updated: 2026-05-28T19:15:46.796Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "伊波拉｜路透：肯尼亞允美開隔離設施　有當地組織入稟挑戰",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260529/1136860013554307072329084.jpeg/8KWcZbq3UlS4kim6feyHqx3wpPWVRIQrDl4vDw5eLw8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60354626/%E4%BC%8A%E6%B3%A2%E6%8B%89-%E8%B7%AF%E9%80%8F-%E8%82%AF%E5%B0%BC%E4%BA%9E%E5%85%81%E7%BE%8E%E9%96%8B%E9%9A%94%E9%9B%A2%E8%A8%AD%E6%96%BD-%E6%9C%89%E7%95%B6%E5%9C%B0%E7%B5%84%E7%B9%94%E5%85%A5%E7%A8%9F%E6%8C%91%E6%88%B0",
+    "timestamp": "2026-05-28T19:15:46.796Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "西貢村屋遇竊　42歲女失逾$8萬財物　包括Cartier扣針和小米CCTV",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260527/1136279787178823680952873.png/AwkFIxbdXpsaF1gcIo6NX1TPakBG8EWvl8smupfLJro?v=w1920r16_9",
     "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E5%A8%9B%E6%A8%82/60353965/%E6%BE%A4%E5%B0%BB%E8%8B%B1%E9%BE%8D%E8%8F%AF%E4%B9%85%E9%81%9520%E5%B9%B4%E5%86%8D%E5%87%BA%E5%AF%AB%E7%9C%9F-%E9%8F%A4%E7%A9%BA%E8%A1%AB%E6%AF%94%E5%A0%85%E5%B0%BC%E9%BD%8A%E4%B8%8A%E9%99%A3-2%E5%A4%A9%E5%8D%B3%E7%99%BB%E6%A6%9C%E9%A6%96",
     "timestamp": "2026-05-27T15:22:04.536Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "大角咀福利街男子墮樓　送院搶救後不治",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260527/1136422978834141184469527.jpeg/k1J_WiRDqSXDzJJDM85jmTL8CUp1WpS3fqVJUWilSVE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60354192/%E5%A4%A7%E8%A7%92%E5%92%80%E7%A6%8F%E5%88%A9%E8%A1%97%E7%94%B7%E5%AD%90%E5%A2%AE%E6%A8%93-%E9%80%81%E9%99%A2%E6%90%B6%E6%95%91%E5%BE%8C%E4%B8%8D%E6%B2%BB",
-    "timestamp": "2026-05-27T14:01:34.134Z",
     "strategy": ".content-card__main"
   }
 ];
