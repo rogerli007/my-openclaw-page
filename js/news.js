@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-28T09:38:34.272Z
+// Last updated: 2026-05-28T11:07:25.489Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "繼父多番非禮強姦繼女　知被投訴威嚇要繼女賠50萬　判囚13年",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260429/1126202360578707456947610.jpeg/urAwS0C7ZMBsLlDXdHjhHmi8A0E5pu6j8dXaFvHV2hY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60354559/%E7%B9%BC%E7%88%B6%E5%A4%9A%E7%95%AA%E9%9D%9E%E7%A6%AE%E5%BC%B7%E5%A7%A6%E7%B9%BC%E5%A5%B3-%E7%9F%A5%E8%A2%AB%E6%8A%95%E8%A8%B4%E5%A8%81%E5%9A%87%E8%A6%81%E7%B9%BC%E5%A5%B3%E8%B3%A050%E8%90%AC-%E5%88%A4%E5%9B%9A13%E5%B9%B4",
+    "timestamp": "2026-05-28T11:07:25.489Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "仁川機場哺乳室變「沖杯麵專區」？內地遊客小紅書教路惹韓網熱議",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260427/1125444380048494592914385.png/4d2KO12ujpEEER5yM3mGYmwcTx14lOJrK7taRl67WkY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%BE%8E%E5%AE%B9%E6%89%8B%E5%B8%B3/60344200/%E5%A4%8F%E6%97%A5%E5%BA%95%E5%A6%9D%E6%84%88%E6%8E%A7%E6%84%88%E6%B2%B9-%E9%86%AB%E6%8F%AD%E6%AD%A3%E7%A2%BA%E5%8C%96%E5%A6%9D%E9%A0%86%E5%BA%8F-%E5%85%88%E8%A3%9C%E6%B0%B4%E5%BE%8C%E6%8E%A7%E6%B2%B9%E8%A7%A3%E6%B1%BA%E6%BA%B6%E5%A6%9D%E5%9B%B0%E6%93%BE",
     "timestamp": "2026-05-27T07:14:32.434Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普推動選區重劃受挫　南卡州共和黨議員倒戈否決",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260522/1134298550256013312957018.jpeg/RgVUN9yesMtzkDtaLtMkXgfD5GGnfwMy830B4_N9AeM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60353990/%E7%89%B9%E6%9C%97%E6%99%AE%E6%8E%A8%E5%8B%95%E9%81%B8%E5%8D%80%E9%87%8D%E5%8A%83%E5%8F%97%E6%8C%AB-%E5%8D%97%E5%8D%A1%E5%B7%9E%E5%85%B1%E5%92%8C%E9%BB%A8%E8%AD%B0%E5%93%A1%E5%80%92%E6%88%88%E5%90%A6%E6%B1%BA",
-    "timestamp": "2026-05-27T05:41:16.941Z",
     "strategy": ".content-card__main"
   }
 ];
