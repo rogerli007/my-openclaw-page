@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-29T05:39:36.298Z
+// Last updated: 2026-05-29T07:07:47.430Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "深圳好去處｜光明公明墟逛騎樓吃在地美食　體驗傳統趕圩煙火氣",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260526/1136014627759460352452973.jpeg/L-eIoUyIriFeYbIzealfc3eNCk_CzsprFt_gOhbf4Do?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%97%85%E9%81%8A/60352202/%E6%B7%B1%E5%9C%B3%E5%A5%BD%E5%8E%BB%E8%99%95-%E5%85%89%E6%98%8E%E5%85%AC%E6%98%8E%E5%A2%9F%E9%80%9B%E9%A8%8E%E6%A8%93%E5%90%83%E5%9C%A8%E5%9C%B0%E7%BE%8E%E9%A3%9F-%E9%AB%94%E9%A9%97%E5%82%B3%E7%B5%B1%E8%B6%95%E5%9C%A9%E7%85%99%E7%81%AB%E6%B0%A3",
+    "timestamp": "2026-05-29T07:07:47.430Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "內地掀近年最大跨境稅務整治　北上廣居民遭追稅　海外炒股成焦點",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260528/1136672473064935424613280.jpeg/mY5Dfnsn0WROnRyUR-7LFfOu8eXkm_n-N566vjeeur4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60354400/%E9%87%91%E5%83%B9%E7%8B%82%E6%BD%AE-%E8%8F%AF%E5%A4%8F%E6%95%B8%E5%AD%97%E9%BB%83%E9%87%91etf-%E6%98%8E%E6%97%A5%E4%B8%8A%E5%B8%82-%E5%B0%88%E5%AE%B6%E7%B1%B2%E9%85%8D%E7%BD%AE5%E8%87%B310-%E9%BB%83%E9%87%91%E8%B3%87%E7%94%A2",
     "timestamp": "2026-05-28T06:36:25.542Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "李蕙敏與英籍老公疑似鬧婚變　合照消失並與中性打扮密友態度親暱",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260528/1136476842828500992910348.jpeg/4uFk2qHNFoWz8o484Ev8z53YkI-33J_pyre_k8q3v5M?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60354216/%E6%9D%8E%E8%95%99%E6%95%8F%E8%88%87%E8%8B%B1%E7%B1%8D%E8%80%81%E5%85%AC%E7%96%91%E4%BC%BC%E9%AC%A7%E5%A9%9A%E8%AE%8A-%E5%90%88%E7%85%A7%E6%B6%88%E5%A4%B1%E4%B8%A6%E8%88%87%E4%B8%AD%E6%80%A7%E6%89%93%E6%89%AE%E5%AF%86%E5%8F%8B%E6%85%8B%E5%BA%A6%E8%A6%AA%E6%9A%B1",
-    "timestamp": "2026-05-28T05:04:08.782Z",
     "strategy": ".content-card__main"
   }
 ];
