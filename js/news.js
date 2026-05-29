@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-29T00:15:39.789Z
+// Last updated: 2026-05-29T01:26:03.219Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "公務員加薪不是數字遊戲",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260529/1136960080957149184791462.jpeg/mUQhxROuyQW3C8TnL4xjyBBWk5VFuUkeKmjBJSpowSU?v=w1920r16_9",
+    "url": "https://www.hk01.com/01%E8%A7%80%E9%BB%9E/60354652/%E5%85%AC%E5%8B%99%E5%93%A1%E5%8A%A0%E8%96%AA%E4%B8%8D%E6%98%AF%E6%95%B8%E5%AD%97%E9%81%8A%E6%88%B2",
+    "timestamp": "2026-05-29T01:26:03.219Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "小學女生遭同學包圍輪流掌摑！影片瘋傳　內地警：已找到欺凌學生",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260520/1133888172204756992072659.jpeg/-lwzlvRe1BJ__EB1MwWLP_t12DSIBaxW7T8vkfc_L5E?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60354241/%E6%B8%AF%E9%8A%80%E6%93%9A%E5%A0%B1%E6%94%B6%E7%B7%8A%E5%85%A7%E5%9C%B0%E5%AE%A2%E9%96%8B%E6%88%B6%E9%96%80%E6%AA%BB-%E9%9C%80%E8%AD%89%E6%98%8E%E8%B3%87%E9%87%91%E4%BE%86%E6%BA%90-%E6%9C%89%E5%9C%A8%E6%B8%AF%E5%85%A7%E9%8A%80%E5%81%9C%E9%96%8B%E6%88%B6",
     "timestamp": "2026-05-28T00:14:29.887Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "李若彤零修圖側拍曝光　59歲狀態震驚全網：過兒老了她還這麼年輕",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260527/1136379759773618176657048.jpeg/ZRoooyX3DI7S_3N_jT7jZXkzHfeB4FdC78oX9O_KF_Q?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60353985/%E6%9D%8E%E8%8B%A5%E5%BD%A4%E9%9B%B6%E4%BF%AE%E5%9C%96%E5%81%B4%E6%8B%8D%E6%9B%9D%E5%85%89-59%E6%AD%B2%E7%8B%80%E6%85%8B%E9%9C%87%E9%A9%9A%E5%85%A8%E7%B6%B2-%E9%81%8E%E5%85%92%E8%80%81%E4%BA%86%E5%A5%B9%E9%82%84%E9%80%99%E9%BA%BC%E5%B9%B4%E8%BC%95",
-    "timestamp": "2026-05-27T23:46:49.687Z",
     "strategy": ".content-card__main"
   }
 ];
