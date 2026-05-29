@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-29T16:38:32.101Z
+// Last updated: 2026-05-29T17:58:00.725Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "歐聯全攻略｜終極一戰　阿仙奴決賽「細」抗巴黎聖日耳門",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260530/1137199956445106176425319.jpeg/c-AKiNbUVuwqum85D9m-Ze-E6ldn6Lw6Cb1RLAm9USw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60354936/%E6%AD%90%E8%81%AF%E5%85%A8%E6%94%BB%E7%95%A5-%E7%B5%82%E6%A5%B5%E4%B8%80%E6%88%B0-%E9%98%BF%E4%BB%99%E5%A5%B4%E6%B1%BA%E8%B3%BD-%E7%B4%B0-%E6%8A%97%E5%B7%B4%E9%BB%8E%E8%81%96%E6%97%A5%E8%80%B3%E9%96%80",
+    "timestamp": "2026-05-29T17:58:00.725Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "CHANEL工藝坊系列時裝秀移師韓國！重新演繹電影造型建構品牌靈魂",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260528/1136727971508260864738951.jpeg/FsGFcBofkLu64voedxF4WUBazBRZrBfB0EFoJ9BBaCc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60354522/%E6%B4%AA%E5%8D%93%E7%AB%8B%E6%8E%A8%E6%96%B0%E6%AD%8C-%E4%B8%80%E6%AC%A1%E4%B8%80%E6%AC%A1%E6%8F%90%E8%87%AA%E5%B7%B1-%E8%87%AA%E7%88%86%E5%9B%A0%E8%A2%81%E5%AF%8C%E8%8F%AF%E7%A7%92%E5%85%A5%E6%88%B2%E5%B7%AE%E9%BB%9E%E7%88%86%E5%96%8A",
     "timestamp": "2026-05-28T15:21:40.227Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "屯門新會商會中學校長粗口罵保安　落淚致歉籲學生「以我為戒」",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260524/1135298437319757824241305.jpeg/rbF4eAHprQGiprTOQDzPFA6XHnDki8eU0DqIstA6iLI",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60354573/%E5%B1%AF%E9%96%80%E6%96%B0%E6%9C%83%E5%95%86%E6%9C%83%E4%B8%AD%E5%AD%B8%E6%A0%A1%E9%95%B7%E7%B2%97%E5%8F%A3%E7%BD%B5%E4%BF%9D%E5%AE%89-%E8%90%BD%E6%B7%9A%E8%87%B4%E6%AD%89%E7%B1%B2%E5%AD%B8%E7%94%9F-%E4%BB%A5%E6%88%91%E7%82%BA%E6%88%92",
-    "timestamp": "2026-05-28T12:30:47.538Z",
     "strategy": ".content-card__main"
   }
 ];
