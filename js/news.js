@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-29T08:37:07.085Z
+// Last updated: 2026-05-29T10:15:05.106Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "屯門工廈3個月前破獲私煙倉　海關揭死灰復燃　檢$3700萬貨拘一男",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260529/1137081852897529856503918.jpeg/3oq3XJoOr5YfUxnI2iiaDi86dRPZ0iVCOQJmSjkCZko?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60354872/%E5%B1%AF%E9%96%80%E5%B7%A5%E5%BB%883%E5%80%8B%E6%9C%88%E5%89%8D%E7%A0%B4%E7%8D%B2%E7%A7%81%E7%85%99%E5%80%89-%E6%B5%B7%E9%97%9C%E6%8F%AD%E6%AD%BB%E7%81%B0%E5%BE%A9%E7%87%83-%E6%AA%A2-3700%E8%90%AC%E8%B2%A8%E6%8B%98%E4%B8%80%E7%94%B7",
+    "timestamp": "2026-05-29T10:15:05.106Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美國大學畢業禮用AI讀人名爆公關災難　漏讀幾十人名遭鬧爆｜有片",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260528/1136704032966971392936584.jpeg/GTEABXgQCwFJ0a60w5dkbmJbUYByJVwU4YMxJeGDMSU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60354458/%E4%BB%81%E5%B7%9D%E6%A9%9F%E5%A0%B4%E5%93%BA%E4%B9%B3%E5%AE%A4%E8%AE%8A-%E6%B2%96%E6%9D%AF%E9%BA%B5%E5%B0%88%E5%8D%80-%E5%85%A7%E5%9C%B0%E9%81%8A%E5%AE%A2%E5%B0%8F%E7%B4%85%E6%9B%B8%E6%95%99%E8%B7%AF%E6%83%B9%E9%9F%93%E7%B6%B2%E7%86%B1%E8%AD%B0",
     "timestamp": "2026-05-28T09:38:34.272Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "大死撐日舞台劇2026香港加場｜門票攻略＋購票連結＋座位表",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260525/1135602599320358912569782.jpeg/deM6rjQWKRSo2lim7dXaKLnyNQElrLOWNv3KoTb9yqE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60353302/%E5%A4%A7%E6%AD%BB%E6%92%90%E6%97%A5%E8%88%9E%E5%8F%B0%E5%8A%872026%E9%A6%99%E6%B8%AF%E5%8A%A0%E5%A0%B4-%E9%96%80%E7%A5%A8%E6%94%BB%E7%95%A5-%E8%B3%BC%E7%A5%A8%E9%80%A3%E7%B5%90-%E5%BA%A7%E4%BD%8D%E8%A1%A8",
-    "timestamp": "2026-05-28T08:13:35.968Z",
     "strategy": ".content-card__main"
   }
 ];
