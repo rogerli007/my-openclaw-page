@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-29T17:58:00.725Z
+// Last updated: 2026-05-29T19:05:01.930Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "深圳灣管制站貨車入境　車藏153隻受管制瀕危活龜　市值$158萬",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260530/1137211135183818752598471.jpeg/WqDYYTW0K5EMHYq-EpaSq4VW-DCHIXHYo0wqpKNMKqQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60354997/%E6%B7%B1%E5%9C%B3%E7%81%A3%E7%AE%A1%E5%88%B6%E7%AB%99%E8%B2%A8%E8%BB%8A%E5%85%A5%E5%A2%83-%E8%BB%8A%E8%97%8F153%E9%9A%BB%E5%8F%97%E7%AE%A1%E5%88%B6%E7%80%95%E5%8D%B1%E6%B4%BB%E9%BE%9C-%E5%B8%82%E5%80%BC-158%E8%90%AC",
+    "timestamp": "2026-05-29T19:05:01.930Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "歐聯全攻略｜終極一戰　阿仙奴決賽「細」抗巴黎聖日耳門",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260528/1136724083325538304894732.jpeg/Y3XCmyU4oPbTQuCbU6laK2rlhDi2WyHxILSutiC0rrY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E5%A8%9B%E6%A8%82/60354520/%E5%A4%A9%E8%8A%B1%E6%9D%BF%E7%B4%9A%E6%B8%AF%E5%A5%B3%E7%B6%B2%E7%B4%85michexx-l-%E8%BA%AB%E4%BB%BD%E6%9B%9D%E5%85%89-%E7%98%A6%E5%BA%95%E5%8D%BB%E8%BA%AB%E6%9D%90%E8%B6%85%E7%8B%82%E5%BC%95%E7%88%AD%E8%AD%B0",
     "timestamp": "2026-05-28T16:54:40.210Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "洪卓立推新歌《一次一次提自己》　自爆因袁富華秒入戲差點爆喊",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260528/1136727971508260864738951.jpeg/FsGFcBofkLu64voedxF4WUBazBRZrBfB0EFoJ9BBaCc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60354522/%E6%B4%AA%E5%8D%93%E7%AB%8B%E6%8E%A8%E6%96%B0%E6%AD%8C-%E4%B8%80%E6%AC%A1%E4%B8%80%E6%AC%A1%E6%8F%90%E8%87%AA%E5%B7%B1-%E8%87%AA%E7%88%86%E5%9B%A0%E8%A2%81%E5%AF%8C%E8%8F%AF%E7%A7%92%E5%85%A5%E6%88%B2%E5%B7%AE%E9%BB%9E%E7%88%86%E5%96%8A",
-    "timestamp": "2026-05-28T15:21:40.227Z",
     "strategy": ".content-card__main"
   }
 ];
