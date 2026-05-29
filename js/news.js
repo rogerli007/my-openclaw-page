@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-29T01:26:03.219Z
+// Last updated: 2026-05-29T02:31:00.431Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "理想汽車首季盈轉虧　毛利率大跌　盤中走弱跌近5%",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20211027/529982322510925824495213.jpeg/_Oo85uTwg_B9FF4F9plLyJFp_kelvKzBORv0mzkb9Js?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60354674/%E7%90%86%E6%83%B3%E6%B1%BD%E8%BB%8A%E9%A6%96%E5%AD%A3%E7%9B%88%E8%BD%89%E8%99%A7-%E6%AF%9B%E5%88%A9%E7%8E%87%E5%A4%A7%E8%B7%8C-%E7%9B%A4%E4%B8%AD%E8%B5%B0%E5%BC%B1%E8%B7%8C%E8%BF%915",
+    "timestamp": "2026-05-29T02:31:00.431Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "公務員加薪不是數字遊戲",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260527/1136353196864704512094613.jpeg/QEBzHn7AO_zZkKeiULV78yq265JYBxNrERoBPhEaAT4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60354079/%E9%99%B3%E8%87%AA%E7%91%A4%E9%9F%93%E5%9C%8B%E7%8B%82%E6%93%A6%E7%BE%8E%E9%A3%9F%E8%B2%BC%E5%9C%B0%E6%8E%92%E9%9A%8A%E6%8E%83%E8%A1%97%E7%84%A1%E4%BA%BA%E8%AA%8D%E5%87%BA-%E8%BA%AB%E9%AB%94%E4%B8%80%E7%89%B9%E8%B3%AA%E6%83%B9%E7%B6%B2%E6%B0%91%E7%BE%A8%E6%85%95",
     "timestamp": "2026-05-28T02:06:08.870Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "港銀據報收緊內地客開戶門檻　需證明資金來源　有在港內銀停開戶",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260520/1133888172204756992072659.jpeg/-lwzlvRe1BJ__EB1MwWLP_t12DSIBaxW7T8vkfc_L5E?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60354241/%E6%B8%AF%E9%8A%80%E6%93%9A%E5%A0%B1%E6%94%B6%E7%B7%8A%E5%85%A7%E5%9C%B0%E5%AE%A2%E9%96%8B%E6%88%B6%E9%96%80%E6%AA%BB-%E9%9C%80%E8%AD%89%E6%98%8E%E8%B3%87%E9%87%91%E4%BE%86%E6%BA%90-%E6%9C%89%E5%9C%A8%E6%B8%AF%E5%85%A7%E9%8A%80%E5%81%9C%E9%96%8B%E6%88%B6",
-    "timestamp": "2026-05-28T00:14:29.887Z",
     "strategy": ".content-card__main"
   }
 ];
