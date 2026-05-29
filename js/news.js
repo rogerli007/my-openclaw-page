@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-29T07:07:47.430Z
+// Last updated: 2026-05-29T08:37:07.085Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美國大學畢業禮用AI讀人名爆公關災難　漏讀幾十人名遭鬧爆｜有片",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260529/1137066709090308096142058.png/uFVwYtWVJZTyeIdO1y4pghIgXg-kIj4XSVKszUlSrM0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%92%B0%E7%90%83%E8%B6%A3%E8%81%9E/60354855/%E7%BE%8E%E5%9C%8B%E5%A4%A7%E5%AD%B8%E7%95%A2%E6%A5%AD%E7%A6%AE%E7%94%A8ai%E8%AE%80%E4%BA%BA%E5%90%8D%E7%88%86%E5%85%AC%E9%97%9C%E7%81%BD%E9%9B%A3-%E6%BC%8F%E8%AE%80%E5%B9%BE%E5%8D%81%E4%BA%BA%E5%90%8D%E9%81%AD%E9%AC%A7%E7%88%86-%E6%9C%89%E7%89%87",
+    "timestamp": "2026-05-29T08:37:07.085Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "深圳好去處｜光明公明墟逛騎樓吃在地美食　體驗傳統趕圩煙火氣",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260525/1135602599320358912569782.jpeg/deM6rjQWKRSo2lim7dXaKLnyNQElrLOWNv3KoTb9yqE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60353302/%E5%A4%A7%E6%AD%BB%E6%92%90%E6%97%A5%E8%88%9E%E5%8F%B0%E5%8A%872026%E9%A6%99%E6%B8%AF%E5%8A%A0%E5%A0%B4-%E9%96%80%E7%A5%A8%E6%94%BB%E7%95%A5-%E8%B3%BC%E7%A5%A8%E9%80%A3%E7%B5%90-%E5%BA%A7%E4%BD%8D%E8%A1%A8",
     "timestamp": "2026-05-28T08:13:35.968Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "金價狂潮｜華夏數字黃金ETF 明日上市　專家籲配置5至10%黃金資產",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260528/1136672473064935424613280.jpeg/mY5Dfnsn0WROnRyUR-7LFfOu8eXkm_n-N566vjeeur4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60354400/%E9%87%91%E5%83%B9%E7%8B%82%E6%BD%AE-%E8%8F%AF%E5%A4%8F%E6%95%B8%E5%AD%97%E9%BB%83%E9%87%91etf-%E6%98%8E%E6%97%A5%E4%B8%8A%E5%B8%82-%E5%B0%88%E5%AE%B6%E7%B1%B2%E9%85%8D%E7%BD%AE5%E8%87%B310-%E9%BB%83%E9%87%91%E8%B3%87%E7%94%A2",
-    "timestamp": "2026-05-28T06:36:25.542Z",
     "strategy": ".content-card__main"
   }
 ];
