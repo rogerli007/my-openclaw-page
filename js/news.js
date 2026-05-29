@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-29T03:53:09.242Z
+// Last updated: 2026-05-29T05:39:36.298Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "內地掀近年最大跨境稅務整治　北上廣居民遭追稅　海外炒股成焦點",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20231010/788493720965091328820574.jpeg/sYVOcXqgiOzQ_1s0VAieXloTAv1PZWDqKSRE9SkkRPU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60354765/%E5%85%A7%E5%9C%B0%E6%8E%80%E8%BF%91%E5%B9%B4%E6%9C%80%E5%A4%A7%E8%B7%A8%E5%A2%83%E7%A8%85%E5%8B%99%E6%95%B4%E6%B2%BB-%E5%8C%97%E4%B8%8A%E5%BB%A3%E5%B1%85%E6%B0%91%E9%81%AD%E8%BF%BD%E7%A8%85-%E6%B5%B7%E5%A4%96%E7%82%92%E8%82%A1%E6%88%90%E7%84%A6%E9%BB%9E",
+    "timestamp": "2026-05-29T05:39:36.298Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "財報齊報憂　日本三大車企集體失速",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260528/1136476842828500992910348.jpeg/4uFk2qHNFoWz8o484Ev8z53YkI-33J_pyre_k8q3v5M?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60354216/%E6%9D%8E%E8%95%99%E6%95%8F%E8%88%87%E8%8B%B1%E7%B1%8D%E8%80%81%E5%85%AC%E7%96%91%E4%BC%BC%E9%AC%A7%E5%A9%9A%E8%AE%8A-%E5%90%88%E7%85%A7%E6%B6%88%E5%A4%B1%E4%B8%A6%E8%88%87%E4%B8%AD%E6%80%A7%E6%89%93%E6%89%AE%E5%AF%86%E5%8F%8B%E6%85%8B%E5%BA%A6%E8%A6%AA%E6%9A%B1",
     "timestamp": "2026-05-28T05:04:08.782Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "出品《給阿嬤的情書》　大麥娛樂增收兩成　惟股價曾跌近一成",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260528/1136620175324352512974532.png/or6ivrEh-yWJi9ZuGkXoajR_25p5Wb90OAcqezgHKns?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60354292/%E5%87%BA%E5%93%81-%E7%B5%A6%E9%98%BF%E5%AC%A4%E7%9A%84%E6%83%85%E6%9B%B8-%E5%A4%A7%E9%BA%A5%E5%A8%9B%E6%A8%82%E5%A2%9E%E6%94%B6%E5%85%A9%E6%88%90-%E6%83%9F%E8%82%A1%E5%83%B9%E6%9B%BE%E8%B7%8C%E8%BF%91%E4%B8%80%E6%88%90",
-    "timestamp": "2026-05-28T03:33:22.629Z",
     "strategy": ".content-card__main"
   }
 ];
