@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-29T20:04:18.575Z
+// Last updated: 2026-05-29T21:02:16.930Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "九龍灣私家車疑逆線行駛遇截查　PTU檢依托咪酯煙彈　男司機被捕",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260530/1137243559871647744398712.jpeg/QOwZL0THkTT5aRp64RkIYoHy1whbRom-jiDprrQg6a4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60355003/%E4%B9%9D%E9%BE%8D%E7%81%A3%E7%A7%81%E5%AE%B6%E8%BB%8A%E7%96%91%E9%80%86%E7%B7%9A%E8%A1%8C%E9%A7%9B%E9%81%87%E6%88%AA%E6%9F%A5-ptu%E6%AA%A2%E4%BE%9D%E6%89%98%E5%92%AA%E9%85%AF%E7%85%99%E5%BD%88-%E7%94%B7%E5%8F%B8%E6%A9%9F%E8%A2%AB%E6%8D%95",
+    "timestamp": "2026-05-29T21:02:16.930Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美法官下令將特朗普名字從甘迺迪中心移除　未經國會立法不得更名",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260529/1136860013554307072329084.jpeg/8KWcZbq3UlS4kim6feyHqx3wpPWVRIQrDl4vDw5eLw8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60354626/%E4%BC%8A%E6%B3%A2%E6%8B%89-%E8%B7%AF%E9%80%8F-%E8%82%AF%E5%B0%BC%E4%BA%9E%E5%85%81%E7%BE%8E%E9%96%8B%E9%9A%94%E9%9B%A2%E8%A8%AD%E6%96%BD-%E6%9C%89%E7%95%B6%E5%9C%B0%E7%B5%84%E7%B9%94%E5%85%A5%E7%A8%9F%E6%8C%91%E6%88%B0",
     "timestamp": "2026-05-28T19:15:46.796Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "西貢村屋遇竊　42歲女失逾$8萬財物　包括Cartier扣針和小米CCTV",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260529/1136843008507908096426091.jpeg/7yiGtL5uJ6nl0cFKF54h2A-nuldVwUxK5UN0cd9DdHE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60354621/%E8%A5%BF%E8%B2%A2%E6%9D%91%E5%B1%8B%E9%81%87%E7%AB%8A-42%E6%AD%B2%E5%A5%B3%E5%A4%B1%E9%80%BE-8%E8%90%AC%E8%B2%A1%E7%89%A9-%E5%8C%85%E6%8B%ACcartier%E6%89%A3%E9%87%9D%E5%92%8C%E5%B0%8F%E7%B1%B3cctv",
-    "timestamp": "2026-05-28T18:09:41.624Z",
     "strategy": ".content-card__main"
   }
 ];
