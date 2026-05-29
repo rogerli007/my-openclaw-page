@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-29T22:24:55.800Z
+// Last updated: 2026-05-29T23:41:11.661Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "沙田行山｜登牛皮沙脊上多石脊探機槍堡　逆走麥徑四五段落西貢",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260529/1137067943687884800671284.jpeg/2u-l7sktbARCjylqDJWggWs4FFxwbf9fLXmffy15n38?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60342057/%E6%B2%99%E7%94%B0%E8%A1%8C%E5%B1%B1-%E7%99%BB%E7%89%9B%E7%9A%AE%E6%B2%99%E8%84%8A%E4%B8%8A%E5%A4%9A%E7%9F%B3%E8%84%8A%E6%8E%A2%E6%A9%9F%E6%A7%8D%E5%A0%A1-%E9%80%86%E8%B5%B0%E9%BA%A5%E5%BE%91%E5%9B%9B%E4%BA%94%E6%AE%B5%E8%90%BD%E8%A5%BF%E8%B2%A2",
+    "timestamp": "2026-05-29T23:41:11.661Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "普京：分析俄軍表現後認為俄烏戰爭將結束　惟無法給出具體時間表",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20220828/640651568403714048873569.jpeg/Bke2DhXoMSvYPfywM2-pX_1IPUpYt8YDQZfyx0GX8sc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60354635/dell%E5%AD%A3%E7%B8%BE%E5%8B%9D%E9%A0%90%E6%9C%9F-%E5%B8%82%E5%BE%8C%E8%82%A1%E5%83%B9%E9%A3%86%E9%80%BE30",
     "timestamp": "2026-05-28T21:49:33.760Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "伊媒：諒解備忘錄文本尚未定稿　西方媒體稱協議已敲定為不實消息",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260524/1135061578215854080840956.jpeg/6nzAp_eAdVIIl_R_Y9fm4X0BMD95yqU0ZzN-12czftc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60354630/%E4%BC%8A%E5%AA%92-%E8%AB%92%E8%A7%A3%E5%82%99%E5%BF%98%E9%8C%84%E6%96%87%E6%9C%AC%E5%B0%9A%E6%9C%AA%E5%AE%9A%E7%A8%BF-%E8%A5%BF%E6%96%B9%E5%AA%92%E9%AB%94%E7%A8%B1%E5%8D%94%E8%AD%B0%E5%B7%B2%E6%95%B2%E5%AE%9A%E7%82%BA%E4%B8%8D%E5%AF%A6%E6%B6%88%E6%81%AF",
-    "timestamp": "2026-05-28T21:00:49.991Z",
     "strategy": ".content-card__main"
   }
 ];
