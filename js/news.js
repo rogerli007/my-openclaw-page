@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-28T23:42:35.398Z
+// Last updated: 2026-05-29T00:15:39.789Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "小學女生遭同學包圍輪流掌摑！影片瘋傳　內地警：已找到欺凌學生",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260529/1136822489272291328986251.png/1Bsy88FLtUl6vmkaGCJTuT1MYyKyNpYSZcy_EGXMvxA",
+    "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E8%A9%B1%E9%A1%8C/60354037/%E5%B0%8F%E5%AD%B8%E5%A5%B3%E7%94%9F%E9%81%AD%E5%90%8C%E5%AD%B8%E5%8C%85%E5%9C%8D%E8%BC%AA%E6%B5%81%E6%8E%8C%E6%91%91-%E5%BD%B1%E7%89%87%E7%98%8B%E5%82%B3-%E5%85%A7%E5%9C%B0%E8%AD%A6-%E5%B7%B2%E6%89%BE%E5%88%B0%E6%AC%BA%E5%87%8C%E5%AD%B8%E7%94%9F",
+    "timestamp": "2026-05-29T00:15:39.789Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "伊朗尚未解決　下一個已輪到古巴？｜Jack Talk・去片",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260527/1136379759773618176657048.jpeg/ZRoooyX3DI7S_3N_jT7jZXkzHfeB4FdC78oX9O_KF_Q?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60353985/%E6%9D%8E%E8%8B%A5%E5%BD%A4%E9%9B%B6%E4%BF%AE%E5%9C%96%E5%81%B4%E6%8B%8D%E6%9B%9D%E5%85%89-59%E6%AD%B2%E7%8B%80%E6%85%8B%E9%9C%87%E9%A9%9A%E5%85%A8%E7%B6%B2-%E9%81%8E%E5%85%92%E8%80%81%E4%BA%86%E5%A5%B9%E9%82%84%E9%80%99%E9%BA%BC%E5%B9%B4%E8%BC%95",
     "timestamp": "2026-05-27T23:46:49.687Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "歐協聯｜水晶宮1：0華歷簡奴　奪隊史首座歐戰冠軍",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260528/1136524027918028800435216.jpeg/bEtsZwzoVbnpNNDrJwWE-RD_6CoPbNxV0_JUVNPyVFQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60354229/%E6%AD%90%E5%8D%94%E8%81%AF-%E6%B0%B4%E6%99%B6%E5%AE%AE1-0%E8%8F%AF%E6%AD%B7%E7%B0%A1%E5%A5%B4-%E5%A5%AA%E9%9A%8A%E5%8F%B2%E9%A6%96%E5%BA%A7%E6%AD%90%E6%88%B0%E5%86%A0%E8%BB%8D",
-    "timestamp": "2026-05-27T21:43:13.921Z",
     "strategy": ".content-card__main"
   }
 ];
