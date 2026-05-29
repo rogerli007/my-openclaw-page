@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-29T19:05:01.930Z
+// Last updated: 2026-05-29T20:04:18.575Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美法官下令將特朗普名字從甘迺迪中心移除　未經國會立法不得更名",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20251220/1079077831511642112625918.jpeg/LLgLUlJRSajgDEvOpfXPYREm9XBvKZ_mbwE9Km8BPSo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60355002/%E7%BE%8E%E6%B3%95%E5%AE%98%E4%B8%8B%E4%BB%A4%E5%B0%87%E7%89%B9%E6%9C%97%E6%99%AE%E5%90%8D%E5%AD%97%E5%BE%9E%E7%94%98%E8%BF%BA%E8%BF%AA%E4%B8%AD%E5%BF%83%E7%A7%BB%E9%99%A4-%E6%9C%AA%E7%B6%93%E5%9C%8B%E6%9C%83%E7%AB%8B%E6%B3%95%E4%B8%8D%E5%BE%97%E6%9B%B4%E5%90%8D",
+    "timestamp": "2026-05-29T20:04:18.575Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "深圳灣管制站貨車入境　車藏153隻受管制瀕危活龜　市值$158萬",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260529/1136843008507908096426091.jpeg/7yiGtL5uJ6nl0cFKF54h2A-nuldVwUxK5UN0cd9DdHE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60354621/%E8%A5%BF%E8%B2%A2%E6%9D%91%E5%B1%8B%E9%81%87%E7%AB%8A-42%E6%AD%B2%E5%A5%B3%E5%A4%B1%E9%80%BE-8%E8%90%AC%E8%B2%A1%E7%89%A9-%E5%8C%85%E6%8B%ACcartier%E6%89%A3%E9%87%9D%E5%92%8C%E5%B0%8F%E7%B1%B3cctv",
     "timestamp": "2026-05-28T18:09:41.624Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "天花板級港女網紅michexx.l_身份曝光　瘦底卻身材超狂引爭議",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260528/1136724083325538304894732.jpeg/Y3XCmyU4oPbTQuCbU6laK2rlhDi2WyHxILSutiC0rrY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E5%A8%9B%E6%A8%82/60354520/%E5%A4%A9%E8%8A%B1%E6%9D%BF%E7%B4%9A%E6%B8%AF%E5%A5%B3%E7%B6%B2%E7%B4%85michexx-l-%E8%BA%AB%E4%BB%BD%E6%9B%9D%E5%85%89-%E7%98%A6%E5%BA%95%E5%8D%BB%E8%BA%AB%E6%9D%90%E8%B6%85%E7%8B%82%E5%BC%95%E7%88%AD%E8%AD%B0",
-    "timestamp": "2026-05-28T16:54:40.210Z",
     "strategy": ".content-card__main"
   }
 ];
