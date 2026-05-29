@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-29T12:38:09.269Z
+// Last updated: 2026-05-29T16:38:32.101Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "CHANEL工藝坊系列時裝秀移師韓國！重新演繹電影造型建構品牌靈魂",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260529/1137124011709304832684013.jpeg/CUPwlk8qIFZN46qtqXpUcjDyfwgnww1GEtbCRxLWwkc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A9%BF%E6%90%AD%E7%AD%86%E8%A8%98/60354906/chanel%E5%B7%A5%E8%97%9D%E5%9D%8A%E7%B3%BB%E5%88%97%E6%99%82%E8%A3%9D%E7%A7%80%E7%A7%BB%E5%B8%AB%E9%9F%93%E5%9C%8B-%E9%87%8D%E6%96%B0%E6%BC%94%E7%B9%B9%E9%9B%BB%E5%BD%B1%E9%80%A0%E5%9E%8B%E5%BB%BA%E6%A7%8B%E5%93%81%E7%89%8C%E9%9D%88%E9%AD%82",
+    "timestamp": "2026-05-29T16:38:32.101Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "其士集團爭產　長女指4個妹父前談分錢如四人幫　辯方質疑無其事",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260524/1135298437319757824241305.jpeg/rbF4eAHprQGiprTOQDzPFA6XHnDki8eU0DqIstA6iLI",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60354573/%E5%B1%AF%E9%96%80%E6%96%B0%E6%9C%83%E5%95%86%E6%9C%83%E4%B8%AD%E5%AD%B8%E6%A0%A1%E9%95%B7%E7%B2%97%E5%8F%A3%E7%BD%B5%E4%BF%9D%E5%AE%89-%E8%90%BD%E6%B7%9A%E8%87%B4%E6%AD%89%E7%B1%B2%E5%AD%B8%E7%94%9F-%E4%BB%A5%E6%88%91%E7%82%BA%E6%88%92",
     "timestamp": "2026-05-28T12:30:47.538Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "繼父多番非禮強姦繼女　知被投訴威嚇要繼女賠50萬　判囚13年",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260429/1126202360578707456947610.jpeg/urAwS0C7ZMBsLlDXdHjhHmi8A0E5pu6j8dXaFvHV2hY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60354559/%E7%B9%BC%E7%88%B6%E5%A4%9A%E7%95%AA%E9%9D%9E%E7%A6%AE%E5%BC%B7%E5%A7%A6%E7%B9%BC%E5%A5%B3-%E7%9F%A5%E8%A2%AB%E6%8A%95%E8%A8%B4%E5%A8%81%E5%9A%87%E8%A6%81%E7%B9%BC%E5%A5%B3%E8%B3%A050%E8%90%AC-%E5%88%A4%E5%9B%9A13%E5%B9%B4",
-    "timestamp": "2026-05-28T11:07:25.489Z",
     "strategy": ".content-card__main"
   }
 ];
