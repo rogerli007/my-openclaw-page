@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-29T21:02:16.930Z
+// Last updated: 2026-05-29T21:46:43.363Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "大角咀住宅單位淪販毒中心　警檢$82萬冰毒　64歲男被捕",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260530/1137265230984777728736452.jpeg/6PtIUHU5-iyvqi8fmCnfqfGK3iXE62oQTDmca0w5nGs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60355007/%E5%A4%A7%E8%A7%92%E5%92%80%E4%BD%8F%E5%AE%85%E5%96%AE%E4%BD%8D%E6%B7%AA%E8%B2%A9%E6%AF%92%E4%B8%AD%E5%BF%83-%E8%AD%A6%E6%AA%A2-82%E8%90%AC%E5%86%B0%E6%AF%92-64%E6%AD%B2%E7%94%B7%E8%A2%AB%E6%8D%95",
+    "timestamp": "2026-05-29T21:46:43.363Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "九龍灣私家車疑逆線行駛遇截查　PTU檢依托咪酯煙彈　男司機被捕",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260529/1136868399222099968154768.jpeg/zJp5GyabL34fEMgyKlDvuu-lWfaZdf5gdK9r5nSva-Y?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60354627/%E8%B2%9D%E6%A3%AE%E7%89%B9%E8%AD%A6%E5%91%8A%E9%98%BF%E6%9B%BC-%E5%8B%BF%E5%8D%94%E5%8A%A9%E9%9C%8D%E7%88%BE%E6%9C%A8%E8%8C%B2%E6%B5%B7%E5%B3%BD%E6%94%B6%E8%B2%BB%E8%A8%88%E5%8A%83-%E5%90%A6%E5%89%87%E9%81%AD%E5%9A%B4%E5%8E%B2%E6%89%93%E6%93%8A",
     "timestamp": "2026-05-28T20:05:54.092Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "伊波拉｜路透：肯尼亞允美開隔離設施　有當地組織入稟挑戰",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260529/1136860013554307072329084.jpeg/8KWcZbq3UlS4kim6feyHqx3wpPWVRIQrDl4vDw5eLw8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60354626/%E4%BC%8A%E6%B3%A2%E6%8B%89-%E8%B7%AF%E9%80%8F-%E8%82%AF%E5%B0%BC%E4%BA%9E%E5%85%81%E7%BE%8E%E9%96%8B%E9%9A%94%E9%9B%A2%E8%A8%AD%E6%96%BD-%E6%9C%89%E7%95%B6%E5%9C%B0%E7%B5%84%E7%B9%94%E5%85%A5%E7%A8%9F%E6%8C%91%E6%88%B0",
-    "timestamp": "2026-05-28T19:15:46.796Z",
     "strategy": ".content-card__main"
   }
 ];
