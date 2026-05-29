@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-29T02:31:00.431Z
+// Last updated: 2026-05-29T03:53:09.242Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "財報齊報憂　日本三大車企集體失速",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250803/1028513445458219008153920.jpeg/lezxYwIYI6vRJBsQYToAUIM1_MUKSN6DodT2W6HU9ls?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60354701/%E8%B2%A1%E5%A0%B1%E9%BD%8A%E5%A0%B1%E6%86%82-%E6%97%A5%E6%9C%AC%E4%B8%89%E5%A4%A7%E8%BB%8A%E4%BC%81%E9%9B%86%E9%AB%94%E5%A4%B1%E9%80%9F",
+    "timestamp": "2026-05-29T03:53:09.242Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "理想汽車首季盈轉虧　毛利率大跌　盤中走弱跌近5%",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260528/1136620175324352512974532.png/or6ivrEh-yWJi9ZuGkXoajR_25p5Wb90OAcqezgHKns?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60354292/%E5%87%BA%E5%93%81-%E7%B5%A6%E9%98%BF%E5%AC%A4%E7%9A%84%E6%83%85%E6%9B%B8-%E5%A4%A7%E9%BA%A5%E5%A8%9B%E6%A8%82%E5%A2%9E%E6%94%B6%E5%85%A9%E6%88%90-%E6%83%9F%E8%82%A1%E5%83%B9%E6%9B%BE%E8%B7%8C%E8%BF%91%E4%B8%80%E6%88%90",
     "timestamp": "2026-05-28T03:33:22.629Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "陳自瑤韓國狂擦美食貼地排隊掃街無人認出　身體一特質惹網民羨慕",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260527/1136353196864704512094613.jpeg/QEBzHn7AO_zZkKeiULV78yq265JYBxNrERoBPhEaAT4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60354079/%E9%99%B3%E8%87%AA%E7%91%A4%E9%9F%93%E5%9C%8B%E7%8B%82%E6%93%A6%E7%BE%8E%E9%A3%9F%E8%B2%BC%E5%9C%B0%E6%8E%92%E9%9A%8A%E6%8E%83%E8%A1%97%E7%84%A1%E4%BA%BA%E8%AA%8D%E5%87%BA-%E8%BA%AB%E9%AB%94%E4%B8%80%E7%89%B9%E8%B3%AA%E6%83%B9%E7%B6%B2%E6%B0%91%E7%BE%A8%E6%85%95",
-    "timestamp": "2026-05-28T02:06:08.870Z",
     "strategy": ".content-card__main"
   }
 ];
