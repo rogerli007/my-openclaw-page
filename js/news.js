@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-30T19:50:02.397Z
+// Last updated: 2026-05-30T20:32:31.605Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "軟銀計劃投資法國750億歐元　推動AI數據中心建設",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20211109/534711324748288000956074.jpeg/ONoeZzPw6NxZYsRqBSy1tVYXi0AO4PzID0RbSw9EW0s?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60355183/%E8%BB%9F%E9%8A%80%E8%A8%88%E5%8A%83%E6%8A%95%E8%B3%87%E6%B3%95%E5%9C%8B750%E5%84%84%E6%AD%90%E5%85%83-%E6%8E%A8%E5%8B%95ai%E6%95%B8%E6%93%9A%E4%B8%AD%E5%BF%83%E5%BB%BA%E8%A8%AD",
+    "timestamp": "2026-05-30T20:32:31.605Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "俄羅斯指責烏克蘭無人機襲擊扎波羅熱核電站　烏軍否認",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20251007/1052375694765461504716435.jpeg/No7FnyyAQvLgGBPpXcTNaAuFs0OYlreYIWrZACFq2QA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60355032/%E7%BE%8E%E5%9C%8B%E6%9C%83%E6%93%9A%E5%A0%B1%E7%AB%8B%E6%B3%95%E9%99%90%E8%8F%AF%E8%BB%8A%E4%BC%81%E5%8F%83%E8%88%87%E7%95%B6%E5%9C%B0%E6%B1%BD%E8%BB%8A%E5%B8%82%E5%A0%B4-%E5%B9%B3%E6%B2%BB%E6%88%96%E9%81%AD%E6%B3%A2%E5%8F%8A",
     "timestamp": "2026-05-30T02:27:46.908Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "女友愛愛前連放2屁！男友即時變軟　揭不時疲軟疑身體有隱藏問題",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260529/1136858277116645376130296.png/z8GmuOaNkJ5o2WVjsjoTX6Fj7cJldfCuecUn33nFJ98?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60354606/%E5%A5%B3%E5%8F%8B%E6%84%9B%E6%84%9B%E5%89%8D%E9%80%A3%E6%94%BE2%E5%B1%81-%E7%94%B7%E5%8F%8B%E5%8D%B3%E6%99%82%E8%AE%8A%E8%BB%9F-%E6%8F%AD%E4%B8%8D%E6%99%82%E7%96%B2%E8%BB%9F%E7%96%91%E8%BA%AB%E9%AB%94%E6%9C%89%E9%9A%B1%E8%97%8F%E5%95%8F%E9%A1%8C",
-    "timestamp": "2026-05-30T01:21:04.799Z",
     "strategy": ".content-card__main"
   }
 ];
