@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-30T16:16:17.353Z
+// Last updated: 2026-05-30T17:15:16.278Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "游泳環地中海賽｜何詩蓓巴塞站100自摘銀　何甄陶50自登頒獎台",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260531/1137554582809874432869540.jpeg/aD86PHhv2BcqpivCbHFqca6w-QDZs_2hoilQwKIpUMA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60355176/%E6%B8%B8%E6%B3%B3%E7%92%B0%E5%9C%B0%E4%B8%AD%E6%B5%B7%E8%B3%BD-%E4%BD%95%E8%A9%A9%E8%93%93%E5%B7%B4%E5%A1%9E%E7%AB%99100%E8%87%AA%E6%91%98%E9%8A%80-%E4%BD%95%E7%94%84%E9%99%B650%E8%87%AA%E7%99%BB%E9%A0%92%E7%8D%8E%E5%8F%B0",
+    "timestamp": "2026-05-30T17:15:16.278Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "俄羅斯召回駐亞美尼亞大使　不滿亞美尼亞深化與歐盟關係",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260530/1137265230984777728736452.jpeg/6PtIUHU5-iyvqi8fmCnfqfGK3iXE62oQTDmca0w5nGs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60355007/%E5%A4%A7%E8%A7%92%E5%92%80%E4%BD%8F%E5%AE%85%E5%96%AE%E4%BD%8D%E6%B7%AA%E8%B2%A9%E6%AF%92%E4%B8%AD%E5%BF%83-%E8%AD%A6%E6%AA%A2-82%E8%90%AC%E5%86%B0%E6%AF%92-64%E6%AD%B2%E7%94%B7%E8%A2%AB%E6%8D%95",
     "timestamp": "2026-05-29T21:46:43.363Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "九龍灣私家車疑逆線行駛遇截查　PTU檢依托咪酯煙彈　男司機被捕",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260530/1137243559871647744398712.jpeg/QOwZL0THkTT5aRp64RkIYoHy1whbRom-jiDprrQg6a4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60355003/%E4%B9%9D%E9%BE%8D%E7%81%A3%E7%A7%81%E5%AE%B6%E8%BB%8A%E7%96%91%E9%80%86%E7%B7%9A%E8%A1%8C%E9%A7%9B%E9%81%87%E6%88%AA%E6%9F%A5-ptu%E6%AA%A2%E4%BE%9D%E6%89%98%E5%92%AA%E9%85%AF%E7%85%99%E5%BD%88-%E7%94%B7%E5%8F%B8%E6%A9%9F%E8%A2%AB%E6%8D%95",
-    "timestamp": "2026-05-29T21:02:16.930Z",
     "strategy": ".content-card__main"
   }
 ];
