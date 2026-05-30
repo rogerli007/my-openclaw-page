@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-30T15:15:01.444Z
+// Last updated: 2026-05-30T15:47:25.646Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "賽馬會箕寓入伙　讓離院青年與精神復元人士共居　一同學習與支持",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260530/1137535817485389824206359.jpeg/s09iEaXaHsc_X47d3UKdWvAV3hXinkEAtvcn-Lb3J_g?v=w1920r16_9",
+    "url": "https://www.hk01.com/18%E5%8D%80%E6%96%B0%E8%81%9E/60355169/%E8%B3%BD%E9%A6%AC%E6%9C%83%E7%AE%95%E5%AF%93%E5%85%A5%E4%BC%99-%E8%AE%93%E9%9B%A2%E9%99%A2%E9%9D%92%E5%B9%B4%E8%88%87%E7%B2%BE%E7%A5%9E%E5%BE%A9%E5%85%83%E4%BA%BA%E5%A3%AB%E5%85%B1%E5%B1%85-%E4%B8%80%E5%90%8C%E5%AD%B8%E7%BF%92%E8%88%87%E6%94%AF%E6%8C%81",
+    "timestamp": "2026-05-30T15:47:25.646Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "網約車司機破騙婚案！2無證外籍女落網　警方揭「職業騙婚」集團",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20251220/1079077831511642112625918.jpeg/LLgLUlJRSajgDEvOpfXPYREm9XBvKZ_mbwE9Km8BPSo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60355002/%E7%BE%8E%E6%B3%95%E5%AE%98%E4%B8%8B%E4%BB%A4%E5%B0%87%E7%89%B9%E6%9C%97%E6%99%AE%E5%90%8D%E5%AD%97%E5%BE%9E%E7%94%98%E8%BF%BA%E8%BF%AA%E4%B8%AD%E5%BF%83%E7%A7%BB%E9%99%A4-%E6%9C%AA%E7%B6%93%E5%9C%8B%E6%9C%83%E7%AB%8B%E6%B3%95%E4%B8%8D%E5%BE%97%E6%9B%B4%E5%90%8D",
     "timestamp": "2026-05-29T20:04:18.575Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "深圳灣管制站貨車入境　車藏153隻受管制瀕危活龜　市值$158萬",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260530/1137211135183818752598471.jpeg/WqDYYTW0K5EMHYq-EpaSq4VW-DCHIXHYo0wqpKNMKqQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60354997/%E6%B7%B1%E5%9C%B3%E7%81%A3%E7%AE%A1%E5%88%B6%E7%AB%99%E8%B2%A8%E8%BB%8A%E5%85%A5%E5%A2%83-%E8%BB%8A%E8%97%8F153%E9%9A%BB%E5%8F%97%E7%AE%A1%E5%88%B6%E7%80%95%E5%8D%B1%E6%B4%BB%E9%BE%9C-%E5%B8%82%E5%80%BC-158%E8%90%AC",
-    "timestamp": "2026-05-29T19:05:01.930Z",
     "strategy": ".content-card__main"
   }
 ];
