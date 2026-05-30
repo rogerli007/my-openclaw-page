@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-30T02:27:46.908Z
+// Last updated: 2026-05-30T03:52:24.830Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "《九品芝麻官》李公公劉洵辭世享年87歲　羅家英悼念文揭退圈原因",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260530/1137360267093479424642395.jpeg/-0i_oLJsxeiSEyNe7hJUI6_oXj429h06uDUHebg1B3k?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60355046/%E4%B9%9D%E5%93%81%E8%8A%9D%E9%BA%BB%E5%AE%98-%E6%9D%8E%E5%85%AC%E5%85%AC%E5%8A%89%E6%B4%B5%E8%BE%AD%E4%B8%96%E4%BA%AB%E5%B9%B487%E6%AD%B2-%E7%BE%85%E5%AE%B6%E8%8B%B1%E6%82%BC%E5%BF%B5%E6%96%87%E6%8F%AD%E9%80%80%E5%9C%88%E5%8E%9F%E5%9B%A0",
+    "timestamp": "2026-05-30T03:52:24.830Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美國會據報立法限華車企參與當地汽車市場　平治或遭波及",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260529/1136960080957149184791462.jpeg/mUQhxROuyQW3C8TnL4xjyBBWk5VFuUkeKmjBJSpowSU?v=w1920r16_9",
     "url": "https://www.hk01.com/01%E8%A7%80%E9%BB%9E/60354652/%E5%85%AC%E5%8B%99%E5%93%A1%E5%8A%A0%E8%96%AA%E4%B8%8D%E6%98%AF%E6%95%B8%E5%AD%97%E9%81%8A%E6%88%B2",
     "timestamp": "2026-05-29T01:26:03.219Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "小學女生遭同學包圍輪流掌摑！影片瘋傳　內地警：已找到欺凌學生",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260529/1136822489272291328986251.png/1Bsy88FLtUl6vmkaGCJTuT1MYyKyNpYSZcy_EGXMvxA",
-    "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E8%A9%B1%E9%A1%8C/60354037/%E5%B0%8F%E5%AD%B8%E5%A5%B3%E7%94%9F%E9%81%AD%E5%90%8C%E5%AD%B8%E5%8C%85%E5%9C%8D%E8%BC%AA%E6%B5%81%E6%8E%8C%E6%91%91-%E5%BD%B1%E7%89%87%E7%98%8B%E5%82%B3-%E5%85%A7%E5%9C%B0%E8%AD%A6-%E5%B7%B2%E6%89%BE%E5%88%B0%E6%AC%BA%E5%87%8C%E5%AD%B8%E7%94%9F",
-    "timestamp": "2026-05-29T00:15:39.789Z",
     "strategy": ".content-card__main"
   }
 ];
