@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-30T21:55:48.717Z
+// Last updated: 2026-05-30T22:55:21.631Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "百萬粉絲網紅邊牧被偷！¥180賤賣予狗販宰殺　偷狗夫婦：又沒犯法",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260530/1137374772447940608079541.png/ucuXTHokampOIQO17qEIXbkXzl76ZrToN9PIjDfTyIw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60354681/%E7%99%BE%E8%90%AC%E7%B2%89%E7%B5%B2%E7%B6%B2%E7%B4%85%E9%82%8A%E7%89%A7%E8%A2%AB%E5%81%B7-180%E8%B3%A4%E8%B3%A3%E4%BA%88%E7%8B%97%E8%B2%A9%E5%AE%B0%E6%AE%BA-%E5%81%B7%E7%8B%97%E5%A4%AB%E5%A9%A6-%E5%8F%88%E6%B2%92%E7%8A%AF%E6%B3%95",
+    "timestamp": "2026-05-30T22:55:21.631Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "藍色起源新格倫火箭爆炸　專家：或影響美國未來月球任務時間表",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20221005/654456121507188736312096.jpeg/xtq17-6WqImrdiqt_fcy5ArGjOk9WyMuD67ulyWu7pc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60355065/%E9%A6%AC%E9%9E%8D%E5%B1%B1%E6%B5%B7%E5%85%B8%E7%81%A3%E9%AB%98%E5%B1%A43%E6%88%BF%E5%A5%97-%E7%8D%B2%E5%8D%80%E5%85%A7%E5%AE%A2%E6%96%A51230%E8%90%AC%E8%B3%BC%E5%85%A5-%E5%8E%9F%E6%A5%AD%E4%B8%BB%E8%B3%AC%E8%B3%BA853%E8%90%AC",
     "timestamp": "2026-05-30T05:28:25.487Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "《九品芝麻官》李公公劉洵辭世享年87歲　羅家英悼念文揭退圈原因",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260530/1137360267093479424642395.jpeg/-0i_oLJsxeiSEyNe7hJUI6_oXj429h06uDUHebg1B3k?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60355046/%E4%B9%9D%E5%93%81%E8%8A%9D%E9%BA%BB%E5%AE%98-%E6%9D%8E%E5%85%AC%E5%85%AC%E5%8A%89%E6%B4%B5%E8%BE%AD%E4%B8%96%E4%BA%AB%E5%B9%B487%E6%AD%B2-%E7%BE%85%E5%AE%B6%E8%8B%B1%E6%82%BC%E5%BF%B5%E6%96%87%E6%8F%AD%E9%80%80%E5%9C%88%E5%8E%9F%E5%9B%A0",
-    "timestamp": "2026-05-30T03:52:24.830Z",
     "strategy": ".content-card__main"
   }
 ];
