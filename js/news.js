@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-29T23:41:11.661Z
+// Last updated: 2026-05-30T00:15:04.223Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "瑪利歐電影推續作　重溫任天堂招牌傳奇：如何靠頂蘑菇征服全球",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260529/1137028949071630336156423.jpeg/3nWbZK6uQfjnG6J0NsE3tN0QUUrZ6zvKpoXjbqaF424?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E4%B8%96%E7%95%8C%E5%B0%88%E9%A1%8C/60354688/%E7%91%AA%E5%88%A9%E6%AD%90%E9%9B%BB%E5%BD%B1%E6%8E%A8%E7%BA%8C%E4%BD%9C-%E9%87%8D%E6%BA%AB%E4%BB%BB%E5%A4%A9%E5%A0%82%E6%8B%9B%E7%89%8C%E5%82%B3%E5%A5%87-%E5%A6%82%E4%BD%95%E9%9D%A0%E9%A0%82%E8%98%91%E8%8F%87%E5%BE%81%E6%9C%8D%E5%85%A8%E7%90%83",
+    "timestamp": "2026-05-30T00:15:04.223Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "沙田行山｜登牛皮沙脊上多石脊探機槍堡　逆走麥徑四五段落西貢",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260527/1136334809891606528130562.jpeg/tNwTUE7fDTPgFa4QFXjN8s_t-gwD5JUlFhSc9DMUnPQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60354064/%E5%B9%B3%E6%A9%9F%E6%9C%83%E6%8C%87%E5%90%8C%E6%80%A7%E4%BC%B4%E4%BE%B6%E8%8D%89%E6%A1%88%E6%8E%A8%E5%80%92-%E5%8F%8D%E6%98%A0%E6%80%A7%E5%82%BE%E5%90%91%E6%AD%A7%E8%A6%96%E7%AB%8B%E6%B3%95%E9%9B%A3-%E7%A4%BE%E6%9C%83%E9%A0%88%E9%81%94%E5%85%B1%E8%AD%98",
     "timestamp": "2026-05-28T23:04:34.903Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "Dell季績勝預期　市後股價飆逾30%",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20220828/640651568403714048873569.jpeg/Bke2DhXoMSvYPfywM2-pX_1IPUpYt8YDQZfyx0GX8sc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60354635/dell%E5%AD%A3%E7%B8%BE%E5%8B%9D%E9%A0%90%E6%9C%9F-%E5%B8%82%E5%BE%8C%E8%82%A1%E5%83%B9%E9%A3%86%E9%80%BE30",
-    "timestamp": "2026-05-28T21:49:33.760Z",
     "strategy": ".content-card__main"
   }
 ];
