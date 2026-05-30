@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-30T01:21:04.799Z
+// Last updated: 2026-05-30T02:27:46.908Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美國會據報立法限華車企參與當地汽車市場　平治或遭波及",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20251007/1052375694765461504716435.jpeg/No7FnyyAQvLgGBPpXcTNaAuFs0OYlreYIWrZACFq2QA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60355032/%E7%BE%8E%E5%9C%8B%E6%9C%83%E6%93%9A%E5%A0%B1%E7%AB%8B%E6%B3%95%E9%99%90%E8%8F%AF%E8%BB%8A%E4%BC%81%E5%8F%83%E8%88%87%E7%95%B6%E5%9C%B0%E6%B1%BD%E8%BB%8A%E5%B8%82%E5%A0%B4-%E5%B9%B3%E6%B2%BB%E6%88%96%E9%81%AD%E6%B3%A2%E5%8F%8A",
+    "timestamp": "2026-05-30T02:27:46.908Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "女友愛愛前連放2屁！男友即時變軟　揭不時疲軟疑身體有隱藏問題",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260529/1136822489272291328986251.png/1Bsy88FLtUl6vmkaGCJTuT1MYyKyNpYSZcy_EGXMvxA",
     "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E8%A9%B1%E9%A1%8C/60354037/%E5%B0%8F%E5%AD%B8%E5%A5%B3%E7%94%9F%E9%81%AD%E5%90%8C%E5%AD%B8%E5%8C%85%E5%9C%8D%E8%BC%AA%E6%B5%81%E6%8E%8C%E6%91%91-%E5%BD%B1%E7%89%87%E7%98%8B%E5%82%B3-%E5%85%A7%E5%9C%B0%E8%AD%A6-%E5%B7%B2%E6%89%BE%E5%88%B0%E6%AC%BA%E5%87%8C%E5%AD%B8%E7%94%9F",
     "timestamp": "2026-05-29T00:15:39.789Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "伊朗尚未解決　下一個已輪到古巴？｜Jack Talk・去片",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260528/1136692421304782848462953.jpeg/lc5Z9zeaIZ9eWqIi9Wc--IWVlwnug1VVevTJH3r0yR8",
-    "url": "https://www.hk01.com/%E5%9C%8B%E9%9A%9B%E5%88%86%E6%9E%90/60354306/%E4%BC%8A%E6%9C%97%E5%B0%9A%E6%9C%AA%E8%A7%A3%E6%B1%BA-%E4%B8%8B%E4%B8%80%E5%80%8B%E5%B7%B2%E8%BC%AA%E5%88%B0%E5%8F%A4%E5%B7%B4-jack-talk-%E5%8E%BB%E7%89%87",
-    "timestamp": "2026-05-28T23:42:35.398Z",
     "strategy": ".content-card__main"
   }
 ];
