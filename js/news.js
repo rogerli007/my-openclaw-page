@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-30T08:43:18.392Z
+// Last updated: 2026-05-30T09:32:25.281Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "鄭麗文批民進黨路線危險：無人機不應用來帶飛彈，應該用來帶珍奶",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260526/1135878656065802240423701.jpeg/k1vTylVeLt5ey5TvVWrodnoeI6VGgTv5PhaAaj4WgGo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8F%B0%E7%81%A3%E6%96%B0%E8%81%9E/60355115/%E9%84%AD%E9%BA%97%E6%96%87%E6%89%B9%E6%B0%91%E9%80%B2%E9%BB%A8%E8%B7%AF%E7%B7%9A%E5%8D%B1%E9%9A%AA-%E7%84%A1%E4%BA%BA%E6%A9%9F%E4%B8%8D%E6%87%89%E7%94%A8%E4%BE%86%E5%B8%B6%E9%A3%9B%E5%BD%88-%E6%87%89%E8%A9%B2%E7%94%A8%E4%BE%86%E5%B8%B6%E7%8F%8D%E5%A5%B6",
+    "timestamp": "2026-05-30T09:32:25.281Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "港車北上｜廣東省政府公布延長政策有效期5年　至2031年6月",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260529/1137066709090308096142058.png/uFVwYtWVJZTyeIdO1y4pghIgXg-kIj4XSVKszUlSrM0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%92%B0%E7%90%83%E8%B6%A3%E8%81%9E/60354855/%E7%BE%8E%E5%9C%8B%E5%A4%A7%E5%AD%B8%E7%95%A2%E6%A5%AD%E7%A6%AE%E7%94%A8ai%E8%AE%80%E4%BA%BA%E5%90%8D%E7%88%86%E5%85%AC%E9%97%9C%E7%81%BD%E9%9B%A3-%E6%BC%8F%E8%AE%80%E5%B9%BE%E5%8D%81%E4%BA%BA%E5%90%8D%E9%81%AD%E9%AC%A7%E7%88%86-%E6%9C%89%E7%89%87",
     "timestamp": "2026-05-29T08:37:07.085Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "深圳好去處｜光明公明墟逛騎樓吃在地美食　體驗傳統趕圩煙火氣",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260526/1136014627759460352452973.jpeg/L-eIoUyIriFeYbIzealfc3eNCk_CzsprFt_gOhbf4Do?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%97%85%E9%81%8A/60352202/%E6%B7%B1%E5%9C%B3%E5%A5%BD%E5%8E%BB%E8%99%95-%E5%85%89%E6%98%8E%E5%85%AC%E6%98%8E%E5%A2%9F%E9%80%9B%E9%A8%8E%E6%A8%93%E5%90%83%E5%9C%A8%E5%9C%B0%E7%BE%8E%E9%A3%9F-%E9%AB%94%E9%A9%97%E5%82%B3%E7%B5%B1%E8%B6%95%E5%9C%A9%E7%85%99%E7%81%AB%E6%B0%A3",
-    "timestamp": "2026-05-29T07:07:47.430Z",
     "strategy": ".content-card__main"
   }
 ];
