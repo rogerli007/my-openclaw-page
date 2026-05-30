@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-30T18:45:26.658Z
+// Last updated: 2026-05-30T19:15:53.955Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "俄羅斯指責烏克蘭無人機襲擊扎波羅熱核電站　烏軍否認",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20251004/1051042337314050048270145.jpeg/VFFnV73rdT1G7jTWuaJyPeOvvor-1nS5S3YiOUt2Ijk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60355181/%E4%BF%84%E7%BE%85%E6%96%AF%E6%8C%87%E8%B2%AC%E7%83%8F%E5%85%8B%E8%98%AD%E7%84%A1%E4%BA%BA%E6%A9%9F%E8%A5%B2%E6%93%8A%E6%89%8E%E6%B3%A2%E7%BE%85%E7%86%B1%E6%A0%B8%E9%9B%BB%E7%AB%99-%E7%83%8F%E8%BB%8D%E5%90%A6%E8%AA%8D",
+    "timestamp": "2026-05-30T19:15:53.955Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "特朗普擬將建國250周年系列演出改親自致詞　因多名藝人相繼退演",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260529/1137028949071630336156423.jpeg/3nWbZK6uQfjnG6J0NsE3tN0QUUrZ6zvKpoXjbqaF424?v=w1920r16_9",
     "url": "https://www.hk01.com/%E4%B8%96%E7%95%8C%E5%B0%88%E9%A1%8C/60354688/%E7%91%AA%E5%88%A9%E6%AD%90%E9%9B%BB%E5%BD%B1%E6%8E%A8%E7%BA%8C%E4%BD%9C-%E9%87%8D%E6%BA%AB%E4%BB%BB%E5%A4%A9%E5%A0%82%E6%8B%9B%E7%89%8C%E5%82%B3%E5%A5%87-%E5%A6%82%E4%BD%95%E9%9D%A0%E9%A0%82%E8%98%91%E8%8F%87%E5%BE%81%E6%9C%8D%E5%85%A8%E7%90%83",
     "timestamp": "2026-05-30T00:15:04.223Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "沙田行山｜登牛皮沙脊上多石脊探機槍堡　逆走麥徑四五段落西貢",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260529/1137067943687884800671284.jpeg/2u-l7sktbARCjylqDJWggWs4FFxwbf9fLXmffy15n38?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60342057/%E6%B2%99%E7%94%B0%E8%A1%8C%E5%B1%B1-%E7%99%BB%E7%89%9B%E7%9A%AE%E6%B2%99%E8%84%8A%E4%B8%8A%E5%A4%9A%E7%9F%B3%E8%84%8A%E6%8E%A2%E6%A9%9F%E6%A7%8D%E5%A0%A1-%E9%80%86%E8%B5%B0%E9%BA%A5%E5%BE%91%E5%9B%9B%E4%BA%94%E6%AE%B5%E8%90%BD%E8%A5%BF%E8%B2%A2",
-    "timestamp": "2026-05-29T23:41:11.661Z",
     "strategy": ".content-card__main"
   }
 ];
