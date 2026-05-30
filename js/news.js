@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-30T00:15:04.223Z
+// Last updated: 2026-05-30T01:21:04.799Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "女友愛愛前連放2屁！男友即時變軟　揭不時疲軟疑身體有隱藏問題",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260529/1136858277116645376130296.png/z8GmuOaNkJ5o2WVjsjoTX6Fj7cJldfCuecUn33nFJ98?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60354606/%E5%A5%B3%E5%8F%8B%E6%84%9B%E6%84%9B%E5%89%8D%E9%80%A3%E6%94%BE2%E5%B1%81-%E7%94%B7%E5%8F%8B%E5%8D%B3%E6%99%82%E8%AE%8A%E8%BB%9F-%E6%8F%AD%E4%B8%8D%E6%99%82%E7%96%B2%E8%BB%9F%E7%96%91%E8%BA%AB%E9%AB%94%E6%9C%89%E9%9A%B1%E8%97%8F%E5%95%8F%E9%A1%8C",
+    "timestamp": "2026-05-30T01:21:04.799Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "瑪利歐電影推續作　重溫任天堂招牌傳奇：如何靠頂蘑菇征服全球",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260528/1136692421304782848462953.jpeg/lc5Z9zeaIZ9eWqIi9Wc--IWVlwnug1VVevTJH3r0yR8",
     "url": "https://www.hk01.com/%E5%9C%8B%E9%9A%9B%E5%88%86%E6%9E%90/60354306/%E4%BC%8A%E6%9C%97%E5%B0%9A%E6%9C%AA%E8%A7%A3%E6%B1%BA-%E4%B8%8B%E4%B8%80%E5%80%8B%E5%B7%B2%E8%BC%AA%E5%88%B0%E5%8F%A4%E5%B7%B4-jack-talk-%E5%8E%BB%E7%89%87",
     "timestamp": "2026-05-28T23:42:35.398Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "平機會指同性伴侶草案推倒　反映性傾向歧視立法難　社會須達共識",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260527/1136334809891606528130562.jpeg/tNwTUE7fDTPgFa4QFXjN8s_t-gwD5JUlFhSc9DMUnPQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60354064/%E5%B9%B3%E6%A9%9F%E6%9C%83%E6%8C%87%E5%90%8C%E6%80%A7%E4%BC%B4%E4%BE%B6%E8%8D%89%E6%A1%88%E6%8E%A8%E5%80%92-%E5%8F%8D%E6%98%A0%E6%80%A7%E5%82%BE%E5%90%91%E6%AD%A7%E8%A6%96%E7%AB%8B%E6%B3%95%E9%9B%A3-%E7%A4%BE%E6%9C%83%E9%A0%88%E9%81%94%E5%85%B1%E8%AD%98",
-    "timestamp": "2026-05-28T23:04:34.903Z",
     "strategy": ".content-card__main"
   }
 ];
