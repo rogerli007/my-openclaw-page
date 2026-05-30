@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-30T09:32:25.281Z
+// Last updated: 2026-05-30T10:20:24.826Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "颱風蓓姬襲港｜義載臨盆孕婦入院　39年後暴風BB盼尋司機親口道謝",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260530/1137367492780363776093587.jpeg/IgFHjfILFBQCj_0sL13_te0XdUwGmYGHw4GhW8OBoVs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60355018/%E9%A2%B1%E9%A2%A8%E8%93%93%E5%A7%AC%E8%A5%B2%E6%B8%AF-%E7%BE%A9%E8%BC%89%E8%87%A8%E7%9B%86%E5%AD%95%E5%A9%A6%E5%85%A5%E9%99%A2-39%E5%B9%B4%E5%BE%8C%E6%9A%B4%E9%A2%A8bb%E7%9B%BC%E5%B0%8B%E5%8F%B8%E6%A9%9F%E8%A6%AA%E5%8F%A3%E9%81%93%E8%AC%9D",
+    "timestamp": "2026-05-30T10:20:24.826Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "鄭麗文批民進黨路線危險：無人機不應用來帶飛彈，應該用來帶珍奶",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260529/1137081852897529856503918.jpeg/3oq3XJoOr5YfUxnI2iiaDi86dRPZ0iVCOQJmSjkCZko?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60354872/%E5%B1%AF%E9%96%80%E5%B7%A5%E5%BB%883%E5%80%8B%E6%9C%88%E5%89%8D%E7%A0%B4%E7%8D%B2%E7%A7%81%E7%85%99%E5%80%89-%E6%B5%B7%E9%97%9C%E6%8F%AD%E6%AD%BB%E7%81%B0%E5%BE%A9%E7%87%83-%E6%AA%A2-3700%E8%90%AC%E8%B2%A8%E6%8B%98%E4%B8%80%E7%94%B7",
     "timestamp": "2026-05-29T10:15:05.106Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美國大學畢業禮用AI讀人名爆公關災難　漏讀幾十人名遭鬧爆｜有片",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260529/1137066709090308096142058.png/uFVwYtWVJZTyeIdO1y4pghIgXg-kIj4XSVKszUlSrM0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%92%B0%E7%90%83%E8%B6%A3%E8%81%9E/60354855/%E7%BE%8E%E5%9C%8B%E5%A4%A7%E5%AD%B8%E7%95%A2%E6%A5%AD%E7%A6%AE%E7%94%A8ai%E8%AE%80%E4%BA%BA%E5%90%8D%E7%88%86%E5%85%AC%E9%97%9C%E7%81%BD%E9%9B%A3-%E6%BC%8F%E8%AE%80%E5%B9%BE%E5%8D%81%E4%BA%BA%E5%90%8D%E9%81%AD%E9%AC%A7%E7%88%86-%E6%9C%89%E7%89%87",
-    "timestamp": "2026-05-29T08:37:07.085Z",
     "strategy": ".content-card__main"
   }
 ];
