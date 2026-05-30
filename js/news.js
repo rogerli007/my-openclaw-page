@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-30T17:15:16.278Z
+// Last updated: 2026-05-30T17:43:22.324Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "游泳環地中海賽｜何詩蓓巴塞站100自摘銀　何甄陶50自登頒獎台",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260531/1137564653547687936059672.png/XP3GlpAWoj_XQ7_lr0Y_lXTnpWykUtZRzVCygc1QsoE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60355176/%E6%B8%B8%E6%B3%B3%E7%92%B0%E5%9C%B0%E4%B8%AD%E6%B5%B7%E8%B3%BD-%E4%BD%95%E8%A9%A9%E8%93%93%E5%B7%B4%E5%A1%9E%E7%AB%99100%E8%87%AA%E6%91%98%E9%8A%80-%E4%BD%95%E7%94%84%E9%99%B650%E8%87%AA%E7%99%BB%E9%A0%92%E7%8D%8E%E5%8F%B0",
+    "timestamp": "2026-05-30T17:43:22.324Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "游泳環地中海賽｜何詩蓓巴塞站100自摘銀　何甄陶50自登頒獎台",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260530/1137272360294944768319406.jpeg/gekqKUv5sVaPr5peyGQVd2fni9sy_fn4DmCrqQ5gq6k?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60355008/%E6%99%AE%E4%BA%AC-%E5%88%86%E6%9E%90%E4%BF%84%E8%BB%8D%E8%A1%A8%E7%8F%BE%E5%BE%8C%E8%AA%8D%E7%82%BA%E4%BF%84%E7%83%8F%E6%88%B0%E7%88%AD%E5%B0%87%E7%B5%90%E6%9D%9F-%E6%83%9F%E7%84%A1%E6%B3%95%E7%B5%A6%E5%87%BA%E5%85%B7%E9%AB%94%E6%99%82%E9%96%93%E8%A1%A8",
     "timestamp": "2026-05-29T22:24:55.800Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "大角咀住宅單位淪販毒中心　警檢$82萬冰毒　64歲男被捕",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260530/1137265230984777728736452.jpeg/6PtIUHU5-iyvqi8fmCnfqfGK3iXE62oQTDmca0w5nGs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60355007/%E5%A4%A7%E8%A7%92%E5%92%80%E4%BD%8F%E5%AE%85%E5%96%AE%E4%BD%8D%E6%B7%AA%E8%B2%A9%E6%AF%92%E4%B8%AD%E5%BF%83-%E8%AD%A6%E6%AA%A2-82%E8%90%AC%E5%86%B0%E6%AF%92-64%E6%AD%B2%E7%94%B7%E8%A2%AB%E6%8D%95",
-    "timestamp": "2026-05-29T21:46:43.363Z",
     "strategy": ".content-card__main"
   }
 ];
