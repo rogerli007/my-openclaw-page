@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-30T15:47:25.646Z
+// Last updated: 2026-05-30T16:16:17.353Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "俄羅斯召回駐亞美尼亞大使　不滿亞美尼亞深化與歐盟關係",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260531/1137544904445005824952034.jpeg/9EFGcs5Okh8ukvItO4IIWmeyS_fE6VbC_16Wk_9elpM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60355171/%E4%BF%84%E7%BE%85%E6%96%AF%E5%8F%AC%E5%9B%9E%E9%A7%90%E4%BA%9E%E7%BE%8E%E5%B0%BC%E4%BA%9E%E5%A4%A7%E4%BD%BF-%E4%B8%8D%E6%BB%BF%E4%BA%9E%E7%BE%8E%E5%B0%BC%E4%BA%9E%E6%B7%B1%E5%8C%96%E8%88%87%E6%AD%90%E7%9B%9F%E9%97%9C%E4%BF%82",
+    "timestamp": "2026-05-30T16:16:17.353Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "賽馬會箕寓入伙　讓離院青年與精神復元人士共居　一同學習與支持",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260530/1137243559871647744398712.jpeg/QOwZL0THkTT5aRp64RkIYoHy1whbRom-jiDprrQg6a4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60355003/%E4%B9%9D%E9%BE%8D%E7%81%A3%E7%A7%81%E5%AE%B6%E8%BB%8A%E7%96%91%E9%80%86%E7%B7%9A%E8%A1%8C%E9%A7%9B%E9%81%87%E6%88%AA%E6%9F%A5-ptu%E6%AA%A2%E4%BE%9D%E6%89%98%E5%92%AA%E9%85%AF%E7%85%99%E5%BD%88-%E7%94%B7%E5%8F%B8%E6%A9%9F%E8%A2%AB%E6%8D%95",
     "timestamp": "2026-05-29T21:02:16.930Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美法官下令將特朗普名字從甘迺迪中心移除　未經國會立法不得更名",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20251220/1079077831511642112625918.jpeg/LLgLUlJRSajgDEvOpfXPYREm9XBvKZ_mbwE9Km8BPSo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60355002/%E7%BE%8E%E6%B3%95%E5%AE%98%E4%B8%8B%E4%BB%A4%E5%B0%87%E7%89%B9%E6%9C%97%E6%99%AE%E5%90%8D%E5%AD%97%E5%BE%9E%E7%94%98%E8%BF%BA%E8%BF%AA%E4%B8%AD%E5%BF%83%E7%A7%BB%E9%99%A4-%E6%9C%AA%E7%B6%93%E5%9C%8B%E6%9C%83%E7%AB%8B%E6%B3%95%E4%B8%8D%E5%BE%97%E6%9B%B4%E5%90%8D",
-    "timestamp": "2026-05-29T20:04:18.575Z",
     "strategy": ".content-card__main"
   }
 ];
