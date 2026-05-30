@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-30T07:45:30.410Z
+// Last updated: 2026-05-30T08:43:18.392Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "港車北上｜廣東省政府公布延長政策有效期5年　至2031年6月",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20230702/751972552616185856510469.jpeg/PTN7-TQOVOyYUSO-VQ6kPY2Wl6BV7sgzM3C-NjNwvjY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60355105/%E6%B8%AF%E8%BB%8A%E5%8C%97%E4%B8%8A-%E5%BB%A3%E6%9D%B1%E7%9C%81%E6%94%BF%E5%BA%9C%E5%85%AC%E5%B8%83%E5%BB%B6%E9%95%B7%E6%94%BF%E7%AD%96%E6%9C%89%E6%95%88%E6%9C%9F5%E5%B9%B4-%E8%87%B32031%E5%B9%B46%E6%9C%88",
+    "timestamp": "2026-05-30T08:43:18.392Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "香格里拉對話｜赫格塞斯對華論調放緩　崔天凱：有理不在聲高",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260526/1136014627759460352452973.jpeg/L-eIoUyIriFeYbIzealfc3eNCk_CzsprFt_gOhbf4Do?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%97%85%E9%81%8A/60352202/%E6%B7%B1%E5%9C%B3%E5%A5%BD%E5%8E%BB%E8%99%95-%E5%85%89%E6%98%8E%E5%85%AC%E6%98%8E%E5%A2%9F%E9%80%9B%E9%A8%8E%E6%A8%93%E5%90%83%E5%9C%A8%E5%9C%B0%E7%BE%8E%E9%A3%9F-%E9%AB%94%E9%A9%97%E5%82%B3%E7%B5%B1%E8%B6%95%E5%9C%A9%E7%85%99%E7%81%AB%E6%B0%A3",
     "timestamp": "2026-05-29T07:07:47.430Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "內地掀近年最大跨境稅務整治　北上廣居民遭追稅　海外炒股成焦點",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20231010/788493720965091328820574.jpeg/sYVOcXqgiOzQ_1s0VAieXloTAv1PZWDqKSRE9SkkRPU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60354765/%E5%85%A7%E5%9C%B0%E6%8E%80%E8%BF%91%E5%B9%B4%E6%9C%80%E5%A4%A7%E8%B7%A8%E5%A2%83%E7%A8%85%E5%8B%99%E6%95%B4%E6%B2%BB-%E5%8C%97%E4%B8%8A%E5%BB%A3%E5%B1%85%E6%B0%91%E9%81%AD%E8%BF%BD%E7%A8%85-%E6%B5%B7%E5%A4%96%E7%82%92%E8%82%A1%E6%88%90%E7%84%A6%E9%BB%9E",
-    "timestamp": "2026-05-29T05:39:36.298Z",
     "strategy": ".content-card__main"
   }
 ];
