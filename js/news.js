@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-30T19:15:53.955Z
+// Last updated: 2026-05-30T19:50:02.397Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "俄羅斯指責烏克蘭無人機襲擊扎波羅熱核電站　烏軍否認",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20251004/1051042337314050048270145.jpeg/VFFnV73rdT1G7jTWuaJyPeOvvor-1nS5S3YiOUt2Ijk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60355181/%E4%BF%84%E7%BE%85%E6%96%AF%E6%8C%87%E8%B2%AC%E7%83%8F%E5%85%8B%E8%98%AD%E7%84%A1%E4%BA%BA%E6%A9%9F%E8%A5%B2%E6%93%8A%E6%89%8E%E6%B3%A2%E7%BE%85%E7%86%B1%E6%A0%B8%E9%9B%BB%E7%AB%99-%E7%83%8F%E8%BB%8D%E5%90%A6%E8%AA%8D",
+    "timestamp": "2026-05-30T19:50:02.397Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "俄羅斯指責烏克蘭無人機襲擊扎波羅熱核電站　烏軍否認",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260529/1136858277116645376130296.png/z8GmuOaNkJ5o2WVjsjoTX6Fj7cJldfCuecUn33nFJ98?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60354606/%E5%A5%B3%E5%8F%8B%E6%84%9B%E6%84%9B%E5%89%8D%E9%80%A3%E6%94%BE2%E5%B1%81-%E7%94%B7%E5%8F%8B%E5%8D%B3%E6%99%82%E8%AE%8A%E8%BB%9F-%E6%8F%AD%E4%B8%8D%E6%99%82%E7%96%B2%E8%BB%9F%E7%96%91%E8%BA%AB%E9%AB%94%E6%9C%89%E9%9A%B1%E8%97%8F%E5%95%8F%E9%A1%8C",
     "timestamp": "2026-05-30T01:21:04.799Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "瑪利歐電影推續作　重溫任天堂招牌傳奇：如何靠頂蘑菇征服全球",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260529/1137028949071630336156423.jpeg/3nWbZK6uQfjnG6J0NsE3tN0QUUrZ6zvKpoXjbqaF424?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E4%B8%96%E7%95%8C%E5%B0%88%E9%A1%8C/60354688/%E7%91%AA%E5%88%A9%E6%AD%90%E9%9B%BB%E5%BD%B1%E6%8E%A8%E7%BA%8C%E4%BD%9C-%E9%87%8D%E6%BA%AB%E4%BB%BB%E5%A4%A9%E5%A0%82%E6%8B%9B%E7%89%8C%E5%82%B3%E5%A5%87-%E5%A6%82%E4%BD%95%E9%9D%A0%E9%A0%82%E8%98%91%E8%8F%87%E5%BE%81%E6%9C%8D%E5%85%A8%E7%90%83",
-    "timestamp": "2026-05-30T00:15:04.223Z",
     "strategy": ".content-card__main"
   }
 ];
