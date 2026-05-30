@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-30T11:51:10.347Z
+// Last updated: 2026-05-30T14:44:10.414Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美軍再打擊「販毒船」致3死　專家：行動至今入美可卡因未減少",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260530/1137503814765514752432971.png/NkIE4i_a14lgmSixzfSwr9QOtf_d2WwngftMaIH7TGg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60355159/%E7%BE%8E%E8%BB%8D%E5%86%8D%E6%89%93%E6%93%8A-%E8%B2%A9%E6%AF%92%E8%88%B9-%E8%87%B43%E6%AD%BB-%E5%B0%88%E5%AE%B6-%E8%A1%8C%E5%8B%95%E8%87%B3%E4%BB%8A%E5%85%A5%E7%BE%8E%E5%8F%AF%E5%8D%A1%E5%9B%A0%E6%9C%AA%E6%B8%9B%E5%B0%91",
+    "timestamp": "2026-05-30T14:44:10.414Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "馮德倫邀「法國賭神」宣傳新IP　「細個跟佢學魔術識女仔」",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260530/1137199956445106176425319.jpeg/c-AKiNbUVuwqum85D9m-Ze-E6ldn6Lw6Cb1RLAm9USw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60354936/%E6%AD%90%E8%81%AF%E5%85%A8%E6%94%BB%E7%95%A5-%E7%B5%82%E6%A5%B5%E4%B8%80%E6%88%B0-%E9%98%BF%E4%BB%99%E5%A5%B4%E6%B1%BA%E8%B3%BD-%E7%B4%B0-%E6%8A%97%E5%B7%B4%E9%BB%8E%E8%81%96%E6%97%A5%E8%80%B3%E9%96%80",
     "timestamp": "2026-05-29T17:58:00.725Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "CHANEL工藝坊系列時裝秀移師韓國！重新演繹電影造型建構品牌靈魂",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260529/1137124011709304832684013.jpeg/CUPwlk8qIFZN46qtqXpUcjDyfwgnww1GEtbCRxLWwkc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A9%BF%E6%90%AD%E7%AD%86%E8%A8%98/60354906/chanel%E5%B7%A5%E8%97%9D%E5%9D%8A%E7%B3%BB%E5%88%97%E6%99%82%E8%A3%9D%E7%A7%80%E7%A7%BB%E5%B8%AB%E9%9F%93%E5%9C%8B-%E9%87%8D%E6%96%B0%E6%BC%94%E7%B9%B9%E9%9B%BB%E5%BD%B1%E9%80%A0%E5%9E%8B%E5%BB%BA%E6%A7%8B%E5%93%81%E7%89%8C%E9%9D%88%E9%AD%82",
-    "timestamp": "2026-05-29T16:38:32.101Z",
     "strategy": ".content-card__main"
   }
 ];
