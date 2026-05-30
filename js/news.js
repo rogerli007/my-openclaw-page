@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-30T11:06:31.925Z
+// Last updated: 2026-05-30T11:51:10.347Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "馮德倫邀「法國賭神」宣傳新IP　「細個跟佢學魔術識女仔」",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260530/1137470387823579136038671.jpeg/NBdXBFRGmcKmNL1-hJKbml_D6b_FtYKjF-nP_hfpz_4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60355140/%E9%A6%AE%E5%BE%B7%E5%80%AB%E9%82%80-%E6%B3%95%E5%9C%8B%E8%B3%AD%E7%A5%9E-%E5%AE%A3%E5%82%B3%E6%96%B0ip-%E7%B4%B0%E5%80%8B%E8%B7%9F%E4%BD%A2%E5%AD%B8%E9%AD%94%E8%A1%93%E8%AD%98%E5%A5%B3%E4%BB%94",
+    "timestamp": "2026-05-30T11:51:10.347Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "日本「魔之山」怪談：2男懸空詭異吊死　千發子彈射繩竟無一命中",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260529/1137124011709304832684013.jpeg/CUPwlk8qIFZN46qtqXpUcjDyfwgnww1GEtbCRxLWwkc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A9%BF%E6%90%AD%E7%AD%86%E8%A8%98/60354906/chanel%E5%B7%A5%E8%97%9D%E5%9D%8A%E7%B3%BB%E5%88%97%E6%99%82%E8%A3%9D%E7%A7%80%E7%A7%BB%E5%B8%AB%E9%9F%93%E5%9C%8B-%E9%87%8D%E6%96%B0%E6%BC%94%E7%B9%B9%E9%9B%BB%E5%BD%B1%E9%80%A0%E5%9E%8B%E5%BB%BA%E6%A7%8B%E5%93%81%E7%89%8C%E9%9D%88%E9%AD%82",
     "timestamp": "2026-05-29T16:38:32.101Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "其士集團爭產　長女指4個妹父前談分錢如四人幫　辯方質疑無其事",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260526/1136051095634710528532086.jpeg/jyZ99OmRBdoWhivoekGTvzyaIC5AmLbVMNO7GRXTuxk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60354967/%E5%85%B6%E5%A3%AB%E9%9B%86%E5%9C%98%E7%88%AD%E7%94%A2-%E9%95%B7%E5%A5%B3%E6%8C%874%E5%80%8B%E5%A6%B9%E7%88%B6%E5%89%8D%E8%AB%87%E5%88%86%E9%8C%A2%E5%A6%82%E5%9B%9B%E4%BA%BA%E5%B9%AB-%E8%BE%AF%E6%96%B9%E8%B3%AA%E7%96%91%E7%84%A1%E5%85%B6%E4%BA%8B",
-    "timestamp": "2026-05-29T12:38:09.269Z",
     "strategy": ".content-card__main"
   }
 ];
