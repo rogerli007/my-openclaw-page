@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-30T10:20:24.826Z
+// Last updated: 2026-05-30T11:06:31.925Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "日本「魔之山」怪談：2男懸空詭異吊死　千發子彈射繩竟無一命中",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260529/1137030672418869248801257.jpeg/B1Sz5T_7zlFpTZIjCzYQ6Hxylm-4Rp_SNCBziDQgc4g?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%96%8B%E7%BD%90/60339766/%E6%97%A5%E6%9C%AC-%E9%AD%94%E4%B9%8B%E5%B1%B1-%E6%80%AA%E8%AB%87-2%E7%94%B7%E6%87%B8%E7%A9%BA%E8%A9%AD%E7%95%B0%E5%90%8A%E6%AD%BB-%E5%8D%83%E7%99%BC%E5%AD%90%E5%BD%88%E5%B0%84%E7%B9%A9%E7%AB%9F%E7%84%A1%E4%B8%80%E5%91%BD%E4%B8%AD",
+    "timestamp": "2026-05-30T11:06:31.925Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "颱風蓓姬襲港｜義載臨盆孕婦入院　39年後暴風BB盼尋司機親口道謝",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260526/1136051095634710528532086.jpeg/jyZ99OmRBdoWhivoekGTvzyaIC5AmLbVMNO7GRXTuxk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60354967/%E5%85%B6%E5%A3%AB%E9%9B%86%E5%9C%98%E7%88%AD%E7%94%A2-%E9%95%B7%E5%A5%B3%E6%8C%874%E5%80%8B%E5%A6%B9%E7%88%B6%E5%89%8D%E8%AB%87%E5%88%86%E9%8C%A2%E5%A6%82%E5%9B%9B%E4%BA%BA%E5%B9%AB-%E8%BE%AF%E6%96%B9%E8%B3%AA%E7%96%91%E7%84%A1%E5%85%B6%E4%BA%8B",
     "timestamp": "2026-05-29T12:38:09.269Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "屯門工廈3個月前破獲私煙倉　海關揭死灰復燃　檢$3700萬貨拘一男",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260529/1137081852897529856503918.jpeg/3oq3XJoOr5YfUxnI2iiaDi86dRPZ0iVCOQJmSjkCZko?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60354872/%E5%B1%AF%E9%96%80%E5%B7%A5%E5%BB%883%E5%80%8B%E6%9C%88%E5%89%8D%E7%A0%B4%E7%8D%B2%E7%A7%81%E7%85%99%E5%80%89-%E6%B5%B7%E9%97%9C%E6%8F%AD%E6%AD%BB%E7%81%B0%E5%BE%A9%E7%87%83-%E6%AA%A2-3700%E8%90%AC%E8%B2%A8%E6%8B%98%E4%B8%80%E7%94%B7",
-    "timestamp": "2026-05-29T10:15:05.106Z",
     "strategy": ".content-card__main"
   }
 ];
