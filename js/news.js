@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-30T14:44:10.414Z
+// Last updated: 2026-05-30T15:15:01.444Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "網約車司機破騙婚案！2無證外籍女落網　警方揭「職業騙婚」集團",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260529/1137014976444108800840572.png/XT9qzFi8BPw82QEn_5NoJ7GDyJD8Ft0b7D8kquw_JKo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60354372/%E7%B6%B2%E7%B4%84%E8%BB%8A%E5%8F%B8%E6%A9%9F%E7%A0%B4%E9%A8%99%E5%A9%9A%E6%A1%88-2%E7%84%A1%E8%AD%89%E5%A4%96%E7%B1%8D%E5%A5%B3%E8%90%BD%E7%B6%B2-%E8%AD%A6%E6%96%B9%E6%8F%AD-%E8%81%B7%E6%A5%AD%E9%A8%99%E5%A9%9A-%E9%9B%86%E5%9C%98",
+    "timestamp": "2026-05-30T15:15:01.444Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美軍再打擊「販毒船」致3死　專家：行動至今入美可卡因未減少",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260530/1137211135183818752598471.jpeg/WqDYYTW0K5EMHYq-EpaSq4VW-DCHIXHYo0wqpKNMKqQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60354997/%E6%B7%B1%E5%9C%B3%E7%81%A3%E7%AE%A1%E5%88%B6%E7%AB%99%E8%B2%A8%E8%BB%8A%E5%85%A5%E5%A2%83-%E8%BB%8A%E8%97%8F153%E9%9A%BB%E5%8F%97%E7%AE%A1%E5%88%B6%E7%80%95%E5%8D%B1%E6%B4%BB%E9%BE%9C-%E5%B8%82%E5%80%BC-158%E8%90%AC",
     "timestamp": "2026-05-29T19:05:01.930Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "歐聯全攻略｜終極一戰　阿仙奴決賽「細」抗巴黎聖日耳門",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260530/1137199956445106176425319.jpeg/c-AKiNbUVuwqum85D9m-Ze-E6ldn6Lw6Cb1RLAm9USw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60354936/%E6%AD%90%E8%81%AF%E5%85%A8%E6%94%BB%E7%95%A5-%E7%B5%82%E6%A5%B5%E4%B8%80%E6%88%B0-%E9%98%BF%E4%BB%99%E5%A5%B4%E6%B1%BA%E8%B3%BD-%E7%B4%B0-%E6%8A%97%E5%B7%B4%E9%BB%8E%E8%81%96%E6%97%A5%E8%80%B3%E9%96%80",
-    "timestamp": "2026-05-29T17:58:00.725Z",
     "strategy": ".content-card__main"
   }
 ];
