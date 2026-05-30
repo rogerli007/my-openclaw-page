@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-30T06:39:38.845Z
+// Last updated: 2026-05-30T07:45:30.410Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "香格里拉對話｜赫格塞斯對華論調放緩　崔天凱：有理不在聲高",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260530/1137413452889853952267304.jpeg/CtD1CLLRn436NkpD5LpJC2AqSZLtYbGR3yXtfN8l7Xw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60355094/%E9%A6%99%E6%A0%BC%E9%87%8C%E6%8B%89%E5%B0%8D%E8%A9%B1-%E8%B5%AB%E6%A0%BC%E5%A1%9E%E6%96%AF%E5%B0%8D%E8%8F%AF%E8%AB%96%E8%AA%BF%E6%94%BE%E7%B7%A9-%E5%B4%94%E5%A4%A9%E5%87%B1-%E6%9C%89%E7%90%86%E4%B8%8D%E5%9C%A8%E8%81%B2%E9%AB%98",
+    "timestamp": "2026-05-30T07:45:30.410Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "黃宗澤帶蘇麗珊組「波總旅行團」　帶隊去打卡兼玩轉中國大西北",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20231010/788493720965091328820574.jpeg/sYVOcXqgiOzQ_1s0VAieXloTAv1PZWDqKSRE9SkkRPU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60354765/%E5%85%A7%E5%9C%B0%E6%8E%80%E8%BF%91%E5%B9%B4%E6%9C%80%E5%A4%A7%E8%B7%A8%E5%A2%83%E7%A8%85%E5%8B%99%E6%95%B4%E6%B2%BB-%E5%8C%97%E4%B8%8A%E5%BB%A3%E5%B1%85%E6%B0%91%E9%81%AD%E8%BF%BD%E7%A8%85-%E6%B5%B7%E5%A4%96%E7%82%92%E8%82%A1%E6%88%90%E7%84%A6%E9%BB%9E",
     "timestamp": "2026-05-29T05:39:36.298Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "財報齊報憂　日本三大車企集體失速",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250803/1028513445458219008153920.jpeg/lezxYwIYI6vRJBsQYToAUIM1_MUKSN6DodT2W6HU9ls?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60354701/%E8%B2%A1%E5%A0%B1%E9%BD%8A%E5%A0%B1%E6%86%82-%E6%97%A5%E6%9C%AC%E4%B8%89%E5%A4%A7%E8%BB%8A%E4%BC%81%E9%9B%86%E9%AB%94%E5%A4%B1%E9%80%9F",
-    "timestamp": "2026-05-29T03:53:09.242Z",
     "strategy": ".content-card__main"
   }
 ];
