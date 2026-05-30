@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-30T22:55:21.631Z
+// Last updated: 2026-05-30T23:31:21.497Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "非常父母申訴女兒被瑞典政府監管　當局：情況嚴重才會申請監護令",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260530/1137509909777092608602975.jpeg/RcL70Fi1D5cLNAO_zlDyAbNTxFUrnQGDlr7FR5a-xUc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60354923/%E9%9D%9E%E5%B8%B8%E7%88%B6%E6%AF%8D%E7%94%B3%E8%A8%B4%E5%A5%B3%E5%85%92%E8%A2%AB%E7%91%9E%E5%85%B8%E6%94%BF%E5%BA%9C%E7%9B%A3%E7%AE%A1-%E7%95%B6%E5%B1%80-%E6%83%85%E6%B3%81%E5%9A%B4%E9%87%8D%E6%89%8D%E6%9C%83%E7%94%B3%E8%AB%8B%E7%9B%A3%E8%AD%B7%E4%BB%A4",
+    "timestamp": "2026-05-30T23:31:21.497Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "百萬粉絲網紅邊牧被偷！¥180賤賣予狗販宰殺　偷狗夫婦：又沒犯法",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260529/1136885790010249216138495.jpeg/71u6-OW257Ocawtui1UBVo3QQoDiIYL88IdRS_CHUUs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60354629/%E9%BB%83%E5%AE%97%E6%BE%A4%E5%B8%B6%E8%98%87%E9%BA%97%E7%8F%8A%E7%B5%84-%E6%B3%A2%E7%B8%BD%E6%97%85%E8%A1%8C%E5%9C%98-%E5%B8%B6%E9%9A%8A%E5%8E%BB%E6%89%93%E5%8D%A1%E5%85%BC%E7%8E%A9%E8%BD%89%E4%B8%AD%E5%9C%8B%E5%A4%A7%E8%A5%BF%E5%8C%97",
     "timestamp": "2026-05-30T06:39:38.845Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "馬鞍山海典灣高層3房套　獲區內客斥1230萬購入　原業主賬賺853萬",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20221005/654456121507188736312096.jpeg/xtq17-6WqImrdiqt_fcy5ArGjOk9WyMuD67ulyWu7pc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60355065/%E9%A6%AC%E9%9E%8D%E5%B1%B1%E6%B5%B7%E5%85%B8%E7%81%A3%E9%AB%98%E5%B1%A43%E6%88%BF%E5%A5%97-%E7%8D%B2%E5%8D%80%E5%85%A7%E5%AE%A2%E6%96%A51230%E8%90%AC%E8%B3%BC%E5%85%A5-%E5%8E%9F%E6%A5%AD%E4%B8%BB%E8%B3%AC%E8%B3%BA853%E8%90%AC",
-    "timestamp": "2026-05-30T05:28:25.487Z",
     "strategy": ".content-card__main"
   }
 ];
