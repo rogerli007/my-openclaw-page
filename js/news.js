@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-30T17:43:22.324Z
+// Last updated: 2026-05-30T18:45:26.658Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "特朗普擬將建國250周年系列演出改親自致詞　因多名藝人相繼退演",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260528/1136465055664050176978403.jpeg/VU6fRF1aYLHBChcw4UvS2KVrrV8Hs4dmOBB0NTgQdDU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60355179/%E7%89%B9%E6%9C%97%E6%99%AE%E6%93%AC%E5%B0%87%E5%BB%BA%E5%9C%8B250%E5%91%A8%E5%B9%B4%E7%B3%BB%E5%88%97%E6%BC%94%E5%87%BA%E6%94%B9%E8%A6%AA%E8%87%AA%E8%87%B4%E8%A9%9E-%E5%9B%A0%E5%A4%9A%E5%90%8D%E8%97%9D%E4%BA%BA%E7%9B%B8%E7%B9%BC%E9%80%80%E6%BC%94",
+    "timestamp": "2026-05-30T18:45:26.658Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "游泳環地中海賽｜何詩蓓巴塞站100自摘銀　何甄陶50自登頒獎台",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260529/1137067943687884800671284.jpeg/2u-l7sktbARCjylqDJWggWs4FFxwbf9fLXmffy15n38?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60342057/%E6%B2%99%E7%94%B0%E8%A1%8C%E5%B1%B1-%E7%99%BB%E7%89%9B%E7%9A%AE%E6%B2%99%E8%84%8A%E4%B8%8A%E5%A4%9A%E7%9F%B3%E8%84%8A%E6%8E%A2%E6%A9%9F%E6%A7%8D%E5%A0%A1-%E9%80%86%E8%B5%B0%E9%BA%A5%E5%BE%91%E5%9B%9B%E4%BA%94%E6%AE%B5%E8%90%BD%E8%A5%BF%E8%B2%A2",
     "timestamp": "2026-05-29T23:41:11.661Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "普京：分析俄軍表現後認為俄烏戰爭將結束　惟無法給出具體時間表",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260530/1137272360294944768319406.jpeg/gekqKUv5sVaPr5peyGQVd2fni9sy_fn4DmCrqQ5gq6k?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60355008/%E6%99%AE%E4%BA%AC-%E5%88%86%E6%9E%90%E4%BF%84%E8%BB%8D%E8%A1%A8%E7%8F%BE%E5%BE%8C%E8%AA%8D%E7%82%BA%E4%BF%84%E7%83%8F%E6%88%B0%E7%88%AD%E5%B0%87%E7%B5%90%E6%9D%9F-%E6%83%9F%E7%84%A1%E6%B3%95%E7%B5%A6%E5%87%BA%E5%85%B7%E9%AB%94%E6%99%82%E9%96%93%E8%A1%A8",
-    "timestamp": "2026-05-29T22:24:55.800Z",
     "strategy": ".content-card__main"
   }
 ];
