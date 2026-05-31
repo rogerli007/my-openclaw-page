@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-31T15:47:56.735Z
+// Last updated: 2026-05-31T16:19:42.210Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "農夫不堪回首窮到燶日子　日食一餐叮飯兩個人夾100蚊先撳到錢",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260531/1137869944919166976739240.jpeg/8sdv0HxwCIG64I6Zof0HX0GG0L5VOUJSa54gMmueIDI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60355321/%E8%BE%B2%E5%A4%AB%E4%B8%8D%E5%A0%AA%E5%9B%9E%E9%A6%96%E7%AA%AE%E5%88%B0%E7%87%B6%E6%97%A5%E5%AD%90-%E6%97%A5%E9%A3%9F%E4%B8%80%E9%A4%90%E5%8F%AE%E9%A3%AF%E5%85%A9%E5%80%8B%E4%BA%BA%E5%A4%BE100%E8%9A%8A%E5%85%88%E6%92%B3%E5%88%B0%E9%8C%A2",
+    "timestamp": "2026-05-31T16:19:42.210Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "ZPOT即場為成員唱生日歌慶生　周德誠收粉絲送蛋糕感動到喊",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260531/1137564653547687936059672.png/XP3GlpAWoj_XQ7_lr0Y_lXTnpWykUtZRzVCygc1QsoE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60355176/%E6%B8%B8%E6%B3%B3%E7%92%B0%E5%9C%B0%E4%B8%AD%E6%B5%B7%E8%B3%BD-%E4%BD%95%E8%A9%A9%E8%93%93%E5%B7%B4%E5%A1%9E%E7%AB%99100%E8%87%AA%E6%91%98%E9%8A%80-%E4%BD%95%E7%94%84%E9%99%B650%E8%87%AA%E7%99%BB%E9%A0%92%E7%8D%8E%E5%8F%B0",
     "timestamp": "2026-05-30T17:43:22.324Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "游泳環地中海賽｜何詩蓓巴塞站100自摘銀　何甄陶50自登頒獎台",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260531/1137554582809874432869540.jpeg/aD86PHhv2BcqpivCbHFqca6w-QDZs_2hoilQwKIpUMA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60355176/%E6%B8%B8%E6%B3%B3%E7%92%B0%E5%9C%B0%E4%B8%AD%E6%B5%B7%E8%B3%BD-%E4%BD%95%E8%A9%A9%E8%93%93%E5%B7%B4%E5%A1%9E%E7%AB%99100%E8%87%AA%E6%91%98%E9%8A%80-%E4%BD%95%E7%94%84%E9%99%B650%E8%87%AA%E7%99%BB%E9%A0%92%E7%8D%8E%E5%8F%B0",
-    "timestamp": "2026-05-30T17:15:16.278Z",
     "strategy": ".content-card__main"
   }
 ];
