@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-31T18:48:03.621Z
+// Last updated: 2026-05-31T19:19:56.840Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "伊朗否認總統致函最高領袖請辭　稱謠言企圖破壞國家凝聚力",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260526/1135874411765698560478931.jpeg/9NJbbI5Y90lcVGfvuuD5_9vXxnf7acyDe_1bUnv9W1I?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60355358/%E4%BC%8A%E6%9C%97%E5%90%A6%E8%AA%8D%E7%B8%BD%E7%B5%B1%E8%87%B4%E5%87%BD%E6%9C%80%E9%AB%98%E9%A0%98%E8%A2%96%E8%AB%8B%E8%BE%AD-%E7%A8%B1%E8%AC%A0%E8%A8%80%E4%BC%81%E5%9C%96%E7%A0%B4%E5%A3%9E%E5%9C%8B%E5%AE%B6%E5%87%9D%E8%81%9A%E5%8A%9B",
+    "timestamp": "2026-05-31T19:19:56.840Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "外媒：伊朗總統致函最高領袖請辭　不滿權力遭革命衛隊架空",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260529/1136995849159577600478921.png/2JezcA5RQxfX0gwcZtORir8DEV6rHkRqeuk1NnrpNTY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60355185/%E8%97%8D%E8%89%B2%E8%B5%B7%E6%BA%90%E6%96%B0%E6%A0%BC%E5%80%AB%E7%81%AB%E7%AE%AD%E7%88%86%E7%82%B8-%E5%B0%88%E5%AE%B6-%E6%88%96%E5%BD%B1%E9%9F%BF%E7%BE%8E%E5%9C%8B%E6%9C%AA%E4%BE%86%E6%9C%88%E7%90%83%E4%BB%BB%E5%8B%99%E6%99%82%E9%96%93%E8%A1%A8",
     "timestamp": "2026-05-30T21:55:48.717Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "軟銀計劃投資法國750億歐元　推動AI數據中心建設",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20211109/534711324748288000956074.jpeg/ONoeZzPw6NxZYsRqBSy1tVYXi0AO4PzID0RbSw9EW0s?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60355183/%E8%BB%9F%E9%8A%80%E8%A8%88%E5%8A%83%E6%8A%95%E8%B3%87%E6%B3%95%E5%9C%8B750%E5%84%84%E6%AD%90%E5%85%83-%E6%8E%A8%E5%8B%95ai%E6%95%B8%E6%93%9A%E4%B8%AD%E5%BF%83%E5%BB%BA%E8%A8%AD",
-    "timestamp": "2026-05-30T20:32:31.605Z",
     "strategy": ".content-card__main"
   }
 ];
