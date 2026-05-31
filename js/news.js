@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-31T01:19:22.087Z
+// Last updated: 2026-05-31T05:07:41.846Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "屯馬綫2人搬運大量紙皮！目擊者嘲：似貨車　附港鐵附例行李限制",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260530/1137512030111010816371860.png/plED3zoEEui2Q8WhINBiFL5Jun9KKi8kbt4dum7eHbo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60355148/%E5%B1%AF%E9%A6%AC%E7%B6%AB2%E4%BA%BA%E6%90%AC%E9%81%8B%E5%A4%A7%E9%87%8F%E7%B4%99%E7%9A%AE-%E7%9B%AE%E6%93%8A%E8%80%85%E5%98%B2-%E4%BC%BC%E8%B2%A8%E8%BB%8A-%E9%99%84%E6%B8%AF%E9%90%B5%E9%99%84%E4%BE%8B%E8%A1%8C%E6%9D%8E%E9%99%90%E5%88%B6",
+    "timestamp": "2026-05-31T05:07:41.846Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "上海男騙14人地鐵站假上班　設荒唐打卡法與入職試牟利　法院判刑",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260526/1135878656065802240423701.jpeg/k1vTylVeLt5ey5TvVWrodnoeI6VGgTv5PhaAaj4WgGo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8F%B0%E7%81%A3%E6%96%B0%E8%81%9E/60355115/%E9%84%AD%E9%BA%97%E6%96%87%E6%89%B9%E6%B0%91%E9%80%B2%E9%BB%A8%E8%B7%AF%E7%B7%9A%E5%8D%B1%E9%9A%AA-%E7%84%A1%E4%BA%BA%E6%A9%9F%E4%B8%8D%E6%87%89%E7%94%A8%E4%BE%86%E5%B8%B6%E9%A3%9B%E5%BD%88-%E6%87%89%E8%A9%B2%E7%94%A8%E4%BE%86%E5%B8%B6%E7%8F%8D%E5%A5%B6",
     "timestamp": "2026-05-30T09:32:25.281Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "港車北上｜廣東省政府公布延長政策有效期5年　至2031年6月",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20230702/751972552616185856510469.jpeg/PTN7-TQOVOyYUSO-VQ6kPY2Wl6BV7sgzM3C-NjNwvjY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60355105/%E6%B8%AF%E8%BB%8A%E5%8C%97%E4%B8%8A-%E5%BB%A3%E6%9D%B1%E7%9C%81%E6%94%BF%E5%BA%9C%E5%85%AC%E5%B8%83%E5%BB%B6%E9%95%B7%E6%94%BF%E7%AD%96%E6%9C%89%E6%95%88%E6%9C%9F5%E5%B9%B4-%E8%87%B32031%E5%B9%B46%E6%9C%88",
-    "timestamp": "2026-05-30T08:43:18.392Z",
     "strategy": ".content-card__main"
   }
 ];
