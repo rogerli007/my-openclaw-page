@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-31T11:45:33.195Z
+// Last updated: 2026-05-31T12:15:25.196Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "《仙樂飄飄處處聞》Julie Andrews激罕露面　90歲容貌宇宙級凍齡",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260531/1137802890258157568108724.jpeg/3oO9Ku2VEC5T3WInAjyEqRkFWF-unF_yekAyinpAMoo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60355273/%E4%BB%99%E6%A8%82%E9%A3%84%E9%A3%84%E8%99%95%E8%99%95%E8%81%9E-julie-andrews%E6%BF%80%E7%BD%95%E9%9C%B2%E9%9D%A2-90%E6%AD%B2%E5%AE%B9%E8%B2%8C%E5%AE%87%E5%AE%99%E7%B4%9A%E5%87%8D%E9%BD%A1",
+    "timestamp": "2026-05-31T12:15:25.196Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "心理師揭秘情侶6大分手前兆：另一半行為突然變神祕恐陷感情危機",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260530/1137503814765514752432971.png/NkIE4i_a14lgmSixzfSwr9QOtf_d2WwngftMaIH7TGg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60355159/%E7%BE%8E%E8%BB%8D%E5%86%8D%E6%89%93%E6%93%8A-%E8%B2%A9%E6%AF%92%E8%88%B9-%E8%87%B43%E6%AD%BB-%E5%B0%88%E5%AE%B6-%E8%A1%8C%E5%8B%95%E8%87%B3%E4%BB%8A%E5%85%A5%E7%BE%8E%E5%8F%AF%E5%8D%A1%E5%9B%A0%E6%9C%AA%E6%B8%9B%E5%B0%91",
     "timestamp": "2026-05-30T14:44:10.414Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "馮德倫邀「法國賭神」宣傳新IP　「細個跟佢學魔術識女仔」",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260530/1137470387823579136038671.jpeg/NBdXBFRGmcKmNL1-hJKbml_D6b_FtYKjF-nP_hfpz_4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60355140/%E9%A6%AE%E5%BE%B7%E5%80%AB%E9%82%80-%E6%B3%95%E5%9C%8B%E8%B3%AD%E7%A5%9E-%E5%AE%A3%E5%82%B3%E6%96%B0ip-%E7%B4%B0%E5%80%8B%E8%B7%9F%E4%BD%A2%E5%AD%B8%E9%AD%94%E8%A1%93%E8%AD%98%E5%A5%B3%E4%BB%94",
-    "timestamp": "2026-05-30T11:51:10.347Z",
     "strategy": ".content-card__main"
   }
 ];
