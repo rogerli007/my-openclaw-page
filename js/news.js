@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-31T17:47:14.323Z
+// Last updated: 2026-05-31T18:16:13.331Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "英超冠軍阿仙奴勝利巡遊　北倫敦現人海",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260601/1137932247765094400591340.jpeg/PofGSQd-e-xeiyGJGvLJDf5v0zLYAAMbMCR8qDAkfKg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60355355/%E8%8B%B1%E8%B6%85%E5%86%A0%E8%BB%8D%E9%98%BF%E4%BB%99%E5%A5%B4%E5%8B%9D%E5%88%A9%E5%B7%A1%E9%81%8A-%E5%8C%97%E5%80%AB%E6%95%A6%E7%8F%BE%E4%BA%BA%E6%B5%B7",
+    "timestamp": "2026-05-31T18:16:13.331Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "將軍澳TESLA慢流轉彎撞毀水馬跌入地盤　網民：開咗自「洞」駕駛?",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20251004/1051042337314050048270145.jpeg/VFFnV73rdT1G7jTWuaJyPeOvvor-1nS5S3YiOUt2Ijk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60355181/%E4%BF%84%E7%BE%85%E6%96%AF%E6%8C%87%E8%B2%AC%E7%83%8F%E5%85%8B%E8%98%AD%E7%84%A1%E4%BA%BA%E6%A9%9F%E8%A5%B2%E6%93%8A%E6%89%8E%E6%B3%A2%E7%BE%85%E7%86%B1%E6%A0%B8%E9%9B%BB%E7%AB%99-%E7%83%8F%E8%BB%8D%E5%90%A6%E8%AA%8D",
     "timestamp": "2026-05-30T19:50:02.397Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "俄羅斯指責烏克蘭無人機襲擊扎波羅熱核電站　烏軍否認",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20251004/1051042337314050048270145.jpeg/VFFnV73rdT1G7jTWuaJyPeOvvor-1nS5S3YiOUt2Ijk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60355181/%E4%BF%84%E7%BE%85%E6%96%AF%E6%8C%87%E8%B2%AC%E7%83%8F%E5%85%8B%E8%98%AD%E7%84%A1%E4%BA%BA%E6%A9%9F%E8%A5%B2%E6%93%8A%E6%89%8E%E6%B3%A2%E7%BE%85%E7%86%B1%E6%A0%B8%E9%9B%BB%E7%AB%99-%E7%83%8F%E8%BB%8D%E5%90%A6%E8%AA%8D",
-    "timestamp": "2026-05-30T19:15:53.955Z",
     "strategy": ".content-card__main"
   }
 ];
