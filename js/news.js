@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-31T14:25:14.784Z
+// Last updated: 2026-05-31T15:06:44.024Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "壁屋懲教所飯堂還押男囚犯大戰　「10打2」釀3傷　懲教交警方調查",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/900529/org/eb17c3d41fb69d5fae4c008e2391a61f.jpg/JXOkIANVI2Jpmw88QrCuSw4nBT_oCXRZust6m7rLeps?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60355342/%E5%A3%81%E5%B1%8B%E6%87%B2%E6%95%99%E6%89%80%E9%A3%AF%E5%A0%82%E9%82%84%E6%8A%BC%E7%94%B7%E5%9B%9A%E7%8A%AF%E5%A4%A7%E6%88%B0-10%E6%89%932-%E9%87%803%E5%82%B7-%E6%87%B2%E6%95%99%E4%BA%A4%E8%AD%A6%E6%96%B9%E8%AA%BF%E6%9F%A5",
+    "timestamp": "2026-05-31T15:06:44.024Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "油麻地團體辦社區服務日　15隊長者、青年義工隊探訪基層",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260531/1137544904445005824952034.jpeg/9EFGcs5Okh8ukvItO4IIWmeyS_fE6VbC_16Wk_9elpM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60355171/%E4%BF%84%E7%BE%85%E6%96%AF%E5%8F%AC%E5%9B%9E%E9%A7%90%E4%BA%9E%E7%BE%8E%E5%B0%BC%E4%BA%9E%E5%A4%A7%E4%BD%BF-%E4%B8%8D%E6%BB%BF%E4%BA%9E%E7%BE%8E%E5%B0%BC%E4%BA%9E%E6%B7%B1%E5%8C%96%E8%88%87%E6%AD%90%E7%9B%9F%E9%97%9C%E4%BF%82",
     "timestamp": "2026-05-30T16:16:17.353Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "賽馬會箕寓入伙　讓離院青年與精神復元人士共居　一同學習與支持",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260530/1137535817485389824206359.jpeg/s09iEaXaHsc_X47d3UKdWvAV3hXinkEAtvcn-Lb3J_g?v=w1920r16_9",
-    "url": "https://www.hk01.com/18%E5%8D%80%E6%96%B0%E8%81%9E/60355169/%E8%B3%BD%E9%A6%AC%E6%9C%83%E7%AE%95%E5%AF%93%E5%85%A5%E4%BC%99-%E8%AE%93%E9%9B%A2%E9%99%A2%E9%9D%92%E5%B9%B4%E8%88%87%E7%B2%BE%E7%A5%9E%E5%BE%A9%E5%85%83%E4%BA%BA%E5%A3%AB%E5%85%B1%E5%B1%85-%E4%B8%80%E5%90%8C%E5%AD%B8%E7%BF%92%E8%88%87%E6%94%AF%E6%8C%81",
-    "timestamp": "2026-05-30T15:47:25.646Z",
     "strategy": ".content-card__main"
   }
 ];
