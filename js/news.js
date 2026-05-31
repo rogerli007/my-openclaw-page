@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-31T21:31:50.418Z
+// Last updated: 2026-05-31T22:00:19.836Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "以據指尋美支持擴大打擊真主黨　馬克龍稱黎局勢升級乏正當理由",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260601/1137979906303463424087651.jpeg/bJ9fA1IDrgqZo015MYE_TgBOYhgcJbaUr1y-va9cvr0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60355366/%E4%BB%A5%E6%93%9A%E6%8C%87%E5%B0%8B%E7%BE%8E%E6%94%AF%E6%8C%81%E6%93%B4%E5%A4%A7%E6%89%93%E6%93%8A%E7%9C%9F%E4%B8%BB%E9%BB%A8-%E9%A6%AC%E5%85%8B%E9%BE%8D%E7%A8%B1%E9%BB%8E%E5%B1%80%E5%8B%A2%E5%8D%87%E7%B4%9A%E4%B9%8F%E6%AD%A3%E7%95%B6%E7%90%86%E7%94%B1",
+    "timestamp": "2026-05-31T22:00:19.836Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "以據指尋美支持擴大打擊真主黨　馬克龍稱黎局勢升級乏正當理由",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20210628/486016745724317696179450.jpeg/6tY2yT0Itmo3WQY857KOO8gZfb1Ho76NADfsGSo37Bk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60355187/%E6%84%89%E6%99%AF%E7%81%A3%E5%96%AE%E4%BD%8D%E7%96%91%E9%81%AD%E7%88%86%E7%AB%8A-%E8%8B%B1%E7%B1%8D%E6%BC%A2%E5%A4%B1-20%E8%90%ACiwc%E6%89%8B%E9%8C%B6-%E9%87%91%E9%A3%BE%E5%8F%8A%E6%AD%90%E5%85%83",
     "timestamp": "2026-05-31T00:01:47.554Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "非常父母申訴女兒被瑞典政府監管　當局：情況嚴重才會申請監護令",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260530/1137509909777092608602975.jpeg/RcL70Fi1D5cLNAO_zlDyAbNTxFUrnQGDlr7FR5a-xUc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60354923/%E9%9D%9E%E5%B8%B8%E7%88%B6%E6%AF%8D%E7%94%B3%E8%A8%B4%E5%A5%B3%E5%85%92%E8%A2%AB%E7%91%9E%E5%85%B8%E6%94%BF%E5%BA%9C%E7%9B%A3%E7%AE%A1-%E7%95%B6%E5%B1%80-%E6%83%85%E6%B3%81%E5%9A%B4%E9%87%8D%E6%89%8D%E6%9C%83%E7%94%B3%E8%AB%8B%E7%9B%A3%E8%AD%B7%E4%BB%A4",
-    "timestamp": "2026-05-30T23:31:21.497Z",
     "strategy": ".content-card__main"
   }
 ];
