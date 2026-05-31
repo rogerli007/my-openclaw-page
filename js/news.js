@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-31T16:19:42.210Z
+// Last updated: 2026-05-31T17:19:11.698Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "緬甸存放礦用炸藥建築物爆炸　至少45死約70人傷",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260601/1137914681847975936782034.png/rjPXYvWSZMVUl_RiF1lJacmSKfjz99whCJSZ4QiUmeE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60355349/%E7%B7%AC%E7%94%B8%E5%AD%98%E6%94%BE%E7%A4%A6%E7%94%A8%E7%82%B8%E8%97%A5%E5%BB%BA%E7%AF%89%E7%89%A9%E7%88%86%E7%82%B8-%E8%87%B3%E5%B0%9145%E6%AD%BB%E7%B4%8470%E4%BA%BA%E5%82%B7",
+    "timestamp": "2026-05-31T17:19:11.698Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "農夫不堪回首窮到燶日子　日食一餐叮飯兩個人夾100蚊先撳到錢",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260528/1136465055664050176978403.jpeg/VU6fRF1aYLHBChcw4UvS2KVrrV8Hs4dmOBB0NTgQdDU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60355179/%E7%89%B9%E6%9C%97%E6%99%AE%E6%93%AC%E5%B0%87%E5%BB%BA%E5%9C%8B250%E5%91%A8%E5%B9%B4%E7%B3%BB%E5%88%97%E6%BC%94%E5%87%BA%E6%94%B9%E8%A6%AA%E8%87%AA%E8%87%B4%E8%A9%9E-%E5%9B%A0%E5%A4%9A%E5%90%8D%E8%97%9D%E4%BA%BA%E7%9B%B8%E7%B9%BC%E9%80%80%E6%BC%94",
     "timestamp": "2026-05-30T18:45:26.658Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "游泳環地中海賽｜何詩蓓巴塞站100自摘銀　何甄陶50自登頒獎台",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260531/1137564653547687936059672.png/XP3GlpAWoj_XQ7_lr0Y_lXTnpWykUtZRzVCygc1QsoE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60355176/%E6%B8%B8%E6%B3%B3%E7%92%B0%E5%9C%B0%E4%B8%AD%E6%B5%B7%E8%B3%BD-%E4%BD%95%E8%A9%A9%E8%93%93%E5%B7%B4%E5%A1%9E%E7%AB%99100%E8%87%AA%E6%91%98%E9%8A%80-%E4%BD%95%E7%94%84%E9%99%B650%E8%87%AA%E7%99%BB%E9%A0%92%E7%8D%8E%E5%8F%B0",
-    "timestamp": "2026-05-30T17:43:22.324Z",
     "strategy": ".content-card__main"
   }
 ];
