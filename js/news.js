@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-31T12:52:31.871Z
+// Last updated: 2026-05-31T14:25:14.784Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "油麻地團體辦社區服務日　15隊長者、青年義工隊探訪基層",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260531/1137881579796828160465271.jpeg/8Lb6MI-pjMmVDwU37Z-6wojgnpXMKDHPTpGZK06RmSs?v=w1920r16_9",
+    "url": "https://www.hk01.com/18%E5%8D%80%E6%96%B0%E8%81%9E/60355334/%E6%B2%B9%E9%BA%BB%E5%9C%B0%E5%9C%98%E9%AB%94%E8%BE%A6%E7%A4%BE%E5%8D%80%E6%9C%8D%E5%8B%99%E6%97%A5-15%E9%9A%8A%E9%95%B7%E8%80%85-%E9%9D%92%E5%B9%B4%E7%BE%A9%E5%B7%A5%E9%9A%8A%E6%8E%A2%E8%A8%AA%E5%9F%BA%E5%B1%A4",
+    "timestamp": "2026-05-31T14:25:14.784Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "張凌赫現身商場引暴動　狂迷逼爆玻璃門失控直衝　現場驚悚畫面曝",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260530/1137535817485389824206359.jpeg/s09iEaXaHsc_X47d3UKdWvAV3hXinkEAtvcn-Lb3J_g?v=w1920r16_9",
     "url": "https://www.hk01.com/18%E5%8D%80%E6%96%B0%E8%81%9E/60355169/%E8%B3%BD%E9%A6%AC%E6%9C%83%E7%AE%95%E5%AF%93%E5%85%A5%E4%BC%99-%E8%AE%93%E9%9B%A2%E9%99%A2%E9%9D%92%E5%B9%B4%E8%88%87%E7%B2%BE%E7%A5%9E%E5%BE%A9%E5%85%83%E4%BA%BA%E5%A3%AB%E5%85%B1%E5%B1%85-%E4%B8%80%E5%90%8C%E5%AD%B8%E7%BF%92%E8%88%87%E6%94%AF%E6%8C%81",
     "timestamp": "2026-05-30T15:47:25.646Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "網約車司機破騙婚案！2無證外籍女落網　警方揭「職業騙婚」集團",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260529/1137014976444108800840572.png/XT9qzFi8BPw82QEn_5NoJ7GDyJD8Ft0b7D8kquw_JKo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60354372/%E7%B6%B2%E7%B4%84%E8%BB%8A%E5%8F%B8%E6%A9%9F%E7%A0%B4%E9%A8%99%E5%A9%9A%E6%A1%88-2%E7%84%A1%E8%AD%89%E5%A4%96%E7%B1%8D%E5%A5%B3%E8%90%BD%E7%B6%B2-%E8%AD%A6%E6%96%B9%E6%8F%AD-%E8%81%B7%E6%A5%AD%E9%A8%99%E5%A9%9A-%E9%9B%86%E5%9C%98",
-    "timestamp": "2026-05-30T15:15:01.444Z",
     "strategy": ".content-card__main"
   }
 ];
