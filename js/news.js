@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-31T00:01:47.554Z
+// Last updated: 2026-05-31T01:19:22.087Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "上海男騙14人地鐵站假上班　設荒唐打卡法與入職試牟利　法院判刑",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260530/1137421910968111104301794.png/1h1PMyQR9Gq_GatpqKTXXxh5v8hivd8Fq0FklqtBZJY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60354821/%E4%B8%8A%E6%B5%B7%E7%94%B7%E9%A8%9914%E4%BA%BA%E5%9C%B0%E9%90%B5%E7%AB%99%E5%81%87%E4%B8%8A%E7%8F%AD-%E8%A8%AD%E8%8D%92%E5%94%90%E6%89%93%E5%8D%A1%E6%B3%95%E8%88%87%E5%85%A5%E8%81%B7%E8%A9%A6%E7%89%9F%E5%88%A9-%E6%B3%95%E9%99%A2%E5%88%A4%E5%88%91",
+    "timestamp": "2026-05-31T01:19:22.087Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "愉景灣單位疑遭爆竊　英籍漢失$20萬IWC手錶、金飾及歐元",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20230702/751972552616185856510469.jpeg/PTN7-TQOVOyYUSO-VQ6kPY2Wl6BV7sgzM3C-NjNwvjY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60355105/%E6%B8%AF%E8%BB%8A%E5%8C%97%E4%B8%8A-%E5%BB%A3%E6%9D%B1%E7%9C%81%E6%94%BF%E5%BA%9C%E5%85%AC%E5%B8%83%E5%BB%B6%E9%95%B7%E6%94%BF%E7%AD%96%E6%9C%89%E6%95%88%E6%9C%9F5%E5%B9%B4-%E8%87%B32031%E5%B9%B46%E6%9C%88",
     "timestamp": "2026-05-30T08:43:18.392Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "香格里拉對話｜赫格塞斯對華論調放緩　崔天凱：有理不在聲高",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260530/1137413452889853952267304.jpeg/CtD1CLLRn436NkpD5LpJC2AqSZLtYbGR3yXtfN8l7Xw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60355094/%E9%A6%99%E6%A0%BC%E9%87%8C%E6%8B%89%E5%B0%8D%E8%A9%B1-%E8%B5%AB%E6%A0%BC%E5%A1%9E%E6%96%AF%E5%B0%8D%E8%8F%AF%E8%AB%96%E8%AA%BF%E6%94%BE%E7%B7%A9-%E5%B4%94%E5%A4%A9%E5%87%B1-%E6%9C%89%E7%90%86%E4%B8%8D%E5%9C%A8%E8%81%B2%E9%AB%98",
-    "timestamp": "2026-05-30T07:45:30.410Z",
     "strategy": ".content-card__main"
   }
 ];
