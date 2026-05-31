@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-31T15:06:44.024Z
+// Last updated: 2026-05-31T15:47:56.735Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "ZPOT即場為成員唱生日歌慶生　周德誠收粉絲送蛋糕感動到喊",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260531/1137594319889240064698413.jpeg/jhahVKiXJaesboqi8kYc2HAJ21YwOPe74v3p-tj96fo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60355182/zpot%E5%8D%B3%E5%A0%B4%E7%82%BA%E6%88%90%E5%93%A1%E5%94%B1%E7%94%9F%E6%97%A5%E6%AD%8C%E6%85%B6%E7%94%9F-%E5%91%A8%E5%BE%B7%E8%AA%A0%E6%94%B6%E7%B2%89%E7%B5%B2%E9%80%81%E8%9B%8B%E7%B3%95%E6%84%9F%E5%8B%95%E5%88%B0%E5%96%8A",
+    "timestamp": "2026-05-31T15:47:56.735Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "壁屋懲教所飯堂還押男囚犯大戰　「10打2」釀3傷　懲教交警方調查",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260531/1137554582809874432869540.jpeg/aD86PHhv2BcqpivCbHFqca6w-QDZs_2hoilQwKIpUMA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60355176/%E6%B8%B8%E6%B3%B3%E7%92%B0%E5%9C%B0%E4%B8%AD%E6%B5%B7%E8%B3%BD-%E4%BD%95%E8%A9%A9%E8%93%93%E5%B7%B4%E5%A1%9E%E7%AB%99100%E8%87%AA%E6%91%98%E9%8A%80-%E4%BD%95%E7%94%84%E9%99%B650%E8%87%AA%E7%99%BB%E9%A0%92%E7%8D%8E%E5%8F%B0",
     "timestamp": "2026-05-30T17:15:16.278Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "俄羅斯召回駐亞美尼亞大使　不滿亞美尼亞深化與歐盟關係",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260531/1137544904445005824952034.jpeg/9EFGcs5Okh8ukvItO4IIWmeyS_fE6VbC_16Wk_9elpM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60355171/%E4%BF%84%E7%BE%85%E6%96%AF%E5%8F%AC%E5%9B%9E%E9%A7%90%E4%BA%9E%E7%BE%8E%E5%B0%BC%E4%BA%9E%E5%A4%A7%E4%BD%BF-%E4%B8%8D%E6%BB%BF%E4%BA%9E%E7%BE%8E%E5%B0%BC%E4%BA%9E%E6%B7%B1%E5%8C%96%E8%88%87%E6%AD%90%E7%9B%9F%E9%97%9C%E4%BF%82",
-    "timestamp": "2026-05-30T16:16:17.353Z",
     "strategy": ".content-card__main"
   }
 ];
