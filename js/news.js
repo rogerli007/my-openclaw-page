@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-30T23:31:21.497Z
+// Last updated: 2026-05-31T00:01:47.554Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "愉景灣單位疑遭爆竊　英籍漢失$20萬IWC手錶、金飾及歐元",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20210628/486016745724317696179450.jpeg/6tY2yT0Itmo3WQY857KOO8gZfb1Ho76NADfsGSo37Bk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60355187/%E6%84%89%E6%99%AF%E7%81%A3%E5%96%AE%E4%BD%8D%E7%96%91%E9%81%AD%E7%88%86%E7%AB%8A-%E8%8B%B1%E7%B1%8D%E6%BC%A2%E5%A4%B1-20%E8%90%ACiwc%E6%89%8B%E9%8C%B6-%E9%87%91%E9%A3%BE%E5%8F%8A%E6%AD%90%E5%85%83",
+    "timestamp": "2026-05-31T00:01:47.554Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "非常父母申訴女兒被瑞典政府監管　當局：情況嚴重才會申請監護令",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260530/1137413452889853952267304.jpeg/CtD1CLLRn436NkpD5LpJC2AqSZLtYbGR3yXtfN8l7Xw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60355094/%E9%A6%99%E6%A0%BC%E9%87%8C%E6%8B%89%E5%B0%8D%E8%A9%B1-%E8%B5%AB%E6%A0%BC%E5%A1%9E%E6%96%AF%E5%B0%8D%E8%8F%AF%E8%AB%96%E8%AA%BF%E6%94%BE%E7%B7%A9-%E5%B4%94%E5%A4%A9%E5%87%B1-%E6%9C%89%E7%90%86%E4%B8%8D%E5%9C%A8%E8%81%B2%E9%AB%98",
     "timestamp": "2026-05-30T07:45:30.410Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "黃宗澤帶蘇麗珊組「波總旅行團」　帶隊去打卡兼玩轉中國大西北",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260529/1136885790010249216138495.jpeg/71u6-OW257Ocawtui1UBVo3QQoDiIYL88IdRS_CHUUs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60354629/%E9%BB%83%E5%AE%97%E6%BE%A4%E5%B8%B6%E8%98%87%E9%BA%97%E7%8F%8A%E7%B5%84-%E6%B3%A2%E7%B8%BD%E6%97%85%E8%A1%8C%E5%9C%98-%E5%B8%B6%E9%9A%8A%E5%8E%BB%E6%89%93%E5%8D%A1%E5%85%BC%E7%8E%A9%E8%BD%89%E4%B8%AD%E5%9C%8B%E5%A4%A7%E8%A5%BF%E5%8C%97",
-    "timestamp": "2026-05-30T06:39:38.845Z",
     "strategy": ".content-card__main"
   }
 ];
