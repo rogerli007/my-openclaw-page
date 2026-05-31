@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-31T09:17:25.024Z
+// Last updated: 2026-05-31T11:45:33.195Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "心理師揭秘情侶6大分手前兆：另一半行為突然變神祕恐陷感情危機",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260415/1121136482820558848978523.jpeg/vUntbXY98-GwaFPj2z6LOm-nNi7qqX2pPxMzcT8TM3E?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%AB%87%E6%83%85%E8%AA%AA%E6%80%A7/60340514/%E5%BF%83%E7%90%86%E5%B8%AB%E6%8F%AD%E7%A7%98%E6%83%85%E4%BE%B66%E5%A4%A7%E5%88%86%E6%89%8B%E5%89%8D%E5%85%86-%E5%8F%A6%E4%B8%80%E5%8D%8A%E8%A1%8C%E7%82%BA%E7%AA%81%E7%84%B6%E8%AE%8A%E7%A5%9E%E7%A5%95%E6%81%90%E9%99%B7%E6%84%9F%E6%83%85%E5%8D%B1%E6%A9%9F",
+    "timestamp": "2026-05-31T11:45:33.195Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "日本熊本手信｜15種限定物　1/300比例熊本城紙模型　武將熊公仔",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260530/1137470387823579136038671.jpeg/NBdXBFRGmcKmNL1-hJKbml_D6b_FtYKjF-nP_hfpz_4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60355140/%E9%A6%AE%E5%BE%B7%E5%80%AB%E9%82%80-%E6%B3%95%E5%9C%8B%E8%B3%AD%E7%A5%9E-%E5%AE%A3%E5%82%B3%E6%96%B0ip-%E7%B4%B0%E5%80%8B%E8%B7%9F%E4%BD%A2%E5%AD%B8%E9%AD%94%E8%A1%93%E8%AD%98%E5%A5%B3%E4%BB%94",
     "timestamp": "2026-05-30T11:51:10.347Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "日本「魔之山」怪談：2男懸空詭異吊死　千發子彈射繩竟無一命中",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260529/1137030672418869248801257.jpeg/B1Sz5T_7zlFpTZIjCzYQ6Hxylm-4Rp_SNCBziDQgc4g?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%96%8B%E7%BD%90/60339766/%E6%97%A5%E6%9C%AC-%E9%AD%94%E4%B9%8B%E5%B1%B1-%E6%80%AA%E8%AB%87-2%E7%94%B7%E6%87%B8%E7%A9%BA%E8%A9%AD%E7%95%B0%E5%90%8A%E6%AD%BB-%E5%8D%83%E7%99%BC%E5%AD%90%E5%BD%88%E5%B0%84%E7%B9%A9%E7%AB%9F%E7%84%A1%E4%B8%80%E5%91%BD%E4%B8%AD",
-    "timestamp": "2026-05-30T11:06:31.925Z",
     "strategy": ".content-card__main"
   }
 ];
