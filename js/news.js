@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-31T17:19:11.698Z
+// Last updated: 2026-05-31T17:47:14.323Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "將軍澳TESLA慢流轉彎撞毀水馬跌入地盤　網民：開咗自「洞」駕駛?",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260601/1137923887204405248549301.jpeg/a5hIGUPZLexOJwNV8CP7HSmV9POPSYrIVtQJRVbUCUU",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60355352/%E5%B0%87%E8%BB%8D%E6%BE%B3tesla%E6%85%A2%E6%B5%81%E8%BD%89%E5%BD%8E%E6%92%9E%E6%AF%80%E6%B0%B4%E9%A6%AC%E8%B7%8C%E5%85%A5%E5%9C%B0%E7%9B%A4-%E7%B6%B2%E6%B0%91-%E9%96%8B%E5%92%97%E8%87%AA-%E6%B4%9E-%E9%A7%95%E9%A7%9B",
+    "timestamp": "2026-05-31T17:47:14.323Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "緬甸存放礦用炸藥建築物爆炸　至少45死約70人傷",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20251004/1051042337314050048270145.jpeg/VFFnV73rdT1G7jTWuaJyPeOvvor-1nS5S3YiOUt2Ijk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60355181/%E4%BF%84%E7%BE%85%E6%96%AF%E6%8C%87%E8%B2%AC%E7%83%8F%E5%85%8B%E8%98%AD%E7%84%A1%E4%BA%BA%E6%A9%9F%E8%A5%B2%E6%93%8A%E6%89%8E%E6%B3%A2%E7%BE%85%E7%86%B1%E6%A0%B8%E9%9B%BB%E7%AB%99-%E7%83%8F%E8%BB%8D%E5%90%A6%E8%AA%8D",
     "timestamp": "2026-05-30T19:15:53.955Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普擬將建國250周年系列演出改親自致詞　因多名藝人相繼退演",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260528/1136465055664050176978403.jpeg/VU6fRF1aYLHBChcw4UvS2KVrrV8Hs4dmOBB0NTgQdDU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60355179/%E7%89%B9%E6%9C%97%E6%99%AE%E6%93%AC%E5%B0%87%E5%BB%BA%E5%9C%8B250%E5%91%A8%E5%B9%B4%E7%B3%BB%E5%88%97%E6%BC%94%E5%87%BA%E6%94%B9%E8%A6%AA%E8%87%AA%E8%87%B4%E8%A9%9E-%E5%9B%A0%E5%A4%9A%E5%90%8D%E8%97%9D%E4%BA%BA%E7%9B%B8%E7%B9%BC%E9%80%80%E6%BC%94",
-    "timestamp": "2026-05-30T18:45:26.658Z",
     "strategy": ".content-card__main"
   }
 ];
