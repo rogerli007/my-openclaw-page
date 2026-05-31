@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-31T22:57:08.459Z
+// Last updated: 2026-05-31T23:35:15.903Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "25歲碩士戀32歲女老闆！拒付¥88.8萬禮金被封　他追討¥12萬拍拖費",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260530/1137472540214562816207485.png/9ywXdaOYEPA_0GJ7q_r2IvDxREk_hn16vegIpL3oCKQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60354377/25%E6%AD%B2%E7%A2%A9%E5%A3%AB%E6%88%8032%E6%AD%B2%E5%A5%B3%E8%80%81%E9%97%86-%E6%8B%92%E4%BB%98-88-8%E8%90%AC%E7%A6%AE%E9%87%91%E8%A2%AB%E5%B0%81-%E4%BB%96%E8%BF%BD%E8%A8%8E-12%E8%90%AC%E6%8B%8D%E6%8B%96%E8%B2%BB",
+    "timestamp": "2026-05-31T23:35:15.903Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "伊波拉｜巴西再增一宗疑似病例　病人曾訪烏干達",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260531/1137781053201584128543167.jpeg/H6IfGD0JNPTM_w4Dq-pQnFzBA53OmyAhJ8iySSfIskk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60355270/%E4%BB%A5%E8%89%B2%E5%88%97%E8%BB%8D%E6%94%BB%E4%BD%94%E9%BB%8E%E5%B7%B4%E5%AB%A9%E5%8D%9A%E7%A6%8F%E7%89%B9%E5%9F%8E%E5%A0%A1-%E9%80%BE25%E5%B9%B4%E4%BE%86%E6%9C%80%E6%B7%B1%E5%85%A5%E6%94%BB%E6%93%8A",
     "timestamp": "2026-05-31T08:00:46.407Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "屯馬綫2人搬運大量紙皮！目擊者嘲：似貨車　附港鐵附例行李限制",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260530/1137512030111010816371860.png/plED3zoEEui2Q8WhINBiFL5Jun9KKi8kbt4dum7eHbo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60355148/%E5%B1%AF%E9%A6%AC%E7%B6%AB2%E4%BA%BA%E6%90%AC%E9%81%8B%E5%A4%A7%E9%87%8F%E7%B4%99%E7%9A%AE-%E7%9B%AE%E6%93%8A%E8%80%85%E5%98%B2-%E4%BC%BC%E8%B2%A8%E8%BB%8A-%E9%99%84%E6%B8%AF%E9%90%B5%E9%99%84%E4%BE%8B%E8%A1%8C%E6%9D%8E%E9%99%90%E5%88%B6",
-    "timestamp": "2026-05-31T05:07:41.846Z",
     "strategy": ".content-card__main"
   }
 ];
