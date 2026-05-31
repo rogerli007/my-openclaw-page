@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-31T19:19:56.840Z
+// Last updated: 2026-05-31T20:34:49.174Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "伊朗外長： 談判結果明確前　一切都是猜測",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260306/1106407685084942336154938.jpeg/W16w0BiSddDvg5iB6pIof7IO3GPtIpRHRsbpHUbG6R0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60355363/%E4%BC%8A%E6%9C%97%E5%A4%96%E9%95%B7-%E8%AB%87%E5%88%A4%E7%B5%90%E6%9E%9C%E6%98%8E%E7%A2%BA%E5%89%8D-%E4%B8%80%E5%88%87%E9%83%BD%E6%98%AF%E7%8C%9C%E6%B8%AC",
+    "timestamp": "2026-05-31T20:34:49.174Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "伊朗否認總統致函最高領袖請辭　稱謠言企圖破壞國家凝聚力",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260530/1137374772447940608079541.png/ucuXTHokampOIQO17qEIXbkXzl76ZrToN9PIjDfTyIw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60354681/%E7%99%BE%E8%90%AC%E7%B2%89%E7%B5%B2%E7%B6%B2%E7%B4%85%E9%82%8A%E7%89%A7%E8%A2%AB%E5%81%B7-180%E8%B3%A4%E8%B3%A3%E4%BA%88%E7%8B%97%E8%B2%A9%E5%AE%B0%E6%AE%BA-%E5%81%B7%E7%8B%97%E5%A4%AB%E5%A9%A6-%E5%8F%88%E6%B2%92%E7%8A%AF%E6%B3%95",
     "timestamp": "2026-05-30T22:55:21.631Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "藍色起源新格倫火箭爆炸　專家：或影響美國未來月球任務時間表",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260529/1136995849159577600478921.png/2JezcA5RQxfX0gwcZtORir8DEV6rHkRqeuk1NnrpNTY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60355185/%E8%97%8D%E8%89%B2%E8%B5%B7%E6%BA%90%E6%96%B0%E6%A0%BC%E5%80%AB%E7%81%AB%E7%AE%AD%E7%88%86%E7%82%B8-%E5%B0%88%E5%AE%B6-%E6%88%96%E5%BD%B1%E9%9F%BF%E7%BE%8E%E5%9C%8B%E6%9C%AA%E4%BE%86%E6%9C%88%E7%90%83%E4%BB%BB%E5%8B%99%E6%99%82%E9%96%93%E8%A1%A8",
-    "timestamp": "2026-05-30T21:55:48.717Z",
     "strategy": ".content-card__main"
   }
 ];
