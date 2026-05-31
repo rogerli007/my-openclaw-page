@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-31T18:16:13.331Z
+// Last updated: 2026-05-31T18:48:03.621Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "外媒：伊朗總統致函最高領袖請辭　不滿權力遭革命衛隊架空",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260526/1135874411765698560478931.jpeg/9NJbbI5Y90lcVGfvuuD5_9vXxnf7acyDe_1bUnv9W1I?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60355358/%E5%A4%96%E5%AA%92-%E4%BC%8A%E6%9C%97%E7%B8%BD%E7%B5%B1%E8%87%B4%E5%87%BD%E6%9C%80%E9%AB%98%E9%A0%98%E8%A2%96%E8%AB%8B%E8%BE%AD-%E4%B8%8D%E6%BB%BF%E6%AC%8A%E5%8A%9B%E9%81%AD%E9%9D%A9%E5%91%BD%E8%A1%9B%E9%9A%8A%E6%9E%B6%E7%A9%BA",
+    "timestamp": "2026-05-31T18:48:03.621Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "英超冠軍阿仙奴勝利巡遊　北倫敦現人海",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20211109/534711324748288000956074.jpeg/ONoeZzPw6NxZYsRqBSy1tVYXi0AO4PzID0RbSw9EW0s?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60355183/%E8%BB%9F%E9%8A%80%E8%A8%88%E5%8A%83%E6%8A%95%E8%B3%87%E6%B3%95%E5%9C%8B750%E5%84%84%E6%AD%90%E5%85%83-%E6%8E%A8%E5%8B%95ai%E6%95%B8%E6%93%9A%E4%B8%AD%E5%BF%83%E5%BB%BA%E8%A8%AD",
     "timestamp": "2026-05-30T20:32:31.605Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "俄羅斯指責烏克蘭無人機襲擊扎波羅熱核電站　烏軍否認",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20251004/1051042337314050048270145.jpeg/VFFnV73rdT1G7jTWuaJyPeOvvor-1nS5S3YiOUt2Ijk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60355181/%E4%BF%84%E7%BE%85%E6%96%AF%E6%8C%87%E8%B2%AC%E7%83%8F%E5%85%8B%E8%98%AD%E7%84%A1%E4%BA%BA%E6%A9%9F%E8%A5%B2%E6%93%8A%E6%89%8E%E6%B3%A2%E7%BE%85%E7%86%B1%E6%A0%B8%E9%9B%BB%E7%AB%99-%E7%83%8F%E8%BB%8D%E5%90%A6%E8%AA%8D",
-    "timestamp": "2026-05-30T19:50:02.397Z",
     "strategy": ".content-card__main"
   }
 ];
