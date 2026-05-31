@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-31T08:00:46.407Z
+// Last updated: 2026-05-31T09:17:25.024Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "日本熊本手信｜15種限定物　1/300比例熊本城紙模型　武將熊公仔",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260529/1137105505001410560081573.jpeg/NB5CMsrsoR172EHRQJJHu1Ph8Xs2YTTpuxakWbsWpFk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%97%85%E9%81%8A/60342445/%E6%97%A5%E6%9C%AC%E7%86%8A%E6%9C%AC%E6%89%8B%E4%BF%A1-15%E7%A8%AE%E9%99%90%E5%AE%9A%E7%89%A9-1-300%E6%AF%94%E4%BE%8B%E7%86%8A%E6%9C%AC%E5%9F%8E%E7%B4%99%E6%A8%A1%E5%9E%8B-%E6%AD%A6%E5%B0%87%E7%86%8A%E5%85%AC%E4%BB%94",
+    "timestamp": "2026-05-31T09:17:25.024Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "以色列軍攻佔黎巴嫩博福特城堡　逾25年來最深入攻擊",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260529/1137030672418869248801257.jpeg/B1Sz5T_7zlFpTZIjCzYQ6Hxylm-4Rp_SNCBziDQgc4g?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%96%8B%E7%BD%90/60339766/%E6%97%A5%E6%9C%AC-%E9%AD%94%E4%B9%8B%E5%B1%B1-%E6%80%AA%E8%AB%87-2%E7%94%B7%E6%87%B8%E7%A9%BA%E8%A9%AD%E7%95%B0%E5%90%8A%E6%AD%BB-%E5%8D%83%E7%99%BC%E5%AD%90%E5%BD%88%E5%B0%84%E7%B9%A9%E7%AB%9F%E7%84%A1%E4%B8%80%E5%91%BD%E4%B8%AD",
     "timestamp": "2026-05-30T11:06:31.925Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "颱風蓓姬襲港｜義載臨盆孕婦入院　39年後暴風BB盼尋司機親口道謝",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260530/1137367492780363776093587.jpeg/IgFHjfILFBQCj_0sL13_te0XdUwGmYGHw4GhW8OBoVs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60355018/%E9%A2%B1%E9%A2%A8%E8%93%93%E5%A7%AC%E8%A5%B2%E6%B8%AF-%E7%BE%A9%E8%BC%89%E8%87%A8%E7%9B%86%E5%AD%95%E5%A9%A6%E5%85%A5%E9%99%A2-39%E5%B9%B4%E5%BE%8C%E6%9A%B4%E9%A2%A8bb%E7%9B%BC%E5%B0%8B%E5%8F%B8%E6%A9%9F%E8%A6%AA%E5%8F%A3%E9%81%93%E8%AC%9D",
-    "timestamp": "2026-05-30T10:20:24.826Z",
     "strategy": ".content-card__main"
   }
 ];
