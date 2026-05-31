@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-31T22:31:48.052Z
+// Last updated: 2026-05-31T22:57:08.459Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "伊波拉｜巴西再增一宗疑似病例　病人曾訪烏干達",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260601/1137958383958102016693071.jpeg/DbHfs1FEHxwhgjhrWMZiBA0m7Gt-ppd36loaDupaGg4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60355361/%E4%BC%8A%E6%B3%A2%E6%8B%89-%E5%B7%B4%E8%A5%BF%E5%86%8D%E5%A2%9E%E4%B8%80%E5%AE%97%E7%96%91%E4%BC%BC%E7%97%85%E4%BE%8B-%E7%97%85%E4%BA%BA%E6%9B%BE%E8%A8%AA%E7%83%8F%E5%B9%B2%E9%81%94",
+    "timestamp": "2026-05-31T22:57:08.459Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "天氣｜今日有幾陣驟雨　初時局部有雷暴　日間市區約32度",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260530/1137512030111010816371860.png/plED3zoEEui2Q8WhINBiFL5Jun9KKi8kbt4dum7eHbo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60355148/%E5%B1%AF%E9%A6%AC%E7%B6%AB2%E4%BA%BA%E6%90%AC%E9%81%8B%E5%A4%A7%E9%87%8F%E7%B4%99%E7%9A%AE-%E7%9B%AE%E6%93%8A%E8%80%85%E5%98%B2-%E4%BC%BC%E8%B2%A8%E8%BB%8A-%E9%99%84%E6%B8%AF%E9%90%B5%E9%99%84%E4%BE%8B%E8%A1%8C%E6%9D%8E%E9%99%90%E5%88%B6",
     "timestamp": "2026-05-31T05:07:41.846Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "上海男騙14人地鐵站假上班　設荒唐打卡法與入職試牟利　法院判刑",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260530/1137421910968111104301794.png/1h1PMyQR9Gq_GatpqKTXXxh5v8hivd8Fq0FklqtBZJY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60354821/%E4%B8%8A%E6%B5%B7%E7%94%B7%E9%A8%9914%E4%BA%BA%E5%9C%B0%E9%90%B5%E7%AB%99%E5%81%87%E4%B8%8A%E7%8F%AD-%E8%A8%AD%E8%8D%92%E5%94%90%E6%89%93%E5%8D%A1%E6%B3%95%E8%88%87%E5%85%A5%E8%81%B7%E8%A9%A6%E7%89%9F%E5%88%A9-%E6%B3%95%E9%99%A2%E5%88%A4%E5%88%91",
-    "timestamp": "2026-05-31T01:19:22.087Z",
     "strategy": ".content-card__main"
   }
 ];
