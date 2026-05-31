@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-31T05:07:41.846Z
+// Last updated: 2026-05-31T08:00:46.407Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "以色列軍攻佔黎巴嫩博福特城堡　逾25年來最深入攻擊",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260531/1137781053201584128543167.jpeg/H6IfGD0JNPTM_w4Dq-pQnFzBA53OmyAhJ8iySSfIskk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60355270/%E4%BB%A5%E8%89%B2%E5%88%97%E8%BB%8D%E6%94%BB%E4%BD%94%E9%BB%8E%E5%B7%B4%E5%AB%A9%E5%8D%9A%E7%A6%8F%E7%89%B9%E5%9F%8E%E5%A0%A1-%E9%80%BE25%E5%B9%B4%E4%BE%86%E6%9C%80%E6%B7%B1%E5%85%A5%E6%94%BB%E6%93%8A",
+    "timestamp": "2026-05-31T08:00:46.407Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "屯馬綫2人搬運大量紙皮！目擊者嘲：似貨車　附港鐵附例行李限制",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260530/1137367492780363776093587.jpeg/IgFHjfILFBQCj_0sL13_te0XdUwGmYGHw4GhW8OBoVs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60355018/%E9%A2%B1%E9%A2%A8%E8%93%93%E5%A7%AC%E8%A5%B2%E6%B8%AF-%E7%BE%A9%E8%BC%89%E8%87%A8%E7%9B%86%E5%AD%95%E5%A9%A6%E5%85%A5%E9%99%A2-39%E5%B9%B4%E5%BE%8C%E6%9A%B4%E9%A2%A8bb%E7%9B%BC%E5%B0%8B%E5%8F%B8%E6%A9%9F%E8%A6%AA%E5%8F%A3%E9%81%93%E8%AC%9D",
     "timestamp": "2026-05-30T10:20:24.826Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "鄭麗文批民進黨路線危險：無人機不應用來帶飛彈，應該用來帶珍奶",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260526/1135878656065802240423701.jpeg/k1vTylVeLt5ey5TvVWrodnoeI6VGgTv5PhaAaj4WgGo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8F%B0%E7%81%A3%E6%96%B0%E8%81%9E/60355115/%E9%84%AD%E9%BA%97%E6%96%87%E6%89%B9%E6%B0%91%E9%80%B2%E9%BB%A8%E8%B7%AF%E7%B7%9A%E5%8D%B1%E9%9A%AA-%E7%84%A1%E4%BA%BA%E6%A9%9F%E4%B8%8D%E6%87%89%E7%94%A8%E4%BE%86%E5%B8%B6%E9%A3%9B%E5%BD%88-%E6%87%89%E8%A9%B2%E7%94%A8%E4%BE%86%E5%B8%B6%E7%8F%8D%E5%A5%B6",
-    "timestamp": "2026-05-30T09:32:25.281Z",
     "strategy": ".content-card__main"
   }
 ];
