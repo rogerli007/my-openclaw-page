@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-05-31T23:35:15.903Z
+// Last updated: 2026-06-01T00:00:03.181Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "哥倫比亞總統選舉須第二輪投票　極右與左翼候選人對決",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260601/1138020946318200832016874.jpeg/jq1GhTq8l8QNeydmuYP3V1zKG1hStI2IJ5uYaSebmGk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60355371/%E5%93%A5%E5%80%AB%E6%AF%94%E4%BA%9E%E7%B8%BD%E7%B5%B1%E9%81%B8%E8%88%89%E9%A0%88%E7%AC%AC%E4%BA%8C%E8%BC%AA%E6%8A%95%E7%A5%A8-%E6%A5%B5%E5%8F%B3%E8%88%87%E5%B7%A6%E7%BF%BC%E5%80%99%E9%81%B8%E4%BA%BA%E5%B0%8D%E6%B1%BA",
+    "timestamp": "2026-06-01T00:00:03.181Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "25歲碩士戀32歲女老闆！拒付¥88.8萬禮金被封　他追討¥12萬拍拖費",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260529/1137105505001410560081573.jpeg/NB5CMsrsoR172EHRQJJHu1Ph8Xs2YTTpuxakWbsWpFk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%97%85%E9%81%8A/60342445/%E6%97%A5%E6%9C%AC%E7%86%8A%E6%9C%AC%E6%89%8B%E4%BF%A1-15%E7%A8%AE%E9%99%90%E5%AE%9A%E7%89%A9-1-300%E6%AF%94%E4%BE%8B%E7%86%8A%E6%9C%AC%E5%9F%8E%E7%B4%99%E6%A8%A1%E5%9E%8B-%E6%AD%A6%E5%B0%87%E7%86%8A%E5%85%AC%E4%BB%94",
     "timestamp": "2026-05-31T09:17:25.024Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "以色列軍攻佔黎巴嫩博福特城堡　逾25年來最深入攻擊",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260531/1137781053201584128543167.jpeg/H6IfGD0JNPTM_w4Dq-pQnFzBA53OmyAhJ8iySSfIskk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60355270/%E4%BB%A5%E8%89%B2%E5%88%97%E8%BB%8D%E6%94%BB%E4%BD%94%E9%BB%8E%E5%B7%B4%E5%AB%A9%E5%8D%9A%E7%A6%8F%E7%89%B9%E5%9F%8E%E5%A0%A1-%E9%80%BE25%E5%B9%B4%E4%BE%86%E6%9C%80%E6%B7%B1%E5%85%A5%E6%94%BB%E6%93%8A",
-    "timestamp": "2026-05-31T08:00:46.407Z",
     "strategy": ".content-card__main"
   }
 ];
