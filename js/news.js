@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-01T01:16:31.199Z
+// Last updated: 2026-06-01T03:31:37.536Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "沙塵暴+12級狂風+雷雨齊襲哈爾濱　過山車停電遊客倒掛半空｜有片",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260601/1138072738729037824523108.jpeg/imSL4tJNsggHzrwS1xMa9jWyCXSBPfmnmIa88piGvPI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60355413/%E6%B2%99%E5%A1%B5%E6%9A%B4-12%E7%B4%9A%E7%8B%82%E9%A2%A8-%E9%9B%B7%E9%9B%A8%E9%BD%8A%E8%A5%B2%E5%93%88%E7%88%BE%E6%BF%B1-%E9%81%8E%E5%B1%B1%E8%BB%8A%E5%81%9C%E9%9B%BB%E9%81%8A%E5%AE%A2%E5%80%92%E6%8E%9B%E5%8D%8A%E7%A9%BA-%E6%9C%89%E7%89%87",
+    "timestamp": "2026-06-01T03:31:37.536Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "中信建投︰港樓市價量齊升　料擁豐沛土儲發展商明顯受益",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260531/1137802890258157568108724.jpeg/3oO9Ku2VEC5T3WInAjyEqRkFWF-unF_yekAyinpAMoo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60355273/%E4%BB%99%E6%A8%82%E9%A3%84%E9%A3%84%E8%99%95%E8%99%95%E8%81%9E-julie-andrews%E6%BF%80%E7%BD%95%E9%9C%B2%E9%9D%A2-90%E6%AD%B2%E5%AE%B9%E8%B2%8C%E5%AE%87%E5%AE%99%E7%B4%9A%E5%87%8D%E9%BD%A1",
     "timestamp": "2026-05-31T12:15:25.196Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "心理師揭秘情侶6大分手前兆：另一半行為突然變神祕恐陷感情危機",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260415/1121136482820558848978523.jpeg/vUntbXY98-GwaFPj2z6LOm-nNi7qqX2pPxMzcT8TM3E?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%AB%87%E6%83%85%E8%AA%AA%E6%80%A7/60340514/%E5%BF%83%E7%90%86%E5%B8%AB%E6%8F%AD%E7%A7%98%E6%83%85%E4%BE%B66%E5%A4%A7%E5%88%86%E6%89%8B%E5%89%8D%E5%85%86-%E5%8F%A6%E4%B8%80%E5%8D%8A%E8%A1%8C%E7%82%BA%E7%AA%81%E7%84%B6%E8%AE%8A%E7%A5%9E%E7%A5%95%E6%81%90%E9%99%B7%E6%84%9F%E6%83%85%E5%8D%B1%E6%A9%9F",
-    "timestamp": "2026-05-31T11:45:33.195Z",
     "strategy": ".content-card__main"
   }
 ];
