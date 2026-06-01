@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-01T05:19:18.277Z
+// Last updated: 2026-06-01T07:09:11.503Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "內地遊客遊台吃冰驚艷全不踩雷　直呼台灣冰品領先全球十幾年",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260511/1130543833843503104234657.jpeg/PEj79P6KPEGGHvFvtn_tlfW5gIsoTKyRn0TiOp9E4jo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%97%85%E9%81%8A/60348720/%E5%85%A7%E5%9C%B0%E9%81%8A%E5%AE%A2%E9%81%8A%E5%8F%B0%E5%90%83%E5%86%B0%E9%A9%9A%E8%89%B7%E5%85%A8%E4%B8%8D%E8%B8%A9%E9%9B%B7-%E7%9B%B4%E5%91%BC%E5%8F%B0%E7%81%A3%E5%86%B0%E5%93%81%E9%A0%98%E5%85%88%E5%85%A8%E7%90%83%E5%8D%81%E5%B9%BE%E5%B9%B4",
+    "timestamp": "2026-06-01T07:09:11.503Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "AI概念股下挫　智譜及MiniMax瀉1成或以上　恒指最新升259點",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260531/1137881579796828160465271.jpeg/8Lb6MI-pjMmVDwU37Z-6wojgnpXMKDHPTpGZK06RmSs?v=w1920r16_9",
     "url": "https://www.hk01.com/18%E5%8D%80%E6%96%B0%E8%81%9E/60355334/%E6%B2%B9%E9%BA%BB%E5%9C%B0%E5%9C%98%E9%AB%94%E8%BE%A6%E7%A4%BE%E5%8D%80%E6%9C%8D%E5%8B%99%E6%97%A5-15%E9%9A%8A%E9%95%B7%E8%80%85-%E9%9D%92%E5%B9%B4%E7%BE%A9%E5%B7%A5%E9%9A%8A%E6%8E%A2%E8%A8%AA%E5%9F%BA%E5%B1%A4",
     "timestamp": "2026-05-31T14:25:14.784Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "張凌赫現身商場引暴動　狂迷逼爆玻璃門失控直衝　現場驚悚畫面曝",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260531/1137796561602875392362057.png/E6slJHoVFyZ5VNifM2BNFqWu68ffF6e_WVM1OllTNTo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60355282/%E5%BC%B5%E5%87%8C%E8%B5%AB%E7%8F%BE%E8%BA%AB%E5%95%86%E5%A0%B4%E5%BC%95%E6%9A%B4%E5%8B%95-%E7%8B%82%E8%BF%B7%E9%80%BC%E7%88%86%E7%8E%BB%E7%92%83%E9%96%80%E5%A4%B1%E6%8E%A7%E7%9B%B4%E8%A1%9D-%E7%8F%BE%E5%A0%B4%E9%A9%9A%E6%82%9A%E7%95%AB%E9%9D%A2%E6%9B%9D",
-    "timestamp": "2026-05-31T12:52:31.871Z",
     "strategy": ".content-card__main"
   }
 ];
