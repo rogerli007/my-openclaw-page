@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-01T17:28:07.881Z
+// Last updated: 2026-06-01T22:12:27.873Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "楊思琦爆伍詠薇揭出欺凌事件節目內幕　還原經過：唔係我主動講先",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260601/1138258902031273984429150.jpeg/Uu4QhP1cAACAyST_zD2hfU_tcZk-LYhcTUV1BE1FdQQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60355627/%E6%A5%8A%E6%80%9D%E7%90%A6%E7%88%86%E4%BC%8D%E8%A9%A0%E8%96%87%E6%8F%AD%E5%87%BA%E6%AC%BA%E5%87%8C%E4%BA%8B%E4%BB%B6%E7%AF%80%E7%9B%AE%E5%85%A7%E5%B9%95-%E9%82%84%E5%8E%9F%E7%B6%93%E9%81%8E-%E5%94%94%E4%BF%82%E6%88%91%E4%B8%BB%E5%8B%95%E8%AC%9B%E5%85%88",
+    "timestamp": "2026-06-01T22:12:27.873Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "華使館：就中國公民柬埔寨遇害　敦促柬方全力偵辦",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260601/1137923887204405248549301.jpeg/a5hIGUPZLexOJwNV8CP7HSmV9POPSYrIVtQJRVbUCUU",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60355352/%E5%B0%87%E8%BB%8D%E6%BE%B3tesla%E6%85%A2%E6%B5%81%E8%BD%89%E5%BD%8E%E6%92%9E%E6%AF%80%E6%B0%B4%E9%A6%AC%E8%B7%8C%E5%85%A5%E5%9C%B0%E7%9B%A4-%E7%B6%B2%E6%B0%91-%E9%96%8B%E5%92%97%E8%87%AA-%E6%B4%9E-%E9%A7%95%E9%A7%9B",
     "timestamp": "2026-05-31T17:47:14.323Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "緬甸存放礦用炸藥建築物爆炸　至少45死約70人傷",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260601/1137914681847975936782034.png/rjPXYvWSZMVUl_RiF1lJacmSKfjz99whCJSZ4QiUmeE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60355349/%E7%B7%AC%E7%94%B8%E5%AD%98%E6%94%BE%E7%A4%A6%E7%94%A8%E7%82%B8%E8%97%A5%E5%BB%BA%E7%AF%89%E7%89%A9%E7%88%86%E7%82%B8-%E8%87%B3%E5%B0%9145%E6%AD%BB%E7%B4%8470%E4%BA%BA%E5%82%B7",
-    "timestamp": "2026-05-31T17:19:11.698Z",
     "strategy": ".content-card__main"
   }
 ];
