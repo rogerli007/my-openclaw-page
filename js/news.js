@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-01T23:01:53.058Z
+// Last updated: 2026-06-01T23:41:12.363Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "露營奪命！一家四口豪華帳篷內離奇全死　警疑食物或一氧化碳中毒",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260601/1138173940762415104489165.png/a9RKIiGfTrAt0InTIC76KV1_puaoidZInyU_-J8lP_g?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E8%A9%B1%E9%A1%8C/60355415/%E9%9C%B2%E7%87%9F%E5%A5%AA%E5%91%BD-%E4%B8%80%E5%AE%B6%E5%9B%9B%E5%8F%A3%E8%B1%AA%E8%8F%AF%E5%B8%B3%E7%AF%B7%E5%85%A7%E9%9B%A2%E5%A5%87%E5%85%A8%E6%AD%BB-%E8%AD%A6%E7%96%91%E9%A3%9F%E7%89%A9%E6%88%96%E4%B8%80%E6%B0%A7%E5%8C%96%E7%A2%B3%E4%B8%AD%E6%AF%92",
+    "timestamp": "2026-06-01T23:41:12.363Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "吐露港公路私家車自炒撞壆甩3個轆　司機蹤杳　入大埔方向稍阻",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260526/1135874411765698560478931.jpeg/9NJbbI5Y90lcVGfvuuD5_9vXxnf7acyDe_1bUnv9W1I?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60355358/%E5%A4%96%E5%AA%92-%E4%BC%8A%E6%9C%97%E7%B8%BD%E7%B5%B1%E8%87%B4%E5%87%BD%E6%9C%80%E9%AB%98%E9%A0%98%E8%A2%96%E8%AB%8B%E8%BE%AD-%E4%B8%8D%E6%BB%BF%E6%AC%8A%E5%8A%9B%E9%81%AD%E9%9D%A9%E5%91%BD%E8%A1%9B%E9%9A%8A%E6%9E%B6%E7%A9%BA",
     "timestamp": "2026-05-31T18:48:03.621Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "英超冠軍阿仙奴勝利巡遊　北倫敦現人海",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260601/1137932247765094400591340.jpeg/PofGSQd-e-xeiyGJGvLJDf5v0zLYAAMbMCR8qDAkfKg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60355355/%E8%8B%B1%E8%B6%85%E5%86%A0%E8%BB%8D%E9%98%BF%E4%BB%99%E5%A5%B4%E5%8B%9D%E5%88%A9%E5%B7%A1%E9%81%8A-%E5%8C%97%E5%80%AB%E6%95%A6%E7%8F%BE%E4%BA%BA%E6%B5%B7",
-    "timestamp": "2026-05-31T18:16:13.331Z",
     "strategy": ".content-card__main"
   }
 ];
