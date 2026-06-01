@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-01T13:17:00.734Z
+// Last updated: 2026-06-01T17:28:07.881Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "華使館：就中國公民柬埔寨遇害　敦促柬方全力偵辦",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260601/1138064201483292672480321.png/rpRbeZe-t3NBwcSATb9UGDsDqLJyYkZ2z98yW8_fMls?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60355748/%E8%8F%AF%E4%BD%BF%E9%A4%A8-%E5%B0%B1%E4%B8%AD%E5%9C%8B%E5%85%AC%E6%B0%91%E6%9F%AC%E5%9F%94%E5%AF%A8%E9%81%87%E5%AE%B3-%E6%95%A6%E4%BF%83%E6%9F%AC%E6%96%B9%E5%85%A8%E5%8A%9B%E5%81%B5%E8%BE%A6",
+    "timestamp": "2026-06-01T17:28:07.881Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "年輕媽媽帶2歲孩送外賣！孩子躺地扭抱哭鬧 　她崩潰喊：我才22歲",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260601/1137914681847975936782034.png/rjPXYvWSZMVUl_RiF1lJacmSKfjz99whCJSZ4QiUmeE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60355349/%E7%B7%AC%E7%94%B8%E5%AD%98%E6%94%BE%E7%A4%A6%E7%94%A8%E7%82%B8%E8%97%A5%E5%BB%BA%E7%AF%89%E7%89%A9%E7%88%86%E7%82%B8-%E8%87%B3%E5%B0%9145%E6%AD%BB%E7%B4%8470%E4%BA%BA%E5%82%B7",
     "timestamp": "2026-05-31T17:19:11.698Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "農夫不堪回首窮到燶日子　日食一餐叮飯兩個人夾100蚊先撳到錢",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260531/1137869944919166976739240.jpeg/8sdv0HxwCIG64I6Zof0HX0GG0L5VOUJSa54gMmueIDI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60355321/%E8%BE%B2%E5%A4%AB%E4%B8%8D%E5%A0%AA%E5%9B%9E%E9%A6%96%E7%AA%AE%E5%88%B0%E7%87%B6%E6%97%A5%E5%AD%90-%E6%97%A5%E9%A3%9F%E4%B8%80%E9%A4%90%E5%8F%AE%E9%A3%AF%E5%85%A9%E5%80%8B%E4%BA%BA%E5%A4%BE100%E8%9A%8A%E5%85%88%E6%92%B3%E5%88%B0%E9%8C%A2",
-    "timestamp": "2026-05-31T16:19:42.210Z",
     "strategy": ".content-card__main"
   }
 ];
