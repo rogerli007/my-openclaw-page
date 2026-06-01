@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-01T03:31:37.536Z
+// Last updated: 2026-06-01T05:19:18.277Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "AI概念股下挫　智譜及MiniMax瀉1成或以上　恒指最新升259點",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/20200323/318722061998624768.jpeg/LSfRNWrV7lVrcAnLBmgdDgCdfjcl0oWG6YW82emFvNk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60355516/ai%E6%A6%82%E5%BF%B5%E8%82%A1%E4%B8%8B%E6%8C%AB-%E6%99%BA%E8%AD%9C%E5%8F%8Aminimax%E7%80%891%E6%88%90%E6%88%96%E4%BB%A5%E4%B8%8A-%E6%81%92%E6%8C%87%E6%9C%80%E6%96%B0%E5%8D%87259%E9%BB%9E",
+    "timestamp": "2026-06-01T05:19:18.277Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "沙塵暴+12級狂風+雷雨齊襲哈爾濱　過山車停電遊客倒掛半空｜有片",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260531/1137796561602875392362057.png/E6slJHoVFyZ5VNifM2BNFqWu68ffF6e_WVM1OllTNTo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60355282/%E5%BC%B5%E5%87%8C%E8%B5%AB%E7%8F%BE%E8%BA%AB%E5%95%86%E5%A0%B4%E5%BC%95%E6%9A%B4%E5%8B%95-%E7%8B%82%E8%BF%B7%E9%80%BC%E7%88%86%E7%8E%BB%E7%92%83%E9%96%80%E5%A4%B1%E6%8E%A7%E7%9B%B4%E8%A1%9D-%E7%8F%BE%E5%A0%B4%E9%A9%9A%E6%82%9A%E7%95%AB%E9%9D%A2%E6%9B%9D",
     "timestamp": "2026-05-31T12:52:31.871Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "《仙樂飄飄處處聞》Julie Andrews激罕露面　90歲容貌宇宙級凍齡",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260531/1137802890258157568108724.jpeg/3oO9Ku2VEC5T3WInAjyEqRkFWF-unF_yekAyinpAMoo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60355273/%E4%BB%99%E6%A8%82%E9%A3%84%E9%A3%84%E8%99%95%E8%99%95%E8%81%9E-julie-andrews%E6%BF%80%E7%BD%95%E9%9C%B2%E9%9D%A2-90%E6%AD%B2%E5%AE%B9%E8%B2%8C%E5%AE%87%E5%AE%99%E7%B4%9A%E5%87%8D%E9%BD%A1",
-    "timestamp": "2026-05-31T12:15:25.196Z",
     "strategy": ".content-card__main"
   }
 ];
