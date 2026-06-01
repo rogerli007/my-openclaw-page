@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-01T11:04:57.669Z
+// Last updated: 2026-06-01T13:17:00.734Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "年輕媽媽帶2歲孩送外賣！孩子躺地扭抱哭鬧 　她崩潰喊：我才22歲",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260601/1138140216918282240918652.png/uHU3twQHh13kWw_qDbXOKRL2hOm3q09Z9fgzJ_X4Myc",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60351764/%E5%B9%B4%E8%BC%95%E5%AA%BD%E5%AA%BD%E5%B8%B62%E6%AD%B2%E5%AD%A9%E9%80%81%E5%A4%96%E8%B3%A3-%E5%AD%A9%E5%AD%90%E8%BA%BA%E5%9C%B0%E6%89%AD%E6%8A%B1%E5%93%AD%E9%AC%A7-%E5%A5%B9%E5%B4%A9%E6%BD%B0%E5%96%8A-%E6%88%91%E6%89%8D22%E6%AD%B2",
+    "timestamp": "2026-06-01T13:17:00.734Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "葵涌石蔭路車禍｜65歲單車漢遭九巴捲入車底　65歲車長涉危駕被捕",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260531/1137869944919166976739240.jpeg/8sdv0HxwCIG64I6Zof0HX0GG0L5VOUJSa54gMmueIDI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60355321/%E8%BE%B2%E5%A4%AB%E4%B8%8D%E5%A0%AA%E5%9B%9E%E9%A6%96%E7%AA%AE%E5%88%B0%E7%87%B6%E6%97%A5%E5%AD%90-%E6%97%A5%E9%A3%9F%E4%B8%80%E9%A4%90%E5%8F%AE%E9%A3%AF%E5%85%A9%E5%80%8B%E4%BA%BA%E5%A4%BE100%E8%9A%8A%E5%85%88%E6%92%B3%E5%88%B0%E9%8C%A2",
     "timestamp": "2026-05-31T16:19:42.210Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "ZPOT即場為成員唱生日歌慶生　周德誠收粉絲送蛋糕感動到喊",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260531/1137594319889240064698413.jpeg/jhahVKiXJaesboqi8kYc2HAJ21YwOPe74v3p-tj96fo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60355182/zpot%E5%8D%B3%E5%A0%B4%E7%82%BA%E6%88%90%E5%93%A1%E5%94%B1%E7%94%9F%E6%97%A5%E6%AD%8C%E6%85%B6%E7%94%9F-%E5%91%A8%E5%BE%B7%E8%AA%A0%E6%94%B6%E7%B2%89%E7%B5%B2%E9%80%81%E8%9B%8B%E7%B3%95%E6%84%9F%E5%8B%95%E5%88%B0%E5%96%8A",
-    "timestamp": "2026-05-31T15:47:56.735Z",
     "strategy": ".content-card__main"
   }
 ];
