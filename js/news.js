@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-01T22:12:27.873Z
+// Last updated: 2026-06-01T23:01:53.058Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "吐露港公路私家車自炒撞壆甩3個轆　司機蹤杳　入大埔方向稍阻",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260602/1138370637811683328247608.jpeg/UhCoP5aapMbYYOQ4qFoMdI2jPQGqjCEZLiFASQshQEk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60355764/%E5%90%90%E9%9C%B2%E6%B8%AF%E5%85%AC%E8%B7%AF%E7%A7%81%E5%AE%B6%E8%BB%8A%E8%87%AA%E7%82%92%E6%92%9E%E5%A3%86%E7%94%A93%E5%80%8B%E8%BD%86-%E5%8F%B8%E6%A9%9F%E8%B9%A4%E6%9D%B3-%E5%85%A5%E5%A4%A7%E5%9F%94%E6%96%B9%E5%90%91%E7%A8%8D%E9%98%BB",
+    "timestamp": "2026-06-01T23:01:53.058Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "楊思琦爆伍詠薇揭出欺凌事件節目內幕　還原經過：唔係我主動講先",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260601/1137932247765094400591340.jpeg/PofGSQd-e-xeiyGJGvLJDf5v0zLYAAMbMCR8qDAkfKg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60355355/%E8%8B%B1%E8%B6%85%E5%86%A0%E8%BB%8D%E9%98%BF%E4%BB%99%E5%A5%B4%E5%8B%9D%E5%88%A9%E5%B7%A1%E9%81%8A-%E5%8C%97%E5%80%AB%E6%95%A6%E7%8F%BE%E4%BA%BA%E6%B5%B7",
     "timestamp": "2026-05-31T18:16:13.331Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "將軍澳TESLA慢流轉彎撞毀水馬跌入地盤　網民：開咗自「洞」駕駛?",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260601/1137923887204405248549301.jpeg/a5hIGUPZLexOJwNV8CP7HSmV9POPSYrIVtQJRVbUCUU",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60355352/%E5%B0%87%E8%BB%8D%E6%BE%B3tesla%E6%85%A2%E6%B5%81%E8%BD%89%E5%BD%8E%E6%92%9E%E6%AF%80%E6%B0%B4%E9%A6%AC%E8%B7%8C%E5%85%A5%E5%9C%B0%E7%9B%A4-%E7%B6%B2%E6%B0%91-%E9%96%8B%E5%92%97%E8%87%AA-%E6%B4%9E-%E9%A7%95%E9%A7%9B",
-    "timestamp": "2026-05-31T17:47:14.323Z",
     "strategy": ".content-card__main"
   }
 ];
