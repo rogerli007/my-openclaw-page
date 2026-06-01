@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-01T00:00:03.181Z
+// Last updated: 2026-06-01T01:16:31.199Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "中信建投︰港樓市價量齊升　料擁豐沛土儲發展商明顯受益",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260528/1136668658777460736745862.jpeg/zPHLT7qia0ExLK4tm5IXZ1G0GTwTs7nJRtXDskbVw7I?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60355381/%E4%B8%AD%E4%BF%A1%E5%BB%BA%E6%8A%95-%E6%B8%AF%E6%A8%93%E5%B8%82%E5%83%B9%E9%87%8F%E9%BD%8A%E5%8D%87-%E6%96%99%E6%93%81%E8%B1%90%E6%B2%9B%E5%9C%9F%E5%84%B2%E7%99%BC%E5%B1%95%E5%95%86%E6%98%8E%E9%A1%AF%E5%8F%97%E7%9B%8A",
+    "timestamp": "2026-06-01T01:16:31.199Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "哥倫比亞總統選舉須第二輪投票　極右與左翼候選人對決",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260415/1121136482820558848978523.jpeg/vUntbXY98-GwaFPj2z6LOm-nNi7qqX2pPxMzcT8TM3E?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%AB%87%E6%83%85%E8%AA%AA%E6%80%A7/60340514/%E5%BF%83%E7%90%86%E5%B8%AB%E6%8F%AD%E7%A7%98%E6%83%85%E4%BE%B66%E5%A4%A7%E5%88%86%E6%89%8B%E5%89%8D%E5%85%86-%E5%8F%A6%E4%B8%80%E5%8D%8A%E8%A1%8C%E7%82%BA%E7%AA%81%E7%84%B6%E8%AE%8A%E7%A5%9E%E7%A5%95%E6%81%90%E9%99%B7%E6%84%9F%E6%83%85%E5%8D%B1%E6%A9%9F",
     "timestamp": "2026-05-31T11:45:33.195Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "日本熊本手信｜15種限定物　1/300比例熊本城紙模型　武將熊公仔",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260529/1137105505001410560081573.jpeg/NB5CMsrsoR172EHRQJJHu1Ph8Xs2YTTpuxakWbsWpFk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%97%85%E9%81%8A/60342445/%E6%97%A5%E6%9C%AC%E7%86%8A%E6%9C%AC%E6%89%8B%E4%BF%A1-15%E7%A8%AE%E9%99%90%E5%AE%9A%E7%89%A9-1-300%E6%AF%94%E4%BE%8B%E7%86%8A%E6%9C%AC%E5%9F%8E%E7%B4%99%E6%A8%A1%E5%9E%8B-%E6%AD%A6%E5%B0%87%E7%86%8A%E5%85%AC%E4%BB%94",
-    "timestamp": "2026-05-31T09:17:25.024Z",
     "strategy": ".content-card__main"
   }
 ];
