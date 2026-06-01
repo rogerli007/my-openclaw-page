@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-01T09:09:15.291Z
+// Last updated: 2026-06-01T11:04:57.669Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "葵涌石蔭路車禍｜65歲單車漢遭九巴捲入車底　65歲車長涉危駕被捕",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260601/1138145846752186368013695.jpeg/jRZkZpBB-29xRHnulHCIK4_UAvgWRBf4eGwYfW5sGH0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60355642/%E8%91%B5%E6%B6%8C%E7%9F%B3%E8%94%AD%E8%B7%AF%E8%BB%8A%E7%A6%8D-65%E6%AD%B2%E5%96%AE%E8%BB%8A%E6%BC%A2%E9%81%AD%E4%B9%9D%E5%B7%B4%E6%8D%B2%E5%85%A5%E8%BB%8A%E5%BA%95-65%E6%AD%B2%E8%BB%8A%E9%95%B7%E6%B6%89%E5%8D%B1%E9%A7%95%E8%A2%AB%E6%8D%95",
+    "timestamp": "2026-06-01T11:04:57.669Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "尖沙咀天價無人機求婚主角曝光　網民激讚新郎：浪漫過鍾培生",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260531/1137594319889240064698413.jpeg/jhahVKiXJaesboqi8kYc2HAJ21YwOPe74v3p-tj96fo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60355182/zpot%E5%8D%B3%E5%A0%B4%E7%82%BA%E6%88%90%E5%93%A1%E5%94%B1%E7%94%9F%E6%97%A5%E6%AD%8C%E6%85%B6%E7%94%9F-%E5%91%A8%E5%BE%B7%E8%AA%A0%E6%94%B6%E7%B2%89%E7%B5%B2%E9%80%81%E8%9B%8B%E7%B3%95%E6%84%9F%E5%8B%95%E5%88%B0%E5%96%8A",
     "timestamp": "2026-05-31T15:47:56.735Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "壁屋懲教所飯堂還押男囚犯大戰　「10打2」釀3傷　懲教交警方調查",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/900529/org/eb17c3d41fb69d5fae4c008e2391a61f.jpg/JXOkIANVI2Jpmw88QrCuSw4nBT_oCXRZust6m7rLeps?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60355342/%E5%A3%81%E5%B1%8B%E6%87%B2%E6%95%99%E6%89%80%E9%A3%AF%E5%A0%82%E9%82%84%E6%8A%BC%E7%94%B7%E5%9B%9A%E7%8A%AF%E5%A4%A7%E6%88%B0-10%E6%89%932-%E9%87%803%E5%82%B7-%E6%87%B2%E6%95%99%E4%BA%A4%E8%AD%A6%E6%96%B9%E8%AA%BF%E6%9F%A5",
-    "timestamp": "2026-05-31T15:06:44.024Z",
     "strategy": ".content-card__main"
   }
 ];
