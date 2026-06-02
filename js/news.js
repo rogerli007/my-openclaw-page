@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-02T10:44:40.848Z
+// Last updated: 2026-06-02T12:14:54.601Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "秀茂坪安泰邨停車場21歲青年墮樓　送院搶救後不治",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250520/1001644370325147648278436.jpeg/aVrtsMVCxbsB8jbuRqek3nlhIVTjOtBFnqgcd6SoHHc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60356157/%E7%A7%80%E8%8C%82%E5%9D%AA%E5%AE%89%E6%B3%B0%E9%82%A8%E5%81%9C%E8%BB%8A%E5%A0%B421%E6%AD%B2%E9%9D%92%E5%B9%B4%E5%A2%AE%E6%A8%93-%E9%80%81%E9%99%A2%E6%90%B6%E6%95%91%E5%BE%8C%E4%B8%8D%E6%B2%BB",
+    "timestamp": "2026-06-02T12:14:54.601Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美國開始尊重中國後，中國周邊形勢為何沒有隨之大變？",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260530/1137472540214562816207485.png/9ywXdaOYEPA_0GJ7q_r2IvDxREk_hn16vegIpL3oCKQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60354377/25%E6%AD%B2%E7%A2%A9%E5%A3%AB%E6%88%8032%E6%AD%B2%E5%A5%B3%E8%80%81%E9%97%86-%E6%8B%92%E4%BB%98-88-8%E8%90%AC%E7%A6%AE%E9%87%91%E8%A2%AB%E5%B0%81-%E4%BB%96%E8%BF%BD%E8%A8%8E-12%E8%90%AC%E6%8B%8D%E6%8B%96%E8%B2%BB",
     "timestamp": "2026-05-31T23:35:15.903Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "伊波拉｜巴西再增一宗疑似病例　病人曾訪烏干達",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260601/1137958383958102016693071.jpeg/DbHfs1FEHxwhgjhrWMZiBA0m7Gt-ppd36loaDupaGg4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60355361/%E4%BC%8A%E6%B3%A2%E6%8B%89-%E5%B7%B4%E8%A5%BF%E5%86%8D%E5%A2%9E%E4%B8%80%E5%AE%97%E7%96%91%E4%BC%BC%E7%97%85%E4%BE%8B-%E7%97%85%E4%BA%BA%E6%9B%BE%E8%A8%AA%E7%83%8F%E5%B9%B2%E9%81%94",
-    "timestamp": "2026-05-31T22:57:08.459Z",
     "strategy": ".content-card__main"
   }
 ];
