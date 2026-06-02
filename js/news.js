@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-02T02:32:00.556Z
+// Last updated: 2026-06-02T05:46:52.516Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "世界盃｜中金料6月澳門賭收最多為210億澳門元　賽事或起分流作用",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20231221/814533393969582080075491.jpeg/G__FgTn0f1kGuyP765zmsN1jW9APxZvhnExi9apMYvU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60355935/%E4%B8%96%E7%95%8C%E7%9B%83-%E4%B8%AD%E9%87%91%E6%96%996%E6%9C%88%E6%BE%B3%E9%96%80%E8%B3%AD%E6%94%B6%E6%9C%80%E5%A4%9A%E7%82%BA210%E5%84%84%E6%BE%B3%E9%96%80%E5%85%83-%E8%B3%BD%E4%BA%8B%E6%88%96%E8%B5%B7%E5%88%86%E6%B5%81%E4%BD%9C%E7%94%A8",
+    "timestamp": "2026-06-02T05:46:52.516Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美團飆逾7%　上季業績優預期　料次季外賣業績UE顯著改善｜異動股",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260601/1137979906303463424087651.jpeg/bJ9fA1IDrgqZo015MYE_TgBOYhgcJbaUr1y-va9cvr0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60355366/%E4%BB%A5%E6%93%9A%E6%8C%87%E5%B0%8B%E7%BE%8E%E6%94%AF%E6%8C%81%E6%93%B4%E5%A4%A7%E6%89%93%E6%93%8A%E7%9C%9F%E4%B8%BB%E9%BB%A8-%E9%A6%AC%E5%85%8B%E9%BE%8D%E7%A8%B1%E9%BB%8E%E5%B1%80%E5%8B%A2%E5%8D%87%E7%B4%9A%E4%B9%8F%E6%AD%A3%E7%95%B6%E7%90%86%E7%94%B1",
     "timestamp": "2026-05-31T22:00:19.836Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "以據指尋美支持擴大打擊真主黨　馬克龍稱黎局勢升級乏正當理由",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260601/1137979906303463424087651.jpeg/bJ9fA1IDrgqZo015MYE_TgBOYhgcJbaUr1y-va9cvr0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60355366/%E4%BB%A5%E6%93%9A%E6%8C%87%E5%B0%8B%E7%BE%8E%E6%94%AF%E6%8C%81%E6%93%B4%E5%A4%A7%E6%89%93%E6%93%8A%E7%9C%9F%E4%B8%BB%E9%BB%A8-%E9%A6%AC%E5%85%8B%E9%BE%8D%E7%A8%B1%E9%BB%8E%E5%B1%80%E5%8B%A2%E5%8D%87%E7%B4%9A%E4%B9%8F%E6%AD%A3%E7%95%B6%E7%90%86%E7%94%B1",
-    "timestamp": "2026-05-31T21:31:50.418Z",
     "strategy": ".content-card__main"
   }
 ];
