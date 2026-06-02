@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-02T13:45:05.459Z
+// Last updated: 2026-06-02T15:11:16.162Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美股｜道指早段曾升逾百點　油價微跌",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20241017/923388310229880832906412.jpeg/2GEab4LIHmPQmeHCF4YJ6pp-mnXgApr5pVJ_M6VSfzM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60356188/%E7%BE%8E%E8%82%A1-%E9%81%93%E6%8C%87%E6%97%A9%E6%AE%B5%E6%9B%BE%E5%8D%87%E9%80%BE%E7%99%BE%E9%BB%9E-%E6%B2%B9%E5%83%B9%E5%BE%AE%E8%B7%8C",
+    "timestamp": "2026-06-02T15:11:16.162Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "冷氣機噴出一堆曱甴屎嚇壞女網友　內行人：分體式會有蟑螂爬進來",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260528/1136668658777460736745862.jpeg/zPHLT7qia0ExLK4tm5IXZ1G0GTwTs7nJRtXDskbVw7I?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60355381/%E4%B8%AD%E4%BF%A1%E5%BB%BA%E6%8A%95-%E6%B8%AF%E6%A8%93%E5%B8%82%E5%83%B9%E9%87%8F%E9%BD%8A%E5%8D%87-%E6%96%99%E6%93%81%E8%B1%90%E6%B2%9B%E5%9C%9F%E5%84%B2%E7%99%BC%E5%B1%95%E5%95%86%E6%98%8E%E9%A1%AF%E5%8F%97%E7%9B%8A",
     "timestamp": "2026-06-01T01:16:31.199Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "哥倫比亞總統選舉須第二輪投票　極右與左翼候選人對決",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260601/1138020946318200832016874.jpeg/jq1GhTq8l8QNeydmuYP3V1zKG1hStI2IJ5uYaSebmGk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60355371/%E5%93%A5%E5%80%AB%E6%AF%94%E4%BA%9E%E7%B8%BD%E7%B5%B1%E9%81%B8%E8%88%89%E9%A0%88%E7%AC%AC%E4%BA%8C%E8%BC%AA%E6%8A%95%E7%A5%A8-%E6%A5%B5%E5%8F%B3%E8%88%87%E5%B7%A6%E7%BF%BC%E5%80%99%E9%81%B8%E4%BA%BA%E5%B0%8D%E6%B1%BA",
-    "timestamp": "2026-06-01T00:00:03.181Z",
     "strategy": ".content-card__main"
   }
 ];
