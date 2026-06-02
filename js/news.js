@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-02T01:31:49.256Z
+// Last updated: 2026-06-02T02:32:00.556Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美團飆逾7%　上季業績優預期　料次季外賣業績UE顯著改善｜異動股",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20240418/857602664421134336925640.jpeg/101_T_FJlpDz4NBS9vCNiIJEJpIOXcTcYHU0BGB1NAQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60355808/%E7%BE%8E%E5%9C%98%E9%A3%86%E9%80%BE7-%E4%B8%8A%E5%AD%A3%E6%A5%AD%E7%B8%BE%E5%84%AA%E9%A0%90%E6%9C%9F-%E6%96%99%E6%AC%A1%E5%AD%A3%E5%A4%96%E8%B3%A3%E6%A5%AD%E7%B8%BEue%E9%A1%AF%E8%91%97%E6%94%B9%E5%96%84-%E7%95%B0%E5%8B%95%E8%82%A1",
+    "timestamp": "2026-06-02T02:32:00.556Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "印尼金礦商Merdeka在港上市獲批　曾傳擬籌39億元｜新股IPO",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260601/1137979906303463424087651.jpeg/bJ9fA1IDrgqZo015MYE_TgBOYhgcJbaUr1y-va9cvr0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60355366/%E4%BB%A5%E6%93%9A%E6%8C%87%E5%B0%8B%E7%BE%8E%E6%94%AF%E6%8C%81%E6%93%B4%E5%A4%A7%E6%89%93%E6%93%8A%E7%9C%9F%E4%B8%BB%E9%BB%A8-%E9%A6%AC%E5%85%8B%E9%BE%8D%E7%A8%B1%E9%BB%8E%E5%B1%80%E5%8B%A2%E5%8D%87%E7%B4%9A%E4%B9%8F%E6%AD%A3%E7%95%B6%E7%90%86%E7%94%B1",
     "timestamp": "2026-05-31T21:31:50.418Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "伊朗外長： 談判結果明確前　一切都是猜測",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260306/1106407685084942336154938.jpeg/W16w0BiSddDvg5iB6pIof7IO3GPtIpRHRsbpHUbG6R0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60355363/%E4%BC%8A%E6%9C%97%E5%A4%96%E9%95%B7-%E8%AB%87%E5%88%A4%E7%B5%90%E6%9E%9C%E6%98%8E%E7%A2%BA%E5%89%8D-%E4%B8%80%E5%88%87%E9%83%BD%E6%98%AF%E7%8C%9C%E6%B8%AC",
-    "timestamp": "2026-05-31T20:34:49.174Z",
     "strategy": ".content-card__main"
   }
 ];
