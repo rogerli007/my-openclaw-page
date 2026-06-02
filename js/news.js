@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-02T05:46:52.516Z
+// Last updated: 2026-06-02T07:21:03.002Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "宏福苑業主要求召開業主大會　管理人合安求延期　遭法庭拒絕",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260601/1138176549846126592576842.jpeg/5fBJn3V1zdcmmeozh7lD-k0Y-hIYm_R1yFQvde1UL3U?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60355942/%E5%AE%8F%E7%A6%8F%E8%8B%91%E6%A5%AD%E4%B8%BB%E8%A6%81%E6%B1%82%E5%8F%AC%E9%96%8B%E6%A5%AD%E4%B8%BB%E5%A4%A7%E6%9C%83-%E7%AE%A1%E7%90%86%E4%BA%BA%E5%90%88%E5%AE%89%E6%B1%82%E5%BB%B6%E6%9C%9F-%E9%81%AD%E6%B3%95%E5%BA%AD%E6%8B%92%E7%B5%95",
+    "timestamp": "2026-06-02T07:21:03.002Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "世界盃｜中金料6月澳門賭收最多為210億澳門元　賽事或起分流作用",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260601/1137997355195305984109623.jpeg/J8tCJsKSnYF_9EQl3YSN8nEe4ftwXImROWwdjjlsHY4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60355357/%E5%A4%A9%E6%B0%A3-%E4%BB%8A%E6%97%A5%E6%9C%89%E5%B9%BE%E9%99%A3%E9%A9%9F%E9%9B%A8-%E5%88%9D%E6%99%82%E5%B1%80%E9%83%A8%E6%9C%89%E9%9B%B7%E6%9A%B4-%E6%97%A5%E9%96%93%E5%B8%82%E5%8D%80%E7%B4%8432%E5%BA%A6",
     "timestamp": "2026-05-31T22:31:48.052Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "以據指尋美支持擴大打擊真主黨　馬克龍稱黎局勢升級乏正當理由",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260601/1137979906303463424087651.jpeg/bJ9fA1IDrgqZo015MYE_TgBOYhgcJbaUr1y-va9cvr0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60355366/%E4%BB%A5%E6%93%9A%E6%8C%87%E5%B0%8B%E7%BE%8E%E6%94%AF%E6%8C%81%E6%93%B4%E5%A4%A7%E6%89%93%E6%93%8A%E7%9C%9F%E4%B8%BB%E9%BB%A8-%E9%A6%AC%E5%85%8B%E9%BE%8D%E7%A8%B1%E9%BB%8E%E5%B1%80%E5%8B%A2%E5%8D%87%E7%B4%9A%E4%B9%8F%E6%AD%A3%E7%95%B6%E7%90%86%E7%94%B1",
-    "timestamp": "2026-05-31T22:00:19.836Z",
     "strategy": ".content-card__main"
   }
 ];
