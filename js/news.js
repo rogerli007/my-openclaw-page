@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-02T19:52:19.678Z
+// Last updated: 2026-06-02T21:16:18.564Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "特朗普：白宮記者協會晚宴7月24日重新舉行　已獲邀請並計劃出席",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260426/1125054364159840256438270.jpeg/dt2IcjZiQ0yjpW5Iv6DwvHi_3OibGTMe-SoFXPkqBVw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60356213/%E7%89%B9%E6%9C%97%E6%99%AE-%E7%99%BD%E5%AE%AE%E8%A8%98%E8%80%85%E5%8D%94%E6%9C%83%E6%99%9A%E5%AE%B47%E6%9C%8824%E6%97%A5%E9%87%8D%E6%96%B0%E8%88%89%E8%A1%8C-%E5%B7%B2%E7%8D%B2%E9%82%80%E8%AB%8B%E4%B8%A6%E8%A8%88%E5%8A%83%E5%87%BA%E5%B8%AD",
+    "timestamp": "2026-06-02T21:16:18.564Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "比特幣一度跌穿6.7萬美元　跌幅逾6%",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260511/1130543833843503104234657.jpeg/PEj79P6KPEGGHvFvtn_tlfW5gIsoTKyRn0TiOp9E4jo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%97%85%E9%81%8A/60348720/%E5%85%A7%E5%9C%B0%E9%81%8A%E5%AE%A2%E9%81%8A%E5%8F%B0%E5%90%83%E5%86%B0%E9%A9%9A%E8%89%B7%E5%85%A8%E4%B8%8D%E8%B8%A9%E9%9B%B7-%E7%9B%B4%E5%91%BC%E5%8F%B0%E7%81%A3%E5%86%B0%E5%93%81%E9%A0%98%E5%85%88%E5%85%A8%E7%90%83%E5%8D%81%E5%B9%BE%E5%B9%B4",
     "timestamp": "2026-06-01T07:09:11.503Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "AI概念股下挫　智譜及MiniMax瀉1成或以上　恒指最新升259點",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/20200323/318722061998624768.jpeg/LSfRNWrV7lVrcAnLBmgdDgCdfjcl0oWG6YW82emFvNk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60355516/ai%E6%A6%82%E5%BF%B5%E8%82%A1%E4%B8%8B%E6%8C%AB-%E6%99%BA%E8%AD%9C%E5%8F%8Aminimax%E7%80%891%E6%88%90%E6%88%96%E4%BB%A5%E4%B8%8A-%E6%81%92%E6%8C%87%E6%9C%80%E6%96%B0%E5%8D%87259%E9%BB%9E",
-    "timestamp": "2026-06-01T05:19:18.277Z",
     "strategy": ".content-card__main"
   }
 ];
