@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-02T12:14:54.601Z
+// Last updated: 2026-06-02T13:45:05.459Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "冷氣機噴出一堆曱甴屎嚇壞女網友　內行人：分體式會有蟑螂爬進來",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260602/1138425840644657152286175.jpeg/zbXSekGJtyYNnAsQlMQchnsQrYQYsga5bsPCOjjDwjo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60332556/%E5%86%B7%E6%B0%A3%E6%A9%9F%E5%99%B4%E5%87%BA%E4%B8%80%E5%A0%86%E6%9B%B1%E7%94%B4%E5%B1%8E%E5%9A%87%E5%A3%9E%E5%A5%B3%E7%B6%B2%E5%8F%8B-%E5%85%A7%E8%A1%8C%E4%BA%BA-%E5%88%86%E9%AB%94%E5%BC%8F%E6%9C%83%E6%9C%89%E8%9F%91%E8%9E%82%E7%88%AC%E9%80%B2%E4%BE%86",
+    "timestamp": "2026-06-02T13:45:05.459Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "秀茂坪安泰邨停車場21歲青年墮樓　送院搶救後不治",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260601/1138020946318200832016874.jpeg/jq1GhTq8l8QNeydmuYP3V1zKG1hStI2IJ5uYaSebmGk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60355371/%E5%93%A5%E5%80%AB%E6%AF%94%E4%BA%9E%E7%B8%BD%E7%B5%B1%E9%81%B8%E8%88%89%E9%A0%88%E7%AC%AC%E4%BA%8C%E8%BC%AA%E6%8A%95%E7%A5%A8-%E6%A5%B5%E5%8F%B3%E8%88%87%E5%B7%A6%E7%BF%BC%E5%80%99%E9%81%B8%E4%BA%BA%E5%B0%8D%E6%B1%BA",
     "timestamp": "2026-06-01T00:00:03.181Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "25歲碩士戀32歲女老闆！拒付¥88.8萬禮金被封　他追討¥12萬拍拖費",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260530/1137472540214562816207485.png/9ywXdaOYEPA_0GJ7q_r2IvDxREk_hn16vegIpL3oCKQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60354377/25%E6%AD%B2%E7%A2%A9%E5%A3%AB%E6%88%8032%E6%AD%B2%E5%A5%B3%E8%80%81%E9%97%86-%E6%8B%92%E4%BB%98-88-8%E8%90%AC%E7%A6%AE%E9%87%91%E8%A2%AB%E5%B0%81-%E4%BB%96%E8%BF%BD%E8%A8%8E-12%E8%90%AC%E6%8B%8D%E6%8B%96%E8%B2%BB",
-    "timestamp": "2026-05-31T23:35:15.903Z",
     "strategy": ".content-card__main"
   }
 ];
