@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-02T00:16:33.127Z
+// Last updated: 2026-06-02T01:31:49.256Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "印尼金礦商Merdeka在港上市獲批　曾傳擬籌39億元｜新股IPO",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260602/1138410157886148608432018.jpeg/KGYNw-QErU9vNmtbCtASVYaq7L-p89W2lM7yZ5TO8mc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60355781/%E5%8D%B0%E5%B0%BC%E9%87%91%E7%A4%A6%E5%95%86merdeka%E5%9C%A8%E6%B8%AF%E4%B8%8A%E5%B8%82%E7%8D%B2%E6%89%B9-%E6%9B%BE%E5%82%B3%E6%93%AC%E7%B1%8C39%E5%84%84%E5%85%83-%E6%96%B0%E8%82%A1ipo",
+    "timestamp": "2026-06-02T01:31:49.256Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "將軍澳馬游塘的士入錯小路　撞壆爆胎險墮崖　司機：幾有經驗都死",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260306/1106407685084942336154938.jpeg/W16w0BiSddDvg5iB6pIof7IO3GPtIpRHRsbpHUbG6R0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60355363/%E4%BC%8A%E6%9C%97%E5%A4%96%E9%95%B7-%E8%AB%87%E5%88%A4%E7%B5%90%E6%9E%9C%E6%98%8E%E7%A2%BA%E5%89%8D-%E4%B8%80%E5%88%87%E9%83%BD%E6%98%AF%E7%8C%9C%E6%B8%AC",
     "timestamp": "2026-05-31T20:34:49.174Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "伊朗否認總統致函最高領袖請辭　稱謠言企圖破壞國家凝聚力",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260526/1135874411765698560478931.jpeg/9NJbbI5Y90lcVGfvuuD5_9vXxnf7acyDe_1bUnv9W1I?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60355358/%E4%BC%8A%E6%9C%97%E5%90%A6%E8%AA%8D%E7%B8%BD%E7%B5%B1%E8%87%B4%E5%87%BD%E6%9C%80%E9%AB%98%E9%A0%98%E8%A2%96%E8%AB%8B%E8%BE%AD-%E7%A8%B1%E8%AC%A0%E8%A8%80%E4%BC%81%E5%9C%96%E7%A0%B4%E5%A3%9E%E5%9C%8B%E5%AE%B6%E5%87%9D%E8%81%9A%E5%8A%9B",
-    "timestamp": "2026-05-31T19:19:56.840Z",
     "strategy": ".content-card__main"
   }
 ];
