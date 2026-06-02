@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-02T21:16:18.564Z
+// Last updated: 2026-06-02T22:13:41.344Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "前無綫小花秘嫁豪門做億元闊太　暴食失控食西藥減肥：無助到極點",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260602/1138608395763322880138594.jpeg/iRVwvqOwvicnyAG-C7bSSa_y2oPTbEfmkS7o45Eu6OM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60355988/%E6%A5%8A%E7%A7%80%E6%83%A0%E7%A7%98%E5%AB%81%E8%B1%AA%E9%96%80%E5%81%9A%E5%84%84%E5%85%83%E9%97%8A%E5%A4%AA-%E6%9A%B4%E9%A3%9F%E5%A4%B1%E6%8E%A7%E9%A3%9F%E8%A5%BF%E8%97%A5%E6%B8%9B%E8%82%A5-%E7%84%A1%E5%8A%A9%E5%88%B0%E6%A5%B5%E9%BB%9E",
+    "timestamp": "2026-06-02T22:13:41.344Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "特朗普：白宮記者協會晚宴7月24日重新舉行　已獲邀請並計劃出席",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260601/1138139868447117312019345.jpeg/-JgOSv60Y6XreaFMkoKe5HSEHeH8JoLFNmS59zZkufc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E5%A8%9B%E6%A8%82/60355574/%E5%B0%96%E6%B2%99%E5%92%80%E5%A4%A9%E5%83%B9%E7%84%A1%E4%BA%BA%E6%A9%9F%E6%B1%82%E5%A9%9A%E4%B8%BB%E8%A7%92%E6%9B%9D%E5%85%89-%E7%B6%B2%E6%B0%91%E6%BF%80%E8%AE%9A%E6%96%B0%E9%83%8E-%E6%B5%AA%E6%BC%AB%E9%81%8E%E9%8D%BE%E5%9F%B9%E7%94%9F",
     "timestamp": "2026-06-01T09:09:15.291Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "內地遊客遊台吃冰驚艷全不踩雷　直呼台灣冰品領先全球十幾年",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260511/1130543833843503104234657.jpeg/PEj79P6KPEGGHvFvtn_tlfW5gIsoTKyRn0TiOp9E4jo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%97%85%E9%81%8A/60348720/%E5%85%A7%E5%9C%B0%E9%81%8A%E5%AE%A2%E9%81%8A%E5%8F%B0%E5%90%83%E5%86%B0%E9%A9%9A%E8%89%B7%E5%85%A8%E4%B8%8D%E8%B8%A9%E9%9B%B7-%E7%9B%B4%E5%91%BC%E5%8F%B0%E7%81%A3%E5%86%B0%E5%93%81%E9%A0%98%E5%85%88%E5%85%A8%E7%90%83%E5%8D%81%E5%B9%BE%E5%B9%B4",
-    "timestamp": "2026-06-01T07:09:11.503Z",
     "strategy": ".content-card__main"
   }
 ];
