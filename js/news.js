@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-02T07:21:03.002Z
+// Last updated: 2026-06-02T10:44:40.848Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美國開始尊重中國後，中國周邊形勢為何沒有隨之大變？",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260519/1133399117943279616275981.jpeg/Y14k50WXrJi5_0BbDCy2eIUuXxrhTJ67LR5pMy0eaTM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%9C%8B%E9%9A%9B%E5%88%86%E6%9E%90/60356125/%E7%BE%8E%E5%9C%8B%E9%96%8B%E5%A7%8B%E5%B0%8A%E9%87%8D%E4%B8%AD%E5%9C%8B%E5%BE%8C-%E4%B8%AD%E5%9C%8B%E5%91%A8%E9%82%8A%E5%BD%A2%E5%8B%A2%E7%82%BA%E4%BD%95%E6%B2%92%E6%9C%89%E9%9A%A8%E4%B9%8B%E5%A4%A7%E8%AE%8A",
+    "timestamp": "2026-06-02T10:44:40.848Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "宏福苑業主要求召開業主大會　管理人合安求延期　遭法庭拒絕",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260601/1137958383958102016693071.jpeg/DbHfs1FEHxwhgjhrWMZiBA0m7Gt-ppd36loaDupaGg4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60355361/%E4%BC%8A%E6%B3%A2%E6%8B%89-%E5%B7%B4%E8%A5%BF%E5%86%8D%E5%A2%9E%E4%B8%80%E5%AE%97%E7%96%91%E4%BC%BC%E7%97%85%E4%BE%8B-%E7%97%85%E4%BA%BA%E6%9B%BE%E8%A8%AA%E7%83%8F%E5%B9%B2%E9%81%94",
     "timestamp": "2026-05-31T22:57:08.459Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "天氣｜今日有幾陣驟雨　初時局部有雷暴　日間市區約32度",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260601/1137997355195305984109623.jpeg/J8tCJsKSnYF_9EQl3YSN8nEe4ftwXImROWwdjjlsHY4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60355357/%E5%A4%A9%E6%B0%A3-%E4%BB%8A%E6%97%A5%E6%9C%89%E5%B9%BE%E9%99%A3%E9%A9%9F%E9%9B%A8-%E5%88%9D%E6%99%82%E5%B1%80%E9%83%A8%E6%9C%89%E9%9B%B7%E6%9A%B4-%E6%97%A5%E9%96%93%E5%B8%82%E5%8D%80%E7%B4%8432%E5%BA%A6",
-    "timestamp": "2026-05-31T22:31:48.052Z",
     "strategy": ".content-card__main"
   }
 ];
