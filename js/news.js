@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-02T15:11:16.162Z
+// Last updated: 2026-06-02T18:24:33.529Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "伊媒：哈梅內伊葬禮將在3座城市舉行　料多達2000萬人參加",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260520/1133715078768496640258196.jpeg/4fFggD6-hSXU-TQ6t60cfjeq_oj8R0xViyCTyIsgk8g?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60356204/%E4%BC%8A%E5%AA%92-%E5%93%88%E6%A2%85%E5%85%A7%E4%BC%8A%E8%91%AC%E7%A6%AE%E5%B0%87%E5%9C%A83%E5%BA%A7%E5%9F%8E%E5%B8%82%E8%88%89%E8%A1%8C-%E6%96%99%E5%A4%9A%E9%81%942000%E8%90%AC%E4%BA%BA%E5%8F%83%E5%8A%A0",
+    "timestamp": "2026-06-02T18:24:33.529Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美股｜道指早段曾升逾百點　油價微跌",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260601/1138072738729037824523108.jpeg/imSL4tJNsggHzrwS1xMa9jWyCXSBPfmnmIa88piGvPI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60355413/%E6%B2%99%E5%A1%B5%E6%9A%B4-12%E7%B4%9A%E7%8B%82%E9%A2%A8-%E9%9B%B7%E9%9B%A8%E9%BD%8A%E8%A5%B2%E5%93%88%E7%88%BE%E6%BF%B1-%E9%81%8E%E5%B1%B1%E8%BB%8A%E5%81%9C%E9%9B%BB%E9%81%8A%E5%AE%A2%E5%80%92%E6%8E%9B%E5%8D%8A%E7%A9%BA-%E6%9C%89%E7%89%87",
     "timestamp": "2026-06-01T03:31:37.536Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "中信建投︰港樓市價量齊升　料擁豐沛土儲發展商明顯受益",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260528/1136668658777460736745862.jpeg/zPHLT7qia0ExLK4tm5IXZ1G0GTwTs7nJRtXDskbVw7I?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60355381/%E4%B8%AD%E4%BF%A1%E5%BB%BA%E6%8A%95-%E6%B8%AF%E6%A8%93%E5%B8%82%E5%83%B9%E9%87%8F%E9%BD%8A%E5%8D%87-%E6%96%99%E6%93%81%E8%B1%90%E6%B2%9B%E5%9C%9F%E5%84%B2%E7%99%BC%E5%B1%95%E5%95%86%E6%98%8E%E9%A1%AF%E5%8F%97%E7%9B%8A",
-    "timestamp": "2026-06-01T01:16:31.199Z",
     "strategy": ".content-card__main"
   }
 ];
