@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-02T18:24:33.529Z
+// Last updated: 2026-06-02T19:52:19.678Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "比特幣一度跌穿6.7萬美元　跌幅逾6%",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20251015/1055083007322361856068213.jpeg/LaJqRJugJ9QCJ9fQhZWl2V3fxmbbRoE-fS_ojn0v6I4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60356210/%E6%AF%94%E7%89%B9%E5%B9%A3%E4%B8%80%E5%BA%A6%E8%B7%8C%E7%A9%BF6-7%E8%90%AC%E7%BE%8E%E5%85%83-%E8%B7%8C%E5%B9%85%E9%80%BE6",
+    "timestamp": "2026-06-02T19:52:19.678Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "伊媒：哈梅內伊葬禮將在3座城市舉行　料多達2000萬人參加",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/20200323/318722061998624768.jpeg/LSfRNWrV7lVrcAnLBmgdDgCdfjcl0oWG6YW82emFvNk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60355516/ai%E6%A6%82%E5%BF%B5%E8%82%A1%E4%B8%8B%E6%8C%AB-%E6%99%BA%E8%AD%9C%E5%8F%8Aminimax%E7%80%891%E6%88%90%E6%88%96%E4%BB%A5%E4%B8%8A-%E6%81%92%E6%8C%87%E6%9C%80%E6%96%B0%E5%8D%87259%E9%BB%9E",
     "timestamp": "2026-06-01T05:19:18.277Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "沙塵暴+12級狂風+雷雨齊襲哈爾濱　過山車停電遊客倒掛半空｜有片",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260601/1138072738729037824523108.jpeg/imSL4tJNsggHzrwS1xMa9jWyCXSBPfmnmIa88piGvPI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60355413/%E6%B2%99%E5%A1%B5%E6%9A%B4-12%E7%B4%9A%E7%8B%82%E9%A2%A8-%E9%9B%B7%E9%9B%A8%E9%BD%8A%E8%A5%B2%E5%93%88%E7%88%BE%E6%BF%B1-%E9%81%8E%E5%B1%B1%E8%BB%8A%E5%81%9C%E9%9B%BB%E9%81%8A%E5%AE%A2%E5%80%92%E6%8E%9B%E5%8D%8A%E7%A9%BA-%E6%9C%89%E7%89%87",
-    "timestamp": "2026-06-01T03:31:37.536Z",
     "strategy": ".content-card__main"
   }
 ];
