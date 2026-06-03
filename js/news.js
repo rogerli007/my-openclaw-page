@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-03T11:48:22.467Z
+// Last updated: 2026-06-03T13:21:21.599Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "宏福苑｜何永賢：業主如對按揭有疑問　解說專隊可轉介銀行跟進",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260603/1138943010612973568589137.jpeg/EYpaVUc3sHWRDIbHMNGFadAPi9gG4QgSurngXrq54F4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60356574/%E5%AE%8F%E7%A6%8F%E8%8B%91-%E4%BD%95%E6%B0%B8%E8%B3%A2-%E6%A5%AD%E4%B8%BB%E5%A6%82%E5%B0%8D%E6%8C%89%E6%8F%AD%E6%9C%89%E7%96%91%E5%95%8F-%E8%A7%A3%E8%AA%AA%E5%B0%88%E9%9A%8A%E5%8F%AF%E8%BD%89%E4%BB%8B%E9%8A%80%E8%A1%8C%E8%B7%9F%E9%80%B2",
+    "timestamp": "2026-06-03T13:21:21.599Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "其士爭產案　女律師指周亦卿沒有就信託給予指示　最終放棄成立",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20240418/857602664421134336925640.jpeg/101_T_FJlpDz4NBS9vCNiIJEJpIOXcTcYHU0BGB1NAQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60355808/%E7%BE%8E%E5%9C%98%E9%A3%86%E9%80%BE7-%E4%B8%8A%E5%AD%A3%E6%A5%AD%E7%B8%BE%E5%84%AA%E9%A0%90%E6%9C%9F-%E6%96%99%E6%AC%A1%E5%AD%A3%E5%A4%96%E8%B3%A3%E6%A5%AD%E7%B8%BEue%E9%A1%AF%E8%91%97%E6%94%B9%E5%96%84-%E7%95%B0%E5%8B%95%E8%82%A1",
     "timestamp": "2026-06-02T02:32:00.556Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "印尼金礦商Merdeka在港上市獲批　曾傳擬籌39億元｜新股IPO",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260602/1138410157886148608432018.jpeg/KGYNw-QErU9vNmtbCtASVYaq7L-p89W2lM7yZ5TO8mc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60355781/%E5%8D%B0%E5%B0%BC%E9%87%91%E7%A4%A6%E5%95%86merdeka%E5%9C%A8%E6%B8%AF%E4%B8%8A%E5%B8%82%E7%8D%B2%E6%89%B9-%E6%9B%BE%E5%82%B3%E6%93%AC%E7%B1%8C39%E5%84%84%E5%85%83-%E6%96%B0%E8%82%A1ipo",
-    "timestamp": "2026-06-02T01:31:49.256Z",
     "strategy": ".content-card__main"
   }
 ];
