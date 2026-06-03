@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-03T10:00:07.172Z
+// Last updated: 2026-06-03T11:48:22.467Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "其士爭產案　女律師指周亦卿沒有就信託給予指示　最終放棄成立",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260526/1136046503589056512137048.jpeg/64RAYwYIN6T4PiD_RDHttrkQ3r_PpDzNfYF_CFiBfwg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60356335/%E5%85%B6%E5%A3%AB%E7%88%AD%E7%94%A2%E6%A1%88-%E5%A5%B3%E5%BE%8B%E5%B8%AB%E6%8C%87%E5%91%A8%E4%BA%A6%E5%8D%BF%E6%B2%92%E6%9C%89%E5%B0%B1%E4%BF%A1%E8%A8%97%E7%B5%A6%E4%BA%88%E6%8C%87%E7%A4%BA-%E6%9C%80%E7%B5%82%E6%94%BE%E6%A3%84%E6%88%90%E7%AB%8B",
+    "timestamp": "2026-06-03T11:48:22.467Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "豐澤對撼電商　啟動服務升級　O+O銷售額按年雙位數增長",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260602/1138410157886148608432018.jpeg/KGYNw-QErU9vNmtbCtASVYaq7L-p89W2lM7yZ5TO8mc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60355781/%E5%8D%B0%E5%B0%BC%E9%87%91%E7%A4%A6%E5%95%86merdeka%E5%9C%A8%E6%B8%AF%E4%B8%8A%E5%B8%82%E7%8D%B2%E6%89%B9-%E6%9B%BE%E5%82%B3%E6%93%AC%E7%B1%8C39%E5%84%84%E5%85%83-%E6%96%B0%E8%82%A1ipo",
     "timestamp": "2026-06-02T01:31:49.256Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "將軍澳馬游塘的士入錯小路　撞壆爆胎險墮崖　司機：幾有經驗都死",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260602/1138381265024585728721539.jpeg/IYZGqmH4O0CObSVH8MOPmpXiYiZ3Bii5LlesfS5XrH0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60355765/%E5%B0%87%E8%BB%8D%E6%BE%B3%E9%A6%AC%E6%B8%B8%E5%A1%98%E7%9A%84%E5%A3%AB%E5%85%A5%E9%8C%AF%E5%B0%8F%E8%B7%AF-%E6%92%9E%E5%A3%86%E7%88%86%E8%83%8E%E9%9A%AA%E5%A2%AE%E5%B4%96-%E5%8F%B8%E6%A9%9F-%E5%B9%BE%E6%9C%89%E7%B6%93%E9%A9%97%E9%83%BD%E6%AD%BB",
-    "timestamp": "2026-06-02T00:16:33.127Z",
     "strategy": ".content-card__main"
   }
 ];
