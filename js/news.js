@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-03T01:42:29.884Z
+// Last updated: 2026-06-03T02:47:15.905Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "食拉麵「雪雪」聲已過時？跪地是日常？衝擊港人的22個日本文化",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20201023/396343407552761856928163.jpeg/fUrS3To7Nnmqn784jGHDWzkmKpgV37bOx_gw9cf4MPU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%97%85%E9%81%8A/539147/%E9%A3%9F%E6%8B%89%E9%BA%B5-%E9%9B%AA%E9%9B%AA-%E8%81%B2%E5%B7%B2%E9%81%8E%E6%99%82-%E8%B7%AA%E5%9C%B0%E6%98%AF%E6%97%A5%E5%B8%B8-%E8%A1%9D%E6%93%8A%E6%B8%AF%E4%BA%BA%E7%9A%8422%E5%80%8B%E6%97%A5%E6%9C%AC%E6%96%87%E5%8C%96",
+    "timestamp": "2026-06-03T02:47:15.905Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "大死撐日舞台劇2026香港加場｜門票攻略＋購票連結＋座位表",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260601/1138258902031273984429150.jpeg/Uu4QhP1cAACAyST_zD2hfU_tcZk-LYhcTUV1BE1FdQQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60355627/%E6%A5%8A%E6%80%9D%E7%90%A6%E7%88%86%E4%BC%8D%E8%A9%A0%E8%96%87%E6%8F%AD%E5%87%BA%E6%AC%BA%E5%87%8C%E4%BA%8B%E4%BB%B6%E7%AF%80%E7%9B%AE%E5%85%A7%E5%B9%95-%E9%82%84%E5%8E%9F%E7%B6%93%E9%81%8E-%E5%94%94%E4%BF%82%E6%88%91%E4%B8%BB%E5%8B%95%E8%AC%9B%E5%85%88",
     "timestamp": "2026-06-01T22:12:27.873Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "華使館：就中國公民柬埔寨遇害　敦促柬方全力偵辦",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260601/1138064201483292672480321.png/rpRbeZe-t3NBwcSATb9UGDsDqLJyYkZ2z98yW8_fMls?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60355748/%E8%8F%AF%E4%BD%BF%E9%A4%A8-%E5%B0%B1%E4%B8%AD%E5%9C%8B%E5%85%AC%E6%B0%91%E6%9F%AC%E5%9F%94%E5%AF%A8%E9%81%87%E5%AE%B3-%E6%95%A6%E4%BF%83%E6%9F%AC%E6%96%B9%E5%85%A8%E5%8A%9B%E5%81%B5%E8%BE%A6",
-    "timestamp": "2026-06-01T17:28:07.881Z",
     "strategy": ".content-card__main"
   }
 ];
