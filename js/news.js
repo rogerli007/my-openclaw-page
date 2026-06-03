@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-03T13:21:21.599Z
+// Last updated: 2026-06-03T17:00:19.960Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "翹楚劇情｜最新追劇日曆／更新時間＋演員關係圖＋角色簡介",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260530/1137450634379792384285436.jpeg/WlyEPVf_k0rdY5Vkzf52Ya6RrZZ43VWraIodIGiKHSA?v=w1920",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60355128/%E7%BF%B9%E6%A5%9A%E5%8A%87%E6%83%85-%E6%9C%80%E6%96%B0%E8%BF%BD%E5%8A%87%E6%97%A5%E6%9B%86-%E6%9B%B4%E6%96%B0%E6%99%82%E9%96%93-%E6%BC%94%E5%93%A1%E9%97%9C%E4%BF%82%E5%9C%96-%E8%A7%92%E8%89%B2%E7%B0%A1%E4%BB%8B",
+    "timestamp": "2026-06-03T17:00:19.960Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "宏福苑｜何永賢：業主如對按揭有疑問　解說專隊可轉介銀行跟進",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20231221/814533393969582080075491.jpeg/G__FgTn0f1kGuyP765zmsN1jW9APxZvhnExi9apMYvU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60355935/%E4%B8%96%E7%95%8C%E7%9B%83-%E4%B8%AD%E9%87%91%E6%96%996%E6%9C%88%E6%BE%B3%E9%96%80%E8%B3%AD%E6%94%B6%E6%9C%80%E5%A4%9A%E7%82%BA210%E5%84%84%E6%BE%B3%E9%96%80%E5%85%83-%E8%B3%BD%E4%BA%8B%E6%88%96%E8%B5%B7%E5%88%86%E6%B5%81%E4%BD%9C%E7%94%A8",
     "timestamp": "2026-06-02T05:46:52.516Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美團飆逾7%　上季業績優預期　料次季外賣業績UE顯著改善｜異動股",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20240418/857602664421134336925640.jpeg/101_T_FJlpDz4NBS9vCNiIJEJpIOXcTcYHU0BGB1NAQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60355808/%E7%BE%8E%E5%9C%98%E9%A3%86%E9%80%BE7-%E4%B8%8A%E5%AD%A3%E6%A5%AD%E7%B8%BE%E5%84%AA%E9%A0%90%E6%9C%9F-%E6%96%99%E6%AC%A1%E5%AD%A3%E5%A4%96%E8%B3%A3%E6%A5%AD%E7%B8%BEue%E9%A1%AF%E8%91%97%E6%94%B9%E5%96%84-%E7%95%B0%E5%8B%95%E8%82%A1",
-    "timestamp": "2026-06-02T02:32:00.556Z",
     "strategy": ".content-card__main"
   }
 ];
