@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-02T23:01:46.593Z
+// Last updated: 2026-06-03T00:23:34.286Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "英偉達與微軟達成合作：推出統一技術棧　用於部署Agentic AI",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20240120/825396599814361088968342.jpeg/OdNNtMZFiwgGY-9X7kMX8bwl-1sEuuN3ZXF1OWVxdTk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60356223/%E8%8B%B1%E5%81%89%E9%81%94%E8%88%87%E5%BE%AE%E8%BB%9F%E9%81%94%E6%88%90%E5%90%88%E4%BD%9C-%E6%8E%A8%E5%87%BA%E7%B5%B1%E4%B8%80%E6%8A%80%E8%A1%93%E6%A3%A7-%E7%94%A8%E6%96%BC%E9%83%A8%E7%BD%B2agentic-ai",
+    "timestamp": "2026-06-03T00:23:34.286Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "前TVB索爆人妻突嚴重過敏　全面發紅畫面驚嚇：胃痛肚痛發痛發癢",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260601/1138140216918282240918652.png/uHU3twQHh13kWw_qDbXOKRL2hOm3q09Z9fgzJ_X4Myc",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60351764/%E5%B9%B4%E8%BC%95%E5%AA%BD%E5%AA%BD%E5%B8%B62%E6%AD%B2%E5%AD%A9%E9%80%81%E5%A4%96%E8%B3%A3-%E5%AD%A9%E5%AD%90%E8%BA%BA%E5%9C%B0%E6%89%AD%E6%8A%B1%E5%93%AD%E9%AC%A7-%E5%A5%B9%E5%B4%A9%E6%BD%B0%E5%96%8A-%E6%88%91%E6%89%8D22%E6%AD%B2",
     "timestamp": "2026-06-01T13:17:00.734Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "葵涌石蔭路車禍｜65歲單車漢遭九巴捲入車底　65歲車長涉危駕被捕",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260601/1138145846752186368013695.jpeg/jRZkZpBB-29xRHnulHCIK4_UAvgWRBf4eGwYfW5sGH0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60355642/%E8%91%B5%E6%B6%8C%E7%9F%B3%E8%94%AD%E8%B7%AF%E8%BB%8A%E7%A6%8D-65%E6%AD%B2%E5%96%AE%E8%BB%8A%E6%BC%A2%E9%81%AD%E4%B9%9D%E5%B7%B4%E6%8D%B2%E5%85%A5%E8%BB%8A%E5%BA%95-65%E6%AD%B2%E8%BB%8A%E9%95%B7%E6%B6%89%E5%8D%B1%E9%A7%95%E8%A2%AB%E6%8D%95",
-    "timestamp": "2026-06-01T11:04:57.669Z",
     "strategy": ".content-card__main"
   }
 ];
