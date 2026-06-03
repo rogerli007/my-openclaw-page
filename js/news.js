@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-03T04:21:59.761Z
+// Last updated: 2026-06-03T06:07:27.749Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "遊日注意｜全日空7月起隨身行李限40×30×20cm　確保放入座位下",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20251009/1052996096529534976407538.jpeg/zVKTOiJI9v7W3dKM3QctHpWsC3wkdquxRToXqkU6F6o?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60356246/%E9%81%8A%E6%97%A5%E6%B3%A8%E6%84%8F-%E5%85%A8%E6%97%A5%E7%A9%BA7%E6%9C%88%E8%B5%B7%E9%9A%A8%E8%BA%AB%E8%A1%8C%E6%9D%8E%E9%99%9040-30-20cm-%E7%A2%BA%E4%BF%9D%E6%94%BE%E5%85%A5%E5%BA%A7%E4%BD%8D%E4%B8%8B",
+    "timestamp": "2026-06-03T06:07:27.749Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "Gordon Flanders籌備兩年推新碟　為造勢辦簽唱會吸過百粉絲支持",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260601/1138173940762415104489165.png/a9RKIiGfTrAt0InTIC76KV1_puaoidZInyU_-J8lP_g?v=w1920r16_9",
     "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E8%A9%B1%E9%A1%8C/60355415/%E9%9C%B2%E7%87%9F%E5%A5%AA%E5%91%BD-%E4%B8%80%E5%AE%B6%E5%9B%9B%E5%8F%A3%E8%B1%AA%E8%8F%AF%E5%B8%B3%E7%AF%B7%E5%85%A7%E9%9B%A2%E5%A5%87%E5%85%A8%E6%AD%BB-%E8%AD%A6%E7%96%91%E9%A3%9F%E7%89%A9%E6%88%96%E4%B8%80%E6%B0%A7%E5%8C%96%E7%A2%B3%E4%B8%AD%E6%AF%92",
     "timestamp": "2026-06-01T23:41:12.363Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "吐露港公路私家車自炒撞壆甩3個轆　司機蹤杳　入大埔方向稍阻",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260602/1138370637811683328247608.jpeg/UhCoP5aapMbYYOQ4qFoMdI2jPQGqjCEZLiFASQshQEk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60355764/%E5%90%90%E9%9C%B2%E6%B8%AF%E5%85%AC%E8%B7%AF%E7%A7%81%E5%AE%B6%E8%BB%8A%E8%87%AA%E7%82%92%E6%92%9E%E5%A3%86%E7%94%A93%E5%80%8B%E8%BD%86-%E5%8F%B8%E6%A9%9F%E8%B9%A4%E6%9D%B3-%E5%85%A5%E5%A4%A7%E5%9F%94%E6%96%B9%E5%90%91%E7%A8%8D%E9%98%BB",
-    "timestamp": "2026-06-01T23:01:53.058Z",
     "strategy": ".content-card__main"
   }
 ];
