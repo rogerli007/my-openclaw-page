@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-03T06:07:27.749Z
+// Last updated: 2026-06-03T10:00:07.172Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "豐澤對撼電商　啟動服務升級　O+O銷售額按年雙位數增長",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20230525/738386565654384640978614.jpeg/vrlPmfLHjFnPWm7tDEzge3KblkojZSCFeygIgnsoCII?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60356525/%E8%B1%90%E6%BE%A4%E5%B0%8D%E6%92%BC%E9%9B%BB%E5%95%86-%E5%95%9F%E5%8B%95%E6%9C%8D%E5%8B%99%E5%8D%87%E7%B4%9A-o-o%E9%8A%B7%E5%94%AE%E9%A1%8D%E6%8C%89%E5%B9%B4%E9%9B%99%E4%BD%8D%E6%95%B8%E5%A2%9E%E9%95%B7",
+    "timestamp": "2026-06-03T10:00:07.172Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "遊日注意｜全日空7月起隨身行李限40×30×20cm　確保放入座位下",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260602/1138381265024585728721539.jpeg/IYZGqmH4O0CObSVH8MOPmpXiYiZ3Bii5LlesfS5XrH0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60355765/%E5%B0%87%E8%BB%8D%E6%BE%B3%E9%A6%AC%E6%B8%B8%E5%A1%98%E7%9A%84%E5%A3%AB%E5%85%A5%E9%8C%AF%E5%B0%8F%E8%B7%AF-%E6%92%9E%E5%A3%86%E7%88%86%E8%83%8E%E9%9A%AA%E5%A2%AE%E5%B4%96-%E5%8F%B8%E6%A9%9F-%E5%B9%BE%E6%9C%89%E7%B6%93%E9%A9%97%E9%83%BD%E6%AD%BB",
     "timestamp": "2026-06-02T00:16:33.127Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "露營奪命！一家四口豪華帳篷內離奇全死　警疑食物或一氧化碳中毒",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260601/1138173940762415104489165.png/a9RKIiGfTrAt0InTIC76KV1_puaoidZInyU_-J8lP_g?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E8%A9%B1%E9%A1%8C/60355415/%E9%9C%B2%E7%87%9F%E5%A5%AA%E5%91%BD-%E4%B8%80%E5%AE%B6%E5%9B%9B%E5%8F%A3%E8%B1%AA%E8%8F%AF%E5%B8%B3%E7%AF%B7%E5%85%A7%E9%9B%A2%E5%A5%87%E5%85%A8%E6%AD%BB-%E8%AD%A6%E7%96%91%E9%A3%9F%E7%89%A9%E6%88%96%E4%B8%80%E6%B0%A7%E5%8C%96%E7%A2%B3%E4%B8%AD%E6%AF%92",
-    "timestamp": "2026-06-01T23:41:12.363Z",
     "strategy": ".content-card__main"
   }
 ];
