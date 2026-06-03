@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-03T17:00:19.960Z
+// Last updated: 2026-06-03T21:20:00.719Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美軍歐洲司令部：美國稱將調整對北約部隊貢獻",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20251204/1073261426107224064569281.jpeg/rLpb-0xWhc02McrKi1_JwHTotuv-KOJT5AtL8eQLS_E?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60356602/%E7%BE%8E%E8%BB%8D%E6%AD%90%E6%B4%B2%E5%8F%B8%E4%BB%A4%E9%83%A8-%E7%BE%8E%E5%9C%8B%E7%A8%B1%E5%B0%87%E8%AA%BF%E6%95%B4%E5%B0%8D%E5%8C%97%E7%B4%84%E9%83%A8%E9%9A%8A%E8%B2%A2%E7%8D%BB",
+    "timestamp": "2026-06-03T21:20:00.719Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "翹楚劇情｜最新追劇日曆／更新時間＋演員關係圖＋角色簡介",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260601/1138176549846126592576842.jpeg/5fBJn3V1zdcmmeozh7lD-k0Y-hIYm_R1yFQvde1UL3U?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60355942/%E5%AE%8F%E7%A6%8F%E8%8B%91%E6%A5%AD%E4%B8%BB%E8%A6%81%E6%B1%82%E5%8F%AC%E9%96%8B%E6%A5%AD%E4%B8%BB%E5%A4%A7%E6%9C%83-%E7%AE%A1%E7%90%86%E4%BA%BA%E5%90%88%E5%AE%89%E6%B1%82%E5%BB%B6%E6%9C%9F-%E9%81%AD%E6%B3%95%E5%BA%AD%E6%8B%92%E7%B5%95",
     "timestamp": "2026-06-02T07:21:03.002Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "世界盃｜中金料6月澳門賭收最多為210億澳門元　賽事或起分流作用",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20231221/814533393969582080075491.jpeg/G__FgTn0f1kGuyP765zmsN1jW9APxZvhnExi9apMYvU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60355935/%E4%B8%96%E7%95%8C%E7%9B%83-%E4%B8%AD%E9%87%91%E6%96%996%E6%9C%88%E6%BE%B3%E9%96%80%E8%B3%AD%E6%94%B6%E6%9C%80%E5%A4%9A%E7%82%BA210%E5%84%84%E6%BE%B3%E9%96%80%E5%85%83-%E8%B3%BD%E4%BA%8B%E6%88%96%E8%B5%B7%E5%88%86%E6%B5%81%E4%BD%9C%E7%94%A8",
-    "timestamp": "2026-06-02T05:46:52.516Z",
     "strategy": ".content-card__main"
   }
 ];
