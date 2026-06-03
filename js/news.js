@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-03T21:20:00.719Z
+// Last updated: 2026-06-03T22:25:08.712Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "韓國地方選舉　執政共同民主黨料大勝",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260604/1139082788218081280263458.jpeg/6Td2TMMJg82NZB_h8LydA8pXeFAp1ZnglOBu_JTgbvw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60356630/%E9%9F%93%E5%9C%8B%E5%9C%B0%E6%96%B9%E9%81%B8%E8%88%89-%E5%9F%B7%E6%94%BF%E5%85%B1%E5%90%8C%E6%B0%91%E4%B8%BB%E9%BB%A8%E6%96%99%E5%A4%A7%E5%8B%9D",
+    "timestamp": "2026-06-03T22:25:08.712Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美軍歐洲司令部：美國稱將調整對北約部隊貢獻",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260519/1133399117943279616275981.jpeg/Y14k50WXrJi5_0BbDCy2eIUuXxrhTJ67LR5pMy0eaTM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%9C%8B%E9%9A%9B%E5%88%86%E6%9E%90/60356125/%E7%BE%8E%E5%9C%8B%E9%96%8B%E5%A7%8B%E5%B0%8A%E9%87%8D%E4%B8%AD%E5%9C%8B%E5%BE%8C-%E4%B8%AD%E5%9C%8B%E5%91%A8%E9%82%8A%E5%BD%A2%E5%8B%A2%E7%82%BA%E4%BD%95%E6%B2%92%E6%9C%89%E9%9A%A8%E4%B9%8B%E5%A4%A7%E8%AE%8A",
     "timestamp": "2026-06-02T10:44:40.848Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "宏福苑業主要求召開業主大會　管理人合安求延期　遭法庭拒絕",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260601/1138176549846126592576842.jpeg/5fBJn3V1zdcmmeozh7lD-k0Y-hIYm_R1yFQvde1UL3U?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60355942/%E5%AE%8F%E7%A6%8F%E8%8B%91%E6%A5%AD%E4%B8%BB%E8%A6%81%E6%B1%82%E5%8F%AC%E9%96%8B%E6%A5%AD%E4%B8%BB%E5%A4%A7%E6%9C%83-%E7%AE%A1%E7%90%86%E4%BA%BA%E5%90%88%E5%AE%89%E6%B1%82%E5%BB%B6%E6%9C%9F-%E9%81%AD%E6%B3%95%E5%BA%AD%E6%8B%92%E7%B5%95",
-    "timestamp": "2026-06-02T07:21:03.002Z",
     "strategy": ".content-card__main"
   }
 ];
