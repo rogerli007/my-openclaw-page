@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-03T02:47:15.905Z
+// Last updated: 2026-06-03T04:21:59.761Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "Gordon Flanders籌備兩年推新碟　為造勢辦簽唱會吸過百粉絲支持",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260603/1138679078673453056903518.jpeg/gQDk5UOyzd5KD9fTClSJRDGnV1UWS8P9vFOhkbxToZE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60356211/gordon-flanders%E7%B1%8C%E5%82%99%E5%85%A9%E5%B9%B4%E6%8E%A8%E6%96%B0%E7%A2%9F-%E7%82%BA%E9%80%A0%E5%8B%A2%E8%BE%A6%E7%B0%BD%E5%94%B1%E6%9C%83%E5%90%B8%E9%81%8E%E7%99%BE%E7%B2%89%E7%B5%B2%E6%94%AF%E6%8C%81",
+    "timestamp": "2026-06-03T04:21:59.761Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "食拉麵「雪雪」聲已過時？跪地是日常？衝擊港人的22個日本文化",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260602/1138370637811683328247608.jpeg/UhCoP5aapMbYYOQ4qFoMdI2jPQGqjCEZLiFASQshQEk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60355764/%E5%90%90%E9%9C%B2%E6%B8%AF%E5%85%AC%E8%B7%AF%E7%A7%81%E5%AE%B6%E8%BB%8A%E8%87%AA%E7%82%92%E6%92%9E%E5%A3%86%E7%94%A93%E5%80%8B%E8%BD%86-%E5%8F%B8%E6%A9%9F%E8%B9%A4%E6%9D%B3-%E5%85%A5%E5%A4%A7%E5%9F%94%E6%96%B9%E5%90%91%E7%A8%8D%E9%98%BB",
     "timestamp": "2026-06-01T23:01:53.058Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "楊思琦爆伍詠薇揭出欺凌事件節目內幕　還原經過：唔係我主動講先",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260601/1138258902031273984429150.jpeg/Uu4QhP1cAACAyST_zD2hfU_tcZk-LYhcTUV1BE1FdQQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60355627/%E6%A5%8A%E6%80%9D%E7%90%A6%E7%88%86%E4%BC%8D%E8%A9%A0%E8%96%87%E6%8F%AD%E5%87%BA%E6%AC%BA%E5%87%8C%E4%BA%8B%E4%BB%B6%E7%AF%80%E7%9B%AE%E5%85%A7%E5%B9%95-%E9%82%84%E5%8E%9F%E7%B6%93%E9%81%8E-%E5%94%94%E4%BF%82%E6%88%91%E4%B8%BB%E5%8B%95%E8%AC%9B%E5%85%88",
-    "timestamp": "2026-06-01T22:12:27.873Z",
     "strategy": ".content-card__main"
   }
 ];
