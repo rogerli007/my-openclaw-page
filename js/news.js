@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-04T00:00:46.447Z
+// Last updated: 2026-06-04T02:29:22.981Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "海洋經濟｜議員倡公私營模式開發海島　分流深圳貨源增本港吞吐量",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250306/974337854937239552034826.jpeg/TbQlj6ndk1h2TpX7Bu8JSngn1FnObN6zdhnqSnYZ6ko?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60356674/%E6%B5%B7%E6%B4%8B%E7%B6%93%E6%BF%9F-%E8%AD%B0%E5%93%A1%E5%80%A1%E5%85%AC%E7%A7%81%E7%87%9F%E6%A8%A1%E5%BC%8F%E9%96%8B%E7%99%BC%E6%B5%B7%E5%B3%B6-%E5%88%86%E6%B5%81%E6%B7%B1%E5%9C%B3%E8%B2%A8%E6%BA%90%E5%A2%9E%E6%9C%AC%E6%B8%AF%E5%90%9E%E5%90%90%E9%87%8F",
+    "timestamp": "2026-06-04T02:29:22.981Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "SpaceX上市｜料讓特朗普班底身家再增　文件顯示多名官員持有股份",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260602/1138425840644657152286175.jpeg/zbXSekGJtyYNnAsQlMQchnsQrYQYsga5bsPCOjjDwjo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60332556/%E5%86%B7%E6%B0%A3%E6%A9%9F%E5%99%B4%E5%87%BA%E4%B8%80%E5%A0%86%E6%9B%B1%E7%94%B4%E5%B1%8E%E5%9A%87%E5%A3%9E%E5%A5%B3%E7%B6%B2%E5%8F%8B-%E5%85%A7%E8%A1%8C%E4%BA%BA-%E5%88%86%E9%AB%94%E5%BC%8F%E6%9C%83%E6%9C%89%E8%9F%91%E8%9E%82%E7%88%AC%E9%80%B2%E4%BE%86",
     "timestamp": "2026-06-02T13:45:05.459Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "秀茂坪安泰邨停車場21歲青年墮樓　送院搶救後不治",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250520/1001644370325147648278436.jpeg/aVrtsMVCxbsB8jbuRqek3nlhIVTjOtBFnqgcd6SoHHc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60356157/%E7%A7%80%E8%8C%82%E5%9D%AA%E5%AE%89%E6%B3%B0%E9%82%A8%E5%81%9C%E8%BB%8A%E5%A0%B421%E6%AD%B2%E9%9D%92%E5%B9%B4%E5%A2%AE%E6%A8%93-%E9%80%81%E9%99%A2%E6%90%B6%E6%95%91%E5%BE%8C%E4%B8%8D%E6%B2%BB",
-    "timestamp": "2026-06-02T12:14:54.601Z",
     "strategy": ".content-card__main"
   }
 ];
