@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-04T02:29:22.981Z
+// Last updated: 2026-06-04T03:53:16.843Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "陳婉嫻：小市民感受到經濟好？吉舖、酒樓「拍烏蠅」積累不滿情緒",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/5514773/org/af8336a3b7e84f5022a8963d1de61451.png/QYn1zDS9LdVQzMo1l5uGcLS9XtcchVxTKlSovypUqL8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60356712/%E9%99%B3%E5%A9%89%E5%AB%BB-%E5%B0%8F%E5%B8%82%E6%B0%91%E6%84%9F%E5%8F%97%E5%88%B0%E7%B6%93%E6%BF%9F%E5%A5%BD-%E5%90%89%E8%88%96-%E9%85%92%E6%A8%93-%E6%8B%8D%E7%83%8F%E8%A0%85-%E7%A9%8D%E7%B4%AF%E4%B8%8D%E6%BB%BF%E6%83%85%E7%B7%92",
+    "timestamp": "2026-06-04T03:53:16.843Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "海洋經濟｜議員倡公私營模式開發海島　分流深圳貨源增本港吞吐量",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20241017/923388310229880832906412.jpeg/2GEab4LIHmPQmeHCF4YJ6pp-mnXgApr5pVJ_M6VSfzM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60356188/%E7%BE%8E%E8%82%A1-%E9%81%93%E6%8C%87%E6%97%A9%E6%AE%B5%E6%9B%BE%E5%8D%87%E9%80%BE%E7%99%BE%E9%BB%9E-%E6%B2%B9%E5%83%B9%E5%BE%AE%E8%B7%8C",
     "timestamp": "2026-06-02T15:11:16.162Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "冷氣機噴出一堆曱甴屎嚇壞女網友　內行人：分體式會有蟑螂爬進來",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260602/1138425840644657152286175.jpeg/zbXSekGJtyYNnAsQlMQchnsQrYQYsga5bsPCOjjDwjo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60332556/%E5%86%B7%E6%B0%A3%E6%A9%9F%E5%99%B4%E5%87%BA%E4%B8%80%E5%A0%86%E6%9B%B1%E7%94%B4%E5%B1%8E%E5%9A%87%E5%A3%9E%E5%A5%B3%E7%B6%B2%E5%8F%8B-%E5%85%A7%E8%A1%8C%E4%BA%BA-%E5%88%86%E9%AB%94%E5%BC%8F%E6%9C%83%E6%9C%89%E8%9F%91%E8%9E%82%E7%88%AC%E9%80%B2%E4%BE%86",
-    "timestamp": "2026-06-02T13:45:05.459Z",
     "strategy": ".content-card__main"
   }
 ];
