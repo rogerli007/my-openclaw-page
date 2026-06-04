@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-04T21:55:45.122Z
+// Last updated: 2026-06-04T22:41:32.475Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "王浩信演唱會大解放透視露點騷身材　網民吐槽有被出賣靈魂的感覺",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260604/1139221940968361984064729.jpeg/40to0UjaYZ6GfZAHw0rCr1x8gXLBiqp-JmopniZqKZ4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60356767/%E7%8E%8B%E6%B5%A9%E4%BF%A1%E6%BC%94%E5%94%B1%E6%9C%83%E5%A4%A7%E8%A7%A3%E6%94%BE%E9%80%8F%E8%A6%96%E9%9C%B2%E9%BB%9E%E9%A8%B7%E8%BA%AB%E6%9D%90-%E7%B6%B2%E6%B0%91%E5%90%90%E6%A7%BD%E6%9C%89%E8%A2%AB%E5%87%BA%E8%B3%A3%E9%9D%88%E9%AD%82%E7%9A%84%E6%84%9F%E8%A6%BA",
+    "timestamp": "2026-06-04T22:41:32.475Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "芒種天氣｜今日部份地區極端酷熱　早晚有幾陣狂風雷暴　市區34度",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20251204/1073261426107224064569281.jpeg/rLpb-0xWhc02McrKi1_JwHTotuv-KOJT5AtL8eQLS_E?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60356602/%E7%BE%8E%E8%BB%8D%E6%AD%90%E6%B4%B2%E5%8F%B8%E4%BB%A4%E9%83%A8-%E7%BE%8E%E5%9C%8B%E7%A8%B1%E5%B0%87%E8%AA%BF%E6%95%B4%E5%B0%8D%E5%8C%97%E7%B4%84%E9%83%A8%E9%9A%8A%E8%B2%A2%E7%8D%BB",
     "timestamp": "2026-06-03T21:20:00.719Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "翹楚劇情｜最新追劇日曆／更新時間＋演員關係圖＋角色簡介",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260530/1137450634379792384285436.jpeg/WlyEPVf_k0rdY5Vkzf52Ya6RrZZ43VWraIodIGiKHSA?v=w1920",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60355128/%E7%BF%B9%E6%A5%9A%E5%8A%87%E6%83%85-%E6%9C%80%E6%96%B0%E8%BF%BD%E5%8A%87%E6%97%A5%E6%9B%86-%E6%9B%B4%E6%96%B0%E6%99%82%E9%96%93-%E6%BC%94%E5%93%A1%E9%97%9C%E4%BF%82%E5%9C%96-%E8%A7%92%E8%89%B2%E7%B0%A1%E4%BB%8B",
-    "timestamp": "2026-06-03T17:00:19.960Z",
     "strategy": ".content-card__main"
   }
 ];
