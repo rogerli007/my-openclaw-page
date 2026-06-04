@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-04T13:53:46.864Z
+// Last updated: 2026-06-04T16:29:13.006Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "東張西望｜空姐專偷熟客錢　偷唔到錢疑剪眼睫毛報復：好似掃把咁",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260604/1139344813691244544096548.jpeg/DaXvfv35c6KB5D_HQHwYNN7RZnakOYFFlhXKhpYVyoY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60357077/%E6%9D%B1%E5%BC%B5%E8%A5%BF%E6%9C%9B-%E7%A9%BA%E5%A7%90%E5%B0%88%E5%81%B7%E7%86%9F%E5%AE%A2%E9%8C%A2-%E5%81%B7%E5%94%94%E5%88%B0%E9%8C%A2%E7%96%91%E5%89%AA%E7%9C%BC%E7%9D%AB%E6%AF%9B%E5%A0%B1%E5%BE%A9-%E5%A5%BD%E4%BC%BC%E6%8E%83%E6%8A%8A%E5%92%81",
+    "timestamp": "2026-06-04T16:29:13.006Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "六四事件｜警方銅鑼灣維園一帶加強巡查　至少6人被帶上警車",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20201023/396343407552761856928163.jpeg/fUrS3To7Nnmqn784jGHDWzkmKpgV37bOx_gw9cf4MPU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%97%85%E9%81%8A/539147/%E9%A3%9F%E6%8B%89%E9%BA%B5-%E9%9B%AA%E9%9B%AA-%E8%81%B2%E5%B7%B2%E9%81%8E%E6%99%82-%E8%B7%AA%E5%9C%B0%E6%98%AF%E6%97%A5%E5%B8%B8-%E8%A1%9D%E6%93%8A%E6%B8%AF%E4%BA%BA%E7%9A%8422%E5%80%8B%E6%97%A5%E6%9C%AC%E6%96%87%E5%8C%96",
     "timestamp": "2026-06-03T02:47:15.905Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "大死撐日舞台劇2026香港加場｜門票攻略＋購票連結＋座位表",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260525/1135602599320358912569782.jpeg/deM6rjQWKRSo2lim7dXaKLnyNQElrLOWNv3KoTb9yqE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60353302/%E5%A4%A7%E6%AD%BB%E6%92%90%E6%97%A5%E8%88%9E%E5%8F%B0%E5%8A%872026%E9%A6%99%E6%B8%AF%E5%8A%A0%E5%A0%B4-%E9%96%80%E7%A5%A8%E6%94%BB%E7%95%A5-%E8%B3%BC%E7%A5%A8%E9%80%A3%E7%B5%90-%E5%BA%A7%E4%BD%8D%E8%A1%A8",
-    "timestamp": "2026-06-03T01:42:29.884Z",
     "strategy": ".content-card__main"
   }
 ];
