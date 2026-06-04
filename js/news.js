@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-04T10:26:55.419Z
+// Last updated: 2026-06-04T11:37:28.062Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "別被心動遮眼！心理學家揭曖昧期5大警號　認清渣男行為及時止損",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260512/1130878946691256320734102.jpeg/2i0DrT7ETDE7zoubK1nB-bbtUmOLFF1O-J9QDfifUA0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%AB%87%E6%83%85%E8%AA%AA%E6%80%A7/60349041/%E5%88%A5%E8%A2%AB%E5%BF%83%E5%8B%95%E9%81%AE%E7%9C%BC-%E5%BF%83%E7%90%86%E5%AD%B8%E5%AE%B6%E6%8F%AD%E6%9B%96%E6%98%A7%E6%9C%9F5%E5%A4%A7%E8%AD%A6%E8%99%9F-%E8%AA%8D%E6%B8%85%E6%B8%A3%E7%94%B7%E8%A1%8C%E7%82%BA%E5%8F%8A%E6%99%82%E6%AD%A2%E6%90%8D",
+    "timestamp": "2026-06-04T11:37:28.062Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "6月藝文活動|莎劇節奧賽羅+哈姆雷特/M+夜不同/莎士比亞x調酒體驗",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260602/1138616748644241408407156.jpeg/A4_AZo_DKd7AGmnNQE7LYu7w3i-HhT65lvy0hZb8tIU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60356088/%E5%AD%AB%E6%85%A7%E9%9B%AA%E8%87%AA%E7%88%86%E7%AA%81%E7%84%B6%E5%9A%B4%E9%87%8D%E9%81%8E%E6%95%8F-%E5%85%A8%E9%9D%A2%E7%99%BC%E7%B4%85%E7%95%AB%E9%9D%A2%E9%A9%9A%E5%9A%87-%E8%83%83%E7%97%9B%E8%82%9A%E7%97%9B%E7%99%BC%E7%97%9B%E7%99%BC%E7%99%A2",
     "timestamp": "2026-06-02T23:01:46.593Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "前無綫小花秘嫁豪門做億元闊太　暴食失控食西藥減肥：無助到極點",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260602/1138608395763322880138594.jpeg/iRVwvqOwvicnyAG-C7bSSa_y2oPTbEfmkS7o45Eu6OM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60355988/%E6%A5%8A%E7%A7%80%E6%83%A0%E7%A7%98%E5%AB%81%E8%B1%AA%E9%96%80%E5%81%9A%E5%84%84%E5%85%83%E9%97%8A%E5%A4%AA-%E6%9A%B4%E9%A3%9F%E5%A4%B1%E6%8E%A7%E9%A3%9F%E8%A5%BF%E8%97%A5%E6%B8%9B%E8%82%A5-%E7%84%A1%E5%8A%A9%E5%88%B0%E6%A5%B5%E9%BB%9E",
-    "timestamp": "2026-06-02T22:13:41.344Z",
     "strategy": ".content-card__main"
   }
 ];
