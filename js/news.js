@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-04T11:37:28.062Z
+// Last updated: 2026-06-04T12:46:17.436Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "結業｜花園餐廳山東街店無聲告別　旺角只剩一店　食客不感意外",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260604/1139306445737562112281943.jpeg/n7Kaszz6MPO3CyL6fkC2eEKGgPbxhTP5it1pOordaTo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60357045/%E7%B5%90%E6%A5%AD-%E8%8A%B1%E5%9C%92%E9%A4%90%E5%BB%B3%E5%B1%B1%E6%9D%B1%E8%A1%97%E5%BA%97%E7%84%A1%E8%81%B2%E5%91%8A%E5%88%A5-%E6%97%BA%E8%A7%92%E5%8F%AA%E5%89%A9%E4%B8%80%E5%BA%97-%E9%A3%9F%E5%AE%A2%E4%B8%8D%E6%84%9F%E6%84%8F%E5%A4%96",
+    "timestamp": "2026-06-04T12:46:17.436Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "別被心動遮眼！心理學家揭曖昧期5大警號　認清渣男行為及時止損",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20240120/825396599814361088968342.jpeg/OdNNtMZFiwgGY-9X7kMX8bwl-1sEuuN3ZXF1OWVxdTk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60356223/%E8%8B%B1%E5%81%89%E9%81%94%E8%88%87%E5%BE%AE%E8%BB%9F%E9%81%94%E6%88%90%E5%90%88%E4%BD%9C-%E6%8E%A8%E5%87%BA%E7%B5%B1%E4%B8%80%E6%8A%80%E8%A1%93%E6%A3%A7-%E7%94%A8%E6%96%BC%E9%83%A8%E7%BD%B2agentic-ai",
     "timestamp": "2026-06-03T00:23:34.286Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "前TVB索爆人妻突嚴重過敏　全面發紅畫面驚嚇：胃痛肚痛發痛發癢",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260602/1138616748644241408407156.jpeg/A4_AZo_DKd7AGmnNQE7LYu7w3i-HhT65lvy0hZb8tIU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60356088/%E5%AD%AB%E6%85%A7%E9%9B%AA%E8%87%AA%E7%88%86%E7%AA%81%E7%84%B6%E5%9A%B4%E9%87%8D%E9%81%8E%E6%95%8F-%E5%85%A8%E9%9D%A2%E7%99%BC%E7%B4%85%E7%95%AB%E9%9D%A2%E9%A9%9A%E5%9A%87-%E8%83%83%E7%97%9B%E8%82%9A%E7%97%9B%E7%99%BC%E7%97%9B%E7%99%BC%E7%99%A2",
-    "timestamp": "2026-06-02T23:01:46.593Z",
     "strategy": ".content-card__main"
   }
 ];
