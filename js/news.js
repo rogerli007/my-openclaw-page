@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-04T12:46:17.436Z
+// Last updated: 2026-06-04T13:53:46.864Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "六四事件｜警方銅鑼灣維園一帶加強巡查　至少6人被帶上警車",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260604/1139323060147458048527948.jpeg/r_87ii2VnsKmdVxm0nkvJF1Sp9jjlI4U5hso5uYbKOY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60357050/%E5%85%AD%E5%9B%9B%E4%BA%8B%E4%BB%B6-%E8%AD%A6%E6%96%B9%E9%8A%85%E9%91%BC%E7%81%A3%E7%B6%AD%E5%9C%92%E4%B8%80%E5%B8%B6%E5%8A%A0%E5%BC%B7%E5%B7%A1%E6%9F%A5-%E8%87%B3%E5%B0%916%E4%BA%BA%E8%A2%AB%E5%B8%B6%E4%B8%8A%E8%AD%A6%E8%BB%8A",
+    "timestamp": "2026-06-04T13:53:46.864Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "結業｜花園餐廳山東街店無聲告別　旺角只剩一店　食客不感意外",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260525/1135602599320358912569782.jpeg/deM6rjQWKRSo2lim7dXaKLnyNQElrLOWNv3KoTb9yqE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60353302/%E5%A4%A7%E6%AD%BB%E6%92%90%E6%97%A5%E8%88%9E%E5%8F%B0%E5%8A%872026%E9%A6%99%E6%B8%AF%E5%8A%A0%E5%A0%B4-%E9%96%80%E7%A5%A8%E6%94%BB%E7%95%A5-%E8%B3%BC%E7%A5%A8%E9%80%A3%E7%B5%90-%E5%BA%A7%E4%BD%8D%E8%A1%A8",
     "timestamp": "2026-06-03T01:42:29.884Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "英偉達與微軟達成合作：推出統一技術棧　用於部署Agentic AI",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20240120/825396599814361088968342.jpeg/OdNNtMZFiwgGY-9X7kMX8bwl-1sEuuN3ZXF1OWVxdTk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60356223/%E8%8B%B1%E5%81%89%E9%81%94%E8%88%87%E5%BE%AE%E8%BB%9F%E9%81%94%E6%88%90%E5%90%88%E4%BD%9C-%E6%8E%A8%E5%87%BA%E7%B5%B1%E4%B8%80%E6%8A%80%E8%A1%93%E6%A3%A7-%E7%94%A8%E6%96%BC%E9%83%A8%E7%BD%B2agentic-ai",
-    "timestamp": "2026-06-03T00:23:34.286Z",
     "strategy": ".content-card__main"
   }
 ];
