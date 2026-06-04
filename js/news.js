@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-04T23:14:49.256Z
+// Last updated: 2026-06-04T23:50:33.583Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "《007：初露鋒芒》首日狂賣150萬套　玩家激讚：近年最佳之作",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260605/1139461774710411264594278.png/xqd1vKuVv7YYhqVkRq-cAdF8tB2Rabar02ecvdNnnL0",
+    "url": "https://www.hk01.com/%E9%81%8A%E6%88%B2%E5%8B%95%E6%BC%AB/60356798/007-%E5%88%9D%E9%9C%B2%E9%8B%92%E8%8A%92-%E9%A6%96%E6%97%A5%E7%8B%82%E8%B3%A3150%E8%90%AC%E5%A5%97-%E7%8E%A9%E5%AE%B6%E6%BF%80%E8%AE%9A-%E8%BF%91%E5%B9%B4%E6%9C%80%E4%BD%B3%E4%B9%8B%E4%BD%9C",
+    "timestamp": "2026-06-04T23:50:33.583Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "百億闊太被拍中環商場掃靚貨　丈夫逝世栽培超模新抱獲讚壯大家族",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260522/1134457119521640448462798.jpeg/RU88qk8f0MSOmL_zDslO-X8AyVdb09GXvdsZJL3bGSQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60356635/spacex%E4%B8%8A%E5%B8%82-%E6%96%99%E8%AE%93%E7%89%B9%E6%9C%97%E6%99%AE%E7%8F%AD%E5%BA%95%E8%BA%AB%E5%AE%B6%E5%86%8D%E5%A2%9E-%E6%96%87%E4%BB%B6%E9%A1%AF%E7%A4%BA%E5%A4%9A%E5%90%8D%E5%AE%98%E5%93%A1%E6%8C%81%E6%9C%89%E8%82%A1%E4%BB%BD",
     "timestamp": "2026-06-04T00:00:46.447Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "韓國地方選舉　執政共同民主黨料大勝",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260604/1139082788218081280263458.jpeg/6Td2TMMJg82NZB_h8LydA8pXeFAp1ZnglOBu_JTgbvw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60356630/%E9%9F%93%E5%9C%8B%E5%9C%B0%E6%96%B9%E9%81%B8%E8%88%89-%E5%9F%B7%E6%94%BF%E5%85%B1%E5%90%8C%E6%B0%91%E4%B8%BB%E9%BB%A8%E6%96%99%E5%A4%A7%E5%8B%9D",
-    "timestamp": "2026-06-03T22:25:08.712Z",
     "strategy": ".content-card__main"
   }
 ];
