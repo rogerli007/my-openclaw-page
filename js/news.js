@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-03T22:25:08.712Z
+// Last updated: 2026-06-04T00:00:46.447Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "SpaceX上市｜料讓特朗普班底身家再增　文件顯示多名官員持有股份",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260522/1134457119521640448462798.jpeg/RU88qk8f0MSOmL_zDslO-X8AyVdb09GXvdsZJL3bGSQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60356635/spacex%E4%B8%8A%E5%B8%82-%E6%96%99%E8%AE%93%E7%89%B9%E6%9C%97%E6%99%AE%E7%8F%AD%E5%BA%95%E8%BA%AB%E5%AE%B6%E5%86%8D%E5%A2%9E-%E6%96%87%E4%BB%B6%E9%A1%AF%E7%A4%BA%E5%A4%9A%E5%90%8D%E5%AE%98%E5%93%A1%E6%8C%81%E6%9C%89%E8%82%A1%E4%BB%BD",
+    "timestamp": "2026-06-04T00:00:46.447Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "韓國地方選舉　執政共同民主黨料大勝",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250520/1001644370325147648278436.jpeg/aVrtsMVCxbsB8jbuRqek3nlhIVTjOtBFnqgcd6SoHHc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60356157/%E7%A7%80%E8%8C%82%E5%9D%AA%E5%AE%89%E6%B3%B0%E9%82%A8%E5%81%9C%E8%BB%8A%E5%A0%B421%E6%AD%B2%E9%9D%92%E5%B9%B4%E5%A2%AE%E6%A8%93-%E9%80%81%E9%99%A2%E6%90%B6%E6%95%91%E5%BE%8C%E4%B8%8D%E6%B2%BB",
     "timestamp": "2026-06-02T12:14:54.601Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美國開始尊重中國後，中國周邊形勢為何沒有隨之大變？",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260519/1133399117943279616275981.jpeg/Y14k50WXrJi5_0BbDCy2eIUuXxrhTJ67LR5pMy0eaTM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%9C%8B%E9%9A%9B%E5%88%86%E6%9E%90/60356125/%E7%BE%8E%E5%9C%8B%E9%96%8B%E5%A7%8B%E5%B0%8A%E9%87%8D%E4%B8%AD%E5%9C%8B%E5%BE%8C-%E4%B8%AD%E5%9C%8B%E5%91%A8%E9%82%8A%E5%BD%A2%E5%8B%A2%E7%82%BA%E4%BD%95%E6%B2%92%E6%9C%89%E9%9A%A8%E4%B9%8B%E5%A4%A7%E8%AE%8A",
-    "timestamp": "2026-06-02T10:44:40.848Z",
     "strategy": ".content-card__main"
   }
 ];
