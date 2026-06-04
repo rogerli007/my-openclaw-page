@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-04T19:36:21.502Z
+// Last updated: 2026-06-04T20:33:37.520Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "長沙灣幸福邨印傭暈倒洗手間　當場不治",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260605/1139421035913809920712459.jpeg/FuKMWG329OiZ0XpFTtvxeaBMh_O6-xmsrR-N7Jcfjew?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60357096/%E9%95%B7%E6%B2%99%E7%81%A3%E5%B9%B8%E7%A6%8F%E9%82%A8%E5%8D%B0%E5%82%AD%E6%9A%88%E5%80%92%E6%B4%97%E6%89%8B%E9%96%93-%E7%95%B6%E5%A0%B4%E4%B8%8D%E6%B2%BB",
+    "timestamp": "2026-06-04T20:33:37.520Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "路透：美國前國安顧問博爾頓擬認罪　為非法保留機密案劃上句號",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260526/1136046503589056512137048.jpeg/64RAYwYIN6T4PiD_RDHttrkQ3r_PpDzNfYF_CFiBfwg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60356335/%E5%85%B6%E5%A3%AB%E7%88%AD%E7%94%A2%E6%A1%88-%E5%A5%B3%E5%BE%8B%E5%B8%AB%E6%8C%87%E5%91%A8%E4%BA%A6%E5%8D%BF%E6%B2%92%E6%9C%89%E5%B0%B1%E4%BF%A1%E8%A8%97%E7%B5%A6%E4%BA%88%E6%8C%87%E7%A4%BA-%E6%9C%80%E7%B5%82%E6%94%BE%E6%A3%84%E6%88%90%E7%AB%8B",
     "timestamp": "2026-06-03T11:48:22.467Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "豐澤對撼電商　啟動服務升級　O+O銷售額按年雙位數增長",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20230525/738386565654384640978614.jpeg/vrlPmfLHjFnPWm7tDEzge3KblkojZSCFeygIgnsoCII?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60356525/%E8%B1%90%E6%BE%A4%E5%B0%8D%E6%92%BC%E9%9B%BB%E5%95%86-%E5%95%9F%E5%8B%95%E6%9C%8D%E5%8B%99%E5%8D%87%E7%B4%9A-o-o%E9%8A%B7%E5%94%AE%E9%A1%8D%E6%8C%89%E5%B9%B4%E9%9B%99%E4%BD%8D%E6%95%B8%E5%A2%9E%E9%95%B7",
-    "timestamp": "2026-06-03T10:00:07.172Z",
     "strategy": ".content-card__main"
   }
 ];
