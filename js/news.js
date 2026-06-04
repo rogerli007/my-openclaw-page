@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-04T22:41:32.475Z
+// Last updated: 2026-06-04T23:14:49.256Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "百億闊太被拍中環商場掃靚貨　丈夫逝世栽培超模新抱獲讚壯大家族",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260604/1139250220828200960420853.jpeg/lt_0_CvLfxyyX-CWmqfrw7yIPa9gsfTJf9WfsX_Vn7E?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60356863/%E5%9B%9B%E5%A4%AA%E6%A2%81%E5%AE%89%E7%90%AA%E7%8F%BE%E8%BA%AB%E4%B8%AD%E7%92%B0%E5%95%86%E5%A0%B4%E6%8E%83%E8%B2%A8-%E4%B8%88%E5%A4%AB%E9%80%9D%E4%B8%96%E6%A0%BD%E5%9F%B9%E8%B6%85%E6%A8%A1%E6%96%B0%E6%8A%B1%E7%8D%B2%E8%AE%9A%E5%A3%AF%E5%A4%A7%E5%AE%B6%E6%97%8F",
+    "timestamp": "2026-06-04T23:14:49.256Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "王浩信演唱會大解放透視露點騷身材　網民吐槽有被出賣靈魂的感覺",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260604/1139082788218081280263458.jpeg/6Td2TMMJg82NZB_h8LydA8pXeFAp1ZnglOBu_JTgbvw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60356630/%E9%9F%93%E5%9C%8B%E5%9C%B0%E6%96%B9%E9%81%B8%E8%88%89-%E5%9F%B7%E6%94%BF%E5%85%B1%E5%90%8C%E6%B0%91%E4%B8%BB%E9%BB%A8%E6%96%99%E5%A4%A7%E5%8B%9D",
     "timestamp": "2026-06-03T22:25:08.712Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美軍歐洲司令部：美國稱將調整對北約部隊貢獻",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20251204/1073261426107224064569281.jpeg/rLpb-0xWhc02McrKi1_JwHTotuv-KOJT5AtL8eQLS_E?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60356602/%E7%BE%8E%E8%BB%8D%E6%AD%90%E6%B4%B2%E5%8F%B8%E4%BB%A4%E9%83%A8-%E7%BE%8E%E5%9C%8B%E7%A8%B1%E5%B0%87%E8%AA%BF%E6%95%B4%E5%B0%8D%E5%8C%97%E7%B4%84%E9%83%A8%E9%9A%8A%E8%B2%A2%E7%8D%BB",
-    "timestamp": "2026-06-03T21:20:00.719Z",
     "strategy": ".content-card__main"
   }
 ];
