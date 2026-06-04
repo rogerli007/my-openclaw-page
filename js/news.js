@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-04T03:53:16.843Z
+// Last updated: 2026-06-04T05:48:36.938Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "Bitcoin｜比特幣逼近6萬美元　跌至伊戰爆發前以來低點",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260102/1083802832877916160312604.jpeg/cQLA1BdMp9aNbbDcpuJBdnIxgRyTilv-Y2HMF2NhzBc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60356770/bitcoin-%E6%AF%94%E7%89%B9%E5%B9%A3%E9%80%BC%E8%BF%916%E8%90%AC%E7%BE%8E%E5%85%83-%E8%B7%8C%E8%87%B3%E4%BC%8A%E6%88%B0%E7%88%86%E7%99%BC%E5%89%8D%E4%BB%A5%E4%BE%86%E4%BD%8E%E9%BB%9E",
+    "timestamp": "2026-06-04T05:48:36.938Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "陳婉嫻：小市民感受到經濟好？吉舖、酒樓「拍烏蠅」積累不滿情緒",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260520/1133715078768496640258196.jpeg/4fFggD6-hSXU-TQ6t60cfjeq_oj8R0xViyCTyIsgk8g?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60356204/%E4%BC%8A%E5%AA%92-%E5%93%88%E6%A2%85%E5%85%A7%E4%BC%8A%E8%91%AC%E7%A6%AE%E5%B0%87%E5%9C%A83%E5%BA%A7%E5%9F%8E%E5%B8%82%E8%88%89%E8%A1%8C-%E6%96%99%E5%A4%9A%E9%81%942000%E8%90%AC%E4%BA%BA%E5%8F%83%E5%8A%A0",
     "timestamp": "2026-06-02T18:24:33.529Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美股｜道指早段曾升逾百點　油價微跌",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20241017/923388310229880832906412.jpeg/2GEab4LIHmPQmeHCF4YJ6pp-mnXgApr5pVJ_M6VSfzM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60356188/%E7%BE%8E%E8%82%A1-%E9%81%93%E6%8C%87%E6%97%A9%E6%AE%B5%E6%9B%BE%E5%8D%87%E9%80%BE%E7%99%BE%E9%BB%9E-%E6%B2%B9%E5%83%B9%E5%BE%AE%E8%B7%8C",
-    "timestamp": "2026-06-02T15:11:16.162Z",
     "strategy": ".content-card__main"
   }
 ];
