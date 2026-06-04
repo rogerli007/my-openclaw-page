@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-04T07:22:16.273Z
+// Last updated: 2026-06-04T08:52:57.246Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "WSJ：全美業界高層罕見團結　促國會立法防AI催生生物武器",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260521/1134190836527927296785142.jpeg/TctLqM8E1-PONff-mpbxHT4YF3e8a7Xq1ywtbtcsLW4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60356839/wsj-%E5%85%A8%E7%BE%8E%E6%A5%AD%E7%95%8C%E9%AB%98%E5%B1%A4%E7%BD%95%E8%A6%8B%E5%9C%98%E7%B5%90-%E4%BF%83%E5%9C%8B%E6%9C%83%E7%AB%8B%E6%B3%95%E9%98%B2ai%E5%82%AC%E7%94%9F%E7%94%9F%E7%89%A9%E6%AD%A6%E5%99%A8",
+    "timestamp": "2026-06-04T08:52:57.246Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "日媒披露高市首份防衛白皮書渲染中國威脅　人民日報：又炒作",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260426/1125054364159840256438270.jpeg/dt2IcjZiQ0yjpW5Iv6DwvHi_3OibGTMe-SoFXPkqBVw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60356213/%E7%89%B9%E6%9C%97%E6%99%AE-%E7%99%BD%E5%AE%AE%E8%A8%98%E8%80%85%E5%8D%94%E6%9C%83%E6%99%9A%E5%AE%B47%E6%9C%8824%E6%97%A5%E9%87%8D%E6%96%B0%E8%88%89%E8%A1%8C-%E5%B7%B2%E7%8D%B2%E9%82%80%E8%AB%8B%E4%B8%A6%E8%A8%88%E5%8A%83%E5%87%BA%E5%B8%AD",
     "timestamp": "2026-06-02T21:16:18.564Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "比特幣一度跌穿6.7萬美元　跌幅逾6%",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20251015/1055083007322361856068213.jpeg/LaJqRJugJ9QCJ9fQhZWl2V3fxmbbRoE-fS_ojn0v6I4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60356210/%E6%AF%94%E7%89%B9%E5%B9%A3%E4%B8%80%E5%BA%A6%E8%B7%8C%E7%A9%BF6-7%E8%90%AC%E7%BE%8E%E5%85%83-%E8%B7%8C%E5%B9%85%E9%80%BE6",
-    "timestamp": "2026-06-02T19:52:19.678Z",
     "strategy": ".content-card__main"
   }
 ];
