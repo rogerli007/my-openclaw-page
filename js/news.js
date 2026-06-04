@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-04T16:29:13.006Z
+// Last updated: 2026-06-04T17:36:23.198Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "大灣區航空推烏魯木齊季節性航班　9.3至10.7每周3班往返香港",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260313/1109109159510413312126540.jpeg/H8BLTOwcIDM2K8TB7AkVggTWWsUb87DSq6xFx6usRcc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60357086/%E5%A4%A7%E7%81%A3%E5%8D%80%E8%88%AA%E7%A9%BA%E6%8E%A8%E7%83%8F%E9%AD%AF%E6%9C%A8%E9%BD%8A%E5%AD%A3%E7%AF%80%E6%80%A7%E8%88%AA%E7%8F%AD-9-3%E8%87%B310-7%E6%AF%8F%E5%91%A83%E7%8F%AD%E5%BE%80%E8%BF%94%E9%A6%99%E6%B8%AF",
+    "timestamp": "2026-06-04T17:36:23.198Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "東張西望｜空姐專偷熟客錢　偷唔到錢疑剪眼睫毛報復：好似掃把咁",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260603/1138679078673453056903518.jpeg/gQDk5UOyzd5KD9fTClSJRDGnV1UWS8P9vFOhkbxToZE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60356211/gordon-flanders%E7%B1%8C%E5%82%99%E5%85%A9%E5%B9%B4%E6%8E%A8%E6%96%B0%E7%A2%9F-%E7%82%BA%E9%80%A0%E5%8B%A2%E8%BE%A6%E7%B0%BD%E5%94%B1%E6%9C%83%E5%90%B8%E9%81%8E%E7%99%BE%E7%B2%89%E7%B5%B2%E6%94%AF%E6%8C%81",
     "timestamp": "2026-06-03T04:21:59.761Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "食拉麵「雪雪」聲已過時？跪地是日常？衝擊港人的22個日本文化",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20201023/396343407552761856928163.jpeg/fUrS3To7Nnmqn784jGHDWzkmKpgV37bOx_gw9cf4MPU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%97%85%E9%81%8A/539147/%E9%A3%9F%E6%8B%89%E9%BA%B5-%E9%9B%AA%E9%9B%AA-%E8%81%B2%E5%B7%B2%E9%81%8E%E6%99%82-%E8%B7%AA%E5%9C%B0%E6%98%AF%E6%97%A5%E5%B8%B8-%E8%A1%9D%E6%93%8A%E6%B8%AF%E4%BA%BA%E7%9A%8422%E5%80%8B%E6%97%A5%E6%9C%AC%E6%96%87%E5%8C%96",
-    "timestamp": "2026-06-03T02:47:15.905Z",
     "strategy": ".content-card__main"
   }
 ];
