@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-04T17:36:23.198Z
+// Last updated: 2026-06-04T18:35:30.387Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "日產英國工廠為提升開工率　擬為中國奇瑞代工生產汽車",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260605/1139387061409681408530187.jpeg/008kKr3L71_FBoL4IAQvzIKJBgVmffwsyDsenMg7Hpw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60357088/%E6%97%A5%E7%94%A2%E8%8B%B1%E5%9C%8B%E5%B7%A5%E5%BB%A0%E7%82%BA%E6%8F%90%E5%8D%87%E9%96%8B%E5%B7%A5%E7%8E%87-%E6%93%AC%E7%82%BA%E4%B8%AD%E5%9C%8B%E5%A5%87%E7%91%9E%E4%BB%A3%E5%B7%A5%E7%94%9F%E7%94%A2%E6%B1%BD%E8%BB%8A",
+    "timestamp": "2026-06-04T18:35:30.387Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "大灣區航空推烏魯木齊季節性航班　9.3至10.7每周3班往返香港",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20251009/1052996096529534976407538.jpeg/zVKTOiJI9v7W3dKM3QctHpWsC3wkdquxRToXqkU6F6o?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60356246/%E9%81%8A%E6%97%A5%E6%B3%A8%E6%84%8F-%E5%85%A8%E6%97%A5%E7%A9%BA7%E6%9C%88%E8%B5%B7%E9%9A%A8%E8%BA%AB%E8%A1%8C%E6%9D%8E%E9%99%9040-30-20cm-%E7%A2%BA%E4%BF%9D%E6%94%BE%E5%85%A5%E5%BA%A7%E4%BD%8D%E4%B8%8B",
     "timestamp": "2026-06-03T06:07:27.749Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "Gordon Flanders籌備兩年推新碟　為造勢辦簽唱會吸過百粉絲支持",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260603/1138679078673453056903518.jpeg/gQDk5UOyzd5KD9fTClSJRDGnV1UWS8P9vFOhkbxToZE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60356211/gordon-flanders%E7%B1%8C%E5%82%99%E5%85%A9%E5%B9%B4%E6%8E%A8%E6%96%B0%E7%A2%9F-%E7%82%BA%E9%80%A0%E5%8B%A2%E8%BE%A6%E7%B0%BD%E5%94%B1%E6%9C%83%E5%90%B8%E9%81%8E%E7%99%BE%E7%B2%89%E7%B5%B2%E6%94%AF%E6%8C%81",
-    "timestamp": "2026-06-03T04:21:59.761Z",
     "strategy": ".content-card__main"
   }
 ];
