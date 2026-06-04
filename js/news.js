@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-04T05:48:36.938Z
+// Last updated: 2026-06-04T07:22:16.273Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "日媒披露高市首份防衛白皮書渲染中國威脅　人民日報：又炒作",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20240118/824683040885182464039516.jpeg/1zSuqZ-TBCWfFptoZpeLEpCxK2oIBLpQexoXqHsaF6g?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60356814/%E6%97%A5%E5%AA%92%E6%8A%AB%E9%9C%B2%E9%AB%98%E5%B8%82%E9%A6%96%E4%BB%BD%E9%98%B2%E8%A1%9B%E7%99%BD%E7%9A%AE%E6%9B%B8%E6%B8%B2%E6%9F%93%E4%B8%AD%E5%9C%8B%E5%A8%81%E8%84%85-%E4%BA%BA%E6%B0%91%E6%97%A5%E5%A0%B1-%E5%8F%88%E7%82%92%E4%BD%9C",
+    "timestamp": "2026-06-04T07:22:16.273Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "Bitcoin｜比特幣逼近6萬美元　跌至伊戰爆發前以來低點",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20251015/1055083007322361856068213.jpeg/LaJqRJugJ9QCJ9fQhZWl2V3fxmbbRoE-fS_ojn0v6I4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60356210/%E6%AF%94%E7%89%B9%E5%B9%A3%E4%B8%80%E5%BA%A6%E8%B7%8C%E7%A9%BF6-7%E8%90%AC%E7%BE%8E%E5%85%83-%E8%B7%8C%E5%B9%85%E9%80%BE6",
     "timestamp": "2026-06-02T19:52:19.678Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "伊媒：哈梅內伊葬禮將在3座城市舉行　料多達2000萬人參加",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260520/1133715078768496640258196.jpeg/4fFggD6-hSXU-TQ6t60cfjeq_oj8R0xViyCTyIsgk8g?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60356204/%E4%BC%8A%E5%AA%92-%E5%93%88%E6%A2%85%E5%85%A7%E4%BC%8A%E8%91%AC%E7%A6%AE%E5%B0%87%E5%9C%A83%E5%BA%A7%E5%9F%8E%E5%B8%82%E8%88%89%E8%A1%8C-%E6%96%99%E5%A4%9A%E9%81%942000%E8%90%AC%E4%BA%BA%E5%8F%83%E5%8A%A0",
-    "timestamp": "2026-06-02T18:24:33.529Z",
     "strategy": ".content-card__main"
   }
 ];
