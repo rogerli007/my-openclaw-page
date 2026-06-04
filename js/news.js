@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-04T21:14:27.701Z
+// Last updated: 2026-06-04T21:55:45.122Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "芒種天氣｜今日部份地區極端酷熱　早晚有幾陣狂風雷暴　市區34度",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260605/1139443211303915520389265.jpeg/epYZORCrae7yT5IY_UCcPgyinx2aBMW3DzO5Zg8zuWY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60357087/%E8%8A%92%E7%A8%AE%E5%A4%A9%E6%B0%A3-%E4%BB%8A%E6%97%A5%E9%83%A8%E4%BB%BD%E5%9C%B0%E5%8D%80%E6%A5%B5%E7%AB%AF%E9%85%B7%E7%86%B1-%E6%97%A9%E6%99%9A%E6%9C%89%E5%B9%BE%E9%99%A3%E7%8B%82%E9%A2%A8%E9%9B%B7%E6%9A%B4-%E5%B8%82%E5%8D%8034%E5%BA%A6",
+    "timestamp": "2026-06-04T21:55:45.122Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "長沙灣幸福邨印傭暈倒洗手間　當場不治",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260530/1137450634379792384285436.jpeg/WlyEPVf_k0rdY5Vkzf52Ya6RrZZ43VWraIodIGiKHSA?v=w1920",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60355128/%E7%BF%B9%E6%A5%9A%E5%8A%87%E6%83%85-%E6%9C%80%E6%96%B0%E8%BF%BD%E5%8A%87%E6%97%A5%E6%9B%86-%E6%9B%B4%E6%96%B0%E6%99%82%E9%96%93-%E6%BC%94%E5%93%A1%E9%97%9C%E4%BF%82%E5%9C%96-%E8%A7%92%E8%89%B2%E7%B0%A1%E4%BB%8B",
     "timestamp": "2026-06-03T17:00:19.960Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "宏福苑｜何永賢：業主如對按揭有疑問　解說專隊可轉介銀行跟進",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260603/1138943010612973568589137.jpeg/EYpaVUc3sHWRDIbHMNGFadAPi9gG4QgSurngXrq54F4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60356574/%E5%AE%8F%E7%A6%8F%E8%8B%91-%E4%BD%95%E6%B0%B8%E8%B3%A2-%E6%A5%AD%E4%B8%BB%E5%A6%82%E5%B0%8D%E6%8C%89%E6%8F%AD%E6%9C%89%E7%96%91%E5%95%8F-%E8%A7%A3%E8%AA%AA%E5%B0%88%E9%9A%8A%E5%8F%AF%E8%BD%89%E4%BB%8B%E9%8A%80%E8%A1%8C%E8%B7%9F%E9%80%B2",
-    "timestamp": "2026-06-03T13:21:21.599Z",
     "strategy": ".content-card__main"
   }
 ];
