@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-04T20:33:37.520Z
+// Last updated: 2026-06-04T21:14:27.701Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "長沙灣幸福邨印傭暈倒洗手間　當場不治",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260605/1139421035913809920712459.jpeg/FuKMWG329OiZ0XpFTtvxeaBMh_O6-xmsrR-N7Jcfjew?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60357096/%E9%95%B7%E6%B2%99%E7%81%A3%E5%B9%B8%E7%A6%8F%E9%82%A8%E5%8D%B0%E5%82%AD%E6%9A%88%E5%80%92%E6%B4%97%E6%89%8B%E9%96%93-%E7%95%B6%E5%A0%B4%E4%B8%8D%E6%B2%BB",
+    "timestamp": "2026-06-04T21:14:27.701Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "長沙灣幸福邨印傭暈倒洗手間　當場不治",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260603/1138943010612973568589137.jpeg/EYpaVUc3sHWRDIbHMNGFadAPi9gG4QgSurngXrq54F4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60356574/%E5%AE%8F%E7%A6%8F%E8%8B%91-%E4%BD%95%E6%B0%B8%E8%B3%A2-%E6%A5%AD%E4%B8%BB%E5%A6%82%E5%B0%8D%E6%8C%89%E6%8F%AD%E6%9C%89%E7%96%91%E5%95%8F-%E8%A7%A3%E8%AA%AA%E5%B0%88%E9%9A%8A%E5%8F%AF%E8%BD%89%E4%BB%8B%E9%8A%80%E8%A1%8C%E8%B7%9F%E9%80%B2",
     "timestamp": "2026-06-03T13:21:21.599Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "其士爭產案　女律師指周亦卿沒有就信託給予指示　最終放棄成立",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260526/1136046503589056512137048.jpeg/64RAYwYIN6T4PiD_RDHttrkQ3r_PpDzNfYF_CFiBfwg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60356335/%E5%85%B6%E5%A3%AB%E7%88%AD%E7%94%A2%E6%A1%88-%E5%A5%B3%E5%BE%8B%E5%B8%AB%E6%8C%87%E5%91%A8%E4%BA%A6%E5%8D%BF%E6%B2%92%E6%9C%89%E5%B0%B1%E4%BF%A1%E8%A8%97%E7%B5%A6%E4%BA%88%E6%8C%87%E7%A4%BA-%E6%9C%80%E7%B5%82%E6%94%BE%E6%A3%84%E6%88%90%E7%AB%8B",
-    "timestamp": "2026-06-03T11:48:22.467Z",
     "strategy": ".content-card__main"
   }
 ];
