@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-04T23:50:33.583Z
+// Last updated: 2026-06-05T00:18:20.022Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "盛寶銀行：銅市等待美國關鍵關稅決定",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250709/1019482502336614400806457.jpeg/4yjAA94cxazVc5merKk0xUDdKOcMXGjeTynhck8p4XI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60357112/%E7%9B%9B%E5%AF%B6%E9%8A%80%E8%A1%8C-%E9%8A%85%E5%B8%82%E7%AD%89%E5%BE%85%E7%BE%8E%E5%9C%8B%E9%97%9C%E9%8D%B5%E9%97%9C%E7%A8%85%E6%B1%BA%E5%AE%9A",
+    "timestamp": "2026-06-05T00:18:20.022Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "《007：初露鋒芒》首日狂賣150萬套　玩家激讚：近年最佳之作",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250306/974337854937239552034826.jpeg/TbQlj6ndk1h2TpX7Bu8JSngn1FnObN6zdhnqSnYZ6ko?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60356674/%E6%B5%B7%E6%B4%8B%E7%B6%93%E6%BF%9F-%E8%AD%B0%E5%93%A1%E5%80%A1%E5%85%AC%E7%A7%81%E7%87%9F%E6%A8%A1%E5%BC%8F%E9%96%8B%E7%99%BC%E6%B5%B7%E5%B3%B6-%E5%88%86%E6%B5%81%E6%B7%B1%E5%9C%B3%E8%B2%A8%E6%BA%90%E5%A2%9E%E6%9C%AC%E6%B8%AF%E5%90%9E%E5%90%90%E9%87%8F",
     "timestamp": "2026-06-04T02:29:22.981Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "SpaceX上市｜料讓特朗普班底身家再增　文件顯示多名官員持有股份",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260522/1134457119521640448462798.jpeg/RU88qk8f0MSOmL_zDslO-X8AyVdb09GXvdsZJL3bGSQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60356635/spacex%E4%B8%8A%E5%B8%82-%E6%96%99%E8%AE%93%E7%89%B9%E6%9C%97%E6%99%AE%E7%8F%AD%E5%BA%95%E8%BA%AB%E5%AE%B6%E5%86%8D%E5%A2%9E-%E6%96%87%E4%BB%B6%E9%A1%AF%E7%A4%BA%E5%A4%9A%E5%90%8D%E5%AE%98%E5%93%A1%E6%8C%81%E6%9C%89%E8%82%A1%E4%BB%BD",
-    "timestamp": "2026-06-04T00:00:46.447Z",
     "strategy": ".content-card__main"
   }
 ];
