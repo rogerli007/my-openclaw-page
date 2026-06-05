@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-05T18:28:43.134Z
+// Last updated: 2026-06-05T19:15:02.967Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "尖沙咀的士撞女途人　傷者送院搶救不治",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260606/1139763708763836416783156.jpeg/dQ60BKaMw-c6MqfcCldWTGp-KWFa0M7NAp0fKTidHyk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60357487/%E5%B0%96%E6%B2%99%E5%92%80%E7%9A%84%E5%A3%AB%E6%92%9E%E5%A5%B3%E9%80%94%E4%BA%BA-%E5%82%B7%E8%80%85%E9%80%81%E9%99%A2%E6%90%B6%E6%95%91%E4%B8%8D%E6%B2%BB",
+    "timestamp": "2026-06-05T19:15:02.967Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "小泉進次郎晤印尼防長　雙方同意就出口護衛艦啟動磋商",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260313/1109109159510413312126540.jpeg/H8BLTOwcIDM2K8TB7AkVggTWWsUb87DSq6xFx6usRcc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60357086/%E5%A4%A7%E7%81%A3%E5%8D%80%E8%88%AA%E7%A9%BA%E6%8E%A8%E7%83%8F%E9%AD%AF%E6%9C%A8%E9%BD%8A%E5%AD%A3%E7%AF%80%E6%80%A7%E8%88%AA%E7%8F%AD-9-3%E8%87%B310-7%E6%AF%8F%E5%91%A83%E7%8F%AD%E5%BE%80%E8%BF%94%E9%A6%99%E6%B8%AF",
     "timestamp": "2026-06-04T17:36:23.198Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "東張西望｜空姐專偷熟客錢　偷唔到錢疑剪眼睫毛報復：好似掃把咁",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260604/1139344813691244544096548.jpeg/DaXvfv35c6KB5D_HQHwYNN7RZnakOYFFlhXKhpYVyoY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60357077/%E6%9D%B1%E5%BC%B5%E8%A5%BF%E6%9C%9B-%E7%A9%BA%E5%A7%90%E5%B0%88%E5%81%B7%E7%86%9F%E5%AE%A2%E9%8C%A2-%E5%81%B7%E5%94%94%E5%88%B0%E9%8C%A2%E7%96%91%E5%89%AA%E7%9C%BC%E7%9D%AB%E6%AF%9B%E5%A0%B1%E5%BE%A9-%E5%A5%BD%E4%BC%BC%E6%8E%83%E6%8A%8A%E5%92%81",
-    "timestamp": "2026-06-04T16:29:13.006Z",
     "strategy": ".content-card__main"
   }
 ];
