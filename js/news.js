@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-05T08:37:53.547Z
+// Last updated: 2026-06-05T10:13:15.987Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "青朗公路貨車與私家車相撞翻側堵三線　一人受傷　出九龍大塞車",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260605/1139626837962395648157294.png/9YuCahmP48nMEcNpgPzPg2R9XmGWE9dGXaYwsV2mMLE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60357386/%E9%9D%92%E6%9C%97%E5%85%AC%E8%B7%AF%E8%B2%A8%E8%BB%8A%E8%88%87%E7%A7%81%E5%AE%B6%E8%BB%8A%E7%9B%B8%E6%92%9E%E7%BF%BB%E5%81%B4%E5%A0%B5%E4%B8%89%E7%B7%9A-%E4%B8%80%E4%BA%BA%E5%8F%97%E5%82%B7-%E5%87%BA%E4%B9%9D%E9%BE%8D%E5%A4%A7%E5%A1%9E%E8%BB%8A",
+    "timestamp": "2026-06-05T10:13:15.987Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "油價飆升帶動中國電單車賣爆英國　商店九成中國貨　雅迪試騎吸客",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260604/1139270245874143232714836.jpeg/QapJ68pICyFKCY8gwxAytfvv981D5qsW_RbpZv0W6WY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%97%9D%E6%96%87/60356025/6%E6%9C%88%E8%97%9D%E6%96%87%E6%B4%BB%E5%8B%95-%E8%8E%8E%E5%8A%87%E7%AF%80%E5%A5%A7%E8%B3%BD%E7%BE%85-%E5%93%88%E5%A7%86%E9%9B%B7%E7%89%B9-m-%E5%A4%9C%E4%B8%8D%E5%90%8C-%E8%8E%8E%E5%A3%AB%E6%AF%94%E4%BA%9Ex%E8%AA%BF%E9%85%92%E9%AB%94%E9%A9%97",
     "timestamp": "2026-06-04T10:26:55.419Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "WSJ：全美業界高層罕見團結　促國會立法防AI催生生物武器",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260521/1134190836527927296785142.jpeg/TctLqM8E1-PONff-mpbxHT4YF3e8a7Xq1ywtbtcsLW4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60356839/wsj-%E5%85%A8%E7%BE%8E%E6%A5%AD%E7%95%8C%E9%AB%98%E5%B1%A4%E7%BD%95%E8%A6%8B%E5%9C%98%E7%B5%90-%E4%BF%83%E5%9C%8B%E6%9C%83%E7%AB%8B%E6%B3%95%E9%98%B2ai%E5%82%AC%E7%94%9F%E7%94%9F%E7%89%A9%E6%AD%A6%E5%99%A8",
-    "timestamp": "2026-06-04T08:52:57.246Z",
     "strategy": ".content-card__main"
   }
 ];
