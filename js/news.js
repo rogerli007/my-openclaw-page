@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-05T21:21:28.262Z
+// Last updated: 2026-06-05T23:16:19.408Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "經濟民生、金融創科　皆離不開房地產　樓市是長期被誤導的市場",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260313/1109191810887979008610879.jpeg/KLw5oyxzxUnZvl488-Zu5ISXuuqe3NlLw3qD6sN6g-o?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60357362/%E7%B6%93%E6%BF%9F%E6%B0%91%E7%94%9F-%E9%87%91%E8%9E%8D%E5%89%B5%E7%A7%91-%E7%9A%86%E9%9B%A2%E4%B8%8D%E9%96%8B%E6%88%BF%E5%9C%B0%E7%94%A2-%E6%A8%93%E5%B8%82%E6%98%AF%E9%95%B7%E6%9C%9F%E8%A2%AB%E8%AA%A4%E5%B0%8E%E7%9A%84%E5%B8%82%E5%A0%B4",
+    "timestamp": "2026-06-05T23:16:19.408Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "安德魯醜聞纏身　被揭曾長期低價租住皇室豪宅　再分租物業圖利",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260605/1139421035913809920712459.jpeg/FuKMWG329OiZ0XpFTtvxeaBMh_O6-xmsrR-N7Jcfjew?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60357096/%E9%95%B7%E6%B2%99%E7%81%A3%E5%B9%B8%E7%A6%8F%E9%82%A8%E5%8D%B0%E5%82%AD%E6%9A%88%E5%80%92%E6%B4%97%E6%89%8B%E9%96%93-%E7%95%B6%E5%A0%B4%E4%B8%8D%E6%B2%BB",
     "timestamp": "2026-06-04T20:33:37.520Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "路透：美國前國安顧問博爾頓擬認罪　為非法保留機密案劃上句號",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20251018/1056238021629710336951468.jpeg/sPkep_LtpP7t-nnyBMyIDsz6_h9CpR5uPUI1yT1CNck?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60357090/%E8%B7%AF%E9%80%8F-%E7%BE%8E%E5%9C%8B%E5%89%8D%E5%9C%8B%E5%AE%89%E9%A1%A7%E5%95%8F%E5%8D%9A%E7%88%BE%E9%A0%93%E6%93%AC%E8%AA%8D%E7%BD%AA-%E7%82%BA%E9%9D%9E%E6%B3%95%E4%BF%9D%E7%95%99%E6%A9%9F%E5%AF%86%E6%A1%88%E5%8A%83%E4%B8%8A%E5%8F%A5%E8%99%9F",
-    "timestamp": "2026-06-04T19:36:21.502Z",
     "strategy": ".content-card__main"
   }
 ];
