@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-05T20:47:18.454Z
+// Last updated: 2026-06-05T21:21:28.262Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "安德魯醜聞纏身　被揭曾長期低價租住皇室豪宅　再分租物業圖利",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260606/1139784954801033216092765.jpeg/hbmt5a75_ZNw29O-o-WCTtaPLT1DodXe9V1Bw_VdQcM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60357492/%E5%AE%89%E5%BE%B7%E9%AD%AF%E9%86%9C%E8%81%9E%E7%BA%8F%E8%BA%AB-%E8%A2%AB%E6%8F%AD%E6%9B%BE%E9%95%B7%E6%9C%9F%E4%BD%8E%E5%83%B9%E7%A7%9F%E4%BD%8F%E7%9A%87%E5%AE%A4%E8%B1%AA%E5%AE%85-%E5%86%8D%E5%88%86%E7%A7%9F%E7%89%A9%E6%A5%AD%E5%9C%96%E5%88%A9",
+    "timestamp": "2026-06-05T21:21:28.262Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "多圖｜最熱芒種雨後出雙彩虹、閃電逾六千次　今起迎4日狂風雷暴",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20251018/1056238021629710336951468.jpeg/sPkep_LtpP7t-nnyBMyIDsz6_h9CpR5uPUI1yT1CNck?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60357090/%E8%B7%AF%E9%80%8F-%E7%BE%8E%E5%9C%8B%E5%89%8D%E5%9C%8B%E5%AE%89%E9%A1%A7%E5%95%8F%E5%8D%9A%E7%88%BE%E9%A0%93%E6%93%AC%E8%AA%8D%E7%BD%AA-%E7%82%BA%E9%9D%9E%E6%B3%95%E4%BF%9D%E7%95%99%E6%A9%9F%E5%AF%86%E6%A1%88%E5%8A%83%E4%B8%8A%E5%8F%A5%E8%99%9F",
     "timestamp": "2026-06-04T19:36:21.502Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "日產英國工廠為提升開工率　擬為中國奇瑞代工生產汽車",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260605/1139387061409681408530187.jpeg/008kKr3L71_FBoL4IAQvzIKJBgVmffwsyDsenMg7Hpw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60357088/%E6%97%A5%E7%94%A2%E8%8B%B1%E5%9C%8B%E5%B7%A5%E5%BB%A0%E7%82%BA%E6%8F%90%E5%8D%87%E9%96%8B%E5%B7%A5%E7%8E%87-%E6%93%AC%E7%82%BA%E4%B8%AD%E5%9C%8B%E5%A5%87%E7%91%9E%E4%BB%A3%E5%B7%A5%E7%94%9F%E7%94%A2%E6%B1%BD%E8%BB%8A",
-    "timestamp": "2026-06-04T18:35:30.387Z",
     "strategy": ".content-card__main"
   }
 ];
