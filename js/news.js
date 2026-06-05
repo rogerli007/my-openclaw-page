@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-05T05:44:20.279Z
+// Last updated: 2026-06-05T07:15:14.626Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "蜂蜜好處｜緩解鯁喉防食道灼傷！醫揭蜂蜜3功效不只潤喉1類人禁食",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260605/1139568289014353920856279.jpeg/82CA1buKTQG8CSxvCQGRSZzo2iFidjaKYGN0cWBjdHE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60352059/%E8%9C%82%E8%9C%9C%E5%A5%BD%E8%99%95-%E7%B7%A9%E8%A7%A3%E9%AF%81%E5%96%89%E9%98%B2%E9%A3%9F%E9%81%93%E7%81%BC%E5%82%B7-%E9%86%AB%E6%8F%AD%E8%9C%82%E8%9C%9C3%E5%8A%9F%E6%95%88%E4%B8%8D%E5%8F%AA%E6%BD%A4%E5%96%891%E9%A1%9E%E4%BA%BA%E7%A6%81%E9%A3%9F",
+    "timestamp": "2026-06-05T07:15:14.626Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "iPhone 17先達回收炒價直擊｜5/6 Pro 細機下插｜每日更新",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20240118/824683040885182464039516.jpeg/1zSuqZ-TBCWfFptoZpeLEpCxK2oIBLpQexoXqHsaF6g?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60356814/%E6%97%A5%E5%AA%92%E6%8A%AB%E9%9C%B2%E9%AB%98%E5%B8%82%E9%A6%96%E4%BB%BD%E9%98%B2%E8%A1%9B%E7%99%BD%E7%9A%AE%E6%9B%B8%E6%B8%B2%E6%9F%93%E4%B8%AD%E5%9C%8B%E5%A8%81%E8%84%85-%E4%BA%BA%E6%B0%91%E6%97%A5%E5%A0%B1-%E5%8F%88%E7%82%92%E4%BD%9C",
     "timestamp": "2026-06-04T07:22:16.273Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "Bitcoin｜比特幣逼近6萬美元　跌至伊戰爆發前以來低點",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260102/1083802832877916160312604.jpeg/cQLA1BdMp9aNbbDcpuJBdnIxgRyTilv-Y2HMF2NhzBc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60356770/bitcoin-%E6%AF%94%E7%89%B9%E5%B9%A3%E9%80%BC%E8%BF%916%E8%90%AC%E7%BE%8E%E5%85%83-%E8%B7%8C%E8%87%B3%E4%BC%8A%E6%88%B0%E7%88%86%E7%99%BC%E5%89%8D%E4%BB%A5%E4%BE%86%E4%BD%8E%E9%BB%9E",
-    "timestamp": "2026-06-04T05:48:36.938Z",
     "strategy": ".content-card__main"
   }
 ];
