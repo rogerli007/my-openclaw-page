@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-05T23:16:19.408Z
+// Last updated: 2026-06-05T23:48:43.191Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "肝臟當脾臟！庸醫：無法分辨　切錯器官病人大出血亡　涉過失殺人",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260606/1139741382840160256734162.png/EH2CRDjAKF7yPfZRUk9X3UpMlAjXHTtoEDHn6xAx5-s?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60341958/%E8%82%9D%E8%87%9F%E7%95%B6%E8%84%BE%E8%87%9F-%E5%BA%B8%E9%86%AB-%E7%84%A1%E6%B3%95%E5%88%86%E8%BE%A8-%E5%88%87%E9%8C%AF%E5%99%A8%E5%AE%98%E7%97%85%E4%BA%BA%E5%A4%A7%E5%87%BA%E8%A1%80%E4%BA%A1-%E6%B6%89%E9%81%8E%E5%A4%B1%E6%AE%BA%E4%BA%BA",
+    "timestamp": "2026-06-05T23:48:43.191Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "經濟民生、金融創科　皆離不開房地產　樓市是長期被誤導的市場",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260605/1139421035913809920712459.jpeg/FuKMWG329OiZ0XpFTtvxeaBMh_O6-xmsrR-N7Jcfjew?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60357096/%E9%95%B7%E6%B2%99%E7%81%A3%E5%B9%B8%E7%A6%8F%E9%82%A8%E5%8D%B0%E5%82%AD%E6%9A%88%E5%80%92%E6%B4%97%E6%89%8B%E9%96%93-%E7%95%B6%E5%A0%B4%E4%B8%8D%E6%B2%BB",
     "timestamp": "2026-06-04T21:14:27.701Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "長沙灣幸福邨印傭暈倒洗手間　當場不治",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260605/1139421035913809920712459.jpeg/FuKMWG329OiZ0XpFTtvxeaBMh_O6-xmsrR-N7Jcfjew?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60357096/%E9%95%B7%E6%B2%99%E7%81%A3%E5%B9%B8%E7%A6%8F%E9%82%A8%E5%8D%B0%E5%82%AD%E6%9A%88%E5%80%92%E6%B4%97%E6%89%8B%E9%96%93-%E7%95%B6%E5%A0%B4%E4%B8%8D%E6%B2%BB",
-    "timestamp": "2026-06-04T20:33:37.520Z",
     "strategy": ".content-card__main"
   }
 ];
