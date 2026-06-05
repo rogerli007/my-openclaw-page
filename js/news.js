@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-05T00:18:20.022Z
+// Last updated: 2026-06-05T03:57:39.401Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "危情逆戀劇情｜最新追劇日曆/更新時間+演員關係圖+角色簡介",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260604/1139166010805325824528764.jpeg/fiRXJ-7ivEuMbCgLktBGKWS1inVWvZ0wbXIO8W1yDvE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60356721/%E5%8D%B1%E6%83%85%E9%80%86%E6%88%80%E5%8A%87%E6%83%85-%E6%9C%80%E6%96%B0%E8%BF%BD%E5%8A%87%E6%97%A5%E6%9B%86-%E6%9B%B4%E6%96%B0%E6%99%82%E9%96%93-%E6%BC%94%E5%93%A1%E9%97%9C%E4%BF%82%E5%9C%96-%E8%A7%92%E8%89%B2%E7%B0%A1%E4%BB%8B",
+    "timestamp": "2026-06-05T03:57:39.401Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "盛寶銀行：銅市等待美國關鍵關稅決定",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/5514773/org/af8336a3b7e84f5022a8963d1de61451.png/QYn1zDS9LdVQzMo1l5uGcLS9XtcchVxTKlSovypUqL8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60356712/%E9%99%B3%E5%A9%89%E5%AB%BB-%E5%B0%8F%E5%B8%82%E6%B0%91%E6%84%9F%E5%8F%97%E5%88%B0%E7%B6%93%E6%BF%9F%E5%A5%BD-%E5%90%89%E8%88%96-%E9%85%92%E6%A8%93-%E6%8B%8D%E7%83%8F%E8%A0%85-%E7%A9%8D%E7%B4%AF%E4%B8%8D%E6%BB%BF%E6%83%85%E7%B7%92",
     "timestamp": "2026-06-04T03:53:16.843Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "海洋經濟｜議員倡公私營模式開發海島　分流深圳貨源增本港吞吐量",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250306/974337854937239552034826.jpeg/TbQlj6ndk1h2TpX7Bu8JSngn1FnObN6zdhnqSnYZ6ko?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60356674/%E6%B5%B7%E6%B4%8B%E7%B6%93%E6%BF%9F-%E8%AD%B0%E5%93%A1%E5%80%A1%E5%85%AC%E7%A7%81%E7%87%9F%E6%A8%A1%E5%BC%8F%E9%96%8B%E7%99%BC%E6%B5%B7%E5%B3%B6-%E5%88%86%E6%B5%81%E6%B7%B1%E5%9C%B3%E8%B2%A8%E6%BA%90%E5%A2%9E%E6%9C%AC%E6%B8%AF%E5%90%9E%E5%90%90%E9%87%8F",
-    "timestamp": "2026-06-04T02:29:22.981Z",
     "strategy": ".content-card__main"
   }
 ];
