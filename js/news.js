@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-05T07:15:14.626Z
+// Last updated: 2026-06-05T08:37:53.547Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "油價飆升帶動中國電單車賣爆英國　商店九成中國貨　雅迪試騎吸客",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260605/1139582171451756544641805.jpeg/YIlnFBx-K2kT1fWWR4LbYc9MUl3vAmMddS5jd3UuY3c?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60357288/%E6%B2%B9%E5%83%B9%E9%A3%86%E5%8D%87%E5%B8%B6%E5%8B%95%E4%B8%AD%E5%9C%8B%E9%9B%BB%E5%96%AE%E8%BB%8A%E8%B3%A3%E7%88%86%E8%8B%B1%E5%9C%8B-%E5%95%86%E5%BA%97%E4%B9%9D%E6%88%90%E4%B8%AD%E5%9C%8B%E8%B2%A8-%E9%9B%85%E8%BF%AA%E8%A9%A6%E9%A8%8E%E5%90%B8%E5%AE%A2",
+    "timestamp": "2026-06-05T08:37:53.547Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "蜂蜜好處｜緩解鯁喉防食道灼傷！醫揭蜂蜜3功效不只潤喉1類人禁食",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260521/1134190836527927296785142.jpeg/TctLqM8E1-PONff-mpbxHT4YF3e8a7Xq1ywtbtcsLW4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60356839/wsj-%E5%85%A8%E7%BE%8E%E6%A5%AD%E7%95%8C%E9%AB%98%E5%B1%A4%E7%BD%95%E8%A6%8B%E5%9C%98%E7%B5%90-%E4%BF%83%E5%9C%8B%E6%9C%83%E7%AB%8B%E6%B3%95%E9%98%B2ai%E5%82%AC%E7%94%9F%E7%94%9F%E7%89%A9%E6%AD%A6%E5%99%A8",
     "timestamp": "2026-06-04T08:52:57.246Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "日媒披露高市首份防衛白皮書渲染中國威脅　人民日報：又炒作",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20240118/824683040885182464039516.jpeg/1zSuqZ-TBCWfFptoZpeLEpCxK2oIBLpQexoXqHsaF6g?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60356814/%E6%97%A5%E5%AA%92%E6%8A%AB%E9%9C%B2%E9%AB%98%E5%B8%82%E9%A6%96%E4%BB%BD%E9%98%B2%E8%A1%9B%E7%99%BD%E7%9A%AE%E6%9B%B8%E6%B8%B2%E6%9F%93%E4%B8%AD%E5%9C%8B%E5%A8%81%E8%84%85-%E4%BA%BA%E6%B0%91%E6%97%A5%E5%A0%B1-%E5%8F%88%E7%82%92%E4%BD%9C",
-    "timestamp": "2026-06-04T07:22:16.273Z",
     "strategy": ".content-card__main"
   }
 ];
