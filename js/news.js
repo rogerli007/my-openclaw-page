@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-05T10:13:15.987Z
+// Last updated: 2026-06-05T11:30:49.192Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "深圳天氣預報｜週末北上注意！明最高32°C兼有雷暴、大雨隨時殺到",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260605/1139647736505700352129650.jpeg/9ZMS8zR8X33DK9NiRj7YKhYExV2rMBc5fNmUynzZlMo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%97%85%E9%81%8A/60356816/%E6%B7%B1%E5%9C%B3%E5%A4%A9%E6%B0%A3%E9%A0%90%E5%A0%B1-%E9%80%B1%E6%9C%AB%E5%8C%97%E4%B8%8A%E6%B3%A8%E6%84%8F-%E6%98%8E%E6%9C%80%E9%AB%9832-c%E5%85%BC%E6%9C%89%E9%9B%B7%E6%9A%B4-%E5%A4%A7%E9%9B%A8%E9%9A%A8%E6%99%82%E6%AE%BA%E5%88%B0",
+    "timestamp": "2026-06-05T11:30:49.192Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "青朗公路貨車與私家車相撞翻側堵三線　一人受傷　出九龍大塞車",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260512/1130878946691256320734102.jpeg/2i0DrT7ETDE7zoubK1nB-bbtUmOLFF1O-J9QDfifUA0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%AB%87%E6%83%85%E8%AA%AA%E6%80%A7/60349041/%E5%88%A5%E8%A2%AB%E5%BF%83%E5%8B%95%E9%81%AE%E7%9C%BC-%E5%BF%83%E7%90%86%E5%AD%B8%E5%AE%B6%E6%8F%AD%E6%9B%96%E6%98%A7%E6%9C%9F5%E5%A4%A7%E8%AD%A6%E8%99%9F-%E8%AA%8D%E6%B8%85%E6%B8%A3%E7%94%B7%E8%A1%8C%E7%82%BA%E5%8F%8A%E6%99%82%E6%AD%A2%E6%90%8D",
     "timestamp": "2026-06-04T11:37:28.062Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "6月藝文活動|莎劇節奧賽羅+哈姆雷特/M+夜不同/莎士比亞x調酒體驗",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260604/1139270245874143232714836.jpeg/QapJ68pICyFKCY8gwxAytfvv981D5qsW_RbpZv0W6WY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%97%9D%E6%96%87/60356025/6%E6%9C%88%E8%97%9D%E6%96%87%E6%B4%BB%E5%8B%95-%E8%8E%8E%E5%8A%87%E7%AF%80%E5%A5%A7%E8%B3%BD%E7%BE%85-%E5%93%88%E5%A7%86%E9%9B%B7%E7%89%B9-m-%E5%A4%9C%E4%B8%8D%E5%90%8C-%E8%8E%8E%E5%A3%AB%E6%AF%94%E4%BA%9Ex%E8%AA%BF%E9%85%92%E9%AB%94%E9%A9%97",
-    "timestamp": "2026-06-04T10:26:55.419Z",
     "strategy": ".content-card__main"
   }
 ];
