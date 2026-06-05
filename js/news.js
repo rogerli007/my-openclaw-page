@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-05T15:49:53.485Z
+// Last updated: 2026-06-05T18:28:43.134Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "小泉進次郎晤印尼防長　雙方同意就出口護衛艦啟動磋商",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260606/1139746872861134848851403.jpeg/8K_tQjTCxnMjgINmjFRcDT784-yTI-JO-WSBTPlkgUw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60357484/%E5%B0%8F%E6%B3%89%E9%80%B2%E6%AC%A1%E9%83%8E%E6%99%A4%E5%8D%B0%E5%B0%BC%E9%98%B2%E9%95%B7-%E9%9B%99%E6%96%B9%E5%90%8C%E6%84%8F%E5%B0%B1%E5%87%BA%E5%8F%A3%E8%AD%B7%E8%A1%9B%E8%89%A6%E5%95%9F%E5%8B%95%E7%A3%8B%E5%95%86",
+    "timestamp": "2026-06-05T18:28:43.134Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "重慶理工副校長傳遭副教授持刀刺死　疑因職場長期矛盾升遷被阻",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260604/1139344813691244544096548.jpeg/DaXvfv35c6KB5D_HQHwYNN7RZnakOYFFlhXKhpYVyoY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60357077/%E6%9D%B1%E5%BC%B5%E8%A5%BF%E6%9C%9B-%E7%A9%BA%E5%A7%90%E5%B0%88%E5%81%B7%E7%86%9F%E5%AE%A2%E9%8C%A2-%E5%81%B7%E5%94%94%E5%88%B0%E9%8C%A2%E7%96%91%E5%89%AA%E7%9C%BC%E7%9D%AB%E6%AF%9B%E5%A0%B1%E5%BE%A9-%E5%A5%BD%E4%BC%BC%E6%8E%83%E6%8A%8A%E5%92%81",
     "timestamp": "2026-06-04T16:29:13.006Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "六四事件｜警方銅鑼灣維園一帶加強巡查　至少6人被帶上警車",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260604/1139323060147458048527948.jpeg/r_87ii2VnsKmdVxm0nkvJF1Sp9jjlI4U5hso5uYbKOY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60357050/%E5%85%AD%E5%9B%9B%E4%BA%8B%E4%BB%B6-%E8%AD%A6%E6%96%B9%E9%8A%85%E9%91%BC%E7%81%A3%E7%B6%AD%E5%9C%92%E4%B8%80%E5%B8%B6%E5%8A%A0%E5%BC%B7%E5%B7%A1%E6%9F%A5-%E8%87%B3%E5%B0%916%E4%BA%BA%E8%A2%AB%E5%B8%B6%E4%B8%8A%E8%AD%A6%E8%BB%8A",
-    "timestamp": "2026-06-04T13:53:46.864Z",
     "strategy": ".content-card__main"
   }
 ];
