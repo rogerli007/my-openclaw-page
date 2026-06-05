@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-05T19:15:02.967Z
+// Last updated: 2026-06-05T20:47:18.454Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "多圖｜最熱芒種雨後出雙彩虹、閃電逾六千次　今起迎4日狂風雷暴",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260606/1139767020137484288621480.jpeg/JlesAEdjXcN7QvCkD9nIBmCvAD5wPnfY8uqTi_Lqk4s?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60357488/%E5%A4%9A%E5%9C%96-%E6%9C%80%E7%86%B1%E8%8A%92%E7%A8%AE%E9%9B%A8%E5%BE%8C%E5%87%BA%E9%9B%99%E5%BD%A9%E8%99%B9-%E9%96%83%E9%9B%BB%E9%80%BE%E5%85%AD%E5%8D%83%E6%AC%A1-%E4%BB%8A%E8%B5%B7%E8%BF%8E4%E6%97%A5%E7%8B%82%E9%A2%A8%E9%9B%B7%E6%9A%B4",
+    "timestamp": "2026-06-05T20:47:18.454Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "尖沙咀的士撞女途人　傷者送院搶救不治",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260605/1139387061409681408530187.jpeg/008kKr3L71_FBoL4IAQvzIKJBgVmffwsyDsenMg7Hpw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60357088/%E6%97%A5%E7%94%A2%E8%8B%B1%E5%9C%8B%E5%B7%A5%E5%BB%A0%E7%82%BA%E6%8F%90%E5%8D%87%E9%96%8B%E5%B7%A5%E7%8E%87-%E6%93%AC%E7%82%BA%E4%B8%AD%E5%9C%8B%E5%A5%87%E7%91%9E%E4%BB%A3%E5%B7%A5%E7%94%9F%E7%94%A2%E6%B1%BD%E8%BB%8A",
     "timestamp": "2026-06-04T18:35:30.387Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "大灣區航空推烏魯木齊季節性航班　9.3至10.7每周3班往返香港",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260313/1109109159510413312126540.jpeg/H8BLTOwcIDM2K8TB7AkVggTWWsUb87DSq6xFx6usRcc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60357086/%E5%A4%A7%E7%81%A3%E5%8D%80%E8%88%AA%E7%A9%BA%E6%8E%A8%E7%83%8F%E9%AD%AF%E6%9C%A8%E9%BD%8A%E5%AD%A3%E7%AF%80%E6%80%A7%E8%88%AA%E7%8F%AD-9-3%E8%87%B310-7%E6%AF%8F%E5%91%A83%E7%8F%AD%E5%BE%80%E8%BF%94%E9%A6%99%E6%B8%AF",
-    "timestamp": "2026-06-04T17:36:23.198Z",
     "strategy": ".content-card__main"
   }
 ];
