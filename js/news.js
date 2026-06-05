@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-05T12:31:34.889Z
+// Last updated: 2026-06-05T15:49:53.485Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "重慶理工副校長傳遭副教授持刀刺死　疑因職場長期矛盾升遷被阻",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260605/1139713077978075136241687.png/3QyBvE-NW7DE23tZRv8LD9fGZvKNByAjj75VII--VSA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60357470/%E9%87%8D%E6%85%B6%E7%90%86%E5%B7%A5%E5%89%AF%E6%A0%A1%E9%95%B7%E5%82%B3%E9%81%AD%E5%89%AF%E6%95%99%E6%8E%88%E6%8C%81%E5%88%80%E5%88%BA%E6%AD%BB-%E7%96%91%E5%9B%A0%E8%81%B7%E5%A0%B4%E9%95%B7%E6%9C%9F%E7%9F%9B%E7%9B%BE%E5%8D%87%E9%81%B7%E8%A2%AB%E9%98%BB",
+    "timestamp": "2026-06-05T15:49:53.485Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "詹天文7月麥花臣首開個唱　預告大騷線條兼突破形象挑戰HipHop",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260604/1139323060147458048527948.jpeg/r_87ii2VnsKmdVxm0nkvJF1Sp9jjlI4U5hso5uYbKOY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60357050/%E5%85%AD%E5%9B%9B%E4%BA%8B%E4%BB%B6-%E8%AD%A6%E6%96%B9%E9%8A%85%E9%91%BC%E7%81%A3%E7%B6%AD%E5%9C%92%E4%B8%80%E5%B8%B6%E5%8A%A0%E5%BC%B7%E5%B7%A1%E6%9F%A5-%E8%87%B3%E5%B0%916%E4%BA%BA%E8%A2%AB%E5%B8%B6%E4%B8%8A%E8%AD%A6%E8%BB%8A",
     "timestamp": "2026-06-04T13:53:46.864Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "結業｜花園餐廳山東街店無聲告別　旺角只剩一店　食客不感意外",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260604/1139306445737562112281943.jpeg/n7Kaszz6MPO3CyL6fkC2eEKGgPbxhTP5it1pOordaTo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60357045/%E7%B5%90%E6%A5%AD-%E8%8A%B1%E5%9C%92%E9%A4%90%E5%BB%B3%E5%B1%B1%E6%9D%B1%E8%A1%97%E5%BA%97%E7%84%A1%E8%81%B2%E5%91%8A%E5%88%A5-%E6%97%BA%E8%A7%92%E5%8F%AA%E5%89%A9%E4%B8%80%E5%BA%97-%E9%A3%9F%E5%AE%A2%E4%B8%8D%E6%84%9F%E6%84%8F%E5%A4%96",
-    "timestamp": "2026-06-04T12:46:17.436Z",
     "strategy": ".content-card__main"
   }
 ];
