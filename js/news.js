@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-06T00:19:34.353Z
+// Last updated: 2026-06-06T01:24:02.173Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "蘋果和菠蘿誰適合天天吃？營養功效各有側重　按需要挑選吃出健康",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260603/1138867861448560640234601.png/ql5NH0wJLgB2dY73FDFHfcEMnkenv7Ud631Hl-t9R5c?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60354537/%E8%98%8B%E6%9E%9C%E5%92%8C%E8%8F%A0%E8%98%BF%E8%AA%B0%E9%81%A9%E5%90%88%E5%A4%A9%E5%A4%A9%E5%90%83-%E7%87%9F%E9%A4%8A%E5%8A%9F%E6%95%88%E5%90%84%E6%9C%89%E5%81%B4%E9%87%8D-%E6%8C%89%E9%9C%80%E8%A6%81%E6%8C%91%E9%81%B8%E5%90%83%E5%87%BA%E5%81%A5%E5%BA%B7",
+    "timestamp": "2026-06-06T01:24:02.173Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "5歲童半夜「小狗吠」確診急性喉炎　醫揭3窒息信號+6黃金救治期",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260604/1139221940968361984064729.jpeg/40to0UjaYZ6GfZAHw0rCr1x8gXLBiqp-JmopniZqKZ4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60356767/%E7%8E%8B%E6%B5%A9%E4%BF%A1%E6%BC%94%E5%94%B1%E6%9C%83%E5%A4%A7%E8%A7%A3%E6%94%BE%E9%80%8F%E8%A6%96%E9%9C%B2%E9%BB%9E%E9%A8%B7%E8%BA%AB%E6%9D%90-%E7%B6%B2%E6%B0%91%E5%90%90%E6%A7%BD%E6%9C%89%E8%A2%AB%E5%87%BA%E8%B3%A3%E9%9D%88%E9%AD%82%E7%9A%84%E6%84%9F%E8%A6%BA",
     "timestamp": "2026-06-04T22:41:32.475Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "芒種天氣｜今日部份地區極端酷熱　早晚有幾陣狂風雷暴　市區34度",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260605/1139443211303915520389265.jpeg/epYZORCrae7yT5IY_UCcPgyinx2aBMW3DzO5Zg8zuWY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60357087/%E8%8A%92%E7%A8%AE%E5%A4%A9%E6%B0%A3-%E4%BB%8A%E6%97%A5%E9%83%A8%E4%BB%BD%E5%9C%B0%E5%8D%80%E6%A5%B5%E7%AB%AF%E9%85%B7%E7%86%B1-%E6%97%A9%E6%99%9A%E6%9C%89%E5%B9%BE%E9%99%A3%E7%8B%82%E9%A2%A8%E9%9B%B7%E6%9A%B4-%E5%B8%82%E5%8D%8034%E5%BA%A6",
-    "timestamp": "2026-06-04T21:55:45.122Z",
     "strategy": ".content-card__main"
   }
 ];
