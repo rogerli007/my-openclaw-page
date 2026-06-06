@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-06T18:49:24.061Z
+// Last updated: 2026-06-06T20:02:03.156Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美國20歲大學生遊日失蹤超過一周　父母悲痛稱在京都郊外尋獲遺體",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260607/1140129745321594880106238.jpeg/HEQzGzBlhl3XHerskRKu_Ih6kjILJid5uTjl87k45fM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60357692/%E7%BE%8E%E5%9C%8B20%E6%AD%B2%E5%A4%A7%E5%AD%B8%E7%94%9F%E9%81%8A%E6%97%A5%E5%A4%B1%E8%B9%A4%E8%B6%85%E9%81%8E%E4%B8%80%E5%91%A8-%E7%88%B6%E6%AF%8D%E6%82%B2%E7%97%9B%E7%A8%B1%E5%9C%A8%E4%BA%AC%E9%83%BD%E9%83%8A%E5%A4%96%E5%B0%8B%E7%8D%B2%E9%81%BA%E9%AB%94",
+    "timestamp": "2026-06-06T20:02:03.156Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "韓正赴白羅斯晤總理圖爾欽　籲推進中白工業園等重點合作項目",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260313/1109191810887979008610879.jpeg/KLw5oyxzxUnZvl488-Zu5ISXuuqe3NlLw3qD6sN6g-o?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60357362/%E7%B6%93%E6%BF%9F%E6%B0%91%E7%94%9F-%E9%87%91%E8%9E%8D%E5%89%B5%E7%A7%91-%E7%9A%86%E9%9B%A2%E4%B8%8D%E9%96%8B%E6%88%BF%E5%9C%B0%E7%94%A2-%E6%A8%93%E5%B8%82%E6%98%AF%E9%95%B7%E6%9C%9F%E8%A2%AB%E8%AA%A4%E5%B0%8E%E7%9A%84%E5%B8%82%E5%A0%B4",
     "timestamp": "2026-06-05T23:16:19.408Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "安德魯醜聞纏身　被揭曾長期低價租住皇室豪宅　再分租物業圖利",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260606/1139784954801033216092765.jpeg/hbmt5a75_ZNw29O-o-WCTtaPLT1DodXe9V1Bw_VdQcM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60357492/%E5%AE%89%E5%BE%B7%E9%AD%AF%E9%86%9C%E8%81%9E%E7%BA%8F%E8%BA%AB-%E8%A2%AB%E6%8F%AD%E6%9B%BE%E9%95%B7%E6%9C%9F%E4%BD%8E%E5%83%B9%E7%A7%9F%E4%BD%8F%E7%9A%87%E5%AE%A4%E8%B1%AA%E5%AE%85-%E5%86%8D%E5%88%86%E7%A7%9F%E7%89%A9%E6%A5%AD%E5%9C%96%E5%88%A9",
-    "timestamp": "2026-06-05T21:21:28.262Z",
     "strategy": ".content-card__main"
   }
 ];
