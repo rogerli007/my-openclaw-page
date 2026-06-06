@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-06T16:35:12.473Z
+// Last updated: 2026-06-06T17:15:55.785Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "劍擊會長盃｜連翊希淡然看成敗　錯過大賽不失志　感激教練不放棄",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260606/1140062642283483136975821.jpeg/8yltI--iw0jcGnsmiIPN4eTuezlL0nATJUGKHSVBih0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60357634/%E5%8A%8D%E6%93%8A%E6%9C%83%E9%95%B7%E7%9B%83-%E9%80%A3%E7%BF%8A%E5%B8%8C%E6%B7%A1%E7%84%B6%E7%9C%8B%E6%88%90%E6%95%97-%E9%8C%AF%E9%81%8E%E5%A4%A7%E8%B3%BD%E4%B8%8D%E5%A4%B1%E5%BF%97-%E6%84%9F%E6%BF%80%E6%95%99%E7%B7%B4%E4%B8%8D%E6%94%BE%E6%A3%84",
+    "timestamp": "2026-06-06T17:15:55.785Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "深水埗私家車剷上行人路撞2女　傷者送院治理　司機蹤杳",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260606/1139746872861134848851403.jpeg/8K_tQjTCxnMjgINmjFRcDT784-yTI-JO-WSBTPlkgUw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60357484/%E5%B0%8F%E6%B3%89%E9%80%B2%E6%AC%A1%E9%83%8E%E6%99%A4%E5%8D%B0%E5%B0%BC%E9%98%B2%E9%95%B7-%E9%9B%99%E6%96%B9%E5%90%8C%E6%84%8F%E5%B0%B1%E5%87%BA%E5%8F%A3%E8%AD%B7%E8%A1%9B%E8%89%A6%E5%95%9F%E5%8B%95%E7%A3%8B%E5%95%86",
     "timestamp": "2026-06-05T18:28:43.134Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "重慶理工副校長傳遭副教授持刀刺死　疑因職場長期矛盾升遷被阻",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260605/1139713077978075136241687.png/3QyBvE-NW7DE23tZRv8LD9fGZvKNByAjj75VII--VSA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60357470/%E9%87%8D%E6%85%B6%E7%90%86%E5%B7%A5%E5%89%AF%E6%A0%A1%E9%95%B7%E5%82%B3%E9%81%AD%E5%89%AF%E6%95%99%E6%8E%88%E6%8C%81%E5%88%80%E5%88%BA%E6%AD%BB-%E7%96%91%E5%9B%A0%E8%81%B7%E5%A0%B4%E9%95%B7%E6%9C%9F%E7%9F%9B%E7%9B%BE%E5%8D%87%E9%81%B7%E8%A2%AB%E9%98%BB",
-    "timestamp": "2026-06-05T15:49:53.485Z",
     "strategy": ".content-card__main"
   }
 ];
