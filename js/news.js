@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-06T21:14:10.200Z
+// Last updated: 2026-06-06T21:44:09.650Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "暴雨｜多區上演水舞間　荃灣和港鐵會展站行人天橋照明燈狂滴水",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260607/1140159838689431552854726.jpeg/mWVYoZKD3lT_wrRWMJSif02NnHiM4tB_kfozjZH6M40",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60357698/%E6%9A%B4%E9%9B%A8-%E5%A4%9A%E5%8D%80%E4%B8%8A%E6%BC%94%E6%B0%B4%E8%88%9E%E9%96%93-%E8%8D%83%E7%81%A3%E5%92%8C%E6%B8%AF%E9%90%B5%E6%9C%83%E5%B1%95%E7%AB%99%E8%A1%8C%E4%BA%BA%E5%A4%A9%E6%A9%8B%E7%85%A7%E6%98%8E%E7%87%88%E7%8B%82%E6%BB%B4%E6%B0%B4",
+    "timestamp": "2026-06-06T21:44:09.650Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "世界盃2026｜夏蘭德化身維京戰士　全隊曬馬合照為挪威壯行｜有片",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260603/1138867861448560640234601.png/ql5NH0wJLgB2dY73FDFHfcEMnkenv7Ud631Hl-t9R5c?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60354537/%E8%98%8B%E6%9E%9C%E5%92%8C%E8%8F%A0%E8%98%BF%E8%AA%B0%E9%81%A9%E5%90%88%E5%A4%A9%E5%A4%A9%E5%90%83-%E7%87%9F%E9%A4%8A%E5%8A%9F%E6%95%88%E5%90%84%E6%9C%89%E5%81%B4%E9%87%8D-%E6%8C%89%E9%9C%80%E8%A6%81%E6%8C%91%E9%81%B8%E5%90%83%E5%87%BA%E5%81%A5%E5%BA%B7",
     "timestamp": "2026-06-06T01:24:02.173Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "5歲童半夜「小狗吠」確診急性喉炎　醫揭3窒息信號+6黃金救治期",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260604/1139237565719646208920635.png/R7N21dreTT5vnCpaRQ6mokOaA3YnIqhLXEpAslxKQLI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60355793/5%E6%AD%B2%E7%AB%A5%E5%8D%8A%E5%A4%9C-%E5%B0%8F%E7%8B%97%E5%90%A0-%E7%A2%BA%E8%A8%BA%E6%80%A5%E6%80%A7%E5%96%89%E7%82%8E-%E9%86%AB%E6%8F%AD3%E7%AA%92%E6%81%AF%E4%BF%A1%E8%99%9F-6%E9%BB%83%E9%87%91%E6%95%91%E6%B2%BB%E6%9C%9F",
-    "timestamp": "2026-06-06T00:19:34.353Z",
     "strategy": ".content-card__main"
   }
 ];
