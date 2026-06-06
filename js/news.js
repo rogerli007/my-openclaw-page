@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-06T20:02:03.156Z
+// Last updated: 2026-06-06T20:38:48.038Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美國20歲大學生遊日失蹤超過一周　父母悲痛稱在京都郊外尋獲遺體",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260607/1140129745321594880106238.jpeg/HEQzGzBlhl3XHerskRKu_Ih6kjILJid5uTjl87k45fM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60357692/%E7%BE%8E%E5%9C%8B20%E6%AD%B2%E5%A4%A7%E5%AD%B8%E7%94%9F%E9%81%8A%E6%97%A5%E5%A4%B1%E8%B9%A4%E8%B6%85%E9%81%8E%E4%B8%80%E5%91%A8-%E7%88%B6%E6%AF%8D%E6%82%B2%E7%97%9B%E7%A8%B1%E5%9C%A8%E4%BA%AC%E9%83%BD%E9%83%8A%E5%A4%96%E5%B0%8B%E7%8D%B2%E9%81%BA%E9%AB%94",
+    "timestamp": "2026-06-06T20:38:48.038Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美國20歲大學生遊日失蹤超過一周　父母悲痛稱在京都郊外尋獲遺體",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260606/1139741382840160256734162.png/EH2CRDjAKF7yPfZRUk9X3UpMlAjXHTtoEDHn6xAx5-s?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60341958/%E8%82%9D%E8%87%9F%E7%95%B6%E8%84%BE%E8%87%9F-%E5%BA%B8%E9%86%AB-%E7%84%A1%E6%B3%95%E5%88%86%E8%BE%A8-%E5%88%87%E9%8C%AF%E5%99%A8%E5%AE%98%E7%97%85%E4%BA%BA%E5%A4%A7%E5%87%BA%E8%A1%80%E4%BA%A1-%E6%B6%89%E9%81%8E%E5%A4%B1%E6%AE%BA%E4%BA%BA",
     "timestamp": "2026-06-05T23:48:43.191Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "經濟民生、金融創科　皆離不開房地產　樓市是長期被誤導的市場",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260313/1109191810887979008610879.jpeg/KLw5oyxzxUnZvl488-Zu5ISXuuqe3NlLw3qD6sN6g-o?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60357362/%E7%B6%93%E6%BF%9F%E6%B0%91%E7%94%9F-%E9%87%91%E8%9E%8D%E5%89%B5%E7%A7%91-%E7%9A%86%E9%9B%A2%E4%B8%8D%E9%96%8B%E6%88%BF%E5%9C%B0%E7%94%A2-%E6%A8%93%E5%B8%82%E6%98%AF%E9%95%B7%E6%9C%9F%E8%A2%AB%E8%AA%A4%E5%B0%8E%E7%9A%84%E5%B8%82%E5%A0%B4",
-    "timestamp": "2026-06-05T23:16:19.408Z",
     "strategy": ".content-card__main"
   }
 ];
