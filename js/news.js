@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-06T11:51:40.291Z
+// Last updated: 2026-06-06T13:16:50.141Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "慈雲山惠華街爆鹹水管　街道變溪流　多個屋邨沖廁水受影響",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260606/1140032775965904896723405.png/xwMDQBCql01h2piak63SXAczx4vel135lKT5T5Sk-U8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60357647/%E6%85%88%E9%9B%B2%E5%B1%B1%E6%83%A0%E8%8F%AF%E8%A1%97%E7%88%86%E9%B9%B9%E6%B0%B4%E7%AE%A1-%E8%A1%97%E9%81%93%E8%AE%8A%E6%BA%AA%E6%B5%81-%E5%A4%9A%E5%80%8B%E5%B1%8B%E9%82%A8%E6%B2%96%E5%BB%81%E6%B0%B4%E5%8F%97%E5%BD%B1%E9%9F%BF",
+    "timestamp": "2026-06-06T13:16:50.141Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "再生家族｜名導是枝裕和訪港出席映後談　場次開賣幾分鐘售罄",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260605/1139626837962395648157294.png/9YuCahmP48nMEcNpgPzPg2R9XmGWE9dGXaYwsV2mMLE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60357386/%E9%9D%92%E6%9C%97%E5%85%AC%E8%B7%AF%E8%B2%A8%E8%BB%8A%E8%88%87%E7%A7%81%E5%AE%B6%E8%BB%8A%E7%9B%B8%E6%92%9E%E7%BF%BB%E5%81%B4%E5%A0%B5%E4%B8%89%E7%B7%9A-%E4%B8%80%E4%BA%BA%E5%8F%97%E5%82%B7-%E5%87%BA%E4%B9%9D%E9%BE%8D%E5%A4%A7%E5%A1%9E%E8%BB%8A",
     "timestamp": "2026-06-05T10:13:15.987Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "油價飆升帶動中國電單車賣爆英國　商店九成中國貨　雅迪試騎吸客",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260605/1139582171451756544641805.jpeg/YIlnFBx-K2kT1fWWR4LbYc9MUl3vAmMddS5jd3UuY3c?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60357288/%E6%B2%B9%E5%83%B9%E9%A3%86%E5%8D%87%E5%B8%B6%E5%8B%95%E4%B8%AD%E5%9C%8B%E9%9B%BB%E5%96%AE%E8%BB%8A%E8%B3%A3%E7%88%86%E8%8B%B1%E5%9C%8B-%E5%95%86%E5%BA%97%E4%B9%9D%E6%88%90%E4%B8%AD%E5%9C%8B%E8%B2%A8-%E9%9B%85%E8%BF%AA%E8%A9%A6%E9%A8%8E%E5%90%B8%E5%AE%A2",
-    "timestamp": "2026-06-05T08:37:53.547Z",
     "strategy": ".content-card__main"
   }
 ];
