@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-06T23:14:11.726Z
+// Last updated: 2026-06-06T23:42:43.079Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "東京澀谷嚴打垃圾蟲　亂拋雜物當場被罰2000日圓｜有片",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260607/1140193151445635072285047.png/72-NnrXcHKRLPp6Es570pFAErglewW7HgeziJ4Hs4ic",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60357703/%E6%9D%B1%E4%BA%AC%E6%BE%80%E8%B0%B7%E5%9A%B4%E6%89%93%E5%9E%83%E5%9C%BE%E8%9F%B2-%E4%BA%82%E6%8B%8B%E9%9B%9C%E7%89%A9%E7%95%B6%E5%A0%B4%E8%A2%AB%E7%BD%B02000%E6%97%A5%E5%9C%93-%E6%9C%89%E7%89%87",
+    "timestamp": "2026-06-06T23:42:43.079Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "校園天地︱啟基學校師生到訪杭州　近距離觸摸真實火箭箭體",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260605/1139634812206714880925381.jpeg/1CaagwxETb4CqaLzvWd3AO4twIW7gIWWMnKkXjJypF4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60344925/%E9%AB%98%E9%B9%BD%E9%A3%B2%E9%A3%9F%E8%83%83%E7%99%8C%E9%A2%A8%E9%9A%AA%E5%80%8D%E5%A2%9E-%E7%87%9F%E9%A4%8A%E5%B8%AB%E6%8F%AD4%E9%9A%B1%E8%97%8F%E9%AB%98%E9%88%89%E9%A3%9F%E7%89%A9-1%E6%8B%9B3%E5%91%A8%E9%87%8D%E7%BD%AE%E5%91%B3%E8%A6%BA",
     "timestamp": "2026-06-06T09:36:46.229Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "不得不好死｜陳奕迅相隔8年再拍戲　酷熱警告下抱仔跑街身水身汗",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260606/1139915863575498752685073.jpeg/SelC8z11YHRWSK86hnts8OFY1jCfnf-nw5ucFMObnBQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60357540/%E4%B8%8D%E5%BE%97%E4%B8%8D%E5%A5%BD%E6%AD%BB-%E9%99%B3%E5%A5%95%E8%BF%85%E7%9B%B8%E9%9A%948%E5%B9%B4%E5%86%8D%E6%8B%8D%E6%88%B2-%E9%85%B7%E7%86%B1%E8%AD%A6%E5%91%8A%E4%B8%8B%E6%8A%B1%E4%BB%94%E8%B7%91%E8%A1%97%E8%BA%AB%E6%B0%B4%E8%BA%AB%E6%B1%97",
-    "timestamp": "2026-06-06T07:47:03.468Z",
     "strategy": ".content-card__main"
   }
 ];
