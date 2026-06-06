@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-06T06:44:41.599Z
+// Last updated: 2026-06-06T07:47:03.468Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "不得不好死｜陳奕迅相隔8年再拍戲　酷熱警告下抱仔跑街身水身汗",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260606/1139915863575498752685073.jpeg/SelC8z11YHRWSK86hnts8OFY1jCfnf-nw5ucFMObnBQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60357540/%E4%B8%8D%E5%BE%97%E4%B8%8D%E5%A5%BD%E6%AD%BB-%E9%99%B3%E5%A5%95%E8%BF%85%E7%9B%B8%E9%9A%948%E5%B9%B4%E5%86%8D%E6%8B%8D%E6%88%B2-%E9%85%B7%E7%86%B1%E8%AD%A6%E5%91%8A%E4%B8%8B%E6%8A%B1%E4%BB%94%E8%B7%91%E8%A1%97%E8%BA%AB%E6%B0%B4%E8%BA%AB%E6%B1%97",
+    "timestamp": "2026-06-06T07:47:03.468Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "Bitcoin｜比特幣一度跌破6萬美元　自2024年特朗普勝選以來首次",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250709/1019482502336614400806457.jpeg/4yjAA94cxazVc5merKk0xUDdKOcMXGjeTynhck8p4XI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60357112/%E7%9B%9B%E5%AF%B6%E9%8A%80%E8%A1%8C-%E9%8A%85%E5%B8%82%E7%AD%89%E5%BE%85%E7%BE%8E%E5%9C%8B%E9%97%9C%E9%8D%B5%E9%97%9C%E7%A8%85%E6%B1%BA%E5%AE%9A",
     "timestamp": "2026-06-05T00:18:20.022Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "《007：初露鋒芒》首日狂賣150萬套　玩家激讚：近年最佳之作",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260605/1139461774710411264594278.png/xqd1vKuVv7YYhqVkRq-cAdF8tB2Rabar02ecvdNnnL0",
-    "url": "https://www.hk01.com/%E9%81%8A%E6%88%B2%E5%8B%95%E6%BC%AB/60356798/007-%E5%88%9D%E9%9C%B2%E9%8B%92%E8%8A%92-%E9%A6%96%E6%97%A5%E7%8B%82%E8%B3%A3150%E8%90%AC%E5%A5%97-%E7%8E%A9%E5%AE%B6%E6%BF%80%E8%AE%9A-%E8%BF%91%E5%B9%B4%E6%9C%80%E4%BD%B3%E4%B9%8B%E4%BD%9C",
-    "timestamp": "2026-06-04T23:50:33.583Z",
     "strategy": ".content-card__main"
   }
 ];
