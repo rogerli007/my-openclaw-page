@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-06T09:36:46.229Z
+// Last updated: 2026-06-06T10:32:39.621Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "海俊傑喪妻後神隱多時被捕獲　獨站街邊身形消瘦令人心痛",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260606/1139979064652599296402713.jpeg/VPKf92emhB_5ajwtFymOZX10KomNnuV2nEbI25xGyNs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60357606/%E6%B5%B7%E4%BF%8A%E5%82%91%E5%96%AA%E5%A6%BB%E5%BE%8C%E7%A5%9E%E9%9A%B1%E5%A4%9A%E6%99%82%E8%A2%AB%E6%8D%95%E7%8D%B2-%E7%8D%A8%E7%AB%99%E8%A1%97%E9%82%8A%E8%BA%AB%E5%BD%A2%E6%B6%88%E7%98%A6%E4%BB%A4%E4%BA%BA%E5%BF%83%E7%97%9B",
+    "timestamp": "2026-06-06T10:32:39.621Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "高鹽飲食胃癌風險倍增！營養師揭4隱藏高鈉食物　1招3周重置味覺",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20251024/1058456522914271232471629.jpeg/xxUp_08Nh6JTymcsD6nwYis6-1BW4DZND1oKIQ9aCiE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60277995/iphone-17%E5%85%88%E9%81%94%E5%9B%9E%E6%94%B6%E5%83%B9%E7%9B%B4%E6%93%8A-%E6%AF%8F%E6%97%A5%E9%80%9F%E5%A0%B1pro-pro-max%E5%8D%B3%E6%99%82%E5%83%B9-%E6%AF%8F%E6%97%A5%E6%9B%B4%E6%96%B0",
     "timestamp": "2026-06-05T05:44:20.279Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "危情逆戀劇情｜最新追劇日曆/更新時間+演員關係圖+角色簡介",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260604/1139166010805325824528764.jpeg/fiRXJ-7ivEuMbCgLktBGKWS1inVWvZ0wbXIO8W1yDvE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60356721/%E5%8D%B1%E6%83%85%E9%80%86%E6%88%80%E5%8A%87%E6%83%85-%E6%9C%80%E6%96%B0%E8%BF%BD%E5%8A%87%E6%97%A5%E6%9B%86-%E6%9B%B4%E6%96%B0%E6%99%82%E9%96%93-%E6%BC%94%E5%93%A1%E9%97%9C%E4%BF%82%E5%9C%96-%E8%A7%92%E8%89%B2%E7%B0%A1%E4%BB%8B",
-    "timestamp": "2026-06-05T03:57:39.401Z",
     "strategy": ".content-card__main"
   }
 ];
