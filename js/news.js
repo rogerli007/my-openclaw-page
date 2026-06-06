@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-06T13:16:50.141Z
+// Last updated: 2026-06-06T14:44:15.139Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "夫妻肺片｜人妻輪流大爆餵人奶血淚史　賴慰玲直指塞奶痛過生仔",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260606/1139976880032583680425713.jpeg/9m7ENkl_K0jNThDVnhbqiUXmyuL5nz_4RWQ85EVkPOQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60357601/%E5%A4%AB%E5%A6%BB%E8%82%BA%E7%89%87-%E4%BA%BA%E5%A6%BB%E8%BC%AA%E6%B5%81%E5%A4%A7%E7%88%86%E9%A4%B5%E4%BA%BA%E5%A5%B6%E8%A1%80%E6%B7%9A%E5%8F%B2-%E8%B3%B4%E6%85%B0%E7%8E%B2%E7%9B%B4%E6%8C%87%E5%A1%9E%E5%A5%B6%E7%97%9B%E9%81%8E%E7%94%9F%E4%BB%94",
+    "timestamp": "2026-06-06T14:44:15.139Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "慈雲山惠華街爆鹹水管　街道變溪流　多個屋邨沖廁水受影響",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260605/1139647736505700352129650.jpeg/9ZMS8zR8X33DK9NiRj7YKhYExV2rMBc5fNmUynzZlMo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%97%85%E9%81%8A/60356816/%E6%B7%B1%E5%9C%B3%E5%A4%A9%E6%B0%A3%E9%A0%90%E5%A0%B1-%E9%80%B1%E6%9C%AB%E5%8C%97%E4%B8%8A%E6%B3%A8%E6%84%8F-%E6%98%8E%E6%9C%80%E9%AB%9832-c%E5%85%BC%E6%9C%89%E9%9B%B7%E6%9A%B4-%E5%A4%A7%E9%9B%A8%E9%9A%A8%E6%99%82%E6%AE%BA%E5%88%B0",
     "timestamp": "2026-06-05T11:30:49.192Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "青朗公路貨車與私家車相撞翻側堵三線　一人受傷　出九龍大塞車",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260605/1139626837962395648157294.png/9YuCahmP48nMEcNpgPzPg2R9XmGWE9dGXaYwsV2mMLE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60357386/%E9%9D%92%E6%9C%97%E5%85%AC%E8%B7%AF%E8%B2%A8%E8%BB%8A%E8%88%87%E7%A7%81%E5%AE%B6%E8%BB%8A%E7%9B%B8%E6%92%9E%E7%BF%BB%E5%81%B4%E5%A0%B5%E4%B8%89%E7%B7%9A-%E4%B8%80%E4%BA%BA%E5%8F%97%E5%82%B7-%E5%87%BA%E4%B9%9D%E9%BE%8D%E5%A4%A7%E5%A1%9E%E8%BB%8A",
-    "timestamp": "2026-06-05T10:13:15.987Z",
     "strategy": ".content-card__main"
   }
 ];
