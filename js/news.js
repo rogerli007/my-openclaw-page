@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-06T01:24:02.173Z
+// Last updated: 2026-06-06T02:27:24.005Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "汗斑｜夏天一到就開始長？醫解析「治療守則」　保持乾爽減少復發",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260602/1138542794697084928617952.jpeg/YPvTPQfKO5mf2tW1jZCrInGuN36mHO_VRhBCl0YQQpc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%86%AB%E5%B8%ABEasy/60354379/%E6%B1%97%E6%96%91-%E5%A4%8F%E5%A4%A9%E4%B8%80%E5%88%B0%E5%B0%B1%E9%96%8B%E5%A7%8B%E9%95%B7-%E9%86%AB%E8%A7%A3%E6%9E%90-%E6%B2%BB%E7%99%82%E5%AE%88%E5%89%87-%E4%BF%9D%E6%8C%81%E4%B9%BE%E7%88%BD%E6%B8%9B%E5%B0%91%E5%BE%A9%E7%99%BC",
+    "timestamp": "2026-06-06T02:27:24.005Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "蘋果和菠蘿誰適合天天吃？營養功效各有側重　按需要挑選吃出健康",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260604/1139250220828200960420853.jpeg/lt_0_CvLfxyyX-CWmqfrw7yIPa9gsfTJf9WfsX_Vn7E?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60356863/%E5%9B%9B%E5%A4%AA%E6%A2%81%E5%AE%89%E7%90%AA%E7%8F%BE%E8%BA%AB%E4%B8%AD%E7%92%B0%E5%95%86%E5%A0%B4%E6%8E%83%E8%B2%A8-%E4%B8%88%E5%A4%AB%E9%80%9D%E4%B8%96%E6%A0%BD%E5%9F%B9%E8%B6%85%E6%A8%A1%E6%96%B0%E6%8A%B1%E7%8D%B2%E8%AE%9A%E5%A3%AF%E5%A4%A7%E5%AE%B6%E6%97%8F",
     "timestamp": "2026-06-04T23:14:49.256Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "王浩信演唱會大解放透視露點騷身材　網民吐槽有被出賣靈魂的感覺",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260604/1139221940968361984064729.jpeg/40to0UjaYZ6GfZAHw0rCr1x8gXLBiqp-JmopniZqKZ4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60356767/%E7%8E%8B%E6%B5%A9%E4%BF%A1%E6%BC%94%E5%94%B1%E6%9C%83%E5%A4%A7%E8%A7%A3%E6%94%BE%E9%80%8F%E8%A6%96%E9%9C%B2%E9%BB%9E%E9%A8%B7%E8%BA%AB%E6%9D%90-%E7%B6%B2%E6%B0%91%E5%90%90%E6%A7%BD%E6%9C%89%E8%A2%AB%E5%87%BA%E8%B3%A3%E9%9D%88%E9%AD%82%E7%9A%84%E6%84%9F%E8%A6%BA",
-    "timestamp": "2026-06-04T22:41:32.475Z",
     "strategy": ".content-card__main"
   }
 ];
