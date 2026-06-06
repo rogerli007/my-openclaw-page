@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-06T10:32:39.621Z
+// Last updated: 2026-06-06T11:10:12.401Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "俄油企CEO談霍爾木茲海峽封鎖：美企得益最大　中國準備最充足",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260606/1139992708262137856934170.jpeg/MTAeZQeI3D6vyP3NE1fNnjHumhEvapPITGlVvkxpVb4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60357623/%E4%BF%84%E6%B2%B9%E4%BC%81ceo%E8%AB%87%E9%9C%8D%E7%88%BE%E6%9C%A8%E8%8C%B2%E6%B5%B7%E5%B3%BD%E5%B0%81%E9%8E%96-%E7%BE%8E%E4%BC%81%E5%BE%97%E7%9B%8A%E6%9C%80%E5%A4%A7-%E4%B8%AD%E5%9C%8B%E6%BA%96%E5%82%99%E6%9C%80%E5%85%85%E8%B6%B3",
+    "timestamp": "2026-06-06T11:10:12.401Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "海俊傑喪妻後神隱多時被捕獲　獨站街邊身形消瘦令人心痛",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260605/1139568289014353920856279.jpeg/82CA1buKTQG8CSxvCQGRSZzo2iFidjaKYGN0cWBjdHE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60352059/%E8%9C%82%E8%9C%9C%E5%A5%BD%E8%99%95-%E7%B7%A9%E8%A7%A3%E9%AF%81%E5%96%89%E9%98%B2%E9%A3%9F%E9%81%93%E7%81%BC%E5%82%B7-%E9%86%AB%E6%8F%AD%E8%9C%82%E8%9C%9C3%E5%8A%9F%E6%95%88%E4%B8%8D%E5%8F%AA%E6%BD%A4%E5%96%891%E9%A1%9E%E4%BA%BA%E7%A6%81%E9%A3%9F",
     "timestamp": "2026-06-05T07:15:14.626Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "iPhone 17先達回收炒價直擊｜5/6 Pro 細機下插｜每日更新",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20251024/1058456522914271232471629.jpeg/xxUp_08Nh6JTymcsD6nwYis6-1BW4DZND1oKIQ9aCiE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60277995/iphone-17%E5%85%88%E9%81%94%E5%9B%9E%E6%94%B6%E5%83%B9%E7%9B%B4%E6%93%8A-%E6%AF%8F%E6%97%A5%E9%80%9F%E5%A0%B1pro-pro-max%E5%8D%B3%E6%99%82%E5%83%B9-%E6%AF%8F%E6%97%A5%E6%9B%B4%E6%96%B0",
-    "timestamp": "2026-06-05T05:44:20.279Z",
     "strategy": ".content-card__main"
   }
 ];
