@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-06T11:10:12.401Z
+// Last updated: 2026-06-06T11:51:40.291Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "再生家族｜名導是枝裕和訪港出席映後談　場次開賣幾分鐘售罄",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260606/1140010550856519680723109.jpeg/JsRXpMUnEiwvX5B6uXNW8gjOYrthQ5za2b_F3tm_xd4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60357633/%E5%86%8D%E7%94%9F%E5%AE%B6%E6%97%8F-%E5%90%8D%E5%B0%8E%E6%98%AF%E6%9E%9D%E8%A3%95%E5%92%8C%E8%A8%AA%E6%B8%AF%E5%87%BA%E5%B8%AD%E6%98%A0%E5%BE%8C%E8%AB%87-%E5%A0%B4%E6%AC%A1%E9%96%8B%E8%B3%A3%E5%B9%BE%E5%88%86%E9%90%98%E5%94%AE%E7%BD%84",
+    "timestamp": "2026-06-06T11:51:40.291Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "俄油企CEO談霍爾木茲海峽封鎖：美企得益最大　中國準備最充足",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260605/1139582171451756544641805.jpeg/YIlnFBx-K2kT1fWWR4LbYc9MUl3vAmMddS5jd3UuY3c?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60357288/%E6%B2%B9%E5%83%B9%E9%A3%86%E5%8D%87%E5%B8%B6%E5%8B%95%E4%B8%AD%E5%9C%8B%E9%9B%BB%E5%96%AE%E8%BB%8A%E8%B3%A3%E7%88%86%E8%8B%B1%E5%9C%8B-%E5%95%86%E5%BA%97%E4%B9%9D%E6%88%90%E4%B8%AD%E5%9C%8B%E8%B2%A8-%E9%9B%85%E8%BF%AA%E8%A9%A6%E9%A8%8E%E5%90%B8%E5%AE%A2",
     "timestamp": "2026-06-05T08:37:53.547Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "蜂蜜好處｜緩解鯁喉防食道灼傷！醫揭蜂蜜3功效不只潤喉1類人禁食",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260605/1139568289014353920856279.jpeg/82CA1buKTQG8CSxvCQGRSZzo2iFidjaKYGN0cWBjdHE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60352059/%E8%9C%82%E8%9C%9C%E5%A5%BD%E8%99%95-%E7%B7%A9%E8%A7%A3%E9%AF%81%E5%96%89%E9%98%B2%E9%A3%9F%E9%81%93%E7%81%BC%E5%82%B7-%E9%86%AB%E6%8F%AD%E8%9C%82%E8%9C%9C3%E5%8A%9F%E6%95%88%E4%B8%8D%E5%8F%AA%E6%BD%A4%E5%96%891%E9%A1%9E%E4%BA%BA%E7%A6%81%E9%A3%9F",
-    "timestamp": "2026-06-05T07:15:14.626Z",
     "strategy": ".content-card__main"
   }
 ];
