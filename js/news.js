@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-06T20:38:48.038Z
+// Last updated: 2026-06-06T21:14:10.200Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "世界盃2026｜夏蘭德化身維京戰士　全隊曬馬合照為挪威壯行｜有片",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260607/1140150763540975616740359.jpeg/R_aNxzX4XdmCrQA6aDx-iumyEK2VIAAB8ddBs_HXQbM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%92%B0%E7%90%83%E8%B6%A3%E8%81%9E/60357697/%E4%B8%96%E7%95%8C%E7%9B%832026-%E5%A4%8F%E8%98%AD%E5%BE%B7%E5%8C%96%E8%BA%AB%E7%B6%AD%E4%BA%AC%E6%88%B0%E5%A3%AB-%E5%85%A8%E9%9A%8A%E6%9B%AC%E9%A6%AC%E5%90%88%E7%85%A7%E7%82%BA%E6%8C%AA%E5%A8%81%E5%A3%AF%E8%A1%8C-%E6%9C%89%E7%89%87",
+    "timestamp": "2026-06-06T21:14:10.200Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美國20歲大學生遊日失蹤超過一周　父母悲痛稱在京都郊外尋獲遺體",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260604/1139237565719646208920635.png/R7N21dreTT5vnCpaRQ6mokOaA3YnIqhLXEpAslxKQLI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60355793/5%E6%AD%B2%E7%AB%A5%E5%8D%8A%E5%A4%9C-%E5%B0%8F%E7%8B%97%E5%90%A0-%E7%A2%BA%E8%A8%BA%E6%80%A5%E6%80%A7%E5%96%89%E7%82%8E-%E9%86%AB%E6%8F%AD3%E7%AA%92%E6%81%AF%E4%BF%A1%E8%99%9F-6%E9%BB%83%E9%87%91%E6%95%91%E6%B2%BB%E6%9C%9F",
     "timestamp": "2026-06-06T00:19:34.353Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "肝臟當脾臟！庸醫：無法分辨　切錯器官病人大出血亡　涉過失殺人",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260606/1139741382840160256734162.png/EH2CRDjAKF7yPfZRUk9X3UpMlAjXHTtoEDHn6xAx5-s?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60341958/%E8%82%9D%E8%87%9F%E7%95%B6%E8%84%BE%E8%87%9F-%E5%BA%B8%E9%86%AB-%E7%84%A1%E6%B3%95%E5%88%86%E8%BE%A8-%E5%88%87%E9%8C%AF%E5%99%A8%E5%AE%98%E7%97%85%E4%BA%BA%E5%A4%A7%E5%87%BA%E8%A1%80%E4%BA%A1-%E6%B6%89%E9%81%8E%E5%A4%B1%E6%AE%BA%E4%BA%BA",
-    "timestamp": "2026-06-05T23:48:43.191Z",
     "strategy": ".content-card__main"
   }
 ];
