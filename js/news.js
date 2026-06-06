@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-06T21:44:09.650Z
+// Last updated: 2026-06-06T22:14:11.735Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "最新天氣｜天文台：今日間中有驟雨及幾陣狂風雷暴　雨勢有時頗大",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260607/1140125409598246912184235.jpeg/FYcdELBMRq-5O9MS-BHs5MIKu7gymY57fXqPvH16j7w?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60357691/%E6%9C%80%E6%96%B0%E5%A4%A9%E6%B0%A3-%E5%A4%A9%E6%96%87%E5%8F%B0-%E4%BB%8A%E6%97%A5%E9%96%93%E4%B8%AD%E6%9C%89%E9%A9%9F%E9%9B%A8%E5%8F%8A%E5%B9%BE%E9%99%A3%E7%8B%82%E9%A2%A8%E9%9B%B7%E6%9A%B4-%E9%9B%A8%E5%8B%A2%E6%9C%89%E6%99%82%E9%A0%97%E5%A4%A7",
+    "timestamp": "2026-06-06T22:14:11.735Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "暴雨｜多區上演水舞間　荃灣和港鐵會展站行人天橋照明燈狂滴水",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260602/1138542794697084928617952.jpeg/YPvTPQfKO5mf2tW1jZCrInGuN36mHO_VRhBCl0YQQpc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%86%AB%E5%B8%ABEasy/60354379/%E6%B1%97%E6%96%91-%E5%A4%8F%E5%A4%A9%E4%B8%80%E5%88%B0%E5%B0%B1%E9%96%8B%E5%A7%8B%E9%95%B7-%E9%86%AB%E8%A7%A3%E6%9E%90-%E6%B2%BB%E7%99%82%E5%AE%88%E5%89%87-%E4%BF%9D%E6%8C%81%E4%B9%BE%E7%88%BD%E6%B8%9B%E5%B0%91%E5%BE%A9%E7%99%BC",
     "timestamp": "2026-06-06T02:27:24.005Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "蘋果和菠蘿誰適合天天吃？營養功效各有側重　按需要挑選吃出健康",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260603/1138867861448560640234601.png/ql5NH0wJLgB2dY73FDFHfcEMnkenv7Ud631Hl-t9R5c?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60354537/%E8%98%8B%E6%9E%9C%E5%92%8C%E8%8F%A0%E8%98%BF%E8%AA%B0%E9%81%A9%E5%90%88%E5%A4%A9%E5%A4%A9%E5%90%83-%E7%87%9F%E9%A4%8A%E5%8A%9F%E6%95%88%E5%90%84%E6%9C%89%E5%81%B4%E9%87%8D-%E6%8C%89%E9%9C%80%E8%A6%81%E6%8C%91%E9%81%B8%E5%90%83%E5%87%BA%E5%81%A5%E5%BA%B7",
-    "timestamp": "2026-06-06T01:24:02.173Z",
     "strategy": ".content-card__main"
   }
 ];
