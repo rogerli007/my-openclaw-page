@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-06T07:47:03.468Z
+// Last updated: 2026-06-06T09:36:46.229Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "高鹽飲食胃癌風險倍增！營養師揭4隱藏高鈉食物　1招3周重置味覺",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260605/1139634812206714880925381.jpeg/1CaagwxETb4CqaLzvWd3AO4twIW7gIWWMnKkXjJypF4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60344925/%E9%AB%98%E9%B9%BD%E9%A3%B2%E9%A3%9F%E8%83%83%E7%99%8C%E9%A2%A8%E9%9A%AA%E5%80%8D%E5%A2%9E-%E7%87%9F%E9%A4%8A%E5%B8%AB%E6%8F%AD4%E9%9A%B1%E8%97%8F%E9%AB%98%E9%88%89%E9%A3%9F%E7%89%A9-1%E6%8B%9B3%E5%91%A8%E9%87%8D%E7%BD%AE%E5%91%B3%E8%A6%BA",
+    "timestamp": "2026-06-06T09:36:46.229Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "不得不好死｜陳奕迅相隔8年再拍戲　酷熱警告下抱仔跑街身水身汗",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260604/1139166010805325824528764.jpeg/fiRXJ-7ivEuMbCgLktBGKWS1inVWvZ0wbXIO8W1yDvE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60356721/%E5%8D%B1%E6%83%85%E9%80%86%E6%88%80%E5%8A%87%E6%83%85-%E6%9C%80%E6%96%B0%E8%BF%BD%E5%8A%87%E6%97%A5%E6%9B%86-%E6%9B%B4%E6%96%B0%E6%99%82%E9%96%93-%E6%BC%94%E5%93%A1%E9%97%9C%E4%BF%82%E5%9C%96-%E8%A7%92%E8%89%B2%E7%B0%A1%E4%BB%8B",
     "timestamp": "2026-06-05T03:57:39.401Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "盛寶銀行：銅市等待美國關鍵關稅決定",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250709/1019482502336614400806457.jpeg/4yjAA94cxazVc5merKk0xUDdKOcMXGjeTynhck8p4XI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60357112/%E7%9B%9B%E5%AF%B6%E9%8A%80%E8%A1%8C-%E9%8A%85%E5%B8%82%E7%AD%89%E5%BE%85%E7%BE%8E%E5%9C%8B%E9%97%9C%E9%8D%B5%E9%97%9C%E7%A8%85%E6%B1%BA%E5%AE%9A",
-    "timestamp": "2026-06-05T00:18:20.022Z",
     "strategy": ".content-card__main"
   }
 ];
