@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-06T14:44:15.139Z
+// Last updated: 2026-06-06T15:49:48.461Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "林盛斌大女18歲生日收過百支玫瑰　包場開迷幻紫光派對：太瘋狂",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260606/1140015095334572032243568.png/_vn0EQcCFFHKpM9dpFPRdFWPwKAEtUdyAiGAVAIhgFQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60357636/%E6%9E%97%E7%9B%9B%E6%96%8C%E5%A4%A7%E5%A5%B318%E6%AD%B2%E7%94%9F%E6%97%A5%E6%94%B6%E9%81%8E%E7%99%BE%E6%94%AF%E7%8E%AB%E7%91%B0-%E5%8C%85%E5%A0%B4%E9%96%8B%E8%BF%B7%E5%B9%BB%E7%B4%AB%E5%85%89%E6%B4%BE%E5%B0%8D-%E5%A4%AA%E7%98%8B%E7%8B%82",
+    "timestamp": "2026-06-06T15:49:48.461Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "夫妻肺片｜人妻輪流大爆餵人奶血淚史　賴慰玲直指塞奶痛過生仔",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260605/1139610922260631552420853.jpeg/bYksb9gjRWZzI34iUgmrtogs7HKisosgZtQX3GbUF9w?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60357356/%E8%A9%B9%E5%A4%A9%E6%96%877%E6%9C%88%E9%BA%A5%E8%8A%B1%E8%87%A3%E9%A6%96%E9%96%8B%E5%80%8B%E5%94%B1-%E9%A0%90%E5%91%8A%E5%A4%A7%E9%A8%B7%E7%B7%9A%E6%A2%9D%E5%85%BC%E7%AA%81%E7%A0%B4%E5%BD%A2%E8%B1%A1%E6%8C%91%E6%88%B0hiphop",
     "timestamp": "2026-06-05T12:31:34.889Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "深圳天氣預報｜週末北上注意！明最高32°C兼有雷暴、大雨隨時殺到",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260605/1139647736505700352129650.jpeg/9ZMS8zR8X33DK9NiRj7YKhYExV2rMBc5fNmUynzZlMo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%97%85%E9%81%8A/60356816/%E6%B7%B1%E5%9C%B3%E5%A4%A9%E6%B0%A3%E9%A0%90%E5%A0%B1-%E9%80%B1%E6%9C%AB%E5%8C%97%E4%B8%8A%E6%B3%A8%E6%84%8F-%E6%98%8E%E6%9C%80%E9%AB%9832-c%E5%85%BC%E6%9C%89%E9%9B%B7%E6%9A%B4-%E5%A4%A7%E9%9B%A8%E9%9A%A8%E6%99%82%E6%AE%BA%E5%88%B0",
-    "timestamp": "2026-06-05T11:30:49.192Z",
     "strategy": ".content-card__main"
   }
 ];
