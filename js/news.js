@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-06T17:15:55.785Z
+// Last updated: 2026-06-06T17:46:36.489Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "韓正赴白羅斯晤總理圖爾欽　籲推進中白工業園等重點合作項目",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260607/1140102384660254720259387.png/tMWYMvwsGq4GkMRKgWcokohzZqt6UY7_xsiNzcbIjc0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60357688/%E9%9F%93%E6%AD%A3%E8%B5%B4%E7%99%BD%E7%BE%85%E6%96%AF%E6%99%A4%E7%B8%BD%E7%90%86%E5%9C%96%E7%88%BE%E6%AC%BD-%E7%B1%B2%E6%8E%A8%E9%80%B2%E4%B8%AD%E7%99%BD%E5%B7%A5%E6%A5%AD%E5%9C%92%E7%AD%89%E9%87%8D%E9%BB%9E%E5%90%88%E4%BD%9C%E9%A0%85%E7%9B%AE",
+    "timestamp": "2026-06-06T17:46:36.489Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "劍擊會長盃｜連翊希淡然看成敗　錯過大賽不失志　感激教練不放棄",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260606/1139763708763836416783156.jpeg/dQ60BKaMw-c6MqfcCldWTGp-KWFa0M7NAp0fKTidHyk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60357487/%E5%B0%96%E6%B2%99%E5%92%80%E7%9A%84%E5%A3%AB%E6%92%9E%E5%A5%B3%E9%80%94%E4%BA%BA-%E5%82%B7%E8%80%85%E9%80%81%E9%99%A2%E6%90%B6%E6%95%91%E4%B8%8D%E6%B2%BB",
     "timestamp": "2026-06-05T19:15:02.967Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "小泉進次郎晤印尼防長　雙方同意就出口護衛艦啟動磋商",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260606/1139746872861134848851403.jpeg/8K_tQjTCxnMjgINmjFRcDT784-yTI-JO-WSBTPlkgUw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60357484/%E5%B0%8F%E6%B3%89%E9%80%B2%E6%AC%A1%E9%83%8E%E6%99%A4%E5%8D%B0%E5%B0%BC%E9%98%B2%E9%95%B7-%E9%9B%99%E6%96%B9%E5%90%8C%E6%84%8F%E5%B0%B1%E5%87%BA%E5%8F%A3%E8%AD%B7%E8%A1%9B%E8%89%A6%E5%95%9F%E5%8B%95%E7%A3%8B%E5%95%86",
-    "timestamp": "2026-06-05T18:28:43.134Z",
     "strategy": ".content-card__main"
   }
 ];
