@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-05T23:48:43.191Z
+// Last updated: 2026-06-06T00:19:34.353Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "5歲童半夜「小狗吠」確診急性喉炎　醫揭3窒息信號+6黃金救治期",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260604/1139237565719646208920635.png/R7N21dreTT5vnCpaRQ6mokOaA3YnIqhLXEpAslxKQLI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60355793/5%E6%AD%B2%E7%AB%A5%E5%8D%8A%E5%A4%9C-%E5%B0%8F%E7%8B%97%E5%90%A0-%E7%A2%BA%E8%A8%BA%E6%80%A5%E6%80%A7%E5%96%89%E7%82%8E-%E9%86%AB%E6%8F%AD3%E7%AA%92%E6%81%AF%E4%BF%A1%E8%99%9F-6%E9%BB%83%E9%87%91%E6%95%91%E6%B2%BB%E6%9C%9F",
+    "timestamp": "2026-06-06T00:19:34.353Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "肝臟當脾臟！庸醫：無法分辨　切錯器官病人大出血亡　涉過失殺人",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260605/1139443211303915520389265.jpeg/epYZORCrae7yT5IY_UCcPgyinx2aBMW3DzO5Zg8zuWY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60357087/%E8%8A%92%E7%A8%AE%E5%A4%A9%E6%B0%A3-%E4%BB%8A%E6%97%A5%E9%83%A8%E4%BB%BD%E5%9C%B0%E5%8D%80%E6%A5%B5%E7%AB%AF%E9%85%B7%E7%86%B1-%E6%97%A9%E6%99%9A%E6%9C%89%E5%B9%BE%E9%99%A3%E7%8B%82%E9%A2%A8%E9%9B%B7%E6%9A%B4-%E5%B8%82%E5%8D%8034%E5%BA%A6",
     "timestamp": "2026-06-04T21:55:45.122Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "長沙灣幸福邨印傭暈倒洗手間　當場不治",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260605/1139421035913809920712459.jpeg/FuKMWG329OiZ0XpFTtvxeaBMh_O6-xmsrR-N7Jcfjew?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60357096/%E9%95%B7%E6%B2%99%E7%81%A3%E5%B9%B8%E7%A6%8F%E9%82%A8%E5%8D%B0%E5%82%AD%E6%9A%88%E5%80%92%E6%B4%97%E6%89%8B%E9%96%93-%E7%95%B6%E5%A0%B4%E4%B8%8D%E6%B2%BB",
-    "timestamp": "2026-06-04T21:14:27.701Z",
     "strategy": ".content-card__main"
   }
 ];
