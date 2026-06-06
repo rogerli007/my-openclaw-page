@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-06T22:14:11.735Z
+// Last updated: 2026-06-06T22:43:21.467Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "巴基斯坦內政部長赴德黑蘭　與伊朗官員會面斡旋美伊衝突",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260607/1140180504075571200684712.jpeg/87_3U76Maiu_xLgHyUPuDixNdTQpiXVzgfPqwoHz6sI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60357702/%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E5%85%A7%E6%94%BF%E9%83%A8%E9%95%B7%E8%B5%B4%E5%BE%B7%E9%BB%91%E8%98%AD-%E8%88%87%E4%BC%8A%E6%9C%97%E5%AE%98%E5%93%A1%E6%9C%83%E9%9D%A2%E6%96%A1%E6%97%8B%E7%BE%8E%E4%BC%8A%E8%A1%9D%E7%AA%81",
+    "timestamp": "2026-06-06T22:43:21.467Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "最新天氣｜天文台：今日間中有驟雨及幾陣狂風雷暴　雨勢有時頗大",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20251202/1072587371309961216854972.jpeg/mIcVaBOJVTjWSnMDWq_6EQO7ai2PAbaEYb9qf2G_an8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60357568/bitcoin-%E6%AF%94%E7%89%B9%E5%B9%A3%E4%B8%80%E5%BA%A6%E8%B7%8C%E7%A0%B46%E8%90%AC%E7%BE%8E%E5%85%83-%E8%87%AA2024%E5%B9%B4%E7%89%B9%E6%9C%97%E6%99%AE%E5%8B%9D%E9%81%B8%E4%BB%A5%E4%BE%86%E9%A6%96%E6%AC%A1",
     "timestamp": "2026-06-06T06:44:41.599Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "汗斑｜夏天一到就開始長？醫解析「治療守則」　保持乾爽減少復發",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260602/1138542794697084928617952.jpeg/YPvTPQfKO5mf2tW1jZCrInGuN36mHO_VRhBCl0YQQpc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%86%AB%E5%B8%ABEasy/60354379/%E6%B1%97%E6%96%91-%E5%A4%8F%E5%A4%A9%E4%B8%80%E5%88%B0%E5%B0%B1%E9%96%8B%E5%A7%8B%E9%95%B7-%E9%86%AB%E8%A7%A3%E6%9E%90-%E6%B2%BB%E7%99%82%E5%AE%88%E5%89%87-%E4%BF%9D%E6%8C%81%E4%B9%BE%E7%88%BD%E6%B8%9B%E5%B0%91%E5%BE%A9%E7%99%BC",
-    "timestamp": "2026-06-06T02:27:24.005Z",
     "strategy": ".content-card__main"
   }
 ];
