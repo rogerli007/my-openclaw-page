@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-06T02:27:24.005Z
+// Last updated: 2026-06-06T06:44:41.599Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "Bitcoin｜比特幣一度跌破6萬美元　自2024年特朗普勝選以來首次",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20251202/1072587371309961216854972.jpeg/mIcVaBOJVTjWSnMDWq_6EQO7ai2PAbaEYb9qf2G_an8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60357568/bitcoin-%E6%AF%94%E7%89%B9%E5%B9%A3%E4%B8%80%E5%BA%A6%E8%B7%8C%E7%A0%B46%E8%90%AC%E7%BE%8E%E5%85%83-%E8%87%AA2024%E5%B9%B4%E7%89%B9%E6%9C%97%E6%99%AE%E5%8B%9D%E9%81%B8%E4%BB%A5%E4%BE%86%E9%A6%96%E6%AC%A1",
+    "timestamp": "2026-06-06T06:44:41.599Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "汗斑｜夏天一到就開始長？醫解析「治療守則」　保持乾爽減少復發",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260605/1139461774710411264594278.png/xqd1vKuVv7YYhqVkRq-cAdF8tB2Rabar02ecvdNnnL0",
     "url": "https://www.hk01.com/%E9%81%8A%E6%88%B2%E5%8B%95%E6%BC%AB/60356798/007-%E5%88%9D%E9%9C%B2%E9%8B%92%E8%8A%92-%E9%A6%96%E6%97%A5%E7%8B%82%E8%B3%A3150%E8%90%AC%E5%A5%97-%E7%8E%A9%E5%AE%B6%E6%BF%80%E8%AE%9A-%E8%BF%91%E5%B9%B4%E6%9C%80%E4%BD%B3%E4%B9%8B%E4%BD%9C",
     "timestamp": "2026-06-04T23:50:33.583Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "百億闊太被拍中環商場掃靚貨　丈夫逝世栽培超模新抱獲讚壯大家族",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260604/1139250220828200960420853.jpeg/lt_0_CvLfxyyX-CWmqfrw7yIPa9gsfTJf9WfsX_Vn7E?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60356863/%E5%9B%9B%E5%A4%AA%E6%A2%81%E5%AE%89%E7%90%AA%E7%8F%BE%E8%BA%AB%E4%B8%AD%E7%92%B0%E5%95%86%E5%A0%B4%E6%8E%83%E8%B2%A8-%E4%B8%88%E5%A4%AB%E9%80%9D%E4%B8%96%E6%A0%BD%E5%9F%B9%E8%B6%85%E6%A8%A1%E6%96%B0%E6%8A%B1%E7%8D%B2%E8%AE%9A%E5%A3%AF%E5%A4%A7%E5%AE%B6%E6%97%8F",
-    "timestamp": "2026-06-04T23:14:49.256Z",
     "strategy": ".content-card__main"
   }
 ];
