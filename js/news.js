@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-07T05:43:22.937Z
+// Last updated: 2026-06-07T07:14:08.633Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "日本自駕遊｜按喇叭逾3秒竟視同開戰　內行人揭時間長/短意思不同",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260605/1139608081626304512368752.jpeg/occ0gErmoLI4RwlUbAkx4KYpq_IP5RyrORbxATkW8QE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%97%85%E9%81%8A/60348741/%E6%97%A5%E6%9C%AC%E8%87%AA%E9%A7%95%E9%81%8A-%E6%8C%89%E5%96%87%E5%8F%AD%E9%80%BE3%E7%A7%92%E7%AB%9F%E8%A6%96%E5%90%8C%E9%96%8B%E6%88%B0-%E5%85%A7%E8%A1%8C%E4%BA%BA%E6%8F%AD%E6%99%82%E9%96%93%E9%95%B7-%E7%9F%AD%E6%84%8F%E6%80%9D%E4%B8%8D%E5%90%8C",
+    "timestamp": "2026-06-07T07:14:08.633Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "鄭俊弘被何雁詩大爆當年不知自己是第三者　否認同老婆有爭執",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260606/1140015095334572032243568.png/_vn0EQcCFFHKpM9dpFPRdFWPwKAEtUdyAiGAVAIhgFQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60357636/%E6%9E%97%E7%9B%9B%E6%96%8C%E5%A4%A7%E5%A5%B318%E6%AD%B2%E7%94%9F%E6%97%A5%E6%94%B6%E9%81%8E%E7%99%BE%E6%94%AF%E7%8E%AB%E7%91%B0-%E5%8C%85%E5%A0%B4%E9%96%8B%E8%BF%B7%E5%B9%BB%E7%B4%AB%E5%85%89%E6%B4%BE%E5%B0%8D-%E5%A4%AA%E7%98%8B%E7%8B%82",
     "timestamp": "2026-06-06T15:49:48.461Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "夫妻肺片｜人妻輪流大爆餵人奶血淚史　賴慰玲直指塞奶痛過生仔",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260606/1139976880032583680425713.jpeg/9m7ENkl_K0jNThDVnhbqiUXmyuL5nz_4RWQ85EVkPOQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60357601/%E5%A4%AB%E5%A6%BB%E8%82%BA%E7%89%87-%E4%BA%BA%E5%A6%BB%E8%BC%AA%E6%B5%81%E5%A4%A7%E7%88%86%E9%A4%B5%E4%BA%BA%E5%A5%B6%E8%A1%80%E6%B7%9A%E5%8F%B2-%E8%B3%B4%E6%85%B0%E7%8E%B2%E7%9B%B4%E6%8C%87%E5%A1%9E%E5%A5%B6%E7%97%9B%E9%81%8E%E7%94%9F%E4%BB%94",
-    "timestamp": "2026-06-06T14:44:15.139Z",
     "strategy": ".content-card__main"
   }
 ];
