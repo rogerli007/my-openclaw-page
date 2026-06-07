@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-07T17:16:06.940Z
+// Last updated: 2026-06-07T17:53:07.220Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "最新｜天文台發紅色暴雨警告信號、星期二天氣有雨及狂風雷暴",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250709/1019579284290801664416283.png/uSGkp34MjfdBLaEkOnc2mGoJKbS1xP5Xp9dI76fXSO8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60357842/%E5%A4%A9%E6%96%87%E5%8F%B0-%E9%A0%90%E6%B8%AC%E4%BB%8A%E6%98%8E%E6%97%A5%E7%9A%84%E5%A4%A9%E6%B0%A3%E9%A0%90%E5%A0%B1-%E5%91%A8%E4%B8%80-%E4%BA%8C%E6%9C%89%E9%9B%A8%E5%8F%8A%E7%8B%82%E9%A2%A8%E9%9B%B7%E6%9A%B4",
+    "timestamp": "2026-06-07T17:53:07.220Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "東張西望｜苦主裝修愛巢遇裝修公司爛尾並狂爆粗：仲惡過黑社會",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260607/1140180504075571200684712.jpeg/87_3U76Maiu_xLgHyUPuDixNdTQpiXVzgfPqwoHz6sI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60357702/%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E5%85%A7%E6%94%BF%E9%83%A8%E9%95%B7%E8%B5%B4%E5%BE%B7%E9%BB%91%E8%98%AD-%E8%88%87%E4%BC%8A%E6%9C%97%E5%AE%98%E5%93%A1%E6%9C%83%E9%9D%A2%E6%96%A1%E6%97%8B%E7%BE%8E%E4%BC%8A%E8%A1%9D%E7%AA%81",
     "timestamp": "2026-06-06T22:43:21.467Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "最新天氣｜天文台：今日間中有驟雨及幾陣狂風雷暴　雨勢有時頗大",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260607/1140125409598246912184235.jpeg/FYcdELBMRq-5O9MS-BHs5MIKu7gymY57fXqPvH16j7w?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60357691/%E6%9C%80%E6%96%B0%E5%A4%A9%E6%B0%A3-%E5%A4%A9%E6%96%87%E5%8F%B0-%E4%BB%8A%E6%97%A5%E9%96%93%E4%B8%AD%E6%9C%89%E9%A9%9F%E9%9B%A8%E5%8F%8A%E5%B9%BE%E9%99%A3%E7%8B%82%E9%A2%A8%E9%9B%B7%E6%9A%B4-%E9%9B%A8%E5%8B%A2%E6%9C%89%E6%99%82%E9%A0%97%E5%A4%A7",
-    "timestamp": "2026-06-06T22:14:11.735Z",
     "strategy": ".content-card__main"
   }
 ];
