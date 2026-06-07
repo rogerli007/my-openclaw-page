@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-07T15:11:46.738Z
+// Last updated: 2026-06-07T16:41:28.084Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "東張西望｜苦主裝修愛巢遇裝修公司爛尾並狂爆粗：仲惡過黑社會",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260607/1140435131312377856957482.jpeg/GDQJO_uoSDOAF9z2X0Z6syzZMP6UQQwrVyMXWlcjF1o?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60357857/%E6%9D%B1%E5%BC%B5%E8%A5%BF%E6%9C%9B-%E8%8B%A6%E4%B8%BB%E8%A3%9D%E4%BF%AE%E6%84%9B%E5%B7%A2%E9%81%87%E8%A3%9D%E4%BF%AE%E5%85%AC%E5%8F%B8%E7%88%9B%E5%B0%BE%E4%B8%A6%E7%8B%82%E7%88%86%E7%B2%97-%E4%BB%B2%E6%83%A1%E9%81%8E%E9%BB%91%E7%A4%BE%E6%9C%83",
+    "timestamp": "2026-06-07T16:41:28.084Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "叔叔兩度迷姦13歲姪女兼拍片　妹妹驚醒揭發　申減刑失敗重囚18年",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260607/1140159838689431552854726.jpeg/mWVYoZKD3lT_wrRWMJSif02NnHiM4tB_kfozjZH6M40",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60357698/%E6%9A%B4%E9%9B%A8-%E5%A4%9A%E5%8D%80%E4%B8%8A%E6%BC%94%E6%B0%B4%E8%88%9E%E9%96%93-%E8%8D%83%E7%81%A3%E5%92%8C%E6%B8%AF%E9%90%B5%E6%9C%83%E5%B1%95%E7%AB%99%E8%A1%8C%E4%BA%BA%E5%A4%A9%E6%A9%8B%E7%85%A7%E6%98%8E%E7%87%88%E7%8B%82%E6%BB%B4%E6%B0%B4",
     "timestamp": "2026-06-06T21:44:09.650Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "世界盃2026｜夏蘭德化身維京戰士　全隊曬馬合照為挪威壯行｜有片",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260607/1140150763540975616740359.jpeg/R_aNxzX4XdmCrQA6aDx-iumyEK2VIAAB8ddBs_HXQbM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%92%B0%E7%90%83%E8%B6%A3%E8%81%9E/60357697/%E4%B8%96%E7%95%8C%E7%9B%832026-%E5%A4%8F%E8%98%AD%E5%BE%B7%E5%8C%96%E8%BA%AB%E7%B6%AD%E4%BA%AC%E6%88%B0%E5%A3%AB-%E5%85%A8%E9%9A%8A%E6%9B%AC%E9%A6%AC%E5%90%88%E7%85%A7%E7%82%BA%E6%8C%AA%E5%A8%81%E5%A3%AF%E8%A1%8C-%E6%9C%89%E7%89%87",
-    "timestamp": "2026-06-06T21:14:10.200Z",
     "strategy": ".content-card__main"
   }
 ];
