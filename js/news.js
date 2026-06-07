@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-07T01:31:33.681Z
+// Last updated: 2026-06-07T02:30:33.319Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "方圓百米9間茶餐廳終「滴血」　西環蛇竇茶記6.15結業：環境困難",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260607/1140235530353512448749325.jpeg/Z_dqZpwT7M2s_xHFYPo7L7nrLwYJskZQ4YHxUeGB8VE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60357720/%E6%96%B9%E5%9C%93%E7%99%BE%E7%B1%B39%E9%96%93%E8%8C%B6%E9%A4%90%E5%BB%B3%E7%B5%82-%E6%BB%B4%E8%A1%80-%E8%A5%BF%E7%92%B0%E8%9B%87%E7%AB%87%E8%8C%B6%E8%A8%986-15%E7%B5%90%E6%A5%AD-%E7%92%B0%E5%A2%83%E5%9B%B0%E9%9B%A3",
+    "timestamp": "2026-06-07T02:30:33.319Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "腦癱子案研訊今結案陳詞　家屬：若結果不如期望　會考慮司法覆核",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260606/1140010550856519680723109.jpeg/JsRXpMUnEiwvX5B6uXNW8gjOYrthQ5za2b_F3tm_xd4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60357633/%E5%86%8D%E7%94%9F%E5%AE%B6%E6%97%8F-%E5%90%8D%E5%B0%8E%E6%98%AF%E6%9E%9D%E8%A3%95%E5%92%8C%E8%A8%AA%E6%B8%AF%E5%87%BA%E5%B8%AD%E6%98%A0%E5%BE%8C%E8%AB%87-%E5%A0%B4%E6%AC%A1%E9%96%8B%E8%B3%A3%E5%B9%BE%E5%88%86%E9%90%98%E5%94%AE%E7%BD%84",
     "timestamp": "2026-06-06T11:51:40.291Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "俄油企CEO談霍爾木茲海峽封鎖：美企得益最大　中國準備最充足",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260606/1139992708262137856934170.jpeg/MTAeZQeI3D6vyP3NE1fNnjHumhEvapPITGlVvkxpVb4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60357623/%E4%BF%84%E6%B2%B9%E4%BC%81ceo%E8%AB%87%E9%9C%8D%E7%88%BE%E6%9C%A8%E8%8C%B2%E6%B5%B7%E5%B3%BD%E5%B0%81%E9%8E%96-%E7%BE%8E%E4%BC%81%E5%BE%97%E7%9B%8A%E6%9C%80%E5%A4%A7-%E4%B8%AD%E5%9C%8B%E6%BA%96%E5%82%99%E6%9C%80%E5%85%85%E8%B6%B3",
-    "timestamp": "2026-06-06T11:10:12.401Z",
     "strategy": ".content-card__main"
   }
 ];
