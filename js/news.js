@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-07T11:26:53.444Z
+// Last updated: 2026-06-07T12:09:56.692Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "澳門賣淫集團｜26疑犯涉多名警員　治安警察局副局長及代處長涉案",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260605/1139549942277214208892163.jpeg/svin90tv86Nn-j26_GwD4wlWCvShd-5E12zXJdds1yU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60357830/%E6%BE%B3%E9%96%80%E8%B3%A3%E6%B7%AB%E9%9B%86%E5%9C%98-26%E7%96%91%E7%8A%AF%E6%B6%89%E5%A4%9A%E5%90%8D%E8%AD%A6%E5%93%A1-%E6%B2%BB%E5%AE%89%E8%AD%A6%E5%AF%9F%E5%B1%80%E5%89%AF%E5%B1%80%E9%95%B7%E5%8F%8A%E4%BB%A3%E8%99%95%E9%95%B7%E6%B6%89%E6%A1%88",
+    "timestamp": "2026-06-07T12:09:56.692Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "元朗朗屏邨畫屏樓男子墮樓送院亡　警追查身份籲市民提供資料",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260607/1140102384660254720259387.png/tMWYMvwsGq4GkMRKgWcokohzZqt6UY7_xsiNzcbIjc0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60357688/%E9%9F%93%E6%AD%A3%E8%B5%B4%E7%99%BD%E7%BE%85%E6%96%AF%E6%99%A4%E7%B8%BD%E7%90%86%E5%9C%96%E7%88%BE%E6%AC%BD-%E7%B1%B2%E6%8E%A8%E9%80%B2%E4%B8%AD%E7%99%BD%E5%B7%A5%E6%A5%AD%E5%9C%92%E7%AD%89%E9%87%8D%E9%BB%9E%E5%90%88%E4%BD%9C%E9%A0%85%E7%9B%AE",
     "timestamp": "2026-06-06T18:49:24.061Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "韓正赴白羅斯晤總理圖爾欽　籲推進中白工業園等重點合作項目",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260607/1140102384660254720259387.png/tMWYMvwsGq4GkMRKgWcokohzZqt6UY7_xsiNzcbIjc0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60357688/%E9%9F%93%E6%AD%A3%E8%B5%B4%E7%99%BD%E7%BE%85%E6%96%AF%E6%99%A4%E7%B8%BD%E7%90%86%E5%9C%96%E7%88%BE%E6%AC%BD-%E7%B1%B2%E6%8E%A8%E9%80%B2%E4%B8%AD%E7%99%BD%E5%B7%A5%E6%A5%AD%E5%9C%92%E7%AD%89%E9%87%8D%E9%BB%9E%E5%90%88%E4%BD%9C%E9%A0%85%E7%9B%AE",
-    "timestamp": "2026-06-06T18:16:29.547Z",
     "strategy": ".content-card__main"
   }
 ];
