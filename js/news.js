@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-07T09:44:25.255Z
+// Last updated: 2026-06-07T10:39:50.922Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "大S生前日本行照片曝光　小S憶同遊往事隔空喊話：好多事只有妳懂",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260607/1140264559819362304549307.png/guJ_vkOkd94vuh3LWttqKPHC_GsiZpnz2HoaOth6Gjo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60357736/%E5%A4%A7s%E7%94%9F%E5%89%8D%E6%97%A5%E6%9C%AC%E8%A1%8C%E7%85%A7%E7%89%87%E6%9B%9D%E5%85%89-%E5%B0%8Fs%E6%86%B6%E5%90%8C%E9%81%8A%E5%BE%80%E4%BA%8B%E9%9A%94%E7%A9%BA%E5%96%8A%E8%A9%B1-%E5%A5%BD%E5%A4%9A%E4%BA%8B%E5%8F%AA%E6%9C%89%E5%A6%B3%E6%87%82",
+    "timestamp": "2026-06-07T10:39:50.922Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美國男為病父寄售157萬元星戰LEGO離奇消失　網紅代追查反被捕",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260607/1140102384660254720259387.png/tMWYMvwsGq4GkMRKgWcokohzZqt6UY7_xsiNzcbIjc0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60357688/%E9%9F%93%E6%AD%A3%E8%B5%B4%E7%99%BD%E7%BE%85%E6%96%AF%E6%99%A4%E7%B8%BD%E7%90%86%E5%9C%96%E7%88%BE%E6%AC%BD-%E7%B1%B2%E6%8E%A8%E9%80%B2%E4%B8%AD%E7%99%BD%E5%B7%A5%E6%A5%AD%E5%9C%92%E7%AD%89%E9%87%8D%E9%BB%9E%E5%90%88%E4%BD%9C%E9%A0%85%E7%9B%AE",
     "timestamp": "2026-06-06T17:46:36.489Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "劍擊會長盃｜連翊希淡然看成敗　錯過大賽不失志　感激教練不放棄",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260606/1140062642283483136975821.jpeg/8yltI--iw0jcGnsmiIPN4eTuezlL0nATJUGKHSVBih0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60357634/%E5%8A%8D%E6%93%8A%E6%9C%83%E9%95%B7%E7%9B%83-%E9%80%A3%E7%BF%8A%E5%B8%8C%E6%B7%A1%E7%84%B6%E7%9C%8B%E6%88%90%E6%95%97-%E9%8C%AF%E9%81%8E%E5%A4%A7%E8%B3%BD%E4%B8%8D%E5%A4%B1%E5%BF%97-%E6%84%9F%E6%BF%80%E6%95%99%E7%B7%B4%E4%B8%8D%E6%94%BE%E6%A3%84",
-    "timestamp": "2026-06-06T17:15:55.785Z",
     "strategy": ".content-card__main"
   }
 ];
