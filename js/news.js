@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-07T21:19:20.488Z
+// Last updated: 2026-06-07T21:50:55.141Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "以軍：已攔截所有來襲導彈　伊朗：警告性打擊以空軍基地",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260608/1140517083793068032856423.jpeg/GHmC6miIy8I8tzhgfz5e1FWC1_w1xOPvYX0JDmF9CQ4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60357878/%E4%BB%A5%E8%BB%8D-%E5%B7%B2%E6%94%94%E6%88%AA%E6%89%80%E6%9C%89%E4%BE%86%E8%A5%B2%E5%B0%8E%E5%BD%88-%E4%BC%8A%E6%9C%97-%E8%AD%A6%E5%91%8A%E6%80%A7%E6%89%93%E6%93%8A%E4%BB%A5%E7%A9%BA%E8%BB%8D%E5%9F%BA%E5%9C%B0",
+    "timestamp": "2026-06-07T21:50:55.141Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "以色列北部遭導彈攻擊　伊朗稱警告性打擊以空軍基地",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260607/1140235530353512448749325.jpeg/Z_dqZpwT7M2s_xHFYPo7L7nrLwYJskZQ4YHxUeGB8VE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60357720/%E6%96%B9%E5%9C%93%E7%99%BE%E7%B1%B39%E9%96%93%E8%8C%B6%E9%A4%90%E5%BB%B3%E7%B5%82-%E6%BB%B4%E8%A1%80-%E8%A5%BF%E7%92%B0%E8%9B%87%E7%AB%87%E8%8C%B6%E8%A8%986-15%E7%B5%90%E6%A5%AD-%E7%92%B0%E5%A2%83%E5%9B%B0%E9%9B%A3",
     "timestamp": "2026-06-07T02:30:33.319Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "腦癱子案研訊今結案陳詞　家屬：若結果不如期望　會考慮司法覆核",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260426/1125034723811397632836249.jpeg/94uV93DUJN7dMens2emJSOhvxCcZ5tFRqQo6nqkKOp4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60357680/%E8%85%A6%E7%99%B1%E5%AD%90%E6%A1%88%E7%A0%94%E8%A8%8A%E4%BB%8A%E7%B5%90%E6%A1%88%E9%99%B3%E8%A9%9E-%E5%AE%B6%E5%B1%AC-%E8%8B%A5%E7%B5%90%E6%9E%9C%E4%B8%8D%E5%A6%82%E6%9C%9F%E6%9C%9B-%E6%9C%83%E8%80%83%E6%85%AE%E5%8F%B8%E6%B3%95%E8%A6%86%E6%A0%B8",
-    "timestamp": "2026-06-07T01:31:33.681Z",
     "strategy": ".content-card__main"
   }
 ];
