@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-07T03:54:09.266Z
+// Last updated: 2026-06-07T05:43:22.937Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "鄭俊弘被何雁詩大爆當年不知自己是第三者　否認同老婆有爭執",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260607/1140154983543476224946720.jpeg/MRxnCGq--lyRTEEamM4_HOiuXpTIQmrZY9va7lnb2u4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60357699/%E9%84%AD%E4%BF%8A%E5%BC%98%E8%A2%AB%E4%BD%95%E9%9B%81%E8%A9%A9%E5%A4%A7%E7%88%86%E7%95%B6%E5%B9%B4%E4%B8%8D%E7%9F%A5%E8%87%AA%E5%B7%B1%E6%98%AF%E7%AC%AC%E4%B8%89%E8%80%85-%E5%90%A6%E8%AA%8D%E5%90%8C%E8%80%81%E5%A9%86%E6%9C%89%E7%88%AD%E5%9F%B7",
+    "timestamp": "2026-06-07T05:43:22.937Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "曾俊華出街感熱到溶：如果有日40度，超英哥係咪仲忍到唔開冷氣？",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260606/1139976880032583680425713.jpeg/9m7ENkl_K0jNThDVnhbqiUXmyuL5nz_4RWQ85EVkPOQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60357601/%E5%A4%AB%E5%A6%BB%E8%82%BA%E7%89%87-%E4%BA%BA%E5%A6%BB%E8%BC%AA%E6%B5%81%E5%A4%A7%E7%88%86%E9%A4%B5%E4%BA%BA%E5%A5%B6%E8%A1%80%E6%B7%9A%E5%8F%B2-%E8%B3%B4%E6%85%B0%E7%8E%B2%E7%9B%B4%E6%8C%87%E5%A1%9E%E5%A5%B6%E7%97%9B%E9%81%8E%E7%94%9F%E4%BB%94",
     "timestamp": "2026-06-06T14:44:15.139Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "慈雲山惠華街爆鹹水管　街道變溪流　多個屋邨沖廁水受影響",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260606/1140032775965904896723405.png/xwMDQBCql01h2piak63SXAczx4vel135lKT5T5Sk-U8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60357647/%E6%85%88%E9%9B%B2%E5%B1%B1%E6%83%A0%E8%8F%AF%E8%A1%97%E7%88%86%E9%B9%B9%E6%B0%B4%E7%AE%A1-%E8%A1%97%E9%81%93%E8%AE%8A%E6%BA%AA%E6%B5%81-%E5%A4%9A%E5%80%8B%E5%B1%8B%E9%82%A8%E6%B2%96%E5%BB%81%E6%B0%B4%E5%8F%97%E5%BD%B1%E9%9F%BF",
-    "timestamp": "2026-06-06T13:16:50.141Z",
     "strategy": ".content-card__main"
   }
 ];
