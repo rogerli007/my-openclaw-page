@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-07T07:14:08.633Z
+// Last updated: 2026-06-07T08:29:58.967Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "特朗普8日親臨紐約觀戰NBA　場館實施機場級安檢籲球迷提早入場",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260607/1140229750145421312256930.jpeg/PkLYzAzgMwA74-J2DQZJH4dO64jy7_yqchciXHIXIlw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60357784/%E7%89%B9%E6%9C%97%E6%99%AE8%E6%97%A5%E8%A6%AA%E8%87%A8%E7%B4%90%E7%B4%84%E8%A7%80%E6%88%B0nba-%E5%A0%B4%E9%A4%A8%E5%AF%A6%E6%96%BD%E6%A9%9F%E5%A0%B4%E7%B4%9A%E5%AE%89%E6%AA%A2%E7%B1%B2%E7%90%83%E8%BF%B7%E6%8F%90%E6%97%A9%E5%85%A5%E5%A0%B4",
+    "timestamp": "2026-06-07T08:29:58.967Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "日本自駕遊｜按喇叭逾3秒竟視同開戰　內行人揭時間長/短意思不同",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260607/1140082116231434240301786.jpeg/UpvlTLkw_EkT7GL_N9kopShkgKL4as26PfHqYT3x6mE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60357685/%E6%B7%B1%E6%B0%B4%E5%9F%97%E7%A7%81%E5%AE%B6%E8%BB%8A%E5%89%B7%E4%B8%8A%E8%A1%8C%E4%BA%BA%E8%B7%AF%E6%92%9E2%E5%A5%B3-%E5%82%B7%E8%80%85%E9%80%81%E9%99%A2%E6%B2%BB%E7%90%86-%E5%8F%B8%E6%A9%9F%E8%B9%A4%E6%9D%B3",
     "timestamp": "2026-06-06T16:35:12.473Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "林盛斌大女18歲生日收過百支玫瑰　包場開迷幻紫光派對：太瘋狂",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260606/1140015095334572032243568.png/_vn0EQcCFFHKpM9dpFPRdFWPwKAEtUdyAiGAVAIhgFQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60357636/%E6%9E%97%E7%9B%9B%E6%96%8C%E5%A4%A7%E5%A5%B318%E6%AD%B2%E7%94%9F%E6%97%A5%E6%94%B6%E9%81%8E%E7%99%BE%E6%94%AF%E7%8E%AB%E7%91%B0-%E5%8C%85%E5%A0%B4%E9%96%8B%E8%BF%B7%E5%B9%BB%E7%B4%AB%E5%85%89%E6%B4%BE%E5%B0%8D-%E5%A4%AA%E7%98%8B%E7%8B%82",
-    "timestamp": "2026-06-06T15:49:48.461Z",
     "strategy": ".content-card__main"
   }
 ];
