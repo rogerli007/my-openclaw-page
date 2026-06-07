@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-07T19:40:04.798Z
+// Last updated: 2026-06-07T20:15:32.769Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "最新天氣｜天文台改發黃雨警告　雷雨區仍可能未來數小時影響本港",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260607/1140405117560819712409516.jpeg/YA4o5G08AlZ74jtg5EjqdMI7YaYkTy7SJOaDKyTmgys?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60357691/%E6%9C%80%E6%96%B0%E5%A4%A9%E6%B0%A3-%E5%A4%A9%E6%96%87%E5%8F%B0%E6%94%B9%E7%99%BC%E9%BB%83%E9%9B%A8%E8%AD%A6%E5%91%8A-%E9%9B%B7%E9%9B%A8%E5%8D%80%E4%BB%8D%E5%8F%AF%E8%83%BD%E6%9C%AA%E4%BE%86%E6%95%B8%E5%B0%8F%E6%99%82%E5%BD%B1%E9%9F%BF%E6%9C%AC%E6%B8%AF",
+    "timestamp": "2026-06-07T20:15:32.769Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "法網︱薩維列夫封王　德國30年來首位大滿貫男單冠軍",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260512/1130824906968141824745368.jpeg/RwoOKR___wRR5TCEdgp45tUfaAbd5loJEVTGVRFUxlU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60318368/%E6%8F%AD%E8%8B%B1%E5%9C%8B%E7%94%9F%E6%B4%BB%E6%85%98%E6%B3%81%E6%88%90%E6%B5%81%E9%87%8F%E5%AF%86%E7%A2%BC-%E7%AA%AE%E8%8B%A6%E7%95%99%E5%AD%B8%E7%94%9F-%E7%8B%82%E5%90%83%E8%8C%84%E6%B1%81%E8%B1%86%E8%AE%8A%E7%99%BE%E8%90%AC%E7%B6%B2%E7%B4%85",
     "timestamp": "2026-06-07T00:14:18.671Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "東京澀谷嚴打垃圾蟲　亂拋雜物當場被罰2000日圓｜有片",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260607/1140193151445635072285047.png/72-NnrXcHKRLPp6Es570pFAErglewW7HgeziJ4Hs4ic",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60357703/%E6%9D%B1%E4%BA%AC%E6%BE%80%E8%B0%B7%E5%9A%B4%E6%89%93%E5%9E%83%E5%9C%BE%E8%9F%B2-%E4%BA%82%E6%8B%8B%E9%9B%9C%E7%89%A9%E7%95%B6%E5%A0%B4%E8%A2%AB%E7%BD%B02000%E6%97%A5%E5%9C%93-%E6%9C%89%E7%89%87",
-    "timestamp": "2026-06-06T23:42:43.079Z",
     "strategy": ".content-card__main"
   }
 ];
