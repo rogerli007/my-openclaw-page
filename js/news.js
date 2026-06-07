@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-07T12:53:51.215Z
+// Last updated: 2026-06-07T13:43:06.013Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "胡楓獲頒健力士世界紀錄保持者　領獎站不穩幸得劉德華以膊相扶",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260607/1140402454622375936629138.jpeg/yT7zxLEFm0rSXSC5ko6IwRNbQUMr1Oc_u2tmGYFrZhk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60357841/%E8%83%A1%E6%A5%93%E7%8D%B2%E9%A0%92%E5%81%A5%E5%8A%9B%E5%A3%AB%E4%B8%96%E7%95%8C%E7%B4%80%E9%8C%84%E4%BF%9D%E6%8C%81%E8%80%85-%E9%A0%98%E7%8D%8E%E7%AB%99%E4%B8%8D%E7%A9%A9%E5%B9%B8%E5%BE%97%E5%8A%89%E5%BE%B7%E8%8F%AF%E4%BB%A5%E8%86%8A%E7%9B%B8%E6%89%B6",
+    "timestamp": "2026-06-07T13:43:06.013Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "珍惜生命｜機場離境樓層男子危坐高處　消防開氣墊　談判專家游說",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260607/1140129745321594880106238.jpeg/HEQzGzBlhl3XHerskRKu_Ih6kjILJid5uTjl87k45fM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60357692/%E7%BE%8E%E5%9C%8B20%E6%AD%B2%E5%A4%A7%E5%AD%B8%E7%94%9F%E9%81%8A%E6%97%A5%E5%A4%B1%E8%B9%A4%E8%B6%85%E9%81%8E%E4%B8%80%E5%91%A8-%E7%88%B6%E6%AF%8D%E6%82%B2%E7%97%9B%E7%A8%B1%E5%9C%A8%E4%BA%AC%E9%83%BD%E9%83%8A%E5%A4%96%E5%B0%8B%E7%8D%B2%E9%81%BA%E9%AB%94",
     "timestamp": "2026-06-06T20:38:48.038Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美國20歲大學生遊日失蹤超過一周　父母悲痛稱在京都郊外尋獲遺體",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260607/1140129745321594880106238.jpeg/HEQzGzBlhl3XHerskRKu_Ih6kjILJid5uTjl87k45fM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60357692/%E7%BE%8E%E5%9C%8B20%E6%AD%B2%E5%A4%A7%E5%AD%B8%E7%94%9F%E9%81%8A%E6%97%A5%E5%A4%B1%E8%B9%A4%E8%B6%85%E9%81%8E%E4%B8%80%E5%91%A8-%E7%88%B6%E6%AF%8D%E6%82%B2%E7%97%9B%E7%A8%B1%E5%9C%A8%E4%BA%AC%E9%83%BD%E9%83%8A%E5%A4%96%E5%B0%8B%E7%8D%B2%E9%81%BA%E9%AB%94",
-    "timestamp": "2026-06-06T20:02:03.156Z",
     "strategy": ".content-card__main"
   }
 ];
