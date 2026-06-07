@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-07T21:50:55.141Z
+// Last updated: 2026-06-07T22:33:12.269Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "特朗普：伊朗攻擊以色列無助於談判　促內塔尼亞胡不要報復",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260522/1134298550256013312957018.jpeg/RgVUN9yesMtzkDtaLtMkXgfD5GGnfwMy830B4_N9AeM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60357879/%E7%89%B9%E6%9C%97%E6%99%AE-%E4%BC%8A%E6%9C%97%E6%94%BB%E6%93%8A%E4%BB%A5%E8%89%B2%E5%88%97%E7%84%A1%E5%8A%A9%E6%96%BC%E8%AB%87%E5%88%A4-%E4%BF%83%E5%85%A7%E5%A1%94%E5%B0%BC%E4%BA%9E%E8%83%A1%E4%B8%8D%E8%A6%81%E5%A0%B1%E5%BE%A9",
+    "timestamp": "2026-06-07T22:33:12.269Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "以軍：已攔截所有來襲導彈　伊朗：警告性打擊以空軍基地",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20241031/928643574470676480152603.jpeg/LIS2mTaBfbFINFCcGEj6-eccvZAmUi4U0oHdtveB3bY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60357731/%E6%9B%BE%E4%BF%8A%E8%8F%AF%E5%87%BA%E8%A1%97%E6%84%9F%E7%86%B1%E5%88%B0%E6%BA%B6-%E5%A6%82%E6%9E%9C%E6%9C%89%E6%97%A540%E5%BA%A6-%E8%B6%85%E8%8B%B1%E5%93%A5%E4%BF%82%E5%92%AA%E4%BB%B2%E5%BF%8D%E5%88%B0%E5%94%94%E9%96%8B%E5%86%B7%E6%B0%A3",
     "timestamp": "2026-06-07T03:54:09.266Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "方圓百米9間茶餐廳終「滴血」　西環蛇竇茶記6.15結業：環境困難",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260607/1140235530353512448749325.jpeg/Z_dqZpwT7M2s_xHFYPo7L7nrLwYJskZQ4YHxUeGB8VE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60357720/%E6%96%B9%E5%9C%93%E7%99%BE%E7%B1%B39%E9%96%93%E8%8C%B6%E9%A4%90%E5%BB%B3%E7%B5%82-%E6%BB%B4%E8%A1%80-%E8%A5%BF%E7%92%B0%E8%9B%87%E7%AB%87%E8%8C%B6%E8%A8%986-15%E7%B5%90%E6%A5%AD-%E7%92%B0%E5%A2%83%E5%9B%B0%E9%9B%A3",
-    "timestamp": "2026-06-07T02:30:33.319Z",
     "strategy": ".content-card__main"
   }
 ];
