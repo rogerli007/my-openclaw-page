@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-07T08:29:58.967Z
+// Last updated: 2026-06-07T09:44:25.255Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美國男為病父寄售157萬元星戰LEGO離奇消失　網紅代追查反被捕",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260607/1140325720963158016068195.jpeg/gQT5rV4tTvRinKkbyMadlTCzqERN6oC4KO1aUCjtWlA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%92%B0%E7%90%83%E8%B6%A3%E8%81%9E/60357775/%E7%BE%8E%E5%9C%8B%E7%94%B7%E7%82%BA%E7%97%85%E7%88%B6%E5%AF%84%E5%94%AE157%E8%90%AC%E5%85%83%E6%98%9F%E6%88%B0lego%E9%9B%A2%E5%A5%87%E6%B6%88%E5%A4%B1-%E7%B6%B2%E7%B4%85%E4%BB%A3%E8%BF%BD%E6%9F%A5%E5%8F%8D%E8%A2%AB%E6%8D%95",
+    "timestamp": "2026-06-07T09:44:25.255Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "特朗普8日親臨紐約觀戰NBA　場館實施機場級安檢籲球迷提早入場",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260606/1140062642283483136975821.jpeg/8yltI--iw0jcGnsmiIPN4eTuezlL0nATJUGKHSVBih0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60357634/%E5%8A%8D%E6%93%8A%E6%9C%83%E9%95%B7%E7%9B%83-%E9%80%A3%E7%BF%8A%E5%B8%8C%E6%B7%A1%E7%84%B6%E7%9C%8B%E6%88%90%E6%95%97-%E9%8C%AF%E9%81%8E%E5%A4%A7%E8%B3%BD%E4%B8%8D%E5%A4%B1%E5%BF%97-%E6%84%9F%E6%BF%80%E6%95%99%E7%B7%B4%E4%B8%8D%E6%94%BE%E6%A3%84",
     "timestamp": "2026-06-06T17:15:55.785Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "深水埗私家車剷上行人路撞2女　傷者送院治理　司機蹤杳",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260607/1140082116231434240301786.jpeg/UpvlTLkw_EkT7GL_N9kopShkgKL4as26PfHqYT3x6mE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60357685/%E6%B7%B1%E6%B0%B4%E5%9F%97%E7%A7%81%E5%AE%B6%E8%BB%8A%E5%89%B7%E4%B8%8A%E8%A1%8C%E4%BA%BA%E8%B7%AF%E6%92%9E2%E5%A5%B3-%E5%82%B7%E8%80%85%E9%80%81%E9%99%A2%E6%B2%BB%E7%90%86-%E5%8F%B8%E6%A9%9F%E8%B9%A4%E6%9D%B3",
-    "timestamp": "2026-06-06T16:35:12.473Z",
     "strategy": ".content-card__main"
   }
 ];
