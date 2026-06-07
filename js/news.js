@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-07T18:18:59.128Z
+// Last updated: 2026-06-07T19:40:04.798Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "法網︱薩維列夫封王　德國30年來首位大滿貫男單冠軍",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260608/1140487992171827200931452.jpeg/wqm4oEpB7x073I0tubRx6f8ex12moD6-hRA0J4UQNCc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60357873/%E6%B3%95%E7%B6%B2-%E8%96%A9%E7%B6%AD%E5%88%97%E5%A4%AB%E5%B0%81%E7%8E%8B-%E5%BE%B7%E5%9C%8B30%E5%B9%B4%E4%BE%86%E9%A6%96%E4%BD%8D%E5%A4%A7%E6%BB%BF%E8%B2%AB%E7%94%B7%E5%96%AE%E5%86%A0%E8%BB%8D",
+    "timestamp": "2026-06-07T19:40:04.798Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "暴雨停課 | 一文看清黃雨、紅雨、黑雨下 教育局中小幼停課指引",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260607/1140193151445635072285047.png/72-NnrXcHKRLPp6Es570pFAErglewW7HgeziJ4Hs4ic",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60357703/%E6%9D%B1%E4%BA%AC%E6%BE%80%E8%B0%B7%E5%9A%B4%E6%89%93%E5%9E%83%E5%9C%BE%E8%9F%B2-%E4%BA%82%E6%8B%8B%E9%9B%9C%E7%89%A9%E7%95%B6%E5%A0%B4%E8%A2%AB%E7%BD%B02000%E6%97%A5%E5%9C%93-%E6%9C%89%E7%89%87",
     "timestamp": "2026-06-06T23:42:43.079Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "校園天地︱啟基學校師生到訪杭州　近距離觸摸真實火箭箭體",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260607/1140135814647255040564792.jpeg/T4PcADG2K41TuMhAMKxHepEDumpze1zvi9x7AovcewI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E4%B8%AD%E5%B0%8F%E5%AD%B8%E6%A0%A1%E5%9C%92/60356591/%E6%A0%A1%E5%9C%92%E5%A4%A9%E5%9C%B0-%E5%95%9F%E5%9F%BA%E5%AD%B8%E6%A0%A1%E5%B8%AB%E7%94%9F%E5%88%B0%E8%A8%AA%E6%9D%AD%E5%B7%9E-%E8%BF%91%E8%B7%9D%E9%9B%A2%E8%A7%B8%E6%91%B8%E7%9C%9F%E5%AF%A6%E7%81%AB%E7%AE%AD%E7%AE%AD%E9%AB%94",
-    "timestamp": "2026-06-06T23:14:11.726Z",
     "strategy": ".content-card__main"
   }
 ];
