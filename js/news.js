@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-06T23:42:43.079Z
+// Last updated: 2026-06-07T00:14:18.671Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "揭英國生活慘況成流量密碼　「窮苦留學生」狂吃茄汁豆變百萬網紅",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260512/1130824906968141824745368.jpeg/RwoOKR___wRR5TCEdgp45tUfaAbd5loJEVTGVRFUxlU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60318368/%E6%8F%AD%E8%8B%B1%E5%9C%8B%E7%94%9F%E6%B4%BB%E6%85%98%E6%B3%81%E6%88%90%E6%B5%81%E9%87%8F%E5%AF%86%E7%A2%BC-%E7%AA%AE%E8%8B%A6%E7%95%99%E5%AD%B8%E7%94%9F-%E7%8B%82%E5%90%83%E8%8C%84%E6%B1%81%E8%B1%86%E8%AE%8A%E7%99%BE%E8%90%AC%E7%B6%B2%E7%B4%85",
+    "timestamp": "2026-06-07T00:14:18.671Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "東京澀谷嚴打垃圾蟲　亂拋雜物當場被罰2000日圓｜有片",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260606/1139979064652599296402713.jpeg/VPKf92emhB_5ajwtFymOZX10KomNnuV2nEbI25xGyNs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60357606/%E6%B5%B7%E4%BF%8A%E5%82%91%E5%96%AA%E5%A6%BB%E5%BE%8C%E7%A5%9E%E9%9A%B1%E5%A4%9A%E6%99%82%E8%A2%AB%E6%8D%95%E7%8D%B2-%E7%8D%A8%E7%AB%99%E8%A1%97%E9%82%8A%E8%BA%AB%E5%BD%A2%E6%B6%88%E7%98%A6%E4%BB%A4%E4%BA%BA%E5%BF%83%E7%97%9B",
     "timestamp": "2026-06-06T10:32:39.621Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "高鹽飲食胃癌風險倍增！營養師揭4隱藏高鈉食物　1招3周重置味覺",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260605/1139634812206714880925381.jpeg/1CaagwxETb4CqaLzvWd3AO4twIW7gIWWMnKkXjJypF4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60344925/%E9%AB%98%E9%B9%BD%E9%A3%B2%E9%A3%9F%E8%83%83%E7%99%8C%E9%A2%A8%E9%9A%AA%E5%80%8D%E5%A2%9E-%E7%87%9F%E9%A4%8A%E5%B8%AB%E6%8F%AD4%E9%9A%B1%E8%97%8F%E9%AB%98%E9%88%89%E9%A3%9F%E7%89%A9-1%E6%8B%9B3%E5%91%A8%E9%87%8D%E7%BD%AE%E5%91%B3%E8%A6%BA",
-    "timestamp": "2026-06-06T09:36:46.229Z",
     "strategy": ".content-card__main"
   }
 ];
