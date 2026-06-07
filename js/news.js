@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-07T00:14:18.671Z
+// Last updated: 2026-06-07T01:31:33.681Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "腦癱子案研訊今結案陳詞　家屬：若結果不如期望　會考慮司法覆核",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260426/1125034723811397632836249.jpeg/94uV93DUJN7dMens2emJSOhvxCcZ5tFRqQo6nqkKOp4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60357680/%E8%85%A6%E7%99%B1%E5%AD%90%E6%A1%88%E7%A0%94%E8%A8%8A%E4%BB%8A%E7%B5%90%E6%A1%88%E9%99%B3%E8%A9%9E-%E5%AE%B6%E5%B1%AC-%E8%8B%A5%E7%B5%90%E6%9E%9C%E4%B8%8D%E5%A6%82%E6%9C%9F%E6%9C%9B-%E6%9C%83%E8%80%83%E6%85%AE%E5%8F%B8%E6%B3%95%E8%A6%86%E6%A0%B8",
+    "timestamp": "2026-06-07T01:31:33.681Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "揭英國生活慘況成流量密碼　「窮苦留學生」狂吃茄汁豆變百萬網紅",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260606/1139992708262137856934170.jpeg/MTAeZQeI3D6vyP3NE1fNnjHumhEvapPITGlVvkxpVb4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60357623/%E4%BF%84%E6%B2%B9%E4%BC%81ceo%E8%AB%87%E9%9C%8D%E7%88%BE%E6%9C%A8%E8%8C%B2%E6%B5%B7%E5%B3%BD%E5%B0%81%E9%8E%96-%E7%BE%8E%E4%BC%81%E5%BE%97%E7%9B%8A%E6%9C%80%E5%A4%A7-%E4%B8%AD%E5%9C%8B%E6%BA%96%E5%82%99%E6%9C%80%E5%85%85%E8%B6%B3",
     "timestamp": "2026-06-06T11:10:12.401Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "海俊傑喪妻後神隱多時被捕獲　獨站街邊身形消瘦令人心痛",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260606/1139979064652599296402713.jpeg/VPKf92emhB_5ajwtFymOZX10KomNnuV2nEbI25xGyNs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60357606/%E6%B5%B7%E4%BF%8A%E5%82%91%E5%96%AA%E5%A6%BB%E5%BE%8C%E7%A5%9E%E9%9A%B1%E5%A4%9A%E6%99%82%E8%A2%AB%E6%8D%95%E7%8D%B2-%E7%8D%A8%E7%AB%99%E8%A1%97%E9%82%8A%E8%BA%AB%E5%BD%A2%E6%B6%88%E7%98%A6%E4%BB%A4%E4%BA%BA%E5%BF%83%E7%97%9B",
-    "timestamp": "2026-06-06T10:32:39.621Z",
     "strategy": ".content-card__main"
   }
 ];
