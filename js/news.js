@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-07T10:39:50.922Z
+// Last updated: 2026-06-07T11:26:53.444Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "元朗朗屏邨畫屏樓男子墮樓送院亡　警追查身份籲市民提供資料",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20220501/597460437348388864469713.jpeg/wf5tyQxMDTTmz2SNippq20J7oHf0qQujk2OglJNjoJQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60357824/%E5%85%83%E6%9C%97%E6%9C%97%E5%B1%8F%E9%82%A8%E7%95%AB%E5%B1%8F%E6%A8%93%E7%94%B7%E5%AD%90%E5%A2%AE%E6%A8%93%E9%80%81%E9%99%A2%E4%BA%A1-%E8%AD%A6%E8%BF%BD%E6%9F%A5%E8%BA%AB%E4%BB%BD%E7%B1%B2%E5%B8%82%E6%B0%91%E6%8F%90%E4%BE%9B%E8%B3%87%E6%96%99",
+    "timestamp": "2026-06-07T11:26:53.444Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "大S生前日本行照片曝光　小S憶同遊往事隔空喊話：好多事只有妳懂",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260607/1140102384660254720259387.png/tMWYMvwsGq4GkMRKgWcokohzZqt6UY7_xsiNzcbIjc0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60357688/%E9%9F%93%E6%AD%A3%E8%B5%B4%E7%99%BD%E7%BE%85%E6%96%AF%E6%99%A4%E7%B8%BD%E7%90%86%E5%9C%96%E7%88%BE%E6%AC%BD-%E7%B1%B2%E6%8E%A8%E9%80%B2%E4%B8%AD%E7%99%BD%E5%B7%A5%E6%A5%AD%E5%9C%92%E7%AD%89%E9%87%8D%E9%BB%9E%E5%90%88%E4%BD%9C%E9%A0%85%E7%9B%AE",
     "timestamp": "2026-06-06T18:16:29.547Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "韓正赴白羅斯晤總理圖爾欽　籲推進中白工業園等重點合作項目",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260607/1140102384660254720259387.png/tMWYMvwsGq4GkMRKgWcokohzZqt6UY7_xsiNzcbIjc0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60357688/%E9%9F%93%E6%AD%A3%E8%B5%B4%E7%99%BD%E7%BE%85%E6%96%AF%E6%99%A4%E7%B8%BD%E7%90%86%E5%9C%96%E7%88%BE%E6%AC%BD-%E7%B1%B2%E6%8E%A8%E9%80%B2%E4%B8%AD%E7%99%BD%E5%B7%A5%E6%A5%AD%E5%9C%92%E7%AD%89%E9%87%8D%E9%BB%9E%E5%90%88%E4%BD%9C%E9%A0%85%E7%9B%AE",
-    "timestamp": "2026-06-06T17:46:36.489Z",
     "strategy": ".content-card__main"
   }
 ];
