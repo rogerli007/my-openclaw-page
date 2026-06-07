@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-07T17:53:07.220Z
+// Last updated: 2026-06-07T18:18:59.128Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "暴雨停課 | 一文看清黃雨、紅雨、黑雨下 教育局中小幼停課指引",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20240528/872178259163353088507892.jpeg/8f2s_rTICBvty_pSwAidHjMrp-yvzGEAzZia4M2YmuA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%A6%AA%E5%AD%90/1023608/%E6%9A%B4%E9%9B%A8%E5%81%9C%E8%AA%B2-%E4%B8%80%E6%96%87%E7%9C%8B%E6%B8%85%E9%BB%83%E9%9B%A8-%E7%B4%85%E9%9B%A8-%E9%BB%91%E9%9B%A8%E4%B8%8B-%E6%95%99%E8%82%B2%E5%B1%80%E4%B8%AD%E5%B0%8F%E5%B9%BC%E5%81%9C%E8%AA%B2%E6%8C%87%E5%BC%95",
+    "timestamp": "2026-06-07T18:18:59.128Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "最新｜天文台發紅色暴雨警告信號、星期二天氣有雨及狂風雷暴",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260607/1140135814647255040564792.jpeg/T4PcADG2K41TuMhAMKxHepEDumpze1zvi9x7AovcewI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E4%B8%AD%E5%B0%8F%E5%AD%B8%E6%A0%A1%E5%9C%92/60356591/%E6%A0%A1%E5%9C%92%E5%A4%A9%E5%9C%B0-%E5%95%9F%E5%9F%BA%E5%AD%B8%E6%A0%A1%E5%B8%AB%E7%94%9F%E5%88%B0%E8%A8%AA%E6%9D%AD%E5%B7%9E-%E8%BF%91%E8%B7%9D%E9%9B%A2%E8%A7%B8%E6%91%B8%E7%9C%9F%E5%AF%A6%E7%81%AB%E7%AE%AD%E7%AE%AD%E9%AB%94",
     "timestamp": "2026-06-06T23:14:11.726Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "巴基斯坦內政部長赴德黑蘭　與伊朗官員會面斡旋美伊衝突",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260607/1140180504075571200684712.jpeg/87_3U76Maiu_xLgHyUPuDixNdTQpiXVzgfPqwoHz6sI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60357702/%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E5%85%A7%E6%94%BF%E9%83%A8%E9%95%B7%E8%B5%B4%E5%BE%B7%E9%BB%91%E8%98%AD-%E8%88%87%E4%BC%8A%E6%9C%97%E5%AE%98%E5%93%A1%E6%9C%83%E9%9D%A2%E6%96%A1%E6%97%8B%E7%BE%8E%E4%BC%8A%E8%A1%9D%E7%AA%81",
-    "timestamp": "2026-06-06T22:43:21.467Z",
     "strategy": ".content-card__main"
   }
 ];
