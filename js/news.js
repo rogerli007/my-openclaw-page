@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-07T02:30:33.319Z
+// Last updated: 2026-06-07T03:54:09.266Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "曾俊華出街感熱到溶：如果有日40度，超英哥係咪仲忍到唔開冷氣？",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20241031/928643574470676480152603.jpeg/LIS2mTaBfbFINFCcGEj6-eccvZAmUi4U0oHdtveB3bY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60357731/%E6%9B%BE%E4%BF%8A%E8%8F%AF%E5%87%BA%E8%A1%97%E6%84%9F%E7%86%B1%E5%88%B0%E6%BA%B6-%E5%A6%82%E6%9E%9C%E6%9C%89%E6%97%A540%E5%BA%A6-%E8%B6%85%E8%8B%B1%E5%93%A5%E4%BF%82%E5%92%AA%E4%BB%B2%E5%BF%8D%E5%88%B0%E5%94%94%E9%96%8B%E5%86%B7%E6%B0%A3",
+    "timestamp": "2026-06-07T03:54:09.266Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "方圓百米9間茶餐廳終「滴血」　西環蛇竇茶記6.15結業：環境困難",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260606/1140032775965904896723405.png/xwMDQBCql01h2piak63SXAczx4vel135lKT5T5Sk-U8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60357647/%E6%85%88%E9%9B%B2%E5%B1%B1%E6%83%A0%E8%8F%AF%E8%A1%97%E7%88%86%E9%B9%B9%E6%B0%B4%E7%AE%A1-%E8%A1%97%E9%81%93%E8%AE%8A%E6%BA%AA%E6%B5%81-%E5%A4%9A%E5%80%8B%E5%B1%8B%E9%82%A8%E6%B2%96%E5%BB%81%E6%B0%B4%E5%8F%97%E5%BD%B1%E9%9F%BF",
     "timestamp": "2026-06-06T13:16:50.141Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "再生家族｜名導是枝裕和訪港出席映後談　場次開賣幾分鐘售罄",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260606/1140010550856519680723109.jpeg/JsRXpMUnEiwvX5B6uXNW8gjOYrthQ5za2b_F3tm_xd4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60357633/%E5%86%8D%E7%94%9F%E5%AE%B6%E6%97%8F-%E5%90%8D%E5%B0%8E%E6%98%AF%E6%9E%9D%E8%A3%95%E5%92%8C%E8%A8%AA%E6%B8%AF%E5%87%BA%E5%B8%AD%E6%98%A0%E5%BE%8C%E8%AB%87-%E5%A0%B4%E6%AC%A1%E9%96%8B%E8%B3%A3%E5%B9%BE%E5%88%86%E9%90%98%E5%94%AE%E7%BD%84",
-    "timestamp": "2026-06-06T11:51:40.291Z",
     "strategy": ".content-card__main"
   }
 ];
