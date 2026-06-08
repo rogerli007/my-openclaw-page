@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-07T22:33:12.269Z
+// Last updated: 2026-06-08T00:00:07.024Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "以軍揚言加強打擊真主黨　中方促在伊朗公民加強安全防範",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260608/1140531936784027648105284.jpeg/0Cxeyu8FUcfSUqjOyNFo2GyOHOSx-EK7L-9Ooi_vTqI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60357881/%E4%BB%A5%E8%BB%8D%E6%8F%9A%E8%A8%80%E5%8A%A0%E5%BC%B7%E6%89%93%E6%93%8A%E7%9C%9F%E4%B8%BB%E9%BB%A8-%E4%B8%AD%E6%96%B9%E4%BF%83%E5%9C%A8%E4%BC%8A%E6%9C%97%E5%85%AC%E6%B0%91%E5%8A%A0%E5%BC%B7%E5%AE%89%E5%85%A8%E9%98%B2%E7%AF%84",
+    "timestamp": "2026-06-08T00:00:07.024Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "特朗普：伊朗攻擊以色列無助於談判　促內塔尼亞胡不要報復",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260607/1140154983543476224946720.jpeg/MRxnCGq--lyRTEEamM4_HOiuXpTIQmrZY9va7lnb2u4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60357699/%E9%84%AD%E4%BF%8A%E5%BC%98%E8%A2%AB%E4%BD%95%E9%9B%81%E8%A9%A9%E5%A4%A7%E7%88%86%E7%95%B6%E5%B9%B4%E4%B8%8D%E7%9F%A5%E8%87%AA%E5%B7%B1%E6%98%AF%E7%AC%AC%E4%B8%89%E8%80%85-%E5%90%A6%E8%AA%8D%E5%90%8C%E8%80%81%E5%A9%86%E6%9C%89%E7%88%AD%E5%9F%B7",
     "timestamp": "2026-06-07T05:43:22.937Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "曾俊華出街感熱到溶：如果有日40度，超英哥係咪仲忍到唔開冷氣？",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20241031/928643574470676480152603.jpeg/LIS2mTaBfbFINFCcGEj6-eccvZAmUi4U0oHdtveB3bY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60357731/%E6%9B%BE%E4%BF%8A%E8%8F%AF%E5%87%BA%E8%A1%97%E6%84%9F%E7%86%B1%E5%88%B0%E6%BA%B6-%E5%A6%82%E6%9E%9C%E6%9C%89%E6%97%A540%E5%BA%A6-%E8%B6%85%E8%8B%B1%E5%93%A5%E4%BF%82%E5%92%AA%E4%BB%B2%E5%BF%8D%E5%88%B0%E5%94%94%E9%96%8B%E5%86%B7%E6%B0%A3",
-    "timestamp": "2026-06-07T03:54:09.266Z",
     "strategy": ".content-card__main"
   }
 ];
