@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-08T05:13:01.180Z
+// Last updated: 2026-06-08T08:44:03.527Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "公務員加薪｜田北辰：跳point到頂點或Hea做　拉Curve肥上瘦下？",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20251020/1056949190573166592123076.jpeg/yyBUtRlTAPeosq_y_uoxXVRBeQehFCt4CxOodQsTqHU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60358102/%E5%85%AC%E5%8B%99%E5%93%A1%E5%8A%A0%E8%96%AA-%E7%94%B0%E5%8C%97%E8%BE%B0-%E8%B7%B3point%E5%88%B0%E9%A0%82%E9%BB%9E%E6%88%96hea%E5%81%9A-%E6%8B%89curve%E8%82%A5%E4%B8%8A%E7%98%A6%E4%B8%8B",
+    "timestamp": "2026-06-08T08:44:03.527Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "港鐵將軍澳綫車廂遺童鞋！網民惡搞：見到小童　附報失及認領程序",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20220501/597460437348388864469713.jpeg/wf5tyQxMDTTmz2SNippq20J7oHf0qQujk2OglJNjoJQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60357824/%E5%85%83%E6%9C%97%E6%9C%97%E5%B1%8F%E9%82%A8%E7%95%AB%E5%B1%8F%E6%A8%93%E7%94%B7%E5%AD%90%E5%A2%AE%E6%A8%93%E9%80%81%E9%99%A2%E4%BA%A1-%E8%AD%A6%E8%BF%BD%E6%9F%A5%E8%BA%AB%E4%BB%BD%E7%B1%B2%E5%B8%82%E6%B0%91%E6%8F%90%E4%BE%9B%E8%B3%87%E6%96%99",
     "timestamp": "2026-06-07T11:26:53.444Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "大S生前日本行照片曝光　小S憶同遊往事隔空喊話：好多事只有妳懂",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260607/1140264559819362304549307.png/guJ_vkOkd94vuh3LWttqKPHC_GsiZpnz2HoaOth6Gjo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60357736/%E5%A4%A7s%E7%94%9F%E5%89%8D%E6%97%A5%E6%9C%AC%E8%A1%8C%E7%85%A7%E7%89%87%E6%9B%9D%E5%85%89-%E5%B0%8Fs%E6%86%B6%E5%90%8C%E9%81%8A%E5%BE%80%E4%BA%8B%E9%9A%94%E7%A9%BA%E5%96%8A%E8%A9%B1-%E5%A5%BD%E5%A4%9A%E4%BA%8B%E5%8F%AA%E6%9C%89%E5%A6%B3%E6%87%82",
-    "timestamp": "2026-06-07T10:39:50.922Z",
     "strategy": ".content-card__main"
   }
 ];
