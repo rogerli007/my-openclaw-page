@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-08T08:44:03.527Z
+// Last updated: 2026-06-08T10:17:45.261Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "洪灝︰恒指不是港股　若要追蹤香港經濟　應追蹤MSCI香港指數",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260320/1111733118802333696695013.jpeg/du_dN71abITnwt9JoPbqs2PshGHG7A8wDEgjnwxII58?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60358183/%E6%B4%AA%E7%81%9D-%E6%81%92%E6%8C%87%E4%B8%8D%E6%98%AF%E6%B8%AF%E8%82%A1-%E8%8B%A5%E8%A6%81%E8%BF%BD%E8%B9%A4%E9%A6%99%E6%B8%AF%E7%B6%93%E6%BF%9F-%E6%87%89%E8%BF%BD%E8%B9%A4msci%E9%A6%99%E6%B8%AF%E6%8C%87%E6%95%B8",
+    "timestamp": "2026-06-08T10:17:45.261Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "公務員加薪｜田北辰：跳point到頂點或Hea做　拉Curve肥上瘦下？",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260605/1139549942277214208892163.jpeg/svin90tv86Nn-j26_GwD4wlWCvShd-5E12zXJdds1yU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60357830/%E6%BE%B3%E9%96%80%E8%B3%A3%E6%B7%AB%E9%9B%86%E5%9C%98-26%E7%96%91%E7%8A%AF%E6%B6%89%E5%A4%9A%E5%90%8D%E8%AD%A6%E5%93%A1-%E6%B2%BB%E5%AE%89%E8%AD%A6%E5%AF%9F%E5%B1%80%E5%89%AF%E5%B1%80%E9%95%B7%E5%8F%8A%E4%BB%A3%E8%99%95%E9%95%B7%E6%B6%89%E6%A1%88",
     "timestamp": "2026-06-07T12:09:56.692Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "元朗朗屏邨畫屏樓男子墮樓送院亡　警追查身份籲市民提供資料",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20220501/597460437348388864469713.jpeg/wf5tyQxMDTTmz2SNippq20J7oHf0qQujk2OglJNjoJQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60357824/%E5%85%83%E6%9C%97%E6%9C%97%E5%B1%8F%E9%82%A8%E7%95%AB%E5%B1%8F%E6%A8%93%E7%94%B7%E5%AD%90%E5%A2%AE%E6%A8%93%E9%80%81%E9%99%A2%E4%BA%A1-%E8%AD%A6%E8%BF%BD%E6%9F%A5%E8%BA%AB%E4%BB%BD%E7%B1%B2%E5%B8%82%E6%B0%91%E6%8F%90%E4%BE%9B%E8%B3%87%E6%96%99",
-    "timestamp": "2026-06-07T11:26:53.444Z",
     "strategy": ".content-card__main"
   }
 ];
