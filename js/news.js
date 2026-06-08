@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-08T02:10:36.080Z
+// Last updated: 2026-06-08T03:31:37.099Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "大角咀店舖遭淋屎漆油　老闆疑幫客解圍惹報復　天眼直擊男子犯案",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260608/1140599198433939456024987.jpeg/EKBUSgJPDey9D8hY-BVxO0T4j6zcr81fP8wL7j_MC-4",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60357914/%E5%A4%A7%E8%A7%92%E5%92%80%E5%BA%97%E8%88%96%E9%81%AD%E6%B7%8B%E5%B1%8E%E6%BC%86%E6%B2%B9-%E8%80%81%E9%97%86%E7%96%91%E5%B9%AB%E5%AE%A2%E8%A7%A3%E5%9C%8D%E6%83%B9%E5%A0%B1%E5%BE%A9-%E5%A4%A9%E7%9C%BC%E7%9B%B4%E6%93%8A%E7%94%B7%E5%AD%90%E7%8A%AF%E6%A1%88",
+    "timestamp": "2026-06-08T03:31:37.099Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "以色列空襲伊朗多個軍事據點　美媒：空襲前特朗普曾遊說推遲攻擊",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260607/1140325720963158016068195.jpeg/gQT5rV4tTvRinKkbyMadlTCzqERN6oC4KO1aUCjtWlA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%92%B0%E7%90%83%E8%B6%A3%E8%81%9E/60357775/%E7%BE%8E%E5%9C%8B%E7%94%B7%E7%82%BA%E7%97%85%E7%88%B6%E5%AF%84%E5%94%AE157%E8%90%AC%E5%85%83%E6%98%9F%E6%88%B0lego%E9%9B%A2%E5%A5%87%E6%B6%88%E5%A4%B1-%E7%B6%B2%E7%B4%85%E4%BB%A3%E8%BF%BD%E6%9F%A5%E5%8F%8D%E8%A2%AB%E6%8D%95",
     "timestamp": "2026-06-07T09:44:25.255Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普8日親臨紐約觀戰NBA　場館實施機場級安檢籲球迷提早入場",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260607/1140229750145421312256930.jpeg/PkLYzAzgMwA74-J2DQZJH4dO64jy7_yqchciXHIXIlw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60357784/%E7%89%B9%E6%9C%97%E6%99%AE8%E6%97%A5%E8%A6%AA%E8%87%A8%E7%B4%90%E7%B4%84%E8%A7%80%E6%88%B0nba-%E5%A0%B4%E9%A4%A8%E5%AF%A6%E6%96%BD%E6%A9%9F%E5%A0%B4%E7%B4%9A%E5%AE%89%E6%AA%A2%E7%B1%B2%E7%90%83%E8%BF%B7%E6%8F%90%E6%97%A9%E5%85%A5%E5%A0%B4",
-    "timestamp": "2026-06-07T08:29:58.967Z",
     "strategy": ".content-card__main"
   }
 ];
