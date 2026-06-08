@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-08T01:24:25.343Z
+// Last updated: 2026-06-08T02:10:36.080Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "以色列空襲伊朗多個軍事據點　美媒：空襲前特朗普曾遊說推遲攻擊",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260323/1112764757531693056283019.jpeg/RoyyFSt2gAwzape93fKJq4NYFZzvP1RD15PrBteT6wY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60357909/%E4%BB%A5%E8%89%B2%E5%88%97%E7%A9%BA%E8%A5%B2%E4%BC%8A%E6%9C%97%E5%A4%9A%E5%80%8B%E8%BB%8D%E4%BA%8B%E6%93%9A%E9%BB%9E-%E7%BE%8E%E5%AA%92-%E7%A9%BA%E8%A5%B2%E5%89%8D%E7%89%B9%E6%9C%97%E6%99%AE%E6%9B%BE%E9%81%8A%E8%AA%AA%E6%8E%A8%E9%81%B2%E6%94%BB%E6%93%8A",
+    "timestamp": "2026-06-08T02:10:36.080Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "國泰CEO林紹波預料公司不會再削運力　機場三跑帶來擴展機遇",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260607/1140229750145421312256930.jpeg/PkLYzAzgMwA74-J2DQZJH4dO64jy7_yqchciXHIXIlw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60357784/%E7%89%B9%E6%9C%97%E6%99%AE8%E6%97%A5%E8%A6%AA%E8%87%A8%E7%B4%90%E7%B4%84%E8%A7%80%E6%88%B0nba-%E5%A0%B4%E9%A4%A8%E5%AF%A6%E6%96%BD%E6%A9%9F%E5%A0%B4%E7%B4%9A%E5%AE%89%E6%AA%A2%E7%B1%B2%E7%90%83%E8%BF%B7%E6%8F%90%E6%97%A9%E5%85%A5%E5%A0%B4",
     "timestamp": "2026-06-07T08:29:58.967Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "日本自駕遊｜按喇叭逾3秒竟視同開戰　內行人揭時間長/短意思不同",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260605/1139608081626304512368752.jpeg/occ0gErmoLI4RwlUbAkx4KYpq_IP5RyrORbxATkW8QE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%97%85%E9%81%8A/60348741/%E6%97%A5%E6%9C%AC%E8%87%AA%E9%A7%95%E9%81%8A-%E6%8C%89%E5%96%87%E5%8F%AD%E9%80%BE3%E7%A7%92%E7%AB%9F%E8%A6%96%E5%90%8C%E9%96%8B%E6%88%B0-%E5%85%A7%E8%A1%8C%E4%BA%BA%E6%8F%AD%E6%99%82%E9%96%93%E9%95%B7-%E7%9F%AD%E6%84%8F%E6%80%9D%E4%B8%8D%E5%90%8C",
-    "timestamp": "2026-06-07T07:14:08.633Z",
     "strategy": ".content-card__main"
   }
 ];
