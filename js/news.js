@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-08T12:04:05.488Z
+// Last updated: 2026-06-08T13:50:28.697Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "留學生走入廣州南沙欖核鎮　摘荔枝、玩魯班鎖品嶺南味",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260608/1140763524943843328589026.png/yrOdk1kL3i7zHPXDmoFCAVuBuobnAQPoFX29lxV9vZc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8C%97%E4%B8%8A%E5%BB%A3%E6%9D%B1/60357820/%E7%95%99%E5%AD%B8%E7%94%9F%E8%B5%B0%E5%85%A5%E5%BB%A3%E5%B7%9E%E5%8D%97%E6%B2%99%E6%AC%96%E6%A0%B8%E9%8E%AE-%E6%91%98%E8%8D%94%E6%9E%9D-%E7%8E%A9%E9%AD%AF%E7%8F%AD%E9%8E%96%E5%93%81%E5%B6%BA%E5%8D%97%E5%91%B3",
+    "timestamp": "2026-06-08T13:50:28.697Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "林毅夫：中國須自己發明　基礎科研經費佔比應翻倍至最少15%",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260607/1140402454622375936629138.jpeg/yT7zxLEFm0rSXSC5ko6IwRNbQUMr1Oc_u2tmGYFrZhk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60357841/%E8%83%A1%E6%A5%93%E7%8D%B2%E9%A0%92%E5%81%A5%E5%8A%9B%E5%A3%AB%E4%B8%96%E7%95%8C%E7%B4%80%E9%8C%84%E4%BF%9D%E6%8C%81%E8%80%85-%E9%A0%98%E7%8D%8E%E7%AB%99%E4%B8%8D%E7%A9%A9%E5%B9%B8%E5%BE%97%E5%8A%89%E5%BE%B7%E8%8F%AF%E4%BB%A5%E8%86%8A%E7%9B%B8%E6%89%B6",
     "timestamp": "2026-06-07T13:43:06.013Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "珍惜生命｜機場離境樓層男子危坐高處　消防開氣墊　談判專家游說",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260607/1140382054983143424162930.jpeg/DLSc5SOWfsgfNMnvP0pzDKR_aCY8th5mSvaCNWz2gjU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60357831/%E7%8F%8D%E6%83%9C%E7%94%9F%E5%91%BD-%E6%A9%9F%E5%A0%B4%E9%9B%A2%E5%A2%83%E6%A8%93%E5%B1%A4%E7%94%B7%E5%AD%90%E5%8D%B1%E5%9D%90%E9%AB%98%E8%99%95-%E6%B6%88%E9%98%B2%E9%96%8B%E6%B0%A3%E5%A2%8A-%E8%AB%87%E5%88%A4%E5%B0%88%E5%AE%B6%E6%B8%B8%E8%AA%AA",
-    "timestamp": "2026-06-07T12:53:51.215Z",
     "strategy": ".content-card__main"
   }
 ];
