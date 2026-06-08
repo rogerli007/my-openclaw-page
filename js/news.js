@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-08T20:38:17.774Z
+// Last updated: 2026-06-08T21:28:20.922Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美軍向阿曼灣空載油輪開火　指試圖違反封鎖令駛往伊朗",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260303/1105385756538834944284360.jpeg/MaVGQmNAF2dk5UBjkYIQLU3FDUIr7XrVabh6Amm4egI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60358260/%E7%BE%8E%E8%BB%8D%E5%90%91%E9%98%BF%E6%9B%BC%E7%81%A3%E7%A9%BA%E8%BC%89%E6%B2%B9%E8%BC%AA%E9%96%8B%E7%81%AB-%E6%8C%87%E8%A9%A6%E5%9C%96%E9%81%95%E5%8F%8D%E5%B0%81%E9%8E%96%E4%BB%A4%E9%A7%9B%E5%BE%80%E4%BC%8A%E6%9C%97",
+    "timestamp": "2026-06-08T21:28:20.922Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "WWDC26蘋果發佈會懶人包｜iOS27 Siri AI進化．香港繁中幾時用到?",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20240528/872178259163353088507892.jpeg/8f2s_rTICBvty_pSwAidHjMrp-yvzGEAzZia4M2YmuA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%A6%AA%E5%AD%90/1023608/%E6%9A%B4%E9%9B%A8%E5%81%9C%E8%AA%B2-%E4%B8%80%E6%96%87%E7%9C%8B%E6%B8%85%E9%BB%83%E9%9B%A8-%E7%B4%85%E9%9B%A8-%E9%BB%91%E9%9B%A8%E4%B8%8B-%E6%95%99%E8%82%B2%E5%B1%80%E4%B8%AD%E5%B0%8F%E5%B9%BC%E5%81%9C%E8%AA%B2%E6%8C%87%E5%BC%95",
     "timestamp": "2026-06-07T18:18:59.128Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "最新｜天文台發紅色暴雨警告信號、星期二天氣有雨及狂風雷暴",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250709/1019579284290801664416283.png/uSGkp34MjfdBLaEkOnc2mGoJKbS1xP5Xp9dI76fXSO8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60357842/%E5%A4%A9%E6%96%87%E5%8F%B0-%E9%A0%90%E6%B8%AC%E4%BB%8A%E6%98%8E%E6%97%A5%E7%9A%84%E5%A4%A9%E6%B0%A3%E9%A0%90%E5%A0%B1-%E5%91%A8%E4%B8%80-%E4%BA%8C%E6%9C%89%E9%9B%A8%E5%8F%8A%E7%8B%82%E9%A2%A8%E9%9B%B7%E6%9A%B4",
-    "timestamp": "2026-06-07T17:53:07.220Z",
     "strategy": ".content-card__main"
   }
 ];
