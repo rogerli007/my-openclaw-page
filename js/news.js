@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-08T17:47:47.027Z
+// Last updated: 2026-06-08T19:39:16.758Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "NBA總決賽｜特朗普紐約觀戰　球場周邊提前封路　球迷禁攜袋入場",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260609/1140857295966572544867392.jpeg/AwsIVwdzAqKuPmaSVN5r-Hkd08sRZzBIXFZ57lxWee4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60358258/nba%E7%B8%BD%E6%B1%BA%E8%B3%BD-%E7%89%B9%E6%9C%97%E6%99%AE%E7%B4%90%E7%B4%84%E8%A7%80%E6%88%B0-%E7%90%83%E5%A0%B4%E5%91%A8%E9%82%8A%E6%8F%90%E5%89%8D%E5%B0%81%E8%B7%AF-%E7%90%83%E8%BF%B7%E7%A6%81%E6%94%9C%E8%A2%8B%E5%85%A5%E5%A0%B4",
+    "timestamp": "2026-06-08T19:39:16.758Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "青衣載鋰電池貨櫃車冒煙　消防灌救突爆炸噴火球　幸無人傷│有片",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260607/1140435131312377856957482.jpeg/GDQJO_uoSDOAF9z2X0Z6syzZMP6UQQwrVyMXWlcjF1o?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60357857/%E6%9D%B1%E5%BC%B5%E8%A5%BF%E6%9C%9B-%E8%8B%A6%E4%B8%BB%E8%A3%9D%E4%BF%AE%E6%84%9B%E5%B7%A2%E9%81%87%E8%A3%9D%E4%BF%AE%E5%85%AC%E5%8F%B8%E7%88%9B%E5%B0%BE%E4%B8%A6%E7%8B%82%E7%88%86%E7%B2%97-%E4%BB%B2%E6%83%A1%E9%81%8E%E9%BB%91%E7%A4%BE%E6%9C%83",
     "timestamp": "2026-06-07T17:16:06.940Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "東張西望｜苦主裝修愛巢遇裝修公司爛尾並狂爆粗：仲惡過黑社會",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260607/1140435131312377856957482.jpeg/GDQJO_uoSDOAF9z2X0Z6syzZMP6UQQwrVyMXWlcjF1o?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60357857/%E6%9D%B1%E5%BC%B5%E8%A5%BF%E6%9C%9B-%E8%8B%A6%E4%B8%BB%E8%A3%9D%E4%BF%AE%E6%84%9B%E5%B7%A2%E9%81%87%E8%A3%9D%E4%BF%AE%E5%85%AC%E5%8F%B8%E7%88%9B%E5%B0%BE%E4%B8%A6%E7%8B%82%E7%88%86%E7%B2%97-%E4%BB%B2%E6%83%A1%E9%81%8E%E9%BB%91%E7%A4%BE%E6%9C%83",
-    "timestamp": "2026-06-07T16:41:28.084Z",
     "strategy": ".content-card__main"
   }
 ];
