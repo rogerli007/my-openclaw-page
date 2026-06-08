@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-08T03:31:37.099Z
+// Last updated: 2026-06-08T05:13:01.180Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "港鐵將軍澳綫車廂遺童鞋！網民惡搞：見到小童　附報失及認領程序",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260604/1139033388615733248486319.png/kuNC6UKXYqRAtBc0OmR0R-65aSrjWfq5ViSE6FYkhOg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60356571/%E6%B8%AF%E9%90%B5%E5%B0%87%E8%BB%8D%E6%BE%B3%E7%B6%AB%E8%BB%8A%E5%BB%82%E9%81%BA%E7%AB%A5%E9%9E%8B-%E7%B6%B2%E6%B0%91%E6%83%A1%E6%90%9E-%E8%A6%8B%E5%88%B0%E5%B0%8F%E7%AB%A5-%E9%99%84%E5%A0%B1%E5%A4%B1%E5%8F%8A%E8%AA%8D%E9%A0%98%E7%A8%8B%E5%BA%8F",
+    "timestamp": "2026-06-08T05:13:01.180Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "大角咀店舖遭淋屎漆油　老闆疑幫客解圍惹報復　天眼直擊男子犯案",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260607/1140264559819362304549307.png/guJ_vkOkd94vuh3LWttqKPHC_GsiZpnz2HoaOth6Gjo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60357736/%E5%A4%A7s%E7%94%9F%E5%89%8D%E6%97%A5%E6%9C%AC%E8%A1%8C%E7%85%A7%E7%89%87%E6%9B%9D%E5%85%89-%E5%B0%8Fs%E6%86%B6%E5%90%8C%E9%81%8A%E5%BE%80%E4%BA%8B%E9%9A%94%E7%A9%BA%E5%96%8A%E8%A9%B1-%E5%A5%BD%E5%A4%9A%E4%BA%8B%E5%8F%AA%E6%9C%89%E5%A6%B3%E6%87%82",
     "timestamp": "2026-06-07T10:39:50.922Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美國男為病父寄售157萬元星戰LEGO離奇消失　網紅代追查反被捕",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260607/1140325720963158016068195.jpeg/gQT5rV4tTvRinKkbyMadlTCzqERN6oC4KO1aUCjtWlA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%92%B0%E7%90%83%E8%B6%A3%E8%81%9E/60357775/%E7%BE%8E%E5%9C%8B%E7%94%B7%E7%82%BA%E7%97%85%E7%88%B6%E5%AF%84%E5%94%AE157%E8%90%AC%E5%85%83%E6%98%9F%E6%88%B0lego%E9%9B%A2%E5%A5%87%E6%B6%88%E5%A4%B1-%E7%B6%B2%E7%B4%85%E4%BB%A3%E8%BF%BD%E6%9F%A5%E5%8F%8D%E8%A2%AB%E6%8D%95",
-    "timestamp": "2026-06-07T09:44:25.255Z",
     "strategy": ".content-card__main"
   }
 ];
