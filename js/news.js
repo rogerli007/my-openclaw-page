@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-08T13:50:28.697Z
+// Last updated: 2026-06-08T16:43:46.041Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "夏蕙姨稱契仔契女孝順封口拒再評李家鼎家事：我自身都難保",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260608/1140765548779409408685290.jpeg/HqGYMPjq_1KHETFNyuFJvkmjIx1gxvg_B27aLwdu2i8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60358223/%E5%A4%8F%E8%95%99%E5%A7%A8%E7%A8%B1%E5%A5%91%E4%BB%94%E5%A5%91%E5%A5%B3%E5%AD%9D%E9%A0%86%E5%B0%81%E5%8F%A3%E6%8B%92%E5%86%8D%E8%A9%95%E6%9D%8E%E5%AE%B6%E9%BC%8E%E5%AE%B6%E4%BA%8B-%E6%88%91%E8%87%AA%E8%BA%AB%E9%83%BD%E9%9B%A3%E4%BF%9D",
+    "timestamp": "2026-06-08T16:43:46.041Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "留學生走入廣州南沙欖核鎮　摘荔枝、玩魯班鎖品嶺南味",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260605/1139622930695589888648309.png/dDsTsCJQ8rL1elkFreqVUwlJ620QyR-w9hms3fYZrN0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60356945/%E5%8F%94%E5%8F%94%E5%85%A9%E5%BA%A6%E8%BF%B7%E5%A7%A613%E6%AD%B2%E5%A7%AA%E5%A5%B3%E5%85%BC%E6%8B%8D%E7%89%87-%E5%A6%B9%E5%A6%B9%E9%A9%9A%E9%86%92%E6%8F%AD%E7%99%BC-%E7%94%B3%E6%B8%9B%E5%88%91%E5%A4%B1%E6%95%97%E9%87%8D%E5%9B%9A18%E5%B9%B4",
     "timestamp": "2026-06-07T15:11:46.738Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "胡楓獲頒健力士世界紀錄保持者　領獎站不穩幸得劉德華以膊相扶",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260607/1140402454622375936629138.jpeg/yT7zxLEFm0rSXSC5ko6IwRNbQUMr1Oc_u2tmGYFrZhk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60357841/%E8%83%A1%E6%A5%93%E7%8D%B2%E9%A0%92%E5%81%A5%E5%8A%9B%E5%A3%AB%E4%B8%96%E7%95%8C%E7%B4%80%E9%8C%84%E4%BF%9D%E6%8C%81%E8%80%85-%E9%A0%98%E7%8D%8E%E7%AB%99%E4%B8%8D%E7%A9%A9%E5%B9%B8%E5%BE%97%E5%8A%89%E5%BE%B7%E8%8F%AF%E4%BB%A5%E8%86%8A%E7%9B%B8%E6%89%B6",
-    "timestamp": "2026-06-07T13:43:06.013Z",
     "strategy": ".content-card__main"
   }
 ];
