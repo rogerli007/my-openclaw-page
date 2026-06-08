@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-08T16:43:46.041Z
+// Last updated: 2026-06-08T17:47:47.027Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "青衣載鋰電池貨櫃車冒煙　消防灌救突爆炸噴火球　幸無人傷│有片",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260609/1140821027723415552204398.jpeg/bKu2j88C8FWB1IMn8dXhzyb3pQo_qnyRgDZ8QoA2fEI",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60358250/%E9%9D%92%E8%A1%A3%E8%BC%89%E9%8B%B0%E9%9B%BB%E6%B1%A0%E8%B2%A8%E6%AB%83%E8%BB%8A%E5%86%92%E7%85%99-%E6%B6%88%E9%98%B2%E7%81%8C%E6%95%91%E7%AA%81%E7%88%86%E7%82%B8%E5%99%B4%E7%81%AB%E7%90%83-%E5%B9%B8%E7%84%A1%E4%BA%BA%E5%82%B7-%E6%9C%89%E7%89%87",
+    "timestamp": "2026-06-08T17:47:47.027Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "夏蕙姨稱契仔契女孝順封口拒再評李家鼎家事：我自身都難保",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260607/1140435131312377856957482.jpeg/GDQJO_uoSDOAF9z2X0Z6syzZMP6UQQwrVyMXWlcjF1o?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60357857/%E6%9D%B1%E5%BC%B5%E8%A5%BF%E6%9C%9B-%E8%8B%A6%E4%B8%BB%E8%A3%9D%E4%BF%AE%E6%84%9B%E5%B7%A2%E9%81%87%E8%A3%9D%E4%BF%AE%E5%85%AC%E5%8F%B8%E7%88%9B%E5%B0%BE%E4%B8%A6%E7%8B%82%E7%88%86%E7%B2%97-%E4%BB%B2%E6%83%A1%E9%81%8E%E9%BB%91%E7%A4%BE%E6%9C%83",
     "timestamp": "2026-06-07T16:41:28.084Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "叔叔兩度迷姦13歲姪女兼拍片　妹妹驚醒揭發　申減刑失敗重囚18年",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260605/1139622930695589888648309.png/dDsTsCJQ8rL1elkFreqVUwlJ620QyR-w9hms3fYZrN0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60356945/%E5%8F%94%E5%8F%94%E5%85%A9%E5%BA%A6%E8%BF%B7%E5%A7%A613%E6%AD%B2%E5%A7%AA%E5%A5%B3%E5%85%BC%E6%8B%8D%E7%89%87-%E5%A6%B9%E5%A6%B9%E9%A9%9A%E9%86%92%E6%8F%AD%E7%99%BC-%E7%94%B3%E6%B8%9B%E5%88%91%E5%A4%B1%E6%95%97%E9%87%8D%E5%9B%9A18%E5%B9%B4",
-    "timestamp": "2026-06-07T15:11:46.738Z",
     "strategy": ".content-card__main"
   }
 ];
