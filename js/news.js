@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-08T19:39:16.758Z
+// Last updated: 2026-06-08T20:38:17.774Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "WWDC26蘋果發佈會懶人包｜iOS27 Siri AI進化．香港繁中幾時用到?",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260609/1140872356135178240679281.jpeg/GKTy9WmwdDP9TQwomk6ZaPZNx-3TaARnOTtlvzk7Zb8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60358067/wwdc26%E8%98%8B%E6%9E%9C%E7%99%BC%E4%BD%88%E6%9C%83%E6%87%B6%E4%BA%BA%E5%8C%85-ios27-siri-ai%E9%80%B2%E5%8C%96-%E9%A6%99%E6%B8%AF%E7%B9%81%E4%B8%AD%E5%B9%BE%E6%99%82%E7%94%A8%E5%88%B0",
+    "timestamp": "2026-06-08T20:38:17.774Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "NBA總決賽｜特朗普紐約觀戰　球場周邊提前封路　球迷禁攜袋入場",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250709/1019579284290801664416283.png/uSGkp34MjfdBLaEkOnc2mGoJKbS1xP5Xp9dI76fXSO8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60357842/%E5%A4%A9%E6%96%87%E5%8F%B0-%E9%A0%90%E6%B8%AC%E4%BB%8A%E6%98%8E%E6%97%A5%E7%9A%84%E5%A4%A9%E6%B0%A3%E9%A0%90%E5%A0%B1-%E5%91%A8%E4%B8%80-%E4%BA%8C%E6%9C%89%E9%9B%A8%E5%8F%8A%E7%8B%82%E9%A2%A8%E9%9B%B7%E6%9A%B4",
     "timestamp": "2026-06-07T17:53:07.220Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "東張西望｜苦主裝修愛巢遇裝修公司爛尾並狂爆粗：仲惡過黑社會",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260607/1140435131312377856957482.jpeg/GDQJO_uoSDOAF9z2X0Z6syzZMP6UQQwrVyMXWlcjF1o?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60357857/%E6%9D%B1%E5%BC%B5%E8%A5%BF%E6%9C%9B-%E8%8B%A6%E4%B8%BB%E8%A3%9D%E4%BF%AE%E6%84%9B%E5%B7%A2%E9%81%87%E8%A3%9D%E4%BF%AE%E5%85%AC%E5%8F%B8%E7%88%9B%E5%B0%BE%E4%B8%A6%E7%8B%82%E7%88%86%E7%B2%97-%E4%BB%B2%E6%83%A1%E9%81%8E%E9%BB%91%E7%A4%BE%E6%9C%83",
-    "timestamp": "2026-06-07T17:16:06.940Z",
     "strategy": ".content-card__main"
   }
 ];
