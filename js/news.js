@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-08T22:14:17.274Z
+// Last updated: 2026-06-08T22:53:43.755Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美更新支持中國軍方企業名單　阿里巴巴、百度及比亞迪等被列入",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20231209/810236982562131968410872.jpeg/lnwHFl5luEu-Qvg5eOtBraPjgkz2UypjHcvs3h3L7N4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60358261/%E7%BE%8E%E6%9B%B4%E6%96%B0%E6%94%AF%E6%8C%81%E4%B8%AD%E5%9C%8B%E8%BB%8D%E6%96%B9%E4%BC%81%E6%A5%AD%E5%90%8D%E5%96%AE-%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4-%E7%99%BE%E5%BA%A6%E5%8F%8A%E6%AF%94%E4%BA%9E%E8%BF%AA%E7%AD%89%E8%A2%AB%E5%88%97%E5%85%A5",
+    "timestamp": "2026-06-08T22:53:43.755Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "WWDC26蘋果發佈會懶人包｜iOS27 Siri AI進化．香港繁中幾時用到?",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260607/1140405117560819712409516.jpeg/YA4o5G08AlZ74jtg5EjqdMI7YaYkTy7SJOaDKyTmgys?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60357691/%E6%9C%80%E6%96%B0%E5%A4%A9%E6%B0%A3-%E5%A4%A9%E6%96%87%E5%8F%B0%E6%94%B9%E7%99%BC%E9%BB%83%E9%9B%A8%E8%AD%A6%E5%91%8A-%E9%9B%B7%E9%9B%A8%E5%8D%80%E4%BB%8D%E5%8F%AF%E8%83%BD%E6%9C%AA%E4%BE%86%E6%95%B8%E5%B0%8F%E6%99%82%E5%BD%B1%E9%9F%BF%E6%9C%AC%E6%B8%AF",
     "timestamp": "2026-06-07T20:15:32.769Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "法網︱薩維列夫封王　德國30年來首位大滿貫男單冠軍",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260608/1140487992171827200931452.jpeg/wqm4oEpB7x073I0tubRx6f8ex12moD6-hRA0J4UQNCc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60357873/%E6%B3%95%E7%B6%B2-%E8%96%A9%E7%B6%AD%E5%88%97%E5%A4%AB%E5%B0%81%E7%8E%8B-%E5%BE%B7%E5%9C%8B30%E5%B9%B4%E4%BE%86%E9%A6%96%E4%BD%8D%E5%A4%A7%E6%BB%BF%E8%B2%AB%E7%94%B7%E5%96%AE%E5%86%A0%E8%BB%8D",
-    "timestamp": "2026-06-07T19:40:04.798Z",
     "strategy": ".content-card__main"
   }
 ];
