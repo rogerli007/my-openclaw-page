@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-09T02:28:08.029Z
+// Last updated: 2026-06-09T03:54:03.373Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "日媒：特朗普政府促中國恢復對日本的稀土供應",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250718/1022918043577094144936427.jpeg/UBF4hGWHXZILCZ3v1Sc8jA4DD300R2RpBuG-ewbhvns?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60358367/%E6%97%A5%E5%AA%92-%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%E4%BF%83%E4%B8%AD%E5%9C%8B%E6%81%A2%E5%BE%A9%E5%B0%8D%E6%97%A5%E6%9C%AC%E7%9A%84%E7%A8%80%E5%9C%9F%E4%BE%9B%E6%87%89",
+    "timestamp": "2026-06-09T03:54:03.373Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "男子偽裝飯店員工當眾將醉酒女子從丈夫身邊帶走性侵　判監3年半",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260608/1140531936784027648105284.jpeg/0Cxeyu8FUcfSUqjOyNFo2GyOHOSx-EK7L-9Ooi_vTqI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60357881/%E4%BB%A5%E8%BB%8D%E6%8F%9A%E8%A8%80%E5%8A%A0%E5%BC%B7%E6%89%93%E6%93%8A%E7%9C%9F%E4%B8%BB%E9%BB%A8-%E4%B8%AD%E6%96%B9%E4%BF%83%E5%9C%A8%E4%BC%8A%E6%9C%97%E5%85%AC%E6%B0%91%E5%8A%A0%E5%BC%B7%E5%AE%89%E5%85%A8%E9%98%B2%E7%AF%84",
     "timestamp": "2026-06-08T00:00:07.024Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普：伊朗攻擊以色列無助於談判　促內塔尼亞胡不要報復",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260522/1134298550256013312957018.jpeg/RgVUN9yesMtzkDtaLtMkXgfD5GGnfwMy830B4_N9AeM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60357879/%E7%89%B9%E6%9C%97%E6%99%AE-%E4%BC%8A%E6%9C%97%E6%94%BB%E6%93%8A%E4%BB%A5%E8%89%B2%E5%88%97%E7%84%A1%E5%8A%A9%E6%96%BC%E8%AB%87%E5%88%A4-%E4%BF%83%E5%85%A7%E5%A1%94%E5%B0%BC%E4%BA%9E%E8%83%A1%E4%B8%8D%E8%A6%81%E5%A0%B1%E5%BE%A9",
-    "timestamp": "2026-06-07T22:33:12.269Z",
     "strategy": ".content-card__main"
   }
 ];
