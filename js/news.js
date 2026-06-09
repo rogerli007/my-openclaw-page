@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-08T22:53:43.755Z
+// Last updated: 2026-06-09T00:14:25.875Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "世界盃2026｜美國賽事籌備陷雙重危機　恐損經濟與國際形象",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260602/1138518257767026688541378.jpeg/GqY7qx0-IusoSbHaE3FWXZt_wEJepC3EDX_pWw1_6Vs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60356063/%E4%B8%96%E7%95%8C%E7%9B%832026-%E7%BE%8E%E5%9C%8B%E8%B3%BD%E4%BA%8B%E7%B1%8C%E5%82%99%E9%99%B7%E9%9B%99%E9%87%8D%E5%8D%B1%E6%A9%9F-%E6%81%90%E6%90%8D%E7%B6%93%E6%BF%9F%E8%88%87%E5%9C%8B%E9%9A%9B%E5%BD%A2%E8%B1%A1",
+    "timestamp": "2026-06-09T00:14:25.875Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美更新支持中國軍方企業名單　阿里巴巴、百度及比亞迪等被列入",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260608/1140517083793068032856423.jpeg/GHmC6miIy8I8tzhgfz5e1FWC1_w1xOPvYX0JDmF9CQ4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60357878/%E4%BB%A5%E8%89%B2%E5%88%97%E5%8C%97%E9%83%A8%E9%81%AD%E5%B0%8E%E5%BD%88%E6%94%BB%E6%93%8A-%E4%BC%8A%E6%9C%97%E7%A8%B1%E8%AD%A6%E5%91%8A%E6%80%A7%E6%89%93%E6%93%8A%E4%BB%A5%E7%A9%BA%E8%BB%8D%E5%9F%BA%E5%9C%B0",
     "timestamp": "2026-06-07T21:19:20.488Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "最新天氣｜天文台改發黃雨警告　雷雨區仍可能未來數小時影響本港",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260607/1140405117560819712409516.jpeg/YA4o5G08AlZ74jtg5EjqdMI7YaYkTy7SJOaDKyTmgys?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60357691/%E6%9C%80%E6%96%B0%E5%A4%A9%E6%B0%A3-%E5%A4%A9%E6%96%87%E5%8F%B0%E6%94%B9%E7%99%BC%E9%BB%83%E9%9B%A8%E8%AD%A6%E5%91%8A-%E9%9B%B7%E9%9B%A8%E5%8D%80%E4%BB%8D%E5%8F%AF%E8%83%BD%E6%9C%AA%E4%BE%86%E6%95%B8%E5%B0%8F%E6%99%82%E5%BD%B1%E9%9F%BF%E6%9C%AC%E6%B8%AF",
-    "timestamp": "2026-06-07T20:15:32.769Z",
     "strategy": ".content-card__main"
   }
 ];
