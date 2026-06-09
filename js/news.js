@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-09T19:25:20.502Z
+// Last updated: 2026-06-09T20:22:49.543Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "日本宇都宮市100KG熊翻過圍欄闖入民居　警方用麻醉槍制伏｜有片",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260610/1141224819946164224620795.png/vpkSKPl1TLiYI6SGmaCzbL8LavSjoFkAam-fmGpvn5g?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60358647/%E6%97%A5%E6%9C%AC%E5%AE%87%E9%83%BD%E5%AE%AE%E5%B8%82100kg%E7%86%8A%E7%BF%BB%E9%81%8E%E5%9C%8D%E6%AC%84%E9%97%96%E5%85%A5%E6%B0%91%E5%B1%85-%E8%AD%A6%E6%96%B9%E7%94%A8%E9%BA%BB%E9%86%89%E6%A7%8D%E5%88%B6%E4%BC%8F-%E6%9C%89%E7%89%87",
+    "timestamp": "2026-06-09T20:22:49.543Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "北愛爾蘭男子遭蘇丹難民持刀襲擊　被按在地上狂捅傷勢嚴重｜有片",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260608/1140765548779409408685290.jpeg/HqGYMPjq_1KHETFNyuFJvkmjIx1gxvg_B27aLwdu2i8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60358223/%E5%A4%8F%E8%95%99%E5%A7%A8%E7%A8%B1%E5%A5%91%E4%BB%94%E5%A5%91%E5%A5%B3%E5%AD%9D%E9%A0%86%E5%B0%81%E5%8F%A3%E6%8B%92%E5%86%8D%E8%A9%95%E6%9D%8E%E5%AE%B6%E9%BC%8E%E5%AE%B6%E4%BA%8B-%E6%88%91%E8%87%AA%E8%BA%AB%E9%83%BD%E9%9B%A3%E4%BF%9D",
     "timestamp": "2026-06-08T16:43:46.041Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "留學生走入廣州南沙欖核鎮　摘荔枝、玩魯班鎖品嶺南味",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260608/1140763524943843328589026.png/yrOdk1kL3i7zHPXDmoFCAVuBuobnAQPoFX29lxV9vZc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8C%97%E4%B8%8A%E5%BB%A3%E6%9D%B1/60357820/%E7%95%99%E5%AD%B8%E7%94%9F%E8%B5%B0%E5%85%A5%E5%BB%A3%E5%B7%9E%E5%8D%97%E6%B2%99%E6%AC%96%E6%A0%B8%E9%8E%AE-%E6%91%98%E8%8D%94%E6%9E%9D-%E7%8E%A9%E9%AD%AF%E7%8F%AD%E9%8E%96%E5%93%81%E5%B6%BA%E5%8D%97%E5%91%B3",
-    "timestamp": "2026-06-08T13:50:28.697Z",
     "strategy": ".content-card__main"
   }
 ];
