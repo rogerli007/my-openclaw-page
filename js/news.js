@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-09T18:32:25.397Z
+// Last updated: 2026-06-09T19:25:20.502Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "北愛爾蘭男子遭蘇丹難民持刀襲擊　被按在地上狂捅傷勢嚴重｜有片",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260610/1141211502523453440241508.png/BiPXwxuaAJCnLPbdOUQBjKvhyotTG0rptqKEILaihCA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60358645/%E5%8C%97%E6%84%9B%E7%88%BE%E8%98%AD%E7%94%B7%E5%AD%90%E9%81%AD%E8%98%87%E4%B8%B9%E9%9B%A3%E6%B0%91%E6%8C%81%E5%88%80%E8%A5%B2%E6%93%8A-%E8%A2%AB%E6%8C%89%E5%9C%A8%E5%9C%B0%E4%B8%8A%E7%8B%82%E6%8D%85%E5%82%B7%E5%8B%A2%E5%9A%B4%E9%87%8D-%E6%9C%89%E7%89%87",
+    "timestamp": "2026-06-09T19:25:20.502Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "港足55年來首負柬埔寨　盧比度險與球迷掀罵戰　強調球隊需要時間",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260608/1140763524943843328589026.png/yrOdk1kL3i7zHPXDmoFCAVuBuobnAQPoFX29lxV9vZc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8C%97%E4%B8%8A%E5%BB%A3%E6%9D%B1/60357820/%E7%95%99%E5%AD%B8%E7%94%9F%E8%B5%B0%E5%85%A5%E5%BB%A3%E5%B7%9E%E5%8D%97%E6%B2%99%E6%AC%96%E6%A0%B8%E9%8E%AE-%E6%91%98%E8%8D%94%E6%9E%9D-%E7%8E%A9%E9%AD%AF%E7%8F%AD%E9%8E%96%E5%93%81%E5%B6%BA%E5%8D%97%E5%91%B3",
     "timestamp": "2026-06-08T13:50:28.697Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "林毅夫：中國須自己發明　基礎科研經費佔比應翻倍至最少15%",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20211115/536922317549211648106879.jpeg/OeyeqqyLhZqRetmOX1jwqR_0UiwB2A71mf6UZpn-lGY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60358184/%E6%9E%97%E6%AF%85%E5%A4%AB-%E4%B8%AD%E5%9C%8B%E9%A0%88%E8%87%AA%E5%B7%B1%E7%99%BC%E6%98%8E-%E5%9F%BA%E7%A4%8E%E7%A7%91%E7%A0%94%E7%B6%93%E8%B2%BB%E4%BD%94%E6%AF%94%E6%87%89%E7%BF%BB%E5%80%8D%E8%87%B3%E6%9C%80%E5%B0%9115",
-    "timestamp": "2026-06-08T12:04:05.488Z",
     "strategy": ".content-card__main"
   }
 ];
