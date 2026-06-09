@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-09T09:57:20.876Z
+// Last updated: 2026-06-09T11:14:14.200Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "滴滴出行廣告出事？的士車身驚現「安心Die」　網民：安心上路？",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260609/1141038596841541632854693.png/d8j6PO5k1Y_I7ohjcCT1KD6YAgzKFgjddnEeMXZxHjE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60358272/%E6%BB%B4%E6%BB%B4%E5%87%BA%E8%A1%8C%E5%BB%A3%E5%91%8A%E5%87%BA%E4%BA%8B-%E7%9A%84%E5%A3%AB%E8%BB%8A%E8%BA%AB%E9%A9%9A%E7%8F%BE-%E5%AE%89%E5%BF%83die-%E7%B6%B2%E6%B0%91-%E5%AE%89%E5%BF%83%E4%B8%8A%E8%B7%AF",
+    "timestamp": "2026-06-09T11:14:14.200Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "FTX創辦人「薯條哥」向特朗普申請特赦　 FTT幣應聲狂漲60%",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260608/1140599198433939456024987.jpeg/EKBUSgJPDey9D8hY-BVxO0T4j6zcr81fP8wL7j_MC-4",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60357914/%E5%A4%A7%E8%A7%92%E5%92%80%E5%BA%97%E8%88%96%E9%81%AD%E6%B7%8B%E5%B1%8E%E6%BC%86%E6%B2%B9-%E8%80%81%E9%97%86%E7%96%91%E5%B9%AB%E5%AE%A2%E8%A7%A3%E5%9C%8D%E6%83%B9%E5%A0%B1%E5%BE%A9-%E5%A4%A9%E7%9C%BC%E7%9B%B4%E6%93%8A%E7%94%B7%E5%AD%90%E7%8A%AF%E6%A1%88",
     "timestamp": "2026-06-08T03:31:37.099Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "以色列空襲伊朗多個軍事據點　美媒：空襲前特朗普曾遊說推遲攻擊",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260323/1112764757531693056283019.jpeg/RoyyFSt2gAwzape93fKJq4NYFZzvP1RD15PrBteT6wY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60357909/%E4%BB%A5%E8%89%B2%E5%88%97%E7%A9%BA%E8%A5%B2%E4%BC%8A%E6%9C%97%E5%A4%9A%E5%80%8B%E8%BB%8D%E4%BA%8B%E6%93%9A%E9%BB%9E-%E7%BE%8E%E5%AA%92-%E7%A9%BA%E8%A5%B2%E5%89%8D%E7%89%B9%E6%9C%97%E6%99%AE%E6%9B%BE%E9%81%8A%E8%AA%AA%E6%8E%A8%E9%81%B2%E6%94%BB%E6%93%8A",
-    "timestamp": "2026-06-08T02:10:36.080Z",
     "strategy": ".content-card__main"
   }
 ];
