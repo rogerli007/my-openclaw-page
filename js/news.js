@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-09T21:17:45.945Z
+// Last updated: 2026-06-09T22:43:07.106Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "歐錦棠再爆欺凌事件　目擊新星唔醒目被教演掌摑戲：個個埋去冚佢",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260609/1141117259637329920423601.jpeg/KxRhgy9Vk1uAPqIyU_2eYcAh6byvZ7Q9xeLNv8Xizb8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60358579/%E6%AD%90%E9%8C%A6%E6%A3%A0%E5%86%8D%E7%88%86%E6%AC%BA%E5%87%8C%E4%BA%8B%E4%BB%B6-%E7%9B%AE%E6%93%8A%E6%96%B0%E6%98%9F%E5%94%94%E9%86%92%E7%9B%AE%E8%A2%AB%E6%95%99%E6%BC%94%E6%8E%8C%E6%91%91%E6%88%B2-%E5%80%8B%E5%80%8B%E5%9F%8B%E5%8E%BB%E5%86%9A%E4%BD%A2",
+    "timestamp": "2026-06-09T22:43:07.106Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "特朗普稱將回應直升機遭擊落　伊朗外長促撤離否則時刻面臨風險",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260609/1140857295966572544867392.jpeg/AwsIVwdzAqKuPmaSVN5r-Hkd08sRZzBIXFZ57lxWee4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60358258/nba%E7%B8%BD%E6%B1%BA%E8%B3%BD-%E7%89%B9%E6%9C%97%E6%99%AE%E7%B4%90%E7%B4%84%E8%A7%80%E6%88%B0-%E7%90%83%E5%A0%B4%E5%91%A8%E9%82%8A%E6%8F%90%E5%89%8D%E5%B0%81%E8%B7%AF-%E7%90%83%E8%BF%B7%E7%A6%81%E6%94%9C%E8%A2%8B%E5%85%A5%E5%A0%B4",
     "timestamp": "2026-06-08T19:39:16.758Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "青衣載鋰電池貨櫃車冒煙　消防灌救突爆炸噴火球　幸無人傷│有片",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260609/1140821027723415552204398.jpeg/bKu2j88C8FWB1IMn8dXhzyb3pQo_qnyRgDZ8QoA2fEI",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60358250/%E9%9D%92%E8%A1%A3%E8%BC%89%E9%8B%B0%E9%9B%BB%E6%B1%A0%E8%B2%A8%E6%AB%83%E8%BB%8A%E5%86%92%E7%85%99-%E6%B6%88%E9%98%B2%E7%81%8C%E6%95%91%E7%AA%81%E7%88%86%E7%82%B8%E5%99%B4%E7%81%AB%E7%90%83-%E5%B9%B8%E7%84%A1%E4%BA%BA%E5%82%B7-%E6%9C%89%E7%89%87",
-    "timestamp": "2026-06-08T17:47:47.027Z",
     "strategy": ".content-card__main"
   }
 ];
