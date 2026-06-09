@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-09T16:42:54.039Z
+// Last updated: 2026-06-09T18:32:25.397Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "港足55年來首負柬埔寨　盧比度險與球迷掀罵戰　強調球隊需要時間",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260610/1141189802020835328530748.png/n6XDidWtLv5mX4CyJ6S-dZCwtXPR8IRsJqavrSamr60?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60358643/%E6%B8%AF%E8%B6%B355%E5%B9%B4%E4%BE%86%E9%A6%96%E8%B2%A0%E6%9F%AC%E5%9F%94%E5%AF%A8-%E7%9B%A7%E6%AF%94%E5%BA%A6%E9%9A%AA%E8%88%87%E7%90%83%E8%BF%B7%E6%8E%80%E7%BD%B5%E6%88%B0-%E5%BC%B7%E8%AA%BF%E7%90%83%E9%9A%8A%E9%9C%80%E8%A6%81%E6%99%82%E9%96%93",
+    "timestamp": "2026-06-09T18:32:25.397Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "港鐵東鐵綫增設車廂編號貼紙　約人會合輕鬆得知「第幾卡幾號門」",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20211115/536922317549211648106879.jpeg/OeyeqqyLhZqRetmOX1jwqR_0UiwB2A71mf6UZpn-lGY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60358184/%E6%9E%97%E6%AF%85%E5%A4%AB-%E4%B8%AD%E5%9C%8B%E9%A0%88%E8%87%AA%E5%B7%B1%E7%99%BC%E6%98%8E-%E5%9F%BA%E7%A4%8E%E7%A7%91%E7%A0%94%E7%B6%93%E8%B2%BB%E4%BD%94%E6%AF%94%E6%87%89%E7%BF%BB%E5%80%8D%E8%87%B3%E6%9C%80%E5%B0%9115",
     "timestamp": "2026-06-08T12:04:05.488Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "洪灝︰恒指不是港股　若要追蹤香港經濟　應追蹤MSCI香港指數",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260320/1111733118802333696695013.jpeg/du_dN71abITnwt9JoPbqs2PshGHG7A8wDEgjnwxII58?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60358183/%E6%B4%AA%E7%81%9D-%E6%81%92%E6%8C%87%E4%B8%8D%E6%98%AF%E6%B8%AF%E8%82%A1-%E8%8B%A5%E8%A6%81%E8%BF%BD%E8%B9%A4%E9%A6%99%E6%B8%AF%E7%B6%93%E6%BF%9F-%E6%87%89%E8%BF%BD%E8%B9%A4msci%E9%A6%99%E6%B8%AF%E6%8C%87%E6%95%B8",
-    "timestamp": "2026-06-08T10:17:45.261Z",
     "strategy": ".content-card__main"
   }
 ];
