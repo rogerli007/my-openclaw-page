@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-09T11:14:14.200Z
+// Last updated: 2026-06-09T12:24:29.868Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "VIVA成軍兩周年推新歌《La Vida》　VALC西班牙文Rap曬語言天分",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260609/1141018115333689344308752.jpeg/PdFh6SgVJNZPhSrdWxL2nwk1QWpU-VOahKQmaISkJmg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60358403/viva%E6%88%90%E8%BB%8D%E5%85%A9%E5%91%A8%E5%B9%B4%E6%8E%A8%E6%96%B0%E6%AD%8C-la-vida-valc%E8%A5%BF%E7%8F%AD%E7%89%99%E6%96%87rap%E6%9B%AC%E8%AA%9E%E8%A8%80%E5%A4%A9%E5%88%86",
+    "timestamp": "2026-06-09T12:24:29.868Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "滴滴出行廣告出事？的士車身驚現「安心Die」　網民：安心上路？",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260604/1139033388615733248486319.png/kuNC6UKXYqRAtBc0OmR0R-65aSrjWfq5ViSE6FYkhOg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60356571/%E6%B8%AF%E9%90%B5%E5%B0%87%E8%BB%8D%E6%BE%B3%E7%B6%AB%E8%BB%8A%E5%BB%82%E9%81%BA%E7%AB%A5%E9%9E%8B-%E7%B6%B2%E6%B0%91%E6%83%A1%E6%90%9E-%E8%A6%8B%E5%88%B0%E5%B0%8F%E7%AB%A5-%E9%99%84%E5%A0%B1%E5%A4%B1%E5%8F%8A%E8%AA%8D%E9%A0%98%E7%A8%8B%E5%BA%8F",
     "timestamp": "2026-06-08T05:13:01.180Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "大角咀店舖遭淋屎漆油　老闆疑幫客解圍惹報復　天眼直擊男子犯案",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260608/1140599198433939456024987.jpeg/EKBUSgJPDey9D8hY-BVxO0T4j6zcr81fP8wL7j_MC-4",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60357914/%E5%A4%A7%E8%A7%92%E5%92%80%E5%BA%97%E8%88%96%E9%81%AD%E6%B7%8B%E5%B1%8E%E6%BC%86%E6%B2%B9-%E8%80%81%E9%97%86%E7%96%91%E5%B9%AB%E5%AE%A2%E8%A7%A3%E5%9C%8D%E6%83%B9%E5%A0%B1%E5%BE%A9-%E5%A4%A9%E7%9C%BC%E7%9B%B4%E6%93%8A%E7%94%B7%E5%AD%90%E7%8A%AF%E6%A1%88",
-    "timestamp": "2026-06-08T03:31:37.099Z",
     "strategy": ".content-card__main"
   }
 ];
