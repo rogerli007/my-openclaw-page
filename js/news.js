@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-09T23:17:41.623Z
+// Last updated: 2026-06-09T23:51:44.714Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "恒安國際主席施文博　健康原因暫停履行職務",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/1776785/org/191dc785a9cbefe0d42d4b49797232a7.jpg/HGyoTwmvvU7jusGOwLPzDWk8TnCTlI3P7CRjqewkY6k?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60358630/%E6%81%92%E5%AE%89%E5%9C%8B%E9%9A%9B%E4%B8%BB%E5%B8%AD%E6%96%BD%E6%96%87%E5%8D%9A-%E5%81%A5%E5%BA%B7%E5%8E%9F%E5%9B%A0%E6%9A%AB%E5%81%9C%E5%B1%A5%E8%A1%8C%E8%81%B7%E5%8B%99",
+    "timestamp": "2026-06-09T23:51:44.714Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "3米長劇毒眼鏡王蛇闖民居！爬近2幼童極驚險　再圖襲擊電單車現形",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260303/1105385756538834944284360.jpeg/MaVGQmNAF2dk5UBjkYIQLU3FDUIr7XrVabh6Amm4egI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60358260/%E7%BE%8E%E8%BB%8D%E5%90%91%E9%98%BF%E6%9B%BC%E7%81%A3%E7%A9%BA%E8%BC%89%E6%B2%B9%E8%BC%AA%E9%96%8B%E7%81%AB-%E6%8C%87%E8%A9%A6%E5%9C%96%E9%81%95%E5%8F%8D%E5%B0%81%E9%8E%96%E4%BB%A4%E9%A7%9B%E5%BE%80%E4%BC%8A%E6%9C%97",
     "timestamp": "2026-06-08T21:28:20.922Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "WWDC26蘋果發佈會懶人包｜iOS27 Siri AI進化．香港繁中幾時用到?",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260609/1140872356135178240679281.jpeg/GKTy9WmwdDP9TQwomk6ZaPZNx-3TaARnOTtlvzk7Zb8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60358067/wwdc26%E8%98%8B%E6%9E%9C%E7%99%BC%E4%BD%88%E6%9C%83%E6%87%B6%E4%BA%BA%E5%8C%85-ios27-siri-ai%E9%80%B2%E5%8C%96-%E9%A6%99%E6%B8%AF%E7%B9%81%E4%B8%AD%E5%B9%BE%E6%99%82%E7%94%A8%E5%88%B0",
-    "timestamp": "2026-06-08T20:38:17.774Z",
     "strategy": ".content-card__main"
   }
 ];
