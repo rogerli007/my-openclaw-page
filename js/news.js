@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-09T13:34:23.959Z
+// Last updated: 2026-06-09T16:42:54.039Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "港鐵東鐵綫增設車廂編號貼紙　約人會合輕鬆得知「第幾卡幾號門」",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260610/1141170476350312448369124.jpeg/Sa4BvDstSTOj3Wxar9iaz9d3aXH6rtlV7YRyde2EcnU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60358634/%E6%B8%AF%E9%90%B5%E6%9D%B1%E9%90%B5%E7%B6%AB%E5%A2%9E%E8%A8%AD%E8%BB%8A%E5%BB%82%E7%B7%A8%E8%99%9F%E8%B2%BC%E7%B4%99-%E7%B4%84%E4%BA%BA%E6%9C%83%E5%90%88%E8%BC%95%E9%AC%86%E5%BE%97%E7%9F%A5-%E7%AC%AC%E5%B9%BE%E5%8D%A1%E5%B9%BE%E8%99%9F%E9%96%80",
+    "timestamp": "2026-06-09T16:42:54.039Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "鄭麗文：若特朗普帶頭創造和平紅利　將成21世紀最偉大領導人",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260320/1111733118802333696695013.jpeg/du_dN71abITnwt9JoPbqs2PshGHG7A8wDEgjnwxII58?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60358183/%E6%B4%AA%E7%81%9D-%E6%81%92%E6%8C%87%E4%B8%8D%E6%98%AF%E6%B8%AF%E8%82%A1-%E8%8B%A5%E8%A6%81%E8%BF%BD%E8%B9%A4%E9%A6%99%E6%B8%AF%E7%B6%93%E6%BF%9F-%E6%87%89%E8%BF%BD%E8%B9%A4msci%E9%A6%99%E6%B8%AF%E6%8C%87%E6%95%B8",
     "timestamp": "2026-06-08T10:17:45.261Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "公務員加薪｜田北辰：跳point到頂點或Hea做　拉Curve肥上瘦下？",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20251020/1056949190573166592123076.jpeg/yyBUtRlTAPeosq_y_uoxXVRBeQehFCt4CxOodQsTqHU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60358102/%E5%85%AC%E5%8B%99%E5%93%A1%E5%8A%A0%E8%96%AA-%E7%94%B0%E5%8C%97%E8%BE%B0-%E8%B7%B3point%E5%88%B0%E9%A0%82%E9%BB%9E%E6%88%96hea%E5%81%9A-%E6%8B%89curve%E8%82%A5%E4%B8%8A%E7%98%A6%E4%B8%8B",
-    "timestamp": "2026-06-08T08:44:03.527Z",
     "strategy": ".content-card__main"
   }
 ];
