@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-09T12:24:29.868Z
+// Last updated: 2026-06-09T13:34:23.959Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "鄭麗文：若特朗普帶頭創造和平紅利　將成21世紀最偉大領導人",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260609/1141128072704036864235617.png/YHN_GAX_GnI0aJIQZIuucjFjibooNcrjBDFLIAQxSyA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8F%B0%E7%81%A3%E6%96%B0%E8%81%9E/60358605/%E9%84%AD%E9%BA%97%E6%96%87-%E8%8B%A5%E7%89%B9%E6%9C%97%E6%99%AE%E5%B8%B6%E9%A0%AD%E5%89%B5%E9%80%A0%E5%92%8C%E5%B9%B3%E7%B4%85%E5%88%A9-%E5%B0%87%E6%88%9021%E4%B8%96%E7%B4%80%E6%9C%80%E5%81%89%E5%A4%A7%E9%A0%98%E5%B0%8E%E4%BA%BA",
+    "timestamp": "2026-06-09T13:34:23.959Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "VIVA成軍兩周年推新歌《La Vida》　VALC西班牙文Rap曬語言天分",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20251020/1056949190573166592123076.jpeg/yyBUtRlTAPeosq_y_uoxXVRBeQehFCt4CxOodQsTqHU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60358102/%E5%85%AC%E5%8B%99%E5%93%A1%E5%8A%A0%E8%96%AA-%E7%94%B0%E5%8C%97%E8%BE%B0-%E8%B7%B3point%E5%88%B0%E9%A0%82%E9%BB%9E%E6%88%96hea%E5%81%9A-%E6%8B%89curve%E8%82%A5%E4%B8%8A%E7%98%A6%E4%B8%8B",
     "timestamp": "2026-06-08T08:44:03.527Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "港鐵將軍澳綫車廂遺童鞋！網民惡搞：見到小童　附報失及認領程序",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260604/1139033388615733248486319.png/kuNC6UKXYqRAtBc0OmR0R-65aSrjWfq5ViSE6FYkhOg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60356571/%E6%B8%AF%E9%90%B5%E5%B0%87%E8%BB%8D%E6%BE%B3%E7%B6%AB%E8%BB%8A%E5%BB%82%E9%81%BA%E7%AB%A5%E9%9E%8B-%E7%B6%B2%E6%B0%91%E6%83%A1%E6%90%9E-%E8%A6%8B%E5%88%B0%E5%B0%8F%E7%AB%A5-%E9%99%84%E5%A0%B1%E5%A4%B1%E5%8F%8A%E8%AA%8D%E9%A0%98%E7%A8%8B%E5%BA%8F",
-    "timestamp": "2026-06-08T05:13:01.180Z",
     "strategy": ".content-card__main"
   }
 ];
