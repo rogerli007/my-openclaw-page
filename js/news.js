@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-09T00:14:25.875Z
+// Last updated: 2026-06-09T01:22:00.116Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "專家列台人常吃10大傷腎食物　吃過多超加工食品　腎病風險增18%",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260604/1139148225177980928038791.png/2lDsqI7x3VF5LDoir9tWFEY964AEf_QPWH2KqVh9iqk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60341948/%E5%B0%88%E5%AE%B6%E5%88%97%E5%8F%B0%E4%BA%BA%E5%B8%B8%E5%90%8310%E5%A4%A7%E5%82%B7%E8%85%8E%E9%A3%9F%E7%89%A9-%E5%90%83%E9%81%8E%E5%A4%9A%E8%B6%85%E5%8A%A0%E5%B7%A5%E9%A3%9F%E5%93%81-%E8%85%8E%E7%97%85%E9%A2%A8%E9%9A%AA%E5%A2%9E18",
+    "timestamp": "2026-06-09T01:22:00.116Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "世界盃2026｜美國賽事籌備陷雙重危機　恐損經濟與國際形象",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260608/1140517083793068032856423.jpeg/GHmC6miIy8I8tzhgfz5e1FWC1_w1xOPvYX0JDmF9CQ4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60357878/%E4%BB%A5%E8%BB%8D-%E5%B7%B2%E6%94%94%E6%88%AA%E6%89%80%E6%9C%89%E4%BE%86%E8%A5%B2%E5%B0%8E%E5%BD%88-%E4%BC%8A%E6%9C%97-%E8%AD%A6%E5%91%8A%E6%80%A7%E6%89%93%E6%93%8A%E4%BB%A5%E7%A9%BA%E8%BB%8D%E5%9F%BA%E5%9C%B0",
     "timestamp": "2026-06-07T21:50:55.141Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "以色列北部遭導彈攻擊　伊朗稱警告性打擊以空軍基地",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260608/1140517083793068032856423.jpeg/GHmC6miIy8I8tzhgfz5e1FWC1_w1xOPvYX0JDmF9CQ4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60357878/%E4%BB%A5%E8%89%B2%E5%88%97%E5%8C%97%E9%83%A8%E9%81%AD%E5%B0%8E%E5%BD%88%E6%94%BB%E6%93%8A-%E4%BC%8A%E6%9C%97%E7%A8%B1%E8%AD%A6%E5%91%8A%E6%80%A7%E6%89%93%E6%93%8A%E4%BB%A5%E7%A9%BA%E8%BB%8D%E5%9F%BA%E5%9C%B0",
-    "timestamp": "2026-06-07T21:19:20.488Z",
     "strategy": ".content-card__main"
   }
 ];
