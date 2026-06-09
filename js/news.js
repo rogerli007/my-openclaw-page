@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-09T06:58:57.410Z
+// Last updated: 2026-06-09T09:57:20.876Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "FTX創辦人「薯條哥」向特朗普申請特赦　 FTT幣應聲狂漲60%",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260609/1141066789589880832469170.jpeg/4F8lEoeAJoJN4R4TNYqmxgLgVIUWDJPDDeDjUg3g41I?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60358533/ftx%E5%89%B5%E8%BE%A6%E4%BA%BA-%E8%96%AF%E6%A2%9D%E5%93%A5-%E5%90%91%E7%89%B9%E6%9C%97%E6%99%AE%E7%94%B3%E8%AB%8B%E7%89%B9%E8%B5%A6-ftt%E5%B9%A3%E6%87%89%E8%81%B2%E7%8B%82%E6%BC%B260",
+    "timestamp": "2026-06-09T09:57:20.876Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "有智障兒的父親　強姦12歲智障姪女並要她肛交　官歎為何沒同理心",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260323/1112764757531693056283019.jpeg/RoyyFSt2gAwzape93fKJq4NYFZzvP1RD15PrBteT6wY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60357909/%E4%BB%A5%E8%89%B2%E5%88%97%E7%A9%BA%E8%A5%B2%E4%BC%8A%E6%9C%97%E5%A4%9A%E5%80%8B%E8%BB%8D%E4%BA%8B%E6%93%9A%E9%BB%9E-%E7%BE%8E%E5%AA%92-%E7%A9%BA%E8%A5%B2%E5%89%8D%E7%89%B9%E6%9C%97%E6%99%AE%E6%9B%BE%E9%81%8A%E8%AA%AA%E6%8E%A8%E9%81%B2%E6%94%BB%E6%93%8A",
     "timestamp": "2026-06-08T02:10:36.080Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "國泰CEO林紹波預料公司不會再削運力　機場三跑帶來擴展機遇",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260220/1101575557881008128109725.jpeg/-vAbnL7kWHfPNv1QKPR67KBAnUvkRmyN8WeTc_Fnk3M?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60357897/%E5%9C%8B%E6%B3%B0ceo%E6%9E%97%E7%B4%B9%E6%B3%A2%E9%A0%90%E6%96%99%E5%85%AC%E5%8F%B8%E4%B8%8D%E6%9C%83%E5%86%8D%E5%89%8A%E9%81%8B%E5%8A%9B-%E6%A9%9F%E5%A0%B4%E4%B8%89%E8%B7%91%E5%B8%B6%E4%BE%86%E6%93%B4%E5%B1%95%E6%A9%9F%E9%81%87",
-    "timestamp": "2026-06-08T01:24:25.343Z",
     "strategy": ".content-card__main"
   }
 ];
