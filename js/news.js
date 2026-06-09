@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-09T20:22:49.543Z
+// Last updated: 2026-06-09T21:17:45.945Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "特朗普稱將回應直升機遭擊落　伊朗外長促撤離否則時刻面臨風險",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260610/1141236458913271808062594.jpeg/X6zvh79F0oyw8DAaebIc8du57QxCcmk-y_MiP8vzIj8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60358649/%E7%89%B9%E6%9C%97%E6%99%AE%E7%A8%B1%E5%B0%87%E5%9B%9E%E6%87%89%E7%9B%B4%E5%8D%87%E6%A9%9F%E9%81%AD%E6%93%8A%E8%90%BD-%E4%BC%8A%E6%9C%97%E5%A4%96%E9%95%B7%E4%BF%83%E6%92%A4%E9%9B%A2%E5%90%A6%E5%89%87%E6%99%82%E5%88%BB%E9%9D%A2%E8%87%A8%E9%A2%A8%E9%9A%AA",
+    "timestamp": "2026-06-09T21:17:45.945Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "日本宇都宮市100KG熊翻過圍欄闖入民居　警方用麻醉槍制伏｜有片",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260609/1140821027723415552204398.jpeg/bKu2j88C8FWB1IMn8dXhzyb3pQo_qnyRgDZ8QoA2fEI",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60358250/%E9%9D%92%E8%A1%A3%E8%BC%89%E9%8B%B0%E9%9B%BB%E6%B1%A0%E8%B2%A8%E6%AB%83%E8%BB%8A%E5%86%92%E7%85%99-%E6%B6%88%E9%98%B2%E7%81%8C%E6%95%91%E7%AA%81%E7%88%86%E7%82%B8%E5%99%B4%E7%81%AB%E7%90%83-%E5%B9%B8%E7%84%A1%E4%BA%BA%E5%82%B7-%E6%9C%89%E7%89%87",
     "timestamp": "2026-06-08T17:47:47.027Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "夏蕙姨稱契仔契女孝順封口拒再評李家鼎家事：我自身都難保",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260608/1140765548779409408685290.jpeg/HqGYMPjq_1KHETFNyuFJvkmjIx1gxvg_B27aLwdu2i8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60358223/%E5%A4%8F%E8%95%99%E5%A7%A8%E7%A8%B1%E5%A5%91%E4%BB%94%E5%A5%91%E5%A5%B3%E5%AD%9D%E9%A0%86%E5%B0%81%E5%8F%A3%E6%8B%92%E5%86%8D%E8%A9%95%E6%9D%8E%E5%AE%B6%E9%BC%8E%E5%AE%B6%E4%BA%8B-%E6%88%91%E8%87%AA%E8%BA%AB%E9%83%BD%E9%9B%A3%E4%BF%9D",
-    "timestamp": "2026-06-08T16:43:46.041Z",
     "strategy": ".content-card__main"
   }
 ];
