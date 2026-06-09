@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-09T01:22:00.116Z
+// Last updated: 2026-06-09T02:28:08.029Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "男子偽裝飯店員工當眾將醉酒女子從丈夫身邊帶走性侵　判監3年半",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260609/1140963075042578432083695.jpeg/lyxK45XVYTFTX4aNUOto-927_cBewQwHm5g87JuYPOw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60358307/%E7%94%B7%E5%AD%90%E5%81%BD%E8%A3%9D%E9%A3%AF%E5%BA%97%E5%93%A1%E5%B7%A5%E7%95%B6%E7%9C%BE%E5%B0%87%E9%86%89%E9%85%92%E5%A5%B3%E5%AD%90%E5%BE%9E%E4%B8%88%E5%A4%AB%E8%BA%AB%E9%82%8A%E5%B8%B6%E8%B5%B0%E6%80%A7%E4%BE%B5-%E5%88%A4%E7%9B%A33%E5%B9%B4%E5%8D%8A",
+    "timestamp": "2026-06-09T02:28:08.029Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "專家列台人常吃10大傷腎食物　吃過多超加工食品　腎病風險增18%",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260522/1134298550256013312957018.jpeg/RgVUN9yesMtzkDtaLtMkXgfD5GGnfwMy830B4_N9AeM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60357879/%E7%89%B9%E6%9C%97%E6%99%AE-%E4%BC%8A%E6%9C%97%E6%94%BB%E6%93%8A%E4%BB%A5%E8%89%B2%E5%88%97%E7%84%A1%E5%8A%A9%E6%96%BC%E8%AB%87%E5%88%A4-%E4%BF%83%E5%85%A7%E5%A1%94%E5%B0%BC%E4%BA%9E%E8%83%A1%E4%B8%8D%E8%A6%81%E5%A0%B1%E5%BE%A9",
     "timestamp": "2026-06-07T22:33:12.269Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "以軍：已攔截所有來襲導彈　伊朗：警告性打擊以空軍基地",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260608/1140517083793068032856423.jpeg/GHmC6miIy8I8tzhgfz5e1FWC1_w1xOPvYX0JDmF9CQ4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60357878/%E4%BB%A5%E8%BB%8D-%E5%B7%B2%E6%94%94%E6%88%AA%E6%89%80%E6%9C%89%E4%BE%86%E8%A5%B2%E5%B0%8E%E5%BD%88-%E4%BC%8A%E6%9C%97-%E8%AD%A6%E5%91%8A%E6%80%A7%E6%89%93%E6%93%8A%E4%BB%A5%E7%A9%BA%E8%BB%8D%E5%9F%BA%E5%9C%B0",
-    "timestamp": "2026-06-07T21:50:55.141Z",
     "strategy": ".content-card__main"
   }
 ];
