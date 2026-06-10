@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-10T01:13:35.636Z
+// Last updated: 2026-06-10T02:02:52.225Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "三星電子及SK海力士據報或本月內　公布在韓國當地投資計劃",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260601/1138149257589559296972186.jpeg/QxUKngJlnRPTVXm36DRMJgS8UReoMy8XgVBErYFQRK0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60358681/%E4%B8%89%E6%98%9F%E9%9B%BB%E5%AD%90%E5%8F%8Ask%E6%B5%B7%E5%8A%9B%E5%A3%AB%E6%93%9A%E5%A0%B1%E6%88%96%E6%9C%AC%E6%9C%88%E5%85%A7-%E5%85%AC%E5%B8%83%E5%9C%A8%E9%9F%93%E5%9C%8B%E7%95%B6%E5%9C%B0%E6%8A%95%E8%B3%87%E8%A8%88%E5%8A%83",
+    "timestamp": "2026-06-10T02:02:52.225Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "飛機維修員爆癢冒疹！醫生證實禽蟎吸血　籲勿讓鳥類住所附近築巢",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20231209/810236982562131968410872.jpeg/lnwHFl5luEu-Qvg5eOtBraPjgkz2UypjHcvs3h3L7N4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60358261/%E7%BE%8E%E6%9B%B4%E6%96%B0%E6%94%AF%E6%8C%81%E4%B8%AD%E5%9C%8B%E8%BB%8D%E6%96%B9%E4%BC%81%E6%A5%AD%E5%90%8D%E5%96%AE-%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4-%E7%99%BE%E5%BA%A6%E5%8F%8A%E6%AF%94%E4%BA%9E%E8%BF%AA%E7%AD%89%E8%A2%AB%E5%88%97%E5%85%A5",
     "timestamp": "2026-06-08T22:53:43.755Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "WWDC26蘋果發佈會懶人包｜iOS27 Siri AI進化．香港繁中幾時用到?",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260609/1140872356135178240679281.jpeg/GKTy9WmwdDP9TQwomk6ZaPZNx-3TaARnOTtlvzk7Zb8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60358067/wwdc26%E8%98%8B%E6%9E%9C%E7%99%BC%E4%BD%88%E6%9C%83%E6%87%B6%E4%BA%BA%E5%8C%85-ios27-siri-ai%E9%80%B2%E5%8C%96-%E9%A6%99%E6%B8%AF%E7%B9%81%E4%B8%AD%E5%B9%BE%E6%99%82%E7%94%A8%E5%88%B0",
-    "timestamp": "2026-06-08T22:14:17.274Z",
     "strategy": ".content-card__main"
   }
 ];
