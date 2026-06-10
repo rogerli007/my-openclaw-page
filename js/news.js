@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-10T03:26:30.212Z
+// Last updated: 2026-06-10T06:51:15.611Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "醫管局高層薪酬屢創新高　議員質疑與社會平行時空　倡與表現掛鉤",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20251221/1079451233850232832039758.jpeg/lSVy2ki1nMW8eH2eF_dqofzYj0f70-xctTTCRLU0wkQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60358817/%E9%86%AB%E7%AE%A1%E5%B1%80%E9%AB%98%E5%B1%A4%E8%96%AA%E9%85%AC%E5%B1%A2%E5%89%B5%E6%96%B0%E9%AB%98-%E8%AD%B0%E5%93%A1%E8%B3%AA%E7%96%91%E8%88%87%E7%A4%BE%E6%9C%83%E5%B9%B3%E8%A1%8C%E6%99%82%E7%A9%BA-%E5%80%A1%E8%88%87%E8%A1%A8%E7%8F%BE%E6%8E%9B%E9%89%A4",
+    "timestamp": "2026-06-10T06:51:15.611Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "AI概念股捱沽　聯想及智譜瀉一成　兩科網騰訊及美團卻逆市上揚3%",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260604/1139148225177980928038791.png/2lDsqI7x3VF5LDoir9tWFEY964AEf_QPWH2KqVh9iqk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60341948/%E5%B0%88%E5%AE%B6%E5%88%97%E5%8F%B0%E4%BA%BA%E5%B8%B8%E5%90%8310%E5%A4%A7%E5%82%B7%E8%85%8E%E9%A3%9F%E7%89%A9-%E5%90%83%E9%81%8E%E5%A4%9A%E8%B6%85%E5%8A%A0%E5%B7%A5%E9%A3%9F%E5%93%81-%E8%85%8E%E7%97%85%E9%A2%A8%E9%9A%AA%E5%A2%9E18",
     "timestamp": "2026-06-09T01:22:00.116Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "世界盃2026｜美國賽事籌備陷雙重危機　恐損經濟與國際形象",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260602/1138518257767026688541378.jpeg/GqY7qx0-IusoSbHaE3FWXZt_wEJepC3EDX_pWw1_6Vs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60356063/%E4%B8%96%E7%95%8C%E7%9B%832026-%E7%BE%8E%E5%9C%8B%E8%B3%BD%E4%BA%8B%E7%B1%8C%E5%82%99%E9%99%B7%E9%9B%99%E9%87%8D%E5%8D%B1%E6%A9%9F-%E6%81%90%E6%90%8D%E7%B6%93%E6%BF%9F%E8%88%87%E5%9C%8B%E9%9A%9B%E5%BD%A2%E8%B1%A1",
-    "timestamp": "2026-06-09T00:14:25.875Z",
     "strategy": ".content-card__main"
   }
 ];
