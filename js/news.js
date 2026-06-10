@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-10T14:54:52.154Z
+// Last updated: 2026-06-10T17:43:09.995Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "中大研究：逾半晚期ALK肺癌患者用第三代標靶藥後　長達7年無惡化",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260611/1141553805595381760870391.jpeg/7t4boOEcOA0ULENACjPa8s0HZyQniv109GPZc_Rj2XM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60359030/%E4%B8%AD%E5%A4%A7%E7%A0%94%E7%A9%B6-%E9%80%BE%E5%8D%8A%E6%99%9A%E6%9C%9Falk%E8%82%BA%E7%99%8C%E6%82%A3%E8%80%85%E7%94%A8%E7%AC%AC%E4%B8%89%E4%BB%A3%E6%A8%99%E9%9D%B6%E8%97%A5%E5%BE%8C-%E9%95%B7%E9%81%947%E5%B9%B4%E7%84%A1%E6%83%A1%E5%8C%96",
+    "timestamp": "2026-06-10T17:43:09.995Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "特朗普稱勿再襲伊朗否則孤立無援　內塔尼亞胡：或不得不獨自應對",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260609/1141018115333689344308752.jpeg/PdFh6SgVJNZPhSrdWxL2nwk1QWpU-VOahKQmaISkJmg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60358403/viva%E6%88%90%E8%BB%8D%E5%85%A9%E5%91%A8%E5%B9%B4%E6%8E%A8%E6%96%B0%E6%AD%8C-la-vida-valc%E8%A5%BF%E7%8F%AD%E7%89%99%E6%96%87rap%E6%9B%AC%E8%AA%9E%E8%A8%80%E5%A4%A9%E5%88%86",
     "timestamp": "2026-06-09T12:24:29.868Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "滴滴出行廣告出事？的士車身驚現「安心Die」　網民：安心上路？",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260609/1141038596841541632854693.png/d8j6PO5k1Y_I7ohjcCT1KD6YAgzKFgjddnEeMXZxHjE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60358272/%E6%BB%B4%E6%BB%B4%E5%87%BA%E8%A1%8C%E5%BB%A3%E5%91%8A%E5%87%BA%E4%BA%8B-%E7%9A%84%E5%A3%AB%E8%BB%8A%E8%BA%AB%E9%A9%9A%E7%8F%BE-%E5%AE%89%E5%BF%83die-%E7%B6%B2%E6%B0%91-%E5%AE%89%E5%BF%83%E4%B8%8A%E8%B7%AF",
-    "timestamp": "2026-06-09T11:14:14.200Z",
     "strategy": ".content-card__main"
   }
 ];
