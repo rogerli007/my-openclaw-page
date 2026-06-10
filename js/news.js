@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-10T23:10:36.737Z
+// Last updated: 2026-06-10T23:54:07.232Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "留守女子遭同村男設局性侵未遂　勒斃棄屍荒野　盜手機扮在生半月",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260610/1141390890971959296349716.png/Wur2w5Wgn9qlHNKsmFdGeK6yhmJmO9Bu1ypG5tcqRuY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E8%A9%B1%E9%A1%8C/60356961/%E7%95%99%E5%AE%88%E5%A5%B3%E5%AD%90%E9%81%AD%E5%90%8C%E6%9D%91%E7%94%B7%E8%A8%AD%E5%B1%80%E6%80%A7%E4%BE%B5%E6%9C%AA%E9%81%82-%E5%8B%92%E6%96%83%E6%A3%84%E5%B1%8D%E8%8D%92%E9%87%8E-%E7%9B%9C%E6%89%8B%E6%A9%9F%E6%89%AE%E5%9C%A8%E7%94%9F%E5%8D%8A%E6%9C%88",
+    "timestamp": "2026-06-10T23:54:07.232Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "歐洲智庫調查：僅11%受訪歐洲人視美國為盟友",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260610/1141224819946164224620795.png/vpkSKPl1TLiYI6SGmaCzbL8LavSjoFkAam-fmGpvn5g?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60358647/%E6%97%A5%E6%9C%AC%E5%AE%87%E9%83%BD%E5%AE%AE%E5%B8%82100kg%E7%86%8A%E7%BF%BB%E9%81%8E%E5%9C%8D%E6%AC%84%E9%97%96%E5%85%A5%E6%B0%91%E5%B1%85-%E8%AD%A6%E6%96%B9%E7%94%A8%E9%BA%BB%E9%86%89%E6%A7%8D%E5%88%B6%E4%BC%8F-%E6%9C%89%E7%89%87",
     "timestamp": "2026-06-09T20:22:49.543Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "北愛爾蘭男子遭蘇丹難民持刀襲擊　被按在地上狂捅傷勢嚴重｜有片",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260610/1141211502523453440241508.png/BiPXwxuaAJCnLPbdOUQBjKvhyotTG0rptqKEILaihCA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60358645/%E5%8C%97%E6%84%9B%E7%88%BE%E8%98%AD%E7%94%B7%E5%AD%90%E9%81%AD%E8%98%87%E4%B8%B9%E9%9B%A3%E6%B0%91%E6%8C%81%E5%88%80%E8%A5%B2%E6%93%8A-%E8%A2%AB%E6%8C%89%E5%9C%A8%E5%9C%B0%E4%B8%8A%E7%8B%82%E6%8D%85%E5%82%B7%E5%8B%A2%E5%9A%B4%E9%87%8D-%E6%9C%89%E7%89%87",
-    "timestamp": "2026-06-09T19:25:20.502Z",
     "strategy": ".content-card__main"
   }
 ];
