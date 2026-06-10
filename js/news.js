@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-10T22:30:46.292Z
+// Last updated: 2026-06-10T23:10:36.737Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "歐洲智庫調查：僅11%受訪歐洲人視美國為盟友",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260611/1141633739239985152950413.jpeg/NBI6WDM5Tk2p3NNySaRbfUzGKgRUROiQIb253iG9ud4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60359051/%E6%AD%90%E6%B4%B2%E6%99%BA%E5%BA%AB%E8%AA%BF%E6%9F%A5-%E5%83%8511-%E5%8F%97%E8%A8%AA%E6%AD%90%E6%B4%B2%E4%BA%BA%E8%A6%96%E7%BE%8E%E5%9C%8B%E7%82%BA%E7%9B%9F%E5%8F%8B",
+    "timestamp": "2026-06-10T23:10:36.737Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "北愛爾蘭難民傷人案引發抗議　警方出動水炮驅散縱火示威者｜有片",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260610/1141211502523453440241508.png/BiPXwxuaAJCnLPbdOUQBjKvhyotTG0rptqKEILaihCA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60358645/%E5%8C%97%E6%84%9B%E7%88%BE%E8%98%AD%E7%94%B7%E5%AD%90%E9%81%AD%E8%98%87%E4%B8%B9%E9%9B%A3%E6%B0%91%E6%8C%81%E5%88%80%E8%A5%B2%E6%93%8A-%E8%A2%AB%E6%8C%89%E5%9C%A8%E5%9C%B0%E4%B8%8A%E7%8B%82%E6%8D%85%E5%82%B7%E5%8B%A2%E5%9A%B4%E9%87%8D-%E6%9C%89%E7%89%87",
     "timestamp": "2026-06-09T19:25:20.502Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "港足55年來首負柬埔寨　盧比度險與球迷掀罵戰　強調球隊需要時間",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260610/1141189802020835328530748.png/n6XDidWtLv5mX4CyJ6S-dZCwtXPR8IRsJqavrSamr60?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60358643/%E6%B8%AF%E8%B6%B355%E5%B9%B4%E4%BE%86%E9%A6%96%E8%B2%A0%E6%9F%AC%E5%9F%94%E5%AF%A8-%E7%9B%A7%E6%AF%94%E5%BA%A6%E9%9A%AA%E8%88%87%E7%90%83%E8%BF%B7%E6%8E%80%E7%BD%B5%E6%88%B0-%E5%BC%B7%E8%AA%BF%E7%90%83%E9%9A%8A%E9%9C%80%E8%A6%81%E6%99%82%E9%96%93",
-    "timestamp": "2026-06-09T18:32:25.397Z",
     "strategy": ".content-card__main"
   }
 ];
