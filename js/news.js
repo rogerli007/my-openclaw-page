@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-10T17:43:09.995Z
+// Last updated: 2026-06-10T19:44:58.791Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "世界盃｜遭美國拒絕入境　索馬里球證返國獲英雄式歡迎",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260611/1141569241313447936453672.jpeg/K-CR-_hAIIt2psaVAPRU_w9ExthNRseqlSpXNpUqVzY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60359035/%E4%B8%96%E7%95%8C%E7%9B%83-%E9%81%AD%E7%BE%8E%E5%9C%8B%E6%8B%92%E7%B5%95%E5%85%A5%E5%A2%83-%E7%B4%A2%E9%A6%AC%E9%87%8C%E7%90%83%E8%AD%89%E8%BF%94%E5%9C%8B%E7%8D%B2%E8%8B%B1%E9%9B%84%E5%BC%8F%E6%AD%A1%E8%BF%8E",
+    "timestamp": "2026-06-10T19:44:58.791Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "中大研究：逾半晚期ALK肺癌患者用第三代標靶藥後　長達7年無惡化",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260609/1141128072704036864235617.png/YHN_GAX_GnI0aJIQZIuucjFjibooNcrjBDFLIAQxSyA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8F%B0%E7%81%A3%E6%96%B0%E8%81%9E/60358605/%E9%84%AD%E9%BA%97%E6%96%87-%E8%8B%A5%E7%89%B9%E6%9C%97%E6%99%AE%E5%B8%B6%E9%A0%AD%E5%89%B5%E9%80%A0%E5%92%8C%E5%B9%B3%E7%B4%85%E5%88%A9-%E5%B0%87%E6%88%9021%E4%B8%96%E7%B4%80%E6%9C%80%E5%81%89%E5%A4%A7%E9%A0%98%E5%B0%8E%E4%BA%BA",
     "timestamp": "2026-06-09T13:34:23.959Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "VIVA成軍兩周年推新歌《La Vida》　VALC西班牙文Rap曬語言天分",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260609/1141018115333689344308752.jpeg/PdFh6SgVJNZPhSrdWxL2nwk1QWpU-VOahKQmaISkJmg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60358403/viva%E6%88%90%E8%BB%8D%E5%85%A9%E5%91%A8%E5%B9%B4%E6%8E%A8%E6%96%B0%E6%AD%8C-la-vida-valc%E8%A5%BF%E7%8F%AD%E7%89%99%E6%96%87rap%E6%9B%AC%E8%AA%9E%E8%A8%80%E5%A4%A9%E5%88%86",
-    "timestamp": "2026-06-09T12:24:29.868Z",
     "strategy": ".content-card__main"
   }
 ];
