@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-09T23:51:44.714Z
+// Last updated: 2026-06-10T01:13:35.636Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "飛機維修員爆癢冒疹！醫生證實禽蟎吸血　籲勿讓鳥類住所附近築巢",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260603/1138648347947569152459036.png/Its3cf8fi_iKoxrpDbpfp3whzYUxa5WClEgZcZRIGXE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60356181/%E9%A3%9B%E6%A9%9F%E7%B6%AD%E4%BF%AE%E5%93%A1%E7%88%86%E7%99%A2%E5%86%92%E7%96%B9-%E9%86%AB%E7%94%9F%E8%AD%89%E5%AF%A6%E7%A6%BD%E8%9F%8E%E5%90%B8%E8%A1%80-%E7%B1%B2%E5%8B%BF%E8%AE%93%E9%B3%A5%E9%A1%9E%E4%BD%8F%E6%89%80%E9%99%84%E8%BF%91%E7%AF%89%E5%B7%A2",
+    "timestamp": "2026-06-10T01:13:35.636Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "恒安國際主席施文博　健康原因暫停履行職務",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260609/1140872356135178240679281.jpeg/GKTy9WmwdDP9TQwomk6ZaPZNx-3TaARnOTtlvzk7Zb8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60358067/wwdc26%E8%98%8B%E6%9E%9C%E7%99%BC%E4%BD%88%E6%9C%83%E6%87%B6%E4%BA%BA%E5%8C%85-ios27-siri-ai%E9%80%B2%E5%8C%96-%E9%A6%99%E6%B8%AF%E7%B9%81%E4%B8%AD%E5%B9%BE%E6%99%82%E7%94%A8%E5%88%B0",
     "timestamp": "2026-06-08T22:14:17.274Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美軍向阿曼灣空載油輪開火　指試圖違反封鎖令駛往伊朗",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260303/1105385756538834944284360.jpeg/MaVGQmNAF2dk5UBjkYIQLU3FDUIr7XrVabh6Amm4egI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60358260/%E7%BE%8E%E8%BB%8D%E5%90%91%E9%98%BF%E6%9B%BC%E7%81%A3%E7%A9%BA%E8%BC%89%E6%B2%B9%E8%BC%AA%E9%96%8B%E7%81%AB-%E6%8C%87%E8%A9%A6%E5%9C%96%E9%81%95%E5%8F%8D%E5%B0%81%E9%8E%96%E4%BB%A4%E9%A7%9B%E5%BE%80%E4%BC%8A%E6%9C%97",
-    "timestamp": "2026-06-08T21:28:20.922Z",
     "strategy": ".content-card__main"
   }
 ];
