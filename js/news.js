@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-10T19:44:58.791Z
+// Last updated: 2026-06-10T21:35:20.217Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "世界盃有趣數據　墨西哥成首個3屆主辦國　Sam哥有望6屆為國效力",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260611/1141599355380174848634817.jpeg/s5vnckgaPqdCsP7dIF-6tLdaI8X-lHjv9nt51_Z7edc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60359040/%E4%B8%96%E7%95%8C%E7%9B%83%E6%9C%89%E8%B6%A3%E6%95%B8%E6%93%9A-%E5%A2%A8%E8%A5%BF%E5%93%A5%E6%88%90%E9%A6%96%E5%80%8B3%E5%B1%86%E4%B8%BB%E8%BE%A6%E5%9C%8B-sam%E5%93%A5%E6%9C%89%E6%9C%9B6%E5%B1%86%E7%82%BA%E5%9C%8B%E6%95%88%E5%8A%9B",
+    "timestamp": "2026-06-10T21:35:20.217Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "世界盃｜遭美國拒絕入境　索馬里球證返國獲英雄式歡迎",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260610/1141170476350312448369124.jpeg/Sa4BvDstSTOj3Wxar9iaz9d3aXH6rtlV7YRyde2EcnU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60358634/%E6%B8%AF%E9%90%B5%E6%9D%B1%E9%90%B5%E7%B6%AB%E5%A2%9E%E8%A8%AD%E8%BB%8A%E5%BB%82%E7%B7%A8%E8%99%9F%E8%B2%BC%E7%B4%99-%E7%B4%84%E4%BA%BA%E6%9C%83%E5%90%88%E8%BC%95%E9%AC%86%E5%BE%97%E7%9F%A5-%E7%AC%AC%E5%B9%BE%E5%8D%A1%E5%B9%BE%E8%99%9F%E9%96%80",
     "timestamp": "2026-06-09T16:42:54.039Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "鄭麗文：若特朗普帶頭創造和平紅利　將成21世紀最偉大領導人",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260609/1141128072704036864235617.png/YHN_GAX_GnI0aJIQZIuucjFjibooNcrjBDFLIAQxSyA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8F%B0%E7%81%A3%E6%96%B0%E8%81%9E/60358605/%E9%84%AD%E9%BA%97%E6%96%87-%E8%8B%A5%E7%89%B9%E6%9C%97%E6%99%AE%E5%B8%B6%E9%A0%AD%E5%89%B5%E9%80%A0%E5%92%8C%E5%B9%B3%E7%B4%85%E5%88%A9-%E5%B0%87%E6%88%9021%E4%B8%96%E7%B4%80%E6%9C%80%E5%81%89%E5%A4%A7%E9%A0%98%E5%B0%8E%E4%BA%BA",
-    "timestamp": "2026-06-09T13:34:23.959Z",
     "strategy": ".content-card__main"
   }
 ];
