@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-10T06:51:15.611Z
+// Last updated: 2026-06-10T08:24:08.088Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "《弗蘭肯斯坦》音樂劇2026澳門｜門票攻略＋購票連結＋座位表",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260610/1141377136184004608176098.jpeg/Hz40wWt7nn6B4BbaM5Oc1yWHyeSgsNEAyMs0scjLNLE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60358798/%E5%BC%97%E8%98%AD%E8%82%AF%E6%96%AF%E5%9D%A6-%E9%9F%B3%E6%A8%82%E5%8A%872026%E6%BE%B3%E9%96%80-%E9%96%80%E7%A5%A8%E6%94%BB%E7%95%A5-%E8%B3%BC%E7%A5%A8%E9%80%A3%E7%B5%90-%E5%BA%A7%E4%BD%8D%E8%A1%A8",
+    "timestamp": "2026-06-10T08:24:08.088Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "醫管局高層薪酬屢創新高　議員質疑與社會平行時空　倡與表現掛鉤",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260609/1140963075042578432083695.jpeg/lyxK45XVYTFTX4aNUOto-927_cBewQwHm5g87JuYPOw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60358307/%E7%94%B7%E5%AD%90%E5%81%BD%E8%A3%9D%E9%A3%AF%E5%BA%97%E5%93%A1%E5%B7%A5%E7%95%B6%E7%9C%BE%E5%B0%87%E9%86%89%E9%85%92%E5%A5%B3%E5%AD%90%E5%BE%9E%E4%B8%88%E5%A4%AB%E8%BA%AB%E9%82%8A%E5%B8%B6%E8%B5%B0%E6%80%A7%E4%BE%B5-%E5%88%A4%E7%9B%A33%E5%B9%B4%E5%8D%8A",
     "timestamp": "2026-06-09T02:28:08.029Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "專家列台人常吃10大傷腎食物　吃過多超加工食品　腎病風險增18%",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260604/1139148225177980928038791.png/2lDsqI7x3VF5LDoir9tWFEY964AEf_QPWH2KqVh9iqk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60341948/%E5%B0%88%E5%AE%B6%E5%88%97%E5%8F%B0%E4%BA%BA%E5%B8%B8%E5%90%8310%E5%A4%A7%E5%82%B7%E8%85%8E%E9%A3%9F%E7%89%A9-%E5%90%83%E9%81%8E%E5%A4%9A%E8%B6%85%E5%8A%A0%E5%B7%A5%E9%A3%9F%E5%93%81-%E8%85%8E%E7%97%85%E9%A2%A8%E9%9A%AA%E5%A2%9E18",
-    "timestamp": "2026-06-09T01:22:00.116Z",
     "strategy": ".content-card__main"
   }
 ];
