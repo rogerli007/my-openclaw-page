@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-10T08:24:08.088Z
+// Last updated: 2026-06-10T09:39:56.461Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "南非約翰內斯堡市郊槍擊案　槍手瘋狂掃射至少12死9傷　警方搜捕",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260610/1141425676264411136463125.jpeg/9wKKy2b0Y0XGJq9u5kVfE6uMZREYaTBPrEnnk6xJ55M?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60358913/%E5%8D%97%E9%9D%9E%E7%B4%84%E7%BF%B0%E5%85%A7%E6%96%AF%E5%A0%A1%E5%B8%82%E9%83%8A%E6%A7%8D%E6%93%8A%E6%A1%88-%E6%A7%8D%E6%89%8B%E7%98%8B%E7%8B%82%E6%8E%83%E5%B0%84%E8%87%B3%E5%B0%9112%E6%AD%BB9%E5%82%B7-%E8%AD%A6%E6%96%B9%E6%90%9C%E6%8D%95",
+    "timestamp": "2026-06-10T09:39:56.461Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "《弗蘭肯斯坦》音樂劇2026澳門｜門票攻略＋購票連結＋座位表",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250718/1022918043577094144936427.jpeg/UBF4hGWHXZILCZ3v1Sc8jA4DD300R2RpBuG-ewbhvns?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60358367/%E6%97%A5%E5%AA%92-%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%E4%BF%83%E4%B8%AD%E5%9C%8B%E6%81%A2%E5%BE%A9%E5%B0%8D%E6%97%A5%E6%9C%AC%E7%9A%84%E7%A8%80%E5%9C%9F%E4%BE%9B%E6%87%89",
     "timestamp": "2026-06-09T03:54:03.373Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "男子偽裝飯店員工當眾將醉酒女子從丈夫身邊帶走性侵　判監3年半",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260609/1140963075042578432083695.jpeg/lyxK45XVYTFTX4aNUOto-927_cBewQwHm5g87JuYPOw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60358307/%E7%94%B7%E5%AD%90%E5%81%BD%E8%A3%9D%E9%A3%AF%E5%BA%97%E5%93%A1%E5%B7%A5%E7%95%B6%E7%9C%BE%E5%B0%87%E9%86%89%E9%85%92%E5%A5%B3%E5%AD%90%E5%BE%9E%E4%B8%88%E5%A4%AB%E8%BA%AB%E9%82%8A%E5%B8%B6%E8%B5%B0%E6%80%A7%E4%BE%B5-%E5%88%A4%E7%9B%A33%E5%B9%B4%E5%8D%8A",
-    "timestamp": "2026-06-09T02:28:08.029Z",
     "strategy": ".content-card__main"
   }
 ];
