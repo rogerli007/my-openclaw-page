@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-10T13:49:59.239Z
+// Last updated: 2026-06-10T14:54:52.154Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "特朗普稱勿再襲伊朗否則孤立無援　內塔尼亞胡：或不得不獨自應對",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260408/1118527215101808640670453.jpeg/yMcdcbfVBGBEsoQ0AjXAttg7HZn8hBOVY_ZpD2P2aQ8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60359000/%E7%89%B9%E6%9C%97%E6%99%AE%E7%A8%B1%E5%8B%BF%E5%86%8D%E8%A5%B2%E4%BC%8A%E6%9C%97%E5%90%A6%E5%89%87%E5%AD%A4%E7%AB%8B%E7%84%A1%E6%8F%B4-%E5%85%A7%E5%A1%94%E5%B0%BC%E4%BA%9E%E8%83%A1-%E6%88%96%E4%B8%8D%E5%BE%97%E4%B8%8D%E7%8D%A8%E8%87%AA%E6%87%89%E5%B0%8D",
+    "timestamp": "2026-06-10T14:54:52.154Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "李家超晤哈薩克副總理　冀深化合作　歡迎當地企業善用香港拓商機",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260609/1141038596841541632854693.png/d8j6PO5k1Y_I7ohjcCT1KD6YAgzKFgjddnEeMXZxHjE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60358272/%E6%BB%B4%E6%BB%B4%E5%87%BA%E8%A1%8C%E5%BB%A3%E5%91%8A%E5%87%BA%E4%BA%8B-%E7%9A%84%E5%A3%AB%E8%BB%8A%E8%BA%AB%E9%A9%9A%E7%8F%BE-%E5%AE%89%E5%BF%83die-%E7%B6%B2%E6%B0%91-%E5%AE%89%E5%BF%83%E4%B8%8A%E8%B7%AF",
     "timestamp": "2026-06-09T11:14:14.200Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "FTX創辦人「薯條哥」向特朗普申請特赦　 FTT幣應聲狂漲60%",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260609/1141066789589880832469170.jpeg/4F8lEoeAJoJN4R4TNYqmxgLgVIUWDJPDDeDjUg3g41I?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60358533/ftx%E5%89%B5%E8%BE%A6%E4%BA%BA-%E8%96%AF%E6%A2%9D%E5%93%A5-%E5%90%91%E7%89%B9%E6%9C%97%E6%99%AE%E7%94%B3%E8%AB%8B%E7%89%B9%E8%B5%A6-ftt%E5%B9%A3%E6%87%89%E8%81%B2%E7%8B%82%E6%BC%B260",
-    "timestamp": "2026-06-09T09:57:20.876Z",
     "strategy": ".content-card__main"
   }
 ];
