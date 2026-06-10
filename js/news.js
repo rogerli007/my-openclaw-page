@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-10T11:08:37.742Z
+// Last updated: 2026-06-10T13:49:59.239Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "李家超晤哈薩克副總理　冀深化合作　歡迎當地企業善用香港拓商機",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260610/1141488241636020224456287.jpeg/_h0fhSX1UEM6DX4PgS8b7HpRSM3xX976Mo8I3jKPCN4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60359005/%E6%9D%8E%E5%AE%B6%E8%B6%85%E6%99%A4%E5%93%88%E8%96%A9%E5%85%8B%E5%89%AF%E7%B8%BD%E7%90%86-%E5%86%80%E6%B7%B1%E5%8C%96%E5%90%88%E4%BD%9C-%E6%AD%A1%E8%BF%8E%E7%95%B6%E5%9C%B0%E4%BC%81%E6%A5%AD%E5%96%84%E7%94%A8%E9%A6%99%E6%B8%AF%E6%8B%93%E5%95%86%E6%A9%9F",
+    "timestamp": "2026-06-10T13:49:59.239Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "郵票與舒芙蕾｜糖衣包裝的毒品劇　陳意涵聽到有小學生吸食感震驚",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260609/1141066789589880832469170.jpeg/4F8lEoeAJoJN4R4TNYqmxgLgVIUWDJPDDeDjUg3g41I?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60358533/ftx%E5%89%B5%E8%BE%A6%E4%BA%BA-%E8%96%AF%E6%A2%9D%E5%93%A5-%E5%90%91%E7%89%B9%E6%9C%97%E6%99%AE%E7%94%B3%E8%AB%8B%E7%89%B9%E8%B5%A6-ftt%E5%B9%A3%E6%87%89%E8%81%B2%E7%8B%82%E6%BC%B260",
     "timestamp": "2026-06-09T09:57:20.876Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "有智障兒的父親　強姦12歲智障姪女並要她肛交　官歎為何沒同理心",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260609/1141029497538088960508461.jpeg/u8mbS3nD4MfTuHnzjKz4E1Os-N4V-hb0adpjoWnaY6E?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60358447/%E6%9C%89%E6%99%BA%E9%9A%9C%E5%85%92%E7%9A%84%E7%88%B6%E8%A6%AA-%E5%BC%B7%E5%A7%A612%E6%AD%B2%E6%99%BA%E9%9A%9C%E5%A7%AA%E5%A5%B3%E4%B8%A6%E8%A6%81%E5%A5%B9%E8%82%9B%E4%BA%A4-%E5%AE%98%E6%AD%8E%E7%82%BA%E4%BD%95%E6%B2%92%E5%90%8C%E7%90%86%E5%BF%83",
-    "timestamp": "2026-06-09T06:58:57.410Z",
     "strategy": ".content-card__main"
   }
 ];
