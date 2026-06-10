@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-10T21:35:20.217Z
+// Last updated: 2026-06-10T22:30:46.292Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "北愛爾蘭難民傷人案引發抗議　警方出動水炮驅散縱火示威者｜有片",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260611/1141620452913844224129458.jpeg/FXDbR9IQsQ_9DlYILx_6uUHrWt42AWW-qDuW_qg7lv4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60359047/%E5%8C%97%E6%84%9B%E7%88%BE%E8%98%AD%E9%9B%A3%E6%B0%91%E5%82%B7%E4%BA%BA%E6%A1%88%E5%BC%95%E7%99%BC%E6%8A%97%E8%AD%B0-%E8%AD%A6%E6%96%B9%E5%87%BA%E5%8B%95%E6%B0%B4%E7%82%AE%E9%A9%85%E6%95%A3%E7%B8%B1%E7%81%AB%E7%A4%BA%E5%A8%81%E8%80%85-%E6%9C%89%E7%89%87",
+    "timestamp": "2026-06-10T22:30:46.292Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "世界盃有趣數據　墨西哥成首個3屆主辦國　Sam哥有望6屆為國效力",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260610/1141189802020835328530748.png/n6XDidWtLv5mX4CyJ6S-dZCwtXPR8IRsJqavrSamr60?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60358643/%E6%B8%AF%E8%B6%B355%E5%B9%B4%E4%BE%86%E9%A6%96%E8%B2%A0%E6%9F%AC%E5%9F%94%E5%AF%A8-%E7%9B%A7%E6%AF%94%E5%BA%A6%E9%9A%AA%E8%88%87%E7%90%83%E8%BF%B7%E6%8E%80%E7%BD%B5%E6%88%B0-%E5%BC%B7%E8%AA%BF%E7%90%83%E9%9A%8A%E9%9C%80%E8%A6%81%E6%99%82%E9%96%93",
     "timestamp": "2026-06-09T18:32:25.397Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "港鐵東鐵綫增設車廂編號貼紙　約人會合輕鬆得知「第幾卡幾號門」",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260610/1141170476350312448369124.jpeg/Sa4BvDstSTOj3Wxar9iaz9d3aXH6rtlV7YRyde2EcnU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60358634/%E6%B8%AF%E9%90%B5%E6%9D%B1%E9%90%B5%E7%B6%AB%E5%A2%9E%E8%A8%AD%E8%BB%8A%E5%BB%82%E7%B7%A8%E8%99%9F%E8%B2%BC%E7%B4%99-%E7%B4%84%E4%BA%BA%E6%9C%83%E5%90%88%E8%BC%95%E9%AC%86%E5%BE%97%E7%9F%A5-%E7%AC%AC%E5%B9%BE%E5%8D%A1%E5%B9%BE%E8%99%9F%E9%96%80",
-    "timestamp": "2026-06-09T16:42:54.039Z",
     "strategy": ".content-card__main"
   }
 ];
