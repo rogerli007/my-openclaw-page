@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-11T01:14:43.257Z
+// Last updated: 2026-06-11T02:08:40.546Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "風癩｜天氣熱易發蕁麻疹　中醫教3日常預防方法　2穴位舒緩止癢",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260609/1141051372901240832576890.jpeg/mKXC3OcdnsiV7CHBIgfrkZ1NiQA7pfAd9QvA5fULwOU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%86%AB%E5%B8%ABEasy/60342658/%E9%A2%A8%E7%99%A9-%E5%A4%A9%E6%B0%A3%E7%86%B1%E6%98%93%E7%99%BC%E8%95%81%E9%BA%BB%E7%96%B9-%E4%B8%AD%E9%86%AB%E6%95%993%E6%97%A5%E5%B8%B8%E9%A0%90%E9%98%B2%E6%96%B9%E6%B3%95-2%E7%A9%B4%E4%BD%8D%E8%88%92%E7%B7%A9%E6%AD%A2%E7%99%A2",
+    "timestamp": "2026-06-11T02:08:40.546Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "內媒︰中國5月份物價剪刀差擴大　專家稱促消費政策有加力空間",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260609/1141117259637329920423601.jpeg/KxRhgy9Vk1uAPqIyU_2eYcAh6byvZ7Q9xeLNv8Xizb8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60358579/%E6%AD%90%E9%8C%A6%E6%A3%A0%E5%86%8D%E7%88%86%E6%AC%BA%E5%87%8C%E4%BA%8B%E4%BB%B6-%E7%9B%AE%E6%93%8A%E6%96%B0%E6%98%9F%E5%94%94%E9%86%92%E7%9B%AE%E8%A2%AB%E6%95%99%E6%BC%94%E6%8E%8C%E6%91%91%E6%88%B2-%E5%80%8B%E5%80%8B%E5%9F%8B%E5%8E%BB%E5%86%9A%E4%BD%A2",
     "timestamp": "2026-06-09T22:43:07.106Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普稱將回應直升機遭擊落　伊朗外長促撤離否則時刻面臨風險",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260610/1141236458913271808062594.jpeg/X6zvh79F0oyw8DAaebIc8du57QxCcmk-y_MiP8vzIj8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60358649/%E7%89%B9%E6%9C%97%E6%99%AE%E7%A8%B1%E5%B0%87%E5%9B%9E%E6%87%89%E7%9B%B4%E5%8D%87%E6%A9%9F%E9%81%AD%E6%93%8A%E8%90%BD-%E4%BC%8A%E6%9C%97%E5%A4%96%E9%95%B7%E4%BF%83%E6%92%A4%E9%9B%A2%E5%90%A6%E5%89%87%E6%99%82%E5%88%BB%E9%9D%A2%E8%87%A8%E9%A2%A8%E9%9A%AA",
-    "timestamp": "2026-06-09T21:17:45.945Z",
     "strategy": ".content-card__main"
   }
 ];
