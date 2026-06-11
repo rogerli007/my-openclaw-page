@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-11T08:41:40.590Z
+// Last updated: 2026-06-11T11:54:16.797Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美軍阿曼灣擊沉違封鎖令油輪　3名印籍船員喪生　印度抗議",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260611/1141829617028435968829354.jpeg/UdFvapkOoq_3IgFj_0QwDzFEbQ_HIKURTQUSiE0FEog?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60359369/%E7%BE%8E%E8%BB%8D%E9%98%BF%E6%9B%BC%E7%81%A3%E6%93%8A%E6%B2%89%E9%81%95%E5%B0%81%E9%8E%96%E4%BB%A4%E6%B2%B9%E8%BC%AA-3%E5%90%8D%E5%8D%B0%E7%B1%8D%E8%88%B9%E5%93%A1%E5%96%AA%E7%94%9F-%E5%8D%B0%E5%BA%A6%E6%8A%97%E8%AD%B0",
+    "timestamp": "2026-06-11T11:54:16.797Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "富達高盛料聯儲局今年按兵不動　減息空間有限加息機率不大",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20200414/326771270115004416.jpeg/xo983E9ZxGQzBLEBjl7OLDqjyIG29tNZjoRhzI6EYcw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60358734/ai%E6%A6%82%E5%BF%B5%E8%82%A1%E6%8D%B1%E6%B2%BD-%E8%81%AF%E6%83%B3%E5%8F%8A%E6%99%BA%E8%AD%9C%E7%80%89%E4%B8%80%E6%88%90-%E5%85%A9%E7%A7%91%E7%B6%B2%E9%A8%B0%E8%A8%8A%E5%8F%8A%E7%BE%8E%E5%9C%98%E5%8D%BB%E9%80%86%E5%B8%82%E4%B8%8A%E6%8F%9A3",
     "timestamp": "2026-06-10T03:26:30.212Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "三星電子及SK海力士據報或本月內　公布在韓國當地投資計劃",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260601/1138149257589559296972186.jpeg/QxUKngJlnRPTVXm36DRMJgS8UReoMy8XgVBErYFQRK0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60358681/%E4%B8%89%E6%98%9F%E9%9B%BB%E5%AD%90%E5%8F%8Ask%E6%B5%B7%E5%8A%9B%E5%A3%AB%E6%93%9A%E5%A0%B1%E6%88%96%E6%9C%AC%E6%9C%88%E5%85%A7-%E5%85%AC%E5%B8%83%E5%9C%A8%E9%9F%93%E5%9C%8B%E7%95%B6%E5%9C%B0%E6%8A%95%E8%B3%87%E8%A8%88%E5%8A%83",
-    "timestamp": "2026-06-10T02:02:52.225Z",
     "strategy": ".content-card__main"
   }
 ];
