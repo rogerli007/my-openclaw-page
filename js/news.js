@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-11T03:31:40.234Z
+// Last updated: 2026-06-11T05:14:19.036Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "身穿西裝和習近平站在一起　金正恩將全面登上國際舞台",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260609/1140817280322506752027438.jpeg/OkT64GGTqEv-11b459Mh_-QVQX1SYO-mkIqXMZCKlzE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%9C%8B%E9%9A%9B%E5%88%86%E6%9E%90/60359113/%E8%BA%AB%E7%A9%BF%E8%A5%BF%E8%A3%9D%E5%92%8C%E7%BF%92%E8%BF%91%E5%B9%B3%E7%AB%99%E5%9C%A8%E4%B8%80%E8%B5%B7-%E9%87%91%E6%AD%A3%E6%81%A9%E5%B0%87%E5%85%A8%E9%9D%A2%E7%99%BB%E4%B8%8A%E5%9C%8B%E9%9A%9B%E8%88%9E%E5%8F%B0",
+    "timestamp": "2026-06-11T05:14:19.036Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美國通脹衝高　聯儲局三難動彈不得 | 點經",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/1776785/org/191dc785a9cbefe0d42d4b49797232a7.jpg/HGyoTwmvvU7jusGOwLPzDWk8TnCTlI3P7CRjqewkY6k?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60358630/%E6%81%92%E5%AE%89%E5%9C%8B%E9%9A%9B%E4%B8%BB%E5%B8%AD%E6%96%BD%E6%96%87%E5%8D%9A-%E5%81%A5%E5%BA%B7%E5%8E%9F%E5%9B%A0%E6%9A%AB%E5%81%9C%E5%B1%A5%E8%A1%8C%E8%81%B7%E5%8B%99",
     "timestamp": "2026-06-09T23:51:44.714Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "3米長劇毒眼鏡王蛇闖民居！爬近2幼童極驚險　再圖襲擊電單車現形",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260609/1141031518144040960815432.png/TpCyUCNrNIj2SJQ70D8MMEDSWZGEaDCAoh0WOqIdFjo",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60344700/3%E7%B1%B3%E9%95%B7%E5%8A%87%E6%AF%92%E7%9C%BC%E9%8F%A1%E7%8E%8B%E8%9B%87%E9%97%96%E6%B0%91%E5%B1%85-%E7%88%AC%E8%BF%912%E5%B9%BC%E7%AB%A5%E6%A5%B5%E9%A9%9A%E9%9A%AA-%E5%86%8D%E5%9C%96%E8%A5%B2%E6%93%8A%E9%9B%BB%E5%96%AE%E8%BB%8A%E7%8F%BE%E5%BD%A2",
-    "timestamp": "2026-06-09T23:17:41.623Z",
     "strategy": ".content-card__main"
   }
 ];
