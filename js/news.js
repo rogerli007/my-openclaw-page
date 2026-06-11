@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-11T22:01:21.627Z
+// Last updated: 2026-06-11T22:48:18.012Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "卡尼：應美國要求　將推遲美加跨境大橋通車",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260124/1091770973805350912092716.jpeg/qrje-KnlsiX4cZ0Bq4MW2sxRW7LZcEJKnf-0Kp3_tCo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60359448/%E5%8D%A1%E5%B0%BC-%E6%87%89%E7%BE%8E%E5%9C%8B%E8%A6%81%E6%B1%82-%E5%B0%87%E6%8E%A8%E9%81%B2%E7%BE%8E%E5%8A%A0%E8%B7%A8%E5%A2%83%E5%A4%A7%E6%A9%8B%E9%80%9A%E8%BB%8A",
+    "timestamp": "2026-06-11T22:48:18.012Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "天氣｜今日有幾陣驟雨最高29度　周日至周二雨勢較大及有狂風雷暴",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260611/1141553805595381760870391.jpeg/7t4boOEcOA0ULENACjPa8s0HZyQniv109GPZc_Rj2XM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60359030/%E4%B8%AD%E5%A4%A7%E7%A0%94%E7%A9%B6-%E9%80%BE%E5%8D%8A%E6%99%9A%E6%9C%9Falk%E8%82%BA%E7%99%8C%E6%82%A3%E8%80%85%E7%94%A8%E7%AC%AC%E4%B8%89%E4%BB%A3%E6%A8%99%E9%9D%B6%E8%97%A5%E5%BE%8C-%E9%95%B7%E9%81%947%E5%B9%B4%E7%84%A1%E6%83%A1%E5%8C%96",
     "timestamp": "2026-06-10T17:43:09.995Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普稱勿再襲伊朗否則孤立無援　內塔尼亞胡：或不得不獨自應對",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260408/1118527215101808640670453.jpeg/yMcdcbfVBGBEsoQ0AjXAttg7HZn8hBOVY_ZpD2P2aQ8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60359000/%E7%89%B9%E6%9C%97%E6%99%AE%E7%A8%B1%E5%8B%BF%E5%86%8D%E8%A5%B2%E4%BC%8A%E6%9C%97%E5%90%A6%E5%89%87%E5%AD%A4%E7%AB%8B%E7%84%A1%E6%8F%B4-%E5%85%A7%E5%A1%94%E5%B0%BC%E4%BA%9E%E8%83%A1-%E6%88%96%E4%B8%8D%E5%BE%97%E4%B8%8D%E7%8D%A8%E8%87%AA%E6%87%89%E5%B0%8D",
-    "timestamp": "2026-06-10T14:54:52.154Z",
     "strategy": ".content-card__main"
   }
 ];
