@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-11T07:01:08.271Z
+// Last updated: 2026-06-11T08:41:40.590Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "富達高盛料聯儲局今年按兵不動　減息空間有限加息機率不大",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260128/1093176528113504256954183.jpeg/I1eh_a_SVgIhU356vioyKWx5wO9dCYDKPWGoWD1hqFg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60359265/%E5%AF%8C%E9%81%94%E9%AB%98%E7%9B%9B%E6%96%99%E8%81%AF%E5%84%B2%E5%B1%80%E4%BB%8A%E5%B9%B4%E6%8C%89%E5%85%B5%E4%B8%8D%E5%8B%95-%E6%B8%9B%E6%81%AF%E7%A9%BA%E9%96%93%E6%9C%89%E9%99%90%E5%8A%A0%E6%81%AF%E6%A9%9F%E7%8E%87%E4%B8%8D%E5%A4%A7",
+    "timestamp": "2026-06-11T08:41:40.590Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "樓市復甦新盤定價不再克制　仲量聯行：熱門新盤個別單位加價30%",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260601/1138149257589559296972186.jpeg/QxUKngJlnRPTVXm36DRMJgS8UReoMy8XgVBErYFQRK0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60358681/%E4%B8%89%E6%98%9F%E9%9B%BB%E5%AD%90%E5%8F%8Ask%E6%B5%B7%E5%8A%9B%E5%A3%AB%E6%93%9A%E5%A0%B1%E6%88%96%E6%9C%AC%E6%9C%88%E5%85%A7-%E5%85%AC%E5%B8%83%E5%9C%A8%E9%9F%93%E5%9C%8B%E7%95%B6%E5%9C%B0%E6%8A%95%E8%B3%87%E8%A8%88%E5%8A%83",
     "timestamp": "2026-06-10T02:02:52.225Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "飛機維修員爆癢冒疹！醫生證實禽蟎吸血　籲勿讓鳥類住所附近築巢",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260603/1138648347947569152459036.png/Its3cf8fi_iKoxrpDbpfp3whzYUxa5WClEgZcZRIGXE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60356181/%E9%A3%9B%E6%A9%9F%E7%B6%AD%E4%BF%AE%E5%93%A1%E7%88%86%E7%99%A2%E5%86%92%E7%96%B9-%E9%86%AB%E7%94%9F%E8%AD%89%E5%AF%A6%E7%A6%BD%E8%9F%8E%E5%90%B8%E8%A1%80-%E7%B1%B2%E5%8B%BF%E8%AE%93%E9%B3%A5%E9%A1%9E%E4%BD%8F%E6%89%80%E9%99%84%E8%BF%91%E7%AF%89%E5%B7%A2",
-    "timestamp": "2026-06-10T01:13:35.636Z",
     "strategy": ".content-card__main"
   }
 ];
