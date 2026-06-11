@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-11T13:37:19.917Z
+// Last updated: 2026-06-11T16:35:26.409Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "墨西哥世界盃2026｜國家足球隊球員名單陣容+足球排名+最新賽程",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260418/1122229248505942016701394.jpeg/ULd8CQzVIBNuiC66RGlaO104_FmlTo358demafHXpmk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60341176/%E5%A2%A8%E8%A5%BF%E5%93%A5%E4%B8%96%E7%95%8C%E7%9B%832026-%E5%9C%8B%E5%AE%B6%E8%B6%B3%E7%90%83%E9%9A%8A%E7%90%83%E5%93%A1%E5%90%8D%E5%96%AE%E9%99%A3%E5%AE%B9-%E8%B6%B3%E7%90%83%E6%8E%92%E5%90%8D-%E6%9C%80%E6%96%B0%E8%B3%BD%E7%A8%8B",
+    "timestamp": "2026-06-11T16:35:26.409Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "香港探秘地圖｜丁子朗父母之墓被破壞　劇情雷同寶福山骨灰失竊案",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260610/1141377136184004608176098.jpeg/Hz40wWt7nn6B4BbaM5Oc1yWHyeSgsNEAyMs0scjLNLE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60358798/%E5%BC%97%E8%98%AD%E8%82%AF%E6%96%AF%E5%9D%A6-%E9%9F%B3%E6%A8%82%E5%8A%872026%E6%BE%B3%E9%96%80-%E9%96%80%E7%A5%A8%E6%94%BB%E7%95%A5-%E8%B3%BC%E7%A5%A8%E9%80%A3%E7%B5%90-%E5%BA%A7%E4%BD%8D%E8%A1%A8",
     "timestamp": "2026-06-10T08:24:08.088Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "醫管局高層薪酬屢創新高　議員質疑與社會平行時空　倡與表現掛鉤",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20251221/1079451233850232832039758.jpeg/lSVy2ki1nMW8eH2eF_dqofzYj0f70-xctTTCRLU0wkQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60358817/%E9%86%AB%E7%AE%A1%E5%B1%80%E9%AB%98%E5%B1%A4%E8%96%AA%E9%85%AC%E5%B1%A2%E5%89%B5%E6%96%B0%E9%AB%98-%E8%AD%B0%E5%93%A1%E8%B3%AA%E7%96%91%E8%88%87%E7%A4%BE%E6%9C%83%E5%B9%B3%E8%A1%8C%E6%99%82%E7%A9%BA-%E5%80%A1%E8%88%87%E8%A1%A8%E7%8F%BE%E6%8E%9B%E9%89%A4",
-    "timestamp": "2026-06-10T06:51:15.611Z",
     "strategy": ".content-card__main"
   }
 ];
