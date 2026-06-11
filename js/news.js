@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-10T23:54:07.232Z
+// Last updated: 2026-06-11T01:14:43.257Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "內媒︰中國5月份物價剪刀差擴大　專家稱促消費政策有加力空間",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260611/1141666178180059136614830.jpeg/lgEs9mOVD_ZOHIYCznHygtOweWrw74t6aKcsQWinLEE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60359058/%E5%85%A7%E5%AA%92-%E4%B8%AD%E5%9C%8B5%E6%9C%88%E4%BB%BD%E7%89%A9%E5%83%B9%E5%89%AA%E5%88%80%E5%B7%AE%E6%93%B4%E5%A4%A7-%E5%B0%88%E5%AE%B6%E7%A8%B1%E4%BF%83%E6%B6%88%E8%B2%BB%E6%94%BF%E7%AD%96%E6%9C%89%E5%8A%A0%E5%8A%9B%E7%A9%BA%E9%96%93",
+    "timestamp": "2026-06-11T01:14:43.257Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "留守女子遭同村男設局性侵未遂　勒斃棄屍荒野　盜手機扮在生半月",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260610/1141236458913271808062594.jpeg/X6zvh79F0oyw8DAaebIc8du57QxCcmk-y_MiP8vzIj8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60358649/%E7%89%B9%E6%9C%97%E6%99%AE%E7%A8%B1%E5%B0%87%E5%9B%9E%E6%87%89%E7%9B%B4%E5%8D%87%E6%A9%9F%E9%81%AD%E6%93%8A%E8%90%BD-%E4%BC%8A%E6%9C%97%E5%A4%96%E9%95%B7%E4%BF%83%E6%92%A4%E9%9B%A2%E5%90%A6%E5%89%87%E6%99%82%E5%88%BB%E9%9D%A2%E8%87%A8%E9%A2%A8%E9%9A%AA",
     "timestamp": "2026-06-09T21:17:45.945Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "日本宇都宮市100KG熊翻過圍欄闖入民居　警方用麻醉槍制伏｜有片",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260610/1141224819946164224620795.png/vpkSKPl1TLiYI6SGmaCzbL8LavSjoFkAam-fmGpvn5g?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60358647/%E6%97%A5%E6%9C%AC%E5%AE%87%E9%83%BD%E5%AE%AE%E5%B8%82100kg%E7%86%8A%E7%BF%BB%E9%81%8E%E5%9C%8D%E6%AC%84%E9%97%96%E5%85%A5%E6%B0%91%E5%B1%85-%E8%AD%A6%E6%96%B9%E7%94%A8%E9%BA%BB%E9%86%89%E6%A7%8D%E5%88%B6%E4%BC%8F-%E6%9C%89%E7%89%87",
-    "timestamp": "2026-06-09T20:22:49.543Z",
     "strategy": ".content-card__main"
   }
 ];
