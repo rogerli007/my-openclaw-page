@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-11T23:24:10.810Z
+// Last updated: 2026-06-11T23:59:14.152Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "甲骨文股價收跌逾8%　數據中心成本掩蓋AI相關業務成長",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20241223/947898720132009984068395.jpeg/UgDqM7tUSxDlenBpYegriyXnYjCoOzuale1hz5XtYc8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60359331/%E7%94%B2%E9%AA%A8%E6%96%87%E8%82%A1%E5%83%B9%E6%94%B6%E8%B7%8C%E9%80%BE8-%E6%95%B8%E6%93%9A%E4%B8%AD%E5%BF%83%E6%88%90%E6%9C%AC%E6%8E%A9%E8%93%8Bai%E7%9B%B8%E9%97%9C%E6%A5%AD%E5%8B%99%E6%88%90%E9%95%B7",
+    "timestamp": "2026-06-11T23:59:14.152Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "Ariana Grande促特朗普政府停用其歌曲宣傳政策",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260611/1141599355380174848634817.jpeg/s5vnckgaPqdCsP7dIF-6tLdaI8X-lHjv9nt51_Z7edc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60359040/%E4%B8%96%E7%95%8C%E7%9B%83%E6%9C%89%E8%B6%A3%E6%95%B8%E6%93%9A-%E5%A2%A8%E8%A5%BF%E5%93%A5%E6%88%90%E9%A6%96%E5%80%8B3%E5%B1%86%E4%B8%BB%E8%BE%A6%E5%9C%8B-sam%E5%93%A5%E6%9C%89%E6%9C%9B6%E5%B1%86%E7%82%BA%E5%9C%8B%E6%95%88%E5%8A%9B",
     "timestamp": "2026-06-10T21:35:20.217Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "世界盃｜遭美國拒絕入境　索馬里球證返國獲英雄式歡迎",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260611/1141569241313447936453672.jpeg/K-CR-_hAIIt2psaVAPRU_w9ExthNRseqlSpXNpUqVzY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60359035/%E4%B8%96%E7%95%8C%E7%9B%83-%E9%81%AD%E7%BE%8E%E5%9C%8B%E6%8B%92%E7%B5%95%E5%85%A5%E5%A2%83-%E7%B4%A2%E9%A6%AC%E9%87%8C%E7%90%83%E8%AD%89%E8%BF%94%E5%9C%8B%E7%8D%B2%E8%8B%B1%E9%9B%84%E5%BC%8F%E6%AD%A1%E8%BF%8E",
-    "timestamp": "2026-06-10T19:44:58.791Z",
     "strategy": ".content-card__main"
   }
 ];
