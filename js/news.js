@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-11T11:54:16.797Z
+// Last updated: 2026-06-11T13:37:19.917Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "香港探秘地圖｜丁子朗父母之墓被破壞　劇情雷同寶福山骨灰失竊案",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260611/1141591141662068736891064.jpeg/KGXwR7OI_g5rZnxitgn5jBbrmryemfUNStB5gkrQeYI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60359039/%E9%A6%99%E6%B8%AF%E6%8E%A2%E7%A7%98%E5%9C%B0%E5%9C%96-%E4%B8%81%E5%AD%90%E6%9C%97%E7%88%B6%E6%AF%8D%E4%B9%8B%E5%A2%93%E8%A2%AB%E7%A0%B4%E5%A3%9E-%E5%8A%87%E6%83%85%E9%9B%B7%E5%90%8C%E5%AF%B6%E7%A6%8F%E5%B1%B1%E9%AA%A8%E7%81%B0%E5%A4%B1%E7%AB%8A%E6%A1%88",
+    "timestamp": "2026-06-11T13:37:19.917Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美軍阿曼灣擊沉違封鎖令油輪　3名印籍船員喪生　印度抗議",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20251221/1079451233850232832039758.jpeg/lSVy2ki1nMW8eH2eF_dqofzYj0f70-xctTTCRLU0wkQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60358817/%E9%86%AB%E7%AE%A1%E5%B1%80%E9%AB%98%E5%B1%A4%E8%96%AA%E9%85%AC%E5%B1%A2%E5%89%B5%E6%96%B0%E9%AB%98-%E8%AD%B0%E5%93%A1%E8%B3%AA%E7%96%91%E8%88%87%E7%A4%BE%E6%9C%83%E5%B9%B3%E8%A1%8C%E6%99%82%E7%A9%BA-%E5%80%A1%E8%88%87%E8%A1%A8%E7%8F%BE%E6%8E%9B%E9%89%A4",
     "timestamp": "2026-06-10T06:51:15.611Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "AI概念股捱沽　聯想及智譜瀉一成　兩科網騰訊及美團卻逆市上揚3%",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20200414/326771270115004416.jpeg/xo983E9ZxGQzBLEBjl7OLDqjyIG29tNZjoRhzI6EYcw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60358734/ai%E6%A6%82%E5%BF%B5%E8%82%A1%E6%8D%B1%E6%B2%BD-%E8%81%AF%E6%83%B3%E5%8F%8A%E6%99%BA%E8%AD%9C%E7%80%89%E4%B8%80%E6%88%90-%E5%85%A9%E7%A7%91%E7%B6%B2%E9%A8%B0%E8%A8%8A%E5%8F%8A%E7%BE%8E%E5%9C%98%E5%8D%BB%E9%80%86%E5%B8%82%E4%B8%8A%E6%8F%9A3",
-    "timestamp": "2026-06-10T03:26:30.212Z",
     "strategy": ".content-card__main"
   }
 ];
