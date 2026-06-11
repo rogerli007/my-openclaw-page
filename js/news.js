@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-11T02:08:40.546Z
+// Last updated: 2026-06-11T03:31:40.234Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美國通脹衝高　聯儲局三難動彈不得 | 點經",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20220630/619247848378077184283971.jpeg/C53ndjPV1uCxAkESnQyzupWSctWOCpV0M6b-bTOm_m0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%9C%8B%E9%9A%9B%E5%88%86%E6%9E%90/60359120/%E7%BE%8E%E5%9C%8B%E9%80%9A%E8%84%B9%E8%A1%9D%E9%AB%98-%E8%81%AF%E5%84%B2%E5%B1%80%E4%B8%89%E9%9B%A3%E5%8B%95%E5%BD%88%E4%B8%8D%E5%BE%97-%E9%BB%9E%E7%B6%93",
+    "timestamp": "2026-06-11T03:31:40.234Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "風癩｜天氣熱易發蕁麻疹　中醫教3日常預防方法　2穴位舒緩止癢",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260609/1141031518144040960815432.png/TpCyUCNrNIj2SJQ70D8MMEDSWZGEaDCAoh0WOqIdFjo",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60344700/3%E7%B1%B3%E9%95%B7%E5%8A%87%E6%AF%92%E7%9C%BC%E9%8F%A1%E7%8E%8B%E8%9B%87%E9%97%96%E6%B0%91%E5%B1%85-%E7%88%AC%E8%BF%912%E5%B9%BC%E7%AB%A5%E6%A5%B5%E9%A9%9A%E9%9A%AA-%E5%86%8D%E5%9C%96%E8%A5%B2%E6%93%8A%E9%9B%BB%E5%96%AE%E8%BB%8A%E7%8F%BE%E5%BD%A2",
     "timestamp": "2026-06-09T23:17:41.623Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "歐錦棠再爆欺凌事件　目擊新星唔醒目被教演掌摑戲：個個埋去冚佢",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260609/1141117259637329920423601.jpeg/KxRhgy9Vk1uAPqIyU_2eYcAh6byvZ7Q9xeLNv8Xizb8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60358579/%E6%AD%90%E9%8C%A6%E6%A3%A0%E5%86%8D%E7%88%86%E6%AC%BA%E5%87%8C%E4%BA%8B%E4%BB%B6-%E7%9B%AE%E6%93%8A%E6%96%B0%E6%98%9F%E5%94%94%E9%86%92%E7%9B%AE%E8%A2%AB%E6%95%99%E6%BC%94%E6%8E%8C%E6%91%91%E6%88%B2-%E5%80%8B%E5%80%8B%E5%9F%8B%E5%8E%BB%E5%86%9A%E4%BD%A2",
-    "timestamp": "2026-06-09T22:43:07.106Z",
     "strategy": ".content-card__main"
   }
 ];
