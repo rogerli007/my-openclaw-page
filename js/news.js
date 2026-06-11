@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-11T05:14:19.036Z
+// Last updated: 2026-06-11T07:01:08.271Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "樓市復甦新盤定價不再克制　仲量聯行：熱門新盤個別單位加價30%",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20251006/1051816047306346496718296.jpeg/OZ6MyYHV0uhiHKwyYLFrTtc-D_-Wd58Hibc_34m3P98?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60359205/%E6%A8%93%E5%B8%82%E5%BE%A9%E7%94%A6%E6%96%B0%E7%9B%A4%E5%AE%9A%E5%83%B9%E4%B8%8D%E5%86%8D%E5%85%8B%E5%88%B6-%E4%BB%B2%E9%87%8F%E8%81%AF%E8%A1%8C-%E7%86%B1%E9%96%80%E6%96%B0%E7%9B%A4%E5%80%8B%E5%88%A5%E5%96%AE%E4%BD%8D%E5%8A%A0%E5%83%B930",
+    "timestamp": "2026-06-11T07:01:08.271Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "身穿西裝和習近平站在一起　金正恩將全面登上國際舞台",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260603/1138648347947569152459036.png/Its3cf8fi_iKoxrpDbpfp3whzYUxa5WClEgZcZRIGXE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60356181/%E9%A3%9B%E6%A9%9F%E7%B6%AD%E4%BF%AE%E5%93%A1%E7%88%86%E7%99%A2%E5%86%92%E7%96%B9-%E9%86%AB%E7%94%9F%E8%AD%89%E5%AF%A6%E7%A6%BD%E8%9F%8E%E5%90%B8%E8%A1%80-%E7%B1%B2%E5%8B%BF%E8%AE%93%E9%B3%A5%E9%A1%9E%E4%BD%8F%E6%89%80%E9%99%84%E8%BF%91%E7%AF%89%E5%B7%A2",
     "timestamp": "2026-06-10T01:13:35.636Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "恒安國際主席施文博　健康原因暫停履行職務",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/1776785/org/191dc785a9cbefe0d42d4b49797232a7.jpg/HGyoTwmvvU7jusGOwLPzDWk8TnCTlI3P7CRjqewkY6k?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60358630/%E6%81%92%E5%AE%89%E5%9C%8B%E9%9A%9B%E4%B8%BB%E5%B8%AD%E6%96%BD%E6%96%87%E5%8D%9A-%E5%81%A5%E5%BA%B7%E5%8E%9F%E5%9B%A0%E6%9A%AB%E5%81%9C%E5%B1%A5%E8%A1%8C%E8%81%B7%E5%8B%99",
-    "timestamp": "2026-06-09T23:51:44.714Z",
     "strategy": ".content-card__main"
   }
 ];
