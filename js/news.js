@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-11T20:06:09.903Z
+// Last updated: 2026-06-11T22:01:21.627Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "天氣｜今日有幾陣驟雨最高29度　周日至周二雨勢較大及有狂風雷暴",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260612/1141980312125837312634801.jpeg/CkNdHscl7EEhVdsMt9jw_MSO9cXR7XMk426BluNugZY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60359421/%E5%A4%A9%E6%B0%A3-%E4%BB%8A%E6%97%A5%E6%9C%89%E5%B9%BE%E9%99%A3%E9%A9%9F%E9%9B%A8%E6%9C%80%E9%AB%9829%E5%BA%A6-%E5%91%A8%E6%97%A5%E8%87%B3%E5%91%A8%E4%BA%8C%E9%9B%A8%E5%8B%A2%E8%BC%83%E5%A4%A7%E5%8F%8A%E6%9C%89%E7%8B%82%E9%A2%A8%E9%9B%B7%E6%9A%B4",
+    "timestamp": "2026-06-11T22:01:21.627Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "特朗普：提名SEC前主席克萊頓出任國家情報總監",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260408/1118527215101808640670453.jpeg/yMcdcbfVBGBEsoQ0AjXAttg7HZn8hBOVY_ZpD2P2aQ8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60359000/%E7%89%B9%E6%9C%97%E6%99%AE%E7%A8%B1%E5%8B%BF%E5%86%8D%E8%A5%B2%E4%BC%8A%E6%9C%97%E5%90%A6%E5%89%87%E5%AD%A4%E7%AB%8B%E7%84%A1%E6%8F%B4-%E5%85%A7%E5%A1%94%E5%B0%BC%E4%BA%9E%E8%83%A1-%E6%88%96%E4%B8%8D%E5%BE%97%E4%B8%8D%E7%8D%A8%E8%87%AA%E6%87%89%E5%B0%8D",
     "timestamp": "2026-06-10T14:54:52.154Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "李家超晤哈薩克副總理　冀深化合作　歡迎當地企業善用香港拓商機",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260610/1141488241636020224456287.jpeg/_h0fhSX1UEM6DX4PgS8b7HpRSM3xX976Mo8I3jKPCN4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60359005/%E6%9D%8E%E5%AE%B6%E8%B6%85%E6%99%A4%E5%93%88%E8%96%A9%E5%85%8B%E5%89%AF%E7%B8%BD%E7%90%86-%E5%86%80%E6%B7%B1%E5%8C%96%E5%90%88%E4%BD%9C-%E6%AD%A1%E8%BF%8E%E7%95%B6%E5%9C%B0%E4%BC%81%E6%A5%AD%E5%96%84%E7%94%A8%E9%A6%99%E6%B8%AF%E6%8B%93%E5%95%86%E6%A9%9F",
-    "timestamp": "2026-06-10T13:49:59.239Z",
     "strategy": ".content-card__main"
   }
 ];
