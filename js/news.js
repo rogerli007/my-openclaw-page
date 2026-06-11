@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-11T22:48:18.012Z
+// Last updated: 2026-06-11T23:24:10.810Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "Ariana Grande促特朗普政府停用其歌曲宣傳政策",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250303/973140841436811264893021.jpeg/7vrf66Z6NZOqspDILAyxhsJuoTRuvF8lSJc9nkiXPZ4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60359453/ariana-grande%E4%BF%83%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%E5%81%9C%E7%94%A8%E5%85%B6%E6%AD%8C%E6%9B%B2%E5%AE%A3%E5%82%B3%E6%94%BF%E7%AD%96",
+    "timestamp": "2026-06-11T23:24:10.810Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "卡尼：應美國要求　將推遲美加跨境大橋通車",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260611/1141569241313447936453672.jpeg/K-CR-_hAIIt2psaVAPRU_w9ExthNRseqlSpXNpUqVzY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60359035/%E4%B8%96%E7%95%8C%E7%9B%83-%E9%81%AD%E7%BE%8E%E5%9C%8B%E6%8B%92%E7%B5%95%E5%85%A5%E5%A2%83-%E7%B4%A2%E9%A6%AC%E9%87%8C%E7%90%83%E8%AD%89%E8%BF%94%E5%9C%8B%E7%8D%B2%E8%8B%B1%E9%9B%84%E5%BC%8F%E6%AD%A1%E8%BF%8E",
     "timestamp": "2026-06-10T19:44:58.791Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "中大研究：逾半晚期ALK肺癌患者用第三代標靶藥後　長達7年無惡化",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260611/1141553805595381760870391.jpeg/7t4boOEcOA0ULENACjPa8s0HZyQniv109GPZc_Rj2XM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60359030/%E4%B8%AD%E5%A4%A7%E7%A0%94%E7%A9%B6-%E9%80%BE%E5%8D%8A%E6%99%9A%E6%9C%9Falk%E8%82%BA%E7%99%8C%E6%82%A3%E8%80%85%E7%94%A8%E7%AC%AC%E4%B8%89%E4%BB%A3%E6%A8%99%E9%9D%B6%E8%97%A5%E5%BE%8C-%E9%95%B7%E9%81%947%E5%B9%B4%E7%84%A1%E6%83%A1%E5%8C%96",
-    "timestamp": "2026-06-10T17:43:09.995Z",
     "strategy": ".content-card__main"
   }
 ];
