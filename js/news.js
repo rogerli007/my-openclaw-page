@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-12T21:11:49.159Z
+// Last updated: 2026-06-12T22:42:18.658Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "天氣｜天文台料今日間中有驟雨及雷暴　下周日及一有狂風雷暴",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260608/1140747848875511808182409.jpeg/ZJkM9kJ9CWyxHT_it1jD295Iv3AMA5r7MMIlAyrCJQM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60359837/%E5%A4%A9%E6%B0%A3-%E5%A4%A9%E6%96%87%E5%8F%B0%E6%96%99%E4%BB%8A%E6%97%A5%E9%96%93%E4%B8%AD%E6%9C%89%E9%A9%9F%E9%9B%A8%E5%8F%8A%E9%9B%B7%E6%9A%B4-%E4%B8%8B%E5%91%A8%E6%97%A5%E5%8F%8A%E4%B8%80%E6%9C%89%E7%8B%82%E9%A2%A8%E9%9B%B7%E6%9A%B4",
+    "timestamp": "2026-06-12T22:42:18.658Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "世界盃2026｜加拿大1:1逼和波斯尼亞　取得小組賽零的突破",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260612/1141949178008571904986074.jpeg/n25ot0Ut-cWo-fZpJomZXEhhLp3VadvPMYYR3jGGEd4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60359434/%E7%89%B9%E6%9C%97%E6%99%AE-%E6%8F%90%E5%90%8Dsec%E5%89%8D%E4%B8%BB%E5%B8%AD%E5%85%8B%E8%90%8A%E9%A0%93%E5%87%BA%E4%BB%BB%E5%9C%8B%E5%AE%B6%E6%83%85%E5%A0%B1%E7%B8%BD%E7%9B%A3",
     "timestamp": "2026-06-11T20:06:09.903Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "深水埗男子客廳暈倒　家人報案　送院不治",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260612/1141935844194521088875603.jpeg/M7JNxtbeiKPTksnoJZB7t_QiY4SJHWkH1BaGJdQWhiU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60359431/%E6%B7%B1%E6%B0%B4%E5%9F%97%E7%94%B7%E5%AD%90%E5%AE%A2%E5%BB%B3%E6%9A%88%E5%80%92-%E5%AE%B6%E4%BA%BA%E5%A0%B1%E6%A1%88-%E9%80%81%E9%99%A2%E4%B8%8D%E6%B2%BB",
-    "timestamp": "2026-06-11T19:13:00.814Z",
     "strategy": ".content-card__main"
   }
 ];
