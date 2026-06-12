@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-11T23:59:14.152Z
+// Last updated: 2026-06-12T02:08:45.733Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "華裔夫婦澳洲撈63蟹！辯稱「不知規則」　官斥「極度天真」罰巨款",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260610/1141451429899145216156734.png/rDY3tiTCUH-oDPi7vh5GmCteIhFAl-xKav9ypWr_cqU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E8%A9%B1%E9%A1%8C/60345457/%E8%8F%AF%E8%A3%94%E5%A4%AB%E5%A9%A6%E6%BE%B3%E6%B4%B2%E6%92%8863%E8%9F%B9-%E8%BE%AF%E7%A8%B1-%E4%B8%8D%E7%9F%A5%E8%A6%8F%E5%89%87-%E5%AE%98%E6%96%A5-%E6%A5%B5%E5%BA%A6%E5%A4%A9%E7%9C%9F-%E7%BD%B0%E5%B7%A8%E6%AC%BE",
+    "timestamp": "2026-06-12T02:08:45.733Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "甲骨文股價收跌逾8%　數據中心成本掩蓋AI相關業務成長",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260611/1141620452913844224129458.jpeg/FXDbR9IQsQ_9DlYILx_6uUHrWt42AWW-qDuW_qg7lv4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60359047/%E5%8C%97%E6%84%9B%E7%88%BE%E8%98%AD%E9%9B%A3%E6%B0%91%E5%82%B7%E4%BA%BA%E6%A1%88%E5%BC%95%E7%99%BC%E6%8A%97%E8%AD%B0-%E8%AD%A6%E6%96%B9%E5%87%BA%E5%8B%95%E6%B0%B4%E7%82%AE%E9%A9%85%E6%95%A3%E7%B8%B1%E7%81%AB%E7%A4%BA%E5%A8%81%E8%80%85-%E6%9C%89%E7%89%87",
     "timestamp": "2026-06-10T22:30:46.292Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "世界盃有趣數據　墨西哥成首個3屆主辦國　Sam哥有望6屆為國效力",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260611/1141599355380174848634817.jpeg/s5vnckgaPqdCsP7dIF-6tLdaI8X-lHjv9nt51_Z7edc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60359040/%E4%B8%96%E7%95%8C%E7%9B%83%E6%9C%89%E8%B6%A3%E6%95%B8%E6%93%9A-%E5%A2%A8%E8%A5%BF%E5%93%A5%E6%88%90%E9%A6%96%E5%80%8B3%E5%B1%86%E4%B8%BB%E8%BE%A6%E5%9C%8B-sam%E5%93%A5%E6%9C%89%E6%9C%9B6%E5%B1%86%E7%82%BA%E5%9C%8B%E6%95%88%E5%8A%9B",
-    "timestamp": "2026-06-10T21:35:20.217Z",
     "strategy": ".content-card__main"
   }
 ];
