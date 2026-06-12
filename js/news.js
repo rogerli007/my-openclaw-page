@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-12T22:42:18.658Z
+// Last updated: 2026-06-12T23:55:18.356Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "世界盃2026｜美國開幕禮壓軸登場　Katy Perry與Lisa領銜獻唱",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260613/1142365675986096128348591.jpeg/cNX_nzJhT92c1QNR_f8LlJEtyeWhXSQYarevc2q3r3M?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60359838/%E4%B8%96%E7%95%8C%E7%9B%832026-%E7%BE%8E%E5%9C%8B%E9%96%8B%E5%B9%95%E7%A6%AE%E5%A3%93%E8%BB%B8%E7%99%BB%E5%A0%B4-katy-perry%E8%88%87lisa%E9%A0%98%E9%8A%9C%E7%8D%BB%E5%94%B1",
+    "timestamp": "2026-06-12T23:55:18.356Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "天氣｜天文台料今日間中有驟雨及雷暴　下周日及一有狂風雷暴",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260612/1141980312125837312634801.jpeg/CkNdHscl7EEhVdsMt9jw_MSO9cXR7XMk426BluNugZY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60359421/%E5%A4%A9%E6%B0%A3-%E4%BB%8A%E6%97%A5%E6%9C%89%E5%B9%BE%E9%99%A3%E9%A9%9F%E9%9B%A8%E6%9C%80%E9%AB%9829%E5%BA%A6-%E5%91%A8%E6%97%A5%E8%87%B3%E5%91%A8%E4%BA%8C%E9%9B%A8%E5%8B%A2%E8%BC%83%E5%A4%A7%E5%8F%8A%E6%9C%89%E7%8B%82%E9%A2%A8%E9%9B%B7%E6%9A%B4",
     "timestamp": "2026-06-11T22:01:21.627Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普：提名SEC前主席克萊頓出任國家情報總監",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260612/1141949178008571904986074.jpeg/n25ot0Ut-cWo-fZpJomZXEhhLp3VadvPMYYR3jGGEd4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60359434/%E7%89%B9%E6%9C%97%E6%99%AE-%E6%8F%90%E5%90%8Dsec%E5%89%8D%E4%B8%BB%E5%B8%AD%E5%85%8B%E8%90%8A%E9%A0%93%E5%87%BA%E4%BB%BB%E5%9C%8B%E5%AE%B6%E6%83%85%E5%A0%B1%E7%B8%BD%E7%9B%A3",
-    "timestamp": "2026-06-11T20:06:09.903Z",
     "strategy": ".content-card__main"
   }
 ];
