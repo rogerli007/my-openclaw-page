@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-12T13:58:40.967Z
+// Last updated: 2026-06-12T15:15:26.538Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "紐約男家傳古書竟是富豪失竊物　珍品價約300萬美元　終這樣處理",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260609/1141064471574220800162703.png/bT72JR0IyraLonxr3kPTzqJxGcYPi-G55SIYZuUiGGY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60344320/%E7%B4%90%E7%B4%84%E7%94%B7%E5%AE%B6%E5%82%B3%E5%8F%A4%E6%9B%B8%E7%AB%9F%E6%98%AF%E5%AF%8C%E8%B1%AA%E5%A4%B1%E7%AB%8A%E7%89%A9-%E7%8F%8D%E5%93%81%E5%83%B9%E7%B4%84300%E8%90%AC%E7%BE%8E%E5%85%83-%E7%B5%82%E7%89%A9%E6%AD%B8%E5%8E%9F%E4%B8%BB",
+    "timestamp": "2026-06-12T15:15:26.538Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "Facebook傳死機　逾4萬人報稱受影響",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20251006/1051816047306346496718296.jpeg/OZ6MyYHV0uhiHKwyYLFrTtc-D_-Wd58Hibc_34m3P98?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60359205/%E6%A8%93%E5%B8%82%E5%BE%A9%E7%94%A6%E6%96%B0%E7%9B%A4%E5%AE%9A%E5%83%B9%E4%B8%8D%E5%86%8D%E5%85%8B%E5%88%B6-%E4%BB%B2%E9%87%8F%E8%81%AF%E8%A1%8C-%E7%86%B1%E9%96%80%E6%96%B0%E7%9B%A4%E5%80%8B%E5%88%A5%E5%96%AE%E4%BD%8D%E5%8A%A0%E5%83%B930",
     "timestamp": "2026-06-11T07:01:08.271Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "身穿西裝和習近平站在一起　金正恩將全面登上國際舞台",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260609/1140817280322506752027438.jpeg/OkT64GGTqEv-11b459Mh_-QVQX1SYO-mkIqXMZCKlzE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%9C%8B%E9%9A%9B%E5%88%86%E6%9E%90/60359113/%E8%BA%AB%E7%A9%BF%E8%A5%BF%E8%A3%9D%E5%92%8C%E7%BF%92%E8%BF%91%E5%B9%B3%E7%AB%99%E5%9C%A8%E4%B8%80%E8%B5%B7-%E9%87%91%E6%AD%A3%E6%81%A9%E5%B0%87%E5%85%A8%E9%9D%A2%E7%99%BB%E4%B8%8A%E5%9C%8B%E9%9A%9B%E8%88%9E%E5%8F%B0",
-    "timestamp": "2026-06-11T05:14:19.036Z",
     "strategy": ".content-card__main"
   }
 ];
