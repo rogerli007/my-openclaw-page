@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-12T05:14:27.937Z
+// Last updated: 2026-06-12T06:57:27.811Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "鄭麗文稱習鄭會沒談統一：首要重啟兩岸對話，避免第三次世界大戰",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260612/1142114034196156416702918.jpeg/Bml0S1iHTB_VCZhXsPQ4txHdRskaJ7ul-v4sh_r-LIc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8F%B0%E7%81%A3%E6%96%B0%E8%81%9E/60359607/%E9%84%AD%E9%BA%97%E6%96%87%E7%A8%B1%E7%BF%92%E9%84%AD%E6%9C%83%E6%B2%92%E8%AB%87%E7%B5%B1%E4%B8%80-%E9%A6%96%E8%A6%81%E9%87%8D%E5%95%9F%E5%85%A9%E5%B2%B8%E5%B0%8D%E8%A9%B1-%E9%81%BF%E5%85%8D%E7%AC%AC%E4%B8%89%E6%AC%A1%E4%B8%96%E7%95%8C%E5%A4%A7%E6%88%B0",
+    "timestamp": "2026-06-12T06:57:27.811Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美伊備忘錄據報達共識：霍爾木茲不收費重開　伊朗獲60天制裁豁免",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260611/1141666178180059136614830.jpeg/lgEs9mOVD_ZOHIYCznHygtOweWrw74t6aKcsQWinLEE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60359058/%E5%85%A7%E5%AA%92-%E4%B8%AD%E5%9C%8B5%E6%9C%88%E4%BB%BD%E7%89%A9%E5%83%B9%E5%89%AA%E5%88%80%E5%B7%AE%E6%93%B4%E5%A4%A7-%E5%B0%88%E5%AE%B6%E7%A8%B1%E4%BF%83%E6%B6%88%E8%B2%BB%E6%94%BF%E7%AD%96%E6%9C%89%E5%8A%A0%E5%8A%9B%E7%A9%BA%E9%96%93",
     "timestamp": "2026-06-11T01:14:43.257Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "留守女子遭同村男設局性侵未遂　勒斃棄屍荒野　盜手機扮在生半月",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260610/1141390890971959296349716.png/Wur2w5Wgn9qlHNKsmFdGeK6yhmJmO9Bu1ypG5tcqRuY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E8%A9%B1%E9%A1%8C/60356961/%E7%95%99%E5%AE%88%E5%A5%B3%E5%AD%90%E9%81%AD%E5%90%8C%E6%9D%91%E7%94%B7%E8%A8%AD%E5%B1%80%E6%80%A7%E4%BE%B5%E6%9C%AA%E9%81%82-%E5%8B%92%E6%96%83%E6%A3%84%E5%B1%8D%E8%8D%92%E9%87%8E-%E7%9B%9C%E6%89%8B%E6%A9%9F%E6%89%AE%E5%9C%A8%E7%94%9F%E5%8D%8A%E6%9C%88",
-    "timestamp": "2026-06-10T23:54:07.232Z",
     "strategy": ".content-card__main"
   }
 ];
