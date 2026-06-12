@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-12T02:08:45.733Z
+// Last updated: 2026-06-12T03:32:20.745Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "五金大王朱國基4486萬購葵涌永得利廣場　呎價僅兩千、上手腰斬",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260612/1142064605602779136243560.jpeg/pYeTrGCBVlDKWtJEmJa5vDYDJ1UlIIGPzmdMAs5nTAI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60359509/%E4%BA%94%E9%87%91%E5%A4%A7%E7%8E%8B%E6%9C%B1%E5%9C%8B%E5%9F%BA4486%E8%90%AC%E8%B3%BC%E8%91%B5%E6%B6%8C%E6%B0%B8%E5%BE%97%E5%88%A9%E5%BB%A3%E5%A0%B4-%E5%91%8E%E5%83%B9%E5%83%85%E5%85%A9%E5%8D%83-%E4%B8%8A%E6%89%8B%E8%85%B0%E6%96%AC",
+    "timestamp": "2026-06-12T03:32:20.745Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "華裔夫婦澳洲撈63蟹！辯稱「不知規則」　官斥「極度天真」罰巨款",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260611/1141633739239985152950413.jpeg/NBI6WDM5Tk2p3NNySaRbfUzGKgRUROiQIb253iG9ud4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60359051/%E6%AD%90%E6%B4%B2%E6%99%BA%E5%BA%AB%E8%AA%BF%E6%9F%A5-%E5%83%8511-%E5%8F%97%E8%A8%AA%E6%AD%90%E6%B4%B2%E4%BA%BA%E8%A6%96%E7%BE%8E%E5%9C%8B%E7%82%BA%E7%9B%9F%E5%8F%8B",
     "timestamp": "2026-06-10T23:10:36.737Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "北愛爾蘭難民傷人案引發抗議　警方出動水炮驅散縱火示威者｜有片",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260611/1141620452913844224129458.jpeg/FXDbR9IQsQ_9DlYILx_6uUHrWt42AWW-qDuW_qg7lv4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60359047/%E5%8C%97%E6%84%9B%E7%88%BE%E8%98%AD%E9%9B%A3%E6%B0%91%E5%82%B7%E4%BA%BA%E6%A1%88%E5%BC%95%E7%99%BC%E6%8A%97%E8%AD%B0-%E8%AD%A6%E6%96%B9%E5%87%BA%E5%8B%95%E6%B0%B4%E7%82%AE%E9%A9%85%E6%95%A3%E7%B8%B1%E7%81%AB%E7%A4%BA%E5%A8%81%E8%80%85-%E6%9C%89%E7%89%87",
-    "timestamp": "2026-06-10T22:30:46.292Z",
     "strategy": ".content-card__main"
   }
 ];
