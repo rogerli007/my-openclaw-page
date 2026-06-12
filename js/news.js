@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-12T17:31:47.537Z
+// Last updated: 2026-06-12T18:21:36.025Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "巴基斯坦總理：美伊就協議最終文本達一致　伊外長指從未如此接近",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260613/1142284540266418176094723.jpeg/irHNL2g-phsKs84mMwbopPLPYShKNiVS5Eb8KuRG_Co?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60359820/%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E7%B8%BD%E7%90%86-%E7%BE%8E%E4%BC%8A%E5%B0%B1%E5%8D%94%E8%AD%B0%E6%9C%80%E7%B5%82%E6%96%87%E6%9C%AC%E9%81%94%E4%B8%80%E8%87%B4-%E4%BC%8A%E5%A4%96%E9%95%B7%E6%8C%87%E5%BE%9E%E6%9C%AA%E5%A6%82%E6%AD%A4%E6%8E%A5%E8%BF%91",
+    "timestamp": "2026-06-12T18:21:36.025Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "巴拉圭世界盃2026｜足球排名+國家隊球員名單陣容+最新賽程",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260611/1141591141662068736891064.jpeg/KGXwR7OI_g5rZnxitgn5jBbrmryemfUNStB5gkrQeYI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60359039/%E9%A6%99%E6%B8%AF%E6%8E%A2%E7%A7%98%E5%9C%B0%E5%9C%96-%E4%B8%81%E5%AD%90%E6%9C%97%E7%88%B6%E6%AF%8D%E4%B9%8B%E5%A2%93%E8%A2%AB%E7%A0%B4%E5%A3%9E-%E5%8A%87%E6%83%85%E9%9B%B7%E5%90%8C%E5%AF%B6%E7%A6%8F%E5%B1%B1%E9%AA%A8%E7%81%B0%E5%A4%B1%E7%AB%8A%E6%A1%88",
     "timestamp": "2026-06-11T13:37:19.917Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美軍阿曼灣擊沉違封鎖令油輪　3名印籍船員喪生　印度抗議",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260611/1141829617028435968829354.jpeg/UdFvapkOoq_3IgFj_0QwDzFEbQ_HIKURTQUSiE0FEog?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60359369/%E7%BE%8E%E8%BB%8D%E9%98%BF%E6%9B%BC%E7%81%A3%E6%93%8A%E6%B2%89%E9%81%95%E5%B0%81%E9%8E%96%E4%BB%A4%E6%B2%B9%E8%BC%AA-3%E5%90%8D%E5%8D%B0%E7%B1%8D%E8%88%B9%E5%93%A1%E5%96%AA%E7%94%9F-%E5%8D%B0%E5%BA%A6%E6%8A%97%E8%AD%B0",
-    "timestamp": "2026-06-11T11:54:16.797Z",
     "strategy": ".content-card__main"
   }
 ];
