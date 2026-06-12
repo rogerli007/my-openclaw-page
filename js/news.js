@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-12T06:57:27.811Z
+// Last updated: 2026-06-12T10:15:45.912Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "的士司機多收5毫子遭投訴！行家怒批　網民反駁：收少5毫唔得？",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260612/1141928964617408512264108.png/9KI65-43bwfefQYR2HsHIwsjUKnm1xxeGQ3zXBkN81w",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60359397/%E7%9A%84%E5%A3%AB%E5%8F%B8%E6%A9%9F%E5%A4%9A%E6%94%B65%E6%AF%AB%E5%AD%90%E9%81%AD%E6%8A%95%E8%A8%B4-%E8%A1%8C%E5%AE%B6%E6%80%92%E6%89%B9-%E7%B6%B2%E6%B0%91%E5%8F%8D%E9%A7%81-%E6%94%B6%E5%B0%915%E6%AF%AB%E5%94%94%E5%BE%97",
+    "timestamp": "2026-06-12T10:15:45.912Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "鄭麗文稱習鄭會沒談統一：首要重啟兩岸對話，避免第三次世界大戰",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260609/1141051372901240832576890.jpeg/mKXC3OcdnsiV7CHBIgfrkZ1NiQA7pfAd9QvA5fULwOU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%86%AB%E5%B8%ABEasy/60342658/%E9%A2%A8%E7%99%A9-%E5%A4%A9%E6%B0%A3%E7%86%B1%E6%98%93%E7%99%BC%E8%95%81%E9%BA%BB%E7%96%B9-%E4%B8%AD%E9%86%AB%E6%95%993%E6%97%A5%E5%B8%B8%E9%A0%90%E9%98%B2%E6%96%B9%E6%B3%95-2%E7%A9%B4%E4%BD%8D%E8%88%92%E7%B7%A9%E6%AD%A2%E7%99%A2",
     "timestamp": "2026-06-11T02:08:40.546Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "內媒︰中國5月份物價剪刀差擴大　專家稱促消費政策有加力空間",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260611/1141666178180059136614830.jpeg/lgEs9mOVD_ZOHIYCznHygtOweWrw74t6aKcsQWinLEE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60359058/%E5%85%A7%E5%AA%92-%E4%B8%AD%E5%9C%8B5%E6%9C%88%E4%BB%BD%E7%89%A9%E5%83%B9%E5%89%AA%E5%88%80%E5%B7%AE%E6%93%B4%E5%A4%A7-%E5%B0%88%E5%AE%B6%E7%A8%B1%E4%BF%83%E6%B6%88%E8%B2%BB%E6%94%BF%E7%AD%96%E6%9C%89%E5%8A%A0%E5%8A%9B%E7%A9%BA%E9%96%93",
-    "timestamp": "2026-06-11T01:14:43.257Z",
     "strategy": ".content-card__main"
   }
 ];
