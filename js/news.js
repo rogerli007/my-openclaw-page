@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-12T18:21:36.025Z
+// Last updated: 2026-06-12T19:20:51.930Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "銅鑼灣的士泊馬路中間阻路　司機遭拍醒通過測試　警帶往醫院驗血",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260613/1142300358727438336147609.jpeg/oGBTuqOVocwFyT9M8_imRluoC2b-BP-rTAKm_nYCpv4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60359824/%E9%8A%85%E9%91%BC%E7%81%A3%E7%9A%84%E5%A3%AB%E6%B3%8A%E9%A6%AC%E8%B7%AF%E4%B8%AD%E9%96%93%E9%98%BB%E8%B7%AF-%E5%8F%B8%E6%A9%9F%E9%81%AD%E6%8B%8D%E9%86%92%E9%80%9A%E9%81%8E%E6%B8%AC%E8%A9%A6-%E8%AD%A6%E5%B8%B6%E5%BE%80%E9%86%AB%E9%99%A2%E9%A9%97%E8%A1%80",
+    "timestamp": "2026-06-12T19:20:51.930Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "巴基斯坦總理：美伊就協議最終文本達一致　伊外長指從未如此接近",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260418/1122229248505942016701394.jpeg/ULd8CQzVIBNuiC66RGlaO104_FmlTo358demafHXpmk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60341176/%E5%A2%A8%E8%A5%BF%E5%93%A5%E4%B8%96%E7%95%8C%E7%9B%832026-%E5%9C%8B%E5%AE%B6%E8%B6%B3%E7%90%83%E9%9A%8A%E7%90%83%E5%93%A1%E5%90%8D%E5%96%AE%E9%99%A3%E5%AE%B9-%E8%B6%B3%E7%90%83%E6%8E%92%E5%90%8D-%E6%9C%80%E6%96%B0%E8%B3%BD%E7%A8%8B",
     "timestamp": "2026-06-11T16:35:26.409Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "香港探秘地圖｜丁子朗父母之墓被破壞　劇情雷同寶福山骨灰失竊案",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260611/1141591141662068736891064.jpeg/KGXwR7OI_g5rZnxitgn5jBbrmryemfUNStB5gkrQeYI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60359039/%E9%A6%99%E6%B8%AF%E6%8E%A2%E7%A7%98%E5%9C%B0%E5%9C%96-%E4%B8%81%E5%AD%90%E6%9C%97%E7%88%B6%E6%AF%8D%E4%B9%8B%E5%A2%93%E8%A2%AB%E7%A0%B4%E5%A3%9E-%E5%8A%87%E6%83%85%E9%9B%B7%E5%90%8C%E5%AF%B6%E7%A6%8F%E5%B1%B1%E9%AA%A8%E7%81%B0%E5%A4%B1%E7%AB%8A%E6%A1%88",
-    "timestamp": "2026-06-11T13:37:19.917Z",
     "strategy": ".content-card__main"
   }
 ];
