@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-12T19:20:51.930Z
+// Last updated: 2026-06-12T20:22:10.980Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "銅鑼灣的士泊馬路中間阻路　司機遭拍醒涉藥駕被捕　警另發告票",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260613/1142318894698991616798143.jpeg/tkMeBsm9WRLXt1bhPpn0UnwZBJTZWKr3K65MwiuuTMI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60359824/%E9%8A%85%E9%91%BC%E7%81%A3%E7%9A%84%E5%A3%AB%E6%B3%8A%E9%A6%AC%E8%B7%AF%E4%B8%AD%E9%96%93%E9%98%BB%E8%B7%AF-%E5%8F%B8%E6%A9%9F%E9%81%AD%E6%8B%8D%E9%86%92%E6%B6%89%E8%97%A5%E9%A7%95%E8%A2%AB%E6%8D%95-%E8%AD%A6%E5%8F%A6%E7%99%BC%E5%91%8A%E7%A5%A8",
+    "timestamp": "2026-06-12T20:22:10.980Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "銅鑼灣的士泊馬路中間阻路　司機遭拍醒通過測試　警帶往醫院驗血",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260317/1110711672412049408842651.jpeg/EW9UAzhtQ-9MHAj9wk67niLFZt2D_Og8lc4cppXOHKY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60359426/%E4%B8%96%E9%8A%80%E4%B8%8B%E8%AA%BF%E4%BB%8A%E5%B9%B4%E7%92%B0%E7%90%83%E7%B6%93%E6%BF%9F%E5%A2%9E%E9%95%B7%E9%A0%90%E6%B8%AC%E8%87%B32-5-%E8%AD%A6%E5%91%8A%E6%88%96%E6%9C%89%E9%80%B2%E4%B8%80%E6%AD%A5%E4%B8%8B%E8%A1%8C%E9%A2%A8%E9%9A%AA",
     "timestamp": "2026-06-11T17:57:54.377Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "墨西哥世界盃2026｜國家足球隊球員名單陣容+足球排名+最新賽程",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260418/1122229248505942016701394.jpeg/ULd8CQzVIBNuiC66RGlaO104_FmlTo358demafHXpmk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60341176/%E5%A2%A8%E8%A5%BF%E5%93%A5%E4%B8%96%E7%95%8C%E7%9B%832026-%E5%9C%8B%E5%AE%B6%E8%B6%B3%E7%90%83%E9%9A%8A%E7%90%83%E5%93%A1%E5%90%8D%E5%96%AE%E9%99%A3%E5%AE%B9-%E8%B6%B3%E7%90%83%E6%8E%92%E5%90%8D-%E6%9C%80%E6%96%B0%E8%B3%BD%E7%A8%8B",
-    "timestamp": "2026-06-11T16:35:26.409Z",
     "strategy": ".content-card__main"
   }
 ];
