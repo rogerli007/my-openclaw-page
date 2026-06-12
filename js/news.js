@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-12T12:49:56.742Z
+// Last updated: 2026-06-12T13:58:40.967Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "Facebook傳死機　逾4萬人報稱受影響",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/1862546/org/1d660295efb9fba431f4752dc8bcb7e6.jpg/RfTEaSX3lVHyZPmmj8D2g0fR8KyPjWuRwLLbL8Cy2y8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60359800/facebook%E5%82%B3%E6%AD%BB%E6%A9%9F-%E9%80%BE4%E8%90%AC%E4%BA%BA%E5%A0%B1%E7%A8%B1%E5%8F%97%E5%BD%B1%E9%9F%BF",
+    "timestamp": "2026-06-12T13:58:40.967Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "廣州常規辦賽馬　海關開發「馬臉智能識別」系統只須3秒準確率99%",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260609/1140817280322506752027438.jpeg/OkT64GGTqEv-11b459Mh_-QVQX1SYO-mkIqXMZCKlzE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%9C%8B%E9%9A%9B%E5%88%86%E6%9E%90/60359113/%E8%BA%AB%E7%A9%BF%E8%A5%BF%E8%A3%9D%E5%92%8C%E7%BF%92%E8%BF%91%E5%B9%B3%E7%AB%99%E5%9C%A8%E4%B8%80%E8%B5%B7-%E9%87%91%E6%AD%A3%E6%81%A9%E5%B0%87%E5%85%A8%E9%9D%A2%E7%99%BB%E4%B8%8A%E5%9C%8B%E9%9A%9B%E8%88%9E%E5%8F%B0",
     "timestamp": "2026-06-11T05:14:19.036Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美國通脹衝高　聯儲局三難動彈不得 | 點經",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20220630/619247848378077184283971.jpeg/C53ndjPV1uCxAkESnQyzupWSctWOCpV0M6b-bTOm_m0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%9C%8B%E9%9A%9B%E5%88%86%E6%9E%90/60359120/%E7%BE%8E%E5%9C%8B%E9%80%9A%E8%84%B9%E8%A1%9D%E9%AB%98-%E8%81%AF%E5%84%B2%E5%B1%80%E4%B8%89%E9%9B%A3%E5%8B%95%E5%BD%88%E4%B8%8D%E5%BE%97-%E9%BB%9E%E7%B6%93",
-    "timestamp": "2026-06-11T03:31:40.234Z",
     "strategy": ".content-card__main"
   }
 ];
