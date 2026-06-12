@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-12T20:22:10.980Z
+// Last updated: 2026-06-12T21:11:49.159Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "世界盃2026｜加拿大1:1逼和波斯尼亞　取得小組賽零的突破",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260613/1142328312123625472215409.jpeg/RlsjXkIDIEgYExQYthILt9G-Zf3U5Cgd-9SQrPvUkKw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60359825/%E4%B8%96%E7%95%8C%E7%9B%832026-%E5%8A%A0%E6%8B%BF%E5%A4%A71-1%E9%80%BC%E5%92%8C%E6%B3%A2%E6%96%AF%E5%B0%BC%E4%BA%9E-%E5%8F%96%E5%BE%97%E5%B0%8F%E7%B5%84%E8%B3%BD%E9%9B%B6%E7%9A%84%E7%AA%81%E7%A0%B4",
+    "timestamp": "2026-06-12T21:11:49.159Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "銅鑼灣的士泊馬路中間阻路　司機遭拍醒涉藥駕被捕　警另發告票",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260612/1141935844194521088875603.jpeg/M7JNxtbeiKPTksnoJZB7t_QiY4SJHWkH1BaGJdQWhiU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60359431/%E6%B7%B1%E6%B0%B4%E5%9F%97%E7%94%B7%E5%AD%90%E5%AE%A2%E5%BB%B3%E6%9A%88%E5%80%92-%E5%AE%B6%E4%BA%BA%E5%A0%B1%E6%A1%88-%E9%80%81%E9%99%A2%E4%B8%8D%E6%B2%BB",
     "timestamp": "2026-06-11T19:13:00.814Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "世銀下調今年環球經濟增長預測至2.5%　警告或有進一步下行風險",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260317/1110711672412049408842651.jpeg/EW9UAzhtQ-9MHAj9wk67niLFZt2D_Og8lc4cppXOHKY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60359426/%E4%B8%96%E9%8A%80%E4%B8%8B%E8%AA%BF%E4%BB%8A%E5%B9%B4%E7%92%B0%E7%90%83%E7%B6%93%E6%BF%9F%E5%A2%9E%E9%95%B7%E9%A0%90%E6%B8%AC%E8%87%B32-5-%E8%AD%A6%E5%91%8A%E6%88%96%E6%9C%89%E9%80%B2%E4%B8%80%E6%AD%A5%E4%B8%8B%E8%A1%8C%E9%A2%A8%E9%9A%AA",
-    "timestamp": "2026-06-11T17:57:54.377Z",
     "strategy": ".content-card__main"
   }
 ];
