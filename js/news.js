@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-12T15:15:26.538Z
+// Last updated: 2026-06-12T16:30:08.962Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "將軍澳尚德邨13歲少女疑偷家中$38萬現金　母親大義滅親報警拉人",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260613/1142259293991473152456839.jpeg/MXnqDTJp9NUPtJpivCQ2nRgvx1OEinnft_DFt43wxbc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60359816/%E5%B0%87%E8%BB%8D%E6%BE%B3%E5%B0%9A%E5%BE%B7%E9%82%A813%E6%AD%B2%E5%B0%91%E5%A5%B3%E7%96%91%E5%81%B7%E5%AE%B6%E4%B8%AD-38%E8%90%AC%E7%8F%BE%E9%87%91-%E6%AF%8D%E8%A6%AA%E5%A4%A7%E7%BE%A9%E6%BB%85%E8%A6%AA%E5%A0%B1%E8%AD%A6%E6%8B%89%E4%BA%BA",
+    "timestamp": "2026-06-12T16:30:08.962Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "紐約男家傳古書竟是富豪失竊物　珍品價約300萬美元　終這樣處理",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260128/1093176528113504256954183.jpeg/I1eh_a_SVgIhU356vioyKWx5wO9dCYDKPWGoWD1hqFg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60359265/%E5%AF%8C%E9%81%94%E9%AB%98%E7%9B%9B%E6%96%99%E8%81%AF%E5%84%B2%E5%B1%80%E4%BB%8A%E5%B9%B4%E6%8C%89%E5%85%B5%E4%B8%8D%E5%8B%95-%E6%B8%9B%E6%81%AF%E7%A9%BA%E9%96%93%E6%9C%89%E9%99%90%E5%8A%A0%E6%81%AF%E6%A9%9F%E7%8E%87%E4%B8%8D%E5%A4%A7",
     "timestamp": "2026-06-11T08:41:40.590Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "樓市復甦新盤定價不再克制　仲量聯行：熱門新盤個別單位加價30%",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20251006/1051816047306346496718296.jpeg/OZ6MyYHV0uhiHKwyYLFrTtc-D_-Wd58Hibc_34m3P98?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60359205/%E6%A8%93%E5%B8%82%E5%BE%A9%E7%94%A6%E6%96%B0%E7%9B%A4%E5%AE%9A%E5%83%B9%E4%B8%8D%E5%86%8D%E5%85%8B%E5%88%B6-%E4%BB%B2%E9%87%8F%E8%81%AF%E8%A1%8C-%E7%86%B1%E9%96%80%E6%96%B0%E7%9B%A4%E5%80%8B%E5%88%A5%E5%96%AE%E4%BD%8D%E5%8A%A0%E5%83%B930",
-    "timestamp": "2026-06-11T07:01:08.271Z",
     "strategy": ".content-card__main"
   }
 ];
