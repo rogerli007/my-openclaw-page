@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-12T16:30:08.962Z
+// Last updated: 2026-06-12T17:31:47.537Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "巴拉圭世界盃2026｜足球排名+國家隊球員名單陣容+最新賽程",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260430/1126548935318441984534861.jpeg/ilPvmHUz0F7prgqut9XchBV6_W-Ir-ztVPIQsVTyELE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60342777/%E4%B8%96%E7%95%8C%E7%9B%832026%E5%B7%B4%E6%8B%89%E5%9C%AD-%E8%B6%B3%E7%90%83%E6%8E%92%E5%90%8D-%E5%9C%8B%E5%AE%B6%E9%9A%8A%E7%90%83%E5%93%A1%E5%90%8D%E5%96%AE%E9%99%A3%E5%AE%B9-%E6%9C%80%E6%96%B0%E8%B3%BD%E7%A8%8B",
+    "timestamp": "2026-06-12T17:31:47.537Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "將軍澳尚德邨13歲少女疑偷家中$38萬現金　母親大義滅親報警拉人",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260611/1141829617028435968829354.jpeg/UdFvapkOoq_3IgFj_0QwDzFEbQ_HIKURTQUSiE0FEog?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60359369/%E7%BE%8E%E8%BB%8D%E9%98%BF%E6%9B%BC%E7%81%A3%E6%93%8A%E6%B2%89%E9%81%95%E5%B0%81%E9%8E%96%E4%BB%A4%E6%B2%B9%E8%BC%AA-3%E5%90%8D%E5%8D%B0%E7%B1%8D%E8%88%B9%E5%93%A1%E5%96%AA%E7%94%9F-%E5%8D%B0%E5%BA%A6%E6%8A%97%E8%AD%B0",
     "timestamp": "2026-06-11T11:54:16.797Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "富達高盛料聯儲局今年按兵不動　減息空間有限加息機率不大",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260128/1093176528113504256954183.jpeg/I1eh_a_SVgIhU356vioyKWx5wO9dCYDKPWGoWD1hqFg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60359265/%E5%AF%8C%E9%81%94%E9%AB%98%E7%9B%9B%E6%96%99%E8%81%AF%E5%84%B2%E5%B1%80%E4%BB%8A%E5%B9%B4%E6%8C%89%E5%85%B5%E4%B8%8D%E5%8B%95-%E6%B8%9B%E6%81%AF%E7%A9%BA%E9%96%93%E6%9C%89%E9%99%90%E5%8A%A0%E6%81%AF%E6%A9%9F%E7%8E%87%E4%B8%8D%E5%A4%A7",
-    "timestamp": "2026-06-11T08:41:40.590Z",
     "strategy": ".content-card__main"
   }
 ];
