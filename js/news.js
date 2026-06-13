@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-13T21:58:09.335Z
+// Last updated: 2026-06-13T22:33:11.463Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "上海婆婆踩單車逆行自摔　反賴電單車兼拒賠　警展示CCTV打臉",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260613/1142479832467116032816205.png/LGwQ-E6OlpHxT9a93ddpn33kV8__-S01SUmnR0lJp0c?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60359311/%E4%B8%8A%E6%B5%B7%E5%A9%86%E5%A9%86%E8%B8%A9%E5%96%AE%E8%BB%8A%E9%80%86%E8%A1%8C%E8%87%AA%E6%91%94-%E5%8F%8D%E8%B3%B4%E9%9B%BB%E5%96%AE%E8%BB%8A%E5%85%BC%E6%8B%92%E8%B3%A0-%E8%AD%A6%E5%B1%95%E7%A4%BAcctv%E6%89%93%E8%87%89",
+    "timestamp": "2026-06-13T22:33:11.463Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "世界盃2026｜巴西對摩洛哥　雲尼斯奧斯夏基美領銜　尼馬便服現身",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260611/1141845280300208128965183.jpeg/XjYqBao7YKjNLMjZMvFiQ3HuxknUgegtJFbW7iRW1u4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60355406/%E4%B8%96%E7%95%8C%E7%9B%832026%E7%9B%B4%E6%92%AD-viutv%E5%85%8D%E8%B2%BB%E7%9B%B4%E6%92%AD25%E5%A0%B4%E8%B3%BD%E7%A8%8B-%E9%A6%99%E6%B8%AF%E6%99%82%E9%96%93%E8%A1%A8-%E6%AF%8F%E6%97%A5%E6%9B%B4%E6%96%B0",
     "timestamp": "2026-06-13T03:25:43.550Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "記憶體短缺致全球手機出貨量跌13.9%　華為逆市成國產唯一贏家",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260611/1141807950734561280235860.jpeg/gshZwb4Ne9T5lPZwz9TBtbOAZX98oItHkzQ015M0NNc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60358409/%E8%A8%98%E6%86%B6%E9%AB%94%E7%9F%AD%E7%BC%BA%E8%87%B4%E5%85%A8%E7%90%83%E6%89%8B%E6%A9%9F%E5%87%BA%E8%B2%A8%E9%87%8F%E8%B7%8C13-9-%E8%8F%AF%E7%82%BA%E9%80%86%E5%B8%82%E6%88%90%E5%9C%8B%E7%94%A2%E5%94%AF%E4%B8%80%E8%B4%8F%E5%AE%B6",
-    "timestamp": "2026-06-13T02:05:27.843Z",
     "strategy": ".content-card__main"
   }
 ];
