@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-13T19:41:01.151Z
+// Last updated: 2026-06-13T20:16:16.574Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美軍被指曾擬派地面部隊強取伊朗濃縮鈾　特朗普憂傷亡慘重叫停",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260614/1142665567841292288318650.jpeg/29dHhyU_G1xhiC6qri7_kD48cfGI7lJbUbJyj1Gyco8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60360029/%E7%BE%8E%E8%BB%8D%E8%A2%AB%E6%8C%87%E6%9B%BE%E6%93%AC%E6%B4%BE%E5%9C%B0%E9%9D%A2%E9%83%A8%E9%9A%8A%E5%BC%B7%E5%8F%96%E4%BC%8A%E6%9C%97%E6%BF%83%E7%B8%AE%E9%88%BE-%E7%89%B9%E6%9C%97%E6%99%AE%E6%86%82%E5%82%B7%E4%BA%A1%E6%85%98%E9%87%8D%E5%8F%AB%E5%81%9C",
+    "timestamp": "2026-06-13T20:16:16.574Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "火炭獨立屋遭爆竊　女住戶損失$75萬財物　警追查賊人下落",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260613/1142328312123625472215409.jpeg/RlsjXkIDIEgYExQYthILt9G-Zf3U5Cgd-9SQrPvUkKw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60359825/%E4%B8%96%E7%95%8C%E7%9B%832026-%E5%8A%A0%E6%8B%BF%E5%A4%A71-1%E9%80%BC%E5%92%8C%E6%B3%A2%E6%96%AF%E5%B0%BC%E4%BA%9E-%E5%8F%96%E5%BE%97%E5%B0%8F%E7%B5%84%E8%B3%BD%E9%9B%B6%E7%9A%84%E7%AA%81%E7%A0%B4",
     "timestamp": "2026-06-12T21:11:49.159Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "銅鑼灣的士泊馬路中間阻路　司機遭拍醒涉藥駕被捕　警另發告票",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260613/1142318894698991616798143.jpeg/tkMeBsm9WRLXt1bhPpn0UnwZBJTZWKr3K65MwiuuTMI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60359824/%E9%8A%85%E9%91%BC%E7%81%A3%E7%9A%84%E5%A3%AB%E6%B3%8A%E9%A6%AC%E8%B7%AF%E4%B8%AD%E9%96%93%E9%98%BB%E8%B7%AF-%E5%8F%B8%E6%A9%9F%E9%81%AD%E6%8B%8D%E9%86%92%E6%B6%89%E8%97%A5%E9%A7%95%E8%A2%AB%E6%8D%95-%E8%AD%A6%E5%8F%A6%E7%99%BC%E5%91%8A%E7%A5%A8",
-    "timestamp": "2026-06-12T20:22:10.980Z",
     "strategy": ".content-card__main"
   }
 ];
