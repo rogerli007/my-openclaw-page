@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-13T15:25:15.438Z
+// Last updated: 2026-06-13T16:05:47.536Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "凌波金漢相愛60年到白頭歷盡患癌喪子之痛　罕曬四代同堂家庭照",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260613/1142506122482028544184062.jpeg/-fZ_EduOPSPeIIOqsfiYaTx09C48zTj_HlfMZB5XzGQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60359943/%E5%87%8C%E6%B3%A2%E9%87%91%E6%BC%A2%E7%9B%B8%E6%84%9B60%E5%B9%B4%E5%88%B0%E7%99%BD%E9%A0%AD%E6%AD%B7%E7%9B%A1%E6%82%A3%E7%99%8C%E5%96%AA%E5%AD%90%E4%B9%8B%E7%97%9B-%E7%BD%95%E6%9B%AC%E5%9B%9B%E4%BB%A3%E5%90%8C%E5%A0%82%E5%AE%B6%E5%BA%AD%E7%85%A7",
+    "timestamp": "2026-06-13T16:05:47.536Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "耀眼每集劇情｜最新追劇日曆/更新時間+演員關係圖+角色簡介",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260613/1142259293991473152456839.jpeg/MXnqDTJp9NUPtJpivCQ2nRgvx1OEinnft_DFt43wxbc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60359816/%E5%B0%87%E8%BB%8D%E6%BE%B3%E5%B0%9A%E5%BE%B7%E9%82%A813%E6%AD%B2%E5%B0%91%E5%A5%B3%E7%96%91%E5%81%B7%E5%AE%B6%E4%B8%AD-38%E8%90%AC%E7%8F%BE%E9%87%91-%E6%AF%8D%E8%A6%AA%E5%A4%A7%E7%BE%A9%E6%BB%85%E8%A6%AA%E5%A0%B1%E8%AD%A6%E6%8B%89%E4%BA%BA",
     "timestamp": "2026-06-12T16:30:08.962Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "紐約男家傳古書竟是富豪失竊物　珍品價約300萬美元　終這樣處理",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260609/1141064471574220800162703.png/bT72JR0IyraLonxr3kPTzqJxGcYPi-G55SIYZuUiGGY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60344320/%E7%B4%90%E7%B4%84%E7%94%B7%E5%AE%B6%E5%82%B3%E5%8F%A4%E6%9B%B8%E7%AB%9F%E6%98%AF%E5%AF%8C%E8%B1%AA%E5%A4%B1%E7%AB%8A%E7%89%A9-%E7%8F%8D%E5%93%81%E5%83%B9%E7%B4%84300%E8%90%AC%E7%BE%8E%E5%85%83-%E7%B5%82%E7%89%A9%E6%AD%B8%E5%8E%9F%E4%B8%BB",
-    "timestamp": "2026-06-12T15:15:26.538Z",
     "strategy": ".content-card__main"
   }
 ];
