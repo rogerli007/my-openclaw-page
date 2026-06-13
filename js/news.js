@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-12T23:55:18.356Z
+// Last updated: 2026-06-13T02:05:27.843Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "記憶體短缺致全球手機出貨量跌13.9%　華為逆市成國產唯一贏家",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260611/1141807950734561280235860.jpeg/gshZwb4Ne9T5lPZwz9TBtbOAZX98oItHkzQ015M0NNc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60358409/%E8%A8%98%E6%86%B6%E9%AB%94%E7%9F%AD%E7%BC%BA%E8%87%B4%E5%85%A8%E7%90%83%E6%89%8B%E6%A9%9F%E5%87%BA%E8%B2%A8%E9%87%8F%E8%B7%8C13-9-%E8%8F%AF%E7%82%BA%E9%80%86%E5%B8%82%E6%88%90%E5%9C%8B%E7%94%A2%E5%94%AF%E4%B8%80%E8%B4%8F%E5%AE%B6",
+    "timestamp": "2026-06-13T02:05:27.843Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "世界盃2026｜美國開幕禮壓軸登場　Katy Perry與Lisa領銜獻唱",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260124/1091770973805350912092716.jpeg/qrje-KnlsiX4cZ0Bq4MW2sxRW7LZcEJKnf-0Kp3_tCo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60359448/%E5%8D%A1%E5%B0%BC-%E6%87%89%E7%BE%8E%E5%9C%8B%E8%A6%81%E6%B1%82-%E5%B0%87%E6%8E%A8%E9%81%B2%E7%BE%8E%E5%8A%A0%E8%B7%A8%E5%A2%83%E5%A4%A7%E6%A9%8B%E9%80%9A%E8%BB%8A",
     "timestamp": "2026-06-11T22:48:18.012Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "天氣｜今日有幾陣驟雨最高29度　周日至周二雨勢較大及有狂風雷暴",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260612/1141980312125837312634801.jpeg/CkNdHscl7EEhVdsMt9jw_MSO9cXR7XMk426BluNugZY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60359421/%E5%A4%A9%E6%B0%A3-%E4%BB%8A%E6%97%A5%E6%9C%89%E5%B9%BE%E9%99%A3%E9%A9%9F%E9%9B%A8%E6%9C%80%E9%AB%9829%E5%BA%A6-%E5%91%A8%E6%97%A5%E8%87%B3%E5%91%A8%E4%BA%8C%E9%9B%A8%E5%8B%A2%E8%BC%83%E5%A4%A7%E5%8F%8A%E6%9C%89%E7%8B%82%E9%A2%A8%E9%9B%B7%E6%9A%B4",
-    "timestamp": "2026-06-11T22:01:21.627Z",
     "strategy": ".content-card__main"
   }
 ];
