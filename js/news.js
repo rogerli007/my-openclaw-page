@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-13T13:47:51.209Z
+// Last updated: 2026-06-13T14:35:14.684Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "前TVB娛樂主播黃文意現身主播海選　爆離巢真相　力撐商天娥為人",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260613/1142503894790705152601285.jpeg/LLYcHJK8ruc1oENIu87fdV7GH1FM3xh_7yMdE-8jHRM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60359951/%E5%89%8Dtvb%E5%A8%9B%E6%A8%82%E4%B8%BB%E6%92%AD%E9%BB%83%E6%96%87%E6%84%8F%E7%8F%BE%E8%BA%AB%E4%B8%BB%E6%92%AD%E6%B5%B7%E9%81%B8-%E7%88%86%E9%9B%A2%E5%B7%A2%E7%9C%9F%E7%9B%B8-%E5%8A%9B%E6%92%90%E5%95%86%E5%A4%A9%E5%A8%A5%E7%82%BA%E4%BA%BA",
+    "timestamp": "2026-06-13T14:35:14.684Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "澳洲對土耳其2026世界盃｜直播賽程+香港時間+國家足球隊球員",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/1862546/org/1d660295efb9fba431f4752dc8bcb7e6.jpg/RfTEaSX3lVHyZPmmj8D2g0fR8KyPjWuRwLLbL8Cy2y8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60359800/facebook%E5%82%B3%E6%AD%BB%E6%A9%9F-%E9%80%BE4%E8%90%AC%E4%BA%BA%E5%A0%B1%E7%A8%B1%E5%8F%97%E5%BD%B1%E9%9F%BF",
     "timestamp": "2026-06-12T13:58:40.967Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "廣州常規辦賽馬　海關開發「馬臉智能識別」系統只須3秒準確率99%",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20240210/832974652669431808410297.jpeg/yVFIFieKhwNhn8-S69g_onNuZvgvrwqu7ruqvcu7qr0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60359784/%E5%BB%A3%E5%B7%9E%E5%B8%B8%E8%A6%8F%E8%BE%A6%E8%B3%BD%E9%A6%AC-%E6%B5%B7%E9%97%9C%E9%96%8B%E7%99%BC-%E9%A6%AC%E8%87%89%E6%99%BA%E8%83%BD%E8%AD%98%E5%88%A5-%E7%B3%BB%E7%B5%B1%E5%8F%AA%E9%A0%883%E7%A7%92%E6%BA%96%E7%A2%BA%E7%8E%8799",
-    "timestamp": "2026-06-12T12:49:56.742Z",
     "strategy": ".content-card__main"
   }
 ];
