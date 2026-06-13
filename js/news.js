@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-13T10:24:46.235Z
+// Last updated: 2026-06-13T11:25:30.349Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "陳啟泰化身港鐵職員　被員工誤當「自己人」：問我識唔識換飛",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260613/1142536745145864192532709.jpeg/x3pkB30i-46958iUplHAWb8eh7TLYh5S4axZEdSsWRE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60359973/%E9%99%B3%E5%95%9F%E6%B3%B0%E5%8C%96%E8%BA%AB%E6%B8%AF%E9%90%B5%E8%81%B7%E5%93%A1-%E8%A2%AB%E5%93%A1%E5%B7%A5%E8%AA%A4%E7%95%B6-%E8%87%AA%E5%B7%B1%E4%BA%BA-%E5%95%8F%E6%88%91%E8%AD%98%E5%94%94%E8%AD%98%E6%8F%9B%E9%A3%9B",
+    "timestamp": "2026-06-13T11:25:30.349Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "陳敏兒離世｜二仔廖文信首發聲：我同屋企人一切安好",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260612/1142114034196156416702918.jpeg/Bml0S1iHTB_VCZhXsPQ4txHdRskaJ7ul-v4sh_r-LIc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8F%B0%E7%81%A3%E6%96%B0%E8%81%9E/60359607/%E9%84%AD%E9%BA%97%E6%96%87%E7%A8%B1%E7%BF%92%E9%84%AD%E6%9C%83%E6%B2%92%E8%AB%87%E7%B5%B1%E4%B8%80-%E9%A6%96%E8%A6%81%E9%87%8D%E5%95%9F%E5%85%A9%E5%B2%B8%E5%B0%8D%E8%A9%B1-%E9%81%BF%E5%85%8D%E7%AC%AC%E4%B8%89%E6%AC%A1%E4%B8%96%E7%95%8C%E5%A4%A7%E6%88%B0",
     "timestamp": "2026-06-12T06:57:27.811Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美伊備忘錄據報達共識：霍爾木茲不收費重開　伊朗獲60天制裁豁免",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250417/989406414021595136526730.jpeg/SF-FuWuHg9qbWHx77eQOKNFX4po-mhi94eoH7uHqB-4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60359564/%E7%BE%8E%E4%BC%8A%E5%82%99%E5%BF%98%E9%8C%84%E6%93%9A%E5%A0%B1%E9%81%94%E5%85%B1%E8%AD%98-%E9%9C%8D%E7%88%BE%E6%9C%A8%E8%8C%B2%E4%B8%8D%E6%94%B6%E8%B2%BB%E9%87%8D%E9%96%8B-%E4%BC%8A%E6%9C%97%E7%8D%B260%E5%A4%A9%E5%88%B6%E8%A3%81%E8%B1%81%E5%85%8D",
-    "timestamp": "2026-06-12T05:14:27.937Z",
     "strategy": ".content-card__main"
   }
 ];
