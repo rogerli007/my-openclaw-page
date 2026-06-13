@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-13T16:52:00.369Z
+// Last updated: 2026-06-13T17:39:20.647Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "佐敦酒店房藏「偉哥」和依托咪酯煙彈　男住客涉「3宗罪」被捕",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260614/1142637038391005184250786.jpeg/-Qv7cC7ZJaI33XYcFzeOlSP3kkBzRSA6dxXInU0VyJ0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60360022/%E4%BD%90%E6%95%A6%E9%85%92%E5%BA%97%E6%88%BF%E8%97%8F-%E5%81%89%E5%93%A5-%E5%92%8C%E4%BE%9D%E6%89%98%E5%92%AA%E9%85%AF%E7%85%99%E5%BD%88-%E7%94%B7%E4%BD%8F%E5%AE%A2%E6%B6%89-3%E5%AE%97%E7%BD%AA-%E8%A2%AB%E6%8D%95",
+    "timestamp": "2026-06-13T17:39:20.647Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "特朗普都無面畀？　甘迺迪中心按法院命令拆取外牆名字｜有片",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260613/1142284540266418176094723.jpeg/irHNL2g-phsKs84mMwbopPLPYShKNiVS5Eb8KuRG_Co?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60359820/%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E7%B8%BD%E7%90%86-%E7%BE%8E%E4%BC%8A%E5%B0%B1%E5%8D%94%E8%AD%B0%E6%9C%80%E7%B5%82%E6%96%87%E6%9C%AC%E9%81%94%E4%B8%80%E8%87%B4-%E4%BC%8A%E5%A4%96%E9%95%B7%E6%8C%87%E5%BE%9E%E6%9C%AA%E5%A6%82%E6%AD%A4%E6%8E%A5%E8%BF%91",
     "timestamp": "2026-06-12T18:21:36.025Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "巴拉圭世界盃2026｜足球排名+國家隊球員名單陣容+最新賽程",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260430/1126548935318441984534861.jpeg/ilPvmHUz0F7prgqut9XchBV6_W-Ir-ztVPIQsVTyELE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60342777/%E4%B8%96%E7%95%8C%E7%9B%832026%E5%B7%B4%E6%8B%89%E5%9C%AD-%E8%B6%B3%E7%90%83%E6%8E%92%E5%90%8D-%E5%9C%8B%E5%AE%B6%E9%9A%8A%E7%90%83%E5%93%A1%E5%90%8D%E5%96%AE%E9%99%A3%E5%AE%B9-%E6%9C%80%E6%96%B0%E8%B3%BD%E7%A8%8B",
-    "timestamp": "2026-06-12T17:31:47.537Z",
     "strategy": ".content-card__main"
   }
 ];
