@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-13T22:33:11.463Z
+// Last updated: 2026-06-13T23:38:06.770Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "白衣禽獸！日實習男醫生偷拍逾百女　腕錶偷拍孕婦辯稱：學醫所需",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260613/1142506340241903616614095.png/SAdW4rTLOK0twFGxW09SMScNgGaXs3LRLHPhsyxz4bM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E8%A9%B1%E9%A1%8C/60359145/%E7%99%BD%E8%A1%A3%E7%A6%BD%E7%8D%B8-%E6%97%A5%E5%AF%A6%E7%BF%92%E7%94%B7%E9%86%AB%E7%94%9F%E5%81%B7%E6%8B%8D%E9%80%BE%E7%99%BE%E5%A5%B3-%E8%85%95%E9%8C%B6%E5%81%B7%E6%8B%8D%E5%AD%95%E5%A9%A6%E8%BE%AF%E7%A8%B1-%E5%AD%B8%E9%86%AB%E6%89%80%E9%9C%80",
+    "timestamp": "2026-06-13T23:38:06.770Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "上海婆婆踩單車逆行自摔　反賴電單車兼拒賠　警展示CCTV打臉",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260613/1142446872791617536721960.jpeg/UxT2_i7fHg51VwTl2XWfEgrA83VecRbymmvM9pprzPY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60359887/%E4%B9%9D%E9%81%8B%E6%9C%83%E5%AE%A2%E5%AE%A4-%E6%AD%90%E5%80%A9%E6%80%A1%E9%9B%A2%E5%A9%9A%E5%BE%8C%E4%B8%8D%E9%81%A9%E7%B6%B2%E6%B0%91%E6%83%A1%E8%A9%95-%E8%A2%AB%E8%BF%BD%E5%95%8F%E8%88%87%E7%94%B7%E5%8F%8B%E6%80%A7%E7%94%9F%E6%B4%BB%E9%80%B2%E5%BA%A6",
     "timestamp": "2026-06-13T05:07:43.498Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "世界盃2026免費直播｜ViuTV 25場賽程時間｜6.13加拿大對波斯尼亞",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260611/1141845280300208128965183.jpeg/XjYqBao7YKjNLMjZMvFiQ3HuxknUgegtJFbW7iRW1u4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60355406/%E4%B8%96%E7%95%8C%E7%9B%832026%E7%9B%B4%E6%92%AD-viutv%E5%85%8D%E8%B2%BB%E7%9B%B4%E6%92%AD25%E5%A0%B4%E8%B3%BD%E7%A8%8B-%E9%A6%99%E6%B8%AF%E6%99%82%E9%96%93%E8%A1%A8-%E6%AF%8F%E6%97%A5%E6%9B%B4%E6%96%B0",
-    "timestamp": "2026-06-13T03:25:43.550Z",
     "strategy": ".content-card__main"
   }
 ];
