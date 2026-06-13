@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-13T09:20:15.368Z
+// Last updated: 2026-06-13T10:24:46.235Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "陳敏兒離世｜二仔廖文信首發聲：我同屋企人一切安好",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260613/1142531915258007552954627.jpeg/R0iiM3Qq0q8362WEqZJWlJ-oVANoxCY-ghyohYIcqIU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60359974/%E9%99%B3%E6%95%8F%E5%85%92%E9%9B%A2%E4%B8%96-%E4%BA%8C%E4%BB%94%E5%BB%96%E6%96%87%E4%BF%A1%E9%A6%96%E7%99%BC%E8%81%B2-%E6%88%91%E5%90%8C%E5%B1%8B%E4%BC%81%E4%BA%BA%E4%B8%80%E5%88%87%E5%AE%89%E5%A5%BD",
+    "timestamp": "2026-06-13T10:24:46.235Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "KOL女實習醫生被炒｜林哲玄：未獲完成實習證明書　不能註冊行醫",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250417/989406414021595136526730.jpeg/SF-FuWuHg9qbWHx77eQOKNFX4po-mhi94eoH7uHqB-4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60359564/%E7%BE%8E%E4%BC%8A%E5%82%99%E5%BF%98%E9%8C%84%E6%93%9A%E5%A0%B1%E9%81%94%E5%85%B1%E8%AD%98-%E9%9C%8D%E7%88%BE%E6%9C%A8%E8%8C%B2%E4%B8%8D%E6%94%B6%E8%B2%BB%E9%87%8D%E9%96%8B-%E4%BC%8A%E6%9C%97%E7%8D%B260%E5%A4%A9%E5%88%B6%E8%A3%81%E8%B1%81%E5%85%8D",
     "timestamp": "2026-06-12T05:14:27.937Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "五金大王朱國基4486萬購葵涌永得利廣場　呎價僅兩千、上手腰斬",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260612/1142064605602779136243560.jpeg/pYeTrGCBVlDKWtJEmJa5vDYDJ1UlIIGPzmdMAs5nTAI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60359509/%E4%BA%94%E9%87%91%E5%A4%A7%E7%8E%8B%E6%9C%B1%E5%9C%8B%E5%9F%BA4486%E8%90%AC%E8%B3%BC%E8%91%B5%E6%B6%8C%E6%B0%B8%E5%BE%97%E5%88%A9%E5%BB%A3%E5%A0%B4-%E5%91%8E%E5%83%B9%E5%83%85%E5%85%A9%E5%8D%83-%E4%B8%8A%E6%89%8B%E8%85%B0%E6%96%AC",
-    "timestamp": "2026-06-12T03:32:20.745Z",
     "strategy": ".content-card__main"
   }
 ];
