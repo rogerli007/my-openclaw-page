@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-13T02:05:27.843Z
+// Last updated: 2026-06-13T03:25:43.550Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "世界盃2026免費直播｜ViuTV 25場賽程時間｜6.13加拿大對波斯尼亞",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260611/1141845280300208128965183.jpeg/XjYqBao7YKjNLMjZMvFiQ3HuxknUgegtJFbW7iRW1u4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60355406/%E4%B8%96%E7%95%8C%E7%9B%832026%E7%9B%B4%E6%92%AD-viutv%E5%85%8D%E8%B2%BB%E7%9B%B4%E6%92%AD25%E5%A0%B4%E8%B3%BD%E7%A8%8B-%E9%A6%99%E6%B8%AF%E6%99%82%E9%96%93%E8%A1%A8-%E6%AF%8F%E6%97%A5%E6%9B%B4%E6%96%B0",
+    "timestamp": "2026-06-13T03:25:43.550Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "記憶體短缺致全球手機出貨量跌13.9%　華為逆市成國產唯一贏家",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250303/973140841436811264893021.jpeg/7vrf66Z6NZOqspDILAyxhsJuoTRuvF8lSJc9nkiXPZ4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60359453/ariana-grande%E4%BF%83%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%E5%81%9C%E7%94%A8%E5%85%B6%E6%AD%8C%E6%9B%B2%E5%AE%A3%E5%82%B3%E6%94%BF%E7%AD%96",
     "timestamp": "2026-06-11T23:24:10.810Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "卡尼：應美國要求　將推遲美加跨境大橋通車",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260124/1091770973805350912092716.jpeg/qrje-KnlsiX4cZ0Bq4MW2sxRW7LZcEJKnf-0Kp3_tCo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60359448/%E5%8D%A1%E5%B0%BC-%E6%87%89%E7%BE%8E%E5%9C%8B%E8%A6%81%E6%B1%82-%E5%B0%87%E6%8E%A8%E9%81%B2%E7%BE%8E%E5%8A%A0%E8%B7%A8%E5%A2%83%E5%A4%A7%E6%A9%8B%E9%80%9A%E8%BB%8A",
-    "timestamp": "2026-06-11T22:48:18.012Z",
     "strategy": ".content-card__main"
   }
 ];
