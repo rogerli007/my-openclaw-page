@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-13T14:35:14.684Z
+// Last updated: 2026-06-13T15:25:15.438Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "耀眼每集劇情｜最新追劇日曆/更新時間+演員關係圖+角色簡介",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260528/1136613683368038400904658.jpeg/YtdrIr1Y6e10RVmjWD5YIRwo7wkpGOjKFBQDgxQUA4M?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60354271/%E8%80%80%E7%9C%BC%E6%AF%8F%E9%9B%86%E5%8A%87%E6%83%85-%E6%9C%80%E6%96%B0%E8%BF%BD%E5%8A%87%E6%97%A5%E6%9B%86-%E6%9B%B4%E6%96%B0%E6%99%82%E9%96%93-%E6%BC%94%E5%93%A1%E9%97%9C%E4%BF%82%E5%9C%96-%E8%A7%92%E8%89%B2%E7%B0%A1%E4%BB%8B",
+    "timestamp": "2026-06-13T15:25:15.438Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "前TVB娛樂主播黃文意現身主播海選　爆離巢真相　力撐商天娥為人",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260609/1141064471574220800162703.png/bT72JR0IyraLonxr3kPTzqJxGcYPi-G55SIYZuUiGGY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60344320/%E7%B4%90%E7%B4%84%E7%94%B7%E5%AE%B6%E5%82%B3%E5%8F%A4%E6%9B%B8%E7%AB%9F%E6%98%AF%E5%AF%8C%E8%B1%AA%E5%A4%B1%E7%AB%8A%E7%89%A9-%E7%8F%8D%E5%93%81%E5%83%B9%E7%B4%84300%E8%90%AC%E7%BE%8E%E5%85%83-%E7%B5%82%E7%89%A9%E6%AD%B8%E5%8E%9F%E4%B8%BB",
     "timestamp": "2026-06-12T15:15:26.538Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "Facebook傳死機　逾4萬人報稱受影響",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/1862546/org/1d660295efb9fba431f4752dc8bcb7e6.jpg/RfTEaSX3lVHyZPmmj8D2g0fR8KyPjWuRwLLbL8Cy2y8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60359800/facebook%E5%82%B3%E6%AD%BB%E6%A9%9F-%E9%80%BE4%E8%90%AC%E4%BA%BA%E5%A0%B1%E7%A8%B1%E5%8F%97%E5%BD%B1%E9%9F%BF",
-    "timestamp": "2026-06-12T13:58:40.967Z",
     "strategy": ".content-card__main"
   }
 ];
