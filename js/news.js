@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-13T06:43:31.989Z
+// Last updated: 2026-06-13T09:20:15.368Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "KOL女實習醫生被炒｜林哲玄：未獲完成實習證明書　不能註冊行醫",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260613/1142505433542430720610452.jpeg/XqfLeefFK7q4fJmhC7flRP6LSmLOGM-kBwVZ1C0FWdQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60359952/kol%E5%A5%B3%E5%AF%A6%E7%BF%92%E9%86%AB%E7%94%9F%E8%A2%AB%E7%82%92-%E6%9E%97%E5%93%B2%E7%8E%84-%E6%9C%AA%E7%8D%B2%E5%AE%8C%E6%88%90%E5%AF%A6%E7%BF%92%E8%AD%89%E6%98%8E%E6%9B%B8-%E4%B8%8D%E8%83%BD%E8%A8%BB%E5%86%8A%E8%A1%8C%E9%86%AB",
+    "timestamp": "2026-06-13T09:20:15.368Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "十天內三藝人辭世　黃日華揭陳敏兒昏迷半個月：佢係好硬淨嘅女人",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260612/1142064605602779136243560.jpeg/pYeTrGCBVlDKWtJEmJa5vDYDJ1UlIIGPzmdMAs5nTAI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60359509/%E4%BA%94%E9%87%91%E5%A4%A7%E7%8E%8B%E6%9C%B1%E5%9C%8B%E5%9F%BA4486%E8%90%AC%E8%B3%BC%E8%91%B5%E6%B6%8C%E6%B0%B8%E5%BE%97%E5%88%A9%E5%BB%A3%E5%A0%B4-%E5%91%8E%E5%83%B9%E5%83%85%E5%85%A9%E5%8D%83-%E4%B8%8A%E6%89%8B%E8%85%B0%E6%96%AC",
     "timestamp": "2026-06-12T03:32:20.745Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "華裔夫婦澳洲撈63蟹！辯稱「不知規則」　官斥「極度天真」罰巨款",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260610/1141451429899145216156734.png/rDY3tiTCUH-oDPi7vh5GmCteIhFAl-xKav9ypWr_cqU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E8%A9%B1%E9%A1%8C/60345457/%E8%8F%AF%E8%A3%94%E5%A4%AB%E5%A9%A6%E6%BE%B3%E6%B4%B2%E6%92%8863%E8%9F%B9-%E8%BE%AF%E7%A8%B1-%E4%B8%8D%E7%9F%A5%E8%A6%8F%E5%89%87-%E5%AE%98%E6%96%A5-%E6%A5%B5%E5%BA%A6%E5%A4%A9%E7%9C%9F-%E7%BD%B0%E5%B7%A8%E6%AC%BE",
-    "timestamp": "2026-06-12T02:08:45.733Z",
     "strategy": ".content-card__main"
   }
 ];
