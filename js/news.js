@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-13T17:39:20.647Z
+// Last updated: 2026-06-13T18:14:34.949Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "卡塔爾對瑞士2026世界盃｜直播賽程+香港時間+國家足球隊球員",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260613/1142496197865377792197362.png/SaLbzWKrvWFHvY8T9H4ZvCWVcJv6duwBkaEwK5GhMCs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60359909/%E5%8D%A1%E5%A1%94%E7%88%BE%E5%B0%8D%E7%91%9E%E5%A3%AB2026%E4%B8%96%E7%95%8C%E7%9B%83-%E7%9B%B4%E6%92%AD%E8%B3%BD%E7%A8%8B-%E9%A6%99%E6%B8%AF%E6%99%82%E9%96%93-%E5%9C%8B%E5%AE%B6%E8%B6%B3%E7%90%83%E9%9A%8A%E7%90%83%E5%93%A1",
+    "timestamp": "2026-06-13T18:14:34.949Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "佐敦酒店房藏「偉哥」和依托咪酯煙彈　男住客涉「3宗罪」被捕",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260613/1142300358727438336147609.jpeg/oGBTuqOVocwFyT9M8_imRluoC2b-BP-rTAKm_nYCpv4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60359824/%E9%8A%85%E9%91%BC%E7%81%A3%E7%9A%84%E5%A3%AB%E6%B3%8A%E9%A6%AC%E8%B7%AF%E4%B8%AD%E9%96%93%E9%98%BB%E8%B7%AF-%E5%8F%B8%E6%A9%9F%E9%81%AD%E6%8B%8D%E9%86%92%E9%80%9A%E9%81%8E%E6%B8%AC%E8%A9%A6-%E8%AD%A6%E5%B8%B6%E5%BE%80%E9%86%AB%E9%99%A2%E9%A9%97%E8%A1%80",
     "timestamp": "2026-06-12T19:20:51.930Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "巴基斯坦總理：美伊就協議最終文本達一致　伊外長指從未如此接近",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260613/1142284540266418176094723.jpeg/irHNL2g-phsKs84mMwbopPLPYShKNiVS5Eb8KuRG_Co?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60359820/%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E7%B8%BD%E7%90%86-%E7%BE%8E%E4%BC%8A%E5%B0%B1%E5%8D%94%E8%AD%B0%E6%9C%80%E7%B5%82%E6%96%87%E6%9C%AC%E9%81%94%E4%B8%80%E8%87%B4-%E4%BC%8A%E5%A4%96%E9%95%B7%E6%8C%87%E5%BE%9E%E6%9C%AA%E5%A6%82%E6%AD%A4%E6%8E%A5%E8%BF%91",
-    "timestamp": "2026-06-12T18:21:36.025Z",
     "strategy": ".content-card__main"
   }
 ];
