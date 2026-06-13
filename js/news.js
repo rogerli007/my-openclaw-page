@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-13T12:58:36.726Z
+// Last updated: 2026-06-13T13:47:51.209Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "澳洲對土耳其2026世界盃｜直播賽程+香港時間+國家足球隊球員",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260613/1142508303612383232350142.png/oWPbhc4C1uHk33R2g0Ti73o5fU_sVuYgtvTuILb07iA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60359913/%E6%BE%B3%E6%B4%B2%E5%B0%8D%E5%9C%9F%E8%80%B3%E5%85%B62026%E4%B8%96%E7%95%8C%E7%9B%83-%E7%9B%B4%E6%92%AD%E8%B3%BD%E7%A8%8B-%E9%A6%99%E6%B8%AF%E6%99%82%E9%96%93-%E5%9C%8B%E5%AE%B6%E8%B6%B3%E7%90%83%E9%9A%8A%E7%90%83%E5%93%A1",
+    "timestamp": "2026-06-13T13:47:51.209Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "中國三航母搭載殲35升級戰力打擊群？",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20240210/832974652669431808410297.jpeg/yVFIFieKhwNhn8-S69g_onNuZvgvrwqu7ruqvcu7qr0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60359784/%E5%BB%A3%E5%B7%9E%E5%B8%B8%E8%A6%8F%E8%BE%A6%E8%B3%BD%E9%A6%AC-%E6%B5%B7%E9%97%9C%E9%96%8B%E7%99%BC-%E9%A6%AC%E8%87%89%E6%99%BA%E8%83%BD%E8%AD%98%E5%88%A5-%E7%B3%BB%E7%B5%B1%E5%8F%AA%E9%A0%883%E7%A7%92%E6%BA%96%E7%A2%BA%E7%8E%8799",
     "timestamp": "2026-06-12T12:49:56.742Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "的士司機多收5毫子遭投訴！行家怒批　網民反駁：收少5毫唔得？",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260612/1141928964617408512264108.png/9KI65-43bwfefQYR2HsHIwsjUKnm1xxeGQ3zXBkN81w",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60359397/%E7%9A%84%E5%A3%AB%E5%8F%B8%E6%A9%9F%E5%A4%9A%E6%94%B65%E6%AF%AB%E5%AD%90%E9%81%AD%E6%8A%95%E8%A8%B4-%E8%A1%8C%E5%AE%B6%E6%80%92%E6%89%B9-%E7%B6%B2%E6%B0%91%E5%8F%8D%E9%A7%81-%E6%94%B6%E5%B0%915%E6%AF%AB%E5%94%94%E5%BE%97",
-    "timestamp": "2026-06-12T10:15:45.912Z",
     "strategy": ".content-card__main"
   }
 ];
