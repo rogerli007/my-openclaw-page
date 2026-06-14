@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-14T01:33:26.573Z
+// Last updated: 2026-06-14T03:56:07.344Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "曾俊華：中東想同中國發展新能源　指望佢哋抬錢嚟香港可能有落差",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20221120/670987773980971008406527.jpeg/XYaosNh6KWxEt9WpjTuedmL4OjMP3YtVSUPDHUlDwx0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60360077/%E6%9B%BE%E4%BF%8A%E8%8F%AF-%E4%B8%AD%E6%9D%B1%E6%83%B3%E5%90%8C%E4%B8%AD%E5%9C%8B%E7%99%BC%E5%B1%95%E6%96%B0%E8%83%BD%E6%BA%90-%E6%8C%87%E6%9C%9B%E4%BD%A2%E5%93%8B%E6%8A%AC%E9%8C%A2%E5%9A%9F%E9%A6%99%E6%B8%AF%E5%8F%AF%E8%83%BD%E6%9C%89%E8%90%BD%E5%B7%AE",
+    "timestamp": "2026-06-14T03:56:07.344Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "4個星座自己活得隨便　其實很會照顧別人　天秤座的暖心不着痕跡",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260613/1142531915258007552954627.jpeg/R0iiM3Qq0q8362WEqZJWlJ-oVANoxCY-ghyohYIcqIU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60359974/%E9%99%B3%E6%95%8F%E5%85%92%E9%9B%A2%E4%B8%96-%E4%BA%8C%E4%BB%94%E5%BB%96%E6%96%87%E4%BF%A1%E9%A6%96%E7%99%BC%E8%81%B2-%E6%88%91%E5%90%8C%E5%B1%8B%E4%BC%81%E4%BA%BA%E4%B8%80%E5%88%87%E5%AE%89%E5%A5%BD",
     "timestamp": "2026-06-13T10:24:46.235Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "KOL女實習醫生被炒｜林哲玄：未獲完成實習證明書　不能註冊行醫",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260613/1142505433542430720610452.jpeg/XqfLeefFK7q4fJmhC7flRP6LSmLOGM-kBwVZ1C0FWdQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60359952/kol%E5%A5%B3%E5%AF%A6%E7%BF%92%E9%86%AB%E7%94%9F%E8%A2%AB%E7%82%92-%E6%9E%97%E5%93%B2%E7%8E%84-%E6%9C%AA%E7%8D%B2%E5%AE%8C%E6%88%90%E5%AF%A6%E7%BF%92%E8%AD%89%E6%98%8E%E6%9B%B8-%E4%B8%8D%E8%83%BD%E8%A8%BB%E5%86%8A%E8%A1%8C%E9%86%AB",
-    "timestamp": "2026-06-13T09:20:15.368Z",
     "strategy": ".content-card__main"
   }
 ];
