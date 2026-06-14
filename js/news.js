@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-14T16:08:50.508Z
+// Last updated: 2026-06-14T16:51:40.888Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "G7峰會舉行之際數千人日內瓦示威　法國瑞士將部署逾萬名警力",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260615/1142985939547590656140526.jpeg/jTX-V5xaoPuzSZmsK4eUcMBaBLYf-x6AT_w7l0_8O5c?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60360220/g7%E5%B3%B0%E6%9C%83%E8%88%89%E8%A1%8C%E4%B9%8B%E9%9A%9B%E6%95%B8%E5%8D%83%E4%BA%BA%E6%97%A5%E5%85%A7%E7%93%A6%E7%A4%BA%E5%A8%81-%E6%B3%95%E5%9C%8B%E7%91%9E%E5%A3%AB%E5%B0%87%E9%83%A8%E7%BD%B2%E9%80%BE%E8%90%AC%E5%90%8D%E8%AD%A6%E5%8A%9B",
+    "timestamp": "2026-06-14T16:51:40.888Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "孔德賢澄清狂考牌並非因為窮要兼職或轉行　曾經大花筒已學會儲蓄",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260614/1142665567841292288318650.jpeg/29dHhyU_G1xhiC6qri7_kD48cfGI7lJbUbJyj1Gyco8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60360029/%E7%BE%8E%E8%BB%8D%E8%A2%AB%E6%8C%87%E6%9B%BE%E6%93%AC%E6%B4%BE%E5%9C%B0%E9%9D%A2%E9%83%A8%E9%9A%8A%E5%BC%B7%E5%8F%96%E4%BC%8A%E6%9C%97%E6%BF%83%E7%B8%AE%E9%88%BE-%E7%89%B9%E6%9C%97%E6%99%AE%E6%86%82%E5%82%B7%E4%BA%A1%E6%85%98%E9%87%8D%E5%8F%AB%E5%81%9C",
     "timestamp": "2026-06-13T20:16:16.574Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "火炭獨立屋遭爆竊　女住戶損失$75萬財物　警追查賊人下落",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260614/1142656133056434176574901.jpeg/4okLSixtG12Kqj0XD_TVMoNyC7XOVLTMS6J-tHGifrQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60360027/%E7%81%AB%E7%82%AD%E7%8D%A8%E7%AB%8B%E5%B1%8B%E9%81%AD%E7%88%86%E7%AB%8A-%E5%A5%B3%E4%BD%8F%E6%88%B6%E6%90%8D%E5%A4%B1-75%E8%90%AC%E8%B2%A1%E7%89%A9-%E8%AD%A6%E8%BF%BD%E6%9F%A5%E8%B3%8A%E4%BA%BA%E4%B8%8B%E8%90%BD",
-    "timestamp": "2026-06-13T19:41:01.151Z",
     "strategy": ".content-card__main"
   }
 ];
