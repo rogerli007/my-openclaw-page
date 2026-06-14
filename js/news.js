@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-14T17:38:39.577Z
+// Last updated: 2026-06-14T18:15:48.281Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "普京祝特朗普80大壽快樂　指對美伊衝突即將結束表示滿意",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250819/1034410566807982080539704.jpeg/OMg7aHYcp7lUyouv8lOPid5RQNUuOxzNwyNmNsMjZjY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60360223/%E6%99%AE%E4%BA%AC%E7%A5%9D%E7%89%B9%E6%9C%97%E6%99%AE80%E5%A4%A7%E5%A3%BD%E5%BF%AB%E6%A8%82-%E6%8C%87%E5%B0%8D%E7%BE%8E%E4%BC%8A%E8%A1%9D%E7%AA%81%E5%8D%B3%E5%B0%87%E7%B5%90%E6%9D%9F%E8%A1%A8%E7%A4%BA%E6%BB%BF%E6%84%8F",
+    "timestamp": "2026-06-14T18:15:48.281Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "日本世界盃2026｜國家隊球員名單陣容+足球排名+最新賽程",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260614/1142696266828877824482670.jpeg/me2QzHOBUWpwBnLgl0AfKaEhi2oJso1U0RAeDtEQHg4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60360033/%E4%B8%96%E7%95%8C%E7%9B%832026-%E5%8D%A1%E5%A1%94%E7%88%BE1-1%E5%92%8C%E7%91%9E%E5%A3%AB-%E5%BE%8C%E8%A1%9B%E8%A3%9C%E6%99%82%E9%A0%82%E5%85%A5-%E5%8F%96%E5%BE%97%E5%88%86%E7%B5%84%E8%B3%BD%E7%AC%AC%E4%B8%80%E5%88%86",
     "timestamp": "2026-06-13T21:22:31.175Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美軍被指曾擬派地面部隊強取伊朗濃縮鈾　特朗普憂傷亡慘重叫停",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260614/1142665567841292288318650.jpeg/29dHhyU_G1xhiC6qri7_kD48cfGI7lJbUbJyj1Gyco8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60360029/%E7%BE%8E%E8%BB%8D%E8%A2%AB%E6%8C%87%E6%9B%BE%E6%93%AC%E6%B4%BE%E5%9C%B0%E9%9D%A2%E9%83%A8%E9%9A%8A%E5%BC%B7%E5%8F%96%E4%BC%8A%E6%9C%97%E6%BF%83%E7%B8%AE%E9%88%BE-%E7%89%B9%E6%9C%97%E6%99%AE%E6%86%82%E5%82%B7%E4%BA%A1%E6%85%98%E9%87%8D%E5%8F%AB%E5%81%9C",
-    "timestamp": "2026-06-13T20:49:05.199Z",
     "strategy": ".content-card__main"
   }
 ];
