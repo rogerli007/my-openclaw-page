@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-14T21:37:37.842Z
+// Last updated: 2026-06-14T22:15:21.792Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "「御用道友」轉型成功做創科執董　開餐廳說話霸氣：搵到錢要使吓",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260614/1142944818867998720026915.jpeg/WYhbkq7BqSw4ilsgT03n_FD7OpmxAbk6YEYFqWBGBak?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60360190/72%E6%AD%B2%E9%BA%A5%E5%AD%90%E9%9B%B2%E8%BD%89%E5%9E%8B%E6%88%90%E5%8A%9F%E5%81%9A%E5%89%B5%E7%A7%91%E5%9F%B7%E8%91%A3-%E9%96%8B%E9%A4%90%E5%BB%B3%E8%AA%AA%E8%A9%B1%E9%9C%B8%E6%B0%A3-%E6%90%B5%E5%88%B0%E9%8C%A2%E8%A6%81%E4%BD%BF%E5%90%93",
+    "timestamp": "2026-06-14T22:15:21.792Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "中國使館提醒赴菲中國公民提前做好入境準備",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260602/1138503897212522496524830.jpeg/YjaCoHjyJ4ZqrySs6PfuUWk0WsWt1bYYG65s2huubNo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60287721/4%E5%80%8B%E6%98%9F%E5%BA%A7%E8%87%AA%E5%B7%B1%E6%B4%BB%E5%BE%97%E9%9A%A8%E4%BE%BF-%E5%85%B6%E5%AF%A6%E5%BE%88%E6%9C%83%E7%85%A7%E9%A1%A7%E5%88%A5%E4%BA%BA-%E5%A4%A9%E7%A7%A4%E5%BA%A7%E7%9A%84%E6%9A%96%E5%BF%83%E4%B8%8D%E7%9D%80%E7%97%95%E8%B7%A1",
     "timestamp": "2026-06-14T01:33:26.573Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "浙江男花¥8000偽造「中獎拉環」　騙取近700箱啤酒出售牟利終被捕",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260611/1141796847367491584247836.png/HYN5Zpj2W3kwQwd8A_AcM0uBJRzbZRbRxpZq6caWauk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60358792/%E6%B5%99%E6%B1%9F%E7%94%B7%E8%8A%B1-8000%E5%81%BD%E9%80%A0-%E4%B8%AD%E7%8D%8E%E6%8B%89%E7%92%B0-%E9%A8%99%E5%8F%96%E8%BF%91700%E7%AE%B1%E5%95%A4%E9%85%92%E5%87%BA%E5%94%AE%E7%89%9F%E5%88%A9%E7%B5%82%E8%A2%AB%E6%8D%95",
-    "timestamp": "2026-06-14T00:15:06.657Z",
     "strategy": ".content-card__main"
   }
 ];
