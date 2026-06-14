@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-14T00:15:06.657Z
+// Last updated: 2026-06-14T01:33:26.573Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "4個星座自己活得隨便　其實很會照顧別人　天秤座的暖心不着痕跡",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260602/1138503897212522496524830.jpeg/YjaCoHjyJ4ZqrySs6PfuUWk0WsWt1bYYG65s2huubNo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60287721/4%E5%80%8B%E6%98%9F%E5%BA%A7%E8%87%AA%E5%B7%B1%E6%B4%BB%E5%BE%97%E9%9A%A8%E4%BE%BF-%E5%85%B6%E5%AF%A6%E5%BE%88%E6%9C%83%E7%85%A7%E9%A1%A7%E5%88%A5%E4%BA%BA-%E5%A4%A9%E7%A7%A4%E5%BA%A7%E7%9A%84%E6%9A%96%E5%BF%83%E4%B8%8D%E7%9D%80%E7%97%95%E8%B7%A1",
+    "timestamp": "2026-06-14T01:33:26.573Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "浙江男花¥8000偽造「中獎拉環」　騙取近700箱啤酒出售牟利終被捕",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260613/1142505433542430720610452.jpeg/XqfLeefFK7q4fJmhC7flRP6LSmLOGM-kBwVZ1C0FWdQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60359952/kol%E5%A5%B3%E5%AF%A6%E7%BF%92%E9%86%AB%E7%94%9F%E8%A2%AB%E7%82%92-%E6%9E%97%E5%93%B2%E7%8E%84-%E6%9C%AA%E7%8D%B2%E5%AE%8C%E6%88%90%E5%AF%A6%E7%BF%92%E8%AD%89%E6%98%8E%E6%9B%B8-%E4%B8%8D%E8%83%BD%E8%A8%BB%E5%86%8A%E8%A1%8C%E9%86%AB",
     "timestamp": "2026-06-13T09:20:15.368Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "十天內三藝人辭世　黃日華揭陳敏兒昏迷半個月：佢係好硬淨嘅女人",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260613/1142469959759171584259781.png/avMHBmGt0bh_4D_3bosN8K1CBBze6Xse-vcWYvr3FmI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60359903/%E5%8D%81%E5%A4%A9%E5%85%A7%E4%B8%89%E8%97%9D%E4%BA%BA%E8%BE%AD%E4%B8%96-%E9%BB%83%E6%97%A5%E8%8F%AF%E6%8F%AD%E9%99%B3%E6%95%8F%E5%85%92%E6%98%8F%E8%BF%B7%E5%8D%8A%E5%80%8B%E6%9C%88-%E4%BD%A2%E4%BF%82%E5%A5%BD%E7%A1%AC%E6%B7%A8%E5%98%85%E5%A5%B3%E4%BA%BA",
-    "timestamp": "2026-06-13T06:43:31.989Z",
     "strategy": ".content-card__main"
   }
 ];
