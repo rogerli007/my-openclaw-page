@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-14T11:11:53.243Z
+// Last updated: 2026-06-14T12:00:27.337Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "掉髮真正元兇是洗頭時做錯2件事　日本醫生親授夏季頭皮保養指南",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20251022/1057616463776452608876452.jpeg/ePVLXnEna_nJ8oiUQ3NkjVndKl9QLpCmJTCjYSUwo2E?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%BE%8E%E5%AE%B9%E6%89%8B%E5%B8%B3/60287553/%E6%8E%89%E9%AB%AE%E7%9C%9F%E6%AD%A3%E5%85%83%E5%85%87%E6%98%AF%E6%B4%97%E9%A0%AD%E6%99%82%E5%81%9A%E9%8C%AF2%E4%BB%B6%E4%BA%8B-%E6%97%A5%E6%9C%AC%E9%86%AB%E7%94%9F%E8%A6%AA%E6%8E%88%E5%A4%8F%E5%AD%A3%E9%A0%AD%E7%9A%AE%E4%BF%9D%E9%A4%8A%E6%8C%87%E5%8D%97",
+    "timestamp": "2026-06-14T12:00:27.337Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "日本脱衣舞女親吐童年經歷！靠麻將識字、被當200萬日圓擔保",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260613/1142506122482028544184062.jpeg/-fZ_EduOPSPeIIOqsfiYaTx09C48zTj_HlfMZB5XzGQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60359943/%E5%87%8C%E6%B3%A2%E9%87%91%E6%BC%A2%E7%9B%B8%E6%84%9B60%E5%B9%B4%E5%88%B0%E7%99%BD%E9%A0%AD%E6%AD%B7%E7%9B%A1%E6%82%A3%E7%99%8C%E5%96%AA%E5%AD%90%E4%B9%8B%E7%97%9B-%E7%BD%95%E6%9B%AC%E5%9B%9B%E4%BB%A3%E5%90%8C%E5%A0%82%E5%AE%B6%E5%BA%AD%E7%85%A7",
     "timestamp": "2026-06-13T16:05:47.536Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "耀眼每集劇情｜最新追劇日曆/更新時間+演員關係圖+角色簡介",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260528/1136613683368038400904658.jpeg/YtdrIr1Y6e10RVmjWD5YIRwo7wkpGOjKFBQDgxQUA4M?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60354271/%E8%80%80%E7%9C%BC%E6%AF%8F%E9%9B%86%E5%8A%87%E6%83%85-%E6%9C%80%E6%96%B0%E8%BF%BD%E5%8A%87%E6%97%A5%E6%9B%86-%E6%9B%B4%E6%96%B0%E6%99%82%E9%96%93-%E6%BC%94%E5%93%A1%E9%97%9C%E4%BF%82%E5%9C%96-%E8%A7%92%E8%89%B2%E7%B0%A1%E4%BB%8B",
-    "timestamp": "2026-06-13T15:25:15.438Z",
     "strategy": ".content-card__main"
   }
 ];
