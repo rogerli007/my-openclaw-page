@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-14T08:41:39.792Z
+// Last updated: 2026-06-14T10:03:58.558Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "荷蘭對日本2026世界盃｜直播賽程+香港時間+國家足球隊球員",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260614/1142779530323169280178409.png/k-rO-JLXN6RzItm7rOkq1dJBpzEaZdDGM8aywDPGssA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60360064/%E8%8D%B7%E8%98%AD%E5%B0%8D%E6%97%A5%E6%9C%AC2026%E4%B8%96%E7%95%8C%E7%9B%83-%E7%9B%B4%E6%92%AD%E8%B3%BD%E7%A8%8B-%E9%A6%99%E6%B8%AF%E6%99%82%E9%96%93-%E5%9C%8B%E5%AE%B6%E8%B6%B3%E7%90%83%E9%9A%8A%E7%90%83%E5%93%A1",
+    "timestamp": "2026-06-14T10:03:58.558Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "最新天氣｜天文台：今晚至周二部分地區雨勢特別大　可能出現水浸",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260613/1142503894790705152601285.jpeg/LLYcHJK8ruc1oENIu87fdV7GH1FM3xh_7yMdE-8jHRM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60359951/%E5%89%8Dtvb%E5%A8%9B%E6%A8%82%E4%B8%BB%E6%92%AD%E9%BB%83%E6%96%87%E6%84%8F%E7%8F%BE%E8%BA%AB%E4%B8%BB%E6%92%AD%E6%B5%B7%E9%81%B8-%E7%88%86%E9%9B%A2%E5%B7%A2%E7%9C%9F%E7%9B%B8-%E5%8A%9B%E6%92%90%E5%95%86%E5%A4%A9%E5%A8%A5%E7%82%BA%E4%BA%BA",
     "timestamp": "2026-06-13T14:35:14.684Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "澳洲對土耳其2026世界盃｜直播賽程+香港時間+國家足球隊球員",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260613/1142508303612383232350142.png/oWPbhc4C1uHk33R2g0Ti73o5fU_sVuYgtvTuILb07iA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60359913/%E6%BE%B3%E6%B4%B2%E5%B0%8D%E5%9C%9F%E8%80%B3%E5%85%B62026%E4%B8%96%E7%95%8C%E7%9B%83-%E7%9B%B4%E6%92%AD%E8%B3%BD%E7%A8%8B-%E9%A6%99%E6%B8%AF%E6%99%82%E9%96%93-%E5%9C%8B%E5%AE%B6%E8%B6%B3%E7%90%83%E9%9A%8A%E7%90%83%E5%93%A1",
-    "timestamp": "2026-06-13T13:47:51.209Z",
     "strategy": ".content-card__main"
   }
 ];
