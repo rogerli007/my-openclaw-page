@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-14T19:41:04.342Z
+// Last updated: 2026-06-14T20:50:39.783Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "中國使館提醒赴菲中國公民提前做好入境準備",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20251116/1066847755114123264982360.jpeg/6ALGyJywBRGe_5LqVXEAu5hJ6jPMUqLsTfbguE324Lg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60360233/%E4%B8%AD%E5%9C%8B%E4%BD%BF%E9%A4%A8%E6%8F%90%E9%86%92%E8%B5%B4%E8%8F%B2%E4%B8%AD%E5%9C%8B%E5%85%AC%E6%B0%91%E6%8F%90%E5%89%8D%E5%81%9A%E5%A5%BD%E5%85%A5%E5%A2%83%E6%BA%96%E5%82%99",
+    "timestamp": "2026-06-14T20:50:39.783Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "世界盃2026｜德國首戰7:1大勝庫拉索　取得分組賽三分",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260613/1142506340241903616614095.png/SAdW4rTLOK0twFGxW09SMScNgGaXs3LRLHPhsyxz4bM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E8%A9%B1%E9%A1%8C/60359145/%E7%99%BD%E8%A1%A3%E7%A6%BD%E7%8D%B8-%E6%97%A5%E5%AF%A6%E7%BF%92%E7%94%B7%E9%86%AB%E7%94%9F%E5%81%B7%E6%8B%8D%E9%80%BE%E7%99%BE%E5%A5%B3-%E8%85%95%E9%8C%B6%E5%81%B7%E6%8B%8D%E5%AD%95%E5%A9%A6%E8%BE%AF%E7%A8%B1-%E5%AD%B8%E9%86%AB%E6%89%80%E9%9C%80",
     "timestamp": "2026-06-13T23:38:06.770Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "上海婆婆踩單車逆行自摔　反賴電單車兼拒賠　警展示CCTV打臉",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260613/1142479832467116032816205.png/LGwQ-E6OlpHxT9a93ddpn33kV8__-S01SUmnR0lJp0c?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60359311/%E4%B8%8A%E6%B5%B7%E5%A9%86%E5%A9%86%E8%B8%A9%E5%96%AE%E8%BB%8A%E9%80%86%E8%A1%8C%E8%87%AA%E6%91%94-%E5%8F%8D%E8%B3%B4%E9%9B%BB%E5%96%AE%E8%BB%8A%E5%85%BC%E6%8B%92%E8%B3%A0-%E8%AD%A6%E5%B1%95%E7%A4%BAcctv%E6%89%93%E8%87%89",
-    "timestamp": "2026-06-13T22:33:11.463Z",
     "strategy": ".content-card__main"
   }
 ];
