@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-14T05:46:28.900Z
+// Last updated: 2026-06-14T07:19:41.549Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "鄭麗文訪美出席哈佛俱樂部午餐會：期望台美攜手促進印太地區和平",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260614/1142844055432990720108275.png/EiC8Ra4v6GcvSKXrU92OS9zIxf2DlHdYXp1yel6dcno?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8F%B0%E7%81%A3%E6%96%B0%E8%81%9E/60360117/%E9%84%AD%E9%BA%97%E6%96%87%E8%A8%AA%E7%BE%8E%E5%87%BA%E5%B8%AD%E5%93%88%E4%BD%9B%E4%BF%B1%E6%A8%82%E9%83%A8%E5%8D%88%E9%A4%90%E6%9C%83-%E6%9C%9F%E6%9C%9B%E5%8F%B0%E7%BE%8E%E6%94%9C%E6%89%8B%E4%BF%83%E9%80%B2%E5%8D%B0%E5%A4%AA%E5%9C%B0%E5%8D%80%E5%92%8C%E5%B9%B3",
+    "timestamp": "2026-06-14T07:19:41.549Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "珍惜生命｜東涌22歲男子跳橋圖輕生　送院救治",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260501/1126857590798553088250736.jpeg/JivwsS6WfLs_jPEd_vE8Lonayypdq3dxdlZx3HZWcdw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E4%B8%AD%E5%9C%8B%E8%A7%80%E5%AF%9F/60359987/%E4%B8%AD%E5%9C%8B%E4%B8%89%E8%88%AA%E6%AF%8D%E6%90%AD%E8%BC%89%E6%AE%B235%E5%8D%87%E7%B4%9A%E6%88%B0%E5%8A%9B%E6%89%93%E6%93%8A%E7%BE%A4",
     "timestamp": "2026-06-13T12:58:36.726Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "陳啟泰化身港鐵職員　被員工誤當「自己人」：問我識唔識換飛",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260613/1142536745145864192532709.jpeg/x3pkB30i-46958iUplHAWb8eh7TLYh5S4axZEdSsWRE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60359973/%E9%99%B3%E5%95%9F%E6%B3%B0%E5%8C%96%E8%BA%AB%E6%B8%AF%E9%90%B5%E8%81%B7%E5%93%A1-%E8%A2%AB%E5%93%A1%E5%B7%A5%E8%AA%A4%E7%95%B6-%E8%87%AA%E5%B7%B1%E4%BA%BA-%E5%95%8F%E6%88%91%E8%AD%98%E5%94%94%E8%AD%98%E6%8F%9B%E9%A3%9B",
-    "timestamp": "2026-06-13T11:25:30.349Z",
     "strategy": ".content-card__main"
   }
 ];
