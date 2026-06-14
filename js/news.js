@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-13T23:38:06.770Z
+// Last updated: 2026-06-14T00:15:06.657Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "浙江男花¥8000偽造「中獎拉環」　騙取近700箱啤酒出售牟利終被捕",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260611/1141796847367491584247836.png/HYN5Zpj2W3kwQwd8A_AcM0uBJRzbZRbRxpZq6caWauk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60358792/%E6%B5%99%E6%B1%9F%E7%94%B7%E8%8A%B1-8000%E5%81%BD%E9%80%A0-%E4%B8%AD%E7%8D%8E%E6%8B%89%E7%92%B0-%E9%A8%99%E5%8F%96%E8%BF%91700%E7%AE%B1%E5%95%A4%E9%85%92%E5%87%BA%E5%94%AE%E7%89%9F%E5%88%A9%E7%B5%82%E8%A2%AB%E6%8D%95",
+    "timestamp": "2026-06-14T00:15:06.657Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "白衣禽獸！日實習男醫生偷拍逾百女　腕錶偷拍孕婦辯稱：學醫所需",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260613/1142469959759171584259781.png/avMHBmGt0bh_4D_3bosN8K1CBBze6Xse-vcWYvr3FmI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60359903/%E5%8D%81%E5%A4%A9%E5%85%A7%E4%B8%89%E8%97%9D%E4%BA%BA%E8%BE%AD%E4%B8%96-%E9%BB%83%E6%97%A5%E8%8F%AF%E6%8F%AD%E9%99%B3%E6%95%8F%E5%85%92%E6%98%8F%E8%BF%B7%E5%8D%8A%E5%80%8B%E6%9C%88-%E4%BD%A2%E4%BF%82%E5%A5%BD%E7%A1%AC%E6%B7%A8%E5%98%85%E5%A5%B3%E4%BA%BA",
     "timestamp": "2026-06-13T06:43:31.989Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "九運會客室｜歐倩怡離婚後不適網民惡評　被追問與男友性生活進度",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260613/1142446872791617536721960.jpeg/UxT2_i7fHg51VwTl2XWfEgrA83VecRbymmvM9pprzPY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60359887/%E4%B9%9D%E9%81%8B%E6%9C%83%E5%AE%A2%E5%AE%A4-%E6%AD%90%E5%80%A9%E6%80%A1%E9%9B%A2%E5%A9%9A%E5%BE%8C%E4%B8%8D%E9%81%A9%E7%B6%B2%E6%B0%91%E6%83%A1%E8%A9%95-%E8%A2%AB%E8%BF%BD%E5%95%8F%E8%88%87%E7%94%B7%E5%8F%8B%E6%80%A7%E7%94%9F%E6%B4%BB%E9%80%B2%E5%BA%A6",
-    "timestamp": "2026-06-13T05:07:43.498Z",
     "strategy": ".content-card__main"
   }
 ];
