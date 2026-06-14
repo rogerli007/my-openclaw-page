@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-14T07:19:41.549Z
+// Last updated: 2026-06-14T08:41:39.792Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "最新天氣｜天文台：今晚至周二部分地區雨勢特別大　可能出現水浸",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260514/1131741570627014656158973.jpeg/0wbQ6PiL22YYeQITngvpPIAUN1r5gXjWZgyLWXwMi1k?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60360043/%E6%9C%80%E6%96%B0%E5%A4%A9%E6%B0%A3-%E5%A4%A9%E6%96%87%E5%8F%B0-%E4%BB%8A%E6%99%9A%E8%87%B3%E5%91%A8%E4%BA%8C%E9%83%A8%E5%88%86%E5%9C%B0%E5%8D%80%E9%9B%A8%E5%8B%A2%E7%89%B9%E5%88%A5%E5%A4%A7-%E5%8F%AF%E8%83%BD%E5%87%BA%E7%8F%BE%E6%B0%B4%E6%B5%B8",
+    "timestamp": "2026-06-14T08:41:39.792Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "鄭麗文訪美出席哈佛俱樂部午餐會：期望台美攜手促進印太地區和平",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260613/1142508303612383232350142.png/oWPbhc4C1uHk33R2g0Ti73o5fU_sVuYgtvTuILb07iA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60359913/%E6%BE%B3%E6%B4%B2%E5%B0%8D%E5%9C%9F%E8%80%B3%E5%85%B62026%E4%B8%96%E7%95%8C%E7%9B%83-%E7%9B%B4%E6%92%AD%E8%B3%BD%E7%A8%8B-%E9%A6%99%E6%B8%AF%E6%99%82%E9%96%93-%E5%9C%8B%E5%AE%B6%E8%B6%B3%E7%90%83%E9%9A%8A%E7%90%83%E5%93%A1",
     "timestamp": "2026-06-13T13:47:51.209Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "中國三航母搭載殲35升級戰力打擊群？",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260501/1126857590798553088250736.jpeg/JivwsS6WfLs_jPEd_vE8Lonayypdq3dxdlZx3HZWcdw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E4%B8%AD%E5%9C%8B%E8%A7%80%E5%AF%9F/60359987/%E4%B8%AD%E5%9C%8B%E4%B8%89%E8%88%AA%E6%AF%8D%E6%90%AD%E8%BC%89%E6%AE%B235%E5%8D%87%E7%B4%9A%E6%88%B0%E5%8A%9B%E6%89%93%E6%93%8A%E7%BE%A4",
-    "timestamp": "2026-06-13T12:58:36.726Z",
     "strategy": ".content-card__main"
   }
 ];
