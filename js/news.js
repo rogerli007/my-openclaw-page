@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-14T14:36:15.045Z
+// Last updated: 2026-06-14T15:30:16.968Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "世界盃2026荷蘭｜足球排名+國家隊球員名單陣容+最新賽程",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260424/1124410338825998336814695.jpeg/C79c7oT-zDkwCmkP6BkKCy-xMDDY8tlcwWU87sFlPO4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60343261/%E4%B8%96%E7%95%8C%E7%9B%832026%E8%8D%B7%E8%98%AD-%E8%B6%B3%E7%90%83%E6%8E%92%E5%90%8D-%E5%9C%8B%E5%AE%B6%E9%9A%8A%E7%90%83%E5%93%A1%E5%90%8D%E5%96%AE%E9%99%A3%E5%AE%B9-%E6%9C%80%E6%96%B0%E8%B3%BD%E7%A8%8B",
+    "timestamp": "2026-06-14T15:30:16.968Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "以色列空襲貝魯特南郊致2死4傷　伊朗議長：美伊談判將無法推進",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260613/1142496197865377792197362.png/SaLbzWKrvWFHvY8T9H4ZvCWVcJv6duwBkaEwK5GhMCs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60359909/%E5%8D%A1%E5%A1%94%E7%88%BE%E5%B0%8D%E7%91%9E%E5%A3%AB2026%E4%B8%96%E7%95%8C%E7%9B%83-%E7%9B%B4%E6%92%AD%E8%B3%BD%E7%A8%8B-%E9%A6%99%E6%B8%AF%E6%99%82%E9%96%93-%E5%9C%8B%E5%AE%B6%E8%B6%B3%E7%90%83%E9%9A%8A%E7%90%83%E5%93%A1",
     "timestamp": "2026-06-13T18:14:34.949Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "佐敦酒店房藏「偉哥」和依托咪酯煙彈　男住客涉「3宗罪」被捕",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260614/1142637038391005184250786.jpeg/-Qv7cC7ZJaI33XYcFzeOlSP3kkBzRSA6dxXInU0VyJ0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60360022/%E4%BD%90%E6%95%A6%E9%85%92%E5%BA%97%E6%88%BF%E8%97%8F-%E5%81%89%E5%93%A5-%E5%92%8C%E4%BE%9D%E6%89%98%E5%92%AA%E9%85%AF%E7%85%99%E5%BD%88-%E7%94%B7%E4%BD%8F%E5%AE%A2%E6%B6%89-3%E5%AE%97%E7%BD%AA-%E8%A2%AB%E6%8D%95",
-    "timestamp": "2026-06-13T17:39:20.647Z",
     "strategy": ".content-card__main"
   }
 ];
