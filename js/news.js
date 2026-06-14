@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-14T15:30:16.968Z
+// Last updated: 2026-06-14T16:08:50.508Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "孔德賢澄清狂考牌並非因為窮要兼職或轉行　曾經大花筒已學會儲蓄",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260614/1142871900280590336625178.jpeg/gVdybzad1IRm7asob78YBSN8eqjynYi9ouNLJKLjSyQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60360149/%E5%AD%94%E5%BE%B7%E8%B3%A2%E6%BE%84%E6%B8%85%E7%8B%82%E8%80%83%E7%89%8C%E4%B8%A6%E9%9D%9E%E5%9B%A0%E7%82%BA%E7%AA%AE%E8%A6%81%E5%85%BC%E8%81%B7%E6%88%96%E8%BD%89%E8%A1%8C-%E6%9B%BE%E7%B6%93%E5%A4%A7%E8%8A%B1%E7%AD%92%E5%B7%B2%E5%AD%B8%E6%9C%83%E5%84%B2%E8%93%84",
+    "timestamp": "2026-06-14T16:08:50.508Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "世界盃2026荷蘭｜足球排名+國家隊球員名單陣容+最新賽程",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260614/1142656133056434176574901.jpeg/4okLSixtG12Kqj0XD_TVMoNyC7XOVLTMS6J-tHGifrQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60360027/%E7%81%AB%E7%82%AD%E7%8D%A8%E7%AB%8B%E5%B1%8B%E9%81%AD%E7%88%86%E7%AB%8A-%E5%A5%B3%E4%BD%8F%E6%88%B6%E6%90%8D%E5%A4%B1-75%E8%90%AC%E8%B2%A1%E7%89%A9-%E8%AD%A6%E8%BF%BD%E6%9F%A5%E8%B3%8A%E4%BA%BA%E4%B8%8B%E8%90%BD",
     "timestamp": "2026-06-13T19:41:01.151Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "卡塔爾對瑞士2026世界盃｜直播賽程+香港時間+國家足球隊球員",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260613/1142496197865377792197362.png/SaLbzWKrvWFHvY8T9H4ZvCWVcJv6duwBkaEwK5GhMCs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60359909/%E5%8D%A1%E5%A1%94%E7%88%BE%E5%B0%8D%E7%91%9E%E5%A3%AB2026%E4%B8%96%E7%95%8C%E7%9B%83-%E7%9B%B4%E6%92%AD%E8%B3%BD%E7%A8%8B-%E9%A6%99%E6%B8%AF%E6%99%82%E9%96%93-%E5%9C%8B%E5%AE%B6%E8%B6%B3%E7%90%83%E9%9A%8A%E7%90%83%E5%93%A1",
-    "timestamp": "2026-06-13T18:14:34.949Z",
     "strategy": ".content-card__main"
   }
 ];
