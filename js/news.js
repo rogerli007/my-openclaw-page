@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-14T13:42:57.531Z
+// Last updated: 2026-06-14T14:36:15.045Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "以色列空襲貝魯特南郊致2死4傷　伊朗議長：美伊談判將無法推進",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260614/1142930029236195328054697.jpeg/WACgEJJ0Tum4e8zUf3dMDjGZq7tZB1i31LxUttS8VLY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60360195/%E4%BB%A5%E8%89%B2%E5%88%97%E7%A9%BA%E8%A5%B2%E8%B2%9D%E9%AD%AF%E7%89%B9%E5%8D%97%E9%83%8A%E8%87%B42%E6%AD%BB4%E5%82%B7-%E4%BC%8A%E6%9C%97%E8%AD%B0%E9%95%B7-%E7%BE%8E%E4%BC%8A%E8%AB%87%E5%88%A4%E5%B0%87%E7%84%A1%E6%B3%95%E6%8E%A8%E9%80%B2",
+    "timestamp": "2026-06-14T14:36:15.045Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "《三國演義》騙了你多年：「桃園三結義」並沒發生、大哥不是劉備",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260614/1142637038391005184250786.jpeg/-Qv7cC7ZJaI33XYcFzeOlSP3kkBzRSA6dxXInU0VyJ0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60360022/%E4%BD%90%E6%95%A6%E9%85%92%E5%BA%97%E6%88%BF%E8%97%8F-%E5%81%89%E5%93%A5-%E5%92%8C%E4%BE%9D%E6%89%98%E5%92%AA%E9%85%AF%E7%85%99%E5%BD%88-%E7%94%B7%E4%BD%8F%E5%AE%A2%E6%B6%89-3%E5%AE%97%E7%BD%AA-%E8%A2%AB%E6%8D%95",
     "timestamp": "2026-06-13T17:39:20.647Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普都無面畀？　甘迺迪中心按法院命令拆取外牆名字｜有片",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260614/1142623760457666560460381.jpeg/clRlMaafDBTqAeYongy7BDpJZsncZppMWiSGW1okhls?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60360017/%E7%89%B9%E6%9C%97%E6%99%AE%E9%83%BD%E7%84%A1%E9%9D%A2%E7%95%80-%E7%94%98%E8%BF%BA%E8%BF%AA%E4%B8%AD%E5%BF%83%E6%8C%89%E6%B3%95%E9%99%A2%E5%91%BD%E4%BB%A4%E6%8B%86%E5%8F%96%E5%A4%96%E7%89%86%E5%90%8D%E5%AD%97-%E6%9C%89%E7%89%87",
-    "timestamp": "2026-06-13T16:52:00.369Z",
     "strategy": ".content-card__main"
   }
 ];
