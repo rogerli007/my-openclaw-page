@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-14T16:51:40.888Z
+// Last updated: 2026-06-14T17:38:39.577Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "日本世界盃2026｜國家隊球員名單陣容+足球排名+最新賽程",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260522/1134539738603065344601329.jpeg/4BZJKSAfScM2F1y2PUjUulD-EGIRaTY5vUqjkL1Ko5A?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60352586/%E6%97%A5%E6%9C%AC%E4%B8%96%E7%95%8C%E7%9B%832026-%E5%9C%8B%E5%AE%B6%E9%9A%8A%E7%90%83%E5%93%A1%E5%90%8D%E5%96%AE%E9%99%A3%E5%AE%B9-%E8%B6%B3%E7%90%83%E6%8E%92%E5%90%8D-%E6%9C%80%E6%96%B0%E8%B3%BD%E7%A8%8B",
+    "timestamp": "2026-06-14T17:38:39.577Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "G7峰會舉行之際數千人日內瓦示威　法國瑞士將部署逾萬名警力",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260614/1142665567841292288318650.jpeg/29dHhyU_G1xhiC6qri7_kD48cfGI7lJbUbJyj1Gyco8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60360029/%E7%BE%8E%E8%BB%8D%E8%A2%AB%E6%8C%87%E6%9B%BE%E6%93%AC%E6%B4%BE%E5%9C%B0%E9%9D%A2%E9%83%A8%E9%9A%8A%E5%BC%B7%E5%8F%96%E4%BC%8A%E6%9C%97%E6%BF%83%E7%B8%AE%E9%88%BE-%E7%89%B9%E6%9C%97%E6%99%AE%E6%86%82%E5%82%B7%E4%BA%A1%E6%85%98%E9%87%8D%E5%8F%AB%E5%81%9C",
     "timestamp": "2026-06-13T20:49:05.199Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美軍被指曾擬派地面部隊強取伊朗濃縮鈾　特朗普憂傷亡慘重叫停",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260614/1142665567841292288318650.jpeg/29dHhyU_G1xhiC6qri7_kD48cfGI7lJbUbJyj1Gyco8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60360029/%E7%BE%8E%E8%BB%8D%E8%A2%AB%E6%8C%87%E6%9B%BE%E6%93%AC%E6%B4%BE%E5%9C%B0%E9%9D%A2%E9%83%A8%E9%9A%8A%E5%BC%B7%E5%8F%96%E4%BC%8A%E6%9C%97%E6%BF%83%E7%B8%AE%E9%88%BE-%E7%89%B9%E6%9C%97%E6%99%AE%E6%86%82%E5%82%B7%E4%BA%A1%E6%85%98%E9%87%8D%E5%8F%AB%E5%81%9C",
-    "timestamp": "2026-06-13T20:16:16.574Z",
     "strategy": ".content-card__main"
   }
 ];
