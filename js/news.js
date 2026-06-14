@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-14T12:00:27.337Z
+// Last updated: 2026-06-14T13:42:57.531Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "《三國演義》騙了你多年：「桃園三結義」並沒發生、大哥不是劉備",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260612/1142166146900824064273016.png/RRaTtwHvP0PQI1f9oPqI0tx4N6LK6ufHENjrqBDY66g?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60359738/%E4%B8%89%E5%9C%8B%E6%BC%94%E7%BE%A9-%E9%A8%99%E4%BA%86%E4%BD%A0%E5%A4%9A%E5%B9%B4-%E6%A1%83%E5%9C%92%E4%B8%89%E7%B5%90%E7%BE%A9-%E4%B8%A6%E6%B2%92%E7%99%BC%E7%94%9F-%E5%A4%A7%E5%93%A5%E4%B8%8D%E6%98%AF%E5%8A%89%E5%82%99",
+    "timestamp": "2026-06-14T13:42:57.531Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "掉髮真正元兇是洗頭時做錯2件事　日本醫生親授夏季頭皮保養指南",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260614/1142623760457666560460381.jpeg/clRlMaafDBTqAeYongy7BDpJZsncZppMWiSGW1okhls?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60360017/%E7%89%B9%E6%9C%97%E6%99%AE%E9%83%BD%E7%84%A1%E9%9D%A2%E7%95%80-%E7%94%98%E8%BF%BA%E8%BF%AA%E4%B8%AD%E5%BF%83%E6%8C%89%E6%B3%95%E9%99%A2%E5%91%BD%E4%BB%A4%E6%8B%86%E5%8F%96%E5%A4%96%E7%89%86%E5%90%8D%E5%AD%97-%E6%9C%89%E7%89%87",
     "timestamp": "2026-06-13T16:52:00.369Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "凌波金漢相愛60年到白頭歷盡患癌喪子之痛　罕曬四代同堂家庭照",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260613/1142506122482028544184062.jpeg/-fZ_EduOPSPeIIOqsfiYaTx09C48zTj_HlfMZB5XzGQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60359943/%E5%87%8C%E6%B3%A2%E9%87%91%E6%BC%A2%E7%9B%B8%E6%84%9B60%E5%B9%B4%E5%88%B0%E7%99%BD%E9%A0%AD%E6%AD%B7%E7%9B%A1%E6%82%A3%E7%99%8C%E5%96%AA%E5%AD%90%E4%B9%8B%E7%97%9B-%E7%BD%95%E6%9B%AC%E5%9B%9B%E4%BB%A3%E5%90%8C%E5%A0%82%E5%AE%B6%E5%BA%AD%E7%85%A7",
-    "timestamp": "2026-06-13T16:05:47.536Z",
     "strategy": ".content-card__main"
   }
 ];
