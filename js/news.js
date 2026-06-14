@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-14T03:56:07.344Z
+// Last updated: 2026-06-14T05:46:28.900Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "珍惜生命｜東涌22歲男子跳橋圖輕生　送院救治",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20251206/1073902385941712896852634.jpeg/QxyUGHenJd5VhOn8JwrFVrAJu6091iynvmMnL75jJy8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60360105/%E7%8F%8D%E6%83%9C%E7%94%9F%E5%91%BD-%E6%9D%B1%E6%B6%8C22%E6%AD%B2%E7%94%B7%E5%AD%90%E8%B7%B3%E6%A9%8B%E5%9C%96%E8%BC%95%E7%94%9F-%E9%80%81%E9%99%A2%E6%95%91%E6%B2%BB",
+    "timestamp": "2026-06-14T05:46:28.900Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "曾俊華：中東想同中國發展新能源　指望佢哋抬錢嚟香港可能有落差",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260613/1142536745145864192532709.jpeg/x3pkB30i-46958iUplHAWb8eh7TLYh5S4axZEdSsWRE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60359973/%E9%99%B3%E5%95%9F%E6%B3%B0%E5%8C%96%E8%BA%AB%E6%B8%AF%E9%90%B5%E8%81%B7%E5%93%A1-%E8%A2%AB%E5%93%A1%E5%B7%A5%E8%AA%A4%E7%95%B6-%E8%87%AA%E5%B7%B1%E4%BA%BA-%E5%95%8F%E6%88%91%E8%AD%98%E5%94%94%E8%AD%98%E6%8F%9B%E9%A3%9B",
     "timestamp": "2026-06-13T11:25:30.349Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "陳敏兒離世｜二仔廖文信首發聲：我同屋企人一切安好",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260613/1142531915258007552954627.jpeg/R0iiM3Qq0q8362WEqZJWlJ-oVANoxCY-ghyohYIcqIU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60359974/%E9%99%B3%E6%95%8F%E5%85%92%E9%9B%A2%E4%B8%96-%E4%BA%8C%E4%BB%94%E5%BB%96%E6%96%87%E4%BF%A1%E9%A6%96%E7%99%BC%E8%81%B2-%E6%88%91%E5%90%8C%E5%B1%8B%E4%BC%81%E4%BA%BA%E4%B8%80%E5%88%87%E5%AE%89%E5%A5%BD",
-    "timestamp": "2026-06-13T10:24:46.235Z",
     "strategy": ".content-card__main"
   }
 ];
