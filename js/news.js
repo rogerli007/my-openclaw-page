@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-14T18:51:28.927Z
+// Last updated: 2026-06-14T19:41:04.342Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "世界盃2026｜德國首戰7:1大勝庫拉索　取得分組賽三分",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260615/1143025394945888256534762.jpeg/aDnge7nLdzCWGC8ZSnySJs2TfYKyBQZ5YvWzJGL1syQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60360227/%E4%B8%96%E7%95%8C%E7%9B%832026-%E5%BE%B7%E5%9C%8B%E9%A6%96%E6%88%B07-1%E5%A4%A7%E5%8B%9D%E5%BA%AB%E6%8B%89%E7%B4%A2-%E5%8F%96%E5%BE%97%E5%88%86%E7%B5%84%E8%B3%BD%E4%B8%89%E5%88%86",
+    "timestamp": "2026-06-14T19:41:04.342Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "拾荒婦多次被搶錢搗亂　有樓但寧瞓天橋底：老公死咗一個人好唔慣",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260613/1142479832467116032816205.png/LGwQ-E6OlpHxT9a93ddpn33kV8__-S01SUmnR0lJp0c?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60359311/%E4%B8%8A%E6%B5%B7%E5%A9%86%E5%A9%86%E8%B8%A9%E5%96%AE%E8%BB%8A%E9%80%86%E8%A1%8C%E8%87%AA%E6%91%94-%E5%8F%8D%E8%B3%B4%E9%9B%BB%E5%96%AE%E8%BB%8A%E5%85%BC%E6%8B%92%E8%B3%A0-%E8%AD%A6%E5%B1%95%E7%A4%BAcctv%E6%89%93%E8%87%89",
     "timestamp": "2026-06-13T22:33:11.463Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "世界盃2026｜巴西對摩洛哥　雲尼斯奧斯夏基美領銜　尼馬便服現身",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260614/1142707303317770240304687.jpeg/8RcWbp1MyCsj67KhqQ6yZ8O4kDM0vhihM5xQVjOcUFY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60360035/%E4%B8%96%E7%95%8C%E7%9B%832026-%E5%B7%B4%E8%A5%BF%E5%B0%8D%E6%91%A9%E6%B4%9B%E5%93%A5-%E9%9B%B2%E5%B0%BC%E6%96%AF%E5%A5%A7%E6%96%AF%E5%A4%8F%E5%9F%BA%E7%BE%8E%E9%A0%98%E9%8A%9C-%E5%B0%BC%E9%A6%AC%E4%BE%BF%E6%9C%8D%E7%8F%BE%E8%BA%AB",
-    "timestamp": "2026-06-13T21:58:09.335Z",
     "strategy": ".content-card__main"
   }
 ];
