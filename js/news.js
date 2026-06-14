@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-14T10:03:58.558Z
+// Last updated: 2026-06-14T11:11:53.243Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "日本脱衣舞女親吐童年經歷！靠麻將識字、被當200萬日圓擔保",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260612/1142132476072693760547629.jpeg/PS2GuQzMHkS5lLEvxM7f2QaPodhgUB8tXzfh7F834ew?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%96%8B%E7%BD%90/60358548/%E6%97%A5%E6%9C%AC%E8%84%B1%E8%A1%A3%E8%88%9E%E5%A5%B3%E8%A6%AA%E5%90%90%E7%AB%A5%E5%B9%B4%E7%B6%93%E6%AD%B7-%E9%9D%A0%E9%BA%BB%E5%B0%87%E8%AD%98%E5%AD%97-%E8%A2%AB%E7%95%B6200%E8%90%AC%E6%97%A5%E5%9C%93%E6%93%94%E4%BF%9D",
+    "timestamp": "2026-06-14T11:11:53.243Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "荷蘭對日本2026世界盃｜直播賽程+香港時間+國家足球隊球員",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260528/1136613683368038400904658.jpeg/YtdrIr1Y6e10RVmjWD5YIRwo7wkpGOjKFBQDgxQUA4M?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60354271/%E8%80%80%E7%9C%BC%E6%AF%8F%E9%9B%86%E5%8A%87%E6%83%85-%E6%9C%80%E6%96%B0%E8%BF%BD%E5%8A%87%E6%97%A5%E6%9B%86-%E6%9B%B4%E6%96%B0%E6%99%82%E9%96%93-%E6%BC%94%E5%93%A1%E9%97%9C%E4%BF%82%E5%9C%96-%E8%A7%92%E8%89%B2%E7%B0%A1%E4%BB%8B",
     "timestamp": "2026-06-13T15:25:15.438Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "前TVB娛樂主播黃文意現身主播海選　爆離巢真相　力撐商天娥為人",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260613/1142503894790705152601285.jpeg/LLYcHJK8ruc1oENIu87fdV7GH1FM3xh_7yMdE-8jHRM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60359951/%E5%89%8Dtvb%E5%A8%9B%E6%A8%82%E4%B8%BB%E6%92%AD%E9%BB%83%E6%96%87%E6%84%8F%E7%8F%BE%E8%BA%AB%E4%B8%BB%E6%92%AD%E6%B5%B7%E9%81%B8-%E7%88%86%E9%9B%A2%E5%B7%A2%E7%9C%9F%E7%9B%B8-%E5%8A%9B%E6%92%90%E5%95%86%E5%A4%A9%E5%A8%A5%E7%82%BA%E4%BA%BA",
-    "timestamp": "2026-06-13T14:35:14.684Z",
     "strategy": ".content-card__main"
   }
 ];
