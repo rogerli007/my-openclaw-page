@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-14T18:15:48.281Z
+// Last updated: 2026-06-14T18:51:28.927Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "拾荒婦多次被搶錢搗亂　有樓但寧瞓天橋底：老公死咗一個人好唔慣",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260615/1142999054645465088321467.jpeg/SLQ4kOp65gwKJZDxFP38Cv-XpD6Oza608q1ghNetYIQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60360225/%E6%8B%BE%E8%8D%92%E5%A9%A6%E5%A4%9A%E6%AC%A1%E8%A2%AB%E6%90%B6%E9%8C%A2%E6%90%97%E4%BA%82-%E6%9C%89%E6%A8%93%E4%BD%86%E5%AF%A7%E7%9E%93%E5%A4%A9%E6%A9%8B%E5%BA%95-%E8%80%81%E5%85%AC%E6%AD%BB%E5%92%97%E4%B8%80%E5%80%8B%E4%BA%BA%E5%A5%BD%E5%94%94%E6%85%A3",
+    "timestamp": "2026-06-14T18:51:28.927Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "普京祝特朗普80大壽快樂　指對美伊衝突即將結束表示滿意",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260614/1142707303317770240304687.jpeg/8RcWbp1MyCsj67KhqQ6yZ8O4kDM0vhihM5xQVjOcUFY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60360035/%E4%B8%96%E7%95%8C%E7%9B%832026-%E5%B7%B4%E8%A5%BF%E5%B0%8D%E6%91%A9%E6%B4%9B%E5%93%A5-%E9%9B%B2%E5%B0%BC%E6%96%AF%E5%A5%A7%E6%96%AF%E5%A4%8F%E5%9F%BA%E7%BE%8E%E9%A0%98%E9%8A%9C-%E5%B0%BC%E9%A6%AC%E4%BE%BF%E6%9C%8D%E7%8F%BE%E8%BA%AB",
     "timestamp": "2026-06-13T21:58:09.335Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "世界盃2026｜卡塔爾1:1和瑞士　後衛補時頂入　取得分組賽第一分",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260614/1142696266828877824482670.jpeg/me2QzHOBUWpwBnLgl0AfKaEhi2oJso1U0RAeDtEQHg4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60360033/%E4%B8%96%E7%95%8C%E7%9B%832026-%E5%8D%A1%E5%A1%94%E7%88%BE1-1%E5%92%8C%E7%91%9E%E5%A3%AB-%E5%BE%8C%E8%A1%9B%E8%A3%9C%E6%99%82%E9%A0%82%E5%85%A5-%E5%8F%96%E5%BE%97%E5%88%86%E7%B5%84%E8%B3%BD%E7%AC%AC%E4%B8%80%E5%88%86",
-    "timestamp": "2026-06-13T21:22:31.175Z",
     "strategy": ".content-card__main"
   }
 ];
