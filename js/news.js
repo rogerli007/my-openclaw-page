@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-14T22:15:21.792Z
+// Last updated: 2026-06-14T22:45:43.831Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "基層逆襲女星獲百億富三代瘋狂追求　送CHANEL手袋：從沒給人買過",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260614/1142953610338897920478359.jpeg/rs2UZBVt2mpmLj_LVl7SzxatqS-G_qBtDehJcA3oSXA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60360139/%E5%90%B3%E5%8D%83%E8%AA%9E%E7%8D%B2%E7%99%BE%E5%84%84%E5%AF%8C%E4%B8%89%E4%BB%A3%E6%96%BD%E4%BC%AF%E9%9B%84%E7%98%8B%E7%8B%82%E8%BF%BD%E6%B1%82-%E9%80%81chanel%E6%89%8B%E8%A2%8B-%E5%BE%9E%E6%B2%92%E7%B5%A6%E4%BA%BA%E8%B2%B7%E9%81%8E",
+    "timestamp": "2026-06-14T22:45:43.831Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "「御用道友」轉型成功做創科執董　開餐廳說話霸氣：搵到錢要使吓",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20221120/670987773980971008406527.jpeg/XYaosNh6KWxEt9WpjTuedmL4OjMP3YtVSUPDHUlDwx0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60360077/%E6%9B%BE%E4%BF%8A%E8%8F%AF-%E4%B8%AD%E6%9D%B1%E6%83%B3%E5%90%8C%E4%B8%AD%E5%9C%8B%E7%99%BC%E5%B1%95%E6%96%B0%E8%83%BD%E6%BA%90-%E6%8C%87%E6%9C%9B%E4%BD%A2%E5%93%8B%E6%8A%AC%E9%8C%A2%E5%9A%9F%E9%A6%99%E6%B8%AF%E5%8F%AF%E8%83%BD%E6%9C%89%E8%90%BD%E5%B7%AE",
     "timestamp": "2026-06-14T03:56:07.344Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "4個星座自己活得隨便　其實很會照顧別人　天秤座的暖心不着痕跡",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260602/1138503897212522496524830.jpeg/YjaCoHjyJ4ZqrySs6PfuUWk0WsWt1bYYG65s2huubNo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60287721/4%E5%80%8B%E6%98%9F%E5%BA%A7%E8%87%AA%E5%B7%B1%E6%B4%BB%E5%BE%97%E9%9A%A8%E4%BE%BF-%E5%85%B6%E5%AF%A6%E5%BE%88%E6%9C%83%E7%85%A7%E9%A1%A7%E5%88%A5%E4%BA%BA-%E5%A4%A9%E7%A7%A4%E5%BA%A7%E7%9A%84%E6%9A%96%E5%BF%83%E4%B8%8D%E7%9D%80%E7%97%95%E8%B7%A1",
-    "timestamp": "2026-06-14T01:33:26.573Z",
     "strategy": ".content-card__main"
   }
 ];
