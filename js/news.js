@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-14T20:50:39.783Z
+// Last updated: 2026-06-14T21:37:37.842Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "中國使館提醒赴菲中國公民提前做好入境準備",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20251116/1066847755114123264982360.jpeg/6ALGyJywBRGe_5LqVXEAu5hJ6jPMUqLsTfbguE324Lg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60360233/%E4%B8%AD%E5%9C%8B%E4%BD%BF%E9%A4%A8%E6%8F%90%E9%86%92%E8%B5%B4%E8%8F%B2%E4%B8%AD%E5%9C%8B%E5%85%AC%E6%B0%91%E6%8F%90%E5%89%8D%E5%81%9A%E5%A5%BD%E5%85%A5%E5%A2%83%E6%BA%96%E5%82%99",
+    "timestamp": "2026-06-14T21:37:37.842Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "中國使館提醒赴菲中國公民提前做好入境準備",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260611/1141796847367491584247836.png/HYN5Zpj2W3kwQwd8A_AcM0uBJRzbZRbRxpZq6caWauk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60358792/%E6%B5%99%E6%B1%9F%E7%94%B7%E8%8A%B1-8000%E5%81%BD%E9%80%A0-%E4%B8%AD%E7%8D%8E%E6%8B%89%E7%92%B0-%E9%A8%99%E5%8F%96%E8%BF%91700%E7%AE%B1%E5%95%A4%E9%85%92%E5%87%BA%E5%94%AE%E7%89%9F%E5%88%A9%E7%B5%82%E8%A2%AB%E6%8D%95",
     "timestamp": "2026-06-14T00:15:06.657Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "白衣禽獸！日實習男醫生偷拍逾百女　腕錶偷拍孕婦辯稱：學醫所需",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260613/1142506340241903616614095.png/SAdW4rTLOK0twFGxW09SMScNgGaXs3LRLHPhsyxz4bM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E8%A9%B1%E9%A1%8C/60359145/%E7%99%BD%E8%A1%A3%E7%A6%BD%E7%8D%B8-%E6%97%A5%E5%AF%A6%E7%BF%92%E7%94%B7%E9%86%AB%E7%94%9F%E5%81%B7%E6%8B%8D%E9%80%BE%E7%99%BE%E5%A5%B3-%E8%85%95%E9%8C%B6%E5%81%B7%E6%8B%8D%E5%AD%95%E5%A9%A6%E8%BE%AF%E7%A8%B1-%E5%AD%B8%E9%86%AB%E6%89%80%E9%9C%80",
-    "timestamp": "2026-06-13T23:38:06.770Z",
     "strategy": ".content-card__main"
   }
 ];
