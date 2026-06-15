@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-15T02:48:25.032Z
+// Last updated: 2026-06-15T04:19:33.749Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "志蓮淨苑斥1520萬增購石門工廈偉達中心兩單位",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20201209/413361452628447232580369.png/DEvgAgZNIxfGnCBVSBd96XZIdefr30xI8npwQvJ6cEI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60360308/%E5%BF%97%E8%93%AE%E6%B7%A8%E8%8B%91%E6%96%A51520%E8%90%AC%E5%A2%9E%E8%B3%BC%E7%9F%B3%E9%96%80%E5%B7%A5%E5%BB%88%E5%81%89%E9%81%94%E4%B8%AD%E5%BF%83%E5%85%A9%E5%96%AE%E4%BD%8D",
+    "timestamp": "2026-06-15T04:19:33.749Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "瑞士公投否決「人口1000萬上限」提案　憂重創瑞歐關係與經貿",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260612/1142132476072693760547629.jpeg/PS2GuQzMHkS5lLEvxM7f2QaPodhgUB8tXzfh7F834ew?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%96%8B%E7%BD%90/60358548/%E6%97%A5%E6%9C%AC%E8%84%B1%E8%A1%A3%E8%88%9E%E5%A5%B3%E8%A6%AA%E5%90%90%E7%AB%A5%E5%B9%B4%E7%B6%93%E6%AD%B7-%E9%9D%A0%E9%BA%BB%E5%B0%87%E8%AD%98%E5%AD%97-%E8%A2%AB%E7%95%B6200%E8%90%AC%E6%97%A5%E5%9C%93%E6%93%94%E4%BF%9D",
     "timestamp": "2026-06-14T11:11:53.243Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "荷蘭對日本2026世界盃｜直播賽程+香港時間+國家足球隊球員",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260614/1142779530323169280178409.png/k-rO-JLXN6RzItm7rOkq1dJBpzEaZdDGM8aywDPGssA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60360064/%E8%8D%B7%E8%98%AD%E5%B0%8D%E6%97%A5%E6%9C%AC2026%E4%B8%96%E7%95%8C%E7%9B%83-%E7%9B%B4%E6%92%AD%E8%B3%BD%E7%A8%8B-%E9%A6%99%E6%B8%AF%E6%99%82%E9%96%93-%E5%9C%8B%E5%AE%B6%E8%B6%B3%E7%90%83%E9%9A%8A%E7%90%83%E5%93%A1",
-    "timestamp": "2026-06-14T10:03:58.558Z",
     "strategy": ".content-card__main"
   }
 ];
