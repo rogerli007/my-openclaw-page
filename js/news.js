@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-15T08:37:22.631Z
+// Last updated: 2026-06-15T12:57:47.774Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "曾傲棐推十八區小卡宣傳首個唱　粉絲當面逼宮求賣新歌會員Tee",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260615/1143257045823131648142578.jpeg/YTNJD2LB_r42XN7X_v1jEyOVEXU3xzwYBJLcTwSS3E8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60360563/%E6%9B%BE%E5%82%B2%E6%A3%90%E6%8E%A8%E5%8D%81%E5%85%AB%E5%8D%80%E5%B0%8F%E5%8D%A1%E5%AE%A3%E5%82%B3%E9%A6%96%E5%80%8B%E5%94%B1-%E7%B2%89%E7%B5%B2%E7%95%B6%E9%9D%A2%E9%80%BC%E5%AE%AE%E6%B1%82%E8%B3%A3%E6%96%B0%E6%AD%8C%E6%9C%83%E5%93%A1tee",
+    "timestamp": "2026-06-15T12:57:47.774Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "林俊傑攜23歲女友現身香港機場　著情侶裝高調放閃遭網民質疑炒作",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260614/1142930029236195328054697.jpeg/WACgEJJ0Tum4e8zUf3dMDjGZq7tZB1i31LxUttS8VLY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60360195/%E4%BB%A5%E8%89%B2%E5%88%97%E7%A9%BA%E8%A5%B2%E8%B2%9D%E9%AD%AF%E7%89%B9%E5%8D%97%E9%83%8A%E8%87%B42%E6%AD%BB4%E5%82%B7-%E4%BC%8A%E6%9C%97%E8%AD%B0%E9%95%B7-%E7%BE%8E%E4%BC%8A%E8%AB%87%E5%88%A4%E5%B0%87%E7%84%A1%E6%B3%95%E6%8E%A8%E9%80%B2",
     "timestamp": "2026-06-14T14:36:15.045Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "《三國演義》騙了你多年：「桃園三結義」並沒發生、大哥不是劉備",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260612/1142166146900824064273016.png/RRaTtwHvP0PQI1f9oPqI0tx4N6LK6ufHENjrqBDY66g?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60359738/%E4%B8%89%E5%9C%8B%E6%BC%94%E7%BE%A9-%E9%A8%99%E4%BA%86%E4%BD%A0%E5%A4%9A%E5%B9%B4-%E6%A1%83%E5%9C%92%E4%B8%89%E7%B5%90%E7%BE%A9-%E4%B8%A6%E6%B2%92%E7%99%BC%E7%94%9F-%E5%A4%A7%E5%93%A5%E4%B8%8D%E6%98%AF%E5%8A%89%E5%82%99",
-    "timestamp": "2026-06-14T13:42:57.531Z",
     "strategy": ".content-card__main"
   }
 ];
