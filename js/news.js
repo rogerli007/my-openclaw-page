@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-15T23:07:47.524Z
+// Last updated: 2026-06-15T23:46:48.399Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "世界盃2026｜沙拿34歲生日交1助攻達2項里程碑　惜隊史首勝仍無緣",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260616/1143437262365659136905362.jpeg/MDuRFDLlmJe9xOKwcZuCyKGqftvMj1_WoIakHqCGpB4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60360627/%E4%B8%96%E7%95%8C%E7%9B%832026-%E6%B2%99%E6%8B%BF34%E6%AD%B2%E7%94%9F%E6%97%A5%E4%BA%A41%E5%8A%A9%E6%94%BB%E9%81%942%E9%A0%85%E9%87%8C%E7%A8%8B%E7%A2%91-%E6%83%9C%E9%9A%8A%E5%8F%B2%E9%A6%96%E5%8B%9D%E4%BB%8D%E7%84%A1%E7%B7%A3",
+    "timestamp": "2026-06-15T23:46:48.399Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "流浮山19歲男子被3惡漢硬物及刀襲擊　身體多處受傷　送院時清醒",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260615/1142999054645465088321467.jpeg/SLQ4kOp65gwKJZDxFP38Cv-XpD6Oza608q1ghNetYIQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60360225/%E6%8B%BE%E8%8D%92%E5%A9%A6%E5%A4%9A%E6%AC%A1%E8%A2%AB%E6%90%B6%E9%8C%A2%E6%90%97%E4%BA%82-%E6%9C%89%E6%A8%93%E4%BD%86%E5%AF%A7%E7%9E%93%E5%A4%A9%E6%A9%8B%E5%BA%95-%E8%80%81%E5%85%AC%E6%AD%BB%E5%92%97%E4%B8%80%E5%80%8B%E4%BA%BA%E5%A5%BD%E5%94%94%E6%85%A3",
     "timestamp": "2026-06-14T18:51:28.927Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "普京祝特朗普80大壽快樂　指對美伊衝突即將結束表示滿意",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250819/1034410566807982080539704.jpeg/OMg7aHYcp7lUyouv8lOPid5RQNUuOxzNwyNmNsMjZjY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60360223/%E6%99%AE%E4%BA%AC%E7%A5%9D%E7%89%B9%E6%9C%97%E6%99%AE80%E5%A4%A7%E5%A3%BD%E5%BF%AB%E6%A8%82-%E6%8C%87%E5%B0%8D%E7%BE%8E%E4%BC%8A%E8%A1%9D%E7%AA%81%E5%8D%B3%E5%B0%87%E7%B5%90%E6%9D%9F%E8%A1%A8%E7%A4%BA%E6%BB%BF%E6%84%8F",
-    "timestamp": "2026-06-14T18:15:48.281Z",
     "strategy": ".content-card__main"
   }
 ];
