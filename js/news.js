@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-15T12:57:47.774Z
+// Last updated: 2026-06-15T18:43:18.387Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "世界盃2026｜西班牙0:0賽和佛得角　佛得角門將禾仙夏多次立功",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260616/1143377429763461120938452.jpeg/m4KXxgnq47R0_IOiZEjYyIZRd09fc5eg7fAyyO3wMsg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60360616/%E4%B8%96%E7%95%8C%E7%9B%832026-%E8%A5%BF%E7%8F%AD%E7%89%990-0%E8%B3%BD%E5%92%8C%E4%BD%9B%E5%BE%97%E8%A7%92-%E4%BD%9B%E5%BE%97%E8%A7%92%E9%96%80%E5%B0%87%E7%A6%BE%E4%BB%99%E5%A4%8F%E5%A4%9A%E6%AC%A1%E7%AB%8B%E5%8A%9F",
+    "timestamp": "2026-06-15T18:43:18.387Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "曾傲棐推十八區小卡宣傳首個唱　粉絲當面逼宮求賣新歌會員Tee",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260424/1124410338825998336814695.jpeg/C79c7oT-zDkwCmkP6BkKCy-xMDDY8tlcwWU87sFlPO4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60343261/%E4%B8%96%E7%95%8C%E7%9B%832026%E8%8D%B7%E8%98%AD-%E8%B6%B3%E7%90%83%E6%8E%92%E5%90%8D-%E5%9C%8B%E5%AE%B6%E9%9A%8A%E7%90%83%E5%93%A1%E5%90%8D%E5%96%AE%E9%99%A3%E5%AE%B9-%E6%9C%80%E6%96%B0%E8%B3%BD%E7%A8%8B",
     "timestamp": "2026-06-14T15:30:16.968Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "以色列空襲貝魯特南郊致2死4傷　伊朗議長：美伊談判將無法推進",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260614/1142930029236195328054697.jpeg/WACgEJJ0Tum4e8zUf3dMDjGZq7tZB1i31LxUttS8VLY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60360195/%E4%BB%A5%E8%89%B2%E5%88%97%E7%A9%BA%E8%A5%B2%E8%B2%9D%E9%AD%AF%E7%89%B9%E5%8D%97%E9%83%8A%E8%87%B42%E6%AD%BB4%E5%82%B7-%E4%BC%8A%E6%9C%97%E8%AD%B0%E9%95%B7-%E7%BE%8E%E4%BC%8A%E8%AB%87%E5%88%A4%E5%B0%87%E7%84%A1%E6%B3%95%E6%8E%A8%E9%80%B2",
-    "timestamp": "2026-06-14T14:36:15.045Z",
     "strategy": ".content-card__main"
   }
 ];
