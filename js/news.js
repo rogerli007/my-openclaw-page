@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-15T20:04:06.596Z
+// Last updated: 2026-06-15T21:13:28.402Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美軍一架B-52轟炸機在加州空軍基地起飛後墜毀",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260616/1143407658955444224459067.png/_LnnslX9wZKPk9MhM3MBQEnXBCcT5rvAUX3ZnlF92Z4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60360621/%E7%BE%8E%E8%BB%8D%E4%B8%80%E6%9E%B6b-52%E8%BD%9F%E7%82%B8%E6%A9%9F%E5%9C%A8%E5%8A%A0%E5%B7%9E%E7%A9%BA%E8%BB%8D%E5%9F%BA%E5%9C%B0%E8%B5%B7%E9%A3%9B%E5%BE%8C%E5%A2%9C%E6%AF%80",
+    "timestamp": "2026-06-15T21:13:28.402Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "加州州長指責特朗普下令司法部調查他與妻子　因其考慮競選總統",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260615/1142985939547590656140526.jpeg/jTX-V5xaoPuzSZmsK4eUcMBaBLYf-x6AT_w7l0_8O5c?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60360220/g7%E5%B3%B0%E6%9C%83%E8%88%89%E8%A1%8C%E4%B9%8B%E9%9A%9B%E6%95%B8%E5%8D%83%E4%BA%BA%E6%97%A5%E5%85%A7%E7%93%A6%E7%A4%BA%E5%A8%81-%E6%B3%95%E5%9C%8B%E7%91%9E%E5%A3%AB%E5%B0%87%E9%83%A8%E7%BD%B2%E9%80%BE%E8%90%AC%E5%90%8D%E8%AD%A6%E5%8A%9B",
     "timestamp": "2026-06-14T16:51:40.888Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "孔德賢澄清狂考牌並非因為窮要兼職或轉行　曾經大花筒已學會儲蓄",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260614/1142871900280590336625178.jpeg/gVdybzad1IRm7asob78YBSN8eqjynYi9ouNLJKLjSyQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60360149/%E5%AD%94%E5%BE%B7%E8%B3%A2%E6%BE%84%E6%B8%85%E7%8B%82%E8%80%83%E7%89%8C%E4%B8%A6%E9%9D%9E%E5%9B%A0%E7%82%BA%E7%AA%AE%E8%A6%81%E5%85%BC%E8%81%B7%E6%88%96%E8%BD%89%E8%A1%8C-%E6%9B%BE%E7%B6%93%E5%A4%A7%E8%8A%B1%E7%AD%92%E5%B7%B2%E5%AD%B8%E6%9C%83%E5%84%B2%E8%93%84",
-    "timestamp": "2026-06-14T16:08:50.508Z",
     "strategy": ".content-card__main"
   }
 ];
