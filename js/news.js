@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-15T00:19:56.701Z
+// Last updated: 2026-06-15T01:37:24.221Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "兒子網戀兩個半月欲結婚　女方索百萬台幣「安心費」　母疑遇詐騙",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260528/1136619493993222144729650.jpeg/0QwWyTCUp3URCFuGNOKBanbLGZIQFTWijKSJfoykiX4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60281315/%E5%85%92%E5%AD%90%E7%B6%B2%E6%88%80%E5%85%A9%E5%80%8B%E5%8D%8A%E6%9C%88%E6%AC%B2%E7%B5%90%E5%A9%9A-%E5%A5%B3%E6%96%B9%E7%B4%A2%E7%99%BE%E8%90%AC%E5%8F%B0%E5%B9%A3-%E5%AE%89%E5%BF%83%E8%B2%BB-%E6%AF%8D%E7%96%91%E9%81%87%E8%A9%90%E9%A8%99",
+    "timestamp": "2026-06-15T01:37:24.221Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "元朗公路私家車疑自炒撞水馬　翻側橫亘路中　往上水擠塞",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260514/1131741570627014656158973.jpeg/0wbQ6PiL22YYeQITngvpPIAUN1r5gXjWZgyLWXwMi1k?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60360043/%E6%9C%80%E6%96%B0%E5%A4%A9%E6%B0%A3-%E5%A4%A9%E6%96%87%E5%8F%B0-%E4%BB%8A%E6%99%9A%E8%87%B3%E5%91%A8%E4%BA%8C%E9%83%A8%E5%88%86%E5%9C%B0%E5%8D%80%E9%9B%A8%E5%8B%A2%E7%89%B9%E5%88%A5%E5%A4%A7-%E5%8F%AF%E8%83%BD%E5%87%BA%E7%8F%BE%E6%B0%B4%E6%B5%B8",
     "timestamp": "2026-06-14T08:41:39.792Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "鄭麗文訪美出席哈佛俱樂部午餐會：期望台美攜手促進印太地區和平",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260614/1142844055432990720108275.png/EiC8Ra4v6GcvSKXrU92OS9zIxf2DlHdYXp1yel6dcno?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8F%B0%E7%81%A3%E6%96%B0%E8%81%9E/60360117/%E9%84%AD%E9%BA%97%E6%96%87%E8%A8%AA%E7%BE%8E%E5%87%BA%E5%B8%AD%E5%93%88%E4%BD%9B%E4%BF%B1%E6%A8%82%E9%83%A8%E5%8D%88%E9%A4%90%E6%9C%83-%E6%9C%9F%E6%9C%9B%E5%8F%B0%E7%BE%8E%E6%94%9C%E6%89%8B%E4%BF%83%E9%80%B2%E5%8D%B0%E5%A4%AA%E5%9C%B0%E5%8D%80%E5%92%8C%E5%B9%B3",
-    "timestamp": "2026-06-14T07:19:41.549Z",
     "strategy": ".content-card__main"
   }
 ];
