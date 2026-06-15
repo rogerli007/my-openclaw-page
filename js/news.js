@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-15T21:13:28.402Z
+// Last updated: 2026-06-15T22:08:46.465Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "學霸港姐進攻內地直播騷流利法文　頂尖學府商科畢業吸金力驚人",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260615/1143296592393015296714396.jpeg/3-iWiKACCJUjlWd0en1-CR3tH-mn2EyegiM03oIjNN4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60360420/%E5%AD%B8%E9%9C%B8%E6%B8%AF%E5%A7%90%E9%80%B2%E6%94%BB%E5%85%A7%E5%9C%B0%E7%9B%B4%E6%92%AD%E9%A8%B7%E6%B5%81%E5%88%A9%E6%B3%95%E6%96%87-%E9%A0%82%E5%B0%96%E5%AD%B8%E5%BA%9C%E5%95%86%E7%A7%91%E7%95%A2%E6%A5%AD%E5%90%B8%E9%87%91%E5%8A%9B%E9%A9%9A%E4%BA%BA",
+    "timestamp": "2026-06-15T22:08:46.465Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美軍一架B-52轟炸機在加州空軍基地起飛後墜毀",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260522/1134539738603065344601329.jpeg/4BZJKSAfScM2F1y2PUjUulD-EGIRaTY5vUqjkL1Ko5A?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60352586/%E6%97%A5%E6%9C%AC%E4%B8%96%E7%95%8C%E7%9B%832026-%E5%9C%8B%E5%AE%B6%E9%9A%8A%E7%90%83%E5%93%A1%E5%90%8D%E5%96%AE%E9%99%A3%E5%AE%B9-%E8%B6%B3%E7%90%83%E6%8E%92%E5%90%8D-%E6%9C%80%E6%96%B0%E8%B3%BD%E7%A8%8B",
     "timestamp": "2026-06-14T17:38:39.577Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "G7峰會舉行之際數千人日內瓦示威　法國瑞士將部署逾萬名警力",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260615/1142985939547590656140526.jpeg/jTX-V5xaoPuzSZmsK4eUcMBaBLYf-x6AT_w7l0_8O5c?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60360220/g7%E5%B3%B0%E6%9C%83%E8%88%89%E8%A1%8C%E4%B9%8B%E9%9A%9B%E6%95%B8%E5%8D%83%E4%BA%BA%E6%97%A5%E5%85%A7%E7%93%A6%E7%A4%BA%E5%A8%81-%E6%B3%95%E5%9C%8B%E7%91%9E%E5%A3%AB%E5%B0%87%E9%83%A8%E7%BD%B2%E9%80%BE%E8%90%AC%E5%90%8D%E8%AD%A6%E5%8A%9B",
-    "timestamp": "2026-06-14T16:51:40.888Z",
     "strategy": ".content-card__main"
   }
 ];
