@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-15T18:43:18.387Z
+// Last updated: 2026-06-15T20:04:06.596Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "加州州長指責特朗普下令司法部調查他與妻子　因其考慮競選總統",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260616/1143392350127525888641785.jpeg/ng3twNQ98SCRhP-r_yvgN-f34WuReWQVb1hM8W9YTPE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60360618/%E5%8A%A0%E5%B7%9E%E5%B7%9E%E9%95%B7%E6%8C%87%E8%B2%AC%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8B%E4%BB%A4%E5%8F%B8%E6%B3%95%E9%83%A8%E8%AA%BF%E6%9F%A5%E4%BB%96%E8%88%87%E5%A6%BB%E5%AD%90-%E5%9B%A0%E5%85%B6%E8%80%83%E6%85%AE%E7%AB%B6%E9%81%B8%E7%B8%BD%E7%B5%B1",
+    "timestamp": "2026-06-15T20:04:06.596Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "世界盃2026｜西班牙0:0賽和佛得角　佛得角門將禾仙夏多次立功",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260614/1142871900280590336625178.jpeg/gVdybzad1IRm7asob78YBSN8eqjynYi9ouNLJKLjSyQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60360149/%E5%AD%94%E5%BE%B7%E8%B3%A2%E6%BE%84%E6%B8%85%E7%8B%82%E8%80%83%E7%89%8C%E4%B8%A6%E9%9D%9E%E5%9B%A0%E7%82%BA%E7%AA%AE%E8%A6%81%E5%85%BC%E8%81%B7%E6%88%96%E8%BD%89%E8%A1%8C-%E6%9B%BE%E7%B6%93%E5%A4%A7%E8%8A%B1%E7%AD%92%E5%B7%B2%E5%AD%B8%E6%9C%83%E5%84%B2%E8%93%84",
     "timestamp": "2026-06-14T16:08:50.508Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "世界盃2026荷蘭｜足球排名+國家隊球員名單陣容+最新賽程",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260424/1124410338825998336814695.jpeg/C79c7oT-zDkwCmkP6BkKCy-xMDDY8tlcwWU87sFlPO4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60343261/%E4%B8%96%E7%95%8C%E7%9B%832026%E8%8D%B7%E8%98%AD-%E8%B6%B3%E7%90%83%E6%8E%92%E5%90%8D-%E5%9C%8B%E5%AE%B6%E9%9A%8A%E7%90%83%E5%93%A1%E5%90%8D%E5%96%AE%E9%99%A3%E5%AE%B9-%E6%9C%80%E6%96%B0%E8%B3%BD%E7%A8%8B",
-    "timestamp": "2026-06-14T15:30:16.968Z",
     "strategy": ".content-card__main"
   }
 ];
