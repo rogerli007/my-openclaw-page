@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-15T01:37:24.221Z
+// Last updated: 2026-06-15T02:48:25.032Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "瑞士公投否決「人口1000萬上限」提案　憂重創瑞歐關係與經貿",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260615/1143138540016635904219704.jpeg/_53D5p-NhNolJj0ANLp2U2dDhtLFnqMeUkzfKFJM3yg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60360297/%E7%91%9E%E5%A3%AB%E5%85%AC%E6%8A%95%E5%90%A6%E6%B1%BA-%E4%BA%BA%E5%8F%A31000%E8%90%AC%E4%B8%8A%E9%99%90-%E6%8F%90%E6%A1%88-%E6%86%82%E9%87%8D%E5%89%B5%E7%91%9E%E6%AD%90%E9%97%9C%E4%BF%82%E8%88%87%E7%B6%93%E8%B2%BF",
+    "timestamp": "2026-06-15T02:48:25.032Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "兒子網戀兩個半月欲結婚　女方索百萬台幣「安心費」　母疑遇詐騙",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260614/1142779530323169280178409.png/k-rO-JLXN6RzItm7rOkq1dJBpzEaZdDGM8aywDPGssA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60360064/%E8%8D%B7%E8%98%AD%E5%B0%8D%E6%97%A5%E6%9C%AC2026%E4%B8%96%E7%95%8C%E7%9B%83-%E7%9B%B4%E6%92%AD%E8%B3%BD%E7%A8%8B-%E9%A6%99%E6%B8%AF%E6%99%82%E9%96%93-%E5%9C%8B%E5%AE%B6%E8%B6%B3%E7%90%83%E9%9A%8A%E7%90%83%E5%93%A1",
     "timestamp": "2026-06-14T10:03:58.558Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "最新天氣｜天文台：今晚至周二部分地區雨勢特別大　可能出現水浸",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260514/1131741570627014656158973.jpeg/0wbQ6PiL22YYeQITngvpPIAUN1r5gXjWZgyLWXwMi1k?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60360043/%E6%9C%80%E6%96%B0%E5%A4%A9%E6%B0%A3-%E5%A4%A9%E6%96%87%E5%8F%B0-%E4%BB%8A%E6%99%9A%E8%87%B3%E5%91%A8%E4%BA%8C%E9%83%A8%E5%88%86%E5%9C%B0%E5%8D%80%E9%9B%A8%E5%8B%A2%E7%89%B9%E5%88%A5%E5%A4%A7-%E5%8F%AF%E8%83%BD%E5%87%BA%E7%8F%BE%E6%B0%B4%E6%B5%B8",
-    "timestamp": "2026-06-14T08:41:39.792Z",
     "strategy": ".content-card__main"
   }
 ];
