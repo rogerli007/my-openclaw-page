@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-14T23:48:01.246Z
+// Last updated: 2026-06-15T00:19:56.701Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "元朗公路私家車疑自炒撞水馬　翻側橫亘路中　往上水擠塞",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260615/1143103654203494400864319.jpeg/4xQl8MKsdPHJskFVUXOckAMdtzKj6ni5KBe5ZCgXuWQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60360244/%E5%85%83%E6%9C%97%E5%85%AC%E8%B7%AF%E7%A7%81%E5%AE%B6%E8%BB%8A%E7%96%91%E8%87%AA%E7%82%92%E6%92%9E%E6%B0%B4%E9%A6%AC-%E7%BF%BB%E5%81%B4%E6%A9%AB%E4%BA%98%E8%B7%AF%E4%B8%AD-%E5%BE%80%E4%B8%8A%E6%B0%B4%E6%93%A0%E5%A1%9E",
+    "timestamp": "2026-06-15T00:19:56.701Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "伊朗：所有軍事行動今晚起停止　最終協議前提為履行備忘錄承諾",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260614/1142844055432990720108275.png/EiC8Ra4v6GcvSKXrU92OS9zIxf2DlHdYXp1yel6dcno?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8F%B0%E7%81%A3%E6%96%B0%E8%81%9E/60360117/%E9%84%AD%E9%BA%97%E6%96%87%E8%A8%AA%E7%BE%8E%E5%87%BA%E5%B8%AD%E5%93%88%E4%BD%9B%E4%BF%B1%E6%A8%82%E9%83%A8%E5%8D%88%E9%A4%90%E6%9C%83-%E6%9C%9F%E6%9C%9B%E5%8F%B0%E7%BE%8E%E6%94%9C%E6%89%8B%E4%BF%83%E9%80%B2%E5%8D%B0%E5%A4%AA%E5%9C%B0%E5%8D%80%E5%92%8C%E5%B9%B3",
     "timestamp": "2026-06-14T07:19:41.549Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "珍惜生命｜東涌22歲男子跳橋圖輕生　送院救治",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20251206/1073902385941712896852634.jpeg/QxyUGHenJd5VhOn8JwrFVrAJu6091iynvmMnL75jJy8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60360105/%E7%8F%8D%E6%83%9C%E7%94%9F%E5%91%BD-%E6%9D%B1%E6%B6%8C22%E6%AD%B2%E7%94%B7%E5%AD%90%E8%B7%B3%E6%A9%8B%E5%9C%96%E8%BC%95%E7%94%9F-%E9%80%81%E9%99%A2%E6%95%91%E6%B2%BB",
-    "timestamp": "2026-06-14T05:46:28.900Z",
     "strategy": ".content-card__main"
   }
 ];
