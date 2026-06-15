@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-15T06:13:57.780Z
+// Last updated: 2026-06-15T08:37:22.631Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "林俊傑攜23歲女友現身香港機場　著情侶裝高調放閃遭網民質疑炒作",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260615/1143210418190159872082539.jpeg/C3Dv2-Nbuc1FsBAQJ7Opgx9JCkgLK73k6_QS9Ov0EvQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60360388/%E6%9E%97%E4%BF%8A%E5%82%91%E6%94%9C23%E6%AD%B2%E5%A5%B3%E5%8F%8B%E7%8F%BE%E8%BA%AB%E9%A6%99%E6%B8%AF%E6%A9%9F%E5%A0%B4-%E8%91%97%E6%83%85%E4%BE%B6%E8%A3%9D%E9%AB%98%E8%AA%BF%E6%94%BE%E9%96%83%E9%81%AD%E7%B6%B2%E6%B0%91%E8%B3%AA%E7%96%91%E7%82%92%E4%BD%9C",
+    "timestamp": "2026-06-15T08:37:22.631Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "世界盃2026｜冠軍大熱西班牙今晚鬥佛得角　耶馬傷癒先列後備",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260612/1142166146900824064273016.png/RRaTtwHvP0PQI1f9oPqI0tx4N6LK6ufHENjrqBDY66g?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60359738/%E4%B8%89%E5%9C%8B%E6%BC%94%E7%BE%A9-%E9%A8%99%E4%BA%86%E4%BD%A0%E5%A4%9A%E5%B9%B4-%E6%A1%83%E5%9C%92%E4%B8%89%E7%B5%90%E7%BE%A9-%E4%B8%A6%E6%B2%92%E7%99%BC%E7%94%9F-%E5%A4%A7%E5%93%A5%E4%B8%8D%E6%98%AF%E5%8A%89%E5%82%99",
     "timestamp": "2026-06-14T13:42:57.531Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "掉髮真正元兇是洗頭時做錯2件事　日本醫生親授夏季頭皮保養指南",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20251022/1057616463776452608876452.jpeg/ePVLXnEna_nJ8oiUQ3NkjVndKl9QLpCmJTCjYSUwo2E?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%BE%8E%E5%AE%B9%E6%89%8B%E5%B8%B3/60287553/%E6%8E%89%E9%AB%AE%E7%9C%9F%E6%AD%A3%E5%85%83%E5%85%87%E6%98%AF%E6%B4%97%E9%A0%AD%E6%99%82%E5%81%9A%E9%8C%AF2%E4%BB%B6%E4%BA%8B-%E6%97%A5%E6%9C%AC%E9%86%AB%E7%94%9F%E8%A6%AA%E6%8E%88%E5%A4%8F%E5%AD%A3%E9%A0%AD%E7%9A%AE%E4%BF%9D%E9%A4%8A%E6%8C%87%E5%8D%97",
-    "timestamp": "2026-06-14T12:00:27.337Z",
     "strategy": ".content-card__main"
   }
 ];
