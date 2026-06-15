@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-15T04:19:33.749Z
+// Last updated: 2026-06-15T06:13:57.780Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "世界盃2026｜冠軍大熱西班牙今晚鬥佛得角　耶馬傷癒先列後備",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260615/1143166871311224832408325.jpeg/u92D5bis6jezWkVnUJW-NkOeL1D19IAV2CCTpNggk6Q?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60360324/%E4%B8%96%E7%95%8C%E7%9B%832026-%E5%86%A0%E8%BB%8D%E5%A4%A7%E7%86%B1%E8%A5%BF%E7%8F%AD%E7%89%99%E4%BB%8A%E6%99%9A%E9%AC%A5%E4%BD%9B%E5%BE%97%E8%A7%92-%E8%80%B6%E9%A6%AC%E5%82%B7%E7%99%92%E5%85%88%E5%88%97%E5%BE%8C%E5%82%99",
+    "timestamp": "2026-06-15T06:13:57.780Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "志蓮淨苑斥1520萬增購石門工廈偉達中心兩單位",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20251022/1057616463776452608876452.jpeg/ePVLXnEna_nJ8oiUQ3NkjVndKl9QLpCmJTCjYSUwo2E?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%BE%8E%E5%AE%B9%E6%89%8B%E5%B8%B3/60287553/%E6%8E%89%E9%AB%AE%E7%9C%9F%E6%AD%A3%E5%85%83%E5%85%87%E6%98%AF%E6%B4%97%E9%A0%AD%E6%99%82%E5%81%9A%E9%8C%AF2%E4%BB%B6%E4%BA%8B-%E6%97%A5%E6%9C%AC%E9%86%AB%E7%94%9F%E8%A6%AA%E6%8E%88%E5%A4%8F%E5%AD%A3%E9%A0%AD%E7%9A%AE%E4%BF%9D%E9%A4%8A%E6%8C%87%E5%8D%97",
     "timestamp": "2026-06-14T12:00:27.337Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "日本脱衣舞女親吐童年經歷！靠麻將識字、被當200萬日圓擔保",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260612/1142132476072693760547629.jpeg/PS2GuQzMHkS5lLEvxM7f2QaPodhgUB8tXzfh7F834ew?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%96%8B%E7%BD%90/60358548/%E6%97%A5%E6%9C%AC%E8%84%B1%E8%A1%A3%E8%88%9E%E5%A5%B3%E8%A6%AA%E5%90%90%E7%AB%A5%E5%B9%B4%E7%B6%93%E6%AD%B7-%E9%9D%A0%E9%BA%BB%E5%B0%87%E8%AD%98%E5%AD%97-%E8%A2%AB%E7%95%B6200%E8%90%AC%E6%97%A5%E5%9C%93%E6%93%94%E4%BF%9D",
-    "timestamp": "2026-06-14T11:11:53.243Z",
     "strategy": ".content-card__main"
   }
 ];
