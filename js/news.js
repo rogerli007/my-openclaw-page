@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-16T19:26:30.696Z
+// Last updated: 2026-06-16T21:38:11.083Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "特朗普晤卡尼對話曝光　稱滿意加方向中國電動車進口設限｜有片",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260617/1143762878042476544071948.jpeg/XHkbLb6GCEyazyb75Msm-Pt9uD4p_eF3m8lh-JvJYfg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60361058/%E7%89%B9%E6%9C%97%E6%99%AE%E6%99%A4%E5%8D%A1%E5%B0%BC%E5%B0%8D%E8%A9%B1%E6%9B%9D%E5%85%89-%E7%A8%B1%E6%BB%BF%E6%84%8F%E5%8A%A0%E6%96%B9%E5%90%91%E4%B8%AD%E5%9C%8B%E9%9B%BB%E5%8B%95%E8%BB%8A%E9%80%B2%E5%8F%A3%E8%A8%AD%E9%99%90-%E6%9C%89%E7%89%87",
+    "timestamp": "2026-06-16T21:38:11.083Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美伊協議細節曝光　WSJ：伊朗簽署後可立即出售石油",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260615/1143166871311224832408325.jpeg/u92D5bis6jezWkVnUJW-NkOeL1D19IAV2CCTpNggk6Q?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60360324/%E4%B8%96%E7%95%8C%E7%9B%832026-%E5%86%A0%E8%BB%8D%E5%A4%A7%E7%86%B1%E8%A5%BF%E7%8F%AD%E7%89%99%E4%BB%8A%E6%99%9A%E9%AC%A5%E4%BD%9B%E5%BE%97%E8%A7%92-%E8%80%B6%E9%A6%AC%E5%82%B7%E7%99%92%E5%85%88%E5%88%97%E5%BE%8C%E5%82%99",
     "timestamp": "2026-06-15T06:13:57.780Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "志蓮淨苑斥1520萬增購石門工廈偉達中心兩單位",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20201209/413361452628447232580369.png/DEvgAgZNIxfGnCBVSBd96XZIdefr30xI8npwQvJ6cEI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60360308/%E5%BF%97%E8%93%AE%E6%B7%A8%E8%8B%91%E6%96%A51520%E8%90%AC%E5%A2%9E%E8%B3%BC%E7%9F%B3%E9%96%80%E5%B7%A5%E5%BB%88%E5%81%89%E9%81%94%E4%B8%AD%E5%BF%83%E5%85%A9%E5%96%AE%E4%BD%8D",
-    "timestamp": "2026-06-15T04:19:33.749Z",
     "strategy": ".content-card__main"
   }
 ];
