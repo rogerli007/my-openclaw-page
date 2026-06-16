@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-16T22:32:11.602Z
+// Last updated: 2026-06-16T23:09:58.728Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "世界盃2026｜夏蘭特梅開二度侯賽因破門　半場挪威2：1領先伊拉克",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260617/1143807394329923584794215.jpeg/ahaS0GOm1cdl7Tzmd68BwnD3Ibu9t4mJsbb9ybG2_ck?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60361069/%E4%B8%96%E7%95%8C%E7%9B%832026-%E5%A4%8F%E8%98%AD%E7%89%B9%E6%A2%85%E9%96%8B%E4%BA%8C%E5%BA%A6%E4%BE%AF%E8%B3%BD%E5%9B%A0%E7%A0%B4%E9%96%80-%E5%8D%8A%E5%A0%B4%E6%8C%AA%E5%A8%812-1%E9%A0%98%E5%85%88%E4%BC%8A%E6%8B%89%E5%85%8B",
+    "timestamp": "2026-06-16T23:09:58.728Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "元朗露天車房鐵皮屋和貨車起火　曾傳爆炸聲　消防救出2犬無人傷",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260615/1143257045823131648142578.jpeg/YTNJD2LB_r42XN7X_v1jEyOVEXU3xzwYBJLcTwSS3E8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60360563/%E6%9B%BE%E5%82%B2%E6%A3%90%E6%8E%A8%E5%8D%81%E5%85%AB%E5%8D%80%E5%B0%8F%E5%8D%A1%E5%AE%A3%E5%82%B3%E9%A6%96%E5%80%8B%E5%94%B1-%E7%B2%89%E7%B5%B2%E7%95%B6%E9%9D%A2%E9%80%BC%E5%AE%AE%E6%B1%82%E8%B3%A3%E6%96%B0%E6%AD%8C%E6%9C%83%E5%93%A1tee",
     "timestamp": "2026-06-15T12:57:47.774Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "林俊傑攜23歲女友現身香港機場　著情侶裝高調放閃遭網民質疑炒作",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260615/1143210418190159872082539.jpeg/C3Dv2-Nbuc1FsBAQJ7Opgx9JCkgLK73k6_QS9Ov0EvQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60360388/%E6%9E%97%E4%BF%8A%E5%82%91%E6%94%9C23%E6%AD%B2%E5%A5%B3%E5%8F%8B%E7%8F%BE%E8%BA%AB%E9%A6%99%E6%B8%AF%E6%A9%9F%E5%A0%B4-%E8%91%97%E6%83%85%E4%BE%B6%E8%A3%9D%E9%AB%98%E8%AA%BF%E6%94%BE%E9%96%83%E9%81%AD%E7%B6%B2%E6%B0%91%E8%B3%AA%E7%96%91%E7%82%92%E4%BD%9C",
-    "timestamp": "2026-06-15T08:37:22.631Z",
     "strategy": ".content-card__main"
   }
 ];
