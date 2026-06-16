@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-15T23:46:48.399Z
+// Last updated: 2026-06-16T00:22:49.079Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "錯上含糖汽水求免單？食客借糖尿病發難　店家慘打五折　全網怒罵",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260615/1143242824641155072364520.png/YDNt61XRmUYLmppcilC0JkY6gWY0UFuqZznf22c539s",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60360273/%E9%8C%AF%E4%B8%8A%E5%90%AB%E7%B3%96%E6%B1%BD%E6%B0%B4%E6%B1%82%E5%85%8D%E5%96%AE-%E9%A3%9F%E5%AE%A2%E5%80%9F%E7%B3%96%E5%B0%BF%E7%97%85%E7%99%BC%E9%9B%A3-%E5%BA%97%E5%AE%B6%E6%85%98%E6%89%93%E4%BA%94%E6%8A%98-%E5%85%A8%E7%B6%B2%E6%80%92%E7%BD%B5",
+    "timestamp": "2026-06-16T00:22:49.079Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "世界盃2026｜沙拿34歲生日交1助攻達2項里程碑　惜隊史首勝仍無緣",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260615/1143025394945888256534762.jpeg/aDnge7nLdzCWGC8ZSnySJs2TfYKyBQZ5YvWzJGL1syQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60360227/%E4%B8%96%E7%95%8C%E7%9B%832026-%E5%BE%B7%E5%9C%8B%E9%A6%96%E6%88%B07-1%E5%A4%A7%E5%8B%9D%E5%BA%AB%E6%8B%89%E7%B4%A2-%E5%8F%96%E5%BE%97%E5%88%86%E7%B5%84%E8%B3%BD%E4%B8%89%E5%88%86",
     "timestamp": "2026-06-14T19:41:04.342Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "拾荒婦多次被搶錢搗亂　有樓但寧瞓天橋底：老公死咗一個人好唔慣",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260615/1142999054645465088321467.jpeg/SLQ4kOp65gwKJZDxFP38Cv-XpD6Oza608q1ghNetYIQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60360225/%E6%8B%BE%E8%8D%92%E5%A9%A6%E5%A4%9A%E6%AC%A1%E8%A2%AB%E6%90%B6%E9%8C%A2%E6%90%97%E4%BA%82-%E6%9C%89%E6%A8%93%E4%BD%86%E5%AF%A7%E7%9E%93%E5%A4%A9%E6%A9%8B%E5%BA%95-%E8%80%81%E5%85%AC%E6%AD%BB%E5%92%97%E4%B8%80%E5%80%8B%E4%BA%BA%E5%A5%BD%E5%94%94%E6%85%A3",
-    "timestamp": "2026-06-14T18:51:28.927Z",
     "strategy": ".content-card__main"
   }
 ];
