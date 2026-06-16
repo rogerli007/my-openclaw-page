@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-16T14:24:54.612Z
+// Last updated: 2026-06-16T18:02:11.157Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "特朗普：不滿以軍襲擊黎巴嫩　籲以色列讓敘利亞對付真主黨",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260617/1143725977587683328268714.jpeg/M0TjoI8G7DR2uRB4jEEGqaoTdlXXDvNkcbxiBnG8YgY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60361049/%E7%89%B9%E6%9C%97%E6%99%AE-%E4%B8%8D%E6%BB%BF%E4%BB%A5%E8%BB%8D%E8%A5%B2%E6%93%8A%E9%BB%8E%E5%B7%B4%E5%AB%A9-%E7%B1%B2%E4%BB%A5%E8%89%B2%E5%88%97%E8%AE%93%E6%95%98%E5%88%A9%E4%BA%9E%E5%B0%8D%E4%BB%98%E7%9C%9F%E4%B8%BB%E9%BB%A8",
+    "timestamp": "2026-06-16T18:02:11.157Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "《愛上女主播》蔡琳首揭第二次離婚真相　因語言差異不做中國媳婦",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260615/1143138540016635904219704.jpeg/_53D5p-NhNolJj0ANLp2U2dDhtLFnqMeUkzfKFJM3yg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60360297/%E7%91%9E%E5%A3%AB%E5%85%AC%E6%8A%95%E5%90%A6%E6%B1%BA-%E4%BA%BA%E5%8F%A31000%E8%90%AC%E4%B8%8A%E9%99%90-%E6%8F%90%E6%A1%88-%E6%86%82%E9%87%8D%E5%89%B5%E7%91%9E%E6%AD%90%E9%97%9C%E4%BF%82%E8%88%87%E7%B6%93%E8%B2%BF",
     "timestamp": "2026-06-15T02:48:25.032Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "兒子網戀兩個半月欲結婚　女方索百萬台幣「安心費」　母疑遇詐騙",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260528/1136619493993222144729650.jpeg/0QwWyTCUp3URCFuGNOKBanbLGZIQFTWijKSJfoykiX4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60281315/%E5%85%92%E5%AD%90%E7%B6%B2%E6%88%80%E5%85%A9%E5%80%8B%E5%8D%8A%E6%9C%88%E6%AC%B2%E7%B5%90%E5%A9%9A-%E5%A5%B3%E6%96%B9%E7%B4%A2%E7%99%BE%E8%90%AC%E5%8F%B0%E5%B9%A3-%E5%AE%89%E5%BF%83%E8%B2%BB-%E6%AF%8D%E7%96%91%E9%81%87%E8%A9%90%E9%A8%99",
-    "timestamp": "2026-06-15T01:37:24.221Z",
     "strategy": ".content-card__main"
   }
 ];
