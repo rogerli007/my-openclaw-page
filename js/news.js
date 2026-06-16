@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-16T06:25:09.757Z
+// Last updated: 2026-06-16T08:35:58.469Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "內地網購｢迪卡儂｣變｢迪小儂｣　山寨貨在電商平台公然賣到成行成市",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260616/1143550415527219200689257.png/_Fx-xX59VAApA2GLEJYhqfslABWsf7SsLaUgMy2lIDM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60360810/%E5%85%A7%E5%9C%B0%E7%B6%B2%E8%B3%BC-%E8%BF%AA%E5%8D%A1%E5%84%82-%E8%AE%8A-%E8%BF%AA%E5%B0%8F%E5%84%82-%E5%B1%B1%E5%AF%A8%E8%B2%A8%E5%9C%A8%E9%9B%BB%E5%95%86%E5%B9%B3%E5%8F%B0%E5%85%AC%E7%84%B6%E8%B3%A3%E5%88%B0%E6%88%90%E8%A1%8C%E6%88%90%E5%B8%82",
+    "timestamp": "2026-06-16T08:35:58.469Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "世界盃2026｜西班牙意外和局質疑聲音滿天飛　主帥富安迪信心不減",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260614/1142953610338897920478359.jpeg/rs2UZBVt2mpmLj_LVl7SzxatqS-G_qBtDehJcA3oSXA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60360139/%E5%90%B3%E5%8D%83%E8%AA%9E%E7%8D%B2%E7%99%BE%E5%84%84%E5%AF%8C%E4%B8%89%E4%BB%A3%E6%96%BD%E4%BC%AF%E9%9B%84%E7%98%8B%E7%8B%82%E8%BF%BD%E6%B1%82-%E9%80%81chanel%E6%89%8B%E8%A2%8B-%E5%BE%9E%E6%B2%92%E7%B5%A6%E4%BA%BA%E8%B2%B7%E9%81%8E",
     "timestamp": "2026-06-14T22:45:43.831Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "「御用道友」轉型成功做創科執董　開餐廳說話霸氣：搵到錢要使吓",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260614/1142944818867998720026915.jpeg/WYhbkq7BqSw4ilsgT03n_FD7OpmxAbk6YEYFqWBGBak?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60360190/72%E6%AD%B2%E9%BA%A5%E5%AD%90%E9%9B%B2%E8%BD%89%E5%9E%8B%E6%88%90%E5%8A%9F%E5%81%9A%E5%89%B5%E7%A7%91%E5%9F%B7%E8%91%A3-%E9%96%8B%E9%A4%90%E5%BB%B3%E8%AA%AA%E8%A9%B1%E9%9C%B8%E6%B0%A3-%E6%90%B5%E5%88%B0%E9%8C%A2%E8%A6%81%E4%BD%BF%E5%90%93",
-    "timestamp": "2026-06-14T22:15:21.792Z",
     "strategy": ".content-card__main"
   }
 ];
