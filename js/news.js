@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-16T02:47:41.843Z
+// Last updated: 2026-06-16T04:20:36.584Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "奧斯卡影后楊紫瓊新片亮相電影節　七旬老太逆襲闖國際扭計骰大賽",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260616/1143491888360198144029517.jpeg/oQcsx1fe7vTaS73jtCpy3mVSoAwd_ftpEZVJdBGVSXQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60360658/%E5%A5%A7%E6%96%AF%E5%8D%A1%E5%BD%B1%E5%90%8E%E6%A5%8A%E7%B4%AB%E7%93%8A%E6%96%B0%E7%89%87%E4%BA%AE%E7%9B%B8%E9%9B%BB%E5%BD%B1%E7%AF%80-%E4%B8%83%E6%97%AC%E8%80%81%E5%A4%AA%E9%80%86%E8%A5%B2%E9%97%96%E5%9C%8B%E9%9A%9B%E6%89%AD%E8%A8%88%E9%AA%B0%E5%A4%A7%E8%B3%BD",
+    "timestamp": "2026-06-16T04:20:36.584Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "世界盃2026｜伊朗首戰登場示威者場外聚集　揮舞反神權政府旗幟",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20251116/1066847755114123264982360.jpeg/6ALGyJywBRGe_5LqVXEAu5hJ6jPMUqLsTfbguE324Lg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60360233/%E4%B8%AD%E5%9C%8B%E4%BD%BF%E9%A4%A8%E6%8F%90%E9%86%92%E8%B5%B4%E8%8F%B2%E4%B8%AD%E5%9C%8B%E5%85%AC%E6%B0%91%E6%8F%90%E5%89%8D%E5%81%9A%E5%A5%BD%E5%85%A5%E5%A2%83%E6%BA%96%E5%82%99",
     "timestamp": "2026-06-14T21:37:37.842Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "中國使館提醒赴菲中國公民提前做好入境準備",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20251116/1066847755114123264982360.jpeg/6ALGyJywBRGe_5LqVXEAu5hJ6jPMUqLsTfbguE324Lg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60360233/%E4%B8%AD%E5%9C%8B%E4%BD%BF%E9%A4%A8%E6%8F%90%E9%86%92%E8%B5%B4%E8%8F%B2%E4%B8%AD%E5%9C%8B%E5%85%AC%E6%B0%91%E6%8F%90%E5%89%8D%E5%81%9A%E5%A5%BD%E5%85%A5%E5%A2%83%E6%BA%96%E5%82%99",
-    "timestamp": "2026-06-14T20:50:39.783Z",
     "strategy": ".content-card__main"
   }
 ];
