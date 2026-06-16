@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-16T04:20:36.584Z
+// Last updated: 2026-06-16T06:25:09.757Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "世界盃2026｜西班牙意外和局質疑聲音滿天飛　主帥富安迪信心不減",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260616/1143558960851193856369748.jpeg/GYoo2GX5RGVjJx0o5Na_54EzgskgveFKHsJ-Gx7Cfhs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60360672/%E4%B8%96%E7%95%8C%E7%9B%832026-%E8%A5%BF%E7%8F%AD%E7%89%99%E6%84%8F%E5%A4%96%E5%92%8C%E5%B1%80%E8%B3%AA%E7%96%91%E8%81%B2%E9%9F%B3%E6%BB%BF%E5%A4%A9%E9%A3%9B-%E4%B8%BB%E5%B8%A5%E5%AF%8C%E5%AE%89%E8%BF%AA%E4%BF%A1%E5%BF%83%E4%B8%8D%E6%B8%9B",
+    "timestamp": "2026-06-16T06:25:09.757Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "奧斯卡影后楊紫瓊新片亮相電影節　七旬老太逆襲闖國際扭計骰大賽",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260614/1142944818867998720026915.jpeg/WYhbkq7BqSw4ilsgT03n_FD7OpmxAbk6YEYFqWBGBak?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60360190/72%E6%AD%B2%E9%BA%A5%E5%AD%90%E9%9B%B2%E8%BD%89%E5%9E%8B%E6%88%90%E5%8A%9F%E5%81%9A%E5%89%B5%E7%A7%91%E5%9F%B7%E8%91%A3-%E9%96%8B%E9%A4%90%E5%BB%B3%E8%AA%AA%E8%A9%B1%E9%9C%B8%E6%B0%A3-%E6%90%B5%E5%88%B0%E9%8C%A2%E8%A6%81%E4%BD%BF%E5%90%93",
     "timestamp": "2026-06-14T22:15:21.792Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "中國使館提醒赴菲中國公民提前做好入境準備",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20251116/1066847755114123264982360.jpeg/6ALGyJywBRGe_5LqVXEAu5hJ6jPMUqLsTfbguE324Lg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60360233/%E4%B8%AD%E5%9C%8B%E4%BD%BF%E9%A4%A8%E6%8F%90%E9%86%92%E8%B5%B4%E8%8F%B2%E4%B8%AD%E5%9C%8B%E5%85%AC%E6%B0%91%E6%8F%90%E5%89%8D%E5%81%9A%E5%A5%BD%E5%85%A5%E5%A2%83%E6%BA%96%E5%82%99",
-    "timestamp": "2026-06-14T21:37:37.842Z",
     "strategy": ".content-card__main"
   }
 ];
