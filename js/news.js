@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-16T10:29:39.399Z
+// Last updated: 2026-06-16T12:22:25.335Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "寒戰1995｜首張概念海報流出　吳慷仁坐正搞大龍鳳軍情六處介入",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260616/1143629028087828480780943.jpeg/POo1nh8h8JGaAgZAutLmqO7UgNPkJvsY_YEgXP2BIFw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60360997/%E5%AF%92%E6%88%B01995-%E9%A6%96%E5%BC%B5%E6%A6%82%E5%BF%B5%E6%B5%B7%E5%A0%B1%E6%B5%81%E5%87%BA-%E5%90%B3%E6%85%B7%E4%BB%81%E5%9D%90%E6%AD%A3%E6%90%9E%E5%A4%A7%E9%BE%8D%E9%B3%B3%E8%BB%8D%E6%83%85%E5%85%AD%E8%99%95%E4%BB%8B%E5%85%A5",
+    "timestamp": "2026-06-16T12:22:25.335Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "夏至2026｜食麵忌剪髮5習俗　易腹瀉燥熱宜吃健脾消暑5食物+8湯水",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260615/1143103654203494400864319.jpeg/4xQl8MKsdPHJskFVUXOckAMdtzKj6ni5KBe5ZCgXuWQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60360244/%E5%85%83%E6%9C%97%E5%85%AC%E8%B7%AF%E7%A7%81%E5%AE%B6%E8%BB%8A%E7%96%91%E8%87%AA%E7%82%92%E6%92%9E%E6%B0%B4%E9%A6%AC-%E7%BF%BB%E5%81%B4%E6%A9%AB%E4%BA%98%E8%B7%AF%E4%B8%AD-%E5%BE%80%E4%B8%8A%E6%B0%B4%E6%93%A0%E5%A1%9E",
     "timestamp": "2026-06-15T00:19:56.701Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "伊朗：所有軍事行動今晚起停止　最終協議前提為履行備忘錄承諾",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260518/1132858800487796736241675.jpeg/QOpzgmbKqbxCcOthY2_o4dDbe_M8ylxwJb_pAyW_6QM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60360239/%E4%BC%8A%E6%9C%97-%E6%89%80%E6%9C%89%E8%BB%8D%E4%BA%8B%E8%A1%8C%E5%8B%95%E4%BB%8A%E6%99%9A%E8%B5%B7%E5%81%9C%E6%AD%A2-%E6%9C%80%E7%B5%82%E5%8D%94%E8%AD%B0%E5%89%8D%E6%8F%90%E7%82%BA%E5%B1%A5%E8%A1%8C%E5%82%99%E5%BF%98%E9%8C%84%E6%89%BF%E8%AB%BE",
-    "timestamp": "2026-06-14T23:48:01.246Z",
     "strategy": ".content-card__main"
   }
 ];
