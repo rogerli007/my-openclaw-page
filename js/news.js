@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-16T21:38:11.083Z
+// Last updated: 2026-06-16T22:32:11.602Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "元朗露天車房鐵皮屋和貨車起火　曾傳爆炸聲　消防救出2犬無人傷",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260617/1143798381223612416327814.jpeg/sy6KHEv4-_RckMmQXe30JukyCKtdxMPVreNBQZfjQUE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60361071/%E5%85%83%E6%9C%97%E9%9C%B2%E5%A4%A9%E8%BB%8A%E6%88%BF%E9%90%B5%E7%9A%AE%E5%B1%8B%E5%92%8C%E8%B2%A8%E8%BB%8A%E8%B5%B7%E7%81%AB-%E6%9B%BE%E5%82%B3%E7%88%86%E7%82%B8%E8%81%B2-%E6%B6%88%E9%98%B2%E6%95%91%E5%87%BA2%E7%8A%AC%E7%84%A1%E4%BA%BA%E5%82%B7",
+    "timestamp": "2026-06-16T22:32:11.602Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "特朗普晤卡尼對話曝光　稱滿意加方向中國電動車進口設限｜有片",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260615/1143210418190159872082539.jpeg/C3Dv2-Nbuc1FsBAQJ7Opgx9JCkgLK73k6_QS9Ov0EvQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60360388/%E6%9E%97%E4%BF%8A%E5%82%91%E6%94%9C23%E6%AD%B2%E5%A5%B3%E5%8F%8B%E7%8F%BE%E8%BA%AB%E9%A6%99%E6%B8%AF%E6%A9%9F%E5%A0%B4-%E8%91%97%E6%83%85%E4%BE%B6%E8%A3%9D%E9%AB%98%E8%AA%BF%E6%94%BE%E9%96%83%E9%81%AD%E7%B6%B2%E6%B0%91%E8%B3%AA%E7%96%91%E7%82%92%E4%BD%9C",
     "timestamp": "2026-06-15T08:37:22.631Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "世界盃2026｜冠軍大熱西班牙今晚鬥佛得角　耶馬傷癒先列後備",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260615/1143166871311224832408325.jpeg/u92D5bis6jezWkVnUJW-NkOeL1D19IAV2CCTpNggk6Q?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60360324/%E4%B8%96%E7%95%8C%E7%9B%832026-%E5%86%A0%E8%BB%8D%E5%A4%A7%E7%86%B1%E8%A5%BF%E7%8F%AD%E7%89%99%E4%BB%8A%E6%99%9A%E9%AC%A5%E4%BD%9B%E5%BE%97%E8%A7%92-%E8%80%B6%E9%A6%AC%E5%82%B7%E7%99%92%E5%85%88%E5%88%97%E5%BE%8C%E5%82%99",
-    "timestamp": "2026-06-15T06:13:57.780Z",
     "strategy": ".content-card__main"
   }
 ];
