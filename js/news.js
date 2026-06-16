@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-16T08:35:58.469Z
+// Last updated: 2026-06-16T10:29:39.399Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "夏至2026｜食麵忌剪髮5習俗　易腹瀉燥熱宜吃健脾消暑5食物+8湯水",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260616/1143618786205634560910432.jpeg/G3dOxw36FgJdZS8MGMck3x7AY4I1YkIlJ52jIiedoyI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60360706/%E5%A4%8F%E8%87%B32026-%E9%A3%9F%E9%BA%B5%E5%BF%8C%E5%89%AA%E9%AB%AE5%E7%BF%92%E4%BF%97-%E6%98%93%E8%85%B9%E7%80%89%E7%87%A5%E7%86%B1%E5%AE%9C%E5%90%83%E5%81%A5%E8%84%BE%E6%B6%88%E6%9A%915%E9%A3%9F%E7%89%A9-8%E6%B9%AF%E6%B0%B4",
+    "timestamp": "2026-06-16T10:29:39.399Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "內地網購｢迪卡儂｣變｢迪小儂｣　山寨貨在電商平台公然賣到成行成市",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260518/1132858800487796736241675.jpeg/QOpzgmbKqbxCcOthY2_o4dDbe_M8ylxwJb_pAyW_6QM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60360239/%E4%BC%8A%E6%9C%97-%E6%89%80%E6%9C%89%E8%BB%8D%E4%BA%8B%E8%A1%8C%E5%8B%95%E4%BB%8A%E6%99%9A%E8%B5%B7%E5%81%9C%E6%AD%A2-%E6%9C%80%E7%B5%82%E5%8D%94%E8%AD%B0%E5%89%8D%E6%8F%90%E7%82%BA%E5%B1%A5%E8%A1%8C%E5%82%99%E5%BF%98%E9%8C%84%E6%89%BF%E8%AB%BE",
     "timestamp": "2026-06-14T23:48:01.246Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "基層逆襲女星獲百億富三代瘋狂追求　送CHANEL手袋：從沒給人買過",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260614/1142953610338897920478359.jpeg/rs2UZBVt2mpmLj_LVl7SzxatqS-G_qBtDehJcA3oSXA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60360139/%E5%90%B3%E5%8D%83%E8%AA%9E%E7%8D%B2%E7%99%BE%E5%84%84%E5%AF%8C%E4%B8%89%E4%BB%A3%E6%96%BD%E4%BC%AF%E9%9B%84%E7%98%8B%E7%8B%82%E8%BF%BD%E6%B1%82-%E9%80%81chanel%E6%89%8B%E8%A2%8B-%E5%BE%9E%E6%B2%92%E7%B5%A6%E4%BA%BA%E8%B2%B7%E9%81%8E",
-    "timestamp": "2026-06-14T22:45:43.831Z",
     "strategy": ".content-card__main"
   }
 ];
