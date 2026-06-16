@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-16T00:22:49.079Z
+// Last updated: 2026-06-16T02:47:41.843Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "世界盃2026｜伊朗首戰登場示威者場外聚集　揮舞反神權政府旗幟",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260616/1143500469881016320439107.jpeg/k4Inkr6vp2WM1Mg0dyQ1fzMgdccunSkAEDUf-xA1H_s?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60360676/%E4%B8%96%E7%95%8C%E7%9B%832026-%E4%BC%8A%E6%9C%97%E9%A6%96%E6%88%B0%E7%99%BB%E5%A0%B4%E7%A4%BA%E5%A8%81%E8%80%85%E5%A0%B4%E5%A4%96%E8%81%9A%E9%9B%86-%E6%8F%AE%E8%88%9E%E5%8F%8D%E7%A5%9E%E6%AC%8A%E6%94%BF%E5%BA%9C%E6%97%97%E5%B9%9F",
+    "timestamp": "2026-06-16T02:47:41.843Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "錯上含糖汽水求免單？食客借糖尿病發難　店家慘打五折　全網怒罵",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20251116/1066847755114123264982360.jpeg/6ALGyJywBRGe_5LqVXEAu5hJ6jPMUqLsTfbguE324Lg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60360233/%E4%B8%AD%E5%9C%8B%E4%BD%BF%E9%A4%A8%E6%8F%90%E9%86%92%E8%B5%B4%E8%8F%B2%E4%B8%AD%E5%9C%8B%E5%85%AC%E6%B0%91%E6%8F%90%E5%89%8D%E5%81%9A%E5%A5%BD%E5%85%A5%E5%A2%83%E6%BA%96%E5%82%99",
     "timestamp": "2026-06-14T20:50:39.783Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "世界盃2026｜德國首戰7:1大勝庫拉索　取得分組賽三分",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260615/1143025394945888256534762.jpeg/aDnge7nLdzCWGC8ZSnySJs2TfYKyBQZ5YvWzJGL1syQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60360227/%E4%B8%96%E7%95%8C%E7%9B%832026-%E5%BE%B7%E5%9C%8B%E9%A6%96%E6%88%B07-1%E5%A4%A7%E5%8B%9D%E5%BA%AB%E6%8B%89%E7%B4%A2-%E5%8F%96%E5%BE%97%E5%88%86%E7%B5%84%E8%B3%BD%E4%B8%89%E5%88%86",
-    "timestamp": "2026-06-14T19:41:04.342Z",
     "strategy": ".content-card__main"
   }
 ];
