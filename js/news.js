@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-16T18:02:11.157Z
+// Last updated: 2026-06-16T19:26:30.696Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美伊協議細節曝光　WSJ：伊朗簽署後可立即出售石油",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260615/1143161900725440512523609.jpeg/lZzVu6StkemyZ4DsZOdIlVYTJg0qP-cKZVjSo2VY0qM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60361048/%E7%BE%8E%E4%BC%8A%E5%8D%94%E8%AD%B0%E7%B4%B0%E7%AF%80%E6%9B%9D%E5%85%89-wsj-%E4%BC%8A%E6%9C%97%E7%B0%BD%E7%BD%B2%E5%BE%8C%E5%8F%AF%E7%AB%8B%E5%8D%B3%E5%87%BA%E5%94%AE%E7%9F%B3%E6%B2%B9",
+    "timestamp": "2026-06-16T19:26:30.696Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "特朗普：不滿以軍襲擊黎巴嫩　籲以色列讓敘利亞對付真主黨",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20201209/413361452628447232580369.png/DEvgAgZNIxfGnCBVSBd96XZIdefr30xI8npwQvJ6cEI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60360308/%E5%BF%97%E8%93%AE%E6%B7%A8%E8%8B%91%E6%96%A51520%E8%90%AC%E5%A2%9E%E8%B3%BC%E7%9F%B3%E9%96%80%E5%B7%A5%E5%BB%88%E5%81%89%E9%81%94%E4%B8%AD%E5%BF%83%E5%85%A9%E5%96%AE%E4%BD%8D",
     "timestamp": "2026-06-15T04:19:33.749Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "瑞士公投否決「人口1000萬上限」提案　憂重創瑞歐關係與經貿",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260615/1143138540016635904219704.jpeg/_53D5p-NhNolJj0ANLp2U2dDhtLFnqMeUkzfKFJM3yg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60360297/%E7%91%9E%E5%A3%AB%E5%85%AC%E6%8A%95%E5%90%A6%E6%B1%BA-%E4%BA%BA%E5%8F%A31000%E8%90%AC%E4%B8%8A%E9%99%90-%E6%8F%90%E6%A1%88-%E6%86%82%E9%87%8D%E5%89%B5%E7%91%9E%E6%AD%90%E9%97%9C%E4%BF%82%E8%88%87%E7%B6%93%E8%B2%BF",
-    "timestamp": "2026-06-15T02:48:25.032Z",
     "strategy": ".content-card__main"
   }
 ];
