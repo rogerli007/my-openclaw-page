@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-16T12:22:25.335Z
+// Last updated: 2026-06-16T14:24:54.612Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "《愛上女主播》蔡琳首揭第二次離婚真相　因語言差異不做中國媳婦",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260616/1143557826598146048437195.png/8xubi_onUalAR-WM98pGjUW9JhNhLJtGSkHQMkpB0DI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60360757/%E6%84%9B%E4%B8%8A%E5%A5%B3%E4%B8%BB%E6%92%AD-%E8%94%A1%E7%90%B3%E9%A6%96%E6%8F%AD%E7%AC%AC%E4%BA%8C%E6%AC%A1%E9%9B%A2%E5%A9%9A%E7%9C%9F%E7%9B%B8-%E5%9B%A0%E8%AA%9E%E8%A8%80%E5%B7%AE%E7%95%B0%E4%B8%8D%E5%81%9A%E4%B8%AD%E5%9C%8B%E5%AA%B3%E5%A9%A6",
+    "timestamp": "2026-06-16T14:24:54.612Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "寒戰1995｜首張概念海報流出　吳慷仁坐正搞大龍鳳軍情六處介入",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260528/1136619493993222144729650.jpeg/0QwWyTCUp3URCFuGNOKBanbLGZIQFTWijKSJfoykiX4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60281315/%E5%85%92%E5%AD%90%E7%B6%B2%E6%88%80%E5%85%A9%E5%80%8B%E5%8D%8A%E6%9C%88%E6%AC%B2%E7%B5%90%E5%A9%9A-%E5%A5%B3%E6%96%B9%E7%B4%A2%E7%99%BE%E8%90%AC%E5%8F%B0%E5%B9%A3-%E5%AE%89%E5%BF%83%E8%B2%BB-%E6%AF%8D%E7%96%91%E9%81%87%E8%A9%90%E9%A8%99",
     "timestamp": "2026-06-15T01:37:24.221Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "元朗公路私家車疑自炒撞水馬　翻側橫亘路中　往上水擠塞",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260615/1143103654203494400864319.jpeg/4xQl8MKsdPHJskFVUXOckAMdtzKj6ni5KBe5ZCgXuWQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60360244/%E5%85%83%E6%9C%97%E5%85%AC%E8%B7%AF%E7%A7%81%E5%AE%B6%E8%BB%8A%E7%96%91%E8%87%AA%E7%82%92%E6%92%9E%E6%B0%B4%E9%A6%AC-%E7%BF%BB%E5%81%B4%E6%A9%AB%E4%BA%98%E8%B7%AF%E4%B8%AD-%E5%BE%80%E4%B8%8A%E6%B0%B4%E6%93%A0%E5%A1%9E",
-    "timestamp": "2026-06-15T00:19:56.701Z",
     "strategy": ".content-card__main"
   }
 ];
