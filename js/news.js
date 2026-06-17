@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-17T13:37:49.607Z
+// Last updated: 2026-06-17T19:24:29.644Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "世界盃2026｜民主剛果1:1逼和葡萄牙　韋沙頂入隊史首個世盃入球",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260618/1144108912614576128248910.jpeg/ezna__doSQ6RhV13MPJRjZ-U3iXSOF-w63m5Eut5uRI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60361474/%E4%B8%96%E7%95%8C%E7%9B%832026-%E6%B0%91%E4%B8%BB%E5%89%9B%E6%9E%9C1-1%E9%80%BC%E5%92%8C%E8%91%A1%E8%90%84%E7%89%99-%E9%9F%8B%E6%B2%99%E9%A0%82%E5%85%A5%E9%9A%8A%E5%8F%B2%E9%A6%96%E5%80%8B%E4%B8%96%E7%9B%83%E5%85%A5%E7%90%83",
+    "timestamp": "2026-06-17T19:24:29.644Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "日本史上最惡毒護士：用謊言精神控制3同校好友連環弒夫騙保險金",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260616/1143500469881016320439107.jpeg/k4Inkr6vp2WM1Mg0dyQ1fzMgdccunSkAEDUf-xA1H_s?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60360676/%E4%B8%96%E7%95%8C%E7%9B%832026-%E4%BC%8A%E6%9C%97%E9%A6%96%E6%88%B0%E7%99%BB%E5%A0%B4%E7%A4%BA%E5%A8%81%E8%80%85%E5%A0%B4%E5%A4%96%E8%81%9A%E9%9B%86-%E6%8F%AE%E8%88%9E%E5%8F%8D%E7%A5%9E%E6%AC%8A%E6%94%BF%E5%BA%9C%E6%97%97%E5%B9%9F",
     "timestamp": "2026-06-16T02:47:41.843Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "錯上含糖汽水求免單？食客借糖尿病發難　店家慘打五折　全網怒罵",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260615/1143242824641155072364520.png/YDNt61XRmUYLmppcilC0JkY6gWY0UFuqZznf22c539s",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60360273/%E9%8C%AF%E4%B8%8A%E5%90%AB%E7%B3%96%E6%B1%BD%E6%B0%B4%E6%B1%82%E5%85%8D%E5%96%AE-%E9%A3%9F%E5%AE%A2%E5%80%9F%E7%B3%96%E5%B0%BF%E7%97%85%E7%99%BC%E9%9B%A3-%E5%BA%97%E5%AE%B6%E6%85%98%E6%89%93%E4%BA%94%E6%8A%98-%E5%85%A8%E7%B6%B2%E6%80%92%E7%BD%B5",
-    "timestamp": "2026-06-16T00:22:49.079Z",
     "strategy": ".content-card__main"
   }
 ];
