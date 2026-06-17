@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-17T19:24:29.644Z
+// Last updated: 2026-06-17T20:22:34.310Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "特朗普：感謝習近平普京對伊朗戰爭保持中立　他們本可讓美更艱難",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260618/1144113114053087232640231.jpeg/s3jDK3fOM_hsUAofMWWXcGF-pTUOKRuuNEE1UTRBNVE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60361475/%E7%89%B9%E6%9C%97%E6%99%AE-%E6%84%9F%E8%AC%9D%E7%BF%92%E8%BF%91%E5%B9%B3%E6%99%AE%E4%BA%AC%E5%B0%8D%E4%BC%8A%E6%9C%97%E6%88%B0%E7%88%AD%E4%BF%9D%E6%8C%81%E4%B8%AD%E7%AB%8B-%E4%BB%96%E5%80%91%E6%9C%AC%E5%8F%AF%E8%AE%93%E7%BE%8E%E6%9B%B4%E8%89%B1%E9%9B%A3",
+    "timestamp": "2026-06-17T20:22:34.310Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "世界盃2026｜民主剛果1:1逼和葡萄牙　韋沙頂入隊史首個世盃入球",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260616/1143491888360198144029517.jpeg/oQcsx1fe7vTaS73jtCpy3mVSoAwd_ftpEZVJdBGVSXQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60360658/%E5%A5%A7%E6%96%AF%E5%8D%A1%E5%BD%B1%E5%90%8E%E6%A5%8A%E7%B4%AB%E7%93%8A%E6%96%B0%E7%89%87%E4%BA%AE%E7%9B%B8%E9%9B%BB%E5%BD%B1%E7%AF%80-%E4%B8%83%E6%97%AC%E8%80%81%E5%A4%AA%E9%80%86%E8%A5%B2%E9%97%96%E5%9C%8B%E9%9A%9B%E6%89%AD%E8%A8%88%E9%AA%B0%E5%A4%A7%E8%B3%BD",
     "timestamp": "2026-06-16T04:20:36.584Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "世界盃2026｜伊朗首戰登場示威者場外聚集　揮舞反神權政府旗幟",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260616/1143500469881016320439107.jpeg/k4Inkr6vp2WM1Mg0dyQ1fzMgdccunSkAEDUf-xA1H_s?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60360676/%E4%B8%96%E7%95%8C%E7%9B%832026-%E4%BC%8A%E6%9C%97%E9%A6%96%E6%88%B0%E7%99%BB%E5%A0%B4%E7%A4%BA%E5%A8%81%E8%80%85%E5%A0%B4%E5%A4%96%E8%81%9A%E9%9B%86-%E6%8F%AE%E8%88%9E%E5%8F%8D%E7%A5%9E%E6%AC%8A%E6%94%BF%E5%BA%9C%E6%97%97%E5%B9%9F",
-    "timestamp": "2026-06-16T02:47:41.843Z",
     "strategy": ".content-card__main"
   }
 ];
