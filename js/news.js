@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-17T02:10:43.275Z
+// Last updated: 2026-06-17T03:31:41.788Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "G7峰會｜高市早苗與特朗普短暫會談　討論伊朗及印太局勢",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260617/1143875959435300864406321.jpeg/T5m8ePDDwaqcV5hMVFFBoSYj5MT1eRG3YoR1amKEdWo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60361158/g7%E5%B3%B0%E6%9C%83-%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E8%88%87%E7%89%B9%E6%9C%97%E6%99%AE%E7%9F%AD%E6%9A%AB%E6%9C%83%E8%AB%87-%E8%A8%8E%E8%AB%96%E4%BC%8A%E6%9C%97%E5%8F%8A%E5%8D%B0%E5%A4%AA%E5%B1%80%E5%8B%A2",
+    "timestamp": "2026-06-17T03:31:41.788Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美聯邦調查局拘捕5人　涉嫌策劃襲擊白宮UFC格鬥賽",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260616/1143392350127525888641785.jpeg/ng3twNQ98SCRhP-r_yvgN-f34WuReWQVb1hM8W9YTPE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60360618/%E5%8A%A0%E5%B7%9E%E5%B7%9E%E9%95%B7%E6%8C%87%E8%B2%AC%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8B%E4%BB%A4%E5%8F%B8%E6%B3%95%E9%83%A8%E8%AA%BF%E6%9F%A5%E4%BB%96%E8%88%87%E5%A6%BB%E5%AD%90-%E5%9B%A0%E5%85%B6%E8%80%83%E6%85%AE%E7%AB%B6%E9%81%B8%E7%B8%BD%E7%B5%B1",
     "timestamp": "2026-06-15T20:04:06.596Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "世界盃2026｜西班牙0:0賽和佛得角　佛得角門將禾仙夏多次立功",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260616/1143377429763461120938452.jpeg/m4KXxgnq47R0_IOiZEjYyIZRd09fc5eg7fAyyO3wMsg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60360616/%E4%B8%96%E7%95%8C%E7%9B%832026-%E8%A5%BF%E7%8F%AD%E7%89%990-0%E8%B3%BD%E5%92%8C%E4%BD%9B%E5%BE%97%E8%A7%92-%E4%BD%9B%E5%BE%97%E8%A7%92%E9%96%80%E5%B0%87%E7%A6%BE%E4%BB%99%E5%A4%8F%E5%A4%9A%E6%AC%A1%E7%AB%8B%E5%8A%9F",
-    "timestamp": "2026-06-15T18:43:18.387Z",
     "strategy": ".content-card__main"
   }
 ];
