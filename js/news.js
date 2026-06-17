@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-17T07:09:08.208Z
+// Last updated: 2026-06-17T09:01:21.846Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美國務院協助佛得角門將母親赴美觀賽　重申免球員親屬入境保證金",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260616/1143446238327214080571204.jpeg/H2UD5ut2vh3eKFi1PGAFktvCKoTVZWeKuHIT37hyE98?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60361298/%E7%BE%8E%E5%9C%8B%E5%8B%99%E9%99%A2%E5%8D%94%E5%8A%A9%E4%BD%9B%E5%BE%97%E8%A7%92%E9%96%80%E5%B0%87%E6%AF%8D%E8%A6%AA%E8%B5%B4%E7%BE%8E%E8%A7%80%E8%B3%BD-%E9%87%8D%E7%94%B3%E5%85%8D%E7%90%83%E5%93%A1%E8%A6%AA%E5%B1%AC%E5%85%A5%E5%A2%83%E4%BF%9D%E8%AD%89%E9%87%91",
+    "timestamp": "2026-06-17T09:01:21.846Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "外管局稱將增發新一批QDII額度　至3月底外資持A股總值6千億美元",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260422/1123596977607544832176245.jpeg/57cOascsGwo1Hob5d9jJ67PTL0Sq5mn5QVzUV0Fc1Fc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60360631/%E6%B5%81%E6%B5%AE%E5%B1%B119%E6%AD%B2%E7%94%B7%E5%AD%90%E8%A2%AB3%E6%83%A1%E6%BC%A2%E7%A1%AC%E7%89%A9%E5%8F%8A%E5%88%80%E8%A5%B2%E6%93%8A-%E8%BA%AB%E9%AB%94%E5%A4%9A%E8%99%95%E5%8F%97%E5%82%B7-%E9%80%81%E9%99%A2%E6%99%82%E6%B8%85%E9%86%92",
     "timestamp": "2026-06-15T23:07:47.524Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "學霸港姐進攻內地直播騷流利法文　頂尖學府商科畢業吸金力驚人",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260615/1143296592393015296714396.jpeg/3-iWiKACCJUjlWd0en1-CR3tH-mn2EyegiM03oIjNN4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60360420/%E5%AD%B8%E9%9C%B8%E6%B8%AF%E5%A7%90%E9%80%B2%E6%94%BB%E5%85%A7%E5%9C%B0%E7%9B%B4%E6%92%AD%E9%A8%B7%E6%B5%81%E5%88%A9%E6%B3%95%E6%96%87-%E9%A0%82%E5%B0%96%E5%AD%B8%E5%BA%9C%E5%95%86%E7%A7%91%E7%95%A2%E6%A5%AD%E5%90%B8%E9%87%91%E5%8A%9B%E9%A9%9A%E4%BA%BA",
-    "timestamp": "2026-06-15T22:08:46.465Z",
     "strategy": ".content-card__main"
   }
 ];
