@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-17T10:46:18.313Z
+// Last updated: 2026-06-17T13:37:49.607Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "日本史上最惡毒護士：用謊言精神控制3同校好友連環弒夫騙保險金",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260615/1143196040304791552562781.png/ot2k6Mkrh8BX1srya2Q3YPM_Wvn1TuOVy3apf8t2qX8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E8%A9%B1%E9%A1%8C/60360394/%E6%97%A5%E6%9C%AC%E5%8F%B2%E4%B8%8A%E6%9C%80%E6%83%A1%E6%AF%92%E8%AD%B7%E5%A3%AB-%E7%94%A8%E8%AC%8A%E8%A8%80%E7%B2%BE%E7%A5%9E%E6%8E%A7%E5%88%B63%E5%90%8C%E6%A0%A1%E5%A5%BD%E5%8F%8B%E9%80%A3%E7%92%B0%E5%BC%92%E5%A4%AB%E9%A8%99%E4%BF%9D%E9%9A%AA%E9%87%91",
+    "timestamp": "2026-06-17T13:37:49.607Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "暑假好去處2026｜CHIIKAWA迴旋木馬／反斗奇兵5打卡／蒙娜麗莎展",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260615/1143242824641155072364520.png/YDNt61XRmUYLmppcilC0JkY6gWY0UFuqZznf22c539s",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60360273/%E9%8C%AF%E4%B8%8A%E5%90%AB%E7%B3%96%E6%B1%BD%E6%B0%B4%E6%B1%82%E5%85%8D%E5%96%AE-%E9%A3%9F%E5%AE%A2%E5%80%9F%E7%B3%96%E5%B0%BF%E7%97%85%E7%99%BC%E9%9B%A3-%E5%BA%97%E5%AE%B6%E6%85%98%E6%89%93%E4%BA%94%E6%8A%98-%E5%85%A8%E7%B6%B2%E6%80%92%E7%BD%B5",
     "timestamp": "2026-06-16T00:22:49.079Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "世界盃2026｜沙拿34歲生日交1助攻達2項里程碑　惜隊史首勝仍無緣",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260616/1143437262365659136905362.jpeg/MDuRFDLlmJe9xOKwcZuCyKGqftvMj1_WoIakHqCGpB4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60360627/%E4%B8%96%E7%95%8C%E7%9B%832026-%E6%B2%99%E6%8B%BF34%E6%AD%B2%E7%94%9F%E6%97%A5%E4%BA%A41%E5%8A%A9%E6%94%BB%E9%81%942%E9%A0%85%E9%87%8C%E7%A8%8B%E7%A2%91-%E6%83%9C%E9%9A%8A%E5%8F%B2%E9%A6%96%E5%8B%9D%E4%BB%8D%E7%84%A1%E7%B7%A3",
-    "timestamp": "2026-06-15T23:46:48.399Z",
     "strategy": ".content-card__main"
   }
 ];
