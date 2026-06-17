@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-17T09:01:21.846Z
+// Last updated: 2026-06-17T10:46:18.313Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "暑假好去處2026｜CHIIKAWA迴旋木馬／反斗奇兵5打卡／蒙娜麗莎展",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260617/1143987852435001344312089.jpeg/IlLUTe-rf80mWGmXhqUdu9fkGw6l--06weT7rsHk-64?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%A3%9F%E7%8E%A9%E8%B2%B7/60360746/%E6%9A%91%E5%81%87%E5%A5%BD%E5%8E%BB%E8%99%952026-chiikawa%E8%BF%B4%E6%97%8B%E6%9C%A8%E9%A6%AC-%E5%8F%8D%E6%96%97%E5%A5%87%E5%85%B55%E6%89%93%E5%8D%A1-%E8%92%99%E5%A8%9C%E9%BA%97%E8%8E%8E%E5%B1%95",
+    "timestamp": "2026-06-17T10:46:18.313Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美國務院協助佛得角門將母親赴美觀賽　重申免球員親屬入境保證金",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260616/1143437262365659136905362.jpeg/MDuRFDLlmJe9xOKwcZuCyKGqftvMj1_WoIakHqCGpB4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60360627/%E4%B8%96%E7%95%8C%E7%9B%832026-%E6%B2%99%E6%8B%BF34%E6%AD%B2%E7%94%9F%E6%97%A5%E4%BA%A41%E5%8A%A9%E6%94%BB%E9%81%942%E9%A0%85%E9%87%8C%E7%A8%8B%E7%A2%91-%E6%83%9C%E9%9A%8A%E5%8F%B2%E9%A6%96%E5%8B%9D%E4%BB%8D%E7%84%A1%E7%B7%A3",
     "timestamp": "2026-06-15T23:46:48.399Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "流浮山19歲男子被3惡漢硬物及刀襲擊　身體多處受傷　送院時清醒",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260422/1123596977607544832176245.jpeg/57cOascsGwo1Hob5d9jJ67PTL0Sq5mn5QVzUV0Fc1Fc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60360631/%E6%B5%81%E6%B5%AE%E5%B1%B119%E6%AD%B2%E7%94%B7%E5%AD%90%E8%A2%AB3%E6%83%A1%E6%BC%A2%E7%A1%AC%E7%89%A9%E5%8F%8A%E5%88%80%E8%A5%B2%E6%93%8A-%E8%BA%AB%E9%AB%94%E5%A4%9A%E8%99%95%E5%8F%97%E5%82%B7-%E9%80%81%E9%99%A2%E6%99%82%E6%B8%85%E9%86%92",
-    "timestamp": "2026-06-15T23:07:47.524Z",
     "strategy": ".content-card__main"
   }
 ];
