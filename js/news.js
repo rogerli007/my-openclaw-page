@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-16T23:09:58.728Z
+// Last updated: 2026-06-17T02:10:43.275Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美聯邦調查局拘捕5人　涉嫌策劃襲擊白宮UFC格鬥賽",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260615/1143244412470431744183205.jpeg/NUqZMC9_4Uo5SvpzkWgm6mtY6abfXWVT0rEGs9KxBrM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60361111/%E7%BE%8E%E8%81%AF%E9%82%A6%E8%AA%BF%E6%9F%A5%E5%B1%80%E6%8B%98%E6%8D%955%E4%BA%BA-%E6%B6%89%E5%AB%8C%E7%AD%96%E5%8A%83%E8%A5%B2%E6%93%8A%E7%99%BD%E5%AE%AEufc%E6%A0%BC%E9%AC%A5%E8%B3%BD",
+    "timestamp": "2026-06-17T02:10:43.275Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "世界盃2026｜夏蘭特梅開二度侯賽因破門　半場挪威2：1領先伊拉克",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260616/1143377429763461120938452.jpeg/m4KXxgnq47R0_IOiZEjYyIZRd09fc5eg7fAyyO3wMsg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60360616/%E4%B8%96%E7%95%8C%E7%9B%832026-%E8%A5%BF%E7%8F%AD%E7%89%990-0%E8%B3%BD%E5%92%8C%E4%BD%9B%E5%BE%97%E8%A7%92-%E4%BD%9B%E5%BE%97%E8%A7%92%E9%96%80%E5%B0%87%E7%A6%BE%E4%BB%99%E5%A4%8F%E5%A4%9A%E6%AC%A1%E7%AB%8B%E5%8A%9F",
     "timestamp": "2026-06-15T18:43:18.387Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "曾傲棐推十八區小卡宣傳首個唱　粉絲當面逼宮求賣新歌會員Tee",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260615/1143257045823131648142578.jpeg/YTNJD2LB_r42XN7X_v1jEyOVEXU3xzwYBJLcTwSS3E8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60360563/%E6%9B%BE%E5%82%B2%E6%A3%90%E6%8E%A8%E5%8D%81%E5%85%AB%E5%8D%80%E5%B0%8F%E5%8D%A1%E5%AE%A3%E5%82%B3%E9%A6%96%E5%80%8B%E5%94%B1-%E7%B2%89%E7%B5%B2%E7%95%B6%E9%9D%A2%E9%80%BC%E5%AE%AE%E6%B1%82%E8%B3%A3%E6%96%B0%E6%AD%8C%E6%9C%83%E5%93%A1tee",
-    "timestamp": "2026-06-15T12:57:47.774Z",
     "strategy": ".content-card__main"
   }
 ];
