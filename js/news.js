@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-17T20:22:34.310Z
+// Last updated: 2026-06-17T21:21:36.824Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "何文田公主道七人車跣軚撞壆　車頭損毀　司機無受傷",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260618/1144142571145007104615203.jpeg/AaMlwZBOI-F2Vr_kWLb-Axz3GC12CE35W1afaWFWn2k?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60361481/%E4%BD%95%E6%96%87%E7%94%B0%E5%85%AC%E4%B8%BB%E9%81%93%E4%B8%83%E4%BA%BA%E8%BB%8A%E8%B7%A3%E8%BB%9A%E6%92%9E%E5%A3%86-%E8%BB%8A%E9%A0%AD%E6%90%8D%E6%AF%80-%E5%8F%B8%E6%A9%9F%E7%84%A1%E5%8F%97%E5%82%B7",
+    "timestamp": "2026-06-17T21:21:36.824Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "特朗普：感謝習近平普京對伊朗戰爭保持中立　他們本可讓美更艱難",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260616/1143558960851193856369748.jpeg/GYoo2GX5RGVjJx0o5Na_54EzgskgveFKHsJ-Gx7Cfhs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60360672/%E4%B8%96%E7%95%8C%E7%9B%832026-%E8%A5%BF%E7%8F%AD%E7%89%99%E6%84%8F%E5%A4%96%E5%92%8C%E5%B1%80%E8%B3%AA%E7%96%91%E8%81%B2%E9%9F%B3%E6%BB%BF%E5%A4%A9%E9%A3%9B-%E4%B8%BB%E5%B8%A5%E5%AF%8C%E5%AE%89%E8%BF%AA%E4%BF%A1%E5%BF%83%E4%B8%8D%E6%B8%9B",
     "timestamp": "2026-06-16T06:25:09.757Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "奧斯卡影后楊紫瓊新片亮相電影節　七旬老太逆襲闖國際扭計骰大賽",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260616/1143491888360198144029517.jpeg/oQcsx1fe7vTaS73jtCpy3mVSoAwd_ftpEZVJdBGVSXQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60360658/%E5%A5%A7%E6%96%AF%E5%8D%A1%E5%BD%B1%E5%90%8E%E6%A5%8A%E7%B4%AB%E7%93%8A%E6%96%B0%E7%89%87%E4%BA%AE%E7%9B%B8%E9%9B%BB%E5%BD%B1%E7%AF%80-%E4%B8%83%E6%97%AC%E8%80%81%E5%A4%AA%E9%80%86%E8%A5%B2%E9%97%96%E5%9C%8B%E9%9A%9B%E6%89%AD%E8%A8%88%E9%AA%B0%E5%A4%A7%E8%B3%BD",
-    "timestamp": "2026-06-16T04:20:36.584Z",
     "strategy": ".content-card__main"
   }
 ];
