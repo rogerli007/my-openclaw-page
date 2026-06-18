@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-18T02:32:05.611Z
+// Last updated: 2026-06-18T03:56:21.300Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "宏福苑聽證會第5輪6.22起舉行　聽取專家就起火和火勢速蔓延證供",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260323/1112829134339313664459280.jpeg/I4LlSpqCmZ2Rxe2i9pRrSPLuKxfDpdO_zUcFLM1HBSw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60361574/%E5%AE%8F%E7%A6%8F%E8%8B%91%E8%81%BD%E8%AD%89%E6%9C%83%E7%AC%AC5%E8%BC%AA6-22%E8%B5%B7%E8%88%89%E8%A1%8C-%E8%81%BD%E5%8F%96%E5%B0%88%E5%AE%B6%E5%B0%B1%E8%B5%B7%E7%81%AB%E5%92%8C%E7%81%AB%E5%8B%A2%E9%80%9F%E8%94%93%E5%BB%B6%E8%AD%89%E4%BE%9B",
+    "timestamp": "2026-06-18T03:56:21.300Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "放假為何總是生病感冒？網民：返工就會好返　醫生揭3大真正原因",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260616/1143629028087828480780943.jpeg/POo1nh8h8JGaAgZAutLmqO7UgNPkJvsY_YEgXP2BIFw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60360997/%E5%AF%92%E6%88%B01995-%E9%A6%96%E5%BC%B5%E6%A6%82%E5%BF%B5%E6%B5%B7%E5%A0%B1%E6%B5%81%E5%87%BA-%E5%90%B3%E6%85%B7%E4%BB%81%E5%9D%90%E6%AD%A3%E6%90%9E%E5%A4%A7%E9%BE%8D%E9%B3%B3%E8%BB%8D%E6%83%85%E5%85%AD%E8%99%95%E4%BB%8B%E5%85%A5",
     "timestamp": "2026-06-16T12:22:25.335Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "夏至2026｜食麵忌剪髮5習俗　易腹瀉燥熱宜吃健脾消暑5食物+8湯水",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260616/1143618786205634560910432.jpeg/G3dOxw36FgJdZS8MGMck3x7AY4I1YkIlJ52jIiedoyI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60360706/%E5%A4%8F%E8%87%B32026-%E9%A3%9F%E9%BA%B5%E5%BF%8C%E5%89%AA%E9%AB%AE5%E7%BF%92%E4%BF%97-%E6%98%93%E8%85%B9%E7%80%89%E7%87%A5%E7%86%B1%E5%AE%9C%E5%90%83%E5%81%A5%E8%84%BE%E6%B6%88%E6%9A%915%E9%A3%9F%E7%89%A9-8%E6%B9%AF%E6%B0%B4",
-    "timestamp": "2026-06-16T10:29:39.399Z",
     "strategy": ".content-card__main"
   }
 ];
