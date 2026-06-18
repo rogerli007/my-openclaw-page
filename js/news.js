@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-18T16:02:33.173Z
+// Last updated: 2026-06-18T17:18:22.458Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "端午節｜恒基李家誠李徐子淇探訪長者中心　送上拐杖傘及糭福袋",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260619/1144439876049965056703569.jpeg/3CT6fXJiQttUGT6UhkAq3JzMgaSSu8_7QRKJD0ESiQ8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60361894/%E7%AB%AF%E5%8D%88%E7%AF%80-%E6%81%92%E5%9F%BA%E6%9D%8E%E5%AE%B6%E8%AA%A0%E6%9D%8E%E5%BE%90%E5%AD%90%E6%B7%87%E6%8E%A2%E8%A8%AA%E9%95%B7%E8%80%85%E4%B8%AD%E5%BF%83-%E9%80%81%E4%B8%8A%E6%8B%90%E6%9D%96%E5%82%98%E5%8F%8A%E7%B3%AD%E7%A6%8F%E8%A2%8B",
+    "timestamp": "2026-06-18T17:18:22.458Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "黑雨｜家中濕度持續超60%小心提防發霉！專家教抽濕機5大使用法則",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260617/1143798381223612416327814.jpeg/sy6KHEv4-_RckMmQXe30JukyCKtdxMPVreNBQZfjQUE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60361071/%E5%85%83%E6%9C%97%E9%9C%B2%E5%A4%A9%E8%BB%8A%E6%88%BF%E9%90%B5%E7%9A%AE%E5%B1%8B%E5%92%8C%E8%B2%A8%E8%BB%8A%E8%B5%B7%E7%81%AB-%E6%9B%BE%E5%82%B3%E7%88%86%E7%82%B8%E8%81%B2-%E6%B6%88%E9%98%B2%E6%95%91%E5%87%BA2%E7%8A%AC%E7%84%A1%E4%BA%BA%E5%82%B7",
     "timestamp": "2026-06-16T22:32:11.602Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普晤卡尼對話曝光　稱滿意加方向中國電動車進口設限｜有片",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260617/1143762878042476544071948.jpeg/XHkbLb6GCEyazyb75Msm-Pt9uD4p_eF3m8lh-JvJYfg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60361058/%E7%89%B9%E6%9C%97%E6%99%AE%E6%99%A4%E5%8D%A1%E5%B0%BC%E5%B0%8D%E8%A9%B1%E6%9B%9D%E5%85%89-%E7%A8%B1%E6%BB%BF%E6%84%8F%E5%8A%A0%E6%96%B9%E5%90%91%E4%B8%AD%E5%9C%8B%E9%9B%BB%E5%8B%95%E8%BB%8A%E9%80%B2%E5%8F%A3%E8%A8%AD%E9%99%90-%E6%9C%89%E7%89%87",
-    "timestamp": "2026-06-16T21:38:11.083Z",
     "strategy": ".content-card__main"
   }
 ];
