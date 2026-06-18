@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-18T19:24:35.455Z
+// Last updated: 2026-06-18T22:22:49.977Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "穆傑塔巴：對美伊備忘錄持不同意見　獲總統承諾維護利益後批准",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260606/1139768973538103296601237.jpeg/Vic223ihRx2sovBoYb8WV4XgvCC2VauRSi3bxEot28Q?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60361903/%E7%A9%86%E5%82%91%E5%A1%94%E5%B7%B4-%E5%B0%8D%E7%BE%8E%E4%BC%8A%E5%82%99%E5%BF%98%E9%8C%84%E6%8C%81%E4%B8%8D%E5%90%8C%E6%84%8F%E8%A6%8B-%E7%8D%B2%E7%B8%BD%E7%B5%B1%E6%89%BF%E8%AB%BE%E7%B6%AD%E8%AD%B7%E5%88%A9%E7%9B%8A%E5%BE%8C%E6%89%B9%E5%87%86",
+    "timestamp": "2026-06-18T22:22:49.977Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "萬斯：美伊最終協議60日限期已開始　逾1250萬桶石油已通過海峽",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260615/1143244412470431744183205.jpeg/NUqZMC9_4Uo5SvpzkWgm6mtY6abfXWVT0rEGs9KxBrM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60361111/%E7%BE%8E%E8%81%AF%E9%82%A6%E8%AA%BF%E6%9F%A5%E5%B1%80%E6%8B%98%E6%8D%955%E4%BA%BA-%E6%B6%89%E5%AB%8C%E7%AD%96%E5%8A%83%E8%A5%B2%E6%93%8A%E7%99%BD%E5%AE%AEufc%E6%A0%BC%E9%AC%A5%E8%B3%BD",
     "timestamp": "2026-06-17T02:10:43.275Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "世界盃2026｜夏蘭特梅開二度侯賽因破門　半場挪威2：1領先伊拉克",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260617/1143807394329923584794215.jpeg/ahaS0GOm1cdl7Tzmd68BwnD3Ibu9t4mJsbb9ybG2_ck?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60361069/%E4%B8%96%E7%95%8C%E7%9B%832026-%E5%A4%8F%E8%98%AD%E7%89%B9%E6%A2%85%E9%96%8B%E4%BA%8C%E5%BA%A6%E4%BE%AF%E8%B3%BD%E5%9B%A0%E7%A0%B4%E9%96%80-%E5%8D%8A%E5%A0%B4%E6%8C%AA%E5%A8%812-1%E9%A0%98%E5%85%88%E4%BC%8A%E6%8B%89%E5%85%8B",
-    "timestamp": "2026-06-16T23:09:58.728Z",
     "strategy": ".content-card__main"
   }
 ];
