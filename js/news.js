@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-18T17:18:22.458Z
+// Last updated: 2026-06-18T19:24:35.455Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "萬斯：美伊最終協議60日限期已開始　逾1250萬桶石油已通過海峽",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260619/1144445956788326400852903.jpeg/plvOaQ-GMewlGkaqAdx52uUyLDMTKgJbOip8VToqfFU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60361895/%E8%90%AC%E6%96%AF-%E7%BE%8E%E4%BC%8A%E6%9C%80%E7%B5%82%E5%8D%94%E8%AD%B060%E6%97%A5%E9%99%90%E6%9C%9F%E5%B7%B2%E9%96%8B%E5%A7%8B-%E9%80%BE1250%E8%90%AC%E6%A1%B6%E7%9F%B3%E6%B2%B9%E5%B7%B2%E9%80%9A%E9%81%8E%E6%B5%B7%E5%B3%BD",
+    "timestamp": "2026-06-18T19:24:35.455Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "端午節｜恒基李家誠李徐子淇探訪長者中心　送上拐杖傘及糭福袋",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260617/1143807394329923584794215.jpeg/ahaS0GOm1cdl7Tzmd68BwnD3Ibu9t4mJsbb9ybG2_ck?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60361069/%E4%B8%96%E7%95%8C%E7%9B%832026-%E5%A4%8F%E8%98%AD%E7%89%B9%E6%A2%85%E9%96%8B%E4%BA%8C%E5%BA%A6%E4%BE%AF%E8%B3%BD%E5%9B%A0%E7%A0%B4%E9%96%80-%E5%8D%8A%E5%A0%B4%E6%8C%AA%E5%A8%812-1%E9%A0%98%E5%85%88%E4%BC%8A%E6%8B%89%E5%85%8B",
     "timestamp": "2026-06-16T23:09:58.728Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "元朗露天車房鐵皮屋和貨車起火　曾傳爆炸聲　消防救出2犬無人傷",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260617/1143798381223612416327814.jpeg/sy6KHEv4-_RckMmQXe30JukyCKtdxMPVreNBQZfjQUE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60361071/%E5%85%83%E6%9C%97%E9%9C%B2%E5%A4%A9%E8%BB%8A%E6%88%BF%E9%90%B5%E7%9A%AE%E5%B1%8B%E5%92%8C%E8%B2%A8%E8%BB%8A%E8%B5%B7%E7%81%AB-%E6%9B%BE%E5%82%B3%E7%88%86%E7%82%B8%E8%81%B2-%E6%B6%88%E9%98%B2%E6%95%91%E5%87%BA2%E7%8A%AC%E7%84%A1%E4%BA%BA%E5%82%B7",
-    "timestamp": "2026-06-16T22:32:11.602Z",
     "strategy": ".content-card__main"
   }
 ];
