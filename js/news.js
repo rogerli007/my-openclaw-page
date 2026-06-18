@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-18T22:22:49.977Z
+// Last updated: 2026-06-18T23:14:16.403Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "屍殺禁區｜全智賢突發6.29來港謝票　門票中午開售港票房破1500萬",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260619/1144461580612669440467198.jpeg/JmagDTlKbwalj_vmyTDi60zPeKV2P4xVVAk6vFQJOrw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60361899/%E5%B1%8D%E6%AE%BA%E7%A6%81%E5%8D%80-%E5%85%A8%E6%99%BA%E8%B3%A2%E7%AA%81%E7%99%BC6-29%E4%BE%86%E6%B8%AF%E8%AC%9D%E7%A5%A8-%E9%96%80%E7%A5%A8%E4%B8%AD%E5%8D%88%E9%96%8B%E5%94%AE%E6%B8%AF%E7%A5%A8%E6%88%BF%E7%A0%B41500%E8%90%AC",
+    "timestamp": "2026-06-18T23:14:16.403Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "穆傑塔巴：對美伊備忘錄持不同意見　獲總統承諾維護利益後批准",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260617/1143875959435300864406321.jpeg/T5m8ePDDwaqcV5hMVFFBoSYj5MT1eRG3YoR1amKEdWo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60361158/g7%E5%B3%B0%E6%9C%83-%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E8%88%87%E7%89%B9%E6%9C%97%E6%99%AE%E7%9F%AD%E6%9A%AB%E6%9C%83%E8%AB%87-%E8%A8%8E%E8%AB%96%E4%BC%8A%E6%9C%97%E5%8F%8A%E5%8D%B0%E5%A4%AA%E5%B1%80%E5%8B%A2",
     "timestamp": "2026-06-17T03:31:41.788Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美聯邦調查局拘捕5人　涉嫌策劃襲擊白宮UFC格鬥賽",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260615/1143244412470431744183205.jpeg/NUqZMC9_4Uo5SvpzkWgm6mtY6abfXWVT0rEGs9KxBrM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60361111/%E7%BE%8E%E8%81%AF%E9%82%A6%E8%AA%BF%E6%9F%A5%E5%B1%80%E6%8B%98%E6%8D%955%E4%BA%BA-%E6%B6%89%E5%AB%8C%E7%AD%96%E5%8A%83%E8%A5%B2%E6%93%8A%E7%99%BD%E5%AE%AEufc%E6%A0%BC%E9%AC%A5%E8%B3%BD",
-    "timestamp": "2026-06-17T02:10:43.275Z",
     "strategy": ".content-card__main"
   }
 ];
