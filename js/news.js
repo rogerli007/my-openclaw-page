@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-18T13:34:35.369Z
+// Last updated: 2026-06-18T16:02:33.173Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "黑雨｜家中濕度持續超60%小心提防發霉！專家教抽濕機5大使用法則",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260618/1144397148524122112156970.jpeg/Qjte65k-QPDGqrlmSQJSYed_ikIrSFuRWiCWj1oglo8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60361717/%E9%BB%91%E9%9B%A8-%E5%AE%B6%E4%B8%AD%E6%BF%95%E5%BA%A6%E6%8C%81%E7%BA%8C%E8%B6%8560-%E5%B0%8F%E5%BF%83%E6%8F%90%E9%98%B2%E7%99%BC%E9%9C%89-%E5%B0%88%E5%AE%B6%E6%95%99%E6%8A%BD%E6%BF%95%E6%A9%9F5%E5%A4%A7%E4%BD%BF%E7%94%A8%E6%B3%95%E5%89%87",
+    "timestamp": "2026-06-18T16:02:33.173Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "公屋下年度料編配34500伙　近8成編予公屋申請者　數量創10年新高",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260617/1143762878042476544071948.jpeg/XHkbLb6GCEyazyb75Msm-Pt9uD4p_eF3m8lh-JvJYfg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60361058/%E7%89%B9%E6%9C%97%E6%99%AE%E6%99%A4%E5%8D%A1%E5%B0%BC%E5%B0%8D%E8%A9%B1%E6%9B%9D%E5%85%89-%E7%A8%B1%E6%BB%BF%E6%84%8F%E5%8A%A0%E6%96%B9%E5%90%91%E4%B8%AD%E5%9C%8B%E9%9B%BB%E5%8B%95%E8%BB%8A%E9%80%B2%E5%8F%A3%E8%A8%AD%E9%99%90-%E6%9C%89%E7%89%87",
     "timestamp": "2026-06-16T21:38:11.083Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美伊協議細節曝光　WSJ：伊朗簽署後可立即出售石油",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260615/1143161900725440512523609.jpeg/lZzVu6StkemyZ4DsZOdIlVYTJg0qP-cKZVjSo2VY0qM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60361048/%E7%BE%8E%E4%BC%8A%E5%8D%94%E8%AD%B0%E7%B4%B0%E7%AF%80%E6%9B%9D%E5%85%89-wsj-%E4%BC%8A%E6%9C%97%E7%B0%BD%E7%BD%B2%E5%BE%8C%E5%8F%AF%E7%AB%8B%E5%8D%B3%E5%87%BA%E5%94%AE%E7%9F%B3%E6%B2%B9",
-    "timestamp": "2026-06-16T19:26:30.696Z",
     "strategy": ".content-card__main"
   }
 ];
