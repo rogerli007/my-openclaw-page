@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-18T01:32:46.045Z
+// Last updated: 2026-06-18T02:32:05.611Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "放假為何總是生病感冒？網民：返工就會好返　醫生揭3大真正原因",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260116/1088778996503547904230649.jpeg/Dl-0eflIEwJiFIB2bc8QunBNEsJEmm5W1BZz2dQWc9k?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%A3%9F%E7%8E%A9%E8%B2%B7/60313094/%E6%94%BE%E5%81%87%E7%82%BA%E4%BD%95%E7%B8%BD%E6%98%AF%E7%94%9F%E7%97%85%E6%84%9F%E5%86%92-%E7%B6%B2%E6%B0%91-%E8%BF%94%E5%B7%A5%E5%B0%B1%E6%9C%83%E5%A5%BD%E8%BF%94-%E9%86%AB%E7%94%9F%E6%8F%AD3%E5%A4%A7%E7%9C%9F%E6%AD%A3%E5%8E%9F%E5%9B%A0",
+    "timestamp": "2026-06-18T02:32:05.611Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "世界盃2026｜加納1球絕殺巴拿馬　年輕新星耶蘭耶補時入波",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260616/1143618786205634560910432.jpeg/G3dOxw36FgJdZS8MGMck3x7AY4I1YkIlJ52jIiedoyI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60360706/%E5%A4%8F%E8%87%B32026-%E9%A3%9F%E9%BA%B5%E5%BF%8C%E5%89%AA%E9%AB%AE5%E7%BF%92%E4%BF%97-%E6%98%93%E8%85%B9%E7%80%89%E7%87%A5%E7%86%B1%E5%AE%9C%E5%90%83%E5%81%A5%E8%84%BE%E6%B6%88%E6%9A%915%E9%A3%9F%E7%89%A9-8%E6%B9%AF%E6%B0%B4",
     "timestamp": "2026-06-16T10:29:39.399Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "內地網購｢迪卡儂｣變｢迪小儂｣　山寨貨在電商平台公然賣到成行成市",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260616/1143550415527219200689257.png/_Fx-xX59VAApA2GLEJYhqfslABWsf7SsLaUgMy2lIDM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60360810/%E5%85%A7%E5%9C%B0%E7%B6%B2%E8%B3%BC-%E8%BF%AA%E5%8D%A1%E5%84%82-%E8%AE%8A-%E8%BF%AA%E5%B0%8F%E5%84%82-%E5%B1%B1%E5%AF%A8%E8%B2%A8%E5%9C%A8%E9%9B%BB%E5%95%86%E5%B9%B3%E5%8F%B0%E5%85%AC%E7%84%B6%E8%B3%A3%E5%88%B0%E6%88%90%E8%A1%8C%E6%88%90%E5%B8%82",
-    "timestamp": "2026-06-16T08:35:58.469Z",
     "strategy": ".content-card__main"
   }
 ];
