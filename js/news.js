@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-18T03:56:21.300Z
+// Last updated: 2026-06-18T07:25:43.759Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "涉高利貸及收債活動34人被捕　3人讀中學最細13歲　收$500淋油",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260618/1144274693415505920159783.jpeg/XGa9jYUqC7HgGntB_321rKfxbwfAF8GyuR7B07kewdM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60361638/%E6%B6%89%E9%AB%98%E5%88%A9%E8%B2%B8%E5%8F%8A%E6%94%B6%E5%82%B5%E6%B4%BB%E5%8B%9534%E4%BA%BA%E8%A2%AB%E6%8D%95-3%E4%BA%BA%E8%AE%80%E4%B8%AD%E5%AD%B8%E6%9C%80%E7%B4%B013%E6%AD%B2-%E6%94%B6-500%E6%B7%8B%E6%B2%B9",
+    "timestamp": "2026-06-18T07:25:43.759Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "宏福苑聽證會第5輪6.22起舉行　聽取專家就起火和火勢速蔓延證供",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260616/1143557826598146048437195.png/8xubi_onUalAR-WM98pGjUW9JhNhLJtGSkHQMkpB0DI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60360757/%E6%84%9B%E4%B8%8A%E5%A5%B3%E4%B8%BB%E6%92%AD-%E8%94%A1%E7%90%B3%E9%A6%96%E6%8F%AD%E7%AC%AC%E4%BA%8C%E6%AC%A1%E9%9B%A2%E5%A9%9A%E7%9C%9F%E7%9B%B8-%E5%9B%A0%E8%AA%9E%E8%A8%80%E5%B7%AE%E7%95%B0%E4%B8%8D%E5%81%9A%E4%B8%AD%E5%9C%8B%E5%AA%B3%E5%A9%A6",
     "timestamp": "2026-06-16T14:24:54.612Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "寒戰1995｜首張概念海報流出　吳慷仁坐正搞大龍鳳軍情六處介入",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260616/1143629028087828480780943.jpeg/POo1nh8h8JGaAgZAutLmqO7UgNPkJvsY_YEgXP2BIFw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60360997/%E5%AF%92%E6%88%B01995-%E9%A6%96%E5%BC%B5%E6%A6%82%E5%BF%B5%E6%B5%B7%E5%A0%B1%E6%B5%81%E5%87%BA-%E5%90%B3%E6%85%B7%E4%BB%81%E5%9D%90%E6%AD%A3%E6%90%9E%E5%A4%A7%E9%BE%8D%E9%B3%B3%E8%BB%8D%E6%83%85%E5%85%AD%E8%99%95%E4%BB%8B%E5%85%A5",
-    "timestamp": "2026-06-16T12:22:25.335Z",
     "strategy": ".content-card__main"
   }
 ];
