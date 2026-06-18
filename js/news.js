@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-18T23:14:16.403Z
+// Last updated: 2026-06-18T23:58:24.156Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美參議員批美伊協議「丟人現眼」：數十年來最嚴重外交政策失誤",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260619/1144539215837532160653729.jpeg/81WpUTh16jCDb6Fd82oxzb4lYGmsvfzxsgi8BrIIvAY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60361906/%E7%BE%8E%E5%8F%83%E8%AD%B0%E5%93%A1%E6%89%B9%E7%BE%8E%E4%BC%8A%E5%8D%94%E8%AD%B0-%E4%B8%9F%E4%BA%BA%E7%8F%BE%E7%9C%BC-%E6%95%B8%E5%8D%81%E5%B9%B4%E4%BE%86%E6%9C%80%E5%9A%B4%E9%87%8D%E5%A4%96%E4%BA%A4%E6%94%BF%E7%AD%96%E5%A4%B1%E8%AA%A4",
+    "timestamp": "2026-06-18T23:58:24.156Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "屍殺禁區｜全智賢突發6.29來港謝票　門票中午開售港票房破1500萬",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260617/1143900929653739520467138.jpeg/dHMjtYURf0TA6z39puYW9AwWEVDTRhR7iSJdiYkiXYk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60361218/%E6%95%99%E5%B1%80%E6%8E%A8ai%E7%B4%A0%E9%A4%8A%E5%AD%B8%E7%BF%92%E6%9E%B6%E6%A7%8B%E5%92%8C%E6%8C%87%E5%8D%97-%E9%81%BF%E5%85%8D%E5%AD%B8%E7%94%9F%E6%80%9D%E7%B6%AD%E5%A4%96%E5%88%A4-%E5%8B%BF%E7%94%A8ai%E5%8D%B1%E5%AE%B3%E5%9C%8B%E5%AE%89",
     "timestamp": "2026-06-17T05:19:08.985Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "G7峰會｜高市早苗與特朗普短暫會談　討論伊朗及印太局勢",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260617/1143875959435300864406321.jpeg/T5m8ePDDwaqcV5hMVFFBoSYj5MT1eRG3YoR1amKEdWo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60361158/g7%E5%B3%B0%E6%9C%83-%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E8%88%87%E7%89%B9%E6%9C%97%E6%99%AE%E7%9F%AD%E6%9A%AB%E6%9C%83%E8%AB%87-%E8%A8%8E%E8%AB%96%E4%BC%8A%E6%9C%97%E5%8F%8A%E5%8D%B0%E5%A4%AA%E5%B1%80%E5%8B%A2",
-    "timestamp": "2026-06-17T03:31:41.788Z",
     "strategy": ".content-card__main"
   }
 ];
