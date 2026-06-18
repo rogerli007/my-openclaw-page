@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-17T21:21:36.824Z
+// Last updated: 2026-06-18T01:32:46.045Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "世界盃2026｜加納1球絕殺巴拿馬　年輕新星耶蘭耶補時入波",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260618/1144204217653661696437012.jpeg/Awh93MUCz5zlu1HhwwZlpljFMZsAVDH_UaWk4lGlpOI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60361489/%E4%B8%96%E7%95%8C%E7%9B%832026-%E5%8A%A0%E7%B4%8D1%E7%90%83%E7%B5%95%E6%AE%BA%E5%B7%B4%E6%8B%BF%E9%A6%AC-%E5%B9%B4%E8%BC%95%E6%96%B0%E6%98%9F%E8%80%B6%E8%98%AD%E8%80%B6%E8%A3%9C%E6%99%82%E5%85%A5%E6%B3%A2",
+    "timestamp": "2026-06-18T01:32:46.045Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "何文田公主道七人車跣軚撞壆　車頭損毀　司機無受傷",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260616/1143550415527219200689257.png/_Fx-xX59VAApA2GLEJYhqfslABWsf7SsLaUgMy2lIDM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60360810/%E5%85%A7%E5%9C%B0%E7%B6%B2%E8%B3%BC-%E8%BF%AA%E5%8D%A1%E5%84%82-%E8%AE%8A-%E8%BF%AA%E5%B0%8F%E5%84%82-%E5%B1%B1%E5%AF%A8%E8%B2%A8%E5%9C%A8%E9%9B%BB%E5%95%86%E5%B9%B3%E5%8F%B0%E5%85%AC%E7%84%B6%E8%B3%A3%E5%88%B0%E6%88%90%E8%A1%8C%E6%88%90%E5%B8%82",
     "timestamp": "2026-06-16T08:35:58.469Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "世界盃2026｜西班牙意外和局質疑聲音滿天飛　主帥富安迪信心不減",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260616/1143558960851193856369748.jpeg/GYoo2GX5RGVjJx0o5Na_54EzgskgveFKHsJ-Gx7Cfhs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60360672/%E4%B8%96%E7%95%8C%E7%9B%832026-%E8%A5%BF%E7%8F%AD%E7%89%99%E6%84%8F%E5%A4%96%E5%92%8C%E5%B1%80%E8%B3%AA%E7%96%91%E8%81%B2%E9%9F%B3%E6%BB%BF%E5%A4%A9%E9%A3%9B-%E4%B8%BB%E5%B8%A5%E5%AF%8C%E5%AE%89%E8%BF%AA%E4%BF%A1%E5%BF%83%E4%B8%8D%E6%B8%9B",
-    "timestamp": "2026-06-16T06:25:09.757Z",
     "strategy": ".content-card__main"
   }
 ];
