@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-18T10:52:52.660Z
+// Last updated: 2026-06-18T13:34:35.369Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "公屋下年度料編配34500伙　近8成編予公屋申請者　數量創10年新高",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250320/979504276932005888764921.jpeg/yYK6kl1YvSyudw0mJBu0sWMhNNL3XHX1BsDmYAbA5mA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60361869/%E5%85%AC%E5%B1%8B%E4%B8%8B%E5%B9%B4%E5%BA%A6%E6%96%99%E7%B7%A8%E9%85%8D34500%E4%BC%99-%E8%BF%918%E6%88%90%E7%B7%A8%E4%BA%88%E5%85%AC%E5%B1%8B%E7%94%B3%E8%AB%8B%E8%80%85-%E6%95%B8%E9%87%8F%E5%89%B510%E5%B9%B4%E6%96%B0%E9%AB%98",
+    "timestamp": "2026-06-18T13:34:35.369Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "旨呈30億赤柱豪宅再因黑雨遇災　金屬架散架仍幽默自嘲未算最勁",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260615/1143161900725440512523609.jpeg/lZzVu6StkemyZ4DsZOdIlVYTJg0qP-cKZVjSo2VY0qM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60361048/%E7%BE%8E%E4%BC%8A%E5%8D%94%E8%AD%B0%E7%B4%B0%E7%AF%80%E6%9B%9D%E5%85%89-wsj-%E4%BC%8A%E6%9C%97%E7%B0%BD%E7%BD%B2%E5%BE%8C%E5%8F%AF%E7%AB%8B%E5%8D%B3%E5%87%BA%E5%94%AE%E7%9F%B3%E6%B2%B9",
     "timestamp": "2026-06-16T19:26:30.696Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普：不滿以軍襲擊黎巴嫩　籲以色列讓敘利亞對付真主黨",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260617/1143725977587683328268714.jpeg/M0TjoI8G7DR2uRB4jEEGqaoTdlXXDvNkcbxiBnG8YgY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60361049/%E7%89%B9%E6%9C%97%E6%99%AE-%E4%B8%8D%E6%BB%BF%E4%BB%A5%E8%BB%8D%E8%A5%B2%E6%93%8A%E9%BB%8E%E5%B7%B4%E5%AB%A9-%E7%B1%B2%E4%BB%A5%E8%89%B2%E5%88%97%E8%AE%93%E6%95%98%E5%88%A9%E4%BA%9E%E5%B0%8D%E4%BB%98%E7%9C%9F%E4%B8%BB%E9%BB%A8",
-    "timestamp": "2026-06-16T18:02:11.157Z",
     "strategy": ".content-card__main"
   }
 ];
