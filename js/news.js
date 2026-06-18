@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-18T07:25:43.759Z
+// Last updated: 2026-06-18T10:52:52.660Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "旨呈30億赤柱豪宅再因黑雨遇災　金屬架散架仍幽默自嘲未算最勁",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260618/1144325229879758848074325.jpeg/9sMus1zATIop6YUTTJb5P4KnaxpthRM7QFa6w0BWusM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60361762/%E6%97%A8%E5%91%8830%E5%84%84%E8%B5%A4%E6%9F%B1%E8%B1%AA%E5%AE%85%E5%86%8D%E5%9B%A0%E9%BB%91%E9%9B%A8%E9%81%87%E7%81%BD-%E9%87%91%E5%B1%AC%E6%9E%B6%E6%95%A3%E6%9E%B6%E4%BB%8D%E5%B9%BD%E9%BB%98%E8%87%AA%E5%98%B2%E6%9C%AA%E7%AE%97%E6%9C%80%E5%8B%81",
+    "timestamp": "2026-06-18T10:52:52.660Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "涉高利貸及收債活動34人被捕　3人讀中學最細13歲　收$500淋油",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260617/1143725977587683328268714.jpeg/M0TjoI8G7DR2uRB4jEEGqaoTdlXXDvNkcbxiBnG8YgY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60361049/%E7%89%B9%E6%9C%97%E6%99%AE-%E4%B8%8D%E6%BB%BF%E4%BB%A5%E8%BB%8D%E8%A5%B2%E6%93%8A%E9%BB%8E%E5%B7%B4%E5%AB%A9-%E7%B1%B2%E4%BB%A5%E8%89%B2%E5%88%97%E8%AE%93%E6%95%98%E5%88%A9%E4%BA%9E%E5%B0%8D%E4%BB%98%E7%9C%9F%E4%B8%BB%E9%BB%A8",
     "timestamp": "2026-06-16T18:02:11.157Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "《愛上女主播》蔡琳首揭第二次離婚真相　因語言差異不做中國媳婦",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260616/1143557826598146048437195.png/8xubi_onUalAR-WM98pGjUW9JhNhLJtGSkHQMkpB0DI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60360757/%E6%84%9B%E4%B8%8A%E5%A5%B3%E4%B8%BB%E6%92%AD-%E8%94%A1%E7%90%B3%E9%A6%96%E6%8F%AD%E7%AC%AC%E4%BA%8C%E6%AC%A1%E9%9B%A2%E5%A9%9A%E7%9C%9F%E7%9B%B8-%E5%9B%A0%E8%AA%9E%E8%A8%80%E5%B7%AE%E7%95%B0%E4%B8%8D%E5%81%9A%E4%B8%AD%E5%9C%8B%E5%AA%B3%E5%A9%A6",
-    "timestamp": "2026-06-16T14:24:54.612Z",
     "strategy": ".content-card__main"
   }
 ];
