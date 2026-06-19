@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-19T09:55:14.371Z
+// Last updated: 2026-06-19T11:42:21.694Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "Grade10 Fest Summer 2026直擊｜大量稀有卡現場睇﹑拎免費卡包",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260619/1144720647620923392962843.jpeg/_tLLe7r_UmpPYte_Z3Ls5uS5HR_6bhL82pSartqUmq4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60361698/grade10-fest-summer-2026%E7%9B%B4%E6%93%8A-%E5%A4%A7%E9%87%8F%E7%A8%80%E6%9C%89%E5%8D%A1%E7%8F%BE%E5%A0%B4%E7%9D%87-%E6%8B%8E%E5%85%8D%E8%B2%BB%E5%8D%A1%E5%8C%85",
+    "timestamp": "2026-06-19T11:42:21.694Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "施可瑩患卵巢癌　獲泰星鄺玲玲拍片溫柔鼓勵：希望你唔好放棄",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260618/1144113114053087232640231.jpeg/s3jDK3fOM_hsUAofMWWXcGF-pTUOKRuuNEE1UTRBNVE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60361475/%E7%89%B9%E6%9C%97%E6%99%AE-%E6%84%9F%E8%AC%9D%E7%BF%92%E8%BF%91%E5%B9%B3%E6%99%AE%E4%BA%AC%E5%B0%8D%E4%BC%8A%E6%9C%97%E6%88%B0%E7%88%AD%E4%BF%9D%E6%8C%81%E4%B8%AD%E7%AB%8B-%E4%BB%96%E5%80%91%E6%9C%AC%E5%8F%AF%E8%AE%93%E7%BE%8E%E6%9B%B4%E8%89%B1%E9%9B%A3",
     "timestamp": "2026-06-17T20:22:34.310Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "世界盃2026｜民主剛果1:1逼和葡萄牙　韋沙頂入隊史首個世盃入球",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260618/1144108912614576128248910.jpeg/ezna__doSQ6RhV13MPJRjZ-U3iXSOF-w63m5Eut5uRI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60361474/%E4%B8%96%E7%95%8C%E7%9B%832026-%E6%B0%91%E4%B8%BB%E5%89%9B%E6%9E%9C1-1%E9%80%BC%E5%92%8C%E8%91%A1%E8%90%84%E7%89%99-%E9%9F%8B%E6%B2%99%E9%A0%82%E5%85%A5%E9%9A%8A%E5%8F%B2%E9%A6%96%E5%80%8B%E4%B8%96%E7%9B%83%E5%85%A5%E7%90%83",
-    "timestamp": "2026-06-17T19:24:29.644Z",
     "strategy": ".content-card__main"
   }
 ];
