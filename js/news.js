@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-19T21:36:27.424Z
+// Last updated: 2026-06-19T22:14:26.812Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "用家投資者蜂擁入市　樓市炒風是否重臨？　港府應否出招壓抑？",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260313/1109191810887979008610879.jpeg/KLw5oyxzxUnZvl488-Zu5ISXuuqe3NlLw3qD6sN6g-o?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60362068/%E7%94%A8%E5%AE%B6%E6%8A%95%E8%B3%87%E8%80%85%E8%9C%82%E6%93%81%E5%85%A5%E5%B8%82-%E6%A8%93%E5%B8%82%E7%82%92%E9%A2%A8%E6%98%AF%E5%90%A6%E9%87%8D%E8%87%A8-%E6%B8%AF%E5%BA%9C%E6%87%89%E5%90%A6%E5%87%BA%E6%8B%9B%E5%A3%93%E6%8A%91",
+    "timestamp": "2026-06-19T22:14:26.812Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "世界盃｜蘇格蘭5萬球迷攻陷美國　吹風笛遊行清空酒吧啤酒｜有片",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260618/1144397148524122112156970.jpeg/Qjte65k-QPDGqrlmSQJSYed_ikIrSFuRWiCWj1oglo8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60361717/%E9%BB%91%E9%9B%A8-%E5%AE%B6%E4%B8%AD%E6%BF%95%E5%BA%A6%E6%8C%81%E7%BA%8C%E8%B6%8560-%E5%B0%8F%E5%BF%83%E6%8F%90%E9%98%B2%E7%99%BC%E9%9C%89-%E5%B0%88%E5%AE%B6%E6%95%99%E6%8A%BD%E6%BF%95%E6%A9%9F5%E5%A4%A7%E4%BD%BF%E7%94%A8%E6%B3%95%E5%89%87",
     "timestamp": "2026-06-18T16:02:33.173Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "公屋下年度料編配34500伙　近8成編予公屋申請者　數量創10年新高",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250320/979504276932005888764921.jpeg/yYK6kl1YvSyudw0mJBu0sWMhNNL3XHX1BsDmYAbA5mA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60361869/%E5%85%AC%E5%B1%8B%E4%B8%8B%E5%B9%B4%E5%BA%A6%E6%96%99%E7%B7%A8%E9%85%8D34500%E4%BC%99-%E8%BF%918%E6%88%90%E7%B7%A8%E4%BA%88%E5%85%AC%E5%B1%8B%E7%94%B3%E8%AB%8B%E8%80%85-%E6%95%B8%E9%87%8F%E5%89%B510%E5%B9%B4%E6%96%B0%E9%AB%98",
-    "timestamp": "2026-06-18T13:34:35.369Z",
     "strategy": ".content-card__main"
   }
 ];
