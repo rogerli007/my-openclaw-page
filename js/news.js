@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-19T02:33:23.305Z
+// Last updated: 2026-06-19T05:55:52.022Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "陳奕迅斥1.8億「增持」SHOUSON PEAK洋房　面積2808呎　呎價6.5萬",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260203/1095430767657357312589024.jpeg/6Lfbs_GJFSWeNY-pPuuBvUOQ9w7NM-hjng_TIp4P0yI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60361969/%E9%99%B3%E5%A5%95%E8%BF%85%E6%96%A51-8%E5%84%84-%E5%A2%9E%E6%8C%81-shouson-peak%E6%B4%8B%E6%88%BF-%E9%9D%A2%E7%A9%8D2808%E5%91%8E-%E5%91%8E%E5%83%B96-5%E8%90%AC",
+    "timestamp": "2026-06-19T05:55:52.022Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美伊協議：內塔尼亞胡不僅淪為美國的棄卒　更將成以色列的棄子？",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260617/1143987852435001344312089.jpeg/IlLUTe-rf80mWGmXhqUdu9fkGw6l--06weT7rsHk-64?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%A3%9F%E7%8E%A9%E8%B2%B7/60360746/%E6%9A%91%E5%81%87%E5%A5%BD%E5%8E%BB%E8%99%952026-chiikawa%E8%BF%B4%E6%97%8B%E6%9C%A8%E9%A6%AC-%E5%8F%8D%E6%96%97%E5%A5%87%E5%85%B55%E6%89%93%E5%8D%A1-%E8%92%99%E5%A8%9C%E9%BA%97%E8%8E%8E%E5%B1%95",
     "timestamp": "2026-06-17T10:46:18.313Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美國務院協助佛得角門將母親赴美觀賽　重申免球員親屬入境保證金",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260616/1143446238327214080571204.jpeg/H2UD5ut2vh3eKFi1PGAFktvCKoTVZWeKuHIT37hyE98?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60361298/%E7%BE%8E%E5%9C%8B%E5%8B%99%E9%99%A2%E5%8D%94%E5%8A%A9%E4%BD%9B%E5%BE%97%E8%A7%92%E9%96%80%E5%B0%87%E6%AF%8D%E8%A6%AA%E8%B5%B4%E7%BE%8E%E8%A7%80%E8%B3%BD-%E9%87%8D%E7%94%B3%E5%85%8D%E7%90%83%E5%93%A1%E8%A6%AA%E5%B1%AC%E5%85%A5%E5%A2%83%E4%BF%9D%E8%AD%89%E9%87%91",
-    "timestamp": "2026-06-17T09:01:21.846Z",
     "strategy": ".content-card__main"
   }
 ];
