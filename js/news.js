@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-19T22:43:57.448Z
+// Last updated: 2026-06-19T23:13:25.175Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "政府擬規管彈珠機後現「放機潮」？有店主棄機轉行　料多同行離場",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260619/1144784171198058496963187.jpeg/x1-6hjHNOgsQNclRzv8oIPym_yDu4jFN3dMX993TF_c",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60352297/%E6%94%BF%E5%BA%9C%E6%93%AC%E8%A6%8F%E7%AE%A1%E5%BD%88%E7%8F%A0%E6%A9%9F%E5%BE%8C%E7%8F%BE-%E6%94%BE%E6%A9%9F%E6%BD%AE-%E6%9C%89%E5%BA%97%E4%B8%BB%E6%A3%84%E6%A9%9F%E8%BD%89%E8%A1%8C-%E6%96%99%E5%A4%9A%E5%90%8C%E8%A1%8C%E9%9B%A2%E5%A0%B4",
+    "timestamp": "2026-06-19T23:13:25.175Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "特朗普死撐備忘錄等同伊朗無條件投降　稱自身權力沒有限制｜有片",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260619/1144445956788326400852903.jpeg/plvOaQ-GMewlGkaqAdx52uUyLDMTKgJbOip8VToqfFU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60361895/%E8%90%AC%E6%96%AF-%E7%BE%8E%E4%BC%8A%E6%9C%80%E7%B5%82%E5%8D%94%E8%AD%B060%E6%97%A5%E9%99%90%E6%9C%9F%E5%B7%B2%E9%96%8B%E5%A7%8B-%E9%80%BE1250%E8%90%AC%E6%A1%B6%E7%9F%B3%E6%B2%B9%E5%B7%B2%E9%80%9A%E9%81%8E%E6%B5%B7%E5%B3%BD",
     "timestamp": "2026-06-18T19:24:35.455Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "端午節｜恒基李家誠李徐子淇探訪長者中心　送上拐杖傘及糭福袋",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260619/1144439876049965056703569.jpeg/3CT6fXJiQttUGT6UhkAq3JzMgaSSu8_7QRKJD0ESiQ8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60361894/%E7%AB%AF%E5%8D%88%E7%AF%80-%E6%81%92%E5%9F%BA%E6%9D%8E%E5%AE%B6%E8%AA%A0%E6%9D%8E%E5%BE%90%E5%AD%90%E6%B7%87%E6%8E%A2%E8%A8%AA%E9%95%B7%E8%80%85%E4%B8%AD%E5%BF%83-%E9%80%81%E4%B8%8A%E6%8B%90%E6%9D%96%E5%82%98%E5%8F%8A%E7%B3%AD%E7%A6%8F%E8%A2%8B",
-    "timestamp": "2026-06-18T17:18:22.458Z",
     "strategy": ".content-card__main"
   }
 ];
