@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-19T16:28:19.383Z
+// Last updated: 2026-06-19T18:14:42.974Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "世界盃｜警銅鑼灣打擊醉駕　醉司機載余德丞遇查　「吹爆波」被捕",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260620/1144820813615075328235468.jpeg/LFbY2RaBP8Wnpsihu6WY5vwDGjl655ihsVrVLbFa1S0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60362106/%E4%B8%96%E7%95%8C%E7%9B%83-%E8%AD%A6%E9%8A%85%E9%91%BC%E7%81%A3%E6%89%93%E6%93%8A%E9%86%89%E9%A7%95-%E9%86%89%E5%8F%B8%E6%A9%9F%E8%BC%89%E4%BD%99%E5%BE%B7%E4%B8%9E%E9%81%87%E6%9F%A5-%E5%90%B9%E7%88%86%E6%B3%A2-%E8%A2%AB%E6%8D%95",
+    "timestamp": "2026-06-19T18:14:42.974Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "遊日注意！日本7月上調外國人簽證費5倍　單次730元　多次1460元",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260323/1112829134339313664459280.jpeg/I4LlSpqCmZ2Rxe2i9pRrSPLuKxfDpdO_zUcFLM1HBSw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60361574/%E5%AE%8F%E7%A6%8F%E8%8B%91%E8%81%BD%E8%AD%89%E6%9C%83%E7%AC%AC5%E8%BC%AA6-22%E8%B5%B7%E8%88%89%E8%A1%8C-%E8%81%BD%E5%8F%96%E5%B0%88%E5%AE%B6%E5%B0%B1%E8%B5%B7%E7%81%AB%E5%92%8C%E7%81%AB%E5%8B%A2%E9%80%9F%E8%94%93%E5%BB%B6%E8%AD%89%E4%BE%9B",
     "timestamp": "2026-06-18T03:56:21.300Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "放假為何總是生病感冒？網民：返工就會好返　醫生揭3大真正原因",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260116/1088778996503547904230649.jpeg/Dl-0eflIEwJiFIB2bc8QunBNEsJEmm5W1BZz2dQWc9k?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%A3%9F%E7%8E%A9%E8%B2%B7/60313094/%E6%94%BE%E5%81%87%E7%82%BA%E4%BD%95%E7%B8%BD%E6%98%AF%E7%94%9F%E7%97%85%E6%84%9F%E5%86%92-%E7%B6%B2%E6%B0%91-%E8%BF%94%E5%B7%A5%E5%B0%B1%E6%9C%83%E5%A5%BD%E8%BF%94-%E9%86%AB%E7%94%9F%E6%8F%AD3%E5%A4%A7%E7%9C%9F%E6%AD%A3%E5%8E%9F%E5%9B%A0",
-    "timestamp": "2026-06-18T02:32:05.611Z",
     "strategy": ".content-card__main"
   }
 ];
