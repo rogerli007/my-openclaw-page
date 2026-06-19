@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-19T13:01:44.082Z
+// Last updated: 2026-06-19T14:15:15.911Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "世界盃2026｜佛得角門將禾仙夏受訪　談一夜成名：減少用社交媒體",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260619/1144762586911215616245716.png/JKFSbqykDSpT5sgxgEFtLG_81MBlAB7hMjvdLTI73S0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60362088/%E4%B8%96%E7%95%8C%E7%9B%832026-%E4%BD%9B%E5%BE%97%E8%A7%92%E9%96%80%E5%B0%87%E7%A6%BE%E4%BB%99%E5%A4%8F%E5%8F%97%E8%A8%AA-%E8%AB%87%E4%B8%80%E5%A4%9C%E6%88%90%E5%90%8D-%E6%B8%9B%E5%B0%91%E7%94%A8%E7%A4%BE%E4%BA%A4%E5%AA%92%E9%AB%94",
+    "timestamp": "2026-06-19T14:15:15.911Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "有片︱車CAM拍下驚悚一刻！珠海車輛差一秒遭閃電集中瞬間熄火",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260618/1144204217653661696437012.jpeg/Awh93MUCz5zlu1HhwwZlpljFMZsAVDH_UaWk4lGlpOI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60361489/%E4%B8%96%E7%95%8C%E7%9B%832026-%E5%8A%A0%E7%B4%8D1%E7%90%83%E7%B5%95%E6%AE%BA%E5%B7%B4%E6%8B%BF%E9%A6%AC-%E5%B9%B4%E8%BC%95%E6%96%B0%E6%98%9F%E8%80%B6%E8%98%AD%E8%80%B6%E8%A3%9C%E6%99%82%E5%85%A5%E6%B3%A2",
     "timestamp": "2026-06-18T01:32:46.045Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "何文田公主道七人車跣軚撞壆　車頭損毀　司機無受傷",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260618/1144142571145007104615203.jpeg/AaMlwZBOI-F2Vr_kWLb-Axz3GC12CE35W1afaWFWn2k?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60361481/%E4%BD%95%E6%96%87%E7%94%B0%E5%85%AC%E4%B8%BB%E9%81%93%E4%B8%83%E4%BA%BA%E8%BB%8A%E8%B7%A3%E8%BB%9A%E6%92%9E%E5%A3%86-%E8%BB%8A%E9%A0%AD%E6%90%8D%E6%AF%80-%E5%8F%B8%E6%A9%9F%E7%84%A1%E5%8F%97%E5%82%B7",
-    "timestamp": "2026-06-17T21:21:36.824Z",
     "strategy": ".content-card__main"
   }
 ];
