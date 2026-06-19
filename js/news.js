@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-19T05:55:52.022Z
+// Last updated: 2026-06-19T08:08:48.521Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "腸道是人體第二大腦！營養師教養腸4營養素日吃至少3份菜+2份水果",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260618/1144325371689177088523480.jpeg/vtEiKJxQz25G-lDlQusO4_5NCOj9oNwy2bGdJdmxnSU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60336238/%E8%85%B8%E9%81%93%E6%98%AF%E4%BA%BA%E9%AB%94%E7%AC%AC%E4%BA%8C%E5%A4%A7%E8%85%A6-%E7%87%9F%E9%A4%8A%E5%B8%AB%E6%95%99%E9%A4%8A%E8%85%B84%E7%87%9F%E9%A4%8A%E7%B4%A0%E6%97%A5%E5%90%83%E8%87%B3%E5%B0%913%E4%BB%BD%E8%8F%9C-2%E4%BB%BD%E6%B0%B4%E6%9E%9C",
+    "timestamp": "2026-06-19T08:08:48.521Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "陳奕迅斥1.8億「增持」SHOUSON PEAK洋房　面積2808呎　呎價6.5萬",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260615/1143196040304791552562781.png/ot2k6Mkrh8BX1srya2Q3YPM_Wvn1TuOVy3apf8t2qX8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E8%A9%B1%E9%A1%8C/60360394/%E6%97%A5%E6%9C%AC%E5%8F%B2%E4%B8%8A%E6%9C%80%E6%83%A1%E6%AF%92%E8%AD%B7%E5%A3%AB-%E7%94%A8%E8%AC%8A%E8%A8%80%E7%B2%BE%E7%A5%9E%E6%8E%A7%E5%88%B63%E5%90%8C%E6%A0%A1%E5%A5%BD%E5%8F%8B%E9%80%A3%E7%92%B0%E5%BC%92%E5%A4%AB%E9%A8%99%E4%BF%9D%E9%9A%AA%E9%87%91",
     "timestamp": "2026-06-17T13:37:49.607Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "暑假好去處2026｜CHIIKAWA迴旋木馬／反斗奇兵5打卡／蒙娜麗莎展",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260617/1143987852435001344312089.jpeg/IlLUTe-rf80mWGmXhqUdu9fkGw6l--06weT7rsHk-64?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%A3%9F%E7%8E%A9%E8%B2%B7/60360746/%E6%9A%91%E5%81%87%E5%A5%BD%E5%8E%BB%E8%99%952026-chiikawa%E8%BF%B4%E6%97%8B%E6%9C%A8%E9%A6%AC-%E5%8F%8D%E6%96%97%E5%A5%87%E5%85%B55%E6%89%93%E5%8D%A1-%E8%92%99%E5%A8%9C%E9%BA%97%E8%8E%8E%E5%B1%95",
-    "timestamp": "2026-06-17T10:46:18.313Z",
     "strategy": ".content-card__main"
   }
 ];
