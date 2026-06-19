@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-19T22:14:26.812Z
+// Last updated: 2026-06-19T22:43:57.448Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "特朗普死撐備忘錄等同伊朗無條件投降　稱自身權力沒有限制｜有片",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260620/1144884403688706048415098.png/rqTiRoStFJOjiqoc5PohLXkr8AaatYOzOCSh-Tgkofk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60362114/%E7%89%B9%E6%9C%97%E6%99%AE%E6%AD%BB%E6%92%90%E5%82%99%E5%BF%98%E9%8C%84%E7%AD%89%E5%90%8C%E4%BC%8A%E6%9C%97%E7%84%A1%E6%A2%9D%E4%BB%B6%E6%8A%95%E9%99%8D-%E7%A8%B1%E8%87%AA%E8%BA%AB%E6%AC%8A%E5%8A%9B%E6%B2%92%E6%9C%89%E9%99%90%E5%88%B6-%E6%9C%89%E7%89%87",
+    "timestamp": "2026-06-19T22:43:57.448Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "用家投資者蜂擁入市　樓市炒風是否重臨？　港府應否出招壓抑？",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260619/1144439876049965056703569.jpeg/3CT6fXJiQttUGT6UhkAq3JzMgaSSu8_7QRKJD0ESiQ8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60361894/%E7%AB%AF%E5%8D%88%E7%AF%80-%E6%81%92%E5%9F%BA%E6%9D%8E%E5%AE%B6%E8%AA%A0%E6%9D%8E%E5%BE%90%E5%AD%90%E6%B7%87%E6%8E%A2%E8%A8%AA%E9%95%B7%E8%80%85%E4%B8%AD%E5%BF%83-%E9%80%81%E4%B8%8A%E6%8B%90%E6%9D%96%E5%82%98%E5%8F%8A%E7%B3%AD%E7%A6%8F%E8%A2%8B",
     "timestamp": "2026-06-18T17:18:22.458Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "黑雨｜家中濕度持續超60%小心提防發霉！專家教抽濕機5大使用法則",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260618/1144397148524122112156970.jpeg/Qjte65k-QPDGqrlmSQJSYed_ikIrSFuRWiCWj1oglo8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60361717/%E9%BB%91%E9%9B%A8-%E5%AE%B6%E4%B8%AD%E6%BF%95%E5%BA%A6%E6%8C%81%E7%BA%8C%E8%B6%8560-%E5%B0%8F%E5%BF%83%E6%8F%90%E9%98%B2%E7%99%BC%E9%9C%89-%E5%B0%88%E5%AE%B6%E6%95%99%E6%8A%BD%E6%BF%95%E6%A9%9F5%E5%A4%A7%E4%BD%BF%E7%94%A8%E6%B3%95%E5%89%87",
-    "timestamp": "2026-06-18T16:02:33.173Z",
     "strategy": ".content-card__main"
   }
 ];
