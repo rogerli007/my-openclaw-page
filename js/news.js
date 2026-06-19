@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-18T23:58:24.156Z
+// Last updated: 2026-06-19T01:22:29.169Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "宏福苑｜李家超指追責按事實及錯失嚴重度　絕對會考慮圍標刑事化",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260430/1126469872050769920485327.jpeg/SHgg_w-gO5RSl3AAbxuJUrg4xmJfvIh1r5xsBK-cbAQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60361921/%E5%AE%8F%E7%A6%8F%E8%8B%91-%E6%9D%8E%E5%AE%B6%E8%B6%85%E6%8C%87%E8%BF%BD%E8%B2%AC%E6%8C%89%E4%BA%8B%E5%AF%A6%E5%8F%8A%E9%8C%AF%E5%A4%B1%E5%9A%B4%E9%87%8D%E5%BA%A6-%E7%B5%95%E5%B0%8D%E6%9C%83%E8%80%83%E6%85%AE%E5%9C%8D%E6%A8%99%E5%88%91%E4%BA%8B%E5%8C%96",
+    "timestamp": "2026-06-19T01:22:29.169Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美參議員批美伊協議「丟人現眼」：數十年來最嚴重外交政策失誤",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/3100662/org/fac9adcdbf44926d94f240aaa33903b2.JPG/dD2XwQvDhyFkG2ws2yEirkKr3_MVUpJaAU5rWgFOa1o?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60361275/%E5%A4%96%E7%AE%A1%E5%B1%80%E7%A8%B1%E5%B0%87%E5%A2%9E%E7%99%BC%E6%96%B0%E4%B8%80%E6%89%B9qdii%E9%A1%8D%E5%BA%A6-%E8%87%B33%E6%9C%88%E5%BA%95%E5%A4%96%E8%B3%87%E6%8C%81a%E8%82%A1%E7%B8%BD%E5%80%BC6%E5%8D%83%E5%84%84%E7%BE%8E%E5%85%83",
     "timestamp": "2026-06-17T07:09:08.208Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "教局推AI素養學習架構和指南　避免學生思維外判　勿用AI危害國安",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260617/1143900929653739520467138.jpeg/dHMjtYURf0TA6z39puYW9AwWEVDTRhR7iSJdiYkiXYk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60361218/%E6%95%99%E5%B1%80%E6%8E%A8ai%E7%B4%A0%E9%A4%8A%E5%AD%B8%E7%BF%92%E6%9E%B6%E6%A7%8B%E5%92%8C%E6%8C%87%E5%8D%97-%E9%81%BF%E5%85%8D%E5%AD%B8%E7%94%9F%E6%80%9D%E7%B6%AD%E5%A4%96%E5%88%A4-%E5%8B%BF%E7%94%A8ai%E5%8D%B1%E5%AE%B3%E5%9C%8B%E5%AE%89",
-    "timestamp": "2026-06-17T05:19:08.985Z",
     "strategy": ".content-card__main"
   }
 ];
