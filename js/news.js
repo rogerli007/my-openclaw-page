@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-19T08:08:48.521Z
+// Last updated: 2026-06-19T09:55:14.371Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "施可瑩患卵巢癌　獲泰星鄺玲玲拍片溫柔鼓勵：希望你唔好放棄",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260619/1144692121815486464568974.jpeg/zSi5P_FjPNqW41kkzg3FrrHGu-aynlAzF7J-Oxeyfjs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60362024/%E6%96%BD%E5%8F%AF%E7%91%A9%E6%82%A3%E5%8D%B5%E5%B7%A2%E7%99%8C-%E7%8D%B2%E6%B3%B0%E6%98%9F%E9%84%BA%E7%8E%B2%E7%8E%B2%E6%8B%8D%E7%89%87%E6%BA%AB%E6%9F%94%E9%BC%93%E5%8B%B5-%E5%B8%8C%E6%9C%9B%E4%BD%A0%E5%94%94%E5%A5%BD%E6%94%BE%E6%A3%84",
+    "timestamp": "2026-06-19T09:55:14.371Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "腸道是人體第二大腦！營養師教養腸4營養素日吃至少3份菜+2份水果",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260618/1144108912614576128248910.jpeg/ezna__doSQ6RhV13MPJRjZ-U3iXSOF-w63m5Eut5uRI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60361474/%E4%B8%96%E7%95%8C%E7%9B%832026-%E6%B0%91%E4%B8%BB%E5%89%9B%E6%9E%9C1-1%E9%80%BC%E5%92%8C%E8%91%A1%E8%90%84%E7%89%99-%E9%9F%8B%E6%B2%99%E9%A0%82%E5%85%A5%E9%9A%8A%E5%8F%B2%E9%A6%96%E5%80%8B%E4%B8%96%E7%9B%83%E5%85%A5%E7%90%83",
     "timestamp": "2026-06-17T19:24:29.644Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "日本史上最惡毒護士：用謊言精神控制3同校好友連環弒夫騙保險金",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260615/1143196040304791552562781.png/ot2k6Mkrh8BX1srya2Q3YPM_Wvn1TuOVy3apf8t2qX8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E8%A9%B1%E9%A1%8C/60360394/%E6%97%A5%E6%9C%AC%E5%8F%B2%E4%B8%8A%E6%9C%80%E6%83%A1%E6%AF%92%E8%AD%B7%E5%A3%AB-%E7%94%A8%E8%AC%8A%E8%A8%80%E7%B2%BE%E7%A5%9E%E6%8E%A7%E5%88%B63%E5%90%8C%E6%A0%A1%E5%A5%BD%E5%8F%8B%E9%80%A3%E7%92%B0%E5%BC%92%E5%A4%AB%E9%A8%99%E4%BF%9D%E9%9A%AA%E9%87%91",
-    "timestamp": "2026-06-17T13:37:49.607Z",
     "strategy": ".content-card__main"
   }
 ];
