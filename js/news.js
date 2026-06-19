@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-19T11:42:21.694Z
+// Last updated: 2026-06-19T13:01:44.082Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "有片︱車CAM拍下驚悚一刻！珠海車輛差一秒遭閃電集中瞬間熄火",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260619/1144736850708008960265830.png/73PeZOY8YATbBKl5XMMUycsh74eczGRbHim4lB4puJQ",
+    "url": "https://www.hk01.com/%E5%8C%97%E4%B8%8A%E5%BB%A3%E6%9D%B1/60362073/%E6%9C%89%E7%89%87-%E8%BB%8Acam%E6%8B%8D%E4%B8%8B%E9%A9%9A%E6%82%9A%E4%B8%80%E5%88%BB-%E7%8F%A0%E6%B5%B7%E8%BB%8A%E8%BC%9B%E5%B7%AE%E4%B8%80%E7%A7%92%E9%81%AD%E9%96%83%E9%9B%BB%E9%9B%86%E4%B8%AD%E7%9E%AC%E9%96%93%E7%86%84%E7%81%AB",
+    "timestamp": "2026-06-19T13:01:44.082Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "Grade10 Fest Summer 2026直擊｜大量稀有卡現場睇﹑拎免費卡包",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260618/1144142571145007104615203.jpeg/AaMlwZBOI-F2Vr_kWLb-Axz3GC12CE35W1afaWFWn2k?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60361481/%E4%BD%95%E6%96%87%E7%94%B0%E5%85%AC%E4%B8%BB%E9%81%93%E4%B8%83%E4%BA%BA%E8%BB%8A%E8%B7%A3%E8%BB%9A%E6%92%9E%E5%A3%86-%E8%BB%8A%E9%A0%AD%E6%90%8D%E6%AF%80-%E5%8F%B8%E6%A9%9F%E7%84%A1%E5%8F%97%E5%82%B7",
     "timestamp": "2026-06-17T21:21:36.824Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普：感謝習近平普京對伊朗戰爭保持中立　他們本可讓美更艱難",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260618/1144113114053087232640231.jpeg/s3jDK3fOM_hsUAofMWWXcGF-pTUOKRuuNEE1UTRBNVE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60361475/%E7%89%B9%E6%9C%97%E6%99%AE-%E6%84%9F%E8%AC%9D%E7%BF%92%E8%BF%91%E5%B9%B3%E6%99%AE%E4%BA%AC%E5%B0%8D%E4%BC%8A%E6%9C%97%E6%88%B0%E7%88%AD%E4%BF%9D%E6%8C%81%E4%B8%AD%E7%AB%8B-%E4%BB%96%E5%80%91%E6%9C%AC%E5%8F%AF%E8%AE%93%E7%BE%8E%E6%9B%B4%E8%89%B1%E9%9B%A3",
-    "timestamp": "2026-06-17T20:22:34.310Z",
     "strategy": ".content-card__main"
   }
 ];
