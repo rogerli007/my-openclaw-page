@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-19T01:22:29.169Z
+// Last updated: 2026-06-19T02:33:23.305Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美伊協議：內塔尼亞胡不僅淪為美國的棄卒　更將成以色列的棄子？",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250205/963879455359504384164925.jpeg/iHBRyPAqm-OQ0IfYr9I9DOY0YQUKiJkzL9wwPi_cMD4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%9C%8B%E9%9A%9B%E5%88%86%E6%9E%90/60361824/%E7%BE%8E%E4%BC%8A%E5%8D%94%E8%AD%B0-%E5%85%A7%E5%A1%94%E5%B0%BC%E4%BA%9E%E8%83%A1%E4%B8%8D%E5%83%85%E6%B7%AA%E7%82%BA%E7%BE%8E%E5%9C%8B%E7%9A%84%E6%A3%84%E5%8D%92-%E6%9B%B4%E5%B0%87%E6%88%90%E4%BB%A5%E8%89%B2%E5%88%97%E7%9A%84%E6%A3%84%E5%AD%90",
+    "timestamp": "2026-06-19T02:33:23.305Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "宏福苑｜李家超指追責按事實及錯失嚴重度　絕對會考慮圍標刑事化",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260616/1143446238327214080571204.jpeg/H2UD5ut2vh3eKFi1PGAFktvCKoTVZWeKuHIT37hyE98?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60361298/%E7%BE%8E%E5%9C%8B%E5%8B%99%E9%99%A2%E5%8D%94%E5%8A%A9%E4%BD%9B%E5%BE%97%E8%A7%92%E9%96%80%E5%B0%87%E6%AF%8D%E8%A6%AA%E8%B5%B4%E7%BE%8E%E8%A7%80%E8%B3%BD-%E9%87%8D%E7%94%B3%E5%85%8D%E7%90%83%E5%93%A1%E8%A6%AA%E5%B1%AC%E5%85%A5%E5%A2%83%E4%BF%9D%E8%AD%89%E9%87%91",
     "timestamp": "2026-06-17T09:01:21.846Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "外管局稱將增發新一批QDII額度　至3月底外資持A股總值6千億美元",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/3100662/org/fac9adcdbf44926d94f240aaa33903b2.JPG/dD2XwQvDhyFkG2ws2yEirkKr3_MVUpJaAU5rWgFOa1o?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60361275/%E5%A4%96%E7%AE%A1%E5%B1%80%E7%A8%B1%E5%B0%87%E5%A2%9E%E7%99%BC%E6%96%B0%E4%B8%80%E6%89%B9qdii%E9%A1%8D%E5%BA%A6-%E8%87%B33%E6%9C%88%E5%BA%95%E5%A4%96%E8%B3%87%E6%8C%81a%E8%82%A1%E7%B8%BD%E5%80%BC6%E5%8D%83%E5%84%84%E7%BE%8E%E5%85%83",
-    "timestamp": "2026-06-17T07:09:08.208Z",
     "strategy": ".content-card__main"
   }
 ];
