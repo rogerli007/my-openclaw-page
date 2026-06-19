@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-19T23:13:25.175Z
+// Last updated: 2026-06-19T23:43:46.265Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "特朗普為新空軍一號揭幕　稱今年稍後將再出訪中國｜有片",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260620/1144901487873232896209176.jpeg/IG7nQnN1ygtnhLGDAsHaIx1_Mg7G1QaopiV6sqYlerI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60362118/%E7%89%B9%E6%9C%97%E6%99%AE%E7%82%BA%E6%96%B0%E7%A9%BA%E8%BB%8D%E4%B8%80%E8%99%9F%E6%8F%AD%E5%B9%95-%E7%A8%B1%E4%BB%8A%E5%B9%B4%E7%A8%8D%E5%BE%8C%E5%B0%87%E5%86%8D%E5%87%BA%E8%A8%AA%E4%B8%AD%E5%9C%8B-%E6%9C%89%E7%89%87",
+    "timestamp": "2026-06-19T23:43:46.265Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "政府擬規管彈珠機後現「放機潮」？有店主棄機轉行　料多同行離場",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260606/1139768973538103296601237.jpeg/Vic223ihRx2sovBoYb8WV4XgvCC2VauRSi3bxEot28Q?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60361903/%E7%A9%86%E5%82%91%E5%A1%94%E5%B7%B4-%E5%B0%8D%E7%BE%8E%E4%BC%8A%E5%82%99%E5%BF%98%E9%8C%84%E6%8C%81%E4%B8%8D%E5%90%8C%E6%84%8F%E8%A6%8B-%E7%8D%B2%E7%B8%BD%E7%B5%B1%E6%89%BF%E8%AB%BE%E7%B6%AD%E8%AD%B7%E5%88%A9%E7%9B%8A%E5%BE%8C%E6%89%B9%E5%87%86",
     "timestamp": "2026-06-18T22:22:49.977Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "萬斯：美伊最終協議60日限期已開始　逾1250萬桶石油已通過海峽",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260619/1144445956788326400852903.jpeg/plvOaQ-GMewlGkaqAdx52uUyLDMTKgJbOip8VToqfFU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60361895/%E8%90%AC%E6%96%AF-%E7%BE%8E%E4%BC%8A%E6%9C%80%E7%B5%82%E5%8D%94%E8%AD%B060%E6%97%A5%E9%99%90%E6%9C%9F%E5%B7%B2%E9%96%8B%E5%A7%8B-%E9%80%BE1250%E8%90%AC%E6%A1%B6%E7%9F%B3%E6%B2%B9%E5%B7%B2%E9%80%9A%E9%81%8E%E6%B5%B7%E5%B3%BD",
-    "timestamp": "2026-06-18T19:24:35.455Z",
     "strategy": ".content-card__main"
   }
 ];
