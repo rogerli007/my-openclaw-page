@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-19T19:42:46.707Z
+// Last updated: 2026-06-19T21:36:27.424Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "世界盃｜蘇格蘭5萬球迷攻陷美國　吹風笛遊行清空酒吧啤酒｜有片",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260620/1144838244555296768284517.jpeg/5m7W1RDsA-5xYD6RXD5RB22ZqPXsRI3su9bnZ7vW52c?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%92%B0%E7%90%83%E8%B6%A3%E8%81%9E/60362109/%E4%B8%96%E7%95%8C%E7%9B%83-%E8%98%87%E6%A0%BC%E8%98%AD5%E8%90%AC%E7%90%83%E8%BF%B7%E6%94%BB%E9%99%B7%E7%BE%8E%E5%9C%8B-%E5%90%B9%E9%A2%A8%E7%AC%9B%E9%81%8A%E8%A1%8C%E6%B8%85%E7%A9%BA%E9%85%92%E5%90%A7%E5%95%A4%E9%85%92-%E6%9C%89%E7%89%87",
+    "timestamp": "2026-06-19T21:36:27.424Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "沙頭角公路馬尾下段　口角後疑縱火燒村屋鄰居床墊　50歲男被捕",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250320/979504276932005888764921.jpeg/yYK6kl1YvSyudw0mJBu0sWMhNNL3XHX1BsDmYAbA5mA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60361869/%E5%85%AC%E5%B1%8B%E4%B8%8B%E5%B9%B4%E5%BA%A6%E6%96%99%E7%B7%A8%E9%85%8D34500%E4%BC%99-%E8%BF%918%E6%88%90%E7%B7%A8%E4%BA%88%E5%85%AC%E5%B1%8B%E7%94%B3%E8%AB%8B%E8%80%85-%E6%95%B8%E9%87%8F%E5%89%B510%E5%B9%B4%E6%96%B0%E9%AB%98",
     "timestamp": "2026-06-18T13:34:35.369Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "旨呈30億赤柱豪宅再因黑雨遇災　金屬架散架仍幽默自嘲未算最勁",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260618/1144325229879758848074325.jpeg/9sMus1zATIop6YUTTJb5P4KnaxpthRM7QFa6w0BWusM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60361762/%E6%97%A8%E5%91%8830%E5%84%84%E8%B5%A4%E6%9F%B1%E8%B1%AA%E5%AE%85%E5%86%8D%E5%9B%A0%E9%BB%91%E9%9B%A8%E9%81%87%E7%81%BD-%E9%87%91%E5%B1%AC%E6%9E%B6%E6%95%A3%E6%9E%B6%E4%BB%8D%E5%B9%BD%E9%BB%98%E8%87%AA%E5%98%B2%E6%9C%AA%E7%AE%97%E6%9C%80%E5%8B%81",
-    "timestamp": "2026-06-18T10:52:52.660Z",
     "strategy": ".content-card__main"
   }
 ];
