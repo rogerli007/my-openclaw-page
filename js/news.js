@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-19T19:00:19.828Z
+// Last updated: 2026-06-19T19:42:46.707Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "沙頭角公路馬尾下段　口角後疑縱火燒村屋鄰居床墊　50歲男被捕",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260620/1144841350944919552871325.jpeg/GRwzb85OHBboqo816_nZSw58G3tE1USCfL2ZfUa9mX0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60362110/%E6%B2%99%E9%A0%AD%E8%A7%92%E5%85%AC%E8%B7%AF%E9%A6%AC%E5%B0%BE%E4%B8%8B%E6%AE%B5-%E5%8F%A3%E8%A7%92%E5%BE%8C%E7%96%91%E7%B8%B1%E7%81%AB%E7%87%92%E6%9D%91%E5%B1%8B%E9%84%B0%E5%B1%85%E5%BA%8A%E5%A2%8A-50%E6%AD%B2%E7%94%B7%E8%A2%AB%E6%8D%95",
+    "timestamp": "2026-06-19T19:42:46.707Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "以軍19日轟炸黎巴嫩47死　特朗普其後稱要求以色列與真主黨停火",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260618/1144325229879758848074325.jpeg/9sMus1zATIop6YUTTJb5P4KnaxpthRM7QFa6w0BWusM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60361762/%E6%97%A8%E5%91%8830%E5%84%84%E8%B5%A4%E6%9F%B1%E8%B1%AA%E5%AE%85%E5%86%8D%E5%9B%A0%E9%BB%91%E9%9B%A8%E9%81%87%E7%81%BD-%E9%87%91%E5%B1%AC%E6%9E%B6%E6%95%A3%E6%9E%B6%E4%BB%8D%E5%B9%BD%E9%BB%98%E8%87%AA%E5%98%B2%E6%9C%AA%E7%AE%97%E6%9C%80%E5%8B%81",
     "timestamp": "2026-06-18T10:52:52.660Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "涉高利貸及收債活動34人被捕　3人讀中學最細13歲　收$500淋油",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260618/1144274693415505920159783.jpeg/XGa9jYUqC7HgGntB_321rKfxbwfAF8GyuR7B07kewdM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60361638/%E6%B6%89%E9%AB%98%E5%88%A9%E8%B2%B8%E5%8F%8A%E6%94%B6%E5%82%B5%E6%B4%BB%E5%8B%9534%E4%BA%BA%E8%A2%AB%E6%8D%95-3%E4%BA%BA%E8%AE%80%E4%B8%AD%E5%AD%B8%E6%9C%80%E7%B4%B013%E6%AD%B2-%E6%94%B6-500%E6%B7%8B%E6%B2%B9",
-    "timestamp": "2026-06-18T07:25:43.759Z",
     "strategy": ".content-card__main"
   }
 ];
