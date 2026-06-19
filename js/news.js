@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-19T14:15:15.911Z
+// Last updated: 2026-06-19T16:28:19.383Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "遊日注意！日本7月上調外國人簽證費5倍　單次730元　多次1460元",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20251018/1056252160997593088081257.jpeg/P4BCNHx_w5nNMN0WjUxjVpg1figmYTSBsGjGErBoxhI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60362101/%E9%81%8A%E6%97%A5%E6%B3%A8%E6%84%8F-%E6%97%A5%E6%9C%AC7%E6%9C%88%E4%B8%8A%E8%AA%BF%E5%A4%96%E5%9C%8B%E4%BA%BA%E7%B0%BD%E8%AD%89%E8%B2%BB5%E5%80%8D-%E5%96%AE%E6%AC%A1730%E5%85%83-%E5%A4%9A%E6%AC%A11460%E5%85%83",
+    "timestamp": "2026-06-19T16:28:19.383Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "世界盃2026｜佛得角門將禾仙夏受訪　談一夜成名：減少用社交媒體",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260116/1088778996503547904230649.jpeg/Dl-0eflIEwJiFIB2bc8QunBNEsJEmm5W1BZz2dQWc9k?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%A3%9F%E7%8E%A9%E8%B2%B7/60313094/%E6%94%BE%E5%81%87%E7%82%BA%E4%BD%95%E7%B8%BD%E6%98%AF%E7%94%9F%E7%97%85%E6%84%9F%E5%86%92-%E7%B6%B2%E6%B0%91-%E8%BF%94%E5%B7%A5%E5%B0%B1%E6%9C%83%E5%A5%BD%E8%BF%94-%E9%86%AB%E7%94%9F%E6%8F%AD3%E5%A4%A7%E7%9C%9F%E6%AD%A3%E5%8E%9F%E5%9B%A0",
     "timestamp": "2026-06-18T02:32:05.611Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "世界盃2026｜加納1球絕殺巴拿馬　年輕新星耶蘭耶補時入波",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260618/1144204217653661696437012.jpeg/Awh93MUCz5zlu1HhwwZlpljFMZsAVDH_UaWk4lGlpOI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60361489/%E4%B8%96%E7%95%8C%E7%9B%832026-%E5%8A%A0%E7%B4%8D1%E7%90%83%E7%B5%95%E6%AE%BA%E5%B7%B4%E6%8B%BF%E9%A6%AC-%E5%B9%B4%E8%BC%95%E6%96%B0%E6%98%9F%E8%80%B6%E8%98%AD%E8%80%B6%E8%A3%9C%E6%99%82%E5%85%A5%E6%B3%A2",
-    "timestamp": "2026-06-18T01:32:46.045Z",
     "strategy": ".content-card__main"
   }
 ];
