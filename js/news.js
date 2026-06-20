@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-20T23:15:47.546Z
+// Last updated: 2026-06-20T23:47:44.995Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "萬斯啟程前往瑞士　伊朗議長率團抵蘇黎世　料周日舉行會談",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260621/1145262057336082432109724.jpeg/T70QAwIJYOnVBswUCSrehA0Fm-BZFU9R6sjW_-rI1v8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60362299/%E8%90%AC%E6%96%AF%E5%95%9F%E7%A8%8B%E5%89%8D%E5%BE%80%E7%91%9E%E5%A3%AB-%E4%BC%8A%E6%9C%97%E8%AD%B0%E9%95%B7%E7%8E%87%E5%9C%98%E6%8A%B5%E8%98%87%E9%BB%8E%E4%B8%96-%E6%96%99%E5%91%A8%E6%97%A5%E8%88%89%E8%A1%8C%E6%9C%83%E8%AB%87",
+    "timestamp": "2026-06-20T23:47:44.995Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "父親節警世文｜父勸女兒「不要嫁有錢人」原因催淚　網民：好爸爸",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260620/1144901487873232896209176.jpeg/IG7nQnN1ygtnhLGDAsHaIx1_Mg7G1QaopiV6sqYlerI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60362118/%E7%89%B9%E6%9C%97%E6%99%AE%E7%82%BA%E6%96%B0%E7%A9%BA%E8%BB%8D%E4%B8%80%E8%99%9F%E6%8F%AD%E5%B9%95-%E7%A8%B1%E4%BB%8A%E5%B9%B4%E7%A8%8D%E5%BE%8C%E5%B0%87%E5%86%8D%E5%87%BA%E8%A8%AA%E4%B8%AD%E5%9C%8B-%E6%9C%89%E7%89%87",
     "timestamp": "2026-06-19T23:43:46.265Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "政府擬規管彈珠機後現「放機潮」？有店主棄機轉行　料多同行離場",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260619/1144784171198058496963187.jpeg/x1-6hjHNOgsQNclRzv8oIPym_yDu4jFN3dMX993TF_c",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60352297/%E6%94%BF%E5%BA%9C%E6%93%AC%E8%A6%8F%E7%AE%A1%E5%BD%88%E7%8F%A0%E6%A9%9F%E5%BE%8C%E7%8F%BE-%E6%94%BE%E6%A9%9F%E6%BD%AE-%E6%9C%89%E5%BA%97%E4%B8%BB%E6%A3%84%E6%A9%9F%E8%BD%89%E8%A1%8C-%E6%96%99%E5%A4%9A%E5%90%8C%E8%A1%8C%E9%9B%A2%E5%A0%B4",
-    "timestamp": "2026-06-19T23:13:25.175Z",
     "strategy": ".content-card__main"
   }
 ];
