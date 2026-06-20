@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-20T22:15:00.516Z
+// Last updated: 2026-06-20T22:47:15.546Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "世界盃｜可愛鴨仔梅林着墨西哥波衫爆紅　獲FIFA任形象大使｜有片",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260621/1145251906025689088438075.jpeg/BzxTOcRZTacYMZgPcgQomhl0O7BtVB3rDLzXvAy817w?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%92%B0%E7%90%83%E8%B6%A3%E8%81%9E/60362296/%E4%B8%96%E7%95%8C%E7%9B%83-%E5%8F%AF%E6%84%9B%E9%B4%A8%E4%BB%94%E6%A2%85%E6%9E%97%E7%9D%80%E5%A2%A8%E8%A5%BF%E5%93%A5%E6%B3%A2%E8%A1%AB%E7%88%86%E7%B4%85-%E7%8D%B2fifa%E4%BB%BB%E5%BD%A2%E8%B1%A1%E5%A4%A7%E4%BD%BF-%E6%9C%89%E7%89%87",
+    "timestamp": "2026-06-20T22:47:15.546Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "世界盃2026｜德國2:1反勝科特迪瓦　烏達夫補時入波成關鍵先生",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260620/1144884403688706048415098.png/rqTiRoStFJOjiqoc5PohLXkr8AaatYOzOCSh-Tgkofk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60362114/%E7%89%B9%E6%9C%97%E6%99%AE%E6%AD%BB%E6%92%90%E5%82%99%E5%BF%98%E9%8C%84%E7%AD%89%E5%90%8C%E4%BC%8A%E6%9C%97%E7%84%A1%E6%A2%9D%E4%BB%B6%E6%8A%95%E9%99%8D-%E7%A8%B1%E8%87%AA%E8%BA%AB%E6%AC%8A%E5%8A%9B%E6%B2%92%E6%9C%89%E9%99%90%E5%88%B6-%E6%9C%89%E7%89%87",
     "timestamp": "2026-06-19T22:43:57.448Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "用家投資者蜂擁入市　樓市炒風是否重臨？　港府應否出招壓抑？",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260313/1109191810887979008610879.jpeg/KLw5oyxzxUnZvl488-Zu5ISXuuqe3NlLw3qD6sN6g-o?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60362068/%E7%94%A8%E5%AE%B6%E6%8A%95%E8%B3%87%E8%80%85%E8%9C%82%E6%93%81%E5%85%A5%E5%B8%82-%E6%A8%93%E5%B8%82%E7%82%92%E9%A2%A8%E6%98%AF%E5%90%A6%E9%87%8D%E8%87%A8-%E6%B8%AF%E5%BA%9C%E6%87%89%E5%90%A6%E5%87%BA%E6%8B%9B%E5%A3%93%E6%8A%91",
-    "timestamp": "2026-06-19T22:14:26.812Z",
     "strategy": ".content-card__main"
   }
 ];
