@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-20T08:29:03.029Z
+// Last updated: 2026-06-20T09:45:25.748Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "波蘭總統撤銷澤連斯基白鷹勳章榮譽頭銜　烏克蘭外長：戰略錯誤",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250807/1030066124215029760538209.jpeg/-DWjZPsASqwP9wbn9Hlu3PBPiQI8D13svu9_G77vfxs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60362208/%E6%B3%A2%E8%98%AD%E7%B8%BD%E7%B5%B1%E6%92%A4%E9%8A%B7%E6%BE%A4%E9%80%A3%E6%96%AF%E5%9F%BA%E7%99%BD%E9%B7%B9%E5%8B%B3%E7%AB%A0%E6%A6%AE%E8%AD%BD%E9%A0%AD%E9%8A%9C-%E7%83%8F%E5%85%8B%E8%98%AD%E5%A4%96%E9%95%B7-%E6%88%B0%E7%95%A5%E9%8C%AF%E8%AA%A4",
+    "timestamp": "2026-06-20T09:45:25.748Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "羽毛球．澳門賽｜陳延澤吳芷柔闖決賽　與世二蔣振邦魏雅欣爭冠",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260618/1144325371689177088523480.jpeg/vtEiKJxQz25G-lDlQusO4_5NCOj9oNwy2bGdJdmxnSU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60336238/%E8%85%B8%E9%81%93%E6%98%AF%E4%BA%BA%E9%AB%94%E7%AC%AC%E4%BA%8C%E5%A4%A7%E8%85%A6-%E7%87%9F%E9%A4%8A%E5%B8%AB%E6%95%99%E9%A4%8A%E8%85%B84%E7%87%9F%E9%A4%8A%E7%B4%A0%E6%97%A5%E5%90%83%E8%87%B3%E5%B0%913%E4%BB%BD%E8%8F%9C-2%E4%BB%BD%E6%B0%B4%E6%9E%9C",
     "timestamp": "2026-06-19T08:08:48.521Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "陳奕迅斥1.8億「增持」SHOUSON PEAK洋房　面積2808呎　呎價6.5萬",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260203/1095430767657357312589024.jpeg/6Lfbs_GJFSWeNY-pPuuBvUOQ9w7NM-hjng_TIp4P0yI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60361969/%E9%99%B3%E5%A5%95%E8%BF%85%E6%96%A51-8%E5%84%84-%E5%A2%9E%E6%8C%81-shouson-peak%E6%B4%8B%E6%88%BF-%E9%9D%A2%E7%A9%8D2808%E5%91%8E-%E5%91%8E%E5%83%B96-5%E8%90%AC",
-    "timestamp": "2026-06-19T05:55:52.022Z",
     "strategy": ".content-card__main"
   }
 ];
