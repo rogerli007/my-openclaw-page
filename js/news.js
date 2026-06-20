@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-20T20:17:26.674Z
+// Last updated: 2026-06-20T21:38:20.477Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "施紀賢大勢已去？　英媒：料最快22日宣布請辭　將有序下台",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260621/1145229095693455360703165.jpeg/MDCXgS9Wej6q4tHTCVvG3xOa-dnSz8Dkc9l7GXPZexk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60362292/%E6%96%BD%E7%B4%80%E8%B3%A2%E5%A4%A7%E5%8B%A2%E5%B7%B2%E5%8E%BB-%E8%8B%B1%E5%AA%92-%E6%96%99%E6%9C%80%E5%BF%AB22%E6%97%A5%E5%AE%A3%E5%B8%83%E8%AB%8B%E8%BE%AD-%E5%B0%87%E6%9C%89%E5%BA%8F%E4%B8%8B%E5%8F%B0",
+    "timestamp": "2026-06-20T21:38:20.477Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "世界盃2026｜荷蘭5:1炒瑞典　加普與波貝比齊齊起孖大勝一場",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260620/1144838244555296768284517.jpeg/5m7W1RDsA-5xYD6RXD5RB22ZqPXsRI3su9bnZ7vW52c?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%92%B0%E7%90%83%E8%B6%A3%E8%81%9E/60362109/%E4%B8%96%E7%95%8C%E7%9B%83-%E8%98%87%E6%A0%BC%E8%98%AD5%E8%90%AC%E7%90%83%E8%BF%B7%E6%94%BB%E9%99%B7%E7%BE%8E%E5%9C%8B-%E5%90%B9%E9%A2%A8%E7%AC%9B%E9%81%8A%E8%A1%8C%E6%B8%85%E7%A9%BA%E9%85%92%E5%90%A7%E5%95%A4%E9%85%92-%E6%9C%89%E7%89%87",
     "timestamp": "2026-06-19T21:36:27.424Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "沙頭角公路馬尾下段　口角後疑縱火燒村屋鄰居床墊　50歲男被捕",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260620/1144841350944919552871325.jpeg/GRwzb85OHBboqo816_nZSw58G3tE1USCfL2ZfUa9mX0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60362110/%E6%B2%99%E9%A0%AD%E8%A7%92%E5%85%AC%E8%B7%AF%E9%A6%AC%E5%B0%BE%E4%B8%8B%E6%AE%B5-%E5%8F%A3%E8%A7%92%E5%BE%8C%E7%96%91%E7%B8%B1%E7%81%AB%E7%87%92%E6%9D%91%E5%B1%8B%E9%84%B0%E5%B1%85%E5%BA%8A%E5%A2%8A-50%E6%AD%B2%E7%94%B7%E8%A2%AB%E6%8D%95",
-    "timestamp": "2026-06-19T19:42:46.707Z",
     "strategy": ".content-card__main"
   }
 ];
