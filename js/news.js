@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-20T22:47:15.546Z
+// Last updated: 2026-06-20T23:15:47.546Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "父親節警世文｜父勸女兒「不要嫁有錢人」原因催淚　網民：好爸爸",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20210619/482944886069268480104586.jpeg/nGummjap2zNaPmImznxHT9clriEb1EENYIIGcWCCBnE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60360939/%E7%88%B6%E8%A6%AA%E7%AF%80%E8%AD%A6%E4%B8%96%E6%96%87-%E7%88%B6%E5%8B%B8%E5%A5%B3%E5%85%92-%E4%B8%8D%E8%A6%81%E5%AB%81%E6%9C%89%E9%8C%A2%E4%BA%BA-%E5%8E%9F%E5%9B%A0%E5%82%AC%E6%B7%9A-%E7%B6%B2%E6%B0%91-%E5%A5%BD%E7%88%B8%E7%88%B8",
+    "timestamp": "2026-06-20T23:15:47.546Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "世界盃｜可愛鴨仔梅林着墨西哥波衫爆紅　獲FIFA任形象大使｜有片",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260619/1144784171198058496963187.jpeg/x1-6hjHNOgsQNclRzv8oIPym_yDu4jFN3dMX993TF_c",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60352297/%E6%94%BF%E5%BA%9C%E6%93%AC%E8%A6%8F%E7%AE%A1%E5%BD%88%E7%8F%A0%E6%A9%9F%E5%BE%8C%E7%8F%BE-%E6%94%BE%E6%A9%9F%E6%BD%AE-%E6%9C%89%E5%BA%97%E4%B8%BB%E6%A3%84%E6%A9%9F%E8%BD%89%E8%A1%8C-%E6%96%99%E5%A4%9A%E5%90%8C%E8%A1%8C%E9%9B%A2%E5%A0%B4",
     "timestamp": "2026-06-19T23:13:25.175Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普死撐備忘錄等同伊朗無條件投降　稱自身權力沒有限制｜有片",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260620/1144884403688706048415098.png/rqTiRoStFJOjiqoc5PohLXkr8AaatYOzOCSh-Tgkofk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60362114/%E7%89%B9%E6%9C%97%E6%99%AE%E6%AD%BB%E6%92%90%E5%82%99%E5%BF%98%E9%8C%84%E7%AD%89%E5%90%8C%E4%BC%8A%E6%9C%97%E7%84%A1%E6%A2%9D%E4%BB%B6%E6%8A%95%E9%99%8D-%E7%A8%B1%E8%87%AA%E8%BA%AB%E6%AC%8A%E5%8A%9B%E6%B2%92%E6%9C%89%E9%99%90%E5%88%B6-%E6%9C%89%E7%89%87",
-    "timestamp": "2026-06-19T22:43:57.448Z",
     "strategy": ".content-card__main"
   }
 ];
