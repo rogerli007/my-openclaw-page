@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-20T10:42:58.209Z
+// Last updated: 2026-06-20T12:59:50.530Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "世界盃｜伊朗足協稱要向FIFA投訴美國",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260614/1142887890104094720512607.jpeg/cHvvseZ--QvnlWi5tY4aH49ZbuQdKUWZ4snhZuLJ4WY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60362249/%E4%B8%96%E7%95%8C%E7%9B%83-%E4%BC%8A%E6%9C%97%E8%B6%B3%E5%8D%94%E7%A8%B1%E8%A6%81%E5%90%91fifa%E6%8A%95%E8%A8%B4%E7%BE%8E%E5%9C%8B",
+    "timestamp": "2026-06-20T12:59:50.530Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "世盃全城起動｜美斯福地重遊　阿根廷贏波獲利",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260619/1144720647620923392962843.jpeg/_tLLe7r_UmpPYte_Z3Ls5uS5HR_6bhL82pSartqUmq4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60361698/grade10-fest-summer-2026%E7%9B%B4%E6%93%8A-%E5%A4%A7%E9%87%8F%E7%A8%80%E6%9C%89%E5%8D%A1%E7%8F%BE%E5%A0%B4%E7%9D%87-%E6%8B%8E%E5%85%8D%E8%B2%BB%E5%8D%A1%E5%8C%85",
     "timestamp": "2026-06-19T11:42:21.694Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "施可瑩患卵巢癌　獲泰星鄺玲玲拍片溫柔鼓勵：希望你唔好放棄",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260619/1144692121815486464568974.jpeg/zSi5P_FjPNqW41kkzg3FrrHGu-aynlAzF7J-Oxeyfjs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60362024/%E6%96%BD%E5%8F%AF%E7%91%A9%E6%82%A3%E5%8D%B5%E5%B7%A2%E7%99%8C-%E7%8D%B2%E6%B3%B0%E6%98%9F%E9%84%BA%E7%8E%B2%E7%8E%B2%E6%8B%8D%E7%89%87%E6%BA%AB%E6%9F%94%E9%BC%93%E5%8B%B5-%E5%B8%8C%E6%9C%9B%E4%BD%A0%E5%94%94%E5%A5%BD%E6%94%BE%E6%A3%84",
-    "timestamp": "2026-06-19T09:55:14.371Z",
     "strategy": ".content-card__main"
   }
 ];
