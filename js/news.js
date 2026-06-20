@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-20T21:38:20.477Z
+// Last updated: 2026-06-20T22:15:00.516Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "世界盃2026｜德國2:1反勝科特迪瓦　烏達夫補時入波成關鍵先生",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260621/1145240896053186560845269.jpeg/an_kO5L0wxuy54NnLzjO441zC1HXf40q1AGayNQBmsg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60362294/%E4%B8%96%E7%95%8C%E7%9B%832026-%E5%BE%B7%E5%9C%8B2-1%E5%8F%8D%E5%8B%9D%E7%A7%91%E7%89%B9%E8%BF%AA%E7%93%A6-%E7%83%8F%E9%81%94%E5%A4%AB%E8%A3%9C%E6%99%82%E5%85%A5%E6%B3%A2%E6%88%90%E9%97%9C%E9%8D%B5%E5%85%88%E7%94%9F",
+    "timestamp": "2026-06-20T22:15:00.516Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "施紀賢大勢已去？　英媒：料最快22日宣布請辭　將有序下台",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260313/1109191810887979008610879.jpeg/KLw5oyxzxUnZvl488-Zu5ISXuuqe3NlLw3qD6sN6g-o?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60362068/%E7%94%A8%E5%AE%B6%E6%8A%95%E8%B3%87%E8%80%85%E8%9C%82%E6%93%81%E5%85%A5%E5%B8%82-%E6%A8%93%E5%B8%82%E7%82%92%E9%A2%A8%E6%98%AF%E5%90%A6%E9%87%8D%E8%87%A8-%E6%B8%AF%E5%BA%9C%E6%87%89%E5%90%A6%E5%87%BA%E6%8B%9B%E5%A3%93%E6%8A%91",
     "timestamp": "2026-06-19T22:14:26.812Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "世界盃｜蘇格蘭5萬球迷攻陷美國　吹風笛遊行清空酒吧啤酒｜有片",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260620/1144838244555296768284517.jpeg/5m7W1RDsA-5xYD6RXD5RB22ZqPXsRI3su9bnZ7vW52c?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%92%B0%E7%90%83%E8%B6%A3%E8%81%9E/60362109/%E4%B8%96%E7%95%8C%E7%9B%83-%E8%98%87%E6%A0%BC%E8%98%AD5%E8%90%AC%E7%90%83%E8%BF%B7%E6%94%BB%E9%99%B7%E7%BE%8E%E5%9C%8B-%E5%90%B9%E9%A2%A8%E7%AC%9B%E9%81%8A%E8%A1%8C%E6%B8%85%E7%A9%BA%E9%85%92%E5%90%A7%E5%95%A4%E9%85%92-%E6%9C%89%E7%89%87",
-    "timestamp": "2026-06-19T21:36:27.424Z",
     "strategy": ".content-card__main"
   }
 ];
