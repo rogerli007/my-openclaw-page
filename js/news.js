@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-20T00:14:56.462Z
+// Last updated: 2026-06-20T02:28:40.685Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "世界盃｜馬寧、傅明、周飛3中國裁判將同場執法　國足迎歷史時刻",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260620/1144936113492725760602317.jpeg/PEUoFDipJSoUnlUPs7Q9JV2QPD9Be51ggmjjLIJo4yw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60362129/%E4%B8%96%E7%95%8C%E7%9B%83-%E9%A6%AC%E5%AF%A7-%E5%82%85%E6%98%8E-%E5%91%A8%E9%A3%9B3%E4%B8%AD%E5%9C%8B%E8%A3%81%E5%88%A4%E5%B0%87%E5%90%8C%E5%A0%B4%E5%9F%B7%E6%B3%95-%E5%9C%8B%E8%B6%B3%E8%BF%8E%E6%AD%B7%E5%8F%B2%E6%99%82%E5%88%BB",
+    "timestamp": "2026-06-20T02:28:40.685Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "張頴康離巢近況曝光　跟太太麥雅緻轉戰內地變「帶貨助手」",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260619/1144539215837532160653729.jpeg/81WpUTh16jCDb6Fd82oxzb4lYGmsvfzxsgi8BrIIvAY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60361906/%E7%BE%8E%E5%8F%83%E8%AD%B0%E5%93%A1%E6%89%B9%E7%BE%8E%E4%BC%8A%E5%8D%94%E8%AD%B0-%E4%B8%9F%E4%BA%BA%E7%8F%BE%E7%9C%BC-%E6%95%B8%E5%8D%81%E5%B9%B4%E4%BE%86%E6%9C%80%E5%9A%B4%E9%87%8D%E5%A4%96%E4%BA%A4%E6%94%BF%E7%AD%96%E5%A4%B1%E8%AA%A4",
     "timestamp": "2026-06-18T23:58:24.156Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "屍殺禁區｜全智賢突發6.29來港謝票　門票中午開售港票房破1500萬",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260619/1144461580612669440467198.jpeg/JmagDTlKbwalj_vmyTDi60zPeKV2P4xVVAk6vFQJOrw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60361899/%E5%B1%8D%E6%AE%BA%E7%A6%81%E5%8D%80-%E5%85%A8%E6%99%BA%E8%B3%A2%E7%AA%81%E7%99%BC6-29%E4%BE%86%E6%B8%AF%E8%AC%9D%E7%A5%A8-%E9%96%80%E7%A5%A8%E4%B8%AD%E5%8D%88%E9%96%8B%E5%94%AE%E6%B8%AF%E7%A5%A8%E6%88%BF%E7%A0%B41500%E8%90%AC",
-    "timestamp": "2026-06-18T23:14:16.403Z",
     "strategy": ".content-card__main"
   }
 ];
