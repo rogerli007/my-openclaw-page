@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-20T09:45:25.748Z
+// Last updated: 2026-06-20T10:42:58.209Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "世盃全城起動｜美斯福地重遊　阿根廷贏波獲利",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260620/1145017820958953472320497.jpeg/SpvhgYsjRQKTu4Gb96vaRm1ehe3h8x5HX6W75V-lu-U?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60361721/%E4%B8%96%E7%9B%83%E5%85%A8%E5%9F%8E%E8%B5%B7%E5%8B%95-%E7%BE%8E%E6%96%AF%E7%A6%8F%E5%9C%B0%E9%87%8D%E9%81%8A-%E9%98%BF%E6%A0%B9%E5%BB%B7%E8%B4%8F%E6%B3%A2%E7%8D%B2%E5%88%A9",
+    "timestamp": "2026-06-20T10:42:58.209Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "波蘭總統撤銷澤連斯基白鷹勳章榮譽頭銜　烏克蘭外長：戰略錯誤",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260619/1144692121815486464568974.jpeg/zSi5P_FjPNqW41kkzg3FrrHGu-aynlAzF7J-Oxeyfjs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60362024/%E6%96%BD%E5%8F%AF%E7%91%A9%E6%82%A3%E5%8D%B5%E5%B7%A2%E7%99%8C-%E7%8D%B2%E6%B3%B0%E6%98%9F%E9%84%BA%E7%8E%B2%E7%8E%B2%E6%8B%8D%E7%89%87%E6%BA%AB%E6%9F%94%E9%BC%93%E5%8B%B5-%E5%B8%8C%E6%9C%9B%E4%BD%A0%E5%94%94%E5%A5%BD%E6%94%BE%E6%A3%84",
     "timestamp": "2026-06-19T09:55:14.371Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "腸道是人體第二大腦！營養師教養腸4營養素日吃至少3份菜+2份水果",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260618/1144325371689177088523480.jpeg/vtEiKJxQz25G-lDlQusO4_5NCOj9oNwy2bGdJdmxnSU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60336238/%E8%85%B8%E9%81%93%E6%98%AF%E4%BA%BA%E9%AB%94%E7%AC%AC%E4%BA%8C%E5%A4%A7%E8%85%A6-%E7%87%9F%E9%A4%8A%E5%B8%AB%E6%95%99%E9%A4%8A%E8%85%B84%E7%87%9F%E9%A4%8A%E7%B4%A0%E6%97%A5%E5%90%83%E8%87%B3%E5%B0%913%E4%BB%BD%E8%8F%9C-2%E4%BB%BD%E6%B0%B4%E6%9E%9C",
-    "timestamp": "2026-06-19T08:08:48.521Z",
     "strategy": ".content-card__main"
   }
 ];
