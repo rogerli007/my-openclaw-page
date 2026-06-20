@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-20T03:52:33.952Z
+// Last updated: 2026-06-20T07:10:43.833Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "出國旅遊多日要換酒店？網多數認為麻煩　內行曝連住同間更慳錢",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260618/1144337284636610560297580.jpeg/i77O8kmpTxsH5s4BhnrLjff7NMPCkh1IKd_n3ynf598?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%97%85%E9%81%8A/60350220/%E5%87%BA%E5%9C%8B%E6%97%85%E9%81%8A%E5%A4%9A%E6%97%A5%E8%A6%81%E6%8F%9B%E9%85%92%E5%BA%97-%E7%B6%B2%E5%A4%9A%E6%95%B8%E8%AA%8D%E7%82%BA%E9%BA%BB%E7%85%A9-%E5%85%A7%E8%A1%8C%E6%9B%9D%E9%80%A3%E4%BD%8F%E5%90%8C%E9%96%93%E6%9B%B4%E6%85%B3%E9%8C%A2",
+    "timestamp": "2026-06-20T07:10:43.833Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "警方衝鋒隊旺角截查可疑平台　檢懷疑仿製槍械拉男司機",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250205/963879455359504384164925.jpeg/iHBRyPAqm-OQ0IfYr9I9DOY0YQUKiJkzL9wwPi_cMD4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%9C%8B%E9%9A%9B%E5%88%86%E6%9E%90/60361824/%E7%BE%8E%E4%BC%8A%E5%8D%94%E8%AD%B0-%E5%85%A7%E5%A1%94%E5%B0%BC%E4%BA%9E%E8%83%A1%E4%B8%8D%E5%83%85%E6%B7%AA%E7%82%BA%E7%BE%8E%E5%9C%8B%E7%9A%84%E6%A3%84%E5%8D%92-%E6%9B%B4%E5%B0%87%E6%88%90%E4%BB%A5%E8%89%B2%E5%88%97%E7%9A%84%E6%A3%84%E5%AD%90",
     "timestamp": "2026-06-19T02:33:23.305Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "宏福苑｜李家超指追責按事實及錯失嚴重度　絕對會考慮圍標刑事化",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260430/1126469872050769920485327.jpeg/SHgg_w-gO5RSl3AAbxuJUrg4xmJfvIh1r5xsBK-cbAQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60361921/%E5%AE%8F%E7%A6%8F%E8%8B%91-%E6%9D%8E%E5%AE%B6%E8%B6%85%E6%8C%87%E8%BF%BD%E8%B2%AC%E6%8C%89%E4%BA%8B%E5%AF%A6%E5%8F%8A%E9%8C%AF%E5%A4%B1%E5%9A%B4%E9%87%8D%E5%BA%A6-%E7%B5%95%E5%B0%8D%E6%9C%83%E8%80%83%E6%85%AE%E5%9C%8D%E6%A8%99%E5%88%91%E4%BA%8B%E5%8C%96",
-    "timestamp": "2026-06-19T01:22:29.169Z",
     "strategy": ".content-card__main"
   }
 ];
