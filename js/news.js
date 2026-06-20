@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-20T14:36:44.576Z
+// Last updated: 2026-06-20T15:27:59.125Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "精準扶貧不精準？政府首揭關愛隊探訪有年齡劃分　狄志遠指有漏洞",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260619/1144640163167866880352974.jpeg/qYDeX1DFWJBYhcR5viVSYMCQgzwxtUu9INhIQiDYSEI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60362245/%E7%B2%BE%E6%BA%96%E6%89%B6%E8%B2%A7%E4%B8%8D%E7%B2%BE%E6%BA%96-%E6%94%BF%E5%BA%9C%E9%A6%96%E6%8F%AD%E9%97%9C%E6%84%9B%E9%9A%8A%E6%8E%A2%E8%A8%AA%E6%9C%89%E5%B9%B4%E9%BD%A1%E5%8A%83%E5%88%86-%E7%8B%84%E5%BF%97%E9%81%A0%E6%8C%87%E6%9C%89%E6%BC%8F%E6%B4%9E",
+    "timestamp": "2026-06-20T15:27:59.125Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "厄瓜多爾對庫拉索2026世界盃｜國家足球隊球員名單+直播時間",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20251018/1056252160997593088081257.jpeg/P4BCNHx_w5nNMN0WjUxjVpg1figmYTSBsGjGErBoxhI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60362101/%E9%81%8A%E6%97%A5%E6%B3%A8%E6%84%8F-%E6%97%A5%E6%9C%AC7%E6%9C%88%E4%B8%8A%E8%AA%BF%E5%A4%96%E5%9C%8B%E4%BA%BA%E7%B0%BD%E8%AD%89%E8%B2%BB5%E5%80%8D-%E5%96%AE%E6%AC%A1730%E5%85%83-%E5%A4%9A%E6%AC%A11460%E5%85%83",
     "timestamp": "2026-06-19T16:28:19.383Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "世界盃2026｜佛得角門將禾仙夏受訪　談一夜成名：減少用社交媒體",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260619/1144762586911215616245716.png/JKFSbqykDSpT5sgxgEFtLG_81MBlAB7hMjvdLTI73S0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60362088/%E4%B8%96%E7%95%8C%E7%9B%832026-%E4%BD%9B%E5%BE%97%E8%A7%92%E9%96%80%E5%B0%87%E7%A6%BE%E4%BB%99%E5%A4%8F%E5%8F%97%E8%A8%AA-%E8%AB%87%E4%B8%80%E5%A4%9C%E6%88%90%E5%90%8D-%E6%B8%9B%E5%B0%91%E7%94%A8%E7%A4%BE%E4%BA%A4%E5%AA%92%E9%AB%94",
-    "timestamp": "2026-06-19T14:15:15.911Z",
     "strategy": ".content-card__main"
   }
 ];
