@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-20T07:10:43.833Z
+// Last updated: 2026-06-20T08:29:03.029Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "羽毛球．澳門賽｜陳延澤吳芷柔闖決賽　與世二蔣振邦魏雅欣爭冠",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260620/1145034578403004416728560.jpeg/dIacG2Zbl8IwJu_Oq2Hy1Id9DBB2DF9Gf96V0H_eldA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60362179/%E7%BE%BD%E6%AF%9B%E7%90%83-%E6%BE%B3%E9%96%80%E8%B3%BD-%E9%99%B3%E5%BB%B6%E6%BE%A4%E5%90%B3%E8%8A%B7%E6%9F%94%E9%97%96%E6%B1%BA%E8%B3%BD-%E8%88%87%E4%B8%96%E4%BA%8C%E8%94%A3%E6%8C%AF%E9%82%A6%E9%AD%8F%E9%9B%85%E6%AC%A3%E7%88%AD%E5%86%A0",
+    "timestamp": "2026-06-20T08:29:03.029Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "出國旅遊多日要換酒店？網多數認為麻煩　內行曝連住同間更慳錢",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260203/1095430767657357312589024.jpeg/6Lfbs_GJFSWeNY-pPuuBvUOQ9w7NM-hjng_TIp4P0yI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60361969/%E9%99%B3%E5%A5%95%E8%BF%85%E6%96%A51-8%E5%84%84-%E5%A2%9E%E6%8C%81-shouson-peak%E6%B4%8B%E6%88%BF-%E9%9D%A2%E7%A9%8D2808%E5%91%8E-%E5%91%8E%E5%83%B96-5%E8%90%AC",
     "timestamp": "2026-06-19T05:55:52.022Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美伊協議：內塔尼亞胡不僅淪為美國的棄卒　更將成以色列的棄子？",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250205/963879455359504384164925.jpeg/iHBRyPAqm-OQ0IfYr9I9DOY0YQUKiJkzL9wwPi_cMD4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%9C%8B%E9%9A%9B%E5%88%86%E6%9E%90/60361824/%E7%BE%8E%E4%BC%8A%E5%8D%94%E8%AD%B0-%E5%85%A7%E5%A1%94%E5%B0%BC%E4%BA%9E%E8%83%A1%E4%B8%8D%E5%83%85%E6%B7%AA%E7%82%BA%E7%BE%8E%E5%9C%8B%E7%9A%84%E6%A3%84%E5%8D%92-%E6%9B%B4%E5%B0%87%E6%88%90%E4%BB%A5%E8%89%B2%E5%88%97%E7%9A%84%E6%A3%84%E5%AD%90",
-    "timestamp": "2026-06-19T02:33:23.305Z",
     "strategy": ".content-card__main"
   }
 ];
