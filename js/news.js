@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-20T12:59:50.530Z
+// Last updated: 2026-06-20T13:43:03.845Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "全是美女！命理師揭最易被男人騙3面相　眼大而圓「好傻好天真」",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260616/1143574928105148416035761.jpeg/fZSq33kWWZdX5VJr5HLspjk29GHM-mgalnPjapZz42o?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60277144/%E5%85%A8%E6%98%AF%E7%BE%8E%E5%A5%B3-%E5%91%BD%E7%90%86%E5%B8%AB%E6%8F%AD%E6%9C%80%E6%98%93%E8%A2%AB%E7%94%B7%E4%BA%BA%E9%A8%993%E9%9D%A2%E7%9B%B8-%E7%9C%BC%E5%A4%A7%E8%80%8C%E5%9C%93-%E5%A5%BD%E5%82%BB%E5%A5%BD%E5%A4%A9%E7%9C%9F",
+    "timestamp": "2026-06-20T13:43:03.845Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "世界盃｜伊朗足協稱要向FIFA投訴美國",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260619/1144736850708008960265830.png/73PeZOY8YATbBKl5XMMUycsh74eczGRbHim4lB4puJQ",
     "url": "https://www.hk01.com/%E5%8C%97%E4%B8%8A%E5%BB%A3%E6%9D%B1/60362073/%E6%9C%89%E7%89%87-%E8%BB%8Acam%E6%8B%8D%E4%B8%8B%E9%A9%9A%E6%82%9A%E4%B8%80%E5%88%BB-%E7%8F%A0%E6%B5%B7%E8%BB%8A%E8%BC%9B%E5%B7%AE%E4%B8%80%E7%A7%92%E9%81%AD%E9%96%83%E9%9B%BB%E9%9B%86%E4%B8%AD%E7%9E%AC%E9%96%93%E7%86%84%E7%81%AB",
     "timestamp": "2026-06-19T13:01:44.082Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "Grade10 Fest Summer 2026直擊｜大量稀有卡現場睇﹑拎免費卡包",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260619/1144720647620923392962843.jpeg/_tLLe7r_UmpPYte_Z3Ls5uS5HR_6bhL82pSartqUmq4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60361698/grade10-fest-summer-2026%E7%9B%B4%E6%93%8A-%E5%A4%A7%E9%87%8F%E7%A8%80%E6%9C%89%E5%8D%A1%E7%8F%BE%E5%A0%B4%E7%9D%87-%E6%8B%8E%E5%85%8D%E8%B2%BB%E5%8D%A1%E5%8C%85",
-    "timestamp": "2026-06-19T11:42:21.694Z",
     "strategy": ".content-card__main"
   }
 ];
