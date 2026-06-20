@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-19T23:43:46.265Z
+// Last updated: 2026-06-20T00:14:56.462Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "張頴康離巢近況曝光　跟太太麥雅緻轉戰內地變「帶貨助手」",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260619/1144697769219330048508613.jpeg/pj9otKSRcMVVa51QnbJ7qdot289vTVaUlaOocJWjqHA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60360964/%E5%BC%B5%E9%A0%B4%E5%BA%B7%E9%9B%A2%E5%B7%A2%E8%BF%91%E6%B3%81%E6%9B%9D%E5%85%89-%E8%B7%9F%E5%A4%AA%E5%A4%AA%E9%BA%A5%E9%9B%85%E7%B7%BB%E8%BD%89%E6%88%B0%E5%85%A7%E5%9C%B0%E8%AE%8A-%E5%B8%B6%E8%B2%A8%E5%8A%A9%E6%89%8B",
+    "timestamp": "2026-06-20T00:14:56.462Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "特朗普為新空軍一號揭幕　稱今年稍後將再出訪中國｜有片",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260619/1144461580612669440467198.jpeg/JmagDTlKbwalj_vmyTDi60zPeKV2P4xVVAk6vFQJOrw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60361899/%E5%B1%8D%E6%AE%BA%E7%A6%81%E5%8D%80-%E5%85%A8%E6%99%BA%E8%B3%A2%E7%AA%81%E7%99%BC6-29%E4%BE%86%E6%B8%AF%E8%AC%9D%E7%A5%A8-%E9%96%80%E7%A5%A8%E4%B8%AD%E5%8D%88%E9%96%8B%E5%94%AE%E6%B8%AF%E7%A5%A8%E6%88%BF%E7%A0%B41500%E8%90%AC",
     "timestamp": "2026-06-18T23:14:16.403Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "穆傑塔巴：對美伊備忘錄持不同意見　獲總統承諾維護利益後批准",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260606/1139768973538103296601237.jpeg/Vic223ihRx2sovBoYb8WV4XgvCC2VauRSi3bxEot28Q?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60361903/%E7%A9%86%E5%82%91%E5%A1%94%E5%B7%B4-%E5%B0%8D%E7%BE%8E%E4%BC%8A%E5%82%99%E5%BF%98%E9%8C%84%E6%8C%81%E4%B8%8D%E5%90%8C%E6%84%8F%E8%A6%8B-%E7%8D%B2%E7%B8%BD%E7%B5%B1%E6%89%BF%E8%AB%BE%E7%B6%AD%E8%AD%B7%E5%88%A9%E7%9B%8A%E5%BE%8C%E6%89%B9%E5%87%86",
-    "timestamp": "2026-06-18T22:22:49.977Z",
     "strategy": ".content-card__main"
   }
 ];
