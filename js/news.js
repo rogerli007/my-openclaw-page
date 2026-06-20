@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-20T15:27:59.125Z
+// Last updated: 2026-06-20T16:05:55.758Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "遊日注意！日本7.1起收3倍離境稅　這個日子前出票畀舊價",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260619/1144788959973347328174530.jpeg/qbAuloHjOz-1I4rjsbb3nKvYGTO136RV0MpngtDKZ4I?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60362276/%E9%81%8A%E6%97%A5%E6%B3%A8%E6%84%8F-%E6%97%A5%E6%9C%AC7-1%E8%B5%B7%E6%94%B63%E5%80%8D%E9%9B%A2%E5%A2%83%E7%A8%85-%E9%80%99%E5%80%8B%E6%97%A5%E5%AD%90%E5%89%8D%E5%87%BA%E7%A5%A8%E7%95%80%E8%88%8A%E5%83%B9",
+    "timestamp": "2026-06-20T16:05:55.758Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "精準扶貧不精準？政府首揭關愛隊探訪有年齡劃分　狄志遠指有漏洞",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260620/1144820813615075328235468.jpeg/LFbY2RaBP8Wnpsihu6WY5vwDGjl655ihsVrVLbFa1S0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60362106/%E4%B8%96%E7%95%8C%E7%9B%83-%E8%AD%A6%E9%8A%85%E9%91%BC%E7%81%A3%E6%89%93%E6%93%8A%E9%86%89%E9%A7%95-%E9%86%89%E5%8F%B8%E6%A9%9F%E8%BC%89%E4%BD%99%E5%BE%B7%E4%B8%9E%E9%81%87%E6%9F%A5-%E5%90%B9%E7%88%86%E6%B3%A2-%E8%A2%AB%E6%8D%95",
     "timestamp": "2026-06-19T18:14:42.974Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "遊日注意！日本7月上調外國人簽證費5倍　單次730元　多次1460元",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20251018/1056252160997593088081257.jpeg/P4BCNHx_w5nNMN0WjUxjVpg1figmYTSBsGjGErBoxhI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60362101/%E9%81%8A%E6%97%A5%E6%B3%A8%E6%84%8F-%E6%97%A5%E6%9C%AC7%E6%9C%88%E4%B8%8A%E8%AA%BF%E5%A4%96%E5%9C%8B%E4%BA%BA%E7%B0%BD%E8%AD%89%E8%B2%BB5%E5%80%8D-%E5%96%AE%E6%AC%A1730%E5%85%83-%E5%A4%9A%E6%AC%A11460%E5%85%83",
-    "timestamp": "2026-06-19T16:28:19.383Z",
     "strategy": ".content-card__main"
   }
 ];
