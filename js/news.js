@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-20T13:43:03.845Z
+// Last updated: 2026-06-20T14:36:44.576Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "厄瓜多爾對庫拉索2026世界盃｜國家足球隊球員名單+直播時間",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260616/1143517458322165760576184.jpeg/fAk7e2-4GTGW-dMHhaPDzuzxNYvatACv0Jv549Cb-eM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60360720/%E5%8E%84%E7%93%9C%E5%A4%9A%E7%88%BE%E5%B0%8D%E5%BA%AB%E6%8B%89%E7%B4%A22026%E4%B8%96%E7%95%8C%E7%9B%83-%E5%9C%8B%E5%AE%B6%E8%B6%B3%E7%90%83%E9%9A%8A%E7%90%83%E5%93%A1%E5%90%8D%E5%96%AE-%E7%9B%B4%E6%92%AD%E6%99%82%E9%96%93",
+    "timestamp": "2026-06-20T14:36:44.576Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "全是美女！命理師揭最易被男人騙3面相　眼大而圓「好傻好天真」",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260619/1144762586911215616245716.png/JKFSbqykDSpT5sgxgEFtLG_81MBlAB7hMjvdLTI73S0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60362088/%E4%B8%96%E7%95%8C%E7%9B%832026-%E4%BD%9B%E5%BE%97%E8%A7%92%E9%96%80%E5%B0%87%E7%A6%BE%E4%BB%99%E5%A4%8F%E5%8F%97%E8%A8%AA-%E8%AB%87%E4%B8%80%E5%A4%9C%E6%88%90%E5%90%8D-%E6%B8%9B%E5%B0%91%E7%94%A8%E7%A4%BE%E4%BA%A4%E5%AA%92%E9%AB%94",
     "timestamp": "2026-06-19T14:15:15.911Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "有片︱車CAM拍下驚悚一刻！珠海車輛差一秒遭閃電集中瞬間熄火",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260619/1144736850708008960265830.png/73PeZOY8YATbBKl5XMMUycsh74eczGRbHim4lB4puJQ",
-    "url": "https://www.hk01.com/%E5%8C%97%E4%B8%8A%E5%BB%A3%E6%9D%B1/60362073/%E6%9C%89%E7%89%87-%E8%BB%8Acam%E6%8B%8D%E4%B8%8B%E9%A9%9A%E6%82%9A%E4%B8%80%E5%88%BB-%E7%8F%A0%E6%B5%B7%E8%BB%8A%E8%BC%9B%E5%B7%AE%E4%B8%80%E7%A7%92%E9%81%AD%E9%96%83%E9%9B%BB%E9%9B%86%E4%B8%AD%E7%9E%AC%E9%96%93%E7%86%84%E7%81%AB",
-    "timestamp": "2026-06-19T13:01:44.082Z",
     "strategy": ".content-card__main"
   }
 ];
