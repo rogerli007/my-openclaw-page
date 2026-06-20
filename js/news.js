@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-20T02:28:40.685Z
+// Last updated: 2026-06-20T03:52:33.952Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "警方衝鋒隊旺角截查可疑平台　檢懷疑仿製槍械拉男司機",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260620/1144965361964158976963582.jpeg/eOvoG1a1I5GPViA0k-RxEQAvezxwuafItXDlFbVw5RU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60362144/%E8%AD%A6%E6%96%B9%E8%A1%9D%E9%8B%92%E9%9A%8A%E6%97%BA%E8%A7%92%E6%88%AA%E6%9F%A5%E5%8F%AF%E7%96%91%E5%B9%B3%E5%8F%B0-%E6%AA%A2%E6%87%B7%E7%96%91%E4%BB%BF%E8%A3%BD%E6%A7%8D%E6%A2%B0%E6%8B%89%E7%94%B7%E5%8F%B8%E6%A9%9F",
+    "timestamp": "2026-06-20T03:52:33.952Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "世界盃｜馬寧、傅明、周飛3中國裁判將同場執法　國足迎歷史時刻",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260430/1126469872050769920485327.jpeg/SHgg_w-gO5RSl3AAbxuJUrg4xmJfvIh1r5xsBK-cbAQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60361921/%E5%AE%8F%E7%A6%8F%E8%8B%91-%E6%9D%8E%E5%AE%B6%E8%B6%85%E6%8C%87%E8%BF%BD%E8%B2%AC%E6%8C%89%E4%BA%8B%E5%AF%A6%E5%8F%8A%E9%8C%AF%E5%A4%B1%E5%9A%B4%E9%87%8D%E5%BA%A6-%E7%B5%95%E5%B0%8D%E6%9C%83%E8%80%83%E6%85%AE%E5%9C%8D%E6%A8%99%E5%88%91%E4%BA%8B%E5%8C%96",
     "timestamp": "2026-06-19T01:22:29.169Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美參議員批美伊協議「丟人現眼」：數十年來最嚴重外交政策失誤",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260619/1144539215837532160653729.jpeg/81WpUTh16jCDb6Fd82oxzb4lYGmsvfzxsgi8BrIIvAY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60361906/%E7%BE%8E%E5%8F%83%E8%AD%B0%E5%93%A1%E6%89%B9%E7%BE%8E%E4%BC%8A%E5%8D%94%E8%AD%B0-%E4%B8%9F%E4%BA%BA%E7%8F%BE%E7%9C%BC-%E6%95%B8%E5%8D%81%E5%B9%B4%E4%BE%86%E6%9C%80%E5%9A%B4%E9%87%8D%E5%A4%96%E4%BA%A4%E6%94%BF%E7%AD%96%E5%A4%B1%E8%AA%A4",
-    "timestamp": "2026-06-18T23:58:24.156Z",
     "strategy": ".content-card__main"
   }
 ];
