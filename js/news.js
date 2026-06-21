@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-21T14:37:31.556Z
+// Last updated: 2026-06-21T15:30:22.187Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "馬國明聽《單車》憶亡父　嘆過往忽略父親節：佢出去搵錢好辛苦",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260621/1145500659638865920437869.jpeg/OJ28RhkbL0fGEKZbputQUOoDMfFzl7fsHVduVx1Xblc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60362468/%E9%A6%AC%E5%9C%8B%E6%98%8E%E8%81%BD-%E5%96%AE%E8%BB%8A-%E6%86%B6%E4%BA%A1%E7%88%B6-%E5%98%86%E9%81%8E%E5%BE%80%E5%BF%BD%E7%95%A5%E7%88%B6%E8%A6%AA%E7%AF%80-%E4%BD%A2%E5%87%BA%E5%8E%BB%E6%90%B5%E9%8C%A2%E5%A5%BD%E8%BE%9B%E8%8B%A6",
+    "timestamp": "2026-06-21T15:30:22.187Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "田曦薇憑《逐玉》奪下全球OTT人氣獎　綠色仙女裙造型甜美又性感",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260619/1144640163167866880352974.jpeg/qYDeX1DFWJBYhcR5viVSYMCQgzwxtUu9INhIQiDYSEI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60362245/%E7%B2%BE%E6%BA%96%E6%89%B6%E8%B2%A7%E4%B8%8D%E7%B2%BE%E6%BA%96-%E6%94%BF%E5%BA%9C%E9%A6%96%E6%8F%AD%E9%97%9C%E6%84%9B%E9%9A%8A%E6%8E%A2%E8%A8%AA%E6%9C%89%E5%B9%B4%E9%BD%A1%E5%8A%83%E5%88%86-%E7%8B%84%E5%BF%97%E9%81%A0%E6%8C%87%E6%9C%89%E6%BC%8F%E6%B4%9E",
     "timestamp": "2026-06-20T15:27:59.125Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "厄瓜多爾對庫拉索2026世界盃｜國家足球隊球員名單+直播時間",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260616/1143517458322165760576184.jpeg/fAk7e2-4GTGW-dMHhaPDzuzxNYvatACv0Jv549Cb-eM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60360720/%E5%8E%84%E7%93%9C%E5%A4%9A%E7%88%BE%E5%B0%8D%E5%BA%AB%E6%8B%89%E7%B4%A22026%E4%B8%96%E7%95%8C%E7%9B%83-%E5%9C%8B%E5%AE%B6%E8%B6%B3%E7%90%83%E9%9A%8A%E7%90%83%E5%93%A1%E5%90%8D%E5%96%AE-%E7%9B%B4%E6%92%AD%E6%99%82%E9%96%93",
-    "timestamp": "2026-06-20T14:36:44.576Z",
     "strategy": ".content-card__main"
   }
 ];
