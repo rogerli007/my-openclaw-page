@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-21T04:19:09.931Z
+// Last updated: 2026-06-21T06:07:20.845Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "土瓜灣譚公大廈女子暈倒　母親揭發惜太遲",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20210317/448993700668772352958026.jpeg/D5ZAbQCSpkuupZjip6etSLDESy9Ny6iGZg_AOGYPwDg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60362359/%E5%9C%9F%E7%93%9C%E7%81%A3%E8%AD%9A%E5%85%AC%E5%A4%A7%E5%BB%88%E5%A5%B3%E5%AD%90%E6%9A%88%E5%80%92-%E6%AF%8D%E8%A6%AA%E6%8F%AD%E7%99%BC%E6%83%9C%E5%A4%AA%E9%81%B2",
+    "timestamp": "2026-06-21T06:07:20.845Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "烏達夫後備起孖救德國　大齡國腳由丁組掙扎變救星︱世界盃人物誌",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260618/1144337284636610560297580.jpeg/i77O8kmpTxsH5s4BhnrLjff7NMPCkh1IKd_n3ynf598?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%97%85%E9%81%8A/60350220/%E5%87%BA%E5%9C%8B%E6%97%85%E9%81%8A%E5%A4%9A%E6%97%A5%E8%A6%81%E6%8F%9B%E9%85%92%E5%BA%97-%E7%B6%B2%E5%A4%9A%E6%95%B8%E8%AA%8D%E7%82%BA%E9%BA%BB%E7%85%A9-%E5%85%A7%E8%A1%8C%E6%9B%9D%E9%80%A3%E4%BD%8F%E5%90%8C%E9%96%93%E6%9B%B4%E6%85%B3%E9%8C%A2",
     "timestamp": "2026-06-20T07:10:43.833Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "警方衝鋒隊旺角截查可疑平台　檢懷疑仿製槍械拉男司機",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260620/1144965361964158976963582.jpeg/eOvoG1a1I5GPViA0k-RxEQAvezxwuafItXDlFbVw5RU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60362144/%E8%AD%A6%E6%96%B9%E8%A1%9D%E9%8B%92%E9%9A%8A%E6%97%BA%E8%A7%92%E6%88%AA%E6%9F%A5%E5%8F%AF%E7%96%91%E5%B9%B3%E5%8F%B0-%E6%AA%A2%E6%87%B7%E7%96%91%E4%BB%BF%E8%A3%BD%E6%A7%8D%E6%A2%B0%E6%8B%89%E7%94%B7%E5%8F%B8%E6%A9%9F",
-    "timestamp": "2026-06-20T03:52:33.952Z",
     "strategy": ".content-card__main"
   }
 ];
