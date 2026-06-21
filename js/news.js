@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-21T16:57:26.713Z
+// Last updated: 2026-06-21T17:41:27.621Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "伊媒：若黎巴嫩戰事無法結束　美伊間其他議題談判將不會進行",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260620/1144826489410162688649537.jpeg/4CqJ88hJ94VZvg5R29xcDN_Ng_Mp7InSSRP60kkT-tI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60362479/%E4%BC%8A%E5%AA%92-%E8%8B%A5%E9%BB%8E%E5%B7%B4%E5%AB%A9%E6%88%B0%E4%BA%8B%E7%84%A1%E6%B3%95%E7%B5%90%E6%9D%9F-%E7%BE%8E%E4%BC%8A%E9%96%93%E5%85%B6%E4%BB%96%E8%AD%B0%E9%A1%8C%E8%AB%87%E5%88%A4%E5%B0%87%E4%B8%8D%E6%9C%83%E9%80%B2%E8%A1%8C",
+    "timestamp": "2026-06-21T17:41:27.621Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "比利時世界盃2026｜國家隊球員名單陣容+足球排名+最新賽程時間",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260621/1145191428075294720624983.jpeg/INNQ7vfdYoG9p59Y-dKVQiMJCFE6lQxA_Gbxzvxm8c4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60362287/%E4%B8%96%E7%95%8C%E7%9B%832026-%E8%8D%B7%E8%98%AD5-1%E7%82%92%E7%91%9E%E5%85%B8-%E5%8A%A0%E6%99%AE%E8%88%87%E6%B3%A2%E8%B2%9D%E6%AF%94%E9%BD%8A%E9%BD%8A%E8%B5%B7%E5%AD%96%E5%A4%A7%E5%8B%9D%E4%B8%80%E5%A0%B4",
     "timestamp": "2026-06-20T20:17:26.674Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "德國對科特迪瓦2026世界盃｜國家足球隊球員名單出爐+直播時間",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260615/1143263347727142912397018.jpeg/KI7HfK08Uies3b9-Bt-pzvCz0XiXdFu3kev5spHr-bI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60360569/%E5%BE%B7%E5%9C%8B%E5%B0%8D%E7%A7%91%E7%89%B9%E8%BF%AA%E7%93%A62026%E4%B8%96%E7%95%8C%E7%9B%83-%E5%9C%8B%E5%AE%B6%E8%B6%B3%E7%90%83%E9%9A%8A%E7%90%83%E5%93%A1%E5%90%8D%E5%96%AE%E5%87%BA%E7%88%90-%E7%9B%B4%E6%92%AD%E6%99%82%E9%96%93",
-    "timestamp": "2026-06-20T18:52:32.288Z",
     "strategy": ".content-card__main"
   }
 ];
