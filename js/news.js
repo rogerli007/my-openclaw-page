@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-21T13:43:44.752Z
+// Last updated: 2026-06-21T14:37:31.556Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "田曦薇憑《逐玉》奪下全球OTT人氣獎　綠色仙女裙造型甜美又性感",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260621/1145431411214258176037561.png/k1bh8-Z3_q3F1WkhN7uweSyPQ3FCeqZkMgUrmTIFK5k?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60362434/%E7%94%B0%E6%9B%A6%E8%96%87%E6%86%91-%E9%80%90%E7%8E%89-%E5%A5%AA%E4%B8%8B%E5%85%A8%E7%90%83ott%E4%BA%BA%E6%B0%A3%E7%8D%8E-%E7%B6%A0%E8%89%B2%E4%BB%99%E5%A5%B3%E8%A3%99%E9%80%A0%E5%9E%8B%E7%94%9C%E7%BE%8E%E5%8F%88%E6%80%A7%E6%84%9F",
+    "timestamp": "2026-06-21T14:37:31.556Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "TWICE Sana造型被韓網抨擊似「底褲外露走光」　本人親自解釋真相",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260616/1143517458322165760576184.jpeg/fAk7e2-4GTGW-dMHhaPDzuzxNYvatACv0Jv549Cb-eM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60360720/%E5%8E%84%E7%93%9C%E5%A4%9A%E7%88%BE%E5%B0%8D%E5%BA%AB%E6%8B%89%E7%B4%A22026%E4%B8%96%E7%95%8C%E7%9B%83-%E5%9C%8B%E5%AE%B6%E8%B6%B3%E7%90%83%E9%9A%8A%E7%90%83%E5%93%A1%E5%90%8D%E5%96%AE-%E7%9B%B4%E6%92%AD%E6%99%82%E9%96%93",
     "timestamp": "2026-06-20T14:36:44.576Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "全是美女！命理師揭最易被男人騙3面相　眼大而圓「好傻好天真」",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260616/1143574928105148416035761.jpeg/fZSq33kWWZdX5VJr5HLspjk29GHM-mgalnPjapZz42o?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60277144/%E5%85%A8%E6%98%AF%E7%BE%8E%E5%A5%B3-%E5%91%BD%E7%90%86%E5%B8%AB%E6%8F%AD%E6%9C%80%E6%98%93%E8%A2%AB%E7%94%B7%E4%BA%BA%E9%A8%993%E9%9D%A2%E7%9B%B8-%E7%9C%BC%E5%A4%A7%E8%80%8C%E5%9C%93-%E5%A5%BD%E5%82%BB%E5%A5%BD%E5%A4%A9%E7%9C%9F",
-    "timestamp": "2026-06-20T13:43:03.845Z",
     "strategy": ".content-card__main"
   }
 ];
