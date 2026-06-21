@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-21T01:43:12.154Z
+// Last updated: 2026-06-21T04:19:09.931Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "烏達夫後備起孖救德國　大齡國腳由丁組掙扎變救星︱世界盃人物誌",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260621/1145290465482903552294301.jpeg/5wIVIp2-hN-EHpSB2WYfmG_Qb6cSaVzVAYJCqQGCQqk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60362305/%E7%83%8F%E9%81%94%E5%A4%AB%E5%BE%8C%E5%82%99%E8%B5%B7%E5%AD%96%E6%95%91%E5%BE%B7%E5%9C%8B-%E5%A4%A7%E9%BD%A1%E5%9C%8B%E8%85%B3%E7%94%B1%E4%B8%81%E7%B5%84%E6%8E%99%E6%89%8E%E8%AE%8A%E6%95%91%E6%98%9F-%E4%B8%96%E7%95%8C%E7%9B%83%E4%BA%BA%E7%89%A9%E8%AA%8C",
+    "timestamp": "2026-06-21T04:19:09.931Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "厄瓜多爾對庫拉索2026世界盃｜國家足球隊球員名單出爐+直播時間",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260620/1144965361964158976963582.jpeg/eOvoG1a1I5GPViA0k-RxEQAvezxwuafItXDlFbVw5RU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60362144/%E8%AD%A6%E6%96%B9%E8%A1%9D%E9%8B%92%E9%9A%8A%E6%97%BA%E8%A7%92%E6%88%AA%E6%9F%A5%E5%8F%AF%E7%96%91%E5%B9%B3%E5%8F%B0-%E6%AA%A2%E6%87%B7%E7%96%91%E4%BB%BF%E8%A3%BD%E6%A7%8D%E6%A2%B0%E6%8B%89%E7%94%B7%E5%8F%B8%E6%A9%9F",
     "timestamp": "2026-06-20T03:52:33.952Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "世界盃｜馬寧、傅明、周飛3中國裁判將同場執法　國足迎歷史時刻",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260620/1144936113492725760602317.jpeg/PEUoFDipJSoUnlUPs7Q9JV2QPD9Be51ggmjjLIJo4yw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60362129/%E4%B8%96%E7%95%8C%E7%9B%83-%E9%A6%AC%E5%AF%A7-%E5%82%85%E6%98%8E-%E5%91%A8%E9%A3%9B3%E4%B8%AD%E5%9C%8B%E8%A3%81%E5%88%A4%E5%B0%87%E5%90%8C%E5%A0%B4%E5%9F%B7%E6%B3%95-%E5%9C%8B%E8%B6%B3%E8%BF%8E%E6%AD%B7%E5%8F%B2%E6%99%82%E5%88%BB",
-    "timestamp": "2026-06-20T02:28:40.685Z",
     "strategy": ".content-card__main"
   }
 ];
