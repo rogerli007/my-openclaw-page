@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-20T23:47:44.995Z
+// Last updated: 2026-06-21T00:18:18.758Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "貨櫃車撞歪交通燈！紅綠燈秒逆轉　私家車被迫「衝燈」影片瘋傳",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260619/1144489984833622016283165.png/C5QPeENUFFOkMdgnZxfHO3V0L8RYON1uCWN0HQljdB0",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60361877/%E8%B2%A8%E6%AB%83%E8%BB%8A%E6%92%9E%E6%AD%AA%E4%BA%A4%E9%80%9A%E7%87%88-%E7%B4%85%E7%B6%A0%E7%87%88%E7%A7%92%E9%80%86%E8%BD%89-%E7%A7%81%E5%AE%B6%E8%BB%8A%E8%A2%AB%E8%BF%AB-%E8%A1%9D%E7%87%88-%E5%BD%B1%E7%89%87%E7%98%8B%E5%82%B3",
+    "timestamp": "2026-06-21T00:18:18.758Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "萬斯啟程前往瑞士　伊朗議長率團抵蘇黎世　料周日舉行會談",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260619/1144697769219330048508613.jpeg/pj9otKSRcMVVa51QnbJ7qdot289vTVaUlaOocJWjqHA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60360964/%E5%BC%B5%E9%A0%B4%E5%BA%B7%E9%9B%A2%E5%B7%A2%E8%BF%91%E6%B3%81%E6%9B%9D%E5%85%89-%E8%B7%9F%E5%A4%AA%E5%A4%AA%E9%BA%A5%E9%9B%85%E7%B7%BB%E8%BD%89%E6%88%B0%E5%85%A7%E5%9C%B0%E8%AE%8A-%E5%B8%B6%E8%B2%A8%E5%8A%A9%E6%89%8B",
     "timestamp": "2026-06-20T00:14:56.462Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普為新空軍一號揭幕　稱今年稍後將再出訪中國｜有片",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260620/1144901487873232896209176.jpeg/IG7nQnN1ygtnhLGDAsHaIx1_Mg7G1QaopiV6sqYlerI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60362118/%E7%89%B9%E6%9C%97%E6%99%AE%E7%82%BA%E6%96%B0%E7%A9%BA%E8%BB%8D%E4%B8%80%E8%99%9F%E6%8F%AD%E5%B9%95-%E7%A8%B1%E4%BB%8A%E5%B9%B4%E7%A8%8D%E5%BE%8C%E5%B0%87%E5%86%8D%E5%87%BA%E8%A8%AA%E4%B8%AD%E5%9C%8B-%E6%9C%89%E7%89%87",
-    "timestamp": "2026-06-19T23:43:46.265Z",
     "strategy": ".content-card__main"
   }
 ];
