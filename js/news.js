@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-21T00:18:18.758Z
+// Last updated: 2026-06-21T01:43:12.154Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "厄瓜多爾對庫拉索2026世界盃｜國家足球隊球員名單出爐+直播時間",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260616/1143517458322165760576184.jpeg/fAk7e2-4GTGW-dMHhaPDzuzxNYvatACv0Jv549Cb-eM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60360720/%E5%8E%84%E7%93%9C%E5%A4%9A%E7%88%BE%E5%B0%8D%E5%BA%AB%E6%8B%89%E7%B4%A22026%E4%B8%96%E7%95%8C%E7%9B%83-%E5%9C%8B%E5%AE%B6%E8%B6%B3%E7%90%83%E9%9A%8A%E7%90%83%E5%93%A1%E5%90%8D%E5%96%AE%E5%87%BA%E7%88%90-%E7%9B%B4%E6%92%AD%E6%99%82%E9%96%93",
+    "timestamp": "2026-06-21T01:43:12.154Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "貨櫃車撞歪交通燈！紅綠燈秒逆轉　私家車被迫「衝燈」影片瘋傳",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260620/1144936113492725760602317.jpeg/PEUoFDipJSoUnlUPs7Q9JV2QPD9Be51ggmjjLIJo4yw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60362129/%E4%B8%96%E7%95%8C%E7%9B%83-%E9%A6%AC%E5%AF%A7-%E5%82%85%E6%98%8E-%E5%91%A8%E9%A3%9B3%E4%B8%AD%E5%9C%8B%E8%A3%81%E5%88%A4%E5%B0%87%E5%90%8C%E5%A0%B4%E5%9F%B7%E6%B3%95-%E5%9C%8B%E8%B6%B3%E8%BF%8E%E6%AD%B7%E5%8F%B2%E6%99%82%E5%88%BB",
     "timestamp": "2026-06-20T02:28:40.685Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "張頴康離巢近況曝光　跟太太麥雅緻轉戰內地變「帶貨助手」",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260619/1144697769219330048508613.jpeg/pj9otKSRcMVVa51QnbJ7qdot289vTVaUlaOocJWjqHA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60360964/%E5%BC%B5%E9%A0%B4%E5%BA%B7%E9%9B%A2%E5%B7%A2%E8%BF%91%E6%B3%81%E6%9B%9D%E5%85%89-%E8%B7%9F%E5%A4%AA%E5%A4%AA%E9%BA%A5%E9%9B%85%E7%B7%BB%E8%BD%89%E6%88%B0%E5%85%A7%E5%9C%B0%E8%AE%8A-%E5%B8%B6%E8%B2%A8%E5%8A%A9%E6%89%8B",
-    "timestamp": "2026-06-20T00:14:56.462Z",
     "strategy": ".content-card__main"
   }
 ];
