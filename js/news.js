@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-21T18:56:49.722Z
+// Last updated: 2026-06-21T19:41:05.450Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "世界盃2026｜西班牙4:0大勝沙特阿拉伯　奧耶沙巴爾梅開二度",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260622/1145553289056620544132497.jpeg/WaHf7aAAlrGj7NXD3Cx-fWWTr5qhn4EEZLJTk2SyU5M?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60362484/%E4%B8%96%E7%95%8C%E7%9B%832026-%E8%A5%BF%E7%8F%AD%E7%89%994-0%E5%A4%A7%E5%8B%9D%E6%B2%99%E7%89%B9%E9%98%BF%E6%8B%89%E4%BC%AF-%E5%A5%A7%E8%80%B6%E6%B2%99%E5%B7%B4%E7%88%BE%E6%A2%85%E9%96%8B%E4%BA%8C%E5%BA%A6",
+    "timestamp": "2026-06-21T19:41:05.450Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "世界盃2026｜西班牙4:0大勝沙特阿拉伯　奧耶沙巴爾梅開二度",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260621/1145251906025689088438075.jpeg/BzxTOcRZTacYMZgPcgQomhl0O7BtVB3rDLzXvAy817w?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%92%B0%E7%90%83%E8%B6%A3%E8%81%9E/60362296/%E4%B8%96%E7%95%8C%E7%9B%83-%E5%8F%AF%E6%84%9B%E9%B4%A8%E4%BB%94%E6%A2%85%E6%9E%97%E7%9D%80%E5%A2%A8%E8%A5%BF%E5%93%A5%E6%B3%A2%E8%A1%AB%E7%88%86%E7%B4%85-%E7%8D%B2fifa%E4%BB%BB%E5%BD%A2%E8%B1%A1%E5%A4%A7%E4%BD%BF-%E6%9C%89%E7%89%87",
     "timestamp": "2026-06-20T22:47:15.546Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "世界盃2026｜德國2:1反勝科特迪瓦　烏達夫補時入波成關鍵先生",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260621/1145240896053186560845269.jpeg/an_kO5L0wxuy54NnLzjO441zC1HXf40q1AGayNQBmsg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60362294/%E4%B8%96%E7%95%8C%E7%9B%832026-%E5%BE%B7%E5%9C%8B2-1%E5%8F%8D%E5%8B%9D%E7%A7%91%E7%89%B9%E8%BF%AA%E7%93%A6-%E7%83%8F%E9%81%94%E5%A4%AB%E8%A3%9C%E6%99%82%E5%85%A5%E6%B3%A2%E6%88%90%E9%97%9C%E9%8D%B5%E5%85%88%E7%94%9F",
-    "timestamp": "2026-06-20T22:15:00.516Z",
     "strategy": ".content-card__main"
   }
 ];
