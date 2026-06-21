@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-21T20:21:20.745Z
+// Last updated: 2026-06-21T21:41:21.639Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "世界盃2026｜比利時0:0戰平伊朗　兩隊兩戰皆和積兩分",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260622/1145593451169976320316540.jpeg/2N5jtvxNb1SPluliHqW2GozEsOGASOy_CUI60QlCOtE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60362492/%E4%B8%96%E7%95%8C%E7%9B%832026-%E6%AF%94%E5%88%A9%E6%99%820-0%E6%88%B0%E5%B9%B3%E4%BC%8A%E6%9C%97-%E5%85%A9%E9%9A%8A%E5%85%A9%E6%88%B0%E7%9A%86%E5%92%8C%E7%A9%8D%E5%85%A9%E5%88%86",
+    "timestamp": "2026-06-21T21:41:21.639Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "Save Lily│父斥當局忽視《兒童權利公約》不尊重Danny食人奶意願",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260621/1145262057336082432109724.jpeg/T70QAwIJYOnVBswUCSrehA0Fm-BZFU9R6sjW_-rI1v8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60362299/%E8%90%AC%E6%96%AF%E5%95%9F%E7%A8%8B%E5%89%8D%E5%BE%80%E7%91%9E%E5%A3%AB-%E4%BC%8A%E6%9C%97%E8%AD%B0%E9%95%B7%E7%8E%87%E5%9C%98%E6%8A%B5%E8%98%87%E9%BB%8E%E4%B8%96-%E6%96%99%E5%91%A8%E6%97%A5%E8%88%89%E8%A1%8C%E6%9C%83%E8%AB%87",
     "timestamp": "2026-06-20T23:47:44.995Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "父親節警世文｜父勸女兒「不要嫁有錢人」原因催淚　網民：好爸爸",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20210619/482944886069268480104586.jpeg/nGummjap2zNaPmImznxHT9clriEb1EENYIIGcWCCBnE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60360939/%E7%88%B6%E8%A6%AA%E7%AF%80%E8%AD%A6%E4%B8%96%E6%96%87-%E7%88%B6%E5%8B%B8%E5%A5%B3%E5%85%92-%E4%B8%8D%E8%A6%81%E5%AB%81%E6%9C%89%E9%8C%A2%E4%BA%BA-%E5%8E%9F%E5%9B%A0%E5%82%AC%E6%B7%9A-%E7%B6%B2%E6%B0%91-%E5%A5%BD%E7%88%B8%E7%88%B8",
-    "timestamp": "2026-06-20T23:15:47.546Z",
     "strategy": ".content-card__main"
   }
 ];
