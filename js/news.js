@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-21T22:16:49.406Z
+// Last updated: 2026-06-21T22:47:20.637Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "哥倫比亞總統大選次輪投票　親美右翼候選人略佔優",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260622/1145614267827884032462053.jpeg/UR6QWuwhHY97pGoi7irH_1o7eQZBNhOJ6Zljh-mZY4c?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60362495/%E5%93%A5%E5%80%AB%E6%AF%94%E4%BA%9E%E7%B8%BD%E7%B5%B1%E5%A4%A7%E9%81%B8%E6%AC%A1%E8%BC%AA%E6%8A%95%E7%A5%A8-%E8%A6%AA%E7%BE%8E%E5%8F%B3%E7%BF%BC%E5%80%99%E9%81%B8%E4%BA%BA%E7%95%A5%E4%BD%94%E5%84%AA",
+    "timestamp": "2026-06-21T22:47:20.637Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "「最美亞姐」淡出娛圈52歲勁曬師奶Look　曾誤當富商小三重挫星途",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260616/1143517458322165760576184.jpeg/fAk7e2-4GTGW-dMHhaPDzuzxNYvatACv0Jv549Cb-eM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60360720/%E5%8E%84%E7%93%9C%E5%A4%9A%E7%88%BE%E5%B0%8D%E5%BA%AB%E6%8B%89%E7%B4%A22026%E4%B8%96%E7%95%8C%E7%9B%83-%E5%9C%8B%E5%AE%B6%E8%B6%B3%E7%90%83%E9%9A%8A%E7%90%83%E5%93%A1%E5%90%8D%E5%96%AE%E5%87%BA%E7%88%90-%E7%9B%B4%E6%92%AD%E6%99%82%E9%96%93",
     "timestamp": "2026-06-21T01:43:12.154Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "貨櫃車撞歪交通燈！紅綠燈秒逆轉　私家車被迫「衝燈」影片瘋傳",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260619/1144489984833622016283165.png/C5QPeENUFFOkMdgnZxfHO3V0L8RYON1uCWN0HQljdB0",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60361877/%E8%B2%A8%E6%AB%83%E8%BB%8A%E6%92%9E%E6%AD%AA%E4%BA%A4%E9%80%9A%E7%87%88-%E7%B4%85%E7%B6%A0%E7%87%88%E7%A7%92%E9%80%86%E8%BD%89-%E7%A7%81%E5%AE%B6%E8%BB%8A%E8%A2%AB%E8%BF%AB-%E8%A1%9D%E7%87%88-%E5%BD%B1%E7%89%87%E7%98%8B%E5%82%B3",
-    "timestamp": "2026-06-21T00:18:18.758Z",
     "strategy": ".content-card__main"
   }
 ];
