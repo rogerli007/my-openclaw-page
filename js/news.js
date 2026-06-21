@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-21T08:01:11.330Z
+// Last updated: 2026-06-21T10:49:08.518Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "世界盃2026｜日本獲墨西哥球迷支持　主帥森保一西班牙文致謝",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260621/1145434202334826496532178.png/tis42QzMitCjDxBkRf8mgZ7rydpluXc5Mtb3PTLW9z0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60362418/%E4%B8%96%E7%95%8C%E7%9B%832026-%E6%97%A5%E6%9C%AC%E7%8D%B2%E5%A2%A8%E8%A5%BF%E5%93%A5%E7%90%83%E8%BF%B7%E6%94%AF%E6%8C%81-%E4%B8%BB%E5%B8%A5%E6%A3%AE%E4%BF%9D%E4%B8%80%E8%A5%BF%E7%8F%AD%E7%89%99%E6%96%87%E8%87%B4%E8%AC%9D",
+    "timestamp": "2026-06-21T10:49:08.518Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "端午節返港潮｜港珠澳大橋交通珠海出境口岸極度高峰　車龍500米",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250807/1030066124215029760538209.jpeg/-DWjZPsASqwP9wbn9Hlu3PBPiQI8D13svu9_G77vfxs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60362208/%E6%B3%A2%E8%98%AD%E7%B8%BD%E7%B5%B1%E6%92%A4%E9%8A%B7%E6%BE%A4%E9%80%A3%E6%96%AF%E5%9F%BA%E7%99%BD%E9%B7%B9%E5%8B%B3%E7%AB%A0%E6%A6%AE%E8%AD%BD%E9%A0%AD%E9%8A%9C-%E7%83%8F%E5%85%8B%E8%98%AD%E5%A4%96%E9%95%B7-%E6%88%B0%E7%95%A5%E9%8C%AF%E8%AA%A4",
     "timestamp": "2026-06-20T09:45:25.748Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "羽毛球．澳門賽｜陳延澤吳芷柔闖決賽　與世二蔣振邦魏雅欣爭冠",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260620/1145034578403004416728560.jpeg/dIacG2Zbl8IwJu_Oq2Hy1Id9DBB2DF9Gf96V0H_eldA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60362179/%E7%BE%BD%E6%AF%9B%E7%90%83-%E6%BE%B3%E9%96%80%E8%B3%BD-%E9%99%B3%E5%BB%B6%E6%BE%A4%E5%90%B3%E8%8A%B7%E6%9F%94%E9%97%96%E6%B1%BA%E8%B3%BD-%E8%88%87%E4%B8%96%E4%BA%8C%E8%94%A3%E6%8C%AF%E9%82%A6%E9%AD%8F%E9%9B%85%E6%AC%A3%E7%88%AD%E5%86%A0",
-    "timestamp": "2026-06-20T08:29:03.029Z",
     "strategy": ".content-card__main"
   }
 ];
