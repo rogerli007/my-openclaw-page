@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-21T21:41:21.639Z
+// Last updated: 2026-06-21T22:16:49.406Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "「最美亞姐」淡出娛圈52歲勁曬師奶Look　曾誤當富商小三重挫星途",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260621/1145492695423127552587361.jpeg/tMlUkWBOFMEBIQF3bft8nO2y1vu7QIRAuX681bl-vNU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60362417/%E6%A5%8A%E6%81%AD%E5%A6%82%E6%B7%A1%E5%87%BA%E5%A8%9B%E5%9C%8852%E6%AD%B2%E5%8B%81%E6%9B%AC%E5%B8%AB%E5%A5%B6look-%E6%9B%BE%E8%AA%A4%E7%95%B6%E5%AF%8C%E5%95%86%E5%B0%8F%E4%B8%89%E9%87%8D%E6%8C%AB%E6%98%9F%E9%80%94",
+    "timestamp": "2026-06-21T22:16:49.406Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "世界盃2026｜比利時0:0戰平伊朗　兩隊兩戰皆和積兩分",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260619/1144489984833622016283165.png/C5QPeENUFFOkMdgnZxfHO3V0L8RYON1uCWN0HQljdB0",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60361877/%E8%B2%A8%E6%AB%83%E8%BB%8A%E6%92%9E%E6%AD%AA%E4%BA%A4%E9%80%9A%E7%87%88-%E7%B4%85%E7%B6%A0%E7%87%88%E7%A7%92%E9%80%86%E8%BD%89-%E7%A7%81%E5%AE%B6%E8%BB%8A%E8%A2%AB%E8%BF%AB-%E8%A1%9D%E7%87%88-%E5%BD%B1%E7%89%87%E7%98%8B%E5%82%B3",
     "timestamp": "2026-06-21T00:18:18.758Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "萬斯啟程前往瑞士　伊朗議長率團抵蘇黎世　料周日舉行會談",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260621/1145262057336082432109724.jpeg/T70QAwIJYOnVBswUCSrehA0Fm-BZFU9R6sjW_-rI1v8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60362299/%E8%90%AC%E6%96%AF%E5%95%9F%E7%A8%8B%E5%89%8D%E5%BE%80%E7%91%9E%E5%A3%AB-%E4%BC%8A%E6%9C%97%E8%AD%B0%E9%95%B7%E7%8E%87%E5%9C%98%E6%8A%B5%E8%98%87%E9%BB%8E%E4%B8%96-%E6%96%99%E5%91%A8%E6%97%A5%E8%88%89%E8%A1%8C%E6%9C%83%E8%AB%87",
-    "timestamp": "2026-06-20T23:47:44.995Z",
     "strategy": ".content-card__main"
   }
 ];
