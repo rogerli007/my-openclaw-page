@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-21T12:54:48.405Z
+// Last updated: 2026-06-21T13:43:44.752Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "TWICE Sana造型被韓網抨擊似「底褲外露走光」　本人親自解釋真相",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260621/1145424477488680960059761.png/VM-JVA0Ok0up-FgD0NsyWR2RxNqwtFJad-_o6Xfv6Ok?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60362424/twice-sana%E9%80%A0%E5%9E%8B%E8%A2%AB%E9%9F%93%E7%B6%B2%E6%8A%A8%E6%93%8A%E4%BC%BC-%E5%BA%95%E8%A4%B2%E5%A4%96%E9%9C%B2%E8%B5%B0%E5%85%89-%E6%9C%AC%E4%BA%BA%E8%A6%AA%E8%87%AA%E8%A7%A3%E9%87%8B%E7%9C%9F%E7%9B%B8",
+    "timestamp": "2026-06-21T13:43:44.752Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "深圳灣公路大橋車禍車CAM｜私家車撼的士車尾反肚　男子慌忙爬出",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260616/1143574928105148416035761.jpeg/fZSq33kWWZdX5VJr5HLspjk29GHM-mgalnPjapZz42o?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60277144/%E5%85%A8%E6%98%AF%E7%BE%8E%E5%A5%B3-%E5%91%BD%E7%90%86%E5%B8%AB%E6%8F%AD%E6%9C%80%E6%98%93%E8%A2%AB%E7%94%B7%E4%BA%BA%E9%A8%993%E9%9D%A2%E7%9B%B8-%E7%9C%BC%E5%A4%A7%E8%80%8C%E5%9C%93-%E5%A5%BD%E5%82%BB%E5%A5%BD%E5%A4%A9%E7%9C%9F",
     "timestamp": "2026-06-20T13:43:03.845Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "世界盃｜伊朗足協稱要向FIFA投訴美國",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260614/1142887890104094720512607.jpeg/cHvvseZ--QvnlWi5tY4aH49ZbuQdKUWZ4snhZuLJ4WY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60362249/%E4%B8%96%E7%95%8C%E7%9B%83-%E4%BC%8A%E6%9C%97%E8%B6%B3%E5%8D%94%E7%A8%B1%E8%A6%81%E5%90%91fifa%E6%8A%95%E8%A8%B4%E7%BE%8E%E5%9C%8B",
-    "timestamp": "2026-06-20T12:59:50.530Z",
     "strategy": ".content-card__main"
   }
 ];
