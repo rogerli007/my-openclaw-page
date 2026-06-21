@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-21T10:49:08.518Z
+// Last updated: 2026-06-21T11:51:17.807Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "51歲單親媽媽照顧罕見病症獨女多年　吐露心酸：希望女兒比我先死",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260527/1136370178326532096438067.png/kwHDJLrfs1_Rguu5MVJo4QZiH2angVQLMPK9iTDyvYk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%9F%A5%E6%80%A7%E5%A5%B3%E7%94%9F/60354153/51%E6%AD%B2%E5%96%AE%E8%A6%AA%E5%AA%BD%E5%AA%BD%E7%85%A7%E9%A1%A7%E7%BD%95%E8%A6%8B%E7%97%85%E7%97%87%E7%8D%A8%E5%A5%B3%E5%A4%9A%E5%B9%B4-%E5%90%90%E9%9C%B2%E5%BF%83%E9%85%B8-%E5%B8%8C%E6%9C%9B%E5%A5%B3%E5%85%92%E6%AF%94%E6%88%91%E5%85%88%E6%AD%BB",
+    "timestamp": "2026-06-21T11:51:17.807Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "世界盃2026｜日本獲墨西哥球迷支持　主帥森保一西班牙文致謝",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260620/1145017820958953472320497.jpeg/SpvhgYsjRQKTu4Gb96vaRm1ehe3h8x5HX6W75V-lu-U?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60361721/%E4%B8%96%E7%9B%83%E5%85%A8%E5%9F%8E%E8%B5%B7%E5%8B%95-%E7%BE%8E%E6%96%AF%E7%A6%8F%E5%9C%B0%E9%87%8D%E9%81%8A-%E9%98%BF%E6%A0%B9%E5%BB%B7%E8%B4%8F%E6%B3%A2%E7%8D%B2%E5%88%A9",
     "timestamp": "2026-06-20T10:42:58.209Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "波蘭總統撤銷澤連斯基白鷹勳章榮譽頭銜　烏克蘭外長：戰略錯誤",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250807/1030066124215029760538209.jpeg/-DWjZPsASqwP9wbn9Hlu3PBPiQI8D13svu9_G77vfxs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60362208/%E6%B3%A2%E8%98%AD%E7%B8%BD%E7%B5%B1%E6%92%A4%E9%8A%B7%E6%BE%A4%E9%80%A3%E6%96%AF%E5%9F%BA%E7%99%BD%E9%B7%B9%E5%8B%B3%E7%AB%A0%E6%A6%AE%E8%AD%BD%E9%A0%AD%E9%8A%9C-%E7%83%8F%E5%85%8B%E8%98%AD%E5%A4%96%E9%95%B7-%E6%88%B0%E7%95%A5%E9%8C%AF%E8%AA%A4",
-    "timestamp": "2026-06-20T09:45:25.748Z",
     "strategy": ".content-card__main"
   }
 ];
