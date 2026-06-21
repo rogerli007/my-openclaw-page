@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-21T11:51:17.807Z
+// Last updated: 2026-06-21T12:54:48.405Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "深圳灣公路大橋車禍車CAM｜私家車撼的士車尾反肚　男子慌忙爬出",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260621/1145461210158731264542879.png/3cuP5hLVsFy9rOtR8IGgCYe__fOnGTlbP__8Ohr__Do",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60362451/%E6%B7%B1%E5%9C%B3%E7%81%A3%E5%85%AC%E8%B7%AF%E5%A4%A7%E6%A9%8B%E8%BB%8A%E7%A6%8D%E8%BB%8Acam-%E7%A7%81%E5%AE%B6%E8%BB%8A%E6%92%BC%E7%9A%84%E5%A3%AB%E8%BB%8A%E5%B0%BE%E5%8F%8D%E8%82%9A-%E7%94%B7%E5%AD%90%E6%85%8C%E5%BF%99%E7%88%AC%E5%87%BA",
+    "timestamp": "2026-06-21T12:54:48.405Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "51歲單親媽媽照顧罕見病症獨女多年　吐露心酸：希望女兒比我先死",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260614/1142887890104094720512607.jpeg/cHvvseZ--QvnlWi5tY4aH49ZbuQdKUWZ4snhZuLJ4WY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60362249/%E4%B8%96%E7%95%8C%E7%9B%83-%E4%BC%8A%E6%9C%97%E8%B6%B3%E5%8D%94%E7%A8%B1%E8%A6%81%E5%90%91fifa%E6%8A%95%E8%A8%B4%E7%BE%8E%E5%9C%8B",
     "timestamp": "2026-06-20T12:59:50.530Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "世盃全城起動｜美斯福地重遊　阿根廷贏波獲利",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260620/1145017820958953472320497.jpeg/SpvhgYsjRQKTu4Gb96vaRm1ehe3h8x5HX6W75V-lu-U?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60361721/%E4%B8%96%E7%9B%83%E5%85%A8%E5%9F%8E%E8%B5%B7%E5%8B%95-%E7%BE%8E%E6%96%AF%E7%A6%8F%E5%9C%B0%E9%87%8D%E9%81%8A-%E9%98%BF%E6%A0%B9%E5%BB%B7%E8%B4%8F%E6%B3%A2%E7%8D%B2%E5%88%A9",
-    "timestamp": "2026-06-20T10:42:58.209Z",
     "strategy": ".content-card__main"
   }
 ];
