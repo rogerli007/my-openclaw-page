@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-21T06:07:20.845Z
+// Last updated: 2026-06-21T08:01:11.330Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "端午節返港潮｜港珠澳大橋交通珠海出境口岸極度高峰　車龍500米",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260621/1145391617457262592695203.jpeg/7k5ZtugMBaqLj6Qcg8v7tytZ2R1a3Eu_D8EQlQ_BEJU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60362397/%E7%AB%AF%E5%8D%88%E7%AF%80%E8%BF%94%E6%B8%AF%E6%BD%AE-%E6%B8%AF%E7%8F%A0%E6%BE%B3%E5%A4%A7%E6%A9%8B%E4%BA%A4%E9%80%9A%E7%8F%A0%E6%B5%B7%E5%87%BA%E5%A2%83%E5%8F%A3%E5%B2%B8%E6%A5%B5%E5%BA%A6%E9%AB%98%E5%B3%B0-%E8%BB%8A%E9%BE%8D500%E7%B1%B3",
+    "timestamp": "2026-06-21T08:01:11.330Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "土瓜灣譚公大廈女子暈倒　母親揭發惜太遲",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260620/1145034578403004416728560.jpeg/dIacG2Zbl8IwJu_Oq2Hy1Id9DBB2DF9Gf96V0H_eldA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60362179/%E7%BE%BD%E6%AF%9B%E7%90%83-%E6%BE%B3%E9%96%80%E8%B3%BD-%E9%99%B3%E5%BB%B6%E6%BE%A4%E5%90%B3%E8%8A%B7%E6%9F%94%E9%97%96%E6%B1%BA%E8%B3%BD-%E8%88%87%E4%B8%96%E4%BA%8C%E8%94%A3%E6%8C%AF%E9%82%A6%E9%AD%8F%E9%9B%85%E6%AC%A3%E7%88%AD%E5%86%A0",
     "timestamp": "2026-06-20T08:29:03.029Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "出國旅遊多日要換酒店？網多數認為麻煩　內行曝連住同間更慳錢",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260618/1144337284636610560297580.jpeg/i77O8kmpTxsH5s4BhnrLjff7NMPCkh1IKd_n3ynf598?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%97%85%E9%81%8A/60350220/%E5%87%BA%E5%9C%8B%E6%97%85%E9%81%8A%E5%A4%9A%E6%97%A5%E8%A6%81%E6%8F%9B%E9%85%92%E5%BA%97-%E7%B6%B2%E5%A4%9A%E6%95%B8%E8%AA%8D%E7%82%BA%E9%BA%BB%E7%85%A9-%E5%85%A7%E8%A1%8C%E6%9B%9D%E9%80%A3%E4%BD%8F%E5%90%8C%E9%96%93%E6%9B%B4%E6%85%B3%E9%8C%A2",
-    "timestamp": "2026-06-20T07:10:43.833Z",
     "strategy": ".content-card__main"
   }
 ];
