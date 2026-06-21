@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-21T16:15:43.744Z
+// Last updated: 2026-06-21T16:57:26.713Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "比利時世界盃2026｜國家隊球員名單陣容+足球排名+最新賽程時間",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260421/1123284566241447936136089.jpeg/D0B1sDcfgUDF5WNRCXfV9QMAl2iIufC4b0GDhG9Bg4Q?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60342332/%E6%AF%94%E5%88%A9%E6%99%82%E4%B8%96%E7%95%8C%E7%9B%832026-%E5%9C%8B%E5%AE%B6%E9%9A%8A%E7%90%83%E5%93%A1%E5%90%8D%E5%96%AE%E9%99%A3%E5%AE%B9-%E8%B6%B3%E7%90%83%E6%8E%92%E5%90%8D-%E6%9C%80%E6%96%B0%E8%B3%BD%E7%A8%8B%E6%99%82%E9%96%93",
+    "timestamp": "2026-06-21T16:57:26.713Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "薩莉亞新蒲崗Mikiki有老鼠出沒　店員被指冷處理　食物環發現鼠跡",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260615/1143263347727142912397018.jpeg/KI7HfK08Uies3b9-Bt-pzvCz0XiXdFu3kev5spHr-bI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60360569/%E5%BE%B7%E5%9C%8B%E5%B0%8D%E7%A7%91%E7%89%B9%E8%BF%AA%E7%93%A62026%E4%B8%96%E7%95%8C%E7%9B%83-%E5%9C%8B%E5%AE%B6%E8%B6%B3%E7%90%83%E9%9A%8A%E7%90%83%E5%93%A1%E5%90%8D%E5%96%AE%E5%87%BA%E7%88%90-%E7%9B%B4%E6%92%AD%E6%99%82%E9%96%93",
     "timestamp": "2026-06-20T18:52:32.288Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "遊日注意！日本7.1起收3倍離境稅　這個日子前出票畀舊價",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260619/1144788959973347328174530.jpeg/qbAuloHjOz-1I4rjsbb3nKvYGTO136RV0MpngtDKZ4I?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60362276/%E9%81%8A%E6%97%A5%E6%B3%A8%E6%84%8F-%E6%97%A5%E6%9C%AC7-1%E8%B5%B7%E6%94%B63%E5%80%8D%E9%9B%A2%E5%A2%83%E7%A8%85-%E9%80%99%E5%80%8B%E6%97%A5%E5%AD%90%E5%89%8D%E5%87%BA%E7%A5%A8%E7%95%80%E8%88%8A%E5%83%B9",
-    "timestamp": "2026-06-20T16:05:55.758Z",
     "strategy": ".content-card__main"
   }
 ];
