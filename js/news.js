@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-21T15:30:22.187Z
+// Last updated: 2026-06-21T16:15:43.744Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "薩莉亞新蒲崗Mikiki有老鼠出沒　店員被指冷處理　食物環發現鼠跡",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260621/1145376514930380800278304.jpeg/Odh9YQo5hqpGBderkQqQH4qLjYMCU1YIdH1biXR9W4k?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60362329/%E8%96%A9%E8%8E%89%E4%BA%9E%E6%96%B0%E8%92%B2%E5%B4%97mikiki%E6%9C%89%E8%80%81%E9%BC%A0%E5%87%BA%E6%B2%92-%E5%BA%97%E5%93%A1%E8%A2%AB%E6%8C%87%E5%86%B7%E8%99%95%E7%90%86-%E9%A3%9F%E7%89%A9%E7%92%B0%E7%99%BC%E7%8F%BE%E9%BC%A0%E8%B7%A1",
+    "timestamp": "2026-06-21T16:15:43.744Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "馬國明聽《單車》憶亡父　嘆過往忽略父親節：佢出去搵錢好辛苦",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260619/1144788959973347328174530.jpeg/qbAuloHjOz-1I4rjsbb3nKvYGTO136RV0MpngtDKZ4I?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60362276/%E9%81%8A%E6%97%A5%E6%B3%A8%E6%84%8F-%E6%97%A5%E6%9C%AC7-1%E8%B5%B7%E6%94%B63%E5%80%8D%E9%9B%A2%E5%A2%83%E7%A8%85-%E9%80%99%E5%80%8B%E6%97%A5%E5%AD%90%E5%89%8D%E5%87%BA%E7%A5%A8%E7%95%80%E8%88%8A%E5%83%B9",
     "timestamp": "2026-06-20T16:05:55.758Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "精準扶貧不精準？政府首揭關愛隊探訪有年齡劃分　狄志遠指有漏洞",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260619/1144640163167866880352974.jpeg/qYDeX1DFWJBYhcR5viVSYMCQgzwxtUu9INhIQiDYSEI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60362245/%E7%B2%BE%E6%BA%96%E6%89%B6%E8%B2%A7%E4%B8%8D%E7%B2%BE%E6%BA%96-%E6%94%BF%E5%BA%9C%E9%A6%96%E6%8F%AD%E9%97%9C%E6%84%9B%E9%9A%8A%E6%8E%A2%E8%A8%AA%E6%9C%89%E5%B9%B4%E9%BD%A1%E5%8A%83%E5%88%86-%E7%8B%84%E5%BF%97%E9%81%A0%E6%8C%87%E6%9C%89%E6%BC%8F%E6%B4%9E",
-    "timestamp": "2026-06-20T15:27:59.125Z",
     "strategy": ".content-card__main"
   }
 ];
