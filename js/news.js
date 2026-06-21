@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-21T17:41:27.621Z
+// Last updated: 2026-06-21T18:17:54.480Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "比利時對伊朗2026世界盃｜國家足球隊球員名單出爐+直播時間",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260616/1143526005093175296726310.jpeg/Gwz5UrKkC3A__lPy9SlIw8JORSwadM8Jr2_U1K9v1NQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60360743/%E6%AF%94%E5%88%A9%E6%99%82%E5%B0%8D%E4%BC%8A%E6%9C%972026%E4%B8%96%E7%95%8C%E7%9B%83-%E5%9C%8B%E5%AE%B6%E8%B6%B3%E7%90%83%E9%9A%8A%E7%90%83%E5%93%A1%E5%90%8D%E5%96%AE%E5%87%BA%E7%88%90-%E7%9B%B4%E6%92%AD%E6%99%82%E9%96%93",
+    "timestamp": "2026-06-21T18:17:54.480Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "伊媒：若黎巴嫩戰事無法結束　美伊間其他議題談判將不會進行",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260621/1145229095693455360703165.jpeg/MDCXgS9Wej6q4tHTCVvG3xOa-dnSz8Dkc9l7GXPZexk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60362292/%E6%96%BD%E7%B4%80%E8%B3%A2%E5%A4%A7%E5%8B%A2%E5%B7%B2%E5%8E%BB-%E8%8B%B1%E5%AA%92-%E6%96%99%E6%9C%80%E5%BF%AB22%E6%97%A5%E5%AE%A3%E5%B8%83%E8%AB%8B%E8%BE%AD-%E5%B0%87%E6%9C%89%E5%BA%8F%E4%B8%8B%E5%8F%B0",
     "timestamp": "2026-06-20T21:38:20.477Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "世界盃2026｜荷蘭5:1炒瑞典　加普與波貝比齊齊起孖大勝一場",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260621/1145191428075294720624983.jpeg/INNQ7vfdYoG9p59Y-dKVQiMJCFE6lQxA_Gbxzvxm8c4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60362287/%E4%B8%96%E7%95%8C%E7%9B%832026-%E8%8D%B7%E8%98%AD5-1%E7%82%92%E7%91%9E%E5%85%B8-%E5%8A%A0%E6%99%AE%E8%88%87%E6%B3%A2%E8%B2%9D%E6%AF%94%E9%BD%8A%E9%BD%8A%E8%B5%B7%E5%AD%96%E5%A4%A7%E5%8B%9D%E4%B8%80%E5%A0%B4",
-    "timestamp": "2026-06-20T20:17:26.674Z",
     "strategy": ".content-card__main"
   }
 ];
