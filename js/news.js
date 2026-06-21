@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-21T19:41:05.450Z
+// Last updated: 2026-06-21T20:21:20.745Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "Save Lily│父斥當局忽視《兒童權利公約》不尊重Danny食人奶意願",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260622/1145576455363629056506489.jpeg/uxUGapZqKGoPvSRLAZo59P3n4FOdem8EzrGBIs6xgSI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60362490/save-lily-%E7%88%B6%E6%96%A5%E7%95%B6%E5%B1%80%E5%BF%BD%E8%A6%96-%E5%85%92%E7%AB%A5%E6%AC%8A%E5%88%A9%E5%85%AC%E7%B4%84-%E4%B8%8D%E5%B0%8A%E9%87%8Ddanny%E9%A3%9F%E4%BA%BA%E5%A5%B6%E6%84%8F%E9%A1%98",
+    "timestamp": "2026-06-21T20:21:20.745Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "世界盃2026｜西班牙4:0大勝沙特阿拉伯　奧耶沙巴爾梅開二度",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20210619/482944886069268480104586.jpeg/nGummjap2zNaPmImznxHT9clriEb1EENYIIGcWCCBnE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60360939/%E7%88%B6%E8%A6%AA%E7%AF%80%E8%AD%A6%E4%B8%96%E6%96%87-%E7%88%B6%E5%8B%B8%E5%A5%B3%E5%85%92-%E4%B8%8D%E8%A6%81%E5%AB%81%E6%9C%89%E9%8C%A2%E4%BA%BA-%E5%8E%9F%E5%9B%A0%E5%82%AC%E6%B7%9A-%E7%B6%B2%E6%B0%91-%E5%A5%BD%E7%88%B8%E7%88%B8",
     "timestamp": "2026-06-20T23:15:47.546Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "世界盃｜可愛鴨仔梅林着墨西哥波衫爆紅　獲FIFA任形象大使｜有片",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260621/1145251906025689088438075.jpeg/BzxTOcRZTacYMZgPcgQomhl0O7BtVB3rDLzXvAy817w?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%92%B0%E7%90%83%E8%B6%A3%E8%81%9E/60362296/%E4%B8%96%E7%95%8C%E7%9B%83-%E5%8F%AF%E6%84%9B%E9%B4%A8%E4%BB%94%E6%A2%85%E6%9E%97%E7%9D%80%E5%A2%A8%E8%A5%BF%E5%93%A5%E6%B3%A2%E8%A1%AB%E7%88%86%E7%B4%85-%E7%8D%B2fifa%E4%BB%BB%E5%BD%A2%E8%B1%A1%E5%A4%A7%E4%BD%BF-%E6%9C%89%E7%89%87",
-    "timestamp": "2026-06-20T22:47:15.546Z",
     "strategy": ".content-card__main"
   }
 ];
