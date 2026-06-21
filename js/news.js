@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-21T18:17:54.480Z
+// Last updated: 2026-06-21T18:56:49.722Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "世界盃2026｜西班牙4:0大勝沙特阿拉伯　奧耶沙巴爾梅開二度",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260622/1145553289056620544132497.jpeg/WaHf7aAAlrGj7NXD3Cx-fWWTr5qhn4EEZLJTk2SyU5M?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60362484/%E4%B8%96%E7%95%8C%E7%9B%832026-%E8%A5%BF%E7%8F%AD%E7%89%994-0%E5%A4%A7%E5%8B%9D%E6%B2%99%E7%89%B9%E9%98%BF%E6%8B%89%E4%BC%AF-%E5%A5%A7%E8%80%B6%E6%B2%99%E5%B7%B4%E7%88%BE%E6%A2%85%E9%96%8B%E4%BA%8C%E5%BA%A6",
+    "timestamp": "2026-06-21T18:56:49.722Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "比利時對伊朗2026世界盃｜國家足球隊球員名單出爐+直播時間",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260621/1145240896053186560845269.jpeg/an_kO5L0wxuy54NnLzjO441zC1HXf40q1AGayNQBmsg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60362294/%E4%B8%96%E7%95%8C%E7%9B%832026-%E5%BE%B7%E5%9C%8B2-1%E5%8F%8D%E5%8B%9D%E7%A7%91%E7%89%B9%E8%BF%AA%E7%93%A6-%E7%83%8F%E9%81%94%E5%A4%AB%E8%A3%9C%E6%99%82%E5%85%A5%E6%B3%A2%E6%88%90%E9%97%9C%E9%8D%B5%E5%85%88%E7%94%9F",
     "timestamp": "2026-06-20T22:15:00.516Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "施紀賢大勢已去？　英媒：料最快22日宣布請辭　將有序下台",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260621/1145229095693455360703165.jpeg/MDCXgS9Wej6q4tHTCVvG3xOa-dnSz8Dkc9l7GXPZexk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60362292/%E6%96%BD%E7%B4%80%E8%B3%A2%E5%A4%A7%E5%8B%A2%E5%B7%B2%E5%8E%BB-%E8%8B%B1%E5%AA%92-%E6%96%99%E6%9C%80%E5%BF%AB22%E6%97%A5%E5%AE%A3%E5%B8%83%E8%AB%8B%E8%BE%AD-%E5%B0%87%E6%9C%89%E5%BA%8F%E4%B8%8B%E5%8F%B0",
-    "timestamp": "2026-06-20T21:38:20.477Z",
     "strategy": ".content-card__main"
   }
 ];
