@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-22T07:24:19.624Z
+// Last updated: 2026-06-22T09:36:18.293Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "2026世界盃｜男星李現開球成內地第一人　為何官方未有轉播？",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260622/1145773331283185664876495.jpeg/L6NFX6oZ1IHx5DU2qp6zm63UBw5dRJz5YmMkz2JjJM8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60362745/2026%E4%B8%96%E7%95%8C%E7%9B%83-%E7%94%B7%E6%98%9F%E6%9D%8E%E7%8F%BE%E9%96%8B%E7%90%83%E6%88%90%E5%85%A7%E5%9C%B0%E7%AC%AC%E4%B8%80%E4%BA%BA-%E7%82%BA%E4%BD%95%E5%AE%98%E6%96%B9%E6%9C%AA%E6%9C%89%E8%BD%89%E6%92%AD",
+    "timestamp": "2026-06-22T09:36:18.293Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "周星馳《功夫女足》預告7月上映　迎戰《魔海奇緣》與《多啦A夢》",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260527/1136370178326532096438067.png/kwHDJLrfs1_Rguu5MVJo4QZiH2angVQLMPK9iTDyvYk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%9F%A5%E6%80%A7%E5%A5%B3%E7%94%9F/60354153/51%E6%AD%B2%E5%96%AE%E8%A6%AA%E5%AA%BD%E5%AA%BD%E7%85%A7%E9%A1%A7%E7%BD%95%E8%A6%8B%E7%97%85%E7%97%87%E7%8D%A8%E5%A5%B3%E5%A4%9A%E5%B9%B4-%E5%90%90%E9%9C%B2%E5%BF%83%E9%85%B8-%E5%B8%8C%E6%9C%9B%E5%A5%B3%E5%85%92%E6%AF%94%E6%88%91%E5%85%88%E6%AD%BB",
     "timestamp": "2026-06-21T11:51:17.807Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "世界盃2026｜日本獲墨西哥球迷支持　主帥森保一西班牙文致謝",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260621/1145434202334826496532178.png/tis42QzMitCjDxBkRf8mgZ7rydpluXc5Mtb3PTLW9z0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60362418/%E4%B8%96%E7%95%8C%E7%9B%832026-%E6%97%A5%E6%9C%AC%E7%8D%B2%E5%A2%A8%E8%A5%BF%E5%93%A5%E7%90%83%E8%BF%B7%E6%94%AF%E6%8C%81-%E4%B8%BB%E5%B8%A5%E6%A3%AE%E4%BF%9D%E4%B8%80%E8%A5%BF%E7%8F%AD%E7%89%99%E6%96%87%E8%87%B4%E8%AC%9D",
-    "timestamp": "2026-06-21T10:49:08.518Z",
     "strategy": ".content-card__main"
   }
 ];
