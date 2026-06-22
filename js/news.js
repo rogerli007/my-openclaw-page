@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-22T21:21:03.740Z
+// Last updated: 2026-06-22T22:18:48.100Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "伊朗同意建立霍爾木茲海峽溝通渠道　解凍伊資產協議已最終簽署",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260621/1145476821769261056026598.jpeg/QnI_AUzl7AMDJlCceymykD0fSx-uU-y78iN_mvIjf5o?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60362884/%E4%BC%8A%E6%9C%97%E5%90%8C%E6%84%8F%E5%BB%BA%E7%AB%8B%E9%9C%8D%E7%88%BE%E6%9C%A8%E8%8C%B2%E6%B5%B7%E5%B3%BD%E6%BA%9D%E9%80%9A%E6%B8%A0%E9%81%93-%E8%A7%A3%E5%87%8D%E4%BC%8A%E8%B3%87%E7%94%A2%E5%8D%94%E8%AD%B0%E5%B7%B2%E6%9C%80%E7%B5%82%E7%B0%BD%E7%BD%B2",
+    "timestamp": "2026-06-22T22:18:48.100Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "港第二大酒店｜滙豐接管東涌喜來登酒店　業主世茂曾索價60億不果",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260421/1123284566241447936136089.jpeg/D0B1sDcfgUDF5WNRCXfV9QMAl2iIufC4b0GDhG9Bg4Q?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60342332/%E6%AF%94%E5%88%A9%E6%99%82%E4%B8%96%E7%95%8C%E7%9B%832026-%E5%9C%8B%E5%AE%B6%E9%9A%8A%E7%90%83%E5%93%A1%E5%90%8D%E5%96%AE%E9%99%A3%E5%AE%B9-%E8%B6%B3%E7%90%83%E6%8E%92%E5%90%8D-%E6%9C%80%E6%96%B0%E8%B3%BD%E7%A8%8B%E6%99%82%E9%96%93",
     "timestamp": "2026-06-21T16:57:26.713Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "薩莉亞新蒲崗Mikiki有老鼠出沒　店員被指冷處理　食物環發現鼠跡",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260621/1145376514930380800278304.jpeg/Odh9YQo5hqpGBderkQqQH4qLjYMCU1YIdH1biXR9W4k?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60362329/%E8%96%A9%E8%8E%89%E4%BA%9E%E6%96%B0%E8%92%B2%E5%B4%97mikiki%E6%9C%89%E8%80%81%E9%BC%A0%E5%87%BA%E6%B2%92-%E5%BA%97%E5%93%A1%E8%A2%AB%E6%8C%87%E5%86%B7%E8%99%95%E7%90%86-%E9%A3%9F%E7%89%A9%E7%92%B0%E7%99%BC%E7%8F%BE%E9%BC%A0%E8%B7%A1",
-    "timestamp": "2026-06-21T16:15:43.744Z",
     "strategy": ".content-card__main"
   }
 ];
