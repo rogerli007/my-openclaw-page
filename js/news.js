@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-21T23:53:16.783Z
+// Last updated: 2026-06-22T05:24:50.846Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "螞蟻集團董事局換屆　小鵬董事長何小鵬等3人新獲委任獨董",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250509/997519269627564032364781.jpeg/Bwt4GTo37lNCPINyJiHTqb_mpnm1cjswtknzZLZJ82Q?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60362641/%E8%9E%9E%E8%9F%BB%E9%9B%86%E5%9C%98%E8%91%A3%E4%BA%8B%E5%B1%80%E6%8F%9B%E5%B1%86-%E5%B0%8F%E9%B5%AC%E8%91%A3%E4%BA%8B%E9%95%B7%E4%BD%95%E5%B0%8F%E9%B5%AC%E7%AD%893%E4%BA%BA%E6%96%B0%E7%8D%B2%E5%A7%94%E4%BB%BB%E7%8D%A8%E8%91%A3",
+    "timestamp": "2026-06-22T05:24:50.846Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "東張西望｜22歲靚女被自稱鍾澍佳助理呃　話有得睇《金宵大廈3》",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260621/1145391617457262592695203.jpeg/7k5ZtugMBaqLj6Qcg8v7tytZ2R1a3Eu_D8EQlQ_BEJU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60362397/%E7%AB%AF%E5%8D%88%E7%AF%80%E8%BF%94%E6%B8%AF%E6%BD%AE-%E6%B8%AF%E7%8F%A0%E6%BE%B3%E5%A4%A7%E6%A9%8B%E4%BA%A4%E9%80%9A%E7%8F%A0%E6%B5%B7%E5%87%BA%E5%A2%83%E5%8F%A3%E5%B2%B8%E6%A5%B5%E5%BA%A6%E9%AB%98%E5%B3%B0-%E8%BB%8A%E9%BE%8D500%E7%B1%B3",
     "timestamp": "2026-06-21T08:01:11.330Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "土瓜灣譚公大廈女子暈倒　母親揭發惜太遲",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20210317/448993700668772352958026.jpeg/D5ZAbQCSpkuupZjip6etSLDESy9Ny6iGZg_AOGYPwDg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60362359/%E5%9C%9F%E7%93%9C%E7%81%A3%E8%AD%9A%E5%85%AC%E5%A4%A7%E5%BB%88%E5%A5%B3%E5%AD%90%E6%9A%88%E5%80%92-%E6%AF%8D%E8%A6%AA%E6%8F%AD%E7%99%BC%E6%83%9C%E5%A4%AA%E9%81%B2",
-    "timestamp": "2026-06-21T06:07:20.845Z",
     "strategy": ".content-card__main"
   }
 ];
