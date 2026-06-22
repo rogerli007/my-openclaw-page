@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-22T15:37:17.483Z
+// Last updated: 2026-06-22T20:09:48.222Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "世界盃2026｜阿根廷2:0奧地利出線32強　美斯共18入球破世盃紀錄",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260623/1145929333752205312243078.jpeg/LEFjIP-CYz1Wj5TZFveqWwuf2eLU5ttFUsxevlLMXr4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60362875/%E4%B8%96%E7%95%8C%E7%9B%832026-%E9%98%BF%E6%A0%B9%E5%BB%B72-0%E5%A5%A7%E5%9C%B0%E5%88%A9%E5%87%BA%E7%B7%9A32%E5%BC%B7-%E7%BE%8E%E6%96%AF%E5%85%B118%E5%85%A5%E7%90%83%E7%A0%B4%E4%B8%96%E7%9B%83%E7%B4%80%E9%8C%84",
+    "timestamp": "2026-06-22T20:09:48.222Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "火鍋中菜店御尚軒拖欠「工傷病假錢」遭勞工處檢控　判罰8萬元",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260621/1145500659638865920437869.jpeg/OJ28RhkbL0fGEKZbputQUOoDMfFzl7fsHVduVx1Xblc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60362468/%E9%A6%AC%E5%9C%8B%E6%98%8E%E8%81%BD-%E5%96%AE%E8%BB%8A-%E6%86%B6%E4%BA%A1%E7%88%B6-%E5%98%86%E9%81%8E%E5%BE%80%E5%BF%BD%E7%95%A5%E7%88%B6%E8%A6%AA%E7%AF%80-%E4%BD%A2%E5%87%BA%E5%8E%BB%E6%90%B5%E9%8C%A2%E5%A5%BD%E8%BE%9B%E8%8B%A6",
     "timestamp": "2026-06-21T15:30:22.187Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "田曦薇憑《逐玉》奪下全球OTT人氣獎　綠色仙女裙造型甜美又性感",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260621/1145431411214258176037561.png/k1bh8-Z3_q3F1WkhN7uweSyPQ3FCeqZkMgUrmTIFK5k?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60362434/%E7%94%B0%E6%9B%A6%E8%96%87%E6%86%91-%E9%80%90%E7%8E%89-%E5%A5%AA%E4%B8%8B%E5%85%A8%E7%90%83ott%E4%BA%BA%E6%B0%A3%E7%8D%8E-%E7%B6%A0%E8%89%B2%E4%BB%99%E5%A5%B3%E8%A3%99%E9%80%A0%E5%9E%8B%E7%94%9C%E7%BE%8E%E5%8F%88%E6%80%A7%E6%84%9F",
-    "timestamp": "2026-06-21T14:37:31.556Z",
     "strategy": ".content-card__main"
   }
 ];
