@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-22T20:09:48.222Z
+// Last updated: 2026-06-22T21:21:03.740Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "港第二大酒店｜滙豐接管東涌喜來登酒店　業主世茂曾索價60億不果",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260606/1140073094438719488507139.jpeg/W2k1pAnYklG1GBFqCkb5esWlkkH6F5TNi28cVYtvHFU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60358975/%E6%B8%AF%E7%AC%AC%E4%BA%8C%E5%A4%A7%E9%85%92%E5%BA%97-%E6%BB%99%E8%B1%90%E6%8E%A5%E7%AE%A1%E6%9D%B1%E6%B6%8C%E5%96%9C%E4%BE%86%E7%99%BB%E9%85%92%E5%BA%97-%E6%A5%AD%E4%B8%BB%E4%B8%96%E8%8C%82%E6%9B%BE%E7%B4%A2%E5%83%B960%E5%84%84%E4%B8%8D%E6%9E%9C",
+    "timestamp": "2026-06-22T21:21:03.740Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "世界盃2026｜阿根廷2:0奧地利出線32強　美斯共18入球破世盃紀錄",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260621/1145376514930380800278304.jpeg/Odh9YQo5hqpGBderkQqQH4qLjYMCU1YIdH1biXR9W4k?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60362329/%E8%96%A9%E8%8E%89%E4%BA%9E%E6%96%B0%E8%92%B2%E5%B4%97mikiki%E6%9C%89%E8%80%81%E9%BC%A0%E5%87%BA%E6%B2%92-%E5%BA%97%E5%93%A1%E8%A2%AB%E6%8C%87%E5%86%B7%E8%99%95%E7%90%86-%E9%A3%9F%E7%89%A9%E7%92%B0%E7%99%BC%E7%8F%BE%E9%BC%A0%E8%B7%A1",
     "timestamp": "2026-06-21T16:15:43.744Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "馬國明聽《單車》憶亡父　嘆過往忽略父親節：佢出去搵錢好辛苦",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260621/1145500659638865920437869.jpeg/OJ28RhkbL0fGEKZbputQUOoDMfFzl7fsHVduVx1Xblc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60362468/%E9%A6%AC%E5%9C%8B%E6%98%8E%E8%81%BD-%E5%96%AE%E8%BB%8A-%E6%86%B6%E4%BA%A1%E7%88%B6-%E5%98%86%E9%81%8E%E5%BE%80%E5%BF%BD%E7%95%A5%E7%88%B6%E8%A6%AA%E7%AF%80-%E4%BD%A2%E5%87%BA%E5%8E%BB%E6%90%B5%E9%8C%A2%E5%A5%BD%E8%BE%9B%E8%8B%A6",
-    "timestamp": "2026-06-21T15:30:22.187Z",
     "strategy": ".content-card__main"
   }
 ];
