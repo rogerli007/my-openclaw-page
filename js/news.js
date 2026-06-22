@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-22T13:46:22.002Z
+// Last updated: 2026-06-22T15:37:17.483Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "火鍋中菜店御尚軒拖欠「工傷病假錢」遭勞工處檢控　判罰8萬元",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20220321/582642689745620992025891.jpeg/sJL7gxvQugLHn6d0vXzw9dzQs0N_maJXBgK_yywCv8s?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60362861/%E7%81%AB%E9%8D%8B%E4%B8%AD%E8%8F%9C%E5%BA%97%E5%BE%A1%E5%B0%9A%E8%BB%92%E6%8B%96%E6%AC%A0-%E5%B7%A5%E5%82%B7%E7%97%85%E5%81%87%E9%8C%A2-%E9%81%AD%E5%8B%9E%E5%B7%A5%E8%99%95%E6%AA%A2%E6%8E%A7-%E5%88%A4%E7%BD%B08%E8%90%AC%E5%85%83",
+    "timestamp": "2026-06-22T15:37:17.483Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "阿根廷世界盃2026｜國家隊球員名單陣容名單+足球排名+最新賽程",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260621/1145431411214258176037561.png/k1bh8-Z3_q3F1WkhN7uweSyPQ3FCeqZkMgUrmTIFK5k?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60362434/%E7%94%B0%E6%9B%A6%E8%96%87%E6%86%91-%E9%80%90%E7%8E%89-%E5%A5%AA%E4%B8%8B%E5%85%A8%E7%90%83ott%E4%BA%BA%E6%B0%A3%E7%8D%8E-%E7%B6%A0%E8%89%B2%E4%BB%99%E5%A5%B3%E8%A3%99%E9%80%A0%E5%9E%8B%E7%94%9C%E7%BE%8E%E5%8F%88%E6%80%A7%E6%84%9F",
     "timestamp": "2026-06-21T14:37:31.556Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "TWICE Sana造型被韓網抨擊似「底褲外露走光」　本人親自解釋真相",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260621/1145424477488680960059761.png/VM-JVA0Ok0up-FgD0NsyWR2RxNqwtFJad-_o6Xfv6Ok?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60362424/twice-sana%E9%80%A0%E5%9E%8B%E8%A2%AB%E9%9F%93%E7%B6%B2%E6%8A%A8%E6%93%8A%E4%BC%BC-%E5%BA%95%E8%A4%B2%E5%A4%96%E9%9C%B2%E8%B5%B0%E5%85%89-%E6%9C%AC%E4%BA%BA%E8%A6%AA%E8%87%AA%E8%A7%A3%E9%87%8B%E7%9C%9F%E7%9B%B8",
-    "timestamp": "2026-06-21T13:43:44.752Z",
     "strategy": ".content-card__main"
   }
 ];
