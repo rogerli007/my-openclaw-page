@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-22T09:36:18.293Z
+// Last updated: 2026-06-22T11:46:52.323Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美軍轟炸伊朗小學致175人死亡　人們擔心美國正在掩蓋真相",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260622/1145792360085458944482967.jpeg/S5GEysdN2eVYqmRTxP21STZHtc2x3N_LVSwFYFUsBWA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60362802/%E7%BE%8E%E8%BB%8D%E8%BD%9F%E7%82%B8%E4%BC%8A%E6%9C%97%E5%B0%8F%E5%AD%B8%E8%87%B4175%E4%BA%BA%E6%AD%BB%E4%BA%A1-%E4%BA%BA%E5%80%91%E6%93%94%E5%BF%83%E7%BE%8E%E5%9C%8B%E6%AD%A3%E5%9C%A8%E6%8E%A9%E8%93%8B%E7%9C%9F%E7%9B%B8",
+    "timestamp": "2026-06-22T11:46:52.323Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "2026世界盃｜男星李現開球成內地第一人　為何官方未有轉播？",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260621/1145461210158731264542879.png/3cuP5hLVsFy9rOtR8IGgCYe__fOnGTlbP__8Ohr__Do",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60362451/%E6%B7%B1%E5%9C%B3%E7%81%A3%E5%85%AC%E8%B7%AF%E5%A4%A7%E6%A9%8B%E8%BB%8A%E7%A6%8D%E8%BB%8Acam-%E7%A7%81%E5%AE%B6%E8%BB%8A%E6%92%BC%E7%9A%84%E5%A3%AB%E8%BB%8A%E5%B0%BE%E5%8F%8D%E8%82%9A-%E7%94%B7%E5%AD%90%E6%85%8C%E5%BF%99%E7%88%AC%E5%87%BA",
     "timestamp": "2026-06-21T12:54:48.405Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "51歲單親媽媽照顧罕見病症獨女多年　吐露心酸：希望女兒比我先死",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260527/1136370178326532096438067.png/kwHDJLrfs1_Rguu5MVJo4QZiH2angVQLMPK9iTDyvYk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%9F%A5%E6%80%A7%E5%A5%B3%E7%94%9F/60354153/51%E6%AD%B2%E5%96%AE%E8%A6%AA%E5%AA%BD%E5%AA%BD%E7%85%A7%E9%A1%A7%E7%BD%95%E8%A6%8B%E7%97%85%E7%97%87%E7%8D%A8%E5%A5%B3%E5%A4%9A%E5%B9%B4-%E5%90%90%E9%9C%B2%E5%BF%83%E9%85%B8-%E5%B8%8C%E6%9C%9B%E5%A5%B3%E5%85%92%E6%AF%94%E6%88%91%E5%85%88%E6%AD%BB",
-    "timestamp": "2026-06-21T11:51:17.807Z",
     "strategy": ".content-card__main"
   }
 ];
