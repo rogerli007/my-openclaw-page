@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-22T11:46:52.323Z
+// Last updated: 2026-06-22T13:46:22.002Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "阿根廷世界盃2026｜國家隊球員名單陣容名單+足球排名+最新賽程",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260417/1121871261207629824702984.jpeg/6EgoSEp_iPGDAjYw_wtvAZugS3JwZBfuTX-baU1_m2k?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60341303/%E9%98%BF%E6%A0%B9%E5%BB%B7%E4%B8%96%E7%95%8C%E7%9B%832026-%E5%9C%8B%E5%AE%B6%E9%9A%8A%E7%90%83%E5%93%A1%E5%90%8D%E5%96%AE%E9%99%A3%E5%AE%B9%E5%90%8D%E5%96%AE-%E8%B6%B3%E7%90%83%E6%8E%92%E5%90%8D-%E6%9C%80%E6%96%B0%E8%B3%BD%E7%A8%8B",
+    "timestamp": "2026-06-22T13:46:22.002Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美軍轟炸伊朗小學致175人死亡　人們擔心美國正在掩蓋真相",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260621/1145424477488680960059761.png/VM-JVA0Ok0up-FgD0NsyWR2RxNqwtFJad-_o6Xfv6Ok?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60362424/twice-sana%E9%80%A0%E5%9E%8B%E8%A2%AB%E9%9F%93%E7%B6%B2%E6%8A%A8%E6%93%8A%E4%BC%BC-%E5%BA%95%E8%A4%B2%E5%A4%96%E9%9C%B2%E8%B5%B0%E5%85%89-%E6%9C%AC%E4%BA%BA%E8%A6%AA%E8%87%AA%E8%A7%A3%E9%87%8B%E7%9C%9F%E7%9B%B8",
     "timestamp": "2026-06-21T13:43:44.752Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "深圳灣公路大橋車禍車CAM｜私家車撼的士車尾反肚　男子慌忙爬出",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260621/1145461210158731264542879.png/3cuP5hLVsFy9rOtR8IGgCYe__fOnGTlbP__8Ohr__Do",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60362451/%E6%B7%B1%E5%9C%B3%E7%81%A3%E5%85%AC%E8%B7%AF%E5%A4%A7%E6%A9%8B%E8%BB%8A%E7%A6%8D%E8%BB%8Acam-%E7%A7%81%E5%AE%B6%E8%BB%8A%E6%92%BC%E7%9A%84%E5%A3%AB%E8%BB%8A%E5%B0%BE%E5%8F%8D%E8%82%9A-%E7%94%B7%E5%AD%90%E6%85%8C%E5%BF%99%E7%88%AC%E5%87%BA",
-    "timestamp": "2026-06-21T12:54:48.405Z",
     "strategy": ".content-card__main"
   }
 ];
