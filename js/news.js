@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-22T22:18:48.100Z
+// Last updated: 2026-06-22T22:58:42.213Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "機場快綫駛入東涌綫青衣月台 　港鐵：為修復故障設備作車務調度",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260623/1145980658334568448735964.jpeg/vD6KxBkIKzWq5jT8ZafB3OD0S4LWzpkKNOiPyDToj8g",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60362886/%E6%A9%9F%E5%A0%B4%E5%BF%AB%E7%B6%AB%E9%A7%9B%E5%85%A5%E6%9D%B1%E6%B6%8C%E7%B6%AB%E9%9D%92%E8%A1%A3%E6%9C%88%E5%8F%B0-%E6%B8%AF%E9%90%B5-%E7%82%BA%E4%BF%AE%E5%BE%A9%E6%95%85%E9%9A%9C%E8%A8%AD%E5%82%99%E4%BD%9C%E8%BB%8A%E5%8B%99%E8%AA%BF%E5%BA%A6",
+    "timestamp": "2026-06-22T22:58:42.213Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "伊朗同意建立霍爾木茲海峽溝通渠道　解凍伊資產協議已最終簽署",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260620/1144826489410162688649537.jpeg/4CqJ88hJ94VZvg5R29xcDN_Ng_Mp7InSSRP60kkT-tI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60362479/%E4%BC%8A%E5%AA%92-%E8%8B%A5%E9%BB%8E%E5%B7%B4%E5%AB%A9%E6%88%B0%E4%BA%8B%E7%84%A1%E6%B3%95%E7%B5%90%E6%9D%9F-%E7%BE%8E%E4%BC%8A%E9%96%93%E5%85%B6%E4%BB%96%E8%AD%B0%E9%A1%8C%E8%AB%87%E5%88%A4%E5%B0%87%E4%B8%8D%E6%9C%83%E9%80%B2%E8%A1%8C",
     "timestamp": "2026-06-21T17:41:27.621Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "比利時世界盃2026｜國家隊球員名單陣容+足球排名+最新賽程時間",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260421/1123284566241447936136089.jpeg/D0B1sDcfgUDF5WNRCXfV9QMAl2iIufC4b0GDhG9Bg4Q?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60342332/%E6%AF%94%E5%88%A9%E6%99%82%E4%B8%96%E7%95%8C%E7%9B%832026-%E5%9C%8B%E5%AE%B6%E9%9A%8A%E7%90%83%E5%93%A1%E5%90%8D%E5%96%AE%E9%99%A3%E5%AE%B9-%E8%B6%B3%E7%90%83%E6%8E%92%E5%90%8D-%E6%9C%80%E6%96%B0%E8%B3%BD%E7%A8%8B%E6%99%82%E9%96%93",
-    "timestamp": "2026-06-21T16:57:26.713Z",
     "strategy": ".content-card__main"
   }
 ];
