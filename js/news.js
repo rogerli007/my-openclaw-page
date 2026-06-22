@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-22T05:24:50.846Z
+// Last updated: 2026-06-22T07:24:19.624Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "周星馳《功夫女足》預告7月上映　迎戰《魔海奇緣》與《多啦A夢》",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260622/1145740026991087616561038.jpeg/mk8somNhrHy8Akcah_6-WeGd6nY6v3I9Rsjc9kbI3PY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60362647/%E5%91%A8%E6%98%9F%E9%A6%B3-%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3-%E9%A0%90%E5%91%8A7%E6%9C%88%E4%B8%8A%E6%98%A0-%E8%BF%8E%E6%88%B0-%E9%AD%94%E6%B5%B7%E5%A5%87%E7%B7%A3-%E8%88%87-%E5%A4%9A%E5%95%A6a%E5%A4%A2",
+    "timestamp": "2026-06-22T07:24:19.624Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "螞蟻集團董事局換屆　小鵬董事長何小鵬等3人新獲委任獨董",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260621/1145434202334826496532178.png/tis42QzMitCjDxBkRf8mgZ7rydpluXc5Mtb3PTLW9z0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60362418/%E4%B8%96%E7%95%8C%E7%9B%832026-%E6%97%A5%E6%9C%AC%E7%8D%B2%E5%A2%A8%E8%A5%BF%E5%93%A5%E7%90%83%E8%BF%B7%E6%94%AF%E6%8C%81-%E4%B8%BB%E5%B8%A5%E6%A3%AE%E4%BF%9D%E4%B8%80%E8%A5%BF%E7%8F%AD%E7%89%99%E6%96%87%E8%87%B4%E8%AC%9D",
     "timestamp": "2026-06-21T10:49:08.518Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "端午節返港潮｜港珠澳大橋交通珠海出境口岸極度高峰　車龍500米",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260621/1145391617457262592695203.jpeg/7k5ZtugMBaqLj6Qcg8v7tytZ2R1a3Eu_D8EQlQ_BEJU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60362397/%E7%AB%AF%E5%8D%88%E7%AF%80%E8%BF%94%E6%B8%AF%E6%BD%AE-%E6%B8%AF%E7%8F%A0%E6%BE%B3%E5%A4%A7%E6%A9%8B%E4%BA%A4%E9%80%9A%E7%8F%A0%E6%B5%B7%E5%87%BA%E5%A2%83%E5%8F%A3%E5%B2%B8%E6%A5%B5%E5%BA%A6%E9%AB%98%E5%B3%B0-%E8%BB%8A%E9%BE%8D500%E7%B1%B3",
-    "timestamp": "2026-06-21T08:01:11.330Z",
     "strategy": ".content-card__main"
   }
 ];
