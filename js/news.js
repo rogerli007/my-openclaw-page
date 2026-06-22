@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-22T22:58:42.213Z
+// Last updated: 2026-06-22T23:39:31.385Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "浙江七旬翁狂食香蕉補鉀險送命！日食4條香蕉致高鉀血症入ICU",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260622/1145771232348606464473059.png/wGYh9hRiD2Vj1OhH4NghmWC02jmUDBO1wMsQ3cDLEN0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60354496/%E6%B5%99%E6%B1%9F%E4%B8%83%E6%97%AC%E7%BF%81%E7%8B%82%E9%A3%9F%E9%A6%99%E8%95%89%E8%A3%9C%E9%89%80%E9%9A%AA%E9%80%81%E5%91%BD-%E6%97%A5%E9%A3%9F4%E6%A2%9D%E9%A6%99%E8%95%89%E8%87%B4%E9%AB%98%E9%89%80%E8%A1%80%E7%97%87%E5%85%A5icu",
+    "timestamp": "2026-06-22T23:39:31.385Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "機場快綫駛入東涌綫青衣月台 　港鐵：為修復故障設備作車務調度",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260616/1143526005093175296726310.jpeg/Gwz5UrKkC3A__lPy9SlIw8JORSwadM8Jr2_U1K9v1NQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60360743/%E6%AF%94%E5%88%A9%E6%99%82%E5%B0%8D%E4%BC%8A%E6%9C%972026%E4%B8%96%E7%95%8C%E7%9B%83-%E5%9C%8B%E5%AE%B6%E8%B6%B3%E7%90%83%E9%9A%8A%E7%90%83%E5%93%A1%E5%90%8D%E5%96%AE%E5%87%BA%E7%88%90-%E7%9B%B4%E6%92%AD%E6%99%82%E9%96%93",
     "timestamp": "2026-06-21T18:17:54.480Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "伊媒：若黎巴嫩戰事無法結束　美伊間其他議題談判將不會進行",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260620/1144826489410162688649537.jpeg/4CqJ88hJ94VZvg5R29xcDN_Ng_Mp7InSSRP60kkT-tI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60362479/%E4%BC%8A%E5%AA%92-%E8%8B%A5%E9%BB%8E%E5%B7%B4%E5%AB%A9%E6%88%B0%E4%BA%8B%E7%84%A1%E6%B3%95%E7%B5%90%E6%9D%9F-%E7%BE%8E%E4%BC%8A%E9%96%93%E5%85%B6%E4%BB%96%E8%AD%B0%E9%A1%8C%E8%AB%87%E5%88%A4%E5%B0%87%E4%B8%8D%E6%9C%83%E9%80%B2%E8%A1%8C",
-    "timestamp": "2026-06-21T17:41:27.621Z",
     "strategy": ".content-card__main"
   }
 ];
