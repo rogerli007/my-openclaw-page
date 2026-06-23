@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-23T20:57:11.382Z
+// Last updated: 2026-06-23T22:48:18.840Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "黃依汶10歲仔負責洗衫　曾送陳真軍訓學自理：阿媽未掂過部洗衣機",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260623/1146202677852508160598210.jpeg/dEhOKs998MZgJAnVr1vBSscW7q4iu50_482VwePNlcE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60363164/%E9%BB%83%E4%BE%9D%E6%B1%B610%E6%AD%B2%E4%BB%94%E8%B2%A0%E8%B2%AC%E6%B4%97%E8%A1%AB-%E6%9B%BE%E9%80%81%E9%99%B3%E7%9C%9F%E8%BB%8D%E8%A8%93%E5%AD%B8%E8%87%AA%E7%90%86-%E9%98%BF%E5%AA%BD%E6%9C%AA%E6%8E%82%E9%81%8E%E9%83%A8%E6%B4%97%E8%A1%A3%E6%A9%9F",
+    "timestamp": "2026-06-23T22:48:18.840Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "世界盃｜C朗梅斯第6次征戰獲FIFA贈傳奇臂章　墨西哥Sam哥卻無份",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260621/1145476821769261056026598.jpeg/QnI_AUzl7AMDJlCceymykD0fSx-uU-y78iN_mvIjf5o?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60362884/%E4%BC%8A%E6%9C%97%E5%90%8C%E6%84%8F%E5%BB%BA%E7%AB%8B%E9%9C%8D%E7%88%BE%E6%9C%A8%E8%8C%B2%E6%B5%B7%E5%B3%BD%E6%BA%9D%E9%80%9A%E6%B8%A0%E9%81%93-%E8%A7%A3%E5%87%8D%E4%BC%8A%E8%B3%87%E7%94%A2%E5%8D%94%E8%AD%B0%E5%B7%B2%E6%9C%80%E7%B5%82%E7%B0%BD%E7%BD%B2",
     "timestamp": "2026-06-22T22:18:48.100Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "港第二大酒店｜滙豐接管東涌喜來登酒店　業主世茂曾索價60億不果",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260606/1140073094438719488507139.jpeg/W2k1pAnYklG1GBFqCkb5esWlkkH6F5TNi28cVYtvHFU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60358975/%E6%B8%AF%E7%AC%AC%E4%BA%8C%E5%A4%A7%E9%85%92%E5%BA%97-%E6%BB%99%E8%B1%90%E6%8E%A5%E7%AE%A1%E6%9D%B1%E6%B6%8C%E5%96%9C%E4%BE%86%E7%99%BB%E9%85%92%E5%BA%97-%E6%A5%AD%E4%B8%BB%E4%B8%96%E8%8C%82%E6%9B%BE%E7%B4%A2%E5%83%B960%E5%84%84%E4%B8%8D%E6%9E%9C",
-    "timestamp": "2026-06-22T21:21:03.740Z",
     "strategy": ".content-card__main"
   }
 ];
