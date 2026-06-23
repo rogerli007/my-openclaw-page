@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-23T23:18:56.177Z
+// Last updated: 2026-06-23T23:44:55.259Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "Google母企Alphabet「 染藍」　Verizon被踢出道指",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20251218/1078379042312294400687154.jpeg/hxtEpFKvjAvSAxHPn-7_H3BTnBc9ybcsMqoTIzKqEyM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60363280/google%E6%AF%8D%E4%BC%81alphabet-%E6%9F%93%E8%97%8D-verizon%E8%A2%AB%E8%B8%A2%E5%87%BA%E9%81%93%E6%8C%87",
+    "timestamp": "2026-06-23T23:44:55.259Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "滾回你的國家！加拿大咖啡店韓裔店主遭女客辱罵　影片曝光全網怒",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260622/1145771232348606464473059.png/wGYh9hRiD2Vj1OhH4NghmWC02jmUDBO1wMsQ3cDLEN0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60354496/%E6%B5%99%E6%B1%9F%E4%B8%83%E6%97%AC%E7%BF%81%E7%8B%82%E9%A3%9F%E9%A6%99%E8%95%89%E8%A3%9C%E9%89%80%E9%9A%AA%E9%80%81%E5%91%BD-%E6%97%A5%E9%A3%9F4%E6%A2%9D%E9%A6%99%E8%95%89%E8%87%B4%E9%AB%98%E9%89%80%E8%A1%80%E7%97%87%E5%85%A5icu",
     "timestamp": "2026-06-22T23:39:31.385Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "機場快綫駛入東涌綫青衣月台 　港鐵：為修復故障設備作車務調度",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260623/1145980658334568448735964.jpeg/vD6KxBkIKzWq5jT8ZafB3OD0S4LWzpkKNOiPyDToj8g",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60362886/%E6%A9%9F%E5%A0%B4%E5%BF%AB%E7%B6%AB%E9%A7%9B%E5%85%A5%E6%9D%B1%E6%B6%8C%E7%B6%AB%E9%9D%92%E8%A1%A3%E6%9C%88%E5%8F%B0-%E6%B8%AF%E9%90%B5-%E7%82%BA%E4%BF%AE%E5%BE%A9%E6%95%85%E9%9A%9C%E8%A8%AD%E5%82%99%E4%BD%9C%E8%BB%8A%E5%8B%99%E8%AA%BF%E5%BA%A6",
-    "timestamp": "2026-06-22T22:58:42.213Z",
     "strategy": ".content-card__main"
   }
 ];
