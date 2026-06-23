@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-23T08:20:17.328Z
+// Last updated: 2026-06-23T09:52:29.577Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "台灣時隔3年再現本土霍亂　70多歲婦人確診、感染源仍待釐清",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20210303/443844201852309504571240.jpeg/sM_5ngkte6Opgs1R5mIY0ISlNtfyMg1SF1kTCxdZEws?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8F%B0%E7%81%A3%E6%96%B0%E8%81%9E/60363103/%E5%8F%B0%E7%81%A3%E6%99%82%E9%9A%943%E5%B9%B4%E5%86%8D%E7%8F%BE%E6%9C%AC%E5%9C%9F%E9%9C%8D%E4%BA%82-70%E5%A4%9A%E6%AD%B2%E5%A9%A6%E4%BA%BA%E7%A2%BA%E8%A8%BA-%E6%84%9F%E6%9F%93%E6%BA%90%E4%BB%8D%E5%BE%85%E9%87%90%E6%B8%85",
+    "timestamp": "2026-06-23T09:52:29.577Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "菇功效｜杏鮑菇穩血壓、冬菇助防癌　4大菇類功效+煮法＋挑選技巧",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260621/1145404281843617792035849.png/t_kry4N-EO-HBMS06DpTgd_wiRPqKY1p4laZw-JWmcM",
     "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E8%A9%B1%E9%A1%8C/60361387/%E6%9C%89%E7%89%87-%E7%A7%81%E5%AE%B6%E8%BB%8A%E9%A0%82%E5%AE%A2%E8%B2%A8%E8%BB%8A%E6%AE%98%E9%AA%B8%E6%92%9E%E6%96%83%E5%85%AD%E6%97%AC%E6%B8%85%E6%BD%94%E5%B7%A5%E5%A4%AB%E5%A9%A6-%E5%8F%B8%E6%A9%9F%E6%B6%89%E9%86%89%E9%A7%95%E8%A2%AB%E6%8B%98%E7%95%99",
     "timestamp": "2026-06-21T23:18:51.280Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "哥倫比亞總統大選次輪投票　親美右翼候選人略佔優",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260622/1145614267827884032462053.jpeg/UR6QWuwhHY97pGoi7irH_1o7eQZBNhOJ6Zljh-mZY4c?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60362495/%E5%93%A5%E5%80%AB%E6%AF%94%E4%BA%9E%E7%B8%BD%E7%B5%B1%E5%A4%A7%E9%81%B8%E6%AC%A1%E8%BC%AA%E6%8A%95%E7%A5%A8-%E8%A6%AA%E7%BE%8E%E5%8F%B3%E7%BF%BC%E5%80%99%E9%81%B8%E4%BA%BA%E7%95%A5%E4%BD%94%E5%84%AA",
-    "timestamp": "2026-06-21T22:47:20.637Z",
     "strategy": ".content-card__main"
   }
 ];
