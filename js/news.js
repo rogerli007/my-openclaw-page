@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-23T22:48:18.840Z
+// Last updated: 2026-06-23T23:18:56.177Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "滾回你的國家！加拿大咖啡店韓裔店主遭女客辱罵　影片曝光全網怒",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260623/1146078603352477696107235.png/jwuPtL9dHX76m4mgZSYBSgRWR-UlUg5k7nZtXu52bV4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60347906/%E6%BB%BE%E5%9B%9E%E4%BD%A0%E7%9A%84%E5%9C%8B%E5%AE%B6-%E5%8A%A0%E6%8B%BF%E5%A4%A7%E5%92%96%E5%95%A1%E5%BA%97%E9%9F%93%E8%A3%94%E5%BA%97%E4%B8%BB%E9%81%AD%E5%A5%B3%E5%AE%A2%E8%BE%B1%E7%BD%B5-%E5%BD%B1%E7%89%87%E6%9B%9D%E5%85%89%E5%85%A8%E7%B6%B2%E6%80%92",
+    "timestamp": "2026-06-23T23:18:56.177Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "黃依汶10歲仔負責洗衫　曾送陳真軍訓學自理：阿媽未掂過部洗衣機",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260623/1145980658334568448735964.jpeg/vD6KxBkIKzWq5jT8ZafB3OD0S4LWzpkKNOiPyDToj8g",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60362886/%E6%A9%9F%E5%A0%B4%E5%BF%AB%E7%B6%AB%E9%A7%9B%E5%85%A5%E6%9D%B1%E6%B6%8C%E7%B6%AB%E9%9D%92%E8%A1%A3%E6%9C%88%E5%8F%B0-%E6%B8%AF%E9%90%B5-%E7%82%BA%E4%BF%AE%E5%BE%A9%E6%95%85%E9%9A%9C%E8%A8%AD%E5%82%99%E4%BD%9C%E8%BB%8A%E5%8B%99%E8%AA%BF%E5%BA%A6",
     "timestamp": "2026-06-22T22:58:42.213Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "伊朗同意建立霍爾木茲海峽溝通渠道　解凍伊資產協議已最終簽署",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260621/1145476821769261056026598.jpeg/QnI_AUzl7AMDJlCceymykD0fSx-uU-y78iN_mvIjf5o?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60362884/%E4%BC%8A%E6%9C%97%E5%90%8C%E6%84%8F%E5%BB%BA%E7%AB%8B%E9%9C%8D%E7%88%BE%E6%9C%A8%E8%8C%B2%E6%B5%B7%E5%B3%BD%E6%BA%9D%E9%80%9A%E6%B8%A0%E9%81%93-%E8%A7%A3%E5%87%8D%E4%BC%8A%E8%B3%87%E7%94%A2%E5%8D%94%E8%AD%B0%E5%B7%B2%E6%9C%80%E7%B5%82%E7%B0%BD%E7%BD%B2",
-    "timestamp": "2026-06-22T22:18:48.100Z",
     "strategy": ".content-card__main"
   }
 ];
