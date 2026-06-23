@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-23T06:57:03.904Z
+// Last updated: 2026-06-23T08:20:17.328Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "菇功效｜杏鮑菇穩血壓、冬菇助防癌　4大菇類功效+煮法＋挑選技巧",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260623/1146117274214600704359187.jpeg/IXjZmGs482a6wpdu22b_j0pXD4DGA5l97EWRS-xFkUs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60347082/%E8%8F%87%E5%8A%9F%E6%95%88-%E6%9D%8F%E9%AE%91%E8%8F%87%E7%A9%A9%E8%A1%80%E5%A3%93-%E5%86%AC%E8%8F%87%E5%8A%A9%E9%98%B2%E7%99%8C-4%E5%A4%A7%E8%8F%87%E9%A1%9E%E5%8A%9F%E6%95%88-%E7%85%AE%E6%B3%95-%E6%8C%91%E9%81%B8%E6%8A%80%E5%B7%A7",
+    "timestamp": "2026-06-23T08:20:17.328Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "Stray Kids演唱會2026香港｜門票優先公售攻略＋購票連結＋座位表",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260622/1145614267827884032462053.jpeg/UR6QWuwhHY97pGoi7irH_1o7eQZBNhOJ6Zljh-mZY4c?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60362495/%E5%93%A5%E5%80%AB%E6%AF%94%E4%BA%9E%E7%B8%BD%E7%B5%B1%E5%A4%A7%E9%81%B8%E6%AC%A1%E8%BC%AA%E6%8A%95%E7%A5%A8-%E8%A6%AA%E7%BE%8E%E5%8F%B3%E7%BF%BC%E5%80%99%E9%81%B8%E4%BA%BA%E7%95%A5%E4%BD%94%E5%84%AA",
     "timestamp": "2026-06-21T22:47:20.637Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "「最美亞姐」淡出娛圈52歲勁曬師奶Look　曾誤當富商小三重挫星途",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260621/1145492695423127552587361.jpeg/tMlUkWBOFMEBIQF3bft8nO2y1vu7QIRAuX681bl-vNU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60362417/%E6%A5%8A%E6%81%AD%E5%A6%82%E6%B7%A1%E5%87%BA%E5%A8%9B%E5%9C%8852%E6%AD%B2%E5%8B%81%E6%9B%AC%E5%B8%AB%E5%A5%B6look-%E6%9B%BE%E8%AA%A4%E7%95%B6%E5%AF%8C%E5%95%86%E5%B0%8F%E4%B8%89%E9%87%8D%E6%8C%AB%E6%98%9F%E9%80%94",
-    "timestamp": "2026-06-21T22:16:49.406Z",
     "strategy": ".content-card__main"
   }
 ];
