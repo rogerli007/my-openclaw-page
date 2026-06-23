@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-23T03:52:39.698Z
+// Last updated: 2026-06-23T05:35:50.443Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "日本「限制級盲盒」街頭摸胸片狂吸8億觀看！ 網民怒轟：道德淪喪",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260623/1146079786922151936593814.jpeg/Q6Ts19KYjHvbNwEkVZXJQO30dwryk3q2VSa9IVUmvSE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%96%8B%E7%BD%90/60362913/%E6%97%A5%E6%9C%AC-%E9%99%90%E5%88%B6%E7%B4%9A%E7%9B%B2%E7%9B%92-%E8%A1%97%E9%A0%AD%E6%91%B8%E8%83%B8%E7%89%87%E7%8B%82%E5%90%B88%E5%84%84%E8%A7%80%E7%9C%8B-%E7%B6%B2%E6%B0%91%E6%80%92%E8%BD%9F-%E9%81%93%E5%BE%B7%E6%B7%AA%E5%96%AA",
+    "timestamp": "2026-06-23T05:35:50.443Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "李強大連調研　強調要加強引領性科技攻關　發展高端裝備製造業",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260622/1145593451169976320316540.jpeg/2N5jtvxNb1SPluliHqW2GozEsOGASOy_CUI60QlCOtE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60362492/%E4%B8%96%E7%95%8C%E7%9B%832026-%E6%AF%94%E5%88%A9%E6%99%820-0%E6%88%B0%E5%B9%B3%E4%BC%8A%E6%9C%97-%E5%85%A9%E9%9A%8A%E5%85%A9%E6%88%B0%E7%9A%86%E5%92%8C%E7%A9%8D%E5%85%A9%E5%88%86",
     "timestamp": "2026-06-21T21:41:21.639Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "Save Lily│父斥當局忽視《兒童權利公約》不尊重Danny食人奶意願",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260622/1145576455363629056506489.jpeg/uxUGapZqKGoPvSRLAZo59P3n4FOdem8EzrGBIs6xgSI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60362490/save-lily-%E7%88%B6%E6%96%A5%E7%95%B6%E5%B1%80%E5%BF%BD%E8%A6%96-%E5%85%92%E7%AB%A5%E6%AC%8A%E5%88%A9%E5%85%AC%E7%B4%84-%E4%B8%8D%E5%B0%8A%E9%87%8Ddanny%E9%A3%9F%E4%BA%BA%E5%A5%B6%E6%84%8F%E9%A1%98",
-    "timestamp": "2026-06-21T20:21:20.745Z",
     "strategy": ".content-card__main"
   }
 ];
