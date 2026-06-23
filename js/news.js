@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-23T11:13:11.681Z
+// Last updated: 2026-06-23T12:20:54.805Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "洪森6.25起訪中國",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20251208/1074667828411371520973168.jpeg/vUaByWifKzxw9Ef-FZ1HfkTV3oJskUgS-AG0J_gBtCc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60363215/%E6%B4%AA%E6%A3%AE6-25%E8%B5%B7%E8%A8%AA%E4%B8%AD%E5%9C%8B",
+    "timestamp": "2026-06-23T12:20:54.805Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "巴士大叔食雞腳！吐出雞骨隨手扔地　乘客拍片公審　網民怒斥缺德",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250509/997519269627564032364781.jpeg/Bwt4GTo37lNCPINyJiHTqb_mpnm1cjswtknzZLZJ82Q?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60362641/%E8%9E%9E%E8%9F%BB%E9%9B%86%E5%9C%98%E8%91%A3%E4%BA%8B%E5%B1%80%E6%8F%9B%E5%B1%86-%E5%B0%8F%E9%B5%AC%E8%91%A3%E4%BA%8B%E9%95%B7%E4%BD%95%E5%B0%8F%E9%B5%AC%E7%AD%893%E4%BA%BA%E6%96%B0%E7%8D%B2%E5%A7%94%E4%BB%BB%E7%8D%A8%E8%91%A3",
     "timestamp": "2026-06-22T05:24:50.846Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "東張西望｜22歲靚女被自稱鍾澍佳助理呃　話有得睇《金宵大廈3》",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260621/1145495870368649216250164.jpeg/JpcOXfK5ROjWB7jP2FET3bCj3VtyxAJ8R3akzkd2pM4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60362467/%E6%9D%B1%E5%BC%B5%E8%A5%BF%E6%9C%9B-22%E6%AD%B2%E9%9D%9A%E5%A5%B3%E8%A2%AB%E8%87%AA%E7%A8%B1%E9%8D%BE%E6%BE%8D%E4%BD%B3%E5%8A%A9%E7%90%86%E5%91%83-%E8%A9%B1%E6%9C%89%E5%BE%97%E7%9D%87-%E9%87%91%E5%AE%B5%E5%A4%A7%E5%BB%883",
-    "timestamp": "2026-06-21T23:53:16.783Z",
     "strategy": ".content-card__main"
   }
 ];
