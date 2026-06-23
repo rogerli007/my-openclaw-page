@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-23T00:19:33.188Z
+// Last updated: 2026-06-23T01:20:28.310Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "日圓下試40年低位　日美財長據報商討匯價　今早圓價偏穩",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20240229/839836073986101248907384.jpeg/bUbGUOjuCfAGMa403gq2BuDk6nWuqxz03sZaa97GWms?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60362896/%E6%97%A5%E5%9C%93%E4%B8%8B%E8%A9%A640%E5%B9%B4%E4%BD%8E%E4%BD%8D-%E6%97%A5%E7%BE%8E%E8%B2%A1%E9%95%B7%E6%93%9A%E5%A0%B1%E5%95%86%E8%A8%8E%E5%8C%AF%E5%83%B9-%E4%BB%8A%E6%97%A9%E5%9C%93%E5%83%B9%E5%81%8F%E7%A9%A9",
+    "timestamp": "2026-06-23T01:20:28.310Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "大馬旅客遊中國捂鼻：中國人很臭、不洗澡　遭中馬網民狂轟後道歉",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260622/1145553289056620544132497.jpeg/WaHf7aAAlrGj7NXD3Cx-fWWTr5qhn4EEZLJTk2SyU5M?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60362484/%E4%B8%96%E7%95%8C%E7%9B%832026-%E8%A5%BF%E7%8F%AD%E7%89%994-0%E5%A4%A7%E5%8B%9D%E6%B2%99%E7%89%B9%E9%98%BF%E6%8B%89%E4%BC%AF-%E5%A5%A7%E8%80%B6%E6%B2%99%E5%B7%B4%E7%88%BE%E6%A2%85%E9%96%8B%E4%BA%8C%E5%BA%A6",
     "timestamp": "2026-06-21T19:41:05.450Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "世界盃2026｜西班牙4:0大勝沙特阿拉伯　奧耶沙巴爾梅開二度",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260622/1145553289056620544132497.jpeg/WaHf7aAAlrGj7NXD3Cx-fWWTr5qhn4EEZLJTk2SyU5M?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60362484/%E4%B8%96%E7%95%8C%E7%9B%832026-%E8%A5%BF%E7%8F%AD%E7%89%994-0%E5%A4%A7%E5%8B%9D%E6%B2%99%E7%89%B9%E9%98%BF%E6%8B%89%E4%BC%AF-%E5%A5%A7%E8%80%B6%E6%B2%99%E5%B7%B4%E7%88%BE%E6%A2%85%E9%96%8B%E4%BA%8C%E5%BA%A6",
-    "timestamp": "2026-06-21T18:56:49.722Z",
     "strategy": ".content-card__main"
   }
 ];
