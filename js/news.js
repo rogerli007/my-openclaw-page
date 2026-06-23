@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-23T18:17:46.970Z
+// Last updated: 2026-06-23T19:05:57.879Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "DJI Osmo Pocket 4評測｜影像、操作升級 新增內置儲存｜同級對比",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260624/1146275175839305728091823.jpeg/A3266FvkaMCb015ESV5X1yRzXud7pQ1vU0vBwVNLwcE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60363251/dji-osmo-pocket-4%E8%A9%95%E6%B8%AC-%E5%BD%B1%E5%83%8F-%E6%93%8D%E4%BD%9C%E5%8D%87%E7%B4%9A-%E6%96%B0%E5%A2%9E%E5%85%A7%E7%BD%AE%E5%84%B2%E5%AD%98-%E5%90%8C%E7%B4%9A%E5%B0%8D%E6%AF%94",
+    "timestamp": "2026-06-23T19:05:57.879Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "普京：願在伊斯坦堡框架下與烏克蘭重啟談判",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20220321/582642689745620992025891.jpeg/sJL7gxvQugLHn6d0vXzw9dzQs0N_maJXBgK_yywCv8s?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60362861/%E7%81%AB%E9%8D%8B%E4%B8%AD%E8%8F%9C%E5%BA%97%E5%BE%A1%E5%B0%9A%E8%BB%92%E6%8B%96%E6%AC%A0-%E5%B7%A5%E5%82%B7%E7%97%85%E5%81%87%E9%8C%A2-%E9%81%AD%E5%8B%9E%E5%B7%A5%E8%99%95%E6%AA%A2%E6%8E%A7-%E5%88%A4%E7%BD%B08%E8%90%AC%E5%85%83",
     "timestamp": "2026-06-22T15:37:17.483Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "阿根廷世界盃2026｜國家隊球員名單陣容名單+足球排名+最新賽程",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260417/1121871261207629824702984.jpeg/6EgoSEp_iPGDAjYw_wtvAZugS3JwZBfuTX-baU1_m2k?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60341303/%E9%98%BF%E6%A0%B9%E5%BB%B7%E4%B8%96%E7%95%8C%E7%9B%832026-%E5%9C%8B%E5%AE%B6%E9%9A%8A%E7%90%83%E5%93%A1%E5%90%8D%E5%96%AE%E9%99%A3%E5%AE%B9%E5%90%8D%E5%96%AE-%E8%B6%B3%E7%90%83%E6%8E%92%E5%90%8D-%E6%9C%80%E6%96%B0%E8%B3%BD%E7%A8%8B",
-    "timestamp": "2026-06-22T13:46:22.002Z",
     "strategy": ".content-card__main"
   }
 ];
