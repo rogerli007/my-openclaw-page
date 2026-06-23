@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-23T17:31:10.975Z
+// Last updated: 2026-06-23T18:17:46.970Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "普京：願在伊斯坦堡框架下與烏克蘭重啟談判",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260605/1139414778964348928623795.jpeg/keo0JBTfFh5M8hWmMXJFJV_aR0eWeuxzyMwG88jMBvM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60363249/%E6%99%AE%E4%BA%AC-%E9%A1%98%E5%9C%A8%E4%BC%8A%E6%96%AF%E5%9D%A6%E5%A0%A1%E6%A1%86%E6%9E%B6%E4%B8%8B%E8%88%87%E7%83%8F%E5%85%8B%E8%98%AD%E9%87%8D%E5%95%9F%E8%AB%87%E5%88%A4",
+    "timestamp": "2026-06-23T18:17:46.970Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "被問會否想更上一層樓？林定國：同買六合彩冇乜分別　無認真去諗",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260417/1121871261207629824702984.jpeg/6EgoSEp_iPGDAjYw_wtvAZugS3JwZBfuTX-baU1_m2k?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60341303/%E9%98%BF%E6%A0%B9%E5%BB%B7%E4%B8%96%E7%95%8C%E7%9B%832026-%E5%9C%8B%E5%AE%B6%E9%9A%8A%E7%90%83%E5%93%A1%E5%90%8D%E5%96%AE%E9%99%A3%E5%AE%B9%E5%90%8D%E5%96%AE-%E8%B6%B3%E7%90%83%E6%8E%92%E5%90%8D-%E6%9C%80%E6%96%B0%E8%B3%BD%E7%A8%8B",
     "timestamp": "2026-06-22T13:46:22.002Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美軍轟炸伊朗小學致175人死亡　人們擔心美國正在掩蓋真相",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260622/1145792360085458944482967.jpeg/S5GEysdN2eVYqmRTxP21STZHtc2x3N_LVSwFYFUsBWA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60362802/%E7%BE%8E%E8%BB%8D%E8%BD%9F%E7%82%B8%E4%BC%8A%E6%9C%97%E5%B0%8F%E5%AD%B8%E8%87%B4175%E4%BA%BA%E6%AD%BB%E4%BA%A1-%E4%BA%BA%E5%80%91%E6%93%94%E5%BF%83%E7%BE%8E%E5%9C%8B%E6%AD%A3%E5%9C%A8%E6%8E%A9%E8%93%8B%E7%9C%9F%E7%9B%B8",
-    "timestamp": "2026-06-22T11:46:52.323Z",
     "strategy": ".content-card__main"
   }
 ];
