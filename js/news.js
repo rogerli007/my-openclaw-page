@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-23T14:29:46.188Z
+// Last updated: 2026-06-23T15:38:13.688Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "賈曉晨為樊少皇慶生甜笑依偎　JJ凍齡狀態驚人膚質白皙不輸少女",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260623/1146090469113991168490136.jpeg/mZR7sjf1fr6JfxvdaHIcmQx1H04EcHb1uYyZ1LmMmdQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60362971/%E8%B3%88%E6%9B%89%E6%99%A8%E7%82%BA%E6%A8%8A%E5%B0%91%E7%9A%87%E6%85%B6%E7%94%9F%E7%94%9C%E7%AC%91%E4%BE%9D%E5%81%8E-jj%E5%87%8D%E9%BD%A1%E7%8B%80%E6%85%8B%E9%A9%9A%E4%BA%BA%E8%86%9A%E8%B3%AA%E7%99%BD%E7%9A%99%E4%B8%8D%E8%BC%B8%E5%B0%91%E5%A5%B3",
+    "timestamp": "2026-06-23T15:38:13.688Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "東張西望｜拋糞男子指沒有垃圾桶不方便　知衰即道歉但避談罰款",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260622/1145773331283185664876495.jpeg/L6NFX6oZ1IHx5DU2qp6zm63UBw5dRJz5YmMkz2JjJM8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60362745/2026%E4%B8%96%E7%95%8C%E7%9B%83-%E7%94%B7%E6%98%9F%E6%9D%8E%E7%8F%BE%E9%96%8B%E7%90%83%E6%88%90%E5%85%A7%E5%9C%B0%E7%AC%AC%E4%B8%80%E4%BA%BA-%E7%82%BA%E4%BD%95%E5%AE%98%E6%96%B9%E6%9C%AA%E6%9C%89%E8%BD%89%E6%92%AD",
     "timestamp": "2026-06-22T09:36:18.293Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "周星馳《功夫女足》預告7月上映　迎戰《魔海奇緣》與《多啦A夢》",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260622/1145740026991087616561038.jpeg/mk8somNhrHy8Akcah_6-WeGd6nY6v3I9Rsjc9kbI3PY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60362647/%E5%91%A8%E6%98%9F%E9%A6%B3-%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3-%E9%A0%90%E5%91%8A7%E6%9C%88%E4%B8%8A%E6%98%A0-%E8%BF%8E%E6%88%B0-%E9%AD%94%E6%B5%B7%E5%A5%87%E7%B7%A3-%E8%88%87-%E5%A4%9A%E5%95%A6a%E5%A4%A2",
-    "timestamp": "2026-06-22T07:24:19.624Z",
     "strategy": ".content-card__main"
   }
 ];
