@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-23T12:20:54.805Z
+// Last updated: 2026-06-23T14:29:46.188Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "東張西望｜拋糞男子指沒有垃圾桶不方便　知衰即道歉但避談罰款",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260623/1146202036266602496143965.jpeg/Y6wZmx_u09vaxFAIhBJW6poPg1jBulZd6Icv3eiHL90?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60363225/%E6%9D%B1%E5%BC%B5%E8%A5%BF%E6%9C%9B-%E6%8B%8B%E7%B3%9E%E7%94%B7%E5%AD%90%E6%8C%87%E6%B2%92%E6%9C%89%E5%9E%83%E5%9C%BE%E6%A1%B6%E4%B8%8D%E6%96%B9%E4%BE%BF-%E7%9F%A5%E8%A1%B0%E5%8D%B3%E9%81%93%E6%AD%89%E4%BD%86%E9%81%BF%E8%AB%87%E7%BD%B0%E6%AC%BE",
+    "timestamp": "2026-06-23T14:29:46.188Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "洪森6.25起訪中國",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260622/1145740026991087616561038.jpeg/mk8somNhrHy8Akcah_6-WeGd6nY6v3I9Rsjc9kbI3PY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60362647/%E5%91%A8%E6%98%9F%E9%A6%B3-%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3-%E9%A0%90%E5%91%8A7%E6%9C%88%E4%B8%8A%E6%98%A0-%E8%BF%8E%E6%88%B0-%E9%AD%94%E6%B5%B7%E5%A5%87%E7%B7%A3-%E8%88%87-%E5%A4%9A%E5%95%A6a%E5%A4%A2",
     "timestamp": "2026-06-22T07:24:19.624Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "螞蟻集團董事局換屆　小鵬董事長何小鵬等3人新獲委任獨董",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250509/997519269627564032364781.jpeg/Bwt4GTo37lNCPINyJiHTqb_mpnm1cjswtknzZLZJ82Q?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60362641/%E8%9E%9E%E8%9F%BB%E9%9B%86%E5%9C%98%E8%91%A3%E4%BA%8B%E5%B1%80%E6%8F%9B%E5%B1%86-%E5%B0%8F%E9%B5%AC%E8%91%A3%E4%BA%8B%E9%95%B7%E4%BD%95%E5%B0%8F%E9%B5%AC%E7%AD%893%E4%BA%BA%E6%96%B0%E7%8D%B2%E5%A7%94%E4%BB%BB%E7%8D%A8%E8%91%A3",
-    "timestamp": "2026-06-22T05:24:50.846Z",
     "strategy": ".content-card__main"
   }
 ];
