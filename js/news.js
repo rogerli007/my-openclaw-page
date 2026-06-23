@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-23T01:20:28.310Z
+// Last updated: 2026-06-23T03:52:39.698Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "李強大連調研　強調要加強引領性科技攻關　發展高端裝備製造業",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260623/1146050612442435584059874.jpeg/yiEwbg4GTXjB_MWEfmI-bqo4IFeLXu-HLdZReS3WUXk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60362957/%E6%9D%8E%E5%BC%B7%E5%A4%A7%E9%80%A3%E8%AA%BF%E7%A0%94-%E5%BC%B7%E8%AA%BF%E8%A6%81%E5%8A%A0%E5%BC%B7%E5%BC%95%E9%A0%98%E6%80%A7%E7%A7%91%E6%8A%80%E6%94%BB%E9%97%9C-%E7%99%BC%E5%B1%95%E9%AB%98%E7%AB%AF%E8%A3%9D%E5%82%99%E8%A3%BD%E9%80%A0%E6%A5%AD",
+    "timestamp": "2026-06-23T03:52:39.698Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "日圓下試40年低位　日美財長據報商討匯價　今早圓價偏穩",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260622/1145576455363629056506489.jpeg/uxUGapZqKGoPvSRLAZo59P3n4FOdem8EzrGBIs6xgSI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60362490/save-lily-%E7%88%B6%E6%96%A5%E7%95%B6%E5%B1%80%E5%BF%BD%E8%A6%96-%E5%85%92%E7%AB%A5%E6%AC%8A%E5%88%A9%E5%85%AC%E7%B4%84-%E4%B8%8D%E5%B0%8A%E9%87%8Ddanny%E9%A3%9F%E4%BA%BA%E5%A5%B6%E6%84%8F%E9%A1%98",
     "timestamp": "2026-06-21T20:21:20.745Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "世界盃2026｜西班牙4:0大勝沙特阿拉伯　奧耶沙巴爾梅開二度",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260622/1145553289056620544132497.jpeg/WaHf7aAAlrGj7NXD3Cx-fWWTr5qhn4EEZLJTk2SyU5M?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60362484/%E4%B8%96%E7%95%8C%E7%9B%832026-%E8%A5%BF%E7%8F%AD%E7%89%994-0%E5%A4%A7%E5%8B%9D%E6%B2%99%E7%89%B9%E9%98%BF%E6%8B%89%E4%BC%AF-%E5%A5%A7%E8%80%B6%E6%B2%99%E5%B7%B4%E7%88%BE%E6%A2%85%E9%96%8B%E4%BA%8C%E5%BA%A6",
-    "timestamp": "2026-06-21T19:41:05.450Z",
     "strategy": ".content-card__main"
   }
 ];
