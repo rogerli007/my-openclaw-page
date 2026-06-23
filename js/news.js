@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-23T19:05:57.879Z
+// Last updated: 2026-06-23T20:01:11.184Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "魯比奧：美伊最終協議不會讓伊朗對海峽收費　伊方擬與阿曼商收費",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260624/1146292314843385856543618.jpeg/uEQ43N7M2SHFrQH0Pmize5gct-w7a9OAk4MsI5ODLCM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60363253/%E9%AD%AF%E6%AF%94%E5%A5%A7-%E7%BE%8E%E4%BC%8A%E6%9C%80%E7%B5%82%E5%8D%94%E8%AD%B0%E4%B8%8D%E6%9C%83%E8%AE%93%E4%BC%8A%E6%9C%97%E5%B0%8D%E6%B5%B7%E5%B3%BD%E6%94%B6%E8%B2%BB-%E4%BC%8A%E6%96%B9%E6%93%AC%E8%88%87%E9%98%BF%E6%9B%BC%E5%95%86%E6%94%B6%E8%B2%BB",
+    "timestamp": "2026-06-23T20:01:11.184Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "DJI Osmo Pocket 4評測｜影像、操作升級 新增內置儲存｜同級對比",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260623/1145929333752205312243078.jpeg/LEFjIP-CYz1Wj5TZFveqWwuf2eLU5ttFUsxevlLMXr4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60362875/%E4%B8%96%E7%95%8C%E7%9B%832026-%E9%98%BF%E6%A0%B9%E5%BB%B72-0%E5%A5%A7%E5%9C%B0%E5%88%A9%E5%87%BA%E7%B7%9A32%E5%BC%B7-%E7%BE%8E%E6%96%AF%E5%85%B118%E5%85%A5%E7%90%83%E7%A0%B4%E4%B8%96%E7%9B%83%E7%B4%80%E9%8C%84",
     "timestamp": "2026-06-22T20:09:48.222Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "火鍋中菜店御尚軒拖欠「工傷病假錢」遭勞工處檢控　判罰8萬元",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20220321/582642689745620992025891.jpeg/sJL7gxvQugLHn6d0vXzw9dzQs0N_maJXBgK_yywCv8s?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60362861/%E7%81%AB%E9%8D%8B%E4%B8%AD%E8%8F%9C%E5%BA%97%E5%BE%A1%E5%B0%9A%E8%BB%92%E6%8B%96%E6%AC%A0-%E5%B7%A5%E5%82%B7%E7%97%85%E5%81%87%E9%8C%A2-%E9%81%AD%E5%8B%9E%E5%B7%A5%E8%99%95%E6%AA%A2%E6%8E%A7-%E5%88%A4%E7%BD%B08%E8%90%AC%E5%85%83",
-    "timestamp": "2026-06-22T15:37:17.483Z",
     "strategy": ".content-card__main"
   }
 ];
