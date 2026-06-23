@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-22T23:39:31.385Z
+// Last updated: 2026-06-23T00:19:33.188Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "大馬旅客遊中國捂鼻：中國人很臭、不洗澡　遭中馬網民狂轟後道歉",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260622/1145866549551173632780459.png/6WXIVSkWE4tc97iOiT5fc6cgmJckX-HdcCLL4HAiy-A",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60362703/%E5%A4%A7%E9%A6%AC%E6%97%85%E5%AE%A2%E9%81%8A%E4%B8%AD%E5%9C%8B%E6%8D%82%E9%BC%BB-%E4%B8%AD%E5%9C%8B%E4%BA%BA%E5%BE%88%E8%87%AD-%E4%B8%8D%E6%B4%97%E6%BE%A1-%E9%81%AD%E4%B8%AD%E9%A6%AC%E7%B6%B2%E6%B0%91%E7%8B%82%E8%BD%9F%E5%BE%8C%E9%81%93%E6%AD%89",
+    "timestamp": "2026-06-23T00:19:33.188Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "浙江七旬翁狂食香蕉補鉀險送命！日食4條香蕉致高鉀血症入ICU",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260622/1145553289056620544132497.jpeg/WaHf7aAAlrGj7NXD3Cx-fWWTr5qhn4EEZLJTk2SyU5M?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60362484/%E4%B8%96%E7%95%8C%E7%9B%832026-%E8%A5%BF%E7%8F%AD%E7%89%994-0%E5%A4%A7%E5%8B%9D%E6%B2%99%E7%89%B9%E9%98%BF%E6%8B%89%E4%BC%AF-%E5%A5%A7%E8%80%B6%E6%B2%99%E5%B7%B4%E7%88%BE%E6%A2%85%E9%96%8B%E4%BA%8C%E5%BA%A6",
     "timestamp": "2026-06-21T18:56:49.722Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "比利時對伊朗2026世界盃｜國家足球隊球員名單出爐+直播時間",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260616/1143526005093175296726310.jpeg/Gwz5UrKkC3A__lPy9SlIw8JORSwadM8Jr2_U1K9v1NQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60360743/%E6%AF%94%E5%88%A9%E6%99%82%E5%B0%8D%E4%BC%8A%E6%9C%972026%E4%B8%96%E7%95%8C%E7%9B%83-%E5%9C%8B%E5%AE%B6%E8%B6%B3%E7%90%83%E9%9A%8A%E7%90%83%E5%93%A1%E5%90%8D%E5%96%AE%E5%87%BA%E7%88%90-%E7%9B%B4%E6%92%AD%E6%99%82%E9%96%93",
-    "timestamp": "2026-06-21T18:17:54.480Z",
     "strategy": ".content-card__main"
   }
 ];
