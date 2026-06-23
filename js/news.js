@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-23T15:38:13.688Z
+// Last updated: 2026-06-23T17:31:10.975Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "被問會否想更上一層樓？林定國：同買六合彩冇乜分別　無認真去諗",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250627/1015307737707319296521074.jpeg/JTbvQYmXCSk8xlH2GCJHCLy-d7FXjDOtkcxPJJHMTyQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60363252/%E8%A2%AB%E5%95%8F%E6%9C%83%E5%90%A6%E6%83%B3%E6%9B%B4%E4%B8%8A%E4%B8%80%E5%B1%A4%E6%A8%93-%E6%9E%97%E5%AE%9A%E5%9C%8B-%E5%90%8C%E8%B2%B7%E5%85%AD%E5%90%88%E5%BD%A9%E5%86%87%E4%B9%9C%E5%88%86%E5%88%A5-%E7%84%A1%E8%AA%8D%E7%9C%9F%E5%8E%BB%E8%AB%97",
+    "timestamp": "2026-06-23T17:31:10.975Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "賈曉晨為樊少皇慶生甜笑依偎　JJ凍齡狀態驚人膚質白皙不輸少女",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260622/1145792360085458944482967.jpeg/S5GEysdN2eVYqmRTxP21STZHtc2x3N_LVSwFYFUsBWA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60362802/%E7%BE%8E%E8%BB%8D%E8%BD%9F%E7%82%B8%E4%BC%8A%E6%9C%97%E5%B0%8F%E5%AD%B8%E8%87%B4175%E4%BA%BA%E6%AD%BB%E4%BA%A1-%E4%BA%BA%E5%80%91%E6%93%94%E5%BF%83%E7%BE%8E%E5%9C%8B%E6%AD%A3%E5%9C%A8%E6%8E%A9%E8%93%8B%E7%9C%9F%E7%9B%B8",
     "timestamp": "2026-06-22T11:46:52.323Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "2026世界盃｜男星李現開球成內地第一人　為何官方未有轉播？",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260622/1145773331283185664876495.jpeg/L6NFX6oZ1IHx5DU2qp6zm63UBw5dRJz5YmMkz2JjJM8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60362745/2026%E4%B8%96%E7%95%8C%E7%9B%83-%E7%94%B7%E6%98%9F%E6%9D%8E%E7%8F%BE%E9%96%8B%E7%90%83%E6%88%90%E5%85%A7%E5%9C%B0%E7%AC%AC%E4%B8%80%E4%BA%BA-%E7%82%BA%E4%BD%95%E5%AE%98%E6%96%B9%E6%9C%AA%E6%9C%89%E8%BD%89%E6%92%AD",
-    "timestamp": "2026-06-22T09:36:18.293Z",
     "strategy": ".content-card__main"
   }
 ];
