@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-23T20:01:11.184Z
+// Last updated: 2026-06-23T20:57:11.382Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "世界盃｜C朗梅斯第6次征戰獲FIFA贈傳奇臂章　墨西哥Sam哥卻無份",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260624/1146305514737504256753041.jpeg/8x7WcEo-tcJbYHZ8RswyvyLOjaMqJY6dWvMcHVrzHB0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%92%B0%E7%90%83%E8%B6%A3%E8%81%9E/60363261/%E4%B8%96%E7%95%8C%E7%9B%83-c%E6%9C%97%E6%A2%85%E6%96%AF%E7%AC%AC6%E6%AC%A1%E5%BE%81%E6%88%B0%E7%8D%B2fifa%E8%B4%88%E5%82%B3%E5%A5%87%E8%87%82%E7%AB%A0-%E5%A2%A8%E8%A5%BF%E5%93%A5sam%E5%93%A5%E5%8D%BB%E7%84%A1%E4%BB%BD",
+    "timestamp": "2026-06-23T20:57:11.382Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "魯比奧：美伊最終協議不會讓伊朗對海峽收費　伊方擬與阿曼商收費",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260606/1140073094438719488507139.jpeg/W2k1pAnYklG1GBFqCkb5esWlkkH6F5TNi28cVYtvHFU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60358975/%E6%B8%AF%E7%AC%AC%E4%BA%8C%E5%A4%A7%E9%85%92%E5%BA%97-%E6%BB%99%E8%B1%90%E6%8E%A5%E7%AE%A1%E6%9D%B1%E6%B6%8C%E5%96%9C%E4%BE%86%E7%99%BB%E9%85%92%E5%BA%97-%E6%A5%AD%E4%B8%BB%E4%B8%96%E8%8C%82%E6%9B%BE%E7%B4%A2%E5%83%B960%E5%84%84%E4%B8%8D%E6%9E%9C",
     "timestamp": "2026-06-22T21:21:03.740Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "世界盃2026｜阿根廷2:0奧地利出線32強　美斯共18入球破世盃紀錄",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260623/1145929333752205312243078.jpeg/LEFjIP-CYz1Wj5TZFveqWwuf2eLU5ttFUsxevlLMXr4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60362875/%E4%B8%96%E7%95%8C%E7%9B%832026-%E9%98%BF%E6%A0%B9%E5%BB%B72-0%E5%A5%A7%E5%9C%B0%E5%88%A9%E5%87%BA%E7%B7%9A32%E5%BC%B7-%E7%BE%8E%E6%96%AF%E5%85%B118%E5%85%A5%E7%90%83%E7%A0%B4%E4%B8%96%E7%9B%83%E7%B4%80%E9%8C%84",
-    "timestamp": "2026-06-22T20:09:48.222Z",
     "strategy": ".content-card__main"
   }
 ];
