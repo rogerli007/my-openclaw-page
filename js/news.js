@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-23T09:52:29.577Z
+// Last updated: 2026-06-23T11:13:11.681Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "巴士大叔食雞腳！吐出雞骨隨手扔地　乘客拍片公審　網民怒斥缺德",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260621/1145203039603265536210684.png/2BiTIbmxWfZpVcqHMTRMOHo45zA9rpYt1rfeFNa33hQ",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60362177/%E5%B7%B4%E5%A3%AB%E5%A4%A7%E5%8F%94%E9%A3%9F%E9%9B%9E%E8%85%B3-%E5%90%90%E5%87%BA%E9%9B%9E%E9%AA%A8%E9%9A%A8%E6%89%8B%E6%89%94%E5%9C%B0-%E4%B9%98%E5%AE%A2%E6%8B%8D%E7%89%87%E5%85%AC%E5%AF%A9-%E7%B6%B2%E6%B0%91%E6%80%92%E6%96%A5%E7%BC%BA%E5%BE%B7",
+    "timestamp": "2026-06-23T11:13:11.681Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "台灣時隔3年再現本土霍亂　70多歲婦人確診、感染源仍待釐清",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260621/1145495870368649216250164.jpeg/JpcOXfK5ROjWB7jP2FET3bCj3VtyxAJ8R3akzkd2pM4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60362467/%E6%9D%B1%E5%BC%B5%E8%A5%BF%E6%9C%9B-22%E6%AD%B2%E9%9D%9A%E5%A5%B3%E8%A2%AB%E8%87%AA%E7%A8%B1%E9%8D%BE%E6%BE%8D%E4%BD%B3%E5%8A%A9%E7%90%86%E5%91%83-%E8%A9%B1%E6%9C%89%E5%BE%97%E7%9D%87-%E9%87%91%E5%AE%B5%E5%A4%A7%E5%BB%883",
     "timestamp": "2026-06-21T23:53:16.783Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "有片！私家車頂客貨車殘骸撞斃六旬清潔工夫婦　司機涉醉駕被拘留",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260621/1145404281843617792035849.png/t_kry4N-EO-HBMS06DpTgd_wiRPqKY1p4laZw-JWmcM",
-    "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E8%A9%B1%E9%A1%8C/60361387/%E6%9C%89%E7%89%87-%E7%A7%81%E5%AE%B6%E8%BB%8A%E9%A0%82%E5%AE%A2%E8%B2%A8%E8%BB%8A%E6%AE%98%E9%AA%B8%E6%92%9E%E6%96%83%E5%85%AD%E6%97%AC%E6%B8%85%E6%BD%94%E5%B7%A5%E5%A4%AB%E5%A9%A6-%E5%8F%B8%E6%A9%9F%E6%B6%89%E9%86%89%E9%A7%95%E8%A2%AB%E6%8B%98%E7%95%99",
-    "timestamp": "2026-06-21T23:18:51.280Z",
     "strategy": ".content-card__main"
   }
 ];
