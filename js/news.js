@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-23T05:35:50.443Z
+// Last updated: 2026-06-23T06:57:03.904Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "Stray Kids演唱會2026香港｜門票優先公售攻略＋購票連結＋座位表",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260623/1146091763329404928928734.jpeg/MQ9waJwS7Wml_JC6GSoOWTOGycdq0ranvLi6nby4up0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60363033/stray-kids%E6%BC%94%E5%94%B1%E6%9C%832026%E9%A6%99%E6%B8%AF-%E9%96%80%E7%A5%A8%E5%84%AA%E5%85%88%E5%85%AC%E5%94%AE%E6%94%BB%E7%95%A5-%E8%B3%BC%E7%A5%A8%E9%80%A3%E7%B5%90-%E5%BA%A7%E4%BD%8D%E8%A1%A8",
+    "timestamp": "2026-06-23T06:57:03.904Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "日本「限制級盲盒」街頭摸胸片狂吸8億觀看！ 網民怒轟：道德淪喪",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260621/1145492695423127552587361.jpeg/tMlUkWBOFMEBIQF3bft8nO2y1vu7QIRAuX681bl-vNU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60362417/%E6%A5%8A%E6%81%AD%E5%A6%82%E6%B7%A1%E5%87%BA%E5%A8%9B%E5%9C%8852%E6%AD%B2%E5%8B%81%E6%9B%AC%E5%B8%AB%E5%A5%B6look-%E6%9B%BE%E8%AA%A4%E7%95%B6%E5%AF%8C%E5%95%86%E5%B0%8F%E4%B8%89%E9%87%8D%E6%8C%AB%E6%98%9F%E9%80%94",
     "timestamp": "2026-06-21T22:16:49.406Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "世界盃2026｜比利時0:0戰平伊朗　兩隊兩戰皆和積兩分",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260622/1145593451169976320316540.jpeg/2N5jtvxNb1SPluliHqW2GozEsOGASOy_CUI60QlCOtE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60362492/%E4%B8%96%E7%95%8C%E7%9B%832026-%E6%AF%94%E5%88%A9%E6%99%820-0%E6%88%B0%E5%B9%B3%E4%BC%8A%E6%9C%97-%E5%85%A9%E9%9A%8A%E5%85%A9%E6%88%B0%E7%9A%86%E5%92%8C%E7%A9%8D%E5%85%A9%E5%88%86",
-    "timestamp": "2026-06-21T21:41:21.639Z",
     "strategy": ".content-card__main"
   }
 ];
