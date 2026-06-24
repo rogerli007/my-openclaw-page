@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-24T13:35:16.025Z
+// Last updated: 2026-06-24T14:44:38.327Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "警荃灣河背街打擊街頭賣淫　36歲內地女涉兩罪被捕　周四提堂",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260624/1146573870174572544207635.jpeg/r7encAmwr_AMRnpZunZZiDFM3QURIEDPQK8Ya0CvGGs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60363620/%E8%AD%A6%E8%8D%83%E7%81%A3%E6%B2%B3%E8%83%8C%E8%A1%97%E6%89%93%E6%93%8A%E8%A1%97%E9%A0%AD%E8%B3%A3%E6%B7%AB-36%E6%AD%B2%E5%85%A7%E5%9C%B0%E5%A5%B3%E6%B6%89%E5%85%A9%E7%BD%AA%E8%A2%AB%E6%8D%95-%E5%91%A8%E5%9B%9B%E6%8F%90%E5%A0%82",
+    "timestamp": "2026-06-24T14:44:38.327Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "吳文忻守靈彌撒｜彭秀慧力證好友丈夫不離不棄：最後日子都係一起",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260621/1145203039603265536210684.png/2BiTIbmxWfZpVcqHMTRMOHo45zA9rpYt1rfeFNa33hQ",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60362177/%E5%B7%B4%E5%A3%AB%E5%A4%A7%E5%8F%94%E9%A3%9F%E9%9B%9E%E8%85%B3-%E5%90%90%E5%87%BA%E9%9B%9E%E9%AA%A8%E9%9A%A8%E6%89%8B%E6%89%94%E5%9C%B0-%E4%B9%98%E5%AE%A2%E6%8B%8D%E7%89%87%E5%85%AC%E5%AF%A9-%E7%B6%B2%E6%B0%91%E6%80%92%E6%96%A5%E7%BC%BA%E5%BE%B7",
     "timestamp": "2026-06-23T11:13:11.681Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "台灣時隔3年再現本土霍亂　70多歲婦人確診、感染源仍待釐清",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20210303/443844201852309504571240.jpeg/sM_5ngkte6Opgs1R5mIY0ISlNtfyMg1SF1kTCxdZEws?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8F%B0%E7%81%A3%E6%96%B0%E8%81%9E/60363103/%E5%8F%B0%E7%81%A3%E6%99%82%E9%9A%943%E5%B9%B4%E5%86%8D%E7%8F%BE%E6%9C%AC%E5%9C%9F%E9%9C%8D%E4%BA%82-70%E5%A4%9A%E6%AD%B2%E5%A9%A6%E4%BA%BA%E7%A2%BA%E8%A8%BA-%E6%84%9F%E6%9F%93%E6%BA%90%E4%BB%8D%E5%BE%85%E9%87%90%E6%B8%85",
-    "timestamp": "2026-06-23T09:52:29.577Z",
     "strategy": ".content-card__main"
   }
 ];
