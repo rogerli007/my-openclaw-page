@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-24T19:04:35.100Z
+// Last updated: 2026-06-24T19:41:33.304Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "中巴外長通話　王毅籲鞏固伊朗全面停火　恢復霍爾木茲正常通航",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260410/1119235927865036800203896.jpeg/xMm-uH9GEp_AkH56I79dWeOOrYlQ_G3CNvKOFTbyjhU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60363640/%E4%B8%AD%E5%B7%B4%E5%A4%96%E9%95%B7%E9%80%9A%E8%A9%B1-%E7%8E%8B%E6%AF%85%E7%B1%B2%E9%9E%8F%E5%9B%BA%E4%BC%8A%E6%9C%97%E5%85%A8%E9%9D%A2%E5%81%9C%E7%81%AB-%E6%81%A2%E5%BE%A9%E9%9C%8D%E7%88%BE%E6%9C%A8%E8%8C%B2%E6%AD%A3%E5%B8%B8%E9%80%9A%E8%88%AA",
+    "timestamp": "2026-06-24T19:41:33.304Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "中巴外長通話　王毅籲鞏固伊朗全面停火　恢復霍爾木茲正常通航",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250627/1015307737707319296521074.jpeg/JTbvQYmXCSk8xlH2GCJHCLy-d7FXjDOtkcxPJJHMTyQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60363252/%E8%A2%AB%E5%95%8F%E6%9C%83%E5%90%A6%E6%83%B3%E6%9B%B4%E4%B8%8A%E4%B8%80%E5%B1%A4%E6%A8%93-%E6%9E%97%E5%AE%9A%E5%9C%8B-%E5%90%8C%E8%B2%B7%E5%85%AD%E5%90%88%E5%BD%A9%E5%86%87%E4%B9%9C%E5%88%86%E5%88%A5-%E7%84%A1%E8%AA%8D%E7%9C%9F%E5%8E%BB%E8%AB%97",
     "timestamp": "2026-06-23T17:31:10.975Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "賈曉晨為樊少皇慶生甜笑依偎　JJ凍齡狀態驚人膚質白皙不輸少女",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260623/1146090469113991168490136.jpeg/mZR7sjf1fr6JfxvdaHIcmQx1H04EcHb1uYyZ1LmMmdQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60362971/%E8%B3%88%E6%9B%89%E6%99%A8%E7%82%BA%E6%A8%8A%E5%B0%91%E7%9A%87%E6%85%B6%E7%94%9F%E7%94%9C%E7%AC%91%E4%BE%9D%E5%81%8E-jj%E5%87%8D%E9%BD%A1%E7%8B%80%E6%85%8B%E9%A9%9A%E4%BA%BA%E8%86%9A%E8%B3%AA%E7%99%BD%E7%9A%99%E4%B8%8D%E8%BC%B8%E5%B0%91%E5%A5%B3",
-    "timestamp": "2026-06-23T15:38:13.688Z",
     "strategy": ".content-card__main"
   }
 ];
