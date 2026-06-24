@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-24T05:02:03.467Z
+// Last updated: 2026-06-24T07:52:17.058Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "李強在2026夏季達沃斯論壇致辭：中國經濟「穩、新、活、融」",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260624/1146468032348950528038196.jpeg/Ou41L6kgXwFuGpjeH1EQrIACt6XQbuVvq5ZopquWaKY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60363444/%E6%9D%8E%E5%BC%B7%E5%9C%A82026%E5%A4%8F%E5%AD%A3%E9%81%94%E6%B2%83%E6%96%AF%E8%AB%96%E5%A3%87%E8%87%B4%E8%BE%AD-%E4%B8%AD%E5%9C%8B%E7%B6%93%E6%BF%9F-%E7%A9%A9-%E6%96%B0-%E6%B4%BB-%E8%9E%8D",
+    "timestamp": "2026-06-24T07:52:17.058Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "羅湖口岸‧有片｜北上女被查　將內褲藏2公斤銀條掏出丟地下斷正",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260623/1146079786922151936593814.jpeg/Q6Ts19KYjHvbNwEkVZXJQO30dwryk3q2VSa9IVUmvSE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%96%8B%E7%BD%90/60362913/%E6%97%A5%E6%9C%AC-%E9%99%90%E5%88%B6%E7%B4%9A%E7%9B%B2%E7%9B%92-%E8%A1%97%E9%A0%AD%E6%91%B8%E8%83%B8%E7%89%87%E7%8B%82%E5%90%B88%E5%84%84%E8%A7%80%E7%9C%8B-%E7%B6%B2%E6%B0%91%E6%80%92%E8%BD%9F-%E9%81%93%E5%BE%B7%E6%B7%AA%E5%96%AA",
     "timestamp": "2026-06-23T05:35:50.443Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "李強大連調研　強調要加強引領性科技攻關　發展高端裝備製造業",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260623/1146050612442435584059874.jpeg/yiEwbg4GTXjB_MWEfmI-bqo4IFeLXu-HLdZReS3WUXk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60362957/%E6%9D%8E%E5%BC%B7%E5%A4%A7%E9%80%A3%E8%AA%BF%E7%A0%94-%E5%BC%B7%E8%AA%BF%E8%A6%81%E5%8A%A0%E5%BC%B7%E5%BC%95%E9%A0%98%E6%80%A7%E7%A7%91%E6%8A%80%E6%94%BB%E9%97%9C-%E7%99%BC%E5%B1%95%E9%AB%98%E7%AB%AF%E8%A3%9D%E5%82%99%E8%A3%BD%E9%80%A0%E6%A5%AD",
-    "timestamp": "2026-06-23T03:52:39.698Z",
     "strategy": ".content-card__main"
   }
 ];
