@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-24T14:44:38.327Z
+// Last updated: 2026-06-24T15:41:49.420Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "瑞士世界盃2026賽程｜足球排名+國家隊球員名單陣容",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260522/1134550781651849216342710.jpeg/FcTlXkYwH31mSXuywVx_GwAmhz-MgIVA974fEve-HxI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60341969/%E4%B8%96%E7%95%8C%E7%9B%832026%E7%91%9E%E5%A3%AB-%E8%B6%B3%E7%90%83%E6%8E%92%E5%90%8D-%E5%9C%8B%E5%AE%B6%E9%9A%8A%E7%90%83%E5%93%A1%E5%90%8D%E5%96%AE%E9%99%A3%E5%AE%B9-%E6%9C%80%E6%96%B0%E8%B3%BD%E7%A8%8B",
+    "timestamp": "2026-06-24T15:41:49.420Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "警荃灣河背街打擊街頭賣淫　36歲內地女涉兩罪被捕　周四提堂",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20251208/1074667828411371520973168.jpeg/vUaByWifKzxw9Ef-FZ1HfkTV3oJskUgS-AG0J_gBtCc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60363215/%E6%B4%AA%E6%A3%AE6-25%E8%B5%B7%E8%A8%AA%E4%B8%AD%E5%9C%8B",
     "timestamp": "2026-06-23T12:20:54.805Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "巴士大叔食雞腳！吐出雞骨隨手扔地　乘客拍片公審　網民怒斥缺德",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260621/1145203039603265536210684.png/2BiTIbmxWfZpVcqHMTRMOHo45zA9rpYt1rfeFNa33hQ",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60362177/%E5%B7%B4%E5%A3%AB%E5%A4%A7%E5%8F%94%E9%A3%9F%E9%9B%9E%E8%85%B3-%E5%90%90%E5%87%BA%E9%9B%9E%E9%AA%A8%E9%9A%A8%E6%89%8B%E6%89%94%E5%9C%B0-%E4%B9%98%E5%AE%A2%E6%8B%8D%E7%89%87%E5%85%AC%E5%AF%A9-%E7%B6%B2%E6%B0%91%E6%80%92%E6%96%A5%E7%BC%BA%E5%BE%B7",
-    "timestamp": "2026-06-23T11:13:11.681Z",
     "strategy": ".content-card__main"
   }
 ];
