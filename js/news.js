@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-24T03:31:08.602Z
+// Last updated: 2026-06-24T05:02:03.467Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "羅湖口岸‧有片｜北上女被查　將內褲藏2公斤銀條掏出丟地下斷正",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260624/1146431502830014464968573.jpeg/Fl8Dgn6toi1qqDYO0dYrUf5DGpZeNdY3JvmN7Cb5jew",
+    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60363379/%E7%BE%85%E6%B9%96%E5%8F%A3%E5%B2%B8-%E6%9C%89%E7%89%87-%E5%8C%97%E4%B8%8A%E5%A5%B3%E8%A2%AB%E6%9F%A5-%E5%B0%87%E5%85%A7%E8%A4%B2%E8%97%8F2%E5%85%AC%E6%96%A4%E9%8A%80%E6%A2%9D%E6%8E%8F%E5%87%BA%E4%B8%9F%E5%9C%B0%E4%B8%8B%E6%96%B7%E6%AD%A3",
+    "timestamp": "2026-06-24T05:02:03.467Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "旺角滙豐銀行兩內地漢持假文件開戶口　職員揭發報警拉人",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260623/1146050612442435584059874.jpeg/yiEwbg4GTXjB_MWEfmI-bqo4IFeLXu-HLdZReS3WUXk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60362957/%E6%9D%8E%E5%BC%B7%E5%A4%A7%E9%80%A3%E8%AA%BF%E7%A0%94-%E5%BC%B7%E8%AA%BF%E8%A6%81%E5%8A%A0%E5%BC%B7%E5%BC%95%E9%A0%98%E6%80%A7%E7%A7%91%E6%8A%80%E6%94%BB%E9%97%9C-%E7%99%BC%E5%B1%95%E9%AB%98%E7%AB%AF%E8%A3%9D%E5%82%99%E8%A3%BD%E9%80%A0%E6%A5%AD",
     "timestamp": "2026-06-23T03:52:39.698Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "日圓下試40年低位　日美財長據報商討匯價　今早圓價偏穩",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20240229/839836073986101248907384.jpeg/bUbGUOjuCfAGMa403gq2BuDk6nWuqxz03sZaa97GWms?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60362896/%E6%97%A5%E5%9C%93%E4%B8%8B%E8%A9%A640%E5%B9%B4%E4%BD%8E%E4%BD%8D-%E6%97%A5%E7%BE%8E%E8%B2%A1%E9%95%B7%E6%93%9A%E5%A0%B1%E5%95%86%E8%A8%8E%E5%8C%AF%E5%83%B9-%E4%BB%8A%E6%97%A9%E5%9C%93%E5%83%B9%E5%81%8F%E7%A9%A9",
-    "timestamp": "2026-06-23T01:20:28.310Z",
     "strategy": ".content-card__main"
   }
 ];
