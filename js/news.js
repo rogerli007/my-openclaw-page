@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-24T02:08:50.960Z
+// Last updated: 2026-06-24T03:31:08.602Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "旺角滙豐銀行兩內地漢持假文件開戶口　職員揭發報警拉人",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260624/1146408948778143744240695.jpeg/IHicD8Ahqdw4eS1ekl5of6lWt93286oP56CDcuegg3I?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60363342/%E6%97%BA%E8%A7%92%E6%BB%99%E8%B1%90%E9%8A%80%E8%A1%8C%E5%85%A9%E5%85%A7%E5%9C%B0%E6%BC%A2%E6%8C%81%E5%81%87%E6%96%87%E4%BB%B6%E9%96%8B%E6%88%B6%E5%8F%A3-%E8%81%B7%E5%93%A1%E6%8F%AD%E7%99%BC%E5%A0%B1%E8%AD%A6%E6%8B%89%E4%BA%BA",
+    "timestamp": "2026-06-24T03:31:08.602Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "《鐵拳教育》給父母的一堂課：過度干預老師教學反而阻礙孩子成長",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20240229/839836073986101248907384.jpeg/bUbGUOjuCfAGMa403gq2BuDk6nWuqxz03sZaa97GWms?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60362896/%E6%97%A5%E5%9C%93%E4%B8%8B%E8%A9%A640%E5%B9%B4%E4%BD%8E%E4%BD%8D-%E6%97%A5%E7%BE%8E%E8%B2%A1%E9%95%B7%E6%93%9A%E5%A0%B1%E5%95%86%E8%A8%8E%E5%8C%AF%E5%83%B9-%E4%BB%8A%E6%97%A9%E5%9C%93%E5%83%B9%E5%81%8F%E7%A9%A9",
     "timestamp": "2026-06-23T01:20:28.310Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "大馬旅客遊中國捂鼻：中國人很臭、不洗澡　遭中馬網民狂轟後道歉",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260622/1145866549551173632780459.png/6WXIVSkWE4tc97iOiT5fc6cgmJckX-HdcCLL4HAiy-A",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60362703/%E5%A4%A7%E9%A6%AC%E6%97%85%E5%AE%A2%E9%81%8A%E4%B8%AD%E5%9C%8B%E6%8D%82%E9%BC%BB-%E4%B8%AD%E5%9C%8B%E4%BA%BA%E5%BE%88%E8%87%AD-%E4%B8%8D%E6%B4%97%E6%BE%A1-%E9%81%AD%E4%B8%AD%E9%A6%AC%E7%B6%B2%E6%B0%91%E7%8B%82%E8%BD%9F%E5%BE%8C%E9%81%93%E6%AD%89",
-    "timestamp": "2026-06-23T00:19:33.188Z",
     "strategy": ".content-card__main"
   }
 ];
