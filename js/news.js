@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-23T23:44:55.259Z
+// Last updated: 2026-06-24T02:08:50.960Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "《鐵拳教育》給父母的一堂課：過度干預老師教學反而阻礙孩子成長",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260618/1144336755114119168249783.jpeg/vbBTMR3_qPE1BISTALedAFZ-6fMap0YrWvgWbVr4Fm0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%A6%AA%E5%AD%90/60360854/%E9%90%B5%E6%8B%B3%E6%95%99%E8%82%B2-%E7%B5%A6%E7%88%B6%E6%AF%8D%E7%9A%84%E4%B8%80%E5%A0%82%E8%AA%B2-%E9%81%8E%E5%BA%A6%E5%B9%B2%E9%A0%90%E8%80%81%E5%B8%AB%E6%95%99%E5%AD%B8%E5%8F%8D%E8%80%8C%E9%98%BB%E7%A4%99%E5%AD%A9%E5%AD%90%E6%88%90%E9%95%B7",
+    "timestamp": "2026-06-24T02:08:50.960Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "Google母企Alphabet「 染藍」　Verizon被踢出道指",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260622/1145866549551173632780459.png/6WXIVSkWE4tc97iOiT5fc6cgmJckX-HdcCLL4HAiy-A",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60362703/%E5%A4%A7%E9%A6%AC%E6%97%85%E5%AE%A2%E9%81%8A%E4%B8%AD%E5%9C%8B%E6%8D%82%E9%BC%BB-%E4%B8%AD%E5%9C%8B%E4%BA%BA%E5%BE%88%E8%87%AD-%E4%B8%8D%E6%B4%97%E6%BE%A1-%E9%81%AD%E4%B8%AD%E9%A6%AC%E7%B6%B2%E6%B0%91%E7%8B%82%E8%BD%9F%E5%BE%8C%E9%81%93%E6%AD%89",
     "timestamp": "2026-06-23T00:19:33.188Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "浙江七旬翁狂食香蕉補鉀險送命！日食4條香蕉致高鉀血症入ICU",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260622/1145771232348606464473059.png/wGYh9hRiD2Vj1OhH4NghmWC02jmUDBO1wMsQ3cDLEN0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60354496/%E6%B5%99%E6%B1%9F%E4%B8%83%E6%97%AC%E7%BF%81%E7%8B%82%E9%A3%9F%E9%A6%99%E8%95%89%E8%A3%9C%E9%89%80%E9%9A%AA%E9%80%81%E5%91%BD-%E6%97%A5%E9%A3%9F4%E6%A2%9D%E9%A6%99%E8%95%89%E8%87%B4%E9%AB%98%E9%89%80%E8%A1%80%E7%97%87%E5%85%A5icu",
-    "timestamp": "2026-06-22T23:39:31.385Z",
     "strategy": ".content-card__main"
   }
 ];
