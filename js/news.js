@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-24T07:52:17.058Z
+// Last updated: 2026-06-24T09:20:37.137Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "減肥不吃飯愈減愈肥精神差？營養師教3招選對主食免復胖+晚餐組合",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260624/1146464534836285440652874.jpeg/OOf5DwrkFqoW72FBTQvuUbQOi-0L3HyJB3tc1Ad7XNQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60358290/%E6%B8%9B%E8%82%A5%E4%B8%8D%E5%90%83%E9%A3%AF%E6%84%88%E6%B8%9B%E6%84%88%E8%82%A5%E7%B2%BE%E7%A5%9E%E5%B7%AE-%E7%87%9F%E9%A4%8A%E5%B8%AB%E6%95%993%E6%8B%9B%E9%81%B8%E5%B0%8D%E4%B8%BB%E9%A3%9F%E5%85%8D%E5%BE%A9%E8%83%96-%E6%99%9A%E9%A4%90%E7%B5%84%E5%90%88",
+    "timestamp": "2026-06-24T09:20:37.137Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "李強在2026夏季達沃斯論壇致辭：中國經濟「穩、新、活、融」",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260623/1146091763329404928928734.jpeg/MQ9waJwS7Wml_JC6GSoOWTOGycdq0ranvLi6nby4up0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60363033/stray-kids%E6%BC%94%E5%94%B1%E6%9C%832026%E9%A6%99%E6%B8%AF-%E9%96%80%E7%A5%A8%E5%84%AA%E5%85%88%E5%85%AC%E5%94%AE%E6%94%BB%E7%95%A5-%E8%B3%BC%E7%A5%A8%E9%80%A3%E7%B5%90-%E5%BA%A7%E4%BD%8D%E8%A1%A8",
     "timestamp": "2026-06-23T06:57:03.904Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "日本「限制級盲盒」街頭摸胸片狂吸8億觀看！ 網民怒轟：道德淪喪",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260623/1146079786922151936593814.jpeg/Q6Ts19KYjHvbNwEkVZXJQO30dwryk3q2VSa9IVUmvSE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%96%8B%E7%BD%90/60362913/%E6%97%A5%E6%9C%AC-%E9%99%90%E5%88%B6%E7%B4%9A%E7%9B%B2%E7%9B%92-%E8%A1%97%E9%A0%AD%E6%91%B8%E8%83%B8%E7%89%87%E7%8B%82%E5%90%B88%E5%84%84%E8%A7%80%E7%9C%8B-%E7%B6%B2%E6%B0%91%E6%80%92%E8%BD%9F-%E9%81%93%E5%BE%B7%E6%B7%AA%E5%96%AA",
-    "timestamp": "2026-06-23T05:35:50.443Z",
     "strategy": ".content-card__main"
   }
 ];
