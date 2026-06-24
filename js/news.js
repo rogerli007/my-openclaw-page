@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-24T23:14:22.593Z
+// Last updated: 2026-06-24T23:46:11.955Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "特朗普與黨友就伊朗問題爆罵戰　參議員：為人民爭取答案無懼威嚇",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260625/1146714905986994176836491.jpeg/k9XnYbYyKGN9PNlhJV8rwNQeWioJyKAFnv1taJ79bWg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60363650/%E7%89%B9%E6%9C%97%E6%99%AE%E8%88%87%E9%BB%A8%E5%8F%8B%E5%B0%B1%E4%BC%8A%E6%9C%97%E5%95%8F%E9%A1%8C%E7%88%86%E7%BD%B5%E6%88%B0-%E5%8F%83%E8%AD%B0%E5%93%A1-%E7%82%BA%E4%BA%BA%E6%B0%91%E7%88%AD%E5%8F%96%E7%AD%94%E6%A1%88%E7%84%A1%E6%87%BC%E5%A8%81%E5%9A%87",
+    "timestamp": "2026-06-24T23:46:11.955Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "中華文化到校講座　非遺潮州工夫茶走進樂善堂楊仲明學校",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260623/1146078603352477696107235.png/jwuPtL9dHX76m4mgZSYBSgRWR-UlUg5k7nZtXu52bV4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60347906/%E6%BB%BE%E5%9B%9E%E4%BD%A0%E7%9A%84%E5%9C%8B%E5%AE%B6-%E5%8A%A0%E6%8B%BF%E5%A4%A7%E5%92%96%E5%95%A1%E5%BA%97%E9%9F%93%E8%A3%94%E5%BA%97%E4%B8%BB%E9%81%AD%E5%A5%B3%E5%AE%A2%E8%BE%B1%E7%BD%B5-%E5%BD%B1%E7%89%87%E6%9B%9D%E5%85%89%E5%85%A8%E7%B6%B2%E6%80%92",
     "timestamp": "2026-06-23T23:18:56.177Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "黃依汶10歲仔負責洗衫　曾送陳真軍訓學自理：阿媽未掂過部洗衣機",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260623/1146202677852508160598210.jpeg/dEhOKs998MZgJAnVr1vBSscW7q4iu50_482VwePNlcE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60363164/%E9%BB%83%E4%BE%9D%E6%B1%B610%E6%AD%B2%E4%BB%94%E8%B2%A0%E8%B2%AC%E6%B4%97%E8%A1%AB-%E6%9B%BE%E9%80%81%E9%99%B3%E7%9C%9F%E8%BB%8D%E8%A8%93%E5%AD%B8%E8%87%AA%E7%90%86-%E9%98%BF%E5%AA%BD%E6%9C%AA%E6%8E%82%E9%81%8E%E9%83%A8%E6%B4%97%E8%A1%A3%E6%A9%9F",
-    "timestamp": "2026-06-23T22:48:18.840Z",
     "strategy": ".content-card__main"
   }
 ];
