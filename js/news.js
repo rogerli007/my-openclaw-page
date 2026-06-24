@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-24T11:48:09.768Z
+// Last updated: 2026-06-24T13:35:16.025Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "吳文忻守靈彌撒｜彭秀慧力證好友丈夫不離不棄：最後日子都係一起",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260624/1146560846265061376820436.jpeg/zGnpR-YJntK2GDxNNuVPqhJxDjiuZuAEOUWvOwNFrzs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60363610/%E5%90%B3%E6%96%87%E5%BF%BB%E5%AE%88%E9%9D%88%E5%BD%8C%E6%92%92-%E5%BD%AD%E7%A7%80%E6%85%A7%E5%8A%9B%E8%AD%89%E5%A5%BD%E5%8F%8B%E4%B8%88%E5%A4%AB%E4%B8%8D%E9%9B%A2%E4%B8%8D%E6%A3%84-%E6%9C%80%E5%BE%8C%E6%97%A5%E5%AD%90%E9%83%BD%E4%BF%82%E4%B8%80%E8%B5%B7",
+    "timestamp": "2026-06-24T13:35:16.025Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "以色列防長：即使美國要求　以軍也不會從黎巴嫩南部撤走",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20210303/443844201852309504571240.jpeg/sM_5ngkte6Opgs1R5mIY0ISlNtfyMg1SF1kTCxdZEws?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8F%B0%E7%81%A3%E6%96%B0%E8%81%9E/60363103/%E5%8F%B0%E7%81%A3%E6%99%82%E9%9A%943%E5%B9%B4%E5%86%8D%E7%8F%BE%E6%9C%AC%E5%9C%9F%E9%9C%8D%E4%BA%82-70%E5%A4%9A%E6%AD%B2%E5%A9%A6%E4%BA%BA%E7%A2%BA%E8%A8%BA-%E6%84%9F%E6%9F%93%E6%BA%90%E4%BB%8D%E5%BE%85%E9%87%90%E6%B8%85",
     "timestamp": "2026-06-23T09:52:29.577Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "菇功效｜杏鮑菇穩血壓、冬菇助防癌　4大菇類功效+煮法＋挑選技巧",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260623/1146117274214600704359187.jpeg/IXjZmGs482a6wpdu22b_j0pXD4DGA5l97EWRS-xFkUs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60347082/%E8%8F%87%E5%8A%9F%E6%95%88-%E6%9D%8F%E9%AE%91%E8%8F%87%E7%A9%A9%E8%A1%80%E5%A3%93-%E5%86%AC%E8%8F%87%E5%8A%A9%E9%98%B2%E7%99%8C-4%E5%A4%A7%E8%8F%87%E9%A1%9E%E5%8A%9F%E6%95%88-%E7%85%AE%E6%B3%95-%E6%8C%91%E9%81%B8%E6%8A%80%E5%B7%A7",
-    "timestamp": "2026-06-23T08:20:17.328Z",
     "strategy": ".content-card__main"
   }
 ];
