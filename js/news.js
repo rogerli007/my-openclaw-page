@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-24T09:20:37.137Z
+// Last updated: 2026-06-24T11:48:09.768Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "以色列防長：即使美國要求　以軍也不會從黎巴嫩南部撤走",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20251226/1081103278336380928703491.jpeg/23pAdC1G4x06oq23QrErQAraxEekwP3WPQ8xSz0PMUs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60363589/%E4%BB%A5%E8%89%B2%E5%88%97%E9%98%B2%E9%95%B7-%E5%8D%B3%E4%BD%BF%E7%BE%8E%E5%9C%8B%E8%A6%81%E6%B1%82-%E4%BB%A5%E8%BB%8D%E4%B9%9F%E4%B8%8D%E6%9C%83%E5%BE%9E%E9%BB%8E%E5%B7%B4%E5%AB%A9%E5%8D%97%E9%83%A8%E6%92%A4%E8%B5%B0",
+    "timestamp": "2026-06-24T11:48:09.768Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "減肥不吃飯愈減愈肥精神差？營養師教3招選對主食免復胖+晚餐組合",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260623/1146117274214600704359187.jpeg/IXjZmGs482a6wpdu22b_j0pXD4DGA5l97EWRS-xFkUs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60347082/%E8%8F%87%E5%8A%9F%E6%95%88-%E6%9D%8F%E9%AE%91%E8%8F%87%E7%A9%A9%E8%A1%80%E5%A3%93-%E5%86%AC%E8%8F%87%E5%8A%A9%E9%98%B2%E7%99%8C-4%E5%A4%A7%E8%8F%87%E9%A1%9E%E5%8A%9F%E6%95%88-%E7%85%AE%E6%B3%95-%E6%8C%91%E9%81%B8%E6%8A%80%E5%B7%A7",
     "timestamp": "2026-06-23T08:20:17.328Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "Stray Kids演唱會2026香港｜門票優先公售攻略＋購票連結＋座位表",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260623/1146091763329404928928734.jpeg/MQ9waJwS7Wml_JC6GSoOWTOGycdq0ranvLi6nby4up0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60363033/stray-kids%E6%BC%94%E5%94%B1%E6%9C%832026%E9%A6%99%E6%B8%AF-%E9%96%80%E7%A5%A8%E5%84%AA%E5%85%88%E5%85%AC%E5%94%AE%E6%94%BB%E7%95%A5-%E8%B3%BC%E7%A5%A8%E9%80%A3%E7%B5%90-%E5%BA%A7%E4%BD%8D%E8%A1%A8",
-    "timestamp": "2026-06-23T06:57:03.904Z",
     "strategy": ".content-card__main"
   }
 ];
