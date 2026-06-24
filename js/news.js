@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-24T21:10:08.792Z
+// Last updated: 2026-06-24T21:52:19.157Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "貝安德有望接任英國首相　英媒：擬將首相府部分職能遷至曼徹斯特",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260625/1146680371841077248094726.jpeg/ySucZV1tEHtMCG4hAoUcEKE6BPYS7akGN9Oj4jfTo-I?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60363649/%E8%B2%9D%E5%AE%89%E5%BE%B7%E6%9C%89%E6%9C%9B%E6%8E%A5%E4%BB%BB%E8%8B%B1%E5%9C%8B%E9%A6%96%E7%9B%B8-%E8%8B%B1%E5%AA%92-%E6%93%AC%E5%B0%87%E9%A6%96%E7%9B%B8%E5%BA%9C%E9%83%A8%E5%88%86%E8%81%B7%E8%83%BD%E9%81%B7%E8%87%B3%E6%9B%BC%E5%BE%B9%E6%96%AF%E7%89%B9",
+    "timestamp": "2026-06-24T21:52:19.157Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "世界盃2026｜瑞士2:1挫加拿大首名出線　波斯尼亞2:1卡塔爾",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260624/1146292314843385856543618.jpeg/uEQ43N7M2SHFrQH0Pmize5gct-w7a9OAk4MsI5ODLCM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60363253/%E9%AD%AF%E6%AF%94%E5%A5%A7-%E7%BE%8E%E4%BC%8A%E6%9C%80%E7%B5%82%E5%8D%94%E8%AD%B0%E4%B8%8D%E6%9C%83%E8%AE%93%E4%BC%8A%E6%9C%97%E5%B0%8D%E6%B5%B7%E5%B3%BD%E6%94%B6%E8%B2%BB-%E4%BC%8A%E6%96%B9%E6%93%AC%E8%88%87%E9%98%BF%E6%9B%BC%E5%95%86%E6%94%B6%E8%B2%BB",
     "timestamp": "2026-06-23T20:01:11.184Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "DJI Osmo Pocket 4評測｜影像、操作升級 新增內置儲存｜同級對比",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260624/1146275175839305728091823.jpeg/A3266FvkaMCb015ESV5X1yRzXud7pQ1vU0vBwVNLwcE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60363251/dji-osmo-pocket-4%E8%A9%95%E6%B8%AC-%E5%BD%B1%E5%83%8F-%E6%93%8D%E4%BD%9C%E5%8D%87%E7%B4%9A-%E6%96%B0%E5%A2%9E%E5%85%A7%E7%BD%AE%E5%84%B2%E5%AD%98-%E5%90%8C%E7%B4%9A%E5%B0%8D%E6%AF%94",
-    "timestamp": "2026-06-23T19:05:57.879Z",
     "strategy": ".content-card__main"
   }
 ];
