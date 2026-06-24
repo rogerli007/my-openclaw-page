@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-24T19:41:33.304Z
+// Last updated: 2026-06-24T20:26:29.694Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "八鄉村屋遭爆竊　46歲男損失$52萬財物　包括勞力士和AP名錶",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260625/1146662144947785728528371.jpeg/bemosCXkpT45giSG-EutFqEqfgOuiXMA776vodW-r6E?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60363646/%E5%85%AB%E9%84%89%E6%9D%91%E5%B1%8B%E9%81%AD%E7%88%86%E7%AB%8A-46%E6%AD%B2%E7%94%B7%E6%90%8D%E5%A4%B1-52%E8%90%AC%E8%B2%A1%E7%89%A9-%E5%8C%85%E6%8B%AC%E5%8B%9E%E5%8A%9B%E5%A3%AB%E5%92%8Cap%E5%90%8D%E9%8C%B6",
+    "timestamp": "2026-06-24T20:26:29.694Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "中巴外長通話　王毅籲鞏固伊朗全面停火　恢復霍爾木茲正常通航",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260605/1139414778964348928623795.jpeg/keo0JBTfFh5M8hWmMXJFJV_aR0eWeuxzyMwG88jMBvM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60363249/%E6%99%AE%E4%BA%AC-%E9%A1%98%E5%9C%A8%E4%BC%8A%E6%96%AF%E5%9D%A6%E5%A0%A1%E6%A1%86%E6%9E%B6%E4%B8%8B%E8%88%87%E7%83%8F%E5%85%8B%E8%98%AD%E9%87%8D%E5%95%9F%E8%AB%87%E5%88%A4",
     "timestamp": "2026-06-23T18:17:46.970Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "被問會否想更上一層樓？林定國：同買六合彩冇乜分別　無認真去諗",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250627/1015307737707319296521074.jpeg/JTbvQYmXCSk8xlH2GCJHCLy-d7FXjDOtkcxPJJHMTyQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60363252/%E8%A2%AB%E5%95%8F%E6%9C%83%E5%90%A6%E6%83%B3%E6%9B%B4%E4%B8%8A%E4%B8%80%E5%B1%A4%E6%A8%93-%E6%9E%97%E5%AE%9A%E5%9C%8B-%E5%90%8C%E8%B2%B7%E5%85%AD%E5%90%88%E5%BD%A9%E5%86%87%E4%B9%9C%E5%88%86%E5%88%A5-%E7%84%A1%E8%AA%8D%E7%9C%9F%E5%8E%BB%E8%AB%97",
-    "timestamp": "2026-06-23T17:31:10.975Z",
     "strategy": ".content-card__main"
   }
 ];
