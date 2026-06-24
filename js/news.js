@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-24T20:26:29.694Z
+// Last updated: 2026-06-24T21:10:08.792Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "世界盃2026｜瑞士2:1挫加拿大首名出線　波斯尼亞2:1卡塔爾",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260625/1146673012745965568264517.jpeg/V_4Bj4_uV4DyOCSSIhzuQJzRDNhKKAXaYNtL4WDbS-E?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60363648/%E4%B8%96%E7%95%8C%E7%9B%832026-%E7%91%9E%E5%A3%AB2-1%E6%8C%AB%E5%8A%A0%E6%8B%BF%E5%A4%A7%E9%A6%96%E5%90%8D%E5%87%BA%E7%B7%9A-%E6%B3%A2%E6%96%AF%E5%B0%BC%E4%BA%9E2-1%E5%8D%A1%E5%A1%94%E7%88%BE",
+    "timestamp": "2026-06-24T21:10:08.792Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "八鄉村屋遭爆竊　46歲男損失$52萬財物　包括勞力士和AP名錶",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260624/1146275175839305728091823.jpeg/A3266FvkaMCb015ESV5X1yRzXud7pQ1vU0vBwVNLwcE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60363251/dji-osmo-pocket-4%E8%A9%95%E6%B8%AC-%E5%BD%B1%E5%83%8F-%E6%93%8D%E4%BD%9C%E5%8D%87%E7%B4%9A-%E6%96%B0%E5%A2%9E%E5%85%A7%E7%BD%AE%E5%84%B2%E5%AD%98-%E5%90%8C%E7%B4%9A%E5%B0%8D%E6%AF%94",
     "timestamp": "2026-06-23T19:05:57.879Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "普京：願在伊斯坦堡框架下與烏克蘭重啟談判",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260605/1139414778964348928623795.jpeg/keo0JBTfFh5M8hWmMXJFJV_aR0eWeuxzyMwG88jMBvM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60363249/%E6%99%AE%E4%BA%AC-%E9%A1%98%E5%9C%A8%E4%BC%8A%E6%96%AF%E5%9D%A6%E5%A0%A1%E6%A1%86%E6%9E%B6%E4%B8%8B%E8%88%87%E7%83%8F%E5%85%8B%E8%98%AD%E9%87%8D%E5%95%9F%E8%AB%87%E5%88%A4",
-    "timestamp": "2026-06-23T18:17:46.970Z",
     "strategy": ".content-card__main"
   }
 ];
