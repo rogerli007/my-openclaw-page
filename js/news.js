@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-24T22:37:41.731Z
+// Last updated: 2026-06-24T23:14:22.593Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "中華文化到校講座　非遺潮州工夫茶走進樂善堂楊仲明學校",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260616/1143593416462962688142396.jpeg/p0TW7KsRsTgaa0R1T1B9EZRCNYTlC2JxyA0OdMgNDnQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E4%B8%AD%E5%B0%8F%E5%AD%B8%E6%A0%A1%E5%9C%92/60359041/%E4%B8%AD%E8%8F%AF%E6%96%87%E5%8C%96%E5%88%B0%E6%A0%A1%E8%AC%9B%E5%BA%A7-%E9%9D%9E%E9%81%BA%E6%BD%AE%E5%B7%9E%E5%B7%A5%E5%A4%AB%E8%8C%B6%E8%B5%B0%E9%80%B2%E6%A8%82%E5%96%84%E5%A0%82%E6%A5%8A%E4%BB%B2%E6%98%8E%E5%AD%B8%E6%A0%A1",
+    "timestamp": "2026-06-24T23:14:22.593Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "金像影后再合作狄龍　被問對方認唔認得自己臉色一沉：我又冇整容",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260623/1146202677852508160598210.jpeg/dEhOKs998MZgJAnVr1vBSscW7q4iu50_482VwePNlcE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60363164/%E9%BB%83%E4%BE%9D%E6%B1%B610%E6%AD%B2%E4%BB%94%E8%B2%A0%E8%B2%AC%E6%B4%97%E8%A1%AB-%E6%9B%BE%E9%80%81%E9%99%B3%E7%9C%9F%E8%BB%8D%E8%A8%93%E5%AD%B8%E8%87%AA%E7%90%86-%E9%98%BF%E5%AA%BD%E6%9C%AA%E6%8E%82%E9%81%8E%E9%83%A8%E6%B4%97%E8%A1%A3%E6%A9%9F",
     "timestamp": "2026-06-23T22:48:18.840Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "世界盃｜C朗梅斯第6次征戰獲FIFA贈傳奇臂章　墨西哥Sam哥卻無份",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260624/1146305514737504256753041.jpeg/8x7WcEo-tcJbYHZ8RswyvyLOjaMqJY6dWvMcHVrzHB0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%92%B0%E7%90%83%E8%B6%A3%E8%81%9E/60363261/%E4%B8%96%E7%95%8C%E7%9B%83-c%E6%9C%97%E6%A2%85%E6%96%AF%E7%AC%AC6%E6%AC%A1%E5%BE%81%E6%88%B0%E7%8D%B2fifa%E8%B4%88%E5%82%B3%E5%A5%87%E8%87%82%E7%AB%A0-%E5%A2%A8%E8%A5%BF%E5%93%A5sam%E5%93%A5%E5%8D%BB%E7%84%A1%E4%BB%BD",
-    "timestamp": "2026-06-23T20:57:11.382Z",
     "strategy": ".content-card__main"
   }
 ];
