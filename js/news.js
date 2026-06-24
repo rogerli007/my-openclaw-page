@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-24T21:52:19.157Z
+// Last updated: 2026-06-24T22:37:41.731Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "金像影后再合作狄龍　被問對方認唔認得自己臉色一沉：我又冇整容",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260624/1146478674208362496470391.png/ZIdx0fW_FBbZEdfEh-neUWqLa3v-NW5HNxKf8g0Sn_I?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60363453/%E8%A2%81%E8%A9%A0%E5%84%80%E5%86%8D%E8%88%87%E7%8B%84%E9%BE%8D%E5%90%88%E4%BD%9C-%E8%A2%AB%E5%95%8F%E5%B0%8D%E6%96%B9%E8%AA%8D%E5%94%94%E8%AA%8D%E5%BE%97%E8%87%AA%E5%B7%B1%E8%87%89%E8%89%B2%E4%B8%80%E6%B2%89-%E6%88%91%E5%8F%88%E5%86%87%E6%95%B4%E5%AE%B9",
+    "timestamp": "2026-06-24T22:37:41.731Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "貝安德有望接任英國首相　英媒：擬將首相府部分職能遷至曼徹斯特",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260624/1146305514737504256753041.jpeg/8x7WcEo-tcJbYHZ8RswyvyLOjaMqJY6dWvMcHVrzHB0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%92%B0%E7%90%83%E8%B6%A3%E8%81%9E/60363261/%E4%B8%96%E7%95%8C%E7%9B%83-c%E6%9C%97%E6%A2%85%E6%96%AF%E7%AC%AC6%E6%AC%A1%E5%BE%81%E6%88%B0%E7%8D%B2fifa%E8%B4%88%E5%82%B3%E5%A5%87%E8%87%82%E7%AB%A0-%E5%A2%A8%E8%A5%BF%E5%93%A5sam%E5%93%A5%E5%8D%BB%E7%84%A1%E4%BB%BD",
     "timestamp": "2026-06-23T20:57:11.382Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "魯比奧：美伊最終協議不會讓伊朗對海峽收費　伊方擬與阿曼商收費",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260624/1146292314843385856543618.jpeg/uEQ43N7M2SHFrQH0Pmize5gct-w7a9OAk4MsI5ODLCM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60363253/%E9%AD%AF%E6%AF%94%E5%A5%A7-%E7%BE%8E%E4%BC%8A%E6%9C%80%E7%B5%82%E5%8D%94%E8%AD%B0%E4%B8%8D%E6%9C%83%E8%AE%93%E4%BC%8A%E6%9C%97%E5%B0%8D%E6%B5%B7%E5%B3%BD%E6%94%B6%E8%B2%BB-%E4%BC%8A%E6%96%B9%E6%93%AC%E8%88%87%E9%98%BF%E6%9B%BC%E5%95%86%E6%94%B6%E8%B2%BB",
-    "timestamp": "2026-06-23T20:01:11.184Z",
     "strategy": ".content-card__main"
   }
 ];
