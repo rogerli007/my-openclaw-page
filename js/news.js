@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-25T21:00:58.832Z
+// Last updated: 2026-06-25T23:39:01.707Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "日本世界盃2026賽程｜國家隊球員名單陣容+足球排名+最新時間",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260522/1134539738603065344601329.jpeg/4BZJKSAfScM2F1y2PUjUulD-EGIRaTY5vUqjkL1Ko5A?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60352586/%E6%97%A5%E6%9C%AC%E4%B8%96%E7%95%8C%E7%9B%832026%E8%B3%BD%E7%A8%8B-%E5%9C%8B%E5%AE%B6%E9%9A%8A%E7%90%83%E5%93%A1%E5%90%8D%E5%96%AE%E9%99%A3%E5%AE%B9-%E8%B6%B3%E7%90%83%E6%8E%92%E5%90%8D-%E6%9C%80%E6%96%B0%E6%99%82%E9%96%93",
+    "timestamp": "2026-06-25T23:39:01.707Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "委內瑞拉遇百年最強地震188死1520傷　總統感謝中國願援助",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260625/1146680371841077248094726.jpeg/ySucZV1tEHtMCG4hAoUcEKE6BPYS7akGN9Oj4jfTo-I?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60363649/%E8%B2%9D%E5%AE%89%E5%BE%B7%E6%9C%89%E6%9C%9B%E6%8E%A5%E4%BB%BB%E8%8B%B1%E5%9C%8B%E9%A6%96%E7%9B%B8-%E8%8B%B1%E5%AA%92-%E6%93%AC%E5%B0%87%E9%A6%96%E7%9B%B8%E5%BA%9C%E9%83%A8%E5%88%86%E8%81%B7%E8%83%BD%E9%81%B7%E8%87%B3%E6%9B%BC%E5%BE%B9%E6%96%AF%E7%89%B9",
     "timestamp": "2026-06-24T21:52:19.157Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "世界盃2026｜瑞士2:1挫加拿大首名出線　波斯尼亞2:1卡塔爾",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260625/1146673012745965568264517.jpeg/V_4Bj4_uV4DyOCSSIhzuQJzRDNhKKAXaYNtL4WDbS-E?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60363648/%E4%B8%96%E7%95%8C%E7%9B%832026-%E7%91%9E%E5%A3%AB2-1%E6%8C%AB%E5%8A%A0%E6%8B%BF%E5%A4%A7%E9%A6%96%E5%90%8D%E5%87%BA%E7%B7%9A-%E6%B3%A2%E6%96%AF%E5%B0%BC%E4%BA%9E2-1%E5%8D%A1%E5%A1%94%E7%88%BE",
-    "timestamp": "2026-06-24T21:10:08.792Z",
     "strategy": ".content-card__main"
   }
 ];
