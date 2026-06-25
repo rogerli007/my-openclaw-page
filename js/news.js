@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-25T18:22:01.608Z
+// Last updated: 2026-06-25T19:19:35.311Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "伊朗擬對霍爾木茲海峽收服務費　WSJ：官員料年收可達400億美元",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260621/1145181556302680064862149.jpeg/u9_dNc0u_grfBuVGt2KgH5tOi-M7BZQKYJb_72CW_-8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60364002/%E4%BC%8A%E6%9C%97%E6%93%AC%E5%B0%8D%E9%9C%8D%E7%88%BE%E6%9C%A8%E8%8C%B2%E6%B5%B7%E5%B3%BD%E6%94%B6%E6%9C%8D%E5%8B%99%E8%B2%BB-wsj-%E5%AE%98%E5%93%A1%E6%96%99%E5%B9%B4%E6%94%B6%E5%8F%AF%E9%81%94400%E5%84%84%E7%BE%8E%E5%85%83",
+    "timestamp": "2026-06-25T19:19:35.311Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "中大校長盧煜明獲劍橋大學榮譽醫學科學博士學位　香港第一人",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260625/1146662144947785728528371.jpeg/bemosCXkpT45giSG-EutFqEqfgOuiXMA776vodW-r6E?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60363646/%E5%85%AB%E9%84%89%E6%9D%91%E5%B1%8B%E9%81%AD%E7%88%86%E7%AB%8A-46%E6%AD%B2%E7%94%B7%E6%90%8D%E5%A4%B1-52%E8%90%AC%E8%B2%A1%E7%89%A9-%E5%8C%85%E6%8B%AC%E5%8B%9E%E5%8A%9B%E5%A3%AB%E5%92%8Cap%E5%90%8D%E9%8C%B6",
     "timestamp": "2026-06-24T20:26:29.694Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "中巴外長通話　王毅籲鞏固伊朗全面停火　恢復霍爾木茲正常通航",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260410/1119235927865036800203896.jpeg/xMm-uH9GEp_AkH56I79dWeOOrYlQ_G3CNvKOFTbyjhU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60363640/%E4%B8%AD%E5%B7%B4%E5%A4%96%E9%95%B7%E9%80%9A%E8%A9%B1-%E7%8E%8B%E6%AF%85%E7%B1%B2%E9%9E%8F%E5%9B%BA%E4%BC%8A%E6%9C%97%E5%85%A8%E9%9D%A2%E5%81%9C%E7%81%AB-%E6%81%A2%E5%BE%A9%E9%9C%8D%E7%88%BE%E6%9C%A8%E8%8C%B2%E6%AD%A3%E5%B8%B8%E9%80%9A%E8%88%AA",
-    "timestamp": "2026-06-24T19:41:33.304Z",
     "strategy": ".content-card__main"
   }
 ];
