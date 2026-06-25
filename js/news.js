@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-24T23:46:11.955Z
+// Last updated: 2026-06-25T01:24:16.567Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "開冷氣狂咳！可能不是感冒是肺炎　夏季高溫潮濕滋生霉菌成兇手",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260623/1146116110312017920715648.png/cCbTuZ2QCyLIy1n19piEFdynsJJRLli7wocsZsKHLGY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60358317/%E9%96%8B%E5%86%B7%E6%B0%A3%E7%8B%82%E5%92%B3-%E5%8F%AF%E8%83%BD%E4%B8%8D%E6%98%AF%E6%84%9F%E5%86%92%E6%98%AF%E8%82%BA%E7%82%8E-%E5%A4%8F%E5%AD%A3%E9%AB%98%E6%BA%AB%E6%BD%AE%E6%BF%95%E6%BB%8B%E7%94%9F%E9%9C%89%E8%8F%8C%E6%88%90%E5%85%87%E6%89%8B",
+    "timestamp": "2026-06-25T01:24:16.567Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "特朗普與黨友就伊朗問題爆罵戰　參議員：為人民爭取答案無懼威嚇",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20251218/1078379042312294400687154.jpeg/hxtEpFKvjAvSAxHPn-7_H3BTnBc9ybcsMqoTIzKqEyM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60363280/google%E6%AF%8D%E4%BC%81alphabet-%E6%9F%93%E8%97%8D-verizon%E8%A2%AB%E8%B8%A2%E5%87%BA%E9%81%93%E6%8C%87",
     "timestamp": "2026-06-23T23:44:55.259Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "滾回你的國家！加拿大咖啡店韓裔店主遭女客辱罵　影片曝光全網怒",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260623/1146078603352477696107235.png/jwuPtL9dHX76m4mgZSYBSgRWR-UlUg5k7nZtXu52bV4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60347906/%E6%BB%BE%E5%9B%9E%E4%BD%A0%E7%9A%84%E5%9C%8B%E5%AE%B6-%E5%8A%A0%E6%8B%BF%E5%A4%A7%E5%92%96%E5%95%A1%E5%BA%97%E9%9F%93%E8%A3%94%E5%BA%97%E4%B8%BB%E9%81%AD%E5%A5%B3%E5%AE%A2%E8%BE%B1%E7%BD%B5-%E5%BD%B1%E7%89%87%E6%9B%9D%E5%85%89%E5%85%A8%E7%B6%B2%E6%80%92",
-    "timestamp": "2026-06-23T23:18:56.177Z",
     "strategy": ".content-card__main"
   }
 ];
