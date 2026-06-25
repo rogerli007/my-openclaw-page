@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-25T03:52:27.898Z
+// Last updated: 2026-06-25T05:33:16.802Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "家長蔬菜汁沖奶粉3個月大嬰兒亞硝酸鹽中毒！嬰幼兒食菜要注意3點",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260625/1146651269666967552148095.jpeg/ul1yi_JMKKtZan-SeaG_r1Jor8rnggHgeNQ6znjUOs4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%A6%AA%E5%AD%90/60361485/%E5%AE%B6%E9%95%B7%E8%94%AC%E8%8F%9C%E6%B1%81%E6%B2%96%E5%A5%B6%E7%B2%893%E5%80%8B%E6%9C%88%E5%A4%A7%E5%AC%B0%E5%85%92%E4%BA%9E%E7%A1%9D%E9%85%B8%E9%B9%BD%E4%B8%AD%E6%AF%92-%E5%AC%B0%E5%B9%BC%E5%85%92%E9%A3%9F%E8%8F%9C%E8%A6%81%E6%B3%A8%E6%84%8F3%E9%BB%9E",
+    "timestamp": "2026-06-25T05:33:16.802Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "大家樂優惠｜$50足1斤原隻醬香雞！加$10滷水鴨舌／$12有飯有糖水",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260624/1146431502830014464968573.jpeg/Fl8Dgn6toi1qqDYO0dYrUf5DGpZeNdY3JvmN7Cb5jew",
     "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60363379/%E7%BE%85%E6%B9%96%E5%8F%A3%E5%B2%B8-%E6%9C%89%E7%89%87-%E5%8C%97%E4%B8%8A%E5%A5%B3%E8%A2%AB%E6%9F%A5-%E5%B0%87%E5%85%A7%E8%A4%B2%E8%97%8F2%E5%85%AC%E6%96%A4%E9%8A%80%E6%A2%9D%E6%8E%8F%E5%87%BA%E4%B8%9F%E5%9C%B0%E4%B8%8B%E6%96%B7%E6%AD%A3",
     "timestamp": "2026-06-24T05:02:03.467Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "旺角滙豐銀行兩內地漢持假文件開戶口　職員揭發報警拉人",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260624/1146408948778143744240695.jpeg/IHicD8Ahqdw4eS1ekl5of6lWt93286oP56CDcuegg3I?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60363342/%E6%97%BA%E8%A7%92%E6%BB%99%E8%B1%90%E9%8A%80%E8%A1%8C%E5%85%A9%E5%85%A7%E5%9C%B0%E6%BC%A2%E6%8C%81%E5%81%87%E6%96%87%E4%BB%B6%E9%96%8B%E6%88%B6%E5%8F%A3-%E8%81%B7%E5%93%A1%E6%8F%AD%E7%99%BC%E5%A0%B1%E8%AD%A6%E6%8B%89%E4%BA%BA",
-    "timestamp": "2026-06-24T03:31:08.602Z",
     "strategy": ".content-card__main"
   }
 ];
