@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-25T17:21:54.042Z
+// Last updated: 2026-06-25T18:22:01.608Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "中大校長盧煜明獲劍橋大學榮譽醫學科學博士學位　香港第一人",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260626/1146976513204162560059437.jpeg/y6b2Q7uZQkS8BLqsWWM1IjRabU9qHhKWlLbF3JS2xdw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%B0%88%E4%B8%8A%E6%95%99%E8%82%B2/60364005/%E4%B8%AD%E5%A4%A7%E6%A0%A1%E9%95%B7%E7%9B%A7%E7%85%9C%E6%98%8E%E7%8D%B2%E5%8A%8D%E6%A9%8B%E5%A4%A7%E5%AD%B8%E6%A6%AE%E8%AD%BD%E9%86%AB%E5%AD%B8%E7%A7%91%E5%AD%B8%E5%8D%9A%E5%A3%AB%E5%AD%B8%E4%BD%8D-%E9%A6%99%E6%B8%AF%E7%AC%AC%E4%B8%80%E4%BA%BA",
+    "timestamp": "2026-06-25T18:22:01.608Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "最新天氣消息｜天文台：周五有驟雨及狂風雷暴　部分地區雨勢較大",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260410/1119235927865036800203896.jpeg/xMm-uH9GEp_AkH56I79dWeOOrYlQ_G3CNvKOFTbyjhU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60363640/%E4%B8%AD%E5%B7%B4%E5%A4%96%E9%95%B7%E9%80%9A%E8%A9%B1-%E7%8E%8B%E6%AF%85%E7%B1%B2%E9%9E%8F%E5%9B%BA%E4%BC%8A%E6%9C%97%E5%85%A8%E9%9D%A2%E5%81%9C%E7%81%AB-%E6%81%A2%E5%BE%A9%E9%9C%8D%E7%88%BE%E6%9C%A8%E8%8C%B2%E6%AD%A3%E5%B8%B8%E9%80%9A%E8%88%AA",
     "timestamp": "2026-06-24T19:41:33.304Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "中巴外長通話　王毅籲鞏固伊朗全面停火　恢復霍爾木茲正常通航",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260410/1119235927865036800203896.jpeg/xMm-uH9GEp_AkH56I79dWeOOrYlQ_G3CNvKOFTbyjhU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60363640/%E4%B8%AD%E5%B7%B4%E5%A4%96%E9%95%B7%E9%80%9A%E8%A9%B1-%E7%8E%8B%E6%AF%85%E7%B1%B2%E9%9E%8F%E5%9B%BA%E4%BC%8A%E6%9C%97%E5%85%A8%E9%9D%A2%E5%81%9C%E7%81%AB-%E6%81%A2%E5%BE%A9%E9%9C%8D%E7%88%BE%E6%9C%A8%E8%8C%B2%E6%AD%A3%E5%B8%B8%E9%80%9A%E8%88%AA",
-    "timestamp": "2026-06-24T19:04:35.100Z",
     "strategy": ".content-card__main"
   }
 ];
