@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-25T08:17:01.570Z
+// Last updated: 2026-06-25T12:27:04.551Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "海關等多部門油塘及樂富宣傳反私煙　向居民商販講解完稅標籤制度",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260625/1146906477143789568931748.jpeg/QHtDQAEL4DWei3h4NsRIN3IVrntgD8QF3_SlAN_0pQA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60363965/%E6%B5%B7%E9%97%9C%E7%AD%89%E5%A4%9A%E9%83%A8%E9%96%80%E6%B2%B9%E5%A1%98%E5%8F%8A%E6%A8%82%E5%AF%8C%E5%AE%A3%E5%82%B3%E5%8F%8D%E7%A7%81%E7%85%99-%E5%90%91%E5%B1%85%E6%B0%91%E5%95%86%E8%B2%A9%E8%AC%9B%E8%A7%A3%E5%AE%8C%E7%A8%85%E6%A8%99%E7%B1%A4%E5%88%B6%E5%BA%A6",
+    "timestamp": "2026-06-25T12:27:04.551Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "委內瑞拉地震一刻：樓倒塌、機場奔逃　在家看世盃險中花瓶｜有片",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20251226/1081103278336380928703491.jpeg/23pAdC1G4x06oq23QrErQAraxEekwP3WPQ8xSz0PMUs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60363589/%E4%BB%A5%E8%89%B2%E5%88%97%E9%98%B2%E9%95%B7-%E5%8D%B3%E4%BD%BF%E7%BE%8E%E5%9C%8B%E8%A6%81%E6%B1%82-%E4%BB%A5%E8%BB%8D%E4%B9%9F%E4%B8%8D%E6%9C%83%E5%BE%9E%E9%BB%8E%E5%B7%B4%E5%AB%A9%E5%8D%97%E9%83%A8%E6%92%A4%E8%B5%B0",
     "timestamp": "2026-06-24T11:48:09.768Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "減肥不吃飯愈減愈肥精神差？營養師教3招選對主食免復胖+晚餐組合",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260624/1146464534836285440652874.jpeg/OOf5DwrkFqoW72FBTQvuUbQOi-0L3HyJB3tc1Ad7XNQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60358290/%E6%B8%9B%E8%82%A5%E4%B8%8D%E5%90%83%E9%A3%AF%E6%84%88%E6%B8%9B%E6%84%88%E8%82%A5%E7%B2%BE%E7%A5%9E%E5%B7%AE-%E7%87%9F%E9%A4%8A%E5%B8%AB%E6%95%993%E6%8B%9B%E9%81%B8%E5%B0%8D%E4%B8%BB%E9%A3%9F%E5%85%8D%E5%BE%A9%E8%83%96-%E6%99%9A%E9%A4%90%E7%B5%84%E5%90%88",
-    "timestamp": "2026-06-24T09:20:37.137Z",
     "strategy": ".content-card__main"
   }
 ];
