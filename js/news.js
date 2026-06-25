@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-25T15:34:30.639Z
+// Last updated: 2026-06-25T16:29:54.913Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "歐洲熱浪持續　法媒：逾1億人25日經歷35度高溫　法德成重災區",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260626/1146968174281887744517043.jpeg/1CteDnJ4v6HpgU1AxDodJRrCZhs-iehcd7Lsyney7Mo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60363997/%E6%AD%90%E6%B4%B2%E7%86%B1%E6%B5%AA%E6%8C%81%E7%BA%8C-%E6%B3%95%E5%AA%92-%E9%80%BE1%E5%84%84%E4%BA%BA25%E6%97%A5%E7%B6%93%E6%AD%B735%E5%BA%A6%E9%AB%98%E6%BA%AB-%E6%B3%95%E5%BE%B7%E6%88%90%E9%87%8D%E7%81%BD%E5%8D%80",
+    "timestamp": "2026-06-25T16:29:54.913Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "苗金鳳離世｜潘志文難忘合作《俠盜風流》　感激當年助一臂之力",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260625/1146633330087694336584260.jpeg/_11SXdYZAca6s2S17JeIPRBrRQtlWRsMwwsoEcMLKBE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%81%8A%E6%88%B2%E5%8B%95%E6%BC%AB/60363639/gta-6-%E9%A6%99%E6%B8%AF%E9%A0%90%E8%B3%BC6-25%E9%96%8B%E5%A7%8B-ps5%E5%8F%8Axbox-%E5%85%A9%E7%89%88%E6%9C%AC%E5%94%AE%E5%83%B9-%E7%99%BC%E5%94%AE%E6%97%A5%E6%9C%9F%E5%85%A8%E6%94%BB%E7%95%A5",
     "timestamp": "2026-06-24T18:17:11.368Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "瑞士世界盃2026賽程｜足球排名+國家隊球員名單陣容",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260522/1134550781651849216342710.jpeg/FcTlXkYwH31mSXuywVx_GwAmhz-MgIVA974fEve-HxI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60341969/%E4%B8%96%E7%95%8C%E7%9B%832026%E7%91%9E%E5%A3%AB-%E8%B6%B3%E7%90%83%E6%8E%92%E5%90%8D-%E5%9C%8B%E5%AE%B6%E9%9A%8A%E7%90%83%E5%93%A1%E5%90%8D%E5%96%AE%E9%99%A3%E5%AE%B9-%E6%9C%80%E6%96%B0%E8%B3%BD%E7%A8%8B",
-    "timestamp": "2026-06-24T15:41:49.420Z",
     "strategy": ".content-card__main"
   }
 ];
