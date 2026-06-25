@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-25T13:25:49.154Z
+// Last updated: 2026-06-25T14:24:04.940Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "投資推廣署上半年引入413企業落戶　稱引資530億港元創逾8600職位",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260625/1146924079370997760506972.jpeg/QHRXGVPxFFS3ZvD3ga-7ZNZuj3-v8xffSI2MekiNjHo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60363974/%E6%8A%95%E8%B3%87%E6%8E%A8%E5%BB%A3%E7%BD%B2%E4%B8%8A%E5%8D%8A%E5%B9%B4%E5%BC%95%E5%85%A5413%E4%BC%81%E6%A5%AD%E8%90%BD%E6%88%B6-%E7%A8%B1%E5%BC%95%E8%B3%87530%E5%84%84%E6%B8%AF%E5%85%83%E5%89%B5%E9%80%BE8600%E8%81%B7%E4%BD%8D",
+    "timestamp": "2026-06-25T14:24:04.940Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "世界盃2026最佳第三名排名榜持續更新　頭8隊晉32強｜附計分方法",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260624/1146573870174572544207635.jpeg/r7encAmwr_AMRnpZunZZiDFM3QURIEDPQK8Ya0CvGGs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60363620/%E8%AD%A6%E8%8D%83%E7%81%A3%E6%B2%B3%E8%83%8C%E8%A1%97%E6%89%93%E6%93%8A%E8%A1%97%E9%A0%AD%E8%B3%A3%E6%B7%AB-36%E6%AD%B2%E5%85%A7%E5%9C%B0%E5%A5%B3%E6%B6%89%E5%85%A9%E7%BD%AA%E8%A2%AB%E6%8D%95-%E5%91%A8%E5%9B%9B%E6%8F%90%E5%A0%82",
     "timestamp": "2026-06-24T14:44:38.327Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "吳文忻守靈彌撒｜彭秀慧力證好友丈夫不離不棄：最後日子都係一起",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260624/1146560846265061376820436.jpeg/zGnpR-YJntK2GDxNNuVPqhJxDjiuZuAEOUWvOwNFrzs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60363610/%E5%90%B3%E6%96%87%E5%BF%BB%E5%AE%88%E9%9D%88%E5%BD%8C%E6%92%92-%E5%BD%AD%E7%A7%80%E6%85%A7%E5%8A%9B%E8%AD%89%E5%A5%BD%E5%8F%8B%E4%B8%88%E5%A4%AB%E4%B8%8D%E9%9B%A2%E4%B8%8D%E6%A3%84-%E6%9C%80%E5%BE%8C%E6%97%A5%E5%AD%90%E9%83%BD%E4%BF%82%E4%B8%80%E8%B5%B7",
-    "timestamp": "2026-06-24T13:35:16.025Z",
     "strategy": ".content-card__main"
   }
 ];
