@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-25T16:29:54.913Z
+// Last updated: 2026-06-25T17:21:54.042Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "最新天氣消息｜天文台：周五有驟雨及狂風雷暴　部分地區雨勢較大",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260514/1131663222055636992804562.jpeg/8vzjJ0uLZ3z9sfHob3A6W-4JIG8L8pvKk_71lIn-9ZQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60363941/%E6%9C%80%E6%96%B0%E5%A4%A9%E6%B0%A3%E6%B6%88%E6%81%AF-%E5%A4%A9%E6%96%87%E5%8F%B0-%E5%91%A8%E4%BA%94%E6%9C%89%E9%A9%9F%E9%9B%A8%E5%8F%8A%E7%8B%82%E9%A2%A8%E9%9B%B7%E6%9A%B4-%E9%83%A8%E5%88%86%E5%9C%B0%E5%8D%80%E9%9B%A8%E5%8B%A2%E8%BC%83%E5%A4%A7",
+    "timestamp": "2026-06-25T17:21:54.042Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "歐洲熱浪持續　法媒：逾1億人25日經歷35度高溫　法德成重災區",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260410/1119235927865036800203896.jpeg/xMm-uH9GEp_AkH56I79dWeOOrYlQ_G3CNvKOFTbyjhU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60363640/%E4%B8%AD%E5%B7%B4%E5%A4%96%E9%95%B7%E9%80%9A%E8%A9%B1-%E7%8E%8B%E6%AF%85%E7%B1%B2%E9%9E%8F%E5%9B%BA%E4%BC%8A%E6%9C%97%E5%85%A8%E9%9D%A2%E5%81%9C%E7%81%AB-%E6%81%A2%E5%BE%A9%E9%9C%8D%E7%88%BE%E6%9C%A8%E8%8C%B2%E6%AD%A3%E5%B8%B8%E9%80%9A%E8%88%AA",
     "timestamp": "2026-06-24T19:04:35.100Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "GTA 6 香港預購6.25開始｜PS5及Xbox 兩版本售價．發售日期全攻略",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260625/1146633330087694336584260.jpeg/_11SXdYZAca6s2S17JeIPRBrRQtlWRsMwwsoEcMLKBE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%81%8A%E6%88%B2%E5%8B%95%E6%BC%AB/60363639/gta-6-%E9%A6%99%E6%B8%AF%E9%A0%90%E8%B3%BC6-25%E9%96%8B%E5%A7%8B-ps5%E5%8F%8Axbox-%E5%85%A9%E7%89%88%E6%9C%AC%E5%94%AE%E5%83%B9-%E7%99%BC%E5%94%AE%E6%97%A5%E6%9C%9F%E5%85%A8%E6%94%BB%E7%95%A5",
-    "timestamp": "2026-06-24T18:17:11.368Z",
     "strategy": ".content-card__main"
   }
 ];
