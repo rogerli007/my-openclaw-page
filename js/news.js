@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-25T05:33:16.802Z
+// Last updated: 2026-06-25T06:57:57.683Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "世盃全城起動｜挪威法國料演入球「大」戰",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260625/1146828897984188416614578.jpeg/50sMVe-j0Gx3CnGXOUMT-XxJXeCcJoNRyn-unsp_rp4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60363213/%E4%B8%96%E7%9B%83%E5%85%A8%E5%9F%8E%E8%B5%B7%E5%8B%95-%E6%8C%AA%E5%A8%81%E6%B3%95%E5%9C%8B%E6%96%99%E6%BC%94%E5%85%A5%E7%90%83-%E5%A4%A7-%E6%88%B0",
+    "timestamp": "2026-06-25T06:57:57.683Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "家長蔬菜汁沖奶粉3個月大嬰兒亞硝酸鹽中毒！嬰幼兒食菜要注意3點",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260624/1146468032348950528038196.jpeg/Ou41L6kgXwFuGpjeH1EQrIACt6XQbuVvq5ZopquWaKY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60363444/%E6%9D%8E%E5%BC%B7%E5%9C%A82026%E5%A4%8F%E5%AD%A3%E9%81%94%E6%B2%83%E6%96%AF%E8%AB%96%E5%A3%87%E8%87%B4%E8%BE%AD-%E4%B8%AD%E5%9C%8B%E7%B6%93%E6%BF%9F-%E7%A9%A9-%E6%96%B0-%E6%B4%BB-%E8%9E%8D",
     "timestamp": "2026-06-24T07:52:17.058Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "羅湖口岸‧有片｜北上女被查　將內褲藏2公斤銀條掏出丟地下斷正",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260624/1146431502830014464968573.jpeg/Fl8Dgn6toi1qqDYO0dYrUf5DGpZeNdY3JvmN7Cb5jew",
-    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60363379/%E7%BE%85%E6%B9%96%E5%8F%A3%E5%B2%B8-%E6%9C%89%E7%89%87-%E5%8C%97%E4%B8%8A%E5%A5%B3%E8%A2%AB%E6%9F%A5-%E5%B0%87%E5%85%A7%E8%A4%B2%E8%97%8F2%E5%85%AC%E6%96%A4%E9%8A%80%E6%A2%9D%E6%8E%8F%E5%87%BA%E4%B8%9F%E5%9C%B0%E4%B8%8B%E6%96%B7%E6%AD%A3",
-    "timestamp": "2026-06-24T05:02:03.467Z",
     "strategy": ".content-card__main"
   }
 ];
