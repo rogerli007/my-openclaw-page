@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-25T14:24:04.940Z
+// Last updated: 2026-06-25T15:34:30.639Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "苗金鳳離世｜潘志文難忘合作《俠盜風流》　感激當年助一臂之力",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260625/1146950046420307968068915.jpeg/iSLEmQ6nLcQeYlxlo3yOuHjmRfuQjWBFFjd9FxY3fRc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60363990/%E8%8B%97%E9%87%91%E9%B3%B3%E9%9B%A2%E4%B8%96-%E6%BD%98%E5%BF%97%E6%96%87%E9%9B%A3%E5%BF%98%E5%90%88%E4%BD%9C-%E4%BF%A0%E7%9B%9C%E9%A2%A8%E6%B5%81-%E6%84%9F%E6%BF%80%E7%95%B6%E5%B9%B4%E5%8A%A9%E4%B8%80%E8%87%82%E4%B9%8B%E5%8A%9B",
+    "timestamp": "2026-06-25T15:34:30.639Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "投資推廣署上半年引入413企業落戶　稱引資530億港元創逾8600職位",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260522/1134550781651849216342710.jpeg/FcTlXkYwH31mSXuywVx_GwAmhz-MgIVA974fEve-HxI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60341969/%E4%B8%96%E7%95%8C%E7%9B%832026%E7%91%9E%E5%A3%AB-%E8%B6%B3%E7%90%83%E6%8E%92%E5%90%8D-%E5%9C%8B%E5%AE%B6%E9%9A%8A%E7%90%83%E5%93%A1%E5%90%8D%E5%96%AE%E9%99%A3%E5%AE%B9-%E6%9C%80%E6%96%B0%E8%B3%BD%E7%A8%8B",
     "timestamp": "2026-06-24T15:41:49.420Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "警荃灣河背街打擊街頭賣淫　36歲內地女涉兩罪被捕　周四提堂",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260624/1146573870174572544207635.jpeg/r7encAmwr_AMRnpZunZZiDFM3QURIEDPQK8Ya0CvGGs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60363620/%E8%AD%A6%E8%8D%83%E7%81%A3%E6%B2%B3%E8%83%8C%E8%A1%97%E6%89%93%E6%93%8A%E8%A1%97%E9%A0%AD%E8%B3%A3%E6%B7%AB-36%E6%AD%B2%E5%85%A7%E5%9C%B0%E5%A5%B3%E6%B6%89%E5%85%A9%E7%BD%AA%E8%A2%AB%E6%8D%95-%E5%91%A8%E5%9B%9B%E6%8F%90%E5%A0%82",
-    "timestamp": "2026-06-24T14:44:38.327Z",
     "strategy": ".content-card__main"
   }
 ];
