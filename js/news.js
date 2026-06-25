@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-25T01:24:16.567Z
+// Last updated: 2026-06-25T02:29:33.023Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "漢坦病毒｜世衛：疫情最快7月2日結束　累計3死13確診",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260511/1130533652543836160970354.jpeg/pC2nlt2h-5Nb5qO4SpyfeGaHtLoK7QkWPrHK1j6xytY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60363684/%E6%BC%A2%E5%9D%A6%E7%97%85%E6%AF%92-%E4%B8%96%E8%A1%9B-%E7%96%AB%E6%83%85%E6%9C%80%E5%BF%AB7%E6%9C%882%E6%97%A5%E7%B5%90%E6%9D%9F-%E7%B4%AF%E8%A8%883%E6%AD%BB13%E7%A2%BA%E8%A8%BA",
+    "timestamp": "2026-06-25T02:29:33.023Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "開冷氣狂咳！可能不是感冒是肺炎　夏季高溫潮濕滋生霉菌成兇手",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260618/1144336755114119168249783.jpeg/vbBTMR3_qPE1BISTALedAFZ-6fMap0YrWvgWbVr4Fm0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%A6%AA%E5%AD%90/60360854/%E9%90%B5%E6%8B%B3%E6%95%99%E8%82%B2-%E7%B5%A6%E7%88%B6%E6%AF%8D%E7%9A%84%E4%B8%80%E5%A0%82%E8%AA%B2-%E9%81%8E%E5%BA%A6%E5%B9%B2%E9%A0%90%E8%80%81%E5%B8%AB%E6%95%99%E5%AD%B8%E5%8F%8D%E8%80%8C%E9%98%BB%E7%A4%99%E5%AD%A9%E5%AD%90%E6%88%90%E9%95%B7",
     "timestamp": "2026-06-24T02:08:50.960Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "Google母企Alphabet「 染藍」　Verizon被踢出道指",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20251218/1078379042312294400687154.jpeg/hxtEpFKvjAvSAxHPn-7_H3BTnBc9ybcsMqoTIzKqEyM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60363280/google%E6%AF%8D%E4%BC%81alphabet-%E6%9F%93%E8%97%8D-verizon%E8%A2%AB%E8%B8%A2%E5%87%BA%E9%81%93%E6%8C%87",
-    "timestamp": "2026-06-23T23:44:55.259Z",
     "strategy": ".content-card__main"
   }
 ];
