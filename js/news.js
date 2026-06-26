@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-26T07:07:36.019Z
+// Last updated: 2026-06-26T09:51:52.521Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "日本對巴西｜《足球小將》回顧志偉對拿度尼、辛坦拿史詩級夢幻戰",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260626/1147216588395515904168053.jpeg/6h-wHnkWA1GQqoT-Y9tyDXPiCh8Y4EeQ6M7B2ujOwdo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%81%8A%E6%88%B2%E5%8B%95%E6%BC%AB/60364146/%E6%97%A5%E6%9C%AC%E5%B0%8D%E5%B7%B4%E8%A5%BF-%E8%B6%B3%E7%90%83%E5%B0%8F%E5%B0%87-%E5%9B%9E%E9%A1%A7%E5%BF%97%E5%81%89%E5%B0%8D%E6%8B%BF%E5%BA%A6%E5%B0%BC-%E8%BE%9B%E5%9D%A6%E6%8B%BF%E5%8F%B2%E8%A9%A9%E7%B4%9A%E5%A4%A2%E5%B9%BB%E6%88%B0",
+    "timestamp": "2026-06-26T09:51:52.521Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "抱子芥菜點炒唔苦？專家教2招輕鬆去苦鮮甜回甘　用滾刀法切最佳",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260625/1146767092477857792403792.jpeg/ZOD2f15B99X3-Dl5UIaIM9pN9ud7PUNdIbflWCG35Vg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%A3%9F%E7%8E%A9%E8%B2%B7/60363697/%E5%A4%A7%E5%AE%B6%E6%A8%82%E5%84%AA%E6%83%A0-50%E8%B6%B31%E6%96%A4%E5%8E%9F%E9%9A%BB%E9%86%AC%E9%A6%99%E9%9B%9E-%E5%8A%A0-10%E6%BB%B7%E6%B0%B4%E9%B4%A8%E8%88%8C-12%E6%9C%89%E9%A3%AF%E6%9C%89%E7%B3%96%E6%B0%B4",
     "timestamp": "2026-06-25T03:52:27.898Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "漢坦病毒｜世衛：疫情最快7月2日結束　累計3死13確診",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260511/1130533652543836160970354.jpeg/pC2nlt2h-5Nb5qO4SpyfeGaHtLoK7QkWPrHK1j6xytY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60363684/%E6%BC%A2%E5%9D%A6%E7%97%85%E6%AF%92-%E4%B8%96%E8%A1%9B-%E7%96%AB%E6%83%85%E6%9C%80%E5%BF%AB7%E6%9C%882%E6%97%A5%E7%B5%90%E6%9D%9F-%E7%B4%AF%E8%A8%883%E6%AD%BB13%E7%A2%BA%E8%A8%BA",
-    "timestamp": "2026-06-25T02:29:33.023Z",
     "strategy": ".content-card__main"
   }
 ];
