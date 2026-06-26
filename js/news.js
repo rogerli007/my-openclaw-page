@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-26T21:17:25.777Z
+// Last updated: 2026-06-26T21:50:22.639Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "世界盃2026｜法國4:1挫挪威首名出線　塞內加爾5:0炒伊朗",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260627/1147402922192015360851027.jpeg/TjvuBaPT1sS6n95xHhycMpLlYbIWtnIgGiT7_Bok-_w?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60364345/%E4%B8%96%E7%95%8C%E7%9B%832026-%E6%B3%95%E5%9C%8B4-1%E6%8C%AB%E6%8C%AA%E5%A8%81%E9%A6%96%E5%90%8D%E5%87%BA%E7%B7%9A-%E5%A1%9E%E5%85%A7%E5%8A%A0%E7%88%BE5-0%E7%82%92%E4%BC%8A%E6%9C%97",
+    "timestamp": "2026-06-26T21:50:22.639Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "世界盃｜夏蘭特大整蠱　遇美國球迷求合照騙對方自己是網紅｜有片",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260626/1146976513204162560059437.jpeg/y6b2Q7uZQkS8BLqsWWM1IjRabU9qHhKWlLbF3JS2xdw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%B0%88%E4%B8%8A%E6%95%99%E8%82%B2/60364005/%E4%B8%AD%E5%A4%A7%E6%A0%A1%E9%95%B7%E7%9B%A7%E7%85%9C%E6%98%8E%E7%8D%B2%E5%8A%8D%E6%A9%8B%E5%A4%A7%E5%AD%B8%E6%A6%AE%E8%AD%BD%E9%86%AB%E5%AD%B8%E7%A7%91%E5%AD%B8%E5%8D%9A%E5%A3%AB%E5%AD%B8%E4%BD%8D-%E9%A6%99%E6%B8%AF%E7%AC%AC%E4%B8%80%E4%BA%BA",
     "timestamp": "2026-06-25T18:22:01.608Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "最新天氣消息｜天文台：周五有驟雨及狂風雷暴　部分地區雨勢較大",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260514/1131663222055636992804562.jpeg/8vzjJ0uLZ3z9sfHob3A6W-4JIG8L8pvKk_71lIn-9ZQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60363941/%E6%9C%80%E6%96%B0%E5%A4%A9%E6%B0%A3%E6%B6%88%E6%81%AF-%E5%A4%A9%E6%96%87%E5%8F%B0-%E5%91%A8%E4%BA%94%E6%9C%89%E9%A9%9F%E9%9B%A8%E5%8F%8A%E7%8B%82%E9%A2%A8%E9%9B%B7%E6%9A%B4-%E9%83%A8%E5%88%86%E5%9C%B0%E5%8D%80%E9%9B%A8%E5%8B%A2%E8%BC%83%E5%A4%A7",
-    "timestamp": "2026-06-25T17:21:54.042Z",
     "strategy": ".content-card__main"
   }
 ];
