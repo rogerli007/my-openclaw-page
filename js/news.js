@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-26T17:01:41.711Z
+// Last updated: 2026-06-26T17:45:01.457Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "特朗普警告歐洲勿對美企徵收數碼服務稅　否則立即祭100%關稅報復",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260627/1147339879781240832473806.jpeg/N0f3qF9rOzDbUtbtz1hG26aeVnCqhTCIGYUKLBmFCiw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60364340/%E7%89%B9%E6%9C%97%E6%99%AE%E8%AD%A6%E5%91%8A%E6%AD%90%E6%B4%B2%E5%8B%BF%E5%B0%8D%E7%BE%8E%E4%BC%81%E5%BE%B5%E6%94%B6%E6%95%B8%E7%A2%BC%E6%9C%8D%E5%8B%99%E7%A8%85-%E5%90%A6%E5%89%87%E7%AB%8B%E5%8D%B3%E7%A5%AD100-%E9%97%9C%E7%A8%85%E5%A0%B1%E5%BE%A9",
+    "timestamp": "2026-06-26T17:45:01.457Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "「木頭姐」減持淪反向操作指標？ 　 阿里ADR早段僅跌不足1%",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260625/1146926551133065216428365.jpeg/l77QmaBdLqwtXObQmtTS75zSvLlmFGaQAwHf1wMB39c?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60363959/%E4%B8%96%E7%95%8C%E7%9B%832026%E6%9C%80%E4%BD%B3%E7%AC%AC%E4%B8%89%E5%90%8D%E6%8E%92%E5%90%8D%E6%A6%9C%E6%8C%81%E7%BA%8C%E6%9B%B4%E6%96%B0-%E9%A0%AD8%E9%9A%8A%E6%99%8932%E5%BC%B7-%E9%99%84%E8%A8%88%E5%88%86%E6%96%B9%E6%B3%95",
     "timestamp": "2026-06-25T13:25:49.154Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "海關等多部門油塘及樂富宣傳反私煙　向居民商販講解完稅標籤制度",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260625/1146906477143789568931748.jpeg/QHtDQAEL4DWei3h4NsRIN3IVrntgD8QF3_SlAN_0pQA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60363965/%E6%B5%B7%E9%97%9C%E7%AD%89%E5%A4%9A%E9%83%A8%E9%96%80%E6%B2%B9%E5%A1%98%E5%8F%8A%E6%A8%82%E5%AF%8C%E5%AE%A3%E5%82%B3%E5%8F%8D%E7%A7%81%E7%85%99-%E5%90%91%E5%B1%85%E6%B0%91%E5%95%86%E8%B2%A9%E8%AC%9B%E8%A7%A3%E5%AE%8C%E7%A8%85%E6%A8%99%E7%B1%A4%E5%88%B6%E5%BA%A6",
-    "timestamp": "2026-06-25T12:27:04.551Z",
     "strategy": ".content-card__main"
   }
 ];
