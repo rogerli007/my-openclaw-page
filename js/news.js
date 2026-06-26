@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-25T23:39:01.707Z
+// Last updated: 2026-06-26T01:26:20.856Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "SpaceX等科企股價動盪衝擊散戶情緒　傳OpenAI傾向延至明年上市",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260612/1142159835379273728570943.jpeg/7K9GAdJiVGHLYgD2873iNX0klgb1GHqlY82TRGPNk0Q?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60364036/spacex%E7%AD%89%E7%A7%91%E4%BC%81%E8%82%A1%E5%83%B9%E5%8B%95%E7%9B%AA%E8%A1%9D%E6%93%8A%E6%95%A3%E6%88%B6%E6%83%85%E7%B7%92-%E5%82%B3openai%E5%82%BE%E5%90%91%E5%BB%B6%E8%87%B3%E6%98%8E%E5%B9%B4%E4%B8%8A%E5%B8%82",
+    "timestamp": "2026-06-26T01:26:20.856Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "日本世界盃2026賽程｜國家隊球員名單陣容+足球排名+最新時間",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260624/1146478674208362496470391.png/ZIdx0fW_FBbZEdfEh-neUWqLa3v-NW5HNxKf8g0Sn_I?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60363453/%E8%A2%81%E8%A9%A0%E5%84%80%E5%86%8D%E8%88%87%E7%8B%84%E9%BE%8D%E5%90%88%E4%BD%9C-%E8%A2%AB%E5%95%8F%E5%B0%8D%E6%96%B9%E8%AA%8D%E5%94%94%E8%AA%8D%E5%BE%97%E8%87%AA%E5%B7%B1%E8%87%89%E8%89%B2%E4%B8%80%E6%B2%89-%E6%88%91%E5%8F%88%E5%86%87%E6%95%B4%E5%AE%B9",
     "timestamp": "2026-06-24T22:37:41.731Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "貝安德有望接任英國首相　英媒：擬將首相府部分職能遷至曼徹斯特",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260625/1146680371841077248094726.jpeg/ySucZV1tEHtMCG4hAoUcEKE6BPYS7akGN9Oj4jfTo-I?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60363649/%E8%B2%9D%E5%AE%89%E5%BE%B7%E6%9C%89%E6%9C%9B%E6%8E%A5%E4%BB%BB%E8%8B%B1%E5%9C%8B%E9%A6%96%E7%9B%B8-%E8%8B%B1%E5%AA%92-%E6%93%AC%E5%B0%87%E9%A6%96%E7%9B%B8%E5%BA%9C%E9%83%A8%E5%88%86%E8%81%B7%E8%83%BD%E9%81%B7%E8%87%B3%E6%9B%BC%E5%BE%B9%E6%96%AF%E7%89%B9",
-    "timestamp": "2026-06-24T21:52:19.157Z",
     "strategy": ".content-card__main"
   }
 ];
