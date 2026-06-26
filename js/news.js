@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-26T21:50:22.639Z
+// Last updated: 2026-06-26T22:36:21.940Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "委內瑞拉大地震增至920死　7名中國公民遇難　政府指5萬人失聯",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260627/1147378856257130496972604.jpeg/AD5DcRYkT4xPZUz7CsVzs34UFh-fWAmJFS4AkhUuAJI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60364343/%E5%A7%94%E5%85%A7%E7%91%9E%E6%8B%89%E5%A4%A7%E5%9C%B0%E9%9C%87%E5%A2%9E%E8%87%B3920%E6%AD%BB-7%E5%90%8D%E4%B8%AD%E5%9C%8B%E5%85%AC%E6%B0%91%E9%81%87%E9%9B%A3-%E6%94%BF%E5%BA%9C%E6%8C%875%E8%90%AC%E4%BA%BA%E5%A4%B1%E8%81%AF",
+    "timestamp": "2026-06-26T22:36:21.940Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "世界盃2026｜法國4:1挫挪威首名出線　塞內加爾5:0炒伊朗",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260621/1145181556302680064862149.jpeg/u9_dNc0u_grfBuVGt2KgH5tOi-M7BZQKYJb_72CW_-8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60364002/%E4%BC%8A%E6%9C%97%E6%93%AC%E5%B0%8D%E9%9C%8D%E7%88%BE%E6%9C%A8%E8%8C%B2%E6%B5%B7%E5%B3%BD%E6%94%B6%E6%9C%8D%E5%8B%99%E8%B2%BB-wsj-%E5%AE%98%E5%93%A1%E6%96%99%E5%B9%B4%E6%94%B6%E5%8F%AF%E9%81%94400%E5%84%84%E7%BE%8E%E5%85%83",
     "timestamp": "2026-06-25T19:19:35.311Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "中大校長盧煜明獲劍橋大學榮譽醫學科學博士學位　香港第一人",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260626/1146976513204162560059437.jpeg/y6b2Q7uZQkS8BLqsWWM1IjRabU9qHhKWlLbF3JS2xdw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%B0%88%E4%B8%8A%E6%95%99%E8%82%B2/60364005/%E4%B8%AD%E5%A4%A7%E6%A0%A1%E9%95%B7%E7%9B%A7%E7%85%9C%E6%98%8E%E7%8D%B2%E5%8A%8D%E6%A9%8B%E5%A4%A7%E5%AD%B8%E6%A6%AE%E8%AD%BD%E9%86%AB%E5%AD%B8%E7%A7%91%E5%AD%B8%E5%8D%9A%E5%A3%AB%E5%AD%B8%E4%BD%8D-%E9%A6%99%E6%B8%AF%E7%AC%AC%E4%B8%80%E4%BA%BA",
-    "timestamp": "2026-06-25T18:22:01.608Z",
     "strategy": ".content-card__main"
   }
 ];
