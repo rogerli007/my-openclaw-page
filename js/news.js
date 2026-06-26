@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-26T05:38:01.768Z
+// Last updated: 2026-06-26T07:07:36.019Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "抱子芥菜點炒唔苦？專家教2招輕鬆去苦鮮甜回甘　用滾刀法切最佳",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260626/1147157278609117184483625.jpeg/4WrrAQ637K2HGUzguD8NOmqqEDP4DJrUBNDffgTQ334?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60359067/%E6%8A%B1%E5%AD%90%E8%8A%A5%E8%8F%9C%E9%BB%9E%E7%82%92%E5%94%94%E8%8B%A6-%E5%B0%88%E5%AE%B6%E6%95%992%E6%8B%9B%E8%BC%95%E9%AC%86%E5%8E%BB%E8%8B%A6%E9%AE%AE%E7%94%9C%E5%9B%9E%E7%94%98-%E7%94%A8%E6%BB%BE%E5%88%80%E6%B3%95%E5%88%87%E6%9C%80%E4%BD%B3",
+    "timestamp": "2026-06-26T07:07:36.019Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "人妻桑拿房愛撫18歲鮮肉下體　當丈夫面被捕　辯稱：他對我有意思",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260511/1130533652543836160970354.jpeg/pC2nlt2h-5Nb5qO4SpyfeGaHtLoK7QkWPrHK1j6xytY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60363684/%E6%BC%A2%E5%9D%A6%E7%97%85%E6%AF%92-%E4%B8%96%E8%A1%9B-%E7%96%AB%E6%83%85%E6%9C%80%E5%BF%AB7%E6%9C%882%E6%97%A5%E7%B5%90%E6%9D%9F-%E7%B4%AF%E8%A8%883%E6%AD%BB13%E7%A2%BA%E8%A8%BA",
     "timestamp": "2026-06-25T02:29:33.023Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "開冷氣狂咳！可能不是感冒是肺炎　夏季高溫潮濕滋生霉菌成兇手",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260623/1146116110312017920715648.png/cCbTuZ2QCyLIy1n19piEFdynsJJRLli7wocsZsKHLGY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60358317/%E9%96%8B%E5%86%B7%E6%B0%A3%E7%8B%82%E5%92%B3-%E5%8F%AF%E8%83%BD%E4%B8%8D%E6%98%AF%E6%84%9F%E5%86%92%E6%98%AF%E8%82%BA%E7%82%8E-%E5%A4%8F%E5%AD%A3%E9%AB%98%E6%BA%AB%E6%BD%AE%E6%BF%95%E6%BB%8B%E7%94%9F%E9%9C%89%E8%8F%8C%E6%88%90%E5%85%87%E6%89%8B",
-    "timestamp": "2026-06-25T01:24:16.567Z",
     "strategy": ".content-card__main"
   }
 ];
