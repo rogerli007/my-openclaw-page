@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-26T20:45:13.398Z
+// Last updated: 2026-06-26T21:17:25.777Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "世界盃｜夏蘭特大整蠱　遇美國球迷求合照騙對方自己是網紅｜有片",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260627/1147394708494880768127950.jpeg/zSbW8yCgoVx5VXzAk7k1VUxXqsUhXZIedccF0HXHBdA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%92%B0%E7%90%83%E8%B6%A3%E8%81%9E/60364344/%E4%B8%96%E7%95%8C%E7%9B%83-%E5%A4%8F%E8%98%AD%E7%89%B9%E5%A4%A7%E6%95%B4%E8%A0%B1-%E9%81%87%E7%BE%8E%E5%9C%8B%E7%90%83%E8%BF%B7%E6%B1%82%E5%90%88%E7%85%A7%E9%A8%99%E5%B0%8D%E6%96%B9%E8%87%AA%E5%B7%B1%E6%98%AF%E7%B6%B2%E7%B4%85-%E6%9C%89%E7%89%87",
+    "timestamp": "2026-06-26T21:17:25.777Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "世界盃｜夏蘭特大整蠱　遇美國球迷求合照騙對方自己是網紅｜有片",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260514/1131663222055636992804562.jpeg/8vzjJ0uLZ3z9sfHob3A6W-4JIG8L8pvKk_71lIn-9ZQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60363941/%E6%9C%80%E6%96%B0%E5%A4%A9%E6%B0%A3%E6%B6%88%E6%81%AF-%E5%A4%A9%E6%96%87%E5%8F%B0-%E5%91%A8%E4%BA%94%E6%9C%89%E9%A9%9F%E9%9B%A8%E5%8F%8A%E7%8B%82%E9%A2%A8%E9%9B%B7%E6%9A%B4-%E9%83%A8%E5%88%86%E5%9C%B0%E5%8D%80%E9%9B%A8%E5%8B%A2%E8%BC%83%E5%A4%A7",
     "timestamp": "2026-06-25T17:21:54.042Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "歐洲熱浪持續　法媒：逾1億人25日經歷35度高溫　法德成重災區",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260626/1146968174281887744517043.jpeg/1CteDnJ4v6HpgU1AxDodJRrCZhs-iehcd7Lsyney7Mo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60363997/%E6%AD%90%E6%B4%B2%E7%86%B1%E6%B5%AA%E6%8C%81%E7%BA%8C-%E6%B3%95%E5%AA%92-%E9%80%BE1%E5%84%84%E4%BA%BA25%E6%97%A5%E7%B6%93%E6%AD%B735%E5%BA%A6%E9%AB%98%E6%BA%AB-%E6%B3%95%E5%BE%B7%E6%88%90%E9%87%8D%E7%81%BD%E5%8D%80",
-    "timestamp": "2026-06-25T16:29:54.913Z",
     "strategy": ".content-card__main"
   }
 ];
