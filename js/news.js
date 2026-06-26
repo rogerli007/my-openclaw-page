@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-26T03:52:41.053Z
+// Last updated: 2026-06-26T05:38:01.768Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "人妻桑拿房愛撫18歲鮮肉下體　當丈夫面被捕　辯稱：他對我有意思",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260626/1147132107286384640160235.png/CXIkD5mAyPNgeLc7toYU1XmYqang96NahIji6ISI4ug?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E8%A9%B1%E9%A1%8C/60364080/%E4%BA%BA%E5%A6%BB%E6%A1%91%E6%8B%BF%E6%88%BF%E6%84%9B%E6%92%AB18%E6%AD%B2%E9%AE%AE%E8%82%89%E4%B8%8B%E9%AB%94-%E7%95%B6%E4%B8%88%E5%A4%AB%E9%9D%A2%E8%A2%AB%E6%8D%95-%E8%BE%AF%E7%A8%B1-%E4%BB%96%E5%B0%8D%E6%88%91%E6%9C%89%E6%84%8F%E6%80%9D",
+    "timestamp": "2026-06-26T05:38:01.768Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "最新天氣消息｜天文台發出黃色暴雨警告　料本港廣泛地區大雨",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260623/1146116110312017920715648.png/cCbTuZ2QCyLIy1n19piEFdynsJJRLli7wocsZsKHLGY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60358317/%E9%96%8B%E5%86%B7%E6%B0%A3%E7%8B%82%E5%92%B3-%E5%8F%AF%E8%83%BD%E4%B8%8D%E6%98%AF%E6%84%9F%E5%86%92%E6%98%AF%E8%82%BA%E7%82%8E-%E5%A4%8F%E5%AD%A3%E9%AB%98%E6%BA%AB%E6%BD%AE%E6%BF%95%E6%BB%8B%E7%94%9F%E9%9C%89%E8%8F%8C%E6%88%90%E5%85%87%E6%89%8B",
     "timestamp": "2026-06-25T01:24:16.567Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普與黨友就伊朗問題爆罵戰　參議員：為人民爭取答案無懼威嚇",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260625/1146714905986994176836491.jpeg/k9XnYbYyKGN9PNlhJV8rwNQeWioJyKAFnv1taJ79bWg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60363650/%E7%89%B9%E6%9C%97%E6%99%AE%E8%88%87%E9%BB%A8%E5%8F%8B%E5%B0%B1%E4%BC%8A%E6%9C%97%E5%95%8F%E9%A1%8C%E7%88%86%E7%BD%B5%E6%88%B0-%E5%8F%83%E8%AD%B0%E5%93%A1-%E7%82%BA%E4%BA%BA%E6%B0%91%E7%88%AD%E5%8F%96%E7%AD%94%E6%A1%88%E7%84%A1%E6%87%BC%E5%A8%81%E5%9A%87",
-    "timestamp": "2026-06-24T23:46:11.955Z",
     "strategy": ".content-card__main"
   }
 ];
