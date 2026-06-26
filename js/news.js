@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-26T02:28:29.994Z
+// Last updated: 2026-06-26T03:52:41.053Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "最新天氣消息｜天文台發出黃色暴雨警告　料本港廣泛地區大雨",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260514/1131663222055636992804562.jpeg/8vzjJ0uLZ3z9sfHob3A6W-4JIG8L8pvKk_71lIn-9ZQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60363941/%E6%9C%80%E6%96%B0%E5%A4%A9%E6%B0%A3%E6%B6%88%E6%81%AF-%E5%A4%A9%E6%96%87%E5%8F%B0%E7%99%BC%E5%87%BA%E9%BB%83%E8%89%B2%E6%9A%B4%E9%9B%A8%E8%AD%A6%E5%91%8A-%E6%96%99%E6%9C%AC%E6%B8%AF%E5%BB%A3%E6%B3%9B%E5%9C%B0%E5%8D%80%E5%A4%A7%E9%9B%A8",
+    "timestamp": "2026-06-26T03:52:41.053Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "2026港元定期存款│有銀行驚喜推出活期存款高達5.08%額外年利率！",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260625/1146714905986994176836491.jpeg/k9XnYbYyKGN9PNlhJV8rwNQeWioJyKAFnv1taJ79bWg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60363650/%E7%89%B9%E6%9C%97%E6%99%AE%E8%88%87%E9%BB%A8%E5%8F%8B%E5%B0%B1%E4%BC%8A%E6%9C%97%E5%95%8F%E9%A1%8C%E7%88%86%E7%BD%B5%E6%88%B0-%E5%8F%83%E8%AD%B0%E5%93%A1-%E7%82%BA%E4%BA%BA%E6%B0%91%E7%88%AD%E5%8F%96%E7%AD%94%E6%A1%88%E7%84%A1%E6%87%BC%E5%A8%81%E5%9A%87",
     "timestamp": "2026-06-24T23:46:11.955Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "中華文化到校講座　非遺潮州工夫茶走進樂善堂楊仲明學校",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260616/1143593416462962688142396.jpeg/p0TW7KsRsTgaa0R1T1B9EZRCNYTlC2JxyA0OdMgNDnQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E4%B8%AD%E5%B0%8F%E5%AD%B8%E6%A0%A1%E5%9C%92/60359041/%E4%B8%AD%E8%8F%AF%E6%96%87%E5%8C%96%E5%88%B0%E6%A0%A1%E8%AC%9B%E5%BA%A7-%E9%9D%9E%E9%81%BA%E6%BD%AE%E5%B7%9E%E5%B7%A5%E5%A4%AB%E8%8C%B6%E8%B5%B0%E9%80%B2%E6%A8%82%E5%96%84%E5%A0%82%E6%A5%8A%E4%BB%B2%E6%98%8E%E5%AD%B8%E6%A0%A1",
-    "timestamp": "2026-06-24T23:14:22.593Z",
     "strategy": ".content-card__main"
   }
 ];
