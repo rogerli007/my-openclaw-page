@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-26T01:26:20.856Z
+// Last updated: 2026-06-26T02:28:29.994Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "2026港元定期存款│有銀行驚喜推出活期存款高達5.08%額外年利率！",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260624/1146459577663885312912068.jpeg/apJlr9VlkUwae2mnYE4_x3tZ1PgpITJew4NR9sODUfY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A0%94%E6%95%B8%E6%89%80/60355618/2026%E6%B8%AF%E5%85%83%E5%AE%9A%E6%9C%9F%E5%AD%98%E6%AC%BE-%E6%9C%89%E9%8A%80%E8%A1%8C%E9%A9%9A%E5%96%9C%E6%8E%A8%E5%87%BA%E6%B4%BB%E6%9C%9F%E5%AD%98%E6%AC%BE%E9%AB%98%E9%81%945-08-%E9%A1%8D%E5%A4%96%E5%B9%B4%E5%88%A9%E7%8E%87",
+    "timestamp": "2026-06-26T02:28:29.994Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "SpaceX等科企股價動盪衝擊散戶情緒　傳OpenAI傾向延至明年上市",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260616/1143593416462962688142396.jpeg/p0TW7KsRsTgaa0R1T1B9EZRCNYTlC2JxyA0OdMgNDnQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E4%B8%AD%E5%B0%8F%E5%AD%B8%E6%A0%A1%E5%9C%92/60359041/%E4%B8%AD%E8%8F%AF%E6%96%87%E5%8C%96%E5%88%B0%E6%A0%A1%E8%AC%9B%E5%BA%A7-%E9%9D%9E%E9%81%BA%E6%BD%AE%E5%B7%9E%E5%B7%A5%E5%A4%AB%E8%8C%B6%E8%B5%B0%E9%80%B2%E6%A8%82%E5%96%84%E5%A0%82%E6%A5%8A%E4%BB%B2%E6%98%8E%E5%AD%B8%E6%A0%A1",
     "timestamp": "2026-06-24T23:14:22.593Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "金像影后再合作狄龍　被問對方認唔認得自己臉色一沉：我又冇整容",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260624/1146478674208362496470391.png/ZIdx0fW_FBbZEdfEh-neUWqLa3v-NW5HNxKf8g0Sn_I?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60363453/%E8%A2%81%E8%A9%A0%E5%84%80%E5%86%8D%E8%88%87%E7%8B%84%E9%BE%8D%E5%90%88%E4%BD%9C-%E8%A2%AB%E5%95%8F%E5%B0%8D%E6%96%B9%E8%AA%8D%E5%94%94%E8%AA%8D%E5%BE%97%E8%87%AA%E5%B7%B1%E8%87%89%E8%89%B2%E4%B8%80%E6%B2%89-%E6%88%91%E5%8F%88%E5%86%87%E6%95%B4%E5%AE%B9",
-    "timestamp": "2026-06-24T22:37:41.731Z",
     "strategy": ".content-card__main"
   }
 ];
