@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-26T13:04:50.357Z
+// Last updated: 2026-06-26T14:02:27.468Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "雷凱欣神隱多年轉行揸的士　新手上路打扮樸素：你哋男人好叻咩",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260626/1147257952155996160780643.jpeg/-ImyxQEGYd5IW1bKeksVMLZ3GIn2Ohh68eMxdfHjMXU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60364242/%E9%9B%B7%E5%87%B1%E6%AC%A3%E7%A5%9E%E9%9A%B1%E5%A4%9A%E5%B9%B4%E8%BD%89%E8%A1%8C%E6%8F%B8%E7%9A%84%E5%A3%AB-%E6%96%B0%E6%89%8B%E4%B8%8A%E8%B7%AF%E6%89%93%E6%89%AE%E6%A8%B8%E7%B4%A0-%E4%BD%A0%E5%93%8B%E7%94%B7%E4%BA%BA%E5%A5%BD%E5%8F%BB%E5%92%A9",
+    "timestamp": "2026-06-26T14:02:27.468Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "邱士縉意外遺失手機靠定位追蹤　公開定位截圖隔空喊話驚揭一秘密",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260625/1146828897984188416614578.jpeg/50sMVe-j0Gx3CnGXOUMT-XxJXeCcJoNRyn-unsp_rp4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60363213/%E4%B8%96%E7%9B%83%E5%85%A8%E5%9F%8E%E8%B5%B7%E5%8B%95-%E6%8C%AA%E5%A8%81%E6%B3%95%E5%9C%8B%E6%96%99%E6%BC%94%E5%85%A5%E7%90%83-%E5%A4%A7-%E6%88%B0",
     "timestamp": "2026-06-25T06:57:57.683Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "家長蔬菜汁沖奶粉3個月大嬰兒亞硝酸鹽中毒！嬰幼兒食菜要注意3點",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260625/1146651269666967552148095.jpeg/ul1yi_JMKKtZan-SeaG_r1Jor8rnggHgeNQ6znjUOs4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%A6%AA%E5%AD%90/60361485/%E5%AE%B6%E9%95%B7%E8%94%AC%E8%8F%9C%E6%B1%81%E6%B2%96%E5%A5%B6%E7%B2%893%E5%80%8B%E6%9C%88%E5%A4%A7%E5%AC%B0%E5%85%92%E4%BA%9E%E7%A1%9D%E9%85%B8%E9%B9%BD%E4%B8%AD%E6%AF%92-%E5%AC%B0%E5%B9%BC%E5%85%92%E9%A3%9F%E8%8F%9C%E8%A6%81%E6%B3%A8%E6%84%8F3%E9%BB%9E",
-    "timestamp": "2026-06-25T05:33:16.802Z",
     "strategy": ".content-card__main"
   }
 ];
