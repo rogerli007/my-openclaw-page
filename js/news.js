@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-26T09:51:52.521Z
+// Last updated: 2026-06-26T13:04:50.357Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "邱士縉意外遺失手機靠定位追蹤　公開定位截圖隔空喊話驚揭一秘密",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260626/1147190573027823616389417.jpeg/MuHcTyTx2Kt4ciF06ILlxE28gUURfYi650GATedBgE0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60364143/%E9%82%B1%E5%A3%AB%E7%B8%89%E6%84%8F%E5%A4%96%E9%81%BA%E5%A4%B1%E6%89%8B%E6%A9%9F%E9%9D%A0%E5%AE%9A%E4%BD%8D%E8%BF%BD%E8%B9%A4-%E5%85%AC%E9%96%8B%E5%AE%9A%E4%BD%8D%E6%88%AA%E5%9C%96%E9%9A%94%E7%A9%BA%E5%96%8A%E8%A9%B1%E9%A9%9A%E6%8F%AD%E4%B8%80%E7%A7%98%E5%AF%86",
+    "timestamp": "2026-06-26T13:04:50.357Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "日本對巴西｜《足球小將》回顧志偉對拿度尼、辛坦拿史詩級夢幻戰",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260625/1146651269666967552148095.jpeg/ul1yi_JMKKtZan-SeaG_r1Jor8rnggHgeNQ6znjUOs4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%A6%AA%E5%AD%90/60361485/%E5%AE%B6%E9%95%B7%E8%94%AC%E8%8F%9C%E6%B1%81%E6%B2%96%E5%A5%B6%E7%B2%893%E5%80%8B%E6%9C%88%E5%A4%A7%E5%AC%B0%E5%85%92%E4%BA%9E%E7%A1%9D%E9%85%B8%E9%B9%BD%E4%B8%AD%E6%AF%92-%E5%AC%B0%E5%B9%BC%E5%85%92%E9%A3%9F%E8%8F%9C%E8%A6%81%E6%B3%A8%E6%84%8F3%E9%BB%9E",
     "timestamp": "2026-06-25T05:33:16.802Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "大家樂優惠｜$50足1斤原隻醬香雞！加$10滷水鴨舌／$12有飯有糖水",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260625/1146767092477857792403792.jpeg/ZOD2f15B99X3-Dl5UIaIM9pN9ud7PUNdIbflWCG35Vg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%A3%9F%E7%8E%A9%E8%B2%B7/60363697/%E5%A4%A7%E5%AE%B6%E6%A8%82%E5%84%AA%E6%83%A0-50%E8%B6%B31%E6%96%A4%E5%8E%9F%E9%9A%BB%E9%86%AC%E9%A6%99%E9%9B%9E-%E5%8A%A0-10%E6%BB%B7%E6%B0%B4%E9%B4%A8%E8%88%8C-12%E6%9C%89%E9%A3%AF%E6%9C%89%E7%B3%96%E6%B0%B4",
-    "timestamp": "2026-06-25T03:52:27.898Z",
     "strategy": ".content-card__main"
   }
 ];
