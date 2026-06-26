@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-26T14:02:27.468Z
+// Last updated: 2026-06-26T15:07:35.234Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "打假波拘19人｜至尊足球會：與主席無條件配合調查　對違法零容忍",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260626/1147308443141410816214039.png/u0yMeDH1Wrm34bZkaxDwnNvmzvpiOmYFHJS93RyUvd0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60364329/%E6%89%93%E5%81%87%E6%B3%A2%E6%8B%9819%E4%BA%BA-%E8%87%B3%E5%B0%8A%E8%B6%B3%E7%90%83%E6%9C%83-%E8%88%87%E4%B8%BB%E5%B8%AD%E7%84%A1%E6%A2%9D%E4%BB%B6%E9%85%8D%E5%90%88%E8%AA%BF%E6%9F%A5-%E5%B0%8D%E9%81%95%E6%B3%95%E9%9B%B6%E5%AE%B9%E5%BF%8D",
+    "timestamp": "2026-06-26T15:07:35.234Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "雷凱欣神隱多年轉行揸的士　新手上路打扮樸素：你哋男人好叻咩",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260625/1146827188532809728291704.jpeg/fKF9uADbxlL189YHSOYDZp8rxS6QEgmGXbrYqF262Kg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60363863/%E5%A7%94%E5%85%A7%E7%91%9E%E6%8B%89%E5%9C%B0%E9%9C%87%E4%B8%80%E5%88%BB-%E6%A8%93%E5%80%92%E5%A1%8C-%E6%A9%9F%E5%A0%B4%E5%A5%94%E9%80%83-%E5%9C%A8%E5%AE%B6%E7%9C%8B%E4%B8%96%E7%9B%83%E9%9A%AA%E4%B8%AD%E8%8A%B1%E7%93%B6-%E6%9C%89%E7%89%87",
     "timestamp": "2026-06-25T08:17:01.570Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "世盃全城起動｜挪威法國料演入球「大」戰",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260625/1146828897984188416614578.jpeg/50sMVe-j0Gx3CnGXOUMT-XxJXeCcJoNRyn-unsp_rp4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60363213/%E4%B8%96%E7%9B%83%E5%85%A8%E5%9F%8E%E8%B5%B7%E5%8B%95-%E6%8C%AA%E5%A8%81%E6%B3%95%E5%9C%8B%E6%96%99%E6%BC%94%E5%85%A5%E7%90%83-%E5%A4%A7-%E6%88%B0",
-    "timestamp": "2026-06-25T06:57:57.683Z",
     "strategy": ".content-card__main"
   }
 ];
