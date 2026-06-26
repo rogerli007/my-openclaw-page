@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-26T18:23:22.567Z
+// Last updated: 2026-06-26T19:13:21.971Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "特朗普前國安顧問博爾頓認非法保留機密資料罪　面臨最高5年監禁",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260627/1147358238027550720107528.jpeg/UPSypFxu8vIuvhI6QoqK16mrZRVnVXaZbXfjtm1347Y?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60364342/%E7%89%B9%E6%9C%97%E6%99%AE%E5%89%8D%E5%9C%8B%E5%AE%89%E9%A1%A7%E5%95%8F%E5%8D%9A%E7%88%BE%E9%A0%93%E8%AA%8D%E9%9D%9E%E6%B3%95%E4%BF%9D%E7%95%99%E6%A9%9F%E5%AF%86%E8%B3%87%E6%96%99%E7%BD%AA-%E9%9D%A2%E8%87%A8%E6%9C%80%E9%AB%985%E5%B9%B4%E7%9B%A3%E7%A6%81",
+    "timestamp": "2026-06-26T19:13:21.971Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "特朗普前國安顧問博爾頓認非法保留機密資料罪　面臨最高5年監禁",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260625/1146950046420307968068915.jpeg/iSLEmQ6nLcQeYlxlo3yOuHjmRfuQjWBFFjd9FxY3fRc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60363990/%E8%8B%97%E9%87%91%E9%B3%B3%E9%9B%A2%E4%B8%96-%E6%BD%98%E5%BF%97%E6%96%87%E9%9B%A3%E5%BF%98%E5%90%88%E4%BD%9C-%E4%BF%A0%E7%9B%9C%E9%A2%A8%E6%B5%81-%E6%84%9F%E6%BF%80%E7%95%B6%E5%B9%B4%E5%8A%A9%E4%B8%80%E8%87%82%E4%B9%8B%E5%8A%9B",
     "timestamp": "2026-06-25T15:34:30.639Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "投資推廣署上半年引入413企業落戶　稱引資530億港元創逾8600職位",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260625/1146924079370997760506972.jpeg/QHRXGVPxFFS3ZvD3ga-7ZNZuj3-v8xffSI2MekiNjHo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60363974/%E6%8A%95%E8%B3%87%E6%8E%A8%E5%BB%A3%E7%BD%B2%E4%B8%8A%E5%8D%8A%E5%B9%B4%E5%BC%95%E5%85%A5413%E4%BC%81%E6%A5%AD%E8%90%BD%E6%88%B6-%E7%A8%B1%E5%BC%95%E8%B3%87530%E5%84%84%E6%B8%AF%E5%85%83%E5%89%B5%E9%80%BE8600%E8%81%B7%E4%BD%8D",
-    "timestamp": "2026-06-25T14:24:04.940Z",
     "strategy": ".content-card__main"
   }
 ];
