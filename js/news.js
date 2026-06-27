@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-27T14:02:23.004Z
+// Last updated: 2026-06-27T16:19:53.751Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "吳彥祖竟被本地歌手錯認係方中Sir　網民震驚糾正：佢唔係許紹雄",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260627/1147588523574956032728395.jpeg/2_VypZDBG3iYSFLo5plJb48H4Le_JBpAYMcLp2DHC6c?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60364447/%E5%90%B3%E5%BD%A5%E7%A5%96%E7%AB%9F%E8%A2%AB%E6%9C%AC%E5%9C%B0%E6%AD%8C%E6%89%8B%E9%8C%AF%E8%AA%8D%E4%BF%82%E6%96%B9%E4%B8%ADsir-%E7%B6%B2%E6%B0%91%E9%9C%87%E9%A9%9A%E7%B3%BE%E6%AD%A3-%E4%BD%A2%E5%94%94%E4%BF%82%E8%A8%B1%E7%B4%B9%E9%9B%84",
+    "timestamp": "2026-06-27T16:19:53.751Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "結業潮｜周潤發愛店「好酒好蔡」神話告終　碧咸曾邀團隊倫敦設宴",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260627/1147339892670337024406857.jpeg/3mlH7rvqeN8f5rEpS3VbXpjBsmJC90uXgTvPmoE7z5o?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60364341/%E6%9C%A8%E9%A0%AD%E5%A7%90-%E6%B8%9B%E6%8C%81%E6%B7%AA%E5%8F%8D%E5%90%91%E6%93%8D%E4%BD%9C%E6%8C%87%E6%A8%99-%E9%98%BF%E9%87%8Cadr%E6%97%A9%E6%AE%B5%E5%83%85%E8%B7%8C%E4%B8%8D%E8%B6%B31",
     "timestamp": "2026-06-26T17:01:41.711Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "打假波拘19人｜至尊足球會：與主席無條件配合調查　對違法零容忍",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260626/1147308443141410816214039.png/u0yMeDH1Wrm34bZkaxDwnNvmzvpiOmYFHJS93RyUvd0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60364329/%E6%89%93%E5%81%87%E6%B3%A2%E6%8B%9819%E4%BA%BA-%E8%87%B3%E5%B0%8A%E8%B6%B3%E7%90%83%E6%9C%83-%E8%88%87%E4%B8%BB%E5%B8%AD%E7%84%A1%E6%A2%9D%E4%BB%B6%E9%85%8D%E5%90%88%E8%AA%BF%E6%9F%A5-%E5%B0%8D%E9%81%95%E6%B3%95%E9%9B%B6%E5%AE%B9%E5%BF%8D",
-    "timestamp": "2026-06-26T15:07:35.234Z",
     "strategy": ".content-card__main"
   }
 ];
