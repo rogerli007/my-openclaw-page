@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-27T18:48:05.261Z
+// Last updated: 2026-06-27T19:20:41.519Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "歐洲熱浪｜西班牙一周327死　柏林41度出動水炮車為民降溫｜有片",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260628/1147732262226235392271654.jpeg/lhc7SbAS86hwqCnAe4JDXBaWwlAfdMB5X7mYRF-5mEQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60364521/%E6%AD%90%E6%B4%B2%E7%86%B1%E6%B5%AA-%E8%A5%BF%E7%8F%AD%E7%89%99%E4%B8%80%E5%91%A8327%E6%AD%BB-%E6%9F%8F%E6%9E%9741%E5%BA%A6%E5%87%BA%E5%8B%95%E6%B0%B4%E7%82%AE%E8%BB%8A%E7%82%BA%E6%B0%91%E9%99%8D%E6%BA%AB-%E6%9C%89%E7%89%87",
+    "timestamp": "2026-06-27T19:20:41.519Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "用壞3支驗孕棒！女子操作失誤申請僅退款　諷商家：有我是你榮幸",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260627/1147402922192015360851027.jpeg/TjvuBaPT1sS6n95xHhycMpLlYbIWtnIgGiT7_Bok-_w?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60364345/%E4%B8%96%E7%95%8C%E7%9B%832026-%E6%B3%95%E5%9C%8B4-1%E6%8C%AB%E6%8C%AA%E5%A8%81%E9%A6%96%E5%90%8D%E5%87%BA%E7%B7%9A-%E5%A1%9E%E5%85%A7%E5%8A%A0%E7%88%BE5-0%E7%82%92%E4%BC%8A%E6%9C%97",
     "timestamp": "2026-06-26T21:50:22.639Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "世界盃｜夏蘭特大整蠱　遇美國球迷求合照騙對方自己是網紅｜有片",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260627/1147394708494880768127950.jpeg/zSbW8yCgoVx5VXzAk7k1VUxXqsUhXZIedccF0HXHBdA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%92%B0%E7%90%83%E8%B6%A3%E8%81%9E/60364344/%E4%B8%96%E7%95%8C%E7%9B%83-%E5%A4%8F%E8%98%AD%E7%89%B9%E5%A4%A7%E6%95%B4%E8%A0%B1-%E9%81%87%E7%BE%8E%E5%9C%8B%E7%90%83%E8%BF%B7%E6%B1%82%E5%90%88%E7%85%A7%E9%A8%99%E5%B0%8D%E6%96%B9%E8%87%AA%E5%B7%B1%E6%98%AF%E7%B6%B2%E7%B4%85-%E6%9C%89%E7%89%87",
-    "timestamp": "2026-06-26T21:17:25.777Z",
     "strategy": ".content-card__main"
   }
 ];
