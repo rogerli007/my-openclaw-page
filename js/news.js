@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-27T16:19:53.751Z
+// Last updated: 2026-06-27T16:50:39.757Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "最新天氣消息｜天文台料低壓槽周日南海北部徘徊　本港有驟雨雷暴",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260627/1147619221128089600738529.jpeg/v3t-3BKoud3zSP-LtGit9M9AaWlFGv1KMPd_NzD3fzc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60364353/%E6%9C%80%E6%96%B0%E5%A4%A9%E6%B0%A3%E6%B6%88%E6%81%AF-%E5%A4%A9%E6%96%87%E5%8F%B0%E6%96%99%E4%BD%8E%E5%A3%93%E6%A7%BD%E5%91%A8%E6%97%A5%E5%8D%97%E6%B5%B7%E5%8C%97%E9%83%A8%E5%BE%98%E5%BE%8A-%E6%9C%AC%E6%B8%AF%E6%9C%89%E9%A9%9F%E9%9B%A8%E9%9B%B7%E6%9A%B4",
+    "timestamp": "2026-06-27T16:50:39.757Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "吳彥祖竟被本地歌手錯認係方中Sir　網民震驚糾正：佢唔係許紹雄",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260627/1147339879781240832473806.jpeg/N0f3qF9rOzDbUtbtz1hG26aeVnCqhTCIGYUKLBmFCiw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60364340/%E7%89%B9%E6%9C%97%E6%99%AE%E8%AD%A6%E5%91%8A%E6%AD%90%E6%B4%B2%E5%8B%BF%E5%B0%8D%E7%BE%8E%E4%BC%81%E5%BE%B5%E6%94%B6%E6%95%B8%E7%A2%BC%E6%9C%8D%E5%8B%99%E7%A8%85-%E5%90%A6%E5%89%87%E7%AB%8B%E5%8D%B3%E7%A5%AD100-%E9%97%9C%E7%A8%85%E5%A0%B1%E5%BE%A9",
     "timestamp": "2026-06-26T17:45:01.457Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "「木頭姐」減持淪反向操作指標？ 　 阿里ADR早段僅跌不足1%",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260627/1147339892670337024406857.jpeg/3mlH7rvqeN8f5rEpS3VbXpjBsmJC90uXgTvPmoE7z5o?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60364341/%E6%9C%A8%E9%A0%AD%E5%A7%90-%E6%B8%9B%E6%8C%81%E6%B7%AA%E5%8F%8D%E5%90%91%E6%93%8D%E4%BD%9C%E6%8C%87%E6%A8%99-%E9%98%BF%E9%87%8Cadr%E6%97%A9%E6%AE%B5%E5%83%85%E8%B7%8C%E4%B8%8D%E8%B6%B31",
-    "timestamp": "2026-06-26T17:01:41.711Z",
     "strategy": ".content-card__main"
   }
 ];
