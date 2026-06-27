@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-27T00:16:12.181Z
+// Last updated: 2026-06-27T03:52:21.061Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "颱風米克拉｜台灣暴雨2死2失蹤　新竹女揸車返工困車內慘滅頂溺斃",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260627/1147495494319083520628431.png/D2tDLQZIWLgtfn4KxKYd32LnSPuvELKcj0pnY49KZ2M?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8F%B0%E7%81%A3%E6%96%B0%E8%81%9E/60364380/%E9%A2%B1%E9%A2%A8%E7%B1%B3%E5%85%8B%E6%8B%89-%E5%8F%B0%E7%81%A3%E6%9A%B4%E9%9B%A82%E6%AD%BB2%E5%A4%B1%E8%B9%A4-%E6%96%B0%E7%AB%B9%E5%A5%B3%E6%8F%B8%E8%BB%8A%E8%BF%94%E5%B7%A5%E5%9B%B0%E8%BB%8A%E5%85%A7%E6%85%98%E6%BB%85%E9%A0%82%E6%BA%BA%E6%96%83",
+    "timestamp": "2026-06-27T03:52:21.061Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "日本家常菜「建長汁」吃完不能留一粒米　竟源自百年歷史修禪古寺",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260522/1134539738603065344601329.jpeg/4BZJKSAfScM2F1y2PUjUulD-EGIRaTY5vUqjkL1Ko5A?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60352586/%E6%97%A5%E6%9C%AC%E4%B8%96%E7%95%8C%E7%9B%832026%E8%B3%BD%E7%A8%8B-%E5%9C%8B%E5%AE%B6%E9%9A%8A%E7%90%83%E5%93%A1%E5%90%8D%E5%96%AE%E9%99%A3%E5%AE%B9-%E8%B6%B3%E7%90%83%E6%8E%92%E5%90%8D-%E6%9C%80%E6%96%B0%E6%99%82%E9%96%93",
     "timestamp": "2026-06-25T23:39:01.707Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "委內瑞拉遇百年最強地震188死1520傷　總統感謝中國願援助",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260626/1147006055553699840076841.jpeg/jnNMljGkjL_sVeAByb33iyQz9JhEWF_1P1nJrz9Zya8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60364008/%E5%A7%94%E5%85%A7%E7%91%9E%E6%8B%89%E9%81%87%E7%99%BE%E5%B9%B4%E6%9C%80%E5%BC%B7%E5%9C%B0%E9%9C%87188%E6%AD%BB1520%E5%82%B7-%E7%B8%BD%E7%B5%B1%E6%84%9F%E8%AC%9D%E4%B8%AD%E5%9C%8B%E9%A1%98%E6%8F%B4%E5%8A%A9",
-    "timestamp": "2026-06-25T21:00:58.832Z",
     "strategy": ".content-card__main"
   }
 ];
