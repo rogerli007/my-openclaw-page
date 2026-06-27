@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-27T06:43:17.591Z
+// Last updated: 2026-06-27T07:47:40.089Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "國際龍舟賽首日天陰無雨　參加健兒：天熱返　但蓋唔過我哋嘅熱情",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260627/1147543337012563968382756.jpeg/JWW_-wnzt9HxI2ferzna1CC613Uo9W_jmxecjJsXnIw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60364422/%E5%9C%8B%E9%9A%9B%E9%BE%8D%E8%88%9F%E8%B3%BD%E9%A6%96%E6%97%A5%E5%A4%A9%E9%99%B0%E7%84%A1%E9%9B%A8-%E5%8F%83%E5%8A%A0%E5%81%A5%E5%85%92-%E5%A4%A9%E7%86%B1%E8%BF%94-%E4%BD%86%E8%93%8B%E5%94%94%E9%81%8E%E6%88%91%E5%93%8B%E5%98%85%E7%86%B1%E6%83%85",
+    "timestamp": "2026-06-27T07:47:40.089Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "颱風「海高斯」掠過東京附近　更強「米克拉」逼近日本料再增雨量",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260514/1131663222055636992804562.jpeg/8vzjJ0uLZ3z9sfHob3A6W-4JIG8L8pvKk_71lIn-9ZQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60363941/%E6%9C%80%E6%96%B0%E5%A4%A9%E6%B0%A3%E6%B6%88%E6%81%AF-%E5%A4%A9%E6%96%87%E5%8F%B0%E7%99%BC%E5%87%BA%E9%BB%83%E8%89%B2%E6%9A%B4%E9%9B%A8%E8%AD%A6%E5%91%8A-%E6%96%99%E6%9C%AC%E6%B8%AF%E5%BB%A3%E6%B3%9B%E5%9C%B0%E5%8D%80%E5%A4%A7%E9%9B%A8",
     "timestamp": "2026-06-26T03:52:41.053Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "2026港元定期存款│有銀行驚喜推出活期存款高達5.08%額外年利率！",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260624/1146459577663885312912068.jpeg/apJlr9VlkUwae2mnYE4_x3tZ1PgpITJew4NR9sODUfY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A0%94%E6%95%B8%E6%89%80/60355618/2026%E6%B8%AF%E5%85%83%E5%AE%9A%E6%9C%9F%E5%AD%98%E6%AC%BE-%E6%9C%89%E9%8A%80%E8%A1%8C%E9%A9%9A%E5%96%9C%E6%8E%A8%E5%87%BA%E6%B4%BB%E6%9C%9F%E5%AD%98%E6%AC%BE%E9%AB%98%E9%81%945-08-%E9%A1%8D%E5%A4%96%E5%B9%B4%E5%88%A9%E7%8E%87",
-    "timestamp": "2026-06-26T02:28:29.994Z",
     "strategy": ".content-card__main"
   }
 ];
