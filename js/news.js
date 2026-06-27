@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-26T22:36:21.940Z
+// Last updated: 2026-06-27T00:16:12.181Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "日本家常菜「建長汁」吃完不能留一粒米　竟源自百年歷史修禪古寺",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260622/1145702609659629568082375.jpeg/0gIbp66CRQb1IF7DBF6Ox8XF9c-xG5gbZJBwDmSQcA4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E4%B8%96%E7%95%8C%E5%B0%88%E9%A1%8C/60362607/%E6%97%A5%E6%9C%AC%E5%AE%B6%E5%B8%B8%E8%8F%9C-%E5%BB%BA%E9%95%B7%E6%B1%81-%E5%90%83%E5%AE%8C%E4%B8%8D%E8%83%BD%E7%95%99%E4%B8%80%E7%B2%92%E7%B1%B3-%E7%AB%9F%E6%BA%90%E8%87%AA%E7%99%BE%E5%B9%B4%E6%AD%B7%E5%8F%B2%E4%BF%AE%E7%A6%AA%E5%8F%A4%E5%AF%BA",
+    "timestamp": "2026-06-27T00:16:12.181Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "委內瑞拉大地震增至920死　7名中國公民遇難　政府指5萬人失聯",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260626/1147006055553699840076841.jpeg/jnNMljGkjL_sVeAByb33iyQz9JhEWF_1P1nJrz9Zya8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60364008/%E5%A7%94%E5%85%A7%E7%91%9E%E6%8B%89%E9%81%87%E7%99%BE%E5%B9%B4%E6%9C%80%E5%BC%B7%E5%9C%B0%E9%9C%87188%E6%AD%BB1520%E5%82%B7-%E7%B8%BD%E7%B5%B1%E6%84%9F%E8%AC%9D%E4%B8%AD%E5%9C%8B%E9%A1%98%E6%8F%B4%E5%8A%A9",
     "timestamp": "2026-06-25T21:00:58.832Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "伊朗擬對霍爾木茲海峽收服務費　WSJ：官員料年收可達400億美元",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260621/1145181556302680064862149.jpeg/u9_dNc0u_grfBuVGt2KgH5tOi-M7BZQKYJb_72CW_-8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60364002/%E4%BC%8A%E6%9C%97%E6%93%AC%E5%B0%8D%E9%9C%8D%E7%88%BE%E6%9C%A8%E8%8C%B2%E6%B5%B7%E5%B3%BD%E6%94%B6%E6%9C%8D%E5%8B%99%E8%B2%BB-wsj-%E5%AE%98%E5%93%A1%E6%96%99%E5%B9%B4%E6%94%B6%E5%8F%AF%E9%81%94400%E5%84%84%E7%BE%8E%E5%85%83",
-    "timestamp": "2026-06-25T19:19:35.311Z",
     "strategy": ".content-card__main"
   }
 ];
