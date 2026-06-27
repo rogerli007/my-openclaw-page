@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-27T19:20:41.519Z
+// Last updated: 2026-06-27T20:01:33.316Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "珍惜生命｜旺角男子危站天橋　消防張開氣墊　男子自行返安全位置",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260628/1147744246036434944876409.jpeg/v0aRJnbNokAncM0LTCxKJXWiitsixvUGzPfgbvb34G4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60364523/%E7%8F%8D%E6%83%9C%E7%94%9F%E5%91%BD-%E6%97%BA%E8%A7%92%E7%94%B7%E5%AD%90%E5%8D%B1%E7%AB%99%E5%A4%A9%E6%A9%8B-%E6%B6%88%E9%98%B2%E5%BC%B5%E9%96%8B%E6%B0%A3%E5%A2%8A-%E7%94%B7%E5%AD%90%E8%87%AA%E8%A1%8C%E8%BF%94%E5%AE%89%E5%85%A8%E4%BD%8D%E7%BD%AE",
+    "timestamp": "2026-06-27T20:01:33.316Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "歐洲熱浪｜西班牙一周327死　柏林41度出動水炮車為民降溫｜有片",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260627/1147378856257130496972604.jpeg/AD5DcRYkT4xPZUz7CsVzs34UFh-fWAmJFS4AkhUuAJI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60364343/%E5%A7%94%E5%85%A7%E7%91%9E%E6%8B%89%E5%A4%A7%E5%9C%B0%E9%9C%87%E5%A2%9E%E8%87%B3920%E6%AD%BB-7%E5%90%8D%E4%B8%AD%E5%9C%8B%E5%85%AC%E6%B0%91%E9%81%87%E9%9B%A3-%E6%94%BF%E5%BA%9C%E6%8C%875%E8%90%AC%E4%BA%BA%E5%A4%B1%E8%81%AF",
     "timestamp": "2026-06-26T22:36:21.940Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "世界盃2026｜法國4:1挫挪威首名出線　塞內加爾5:0炒伊朗",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260627/1147402922192015360851027.jpeg/TjvuBaPT1sS6n95xHhycMpLlYbIWtnIgGiT7_Bok-_w?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60364345/%E4%B8%96%E7%95%8C%E7%9B%832026-%E6%B3%95%E5%9C%8B4-1%E6%8C%AB%E6%8C%AA%E5%A8%81%E9%A6%96%E5%90%8D%E5%87%BA%E7%B7%9A-%E5%A1%9E%E5%85%A7%E5%8A%A0%E7%88%BE5-0%E7%82%92%E4%BC%8A%E6%9C%97",
-    "timestamp": "2026-06-26T21:50:22.639Z",
     "strategy": ".content-card__main"
   }
 ];
