@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-27T22:14:18.308Z
+// Last updated: 2026-06-27T23:14:47.173Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "世界盃2026｜克羅地亞2：1加納雙雙出線　莫迪歷打足全場獻助攻",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260628/1147781516764385280216758.jpeg/YZ3i0BwhCuEzJj6cg-GtOy62NZsJ5qcJAPlq3gD5at4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60364529/%E4%B8%96%E7%95%8C%E7%9B%832026-%E5%85%8B%E7%BE%85%E5%9C%B0%E4%BA%9E2-1%E5%8A%A0%E7%B4%8D%E9%9B%99%E9%9B%99%E5%87%BA%E7%B7%9A-%E8%8E%AB%E8%BF%AA%E6%AD%B7%E6%89%93%E8%B6%B3%E5%85%A8%E5%A0%B4%E7%8D%BB%E5%8A%A9%E6%94%BB",
+    "timestamp": "2026-06-27T23:14:47.173Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "世界盃2026｜英格蘭爭首名　對巴拿馬半場0：0　拉舒福特不乏攻門",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260627/1147543337012563968382756.jpeg/JWW_-wnzt9HxI2ferzna1CC613Uo9W_jmxecjJsXnIw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60364422/%E5%9C%8B%E9%9A%9B%E9%BE%8D%E8%88%9F%E8%B3%BD%E9%A6%96%E6%97%A5%E5%A4%A9%E9%99%B0%E7%84%A1%E9%9B%A8-%E5%8F%83%E5%8A%A0%E5%81%A5%E5%85%92-%E5%A4%A9%E7%86%B1%E8%BF%94-%E4%BD%86%E8%93%8B%E5%94%94%E9%81%8E%E6%88%91%E5%93%8B%E5%98%85%E7%86%B1%E6%83%85",
     "timestamp": "2026-06-27T07:47:40.089Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "颱風「海高斯」掠過東京附近　更強「米克拉」逼近日本料再增雨量",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260626/1147068206695845888809425.png/4JBxKRqG4HpEx_gu2BU12aUQ6RYFiMp18y8SZfMvEmU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60364423/%E9%A2%B1%E9%A2%A8-%E6%B5%B7%E9%AB%98%E6%96%AF-%E6%8E%A0%E9%81%8E%E6%9D%B1%E4%BA%AC%E9%99%84%E8%BF%91-%E6%9B%B4%E5%BC%B7-%E7%B1%B3%E5%85%8B%E6%8B%89-%E9%80%BC%E8%BF%91%E6%97%A5%E6%9C%AC%E6%96%99%E5%86%8D%E5%A2%9E%E9%9B%A8%E9%87%8F",
-    "timestamp": "2026-06-27T06:43:17.591Z",
     "strategy": ".content-card__main"
   }
 ];
