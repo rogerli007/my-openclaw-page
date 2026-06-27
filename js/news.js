@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-27T03:52:21.061Z
+// Last updated: 2026-06-27T05:28:54.568Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "陳茂波：商業航天要「融得到賣得遠走得穩」　香港可做國際接口",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260627/1147520898245332992850762.jpeg/S8DD80gXELWku4RAzVYm1usW0s6Xt7B8Cost2gqLLdo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60364406/%E9%99%B3%E8%8C%82%E6%B3%A2-%E5%95%86%E6%A5%AD%E8%88%AA%E5%A4%A9%E8%A6%81-%E8%9E%8D%E5%BE%97%E5%88%B0%E8%B3%A3%E5%BE%97%E9%81%A0%E8%B5%B0%E5%BE%97%E7%A9%A9-%E9%A6%99%E6%B8%AF%E5%8F%AF%E5%81%9A%E5%9C%8B%E9%9A%9B%E6%8E%A5%E5%8F%A3",
+    "timestamp": "2026-06-27T05:28:54.568Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "颱風米克拉｜台灣暴雨2死2失蹤　新竹女揸車返工困車內慘滅頂溺斃",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260612/1142159835379273728570943.jpeg/7K9GAdJiVGHLYgD2873iNX0klgb1GHqlY82TRGPNk0Q?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60364036/spacex%E7%AD%89%E7%A7%91%E4%BC%81%E8%82%A1%E5%83%B9%E5%8B%95%E7%9B%AA%E8%A1%9D%E6%93%8A%E6%95%A3%E6%88%B6%E6%83%85%E7%B7%92-%E5%82%B3openai%E5%82%BE%E5%90%91%E5%BB%B6%E8%87%B3%E6%98%8E%E5%B9%B4%E4%B8%8A%E5%B8%82",
     "timestamp": "2026-06-26T01:26:20.856Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "日本世界盃2026賽程｜國家隊球員名單陣容+足球排名+最新時間",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260522/1134539738603065344601329.jpeg/4BZJKSAfScM2F1y2PUjUulD-EGIRaTY5vUqjkL1Ko5A?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60352586/%E6%97%A5%E6%9C%AC%E4%B8%96%E7%95%8C%E7%9B%832026%E8%B3%BD%E7%A8%8B-%E5%9C%8B%E5%AE%B6%E9%9A%8A%E7%90%83%E5%93%A1%E5%90%8D%E5%96%AE%E9%99%A3%E5%AE%B9-%E8%B6%B3%E7%90%83%E6%8E%92%E5%90%8D-%E6%9C%80%E6%96%B0%E6%99%82%E9%96%93",
-    "timestamp": "2026-06-25T23:39:01.707Z",
     "strategy": ".content-card__main"
   }
 ];
