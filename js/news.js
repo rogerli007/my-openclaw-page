@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-27T18:16:30.485Z
+// Last updated: 2026-06-27T18:48:05.261Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "用壞3支驗孕棒！女子操作失誤申請僅退款　諷商家：有我是你榮幸",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260623/1146128754821566464648257.png/nRluaibCkPILtsW0alhDNEgE1XF37ua1ZWqVFmVqlRY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60356862/%E7%94%A8%E5%A3%9E3%E6%94%AF%E9%A9%97%E5%AD%95%E6%A3%92-%E5%A5%B3%E5%AD%90%E6%93%8D%E4%BD%9C%E5%A4%B1%E8%AA%A4%E7%94%B3%E8%AB%8B%E5%83%85%E9%80%80%E6%AC%BE-%E8%AB%B7%E5%95%86%E5%AE%B6-%E6%9C%89%E6%88%91%E6%98%AF%E4%BD%A0%E6%A6%AE%E5%B9%B8",
+    "timestamp": "2026-06-27T18:48:05.261Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "打鼓嶺過渡性房屋雜物遭縱火　消防撲熄　警方追查",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260627/1147394708494880768127950.jpeg/zSbW8yCgoVx5VXzAk7k1VUxXqsUhXZIedccF0HXHBdA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%92%B0%E7%90%83%E8%B6%A3%E8%81%9E/60364344/%E4%B8%96%E7%95%8C%E7%9B%83-%E5%A4%8F%E8%98%AD%E7%89%B9%E5%A4%A7%E6%95%B4%E8%A0%B1-%E9%81%87%E7%BE%8E%E5%9C%8B%E7%90%83%E8%BF%B7%E6%B1%82%E5%90%88%E7%85%A7%E9%A8%99%E5%B0%8D%E6%96%B9%E8%87%AA%E5%B7%B1%E6%98%AF%E7%B6%B2%E7%B4%85-%E6%9C%89%E7%89%87",
     "timestamp": "2026-06-26T21:17:25.777Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "世界盃｜夏蘭特大整蠱　遇美國球迷求合照騙對方自己是網紅｜有片",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260627/1147394708494880768127950.jpeg/zSbW8yCgoVx5VXzAk7k1VUxXqsUhXZIedccF0HXHBdA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%92%B0%E7%90%83%E8%B6%A3%E8%81%9E/60364344/%E4%B8%96%E7%95%8C%E7%9B%83-%E5%A4%8F%E8%98%AD%E7%89%B9%E5%A4%A7%E6%95%B4%E8%A0%B1-%E9%81%87%E7%BE%8E%E5%9C%8B%E7%90%83%E8%BF%B7%E6%B1%82%E5%90%88%E7%85%A7%E9%A8%99%E5%B0%8D%E6%96%B9%E8%87%AA%E5%B7%B1%E6%98%AF%E7%B6%B2%E7%B4%85-%E6%9C%89%E7%89%87",
-    "timestamp": "2026-06-26T20:45:13.398Z",
     "strategy": ".content-card__main"
   }
 ];
