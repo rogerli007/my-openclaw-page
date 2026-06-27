@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-27T08:47:38.459Z
+// Last updated: 2026-06-27T09:43:46.794Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "張凌赫公開體檢數據　190cm僅68kg體脂8%　昔日體重破百被叫胖赫",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260626/1147197169107734528237958.png/tFjlpRz_w_i7CbWzkL6e0C5Jn_goFyj3L4PYQi-D2EI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60364192/%E5%BC%B5%E5%87%8C%E8%B5%AB%E5%85%AC%E9%96%8B%E9%AB%94%E6%AA%A2%E6%95%B8%E6%93%9A-190cm%E5%83%8568kg%E9%AB%94%E8%84%828-%E6%98%94%E6%97%A5%E9%AB%94%E9%87%8D%E7%A0%B4%E7%99%BE%E8%A2%AB%E5%8F%AB%E8%83%96%E8%B5%AB",
+    "timestamp": "2026-06-27T09:43:46.794Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "新冠病毒｜許樹昌指近期入院個案增多　恐與流感一同「夏季爆發」",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260626/1147157278609117184483625.jpeg/4WrrAQ637K2HGUzguD8NOmqqEDP4DJrUBNDffgTQ334?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60359067/%E6%8A%B1%E5%AD%90%E8%8A%A5%E8%8F%9C%E9%BB%9E%E7%82%92%E5%94%94%E8%8B%A6-%E5%B0%88%E5%AE%B6%E6%95%992%E6%8B%9B%E8%BC%95%E9%AC%86%E5%8E%BB%E8%8B%A6%E9%AE%AE%E7%94%9C%E5%9B%9E%E7%94%98-%E7%94%A8%E6%BB%BE%E5%88%80%E6%B3%95%E5%88%87%E6%9C%80%E4%BD%B3",
     "timestamp": "2026-06-26T07:07:36.019Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "人妻桑拿房愛撫18歲鮮肉下體　當丈夫面被捕　辯稱：他對我有意思",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260626/1147132107286384640160235.png/CXIkD5mAyPNgeLc7toYU1XmYqang96NahIji6ISI4ug?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E8%A9%B1%E9%A1%8C/60364080/%E4%BA%BA%E5%A6%BB%E6%A1%91%E6%8B%BF%E6%88%BF%E6%84%9B%E6%92%AB18%E6%AD%B2%E9%AE%AE%E8%82%89%E4%B8%8B%E9%AB%94-%E7%95%B6%E4%B8%88%E5%A4%AB%E9%9D%A2%E8%A2%AB%E6%8D%95-%E8%BE%AF%E7%A8%B1-%E4%BB%96%E5%B0%8D%E6%88%91%E6%9C%89%E6%84%8F%E6%80%9D",
-    "timestamp": "2026-06-26T05:38:01.768Z",
     "strategy": ".content-card__main"
   }
 ];
