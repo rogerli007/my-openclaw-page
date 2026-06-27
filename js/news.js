@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-27T17:19:17.085Z
+// Last updated: 2026-06-27T17:47:47.656Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "最新天氣消息｜天文台料低壓槽周日南海北部徘徊　本港有驟雨雷暴",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260627/1147619221128089600738529.jpeg/v3t-3BKoud3zSP-LtGit9M9AaWlFGv1KMPd_NzD3fzc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60364353/%E6%9C%80%E6%96%B0%E5%A4%A9%E6%B0%A3%E6%B6%88%E6%81%AF-%E5%A4%A9%E6%96%87%E5%8F%B0%E6%96%99%E4%BD%8E%E5%A3%93%E6%A7%BD%E5%91%A8%E6%97%A5%E5%8D%97%E6%B5%B7%E5%8C%97%E9%83%A8%E5%BE%98%E5%BE%8A-%E6%9C%AC%E6%B8%AF%E6%9C%89%E9%A9%9F%E9%9B%A8%E9%9B%B7%E6%9A%B4",
+    "timestamp": "2026-06-27T17:47:47.656Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "最新天氣消息｜天文台料低壓槽周日南海北部徘徊　本港有驟雨雷暴",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260627/1147358238027550720107528.jpeg/UPSypFxu8vIuvhI6QoqK16mrZRVnVXaZbXfjtm1347Y?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60364342/%E7%89%B9%E6%9C%97%E6%99%AE%E5%89%8D%E5%9C%8B%E5%AE%89%E9%A1%A7%E5%95%8F%E5%8D%9A%E7%88%BE%E9%A0%93%E8%AA%8D%E9%9D%9E%E6%B3%95%E4%BF%9D%E7%95%99%E6%A9%9F%E5%AF%86%E8%B3%87%E6%96%99%E7%BD%AA-%E9%9D%A2%E8%87%A8%E6%9C%80%E9%AB%985%E5%B9%B4%E7%9B%A3%E7%A6%81",
     "timestamp": "2026-06-26T19:13:21.971Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普前國安顧問博爾頓認非法保留機密資料罪　面臨最高5年監禁",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260627/1147358238027550720107528.jpeg/UPSypFxu8vIuvhI6QoqK16mrZRVnVXaZbXfjtm1347Y?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60364342/%E7%89%B9%E6%9C%97%E6%99%AE%E5%89%8D%E5%9C%8B%E5%AE%89%E9%A1%A7%E5%95%8F%E5%8D%9A%E7%88%BE%E9%A0%93%E8%AA%8D%E9%9D%9E%E6%B3%95%E4%BF%9D%E7%95%99%E6%A9%9F%E5%AF%86%E8%B3%87%E6%96%99%E7%BD%AA-%E9%9D%A2%E8%87%A8%E6%9C%80%E9%AB%985%E5%B9%B4%E7%9B%A3%E7%A6%81",
-    "timestamp": "2026-06-26T18:23:22.567Z",
     "strategy": ".content-card__main"
   }
 ];
