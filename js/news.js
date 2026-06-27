@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-27T17:47:47.656Z
+// Last updated: 2026-06-27T18:16:30.485Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "打鼓嶺過渡性房屋雜物遭縱火　消防撲熄　警方追查",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260628/1147720848006713344095673.jpeg/-gflvj4fhncd9_vIu0QO3NoPSECWhLlDs6_W9bOv1vU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60364520/%E6%89%93%E9%BC%93%E5%B6%BA%E9%81%8E%E6%B8%A1%E6%80%A7%E6%88%BF%E5%B1%8B%E9%9B%9C%E7%89%A9%E9%81%AD%E7%B8%B1%E7%81%AB-%E6%B6%88%E9%98%B2%E6%92%B2%E7%86%84-%E8%AD%A6%E6%96%B9%E8%BF%BD%E6%9F%A5",
+    "timestamp": "2026-06-27T18:16:30.485Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "最新天氣消息｜天文台料低壓槽周日南海北部徘徊　本港有驟雨雷暴",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260627/1147394708494880768127950.jpeg/zSbW8yCgoVx5VXzAk7k1VUxXqsUhXZIedccF0HXHBdA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%92%B0%E7%90%83%E8%B6%A3%E8%81%9E/60364344/%E4%B8%96%E7%95%8C%E7%9B%83-%E5%A4%8F%E8%98%AD%E7%89%B9%E5%A4%A7%E6%95%B4%E8%A0%B1-%E9%81%87%E7%BE%8E%E5%9C%8B%E7%90%83%E8%BF%B7%E6%B1%82%E5%90%88%E7%85%A7%E9%A8%99%E5%B0%8D%E6%96%B9%E8%87%AA%E5%B7%B1%E6%98%AF%E7%B6%B2%E7%B4%85-%E6%9C%89%E7%89%87",
     "timestamp": "2026-06-26T20:45:13.398Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普前國安顧問博爾頓認非法保留機密資料罪　面臨最高5年監禁",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260627/1147358238027550720107528.jpeg/UPSypFxu8vIuvhI6QoqK16mrZRVnVXaZbXfjtm1347Y?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60364342/%E7%89%B9%E6%9C%97%E6%99%AE%E5%89%8D%E5%9C%8B%E5%AE%89%E9%A1%A7%E5%95%8F%E5%8D%9A%E7%88%BE%E9%A0%93%E8%AA%8D%E9%9D%9E%E6%B3%95%E4%BF%9D%E7%95%99%E6%A9%9F%E5%AF%86%E8%B3%87%E6%96%99%E7%BD%AA-%E9%9D%A2%E8%87%A8%E6%9C%80%E9%AB%985%E5%B9%B4%E7%9B%A3%E7%A6%81",
-    "timestamp": "2026-06-26T19:13:21.971Z",
     "strategy": ".content-card__main"
   }
 ];
