@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-27T20:36:59.281Z
+// Last updated: 2026-06-27T21:14:29.223Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "委內瑞拉地震增至1430死　再發生5.6級餘震　NGO稱救援需時數月",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260628/1147764506655461376723651.jpeg/5e7b18402Qerdsuo1x_wfwBFdT8rYxqamJ4nopieJ6I?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60364527/%E5%A7%94%E5%85%A7%E7%91%9E%E6%8B%89%E5%9C%B0%E9%9C%87%E5%A2%9E%E8%87%B31430%E6%AD%BB-%E5%86%8D%E7%99%BC%E7%94%9F5-6%E7%B4%9A%E9%A4%98%E9%9C%87-ngo%E7%A8%B1%E6%95%91%E6%8F%B4%E9%9C%80%E6%99%82%E6%95%B8%E6%9C%88",
+    "timestamp": "2026-06-27T21:14:29.223Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "17歲泰女被殺裸屍藏行李箱　澳洲46歲男疑拖喼運屍機場被捕｜有片",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260627/1147495494319083520628431.png/D2tDLQZIWLgtfn4KxKYd32LnSPuvELKcj0pnY49KZ2M?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8F%B0%E7%81%A3%E6%96%B0%E8%81%9E/60364380/%E9%A2%B1%E9%A2%A8%E7%B1%B3%E5%85%8B%E6%8B%89-%E5%8F%B0%E7%81%A3%E6%9A%B4%E9%9B%A82%E6%AD%BB2%E5%A4%B1%E8%B9%A4-%E6%96%B0%E7%AB%B9%E5%A5%B3%E6%8F%B8%E8%BB%8A%E8%BF%94%E5%B7%A5%E5%9B%B0%E8%BB%8A%E5%85%A7%E6%85%98%E6%BB%85%E9%A0%82%E6%BA%BA%E6%96%83",
     "timestamp": "2026-06-27T03:52:21.061Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "日本家常菜「建長汁」吃完不能留一粒米　竟源自百年歷史修禪古寺",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260622/1145702609659629568082375.jpeg/0gIbp66CRQb1IF7DBF6Ox8XF9c-xG5gbZJBwDmSQcA4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E4%B8%96%E7%95%8C%E5%B0%88%E9%A1%8C/60362607/%E6%97%A5%E6%9C%AC%E5%AE%B6%E5%B8%B8%E8%8F%9C-%E5%BB%BA%E9%95%B7%E6%B1%81-%E5%90%83%E5%AE%8C%E4%B8%8D%E8%83%BD%E7%95%99%E4%B8%80%E7%B2%92%E7%B1%B3-%E7%AB%9F%E6%BA%90%E8%87%AA%E7%99%BE%E5%B9%B4%E6%AD%B7%E5%8F%B2%E4%BF%AE%E7%A6%AA%E5%8F%A4%E5%AF%BA",
-    "timestamp": "2026-06-27T00:16:12.181Z",
     "strategy": ".content-card__main"
   }
 ];
