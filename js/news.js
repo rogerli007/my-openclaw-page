@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-27T23:14:47.173Z
+// Last updated: 2026-06-27T23:46:40.591Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "深水埗男子疑欠債遇襲　手腳中刀送院　警追緝歹徒",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260628/1147804179025104896871054.jpeg/mAntbqWhqr6j9wwyGKnYzNm00dksXW1ZCvwGkAr8BpA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60364533/%E6%B7%B1%E6%B0%B4%E5%9F%97%E7%94%B7%E5%AD%90%E7%96%91%E6%AC%A0%E5%82%B5%E9%81%87%E8%A5%B2-%E6%89%8B%E8%85%B3%E4%B8%AD%E5%88%80%E9%80%81%E9%99%A2-%E8%AD%A6%E8%BF%BD%E7%B7%9D%E6%AD%B9%E5%BE%92",
+    "timestamp": "2026-06-27T23:46:40.591Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "世界盃2026｜克羅地亞2：1加納雙雙出線　莫迪歷打足全場獻助攻",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250520/1001491395938095104254617.jpeg/fUCSUlfhME67dtKrI-h-3e1pTFCrF0hqbgSaiW4Emok?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60364442/%E6%96%B0%E5%86%A0%E7%97%85%E6%AF%92-%E8%A8%B1%E6%A8%B9%E6%98%8C%E6%8C%87%E8%BF%91%E6%9C%9F%E5%85%A5%E9%99%A2%E5%80%8B%E6%A1%88%E5%A2%9E%E5%A4%9A-%E6%81%90%E8%88%87%E6%B5%81%E6%84%9F%E4%B8%80%E5%90%8C-%E5%A4%8F%E5%AD%A3%E7%88%86%E7%99%BC",
     "timestamp": "2026-06-27T08:47:38.459Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "國際龍舟賽首日天陰無雨　參加健兒：天熱返　但蓋唔過我哋嘅熱情",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260627/1147543337012563968382756.jpeg/JWW_-wnzt9HxI2ferzna1CC613Uo9W_jmxecjJsXnIw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60364422/%E5%9C%8B%E9%9A%9B%E9%BE%8D%E8%88%9F%E8%B3%BD%E9%A6%96%E6%97%A5%E5%A4%A9%E9%99%B0%E7%84%A1%E9%9B%A8-%E5%8F%83%E5%8A%A0%E5%81%A5%E5%85%92-%E5%A4%A9%E7%86%B1%E8%BF%94-%E4%BD%86%E8%93%8B%E5%94%94%E9%81%8E%E6%88%91%E5%93%8B%E5%98%85%E7%86%B1%E6%83%85",
-    "timestamp": "2026-06-27T07:47:40.089Z",
     "strategy": ".content-card__main"
   }
 ];
