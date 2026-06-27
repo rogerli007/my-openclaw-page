@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-27T11:51:32.509Z
+// Last updated: 2026-06-27T12:41:10.740Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "魔海奇緣｜真人版啟動全球巡迴　阿慈孖19歲新星人海中合照",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260627/1147524673509003264217385.jpeg/7IUO2cKLBuaryYrCaahSd2QFyxyGrv7E8ZgxT_GYMU8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60364409/%E9%AD%94%E6%B5%B7%E5%A5%87%E7%B7%A3-%E7%9C%9F%E4%BA%BA%E7%89%88%E5%95%9F%E5%8B%95%E5%85%A8%E7%90%83%E5%B7%A1%E8%BF%B4-%E9%98%BF%E6%85%88%E5%AD%9619%E6%AD%B2%E6%96%B0%E6%98%9F%E4%BA%BA%E6%B5%B7%E4%B8%AD%E5%90%88%E7%85%A7",
+    "timestamp": "2026-06-27T12:41:10.740Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "洗衫別直接淋洗衣液！教6大正確洗衣秘訣：衣服對摺後脫水更平整",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260626/1147257952155996160780643.jpeg/-ImyxQEGYd5IW1bKeksVMLZ3GIn2Ohh68eMxdfHjMXU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60364242/%E9%9B%B7%E5%87%B1%E6%AC%A3%E7%A5%9E%E9%9A%B1%E5%A4%9A%E5%B9%B4%E8%BD%89%E8%A1%8C%E6%8F%B8%E7%9A%84%E5%A3%AB-%E6%96%B0%E6%89%8B%E4%B8%8A%E8%B7%AF%E6%89%93%E6%89%AE%E6%A8%B8%E7%B4%A0-%E4%BD%A0%E5%93%8B%E7%94%B7%E4%BA%BA%E5%A5%BD%E5%8F%BB%E5%92%A9",
     "timestamp": "2026-06-26T14:02:27.468Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "邱士縉意外遺失手機靠定位追蹤　公開定位截圖隔空喊話驚揭一秘密",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260626/1147190573027823616389417.jpeg/MuHcTyTx2Kt4ciF06ILlxE28gUURfYi650GATedBgE0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60364143/%E9%82%B1%E5%A3%AB%E7%B8%89%E6%84%8F%E5%A4%96%E9%81%BA%E5%A4%B1%E6%89%8B%E6%A9%9F%E9%9D%A0%E5%AE%9A%E4%BD%8D%E8%BF%BD%E8%B9%A4-%E5%85%AC%E9%96%8B%E5%AE%9A%E4%BD%8D%E6%88%AA%E5%9C%96%E9%9A%94%E7%A9%BA%E5%96%8A%E8%A9%B1%E9%A9%9A%E6%8F%AD%E4%B8%80%E7%A7%98%E5%AF%86",
-    "timestamp": "2026-06-26T13:04:50.357Z",
     "strategy": ".content-card__main"
   }
 ];
