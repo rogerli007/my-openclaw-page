@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-27T07:47:40.089Z
+// Last updated: 2026-06-27T08:47:38.459Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "新冠病毒｜許樹昌指近期入院個案增多　恐與流感一同「夏季爆發」",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250520/1001491395938095104254617.jpeg/fUCSUlfhME67dtKrI-h-3e1pTFCrF0hqbgSaiW4Emok?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60364442/%E6%96%B0%E5%86%A0%E7%97%85%E6%AF%92-%E8%A8%B1%E6%A8%B9%E6%98%8C%E6%8C%87%E8%BF%91%E6%9C%9F%E5%85%A5%E9%99%A2%E5%80%8B%E6%A1%88%E5%A2%9E%E5%A4%9A-%E6%81%90%E8%88%87%E6%B5%81%E6%84%9F%E4%B8%80%E5%90%8C-%E5%A4%8F%E5%AD%A3%E7%88%86%E7%99%BC",
+    "timestamp": "2026-06-27T08:47:38.459Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "國際龍舟賽首日天陰無雨　參加健兒：天熱返　但蓋唔過我哋嘅熱情",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260626/1147132107286384640160235.png/CXIkD5mAyPNgeLc7toYU1XmYqang96NahIji6ISI4ug?v=w1920r16_9",
     "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E8%A9%B1%E9%A1%8C/60364080/%E4%BA%BA%E5%A6%BB%E6%A1%91%E6%8B%BF%E6%88%BF%E6%84%9B%E6%92%AB18%E6%AD%B2%E9%AE%AE%E8%82%89%E4%B8%8B%E9%AB%94-%E7%95%B6%E4%B8%88%E5%A4%AB%E9%9D%A2%E8%A2%AB%E6%8D%95-%E8%BE%AF%E7%A8%B1-%E4%BB%96%E5%B0%8D%E6%88%91%E6%9C%89%E6%84%8F%E6%80%9D",
     "timestamp": "2026-06-26T05:38:01.768Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "最新天氣消息｜天文台發出黃色暴雨警告　料本港廣泛地區大雨",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260514/1131663222055636992804562.jpeg/8vzjJ0uLZ3z9sfHob3A6W-4JIG8L8pvKk_71lIn-9ZQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60363941/%E6%9C%80%E6%96%B0%E5%A4%A9%E6%B0%A3%E6%B6%88%E6%81%AF-%E5%A4%A9%E6%96%87%E5%8F%B0%E7%99%BC%E5%87%BA%E9%BB%83%E8%89%B2%E6%9A%B4%E9%9B%A8%E8%AD%A6%E5%91%8A-%E6%96%99%E6%9C%AC%E6%B8%AF%E5%BB%A3%E6%B3%9B%E5%9C%B0%E5%8D%80%E5%A4%A7%E9%9B%A8",
-    "timestamp": "2026-06-26T03:52:41.053Z",
     "strategy": ".content-card__main"
   }
 ];
