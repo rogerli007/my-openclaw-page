@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-27T09:43:46.794Z
+// Last updated: 2026-06-27T11:13:58.259Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "張家界足球隊圍毆14歲球員致骨折　涉事球員主犯僅輕判禁賽12個月",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260627/1147599057703669760871609.jpeg/53Qr1YLSPIIS8mFkXR1K0PC6ILNoGpeNNRt8rDUbfKw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60364470/%E5%BC%B5%E5%AE%B6%E7%95%8C%E8%B6%B3%E7%90%83%E9%9A%8A%E5%9C%8D%E6%AF%8614%E6%AD%B2%E7%90%83%E5%93%A1%E8%87%B4%E9%AA%A8%E6%8A%98-%E6%B6%89%E4%BA%8B%E7%90%83%E5%93%A1%E4%B8%BB%E7%8A%AF%E5%83%85%E8%BC%95%E5%88%A4%E7%A6%81%E8%B3%BD12%E5%80%8B%E6%9C%88",
+    "timestamp": "2026-06-27T11:13:58.259Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "張凌赫公開體檢數據　190cm僅68kg體脂8%　昔日體重破百被叫胖赫",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260626/1147216588395515904168053.jpeg/6h-wHnkWA1GQqoT-Y9tyDXPiCh8Y4EeQ6M7B2ujOwdo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%81%8A%E6%88%B2%E5%8B%95%E6%BC%AB/60364146/%E6%97%A5%E6%9C%AC%E5%B0%8D%E5%B7%B4%E8%A5%BF-%E8%B6%B3%E7%90%83%E5%B0%8F%E5%B0%87-%E5%9B%9E%E9%A1%A7%E5%BF%97%E5%81%89%E5%B0%8D%E6%8B%BF%E5%BA%A6%E5%B0%BC-%E8%BE%9B%E5%9D%A6%E6%8B%BF%E5%8F%B2%E8%A9%A9%E7%B4%9A%E5%A4%A2%E5%B9%BB%E6%88%B0",
     "timestamp": "2026-06-26T09:51:52.521Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "抱子芥菜點炒唔苦？專家教2招輕鬆去苦鮮甜回甘　用滾刀法切最佳",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260626/1147157278609117184483625.jpeg/4WrrAQ637K2HGUzguD8NOmqqEDP4DJrUBNDffgTQ334?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60359067/%E6%8A%B1%E5%AD%90%E8%8A%A5%E8%8F%9C%E9%BB%9E%E7%82%92%E5%94%94%E8%8B%A6-%E5%B0%88%E5%AE%B6%E6%95%992%E6%8B%9B%E8%BC%95%E9%AC%86%E5%8E%BB%E8%8B%A6%E9%AE%AE%E7%94%9C%E5%9B%9E%E7%94%98-%E7%94%A8%E6%BB%BE%E5%88%80%E6%B3%95%E5%88%87%E6%9C%80%E4%BD%B3",
-    "timestamp": "2026-06-26T07:07:36.019Z",
     "strategy": ".content-card__main"
   }
 ];
