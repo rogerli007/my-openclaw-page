@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-27T21:14:29.223Z
+// Last updated: 2026-06-27T21:44:07.038Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "世界盃2026｜英格蘭對巴拿馬爭首名　賴斯先列後備　拉舒福特擔正",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260628/1147769281837010944815360.jpeg/Ju6Otpr77rFrbShg7n1xCRkfrrIdtUtXhfcFW4X3BVs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60364471/%E4%B8%96%E7%95%8C%E7%9B%832026-%E8%8B%B1%E6%A0%BC%E8%98%AD%E5%B0%8D%E5%B7%B4%E6%8B%BF%E9%A6%AC%E7%88%AD%E9%A6%96%E5%90%8D-%E8%B3%B4%E6%96%AF%E5%85%88%E5%88%97%E5%BE%8C%E5%82%99-%E6%8B%89%E8%88%92%E7%A6%8F%E7%89%B9%E6%93%94%E6%AD%A3",
+    "timestamp": "2026-06-27T21:44:07.038Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "委內瑞拉地震增至1430死　再發生5.6級餘震　NGO稱救援需時數月",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260627/1147520898245332992850762.jpeg/S8DD80gXELWku4RAzVYm1usW0s6Xt7B8Cost2gqLLdo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60364406/%E9%99%B3%E8%8C%82%E6%B3%A2-%E5%95%86%E6%A5%AD%E8%88%AA%E5%A4%A9%E8%A6%81-%E8%9E%8D%E5%BE%97%E5%88%B0%E8%B3%A3%E5%BE%97%E9%81%A0%E8%B5%B0%E5%BE%97%E7%A9%A9-%E9%A6%99%E6%B8%AF%E5%8F%AF%E5%81%9A%E5%9C%8B%E9%9A%9B%E6%8E%A5%E5%8F%A3",
     "timestamp": "2026-06-27T05:28:54.568Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "颱風米克拉｜台灣暴雨2死2失蹤　新竹女揸車返工困車內慘滅頂溺斃",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260627/1147495494319083520628431.png/D2tDLQZIWLgtfn4KxKYd32LnSPuvELKcj0pnY49KZ2M?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8F%B0%E7%81%A3%E6%96%B0%E8%81%9E/60364380/%E9%A2%B1%E9%A2%A8%E7%B1%B3%E5%85%8B%E6%8B%89-%E5%8F%B0%E7%81%A3%E6%9A%B4%E9%9B%A82%E6%AD%BB2%E5%A4%B1%E8%B9%A4-%E6%96%B0%E7%AB%B9%E5%A5%B3%E6%8F%B8%E8%BB%8A%E8%BF%94%E5%B7%A5%E5%9B%B0%E8%BB%8A%E5%85%A7%E6%85%98%E6%BB%85%E9%A0%82%E6%BA%BA%E6%96%83",
-    "timestamp": "2026-06-27T03:52:21.061Z",
     "strategy": ".content-card__main"
   }
 ];
