@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-28T13:40:56.583Z
+// Last updated: 2026-06-28T14:28:50.320Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "陳瀅360度三點式大放送　美臀若隱若現好「股」惑網民呼：犯晒規",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260628/1147925504406327296954306.jpeg/8IKqFXmKsediW4qAZaD0-c5xKNfd7HQA941cp_eNXKc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E5%A8%9B%E6%A8%82/60364594/%E9%99%B3%E7%80%85360%E5%BA%A6%E4%B8%89%E9%BB%9E%E5%BC%8F%E5%A4%A7%E6%94%BE%E9%80%81-%E7%BE%8E%E8%87%80%E8%8B%A5%E9%9A%B1%E8%8B%A5%E7%8F%BE%E5%A5%BD-%E8%82%A1-%E6%83%91%E7%B6%B2%E6%B0%91%E5%91%BC-%E7%8A%AF%E6%99%92%E8%A6%8F",
+    "timestamp": "2026-06-28T14:28:50.320Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "九龍城法院小巴車禍｜失控剷行人路釀1死16傷　司機涉危駕被捕",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260628/1147720848006713344095673.jpeg/-gflvj4fhncd9_vIu0QO3NoPSECWhLlDs6_W9bOv1vU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60364520/%E6%89%93%E9%BC%93%E5%B6%BA%E9%81%8E%E6%B8%A1%E6%80%A7%E6%88%BF%E5%B1%8B%E9%9B%9C%E7%89%A9%E9%81%AD%E7%B8%B1%E7%81%AB-%E6%B6%88%E9%98%B2%E6%92%B2%E7%86%84-%E8%AD%A6%E6%96%B9%E8%BF%BD%E6%9F%A5",
     "timestamp": "2026-06-27T18:16:30.485Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "最新天氣消息｜天文台料低壓槽周日南海北部徘徊　本港有驟雨雷暴",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260627/1147619221128089600738529.jpeg/v3t-3BKoud3zSP-LtGit9M9AaWlFGv1KMPd_NzD3fzc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60364353/%E6%9C%80%E6%96%B0%E5%A4%A9%E6%B0%A3%E6%B6%88%E6%81%AF-%E5%A4%A9%E6%96%87%E5%8F%B0%E6%96%99%E4%BD%8E%E5%A3%93%E6%A7%BD%E5%91%A8%E6%97%A5%E5%8D%97%E6%B5%B7%E5%8C%97%E9%83%A8%E5%BE%98%E5%BE%8A-%E6%9C%AC%E6%B8%AF%E6%9C%89%E9%A9%9F%E9%9B%A8%E9%9B%B7%E6%9A%B4",
-    "timestamp": "2026-06-27T17:47:47.656Z",
     "strategy": ".content-card__main"
   }
 ];
