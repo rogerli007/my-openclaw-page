@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-28T21:44:01.193Z
+// Last updated: 2026-06-28T22:13:23.119Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "84歲經典綠葉獲侄子探望慨嘆一家五口死剩佢：我返去都冇人在喇",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260628/1148001711785250816614932.jpeg/HT0LzYr1GqQ4VKy4C69DQF0BwhLlqS_kob2RcqG9kXI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60364595/%E7%9B%A7%E6%B5%B7%E9%B5%AC%E7%8D%B2%E4%BE%84%E5%AD%90%E6%8E%A2%E6%9C%9B%E6%85%A8%E5%98%86%E4%B8%80%E5%AE%B6%E4%BA%94%E5%8F%A3%E6%AD%BB%E5%89%A9%E4%BD%A2-%E6%88%91%E8%BF%94%E5%8E%BB%E9%83%BD%E5%86%87%E4%BA%BA%E5%9C%A8%E5%96%87",
+    "timestamp": "2026-06-28T22:13:23.119Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美媒：美伊同意結束新爆發空襲　擬本周會晤解決霍爾木茲海峽爭端",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260628/1147781516764385280216758.jpeg/YZ3i0BwhCuEzJj6cg-GtOy62NZsJ5qcJAPlq3gD5at4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60364529/%E4%B8%96%E7%95%8C%E7%9B%832026-%E5%85%8B%E7%BE%85%E5%9C%B0%E4%BA%9E2-1%E5%8A%A0%E7%B4%8D%E9%9B%99%E9%9B%99%E5%87%BA%E7%B7%9A-%E8%8E%AB%E8%BF%AA%E6%AD%B7%E6%89%93%E8%B6%B3%E5%85%A8%E5%A0%B4%E7%8D%BB%E5%8A%A9%E6%94%BB",
     "timestamp": "2026-06-27T23:14:47.173Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "世界盃2026｜英格蘭爭首名　對巴拿馬半場0：0　拉舒福特不乏攻門",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260628/1147769281837010944815360.jpeg/Ju6Otpr77rFrbShg7n1xCRkfrrIdtUtXhfcFW4X3BVs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60364471/%E4%B8%96%E7%95%8C%E7%9B%832026-%E8%8B%B1%E6%A0%BC%E8%98%AD%E7%88%AD%E9%A6%96%E5%90%8D-%E5%B0%8D%E5%B7%B4%E6%8B%BF%E9%A6%AC%E5%8D%8A%E5%A0%B40-0-%E6%8B%89%E8%88%92%E7%A6%8F%E7%89%B9%E4%B8%8D%E4%B9%8F%E6%94%BB%E9%96%80",
-    "timestamp": "2026-06-27T22:14:18.308Z",
     "strategy": ".content-card__main"
   }
 ];
