@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-28T23:14:14.963Z
+// Last updated: 2026-06-28T23:44:11.987Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "財經視野｜OpenAI與Anthropic上市倒數　華府監管風暴成軟肋？",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260625/1146786428110245888960241.jpeg/cGL5L1aQhZDiyLYjYX5ybN1MYM5a_qKHLZ5W4y2eVuM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60364705/%E8%B2%A1%E7%B6%93%E8%A6%96%E9%87%8E-openai%E8%88%87anthropic%E4%B8%8A%E5%B8%82%E5%80%92%E6%95%B8-%E8%8F%AF%E5%BA%9C%E7%9B%A3%E7%AE%A1%E9%A2%A8%E6%9A%B4%E6%88%90%E8%BB%9F%E8%82%8B",
+    "timestamp": "2026-06-28T23:44:11.987Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "冷氣機濾網每3周清洗　可省電10%！　台電點名清洗濾網2大NG行為",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260628/1147847118481264640148307.png/fu_oHQjFUGRFfkwvijK-xbwEdxlOf17TsTp2F7E6dhc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60364547/%E6%9D%8E%E5%AE%B6%E8%B6%85-%E5%8C%97%E9%83%BD-%E6%B2%B3%E5%A5%97%E4%B8%8D%E5%86%8D%E6%98%AF%E4%B8%80%E7%B4%99%E8%97%8D%E5%9C%96-%E4%B9%98%E5%8B%A2%E8%80%8C%E4%B8%8A-%E6%98%AF%E6%96%BD%E6%94%BF%E6%96%B9%E5%90%91",
     "timestamp": "2026-06-28T02:29:36.615Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "約旦對阿根廷2026世界盃｜直播賽程+時間+國家足球隊球員名單出爐",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260622/1145701360008695808317056.jpeg/J7aFbigNcIm1Pd8-Lz-t254_nEQMBDdqCVWnXglVp14?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60362608/%E7%B4%84%E6%97%A6%E5%B0%8D%E9%98%BF%E6%A0%B9%E5%BB%B72026%E4%B8%96%E7%95%8C%E7%9B%83-%E7%9B%B4%E6%92%AD%E8%B3%BD%E7%A8%8B-%E6%99%82%E9%96%93-%E5%9C%8B%E5%AE%B6%E8%B6%B3%E7%90%83%E9%9A%8A%E7%90%83%E5%93%A1%E5%90%8D%E5%96%AE%E5%87%BA%E7%88%90",
-    "timestamp": "2026-06-28T01:27:50.529Z",
     "strategy": ".content-card__main"
   }
 ];
