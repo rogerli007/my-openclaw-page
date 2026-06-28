@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-28T01:27:50.529Z
+// Last updated: 2026-06-28T02:29:36.615Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "李家超：北都、河套不再是一紙藍圖　「乘勢而上」是施政方向",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260628/1147847118481264640148307.png/fu_oHQjFUGRFfkwvijK-xbwEdxlOf17TsTp2F7E6dhc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60364547/%E6%9D%8E%E5%AE%B6%E8%B6%85-%E5%8C%97%E9%83%BD-%E6%B2%B3%E5%A5%97%E4%B8%8D%E5%86%8D%E6%98%AF%E4%B8%80%E7%B4%99%E8%97%8D%E5%9C%96-%E4%B9%98%E5%8B%A2%E8%80%8C%E4%B8%8A-%E6%98%AF%E6%96%BD%E6%94%BF%E6%96%B9%E5%90%91",
+    "timestamp": "2026-06-28T02:29:36.615Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "約旦對阿根廷2026世界盃｜直播賽程+時間+國家足球隊球員名單出爐",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260627/1147599057703669760871609.jpeg/53Qr1YLSPIIS8mFkXR1K0PC6ILNoGpeNNRt8rDUbfKw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60364470/%E5%BC%B5%E5%AE%B6%E7%95%8C%E8%B6%B3%E7%90%83%E9%9A%8A%E5%9C%8D%E6%AF%8614%E6%AD%B2%E7%90%83%E5%93%A1%E8%87%B4%E9%AA%A8%E6%8A%98-%E6%B6%89%E4%BA%8B%E7%90%83%E5%93%A1%E4%B8%BB%E7%8A%AF%E5%83%85%E8%BC%95%E5%88%A4%E7%A6%81%E8%B3%BD12%E5%80%8B%E6%9C%88",
     "timestamp": "2026-06-27T11:13:58.259Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "張凌赫公開體檢數據　190cm僅68kg體脂8%　昔日體重破百被叫胖赫",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260626/1147197169107734528237958.png/tFjlpRz_w_i7CbWzkL6e0C5Jn_goFyj3L4PYQi-D2EI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60364192/%E5%BC%B5%E5%87%8C%E8%B5%AB%E5%85%AC%E9%96%8B%E9%AB%94%E6%AA%A2%E6%95%B8%E6%93%9A-190cm%E5%83%8568kg%E9%AB%94%E8%84%828-%E6%98%94%E6%97%A5%E9%AB%94%E9%87%8D%E7%A0%B4%E7%99%BE%E8%A2%AB%E5%8F%AB%E8%83%96%E8%B5%AB",
-    "timestamp": "2026-06-27T09:43:46.794Z",
     "strategy": ".content-card__main"
   }
 ];
