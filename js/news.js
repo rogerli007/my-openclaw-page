@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-28T17:35:03.806Z
+// Last updated: 2026-06-28T18:15:04.495Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美國土安全部長：持臨時身份移民應尋求永久居留權或離境",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260628/1148047668853870592859134.jpeg/r9PobcGlCBYT6YzKKaqv7ibGmOa92gQNTpp1Yk6adWI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60364686/%E7%BE%8E%E5%9C%8B%E5%9C%9F%E5%AE%89%E5%85%A8%E9%83%A8%E9%95%B7-%E6%8C%81%E8%87%A8%E6%99%82%E8%BA%AB%E4%BB%BD%E7%A7%BB%E6%B0%91%E6%87%89%E5%B0%8B%E6%B1%82%E6%B0%B8%E4%B9%85%E5%B1%85%E7%95%99%E6%AC%8A%E6%88%96%E9%9B%A2%E5%A2%83",
+    "timestamp": "2026-06-28T18:15:04.495Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美國土安全部長：持臨時身份移民應尋求永久居留權或離境",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260628/1147750654488350720318542.png/WD-_fO1ivlvxP7TIGl7JRaFnTJgIqgPvr7X5oK-1-aA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60364524/17%E6%AD%B2%E6%B3%B0%E5%A5%B3%E8%A2%AB%E6%AE%BA%E8%A3%B8%E5%B1%8D%E8%97%8F%E8%A1%8C%E6%9D%8E%E7%AE%B1-%E6%BE%B3%E6%B4%B246%E6%AD%B2%E7%94%B7%E7%96%91%E6%8B%96%E5%96%BC%E9%81%8B%E5%B1%8D%E6%A9%9F%E5%A0%B4%E8%A2%AB%E6%8D%95-%E6%9C%89%E7%89%87",
     "timestamp": "2026-06-27T20:36:59.281Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "珍惜生命｜旺角男子危站天橋　消防張開氣墊　男子自行返安全位置",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260628/1147744246036434944876409.jpeg/v0aRJnbNokAncM0LTCxKJXWiitsixvUGzPfgbvb34G4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60364523/%E7%8F%8D%E6%83%9C%E7%94%9F%E5%91%BD-%E6%97%BA%E8%A7%92%E7%94%B7%E5%AD%90%E5%8D%B1%E7%AB%99%E5%A4%A9%E6%A9%8B-%E6%B6%88%E9%98%B2%E5%BC%B5%E9%96%8B%E6%B0%A3%E5%A2%8A-%E7%94%B7%E5%AD%90%E8%87%AA%E8%A1%8C%E8%BF%94%E5%AE%89%E5%85%A8%E4%BD%8D%E7%BD%AE",
-    "timestamp": "2026-06-27T20:01:33.316Z",
     "strategy": ".content-card__main"
   }
 ];
