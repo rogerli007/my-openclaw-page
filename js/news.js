@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-28T16:20:25.825Z
+// Last updated: 2026-06-28T16:56:39.301Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美國土安全部長：持臨時身份移民應尋求永久居留權或離境",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260628/1148047668853870592859134.jpeg/r9PobcGlCBYT6YzKKaqv7ibGmOa92gQNTpp1Yk6adWI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60364686/%E7%BE%8E%E5%9C%8B%E5%9C%9F%E5%AE%89%E5%85%A8%E9%83%A8%E9%95%B7-%E6%8C%81%E8%87%A8%E6%99%82%E8%BA%AB%E4%BB%BD%E7%A7%BB%E6%B0%91%E6%87%89%E5%B0%8B%E6%B1%82%E6%B0%B8%E4%B9%85%E5%B1%85%E7%95%99%E6%AC%8A%E6%88%96%E9%9B%A2%E5%A2%83",
+    "timestamp": "2026-06-28T16:56:39.301Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美國土安全部長：持臨時身份移民應尋求永久居留權或離境",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260628/1147732262226235392271654.jpeg/lhc7SbAS86hwqCnAe4JDXBaWwlAfdMB5X7mYRF-5mEQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60364521/%E6%AD%90%E6%B4%B2%E7%86%B1%E6%B5%AA-%E8%A5%BF%E7%8F%AD%E7%89%99%E4%B8%80%E5%91%A8327%E6%AD%BB-%E6%9F%8F%E6%9E%9741%E5%BA%A6%E5%87%BA%E5%8B%95%E6%B0%B4%E7%82%AE%E8%BB%8A%E7%82%BA%E6%B0%91%E9%99%8D%E6%BA%AB-%E6%9C%89%E7%89%87",
     "timestamp": "2026-06-27T19:20:41.519Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "用壞3支驗孕棒！女子操作失誤申請僅退款　諷商家：有我是你榮幸",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260623/1146128754821566464648257.png/nRluaibCkPILtsW0alhDNEgE1XF37ua1ZWqVFmVqlRY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60356862/%E7%94%A8%E5%A3%9E3%E6%94%AF%E9%A9%97%E5%AD%95%E6%A3%92-%E5%A5%B3%E5%AD%90%E6%93%8D%E4%BD%9C%E5%A4%B1%E8%AA%A4%E7%94%B3%E8%AB%8B%E5%83%85%E9%80%80%E6%AC%BE-%E8%AB%B7%E5%95%86%E5%AE%B6-%E6%9C%89%E6%88%91%E6%98%AF%E4%BD%A0%E6%A6%AE%E5%B9%B8",
-    "timestamp": "2026-06-27T18:48:05.261Z",
     "strategy": ".content-card__main"
   }
 ];
