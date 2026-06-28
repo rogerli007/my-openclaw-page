@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-28T18:15:04.495Z
+// Last updated: 2026-06-28T19:21:07.891Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "法國東北部小型跳傘飛機墜毀 　11人全數罹難包括學員及教練",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260629/1148071159435104256086923.jpeg/3XqnMBZoWlDG7tmozfF9R0US5UsXAnBHOYpmdzmKZnc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60364689/%E6%B3%95%E5%9C%8B%E6%9D%B1%E5%8C%97%E9%83%A8%E5%B0%8F%E5%9E%8B%E8%B7%B3%E5%82%98%E9%A3%9B%E6%A9%9F%E5%A2%9C%E6%AF%80-11%E4%BA%BA%E5%85%A8%E6%95%B8%E7%BD%B9%E9%9B%A3%E5%8C%85%E6%8B%AC%E5%AD%B8%E5%93%A1%E5%8F%8A%E6%95%99%E7%B7%B4",
+    "timestamp": "2026-06-28T19:21:07.891Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美國土安全部長：持臨時身份移民應尋求永久居留權或離境",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260628/1147764506655461376723651.jpeg/5e7b18402Qerdsuo1x_wfwBFdT8rYxqamJ4nopieJ6I?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60364527/%E5%A7%94%E5%85%A7%E7%91%9E%E6%8B%89%E5%9C%B0%E9%9C%87%E5%A2%9E%E8%87%B31430%E6%AD%BB-%E5%86%8D%E7%99%BC%E7%94%9F5-6%E7%B4%9A%E9%A4%98%E9%9C%87-ngo%E7%A8%B1%E6%95%91%E6%8F%B4%E9%9C%80%E6%99%82%E6%95%B8%E6%9C%88",
     "timestamp": "2026-06-27T21:14:29.223Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "17歲泰女被殺裸屍藏行李箱　澳洲46歲男疑拖喼運屍機場被捕｜有片",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260628/1147750654488350720318542.png/WD-_fO1ivlvxP7TIGl7JRaFnTJgIqgPvr7X5oK-1-aA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60364524/17%E6%AD%B2%E6%B3%B0%E5%A5%B3%E8%A2%AB%E6%AE%BA%E8%A3%B8%E5%B1%8D%E8%97%8F%E8%A1%8C%E6%9D%8E%E7%AE%B1-%E6%BE%B3%E6%B4%B246%E6%AD%B2%E7%94%B7%E7%96%91%E6%8B%96%E5%96%BC%E9%81%8B%E5%B1%8D%E6%A9%9F%E5%A0%B4%E8%A2%AB%E6%8D%95-%E6%9C%89%E7%89%87",
-    "timestamp": "2026-06-27T20:36:59.281Z",
     "strategy": ".content-card__main"
   }
 ];
