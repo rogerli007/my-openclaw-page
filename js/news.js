@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-28T07:12:43.669Z
+// Last updated: 2026-06-28T08:29:26.807Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "最新天氣｜黃雨警告取消　天文台料港島、九龍、新界東有狂風雷暴",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260627/1147619221128089600738529.jpeg/v3t-3BKoud3zSP-LtGit9M9AaWlFGv1KMPd_NzD3fzc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60364353/%E6%9C%80%E6%96%B0%E5%A4%A9%E6%B0%A3-%E9%BB%83%E9%9B%A8%E8%AD%A6%E5%91%8A%E5%8F%96%E6%B6%88-%E5%A4%A9%E6%96%87%E5%8F%B0%E6%96%99%E6%B8%AF%E5%B3%B6-%E4%B9%9D%E9%BE%8D-%E6%96%B0%E7%95%8C%E6%9D%B1%E6%9C%89%E7%8B%82%E9%A2%A8%E9%9B%B7%E6%9A%B4",
+    "timestamp": "2026-06-28T08:29:26.807Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "最新天氣｜黃雨警告取消　天文台料續有狂風雷暴　籲小心河道氾濫",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260627/1147588523574956032728395.jpeg/2_VypZDBG3iYSFLo5plJb48H4Le_JBpAYMcLp2DHC6c?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60364447/%E5%90%B3%E5%BD%A5%E7%A5%96%E7%AB%9F%E8%A2%AB%E6%9C%AC%E5%9C%B0%E6%AD%8C%E6%89%8B%E9%8C%AF%E8%AA%8D%E4%BF%82%E6%96%B9%E4%B8%ADsir-%E7%B6%B2%E6%B0%91%E9%9C%87%E9%A9%9A%E7%B3%BE%E6%AD%A3-%E4%BD%A2%E5%94%94%E4%BF%82%E8%A8%B1%E7%B4%B9%E9%9B%84",
     "timestamp": "2026-06-27T16:19:53.751Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "結業潮｜周潤發愛店「好酒好蔡」神話告終　碧咸曾邀團隊倫敦設宴",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260627/1147651247784857600294086.jpeg/3oKxAMGCJbWEenJ8sSLx0xIp8D0Hj00EHeIdah3iHWo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60364496/%E7%B5%90%E6%A5%AD%E6%BD%AE-%E5%91%A8%E6%BD%A4%E7%99%BC%E6%84%9B%E5%BA%97-%E5%A5%BD%E9%85%92%E5%A5%BD%E8%94%A1-%E7%A5%9E%E8%A9%B1%E5%91%8A%E7%B5%82-%E7%A2%A7%E5%92%B8%E6%9B%BE%E9%82%80%E5%9C%98%E9%9A%8A%E5%80%AB%E6%95%A6%E8%A8%AD%E5%AE%B4",
-    "timestamp": "2026-06-27T14:02:23.004Z",
     "strategy": ".content-card__main"
   }
 ];
