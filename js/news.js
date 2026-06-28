@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-28T05:41:57.312Z
+// Last updated: 2026-06-28T07:12:43.669Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "最新天氣｜黃雨警告取消　天文台料續有狂風雷暴　籲小心河道氾濫",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260627/1147619221128089600738529.jpeg/v3t-3BKoud3zSP-LtGit9M9AaWlFGv1KMPd_NzD3fzc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60364353/%E6%9C%80%E6%96%B0%E5%A4%A9%E6%B0%A3-%E9%BB%83%E9%9B%A8%E8%AD%A6%E5%91%8A%E5%8F%96%E6%B6%88-%E5%A4%A9%E6%96%87%E5%8F%B0%E6%96%99%E7%BA%8C%E6%9C%89%E7%8B%82%E9%A2%A8%E9%9B%B7%E6%9A%B4-%E7%B1%B2%E5%B0%8F%E5%BF%83%E6%B2%B3%E9%81%93%E6%B0%BE%E6%BF%AB",
+    "timestamp": "2026-06-28T07:12:43.669Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "3大惡奶奶手面相大公開　薄唇「覆舟嘴」最傷人　只會貶低無口德",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260627/1147651247784857600294086.jpeg/3oKxAMGCJbWEenJ8sSLx0xIp8D0Hj00EHeIdah3iHWo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60364496/%E7%B5%90%E6%A5%AD%E6%BD%AE-%E5%91%A8%E6%BD%A4%E7%99%BC%E6%84%9B%E5%BA%97-%E5%A5%BD%E9%85%92%E5%A5%BD%E8%94%A1-%E7%A5%9E%E8%A9%B1%E5%91%8A%E7%B5%82-%E7%A2%A7%E5%92%B8%E6%9B%BE%E9%82%80%E5%9C%98%E9%9A%8A%E5%80%AB%E6%95%A6%E8%A8%AD%E5%AE%B4",
     "timestamp": "2026-06-27T14:02:23.004Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "魔海奇緣｜真人版啟動全球巡迴　阿慈孖19歲新星人海中合照",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260627/1147524673509003264217385.jpeg/7IUO2cKLBuaryYrCaahSd2QFyxyGrv7E8ZgxT_GYMU8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60364409/%E9%AD%94%E6%B5%B7%E5%A5%87%E7%B7%A3-%E7%9C%9F%E4%BA%BA%E7%89%88%E5%95%9F%E5%8B%95%E5%85%A8%E7%90%83%E5%B7%A1%E8%BF%B4-%E9%98%BF%E6%85%88%E5%AD%9619%E6%AD%B2%E6%96%B0%E6%98%9F%E4%BA%BA%E6%B5%B7%E4%B8%AD%E5%90%88%E7%85%A7",
-    "timestamp": "2026-06-27T12:41:10.740Z",
     "strategy": ".content-card__main"
   }
 ];
