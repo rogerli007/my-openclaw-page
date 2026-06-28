@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-28T02:29:36.615Z
+// Last updated: 2026-06-28T03:53:06.121Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "丘應樺今日起訪問上海兩日　向內地企業推廣香港拓展海外市場優勢",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250626/1014938673008873472135890.jpeg/nR2wRAGA0RfkQAFqQ6rkBbsejRmxpV7IrAPmgKwD5oA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60364566/%E4%B8%98%E6%87%89%E6%A8%BA%E4%BB%8A%E6%97%A5%E8%B5%B7%E8%A8%AA%E5%95%8F%E4%B8%8A%E6%B5%B7%E5%85%A9%E6%97%A5-%E5%90%91%E5%85%A7%E5%9C%B0%E4%BC%81%E6%A5%AD%E6%8E%A8%E5%BB%A3%E9%A6%99%E6%B8%AF%E6%8B%93%E5%B1%95%E6%B5%B7%E5%A4%96%E5%B8%82%E5%A0%B4%E5%84%AA%E5%8B%A2",
+    "timestamp": "2026-06-28T03:53:06.121Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "李家超：北都、河套不再是一紙藍圖　「乘勢而上」是施政方向",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20251230/1082688811818815488693841.png/BKqVbea_Eol9jVwJj5H5Rmpah_N5f_12f7Kx9gWysfY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A9%BF%E6%90%AD%E7%AD%86%E8%A8%98/60352322/%E6%B4%97%E8%A1%AB%E5%88%A5%E7%9B%B4%E6%8E%A5%E6%B7%8B%E6%B4%97%E8%A1%A3%E6%B6%B2-%E6%95%996%E5%A4%A7%E6%AD%A3%E7%A2%BA%E6%B4%97%E8%A1%A3%E7%A7%98%E8%A8%A3-%E8%A1%A3%E6%9C%8D%E5%B0%8D%E6%91%BA%E5%BE%8C%E8%84%AB%E6%B0%B4%E6%9B%B4%E5%B9%B3%E6%95%B4",
     "timestamp": "2026-06-27T11:51:32.509Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "張家界足球隊圍毆14歲球員致骨折　涉事球員主犯僅輕判禁賽12個月",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260627/1147599057703669760871609.jpeg/53Qr1YLSPIIS8mFkXR1K0PC6ILNoGpeNNRt8rDUbfKw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60364470/%E5%BC%B5%E5%AE%B6%E7%95%8C%E8%B6%B3%E7%90%83%E9%9A%8A%E5%9C%8D%E6%AF%8614%E6%AD%B2%E7%90%83%E5%93%A1%E8%87%B4%E9%AA%A8%E6%8A%98-%E6%B6%89%E4%BA%8B%E7%90%83%E5%93%A1%E4%B8%BB%E7%8A%AF%E5%83%85%E8%BC%95%E5%88%A4%E7%A6%81%E8%B3%BD12%E5%80%8B%E6%9C%88",
-    "timestamp": "2026-06-27T11:13:58.259Z",
     "strategy": ".content-card__main"
   }
 ];
