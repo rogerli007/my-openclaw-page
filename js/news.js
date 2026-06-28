@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-28T22:44:46.043Z
+// Last updated: 2026-06-28T23:14:14.963Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "冷氣機濾網每3周清洗　可省電10%！　台電點名清洗濾網2大NG行為",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260626/1147254101294190592137258.png/OTt1I-wy5CeV1GRls7sKWlhtwikhK19CFPAUIhTwFCI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60347018/%E5%86%B7%E6%B0%A3%E6%A9%9F%E6%BF%BE%E7%B6%B2%E6%AF%8F3%E5%91%A8%E6%B8%85%E6%B4%97-%E5%8F%AF%E7%9C%81%E9%9B%BB10-%E5%8F%B0%E9%9B%BB%E9%BB%9E%E5%90%8D%E6%B8%85%E6%B4%97%E6%BF%BE%E7%B6%B22%E5%A4%A7ng%E8%A1%8C%E7%82%BA",
+    "timestamp": "2026-06-28T23:14:14.963Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "李連杰罕談與前妻兩女關係　爆利智早送樓留錢給她們夠花到100歲",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260622/1145701360008695808317056.jpeg/J7aFbigNcIm1Pd8-Lz-t254_nEQMBDdqCVWnXglVp14?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60362608/%E7%B4%84%E6%97%A6%E5%B0%8D%E9%98%BF%E6%A0%B9%E5%BB%B72026%E4%B8%96%E7%95%8C%E7%9B%83-%E7%9B%B4%E6%92%AD%E8%B3%BD%E7%A8%8B-%E6%99%82%E9%96%93-%E5%9C%8B%E5%AE%B6%E8%B6%B3%E7%90%83%E9%9A%8A%E7%90%83%E5%93%A1%E5%90%8D%E5%96%AE%E5%87%BA%E7%88%90",
     "timestamp": "2026-06-28T01:27:50.529Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "深水埗男子疑欠債遇襲　手腳中刀送院　警追緝歹徒",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260628/1147804179025104896871054.jpeg/mAntbqWhqr6j9wwyGKnYzNm00dksXW1ZCvwGkAr8BpA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60364533/%E6%B7%B1%E6%B0%B4%E5%9F%97%E7%94%B7%E5%AD%90%E7%96%91%E6%AC%A0%E5%82%B5%E9%81%87%E8%A5%B2-%E6%89%8B%E8%85%B3%E4%B8%AD%E5%88%80%E9%80%81%E9%99%A2-%E8%AD%A6%E8%BF%BD%E7%B7%9D%E6%AD%B9%E5%BE%92",
-    "timestamp": "2026-06-27T23:46:40.591Z",
     "strategy": ".content-card__main"
   }
 ];
