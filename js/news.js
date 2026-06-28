@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-28T10:38:58.102Z
+// Last updated: 2026-06-28T12:07:11.569Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "澳洲兒童社交平台禁令罰金翻倍　科企最高可遭罰5億",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260425/1124550942704799744360817.jpeg/AfgexJI4iOD-X7T68PHbnVTlEZA7fzTApZmqAaWZqgE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60364635/%E6%BE%B3%E6%B4%B2%E5%85%92%E7%AB%A5%E7%A4%BE%E4%BA%A4%E5%B9%B3%E5%8F%B0%E7%A6%81%E4%BB%A4%E7%BD%B0%E9%87%91%E7%BF%BB%E5%80%8D-%E7%A7%91%E4%BC%81%E6%9C%80%E9%AB%98%E5%8F%AF%E9%81%AD%E7%BD%B05%E5%84%84",
+    "timestamp": "2026-06-28T12:07:11.569Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "台中蝴蝶谷落石4死│作家紀慧文罹難　為研究任夜總會公關轟動全台",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260627/1147619221128089600738529.jpeg/v3t-3BKoud3zSP-LtGit9M9AaWlFGv1KMPd_NzD3fzc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60364353/%E6%9C%80%E6%96%B0%E5%A4%A9%E6%B0%A3%E6%B6%88%E6%81%AF-%E5%A4%A9%E6%96%87%E5%8F%B0%E6%96%99%E4%BD%8E%E5%A3%93%E6%A7%BD%E5%91%A8%E6%97%A5%E5%8D%97%E6%B5%B7%E5%8C%97%E9%83%A8%E5%BE%98%E5%BE%8A-%E6%9C%AC%E6%B8%AF%E6%9C%89%E9%A9%9F%E9%9B%A8%E9%9B%B7%E6%9A%B4",
     "timestamp": "2026-06-27T17:19:17.085Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "最新天氣消息｜天文台料低壓槽周日南海北部徘徊　本港有驟雨雷暴",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260627/1147619221128089600738529.jpeg/v3t-3BKoud3zSP-LtGit9M9AaWlFGv1KMPd_NzD3fzc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60364353/%E6%9C%80%E6%96%B0%E5%A4%A9%E6%B0%A3%E6%B6%88%E6%81%AF-%E5%A4%A9%E6%96%87%E5%8F%B0%E6%96%99%E4%BD%8E%E5%A3%93%E6%A7%BD%E5%91%A8%E6%97%A5%E5%8D%97%E6%B5%B7%E5%8C%97%E9%83%A8%E5%BE%98%E5%BE%8A-%E6%9C%AC%E6%B8%AF%E6%9C%89%E9%A9%9F%E9%9B%A8%E9%9B%B7%E6%9A%B4",
-    "timestamp": "2026-06-27T16:50:39.757Z",
     "strategy": ".content-card__main"
   }
 ];
