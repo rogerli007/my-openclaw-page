@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-28T08:29:26.807Z
+// Last updated: 2026-06-28T10:38:58.102Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "台中蝴蝶谷落石4死│作家紀慧文罹難　為研究任夜總會公關轟動全台",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260628/1147950301173518336784059.jpeg/nIsEb3KyNOTUXfoApu7P6AGSC_rF6WVIYC1jcWAtY3E?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8F%B0%E7%81%A3%E6%96%B0%E8%81%9E/60364629/%E5%8F%B0%E4%B8%AD%E8%9D%B4%E8%9D%B6%E8%B0%B7%E8%90%BD%E7%9F%B34%E6%AD%BB-%E4%BD%9C%E5%AE%B6%E7%B4%80%E6%85%A7%E6%96%87%E7%BD%B9%E9%9B%A3-%E7%82%BA%E7%A0%94%E7%A9%B6%E4%BB%BB%E5%A4%9C%E7%B8%BD%E6%9C%83%E5%85%AC%E9%97%9C%E8%BD%9F%E5%8B%95%E5%85%A8%E5%8F%B0",
+    "timestamp": "2026-06-28T10:38:58.102Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "最新天氣｜黃雨警告取消　天文台料港島、九龍、新界東有狂風雷暴",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260627/1147619221128089600738529.jpeg/v3t-3BKoud3zSP-LtGit9M9AaWlFGv1KMPd_NzD3fzc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60364353/%E6%9C%80%E6%96%B0%E5%A4%A9%E6%B0%A3%E6%B6%88%E6%81%AF-%E5%A4%A9%E6%96%87%E5%8F%B0%E6%96%99%E4%BD%8E%E5%A3%93%E6%A7%BD%E5%91%A8%E6%97%A5%E5%8D%97%E6%B5%B7%E5%8C%97%E9%83%A8%E5%BE%98%E5%BE%8A-%E6%9C%AC%E6%B8%AF%E6%9C%89%E9%A9%9F%E9%9B%A8%E9%9B%B7%E6%9A%B4",
     "timestamp": "2026-06-27T16:50:39.757Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "吳彥祖竟被本地歌手錯認係方中Sir　網民震驚糾正：佢唔係許紹雄",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260627/1147588523574956032728395.jpeg/2_VypZDBG3iYSFLo5plJb48H4Le_JBpAYMcLp2DHC6c?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60364447/%E5%90%B3%E5%BD%A5%E7%A5%96%E7%AB%9F%E8%A2%AB%E6%9C%AC%E5%9C%B0%E6%AD%8C%E6%89%8B%E9%8C%AF%E8%AA%8D%E4%BF%82%E6%96%B9%E4%B8%ADsir-%E7%B6%B2%E6%B0%91%E9%9C%87%E9%A9%9A%E7%B3%BE%E6%AD%A3-%E4%BD%A2%E5%94%94%E4%BF%82%E8%A8%B1%E7%B4%B9%E9%9B%84",
-    "timestamp": "2026-06-27T16:19:53.751Z",
     "strategy": ".content-card__main"
   }
 ];
