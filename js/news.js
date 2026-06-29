@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-29T11:01:19.135Z
+// Last updated: 2026-06-29T12:39:21.612Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "雲南農民遭眼鏡蛇咬傷　妻仿效電視劇用嘴吮毒雙雙入院",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260629/1148356154628509696091258.png/gIlH2LguusnuvgBFjpaRBnWABCQx_6wYEYCPKRGAjyk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60365033/%E9%9B%B2%E5%8D%97%E8%BE%B2%E6%B0%91%E9%81%AD%E7%9C%BC%E9%8F%A1%E8%9B%87%E5%92%AC%E5%82%B7-%E5%A6%BB%E4%BB%BF%E6%95%88%E9%9B%BB%E8%A6%96%E5%8A%87%E7%94%A8%E5%98%B4%E5%90%AE%E6%AF%92%E9%9B%99%E9%9B%99%E5%85%A5%E9%99%A2",
+    "timestamp": "2026-06-29T12:39:21.612Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "宏福苑特設銷售計劃｜房協大單位數目增近一倍　何永賢：把握機會",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260425/1124550942704799744360817.jpeg/AfgexJI4iOD-X7T68PHbnVTlEZA7fzTApZmqAaWZqgE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60364635/%E6%BE%B3%E6%B4%B2%E5%85%92%E7%AB%A5%E7%A4%BE%E4%BA%A4%E5%B9%B3%E5%8F%B0%E7%A6%81%E4%BB%A4%E7%BD%B0%E9%87%91%E7%BF%BB%E5%80%8D-%E7%A7%91%E4%BC%81%E6%9C%80%E9%AB%98%E5%8F%AF%E9%81%AD%E7%BD%B05%E5%84%84",
     "timestamp": "2026-06-28T12:07:11.569Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "台中蝴蝶谷落石4死│作家紀慧文罹難　為研究任夜總會公關轟動全台",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260628/1147950301173518336784059.jpeg/nIsEb3KyNOTUXfoApu7P6AGSC_rF6WVIYC1jcWAtY3E?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8F%B0%E7%81%A3%E6%96%B0%E8%81%9E/60364629/%E5%8F%B0%E4%B8%AD%E8%9D%B4%E8%9D%B6%E8%B0%B7%E8%90%BD%E7%9F%B34%E6%AD%BB-%E4%BD%9C%E5%AE%B6%E7%B4%80%E6%85%A7%E6%96%87%E7%BD%B9%E9%9B%A3-%E7%82%BA%E7%A0%94%E7%A9%B6%E4%BB%BB%E5%A4%9C%E7%B8%BD%E6%9C%83%E5%85%AC%E9%97%9C%E8%BD%9F%E5%8B%95%E5%85%A8%E5%8F%B0",
-    "timestamp": "2026-06-28T10:38:58.102Z",
     "strategy": ".content-card__main"
   }
 ];
