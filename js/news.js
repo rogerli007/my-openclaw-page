@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-29T00:15:12.824Z
+// Last updated: 2026-06-29T01:29:34.267Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "解放軍導彈驅逐艦南寧艦、導彈護衛艦衡陽艦7.2起訪港開放參觀5日",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260629/1148191365004267520937681.jpeg/PAs1sqwrxToW18puuWVXfhgMqFxO2R7QJ9LdwifS3cI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60364714/%E8%A7%A3%E6%94%BE%E8%BB%8D%E5%B0%8E%E5%BD%88%E9%A9%85%E9%80%90%E8%89%A6%E5%8D%97%E5%AF%A7%E8%89%A6-%E5%B0%8E%E5%BD%88%E8%AD%B7%E8%A1%9B%E8%89%A6%E8%A1%A1%E9%99%BD%E8%89%A67-2%E8%B5%B7%E8%A8%AA%E6%B8%AF%E9%96%8B%E6%94%BE%E5%8F%83%E8%A7%805%E6%97%A5",
+    "timestamp": "2026-06-29T01:29:34.267Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "35歲資深軟件工程師擺攤！賣肉蛋堡月入¥5萬勝從前　離職原因曝光",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260625/1146884225970999296190537.png/ft6dfuFCiPJ2ca9squt-Sw7rw7i4G1BMmaxJspmsSbI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60363908/3%E5%A4%A7%E6%83%A1%E5%A5%B6%E5%A5%B6%E6%89%8B%E9%9D%A2%E7%9B%B8%E5%A4%A7%E5%85%AC%E9%96%8B-%E8%96%84%E5%94%87-%E8%A6%86%E8%88%9F%E5%98%B4-%E6%9C%80%E5%82%B7%E4%BA%BA-%E5%8F%AA%E6%9C%83%E8%B2%B6%E4%BD%8E%E7%84%A1%E5%8F%A3%E5%BE%B7",
     "timestamp": "2026-06-28T05:41:57.312Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "丘應樺今日起訪問上海兩日　向內地企業推廣香港拓展海外市場優勢",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250626/1014938673008873472135890.jpeg/nR2wRAGA0RfkQAFqQ6rkBbsejRmxpV7IrAPmgKwD5oA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60364566/%E4%B8%98%E6%87%89%E6%A8%BA%E4%BB%8A%E6%97%A5%E8%B5%B7%E8%A8%AA%E5%95%8F%E4%B8%8A%E6%B5%B7%E5%85%A9%E6%97%A5-%E5%90%91%E5%85%A7%E5%9C%B0%E4%BC%81%E6%A5%AD%E6%8E%A8%E5%BB%A3%E9%A6%99%E6%B8%AF%E6%8B%93%E5%B1%95%E6%B5%B7%E5%A4%96%E5%B8%82%E5%A0%B4%E5%84%AA%E5%8B%A2",
-    "timestamp": "2026-06-28T03:53:06.121Z",
     "strategy": ".content-card__main"
   }
 ];
