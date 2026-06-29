@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-29T17:47:45.969Z
+// Last updated: 2026-06-29T19:20:53.416Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "伊朗：未來幾日不會舉行美伊會談　海峽排雷工作只能由伊方負責",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260616/1143347002155732992437506.jpeg/0MPWbqj3aZLw_zMz4rlFOLvCwrGuOv8EqPgW46j4FuM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60365075/%E4%BC%8A%E6%9C%97-%E6%9C%AA%E4%BE%86%E5%B9%BE%E6%97%A5%E4%B8%8D%E6%9C%83%E8%88%89%E8%A1%8C%E7%BE%8E%E4%BC%8A%E6%9C%83%E8%AB%87-%E6%B5%B7%E5%B3%BD%E6%8E%92%E9%9B%B7%E5%B7%A5%E4%BD%9C%E5%8F%AA%E8%83%BD%E7%94%B1%E4%BC%8A%E6%96%B9%E8%B2%A0%E8%B2%AC",
+    "timestamp": "2026-06-29T19:20:53.416Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "預警今年明年熱爆或破錄　天文台：厄爾尼諾或達有記錄以來最強",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260628/1148047668853870592859134.jpeg/r9PobcGlCBYT6YzKKaqv7ibGmOa92gQNTpp1Yk6adWI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60364686/%E7%BE%8E%E5%9C%8B%E5%9C%9F%E5%AE%89%E5%85%A8%E9%83%A8%E9%95%B7-%E6%8C%81%E8%87%A8%E6%99%82%E8%BA%AB%E4%BB%BD%E7%A7%BB%E6%B0%91%E6%87%89%E5%B0%8B%E6%B1%82%E6%B0%B8%E4%B9%85%E5%B1%85%E7%95%99%E6%AC%8A%E6%88%96%E9%9B%A2%E5%A2%83",
     "timestamp": "2026-06-28T17:35:03.806Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美國土安全部長：持臨時身份移民應尋求永久居留權或離境",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260628/1148047668853870592859134.jpeg/r9PobcGlCBYT6YzKKaqv7ibGmOa92gQNTpp1Yk6adWI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60364686/%E7%BE%8E%E5%9C%8B%E5%9C%9F%E5%AE%89%E5%85%A8%E9%83%A8%E9%95%B7-%E6%8C%81%E8%87%A8%E6%99%82%E8%BA%AB%E4%BB%BD%E7%A7%BB%E6%B0%91%E6%87%89%E5%B0%8B%E6%B1%82%E6%B0%B8%E4%B9%85%E5%B1%85%E7%95%99%E6%AC%8A%E6%88%96%E9%9B%A2%E5%A2%83",
-    "timestamp": "2026-06-28T16:56:39.301Z",
     "strategy": ".content-card__main"
   }
 ];
