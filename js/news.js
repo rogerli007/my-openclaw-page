@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-29T22:14:48.698Z
+// Last updated: 2026-06-29T22:43:02.017Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "TVB「綠葉王」轉戰內地成功逆襲　大馬登台獲派大隻保鏢貼身護駕",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260629/1148380435286331392185702.jpeg/p20BpLOscOsnFpN2cRI5stZ0qugLTDz3igBXCooAVwo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60364863/tvb-%E7%B6%A0%E8%91%89%E7%8E%8B-%E8%BD%89%E6%88%B0%E5%85%A7%E5%9C%B0%E6%88%90%E5%8A%9F%E9%80%86%E8%A5%B2-%E5%A4%A7%E9%A6%AC%E7%99%BB%E5%8F%B0%E7%8D%B2%E6%B4%BE%E5%A4%A7%E9%9A%BB%E4%BF%9D%E9%8F%A2%E8%B2%BC%E8%BA%AB%E8%AD%B7%E9%A7%95",
+    "timestamp": "2026-06-29T22:43:02.017Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "遊艇自由行｜入境處6.29起簡化出入境手續　經電子系統交人員資料",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260629/1148071159435104256086923.jpeg/3XqnMBZoWlDG7tmozfF9R0US5UsXAnBHOYpmdzmKZnc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60364689/%E6%B3%95%E5%9C%8B%E6%9D%B1%E5%8C%97%E9%83%A8%E5%B0%8F%E5%9E%8B%E8%B7%B3%E5%82%98%E9%A3%9B%E6%A9%9F%E5%A2%9C%E6%AF%80-11%E4%BA%BA%E5%85%A8%E6%95%B8%E7%BD%B9%E9%9B%A3%E5%8C%85%E6%8B%AC%E5%AD%B8%E5%93%A1%E5%8F%8A%E6%95%99%E7%B7%B4",
     "timestamp": "2026-06-28T19:54:24.968Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "法國東北部小型跳傘飛機墜毀 　11人全數罹難包括學員及教練",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260629/1148071159435104256086923.jpeg/3XqnMBZoWlDG7tmozfF9R0US5UsXAnBHOYpmdzmKZnc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60364689/%E6%B3%95%E5%9C%8B%E6%9D%B1%E5%8C%97%E9%83%A8%E5%B0%8F%E5%9E%8B%E8%B7%B3%E5%82%98%E9%A3%9B%E6%A9%9F%E5%A2%9C%E6%AF%80-11%E4%BA%BA%E5%85%A8%E6%95%B8%E7%BD%B9%E9%9B%A3%E5%8C%85%E6%8B%AC%E5%AD%B8%E5%93%A1%E5%8F%8A%E6%95%99%E7%B7%B4",
-    "timestamp": "2026-06-28T19:21:07.891Z",
     "strategy": ".content-card__main"
   }
 ];
