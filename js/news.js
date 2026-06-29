@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-29T23:13:04.348Z
+// Last updated: 2026-06-29T23:41:54.288Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "世界盃2026｜巴拉圭互射十二碼爆冷勝德國　射6輪三人射失",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260630/1148530176599003136490156.jpeg/X2AMD7TiUxVKLTYcXAwQdQKhHKCZh1-On5OhDp-ToQ4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60365080/%E4%B8%96%E7%95%8C%E7%9B%832026-%E5%B7%B4%E6%8B%89%E5%9C%AD%E4%BA%92%E5%B0%84%E5%8D%81%E4%BA%8C%E7%A2%BC%E7%88%86%E5%86%B7%E5%8B%9D%E5%BE%B7%E5%9C%8B-%E5%B0%846%E8%BC%AA%E4%B8%89%E4%BA%BA%E5%B0%84%E5%A4%B1",
+    "timestamp": "2026-06-29T23:41:54.288Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "天主教普照中學原創校慶劇圓滿公演　台前幕後汗與淚交織生命樂章",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260628/1148001711785250816614932.jpeg/HT0LzYr1GqQ4VKy4C69DQF0BwhLlqS_kob2RcqG9kXI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60364595/%E7%9B%A7%E6%B5%B7%E9%B5%AC%E7%8D%B2%E4%BE%84%E5%AD%90%E6%8E%A2%E6%9C%9B%E6%85%A8%E5%98%86%E4%B8%80%E5%AE%B6%E4%BA%94%E5%8F%A3%E6%AD%BB%E5%89%A9%E4%BD%A2-%E6%88%91%E8%BF%94%E5%8E%BB%E9%83%BD%E5%86%87%E4%BA%BA%E5%9C%A8%E5%96%87",
     "timestamp": "2026-06-28T22:13:23.119Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美媒：美伊同意結束新爆發空襲　擬本周會晤解決霍爾木茲海峽爭端",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260504/1127943329724502016827490.jpeg/qeZxAqxaTNqSdVdktWHnj_0j9mjbhb-n8HqDavB6g2o?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60364699/%E7%BE%8E%E5%AA%92-%E7%BE%8E%E4%BC%8A%E5%90%8C%E6%84%8F%E7%B5%90%E6%9D%9F%E6%96%B0%E7%88%86%E7%99%BC%E7%A9%BA%E8%A5%B2-%E6%93%AC%E6%9C%AC%E5%91%A8%E6%9C%83%E6%99%A4%E8%A7%A3%E6%B1%BA%E9%9C%8D%E7%88%BE%E6%9C%A8%E8%8C%B2%E6%B5%B7%E5%B3%BD%E7%88%AD%E7%AB%AF",
-    "timestamp": "2026-06-28T21:44:01.193Z",
     "strategy": ".content-card__main"
   }
 ];
