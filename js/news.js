@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-28T23:44:11.987Z
+// Last updated: 2026-06-29T00:15:12.824Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "35歲資深軟件工程師擺攤！賣肉蛋堡月入¥5萬勝從前　離職原因曝光",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260624/1146434142527819776509738.png/-kbBccl4ApzR6E9-GfE23ZVh_V7FfrejeVupMnlbqTI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60340020/35%E6%AD%B2%E8%B3%87%E6%B7%B1%E8%BB%9F%E4%BB%B6%E5%B7%A5%E7%A8%8B%E5%B8%AB%E6%93%BA%E6%94%A4-%E8%B3%A3%E8%82%89%E8%9B%8B%E5%A0%A1%E6%9C%88%E5%85%A5-5%E8%90%AC%E5%8B%9D%E5%BE%9E%E5%89%8D-%E9%9B%A2%E8%81%B7%E5%8E%9F%E5%9B%A0%E6%9B%9D%E5%85%89",
+    "timestamp": "2026-06-29T00:15:12.824Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "財經視野｜OpenAI與Anthropic上市倒數　華府監管風暴成軟肋？",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250626/1014938673008873472135890.jpeg/nR2wRAGA0RfkQAFqQ6rkBbsejRmxpV7IrAPmgKwD5oA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60364566/%E4%B8%98%E6%87%89%E6%A8%BA%E4%BB%8A%E6%97%A5%E8%B5%B7%E8%A8%AA%E5%95%8F%E4%B8%8A%E6%B5%B7%E5%85%A9%E6%97%A5-%E5%90%91%E5%85%A7%E5%9C%B0%E4%BC%81%E6%A5%AD%E6%8E%A8%E5%BB%A3%E9%A6%99%E6%B8%AF%E6%8B%93%E5%B1%95%E6%B5%B7%E5%A4%96%E5%B8%82%E5%A0%B4%E5%84%AA%E5%8B%A2",
     "timestamp": "2026-06-28T03:53:06.121Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "李家超：北都、河套不再是一紙藍圖　「乘勢而上」是施政方向",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260628/1147847118481264640148307.png/fu_oHQjFUGRFfkwvijK-xbwEdxlOf17TsTp2F7E6dhc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60364547/%E6%9D%8E%E5%AE%B6%E8%B6%85-%E5%8C%97%E9%83%BD-%E6%B2%B3%E5%A5%97%E4%B8%8D%E5%86%8D%E6%98%AF%E4%B8%80%E7%B4%99%E8%97%8D%E5%9C%96-%E4%B9%98%E5%8B%A2%E8%80%8C%E4%B8%8A-%E6%98%AF%E6%96%BD%E6%94%BF%E6%96%B9%E5%90%91",
-    "timestamp": "2026-06-28T02:29:36.615Z",
     "strategy": ".content-card__main"
   }
 ];
