@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-29T01:29:34.267Z
+// Last updated: 2026-06-29T03:53:28.207Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "譚維維音樂會2026香港｜門票攻略＋購票連結＋座位表",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260626/1147269728595611648624718.jpeg/mnGT7unt7pl7BOokuWrG2-M--x9FysixG6CUDhuglA4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60364300/%E8%AD%9A%E7%B6%AD%E7%B6%AD%E9%9F%B3%E6%A8%82%E6%9C%832026%E9%A6%99%E6%B8%AF-%E9%96%80%E7%A5%A8%E6%94%BB%E7%95%A5-%E8%B3%BC%E7%A5%A8%E9%80%A3%E7%B5%90-%E5%BA%A7%E4%BD%8D%E8%A1%A8",
+    "timestamp": "2026-06-29T03:53:28.207Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "解放軍導彈驅逐艦南寧艦、導彈護衛艦衡陽艦7.2起訪港開放參觀5日",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260627/1147619221128089600738529.jpeg/v3t-3BKoud3zSP-LtGit9M9AaWlFGv1KMPd_NzD3fzc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60364353/%E6%9C%80%E6%96%B0%E5%A4%A9%E6%B0%A3-%E9%BB%83%E9%9B%A8%E8%AD%A6%E5%91%8A%E5%8F%96%E6%B6%88-%E5%A4%A9%E6%96%87%E5%8F%B0%E6%96%99%E7%BA%8C%E6%9C%89%E7%8B%82%E9%A2%A8%E9%9B%B7%E6%9A%B4-%E7%B1%B2%E5%B0%8F%E5%BF%83%E6%B2%B3%E9%81%93%E6%B0%BE%E6%BF%AB",
     "timestamp": "2026-06-28T07:12:43.669Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "3大惡奶奶手面相大公開　薄唇「覆舟嘴」最傷人　只會貶低無口德",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260625/1146884225970999296190537.png/ft6dfuFCiPJ2ca9squt-Sw7rw7i4G1BMmaxJspmsSbI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60363908/3%E5%A4%A7%E6%83%A1%E5%A5%B6%E5%A5%B6%E6%89%8B%E9%9D%A2%E7%9B%B8%E5%A4%A7%E5%85%AC%E9%96%8B-%E8%96%84%E5%94%87-%E8%A6%86%E8%88%9F%E5%98%B4-%E6%9C%80%E5%82%B7%E4%BA%BA-%E5%8F%AA%E6%9C%83%E8%B2%B6%E4%BD%8E%E7%84%A1%E5%8F%A3%E5%BE%B7",
-    "timestamp": "2026-06-28T05:41:57.312Z",
     "strategy": ".content-card__main"
   }
 ];
