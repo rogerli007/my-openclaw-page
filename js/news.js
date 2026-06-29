@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-29T03:53:28.207Z
+// Last updated: 2026-06-29T07:21:56.489Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "日本青森男子採筍失蹤　縣警：熊身旁發現疑似人體",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260629/1148279374189957120160487.png/Isi7BlB2oHy0GnXu3XvwCGC90KLTDSLkI9iWsiPYlrI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60364869/%E6%97%A5%E6%9C%AC%E9%9D%92%E6%A3%AE%E7%94%B7%E5%AD%90%E6%8E%A1%E7%AD%8D%E5%A4%B1%E8%B9%A4-%E7%B8%A3%E8%AD%A6-%E7%86%8A%E8%BA%AB%E6%97%81%E7%99%BC%E7%8F%BE%E7%96%91%E4%BC%BC%E4%BA%BA%E9%AB%94",
+    "timestamp": "2026-06-29T07:21:56.489Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "譚維維音樂會2026香港｜門票攻略＋購票連結＋座位表",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260627/1147619221128089600738529.jpeg/v3t-3BKoud3zSP-LtGit9M9AaWlFGv1KMPd_NzD3fzc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60364353/%E6%9C%80%E6%96%B0%E5%A4%A9%E6%B0%A3-%E9%BB%83%E9%9B%A8%E8%AD%A6%E5%91%8A%E5%8F%96%E6%B6%88-%E5%A4%A9%E6%96%87%E5%8F%B0%E6%96%99%E6%B8%AF%E5%B3%B6-%E4%B9%9D%E9%BE%8D-%E6%96%B0%E7%95%8C%E6%9D%B1%E6%9C%89%E7%8B%82%E9%A2%A8%E9%9B%B7%E6%9A%B4",
     "timestamp": "2026-06-28T08:29:26.807Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "最新天氣｜黃雨警告取消　天文台料續有狂風雷暴　籲小心河道氾濫",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260627/1147619221128089600738529.jpeg/v3t-3BKoud3zSP-LtGit9M9AaWlFGv1KMPd_NzD3fzc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60364353/%E6%9C%80%E6%96%B0%E5%A4%A9%E6%B0%A3-%E9%BB%83%E9%9B%A8%E8%AD%A6%E5%91%8A%E5%8F%96%E6%B6%88-%E5%A4%A9%E6%96%87%E5%8F%B0%E6%96%99%E7%BA%8C%E6%9C%89%E7%8B%82%E9%A2%A8%E9%9B%B7%E6%9A%B4-%E7%B1%B2%E5%B0%8F%E5%BF%83%E6%B2%B3%E9%81%93%E6%B0%BE%E6%BF%AB",
-    "timestamp": "2026-06-28T07:12:43.669Z",
     "strategy": ".content-card__main"
   }
 ];
