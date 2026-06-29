@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-29T07:21:56.489Z
+// Last updated: 2026-06-29T11:01:19.135Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "宏福苑特設銷售計劃｜房協大單位數目增近一倍　何永賢：把握機會",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260607/1140442775976677376139624.png/YlX0EcbmlUtifF9al6fJvw8gd0GiD8PD0tTXmNLU15g?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60365013/%E5%AE%8F%E7%A6%8F%E8%8B%91%E7%89%B9%E8%A8%AD%E9%8A%B7%E5%94%AE%E8%A8%88%E5%8A%83-%E6%88%BF%E5%8D%94%E5%A4%A7%E5%96%AE%E4%BD%8D%E6%95%B8%E7%9B%AE%E5%A2%9E%E8%BF%91%E4%B8%80%E5%80%8D-%E4%BD%95%E6%B0%B8%E8%B3%A2-%E6%8A%8A%E6%8F%A1%E6%A9%9F%E6%9C%83",
+    "timestamp": "2026-06-29T11:01:19.135Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "日本青森男子採筍失蹤　縣警：熊身旁發現疑似人體",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260628/1147950301173518336784059.jpeg/nIsEb3KyNOTUXfoApu7P6AGSC_rF6WVIYC1jcWAtY3E?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8F%B0%E7%81%A3%E6%96%B0%E8%81%9E/60364629/%E5%8F%B0%E4%B8%AD%E8%9D%B4%E8%9D%B6%E8%B0%B7%E8%90%BD%E7%9F%B34%E6%AD%BB-%E4%BD%9C%E5%AE%B6%E7%B4%80%E6%85%A7%E6%96%87%E7%BD%B9%E9%9B%A3-%E7%82%BA%E7%A0%94%E7%A9%B6%E4%BB%BB%E5%A4%9C%E7%B8%BD%E6%9C%83%E5%85%AC%E9%97%9C%E8%BD%9F%E5%8B%95%E5%85%A8%E5%8F%B0",
     "timestamp": "2026-06-28T10:38:58.102Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "最新天氣｜黃雨警告取消　天文台料港島、九龍、新界東有狂風雷暴",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260627/1147619221128089600738529.jpeg/v3t-3BKoud3zSP-LtGit9M9AaWlFGv1KMPd_NzD3fzc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60364353/%E6%9C%80%E6%96%B0%E5%A4%A9%E6%B0%A3-%E9%BB%83%E9%9B%A8%E8%AD%A6%E5%91%8A%E5%8F%96%E6%B6%88-%E5%A4%A9%E6%96%87%E5%8F%B0%E6%96%99%E6%B8%AF%E5%B3%B6-%E4%B9%9D%E9%BE%8D-%E6%96%B0%E7%95%8C%E6%9D%B1%E6%9C%89%E7%8B%82%E9%A2%A8%E9%9B%B7%E6%9A%B4",
-    "timestamp": "2026-06-28T08:29:26.807Z",
     "strategy": ".content-card__main"
   }
 ];
