@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-29T12:39:21.612Z
+// Last updated: 2026-06-29T14:14:40.271Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "張柏芝46歲身型出現變化　上台狀態Fit爆現肚腩仔：這套衣服顯胖",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260629/1148331015282888704817042.jpeg/cfK_7yGWTHyewVUcAZuVjEmaB_twUjRMPNRxEzzUcRM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60364873/%E5%BC%B5%E6%9F%8F%E8%8A%9D46%E6%AD%B2%E8%BA%AB%E5%9E%8B%E5%87%BA%E7%8F%BE%E8%AE%8A%E5%8C%96-%E4%B8%8A%E5%8F%B0%E7%8B%80%E6%85%8Bfit%E7%88%86%E7%8F%BE%E8%82%9A%E8%85%A9%E4%BB%94-%E9%80%99%E5%A5%97%E8%A1%A3%E6%9C%8D%E9%A1%AF%E8%83%96",
+    "timestamp": "2026-06-29T14:14:40.271Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "雲南農民遭眼鏡蛇咬傷　妻仿效電視劇用嘴吮毒雙雙入院",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260628/1147990742271004672271049.jpeg/QulPZqfKWKuYZQlKyHB3FCli1tLG5zoWgN9x_pbfcf4?v=w1920",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60364668/%E4%B9%9D%E9%BE%8D%E5%9F%8E%E6%B3%95%E9%99%A2%E5%B0%8F%E5%B7%B4%E8%BB%8A%E7%A6%8D-%E5%A4%B1%E6%8E%A7%E5%89%B7%E8%A1%8C%E4%BA%BA%E8%B7%AF%E9%87%801%E6%AD%BB16%E5%82%B7-%E5%8F%B8%E6%A9%9F%E6%B6%89%E5%8D%B1%E9%A7%95%E8%A2%AB%E6%8D%95",
     "timestamp": "2026-06-28T13:40:56.583Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "澳洲兒童社交平台禁令罰金翻倍　科企最高可遭罰5億",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260425/1124550942704799744360817.jpeg/AfgexJI4iOD-X7T68PHbnVTlEZA7fzTApZmqAaWZqgE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60364635/%E6%BE%B3%E6%B4%B2%E5%85%92%E7%AB%A5%E7%A4%BE%E4%BA%A4%E5%B9%B3%E5%8F%B0%E7%A6%81%E4%BB%A4%E7%BD%B0%E9%87%91%E7%BF%BB%E5%80%8D-%E7%A7%91%E4%BC%81%E6%9C%80%E9%AB%98%E5%8F%AF%E9%81%AD%E7%BD%B05%E5%84%84",
-    "timestamp": "2026-06-28T12:07:11.569Z",
     "strategy": ".content-card__main"
   }
 ];
