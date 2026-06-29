@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-29T22:43:02.017Z
+// Last updated: 2026-06-29T23:13:04.348Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "天主教普照中學原創校慶劇圓滿公演　台前幕後汗與淚交織生命樂章",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260603/1138842815472603136785904.jpeg/ydMZGtzYlUK_h_HHeSGzYQcwvnuLTF0LezFvJnsxbyY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E4%B8%AD%E5%B0%8F%E5%AD%B8%E6%A0%A1%E5%9C%92/60355562/%E5%A4%A9%E4%B8%BB%E6%95%99%E6%99%AE%E7%85%A7%E4%B8%AD%E5%AD%B8%E5%8E%9F%E5%89%B5%E6%A0%A1%E6%85%B6%E5%8A%87%E5%9C%93%E6%BB%BF%E5%85%AC%E6%BC%94-%E5%8F%B0%E5%89%8D%E5%B9%95%E5%BE%8C%E6%B1%97%E8%88%87%E6%B7%9A%E4%BA%A4%E7%B9%94%E7%94%9F%E5%91%BD%E6%A8%82%E7%AB%A0",
+    "timestamp": "2026-06-29T23:13:04.348Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "TVB「綠葉王」轉戰內地成功逆襲　大馬登台獲派大隻保鏢貼身護駕",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260504/1127943329724502016827490.jpeg/qeZxAqxaTNqSdVdktWHnj_0j9mjbhb-n8HqDavB6g2o?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60364699/%E7%BE%8E%E5%AA%92-%E7%BE%8E%E4%BC%8A%E5%90%8C%E6%84%8F%E7%B5%90%E6%9D%9F%E6%96%B0%E7%88%86%E7%99%BC%E7%A9%BA%E8%A5%B2-%E6%93%AC%E6%9C%AC%E5%91%A8%E6%9C%83%E6%99%A4%E8%A7%A3%E6%B1%BA%E9%9C%8D%E7%88%BE%E6%9C%A8%E8%8C%B2%E6%B5%B7%E5%B3%BD%E7%88%AD%E7%AB%AF",
     "timestamp": "2026-06-28T21:44:01.193Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "法國東北部小型跳傘飛機墜毀 　11人全數罹難包括學員及教練",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260629/1148071159435104256086923.jpeg/3XqnMBZoWlDG7tmozfF9R0US5UsXAnBHOYpmdzmKZnc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60364689/%E6%B3%95%E5%9C%8B%E6%9D%B1%E5%8C%97%E9%83%A8%E5%B0%8F%E5%9E%8B%E8%B7%B3%E5%82%98%E9%A3%9B%E6%A9%9F%E5%A2%9C%E6%AF%80-11%E4%BA%BA%E5%85%A8%E6%95%B8%E7%BD%B9%E9%9B%A3%E5%8C%85%E6%8B%AC%E5%AD%B8%E5%93%A1%E5%8F%8A%E6%95%99%E7%B7%B4",
-    "timestamp": "2026-06-28T19:54:24.968Z",
     "strategy": ".content-card__main"
   }
 ];
