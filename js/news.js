@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-29T16:47:28.523Z
+// Last updated: 2026-06-29T17:47:45.969Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "預警今年明年熱爆或破錄　天文台：厄爾尼諾或達有記錄以來最強",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260630/1148430900443222016350794.jpeg/MHZwkiP2nrSw9TrHqDjSBg0qH_jsyb9x3tQltt7UJbY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60365074/%E9%A0%90%E8%AD%A6%E4%BB%8A%E5%B9%B4%E6%98%8E%E5%B9%B4%E7%86%B1%E7%88%86%E6%88%96%E7%A0%B4%E9%8C%84-%E5%A4%A9%E6%96%87%E5%8F%B0-%E5%8E%84%E7%88%BE%E5%B0%BC%E8%AB%BE%E6%88%96%E9%81%94%E6%9C%89%E8%A8%98%E9%8C%84%E4%BB%A5%E4%BE%86%E6%9C%80%E5%BC%B7",
+    "timestamp": "2026-06-29T17:47:45.969Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "巴西對日本｜世界盃賽前2小時球迷商場等睇波　日本隊球迷到場撐",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260628/1148047668853870592859134.jpeg/r9PobcGlCBYT6YzKKaqv7ibGmOa92gQNTpp1Yk6adWI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60364686/%E7%BE%8E%E5%9C%8B%E5%9C%9F%E5%AE%89%E5%85%A8%E9%83%A8%E9%95%B7-%E6%8C%81%E8%87%A8%E6%99%82%E8%BA%AB%E4%BB%BD%E7%A7%BB%E6%B0%91%E6%87%89%E5%B0%8B%E6%B1%82%E6%B0%B8%E4%B9%85%E5%B1%85%E7%95%99%E6%AC%8A%E6%88%96%E9%9B%A2%E5%A2%83",
     "timestamp": "2026-06-28T16:56:39.301Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美國土安全部長：持臨時身份移民應尋求永久居留權或離境",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260628/1148047668853870592859134.jpeg/r9PobcGlCBYT6YzKKaqv7ibGmOa92gQNTpp1Yk6adWI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60364686/%E7%BE%8E%E5%9C%8B%E5%9C%9F%E5%AE%89%E5%85%A8%E9%83%A8%E9%95%B7-%E6%8C%81%E8%87%A8%E6%99%82%E8%BA%AB%E4%BB%BD%E7%A7%BB%E6%B0%91%E6%87%89%E5%B0%8B%E6%B1%82%E6%B0%B8%E4%B9%85%E5%B1%85%E7%95%99%E6%AC%8A%E6%88%96%E9%9B%A2%E5%A2%83",
-    "timestamp": "2026-06-28T16:20:25.825Z",
     "strategy": ".content-card__main"
   }
 ];
