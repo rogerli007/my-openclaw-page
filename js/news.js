@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-29T21:05:45.022Z
+// Last updated: 2026-06-29T22:14:48.698Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "遊艇自由行｜入境處6.29起簡化出入境手續　經電子系統交人員資料",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260630/1148507701278412800439052.jpeg/P_qNzAPgL4uvdDYXIL5Mj95iwzSoIsbBSn9600p_etM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60365084/%E9%81%8A%E8%89%87%E8%87%AA%E7%94%B1%E8%A1%8C-%E5%85%A5%E5%A2%83%E8%99%956-29%E8%B5%B7%E7%B0%A1%E5%8C%96%E5%87%BA%E5%85%A5%E5%A2%83%E6%89%8B%E7%BA%8C-%E7%B6%93%E9%9B%BB%E5%AD%90%E7%B3%BB%E7%B5%B1%E4%BA%A4%E4%BA%BA%E5%93%A1%E8%B3%87%E6%96%99",
+    "timestamp": "2026-06-29T22:14:48.698Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "WTT美國大滿貫｜王曼昱等6位國手晉級32強　下輪戰日本名將佐藤瞳",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260629/1148071159435104256086923.jpeg/3XqnMBZoWlDG7tmozfF9R0US5UsXAnBHOYpmdzmKZnc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60364689/%E6%B3%95%E5%9C%8B%E6%9D%B1%E5%8C%97%E9%83%A8%E5%B0%8F%E5%9E%8B%E8%B7%B3%E5%82%98%E9%A3%9B%E6%A9%9F%E5%A2%9C%E6%AF%80-11%E4%BA%BA%E5%85%A8%E6%95%B8%E7%BD%B9%E9%9B%A3%E5%8C%85%E6%8B%AC%E5%AD%B8%E5%93%A1%E5%8F%8A%E6%95%99%E7%B7%B4",
     "timestamp": "2026-06-28T19:21:07.891Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美國土安全部長：持臨時身份移民應尋求永久居留權或離境",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260628/1148047668853870592859134.jpeg/r9PobcGlCBYT6YzKKaqv7ibGmOa92gQNTpp1Yk6adWI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60364686/%E7%BE%8E%E5%9C%8B%E5%9C%9F%E5%AE%89%E5%85%A8%E9%83%A8%E9%95%B7-%E6%8C%81%E8%87%A8%E6%99%82%E8%BA%AB%E4%BB%BD%E7%A7%BB%E6%B0%91%E6%87%89%E5%B0%8B%E6%B1%82%E6%B0%B8%E4%B9%85%E5%B1%85%E7%95%99%E6%AC%8A%E6%88%96%E9%9B%A2%E5%A2%83",
-    "timestamp": "2026-06-28T18:15:04.495Z",
     "strategy": ".content-card__main"
   }
 ];
