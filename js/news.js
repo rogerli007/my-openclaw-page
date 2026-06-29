@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-29T15:32:22.288Z
+// Last updated: 2026-06-29T16:47:28.523Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "巴西對日本｜世界盃賽前2小時球迷商場等睇波　日本隊球迷到場撐",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260630/1148418227970248704248396.jpeg/dEc46Gxv8p7RQxfjM8MRC5LXOXCWXF0XTaIbGk2iGxo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60365070/%E5%B7%B4%E8%A5%BF%E5%B0%8D%E6%97%A5%E6%9C%AC-%E4%B8%96%E7%95%8C%E7%9B%83%E8%B3%BD%E5%89%8D2%E5%B0%8F%E6%99%82%E7%90%83%E8%BF%B7%E5%95%86%E5%A0%B4%E7%AD%89%E7%9D%87%E6%B3%A2-%E6%97%A5%E6%9C%AC%E9%9A%8A%E7%90%83%E8%BF%B7%E5%88%B0%E5%A0%B4%E6%92%90",
+    "timestamp": "2026-06-29T16:47:28.523Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "巴西對日本｜世界盃現「足球小將」戲碼　諾士佛臺有酒吧預訂爆滿",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260628/1148047668853870592859134.jpeg/r9PobcGlCBYT6YzKKaqv7ibGmOa92gQNTpp1Yk6adWI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60364686/%E7%BE%8E%E5%9C%8B%E5%9C%9F%E5%AE%89%E5%85%A8%E9%83%A8%E9%95%B7-%E6%8C%81%E8%87%A8%E6%99%82%E8%BA%AB%E4%BB%BD%E7%A7%BB%E6%B0%91%E6%87%89%E5%B0%8B%E6%B1%82%E6%B0%B8%E4%B9%85%E5%B1%85%E7%95%99%E6%AC%8A%E6%88%96%E9%9B%A2%E5%A2%83",
     "timestamp": "2026-06-28T16:20:25.825Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "陳瀅360度三點式大放送　美臀若隱若現好「股」惑網民呼：犯晒規",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260628/1147925504406327296954306.jpeg/8IKqFXmKsediW4qAZaD0-c5xKNfd7HQA941cp_eNXKc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E5%A8%9B%E6%A8%82/60364594/%E9%99%B3%E7%80%85360%E5%BA%A6%E4%B8%89%E9%BB%9E%E5%BC%8F%E5%A4%A7%E6%94%BE%E9%80%81-%E7%BE%8E%E8%87%80%E8%8B%A5%E9%9A%B1%E8%8B%A5%E7%8F%BE%E5%A5%BD-%E8%82%A1-%E6%83%91%E7%B6%B2%E6%B0%91%E5%91%BC-%E7%8A%AF%E6%99%92%E8%A6%8F",
-    "timestamp": "2026-06-28T14:28:50.320Z",
     "strategy": ".content-card__main"
   }
 ];
