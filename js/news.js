@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-30T02:28:49.740Z
+// Last updated: 2026-06-30T03:52:32.869Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "自動駕駛車今年試行高鐵站至九龍站　長者及行動不便者明年可預約",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260327/1114252779636920320263504.jpeg/Wou70r8lKCjcv62DnSldMAw2Bxtg1EgHhrsYk6y7GJM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60365168/%E8%87%AA%E5%8B%95%E9%A7%95%E9%A7%9B%E8%BB%8A%E4%BB%8A%E5%B9%B4%E8%A9%A6%E8%A1%8C%E9%AB%98%E9%90%B5%E7%AB%99%E8%87%B3%E4%B9%9D%E9%BE%8D%E7%AB%99-%E9%95%B7%E8%80%85%E5%8F%8A%E8%A1%8C%E5%8B%95%E4%B8%8D%E4%BE%BF%E8%80%85%E6%98%8E%E5%B9%B4%E5%8F%AF%E9%A0%90%E7%B4%84",
+    "timestamp": "2026-06-30T03:52:32.869Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "七一食肆優惠｜3400店全覽　太興敏華全單71折　大家樂冬瓜盅$99",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260625/1146786428110245888960241.jpeg/cGL5L1aQhZDiyLYjYX5ybN1MYM5a_qKHLZ5W4y2eVuM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60364705/%E8%B2%A1%E7%B6%93%E8%A6%96%E9%87%8E-openai%E8%88%87anthropic%E4%B8%8A%E5%B8%82%E5%80%92%E6%95%B8-%E8%8F%AF%E5%BA%9C%E7%9B%A3%E7%AE%A1%E9%A2%A8%E6%9A%B4%E6%88%90%E8%BB%9F%E8%82%8B",
     "timestamp": "2026-06-28T23:44:11.987Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "冷氣機濾網每3周清洗　可省電10%！　台電點名清洗濾網2大NG行為",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260626/1147254101294190592137258.png/OTt1I-wy5CeV1GRls7sKWlhtwikhK19CFPAUIhTwFCI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60347018/%E5%86%B7%E6%B0%A3%E6%A9%9F%E6%BF%BE%E7%B6%B2%E6%AF%8F3%E5%91%A8%E6%B8%85%E6%B4%97-%E5%8F%AF%E7%9C%81%E9%9B%BB10-%E5%8F%B0%E9%9B%BB%E9%BB%9E%E5%90%8D%E6%B8%85%E6%B4%97%E6%BF%BE%E7%B6%B22%E5%A4%A7ng%E8%A1%8C%E7%82%BA",
-    "timestamp": "2026-06-28T23:14:14.963Z",
     "strategy": ".content-card__main"
   }
 ];
