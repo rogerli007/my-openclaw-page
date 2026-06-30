@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-30T03:52:32.869Z
+// Last updated: 2026-06-30T05:35:49.862Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "內地禁跨境炒股　美投資公司入稟︰百交易員藉內幕交易賺逾億美元",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260620/1144947395851849728930821.jpeg/27lUeq8Lg14VcQ-AB_lS9Iwx9pJ7HMlY9F8Ku_RfCrs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60365229/%E5%85%A7%E5%9C%B0%E7%A6%81%E8%B7%A8%E5%A2%83%E7%82%92%E8%82%A1-%E7%BE%8E%E6%8A%95%E8%B3%87%E5%85%AC%E5%8F%B8%E5%85%A5%E7%A8%9F-%E7%99%BE%E4%BA%A4%E6%98%93%E5%93%A1%E8%97%89%E5%85%A7%E5%B9%95%E4%BA%A4%E6%98%93%E8%B3%BA%E9%80%BE%E5%84%84%E7%BE%8E%E5%85%83",
+    "timestamp": "2026-06-30T05:35:49.862Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "自動駕駛車今年試行高鐵站至九龍站　長者及行動不便者明年可預約",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260624/1146434142527819776509738.png/-kbBccl4ApzR6E9-GfE23ZVh_V7FfrejeVupMnlbqTI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60340020/35%E6%AD%B2%E8%B3%87%E6%B7%B1%E8%BB%9F%E4%BB%B6%E5%B7%A5%E7%A8%8B%E5%B8%AB%E6%93%BA%E6%94%A4-%E8%B3%A3%E8%82%89%E8%9B%8B%E5%A0%A1%E6%9C%88%E5%85%A5-5%E8%90%AC%E5%8B%9D%E5%BE%9E%E5%89%8D-%E9%9B%A2%E8%81%B7%E5%8E%9F%E5%9B%A0%E6%9B%9D%E5%85%89",
     "timestamp": "2026-06-29T00:15:12.824Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "財經視野｜OpenAI與Anthropic上市倒數　華府監管風暴成軟肋？",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260625/1146786428110245888960241.jpeg/cGL5L1aQhZDiyLYjYX5ybN1MYM5a_qKHLZ5W4y2eVuM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60364705/%E8%B2%A1%E7%B6%93%E8%A6%96%E9%87%8E-openai%E8%88%87anthropic%E4%B8%8A%E5%B8%82%E5%80%92%E6%95%B8-%E8%8F%AF%E5%BA%9C%E7%9B%A3%E7%AE%A1%E9%A2%A8%E6%9A%B4%E6%88%90%E8%BB%9F%E8%82%8B",
-    "timestamp": "2026-06-28T23:44:11.987Z",
     "strategy": ".content-card__main"
   }
 ];
