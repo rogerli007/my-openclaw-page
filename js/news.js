@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-30T20:51:03.847Z
+// Last updated: 2026-06-30T21:41:30.530Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "福特汽車引進AI不似預期　請350名資深工程師回巢拯救品質檢測",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260408/1118561879329869824865143.jpeg/lkZS5lqT3hhPPYS8mz4dRFS9zTpBNhNgTZlM3U2ZTN0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60365449/%E7%A6%8F%E7%89%B9%E5%BC%95%E9%80%B2ai%E4%B8%8D%E4%BC%BC%E9%A0%90%E6%9C%9F-%E9%87%8D%E8%81%98350%E5%90%8D%E8%B3%87%E6%B7%B1%E5%B7%A5%E7%A8%8B%E5%B8%AB%E6%8B%AF%E6%95%91%E5%93%81%E8%B3%AA%E6%AA%A2%E6%B8%AC",
+    "timestamp": "2026-06-30T21:41:30.530Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "旺角可疑私家車遇截查　29歲男司機涉酒後駕駛被捕",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260629/1148297460796362752147203.jpeg/lkKD70iwGTLXy0osdfhtnZnrm9F9w9E7Pb7T3j2-094?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60364907/wtt%E7%BE%8E%E5%9C%8B%E5%A4%A7%E6%BB%BF%E8%B2%AB-%E7%8E%8B%E6%9B%BC%E6%98%B1%E7%AD%896%E4%BD%8D%E5%9C%8B%E6%89%8B%E6%99%89%E7%B4%9A32%E5%BC%B7-%E4%B8%8B%E8%BC%AA%E6%88%B0%E6%97%A5%E6%9C%AC%E5%90%8D%E5%B0%87%E4%BD%90%E8%97%A4%E7%9E%B3",
     "timestamp": "2026-06-29T21:05:45.022Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "伊朗：未來幾日不會舉行美伊會談　海峽排雷工作只能由伊方負責",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260616/1143347002155732992437506.jpeg/0MPWbqj3aZLw_zMz4rlFOLvCwrGuOv8EqPgW46j4FuM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60365075/%E4%BC%8A%E6%9C%97-%E6%9C%AA%E4%BE%86%E5%B9%BE%E6%97%A5%E4%B8%8D%E6%9C%83%E8%88%89%E8%A1%8C%E7%BE%8E%E4%BC%8A%E6%9C%83%E8%AB%87-%E6%B5%B7%E5%B3%BD%E6%8E%92%E9%9B%B7%E5%B7%A5%E4%BD%9C%E5%8F%AA%E8%83%BD%E7%94%B1%E4%BC%8A%E6%96%B9%E8%B2%A0%E8%B2%AC",
-    "timestamp": "2026-06-29T19:20:53.416Z",
     "strategy": ".content-card__main"
   }
 ];
