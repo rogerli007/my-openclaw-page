@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-30T12:05:13.543Z
+// Last updated: 2026-06-30T13:05:33.695Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "今日新聞8分鐘｜兩賊潛康樂園爆竊｜港夫婦遊日搭錯車 駕駛室打卡",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260630/1148704081846472704798165.jpeg/9lVReZpNxft1VIoCuyjuUX_vo4LfLnlf365qhN-uaoQ",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60365380/%E4%BB%8A%E6%97%A5%E6%96%B0%E8%81%9E8%E5%88%86%E9%90%98-%E5%85%A9%E8%B3%8A%E6%BD%9B%E5%BA%B7%E6%A8%82%E5%9C%92%E7%88%86%E7%AB%8A-%E6%B8%AF%E5%A4%AB%E5%A9%A6%E9%81%8A%E6%97%A5%E6%90%AD%E9%8C%AF%E8%BB%8A-%E9%A7%95%E9%A7%9B%E5%AE%A4%E6%89%93%E5%8D%A1",
+    "timestamp": "2026-06-30T13:05:33.695Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "浩明雅苑壞𨋢｜律師：車場免責條款非擋箭牌　倡車主先交費後索償",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260607/1140442775976677376139624.png/YlX0EcbmlUtifF9al6fJvw8gd0GiD8PD0tTXmNLU15g?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60365013/%E5%AE%8F%E7%A6%8F%E8%8B%91%E7%89%B9%E8%A8%AD%E9%8A%B7%E5%94%AE%E8%A8%88%E5%8A%83-%E6%88%BF%E5%8D%94%E5%A4%A7%E5%96%AE%E4%BD%8D%E6%95%B8%E7%9B%AE%E5%A2%9E%E8%BF%91%E4%B8%80%E5%80%8D-%E4%BD%95%E6%B0%B8%E8%B3%A2-%E6%8A%8A%E6%8F%A1%E6%A9%9F%E6%9C%83",
     "timestamp": "2026-06-29T11:01:19.135Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "日本青森男子採筍失蹤　縣警：熊身旁發現疑似人體",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260629/1148279374189957120160487.png/Isi7BlB2oHy0GnXu3XvwCGC90KLTDSLkI9iWsiPYlrI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60364869/%E6%97%A5%E6%9C%AC%E9%9D%92%E6%A3%AE%E7%94%B7%E5%AD%90%E6%8E%A1%E7%AD%8D%E5%A4%B1%E8%B9%A4-%E7%B8%A3%E8%AD%A6-%E7%86%8A%E8%BA%AB%E6%97%81%E7%99%BC%E7%8F%BE%E7%96%91%E4%BC%BC%E4%BA%BA%E9%AB%94",
-    "timestamp": "2026-06-29T07:21:56.489Z",
     "strategy": ".content-card__main"
   }
 ];
