@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-30T09:54:13.028Z
+// Last updated: 2026-06-30T12:05:13.543Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "浩明雅苑壞𨋢｜律師：車場免責條款非擋箭牌　倡車主先交費後索償",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260630/1148689004380688384482796.jpeg/9uq9CDsjTwosonvAve5n5d2LzLr_XNZ2OPro_y766P8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60365401/%E6%B5%A9%E6%98%8E%E9%9B%85%E8%8B%91%E5%A3%9E%F0%A8%8B%A2-%E5%BE%8B%E5%B8%AB-%E8%BB%8A%E5%A0%B4%E5%85%8D%E8%B2%AC%E6%A2%9D%E6%AC%BE%E9%9D%9E%E6%93%8B%E7%AE%AD%E7%89%8C-%E5%80%A1%E8%BB%8A%E4%B8%BB%E5%85%88%E4%BA%A4%E8%B2%BB%E5%BE%8C%E7%B4%A2%E5%84%9F",
+    "timestamp": "2026-06-30T12:05:13.543Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "檢控主任發電郵指警說謊被革職　官認為未屬過份嚴苛　裁覆核敗訴",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260629/1148279374189957120160487.png/Isi7BlB2oHy0GnXu3XvwCGC90KLTDSLkI9iWsiPYlrI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60364869/%E6%97%A5%E6%9C%AC%E9%9D%92%E6%A3%AE%E7%94%B7%E5%AD%90%E6%8E%A1%E7%AD%8D%E5%A4%B1%E8%B9%A4-%E7%B8%A3%E8%AD%A6-%E7%86%8A%E8%BA%AB%E6%97%81%E7%99%BC%E7%8F%BE%E7%96%91%E4%BC%BC%E4%BA%BA%E9%AB%94",
     "timestamp": "2026-06-29T07:21:56.489Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "譚維維音樂會2026香港｜門票攻略＋購票連結＋座位表",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260626/1147269728595611648624718.jpeg/mnGT7unt7pl7BOokuWrG2-M--x9FysixG6CUDhuglA4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60364300/%E8%AD%9A%E7%B6%AD%E7%B6%AD%E9%9F%B3%E6%A8%82%E6%9C%832026%E9%A6%99%E6%B8%AF-%E9%96%80%E7%A5%A8%E6%94%BB%E7%95%A5-%E8%B3%BC%E7%A5%A8%E9%80%A3%E7%B5%90-%E5%BA%A7%E4%BD%8D%E8%A1%A8",
-    "timestamp": "2026-06-29T03:53:28.207Z",
     "strategy": ".content-card__main"
   }
 ];
