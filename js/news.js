@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-30T16:56:01.363Z
+// Last updated: 2026-06-30T17:45:27.532Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "長沙灣大埔道馬路有野豬　的士疑收掣不及　野豬遭撞斃",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260701/1148797580944084992639085.jpeg/aMtsB_UOaNxMLGGMUKH7VRWCcQDPX7NRRfthbn_7YW4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60365444/%E9%95%B7%E6%B2%99%E7%81%A3%E5%A4%A7%E5%9F%94%E9%81%93%E9%A6%AC%E8%B7%AF%E6%9C%89%E9%87%8E%E8%B1%AC-%E7%9A%84%E5%A3%AB%E7%96%91%E6%94%B6%E6%8E%A3%E4%B8%8D%E5%8F%8A-%E9%87%8E%E8%B1%AC%E9%81%AD%E6%92%9E%E6%96%83",
+    "timestamp": "2026-06-30T17:45:27.532Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美最高法院判各州有權禁跨性別女參加體育校隊　特朗普：巨大勝利",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260630/1148418227970248704248396.jpeg/dEc46Gxv8p7RQxfjM8MRC5LXOXCWXF0XTaIbGk2iGxo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60365070/%E5%B7%B4%E8%A5%BF%E5%B0%8D%E6%97%A5%E6%9C%AC-%E4%B8%96%E7%95%8C%E7%9B%83%E8%B3%BD%E5%89%8D2%E5%B0%8F%E6%99%82%E7%90%83%E8%BF%B7%E5%95%86%E5%A0%B4%E7%AD%89%E7%9D%87%E6%B3%A2-%E6%97%A5%E6%9C%AC%E9%9A%8A%E7%90%83%E8%BF%B7%E5%88%B0%E5%A0%B4%E6%92%90",
     "timestamp": "2026-06-29T16:47:28.523Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "巴西對日本｜世界盃現「足球小將」戲碼　諾士佛臺有酒吧預訂爆滿",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260629/1148402513624436736456217.jpeg/QZ9SgXZ1ZfqLvIEWvFUC6fYHVuBzHiFbVFvYj05b2I8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60365060/%E5%B7%B4%E8%A5%BF%E5%B0%8D%E6%97%A5%E6%9C%AC-%E4%B8%96%E7%95%8C%E7%9B%83%E7%8F%BE-%E8%B6%B3%E7%90%83%E5%B0%8F%E5%B0%87-%E6%88%B2%E7%A2%BC-%E8%AB%BE%E5%A3%AB%E4%BD%9B%E8%87%BA%E6%9C%89%E9%85%92%E5%90%A7%E9%A0%90%E8%A8%82%E7%88%86%E6%BB%BF",
-    "timestamp": "2026-06-29T15:32:22.288Z",
     "strategy": ".content-card__main"
   }
 ];
