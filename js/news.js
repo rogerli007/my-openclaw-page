@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-30T13:50:33.723Z
+// Last updated: 2026-06-30T16:02:22.521Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "授勳2026｜大紫荊頒行會陳健波、「褔建幫」林廣兆、前校長劉遵義",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260630/1148717603867332608527184.jpeg/ChhsUqsuGecNIb0temVNISEKwAbhl_c1PKDOwzygzsM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60365375/%E6%8E%88%E5%8B%B32026-%E5%A4%A7%E7%B4%AB%E8%8D%8A%E9%A0%92%E8%A1%8C%E6%9C%83%E9%99%B3%E5%81%A5%E6%B3%A2-%E8%A4%94%E5%BB%BA%E5%B9%AB-%E6%9E%97%E5%BB%A3%E5%85%86-%E5%89%8D%E6%A0%A1%E9%95%B7%E5%8A%89%E9%81%B5%E7%BE%A9",
+    "timestamp": "2026-06-30T16:02:22.521Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "水上樂園｜保留長者$2入場　海洋公園主席：能帶動一家人入場消費",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260629/1148331015282888704817042.jpeg/cfK_7yGWTHyewVUcAZuVjEmaB_twUjRMPNRxEzzUcRM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60364873/%E5%BC%B5%E6%9F%8F%E8%8A%9D46%E6%AD%B2%E8%BA%AB%E5%9E%8B%E5%87%BA%E7%8F%BE%E8%AE%8A%E5%8C%96-%E4%B8%8A%E5%8F%B0%E7%8B%80%E6%85%8Bfit%E7%88%86%E7%8F%BE%E8%82%9A%E8%85%A9%E4%BB%94-%E9%80%99%E5%A5%97%E8%A1%A3%E6%9C%8D%E9%A1%AF%E8%83%96",
     "timestamp": "2026-06-29T14:14:40.271Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "雲南農民遭眼鏡蛇咬傷　妻仿效電視劇用嘴吮毒雙雙入院",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260629/1148356154628509696091258.png/gIlH2LguusnuvgBFjpaRBnWABCQx_6wYEYCPKRGAjyk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60365033/%E9%9B%B2%E5%8D%97%E8%BE%B2%E6%B0%91%E9%81%AD%E7%9C%BC%E9%8F%A1%E8%9B%87%E5%92%AC%E5%82%B7-%E5%A6%BB%E4%BB%BF%E6%95%88%E9%9B%BB%E8%A6%96%E5%8A%87%E7%94%A8%E5%98%B4%E5%90%AE%E6%AF%92%E9%9B%99%E9%9B%99%E5%85%A5%E9%99%A2",
-    "timestamp": "2026-06-29T12:39:21.612Z",
     "strategy": ".content-card__main"
   }
 ];
