@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-30T19:13:43.803Z
+// Last updated: 2026-06-30T20:51:03.847Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "旺角可疑私家車遇截查　29歲男司機涉酒後駕駛被捕",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260701/1148845204967526400418596.jpeg/YcC-OmNSPnuvbkslISouaM5xh5Tg3i0tE2mJwRNpicE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60365452/%E6%97%BA%E8%A7%92%E5%8F%AF%E7%96%91%E7%A7%81%E5%AE%B6%E8%BB%8A%E9%81%87%E6%88%AA%E6%9F%A5-29%E6%AD%B2%E7%94%B7%E5%8F%B8%E6%A9%9F%E6%B6%89%E9%85%92%E5%BE%8C%E9%A7%95%E9%A7%9B%E8%A2%AB%E6%8D%95",
+    "timestamp": "2026-06-30T20:51:03.847Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "世界盃2026｜挪威2:1險勝科特迪瓦　夏蘭特入波絕殺下場撼巴西",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260616/1143347002155732992437506.jpeg/0MPWbqj3aZLw_zMz4rlFOLvCwrGuOv8EqPgW46j4FuM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60365075/%E4%BC%8A%E6%9C%97-%E6%9C%AA%E4%BE%86%E5%B9%BE%E6%97%A5%E4%B8%8D%E6%9C%83%E8%88%89%E8%A1%8C%E7%BE%8E%E4%BC%8A%E6%9C%83%E8%AB%87-%E6%B5%B7%E5%B3%BD%E6%8E%92%E9%9B%B7%E5%B7%A5%E4%BD%9C%E5%8F%AA%E8%83%BD%E7%94%B1%E4%BC%8A%E6%96%B9%E8%B2%A0%E8%B2%AC",
     "timestamp": "2026-06-29T19:20:53.416Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "預警今年明年熱爆或破錄　天文台：厄爾尼諾或達有記錄以來最強",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260630/1148430900443222016350794.jpeg/MHZwkiP2nrSw9TrHqDjSBg0qH_jsyb9x3tQltt7UJbY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60365074/%E9%A0%90%E8%AD%A6%E4%BB%8A%E5%B9%B4%E6%98%8E%E5%B9%B4%E7%86%B1%E7%88%86%E6%88%96%E7%A0%B4%E9%8C%84-%E5%A4%A9%E6%96%87%E5%8F%B0-%E5%8E%84%E7%88%BE%E5%B0%BC%E8%AB%BE%E6%88%96%E9%81%94%E6%9C%89%E8%A8%98%E9%8C%84%E4%BB%A5%E4%BE%86%E6%9C%80%E5%BC%B7",
-    "timestamp": "2026-06-29T17:47:45.969Z",
     "strategy": ".content-card__main"
   }
 ];
