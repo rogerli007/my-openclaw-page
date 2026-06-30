@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-30T16:02:22.521Z
+// Last updated: 2026-06-30T16:56:01.363Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美最高法院判各州有權禁跨性別女參加體育校隊　特朗普：巨大勝利",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260701/1148779128204300288218369.jpeg/l9TQQ15dC3O_Xb4dWf2_RdytvXrAZmZWjEc1boxHNW4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60365439/%E7%BE%8E%E6%9C%80%E9%AB%98%E6%B3%95%E9%99%A2%E5%88%A4%E5%90%84%E5%B7%9E%E6%9C%89%E6%AC%8A%E7%A6%81%E8%B7%A8%E6%80%A7%E5%88%A5%E5%A5%B3%E5%8F%83%E5%8A%A0%E9%AB%94%E8%82%B2%E6%A0%A1%E9%9A%8A-%E7%89%B9%E6%9C%97%E6%99%AE-%E5%B7%A8%E5%A4%A7%E5%8B%9D%E5%88%A9",
+    "timestamp": "2026-06-30T16:56:01.363Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "授勳2026｜大紫荊頒行會陳健波、「褔建幫」林廣兆、前校長劉遵義",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260629/1148402513624436736456217.jpeg/QZ9SgXZ1ZfqLvIEWvFUC6fYHVuBzHiFbVFvYj05b2I8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60365060/%E5%B7%B4%E8%A5%BF%E5%B0%8D%E6%97%A5%E6%9C%AC-%E4%B8%96%E7%95%8C%E7%9B%83%E7%8F%BE-%E8%B6%B3%E7%90%83%E5%B0%8F%E5%B0%87-%E6%88%B2%E7%A2%BC-%E8%AB%BE%E5%A3%AB%E4%BD%9B%E8%87%BA%E6%9C%89%E9%85%92%E5%90%A7%E9%A0%90%E8%A8%82%E7%88%86%E6%BB%BF",
     "timestamp": "2026-06-29T15:32:22.288Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "張柏芝46歲身型出現變化　上台狀態Fit爆現肚腩仔：這套衣服顯胖",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260629/1148331015282888704817042.jpeg/cfK_7yGWTHyewVUcAZuVjEmaB_twUjRMPNRxEzzUcRM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60364873/%E5%BC%B5%E6%9F%8F%E8%8A%9D46%E6%AD%B2%E8%BA%AB%E5%9E%8B%E5%87%BA%E7%8F%BE%E8%AE%8A%E5%8C%96-%E4%B8%8A%E5%8F%B0%E7%8B%80%E6%85%8Bfit%E7%88%86%E7%8F%BE%E8%82%9A%E8%85%A9%E4%BB%94-%E9%80%99%E5%A5%97%E8%A1%A3%E6%9C%8D%E9%A1%AF%E8%83%96",
-    "timestamp": "2026-06-29T14:14:40.271Z",
     "strategy": ".content-card__main"
   }
 ];
