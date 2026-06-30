@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-30T21:41:30.530Z
+// Last updated: 2026-06-30T23:38:23.958Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "回歸29年・直播｜金紫荊升旗禮特區班子出席　李家超七一酒會致辭",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20251001/1049989213044609024149206.jpeg/j-z5cLXIQeec88hL7-4d6SABw1HVj1wiBpnSXwaZ0l8?v=w1920",
+    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60365370/%E5%9B%9E%E6%AD%B829%E5%B9%B4-%E7%9B%B4%E6%92%AD-%E9%87%91%E7%B4%AB%E8%8D%8A%E5%8D%87%E6%97%97%E7%A6%AE%E7%89%B9%E5%8D%80%E7%8F%AD%E5%AD%90%E5%87%BA%E5%B8%AD-%E6%9D%8E%E5%AE%B6%E8%B6%85%E4%B8%83%E4%B8%80%E9%85%92%E6%9C%83%E8%87%B4%E8%BE%AD",
+    "timestamp": "2026-06-30T23:38:23.958Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "福特汽車引進AI不似預期　請350名資深工程師回巢拯救品質檢測",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260630/1148507701278412800439052.jpeg/P_qNzAPgL4uvdDYXIL5Mj95iwzSoIsbBSn9600p_etM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60365084/%E9%81%8A%E8%89%87%E8%87%AA%E7%94%B1%E8%A1%8C-%E5%85%A5%E5%A2%83%E8%99%956-29%E8%B5%B7%E7%B0%A1%E5%8C%96%E5%87%BA%E5%85%A5%E5%A2%83%E6%89%8B%E7%BA%8C-%E7%B6%93%E9%9B%BB%E5%AD%90%E7%B3%BB%E7%B5%B1%E4%BA%A4%E4%BA%BA%E5%93%A1%E8%B3%87%E6%96%99",
     "timestamp": "2026-06-29T22:14:48.698Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "WTT美國大滿貫｜王曼昱等6位國手晉級32強　下輪戰日本名將佐藤瞳",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260629/1148297460796362752147203.jpeg/lkKD70iwGTLXy0osdfhtnZnrm9F9w9E7Pb7T3j2-094?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60364907/wtt%E7%BE%8E%E5%9C%8B%E5%A4%A7%E6%BB%BF%E8%B2%AB-%E7%8E%8B%E6%9B%BC%E6%98%B1%E7%AD%896%E4%BD%8D%E5%9C%8B%E6%89%8B%E6%99%89%E7%B4%9A32%E5%BC%B7-%E4%B8%8B%E8%BC%AA%E6%88%B0%E6%97%A5%E6%9C%AC%E5%90%8D%E5%B0%87%E4%BD%90%E8%97%A4%E7%9E%B3",
-    "timestamp": "2026-06-29T21:05:45.022Z",
     "strategy": ".content-card__main"
   }
 ];
