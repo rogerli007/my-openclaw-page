@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-30T05:35:49.862Z
+// Last updated: 2026-06-30T07:07:22.684Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "深圳后海商場8大｜LABUBU展免費入場+換禮品　萬象城／食玩買推介",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260630/1148640164004761600310579.jpeg/QgSGV2sRGYf3Z3Bgbsx9aMky5U1tbCVSK0pb_itKW_4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%97%85%E9%81%8A/60364985/%E6%B7%B1%E5%9C%B3%E5%90%8E%E6%B5%B7%E5%95%86%E5%A0%B48%E5%A4%A7-labubu%E5%B1%95%E5%85%8D%E8%B2%BB%E5%85%A5%E5%A0%B4-%E6%8F%9B%E7%A6%AE%E5%93%81-%E8%90%AC%E8%B1%A1%E5%9F%8E-%E9%A3%9F%E7%8E%A9%E8%B2%B7%E6%8E%A8%E4%BB%8B",
+    "timestamp": "2026-06-30T07:07:22.684Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "內地禁跨境炒股　美投資公司入稟︰百交易員藉內幕交易賺逾億美元",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260629/1148191365004267520937681.jpeg/PAs1sqwrxToW18puuWVXfhgMqFxO2R7QJ9LdwifS3cI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60364714/%E8%A7%A3%E6%94%BE%E8%BB%8D%E5%B0%8E%E5%BD%88%E9%A9%85%E9%80%90%E8%89%A6%E5%8D%97%E5%AF%A7%E8%89%A6-%E5%B0%8E%E5%BD%88%E8%AD%B7%E8%A1%9B%E8%89%A6%E8%A1%A1%E9%99%BD%E8%89%A67-2%E8%B5%B7%E8%A8%AA%E6%B8%AF%E9%96%8B%E6%94%BE%E5%8F%83%E8%A7%805%E6%97%A5",
     "timestamp": "2026-06-29T01:29:34.267Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "35歲資深軟件工程師擺攤！賣肉蛋堡月入¥5萬勝從前　離職原因曝光",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260624/1146434142527819776509738.png/-kbBccl4ApzR6E9-GfE23ZVh_V7FfrejeVupMnlbqTI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60340020/35%E6%AD%B2%E8%B3%87%E6%B7%B1%E8%BB%9F%E4%BB%B6%E5%B7%A5%E7%A8%8B%E5%B8%AB%E6%93%BA%E6%94%A4-%E8%B3%A3%E8%82%89%E8%9B%8B%E5%A0%A1%E6%9C%88%E5%85%A5-5%E8%90%AC%E5%8B%9D%E5%BE%9E%E5%89%8D-%E9%9B%A2%E8%81%B7%E5%8E%9F%E5%9B%A0%E6%9B%9D%E5%85%89",
-    "timestamp": "2026-06-29T00:15:12.824Z",
     "strategy": ".content-card__main"
   }
 ];
