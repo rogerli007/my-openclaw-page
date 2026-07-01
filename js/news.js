@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-01T03:53:55.683Z
+// Last updated: 2026-07-01T05:46:56.088Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "黃錦輝被捕｜被爆出議員涉醉駕不顧而去　笑面現身七一升旗禮",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260701/1148985552058454016042975.jpeg/13NaauyCzhFpzUvquFUu0VBC4JNW_CthSnm2rEp5tqw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60365570/%E9%BB%83%E9%8C%A6%E8%BC%9D%E8%A2%AB%E6%8D%95-%E8%A2%AB%E7%88%86%E5%87%BA%E8%AD%B0%E5%93%A1%E6%B6%89%E9%86%89%E9%A7%95%E4%B8%8D%E9%A1%A7%E8%80%8C%E5%8E%BB-%E7%AC%91%E9%9D%A2%E7%8F%BE%E8%BA%AB%E4%B8%83%E4%B8%80%E5%8D%87%E6%97%97%E7%A6%AE",
+    "timestamp": "2026-07-01T05:46:56.088Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "攻略｜Meccha Chameleon全地圖38個最強隱藏點｜捉迷藏攻守12秘訣",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250701/1016694501563174912504782.jpeg/Jn1gHc6ATdTv6toeepNx3R1n9t6UMwQbhpXGYaOVxmE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60365129/%E4%B8%83%E4%B8%80%E9%A3%9F%E8%82%86%E5%84%AA%E6%83%A0-3400%E5%BA%97%E5%85%A8%E8%A6%BD-%E5%A4%AA%E8%88%88%E6%95%8F%E8%8F%AF%E5%85%A8%E5%96%AE71%E6%8A%98-%E5%A4%A7%E5%AE%B6%E6%A8%82%E5%86%AC%E7%93%9C%E7%9B%85-99",
     "timestamp": "2026-06-30T02:28:49.740Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "人造雞蛋成本高過真蛋！假蛋純屬謠言　3類蛋要警惕　教3招選鮮蛋",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260624/1146554567161286656709612.png/URJ4LY0Cx4E9f3A0L0rclzE5XHDsbjuzLQ5DyC0OQ8g?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60332543/%E4%BA%BA%E9%80%A0%E9%9B%9E%E8%9B%8B%E6%88%90%E6%9C%AC%E9%AB%98%E9%81%8E%E7%9C%9F%E8%9B%8B-%E5%81%87%E8%9B%8B%E7%B4%94%E5%B1%AC%E8%AC%A0%E8%A8%80-3%E9%A1%9E%E8%9B%8B%E8%A6%81%E8%AD%A6%E6%83%95-%E6%95%993%E6%8B%9B%E9%81%B8%E9%AE%AE%E8%9B%8B",
-    "timestamp": "2026-06-30T01:23:09.791Z",
     "strategy": ".content-card__main"
   }
 ];
