@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-06-30T23:38:23.958Z
+// Last updated: 2026-07-01T00:14:33.457Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "七一．港鐵抽獎送7.1萬張單程票　MTR Mobile會員今早9時起可登入",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260619/1144629920530436096127903.jpeg/tCRLqwmUvpECd7gJTrs76oXwTs_Xm2lD6ntE3-p7RN8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60365462/%E4%B8%83%E4%B8%80-%E6%B8%AF%E9%90%B5%E6%8A%BD%E7%8D%8E%E9%80%817-1%E8%90%AC%E5%BC%B5%E5%96%AE%E7%A8%8B%E7%A5%A8-mtr-mobile%E6%9C%83%E5%93%A1%E4%BB%8A%E6%97%A99%E6%99%82%E8%B5%B7%E5%8F%AF%E7%99%BB%E5%85%A5",
+    "timestamp": "2026-07-01T00:14:33.457Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "回歸29年・直播｜金紫荊升旗禮特區班子出席　李家超七一酒會致辭",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260629/1148380435286331392185702.jpeg/p20BpLOscOsnFpN2cRI5stZ0qugLTDz3igBXCooAVwo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60364863/tvb-%E7%B6%A0%E8%91%89%E7%8E%8B-%E8%BD%89%E6%88%B0%E5%85%A7%E5%9C%B0%E6%88%90%E5%8A%9F%E9%80%86%E8%A5%B2-%E5%A4%A7%E9%A6%AC%E7%99%BB%E5%8F%B0%E7%8D%B2%E6%B4%BE%E5%A4%A7%E9%9A%BB%E4%BF%9D%E9%8F%A2%E8%B2%BC%E8%BA%AB%E8%AD%B7%E9%A7%95",
     "timestamp": "2026-06-29T22:43:02.017Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "遊艇自由行｜入境處6.29起簡化出入境手續　經電子系統交人員資料",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260630/1148507701278412800439052.jpeg/P_qNzAPgL4uvdDYXIL5Mj95iwzSoIsbBSn9600p_etM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60365084/%E9%81%8A%E8%89%87%E8%87%AA%E7%94%B1%E8%A1%8C-%E5%85%A5%E5%A2%83%E8%99%956-29%E8%B5%B7%E7%B0%A1%E5%8C%96%E5%87%BA%E5%85%A5%E5%A2%83%E6%89%8B%E7%BA%8C-%E7%B6%93%E9%9B%BB%E5%AD%90%E7%B3%BB%E7%B5%B1%E4%BA%A4%E4%BA%BA%E5%93%A1%E8%B3%87%E6%96%99",
-    "timestamp": "2026-06-29T22:14:48.698Z",
     "strategy": ".content-card__main"
   }
 ];
