@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-01T15:32:23.377Z
+// Last updated: 2026-07-01T16:27:04.064Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "Dolby Digital、DTS、Atmos有咩分別？買Soundbar前必睇教學",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260701/1148815171502739456381970.jpeg/tru5P2g1SQXZt6Ena240R7E3QlknyzCFfbZ9n322fZ8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60364889/dolby-digital-dts-atmos%E6%9C%89%E5%92%A9%E5%88%86%E5%88%A5-%E8%B2%B7soundbar%E5%89%8D%E5%BF%85%E7%9D%87%E6%95%99%E5%AD%B8",
+    "timestamp": "2026-07-01T16:27:04.064Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "建黨105周年｜唐英年：在中共帶領下國家強起來　人民擁有幸福感",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260630/1148717603867332608527184.jpeg/ChhsUqsuGecNIb0temVNISEKwAbhl_c1PKDOwzygzsM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60365375/%E6%8E%88%E5%8B%B32026-%E5%A4%A7%E7%B4%AB%E8%8D%8A%E9%A0%92%E8%A1%8C%E6%9C%83%E9%99%B3%E5%81%A5%E6%B3%A2-%E8%A4%94%E5%BB%BA%E5%B9%AB-%E6%9E%97%E5%BB%A3%E5%85%86-%E5%89%8D%E6%A0%A1%E9%95%B7%E5%8A%89%E9%81%B5%E7%BE%A9",
     "timestamp": "2026-06-30T16:02:22.521Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "水上樂園｜保留長者$2入場　海洋公園主席：能帶動一家人入場消費",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260517/1132706076592967680516374.jpeg/RQ9y8e-k8zRoPrbeFDbB43KIU4b13wpJLPLvBTby7wU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60365417/%E6%B0%B4%E4%B8%8A%E6%A8%82%E5%9C%92-%E4%BF%9D%E7%95%99%E9%95%B7%E8%80%85-2%E5%85%A5%E5%A0%B4-%E6%B5%B7%E6%B4%8B%E5%85%AC%E5%9C%92%E4%B8%BB%E5%B8%AD-%E8%83%BD%E5%B8%B6%E5%8B%95%E4%B8%80%E5%AE%B6%E4%BA%BA%E5%85%A5%E5%A0%B4%E6%B6%88%E8%B2%BB",
-    "timestamp": "2026-06-30T13:50:33.723Z",
     "strategy": ".content-card__main"
   }
 ];
