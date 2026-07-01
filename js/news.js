@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-01T13:30:49.156Z
+// Last updated: 2026-07-01T14:24:30.334Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "新華社：王毅與魯比奧通電話",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260513/1131318621214216192172948.png/bh9H6nau3_QxW0UHQ9-OvVVq1bmtWBoRrnpzx656c8c?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60365746/%E6%96%B0%E8%8F%AF%E7%A4%BE-%E7%8E%8B%E6%AF%85%E8%88%87%E9%AD%AF%E6%AF%94%E5%A5%A7%E9%80%9A%E9%9B%BB%E8%A9%B1",
+    "timestamp": "2026-07-01T14:24:30.334Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美國經濟｜白宮出口術？　哈塞特：提高利率將是一個錯誤",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260630/1148704081846472704798165.jpeg/9lVReZpNxft1VIoCuyjuUX_vo4LfLnlf365qhN-uaoQ",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60365380/%E4%BB%8A%E6%97%A5%E6%96%B0%E8%81%9E8%E5%88%86%E9%90%98-%E5%85%A9%E8%B3%8A%E6%BD%9B%E5%BA%B7%E6%A8%82%E5%9C%92%E7%88%86%E7%AB%8A-%E6%B8%AF%E5%A4%AB%E5%A9%A6%E9%81%8A%E6%97%A5%E6%90%AD%E9%8C%AF%E8%BB%8A-%E9%A7%95%E9%A7%9B%E5%AE%A4%E6%89%93%E5%8D%A1",
     "timestamp": "2026-06-30T13:05:33.695Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "浩明雅苑壞𨋢｜律師：車場免責條款非擋箭牌　倡車主先交費後索償",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260630/1148689004380688384482796.jpeg/9uq9CDsjTwosonvAve5n5d2LzLr_XNZ2OPro_y766P8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60365401/%E6%B5%A9%E6%98%8E%E9%9B%85%E8%8B%91%E5%A3%9E%F0%A8%8B%A2-%E5%BE%8B%E5%B8%AB-%E8%BB%8A%E5%A0%B4%E5%85%8D%E8%B2%AC%E6%A2%9D%E6%AC%BE%E9%9D%9E%E6%93%8B%E7%AE%AD%E7%89%8C-%E5%80%A1%E8%BB%8A%E4%B8%BB%E5%85%88%E4%BA%A4%E8%B2%BB%E5%BE%8C%E7%B4%A2%E5%84%9F",
-    "timestamp": "2026-06-30T12:05:13.543Z",
     "strategy": ".content-card__main"
   }
 ];
