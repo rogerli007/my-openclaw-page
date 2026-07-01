@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-01T21:08:52.088Z
+// Last updated: 2026-07-01T21:52:31.529Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "歐美熱浪｜西班牙6月至少1028死　紐約本週末體感或高達46度",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260702/1149222866416308224145762.jpeg/rLM1AJhRnO-Dx89PiluCnZE9DMpmU68JOeAxfzngMX8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60365770/%E6%AD%90%E7%BE%8E%E7%86%B1%E6%B5%AA-%E8%A5%BF%E7%8F%AD%E7%89%996%E6%9C%88%E8%87%B3%E5%B0%911028%E6%AD%BB-%E7%B4%90%E7%B4%84%E6%9C%AC%E9%80%B1%E6%9C%AB%E9%AB%94%E6%84%9F%E6%88%96%E9%AB%98%E9%81%9446%E5%BA%A6",
+    "timestamp": "2026-07-01T21:52:31.529Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "世界盃｜首爾警方：接管調查韓國足協主席涉不當影響任命洪明甫",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260408/1118561879329869824865143.jpeg/lkZS5lqT3hhPPYS8mz4dRFS9zTpBNhNgTZlM3U2ZTN0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60365449/%E7%A6%8F%E7%89%B9%E5%BC%95%E9%80%B2ai%E4%B8%8D%E4%BC%BC%E9%A0%90%E6%9C%9F-%E9%87%8D%E8%81%98350%E5%90%8D%E8%B3%87%E6%B7%B1%E5%B7%A5%E7%A8%8B%E5%B8%AB%E6%8B%AF%E6%95%91%E5%93%81%E8%B3%AA%E6%AA%A2%E6%B8%AC",
     "timestamp": "2026-06-30T21:41:30.530Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "旺角可疑私家車遇截查　29歲男司機涉酒後駕駛被捕",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260701/1148845204967526400418596.jpeg/YcC-OmNSPnuvbkslISouaM5xh5Tg3i0tE2mJwRNpicE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60365452/%E6%97%BA%E8%A7%92%E5%8F%AF%E7%96%91%E7%A7%81%E5%AE%B6%E8%BB%8A%E9%81%87%E6%88%AA%E6%9F%A5-29%E6%AD%B2%E7%94%B7%E5%8F%B8%E6%A9%9F%E6%B6%89%E9%85%92%E5%BE%8C%E9%A7%95%E9%A7%9B%E8%A2%AB%E6%8D%95",
-    "timestamp": "2026-06-30T20:51:03.847Z",
     "strategy": ".content-card__main"
   }
 ];
