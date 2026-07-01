@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-01T10:12:13.588Z
+// Last updated: 2026-07-01T11:30:07.577Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "非份之罪｜曾展望激罕演好色渣男向游嘉欣施暴　獲網民激讚好戲",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260701/1149017327585464320083645.jpeg/VEBOrV6A2OaWY7XieWeag4D_dfQnIqZUDxV3QQ8Vd0E?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60365622/%E9%9D%9E%E4%BB%BD%E4%B9%8B%E7%BD%AA-%E6%9B%BE%E5%B1%95%E6%9C%9B%E6%BF%80%E7%BD%95%E6%BC%94%E5%A5%BD%E8%89%B2%E6%B8%A3%E7%94%B7%E5%90%91%E6%B8%B8%E5%98%89%E6%AC%A3%E6%96%BD%E6%9A%B4-%E7%8D%B2%E7%B6%B2%E6%B0%91%E6%BF%80%E8%AE%9A%E5%A5%BD%E6%88%B2",
+    "timestamp": "2026-07-01T11:30:07.577Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "回歸29周年｜羅淑佩談太空館航天展焦點　一探黎家盈訓練出艙成果",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20221109/667003679814979584415329.jpeg/w3tuWhPlm4dnpH-UWdXItyNNExQmUBsLb5XxKEqV8Sg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60365369/%E6%AA%A2%E6%8E%A7%E4%B8%BB%E4%BB%BB%E7%99%BC%E9%9B%BB%E9%83%B5%E6%8C%87%E8%AD%A6%E8%AA%AA%E8%AC%8A%E8%A2%AB%E9%9D%A9%E8%81%B7-%E5%AE%98%E8%AA%8D%E7%82%BA%E6%9C%AA%E5%B1%AC%E9%81%8E%E4%BB%BD%E5%9A%B4%E8%8B%9B-%E8%A3%81%E8%A6%86%E6%A0%B8%E6%95%97%E8%A8%B4",
     "timestamp": "2026-06-30T09:54:13.028Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "深圳后海商場8大｜LABUBU展免費入場+換禮品　萬象城／食玩買推介",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260630/1148640164004761600310579.jpeg/QgSGV2sRGYf3Z3Bgbsx9aMky5U1tbCVSK0pb_itKW_4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%97%85%E9%81%8A/60364985/%E6%B7%B1%E5%9C%B3%E5%90%8E%E6%B5%B7%E5%95%86%E5%A0%B48%E5%A4%A7-labubu%E5%B1%95%E5%85%8D%E8%B2%BB%E5%85%A5%E5%A0%B4-%E6%8F%9B%E7%A6%AE%E5%93%81-%E8%90%AC%E8%B1%A1%E5%9F%8E-%E9%A3%9F%E7%8E%A9%E8%B2%B7%E6%8E%A8%E4%BB%8B",
-    "timestamp": "2026-06-30T07:07:22.684Z",
     "strategy": ".content-card__main"
   }
 ];
