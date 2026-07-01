@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-01T00:14:33.457Z
+// Last updated: 2026-07-01T01:30:34.236Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "恒生大學學生訪問外傭記錄異鄉故事　體驗式學習培養同理心倡共融",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260701/1148867971737718784254796.jpeg/crggAYvFAbCFcH8yA3gPEvEWkByP2KUnvZIIJr2SCCY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%B0%88%E4%B8%8A%E6%95%99%E8%82%B2/60365458/%E6%81%92%E7%94%9F%E5%A4%A7%E5%AD%B8%E5%AD%B8%E7%94%9F%E8%A8%AA%E5%95%8F%E5%A4%96%E5%82%AD%E8%A8%98%E9%8C%84%E7%95%B0%E9%84%89%E6%95%85%E4%BA%8B-%E9%AB%94%E9%A9%97%E5%BC%8F%E5%AD%B8%E7%BF%92%E5%9F%B9%E9%A4%8A%E5%90%8C%E7%90%86%E5%BF%83%E5%80%A1%E5%85%B1%E8%9E%8D",
+    "timestamp": "2026-07-01T01:30:34.236Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "七一．港鐵抽獎送7.1萬張單程票　MTR Mobile會員今早9時起可登入",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260603/1138842815472603136785904.jpeg/ydMZGtzYlUK_h_HHeSGzYQcwvnuLTF0LezFvJnsxbyY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E4%B8%AD%E5%B0%8F%E5%AD%B8%E6%A0%A1%E5%9C%92/60355562/%E5%A4%A9%E4%B8%BB%E6%95%99%E6%99%AE%E7%85%A7%E4%B8%AD%E5%AD%B8%E5%8E%9F%E5%89%B5%E6%A0%A1%E6%85%B6%E5%8A%87%E5%9C%93%E6%BB%BF%E5%85%AC%E6%BC%94-%E5%8F%B0%E5%89%8D%E5%B9%95%E5%BE%8C%E6%B1%97%E8%88%87%E6%B7%9A%E4%BA%A4%E7%B9%94%E7%94%9F%E5%91%BD%E6%A8%82%E7%AB%A0",
     "timestamp": "2026-06-29T23:13:04.348Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "TVB「綠葉王」轉戰內地成功逆襲　大馬登台獲派大隻保鏢貼身護駕",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260629/1148380435286331392185702.jpeg/p20BpLOscOsnFpN2cRI5stZ0qugLTDz3igBXCooAVwo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60364863/tvb-%E7%B6%A0%E8%91%89%E7%8E%8B-%E8%BD%89%E6%88%B0%E5%85%A7%E5%9C%B0%E6%88%90%E5%8A%9F%E9%80%86%E8%A5%B2-%E5%A4%A7%E9%A6%AC%E7%99%BB%E5%8F%B0%E7%8D%B2%E6%B4%BE%E5%A4%A7%E9%9A%BB%E4%BF%9D%E9%8F%A2%E8%B2%BC%E8%BA%AB%E8%AD%B7%E9%A7%95",
-    "timestamp": "2026-06-29T22:43:02.017Z",
     "strategy": ".content-card__main"
   }
 ];
