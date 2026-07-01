@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-01T21:52:31.529Z
+// Last updated: 2026-07-01T22:38:47.657Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "前港姐季軍移居上海1周年　兩度離婚痛揭前夫出軌曾代還債300萬",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260701/1149026960953839616375280.jpeg/LgavWh2QZ49c-Rz40VyOIy4QLUxAgjZBI-d7eCPne3g?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60365593/%E8%83%A1%E5%AE%B6%E6%83%A0%E7%A7%BB%E5%B1%85%E4%B8%8A%E6%B5%B71%E5%91%A8%E5%B9%B4-%E5%85%A9%E5%BA%A6%E9%9B%A2%E5%A9%9A%E7%97%9B%E6%8F%AD%E5%89%8D%E5%A4%AB%E5%87%BA%E8%BB%8C%E6%9B%BE%E4%BB%A3%E9%82%84%E5%82%B5300%E8%90%AC",
+    "timestamp": "2026-07-01T22:38:47.657Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "歐美熱浪｜西班牙6月至少1028死　紐約本週末體感或高達46度",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20251001/1049989213044609024149206.jpeg/j-z5cLXIQeec88hL7-4d6SABw1HVj1wiBpnSXwaZ0l8?v=w1920",
     "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60365370/%E5%9B%9E%E6%AD%B829%E5%B9%B4-%E7%9B%B4%E6%92%AD-%E9%87%91%E7%B4%AB%E8%8D%8A%E5%8D%87%E6%97%97%E7%A6%AE%E7%89%B9%E5%8D%80%E7%8F%AD%E5%AD%90%E5%87%BA%E5%B8%AD-%E6%9D%8E%E5%AE%B6%E8%B6%85%E4%B8%83%E4%B8%80%E9%85%92%E6%9C%83%E8%87%B4%E8%BE%AD",
     "timestamp": "2026-06-30T23:38:23.958Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "福特汽車引進AI不似預期　請350名資深工程師回巢拯救品質檢測",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260408/1118561879329869824865143.jpeg/lkZS5lqT3hhPPYS8mz4dRFS9zTpBNhNgTZlM3U2ZTN0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60365449/%E7%A6%8F%E7%89%B9%E5%BC%95%E9%80%B2ai%E4%B8%8D%E4%BC%BC%E9%A0%90%E6%9C%9F-%E9%87%8D%E8%81%98350%E5%90%8D%E8%B3%87%E6%B7%B1%E5%B7%A5%E7%A8%8B%E5%B8%AB%E6%8B%AF%E6%95%91%E5%93%81%E8%B3%AA%E6%AA%A2%E6%B8%AC",
-    "timestamp": "2026-06-30T21:41:30.530Z",
     "strategy": ".content-card__main"
   }
 ];
