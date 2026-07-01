@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-01T08:42:29.761Z
+// Last updated: 2026-07-01T10:12:13.588Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "回歸29周年｜羅淑佩談太空館航天展焦點　一探黎家盈訓練出艙成果",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260701/1149051202164494336638195.jpeg/HD6J1sq77nZA3IsU7rJBi7cFfHczz9aWWD7A1Vg-wNU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60365695/%E5%9B%9E%E6%AD%B829%E5%91%A8%E5%B9%B4-%E7%BE%85%E6%B7%91%E4%BD%A9%E8%AB%87%E5%A4%AA%E7%A9%BA%E9%A4%A8%E8%88%AA%E5%A4%A9%E5%B1%95%E7%84%A6%E9%BB%9E-%E4%B8%80%E6%8E%A2%E9%BB%8E%E5%AE%B6%E7%9B%88%E8%A8%93%E7%B7%B4%E5%87%BA%E8%89%99%E6%88%90%E6%9E%9C",
+    "timestamp": "2026-07-01T10:12:13.588Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "前港姐冠軍劉倩婷獲頒授榮譽勳章　與特首合照承諾為社區服務",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260630/1148640164004761600310579.jpeg/QgSGV2sRGYf3Z3Bgbsx9aMky5U1tbCVSK0pb_itKW_4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%97%85%E9%81%8A/60364985/%E6%B7%B1%E5%9C%B3%E5%90%8E%E6%B5%B7%E5%95%86%E5%A0%B48%E5%A4%A7-labubu%E5%B1%95%E5%85%8D%E8%B2%BB%E5%85%A5%E5%A0%B4-%E6%8F%9B%E7%A6%AE%E5%93%81-%E8%90%AC%E8%B1%A1%E5%9F%8E-%E9%A3%9F%E7%8E%A9%E8%B2%B7%E6%8E%A8%E4%BB%8B",
     "timestamp": "2026-06-30T07:07:22.684Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "內地禁跨境炒股　美投資公司入稟︰百交易員藉內幕交易賺逾億美元",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260620/1144947395851849728930821.jpeg/27lUeq8Lg14VcQ-AB_lS9Iwx9pJ7HMlY9F8Ku_RfCrs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60365229/%E5%85%A7%E5%9C%B0%E7%A6%81%E8%B7%A8%E5%A2%83%E7%82%92%E8%82%A1-%E7%BE%8E%E6%8A%95%E8%B3%87%E5%85%AC%E5%8F%B8%E5%85%A5%E7%A8%9F-%E7%99%BE%E4%BA%A4%E6%98%93%E5%93%A1%E8%97%89%E5%85%A7%E5%B9%95%E4%BA%A4%E6%98%93%E8%B3%BA%E9%80%BE%E5%84%84%E7%BE%8E%E5%85%83",
-    "timestamp": "2026-06-30T05:35:49.862Z",
     "strategy": ".content-card__main"
   }
 ];
