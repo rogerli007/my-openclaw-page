@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-01T07:16:09.493Z
+// Last updated: 2026-07-01T08:42:29.761Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "前港姐冠軍劉倩婷獲頒授榮譽勳章　與特首合照承諾為社區服務",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260701/1149010532032843776846957.jpeg/UGisvjhLwkEkqdbNOkTVckHekwrH_hKUuDXNR7g1zUc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60365625/%E5%89%8D%E6%B8%AF%E5%A7%90%E5%86%A0%E8%BB%8D%E5%8A%89%E5%80%A9%E5%A9%B7%E7%8D%B2%E9%A0%92%E6%8E%88%E6%A6%AE%E8%AD%BD%E5%8B%B3%E7%AB%A0-%E8%88%87%E7%89%B9%E9%A6%96%E5%90%88%E7%85%A7%E6%89%BF%E8%AB%BE%E7%82%BA%E7%A4%BE%E5%8D%80%E6%9C%8D%E5%8B%99",
+    "timestamp": "2026-07-01T08:42:29.761Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "建黨105周年｜習近平講話全文",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260620/1144947395851849728930821.jpeg/27lUeq8Lg14VcQ-AB_lS9Iwx9pJ7HMlY9F8Ku_RfCrs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60365229/%E5%85%A7%E5%9C%B0%E7%A6%81%E8%B7%A8%E5%A2%83%E7%82%92%E8%82%A1-%E7%BE%8E%E6%8A%95%E8%B3%87%E5%85%AC%E5%8F%B8%E5%85%A5%E7%A8%9F-%E7%99%BE%E4%BA%A4%E6%98%93%E5%93%A1%E8%97%89%E5%85%A7%E5%B9%95%E4%BA%A4%E6%98%93%E8%B3%BA%E9%80%BE%E5%84%84%E7%BE%8E%E5%85%83",
     "timestamp": "2026-06-30T05:35:49.862Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "自動駕駛車今年試行高鐵站至九龍站　長者及行動不便者明年可預約",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260327/1114252779636920320263504.jpeg/Wou70r8lKCjcv62DnSldMAw2Bxtg1EgHhrsYk6y7GJM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60365168/%E8%87%AA%E5%8B%95%E9%A7%95%E9%A7%9B%E8%BB%8A%E4%BB%8A%E5%B9%B4%E8%A9%A6%E8%A1%8C%E9%AB%98%E9%90%B5%E7%AB%99%E8%87%B3%E4%B9%9D%E9%BE%8D%E7%AB%99-%E9%95%B7%E8%80%85%E5%8F%8A%E8%A1%8C%E5%8B%95%E4%B8%8D%E4%BE%BF%E8%80%85%E6%98%8E%E5%B9%B4%E5%8F%AF%E9%A0%90%E7%B4%84",
-    "timestamp": "2026-06-30T03:52:32.869Z",
     "strategy": ".content-card__main"
   }
 ];
