@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-01T02:28:41.754Z
+// Last updated: 2026-07-01T03:53:55.683Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "攻略｜Meccha Chameleon全地圖38個最強隱藏點｜捉迷藏攻守12秘訣",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260701/1148955886069223424014627.jpeg/NNhdEND4Vqv0aqo8oNYDX8ZeeuXiYQCo-64WPPuuFjw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%81%8A%E6%88%B2%E5%8B%95%E6%BC%AB/60365052/%E6%94%BB%E7%95%A5-meccha-chameleon%E5%85%A8%E5%9C%B0%E5%9C%9638%E5%80%8B%E6%9C%80%E5%BC%B7%E9%9A%B1%E8%97%8F%E9%BB%9E-%E6%8D%89%E8%BF%B7%E8%97%8F%E6%94%BB%E5%AE%8812%E7%A7%98%E8%A8%A3",
+    "timestamp": "2026-07-01T03:53:55.683Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "中歐設立貿易投資磋商機制：四大板塊上持續溝通",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260624/1146554567161286656709612.png/URJ4LY0Cx4E9f3A0L0rclzE5XHDsbjuzLQ5DyC0OQ8g?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60332543/%E4%BA%BA%E9%80%A0%E9%9B%9E%E8%9B%8B%E6%88%90%E6%9C%AC%E9%AB%98%E9%81%8E%E7%9C%9F%E8%9B%8B-%E5%81%87%E8%9B%8B%E7%B4%94%E5%B1%AC%E8%AC%A0%E8%A8%80-3%E9%A1%9E%E8%9B%8B%E8%A6%81%E8%AD%A6%E6%83%95-%E6%95%993%E6%8B%9B%E9%81%B8%E9%AE%AE%E8%9B%8B",
     "timestamp": "2026-06-30T01:23:09.791Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "世界盃2026｜巴拉圭互射十二碼爆冷勝德國　射6輪三人射失",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260630/1148530176599003136490156.jpeg/X2AMD7TiUxVKLTYcXAwQdQKhHKCZh1-On5OhDp-ToQ4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60365080/%E4%B8%96%E7%95%8C%E7%9B%832026-%E5%B7%B4%E6%8B%89%E5%9C%AD%E4%BA%92%E5%B0%84%E5%8D%81%E4%BA%8C%E7%A2%BC%E7%88%86%E5%86%B7%E5%8B%9D%E5%BE%B7%E5%9C%8B-%E5%B0%846%E8%BC%AA%E4%B8%89%E4%BA%BA%E5%B0%84%E5%A4%B1",
-    "timestamp": "2026-06-29T23:41:54.288Z",
     "strategy": ".content-card__main"
   }
 ];
