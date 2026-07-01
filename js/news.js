@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-01T19:46:49.600Z
+// Last updated: 2026-07-01T20:30:10.544Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "世界盃｜首爾警方：接管調查韓國足協主席涉不當影響任命洪明甫",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260702/1149193473560154112069738.jpeg/W78n8B5-4y1TEP1ssx2EYoPwEav25gNy_uSUOP7klDg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60365769/%E4%B8%96%E7%95%8C%E7%9B%83-%E9%A6%96%E7%88%BE%E8%AD%A6%E6%96%B9-%E6%8E%A5%E7%AE%A1%E8%AA%BF%E6%9F%A5%E9%9F%93%E5%9C%8B%E8%B6%B3%E5%8D%94%E4%B8%BB%E5%B8%AD%E6%B6%89%E4%B8%8D%E7%95%B6%E5%BD%B1%E9%9F%BF%E4%BB%BB%E5%91%BD%E6%B4%AA%E6%98%8E%E7%94%AB",
+    "timestamp": "2026-07-01T20:30:10.544Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "太古私家車行車不穩遇截查　46歲男司機「吹爆波」涉醉駕被捕",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260701/1148822160589197312960345.jpeg/xLya3REwO3eMspHopVm_LrDCTQvuNllwN6wSWzesEls?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60365446/%E4%B8%96%E7%95%8C%E7%9B%832026-%E6%8C%AA%E5%A8%812-1%E9%9A%AA%E5%8B%9D%E7%A7%91%E7%89%B9%E8%BF%AA%E7%93%A6-%E5%A4%8F%E8%98%AD%E7%89%B9%E5%85%A5%E6%B3%A2%E7%B5%95%E6%AE%BA%E4%B8%8B%E5%A0%B4%E6%92%BC%E5%B7%B4%E8%A5%BF",
     "timestamp": "2026-06-30T19:13:43.803Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "長沙灣大埔道馬路有野豬　的士疑收掣不及　野豬遭撞斃",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260701/1148797580944084992639085.jpeg/aMtsB_UOaNxMLGGMUKH7VRWCcQDPX7NRRfthbn_7YW4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60365444/%E9%95%B7%E6%B2%99%E7%81%A3%E5%A4%A7%E5%9F%94%E9%81%93%E9%A6%AC%E8%B7%AF%E6%9C%89%E9%87%8E%E8%B1%AC-%E7%9A%84%E5%A3%AB%E7%96%91%E6%94%B6%E6%8E%A3%E4%B8%8D%E5%8F%8A-%E9%87%8E%E8%B1%AC%E9%81%AD%E6%92%9E%E6%96%83",
-    "timestamp": "2026-06-30T17:45:27.532Z",
     "strategy": ".content-card__main"
   }
 ];
