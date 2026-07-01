@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-01T19:05:21.228Z
+// Last updated: 2026-07-01T19:46:49.600Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "太古私家車行車不穩遇截查　46歲男司機「吹爆波」涉醉駕被捕",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260702/1149180670895984640348502.jpeg/u3i2y3hUhIIu7xy5LPe3mRPAKxWMkwzCfoXVMn6F1TI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60365768/%E5%A4%AA%E5%8F%A4%E7%A7%81%E5%AE%B6%E8%BB%8A%E8%A1%8C%E8%BB%8A%E4%B8%8D%E7%A9%A9%E9%81%87%E6%88%AA%E6%9F%A5-46%E6%AD%B2%E7%94%B7%E5%8F%B8%E6%A9%9F-%E5%90%B9%E7%88%86%E6%B3%A2-%E6%B6%89%E9%86%89%E9%A7%95%E8%A2%AB%E6%8D%95",
+    "timestamp": "2026-07-01T19:46:49.600Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "太古私家車行車不穩遇截查　46歲男司機「吹爆波」涉醉駕被捕",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260701/1148797580944084992639085.jpeg/aMtsB_UOaNxMLGGMUKH7VRWCcQDPX7NRRfthbn_7YW4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60365444/%E9%95%B7%E6%B2%99%E7%81%A3%E5%A4%A7%E5%9F%94%E9%81%93%E9%A6%AC%E8%B7%AF%E6%9C%89%E9%87%8E%E8%B1%AC-%E7%9A%84%E5%A3%AB%E7%96%91%E6%94%B6%E6%8E%A3%E4%B8%8D%E5%8F%8A-%E9%87%8E%E8%B1%AC%E9%81%AD%E6%92%9E%E6%96%83",
     "timestamp": "2026-06-30T17:45:27.532Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美最高法院判各州有權禁跨性別女參加體育校隊　特朗普：巨大勝利",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260701/1148779128204300288218369.jpeg/l9TQQ15dC3O_Xb4dWf2_RdytvXrAZmZWjEc1boxHNW4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60365439/%E7%BE%8E%E6%9C%80%E9%AB%98%E6%B3%95%E9%99%A2%E5%88%A4%E5%90%84%E5%B7%9E%E6%9C%89%E6%AC%8A%E7%A6%81%E8%B7%A8%E6%80%A7%E5%88%A5%E5%A5%B3%E5%8F%83%E5%8A%A0%E9%AB%94%E8%82%B2%E6%A0%A1%E9%9A%8A-%E7%89%B9%E6%9C%97%E6%99%AE-%E5%B7%A8%E5%A4%A7%E5%8B%9D%E5%88%A9",
-    "timestamp": "2026-06-30T16:56:01.363Z",
     "strategy": ".content-card__main"
   }
 ];
