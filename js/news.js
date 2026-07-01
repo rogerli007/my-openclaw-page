@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-01T23:16:43.535Z
+// Last updated: 2026-07-01T23:51:55.234Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "IVE兩名畢業生分別獲60萬獎學金赴英升學　計劃明業後回港工作",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260629/1148286388479725568325617.jpeg/Aw5VDDCbGMxTewM6jDCh2MCO4MqaKPO9ijTTvYo0070?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%B0%88%E4%B8%8A%E6%95%99%E8%82%B2/60364890/ive%E5%85%A9%E5%90%8D%E7%95%A2%E6%A5%AD%E7%94%9F%E5%88%86%E5%88%A5%E7%8D%B260%E8%90%AC%E7%8D%8E%E5%AD%B8%E9%87%91%E8%B5%B4%E8%8B%B1%E5%8D%87%E5%AD%B8-%E8%A8%88%E5%8A%83%E6%98%8E%E6%A5%AD%E5%BE%8C%E5%9B%9E%E6%B8%AF%E5%B7%A5%E4%BD%9C",
+    "timestamp": "2026-07-01T23:51:55.234Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "老父告兒子不扶養　撤贈討房產卻敗訴　意外揭20年前外遇家暴內情",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260701/1148867971737718784254796.jpeg/crggAYvFAbCFcH8yA3gPEvEWkByP2KUnvZIIJr2SCCY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%B0%88%E4%B8%8A%E6%95%99%E8%82%B2/60365458/%E6%81%92%E7%94%9F%E5%A4%A7%E5%AD%B8%E5%AD%B8%E7%94%9F%E8%A8%AA%E5%95%8F%E5%A4%96%E5%82%AD%E8%A8%98%E9%8C%84%E7%95%B0%E9%84%89%E6%95%85%E4%BA%8B-%E9%AB%94%E9%A9%97%E5%BC%8F%E5%AD%B8%E7%BF%92%E5%9F%B9%E9%A4%8A%E5%90%8C%E7%90%86%E5%BF%83%E5%80%A1%E5%85%B1%E8%9E%8D",
     "timestamp": "2026-07-01T01:30:34.236Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "七一．港鐵抽獎送7.1萬張單程票　MTR Mobile會員今早9時起可登入",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260619/1144629920530436096127903.jpeg/tCRLqwmUvpECd7gJTrs76oXwTs_Xm2lD6ntE3-p7RN8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60365462/%E4%B8%83%E4%B8%80-%E6%B8%AF%E9%90%B5%E6%8A%BD%E7%8D%8E%E9%80%817-1%E8%90%AC%E5%BC%B5%E5%96%AE%E7%A8%8B%E7%A5%A8-mtr-mobile%E6%9C%83%E5%93%A1%E4%BB%8A%E6%97%A99%E6%99%82%E8%B5%B7%E5%8F%AF%E7%99%BB%E5%85%A5",
-    "timestamp": "2026-07-01T00:14:33.457Z",
     "strategy": ".content-card__main"
   }
 ];
