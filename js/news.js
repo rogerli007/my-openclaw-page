@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-01T22:38:47.657Z
+// Last updated: 2026-07-01T23:16:43.535Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "老父告兒子不扶養　撤贈討房產卻敗訴　意外揭20年前外遇家暴內情",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260701/1148971782426857472798203.png/FtWzWp8t6WMeXeilOXwqrwfRyMm4nOFRM-czijPnM4o?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60350843/%E8%80%81%E7%88%B6%E5%91%8A%E5%85%92%E5%AD%90%E4%B8%8D%E6%89%B6%E9%A4%8A-%E6%92%A4%E8%B4%88%E8%A8%8E%E6%88%BF%E7%94%A2%E5%8D%BB%E6%95%97%E8%A8%B4-%E6%84%8F%E5%A4%96%E6%8F%AD20%E5%B9%B4%E5%89%8D%E5%A4%96%E9%81%87%E5%AE%B6%E6%9A%B4%E5%85%A7%E6%83%85",
+    "timestamp": "2026-07-01T23:16:43.535Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "前港姐季軍移居上海1周年　兩度離婚痛揭前夫出軌曾代還債300萬",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260619/1144629920530436096127903.jpeg/tCRLqwmUvpECd7gJTrs76oXwTs_Xm2lD6ntE3-p7RN8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60365462/%E4%B8%83%E4%B8%80-%E6%B8%AF%E9%90%B5%E6%8A%BD%E7%8D%8E%E9%80%817-1%E8%90%AC%E5%BC%B5%E5%96%AE%E7%A8%8B%E7%A5%A8-mtr-mobile%E6%9C%83%E5%93%A1%E4%BB%8A%E6%97%A99%E6%99%82%E8%B5%B7%E5%8F%AF%E7%99%BB%E5%85%A5",
     "timestamp": "2026-07-01T00:14:33.457Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "回歸29年・直播｜金紫荊升旗禮特區班子出席　李家超七一酒會致辭",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20251001/1049989213044609024149206.jpeg/j-z5cLXIQeec88hL7-4d6SABw1HVj1wiBpnSXwaZ0l8?v=w1920",
-    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60365370/%E5%9B%9E%E6%AD%B829%E5%B9%B4-%E7%9B%B4%E6%92%AD-%E9%87%91%E7%B4%AB%E8%8D%8A%E5%8D%87%E6%97%97%E7%A6%AE%E7%89%B9%E5%8D%80%E7%8F%AD%E5%AD%90%E5%87%BA%E5%B8%AD-%E6%9D%8E%E5%AE%B6%E8%B6%85%E4%B8%83%E4%B8%80%E9%85%92%E6%9C%83%E8%87%B4%E8%BE%AD",
-    "timestamp": "2026-06-30T23:38:23.958Z",
     "strategy": ".content-card__main"
   }
 ];
