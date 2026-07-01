@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-01T20:30:10.544Z
+// Last updated: 2026-07-01T21:08:52.088Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "世界盃｜首爾警方：接管調查韓國足協主席涉不當影響任命洪明甫",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260702/1149193473560154112069738.jpeg/W78n8B5-4y1TEP1ssx2EYoPwEav25gNy_uSUOP7klDg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60365769/%E4%B8%96%E7%95%8C%E7%9B%83-%E9%A6%96%E7%88%BE%E8%AD%A6%E6%96%B9-%E6%8E%A5%E7%AE%A1%E8%AA%BF%E6%9F%A5%E9%9F%93%E5%9C%8B%E8%B6%B3%E5%8D%94%E4%B8%BB%E5%B8%AD%E6%B6%89%E4%B8%8D%E7%95%B6%E5%BD%B1%E9%9F%BF%E4%BB%BB%E5%91%BD%E6%B4%AA%E6%98%8E%E7%94%AB",
+    "timestamp": "2026-07-01T21:08:52.088Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "世界盃｜首爾警方：接管調查韓國足協主席涉不當影響任命洪明甫",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260701/1148845204967526400418596.jpeg/YcC-OmNSPnuvbkslISouaM5xh5Tg3i0tE2mJwRNpicE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60365452/%E6%97%BA%E8%A7%92%E5%8F%AF%E7%96%91%E7%A7%81%E5%AE%B6%E8%BB%8A%E9%81%87%E6%88%AA%E6%9F%A5-29%E6%AD%B2%E7%94%B7%E5%8F%B8%E6%A9%9F%E6%B6%89%E9%85%92%E5%BE%8C%E9%A7%95%E9%A7%9B%E8%A2%AB%E6%8D%95",
     "timestamp": "2026-06-30T20:51:03.847Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "世界盃2026｜挪威2:1險勝科特迪瓦　夏蘭特入波絕殺下場撼巴西",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260701/1148822160589197312960345.jpeg/xLya3REwO3eMspHopVm_LrDCTQvuNllwN6wSWzesEls?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60365446/%E4%B8%96%E7%95%8C%E7%9B%832026-%E6%8C%AA%E5%A8%812-1%E9%9A%AA%E5%8B%9D%E7%A7%91%E7%89%B9%E8%BF%AA%E7%93%A6-%E5%A4%8F%E8%98%AD%E7%89%B9%E5%85%A5%E6%B3%A2%E7%B5%95%E6%AE%BA%E4%B8%8B%E5%A0%B4%E6%92%BC%E5%B7%B4%E8%A5%BF",
-    "timestamp": "2026-06-30T19:13:43.803Z",
     "strategy": ".content-card__main"
   }
 ];
