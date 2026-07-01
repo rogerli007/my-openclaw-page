@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-01T14:24:30.334Z
+// Last updated: 2026-07-01T15:32:23.377Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "建黨105周年｜唐英年：在中共帶領下國家強起來　人民擁有幸福感",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260701/1149127444414861312071562.jpeg/oxfjFvbvwWvEOOwIlGC0ExUab5x2-isXsUQDPLFEAzw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60365752/%E5%BB%BA%E9%BB%A8105%E5%91%A8%E5%B9%B4-%E5%94%90%E8%8B%B1%E5%B9%B4-%E5%9C%A8%E4%B8%AD%E5%85%B1%E5%B8%B6%E9%A0%98%E4%B8%8B%E5%9C%8B%E5%AE%B6%E5%BC%B7%E8%B5%B7%E4%BE%86-%E4%BA%BA%E6%B0%91%E6%93%81%E6%9C%89%E5%B9%B8%E7%A6%8F%E6%84%9F",
+    "timestamp": "2026-07-01T15:32:23.377Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "新華社：王毅與魯比奧通電話",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260517/1132706076592967680516374.jpeg/RQ9y8e-k8zRoPrbeFDbB43KIU4b13wpJLPLvBTby7wU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60365417/%E6%B0%B4%E4%B8%8A%E6%A8%82%E5%9C%92-%E4%BF%9D%E7%95%99%E9%95%B7%E8%80%85-2%E5%85%A5%E5%A0%B4-%E6%B5%B7%E6%B4%8B%E5%85%AC%E5%9C%92%E4%B8%BB%E5%B8%AD-%E8%83%BD%E5%B8%B6%E5%8B%95%E4%B8%80%E5%AE%B6%E4%BA%BA%E5%85%A5%E5%A0%B4%E6%B6%88%E8%B2%BB",
     "timestamp": "2026-06-30T13:50:33.723Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "今日新聞8分鐘｜兩賊潛康樂園爆竊｜港夫婦遊日搭錯車 駕駛室打卡",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260630/1148704081846472704798165.jpeg/9lVReZpNxft1VIoCuyjuUX_vo4LfLnlf365qhN-uaoQ",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60365380/%E4%BB%8A%E6%97%A5%E6%96%B0%E8%81%9E8%E5%88%86%E9%90%98-%E5%85%A9%E8%B3%8A%E6%BD%9B%E5%BA%B7%E6%A8%82%E5%9C%92%E7%88%86%E7%AB%8A-%E6%B8%AF%E5%A4%AB%E5%A9%A6%E9%81%8A%E6%97%A5%E6%90%AD%E9%8C%AF%E8%BB%8A-%E9%A7%95%E9%A7%9B%E5%AE%A4%E6%89%93%E5%8D%A1",
-    "timestamp": "2026-06-30T13:05:33.695Z",
     "strategy": ".content-card__main"
   }
 ];
