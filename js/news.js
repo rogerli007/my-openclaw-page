@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-01T11:30:07.577Z
+// Last updated: 2026-07-01T13:30:49.156Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美國經濟｜白宮出口術？　哈塞特：提高利率將是一個錯誤",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20251201/1072097171970461696318605.jpeg/pegaJRFSMYQ1OKA8Kpfd1u_WGYBRV-ZhXH8z21x_M9s?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60365734/%E7%BE%8E%E5%9C%8B%E7%B6%93%E6%BF%9F-%E7%99%BD%E5%AE%AE%E5%87%BA%E5%8F%A3%E8%A1%93-%E5%93%88%E5%A1%9E%E7%89%B9-%E6%8F%90%E9%AB%98%E5%88%A9%E7%8E%87%E5%B0%87%E6%98%AF%E4%B8%80%E5%80%8B%E9%8C%AF%E8%AA%A4",
+    "timestamp": "2026-07-01T13:30:49.156Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "非份之罪｜曾展望激罕演好色渣男向游嘉欣施暴　獲網民激讚好戲",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260630/1148689004380688384482796.jpeg/9uq9CDsjTwosonvAve5n5d2LzLr_XNZ2OPro_y766P8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60365401/%E6%B5%A9%E6%98%8E%E9%9B%85%E8%8B%91%E5%A3%9E%F0%A8%8B%A2-%E5%BE%8B%E5%B8%AB-%E8%BB%8A%E5%A0%B4%E5%85%8D%E8%B2%AC%E6%A2%9D%E6%AC%BE%E9%9D%9E%E6%93%8B%E7%AE%AD%E7%89%8C-%E5%80%A1%E8%BB%8A%E4%B8%BB%E5%85%88%E4%BA%A4%E8%B2%BB%E5%BE%8C%E7%B4%A2%E5%84%9F",
     "timestamp": "2026-06-30T12:05:13.543Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "檢控主任發電郵指警說謊被革職　官認為未屬過份嚴苛　裁覆核敗訴",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20221109/667003679814979584415329.jpeg/w3tuWhPlm4dnpH-UWdXItyNNExQmUBsLb5XxKEqV8Sg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60365369/%E6%AA%A2%E6%8E%A7%E4%B8%BB%E4%BB%BB%E7%99%BC%E9%9B%BB%E9%83%B5%E6%8C%87%E8%AD%A6%E8%AA%AA%E8%AC%8A%E8%A2%AB%E9%9D%A9%E8%81%B7-%E5%AE%98%E8%AA%8D%E7%82%BA%E6%9C%AA%E5%B1%AC%E9%81%8E%E4%BB%BD%E5%9A%B4%E8%8B%9B-%E8%A3%81%E8%A6%86%E6%A0%B8%E6%95%97%E8%A8%B4",
-    "timestamp": "2026-06-30T09:54:13.028Z",
     "strategy": ".content-card__main"
   }
 ];
