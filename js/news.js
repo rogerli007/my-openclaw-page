@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-01T01:30:34.236Z
+// Last updated: 2026-07-01T02:28:41.754Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "中歐設立貿易投資磋商機制：四大板塊上持續溝通",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260701/1148930855964512256186542.jpeg/ChBa0QstojfTo11f72ZxUVdkv29mqjs1r0E3_69BN_8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60365488/%E4%B8%AD%E6%AD%90%E8%A8%AD%E7%AB%8B%E8%B2%BF%E6%98%93%E6%8A%95%E8%B3%87%E7%A3%8B%E5%95%86%E6%A9%9F%E5%88%B6-%E5%9B%9B%E5%A4%A7%E6%9D%BF%E5%A1%8A%E4%B8%8A%E6%8C%81%E7%BA%8C%E6%BA%9D%E9%80%9A",
+    "timestamp": "2026-07-01T02:28:41.754Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "恒生大學學生訪問外傭記錄異鄉故事　體驗式學習培養同理心倡共融",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260630/1148530176599003136490156.jpeg/X2AMD7TiUxVKLTYcXAwQdQKhHKCZh1-On5OhDp-ToQ4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60365080/%E4%B8%96%E7%95%8C%E7%9B%832026-%E5%B7%B4%E6%8B%89%E5%9C%AD%E4%BA%92%E5%B0%84%E5%8D%81%E4%BA%8C%E7%A2%BC%E7%88%86%E5%86%B7%E5%8B%9D%E5%BE%B7%E5%9C%8B-%E5%B0%846%E8%BC%AA%E4%B8%89%E4%BA%BA%E5%B0%84%E5%A4%B1",
     "timestamp": "2026-06-29T23:41:54.288Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "天主教普照中學原創校慶劇圓滿公演　台前幕後汗與淚交織生命樂章",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260603/1138842815472603136785904.jpeg/ydMZGtzYlUK_h_HHeSGzYQcwvnuLTF0LezFvJnsxbyY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E4%B8%AD%E5%B0%8F%E5%AD%B8%E6%A0%A1%E5%9C%92/60355562/%E5%A4%A9%E4%B8%BB%E6%95%99%E6%99%AE%E7%85%A7%E4%B8%AD%E5%AD%B8%E5%8E%9F%E5%89%B5%E6%A0%A1%E6%85%B6%E5%8A%87%E5%9C%93%E6%BB%BF%E5%85%AC%E6%BC%94-%E5%8F%B0%E5%89%8D%E5%B9%95%E5%BE%8C%E6%B1%97%E8%88%87%E6%B7%9A%E4%BA%A4%E7%B9%94%E7%94%9F%E5%91%BD%E6%A8%82%E7%AB%A0",
-    "timestamp": "2026-06-29T23:13:04.348Z",
     "strategy": ".content-card__main"
   }
 ];
