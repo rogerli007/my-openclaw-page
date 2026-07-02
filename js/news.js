@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-02T12:02:09.275Z
+// Last updated: 2026-07-02T13:41:43.034Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "網紅模特Nara Smith剛生完小孩　崩潰發聲2歲女患癌：已心力交瘁",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260702/1149378780473593856689423.png/kNOtvC52xP96Up9d5hQlMxqAF8lGP_U0KPN97Cjzfew?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60365953/%E7%B6%B2%E7%B4%85%E6%A8%A1%E7%89%B9nara-smith%E5%89%9B%E7%94%9F%E5%AE%8C%E5%B0%8F%E5%AD%A9-%E5%B4%A9%E6%BD%B0%E7%99%BC%E8%81%B22%E6%AD%B2%E5%A5%B3%E6%82%A3%E7%99%8C-%E5%B7%B2%E5%BF%83%E5%8A%9B%E4%BA%A4%E7%98%81",
+    "timestamp": "2026-07-02T13:41:43.034Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "英格蘭隊長卡尼對她一往情深　全靠她才能全力衝刺︱世界盃太太團",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20251201/1072097171970461696318605.jpeg/pegaJRFSMYQ1OKA8Kpfd1u_WGYBRV-ZhXH8z21x_M9s?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60365734/%E7%BE%8E%E5%9C%8B%E7%B6%93%E6%BF%9F-%E7%99%BD%E5%AE%AE%E5%87%BA%E5%8F%A3%E8%A1%93-%E5%93%88%E5%A1%9E%E7%89%B9-%E6%8F%90%E9%AB%98%E5%88%A9%E7%8E%87%E5%B0%87%E6%98%AF%E4%B8%80%E5%80%8B%E9%8C%AF%E8%AA%A4",
     "timestamp": "2026-07-01T13:30:49.156Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "非份之罪｜曾展望激罕演好色渣男向游嘉欣施暴　獲網民激讚好戲",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260701/1149017327585464320083645.jpeg/VEBOrV6A2OaWY7XieWeag4D_dfQnIqZUDxV3QQ8Vd0E?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60365622/%E9%9D%9E%E4%BB%BD%E4%B9%8B%E7%BD%AA-%E6%9B%BE%E5%B1%95%E6%9C%9B%E6%BF%80%E7%BD%95%E6%BC%94%E5%A5%BD%E8%89%B2%E6%B8%A3%E7%94%B7%E5%90%91%E6%B8%B8%E5%98%89%E6%AC%A3%E6%96%BD%E6%9A%B4-%E7%8D%B2%E7%B6%B2%E6%B0%91%E6%BF%80%E8%AE%9A%E5%A5%BD%E6%88%B2",
-    "timestamp": "2026-07-01T11:30:07.577Z",
     "strategy": ".content-card__main"
   }
 ];
