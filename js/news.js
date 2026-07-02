@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-02T06:25:29.276Z
+// Last updated: 2026-07-02T07:48:06.334Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "打風｜天文台評估周五發3號波 襪濕透怎辦?專家教用水樽1小時全乾",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260702/1149376267393437696123407.jpeg/OrCoClSUrAQ_Vb_LEs_8GYHhmgXYG67j8gzievIM4no?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%A3%9F%E7%8E%A9%E8%B2%B7/60365817/%E6%89%93%E9%A2%A8-%E5%A4%A9%E6%96%87%E5%8F%B0%E8%A9%95%E4%BC%B0%E5%91%A8%E4%BA%94%E7%99%BC3%E8%99%9F%E6%B3%A2-%E8%A5%AA%E6%BF%95%E9%80%8F%E6%80%8E%E8%BE%A6-%E5%B0%88%E5%AE%B6%E6%95%99%E7%94%A8%E6%B0%B4%E6%A8%BD1%E5%B0%8F%E6%99%82%E5%85%A8%E4%B9%BE",
+    "timestamp": "2026-07-02T07:48:06.334Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "DSE放榜2026｜JUPAS改選科計分策略、各科比重及入學要求一覽",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260701/1149010532032843776846957.jpeg/UGisvjhLwkEkqdbNOkTVckHekwrH_hKUuDXNR7g1zUc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60365625/%E5%89%8D%E6%B8%AF%E5%A7%90%E5%86%A0%E8%BB%8D%E5%8A%89%E5%80%A9%E5%A9%B7%E7%8D%B2%E9%A0%92%E6%8E%88%E6%A6%AE%E8%AD%BD%E5%8B%B3%E7%AB%A0-%E8%88%87%E7%89%B9%E9%A6%96%E5%90%88%E7%85%A7%E6%89%BF%E8%AB%BE%E7%82%BA%E7%A4%BE%E5%8D%80%E6%9C%8D%E5%8B%99",
     "timestamp": "2026-07-01T08:42:29.761Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "建黨105周年｜習近平講話全文",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260701/1148950605524373504507419.jpeg/BpJHZx3nQ2nvoY1qpy3XBspbVrSmfk11oWigsaFooLE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60365605/%E5%BB%BA%E9%BB%A8105%E5%91%A8%E5%B9%B4-%E7%BF%92%E8%BF%91%E5%B9%B3%E8%AC%9B%E8%A9%B1%E5%85%A8%E6%96%87",
-    "timestamp": "2026-07-01T07:16:09.493Z",
     "strategy": ".content-card__main"
   }
 ];
