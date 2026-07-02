@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-02T01:14:54.100Z
+// Last updated: 2026-07-02T02:02:44.234Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美貿易代表：美國決定不續簽美墨加協定　改為每年審查",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20251208/1074655474495787008038965.jpeg/-wOg0YjDsmPZdo4OIo7mcCuOROgMszx1c_ohJHP6ISQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60365792/%E7%BE%8E%E8%B2%BF%E6%98%93%E4%BB%A3%E8%A1%A8-%E7%BE%8E%E5%9C%8B%E6%B1%BA%E5%AE%9A%E4%B8%8D%E7%BA%8C%E7%B0%BD%E7%BE%8E%E5%A2%A8%E5%8A%A0%E5%8D%94%E5%AE%9A-%E6%94%B9%E7%82%BA%E6%AF%8F%E5%B9%B4%E5%AF%A9%E6%9F%A5",
+    "timestamp": "2026-07-02T02:02:44.234Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "方媛親力親為湊女與家傭在大街上等車　囡囡一舉動流露獨立個性",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260701/1148955886069223424014627.jpeg/NNhdEND4Vqv0aqo8oNYDX8ZeeuXiYQCo-64WPPuuFjw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%81%8A%E6%88%B2%E5%8B%95%E6%BC%AB/60365052/%E6%94%BB%E7%95%A5-meccha-chameleon%E5%85%A8%E5%9C%B0%E5%9C%9638%E5%80%8B%E6%9C%80%E5%BC%B7%E9%9A%B1%E8%97%8F%E9%BB%9E-%E6%8D%89%E8%BF%B7%E8%97%8F%E6%94%BB%E5%AE%8812%E7%A7%98%E8%A8%A3",
     "timestamp": "2026-07-01T03:53:55.683Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "中歐設立貿易投資磋商機制：四大板塊上持續溝通",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260701/1148930855964512256186542.jpeg/ChBa0QstojfTo11f72ZxUVdkv29mqjs1r0E3_69BN_8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60365488/%E4%B8%AD%E6%AD%90%E8%A8%AD%E7%AB%8B%E8%B2%BF%E6%98%93%E6%8A%95%E8%B3%87%E7%A3%8B%E5%95%86%E6%A9%9F%E5%88%B6-%E5%9B%9B%E5%A4%A7%E6%9D%BF%E5%A1%8A%E4%B8%8A%E6%8C%81%E7%BA%8C%E6%BA%9D%E9%80%9A",
-    "timestamp": "2026-07-01T02:28:41.754Z",
     "strategy": ".content-card__main"
   }
 ];
