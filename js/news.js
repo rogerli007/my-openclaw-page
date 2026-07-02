@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-02T03:23:33.276Z
+// Last updated: 2026-07-02T06:25:29.276Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "DSE放榜2026｜JUPAS改選科計分策略、各科比重及入學要求一覽",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260414/1120753108268355584465209.jpeg/yXSIM4mL_4SQFEtacjiqUgWQ4Zhj387fO7l3rDu5d6w?v=w1920r16_9",
+    "url": "https://www.hk01.com/DSE%E5%B0%88%E5%8D%80/893474/dse%E8%A8%88%E5%88%86-5-%E5%88%86%E6%95%B8%E6%98%AF-%E4%B8%80%E6%96%87%E7%9C%8B%E6%B8%85%E8%A8%88%E5%88%86%E6%96%B9%E6%B3%95-%E5%90%84%E7%A7%91%E6%AF%94%E9%87%8D%E5%8F%8A%E5%85%A5%E5%AD%B8%E8%A6%81%E6%B1%82",
+    "timestamp": "2026-07-02T06:25:29.276Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "「鐵拳教育」觸法少年真實版！韓小學生網吧偷錢後對CCTV鞠躬挑釁",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260701/1148950605524373504507419.jpeg/BpJHZx3nQ2nvoY1qpy3XBspbVrSmfk11oWigsaFooLE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60365605/%E5%BB%BA%E9%BB%A8105%E5%91%A8%E5%B9%B4-%E7%BF%92%E8%BF%91%E5%B9%B3%E8%AC%9B%E8%A9%B1%E5%85%A8%E6%96%87",
     "timestamp": "2026-07-01T07:16:09.493Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "黃錦輝被捕｜被爆出議員涉醉駕不顧而去　笑面現身七一升旗禮",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260701/1148985552058454016042975.jpeg/13NaauyCzhFpzUvquFUu0VBC4JNW_CthSnm2rEp5tqw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60365570/%E9%BB%83%E9%8C%A6%E8%BC%9D%E8%A2%AB%E6%8D%95-%E8%A2%AB%E7%88%86%E5%87%BA%E8%AD%B0%E5%93%A1%E6%B6%89%E9%86%89%E9%A7%95%E4%B8%8D%E9%A1%A7%E8%80%8C%E5%8E%BB-%E7%AC%91%E9%9D%A2%E7%8F%BE%E8%BA%AB%E4%B8%83%E4%B8%80%E5%8D%87%E6%97%97%E7%A6%AE",
-    "timestamp": "2026-07-01T05:46:56.088Z",
     "strategy": ".content-card__main"
   }
 ];
