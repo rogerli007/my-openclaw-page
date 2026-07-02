@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-02T22:16:30.125Z
+// Last updated: 2026-07-02T22:45:24.132Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "余慕蓮迎89歲生日賈思樂送蛋糕慶祝　安德尊擔心安危飛的士探望",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260702/1149485271658532864134657.jpeg/ZI9NVJpB5bgGuvkuJQ6w35bpHJfxsn06IiBbFSIgWxU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60365972/%E4%BD%99%E6%85%95%E8%93%AE%E8%BF%8E89%E6%AD%B2%E7%94%9F%E6%97%A5%E8%B3%88%E6%80%9D%E6%A8%82%E9%80%81%E8%9B%8B%E7%B3%95%E6%85%B6%E7%A5%9D-%E5%AE%89%E5%BE%B7%E5%B0%8A%E6%93%94%E5%BF%83%E5%AE%89%E5%8D%B1%E9%A3%9B%E7%9A%84%E5%A3%AB%E6%8E%A2%E6%9C%9B",
+    "timestamp": "2026-07-02T22:45:24.132Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "比特犬咬死路人　狗主嫌打鬧阻如廁解鍊釀悲劇　獲家屬諒解判緩刑",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260629/1148286388479725568325617.jpeg/Aw5VDDCbGMxTewM6jDCh2MCO4MqaKPO9ijTTvYo0070?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%B0%88%E4%B8%8A%E6%95%99%E8%82%B2/60364890/ive%E5%85%A9%E5%90%8D%E7%95%A2%E6%A5%AD%E7%94%9F%E5%88%86%E5%88%A5%E7%8D%B260%E8%90%AC%E7%8D%8E%E5%AD%B8%E9%87%91%E8%B5%B4%E8%8B%B1%E5%8D%87%E5%AD%B8-%E8%A8%88%E5%8A%83%E6%98%8E%E6%A5%AD%E5%BE%8C%E5%9B%9E%E6%B8%AF%E5%B7%A5%E4%BD%9C",
     "timestamp": "2026-07-01T23:51:55.234Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "老父告兒子不扶養　撤贈討房產卻敗訴　意外揭20年前外遇家暴內情",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260701/1148971782426857472798203.png/FtWzWp8t6WMeXeilOXwqrwfRyMm4nOFRM-czijPnM4o?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60350843/%E8%80%81%E7%88%B6%E5%91%8A%E5%85%92%E5%AD%90%E4%B8%8D%E6%89%B6%E9%A4%8A-%E6%92%A4%E8%B4%88%E8%A8%8E%E6%88%BF%E7%94%A2%E5%8D%BB%E6%95%97%E8%A8%B4-%E6%84%8F%E5%A4%96%E6%8F%AD20%E5%B9%B4%E5%89%8D%E5%A4%96%E9%81%87%E5%AE%B6%E6%9A%B4%E5%85%A7%E6%83%85",
-    "timestamp": "2026-07-01T23:16:43.535Z",
     "strategy": ".content-card__main"
   }
 ];
