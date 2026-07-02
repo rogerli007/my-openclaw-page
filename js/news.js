@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-01T23:51:55.234Z
+// Last updated: 2026-07-02T01:14:54.100Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "方媛親力親為湊女與家傭在大街上等車　囡囡一舉動流露獨立個性",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260701/1149041806680264704290316.jpeg/NSVItIaROCWUsoeRkfLhbOL-Ome2dHw_M-k16DPpNeg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60365520/%E6%96%B9%E5%AA%9B%E8%A6%AA%E5%8A%9B%E8%A6%AA%E7%82%BA%E6%B9%8A%E5%A5%B3%E8%88%87%E5%AE%B6%E5%82%AD%E5%9C%A8%E5%A4%A7%E8%A1%97%E4%B8%8A%E7%AD%89%E8%BB%8A-%E5%9B%A1%E5%9B%A1%E4%B8%80%E8%88%89%E5%8B%95%E6%B5%81%E9%9C%B2%E7%8D%A8%E7%AB%8B%E5%80%8B%E6%80%A7",
+    "timestamp": "2026-07-02T01:14:54.100Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "IVE兩名畢業生分別獲60萬獎學金赴英升學　計劃明業後回港工作",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260701/1148930855964512256186542.jpeg/ChBa0QstojfTo11f72ZxUVdkv29mqjs1r0E3_69BN_8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60365488/%E4%B8%AD%E6%AD%90%E8%A8%AD%E7%AB%8B%E8%B2%BF%E6%98%93%E6%8A%95%E8%B3%87%E7%A3%8B%E5%95%86%E6%A9%9F%E5%88%B6-%E5%9B%9B%E5%A4%A7%E6%9D%BF%E5%A1%8A%E4%B8%8A%E6%8C%81%E7%BA%8C%E6%BA%9D%E9%80%9A",
     "timestamp": "2026-07-01T02:28:41.754Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "恒生大學學生訪問外傭記錄異鄉故事　體驗式學習培養同理心倡共融",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260701/1148867971737718784254796.jpeg/crggAYvFAbCFcH8yA3gPEvEWkByP2KUnvZIIJr2SCCY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%B0%88%E4%B8%8A%E6%95%99%E8%82%B2/60365458/%E6%81%92%E7%94%9F%E5%A4%A7%E5%AD%B8%E5%AD%B8%E7%94%9F%E8%A8%AA%E5%95%8F%E5%A4%96%E5%82%AD%E8%A8%98%E9%8C%84%E7%95%B0%E9%84%89%E6%95%85%E4%BA%8B-%E9%AB%94%E9%A9%97%E5%BC%8F%E5%AD%B8%E7%BF%92%E5%9F%B9%E9%A4%8A%E5%90%8C%E7%90%86%E5%BF%83%E5%80%A1%E5%85%B1%E8%9E%8D",
-    "timestamp": "2026-07-01T01:30:34.236Z",
     "strategy": ".content-card__main"
   }
 ];
