@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-02T23:15:14.872Z
+// Last updated: 2026-07-02T23:45:22.785Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "戰爭的未來：強國能戰不能勝？｜Jack Talk・去片",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260702/1149364270148882432709254.jpeg/_JA9OaVR4CklowDvxkH25kQhGm1Hvm9moWQIQqFkCEI",
+    "url": "https://www.hk01.com/%E5%9C%8B%E9%9A%9B%E5%88%86%E6%9E%90/60365833/%E6%88%B0%E7%88%AD%E7%9A%84%E6%9C%AA%E4%BE%86-%E5%BC%B7%E5%9C%8B%E8%83%BD%E6%88%B0%E4%B8%8D%E8%83%BD%E5%8B%9D-jack-talk-%E5%8E%BB%E7%89%87",
+    "timestamp": "2026-07-02T23:45:22.785Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "江蘇男2顆牙拔3個小時掛水13天！　鼻腔被拔通　院長：這很常見",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20251208/1074655474495787008038965.jpeg/-wOg0YjDsmPZdo4OIo7mcCuOROgMszx1c_ohJHP6ISQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60365792/%E7%BE%8E%E8%B2%BF%E6%98%93%E4%BB%A3%E8%A1%A8-%E7%BE%8E%E5%9C%8B%E6%B1%BA%E5%AE%9A%E4%B8%8D%E7%BA%8C%E7%B0%BD%E7%BE%8E%E5%A2%A8%E5%8A%A0%E5%8D%94%E5%AE%9A-%E6%94%B9%E7%82%BA%E6%AF%8F%E5%B9%B4%E5%AF%A9%E6%9F%A5",
     "timestamp": "2026-07-02T02:02:44.234Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "方媛親力親為湊女與家傭在大街上等車　囡囡一舉動流露獨立個性",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260701/1149041806680264704290316.jpeg/NSVItIaROCWUsoeRkfLhbOL-Ome2dHw_M-k16DPpNeg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60365520/%E6%96%B9%E5%AA%9B%E8%A6%AA%E5%8A%9B%E8%A6%AA%E7%82%BA%E6%B9%8A%E5%A5%B3%E8%88%87%E5%AE%B6%E5%82%AD%E5%9C%A8%E5%A4%A7%E8%A1%97%E4%B8%8A%E7%AD%89%E8%BB%8A-%E5%9B%A1%E5%9B%A1%E4%B8%80%E8%88%89%E5%8B%95%E6%B5%81%E9%9C%B2%E7%8D%A8%E7%AB%8B%E5%80%8B%E6%80%A7",
-    "timestamp": "2026-07-02T01:14:54.100Z",
     "strategy": ".content-card__main"
   }
 ];
