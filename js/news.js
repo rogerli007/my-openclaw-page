@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-02T20:37:57.034Z
+// Last updated: 2026-07-02T21:46:55.915Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "世界盃2026｜西班牙3:0輕取奧地利　奧耶沙巴爾起孖躋身16強",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260703/1149578169087430656054178.jpeg/ViCIyNBP0NccZaY-UHl_Wo_x0ZBCy3qDhCKlzIQipcw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60366142/%E4%B8%96%E7%95%8C%E7%9B%832026-%E8%A5%BF%E7%8F%AD%E7%89%993-0%E8%BC%95%E5%8F%96%E5%A5%A7%E5%9C%B0%E5%88%A9-%E5%A5%A7%E8%80%B6%E6%B2%99%E5%B7%B4%E7%88%BE%E8%B5%B7%E5%AD%96%E8%BA%8B%E8%BA%AB16%E5%BC%B7",
+    "timestamp": "2026-07-02T21:46:55.915Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "凱特王妃精神奕奕亮相溫網　親自為球迷派飛與梅利一齊觀賽｜有片",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260701/1149026960953839616375280.jpeg/LgavWh2QZ49c-Rz40VyOIy4QLUxAgjZBI-d7eCPne3g?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60365593/%E8%83%A1%E5%AE%B6%E6%83%A0%E7%A7%BB%E5%B1%85%E4%B8%8A%E6%B5%B71%E5%91%A8%E5%B9%B4-%E5%85%A9%E5%BA%A6%E9%9B%A2%E5%A9%9A%E7%97%9B%E6%8F%AD%E5%89%8D%E5%A4%AB%E5%87%BA%E8%BB%8C%E6%9B%BE%E4%BB%A3%E9%82%84%E5%82%B5300%E8%90%AC",
     "timestamp": "2026-07-01T22:38:47.657Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "歐美熱浪｜西班牙6月至少1028死　紐約本週末體感或高達46度",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260702/1149222866416308224145762.jpeg/rLM1AJhRnO-Dx89PiluCnZE9DMpmU68JOeAxfzngMX8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60365770/%E6%AD%90%E7%BE%8E%E7%86%B1%E6%B5%AA-%E8%A5%BF%E7%8F%AD%E7%89%996%E6%9C%88%E8%87%B3%E5%B0%911028%E6%AD%BB-%E7%B4%90%E7%B4%84%E6%9C%AC%E9%80%B1%E6%9C%AB%E9%AB%94%E6%84%9F%E6%88%96%E9%AB%98%E9%81%9446%E5%BA%A6",
-    "timestamp": "2026-07-01T21:52:31.529Z",
     "strategy": ".content-card__main"
   }
 ];
