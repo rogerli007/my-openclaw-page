@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-02T19:17:03.679Z
+// Last updated: 2026-07-02T20:37:57.034Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "凱特王妃精神奕奕亮相溫網　親自為球迷派飛與梅利一齊觀賽｜有片",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260703/1149567301561880576360951.jpeg/RhGq9lt2l0rb89grRSe5cJ_YVVvFk5e9C0tYoQtLWKE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60366140/%E5%87%B1%E7%89%B9%E7%8E%8B%E5%A6%83%E7%B2%BE%E7%A5%9E%E5%A5%95%E5%A5%95%E4%BA%AE%E7%9B%B8%E6%BA%AB%E7%B6%B2-%E8%A6%AA%E8%87%AA%E7%82%BA%E7%90%83%E8%BF%B7%E6%B4%BE%E9%A3%9B%E8%88%87%E6%A2%85%E5%88%A9%E4%B8%80%E9%BD%8A%E8%A7%80%E8%B3%BD-%E6%9C%89%E7%89%87",
+    "timestamp": "2026-07-02T20:37:57.034Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "香港仲裁員每年珠海處理百宗仲裁案　王永愷：助分享國際商事經驗",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260702/1149222866416308224145762.jpeg/rLM1AJhRnO-Dx89PiluCnZE9DMpmU68JOeAxfzngMX8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60365770/%E6%AD%90%E7%BE%8E%E7%86%B1%E6%B5%AA-%E8%A5%BF%E7%8F%AD%E7%89%996%E6%9C%88%E8%87%B3%E5%B0%911028%E6%AD%BB-%E7%B4%90%E7%B4%84%E6%9C%AC%E9%80%B1%E6%9C%AB%E9%AB%94%E6%84%9F%E6%88%96%E9%AB%98%E9%81%9446%E5%BA%A6",
     "timestamp": "2026-07-01T21:52:31.529Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "世界盃｜首爾警方：接管調查韓國足協主席涉不當影響任命洪明甫",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260702/1149193473560154112069738.jpeg/W78n8B5-4y1TEP1ssx2EYoPwEav25gNy_uSUOP7klDg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60365769/%E4%B8%96%E7%95%8C%E7%9B%83-%E9%A6%96%E7%88%BE%E8%AD%A6%E6%96%B9-%E6%8E%A5%E7%AE%A1%E8%AA%BF%E6%9F%A5%E9%9F%93%E5%9C%8B%E8%B6%B3%E5%8D%94%E4%B8%BB%E5%B8%AD%E6%B6%89%E4%B8%8D%E7%95%B6%E5%BD%B1%E9%9F%BF%E4%BB%BB%E5%91%BD%E6%B4%AA%E6%98%8E%E7%94%AB",
-    "timestamp": "2026-07-01T21:08:52.088Z",
     "strategy": ".content-card__main"
   }
 ];
