@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-02T07:48:06.334Z
+// Last updated: 2026-07-02T09:54:41.810Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "T.O.P見面會2026香港｜門票攻略＋購票連結＋座位表",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260702/1149360153032658944316274.jpeg/aHQmI1FjetCv33U_RJEiaQHOuwVLfYY_hX1XK4V9Vys?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60365940/t-o-p%E8%A6%8B%E9%9D%A2%E6%9C%832026%E9%A6%99%E6%B8%AF-%E9%96%80%E7%A5%A8%E6%94%BB%E7%95%A5-%E8%B3%BC%E7%A5%A8%E9%80%A3%E7%B5%90-%E5%BA%A7%E4%BD%8D%E8%A1%A8",
+    "timestamp": "2026-07-02T09:54:41.810Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "打風｜天文台評估周五發3號波 襪濕透怎辦?專家教用水樽1小時全乾",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260701/1149051202164494336638195.jpeg/HD6J1sq77nZA3IsU7rJBi7cFfHczz9aWWD7A1Vg-wNU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60365695/%E5%9B%9E%E6%AD%B829%E5%91%A8%E5%B9%B4-%E7%BE%85%E6%B7%91%E4%BD%A9%E8%AB%87%E5%A4%AA%E7%A9%BA%E9%A4%A8%E8%88%AA%E5%A4%A9%E5%B1%95%E7%84%A6%E9%BB%9E-%E4%B8%80%E6%8E%A2%E9%BB%8E%E5%AE%B6%E7%9B%88%E8%A8%93%E7%B7%B4%E5%87%BA%E8%89%99%E6%88%90%E6%9E%9C",
     "timestamp": "2026-07-01T10:12:13.588Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "前港姐冠軍劉倩婷獲頒授榮譽勳章　與特首合照承諾為社區服務",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260701/1149010532032843776846957.jpeg/UGisvjhLwkEkqdbNOkTVckHekwrH_hKUuDXNR7g1zUc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60365625/%E5%89%8D%E6%B8%AF%E5%A7%90%E5%86%A0%E8%BB%8D%E5%8A%89%E5%80%A9%E5%A9%B7%E7%8D%B2%E9%A0%92%E6%8E%88%E6%A6%AE%E8%AD%BD%E5%8B%B3%E7%AB%A0-%E8%88%87%E7%89%B9%E9%A6%96%E5%90%88%E7%85%A7%E6%89%BF%E8%AB%BE%E7%82%BA%E7%A4%BE%E5%8D%80%E6%9C%8D%E5%8B%99",
-    "timestamp": "2026-07-01T08:42:29.761Z",
     "strategy": ".content-card__main"
   }
 ];
