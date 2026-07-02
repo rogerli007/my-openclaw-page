@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-02T02:02:44.234Z
+// Last updated: 2026-07-02T03:23:33.276Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "「鐵拳教育」觸法少年真實版！韓小學生網吧偷錢後對CCTV鞠躬挑釁",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260702/1149299126534410240985167.jpeg/KGK2cTaDuCbQR5FWcsYR7CxzQOoEUY8vsJtj07CbY9M?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60365795/%E9%90%B5%E6%8B%B3%E6%95%99%E8%82%B2-%E8%A7%B8%E6%B3%95%E5%B0%91%E5%B9%B4%E7%9C%9F%E5%AF%A6%E7%89%88-%E9%9F%93%E5%B0%8F%E5%AD%B8%E7%94%9F%E7%B6%B2%E5%90%A7%E5%81%B7%E9%8C%A2%E5%BE%8C%E5%B0%8Dcctv%E9%9E%A0%E8%BA%AC%E6%8C%91%E9%87%81",
+    "timestamp": "2026-07-02T03:23:33.276Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美貿易代表：美國決定不續簽美墨加協定　改為每年審查",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260701/1148985552058454016042975.jpeg/13NaauyCzhFpzUvquFUu0VBC4JNW_CthSnm2rEp5tqw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60365570/%E9%BB%83%E9%8C%A6%E8%BC%9D%E8%A2%AB%E6%8D%95-%E8%A2%AB%E7%88%86%E5%87%BA%E8%AD%B0%E5%93%A1%E6%B6%89%E9%86%89%E9%A7%95%E4%B8%8D%E9%A1%A7%E8%80%8C%E5%8E%BB-%E7%AC%91%E9%9D%A2%E7%8F%BE%E8%BA%AB%E4%B8%83%E4%B8%80%E5%8D%87%E6%97%97%E7%A6%AE",
     "timestamp": "2026-07-01T05:46:56.088Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "攻略｜Meccha Chameleon全地圖38個最強隱藏點｜捉迷藏攻守12秘訣",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260701/1148955886069223424014627.jpeg/NNhdEND4Vqv0aqo8oNYDX8ZeeuXiYQCo-64WPPuuFjw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%81%8A%E6%88%B2%E5%8B%95%E6%BC%AB/60365052/%E6%94%BB%E7%95%A5-meccha-chameleon%E5%85%A8%E5%9C%B0%E5%9C%9638%E5%80%8B%E6%9C%80%E5%BC%B7%E9%9A%B1%E8%97%8F%E9%BB%9E-%E6%8D%89%E8%BF%B7%E8%97%8F%E6%94%BB%E5%AE%8812%E7%A7%98%E8%A8%A3",
-    "timestamp": "2026-07-01T03:53:55.683Z",
     "strategy": ".content-card__main"
   }
 ];
