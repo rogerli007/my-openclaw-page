@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-02T17:11:10.714Z
+// Last updated: 2026-07-02T17:59:35.891Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "世界盃賽程2026｜7.3直播線上看32強：葡萄牙/西班牙+7.2賽果重溫",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260702/1149324087596683264268341.jpeg/8H1Xki3if3_Y9KdXtO2UuKG_v-w3lw6mJg884SYPPOE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60365178/%E4%B8%96%E7%95%8C%E7%9B%83%E8%B3%BD%E7%A8%8B2026-7-3%E7%9B%B4%E6%92%AD%E7%B7%9A%E4%B8%8A%E7%9C%8B32%E5%BC%B7-%E8%91%A1%E8%90%84%E7%89%99-%E8%A5%BF%E7%8F%AD%E7%89%99-7-2%E8%B3%BD%E6%9E%9C%E9%87%8D%E6%BA%AB",
+    "timestamp": "2026-07-02T17:59:35.891Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "世界盃賽程2026｜7.3直播線上看32強：葡萄牙/西班牙+7.2賽果重溫",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260702/1149180670895984640348502.jpeg/u3i2y3hUhIIu7xy5LPe3mRPAKxWMkwzCfoXVMn6F1TI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60365768/%E5%A4%AA%E5%8F%A4%E7%A7%81%E5%AE%B6%E8%BB%8A%E8%A1%8C%E8%BB%8A%E4%B8%8D%E7%A9%A9%E9%81%87%E6%88%AA%E6%9F%A5-46%E6%AD%B2%E7%94%B7%E5%8F%B8%E6%A9%9F-%E5%90%B9%E7%88%86%E6%B3%A2-%E6%B6%89%E9%86%89%E9%A7%95%E8%A2%AB%E6%8D%95",
     "timestamp": "2026-07-01T19:46:49.600Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "太古私家車行車不穩遇截查　46歲男司機「吹爆波」涉醉駕被捕",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260702/1149180670895984640348502.jpeg/u3i2y3hUhIIu7xy5LPe3mRPAKxWMkwzCfoXVMn6F1TI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60365768/%E5%A4%AA%E5%8F%A4%E7%A7%81%E5%AE%B6%E8%BB%8A%E8%A1%8C%E8%BB%8A%E4%B8%8D%E7%A9%A9%E9%81%87%E6%88%AA%E6%9F%A5-46%E6%AD%B2%E7%94%B7%E5%8F%B8%E6%A9%9F-%E5%90%B9%E7%88%86%E6%B3%A2-%E6%B6%89%E9%86%89%E9%A7%95%E8%A2%AB%E6%8D%95",
-    "timestamp": "2026-07-01T19:05:21.228Z",
     "strategy": ".content-card__main"
   }
 ];
