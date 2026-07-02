@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-02T18:40:42.328Z
+// Last updated: 2026-07-02T19:17:03.679Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "香港仲裁員每年珠海處理百宗仲裁案　王永愷：助分享國際商事經驗",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260703/1149546247737053184417938.jpeg/VAstBzN9ciuCeBpptIgzwaJumCTRvOMsZmwgtmZsILY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60366137/%E9%A6%99%E6%B8%AF%E4%BB%B2%E8%A3%81%E5%93%A1%E6%AF%8F%E5%B9%B4%E7%8F%A0%E6%B5%B7%E8%99%95%E7%90%86%E7%99%BE%E5%AE%97%E4%BB%B2%E8%A3%81%E6%A1%88-%E7%8E%8B%E6%B0%B8%E6%84%B7-%E5%8A%A9%E5%88%86%E4%BA%AB%E5%9C%8B%E9%9A%9B%E5%95%86%E4%BA%8B%E7%B6%93%E9%A9%97",
+    "timestamp": "2026-07-02T19:17:03.679Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "委內瑞拉地震再有奇蹟　44歲男被困8日後從9米深廢墟救出｜有片",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260702/1149193473560154112069738.jpeg/W78n8B5-4y1TEP1ssx2EYoPwEav25gNy_uSUOP7klDg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60365769/%E4%B8%96%E7%95%8C%E7%9B%83-%E9%A6%96%E7%88%BE%E8%AD%A6%E6%96%B9-%E6%8E%A5%E7%AE%A1%E8%AA%BF%E6%9F%A5%E9%9F%93%E5%9C%8B%E8%B6%B3%E5%8D%94%E4%B8%BB%E5%B8%AD%E6%B6%89%E4%B8%8D%E7%95%B6%E5%BD%B1%E9%9F%BF%E4%BB%BB%E5%91%BD%E6%B4%AA%E6%98%8E%E7%94%AB",
     "timestamp": "2026-07-01T21:08:52.088Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "世界盃｜首爾警方：接管調查韓國足協主席涉不當影響任命洪明甫",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260702/1149193473560154112069738.jpeg/W78n8B5-4y1TEP1ssx2EYoPwEav25gNy_uSUOP7klDg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60365769/%E4%B8%96%E7%95%8C%E7%9B%83-%E9%A6%96%E7%88%BE%E8%AD%A6%E6%96%B9-%E6%8E%A5%E7%AE%A1%E8%AA%BF%E6%9F%A5%E9%9F%93%E5%9C%8B%E8%B6%B3%E5%8D%94%E4%B8%BB%E5%B8%AD%E6%B6%89%E4%B8%8D%E7%95%B6%E5%BD%B1%E9%9F%BF%E4%BB%BB%E5%91%BD%E6%B4%AA%E6%98%8E%E7%94%AB",
-    "timestamp": "2026-07-01T20:30:10.544Z",
     "strategy": ".content-card__main"
   }
 ];
