@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-02T21:46:55.915Z
+// Last updated: 2026-07-02T22:16:30.125Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "比特犬咬死路人　狗主嫌打鬧阻如廁解鍊釀悲劇　獲家屬諒解判緩刑",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260702/1149361651829444608582961.png/ytXglPzeq85LcjRt7m1HfuWd5oDFgz35EordIRKK3SE",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60365677/%E6%AF%94%E7%89%B9%E7%8A%AC%E5%92%AC%E6%AD%BB%E8%B7%AF%E4%BA%BA-%E7%8B%97%E4%B8%BB%E5%AB%8C%E6%89%93%E9%AC%A7%E9%98%BB%E5%A6%82%E5%BB%81%E8%A7%A3%E9%8D%8A%E9%87%80%E6%82%B2%E5%8A%87-%E7%8D%B2%E5%AE%B6%E5%B1%AC%E8%AB%92%E8%A7%A3%E5%88%A4%E7%B7%A9%E5%88%91",
+    "timestamp": "2026-07-02T22:16:30.125Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "世界盃2026｜西班牙3:0輕取奧地利　奧耶沙巴爾起孖躋身16強",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260701/1148971782426857472798203.png/FtWzWp8t6WMeXeilOXwqrwfRyMm4nOFRM-czijPnM4o?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60350843/%E8%80%81%E7%88%B6%E5%91%8A%E5%85%92%E5%AD%90%E4%B8%8D%E6%89%B6%E9%A4%8A-%E6%92%A4%E8%B4%88%E8%A8%8E%E6%88%BF%E7%94%A2%E5%8D%BB%E6%95%97%E8%A8%B4-%E6%84%8F%E5%A4%96%E6%8F%AD20%E5%B9%B4%E5%89%8D%E5%A4%96%E9%81%87%E5%AE%B6%E6%9A%B4%E5%85%A7%E6%83%85",
     "timestamp": "2026-07-01T23:16:43.535Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "前港姐季軍移居上海1周年　兩度離婚痛揭前夫出軌曾代還債300萬",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260701/1149026960953839616375280.jpeg/LgavWh2QZ49c-Rz40VyOIy4QLUxAgjZBI-d7eCPne3g?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60365593/%E8%83%A1%E5%AE%B6%E6%83%A0%E7%A7%BB%E5%B1%85%E4%B8%8A%E6%B5%B71%E5%91%A8%E5%B9%B4-%E5%85%A9%E5%BA%A6%E9%9B%A2%E5%A9%9A%E7%97%9B%E6%8F%AD%E5%89%8D%E5%A4%AB%E5%87%BA%E8%BB%8C%E6%9B%BE%E4%BB%A3%E9%82%84%E5%82%B5300%E8%90%AC",
-    "timestamp": "2026-07-01T22:38:47.657Z",
     "strategy": ".content-card__main"
   }
 ];
