@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-02T15:36:46.049Z
+// Last updated: 2026-07-02T16:27:09.595Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "聯合國：美國仍欠交20億美元會費　目前資金僅夠營運到8月底",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260703/1149508684330569728102349.png/wL3BtoZgA4h7v3Qe6SDjzc7fRYgrZoalPIGtxTyBrcU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60366133/%E8%81%AF%E5%90%88%E5%9C%8B-%E7%BE%8E%E5%9C%8B%E4%BB%8D%E6%AC%A0%E4%BA%A420%E5%84%84%E7%BE%8E%E5%85%83%E6%9C%83%E8%B2%BB-%E7%9B%AE%E5%89%8D%E8%B3%87%E9%87%91%E5%83%85%E5%A4%A0%E7%87%9F%E9%81%8B%E5%88%B08%E6%9C%88%E5%BA%95",
+    "timestamp": "2026-07-02T16:27:09.595Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "五年規劃丨中電提交建議書　倡電力規劃升級為戰略經濟基建",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260701/1148815171502739456381970.jpeg/tru5P2g1SQXZt6Ena240R7E3QlknyzCFfbZ9n322fZ8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60364889/dolby-digital-dts-atmos%E6%9C%89%E5%92%A9%E5%88%86%E5%88%A5-%E8%B2%B7soundbar%E5%89%8D%E5%BF%85%E7%9D%87%E6%95%99%E5%AD%B8",
     "timestamp": "2026-07-01T16:27:04.064Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "建黨105周年｜唐英年：在中共帶領下國家強起來　人民擁有幸福感",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260701/1149127444414861312071562.jpeg/oxfjFvbvwWvEOOwIlGC0ExUab5x2-isXsUQDPLFEAzw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60365752/%E5%BB%BA%E9%BB%A8105%E5%91%A8%E5%B9%B4-%E5%94%90%E8%8B%B1%E5%B9%B4-%E5%9C%A8%E4%B8%AD%E5%85%B1%E5%B8%B6%E9%A0%98%E4%B8%8B%E5%9C%8B%E5%AE%B6%E5%BC%B7%E8%B5%B7%E4%BE%86-%E4%BA%BA%E6%B0%91%E6%93%81%E6%9C%89%E5%B9%B8%E7%A6%8F%E6%84%9F",
-    "timestamp": "2026-07-01T15:32:23.377Z",
     "strategy": ".content-card__main"
   }
 ];
