@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-02T14:35:49.654Z
+// Last updated: 2026-07-02T15:36:46.049Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "五年規劃丨中電提交建議書　倡電力規劃升級為戰略經濟基建",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260702/1149458948517007360694328.jpeg/j00s8GoDKvX9pwaM47jYCFfHpKCfUIamYagWgWGoFoE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60366113/%E4%BA%94%E5%B9%B4%E8%A6%8F%E5%8A%83-%E4%B8%AD%E9%9B%BB%E6%8F%90%E4%BA%A4%E5%BB%BA%E8%AD%B0%E6%9B%B8-%E5%80%A1%E9%9B%BB%E5%8A%9B%E8%A6%8F%E5%8A%83%E5%8D%87%E7%B4%9A%E7%82%BA%E6%88%B0%E7%95%A5%E7%B6%93%E6%BF%9F%E5%9F%BA%E5%BB%BA",
+    "timestamp": "2026-07-02T15:36:46.049Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "47歲椎名林檎再爆不倫戀　酒店密會細7歲已婚經濟學家成田悠輔",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260701/1149127444414861312071562.jpeg/oxfjFvbvwWvEOOwIlGC0ExUab5x2-isXsUQDPLFEAzw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60365752/%E5%BB%BA%E9%BB%A8105%E5%91%A8%E5%B9%B4-%E5%94%90%E8%8B%B1%E5%B9%B4-%E5%9C%A8%E4%B8%AD%E5%85%B1%E5%B8%B6%E9%A0%98%E4%B8%8B%E5%9C%8B%E5%AE%B6%E5%BC%B7%E8%B5%B7%E4%BE%86-%E4%BA%BA%E6%B0%91%E6%93%81%E6%9C%89%E5%B9%B8%E7%A6%8F%E6%84%9F",
     "timestamp": "2026-07-01T15:32:23.377Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "新華社：王毅與魯比奧通電話",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260513/1131318621214216192172948.png/bh9H6nau3_QxW0UHQ9-OvVVq1bmtWBoRrnpzx656c8c?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60365746/%E6%96%B0%E8%8F%AF%E7%A4%BE-%E7%8E%8B%E6%AF%85%E8%88%87%E9%AD%AF%E6%AF%94%E5%A5%A7%E9%80%9A%E9%9B%BB%E8%A9%B1",
-    "timestamp": "2026-07-01T14:24:30.334Z",
     "strategy": ".content-card__main"
   }
 ];
