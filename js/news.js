@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-02T17:59:35.891Z
+// Last updated: 2026-07-02T18:40:42.328Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "委內瑞拉地震再有奇蹟　44歲男被困8日後從9米深廢墟救出｜有片",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260703/1149537456928854016051367.jpeg/HZMycKDOIe3cGLzfUG-N8lk3rap6ZJ1U-gxpuPoMabg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60366135/%E5%A7%94%E5%85%A7%E7%91%9E%E6%8B%89%E5%9C%B0%E9%9C%87%E5%86%8D%E6%9C%89%E5%A5%87%E8%B9%9F-44%E6%AD%B2%E7%94%B7%E8%A2%AB%E5%9B%B08%E6%97%A5%E5%BE%8C%E5%BE%9E9%E7%B1%B3%E6%B7%B1%E5%BB%A2%E5%A2%9F%E6%95%91%E5%87%BA-%E6%9C%89%E7%89%87",
+    "timestamp": "2026-07-02T18:40:42.328Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "世界盃賽程2026｜7.3直播線上看32強：葡萄牙/西班牙+7.2賽果重溫",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260702/1149193473560154112069738.jpeg/W78n8B5-4y1TEP1ssx2EYoPwEav25gNy_uSUOP7klDg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60365769/%E4%B8%96%E7%95%8C%E7%9B%83-%E9%A6%96%E7%88%BE%E8%AD%A6%E6%96%B9-%E6%8E%A5%E7%AE%A1%E8%AA%BF%E6%9F%A5%E9%9F%93%E5%9C%8B%E8%B6%B3%E5%8D%94%E4%B8%BB%E5%B8%AD%E6%B6%89%E4%B8%8D%E7%95%B6%E5%BD%B1%E9%9F%BF%E4%BB%BB%E5%91%BD%E6%B4%AA%E6%98%8E%E7%94%AB",
     "timestamp": "2026-07-01T20:30:10.544Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "太古私家車行車不穩遇截查　46歲男司機「吹爆波」涉醉駕被捕",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260702/1149180670895984640348502.jpeg/u3i2y3hUhIIu7xy5LPe3mRPAKxWMkwzCfoXVMn6F1TI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60365768/%E5%A4%AA%E5%8F%A4%E7%A7%81%E5%AE%B6%E8%BB%8A%E8%A1%8C%E8%BB%8A%E4%B8%8D%E7%A9%A9%E9%81%87%E6%88%AA%E6%9F%A5-46%E6%AD%B2%E7%94%B7%E5%8F%B8%E6%A9%9F-%E5%90%B9%E7%88%86%E6%B3%A2-%E6%B6%89%E9%86%89%E9%A7%95%E8%A2%AB%E6%8D%95",
-    "timestamp": "2026-07-01T19:46:49.600Z",
     "strategy": ".content-card__main"
   }
 ];
