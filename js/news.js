@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-02T09:54:41.810Z
+// Last updated: 2026-07-02T12:02:09.275Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "英格蘭隊長卡尼對她一往情深　全靠她才能全力衝刺︱世界盃太太團",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260702/1149401310777315328986105.jpeg/UrfNOcDEelEt9Ed9W7_Ko3mwBMRv53CoLSe7XC0nu1w?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60366045/%E8%8B%B1%E6%A0%BC%E8%98%AD%E9%9A%8A%E9%95%B7%E5%8D%A1%E5%B0%BC%E5%B0%8D%E5%A5%B9%E4%B8%80%E5%BE%80%E6%83%85%E6%B7%B1-%E5%85%A8%E9%9D%A0%E5%A5%B9%E6%89%8D%E8%83%BD%E5%85%A8%E5%8A%9B%E8%A1%9D%E5%88%BA-%E4%B8%96%E7%95%8C%E7%9B%83%E5%A4%AA%E5%A4%AA%E5%9C%98",
+    "timestamp": "2026-07-02T12:02:09.275Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "T.O.P見面會2026香港｜門票攻略＋購票連結＋座位表",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260701/1149017327585464320083645.jpeg/VEBOrV6A2OaWY7XieWeag4D_dfQnIqZUDxV3QQ8Vd0E?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60365622/%E9%9D%9E%E4%BB%BD%E4%B9%8B%E7%BD%AA-%E6%9B%BE%E5%B1%95%E6%9C%9B%E6%BF%80%E7%BD%95%E6%BC%94%E5%A5%BD%E8%89%B2%E6%B8%A3%E7%94%B7%E5%90%91%E6%B8%B8%E5%98%89%E6%AC%A3%E6%96%BD%E6%9A%B4-%E7%8D%B2%E7%B6%B2%E6%B0%91%E6%BF%80%E8%AE%9A%E5%A5%BD%E6%88%B2",
     "timestamp": "2026-07-01T11:30:07.577Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "回歸29周年｜羅淑佩談太空館航天展焦點　一探黎家盈訓練出艙成果",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260701/1149051202164494336638195.jpeg/HD6J1sq77nZA3IsU7rJBi7cFfHczz9aWWD7A1Vg-wNU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60365695/%E5%9B%9E%E6%AD%B829%E5%91%A8%E5%B9%B4-%E7%BE%85%E6%B7%91%E4%BD%A9%E8%AB%87%E5%A4%AA%E7%A9%BA%E9%A4%A8%E8%88%AA%E5%A4%A9%E5%B1%95%E7%84%A6%E9%BB%9E-%E4%B8%80%E6%8E%A2%E9%BB%8E%E5%AE%B6%E7%9B%88%E8%A8%93%E7%B7%B4%E5%87%BA%E8%89%99%E6%88%90%E6%9E%9C",
-    "timestamp": "2026-07-01T10:12:13.588Z",
     "strategy": ".content-card__main"
   }
 ];
