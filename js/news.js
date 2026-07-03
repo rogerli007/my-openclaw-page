@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-03T14:37:29.291Z
+// Last updated: 2026-07-03T16:12:12.822Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "何英偉大讚內地退休性價比高　深圳養老20年僅需200萬大屋任租",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260703/1149837213035401216827150.jpeg/cnmrdw_ild908e3dEHC1Eh3Cg2G4vjf91zJDhNcyQ4Q?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60366289/%E4%BD%95%E8%8B%B1%E5%81%89%E5%A4%A7%E8%AE%9A%E5%85%A7%E5%9C%B0%E9%80%80%E4%BC%91%E6%80%A7%E5%83%B9%E6%AF%94%E9%AB%98-%E6%B7%B1%E5%9C%B3%E9%A4%8A%E8%80%8120%E5%B9%B4%E5%83%85%E9%9C%80200%E8%90%AC%E5%A4%A7%E5%B1%8B%E4%BB%BB%E7%A7%9F",
+    "timestamp": "2026-07-03T16:12:12.822Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "中國船員在韓國遭海警扣押期間死亡　家屬質疑延誤黃金救援時間",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260702/1149406823443337216241570.jpeg/rUrSd29nMVotQhz04U17K1lwW_oJXPbJKmcQ-ipnEPo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60366052/47%E6%AD%B2%E6%A4%8E%E5%90%8D%E6%9E%97%E6%AA%8E%E5%86%8D%E7%88%86%E4%B8%8D%E5%80%AB%E6%88%80-%E9%85%92%E5%BA%97%E5%AF%86%E6%9C%83%E7%B4%B07%E6%AD%B2%E5%B7%B2%E5%A9%9A%E7%B6%93%E6%BF%9F%E5%AD%B8%E5%AE%B6%E6%88%90%E7%94%B0%E6%82%A0%E8%BC%94",
     "timestamp": "2026-07-02T14:35:49.654Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "網紅模特Nara Smith剛生完小孩　崩潰發聲2歲女患癌：已心力交瘁",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260702/1149378780473593856689423.png/kNOtvC52xP96Up9d5hQlMxqAF8lGP_U0KPN97Cjzfew?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60365953/%E7%B6%B2%E7%B4%85%E6%A8%A1%E7%89%B9nara-smith%E5%89%9B%E7%94%9F%E5%AE%8C%E5%B0%8F%E5%AD%A9-%E5%B4%A9%E6%BD%B0%E7%99%BC%E8%81%B22%E6%AD%B2%E5%A5%B3%E6%82%A3%E7%99%8C-%E5%B7%B2%E5%BF%83%E5%8A%9B%E4%BA%A4%E7%98%81",
-    "timestamp": "2026-07-02T13:41:43.034Z",
     "strategy": ".content-card__main"
   }
 ];
