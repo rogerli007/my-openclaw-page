@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-03T20:37:55.040Z
+// Last updated: 2026-07-03T21:15:38.054Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "世界盃2026｜埃及激戰120分鐘1:1和澳洲　互設十二碼全中淘汰對手",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260704/1149942823273893888603491.jpeg/3Up-eAgW9BseKqxloBl2GdgbYVX5VULBuQ5FwLkORcA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60366497/%E4%B8%96%E7%95%8C%E7%9B%832026-%E5%9F%83%E5%8F%8A%E6%BF%80%E6%88%B0120%E5%88%86%E9%90%981-1%E5%92%8C%E6%BE%B3%E6%B4%B2-%E4%BA%92%E8%A8%AD%E5%8D%81%E4%BA%8C%E7%A2%BC%E5%85%A8%E4%B8%AD%E6%B7%98%E6%B1%B0%E5%B0%8D%E6%89%8B",
+    "timestamp": "2026-07-03T21:15:38.054Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "大埔淺月灣獨立屋遭爆竊　男住戶損失$80萬財物　包括卡地亞名錶",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260702/1149324087596683264268341.jpeg/8H1Xki3if3_Y9KdXtO2UuKG_v-w3lw6mJg884SYPPOE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60365178/%E4%B8%96%E7%95%8C%E7%9B%83%E8%B3%BD%E7%A8%8B2026-7-3%E7%9B%B4%E6%92%AD%E7%B7%9A%E4%B8%8A%E7%9C%8B32%E5%BC%B7-%E8%91%A1%E8%90%84%E7%89%99-%E8%A5%BF%E7%8F%AD%E7%89%99-7-2%E8%B3%BD%E6%9E%9C%E9%87%8D%E6%BA%AB",
     "timestamp": "2026-07-02T17:59:35.891Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "世界盃賽程2026｜7.3直播線上看32強：葡萄牙/西班牙+7.2賽果重溫",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260702/1149324087596683264268341.jpeg/8H1Xki3if3_Y9KdXtO2UuKG_v-w3lw6mJg884SYPPOE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60365178/%E4%B8%96%E7%95%8C%E7%9B%83%E8%B3%BD%E7%A8%8B2026-7-3%E7%9B%B4%E6%92%AD%E7%B7%9A%E4%B8%8A%E7%9C%8B32%E5%BC%B7-%E8%91%A1%E8%90%84%E7%89%99-%E8%A5%BF%E7%8F%AD%E7%89%99-7-2%E8%B3%BD%E6%9E%9C%E9%87%8D%E6%BA%AB",
-    "timestamp": "2026-07-02T17:11:10.714Z",
     "strategy": ".content-card__main"
   }
 ];
