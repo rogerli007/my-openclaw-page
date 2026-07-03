@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-03T20:04:47.130Z
+// Last updated: 2026-07-03T20:37:55.040Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "大埔淺月灣獨立屋遭爆竊　男住戶損失$80萬財物　包括卡地亞名錶",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260704/1149917993401061376607458.jpeg/FTaKXmbyEvqVqDNrrEatW1FhGL9HYNtbqKuqIZKrqiE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60366498/%E5%A4%A7%E5%9F%94%E6%B7%BA%E6%9C%88%E7%81%A3%E7%8D%A8%E7%AB%8B%E5%B1%8B%E9%81%AD%E7%88%86%E7%AB%8A-%E7%94%B7%E4%BD%8F%E6%88%B6%E6%90%8D%E5%A4%B1-80%E8%90%AC%E8%B2%A1%E7%89%A9-%E5%8C%85%E6%8B%AC%E5%8D%A1%E5%9C%B0%E4%BA%9E%E5%90%8D%E9%8C%B6",
+    "timestamp": "2026-07-03T20:37:55.040Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "大埔淺月灣獨立屋遭爆竊　男住戶損失$80萬財物　包括卡地亞名錶",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260702/1149324087596683264268341.jpeg/8H1Xki3if3_Y9KdXtO2UuKG_v-w3lw6mJg884SYPPOE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60365178/%E4%B8%96%E7%95%8C%E7%9B%83%E8%B3%BD%E7%A8%8B2026-7-3%E7%9B%B4%E6%92%AD%E7%B7%9A%E4%B8%8A%E7%9C%8B32%E5%BC%B7-%E8%91%A1%E8%90%84%E7%89%99-%E8%A5%BF%E7%8F%AD%E7%89%99-7-2%E8%B3%BD%E6%9E%9C%E9%87%8D%E6%BA%AB",
     "timestamp": "2026-07-02T17:11:10.714Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "聯合國：美國仍欠交20億美元會費　目前資金僅夠營運到8月底",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260703/1149508684330569728102349.png/wL3BtoZgA4h7v3Qe6SDjzc7fRYgrZoalPIGtxTyBrcU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60366133/%E8%81%AF%E5%90%88%E5%9C%8B-%E7%BE%8E%E5%9C%8B%E4%BB%8D%E6%AC%A0%E4%BA%A420%E5%84%84%E7%BE%8E%E5%85%83%E6%9C%83%E8%B2%BB-%E7%9B%AE%E5%89%8D%E8%B3%87%E9%87%91%E5%83%85%E5%A4%A0%E7%87%9F%E9%81%8B%E5%88%B08%E6%9C%88%E5%BA%95",
-    "timestamp": "2026-07-02T16:27:09.595Z",
     "strategy": ".content-card__main"
   }
 ];
