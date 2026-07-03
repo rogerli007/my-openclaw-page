@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-02T23:45:22.785Z
+// Last updated: 2026-07-03T02:03:29.188Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "立威廉甲狀腺癌後肺又有異狀　醫生揭3大成因　表示不必過於悲觀",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260630/1148677032196968448194308.jpeg/WhaGntayrD56I3yIk7nlhPNd-3Q1pW5BpKeUnqSnlJ4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%86%AB%E5%B8%ABEasy/60364237/%E7%AB%8B%E5%A8%81%E5%BB%89%E7%94%B2%E7%8B%80%E8%85%BA%E7%99%8C%E5%BE%8C%E8%82%BA%E5%8F%88%E6%9C%89%E7%95%B0%E7%8B%80-%E9%86%AB%E7%94%9F%E6%8F%AD3%E5%A4%A7%E6%88%90%E5%9B%A0-%E8%A1%A8%E7%A4%BA%E4%B8%8D%E5%BF%85%E9%81%8E%E6%96%BC%E6%82%B2%E8%A7%80",
+    "timestamp": "2026-07-03T02:03:29.188Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "戰爭的未來：強國能戰不能勝？｜Jack Talk・去片",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260702/1149299126534410240985167.jpeg/KGK2cTaDuCbQR5FWcsYR7CxzQOoEUY8vsJtj07CbY9M?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60365795/%E9%90%B5%E6%8B%B3%E6%95%99%E8%82%B2-%E8%A7%B8%E6%B3%95%E5%B0%91%E5%B9%B4%E7%9C%9F%E5%AF%A6%E7%89%88-%E9%9F%93%E5%B0%8F%E5%AD%B8%E7%94%9F%E7%B6%B2%E5%90%A7%E5%81%B7%E9%8C%A2%E5%BE%8C%E5%B0%8Dcctv%E9%9E%A0%E8%BA%AC%E6%8C%91%E9%87%81",
     "timestamp": "2026-07-02T03:23:33.276Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美貿易代表：美國決定不續簽美墨加協定　改為每年審查",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20251208/1074655474495787008038965.jpeg/-wOg0YjDsmPZdo4OIo7mcCuOROgMszx1c_ohJHP6ISQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60365792/%E7%BE%8E%E8%B2%BF%E6%98%93%E4%BB%A3%E8%A1%A8-%E7%BE%8E%E5%9C%8B%E6%B1%BA%E5%AE%9A%E4%B8%8D%E7%BA%8C%E7%B0%BD%E7%BE%8E%E5%A2%A8%E5%8A%A0%E5%8D%94%E5%AE%9A-%E6%94%B9%E7%82%BA%E6%AF%8F%E5%B9%B4%E5%AF%A9%E6%9F%A5",
-    "timestamp": "2026-07-02T02:02:44.234Z",
     "strategy": ".content-card__main"
   }
 ];
