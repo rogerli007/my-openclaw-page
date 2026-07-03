@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-03T22:42:39.203Z
+// Last updated: 2026-07-03T23:14:29.001Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "新蒲崗私家車「頭搖又尾擺」　警截查揭31歲男司機酒駕　當場拘捕",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260704/1149969426783670272974635.jpeg/IkBmWNCKPETVlKHWtzwQHQZErexkV5iyEoQ7ECiEOxA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60366507/%E6%96%B0%E8%92%B2%E5%B4%97%E7%A7%81%E5%AE%B6%E8%BB%8A-%E9%A0%AD%E6%90%96%E5%8F%88%E5%B0%BE%E6%93%BA-%E8%AD%A6%E6%88%AA%E6%9F%A5%E6%8F%AD31%E6%AD%B2%E7%94%B7%E5%8F%B8%E6%A9%9F%E9%85%92%E9%A7%95-%E7%95%B6%E5%A0%B4%E6%8B%98%E6%8D%95",
+    "timestamp": "2026-07-03T23:14:29.001Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "新蒲崗毒品快餐車避路障駛走　再遇路障避無可避　警檢毒品拘司機",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260703/1149578169087430656054178.jpeg/ViCIyNBP0NccZaY-UHl_Wo_x0ZBCy3qDhCKlzIQipcw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60366142/%E4%B8%96%E7%95%8C%E7%9B%832026-%E8%A5%BF%E7%8F%AD%E7%89%993-0%E8%BC%95%E5%8F%96%E5%A5%A7%E5%9C%B0%E5%88%A9-%E5%A5%A7%E8%80%B6%E6%B2%99%E5%B7%B4%E7%88%BE%E8%B5%B7%E5%AD%96%E8%BA%8B%E8%BA%AB16%E5%BC%B7",
     "timestamp": "2026-07-02T21:46:55.915Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "凱特王妃精神奕奕亮相溫網　親自為球迷派飛與梅利一齊觀賽｜有片",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260703/1149567301561880576360951.jpeg/RhGq9lt2l0rb89grRSe5cJ_YVVvFk5e9C0tYoQtLWKE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60366140/%E5%87%B1%E7%89%B9%E7%8E%8B%E5%A6%83%E7%B2%BE%E7%A5%9E%E5%A5%95%E5%A5%95%E4%BA%AE%E7%9B%B8%E6%BA%AB%E7%B6%B2-%E8%A6%AA%E8%87%AA%E7%82%BA%E7%90%83%E8%BF%B7%E6%B4%BE%E9%A3%9B%E8%88%87%E6%A2%85%E5%88%A9%E4%B8%80%E9%BD%8A%E8%A7%80%E8%B3%BD-%E6%9C%89%E7%89%87",
-    "timestamp": "2026-07-02T20:37:57.034Z",
     "strategy": ".content-card__main"
   }
 ];
