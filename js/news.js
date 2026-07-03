@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-03T21:45:06.222Z
+// Last updated: 2026-07-03T22:15:15.750Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "日本22歲女交友App騙7旬漢42萬日圓　事後扮母親發自己死訊｜有片",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260704/1149954873169547264746231.png/EnAN_AOrVvnrMpsma3sdq7ojLwlWcuOAQShJy0EoScs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60366502/%E6%97%A5%E6%9C%AC22%E6%AD%B2%E5%A5%B3%E4%BA%A4%E5%8F%8Bapp%E9%A8%997%E6%97%AC%E6%BC%A242%E8%90%AC%E6%97%A5%E5%9C%93-%E4%BA%8B%E5%BE%8C%E6%89%AE%E6%AF%8D%E8%A6%AA%E7%99%BC%E8%87%AA%E5%B7%B1%E6%AD%BB%E8%A8%8A-%E6%9C%89%E7%89%87",
+    "timestamp": "2026-07-03T22:15:15.750Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "天水圍天晴邨男子猝死倒斃屋內　朋友上門探訪聞異味揭發",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260703/1149546247737053184417938.jpeg/VAstBzN9ciuCeBpptIgzwaJumCTRvOMsZmwgtmZsILY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60366137/%E9%A6%99%E6%B8%AF%E4%BB%B2%E8%A3%81%E5%93%A1%E6%AF%8F%E5%B9%B4%E7%8F%A0%E6%B5%B7%E8%99%95%E7%90%86%E7%99%BE%E5%AE%97%E4%BB%B2%E8%A3%81%E6%A1%88-%E7%8E%8B%E6%B0%B8%E6%84%B7-%E5%8A%A9%E5%88%86%E4%BA%AB%E5%9C%8B%E9%9A%9B%E5%95%86%E4%BA%8B%E7%B6%93%E9%A9%97",
     "timestamp": "2026-07-02T19:17:03.679Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "委內瑞拉地震再有奇蹟　44歲男被困8日後從9米深廢墟救出｜有片",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260703/1149537456928854016051367.jpeg/HZMycKDOIe3cGLzfUG-N8lk3rap6ZJ1U-gxpuPoMabg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60366135/%E5%A7%94%E5%85%A7%E7%91%9E%E6%8B%89%E5%9C%B0%E9%9C%87%E5%86%8D%E6%9C%89%E5%A5%87%E8%B9%9F-44%E6%AD%B2%E7%94%B7%E8%A2%AB%E5%9B%B08%E6%97%A5%E5%BE%8C%E5%BE%9E9%E7%B1%B3%E6%B7%B1%E5%BB%A2%E5%A2%9F%E6%95%91%E5%87%BA-%E6%9C%89%E7%89%87",
-    "timestamp": "2026-07-02T18:40:42.328Z",
     "strategy": ".content-card__main"
   }
 ];
