@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-03T03:25:23.468Z
+// Last updated: 2026-07-03T08:38:18.008Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "中美AI角力｜阿里據報從下周五起　禁員工使用Anthropic AI模型",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260613/1142402037980336128205169.jpeg/QYnodJuqofNMgA8hymW3HLdqvprghxaSr0-R769Pke8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60366367/%E4%B8%AD%E7%BE%8Eai%E8%A7%92%E5%8A%9B-%E9%98%BF%E9%87%8C%E6%93%9A%E5%A0%B1%E5%BE%9E%E4%B8%8B%E5%91%A8%E4%BA%94%E8%B5%B7-%E7%A6%81%E5%93%A1%E5%B7%A5%E4%BD%BF%E7%94%A8anthropic-ai%E6%A8%A1%E5%9E%8B",
+    "timestamp": "2026-07-03T08:38:18.008Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "公屋鐵閘木門鎖位相反　房署稱涉六邨用摺閘　逾八成戶稱毋須改動",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260702/1149376267393437696123407.jpeg/OrCoClSUrAQ_Vb_LEs_8GYHhmgXYG67j8gzievIM4no?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%A3%9F%E7%8E%A9%E8%B2%B7/60365817/%E6%89%93%E9%A2%A8-%E5%A4%A9%E6%96%87%E5%8F%B0%E8%A9%95%E4%BC%B0%E5%91%A8%E4%BA%94%E7%99%BC3%E8%99%9F%E6%B3%A2-%E8%A5%AA%E6%BF%95%E9%80%8F%E6%80%8E%E8%BE%A6-%E5%B0%88%E5%AE%B6%E6%95%99%E7%94%A8%E6%B0%B4%E6%A8%BD1%E5%B0%8F%E6%99%82%E5%85%A8%E4%B9%BE",
     "timestamp": "2026-07-02T07:48:06.334Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "DSE放榜2026｜JUPAS改選科計分策略、各科比重及入學要求一覽",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260414/1120753108268355584465209.jpeg/yXSIM4mL_4SQFEtacjiqUgWQ4Zhj387fO7l3rDu5d6w?v=w1920r16_9",
-    "url": "https://www.hk01.com/DSE%E5%B0%88%E5%8D%80/893474/dse%E8%A8%88%E5%88%86-5-%E5%88%86%E6%95%B8%E6%98%AF-%E4%B8%80%E6%96%87%E7%9C%8B%E6%B8%85%E8%A8%88%E5%88%86%E6%96%B9%E6%B3%95-%E5%90%84%E7%A7%91%E6%AF%94%E9%87%8D%E5%8F%8A%E5%85%A5%E5%AD%B8%E8%A6%81%E6%B1%82",
-    "timestamp": "2026-07-02T06:25:29.276Z",
     "strategy": ".content-card__main"
   }
 ];
