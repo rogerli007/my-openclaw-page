@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-03T09:56:32.724Z
+// Last updated: 2026-07-03T11:56:08.412Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "王丹妮拍全英對白劇《Coolie》　與張孝全演夫妻靠意粉「傳情」",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260703/1149786398232940544612340.jpeg/cdbwFR-Vv8ziAANRZlIcTE3VGHF2aaO_t6AiQLegIkA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60366433/%E7%8E%8B%E4%B8%B9%E5%A6%AE%E6%8B%8D%E5%85%A8%E8%8B%B1%E5%B0%8D%E7%99%BD%E5%8A%87-coolie-%E8%88%87%E5%BC%B5%E5%AD%9D%E5%85%A8%E6%BC%94%E5%A4%AB%E5%A6%BB%E9%9D%A0%E6%84%8F%E7%B2%89-%E5%82%B3%E6%83%85",
+    "timestamp": "2026-07-03T11:56:08.412Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "黃錦輝辭職｜監委會續調查？　程序列明不考慮針對前議員投訴",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260702/1149401310777315328986105.jpeg/UrfNOcDEelEt9Ed9W7_Ko3mwBMRv53CoLSe7XC0nu1w?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60366045/%E8%8B%B1%E6%A0%BC%E8%98%AD%E9%9A%8A%E9%95%B7%E5%8D%A1%E5%B0%BC%E5%B0%8D%E5%A5%B9%E4%B8%80%E5%BE%80%E6%83%85%E6%B7%B1-%E5%85%A8%E9%9D%A0%E5%A5%B9%E6%89%8D%E8%83%BD%E5%85%A8%E5%8A%9B%E8%A1%9D%E5%88%BA-%E4%B8%96%E7%95%8C%E7%9B%83%E5%A4%AA%E5%A4%AA%E5%9C%98",
     "timestamp": "2026-07-02T12:02:09.275Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "T.O.P見面會2026香港｜門票攻略＋購票連結＋座位表",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260702/1149360153032658944316274.jpeg/aHQmI1FjetCv33U_RJEiaQHOuwVLfYY_hX1XK4V9Vys?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60365940/t-o-p%E8%A6%8B%E9%9D%A2%E6%9C%832026%E9%A6%99%E6%B8%AF-%E9%96%80%E7%A5%A8%E6%94%BB%E7%95%A5-%E8%B3%BC%E7%A5%A8%E9%80%A3%E7%B5%90-%E5%BA%A7%E4%BD%8D%E8%A1%A8",
-    "timestamp": "2026-07-02T09:54:41.810Z",
     "strategy": ".content-card__main"
   }
 ];
