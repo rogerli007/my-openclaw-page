@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-03T11:56:08.412Z
+// Last updated: 2026-07-03T14:37:29.291Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "中國船員在韓國遭海警扣押期間死亡　家屬質疑延誤黃金救援時間",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20230611/744561330194747392057324.jpeg/oMvLjYHU0LuqnIYMeo79K5gDXgoGsKgVUEd8i1BHfIs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60366482/%E4%B8%AD%E5%9C%8B%E8%88%B9%E5%93%A1%E5%9C%A8%E9%9F%93%E5%9C%8B%E9%81%AD%E6%B5%B7%E8%AD%A6%E6%89%A3%E6%8A%BC%E6%9C%9F%E9%96%93%E6%AD%BB%E4%BA%A1-%E5%AE%B6%E5%B1%AC%E8%B3%AA%E7%96%91%E5%BB%B6%E8%AA%A4%E9%BB%83%E9%87%91%E6%95%91%E6%8F%B4%E6%99%82%E9%96%93",
+    "timestamp": "2026-07-03T14:37:29.291Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "王丹妮拍全英對白劇《Coolie》　與張孝全演夫妻靠意粉「傳情」",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260702/1149378780473593856689423.png/kNOtvC52xP96Up9d5hQlMxqAF8lGP_U0KPN97Cjzfew?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60365953/%E7%B6%B2%E7%B4%85%E6%A8%A1%E7%89%B9nara-smith%E5%89%9B%E7%94%9F%E5%AE%8C%E5%B0%8F%E5%AD%A9-%E5%B4%A9%E6%BD%B0%E7%99%BC%E8%81%B22%E6%AD%B2%E5%A5%B3%E6%82%A3%E7%99%8C-%E5%B7%B2%E5%BF%83%E5%8A%9B%E4%BA%A4%E7%98%81",
     "timestamp": "2026-07-02T13:41:43.034Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "英格蘭隊長卡尼對她一往情深　全靠她才能全力衝刺︱世界盃太太團",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260702/1149401310777315328986105.jpeg/UrfNOcDEelEt9Ed9W7_Ko3mwBMRv53CoLSe7XC0nu1w?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60366045/%E8%8B%B1%E6%A0%BC%E8%98%AD%E9%9A%8A%E9%95%B7%E5%8D%A1%E5%B0%BC%E5%B0%8D%E5%A5%B9%E4%B8%80%E5%BE%80%E6%83%85%E6%B7%B1-%E5%85%A8%E9%9D%A0%E5%A5%B9%E6%89%8D%E8%83%BD%E5%85%A8%E5%8A%9B%E8%A1%9D%E5%88%BA-%E4%B8%96%E7%95%8C%E7%9B%83%E5%A4%AA%E5%A4%AA%E5%9C%98",
-    "timestamp": "2026-07-02T12:02:09.275Z",
     "strategy": ".content-card__main"
   }
 ];
