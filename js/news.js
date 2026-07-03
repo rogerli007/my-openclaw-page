@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-03T16:12:12.822Z
+// Last updated: 2026-07-03T18:15:51.155Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "尖沙咀私家車左搖右擺遇查　46歲男司機「吹波波」超標涉醉駕被捕",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260704/1149893244373438464948310.jpeg/uudg2mTvE9y1XmszfsIKKpX_G1k3xrSxGRBBCyMQQQs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60366495/%E5%B0%96%E6%B2%99%E5%92%80%E7%A7%81%E5%AE%B6%E8%BB%8A%E5%B7%A6%E6%90%96%E5%8F%B3%E6%93%BA%E9%81%87%E6%9F%A5-46%E6%AD%B2%E7%94%B7%E5%8F%B8%E6%A9%9F-%E5%90%B9%E6%B3%A2%E6%B3%A2-%E8%B6%85%E6%A8%99%E6%B6%89%E9%86%89%E9%A7%95%E8%A2%AB%E6%8D%95",
+    "timestamp": "2026-07-03T18:15:51.155Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "何英偉大讚內地退休性價比高　深圳養老20年僅需200萬大屋任租",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260702/1149458948517007360694328.jpeg/j00s8GoDKvX9pwaM47jYCFfHpKCfUIamYagWgWGoFoE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60366113/%E4%BA%94%E5%B9%B4%E8%A6%8F%E5%8A%83-%E4%B8%AD%E9%9B%BB%E6%8F%90%E4%BA%A4%E5%BB%BA%E8%AD%B0%E6%9B%B8-%E5%80%A1%E9%9B%BB%E5%8A%9B%E8%A6%8F%E5%8A%83%E5%8D%87%E7%B4%9A%E7%82%BA%E6%88%B0%E7%95%A5%E7%B6%93%E6%BF%9F%E5%9F%BA%E5%BB%BA",
     "timestamp": "2026-07-02T15:36:46.049Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "47歲椎名林檎再爆不倫戀　酒店密會細7歲已婚經濟學家成田悠輔",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260702/1149406823443337216241570.jpeg/rUrSd29nMVotQhz04U17K1lwW_oJXPbJKmcQ-ipnEPo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60366052/47%E6%AD%B2%E6%A4%8E%E5%90%8D%E6%9E%97%E6%AA%8E%E5%86%8D%E7%88%86%E4%B8%8D%E5%80%AB%E6%88%80-%E9%85%92%E5%BA%97%E5%AF%86%E6%9C%83%E7%B4%B07%E6%AD%B2%E5%B7%B2%E5%A9%9A%E7%B6%93%E6%BF%9F%E5%AD%B8%E5%AE%B6%E6%88%90%E7%94%B0%E6%82%A0%E8%BC%94",
-    "timestamp": "2026-07-02T14:35:49.654Z",
     "strategy": ".content-card__main"
   }
 ];
