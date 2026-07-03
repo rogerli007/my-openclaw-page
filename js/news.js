@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-03T02:03:29.188Z
+// Last updated: 2026-07-03T03:25:23.468Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "公屋鐵閘木門鎖位相反　房署稱涉六邨用摺閘　逾八成戶稱毋須改動",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260702/1149332663522430976058146.jpeg/AB4QrHFi9jrEwS0srhbEe6GkaCL84SRaDeu1vA3rtbw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60366211/%E5%85%AC%E5%B1%8B%E9%90%B5%E9%96%98%E6%9C%A8%E9%96%80%E9%8E%96%E4%BD%8D%E7%9B%B8%E5%8F%8D-%E6%88%BF%E7%BD%B2%E7%A8%B1%E6%B6%89%E5%85%AD%E9%82%A8%E7%94%A8%E6%91%BA%E9%96%98-%E9%80%BE%E5%85%AB%E6%88%90%E6%88%B6%E7%A8%B1%E6%AF%8B%E9%A0%88%E6%94%B9%E5%8B%95",
+    "timestamp": "2026-07-03T03:25:23.468Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "立威廉甲狀腺癌後肺又有異狀　醫生揭3大成因　表示不必過於悲觀",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260414/1120753108268355584465209.jpeg/yXSIM4mL_4SQFEtacjiqUgWQ4Zhj387fO7l3rDu5d6w?v=w1920r16_9",
     "url": "https://www.hk01.com/DSE%E5%B0%88%E5%8D%80/893474/dse%E8%A8%88%E5%88%86-5-%E5%88%86%E6%95%B8%E6%98%AF-%E4%B8%80%E6%96%87%E7%9C%8B%E6%B8%85%E8%A8%88%E5%88%86%E6%96%B9%E6%B3%95-%E5%90%84%E7%A7%91%E6%AF%94%E9%87%8D%E5%8F%8A%E5%85%A5%E5%AD%B8%E8%A6%81%E6%B1%82",
     "timestamp": "2026-07-02T06:25:29.276Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "「鐵拳教育」觸法少年真實版！韓小學生網吧偷錢後對CCTV鞠躬挑釁",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260702/1149299126534410240985167.jpeg/KGK2cTaDuCbQR5FWcsYR7CxzQOoEUY8vsJtj07CbY9M?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60365795/%E9%90%B5%E6%8B%B3%E6%95%99%E8%82%B2-%E8%A7%B8%E6%B3%95%E5%B0%91%E5%B9%B4%E7%9C%9F%E5%AF%A6%E7%89%88-%E9%9F%93%E5%B0%8F%E5%AD%B8%E7%94%9F%E7%B6%B2%E5%90%A7%E5%81%B7%E9%8C%A2%E5%BE%8C%E5%B0%8Dcctv%E9%9E%A0%E8%BA%AC%E6%8C%91%E9%87%81",
-    "timestamp": "2026-07-02T03:23:33.276Z",
     "strategy": ".content-card__main"
   }
 ];
