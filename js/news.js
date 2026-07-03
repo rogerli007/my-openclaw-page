@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-03T23:14:29.001Z
+// Last updated: 2026-07-03T23:42:31.479Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "AI泡沫論｜德銀撐Meta「賣算力」　或啟千億美元級AI投入變現通道",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260424/1124295752474955776946780.jpeg/My0xN_MXdJtt4aj8esa7il2AC2FY0U6CbrkeZW65HmU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60366511/ai%E6%B3%A1%E6%B2%AB%E8%AB%96-%E5%BE%B7%E9%8A%80%E6%92%90meta-%E8%B3%A3%E7%AE%97%E5%8A%9B-%E6%88%96%E5%95%9F%E5%8D%83%E5%84%84%E7%BE%8E%E5%85%83%E7%B4%9Aai%E6%8A%95%E5%85%A5%E8%AE%8A%E7%8F%BE%E9%80%9A%E9%81%93",
+    "timestamp": "2026-07-03T23:42:31.479Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "新蒲崗私家車「頭搖又尾擺」　警截查揭31歲男司機酒駕　當場拘捕",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260702/1149361651829444608582961.png/ytXglPzeq85LcjRt7m1HfuWd5oDFgz35EordIRKK3SE",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60365677/%E6%AF%94%E7%89%B9%E7%8A%AC%E5%92%AC%E6%AD%BB%E8%B7%AF%E4%BA%BA-%E7%8B%97%E4%B8%BB%E5%AB%8C%E6%89%93%E9%AC%A7%E9%98%BB%E5%A6%82%E5%BB%81%E8%A7%A3%E9%8D%8A%E9%87%80%E6%82%B2%E5%8A%87-%E7%8D%B2%E5%AE%B6%E5%B1%AC%E8%AB%92%E8%A7%A3%E5%88%A4%E7%B7%A9%E5%88%91",
     "timestamp": "2026-07-02T22:16:30.125Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "世界盃2026｜西班牙3:0輕取奧地利　奧耶沙巴爾起孖躋身16強",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260703/1149578169087430656054178.jpeg/ViCIyNBP0NccZaY-UHl_Wo_x0ZBCy3qDhCKlzIQipcw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60366142/%E4%B8%96%E7%95%8C%E7%9B%832026-%E8%A5%BF%E7%8F%AD%E7%89%993-0%E8%BC%95%E5%8F%96%E5%A5%A7%E5%9C%B0%E5%88%A9-%E5%A5%A7%E8%80%B6%E6%B2%99%E5%B7%B4%E7%88%BE%E8%B5%B7%E5%AD%96%E8%BA%8B%E8%BA%AB16%E5%BC%B7",
-    "timestamp": "2026-07-02T21:46:55.915Z",
     "strategy": ".content-card__main"
   }
 ];
