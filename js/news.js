@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-04T21:40:19.673Z
+// Last updated: 2026-07-04T22:12:07.847Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "世界盃2026｜半場巴拉圭守和法國　雙方共7次射門無一命中目標",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260705/1150318733542035456352978.jpeg/7KErq48bfQ-jNgYjJW4ueUcxjLfnYpZaMRDSlzEQ0pc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60366699/%E4%B8%96%E7%95%8C%E7%9B%832026-%E5%8D%8A%E5%A0%B4%E5%B7%B4%E6%8B%89%E5%9C%AD%E5%AE%88%E5%92%8C%E6%B3%95%E5%9C%8B-%E9%9B%99%E6%96%B9%E5%85%B17%E6%AC%A1%E5%B0%84%E9%96%80%E7%84%A1%E4%B8%80%E5%91%BD%E4%B8%AD%E7%9B%AE%E6%A8%99",
+    "timestamp": "2026-07-04T22:12:07.847Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "世界盃｜夏蘭特致敬德州牛仔look爆紅　同款T裇瞬間賣斷市｜有片",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260402/1116398062185484288062819.jpeg/iBWyc6dT1qO90N7mVMpBgLTjv46NfAGwGbXBKxm1wSs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60366528/%E8%B7%AF%E9%80%8F-%E4%BC%8A%E6%9C%97%E8%88%87%E6%97%A5%E6%9C%AC%E5%85%AC%E5%8F%B8%E6%B4%BD%E8%AB%87%E7%9F%B3%E6%B2%B9%E5%87%BA%E5%94%AE-%E7%BE%8E%E5%9C%8B%E5%88%B6%E8%A3%81%E8%B1%81%E5%85%8D%E6%88%90%E8%AE%8A%E6%95%B8",
     "timestamp": "2026-07-04T02:49:56.581Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "海盜為什麼要戴眼罩？不是方便開槍瞄準　含重要功能關鍵時能救命",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20251029/1060157539661910016018276.png/Zr6K6T__hTEDFJ88xtjaPNgMoxq1QuKDECgKGBAoChg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60236423/%E6%B5%B7%E7%9B%9C%E7%82%BA%E4%BB%80%E9%BA%BC%E8%A6%81%E6%88%B4%E7%9C%BC%E7%BD%A9-%E4%B8%8D%E6%98%AF%E6%96%B9%E4%BE%BF%E9%96%8B%E6%A7%8D%E7%9E%84%E6%BA%96-%E5%90%AB%E9%87%8D%E8%A6%81%E5%8A%9F%E8%83%BD%E9%97%9C%E9%8D%B5%E6%99%82%E8%83%BD%E6%95%91%E5%91%BD",
-    "timestamp": "2026-07-04T01:47:17.102Z",
     "strategy": ".content-card__main"
   }
 ];
