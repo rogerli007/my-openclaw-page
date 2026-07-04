@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-04T15:45:31.201Z
+// Last updated: 2026-07-04T16:41:31.228Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "王毅晤瑞典首相　冀兩國發揮互補優勢　促進互利合作",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260705/1150229659024101376506314.jpeg/nb-Vz0qqTMSsaxaZ0Zfd0ybPFz-YfGF2KJxI2iicSNo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60366687/%E7%8E%8B%E6%AF%85%E6%99%A4%E7%91%9E%E5%85%B8%E9%A6%96%E7%9B%B8-%E5%86%80%E5%85%A9%E5%9C%8B%E7%99%BC%E6%8F%AE%E4%BA%92%E8%A3%9C%E5%84%AA%E5%8B%A2-%E4%BF%83%E9%80%B2%E4%BA%92%E5%88%A9%E5%90%88%E4%BD%9C",
+    "timestamp": "2026-07-04T16:41:31.228Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "乒乓亞青賽｜港乒小將摘一銀一銅　蘇籽童U19女單力戰飲恨添銀",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260704/1149917993401061376607458.jpeg/FTaKXmbyEvqVqDNrrEatW1FhGL9HYNtbqKuqIZKrqiE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60366498/%E5%A4%A7%E5%9F%94%E6%B7%BA%E6%9C%88%E7%81%A3%E7%8D%A8%E7%AB%8B%E5%B1%8B%E9%81%AD%E7%88%86%E7%AB%8A-%E7%94%B7%E4%BD%8F%E6%88%B6%E6%90%8D%E5%A4%B1-80%E8%90%AC%E8%B2%A1%E7%89%A9-%E5%8C%85%E6%8B%AC%E5%8D%A1%E5%9C%B0%E4%BA%9E%E5%90%8D%E9%8C%B6",
     "timestamp": "2026-07-03T20:37:55.040Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "大埔淺月灣獨立屋遭爆竊　男住戶損失$80萬財物　包括卡地亞名錶",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260704/1149917993401061376607458.jpeg/FTaKXmbyEvqVqDNrrEatW1FhGL9HYNtbqKuqIZKrqiE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60366498/%E5%A4%A7%E5%9F%94%E6%B7%BA%E6%9C%88%E7%81%A3%E7%8D%A8%E7%AB%8B%E5%B1%8B%E9%81%AD%E7%88%86%E7%AB%8A-%E7%94%B7%E4%BD%8F%E6%88%B6%E6%90%8D%E5%A4%B1-80%E8%90%AC%E8%B2%A1%E7%89%A9-%E5%8C%85%E6%8B%AC%E5%8D%A1%E5%9C%B0%E4%BA%9E%E5%90%8D%E9%8C%B6",
-    "timestamp": "2026-07-03T20:04:47.130Z",
     "strategy": ".content-card__main"
   }
 ];
