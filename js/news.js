@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-04T11:51:33.946Z
+// Last updated: 2026-07-04T12:36:14.404Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "陳漢娜忽捲兩宗校園欺凌事件　網民反應兩極掀羅生門",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260704/1150157046293729280861239.png/fEsb8m0GpepYpWKhQ_-YrXD3PggxXy3q8uS2iPLktog?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60366659/%E9%99%B3%E6%BC%A2%E5%A8%9C%E5%BF%BD%E6%8D%B2%E5%85%A9%E5%AE%97%E6%A0%A1%E5%9C%92%E6%AC%BA%E5%87%8C%E4%BA%8B%E4%BB%B6-%E7%B6%B2%E6%B0%91%E5%8F%8D%E6%87%89%E5%85%A9%E6%A5%B5%E6%8E%80%E7%BE%85%E7%94%9F%E9%96%80",
+    "timestamp": "2026-07-04T12:36:14.404Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "世界盃墨西哥對英格蘭｜一度傳因雷暴改期　FIFA最終確認不提早",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260703/1149837213035401216827150.jpeg/cnmrdw_ild908e3dEHC1Eh3Cg2G4vjf91zJDhNcyQ4Q?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60366289/%E4%BD%95%E8%8B%B1%E5%81%89%E5%A4%A7%E8%AE%9A%E5%85%A7%E5%9C%B0%E9%80%80%E4%BC%91%E6%80%A7%E5%83%B9%E6%AF%94%E9%AB%98-%E6%B7%B1%E5%9C%B3%E9%A4%8A%E8%80%8120%E5%B9%B4%E5%83%85%E9%9C%80200%E8%90%AC%E5%A4%A7%E5%B1%8B%E4%BB%BB%E7%A7%9F",
     "timestamp": "2026-07-03T16:12:12.822Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "中國船員在韓國遭海警扣押期間死亡　家屬質疑延誤黃金救援時間",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20230611/744561330194747392057324.jpeg/oMvLjYHU0LuqnIYMeo79K5gDXgoGsKgVUEd8i1BHfIs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60366482/%E4%B8%AD%E5%9C%8B%E8%88%B9%E5%93%A1%E5%9C%A8%E9%9F%93%E5%9C%8B%E9%81%AD%E6%B5%B7%E8%AD%A6%E6%89%A3%E6%8A%BC%E6%9C%9F%E9%96%93%E6%AD%BB%E4%BA%A1-%E5%AE%B6%E5%B1%AC%E8%B3%AA%E7%96%91%E5%BB%B6%E8%AA%A4%E9%BB%83%E9%87%91%E6%95%91%E6%8F%B4%E6%99%82%E9%96%93",
-    "timestamp": "2026-07-03T14:37:29.291Z",
     "strategy": ".content-card__main"
   }
 ];
