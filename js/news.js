@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-03T23:42:31.479Z
+// Last updated: 2026-07-04T00:14:20.105Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "主人零成本用大水樽給貓咪自製窩！完美拿捏毛孩　附極簡製作步驟",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260703/1149792652783259648897263.jpeg/YBxsxWetYW4EymVkMQIPr8Kt4GiluylfpiI1F6YiNRc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%AF%B5%E7%89%A9/60340292/%E4%B8%BB%E4%BA%BA%E9%9B%B6%E6%88%90%E6%9C%AC%E7%94%A8%E5%A4%A7%E6%B0%B4%E6%A8%BD%E7%B5%A6%E8%B2%93%E5%92%AA%E8%87%AA%E8%A3%BD%E7%AA%A9-%E5%AE%8C%E7%BE%8E%E6%8B%BF%E6%8D%8F%E6%AF%9B%E5%AD%A9-%E9%99%84%E6%A5%B5%E7%B0%A1%E8%A3%BD%E4%BD%9C%E6%AD%A5%E9%A9%9F",
+    "timestamp": "2026-07-04T00:14:20.105Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "AI泡沫論｜德銀撐Meta「賣算力」　或啟千億美元級AI投入變現通道",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260702/1149485271658532864134657.jpeg/ZI9NVJpB5bgGuvkuJQ6w35bpHJfxsn06IiBbFSIgWxU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60365972/%E4%BD%99%E6%85%95%E8%93%AE%E8%BF%8E89%E6%AD%B2%E7%94%9F%E6%97%A5%E8%B3%88%E6%80%9D%E6%A8%82%E9%80%81%E8%9B%8B%E7%B3%95%E6%85%B6%E7%A5%9D-%E5%AE%89%E5%BE%B7%E5%B0%8A%E6%93%94%E5%BF%83%E5%AE%89%E5%8D%B1%E9%A3%9B%E7%9A%84%E5%A3%AB%E6%8E%A2%E6%9C%9B",
     "timestamp": "2026-07-02T22:45:24.132Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "比特犬咬死路人　狗主嫌打鬧阻如廁解鍊釀悲劇　獲家屬諒解判緩刑",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260702/1149361651829444608582961.png/ytXglPzeq85LcjRt7m1HfuWd5oDFgz35EordIRKK3SE",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60365677/%E6%AF%94%E7%89%B9%E7%8A%AC%E5%92%AC%E6%AD%BB%E8%B7%AF%E4%BA%BA-%E7%8B%97%E4%B8%BB%E5%AB%8C%E6%89%93%E9%AC%A7%E9%98%BB%E5%A6%82%E5%BB%81%E8%A7%A3%E9%8D%8A%E9%87%80%E6%82%B2%E5%8A%87-%E7%8D%B2%E5%AE%B6%E5%B1%AC%E8%AB%92%E8%A7%A3%E5%88%A4%E7%B7%A9%E5%88%91",
-    "timestamp": "2026-07-02T22:16:30.125Z",
     "strategy": ".content-card__main"
   }
 ];
