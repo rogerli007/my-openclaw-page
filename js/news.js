@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-04T18:40:34.439Z
+// Last updated: 2026-07-04T19:15:33.311Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "車cam｜銅鑼灣可疑車男司機穿插車群　赤足與警「捉伊人」",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260705/1150259427580841984916378.png/9eaAB4gftUGqyAXXQ46Dc0WrxUdEeE8HeX5TgXl-U4E?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60366690/%E8%BB%8Acam-%E9%8A%85%E9%91%BC%E7%81%A3%E5%8F%AF%E7%96%91%E8%BB%8A%E7%94%B7%E5%8F%B8%E6%A9%9F%E7%A9%BF%E6%8F%92%E8%BB%8A%E7%BE%A4-%E8%B5%A4%E8%B6%B3%E8%88%87%E8%AD%A6-%E6%8D%89%E4%BC%8A%E4%BA%BA",
+    "timestamp": "2026-07-04T19:15:33.311Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "車cam｜銅鑼灣可疑車男司機穿插車群　下身赤裸與警「捉伊人」",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260704/1149969426783670272974635.jpeg/IkBmWNCKPETVlKHWtzwQHQZErexkV5iyEoQ7ECiEOxA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60366507/%E6%96%B0%E8%92%B2%E5%B4%97%E7%A7%81%E5%AE%B6%E8%BB%8A-%E9%A0%AD%E6%90%96%E5%8F%88%E5%B0%BE%E6%93%BA-%E8%AD%A6%E6%88%AA%E6%9F%A5%E6%8F%AD31%E6%AD%B2%E7%94%B7%E5%8F%B8%E6%A9%9F%E9%85%92%E9%A7%95-%E7%95%B6%E5%A0%B4%E6%8B%98%E6%8D%95",
     "timestamp": "2026-07-03T23:14:29.001Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "新蒲崗毒品快餐車避路障駛走　再遇路障避無可避　警檢毒品拘司機",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260704/1149953717563297792298710.jpeg/5yRlrwaB2pk9vEIxstBIx6ApOsv86vg4R9b2aEfW9mg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60366501/%E6%96%B0%E8%92%B2%E5%B4%97%E6%AF%92%E5%93%81%E5%BF%AB%E9%A4%90%E8%BB%8A%E9%81%BF%E8%B7%AF%E9%9A%9C%E9%A7%9B%E8%B5%B0-%E5%86%8D%E9%81%87%E8%B7%AF%E9%9A%9C%E9%81%BF%E7%84%A1%E5%8F%AF%E9%81%BF-%E8%AD%A6%E6%AA%A2%E6%AF%92%E5%93%81%E6%8B%98%E5%8F%B8%E6%A9%9F",
-    "timestamp": "2026-07-03T22:42:39.203Z",
     "strategy": ".content-card__main"
   }
 ];
