@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-04T04:11:07.841Z
+// Last updated: 2026-07-04T05:34:59.016Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "天文台特別天氣提示：未來一兩小時香港廣泛地區或受大雨影響",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260704/1150066155986096128241095.jpeg/vNj8GClxDybyE9kP4AklXAD2RH0mlpBKVQLiIFUC4iA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60366570/%E5%A4%A9%E6%96%87%E5%8F%B0%E7%89%B9%E5%88%A5%E5%A4%A9%E6%B0%A3%E6%8F%90%E7%A4%BA-%E6%9C%AA%E4%BE%86%E4%B8%80%E5%85%A9%E5%B0%8F%E6%99%82%E9%A6%99%E6%B8%AF%E5%BB%A3%E6%B3%9B%E5%9C%B0%E5%8D%80%E6%88%96%E5%8F%97%E5%A4%A7%E9%9B%A8%E5%BD%B1%E9%9F%BF",
+    "timestamp": "2026-07-04T05:34:59.016Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "車Cam片｜何文田載客小巴逆線行駛　網民狠斥離譜：錯咗仲繼續行",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260702/1149332663522430976058146.jpeg/AB4QrHFi9jrEwS0srhbEe6GkaCL84SRaDeu1vA3rtbw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60366211/%E5%85%AC%E5%B1%8B%E9%90%B5%E9%96%98%E6%9C%A8%E9%96%80%E9%8E%96%E4%BD%8D%E7%9B%B8%E5%8F%8D-%E6%88%BF%E7%BD%B2%E7%A8%B1%E6%B6%89%E5%85%AD%E9%82%A8%E7%94%A8%E6%91%BA%E9%96%98-%E9%80%BE%E5%85%AB%E6%88%90%E6%88%B6%E7%A8%B1%E6%AF%8B%E9%A0%88%E6%94%B9%E5%8B%95",
     "timestamp": "2026-07-03T03:25:23.468Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "立威廉甲狀腺癌後肺又有異狀　醫生揭3大成因　表示不必過於悲觀",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260630/1148677032196968448194308.jpeg/WhaGntayrD56I3yIk7nlhPNd-3Q1pW5BpKeUnqSnlJ4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%86%AB%E5%B8%ABEasy/60364237/%E7%AB%8B%E5%A8%81%E5%BB%89%E7%94%B2%E7%8B%80%E8%85%BA%E7%99%8C%E5%BE%8C%E8%82%BA%E5%8F%88%E6%9C%89%E7%95%B0%E7%8B%80-%E9%86%AB%E7%94%9F%E6%8F%AD3%E5%A4%A7%E6%88%90%E5%9B%A0-%E8%A1%A8%E7%A4%BA%E4%B8%8D%E5%BF%85%E9%81%8E%E6%96%BC%E6%82%B2%E8%A7%80",
-    "timestamp": "2026-07-03T02:03:29.188Z",
     "strategy": ".content-card__main"
   }
 ];
