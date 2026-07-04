@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-04T12:36:14.404Z
+// Last updated: 2026-07-04T13:58:58.705Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美莎克｜直擊屯門花店玻璃門吹開粉碎　負責人嘆鮮花難保劈價速銷",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260704/1150186584855810048947812.jpeg/VZ_bSWu69Q0h_3n0cUOQZIQsJG9QZ3AeoKLgnKCi4Jw?v=w1920",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60366671/%E7%BE%8E%E8%8E%8E%E5%85%8B-%E7%9B%B4%E6%93%8A%E5%B1%AF%E9%96%80%E8%8A%B1%E5%BA%97%E7%8E%BB%E7%92%83%E9%96%80%E5%90%B9%E9%96%8B%E7%B2%89%E7%A2%8E-%E8%B2%A0%E8%B2%AC%E4%BA%BA%E5%98%86%E9%AE%AE%E8%8A%B1%E9%9B%A3%E4%BF%9D%E5%8A%88%E5%83%B9%E9%80%9F%E9%8A%B7",
+    "timestamp": "2026-07-04T13:58:58.705Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "陳漢娜忽捲兩宗校園欺凌事件　網民反應兩極掀羅生門",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260704/1149893244373438464948310.jpeg/uudg2mTvE9y1XmszfsIKKpX_G1k3xrSxGRBBCyMQQQs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60366495/%E5%B0%96%E6%B2%99%E5%92%80%E7%A7%81%E5%AE%B6%E8%BB%8A%E5%B7%A6%E6%90%96%E5%8F%B3%E6%93%BA%E9%81%87%E6%9F%A5-46%E6%AD%B2%E7%94%B7%E5%8F%B8%E6%A9%9F-%E5%90%B9%E6%B3%A2%E6%B3%A2-%E8%B6%85%E6%A8%99%E6%B6%89%E9%86%89%E9%A7%95%E8%A2%AB%E6%8D%95",
     "timestamp": "2026-07-03T18:15:51.155Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "何英偉大讚內地退休性價比高　深圳養老20年僅需200萬大屋任租",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260703/1149837213035401216827150.jpeg/cnmrdw_ild908e3dEHC1Eh3Cg2G4vjf91zJDhNcyQ4Q?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60366289/%E4%BD%95%E8%8B%B1%E5%81%89%E5%A4%A7%E8%AE%9A%E5%85%A7%E5%9C%B0%E9%80%80%E4%BC%91%E6%80%A7%E5%83%B9%E6%AF%94%E9%AB%98-%E6%B7%B1%E5%9C%B3%E9%A4%8A%E8%80%8120%E5%B9%B4%E5%83%85%E9%9C%80200%E8%90%AC%E5%A4%A7%E5%B1%8B%E4%BB%BB%E7%A7%9F",
-    "timestamp": "2026-07-03T16:12:12.822Z",
     "strategy": ".content-card__main"
   }
 ];
