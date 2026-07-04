@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-04T05:34:59.016Z
+// Last updated: 2026-07-04T07:47:19.148Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "名古屋亞運．劍擊｜港隊24人遴選名單出爐　張家朗四戰亞運爭衛冕",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260704/1150101916361953280854701.jpeg/gIQLL2MhOnqWAS6aFpbha3ES03OyZQnZE0DPthNAz7Y?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60366563/%E5%90%8D%E5%8F%A4%E5%B1%8B%E4%BA%9E%E9%81%8B-%E5%8A%8D%E6%93%8A-%E6%B8%AF%E9%9A%8A24%E4%BA%BA%E9%81%B4%E9%81%B8%E5%90%8D%E5%96%AE%E5%87%BA%E7%88%90-%E5%BC%B5%E5%AE%B6%E6%9C%97%E5%9B%9B%E6%88%B0%E4%BA%9E%E9%81%8B%E7%88%AD%E8%A1%9B%E5%86%95",
+    "timestamp": "2026-07-04T07:47:19.148Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "天文台特別天氣提示：未來一兩小時香港廣泛地區或受大雨影響",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260613/1142402037980336128205169.jpeg/QYnodJuqofNMgA8hymW3HLdqvprghxaSr0-R769Pke8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60366367/%E4%B8%AD%E7%BE%8Eai%E8%A7%92%E5%8A%9B-%E9%98%BF%E9%87%8C%E6%93%9A%E5%A0%B1%E5%BE%9E%E4%B8%8B%E5%91%A8%E4%BA%94%E8%B5%B7-%E7%A6%81%E5%93%A1%E5%B7%A5%E4%BD%BF%E7%94%A8anthropic-ai%E6%A8%A1%E5%9E%8B",
     "timestamp": "2026-07-03T08:38:18.008Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "公屋鐵閘木門鎖位相反　房署稱涉六邨用摺閘　逾八成戶稱毋須改動",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260702/1149332663522430976058146.jpeg/AB4QrHFi9jrEwS0srhbEe6GkaCL84SRaDeu1vA3rtbw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60366211/%E5%85%AC%E5%B1%8B%E9%90%B5%E9%96%98%E6%9C%A8%E9%96%80%E9%8E%96%E4%BD%8D%E7%9B%B8%E5%8F%8D-%E6%88%BF%E7%BD%B2%E7%A8%B1%E6%B6%89%E5%85%AD%E9%82%A8%E7%94%A8%E6%91%BA%E9%96%98-%E9%80%BE%E5%85%AB%E6%88%90%E6%88%B6%E7%A8%B1%E6%AF%8B%E9%A0%88%E6%94%B9%E5%8B%95",
-    "timestamp": "2026-07-03T03:25:23.468Z",
     "strategy": ".content-card__main"
   }
 ];
