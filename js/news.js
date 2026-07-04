@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-04T20:41:43.142Z
+// Last updated: 2026-07-04T21:13:43.414Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "有片│港鐵男女MMA！短裙女嚎哭打到走光　男被壓制逃跑　結局慘了",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260702/1149413735652134912136975.jpeg/0g0bZqBEG79b_uUkX17qotm7OTdv1m818rcCWfK3Alk",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60365762/%E6%9C%89%E7%89%87-%E6%B8%AF%E9%90%B5%E7%94%B7%E5%A5%B3mma-%E7%9F%AD%E8%A3%99%E5%A5%B3%E5%9A%8E%E5%93%AD%E6%89%93%E5%88%B0%E8%B5%B0%E5%85%89-%E7%94%B7%E8%A2%AB%E5%A3%93%E5%88%B6%E9%80%83%E8%B7%91-%E7%B5%90%E5%B1%80%E6%85%98%E4%BA%86",
+    "timestamp": "2026-07-04T21:13:43.414Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "伊朗預計1500萬人出席哈梅內伊葬禮　美媒：穆傑塔巴被勸阻出席",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260703/1149792652783259648897263.jpeg/YBxsxWetYW4EymVkMQIPr8Kt4GiluylfpiI1F6YiNRc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%AF%B5%E7%89%A9/60340292/%E4%B8%BB%E4%BA%BA%E9%9B%B6%E6%88%90%E6%9C%AC%E7%94%A8%E5%A4%A7%E6%B0%B4%E6%A8%BD%E7%B5%A6%E8%B2%93%E5%92%AA%E8%87%AA%E8%A3%BD%E7%AA%A9-%E5%AE%8C%E7%BE%8E%E6%8B%BF%E6%8D%8F%E6%AF%9B%E5%AD%A9-%E9%99%84%E6%A5%B5%E7%B0%A1%E8%A3%BD%E4%BD%9C%E6%AD%A5%E9%A9%9F",
     "timestamp": "2026-07-04T00:14:20.105Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "AI泡沫論｜德銀撐Meta「賣算力」　或啟千億美元級AI投入變現通道",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260424/1124295752474955776946780.jpeg/My0xN_MXdJtt4aj8esa7il2AC2FY0U6CbrkeZW65HmU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60366511/ai%E6%B3%A1%E6%B2%AB%E8%AB%96-%E5%BE%B7%E9%8A%80%E6%92%90meta-%E8%B3%A3%E7%AE%97%E5%8A%9B-%E6%88%96%E5%95%9F%E5%8D%83%E5%84%84%E7%BE%8E%E5%85%83%E7%B4%9Aai%E6%8A%95%E5%85%A5%E8%AE%8A%E7%8F%BE%E9%80%9A%E9%81%93",
-    "timestamp": "2026-07-03T23:42:31.479Z",
     "strategy": ".content-card__main"
   }
 ];
