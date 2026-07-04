@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-04T10:33:40.013Z
+// Last updated: 2026-07-04T11:51:33.946Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "世界盃墨西哥對英格蘭｜一度傳因雷暴改期　FIFA最終確認不提早",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260704/1150164204313907200531862.png/ejvVraAPFlTsn8Qrliphz6t7PgXsW6WwA6odWAOqHVg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60366630/%E4%B8%96%E7%95%8C%E7%9B%83%E5%A2%A8%E8%A5%BF%E5%93%A5%E5%B0%8D%E8%8B%B1%E6%A0%BC%E8%98%AD-%E4%B8%80%E5%BA%A6%E5%82%B3%E5%9B%A0%E9%9B%B7%E6%9A%B4%E6%94%B9%E6%9C%9F-fifa%E6%9C%80%E7%B5%82%E7%A2%BA%E8%AA%8D%E4%B8%8D%E6%8F%90%E6%97%A9",
+    "timestamp": "2026-07-04T11:51:33.946Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "新城三十五周年音樂會2026香港｜門票攻略＋購票連結＋座位表",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20230611/744561330194747392057324.jpeg/oMvLjYHU0LuqnIYMeo79K5gDXgoGsKgVUEd8i1BHfIs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60366482/%E4%B8%AD%E5%9C%8B%E8%88%B9%E5%93%A1%E5%9C%A8%E9%9F%93%E5%9C%8B%E9%81%AD%E6%B5%B7%E8%AD%A6%E6%89%A3%E6%8A%BC%E6%9C%9F%E9%96%93%E6%AD%BB%E4%BA%A1-%E5%AE%B6%E5%B1%AC%E8%B3%AA%E7%96%91%E5%BB%B6%E8%AA%A4%E9%BB%83%E9%87%91%E6%95%91%E6%8F%B4%E6%99%82%E9%96%93",
     "timestamp": "2026-07-03T14:37:29.291Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "王丹妮拍全英對白劇《Coolie》　與張孝全演夫妻靠意粉「傳情」",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260703/1149786398232940544612340.jpeg/cdbwFR-Vv8ziAANRZlIcTE3VGHF2aaO_t6AiQLegIkA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60366433/%E7%8E%8B%E4%B8%B9%E5%A6%AE%E6%8B%8D%E5%85%A8%E8%8B%B1%E5%B0%8D%E7%99%BD%E5%8A%87-coolie-%E8%88%87%E5%BC%B5%E5%AD%9D%E5%85%A8%E6%BC%94%E5%A4%AB%E5%A6%BB%E9%9D%A0%E6%84%8F%E7%B2%89-%E5%82%B3%E6%83%85",
-    "timestamp": "2026-07-03T11:56:08.412Z",
     "strategy": ".content-card__main"
   }
 ];
