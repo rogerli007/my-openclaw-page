@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-04T17:15:09.482Z
+// Last updated: 2026-07-04T17:42:27.203Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "伊媒：美國向多方施壓後　13國放棄出席哈梅內伊葬禮",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260705/1150239629027315712249036.jpeg/aK5vq3sUOHZuaJ1x6pjfvENZPzeF4YPgjvKq1I7yqtQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60366689/%E4%BC%8A%E5%AA%92-%E7%BE%8E%E5%9C%8B%E5%90%91%E5%A4%9A%E6%96%B9%E6%96%BD%E5%A3%93%E5%BE%8C-13%E5%9C%8B%E6%94%BE%E6%A3%84%E5%87%BA%E5%B8%AD%E5%93%88%E6%A2%85%E5%85%A7%E4%BC%8A%E8%91%AC%E7%A6%AE",
+    "timestamp": "2026-07-04T17:42:27.203Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "伊媒：美國向多方施壓後　13國放棄出席哈梅內伊葬禮",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260704/1149942505337262080839745.jpeg/1ajEqE1dakn8w7ybWXATXteKgctUxIjlIyJboSMiW6E?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60366500/%E5%A4%A9%E6%B0%B4%E5%9C%8D%E5%A4%A9%E6%99%B4%E9%82%A8%E7%94%B7%E5%AD%90%E7%8C%9D%E6%AD%BB%E5%80%92%E6%96%83%E5%B1%8B%E5%85%A7-%E6%9C%8B%E5%8F%8B%E4%B8%8A%E9%96%80%E6%8E%A2%E8%A8%AA%E8%81%9E%E7%95%B0%E5%91%B3%E6%8F%AD%E7%99%BC",
     "timestamp": "2026-07-03T21:45:06.222Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "世界盃2026｜埃及激戰120分鐘1:1和澳洲　互設十二碼全中淘汰對手",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260704/1149942823273893888603491.jpeg/3Up-eAgW9BseKqxloBl2GdgbYVX5VULBuQ5FwLkORcA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60366497/%E4%B8%96%E7%95%8C%E7%9B%832026-%E5%9F%83%E5%8F%8A%E6%BF%80%E6%88%B0120%E5%88%86%E9%90%981-1%E5%92%8C%E6%BE%B3%E6%B4%B2-%E4%BA%92%E8%A8%AD%E5%8D%81%E4%BA%8C%E7%A2%BC%E5%85%A8%E4%B8%AD%E6%B7%98%E6%B1%B0%E5%B0%8D%E6%89%8B",
-    "timestamp": "2026-07-03T21:15:38.054Z",
     "strategy": ".content-card__main"
   }
 ];
