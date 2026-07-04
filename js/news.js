@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-04T02:49:56.581Z
+// Last updated: 2026-07-04T04:11:07.841Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "車Cam片｜何文田載客小巴逆線行駛　網民狠斥離譜：錯咗仲繼續行",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260703/1149695969642680320420975.jpeg/Jt8XovCrlQlRLrtYr-bvSpBASuvzhefBejikFno4pBY",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60366055/%E8%BB%8Acam%E7%89%87-%E4%BD%95%E6%96%87%E7%94%B0%E8%BC%89%E5%AE%A2%E5%B0%8F%E5%B7%B4%E9%80%86%E7%B7%9A%E8%A1%8C%E9%A7%9B-%E7%B6%B2%E6%B0%91%E7%8B%A0%E6%96%A5%E9%9B%A2%E8%AD%9C-%E9%8C%AF%E5%92%97%E4%BB%B2%E7%B9%BC%E7%BA%8C%E8%A1%8C",
+    "timestamp": "2026-07-04T04:11:07.841Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "路透：伊朗與日本公司洽談石油出售　美國制裁豁免成變數",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260630/1148677032196968448194308.jpeg/WhaGntayrD56I3yIk7nlhPNd-3Q1pW5BpKeUnqSnlJ4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%86%AB%E5%B8%ABEasy/60364237/%E7%AB%8B%E5%A8%81%E5%BB%89%E7%94%B2%E7%8B%80%E8%85%BA%E7%99%8C%E5%BE%8C%E8%82%BA%E5%8F%88%E6%9C%89%E7%95%B0%E7%8B%80-%E9%86%AB%E7%94%9F%E6%8F%AD3%E5%A4%A7%E6%88%90%E5%9B%A0-%E8%A1%A8%E7%A4%BA%E4%B8%8D%E5%BF%85%E9%81%8E%E6%96%BC%E6%82%B2%E8%A7%80",
     "timestamp": "2026-07-03T02:03:29.188Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "戰爭的未來：強國能戰不能勝？｜Jack Talk・去片",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260702/1149364270148882432709254.jpeg/_JA9OaVR4CklowDvxkH25kQhGm1Hvm9moWQIQqFkCEI",
-    "url": "https://www.hk01.com/%E5%9C%8B%E9%9A%9B%E5%88%86%E6%9E%90/60365833/%E6%88%B0%E7%88%AD%E7%9A%84%E6%9C%AA%E4%BE%86-%E5%BC%B7%E5%9C%8B%E8%83%BD%E6%88%B0%E4%B8%8D%E8%83%BD%E5%8B%9D-jack-talk-%E5%8E%BB%E7%89%87",
-    "timestamp": "2026-07-02T23:45:22.785Z",
     "strategy": ".content-card__main"
   }
 ];
