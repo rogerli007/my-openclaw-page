@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-04T17:42:27.203Z
+// Last updated: 2026-07-04T18:19:20.841Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "伊媒：美國向多方施壓後　13國放棄出席哈梅內伊葬禮",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260705/1150239629027315712249036.jpeg/aK5vq3sUOHZuaJ1x6pjfvENZPzeF4YPgjvKq1I7yqtQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60366689/%E4%BC%8A%E5%AA%92-%E7%BE%8E%E5%9C%8B%E5%90%91%E5%A4%9A%E6%96%B9%E6%96%BD%E5%A3%93%E5%BE%8C-13%E5%9C%8B%E6%94%BE%E6%A3%84%E5%87%BA%E5%B8%AD%E5%93%88%E6%A2%85%E5%85%A7%E4%BC%8A%E8%91%AC%E7%A6%AE",
+    "timestamp": "2026-07-04T18:19:20.841Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "伊媒：美國向多方施壓後　13國放棄出席哈梅內伊葬禮",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260704/1149954873169547264746231.png/EnAN_AOrVvnrMpsma3sdq7ojLwlWcuOAQShJy0EoScs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60366502/%E6%97%A5%E6%9C%AC22%E6%AD%B2%E5%A5%B3%E4%BA%A4%E5%8F%8Bapp%E9%A8%997%E6%97%AC%E6%BC%A242%E8%90%AC%E6%97%A5%E5%9C%93-%E4%BA%8B%E5%BE%8C%E6%89%AE%E6%AF%8D%E8%A6%AA%E7%99%BC%E8%87%AA%E5%B7%B1%E6%AD%BB%E8%A8%8A-%E6%9C%89%E7%89%87",
     "timestamp": "2026-07-03T22:15:15.750Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "天水圍天晴邨男子猝死倒斃屋內　朋友上門探訪聞異味揭發",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260704/1149942505337262080839745.jpeg/1ajEqE1dakn8w7ybWXATXteKgctUxIjlIyJboSMiW6E?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60366500/%E5%A4%A9%E6%B0%B4%E5%9C%8D%E5%A4%A9%E6%99%B4%E9%82%A8%E7%94%B7%E5%AD%90%E7%8C%9D%E6%AD%BB%E5%80%92%E6%96%83%E5%B1%8B%E5%85%A7-%E6%9C%8B%E5%8F%8B%E4%B8%8A%E9%96%80%E6%8E%A2%E8%A8%AA%E8%81%9E%E7%95%B0%E5%91%B3%E6%8F%AD%E7%99%BC",
-    "timestamp": "2026-07-03T21:45:06.222Z",
     "strategy": ".content-card__main"
   }
 ];
