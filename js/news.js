@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-04T21:13:43.414Z
+// Last updated: 2026-07-04T21:40:19.673Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "世界盃｜夏蘭特致敬德州牛仔look爆紅　同款T裇瞬間賣斷市｜有片",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260705/1150306638800883712524739.jpeg/Z0Cc6QmZ4OcX4QX5jRJUNwxJK2-TbXIUtVCi3rVQot4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%92%B0%E7%90%83%E8%B6%A3%E8%81%9E/60366698/%E4%B8%96%E7%95%8C%E7%9B%83-%E5%A4%8F%E8%98%AD%E7%89%B9%E8%87%B4%E6%95%AC%E5%BE%B7%E5%B7%9E%E7%89%9B%E4%BB%94look%E7%88%86%E7%B4%85-%E5%90%8C%E6%AC%BEt%E8%A3%87%E7%9E%AC%E9%96%93%E8%B3%A3%E6%96%B7%E5%B8%82-%E6%9C%89%E7%89%87",
+    "timestamp": "2026-07-04T21:40:19.673Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "有片│港鐵男女MMA！短裙女嚎哭打到走光　男被壓制逃跑　結局慘了",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20251029/1060157539661910016018276.png/Zr6K6T__hTEDFJ88xtjaPNgMoxq1QuKDECgKGBAoChg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60236423/%E6%B5%B7%E7%9B%9C%E7%82%BA%E4%BB%80%E9%BA%BC%E8%A6%81%E6%88%B4%E7%9C%BC%E7%BD%A9-%E4%B8%8D%E6%98%AF%E6%96%B9%E4%BE%BF%E9%96%8B%E6%A7%8D%E7%9E%84%E6%BA%96-%E5%90%AB%E9%87%8D%E8%A6%81%E5%8A%9F%E8%83%BD%E9%97%9C%E9%8D%B5%E6%99%82%E8%83%BD%E6%95%91%E5%91%BD",
     "timestamp": "2026-07-04T01:47:17.102Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "主人零成本用大水樽給貓咪自製窩！完美拿捏毛孩　附極簡製作步驟",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260703/1149792652783259648897263.jpeg/YBxsxWetYW4EymVkMQIPr8Kt4GiluylfpiI1F6YiNRc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%AF%B5%E7%89%A9/60340292/%E4%B8%BB%E4%BA%BA%E9%9B%B6%E6%88%90%E6%9C%AC%E7%94%A8%E5%A4%A7%E6%B0%B4%E6%A8%BD%E7%B5%A6%E8%B2%93%E5%92%AA%E8%87%AA%E8%A3%BD%E7%AA%A9-%E5%AE%8C%E7%BE%8E%E6%8B%BF%E6%8D%8F%E6%AF%9B%E5%AD%A9-%E9%99%84%E6%A5%B5%E7%B0%A1%E8%A3%BD%E4%BD%9C%E6%AD%A5%E9%A9%9F",
-    "timestamp": "2026-07-04T00:14:20.105Z",
     "strategy": ".content-card__main"
   }
 ];
