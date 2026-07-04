@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-04T08:47:23.164Z
+// Last updated: 2026-07-04T10:33:40.013Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "新城三十五周年音樂會2026香港｜門票攻略＋購票連結＋座位表",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260704/1150128935405621248351679.jpeg/h2AMMoY2kSJLmNhvmmZE1VYylDauiUslZQ_1J2UP9Sc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60366632/%E6%96%B0%E5%9F%8E%E4%B8%89%E5%8D%81%E4%BA%94%E5%91%A8%E5%B9%B4%E9%9F%B3%E6%A8%82%E6%9C%832026%E9%A6%99%E6%B8%AF-%E9%96%80%E7%A5%A8%E6%94%BB%E7%95%A5-%E8%B3%BC%E7%A5%A8%E9%80%A3%E7%B5%90-%E5%BA%A7%E4%BD%8D%E8%A1%A8",
+    "timestamp": "2026-07-04T10:33:40.013Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "清水灣帆船訓練中心兩男女疑被螺旋槳擊中　男傷者面重創浴血送院",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260703/1149786398232940544612340.jpeg/cdbwFR-Vv8ziAANRZlIcTE3VGHF2aaO_t6AiQLegIkA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60366433/%E7%8E%8B%E4%B8%B9%E5%A6%AE%E6%8B%8D%E5%85%A8%E8%8B%B1%E5%B0%8D%E7%99%BD%E5%8A%87-coolie-%E8%88%87%E5%BC%B5%E5%AD%9D%E5%85%A8%E6%BC%94%E5%A4%AB%E5%A6%BB%E9%9D%A0%E6%84%8F%E7%B2%89-%E5%82%B3%E6%83%85",
     "timestamp": "2026-07-03T11:56:08.412Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "黃錦輝辭職｜監委會續調查？　程序列明不考慮針對前議員投訴",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260701/1148985552058454016042975.jpeg/13NaauyCzhFpzUvquFUu0VBC4JNW_CthSnm2rEp5tqw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60366408/%E9%BB%83%E9%8C%A6%E8%BC%9D%E8%BE%AD%E8%81%B7-%E7%9B%A3%E5%A7%94%E6%9C%83%E7%BA%8C%E8%AA%BF%E6%9F%A5-%E7%A8%8B%E5%BA%8F%E5%88%97%E6%98%8E%E4%B8%8D%E8%80%83%E6%85%AE%E9%87%9D%E5%B0%8D%E5%89%8D%E8%AD%B0%E5%93%A1%E6%8A%95%E8%A8%B4",
-    "timestamp": "2026-07-03T09:56:32.724Z",
     "strategy": ".content-card__main"
   }
 ];
