@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-04T18:19:20.841Z
+// Last updated: 2026-07-04T18:40:34.439Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "車cam｜銅鑼灣可疑車男司機穿插車群　下身赤裸與警「捉伊人」",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260705/1150259427580841984916378.png/9eaAB4gftUGqyAXXQ46Dc0WrxUdEeE8HeX5TgXl-U4E?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60366690/%E8%BB%8Acam-%E9%8A%85%E9%91%BC%E7%81%A3%E5%8F%AF%E7%96%91%E8%BB%8A%E7%94%B7%E5%8F%B8%E6%A9%9F%E7%A9%BF%E6%8F%92%E8%BB%8A%E7%BE%A4-%E4%B8%8B%E8%BA%AB%E8%B5%A4%E8%A3%B8%E8%88%87%E8%AD%A6-%E6%8D%89%E4%BC%8A%E4%BA%BA",
+    "timestamp": "2026-07-04T18:40:34.439Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "伊媒：美國向多方施壓後　13國放棄出席哈梅內伊葬禮",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260704/1149953717563297792298710.jpeg/5yRlrwaB2pk9vEIxstBIx6ApOsv86vg4R9b2aEfW9mg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60366501/%E6%96%B0%E8%92%B2%E5%B4%97%E6%AF%92%E5%93%81%E5%BF%AB%E9%A4%90%E8%BB%8A%E9%81%BF%E8%B7%AF%E9%9A%9C%E9%A7%9B%E8%B5%B0-%E5%86%8D%E9%81%87%E8%B7%AF%E9%9A%9C%E9%81%BF%E7%84%A1%E5%8F%AF%E9%81%BF-%E8%AD%A6%E6%AA%A2%E6%AF%92%E5%93%81%E6%8B%98%E5%8F%B8%E6%A9%9F",
     "timestamp": "2026-07-03T22:42:39.203Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "日本22歲女交友App騙7旬漢42萬日圓　事後扮母親發自己死訊｜有片",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260704/1149954873169547264746231.png/EnAN_AOrVvnrMpsma3sdq7ojLwlWcuOAQShJy0EoScs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60366502/%E6%97%A5%E6%9C%AC22%E6%AD%B2%E5%A5%B3%E4%BA%A4%E5%8F%8Bapp%E9%A8%997%E6%97%AC%E6%BC%A242%E8%90%AC%E6%97%A5%E5%9C%93-%E4%BA%8B%E5%BE%8C%E6%89%AE%E6%AF%8D%E8%A6%AA%E7%99%BC%E8%87%AA%E5%B7%B1%E6%AD%BB%E8%A8%8A-%E6%9C%89%E7%89%87",
-    "timestamp": "2026-07-03T22:15:15.750Z",
     "strategy": ".content-card__main"
   }
 ];
