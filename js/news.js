@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-04T13:58:58.705Z
+// Last updated: 2026-07-04T15:45:31.201Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "乒乓亞青賽｜港乒小將摘一銀一銅　蘇籽童U19女單力戰飲恨添銀",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260704/1150218219772973056504176.jpeg/1Q3sjiXRqDHJMzboqGFMvonvjKuYNCL-kUr6XpFK-l4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60366686/%E4%B9%92%E4%B9%93%E4%BA%9E%E9%9D%92%E8%B3%BD-%E6%B8%AF%E4%B9%92%E5%B0%8F%E5%B0%87%E6%91%98%E4%B8%80%E9%8A%80%E4%B8%80%E9%8A%85-%E8%98%87%E7%B1%BD%E7%AB%A5u19%E5%A5%B3%E5%96%AE%E5%8A%9B%E6%88%B0%E9%A3%B2%E6%81%A8%E6%B7%BB%E9%8A%80",
+    "timestamp": "2026-07-04T15:45:31.201Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美莎克｜直擊屯門花店玻璃門吹開粉碎　負責人嘆鮮花難保劈價速銷",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260704/1149917993401061376607458.jpeg/FTaKXmbyEvqVqDNrrEatW1FhGL9HYNtbqKuqIZKrqiE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60366498/%E5%A4%A7%E5%9F%94%E6%B7%BA%E6%9C%88%E7%81%A3%E7%8D%A8%E7%AB%8B%E5%B1%8B%E9%81%AD%E7%88%86%E7%AB%8A-%E7%94%B7%E4%BD%8F%E6%88%B6%E6%90%8D%E5%A4%B1-80%E8%90%AC%E8%B2%A1%E7%89%A9-%E5%8C%85%E6%8B%AC%E5%8D%A1%E5%9C%B0%E4%BA%9E%E5%90%8D%E9%8C%B6",
     "timestamp": "2026-07-03T20:04:47.130Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "尖沙咀私家車左搖右擺遇查　46歲男司機「吹波波」超標涉醉駕被捕",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260704/1149893244373438464948310.jpeg/uudg2mTvE9y1XmszfsIKKpX_G1k3xrSxGRBBCyMQQQs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60366495/%E5%B0%96%E6%B2%99%E5%92%80%E7%A7%81%E5%AE%B6%E8%BB%8A%E5%B7%A6%E6%90%96%E5%8F%B3%E6%93%BA%E9%81%87%E6%9F%A5-46%E6%AD%B2%E7%94%B7%E5%8F%B8%E6%A9%9F-%E5%90%B9%E6%B3%A2%E6%B3%A2-%E8%B6%85%E6%A8%99%E6%B6%89%E9%86%89%E9%A7%95%E8%A2%AB%E6%8D%95",
-    "timestamp": "2026-07-03T18:15:51.155Z",
     "strategy": ".content-card__main"
   }
 ];
