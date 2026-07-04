@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-04T01:47:17.102Z
+// Last updated: 2026-07-04T02:49:56.581Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "路透：伊朗與日本公司洽談石油出售　美國制裁豁免成變數",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260402/1116398062185484288062819.jpeg/iBWyc6dT1qO90N7mVMpBgLTjv46NfAGwGbXBKxm1wSs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60366528/%E8%B7%AF%E9%80%8F-%E4%BC%8A%E6%9C%97%E8%88%87%E6%97%A5%E6%9C%AC%E5%85%AC%E5%8F%B8%E6%B4%BD%E8%AB%87%E7%9F%B3%E6%B2%B9%E5%87%BA%E5%94%AE-%E7%BE%8E%E5%9C%8B%E5%88%B6%E8%A3%81%E8%B1%81%E5%85%8D%E6%88%90%E8%AE%8A%E6%95%B8",
+    "timestamp": "2026-07-04T02:49:56.581Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "海盜為什麼要戴眼罩？不是方便開槍瞄準　含重要功能關鍵時能救命",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260702/1149364270148882432709254.jpeg/_JA9OaVR4CklowDvxkH25kQhGm1Hvm9moWQIQqFkCEI",
     "url": "https://www.hk01.com/%E5%9C%8B%E9%9A%9B%E5%88%86%E6%9E%90/60365833/%E6%88%B0%E7%88%AD%E7%9A%84%E6%9C%AA%E4%BE%86-%E5%BC%B7%E5%9C%8B%E8%83%BD%E6%88%B0%E4%B8%8D%E8%83%BD%E5%8B%9D-jack-talk-%E5%8E%BB%E7%89%87",
     "timestamp": "2026-07-02T23:45:22.785Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "江蘇男2顆牙拔3個小時掛水13天！　鼻腔被拔通　院長：這很常見",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260701/1149050467813167104295840.png/XzqoXquzthJbyVJjr9OBBzufkOKh6Jpf1EKWU9RCllM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60365175/%E6%B1%9F%E8%98%87%E7%94%B72%E9%A1%86%E7%89%99%E6%8B%943%E5%80%8B%E5%B0%8F%E6%99%82%E6%8E%9B%E6%B0%B413%E5%A4%A9-%E9%BC%BB%E8%85%94%E8%A2%AB%E6%8B%94%E9%80%9A-%E9%99%A2%E9%95%B7-%E9%80%99%E5%BE%88%E5%B8%B8%E8%A6%8B",
-    "timestamp": "2026-07-02T23:15:14.872Z",
     "strategy": ".content-card__main"
   }
 ];
