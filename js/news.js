@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-04T07:47:19.148Z
+// Last updated: 2026-07-04T08:47:23.164Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "清水灣帆船訓練中心兩男女疑被螺旋槳擊中　男傷者面重創浴血送院",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260704/1150116525173116928529148.jpeg/G8xhmAYYlRDotdDN33BLlL93Ljs74Fmv6FDf1-hQ39c?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60366610/%E6%B8%85%E6%B0%B4%E7%81%A3%E5%B8%86%E8%88%B9%E8%A8%93%E7%B7%B4%E4%B8%AD%E5%BF%83%E5%85%A9%E7%94%B7%E5%A5%B3%E7%96%91%E8%A2%AB%E8%9E%BA%E6%97%8B%E6%A7%B3%E6%93%8A%E4%B8%AD-%E7%94%B7%E5%82%B7%E8%80%85%E9%9D%A2%E9%87%8D%E5%89%B5%E6%B5%B4%E8%A1%80%E9%80%81%E9%99%A2",
+    "timestamp": "2026-07-04T08:47:23.164Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "名古屋亞運．劍擊｜港隊24人遴選名單出爐　張家朗四戰亞運爭衛冕",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260701/1148985552058454016042975.jpeg/13NaauyCzhFpzUvquFUu0VBC4JNW_CthSnm2rEp5tqw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60366408/%E9%BB%83%E9%8C%A6%E8%BC%9D%E8%BE%AD%E8%81%B7-%E7%9B%A3%E5%A7%94%E6%9C%83%E7%BA%8C%E8%AA%BF%E6%9F%A5-%E7%A8%8B%E5%BA%8F%E5%88%97%E6%98%8E%E4%B8%8D%E8%80%83%E6%85%AE%E9%87%9D%E5%B0%8D%E5%89%8D%E8%AD%B0%E5%93%A1%E6%8A%95%E8%A8%B4",
     "timestamp": "2026-07-03T09:56:32.724Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "中美AI角力｜阿里據報從下周五起　禁員工使用Anthropic AI模型",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260613/1142402037980336128205169.jpeg/QYnodJuqofNMgA8hymW3HLdqvprghxaSr0-R769Pke8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60366367/%E4%B8%AD%E7%BE%8Eai%E8%A7%92%E5%8A%9B-%E9%98%BF%E9%87%8C%E6%93%9A%E5%A0%B1%E5%BE%9E%E4%B8%8B%E5%91%A8%E4%BA%94%E8%B5%B7-%E7%A6%81%E5%93%A1%E5%B7%A5%E4%BD%BF%E7%94%A8anthropic-ai%E6%A8%A1%E5%9E%8B",
-    "timestamp": "2026-07-03T08:38:18.008Z",
     "strategy": ".content-card__main"
   }
 ];
