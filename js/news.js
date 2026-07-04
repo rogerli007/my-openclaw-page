@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-04T00:14:20.105Z
+// Last updated: 2026-07-04T01:47:17.102Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "海盜為什麼要戴眼罩？不是方便開槍瞄準　含重要功能關鍵時能救命",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20251029/1060157539661910016018276.png/Zr6K6T__hTEDFJ88xtjaPNgMoxq1QuKDECgKGBAoChg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60236423/%E6%B5%B7%E7%9B%9C%E7%82%BA%E4%BB%80%E9%BA%BC%E8%A6%81%E6%88%B4%E7%9C%BC%E7%BD%A9-%E4%B8%8D%E6%98%AF%E6%96%B9%E4%BE%BF%E9%96%8B%E6%A7%8D%E7%9E%84%E6%BA%96-%E5%90%AB%E9%87%8D%E8%A6%81%E5%8A%9F%E8%83%BD%E9%97%9C%E9%8D%B5%E6%99%82%E8%83%BD%E6%95%91%E5%91%BD",
+    "timestamp": "2026-07-04T01:47:17.102Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "主人零成本用大水樽給貓咪自製窩！完美拿捏毛孩　附極簡製作步驟",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260701/1149050467813167104295840.png/XzqoXquzthJbyVJjr9OBBzufkOKh6Jpf1EKWU9RCllM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60365175/%E6%B1%9F%E8%98%87%E7%94%B72%E9%A1%86%E7%89%99%E6%8B%943%E5%80%8B%E5%B0%8F%E6%99%82%E6%8E%9B%E6%B0%B413%E5%A4%A9-%E9%BC%BB%E8%85%94%E8%A2%AB%E6%8B%94%E9%80%9A-%E9%99%A2%E9%95%B7-%E9%80%99%E5%BE%88%E5%B8%B8%E8%A6%8B",
     "timestamp": "2026-07-02T23:15:14.872Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "余慕蓮迎89歲生日賈思樂送蛋糕慶祝　安德尊擔心安危飛的士探望",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260702/1149485271658532864134657.jpeg/ZI9NVJpB5bgGuvkuJQ6w35bpHJfxsn06IiBbFSIgWxU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60365972/%E4%BD%99%E6%85%95%E8%93%AE%E8%BF%8E89%E6%AD%B2%E7%94%9F%E6%97%A5%E8%B3%88%E6%80%9D%E6%A8%82%E9%80%81%E8%9B%8B%E7%B3%95%E6%85%B6%E7%A5%9D-%E5%AE%89%E5%BE%B7%E5%B0%8A%E6%93%94%E5%BF%83%E5%AE%89%E5%8D%B1%E9%A3%9B%E7%9A%84%E5%A3%AB%E6%8E%A2%E6%9C%9B",
-    "timestamp": "2026-07-02T22:45:24.132Z",
     "strategy": ".content-card__main"
   }
 ];
