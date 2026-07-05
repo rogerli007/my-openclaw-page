@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-05T15:15:33.175Z
+// Last updated: 2026-07-05T15:48:22.384Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "盧瀚霆生日排舞老師加操「神徒」　AL:驚訝 你哋幾時變晒舞王舞后",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260705/1150576002817069056385769.jpeg/H4f7j-rIcRc0VMIOssfCPr-V1H8t1MDDIf17SiH9e0o?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60366860/%E7%9B%A7%E7%80%9A%E9%9C%86%E7%94%9F%E6%97%A5%E6%8E%92%E8%88%9E%E8%80%81%E5%B8%AB%E5%8A%A0%E6%93%8D-%E7%A5%9E%E5%BE%92-al-%E9%A9%9A%E8%A8%9D-%E4%BD%A0%E5%93%8B%E5%B9%BE%E6%99%82%E8%AE%8A%E6%99%92%E8%88%9E%E7%8E%8B%E8%88%9E%E5%90%8E",
+    "timestamp": "2026-07-05T15:48:22.384Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "挪威三對父子兵仲有對叔侄　四大家族合力挑戰巴西︱世界盃2026",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260705/1150259427580841984916378.png/9eaAB4gftUGqyAXXQ46Dc0WrxUdEeE8HeX5TgXl-U4E?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60366690/%E8%BB%8Acam-%E9%8A%85%E9%91%BC%E7%81%A3%E5%8F%AF%E7%96%91%E8%BB%8A%E7%94%B7%E5%8F%B8%E6%A9%9F%E7%A9%BF%E6%8F%92%E8%BB%8A%E7%BE%A4-%E8%B5%A4%E8%B6%B3%E8%88%87%E8%AD%A6-%E6%8D%89%E4%BC%8A%E4%BA%BA",
     "timestamp": "2026-07-04T19:15:33.311Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "車cam｜銅鑼灣可疑車男司機穿插車群　下身赤裸與警「捉伊人」",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260705/1150259427580841984916378.png/9eaAB4gftUGqyAXXQ46Dc0WrxUdEeE8HeX5TgXl-U4E?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60366690/%E8%BB%8Acam-%E9%8A%85%E9%91%BC%E7%81%A3%E5%8F%AF%E7%96%91%E8%BB%8A%E7%94%B7%E5%8F%B8%E6%A9%9F%E7%A9%BF%E6%8F%92%E8%BB%8A%E7%BE%A4-%E4%B8%8B%E8%BA%AB%E8%B5%A4%E8%A3%B8%E8%88%87%E8%AD%A6-%E6%8D%89%E4%BC%8A%E4%BA%BA",
-    "timestamp": "2026-07-04T18:40:34.439Z",
     "strategy": ".content-card__main"
   }
 ];
