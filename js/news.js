@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-05T03:21:25.196Z
+// Last updated: 2026-07-05T04:55:08.427Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "香港賽馬會乘足球　以足球八強爭勝為靈感　舉辦「八戰百勝」賽事",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260705/1150420650377089024125486.jpeg/jCp2VWjDXysP3fHs3Io1ocnvXRn_GPrP7OZMZuzmTGY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60366755/%E9%A6%99%E6%B8%AF%E8%B3%BD%E9%A6%AC%E6%9C%83%E4%B9%98%E8%B6%B3%E7%90%83-%E4%BB%A5%E8%B6%B3%E7%90%83%E5%85%AB%E5%BC%B7%E7%88%AD%E5%8B%9D%E7%82%BA%E9%9D%88%E6%84%9F-%E8%88%89%E8%BE%A6-%E5%85%AB%E6%88%B0%E7%99%BE%E5%8B%9D-%E8%B3%BD%E4%BA%8B",
+    "timestamp": "2026-07-05T04:55:08.427Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "巴士阿叔傾電話大聲爆粗！乘客勸止不果被辱罵　車廂爆罵戰累停駛",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260704/1150116525173116928529148.jpeg/G8xhmAYYlRDotdDN33BLlL93Ljs74Fmv6FDf1-hQ39c?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60366610/%E6%B8%85%E6%B0%B4%E7%81%A3%E5%B8%86%E8%88%B9%E8%A8%93%E7%B7%B4%E4%B8%AD%E5%BF%83%E5%85%A9%E7%94%B7%E5%A5%B3%E7%96%91%E8%A2%AB%E8%9E%BA%E6%97%8B%E6%A7%B3%E6%93%8A%E4%B8%AD-%E7%94%B7%E5%82%B7%E8%80%85%E9%9D%A2%E9%87%8D%E5%89%B5%E6%B5%B4%E8%A1%80%E9%80%81%E9%99%A2",
     "timestamp": "2026-07-04T08:47:23.164Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "名古屋亞運．劍擊｜港隊24人遴選名單出爐　張家朗四戰亞運爭衛冕",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260704/1150101916361953280854701.jpeg/gIQLL2MhOnqWAS6aFpbha3ES03OyZQnZE0DPthNAz7Y?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60366563/%E5%90%8D%E5%8F%A4%E5%B1%8B%E4%BA%9E%E9%81%8B-%E5%8A%8D%E6%93%8A-%E6%B8%AF%E9%9A%8A24%E4%BA%BA%E9%81%B4%E9%81%B8%E5%90%8D%E5%96%AE%E5%87%BA%E7%88%90-%E5%BC%B5%E5%AE%B6%E6%9C%97%E5%9B%9B%E6%88%B0%E4%BA%9E%E9%81%8B%E7%88%AD%E8%A1%9B%E5%86%95",
-    "timestamp": "2026-07-04T07:47:19.148Z",
     "strategy": ".content-card__main"
   }
 ];
