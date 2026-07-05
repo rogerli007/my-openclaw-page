@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-05T08:46:32.194Z
+// Last updated: 2026-07-05T09:47:27.827Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "太子集團「幕後大佬」胡小偉再度被捕　涉詐取日本永久居留權",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20251118/1067558493344501760036257.png/lLiASVJhwU_rVh-DJRi_ooVbXsQedMqMCnBFsgpwRbI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60366798/%E5%A4%AA%E5%AD%90%E9%9B%86%E5%9C%98-%E5%B9%95%E5%BE%8C%E5%A4%A7%E4%BD%AC-%E8%83%A1%E5%B0%8F%E5%81%89%E5%86%8D%E5%BA%A6%E8%A2%AB%E6%8D%95-%E6%B6%89%E8%A9%90%E5%8F%96%E6%97%A5%E6%9C%AC%E6%B0%B8%E4%B9%85%E5%B1%85%E7%95%99%E6%AC%8A",
+    "timestamp": "2026-07-05T09:47:27.827Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "世界盃｜墨西哥坐擁高原優勢　英格蘭傳用「偉哥」應對　杜慈否認",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260704/1150186584855810048947812.jpeg/VZ_bSWu69Q0h_3n0cUOQZIQsJG9QZ3AeoKLgnKCi4Jw?v=w1920",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60366671/%E7%BE%8E%E8%8E%8E%E5%85%8B-%E7%9B%B4%E6%93%8A%E5%B1%AF%E9%96%80%E8%8A%B1%E5%BA%97%E7%8E%BB%E7%92%83%E9%96%80%E5%90%B9%E9%96%8B%E7%B2%89%E7%A2%8E-%E8%B2%A0%E8%B2%AC%E4%BA%BA%E5%98%86%E9%AE%AE%E8%8A%B1%E9%9B%A3%E4%BF%9D%E5%8A%88%E5%83%B9%E9%80%9F%E9%8A%B7",
     "timestamp": "2026-07-04T13:58:58.705Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "陳漢娜忽捲兩宗校園欺凌事件　網民反應兩極掀羅生門",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260704/1150157046293729280861239.png/fEsb8m0GpepYpWKhQ_-YrXD3PggxXy3q8uS2iPLktog?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60366659/%E9%99%B3%E6%BC%A2%E5%A8%9C%E5%BF%BD%E6%8D%B2%E5%85%A9%E5%AE%97%E6%A0%A1%E5%9C%92%E6%AC%BA%E5%87%8C%E4%BA%8B%E4%BB%B6-%E7%B6%B2%E6%B0%91%E5%8F%8D%E6%87%89%E5%85%A9%E6%A5%B5%E6%8E%80%E7%BE%85%E7%94%9F%E9%96%80",
-    "timestamp": "2026-07-04T12:36:14.404Z",
     "strategy": ".content-card__main"
   }
 ];
