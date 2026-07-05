@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-05T07:44:10.560Z
+// Last updated: 2026-07-05T08:46:32.194Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "世界盃｜墨西哥坐擁高原優勢　英格蘭傳用「偉哥」應對　杜慈否認",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260702/1149172439021129728583129.jpeg/rq6CmzhdfbYjp4_K2Vp7Wyzv-NsGRhs1xBr498Qa-Pc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60366796/%E4%B8%96%E7%95%8C%E7%9B%83-%E5%A2%A8%E8%A5%BF%E5%93%A5%E5%9D%90%E6%93%81%E9%AB%98%E5%8E%9F%E5%84%AA%E5%8B%A2-%E8%8B%B1%E6%A0%BC%E8%98%AD%E5%82%B3%E7%94%A8-%E5%81%89%E5%93%A5-%E6%87%89%E5%B0%8D-%E6%9D%9C%E6%85%88%E5%90%A6%E8%AA%8D",
+    "timestamp": "2026-07-05T08:46:32.194Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "霍震寰太太陳琪琪罕見現身　曾為救子致骨盆碎裂撐拐杖仍優雅高貴",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260704/1150157046293729280861239.png/fEsb8m0GpepYpWKhQ_-YrXD3PggxXy3q8uS2iPLktog?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60366659/%E9%99%B3%E6%BC%A2%E5%A8%9C%E5%BF%BD%E6%8D%B2%E5%85%A9%E5%AE%97%E6%A0%A1%E5%9C%92%E6%AC%BA%E5%87%8C%E4%BA%8B%E4%BB%B6-%E7%B6%B2%E6%B0%91%E5%8F%8D%E6%87%89%E5%85%A9%E6%A5%B5%E6%8E%80%E7%BE%85%E7%94%9F%E9%96%80",
     "timestamp": "2026-07-04T12:36:14.404Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "世界盃墨西哥對英格蘭｜一度傳因雷暴改期　FIFA最終確認不提早",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260704/1150164204313907200531862.png/ejvVraAPFlTsn8Qrliphz6t7PgXsW6WwA6odWAOqHVg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60366630/%E4%B8%96%E7%95%8C%E7%9B%83%E5%A2%A8%E8%A5%BF%E5%93%A5%E5%B0%8D%E8%8B%B1%E6%A0%BC%E8%98%AD-%E4%B8%80%E5%BA%A6%E5%82%B3%E5%9B%A0%E9%9B%B7%E6%9A%B4%E6%94%B9%E6%9C%9F-fifa%E6%9C%80%E7%B5%82%E7%A2%BA%E8%AA%8D%E4%B8%8D%E6%8F%90%E6%97%A9",
-    "timestamp": "2026-07-04T11:51:33.946Z",
     "strategy": ".content-card__main"
   }
 ];
