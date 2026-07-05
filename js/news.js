@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-05T16:46:21.925Z
+// Last updated: 2026-07-05T17:17:37.649Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "佐敦26歲男遭警截查　檢值134萬大麻花　涉販運危險藥物被捕",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260706/1150603258109104128346097.jpeg/JNhad--nlnJfmd6WFCfQ6Hx55fYl0A3ZFGvLPhRryz4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60366866/%E4%BD%90%E6%95%A626%E6%AD%B2%E7%94%B7%E9%81%AD%E8%AD%A6%E6%88%AA%E6%9F%A5-%E6%AA%A2%E5%80%BC134%E8%90%AC%E5%A4%A7%E9%BA%BB%E8%8A%B1-%E6%B6%89%E8%B2%A9%E9%81%8B%E5%8D%B1%E9%9A%AA%E8%97%A5%E7%89%A9%E8%A2%AB%E6%8D%95",
+    "timestamp": "2026-07-05T17:17:37.649Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "世界盃賽程2026｜7.6直播線上看16強：巴西/挪威+7.5賽果重溫",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260705/1150306638800883712524739.jpeg/Z0Cc6QmZ4OcX4QX5jRJUNwxJK2-TbXIUtVCi3rVQot4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%92%B0%E7%90%83%E8%B6%A3%E8%81%9E/60366698/%E4%B8%96%E7%95%8C%E7%9B%83-%E5%A4%8F%E8%98%AD%E7%89%B9%E8%87%B4%E6%95%AC%E5%BE%B7%E5%B7%9E%E7%89%9B%E4%BB%94look%E7%88%86%E7%B4%85-%E5%90%8C%E6%AC%BEt%E8%A3%87%E7%9E%AC%E9%96%93%E8%B3%A3%E6%96%B7%E5%B8%82-%E6%9C%89%E7%89%87",
     "timestamp": "2026-07-04T21:40:19.673Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "有片│港鐵男女MMA！短裙女嚎哭打到走光　男被壓制逃跑　結局慘了",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260702/1149413735652134912136975.jpeg/0g0bZqBEG79b_uUkX17qotm7OTdv1m818rcCWfK3Alk",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60365762/%E6%9C%89%E7%89%87-%E6%B8%AF%E9%90%B5%E7%94%B7%E5%A5%B3mma-%E7%9F%AD%E8%A3%99%E5%A5%B3%E5%9A%8E%E5%93%AD%E6%89%93%E5%88%B0%E8%B5%B0%E5%85%89-%E7%94%B7%E8%A2%AB%E5%A3%93%E5%88%B6%E9%80%83%E8%B7%91-%E7%B5%90%E5%B1%80%E6%85%98%E4%BA%86",
-    "timestamp": "2026-07-04T21:13:43.414Z",
     "strategy": ".content-card__main"
   }
 ];
