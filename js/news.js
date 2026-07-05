@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-05T01:10:29.867Z
+// Last updated: 2026-07-05T03:21:25.196Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "巴士阿叔傾電話大聲爆粗！乘客勸止不果被辱罵　車廂爆罵戰累停駛",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260704/1150153771825762304815427.jpeg/BOkt2Lb44sczSW_shtw7iRPtBG9ivJG-nO2By5ztgcs",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60366545/%E5%B7%B4%E5%A3%AB%E9%98%BF%E5%8F%94%E5%82%BE%E9%9B%BB%E8%A9%B1%E5%A4%A7%E8%81%B2%E7%88%86%E7%B2%97-%E4%B9%98%E5%AE%A2%E5%8B%B8%E6%AD%A2%E4%B8%8D%E6%9E%9C%E8%A2%AB%E8%BE%B1%E7%BD%B5-%E8%BB%8A%E5%BB%82%E7%88%86%E7%BD%B5%E6%88%B0%E7%B4%AF%E5%81%9C%E9%A7%9B",
+    "timestamp": "2026-07-05T03:21:25.196Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "醫善同行｜中醫減重　標本兼治",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260704/1150101916361953280854701.jpeg/gIQLL2MhOnqWAS6aFpbha3ES03OyZQnZE0DPthNAz7Y?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60366563/%E5%90%8D%E5%8F%A4%E5%B1%8B%E4%BA%9E%E9%81%8B-%E5%8A%8D%E6%93%8A-%E6%B8%AF%E9%9A%8A24%E4%BA%BA%E9%81%B4%E9%81%B8%E5%90%8D%E5%96%AE%E5%87%BA%E7%88%90-%E5%BC%B5%E5%AE%B6%E6%9C%97%E5%9B%9B%E6%88%B0%E4%BA%9E%E9%81%8B%E7%88%AD%E8%A1%9B%E5%86%95",
     "timestamp": "2026-07-04T07:47:19.148Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "天文台特別天氣提示：未來一兩小時香港廣泛地區或受大雨影響",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260704/1150066155986096128241095.jpeg/vNj8GClxDybyE9kP4AklXAD2RH0mlpBKVQLiIFUC4iA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60366570/%E5%A4%A9%E6%96%87%E5%8F%B0%E7%89%B9%E5%88%A5%E5%A4%A9%E6%B0%A3%E6%8F%90%E7%A4%BA-%E6%9C%AA%E4%BE%86%E4%B8%80%E5%85%A9%E5%B0%8F%E6%99%82%E9%A6%99%E6%B8%AF%E5%BB%A3%E6%B3%9B%E5%9C%B0%E5%8D%80%E6%88%96%E5%8F%97%E5%A4%A7%E9%9B%A8%E5%BD%B1%E9%9F%BF",
-    "timestamp": "2026-07-04T05:34:59.016Z",
     "strategy": ".content-card__main"
   }
 ];
