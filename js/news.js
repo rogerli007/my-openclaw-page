@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-05T09:47:27.827Z
+// Last updated: 2026-07-05T10:36:33.636Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "英格蘭重遊噩夢之地　墨西哥最強堡壘至今10戰不敗︱世界盃2026",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260705/1150504163822538752542670.jpeg/1YEawtMRKRuQzWKqwLZivJfmiu2dcyFNj3RXz490V88?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60366783/%E8%8B%B1%E6%A0%BC%E8%98%AD%E9%87%8D%E9%81%8A%E5%99%A9%E5%A4%A2%E4%B9%8B%E5%9C%B0-%E5%A2%A8%E8%A5%BF%E5%93%A5%E6%9C%80%E5%BC%B7%E5%A0%A1%E5%A3%98%E8%87%B3%E4%BB%8A10%E6%88%B0%E4%B8%8D%E6%95%97-%E4%B8%96%E7%95%8C%E7%9B%832026",
+    "timestamp": "2026-07-05T10:36:33.636Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "太子集團「幕後大佬」胡小偉再度被捕　涉詐取日本永久居留權",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260704/1150218219772973056504176.jpeg/1Q3sjiXRqDHJMzboqGFMvonvjKuYNCL-kUr6XpFK-l4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60366686/%E4%B9%92%E4%B9%93%E4%BA%9E%E9%9D%92%E8%B3%BD-%E6%B8%AF%E4%B9%92%E5%B0%8F%E5%B0%87%E6%91%98%E4%B8%80%E9%8A%80%E4%B8%80%E9%8A%85-%E8%98%87%E7%B1%BD%E7%AB%A5u19%E5%A5%B3%E5%96%AE%E5%8A%9B%E6%88%B0%E9%A3%B2%E6%81%A8%E6%B7%BB%E9%8A%80",
     "timestamp": "2026-07-04T15:45:31.201Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美莎克｜直擊屯門花店玻璃門吹開粉碎　負責人嘆鮮花難保劈價速銷",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260704/1150186584855810048947812.jpeg/VZ_bSWu69Q0h_3n0cUOQZIQsJG9QZ3AeoKLgnKCi4Jw?v=w1920",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60366671/%E7%BE%8E%E8%8E%8E%E5%85%8B-%E7%9B%B4%E6%93%8A%E5%B1%AF%E9%96%80%E8%8A%B1%E5%BA%97%E7%8E%BB%E7%92%83%E9%96%80%E5%90%B9%E9%96%8B%E7%B2%89%E7%A2%8E-%E8%B2%A0%E8%B2%AC%E4%BA%BA%E5%98%86%E9%AE%AE%E8%8A%B1%E9%9B%A3%E4%BF%9D%E5%8A%88%E5%83%B9%E9%80%9F%E9%8A%B7",
-    "timestamp": "2026-07-04T13:58:58.705Z",
     "strategy": ".content-card__main"
   }
 ];
