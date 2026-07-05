@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-05T16:18:58.568Z
+// Last updated: 2026-07-05T16:46:21.925Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "世界盃賽程2026｜7.6直播線上看16強：巴西/挪威+7.5賽果重溫",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260705/1150536020593217536941280.jpeg/GrsbXzN-eZoRAbaHOkXLAmbXU-OoagLEWeOPE1njjxM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60365897/%E4%B8%96%E7%95%8C%E7%9B%83%E8%B3%BD%E7%A8%8B2026-7-6%E7%9B%B4%E6%92%AD%E7%B7%9A%E4%B8%8A%E7%9C%8B16%E5%BC%B7-%E5%B7%B4%E8%A5%BF-%E6%8C%AA%E5%A8%81-7-5%E8%B3%BD%E6%9E%9C%E9%87%8D%E6%BA%AB",
+    "timestamp": "2026-07-05T16:46:21.925Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "OPEC+宣布8月繼續增產　為連續第5個月",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260702/1149413735652134912136975.jpeg/0g0bZqBEG79b_uUkX17qotm7OTdv1m818rcCWfK3Alk",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60365762/%E6%9C%89%E7%89%87-%E6%B8%AF%E9%90%B5%E7%94%B7%E5%A5%B3mma-%E7%9F%AD%E8%A3%99%E5%A5%B3%E5%9A%8E%E5%93%AD%E6%89%93%E5%88%B0%E8%B5%B0%E5%85%89-%E7%94%B7%E8%A2%AB%E5%A3%93%E5%88%B6%E9%80%83%E8%B7%91-%E7%B5%90%E5%B1%80%E6%85%98%E4%BA%86",
     "timestamp": "2026-07-04T21:13:43.414Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "伊朗預計1500萬人出席哈梅內伊葬禮　美媒：穆傑塔巴被勸阻出席",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260705/1150287194812846080791456.jpeg/mZeDCX-h11RQ6RgWw_hl4GuW5Rd6zkKCcQ1E03ENRNM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60366694/%E4%BC%8A%E6%9C%97%E9%A0%90%E8%A8%881500%E8%90%AC%E4%BA%BA%E5%87%BA%E5%B8%AD%E5%93%88%E6%A2%85%E5%85%A7%E4%BC%8A%E8%91%AC%E7%A6%AE-%E7%BE%8E%E5%AA%92-%E7%A9%86%E5%82%91%E5%A1%94%E5%B7%B4%E8%A2%AB%E5%8B%B8%E9%98%BB%E5%87%BA%E5%B8%AD",
-    "timestamp": "2026-07-04T20:41:43.142Z",
     "strategy": ".content-card__main"
   }
 ];
