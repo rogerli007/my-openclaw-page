@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-05T20:33:01.137Z
+// Last updated: 2026-07-05T20:59:11.203Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "伊朗：穆傑塔巴任命埃傑伊續任司法總監",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260706/1150654862707396608567412.jpeg/SHZFLgu5K33mcz9hpv7rLsLDdSw6GQyvM8j9_DPI_fw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60366874/%E4%BC%8A%E6%9C%97-%E7%A9%86%E5%82%91%E5%A1%94%E5%B7%B4%E4%BB%BB%E5%91%BD%E5%9F%83%E5%82%91%E4%BC%8A%E7%BA%8C%E4%BB%BB%E5%8F%B8%E6%B3%95%E7%B8%BD%E7%9B%A3",
+    "timestamp": "2026-07-05T20:59:11.203Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "伊朗：穆傑塔巴任命埃傑伊續任司法總監",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260705/1150420650377089024125486.jpeg/jCp2VWjDXysP3fHs3Io1ocnvXRn_GPrP7OZMZuzmTGY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60366755/%E9%A6%99%E6%B8%AF%E8%B3%BD%E9%A6%AC%E6%9C%83%E4%B9%98%E8%B6%B3%E7%90%83-%E4%BB%A5%E8%B6%B3%E7%90%83%E5%85%AB%E5%BC%B7%E7%88%AD%E5%8B%9D%E7%82%BA%E9%9D%88%E6%84%9F-%E8%88%89%E8%BE%A6-%E5%85%AB%E6%88%B0%E7%99%BE%E5%8B%9D-%E8%B3%BD%E4%BA%8B",
     "timestamp": "2026-07-05T04:55:08.427Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "巴士阿叔傾電話大聲爆粗！乘客勸止不果被辱罵　車廂爆罵戰累停駛",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260704/1150153771825762304815427.jpeg/BOkt2Lb44sczSW_shtw7iRPtBG9ivJG-nO2By5ztgcs",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60366545/%E5%B7%B4%E5%A3%AB%E9%98%BF%E5%8F%94%E5%82%BE%E9%9B%BB%E8%A9%B1%E5%A4%A7%E8%81%B2%E7%88%86%E7%B2%97-%E4%B9%98%E5%AE%A2%E5%8B%B8%E6%AD%A2%E4%B8%8D%E6%9E%9C%E8%A2%AB%E8%BE%B1%E7%BD%B5-%E8%BB%8A%E5%BB%82%E7%88%86%E7%BD%B5%E6%88%B0%E7%B4%AF%E5%81%9C%E9%A7%9B",
-    "timestamp": "2026-07-05T03:21:25.196Z",
     "strategy": ".content-card__main"
   }
 ];
