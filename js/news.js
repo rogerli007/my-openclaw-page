@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-05T04:55:08.427Z
+// Last updated: 2026-07-05T06:25:36.630Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美國建國250周年煙花表演引發火災　紐約布魯克林大橋冒出濃煙",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260705/1150444308260720640543670.jpeg/Gwf52RKf2dfrKbfLxzv6b3OtW4FTMBSZ-BB4s_gQeLM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60366767/%E7%BE%8E%E5%9C%8B%E5%BB%BA%E5%9C%8B250%E5%91%A8%E5%B9%B4%E7%85%99%E8%8A%B1%E8%A1%A8%E6%BC%94%E5%BC%95%E7%99%BC%E7%81%AB%E7%81%BD-%E7%B4%90%E7%B4%84%E5%B8%83%E9%AD%AF%E5%85%8B%E6%9E%97%E5%A4%A7%E6%A9%8B%E5%86%92%E5%87%BA%E6%BF%83%E7%85%99",
+    "timestamp": "2026-07-05T06:25:36.630Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "香港賽馬會乘足球　以足球八強爭勝為靈感　舉辦「八戰百勝」賽事",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260704/1150128935405621248351679.jpeg/h2AMMoY2kSJLmNhvmmZE1VYylDauiUslZQ_1J2UP9Sc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60366632/%E6%96%B0%E5%9F%8E%E4%B8%89%E5%8D%81%E4%BA%94%E5%91%A8%E5%B9%B4%E9%9F%B3%E6%A8%82%E6%9C%832026%E9%A6%99%E6%B8%AF-%E9%96%80%E7%A5%A8%E6%94%BB%E7%95%A5-%E8%B3%BC%E7%A5%A8%E9%80%A3%E7%B5%90-%E5%BA%A7%E4%BD%8D%E8%A1%A8",
     "timestamp": "2026-07-04T10:33:40.013Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "清水灣帆船訓練中心兩男女疑被螺旋槳擊中　男傷者面重創浴血送院",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260704/1150116525173116928529148.jpeg/G8xhmAYYlRDotdDN33BLlL93Ljs74Fmv6FDf1-hQ39c?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60366610/%E6%B8%85%E6%B0%B4%E7%81%A3%E5%B8%86%E8%88%B9%E8%A8%93%E7%B7%B4%E4%B8%AD%E5%BF%83%E5%85%A9%E7%94%B7%E5%A5%B3%E7%96%91%E8%A2%AB%E8%9E%BA%E6%97%8B%E6%A7%B3%E6%93%8A%E4%B8%AD-%E7%94%B7%E5%82%B7%E8%80%85%E9%9D%A2%E9%87%8D%E5%89%B5%E6%B5%B4%E8%A1%80%E9%80%81%E9%99%A2",
-    "timestamp": "2026-07-04T08:47:23.164Z",
     "strategy": ".content-card__main"
   }
 ];
