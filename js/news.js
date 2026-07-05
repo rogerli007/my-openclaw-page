@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-05T00:13:20.452Z
+// Last updated: 2026-07-05T01:10:29.867Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "醫善同行｜中醫減重　標本兼治",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260704/1150118280766164992457982.jpeg/Hb8nVvf6SESg_MYvjOBd7dijRkV08aU-OACgNjgAoDY?v=w1920r16_9",
+    "url": "https://www.hk01.com/01%E8%AB%96%E5%A3%87/60366622/%E9%86%AB%E5%96%84%E5%90%8C%E8%A1%8C-%E4%B8%AD%E9%86%AB%E6%B8%9B%E9%87%8D-%E6%A8%99%E6%9C%AC%E5%85%BC%E6%B2%BB",
+    "timestamp": "2026-07-05T01:10:29.867Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "霸氣貓咪把牛槽當牀！遭乳牛誤咬耳仔竟若無其事　畫面引全網爆笑",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260704/1150066155986096128241095.jpeg/vNj8GClxDybyE9kP4AklXAD2RH0mlpBKVQLiIFUC4iA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60366570/%E5%A4%A9%E6%96%87%E5%8F%B0%E7%89%B9%E5%88%A5%E5%A4%A9%E6%B0%A3%E6%8F%90%E7%A4%BA-%E6%9C%AA%E4%BE%86%E4%B8%80%E5%85%A9%E5%B0%8F%E6%99%82%E9%A6%99%E6%B8%AF%E5%BB%A3%E6%B3%9B%E5%9C%B0%E5%8D%80%E6%88%96%E5%8F%97%E5%A4%A7%E9%9B%A8%E5%BD%B1%E9%9F%BF",
     "timestamp": "2026-07-04T05:34:59.016Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "車Cam片｜何文田載客小巴逆線行駛　網民狠斥離譜：錯咗仲繼續行",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260703/1149695969642680320420975.jpeg/Jt8XovCrlQlRLrtYr-bvSpBASuvzhefBejikFno4pBY",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60366055/%E8%BB%8Acam%E7%89%87-%E4%BD%95%E6%96%87%E7%94%B0%E8%BC%89%E5%AE%A2%E5%B0%8F%E5%B7%B4%E9%80%86%E7%B7%9A%E8%A1%8C%E9%A7%9B-%E7%B6%B2%E6%B0%91%E7%8B%A0%E6%96%A5%E9%9B%A2%E8%AD%9C-%E9%8C%AF%E5%92%97%E4%BB%B2%E7%B9%BC%E7%BA%8C%E8%A1%8C",
-    "timestamp": "2026-07-04T04:11:07.841Z",
     "strategy": ".content-card__main"
   }
 ];
