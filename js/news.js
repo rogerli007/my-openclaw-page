@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-05T11:23:48.135Z
+// Last updated: 2026-07-05T12:03:40.392Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "田北辰出席3場畢業禮　趕同女童影畢業相揭背後故事｜政壇諸事町",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260705/1150510093050056704140352.jpeg/DiUHwrMWi9Ckhj35KjSpVG0LAD3TuPdHes9gcnrPYHI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60366825/%E7%94%B0%E5%8C%97%E8%BE%B0%E5%87%BA%E5%B8%AD3%E5%A0%B4%E7%95%A2%E6%A5%AD%E7%A6%AE-%E8%B6%95%E5%90%8C%E5%A5%B3%E7%AB%A5%E5%BD%B1%E7%95%A2%E6%A5%AD%E7%9B%B8%E6%8F%AD%E8%83%8C%E5%BE%8C%E6%95%85%E4%BA%8B-%E6%94%BF%E5%A3%87%E8%AB%B8%E4%BA%8B%E7%94%BA",
+    "timestamp": "2026-07-05T12:03:40.392Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "內蒙古G331國道危化品車輛爆炸釀2死4傷　現場蘑菇雲沖天｜有片",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260705/1150239629027315712249036.jpeg/aK5vq3sUOHZuaJ1x6pjfvENZPzeF4YPgjvKq1I7yqtQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60366689/%E4%BC%8A%E5%AA%92-%E7%BE%8E%E5%9C%8B%E5%90%91%E5%A4%9A%E6%96%B9%E6%96%BD%E5%A3%93%E5%BE%8C-13%E5%9C%8B%E6%94%BE%E6%A3%84%E5%87%BA%E5%B8%AD%E5%93%88%E6%A2%85%E5%85%A7%E4%BC%8A%E8%91%AC%E7%A6%AE",
     "timestamp": "2026-07-04T17:15:09.482Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "王毅晤瑞典首相　冀兩國發揮互補優勢　促進互利合作",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260705/1150229659024101376506314.jpeg/nb-Vz0qqTMSsaxaZ0Zfd0ybPFz-YfGF2KJxI2iicSNo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60366687/%E7%8E%8B%E6%AF%85%E6%99%A4%E7%91%9E%E5%85%B8%E9%A6%96%E7%9B%B8-%E5%86%80%E5%85%A9%E5%9C%8B%E7%99%BC%E6%8F%AE%E4%BA%92%E8%A3%9C%E5%84%AA%E5%8B%A2-%E4%BF%83%E9%80%B2%E4%BA%92%E5%88%A9%E5%90%88%E4%BD%9C",
-    "timestamp": "2026-07-04T16:41:31.228Z",
     "strategy": ".content-card__main"
   }
 ];
