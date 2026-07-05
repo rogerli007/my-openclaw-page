@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-05T20:59:11.203Z
+// Last updated: 2026-07-05T21:56:25.619Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "世界盃｜美國前鋒巴洛根紅牌停賽暫緩　特朗普被指曾聯絡FIFA主席",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260706/1150669998339919872918723.jpeg/lwru33FIxI4CmPy6fygGLx90sq3GiUty08JsQtPCbEI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60366876/%E4%B8%96%E7%95%8C%E7%9B%83-%E7%BE%8E%E5%9C%8B%E5%89%8D%E9%8B%92%E5%B7%B4%E6%B4%9B%E6%A0%B9%E7%B4%85%E7%89%8C%E5%81%9C%E8%B3%BD%E6%9A%AB%E7%B7%A9-%E7%89%B9%E6%9C%97%E6%99%AE%E8%A2%AB%E6%8C%87%E6%9B%BE%E8%81%AF%E7%B5%A1fifa%E4%B8%BB%E5%B8%AD",
+    "timestamp": "2026-07-05T21:56:25.619Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "伊朗：穆傑塔巴任命埃傑伊續任司法總監",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260705/1150444308260720640543670.jpeg/Gwf52RKf2dfrKbfLxzv6b3OtW4FTMBSZ-BB4s_gQeLM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60366767/%E7%BE%8E%E5%9C%8B%E5%BB%BA%E5%9C%8B250%E5%91%A8%E5%B9%B4%E7%85%99%E8%8A%B1%E8%A1%A8%E6%BC%94%E5%BC%95%E7%99%BC%E7%81%AB%E7%81%BD-%E7%B4%90%E7%B4%84%E5%B8%83%E9%AD%AF%E5%85%8B%E6%9E%97%E5%A4%A7%E6%A9%8B%E5%86%92%E5%87%BA%E6%BF%83%E7%85%99",
     "timestamp": "2026-07-05T06:25:36.630Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "香港賽馬會乘足球　以足球八強爭勝為靈感　舉辦「八戰百勝」賽事",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260705/1150420650377089024125486.jpeg/jCp2VWjDXysP3fHs3Io1ocnvXRn_GPrP7OZMZuzmTGY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60366755/%E9%A6%99%E6%B8%AF%E8%B3%BD%E9%A6%AC%E6%9C%83%E4%B9%98%E8%B6%B3%E7%90%83-%E4%BB%A5%E8%B6%B3%E7%90%83%E5%85%AB%E5%BC%B7%E7%88%AD%E5%8B%9D%E7%82%BA%E9%9D%88%E6%84%9F-%E8%88%89%E8%BE%A6-%E5%85%AB%E6%88%B0%E7%99%BE%E5%8B%9D-%E8%B3%BD%E4%BA%8B",
-    "timestamp": "2026-07-05T04:55:08.427Z",
     "strategy": ".content-card__main"
   }
 ];
