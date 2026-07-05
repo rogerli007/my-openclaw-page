@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-05T12:03:40.392Z
+// Last updated: 2026-07-05T12:43:45.876Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "Lisa遭疑整鼻失敗　網瘋傳「鼻子驚人變化」對比照　討論登上熱搜",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260705/1150474575943831552189672.png/A53pIOEMGBsrJmLMdXXssB5PSKyFQIDqRkqQ4EZKkOA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60366778/lisa%E9%81%AD%E7%96%91%E6%95%B4%E9%BC%BB%E5%A4%B1%E6%95%97-%E7%B6%B2%E7%98%8B%E5%82%B3-%E9%BC%BB%E5%AD%90%E9%A9%9A%E4%BA%BA%E8%AE%8A%E5%8C%96-%E5%B0%8D%E6%AF%94%E7%85%A7-%E8%A8%8E%E8%AB%96%E7%99%BB%E4%B8%8A%E7%86%B1%E6%90%9C",
+    "timestamp": "2026-07-05T12:43:45.876Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "田北辰出席3場畢業禮　趕同女童影畢業相揭背後故事｜政壇諸事町",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260705/1150239629027315712249036.jpeg/aK5vq3sUOHZuaJ1x6pjfvENZPzeF4YPgjvKq1I7yqtQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60366689/%E4%BC%8A%E5%AA%92-%E7%BE%8E%E5%9C%8B%E5%90%91%E5%A4%9A%E6%96%B9%E6%96%BD%E5%A3%93%E5%BE%8C-13%E5%9C%8B%E6%94%BE%E6%A3%84%E5%87%BA%E5%B8%AD%E5%93%88%E6%A2%85%E5%85%A7%E4%BC%8A%E8%91%AC%E7%A6%AE",
     "timestamp": "2026-07-04T17:42:27.203Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "伊媒：美國向多方施壓後　13國放棄出席哈梅內伊葬禮",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260705/1150239629027315712249036.jpeg/aK5vq3sUOHZuaJ1x6pjfvENZPzeF4YPgjvKq1I7yqtQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60366689/%E4%BC%8A%E5%AA%92-%E7%BE%8E%E5%9C%8B%E5%90%91%E5%A4%9A%E6%96%B9%E6%96%BD%E5%A3%93%E5%BE%8C-13%E5%9C%8B%E6%94%BE%E6%A3%84%E5%87%BA%E5%B8%AD%E5%93%88%E6%A2%85%E5%85%A7%E4%BC%8A%E8%91%AC%E7%A6%AE",
-    "timestamp": "2026-07-04T17:15:09.482Z",
     "strategy": ".content-card__main"
   }
 ];
