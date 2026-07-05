@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-05T18:14:27.973Z
+// Last updated: 2026-07-05T19:51:07.538Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "北約峰會｜白宮：特朗普將晤澤連斯基　另與敘利亞總統會談",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260122/1091142253935595520302847.jpeg/XJyp8Y27k2srj93rJpWcW4GKSuhFJBnvHybzcB8m83A?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60366870/%E5%8C%97%E7%B4%84%E5%B3%B0%E6%9C%83-%E7%99%BD%E5%AE%AE-%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%87%E6%99%A4%E6%BE%A4%E9%80%A3%E6%96%AF%E5%9F%BA-%E5%8F%A6%E8%88%87%E6%95%98%E5%88%A9%E4%BA%9E%E7%B8%BD%E7%B5%B1%E6%9C%83%E8%AB%87",
+    "timestamp": "2026-07-05T19:51:07.538Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "中國人民大學：蔣方舟碩士論文經專家組調查　未發現學術不端行為",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260704/1150118280766164992457982.jpeg/Hb8nVvf6SESg_MYvjOBd7dijRkV08aU-OACgNjgAoDY?v=w1920r16_9",
     "url": "https://www.hk01.com/01%E8%AB%96%E5%A3%87/60366622/%E9%86%AB%E5%96%84%E5%90%8C%E8%A1%8C-%E4%B8%AD%E9%86%AB%E6%B8%9B%E9%87%8D-%E6%A8%99%E6%9C%AC%E5%85%BC%E6%B2%BB",
     "timestamp": "2026-07-05T01:10:29.867Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "霸氣貓咪把牛槽當牀！遭乳牛誤咬耳仔竟若無其事　畫面引全網爆笑",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260703/1149793072586952704206934.jpeg/fPmfz5AzTGB2KO5MzmCiYDt_VF3Uqn9lo92OBqPdjgY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%AF%B5%E7%89%A9/60340314/%E9%9C%B8%E6%B0%A3%E8%B2%93%E5%92%AA%E6%8A%8A%E7%89%9B%E6%A7%BD%E7%95%B6%E7%89%80-%E9%81%AD%E4%B9%B3%E7%89%9B%E8%AA%A4%E5%92%AC%E8%80%B3%E4%BB%94%E7%AB%9F%E8%8B%A5%E7%84%A1%E5%85%B6%E4%BA%8B-%E7%95%AB%E9%9D%A2%E5%BC%95%E5%85%A8%E7%B6%B2%E7%88%86%E7%AC%91",
-    "timestamp": "2026-07-05T00:13:20.452Z",
     "strategy": ".content-card__main"
   }
 ];
