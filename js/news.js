@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-05T19:51:07.538Z
+// Last updated: 2026-07-05T20:33:01.137Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "伊朗：穆傑塔巴任命埃傑伊續任司法總監",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260706/1150654862707396608567412.jpeg/SHZFLgu5K33mcz9hpv7rLsLDdSw6GQyvM8j9_DPI_fw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60366874/%E4%BC%8A%E6%9C%97-%E7%A9%86%E5%82%91%E5%A1%94%E5%B7%B4%E4%BB%BB%E5%91%BD%E5%9F%83%E5%82%91%E4%BC%8A%E7%BA%8C%E4%BB%BB%E5%8F%B8%E6%B3%95%E7%B8%BD%E7%9B%A3",
+    "timestamp": "2026-07-05T20:33:01.137Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "北約峰會｜白宮：特朗普將晤澤連斯基　另與敘利亞總統會談",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260704/1150153771825762304815427.jpeg/BOkt2Lb44sczSW_shtw7iRPtBG9ivJG-nO2By5ztgcs",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60366545/%E5%B7%B4%E5%A3%AB%E9%98%BF%E5%8F%94%E5%82%BE%E9%9B%BB%E8%A9%B1%E5%A4%A7%E8%81%B2%E7%88%86%E7%B2%97-%E4%B9%98%E5%AE%A2%E5%8B%B8%E6%AD%A2%E4%B8%8D%E6%9E%9C%E8%A2%AB%E8%BE%B1%E7%BD%B5-%E8%BB%8A%E5%BB%82%E7%88%86%E7%BD%B5%E6%88%B0%E7%B4%AF%E5%81%9C%E9%A7%9B",
     "timestamp": "2026-07-05T03:21:25.196Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "醫善同行｜中醫減重　標本兼治",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260704/1150118280766164992457982.jpeg/Hb8nVvf6SESg_MYvjOBd7dijRkV08aU-OACgNjgAoDY?v=w1920r16_9",
-    "url": "https://www.hk01.com/01%E8%AB%96%E5%A3%87/60366622/%E9%86%AB%E5%96%84%E5%90%8C%E8%A1%8C-%E4%B8%AD%E9%86%AB%E6%B8%9B%E9%87%8D-%E6%A8%99%E6%9C%AC%E5%85%BC%E6%B2%BB",
-    "timestamp": "2026-07-05T01:10:29.867Z",
     "strategy": ".content-card__main"
   }
 ];
