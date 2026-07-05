@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-05T14:41:54.813Z
+// Last updated: 2026-07-05T15:15:33.175Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "挪威三對父子兵仲有對叔侄　四大家族合力挑戰巴西︱世界盃2026",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260705/1150519882740142080721048.jpeg/y2gBKZTHpfA0UdPF9icDzGSzuGAMAKdgbrFItG6xSLQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60366829/%E6%8C%AA%E5%A8%81%E4%B8%89%E5%B0%8D%E7%88%B6%E5%AD%90%E5%85%B5%E4%BB%B2%E6%9C%89%E5%B0%8D%E5%8F%94%E4%BE%84-%E5%9B%9B%E5%A4%A7%E5%AE%B6%E6%97%8F%E5%90%88%E5%8A%9B%E6%8C%91%E6%88%B0%E5%B7%B4%E8%A5%BF-%E4%B8%96%E7%95%8C%E7%9B%832026",
+    "timestamp": "2026-07-05T15:15:33.175Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "單立文回顧9年半「熊家」拍攝點滴　長髮大鬍子造型現身勾起回憶",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260705/1150259427580841984916378.png/9eaAB4gftUGqyAXXQ46Dc0WrxUdEeE8HeX5TgXl-U4E?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60366690/%E8%BB%8Acam-%E9%8A%85%E9%91%BC%E7%81%A3%E5%8F%AF%E7%96%91%E8%BB%8A%E7%94%B7%E5%8F%B8%E6%A9%9F%E7%A9%BF%E6%8F%92%E8%BB%8A%E7%BE%A4-%E4%B8%8B%E8%BA%AB%E8%B5%A4%E8%A3%B8%E8%88%87%E8%AD%A6-%E6%8D%89%E4%BC%8A%E4%BA%BA",
     "timestamp": "2026-07-04T18:40:34.439Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "伊媒：美國向多方施壓後　13國放棄出席哈梅內伊葬禮",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260705/1150239629027315712249036.jpeg/aK5vq3sUOHZuaJ1x6pjfvENZPzeF4YPgjvKq1I7yqtQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60366689/%E4%BC%8A%E5%AA%92-%E7%BE%8E%E5%9C%8B%E5%90%91%E5%A4%9A%E6%96%B9%E6%96%BD%E5%A3%93%E5%BE%8C-13%E5%9C%8B%E6%94%BE%E6%A3%84%E5%87%BA%E5%B8%AD%E5%93%88%E6%A2%85%E5%85%A7%E4%BC%8A%E8%91%AC%E7%A6%AE",
-    "timestamp": "2026-07-04T18:19:20.841Z",
     "strategy": ".content-card__main"
   }
 ];
