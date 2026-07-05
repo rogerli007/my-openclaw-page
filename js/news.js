@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-05T12:43:45.876Z
+// Last updated: 2026-07-05T14:41:54.813Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "單立文回顧9年半「熊家」拍攝點滴　長髮大鬍子造型現身勾起回憶",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260705/1150534828102258688563701.jpeg/-JcgIj3Te5Q71sZ1myoGPrX913trrXYQj3BXbY9wV20?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60366836/%E5%96%AE%E7%AB%8B%E6%96%87%E5%9B%9E%E9%A1%A79%E5%B9%B4%E5%8D%8A-%E7%86%8A%E5%AE%B6-%E6%8B%8D%E6%94%9D%E9%BB%9E%E6%BB%B4-%E9%95%B7%E9%AB%AE%E5%A4%A7%E9%AC%8D%E5%AD%90%E9%80%A0%E5%9E%8B%E7%8F%BE%E8%BA%AB%E5%8B%BE%E8%B5%B7%E5%9B%9E%E6%86%B6",
+    "timestamp": "2026-07-05T14:41:54.813Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "Lisa遭疑整鼻失敗　網瘋傳「鼻子驚人變化」對比照　討論登上熱搜",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260705/1150239629027315712249036.jpeg/aK5vq3sUOHZuaJ1x6pjfvENZPzeF4YPgjvKq1I7yqtQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60366689/%E4%BC%8A%E5%AA%92-%E7%BE%8E%E5%9C%8B%E5%90%91%E5%A4%9A%E6%96%B9%E6%96%BD%E5%A3%93%E5%BE%8C-13%E5%9C%8B%E6%94%BE%E6%A3%84%E5%87%BA%E5%B8%AD%E5%93%88%E6%A2%85%E5%85%A7%E4%BC%8A%E8%91%AC%E7%A6%AE",
     "timestamp": "2026-07-04T18:19:20.841Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "伊媒：美國向多方施壓後　13國放棄出席哈梅內伊葬禮",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260705/1150239629027315712249036.jpeg/aK5vq3sUOHZuaJ1x6pjfvENZPzeF4YPgjvKq1I7yqtQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60366689/%E4%BC%8A%E5%AA%92-%E7%BE%8E%E5%9C%8B%E5%90%91%E5%A4%9A%E6%96%B9%E6%96%BD%E5%A3%93%E5%BE%8C-13%E5%9C%8B%E6%94%BE%E6%A3%84%E5%87%BA%E5%B8%AD%E5%93%88%E6%A2%85%E5%85%A7%E4%BC%8A%E8%91%AC%E7%A6%AE",
-    "timestamp": "2026-07-04T17:42:27.203Z",
     "strategy": ".content-card__main"
   }
 ];
