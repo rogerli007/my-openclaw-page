@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-05T17:17:37.649Z
+// Last updated: 2026-07-05T17:44:50.639Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "小西灣海旁女子墮海獲救送院治理　友人跳海救人亦受傷",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260706/1150609648324186112946872.jpeg/8LZF4NN23l1HT5QaNBy8ZrHwOg18tYzFIW7qtwtu6rc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60366868/%E5%B0%8F%E8%A5%BF%E7%81%A3%E6%B5%B7%E6%97%81%E5%A5%B3%E5%AD%90%E5%A2%AE%E6%B5%B7%E7%8D%B2%E6%95%91%E9%80%81%E9%99%A2%E6%B2%BB%E7%90%86-%E5%8F%8B%E4%BA%BA%E8%B7%B3%E6%B5%B7%E6%95%91%E4%BA%BA%E4%BA%A6%E5%8F%97%E5%82%B7",
+    "timestamp": "2026-07-05T17:44:50.639Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "佐敦26歲男遭警截查　檢值134萬大麻花　涉販運危險藥物被捕",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260705/1150318733542035456352978.jpeg/7KErq48bfQ-jNgYjJW4ueUcxjLfnYpZaMRDSlzEQ0pc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60366699/%E4%B8%96%E7%95%8C%E7%9B%832026-%E5%8D%8A%E5%A0%B4%E5%B7%B4%E6%8B%89%E5%9C%AD%E5%AE%88%E5%92%8C%E6%B3%95%E5%9C%8B-%E9%9B%99%E6%96%B9%E5%85%B17%E6%AC%A1%E5%B0%84%E9%96%80%E7%84%A1%E4%B8%80%E5%91%BD%E4%B8%AD%E7%9B%AE%E6%A8%99",
     "timestamp": "2026-07-04T22:12:07.847Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "世界盃｜夏蘭特致敬德州牛仔look爆紅　同款T裇瞬間賣斷市｜有片",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260705/1150306638800883712524739.jpeg/Z0Cc6QmZ4OcX4QX5jRJUNwxJK2-TbXIUtVCi3rVQot4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%92%B0%E7%90%83%E8%B6%A3%E8%81%9E/60366698/%E4%B8%96%E7%95%8C%E7%9B%83-%E5%A4%8F%E8%98%AD%E7%89%B9%E8%87%B4%E6%95%AC%E5%BE%B7%E5%B7%9E%E7%89%9B%E4%BB%94look%E7%88%86%E7%B4%85-%E5%90%8C%E6%AC%BEt%E8%A3%87%E7%9E%AC%E9%96%93%E8%B3%A3%E6%96%B7%E5%B8%82-%E6%9C%89%E7%89%87",
-    "timestamp": "2026-07-04T21:40:19.673Z",
     "strategy": ".content-card__main"
   }
 ];
