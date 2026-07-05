@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-05T17:44:50.639Z
+// Last updated: 2026-07-05T18:14:27.973Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "中國人民大學：蔣方舟碩士論文經專家組調查　未發現學術不端行為",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20230829/773218185863368704860531.jpeg/0fPVVNTIT33uiZ-vh02aK4HJ42mckFA9k5DPQ5OQz0M?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60366865/%E4%B8%AD%E5%9C%8B%E4%BA%BA%E6%B0%91%E5%A4%A7%E5%AD%B8-%E8%94%A3%E6%96%B9%E8%88%9F%E7%A2%A9%E5%A3%AB%E8%AB%96%E6%96%87%E7%B6%93%E5%B0%88%E5%AE%B6%E7%B5%84%E8%AA%BF%E6%9F%A5-%E6%9C%AA%E7%99%BC%E7%8F%BE%E5%AD%B8%E8%A1%93%E4%B8%8D%E7%AB%AF%E8%A1%8C%E7%82%BA",
+    "timestamp": "2026-07-05T18:14:27.973Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "小西灣海旁女子墮海獲救送院治理　友人跳海救人亦受傷",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260703/1149793072586952704206934.jpeg/fPmfz5AzTGB2KO5MzmCiYDt_VF3Uqn9lo92OBqPdjgY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%AF%B5%E7%89%A9/60340314/%E9%9C%B8%E6%B0%A3%E8%B2%93%E5%92%AA%E6%8A%8A%E7%89%9B%E6%A7%BD%E7%95%B6%E7%89%80-%E9%81%AD%E4%B9%B3%E7%89%9B%E8%AA%A4%E5%92%AC%E8%80%B3%E4%BB%94%E7%AB%9F%E8%8B%A5%E7%84%A1%E5%85%B6%E4%BA%8B-%E7%95%AB%E9%9D%A2%E5%BC%95%E5%85%A8%E7%B6%B2%E7%88%86%E7%AC%91",
     "timestamp": "2026-07-05T00:13:20.452Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "世界盃2026｜半場巴拉圭守和法國　雙方共7次射門無一命中目標",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260705/1150318733542035456352978.jpeg/7KErq48bfQ-jNgYjJW4ueUcxjLfnYpZaMRDSlzEQ0pc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60366699/%E4%B8%96%E7%95%8C%E7%9B%832026-%E5%8D%8A%E5%A0%B4%E5%B7%B4%E6%8B%89%E5%9C%AD%E5%AE%88%E5%92%8C%E6%B3%95%E5%9C%8B-%E9%9B%99%E6%96%B9%E5%85%B17%E6%AC%A1%E5%B0%84%E9%96%80%E7%84%A1%E4%B8%80%E5%91%BD%E4%B8%AD%E7%9B%AE%E6%A8%99",
-    "timestamp": "2026-07-04T22:12:07.847Z",
     "strategy": ".content-card__main"
   }
 ];
