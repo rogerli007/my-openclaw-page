@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-05T21:56:25.619Z
+// Last updated: 2026-07-05T23:31:01.603Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "利嘉閣著重新區擴充　組普通話專隊吸客　施慧勤：AI難取代代理！",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260618/1144343095660253184173586.jpeg/YrUOLerVp63ZxC3t4ms-gKpRxZ0h_eN56CE3t-ghN7c?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60361809/%E5%88%A9%E5%98%89%E9%96%A3%E8%91%97%E9%87%8D%E6%96%B0%E5%8D%80%E6%93%B4%E5%85%85-%E7%B5%84%E6%99%AE%E9%80%9A%E8%A9%B1%E5%B0%88%E9%9A%8A%E5%90%B8%E5%AE%A2-%E6%96%BD%E6%85%A7%E5%8B%A4-ai%E9%9B%A3%E5%8F%96%E4%BB%A3%E4%BB%A3%E7%90%86",
+    "timestamp": "2026-07-05T23:31:01.603Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "世界盃｜美國前鋒巴洛根紅牌停賽暫緩　特朗普被指曾聯絡FIFA主席",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260705/1150452844176871424930167.jpeg/h7l0AUfvu18AlkPaFm5f4mb_my1wsVXjeVo4lnlaOJY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60366765/%E9%9C%8D%E9%9C%87%E5%AF%B0%E5%A4%AA%E5%A4%AA%E9%99%B3%E7%90%AA%E7%90%AA%E7%BD%95%E8%A6%8B%E7%8F%BE%E8%BA%AB-%E6%9B%BE%E7%82%BA%E6%95%91%E5%AD%90%E8%87%B4%E9%AA%A8%E7%9B%86%E7%A2%8E%E8%A3%82%E6%92%90%E6%8B%90%E6%9D%96%E4%BB%8D%E5%84%AA%E9%9B%85%E9%AB%98%E8%B2%B4",
     "timestamp": "2026-07-05T07:44:10.560Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美國建國250周年煙花表演引發火災　紐約布魯克林大橋冒出濃煙",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260705/1150444308260720640543670.jpeg/Gwf52RKf2dfrKbfLxzv6b3OtW4FTMBSZ-BB4s_gQeLM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60366767/%E7%BE%8E%E5%9C%8B%E5%BB%BA%E5%9C%8B250%E5%91%A8%E5%B9%B4%E7%85%99%E8%8A%B1%E8%A1%A8%E6%BC%94%E5%BC%95%E7%99%BC%E7%81%AB%E7%81%BD-%E7%B4%90%E7%B4%84%E5%B8%83%E9%AD%AF%E5%85%8B%E6%9E%97%E5%A4%A7%E6%A9%8B%E5%86%92%E5%87%BA%E6%BF%83%E7%85%99",
-    "timestamp": "2026-07-05T06:25:36.630Z",
     "strategy": ".content-card__main"
   }
 ];
