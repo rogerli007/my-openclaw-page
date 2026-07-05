@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-05T06:25:36.630Z
+// Last updated: 2026-07-05T07:44:10.560Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "霍震寰太太陳琪琪罕見現身　曾為救子致骨盆碎裂撐拐杖仍優雅高貴",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260705/1150452844176871424930167.jpeg/h7l0AUfvu18AlkPaFm5f4mb_my1wsVXjeVo4lnlaOJY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60366765/%E9%9C%8D%E9%9C%87%E5%AF%B0%E5%A4%AA%E5%A4%AA%E9%99%B3%E7%90%AA%E7%90%AA%E7%BD%95%E8%A6%8B%E7%8F%BE%E8%BA%AB-%E6%9B%BE%E7%82%BA%E6%95%91%E5%AD%90%E8%87%B4%E9%AA%A8%E7%9B%86%E7%A2%8E%E8%A3%82%E6%92%90%E6%8B%90%E6%9D%96%E4%BB%8D%E5%84%AA%E9%9B%85%E9%AB%98%E8%B2%B4",
+    "timestamp": "2026-07-05T07:44:10.560Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美國建國250周年煙花表演引發火災　紐約布魯克林大橋冒出濃煙",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260704/1150164204313907200531862.png/ejvVraAPFlTsn8Qrliphz6t7PgXsW6WwA6odWAOqHVg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60366630/%E4%B8%96%E7%95%8C%E7%9B%83%E5%A2%A8%E8%A5%BF%E5%93%A5%E5%B0%8D%E8%8B%B1%E6%A0%BC%E8%98%AD-%E4%B8%80%E5%BA%A6%E5%82%B3%E5%9B%A0%E9%9B%B7%E6%9A%B4%E6%94%B9%E6%9C%9F-fifa%E6%9C%80%E7%B5%82%E7%A2%BA%E8%AA%8D%E4%B8%8D%E6%8F%90%E6%97%A9",
     "timestamp": "2026-07-04T11:51:33.946Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "新城三十五周年音樂會2026香港｜門票攻略＋購票連結＋座位表",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260704/1150128935405621248351679.jpeg/h2AMMoY2kSJLmNhvmmZE1VYylDauiUslZQ_1J2UP9Sc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60366632/%E6%96%B0%E5%9F%8E%E4%B8%89%E5%8D%81%E4%BA%94%E5%91%A8%E5%B9%B4%E9%9F%B3%E6%A8%82%E6%9C%832026%E9%A6%99%E6%B8%AF-%E9%96%80%E7%A5%A8%E6%94%BB%E7%95%A5-%E8%B3%BC%E7%A5%A8%E9%80%A3%E7%B5%90-%E5%BA%A7%E4%BD%8D%E8%A1%A8",
-    "timestamp": "2026-07-04T10:33:40.013Z",
     "strategy": ".content-card__main"
   }
 ];
