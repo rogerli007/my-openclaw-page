@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-05T23:31:01.603Z
+// Last updated: 2026-07-05T23:57:14.055Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "財經視野｜竟想到向白宮無償讓股！　OpenAI 關鍵賭局沒有退路",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260222/1102269756557234176106392.jpeg/a3bc5yx_0jKon3rkunzRWginBbd2c-IIxRRGl8UURpc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60366885/%E8%B2%A1%E7%B6%93%E8%A6%96%E9%87%8E-%E7%AB%9F%E6%83%B3%E5%88%B0%E5%90%91%E7%99%BD%E5%AE%AE%E7%84%A1%E5%84%9F%E8%AE%93%E8%82%A1-openai-%E9%97%9C%E9%8D%B5%E8%B3%AD%E5%B1%80%E6%B2%92%E6%9C%89%E9%80%80%E8%B7%AF",
+    "timestamp": "2026-07-05T23:57:14.055Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "利嘉閣著重新區擴充　組普通話專隊吸客　施慧勤：AI難取代代理！",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260702/1149172439021129728583129.jpeg/rq6CmzhdfbYjp4_K2Vp7Wyzv-NsGRhs1xBr498Qa-Pc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60366796/%E4%B8%96%E7%95%8C%E7%9B%83-%E5%A2%A8%E8%A5%BF%E5%93%A5%E5%9D%90%E6%93%81%E9%AB%98%E5%8E%9F%E5%84%AA%E5%8B%A2-%E8%8B%B1%E6%A0%BC%E8%98%AD%E5%82%B3%E7%94%A8-%E5%81%89%E5%93%A5-%E6%87%89%E5%B0%8D-%E6%9D%9C%E6%85%88%E5%90%A6%E8%AA%8D",
     "timestamp": "2026-07-05T08:46:32.194Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "霍震寰太太陳琪琪罕見現身　曾為救子致骨盆碎裂撐拐杖仍優雅高貴",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260705/1150452844176871424930167.jpeg/h7l0AUfvu18AlkPaFm5f4mb_my1wsVXjeVo4lnlaOJY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60366765/%E9%9C%8D%E9%9C%87%E5%AF%B0%E5%A4%AA%E5%A4%AA%E9%99%B3%E7%90%AA%E7%90%AA%E7%BD%95%E8%A6%8B%E7%8F%BE%E8%BA%AB-%E6%9B%BE%E7%82%BA%E6%95%91%E5%AD%90%E8%87%B4%E9%AA%A8%E7%9B%86%E7%A2%8E%E8%A3%82%E6%92%90%E6%8B%90%E6%9D%96%E4%BB%8D%E5%84%AA%E9%9B%85%E9%AB%98%E8%B2%B4",
-    "timestamp": "2026-07-05T07:44:10.560Z",
     "strategy": ".content-card__main"
   }
 ];
