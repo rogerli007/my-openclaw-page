@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-06T17:32:23.000Z
+// Last updated: 2026-07-06T18:22:23.889Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "俄稱空襲烏克蘭軍工及能源設施　回應煉油廠等設施大規模受襲",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260707/1150977106281238528289103.jpeg/WsvttmGJvWHUJKPm4VERfMh0opD1rmpIDQc6tA0HOrQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60367243/%E4%BF%84%E7%A8%B1%E7%A9%BA%E8%A5%B2%E7%83%8F%E5%85%8B%E8%98%AD%E8%BB%8D%E5%B7%A5%E5%8F%8A%E8%83%BD%E6%BA%90%E8%A8%AD%E6%96%BD-%E5%9B%9E%E6%87%89%E7%85%89%E6%B2%B9%E5%BB%A0%E7%AD%89%E8%A8%AD%E6%96%BD%E5%A4%A7%E8%A6%8F%E6%A8%A1%E5%8F%97%E8%A5%B2",
+    "timestamp": "2026-07-06T18:22:23.889Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "世界盃｜恩芬天奴證收特朗普電話　但強調FIFA紀律程序獨立自主",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260705/1150536020593217536941280.jpeg/GrsbXzN-eZoRAbaHOkXLAmbXU-OoagLEWeOPE1njjxM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60365897/%E4%B8%96%E7%95%8C%E7%9B%83%E8%B3%BD%E7%A8%8B2026-7-6%E7%9B%B4%E6%92%AD%E7%B7%9A%E4%B8%8A%E7%9C%8B16%E5%BC%B7-%E5%B7%B4%E8%A5%BF-%E6%8C%AA%E5%A8%81-7-5%E8%B3%BD%E6%9E%9C%E9%87%8D%E6%BA%AB",
     "timestamp": "2026-07-05T16:46:21.925Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "OPEC+宣布8月繼續增產　為連續第5個月",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20200413/326307232985780224.jpeg/7dO_fTTOn7BgikUGCHprIfzL9x-VmwbydPoyb3T6Mm8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60366862/opec-%E5%AE%A3%E5%B8%838%E6%9C%88%E7%B9%BC%E7%BA%8C%E5%A2%9E%E7%94%A2-%E7%82%BA%E9%80%A3%E7%BA%8C%E7%AC%AC5%E5%80%8B%E6%9C%88",
-    "timestamp": "2026-07-05T16:18:58.568Z",
     "strategy": ".content-card__main"
   }
 ];
