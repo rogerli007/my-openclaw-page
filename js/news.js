@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-06T01:45:33.840Z
+// Last updated: 2026-07-06T02:47:19.984Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "深圳新疆菜10間推介｜烤羊排／羊肉串／火鍋　邊食邊睇民族表演",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20240513/866737043470815232729483.jpeg/n_ANtl6VMRTMbDyCD9IZ-uLOTkSgIoAtH5ioWx-YqFs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%97%85%E9%81%8A/1019003/%E6%B7%B1%E5%9C%B3%E6%96%B0%E7%96%86%E8%8F%9C10%E9%96%93%E6%8E%A8%E4%BB%8B-%E7%83%A4%E7%BE%8A%E6%8E%92-%E7%BE%8A%E8%82%89%E4%B8%B2-%E7%81%AB%E9%8D%8B-%E9%82%8A%E9%A3%9F%E9%82%8A%E7%9D%87%E6%B0%91%E6%97%8F%E8%A1%A8%E6%BC%94",
+    "timestamp": "2026-07-06T02:47:19.984Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "MC演唱會套票$499包食宿平過紅館騷一截　驚揭真身係肥媽非張天賦",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260705/1150504163822538752542670.jpeg/1YEawtMRKRuQzWKqwLZivJfmiu2dcyFNj3RXz490V88?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60366783/%E8%8B%B1%E6%A0%BC%E8%98%AD%E9%87%8D%E9%81%8A%E5%99%A9%E5%A4%A2%E4%B9%8B%E5%9C%B0-%E5%A2%A8%E8%A5%BF%E5%93%A5%E6%9C%80%E5%BC%B7%E5%A0%A1%E5%A3%98%E8%87%B3%E4%BB%8A10%E6%88%B0%E4%B8%8D%E6%95%97-%E4%B8%96%E7%95%8C%E7%9B%832026",
     "timestamp": "2026-07-05T10:36:33.636Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "太子集團「幕後大佬」胡小偉再度被捕　涉詐取日本永久居留權",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20251118/1067558493344501760036257.png/lLiASVJhwU_rVh-DJRi_ooVbXsQedMqMCnBFsgpwRbI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60366798/%E5%A4%AA%E5%AD%90%E9%9B%86%E5%9C%98-%E5%B9%95%E5%BE%8C%E5%A4%A7%E4%BD%AC-%E8%83%A1%E5%B0%8F%E5%81%89%E5%86%8D%E5%BA%A6%E8%A2%AB%E6%8D%95-%E6%B6%89%E8%A9%90%E5%8F%96%E6%97%A5%E6%9C%AC%E6%B0%B8%E4%B9%85%E5%B1%85%E7%95%99%E6%AC%8A",
-    "timestamp": "2026-07-05T09:47:27.827Z",
     "strategy": ".content-card__main"
   }
 ];
