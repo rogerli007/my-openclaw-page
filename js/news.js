@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-06T04:18:10.168Z
+// Last updated: 2026-07-06T05:51:58.231Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "澳洲與斐濟簽署防衛協議　中國同日太平洋試射潛射戰略導彈",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260706/1150797905620111360302819.jpeg/mfiN5q7UHGA7SfTBq2LcKhMDONJOk9vAQaXPcEGlz3A?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60367024/%E6%BE%B3%E6%B4%B2%E8%88%87%E6%96%90%E6%BF%9F%E7%B0%BD%E7%BD%B2%E9%98%B2%E8%A1%9B%E5%8D%94%E8%AD%B0-%E4%B8%AD%E5%9C%8B%E5%90%8C%E6%97%A5%E5%A4%AA%E5%B9%B3%E6%B4%8B%E8%A9%A6%E5%B0%84%E6%BD%9B%E5%B0%84%E6%88%B0%E7%95%A5%E5%B0%8E%E5%BD%88",
+    "timestamp": "2026-07-06T05:51:58.231Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "法國繼羅浮宮後再有博物館發生失竊案　價值3600萬元珠寶被盜",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260705/1150510093050056704140352.jpeg/DiUHwrMWi9Ckhj35KjSpVG0LAD3TuPdHes9gcnrPYHI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60366825/%E7%94%B0%E5%8C%97%E8%BE%B0%E5%87%BA%E5%B8%AD3%E5%A0%B4%E7%95%A2%E6%A5%AD%E7%A6%AE-%E8%B6%95%E5%90%8C%E5%A5%B3%E7%AB%A5%E5%BD%B1%E7%95%A2%E6%A5%AD%E7%9B%B8%E6%8F%AD%E8%83%8C%E5%BE%8C%E6%95%85%E4%BA%8B-%E6%94%BF%E5%A3%87%E8%AB%B8%E4%BA%8B%E7%94%BA",
     "timestamp": "2026-07-05T12:03:40.392Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "內蒙古G331國道危化品車輛爆炸釀2死4傷　現場蘑菇雲沖天｜有片",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260705/1150518436401516544092873.png/aTuJ8Ac5kjh48e8src1XbbnrqxgABbuEJ-jm4ifo5uI?v=w1920",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60366826/%E5%85%A7%E8%92%99%E5%8F%A4g331%E5%9C%8B%E9%81%93%E5%8D%B1%E5%8C%96%E5%93%81%E8%BB%8A%E8%BC%9B%E7%88%86%E7%82%B8%E9%87%802%E6%AD%BB4%E5%82%B7-%E7%8F%BE%E5%A0%B4%E8%98%91%E8%8F%87%E9%9B%B2%E6%B2%96%E5%A4%A9-%E6%9C%89%E7%89%87",
-    "timestamp": "2026-07-05T11:23:48.135Z",
     "strategy": ".content-card__main"
   }
 ];
