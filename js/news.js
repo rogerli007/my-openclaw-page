@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-05T23:57:14.055Z
+// Last updated: 2026-07-06T01:45:33.840Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "MC演唱會套票$499包食宿平過紅館騷一截　驚揭真身係肥媽非張天賦",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260705/1150510387926405120687534.jpeg/MYigvrRIoex7QeQg35fDR5vgXu06780puESoorhEqKI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60366819/mc%E6%BC%94%E5%94%B1%E6%9C%83%E5%A5%97%E7%A5%A8-499%E5%8C%85%E9%A3%9F%E5%AE%BF%E5%B9%B3%E9%81%8E%E7%B4%85%E9%A4%A8%E9%A8%B7%E4%B8%80%E6%88%AA-%E9%A9%9A%E6%8F%AD%E7%9C%9F%E8%BA%AB%E4%BF%82%E8%82%A5%E5%AA%BD%E9%9D%9E%E5%BC%B5%E5%A4%A9%E8%B3%A6",
+    "timestamp": "2026-07-06T01:45:33.840Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "財經視野｜竟想到向白宮無償讓股！　OpenAI 關鍵賭局沒有退路",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20251118/1067558493344501760036257.png/lLiASVJhwU_rVh-DJRi_ooVbXsQedMqMCnBFsgpwRbI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60366798/%E5%A4%AA%E5%AD%90%E9%9B%86%E5%9C%98-%E5%B9%95%E5%BE%8C%E5%A4%A7%E4%BD%AC-%E8%83%A1%E5%B0%8F%E5%81%89%E5%86%8D%E5%BA%A6%E8%A2%AB%E6%8D%95-%E6%B6%89%E8%A9%90%E5%8F%96%E6%97%A5%E6%9C%AC%E6%B0%B8%E4%B9%85%E5%B1%85%E7%95%99%E6%AC%8A",
     "timestamp": "2026-07-05T09:47:27.827Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "世界盃｜墨西哥坐擁高原優勢　英格蘭傳用「偉哥」應對　杜慈否認",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260702/1149172439021129728583129.jpeg/rq6CmzhdfbYjp4_K2Vp7Wyzv-NsGRhs1xBr498Qa-Pc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60366796/%E4%B8%96%E7%95%8C%E7%9B%83-%E5%A2%A8%E8%A5%BF%E5%93%A5%E5%9D%90%E6%93%81%E9%AB%98%E5%8E%9F%E5%84%AA%E5%8B%A2-%E8%8B%B1%E6%A0%BC%E8%98%AD%E5%82%B3%E7%94%A8-%E5%81%89%E5%93%A5-%E6%87%89%E5%B0%8D-%E6%9D%9C%E6%85%88%E5%90%A6%E8%AA%8D",
-    "timestamp": "2026-07-05T08:46:32.194Z",
     "strategy": ".content-card__main"
   }
 ];
