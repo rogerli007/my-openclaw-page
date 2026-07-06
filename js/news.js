@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-06T02:47:19.984Z
+// Last updated: 2026-07-06T04:18:10.168Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "法國繼羅浮宮後再有博物館發生失竊案　價值3600萬元珠寶被盜",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260706/1150772067860221952637208.png/5mQeXvbBpEY8PR9rlqObjQsdg0yiu_Nutoz9p7aM_ac?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60366989/%E6%B3%95%E5%9C%8B%E7%B9%BC%E7%BE%85%E6%B5%AE%E5%AE%AE%E5%BE%8C%E5%86%8D%E6%9C%89%E5%8D%9A%E7%89%A9%E9%A4%A8%E7%99%BC%E7%94%9F%E5%A4%B1%E7%AB%8A%E6%A1%88-%E5%83%B9%E5%80%BC3600%E8%90%AC%E5%85%83%E7%8F%A0%E5%AF%B6%E8%A2%AB%E7%9B%9C",
+    "timestamp": "2026-07-06T04:18:10.168Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "深圳新疆菜10間推介｜烤羊排／羊肉串／火鍋　邊食邊睇民族表演",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260705/1150518436401516544092873.png/aTuJ8Ac5kjh48e8src1XbbnrqxgABbuEJ-jm4ifo5uI?v=w1920",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60366826/%E5%85%A7%E8%92%99%E5%8F%A4g331%E5%9C%8B%E9%81%93%E5%8D%B1%E5%8C%96%E5%93%81%E8%BB%8A%E8%BC%9B%E7%88%86%E7%82%B8%E9%87%802%E6%AD%BB4%E5%82%B7-%E7%8F%BE%E5%A0%B4%E8%98%91%E8%8F%87%E9%9B%B2%E6%B2%96%E5%A4%A9-%E6%9C%89%E7%89%87",
     "timestamp": "2026-07-05T11:23:48.135Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "英格蘭重遊噩夢之地　墨西哥最強堡壘至今10戰不敗︱世界盃2026",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260705/1150504163822538752542670.jpeg/1YEawtMRKRuQzWKqwLZivJfmiu2dcyFNj3RXz490V88?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60366783/%E8%8B%B1%E6%A0%BC%E8%98%AD%E9%87%8D%E9%81%8A%E5%99%A9%E5%A4%A2%E4%B9%8B%E5%9C%B0-%E5%A2%A8%E8%A5%BF%E5%93%A5%E6%9C%80%E5%BC%B7%E5%A0%A1%E5%A3%98%E8%87%B3%E4%BB%8A10%E6%88%B0%E4%B8%8D%E6%95%97-%E4%B8%96%E7%95%8C%E7%9B%832026",
-    "timestamp": "2026-07-05T10:36:33.636Z",
     "strategy": ".content-card__main"
   }
 ];
