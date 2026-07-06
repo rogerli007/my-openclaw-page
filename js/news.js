@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-06T22:39:00.856Z
+// Last updated: 2026-07-06T23:44:05.811Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "世界盃2026｜美國對比利時巴洛根正選　迪布尼杜古後備待命",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260707/1151065177886560256710946.jpeg/CsFGibSh9h_gfXgP01upNCRcqsI7lbPAEn7sOhJ-7Do?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60367255/%E4%B8%96%E7%95%8C%E7%9B%832026-%E7%BE%8E%E5%9C%8B%E5%B0%8D%E6%AF%94%E5%88%A9%E6%99%82%E5%B7%B4%E6%B4%9B%E6%A0%B9%E6%AD%A3%E9%81%B8-%E8%BF%AA%E5%B8%83%E5%B0%BC%E6%9D%9C%E5%8F%A4%E5%BE%8C%E5%82%99%E5%BE%85%E5%91%BD",
+    "timestamp": "2026-07-06T23:44:05.811Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "TVB視帝帶圈中女神老婆阿女豪歎Rosewood　顏值竟升級：精緻男人",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260706/1150654862707396608567412.jpeg/SHZFLgu5K33mcz9hpv7rLsLDdSw6GQyvM8j9_DPI_fw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60366874/%E4%BC%8A%E6%9C%97-%E7%A9%86%E5%82%91%E5%A1%94%E5%B7%B4%E4%BB%BB%E5%91%BD%E5%9F%83%E5%82%91%E4%BC%8A%E7%BA%8C%E4%BB%BB%E5%8F%B8%E6%B3%95%E7%B8%BD%E7%9B%A3",
     "timestamp": "2026-07-05T20:33:01.137Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "北約峰會｜白宮：特朗普將晤澤連斯基　另與敘利亞總統會談",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260122/1091142253935595520302847.jpeg/XJyp8Y27k2srj93rJpWcW4GKSuhFJBnvHybzcB8m83A?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60366870/%E5%8C%97%E7%B4%84%E5%B3%B0%E6%9C%83-%E7%99%BD%E5%AE%AE-%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%87%E6%99%A4%E6%BE%A4%E9%80%A3%E6%96%AF%E5%9F%BA-%E5%8F%A6%E8%88%87%E6%95%98%E5%88%A9%E4%BA%9E%E7%B8%BD%E7%B5%B1%E6%9C%83%E8%AB%87",
-    "timestamp": "2026-07-05T19:51:07.538Z",
     "strategy": ".content-card__main"
   }
 ];
