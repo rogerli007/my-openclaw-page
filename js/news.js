@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-06T19:13:13.898Z
+// Last updated: 2026-07-06T20:48:40.686Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "特朗普再促伊朗達成核協議　警告軍事行動仍是選項",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260707/1150988319685873664693801.jpeg/MC-pP3mogONUtcBm5uBpQYJz1d7i7xUbz67hs8-u4bM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60367244/%E7%89%B9%E6%9C%97%E6%99%AE%E5%86%8D%E4%BF%83%E4%BC%8A%E6%9C%97%E9%81%94%E6%88%90%E6%A0%B8%E5%8D%94%E8%AD%B0-%E8%AD%A6%E5%91%8A%E8%BB%8D%E4%BA%8B%E8%A1%8C%E5%8B%95%E4%BB%8D%E6%98%AF%E9%81%B8%E9%A0%85",
+    "timestamp": "2026-07-06T20:48:40.686Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "珍惜生命｜秀茂坪22歲少女與男友爭執後墮樓　送院惜不治",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260706/1150609648324186112946872.jpeg/8LZF4NN23l1HT5QaNBy8ZrHwOg18tYzFIW7qtwtu6rc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60366868/%E5%B0%8F%E8%A5%BF%E7%81%A3%E6%B5%B7%E6%97%81%E5%A5%B3%E5%AD%90%E5%A2%AE%E6%B5%B7%E7%8D%B2%E6%95%91%E9%80%81%E9%99%A2%E6%B2%BB%E7%90%86-%E5%8F%8B%E4%BA%BA%E8%B7%B3%E6%B5%B7%E6%95%91%E4%BA%BA%E4%BA%A6%E5%8F%97%E5%82%B7",
     "timestamp": "2026-07-05T17:44:50.639Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "佐敦26歲男遭警截查　檢值134萬大麻花　涉販運危險藥物被捕",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260706/1150603258109104128346097.jpeg/JNhad--nlnJfmd6WFCfQ6Hx55fYl0A3ZFGvLPhRryz4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60366866/%E4%BD%90%E6%95%A626%E6%AD%B2%E7%94%B7%E9%81%AD%E8%AD%A6%E6%88%AA%E6%9F%A5-%E6%AA%A2%E5%80%BC134%E8%90%AC%E5%A4%A7%E9%BA%BB%E8%8A%B1-%E6%B6%89%E8%B2%A9%E9%81%8B%E5%8D%B1%E9%9A%AA%E8%97%A5%E7%89%A9%E8%A2%AB%E6%8D%95",
-    "timestamp": "2026-07-05T17:17:37.649Z",
     "strategy": ".content-card__main"
   }
 ];
