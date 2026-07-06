@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-06T12:25:31.798Z
+// Last updated: 2026-07-06T13:52:38.988Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "加注快手旗下可靈AI之際　騰訊據報擬售前者股份　最多套現122億",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20251223/1080080948525010944536714.jpeg/lLIz0MX4R9e1Af2TI00er6J60ut3lESnIl52KyJedis?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60367226/%E5%8A%A0%E6%B3%A8%E5%BF%AB%E6%89%8B%E6%97%97%E4%B8%8B%E5%8F%AF%E9%9D%88ai%E4%B9%8B%E9%9A%9B-%E9%A8%B0%E8%A8%8A%E6%93%9A%E5%A0%B1%E6%93%AC%E5%94%AE%E5%89%8D%E8%80%85%E8%82%A1%E4%BB%BD-%E6%9C%80%E5%A4%9A%E5%A5%97%E7%8F%BE122%E5%84%84",
+    "timestamp": "2026-07-06T13:52:38.988Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "佐敦28年歷史酒店「偉晴軒」6.30結業　門口貼告示感謝顧客支持",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260705/1150519882740142080721048.jpeg/y2gBKZTHpfA0UdPF9icDzGSzuGAMAKdgbrFItG6xSLQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60366829/%E6%8C%AA%E5%A8%81%E4%B8%89%E5%B0%8D%E7%88%B6%E5%AD%90%E5%85%B5%E4%BB%B2%E6%9C%89%E5%B0%8D%E5%8F%94%E4%BE%84-%E5%9B%9B%E5%A4%A7%E5%AE%B6%E6%97%8F%E5%90%88%E5%8A%9B%E6%8C%91%E6%88%B0%E5%B7%B4%E8%A5%BF-%E4%B8%96%E7%95%8C%E7%9B%832026",
     "timestamp": "2026-07-05T15:15:33.175Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "單立文回顧9年半「熊家」拍攝點滴　長髮大鬍子造型現身勾起回憶",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260705/1150534828102258688563701.jpeg/-JcgIj3Te5Q71sZ1myoGPrX913trrXYQj3BXbY9wV20?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60366836/%E5%96%AE%E7%AB%8B%E6%96%87%E5%9B%9E%E9%A1%A79%E5%B9%B4%E5%8D%8A-%E7%86%8A%E5%AE%B6-%E6%8B%8D%E6%94%9D%E9%BB%9E%E6%BB%B4-%E9%95%B7%E9%AB%AE%E5%A4%A7%E9%AC%8D%E5%AD%90%E9%80%A0%E5%9E%8B%E7%8F%BE%E8%BA%AB%E5%8B%BE%E8%B5%B7%E5%9B%9E%E6%86%B6",
-    "timestamp": "2026-07-05T14:41:54.813Z",
     "strategy": ".content-card__main"
   }
 ];
