@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-06T13:52:38.988Z
+// Last updated: 2026-07-06T16:29:36.504Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "東張西望｜甘詠寧訪問公屋「野人父子」被趕　豪言曾擸刀大戰房署",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260706/1150899428677128192491758.jpeg/MhWGR_6DR2r_A2GodJmrSO9RW2rr0XNxFi7E2BYuxNg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60367210/%E6%9D%B1%E5%BC%B5%E8%A5%BF%E6%9C%9B-%E7%94%98%E8%A9%A0%E5%AF%A7%E8%A8%AA%E5%95%8F%E5%85%AC%E5%B1%8B-%E9%87%8E%E4%BA%BA%E7%88%B6%E5%AD%90-%E8%A2%AB%E8%B6%95-%E8%B1%AA%E8%A8%80%E6%9B%BE%E6%93%B8%E5%88%80%E5%A4%A7%E6%88%B0%E6%88%BF%E7%BD%B2",
+    "timestamp": "2026-07-06T16:29:36.504Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "加注快手旗下可靈AI之際　騰訊據報擬售前者股份　最多套現122億",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260705/1150576002817069056385769.jpeg/H4f7j-rIcRc0VMIOssfCPr-V1H8t1MDDIf17SiH9e0o?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60366860/%E7%9B%A7%E7%80%9A%E9%9C%86%E7%94%9F%E6%97%A5%E6%8E%92%E8%88%9E%E8%80%81%E5%B8%AB%E5%8A%A0%E6%93%8D-%E7%A5%9E%E5%BE%92-al-%E9%A9%9A%E8%A8%9D-%E4%BD%A0%E5%93%8B%E5%B9%BE%E6%99%82%E8%AE%8A%E6%99%92%E8%88%9E%E7%8E%8B%E8%88%9E%E5%90%8E",
     "timestamp": "2026-07-05T15:48:22.384Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "挪威三對父子兵仲有對叔侄　四大家族合力挑戰巴西︱世界盃2026",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260705/1150519882740142080721048.jpeg/y2gBKZTHpfA0UdPF9icDzGSzuGAMAKdgbrFItG6xSLQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60366829/%E6%8C%AA%E5%A8%81%E4%B8%89%E5%B0%8D%E7%88%B6%E5%AD%90%E5%85%B5%E4%BB%B2%E6%9C%89%E5%B0%8D%E5%8F%94%E4%BE%84-%E5%9B%9B%E5%A4%A7%E5%AE%B6%E6%97%8F%E5%90%88%E5%8A%9B%E6%8C%91%E6%88%B0%E5%B7%B4%E8%A5%BF-%E4%B8%96%E7%95%8C%E7%9B%832026",
-    "timestamp": "2026-07-05T15:15:33.175Z",
     "strategy": ".content-card__main"
   }
 ];
