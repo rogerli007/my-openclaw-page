@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-06T05:51:58.231Z
+// Last updated: 2026-07-06T10:58:49.508Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "新加坡國大31歲中國籍博士生企圖強姦前室友　判囚7年7月鞭打3下",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260706/1150816142206439424857613.png/d1l3GB2K3vSJzV176YTQLBRFfh_y-XKOzVqmKM1apig?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60367060/%E6%96%B0%E5%8A%A0%E5%9D%A1%E5%9C%8B%E5%A4%A731%E6%AD%B2%E4%B8%AD%E5%9C%8B%E7%B1%8D%E5%8D%9A%E5%A3%AB%E7%94%9F%E4%BC%81%E5%9C%96%E5%BC%B7%E5%A7%A6%E5%89%8D%E5%AE%A4%E5%8F%8B-%E5%88%A4%E5%9B%9A7%E5%B9%B47%E6%9C%88%E9%9E%AD%E6%89%933%E4%B8%8B",
+    "timestamp": "2026-07-06T10:58:49.508Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "澳洲與斐濟簽署防衛協議　中國同日太平洋試射潛射戰略導彈",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260705/1150474575943831552189672.png/A53pIOEMGBsrJmLMdXXssB5PSKyFQIDqRkqQ4EZKkOA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60366778/lisa%E9%81%AD%E7%96%91%E6%95%B4%E9%BC%BB%E5%A4%B1%E6%95%97-%E7%B6%B2%E7%98%8B%E5%82%B3-%E9%BC%BB%E5%AD%90%E9%A9%9A%E4%BA%BA%E8%AE%8A%E5%8C%96-%E5%B0%8D%E6%AF%94%E7%85%A7-%E8%A8%8E%E8%AB%96%E7%99%BB%E4%B8%8A%E7%86%B1%E6%90%9C",
     "timestamp": "2026-07-05T12:43:45.876Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "田北辰出席3場畢業禮　趕同女童影畢業相揭背後故事｜政壇諸事町",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260705/1150510093050056704140352.jpeg/DiUHwrMWi9Ckhj35KjSpVG0LAD3TuPdHes9gcnrPYHI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60366825/%E7%94%B0%E5%8C%97%E8%BE%B0%E5%87%BA%E5%B8%AD3%E5%A0%B4%E7%95%A2%E6%A5%AD%E7%A6%AE-%E8%B6%95%E5%90%8C%E5%A5%B3%E7%AB%A5%E5%BD%B1%E7%95%A2%E6%A5%AD%E7%9B%B8%E6%8F%AD%E8%83%8C%E5%BE%8C%E6%95%85%E4%BA%8B-%E6%94%BF%E5%A3%87%E8%AB%B8%E4%BA%8B%E7%94%BA",
-    "timestamp": "2026-07-05T12:03:40.392Z",
     "strategy": ".content-card__main"
   }
 ];
