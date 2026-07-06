@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-06T20:48:40.686Z
+// Last updated: 2026-07-06T22:04:30.289Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "劉曉彤隱退20年神秘老公終極現身　二女英名校畢業神複製媽媽樣貌",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260706/1150930878923280384870269.jpeg/9RmCcIc4g5IWf4yCkdQdBNyIqCLl_GA20JgntNCYJ7Q?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60367160/%E5%8A%89%E6%9B%89%E5%BD%A4%E9%9A%B1%E9%80%8020%E5%B9%B4%E7%A5%9E%E7%A7%98%E8%80%81%E5%85%AC%E7%B5%82%E6%A5%B5%E7%8F%BE%E8%BA%AB-%E4%BA%8C%E5%A5%B3%E8%8B%B1%E5%90%8D%E6%A0%A1%E7%95%A2%E6%A5%AD%E7%A5%9E%E8%A4%87%E8%A3%BD%E5%AA%BD%E5%AA%BD%E6%A8%A3%E8%B2%8C",
+    "timestamp": "2026-07-06T22:04:30.289Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "特朗普再促伊朗達成核協議　警告軍事行動仍是選項",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20230829/773218185863368704860531.jpeg/0fPVVNTIT33uiZ-vh02aK4HJ42mckFA9k5DPQ5OQz0M?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60366865/%E4%B8%AD%E5%9C%8B%E4%BA%BA%E6%B0%91%E5%A4%A7%E5%AD%B8-%E8%94%A3%E6%96%B9%E8%88%9F%E7%A2%A9%E5%A3%AB%E8%AB%96%E6%96%87%E7%B6%93%E5%B0%88%E5%AE%B6%E7%B5%84%E8%AA%BF%E6%9F%A5-%E6%9C%AA%E7%99%BC%E7%8F%BE%E5%AD%B8%E8%A1%93%E4%B8%8D%E7%AB%AF%E8%A1%8C%E7%82%BA",
     "timestamp": "2026-07-05T18:14:27.973Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "小西灣海旁女子墮海獲救送院治理　友人跳海救人亦受傷",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260706/1150609648324186112946872.jpeg/8LZF4NN23l1HT5QaNBy8ZrHwOg18tYzFIW7qtwtu6rc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60366868/%E5%B0%8F%E8%A5%BF%E7%81%A3%E6%B5%B7%E6%97%81%E5%A5%B3%E5%AD%90%E5%A2%AE%E6%B5%B7%E7%8D%B2%E6%95%91%E9%80%81%E9%99%A2%E6%B2%BB%E7%90%86-%E5%8F%8B%E4%BA%BA%E8%B7%B3%E6%B5%B7%E6%95%91%E4%BA%BA%E4%BA%A6%E5%8F%97%E5%82%B7",
-    "timestamp": "2026-07-05T17:44:50.639Z",
     "strategy": ".content-card__main"
   }
 ];
