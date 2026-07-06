@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-06T16:29:36.504Z
+// Last updated: 2026-07-06T17:32:23.000Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "世界盃｜恩芬天奴證收特朗普電話　但強調FIFA紀律程序獨立自主",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260707/1150967539069620224154876.jpeg/3f8kIutx-4SGaVd23YYzvqIuiLPGi2Pg05uWONObljg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60367241/%E4%B8%96%E7%95%8C%E7%9B%83-%E6%81%A9%E8%8A%AC%E5%A4%A9%E5%A5%B4%E8%AD%89%E6%94%B6%E7%89%B9%E6%9C%97%E6%99%AE%E9%9B%BB%E8%A9%B1-%E4%BD%86%E5%BC%B7%E8%AA%BFfifa%E7%B4%80%E5%BE%8B%E7%A8%8B%E5%BA%8F%E7%8D%A8%E7%AB%8B%E8%87%AA%E4%B8%BB",
+    "timestamp": "2026-07-06T17:32:23.000Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "東張西望｜甘詠寧訪問公屋「野人父子」被趕　豪言曾擸刀大戰房署",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20200413/326307232985780224.jpeg/7dO_fTTOn7BgikUGCHprIfzL9x-VmwbydPoyb3T6Mm8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60366862/opec-%E5%AE%A3%E5%B8%838%E6%9C%88%E7%B9%BC%E7%BA%8C%E5%A2%9E%E7%94%A2-%E7%82%BA%E9%80%A3%E7%BA%8C%E7%AC%AC5%E5%80%8B%E6%9C%88",
     "timestamp": "2026-07-05T16:18:58.568Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "盧瀚霆生日排舞老師加操「神徒」　AL:驚訝 你哋幾時變晒舞王舞后",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260705/1150576002817069056385769.jpeg/H4f7j-rIcRc0VMIOssfCPr-V1H8t1MDDIf17SiH9e0o?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60366860/%E7%9B%A7%E7%80%9A%E9%9C%86%E7%94%9F%E6%97%A5%E6%8E%92%E8%88%9E%E8%80%81%E5%B8%AB%E5%8A%A0%E6%93%8D-%E7%A5%9E%E5%BE%92-al-%E9%A9%9A%E8%A8%9D-%E4%BD%A0%E5%93%8B%E5%B9%BE%E6%99%82%E8%AE%8A%E6%99%92%E8%88%9E%E7%8E%8B%E8%88%9E%E5%90%8E",
-    "timestamp": "2026-07-05T15:48:22.384Z",
     "strategy": ".content-card__main"
   }
 ];
