@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-06T22:04:30.289Z
+// Last updated: 2026-07-06T22:39:00.856Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "TVB視帝帶圈中女神老婆阿女豪歎Rosewood　顏值竟升級：精緻男人",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260706/1150944749784403968530826.jpeg/6K2yxT_sEe1D042OUIFxvfyoJmHgXbp1q2G84qthvOI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60367072/%E9%99%B3%E5%B1%95%E9%B5%AC%E5%B8%B6%E5%96%AE%E6%96%87%E6%9F%94%E9%98%BF%E5%A5%B3%E8%B1%AA%E6%AD%8Erosewood-%E5%B9%BE%E6%97%A5%E5%85%A7%E9%A1%8F%E5%80%BC%E5%8D%87%E7%B4%9A%E5%9B%9E%E6%98%A5-%E7%B2%BE%E7%B7%BB%E7%94%B7%E4%BA%BA",
+    "timestamp": "2026-07-06T22:39:00.856Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "劉曉彤隱退20年神秘老公終極現身　二女英名校畢業神複製媽媽樣貌",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260122/1091142253935595520302847.jpeg/XJyp8Y27k2srj93rJpWcW4GKSuhFJBnvHybzcB8m83A?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60366870/%E5%8C%97%E7%B4%84%E5%B3%B0%E6%9C%83-%E7%99%BD%E5%AE%AE-%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%87%E6%99%A4%E6%BE%A4%E9%80%A3%E6%96%AF%E5%9F%BA-%E5%8F%A6%E8%88%87%E6%95%98%E5%88%A9%E4%BA%9E%E7%B8%BD%E7%B5%B1%E6%9C%83%E8%AB%87",
     "timestamp": "2026-07-05T19:51:07.538Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "中國人民大學：蔣方舟碩士論文經專家組調查　未發現學術不端行為",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20230829/773218185863368704860531.jpeg/0fPVVNTIT33uiZ-vh02aK4HJ42mckFA9k5DPQ5OQz0M?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60366865/%E4%B8%AD%E5%9C%8B%E4%BA%BA%E6%B0%91%E5%A4%A7%E5%AD%B8-%E8%94%A3%E6%96%B9%E8%88%9F%E7%A2%A9%E5%A3%AB%E8%AB%96%E6%96%87%E7%B6%93%E5%B0%88%E5%AE%B6%E7%B5%84%E8%AA%BF%E6%9F%A5-%E6%9C%AA%E7%99%BC%E7%8F%BE%E5%AD%B8%E8%A1%93%E4%B8%8D%E7%AB%AF%E8%A1%8C%E7%82%BA",
-    "timestamp": "2026-07-05T18:14:27.973Z",
     "strategy": ".content-card__main"
   }
 ];
