@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-06T10:58:49.508Z
+// Last updated: 2026-07-06T12:25:31.798Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "佐敦28年歷史酒店「偉晴軒」6.30結業　門口貼告示感謝顧客支持",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260706/1150886016031133696541283.png/PESptqKPdDXhZsBZ3FhGLoXxKefWm78zlKkdDZSpHQ0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60367207/%E4%BD%90%E6%95%A628%E5%B9%B4%E6%AD%B7%E5%8F%B2%E9%85%92%E5%BA%97-%E5%81%89%E6%99%B4%E8%BB%92-6-30%E7%B5%90%E6%A5%AD-%E9%96%80%E5%8F%A3%E8%B2%BC%E5%91%8A%E7%A4%BA%E6%84%9F%E8%AC%9D%E9%A1%A7%E5%AE%A2%E6%94%AF%E6%8C%81",
+    "timestamp": "2026-07-06T12:25:31.798Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "新加坡國大31歲中國籍博士生企圖強姦前室友　判囚7年7月鞭打3下",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260705/1150534828102258688563701.jpeg/-JcgIj3Te5Q71sZ1myoGPrX913trrXYQj3BXbY9wV20?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60366836/%E5%96%AE%E7%AB%8B%E6%96%87%E5%9B%9E%E9%A1%A79%E5%B9%B4%E5%8D%8A-%E7%86%8A%E5%AE%B6-%E6%8B%8D%E6%94%9D%E9%BB%9E%E6%BB%B4-%E9%95%B7%E9%AB%AE%E5%A4%A7%E9%AC%8D%E5%AD%90%E9%80%A0%E5%9E%8B%E7%8F%BE%E8%BA%AB%E5%8B%BE%E8%B5%B7%E5%9B%9E%E6%86%B6",
     "timestamp": "2026-07-05T14:41:54.813Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "Lisa遭疑整鼻失敗　網瘋傳「鼻子驚人變化」對比照　討論登上熱搜",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260705/1150474575943831552189672.png/A53pIOEMGBsrJmLMdXXssB5PSKyFQIDqRkqQ4EZKkOA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60366778/lisa%E9%81%AD%E7%96%91%E6%95%B4%E9%BC%BB%E5%A4%B1%E6%95%97-%E7%B6%B2%E7%98%8B%E5%82%B3-%E9%BC%BB%E5%AD%90%E9%A9%9A%E4%BA%BA%E8%AE%8A%E5%8C%96-%E5%B0%8D%E6%AF%94%E7%85%A7-%E8%A8%8E%E8%AB%96%E7%99%BB%E4%B8%8A%E7%86%B1%E6%90%9C",
-    "timestamp": "2026-07-05T12:43:45.876Z",
     "strategy": ".content-card__main"
   }
 ];
