@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-07T15:35:18.034Z
+// Last updated: 2026-07-07T16:42:58.874Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "東張西望｜公屋野人住後樓梯惡到爆唔肯走：東張西望，有咩望",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260707/1151303186003267584672814.jpeg/6Qm6WTgj8KHZ94hT0eiY3UtXfb-5Q36yqgC60aoAutE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60367644/%E6%9D%B1%E5%BC%B5%E8%A5%BF%E6%9C%9B-%E5%85%AC%E5%B1%8B%E9%87%8E%E4%BA%BA%E4%BD%8F%E5%BE%8C%E6%A8%93%E6%A2%AF%E6%83%A1%E5%88%B0%E7%88%86%E5%94%94%E8%82%AF%E8%B5%B0-%E6%9D%B1%E5%BC%B5%E8%A5%BF%E6%9C%9B-%E6%9C%89%E5%92%A9%E6%9C%9B",
+    "timestamp": "2026-07-07T16:42:58.874Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "日媒：中國金融科技專利居首超越美國　工行申請逾3000宗佔鰲頭",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260707/1150967539069620224154876.jpeg/3f8kIutx-4SGaVd23YYzvqIuiLPGi2Pg05uWONObljg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60367241/%E4%B8%96%E7%95%8C%E7%9B%83-%E6%81%A9%E8%8A%AC%E5%A4%A9%E5%A5%B4%E8%AD%89%E6%94%B6%E7%89%B9%E6%9C%97%E6%99%AE%E9%9B%BB%E8%A9%B1-%E4%BD%86%E5%BC%B7%E8%AA%BFfifa%E7%B4%80%E5%BE%8B%E7%A8%8B%E5%BA%8F%E7%8D%A8%E7%AB%8B%E8%87%AA%E4%B8%BB",
     "timestamp": "2026-07-06T17:32:23.000Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "東張西望｜甘詠寧訪問公屋「野人父子」被趕　豪言曾擸刀大戰房署",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260706/1150899428677128192491758.jpeg/MhWGR_6DR2r_A2GodJmrSO9RW2rr0XNxFi7E2BYuxNg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60367210/%E6%9D%B1%E5%BC%B5%E8%A5%BF%E6%9C%9B-%E7%94%98%E8%A9%A0%E5%AF%A7%E8%A8%AA%E5%95%8F%E5%85%AC%E5%B1%8B-%E9%87%8E%E4%BA%BA%E7%88%B6%E5%AD%90-%E8%A2%AB%E8%B6%95-%E8%B1%AA%E8%A8%80%E6%9B%BE%E6%93%B8%E5%88%80%E5%A4%A7%E6%88%B0%E6%88%BF%E7%BD%B2",
-    "timestamp": "2026-07-06T16:29:36.504Z",
     "strategy": ".content-card__main"
   }
 ];
