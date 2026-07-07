@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-07T06:29:18.958Z
+// Last updated: 2026-07-07T09:18:52.116Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "東京酒店4月起住宿稅加3%　鐵路磁粉車票玩完　2027遊日必知6件事",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260707/1151111827908726784420698.jpeg/AyduT6ykuLB_odoU6goMYDO98RNqQC-euMZuNrjGbjY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%A3%9F%E7%8E%A9%E8%B2%B7/60367299/%E6%9D%B1%E4%BA%AC%E9%85%92%E5%BA%974%E6%9C%88%E8%B5%B7%E4%BD%8F%E5%AE%BF%E7%A8%85%E5%8A%A03-%E9%90%B5%E8%B7%AF%E7%A3%81%E7%B2%89%E8%BB%8A%E7%A5%A8%E7%8E%A9%E5%AE%8C-2027%E9%81%8A%E6%97%A5%E5%BF%85%E7%9F%A56%E4%BB%B6%E4%BA%8B",
+    "timestamp": "2026-07-07T09:18:52.116Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "涉未註冊交易$12萬以上寶石及貴重產品　海關拘公司董事",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20240513/866737043470815232729483.jpeg/n_ANtl6VMRTMbDyCD9IZ-uLOTkSgIoAtH5ioWx-YqFs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%97%85%E9%81%8A/1019003/%E6%B7%B1%E5%9C%B3%E6%96%B0%E7%96%86%E8%8F%9C10%E9%96%93%E6%8E%A8%E4%BB%8B-%E7%83%A4%E7%BE%8A%E6%8E%92-%E7%BE%8A%E8%82%89%E4%B8%B2-%E7%81%AB%E9%8D%8B-%E9%82%8A%E9%A3%9F%E9%82%8A%E7%9D%87%E6%B0%91%E6%97%8F%E8%A1%A8%E6%BC%94",
     "timestamp": "2026-07-06T02:47:19.984Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "MC演唱會套票$499包食宿平過紅館騷一截　驚揭真身係肥媽非張天賦",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260705/1150510387926405120687534.jpeg/MYigvrRIoex7QeQg35fDR5vgXu06780puESoorhEqKI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60366819/mc%E6%BC%94%E5%94%B1%E6%9C%83%E5%A5%97%E7%A5%A8-499%E5%8C%85%E9%A3%9F%E5%AE%BF%E5%B9%B3%E9%81%8E%E7%B4%85%E9%A4%A8%E9%A8%B7%E4%B8%80%E6%88%AA-%E9%A9%9A%E6%8F%AD%E7%9C%9F%E8%BA%AB%E4%BF%82%E8%82%A5%E5%AA%BD%E9%9D%9E%E5%BC%B5%E5%A4%A9%E8%B3%A6",
-    "timestamp": "2026-07-06T01:45:33.840Z",
     "strategy": ".content-card__main"
   }
 ];
