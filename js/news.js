@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-06T23:44:05.811Z
+// Last updated: 2026-07-07T00:14:57.677Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "最新天氣消息｜黃雨警告生效　天文台：元朗區大暴雨可能嚴重水浸",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260705/1150489632094425088625341.jpeg/sJTvR9JpB1s6t5LaeOH-jqRlZaHA4Ki__VZpGudWaRo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60366863/%E6%9C%80%E6%96%B0%E5%A4%A9%E6%B0%A3%E6%B6%88%E6%81%AF-%E9%BB%83%E9%9B%A8%E8%AD%A6%E5%91%8A%E7%94%9F%E6%95%88-%E5%A4%A9%E6%96%87%E5%8F%B0-%E5%85%83%E6%9C%97%E5%8D%80%E5%A4%A7%E6%9A%B4%E9%9B%A8%E5%8F%AF%E8%83%BD%E5%9A%B4%E9%87%8D%E6%B0%B4%E6%B5%B8",
+    "timestamp": "2026-07-07T00:14:57.677Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "世界盃2026｜美國對比利時巴洛根正選　迪布尼杜古後備待命",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260706/1150654862707396608567412.jpeg/SHZFLgu5K33mcz9hpv7rLsLDdSw6GQyvM8j9_DPI_fw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60366874/%E4%BC%8A%E6%9C%97-%E7%A9%86%E5%82%91%E5%A1%94%E5%B7%B4%E4%BB%BB%E5%91%BD%E5%9F%83%E5%82%91%E4%BC%8A%E7%BA%8C%E4%BB%BB%E5%8F%B8%E6%B3%95%E7%B8%BD%E7%9B%A3",
     "timestamp": "2026-07-05T20:59:11.203Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "伊朗：穆傑塔巴任命埃傑伊續任司法總監",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260706/1150654862707396608567412.jpeg/SHZFLgu5K33mcz9hpv7rLsLDdSw6GQyvM8j9_DPI_fw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60366874/%E4%BC%8A%E6%9C%97-%E7%A9%86%E5%82%91%E5%A1%94%E5%B7%B4%E4%BB%BB%E5%91%BD%E5%9F%83%E5%82%91%E4%BC%8A%E7%BA%8C%E4%BB%BB%E5%8F%B8%E6%B3%95%E7%B8%BD%E7%9B%A3",
-    "timestamp": "2026-07-05T20:33:01.137Z",
     "strategy": ".content-card__main"
   }
 ];
