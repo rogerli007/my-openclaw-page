@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-07T13:34:06.691Z
+// Last updated: 2026-07-07T14:29:38.073Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "英國改革黨法拉奇捲富豪捐款案　憤怒稱辭議員職務　將參加補選",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260707/1151282998323187712724185.jpeg/j2arQlheZcldy4lb_PiMMFjG0VmHRnQt-HUbEPh1GxA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60367634/%E8%8B%B1%E5%9C%8B%E6%94%B9%E9%9D%A9%E9%BB%A8%E6%B3%95%E6%8B%89%E5%A5%87%E6%8D%B2%E5%AF%8C%E8%B1%AA%E6%8D%90%E6%AC%BE%E6%A1%88-%E6%86%A4%E6%80%92%E7%A8%B1%E8%BE%AD%E8%AD%B0%E5%93%A1%E8%81%B7%E5%8B%99-%E5%B0%87%E5%8F%83%E5%8A%A0%E8%A3%9C%E9%81%B8",
+    "timestamp": "2026-07-07T14:29:38.073Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "方皓玟澄清與周佩賢非同居關係　驚爆密友死前曾提輕生：以為講笑",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20251223/1080080948525010944536714.jpeg/lLIz0MX4R9e1Af2TI00er6J60ut3lESnIl52KyJedis?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60367226/%E5%8A%A0%E6%B3%A8%E5%BF%AB%E6%89%8B%E6%97%97%E4%B8%8B%E5%8F%AF%E9%9D%88ai%E4%B9%8B%E9%9A%9B-%E9%A8%B0%E8%A8%8A%E6%93%9A%E5%A0%B1%E6%93%AC%E5%94%AE%E5%89%8D%E8%80%85%E8%82%A1%E4%BB%BD-%E6%9C%80%E5%A4%9A%E5%A5%97%E7%8F%BE122%E5%84%84",
     "timestamp": "2026-07-06T13:52:38.988Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "佐敦28年歷史酒店「偉晴軒」6.30結業　門口貼告示感謝顧客支持",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260706/1150886016031133696541283.png/PESptqKPdDXhZsBZ3FhGLoXxKefWm78zlKkdDZSpHQ0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60367207/%E4%BD%90%E6%95%A628%E5%B9%B4%E6%AD%B7%E5%8F%B2%E9%85%92%E5%BA%97-%E5%81%89%E6%99%B4%E8%BB%92-6-30%E7%B5%90%E6%A5%AD-%E9%96%80%E5%8F%A3%E8%B2%BC%E5%91%8A%E7%A4%BA%E6%84%9F%E8%AC%9D%E9%A1%A7%E5%AE%A2%E6%94%AF%E6%8C%81",
-    "timestamp": "2026-07-06T12:25:31.798Z",
     "strategy": ".content-card__main"
   }
 ];
