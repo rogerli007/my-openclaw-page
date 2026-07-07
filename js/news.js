@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-07T12:41:44.972Z
+// Last updated: 2026-07-07T13:34:06.691Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "方皓玟澄清與周佩賢非同居關係　驚爆密友死前曾提輕生：以為講笑",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260707/1151274342194089984416829.png/UZe87RqCWUF3agYFZTiruVLVz04_zgG5QxJN90MSTfc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60367625/%E6%96%B9%E7%9A%93%E7%8E%9F%E6%BE%84%E6%B8%85%E8%88%87%E5%91%A8%E4%BD%A9%E8%B3%A2%E9%9D%9E%E5%90%8C%E5%B1%85%E9%97%9C%E4%BF%82-%E9%A9%9A%E7%88%86%E5%AF%86%E5%8F%8B%E6%AD%BB%E5%89%8D%E6%9B%BE%E6%8F%90%E8%BC%95%E7%94%9F-%E4%BB%A5%E7%82%BA%E8%AC%9B%E7%AC%91",
+    "timestamp": "2026-07-07T13:34:06.691Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "七七事變89周年｜鄭麗文：戰爭或和平的關鍵，掌握在這代人手裡",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260706/1150886016031133696541283.png/PESptqKPdDXhZsBZ3FhGLoXxKefWm78zlKkdDZSpHQ0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60367207/%E4%BD%90%E6%95%A628%E5%B9%B4%E6%AD%B7%E5%8F%B2%E9%85%92%E5%BA%97-%E5%81%89%E6%99%B4%E8%BB%92-6-30%E7%B5%90%E6%A5%AD-%E9%96%80%E5%8F%A3%E8%B2%BC%E5%91%8A%E7%A4%BA%E6%84%9F%E8%AC%9D%E9%A1%A7%E5%AE%A2%E6%94%AF%E6%8C%81",
     "timestamp": "2026-07-06T12:25:31.798Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "新加坡國大31歲中國籍博士生企圖強姦前室友　判囚7年7月鞭打3下",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260706/1150816142206439424857613.png/d1l3GB2K3vSJzV176YTQLBRFfh_y-XKOzVqmKM1apig?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60367060/%E6%96%B0%E5%8A%A0%E5%9D%A1%E5%9C%8B%E5%A4%A731%E6%AD%B2%E4%B8%AD%E5%9C%8B%E7%B1%8D%E5%8D%9A%E5%A3%AB%E7%94%9F%E4%BC%81%E5%9C%96%E5%BC%B7%E5%A7%A6%E5%89%8D%E5%AE%A4%E5%8F%8B-%E5%88%A4%E5%9B%9A7%E5%B9%B47%E6%9C%88%E9%9E%AD%E6%89%933%E4%B8%8B",
-    "timestamp": "2026-07-06T10:58:49.508Z",
     "strategy": ".content-card__main"
   }
 ];
