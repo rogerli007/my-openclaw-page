@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-07T01:08:41.917Z
+// Last updated: 2026-07-07T03:20:27.227Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "打造黃金港｜財庫局︰黃金中央清算系統試運　精準配套同步推出",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260126/1092491013101981696413579.jpeg/duofH0bkMyZ8ddjvNiTZQHx1SbZiga0xDaB_pg2gf6Y?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60367326/%E6%89%93%E9%80%A0%E9%BB%83%E9%87%91%E6%B8%AF-%E8%B2%A1%E5%BA%AB%E5%B1%80-%E9%BB%83%E9%87%91%E4%B8%AD%E5%A4%AE%E6%B8%85%E7%AE%97%E7%B3%BB%E7%B5%B1%E8%A9%A6%E9%81%8B-%E7%B2%BE%E6%BA%96%E9%85%8D%E5%A5%97%E5%90%8C%E6%AD%A5%E6%8E%A8%E5%87%BA",
+    "timestamp": "2026-07-07T03:20:27.227Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "內地客1020萬購西營盤暢園三房連車位　長情業主持貨48年賺近千萬",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260618/1144343095660253184173586.jpeg/YrUOLerVp63ZxC3t4ms-gKpRxZ0h_eN56CE3t-ghN7c?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60361809/%E5%88%A9%E5%98%89%E9%96%A3%E8%91%97%E9%87%8D%E6%96%B0%E5%8D%80%E6%93%B4%E5%85%85-%E7%B5%84%E6%99%AE%E9%80%9A%E8%A9%B1%E5%B0%88%E9%9A%8A%E5%90%B8%E5%AE%A2-%E6%96%BD%E6%85%A7%E5%8B%A4-ai%E9%9B%A3%E5%8F%96%E4%BB%A3%E4%BB%A3%E7%90%86",
     "timestamp": "2026-07-05T23:31:01.603Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "世界盃｜美國前鋒巴洛根紅牌停賽暫緩　特朗普被指曾聯絡FIFA主席",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260706/1150669998339919872918723.jpeg/lwru33FIxI4CmPy6fygGLx90sq3GiUty08JsQtPCbEI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60366876/%E4%B8%96%E7%95%8C%E7%9B%83-%E7%BE%8E%E5%9C%8B%E5%89%8D%E9%8B%92%E5%B7%B4%E6%B4%9B%E6%A0%B9%E7%B4%85%E7%89%8C%E5%81%9C%E8%B3%BD%E6%9A%AB%E7%B7%A9-%E7%89%B9%E6%9C%97%E6%99%AE%E8%A2%AB%E6%8C%87%E6%9B%BE%E8%81%AF%E7%B5%A1fifa%E4%B8%BB%E5%B8%AD",
-    "timestamp": "2026-07-05T21:56:25.619Z",
     "strategy": ".content-card__main"
   }
 ];
