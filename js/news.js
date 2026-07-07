@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-07T14:29:38.073Z
+// Last updated: 2026-07-07T15:35:18.034Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "日媒：中國金融科技專利居首超越美國　工行申請逾3000宗佔鰲頭",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20211203/543460537694949376017869.jpeg/9WS6X5mpdPKGnJGPHmi0NEMxStpFljkvegarRnoGq0Y?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60367617/%E6%97%A5%E5%AA%92-%E4%B8%AD%E5%9C%8B%E9%87%91%E8%9E%8D%E7%A7%91%E6%8A%80%E5%B0%88%E5%88%A9%E5%B1%85%E9%A6%96%E8%B6%85%E8%B6%8A%E7%BE%8E%E5%9C%8B-%E5%B7%A5%E8%A1%8C%E7%94%B3%E8%AB%8B%E9%80%BE3000%E5%AE%97%E4%BD%94%E9%B0%B2%E9%A0%AD",
+    "timestamp": "2026-07-07T15:35:18.034Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "英國改革黨法拉奇捲富豪捐款案　憤怒稱辭議員職務　將參加補選",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260706/1150899428677128192491758.jpeg/MhWGR_6DR2r_A2GodJmrSO9RW2rr0XNxFi7E2BYuxNg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60367210/%E6%9D%B1%E5%BC%B5%E8%A5%BF%E6%9C%9B-%E7%94%98%E8%A9%A0%E5%AF%A7%E8%A8%AA%E5%95%8F%E5%85%AC%E5%B1%8B-%E9%87%8E%E4%BA%BA%E7%88%B6%E5%AD%90-%E8%A2%AB%E8%B6%95-%E8%B1%AA%E8%A8%80%E6%9B%BE%E6%93%B8%E5%88%80%E5%A4%A7%E6%88%B0%E6%88%BF%E7%BD%B2",
     "timestamp": "2026-07-06T16:29:36.504Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "加注快手旗下可靈AI之際　騰訊據報擬售前者股份　最多套現122億",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20251223/1080080948525010944536714.jpeg/lLIz0MX4R9e1Af2TI00er6J60ut3lESnIl52KyJedis?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60367226/%E5%8A%A0%E6%B3%A8%E5%BF%AB%E6%89%8B%E6%97%97%E4%B8%8B%E5%8F%AF%E9%9D%88ai%E4%B9%8B%E9%9A%9B-%E9%A8%B0%E8%A8%8A%E6%93%9A%E5%A0%B1%E6%93%AC%E5%94%AE%E5%89%8D%E8%80%85%E8%82%A1%E4%BB%BD-%E6%9C%80%E5%A4%9A%E5%A5%97%E7%8F%BE122%E5%84%84",
-    "timestamp": "2026-07-06T13:52:38.988Z",
     "strategy": ".content-card__main"
   }
 ];
