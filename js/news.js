@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-07T11:36:45.624Z
+// Last updated: 2026-07-07T12:41:44.972Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "七七事變89周年｜鄭麗文：戰爭或和平的關鍵，掌握在這代人手裡",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260707/1151261091167211520803521.jpeg/wfDiA4XPt3fwjsy_PR824whzy-yZ0Liun4LJ4p-CyeI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8F%B0%E7%81%A3%E6%96%B0%E8%81%9E/60367619/%E4%B8%83%E4%B8%83%E4%BA%8B%E8%AE%8A89%E5%91%A8%E5%B9%B4-%E9%84%AD%E9%BA%97%E6%96%87-%E6%88%B0%E7%88%AD%E6%88%96%E5%92%8C%E5%B9%B3%E7%9A%84%E9%97%9C%E9%8D%B5-%E6%8E%8C%E6%8F%A1%E5%9C%A8%E9%80%99%E4%BB%A3%E4%BA%BA%E6%89%8B%E8%A3%A1",
+    "timestamp": "2026-07-07T12:41:44.972Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "心理測驗｜選一張落日圖片　測一測你在異性眼中存在感到底有多高",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260706/1150816142206439424857613.png/d1l3GB2K3vSJzV176YTQLBRFfh_y-XKOzVqmKM1apig?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60367060/%E6%96%B0%E5%8A%A0%E5%9D%A1%E5%9C%8B%E5%A4%A731%E6%AD%B2%E4%B8%AD%E5%9C%8B%E7%B1%8D%E5%8D%9A%E5%A3%AB%E7%94%9F%E4%BC%81%E5%9C%96%E5%BC%B7%E5%A7%A6%E5%89%8D%E5%AE%A4%E5%8F%8B-%E5%88%A4%E5%9B%9A7%E5%B9%B47%E6%9C%88%E9%9E%AD%E6%89%933%E4%B8%8B",
     "timestamp": "2026-07-06T10:58:49.508Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "澳洲與斐濟簽署防衛協議　中國同日太平洋試射潛射戰略導彈",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260706/1150797905620111360302819.jpeg/mfiN5q7UHGA7SfTBq2LcKhMDONJOk9vAQaXPcEGlz3A?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60367024/%E6%BE%B3%E6%B4%B2%E8%88%87%E6%96%90%E6%BF%9F%E7%B0%BD%E7%BD%B2%E9%98%B2%E8%A1%9B%E5%8D%94%E8%AD%B0-%E4%B8%AD%E5%9C%8B%E5%90%8C%E6%97%A5%E5%A4%AA%E5%B9%B3%E6%B4%8B%E8%A9%A6%E5%B0%84%E6%BD%9B%E5%B0%84%E6%88%B0%E7%95%A5%E5%B0%8E%E5%BD%88",
-    "timestamp": "2026-07-06T05:51:58.231Z",
     "strategy": ".content-card__main"
   }
 ];
