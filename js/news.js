@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-07T03:20:27.227Z
+// Last updated: 2026-07-07T04:55:31.765Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "天文台原來有綠雨暴雨警告？神秘訊號30年未發過　因1原因被取消",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260707/1151145554152001536589064.jpeg/B5S84KDLZfup30p1llGxv-3O4JiM305lbZ7-rm2e_q4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%A3%9F%E7%8E%A9%E8%B2%B7/60248335/%E5%A4%A9%E6%96%87%E5%8F%B0%E5%8E%9F%E4%BE%86%E6%9C%89%E7%B6%A0%E9%9B%A8%E6%9A%B4%E9%9B%A8%E8%AD%A6%E5%91%8A-%E7%A5%9E%E7%A7%98%E8%A8%8A%E8%99%9F30%E5%B9%B4%E6%9C%AA%E7%99%BC%E9%81%8E-%E5%9B%A01%E5%8E%9F%E5%9B%A0%E8%A2%AB%E5%8F%96%E6%B6%88",
+    "timestamp": "2026-07-07T04:55:31.765Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "打造黃金港｜財庫局︰黃金中央清算系統試運　精準配套同步推出",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260222/1102269756557234176106392.jpeg/a3bc5yx_0jKon3rkunzRWginBbd2c-IIxRRGl8UURpc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60366885/%E8%B2%A1%E7%B6%93%E8%A6%96%E9%87%8E-%E7%AB%9F%E6%83%B3%E5%88%B0%E5%90%91%E7%99%BD%E5%AE%AE%E7%84%A1%E5%84%9F%E8%AE%93%E8%82%A1-openai-%E9%97%9C%E9%8D%B5%E8%B3%AD%E5%B1%80%E6%B2%92%E6%9C%89%E9%80%80%E8%B7%AF",
     "timestamp": "2026-07-05T23:57:14.055Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "利嘉閣著重新區擴充　組普通話專隊吸客　施慧勤：AI難取代代理！",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260618/1144343095660253184173586.jpeg/YrUOLerVp63ZxC3t4ms-gKpRxZ0h_eN56CE3t-ghN7c?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60361809/%E5%88%A9%E5%98%89%E9%96%A3%E8%91%97%E9%87%8D%E6%96%B0%E5%8D%80%E6%93%B4%E5%85%85-%E7%B5%84%E6%99%AE%E9%80%9A%E8%A9%B1%E5%B0%88%E9%9A%8A%E5%90%B8%E5%AE%A2-%E6%96%BD%E6%85%A7%E5%8B%A4-ai%E9%9B%A3%E5%8F%96%E4%BB%A3%E4%BB%A3%E7%90%86",
-    "timestamp": "2026-07-05T23:31:01.603Z",
     "strategy": ".content-card__main"
   }
 ];
