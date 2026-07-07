@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-07T04:55:31.765Z
+// Last updated: 2026-07-07T06:29:18.958Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "涉未註冊交易$12萬以上寶石及貴重產品　海關拘公司董事",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20230903/774955874488684544715943.jpeg/CizkVUCAgnB9Yuv7UUa7723R0w2NZOpHSQVQ6WMFUOk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60367417/%E6%B6%89%E6%9C%AA%E8%A8%BB%E5%86%8A%E4%BA%A4%E6%98%93-12%E8%90%AC%E4%BB%A5%E4%B8%8A%E5%AF%B6%E7%9F%B3%E5%8F%8A%E8%B2%B4%E9%87%8D%E7%94%A2%E5%93%81-%E6%B5%B7%E9%97%9C%E6%8B%98%E5%85%AC%E5%8F%B8%E8%91%A3%E4%BA%8B",
+    "timestamp": "2026-07-07T06:29:18.958Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "天文台原來有綠雨暴雨警告？神秘訊號30年未發過　因1原因被取消",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260705/1150510387926405120687534.jpeg/MYigvrRIoex7QeQg35fDR5vgXu06780puESoorhEqKI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60366819/mc%E6%BC%94%E5%94%B1%E6%9C%83%E5%A5%97%E7%A5%A8-499%E5%8C%85%E9%A3%9F%E5%AE%BF%E5%B9%B3%E9%81%8E%E7%B4%85%E9%A4%A8%E9%A8%B7%E4%B8%80%E6%88%AA-%E9%A9%9A%E6%8F%AD%E7%9C%9F%E8%BA%AB%E4%BF%82%E8%82%A5%E5%AA%BD%E9%9D%9E%E5%BC%B5%E5%A4%A9%E8%B3%A6",
     "timestamp": "2026-07-06T01:45:33.840Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "財經視野｜竟想到向白宮無償讓股！　OpenAI 關鍵賭局沒有退路",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260222/1102269756557234176106392.jpeg/a3bc5yx_0jKon3rkunzRWginBbd2c-IIxRRGl8UURpc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60366885/%E8%B2%A1%E7%B6%93%E8%A6%96%E9%87%8E-%E7%AB%9F%E6%83%B3%E5%88%B0%E5%90%91%E7%99%BD%E5%AE%AE%E7%84%A1%E5%84%9F%E8%AE%93%E8%82%A1-openai-%E9%97%9C%E9%8D%B5%E8%B3%AD%E5%B1%80%E6%B2%92%E6%9C%89%E9%80%80%E8%B7%AF",
-    "timestamp": "2026-07-05T23:57:14.055Z",
     "strategy": ".content-card__main"
   }
 ];
