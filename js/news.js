@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-07T10:34:23.601Z
+// Last updated: 2026-07-07T11:36:45.624Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "心理測驗｜選一張落日圖片　測一測你在異性眼中存在感到底有多高",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260702/1149409550714015744364510.jpeg/04_sp6YDLJYAHCphMm10FzLyeR6EnjOzyTrd3ck63d0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%AB%87%E6%83%85%E8%AA%AA%E6%80%A7/60358893/%E5%BF%83%E7%90%86%E6%B8%AC%E9%A9%97-%E9%81%B8%E4%B8%80%E5%BC%B5%E8%90%BD%E6%97%A5%E5%9C%96%E7%89%87-%E6%B8%AC%E4%B8%80%E6%B8%AC%E4%BD%A0%E5%9C%A8%E7%95%B0%E6%80%A7%E7%9C%BC%E4%B8%AD%E5%AD%98%E5%9C%A8%E6%84%9F%E5%88%B0%E5%BA%95%E6%9C%89%E5%A4%9A%E9%AB%98",
+    "timestamp": "2026-07-07T11:36:45.624Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "央視紀錄片《布達拉宮》開播　闡明中央擁西藏政教事務決定性權威",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260706/1150797905620111360302819.jpeg/mfiN5q7UHGA7SfTBq2LcKhMDONJOk9vAQaXPcEGlz3A?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60367024/%E6%BE%B3%E6%B4%B2%E8%88%87%E6%96%90%E6%BF%9F%E7%B0%BD%E7%BD%B2%E9%98%B2%E8%A1%9B%E5%8D%94%E8%AD%B0-%E4%B8%AD%E5%9C%8B%E5%90%8C%E6%97%A5%E5%A4%AA%E5%B9%B3%E6%B4%8B%E8%A9%A6%E5%B0%84%E6%BD%9B%E5%B0%84%E6%88%B0%E7%95%A5%E5%B0%8E%E5%BD%88",
     "timestamp": "2026-07-06T05:51:58.231Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "法國繼羅浮宮後再有博物館發生失竊案　價值3600萬元珠寶被盜",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260706/1150772067860221952637208.png/5mQeXvbBpEY8PR9rlqObjQsdg0yiu_Nutoz9p7aM_ac?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60366989/%E6%B3%95%E5%9C%8B%E7%B9%BC%E7%BE%85%E6%B5%AE%E5%AE%AE%E5%BE%8C%E5%86%8D%E6%9C%89%E5%8D%9A%E7%89%A9%E9%A4%A8%E7%99%BC%E7%94%9F%E5%A4%B1%E7%AB%8A%E6%A1%88-%E5%83%B9%E5%80%BC3600%E8%90%AC%E5%85%83%E7%8F%A0%E5%AF%B6%E8%A2%AB%E7%9B%9C",
-    "timestamp": "2026-07-06T04:18:10.168Z",
     "strategy": ".content-card__main"
   }
 ];
