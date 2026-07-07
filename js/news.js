@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-07T09:18:52.116Z
+// Last updated: 2026-07-07T10:34:23.601Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "央視紀錄片《布達拉宮》開播　闡明中央擁西藏政教事務決定性權威",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260707/1151230520085057536087325.jpeg/TmbcCTmoIW1gJR9ev1cmBnN4dCNLrw1pmZeebJmXnmw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60367577/%E5%A4%AE%E8%A6%96%E7%B4%80%E9%8C%84%E7%89%87-%E5%B8%83%E9%81%94%E6%8B%89%E5%AE%AE-%E9%96%8B%E6%92%AD-%E9%97%A1%E6%98%8E%E4%B8%AD%E5%A4%AE%E6%93%81%E8%A5%BF%E8%97%8F%E6%94%BF%E6%95%99%E4%BA%8B%E5%8B%99%E6%B1%BA%E5%AE%9A%E6%80%A7%E6%AC%8A%E5%A8%81",
+    "timestamp": "2026-07-07T10:34:23.601Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "東京酒店4月起住宿稅加3%　鐵路磁粉車票玩完　2027遊日必知6件事",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260706/1150772067860221952637208.png/5mQeXvbBpEY8PR9rlqObjQsdg0yiu_Nutoz9p7aM_ac?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60366989/%E6%B3%95%E5%9C%8B%E7%B9%BC%E7%BE%85%E6%B5%AE%E5%AE%AE%E5%BE%8C%E5%86%8D%E6%9C%89%E5%8D%9A%E7%89%A9%E9%A4%A8%E7%99%BC%E7%94%9F%E5%A4%B1%E7%AB%8A%E6%A1%88-%E5%83%B9%E5%80%BC3600%E8%90%AC%E5%85%83%E7%8F%A0%E5%AF%B6%E8%A2%AB%E7%9B%9C",
     "timestamp": "2026-07-06T04:18:10.168Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "深圳新疆菜10間推介｜烤羊排／羊肉串／火鍋　邊食邊睇民族表演",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20240513/866737043470815232729483.jpeg/n_ANtl6VMRTMbDyCD9IZ-uLOTkSgIoAtH5ioWx-YqFs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%97%85%E9%81%8A/1019003/%E6%B7%B1%E5%9C%B3%E6%96%B0%E7%96%86%E8%8F%9C10%E9%96%93%E6%8E%A8%E4%BB%8B-%E7%83%A4%E7%BE%8A%E6%8E%92-%E7%BE%8A%E8%82%89%E4%B8%B2-%E7%81%AB%E9%8D%8B-%E9%82%8A%E9%A3%9F%E9%82%8A%E7%9D%87%E6%B0%91%E6%97%8F%E8%A1%A8%E6%BC%94",
-    "timestamp": "2026-07-06T02:47:19.984Z",
     "strategy": ".content-card__main"
   }
 ];
