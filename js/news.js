@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-07T16:42:58.874Z
+// Last updated: 2026-07-07T18:22:18.879Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "世界盃2026｜阿根廷3：2險勝埃及　美斯再刷新入球紀錄",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260708/1151345238371995648284039.jpeg/4H4m4sEGuPxBKCd9b4cT89nbrzE1BGJ1RCPeqEQj3qg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60367656/%E4%B8%96%E7%95%8C%E7%9B%832026-%E9%98%BF%E6%A0%B9%E5%BB%B73-2%E9%9A%AA%E5%8B%9D%E5%9F%83%E5%8F%8A-%E7%BE%8E%E6%96%AF%E5%86%8D%E5%88%B7%E6%96%B0%E5%85%A5%E7%90%83%E7%B4%80%E9%8C%84",
+    "timestamp": "2026-07-07T18:22:18.879Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "東張西望｜公屋野人住後樓梯惡到爆唔肯走：東張西望，有咩望",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260707/1150977106281238528289103.jpeg/WsvttmGJvWHUJKPm4VERfMh0opD1rmpIDQc6tA0HOrQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60367243/%E4%BF%84%E7%A8%B1%E7%A9%BA%E8%A5%B2%E7%83%8F%E5%85%8B%E8%98%AD%E8%BB%8D%E5%B7%A5%E5%8F%8A%E8%83%BD%E6%BA%90%E8%A8%AD%E6%96%BD-%E5%9B%9E%E6%87%89%E7%85%89%E6%B2%B9%E5%BB%A0%E7%AD%89%E8%A8%AD%E6%96%BD%E5%A4%A7%E8%A6%8F%E6%A8%A1%E5%8F%97%E8%A5%B2",
     "timestamp": "2026-07-06T18:22:23.889Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "世界盃｜恩芬天奴證收特朗普電話　但強調FIFA紀律程序獨立自主",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260707/1150967539069620224154876.jpeg/3f8kIutx-4SGaVd23YYzvqIuiLPGi2Pg05uWONObljg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60367241/%E4%B8%96%E7%95%8C%E7%9B%83-%E6%81%A9%E8%8A%AC%E5%A4%A9%E5%A5%B4%E8%AD%89%E6%94%B6%E7%89%B9%E6%9C%97%E6%99%AE%E9%9B%BB%E8%A9%B1-%E4%BD%86%E5%BC%B7%E8%AA%BFfifa%E7%B4%80%E5%BE%8B%E7%A8%8B%E5%BA%8F%E7%8D%A8%E7%AB%8B%E8%87%AA%E4%B8%BB",
-    "timestamp": "2026-07-06T17:32:23.000Z",
     "strategy": ".content-card__main"
   }
 ];
