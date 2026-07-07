@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-07T00:14:57.677Z
+// Last updated: 2026-07-07T01:08:41.917Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "內地客1020萬購西營盤暢園三房連車位　長情業主持貨48年賺近千萬",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260706/1150772244528500736876925.jpeg/DvQPteKYIDazm7gmq8K_Mxk4wbQHGEjjnNbthpzW7YY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60366970/%E5%85%A7%E5%9C%B0%E5%AE%A21020%E8%90%AC%E8%B3%BC%E8%A5%BF%E7%87%9F%E7%9B%A4%E6%9A%A2%E5%9C%92%E4%B8%89%E6%88%BF%E9%80%A3%E8%BB%8A%E4%BD%8D-%E9%95%B7%E6%83%85%E6%A5%AD%E4%B8%BB%E6%8C%81%E8%B2%A848%E5%B9%B4%E8%B3%BA%E8%BF%91%E5%8D%83%E8%90%AC",
+    "timestamp": "2026-07-07T01:08:41.917Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "最新天氣消息｜黃雨警告生效　天文台：元朗區大暴雨可能嚴重水浸",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260706/1150669998339919872918723.jpeg/lwru33FIxI4CmPy6fygGLx90sq3GiUty08JsQtPCbEI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60366876/%E4%B8%96%E7%95%8C%E7%9B%83-%E7%BE%8E%E5%9C%8B%E5%89%8D%E9%8B%92%E5%B7%B4%E6%B4%9B%E6%A0%B9%E7%B4%85%E7%89%8C%E5%81%9C%E8%B3%BD%E6%9A%AB%E7%B7%A9-%E7%89%B9%E6%9C%97%E6%99%AE%E8%A2%AB%E6%8C%87%E6%9B%BE%E8%81%AF%E7%B5%A1fifa%E4%B8%BB%E5%B8%AD",
     "timestamp": "2026-07-05T21:56:25.619Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "伊朗：穆傑塔巴任命埃傑伊續任司法總監",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260706/1150654862707396608567412.jpeg/SHZFLgu5K33mcz9hpv7rLsLDdSw6GQyvM8j9_DPI_fw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60366874/%E4%BC%8A%E6%9C%97-%E7%A9%86%E5%82%91%E5%A1%94%E5%B7%B4%E4%BB%BB%E5%91%BD%E5%9F%83%E5%82%91%E4%BC%8A%E7%BA%8C%E4%BB%BB%E5%8F%B8%E6%B3%95%E7%B8%BD%E7%9B%A3",
-    "timestamp": "2026-07-05T20:59:11.203Z",
     "strategy": ".content-card__main"
   }
 ];
