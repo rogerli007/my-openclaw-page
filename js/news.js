@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-07T21:21:08.345Z
+// Last updated: 2026-07-07T22:03:25.338Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美軍稱對伊朗發動打擊回應海峽船隻遇襲　伊媒：該國南部傳爆炸聲",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20230918/780555067106267136648931.jpeg/rFRgI---1LBcIpZUWshNyYgGdbkLUYhJ8eBZX_HgWV8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60367676/%E7%BE%8E%E8%BB%8D%E7%A8%B1%E5%B0%8D%E4%BC%8A%E6%9C%97%E7%99%BC%E5%8B%95%E6%89%93%E6%93%8A%E5%9B%9E%E6%87%89%E6%B5%B7%E5%B3%BD%E8%88%B9%E9%9A%BB%E9%81%87%E8%A5%B2-%E4%BC%8A%E5%AA%92-%E8%A9%B2%E5%9C%8B%E5%8D%97%E9%83%A8%E5%82%B3%E7%88%86%E7%82%B8%E8%81%B2",
+    "timestamp": "2026-07-07T22:03:25.338Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "跨部門元朗掃黃　24女被捕最細16歲　其中一名流鶯穿美斯10號球衣",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260706/1150930878923280384870269.jpeg/9RmCcIc4g5IWf4yCkdQdBNyIqCLl_GA20JgntNCYJ7Q?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60367160/%E5%8A%89%E6%9B%89%E5%BD%A4%E9%9A%B1%E9%80%8020%E5%B9%B4%E7%A5%9E%E7%A7%98%E8%80%81%E5%85%AC%E7%B5%82%E6%A5%B5%E7%8F%BE%E8%BA%AB-%E4%BA%8C%E5%A5%B3%E8%8B%B1%E5%90%8D%E6%A0%A1%E7%95%A2%E6%A5%AD%E7%A5%9E%E8%A4%87%E8%A3%BD%E5%AA%BD%E5%AA%BD%E6%A8%A3%E8%B2%8C",
     "timestamp": "2026-07-06T22:04:30.289Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普再促伊朗達成核協議　警告軍事行動仍是選項",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260707/1150988319685873664693801.jpeg/MC-pP3mogONUtcBm5uBpQYJz1d7i7xUbz67hs8-u4bM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60367244/%E7%89%B9%E6%9C%97%E6%99%AE%E5%86%8D%E4%BF%83%E4%BC%8A%E6%9C%97%E9%81%94%E6%88%90%E6%A0%B8%E5%8D%94%E8%AD%B0-%E8%AD%A6%E5%91%8A%E8%BB%8D%E4%BA%8B%E8%A1%8C%E5%8B%95%E4%BB%8D%E6%98%AF%E9%81%B8%E9%A0%85",
-    "timestamp": "2026-07-06T20:48:40.686Z",
     "strategy": ".content-card__main"
   }
 ];
