@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-07T18:22:18.879Z
+// Last updated: 2026-07-07T20:48:37.986Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "霍爾木茲海峽據報24小時內3船遇襲　美國撤銷伊朗石油出口許可",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260408/1118494777696849920531807.jpeg/bJKXieweaKz0_MHIfts1RhWZvxPfp7lNbQQu5m0ELuY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60367668/%E9%9C%8D%E7%88%BE%E6%9C%A8%E8%8C%B2%E6%B5%B7%E5%B3%BD%E6%93%9A%E5%A0%B124%E5%B0%8F%E6%99%82%E5%85%A73%E8%88%B9%E9%81%87%E8%A5%B2-%E7%BE%8E%E5%9C%8B%E6%92%A4%E9%8A%B7%E4%BC%8A%E6%9C%97%E7%9F%B3%E6%B2%B9%E5%87%BA%E5%8F%A3%E8%A8%B1%E5%8F%AF",
+    "timestamp": "2026-07-07T20:48:37.986Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "世界盃2026｜阿根廷3：2險勝埃及　美斯再刷新入球紀錄",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260620/1144875474837573632365897.jpeg/JJTiy-eDouS_0OayiEXaoEBjXt_g_Wq16c8Q2tPPENo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60367246/%E7%8F%8D%E6%83%9C%E7%94%9F%E5%91%BD-%E7%A7%80%E8%8C%82%E5%9D%AA22%E6%AD%B2%E5%B0%91%E5%A5%B3%E8%88%87%E7%94%B7%E5%8F%8B%E7%88%AD%E5%9F%B7%E5%BE%8C%E5%A2%AE%E6%A8%93-%E9%80%81%E9%99%A2%E6%83%9C%E4%B8%8D%E6%B2%BB",
     "timestamp": "2026-07-06T19:13:13.898Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "俄稱空襲烏克蘭軍工及能源設施　回應煉油廠等設施大規模受襲",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260707/1150977106281238528289103.jpeg/WsvttmGJvWHUJKPm4VERfMh0opD1rmpIDQc6tA0HOrQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60367243/%E4%BF%84%E7%A8%B1%E7%A9%BA%E8%A5%B2%E7%83%8F%E5%85%8B%E8%98%AD%E8%BB%8D%E5%B7%A5%E5%8F%8A%E8%83%BD%E6%BA%90%E8%A8%AD%E6%96%BD-%E5%9B%9E%E6%87%89%E7%85%89%E6%B2%B9%E5%BB%A0%E7%AD%89%E8%A8%AD%E6%96%BD%E5%A4%A7%E8%A6%8F%E6%A8%A1%E5%8F%97%E8%A5%B2",
-    "timestamp": "2026-07-06T18:22:23.889Z",
     "strategy": ".content-card__main"
   }
 ];
