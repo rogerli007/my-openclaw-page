@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-07T20:48:37.986Z
+// Last updated: 2026-07-07T21:21:08.345Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "跨部門元朗掃黃　24女被捕最細16歲　其中一名流鶯穿美斯10號球衣",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260708/1151392813334663168135678.jpeg/QEZKgi_xTJe5YhEJFPszD1oZOz5Q25qbrZnaba2Z2m0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60367673/%E8%B7%A8%E9%83%A8%E9%96%80%E5%85%83%E6%9C%97%E6%8E%83%E9%BB%83-24%E5%A5%B3%E8%A2%AB%E6%8D%95%E6%9C%80%E7%B4%B016%E6%AD%B2-%E5%85%B6%E4%B8%AD%E4%B8%80%E5%90%8D%E6%B5%81%E9%B6%AF%E7%A9%BF%E7%BE%8E%E6%96%AF10%E8%99%9F%E7%90%83%E8%A1%A3",
+    "timestamp": "2026-07-07T21:21:08.345Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "霍爾木茲海峽據報24小時內3船遇襲　美國撤銷伊朗石油出口許可",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260707/1150988319685873664693801.jpeg/MC-pP3mogONUtcBm5uBpQYJz1d7i7xUbz67hs8-u4bM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60367244/%E7%89%B9%E6%9C%97%E6%99%AE%E5%86%8D%E4%BF%83%E4%BC%8A%E6%9C%97%E9%81%94%E6%88%90%E6%A0%B8%E5%8D%94%E8%AD%B0-%E8%AD%A6%E5%91%8A%E8%BB%8D%E4%BA%8B%E8%A1%8C%E5%8B%95%E4%BB%8D%E6%98%AF%E9%81%B8%E9%A0%85",
     "timestamp": "2026-07-06T20:48:40.686Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "珍惜生命｜秀茂坪22歲少女與男友爭執後墮樓　送院惜不治",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260620/1144875474837573632365897.jpeg/JJTiy-eDouS_0OayiEXaoEBjXt_g_Wq16c8Q2tPPENo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60367246/%E7%8F%8D%E6%83%9C%E7%94%9F%E5%91%BD-%E7%A7%80%E8%8C%82%E5%9D%AA22%E6%AD%B2%E5%B0%91%E5%A5%B3%E8%88%87%E7%94%B7%E5%8F%8B%E7%88%AD%E5%9F%B7%E5%BE%8C%E5%A2%AE%E6%A8%93-%E9%80%81%E9%99%A2%E6%83%9C%E4%B8%8D%E6%B2%BB",
-    "timestamp": "2026-07-06T19:13:13.898Z",
     "strategy": ".content-card__main"
   }
 ];
