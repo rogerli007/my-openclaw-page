@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-08T12:17:27.797Z
+// Last updated: 2026-07-08T12:56:14.017Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "世界女排聯賽2026香港站｜意大利黃金終陣容合體　烏克蘭力拼惜負",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260708/1151626761268629504192387.jpeg/bhk-f8BCAcyBje5GcD8vxqWt2oqweEqQ58Y7MOfGOzA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60367840/%E4%B8%96%E7%95%8C%E5%A5%B3%E6%8E%92%E8%81%AF%E8%B3%BD2026%E9%A6%99%E6%B8%AF%E7%AB%99-%E6%84%8F%E5%A4%A7%E5%88%A9%E9%BB%83%E9%87%91%E7%B5%82%E9%99%A3%E5%AE%B9%E5%90%88%E9%AB%94-%E7%83%8F%E5%85%8B%E8%98%AD%E5%8A%9B%E6%8B%BC%E6%83%9C%E8%B2%A0",
+    "timestamp": "2026-07-08T12:56:14.017Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "傳施南生病重留院接受治療　好友張艾嘉行色匆匆趕到醫院",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260707/1151261091167211520803521.jpeg/wfDiA4XPt3fwjsy_PR824whzy-yZ0Liun4LJ4p-CyeI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8F%B0%E7%81%A3%E6%96%B0%E8%81%9E/60367619/%E4%B8%83%E4%B8%83%E4%BA%8B%E8%AE%8A89%E5%91%A8%E5%B9%B4-%E9%84%AD%E9%BA%97%E6%96%87-%E6%88%B0%E7%88%AD%E6%88%96%E5%92%8C%E5%B9%B3%E7%9A%84%E9%97%9C%E9%8D%B5-%E6%8E%8C%E6%8F%A1%E5%9C%A8%E9%80%99%E4%BB%A3%E4%BA%BA%E6%89%8B%E8%A3%A1",
     "timestamp": "2026-07-07T12:41:44.972Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "心理測驗｜選一張落日圖片　測一測你在異性眼中存在感到底有多高",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260702/1149409550714015744364510.jpeg/04_sp6YDLJYAHCphMm10FzLyeR6EnjOzyTrd3ck63d0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%AB%87%E6%83%85%E8%AA%AA%E6%80%A7/60358893/%E5%BF%83%E7%90%86%E6%B8%AC%E9%A9%97-%E9%81%B8%E4%B8%80%E5%BC%B5%E8%90%BD%E6%97%A5%E5%9C%96%E7%89%87-%E6%B8%AC%E4%B8%80%E6%B8%AC%E4%BD%A0%E5%9C%A8%E7%95%B0%E6%80%A7%E7%9C%BC%E4%B8%AD%E5%AD%98%E5%9C%A8%E6%84%9F%E5%88%B0%E5%BA%95%E6%9C%89%E5%A4%9A%E9%AB%98",
-    "timestamp": "2026-07-07T11:36:45.624Z",
     "strategy": ".content-card__main"
   }
 ];
