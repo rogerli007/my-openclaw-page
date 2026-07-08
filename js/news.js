@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-08T20:03:09.333Z
+// Last updated: 2026-07-08T20:38:06.109Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "警觀塘檢$4000大麻產品　1男被捕",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260709/1151727134897606656826150.jpeg/JdmjZWam3eaKbxkry9-CpCpLEmS5g3htJZlx6CWZceg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60368063/%E8%AD%A6%E8%A7%80%E5%A1%98%E6%AA%A2-4000%E5%A4%A7%E9%BA%BB%E7%94%A2%E5%93%81-1%E7%94%B7%E8%A2%AB%E6%8D%95",
+    "timestamp": "2026-07-08T20:38:06.109Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "警觀塘檢$4000大麻產品　1男被捕",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260708/1151392813334663168135678.jpeg/QEZKgi_xTJe5YhEJFPszD1oZOz5Q25qbrZnaba2Z2m0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60367673/%E8%B7%A8%E9%83%A8%E9%96%80%E5%85%83%E6%9C%97%E6%8E%83%E9%BB%83-24%E5%A5%B3%E8%A2%AB%E6%8D%95%E6%9C%80%E7%B4%B016%E6%AD%B2-%E5%85%B6%E4%B8%AD%E4%B8%80%E5%90%8D%E6%B5%81%E9%B6%AF%E7%A9%BF%E7%BE%8E%E6%96%AF10%E8%99%9F%E7%90%83%E8%A1%A3",
     "timestamp": "2026-07-07T21:21:08.345Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "霍爾木茲海峽據報24小時內3船遇襲　美國撤銷伊朗石油出口許可",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260408/1118494777696849920531807.jpeg/bJKXieweaKz0_MHIfts1RhWZvxPfp7lNbQQu5m0ELuY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60367668/%E9%9C%8D%E7%88%BE%E6%9C%A8%E8%8C%B2%E6%B5%B7%E5%B3%BD%E6%93%9A%E5%A0%B124%E5%B0%8F%E6%99%82%E5%85%A73%E8%88%B9%E9%81%87%E8%A5%B2-%E7%BE%8E%E5%9C%8B%E6%92%A4%E9%8A%B7%E4%BC%8A%E6%9C%97%E7%9F%B3%E6%B2%B9%E5%87%BA%E5%8F%A3%E8%A8%B1%E5%8F%AF",
-    "timestamp": "2026-07-07T20:48:37.986Z",
     "strategy": ".content-card__main"
   }
 ];
