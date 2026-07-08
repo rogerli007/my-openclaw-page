@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-08T00:13:08.279Z
+// Last updated: 2026-07-08T00:59:33.586Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "柴灣道男子疑跌倒臉部受傷　地上遺鮮血　昏迷送院",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260708/1151446166165000192570918.jpeg/Pp028oYppQPheYEH9ZOx2gxJNVZeeofOQ2TGHkNkxh4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60367681/%E6%9F%B4%E7%81%A3%E9%81%93%E7%94%B7%E5%AD%90%E7%96%91%E8%B7%8C%E5%80%92%E8%87%89%E9%83%A8%E5%8F%97%E5%82%B7-%E5%9C%B0%E4%B8%8A%E9%81%BA%E9%AE%AE%E8%A1%80-%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2",
+    "timestamp": "2026-07-08T00:59:33.586Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "2026肝臟檢查｜肝功能檢查助預防5個常見肝病 教你解讀各項肝指數",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260707/1151065177886560256710946.jpeg/CsFGibSh9h_gfXgP01upNCRcqsI7lbPAEn7sOhJ-7Do?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60367255/%E4%B8%96%E7%95%8C%E7%9B%832026-%E7%BE%8E%E5%9C%8B%E5%B0%8D%E6%AF%94%E5%88%A9%E6%99%82%E5%B7%B4%E6%B4%9B%E6%A0%B9%E6%AD%A3%E9%81%B8-%E8%BF%AA%E5%B8%83%E5%B0%BC%E6%9D%9C%E5%8F%A4%E5%BE%8C%E5%82%99%E5%BE%85%E5%91%BD",
     "timestamp": "2026-07-06T23:44:05.811Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "TVB視帝帶圈中女神老婆阿女豪歎Rosewood　顏值竟升級：精緻男人",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260706/1150944749784403968530826.jpeg/6K2yxT_sEe1D042OUIFxvfyoJmHgXbp1q2G84qthvOI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60367072/%E9%99%B3%E5%B1%95%E9%B5%AC%E5%B8%B6%E5%96%AE%E6%96%87%E6%9F%94%E9%98%BF%E5%A5%B3%E8%B1%AA%E6%AD%8Erosewood-%E5%B9%BE%E6%97%A5%E5%85%A7%E9%A1%8F%E5%80%BC%E5%8D%87%E7%B4%9A%E5%9B%9E%E6%98%A5-%E7%B2%BE%E7%B7%BB%E7%94%B7%E4%BA%BA",
-    "timestamp": "2026-07-06T22:39:00.856Z",
     "strategy": ".content-card__main"
   }
 ];
