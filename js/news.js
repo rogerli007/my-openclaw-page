@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-08T08:07:00.192Z
+// Last updated: 2026-07-08T09:06:22.982Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "減肥斷食體脂不降反升！營養師揭蛋白質不足+進食次序防代謝失調",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260708/1151553248788746240235487.jpeg/NufOGRFibNk6ooUxf2XZm-_ym9jmfcjZesBq5HrAauQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60362975/%E6%B8%9B%E8%82%A5%E6%96%B7%E9%A3%9F%E9%AB%94%E8%84%82%E4%B8%8D%E9%99%8D%E5%8F%8D%E5%8D%87-%E7%87%9F%E9%A4%8A%E5%B8%AB%E6%8F%AD%E8%9B%8B%E7%99%BD%E8%B3%AA%E4%B8%8D%E8%B6%B3-%E9%80%B2%E9%A3%9F%E6%AC%A1%E5%BA%8F%E9%98%B2%E4%BB%A3%E8%AC%9D%E5%A4%B1%E8%AA%BF",
+    "timestamp": "2026-07-08T09:06:22.982Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "P1Harmony演唱會2026澳門｜門票攻略＋購票連結＋座位表",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260707/1151145554152001536589064.jpeg/B5S84KDLZfup30p1llGxv-3O4JiM305lbZ7-rm2e_q4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%A3%9F%E7%8E%A9%E8%B2%B7/60248335/%E5%A4%A9%E6%96%87%E5%8F%B0%E5%8E%9F%E4%BE%86%E6%9C%89%E7%B6%A0%E9%9B%A8%E6%9A%B4%E9%9B%A8%E8%AD%A6%E5%91%8A-%E7%A5%9E%E7%A7%98%E8%A8%8A%E8%99%9F30%E5%B9%B4%E6%9C%AA%E7%99%BC%E9%81%8E-%E5%9B%A01%E5%8E%9F%E5%9B%A0%E8%A2%AB%E5%8F%96%E6%B6%88",
     "timestamp": "2026-07-07T04:55:31.765Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "打造黃金港｜財庫局︰黃金中央清算系統試運　精準配套同步推出",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260126/1092491013101981696413579.jpeg/duofH0bkMyZ8ddjvNiTZQHx1SbZiga0xDaB_pg2gf6Y?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60367326/%E6%89%93%E9%80%A0%E9%BB%83%E9%87%91%E6%B8%AF-%E8%B2%A1%E5%BA%AB%E5%B1%80-%E9%BB%83%E9%87%91%E4%B8%AD%E5%A4%AE%E6%B8%85%E7%AE%97%E7%B3%BB%E7%B5%B1%E8%A9%A6%E9%81%8B-%E7%B2%BE%E6%BA%96%E9%85%8D%E5%A5%97%E5%90%8C%E6%AD%A5%E6%8E%A8%E5%87%BA",
-    "timestamp": "2026-07-07T03:20:27.227Z",
     "strategy": ".content-card__main"
   }
 ];
