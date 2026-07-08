@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-08T22:19:42.176Z
+// Last updated: 2026-07-08T22:42:12.509Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "視帝細13歲老婆低調現身支持演唱會　寬鬆長袖衫疑遮孕肚身形驚人",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260708/1151660757549584384850763.jpeg/jRZdeaqTHEP9w7z0PIlLQZXt7opSp4Ukpokvw6aJL8M?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60367902/%E6%B9%AF%E6%B4%9B%E9%9B%AF%E4%BD%8E%E8%AA%BF%E7%8F%BE%E8%BA%AB%E6%94%AF%E6%8C%81%E9%A6%AC%E5%9C%8B%E6%98%8E%E6%BC%94%E5%94%B1%E6%9C%83-%E5%AF%AC%E9%AC%86%E9%95%B7%E8%A2%96%E8%A1%AB%E7%96%91%E9%81%AE%E5%AD%95%E8%82%9A%E8%BA%AB%E5%BD%A2%E9%A9%9A%E4%BA%BA",
+    "timestamp": "2026-07-08T22:42:12.509Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "鄧梓峰仍未知施明下葬地點　問及大細孖憶述：一直以嚟感情都好",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260708/1151446166165000192570918.jpeg/Pp028oYppQPheYEH9ZOx2gxJNVZeeofOQ2TGHkNkxh4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60367681/%E6%9F%B4%E7%81%A3%E9%81%93%E7%94%B7%E5%AD%90%E7%96%91%E8%B7%8C%E5%80%92%E8%87%89%E9%83%A8%E5%8F%97%E5%82%B7-%E5%9C%B0%E4%B8%8A%E9%81%BA%E9%AE%AE%E8%A1%80-%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2",
     "timestamp": "2026-07-08T00:59:33.586Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "2026肝臟檢查｜肝功能檢查助預防5個常見肝病 教你解讀各項肝指數",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20220621/615949345547620352325794.jpeg/Vq7dKh9zlZLgH59z4aogqBcxYKt08_Iu5T-JqeU_iak?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/783510/2026%E8%82%9D%E8%87%9F%E6%AA%A2%E6%9F%A5-%E8%82%9D%E5%8A%9F%E8%83%BD%E6%AA%A2%E6%9F%A5%E5%8A%A9%E9%A0%90%E9%98%B25%E5%80%8B%E5%B8%B8%E8%A6%8B%E8%82%9D%E7%97%85-%E6%95%99%E4%BD%A0%E8%A7%A3%E8%AE%80%E5%90%84%E9%A0%85%E8%82%9D%E6%8C%87%E6%95%B8",
-    "timestamp": "2026-07-08T00:13:08.279Z",
     "strategy": ".content-card__main"
   }
 ];
