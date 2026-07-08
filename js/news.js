@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-08T16:23:16.446Z
+// Last updated: 2026-07-08T18:40:06.740Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "北約峰會｜特朗普料美伊不會全面重啟戰事　自稱是伊朗頭號目標",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260709/1151705357421121536675321.jpeg/DHyEN9vxXDkY9Qd5KjgPnxIn4x5X3-NUHRdzsB0Xc7A?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60368059/%E5%8C%97%E7%B4%84%E5%B3%B0%E6%9C%83-%E7%89%B9%E6%9C%97%E6%99%AE%E6%96%99%E7%BE%8E%E4%BC%8A%E4%B8%8D%E6%9C%83%E5%85%A8%E9%9D%A2%E9%87%8D%E5%95%9F%E6%88%B0%E4%BA%8B-%E8%87%AA%E7%A8%B1%E6%98%AF%E4%BC%8A%E6%9C%97%E9%A0%AD%E8%99%9F%E7%9B%AE%E6%A8%99",
+    "timestamp": "2026-07-08T18:40:06.740Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "Taylor Swift婚禮搞驚喜大抽獎　名牌手袋復古跑車價值過百萬美元",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260707/1151303186003267584672814.jpeg/6Qm6WTgj8KHZ94hT0eiY3UtXfb-5Q36yqgC60aoAutE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60367644/%E6%9D%B1%E5%BC%B5%E8%A5%BF%E6%9C%9B-%E5%85%AC%E5%B1%8B%E9%87%8E%E4%BA%BA%E4%BD%8F%E5%BE%8C%E6%A8%93%E6%A2%AF%E6%83%A1%E5%88%B0%E7%88%86%E5%94%94%E8%82%AF%E8%B5%B0-%E6%9D%B1%E5%BC%B5%E8%A5%BF%E6%9C%9B-%E6%9C%89%E5%92%A9%E6%9C%9B",
     "timestamp": "2026-07-07T16:42:58.874Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "日媒：中國金融科技專利居首超越美國　工行申請逾3000宗佔鰲頭",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20211203/543460537694949376017869.jpeg/9WS6X5mpdPKGnJGPHmi0NEMxStpFljkvegarRnoGq0Y?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60367617/%E6%97%A5%E5%AA%92-%E4%B8%AD%E5%9C%8B%E9%87%91%E8%9E%8D%E7%A7%91%E6%8A%80%E5%B0%88%E5%88%A9%E5%B1%85%E9%A6%96%E8%B6%85%E8%B6%8A%E7%BE%8E%E5%9C%8B-%E5%B7%A5%E8%A1%8C%E7%94%B3%E8%AB%8B%E9%80%BE3000%E5%AE%97%E4%BD%94%E9%B0%B2%E9%A0%AD",
-    "timestamp": "2026-07-07T15:35:18.034Z",
     "strategy": ".content-card__main"
   }
 ];
