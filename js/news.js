@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-08T15:38:04.703Z
+// Last updated: 2026-07-08T16:23:16.446Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "Taylor Swift婚禮搞驚喜大抽獎　名牌手袋復古跑車價值過百萬美元",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260708/1151646854442651648426975.jpeg/WwoSiK8ywIZYoqfiaZX90xtaLMl-iXzqX9eMfV_XjH0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60367940/taylor-swift%E5%A9%9A%E7%A6%AE%E6%90%9E%E9%A9%9A%E5%96%9C%E5%A4%A7%E6%8A%BD%E7%8D%8E-%E5%90%8D%E7%89%8C%E6%89%8B%E8%A2%8B%E5%BE%A9%E5%8F%A4%E8%B7%91%E8%BB%8A%E5%83%B9%E5%80%BC%E9%81%8E%E7%99%BE%E8%90%AC%E7%BE%8E%E5%85%83",
+    "timestamp": "2026-07-08T16:23:16.446Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "香港仔謀殺｜小巴站兩女打架　一女頭傷送院不治　警重案組跟進",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20211203/543460537694949376017869.jpeg/9WS6X5mpdPKGnJGPHmi0NEMxStpFljkvegarRnoGq0Y?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60367617/%E6%97%A5%E5%AA%92-%E4%B8%AD%E5%9C%8B%E9%87%91%E8%9E%8D%E7%A7%91%E6%8A%80%E5%B0%88%E5%88%A9%E5%B1%85%E9%A6%96%E8%B6%85%E8%B6%8A%E7%BE%8E%E5%9C%8B-%E5%B7%A5%E8%A1%8C%E7%94%B3%E8%AB%8B%E9%80%BE3000%E5%AE%97%E4%BD%94%E9%B0%B2%E9%A0%AD",
     "timestamp": "2026-07-07T15:35:18.034Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "英國改革黨法拉奇捲富豪捐款案　憤怒稱辭議員職務　將參加補選",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260707/1151282998323187712724185.jpeg/j2arQlheZcldy4lb_PiMMFjG0VmHRnQt-HUbEPh1GxA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60367634/%E8%8B%B1%E5%9C%8B%E6%94%B9%E9%9D%A9%E9%BB%A8%E6%B3%95%E6%8B%89%E5%A5%87%E6%8D%B2%E5%AF%8C%E8%B1%AA%E6%8D%90%E6%AC%BE%E6%A1%88-%E6%86%A4%E6%80%92%E7%A8%B1%E8%BE%AD%E8%AD%B0%E5%93%A1%E8%81%B7%E5%8B%99-%E5%B0%87%E5%8F%83%E5%8A%A0%E8%A3%9C%E9%81%B8",
-    "timestamp": "2026-07-07T14:29:38.073Z",
     "strategy": ".content-card__main"
   }
 ];
