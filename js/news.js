@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-08T11:43:20.107Z
+// Last updated: 2026-07-08T12:17:27.797Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "傳施南生病重留院接受治療　好友張艾嘉行色匆匆趕到醫院",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260708/1151619929003266048685390.jpeg/-aGAuiY6UKBBMgOfDdDWMGB1iHhDVA5N8I0VccqNFXE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60368010/%E5%82%B3%E6%96%BD%E5%8D%97%E7%94%9F%E7%97%85%E9%87%8D%E7%95%99%E9%99%A2%E6%8E%A5%E5%8F%97%E6%B2%BB%E7%99%82-%E5%A5%BD%E5%8F%8B%E5%BC%B5%E8%89%BE%E5%98%89%E8%A1%8C%E8%89%B2%E5%8C%86%E5%8C%86%E8%B6%95%E5%88%B0%E9%86%AB%E9%99%A2",
+    "timestamp": "2026-07-08T12:17:27.797Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "中國工信部稱AI編程工具Claude模型存在安全後門隱患　危害嚴重",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260702/1149409550714015744364510.jpeg/04_sp6YDLJYAHCphMm10FzLyeR6EnjOzyTrd3ck63d0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%AB%87%E6%83%85%E8%AA%AA%E6%80%A7/60358893/%E5%BF%83%E7%90%86%E6%B8%AC%E9%A9%97-%E9%81%B8%E4%B8%80%E5%BC%B5%E8%90%BD%E6%97%A5%E5%9C%96%E7%89%87-%E6%B8%AC%E4%B8%80%E6%B8%AC%E4%BD%A0%E5%9C%A8%E7%95%B0%E6%80%A7%E7%9C%BC%E4%B8%AD%E5%AD%98%E5%9C%A8%E6%84%9F%E5%88%B0%E5%BA%95%E6%9C%89%E5%A4%9A%E9%AB%98",
     "timestamp": "2026-07-07T11:36:45.624Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "央視紀錄片《布達拉宮》開播　闡明中央擁西藏政教事務決定性權威",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260707/1151230520085057536087325.jpeg/TmbcCTmoIW1gJR9ev1cmBnN4dCNLrw1pmZeebJmXnmw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60367577/%E5%A4%AE%E8%A6%96%E7%B4%80%E9%8C%84%E7%89%87-%E5%B8%83%E9%81%94%E6%8B%89%E5%AE%AE-%E9%96%8B%E6%92%AD-%E9%97%A1%E6%98%8E%E4%B8%AD%E5%A4%AE%E6%93%81%E8%A5%BF%E8%97%8F%E6%94%BF%E6%95%99%E4%BA%8B%E5%8B%99%E6%B1%BA%E5%AE%9A%E6%80%A7%E6%AC%8A%E5%A8%81",
-    "timestamp": "2026-07-07T10:34:23.601Z",
     "strategy": ".content-card__main"
   }
 ];
