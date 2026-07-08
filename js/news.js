@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-08T07:15:02.872Z
+// Last updated: 2026-07-08T08:07:00.192Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "P1Harmony演唱會2026澳門｜門票攻略＋購票連結＋座位表",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260708/1151535194696585216907154.jpeg/6H2aW99V0BRiDqgZp7d1R5noh0haQrk4rXaj2a12o9k?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60367835/p1harmony%E6%BC%94%E5%94%B1%E6%9C%832026%E6%BE%B3%E9%96%80-%E9%96%80%E7%A5%A8%E6%94%BB%E7%95%A5-%E8%B3%BC%E7%A5%A8%E9%80%A3%E7%B5%90-%E5%BA%A7%E4%BD%8D%E8%A1%A8",
+    "timestamp": "2026-07-08T08:07:00.192Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "峇里島或變避稅天堂？印尼擬建金融特區吸金　推企業與個人零稅率",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260126/1092491013101981696413579.jpeg/duofH0bkMyZ8ddjvNiTZQHx1SbZiga0xDaB_pg2gf6Y?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60367326/%E6%89%93%E9%80%A0%E9%BB%83%E9%87%91%E6%B8%AF-%E8%B2%A1%E5%BA%AB%E5%B1%80-%E9%BB%83%E9%87%91%E4%B8%AD%E5%A4%AE%E6%B8%85%E7%AE%97%E7%B3%BB%E7%B5%B1%E8%A9%A6%E9%81%8B-%E7%B2%BE%E6%BA%96%E9%85%8D%E5%A5%97%E5%90%8C%E6%AD%A5%E6%8E%A8%E5%87%BA",
     "timestamp": "2026-07-07T03:20:27.227Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "內地客1020萬購西營盤暢園三房連車位　長情業主持貨48年賺近千萬",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260706/1150772244528500736876925.jpeg/DvQPteKYIDazm7gmq8K_Mxk4wbQHGEjjnNbthpzW7YY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60366970/%E5%85%A7%E5%9C%B0%E5%AE%A21020%E8%90%AC%E8%B3%BC%E8%A5%BF%E7%87%9F%E7%9B%A4%E6%9A%A2%E5%9C%92%E4%B8%89%E6%88%BF%E9%80%A3%E8%BB%8A%E4%BD%8D-%E9%95%B7%E6%83%85%E6%A5%AD%E4%B8%BB%E6%8C%81%E8%B2%A848%E5%B9%B4%E8%B3%BA%E8%BF%91%E5%8D%83%E8%90%AC",
-    "timestamp": "2026-07-07T01:08:41.917Z",
     "strategy": ".content-card__main"
   }
 ];
