@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-08T00:59:33.586Z
+// Last updated: 2026-07-08T02:45:18.545Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "友邦滙豐化？杜嘉祺據報擴主席權力積極參與營運　有管理層感不安",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/20200403/322769545544732672.jpeg/KIt5NdHX2q1mvEmWU0GpcvvBU64aPvhJIH75PSB--T0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60367718/%E5%8F%8B%E9%82%A6%E6%BB%99%E8%B1%90%E5%8C%96-%E6%9D%9C%E5%98%89%E7%A5%BA%E6%93%9A%E5%A0%B1%E6%93%B4%E4%B8%BB%E5%B8%AD%E6%AC%8A%E5%8A%9B%E7%A9%8D%E6%A5%B5%E5%8F%83%E8%88%87%E7%87%9F%E9%81%8B-%E6%9C%89%E7%AE%A1%E7%90%86%E5%B1%A4%E6%84%9F%E4%B8%8D%E5%AE%89",
+    "timestamp": "2026-07-08T02:45:18.545Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "柴灣道男子疑跌倒臉部受傷　地上遺鮮血　昏迷送院",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260705/1150489632094425088625341.jpeg/sJTvR9JpB1s6t5LaeOH-jqRlZaHA4Ki__VZpGudWaRo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60366863/%E6%9C%80%E6%96%B0%E5%A4%A9%E6%B0%A3%E6%B6%88%E6%81%AF-%E9%BB%83%E9%9B%A8%E8%AD%A6%E5%91%8A%E7%94%9F%E6%95%88-%E5%A4%A9%E6%96%87%E5%8F%B0-%E5%85%83%E6%9C%97%E5%8D%80%E5%A4%A7%E6%9A%B4%E9%9B%A8%E5%8F%AF%E8%83%BD%E5%9A%B4%E9%87%8D%E6%B0%B4%E6%B5%B8",
     "timestamp": "2026-07-07T00:14:57.677Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "世界盃2026｜美國對比利時巴洛根正選　迪布尼杜古後備待命",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260707/1151065177886560256710946.jpeg/CsFGibSh9h_gfXgP01upNCRcqsI7lbPAEn7sOhJ-7Do?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60367255/%E4%B8%96%E7%95%8C%E7%9B%832026-%E7%BE%8E%E5%9C%8B%E5%B0%8D%E6%AF%94%E5%88%A9%E6%99%82%E5%B7%B4%E6%B4%9B%E6%A0%B9%E6%AD%A3%E9%81%B8-%E8%BF%AA%E5%B8%83%E5%B0%BC%E6%9D%9C%E5%8F%A4%E5%BE%8C%E5%82%99%E5%BE%85%E5%91%BD",
-    "timestamp": "2026-07-06T23:44:05.811Z",
     "strategy": ".content-card__main"
   }
 ];
