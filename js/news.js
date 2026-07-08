@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-08T12:56:14.017Z
+// Last updated: 2026-07-08T13:43:30.052Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "世界盃｜IShowSpeed遭歧視辱罵：滾回動物園哭　國際足協介入調查",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260708/1151628871985008640786592.jpeg/CsJ0UP30zcm7NKZt8_Vj4rb1kdg94LixWUb4ullG-Lo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60368014/%E4%B8%96%E7%95%8C%E7%9B%83-ishowspeed%E9%81%AD%E6%AD%A7%E8%A6%96%E8%BE%B1%E7%BD%B5-%E6%BB%BE%E5%9B%9E%E5%8B%95%E7%89%A9%E5%9C%92%E5%93%AD-%E5%9C%8B%E9%9A%9B%E8%B6%B3%E5%8D%94%E4%BB%8B%E5%85%A5%E8%AA%BF%E6%9F%A5",
+    "timestamp": "2026-07-08T13:43:30.052Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "世界女排聯賽2026香港站｜意大利黃金終陣容合體　烏克蘭力拼惜負",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260707/1151274342194089984416829.png/UZe87RqCWUF3agYFZTiruVLVz04_zgG5QxJN90MSTfc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60367625/%E6%96%B9%E7%9A%93%E7%8E%9F%E6%BE%84%E6%B8%85%E8%88%87%E5%91%A8%E4%BD%A9%E8%B3%A2%E9%9D%9E%E5%90%8C%E5%B1%85%E9%97%9C%E4%BF%82-%E9%A9%9A%E7%88%86%E5%AF%86%E5%8F%8B%E6%AD%BB%E5%89%8D%E6%9B%BE%E6%8F%90%E8%BC%95%E7%94%9F-%E4%BB%A5%E7%82%BA%E8%AC%9B%E7%AC%91",
     "timestamp": "2026-07-07T13:34:06.691Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "七七事變89周年｜鄭麗文：戰爭或和平的關鍵，掌握在這代人手裡",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260707/1151261091167211520803521.jpeg/wfDiA4XPt3fwjsy_PR824whzy-yZ0Liun4LJ4p-CyeI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8F%B0%E7%81%A3%E6%96%B0%E8%81%9E/60367619/%E4%B8%83%E4%B8%83%E4%BA%8B%E8%AE%8A89%E5%91%A8%E5%B9%B4-%E9%84%AD%E9%BA%97%E6%96%87-%E6%88%B0%E7%88%AD%E6%88%96%E5%92%8C%E5%B9%B3%E7%9A%84%E9%97%9C%E9%8D%B5-%E6%8E%8C%E6%8F%A1%E5%9C%A8%E9%80%99%E4%BB%A3%E4%BA%BA%E6%89%8B%E8%A3%A1",
-    "timestamp": "2026-07-07T12:41:44.972Z",
     "strategy": ".content-card__main"
   }
 ];
