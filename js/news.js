@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-08T09:06:22.982Z
+// Last updated: 2026-07-08T10:05:11.005Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "紅山半島業主求覆核清拆令　指屋宇署應酌情准留部份僭建物",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20230925/782992639598268416429761.jpeg/RvyoK_BRN-aZSTrT9Yq0UHLIfVyT86qvsNgQkprYEJI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60367968/%E7%B4%85%E5%B1%B1%E5%8D%8A%E5%B3%B6%E6%A5%AD%E4%B8%BB%E6%B1%82%E8%A6%86%E6%A0%B8%E6%B8%85%E6%8B%86%E4%BB%A4-%E6%8C%87%E5%B1%8B%E5%AE%87%E7%BD%B2%E6%87%89%E9%85%8C%E6%83%85%E5%87%86%E7%95%99%E9%83%A8%E4%BB%BD%E5%83%AD%E5%BB%BA%E7%89%A9",
+    "timestamp": "2026-07-08T10:05:11.005Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "減肥斷食體脂不降反升！營養師揭蛋白質不足+進食次序防代謝失調",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20230903/774955874488684544715943.jpeg/CizkVUCAgnB9Yuv7UUa7723R0w2NZOpHSQVQ6WMFUOk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60367417/%E6%B6%89%E6%9C%AA%E8%A8%BB%E5%86%8A%E4%BA%A4%E6%98%93-12%E8%90%AC%E4%BB%A5%E4%B8%8A%E5%AF%B6%E7%9F%B3%E5%8F%8A%E8%B2%B4%E9%87%8D%E7%94%A2%E5%93%81-%E6%B5%B7%E9%97%9C%E6%8B%98%E5%85%AC%E5%8F%B8%E8%91%A3%E4%BA%8B",
     "timestamp": "2026-07-07T06:29:18.958Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "天文台原來有綠雨暴雨警告？神秘訊號30年未發過　因1原因被取消",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260707/1151145554152001536589064.jpeg/B5S84KDLZfup30p1llGxv-3O4JiM305lbZ7-rm2e_q4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%A3%9F%E7%8E%A9%E8%B2%B7/60248335/%E5%A4%A9%E6%96%87%E5%8F%B0%E5%8E%9F%E4%BE%86%E6%9C%89%E7%B6%A0%E9%9B%A8%E6%9A%B4%E9%9B%A8%E8%AD%A6%E5%91%8A-%E7%A5%9E%E7%A7%98%E8%A8%8A%E8%99%9F30%E5%B9%B4%E6%9C%AA%E7%99%BC%E9%81%8E-%E5%9B%A01%E5%8E%9F%E5%9B%A0%E8%A2%AB%E5%8F%96%E6%B6%88",
-    "timestamp": "2026-07-07T04:55:31.765Z",
     "strategy": ".content-card__main"
   }
 ];
