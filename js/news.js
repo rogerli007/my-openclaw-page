@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-08T02:45:18.545Z
+// Last updated: 2026-07-08T07:15:02.872Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "峇里島或變避稅天堂？印尼擬建金融特區吸金　推企業與個人零稅率",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260708/1151524995621457920203475.jpeg/WJqHrGbdqyu5s5dNO2JJDTy0upT-isH83R1sXN0dbFw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60367767/%E5%B3%87%E9%87%8C%E5%B3%B6%E6%88%96%E8%AE%8A%E9%81%BF%E7%A8%85%E5%A4%A9%E5%A0%82-%E5%8D%B0%E5%B0%BC%E6%93%AC%E5%BB%BA%E9%87%91%E8%9E%8D%E7%89%B9%E5%8D%80%E5%90%B8%E9%87%91-%E6%8E%A8%E4%BC%81%E6%A5%AD%E8%88%87%E5%80%8B%E4%BA%BA%E9%9B%B6%E7%A8%85%E7%8E%87",
+    "timestamp": "2026-07-08T07:15:02.872Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "友邦滙豐化？杜嘉祺據報擴主席權力積極參與營運　有管理層感不安",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260706/1150772244528500736876925.jpeg/DvQPteKYIDazm7gmq8K_Mxk4wbQHGEjjnNbthpzW7YY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60366970/%E5%85%A7%E5%9C%B0%E5%AE%A21020%E8%90%AC%E8%B3%BC%E8%A5%BF%E7%87%9F%E7%9B%A4%E6%9A%A2%E5%9C%92%E4%B8%89%E6%88%BF%E9%80%A3%E8%BB%8A%E4%BD%8D-%E9%95%B7%E6%83%85%E6%A5%AD%E4%B8%BB%E6%8C%81%E8%B2%A848%E5%B9%B4%E8%B3%BA%E8%BF%91%E5%8D%83%E8%90%AC",
     "timestamp": "2026-07-07T01:08:41.917Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "最新天氣消息｜黃雨警告生效　天文台：元朗區大暴雨可能嚴重水浸",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260705/1150489632094425088625341.jpeg/sJTvR9JpB1s6t5LaeOH-jqRlZaHA4Ki__VZpGudWaRo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60366863/%E6%9C%80%E6%96%B0%E5%A4%A9%E6%B0%A3%E6%B6%88%E6%81%AF-%E9%BB%83%E9%9B%A8%E8%AD%A6%E5%91%8A%E7%94%9F%E6%95%88-%E5%A4%A9%E6%96%87%E5%8F%B0-%E5%85%83%E6%9C%97%E5%8D%80%E5%A4%A7%E6%9A%B4%E9%9B%A8%E5%8F%AF%E8%83%BD%E5%9A%B4%E9%87%8D%E6%B0%B4%E6%B5%B8",
-    "timestamp": "2026-07-07T00:14:57.677Z",
     "strategy": ".content-card__main"
   }
 ];
