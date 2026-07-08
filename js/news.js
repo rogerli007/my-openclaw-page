@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-07T22:03:25.338Z
+// Last updated: 2026-07-08T00:13:08.279Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "2026肝臟檢查｜肝功能檢查助預防5個常見肝病 教你解讀各項肝指數",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20220621/615949345547620352325794.jpeg/Vq7dKh9zlZLgH59z4aogqBcxYKt08_Iu5T-JqeU_iak?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/783510/2026%E8%82%9D%E8%87%9F%E6%AA%A2%E6%9F%A5-%E8%82%9D%E5%8A%9F%E8%83%BD%E6%AA%A2%E6%9F%A5%E5%8A%A9%E9%A0%90%E9%98%B25%E5%80%8B%E5%B8%B8%E8%A6%8B%E8%82%9D%E7%97%85-%E6%95%99%E4%BD%A0%E8%A7%A3%E8%AE%80%E5%90%84%E9%A0%85%E8%82%9D%E6%8C%87%E6%95%B8",
+    "timestamp": "2026-07-08T00:13:08.279Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美軍稱對伊朗發動打擊回應海峽船隻遇襲　伊媒：該國南部傳爆炸聲",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260706/1150944749784403968530826.jpeg/6K2yxT_sEe1D042OUIFxvfyoJmHgXbp1q2G84qthvOI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60367072/%E9%99%B3%E5%B1%95%E9%B5%AC%E5%B8%B6%E5%96%AE%E6%96%87%E6%9F%94%E9%98%BF%E5%A5%B3%E8%B1%AA%E6%AD%8Erosewood-%E5%B9%BE%E6%97%A5%E5%85%A7%E9%A1%8F%E5%80%BC%E5%8D%87%E7%B4%9A%E5%9B%9E%E6%98%A5-%E7%B2%BE%E7%B7%BB%E7%94%B7%E4%BA%BA",
     "timestamp": "2026-07-06T22:39:00.856Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "劉曉彤隱退20年神秘老公終極現身　二女英名校畢業神複製媽媽樣貌",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260706/1150930878923280384870269.jpeg/9RmCcIc4g5IWf4yCkdQdBNyIqCLl_GA20JgntNCYJ7Q?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60367160/%E5%8A%89%E6%9B%89%E5%BD%A4%E9%9A%B1%E9%80%8020%E5%B9%B4%E7%A5%9E%E7%A7%98%E8%80%81%E5%85%AC%E7%B5%82%E6%A5%B5%E7%8F%BE%E8%BA%AB-%E4%BA%8C%E5%A5%B3%E8%8B%B1%E5%90%8D%E6%A0%A1%E7%95%A2%E6%A5%AD%E7%A5%9E%E8%A4%87%E8%A3%BD%E5%AA%BD%E5%AA%BD%E6%A8%A3%E8%B2%8C",
-    "timestamp": "2026-07-06T22:04:30.289Z",
     "strategy": ".content-card__main"
   }
 ];
