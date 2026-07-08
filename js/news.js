@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-08T10:05:11.005Z
+// Last updated: 2026-07-08T11:01:48.933Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "超強颱風「巴威」直逼沖繩　氣象廳：恐吹倒房屋、掀12米巨浪",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260708/1151591069075378176296480.png/oDhKugIBgyK-1gfro2ntgqqQzkobb_MkDDuAwgw7gMI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60367982/%E8%B6%85%E5%BC%B7%E9%A2%B1%E9%A2%A8-%E5%B7%B4%E5%A8%81-%E7%9B%B4%E9%80%BC%E6%B2%96%E7%B9%A9-%E6%B0%A3%E8%B1%A1%E5%BB%B3-%E6%81%90%E5%90%B9%E5%80%92%E6%88%BF%E5%B1%8B-%E6%8E%8012%E7%B1%B3%E5%B7%A8%E6%B5%AA",
+    "timestamp": "2026-07-08T11:01:48.933Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "紅山半島業主求覆核清拆令　指屋宇署應酌情准留部份僭建物",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260707/1151111827908726784420698.jpeg/AyduT6ykuLB_odoU6goMYDO98RNqQC-euMZuNrjGbjY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%A3%9F%E7%8E%A9%E8%B2%B7/60367299/%E6%9D%B1%E4%BA%AC%E9%85%92%E5%BA%974%E6%9C%88%E8%B5%B7%E4%BD%8F%E5%AE%BF%E7%A8%85%E5%8A%A03-%E9%90%B5%E8%B7%AF%E7%A3%81%E7%B2%89%E8%BB%8A%E7%A5%A8%E7%8E%A9%E5%AE%8C-2027%E9%81%8A%E6%97%A5%E5%BF%85%E7%9F%A56%E4%BB%B6%E4%BA%8B",
     "timestamp": "2026-07-07T09:18:52.116Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "涉未註冊交易$12萬以上寶石及貴重產品　海關拘公司董事",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20230903/774955874488684544715943.jpeg/CizkVUCAgnB9Yuv7UUa7723R0w2NZOpHSQVQ6WMFUOk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60367417/%E6%B6%89%E6%9C%AA%E8%A8%BB%E5%86%8A%E4%BA%A4%E6%98%93-12%E8%90%AC%E4%BB%A5%E4%B8%8A%E5%AF%B6%E7%9F%B3%E5%8F%8A%E8%B2%B4%E9%87%8D%E7%94%A2%E5%93%81-%E6%B5%B7%E9%97%9C%E6%8B%98%E5%85%AC%E5%8F%B8%E8%91%A3%E4%BA%8B",
-    "timestamp": "2026-07-07T06:29:18.958Z",
     "strategy": ".content-card__main"
   }
 ];
