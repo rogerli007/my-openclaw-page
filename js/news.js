@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-08T11:01:48.933Z
+// Last updated: 2026-07-08T11:43:20.107Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "中國工信部稱AI編程工具Claude模型存在安全後門隱患　危害嚴重",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260708/1151611373810094080296370.jpeg/Rc711KSrExGIkS5WCbNmhD5RyE18asa0OQOnIDkDpyA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60367998/%E4%B8%AD%E5%9C%8B%E5%B7%A5%E4%BF%A1%E9%83%A8%E7%A8%B1ai%E7%B7%A8%E7%A8%8B%E5%B7%A5%E5%85%B7claude%E6%A8%A1%E5%9E%8B%E5%AD%98%E5%9C%A8%E5%AE%89%E5%85%A8%E5%BE%8C%E9%96%80%E9%9A%B1%E6%82%A3-%E5%8D%B1%E5%AE%B3%E5%9A%B4%E9%87%8D",
+    "timestamp": "2026-07-08T11:43:20.107Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "超強颱風「巴威」直逼沖繩　氣象廳：恐吹倒房屋、掀12米巨浪",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260707/1151230520085057536087325.jpeg/TmbcCTmoIW1gJR9ev1cmBnN4dCNLrw1pmZeebJmXnmw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60367577/%E5%A4%AE%E8%A6%96%E7%B4%80%E9%8C%84%E7%89%87-%E5%B8%83%E9%81%94%E6%8B%89%E5%AE%AE-%E9%96%8B%E6%92%AD-%E9%97%A1%E6%98%8E%E4%B8%AD%E5%A4%AE%E6%93%81%E8%A5%BF%E8%97%8F%E6%94%BF%E6%95%99%E4%BA%8B%E5%8B%99%E6%B1%BA%E5%AE%9A%E6%80%A7%E6%AC%8A%E5%A8%81",
     "timestamp": "2026-07-07T10:34:23.601Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "東京酒店4月起住宿稅加3%　鐵路磁粉車票玩完　2027遊日必知6件事",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260707/1151111827908726784420698.jpeg/AyduT6ykuLB_odoU6goMYDO98RNqQC-euMZuNrjGbjY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%A3%9F%E7%8E%A9%E8%B2%B7/60367299/%E6%9D%B1%E4%BA%AC%E9%85%92%E5%BA%974%E6%9C%88%E8%B5%B7%E4%BD%8F%E5%AE%BF%E7%A8%85%E5%8A%A03-%E9%90%B5%E8%B7%AF%E7%A3%81%E7%B2%89%E8%BB%8A%E7%A5%A8%E7%8E%A9%E5%AE%8C-2027%E9%81%8A%E6%97%A5%E5%BF%85%E7%9F%A56%E4%BB%B6%E4%BA%8B",
-    "timestamp": "2026-07-07T09:18:52.116Z",
     "strategy": ".content-card__main"
   }
 ];
