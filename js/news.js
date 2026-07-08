@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-08T18:40:06.740Z
+// Last updated: 2026-07-08T19:17:26.468Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "北約峰會結束　特朗普讚會議展團結　暗示西班牙願配合增軍費計劃",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260709/1151720903566954496260143.jpeg/_Prp5Fxsjf6-UFiKEx7wCqauviwwr2FQjmY7Vo5mO1Y?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60368062/%E5%8C%97%E7%B4%84%E5%B3%B0%E6%9C%83%E7%B5%90%E6%9D%9F-%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%9A%E6%9C%83%E8%AD%B0%E5%B1%95%E5%9C%98%E7%B5%90-%E6%9A%97%E7%A4%BA%E8%A5%BF%E7%8F%AD%E7%89%99%E9%A1%98%E9%85%8D%E5%90%88%E5%A2%9E%E8%BB%8D%E8%B2%BB%E8%A8%88%E5%8A%83",
+    "timestamp": "2026-07-08T19:17:26.468Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "北約峰會｜特朗普料美伊不會全面重啟戰事　自稱是伊朗頭號目標",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260708/1151345238371995648284039.jpeg/4H4m4sEGuPxBKCd9b4cT89nbrzE1BGJ1RCPeqEQj3qg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60367656/%E4%B8%96%E7%95%8C%E7%9B%832026-%E9%98%BF%E6%A0%B9%E5%BB%B73-2%E9%9A%AA%E5%8B%9D%E5%9F%83%E5%8F%8A-%E7%BE%8E%E6%96%AF%E5%86%8D%E5%88%B7%E6%96%B0%E5%85%A5%E7%90%83%E7%B4%80%E9%8C%84",
     "timestamp": "2026-07-07T18:22:18.879Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "東張西望｜公屋野人住後樓梯惡到爆唔肯走：東張西望，有咩望",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260707/1151303186003267584672814.jpeg/6Qm6WTgj8KHZ94hT0eiY3UtXfb-5Q36yqgC60aoAutE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60367644/%E6%9D%B1%E5%BC%B5%E8%A5%BF%E6%9C%9B-%E5%85%AC%E5%B1%8B%E9%87%8E%E4%BA%BA%E4%BD%8F%E5%BE%8C%E6%A8%93%E6%A2%AF%E6%83%A1%E5%88%B0%E7%88%86%E5%94%94%E8%82%AF%E8%B5%B0-%E6%9D%B1%E5%BC%B5%E8%A5%BF%E6%9C%9B-%E6%9C%89%E5%92%A9%E6%9C%9B",
-    "timestamp": "2026-07-07T16:42:58.874Z",
     "strategy": ".content-card__main"
   }
 ];
