@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-08T20:38:06.109Z
+// Last updated: 2026-07-08T21:45:23.063Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "慈雲山男司機暈倒車內　「吹波波」超標　涉醉駕被捕",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260709/1151756708272410624120483.jpeg/CHkvO35e33jE1mBvCLRVlK5nCALd_zy2GyH1NyEh9Tc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60368067/%E6%85%88%E9%9B%B2%E5%B1%B1%E7%94%B7%E5%8F%B8%E6%A9%9F%E6%9A%88%E5%80%92%E8%BB%8A%E5%85%A7-%E5%90%B9%E6%B3%A2%E6%B3%A2-%E8%B6%85%E6%A8%99-%E6%B6%89%E9%86%89%E9%A7%95%E8%A2%AB%E6%8D%95",
+    "timestamp": "2026-07-08T21:45:23.063Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "警觀塘檢$4000大麻產品　1男被捕",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20230918/780555067106267136648931.jpeg/rFRgI---1LBcIpZUWshNyYgGdbkLUYhJ8eBZX_HgWV8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60367676/%E7%BE%8E%E8%BB%8D%E7%A8%B1%E5%B0%8D%E4%BC%8A%E6%9C%97%E7%99%BC%E5%8B%95%E6%89%93%E6%93%8A%E5%9B%9E%E6%87%89%E6%B5%B7%E5%B3%BD%E8%88%B9%E9%9A%BB%E9%81%87%E8%A5%B2-%E4%BC%8A%E5%AA%92-%E8%A9%B2%E5%9C%8B%E5%8D%97%E9%83%A8%E5%82%B3%E7%88%86%E7%82%B8%E8%81%B2",
     "timestamp": "2026-07-07T22:03:25.338Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "跨部門元朗掃黃　24女被捕最細16歲　其中一名流鶯穿美斯10號球衣",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260708/1151392813334663168135678.jpeg/QEZKgi_xTJe5YhEJFPszD1oZOz5Q25qbrZnaba2Z2m0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60367673/%E8%B7%A8%E9%83%A8%E9%96%80%E5%85%83%E6%9C%97%E6%8E%83%E9%BB%83-24%E5%A5%B3%E8%A2%AB%E6%8D%95%E6%9C%80%E7%B4%B016%E6%AD%B2-%E5%85%B6%E4%B8%AD%E4%B8%80%E5%90%8D%E6%B5%81%E9%B6%AF%E7%A9%BF%E7%BE%8E%E6%96%AF10%E8%99%9F%E7%90%83%E8%A1%A3",
-    "timestamp": "2026-07-07T21:21:08.345Z",
     "strategy": ".content-card__main"
   }
 ];
