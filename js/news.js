@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-08T22:42:12.509Z
+// Last updated: 2026-07-08T23:15:22.170Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "雨中踢波！大馬足球賽3人疑遭雷擊倒地　28歲球員慘死、裁判重傷",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260708/1151587416721592320650423.png/h3u2gfSAneWbMwk9HItGarLOJtLaV4l_NMWLmzTFi5s?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60367465/%E9%9B%A8%E4%B8%AD%E8%B8%A2%E6%B3%A2-%E5%A4%A7%E9%A6%AC%E8%B6%B3%E7%90%83%E8%B3%BD3%E4%BA%BA%E7%96%91%E9%81%AD%E9%9B%B7%E6%93%8A%E5%80%92%E5%9C%B0-28%E6%AD%B2%E7%90%83%E5%93%A1%E6%85%98%E6%AD%BB-%E8%A3%81%E5%88%A4%E9%87%8D%E5%82%B7",
+    "timestamp": "2026-07-08T23:15:22.170Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "視帝細13歲老婆低調現身支持演唱會　寬鬆長袖衫疑遮孕肚身形驚人",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/20200403/322769545544732672.jpeg/KIt5NdHX2q1mvEmWU0GpcvvBU64aPvhJIH75PSB--T0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60367718/%E5%8F%8B%E9%82%A6%E6%BB%99%E8%B1%90%E5%8C%96-%E6%9D%9C%E5%98%89%E7%A5%BA%E6%93%9A%E5%A0%B1%E6%93%B4%E4%B8%BB%E5%B8%AD%E6%AC%8A%E5%8A%9B%E7%A9%8D%E6%A5%B5%E5%8F%83%E8%88%87%E7%87%9F%E9%81%8B-%E6%9C%89%E7%AE%A1%E7%90%86%E5%B1%A4%E6%84%9F%E4%B8%8D%E5%AE%89",
     "timestamp": "2026-07-08T02:45:18.545Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "柴灣道男子疑跌倒臉部受傷　地上遺鮮血　昏迷送院",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260708/1151446166165000192570918.jpeg/Pp028oYppQPheYEH9ZOx2gxJNVZeeofOQ2TGHkNkxh4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60367681/%E6%9F%B4%E7%81%A3%E9%81%93%E7%94%B7%E5%AD%90%E7%96%91%E8%B7%8C%E5%80%92%E8%87%89%E9%83%A8%E5%8F%97%E5%82%B7-%E5%9C%B0%E4%B8%8A%E9%81%BA%E9%AE%AE%E8%A1%80-%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2",
-    "timestamp": "2026-07-08T00:59:33.586Z",
     "strategy": ".content-card__main"
   }
 ];
