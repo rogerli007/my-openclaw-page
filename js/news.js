@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-09T10:08:33.484Z
+// Last updated: 2026-07-09T11:24:48.556Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美軍誤炸伊朗小學175死　美媒：官員無視過時情報警告釀悲劇",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260310/1108024288213995520730481.jpeg/TrQLatDmJtR6pn-4vYWqqRuNbkiIaYqqIFytPiBcrT4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60368381/%E7%BE%8E%E8%BB%8D%E8%AA%A4%E7%82%B8%E4%BC%8A%E6%9C%97%E5%B0%8F%E5%AD%B8175%E6%AD%BB-%E7%BE%8E%E5%AA%92-%E5%AE%98%E5%93%A1%E7%84%A1%E8%A6%96%E9%81%8E%E6%99%82%E6%83%85%E5%A0%B1%E8%AD%A6%E5%91%8A%E9%87%80%E6%82%B2%E5%8A%87",
+    "timestamp": "2026-07-09T11:24:48.556Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "去IKEA放狗？未牽狗繩任由狗狗亂跑　狗主懶理職員勸阻　遭斥自私",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260708/1151591069075378176296480.png/oDhKugIBgyK-1gfro2ntgqqQzkobb_MkDDuAwgw7gMI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60367982/%E8%B6%85%E5%BC%B7%E9%A2%B1%E9%A2%A8-%E5%B7%B4%E5%A8%81-%E7%9B%B4%E9%80%BC%E6%B2%96%E7%B9%A9-%E6%B0%A3%E8%B1%A1%E5%BB%B3-%E6%81%90%E5%90%B9%E5%80%92%E6%88%BF%E5%B1%8B-%E6%8E%8012%E7%B1%B3%E5%B7%A8%E6%B5%AA",
     "timestamp": "2026-07-08T11:01:48.933Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "紅山半島業主求覆核清拆令　指屋宇署應酌情准留部份僭建物",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20230925/782992639598268416429761.jpeg/RvyoK_BRN-aZSTrT9Yq0UHLIfVyT86qvsNgQkprYEJI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60367968/%E7%B4%85%E5%B1%B1%E5%8D%8A%E5%B3%B6%E6%A5%AD%E4%B8%BB%E6%B1%82%E8%A6%86%E6%A0%B8%E6%B8%85%E6%8B%86%E4%BB%A4-%E6%8C%87%E5%B1%8B%E5%AE%87%E7%BD%B2%E6%87%89%E9%85%8C%E6%83%85%E5%87%86%E7%95%99%E9%83%A8%E4%BB%BD%E5%83%AD%E5%BB%BA%E7%89%A9",
-    "timestamp": "2026-07-08T10:05:11.005Z",
     "strategy": ".content-card__main"
   }
 ];
