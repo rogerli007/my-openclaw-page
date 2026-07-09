@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-09T19:59:26.200Z
+// Last updated: 2026-07-09T20:43:14.378Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "福建晉江鞋廠火災28死　現場213人獲疏散　當局動員逾500人救援",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260710/1152095127599058944132586.jpeg/Y49FhdjfCjD7I7BmgvGkfZ_BjnJEEjzsV4rHuVeKx7k?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60368464/%E7%A6%8F%E5%BB%BA%E6%99%89%E6%B1%9F%E9%9E%8B%E5%BB%A0%E7%81%AB%E7%81%BD28%E6%AD%BB-%E7%8F%BE%E5%A0%B4213%E4%BA%BA%E7%8D%B2%E7%96%8F%E6%95%A3-%E7%95%B6%E5%B1%80%E5%8B%95%E5%93%A1%E9%80%BE500%E4%BA%BA%E6%95%91%E6%8F%B4",
+    "timestamp": "2026-07-09T20:43:14.378Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "福建晉江鞋廠火災28死　現場213人獲疏散　當局動員逾500人救援",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260709/1151705357421121536675321.jpeg/DHyEN9vxXDkY9Qd5KjgPnxIn4x5X3-NUHRdzsB0Xc7A?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60368059/%E5%8C%97%E7%B4%84%E5%B3%B0%E6%9C%83-%E7%89%B9%E6%9C%97%E6%99%AE%E6%96%99%E7%BE%8E%E4%BC%8A%E4%B8%8D%E6%9C%83%E5%85%A8%E9%9D%A2%E9%87%8D%E5%95%9F%E6%88%B0%E4%BA%8B-%E8%87%AA%E7%A8%B1%E6%98%AF%E4%BC%8A%E6%9C%97%E9%A0%AD%E8%99%9F%E7%9B%AE%E6%A8%99",
     "timestamp": "2026-07-08T18:40:06.740Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "Taylor Swift婚禮搞驚喜大抽獎　名牌手袋復古跑車價值過百萬美元",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260708/1151646854442651648426975.jpeg/WwoSiK8ywIZYoqfiaZX90xtaLMl-iXzqX9eMfV_XjH0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60367940/taylor-swift%E5%A9%9A%E7%A6%AE%E6%90%9E%E9%A9%9A%E5%96%9C%E5%A4%A7%E6%8A%BD%E7%8D%8E-%E5%90%8D%E7%89%8C%E6%89%8B%E8%A2%8B%E5%BE%A9%E5%8F%A4%E8%B7%91%E8%BB%8A%E5%83%B9%E5%80%BC%E9%81%8E%E7%99%BE%E8%90%AC%E7%BE%8E%E5%85%83",
-    "timestamp": "2026-07-08T16:23:16.446Z",
     "strategy": ".content-card__main"
   }
 ];
