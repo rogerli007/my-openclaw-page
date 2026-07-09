@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-09T21:18:52.473Z
+// Last updated: 2026-07-09T21:54:33.823Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "朝鮮內閣總理樸泰成今率團訪華3天　將出席中朝條約65周年活動",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250429/993898091776053248605732.jpeg/ImarMQc7m1VUwbkdyNexxFSBaLZc9GjeNLxK1jS8StY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60368466/%E6%9C%9D%E9%AE%AE%E5%85%A7%E9%96%A3%E7%B8%BD%E7%90%86%E6%A8%B8%E6%B3%B0%E6%88%90%E4%BB%8A%E7%8E%87%E5%9C%98%E8%A8%AA%E8%8F%AF3%E5%A4%A9-%E5%B0%87%E5%87%BA%E5%B8%AD%E4%B8%AD%E6%9C%9D%E6%A2%9D%E7%B4%8465%E5%91%A8%E5%B9%B4%E6%B4%BB%E5%8B%95",
+    "timestamp": "2026-07-09T21:54:33.823Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "朝鮮內閣總理樸泰成今率團訪華3天　將出席中朝條約65周年活動",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260709/1151727134897606656826150.jpeg/JdmjZWam3eaKbxkry9-CpCpLEmS5g3htJZlx6CWZceg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60368063/%E8%AD%A6%E8%A7%80%E5%A1%98%E6%AA%A2-4000%E5%A4%A7%E9%BA%BB%E7%94%A2%E5%93%81-1%E7%94%B7%E8%A2%AB%E6%8D%95",
     "timestamp": "2026-07-08T20:03:09.333Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "北約峰會結束　特朗普讚會議展團結　暗示西班牙願配合增軍費計劃",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260709/1151720903566954496260143.jpeg/_Prp5Fxsjf6-UFiKEx7wCqauviwwr2FQjmY7Vo5mO1Y?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60368062/%E5%8C%97%E7%B4%84%E5%B3%B0%E6%9C%83%E7%B5%90%E6%9D%9F-%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%9A%E6%9C%83%E8%AD%B0%E5%B1%95%E5%9C%98%E7%B5%90-%E6%9A%97%E7%A4%BA%E8%A5%BF%E7%8F%AD%E7%89%99%E9%A1%98%E9%85%8D%E5%90%88%E5%A2%9E%E8%BB%8D%E8%B2%BB%E8%A8%88%E5%8A%83",
-    "timestamp": "2026-07-08T19:17:26.468Z",
     "strategy": ".content-card__main"
   }
 ];
