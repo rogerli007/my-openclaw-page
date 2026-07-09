@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-09T20:43:14.378Z
+// Last updated: 2026-07-09T21:18:52.473Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "朝鮮內閣總理樸泰成今率團訪華3天　將出席中朝條約65周年活動",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250429/993898091776053248605732.jpeg/ImarMQc7m1VUwbkdyNexxFSBaLZc9GjeNLxK1jS8StY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60368466/%E6%9C%9D%E9%AE%AE%E5%85%A7%E9%96%A3%E7%B8%BD%E7%90%86%E6%A8%B8%E6%B3%B0%E6%88%90%E4%BB%8A%E7%8E%87%E5%9C%98%E8%A8%AA%E8%8F%AF3%E5%A4%A9-%E5%B0%87%E5%87%BA%E5%B8%AD%E4%B8%AD%E6%9C%9D%E6%A2%9D%E7%B4%8465%E5%91%A8%E5%B9%B4%E6%B4%BB%E5%8B%95",
+    "timestamp": "2026-07-09T21:18:52.473Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "福建晉江鞋廠火災28死　現場213人獲疏散　當局動員逾500人救援",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260709/1151720903566954496260143.jpeg/_Prp5Fxsjf6-UFiKEx7wCqauviwwr2FQjmY7Vo5mO1Y?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60368062/%E5%8C%97%E7%B4%84%E5%B3%B0%E6%9C%83%E7%B5%90%E6%9D%9F-%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%9A%E6%9C%83%E8%AD%B0%E5%B1%95%E5%9C%98%E7%B5%90-%E6%9A%97%E7%A4%BA%E8%A5%BF%E7%8F%AD%E7%89%99%E9%A1%98%E9%85%8D%E5%90%88%E5%A2%9E%E8%BB%8D%E8%B2%BB%E8%A8%88%E5%8A%83",
     "timestamp": "2026-07-08T19:17:26.468Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "北約峰會｜特朗普料美伊不會全面重啟戰事　自稱是伊朗頭號目標",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260709/1151705357421121536675321.jpeg/DHyEN9vxXDkY9Qd5KjgPnxIn4x5X3-NUHRdzsB0Xc7A?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60368059/%E5%8C%97%E7%B4%84%E5%B3%B0%E6%9C%83-%E7%89%B9%E6%9C%97%E6%99%AE%E6%96%99%E7%BE%8E%E4%BC%8A%E4%B8%8D%E6%9C%83%E5%85%A8%E9%9D%A2%E9%87%8D%E5%95%9F%E6%88%B0%E4%BA%8B-%E8%87%AA%E7%A8%B1%E6%98%AF%E4%BC%8A%E6%9C%97%E9%A0%AD%E8%99%9F%E7%9B%AE%E6%A8%99",
-    "timestamp": "2026-07-08T18:40:06.740Z",
     "strategy": ".content-card__main"
   }
 ];
