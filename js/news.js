@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-09T04:43:09.483Z
+// Last updated: 2026-07-09T10:08:33.484Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "去IKEA放狗？未牽狗繩任由狗狗亂跑　狗主懶理職員勸阻　遭斥自私",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260709/1151933441571295232061879.jpeg/3YBse-gB3o350xikv1Eok9o3UXtXtecw6If6xuiH-sY",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60368178/%E5%8E%BBikea%E6%94%BE%E7%8B%97-%E6%9C%AA%E7%89%BD%E7%8B%97%E7%B9%A9%E4%BB%BB%E7%94%B1%E7%8B%97%E7%8B%97%E4%BA%82%E8%B7%91-%E7%8B%97%E4%B8%BB%E6%87%B6%E7%90%86%E8%81%B7%E5%93%A1%E5%8B%B8%E9%98%BB-%E9%81%AD%E6%96%A5%E8%87%AA%E7%A7%81",
+    "timestamp": "2026-07-09T10:08:33.484Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "世盃全城起動｜西班牙攻守兼備　順「利」入四強",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20230925/782992639598268416429761.jpeg/RvyoK_BRN-aZSTrT9Yq0UHLIfVyT86qvsNgQkprYEJI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60367968/%E7%B4%85%E5%B1%B1%E5%8D%8A%E5%B3%B6%E6%A5%AD%E4%B8%BB%E6%B1%82%E8%A6%86%E6%A0%B8%E6%B8%85%E6%8B%86%E4%BB%A4-%E6%8C%87%E5%B1%8B%E5%AE%87%E7%BD%B2%E6%87%89%E9%85%8C%E6%83%85%E5%87%86%E7%95%99%E9%83%A8%E4%BB%BD%E5%83%AD%E5%BB%BA%E7%89%A9",
     "timestamp": "2026-07-08T10:05:11.005Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "減肥斷食體脂不降反升！營養師揭蛋白質不足+進食次序防代謝失調",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260708/1151553248788746240235487.jpeg/NufOGRFibNk6ooUxf2XZm-_ym9jmfcjZesBq5HrAauQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60362975/%E6%B8%9B%E8%82%A5%E6%96%B7%E9%A3%9F%E9%AB%94%E8%84%82%E4%B8%8D%E9%99%8D%E5%8F%8D%E5%8D%87-%E7%87%9F%E9%A4%8A%E5%B8%AB%E6%8F%AD%E8%9B%8B%E7%99%BD%E8%B3%AA%E4%B8%8D%E8%B6%B3-%E9%80%B2%E9%A3%9F%E6%AC%A1%E5%BA%8F%E9%98%B2%E4%BB%A3%E8%AC%9D%E5%A4%B1%E8%AA%BF",
-    "timestamp": "2026-07-08T09:06:22.982Z",
     "strategy": ".content-card__main"
   }
 ];
