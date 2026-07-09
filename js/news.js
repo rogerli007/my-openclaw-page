@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-09T02:02:41.646Z
+// Last updated: 2026-07-09T03:20:01.864Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "情有獨鍾？「麻將館大王」石鑑輝家族增持譽林　累斥6231萬購7伙",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20240917/912663460125347840531076.jpeg/AIShtVaMsN8PM52UPp0uFoYUEukE_elpLJPn9yyT5_c?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60368120/%E6%83%85%E6%9C%89%E7%8D%A8%E9%8D%BE-%E9%BA%BB%E5%B0%87%E9%A4%A8%E5%A4%A7%E7%8E%8B-%E7%9F%B3%E9%91%91%E8%BC%9D%E5%AE%B6%E6%97%8F%E5%A2%9E%E6%8C%81%E8%AD%BD%E6%9E%97-%E7%B4%AF%E6%96%A56231%E8%90%AC%E8%B3%BC7%E4%BC%99",
+    "timestamp": "2026-07-09T03:20:01.864Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "北約峰會｜特朗普未有乘坐新空軍一號專機離開　疑因伊朗暗殺風險",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260708/1151535194696585216907154.jpeg/6H2aW99V0BRiDqgZp7d1R5noh0haQrk4rXaj2a12o9k?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60367835/p1harmony%E6%BC%94%E5%94%B1%E6%9C%832026%E6%BE%B3%E9%96%80-%E9%96%80%E7%A5%A8%E6%94%BB%E7%95%A5-%E8%B3%BC%E7%A5%A8%E9%80%A3%E7%B5%90-%E5%BA%A7%E4%BD%8D%E8%A1%A8",
     "timestamp": "2026-07-08T08:07:00.192Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "峇里島或變避稅天堂？印尼擬建金融特區吸金　推企業與個人零稅率",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260708/1151524995621457920203475.jpeg/WJqHrGbdqyu5s5dNO2JJDTy0upT-isH83R1sXN0dbFw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60367767/%E5%B3%87%E9%87%8C%E5%B3%B6%E6%88%96%E8%AE%8A%E9%81%BF%E7%A8%85%E5%A4%A9%E5%A0%82-%E5%8D%B0%E5%B0%BC%E6%93%AC%E5%BB%BA%E9%87%91%E8%9E%8D%E7%89%B9%E5%8D%80%E5%90%B8%E9%87%91-%E6%8E%A8%E4%BC%81%E6%A5%AD%E8%88%87%E5%80%8B%E4%BA%BA%E9%9B%B6%E7%A8%85%E7%8E%87",
-    "timestamp": "2026-07-08T07:15:02.872Z",
     "strategy": ".content-card__main"
   }
 ];
