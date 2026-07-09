@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-09T14:46:31.226Z
+// Last updated: 2026-07-09T15:52:42.582Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "謝東閔首踩管弦樂團演出連唱張國榮金曲　自爆感情空白迷上匹克球",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260709/1151951691776528384697123.jpeg/nXBYJlItd_u_hEEXWE0Nm2TaxMq3lsjQt7hMxLe4TMQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60368357/%E8%AC%9D%E6%9D%B1%E9%96%94%E9%A6%96%E8%B8%A9%E7%AE%A1%E5%BC%A6%E6%A8%82%E5%9C%98%E6%BC%94%E5%87%BA%E9%80%A3%E5%94%B1%E5%BC%B5%E5%9C%8B%E6%A6%AE%E9%87%91%E6%9B%B2-%E8%87%AA%E7%88%86%E6%84%9F%E6%83%85%E7%A9%BA%E7%99%BD%E8%BF%B7%E4%B8%8A%E5%8C%B9%E5%85%8B%E7%90%83",
+    "timestamp": "2026-07-09T15:52:42.582Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "AI教學｜去旅行成日漏帶嘢？AI指令打造專屬個人執行李Checklist",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260708/1151626761268629504192387.jpeg/bhk-f8BCAcyBje5GcD8vxqWt2oqweEqQ58Y7MOfGOzA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60367840/%E4%B8%96%E7%95%8C%E5%A5%B3%E6%8E%92%E8%81%AF%E8%B3%BD2026%E9%A6%99%E6%B8%AF%E7%AB%99-%E6%84%8F%E5%A4%A7%E5%88%A9%E9%BB%83%E9%87%91%E7%B5%82%E9%99%A3%E5%AE%B9%E5%90%88%E9%AB%94-%E7%83%8F%E5%85%8B%E8%98%AD%E5%8A%9B%E6%8B%BC%E6%83%9C%E8%B2%A0",
     "timestamp": "2026-07-08T12:56:14.017Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "傳施南生病重留院接受治療　好友張艾嘉行色匆匆趕到醫院",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260708/1151619929003266048685390.jpeg/-aGAuiY6UKBBMgOfDdDWMGB1iHhDVA5N8I0VccqNFXE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60368010/%E5%82%B3%E6%96%BD%E5%8D%97%E7%94%9F%E7%97%85%E9%87%8D%E7%95%99%E9%99%A2%E6%8E%A5%E5%8F%97%E6%B2%BB%E7%99%82-%E5%A5%BD%E5%8F%8B%E5%BC%B5%E8%89%BE%E5%98%89%E8%A1%8C%E8%89%B2%E5%8C%86%E5%8C%86%E8%B6%95%E5%88%B0%E9%86%AB%E9%99%A2",
-    "timestamp": "2026-07-08T12:17:27.797Z",
     "strategy": ".content-card__main"
   }
 ];
