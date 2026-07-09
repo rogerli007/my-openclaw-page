@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-09T15:52:42.582Z
+// Last updated: 2026-07-09T16:59:51.170Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "輕鐵女車長被拍攝到駕駛時篤手機　港鐵：展開內部調查和跟進",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260710/1152043333254647808250793.jpeg/082ltg6Ata6btJXW2iOPmUqjLTQnWLxlpsfju6bH47s?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60368456/%E8%BC%95%E9%90%B5%E5%A5%B3%E8%BB%8A%E9%95%B7%E8%A2%AB%E6%8B%8D%E6%94%9D%E5%88%B0%E9%A7%95%E9%A7%9B%E6%99%82%E7%AF%A4%E6%89%8B%E6%A9%9F-%E6%B8%AF%E9%90%B5-%E5%B1%95%E9%96%8B%E5%85%A7%E9%83%A8%E8%AA%BF%E6%9F%A5%E5%92%8C%E8%B7%9F%E9%80%B2",
+    "timestamp": "2026-07-09T16:59:51.170Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "謝東閔首踩管弦樂團演出連唱張國榮金曲　自爆感情空白迷上匹克球",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260708/1151628871985008640786592.jpeg/CsJ0UP30zcm7NKZt8_Vj4rb1kdg94LixWUb4ullG-Lo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60368014/%E4%B8%96%E7%95%8C%E7%9B%83-ishowspeed%E9%81%AD%E6%AD%A7%E8%A6%96%E8%BE%B1%E7%BD%B5-%E6%BB%BE%E5%9B%9E%E5%8B%95%E7%89%A9%E5%9C%92%E5%93%AD-%E5%9C%8B%E9%9A%9B%E8%B6%B3%E5%8D%94%E4%BB%8B%E5%85%A5%E8%AA%BF%E6%9F%A5",
     "timestamp": "2026-07-08T13:43:30.052Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "世界女排聯賽2026香港站｜意大利黃金終陣容合體　烏克蘭力拼惜負",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260708/1151626761268629504192387.jpeg/bhk-f8BCAcyBje5GcD8vxqWt2oqweEqQ58Y7MOfGOzA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60367840/%E4%B8%96%E7%95%8C%E5%A5%B3%E6%8E%92%E8%81%AF%E8%B3%BD2026%E9%A6%99%E6%B8%AF%E7%AB%99-%E6%84%8F%E5%A4%A7%E5%88%A9%E9%BB%83%E9%87%91%E7%B5%82%E9%99%A3%E5%AE%B9%E5%90%88%E9%AB%94-%E7%83%8F%E5%85%8B%E8%98%AD%E5%8A%9B%E6%8B%BC%E6%83%9C%E8%B2%A0",
-    "timestamp": "2026-07-08T12:56:14.017Z",
     "strategy": ".content-card__main"
   }
 ];
