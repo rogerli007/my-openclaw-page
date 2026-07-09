@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-09T03:20:01.864Z
+// Last updated: 2026-07-09T04:43:09.483Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "世盃全城起動｜西班牙攻守兼備　順「利」入四強",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260708/1151646044627406848096241.jpeg/I6tr1z224X65bMOtBDsCKOp57es9iMyePTuHbj07h24?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60368030/%E4%B8%96%E7%9B%83%E5%85%A8%E5%9F%8E%E8%B5%B7%E5%8B%95-%E8%A5%BF%E7%8F%AD%E7%89%99%E6%94%BB%E5%AE%88%E5%85%BC%E5%82%99-%E9%A0%86-%E5%88%A9-%E5%85%A5%E5%9B%9B%E5%BC%B7",
+    "timestamp": "2026-07-09T04:43:09.483Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "情有獨鍾？「麻將館大王」石鑑輝家族增持譽林　累斥6231萬購7伙",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260708/1151553248788746240235487.jpeg/NufOGRFibNk6ooUxf2XZm-_ym9jmfcjZesBq5HrAauQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60362975/%E6%B8%9B%E8%82%A5%E6%96%B7%E9%A3%9F%E9%AB%94%E8%84%82%E4%B8%8D%E9%99%8D%E5%8F%8D%E5%8D%87-%E7%87%9F%E9%A4%8A%E5%B8%AB%E6%8F%AD%E8%9B%8B%E7%99%BD%E8%B3%AA%E4%B8%8D%E8%B6%B3-%E9%80%B2%E9%A3%9F%E6%AC%A1%E5%BA%8F%E9%98%B2%E4%BB%A3%E8%AC%9D%E5%A4%B1%E8%AA%BF",
     "timestamp": "2026-07-08T09:06:22.982Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "P1Harmony演唱會2026澳門｜門票攻略＋購票連結＋座位表",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260708/1151535194696585216907154.jpeg/6H2aW99V0BRiDqgZp7d1R5noh0haQrk4rXaj2a12o9k?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60367835/p1harmony%E6%BC%94%E5%94%B1%E6%9C%832026%E6%BE%B3%E9%96%80-%E9%96%80%E7%A5%A8%E6%94%BB%E7%95%A5-%E8%B3%BC%E7%A5%A8%E9%80%A3%E7%B5%90-%E5%BA%A7%E4%BD%8D%E8%A1%A8",
-    "timestamp": "2026-07-08T08:07:00.192Z",
     "strategy": ".content-card__main"
   }
 ];
