@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-09T12:29:50.779Z
+// Last updated: 2026-07-09T14:46:31.226Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "AI教學｜去旅行成日漏帶嘢？AI指令打造專屬個人執行李Checklist",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260709/1151824865582387200602483.jpeg/WDxsQPRA3f9zzsR9QTD6xXeoBjzj-q7zkSK8MpEivDI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%AF%A6%E7%94%A8%E6%95%99%E5%AD%B8/60368077/ai%E6%95%99%E5%AD%B8-%E5%8E%BB%E6%97%85%E8%A1%8C%E6%88%90%E6%97%A5%E6%BC%8F%E5%B8%B6%E5%98%A2-ai%E6%8C%87%E4%BB%A4%E6%89%93%E9%80%A0%E5%B0%88%E5%B1%AC%E5%80%8B%E4%BA%BA%E5%9F%B7%E8%A1%8C%E6%9D%8Echecklist",
+    "timestamp": "2026-07-09T14:46:31.226Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "毛月亮香港首演 專訪雲門舞集藝術總監鄭宗龍 讓舞蹈與科技對話",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260708/1151619929003266048685390.jpeg/-aGAuiY6UKBBMgOfDdDWMGB1iHhDVA5N8I0VccqNFXE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60368010/%E5%82%B3%E6%96%BD%E5%8D%97%E7%94%9F%E7%97%85%E9%87%8D%E7%95%99%E9%99%A2%E6%8E%A5%E5%8F%97%E6%B2%BB%E7%99%82-%E5%A5%BD%E5%8F%8B%E5%BC%B5%E8%89%BE%E5%98%89%E8%A1%8C%E8%89%B2%E5%8C%86%E5%8C%86%E8%B6%95%E5%88%B0%E9%86%AB%E9%99%A2",
     "timestamp": "2026-07-08T12:17:27.797Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "中國工信部稱AI編程工具Claude模型存在安全後門隱患　危害嚴重",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260708/1151611373810094080296370.jpeg/Rc711KSrExGIkS5WCbNmhD5RyE18asa0OQOnIDkDpyA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60367998/%E4%B8%AD%E5%9C%8B%E5%B7%A5%E4%BF%A1%E9%83%A8%E7%A8%B1ai%E7%B7%A8%E7%A8%8B%E5%B7%A5%E5%85%B7claude%E6%A8%A1%E5%9E%8B%E5%AD%98%E5%9C%A8%E5%AE%89%E5%85%A8%E5%BE%8C%E9%96%80%E9%9A%B1%E6%82%A3-%E5%8D%B1%E5%AE%B3%E5%9A%B4%E9%87%8D",
-    "timestamp": "2026-07-08T11:43:20.107Z",
     "strategy": ".content-card__main"
   }
 ];
