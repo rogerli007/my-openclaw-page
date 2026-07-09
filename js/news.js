@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-09T21:54:33.823Z
+// Last updated: 2026-07-09T23:15:28.743Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "醫冠禽獸！澳華裔兒科醫生涉性侵10女童　遭「戀童癖獵人」誘捕",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260707/1151108512646959104408632.png/VucplWAsegKsG755LTMTJwuHDA7G6w4wHjj1aR449Wk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60365679/%E6%BE%B3%E8%8F%AF%E8%A3%94%E5%85%92%E7%A7%91%E9%86%AB%E7%94%9F%E6%B6%89%E6%80%A7%E4%BE%B510%E5%A5%B3%E7%AB%A5-%E6%8B%8D%E4%B8%8B%E6%80%A7%E8%99%90%E7%89%87-%E9%81%AD-%E6%88%80%E7%AB%A5%E7%99%96%E7%8D%B5%E4%BA%BA-%E8%AA%98%E6%8D%95",
+    "timestamp": "2026-07-09T23:15:28.743Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "朝鮮內閣總理樸泰成今率團訪華3天　將出席中朝條約65周年活動",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260709/1151727134897606656826150.jpeg/JdmjZWam3eaKbxkry9-CpCpLEmS5g3htJZlx6CWZceg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60368063/%E8%AD%A6%E8%A7%80%E5%A1%98%E6%AA%A2-4000%E5%A4%A7%E9%BA%BB%E7%94%A2%E5%93%81-1%E7%94%B7%E8%A2%AB%E6%8D%95",
     "timestamp": "2026-07-08T20:38:06.109Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "警觀塘檢$4000大麻產品　1男被捕",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260709/1151727134897606656826150.jpeg/JdmjZWam3eaKbxkry9-CpCpLEmS5g3htJZlx6CWZceg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60368063/%E8%AD%A6%E8%A7%80%E5%A1%98%E6%AA%A2-4000%E5%A4%A7%E9%BA%BB%E7%94%A2%E5%93%81-1%E7%94%B7%E8%A2%AB%E6%8D%95",
-    "timestamp": "2026-07-08T20:03:09.333Z",
     "strategy": ".content-card__main"
   }
 ];
