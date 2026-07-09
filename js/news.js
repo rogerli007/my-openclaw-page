@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-09T11:24:48.556Z
+// Last updated: 2026-07-09T12:29:50.779Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "毛月亮香港首演 專訪雲門舞集藝術總監鄭宗龍 讓舞蹈與科技對話",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260709/1151964561717334016960725.jpeg/3LIb7mGwa9EpBCEnI-ZB_JZGUgq48Rc48whjE_MIYxM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%97%9D%E6%96%87/60368278/%E6%AF%9B%E6%9C%88%E4%BA%AE%E9%A6%99%E6%B8%AF%E9%A6%96%E6%BC%94-%E5%B0%88%E8%A8%AA%E9%9B%B2%E9%96%80%E8%88%9E%E9%9B%86%E8%97%9D%E8%A1%93%E7%B8%BD%E7%9B%A3%E9%84%AD%E5%AE%97%E9%BE%8D-%E8%AE%93%E8%88%9E%E8%B9%88%E8%88%87%E7%A7%91%E6%8A%80%E5%B0%8D%E8%A9%B1",
+    "timestamp": "2026-07-09T12:29:50.779Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美軍誤炸伊朗小學175死　美媒：官員無視過時情報警告釀悲劇",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260708/1151611373810094080296370.jpeg/Rc711KSrExGIkS5WCbNmhD5RyE18asa0OQOnIDkDpyA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60367998/%E4%B8%AD%E5%9C%8B%E5%B7%A5%E4%BF%A1%E9%83%A8%E7%A8%B1ai%E7%B7%A8%E7%A8%8B%E5%B7%A5%E5%85%B7claude%E6%A8%A1%E5%9E%8B%E5%AD%98%E5%9C%A8%E5%AE%89%E5%85%A8%E5%BE%8C%E9%96%80%E9%9A%B1%E6%82%A3-%E5%8D%B1%E5%AE%B3%E5%9A%B4%E9%87%8D",
     "timestamp": "2026-07-08T11:43:20.107Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "超強颱風「巴威」直逼沖繩　氣象廳：恐吹倒房屋、掀12米巨浪",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260708/1151591069075378176296480.png/oDhKugIBgyK-1gfro2ntgqqQzkobb_MkDDuAwgw7gMI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60367982/%E8%B6%85%E5%BC%B7%E9%A2%B1%E9%A2%A8-%E5%B7%B4%E5%A8%81-%E7%9B%B4%E9%80%BC%E6%B2%96%E7%B9%A9-%E6%B0%A3%E8%B1%A1%E5%BB%B3-%E6%81%90%E5%90%B9%E5%80%92%E6%88%BF%E5%B1%8B-%E6%8E%8012%E7%B1%B3%E5%B7%A8%E6%B5%AA",
-    "timestamp": "2026-07-08T11:01:48.933Z",
     "strategy": ".content-card__main"
   }
 ];
