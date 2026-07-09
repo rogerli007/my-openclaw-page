@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-09T16:59:51.170Z
+// Last updated: 2026-07-09T17:46:05.066Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "哈梅內伊今家鄉安葬　伊朗民眾聚集高呼反美口號：殺死特朗普報仇",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260710/1152058555092701184415068.jpeg/CQnY74s9w0VWy7EnJkuXIi3nJWNI_npgm2syP5trMj8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60368458/%E5%93%88%E6%A2%85%E5%85%A7%E4%BC%8A%E4%BB%8A%E5%AE%B6%E9%84%89%E5%AE%89%E8%91%AC-%E4%BC%8A%E6%9C%97%E6%B0%91%E7%9C%BE%E8%81%9A%E9%9B%86%E9%AB%98%E5%91%BC%E5%8F%8D%E7%BE%8E%E5%8F%A3%E8%99%9F-%E6%AE%BA%E6%AD%BB%E7%89%B9%E6%9C%97%E6%99%AE%E5%A0%B1%E4%BB%87",
+    "timestamp": "2026-07-09T17:46:05.066Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "輕鐵女車長被拍攝到駕駛時篤手機　港鐵：展開內部調查和跟進",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260708/1151668236287217664651728.jpeg/MkqmEJu5PFG8-yATwQlloQzQwlqys0BJ8X8Fi8t_BYs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60368047/%E9%A6%99%E6%B8%AF%E4%BB%94%E8%AC%80%E6%AE%BA-%E5%B0%8F%E5%B7%B4%E7%AB%99%E5%85%A9%E5%A5%B3%E6%89%93%E6%9E%B6-%E4%B8%80%E5%A5%B3%E9%A0%AD%E5%82%B7%E9%80%81%E9%99%A2%E4%B8%8D%E6%B2%BB-%E8%AD%A6%E9%87%8D%E6%A1%88%E7%B5%84%E8%B7%9F%E9%80%B2",
     "timestamp": "2026-07-08T15:38:04.703Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "世界盃｜IShowSpeed遭歧視辱罵：滾回動物園哭　國際足協介入調查",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260708/1151628871985008640786592.jpeg/CsJ0UP30zcm7NKZt8_Vj4rb1kdg94LixWUb4ullG-Lo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60368014/%E4%B8%96%E7%95%8C%E7%9B%83-ishowspeed%E9%81%AD%E6%AD%A7%E8%A6%96%E8%BE%B1%E7%BD%B5-%E6%BB%BE%E5%9B%9E%E5%8B%95%E7%89%A9%E5%9C%92%E5%93%AD-%E5%9C%8B%E9%9A%9B%E8%B6%B3%E5%8D%94%E4%BB%8B%E5%85%A5%E8%AA%BF%E6%9F%A5",
-    "timestamp": "2026-07-08T13:43:30.052Z",
     "strategy": ".content-card__main"
   }
 ];
