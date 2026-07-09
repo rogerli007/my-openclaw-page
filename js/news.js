@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-08T23:15:22.170Z
+// Last updated: 2026-07-09T02:02:41.646Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "北約峰會｜特朗普未有乘坐新空軍一號專機離開　疑因伊朗暗殺風險",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260709/1151826618302337024983724.jpeg/KBqav0yyVccW96tcOuW63tZbvhn9b9YB4Nl_CuDZfwo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60368097/%E5%8C%97%E7%B4%84%E5%B3%B0%E6%9C%83-%E7%89%B9%E6%9C%97%E6%99%AE%E6%9C%AA%E6%9C%89%E4%B9%98%E5%9D%90%E6%96%B0%E7%A9%BA%E8%BB%8D%E4%B8%80%E8%99%9F%E5%B0%88%E6%A9%9F%E9%9B%A2%E9%96%8B-%E7%96%91%E5%9B%A0%E4%BC%8A%E6%9C%97%E6%9A%97%E6%AE%BA%E9%A2%A8%E9%9A%AA",
+    "timestamp": "2026-07-09T02:02:41.646Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "雨中踢波！大馬足球賽3人疑遭雷擊倒地　28歲球員慘死、裁判重傷",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260708/1151524995621457920203475.jpeg/WJqHrGbdqyu5s5dNO2JJDTy0upT-isH83R1sXN0dbFw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60367767/%E5%B3%87%E9%87%8C%E5%B3%B6%E6%88%96%E8%AE%8A%E9%81%BF%E7%A8%85%E5%A4%A9%E5%A0%82-%E5%8D%B0%E5%B0%BC%E6%93%AC%E5%BB%BA%E9%87%91%E8%9E%8D%E7%89%B9%E5%8D%80%E5%90%B8%E9%87%91-%E6%8E%A8%E4%BC%81%E6%A5%AD%E8%88%87%E5%80%8B%E4%BA%BA%E9%9B%B6%E7%A8%85%E7%8E%87",
     "timestamp": "2026-07-08T07:15:02.872Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "友邦滙豐化？杜嘉祺據報擴主席權力積極參與營運　有管理層感不安",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/20200403/322769545544732672.jpeg/KIt5NdHX2q1mvEmWU0GpcvvBU64aPvhJIH75PSB--T0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60367718/%E5%8F%8B%E9%82%A6%E6%BB%99%E8%B1%90%E5%8C%96-%E6%9D%9C%E5%98%89%E7%A5%BA%E6%93%9A%E5%A0%B1%E6%93%B4%E4%B8%BB%E5%B8%AD%E6%AC%8A%E5%8A%9B%E7%A9%8D%E6%A5%B5%E5%8F%83%E8%88%87%E7%87%9F%E9%81%8B-%E6%9C%89%E7%AE%A1%E7%90%86%E5%B1%A4%E6%84%9F%E4%B8%8D%E5%AE%89",
-    "timestamp": "2026-07-08T02:45:18.545Z",
     "strategy": ".content-card__main"
   }
 ];
