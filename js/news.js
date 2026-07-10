@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-10T15:05:42.455Z
+// Last updated: 2026-07-10T15:59:51.361Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "退伍軍人病｜89歲翁養和醫院內感染　防護中心指令停用病房淋浴間",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260601/1138176664979640320905387.jpeg/LPt0_8b6Ihfc19qFfQs6oyDZE102L0kZwmzeK8Js3is?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60368839/%E9%80%80%E4%BC%8D%E8%BB%8D%E4%BA%BA%E7%97%85-89%E6%AD%B2%E7%BF%81%E9%A4%8A%E5%92%8C%E9%86%AB%E9%99%A2%E5%85%A7%E6%84%9F%E6%9F%93-%E9%98%B2%E8%AD%B7%E4%B8%AD%E5%BF%83%E6%8C%87%E4%BB%A4%E5%81%9C%E7%94%A8%E7%97%85%E6%88%BF%E6%B7%8B%E6%B5%B4%E9%96%93",
+    "timestamp": "2026-07-10T15:59:51.361Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "71歲佛州翁釣魚變釣鱷魚！狂戳巨鱷眼死裡逃生　住院豪言無懼再釣",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260710/1152043333254647808250793.jpeg/082ltg6Ata6btJXW2iOPmUqjLTQnWLxlpsfju6bH47s?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60368456/%E8%BC%95%E9%90%B5%E5%A5%B3%E8%BB%8A%E9%95%B7%E8%A2%AB%E6%8B%8D%E6%94%9D%E5%88%B0%E9%A7%95%E9%A7%9B%E6%99%82%E7%AF%A4%E6%89%8B%E6%A9%9F-%E6%B8%AF%E9%90%B5-%E5%B1%95%E9%96%8B%E5%85%A7%E9%83%A8%E8%AA%BF%E6%9F%A5%E5%92%8C%E8%B7%9F%E9%80%B2",
     "timestamp": "2026-07-09T16:59:51.170Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "謝東閔首踩管弦樂團演出連唱張國榮金曲　自爆感情空白迷上匹克球",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260709/1151951691776528384697123.jpeg/nXBYJlItd_u_hEEXWE0Nm2TaxMq3lsjQt7hMxLe4TMQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60368357/%E8%AC%9D%E6%9D%B1%E9%96%94%E9%A6%96%E8%B8%A9%E7%AE%A1%E5%BC%A6%E6%A8%82%E5%9C%98%E6%BC%94%E5%87%BA%E9%80%A3%E5%94%B1%E5%BC%B5%E5%9C%8B%E6%A6%AE%E9%87%91%E6%9B%B2-%E8%87%AA%E7%88%86%E6%84%9F%E6%83%85%E7%A9%BA%E7%99%BD%E8%BF%B7%E4%B8%8A%E5%8C%B9%E5%85%8B%E7%90%83",
-    "timestamp": "2026-07-09T15:52:42.582Z",
     "strategy": ".content-card__main"
   }
 ];
