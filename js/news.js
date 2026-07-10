@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-10T12:16:16.708Z
+// Last updated: 2026-07-10T13:05:47.360Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "鄭秀文答謝會｜劉德華任嘉賓　「肥佬」驚喜現身合唱《倒轉地球》",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260710/1152355480740302848438975.jpeg/aKSP2eXNx3BlMYyLhgF8szkYsrjvZtmltuNvmYPjb5k?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60368819/%E9%84%AD%E7%A7%80%E6%96%87%E7%AD%94%E8%AC%9D%E6%9C%83-%E5%8A%89%E5%BE%B7%E8%8F%AF%E4%BB%BB%E5%98%89%E8%B3%93-%E8%82%A5%E4%BD%AC-%E9%A9%9A%E5%96%9C%E7%8F%BE%E8%BA%AB%E5%90%88%E5%94%B1-%E5%80%92%E8%BD%89%E5%9C%B0%E7%90%83",
+    "timestamp": "2026-07-10T13:05:47.360Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "麥當勞時任顧問涉收勞力士　官指未證有助承辦商得工程　3人罪脫",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260709/1151964561717334016960725.jpeg/3LIb7mGwa9EpBCEnI-ZB_JZGUgq48Rc48whjE_MIYxM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%97%9D%E6%96%87/60368278/%E6%AF%9B%E6%9C%88%E4%BA%AE%E9%A6%99%E6%B8%AF%E9%A6%96%E6%BC%94-%E5%B0%88%E8%A8%AA%E9%9B%B2%E9%96%80%E8%88%9E%E9%9B%86%E8%97%9D%E8%A1%93%E7%B8%BD%E7%9B%A3%E9%84%AD%E5%AE%97%E9%BE%8D-%E8%AE%93%E8%88%9E%E8%B9%88%E8%88%87%E7%A7%91%E6%8A%80%E5%B0%8D%E8%A9%B1",
     "timestamp": "2026-07-09T12:29:50.779Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美軍誤炸伊朗小學175死　美媒：官員無視過時情報警告釀悲劇",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260310/1108024288213995520730481.jpeg/TrQLatDmJtR6pn-4vYWqqRuNbkiIaYqqIFytPiBcrT4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60368381/%E7%BE%8E%E8%BB%8D%E8%AA%A4%E7%82%B8%E4%BC%8A%E6%9C%97%E5%B0%8F%E5%AD%B8175%E6%AD%BB-%E7%BE%8E%E5%AA%92-%E5%AE%98%E5%93%A1%E7%84%A1%E8%A6%96%E9%81%8E%E6%99%82%E6%83%85%E5%A0%B1%E8%AD%A6%E5%91%8A%E9%87%80%E6%82%B2%E5%8A%87",
-    "timestamp": "2026-07-09T11:24:48.556Z",
     "strategy": ".content-card__main"
   }
 ];
