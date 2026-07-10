@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-10T15:59:51.361Z
+// Last updated: 2026-07-10T17:30:47.202Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "特朗普稱已下令應對伊朗暗殺：倘我有不測將發動前所未見的轟炸",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260711/1152421186064355328395127.jpeg/Rle94lY_uatpD-fwL2MOEEuzPWxo3hGqbB7IpWweyKU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60368851/%E7%89%B9%E6%9C%97%E6%99%AE%E7%A8%B1%E5%B7%B2%E4%B8%8B%E4%BB%A4%E6%87%89%E5%B0%8D%E4%BC%8A%E6%9C%97%E6%9A%97%E6%AE%BA-%E5%80%98%E6%88%91%E6%9C%89%E4%B8%8D%E6%B8%AC%E5%B0%87%E7%99%BC%E5%8B%95%E5%89%8D%E6%89%80%E6%9C%AA%E8%A6%8B%E7%9A%84%E8%BD%9F%E7%82%B8",
+    "timestamp": "2026-07-10T17:30:47.202Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "退伍軍人病｜89歲翁養和醫院內感染　防護中心指令停用病房淋浴間",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260710/1152058555092701184415068.jpeg/CQnY74s9w0VWy7EnJkuXIi3nJWNI_npgm2syP5trMj8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60368458/%E5%93%88%E6%A2%85%E5%85%A7%E4%BC%8A%E4%BB%8A%E5%AE%B6%E9%84%89%E5%AE%89%E8%91%AC-%E4%BC%8A%E6%9C%97%E6%B0%91%E7%9C%BE%E8%81%9A%E9%9B%86%E9%AB%98%E5%91%BC%E5%8F%8D%E7%BE%8E%E5%8F%A3%E8%99%9F-%E6%AE%BA%E6%AD%BB%E7%89%B9%E6%9C%97%E6%99%AE%E5%A0%B1%E4%BB%87",
     "timestamp": "2026-07-09T17:46:05.066Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "輕鐵女車長被拍攝到駕駛時篤手機　港鐵：展開內部調查和跟進",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260710/1152043333254647808250793.jpeg/082ltg6Ata6btJXW2iOPmUqjLTQnWLxlpsfju6bH47s?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60368456/%E8%BC%95%E9%90%B5%E5%A5%B3%E8%BB%8A%E9%95%B7%E8%A2%AB%E6%8B%8D%E6%94%9D%E5%88%B0%E9%A7%95%E9%A7%9B%E6%99%82%E7%AF%A4%E6%89%8B%E6%A9%9F-%E6%B8%AF%E9%90%B5-%E5%B1%95%E9%96%8B%E5%85%A7%E9%83%A8%E8%AA%BF%E6%9F%A5%E5%92%8C%E8%B7%9F%E9%80%B2",
-    "timestamp": "2026-07-09T16:59:51.170Z",
     "strategy": ".content-card__main"
   }
 ];
