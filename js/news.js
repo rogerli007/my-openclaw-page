@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-10T21:31:25.626Z
+// Last updated: 2026-07-10T21:56:36.624Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "強颱風巴威外圍下沉氣流今殺到　天文台料市區35度　新界4區37度",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260711/1152479812992897024278913.jpeg/QNoOZ69RT0QiuXK56jc8z3H4WHBwQ7Feh_56yIf-esg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60368862/%E5%BC%B7%E9%A2%B1%E9%A2%A8%E5%B7%B4%E5%A8%81%E5%A4%96%E5%9C%8D%E4%B8%8B%E6%B2%89%E6%B0%A3%E6%B5%81%E4%BB%8A%E6%AE%BA%E5%88%B0-%E5%A4%A9%E6%96%87%E5%8F%B0%E6%96%99%E5%B8%82%E5%8D%8035%E5%BA%A6-%E6%96%B0%E7%95%8C4%E5%8D%8037%E5%BA%A6",
+    "timestamp": "2026-07-10T21:56:36.624Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "世界盃2026｜西班牙2：1險勝比利時　米基爾馬連奴絕殺對手",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260707/1151108512646959104408632.png/VucplWAsegKsG755LTMTJwuHDA7G6w4wHjj1aR449Wk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60365679/%E6%BE%B3%E8%8F%AF%E8%A3%94%E5%85%92%E7%A7%91%E9%86%AB%E7%94%9F%E6%B6%89%E6%80%A7%E4%BE%B510%E5%A5%B3%E7%AB%A5-%E6%8B%8D%E4%B8%8B%E6%80%A7%E8%99%90%E7%89%87-%E9%81%AD-%E6%88%80%E7%AB%A5%E7%99%96%E7%8D%B5%E4%BA%BA-%E8%AA%98%E6%8D%95",
     "timestamp": "2026-07-09T23:15:28.743Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "朝鮮內閣總理樸泰成今率團訪華3天　將出席中朝條約65周年活動",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250429/993898091776053248605732.jpeg/ImarMQc7m1VUwbkdyNexxFSBaLZc9GjeNLxK1jS8StY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60368466/%E6%9C%9D%E9%AE%AE%E5%85%A7%E9%96%A3%E7%B8%BD%E7%90%86%E6%A8%B8%E6%B3%B0%E6%88%90%E4%BB%8A%E7%8E%87%E5%9C%98%E8%A8%AA%E8%8F%AF3%E5%A4%A9-%E5%B0%87%E5%87%BA%E5%B8%AD%E4%B8%AD%E6%9C%9D%E6%A2%9D%E7%B4%8465%E5%91%A8%E5%B9%B4%E6%B4%BB%E5%8B%95",
-    "timestamp": "2026-07-09T21:54:33.823Z",
     "strategy": ".content-card__main"
   }
 ];
