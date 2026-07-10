@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-10T22:29:39.468Z
+// Last updated: 2026-07-10T22:54:28.097Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "柴灣樂軒臺男子街頭昏迷　送院搶救　留醫逾2日不治",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260708/1151446166165000192570918.jpeg/w2C4OpBwhkE2d_6xIUyDm75nH2d_UEVC0GtQwOprUMA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60368868/%E6%9F%B4%E7%81%A3%E6%A8%82%E8%BB%92%E8%87%BA%E7%94%B7%E5%AD%90%E8%A1%97%E9%A0%AD%E6%98%8F%E8%BF%B7-%E9%80%81%E9%99%A2%E6%90%B6%E6%95%91-%E7%95%99%E9%86%AB%E9%80%BE2%E6%97%A5%E4%B8%8D%E6%B2%BB",
+    "timestamp": "2026-07-10T22:54:28.097Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "強颱風「巴威」致菲律賓南部暴雨　2地發生山泥傾瀉至少15死",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260707/1151186576772960256760298.png/elXXD852HEqPygxgVpWT-b2nhhbxFsgx6AP34ugD9-I?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60366048/61%E6%AD%B2%E7%BF%81%E5%80%9F-%E5%AE%89%E6%85%B0%E8%BE%AD%E8%81%B7-%E5%BC%B7%E6%8A%B124%E6%AD%B2%E5%A5%B3-%E6%91%B8%E8%83%B8%E6%91%B8%E8%87%80%E5%8F%8D%E7%A8%B1%E9%81%AD%E9%99%B7%E5%AE%B3-%E5%88%A4%E6%B1%BA%E6%9B%9D%E5%85%89",
     "timestamp": "2026-07-10T00:18:07.687Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "伍佰演唱會2026深圳｜門票攻略＋購票連結＋座位表",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260709/1151946415539228672012397.jpeg/YwpYwUwV-tJMtM10CM-Te41c-mY_cdJm0oLtK9KC7Ss?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60368362/%E4%BC%8D%E4%BD%B0%E6%BC%94%E5%94%B1%E6%9C%832026%E6%B7%B1%E5%9C%B3-%E9%96%80%E7%A5%A8%E6%94%BB%E7%95%A5-%E8%B3%BC%E7%A5%A8%E9%80%A3%E7%B5%90-%E5%BA%A7%E4%BD%8D%E8%A1%A8",
-    "timestamp": "2026-07-09T23:47:57.398Z",
     "strategy": ".content-card__main"
   }
 ];
