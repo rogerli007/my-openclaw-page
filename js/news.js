@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-10T07:23:22.109Z
+// Last updated: 2026-07-10T08:45:59.048Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "反斗奇兵5｜20大彩蛋致敬多部Pixar經典 巴斯光年二維碼含意是？",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260710/1152284964746694656963852.jpeg/OtqpPBIlEuEPiu_u8Qq28SuABs6eB262rxm3R68Zt0c?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%97%9D%E6%96%87/60368109/%E5%8F%8D%E6%96%97%E5%A5%87%E5%85%B55-20%E5%A4%A7%E5%BD%A9%E8%9B%8B%E8%87%B4%E6%95%AC%E5%A4%9A%E9%83%A8pixar%E7%B6%93%E5%85%B8-%E5%B7%B4%E6%96%AF%E5%85%89%E5%B9%B4%E4%BA%8C%E7%B6%AD%E7%A2%BC%E5%90%AB%E6%84%8F%E6%98%AF",
+    "timestamp": "2026-07-10T08:45:59.048Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "伊朗領袖哈梅內伊葬禮　驚現芬蘭超市冷藏車運送靈柩　集團回應",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260708/1151646044627406848096241.jpeg/I6tr1z224X65bMOtBDsCKOp57es9iMyePTuHbj07h24?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60368030/%E4%B8%96%E7%9B%83%E5%85%A8%E5%9F%8E%E8%B5%B7%E5%8B%95-%E8%A5%BF%E7%8F%AD%E7%89%99%E6%94%BB%E5%AE%88%E5%85%BC%E5%82%99-%E9%A0%86-%E5%88%A9-%E5%85%A5%E5%9B%9B%E5%BC%B7",
     "timestamp": "2026-07-09T04:43:09.483Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "情有獨鍾？「麻將館大王」石鑑輝家族增持譽林　累斥6231萬購7伙",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20240917/912663460125347840531076.jpeg/AIShtVaMsN8PM52UPp0uFoYUEukE_elpLJPn9yyT5_c?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60368120/%E6%83%85%E6%9C%89%E7%8D%A8%E9%8D%BE-%E9%BA%BB%E5%B0%87%E9%A4%A8%E5%A4%A7%E7%8E%8B-%E7%9F%B3%E9%91%91%E8%BC%9D%E5%AE%B6%E6%97%8F%E5%A2%9E%E6%8C%81%E8%AD%BD%E6%9E%97-%E7%B4%AF%E6%96%A56231%E8%90%AC%E8%B3%BC7%E4%BC%99",
-    "timestamp": "2026-07-09T03:20:01.864Z",
     "strategy": ".content-card__main"
   }
 ];
