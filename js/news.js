@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-10T08:45:59.048Z
+// Last updated: 2026-07-10T10:03:21.585Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "歐洲熱浪｜西班牙度假勝地山火致11死　巴塞隆那達40.5度",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260710/1152302432076697600631240.jpeg/WbyRH4pkn8ZXMnNdNb7_4IuFh-uov5ipfmTgUn5k4FI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60368748/%E6%AD%90%E6%B4%B2%E7%86%B1%E6%B5%AA-%E8%A5%BF%E7%8F%AD%E7%89%99%E5%BA%A6%E5%81%87%E5%8B%9D%E5%9C%B0%E5%B1%B1%E7%81%AB%E8%87%B411%E6%AD%BB-%E5%B7%B4%E5%A1%9E%E9%9A%86%E9%82%A3%E9%81%9440-5%E5%BA%A6",
+    "timestamp": "2026-07-10T10:03:21.585Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "反斗奇兵5｜20大彩蛋致敬多部Pixar經典 巴斯光年二維碼含意是？",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260709/1151933441571295232061879.jpeg/3YBse-gB3o350xikv1Eok9o3UXtXtecw6If6xuiH-sY",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60368178/%E5%8E%BBikea%E6%94%BE%E7%8B%97-%E6%9C%AA%E7%89%BD%E7%8B%97%E7%B9%A9%E4%BB%BB%E7%94%B1%E7%8B%97%E7%8B%97%E4%BA%82%E8%B7%91-%E7%8B%97%E4%B8%BB%E6%87%B6%E7%90%86%E8%81%B7%E5%93%A1%E5%8B%B8%E9%98%BB-%E9%81%AD%E6%96%A5%E8%87%AA%E7%A7%81",
     "timestamp": "2026-07-09T10:08:33.484Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "世盃全城起動｜西班牙攻守兼備　順「利」入四強",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260708/1151646044627406848096241.jpeg/I6tr1z224X65bMOtBDsCKOp57es9iMyePTuHbj07h24?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60368030/%E4%B8%96%E7%9B%83%E5%85%A8%E5%9F%8E%E8%B5%B7%E5%8B%95-%E8%A5%BF%E7%8F%AD%E7%89%99%E6%94%BB%E5%AE%88%E5%85%BC%E5%82%99-%E9%A0%86-%E5%88%A9-%E5%85%A5%E5%9B%9B%E5%BC%B7",
-    "timestamp": "2026-07-09T04:43:09.483Z",
     "strategy": ".content-card__main"
   }
 ];
