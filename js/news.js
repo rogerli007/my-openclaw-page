@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-10T18:11:28.135Z
+// Last updated: 2026-07-10T19:38:08.130Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "石硤尾白田邨女子猝死　胞姊揭發報案惜太遲",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260711/1152445011506237440570931.jpeg/g3ko5AgED0LjnvkDgoDE0MkgRgnhDjfYkm5aMKhuWjA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60368856/%E7%9F%B3%E7%A1%A4%E5%B0%BE%E7%99%BD%E7%94%B0%E9%82%A8%E5%A5%B3%E5%AD%90%E7%8C%9D%E6%AD%BB-%E8%83%9E%E5%A7%8A%E6%8F%AD%E7%99%BC%E5%A0%B1%E6%A1%88%E6%83%9C%E5%A4%AA%E9%81%B2",
+    "timestamp": "2026-07-10T19:38:08.130Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "特朗普稱已下令應對伊朗暗殺：倘我有不測將發動前所未見的轟炸",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260710/1152095127599058944132586.jpeg/Y49FhdjfCjD7I7BmgvGkfZ_BjnJEEjzsV4rHuVeKx7k?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60368464/%E7%A6%8F%E5%BB%BA%E6%99%89%E6%B1%9F%E9%9E%8B%E5%BB%A0%E7%81%AB%E7%81%BD28%E6%AD%BB-%E7%8F%BE%E5%A0%B4213%E4%BA%BA%E7%8D%B2%E7%96%8F%E6%95%A3-%E7%95%B6%E5%B1%80%E5%8B%95%E5%93%A1%E9%80%BE500%E4%BA%BA%E6%95%91%E6%8F%B4",
     "timestamp": "2026-07-09T20:43:14.378Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "福建晉江鞋廠火災28死　現場213人獲疏散　當局動員逾500人救援",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260710/1152095127599058944132586.jpeg/Y49FhdjfCjD7I7BmgvGkfZ_BjnJEEjzsV4rHuVeKx7k?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60368464/%E7%A6%8F%E5%BB%BA%E6%99%89%E6%B1%9F%E9%9E%8B%E5%BB%A0%E7%81%AB%E7%81%BD28%E6%AD%BB-%E7%8F%BE%E5%A0%B4213%E4%BA%BA%E7%8D%B2%E7%96%8F%E6%95%A3-%E7%95%B6%E5%B1%80%E5%8B%95%E5%93%A1%E9%80%BE500%E4%BA%BA%E6%95%91%E6%8F%B4",
-    "timestamp": "2026-07-09T19:59:26.200Z",
     "strategy": ".content-card__main"
   }
 ];
