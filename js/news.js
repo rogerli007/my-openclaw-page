@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-10T21:56:36.624Z
+// Last updated: 2026-07-10T22:29:39.468Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "強颱風「巴威」致菲律賓南部暴雨　2地發生山泥傾瀉至少15死",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260711/1152493217665519616963025.jpeg/LD_2I9tfuduPcdOoDvkDQ9EO2L32T_Yq1_6c5Nf-nOQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60368865/%E5%BC%B7%E9%A2%B1%E9%A2%A8-%E5%B7%B4%E5%A8%81-%E8%87%B4%E8%8F%B2%E5%BE%8B%E8%B3%93%E5%8D%97%E9%83%A8%E6%9A%B4%E9%9B%A8-2%E5%9C%B0%E7%99%BC%E7%94%9F%E5%B1%B1%E6%B3%A5%E5%82%BE%E7%80%89%E8%87%B3%E5%B0%9115%E6%AD%BB",
+    "timestamp": "2026-07-10T22:29:39.468Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "強颱風巴威外圍下沉氣流今殺到　天文台料市區35度　新界4區37度",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260709/1151946415539228672012397.jpeg/YwpYwUwV-tJMtM10CM-Te41c-mY_cdJm0oLtK9KC7Ss?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60368362/%E4%BC%8D%E4%BD%B0%E6%BC%94%E5%94%B1%E6%9C%832026%E6%B7%B1%E5%9C%B3-%E9%96%80%E7%A5%A8%E6%94%BB%E7%95%A5-%E8%B3%BC%E7%A5%A8%E9%80%A3%E7%B5%90-%E5%BA%A7%E4%BD%8D%E8%A1%A8",
     "timestamp": "2026-07-09T23:47:57.398Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "醫冠禽獸！澳華裔兒科醫生涉性侵10女童　遭「戀童癖獵人」誘捕",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260707/1151108512646959104408632.png/VucplWAsegKsG755LTMTJwuHDA7G6w4wHjj1aR449Wk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60365679/%E6%BE%B3%E8%8F%AF%E8%A3%94%E5%85%92%E7%A7%91%E9%86%AB%E7%94%9F%E6%B6%89%E6%80%A7%E4%BE%B510%E5%A5%B3%E7%AB%A5-%E6%8B%8D%E4%B8%8B%E6%80%A7%E8%99%90%E7%89%87-%E9%81%AD-%E6%88%80%E7%AB%A5%E7%99%96%E7%8D%B5%E4%BA%BA-%E8%AA%98%E6%8D%95",
-    "timestamp": "2026-07-09T23:15:28.743Z",
     "strategy": ".content-card__main"
   }
 ];
