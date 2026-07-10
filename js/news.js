@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-10T01:02:24.311Z
+// Last updated: 2026-07-10T01:48:17.269Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "趙露思回應「愛交網紅朋友」　霸氣拒功利交友：不想為事業攀附誰",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260709/1151932082281254912397285.png/z2lSwsTCHUygXvHpzEhroXolnROw7CGZLm0_Vi5tP1Y?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60368313/%E8%B6%99%E9%9C%B2%E6%80%9D%E5%9B%9E%E6%87%89-%E6%84%9B%E4%BA%A4%E7%B6%B2%E7%B4%85%E6%9C%8B%E5%8F%8B-%E9%9C%B8%E6%B0%A3%E6%8B%92%E5%8A%9F%E5%88%A9%E4%BA%A4%E5%8F%8B-%E4%B8%8D%E6%83%B3%E7%82%BA%E4%BA%8B%E6%A5%AD%E6%94%80%E9%99%84%E8%AA%B0",
+    "timestamp": "2026-07-10T01:48:17.269Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "世盃全城起動｜夏蘭特場場入波　維京人無懼三獅兵團",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260708/1151587416721592320650423.png/h3u2gfSAneWbMwk9HItGarLOJtLaV4l_NMWLmzTFi5s?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60367465/%E9%9B%A8%E4%B8%AD%E8%B8%A2%E6%B3%A2-%E5%A4%A7%E9%A6%AC%E8%B6%B3%E7%90%83%E8%B3%BD3%E4%BA%BA%E7%96%91%E9%81%AD%E9%9B%B7%E6%93%8A%E5%80%92%E5%9C%B0-28%E6%AD%B2%E7%90%83%E5%93%A1%E6%85%98%E6%AD%BB-%E8%A3%81%E5%88%A4%E9%87%8D%E5%82%B7",
     "timestamp": "2026-07-08T23:15:22.170Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "視帝細13歲老婆低調現身支持演唱會　寬鬆長袖衫疑遮孕肚身形驚人",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260708/1151660757549584384850763.jpeg/jRZdeaqTHEP9w7z0PIlLQZXt7opSp4Ukpokvw6aJL8M?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60367902/%E6%B9%AF%E6%B4%9B%E9%9B%AF%E4%BD%8E%E8%AA%BF%E7%8F%BE%E8%BA%AB%E6%94%AF%E6%8C%81%E9%A6%AC%E5%9C%8B%E6%98%8E%E6%BC%94%E5%94%B1%E6%9C%83-%E5%AF%AC%E9%AC%86%E9%95%B7%E8%A2%96%E8%A1%AB%E7%96%91%E9%81%AE%E5%AD%95%E8%82%9A%E8%BA%AB%E5%BD%A2%E9%A9%9A%E4%BA%BA",
-    "timestamp": "2026-07-08T22:42:12.509Z",
     "strategy": ".content-card__main"
   }
 ];
