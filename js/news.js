@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-09T23:47:57.398Z
+// Last updated: 2026-07-10T00:18:07.687Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "61歲翁借「安慰辭職」強抱24歲女！摸胸摸臀反稱遭陷害　判決曝光",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260707/1151186576772960256760298.png/elXXD852HEqPygxgVpWT-b2nhhbxFsgx6AP34ugD9-I?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60366048/61%E6%AD%B2%E7%BF%81%E5%80%9F-%E5%AE%89%E6%85%B0%E8%BE%AD%E8%81%B7-%E5%BC%B7%E6%8A%B124%E6%AD%B2%E5%A5%B3-%E6%91%B8%E8%83%B8%E6%91%B8%E8%87%80%E5%8F%8D%E7%A8%B1%E9%81%AD%E9%99%B7%E5%AE%B3-%E5%88%A4%E6%B1%BA%E6%9B%9D%E5%85%89",
+    "timestamp": "2026-07-10T00:18:07.687Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "伍佰演唱會2026深圳｜門票攻略＋購票連結＋座位表",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260708/1151654901751746560498162.jpeg/05kb4VrLJgehcahnns_gJo3TqZmNE3rq_NwY-_zcGPs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60367660/%E9%84%A7%E6%A2%93%E5%B3%B0%E4%BB%8D%E6%9C%AA%E7%9F%A5%E6%96%BD%E6%98%8E%E4%B8%8B%E8%91%AC%E5%9C%B0%E9%BB%9E-%E5%95%8F%E5%8F%8A%E5%A4%A7%E7%B4%B0%E5%AD%96%E6%86%B6%E8%BF%B0-%E4%B8%80%E7%9B%B4%E4%BB%A5%E5%9A%9F%E6%84%9F%E6%83%85%E9%83%BD%E5%A5%BD",
     "timestamp": "2026-07-08T22:19:42.176Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "慈雲山男司機暈倒車內　「吹波波」超標　涉醉駕被捕",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260709/1151756708272410624120483.jpeg/CHkvO35e33jE1mBvCLRVlK5nCALd_zy2GyH1NyEh9Tc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60368067/%E6%85%88%E9%9B%B2%E5%B1%B1%E7%94%B7%E5%8F%B8%E6%A9%9F%E6%9A%88%E5%80%92%E8%BB%8A%E5%85%A7-%E5%90%B9%E6%B3%A2%E6%B3%A2-%E8%B6%85%E6%A8%99-%E6%B6%89%E9%86%89%E9%A7%95%E8%A2%AB%E6%8D%95",
-    "timestamp": "2026-07-08T21:45:23.063Z",
     "strategy": ".content-card__main"
   }
 ];
