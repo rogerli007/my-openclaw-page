@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-10T14:01:55.415Z
+// Last updated: 2026-07-10T15:05:42.455Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "71歲佛州翁釣魚變釣鱷魚！狂戳巨鱷眼死裡逃生　住院豪言無懼再釣",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260709/1151942624731467776318742.png/VHiBoZpriOs4nZo10rA2XRZhQBy7qBh4L5MWWi-TFlo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60367601/71%E6%AD%B2%E4%BD%9B%E5%B7%9E%E7%BF%81%E9%87%A3%E9%AD%9A%E8%AE%8A%E9%87%A3%E9%B1%B7%E9%AD%9A-%E7%8B%82%E6%88%B3%E5%B7%A8%E9%B1%B7%E7%9C%BC%E6%AD%BB%E8%A3%A1%E9%80%83%E7%94%9F-%E4%BD%8F%E9%99%A2%E8%B1%AA%E8%A8%80%E7%84%A1%E6%87%BC%E5%86%8D%E9%87%A3",
+    "timestamp": "2026-07-10T15:05:42.455Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "立法保障平台工作者工傷　組織倡等單納保障　有外賣員為搶單撞車",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260709/1151951691776528384697123.jpeg/nXBYJlItd_u_hEEXWE0Nm2TaxMq3lsjQt7hMxLe4TMQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60368357/%E8%AC%9D%E6%9D%B1%E9%96%94%E9%A6%96%E8%B8%A9%E7%AE%A1%E5%BC%A6%E6%A8%82%E5%9C%98%E6%BC%94%E5%87%BA%E9%80%A3%E5%94%B1%E5%BC%B5%E5%9C%8B%E6%A6%AE%E9%87%91%E6%9B%B2-%E8%87%AA%E7%88%86%E6%84%9F%E6%83%85%E7%A9%BA%E7%99%BD%E8%BF%B7%E4%B8%8A%E5%8C%B9%E5%85%8B%E7%90%83",
     "timestamp": "2026-07-09T15:52:42.582Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "AI教學｜去旅行成日漏帶嘢？AI指令打造專屬個人執行李Checklist",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260709/1151824865582387200602483.jpeg/WDxsQPRA3f9zzsR9QTD6xXeoBjzj-q7zkSK8MpEivDI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%AF%A6%E7%94%A8%E6%95%99%E5%AD%B8/60368077/ai%E6%95%99%E5%AD%B8-%E5%8E%BB%E6%97%85%E8%A1%8C%E6%88%90%E6%97%A5%E6%BC%8F%E5%B8%B6%E5%98%A2-ai%E6%8C%87%E4%BB%A4%E6%89%93%E9%80%A0%E5%B0%88%E5%B1%AC%E5%80%8B%E4%BA%BA%E5%9F%B7%E8%A1%8C%E6%9D%8Echecklist",
-    "timestamp": "2026-07-09T14:46:31.226Z",
     "strategy": ".content-card__main"
   }
 ];
