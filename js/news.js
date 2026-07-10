@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-10T05:55:00.533Z
+// Last updated: 2026-07-10T07:23:22.109Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "伊朗領袖哈梅內伊葬禮　驚現芬蘭超市冷藏車運送靈柩　集團回應",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260710/1152269256667172864970864.jpeg/5Ou3Axy2HQ-iFXV_cZuDQvWe-cFW2WAaeHWDRnh1g0Y?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60368651/%E4%BC%8A%E6%9C%97%E9%A0%98%E8%A2%96%E5%93%88%E6%A2%85%E5%85%A7%E4%BC%8A%E8%91%AC%E7%A6%AE-%E9%A9%9A%E7%8F%BE%E8%8A%AC%E8%98%AD%E8%B6%85%E5%B8%82%E5%86%B7%E8%97%8F%E8%BB%8A%E9%81%8B%E9%80%81%E9%9D%88%E6%9F%A9-%E9%9B%86%E5%9C%98%E5%9B%9E%E6%87%89",
+    "timestamp": "2026-07-10T07:23:22.109Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "平台工作者立法食物貨物外送先行　多平台上線遇工傷各台分攤賠償",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20240917/912663460125347840531076.jpeg/AIShtVaMsN8PM52UPp0uFoYUEukE_elpLJPn9yyT5_c?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60368120/%E6%83%85%E6%9C%89%E7%8D%A8%E9%8D%BE-%E9%BA%BB%E5%B0%87%E9%A4%A8%E5%A4%A7%E7%8E%8B-%E7%9F%B3%E9%91%91%E8%BC%9D%E5%AE%B6%E6%97%8F%E5%A2%9E%E6%8C%81%E8%AD%BD%E6%9E%97-%E7%B4%AF%E6%96%A56231%E8%90%AC%E8%B3%BC7%E4%BC%99",
     "timestamp": "2026-07-09T03:20:01.864Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "北約峰會｜特朗普未有乘坐新空軍一號專機離開　疑因伊朗暗殺風險",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260709/1151826618302337024983724.jpeg/KBqav0yyVccW96tcOuW63tZbvhn9b9YB4Nl_CuDZfwo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60368097/%E5%8C%97%E7%B4%84%E5%B3%B0%E6%9C%83-%E7%89%B9%E6%9C%97%E6%99%AE%E6%9C%AA%E6%9C%89%E4%B9%98%E5%9D%90%E6%96%B0%E7%A9%BA%E8%BB%8D%E4%B8%80%E8%99%9F%E5%B0%88%E6%A9%9F%E9%9B%A2%E9%96%8B-%E7%96%91%E5%9B%A0%E4%BC%8A%E6%9C%97%E6%9A%97%E6%AE%BA%E9%A2%A8%E9%9A%AA",
-    "timestamp": "2026-07-09T02:02:41.646Z",
     "strategy": ".content-card__main"
   }
 ];
