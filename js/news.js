@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-10T23:28:19.033Z
+// Last updated: 2026-07-10T23:54:28.581Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "哈里王子攜梅根和兒女拜訪英王查理斯三世　4年多來首次",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260711/1152518810322866176630524.jpeg/bpJV4AUmRYeaJ-9m1IjHmF-6f1mVEeKiIqG_yyKhv8s?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60368870/%E5%93%88%E9%87%8C%E7%8E%8B%E5%AD%90%E6%94%9C%E6%A2%85%E6%A0%B9%E5%92%8C%E5%85%92%E5%A5%B3%E6%8B%9C%E8%A8%AA%E8%8B%B1%E7%8E%8B%E6%9F%A5%E7%90%86%E6%96%AF%E4%B8%89%E4%B8%96-4%E5%B9%B4%E5%A4%9A%E4%BE%86%E9%A6%96%E6%AC%A1",
+    "timestamp": "2026-07-10T23:54:28.581Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "北部都會區規劃　大學城區+創科產業　未來樓價又將如何定位？",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260709/1151932082281254912397285.png/z2lSwsTCHUygXvHpzEhroXolnROw7CGZLm0_Vi5tP1Y?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60368313/%E8%B6%99%E9%9C%B2%E6%80%9D%E5%9B%9E%E6%87%89-%E6%84%9B%E4%BA%A4%E7%B6%B2%E7%B4%85%E6%9C%8B%E5%8F%8B-%E9%9C%B8%E6%B0%A3%E6%8B%92%E5%8A%9F%E5%88%A9%E4%BA%A4%E5%8F%8B-%E4%B8%8D%E6%83%B3%E7%82%BA%E4%BA%8B%E6%A5%AD%E6%94%80%E9%99%84%E8%AA%B0",
     "timestamp": "2026-07-10T01:48:17.269Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "世盃全城起動｜夏蘭特場場入波　維京人無懼三獅兵團",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260710/1152173319001214976063418.jpeg/Ki88QSAlCjzVPSP8Sk2k20wQaULapH1QlNNeGpTTXho?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60368031/%E4%B8%96%E7%9B%83%E5%85%A8%E5%9F%8E%E8%B5%B7%E5%8B%95-%E5%A4%8F%E8%98%AD%E7%89%B9%E5%A0%B4%E5%A0%B4%E5%85%A5%E6%B3%A2-%E7%B6%AD%E4%BA%AC%E4%BA%BA%E7%84%A1%E6%87%BC%E4%B8%89%E7%8D%85%E5%85%B5%E5%9C%98",
-    "timestamp": "2026-07-10T01:02:24.311Z",
     "strategy": ".content-card__main"
   }
 ];
