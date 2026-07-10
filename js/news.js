@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-10T20:51:13.995Z
+// Last updated: 2026-07-10T21:31:25.626Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "世界盃2026｜西班牙2：1險勝比利時　米基爾馬連奴絕殺對手",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260711/1152473921224708096197564.jpeg/_g7uXRXj3bkBqoO3f3q_MI8VXZy6SoaExeoBbcXqAW0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60368861/%E4%B8%96%E7%95%8C%E7%9B%832026-%E8%A5%BF%E7%8F%AD%E7%89%992-1%E9%9A%AA%E5%8B%9D%E6%AF%94%E5%88%A9%E6%99%82-%E7%B1%B3%E5%9F%BA%E7%88%BE%E9%A6%AC%E9%80%A3%E5%A5%B4%E7%B5%95%E6%AE%BA%E5%B0%8D%E6%89%8B",
+    "timestamp": "2026-07-10T21:31:25.626Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "青衣52歲男遭男菲傭用刀襲擊　頭傷送院治理　兇徒逃走同日落網",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250429/993898091776053248605732.jpeg/ImarMQc7m1VUwbkdyNexxFSBaLZc9GjeNLxK1jS8StY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60368466/%E6%9C%9D%E9%AE%AE%E5%85%A7%E9%96%A3%E7%B8%BD%E7%90%86%E6%A8%B8%E6%B3%B0%E6%88%90%E4%BB%8A%E7%8E%87%E5%9C%98%E8%A8%AA%E8%8F%AF3%E5%A4%A9-%E5%B0%87%E5%87%BA%E5%B8%AD%E4%B8%AD%E6%9C%9D%E6%A2%9D%E7%B4%8465%E5%91%A8%E5%B9%B4%E6%B4%BB%E5%8B%95",
     "timestamp": "2026-07-09T21:54:33.823Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "朝鮮內閣總理樸泰成今率團訪華3天　將出席中朝條約65周年活動",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250429/993898091776053248605732.jpeg/ImarMQc7m1VUwbkdyNexxFSBaLZc9GjeNLxK1jS8StY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60368466/%E6%9C%9D%E9%AE%AE%E5%85%A7%E9%96%A3%E7%B8%BD%E7%90%86%E6%A8%B8%E6%B3%B0%E6%88%90%E4%BB%8A%E7%8E%87%E5%9C%98%E8%A8%AA%E8%8F%AF3%E5%A4%A9-%E5%B0%87%E5%87%BA%E5%B8%AD%E4%B8%AD%E6%9C%9D%E6%A2%9D%E7%B4%8465%E5%91%A8%E5%B9%B4%E6%B4%BB%E5%8B%95",
-    "timestamp": "2026-07-09T21:18:52.473Z",
     "strategy": ".content-card__main"
   }
 ];
