@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-10T01:48:17.269Z
+// Last updated: 2026-07-10T05:55:00.533Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "平台工作者立法食物貨物外送先行　多平台上線遇工傷各台分攤賠償",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250917/1044998096980807680189543.jpeg/s7SJvw9bZx1d7NwUs7H7ObGH1M7gYW_Zcl4W6HJeFug?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60368594/%E5%B9%B3%E5%8F%B0%E5%B7%A5%E4%BD%9C%E8%80%85%E7%AB%8B%E6%B3%95%E9%A3%9F%E7%89%A9%E8%B2%A8%E7%89%A9%E5%A4%96%E9%80%81%E5%85%88%E8%A1%8C-%E5%A4%9A%E5%B9%B3%E5%8F%B0%E4%B8%8A%E7%B7%9A%E9%81%87%E5%B7%A5%E5%82%B7%E5%90%84%E5%8F%B0%E5%88%86%E6%94%A4%E8%B3%A0%E5%84%9F",
+    "timestamp": "2026-07-10T05:55:00.533Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "趙露思回應「愛交網紅朋友」　霸氣拒功利交友：不想為事業攀附誰",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260709/1151826618302337024983724.jpeg/KBqav0yyVccW96tcOuW63tZbvhn9b9YB4Nl_CuDZfwo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60368097/%E5%8C%97%E7%B4%84%E5%B3%B0%E6%9C%83-%E7%89%B9%E6%9C%97%E6%99%AE%E6%9C%AA%E6%9C%89%E4%B9%98%E5%9D%90%E6%96%B0%E7%A9%BA%E8%BB%8D%E4%B8%80%E8%99%9F%E5%B0%88%E6%A9%9F%E9%9B%A2%E9%96%8B-%E7%96%91%E5%9B%A0%E4%BC%8A%E6%9C%97%E6%9A%97%E6%AE%BA%E9%A2%A8%E9%9A%AA",
     "timestamp": "2026-07-09T02:02:41.646Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "雨中踢波！大馬足球賽3人疑遭雷擊倒地　28歲球員慘死、裁判重傷",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260708/1151587416721592320650423.png/h3u2gfSAneWbMwk9HItGarLOJtLaV4l_NMWLmzTFi5s?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60367465/%E9%9B%A8%E4%B8%AD%E8%B8%A2%E6%B3%A2-%E5%A4%A7%E9%A6%AC%E8%B6%B3%E7%90%83%E8%B3%BD3%E4%BA%BA%E7%96%91%E9%81%AD%E9%9B%B7%E6%93%8A%E5%80%92%E5%9C%B0-28%E6%AD%B2%E7%90%83%E5%93%A1%E6%85%98%E6%AD%BB-%E8%A3%81%E5%88%A4%E9%87%8D%E5%82%B7",
-    "timestamp": "2026-07-08T23:15:22.170Z",
     "strategy": ".content-card__main"
   }
 ];
