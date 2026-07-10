@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-10T17:30:47.202Z
+// Last updated: 2026-07-10T18:11:28.135Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "特朗普稱已下令應對伊朗暗殺：倘我有不測將發動前所未見的轟炸",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260711/1152421186064355328395127.jpeg/Rle94lY_uatpD-fwL2MOEEuzPWxo3hGqbB7IpWweyKU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60368851/%E7%89%B9%E6%9C%97%E6%99%AE%E7%A8%B1%E5%B7%B2%E4%B8%8B%E4%BB%A4%E6%87%89%E5%B0%8D%E4%BC%8A%E6%9C%97%E6%9A%97%E6%AE%BA-%E5%80%98%E6%88%91%E6%9C%89%E4%B8%8D%E6%B8%AC%E5%B0%87%E7%99%BC%E5%8B%95%E5%89%8D%E6%89%80%E6%9C%AA%E8%A6%8B%E7%9A%84%E8%BD%9F%E7%82%B8",
+    "timestamp": "2026-07-10T18:11:28.135Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "特朗普稱已下令應對伊朗暗殺：倘我有不測將發動前所未見的轟炸",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260710/1152095127599058944132586.jpeg/Y49FhdjfCjD7I7BmgvGkfZ_BjnJEEjzsV4rHuVeKx7k?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60368464/%E7%A6%8F%E5%BB%BA%E6%99%89%E6%B1%9F%E9%9E%8B%E5%BB%A0%E7%81%AB%E7%81%BD28%E6%AD%BB-%E7%8F%BE%E5%A0%B4213%E4%BA%BA%E7%8D%B2%E7%96%8F%E6%95%A3-%E7%95%B6%E5%B1%80%E5%8B%95%E5%93%A1%E9%80%BE500%E4%BA%BA%E6%95%91%E6%8F%B4",
     "timestamp": "2026-07-09T19:59:26.200Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "哈梅內伊今家鄉安葬　伊朗民眾聚集高呼反美口號：殺死特朗普報仇",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260710/1152058555092701184415068.jpeg/CQnY74s9w0VWy7EnJkuXIi3nJWNI_npgm2syP5trMj8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60368458/%E5%93%88%E6%A2%85%E5%85%A7%E4%BC%8A%E4%BB%8A%E5%AE%B6%E9%84%89%E5%AE%89%E8%91%AC-%E4%BC%8A%E6%9C%97%E6%B0%91%E7%9C%BE%E8%81%9A%E9%9B%86%E9%AB%98%E5%91%BC%E5%8F%8D%E7%BE%8E%E5%8F%A3%E8%99%9F-%E6%AE%BA%E6%AD%BB%E7%89%B9%E6%9C%97%E6%99%AE%E5%A0%B1%E4%BB%87",
-    "timestamp": "2026-07-09T17:46:05.066Z",
     "strategy": ".content-card__main"
   }
 ];
