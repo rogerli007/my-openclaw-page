@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-10T19:38:08.130Z
+// Last updated: 2026-07-10T20:51:13.995Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "青衣52歲男遭男菲傭用刀襲擊　頭傷送院治理　兇徒逃走同日落網",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260711/1152463125484670976589324.jpeg/Q_Us2jYzIxJaOhRcZYSUCixWx_snZzCJwrV1k_i1dZM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60368860/%E9%9D%92%E8%A1%A352%E6%AD%B2%E7%94%B7%E9%81%AD%E7%94%B7%E8%8F%B2%E5%82%AD%E7%94%A8%E5%88%80%E8%A5%B2%E6%93%8A-%E9%A0%AD%E5%82%B7%E9%80%81%E9%99%A2%E6%B2%BB%E7%90%86-%E5%85%87%E5%BE%92%E9%80%83%E8%B5%B0%E5%90%8C%E6%97%A5%E8%90%BD%E7%B6%B2",
+    "timestamp": "2026-07-10T20:51:13.995Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "石硤尾白田邨女子猝死　胞姊揭發報案惜太遲",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250429/993898091776053248605732.jpeg/ImarMQc7m1VUwbkdyNexxFSBaLZc9GjeNLxK1jS8StY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60368466/%E6%9C%9D%E9%AE%AE%E5%85%A7%E9%96%A3%E7%B8%BD%E7%90%86%E6%A8%B8%E6%B3%B0%E6%88%90%E4%BB%8A%E7%8E%87%E5%9C%98%E8%A8%AA%E8%8F%AF3%E5%A4%A9-%E5%B0%87%E5%87%BA%E5%B8%AD%E4%B8%AD%E6%9C%9D%E6%A2%9D%E7%B4%8465%E5%91%A8%E5%B9%B4%E6%B4%BB%E5%8B%95",
     "timestamp": "2026-07-09T21:18:52.473Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "福建晉江鞋廠火災28死　現場213人獲疏散　當局動員逾500人救援",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260710/1152095127599058944132586.jpeg/Y49FhdjfCjD7I7BmgvGkfZ_BjnJEEjzsV4rHuVeKx7k?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60368464/%E7%A6%8F%E5%BB%BA%E6%99%89%E6%B1%9F%E9%9E%8B%E5%BB%A0%E7%81%AB%E7%81%BD28%E6%AD%BB-%E7%8F%BE%E5%A0%B4213%E4%BA%BA%E7%8D%B2%E7%96%8F%E6%95%A3-%E7%95%B6%E5%B1%80%E5%8B%95%E5%93%A1%E9%80%BE500%E4%BA%BA%E6%95%91%E6%8F%B4",
-    "timestamp": "2026-07-09T20:43:14.378Z",
     "strategy": ".content-card__main"
   }
 ];
