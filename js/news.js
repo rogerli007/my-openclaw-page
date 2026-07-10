@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-10T00:18:07.687Z
+// Last updated: 2026-07-10T01:02:24.311Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "世盃全城起動｜夏蘭特場場入波　維京人無懼三獅兵團",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260710/1152173319001214976063418.jpeg/Ki88QSAlCjzVPSP8Sk2k20wQaULapH1QlNNeGpTTXho?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60368031/%E4%B8%96%E7%9B%83%E5%85%A8%E5%9F%8E%E8%B5%B7%E5%8B%95-%E5%A4%8F%E8%98%AD%E7%89%B9%E5%A0%B4%E5%A0%B4%E5%85%A5%E6%B3%A2-%E7%B6%AD%E4%BA%AC%E4%BA%BA%E7%84%A1%E6%87%BC%E4%B8%89%E7%8D%85%E5%85%B5%E5%9C%98",
+    "timestamp": "2026-07-10T01:02:24.311Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "61歲翁借「安慰辭職」強抱24歲女！摸胸摸臀反稱遭陷害　判決曝光",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260708/1151660757549584384850763.jpeg/jRZdeaqTHEP9w7z0PIlLQZXt7opSp4Ukpokvw6aJL8M?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60367902/%E6%B9%AF%E6%B4%9B%E9%9B%AF%E4%BD%8E%E8%AA%BF%E7%8F%BE%E8%BA%AB%E6%94%AF%E6%8C%81%E9%A6%AC%E5%9C%8B%E6%98%8E%E6%BC%94%E5%94%B1%E6%9C%83-%E5%AF%AC%E9%AC%86%E9%95%B7%E8%A2%96%E8%A1%AB%E7%96%91%E9%81%AE%E5%AD%95%E8%82%9A%E8%BA%AB%E5%BD%A2%E9%A9%9A%E4%BA%BA",
     "timestamp": "2026-07-08T22:42:12.509Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "鄧梓峰仍未知施明下葬地點　問及大細孖憶述：一直以嚟感情都好",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260708/1151654901751746560498162.jpeg/05kb4VrLJgehcahnns_gJo3TqZmNE3rq_NwY-_zcGPs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60367660/%E9%84%A7%E6%A2%93%E5%B3%B0%E4%BB%8D%E6%9C%AA%E7%9F%A5%E6%96%BD%E6%98%8E%E4%B8%8B%E8%91%AC%E5%9C%B0%E9%BB%9E-%E5%95%8F%E5%8F%8A%E5%A4%A7%E7%B4%B0%E5%AD%96%E6%86%B6%E8%BF%B0-%E4%B8%80%E7%9B%B4%E4%BB%A5%E5%9A%9F%E6%84%9F%E6%83%85%E9%83%BD%E5%A5%BD",
-    "timestamp": "2026-07-08T22:19:42.176Z",
     "strategy": ".content-card__main"
   }
 ];
