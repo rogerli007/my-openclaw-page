@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-10T22:54:28.097Z
+// Last updated: 2026-07-10T23:28:19.033Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "北部都會區規劃　大學城區+創科產業　未來樓價又將如何定位？",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260711/1152414880297390080178956.jpeg/vekifZSBB5wBLjoXxhlqCljeH2zsPSq9V_Ws0Ff1rNA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60368849/%E5%8C%97%E9%83%A8%E9%83%BD%E6%9C%83%E5%8D%80%E8%A6%8F%E5%8A%83-%E5%A4%A7%E5%AD%B8%E5%9F%8E%E5%8D%80-%E5%89%B5%E7%A7%91%E7%94%A2%E6%A5%AD-%E6%9C%AA%E4%BE%86%E6%A8%93%E5%83%B9%E5%8F%88%E5%B0%87%E5%A6%82%E4%BD%95%E5%AE%9A%E4%BD%8D",
+    "timestamp": "2026-07-10T23:28:19.033Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "柴灣樂軒臺男子街頭昏迷　送院搶救　留醫逾2日不治",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260710/1152173319001214976063418.jpeg/Ki88QSAlCjzVPSP8Sk2k20wQaULapH1QlNNeGpTTXho?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60368031/%E4%B8%96%E7%9B%83%E5%85%A8%E5%9F%8E%E8%B5%B7%E5%8B%95-%E5%A4%8F%E8%98%AD%E7%89%B9%E5%A0%B4%E5%A0%B4%E5%85%A5%E6%B3%A2-%E7%B6%AD%E4%BA%AC%E4%BA%BA%E7%84%A1%E6%87%BC%E4%B8%89%E7%8D%85%E5%85%B5%E5%9C%98",
     "timestamp": "2026-07-10T01:02:24.311Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "61歲翁借「安慰辭職」強抱24歲女！摸胸摸臀反稱遭陷害　判決曝光",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260707/1151186576772960256760298.png/elXXD852HEqPygxgVpWT-b2nhhbxFsgx6AP34ugD9-I?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60366048/61%E6%AD%B2%E7%BF%81%E5%80%9F-%E5%AE%89%E6%85%B0%E8%BE%AD%E8%81%B7-%E5%BC%B7%E6%8A%B124%E6%AD%B2%E5%A5%B3-%E6%91%B8%E8%83%B8%E6%91%B8%E8%87%80%E5%8F%8D%E7%A8%B1%E9%81%AD%E9%99%B7%E5%AE%B3-%E5%88%A4%E6%B1%BA%E6%9B%9D%E5%85%89",
-    "timestamp": "2026-07-10T00:18:07.687Z",
     "strategy": ".content-card__main"
   }
 ];
