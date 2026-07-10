@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-10T13:05:47.360Z
+// Last updated: 2026-07-10T14:01:55.415Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "立法保障平台工作者工傷　組織倡等單納保障　有外賣員為搶單撞車",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260710/1152363908565045248825961.jpeg/dGS1KKQxzVT2W8AIoGQfDqivsH13AH8dvtsXeb7bF3k?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60368826/%E7%AB%8B%E6%B3%95%E4%BF%9D%E9%9A%9C%E5%B9%B3%E5%8F%B0%E5%B7%A5%E4%BD%9C%E8%80%85%E5%B7%A5%E5%82%B7-%E7%B5%84%E7%B9%94%E5%80%A1%E7%AD%89%E5%96%AE%E7%B4%8D%E4%BF%9D%E9%9A%9C-%E6%9C%89%E5%A4%96%E8%B3%A3%E5%93%A1%E7%82%BA%E6%90%B6%E5%96%AE%E6%92%9E%E8%BB%8A",
+    "timestamp": "2026-07-10T14:01:55.415Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "鄭秀文答謝會｜劉德華任嘉賓　「肥佬」驚喜現身合唱《倒轉地球》",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260709/1151824865582387200602483.jpeg/WDxsQPRA3f9zzsR9QTD6xXeoBjzj-q7zkSK8MpEivDI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%AF%A6%E7%94%A8%E6%95%99%E5%AD%B8/60368077/ai%E6%95%99%E5%AD%B8-%E5%8E%BB%E6%97%85%E8%A1%8C%E6%88%90%E6%97%A5%E6%BC%8F%E5%B8%B6%E5%98%A2-ai%E6%8C%87%E4%BB%A4%E6%89%93%E9%80%A0%E5%B0%88%E5%B1%AC%E5%80%8B%E4%BA%BA%E5%9F%B7%E8%A1%8C%E6%9D%8Echecklist",
     "timestamp": "2026-07-09T14:46:31.226Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "毛月亮香港首演 專訪雲門舞集藝術總監鄭宗龍 讓舞蹈與科技對話",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260709/1151964561717334016960725.jpeg/3LIb7mGwa9EpBCEnI-ZB_JZGUgq48Rc48whjE_MIYxM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%97%9D%E6%96%87/60368278/%E6%AF%9B%E6%9C%88%E4%BA%AE%E9%A6%99%E6%B8%AF%E9%A6%96%E6%BC%94-%E5%B0%88%E8%A8%AA%E9%9B%B2%E9%96%80%E8%88%9E%E9%9B%86%E8%97%9D%E8%A1%93%E7%B8%BD%E7%9B%A3%E9%84%AD%E5%AE%97%E9%BE%8D-%E8%AE%93%E8%88%9E%E8%B9%88%E8%88%87%E7%A7%91%E6%8A%80%E5%B0%8D%E8%A9%B1",
-    "timestamp": "2026-07-09T12:29:50.779Z",
     "strategy": ".content-card__main"
   }
 ];
