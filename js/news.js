@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-10T10:03:21.585Z
+// Last updated: 2026-07-10T12:16:16.708Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "麥當勞時任顧問涉收勞力士　官指未證有助承辦商得工程　3人罪脫",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260710/1152342912059576320649872.jpeg/x1ILrKrFc25Ep184oD5kZYZSvSgOmXlSRmzedmNs3nY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60368810/%E9%BA%A5%E7%95%B6%E5%8B%9E%E6%99%82%E4%BB%BB%E9%A1%A7%E5%95%8F%E6%B6%89%E6%94%B6%E5%8B%9E%E5%8A%9B%E5%A3%AB-%E5%AE%98%E6%8C%87%E6%9C%AA%E8%AD%89%E6%9C%89%E5%8A%A9%E6%89%BF%E8%BE%A6%E5%95%86%E5%BE%97%E5%B7%A5%E7%A8%8B-3%E4%BA%BA%E7%BD%AA%E8%84%AB",
+    "timestamp": "2026-07-10T12:16:16.708Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "歐洲熱浪｜西班牙度假勝地山火致11死　巴塞隆那達40.5度",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260310/1108024288213995520730481.jpeg/TrQLatDmJtR6pn-4vYWqqRuNbkiIaYqqIFytPiBcrT4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60368381/%E7%BE%8E%E8%BB%8D%E8%AA%A4%E7%82%B8%E4%BC%8A%E6%9C%97%E5%B0%8F%E5%AD%B8175%E6%AD%BB-%E7%BE%8E%E5%AA%92-%E5%AE%98%E5%93%A1%E7%84%A1%E8%A6%96%E9%81%8E%E6%99%82%E6%83%85%E5%A0%B1%E8%AD%A6%E5%91%8A%E9%87%80%E6%82%B2%E5%8A%87",
     "timestamp": "2026-07-09T11:24:48.556Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "去IKEA放狗？未牽狗繩任由狗狗亂跑　狗主懶理職員勸阻　遭斥自私",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260709/1151933441571295232061879.jpeg/3YBse-gB3o350xikv1Eok9o3UXtXtecw6If6xuiH-sY",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60368178/%E5%8E%BBikea%E6%94%BE%E7%8B%97-%E6%9C%AA%E7%89%BD%E7%8B%97%E7%B9%A9%E4%BB%BB%E7%94%B1%E7%8B%97%E7%8B%97%E4%BA%82%E8%B7%91-%E7%8B%97%E4%B8%BB%E6%87%B6%E7%90%86%E8%81%B7%E5%93%A1%E5%8B%B8%E9%98%BB-%E9%81%AD%E6%96%A5%E8%87%AA%E7%A7%81",
-    "timestamp": "2026-07-09T10:08:33.484Z",
     "strategy": ".content-card__main"
   }
 ];
