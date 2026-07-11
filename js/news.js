@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-11T11:54:34.988Z
+// Last updated: 2026-07-11T12:54:54.120Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "姚焯菲開個唱被追問有否邀MC做嘉賓  當場暗笑：佢忙過我",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260711/1152709571890909184879014.jpeg/LQDFOj22wux2SusAOuuieqHLMeIh-m62Y1cZl1lXGZc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60369003/%E5%A7%9A%E7%84%AF%E8%8F%B2%E9%96%8B%E5%80%8B%E5%94%B1%E8%A2%AB%E8%BF%BD%E5%95%8F%E6%9C%89%E5%90%A6%E9%82%80mc%E5%81%9A%E5%98%89%E8%B3%93-%E7%95%B6%E5%A0%B4%E6%9A%97%E7%AC%91-%E4%BD%A2%E5%BF%99%E9%81%8E%E6%88%91",
+    "timestamp": "2026-07-11T12:54:54.120Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "張雪機車最遲明年進軍台灣開店　張雪：開幕時一定要親自到場",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260711/1152421186064355328395127.jpeg/Rle94lY_uatpD-fwL2MOEEuzPWxo3hGqbB7IpWweyKU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60368851/%E7%89%B9%E6%9C%97%E6%99%AE%E7%A8%B1%E5%B7%B2%E4%B8%8B%E4%BB%A4%E6%87%89%E5%B0%8D%E4%BC%8A%E6%9C%97%E6%9A%97%E6%AE%BA-%E5%80%98%E6%88%91%E6%9C%89%E4%B8%8D%E6%B8%AC%E5%B0%87%E7%99%BC%E5%8B%95%E5%89%8D%E6%89%80%E6%9C%AA%E8%A6%8B%E7%9A%84%E8%BD%9F%E7%82%B8",
     "timestamp": "2026-07-10T18:11:28.135Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普稱已下令應對伊朗暗殺：倘我有不測將發動前所未見的轟炸",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260711/1152421186064355328395127.jpeg/Rle94lY_uatpD-fwL2MOEEuzPWxo3hGqbB7IpWweyKU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60368851/%E7%89%B9%E6%9C%97%E6%99%AE%E7%A8%B1%E5%B7%B2%E4%B8%8B%E4%BB%A4%E6%87%89%E5%B0%8D%E4%BC%8A%E6%9C%97%E6%9A%97%E6%AE%BA-%E5%80%98%E6%88%91%E6%9C%89%E4%B8%8D%E6%B8%AC%E5%B0%87%E7%99%BC%E5%8B%95%E5%89%8D%E6%89%80%E6%9C%AA%E8%A6%8B%E7%9A%84%E8%BD%9F%E7%82%B8",
-    "timestamp": "2026-07-10T17:30:47.202Z",
     "strategy": ".content-card__main"
   }
 ];
