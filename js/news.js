@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-11T14:43:34.128Z
+// Last updated: 2026-07-11T15:12:56.110Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "喻為歐洲最毒教科書！墨大購藏《女巫之鎚》　致5萬人慘死獵巫史",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260709/1151959222439645184106793.png/QKSTuBdhMzRgvY1NeknHsmCZNcIUsDUyxpyIAsaciAI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60367027/%E5%96%BB%E7%82%BA%E6%AD%90%E6%B4%B2%E6%9C%80%E6%AF%92%E6%95%99%E7%A7%91%E6%9B%B8-%E5%A2%A8%E5%A4%A7%E8%B3%BC%E8%97%8F-%E5%A5%B3%E5%B7%AB%E4%B9%8B%E9%8E%9A-%E8%87%B45%E8%90%AC%E4%BA%BA%E6%85%98%E6%AD%BB%E7%8D%B5%E5%B7%AB%E5%8F%B2",
+    "timestamp": "2026-07-11T15:12:56.110Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "牙膏揀錯隨時愈刷愈黃！選購時需仔細看成分　不同人要用不同產品",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260711/1152463125484670976589324.jpeg/Q_Us2jYzIxJaOhRcZYSUCixWx_snZzCJwrV1k_i1dZM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60368860/%E9%9D%92%E8%A1%A352%E6%AD%B2%E7%94%B7%E9%81%AD%E7%94%B7%E8%8F%B2%E5%82%AD%E7%94%A8%E5%88%80%E8%A5%B2%E6%93%8A-%E9%A0%AD%E5%82%B7%E9%80%81%E9%99%A2%E6%B2%BB%E7%90%86-%E5%85%87%E5%BE%92%E9%80%83%E8%B5%B0%E5%90%8C%E6%97%A5%E8%90%BD%E7%B6%B2",
     "timestamp": "2026-07-10T20:51:13.995Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "石硤尾白田邨女子猝死　胞姊揭發報案惜太遲",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260711/1152445011506237440570931.jpeg/g3ko5AgED0LjnvkDgoDE0MkgRgnhDjfYkm5aMKhuWjA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60368856/%E7%9F%B3%E7%A1%A4%E5%B0%BE%E7%99%BD%E7%94%B0%E9%82%A8%E5%A5%B3%E5%AD%90%E7%8C%9D%E6%AD%BB-%E8%83%9E%E5%A7%8A%E6%8F%AD%E7%99%BC%E5%A0%B1%E6%A1%88%E6%83%9C%E5%A4%AA%E9%81%B2",
-    "timestamp": "2026-07-10T19:38:08.130Z",
     "strategy": ".content-card__main"
   }
 ];
