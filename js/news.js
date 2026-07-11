@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-11T21:08:49.388Z
+// Last updated: 2026-07-11T21:38:58.620Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "伊朗阿曼外長會晤談霍爾木茲　美媒：阿曼倡把航道管理權一分為二",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260708/1151383399596822528831925.jpeg/aEzq4eZqb1jIgtsyynsDpeRZyVBFW1p4OPH8UDjx_FA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60369036/%E4%BC%8A%E6%9C%97%E9%98%BF%E6%9B%BC%E5%A4%96%E9%95%B7%E6%9C%83%E6%99%A4%E8%AB%87%E9%9C%8D%E7%88%BE%E6%9C%A8%E8%8C%B2-%E7%BE%8E%E5%AA%92-%E9%98%BF%E6%9B%BC%E5%80%A1%E6%8A%8A%E8%88%AA%E9%81%93%E7%AE%A1%E7%90%86%E6%AC%8A%E4%B8%80%E5%88%86%E7%82%BA%E4%BA%8C",
+    "timestamp": "2026-07-11T21:38:58.620Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "世界盃2026｜英格蘭對挪威爭4強　史東斯擔正守夏蘭特",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260711/1152569833586429952371964.jpeg/8MVgluFOdqQiNgPTRvf48qN2MHoJhhDaCvZIDAr2SAw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60368889/%E4%B8%96%E7%95%8C%E7%9B%832026-%E9%AB%98%E5%9C%96%E7%88%BE%E6%96%AF%E5%82%B7%E9%80%80%E8%90%BD%E6%B7%9A%E8%B3%BD%E5%BE%8C%E5%8A%9B%E6%92%90%E6%8B%89%E6%96%87%E6%96%AF-%E6%AD%A3%E9%9D%A2%E5%9B%9E%E6%87%89%E6%9C%AA%E4%BE%86%E5%8E%BB%E7%95%99",
     "timestamp": "2026-07-11T03:45:37.931Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "海港城逾500人通宵排隊等候韓男團成員　有粉絲疑失禁要噴霧驅臭",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260711/1152552480270192640214935.jpeg/iWmSZrP7SaIQPYQIkAe8jHCgimU69pzJH-PS1h_j0tY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60368872/%E6%B5%B7%E6%B8%AF%E5%9F%8E%E9%80%BE500%E4%BA%BA%E9%80%9A%E5%AE%B5%E6%8E%92%E9%9A%8A%E7%AD%89%E5%80%99%E9%9F%93%E7%94%B7%E5%9C%98%E6%88%90%E5%93%A1-%E6%9C%89%E7%B2%89%E7%B5%B2%E7%96%91%E5%A4%B1%E7%A6%81%E8%A6%81%E5%99%B4%E9%9C%A7%E9%A9%85%E8%87%AD",
-    "timestamp": "2026-07-11T02:23:54.571Z",
     "strategy": ".content-card__main"
   }
 ];
