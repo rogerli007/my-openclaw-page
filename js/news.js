@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-11T18:39:04.449Z
+// Last updated: 2026-07-11T19:14:18.229Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "閘停埋站九巴！客貨車司機下車狂罵拍車窗惹乘客不滿　網民斥危駕",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260710/1152105117005123584985034.png/VlgNB23jsToLceTK3Taqgc2sSulQTqsJqwhZJKsIWSQ",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60368216/%E9%96%98%E5%81%9C%E5%9F%8B%E7%AB%99%E4%B9%9D%E5%B7%B4-%E5%AE%A2%E8%B2%A8%E8%BB%8A%E5%8F%B8%E6%A9%9F%E4%B8%8B%E8%BB%8A%E7%8B%82%E7%BD%B5%E6%8B%8D%E8%BB%8A%E7%AA%97%E6%83%B9%E4%B9%98%E5%AE%A2%E4%B8%8D%E6%BB%BF-%E7%B6%B2%E6%B0%91%E6%96%A5%E5%8D%B1%E9%A7%95",
+    "timestamp": "2026-07-11T19:14:18.229Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "《紐時》披露新空軍一號安全疑慮　涉事記者遭特朗普政府傳喚作證",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260711/1152518810322866176630524.jpeg/bpJV4AUmRYeaJ-9m1IjHmF-6f1mVEeKiIqG_yyKhv8s?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60368870/%E5%93%88%E9%87%8C%E7%8E%8B%E5%AD%90%E6%94%9C%E6%A2%85%E6%A0%B9%E5%92%8C%E5%85%92%E5%A5%B3%E6%8B%9C%E8%A8%AA%E8%8B%B1%E7%8E%8B%E6%9F%A5%E7%90%86%E6%96%AF%E4%B8%89%E4%B8%96-4%E5%B9%B4%E5%A4%9A%E4%BE%86%E9%A6%96%E6%AC%A1",
     "timestamp": "2026-07-10T23:54:28.581Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "北部都會區規劃　大學城區+創科產業　未來樓價又將如何定位？",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260711/1152414880297390080178956.jpeg/vekifZSBB5wBLjoXxhlqCljeH2zsPSq9V_Ws0Ff1rNA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60368849/%E5%8C%97%E9%83%A8%E9%83%BD%E6%9C%83%E5%8D%80%E8%A6%8F%E5%8A%83-%E5%A4%A7%E5%AD%B8%E5%9F%8E%E5%8D%80-%E5%89%B5%E7%A7%91%E7%94%A2%E6%A5%AD-%E6%9C%AA%E4%BE%86%E6%A8%93%E5%83%B9%E5%8F%88%E5%B0%87%E5%A6%82%E4%BD%95%E5%AE%9A%E4%BD%8D",
-    "timestamp": "2026-07-10T23:28:19.033Z",
     "strategy": ".content-card__main"
   }
 ];
