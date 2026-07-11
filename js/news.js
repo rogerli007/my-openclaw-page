@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-11T09:52:30.078Z
+// Last updated: 2026-07-11T11:01:39.370Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "DSE放榜｜天文台料低壓槽下周初帶驟雨雷暴　7.14部份區雨勢較大",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260503/1127658400344444928659804.jpeg/rjiQIH5qQdtmZF31GEGrwxkQc1TLfT0c7EGgVvlBoFY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60368982/dse%E6%94%BE%E6%A6%9C-%E5%A4%A9%E6%96%87%E5%8F%B0%E6%96%99%E4%BD%8E%E5%A3%93%E6%A7%BD%E4%B8%8B%E5%91%A8%E5%88%9D%E5%B8%B6%E9%A9%9F%E9%9B%A8%E9%9B%B7%E6%9A%B4-7-14%E9%83%A8%E4%BB%BD%E5%8D%80%E9%9B%A8%E5%8B%A2%E8%BC%83%E5%A4%A7",
+    "timestamp": "2026-07-11T11:01:39.370Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "穎喬Ziva新單曲通宵跑六區取景拍MV　僅15秒迅速爆喊演技獲激讚",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260709/1151942624731467776318742.png/VHiBoZpriOs4nZo10rA2XRZhQBy7qBh4L5MWWi-TFlo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60367601/71%E6%AD%B2%E4%BD%9B%E5%B7%9E%E7%BF%81%E9%87%A3%E9%AD%9A%E8%AE%8A%E9%87%A3%E9%B1%B7%E9%AD%9A-%E7%8B%82%E6%88%B3%E5%B7%A8%E9%B1%B7%E7%9C%BC%E6%AD%BB%E8%A3%A1%E9%80%83%E7%94%9F-%E4%BD%8F%E9%99%A2%E8%B1%AA%E8%A8%80%E7%84%A1%E6%87%BC%E5%86%8D%E9%87%A3",
     "timestamp": "2026-07-10T15:05:42.455Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "立法保障平台工作者工傷　組織倡等單納保障　有外賣員為搶單撞車",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260710/1152363908565045248825961.jpeg/dGS1KKQxzVT2W8AIoGQfDqivsH13AH8dvtsXeb7bF3k?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60368826/%E7%AB%8B%E6%B3%95%E4%BF%9D%E9%9A%9C%E5%B9%B3%E5%8F%B0%E5%B7%A5%E4%BD%9C%E8%80%85%E5%B7%A5%E5%82%B7-%E7%B5%84%E7%B9%94%E5%80%A1%E7%AD%89%E5%96%AE%E7%B4%8D%E4%BF%9D%E9%9A%9C-%E6%9C%89%E5%A4%96%E8%B3%A3%E5%93%A1%E7%82%BA%E6%90%B6%E5%96%AE%E6%92%9E%E8%BB%8A",
-    "timestamp": "2026-07-10T14:01:55.415Z",
     "strategy": ".content-card__main"
   }
 ];
