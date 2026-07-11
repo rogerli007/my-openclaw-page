@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-11T09:09:34.033Z
+// Last updated: 2026-07-11T09:52:30.078Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "穎喬Ziva新單曲通宵跑六區取景拍MV　僅15秒迅速爆喊演技獲激讚",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260710/1152314183090442240063812.jpeg/sZcUWX0C10QyUH503tJi2O-4S34dTffUzza48c82uPE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60368764/%E7%A9%8E%E5%96%ACziva%E6%96%B0%E5%96%AE%E6%9B%B2%E9%80%9A%E5%AE%B5%E8%B7%91%E5%85%AD%E5%8D%80%E5%8F%96%E6%99%AF%E6%8B%8Dmv-%E5%83%8515%E7%A7%92%E8%BF%85%E9%80%9F%E7%88%86%E5%96%8A%E6%BC%94%E6%8A%80%E7%8D%B2%E6%BF%80%E8%AE%9A",
+    "timestamp": "2026-07-11T09:52:30.078Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "旅遊注意︱偷拍不止酒店　不同場景針孔攝影機常見位置+應對方法",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260710/1152363908565045248825961.jpeg/dGS1KKQxzVT2W8AIoGQfDqivsH13AH8dvtsXeb7bF3k?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60368826/%E7%AB%8B%E6%B3%95%E4%BF%9D%E9%9A%9C%E5%B9%B3%E5%8F%B0%E5%B7%A5%E4%BD%9C%E8%80%85%E5%B7%A5%E5%82%B7-%E7%B5%84%E7%B9%94%E5%80%A1%E7%AD%89%E5%96%AE%E7%B4%8D%E4%BF%9D%E9%9A%9C-%E6%9C%89%E5%A4%96%E8%B3%A3%E5%93%A1%E7%82%BA%E6%90%B6%E5%96%AE%E6%92%9E%E8%BB%8A",
     "timestamp": "2026-07-10T14:01:55.415Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "鄭秀文答謝會｜劉德華任嘉賓　「肥佬」驚喜現身合唱《倒轉地球》",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260710/1152355480740302848438975.jpeg/aKSP2eXNx3BlMYyLhgF8szkYsrjvZtmltuNvmYPjb5k?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60368819/%E9%84%AD%E7%A7%80%E6%96%87%E7%AD%94%E8%AC%9D%E6%9C%83-%E5%8A%89%E5%BE%B7%E8%8F%AF%E4%BB%BB%E5%98%89%E8%B3%93-%E8%82%A5%E4%BD%AC-%E9%A9%9A%E5%96%9C%E7%8F%BE%E8%BA%AB%E5%90%88%E5%94%B1-%E5%80%92%E8%BD%89%E5%9C%B0%E7%90%83",
-    "timestamp": "2026-07-10T13:05:47.360Z",
     "strategy": ".content-card__main"
   }
 ];
