@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-11T08:28:12.349Z
+// Last updated: 2026-07-11T09:09:34.033Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "旅遊注意︱偷拍不止酒店　不同場景針孔攝影機常見位置+應對方法",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260710/1152309023278632960812630.png/IhyTNJQByt8ltGcBevfAaFHY-IYaxtPvX2z1019s9dM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%97%85%E9%81%8A/60366352/%E6%97%85%E9%81%8A%E6%B3%A8%E6%84%8F-%E5%81%B7%E6%8B%8D%E4%B8%8D%E6%AD%A2%E9%85%92%E5%BA%97-%E4%B8%8D%E5%90%8C%E5%A0%B4%E6%99%AF%E9%87%9D%E5%AD%94%E6%94%9D%E5%BD%B1%E6%A9%9F%E5%B8%B8%E8%A6%8B%E4%BD%8D%E7%BD%AE-%E6%87%89%E5%B0%8D%E6%96%B9%E6%B3%95",
+    "timestamp": "2026-07-11T09:09:34.033Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "世界盃｜挪威教會發換頭像戰帖　英格蘭教會：我們Logo很適合你",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260710/1152355480740302848438975.jpeg/aKSP2eXNx3BlMYyLhgF8szkYsrjvZtmltuNvmYPjb5k?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60368819/%E9%84%AD%E7%A7%80%E6%96%87%E7%AD%94%E8%AC%9D%E6%9C%83-%E5%8A%89%E5%BE%B7%E8%8F%AF%E4%BB%BB%E5%98%89%E8%B3%93-%E8%82%A5%E4%BD%AC-%E9%A9%9A%E5%96%9C%E7%8F%BE%E8%BA%AB%E5%90%88%E5%94%B1-%E5%80%92%E8%BD%89%E5%9C%B0%E7%90%83",
     "timestamp": "2026-07-10T13:05:47.360Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "麥當勞時任顧問涉收勞力士　官指未證有助承辦商得工程　3人罪脫",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260710/1152342912059576320649872.jpeg/x1ILrKrFc25Ep184oD5kZYZSvSgOmXlSRmzedmNs3nY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60368810/%E9%BA%A5%E7%95%B6%E5%8B%9E%E6%99%82%E4%BB%BB%E9%A1%A7%E5%95%8F%E6%B6%89%E6%94%B6%E5%8B%9E%E5%8A%9B%E5%A3%AB-%E5%AE%98%E6%8C%87%E6%9C%AA%E8%AD%89%E6%9C%89%E5%8A%A9%E6%89%BF%E8%BE%A6%E5%95%86%E5%BE%97%E5%B7%A5%E7%A8%8B-3%E4%BA%BA%E7%BD%AA%E8%84%AB",
-    "timestamp": "2026-07-10T12:16:16.708Z",
     "strategy": ".content-card__main"
   }
 ];
