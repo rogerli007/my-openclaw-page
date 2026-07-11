@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-11T19:14:18.229Z
+// Last updated: 2026-07-11T19:51:02.796Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "閘停埋站九巴！客貨車司機下車狂罵拍車窗惹乘客不滿　網民斥危駕",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260710/1152105117005123584985034.png/VlgNB23jsToLceTK3Taqgc2sSulQTqsJqwhZJKsIWSQ",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60368216/%E9%96%98%E5%81%9C%E5%9F%8B%E7%AB%99%E4%B9%9D%E5%B7%B4-%E5%AE%A2%E8%B2%A8%E8%BB%8A%E5%8F%B8%E6%A9%9F%E4%B8%8B%E8%BB%8A%E7%8B%82%E7%BD%B5%E6%8B%8D%E8%BB%8A%E7%AA%97%E6%83%B9%E4%B9%98%E5%AE%A2%E4%B8%8D%E6%BB%BF-%E7%B6%B2%E6%B0%91%E6%96%A5%E5%8D%B1%E9%A7%95",
+    "timestamp": "2026-07-11T19:51:02.796Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "閘停埋站九巴！客貨車司機下車狂罵拍車窗惹乘客不滿　網民斥危駕",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20240513/866623837003845632732049.jpeg/lY89aYwnu4yvVb4gXEzaP8PWOSllOx_Ey2EcocthHKE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60368876/%E5%A4%AA%E8%B2%B4%E5%8F%AF%E4%BB%A5%E7%A7%9F-sk%E6%B5%B7%E5%8A%9B%E5%A3%AB%E8%80%83%E6%85%AE-%E5%85%A7%E5%AD%98%E5%8D%B3%E6%9C%8D%E5%8B%99-%E6%A8%A1%E5%BC%8F-%E6%88%96%E5%85%81%E5%AE%A2%E6%88%B6%E7%A7%9F%E8%B3%83%E6%99%B6%E7%89%87",
     "timestamp": "2026-07-11T01:21:31.865Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "哈里王子攜梅根和兒女拜訪英王查理斯三世　4年多來首次",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260711/1152518810322866176630524.jpeg/bpJV4AUmRYeaJ-9m1IjHmF-6f1mVEeKiIqG_yyKhv8s?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60368870/%E5%93%88%E9%87%8C%E7%8E%8B%E5%AD%90%E6%94%9C%E6%A2%85%E6%A0%B9%E5%92%8C%E5%85%92%E5%A5%B3%E6%8B%9C%E8%A8%AA%E8%8B%B1%E7%8E%8B%E6%9F%A5%E7%90%86%E6%96%AF%E4%B8%89%E4%B8%96-4%E5%B9%B4%E5%A4%9A%E4%BE%86%E9%A6%96%E6%AC%A1",
-    "timestamp": "2026-07-10T23:54:28.581Z",
     "strategy": ".content-card__main"
   }
 ];
