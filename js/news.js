@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-11T01:21:31.865Z
+// Last updated: 2026-07-11T02:23:54.571Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "海港城逾500人通宵排隊等候韓男團成員　有粉絲疑失禁要噴霧驅臭",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260711/1152552480270192640214935.jpeg/iWmSZrP7SaIQPYQIkAe8jHCgimU69pzJH-PS1h_j0tY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60368872/%E6%B5%B7%E6%B8%AF%E5%9F%8E%E9%80%BE500%E4%BA%BA%E9%80%9A%E5%AE%B5%E6%8E%92%E9%9A%8A%E7%AD%89%E5%80%99%E9%9F%93%E7%94%B7%E5%9C%98%E6%88%90%E5%93%A1-%E6%9C%89%E7%B2%89%E7%B5%B2%E7%96%91%E5%A4%B1%E7%A6%81%E8%A6%81%E5%99%B4%E9%9C%A7%E9%A9%85%E8%87%AD",
+    "timestamp": "2026-07-11T02:23:54.571Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "太貴可以租！SK海力士考慮「內存即服務」模式　或允客戶租賃晶片",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260710/1152269256667172864970864.jpeg/5Ou3Axy2HQ-iFXV_cZuDQvWe-cFW2WAaeHWDRnh1g0Y?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60368651/%E4%BC%8A%E6%9C%97%E9%A0%98%E8%A2%96%E5%93%88%E6%A2%85%E5%85%A7%E4%BC%8A%E8%91%AC%E7%A6%AE-%E9%A9%9A%E7%8F%BE%E8%8A%AC%E8%98%AD%E8%B6%85%E5%B8%82%E5%86%B7%E8%97%8F%E8%BB%8A%E9%81%8B%E9%80%81%E9%9D%88%E6%9F%A9-%E9%9B%86%E5%9C%98%E5%9B%9E%E6%87%89",
     "timestamp": "2026-07-10T07:23:22.109Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "平台工作者立法食物貨物外送先行　多平台上線遇工傷各台分攤賠償",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250917/1044998096980807680189543.jpeg/s7SJvw9bZx1d7NwUs7H7ObGH1M7gYW_Zcl4W6HJeFug?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60368594/%E5%B9%B3%E5%8F%B0%E5%B7%A5%E4%BD%9C%E8%80%85%E7%AB%8B%E6%B3%95%E9%A3%9F%E7%89%A9%E8%B2%A8%E7%89%A9%E5%A4%96%E9%80%81%E5%85%88%E8%A1%8C-%E5%A4%9A%E5%B9%B3%E5%8F%B0%E4%B8%8A%E7%B7%9A%E9%81%87%E5%B7%A5%E5%82%B7%E5%90%84%E5%8F%B0%E5%88%86%E6%94%A4%E8%B3%A0%E5%84%9F",
-    "timestamp": "2026-07-10T05:55:00.533Z",
     "strategy": ".content-card__main"
   }
 ];
