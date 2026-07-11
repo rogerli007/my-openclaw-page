@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-11T11:31:18.207Z
+// Last updated: 2026-07-11T11:54:34.988Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "張雪機車最遲明年進軍台灣開店　張雪：開幕時一定要親自到場",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260711/1152692811460513792045726.jpeg/17OFEGHYjTj5FWULMchtXDtPpbgJV6WaDvZa3A72Wtw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60368992/%E5%BC%B5%E9%9B%AA%E6%A9%9F%E8%BB%8A%E6%9C%80%E9%81%B2%E6%98%8E%E5%B9%B4%E9%80%B2%E8%BB%8D%E5%8F%B0%E7%81%A3%E9%96%8B%E5%BA%97-%E5%BC%B5%E9%9B%AA-%E9%96%8B%E5%B9%95%E6%99%82%E4%B8%80%E5%AE%9A%E8%A6%81%E8%A6%AA%E8%87%AA%E5%88%B0%E5%A0%B4",
+    "timestamp": "2026-07-11T11:54:34.988Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "愛回家｜羅毓儀正式煞科　淚別陪伴6年角色「路小小」：忍唔住喊",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260711/1152421186064355328395127.jpeg/Rle94lY_uatpD-fwL2MOEEuzPWxo3hGqbB7IpWweyKU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60368851/%E7%89%B9%E6%9C%97%E6%99%AE%E7%A8%B1%E5%B7%B2%E4%B8%8B%E4%BB%A4%E6%87%89%E5%B0%8D%E4%BC%8A%E6%9C%97%E6%9A%97%E6%AE%BA-%E5%80%98%E6%88%91%E6%9C%89%E4%B8%8D%E6%B8%AC%E5%B0%87%E7%99%BC%E5%8B%95%E5%89%8D%E6%89%80%E6%9C%AA%E8%A6%8B%E7%9A%84%E8%BD%9F%E7%82%B8",
     "timestamp": "2026-07-10T17:30:47.202Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "退伍軍人病｜89歲翁養和醫院內感染　防護中心指令停用病房淋浴間",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260601/1138176664979640320905387.jpeg/LPt0_8b6Ihfc19qFfQs6oyDZE102L0kZwmzeK8Js3is?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60368839/%E9%80%80%E4%BC%8D%E8%BB%8D%E4%BA%BA%E7%97%85-89%E6%AD%B2%E7%BF%81%E9%A4%8A%E5%92%8C%E9%86%AB%E9%99%A2%E5%85%A7%E6%84%9F%E6%9F%93-%E9%98%B2%E8%AD%B7%E4%B8%AD%E5%BF%83%E6%8C%87%E4%BB%A4%E5%81%9C%E7%94%A8%E7%97%85%E6%88%BF%E6%B7%8B%E6%B5%B4%E9%96%93",
-    "timestamp": "2026-07-10T15:59:51.361Z",
     "strategy": ".content-card__main"
   }
 ];
