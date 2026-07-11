@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-11T16:38:41.450Z
+// Last updated: 2026-07-11T17:41:24.832Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "颱風「巴威」兩度登陸浙江　中心附近最高風力達13級",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260712/1152773630233415680982763.jpeg/zCo5ZYzQDboHEPpumajkJrq4LPoMFSzOS2XdqEtl3ag?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60369027/%E9%A2%B1%E9%A2%A8-%E5%B7%B4%E5%A8%81-%E5%85%A9%E5%BA%A6%E7%99%BB%E9%99%B8%E6%B5%99%E6%B1%9F-%E4%B8%AD%E5%BF%83%E9%99%84%E8%BF%91%E6%9C%80%E9%AB%98%E9%A2%A8%E5%8A%9B%E9%81%9413%E7%B4%9A",
+    "timestamp": "2026-07-11T17:41:24.832Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "牛頭角旅巴遇死車煞停　遭後方紅Van收掣不及猛撞　8人受傷",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260708/1151446166165000192570918.jpeg/w2C4OpBwhkE2d_6xIUyDm75nH2d_UEVC0GtQwOprUMA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60368868/%E6%9F%B4%E7%81%A3%E6%A8%82%E8%BB%92%E8%87%BA%E7%94%B7%E5%AD%90%E8%A1%97%E9%A0%AD%E6%98%8F%E8%BF%B7-%E9%80%81%E9%99%A2%E6%90%B6%E6%95%91-%E7%95%99%E9%86%AB%E9%80%BE2%E6%97%A5%E4%B8%8D%E6%B2%BB",
     "timestamp": "2026-07-10T22:54:28.097Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "強颱風「巴威」致菲律賓南部暴雨　2地發生山泥傾瀉至少15死",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260711/1152493217665519616963025.jpeg/LD_2I9tfuduPcdOoDvkDQ9EO2L32T_Yq1_6c5Nf-nOQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60368865/%E5%BC%B7%E9%A2%B1%E9%A2%A8-%E5%B7%B4%E5%A8%81-%E8%87%B4%E8%8F%B2%E5%BE%8B%E8%B3%93%E5%8D%97%E9%83%A8%E6%9A%B4%E9%9B%A8-2%E5%9C%B0%E7%99%BC%E7%94%9F%E5%B1%B1%E6%B3%A5%E5%82%BE%E7%80%89%E8%87%B3%E5%B0%9115%E6%AD%BB",
-    "timestamp": "2026-07-10T22:29:39.468Z",
     "strategy": ".content-card__main"
   }
 ];
