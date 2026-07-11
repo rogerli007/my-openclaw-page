@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-11T16:11:10.661Z
+// Last updated: 2026-07-11T16:38:41.450Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "牛頭角旅巴遇死車煞停　遭後方紅Van收掣不及猛撞　8人受傷",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260712/1152769185789513728342950.jpeg/t4NB7h5eIAut8VnEZq3surIllKGCE447EYxrZyuMa2c?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60369024/%E7%89%9B%E9%A0%AD%E8%A7%92%E6%97%85%E5%B7%B4%E9%81%87%E6%AD%BB%E8%BB%8A%E7%85%9E%E5%81%9C-%E9%81%AD%E5%BE%8C%E6%96%B9%E7%B4%85van%E6%94%B6%E6%8E%A3%E4%B8%8D%E5%8F%8A%E7%8C%9B%E6%92%9E-8%E4%BA%BA%E5%8F%97%E5%82%B7",
+    "timestamp": "2026-07-11T16:38:41.450Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "功夫女足｜製作花絮曝光 星爺與舞蹈天團Avantgardey驚喜共舞",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260711/1152493217665519616963025.jpeg/LD_2I9tfuduPcdOoDvkDQ9EO2L32T_Yq1_6c5Nf-nOQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60368865/%E5%BC%B7%E9%A2%B1%E9%A2%A8-%E5%B7%B4%E5%A8%81-%E8%87%B4%E8%8F%B2%E5%BE%8B%E8%B3%93%E5%8D%97%E9%83%A8%E6%9A%B4%E9%9B%A8-2%E5%9C%B0%E7%99%BC%E7%94%9F%E5%B1%B1%E6%B3%A5%E5%82%BE%E7%80%89%E8%87%B3%E5%B0%9115%E6%AD%BB",
     "timestamp": "2026-07-10T22:29:39.468Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "強颱風巴威外圍下沉氣流今殺到　天文台料市區35度　新界4區37度",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260711/1152479812992897024278913.jpeg/QNoOZ69RT0QiuXK56jc8z3H4WHBwQ7Feh_56yIf-esg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60368862/%E5%BC%B7%E9%A2%B1%E9%A2%A8%E5%B7%B4%E5%A8%81%E5%A4%96%E5%9C%8D%E4%B8%8B%E6%B2%89%E6%B0%A3%E6%B5%81%E4%BB%8A%E6%AE%BA%E5%88%B0-%E5%A4%A9%E6%96%87%E5%8F%B0%E6%96%99%E5%B8%82%E5%8D%8035%E5%BA%A6-%E6%96%B0%E7%95%8C4%E5%8D%8037%E5%BA%A6",
-    "timestamp": "2026-07-10T21:56:36.624Z",
     "strategy": ".content-card__main"
   }
 ];
