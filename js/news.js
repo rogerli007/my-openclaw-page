@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-11T17:41:24.832Z
+// Last updated: 2026-07-11T18:39:04.449Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "《紐時》披露新空軍一號安全疑慮　涉事記者遭特朗普政府傳喚作證",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260620/1144904949293912064381024.jpeg/nnzWmpn0cLPeQt01yNxNnO22MSdM_VjRrJICg6ySAoM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60369029/%E7%B4%90%E6%99%82-%E6%8A%AB%E9%9C%B2%E6%96%B0%E7%A9%BA%E8%BB%8D%E4%B8%80%E8%99%9F%E5%AE%89%E5%85%A8%E7%96%91%E6%85%AE-%E6%B6%89%E4%BA%8B%E8%A8%98%E8%80%85%E9%81%AD%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%E5%82%B3%E5%96%9A%E4%BD%9C%E8%AD%89",
+    "timestamp": "2026-07-11T18:39:04.449Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "颱風「巴威」兩度登陸浙江　中心附近最高風力達13級",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260711/1152414880297390080178956.jpeg/vekifZSBB5wBLjoXxhlqCljeH2zsPSq9V_Ws0Ff1rNA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60368849/%E5%8C%97%E9%83%A8%E9%83%BD%E6%9C%83%E5%8D%80%E8%A6%8F%E5%8A%83-%E5%A4%A7%E5%AD%B8%E5%9F%8E%E5%8D%80-%E5%89%B5%E7%A7%91%E7%94%A2%E6%A5%AD-%E6%9C%AA%E4%BE%86%E6%A8%93%E5%83%B9%E5%8F%88%E5%B0%87%E5%A6%82%E4%BD%95%E5%AE%9A%E4%BD%8D",
     "timestamp": "2026-07-10T23:28:19.033Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "柴灣樂軒臺男子街頭昏迷　送院搶救　留醫逾2日不治",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260708/1151446166165000192570918.jpeg/w2C4OpBwhkE2d_6xIUyDm75nH2d_UEVC0GtQwOprUMA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60368868/%E6%9F%B4%E7%81%A3%E6%A8%82%E8%BB%92%E8%87%BA%E7%94%B7%E5%AD%90%E8%A1%97%E9%A0%AD%E6%98%8F%E8%BF%B7-%E9%80%81%E9%99%A2%E6%90%B6%E6%95%91-%E7%95%99%E9%86%AB%E9%80%BE2%E6%97%A5%E4%B8%8D%E6%B2%BB",
-    "timestamp": "2026-07-10T22:54:28.097Z",
     "strategy": ".content-card__main"
   }
 ];
