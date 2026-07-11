@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-10T23:54:28.581Z
+// Last updated: 2026-07-11T01:21:31.865Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "太貴可以租！SK海力士考慮「內存即服務」模式　或允客戶租賃晶片",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20240513/866623837003845632732049.jpeg/lY89aYwnu4yvVb4gXEzaP8PWOSllOx_Ey2EcocthHKE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60368876/%E5%A4%AA%E8%B2%B4%E5%8F%AF%E4%BB%A5%E7%A7%9F-sk%E6%B5%B7%E5%8A%9B%E5%A3%AB%E8%80%83%E6%85%AE-%E5%85%A7%E5%AD%98%E5%8D%B3%E6%9C%8D%E5%8B%99-%E6%A8%A1%E5%BC%8F-%E6%88%96%E5%85%81%E5%AE%A2%E6%88%B6%E7%A7%9F%E8%B3%83%E6%99%B6%E7%89%87",
+    "timestamp": "2026-07-11T01:21:31.865Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "哈里王子攜梅根和兒女拜訪英王查理斯三世　4年多來首次",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250917/1044998096980807680189543.jpeg/s7SJvw9bZx1d7NwUs7H7ObGH1M7gYW_Zcl4W6HJeFug?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60368594/%E5%B9%B3%E5%8F%B0%E5%B7%A5%E4%BD%9C%E8%80%85%E7%AB%8B%E6%B3%95%E9%A3%9F%E7%89%A9%E8%B2%A8%E7%89%A9%E5%A4%96%E9%80%81%E5%85%88%E8%A1%8C-%E5%A4%9A%E5%B9%B3%E5%8F%B0%E4%B8%8A%E7%B7%9A%E9%81%87%E5%B7%A5%E5%82%B7%E5%90%84%E5%8F%B0%E5%88%86%E6%94%A4%E8%B3%A0%E5%84%9F",
     "timestamp": "2026-07-10T05:55:00.533Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "趙露思回應「愛交網紅朋友」　霸氣拒功利交友：不想為事業攀附誰",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260709/1151932082281254912397285.png/z2lSwsTCHUygXvHpzEhroXolnROw7CGZLm0_Vi5tP1Y?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60368313/%E8%B6%99%E9%9C%B2%E6%80%9D%E5%9B%9E%E6%87%89-%E6%84%9B%E4%BA%A4%E7%B6%B2%E7%B4%85%E6%9C%8B%E5%8F%8B-%E9%9C%B8%E6%B0%A3%E6%8B%92%E5%8A%9F%E5%88%A9%E4%BA%A4%E5%8F%8B-%E4%B8%8D%E6%83%B3%E7%82%BA%E4%BA%8B%E6%A5%AD%E6%94%80%E9%99%84%E8%AA%B0",
-    "timestamp": "2026-07-10T01:48:17.269Z",
     "strategy": ".content-card__main"
   }
 ];
