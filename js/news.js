@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-11T15:12:56.110Z
+// Last updated: 2026-07-11T15:40:16.479Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "游嘉欣飛美國睇世界盃　性感Bra Top大曬纖腰：入波興奮到手震",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260711/1152706927042498560549071.jpeg/AEkcmI2nm1uCDFWxIQtfUTSHoUkCnHAqPNDQQTzQ0EE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60369001/%E6%B8%B8%E5%98%89%E6%AC%A3%E9%A3%9B%E7%BE%8E%E5%9C%8B%E7%9D%87%E4%B8%96%E7%95%8C%E7%9B%83-%E6%80%A7%E6%84%9Fbra-top%E5%A4%A7%E6%9B%AC%E7%BA%96%E8%85%B0-%E5%85%A5%E6%B3%A2%E8%88%88%E5%A5%AE%E5%88%B0%E6%89%8B%E9%9C%87",
+    "timestamp": "2026-07-11T15:40:16.479Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "喻為歐洲最毒教科書！墨大購藏《女巫之鎚》　致5萬人慘死獵巫史",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260711/1152473921224708096197564.jpeg/_g7uXRXj3bkBqoO3f3q_MI8VXZy6SoaExeoBbcXqAW0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60368861/%E4%B8%96%E7%95%8C%E7%9B%832026-%E8%A5%BF%E7%8F%AD%E7%89%992-1%E9%9A%AA%E5%8B%9D%E6%AF%94%E5%88%A9%E6%99%82-%E7%B1%B3%E5%9F%BA%E7%88%BE%E9%A6%AC%E9%80%A3%E5%A5%B4%E7%B5%95%E6%AE%BA%E5%B0%8D%E6%89%8B",
     "timestamp": "2026-07-10T21:31:25.626Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "青衣52歲男遭男菲傭用刀襲擊　頭傷送院治理　兇徒逃走同日落網",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260711/1152463125484670976589324.jpeg/Q_Us2jYzIxJaOhRcZYSUCixWx_snZzCJwrV1k_i1dZM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60368860/%E9%9D%92%E8%A1%A352%E6%AD%B2%E7%94%B7%E9%81%AD%E7%94%B7%E8%8F%B2%E5%82%AD%E7%94%A8%E5%88%80%E8%A5%B2%E6%93%8A-%E9%A0%AD%E5%82%B7%E9%80%81%E9%99%A2%E6%B2%BB%E7%90%86-%E5%85%87%E5%BE%92%E9%80%83%E8%B5%B0%E5%90%8C%E6%97%A5%E8%90%BD%E7%B6%B2",
-    "timestamp": "2026-07-10T20:51:13.995Z",
     "strategy": ".content-card__main"
   }
 ];
