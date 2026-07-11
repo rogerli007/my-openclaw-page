@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-11T06:56:59.672Z
+// Last updated: 2026-07-11T08:28:12.349Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "世界盃｜挪威教會發換頭像戰帖　英格蘭教會：我們Logo很適合你",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260711/1152645750069399552065281.jpeg/pu-ds96mBijuhDG3Iu1lZrkqAoiu_pGjlCzcw5Qs3MM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%92%B0%E7%90%83%E8%B6%A3%E8%81%9E/60368945/%E4%B8%96%E7%95%8C%E7%9B%83-%E6%8C%AA%E5%A8%81%E6%95%99%E6%9C%83%E7%99%BC%E6%8F%9B%E9%A0%AD%E5%83%8F%E6%88%B0%E5%B8%96-%E8%8B%B1%E6%A0%BC%E8%98%AD%E6%95%99%E6%9C%83-%E6%88%91%E5%80%91logo%E5%BE%88%E9%81%A9%E5%90%88%E4%BD%A0",
+    "timestamp": "2026-07-11T08:28:12.349Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "揭陽4少年棍打火燒虐狗　男星杜江譴責籲立動保法三度被抖音刪文",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260710/1152342912059576320649872.jpeg/x1ILrKrFc25Ep184oD5kZYZSvSgOmXlSRmzedmNs3nY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60368810/%E9%BA%A5%E7%95%B6%E5%8B%9E%E6%99%82%E4%BB%BB%E9%A1%A7%E5%95%8F%E6%B6%89%E6%94%B6%E5%8B%9E%E5%8A%9B%E5%A3%AB-%E5%AE%98%E6%8C%87%E6%9C%AA%E8%AD%89%E6%9C%89%E5%8A%A9%E6%89%BF%E8%BE%A6%E5%95%86%E5%BE%97%E5%B7%A5%E7%A8%8B-3%E4%BA%BA%E7%BD%AA%E8%84%AB",
     "timestamp": "2026-07-10T12:16:16.708Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "歐洲熱浪｜西班牙度假勝地山火致11死　巴塞隆那達40.5度",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260710/1152302432076697600631240.jpeg/WbyRH4pkn8ZXMnNdNb7_4IuFh-uov5ipfmTgUn5k4FI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60368748/%E6%AD%90%E6%B4%B2%E7%86%B1%E6%B5%AA-%E8%A5%BF%E7%8F%AD%E7%89%99%E5%BA%A6%E5%81%87%E5%8B%9D%E5%9C%B0%E5%B1%B1%E7%81%AB%E8%87%B411%E6%AD%BB-%E5%B7%B4%E5%A1%9E%E9%9A%86%E9%82%A3%E9%81%9440-5%E5%BA%A6",
-    "timestamp": "2026-07-10T10:03:21.585Z",
     "strategy": ".content-card__main"
   }
 ];
