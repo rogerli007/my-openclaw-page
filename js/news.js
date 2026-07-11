@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-11T12:54:54.120Z
+// Last updated: 2026-07-11T14:43:34.128Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "牙膏揀錯隨時愈刷愈黃！選購時需仔細看成分　不同人要用不同產品",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260710/1152295484136624128068921.jpeg/f700QvXO-lt9XKTFk2tNusqDBLfTFAeKjk1d-Y5NXfk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60279397/%E7%89%99%E8%86%8F%E6%8F%80%E9%8C%AF%E9%9A%A8%E6%99%82%E6%84%88%E5%88%B7%E6%84%88%E9%BB%83-%E9%81%B8%E8%B3%BC%E6%99%82%E9%9C%80%E4%BB%94%E7%B4%B0%E7%9C%8B%E6%88%90%E5%88%86-%E4%B8%8D%E5%90%8C%E4%BA%BA%E8%A6%81%E7%94%A8%E4%B8%8D%E5%90%8C%E7%94%A2%E5%93%81",
+    "timestamp": "2026-07-11T14:43:34.128Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "姚焯菲開個唱被追問有否邀MC做嘉賓  當場暗笑：佢忙過我",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260711/1152445011506237440570931.jpeg/g3ko5AgED0LjnvkDgoDE0MkgRgnhDjfYkm5aMKhuWjA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60368856/%E7%9F%B3%E7%A1%A4%E5%B0%BE%E7%99%BD%E7%94%B0%E9%82%A8%E5%A5%B3%E5%AD%90%E7%8C%9D%E6%AD%BB-%E8%83%9E%E5%A7%8A%E6%8F%AD%E7%99%BC%E5%A0%B1%E6%A1%88%E6%83%9C%E5%A4%AA%E9%81%B2",
     "timestamp": "2026-07-10T19:38:08.130Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普稱已下令應對伊朗暗殺：倘我有不測將發動前所未見的轟炸",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260711/1152421186064355328395127.jpeg/Rle94lY_uatpD-fwL2MOEEuzPWxo3hGqbB7IpWweyKU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60368851/%E7%89%B9%E6%9C%97%E6%99%AE%E7%A8%B1%E5%B7%B2%E4%B8%8B%E4%BB%A4%E6%87%89%E5%B0%8D%E4%BC%8A%E6%9C%97%E6%9A%97%E6%AE%BA-%E5%80%98%E6%88%91%E6%9C%89%E4%B8%8D%E6%B8%AC%E5%B0%87%E7%99%BC%E5%8B%95%E5%89%8D%E6%89%80%E6%9C%AA%E8%A6%8B%E7%9A%84%E8%BD%9F%E7%82%B8",
-    "timestamp": "2026-07-10T18:11:28.135Z",
     "strategy": ".content-card__main"
   }
 ];
