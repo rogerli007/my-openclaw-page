@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-11T03:45:37.931Z
+// Last updated: 2026-07-11T06:56:59.672Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "揭陽4少年棍打火燒虐狗　男星杜江譴責籲立動保法三度被抖音刪文",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260711/1152620222251798528016342.png/D5Y6laAfAAhNrLOrH2Zbw3r2_Q9oNXewTP-ZuUz_mbk",
+    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60368928/%E6%8F%AD%E9%99%BD4%E5%B0%91%E5%B9%B4%E6%A3%8D%E6%89%93%E7%81%AB%E7%87%92%E8%99%90%E7%8B%97-%E7%94%B7%E6%98%9F%E6%9D%9C%E6%B1%9F%E8%AD%B4%E8%B2%AC%E7%B1%B2%E7%AB%8B%E5%8B%95%E4%BF%9D%E6%B3%95%E4%B8%89%E5%BA%A6%E8%A2%AB%E6%8A%96%E9%9F%B3%E5%88%AA%E6%96%87",
+    "timestamp": "2026-07-11T06:56:59.672Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "世界盃2026｜高圖爾斯傷退落淚賽後力撐拉文斯　正面回應未來去留",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260710/1152302432076697600631240.jpeg/WbyRH4pkn8ZXMnNdNb7_4IuFh-uov5ipfmTgUn5k4FI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60368748/%E6%AD%90%E6%B4%B2%E7%86%B1%E6%B5%AA-%E8%A5%BF%E7%8F%AD%E7%89%99%E5%BA%A6%E5%81%87%E5%8B%9D%E5%9C%B0%E5%B1%B1%E7%81%AB%E8%87%B411%E6%AD%BB-%E5%B7%B4%E5%A1%9E%E9%9A%86%E9%82%A3%E9%81%9440-5%E5%BA%A6",
     "timestamp": "2026-07-10T10:03:21.585Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "反斗奇兵5｜20大彩蛋致敬多部Pixar經典 巴斯光年二維碼含意是？",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260710/1152284964746694656963852.jpeg/OtqpPBIlEuEPiu_u8Qq28SuABs6eB262rxm3R68Zt0c?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%97%9D%E6%96%87/60368109/%E5%8F%8D%E6%96%97%E5%A5%87%E5%85%B55-20%E5%A4%A7%E5%BD%A9%E8%9B%8B%E8%87%B4%E6%95%AC%E5%A4%9A%E9%83%A8pixar%E7%B6%93%E5%85%B8-%E5%B7%B4%E6%96%AF%E5%85%89%E5%B9%B4%E4%BA%8C%E7%B6%AD%E7%A2%BC%E5%90%AB%E6%84%8F%E6%98%AF",
-    "timestamp": "2026-07-10T08:45:59.048Z",
     "strategy": ".content-card__main"
   }
 ];
