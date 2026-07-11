@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-11T22:09:31.115Z
+// Last updated: 2026-07-11T23:10:37.819Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "DSE放榜｜太古可口可樂組跨代龍舟隊　員工寄語考生隊員總有出路",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260711/1152729140407832576416720.jpeg/t1Wdvfycb6bzT49lhbBEcWwA1d-yVoskWWn8p1lp_Kc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60369012/dse%E6%94%BE%E6%A6%9C-%E5%A4%AA%E5%8F%A4%E5%8F%AF%E5%8F%A3%E5%8F%AF%E6%A8%82%E7%B5%84%E8%B7%A8%E4%BB%A3%E9%BE%8D%E8%88%9F%E9%9A%8A-%E5%93%A1%E5%B7%A5%E5%AF%84%E8%AA%9E%E8%80%83%E7%94%9F%E9%9A%8A%E5%93%A1%E7%B8%BD%E6%9C%89%E5%87%BA%E8%B7%AF",
+    "timestamp": "2026-07-11T23:10:37.819Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "伊朗阿曼外長會晤談霍爾木茲　美媒：阿曼倡把航道管理權一分為二",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260711/1152645750069399552065281.jpeg/pu-ds96mBijuhDG3Iu1lZrkqAoiu_pGjlCzcw5Qs3MM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%92%B0%E7%90%83%E8%B6%A3%E8%81%9E/60368945/%E4%B8%96%E7%95%8C%E7%9B%83-%E6%8C%AA%E5%A8%81%E6%95%99%E6%9C%83%E7%99%BC%E6%8F%9B%E9%A0%AD%E5%83%8F%E6%88%B0%E5%B8%96-%E8%8B%B1%E6%A0%BC%E8%98%AD%E6%95%99%E6%9C%83-%E6%88%91%E5%80%91logo%E5%BE%88%E9%81%A9%E5%90%88%E4%BD%A0",
     "timestamp": "2026-07-11T08:28:12.349Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "揭陽4少年棍打火燒虐狗　男星杜江譴責籲立動保法三度被抖音刪文",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260711/1152620222251798528016342.png/D5Y6laAfAAhNrLOrH2Zbw3r2_Q9oNXewTP-ZuUz_mbk",
-    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60368928/%E6%8F%AD%E9%99%BD4%E5%B0%91%E5%B9%B4%E6%A3%8D%E6%89%93%E7%81%AB%E7%87%92%E8%99%90%E7%8B%97-%E7%94%B7%E6%98%9F%E6%9D%9C%E6%B1%9F%E8%AD%B4%E8%B2%AC%E7%B1%B2%E7%AB%8B%E5%8B%95%E4%BF%9D%E6%B3%95%E4%B8%89%E5%BA%A6%E8%A2%AB%E6%8A%96%E9%9F%B3%E5%88%AA%E6%96%87",
-    "timestamp": "2026-07-11T06:56:59.672Z",
     "strategy": ".content-card__main"
   }
 ];
