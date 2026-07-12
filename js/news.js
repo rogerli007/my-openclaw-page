@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-12T19:14:35.055Z
+// Last updated: 2026-07-12T19:44:49.417Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "靜脈曲張拖10年不看醫生！老翁腿部藏40厘米巨型血栓　脫落恐致命",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260709/1151958575401144320745102.png/yg_IKvmIbFCzYhB9rlkN3LiFPYAoYkdR2LYs7Ni2LOw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60365861/%E9%9D%9C%E8%84%88%E6%9B%B2%E5%BC%B5%E6%8B%9610%E5%B9%B4%E4%B8%8D%E7%9C%8B%E9%86%AB%E7%94%9F-%E8%80%81%E7%BF%81%E8%85%BF%E9%83%A8%E8%97%8F40%E5%8E%98%E7%B1%B3%E5%B7%A8%E5%9E%8B%E8%A1%80%E6%A0%93-%E8%84%AB%E8%90%BD%E6%81%90%E8%87%B4%E5%91%BD",
+    "timestamp": "2026-07-12T19:44:49.417Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "世盃全城起動｜狂牛無懼高盧雄雞　「細」抗到底",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260712/1152966701994741760034289.jpeg/Gz9FzVaRjzZeYxGNqgwrezgDHHbRWMMkgVNVQIFTVUA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60369097/%E7%8B%97%E9%9A%BB%E5%85%A5%E9%A3%9F%E8%82%86-%E7%8B%97%E4%B8%BB%E9%81%95%E8%A6%8F%E6%83%B9%E5%8F%8D%E6%84%9F-%E4%BD%95%E6%95%AC%E5%BA%B7%E7%B1%B2%E8%87%AA%E5%BE%8B-%E7%8E%A9%E7%88%9B%E5%80%8B%E6%94%BF%E7%AD%96%E6%88%96%E7%84%A1%E5%A5%88%E5%81%9C",
     "timestamp": "2026-07-12T05:30:59.196Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美國大峽谷泛舟遊客染「神秘怪病」　全身痛如骨裂　官方緊急調查",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260712/1152934782192062464375986.jpeg/abyEDvl48C_abaGoXLwSsatW6erEd7r1gkCiZYJAomU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60369062/%E7%BE%8E%E5%9C%8B%E5%A4%A7%E5%B3%BD%E8%B0%B7%E6%B3%9B%E8%88%9F%E9%81%8A%E5%AE%A2%E6%9F%93-%E7%A5%9E%E7%A7%98%E6%80%AA%E7%97%85-%E5%85%A8%E8%BA%AB%E7%97%9B%E5%A6%82%E9%AA%A8%E8%A3%82-%E5%AE%98%E6%96%B9%E7%B7%8A%E6%80%A5%E8%AA%BF%E6%9F%A5",
-    "timestamp": "2026-07-12T04:07:01.897Z",
     "strategy": ".content-card__main"
   }
 ];
