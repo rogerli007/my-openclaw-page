@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-12T02:46:29.559Z
+// Last updated: 2026-07-12T04:07:01.897Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美國大峽谷泛舟遊客染「神秘怪病」　全身痛如骨裂　官方緊急調查",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260712/1152934782192062464375986.jpeg/abyEDvl48C_abaGoXLwSsatW6erEd7r1gkCiZYJAomU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60369062/%E7%BE%8E%E5%9C%8B%E5%A4%A7%E5%B3%BD%E8%B0%B7%E6%B3%9B%E8%88%9F%E9%81%8A%E5%AE%A2%E6%9F%93-%E7%A5%9E%E7%A7%98%E6%80%AA%E7%97%85-%E5%85%A8%E8%BA%AB%E7%97%9B%E5%A6%82%E9%AA%A8%E8%A3%82-%E5%AE%98%E6%96%B9%E7%B7%8A%E6%80%A5%E8%AA%BF%E6%9F%A5",
+    "timestamp": "2026-07-12T04:07:01.897Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "日本熊出沒｜北海道熊隻闖民居　住戶放煙花驅趕",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260711/1152692811460513792045726.jpeg/17OFEGHYjTj5FWULMchtXDtPpbgJV6WaDvZa3A72Wtw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60368992/%E5%BC%B5%E9%9B%AA%E6%A9%9F%E8%BB%8A%E6%9C%80%E9%81%B2%E6%98%8E%E5%B9%B4%E9%80%B2%E8%BB%8D%E5%8F%B0%E7%81%A3%E9%96%8B%E5%BA%97-%E5%BC%B5%E9%9B%AA-%E9%96%8B%E5%B9%95%E6%99%82%E4%B8%80%E5%AE%9A%E8%A6%81%E8%A6%AA%E8%87%AA%E5%88%B0%E5%A0%B4",
     "timestamp": "2026-07-11T11:54:34.988Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "愛回家｜羅毓儀正式煞科　淚別陪伴6年角色「路小小」：忍唔住喊",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260711/1152677500627718144508742.jpeg/INLd7ogYrcnUUv_fEDQXIqJlAyJvdrHM8r2T2fK9k9k?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60368981/%E6%84%9B%E5%9B%9E%E5%AE%B6-%E7%BE%85%E6%AF%93%E5%84%80%E6%AD%A3%E5%BC%8F%E7%85%9E%E7%A7%91-%E6%B7%9A%E5%88%A5%E9%99%AA%E4%BC%B46%E5%B9%B4%E8%A7%92%E8%89%B2-%E8%B7%AF%E5%B0%8F%E5%B0%8F-%E5%BF%8D%E5%94%94%E4%BD%8F%E5%96%8A",
-    "timestamp": "2026-07-11T11:31:18.207Z",
     "strategy": ".content-card__main"
   }
 ];
