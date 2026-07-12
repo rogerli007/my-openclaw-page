@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-12T13:56:22.492Z
+// Last updated: 2026-07-12T14:38:31.419Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "鄭秀文答謝會｜尾場觀眾收貨讚啟德場館音響佳　簡約舞台專注聽歌",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260712/1153104325774807040180632.jpeg/5NQAFFiKDL--vWqJFaLG_yDcOpD_fMvPgxOkfYMTpH0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60369200/%E9%84%AD%E7%A7%80%E6%96%87%E7%AD%94%E8%AC%9D%E6%9C%83-%E5%B0%BE%E5%A0%B4%E8%A7%80%E7%9C%BE%E6%94%B6%E8%B2%A8%E8%AE%9A%E5%95%9F%E5%BE%B7%E5%A0%B4%E9%A4%A8%E9%9F%B3%E9%9F%BF%E4%BD%B3-%E7%B0%A1%E7%B4%84%E8%88%9E%E5%8F%B0%E5%B0%88%E6%B3%A8%E8%81%BD%E6%AD%8C",
+    "timestamp": "2026-07-12T14:38:31.419Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "伊朗再宣布封鎖霍爾木茲海峽　美軍斥不實：準備好確保通航",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260708/1151383399596822528831925.jpeg/aEzq4eZqb1jIgtsyynsDpeRZyVBFW1p4OPH8UDjx_FA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60369036/%E4%BC%8A%E6%9C%97%E9%98%BF%E6%9B%BC%E5%A4%96%E9%95%B7%E6%9C%83%E6%99%A4%E8%AB%87%E9%9C%8D%E7%88%BE%E6%9C%A8%E8%8C%B2-%E7%BE%8E%E5%AA%92-%E9%98%BF%E6%9B%BC%E5%80%A1%E6%8A%8A%E8%88%AA%E9%81%93%E7%AE%A1%E7%90%86%E6%AC%8A%E4%B8%80%E5%88%86%E7%82%BA%E4%BA%8C",
     "timestamp": "2026-07-11T22:09:31.115Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "伊朗阿曼外長會晤談霍爾木茲　美媒：阿曼倡把航道管理權一分為二",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260708/1151383399596822528831925.jpeg/aEzq4eZqb1jIgtsyynsDpeRZyVBFW1p4OPH8UDjx_FA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60369036/%E4%BC%8A%E6%9C%97%E9%98%BF%E6%9B%BC%E5%A4%96%E9%95%B7%E6%9C%83%E6%99%A4%E8%AB%87%E9%9C%8D%E7%88%BE%E6%9C%A8%E8%8C%B2-%E7%BE%8E%E5%AA%92-%E9%98%BF%E6%9B%BC%E5%80%A1%E6%8A%8A%E8%88%AA%E9%81%93%E7%AE%A1%E7%90%86%E6%AC%8A%E4%B8%80%E5%88%86%E7%82%BA%E4%BA%8C",
-    "timestamp": "2026-07-11T21:38:58.620Z",
     "strategy": ".content-card__main"
   }
 ];
