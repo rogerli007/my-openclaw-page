@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-12T19:44:49.417Z
+// Last updated: 2026-07-12T20:34:36.063Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "靜脈曲張拖10年不看醫生！老翁腿部藏40厘米巨型血栓　脫落恐致命",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260709/1151958575401144320745102.png/yg_IKvmIbFCzYhB9rlkN3LiFPYAoYkdR2LYs7Ni2LOw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60365861/%E9%9D%9C%E8%84%88%E6%9B%B2%E5%BC%B5%E6%8B%9610%E5%B9%B4%E4%B8%8D%E7%9C%8B%E9%86%AB%E7%94%9F-%E8%80%81%E7%BF%81%E8%85%BF%E9%83%A8%E8%97%8F40%E5%8E%98%E7%B1%B3%E5%B7%A8%E5%9E%8B%E8%A1%80%E6%A0%93-%E8%84%AB%E8%90%BD%E6%81%90%E8%87%B4%E5%91%BD",
+    "timestamp": "2026-07-12T20:34:36.063Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "靜脈曲張拖10年不看醫生！老翁腿部藏40厘米巨型血栓　脫落恐致命",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260712/1152992072043597824296105.jpeg/McgB6qi9EGRRNt4psWk-xPzUIZ5u0GYSRxYq20cWKts?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60369121/%E9%9B%B2%E5%8D%9743%E6%AD%B2%E5%8F%B8%E6%A9%9F%E9%A7%95%E7%94%B0%E8%9E%BA%E8%BB%8A%E5%81%B4%E7%BF%BB%E5%A3%93%E7%A7%81%E5%AE%B6%E8%BB%8A-6%E4%BA%BA%E9%81%87%E9%9B%A3",
     "timestamp": "2026-07-12T07:25:44.887Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "狗隻入食肆｜狗主違規惹反感　何敬康籲自律：玩爛個政策或無奈停",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260712/1152966701994741760034289.jpeg/Gz9FzVaRjzZeYxGNqgwrezgDHHbRWMMkgVNVQIFTVUA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60369097/%E7%8B%97%E9%9A%BB%E5%85%A5%E9%A3%9F%E8%82%86-%E7%8B%97%E4%B8%BB%E9%81%95%E8%A6%8F%E6%83%B9%E5%8F%8D%E6%84%9F-%E4%BD%95%E6%95%AC%E5%BA%B7%E7%B1%B2%E8%87%AA%E5%BE%8B-%E7%8E%A9%E7%88%9B%E5%80%8B%E6%94%BF%E7%AD%96%E6%88%96%E7%84%A1%E5%A5%88%E5%81%9C",
-    "timestamp": "2026-07-12T05:30:59.196Z",
     "strategy": ".content-card__main"
   }
 ];
