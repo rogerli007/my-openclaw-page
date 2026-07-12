@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-12T17:42:02.632Z
+// Last updated: 2026-07-12T18:11:04.765Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "世盃全城起動｜狂牛無懼高盧雄雞　「細」抗到底",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260712/1153090629094346752513890.jpeg/4KAGLRChehy9pH1c4sBgUDBP4CGrCI6ttRg2nbUYNp0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60369186/%E4%B8%96%E7%9B%83%E5%85%A8%E5%9F%8E%E8%B5%B7%E5%8B%95-%E7%8B%82%E7%89%9B%E7%84%A1%E6%87%BC%E9%AB%98%E7%9B%A7%E9%9B%84%E9%9B%9E-%E7%B4%B0-%E6%8A%97%E5%88%B0%E5%BA%95",
+    "timestamp": "2026-07-12T18:11:04.765Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "詹天文麥花臣首開個唱落苦功練出完美身形　梁釗峰現身掀高潮",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260712/1152909708303142912381794.jpeg/ZUN_rHpIKW876aeVQRlkFcdl_xYvn1TJQdAeK0HQHis?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60369055/%E5%B7%B4%E5%A8%81%E6%B8%9B%E5%BC%B1%E7%82%BA%E5%BC%B7%E7%86%B1%E5%B8%B6%E9%A2%A8%E6%9A%B4%E7%B4%9A-%E5%85%A7%E5%9C%B0%E4%B8%89%E9%A0%90%E8%AD%A6%E9%BD%8A%E7%99%BC-%E6%B1%9F%E6%B5%99%E7%9A%96%E5%B1%80%E5%9C%B0%E6%88%96%E7%8F%BE%E9%BE%8D%E6%8D%B2%E9%A2%A8",
     "timestamp": "2026-07-12T01:45:41.096Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "世界盃2026｜美斯領銜阿根廷正選　格列沙加鎮守瑞士中場",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260712/1152892921343643648694173.jpeg/_sdTkYWTFs7__3KSM0AobiU7JzIAkUBsxtpAL8baQC8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60369042/%E4%B8%96%E7%95%8C%E7%9B%832026-%E7%BE%8E%E6%96%AF%E9%A0%98%E9%8A%9C%E9%98%BF%E6%A0%B9%E5%BB%B7%E6%AD%A3%E9%81%B8-%E6%A0%BC%E5%88%97%E6%B2%99%E5%8A%A0%E9%8E%AE%E5%AE%88%E7%91%9E%E5%A3%AB%E4%B8%AD%E5%A0%B4",
-    "timestamp": "2026-07-12T01:02:20.907Z",
     "strategy": ".content-card__main"
   }
 ];
