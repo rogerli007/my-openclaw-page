@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-11T23:10:37.819Z
+// Last updated: 2026-07-12T00:10:50.429Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "東涌村屋遭爆竊　31歲女損失逾$32萬財物　警追緝賊人",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260712/1152855590855249920835694.jpeg/CR751zDQC1fp0CuFuTFBtKnKXfQxP3LtLf_jQi3_40I?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60369038/%E6%9D%B1%E6%B6%8C%E6%9D%91%E5%B1%8B%E9%81%AD%E7%88%86%E7%AB%8A-31%E6%AD%B2%E5%A5%B3%E6%90%8D%E5%A4%B1%E9%80%BE-32%E8%90%AC%E8%B2%A1%E7%89%A9-%E8%AD%A6%E8%BF%BD%E7%B7%9D%E8%B3%8A%E4%BA%BA",
+    "timestamp": "2026-07-12T00:10:50.429Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "DSE放榜｜太古可口可樂組跨代龍舟隊　員工寄語考生隊員總有出路",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260710/1152309023278632960812630.png/IhyTNJQByt8ltGcBevfAaFHY-IYaxtPvX2z1019s9dM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%97%85%E9%81%8A/60366352/%E6%97%85%E9%81%8A%E6%B3%A8%E6%84%8F-%E5%81%B7%E6%8B%8D%E4%B8%8D%E6%AD%A2%E9%85%92%E5%BA%97-%E4%B8%8D%E5%90%8C%E5%A0%B4%E6%99%AF%E9%87%9D%E5%AD%94%E6%94%9D%E5%BD%B1%E6%A9%9F%E5%B8%B8%E8%A6%8B%E4%BD%8D%E7%BD%AE-%E6%87%89%E5%B0%8D%E6%96%B9%E6%B3%95",
     "timestamp": "2026-07-11T09:09:34.033Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "世界盃｜挪威教會發換頭像戰帖　英格蘭教會：我們Logo很適合你",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260711/1152645750069399552065281.jpeg/pu-ds96mBijuhDG3Iu1lZrkqAoiu_pGjlCzcw5Qs3MM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%92%B0%E7%90%83%E8%B6%A3%E8%81%9E/60368945/%E4%B8%96%E7%95%8C%E7%9B%83-%E6%8C%AA%E5%A8%81%E6%95%99%E6%9C%83%E7%99%BC%E6%8F%9B%E9%A0%AD%E5%83%8F%E6%88%B0%E5%B8%96-%E8%8B%B1%E6%A0%BC%E8%98%AD%E6%95%99%E6%9C%83-%E6%88%91%E5%80%91logo%E5%BE%88%E9%81%A9%E5%90%88%E4%BD%A0",
-    "timestamp": "2026-07-11T08:28:12.349Z",
     "strategy": ".content-card__main"
   }
 ];
