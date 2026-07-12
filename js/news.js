@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-12T05:30:59.196Z
+// Last updated: 2026-07-12T07:25:44.887Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "雲南43歲司機駕田螺車側翻壓私家車　6人遇難",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260712/1152992072043597824296105.jpeg/McgB6qi9EGRRNt4psWk-xPzUIZ5u0GYSRxYq20cWKts?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60369121/%E9%9B%B2%E5%8D%9743%E6%AD%B2%E5%8F%B8%E6%A9%9F%E9%A7%95%E7%94%B0%E8%9E%BA%E8%BB%8A%E5%81%B4%E7%BF%BB%E5%A3%93%E7%A7%81%E5%AE%B6%E8%BB%8A-6%E4%BA%BA%E9%81%87%E9%9B%A3",
+    "timestamp": "2026-07-12T07:25:44.887Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "狗隻入食肆｜狗主違規惹反感　何敬康籲自律：玩爛個政策或無奈停",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260710/1152295484136624128068921.jpeg/f700QvXO-lt9XKTFk2tNusqDBLfTFAeKjk1d-Y5NXfk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60279397/%E7%89%99%E8%86%8F%E6%8F%80%E9%8C%AF%E9%9A%A8%E6%99%82%E6%84%88%E5%88%B7%E6%84%88%E9%BB%83-%E9%81%B8%E8%B3%BC%E6%99%82%E9%9C%80%E4%BB%94%E7%B4%B0%E7%9C%8B%E6%88%90%E5%88%86-%E4%B8%8D%E5%90%8C%E4%BA%BA%E8%A6%81%E7%94%A8%E4%B8%8D%E5%90%8C%E7%94%A2%E5%93%81",
     "timestamp": "2026-07-11T14:43:34.128Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "姚焯菲開個唱被追問有否邀MC做嘉賓  當場暗笑：佢忙過我",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260711/1152709571890909184879014.jpeg/LQDFOj22wux2SusAOuuieqHLMeIh-m62Y1cZl1lXGZc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60369003/%E5%A7%9A%E7%84%AF%E8%8F%B2%E9%96%8B%E5%80%8B%E5%94%B1%E8%A2%AB%E8%BF%BD%E5%95%8F%E6%9C%89%E5%90%A6%E9%82%80mc%E5%81%9A%E5%98%89%E8%B3%93-%E7%95%B6%E5%A0%B4%E6%9A%97%E7%AC%91-%E4%BD%A2%E5%BF%99%E9%81%8E%E6%88%91",
-    "timestamp": "2026-07-11T12:54:54.120Z",
     "strategy": ".content-card__main"
   }
 ];
