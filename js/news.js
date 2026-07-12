@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-12T07:25:44.887Z
+// Last updated: 2026-07-12T08:22:44.990Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "貴州旅遊必去「地球最美傷疤」馬嶺河峽谷　瀑布如山間絲帶超震撼",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260710/1152323337255391232523841.png/yfC5WH-n1DYhIG9a8FW-YWuePayKNzzShrodO4a6HTs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%97%85%E9%81%8A/60367975/%E8%B2%B4%E5%B7%9E%E6%97%85%E9%81%8A%E5%BF%85%E5%8E%BB-%E5%9C%B0%E7%90%83%E6%9C%80%E7%BE%8E%E5%82%B7%E7%96%A4-%E9%A6%AC%E5%B6%BA%E6%B2%B3%E5%B3%BD%E8%B0%B7-%E7%80%91%E5%B8%83%E5%A6%82%E5%B1%B1%E9%96%93%E7%B5%B2%E5%B8%B6%E8%B6%85%E9%9C%87%E6%92%BC",
+    "timestamp": "2026-07-12T08:22:44.990Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "雲南43歲司機駕田螺車側翻壓私家車　6人遇難",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260709/1151959222439645184106793.png/QKSTuBdhMzRgvY1NeknHsmCZNcIUsDUyxpyIAsaciAI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60367027/%E5%96%BB%E7%82%BA%E6%AD%90%E6%B4%B2%E6%9C%80%E6%AF%92%E6%95%99%E7%A7%91%E6%9B%B8-%E5%A2%A8%E5%A4%A7%E8%B3%BC%E8%97%8F-%E5%A5%B3%E5%B7%AB%E4%B9%8B%E9%8E%9A-%E8%87%B45%E8%90%AC%E4%BA%BA%E6%85%98%E6%AD%BB%E7%8D%B5%E5%B7%AB%E5%8F%B2",
     "timestamp": "2026-07-11T15:12:56.110Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "牙膏揀錯隨時愈刷愈黃！選購時需仔細看成分　不同人要用不同產品",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260710/1152295484136624128068921.jpeg/f700QvXO-lt9XKTFk2tNusqDBLfTFAeKjk1d-Y5NXfk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60279397/%E7%89%99%E8%86%8F%E6%8F%80%E9%8C%AF%E9%9A%A8%E6%99%82%E6%84%88%E5%88%B7%E6%84%88%E9%BB%83-%E9%81%B8%E8%B3%BC%E6%99%82%E9%9C%80%E4%BB%94%E7%B4%B0%E7%9C%8B%E6%88%90%E5%88%86-%E4%B8%8D%E5%90%8C%E4%BA%BA%E8%A6%81%E7%94%A8%E4%B8%8D%E5%90%8C%E7%94%A2%E5%93%81",
-    "timestamp": "2026-07-11T14:43:34.128Z",
     "strategy": ".content-card__main"
   }
 ];
