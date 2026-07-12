@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-12T01:45:41.096Z
+// Last updated: 2026-07-12T02:46:29.559Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "日本熊出沒｜北海道熊隻闖民居　住戶放煙花驅趕",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20251028/1059830755154202624148975.png/rrRvzWKDaHV7V-YK-EfR591Cpu2Aq108uHYKbrh2Cm4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60369064/%E6%97%A5%E6%9C%AC%E7%86%8A%E5%87%BA%E6%B2%92-%E5%8C%97%E6%B5%B7%E9%81%93%E7%86%8A%E9%9A%BB%E9%97%96%E6%B0%91%E5%B1%85-%E4%BD%8F%E6%88%B6%E6%94%BE%E7%85%99%E8%8A%B1%E9%A9%85%E8%B6%95",
+    "timestamp": "2026-07-12T02:46:29.559Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "巴威減弱為強熱帶風暴級　內地三預警齊發　江浙皖局地或現龍捲風",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260711/1152677500627718144508742.jpeg/INLd7ogYrcnUUv_fEDQXIqJlAyJvdrHM8r2T2fK9k9k?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60368981/%E6%84%9B%E5%9B%9E%E5%AE%B6-%E7%BE%85%E6%AF%93%E5%84%80%E6%AD%A3%E5%BC%8F%E7%85%9E%E7%A7%91-%E6%B7%9A%E5%88%A5%E9%99%AA%E4%BC%B46%E5%B9%B4%E8%A7%92%E8%89%B2-%E8%B7%AF%E5%B0%8F%E5%B0%8F-%E5%BF%8D%E5%94%94%E4%BD%8F%E5%96%8A",
     "timestamp": "2026-07-11T11:31:18.207Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "DSE放榜｜天文台料低壓槽下周初帶驟雨雷暴　7.14部份區雨勢較大",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260503/1127658400344444928659804.jpeg/rjiQIH5qQdtmZF31GEGrwxkQc1TLfT0c7EGgVvlBoFY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60368982/dse%E6%94%BE%E6%A6%9C-%E5%A4%A9%E6%96%87%E5%8F%B0%E6%96%99%E4%BD%8E%E5%A3%93%E6%A7%BD%E4%B8%8B%E5%91%A8%E5%88%9D%E5%B8%B6%E9%A9%9F%E9%9B%A8%E9%9B%B7%E6%9A%B4-7-14%E9%83%A8%E4%BB%BD%E5%8D%80%E9%9B%A8%E5%8B%A2%E8%BC%83%E5%A4%A7",
-    "timestamp": "2026-07-11T11:01:39.370Z",
     "strategy": ".content-card__main"
   }
 ];
