@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-12T04:07:01.897Z
+// Last updated: 2026-07-12T05:30:59.196Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "狗隻入食肆｜狗主違規惹反感　何敬康籲自律：玩爛個政策或無奈停",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260712/1152966701994741760034289.jpeg/Gz9FzVaRjzZeYxGNqgwrezgDHHbRWMMkgVNVQIFTVUA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60369097/%E7%8B%97%E9%9A%BB%E5%85%A5%E9%A3%9F%E8%82%86-%E7%8B%97%E4%B8%BB%E9%81%95%E8%A6%8F%E6%83%B9%E5%8F%8D%E6%84%9F-%E4%BD%95%E6%95%AC%E5%BA%B7%E7%B1%B2%E8%87%AA%E5%BE%8B-%E7%8E%A9%E7%88%9B%E5%80%8B%E6%94%BF%E7%AD%96%E6%88%96%E7%84%A1%E5%A5%88%E5%81%9C",
+    "timestamp": "2026-07-12T05:30:59.196Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美國大峽谷泛舟遊客染「神秘怪病」　全身痛如骨裂　官方緊急調查",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260711/1152709571890909184879014.jpeg/LQDFOj22wux2SusAOuuieqHLMeIh-m62Y1cZl1lXGZc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60369003/%E5%A7%9A%E7%84%AF%E8%8F%B2%E9%96%8B%E5%80%8B%E5%94%B1%E8%A2%AB%E8%BF%BD%E5%95%8F%E6%9C%89%E5%90%A6%E9%82%80mc%E5%81%9A%E5%98%89%E8%B3%93-%E7%95%B6%E5%A0%B4%E6%9A%97%E7%AC%91-%E4%BD%A2%E5%BF%99%E9%81%8E%E6%88%91",
     "timestamp": "2026-07-11T12:54:54.120Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "張雪機車最遲明年進軍台灣開店　張雪：開幕時一定要親自到場",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260711/1152692811460513792045726.jpeg/17OFEGHYjTj5FWULMchtXDtPpbgJV6WaDvZa3A72Wtw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60368992/%E5%BC%B5%E9%9B%AA%E6%A9%9F%E8%BB%8A%E6%9C%80%E9%81%B2%E6%98%8E%E5%B9%B4%E9%80%B2%E8%BB%8D%E5%8F%B0%E7%81%A3%E9%96%8B%E5%BA%97-%E5%BC%B5%E9%9B%AA-%E9%96%8B%E5%B9%95%E6%99%82%E4%B8%80%E5%AE%9A%E8%A6%81%E8%A6%AA%E8%87%AA%E5%88%B0%E5%A0%B4",
-    "timestamp": "2026-07-11T11:54:34.988Z",
     "strategy": ".content-card__main"
   }
 ];
