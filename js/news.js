@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-12T15:12:20.287Z
+// Last updated: 2026-07-12T17:13:22.574Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "鄭秀文答謝會｜牽手許志安引回憶殺：呢啲記憶都係美好同埋重要",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260713/1153129992410894336364279.jpeg/frSVNilrnrm_BF_xWQmRM79EV-2GUExxyusMMMrrDDA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60369203/%E9%84%AD%E7%A7%80%E6%96%87%E7%AD%94%E8%AC%9D%E6%9C%83-%E7%89%BD%E6%89%8B%E8%A8%B1%E5%BF%97%E5%AE%89%E5%BC%95%E5%9B%9E%E6%86%B6%E6%AE%BA-%E5%91%A2%E5%95%B2%E8%A8%98%E6%86%B6%E9%83%BD%E4%BF%82%E7%BE%8E%E5%A5%BD%E5%90%8C%E5%9F%8B%E9%87%8D%E8%A6%81",
+    "timestamp": "2026-07-12T17:13:22.574Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "色迷心竅！陝西男掃色情卡片墮騙局　30小時損失¥90萬毀20年婚姻",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260712/1152855590855249920835694.jpeg/CR751zDQC1fp0CuFuTFBtKnKXfQxP3LtLf_jQi3_40I?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60369038/%E6%9D%B1%E6%B6%8C%E6%9D%91%E5%B1%8B%E9%81%AD%E7%88%86%E7%AB%8A-31%E6%AD%B2%E5%A5%B3%E6%90%8D%E5%A4%B1%E9%80%BE-32%E8%90%AC%E8%B2%A1%E7%89%A9-%E8%AD%A6%E8%BF%BD%E7%B7%9D%E8%B3%8A%E4%BA%BA",
     "timestamp": "2026-07-12T00:10:50.429Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "DSE放榜｜太古可口可樂組跨代龍舟隊　員工寄語考生隊員總有出路",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260711/1152729140407832576416720.jpeg/t1Wdvfycb6bzT49lhbBEcWwA1d-yVoskWWn8p1lp_Kc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60369012/dse%E6%94%BE%E6%A6%9C-%E5%A4%AA%E5%8F%A4%E5%8F%AF%E5%8F%A3%E5%8F%AF%E6%A8%82%E7%B5%84%E8%B7%A8%E4%BB%A3%E9%BE%8D%E8%88%9F%E9%9A%8A-%E5%93%A1%E5%B7%A5%E5%AF%84%E8%AA%9E%E8%80%83%E7%94%9F%E9%9A%8A%E5%93%A1%E7%B8%BD%E6%9C%89%E5%87%BA%E8%B7%AF",
-    "timestamp": "2026-07-11T23:10:37.819Z",
     "strategy": ".content-card__main"
   }
 ];
