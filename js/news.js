@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-12T18:39:14.438Z
+// Last updated: 2026-07-12T19:14:35.055Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "世盃全城起動｜狂牛無懼高盧雄雞　「細」抗到底",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260712/1153090629094346752513890.jpeg/4KAGLRChehy9pH1c4sBgUDBP4CGrCI6ttRg2nbUYNp0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60369186/%E4%B8%96%E7%9B%83%E5%85%A8%E5%9F%8E%E8%B5%B7%E5%8B%95-%E7%8B%82%E7%89%9B%E7%84%A1%E6%87%BC%E9%AB%98%E7%9B%A7%E9%9B%84%E9%9B%9E-%E7%B4%B0-%E6%8A%97%E5%88%B0%E5%BA%95",
+    "timestamp": "2026-07-12T19:14:35.055Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "世盃全城起動｜狂牛無懼高盧雄雞　「細」抗到底",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260712/1152934782192062464375986.jpeg/abyEDvl48C_abaGoXLwSsatW6erEd7r1gkCiZYJAomU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60369062/%E7%BE%8E%E5%9C%8B%E5%A4%A7%E5%B3%BD%E8%B0%B7%E6%B3%9B%E8%88%9F%E9%81%8A%E5%AE%A2%E6%9F%93-%E7%A5%9E%E7%A7%98%E6%80%AA%E7%97%85-%E5%85%A8%E8%BA%AB%E7%97%9B%E5%A6%82%E9%AA%A8%E8%A3%82-%E5%AE%98%E6%96%B9%E7%B7%8A%E6%80%A5%E8%AA%BF%E6%9F%A5",
     "timestamp": "2026-07-12T04:07:01.897Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "日本熊出沒｜北海道熊隻闖民居　住戶放煙花驅趕",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20251028/1059830755154202624148975.png/rrRvzWKDaHV7V-YK-EfR591Cpu2Aq108uHYKbrh2Cm4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60369064/%E6%97%A5%E6%9C%AC%E7%86%8A%E5%87%BA%E6%B2%92-%E5%8C%97%E6%B5%B7%E9%81%93%E7%86%8A%E9%9A%BB%E9%97%96%E6%B0%91%E5%B1%85-%E4%BD%8F%E6%88%B6%E6%94%BE%E7%85%99%E8%8A%B1%E9%A9%85%E8%B6%95",
-    "timestamp": "2026-07-12T02:46:29.559Z",
     "strategy": ".content-card__main"
   }
 ];
