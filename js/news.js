@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-12T00:10:50.429Z
+// Last updated: 2026-07-12T01:02:20.907Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "世界盃2026｜美斯領銜阿根廷正選　格列沙加鎮守瑞士中場",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260712/1152892921343643648694173.jpeg/_sdTkYWTFs7__3KSM0AobiU7JzIAkUBsxtpAL8baQC8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60369042/%E4%B8%96%E7%95%8C%E7%9B%832026-%E7%BE%8E%E6%96%AF%E9%A0%98%E9%8A%9C%E9%98%BF%E6%A0%B9%E5%BB%B7%E6%AD%A3%E9%81%B8-%E6%A0%BC%E5%88%97%E6%B2%99%E5%8A%A0%E9%8E%AE%E5%AE%88%E7%91%9E%E5%A3%AB%E4%B8%AD%E5%A0%B4",
+    "timestamp": "2026-07-12T01:02:20.907Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "東涌村屋遭爆竊　31歲女損失逾$32萬財物　警追緝賊人",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260710/1152314183090442240063812.jpeg/sZcUWX0C10QyUH503tJi2O-4S34dTffUzza48c82uPE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60368764/%E7%A9%8E%E5%96%ACziva%E6%96%B0%E5%96%AE%E6%9B%B2%E9%80%9A%E5%AE%B5%E8%B7%91%E5%85%AD%E5%8D%80%E5%8F%96%E6%99%AF%E6%8B%8Dmv-%E5%83%8515%E7%A7%92%E8%BF%85%E9%80%9F%E7%88%86%E5%96%8A%E6%BC%94%E6%8A%80%E7%8D%B2%E6%BF%80%E8%AE%9A",
     "timestamp": "2026-07-11T09:52:30.078Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "旅遊注意︱偷拍不止酒店　不同場景針孔攝影機常見位置+應對方法",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260710/1152309023278632960812630.png/IhyTNJQByt8ltGcBevfAaFHY-IYaxtPvX2z1019s9dM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%97%85%E9%81%8A/60366352/%E6%97%85%E9%81%8A%E6%B3%A8%E6%84%8F-%E5%81%B7%E6%8B%8D%E4%B8%8D%E6%AD%A2%E9%85%92%E5%BA%97-%E4%B8%8D%E5%90%8C%E5%A0%B4%E6%99%AF%E9%87%9D%E5%AD%94%E6%94%9D%E5%BD%B1%E6%A9%9F%E5%B8%B8%E8%A6%8B%E4%BD%8D%E7%BD%AE-%E6%87%89%E5%B0%8D%E6%96%B9%E6%B3%95",
-    "timestamp": "2026-07-11T09:09:34.033Z",
     "strategy": ".content-card__main"
   }
 ];
