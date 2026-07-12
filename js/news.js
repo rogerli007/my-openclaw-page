@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-12T23:26:24.344Z
+// Last updated: 2026-07-12T23:53:31.227Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "智利汽車撞入露天市集　至少造成6死7傷",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260713/1153229426926817280615703.png/8JOJpvZD5wfcFY94pCWhm1t9wQih_w-RTCxAa0wsQGs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60369220/%E6%99%BA%E5%88%A9%E6%B1%BD%E8%BB%8A%E6%92%9E%E5%85%A5%E9%9C%B2%E5%A4%A9%E5%B8%82%E9%9B%86-%E8%87%B3%E5%B0%91%E9%80%A0%E6%88%906%E6%AD%BB7%E5%82%B7",
+    "timestamp": "2026-07-12T23:53:31.227Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "中國外交部亞洲司：日方涉南海仲裁案言行惡劣　已提出嚴正交涉",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260712/1152960637945516032912673.png/JhXyl5hbAdfzjPxmYqzdfUSapzxDeYgNWkqwyVpKsMk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60369093/%E6%84%9B%E5%9B%9E%E5%AE%B6--%E4%B8%89%E5%A4%AA-%E6%A8%8A%E4%BA%A6%E6%95%8F%E7%8F%BE%E9%80%86%E9%BD%A1%E6%B8%AF%E5%A7%90%E5%85%89%E8%8A%92-%E6%8E%A5%E9%BE%8D%E7%B9%BC%E6%89%BF%E4%BA%BA%E9%AC%A5%E5%80%8B%E4%BD%A0%E6%AD%BB%E6%88%91%E6%B4%BB",
     "timestamp": "2026-07-12T12:10:41.189Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "01邊疆記｜香港中學生新疆體驗非遺皮雕　讚滿足又可助牧民增收",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260712/1153046842892619776392810.jpeg/cOiCGmCWoVK8YtBS2OY2XnR8Tnbq2N2_Bi7RBgYu0QY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60367658/01%E9%82%8A%E7%96%86%E8%A8%98-%E9%A6%99%E6%B8%AF%E4%B8%AD%E5%AD%B8%E7%94%9F%E6%96%B0%E7%96%86%E9%AB%94%E9%A9%97%E9%9D%9E%E9%81%BA%E7%9A%AE%E9%9B%95-%E8%AE%9A%E6%BB%BF%E8%B6%B3%E5%8F%88%E5%8F%AF%E5%8A%A9%E7%89%A7%E6%B0%91%E5%A2%9E%E6%94%B6",
-    "timestamp": "2026-07-12T11:44:33.562Z",
     "strategy": ".content-card__main"
   }
 ];
