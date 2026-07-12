@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-12T11:44:33.562Z
+// Last updated: 2026-07-12T12:10:41.189Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "愛回家丨「三太」樊亦敏現逆齡港姐光芒　接龍繼承人鬥個你死我活",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260712/1152960637945516032912673.png/JhXyl5hbAdfzjPxmYqzdfUSapzxDeYgNWkqwyVpKsMk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60369093/%E6%84%9B%E5%9B%9E%E5%AE%B6--%E4%B8%89%E5%A4%AA-%E6%A8%8A%E4%BA%A6%E6%95%8F%E7%8F%BE%E9%80%86%E9%BD%A1%E6%B8%AF%E5%A7%90%E5%85%89%E8%8A%92-%E6%8E%A5%E9%BE%8D%E7%B9%BC%E6%89%BF%E4%BA%BA%E9%AC%A5%E5%80%8B%E4%BD%A0%E6%AD%BB%E6%88%91%E6%B4%BB",
+    "timestamp": "2026-07-12T12:10:41.189Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "01邊疆記｜香港中學生新疆體驗非遺皮雕　讚滿足又可助牧民增收",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260710/1152105117005123584985034.png/VlgNB23jsToLceTK3Taqgc2sSulQTqsJqwhZJKsIWSQ",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60368216/%E9%96%98%E5%81%9C%E5%9F%8B%E7%AB%99%E4%B9%9D%E5%B7%B4-%E5%AE%A2%E8%B2%A8%E8%BB%8A%E5%8F%B8%E6%A9%9F%E4%B8%8B%E8%BB%8A%E7%8B%82%E7%BD%B5%E6%8B%8D%E8%BB%8A%E7%AA%97%E6%83%B9%E4%B9%98%E5%AE%A2%E4%B8%8D%E6%BB%BF-%E7%B6%B2%E6%B0%91%E6%96%A5%E5%8D%B1%E9%A7%95",
     "timestamp": "2026-07-11T19:14:18.229Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "《紐時》披露新空軍一號安全疑慮　涉事記者遭特朗普政府傳喚作證",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260620/1144904949293912064381024.jpeg/nnzWmpn0cLPeQt01yNxNnO22MSdM_VjRrJICg6ySAoM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60369029/%E7%B4%90%E6%99%82-%E6%8A%AB%E9%9C%B2%E6%96%B0%E7%A9%BA%E8%BB%8D%E4%B8%80%E8%99%9F%E5%AE%89%E5%85%A8%E7%96%91%E6%85%AE-%E6%B6%89%E4%BA%8B%E8%A8%98%E8%80%85%E9%81%AD%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%E5%82%B3%E5%96%9A%E4%BD%9C%E8%AD%89",
-    "timestamp": "2026-07-11T18:39:04.449Z",
     "strategy": ".content-card__main"
   }
 ];
