@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-12T12:39:20.807Z
+// Last updated: 2026-07-12T13:16:58.457Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "中環男子捱巴士撞頭部重創　昏迷送院搶救",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260419/1122542595386380288260853.jpeg/6B48eX2jfV9b0svdYswUvG2S82wZcHPGp4jdj6eI3Y8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60369190/%E4%B8%AD%E7%92%B0%E7%94%B7%E5%AD%90%E6%8D%B1%E5%B7%B4%E5%A3%AB%E6%92%9E%E9%A0%AD%E9%83%A8%E9%87%8D%E5%89%B5-%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2%E6%90%B6%E6%95%91",
+    "timestamp": "2026-07-12T13:16:58.457Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "功夫女足｜19歲星女郎雪野起底　來港旅遊被發掘　周星馳親自面試",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260712/1152839790006112256359706.png/v7dyREtlmRvKjqDuCqE-IDuNCIwGzyGwuzaUl7s2lJc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60369023/%E4%B8%96%E7%95%8C%E7%9B%832026-%E8%8B%B1%E6%A0%BC%E8%98%AD%E5%B0%8D%E6%8C%AA%E5%A8%81%E7%88%AD4%E5%BC%B7-%E5%8F%B2%E6%9D%B1%E6%96%AF%E6%93%94%E6%AD%A3%E5%AE%88%E5%A4%8F%E8%98%AD%E7%89%B9",
     "timestamp": "2026-07-11T21:08:49.388Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "閘停埋站九巴！客貨車司機下車狂罵拍車窗惹乘客不滿　網民斥危駕",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260710/1152105117005123584985034.png/VlgNB23jsToLceTK3Taqgc2sSulQTqsJqwhZJKsIWSQ",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60368216/%E9%96%98%E5%81%9C%E5%9F%8B%E7%AB%99%E4%B9%9D%E5%B7%B4-%E5%AE%A2%E8%B2%A8%E8%BB%8A%E5%8F%B8%E6%A9%9F%E4%B8%8B%E8%BB%8A%E7%8B%82%E7%BD%B5%E6%8B%8D%E8%BB%8A%E7%AA%97%E6%83%B9%E4%B9%98%E5%AE%A2%E4%B8%8D%E6%BB%BF-%E7%B6%B2%E6%B0%91%E6%96%A5%E5%8D%B1%E9%A7%95",
-    "timestamp": "2026-07-11T19:51:02.796Z",
     "strategy": ".content-card__main"
   }
 ];
