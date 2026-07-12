@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-12T14:38:31.419Z
+// Last updated: 2026-07-12T15:12:20.287Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "色迷心竅！陝西男掃色情卡片墮騙局　30小時損失¥90萬毀20年婚姻",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260710/1152327811290107904295087.png/prVpGAtzvyrmlGyup0Xwm3gJ5rsoh4hpVOZhB1TmYQc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60367945/%E8%89%B2%E8%BF%B7%E5%BF%83%E7%AB%85-%E9%99%9D%E8%A5%BF%E7%94%B7%E6%8E%83%E8%89%B2%E6%83%85%E5%8D%A1%E7%89%87%E5%A2%AE%E9%A8%99%E5%B1%80-30%E5%B0%8F%E6%99%82%E6%90%8D%E5%A4%B1-90%E8%90%AC%E6%AF%8020%E5%B9%B4%E5%A9%9A%E5%A7%BB",
+    "timestamp": "2026-07-12T15:12:20.287Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "鄭秀文答謝會｜尾場觀眾收貨讚啟德場館音響佳　簡約舞台專注聽歌",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260711/1152729140407832576416720.jpeg/t1Wdvfycb6bzT49lhbBEcWwA1d-yVoskWWn8p1lp_Kc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60369012/dse%E6%94%BE%E6%A6%9C-%E5%A4%AA%E5%8F%A4%E5%8F%AF%E5%8F%A3%E5%8F%AF%E6%A8%82%E7%B5%84%E8%B7%A8%E4%BB%A3%E9%BE%8D%E8%88%9F%E9%9A%8A-%E5%93%A1%E5%B7%A5%E5%AF%84%E8%AA%9E%E8%80%83%E7%94%9F%E9%9A%8A%E5%93%A1%E7%B8%BD%E6%9C%89%E5%87%BA%E8%B7%AF",
     "timestamp": "2026-07-11T23:10:37.819Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "伊朗阿曼外長會晤談霍爾木茲　美媒：阿曼倡把航道管理權一分為二",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260708/1151383399596822528831925.jpeg/aEzq4eZqb1jIgtsyynsDpeRZyVBFW1p4OPH8UDjx_FA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60369036/%E4%BC%8A%E6%9C%97%E9%98%BF%E6%9B%BC%E5%A4%96%E9%95%B7%E6%9C%83%E6%99%A4%E8%AB%87%E9%9C%8D%E7%88%BE%E6%9C%A8%E8%8C%B2-%E7%BE%8E%E5%AA%92-%E9%98%BF%E6%9B%BC%E5%80%A1%E6%8A%8A%E8%88%AA%E9%81%93%E7%AE%A1%E7%90%86%E6%AC%8A%E4%B8%80%E5%88%86%E7%82%BA%E4%BA%8C",
-    "timestamp": "2026-07-11T22:09:31.115Z",
     "strategy": ".content-card__main"
   }
 ];
