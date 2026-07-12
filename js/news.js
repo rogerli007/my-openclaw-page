@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-12T21:53:24.764Z
+// Last updated: 2026-07-12T22:25:25.004Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "天氣｜今日有幾陣驟雨　日間酷熱約33度　稍後局部地區有雷暴",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260713/1153220254155935744974361.jpeg/J172dZTavsJbcw2PXNfwanX8kCKgRI18v0WHqr9Fh6o?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60369205/%E5%A4%A9%E6%B0%A3-%E4%BB%8A%E6%97%A5%E6%9C%89%E5%B9%BE%E9%99%A3%E9%A9%9F%E9%9B%A8-%E6%97%A5%E9%96%93%E9%85%B7%E7%86%B1%E7%B4%8433%E5%BA%A6-%E7%A8%8D%E5%BE%8C%E5%B1%80%E9%83%A8%E5%9C%B0%E5%8D%80%E6%9C%89%E9%9B%B7%E6%9A%B4",
+    "timestamp": "2026-07-12T22:25:25.004Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "屯門越野電單車男疑失平衡墮2米斜坡　昏迷送院惜不治",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260712/1153030601763196928425980.png/Xiw-UbNC3kCgiKicMjeftosDf_IijJ_WoZTLI6GUyyM",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60369159/33%E6%AD%B2%E8%8F%AF%E8%A3%94%E5%A5%B3%E6%8B%89%E6%96%AF%E7%B6%AD%E5%8A%A0%E6%96%AF%E9%A8%99%E5%A9%9A%E8%87%B3%E5%B0%9114%E7%94%B7-%E8%A9%90%E5%8F%96%E9%80%BE30%E8%90%AC%E7%BE%8E%E5%85%83%E8%B3%AD%E8%B3%87",
     "timestamp": "2026-07-12T10:41:24.748Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "世界盃2026｜英格蘭晉級杜慈照挑剔表現不佳　強調將帥依然和諧",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260712/1153026329071849472957482.jpeg/Du91NsQgL3cZNq-fL8B7BdALvjsR0DvdCe9y2Anvctg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60369146/%E4%B8%96%E7%95%8C%E7%9B%832026-%E8%8B%B1%E6%A0%BC%E8%98%AD%E6%99%89%E7%B4%9A%E6%9D%9C%E6%85%88%E7%85%A7%E6%8C%91%E5%89%94%E8%A1%A8%E7%8F%BE%E4%B8%8D%E4%BD%B3-%E5%BC%B7%E8%AA%BF%E5%B0%87%E5%B8%A5%E4%BE%9D%E7%84%B6%E5%92%8C%E8%AB%A7",
-    "timestamp": "2026-07-12T10:02:43.707Z",
     "strategy": ".content-card__main"
   }
 ];
