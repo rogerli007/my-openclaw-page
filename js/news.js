@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-12T11:14:55.225Z
+// Last updated: 2026-07-12T11:44:33.562Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "01邊疆記｜香港中學生新疆體驗非遺皮雕　讚滿足又可助牧民增收",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260712/1153046842892619776392810.jpeg/cOiCGmCWoVK8YtBS2OY2XnR8Tnbq2N2_Bi7RBgYu0QY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60367658/01%E9%82%8A%E7%96%86%E8%A8%98-%E9%A6%99%E6%B8%AF%E4%B8%AD%E5%AD%B8%E7%94%9F%E6%96%B0%E7%96%86%E9%AB%94%E9%A9%97%E9%9D%9E%E9%81%BA%E7%9A%AE%E9%9B%95-%E8%AE%9A%E6%BB%BF%E8%B6%B3%E5%8F%88%E5%8F%AF%E5%8A%A9%E7%89%A7%E6%B0%91%E5%A2%9E%E6%94%B6",
+    "timestamp": "2026-07-12T11:44:33.562Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "韓國反華無阻年輕人消費中國品牌　專家：政治歸政治　消費歸消費",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260620/1144904949293912064381024.jpeg/nnzWmpn0cLPeQt01yNxNnO22MSdM_VjRrJICg6ySAoM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60369029/%E7%B4%90%E6%99%82-%E6%8A%AB%E9%9C%B2%E6%96%B0%E7%A9%BA%E8%BB%8D%E4%B8%80%E8%99%9F%E5%AE%89%E5%85%A8%E7%96%91%E6%85%AE-%E6%B6%89%E4%BA%8B%E8%A8%98%E8%80%85%E9%81%AD%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%E5%82%B3%E5%96%9A%E4%BD%9C%E8%AD%89",
     "timestamp": "2026-07-11T18:39:04.449Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "颱風「巴威」兩度登陸浙江　中心附近最高風力達13級",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260712/1152773630233415680982763.jpeg/zCo5ZYzQDboHEPpumajkJrq4LPoMFSzOS2XdqEtl3ag?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60369027/%E9%A2%B1%E9%A2%A8-%E5%B7%B4%E5%A8%81-%E5%85%A9%E5%BA%A6%E7%99%BB%E9%99%B8%E6%B5%99%E6%B1%9F-%E4%B8%AD%E5%BF%83%E9%99%84%E8%BF%91%E6%9C%80%E9%AB%98%E9%A2%A8%E5%8A%9B%E9%81%9413%E7%B4%9A",
-    "timestamp": "2026-07-11T17:41:24.832Z",
     "strategy": ".content-card__main"
   }
 ];
