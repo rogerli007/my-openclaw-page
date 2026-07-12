@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-12T22:25:25.004Z
+// Last updated: 2026-07-12T22:53:08.688Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "以色列10月27日大選　近40年首有國會完成任期按計劃選舉",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260713/1153184101310664704876403.jpeg/2Ct9WcyrbToQxviB4vrJwqAIGoU28lo4OIdFBDiHRQQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60369214/%E4%BB%A5%E8%89%B2%E5%88%9710%E6%9C%8827%E6%97%A5%E5%A4%A7%E9%81%B8-%E8%BF%9140%E5%B9%B4%E9%A6%96%E6%9C%89%E5%9C%8B%E6%9C%83%E5%AE%8C%E6%88%90%E4%BB%BB%E6%9C%9F%E6%8C%89%E8%A8%88%E5%8A%83%E9%81%B8%E8%88%89",
+    "timestamp": "2026-07-12T22:53:08.688Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "天氣｜今日有幾陣驟雨　日間酷熱約33度　稍後局部地區有雷暴",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250916/1044655349233356800826319.jpeg/CFOSH4Lpi7MTiqPKha9NiNu_qaxBH8ajbaZISm2mSEo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E4%B8%96%E7%95%8C%E5%B0%88%E9%A1%8C/60369128/%E9%9F%93%E5%9C%8B%E5%8F%8D%E8%8F%AF%E7%84%A1%E9%98%BB%E5%B9%B4%E8%BC%95%E4%BA%BA%E6%B6%88%E8%B2%BB%E4%B8%AD%E5%9C%8B%E5%93%81%E7%89%8C-%E5%B0%88%E5%AE%B6-%E6%94%BF%E6%B2%BB%E6%AD%B8%E6%94%BF%E6%B2%BB-%E6%B6%88%E8%B2%BB%E6%AD%B8%E6%B6%88%E8%B2%BB",
     "timestamp": "2026-07-12T11:14:55.225Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "33歲華裔女拉斯維加斯騙婚至少14男　詐取逾30萬美元賭資",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260712/1153030601763196928425980.png/Xiw-UbNC3kCgiKicMjeftosDf_IijJ_WoZTLI6GUyyM",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60369159/33%E6%AD%B2%E8%8F%AF%E8%A3%94%E5%A5%B3%E6%8B%89%E6%96%AF%E7%B6%AD%E5%8A%A0%E6%96%AF%E9%A8%99%E5%A9%9A%E8%87%B3%E5%B0%9114%E7%94%B7-%E8%A9%90%E5%8F%96%E9%80%BE30%E8%90%AC%E7%BE%8E%E5%85%83%E8%B3%AD%E8%B3%87",
-    "timestamp": "2026-07-12T10:41:24.748Z",
     "strategy": ".content-card__main"
   }
 ];
