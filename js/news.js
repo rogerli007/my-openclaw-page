@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-12T10:41:24.748Z
+// Last updated: 2026-07-12T11:14:55.225Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "韓國反華無阻年輕人消費中國品牌　專家：政治歸政治　消費歸消費",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250916/1044655349233356800826319.jpeg/CFOSH4Lpi7MTiqPKha9NiNu_qaxBH8ajbaZISm2mSEo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E4%B8%96%E7%95%8C%E5%B0%88%E9%A1%8C/60369128/%E9%9F%93%E5%9C%8B%E5%8F%8D%E8%8F%AF%E7%84%A1%E9%98%BB%E5%B9%B4%E8%BC%95%E4%BA%BA%E6%B6%88%E8%B2%BB%E4%B8%AD%E5%9C%8B%E5%93%81%E7%89%8C-%E5%B0%88%E5%AE%B6-%E6%94%BF%E6%B2%BB%E6%AD%B8%E6%94%BF%E6%B2%BB-%E6%B6%88%E8%B2%BB%E6%AD%B8%E6%B6%88%E8%B2%BB",
+    "timestamp": "2026-07-12T11:14:55.225Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "33歲華裔女拉斯維加斯騙婚至少14男　詐取逾30萬美元賭資",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260712/1152773630233415680982763.jpeg/zCo5ZYzQDboHEPpumajkJrq4LPoMFSzOS2XdqEtl3ag?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60369027/%E9%A2%B1%E9%A2%A8-%E5%B7%B4%E5%A8%81-%E5%85%A9%E5%BA%A6%E7%99%BB%E9%99%B8%E6%B5%99%E6%B1%9F-%E4%B8%AD%E5%BF%83%E9%99%84%E8%BF%91%E6%9C%80%E9%AB%98%E9%A2%A8%E5%8A%9B%E9%81%9413%E7%B4%9A",
     "timestamp": "2026-07-11T17:41:24.832Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "牛頭角旅巴遇死車煞停　遭後方紅Van收掣不及猛撞　8人受傷",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260712/1152769185789513728342950.jpeg/t4NB7h5eIAut8VnEZq3surIllKGCE447EYxrZyuMa2c?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60369024/%E7%89%9B%E9%A0%AD%E8%A7%92%E6%97%85%E5%B7%B4%E9%81%87%E6%AD%BB%E8%BB%8A%E7%85%9E%E5%81%9C-%E9%81%AD%E5%BE%8C%E6%96%B9%E7%B4%85van%E6%94%B6%E6%8E%A3%E4%B8%8D%E5%8F%8A%E7%8C%9B%E6%92%9E-8%E4%BA%BA%E5%8F%97%E5%82%B7",
-    "timestamp": "2026-07-11T16:38:41.450Z",
     "strategy": ".content-card__main"
   }
 ];
