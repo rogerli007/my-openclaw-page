@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-12T22:53:08.688Z
+// Last updated: 2026-07-12T23:26:24.344Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "中國外交部亞洲司：日方涉南海仲裁案言行惡劣　已提出嚴正交涉",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20220618/614950336469143552231574.jpeg/KCBnLIw7JD7SvGNYEIhco9fnuAJ87Abu-X4Q-vl-EPo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60369213/%E4%B8%AD%E5%9C%8B%E5%A4%96%E4%BA%A4%E9%83%A8%E4%BA%9E%E6%B4%B2%E5%8F%B8-%E6%97%A5%E6%96%B9%E6%B6%89%E5%8D%97%E6%B5%B7%E4%BB%B2%E8%A3%81%E6%A1%88%E8%A8%80%E8%A1%8C%E6%83%A1%E5%8A%A3-%E5%B7%B2%E6%8F%90%E5%87%BA%E5%9A%B4%E6%AD%A3%E4%BA%A4%E6%B6%89",
+    "timestamp": "2026-07-12T23:26:24.344Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "以色列10月27日大選　近40年首有國會完成任期按計劃選舉",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260712/1153046842892619776392810.jpeg/cOiCGmCWoVK8YtBS2OY2XnR8Tnbq2N2_Bi7RBgYu0QY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60367658/01%E9%82%8A%E7%96%86%E8%A8%98-%E9%A6%99%E6%B8%AF%E4%B8%AD%E5%AD%B8%E7%94%9F%E6%96%B0%E7%96%86%E9%AB%94%E9%A9%97%E9%9D%9E%E9%81%BA%E7%9A%AE%E9%9B%95-%E8%AE%9A%E6%BB%BF%E8%B6%B3%E5%8F%88%E5%8F%AF%E5%8A%A9%E7%89%A7%E6%B0%91%E5%A2%9E%E6%94%B6",
     "timestamp": "2026-07-12T11:44:33.562Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "韓國反華無阻年輕人消費中國品牌　專家：政治歸政治　消費歸消費",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250916/1044655349233356800826319.jpeg/CFOSH4Lpi7MTiqPKha9NiNu_qaxBH8ajbaZISm2mSEo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E4%B8%96%E7%95%8C%E5%B0%88%E9%A1%8C/60369128/%E9%9F%93%E5%9C%8B%E5%8F%8D%E8%8F%AF%E7%84%A1%E9%98%BB%E5%B9%B4%E8%BC%95%E4%BA%BA%E6%B6%88%E8%B2%BB%E4%B8%AD%E5%9C%8B%E5%93%81%E7%89%8C-%E5%B0%88%E5%AE%B6-%E6%94%BF%E6%B2%BB%E6%AD%B8%E6%94%BF%E6%B2%BB-%E6%B6%88%E8%B2%BB%E6%AD%B8%E6%B6%88%E8%B2%BB",
-    "timestamp": "2026-07-12T11:14:55.225Z",
     "strategy": ".content-card__main"
   }
 ];
