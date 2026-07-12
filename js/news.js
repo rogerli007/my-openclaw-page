@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-12T10:02:43.707Z
+// Last updated: 2026-07-12T10:41:24.748Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "33歲華裔女拉斯維加斯騙婚至少14男　詐取逾30萬美元賭資",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260712/1153030601763196928425980.png/Xiw-UbNC3kCgiKicMjeftosDf_IijJ_WoZTLI6GUyyM",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60369159/33%E6%AD%B2%E8%8F%AF%E8%A3%94%E5%A5%B3%E6%8B%89%E6%96%AF%E7%B6%AD%E5%8A%A0%E6%96%AF%E9%A8%99%E5%A9%9A%E8%87%B3%E5%B0%9114%E7%94%B7-%E8%A9%90%E5%8F%96%E9%80%BE30%E8%90%AC%E7%BE%8E%E5%85%83%E8%B3%AD%E8%B3%87",
+    "timestamp": "2026-07-12T10:41:24.748Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "世界盃2026｜英格蘭晉級杜慈照挑剔表現不佳　強調將帥依然和諧",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260712/1152769185789513728342950.jpeg/t4NB7h5eIAut8VnEZq3surIllKGCE447EYxrZyuMa2c?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60369024/%E7%89%9B%E9%A0%AD%E8%A7%92%E6%97%85%E5%B7%B4%E9%81%87%E6%AD%BB%E8%BB%8A%E7%85%9E%E5%81%9C-%E9%81%AD%E5%BE%8C%E6%96%B9%E7%B4%85van%E6%94%B6%E6%8E%A3%E4%B8%8D%E5%8F%8A%E7%8C%9B%E6%92%9E-8%E4%BA%BA%E5%8F%97%E5%82%B7",
     "timestamp": "2026-07-11T16:38:41.450Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "功夫女足｜製作花絮曝光 星爺與舞蹈天團Avantgardey驚喜共舞",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260712/1152764869112500224103498.png/nuoePjxF1B00f9OoNqufJave7XnX53Mt1pPuPdaT7j0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60369026/%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3-%E8%A3%BD%E4%BD%9C%E8%8A%B1%E7%B5%AE%E6%9B%9D%E5%85%89-%E6%98%9F%E7%88%BA%E8%88%87%E8%88%9E%E8%B9%88%E5%A4%A9%E5%9C%98avantgardey%E9%A9%9A%E5%96%9C%E5%85%B1%E8%88%9E",
-    "timestamp": "2026-07-11T16:11:10.661Z",
     "strategy": ".content-card__main"
   }
 ];
