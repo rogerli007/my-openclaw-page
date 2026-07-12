@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-12T21:24:47.899Z
+// Last updated: 2026-07-12T21:53:24.764Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "屯門越野電單車男疑失平衡墮2米斜坡　昏迷送院惜不治",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260610/1141177862695424000520768.jpeg/zoftAonpUDFsI1JmMmnZajgsEsPfqkO-pPsMQZ77DEE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60369217/%E5%B1%AF%E9%96%80%E8%B6%8A%E9%87%8E%E9%9B%BB%E5%96%AE%E8%BB%8A%E7%94%B7%E7%96%91%E5%A4%B1%E5%B9%B3%E8%A1%A1%E5%A2%AE2%E7%B1%B3%E6%96%9C%E5%9D%A1-%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2%E6%83%9C%E4%B8%8D%E6%B2%BB",
+    "timestamp": "2026-07-12T21:53:24.764Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "泰國曼谷酒吧大火　至少27死63人傷　多人藏身廁所遇難",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260712/1153026329071849472957482.jpeg/Du91NsQgL3cZNq-fL8B7BdALvjsR0DvdCe9y2Anvctg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60369146/%E4%B8%96%E7%95%8C%E7%9B%832026-%E8%8B%B1%E6%A0%BC%E8%98%AD%E6%99%89%E7%B4%9A%E6%9D%9C%E6%85%88%E7%85%A7%E6%8C%91%E5%89%94%E8%A1%A8%E7%8F%BE%E4%B8%8D%E4%BD%B3-%E5%BC%B7%E8%AA%BF%E5%B0%87%E5%B8%A5%E4%BE%9D%E7%84%B6%E5%92%8C%E8%AB%A7",
     "timestamp": "2026-07-12T10:02:43.707Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "奧米加9功效護心穩血糖　營養師推4優質來源苦茶油勝橄欖油+3食法",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260710/1152329725587230720381267.jpeg/OaNzEmHLsqu_citkGvODafYndDXXk3tihvgWeYb4Fnk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60362591/%E5%A5%A7%E7%B1%B3%E5%8A%A09%E5%8A%9F%E6%95%88%E8%AD%B7%E5%BF%83%E7%A9%A9%E8%A1%80%E7%B3%96-%E7%87%9F%E9%A4%8A%E5%B8%AB%E6%8E%A84%E5%84%AA%E8%B3%AA%E4%BE%86%E6%BA%90%E8%8B%A6%E8%8C%B6%E6%B2%B9%E5%8B%9D%E6%A9%84%E6%AC%96%E6%B2%B9-3%E9%A3%9F%E6%B3%95",
-    "timestamp": "2026-07-12T09:17:17.145Z",
     "strategy": ".content-card__main"
   }
 ];
