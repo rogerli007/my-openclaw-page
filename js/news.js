@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-12T23:53:31.227Z
+// Last updated: 2026-07-13T00:52:13.338Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "旺角唐樓雜物起火冒煙　消防到場救熄　6男2女自行疏散",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260713/1153235829854834688576901.jpeg/L8FAB0PjmBL5KfQlAP_fAU2MRSum5m0YPN0WrxbdFq8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60369221/%E6%97%BA%E8%A7%92%E5%94%90%E6%A8%93%E9%9B%9C%E7%89%A9%E8%B5%B7%E7%81%AB%E5%86%92%E7%85%99-%E6%B6%88%E9%98%B2%E5%88%B0%E5%A0%B4%E6%95%91%E7%86%84-6%E7%94%B72%E5%A5%B3%E8%87%AA%E8%A1%8C%E7%96%8F%E6%95%A3",
+    "timestamp": "2026-07-13T00:52:13.338Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "智利汽車撞入露天市集　至少造成6死7傷",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260712/1153019065304879104519748.png/o-cbMILN7fpm3SQhaSIBGEvtg4Rx8Ux0Gh2_VRodv1U?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60369142/%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3-19%E6%AD%B2%E6%98%9F%E5%A5%B3%E9%83%8E%E9%9B%AA%E9%87%8E%E8%B5%B7%E5%BA%95-%E4%BE%86%E6%B8%AF%E6%97%85%E9%81%8A%E8%A2%AB%E7%99%BC%E6%8E%98-%E5%91%A8%E6%98%9F%E9%A6%B3%E8%A6%AA%E8%87%AA%E9%9D%A2%E8%A9%A6",
     "timestamp": "2026-07-12T12:39:20.807Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "愛回家丨「三太」樊亦敏現逆齡港姐光芒　接龍繼承人鬥個你死我活",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260712/1152960637945516032912673.png/JhXyl5hbAdfzjPxmYqzdfUSapzxDeYgNWkqwyVpKsMk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60369093/%E6%84%9B%E5%9B%9E%E5%AE%B6--%E4%B8%89%E5%A4%AA-%E6%A8%8A%E4%BA%A6%E6%95%8F%E7%8F%BE%E9%80%86%E9%BD%A1%E6%B8%AF%E5%A7%90%E5%85%89%E8%8A%92-%E6%8E%A5%E9%BE%8D%E7%B9%BC%E6%89%BF%E4%BA%BA%E9%AC%A5%E5%80%8B%E4%BD%A0%E6%AD%BB%E6%88%91%E6%B4%BB",
-    "timestamp": "2026-07-12T12:10:41.189Z",
     "strategy": ".content-card__main"
   }
 ];
