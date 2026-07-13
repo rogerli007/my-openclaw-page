@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-13T00:52:13.338Z
+// Last updated: 2026-07-13T02:45:49.163Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "狗隻入食肆輿情兩極4日20投訴　食環署袁旭健：初期須適應是預期",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260712/1153077222911774720483207.jpeg/QTyPtU7GeJNfJwtzGvHTVWL0PKI9lO8IXlyMgXtcjIE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60369253/%E7%8B%97%E9%9A%BB%E5%85%A5%E9%A3%9F%E8%82%86%E8%BC%BF%E6%83%85%E5%85%A9%E6%A5%B54%E6%97%A520%E6%8A%95%E8%A8%B4-%E9%A3%9F%E7%92%B0%E7%BD%B2%E8%A2%81%E6%97%AD%E5%81%A5-%E5%88%9D%E6%9C%9F%E9%A0%88%E9%81%A9%E6%87%89%E6%98%AF%E9%A0%90%E6%9C%9F",
+    "timestamp": "2026-07-13T02:45:49.163Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "旺角唐樓雜物起火冒煙　消防到場救熄　6男2女自行疏散",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260419/1122542595386380288260853.jpeg/6B48eX2jfV9b0svdYswUvG2S82wZcHPGp4jdj6eI3Y8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60369190/%E4%B8%AD%E7%92%B0%E7%94%B7%E5%AD%90%E6%8D%B1%E5%B7%B4%E5%A3%AB%E6%92%9E%E9%A0%AD%E9%83%A8%E9%87%8D%E5%89%B5-%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2%E6%90%B6%E6%95%91",
     "timestamp": "2026-07-12T13:16:58.457Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "功夫女足｜19歲星女郎雪野起底　來港旅遊被發掘　周星馳親自面試",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260712/1153019065304879104519748.png/o-cbMILN7fpm3SQhaSIBGEvtg4Rx8Ux0Gh2_VRodv1U?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60369142/%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3-19%E6%AD%B2%E6%98%9F%E5%A5%B3%E9%83%8E%E9%9B%AA%E9%87%8E%E8%B5%B7%E5%BA%95-%E4%BE%86%E6%B8%AF%E6%97%85%E9%81%8A%E8%A2%AB%E7%99%BC%E6%8E%98-%E5%91%A8%E6%98%9F%E9%A6%B3%E8%A6%AA%E8%87%AA%E9%9D%A2%E8%A9%A6",
-    "timestamp": "2026-07-12T12:39:20.807Z",
     "strategy": ".content-card__main"
   }
 ];
