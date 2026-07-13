@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-13T22:10:17.597Z
+// Last updated: 2026-07-13T23:12:01.221Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "DSE放榜｜一個出身基層、一個有多項SEN　同獲劍橋大學有條件取錄",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260713/1153461576527777792281654.jpeg/oL6rPylu5HjBwpPtepKCD6Kp1Z3LNQXPGXd5yxl3ecs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60369579/dse%E6%94%BE%E6%A6%9C-%E4%B8%80%E5%80%8B%E5%87%BA%E8%BA%AB%E5%9F%BA%E5%B1%A4-%E4%B8%80%E5%80%8B%E6%9C%89%E5%A4%9A%E9%A0%85sen-%E5%90%8C%E7%8D%B2%E5%8A%8D%E6%A9%8B%E5%A4%A7%E5%AD%B8%E6%9C%89%E6%A2%9D%E4%BB%B6%E5%8F%96%E9%8C%84",
+    "timestamp": "2026-07-13T23:12:01.221Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "不婚女星爆料豪門荒謬內幕　行一夫多棲制生仔越多好：家產分得多",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260713/1153235829854834688576901.jpeg/L8FAB0PjmBL5KfQlAP_fAU2MRSum5m0YPN0WrxbdFq8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60369221/%E6%97%BA%E8%A7%92%E5%94%90%E6%A8%93%E9%9B%9C%E7%89%A9%E8%B5%B7%E7%81%AB%E5%86%92%E7%85%99-%E6%B6%88%E9%98%B2%E5%88%B0%E5%A0%B4%E6%95%91%E7%86%84-6%E7%94%B72%E5%A5%B3%E8%87%AA%E8%A1%8C%E7%96%8F%E6%95%A3",
     "timestamp": "2026-07-13T00:52:13.338Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "智利汽車撞入露天市集　至少造成6死7傷",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260713/1153229426926817280615703.png/8JOJpvZD5wfcFY94pCWhm1t9wQih_w-RTCxAa0wsQGs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60369220/%E6%99%BA%E5%88%A9%E6%B1%BD%E8%BB%8A%E6%92%9E%E5%85%A5%E9%9C%B2%E5%A4%A9%E5%B8%82%E9%9B%86-%E8%87%B3%E5%B0%91%E9%80%A0%E6%88%906%E6%AD%BB7%E5%82%B7",
-    "timestamp": "2026-07-12T23:53:31.227Z",
     "strategy": ".content-card__main"
   }
 ];
