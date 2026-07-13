@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-13T18:16:01.756Z
+// Last updated: 2026-07-13T18:54:53.562Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美軍：美東時間14日下午4時起　恢復對伊朗海上封鎖",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20230918/780555067106267136648931.jpeg/rFRgI---1LBcIpZUWshNyYgGdbkLUYhJ8eBZX_HgWV8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60369595/%E7%BE%8E%E8%BB%8D-%E7%BE%8E%E6%9D%B1%E6%99%82%E9%96%9314%E6%97%A5%E4%B8%8B%E5%8D%884%E6%99%82%E8%B5%B7-%E6%81%A2%E5%BE%A9%E5%B0%8D%E4%BC%8A%E6%9C%97%E6%B5%B7%E4%B8%8A%E5%B0%81%E9%8E%96",
+    "timestamp": "2026-07-13T18:54:53.562Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美軍公開無人艇打擊伊朗畫面　稱首次用於軍事行動",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260713/1153198521273290752021374.jpeg/-IHgqTVIgA2Mas7bdZ5BLeS80TwFRNuXF_KoOhfyqDo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60369215/%E6%B3%B0%E5%9C%8B%E6%9B%BC%E8%B0%B7%E9%85%92%E5%90%A7%E5%A4%A7%E7%81%AB-%E8%87%B3%E5%B0%9127%E6%AD%BB63%E4%BA%BA%E5%82%B7-%E5%A4%9A%E4%BA%BA%E8%97%8F%E8%BA%AB%E5%BB%81%E6%89%80%E9%81%87%E9%9B%A3",
     "timestamp": "2026-07-12T21:24:47.899Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "泰國曼谷酒吧大火　至少27死10多人傷　部份藏身廁所遇難",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260713/1153198521273290752021374.jpeg/-IHgqTVIgA2Mas7bdZ5BLeS80TwFRNuXF_KoOhfyqDo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60369215/%E6%B3%B0%E5%9C%8B%E6%9B%BC%E8%B0%B7%E9%85%92%E5%90%A7%E5%A4%A7%E7%81%AB-%E8%87%B3%E5%B0%9127%E6%AD%BB10%E5%A4%9A%E4%BA%BA%E5%82%B7-%E9%83%A8%E4%BB%BD%E8%97%8F%E8%BA%AB%E5%BB%81%E6%89%80%E9%81%87%E9%9B%A3",
-    "timestamp": "2026-07-12T20:59:47.786Z",
     "strategy": ".content-card__main"
   }
 ];
