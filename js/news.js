@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-13T17:35:12.278Z
+// Last updated: 2026-07-13T18:16:01.756Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美軍公開無人艇打擊伊朗畫面　稱首次用於軍事行動",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260714/1153512467096145920175984.png/O_3kS6dDjfR0ze4TH1LAF95g0PqlqLCX3fcFGN33BRg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60369594/%E7%BE%8E%E8%BB%8D%E5%85%AC%E9%96%8B%E7%84%A1%E4%BA%BA%E8%89%87%E6%89%93%E6%93%8A%E4%BC%8A%E6%9C%97%E7%95%AB%E9%9D%A2-%E7%A8%B1%E9%A6%96%E6%AC%A1%E7%94%A8%E6%96%BC%E8%BB%8D%E4%BA%8B%E8%A1%8C%E5%8B%95",
+    "timestamp": "2026-07-13T18:16:01.756Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "深水埗搗非法釣魚機賭場　拘3人檢煙彈、小量懷疑可卡因",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260713/1153198521273290752021374.jpeg/-IHgqTVIgA2Mas7bdZ5BLeS80TwFRNuXF_KoOhfyqDo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60369215/%E6%B3%B0%E5%9C%8B%E6%9B%BC%E8%B0%B7%E9%85%92%E5%90%A7%E5%A4%A7%E7%81%AB-%E8%87%B3%E5%B0%9127%E6%AD%BB10%E5%A4%9A%E4%BA%BA%E5%82%B7-%E9%83%A8%E4%BB%BD%E8%97%8F%E8%BA%AB%E5%BB%81%E6%89%80%E9%81%87%E9%9B%A3",
     "timestamp": "2026-07-12T20:59:47.786Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "靜脈曲張拖10年不看醫生！老翁腿部藏40厘米巨型血栓　脫落恐致命",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260709/1151958575401144320745102.png/yg_IKvmIbFCzYhB9rlkN3LiFPYAoYkdR2LYs7Ni2LOw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60365861/%E9%9D%9C%E8%84%88%E6%9B%B2%E5%BC%B5%E6%8B%9610%E5%B9%B4%E4%B8%8D%E7%9C%8B%E9%86%AB%E7%94%9F-%E8%80%81%E7%BF%81%E8%85%BF%E9%83%A8%E8%97%8F40%E5%8E%98%E7%B1%B3%E5%B7%A8%E5%9E%8B%E8%A1%80%E6%A0%93-%E8%84%AB%E8%90%BD%E6%81%90%E8%87%B4%E5%91%BD",
-    "timestamp": "2026-07-12T20:34:36.063Z",
     "strategy": ".content-card__main"
   }
 ];
