@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-13T11:43:03.952Z
+// Last updated: 2026-07-13T12:42:50.748Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "狗隻入食肆｜大家樂圍方店押後一周生效　樂悠居分店2小時無見狗",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260713/1153390732480876544120453.jpeg/txn8Ci0VA8-1E2H3G2V8FHKAUqAObNWWD2DTWSpg01k?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60369503/%E7%8B%97%E9%9A%BB%E5%85%A5%E9%A3%9F%E8%82%86-%E5%A4%A7%E5%AE%B6%E6%A8%82%E5%9C%8D%E6%96%B9%E5%BA%97%E6%8A%BC%E5%BE%8C%E4%B8%80%E5%91%A8%E7%94%9F%E6%95%88-%E6%A8%82%E6%82%A0%E5%B1%85%E5%88%86%E5%BA%972%E5%B0%8F%E6%99%82%E7%84%A1%E8%A6%8B%E7%8B%97",
+    "timestamp": "2026-07-13T12:42:50.748Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "初次約會選拉麵店遭女生抱怨「怪不得單身」　心理師揭示反感原因",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260712/1153090629094346752513890.jpeg/4KAGLRChehy9pH1c4sBgUDBP4CGrCI6ttRg2nbUYNp0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60369186/%E4%B8%96%E7%9B%83%E5%85%A8%E5%9F%8E%E8%B5%B7%E5%8B%95-%E7%8B%82%E7%89%9B%E7%84%A1%E6%87%BC%E9%AB%98%E7%9B%A7%E9%9B%84%E9%9B%9E-%E7%B4%B0-%E6%8A%97%E5%88%B0%E5%BA%95",
     "timestamp": "2026-07-12T18:11:04.765Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "詹天文麥花臣首開個唱落苦功練出完美身形　梁釗峰現身掀高潮",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260713/1153142969948180480897152.jpeg/Piu6ssYlwc_iSeC1Z96_iSJRascBppC3BHMEogRzBKI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60369208/%E8%A9%B9%E5%A4%A9%E6%96%87%E9%BA%A5%E8%8A%B1%E8%87%A3%E9%A6%96%E9%96%8B%E5%80%8B%E5%94%B1%E8%90%BD%E8%8B%A6%E5%8A%9F%E7%B7%B4%E5%87%BA%E5%AE%8C%E7%BE%8E%E8%BA%AB%E5%BD%A2-%E6%A2%81%E9%87%97%E5%B3%B0%E7%8F%BE%E8%BA%AB%E6%8E%80%E9%AB%98%E6%BD%AE",
-    "timestamp": "2026-07-12T17:42:02.632Z",
     "strategy": ".content-card__main"
   }
 ];
