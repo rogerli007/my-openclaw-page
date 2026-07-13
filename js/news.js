@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-13T14:45:20.035Z
+// Last updated: 2026-07-13T15:45:38.596Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "施可瑩逝世｜滕麗名曾力勸求醫　悲痛憶述最後語音：好心酸",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260713/1153446781334327296092157.jpeg/DKO9kjIihGJUJePFkmhzjviJp3mjAV03rVcnCZdXJwk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60369573/%E6%96%BD%E5%8F%AF%E7%91%A9%E9%80%9D%E4%B8%96-%E6%BB%95%E9%BA%97%E5%90%8D%E6%9B%BE%E5%8A%9B%E5%8B%B8%E6%B1%82%E9%86%AB-%E6%82%B2%E7%97%9B%E6%86%B6%E8%BF%B0%E6%9C%80%E5%BE%8C%E8%AA%9E%E9%9F%B3-%E5%A5%BD%E5%BF%83%E9%85%B8",
+    "timestamp": "2026-07-13T15:45:38.596Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "東張西望｜將軍澳小學疑爆欺凌　男童被老師發狂怒吼校方不認",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260712/1153090629094346752513890.jpeg/4KAGLRChehy9pH1c4sBgUDBP4CGrCI6ttRg2nbUYNp0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60369186/%E4%B8%96%E7%9B%83%E5%85%A8%E5%9F%8E%E8%B5%B7%E5%8B%95-%E7%8B%82%E7%89%9B%E7%84%A1%E6%87%BC%E9%AB%98%E7%9B%A7%E9%9B%84%E9%9B%9E-%E7%B4%B0-%E6%8A%97%E5%88%B0%E5%BA%95",
     "timestamp": "2026-07-12T19:14:35.055Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "世盃全城起動｜狂牛無懼高盧雄雞　「細」抗到底",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260712/1153090629094346752513890.jpeg/4KAGLRChehy9pH1c4sBgUDBP4CGrCI6ttRg2nbUYNp0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60369186/%E4%B8%96%E7%9B%83%E5%85%A8%E5%9F%8E%E8%B5%B7%E5%8B%95-%E7%8B%82%E7%89%9B%E7%84%A1%E6%87%BC%E9%AB%98%E7%9B%A7%E9%9B%84%E9%9B%9E-%E7%B4%B0-%E6%8A%97%E5%88%B0%E5%BA%95",
-    "timestamp": "2026-07-12T18:39:14.438Z",
     "strategy": ".content-card__main"
   }
 ];
