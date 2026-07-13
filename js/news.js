@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-13T16:44:28.641Z
+// Last updated: 2026-07-13T17:35:12.278Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "深水埗搗非法釣魚機賭場　拘3人檢煙彈、小量懷疑可卡因",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260714/1153501501415493632871095.png/FWlfPwfRLv2bqHXpwqdZJAMfEl7DF_K5d2f5tXdn-bU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60369593/%E6%B7%B1%E6%B0%B4%E5%9F%97%E6%90%97%E9%9D%9E%E6%B3%95%E9%87%A3%E9%AD%9A%E6%A9%9F%E8%B3%AD%E5%A0%B4-%E6%8B%983%E4%BA%BA%E6%AA%A2%E7%85%99%E5%BD%88-%E5%B0%8F%E9%87%8F%E6%87%B7%E7%96%91%E5%8F%AF%E5%8D%A1%E5%9B%A0",
+    "timestamp": "2026-07-13T17:35:12.278Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "海關油麻地搗多個賣私煙攤檔　拘2男3女共檢16800支懷疑私煙",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260709/1151958575401144320745102.png/yg_IKvmIbFCzYhB9rlkN3LiFPYAoYkdR2LYs7Ni2LOw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60365861/%E9%9D%9C%E8%84%88%E6%9B%B2%E5%BC%B5%E6%8B%9610%E5%B9%B4%E4%B8%8D%E7%9C%8B%E9%86%AB%E7%94%9F-%E8%80%81%E7%BF%81%E8%85%BF%E9%83%A8%E8%97%8F40%E5%8E%98%E7%B1%B3%E5%B7%A8%E5%9E%8B%E8%A1%80%E6%A0%93-%E8%84%AB%E8%90%BD%E6%81%90%E8%87%B4%E5%91%BD",
     "timestamp": "2026-07-12T20:34:36.063Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "靜脈曲張拖10年不看醫生！老翁腿部藏40厘米巨型血栓　脫落恐致命",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260709/1151958575401144320745102.png/yg_IKvmIbFCzYhB9rlkN3LiFPYAoYkdR2LYs7Ni2LOw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60365861/%E9%9D%9C%E8%84%88%E6%9B%B2%E5%BC%B5%E6%8B%9610%E5%B9%B4%E4%B8%8D%E7%9C%8B%E9%86%AB%E7%94%9F-%E8%80%81%E7%BF%81%E8%85%BF%E9%83%A8%E8%97%8F40%E5%8E%98%E7%B1%B3%E5%B7%A8%E5%9E%8B%E8%A1%80%E6%A0%93-%E8%84%AB%E8%90%BD%E6%81%90%E8%87%B4%E5%91%BD",
-    "timestamp": "2026-07-12T19:44:49.417Z",
     "strategy": ".content-card__main"
   }
 ];
