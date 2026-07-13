@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-13T02:45:49.163Z
+// Last updated: 2026-07-13T04:07:50.095Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "FRANCK MULLER為港澳推出限量鑲鑽腕錶 CINTRÉE CURVEX 2502 QZ",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260710/1152324536444653568948370.jpeg/OupStEcgq5LsEt2Eg7Hh9hbBJEwwf87LIhnldSIZ5XU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E4%B8%80%E7%89%A9/60366402/franck-muller%E7%82%BA%E6%B8%AF%E6%BE%B3%E6%8E%A8%E5%87%BA%E9%99%90%E9%87%8F%E9%91%B2%E9%91%BD%E8%85%95%E9%8C%B6-cintr%C3%A9e-curvex-2502-qz",
+    "timestamp": "2026-07-13T04:07:50.095Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "狗隻入食肆輿情兩極4日20投訴　食環署袁旭健：初期須適應是預期",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260627/1147416586064236544284903.jpeg/8HWmDiKncuai10zwMfFVgdNTWeWtqjFE1nAPgdZwD4E?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60369197/%E4%BC%8A%E6%9C%97%E5%86%8D%E5%AE%A3%E5%B8%83%E5%B0%81%E9%8E%96%E9%9C%8D%E7%88%BE%E6%9C%A8%E8%8C%B2%E6%B5%B7%E5%B3%BD-%E7%BE%8E%E8%BB%8D%E6%96%A5%E4%B8%8D%E5%AF%A6-%E6%BA%96%E5%82%99%E5%A5%BD%E7%A2%BA%E4%BF%9D%E9%80%9A%E8%88%AA",
     "timestamp": "2026-07-12T13:56:22.492Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "中環男子捱巴士撞頭部重創　昏迷送院搶救",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260419/1122542595386380288260853.jpeg/6B48eX2jfV9b0svdYswUvG2S82wZcHPGp4jdj6eI3Y8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60369190/%E4%B8%AD%E7%92%B0%E7%94%B7%E5%AD%90%E6%8D%B1%E5%B7%B4%E5%A3%AB%E6%92%9E%E9%A0%AD%E9%83%A8%E9%87%8D%E5%89%B5-%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2%E6%90%B6%E6%95%91",
-    "timestamp": "2026-07-12T13:16:58.457Z",
     "strategy": ".content-card__main"
   }
 ];
