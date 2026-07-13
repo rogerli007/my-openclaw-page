@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-13T21:38:47.771Z
+// Last updated: 2026-07-13T22:10:17.597Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "不婚女星爆料豪門荒謬內幕　行一夫多棲制生仔越多好：家產分得多",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260713/1153447840018599936780534.jpeg/NjuJwpvARRSRi9xAxOgLYj9mQutLHV6IgKDSv4Cg0r8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60369537/%E6%A5%8A%E7%8E%89%E6%A2%85%E7%88%86%E6%96%99%E8%B1%AA%E9%96%80%E8%8D%92%E8%AC%AC%E5%85%A7%E5%B9%95-%E8%A1%8C%E4%B8%80%E5%A4%AB%E5%A4%9A%E6%A3%B2%E5%88%B6%E7%94%9F%E4%BB%94%E8%B6%8A%E5%A4%9A%E5%A5%BD-%E5%AE%B6%E7%94%A2%E5%88%86%E5%BE%97%E5%A4%9A",
+    "timestamp": "2026-07-13T22:10:17.597Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "特朗普稱這兩天將猛烈打擊伊朗　美媒：已通知國會戰事重啟",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260713/1153229426926817280615703.png/8JOJpvZD5wfcFY94pCWhm1t9wQih_w-RTCxAa0wsQGs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60369220/%E6%99%BA%E5%88%A9%E6%B1%BD%E8%BB%8A%E6%92%9E%E5%85%A5%E9%9C%B2%E5%A4%A9%E5%B8%82%E9%9B%86-%E8%87%B3%E5%B0%91%E9%80%A0%E6%88%906%E6%AD%BB7%E5%82%B7",
     "timestamp": "2026-07-12T23:53:31.227Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "中國外交部亞洲司：日方涉南海仲裁案言行惡劣　已提出嚴正交涉",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20220618/614950336469143552231574.jpeg/KCBnLIw7JD7SvGNYEIhco9fnuAJ87Abu-X4Q-vl-EPo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60369213/%E4%B8%AD%E5%9C%8B%E5%A4%96%E4%BA%A4%E9%83%A8%E4%BA%9E%E6%B4%B2%E5%8F%B8-%E6%97%A5%E6%96%B9%E6%B6%89%E5%8D%97%E6%B5%B7%E4%BB%B2%E8%A3%81%E6%A1%88%E8%A8%80%E8%A1%8C%E6%83%A1%E5%8A%A3-%E5%B7%B2%E6%8F%90%E5%87%BA%E5%9A%B4%E6%AD%A3%E4%BA%A4%E6%B6%89",
-    "timestamp": "2026-07-12T23:26:24.344Z",
     "strategy": ".content-card__main"
   }
 ];
