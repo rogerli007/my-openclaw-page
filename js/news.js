@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-13T15:45:38.596Z
+// Last updated: 2026-07-13T16:44:28.641Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "海關油麻地搗多個賣私煙攤檔　拘2男3女共檢16800支懷疑私煙",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260714/1153495493922263040823964.jpeg/466xWNz0Er_uc-ZJdrCVDp9O5i8nCv7zyKl1IOKpdSA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60369590/%E6%B5%B7%E9%97%9C%E6%B2%B9%E9%BA%BB%E5%9C%B0%E6%90%97%E5%A4%9A%E5%80%8B%E8%B3%A3%E7%A7%81%E7%85%99%E6%94%A4%E6%AA%94-%E6%8B%982%E7%94%B73%E5%A5%B3%E5%85%B1%E6%AA%A216800%E6%94%AF%E6%87%B7%E7%96%91%E7%A7%81%E7%85%99",
+    "timestamp": "2026-07-13T16:44:28.641Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "施可瑩逝世｜滕麗名曾力勸求醫　悲痛憶述最後語音：好心酸",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260709/1151958575401144320745102.png/yg_IKvmIbFCzYhB9rlkN3LiFPYAoYkdR2LYs7Ni2LOw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60365861/%E9%9D%9C%E8%84%88%E6%9B%B2%E5%BC%B5%E6%8B%9610%E5%B9%B4%E4%B8%8D%E7%9C%8B%E9%86%AB%E7%94%9F-%E8%80%81%E7%BF%81%E8%85%BF%E9%83%A8%E8%97%8F40%E5%8E%98%E7%B1%B3%E5%B7%A8%E5%9E%8B%E8%A1%80%E6%A0%93-%E8%84%AB%E8%90%BD%E6%81%90%E8%87%B4%E5%91%BD",
     "timestamp": "2026-07-12T19:44:49.417Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "世盃全城起動｜狂牛無懼高盧雄雞　「細」抗到底",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260712/1153090629094346752513890.jpeg/4KAGLRChehy9pH1c4sBgUDBP4CGrCI6ttRg2nbUYNp0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60369186/%E4%B8%96%E7%9B%83%E5%85%A8%E5%9F%8E%E8%B5%B7%E5%8B%95-%E7%8B%82%E7%89%9B%E7%84%A1%E6%87%BC%E9%AB%98%E7%9B%A7%E9%9B%84%E9%9B%9E-%E7%B4%B0-%E6%8A%97%E5%88%B0%E5%BA%95",
-    "timestamp": "2026-07-12T19:14:35.055Z",
     "strategy": ".content-card__main"
   }
 ];
