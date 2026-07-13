@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-13T10:33:36.188Z
+// Last updated: 2026-07-13T11:43:03.952Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "初次約會選拉麵店遭女生抱怨「怪不得單身」　心理師揭示反感原因",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260702/1149416205157666816459671.png/e5C-DWMEL-IQ-xYuCUuCPwSWXAUPzGgIhBfiq4QX4qs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%AB%87%E6%83%85%E8%AA%AA%E6%80%A7/60366071/%E5%88%9D%E6%AC%A1%E7%B4%84%E6%9C%83%E9%81%B8%E6%8B%89%E9%BA%B5%E5%BA%97%E9%81%AD%E5%A5%B3%E7%94%9F%E6%8A%B1%E6%80%A8-%E6%80%AA%E4%B8%8D%E5%BE%97%E5%96%AE%E8%BA%AB-%E5%BF%83%E7%90%86%E5%B8%AB%E6%8F%AD%E7%A4%BA%E5%8F%8D%E6%84%9F%E5%8E%9F%E5%9B%A0",
+    "timestamp": "2026-07-13T11:43:03.952Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "蒼井翔太演唱會2026香港｜門票攻略＋購票連結＋座位表",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260713/1153142969948180480897152.jpeg/Piu6ssYlwc_iSeC1Z96_iSJRascBppC3BHMEogRzBKI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60369208/%E8%A9%B9%E5%A4%A9%E6%96%87%E9%BA%A5%E8%8A%B1%E8%87%A3%E9%A6%96%E9%96%8B%E5%80%8B%E5%94%B1%E8%90%BD%E8%8B%A6%E5%8A%9F%E7%B7%B4%E5%87%BA%E5%AE%8C%E7%BE%8E%E8%BA%AB%E5%BD%A2-%E6%A2%81%E9%87%97%E5%B3%B0%E7%8F%BE%E8%BA%AB%E6%8E%80%E9%AB%98%E6%BD%AE",
     "timestamp": "2026-07-12T17:42:02.632Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "鄭秀文答謝會｜牽手許志安引回憶殺：呢啲記憶都係美好同埋重要",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260713/1153129992410894336364279.jpeg/frSVNilrnrm_BF_xWQmRM79EV-2GUExxyusMMMrrDDA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60369203/%E9%84%AD%E7%A7%80%E6%96%87%E7%AD%94%E8%AC%9D%E6%9C%83-%E7%89%BD%E6%89%8B%E8%A8%B1%E5%BF%97%E5%AE%89%E5%BC%95%E5%9B%9E%E6%86%B6%E6%AE%BA-%E5%91%A2%E5%95%B2%E8%A8%98%E6%86%B6%E9%83%BD%E4%BF%82%E7%BE%8E%E5%A5%BD%E5%90%8C%E5%9F%8B%E9%87%8D%E8%A6%81",
-    "timestamp": "2026-07-12T17:13:22.574Z",
     "strategy": ".content-card__main"
   }
 ];
