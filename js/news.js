@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-13T09:17:10.992Z
+// Last updated: 2026-07-13T10:33:36.188Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "蒼井翔太演唱會2026香港｜門票攻略＋購票連結＋座位表",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260627/1147549325463654400354290.jpeg/P2mrV-texJP-Lo9pc_j1Dqm6V7YtuDQAjzAsOI8wLDg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60364424/%E8%92%BC%E4%BA%95%E7%BF%94%E5%A4%AA%E6%BC%94%E5%94%B1%E6%9C%832026%E9%A6%99%E6%B8%AF-%E9%96%80%E7%A5%A8%E6%94%BB%E7%95%A5-%E8%B3%BC%E7%A5%A8%E9%80%A3%E7%B5%90-%E5%BA%A7%E4%BD%8D%E8%A1%A8",
+    "timestamp": "2026-07-13T10:33:36.188Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "民建聯揭私煙黨利誘DSE中學生派傳單　近六成受訪者稱私煙易買",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260713/1153129992410894336364279.jpeg/frSVNilrnrm_BF_xWQmRM79EV-2GUExxyusMMMrrDDA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60369203/%E9%84%AD%E7%A7%80%E6%96%87%E7%AD%94%E8%AC%9D%E6%9C%83-%E7%89%BD%E6%89%8B%E8%A8%B1%E5%BF%97%E5%AE%89%E5%BC%95%E5%9B%9E%E6%86%B6%E6%AE%BA-%E5%91%A2%E5%95%B2%E8%A8%98%E6%86%B6%E9%83%BD%E4%BF%82%E7%BE%8E%E5%A5%BD%E5%90%8C%E5%9F%8B%E9%87%8D%E8%A6%81",
     "timestamp": "2026-07-12T17:13:22.574Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "色迷心竅！陝西男掃色情卡片墮騙局　30小時損失¥90萬毀20年婚姻",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260710/1152327811290107904295087.png/prVpGAtzvyrmlGyup0Xwm3gJ5rsoh4hpVOZhB1TmYQc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60367945/%E8%89%B2%E8%BF%B7%E5%BF%83%E7%AB%85-%E9%99%9D%E8%A5%BF%E7%94%B7%E6%8E%83%E8%89%B2%E6%83%85%E5%8D%A1%E7%89%87%E5%A2%AE%E9%A8%99%E5%B1%80-30%E5%B0%8F%E6%99%82%E6%90%8D%E5%A4%B1-90%E8%90%AC%E6%AF%8020%E5%B9%B4%E5%A9%9A%E5%A7%BB",
-    "timestamp": "2026-07-12T15:12:20.287Z",
     "strategy": ".content-card__main"
   }
 ];
