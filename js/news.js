@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-13T18:54:53.562Z
+// Last updated: 2026-07-13T20:16:27.989Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "施南生逝世｜羅淑佩致哀　讚揚為市民留下寶貴光影回憶",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/2331592/org/4078c0b4332de6855a6ce48eda995c94.jpg/b3Mil0px1OC0yGvO65FflX2dpPDIQ9cOkR64XpEeuF4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60369596/%E6%96%BD%E5%8D%97%E7%94%9F%E9%80%9D%E4%B8%96-%E7%BE%85%E6%B7%91%E4%BD%A9%E8%87%B4%E5%93%80-%E8%AE%9A%E6%8F%9A%E7%82%BA%E5%B8%82%E6%B0%91%E7%95%99%E4%B8%8B%E5%AF%B6%E8%B2%B4%E5%85%89%E5%BD%B1%E5%9B%9E%E6%86%B6",
+    "timestamp": "2026-07-13T20:16:27.989Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美軍：美東時間14日下午4時起　恢復對伊朗海上封鎖",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260610/1141177862695424000520768.jpeg/zoftAonpUDFsI1JmMmnZajgsEsPfqkO-pPsMQZ77DEE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60369217/%E5%B1%AF%E9%96%80%E8%B6%8A%E9%87%8E%E9%9B%BB%E5%96%AE%E8%BB%8A%E7%94%B7%E7%96%91%E5%A4%B1%E5%B9%B3%E8%A1%A1%E5%A2%AE2%E7%B1%B3%E6%96%9C%E5%9D%A1-%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2%E6%83%9C%E4%B8%8D%E6%B2%BB",
     "timestamp": "2026-07-12T21:53:24.764Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "泰國曼谷酒吧大火　至少27死63人傷　多人藏身廁所遇難",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260713/1153198521273290752021374.jpeg/-IHgqTVIgA2Mas7bdZ5BLeS80TwFRNuXF_KoOhfyqDo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60369215/%E6%B3%B0%E5%9C%8B%E6%9B%BC%E8%B0%B7%E9%85%92%E5%90%A7%E5%A4%A7%E7%81%AB-%E8%87%B3%E5%B0%9127%E6%AD%BB63%E4%BA%BA%E5%82%B7-%E5%A4%9A%E4%BA%BA%E8%97%8F%E8%BA%AB%E5%BB%81%E6%89%80%E9%81%87%E9%9B%A3",
-    "timestamp": "2026-07-12T21:24:47.899Z",
     "strategy": ".content-card__main"
   }
 ];
