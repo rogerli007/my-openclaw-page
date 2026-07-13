@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-13T04:07:50.095Z
+// Last updated: 2026-07-13T06:41:16.310Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "海南宣布2030年禁售燃油車　將成內地首個推行省份",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20251224/1080327988379127808095413.jpeg/pKdzG3u_V-J-ttYBho8oCS7QHgno_KijyRx-SMkcfkg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60369345/%E6%B5%B7%E5%8D%97%E5%AE%A3%E5%B8%832030%E5%B9%B4%E7%A6%81%E5%94%AE%E7%87%83%E6%B2%B9%E8%BB%8A-%E5%B0%87%E6%88%90%E5%85%A7%E5%9C%B0%E9%A6%96%E5%80%8B%E6%8E%A8%E8%A1%8C%E7%9C%81%E4%BB%BD",
+    "timestamp": "2026-07-13T06:41:16.310Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "FRANCK MULLER為港澳推出限量鑲鑽腕錶 CINTRÉE CURVEX 2502 QZ",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260712/1153104325774807040180632.jpeg/5NQAFFiKDL--vWqJFaLG_yDcOpD_fMvPgxOkfYMTpH0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60369200/%E9%84%AD%E7%A7%80%E6%96%87%E7%AD%94%E8%AC%9D%E6%9C%83-%E5%B0%BE%E5%A0%B4%E8%A7%80%E7%9C%BE%E6%94%B6%E8%B2%A8%E8%AE%9A%E5%95%9F%E5%BE%B7%E5%A0%B4%E9%A4%A8%E9%9F%B3%E9%9F%BF%E4%BD%B3-%E7%B0%A1%E7%B4%84%E8%88%9E%E5%8F%B0%E5%B0%88%E6%B3%A8%E8%81%BD%E6%AD%8C",
     "timestamp": "2026-07-12T14:38:31.419Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "伊朗再宣布封鎖霍爾木茲海峽　美軍斥不實：準備好確保通航",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260627/1147416586064236544284903.jpeg/8HWmDiKncuai10zwMfFVgdNTWeWtqjFE1nAPgdZwD4E?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60369197/%E4%BC%8A%E6%9C%97%E5%86%8D%E5%AE%A3%E5%B8%83%E5%B0%81%E9%8E%96%E9%9C%8D%E7%88%BE%E6%9C%A8%E8%8C%B2%E6%B5%B7%E5%B3%BD-%E7%BE%8E%E8%BB%8D%E6%96%A5%E4%B8%8D%E5%AF%A6-%E6%BA%96%E5%82%99%E5%A5%BD%E7%A2%BA%E4%BF%9D%E9%80%9A%E8%88%AA",
-    "timestamp": "2026-07-12T13:56:22.492Z",
     "strategy": ".content-card__main"
   }
 ];
