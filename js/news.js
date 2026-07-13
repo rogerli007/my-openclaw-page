@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-13T20:16:27.989Z
+// Last updated: 2026-07-13T20:44:36.868Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "動漫節2026｜ACGHK門票獨家優惠+抽頭籌+Cosplay專區+活動全攻略",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260623/1146166680141959168916845.jpeg/BLGUa73GzujkEUU_us0Sog3mMZbYw9YvJYbmtyWG5rc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60357854/%E5%8B%95%E6%BC%AB%E7%AF%802026-acghk%E9%96%80%E7%A5%A8%E7%8D%A8%E5%AE%B6%E5%84%AA%E6%83%A0-%E6%8A%BD%E9%A0%AD%E7%B1%8C-cosplay%E5%B0%88%E5%8D%80-%E6%B4%BB%E5%8B%95%E5%85%A8%E6%94%BB%E7%95%A5",
+    "timestamp": "2026-07-13T20:44:36.868Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "施南生逝世｜羅淑佩致哀　讚揚為市民留下寶貴光影回憶",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260713/1153220254155935744974361.jpeg/J172dZTavsJbcw2PXNfwanX8kCKgRI18v0WHqr9Fh6o?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60369205/%E5%A4%A9%E6%B0%A3-%E4%BB%8A%E6%97%A5%E6%9C%89%E5%B9%BE%E9%99%A3%E9%A9%9F%E9%9B%A8-%E6%97%A5%E9%96%93%E9%85%B7%E7%86%B1%E7%B4%8433%E5%BA%A6-%E7%A8%8D%E5%BE%8C%E5%B1%80%E9%83%A8%E5%9C%B0%E5%8D%80%E6%9C%89%E9%9B%B7%E6%9A%B4",
     "timestamp": "2026-07-12T22:25:25.004Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "屯門越野電單車男疑失平衡墮2米斜坡　昏迷送院惜不治",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260610/1141177862695424000520768.jpeg/zoftAonpUDFsI1JmMmnZajgsEsPfqkO-pPsMQZ77DEE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60369217/%E5%B1%AF%E9%96%80%E8%B6%8A%E9%87%8E%E9%9B%BB%E5%96%AE%E8%BB%8A%E7%94%B7%E7%96%91%E5%A4%B1%E5%B9%B3%E8%A1%A1%E5%A2%AE2%E7%B1%B3%E6%96%9C%E5%9D%A1-%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2%E6%83%9C%E4%B8%8D%E6%B2%BB",
-    "timestamp": "2026-07-12T21:53:24.764Z",
     "strategy": ".content-card__main"
   }
 ];
