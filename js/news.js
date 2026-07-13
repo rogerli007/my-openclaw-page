@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-13T12:42:50.748Z
+// Last updated: 2026-07-13T14:45:20.035Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "東張西望｜將軍澳小學疑爆欺凌　男童被老師發狂怒吼校方不認",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260713/1153440677200138240250936.jpeg/Ow3RIW9qmoNX_TyQ2jl0oYvKXCZe1jE3k_Gm6ZPxpuk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60369558/%E6%9D%B1%E5%BC%B5%E8%A5%BF%E6%9C%9B-%E5%B0%87%E8%BB%8D%E6%BE%B3%E5%B0%8F%E5%AD%B8%E7%96%91%E7%88%86%E6%AC%BA%E5%87%8C-%E7%94%B7%E7%AB%A5%E8%A2%AB%E8%80%81%E5%B8%AB%E7%99%BC%E7%8B%82%E6%80%92%E5%90%BC%E6%A0%A1%E6%96%B9%E4%B8%8D%E8%AA%8D",
+    "timestamp": "2026-07-13T14:45:20.035Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "狗隻入食肆｜大家樂圍方店押後一周生效　樂悠居分店2小時無見狗",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260712/1153090629094346752513890.jpeg/4KAGLRChehy9pH1c4sBgUDBP4CGrCI6ttRg2nbUYNp0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60369186/%E4%B8%96%E7%9B%83%E5%85%A8%E5%9F%8E%E8%B5%B7%E5%8B%95-%E7%8B%82%E7%89%9B%E7%84%A1%E6%87%BC%E9%AB%98%E7%9B%A7%E9%9B%84%E9%9B%9E-%E7%B4%B0-%E6%8A%97%E5%88%B0%E5%BA%95",
     "timestamp": "2026-07-12T18:39:14.438Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "世盃全城起動｜狂牛無懼高盧雄雞　「細」抗到底",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260712/1153090629094346752513890.jpeg/4KAGLRChehy9pH1c4sBgUDBP4CGrCI6ttRg2nbUYNp0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60369186/%E4%B8%96%E7%9B%83%E5%85%A8%E5%9F%8E%E8%B5%B7%E5%8B%95-%E7%8B%82%E7%89%9B%E7%84%A1%E6%87%BC%E9%AB%98%E7%9B%A7%E9%9B%84%E9%9B%9E-%E7%B4%B0-%E6%8A%97%E5%88%B0%E5%BA%95",
-    "timestamp": "2026-07-12T18:11:04.765Z",
     "strategy": ".content-card__main"
   }
 ];
