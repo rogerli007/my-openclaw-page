@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-14T12:15:40.201Z
+// Last updated: 2026-07-14T14:16:15.094Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "歐洲10國宣布成立空中防禦聯盟　協助烏克蘭對抗俄羅斯",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260714/1153802505231011840683540.jpeg/H8mLq356c2Hy7E7SMLIC3GRMD1X8TLn2F6VNoxelTaM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60369957/%E6%AD%90%E6%B4%B210%E5%9C%8B%E5%AE%A3%E5%B8%83%E6%88%90%E7%AB%8B%E7%A9%BA%E4%B8%AD%E9%98%B2%E7%A6%A6%E8%81%AF%E7%9B%9F-%E5%8D%94%E5%8A%A9%E7%83%8F%E5%85%8B%E8%98%AD%E5%B0%8D%E6%8A%97%E4%BF%84%E7%BE%85%E6%96%AF",
+    "timestamp": "2026-07-14T14:16:15.094Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "AI泡沫論｜5年累投5.8萬億美元　高盛料大型雲服務商尋多渠道融資",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20230918/780555067106267136648931.jpeg/rFRgI---1LBcIpZUWshNyYgGdbkLUYhJ8eBZX_HgWV8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60369595/%E7%BE%8E%E8%BB%8D-%E7%BE%8E%E6%9D%B1%E6%99%82%E9%96%9314%E6%97%A5%E4%B8%8B%E5%8D%884%E6%99%82%E8%B5%B7-%E6%81%A2%E5%BE%A9%E5%B0%8D%E4%BC%8A%E6%9C%97%E6%B5%B7%E4%B8%8A%E5%B0%81%E9%8E%96",
     "timestamp": "2026-07-13T18:54:53.562Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美軍公開無人艇打擊伊朗畫面　稱首次用於軍事行動",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260714/1153512467096145920175984.png/O_3kS6dDjfR0ze4TH1LAF95g0PqlqLCX3fcFGN33BRg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60369594/%E7%BE%8E%E8%BB%8D%E5%85%AC%E9%96%8B%E7%84%A1%E4%BA%BA%E8%89%87%E6%89%93%E6%93%8A%E4%BC%8A%E6%9C%97%E7%95%AB%E9%9D%A2-%E7%A8%B1%E9%A6%96%E6%AC%A1%E7%94%A8%E6%96%BC%E8%BB%8D%E4%BA%8B%E8%A1%8C%E5%8B%95",
-    "timestamp": "2026-07-13T18:16:01.756Z",
     "strategy": ".content-card__main"
   }
 ];
