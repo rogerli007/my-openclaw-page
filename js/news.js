@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-14T10:58:10.692Z
+// Last updated: 2026-07-14T11:38:05.242Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "解放軍新疆建美軍驅逐艦等比例模型　美媒：為台海衝突做準備",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20200831/377141053972680704.jpeg/mxJnxEJqUhb7JteclBSeQaK2H593enUZxUNlzsVDZc4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60369930/%E8%A7%A3%E6%94%BE%E8%BB%8D%E6%96%B0%E7%96%86%E5%BB%BA%E7%BE%8E%E8%BB%8D%E9%A9%85%E9%80%90%E8%89%A6%E7%AD%89%E6%AF%94%E4%BE%8B%E6%A8%A1%E5%9E%8B-%E7%BE%8E%E5%AA%92-%E7%82%BA%E5%8F%B0%E6%B5%B7%E8%A1%9D%E7%AA%81%E5%81%9A%E6%BA%96%E5%82%99",
+    "timestamp": "2026-07-14T11:38:05.242Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "新冠2026｜新冠個案激增逾5倍！8類人免費打疫苗＋預約方法＋地點",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260714/1153501501415493632871095.png/FWlfPwfRLv2bqHXpwqdZJAMfEl7DF_K5d2f5tXdn-bU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60369593/%E6%B7%B1%E6%B0%B4%E5%9F%97%E6%90%97%E9%9D%9E%E6%B3%95%E9%87%A3%E9%AD%9A%E6%A9%9F%E8%B3%AD%E5%A0%B4-%E6%8B%983%E4%BA%BA%E6%AA%A2%E7%85%99%E5%BD%88-%E5%B0%8F%E9%87%8F%E6%87%B7%E7%96%91%E5%8F%AF%E5%8D%A1%E5%9B%A0",
     "timestamp": "2026-07-13T17:35:12.278Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "海關油麻地搗多個賣私煙攤檔　拘2男3女共檢16800支懷疑私煙",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260714/1153495493922263040823964.jpeg/466xWNz0Er_uc-ZJdrCVDp9O5i8nCv7zyKl1IOKpdSA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60369590/%E6%B5%B7%E9%97%9C%E6%B2%B9%E9%BA%BB%E5%9C%B0%E6%90%97%E5%A4%9A%E5%80%8B%E8%B3%A3%E7%A7%81%E7%85%99%E6%94%A4%E6%AA%94-%E6%8B%982%E7%94%B73%E5%A5%B3%E5%85%B1%E6%AA%A216800%E6%94%AF%E6%87%B7%E7%96%91%E7%A7%81%E7%85%99",
-    "timestamp": "2026-07-13T16:44:28.641Z",
     "strategy": ".content-card__main"
   }
 ];
