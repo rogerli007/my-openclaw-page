@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-14T16:15:53.869Z
+// Last updated: 2026-07-14T17:19:42.607Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "最新天氣｜天文台：受活躍西南氣流影響　今日初時局部雨勢較大",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260705/1150489615648559104086493.jpeg/5JsHdFQDyUveRwVwAJWLw4DFhTObV6IuBVDNDR9QzQ0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60369328/%E4%B8%80%E8%99%9F%E9%A2%A8%E7%90%83-%E5%A4%A9%E6%96%87%E5%8F%B0%E6%9C%80%E6%96%B0%E6%89%93%E9%A2%A8%E6%B6%88%E6%81%AF-%E4%BB%8A%E5%82%8D%E6%99%9A%E8%87%B3%E6%98%8E%E6%97%A9%E6%88%96%E7%99%BC%E4%B8%80%E8%99%9F%E9%A2%A8%E7%90%83",
+    "timestamp": "2026-07-14T17:19:42.607Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "跨部門灣仔掃黃　13女被捕　年紀最少16歲",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260705/1150416617469906944406327.jpeg/RlNCG2_0nAFEoRUuuHkrxaoC6xQd9DoaoJnD_KCZw_w?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60369597/%E7%89%B9%E6%9C%97%E6%99%AE%E7%A8%B1%E9%80%99%E5%85%A9%E5%A4%A9%E5%B0%87%E7%8C%9B%E7%83%88%E6%89%93%E6%93%8A%E4%BC%8A%E6%9C%97-%E7%BE%8E%E5%AA%92-%E5%B7%B2%E9%80%9A%E7%9F%A5%E5%9C%8B%E6%9C%83%E6%88%B0%E4%BA%8B%E9%87%8D%E5%95%9F",
     "timestamp": "2026-07-13T21:38:47.771Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普稱這兩天將猛烈打擊伊朗　美媒：已通知國會戰事重啟",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260705/1150416617469906944406327.jpeg/RlNCG2_0nAFEoRUuuHkrxaoC6xQd9DoaoJnD_KCZw_w?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60369597/%E7%89%B9%E6%9C%97%E6%99%AE%E7%A8%B1%E9%80%99%E5%85%A9%E5%A4%A9%E5%B0%87%E7%8C%9B%E7%83%88%E6%89%93%E6%93%8A%E4%BC%8A%E6%9C%97-%E7%BE%8E%E5%AA%92-%E5%B7%B2%E9%80%9A%E7%9F%A5%E5%9C%8B%E6%9C%83%E6%88%B0%E4%BA%8B%E9%87%8D%E5%95%9F",
-    "timestamp": "2026-07-13T21:12:33.947Z",
     "strategy": ".content-card__main"
   }
 ];
