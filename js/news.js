@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-14T06:04:41.199Z
+// Last updated: 2026-07-14T06:59:49.295Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "DSE放榜八大奇招搶人才！港大設8000萬獎學金　超級狀元或獲160萬",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260714/1153700140112941056231495.jpeg/voTKg_De7ZgcYnHFR2-oDoWMpZ3c6gAXcEn1OHBJ9Tg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%96%8B%E7%BD%90/60369617/dse%E6%94%BE%E6%A6%9C%E5%85%AB%E5%A4%A7%E5%A5%87%E6%8B%9B%E6%90%B6%E4%BA%BA%E6%89%8D-%E6%B8%AF%E5%A4%A7%E8%A8%AD8000%E8%90%AC%E7%8D%8E%E5%AD%B8%E9%87%91-%E8%B6%85%E7%B4%9A%E7%8B%80%E5%85%83%E6%88%96%E7%8D%B2160%E8%90%AC",
+    "timestamp": "2026-07-14T06:59:49.295Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "日出康城海瑅灣II擬周內上樓書及開價　提供1284伙、主打兩房",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260702/1149416205157666816459671.png/e5C-DWMEL-IQ-xYuCUuCPwSWXAUPzGgIhBfiq4QX4qs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%AB%87%E6%83%85%E8%AA%AA%E6%80%A7/60366071/%E5%88%9D%E6%AC%A1%E7%B4%84%E6%9C%83%E9%81%B8%E6%8B%89%E9%BA%B5%E5%BA%97%E9%81%AD%E5%A5%B3%E7%94%9F%E6%8A%B1%E6%80%A8-%E6%80%AA%E4%B8%8D%E5%BE%97%E5%96%AE%E8%BA%AB-%E5%BF%83%E7%90%86%E5%B8%AB%E6%8F%AD%E7%A4%BA%E5%8F%8D%E6%84%9F%E5%8E%9F%E5%9B%A0",
     "timestamp": "2026-07-13T11:43:03.952Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "蒼井翔太演唱會2026香港｜門票攻略＋購票連結＋座位表",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260627/1147549325463654400354290.jpeg/P2mrV-texJP-Lo9pc_j1Dqm6V7YtuDQAjzAsOI8wLDg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60364424/%E8%92%BC%E4%BA%95%E7%BF%94%E5%A4%AA%E6%BC%94%E5%94%B1%E6%9C%832026%E9%A6%99%E6%B8%AF-%E9%96%80%E7%A5%A8%E6%94%BB%E7%95%A5-%E8%B3%BC%E7%A5%A8%E9%80%A3%E7%B5%90-%E5%BA%A7%E4%BD%8D%E8%A1%A8",
-    "timestamp": "2026-07-13T10:33:36.188Z",
     "strategy": ".content-card__main"
   }
 ];
