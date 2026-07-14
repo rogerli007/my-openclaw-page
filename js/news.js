@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-14T02:46:09.112Z
+// Last updated: 2026-07-14T05:09:16.368Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "八達通優惠｜麥當勞咖啡買1送1/買$50減$5/港鐵過境送1程/抽Tesla",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260714/1153685541602988032095761.png/ZdRSm0S0H5fXAEZe7GIQ2xfpCmBYuOPEgvXXR4L110c?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%A3%9F%E7%8E%A9%E8%B2%B7/60369545/%E5%85%AB%E9%81%94%E9%80%9A%E5%84%AA%E6%83%A0-%E9%BA%A5%E7%95%B6%E5%8B%9E%E5%92%96%E5%95%A1%E8%B2%B71%E9%80%811-%E8%B2%B7-50%E6%B8%9B-5-%E6%B8%AF%E9%90%B5%E9%81%8E%E5%A2%83%E9%80%811%E7%A8%8B-%E6%8A%BDtesla",
+    "timestamp": "2026-07-14T05:09:16.368Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "全國港澳研究會宣講安全與發展　王振民：香港國安立法全球最溫和",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260713/1153365881682661376945781.jpeg/Hc863aTPoPY88oY3p87FbRzoC9qX6xXgQwurlEMLq5Q?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60369461/%E6%B0%91%E5%BB%BA%E8%81%AF%E6%8F%AD%E7%A7%81%E7%85%99%E9%BB%A8%E5%88%A9%E8%AA%98dse%E4%B8%AD%E5%AD%B8%E7%94%9F%E6%B4%BE%E5%82%B3%E5%96%AE-%E8%BF%91%E5%85%AD%E6%88%90%E5%8F%97%E8%A8%AA%E8%80%85%E7%A8%B1%E7%A7%81%E7%85%99%E6%98%93%E8%B2%B7",
     "timestamp": "2026-07-13T09:17:10.992Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "海南宣布2030年禁售燃油車　將成內地首個推行省份",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20251224/1080327988379127808095413.jpeg/pKdzG3u_V-J-ttYBho8oCS7QHgno_KijyRx-SMkcfkg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60369345/%E6%B5%B7%E5%8D%97%E5%AE%A3%E5%B8%832030%E5%B9%B4%E7%A6%81%E5%94%AE%E7%87%83%E6%B2%B9%E8%BB%8A-%E5%B0%87%E6%88%90%E5%85%A7%E5%9C%B0%E9%A6%96%E5%80%8B%E6%8E%A8%E8%A1%8C%E7%9C%81%E4%BB%BD",
-    "timestamp": "2026-07-13T06:41:16.310Z",
     "strategy": ".content-card__main"
   }
 ];
