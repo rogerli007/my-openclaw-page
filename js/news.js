@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-14T22:54:27.660Z
+// Last updated: 2026-07-14T23:25:56.364Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "DSE 2026狀元名單｜破紀錄24名狀元曝光　羅氏基金中學首誕狀元",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250402/984064836600205312796013.jpeg/lODawS5LLWOTbvEJjuDDCQ_hAP2mwYnC9oq2y_aKtss?v=w1920r16_9",
+    "url": "https://www.hk01.com/DSE%E5%B0%88%E5%8D%80/60369815/dse%E6%94%BE%E6%A6%9C2026-%E7%8B%80%E5%85%83%E5%90%8D%E5%96%AE-%E7%8B%80%E5%85%83%E8%88%87%E8%B6%85%E7%B4%9A%E7%8B%80%E5%85%83%E6%9B%9D%E5%85%89-%E7%8B%80%E5%85%83%E5%AD%B8%E6%A0%A1%E9%80%90%E9%96%93%E6%95%B8",
+    "timestamp": "2026-07-14T23:25:56.364Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "黃日華喪妻六年終走出陰霾　宣布「復出」低頭哽咽：學懂放下接受",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260714/1153712264969195520563879.jpeg/-yGx1znEhG7FENYCyMCVsWE4wh1KMcEwIduN2iHbjdo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60369777/%E5%BE%A9%E4%BB%87%E7%9A%84%E4%BA%BA-%E8%8C%83%E9%BA%92%E6%99%BA%E6%BC%94%E6%B8%A3%E7%94%B7-%E6%B8%A3%E6%99%92-%E5%A5%B3%E8%A7%92-%E9%BB%83%E6%98%8E%E5%BE%B7-%E4%BF%82%E5%BD%A2%E5%AE%B9%E8%A9%9E%E5%AE%9A%E5%8B%95%E8%A9%9E",
     "timestamp": "2026-07-14T08:37:01.632Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "DSE放榜八大奇招搶人才！港大設8000萬獎學金　超級狀元或獲160萬",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260714/1153700140112941056231495.jpeg/voTKg_De7ZgcYnHFR2-oDoWMpZ3c6gAXcEn1OHBJ9Tg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%96%8B%E7%BD%90/60369617/dse%E6%94%BE%E6%A6%9C%E5%85%AB%E5%A4%A7%E5%A5%87%E6%8B%9B%E6%90%B6%E4%BA%BA%E6%89%8D-%E6%B8%AF%E5%A4%A7%E8%A8%AD8000%E8%90%AC%E7%8D%8E%E5%AD%B8%E9%87%91-%E8%B6%85%E7%B4%9A%E7%8B%80%E5%85%83%E6%88%96%E7%8D%B2160%E8%90%AC",
-    "timestamp": "2026-07-14T06:59:49.295Z",
     "strategy": ".content-card__main"
   }
 ];
