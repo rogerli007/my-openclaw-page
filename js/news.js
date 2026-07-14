@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-14T11:38:05.242Z
+// Last updated: 2026-07-14T12:15:40.201Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "AI泡沫論｜5年累投5.8萬億美元　高盛料大型雲服務商尋多渠道融資",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260521/1134190836527927296785142.jpeg/TctLqM8E1-PONff-mpbxHT4YF3e8a7Xq1ywtbtcsLW4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60369936/ai%E6%B3%A1%E6%B2%AB%E8%AB%96-5%E5%B9%B4%E7%B4%AF%E6%8A%955-8%E8%90%AC%E5%84%84%E7%BE%8E%E5%85%83-%E9%AB%98%E7%9B%9B%E6%96%99%E5%A4%A7%E5%9E%8B%E9%9B%B2%E6%9C%8D%E5%8B%99%E5%95%86%E5%B0%8B%E5%A4%9A%E6%B8%A0%E9%81%93%E8%9E%8D%E8%B3%87",
+    "timestamp": "2026-07-14T12:15:40.201Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "解放軍新疆建美軍驅逐艦等比例模型　美媒：為台海衝突做準備",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260714/1153512467096145920175984.png/O_3kS6dDjfR0ze4TH1LAF95g0PqlqLCX3fcFGN33BRg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60369594/%E7%BE%8E%E8%BB%8D%E5%85%AC%E9%96%8B%E7%84%A1%E4%BA%BA%E8%89%87%E6%89%93%E6%93%8A%E4%BC%8A%E6%9C%97%E7%95%AB%E9%9D%A2-%E7%A8%B1%E9%A6%96%E6%AC%A1%E7%94%A8%E6%96%BC%E8%BB%8D%E4%BA%8B%E8%A1%8C%E5%8B%95",
     "timestamp": "2026-07-13T18:16:01.756Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "深水埗搗非法釣魚機賭場　拘3人檢煙彈、小量懷疑可卡因",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260714/1153501501415493632871095.png/FWlfPwfRLv2bqHXpwqdZJAMfEl7DF_K5d2f5tXdn-bU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60369593/%E6%B7%B1%E6%B0%B4%E5%9F%97%E6%90%97%E9%9D%9E%E6%B3%95%E9%87%A3%E9%AD%9A%E6%A9%9F%E8%B3%AD%E5%A0%B4-%E6%8B%983%E4%BA%BA%E6%AA%A2%E7%85%99%E5%BD%88-%E5%B0%8F%E9%87%8F%E6%87%B7%E7%96%91%E5%8F%AF%E5%8D%A1%E5%9B%A0",
-    "timestamp": "2026-07-13T17:35:12.278Z",
     "strategy": ".content-card__main"
   }
 ];
