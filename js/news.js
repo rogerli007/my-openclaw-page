@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-14T00:10:05.628Z
+// Last updated: 2026-07-14T01:43:59.644Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "復仇的人｜劉青雲嫌電子劇本冇文字味　周家怡椎間盤裂開嘆難修復",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260714/1153600956953268224825974.jpeg/ohIRzdNIWgn47c9fDuNgug1Qsdk0rYpAmrFcFZqxXBU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60369601/%E5%BE%A9%E4%BB%87%E7%9A%84%E4%BA%BA-%E5%8A%89%E9%9D%92%E9%9B%B2%E5%AB%8C%E9%9B%BB%E5%AD%90%E5%8A%87%E6%9C%AC%E5%86%87%E6%96%87%E5%AD%97%E5%91%B3-%E5%91%A8%E5%AE%B6%E6%80%A1%E6%A4%8E%E9%96%93%E7%9B%A4%E8%A3%82%E9%96%8B%E5%98%86%E9%9B%A3%E4%BF%AE%E5%BE%A9",
+    "timestamp": "2026-07-14T01:43:59.644Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "好事多磨！加州等12州總檢察長　起訴阻止派拉蒙與華納天價交易",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260710/1152324536444653568948370.jpeg/OupStEcgq5LsEt2Eg7Hh9hbBJEwwf87LIhnldSIZ5XU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E4%B8%80%E7%89%A9/60366402/franck-muller%E7%82%BA%E6%B8%AF%E6%BE%B3%E6%8E%A8%E5%87%BA%E9%99%90%E9%87%8F%E9%91%B2%E9%91%BD%E8%85%95%E9%8C%B6-cintr%C3%A9e-curvex-2502-qz",
     "timestamp": "2026-07-13T04:07:50.095Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "狗隻入食肆輿情兩極4日20投訴　食環署袁旭健：初期須適應是預期",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260712/1153077222911774720483207.jpeg/QTyPtU7GeJNfJwtzGvHTVWL0PKI9lO8IXlyMgXtcjIE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60369253/%E7%8B%97%E9%9A%BB%E5%85%A5%E9%A3%9F%E8%82%86%E8%BC%BF%E6%83%85%E5%85%A9%E6%A5%B54%E6%97%A520%E6%8A%95%E8%A8%B4-%E9%A3%9F%E7%92%B0%E7%BD%B2%E8%A2%81%E6%97%AD%E5%81%A5-%E5%88%9D%E6%9C%9F%E9%A0%88%E9%81%A9%E6%87%89%E6%98%AF%E9%A0%90%E6%9C%9F",
-    "timestamp": "2026-07-13T02:45:49.163Z",
     "strategy": ".content-card__main"
   }
 ];
