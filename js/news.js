@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-14T23:25:56.364Z
+// Last updated: 2026-07-14T23:57:03.666Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "世界盃4強英格蘭對阿根廷直播連結｜季軍戰／決賽ViuTV免費直播",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260712/1152951178254880768273510.jpeg/B-s-qcKtlNWq7tD_AfRK-eFiG1wmx6uZTscOdU7HDnU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60346468/%E4%B8%96%E7%95%8C%E7%9B%834%E5%BC%B7%E8%8B%B1%E6%A0%BC%E8%98%AD%E5%B0%8D%E9%98%BF%E6%A0%B9%E5%BB%B7%E7%9B%B4%E6%92%AD%E9%80%A3%E7%B5%90-%E5%AD%A3%E8%BB%8D%E6%88%B0-%E6%B1%BA%E8%B3%BDviutv%E5%85%8D%E8%B2%BB%E7%9B%B4%E6%92%AD",
+    "timestamp": "2026-07-14T23:57:03.666Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "DSE 2026狀元名單｜破紀錄24名狀元曝光　羅氏基金中學首誕狀元",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260714/1153724961274204160294756.jpeg/qpNMpBVSfLL4p29Vf057NM2c_ln3QcQQoUTfEaFE3xE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%96%8B%E7%BD%90/60369788/%E9%A1%9B%E8%A6%86%E8%AA%8D%E7%9F%A5-%E6%97%A5%E6%B8%85%E6%8E%A8%E5%87%BA%E5%8F%B2%E4%B8%8A%E9%A6%96%E6%AC%BE-%E5%86%B7%E6%9D%AF%E9%BA%B5-%E6%B5%B85%E5%88%86%E9%90%98%E9%A3%9F%E5%BE%97%E7%86%B1%E6%B0%B4%E6%B7%A5%E5%8F%8D%E5%8D%B1%E9%9A%AA",
     "timestamp": "2026-07-14T09:30:00.720Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "復仇的人｜范麒智演渣男「渣晒」女角　黃明德：係形容詞定動詞？",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260714/1153712264969195520563879.jpeg/-yGx1znEhG7FENYCyMCVsWE4wh1KMcEwIduN2iHbjdo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60369777/%E5%BE%A9%E4%BB%87%E7%9A%84%E4%BA%BA-%E8%8C%83%E9%BA%92%E6%99%BA%E6%BC%94%E6%B8%A3%E7%94%B7-%E6%B8%A3%E6%99%92-%E5%A5%B3%E8%A7%92-%E9%BB%83%E6%98%8E%E5%BE%B7-%E4%BF%82%E5%BD%A2%E5%AE%B9%E8%A9%9E%E5%AE%9A%E5%8B%95%E8%A9%9E",
-    "timestamp": "2026-07-14T08:37:01.632Z",
     "strategy": ".content-card__main"
   }
 ];
