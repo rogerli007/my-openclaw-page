@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-14T17:19:42.607Z
+// Last updated: 2026-07-14T17:50:30.127Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "Meta遭26前員工起訴　被指利用AI裁員　不公平針對病假、殘疾員工",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20230314/712455773149466624947185.jpeg/SagyB7ZOOEh1Q_7mOIZ5YooG9Ahq1ftwpM8qgqTPKoI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60369990/meta%E9%81%AD26%E5%89%8D%E5%93%A1%E5%B7%A5%E8%B5%B7%E8%A8%B4-%E8%A2%AB%E6%8C%87%E5%88%A9%E7%94%A8ai%E8%A3%81%E5%93%A1-%E4%B8%8D%E5%85%AC%E5%B9%B3%E9%87%9D%E5%B0%8D%E7%97%85%E5%81%87-%E6%AE%98%E7%96%BE%E5%93%A1%E5%B7%A5",
+    "timestamp": "2026-07-14T17:50:30.127Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "最新天氣｜天文台：受活躍西南氣流影響　今日初時局部雨勢較大",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260713/1153447840018599936780534.jpeg/NjuJwpvARRSRi9xAxOgLYj9mQutLHV6IgKDSv4Cg0r8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60369537/%E6%A5%8A%E7%8E%89%E6%A2%85%E7%88%86%E6%96%99%E8%B1%AA%E9%96%80%E8%8D%92%E8%AC%AC%E5%85%A7%E5%B9%95-%E8%A1%8C%E4%B8%80%E5%A4%AB%E5%A4%9A%E6%A3%B2%E5%88%B6%E7%94%9F%E4%BB%94%E8%B6%8A%E5%A4%9A%E5%A5%BD-%E5%AE%B6%E7%94%A2%E5%88%86%E5%BE%97%E5%A4%9A",
     "timestamp": "2026-07-13T22:10:17.597Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普稱這兩天將猛烈打擊伊朗　美媒：已通知國會戰事重啟",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260705/1150416617469906944406327.jpeg/RlNCG2_0nAFEoRUuuHkrxaoC6xQd9DoaoJnD_KCZw_w?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60369597/%E7%89%B9%E6%9C%97%E6%99%AE%E7%A8%B1%E9%80%99%E5%85%A9%E5%A4%A9%E5%B0%87%E7%8C%9B%E7%83%88%E6%89%93%E6%93%8A%E4%BC%8A%E6%9C%97-%E7%BE%8E%E5%AA%92-%E5%B7%B2%E9%80%9A%E7%9F%A5%E5%9C%8B%E6%9C%83%E6%88%B0%E4%BA%8B%E9%87%8D%E5%95%9F",
-    "timestamp": "2026-07-13T21:38:47.771Z",
     "strategy": ".content-card__main"
   }
 ];
