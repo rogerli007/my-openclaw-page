@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-14T21:55:35.837Z
+// Last updated: 2026-07-14T22:29:17.450Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "DSE放榜日天氣｜天文台提示：今日初時部份地區雨勢較大",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260714/1153587680425021440973618.jpeg/OjmqXJyKIOmXkGAdmyXjrjjw0zeUUgsIoXQvf6F0L38?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60369989/dse%E6%94%BE%E6%A6%9C%E6%97%A5%E5%A4%A9%E6%B0%A3-%E5%A4%A9%E6%96%87%E5%8F%B0%E6%8F%90%E7%A4%BA-%E4%BB%8A%E6%97%A5%E5%88%9D%E6%99%82%E9%83%A8%E4%BB%BD%E5%9C%B0%E5%8D%80%E9%9B%A8%E5%8B%A2%E8%BC%83%E5%A4%A7",
+    "timestamp": "2026-07-14T22:29:17.450Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "土瓜灣8煞闖車房持武器「掃場」　有人高呼：X你老X　警追緝歹徒",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260714/1153695642376212480032187.jpeg/nqqYAxh1yQ5ltkFmeGQ7lW_CbFhAkb4P0gw3IdIMNyE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60369760/%E6%97%A5%E5%87%BA%E5%BA%B7%E5%9F%8E%E6%B5%B7%E7%91%85%E7%81%A3ii%E6%93%AC%E5%91%A8%E5%85%A7%E4%B8%8A%E6%A8%93%E6%9B%B8%E5%8F%8A%E9%96%8B%E5%83%B9-%E6%8F%90%E4%BE%9B1284%E4%BC%99-%E4%B8%BB%E6%89%93%E5%85%A9%E6%88%BF",
     "timestamp": "2026-07-14T06:04:41.199Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "八達通優惠｜麥當勞咖啡買1送1/買$50減$5/港鐵過境送1程/抽Tesla",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260714/1153685541602988032095761.png/ZdRSm0S0H5fXAEZe7GIQ2xfpCmBYuOPEgvXXR4L110c?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%A3%9F%E7%8E%A9%E8%B2%B7/60369545/%E5%85%AB%E9%81%94%E9%80%9A%E5%84%AA%E6%83%A0-%E9%BA%A5%E7%95%B6%E5%8B%9E%E5%92%96%E5%95%A1%E8%B2%B71%E9%80%811-%E8%B2%B7-50%E6%B8%9B-5-%E6%B8%AF%E9%90%B5%E9%81%8E%E5%A2%83%E9%80%811%E7%A8%8B-%E6%8A%BDtesla",
-    "timestamp": "2026-07-14T05:09:16.368Z",
     "strategy": ".content-card__main"
   }
 ];
