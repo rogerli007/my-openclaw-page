@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-14T06:59:49.295Z
+// Last updated: 2026-07-14T08:37:01.632Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "復仇的人｜范麒智演渣男「渣晒」女角　黃明德：係形容詞定動詞？",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260714/1153712264969195520563879.jpeg/-yGx1znEhG7FENYCyMCVsWE4wh1KMcEwIduN2iHbjdo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60369777/%E5%BE%A9%E4%BB%87%E7%9A%84%E4%BA%BA-%E8%8C%83%E9%BA%92%E6%99%BA%E6%BC%94%E6%B8%A3%E7%94%B7-%E6%B8%A3%E6%99%92-%E5%A5%B3%E8%A7%92-%E9%BB%83%E6%98%8E%E5%BE%B7-%E4%BF%82%E5%BD%A2%E5%AE%B9%E8%A9%9E%E5%AE%9A%E5%8B%95%E8%A9%9E",
+    "timestamp": "2026-07-14T08:37:01.632Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "DSE放榜八大奇招搶人才！港大設8000萬獎學金　超級狀元或獲160萬",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260713/1153390732480876544120453.jpeg/txn8Ci0VA8-1E2H3G2V8FHKAUqAObNWWD2DTWSpg01k?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60369503/%E7%8B%97%E9%9A%BB%E5%85%A5%E9%A3%9F%E8%82%86-%E5%A4%A7%E5%AE%B6%E6%A8%82%E5%9C%8D%E6%96%B9%E5%BA%97%E6%8A%BC%E5%BE%8C%E4%B8%80%E5%91%A8%E7%94%9F%E6%95%88-%E6%A8%82%E6%82%A0%E5%B1%85%E5%88%86%E5%BA%972%E5%B0%8F%E6%99%82%E7%84%A1%E8%A6%8B%E7%8B%97",
     "timestamp": "2026-07-13T12:42:50.748Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "初次約會選拉麵店遭女生抱怨「怪不得單身」　心理師揭示反感原因",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260702/1149416205157666816459671.png/e5C-DWMEL-IQ-xYuCUuCPwSWXAUPzGgIhBfiq4QX4qs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%AB%87%E6%83%85%E8%AA%AA%E6%80%A7/60366071/%E5%88%9D%E6%AC%A1%E7%B4%84%E6%9C%83%E9%81%B8%E6%8B%89%E9%BA%B5%E5%BA%97%E9%81%AD%E5%A5%B3%E7%94%9F%E6%8A%B1%E6%80%A8-%E6%80%AA%E4%B8%8D%E5%BE%97%E5%96%AE%E8%BA%AB-%E5%BF%83%E7%90%86%E5%B8%AB%E6%8F%AD%E7%A4%BA%E5%8F%8D%E6%84%9F%E5%8E%9F%E5%9B%A0",
-    "timestamp": "2026-07-13T11:43:03.952Z",
     "strategy": ".content-card__main"
   }
 ];
