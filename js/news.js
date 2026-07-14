@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-14T10:15:52.443Z
+// Last updated: 2026-07-14T10:58:10.692Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "新冠2026｜新冠個案激增逾5倍！8類人免費打疫苗＋預約方法＋地點",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260714/1153752439376056320592847.jpeg/218YuhmnsvB161n48B4C_WiyEOEiEQYF1QJ4q9UCeKs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%A3%9F%E7%8E%A9%E8%B2%B7/60368239/%E6%96%B0%E5%86%A02026-%E6%96%B0%E5%86%A0%E5%80%8B%E6%A1%88%E6%BF%80%E5%A2%9E%E9%80%BE5%E5%80%8D-8%E9%A1%9E%E4%BA%BA%E5%85%8D%E8%B2%BB%E6%89%93%E7%96%AB%E8%8B%97-%E9%A0%90%E7%B4%84%E6%96%B9%E6%B3%95-%E5%9C%B0%E9%BB%9E",
+    "timestamp": "2026-07-14T10:58:10.692Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "玉置成實Nami Tamaki演唱會2026香港｜門票攻略+購票連結+座位表",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260714/1153495493922263040823964.jpeg/466xWNz0Er_uc-ZJdrCVDp9O5i8nCv7zyKl1IOKpdSA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60369590/%E6%B5%B7%E9%97%9C%E6%B2%B9%E9%BA%BB%E5%9C%B0%E6%90%97%E5%A4%9A%E5%80%8B%E8%B3%A3%E7%A7%81%E7%85%99%E6%94%A4%E6%AA%94-%E6%8B%982%E7%94%B73%E5%A5%B3%E5%85%B1%E6%AA%A216800%E6%94%AF%E6%87%B7%E7%96%91%E7%A7%81%E7%85%99",
     "timestamp": "2026-07-13T16:44:28.641Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "施可瑩逝世｜滕麗名曾力勸求醫　悲痛憶述最後語音：好心酸",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260713/1153446781334327296092157.jpeg/DKO9kjIihGJUJePFkmhzjviJp3mjAV03rVcnCZdXJwk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60369573/%E6%96%BD%E5%8F%AF%E7%91%A9%E9%80%9D%E4%B8%96-%E6%BB%95%E9%BA%97%E5%90%8D%E6%9B%BE%E5%8A%9B%E5%8B%B8%E6%B1%82%E9%86%AB-%E6%82%B2%E7%97%9B%E6%86%B6%E8%BF%B0%E6%9C%80%E5%BE%8C%E8%AA%9E%E9%9F%B3-%E5%A5%BD%E5%BF%83%E9%85%B8",
-    "timestamp": "2026-07-13T15:45:38.596Z",
     "strategy": ".content-card__main"
   }
 ];
