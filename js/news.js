@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-14T17:50:30.127Z
+// Last updated: 2026-07-14T18:17:21.869Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "世界盃2026｜法國西班牙力爭首個決賽席位　麥巴比正選鬥耶馬",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260715/1153878116448342016059827.png/qwMoc6raJuwTBiRaF5Kxl7-_HosO_4OYVNvEdVTbxHU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60369982/%E4%B8%96%E7%95%8C%E7%9B%832026-%E6%B3%95%E5%9C%8B%E8%A5%BF%E7%8F%AD%E7%89%99%E5%8A%9B%E7%88%AD%E9%A6%96%E5%80%8B%E6%B1%BA%E8%B3%BD%E5%B8%AD%E4%BD%8D-%E9%BA%A5%E5%B7%B4%E6%AF%94%E6%AD%A3%E9%81%B8%E9%AC%A5%E8%80%B6%E9%A6%AC",
+    "timestamp": "2026-07-14T18:17:21.869Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "Meta遭26前員工起訴　被指利用AI裁員　不公平針對病假、殘疾員工",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260713/1153461576527777792281654.jpeg/oL6rPylu5HjBwpPtepKCD6Kp1Z3LNQXPGXd5yxl3ecs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60369579/dse%E6%94%BE%E6%A6%9C-%E4%B8%80%E5%80%8B%E5%87%BA%E8%BA%AB%E5%9F%BA%E5%B1%A4-%E4%B8%80%E5%80%8B%E6%9C%89%E5%A4%9A%E9%A0%85sen-%E5%90%8C%E7%8D%B2%E5%8A%8D%E6%A9%8B%E5%A4%A7%E5%AD%B8%E6%9C%89%E6%A2%9D%E4%BB%B6%E5%8F%96%E9%8C%84",
     "timestamp": "2026-07-13T23:12:01.221Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "不婚女星爆料豪門荒謬內幕　行一夫多棲制生仔越多好：家產分得多",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260713/1153447840018599936780534.jpeg/NjuJwpvARRSRi9xAxOgLYj9mQutLHV6IgKDSv4Cg0r8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60369537/%E6%A5%8A%E7%8E%89%E6%A2%85%E7%88%86%E6%96%99%E8%B1%AA%E9%96%80%E8%8D%92%E8%AC%AC%E5%85%A7%E5%B9%95-%E8%A1%8C%E4%B8%80%E5%A4%AB%E5%A4%9A%E6%A3%B2%E5%88%B6%E7%94%9F%E4%BB%94%E8%B6%8A%E5%A4%9A%E5%A5%BD-%E5%AE%B6%E7%94%A2%E5%88%86%E5%BE%97%E5%A4%9A",
-    "timestamp": "2026-07-13T22:10:17.597Z",
     "strategy": ".content-card__main"
   }
 ];
