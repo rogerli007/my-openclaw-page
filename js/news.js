@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-14T09:30:00.720Z
+// Last updated: 2026-07-14T10:15:52.443Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "玉置成實Nami Tamaki演唱會2026香港｜門票攻略+購票連結+座位表",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260714/1153656426980184064102563.jpeg/oLRZckWVPPGaEihClO9YWvMcD1vr95Rs9SkQB_UpEAc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60369666/%E7%8E%89%E7%BD%AE%E6%88%90%E5%AF%A6nami-tamaki%E6%BC%94%E5%94%B1%E6%9C%832026%E9%A6%99%E6%B8%AF-%E9%96%80%E7%A5%A8%E6%94%BB%E7%95%A5-%E8%B3%BC%E7%A5%A8%E9%80%A3%E7%B5%90-%E5%BA%A7%E4%BD%8D%E8%A1%A8",
+    "timestamp": "2026-07-14T10:15:52.443Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "顛覆認知！日清推出史上首款「冷杯麵」浸5分鐘食得熱水淥反危險",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260713/1153446781334327296092157.jpeg/DKO9kjIihGJUJePFkmhzjviJp3mjAV03rVcnCZdXJwk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60369573/%E6%96%BD%E5%8F%AF%E7%91%A9%E9%80%9D%E4%B8%96-%E6%BB%95%E9%BA%97%E5%90%8D%E6%9B%BE%E5%8A%9B%E5%8B%B8%E6%B1%82%E9%86%AB-%E6%82%B2%E7%97%9B%E6%86%B6%E8%BF%B0%E6%9C%80%E5%BE%8C%E8%AA%9E%E9%9F%B3-%E5%A5%BD%E5%BF%83%E9%85%B8",
     "timestamp": "2026-07-13T15:45:38.596Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "東張西望｜將軍澳小學疑爆欺凌　男童被老師發狂怒吼校方不認",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260713/1153440677200138240250936.jpeg/Ow3RIW9qmoNX_TyQ2jl0oYvKXCZe1jE3k_Gm6ZPxpuk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60369558/%E6%9D%B1%E5%BC%B5%E8%A5%BF%E6%9C%9B-%E5%B0%87%E8%BB%8D%E6%BE%B3%E5%B0%8F%E5%AD%B8%E7%96%91%E7%88%86%E6%AC%BA%E5%87%8C-%E7%94%B7%E7%AB%A5%E8%A2%AB%E8%80%81%E5%B8%AB%E7%99%BC%E7%8B%82%E6%80%92%E5%90%BC%E6%A0%A1%E6%96%B9%E4%B8%8D%E8%AA%8D",
-    "timestamp": "2026-07-13T14:45:20.035Z",
     "strategy": ".content-card__main"
   }
 ];
