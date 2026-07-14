@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-14T01:43:59.644Z
+// Last updated: 2026-07-14T02:46:09.112Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "全國港澳研究會宣講安全與發展　王振民：香港國安立法全球最溫和",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260714/1153647197573615616078194.jpeg/uqdwwp_2xlvUaegOmF8gGixHJjDHjSiVFK0RMhStETI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60369657/%E5%85%A8%E5%9C%8B%E6%B8%AF%E6%BE%B3%E7%A0%94%E7%A9%B6%E6%9C%83%E5%AE%A3%E8%AC%9B%E5%AE%89%E5%85%A8%E8%88%87%E7%99%BC%E5%B1%95-%E7%8E%8B%E6%8C%AF%E6%B0%91-%E9%A6%99%E6%B8%AF%E5%9C%8B%E5%AE%89%E7%AB%8B%E6%B3%95%E5%85%A8%E7%90%83%E6%9C%80%E6%BA%AB%E5%92%8C",
+    "timestamp": "2026-07-14T02:46:09.112Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "復仇的人｜劉青雲嫌電子劇本冇文字味　周家怡椎間盤裂開嘆難修復",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20251224/1080327988379127808095413.jpeg/pKdzG3u_V-J-ttYBho8oCS7QHgno_KijyRx-SMkcfkg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60369345/%E6%B5%B7%E5%8D%97%E5%AE%A3%E5%B8%832030%E5%B9%B4%E7%A6%81%E5%94%AE%E7%87%83%E6%B2%B9%E8%BB%8A-%E5%B0%87%E6%88%90%E5%85%A7%E5%9C%B0%E9%A6%96%E5%80%8B%E6%8E%A8%E8%A1%8C%E7%9C%81%E4%BB%BD",
     "timestamp": "2026-07-13T06:41:16.310Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "FRANCK MULLER為港澳推出限量鑲鑽腕錶 CINTRÉE CURVEX 2502 QZ",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260710/1152324536444653568948370.jpeg/OupStEcgq5LsEt2Eg7Hh9hbBJEwwf87LIhnldSIZ5XU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E4%B8%80%E7%89%A9/60366402/franck-muller%E7%82%BA%E6%B8%AF%E6%BE%B3%E6%8E%A8%E5%87%BA%E9%99%90%E9%87%8F%E9%91%B2%E9%91%BD%E8%85%95%E9%8C%B6-cintr%C3%A9e-curvex-2502-qz",
-    "timestamp": "2026-07-13T04:07:50.095Z",
     "strategy": ".content-card__main"
   }
 ];
