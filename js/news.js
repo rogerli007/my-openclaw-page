@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-13T23:12:01.221Z
+// Last updated: 2026-07-14T00:10:05.628Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "好事多磨！加州等12州總檢察長　起訴阻止派拉蒙與華納天價交易",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20251209/1075115941966123008037489.jpeg/p8QXIR3LUOHJqrywjJaZgdETOSXS7i2_SuJOTkriTk4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60369604/%E5%A5%BD%E4%BA%8B%E5%A4%9A%E7%A3%A8-%E5%8A%A0%E5%B7%9E%E7%AD%8912%E5%B7%9E%E7%B8%BD%E6%AA%A2%E5%AF%9F%E9%95%B7-%E8%B5%B7%E8%A8%B4%E9%98%BB%E6%AD%A2%E6%B4%BE%E6%8B%89%E8%92%99%E8%88%87%E8%8F%AF%E7%B4%8D%E5%A4%A9%E5%83%B9%E4%BA%A4%E6%98%93",
+    "timestamp": "2026-07-14T00:10:05.628Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "DSE放榜｜一個出身基層、一個有多項SEN　同獲劍橋大學有條件取錄",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260712/1153077222911774720483207.jpeg/QTyPtU7GeJNfJwtzGvHTVWL0PKI9lO8IXlyMgXtcjIE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60369253/%E7%8B%97%E9%9A%BB%E5%85%A5%E9%A3%9F%E8%82%86%E8%BC%BF%E6%83%85%E5%85%A9%E6%A5%B54%E6%97%A520%E6%8A%95%E8%A8%B4-%E9%A3%9F%E7%92%B0%E7%BD%B2%E8%A2%81%E6%97%AD%E5%81%A5-%E5%88%9D%E6%9C%9F%E9%A0%88%E9%81%A9%E6%87%89%E6%98%AF%E9%A0%90%E6%9C%9F",
     "timestamp": "2026-07-13T02:45:49.163Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "旺角唐樓雜物起火冒煙　消防到場救熄　6男2女自行疏散",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260713/1153235829854834688576901.jpeg/L8FAB0PjmBL5KfQlAP_fAU2MRSum5m0YPN0WrxbdFq8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60369221/%E6%97%BA%E8%A7%92%E5%94%90%E6%A8%93%E9%9B%9C%E7%89%A9%E8%B5%B7%E7%81%AB%E5%86%92%E7%85%99-%E6%B6%88%E9%98%B2%E5%88%B0%E5%A0%B4%E6%95%91%E7%86%84-6%E7%94%B72%E5%A5%B3%E8%87%AA%E8%A1%8C%E7%96%8F%E6%95%A3",
-    "timestamp": "2026-07-13T00:52:13.338Z",
     "strategy": ".content-card__main"
   }
 ];
