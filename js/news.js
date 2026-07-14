@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-14T20:59:39.012Z
+// Last updated: 2026-07-14T21:30:31.254Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美軍：恢復海上封鎖伊朗及新一輪空襲　中東部署逾20艦及數百軍機",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260715/1153929681150414848869301.jpeg/_FVeINAvpPpBcNu70PSCTLv7YX2MSfg6lIN__5SDf_8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60369998/%E7%BE%8E%E8%BB%8D-%E6%81%A2%E5%BE%A9%E6%B5%B7%E4%B8%8A%E5%B0%81%E9%8E%96%E4%BC%8A%E6%9C%97%E5%8F%8A%E6%96%B0%E4%B8%80%E8%BC%AA%E7%A9%BA%E8%A5%B2-%E4%B8%AD%E6%9D%B1%E9%83%A8%E7%BD%B2%E9%80%BE20%E8%89%A6%E5%8F%8A%E6%95%B8%E7%99%BE%E8%BB%8D%E6%A9%9F",
+    "timestamp": "2026-07-14T21:30:31.254Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "比利時布魯塞爾一興建中大樓發生火災　6人被困電梯遇難",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260714/1153647197573615616078194.jpeg/uqdwwp_2xlvUaegOmF8gGixHJjDHjSiVFK0RMhStETI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60369657/%E5%85%A8%E5%9C%8B%E6%B8%AF%E6%BE%B3%E7%A0%94%E7%A9%B6%E6%9C%83%E5%AE%A3%E8%AC%9B%E5%AE%89%E5%85%A8%E8%88%87%E7%99%BC%E5%B1%95-%E7%8E%8B%E6%8C%AF%E6%B0%91-%E9%A6%99%E6%B8%AF%E5%9C%8B%E5%AE%89%E7%AB%8B%E6%B3%95%E5%85%A8%E7%90%83%E6%9C%80%E6%BA%AB%E5%92%8C",
     "timestamp": "2026-07-14T02:46:09.112Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "復仇的人｜劉青雲嫌電子劇本冇文字味　周家怡椎間盤裂開嘆難修復",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260714/1153600956953268224825974.jpeg/ohIRzdNIWgn47c9fDuNgug1Qsdk0rYpAmrFcFZqxXBU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60369601/%E5%BE%A9%E4%BB%87%E7%9A%84%E4%BA%BA-%E5%8A%89%E9%9D%92%E9%9B%B2%E5%AB%8C%E9%9B%BB%E5%AD%90%E5%8A%87%E6%9C%AC%E5%86%87%E6%96%87%E5%AD%97%E5%91%B3-%E5%91%A8%E5%AE%B6%E6%80%A1%E6%A4%8E%E9%96%93%E7%9B%A4%E8%A3%82%E9%96%8B%E5%98%86%E9%9B%A3%E4%BF%AE%E5%BE%A9",
-    "timestamp": "2026-07-14T01:43:59.644Z",
     "strategy": ".content-card__main"
   }
 ];
