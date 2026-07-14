@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-14T18:17:21.869Z
+// Last updated: 2026-07-14T20:33:43.002Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "瑞安航空客機乘客半身吸出窗外　妻子憶拼命救夫一刻：要死一齊死",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260715/1153906288137080832948721.jpeg/BBDs2T1ULmLw4FgKmhQJcv8USd-n2hu0AkdQcwJHUHM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60369996/%E7%91%9E%E5%AE%89%E8%88%AA%E7%A9%BA%E5%AE%A2%E6%A9%9F%E4%B9%98%E5%AE%A2%E5%8D%8A%E8%BA%AB%E5%90%B8%E5%87%BA%E7%AA%97%E5%A4%96-%E5%A6%BB%E5%AD%90%E6%86%B6%E6%8B%BC%E5%91%BD%E6%95%91%E5%A4%AB%E4%B8%80%E5%88%BB-%E8%A6%81%E6%AD%BB%E4%B8%80%E9%BD%8A%E6%AD%BB",
+    "timestamp": "2026-07-14T20:33:43.002Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "世界盃2026｜法國西班牙力爭首個決賽席位　麥巴比正選鬥耶馬",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20251209/1075115941966123008037489.jpeg/p8QXIR3LUOHJqrywjJaZgdETOSXS7i2_SuJOTkriTk4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60369604/%E5%A5%BD%E4%BA%8B%E5%A4%9A%E7%A3%A8-%E5%8A%A0%E5%B7%9E%E7%AD%8912%E5%B7%9E%E7%B8%BD%E6%AA%A2%E5%AF%9F%E9%95%B7-%E8%B5%B7%E8%A8%B4%E9%98%BB%E6%AD%A2%E6%B4%BE%E6%8B%89%E8%92%99%E8%88%87%E8%8F%AF%E7%B4%8D%E5%A4%A9%E5%83%B9%E4%BA%A4%E6%98%93",
     "timestamp": "2026-07-14T00:10:05.628Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "DSE放榜｜一個出身基層、一個有多項SEN　同獲劍橋大學有條件取錄",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260713/1153461576527777792281654.jpeg/oL6rPylu5HjBwpPtepKCD6Kp1Z3LNQXPGXd5yxl3ecs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60369579/dse%E6%94%BE%E6%A6%9C-%E4%B8%80%E5%80%8B%E5%87%BA%E8%BA%AB%E5%9F%BA%E5%B1%A4-%E4%B8%80%E5%80%8B%E6%9C%89%E5%A4%9A%E9%A0%85sen-%E5%90%8C%E7%8D%B2%E5%8A%8D%E6%A9%8B%E5%A4%A7%E5%AD%B8%E6%9C%89%E6%A2%9D%E4%BB%B6%E5%8F%96%E9%8C%84",
-    "timestamp": "2026-07-13T23:12:01.221Z",
     "strategy": ".content-card__main"
   }
 ];
