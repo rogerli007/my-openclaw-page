@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-14T21:30:31.254Z
+// Last updated: 2026-07-14T21:55:35.837Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "土瓜灣8煞闖車房持武器「掃場」　有人高呼：X你老X　警追緝歹徒",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260715/1153933360859451392513894.jpeg/IqIiToHPzqAraxUJhsRTel88bUGrtNk6sEz0nLBM9Jw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60369999/%E5%9C%9F%E7%93%9C%E7%81%A38%E7%85%9E%E9%97%96%E8%BB%8A%E6%88%BF%E6%8C%81%E6%AD%A6%E5%99%A8-%E6%8E%83%E5%A0%B4-%E6%9C%89%E4%BA%BA%E9%AB%98%E5%91%BC-x%E4%BD%A0%E8%80%81x-%E8%AD%A6%E8%BF%BD%E7%B7%9D%E6%AD%B9%E5%BE%92",
+    "timestamp": "2026-07-14T21:55:35.837Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美軍：恢復海上封鎖伊朗及新一輪空襲　中東部署逾20艦及數百軍機",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260714/1153685541602988032095761.png/ZdRSm0S0H5fXAEZe7GIQ2xfpCmBYuOPEgvXXR4L110c?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%A3%9F%E7%8E%A9%E8%B2%B7/60369545/%E5%85%AB%E9%81%94%E9%80%9A%E5%84%AA%E6%83%A0-%E9%BA%A5%E7%95%B6%E5%8B%9E%E5%92%96%E5%95%A1%E8%B2%B71%E9%80%811-%E8%B2%B7-50%E6%B8%9B-5-%E6%B8%AF%E9%90%B5%E9%81%8E%E5%A2%83%E9%80%811%E7%A8%8B-%E6%8A%BDtesla",
     "timestamp": "2026-07-14T05:09:16.368Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "全國港澳研究會宣講安全與發展　王振民：香港國安立法全球最溫和",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260714/1153647197573615616078194.jpeg/uqdwwp_2xlvUaegOmF8gGixHJjDHjSiVFK0RMhStETI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60369657/%E5%85%A8%E5%9C%8B%E6%B8%AF%E6%BE%B3%E7%A0%94%E7%A9%B6%E6%9C%83%E5%AE%A3%E8%AC%9B%E5%AE%89%E5%85%A8%E8%88%87%E7%99%BC%E5%B1%95-%E7%8E%8B%E6%8C%AF%E6%B0%91-%E9%A6%99%E6%B8%AF%E5%9C%8B%E5%AE%89%E7%AB%8B%E6%B3%95%E5%85%A8%E7%90%83%E6%9C%80%E6%BA%AB%E5%92%8C",
-    "timestamp": "2026-07-14T02:46:09.112Z",
     "strategy": ".content-card__main"
   }
 ];
