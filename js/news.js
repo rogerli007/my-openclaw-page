@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-14T22:29:17.450Z
+// Last updated: 2026-07-14T22:54:27.660Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "黃日華喪妻六年終走出陰霾　宣布「復出」低頭哽咽：學懂放下接受",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260714/1153778655109844992716482.jpeg/B07GylGsXCBQBjsu3Z4Bq6nKPjHdOGUNJjTFtyY0xbc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60369905/%E9%BB%83%E6%97%A5%E8%8F%AF%E5%96%AA%E5%A6%BB%E5%85%AD%E5%B9%B4%E7%B5%82%E8%B5%B0%E5%87%BA%E9%99%B0%E9%9C%BE-%E5%AE%A3%E5%B8%83-%E5%BE%A9%E5%87%BA-%E4%BD%8E%E9%A0%AD%E5%93%BD%E5%92%BD-%E5%AD%B8%E6%87%82%E6%94%BE%E4%B8%8B%E6%8E%A5%E5%8F%97",
+    "timestamp": "2026-07-14T22:54:27.660Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "DSE放榜日天氣｜天文台提示：今日初時部份地區雨勢較大",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260714/1153700140112941056231495.jpeg/voTKg_De7ZgcYnHFR2-oDoWMpZ3c6gAXcEn1OHBJ9Tg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%96%8B%E7%BD%90/60369617/dse%E6%94%BE%E6%A6%9C%E5%85%AB%E5%A4%A7%E5%A5%87%E6%8B%9B%E6%90%B6%E4%BA%BA%E6%89%8D-%E6%B8%AF%E5%A4%A7%E8%A8%AD8000%E8%90%AC%E7%8D%8E%E5%AD%B8%E9%87%91-%E8%B6%85%E7%B4%9A%E7%8B%80%E5%85%83%E6%88%96%E7%8D%B2160%E8%90%AC",
     "timestamp": "2026-07-14T06:59:49.295Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "日出康城海瑅灣II擬周內上樓書及開價　提供1284伙、主打兩房",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260714/1153695642376212480032187.jpeg/nqqYAxh1yQ5ltkFmeGQ7lW_CbFhAkb4P0gw3IdIMNyE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60369760/%E6%97%A5%E5%87%BA%E5%BA%B7%E5%9F%8E%E6%B5%B7%E7%91%85%E7%81%A3ii%E6%93%AC%E5%91%A8%E5%85%A7%E4%B8%8A%E6%A8%93%E6%9B%B8%E5%8F%8A%E9%96%8B%E5%83%B9-%E6%8F%90%E4%BE%9B1284%E4%BC%99-%E4%B8%BB%E6%89%93%E5%85%A9%E6%88%BF",
-    "timestamp": "2026-07-14T06:04:41.199Z",
     "strategy": ".content-card__main"
   }
 ];
