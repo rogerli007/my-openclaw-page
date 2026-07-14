@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-14T05:09:16.368Z
+// Last updated: 2026-07-14T06:04:41.199Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "日出康城海瑅灣II擬周內上樓書及開價　提供1284伙、主打兩房",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260714/1153695642376212480032187.jpeg/nqqYAxh1yQ5ltkFmeGQ7lW_CbFhAkb4P0gw3IdIMNyE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60369760/%E6%97%A5%E5%87%BA%E5%BA%B7%E5%9F%8E%E6%B5%B7%E7%91%85%E7%81%A3ii%E6%93%AC%E5%91%A8%E5%85%A7%E4%B8%8A%E6%A8%93%E6%9B%B8%E5%8F%8A%E9%96%8B%E5%83%B9-%E6%8F%90%E4%BE%9B1284%E4%BC%99-%E4%B8%BB%E6%89%93%E5%85%A9%E6%88%BF",
+    "timestamp": "2026-07-14T06:04:41.199Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "八達通優惠｜麥當勞咖啡買1送1/買$50減$5/港鐵過境送1程/抽Tesla",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260627/1147549325463654400354290.jpeg/P2mrV-texJP-Lo9pc_j1Dqm6V7YtuDQAjzAsOI8wLDg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60364424/%E8%92%BC%E4%BA%95%E7%BF%94%E5%A4%AA%E6%BC%94%E5%94%B1%E6%9C%832026%E9%A6%99%E6%B8%AF-%E9%96%80%E7%A5%A8%E6%94%BB%E7%95%A5-%E8%B3%BC%E7%A5%A8%E9%80%A3%E7%B5%90-%E5%BA%A7%E4%BD%8D%E8%A1%A8",
     "timestamp": "2026-07-13T10:33:36.188Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "民建聯揭私煙黨利誘DSE中學生派傳單　近六成受訪者稱私煙易買",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260713/1153365881682661376945781.jpeg/Hc863aTPoPY88oY3p87FbRzoC9qX6xXgQwurlEMLq5Q?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60369461/%E6%B0%91%E5%BB%BA%E8%81%AF%E6%8F%AD%E7%A7%81%E7%85%99%E9%BB%A8%E5%88%A9%E8%AA%98dse%E4%B8%AD%E5%AD%B8%E7%94%9F%E6%B4%BE%E5%82%B3%E5%96%AE-%E8%BF%91%E5%85%AD%E6%88%90%E5%8F%97%E8%A8%AA%E8%80%85%E7%A8%B1%E7%A7%81%E7%85%99%E6%98%93%E8%B2%B7",
-    "timestamp": "2026-07-13T09:17:10.992Z",
     "strategy": ".content-card__main"
   }
 ];
