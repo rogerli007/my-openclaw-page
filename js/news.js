@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-14T15:40:29.091Z
+// Last updated: 2026-07-14T16:15:53.869Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "跨部門灣仔掃黃　13女被捕　年紀最少16歲",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260715/1153853293722603520123756.jpeg/HcgvmNTaczzQGPoydGH_xsVugz1P-LGV9gco3fYHKN0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60369983/%E8%B7%A8%E9%83%A8%E9%96%80%E7%81%A3%E4%BB%94%E6%8E%83%E9%BB%83-13%E5%A5%B3%E8%A2%AB%E6%8D%95-%E5%B9%B4%E7%B4%80%E6%9C%80%E5%B0%9116%E6%AD%B2",
+    "timestamp": "2026-07-14T16:15:53.869Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "世界盃2026免費直播｜ViuTV賽程時間｜7.15法國對西班牙",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260705/1150416617469906944406327.jpeg/RlNCG2_0nAFEoRUuuHkrxaoC6xQd9DoaoJnD_KCZw_w?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60369597/%E7%89%B9%E6%9C%97%E6%99%AE%E7%A8%B1%E9%80%99%E5%85%A9%E5%A4%A9%E5%B0%87%E7%8C%9B%E7%83%88%E6%89%93%E6%93%8A%E4%BC%8A%E6%9C%97-%E7%BE%8E%E5%AA%92-%E5%B7%B2%E9%80%9A%E7%9F%A5%E5%9C%8B%E6%9C%83%E6%88%B0%E4%BA%8B%E9%87%8D%E5%95%9F",
     "timestamp": "2026-07-13T21:12:33.947Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "動漫節2026｜ACGHK門票獨家優惠+抽頭籌+Cosplay專區+活動全攻略",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260623/1146166680141959168916845.jpeg/BLGUa73GzujkEUU_us0Sog3mMZbYw9YvJYbmtyWG5rc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60357854/%E5%8B%95%E6%BC%AB%E7%AF%802026-acghk%E9%96%80%E7%A5%A8%E7%8D%A8%E5%AE%B6%E5%84%AA%E6%83%A0-%E6%8A%BD%E9%A0%AD%E7%B1%8C-cosplay%E5%B0%88%E5%8D%80-%E6%B4%BB%E5%8B%95%E5%85%A8%E6%94%BB%E7%95%A5",
-    "timestamp": "2026-07-13T20:44:36.868Z",
     "strategy": ".content-card__main"
   }
 ];
