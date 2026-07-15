@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-15T21:54:28.660Z
+// Last updated: 2026-07-15T22:28:27.044Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "世界盃2026｜美斯兩助攻救世　阿根廷保四強不敗　距衛冕只差一步",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260716/1154305447470043136860145.jpeg/qYWRhBV7j5-519sp5H28wKhLxVzxHA3iulbqjLpW6ow?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60370399/%E4%B8%96%E7%95%8C%E7%9B%832026-%E7%BE%8E%E6%96%AF%E5%85%A9%E5%8A%A9%E6%94%BB%E6%95%91%E4%B8%96-%E9%98%BF%E6%A0%B9%E5%BB%B7%E4%BF%9D%E5%9B%9B%E5%BC%B7%E4%B8%8D%E6%95%97-%E8%B7%9D%E8%A1%9B%E5%86%95%E5%8F%AA%E5%B7%AE%E4%B8%80%E6%AD%A5",
+    "timestamp": "2026-07-15T22:28:27.044Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "東張西望｜騙徒冒警請市民扮卧底偵破騙案　苦主合共被騙3千幾",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260702/1149363489370804224893764.jpeg/Xkx4nUz1hY7nfcJXoHpmyYPyRVgPveaXO6jyszuo8rM?v=w1920r16_9",
     "url": "https://www.hk01.com/DSE%E5%B0%88%E5%8D%80/908206/dse%E6%94%BE%E6%A6%9C2026-%E4%B8%83%E5%A4%A7%E6%B5%81%E7%A8%8B%E8%B3%87%E8%A8%8A-%E6%BA%96%E5%82%99%E6%96%87%E4%BB%B6%E6%B8%85%E5%96%AE%E5%8F%8Ajupas%E6%94%B9%E9%81%B8%E9%A0%88%E7%9F%A5",
     "timestamp": "2026-07-15T07:31:54.021Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "陳德森爆關錦鵬對已故好友世陳自強最後話語：你做咩對成龍咁好",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260715/1154070215122751488562793.jpeg/V_m8WOwFcdy0WN5J4pdtGVHzxP2UtwwNrpKVSZiSlUk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60370171/%E9%99%B3%E5%BE%B7%E6%A3%AE%E7%88%86%E9%97%9C%E9%8C%A6%E9%B5%AC%E5%B0%8D%E5%B7%B2%E6%95%85%E5%A5%BD%E5%8F%8B%E4%B8%96%E9%99%B3%E8%87%AA%E5%BC%B7%E6%9C%80%E5%BE%8C%E8%A9%B1%E8%AA%9E-%E4%BD%A0%E5%81%9A%E5%92%A9%E5%B0%8D%E6%88%90%E9%BE%8D%E5%92%81%E5%A5%BD",
-    "timestamp": "2026-07-15T06:35:00.132Z",
     "strategy": ".content-card__main"
   }
 ];
