@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-15T09:22:21.765Z
+// Last updated: 2026-07-15T10:18:35.567Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "書展2026｜11歲小作家受遊戲啟發　撰3萬字英文小說冀續創作之路",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260715/1154120054732754944618940.jpeg/KXj0Xpz6jDZ28Je6KZKXdWBYhuzK_W6le3-w6Xt_sOk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60370297/%E6%9B%B8%E5%B1%952026-11%E6%AD%B2%E5%B0%8F%E4%BD%9C%E5%AE%B6%E5%8F%97%E9%81%8A%E6%88%B2%E5%95%9F%E7%99%BC-%E6%92%B03%E8%90%AC%E5%AD%97%E8%8B%B1%E6%96%87%E5%B0%8F%E8%AA%AA%E5%86%80%E7%BA%8C%E5%89%B5%E4%BD%9C%E4%B9%8B%E8%B7%AF",
+    "timestamp": "2026-07-15T10:18:35.567Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美媒曝美以密謀扶植伊朗前強硬派總統　立場變色龍恐為高風險棋子",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260611/1141845280300208128965183.jpeg/XjYqBao7YKjNLMjZMvFiQ3HuxknUgegtJFbW7iRW1u4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60355406/%E4%B8%96%E7%95%8C%E7%9B%832026%E5%85%8D%E8%B2%BB%E7%9B%B4%E6%92%AD-viutv%E9%A6%99%E6%B8%AF4%E5%BC%B7-%E6%BA%96%E6%B1%BA%E8%B3%BD%E8%B3%BD%E7%A8%8B%E6%99%82%E9%96%93%E8%A1%A8-%E6%AF%8F%E6%97%A5%E6%9B%B4%E6%96%B0",
     "timestamp": "2026-07-14T15:40:29.091Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "六合彩7.16頭獎800萬｜6個最旺號碼+2招增中獎機會",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260224/1103086196533235712635274.jpeg/15-r-GaDD-4k-h-Ph-Tx4Ji_6zTwlp3kwyP_nsMj_54?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60369975/%E5%85%AD%E5%90%88%E5%BD%A97-16%E9%A0%AD%E7%8D%8E800%E8%90%AC-6%E5%80%8B%E6%9C%80%E6%97%BA%E8%99%9F%E7%A2%BC-2%E6%8B%9B%E5%A2%9E%E4%B8%AD%E7%8D%8E%E6%A9%9F%E6%9C%83",
-    "timestamp": "2026-07-14T15:01:01.478Z",
     "strategy": ".content-card__main"
   }
 ];
