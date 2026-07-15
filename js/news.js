@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-15T22:54:55.345Z
+// Last updated: 2026-07-15T23:27:36.816Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "洛杉磯豪宅槍擊案！男子疑槍殺孕妻後飲彈　剛辦完迎嬰派對後出事",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260714/1153750890239234048289067.png/7lEw70PNyMEwW3QgtXXAXPFwrM3shWTzKRBIkSkQSJE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E8%A9%B1%E9%A1%8C/60369376/%E6%B4%9B%E6%9D%89%E7%A3%AF%E8%B1%AA%E5%AE%85%E6%A7%8D%E6%93%8A%E6%A1%88-%E7%94%B7%E5%AD%90%E7%96%91%E6%A7%8D%E6%AE%BA%E5%AD%95%E5%A6%BB%E5%BE%8C%E9%A3%B2%E5%BD%88-%E5%89%9B%E8%BE%A6%E5%AE%8C%E8%BF%8E%E5%AC%B0%E6%B4%BE%E5%B0%8D%E5%BE%8C%E5%87%BA%E4%BA%8B",
+    "timestamp": "2026-07-15T23:27:36.816Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "陳詩欣高調辦奢華馬會生日派對　老公名下愛駒4戰跑包尾離奇退役",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260715/1154120054732754944618940.jpeg/KXj0Xpz6jDZ28Je6KZKXdWBYhuzK_W6le3-w6Xt_sOk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60370297/%E6%9B%B8%E5%B1%952026-11%E6%AD%B2%E5%B0%8F%E4%BD%9C%E5%AE%B6%E5%8F%97%E9%81%8A%E6%88%B2%E5%95%9F%E7%99%BC-%E6%92%B03%E8%90%AC%E5%AD%97%E8%8B%B1%E6%96%87%E5%B0%8F%E8%AA%AA%E5%86%80%E7%BA%8C%E5%89%B5%E4%BD%9C%E4%B9%8B%E8%B7%AF",
     "timestamp": "2026-07-15T10:18:35.567Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美媒曝美以密謀扶植伊朗前強硬派總統　立場變色龍恐為高風險棋子",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20240602/873997963658006528135084.jpeg/H8kYYfXevKD1qvYPkZ0ymQ8s1i1pJc2vIE0SGCBNEhg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E4%B8%96%E7%95%8C%E5%B0%88%E9%A1%8C/60370136/%E7%BE%8E%E5%AA%92%E6%9B%9D%E7%BE%8E%E4%BB%A5%E5%AF%86%E8%AC%80%E6%89%B6%E6%A4%8D%E4%BC%8A%E6%9C%97%E5%89%8D%E5%BC%B7%E7%A1%AC%E6%B4%BE%E7%B8%BD%E7%B5%B1-%E7%AB%8B%E5%A0%B4%E8%AE%8A%E8%89%B2%E9%BE%8D%E6%81%90%E7%82%BA%E9%AB%98%E9%A2%A8%E9%9A%AA%E6%A3%8B%E5%AD%90",
-    "timestamp": "2026-07-15T09:22:21.765Z",
     "strategy": ".content-card__main"
   }
 ];
