@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-15T02:05:24.328Z
+// Last updated: 2026-07-15T03:28:35.162Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "土瓜灣惡煞車房刑毀內情｜黑幫成員爭女惹禍　警油麻地賓館拘兩男",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260715/1153933360859451392513894.jpeg/IqIiToHPzqAraxUJhsRTel88bUGrtNk6sEz0nLBM9Jw",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60370058/%E5%9C%9F%E7%93%9C%E7%81%A3%E6%83%A1%E7%85%9E%E8%BB%8A%E6%88%BF%E5%88%91%E6%AF%80%E5%85%A7%E6%83%85-%E9%BB%91%E5%B9%AB%E6%88%90%E5%93%A1%E7%88%AD%E5%A5%B3%E6%83%B9%E7%A6%8D-%E8%AD%A6%E6%B2%B9%E9%BA%BB%E5%9C%B0%E8%B3%93%E9%A4%A8%E6%8B%98%E5%85%A9%E7%94%B7",
+    "timestamp": "2026-07-15T03:28:35.162Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "別讓孩子輸在不會表達　善用曼陀羅九宮格整理想法　改善語無倫次",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260714/1153752439376056320592847.jpeg/218YuhmnsvB161n48B4C_WiyEOEiEQYF1QJ4q9UCeKs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%A3%9F%E7%8E%A9%E8%B2%B7/60368239/%E6%96%B0%E5%86%A02026-%E6%96%B0%E5%86%A0%E5%80%8B%E6%A1%88%E6%BF%80%E5%A2%9E%E9%80%BE5%E5%80%8D-8%E9%A1%9E%E4%BA%BA%E5%85%8D%E8%B2%BB%E6%89%93%E7%96%AB%E8%8B%97-%E9%A0%90%E7%B4%84%E6%96%B9%E6%B3%95-%E5%9C%B0%E9%BB%9E",
     "timestamp": "2026-07-14T10:58:10.692Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "玉置成實Nami Tamaki演唱會2026香港｜門票攻略+購票連結+座位表",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260714/1153656426980184064102563.jpeg/oLRZckWVPPGaEihClO9YWvMcD1vr95Rs9SkQB_UpEAc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60369666/%E7%8E%89%E7%BD%AE%E6%88%90%E5%AF%A6nami-tamaki%E6%BC%94%E5%94%B1%E6%9C%832026%E9%A6%99%E6%B8%AF-%E9%96%80%E7%A5%A8%E6%94%BB%E7%95%A5-%E8%B3%BC%E7%A5%A8%E9%80%A3%E7%B5%90-%E5%BA%A7%E4%BD%8D%E8%A1%A8",
-    "timestamp": "2026-07-14T10:15:52.443Z",
     "strategy": ".content-card__main"
   }
 ];
