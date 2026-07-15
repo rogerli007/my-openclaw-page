@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-15T17:16:13.536Z
+// Last updated: 2026-07-15T18:19:21.688Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "西班牙與英屬直布羅陀解除陸路邊境管制　118年邊境圍欄遭拆除",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260716/1154240057603788800725804.jpeg/Z3vENW-o_VdLzQnBsOiT5CjxS1YB9fpN2-RCEtvkQhI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60370384/%E8%A5%BF%E7%8F%AD%E7%89%99%E8%88%87%E8%8B%B1%E5%B1%AC%E7%9B%B4%E5%B8%83%E7%BE%85%E9%99%80%E8%A7%A3%E9%99%A4%E9%99%B8%E8%B7%AF%E9%82%8A%E5%A2%83%E7%AE%A1%E5%88%B6-118%E5%B9%B4%E9%82%8A%E5%A2%83%E5%9C%8D%E6%AC%84%E9%81%AD%E6%8B%86%E9%99%A4",
+    "timestamp": "2026-07-15T18:19:21.688Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "陳志雲難忘被施南生指太肥 ：你咁肥即係唔夠自律點管理公司？",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260714/1153778655109844992716482.jpeg/B07GylGsXCBQBjsu3Z4Bq6nKPjHdOGUNJjTFtyY0xbc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60369905/%E9%BB%83%E6%97%A5%E8%8F%AF%E5%96%AA%E5%A6%BB%E5%85%AD%E5%B9%B4%E7%B5%82%E8%B5%B0%E5%87%BA%E9%99%B0%E9%9C%BE-%E5%AE%A3%E5%B8%83-%E5%BE%A9%E5%87%BA-%E4%BD%8E%E9%A0%AD%E5%93%BD%E5%92%BD-%E5%AD%B8%E6%87%82%E6%94%BE%E4%B8%8B%E6%8E%A5%E5%8F%97",
     "timestamp": "2026-07-14T22:54:27.660Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "DSE放榜日天氣｜天文台提示：今日初時部份地區雨勢較大",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260714/1153587680425021440973618.jpeg/OjmqXJyKIOmXkGAdmyXjrjjw0zeUUgsIoXQvf6F0L38?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60369989/dse%E6%94%BE%E6%A6%9C%E6%97%A5%E5%A4%A9%E6%B0%A3-%E5%A4%A9%E6%96%87%E5%8F%B0%E6%8F%90%E7%A4%BA-%E4%BB%8A%E6%97%A5%E5%88%9D%E6%99%82%E9%83%A8%E4%BB%BD%E5%9C%B0%E5%8D%80%E9%9B%A8%E5%8B%A2%E8%BC%83%E5%A4%A7",
-    "timestamp": "2026-07-14T22:29:17.450Z",
     "strategy": ".content-card__main"
   }
 ];
