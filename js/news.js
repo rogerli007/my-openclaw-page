@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-15T22:28:27.044Z
+// Last updated: 2026-07-15T22:54:55.345Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "陳詩欣高調辦奢華馬會生日派對　老公名下愛駒4戰跑包尾離奇退役",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260715/1154170863839350784892706.jpeg/_K2byoOt2sfqxFHV58-JUpDKVqKjkMHnDtq92A7avdg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60370205/%E9%99%B3%E8%A9%A9%E6%AC%A3%E9%AB%98%E8%AA%BF%E8%BE%A6%E5%A5%A2%E8%8F%AF%E9%A6%AC%E6%9C%83%E7%94%9F%E6%97%A5%E6%B4%BE%E5%B0%8D-%E8%80%81%E5%85%AC%E5%90%8D%E4%B8%8B%E6%84%9B%E9%A7%924%E6%88%B0%E8%B7%91%E5%8C%85%E5%B0%BE%E9%9B%A2%E5%A5%87%E9%80%80%E5%BD%B9",
+    "timestamp": "2026-07-15T22:54:55.345Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "世界盃2026｜美斯兩助攻救世　阿根廷保四強不敗　距衛冕只差一步",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20240602/873997963658006528135084.jpeg/H8kYYfXevKD1qvYPkZ0ymQ8s1i1pJc2vIE0SGCBNEhg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E4%B8%96%E7%95%8C%E5%B0%88%E9%A1%8C/60370136/%E7%BE%8E%E5%AA%92%E6%9B%9D%E7%BE%8E%E4%BB%A5%E5%AF%86%E8%AC%80%E6%89%B6%E6%A4%8D%E4%BC%8A%E6%9C%97%E5%89%8D%E5%BC%B7%E7%A1%AC%E6%B4%BE%E7%B8%BD%E7%B5%B1-%E7%AB%8B%E5%A0%B4%E8%AE%8A%E8%89%B2%E9%BE%8D%E6%81%90%E7%82%BA%E9%AB%98%E9%A2%A8%E9%9A%AA%E6%A3%8B%E5%AD%90",
     "timestamp": "2026-07-15T09:22:21.765Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "DSE放榜錦囊︱七大項資訊與重要日期　必備文件及JUPAS改選懶人包",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260702/1149363489370804224893764.jpeg/Xkx4nUz1hY7nfcJXoHpmyYPyRVgPveaXO6jyszuo8rM?v=w1920r16_9",
-    "url": "https://www.hk01.com/DSE%E5%B0%88%E5%8D%80/908206/dse%E6%94%BE%E6%A6%9C2026-%E4%B8%83%E5%A4%A7%E6%B5%81%E7%A8%8B%E8%B3%87%E8%A8%8A-%E6%BA%96%E5%82%99%E6%96%87%E4%BB%B6%E6%B8%85%E5%96%AE%E5%8F%8Ajupas%E6%94%B9%E9%81%B8%E9%A0%88%E7%9F%A5",
-    "timestamp": "2026-07-15T07:31:54.021Z",
     "strategy": ".content-card__main"
   }
 ];
