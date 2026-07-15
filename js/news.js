@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-15T19:18:10.754Z
+// Last updated: 2026-07-15T19:49:43.116Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "世界盃｜阿根廷副總統賽前轟英格蘭是入侵者：這不是一場普通比賽",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260716/1154269610053210112096218.jpeg/8hfMerz_czlW4pISf3Q65KKbNrrAqkrGjSWPf40lj38?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60370392/%E4%B8%96%E7%95%8C%E7%9B%83-%E9%98%BF%E6%A0%B9%E5%BB%B7%E5%89%AF%E7%B8%BD%E7%B5%B1%E8%B3%BD%E5%89%8D%E8%BD%9F%E8%8B%B1%E6%A0%BC%E8%98%AD%E6%98%AF%E5%85%A5%E4%BE%B5%E8%80%85-%E9%80%99%E4%B8%8D%E6%98%AF%E4%B8%80%E5%A0%B4%E6%99%AE%E9%80%9A%E6%AF%94%E8%B3%BD",
+    "timestamp": "2026-07-15T19:49:43.116Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "孩子表達力弱？言語治療師教4大間接語言刺激方法與家長常犯錯誤",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260708/1151582522048516096192704.png/MoxDaSAJ28TbjiJth9CVRyk_Jim8BKlJfYHC4giBwuI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%A6%AA%E5%AD%90/60367934/%E5%88%A5%E8%AE%93%E5%AD%A9%E5%AD%90%E8%BC%B8%E5%9C%A8%E4%B8%8D%E6%9C%83%E8%A1%A8%E9%81%94-%E5%96%84%E7%94%A8%E6%9B%BC%E9%99%80%E7%BE%85%E4%B9%9D%E5%AE%AE%E6%A0%BC%E6%95%B4%E7%90%86%E6%83%B3%E6%B3%95-%E6%94%B9%E5%96%84%E8%AA%9E%E7%84%A1%E5%80%AB%E6%AC%A1",
     "timestamp": "2026-07-15T02:05:24.328Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "世界盃4強英格蘭對阿根廷直播連結｜季軍戰／決賽ViuTV免費直播",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260712/1152951178254880768273510.jpeg/B-s-qcKtlNWq7tD_AfRK-eFiG1wmx6uZTscOdU7HDnU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60346468/%E4%B8%96%E7%95%8C%E7%9B%834%E5%BC%B7%E8%8B%B1%E6%A0%BC%E8%98%AD%E5%B0%8D%E9%98%BF%E6%A0%B9%E5%BB%B7%E7%9B%B4%E6%92%AD%E9%80%A3%E7%B5%90-%E5%AD%A3%E8%BB%8D%E6%88%B0-%E6%B1%BA%E8%B3%BDviutv%E5%85%8D%E8%B2%BB%E7%9B%B4%E6%92%AD",
-    "timestamp": "2026-07-14T23:57:03.666Z",
     "strategy": ".content-card__main"
   }
 ];
