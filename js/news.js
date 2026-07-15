@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-15T07:31:54.021Z
+// Last updated: 2026-07-15T09:22:21.765Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美媒曝美以密謀扶植伊朗前強硬派總統　立場變色龍恐為高風險棋子",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20240602/873997963658006528135084.jpeg/H8kYYfXevKD1qvYPkZ0ymQ8s1i1pJc2vIE0SGCBNEhg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E4%B8%96%E7%95%8C%E5%B0%88%E9%A1%8C/60370136/%E7%BE%8E%E5%AA%92%E6%9B%9D%E7%BE%8E%E4%BB%A5%E5%AF%86%E8%AC%80%E6%89%B6%E6%A4%8D%E4%BC%8A%E6%9C%97%E5%89%8D%E5%BC%B7%E7%A1%AC%E6%B4%BE%E7%B8%BD%E7%B5%B1-%E7%AB%8B%E5%A0%B4%E8%AE%8A%E8%89%B2%E9%BE%8D%E6%81%90%E7%82%BA%E9%AB%98%E9%A2%A8%E9%9A%AA%E6%A3%8B%E5%AD%90",
+    "timestamp": "2026-07-15T09:22:21.765Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "DSE放榜錦囊︱七大項資訊與重要日期　必備文件及JUPAS改選懶人包",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260224/1103086196533235712635274.jpeg/15-r-GaDD-4k-h-Ph-Tx4Ji_6zTwlp3kwyP_nsMj_54?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60369975/%E5%85%AD%E5%90%88%E5%BD%A97-16%E9%A0%AD%E7%8D%8E800%E8%90%AC-6%E5%80%8B%E6%9C%80%E6%97%BA%E8%99%9F%E7%A2%BC-2%E6%8B%9B%E5%A2%9E%E4%B8%AD%E7%8D%8E%E6%A9%9F%E6%9C%83",
     "timestamp": "2026-07-14T15:01:01.478Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "歐洲10國宣布成立空中防禦聯盟　協助烏克蘭對抗俄羅斯",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260714/1153802505231011840683540.jpeg/H8mLq356c2Hy7E7SMLIC3GRMD1X8TLn2F6VNoxelTaM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60369957/%E6%AD%90%E6%B4%B210%E5%9C%8B%E5%AE%A3%E5%B8%83%E6%88%90%E7%AB%8B%E7%A9%BA%E4%B8%AD%E9%98%B2%E7%A6%A6%E8%81%AF%E7%9B%9F-%E5%8D%94%E5%8A%A9%E7%83%8F%E5%85%8B%E8%98%AD%E5%B0%8D%E6%8A%97%E4%BF%84%E7%BE%85%E6%96%AF",
-    "timestamp": "2026-07-14T14:16:15.094Z",
     "strategy": ".content-card__main"
   }
 ];
