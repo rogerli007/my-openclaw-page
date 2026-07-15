@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-15T15:10:00.176Z
+// Last updated: 2026-07-15T15:53:14.589Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "HK Express周四起下調燃油附加費　內地以外航線減至241元",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260523/1134675095382396928673918.jpeg/NbXjrgkeaKZ4O4XuQEolQk7DNQ-OTefMIsdbwyLHW8M?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60370369/hk-express%E5%91%A8%E5%9B%9B%E8%B5%B7%E4%B8%8B%E8%AA%BF%E7%87%83%E6%B2%B9%E9%99%84%E5%8A%A0%E8%B2%BB-%E5%85%A7%E5%9C%B0%E4%BB%A5%E5%A4%96%E8%88%AA%E7%B7%9A%E6%B8%9B%E8%87%B3241%E5%85%83",
+    "timestamp": "2026-07-15T15:53:14.589Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "3人打獵僅2人返回　男子疑遭同伴開槍誤殺　帆布裹屍棄森林",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260715/1153929681150414848869301.jpeg/_FVeINAvpPpBcNu70PSCTLv7YX2MSfg6lIN__5SDf_8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60369998/%E7%BE%8E%E8%BB%8D-%E6%81%A2%E5%BE%A9%E6%B5%B7%E4%B8%8A%E5%B0%81%E9%8E%96%E4%BC%8A%E6%9C%97%E5%8F%8A%E6%96%B0%E4%B8%80%E8%BC%AA%E7%A9%BA%E8%A5%B2-%E4%B8%AD%E6%9D%B1%E9%83%A8%E7%BD%B2%E9%80%BE20%E8%89%A6%E5%8F%8A%E6%95%B8%E7%99%BE%E8%BB%8D%E6%A9%9F",
     "timestamp": "2026-07-14T21:30:31.254Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "比利時布魯塞爾一興建中大樓發生火災　6人被困電梯遇難",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260715/1153893495610544128651974.png/1JnebyWn_xHcdAlm-nluDqRs14Qoy3lXoZyX76Gcl-8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60369995/%E6%AF%94%E5%88%A9%E6%99%82%E5%B8%83%E9%AD%AF%E5%A1%9E%E7%88%BE%E4%B8%80%E8%88%88%E5%BB%BA%E4%B8%AD%E5%A4%A7%E6%A8%93%E7%99%BC%E7%94%9F%E7%81%AB%E7%81%BD-6%E4%BA%BA%E8%A2%AB%E5%9B%B0%E9%9B%BB%E6%A2%AF%E9%81%87%E9%9B%A3",
-    "timestamp": "2026-07-14T20:59:39.012Z",
     "strategy": ".content-card__main"
   }
 ];
