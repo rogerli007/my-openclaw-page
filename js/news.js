@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-15T15:53:14.589Z
+// Last updated: 2026-07-15T16:39:45.928Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "DSE放榜｜考評局助患大腦麻痺考生應考　用節略版試卷及特別鍵盤",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260716/1154217219572371456849310.jpeg/XDCSSFBxoA4_ideZk6hGgb539Lc2HrdNRRAEYUUQBGE?v=w1920r16_9",
+    "url": "https://www.hk01.com/DSE%E5%B0%88%E5%8D%80/60370381/dse%E6%94%BE%E6%A6%9C-%E8%80%83%E8%A9%95%E5%B1%80%E5%8A%A9%E6%82%A3%E5%A4%A7%E8%85%A6%E9%BA%BB%E7%97%BA%E8%80%83%E7%94%9F%E6%87%89%E8%80%83-%E7%94%A8%E7%AF%80%E7%95%A5%E7%89%88%E8%A9%A6%E5%8D%B7%E5%8F%8A%E7%89%B9%E5%88%A5%E9%8D%B5%E7%9B%A4",
+    "timestamp": "2026-07-15T16:39:45.928Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "HK Express周四起下調燃油附加費　內地以外航線減至241元",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260715/1153933360859451392513894.jpeg/IqIiToHPzqAraxUJhsRTel88bUGrtNk6sEz0nLBM9Jw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60369999/%E5%9C%9F%E7%93%9C%E7%81%A38%E7%85%9E%E9%97%96%E8%BB%8A%E6%88%BF%E6%8C%81%E6%AD%A6%E5%99%A8-%E6%8E%83%E5%A0%B4-%E6%9C%89%E4%BA%BA%E9%AB%98%E5%91%BC-x%E4%BD%A0%E8%80%81x-%E8%AD%A6%E8%BF%BD%E7%B7%9D%E6%AD%B9%E5%BE%92",
     "timestamp": "2026-07-14T21:55:35.837Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美軍：恢復海上封鎖伊朗及新一輪空襲　中東部署逾20艦及數百軍機",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260715/1153929681150414848869301.jpeg/_FVeINAvpPpBcNu70PSCTLv7YX2MSfg6lIN__5SDf_8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60369998/%E7%BE%8E%E8%BB%8D-%E6%81%A2%E5%BE%A9%E6%B5%B7%E4%B8%8A%E5%B0%81%E9%8E%96%E4%BC%8A%E6%9C%97%E5%8F%8A%E6%96%B0%E4%B8%80%E8%BC%AA%E7%A9%BA%E8%A5%B2-%E4%B8%AD%E6%9D%B1%E9%83%A8%E7%BD%B2%E9%80%BE20%E8%89%A6%E5%8F%8A%E6%95%B8%E7%99%BE%E8%BB%8D%E6%A9%9F",
-    "timestamp": "2026-07-14T21:30:31.254Z",
     "strategy": ".content-card__main"
   }
 ];
