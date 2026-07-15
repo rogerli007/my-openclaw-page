@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-15T04:36:45.913Z
+// Last updated: 2026-07-15T06:35:00.132Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "陳德森爆關錦鵬對已故好友世陳自強最後話語：你做咩對成龍咁好",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260715/1154070215122751488562793.jpeg/V_m8WOwFcdy0WN5J4pdtGVHzxP2UtwwNrpKVSZiSlUk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60370171/%E9%99%B3%E5%BE%B7%E6%A3%AE%E7%88%86%E9%97%9C%E9%8C%A6%E9%B5%AC%E5%B0%8D%E5%B7%B2%E6%95%85%E5%A5%BD%E5%8F%8B%E4%B8%96%E9%99%B3%E8%87%AA%E5%BC%B7%E6%9C%80%E5%BE%8C%E8%A9%B1%E8%AA%9E-%E4%BD%A0%E5%81%9A%E5%92%A9%E5%B0%8D%E6%88%90%E9%BE%8D%E5%92%81%E5%A5%BD",
+    "timestamp": "2026-07-15T06:35:00.132Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "台名牌大學教授20多刀斬死襟兄弟！警員開4槍制伏　顯赫背景曝光",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260521/1134190836527927296785142.jpeg/TctLqM8E1-PONff-mpbxHT4YF3e8a7Xq1ywtbtcsLW4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60369936/ai%E6%B3%A1%E6%B2%AB%E8%AB%96-5%E5%B9%B4%E7%B4%AF%E6%8A%955-8%E8%90%AC%E5%84%84%E7%BE%8E%E5%85%83-%E9%AB%98%E7%9B%9B%E6%96%99%E5%A4%A7%E5%9E%8B%E9%9B%B2%E6%9C%8D%E5%8B%99%E5%95%86%E5%B0%8B%E5%A4%9A%E6%B8%A0%E9%81%93%E8%9E%8D%E8%B3%87",
     "timestamp": "2026-07-14T12:15:40.201Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "解放軍新疆建美軍驅逐艦等比例模型　美媒：為台海衝突做準備",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20200831/377141053972680704.jpeg/mxJnxEJqUhb7JteclBSeQaK2H593enUZxUNlzsVDZc4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60369930/%E8%A7%A3%E6%94%BE%E8%BB%8D%E6%96%B0%E7%96%86%E5%BB%BA%E7%BE%8E%E8%BB%8D%E9%A9%85%E9%80%90%E8%89%A6%E7%AD%89%E6%AF%94%E4%BE%8B%E6%A8%A1%E5%9E%8B-%E7%BE%8E%E5%AA%92-%E7%82%BA%E5%8F%B0%E6%B5%B7%E8%A1%9D%E7%AA%81%E5%81%9A%E6%BA%96%E5%82%99",
-    "timestamp": "2026-07-14T11:38:05.242Z",
     "strategy": ".content-card__main"
   }
 ];
