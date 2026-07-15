@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-15T20:20:30.939Z
+// Last updated: 2026-07-15T20:54:36.516Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美軍對伊朗展開日內第二輪攻擊　多地傳爆炸聲",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260716/1154278640687517696016593.jpeg/Tc9lva74oFHIR7QzJwDodSOM6iUOj_dkgn5CjoJ-Qo4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60370393/%E7%BE%8E%E8%BB%8D%E5%B0%8D%E4%BC%8A%E6%9C%97%E5%B1%95%E9%96%8B%E6%97%A5%E5%85%A7%E7%AC%AC%E4%BA%8C%E8%BC%AA%E6%94%BB%E6%93%8A-%E5%A4%9A%E5%9C%B0%E5%82%B3%E7%88%86%E7%82%B8%E8%81%B2",
+    "timestamp": "2026-07-15T20:54:36.516Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "嫦娥七號即將發射！長征五號運抵文昌　首創「飛躍器」月球尋水冰",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260715/1154025732393930752813624.jpeg/95zmYneY0n0wpzqHQgEUcyzQCqzZrbavuOBqorjgaqI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8F%B0%E7%81%A3%E6%96%B0%E8%81%9E/60370053/%E5%8F%B0%E5%90%8D%E7%89%8C%E5%A4%A7%E5%AD%B8%E6%95%99%E6%8E%8820%E5%A4%9A%E5%88%80%E6%96%AC%E6%AD%BB%E8%A5%9F%E5%85%84%E5%BC%9F-%E8%AD%A6%E5%93%A1%E9%96%8B4%E6%A7%8D%E5%88%B6%E4%BC%8F-%E9%A1%AF%E8%B5%AB%E8%83%8C%E6%99%AF%E6%9B%9D%E5%85%89",
     "timestamp": "2026-07-15T04:36:45.913Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "土瓜灣惡煞車房刑毀內情｜黑幫成員爭女惹禍　警油麻地賓館拘兩男",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260715/1153933360859451392513894.jpeg/IqIiToHPzqAraxUJhsRTel88bUGrtNk6sEz0nLBM9Jw",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60370058/%E5%9C%9F%E7%93%9C%E7%81%A3%E6%83%A1%E7%85%9E%E8%BB%8A%E6%88%BF%E5%88%91%E6%AF%80%E5%85%A7%E6%83%85-%E9%BB%91%E5%B9%AB%E6%88%90%E5%93%A1%E7%88%AD%E5%A5%B3%E6%83%B9%E7%A6%8D-%E8%AD%A6%E6%B2%B9%E9%BA%BB%E5%9C%B0%E8%B3%93%E9%A4%A8%E6%8B%98%E5%85%A9%E7%94%B7",
-    "timestamp": "2026-07-15T03:28:35.162Z",
     "strategy": ".content-card__main"
   }
 ];
