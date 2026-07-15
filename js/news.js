@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-15T16:39:45.928Z
+// Last updated: 2026-07-15T17:16:13.536Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "陳志雲難忘被施南生指太肥 ：你咁肥即係唔夠自律點管理公司？",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260716/1154229141445283840461258.jpeg/41YBwfamvxRss7L9u6c3NdgwcWDzHrP2c6vM4nOrzOI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60370367/%E9%99%B3%E5%BF%97%E9%9B%B2%E9%9B%A3%E5%BF%98%E8%A2%AB%E6%96%BD%E5%8D%97%E7%94%9F%E6%8C%87%E5%A4%AA%E8%82%A5-%E4%BD%A0%E5%92%81%E8%82%A5%E5%8D%B3%E4%BF%82%E5%94%94%E5%A4%A0%E8%87%AA%E5%BE%8B%E9%BB%9E%E7%AE%A1%E7%90%86%E5%85%AC%E5%8F%B8",
+    "timestamp": "2026-07-15T17:16:13.536Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "DSE放榜｜考評局助患大腦麻痺考生應考　用節略版試卷及特別鍵盤",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260714/1153587680425021440973618.jpeg/OjmqXJyKIOmXkGAdmyXjrjjw0zeUUgsIoXQvf6F0L38?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60369989/dse%E6%94%BE%E6%A6%9C%E6%97%A5%E5%A4%A9%E6%B0%A3-%E5%A4%A9%E6%96%87%E5%8F%B0%E6%8F%90%E7%A4%BA-%E4%BB%8A%E6%97%A5%E5%88%9D%E6%99%82%E9%83%A8%E4%BB%BD%E5%9C%B0%E5%8D%80%E9%9B%A8%E5%8B%A2%E8%BC%83%E5%A4%A7",
     "timestamp": "2026-07-14T22:29:17.450Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "土瓜灣8煞闖車房持武器「掃場」　有人高呼：X你老X　警追緝歹徒",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260715/1153933360859451392513894.jpeg/IqIiToHPzqAraxUJhsRTel88bUGrtNk6sEz0nLBM9Jw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60369999/%E5%9C%9F%E7%93%9C%E7%81%A38%E7%85%9E%E9%97%96%E8%BB%8A%E6%88%BF%E6%8C%81%E6%AD%A6%E5%99%A8-%E6%8E%83%E5%A0%B4-%E6%9C%89%E4%BA%BA%E9%AB%98%E5%91%BC-x%E4%BD%A0%E8%80%81x-%E8%AD%A6%E8%BF%BD%E7%B7%9D%E6%AD%B9%E5%BE%92",
-    "timestamp": "2026-07-14T21:55:35.837Z",
     "strategy": ".content-card__main"
   }
 ];
