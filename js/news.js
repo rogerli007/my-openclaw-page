@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-15T11:02:50.869Z
+// Last updated: 2026-07-15T11:41:48.165Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "為何有人總愛當小三？揭「知三當三」6大行為原因：越禁止越想要",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260617/1143977598917808128485190.jpeg/7ugk8d4Ix5HbV0ldJ92QOlFSPzWRqbd_7S64Ve0uuFU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%AB%87%E6%83%85%E8%AA%AA%E6%80%A7/60361322/%E7%82%BA%E4%BD%95%E6%9C%89%E4%BA%BA%E7%B8%BD%E6%84%9B%E7%95%B6%E5%B0%8F%E4%B8%89-%E6%8F%AD-%E7%9F%A5%E4%B8%89%E7%95%B6%E4%B8%89-6%E5%A4%A7%E8%A1%8C%E7%82%BA%E5%8E%9F%E5%9B%A0-%E8%B6%8A%E7%A6%81%E6%AD%A2%E8%B6%8A%E6%83%B3%E8%A6%81",
+    "timestamp": "2026-07-15T11:41:48.165Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "特朗普涉性侵與誹謗專欄作家案上訴失敗　賠償逾4300萬港元",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260705/1150489615648559104086493.jpeg/5JsHdFQDyUveRwVwAJWLw4DFhTObV6IuBVDNDR9QzQ0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60369328/%E4%B8%80%E8%99%9F%E9%A2%A8%E7%90%83-%E5%A4%A9%E6%96%87%E5%8F%B0%E6%9C%80%E6%96%B0%E6%89%93%E9%A2%A8%E6%B6%88%E6%81%AF-%E4%BB%8A%E5%82%8D%E6%99%9A%E8%87%B3%E6%98%8E%E6%97%A9%E6%88%96%E7%99%BC%E4%B8%80%E8%99%9F%E9%A2%A8%E7%90%83",
     "timestamp": "2026-07-14T17:19:42.607Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "跨部門灣仔掃黃　13女被捕　年紀最少16歲",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260715/1153853293722603520123756.jpeg/HcgvmNTaczzQGPoydGH_xsVugz1P-LGV9gco3fYHKN0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60369983/%E8%B7%A8%E9%83%A8%E9%96%80%E7%81%A3%E4%BB%94%E6%8E%83%E9%BB%83-13%E5%A5%B3%E8%A2%AB%E6%8D%95-%E5%B9%B4%E7%B4%80%E6%9C%80%E5%B0%9116%E6%AD%B2",
-    "timestamp": "2026-07-14T16:15:53.869Z",
     "strategy": ".content-card__main"
   }
 ];
