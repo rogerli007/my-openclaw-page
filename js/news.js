@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-15T19:49:43.116Z
+// Last updated: 2026-07-15T20:20:30.939Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "嫦娥七號即將發射！長征五號運抵文昌　首創「飛躍器」月球尋水冰",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260715/1154210568530300928518263.png/h2gyOieKvnEFiCvGKtaSlPKHLJhqPrl5pxy5x6ccucc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60370193/%E5%AB%A6%E5%A8%A5%E4%B8%83%E8%99%9F%E5%8D%B3%E5%B0%87%E7%99%BC%E5%B0%84-%E9%95%B7%E5%BE%81%E4%BA%94%E8%99%9F%E9%81%8B%E6%8A%B5%E6%96%87%E6%98%8C-%E9%A6%96%E5%89%B5-%E9%A3%9B%E8%BA%8D%E5%99%A8-%E6%9C%88%E7%90%83%E5%B0%8B%E6%B0%B4%E5%86%B0",
+    "timestamp": "2026-07-15T20:20:30.939Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "世界盃｜阿根廷副總統賽前轟英格蘭是入侵者：這不是一場普通比賽",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260715/1153933360859451392513894.jpeg/IqIiToHPzqAraxUJhsRTel88bUGrtNk6sEz0nLBM9Jw",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60370058/%E5%9C%9F%E7%93%9C%E7%81%A3%E6%83%A1%E7%85%9E%E8%BB%8A%E6%88%BF%E5%88%91%E6%AF%80%E5%85%A7%E6%83%85-%E9%BB%91%E5%B9%AB%E6%88%90%E5%93%A1%E7%88%AD%E5%A5%B3%E6%83%B9%E7%A6%8D-%E8%AD%A6%E6%B2%B9%E9%BA%BB%E5%9C%B0%E8%B3%93%E9%A4%A8%E6%8B%98%E5%85%A9%E7%94%B7",
     "timestamp": "2026-07-15T03:28:35.162Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "別讓孩子輸在不會表達　善用曼陀羅九宮格整理想法　改善語無倫次",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260708/1151582522048516096192704.png/MoxDaSAJ28TbjiJth9CVRyk_Jim8BKlJfYHC4giBwuI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%A6%AA%E5%AD%90/60367934/%E5%88%A5%E8%AE%93%E5%AD%A9%E5%AD%90%E8%BC%B8%E5%9C%A8%E4%B8%8D%E6%9C%83%E8%A1%A8%E9%81%94-%E5%96%84%E7%94%A8%E6%9B%BC%E9%99%80%E7%BE%85%E4%B9%9D%E5%AE%AE%E6%A0%BC%E6%95%B4%E7%90%86%E6%83%B3%E6%B3%95-%E6%94%B9%E5%96%84%E8%AA%9E%E7%84%A1%E5%80%AB%E6%AC%A1",
-    "timestamp": "2026-07-15T02:05:24.328Z",
     "strategy": ".content-card__main"
   }
 ];
