@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-15T14:27:49.827Z
+// Last updated: 2026-07-15T15:10:00.176Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "3人打獵僅2人返回　男子疑遭同伴開槍誤殺　帆布裹屍棄森林",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260714/1153750450906861568714302.png/BY07rTteYtxqO2W2-MhnR30Xayev4NsfItm3UCLZt1A",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60369658/3%E4%BA%BA%E6%89%93%E7%8D%B5%E5%83%852%E4%BA%BA%E8%BF%94%E5%9B%9E-%E7%94%B7%E5%AD%90%E7%96%91%E9%81%AD%E5%90%8C%E4%BC%B4%E9%96%8B%E6%A7%8D%E8%AA%A4%E6%AE%BA-%E5%B8%86%E5%B8%83%E8%A3%B9%E5%B1%8D%E6%A3%84%E6%A3%AE%E6%9E%97",
+    "timestamp": "2026-07-15T15:10:00.176Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "世界盃決賽首設Halftime Show四大巨星單位表演　NowTV料將播足",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260715/1153893495610544128651974.png/1JnebyWn_xHcdAlm-nluDqRs14Qoy3lXoZyX76Gcl-8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60369995/%E6%AF%94%E5%88%A9%E6%99%82%E5%B8%83%E9%AD%AF%E5%A1%9E%E7%88%BE%E4%B8%80%E8%88%88%E5%BB%BA%E4%B8%AD%E5%A4%A7%E6%A8%93%E7%99%BC%E7%94%9F%E7%81%AB%E7%81%BD-6%E4%BA%BA%E8%A2%AB%E5%9B%B0%E9%9B%BB%E6%A2%AF%E9%81%87%E9%9B%A3",
     "timestamp": "2026-07-14T20:59:39.012Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "瑞安航空客機乘客半身吸出窗外　妻子憶拼命救夫一刻：要死一齊死",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260715/1153906288137080832948721.jpeg/BBDs2T1ULmLw4FgKmhQJcv8USd-n2hu0AkdQcwJHUHM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60369996/%E7%91%9E%E5%AE%89%E8%88%AA%E7%A9%BA%E5%AE%A2%E6%A9%9F%E4%B9%98%E5%AE%A2%E5%8D%8A%E8%BA%AB%E5%90%B8%E5%87%BA%E7%AA%97%E5%A4%96-%E5%A6%BB%E5%AD%90%E6%86%B6%E6%8B%BC%E5%91%BD%E6%95%91%E5%A4%AB%E4%B8%80%E5%88%BB-%E8%A6%81%E6%AD%BB%E4%B8%80%E9%BD%8A%E6%AD%BB",
-    "timestamp": "2026-07-14T20:33:43.002Z",
     "strategy": ".content-card__main"
   }
 ];
