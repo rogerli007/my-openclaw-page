@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-15T18:19:21.688Z
+// Last updated: 2026-07-15T18:47:14.211Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "日本上半年外國遊客微減2%　為5年來首跌　中國內地旅客大減逾56%",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20251129/1071521679726874624628093.jpeg/SjtY5EETXCCTV7XPFyPtIt_UyS3uPtirKcGKVynBilc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60370383/%E6%97%A5%E6%9C%AC%E4%B8%8A%E5%8D%8A%E5%B9%B4%E5%A4%96%E5%9C%8B%E9%81%8A%E5%AE%A2%E5%BE%AE%E6%B8%9B2-%E7%82%BA5%E5%B9%B4%E4%BE%86%E9%A6%96%E8%B7%8C-%E4%B8%AD%E5%9C%8B%E5%85%A7%E5%9C%B0%E6%97%85%E5%AE%A2%E5%A4%A7%E6%B8%9B%E9%80%BE56",
+    "timestamp": "2026-07-15T18:47:14.211Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "西班牙與英屬直布羅陀解除陸路邊境管制　118年邊境圍欄遭拆除",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250402/984064836600205312796013.jpeg/lODawS5LLWOTbvEJjuDDCQ_hAP2mwYnC9oq2y_aKtss?v=w1920r16_9",
     "url": "https://www.hk01.com/DSE%E5%B0%88%E5%8D%80/60369815/dse%E6%94%BE%E6%A6%9C2026-%E7%8B%80%E5%85%83%E5%90%8D%E5%96%AE-%E7%8B%80%E5%85%83%E8%88%87%E8%B6%85%E7%B4%9A%E7%8B%80%E5%85%83%E6%9B%9D%E5%85%89-%E7%8B%80%E5%85%83%E5%AD%B8%E6%A0%A1%E9%80%90%E9%96%93%E6%95%B8",
     "timestamp": "2026-07-14T23:25:56.364Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "黃日華喪妻六年終走出陰霾　宣布「復出」低頭哽咽：學懂放下接受",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260714/1153778655109844992716482.jpeg/B07GylGsXCBQBjsu3Z4Bq6nKPjHdOGUNJjTFtyY0xbc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60369905/%E9%BB%83%E6%97%A5%E8%8F%AF%E5%96%AA%E5%A6%BB%E5%85%AD%E5%B9%B4%E7%B5%82%E8%B5%B0%E5%87%BA%E9%99%B0%E9%9C%BE-%E5%AE%A3%E5%B8%83-%E5%BE%A9%E5%87%BA-%E4%BD%8E%E9%A0%AD%E5%93%BD%E5%92%BD-%E5%AD%B8%E6%87%82%E6%94%BE%E4%B8%8B%E6%8E%A5%E5%8F%97",
-    "timestamp": "2026-07-14T22:54:27.660Z",
     "strategy": ".content-card__main"
   }
 ];
