@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-15T11:41:48.165Z
+// Last updated: 2026-07-15T12:16:04.000Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "鍾景輝追思會｜黃秋生感激恩師當年給予補考機會：無佢我唔會存在",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260715/1154150723345190912847301.jpeg/tGi8EgXo_gdXGKKYMnb3wLmCfy1fqUHDRQmS338Jkt8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60370334/%E9%8D%BE%E6%99%AF%E8%BC%9D%E8%BF%BD%E6%80%9D%E6%9C%83-%E9%BB%83%E7%A7%8B%E7%94%9F%E6%84%9F%E6%BF%80%E6%81%A9%E5%B8%AB%E7%95%B6%E5%B9%B4%E7%B5%A6%E4%BA%88%E8%A3%9C%E8%80%83%E6%A9%9F%E6%9C%83-%E7%84%A1%E4%BD%A2%E6%88%91%E5%94%94%E6%9C%83%E5%AD%98%E5%9C%A8",
+    "timestamp": "2026-07-15T12:16:04.000Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "為何有人總愛當小三？揭「知三當三」6大行為原因：越禁止越想要",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20230314/712455773149466624947185.jpeg/SagyB7ZOOEh1Q_7mOIZ5YooG9Ahq1ftwpM8qgqTPKoI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60369990/meta%E9%81%AD26%E5%89%8D%E5%93%A1%E5%B7%A5%E8%B5%B7%E8%A8%B4-%E8%A2%AB%E6%8C%87%E5%88%A9%E7%94%A8ai%E8%A3%81%E5%93%A1-%E4%B8%8D%E5%85%AC%E5%B9%B3%E9%87%9D%E5%B0%8D%E7%97%85%E5%81%87-%E6%AE%98%E7%96%BE%E5%93%A1%E5%B7%A5",
     "timestamp": "2026-07-14T17:50:30.127Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "最新天氣｜天文台：受活躍西南氣流影響　今日初時局部雨勢較大",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260705/1150489615648559104086493.jpeg/5JsHdFQDyUveRwVwAJWLw4DFhTObV6IuBVDNDR9QzQ0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60369328/%E4%B8%80%E8%99%9F%E9%A2%A8%E7%90%83-%E5%A4%A9%E6%96%87%E5%8F%B0%E6%9C%80%E6%96%B0%E6%89%93%E9%A2%A8%E6%B6%88%E6%81%AF-%E4%BB%8A%E5%82%8D%E6%99%9A%E8%87%B3%E6%98%8E%E6%97%A9%E6%88%96%E7%99%BC%E4%B8%80%E8%99%9F%E9%A2%A8%E7%90%83",
-    "timestamp": "2026-07-14T17:19:42.607Z",
     "strategy": ".content-card__main"
   }
 ];
