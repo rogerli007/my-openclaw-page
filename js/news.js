@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-15T03:28:35.162Z
+// Last updated: 2026-07-15T04:36:45.913Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "台名牌大學教授20多刀斬死襟兄弟！警員開4槍制伏　顯赫背景曝光",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260715/1154025732393930752813624.jpeg/95zmYneY0n0wpzqHQgEUcyzQCqzZrbavuOBqorjgaqI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8F%B0%E7%81%A3%E6%96%B0%E8%81%9E/60370053/%E5%8F%B0%E5%90%8D%E7%89%8C%E5%A4%A7%E5%AD%B8%E6%95%99%E6%8E%8820%E5%A4%9A%E5%88%80%E6%96%AC%E6%AD%BB%E8%A5%9F%E5%85%84%E5%BC%9F-%E8%AD%A6%E5%93%A1%E9%96%8B4%E6%A7%8D%E5%88%B6%E4%BC%8F-%E9%A1%AF%E8%B5%AB%E8%83%8C%E6%99%AF%E6%9B%9D%E5%85%89",
+    "timestamp": "2026-07-15T04:36:45.913Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "土瓜灣惡煞車房刑毀內情｜黑幫成員爭女惹禍　警油麻地賓館拘兩男",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20200831/377141053972680704.jpeg/mxJnxEJqUhb7JteclBSeQaK2H593enUZxUNlzsVDZc4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60369930/%E8%A7%A3%E6%94%BE%E8%BB%8D%E6%96%B0%E7%96%86%E5%BB%BA%E7%BE%8E%E8%BB%8D%E9%A9%85%E9%80%90%E8%89%A6%E7%AD%89%E6%AF%94%E4%BE%8B%E6%A8%A1%E5%9E%8B-%E7%BE%8E%E5%AA%92-%E7%82%BA%E5%8F%B0%E6%B5%B7%E8%A1%9D%E7%AA%81%E5%81%9A%E6%BA%96%E5%82%99",
     "timestamp": "2026-07-14T11:38:05.242Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "新冠2026｜新冠個案激增逾5倍！8類人免費打疫苗＋預約方法＋地點",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260714/1153752439376056320592847.jpeg/218YuhmnsvB161n48B4C_WiyEOEiEQYF1QJ4q9UCeKs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%A3%9F%E7%8E%A9%E8%B2%B7/60368239/%E6%96%B0%E5%86%A02026-%E6%96%B0%E5%86%A0%E5%80%8B%E6%A1%88%E6%BF%80%E5%A2%9E%E9%80%BE5%E5%80%8D-8%E9%A1%9E%E4%BA%BA%E5%85%8D%E8%B2%BB%E6%89%93%E7%96%AB%E8%8B%97-%E9%A0%90%E7%B4%84%E6%96%B9%E6%B3%95-%E5%9C%B0%E9%BB%9E",
-    "timestamp": "2026-07-14T10:58:10.692Z",
     "strategy": ".content-card__main"
   }
 ];
