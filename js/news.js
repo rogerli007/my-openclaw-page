@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-15T10:18:35.567Z
+// Last updated: 2026-07-15T11:02:50.869Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "特朗普涉性侵與誹謗專欄作家案上訴失敗　賠償逾4300萬港元",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260715/1154130325664698368467132.jpeg/Q7-01bZTvO2GIwImjsPMpydszp9RCI8zkQNBhZEDQYU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60370317/%E7%89%B9%E6%9C%97%E6%99%AE%E6%B6%89%E6%80%A7%E4%BE%B5%E8%88%87%E8%AA%B9%E8%AC%97%E5%B0%88%E6%AC%84%E4%BD%9C%E5%AE%B6%E6%A1%88%E4%B8%8A%E8%A8%B4%E5%A4%B1%E6%95%97-%E8%B3%A0%E5%84%9F%E9%80%BE4300%E8%90%AC%E6%B8%AF%E5%85%83",
+    "timestamp": "2026-07-15T11:02:50.869Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "書展2026｜11歲小作家受遊戲啟發　撰3萬字英文小說冀續創作之路",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260715/1153853293722603520123756.jpeg/HcgvmNTaczzQGPoydGH_xsVugz1P-LGV9gco3fYHKN0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60369983/%E8%B7%A8%E9%83%A8%E9%96%80%E7%81%A3%E4%BB%94%E6%8E%83%E9%BB%83-13%E5%A5%B3%E8%A2%AB%E6%8D%95-%E5%B9%B4%E7%B4%80%E6%9C%80%E5%B0%9116%E6%AD%B2",
     "timestamp": "2026-07-14T16:15:53.869Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "世界盃2026免費直播｜ViuTV賽程時間｜7.15法國對西班牙",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260611/1141845280300208128965183.jpeg/XjYqBao7YKjNLMjZMvFiQ3HuxknUgegtJFbW7iRW1u4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60355406/%E4%B8%96%E7%95%8C%E7%9B%832026%E5%85%8D%E8%B2%BB%E7%9B%B4%E6%92%AD-viutv%E9%A6%99%E6%B8%AF4%E5%BC%B7-%E6%BA%96%E6%B1%BA%E8%B3%BD%E8%B3%BD%E7%A8%8B%E6%99%82%E9%96%93%E8%A1%A8-%E6%AF%8F%E6%97%A5%E6%9B%B4%E6%96%B0",
-    "timestamp": "2026-07-14T15:40:29.091Z",
     "strategy": ".content-card__main"
   }
 ];
