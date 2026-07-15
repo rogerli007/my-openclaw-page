@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-15T06:35:00.132Z
+// Last updated: 2026-07-15T07:31:54.021Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "DSE放榜錦囊︱七大項資訊與重要日期　必備文件及JUPAS改選懶人包",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260702/1149363489370804224893764.jpeg/Xkx4nUz1hY7nfcJXoHpmyYPyRVgPveaXO6jyszuo8rM?v=w1920r16_9",
+    "url": "https://www.hk01.com/DSE%E5%B0%88%E5%8D%80/908206/dse%E6%94%BE%E6%A6%9C2026-%E4%B8%83%E5%A4%A7%E6%B5%81%E7%A8%8B%E8%B3%87%E8%A8%8A-%E6%BA%96%E5%82%99%E6%96%87%E4%BB%B6%E6%B8%85%E5%96%AE%E5%8F%8Ajupas%E6%94%B9%E9%81%B8%E9%A0%88%E7%9F%A5",
+    "timestamp": "2026-07-15T07:31:54.021Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "陳德森爆關錦鵬對已故好友世陳自強最後話語：你做咩對成龍咁好",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260714/1153802505231011840683540.jpeg/H8mLq356c2Hy7E7SMLIC3GRMD1X8TLn2F6VNoxelTaM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60369957/%E6%AD%90%E6%B4%B210%E5%9C%8B%E5%AE%A3%E5%B8%83%E6%88%90%E7%AB%8B%E7%A9%BA%E4%B8%AD%E9%98%B2%E7%A6%A6%E8%81%AF%E7%9B%9F-%E5%8D%94%E5%8A%A9%E7%83%8F%E5%85%8B%E8%98%AD%E5%B0%8D%E6%8A%97%E4%BF%84%E7%BE%85%E6%96%AF",
     "timestamp": "2026-07-14T14:16:15.094Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "AI泡沫論｜5年累投5.8萬億美元　高盛料大型雲服務商尋多渠道融資",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260521/1134190836527927296785142.jpeg/TctLqM8E1-PONff-mpbxHT4YF3e8a7Xq1ywtbtcsLW4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60369936/ai%E6%B3%A1%E6%B2%AB%E8%AB%96-5%E5%B9%B4%E7%B4%AF%E6%8A%955-8%E8%90%AC%E5%84%84%E7%BE%8E%E5%85%83-%E9%AB%98%E7%9B%9B%E6%96%99%E5%A4%A7%E5%9E%8B%E9%9B%B2%E6%9C%8D%E5%8B%99%E5%95%86%E5%B0%8B%E5%A4%9A%E6%B8%A0%E9%81%93%E8%9E%8D%E8%B3%87",
-    "timestamp": "2026-07-14T12:15:40.201Z",
     "strategy": ".content-card__main"
   }
 ];
