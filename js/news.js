@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-16T05:51:09.688Z
+// Last updated: 2026-07-16T07:03:14.161Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "匈牙利前外長西雅爾多棄政從商加盟比亞迪　將出任對外關係高管",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20220916/647568972782243840671049.jpeg/XKpcym_dTSlVq6PnuFQpG8PDbSnn0pP5GC2AGxgtgBs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60370566/%E5%8C%88%E7%89%99%E5%88%A9%E5%89%8D%E5%A4%96%E9%95%B7%E8%A5%BF%E9%9B%85%E7%88%BE%E5%A4%9A%E6%A3%84%E6%94%BF%E5%BE%9E%E5%95%86%E5%8A%A0%E7%9B%9F%E6%AF%94%E4%BA%9E%E8%BF%AA-%E5%B0%87%E5%87%BA%E4%BB%BB%E5%B0%8D%E5%A4%96%E9%97%9C%E4%BF%82%E9%AB%98%E7%AE%A1",
+    "timestamp": "2026-07-16T07:03:14.161Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "今年上半年2671萬旅客人次訪港　按年升13%　內地客佔近八成升16%",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260714/1153750450906861568714302.png/BY07rTteYtxqO2W2-MhnR30Xayev4NsfItm3UCLZt1A",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60369658/3%E4%BA%BA%E6%89%93%E7%8D%B5%E5%83%852%E4%BA%BA%E8%BF%94%E5%9B%9E-%E7%94%B7%E5%AD%90%E7%96%91%E9%81%AD%E5%90%8C%E4%BC%B4%E9%96%8B%E6%A7%8D%E8%AA%A4%E6%AE%BA-%E5%B8%86%E5%B8%83%E8%A3%B9%E5%B1%8D%E6%A3%84%E6%A3%AE%E6%9E%97",
     "timestamp": "2026-07-15T15:10:00.176Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "世界盃決賽首設Halftime Show四大巨星單位表演　NowTV料將播足",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260715/1154173049860263936327845.jpeg/L3fEqyrWo4AAbJf1A5tA9TntA4oJnfHkSzBFo0swRaM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60370348/%E4%B8%96%E7%95%8C%E7%9B%83%E6%B1%BA%E8%B3%BD%E9%A6%96%E8%A8%ADhalftime-show%E5%9B%9B%E5%A4%A7%E5%B7%A8%E6%98%9F%E5%96%AE%E4%BD%8D%E8%A1%A8%E6%BC%94-nowtv%E6%96%99%E5%B0%87%E6%92%AD%E8%B6%B3",
-    "timestamp": "2026-07-15T14:27:49.827Z",
     "strategy": ".content-card__main"
   }
 ];
