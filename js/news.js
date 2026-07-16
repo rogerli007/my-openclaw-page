@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-16T02:27:57.552Z
+// Last updated: 2026-07-16T03:44:48.114Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "臭丸放衣櫃隨時變毒氣室！腫瘤科醫生警告：恐致癌｜附2招除毒",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260715/1154118695199444992247853.png/YaJJ8V0UeNFJtC3l6iXfLRmdlAk4WFBlKCHEOyghxDs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%A3%9F%E7%8E%A9%E8%B2%B7/60370255/%E8%87%AD%E4%B8%B8%E6%94%BE%E8%A1%A3%E6%AB%83%E9%9A%A8%E6%99%82%E8%AE%8A%E6%AF%92%E6%B0%A3%E5%AE%A4-%E8%85%AB%E7%98%A4%E7%A7%91%E9%86%AB%E7%94%9F%E8%AD%A6%E5%91%8A-%E6%81%90%E8%87%B4%E7%99%8C-%E9%99%842%E6%8B%9B%E9%99%A4%E6%AF%92",
+    "timestamp": "2026-07-16T03:44:48.114Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "地政總署：次季補地價逾8.8億　按季跌58%",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260715/1154150723345190912847301.jpeg/tGi8EgXo_gdXGKKYMnb3wLmCfy1fqUHDRQmS338Jkt8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60370334/%E9%8D%BE%E6%99%AF%E8%BC%9D%E8%BF%BD%E6%80%9D%E6%9C%83-%E9%BB%83%E7%A7%8B%E7%94%9F%E6%84%9F%E6%BF%80%E6%81%A9%E5%B8%AB%E7%95%B6%E5%B9%B4%E7%B5%A6%E4%BA%88%E8%A3%9C%E8%80%83%E6%A9%9F%E6%9C%83-%E7%84%A1%E4%BD%A2%E6%88%91%E5%94%94%E6%9C%83%E5%AD%98%E5%9C%A8",
     "timestamp": "2026-07-15T12:16:04.000Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "為何有人總愛當小三？揭「知三當三」6大行為原因：越禁止越想要",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260617/1143977598917808128485190.jpeg/7ugk8d4Ix5HbV0ldJ92QOlFSPzWRqbd_7S64Ve0uuFU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%AB%87%E6%83%85%E8%AA%AA%E6%80%A7/60361322/%E7%82%BA%E4%BD%95%E6%9C%89%E4%BA%BA%E7%B8%BD%E6%84%9B%E7%95%B6%E5%B0%8F%E4%B8%89-%E6%8F%AD-%E7%9F%A5%E4%B8%89%E7%95%B6%E4%B8%89-6%E5%A4%A7%E8%A1%8C%E7%82%BA%E5%8E%9F%E5%9B%A0-%E8%B6%8A%E7%A6%81%E6%AD%A2%E8%B6%8A%E6%83%B3%E8%A6%81",
-    "timestamp": "2026-07-15T11:41:48.165Z",
     "strategy": ".content-card__main"
   }
 ];
