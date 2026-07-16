@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-16T21:14:39.887Z
+// Last updated: 2026-07-16T21:42:41.431Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "澤連斯基任命代理防長　國安局負責人赫馬拉出任",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260717/1154656949950746624435281.jpeg/0LF_Cl0b2xfIa5X6V3Yb-iKZkng1J96NOvwNIDr8DSA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60370787/%E6%BE%A4%E9%80%A3%E6%96%AF%E5%9F%BA%E4%BB%BB%E5%91%BD%E4%BB%A3%E7%90%86%E9%98%B2%E9%95%B7-%E5%9C%8B%E5%AE%89%E5%B1%80%E8%B2%A0%E8%B2%AC%E4%BA%BA%E8%B5%AB%E9%A6%AC%E6%8B%89%E5%87%BA%E4%BB%BB",
+    "timestamp": "2026-07-16T21:42:41.431Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "印度東部奧里薩邦現人群擁擠　外媒：至少1死約百人不適送院",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260715/1154118695199444992247853.png/YaJJ8V0UeNFJtC3l6iXfLRmdlAk4WFBlKCHEOyghxDs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%A3%9F%E7%8E%A9%E8%B2%B7/60370255/%E8%87%AD%E4%B8%B8%E6%94%BE%E8%A1%A3%E6%AB%83%E9%9A%A8%E6%99%82%E8%AE%8A%E6%AF%92%E6%B0%A3%E5%AE%A4-%E8%85%AB%E7%98%A4%E7%A7%91%E9%86%AB%E7%94%9F%E8%AD%A6%E5%91%8A-%E6%81%90%E8%87%B4%E7%99%8C-%E9%99%842%E6%8B%9B%E9%99%A4%E6%AF%92",
     "timestamp": "2026-07-16T03:44:48.114Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "地政總署：次季補地價逾8.8億　按季跌58%",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20241007/920033353783054336653170.jpeg/lG5aB1gB8KJKlmjVmjv2M-m6iUn0fseNKncADSp3AA0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60370443/%E5%9C%B0%E6%94%BF%E7%B8%BD%E7%BD%B2-%E6%AC%A1%E5%AD%A3%E8%A3%9C%E5%9C%B0%E5%83%B9%E9%80%BE8-8%E5%84%84-%E6%8C%89%E5%AD%A3%E8%B7%8C58",
-    "timestamp": "2026-07-16T02:27:57.552Z",
     "strategy": ".content-card__main"
   }
 ];
