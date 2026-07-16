@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-16T13:41:27.359Z
+// Last updated: 2026-07-16T14:32:44.504Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "唱錢｜柯雨霏高低音輕鬆轉換　詹天文頂住森美壓力勇奪MVP",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260716/1154459003795804160785903.jpeg/0YjjCGEUGQYBESsWl8sKeO83tld050YGqTGnJKkxpyQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60370631/%E5%94%B1%E9%8C%A2-%E6%9F%AF%E9%9B%A8%E9%9C%8F%E9%AB%98%E4%BD%8E%E9%9F%B3%E8%BC%95%E9%AC%86%E8%BD%89%E6%8F%9B-%E8%A9%B9%E5%A4%A9%E6%96%87%E9%A0%82%E4%BD%8F%E6%A3%AE%E7%BE%8E%E5%A3%93%E5%8A%9B%E5%8B%87%E5%A5%AAmvp",
+    "timestamp": "2026-07-16T14:32:44.504Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "六合彩結果｜今期7.16頭獎800萬即時攪珠｜中獎號碼+派彩獎金",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260716/1154240057603788800725804.jpeg/Z3vENW-o_VdLzQnBsOiT5CjxS1YB9fpN2-RCEtvkQhI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60370384/%E8%A5%BF%E7%8F%AD%E7%89%99%E8%88%87%E8%8B%B1%E5%B1%AC%E7%9B%B4%E5%B8%83%E7%BE%85%E9%99%80%E8%A7%A3%E9%99%A4%E9%99%B8%E8%B7%AF%E9%82%8A%E5%A2%83%E7%AE%A1%E5%88%B6-118%E5%B9%B4%E9%82%8A%E5%A2%83%E5%9C%8D%E6%AC%84%E9%81%AD%E6%8B%86%E9%99%A4",
     "timestamp": "2026-07-15T18:19:21.688Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "陳志雲難忘被施南生指太肥 ：你咁肥即係唔夠自律點管理公司？",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260716/1154229141445283840461258.jpeg/41YBwfamvxRss7L9u6c3NdgwcWDzHrP2c6vM4nOrzOI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60370367/%E9%99%B3%E5%BF%97%E9%9B%B2%E9%9B%A3%E5%BF%98%E8%A2%AB%E6%96%BD%E5%8D%97%E7%94%9F%E6%8C%87%E5%A4%AA%E8%82%A5-%E4%BD%A0%E5%92%81%E8%82%A5%E5%8D%B3%E4%BF%82%E5%94%94%E5%A4%A0%E8%87%AA%E5%BE%8B%E9%BB%9E%E7%AE%A1%E7%90%86%E5%85%AC%E5%8F%B8",
-    "timestamp": "2026-07-15T17:16:13.536Z",
     "strategy": ".content-card__main"
   }
 ];
