@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-16T16:38:29.932Z
+// Last updated: 2026-07-16T17:16:03.659Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "十五五｜馬會提交3主題建議書　倡建設世界級馬產業經濟圈",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260717/1154588087670542336210476.jpeg/9kiiOhgd15AZT6xMZg0vy6Idf8Q1dPW4cC9arXAvWq0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60370771/%E5%8D%81%E4%BA%94%E4%BA%94-%E9%A6%AC%E6%9C%83%E6%8F%90%E4%BA%A43%E4%B8%BB%E9%A1%8C%E5%BB%BA%E8%AD%B0%E6%9B%B8-%E5%80%A1%E5%BB%BA%E8%A8%AD%E4%B8%96%E7%95%8C%E7%B4%9A%E9%A6%AC%E7%94%A2%E6%A5%AD%E7%B6%93%E6%BF%9F%E5%9C%88",
+    "timestamp": "2026-07-16T17:16:03.659Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "路透社：倘伊朗電力網絡遭美國攻擊　將要求胡塞武裝封鎖紅海航道",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260715/1154210568530300928518263.png/h2gyOieKvnEFiCvGKtaSlPKHLJhqPrl5pxy5x6ccucc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60370193/%E5%AB%A6%E5%A8%A5%E4%B8%83%E8%99%9F%E5%8D%B3%E5%B0%87%E7%99%BC%E5%B0%84-%E9%95%B7%E5%BE%81%E4%BA%94%E8%99%9F%E9%81%8B%E6%8A%B5%E6%96%87%E6%98%8C-%E9%A6%96%E5%89%B5-%E9%A3%9B%E8%BA%8D%E5%99%A8-%E6%9C%88%E7%90%83%E5%B0%8B%E6%B0%B4%E5%86%B0",
     "timestamp": "2026-07-15T20:20:30.939Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "世界盃｜阿根廷副總統賽前轟英格蘭是入侵者：這不是一場普通比賽",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260716/1154269610053210112096218.jpeg/8hfMerz_czlW4pISf3Q65KKbNrrAqkrGjSWPf40lj38?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60370392/%E4%B8%96%E7%95%8C%E7%9B%83-%E9%98%BF%E6%A0%B9%E5%BB%B7%E5%89%AF%E7%B8%BD%E7%B5%B1%E8%B3%BD%E5%89%8D%E8%BD%9F%E8%8B%B1%E6%A0%BC%E8%98%AD%E6%98%AF%E5%85%A5%E4%BE%B5%E8%80%85-%E9%80%99%E4%B8%8D%E6%98%AF%E4%B8%80%E5%A0%B4%E6%99%AE%E9%80%9A%E6%AF%94%E8%B3%BD",
-    "timestamp": "2026-07-15T19:49:43.116Z",
     "strategy": ".content-card__main"
   }
 ];
