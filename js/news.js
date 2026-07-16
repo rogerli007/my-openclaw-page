@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-16T20:13:59.102Z
+// Last updated: 2026-07-16T20:39:10.003Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "世界盃決賽｜白宮預告特朗普將出席　恩芬天奴重申與總統共同頒獎",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250823/1035966786203291648631972.jpeg/IlMT7rWEYzRDdyZTI5ikXk4NbdC_altzPbYKvT22Cr0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60370783/%E4%B8%96%E7%95%8C%E7%9B%83%E6%B1%BA%E8%B3%BD-%E7%99%BD%E5%AE%AE%E9%A0%90%E5%91%8A%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%87%E5%87%BA%E5%B8%AD-%E6%81%A9%E8%8A%AC%E5%A4%A9%E5%A5%B4%E9%87%8D%E7%94%B3%E8%88%87%E7%B8%BD%E7%B5%B1%E5%85%B1%E5%90%8C%E9%A0%92%E7%8D%8E",
+    "timestamp": "2026-07-16T20:39:10.003Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "世界盃決賽｜白宮預告特朗普將出席　恩芬天奴重申與總統共同頒獎",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260709/1151869379021901824639521.jpeg/Xl_YBSytKicIH8w119v7nbNJNcrHH5TCsyP9T7Mj_U8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60370422/%E5%9B%9B%E5%B7%9D%E4%B8%AD%E5%9E%8B%E6%97%85%E9%81%8A%E5%B7%B4%E5%A2%9C%E5%B4%966%E6%AD%BB11%E5%82%B7",
     "timestamp": "2026-07-16T01:20:55.403Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "洛杉磯豪宅槍擊案！男子疑槍殺孕妻後飲彈　剛辦完迎嬰派對後出事",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260714/1153750890239234048289067.png/7lEw70PNyMEwW3QgtXXAXPFwrM3shWTzKRBIkSkQSJE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E8%A9%B1%E9%A1%8C/60369376/%E6%B4%9B%E6%9D%89%E7%A3%AF%E8%B1%AA%E5%AE%85%E6%A7%8D%E6%93%8A%E6%A1%88-%E7%94%B7%E5%AD%90%E7%96%91%E6%A7%8D%E6%AE%BA%E5%AD%95%E5%A6%BB%E5%BE%8C%E9%A3%B2%E5%BD%88-%E5%89%9B%E8%BE%A6%E5%AE%8C%E8%BF%8E%E5%AC%B0%E6%B4%BE%E5%B0%8D%E5%BE%8C%E5%87%BA%E4%BA%8B",
-    "timestamp": "2026-07-15T23:27:36.816Z",
     "strategy": ".content-card__main"
   }
 ];
