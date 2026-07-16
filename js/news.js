@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-16T01:20:55.403Z
+// Last updated: 2026-07-16T02:27:57.552Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "地政總署：次季補地價逾8.8億　按季跌58%",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20241007/920033353783054336653170.jpeg/lG5aB1gB8KJKlmjVmjv2M-m6iUn0fseNKncADSp3AA0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60370443/%E5%9C%B0%E6%94%BF%E7%B8%BD%E7%BD%B2-%E6%AC%A1%E5%AD%A3%E8%A3%9C%E5%9C%B0%E5%83%B9%E9%80%BE8-8%E5%84%84-%E6%8C%89%E5%AD%A3%E8%B7%8C58",
+    "timestamp": "2026-07-16T02:27:57.552Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "四川中型旅遊巴墜崖6死11傷",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260617/1143977598917808128485190.jpeg/7ugk8d4Ix5HbV0ldJ92QOlFSPzWRqbd_7S64Ve0uuFU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%AB%87%E6%83%85%E8%AA%AA%E6%80%A7/60361322/%E7%82%BA%E4%BD%95%E6%9C%89%E4%BA%BA%E7%B8%BD%E6%84%9B%E7%95%B6%E5%B0%8F%E4%B8%89-%E6%8F%AD-%E7%9F%A5%E4%B8%89%E7%95%B6%E4%B8%89-6%E5%A4%A7%E8%A1%8C%E7%82%BA%E5%8E%9F%E5%9B%A0-%E8%B6%8A%E7%A6%81%E6%AD%A2%E8%B6%8A%E6%83%B3%E8%A6%81",
     "timestamp": "2026-07-15T11:41:48.165Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普涉性侵與誹謗專欄作家案上訴失敗　賠償逾4300萬港元",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260715/1154130325664698368467132.jpeg/Q7-01bZTvO2GIwImjsPMpydszp9RCI8zkQNBhZEDQYU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60370317/%E7%89%B9%E6%9C%97%E6%99%AE%E6%B6%89%E6%80%A7%E4%BE%B5%E8%88%87%E8%AA%B9%E8%AC%97%E5%B0%88%E6%AC%84%E4%BD%9C%E5%AE%B6%E6%A1%88%E4%B8%8A%E8%A8%B4%E5%A4%B1%E6%95%97-%E8%B3%A0%E5%84%9F%E9%80%BE4300%E8%90%AC%E6%B8%AF%E5%85%83",
-    "timestamp": "2026-07-15T11:02:50.869Z",
     "strategy": ".content-card__main"
   }
 ];
