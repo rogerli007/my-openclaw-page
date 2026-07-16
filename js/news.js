@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-16T17:16:03.659Z
+// Last updated: 2026-07-16T18:18:18.553Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "警觀塘搗非法賭博洗黑錢中心　檢獲兼凍結逾$70萬犯罪得益拘12人",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260717/1154595025154215936829617.jpeg/jcNgUc8_VfVsWz-JB1XPNuy0uENlCj03yG_amMhv2pg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60370775/%E8%AD%A6%E8%A7%80%E5%A1%98%E6%90%97%E9%9D%9E%E6%B3%95%E8%B3%AD%E5%8D%9A%E6%B4%97%E9%BB%91%E9%8C%A2%E4%B8%AD%E5%BF%83-%E6%AA%A2%E7%8D%B2%E5%85%BC%E5%87%8D%E7%B5%90%E9%80%BE-70%E8%90%AC%E7%8A%AF%E7%BD%AA%E5%BE%97%E7%9B%8A%E6%8B%9812%E4%BA%BA",
+    "timestamp": "2026-07-16T18:18:18.553Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "十五五｜馬會提交3主題建議書　倡建設世界級馬產業經濟圈",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260716/1154278640687517696016593.jpeg/Tc9lva74oFHIR7QzJwDodSOM6iUOj_dkgn5CjoJ-Qo4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60370393/%E7%BE%8E%E8%BB%8D%E5%B0%8D%E4%BC%8A%E6%9C%97%E5%B1%95%E9%96%8B%E6%97%A5%E5%85%A7%E7%AC%AC%E4%BA%8C%E8%BC%AA%E6%94%BB%E6%93%8A-%E5%A4%9A%E5%9C%B0%E5%82%B3%E7%88%86%E7%82%B8%E8%81%B2",
     "timestamp": "2026-07-15T20:54:36.516Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "嫦娥七號即將發射！長征五號運抵文昌　首創「飛躍器」月球尋水冰",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260715/1154210568530300928518263.png/h2gyOieKvnEFiCvGKtaSlPKHLJhqPrl5pxy5x6ccucc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60370193/%E5%AB%A6%E5%A8%A5%E4%B8%83%E8%99%9F%E5%8D%B3%E5%B0%87%E7%99%BC%E5%B0%84-%E9%95%B7%E5%BE%81%E4%BA%94%E8%99%9F%E9%81%8B%E6%8A%B5%E6%96%87%E6%98%8C-%E9%A6%96%E5%89%B5-%E9%A3%9B%E8%BA%8D%E5%99%A8-%E6%9C%88%E7%90%83%E5%B0%8B%E6%B0%B4%E5%86%B0",
-    "timestamp": "2026-07-15T20:20:30.939Z",
     "strategy": ".content-card__main"
   }
 ];
