@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-16T07:03:14.161Z
+// Last updated: 2026-07-16T11:26:18.757Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "紅磡百佳超市變老鼠樂園！老鼠貨架遊走疑啃食生果　百街：已消毒",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260716/1154486547257495552172935.jpeg/_hXSqFwkL45sdEAQVtwErUEMk59m34IQI9xrZyPca2c",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60370510/%E7%B4%85%E7%A3%A1%E7%99%BE%E4%BD%B3%E8%B6%85%E5%B8%82%E8%AE%8A%E8%80%81%E9%BC%A0%E6%A8%82%E5%9C%92-%E8%80%81%E9%BC%A0%E8%B2%A8%E6%9E%B6%E9%81%8A%E8%B5%B0%E7%96%91%E5%95%83%E9%A3%9F%E7%94%9F%E6%9E%9C-%E7%99%BE%E8%A1%97-%E5%B7%B2%E6%B6%88%E6%AF%92",
+    "timestamp": "2026-07-16T11:26:18.757Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "匈牙利前外長西雅爾多棄政從商加盟比亞迪　將出任對外關係高管",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260523/1134675095382396928673918.jpeg/NbXjrgkeaKZ4O4XuQEolQk7DNQ-OTefMIsdbwyLHW8M?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60370369/hk-express%E5%91%A8%E5%9B%9B%E8%B5%B7%E4%B8%8B%E8%AA%BF%E7%87%83%E6%B2%B9%E9%99%84%E5%8A%A0%E8%B2%BB-%E5%85%A7%E5%9C%B0%E4%BB%A5%E5%A4%96%E8%88%AA%E7%B7%9A%E6%B8%9B%E8%87%B3241%E5%85%83",
     "timestamp": "2026-07-15T15:53:14.589Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "3人打獵僅2人返回　男子疑遭同伴開槍誤殺　帆布裹屍棄森林",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260714/1153750450906861568714302.png/BY07rTteYtxqO2W2-MhnR30Xayev4NsfItm3UCLZt1A",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60369658/3%E4%BA%BA%E6%89%93%E7%8D%B5%E5%83%852%E4%BA%BA%E8%BF%94%E5%9B%9E-%E7%94%B7%E5%AD%90%E7%96%91%E9%81%AD%E5%90%8C%E4%BC%B4%E9%96%8B%E6%A7%8D%E8%AA%A4%E6%AE%BA-%E5%B8%86%E5%B8%83%E8%A3%B9%E5%B1%8D%E6%A3%84%E6%A3%AE%E6%9E%97",
-    "timestamp": "2026-07-15T15:10:00.176Z",
     "strategy": ".content-card__main"
   }
 ];
