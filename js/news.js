@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-16T18:18:18.553Z
+// Last updated: 2026-07-16T18:47:46.745Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "英國預定明年4月起禁向16歲以下人士出售能量飲品",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260717/1154610218684911616021357.jpeg/cb-Ya4pRyaxStPqU1Dwb0Yo8ZVVSqlj_iLXFiYi1xYk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60370776/%E8%8B%B1%E5%9C%8B%E9%A0%90%E5%AE%9A%E6%98%8E%E5%B9%B44%E6%9C%88%E8%B5%B7%E7%A6%81%E5%90%9116%E6%AD%B2%E4%BB%A5%E4%B8%8B%E4%BA%BA%E5%A3%AB%E5%87%BA%E5%94%AE%E8%83%BD%E9%87%8F%E9%A3%B2%E5%93%81",
+    "timestamp": "2026-07-16T18:47:46.745Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "警觀塘搗非法賭博洗黑錢中心　檢獲兼凍結逾$70萬犯罪得益拘12人",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260716/1154272102216372224918536.jpeg/C4fhBCzPsUve6_330LMzrAlZ_dFEFPcQCZ0b_wmdG_8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60370394/%E6%9D%B1%E5%BC%B5%E8%A5%BF%E6%9C%9B-%E9%A8%99%E5%BE%92%E5%86%92%E8%AD%A6%E8%AB%8B%E5%B8%82%E6%B0%91%E6%89%AE%E5%8D%A7%E5%BA%95%E5%81%B5%E7%A0%B4%E9%A8%99%E6%A1%88-%E8%8B%A6%E4%B8%BB%E5%90%88%E5%85%B1%E8%A2%AB%E9%A8%993%E5%8D%83%E5%B9%BE",
     "timestamp": "2026-07-15T21:54:28.660Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美軍對伊朗展開日內第二輪攻擊　多地傳爆炸聲",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260716/1154278640687517696016593.jpeg/Tc9lva74oFHIR7QzJwDodSOM6iUOj_dkgn5CjoJ-Qo4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60370393/%E7%BE%8E%E8%BB%8D%E5%B0%8D%E4%BC%8A%E6%9C%97%E5%B1%95%E9%96%8B%E6%97%A5%E5%85%A7%E7%AC%AC%E4%BA%8C%E8%BC%AA%E6%94%BB%E6%93%8A-%E5%A4%9A%E5%9C%B0%E5%82%B3%E7%88%86%E7%82%B8%E8%81%B2",
-    "timestamp": "2026-07-15T20:54:36.516Z",
     "strategy": ".content-card__main"
   }
 ];
