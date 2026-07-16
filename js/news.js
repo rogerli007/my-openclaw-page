@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-16T14:32:44.504Z
+// Last updated: 2026-07-16T15:18:26.162Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "有片｜疑泊車起爭執男子爆粗狂罵　遭中年婦推撞即倒地　網嘲插水",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260716/1154562013184135168013528.jpeg/liRQIebXKfvPlPWuVbAX1QLIUFFU9SbgJ9EueSfRLnk",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60370753/%E6%9C%89%E7%89%87-%E7%96%91%E6%B3%8A%E8%BB%8A%E8%B5%B7%E7%88%AD%E5%9F%B7%E7%94%B7%E5%AD%90%E7%88%86%E7%B2%97%E7%8B%82%E7%BD%B5-%E9%81%AD%E4%B8%AD%E5%B9%B4%E5%A9%A6%E6%8E%A8%E6%92%9E%E5%8D%B3%E5%80%92%E5%9C%B0-%E7%B6%B2%E5%98%B2%E6%8F%92%E6%B0%B4",
+    "timestamp": "2026-07-16T15:18:26.162Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "唱錢｜柯雨霏高低音輕鬆轉換　詹天文頂住森美壓力勇奪MVP",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20251129/1071521679726874624628093.jpeg/SjtY5EETXCCTV7XPFyPtIt_UyS3uPtirKcGKVynBilc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60370383/%E6%97%A5%E6%9C%AC%E4%B8%8A%E5%8D%8A%E5%B9%B4%E5%A4%96%E5%9C%8B%E9%81%8A%E5%AE%A2%E5%BE%AE%E6%B8%9B2-%E7%82%BA5%E5%B9%B4%E4%BE%86%E9%A6%96%E8%B7%8C-%E4%B8%AD%E5%9C%8B%E5%85%A7%E5%9C%B0%E6%97%85%E5%AE%A2%E5%A4%A7%E6%B8%9B%E9%80%BE56",
     "timestamp": "2026-07-15T18:47:14.211Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "西班牙與英屬直布羅陀解除陸路邊境管制　118年邊境圍欄遭拆除",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260716/1154240057603788800725804.jpeg/Z3vENW-o_VdLzQnBsOiT5CjxS1YB9fpN2-RCEtvkQhI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60370384/%E8%A5%BF%E7%8F%AD%E7%89%99%E8%88%87%E8%8B%B1%E5%B1%AC%E7%9B%B4%E5%B8%83%E7%BE%85%E9%99%80%E8%A7%A3%E9%99%A4%E9%99%B8%E8%B7%AF%E9%82%8A%E5%A2%83%E7%AE%A1%E5%88%B6-118%E5%B9%B4%E9%82%8A%E5%A2%83%E5%9C%8D%E6%AC%84%E9%81%AD%E6%8B%86%E9%99%A4",
-    "timestamp": "2026-07-15T18:19:21.688Z",
     "strategy": ".content-card__main"
   }
 ];
