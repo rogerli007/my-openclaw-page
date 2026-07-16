@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-16T22:14:11.388Z
+// Last updated: 2026-07-16T23:13:13.043Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "財經視野｜從內地擴大消費「十五五」規劃　揭房地產新定位",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260305/1106173852704051200589210.png/RLrcjQGGpLY618hYlIn7OSbJfTYsg8g4xAm2wsQJtsI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60370672/%E8%B2%A1%E7%B6%93%E8%A6%96%E9%87%8E-%E5%BE%9E%E5%85%A7%E5%9C%B0%E6%93%B4%E5%A4%A7%E6%B6%88%E8%B2%BB-%E5%8D%81%E4%BA%94%E4%BA%94-%E8%A6%8F%E5%8A%83-%E6%8F%AD%E6%88%BF%E5%9C%B0%E7%94%A2%E6%96%B0%E5%AE%9A%E4%BD%8D",
+    "timestamp": "2026-07-16T23:13:13.043Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "特朗普將發表講話料涉選舉議題　路透：ABC及NBC廣播頻道不會播放",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20251005/1051584689787244544298504.jpeg/E_6ObuqV1gjDBYNtZd-nH6SjLnxBcfskUeihzUvooc0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60370539/%E4%BB%8A%E5%B9%B4%E4%B8%8A%E5%8D%8A%E5%B9%B42671%E8%90%AC%E6%97%85%E5%AE%A2%E4%BA%BA%E6%AC%A1%E8%A8%AA%E6%B8%AF-%E6%8C%89%E5%B9%B4%E5%8D%8713-%E5%85%A7%E5%9C%B0%E5%AE%A2%E4%BD%94%E8%BF%91%E5%85%AB%E6%88%90%E5%8D%8716",
     "timestamp": "2026-07-16T05:51:09.688Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美國鑄幣局將發行「特朗普頭像」1美元金幣　預計今年秋季上市",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260716/1154397561663000576706981.jpeg/6qZ7YeYnJYWnu_SFNRkVUBQC-c_F0p_eLTBwPC0wcDw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60370508/%E7%BE%8E%E5%9C%8B%E9%91%84%E5%B9%A3%E5%B1%80%E5%B0%87%E7%99%BC%E8%A1%8C-%E7%89%B9%E6%9C%97%E6%99%AE%E9%A0%AD%E5%83%8F-1%E7%BE%8E%E5%85%83%E9%87%91%E5%B9%A3-%E9%A0%90%E8%A8%88%E4%BB%8A%E5%B9%B4%E7%A7%8B%E5%AD%A3%E4%B8%8A%E5%B8%82",
-    "timestamp": "2026-07-16T04:51:40.218Z",
     "strategy": ".content-card__main"
   }
 ];
