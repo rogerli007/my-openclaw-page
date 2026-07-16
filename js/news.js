@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-16T21:42:41.431Z
+// Last updated: 2026-07-16T22:14:11.388Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "特朗普將發表講話料涉選舉議題　路透：ABC及NBC廣播頻道不會播放",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260709/1151931678365585408381760.jpeg/lq6mLKHjrmNuJLkQC3OptPudtU5tQjtwtygburcoG7o?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60370788/%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%87%E7%99%BC%E8%A1%A8%E8%AC%9B%E8%A9%B1%E6%96%99%E6%B6%89%E9%81%B8%E8%88%89%E8%AD%B0%E9%A1%8C-%E8%B7%AF%E9%80%8F-abc%E5%8F%8Anbc%E5%BB%A3%E6%92%AD%E9%A0%BB%E9%81%93%E4%B8%8D%E6%9C%83%E6%92%AD%E6%94%BE",
+    "timestamp": "2026-07-16T22:14:11.388Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "澤連斯基任命代理防長　國安局負責人赫馬拉出任",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260716/1154397561663000576706981.jpeg/6qZ7YeYnJYWnu_SFNRkVUBQC-c_F0p_eLTBwPC0wcDw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60370508/%E7%BE%8E%E5%9C%8B%E9%91%84%E5%B9%A3%E5%B1%80%E5%B0%87%E7%99%BC%E8%A1%8C-%E7%89%B9%E6%9C%97%E6%99%AE%E9%A0%AD%E5%83%8F-1%E7%BE%8E%E5%85%83%E9%87%91%E5%B9%A3-%E9%A0%90%E8%A8%88%E4%BB%8A%E5%B9%B4%E7%A7%8B%E5%AD%A3%E4%B8%8A%E5%B8%82",
     "timestamp": "2026-07-16T04:51:40.218Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "臭丸放衣櫃隨時變毒氣室！腫瘤科醫生警告：恐致癌｜附2招除毒",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260715/1154118695199444992247853.png/YaJJ8V0UeNFJtC3l6iXfLRmdlAk4WFBlKCHEOyghxDs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%A3%9F%E7%8E%A9%E8%B2%B7/60370255/%E8%87%AD%E4%B8%B8%E6%94%BE%E8%A1%A3%E6%AB%83%E9%9A%A8%E6%99%82%E8%AE%8A%E6%AF%92%E6%B0%A3%E5%AE%A4-%E8%85%AB%E7%98%A4%E7%A7%91%E9%86%AB%E7%94%9F%E8%AD%A6%E5%91%8A-%E6%81%90%E8%87%B4%E7%99%8C-%E9%99%842%E6%8B%9B%E9%99%A4%E6%AF%92",
-    "timestamp": "2026-07-16T03:44:48.114Z",
     "strategy": ".content-card__main"
   }
 ];
