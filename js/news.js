@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-16T20:39:10.003Z
+// Last updated: 2026-07-16T21:14:39.887Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "印度東部奧里薩邦現人群擁擠　外媒：至少1死約百人不適送院",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260717/1154647027548688384489601.jpeg/voPFShnM2RMwvPTTma48o-y4HhLcMNVPL5Js7y-SbO8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60370784/%E5%8D%B0%E5%BA%A6%E6%9D%B1%E9%83%A8%E5%A5%A7%E9%87%8C%E8%96%A9%E9%82%A6%E7%8F%BE%E4%BA%BA%E7%BE%A4%E6%93%81%E6%93%A0-%E5%A4%96%E5%AA%92-%E8%87%B3%E5%B0%911%E6%AD%BB%E7%B4%84%E7%99%BE%E4%BA%BA%E4%B8%8D%E9%81%A9%E9%80%81%E9%99%A2",
+    "timestamp": "2026-07-16T21:14:39.887Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "世界盃決賽｜白宮預告特朗普將出席　恩芬天奴重申與總統共同頒獎",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20241007/920033353783054336653170.jpeg/lG5aB1gB8KJKlmjVmjv2M-m6iUn0fseNKncADSp3AA0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60370443/%E5%9C%B0%E6%94%BF%E7%B8%BD%E7%BD%B2-%E6%AC%A1%E5%AD%A3%E8%A3%9C%E5%9C%B0%E5%83%B9%E9%80%BE8-8%E5%84%84-%E6%8C%89%E5%AD%A3%E8%B7%8C58",
     "timestamp": "2026-07-16T02:27:57.552Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "四川中型旅遊巴墜崖6死11傷",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260709/1151869379021901824639521.jpeg/Xl_YBSytKicIH8w119v7nbNJNcrHH5TCsyP9T7Mj_U8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60370422/%E5%9B%9B%E5%B7%9D%E4%B8%AD%E5%9E%8B%E6%97%85%E9%81%8A%E5%B7%B4%E5%A2%9C%E5%B4%966%E6%AD%BB11%E5%82%B7",
-    "timestamp": "2026-07-16T01:20:55.403Z",
     "strategy": ".content-card__main"
   }
 ];
