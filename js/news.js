@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-16T18:47:46.745Z
+// Last updated: 2026-07-16T19:19:38.965Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美國收緊外國留學生及記者簽證逗留期限　中國記者限90天",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260713/1153466384278097920743095.jpeg/ZGJ4zs78RbEwwVaRva39hcjB_aqpBN1FWHBg-VhwYPk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60370770/%E7%BE%8E%E5%9C%8B%E6%94%B6%E7%B7%8A%E5%A4%96%E5%9C%8B%E7%95%99%E5%AD%B8%E7%94%9F%E5%8F%8A%E8%A8%98%E8%80%85%E7%B0%BD%E8%AD%89%E9%80%97%E7%95%99%E6%9C%9F%E9%99%90-%E4%B8%AD%E5%9C%8B%E8%A8%98%E8%80%85%E9%99%9090%E5%A4%A9",
+    "timestamp": "2026-07-16T19:19:38.965Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "英國預定明年4月起禁向16歲以下人士出售能量飲品",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260716/1154305447470043136860145.jpeg/qYWRhBV7j5-519sp5H28wKhLxVzxHA3iulbqjLpW6ow?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60370399/%E4%B8%96%E7%95%8C%E7%9B%832026-%E7%BE%8E%E6%96%AF%E5%85%A9%E5%8A%A9%E6%94%BB%E6%95%91%E4%B8%96-%E9%98%BF%E6%A0%B9%E5%BB%B7%E4%BF%9D%E5%9B%9B%E5%BC%B7%E4%B8%8D%E6%95%97-%E8%B7%9D%E8%A1%9B%E5%86%95%E5%8F%AA%E5%B7%AE%E4%B8%80%E6%AD%A5",
     "timestamp": "2026-07-15T22:28:27.044Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "東張西望｜騙徒冒警請市民扮卧底偵破騙案　苦主合共被騙3千幾",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260716/1154272102216372224918536.jpeg/C4fhBCzPsUve6_330LMzrAlZ_dFEFPcQCZ0b_wmdG_8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60370394/%E6%9D%B1%E5%BC%B5%E8%A5%BF%E6%9C%9B-%E9%A8%99%E5%BE%92%E5%86%92%E8%AD%A6%E8%AB%8B%E5%B8%82%E6%B0%91%E6%89%AE%E5%8D%A7%E5%BA%95%E5%81%B5%E7%A0%B4%E9%A8%99%E6%A1%88-%E8%8B%A6%E4%B8%BB%E5%90%88%E5%85%B1%E8%A2%AB%E9%A8%993%E5%8D%83%E5%B9%BE",
-    "timestamp": "2026-07-15T21:54:28.660Z",
     "strategy": ".content-card__main"
   }
 ];
