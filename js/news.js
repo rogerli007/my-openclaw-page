@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-16T12:07:20.481Z
+// Last updated: 2026-07-16T13:41:27.359Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "六合彩結果｜今期7.16頭獎800萬即時攪珠｜中獎號碼+派彩獎金",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260106/1085277999818870784691350.jpeg/qlD4zXZuaDWP92HwHoC750bl4vsF6LbIzKpuzcyqbs0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60370658/%E5%85%AD%E5%90%88%E5%BD%A9%E7%B5%90%E6%9E%9C-%E4%BB%8A%E6%9C%9F7-16%E9%A0%AD%E7%8D%8E800%E8%90%AC%E5%8D%B3%E6%99%82%E6%94%AA%E7%8F%A0-%E4%B8%AD%E7%8D%8E%E8%99%9F%E7%A2%BC-%E6%B4%BE%E5%BD%A9%E7%8D%8E%E9%87%91",
+    "timestamp": "2026-07-16T13:41:27.359Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "無牌救生員睇唔到、叔叔顧住玩電話　柳州4歲女泳池溺水6分鐘亡",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260716/1154229141445283840461258.jpeg/41YBwfamvxRss7L9u6c3NdgwcWDzHrP2c6vM4nOrzOI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60370367/%E9%99%B3%E5%BF%97%E9%9B%B2%E9%9B%A3%E5%BF%98%E8%A2%AB%E6%96%BD%E5%8D%97%E7%94%9F%E6%8C%87%E5%A4%AA%E8%82%A5-%E4%BD%A0%E5%92%81%E8%82%A5%E5%8D%B3%E4%BF%82%E5%94%94%E5%A4%A0%E8%87%AA%E5%BE%8B%E9%BB%9E%E7%AE%A1%E7%90%86%E5%85%AC%E5%8F%B8",
     "timestamp": "2026-07-15T17:16:13.536Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "DSE放榜｜考評局助患大腦麻痺考生應考　用節略版試卷及特別鍵盤",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260716/1154217219572371456849310.jpeg/XDCSSFBxoA4_ideZk6hGgb539Lc2HrdNRRAEYUUQBGE?v=w1920r16_9",
-    "url": "https://www.hk01.com/DSE%E5%B0%88%E5%8D%80/60370381/dse%E6%94%BE%E6%A6%9C-%E8%80%83%E8%A9%95%E5%B1%80%E5%8A%A9%E6%82%A3%E5%A4%A7%E8%85%A6%E9%BA%BB%E7%97%BA%E8%80%83%E7%94%9F%E6%87%89%E8%80%83-%E7%94%A8%E7%AF%80%E7%95%A5%E7%89%88%E8%A9%A6%E5%8D%B7%E5%8F%8A%E7%89%B9%E5%88%A5%E9%8D%B5%E7%9B%A4",
-    "timestamp": "2026-07-15T16:39:45.928Z",
     "strategy": ".content-card__main"
   }
 ];
