@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-16T19:19:38.965Z
+// Last updated: 2026-07-16T19:48:13.835Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美國收緊外國留學生及記者簽證逗留期限　中國記者限90天",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260713/1153466384278097920743095.jpeg/ZGJ4zs78RbEwwVaRva39hcjB_aqpBN1FWHBg-VhwYPk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60370770/%E7%BE%8E%E5%9C%8B%E6%94%B6%E7%B7%8A%E5%A4%96%E5%9C%8B%E7%95%99%E5%AD%B8%E7%94%9F%E5%8F%8A%E8%A8%98%E8%80%85%E7%B0%BD%E8%AD%89%E9%80%97%E7%95%99%E6%9C%9F%E9%99%90-%E4%B8%AD%E5%9C%8B%E8%A8%98%E8%80%85%E9%99%9090%E5%A4%A9",
+    "timestamp": "2026-07-16T19:48:13.835Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美國收緊外國留學生及記者簽證逗留期限　中國記者限90天",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260715/1154170863839350784892706.jpeg/_K2byoOt2sfqxFHV58-JUpDKVqKjkMHnDtq92A7avdg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60370205/%E9%99%B3%E8%A9%A9%E6%AC%A3%E9%AB%98%E8%AA%BF%E8%BE%A6%E5%A5%A2%E8%8F%AF%E9%A6%AC%E6%9C%83%E7%94%9F%E6%97%A5%E6%B4%BE%E5%B0%8D-%E8%80%81%E5%85%AC%E5%90%8D%E4%B8%8B%E6%84%9B%E9%A7%924%E6%88%B0%E8%B7%91%E5%8C%85%E5%B0%BE%E9%9B%A2%E5%A5%87%E9%80%80%E5%BD%B9",
     "timestamp": "2026-07-15T22:54:55.345Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "世界盃2026｜美斯兩助攻救世　阿根廷保四強不敗　距衛冕只差一步",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260716/1154305447470043136860145.jpeg/qYWRhBV7j5-519sp5H28wKhLxVzxHA3iulbqjLpW6ow?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60370399/%E4%B8%96%E7%95%8C%E7%9B%832026-%E7%BE%8E%E6%96%AF%E5%85%A9%E5%8A%A9%E6%94%BB%E6%95%91%E4%B8%96-%E9%98%BF%E6%A0%B9%E5%BB%B7%E4%BF%9D%E5%9B%9B%E5%BC%B7%E4%B8%8D%E6%95%97-%E8%B7%9D%E8%A1%9B%E5%86%95%E5%8F%AA%E5%B7%AE%E4%B8%80%E6%AD%A5",
-    "timestamp": "2026-07-15T22:28:27.044Z",
     "strategy": ".content-card__main"
   }
 ];
