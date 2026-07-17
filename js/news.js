@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-17T15:39:45.437Z
+// Last updated: 2026-07-17T16:16:22.605Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "自製PC專用Steam卡帶 | 舊SSD改裝即插即玩　實體遊戲的浪漫！",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260717/1154813858003554304269351.jpeg/G5PrI2FNZ9YaIkwbwYzbmnPFR__QWdaCAmwakgJsGpI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%81%8A%E6%88%B2%E5%8B%95%E6%BC%AB/60370972/%E8%87%AA%E8%A3%BDpc%E5%B0%88%E7%94%A8steam%E5%8D%A1%E5%B8%B6-%E8%88%8Assd%E6%94%B9%E8%A3%9D%E5%8D%B3%E6%8F%92%E5%8D%B3%E7%8E%A9-%E5%AF%A6%E9%AB%94%E9%81%8A%E6%88%B2%E7%9A%84%E6%B5%AA%E6%BC%AB",
+    "timestamp": "2026-07-17T16:16:22.605Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "女神許維恩「廁所照」外流　3歲女玩手機誤發IG　慘掛半日才發現",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260717/1154656949950746624435281.jpeg/0LF_Cl0b2xfIa5X6V3Yb-iKZkng1J96NOvwNIDr8DSA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60370787/%E6%BE%A4%E9%80%A3%E6%96%AF%E5%9F%BA%E4%BB%BB%E5%91%BD%E4%BB%A3%E7%90%86%E9%98%B2%E9%95%B7-%E5%9C%8B%E5%AE%89%E5%B1%80%E8%B2%A0%E8%B2%AC%E4%BA%BA%E8%B5%AB%E9%A6%AC%E6%8B%89%E5%87%BA%E4%BB%BB",
     "timestamp": "2026-07-16T21:42:41.431Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "印度東部奧里薩邦現人群擁擠　外媒：至少1死約百人不適送院",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260717/1154647027548688384489601.jpeg/voPFShnM2RMwvPTTma48o-y4HhLcMNVPL5Js7y-SbO8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60370784/%E5%8D%B0%E5%BA%A6%E6%9D%B1%E9%83%A8%E5%A5%A7%E9%87%8C%E8%96%A9%E9%82%A6%E7%8F%BE%E4%BA%BA%E7%BE%A4%E6%93%81%E6%93%A0-%E5%A4%96%E5%AA%92-%E8%87%B3%E5%B0%911%E6%AD%BB%E7%B4%84%E7%99%BE%E4%BA%BA%E4%B8%8D%E9%81%A9%E9%80%81%E9%99%A2",
-    "timestamp": "2026-07-16T21:14:39.887Z",
     "strategy": ".content-card__main"
   }
 ];
