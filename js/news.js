@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-17T10:26:56.085Z
+// Last updated: 2026-07-17T11:08:31.913Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "行李共藏$390萬大麻花　曼谷抵港兩男旅客涉販毒遭拘控",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260717/1154859277169463296457638.jpeg/j3EnzT3_1-fMnL3QlW3bPtDIpYlRxz8AwUopncFKKZ0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60371105/%E8%A1%8C%E6%9D%8E%E5%85%B1%E8%97%8F-390%E8%90%AC%E5%A4%A7%E9%BA%BB%E8%8A%B1-%E6%9B%BC%E8%B0%B7%E6%8A%B5%E6%B8%AF%E5%85%A9%E7%94%B7%E6%97%85%E5%AE%A2%E6%B6%89%E8%B2%A9%E6%AF%92%E9%81%AD%E6%8B%98%E6%8E%A7",
+    "timestamp": "2026-07-17T11:08:31.913Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "新皇崗口岸條例7.20刊憲　港府：將確保附屬條例7.31同步生效",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260717/1154595025154215936829617.jpeg/jcNgUc8_VfVsWz-JB1XPNuy0uENlCj03yG_amMhv2pg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60370775/%E8%AD%A6%E8%A7%80%E5%A1%98%E6%90%97%E9%9D%9E%E6%B3%95%E8%B3%AD%E5%8D%9A%E6%B4%97%E9%BB%91%E9%8C%A2%E4%B8%AD%E5%BF%83-%E6%AA%A2%E7%8D%B2%E5%85%BC%E5%87%8D%E7%B5%90%E9%80%BE-70%E8%90%AC%E7%8A%AF%E7%BD%AA%E5%BE%97%E7%9B%8A%E6%8B%9812%E4%BA%BA",
     "timestamp": "2026-07-16T18:18:18.553Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "十五五｜馬會提交3主題建議書　倡建設世界級馬產業經濟圈",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260717/1154588087670542336210476.jpeg/9kiiOhgd15AZT6xMZg0vy6Idf8Q1dPW4cC9arXAvWq0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60370771/%E5%8D%81%E4%BA%94%E4%BA%94-%E9%A6%AC%E6%9C%83%E6%8F%90%E4%BA%A43%E4%B8%BB%E9%A1%8C%E5%BB%BA%E8%AD%B0%E6%9B%B8-%E5%80%A1%E5%BB%BA%E8%A8%AD%E4%B8%96%E7%95%8C%E7%B4%9A%E9%A6%AC%E7%94%A2%E6%A5%AD%E7%B6%93%E6%BF%9F%E5%9C%88",
-    "timestamp": "2026-07-16T17:16:03.659Z",
     "strategy": ".content-card__main"
   }
 ];
