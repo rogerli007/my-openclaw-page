@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-17T06:09:17.527Z
+// Last updated: 2026-07-17T07:07:42.865Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "研究證水果吃太多傷心血管！營養師警告1食法最傷腎＋宜日吃多少",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260528/1136613729496993792739802.jpeg/6D5MDpV4RVVPS_mZ22ogkjJxSVhGpiABbWFv321hb98?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60366941/%E7%A0%94%E7%A9%B6%E8%AD%89%E6%B0%B4%E6%9E%9C%E5%90%83%E5%A4%AA%E5%A4%9A%E5%82%B7%E5%BF%83%E8%A1%80%E7%AE%A1-%E7%87%9F%E9%A4%8A%E5%B8%AB%E8%AD%A6%E5%91%8A1%E9%A3%9F%E6%B3%95%E6%9C%80%E5%82%B7%E8%85%8E-%E5%AE%9C%E6%97%A5%E5%90%83%E5%A4%9A%E5%B0%91",
+    "timestamp": "2026-07-17T07:07:42.865Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "亨利指英格蘭之敗全因「喚醒巨獸」　大讚美斯誇張過電影︱世界盃",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260716/1154562013184135168013528.jpeg/liRQIebXKfvPlPWuVbAX1QLIUFFU9SbgJ9EueSfRLnk",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60370753/%E6%9C%89%E7%89%87-%E7%96%91%E6%B3%8A%E8%BB%8A%E8%B5%B7%E7%88%AD%E5%9F%B7%E7%94%B7%E5%AD%90%E7%88%86%E7%B2%97%E7%8B%82%E7%BD%B5-%E9%81%AD%E4%B8%AD%E5%B9%B4%E5%A9%A6%E6%8E%A8%E6%92%9E%E5%8D%B3%E5%80%92%E5%9C%B0-%E7%B6%B2%E5%98%B2%E6%8F%92%E6%B0%B4",
     "timestamp": "2026-07-16T15:18:26.162Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "唱錢｜柯雨霏高低音輕鬆轉換　詹天文頂住森美壓力勇奪MVP",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260716/1154459003795804160785903.jpeg/0YjjCGEUGQYBESsWl8sKeO83tld050YGqTGnJKkxpyQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60370631/%E5%94%B1%E9%8C%A2-%E6%9F%AF%E9%9B%A8%E9%9C%8F%E9%AB%98%E4%BD%8E%E9%9F%B3%E8%BC%95%E9%AC%86%E8%BD%89%E6%8F%9B-%E8%A9%B9%E5%A4%A9%E6%96%87%E9%A0%82%E4%BD%8F%E6%A3%AE%E7%BE%8E%E5%A3%93%E5%8A%9B%E5%8B%87%E5%A5%AAmvp",
-    "timestamp": "2026-07-16T14:32:44.504Z",
     "strategy": ".content-card__main"
   }
 ];
