@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-17T02:49:22.068Z
+// Last updated: 2026-07-17T05:13:52.618Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "官媒AI影片諷菲「演猴戲」受美日操控　菲防長批：種族主義｜有片",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260717/1154752676412526592872143.jpeg/RtE29p3UC2ZdKXPdr4PThJFAdr-TGLEi4Y__v-GP_78?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60370846/%E5%AE%98%E5%AA%92ai%E5%BD%B1%E7%89%87%E8%AB%B7%E8%8F%B2-%E6%BC%94%E7%8C%B4%E6%88%B2-%E5%8F%97%E7%BE%8E%E6%97%A5%E6%93%8D%E6%8E%A7-%E8%8F%B2%E9%98%B2%E9%95%B7%E6%89%B9-%E7%A8%AE%E6%97%8F%E4%B8%BB%E7%BE%A9-%E6%9C%89%E7%89%87",
+    "timestamp": "2026-07-17T05:13:52.618Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "一粥麵優惠｜快閃優惠低過5折！冬瓜盅+滷水鵝+煎魚5餸2人餐$109",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260106/1085277999818870784691350.jpeg/qlD4zXZuaDWP92HwHoC750bl4vsF6LbIzKpuzcyqbs0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60370658/%E5%85%AD%E5%90%88%E5%BD%A9%E7%B5%90%E6%9E%9C-%E4%BB%8A%E6%9C%9F7-16%E9%A0%AD%E7%8D%8E800%E8%90%AC%E5%8D%B3%E6%99%82%E6%94%AA%E7%8F%A0-%E4%B8%AD%E7%8D%8E%E8%99%9F%E7%A2%BC-%E6%B4%BE%E5%BD%A9%E7%8D%8E%E9%87%91",
     "timestamp": "2026-07-16T13:41:27.359Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "無牌救生員睇唔到、叔叔顧住玩電話　柳州4歲女泳池溺水6分鐘亡",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260716/1154489776485830656172845.png/q47NnOi8gEx-ITR9Z4Td8IlHx1vVrDLezrreGs663ho?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60370701/%E7%84%A1%E7%89%8C%E6%95%91%E7%94%9F%E5%93%A1%E7%9D%87%E5%94%94%E5%88%B0-%E5%8F%94%E5%8F%94%E9%A1%A7%E4%BD%8F%E7%8E%A9%E9%9B%BB%E8%A9%B1-%E6%9F%B3%E5%B7%9E4%E6%AD%B2%E5%A5%B3%E6%B3%B3%E6%B1%A0%E6%BA%BA%E6%B0%B46%E5%88%86%E9%90%98%E4%BA%A1",
-    "timestamp": "2026-07-16T12:07:20.481Z",
     "strategy": ".content-card__main"
   }
 ];
