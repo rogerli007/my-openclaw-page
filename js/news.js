@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-17T18:15:04.912Z
+// Last updated: 2026-07-17T18:41:52.017Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "習近平會晤古特雷斯　稱中方將一如既往加強與聯合國合作",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260718/1154961075267964928769540.png/7lkONiyaTCFiphjD6YZrCa8JWPLaM2ZV6gSRSOoEkUg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60371166/%E7%BF%92%E8%BF%91%E5%B9%B3%E6%9C%83%E6%99%A4%E5%8F%A4%E7%89%B9%E9%9B%B7%E6%96%AF-%E7%A8%B1%E4%B8%AD%E6%96%B9%E5%B0%87%E4%B8%80%E5%A6%82%E6%97%A2%E5%BE%80%E5%8A%A0%E5%BC%B7%E8%88%87%E8%81%AF%E5%90%88%E5%9C%8B%E5%90%88%E4%BD%9C",
+    "timestamp": "2026-07-17T18:41:52.017Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "世界盃2026｜夏蘭特頭繩美國熱賣　神鋒一用即愛上索性入股做老闆",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260716/1154488873221361664064321.png/czDa3ZooiBXIEnLoLu9jBj1fljHoknOg06PyINOj8iA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%96%8B%E7%BD%90/60368508/%E9%A6%99%E6%B8%AF%E5%A4%9C%E6%99%AF%E8%B7%8C%E8%90%BD%E7%A5%9E%E5%A3%87-%E7%B6%B2%E6%B0%91%E7%88%AD%E8%BE%AF-%E9%AB%98%E9%9B%84%E5%A4%9C%E8%89%B2%E8%B6%85%E8%B6%8A%E9%A6%99%E6%B8%AF-%E6%8F%AD%E6%9C%80%E6%96%B0%E5%A4%9C%E6%99%AF%E6%8E%92%E5%90%8D",
     "timestamp": "2026-07-17T00:12:41.135Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "財經視野｜從內地擴大消費「十五五」規劃　揭房地產新定位",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260305/1106173852704051200589210.png/RLrcjQGGpLY618hYlIn7OSbJfTYsg8g4xAm2wsQJtsI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60370672/%E8%B2%A1%E7%B6%93%E8%A6%96%E9%87%8E-%E5%BE%9E%E5%85%A7%E5%9C%B0%E6%93%B4%E5%A4%A7%E6%B6%88%E8%B2%BB-%E5%8D%81%E4%BA%94%E4%BA%94-%E8%A6%8F%E5%8A%83-%E6%8F%AD%E6%88%BF%E5%9C%B0%E7%94%A2%E6%96%B0%E5%AE%9A%E4%BD%8D",
-    "timestamp": "2026-07-16T23:13:13.043Z",
     "strategy": ".content-card__main"
   }
 ];
