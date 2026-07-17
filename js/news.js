@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-17T22:09:25.479Z
+// Last updated: 2026-07-17T22:40:24.855Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "最新天氣消息｜黃雨警告生效　天文台：荃灣區雨勢特別大",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260716/1154538957166350336972014.jpeg/yf1taNq1qmXDk2ptWNDUNPBRogv5JCYST9tfH0_bXx8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60369989/%E6%9C%80%E6%96%B0%E5%A4%A9%E6%B0%A3%E6%B6%88%E6%81%AF-%E9%BB%83%E9%9B%A8%E8%AD%A6%E5%91%8A%E7%94%9F%E6%95%88-%E5%A4%A9%E6%96%87%E5%8F%B0-%E8%8D%83%E7%81%A3%E5%8D%80%E9%9B%A8%E5%8B%A2%E7%89%B9%E5%88%A5%E5%A4%A7",
+    "timestamp": "2026-07-17T22:40:24.855Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "住宅商業兩極發展　銀行應支持本地經濟　讓商業地產有喘息空間",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250704/1017764113704554496074968.jpeg/pF3Yqy0wjmvsn946cFBJZWJVlKAdwDk2WMYZpljGGaY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60371029/shein%E6%93%9A%E5%A0%B1%E9%80%9A%E9%81%8E%E4%B8%8A%E5%B8%82%E8%81%86%E8%A8%8A-%E6%9C%80%E5%BF%AB8%E6%9C%88%E5%BA%95%E6%8E%9B%E7%89%8C-%E5%82%B3%E9%9B%86%E8%B3%87%E6%9C%80%E5%A4%9A234%E5%84%84%E5%85%83",
     "timestamp": "2026-07-17T08:56:26.630Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "西安東站廁所標識設計源自唐代君子淑女　網民讚：如廁都想吟詩",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260716/1154482014305390592063947.jpeg/X1n0IPzzDiNRolTuL2X8A8JI6XEFBYzoFMTpERTE6RE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60370680/%E8%A5%BF%E5%AE%89%E6%9D%B1%E7%AB%99%E5%BB%81%E6%89%80%E6%A8%99%E8%AD%98%E8%A8%AD%E8%A8%88%E6%BA%90%E8%87%AA%E5%94%90%E4%BB%A3%E5%90%9B%E5%AD%90%E6%B7%91%E5%A5%B3-%E7%B6%B2%E6%B0%91%E8%AE%9A-%E5%A6%82%E5%BB%81%E9%83%BD%E6%83%B3%E5%90%9F%E8%A9%A9",
-    "timestamp": "2026-07-17T08:02:24.624Z",
     "strategy": ".content-card__main"
   }
 ];
