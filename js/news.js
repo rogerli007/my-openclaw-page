@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-17T12:57:30.337Z
+// Last updated: 2026-07-17T13:40:03.823Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "Q2營收不及預期、下調全年指引！　Netflix早段重挫逾一成｜美股",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260717/1154801707486547968083264.jpeg/ZXU9xzr_12ZTldGLk3WogSNh0RO8L32LdIgdynSIHco?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60370950/q2%E7%87%9F%E6%94%B6%E4%B8%8D%E5%8F%8A%E9%A0%90%E6%9C%9F-%E4%B8%8B%E8%AA%BF%E5%85%A8%E5%B9%B4%E6%8C%87%E5%BC%95-netflix%E6%97%A9%E6%AE%B5%E9%87%8D%E6%8C%AB%E9%80%BE%E4%B8%80%E6%88%90-%E7%BE%8E%E8%82%A1",
+    "timestamp": "2026-07-17T13:40:03.823Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "李珊珊情繫BIGBANG盼再赴韓朝聖　計劃以600字大綱敲電影門",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250823/1035966786203291648631972.jpeg/IlMT7rWEYzRDdyZTI5ikXk4NbdC_altzPbYKvT22Cr0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60370783/%E4%B8%96%E7%95%8C%E7%9B%83%E6%B1%BA%E8%B3%BD-%E7%99%BD%E5%AE%AE%E9%A0%90%E5%91%8A%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%87%E5%87%BA%E5%B8%AD-%E6%81%A9%E8%8A%AC%E5%A4%A9%E5%A5%B4%E9%87%8D%E7%94%B3%E8%88%87%E7%B8%BD%E7%B5%B1%E5%85%B1%E5%90%8C%E9%A0%92%E7%8D%8E",
     "timestamp": "2026-07-16T20:13:59.102Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美國收緊外國留學生及記者簽證逗留期限　中國記者限90天",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260713/1153466384278097920743095.jpeg/ZGJ4zs78RbEwwVaRva39hcjB_aqpBN1FWHBg-VhwYPk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60370770/%E7%BE%8E%E5%9C%8B%E6%94%B6%E7%B7%8A%E5%A4%96%E5%9C%8B%E7%95%99%E5%AD%B8%E7%94%9F%E5%8F%8A%E8%A8%98%E8%80%85%E7%B0%BD%E8%AD%89%E9%80%97%E7%95%99%E6%9C%9F%E9%99%90-%E4%B8%AD%E5%9C%8B%E8%A8%98%E8%80%85%E9%99%9090%E5%A4%A9",
-    "timestamp": "2026-07-16T19:48:13.835Z",
     "strategy": ".content-card__main"
   }
 ];
