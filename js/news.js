@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-17T11:08:31.913Z
+// Last updated: 2026-07-17T11:53:31.611Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "紅磡露宿婆婆疑遭淋煙灰水欺凌　熱心市民報警　社工籲包容弱勢",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260717/1154873460757893120245367.jpeg/FZedsoRjsFPXOAjzwNwT13bGNcrlTR24D9lFUw_ZRVM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60371080/%E7%B4%85%E7%A3%A1%E9%9C%B2%E5%AE%BF%E5%A9%86%E5%A9%86%E7%96%91%E9%81%AD%E6%B7%8B%E7%85%99%E7%81%B0%E6%B0%B4%E6%AC%BA%E5%87%8C-%E7%86%B1%E5%BF%83%E5%B8%82%E6%B0%91%E5%A0%B1%E8%AD%A6-%E7%A4%BE%E5%B7%A5%E7%B1%B2%E5%8C%85%E5%AE%B9%E5%BC%B1%E5%8B%A2",
+    "timestamp": "2026-07-17T11:53:31.611Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "行李共藏$390萬大麻花　曼谷抵港兩男旅客涉販毒遭拘控",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260717/1154610218684911616021357.jpeg/cb-Ya4pRyaxStPqU1Dwb0Yo8ZVVSqlj_iLXFiYi1xYk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60370776/%E8%8B%B1%E5%9C%8B%E9%A0%90%E5%AE%9A%E6%98%8E%E5%B9%B44%E6%9C%88%E8%B5%B7%E7%A6%81%E5%90%9116%E6%AD%B2%E4%BB%A5%E4%B8%8B%E4%BA%BA%E5%A3%AB%E5%87%BA%E5%94%AE%E8%83%BD%E9%87%8F%E9%A3%B2%E5%93%81",
     "timestamp": "2026-07-16T18:47:46.745Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "警觀塘搗非法賭博洗黑錢中心　檢獲兼凍結逾$70萬犯罪得益拘12人",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260717/1154595025154215936829617.jpeg/jcNgUc8_VfVsWz-JB1XPNuy0uENlCj03yG_amMhv2pg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60370775/%E8%AD%A6%E8%A7%80%E5%A1%98%E6%90%97%E9%9D%9E%E6%B3%95%E8%B3%AD%E5%8D%9A%E6%B4%97%E9%BB%91%E9%8C%A2%E4%B8%AD%E5%BF%83-%E6%AA%A2%E7%8D%B2%E5%85%BC%E5%87%8D%E7%B5%90%E9%80%BE-70%E8%90%AC%E7%8A%AF%E7%BD%AA%E5%BE%97%E7%9B%8A%E6%8B%9812%E4%BA%BA",
-    "timestamp": "2026-07-16T18:18:18.553Z",
     "strategy": ".content-card__main"
   }
 ];
