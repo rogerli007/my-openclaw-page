@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-17T08:56:26.630Z
+// Last updated: 2026-07-17T10:26:56.085Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "新皇崗口岸條例7.20刊憲　港府：將確保附屬條例7.31同步生效",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260709/1151885704502972416104728.jpeg/vnM-PuqXCFSGAqHjtfwNA7uLASxCuy4qRjqpVWM6qVU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60371093/%E6%96%B0%E7%9A%87%E5%B4%97%E5%8F%A3%E5%B2%B8%E6%A2%9D%E4%BE%8B7-20%E5%88%8A%E6%86%B2-%E6%B8%AF%E5%BA%9C-%E5%B0%87%E7%A2%BA%E4%BF%9D%E9%99%84%E5%B1%AC%E6%A2%9D%E4%BE%8B7-31%E5%90%8C%E6%AD%A5%E7%94%9F%E6%95%88",
+    "timestamp": "2026-07-17T10:26:56.085Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "SHEIN據報通過上市聆訊　最快8月底掛牌　傳集資最多234億元",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260717/1154588087670542336210476.jpeg/9kiiOhgd15AZT6xMZg0vy6Idf8Q1dPW4cC9arXAvWq0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60370771/%E5%8D%81%E4%BA%94%E4%BA%94-%E9%A6%AC%E6%9C%83%E6%8F%90%E4%BA%A43%E4%B8%BB%E9%A1%8C%E5%BB%BA%E8%AD%B0%E6%9B%B8-%E5%80%A1%E5%BB%BA%E8%A8%AD%E4%B8%96%E7%95%8C%E7%B4%9A%E9%A6%AC%E7%94%A2%E6%A5%AD%E7%B6%93%E6%BF%9F%E5%9C%88",
     "timestamp": "2026-07-16T17:16:03.659Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "路透社：倘伊朗電力網絡遭美國攻擊　將要求胡塞武裝封鎖紅海航道",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260328/1114604502402469888013697.jpeg/UIXHggXKcheuFbA_4xmBDAW-k8xuS-IiiWH8CIlh_Ag?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60370763/%E8%B7%AF%E9%80%8F%E7%A4%BE-%E5%80%98%E4%BC%8A%E6%9C%97%E9%9B%BB%E5%8A%9B%E7%B6%B2%E7%B5%A1%E9%81%AD%E7%BE%8E%E5%9C%8B%E6%94%BB%E6%93%8A-%E5%B0%87%E8%A6%81%E6%B1%82%E8%83%A1%E5%A1%9E%E6%AD%A6%E8%A3%9D%E5%B0%81%E9%8E%96%E7%B4%85%E6%B5%B7%E8%88%AA%E9%81%93",
-    "timestamp": "2026-07-16T16:38:29.932Z",
     "strategy": ".content-card__main"
   }
 ];
