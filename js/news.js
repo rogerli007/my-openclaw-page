@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-17T21:09:55.773Z
+// Last updated: 2026-07-17T21:38:22.796Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美軍連續第七晚打擊伊朗　伊方據報向美艦艇發射巡航導彈｜有片",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250417/989406414021595136526730.jpeg/SF-FuWuHg9qbWHx77eQOKNFX4po-mhi94eoH7uHqB-4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60371171/%E7%BE%8E%E8%BB%8D%E9%80%A3%E7%BA%8C%E7%AC%AC%E4%B8%83%E6%99%9A%E6%89%93%E6%93%8A%E4%BC%8A%E6%9C%97-%E4%BC%8A%E6%96%B9%E6%93%9A%E5%A0%B1%E5%90%91%E7%BE%8E%E8%89%A6%E8%89%87%E7%99%BC%E5%B0%84%E5%B7%A1%E8%88%AA%E5%B0%8E%E5%BD%88-%E6%9C%89%E7%89%87",
+    "timestamp": "2026-07-17T21:38:22.796Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美軍連續第七晚打擊伊朗　伊方據報向美艦艇發射巡航導彈｜有片",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260528/1136613729496993792739802.jpeg/6D5MDpV4RVVPS_mZ22ogkjJxSVhGpiABbWFv321hb98?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60366941/%E7%A0%94%E7%A9%B6%E8%AD%89%E6%B0%B4%E6%9E%9C%E5%90%83%E5%A4%AA%E5%A4%9A%E5%82%B7%E5%BF%83%E8%A1%80%E7%AE%A1-%E7%87%9F%E9%A4%8A%E5%B8%AB%E8%AD%A6%E5%91%8A1%E9%A3%9F%E6%B3%95%E6%9C%80%E5%82%B7%E8%85%8E-%E5%AE%9C%E6%97%A5%E5%90%83%E5%A4%9A%E5%B0%91",
     "timestamp": "2026-07-17T07:07:42.865Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "亨利指英格蘭之敗全因「喚醒巨獸」　大讚美斯誇張過電影︱世界盃",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260717/1154768989465874432031764.jpeg/GZ6DvD7y4tACunJguj6UWrpegDupJEdndV3nIXVd5yE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60370904/%E4%BA%A8%E5%88%A9%E6%8C%87%E8%8B%B1%E6%A0%BC%E8%98%AD%E4%B9%8B%E6%95%97%E5%85%A8%E5%9B%A0-%E5%96%9A%E9%86%92%E5%B7%A8%E7%8D%B8-%E5%A4%A7%E8%AE%9A%E7%BE%8E%E6%96%AF%E8%AA%87%E5%BC%B5%E9%81%8E%E9%9B%BB%E5%BD%B1-%E4%B8%96%E7%95%8C%E7%9B%83",
-    "timestamp": "2026-07-17T06:09:17.527Z",
     "strategy": ".content-card__main"
   }
 ];
