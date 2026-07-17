@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-17T15:04:12.466Z
+// Last updated: 2026-07-17T15:39:45.437Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "女神許維恩「廁所照」外流　3歲女玩手機誤發IG　慘掛半日才發現",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260717/1154739786599108608802479.png/Tjddam9qK7EziHkoVOvNZ2HsgxG_FJ2ZrmLQ-65i0Ps?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E5%A8%9B%E6%A8%82/60370841/%E5%A5%B3%E7%A5%9E%E8%A8%B1%E7%B6%AD%E6%81%A9-%E5%BB%81%E6%89%80%E7%85%A7-%E5%A4%96%E6%B5%81-3%E6%AD%B2%E5%A5%B3%E7%8E%A9%E6%89%8B%E6%A9%9F%E8%AA%A4%E7%99%BCig-%E6%85%98%E6%8E%9B%E5%8D%8A%E6%97%A5%E6%89%8D%E7%99%BC%E7%8F%BE",
+    "timestamp": "2026-07-17T15:39:45.437Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "「中國避暑游」火了？外國遊客扎堆深圳　狂掃華強北避暑產品",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260717/1154647027548688384489601.jpeg/voPFShnM2RMwvPTTma48o-y4HhLcMNVPL5Js7y-SbO8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60370784/%E5%8D%B0%E5%BA%A6%E6%9D%B1%E9%83%A8%E5%A5%A7%E9%87%8C%E8%96%A9%E9%82%A6%E7%8F%BE%E4%BA%BA%E7%BE%A4%E6%93%81%E6%93%A0-%E5%A4%96%E5%AA%92-%E8%87%B3%E5%B0%911%E6%AD%BB%E7%B4%84%E7%99%BE%E4%BA%BA%E4%B8%8D%E9%81%A9%E9%80%81%E9%99%A2",
     "timestamp": "2026-07-16T21:14:39.887Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "世界盃決賽｜白宮預告特朗普將出席　恩芬天奴重申與總統共同頒獎",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250823/1035966786203291648631972.jpeg/IlMT7rWEYzRDdyZTI5ikXk4NbdC_altzPbYKvT22Cr0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60370783/%E4%B8%96%E7%95%8C%E7%9B%83%E6%B1%BA%E8%B3%BD-%E7%99%BD%E5%AE%AE%E9%A0%90%E5%91%8A%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%87%E5%87%BA%E5%B8%AD-%E6%81%A9%E8%8A%AC%E5%A4%A9%E5%A5%B4%E9%87%8D%E7%94%B3%E8%88%87%E7%B8%BD%E7%B5%B1%E5%85%B1%E5%90%8C%E9%A0%92%E7%8D%8E",
-    "timestamp": "2026-07-16T20:39:10.003Z",
     "strategy": ".content-card__main"
   }
 ];
