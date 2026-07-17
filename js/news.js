@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-17T22:40:24.855Z
+// Last updated: 2026-07-17T23:09:59.037Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "幫手搵人｜77歲老翁行山失蹤　親友網上呼籲尋人",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260718/1155044379207929856746802.jpeg/1ZaqcQIL53dPCS8QsitgKvvtn9pDNNtzGIxr8RiMa_E?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60371177/%E5%B9%AB%E6%89%8B%E6%90%B5%E4%BA%BA-77%E6%AD%B2%E8%80%81%E7%BF%81%E8%A1%8C%E5%B1%B1%E5%A4%B1%E8%B9%A4-%E8%A6%AA%E5%8F%8B%E7%B6%B2%E4%B8%8A%E5%91%BC%E7%B1%B2%E5%B0%8B%E4%BA%BA",
+    "timestamp": "2026-07-17T23:09:59.037Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "最新天氣消息｜黃雨警告生效　天文台：荃灣區雨勢特別大",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260709/1151885704502972416104728.jpeg/vnM-PuqXCFSGAqHjtfwNA7uLASxCuy4qRjqpVWM6qVU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60371093/%E6%96%B0%E7%9A%87%E5%B4%97%E5%8F%A3%E5%B2%B8%E6%A2%9D%E4%BE%8B7-20%E5%88%8A%E6%86%B2-%E6%B8%AF%E5%BA%9C-%E5%B0%87%E7%A2%BA%E4%BF%9D%E9%99%84%E5%B1%AC%E6%A2%9D%E4%BE%8B7-31%E5%90%8C%E6%AD%A5%E7%94%9F%E6%95%88",
     "timestamp": "2026-07-17T10:26:56.085Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "SHEIN據報通過上市聆訊　最快8月底掛牌　傳集資最多234億元",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250704/1017764113704554496074968.jpeg/pF3Yqy0wjmvsn946cFBJZWJVlKAdwDk2WMYZpljGGaY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60371029/shein%E6%93%9A%E5%A0%B1%E9%80%9A%E9%81%8E%E4%B8%8A%E5%B8%82%E8%81%86%E8%A8%8A-%E6%9C%80%E5%BF%AB8%E6%9C%88%E5%BA%95%E6%8E%9B%E7%89%8C-%E5%82%B3%E9%9B%86%E8%B3%87%E6%9C%80%E5%A4%9A234%E5%84%84%E5%85%83",
-    "timestamp": "2026-07-17T08:56:26.630Z",
     "strategy": ".content-card__main"
   }
 ];
