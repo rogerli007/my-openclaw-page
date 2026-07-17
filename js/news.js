@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-17T21:38:22.796Z
+// Last updated: 2026-07-17T22:09:25.479Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "住宅商業兩極發展　銀行應支持本地經濟　讓商業地產有喘息空間",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260717/1154917326852722688714568.jpeg/_1q5_ovqAhjjNyBzkvbckn-V7VwYmwDDnoocep6KHHo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60371135/%E4%BD%8F%E5%AE%85%E5%95%86%E6%A5%AD%E5%85%A9%E6%A5%B5%E7%99%BC%E5%B1%95-%E9%8A%80%E8%A1%8C%E6%87%89%E6%94%AF%E6%8C%81%E6%9C%AC%E5%9C%B0%E7%B6%93%E6%BF%9F-%E8%AE%93%E5%95%86%E6%A5%AD%E5%9C%B0%E7%94%A2%E6%9C%89%E5%96%98%E6%81%AF%E7%A9%BA%E9%96%93",
+    "timestamp": "2026-07-17T22:09:25.479Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美軍連續第七晚打擊伊朗　伊方據報向美艦艇發射巡航導彈｜有片",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260716/1154482014305390592063947.jpeg/X1n0IPzzDiNRolTuL2X8A8JI6XEFBYzoFMTpERTE6RE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60370680/%E8%A5%BF%E5%AE%89%E6%9D%B1%E7%AB%99%E5%BB%81%E6%89%80%E6%A8%99%E8%AD%98%E8%A8%AD%E8%A8%88%E6%BA%90%E8%87%AA%E5%94%90%E4%BB%A3%E5%90%9B%E5%AD%90%E6%B7%91%E5%A5%B3-%E7%B6%B2%E6%B0%91%E8%AE%9A-%E5%A6%82%E5%BB%81%E9%83%BD%E6%83%B3%E5%90%9F%E8%A9%A9",
     "timestamp": "2026-07-17T08:02:24.624Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "研究證水果吃太多傷心血管！營養師警告1食法最傷腎＋宜日吃多少",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260528/1136613729496993792739802.jpeg/6D5MDpV4RVVPS_mZ22ogkjJxSVhGpiABbWFv321hb98?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60366941/%E7%A0%94%E7%A9%B6%E8%AD%89%E6%B0%B4%E6%9E%9C%E5%90%83%E5%A4%AA%E5%A4%9A%E5%82%B7%E5%BF%83%E8%A1%80%E7%AE%A1-%E7%87%9F%E9%A4%8A%E5%B8%AB%E8%AD%A6%E5%91%8A1%E9%A3%9F%E6%B3%95%E6%9C%80%E5%82%B7%E8%85%8E-%E5%AE%9C%E6%97%A5%E5%90%83%E5%A4%9A%E5%B0%91",
-    "timestamp": "2026-07-17T07:07:42.865Z",
     "strategy": ".content-card__main"
   }
 ];
