@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-17T05:13:52.618Z
+// Last updated: 2026-07-17T06:09:17.527Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "亨利指英格蘭之敗全因「喚醒巨獸」　大讚美斯誇張過電影︱世界盃",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260717/1154768989465874432031764.jpeg/GZ6DvD7y4tACunJguj6UWrpegDupJEdndV3nIXVd5yE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60370904/%E4%BA%A8%E5%88%A9%E6%8C%87%E8%8B%B1%E6%A0%BC%E8%98%AD%E4%B9%8B%E6%95%97%E5%85%A8%E5%9B%A0-%E5%96%9A%E9%86%92%E5%B7%A8%E7%8D%B8-%E5%A4%A7%E8%AE%9A%E7%BE%8E%E6%96%AF%E8%AA%87%E5%BC%B5%E9%81%8E%E9%9B%BB%E5%BD%B1-%E4%B8%96%E7%95%8C%E7%9B%83",
+    "timestamp": "2026-07-17T06:09:17.527Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "官媒AI影片諷菲「演猴戲」受美日操控　菲防長批：種族主義｜有片",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260716/1154459003795804160785903.jpeg/0YjjCGEUGQYBESsWl8sKeO83tld050YGqTGnJKkxpyQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60370631/%E5%94%B1%E9%8C%A2-%E6%9F%AF%E9%9B%A8%E9%9C%8F%E9%AB%98%E4%BD%8E%E9%9F%B3%E8%BC%95%E9%AC%86%E8%BD%89%E6%8F%9B-%E8%A9%B9%E5%A4%A9%E6%96%87%E9%A0%82%E4%BD%8F%E6%A3%AE%E7%BE%8E%E5%A3%93%E5%8A%9B%E5%8B%87%E5%A5%AAmvp",
     "timestamp": "2026-07-16T14:32:44.504Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "六合彩結果｜今期7.16頭獎800萬即時攪珠｜中獎號碼+派彩獎金",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260106/1085277999818870784691350.jpeg/qlD4zXZuaDWP92HwHoC750bl4vsF6LbIzKpuzcyqbs0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60370658/%E5%85%AD%E5%90%88%E5%BD%A9%E7%B5%90%E6%9E%9C-%E4%BB%8A%E6%9C%9F7-16%E9%A0%AD%E7%8D%8E800%E8%90%AC%E5%8D%B3%E6%99%82%E6%94%AA%E7%8F%A0-%E4%B8%AD%E7%8D%8E%E8%99%9F%E7%A2%BC-%E6%B4%BE%E5%BD%A9%E7%8D%8E%E9%87%91",
-    "timestamp": "2026-07-16T13:41:27.359Z",
     "strategy": ".content-card__main"
   }
 ];
