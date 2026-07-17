@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-17T13:40:03.823Z
+// Last updated: 2026-07-17T15:04:12.466Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "「中國避暑游」火了？外國遊客扎堆深圳　狂掃華強北避暑產品",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260717/1154849503811997696150473.jpeg/vnX9zZyy3VhBsf7UA2_wjeclKQRjuMDYViI2jFYiNow?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60371076/%E4%B8%AD%E5%9C%8B%E9%81%BF%E6%9A%91%E6%B8%B8-%E7%81%AB%E4%BA%86-%E5%A4%96%E5%9C%8B%E9%81%8A%E5%AE%A2%E6%89%8E%E5%A0%86%E6%B7%B1%E5%9C%B3-%E7%8B%82%E6%8E%83%E8%8F%AF%E5%BC%B7%E5%8C%97%E9%81%BF%E6%9A%91%E7%94%A2%E5%93%81",
+    "timestamp": "2026-07-17T15:04:12.466Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "Q2營收不及預期、下調全年指引！　Netflix早段重挫逾一成｜美股",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250823/1035966786203291648631972.jpeg/IlMT7rWEYzRDdyZTI5ikXk4NbdC_altzPbYKvT22Cr0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60370783/%E4%B8%96%E7%95%8C%E7%9B%83%E6%B1%BA%E8%B3%BD-%E7%99%BD%E5%AE%AE%E9%A0%90%E5%91%8A%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%87%E5%87%BA%E5%B8%AD-%E6%81%A9%E8%8A%AC%E5%A4%A9%E5%A5%B4%E9%87%8D%E7%94%B3%E8%88%87%E7%B8%BD%E7%B5%B1%E5%85%B1%E5%90%8C%E9%A0%92%E7%8D%8E",
     "timestamp": "2026-07-16T20:39:10.003Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "世界盃決賽｜白宮預告特朗普將出席　恩芬天奴重申與總統共同頒獎",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250823/1035966786203291648631972.jpeg/IlMT7rWEYzRDdyZTI5ikXk4NbdC_altzPbYKvT22Cr0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60370783/%E4%B8%96%E7%95%8C%E7%9B%83%E6%B1%BA%E8%B3%BD-%E7%99%BD%E5%AE%AE%E9%A0%90%E5%91%8A%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%87%E5%87%BA%E5%B8%AD-%E6%81%A9%E8%8A%AC%E5%A4%A9%E5%A5%B4%E9%87%8D%E7%94%B3%E8%88%87%E7%B8%BD%E7%B5%B1%E5%85%B1%E5%90%8C%E9%A0%92%E7%8D%8E",
-    "timestamp": "2026-07-16T20:13:59.102Z",
     "strategy": ".content-card__main"
   }
 ];
