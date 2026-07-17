@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-17T08:02:24.624Z
+// Last updated: 2026-07-17T08:56:26.630Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "SHEIN據報通過上市聆訊　最快8月底掛牌　傳集資最多234億元",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250704/1017764113704554496074968.jpeg/pF3Yqy0wjmvsn946cFBJZWJVlKAdwDk2WMYZpljGGaY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60371029/shein%E6%93%9A%E5%A0%B1%E9%80%9A%E9%81%8E%E4%B8%8A%E5%B8%82%E8%81%86%E8%A8%8A-%E6%9C%80%E5%BF%AB8%E6%9C%88%E5%BA%95%E6%8E%9B%E7%89%8C-%E5%82%B3%E9%9B%86%E8%B3%87%E6%9C%80%E5%A4%9A234%E5%84%84%E5%85%83",
+    "timestamp": "2026-07-17T08:56:26.630Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "西安東站廁所標識設計源自唐代君子淑女　網民讚：如廁都想吟詩",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260328/1114604502402469888013697.jpeg/UIXHggXKcheuFbA_4xmBDAW-k8xuS-IiiWH8CIlh_Ag?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60370763/%E8%B7%AF%E9%80%8F%E7%A4%BE-%E5%80%98%E4%BC%8A%E6%9C%97%E9%9B%BB%E5%8A%9B%E7%B6%B2%E7%B5%A1%E9%81%AD%E7%BE%8E%E5%9C%8B%E6%94%BB%E6%93%8A-%E5%B0%87%E8%A6%81%E6%B1%82%E8%83%A1%E5%A1%9E%E6%AD%A6%E8%A3%9D%E5%B0%81%E9%8E%96%E7%B4%85%E6%B5%B7%E8%88%AA%E9%81%93",
     "timestamp": "2026-07-16T16:38:29.932Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "初創大賽｜深圳醫療初創企業奪金獎　第四屆事賽擴至16個城市",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260716/1154568763861897216432569.jpeg/9DXiK3-Qg7LSQ8GlZNW28iQu5cZczWIm-o2iCvqNogo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60370759/%E5%88%9D%E5%89%B5%E5%A4%A7%E8%B3%BD-%E6%B7%B1%E5%9C%B3%E9%86%AB%E7%99%82%E5%88%9D%E5%89%B5%E4%BC%81%E6%A5%AD%E5%A5%AA%E9%87%91%E7%8D%8E-%E7%AC%AC%E5%9B%9B%E5%B1%86%E4%BA%8B%E8%B3%BD%E6%93%B4%E8%87%B316%E5%80%8B%E5%9F%8E%E5%B8%82",
-    "timestamp": "2026-07-16T15:54:39.269Z",
     "strategy": ".content-card__main"
   }
 ];
