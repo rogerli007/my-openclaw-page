@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-17T23:09:59.037Z
+// Last updated: 2026-07-17T23:40:48.055Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "加拿大山火煙霧籠罩美國多地　特朗普威脅將污染成本計入關稅",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260718/1155046285229690880601497.jpeg/PN9oR4obxsqoicG-XReEiRLLHyO-2MflI6E7LyOhOy8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60371176/%E5%8A%A0%E6%8B%BF%E5%A4%A7%E5%B1%B1%E7%81%AB%E7%85%99%E9%9C%A7%E7%B1%A0%E7%BD%A9%E7%BE%8E%E5%9C%8B%E5%A4%9A%E5%9C%B0-%E7%89%B9%E6%9C%97%E6%99%AE%E5%A8%81%E8%84%85%E5%B0%87%E6%B1%A1%E6%9F%93%E6%88%90%E6%9C%AC%E8%A8%88%E5%85%A5%E9%97%9C%E7%A8%85",
+    "timestamp": "2026-07-17T23:40:48.055Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "幫手搵人｜77歲老翁行山失蹤　親友網上呼籲尋人",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260717/1154859277169463296457638.jpeg/j3EnzT3_1-fMnL3QlW3bPtDIpYlRxz8AwUopncFKKZ0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60371105/%E8%A1%8C%E6%9D%8E%E5%85%B1%E8%97%8F-390%E8%90%AC%E5%A4%A7%E9%BA%BB%E8%8A%B1-%E6%9B%BC%E8%B0%B7%E6%8A%B5%E6%B8%AF%E5%85%A9%E7%94%B7%E6%97%85%E5%AE%A2%E6%B6%89%E8%B2%A9%E6%AF%92%E9%81%AD%E6%8B%98%E6%8E%A7",
     "timestamp": "2026-07-17T11:08:31.913Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "新皇崗口岸條例7.20刊憲　港府：將確保附屬條例7.31同步生效",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260709/1151885704502972416104728.jpeg/vnM-PuqXCFSGAqHjtfwNA7uLASxCuy4qRjqpVWM6qVU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60371093/%E6%96%B0%E7%9A%87%E5%B4%97%E5%8F%A3%E5%B2%B8%E6%A2%9D%E4%BE%8B7-20%E5%88%8A%E6%86%B2-%E6%B8%AF%E5%BA%9C-%E5%B0%87%E7%A2%BA%E4%BF%9D%E9%99%84%E5%B1%AC%E6%A2%9D%E4%BE%8B7-31%E5%90%8C%E6%AD%A5%E7%94%9F%E6%95%88",
-    "timestamp": "2026-07-17T10:26:56.085Z",
     "strategy": ".content-card__main"
   }
 ];
