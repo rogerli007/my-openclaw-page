@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-17T00:59:10.492Z
+// Last updated: 2026-07-17T02:49:22.068Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "一粥麵優惠｜快閃優惠低過5折！冬瓜盅+滷水鵝+煎魚5餸2人餐$109",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260717/1154735344894087168906531.jpeg/c3kWyNy_n81bhFZn6po0pSVsWBS5TwK15dY8S-XWPEs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%A3%9F%E7%8E%A9%E8%B2%B7/60370824/%E4%B8%80%E7%B2%A5%E9%BA%B5%E5%84%AA%E6%83%A0-%E5%BF%AB%E9%96%83%E5%84%AA%E6%83%A0%E4%BD%8E%E9%81%8E5%E6%8A%98-%E5%86%AC%E7%93%9C%E7%9B%85-%E6%BB%B7%E6%B0%B4%E9%B5%9D-%E7%85%8E%E9%AD%9A5%E9%A4%B82%E4%BA%BA%E9%A4%90-109",
+    "timestamp": "2026-07-17T02:49:22.068Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "國泰 I Can Fly計劃成都啟航　應屆DSE考生飛機迷立志做機師",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260716/1154489776485830656172845.png/q47NnOi8gEx-ITR9Z4Td8IlHx1vVrDLezrreGs663ho?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60370701/%E7%84%A1%E7%89%8C%E6%95%91%E7%94%9F%E5%93%A1%E7%9D%87%E5%94%94%E5%88%B0-%E5%8F%94%E5%8F%94%E9%A1%A7%E4%BD%8F%E7%8E%A9%E9%9B%BB%E8%A9%B1-%E6%9F%B3%E5%B7%9E4%E6%AD%B2%E5%A5%B3%E6%B3%B3%E6%B1%A0%E6%BA%BA%E6%B0%B46%E5%88%86%E9%90%98%E4%BA%A1",
     "timestamp": "2026-07-16T12:07:20.481Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "紅磡百佳超市變老鼠樂園！老鼠貨架遊走疑啃食生果　百街：已消毒",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260716/1154486547257495552172935.jpeg/_hXSqFwkL45sdEAQVtwErUEMk59m34IQI9xrZyPca2c",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60370510/%E7%B4%85%E7%A3%A1%E7%99%BE%E4%BD%B3%E8%B6%85%E5%B8%82%E8%AE%8A%E8%80%81%E9%BC%A0%E6%A8%82%E5%9C%92-%E8%80%81%E9%BC%A0%E8%B2%A8%E6%9E%B6%E9%81%8A%E8%B5%B0%E7%96%91%E5%95%83%E9%A3%9F%E7%94%9F%E6%9E%9C-%E7%99%BE%E8%A1%97-%E5%B7%B2%E6%B6%88%E6%AF%92",
-    "timestamp": "2026-07-16T11:26:18.757Z",
     "strategy": ".content-card__main"
   }
 ];
