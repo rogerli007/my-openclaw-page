@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-17T19:44:58.425Z
+// Last updated: 2026-07-17T20:37:38.799Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美軍連續第七晚打擊伊朗　伊方據報向美艦艇發射巡航導彈",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250417/989406414021595136526730.jpeg/SF-FuWuHg9qbWHx77eQOKNFX4po-mhi94eoH7uHqB-4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60371171/%E7%BE%8E%E8%BB%8D%E9%80%A3%E7%BA%8C%E7%AC%AC%E4%B8%83%E6%99%9A%E6%89%93%E6%93%8A%E4%BC%8A%E6%9C%97-%E4%BC%8A%E6%96%B9%E6%93%9A%E5%A0%B1%E5%90%91%E7%BE%8E%E8%89%A6%E8%89%87%E7%99%BC%E5%B0%84%E5%B7%A1%E8%88%AA%E5%B0%8E%E5%BD%88",
+    "timestamp": "2026-07-17T20:37:38.799Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "習近平會晤古特雷斯　稱中方將一如既往加強與聯合國合作",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260717/1154752676412526592872143.jpeg/RtE29p3UC2ZdKXPdr4PThJFAdr-TGLEi4Y__v-GP_78?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60370846/%E5%AE%98%E5%AA%92ai%E5%BD%B1%E7%89%87%E8%AB%B7%E8%8F%B2-%E6%BC%94%E7%8C%B4%E6%88%B2-%E5%8F%97%E7%BE%8E%E6%97%A5%E6%93%8D%E6%8E%A7-%E8%8F%B2%E9%98%B2%E9%95%B7%E6%89%B9-%E7%A8%AE%E6%97%8F%E4%B8%BB%E7%BE%A9-%E6%9C%89%E7%89%87",
     "timestamp": "2026-07-17T05:13:52.618Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "一粥麵優惠｜快閃優惠低過5折！冬瓜盅+滷水鵝+煎魚5餸2人餐$109",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260717/1154735344894087168906531.jpeg/c3kWyNy_n81bhFZn6po0pSVsWBS5TwK15dY8S-XWPEs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%A3%9F%E7%8E%A9%E8%B2%B7/60370824/%E4%B8%80%E7%B2%A5%E9%BA%B5%E5%84%AA%E6%83%A0-%E5%BF%AB%E9%96%83%E5%84%AA%E6%83%A0%E4%BD%8E%E9%81%8E5%E6%8A%98-%E5%86%AC%E7%93%9C%E7%9B%85-%E6%BB%B7%E6%B0%B4%E9%B5%9D-%E7%85%8E%E9%AD%9A5%E9%A4%B82%E4%BA%BA%E9%A4%90-109",
-    "timestamp": "2026-07-17T02:49:22.068Z",
     "strategy": ".content-card__main"
   }
 ];
