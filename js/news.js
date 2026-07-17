@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-17T11:53:31.611Z
+// Last updated: 2026-07-17T12:20:34.884Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "海關機場截查兩泰國抵港男旅客　檢44瀕危活龜及蜥蜴值$55萬",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260717/1154880207497203712721369.jpeg/T0z0keBc5-jd1xlva3CtkTh_5MV8_QtxFqwYZBasGGQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60371122/%E6%B5%B7%E9%97%9C%E6%A9%9F%E5%A0%B4%E6%88%AA%E6%9F%A5%E5%85%A9%E6%B3%B0%E5%9C%8B%E6%8A%B5%E6%B8%AF%E7%94%B7%E6%97%85%E5%AE%A2-%E6%AA%A244%E7%80%95%E5%8D%B1%E6%B4%BB%E9%BE%9C%E5%8F%8A%E8%9C%A5%E8%9C%B4%E5%80%BC-55%E8%90%AC",
+    "timestamp": "2026-07-17T12:20:34.884Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "紅磡露宿婆婆疑遭淋煙灰水欺凌　熱心市民報警　社工籲包容弱勢",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260713/1153466384278097920743095.jpeg/ZGJ4zs78RbEwwVaRva39hcjB_aqpBN1FWHBg-VhwYPk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60370770/%E7%BE%8E%E5%9C%8B%E6%94%B6%E7%B7%8A%E5%A4%96%E5%9C%8B%E7%95%99%E5%AD%B8%E7%94%9F%E5%8F%8A%E8%A8%98%E8%80%85%E7%B0%BD%E8%AD%89%E9%80%97%E7%95%99%E6%9C%9F%E9%99%90-%E4%B8%AD%E5%9C%8B%E8%A8%98%E8%80%85%E9%99%9090%E5%A4%A9",
     "timestamp": "2026-07-16T19:19:38.965Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "英國預定明年4月起禁向16歲以下人士出售能量飲品",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260717/1154610218684911616021357.jpeg/cb-Ya4pRyaxStPqU1Dwb0Yo8ZVVSqlj_iLXFiYi1xYk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60370776/%E8%8B%B1%E5%9C%8B%E9%A0%90%E5%AE%9A%E6%98%8E%E5%B9%B44%E6%9C%88%E8%B5%B7%E7%A6%81%E5%90%9116%E6%AD%B2%E4%BB%A5%E4%B8%8B%E4%BA%BA%E5%A3%AB%E5%87%BA%E5%94%AE%E8%83%BD%E9%87%8F%E9%A3%B2%E5%93%81",
-    "timestamp": "2026-07-16T18:47:46.745Z",
     "strategy": ".content-card__main"
   }
 ];
