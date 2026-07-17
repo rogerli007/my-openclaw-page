@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-17T12:20:34.884Z
+// Last updated: 2026-07-17T12:57:30.337Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "李珊珊情繫BIGBANG盼再赴韓朝聖　計劃以600字大綱敲電影門",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260717/1154849760910249984268479.jpeg/z3jV431kQsZgDqHlml5uab5o8rjw-JSVAY3hQwGN4UM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60371084/%E6%9D%8E%E7%8F%8A%E7%8F%8A%E6%83%85%E7%B9%ABbigbang%E7%9B%BC%E5%86%8D%E8%B5%B4%E9%9F%93%E6%9C%9D%E8%81%96-%E8%A8%88%E5%8A%83%E4%BB%A5600%E5%AD%97%E5%A4%A7%E7%B6%B1%E6%95%B2%E9%9B%BB%E5%BD%B1%E9%96%80",
+    "timestamp": "2026-07-17T12:57:30.337Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "海關機場截查兩泰國抵港男旅客　檢44瀕危活龜及蜥蜴值$55萬",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260713/1153466384278097920743095.jpeg/ZGJ4zs78RbEwwVaRva39hcjB_aqpBN1FWHBg-VhwYPk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60370770/%E7%BE%8E%E5%9C%8B%E6%94%B6%E7%B7%8A%E5%A4%96%E5%9C%8B%E7%95%99%E5%AD%B8%E7%94%9F%E5%8F%8A%E8%A8%98%E8%80%85%E7%B0%BD%E8%AD%89%E9%80%97%E7%95%99%E6%9C%9F%E9%99%90-%E4%B8%AD%E5%9C%8B%E8%A8%98%E8%80%85%E9%99%9090%E5%A4%A9",
     "timestamp": "2026-07-16T19:48:13.835Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美國收緊外國留學生及記者簽證逗留期限　中國記者限90天",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260713/1153466384278097920743095.jpeg/ZGJ4zs78RbEwwVaRva39hcjB_aqpBN1FWHBg-VhwYPk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60370770/%E7%BE%8E%E5%9C%8B%E6%94%B6%E7%B7%8A%E5%A4%96%E5%9C%8B%E7%95%99%E5%AD%B8%E7%94%9F%E5%8F%8A%E8%A8%98%E8%80%85%E7%B0%BD%E8%AD%89%E9%80%97%E7%95%99%E6%9C%9F%E9%99%90-%E4%B8%AD%E5%9C%8B%E8%A8%98%E8%80%85%E9%99%9090%E5%A4%A9",
-    "timestamp": "2026-07-16T19:19:38.965Z",
     "strategy": ".content-card__main"
   }
 ];
