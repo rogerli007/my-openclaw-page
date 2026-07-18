@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-18T03:50:53.531Z
+// Last updated: 2026-07-18T05:06:06.076Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "銅鑼灣視障人士過馬路！途人示意司機停車　男童停步伸手提醒獲讚",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260715/1154102692495233024627389.png/FDBkMXHRsEBCqdgTNesdiWi3t6fRrIKXPrZm-j62Zvo",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60369962/%E9%8A%85%E9%91%BC%E7%81%A3%E8%A6%96%E9%9A%9C%E4%BA%BA%E5%A3%AB%E9%81%8E%E9%A6%AC%E8%B7%AF-%E9%80%94%E4%BA%BA%E7%A4%BA%E6%84%8F%E5%8F%B8%E6%A9%9F%E5%81%9C%E8%BB%8A-%E7%94%B7%E7%AB%A5%E5%81%9C%E6%AD%A5%E4%BC%B8%E6%89%8B%E6%8F%90%E9%86%92%E7%8D%B2%E8%AE%9A",
+    "timestamp": "2026-07-18T05:06:06.076Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "黃錦輝辭職｜謝小華：現階段補選不符成本效益　可能性極低",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260717/1154801707486547968083264.jpeg/ZXU9xzr_12ZTldGLk3WogSNh0RO8L32LdIgdynSIHco?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60370950/q2%E7%87%9F%E6%94%B6%E4%B8%8D%E5%8F%8A%E9%A0%90%E6%9C%9F-%E4%B8%8B%E8%AA%BF%E5%85%A8%E5%B9%B4%E6%8C%87%E5%BC%95-netflix%E6%97%A9%E6%AE%B5%E9%87%8D%E6%8C%AB%E9%80%BE%E4%B8%80%E6%88%90-%E7%BE%8E%E8%82%A1",
     "timestamp": "2026-07-17T13:40:03.823Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "李珊珊情繫BIGBANG盼再赴韓朝聖　計劃以600字大綱敲電影門",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260717/1154849760910249984268479.jpeg/z3jV431kQsZgDqHlml5uab5o8rjw-JSVAY3hQwGN4UM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60371084/%E6%9D%8E%E7%8F%8A%E7%8F%8A%E6%83%85%E7%B9%ABbigbang%E7%9B%BC%E5%86%8D%E8%B5%B4%E9%9F%93%E6%9C%9D%E8%81%96-%E8%A8%88%E5%8A%83%E4%BB%A5600%E5%AD%97%E5%A4%A7%E7%B6%B1%E6%95%B2%E9%9B%BB%E5%BD%B1%E9%96%80",
-    "timestamp": "2026-07-17T12:57:30.337Z",
     "strategy": ".content-card__main"
   }
 ];
