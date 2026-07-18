@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-18T05:06:06.076Z
+// Last updated: 2026-07-18T06:01:53.123Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "羽毛球日本賽｜鄧俊文謝影雪激戰逾1小時　挫馬來西亞新星入決賽",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260718/1155146221006884864412086.jpeg/tvFXys57YpY018VWZPuuQcjq9Oi7SRBKgFpKY4BaSmM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60371203/%E7%BE%BD%E6%AF%9B%E7%90%83%E6%97%A5%E6%9C%AC%E8%B3%BD-%E9%84%A7%E4%BF%8A%E6%96%87%E8%AC%9D%E5%BD%B1%E9%9B%AA%E6%BF%80%E6%88%B0%E9%80%BE1%E5%B0%8F%E6%99%82-%E6%8C%AB%E9%A6%AC%E4%BE%86%E8%A5%BF%E4%BA%9E%E6%96%B0%E6%98%9F%E5%85%A5%E6%B1%BA%E8%B3%BD",
+    "timestamp": "2026-07-18T06:01:53.123Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "銅鑼灣視障人士過馬路！途人示意司機停車　男童停步伸手提醒獲讚",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260717/1154849503811997696150473.jpeg/vnX9zZyy3VhBsf7UA2_wjeclKQRjuMDYViI2jFYiNow?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60371076/%E4%B8%AD%E5%9C%8B%E9%81%BF%E6%9A%91%E6%B8%B8-%E7%81%AB%E4%BA%86-%E5%A4%96%E5%9C%8B%E9%81%8A%E5%AE%A2%E6%89%8E%E5%A0%86%E6%B7%B1%E5%9C%B3-%E7%8B%82%E6%8E%83%E8%8F%AF%E5%BC%B7%E5%8C%97%E9%81%BF%E6%9A%91%E7%94%A2%E5%93%81",
     "timestamp": "2026-07-17T15:04:12.466Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "Q2營收不及預期、下調全年指引！　Netflix早段重挫逾一成｜美股",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260717/1154801707486547968083264.jpeg/ZXU9xzr_12ZTldGLk3WogSNh0RO8L32LdIgdynSIHco?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60370950/q2%E7%87%9F%E6%94%B6%E4%B8%8D%E5%8F%8A%E9%A0%90%E6%9C%9F-%E4%B8%8B%E8%AA%BF%E5%85%A8%E5%B9%B4%E6%8C%87%E5%BC%95-netflix%E6%97%A9%E6%AE%B5%E9%87%8D%E6%8C%AB%E9%80%BE%E4%B8%80%E6%88%90-%E7%BE%8E%E8%82%A1",
-    "timestamp": "2026-07-17T13:40:03.823Z",
     "strategy": ".content-card__main"
   }
 ];
