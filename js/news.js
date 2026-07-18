@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-18T13:16:14.951Z
+// Last updated: 2026-07-18T13:54:30.181Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "韓國首爾及周邊暴雨引發水浸　近150戶被淹　當局派逾9000人應災",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260718/1155265634888585216580463.png/7XNaWJX0e4LdvHgeihAiTzekFyLxQcey_YfVcP2H1XA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60371304/%E9%9F%93%E5%9C%8B%E9%A6%96%E7%88%BE%E5%8F%8A%E5%91%A8%E9%82%8A%E6%9A%B4%E9%9B%A8%E5%BC%95%E7%99%BC%E6%B0%B4%E6%B5%B8-%E8%BF%91150%E6%88%B6%E8%A2%AB%E6%B7%B9-%E7%95%B6%E5%B1%80%E6%B4%BE%E9%80%BE9000%E4%BA%BA%E6%87%89%E7%81%BD",
+    "timestamp": "2026-07-18T13:54:30.181Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "紅磡露宿婆婆遭欺凌｜被淋液拖行惹街坊憂心　警拘男疑犯下周提堂",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250417/989406414021595136526730.jpeg/SF-FuWuHg9qbWHx77eQOKNFX4po-mhi94eoH7uHqB-4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60371171/%E7%BE%8E%E8%BB%8D%E9%80%A3%E7%BA%8C%E7%AC%AC%E4%B8%83%E6%99%9A%E6%89%93%E6%93%8A%E4%BC%8A%E6%9C%97-%E4%BC%8A%E6%96%B9%E6%93%9A%E5%A0%B1%E5%90%91%E7%BE%8E%E8%89%A6%E8%89%87%E7%99%BC%E5%B0%84%E5%B7%A1%E8%88%AA%E5%B0%8E%E5%BD%88",
     "timestamp": "2026-07-17T20:37:38.799Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "習近平會晤古特雷斯　稱中方將一如既往加強與聯合國合作",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260718/1154961075267964928769540.png/7lkONiyaTCFiphjD6YZrCa8JWPLaM2ZV6gSRSOoEkUg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60371166/%E7%BF%92%E8%BF%91%E5%B9%B3%E6%9C%83%E6%99%A4%E5%8F%A4%E7%89%B9%E9%9B%B7%E6%96%AF-%E7%A8%B1%E4%B8%AD%E6%96%B9%E5%B0%87%E4%B8%80%E5%A6%82%E6%97%A2%E5%BE%80%E5%8A%A0%E5%BC%B7%E8%88%87%E8%81%AF%E5%90%88%E5%9C%8B%E5%90%88%E4%BD%9C",
-    "timestamp": "2026-07-17T19:44:58.425Z",
     "strategy": ".content-card__main"
   }
 ];
