@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-18T00:56:00.056Z
+// Last updated: 2026-07-18T01:42:38.050Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "新清水灣道救護車「自炒」撞欄剷上行人路　車頭毀爛幸無人受傷",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260718/1155080745912373248329081.jpeg/OkByWuLObzGM0GhIMAyH5PBoswpnkU9_8-rR2PPq0dg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60371187/%E6%96%B0%E6%B8%85%E6%B0%B4%E7%81%A3%E9%81%93%E6%95%91%E8%AD%B7%E8%BB%8A-%E8%87%AA%E7%82%92-%E6%92%9E%E6%AC%84%E5%89%B7%E4%B8%8A%E8%A1%8C%E4%BA%BA%E8%B7%AF-%E8%BB%8A%E9%A0%AD%E6%AF%80%E7%88%9B%E5%B9%B8%E7%84%A1%E4%BA%BA%E5%8F%97%E5%82%B7",
+    "timestamp": "2026-07-18T01:42:38.050Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "翁靜晶重提「X先生」名人勒索案　瞞女友偷食逼擺不雅姿勢影相",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260717/1154880207497203712721369.jpeg/T0z0keBc5-jd1xlva3CtkTh_5MV8_QtxFqwYZBasGGQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60371122/%E6%B5%B7%E9%97%9C%E6%A9%9F%E5%A0%B4%E6%88%AA%E6%9F%A5%E5%85%A9%E6%B3%B0%E5%9C%8B%E6%8A%B5%E6%B8%AF%E7%94%B7%E6%97%85%E5%AE%A2-%E6%AA%A244%E7%80%95%E5%8D%B1%E6%B4%BB%E9%BE%9C%E5%8F%8A%E8%9C%A5%E8%9C%B4%E5%80%BC-55%E8%90%AC",
     "timestamp": "2026-07-17T12:20:34.884Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "紅磡露宿婆婆疑遭淋煙灰水欺凌　熱心市民報警　社工籲包容弱勢",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260717/1154873460757893120245367.jpeg/FZedsoRjsFPXOAjzwNwT13bGNcrlTR24D9lFUw_ZRVM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60371080/%E7%B4%85%E7%A3%A1%E9%9C%B2%E5%AE%BF%E5%A9%86%E5%A9%86%E7%96%91%E9%81%AD%E6%B7%8B%E7%85%99%E7%81%B0%E6%B0%B4%E6%AC%BA%E5%87%8C-%E7%86%B1%E5%BF%83%E5%B8%82%E6%B0%91%E5%A0%B1%E8%AD%A6-%E7%A4%BE%E5%B7%A5%E7%B1%B2%E5%8C%85%E5%AE%B9%E5%BC%B1%E5%8B%A2",
-    "timestamp": "2026-07-17T11:53:31.611Z",
     "strategy": ".content-card__main"
   }
 ];
