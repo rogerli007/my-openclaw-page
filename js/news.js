@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-18T22:54:23.094Z
+// Last updated: 2026-07-18T23:26:20.692Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "有片！30歲男為情跳河　71歲神勇婆婆躍深水救人　事後深藏功與名",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260718/1155244688366637056593864.jpeg/3w9vXV0yaoSMhxhcFd6QLzcW_rs8msIxJFX2aSRV9mk",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60370709/%E6%9C%89%E7%89%87-30%E6%AD%B2%E7%94%B7%E7%82%BA%E6%83%85%E8%B7%B3%E6%B2%B3-71%E6%AD%B2%E7%A5%9E%E5%8B%87%E5%A9%86%E5%A9%86%E8%BA%8D%E6%B7%B1%E6%B0%B4%E6%95%91%E4%BA%BA-%E4%BA%8B%E5%BE%8C%E6%B7%B1%E8%97%8F%E5%8A%9F%E8%88%87%E5%90%8D",
+    "timestamp": "2026-07-18T23:26:20.692Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "以色列部長：擬在加沙及約旦河西岸擴建定居點",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260718/1155216263983665152415790.jpeg/RgtUNYAO8BJVwuTnIaufhGgm5lC1pNJNko1NO5KNTTs?v=w1920",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60371282/%E7%B4%85%E7%A3%A1%E9%9C%B2%E5%AE%BF%E5%A9%86%E5%A9%86%E9%81%AD%E6%AC%BA%E5%87%8C-%E8%A2%AB%E6%B7%8B%E6%B6%B2%E6%8B%96%E8%A1%8C%E6%83%B9%E8%A1%97%E5%9D%8A%E6%86%82%E5%BF%83-%E8%AD%A6%E6%8B%98%E7%94%B7%E7%96%91%E7%8A%AF%E4%B8%8B%E5%91%A8%E6%8F%90%E5%A0%82",
     "timestamp": "2026-07-18T13:16:14.951Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "歐倩怡帶愛女遊北京曬溫馨相　15歲郭以雅只露櫻桃小嘴充滿神秘感",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260718/1155237240171925504041876.jpeg/TFUH9MaIlnVkEBvxCFrd5-aqBGWklgXRL0hptS9IabU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60371285/%E6%AD%90%E5%80%A9%E6%80%A1%E5%B8%B6%E6%84%9B%E5%A5%B3%E9%81%8A%E5%8C%97%E4%BA%AC%E6%9B%AC%E6%BA%AB%E9%A6%A8%E7%9B%B8-15%E6%AD%B2%E9%83%AD%E4%BB%A5%E9%9B%85%E5%8F%AA%E9%9C%B2%E6%AB%BB%E6%A1%83%E5%B0%8F%E5%98%B4%E5%85%85%E6%BB%BF%E7%A5%9E%E7%A7%98%E6%84%9F",
-    "timestamp": "2026-07-18T12:39:40.126Z",
     "strategy": ".content-card__main"
   }
 ];
