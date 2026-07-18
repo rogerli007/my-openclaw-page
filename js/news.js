@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-18T19:59:15.003Z
+// Last updated: 2026-07-18T20:52:54.610Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "伊朗襲中東區內美國設施　美軍：2名士兵在約旦陣亡　1人失蹤",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250417/989406414021595136526730.jpeg/SF-FuWuHg9qbWHx77eQOKNFX4po-mhi94eoH7uHqB-4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60371332/%E4%BC%8A%E6%9C%97%E8%A5%B2%E4%B8%AD%E6%9D%B1%E5%8D%80%E5%85%A7%E7%BE%8E%E5%9C%8B%E8%A8%AD%E6%96%BD-%E7%BE%8E%E8%BB%8D-2%E5%90%8D%E5%A3%AB%E5%85%B5%E5%9C%A8%E7%B4%84%E6%97%A6%E9%99%A3%E4%BA%A1-1%E4%BA%BA%E5%A4%B1%E8%B9%A4",
+    "timestamp": "2026-07-18T20:52:54.610Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "德國將安全警戒升至高威脅級別　內政部長：襲擊計劃顯而易見",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260718/1155105727497375744719342.jpeg/bnCT4OXJlArfblMuit4oURysRxukIRbU92YT4PdmE-A?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60371195/%E4%B8%96%E7%95%8C%E7%9B%83%E8%A5%BF%E7%8F%AD%E7%89%99%E5%B0%8D%E9%98%BF%E6%A0%B9%E5%BB%B7-%E8%80%B6%E9%A6%AC%E5%82%B7%E5%8B%A2%E7%84%A1%E5%A4%A7%E7%A4%99-%E5%AF%8C%E5%AE%89%E8%BF%AA%E5%AF%84%E8%AA%9E-%E5%81%9A%E8%87%AA%E5%B7%B1",
     "timestamp": "2026-07-18T09:10:28.829Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "《中國達人秀》前選手劉凱瀟罪成　揭赴新西蘭做「教主」捲殺人案",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260718/1155179141499195392965432.jpeg/77f_EB48eKzv4zcfhgXInC5bFoECBsUqtGTPBbRkzwU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60371236/%E4%B8%AD%E5%9C%8B%E9%81%94%E4%BA%BA%E7%A7%80-%E5%89%8D%E9%81%B8%E6%89%8B%E5%8A%89%E5%87%B1%E7%80%9F%E7%BD%AA%E6%88%90-%E6%8F%AD%E8%B5%B4%E6%96%B0%E8%A5%BF%E8%98%AD%E5%81%9A-%E6%95%99%E4%B8%BB-%E6%8D%B2%E6%AE%BA%E4%BA%BA%E6%A1%88",
-    "timestamp": "2026-07-18T08:27:48.778Z",
     "strategy": ".content-card__main"
   }
 ];
