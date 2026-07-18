@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-17T23:40:48.055Z
+// Last updated: 2026-07-18T00:56:00.056Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "翁靜晶重提「X先生」名人勒索案　瞞女友偷食逼擺不雅姿勢影相",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260717/1154891278899482624207145.jpeg/iTCbbPVFd5RBANeKqxvdLspsAnTxpU0z32qlDd9qpQ0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60371083/%E7%BF%81%E9%9D%9C%E6%99%B6%E9%87%8D%E6%8F%90-x%E5%85%88%E7%94%9F-%E5%90%8D%E4%BA%BA%E5%8B%92%E7%B4%A2%E6%A1%88-%E7%9E%9E%E5%A5%B3%E5%8F%8B%E5%81%B7%E9%A3%9F%E9%80%BC%E6%93%BA%E4%B8%8D%E9%9B%85%E5%A7%BF%E5%8B%A2%E5%BD%B1%E7%9B%B8",
+    "timestamp": "2026-07-18T00:56:00.056Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "加拿大山火煙霧籠罩美國多地　特朗普威脅將污染成本計入關稅",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260717/1154873460757893120245367.jpeg/FZedsoRjsFPXOAjzwNwT13bGNcrlTR24D9lFUw_ZRVM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60371080/%E7%B4%85%E7%A3%A1%E9%9C%B2%E5%AE%BF%E5%A9%86%E5%A9%86%E7%96%91%E9%81%AD%E6%B7%8B%E7%85%99%E7%81%B0%E6%B0%B4%E6%AC%BA%E5%87%8C-%E7%86%B1%E5%BF%83%E5%B8%82%E6%B0%91%E5%A0%B1%E8%AD%A6-%E7%A4%BE%E5%B7%A5%E7%B1%B2%E5%8C%85%E5%AE%B9%E5%BC%B1%E5%8B%A2",
     "timestamp": "2026-07-17T11:53:31.611Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "行李共藏$390萬大麻花　曼谷抵港兩男旅客涉販毒遭拘控",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260717/1154859277169463296457638.jpeg/j3EnzT3_1-fMnL3QlW3bPtDIpYlRxz8AwUopncFKKZ0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60371105/%E8%A1%8C%E6%9D%8E%E5%85%B1%E8%97%8F-390%E8%90%AC%E5%A4%A7%E9%BA%BB%E8%8A%B1-%E6%9B%BC%E8%B0%B7%E6%8A%B5%E6%B8%AF%E5%85%A9%E7%94%B7%E6%97%85%E5%AE%A2%E6%B6%89%E8%B2%A9%E6%AF%92%E9%81%AD%E6%8B%98%E6%8E%A7",
-    "timestamp": "2026-07-17T11:08:31.913Z",
     "strategy": ".content-card__main"
   }
 ];
