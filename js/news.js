@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-18T16:54:27.072Z
+// Last updated: 2026-07-18T17:28:14.142Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "伊朗最高領袖：美國一再違背協議承諾　證明特朗普的簽名毫無價值",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260315/1109789975248900096793201.jpeg/CbjfVOUOlTwGsqeOPO_vzuJuLSpMokeEHCiWMRwoljE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60371325/%E4%BC%8A%E6%9C%97%E6%9C%80%E9%AB%98%E9%A0%98%E8%A2%96-%E7%BE%8E%E5%9C%8B%E4%B8%80%E5%86%8D%E9%81%95%E8%83%8C%E5%8D%94%E8%AD%B0%E6%89%BF%E8%AB%BE-%E8%AD%89%E6%98%8E%E7%89%B9%E6%9C%97%E6%99%AE%E7%9A%84%E7%B0%BD%E5%90%8D%E6%AF%AB%E7%84%A1%E5%83%B9%E5%80%BC",
+    "timestamp": "2026-07-18T17:28:14.142Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "屯門屯子圍村屋遭爆竊　33歲男損失2隻勞力士名錶　共值$26萬",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260717/1154891278899482624207145.jpeg/iTCbbPVFd5RBANeKqxvdLspsAnTxpU0z32qlDd9qpQ0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60371083/%E7%BF%81%E9%9D%9C%E6%99%B6%E9%87%8D%E6%8F%90-x%E5%85%88%E7%94%9F-%E5%90%8D%E4%BA%BA%E5%8B%92%E7%B4%A2%E6%A1%88-%E7%9E%9E%E5%A5%B3%E5%8F%8B%E5%81%B7%E9%A3%9F%E9%80%BC%E6%93%BA%E4%B8%8D%E9%9B%85%E5%A7%BF%E5%8B%A2%E5%BD%B1%E7%9B%B8",
     "timestamp": "2026-07-18T00:56:00.056Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "加拿大山火煙霧籠罩美國多地　特朗普威脅將污染成本計入關稅",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260718/1155046285229690880601497.jpeg/PN9oR4obxsqoicG-XReEiRLLHyO-2MflI6E7LyOhOy8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60371176/%E5%8A%A0%E6%8B%BF%E5%A4%A7%E5%B1%B1%E7%81%AB%E7%85%99%E9%9C%A7%E7%B1%A0%E7%BD%A9%E7%BE%8E%E5%9C%8B%E5%A4%9A%E5%9C%B0-%E7%89%B9%E6%9C%97%E6%99%AE%E5%A8%81%E8%84%85%E5%B0%87%E6%B1%A1%E6%9F%93%E6%88%90%E6%9C%AC%E8%A8%88%E5%85%A5%E9%97%9C%E7%A8%85",
-    "timestamp": "2026-07-17T23:40:48.055Z",
     "strategy": ".content-card__main"
   }
 ];
