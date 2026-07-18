@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-18T09:10:28.829Z
+// Last updated: 2026-07-18T10:37:16.749Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "世界盃2026｜小紅書在體育賽道高調亮相　有多少人在上面看球？",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260718/1155194447407878144520917.jpeg/vsFZ11XtwGReKUyit1QTWFMpc3XTPSNdkh2A_ZIdgP0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E4%B8%AD%E5%9C%8B%E8%A7%80%E5%AF%9F/60371259/%E4%B8%96%E7%95%8C%E7%9B%832026-%E5%B0%8F%E7%B4%85%E6%9B%B8%E5%9C%A8%E9%AB%94%E8%82%B2%E8%B3%BD%E9%81%93%E9%AB%98%E8%AA%BF%E4%BA%AE%E7%9B%B8-%E6%9C%89%E5%A4%9A%E5%B0%91%E4%BA%BA%E5%9C%A8%E4%B8%8A%E9%9D%A2%E7%9C%8B%E7%90%83",
+    "timestamp": "2026-07-18T10:37:16.749Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "世界盃西班牙對阿根廷｜耶馬傷勢無大礙　富安迪寄語「做自己」",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260718/1154961878972108800298361.jpeg/OTCxDYg2LWXPG2PzBk55iuIYPya54GxmnidWTJ4nVkw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60371167/500%E5%90%8D%E8%AD%A6%E5%93%A1%E8%A5%BF%E4%B9%9D%E6%BC%94%E7%BF%92-%E6%A8%A1%E6%93%AC%E6%87%89%E5%B0%8D%E5%9C%8B%E9%9A%9B%E6%9C%83%E8%AD%B0%E6%9C%9F%E9%96%93%E9%81%87%E6%81%90%E8%A5%B2-%E6%8F%90%E5%8D%87%E5%90%88%E4%BD%9C%E6%95%88%E7%8E%87",
     "timestamp": "2026-07-17T17:48:05.003Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "自製PC專用Steam卡帶 | 舊SSD改裝即插即玩　實體遊戲的浪漫！",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260717/1154813858003554304269351.jpeg/G5PrI2FNZ9YaIkwbwYzbmnPFR__QWdaCAmwakgJsGpI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%81%8A%E6%88%B2%E5%8B%95%E6%BC%AB/60370972/%E8%87%AA%E8%A3%BDpc%E5%B0%88%E7%94%A8steam%E5%8D%A1%E5%B8%B6-%E8%88%8Assd%E6%94%B9%E8%A3%9D%E5%8D%B3%E6%8F%92%E5%8D%B3%E7%8E%A9-%E5%AF%A6%E9%AB%94%E9%81%8A%E6%88%B2%E7%9A%84%E6%B5%AA%E6%BC%AB",
-    "timestamp": "2026-07-17T16:16:22.605Z",
     "strategy": ".content-card__main"
   }
 ];
