@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-18T15:28:19.835Z
+// Last updated: 2026-07-18T15:53:49.012Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "警東涌打擊非法賭博檢賭具及現金　19名男女被捕　年紀最小16歲",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260718/1155294234589270016654271.jpeg/9H8f58TINdKpA8VhRKaVtvJrhpeln3Zs_oyjnv6Mo54?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60371318/%E8%AD%A6%E6%9D%B1%E6%B6%8C%E6%89%93%E6%93%8A%E9%9D%9E%E6%B3%95%E8%B3%AD%E5%8D%9A%E6%AA%A2%E8%B3%AD%E5%85%B7%E5%8F%8A%E7%8F%BE%E9%87%91-19%E5%90%8D%E7%94%B7%E5%A5%B3%E8%A2%AB%E6%8D%95-%E5%B9%B4%E7%B4%80%E6%9C%80%E5%B0%8F16%E6%AD%B2",
+    "timestamp": "2026-07-18T15:53:49.012Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "鍾鎮濤為供鍾懿英國讀大學日唱夜唱21年  全家飛倫敦出席畢業禮",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260716/1154538957166350336972014.jpeg/yf1taNq1qmXDk2ptWNDUNPBRogv5JCYST9tfH0_bXx8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60369989/%E6%9C%80%E6%96%B0%E5%A4%A9%E6%B0%A3%E6%B6%88%E6%81%AF-%E9%BB%83%E9%9B%A8%E8%AD%A6%E5%91%8A%E7%94%9F%E6%95%88-%E5%A4%A9%E6%96%87%E5%8F%B0-%E8%8D%83%E7%81%A3%E5%8D%80%E9%9B%A8%E5%8B%A2%E7%89%B9%E5%88%A5%E5%A4%A7",
     "timestamp": "2026-07-17T22:40:24.855Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "住宅商業兩極發展　銀行應支持本地經濟　讓商業地產有喘息空間",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260717/1154917326852722688714568.jpeg/_1q5_ovqAhjjNyBzkvbckn-V7VwYmwDDnoocep6KHHo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60371135/%E4%BD%8F%E5%AE%85%E5%95%86%E6%A5%AD%E5%85%A9%E6%A5%B5%E7%99%BC%E5%B1%95-%E9%8A%80%E8%A1%8C%E6%87%89%E6%94%AF%E6%8C%81%E6%9C%AC%E5%9C%B0%E7%B6%93%E6%BF%9F-%E8%AE%93%E5%95%86%E6%A5%AD%E5%9C%B0%E7%94%A2%E6%9C%89%E5%96%98%E6%81%AF%E7%A9%BA%E9%96%93",
-    "timestamp": "2026-07-17T22:09:25.479Z",
     "strategy": ".content-card__main"
   }
 ];
