@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-18T01:42:38.050Z
+// Last updated: 2026-07-18T03:50:53.531Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "黃錦輝辭職｜謝小華：現階段補選不符成本效益　可能性極低",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260101/1083420836720939008637981.jpeg/4ajrP3X2JwhEU7rPI11dyFhWrK9kyFBgitMjGK_TIxg?v=w1920",
+    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60371211/%E9%BB%83%E9%8C%A6%E8%BC%9D%E8%BE%AD%E8%81%B7-%E8%AC%9D%E5%B0%8F%E8%8F%AF-%E7%8F%BE%E9%9A%8E%E6%AE%B5%E8%A3%9C%E9%81%B8%E4%B8%8D%E7%AC%A6%E6%88%90%E6%9C%AC%E6%95%88%E7%9B%8A-%E5%8F%AF%E8%83%BD%E6%80%A7%E6%A5%B5%E4%BD%8E",
+    "timestamp": "2026-07-18T03:50:53.531Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "新清水灣道救護車「自炒」撞欄剷上行人路　車頭毀爛幸無人受傷",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260717/1154849760910249984268479.jpeg/z3jV431kQsZgDqHlml5uab5o8rjw-JSVAY3hQwGN4UM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60371084/%E6%9D%8E%E7%8F%8A%E7%8F%8A%E6%83%85%E7%B9%ABbigbang%E7%9B%BC%E5%86%8D%E8%B5%B4%E9%9F%93%E6%9C%9D%E8%81%96-%E8%A8%88%E5%8A%83%E4%BB%A5600%E5%AD%97%E5%A4%A7%E7%B6%B1%E6%95%B2%E9%9B%BB%E5%BD%B1%E9%96%80",
     "timestamp": "2026-07-17T12:57:30.337Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "海關機場截查兩泰國抵港男旅客　檢44瀕危活龜及蜥蜴值$55萬",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260717/1154880207497203712721369.jpeg/T0z0keBc5-jd1xlva3CtkTh_5MV8_QtxFqwYZBasGGQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60371122/%E6%B5%B7%E9%97%9C%E6%A9%9F%E5%A0%B4%E6%88%AA%E6%9F%A5%E5%85%A9%E6%B3%B0%E5%9C%8B%E6%8A%B5%E6%B8%AF%E7%94%B7%E6%97%85%E5%AE%A2-%E6%AA%A244%E7%80%95%E5%8D%B1%E6%B4%BB%E9%BE%9C%E5%8F%8A%E8%9C%A5%E8%9C%B4%E5%80%BC-55%E8%90%AC",
-    "timestamp": "2026-07-17T12:20:34.884Z",
     "strategy": ".content-card__main"
   }
 ];
