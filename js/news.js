@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-18T13:54:30.181Z
+// Last updated: 2026-07-18T14:35:47.001Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "禾仙夏訪華？佛得角駐華大使：獲多省邀請，正全力促成中佛友誼賽",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260701/1149092342767030272041532.jpeg/_VYBEmtfxRomgyz6J5bInybHOObyIvtfoIFT7qCBU-4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60371309/%E7%A6%BE%E4%BB%99%E5%A4%8F%E8%A8%AA%E8%8F%AF-%E4%BD%9B%E5%BE%97%E8%A7%92%E9%A7%90%E8%8F%AF%E5%A4%A7%E4%BD%BF-%E7%8D%B2%E5%A4%9A%E7%9C%81%E9%82%80%E8%AB%8B-%E6%AD%A3%E5%85%A8%E5%8A%9B%E4%BF%83%E6%88%90%E4%B8%AD%E4%BD%9B%E5%8F%8B%E8%AA%BC%E8%B3%BD",
+    "timestamp": "2026-07-18T14:35:47.001Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "韓國首爾及周邊暴雨引發水浸　近150戶被淹　當局派逾9000人應災",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250417/989406414021595136526730.jpeg/SF-FuWuHg9qbWHx77eQOKNFX4po-mhi94eoH7uHqB-4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60371171/%E7%BE%8E%E8%BB%8D%E9%80%A3%E7%BA%8C%E7%AC%AC%E4%B8%83%E6%99%9A%E6%89%93%E6%93%8A%E4%BC%8A%E6%9C%97-%E4%BC%8A%E6%96%B9%E6%93%9A%E5%A0%B1%E5%90%91%E7%BE%8E%E8%89%A6%E8%89%87%E7%99%BC%E5%B0%84%E5%B7%A1%E8%88%AA%E5%B0%8E%E5%BD%88-%E6%9C%89%E7%89%87",
     "timestamp": "2026-07-17T21:09:55.773Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美軍連續第七晚打擊伊朗　伊方據報向美艦艇發射巡航導彈",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250417/989406414021595136526730.jpeg/SF-FuWuHg9qbWHx77eQOKNFX4po-mhi94eoH7uHqB-4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60371171/%E7%BE%8E%E8%BB%8D%E9%80%A3%E7%BA%8C%E7%AC%AC%E4%B8%83%E6%99%9A%E6%89%93%E6%93%8A%E4%BC%8A%E6%9C%97-%E4%BC%8A%E6%96%B9%E6%93%9A%E5%A0%B1%E5%90%91%E7%BE%8E%E8%89%A6%E8%89%87%E7%99%BC%E5%B0%84%E5%B7%A1%E8%88%AA%E5%B0%8E%E5%BD%88",
-    "timestamp": "2026-07-17T20:37:38.799Z",
     "strategy": ".content-card__main"
   }
 ];
