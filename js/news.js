@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-18T19:31:43.746Z
+// Last updated: 2026-07-18T19:59:15.003Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "德國將安全警戒升至高威脅級別　內政部長：襲擊計劃顯而易見",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260719/1155310590315466752821764.jpeg/QkXXiT2NSwy0KnZTf0_X68sqWejkBaFWvTgVxr04FcY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60371320/%E5%BE%B7%E5%9C%8B%E5%B0%87%E5%AE%89%E5%85%A8%E8%AD%A6%E6%88%92%E5%8D%87%E8%87%B3%E9%AB%98%E5%A8%81%E8%84%85%E7%B4%9A%E5%88%A5-%E5%85%A7%E6%94%BF%E9%83%A8%E9%95%B7-%E8%A5%B2%E6%93%8A%E8%A8%88%E5%8A%83%E9%A1%AF%E8%80%8C%E6%98%93%E8%A6%8B",
+    "timestamp": "2026-07-18T19:59:15.003Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "仁川酷澎物流中心大火　燒逾17小時未受控　全國消防動員令發布",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260718/1155179141499195392965432.jpeg/77f_EB48eKzv4zcfhgXInC5bFoECBsUqtGTPBbRkzwU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60371236/%E4%B8%AD%E5%9C%8B%E9%81%94%E4%BA%BA%E7%A7%80-%E5%89%8D%E9%81%B8%E6%89%8B%E5%8A%89%E5%87%B1%E7%80%9F%E7%BD%AA%E6%88%90-%E6%8F%AD%E8%B5%B4%E6%96%B0%E8%A5%BF%E8%98%AD%E5%81%9A-%E6%95%99%E4%B8%BB-%E6%8D%B2%E6%AE%BA%E4%BA%BA%E6%A1%88",
     "timestamp": "2026-07-18T08:27:48.778Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "羽毛球日本賽｜鄧俊文謝影雪激戰逾1小時　挫馬來西亞新星入決賽",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260718/1155146221006884864412086.jpeg/tvFXys57YpY018VWZPuuQcjq9Oi7SRBKgFpKY4BaSmM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60371203/%E7%BE%BD%E6%AF%9B%E7%90%83%E6%97%A5%E6%9C%AC%E8%B3%BD-%E9%84%A7%E4%BF%8A%E6%96%87%E8%AC%9D%E5%BD%B1%E9%9B%AA%E6%BF%80%E6%88%B0%E9%80%BE1%E5%B0%8F%E6%99%82-%E6%8C%AB%E9%A6%AC%E4%BE%86%E8%A5%BF%E4%BA%9E%E6%96%B0%E6%98%9F%E5%85%A5%E6%B1%BA%E8%B3%BD",
-    "timestamp": "2026-07-18T06:01:53.123Z",
     "strategy": ".content-card__main"
   }
 ];
