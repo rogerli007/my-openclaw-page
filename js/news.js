@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-18T15:53:49.012Z
+// Last updated: 2026-07-18T16:26:43.643Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "世界盃2026免費直播｜ViuTV賽程時間｜7.19法國對英格蘭",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260611/1141845280300208128965183.jpeg/XjYqBao7YKjNLMjZMvFiQ3HuxknUgegtJFbW7iRW1u4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60355406/%E4%B8%96%E7%95%8C%E7%9B%832026%E5%85%8D%E8%B2%BB%E7%9B%B4%E6%92%AD-viutv%E9%A6%99%E6%B8%AF%E5%AD%A3%E8%BB%8D%E6%88%B0-%E6%B1%BA%E8%B3%BD%E8%B3%BD%E7%A8%8B%E6%99%82%E9%96%93%E8%A1%A8-%E6%AF%8F%E6%97%A5%E6%9B%B4%E6%96%B0",
+    "timestamp": "2026-07-18T16:26:43.643Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "警東涌打擊非法賭博檢賭具及現金　19名男女被捕　年紀最小16歲",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260718/1155044379207929856746802.jpeg/1ZaqcQIL53dPCS8QsitgKvvtn9pDNNtzGIxr8RiMa_E?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60371177/%E5%B9%AB%E6%89%8B%E6%90%B5%E4%BA%BA-77%E6%AD%B2%E8%80%81%E7%BF%81%E8%A1%8C%E5%B1%B1%E5%A4%B1%E8%B9%A4-%E8%A6%AA%E5%8F%8B%E7%B6%B2%E4%B8%8A%E5%91%BC%E7%B1%B2%E5%B0%8B%E4%BA%BA",
     "timestamp": "2026-07-17T23:09:59.037Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "最新天氣消息｜黃雨警告生效　天文台：荃灣區雨勢特別大",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260716/1154538957166350336972014.jpeg/yf1taNq1qmXDk2ptWNDUNPBRogv5JCYST9tfH0_bXx8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60369989/%E6%9C%80%E6%96%B0%E5%A4%A9%E6%B0%A3%E6%B6%88%E6%81%AF-%E9%BB%83%E9%9B%A8%E8%AD%A6%E5%91%8A%E7%94%9F%E6%95%88-%E5%A4%A9%E6%96%87%E5%8F%B0-%E8%8D%83%E7%81%A3%E5%8D%80%E9%9B%A8%E5%8B%A2%E7%89%B9%E5%88%A5%E5%A4%A7",
-    "timestamp": "2026-07-17T22:40:24.855Z",
     "strategy": ".content-card__main"
   }
 ];
