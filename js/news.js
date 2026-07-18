@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-18T20:52:54.610Z
+// Last updated: 2026-07-18T21:24:37.338Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "世界盃季軍戰｜400人聚集商場觀賽　3男生分2派支持愛隊",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260719/1155378268128415744245081.jpeg/tSN1K19xnUrn17Z1XMzgY7nTxEKSy_Ak93UAwM11AMA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60371315/%E4%B8%96%E7%95%8C%E7%9B%83%E5%AD%A3%E8%BB%8D%E6%88%B0-400%E4%BA%BA%E8%81%9A%E9%9B%86%E5%95%86%E5%A0%B4%E8%A7%80%E8%B3%BD-3%E7%94%B7%E7%94%9F%E5%88%862%E6%B4%BE%E6%94%AF%E6%8C%81%E6%84%9B%E9%9A%8A",
+    "timestamp": "2026-07-18T21:24:37.338Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "伊朗襲中東區內美國設施　美軍：2名士兵在約旦陣亡　1人失蹤",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260718/1155194447407878144520917.jpeg/vsFZ11XtwGReKUyit1QTWFMpc3XTPSNdkh2A_ZIdgP0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E4%B8%AD%E5%9C%8B%E8%A7%80%E5%AF%9F/60371259/%E4%B8%96%E7%95%8C%E7%9B%832026-%E5%B0%8F%E7%B4%85%E6%9B%B8%E5%9C%A8%E9%AB%94%E8%82%B2%E8%B3%BD%E9%81%93%E9%AB%98%E8%AA%BF%E4%BA%AE%E7%9B%B8-%E6%9C%89%E5%A4%9A%E5%B0%91%E4%BA%BA%E5%9C%A8%E4%B8%8A%E9%9D%A2%E7%9C%8B%E7%90%83",
     "timestamp": "2026-07-18T10:37:16.749Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "世界盃西班牙對阿根廷｜耶馬傷勢無大礙　富安迪寄語「做自己」",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260718/1155105727497375744719342.jpeg/bnCT4OXJlArfblMuit4oURysRxukIRbU92YT4PdmE-A?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60371195/%E4%B8%96%E7%95%8C%E7%9B%83%E8%A5%BF%E7%8F%AD%E7%89%99%E5%B0%8D%E9%98%BF%E6%A0%B9%E5%BB%B7-%E8%80%B6%E9%A6%AC%E5%82%B7%E5%8B%A2%E7%84%A1%E5%A4%A7%E7%A4%99-%E5%AF%8C%E5%AE%89%E8%BF%AA%E5%AF%84%E8%AA%9E-%E5%81%9A%E8%87%AA%E5%B7%B1",
-    "timestamp": "2026-07-18T09:10:28.829Z",
     "strategy": ".content-card__main"
   }
 ];
