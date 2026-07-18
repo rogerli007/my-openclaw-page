@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-18T21:53:44.319Z
+// Last updated: 2026-07-18T22:24:34.059Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "世界盃｜被問特朗普質疑英格蘭戰術　杜慈反問：你拿他來做證？",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260719/1155391637136871424069243.jpeg/nQ6AON9dkUM-zkdFvQEbL6hqUxNI0zdhzNVcxczVXMU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60371334/%E4%B8%96%E7%95%8C%E7%9B%83-%E8%A2%AB%E5%95%8F%E7%89%B9%E6%9C%97%E6%99%AE%E8%B3%AA%E7%96%91%E8%8B%B1%E6%A0%BC%E8%98%AD%E6%88%B0%E8%A1%93-%E6%9D%9C%E6%85%88%E5%8F%8D%E5%95%8F-%E4%BD%A0%E6%8B%BF%E4%BB%96%E4%BE%86%E5%81%9A%E8%AD%89",
+    "timestamp": "2026-07-18T22:24:34.059Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "世界盃2026︱季軍戰英格蘭4球領先　賴斯入球兼助攻沙卡梅開二度",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260718/1155209358548668416947825.png/nQIjWIknpKqU99ZHt5u4Dwago64h4bW-HP-4hxz_uIc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60371274/%E6%8B%92%E5%9D%90%E5%A5%B3%E6%80%A7%E6%97%81%E5%8A%A0%E6%8E%8C%E6%91%91%E6%A9%9F%E8%89%99%E6%9C%8D%E5%8B%99%E5%93%A1-%E5%9C%9F%E8%80%B3%E5%85%B6%E8%A3%94%E5%BE%B7%E5%9C%8B%E7%94%B7%E5%AD%90%E8%90%BD%E5%9C%B0%E5%8D%B3%E8%A2%AB%E6%8B%98",
     "timestamp": "2026-07-18T12:08:30.623Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "心測｜伴侶哪種缺點會讓你決定分手？7題測出感情中致命傷在哪裏",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260621/1145368722806935552238507.jpeg/TUz3MCLDYpCTXfkiFDlcfmVSid7t7wj2BZEOdAWRDnQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%AB%87%E6%83%85%E8%AA%AA%E6%80%A7/60362358/%E5%BF%83%E6%B8%AC-%E4%BC%B4%E4%BE%B6%E5%93%AA%E7%A8%AE%E7%BC%BA%E9%BB%9E%E6%9C%83%E8%AE%93%E4%BD%A0%E6%B1%BA%E5%AE%9A%E5%88%86%E6%89%8B-7%E9%A1%8C%E6%B8%AC%E5%87%BA%E6%84%9F%E6%83%85%E4%B8%AD%E8%87%B4%E5%91%BD%E5%82%B7%E5%9C%A8%E5%93%AA%E8%A3%8F",
-    "timestamp": "2026-07-18T11:39:23.557Z",
     "strategy": ".content-card__main"
   }
 ];
