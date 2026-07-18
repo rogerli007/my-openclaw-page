@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-18T12:39:40.126Z
+// Last updated: 2026-07-18T13:16:14.951Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "紅磡露宿婆婆遭欺凌｜被淋液拖行惹街坊憂心　警拘男疑犯下周提堂",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260718/1155216263983665152415790.jpeg/RgtUNYAO8BJVwuTnIaufhGgm5lC1pNJNko1NO5KNTTs?v=w1920",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60371282/%E7%B4%85%E7%A3%A1%E9%9C%B2%E5%AE%BF%E5%A9%86%E5%A9%86%E9%81%AD%E6%AC%BA%E5%87%8C-%E8%A2%AB%E6%B7%8B%E6%B6%B2%E6%8B%96%E8%A1%8C%E6%83%B9%E8%A1%97%E5%9D%8A%E6%86%82%E5%BF%83-%E8%AD%A6%E6%8B%98%E7%94%B7%E7%96%91%E7%8A%AF%E4%B8%8B%E5%91%A8%E6%8F%90%E5%A0%82",
+    "timestamp": "2026-07-18T13:16:14.951Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "歐倩怡帶愛女遊北京曬溫馨相　15歲郭以雅只露櫻桃小嘴充滿神秘感",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260718/1154961075267964928769540.png/7lkONiyaTCFiphjD6YZrCa8JWPLaM2ZV6gSRSOoEkUg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60371166/%E7%BF%92%E8%BF%91%E5%B9%B3%E6%9C%83%E6%99%A4%E5%8F%A4%E7%89%B9%E9%9B%B7%E6%96%AF-%E7%A8%B1%E4%B8%AD%E6%96%B9%E5%B0%87%E4%B8%80%E5%A6%82%E6%97%A2%E5%BE%80%E5%8A%A0%E5%BC%B7%E8%88%87%E8%81%AF%E5%90%88%E5%9C%8B%E5%90%88%E4%BD%9C",
     "timestamp": "2026-07-17T19:44:58.425Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "習近平會晤古特雷斯　稱中方將一如既往加強與聯合國合作",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260718/1154961075267964928769540.png/7lkONiyaTCFiphjD6YZrCa8JWPLaM2ZV6gSRSOoEkUg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60371166/%E7%BF%92%E8%BF%91%E5%B9%B3%E6%9C%83%E6%99%A4%E5%8F%A4%E7%89%B9%E9%9B%B7%E6%96%AF-%E7%A8%B1%E4%B8%AD%E6%96%B9%E5%B0%87%E4%B8%80%E5%A6%82%E6%97%A2%E5%BE%80%E5%8A%A0%E5%BC%B7%E8%88%87%E8%81%AF%E5%90%88%E5%9C%8B%E5%90%88%E4%BD%9C",
-    "timestamp": "2026-07-17T19:14:59.881Z",
     "strategy": ".content-card__main"
   }
 ];
