@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-18T23:26:20.692Z
+// Last updated: 2026-07-18T23:55:47.165Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "三星、海力士賺太多錢　特朗普政府眼紅：「超額利潤」須分給美國",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260714/1153668908020928512230416.jpeg/wDKUHpoUL7gkzHumxbkX8o8LMcm2_3ZRah9pRGofaUQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60371337/%E4%B8%89%E6%98%9F-%E6%B5%B7%E5%8A%9B%E5%A3%AB%E8%B3%BA%E5%A4%AA%E5%A4%9A%E9%8C%A2-%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%E7%9C%BC%E7%B4%85-%E8%B6%85%E9%A1%8D%E5%88%A9%E6%BD%A4-%E9%A0%88%E5%88%86%E7%B5%A6%E7%BE%8E%E5%9C%8B",
+    "timestamp": "2026-07-18T23:55:47.165Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "有片！30歲男為情跳河　71歲神勇婆婆躍深水救人　事後深藏功與名",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260718/1155265634888585216580463.png/7XNaWJX0e4LdvHgeihAiTzekFyLxQcey_YfVcP2H1XA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60371304/%E9%9F%93%E5%9C%8B%E9%A6%96%E7%88%BE%E5%8F%8A%E5%91%A8%E9%82%8A%E6%9A%B4%E9%9B%A8%E5%BC%95%E7%99%BC%E6%B0%B4%E6%B5%B8-%E8%BF%91150%E6%88%B6%E8%A2%AB%E6%B7%B9-%E7%95%B6%E5%B1%80%E6%B4%BE%E9%80%BE9000%E4%BA%BA%E6%87%89%E7%81%BD",
     "timestamp": "2026-07-18T13:54:30.181Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "紅磡露宿婆婆遭欺凌｜被淋液拖行惹街坊憂心　警拘男疑犯下周提堂",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260718/1155216263983665152415790.jpeg/RgtUNYAO8BJVwuTnIaufhGgm5lC1pNJNko1NO5KNTTs?v=w1920",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60371282/%E7%B4%85%E7%A3%A1%E9%9C%B2%E5%AE%BF%E5%A9%86%E5%A9%86%E9%81%AD%E6%AC%BA%E5%87%8C-%E8%A2%AB%E6%B7%8B%E6%B6%B2%E6%8B%96%E8%A1%8C%E6%83%B9%E8%A1%97%E5%9D%8A%E6%86%82%E5%BF%83-%E8%AD%A6%E6%8B%98%E7%94%B7%E7%96%91%E7%8A%AF%E4%B8%8B%E5%91%A8%E6%8F%90%E5%A0%82",
-    "timestamp": "2026-07-18T13:16:14.951Z",
     "strategy": ".content-card__main"
   }
 ];
