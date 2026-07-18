@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-18T06:01:53.123Z
+// Last updated: 2026-07-18T08:27:48.778Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "《中國達人秀》前選手劉凱瀟罪成　揭赴新西蘭做「教主」捲殺人案",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260718/1155179141499195392965432.jpeg/77f_EB48eKzv4zcfhgXInC5bFoECBsUqtGTPBbRkzwU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60371236/%E4%B8%AD%E5%9C%8B%E9%81%94%E4%BA%BA%E7%A7%80-%E5%89%8D%E9%81%B8%E6%89%8B%E5%8A%89%E5%87%B1%E7%80%9F%E7%BD%AA%E6%88%90-%E6%8F%AD%E8%B5%B4%E6%96%B0%E8%A5%BF%E8%98%AD%E5%81%9A-%E6%95%99%E4%B8%BB-%E6%8D%B2%E6%AE%BA%E4%BA%BA%E6%A1%88",
+    "timestamp": "2026-07-18T08:27:48.778Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "羽毛球日本賽｜鄧俊文謝影雪激戰逾1小時　挫馬來西亞新星入決賽",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260717/1154739786599108608802479.png/Tjddam9qK7EziHkoVOvNZ2HsgxG_FJ2ZrmLQ-65i0Ps?v=w1920r16_9",
     "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E5%A8%9B%E6%A8%82/60370841/%E5%A5%B3%E7%A5%9E%E8%A8%B1%E7%B6%AD%E6%81%A9-%E5%BB%81%E6%89%80%E7%85%A7-%E5%A4%96%E6%B5%81-3%E6%AD%B2%E5%A5%B3%E7%8E%A9%E6%89%8B%E6%A9%9F%E8%AA%A4%E7%99%BCig-%E6%85%98%E6%8E%9B%E5%8D%8A%E6%97%A5%E6%89%8D%E7%99%BC%E7%8F%BE",
     "timestamp": "2026-07-17T15:39:45.437Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "「中國避暑游」火了？外國遊客扎堆深圳　狂掃華強北避暑產品",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260717/1154849503811997696150473.jpeg/vnX9zZyy3VhBsf7UA2_wjeclKQRjuMDYViI2jFYiNow?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60371076/%E4%B8%AD%E5%9C%8B%E9%81%BF%E6%9A%91%E6%B8%B8-%E7%81%AB%E4%BA%86-%E5%A4%96%E5%9C%8B%E9%81%8A%E5%AE%A2%E6%89%8E%E5%A0%86%E6%B7%B1%E5%9C%B3-%E7%8B%82%E6%8E%83%E8%8F%AF%E5%BC%B7%E5%8C%97%E9%81%BF%E6%9A%91%E7%94%A2%E5%93%81",
-    "timestamp": "2026-07-17T15:04:12.466Z",
     "strategy": ".content-card__main"
   }
 ];
