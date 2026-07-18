@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-18T14:58:01.432Z
+// Last updated: 2026-07-18T15:28:19.835Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "鍾鎮濤為供鍾懿英國讀大學日唱夜唱21年  全家飛倫敦出席畢業禮",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260718/1155289187755233280094781.jpeg/VjLb3tSHx0Rdzr6dQHcz49fblxwlI3XJO1w6CjtcOgo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60371314/%E9%8D%BE%E9%8E%AE%E6%BF%A4%E7%82%BA%E4%BE%9B%E9%8D%BE%E6%87%BF%E8%8B%B1%E5%9C%8B%E8%AE%80%E5%A4%A7%E5%AD%B8%E6%97%A5%E5%94%B1%E5%A4%9C%E5%94%B121%E5%B9%B4-%E5%85%A8%E5%AE%B6%E9%A3%9B%E5%80%AB%E6%95%A6%E5%87%BA%E5%B8%AD%E7%95%A2%E6%A5%AD%E7%A6%AE",
+    "timestamp": "2026-07-18T15:28:19.835Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "鍾培生認莊雅婷已誕女　澄清轟網民惡毒言論：對未滿月BB講呢啲？",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260717/1154917326852722688714568.jpeg/_1q5_ovqAhjjNyBzkvbckn-V7VwYmwDDnoocep6KHHo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60371135/%E4%BD%8F%E5%AE%85%E5%95%86%E6%A5%AD%E5%85%A9%E6%A5%B5%E7%99%BC%E5%B1%95-%E9%8A%80%E8%A1%8C%E6%87%89%E6%94%AF%E6%8C%81%E6%9C%AC%E5%9C%B0%E7%B6%93%E6%BF%9F-%E8%AE%93%E5%95%86%E6%A5%AD%E5%9C%B0%E7%94%A2%E6%9C%89%E5%96%98%E6%81%AF%E7%A9%BA%E9%96%93",
     "timestamp": "2026-07-17T22:09:25.479Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美軍連續第七晚打擊伊朗　伊方據報向美艦艇發射巡航導彈｜有片",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250417/989406414021595136526730.jpeg/SF-FuWuHg9qbWHx77eQOKNFX4po-mhi94eoH7uHqB-4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60371171/%E7%BE%8E%E8%BB%8D%E9%80%A3%E7%BA%8C%E7%AC%AC%E4%B8%83%E6%99%9A%E6%89%93%E6%93%8A%E4%BC%8A%E6%9C%97-%E4%BC%8A%E6%96%B9%E6%93%9A%E5%A0%B1%E5%90%91%E7%BE%8E%E8%89%A6%E8%89%87%E7%99%BC%E5%B0%84%E5%B7%A1%E8%88%AA%E5%B0%8E%E5%BD%88-%E6%9C%89%E7%89%87",
-    "timestamp": "2026-07-17T21:38:22.796Z",
     "strategy": ".content-card__main"
   }
 ];
