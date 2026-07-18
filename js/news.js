@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-18T18:27:37.297Z
+// Last updated: 2026-07-18T18:54:04.127Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "西營盤2的士撞　「小露寶」翻側2人被困司機受傷　屋苑巴士被波及",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260719/1155337647690878976849765.jpeg/qwGWhn4m8mrW9O_vXmrym_t7OYdOoSXrANrCbTrawm0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60371328/%E8%A5%BF%E7%87%9F%E7%9B%A42%E7%9A%84%E5%A3%AB%E6%92%9E-%E5%B0%8F%E9%9C%B2%E5%AF%B6-%E7%BF%BB%E5%81%B42%E4%BA%BA%E8%A2%AB%E5%9B%B0%E5%8F%B8%E6%A9%9F%E5%8F%97%E5%82%B7-%E5%B1%8B%E8%8B%91%E5%B7%B4%E5%A3%AB%E8%A2%AB%E6%B3%A2%E5%8F%8A",
+    "timestamp": "2026-07-18T18:54:04.127Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "大家樂MMA｜長髮男大戰胖漢　互掟托盤膠碗　職員夾中間勸阻獲讚",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260715/1154102692495233024627389.png/FDBkMXHRsEBCqdgTNesdiWi3t6fRrIKXPrZm-j62Zvo",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60369962/%E9%8A%85%E9%91%BC%E7%81%A3%E8%A6%96%E9%9A%9C%E4%BA%BA%E5%A3%AB%E9%81%8E%E9%A6%AC%E8%B7%AF-%E9%80%94%E4%BA%BA%E7%A4%BA%E6%84%8F%E5%8F%B8%E6%A9%9F%E5%81%9C%E8%BB%8A-%E7%94%B7%E7%AB%A5%E5%81%9C%E6%AD%A5%E4%BC%B8%E6%89%8B%E6%8F%90%E9%86%92%E7%8D%B2%E8%AE%9A",
     "timestamp": "2026-07-18T05:06:06.076Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "黃錦輝辭職｜謝小華：現階段補選不符成本效益　可能性極低",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260101/1083420836720939008637981.jpeg/4ajrP3X2JwhEU7rPI11dyFhWrK9kyFBgitMjGK_TIxg?v=w1920",
-    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60371211/%E9%BB%83%E9%8C%A6%E8%BC%9D%E8%BE%AD%E8%81%B7-%E8%AC%9D%E5%B0%8F%E8%8F%AF-%E7%8F%BE%E9%9A%8E%E6%AE%B5%E8%A3%9C%E9%81%B8%E4%B8%8D%E7%AC%A6%E6%88%90%E6%9C%AC%E6%95%88%E7%9B%8A-%E5%8F%AF%E8%83%BD%E6%80%A7%E6%A5%B5%E4%BD%8E",
-    "timestamp": "2026-07-18T03:50:53.531Z",
     "strategy": ".content-card__main"
   }
 ];
