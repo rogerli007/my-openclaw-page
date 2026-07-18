@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-18T11:39:23.557Z
+// Last updated: 2026-07-18T12:08:30.623Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "拒坐女性旁加掌摑機艙服務員　土耳其裔德國男子落地即被拘",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260718/1155209358548668416947825.png/nQIjWIknpKqU99ZHt5u4Dwago64h4bW-HP-4hxz_uIc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60371274/%E6%8B%92%E5%9D%90%E5%A5%B3%E6%80%A7%E6%97%81%E5%8A%A0%E6%8E%8C%E6%91%91%E6%A9%9F%E8%89%99%E6%9C%8D%E5%8B%99%E5%93%A1-%E5%9C%9F%E8%80%B3%E5%85%B6%E8%A3%94%E5%BE%B7%E5%9C%8B%E7%94%B7%E5%AD%90%E8%90%BD%E5%9C%B0%E5%8D%B3%E8%A2%AB%E6%8B%98",
+    "timestamp": "2026-07-18T12:08:30.623Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "心測｜伴侶哪種缺點會讓你決定分手？7題測出感情中致命傷在哪裏",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260718/1154961075267964928769540.png/7lkONiyaTCFiphjD6YZrCa8JWPLaM2ZV6gSRSOoEkUg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60371166/%E7%BF%92%E8%BF%91%E5%B9%B3%E6%9C%83%E6%99%A4%E5%8F%A4%E7%89%B9%E9%9B%B7%E6%96%AF-%E7%A8%B1%E4%B8%AD%E6%96%B9%E5%B0%87%E4%B8%80%E5%A6%82%E6%97%A2%E5%BE%80%E5%8A%A0%E5%BC%B7%E8%88%87%E8%81%AF%E5%90%88%E5%9C%8B%E5%90%88%E4%BD%9C",
     "timestamp": "2026-07-17T18:41:52.017Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "世界盃2026｜夏蘭特頭繩美國熱賣　神鋒一用即愛上索性入股做老闆",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260717/1154926333306867712987360.jpeg/uzDwKdKMdqyBFxDiztSNmL09tbMGJ1wU9fAcDfXwHA0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60370994/%E4%B8%96%E7%95%8C%E7%9B%832026-%E5%A4%8F%E8%98%AD%E7%89%B9%E9%A0%AD%E7%B9%A9%E7%BE%8E%E5%9C%8B%E7%86%B1%E8%B3%A3-%E7%A5%9E%E9%8B%92%E4%B8%80%E7%94%A8%E5%8D%B3%E6%84%9B%E4%B8%8A%E7%B4%A2%E6%80%A7%E5%85%A5%E8%82%A1%E5%81%9A%E8%80%81%E9%97%86",
-    "timestamp": "2026-07-17T18:15:04.912Z",
     "strategy": ".content-card__main"
   }
 ];
