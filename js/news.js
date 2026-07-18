@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-18T17:54:32.249Z
+// Last updated: 2026-07-18T18:27:37.297Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "大家樂MMA｜長髮男大戰胖漢　互掟托盤膠碗　職員夾中間勸阻獲讚",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260717/1154892367707246592439652.png/AqCx1f-M3oQ0MB6I4KtxLPkN00JK1C-c30ABXd9AAV0",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60371120/%E5%A4%A7%E5%AE%B6%E6%A8%82mma-%E9%95%B7%E9%AB%AE%E7%94%B7%E5%A4%A7%E6%88%B0%E8%83%96%E6%BC%A2-%E4%BA%92%E6%8E%9F%E6%89%98%E7%9B%A4%E8%86%A0%E7%A2%97-%E8%81%B7%E5%93%A1%E5%A4%BE%E4%B8%AD%E9%96%93%E5%8B%B8%E9%98%BB%E7%8D%B2%E8%AE%9A",
+    "timestamp": "2026-07-18T18:27:37.297Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "伊朗最高領袖：美國一再違背協議承諾　證明特朗普的簽名毫無價值",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260101/1083420836720939008637981.jpeg/4ajrP3X2JwhEU7rPI11dyFhWrK9kyFBgitMjGK_TIxg?v=w1920",
     "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60371211/%E9%BB%83%E9%8C%A6%E8%BC%9D%E8%BE%AD%E8%81%B7-%E8%AC%9D%E5%B0%8F%E8%8F%AF-%E7%8F%BE%E9%9A%8E%E6%AE%B5%E8%A3%9C%E9%81%B8%E4%B8%8D%E7%AC%A6%E6%88%90%E6%9C%AC%E6%95%88%E7%9B%8A-%E5%8F%AF%E8%83%BD%E6%80%A7%E6%A5%B5%E4%BD%8E",
     "timestamp": "2026-07-18T03:50:53.531Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "新清水灣道救護車「自炒」撞欄剷上行人路　車頭毀爛幸無人受傷",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260718/1155080745912373248329081.jpeg/OkByWuLObzGM0GhIMAyH5PBoswpnkU9_8-rR2PPq0dg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60371187/%E6%96%B0%E6%B8%85%E6%B0%B4%E7%81%A3%E9%81%93%E6%95%91%E8%AD%B7%E8%BB%8A-%E8%87%AA%E7%82%92-%E6%92%9E%E6%AC%84%E5%89%B7%E4%B8%8A%E8%A1%8C%E4%BA%BA%E8%B7%AF-%E8%BB%8A%E9%A0%AD%E6%AF%80%E7%88%9B%E5%B9%B8%E7%84%A1%E4%BA%BA%E5%8F%97%E5%82%B7",
-    "timestamp": "2026-07-18T01:42:38.050Z",
     "strategy": ".content-card__main"
   }
 ];
