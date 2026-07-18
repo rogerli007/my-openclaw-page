@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-18T22:24:34.059Z
+// Last updated: 2026-07-18T22:54:23.094Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "以色列部長：擬在加沙及約旦河西岸擴建定居點",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260714/1153821409160466432709586.jpeg/P0Z_eAzia4T714elPuxQsLtt8NBYoy2a2hkWjtoZFo4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60371331/%E4%BB%A5%E8%89%B2%E5%88%97%E9%83%A8%E9%95%B7-%E6%93%AC%E5%9C%A8%E5%8A%A0%E6%B2%99%E5%8F%8A%E7%B4%84%E6%97%A6%E6%B2%B3%E8%A5%BF%E5%B2%B8%E6%93%B4%E5%BB%BA%E5%AE%9A%E5%B1%85%E9%BB%9E",
+    "timestamp": "2026-07-18T22:54:23.094Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "世界盃｜被問特朗普質疑英格蘭戰術　杜慈反問：你拿他來做證？",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260718/1155237240171925504041876.jpeg/TFUH9MaIlnVkEBvxCFrd5-aqBGWklgXRL0hptS9IabU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60371285/%E6%AD%90%E5%80%A9%E6%80%A1%E5%B8%B6%E6%84%9B%E5%A5%B3%E9%81%8A%E5%8C%97%E4%BA%AC%E6%9B%AC%E6%BA%AB%E9%A6%A8%E7%9B%B8-15%E6%AD%B2%E9%83%AD%E4%BB%A5%E9%9B%85%E5%8F%AA%E9%9C%B2%E6%AB%BB%E6%A1%83%E5%B0%8F%E5%98%B4%E5%85%85%E6%BB%BF%E7%A5%9E%E7%A7%98%E6%84%9F",
     "timestamp": "2026-07-18T12:39:40.126Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "拒坐女性旁加掌摑機艙服務員　土耳其裔德國男子落地即被拘",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260718/1155209358548668416947825.png/nQIjWIknpKqU99ZHt5u4Dwago64h4bW-HP-4hxz_uIc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60371274/%E6%8B%92%E5%9D%90%E5%A5%B3%E6%80%A7%E6%97%81%E5%8A%A0%E6%8E%8C%E6%91%91%E6%A9%9F%E8%89%99%E6%9C%8D%E5%8B%99%E5%93%A1-%E5%9C%9F%E8%80%B3%E5%85%B6%E8%A3%94%E5%BE%B7%E5%9C%8B%E7%94%B7%E5%AD%90%E8%90%BD%E5%9C%B0%E5%8D%B3%E8%A2%AB%E6%8B%98",
-    "timestamp": "2026-07-18T12:08:30.623Z",
     "strategy": ".content-card__main"
   }
 ];
