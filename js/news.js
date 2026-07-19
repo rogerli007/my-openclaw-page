@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-19T12:39:09.388Z
+// Last updated: 2026-07-19T13:15:44.192Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "內地版海力士長鑫科技中籤號出爐　共約770.22萬個",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260615/1143248513585385472345921.jpeg/Shd27oh-raXzfp61E4T5-Kvjl4pNtIjLfIpM6nyKTOo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60371499/%E5%85%A7%E5%9C%B0%E7%89%88%E6%B5%B7%E5%8A%9B%E5%A3%AB%E9%95%B7%E9%91%AB%E7%A7%91%E6%8A%80%E4%B8%AD%E7%B1%A4%E8%99%9F%E5%87%BA%E7%88%90-%E5%85%B1%E7%B4%84770-22%E8%90%AC%E5%80%8B",
+    "timestamp": "2026-07-19T13:15:44.192Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "世界盃2026免費直播｜ViuTV賽程時間｜7.20西班牙對阿根廷",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250417/989406414021595136526730.jpeg/SF-FuWuHg9qbWHx77eQOKNFX4po-mhi94eoH7uHqB-4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60371332/%E4%BC%8A%E6%9C%97%E8%A5%B2%E4%B8%AD%E6%9D%B1%E5%8D%80%E5%85%A7%E7%BE%8E%E5%9C%8B%E8%A8%AD%E6%96%BD-%E7%BE%8E%E8%BB%8D-2%E5%90%8D%E5%A3%AB%E5%85%B5%E5%9C%A8%E7%B4%84%E6%97%A6%E9%99%A3%E4%BA%A1-1%E4%BA%BA%E5%A4%B1%E8%B9%A4",
     "timestamp": "2026-07-18T20:52:54.610Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "德國將安全警戒升至高威脅級別　內政部長：襲擊計劃顯而易見",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260719/1155310590315466752821764.jpeg/QkXXiT2NSwy0KnZTf0_X68sqWejkBaFWvTgVxr04FcY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60371320/%E5%BE%B7%E5%9C%8B%E5%B0%87%E5%AE%89%E5%85%A8%E8%AD%A6%E6%88%92%E5%8D%87%E8%87%B3%E9%AB%98%E5%A8%81%E8%84%85%E7%B4%9A%E5%88%A5-%E5%85%A7%E6%94%BF%E9%83%A8%E9%95%B7-%E8%A5%B2%E6%93%8A%E8%A8%88%E5%8A%83%E9%A1%AF%E8%80%8C%E6%98%93%E8%A6%8B",
-    "timestamp": "2026-07-18T19:59:15.003Z",
     "strategy": ".content-card__main"
   }
 ];
