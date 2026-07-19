@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-19T22:10:09.065Z
+// Last updated: 2026-07-19T22:38:38.665Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "TVB「隱形富家女」與富二代男友拍拖久　揸飛機騷不拍戲富貴生活",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260719/1155585547800940544362875.jpeg/IM1_uAvIdKYve31Qo90pl9znrBvQEAO_Sxlc0ksZXNI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60371413/%E9%84%BA%E6%BD%94%E6%A5%B9%E8%88%87%E5%AF%8C%E4%BA%8C%E4%BB%A3%E7%94%B7%E5%8F%8B%E6%8B%8D%E6%8B%96%E4%B9%85-%E6%8F%B8%E9%A3%9B%E6%A9%9F%E9%A8%B7%E4%B8%8D%E6%8B%8D%E6%88%B2%E5%AF%8C%E8%B2%B4%E7%94%9F%E6%B4%BB",
+    "timestamp": "2026-07-19T22:38:38.665Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "TVB第一期訓練班成員74歲精神飽滿　做「隱世華佗」開抖音入內地",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260719/1155530390832680960518067.jpeg/aCGBWoCtpxJLyYZJTEPYMK46f3bNdFlp0Uqza9FKs2s?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60371430/%E9%84%A7%E5%B0%8F%E8%89%BE%E6%86%B6%E6%96%B0%E9%A6%AC%E5%B8%AB%E6%9B%BE%E9%81%87%E5%8A%AB%E5%8D%B3%E8%88%89%E6%A7%8D-%E8%81%9E%E8%B3%8A%E4%BA%BA%E9%86%AB%E7%97%85%E6%AF%8D%E5%8D%B3%E6%8E%8F%E9%8C%A2%E6%95%91%E6%80%A5-%E8%A9%B1%E7%95%B6%E5%B9%AB%E4%BA%BA",
     "timestamp": "2026-07-19T07:28:19.741Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "筲箕灣停水｜街坊等3小時未見水車決跨區午膳　飯店員工人肉運水",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260719/1155515241493172224189256.jpeg/Eca5lKjwu6JM9o6T7xRctPkzcDbltpTAz0wuhOlMLoQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60371411/%E7%AD%B2%E7%AE%95%E7%81%A3%E5%81%9C%E6%B0%B4-%E8%A1%97%E5%9D%8A%E7%AD%893%E5%B0%8F%E6%99%82%E6%9C%AA%E8%A6%8B%E6%B0%B4%E8%BB%8A%E6%B1%BA%E8%B7%A8%E5%8D%80%E5%8D%88%E8%86%B3-%E9%A3%AF%E5%BA%97%E5%93%A1%E5%B7%A5%E4%BA%BA%E8%82%89%E9%81%8B%E6%B0%B4",
-    "timestamp": "2026-07-19T06:25:03.302Z",
     "strategy": ".content-card__main"
   }
 ];
