@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-19T11:42:40.730Z
+// Last updated: 2026-07-19T12:39:09.388Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "世界盃2026免費直播｜ViuTV賽程時間｜7.20西班牙對阿根廷",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260611/1141845280300208128965183.jpeg/XjYqBao7YKjNLMjZMvFiQ3HuxknUgegtJFbW7iRW1u4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60355406/%E4%B8%96%E7%95%8C%E7%9B%832026%E5%85%8D%E8%B2%BB%E7%9B%B4%E6%92%AD-%E9%A6%99%E6%B8%AFviutv%E6%B1%BA%E8%B3%BD%E8%A5%BF%E7%8F%AD%E7%89%99%E5%B0%8D%E9%98%BF%E6%A0%B9%E5%BB%B7%E8%B3%BD%E7%A8%8B%E6%99%82%E9%96%93%E8%A1%A8",
+    "timestamp": "2026-07-19T12:39:09.388Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "鄧兆尊否認已立電子遺囑　稱報道為標題黨：信唔信就睇智慧",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260719/1155310590315466752821764.jpeg/QkXXiT2NSwy0KnZTf0_X68sqWejkBaFWvTgVxr04FcY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60371320/%E5%BE%B7%E5%9C%8B%E5%B0%87%E5%AE%89%E5%85%A8%E8%AD%A6%E6%88%92%E5%8D%87%E8%87%B3%E9%AB%98%E5%A8%81%E8%84%85%E7%B4%9A%E5%88%A5-%E5%85%A7%E6%94%BF%E9%83%A8%E9%95%B7-%E8%A5%B2%E6%93%8A%E8%A8%88%E5%8A%83%E9%A1%AF%E8%80%8C%E6%98%93%E8%A6%8B",
     "timestamp": "2026-07-18T19:59:15.003Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "仁川酷澎物流中心大火　燒逾17小時未受控　全國消防動員令發布",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260719/1155351655235981312793541.png/M9dhFJzjkg8bPgS3s3wqqbIcfaZ-yNETZHuWLmR7li4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60371329/%E4%BB%81%E5%B7%9D%E9%85%B7%E6%BE%8E%E7%89%A9%E6%B5%81%E4%B8%AD%E5%BF%83%E5%A4%A7%E7%81%AB-%E7%87%92%E9%80%BE17%E5%B0%8F%E6%99%82%E6%9C%AA%E5%8F%97%E6%8E%A7-%E5%85%A8%E5%9C%8B%E6%B6%88%E9%98%B2%E5%8B%95%E5%93%A1%E4%BB%A4%E7%99%BC%E5%B8%83",
-    "timestamp": "2026-07-18T19:31:43.746Z",
     "strategy": ".content-card__main"
   }
 ];
