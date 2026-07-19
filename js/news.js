@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-19T05:29:49.331Z
+// Last updated: 2026-07-19T06:25:03.302Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "筲箕灣停水｜街坊等3小時未見水車決跨區午膳　飯店員工人肉運水",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260719/1155515241493172224189256.jpeg/Eca5lKjwu6JM9o6T7xRctPkzcDbltpTAz0wuhOlMLoQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60371411/%E7%AD%B2%E7%AE%95%E7%81%A3%E5%81%9C%E6%B0%B4-%E8%A1%97%E5%9D%8A%E7%AD%893%E5%B0%8F%E6%99%82%E6%9C%AA%E8%A6%8B%E6%B0%B4%E8%BB%8A%E6%B1%BA%E8%B7%A8%E5%8D%80%E5%8D%88%E8%86%B3-%E9%A3%AF%E5%BA%97%E5%93%A1%E5%B7%A5%E4%BA%BA%E8%82%89%E9%81%8B%E6%B0%B4",
+    "timestamp": "2026-07-19T06:25:03.302Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "77歲老翁鍾永佳行山失蹤2日　今日終尋回　擦傷清醒送院",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260611/1141845280300208128965183.jpeg/XjYqBao7YKjNLMjZMvFiQ3HuxknUgegtJFbW7iRW1u4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60355406/%E4%B8%96%E7%95%8C%E7%9B%832026%E5%85%8D%E8%B2%BB%E7%9B%B4%E6%92%AD-viutv%E9%A6%99%E6%B8%AF%E5%AD%A3%E8%BB%8D%E6%88%B0-%E6%B1%BA%E8%B3%BD%E8%B3%BD%E7%A8%8B%E6%99%82%E9%96%93%E8%A1%A8-%E6%AF%8F%E6%97%A5%E6%9B%B4%E6%96%B0",
     "timestamp": "2026-07-18T16:26:43.643Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "警東涌打擊非法賭博檢賭具及現金　19名男女被捕　年紀最小16歲",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260718/1155294234589270016654271.jpeg/9H8f58TINdKpA8VhRKaVtvJrhpeln3Zs_oyjnv6Mo54?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60371318/%E8%AD%A6%E6%9D%B1%E6%B6%8C%E6%89%93%E6%93%8A%E9%9D%9E%E6%B3%95%E8%B3%AD%E5%8D%9A%E6%AA%A2%E8%B3%AD%E5%85%B7%E5%8F%8A%E7%8F%BE%E9%87%91-19%E5%90%8D%E7%94%B7%E5%A5%B3%E8%A2%AB%E6%8D%95-%E5%B9%B4%E7%B4%80%E6%9C%80%E5%B0%8F16%E6%AD%B2",
-    "timestamp": "2026-07-18T15:53:49.012Z",
     "strategy": ".content-card__main"
   }
 ];
