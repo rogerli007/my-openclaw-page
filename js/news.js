@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-19T13:15:44.192Z
+// Last updated: 2026-07-19T13:55:22.321Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "世界盃｜當種族主義撕開裂痕　為何拉美人希望阿根廷在決賽失利",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260719/1155600719261208576513087.jpeg/O_CvSWaPSHxU3cJzzLhVgH6GAiGA5djjbKSFe2ykhXs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60371477/%E4%B8%96%E7%95%8C%E7%9B%83-%E7%95%B6%E7%A8%AE%E6%97%8F%E4%B8%BB%E7%BE%A9%E6%92%95%E9%96%8B%E8%A3%82%E7%97%95-%E7%82%BA%E4%BD%95%E6%8B%89%E7%BE%8E%E4%BA%BA%E5%B8%8C%E6%9C%9B%E9%98%BF%E6%A0%B9%E5%BB%B7%E5%9C%A8%E6%B1%BA%E8%B3%BD%E5%A4%B1%E5%88%A9",
+    "timestamp": "2026-07-19T13:55:22.321Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "內地版海力士長鑫科技中籤號出爐　共約770.22萬個",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260719/1155378268128415744245081.jpeg/tSN1K19xnUrn17Z1XMzgY7nTxEKSy_Ak93UAwM11AMA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60371315/%E4%B8%96%E7%95%8C%E7%9B%83%E5%AD%A3%E8%BB%8D%E6%88%B0-400%E4%BA%BA%E8%81%9A%E9%9B%86%E5%95%86%E5%A0%B4%E8%A7%80%E8%B3%BD-3%E7%94%B7%E7%94%9F%E5%88%862%E6%B4%BE%E6%94%AF%E6%8C%81%E6%84%9B%E9%9A%8A",
     "timestamp": "2026-07-18T21:24:37.338Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "伊朗襲中東區內美國設施　美軍：2名士兵在約旦陣亡　1人失蹤",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250417/989406414021595136526730.jpeg/SF-FuWuHg9qbWHx77eQOKNFX4po-mhi94eoH7uHqB-4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60371332/%E4%BC%8A%E6%9C%97%E8%A5%B2%E4%B8%AD%E6%9D%B1%E5%8D%80%E5%85%A7%E7%BE%8E%E5%9C%8B%E8%A8%AD%E6%96%BD-%E7%BE%8E%E8%BB%8D-2%E5%90%8D%E5%A3%AB%E5%85%B5%E5%9C%A8%E7%B4%84%E6%97%A6%E9%99%A3%E4%BA%A1-1%E4%BA%BA%E5%A4%B1%E8%B9%A4",
-    "timestamp": "2026-07-18T20:52:54.610Z",
     "strategy": ".content-card__main"
   }
 ];
