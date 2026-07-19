@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-19T00:50:28.468Z
+// Last updated: 2026-07-19T01:43:13.323Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "陳欣健讚汪明荃不怒而威　笑言唔驚佢︰我哋冇拍過接吻戲又冇伸脷",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260719/1155340553852817408307914.jpeg/MQ55YdSfkXU29T3-b78YXEr7cxezsxetWsP0MFrD9DA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60371326/%E9%99%B3%E6%AC%A3%E5%81%A5%E8%AE%9A%E6%B1%AA%E6%98%8E%E8%8D%83%E4%B8%8D%E6%80%92%E8%80%8C%E5%A8%81-%E7%AC%91%E8%A8%80%E5%94%94%E9%A9%9A%E4%BD%A2-%E6%88%91%E5%93%8B%E5%86%87%E6%8B%8D%E9%81%8E%E6%8E%A5%E5%90%BB%E6%88%B2%E5%8F%88%E5%86%87%E4%BC%B8%E8%84%B7",
+    "timestamp": "2026-07-19T01:43:13.323Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "鍾潔怡獲藝訓班同學補祝生日　走出喪夫之痛轉戰內地直播積極復出",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260718/1155272059371130880045392.jpeg/dGe2GL_bB-ewgueJ9QidSmQLcQMJuN2i5gZrguYGa4I?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60371305/%E9%8D%BE%E5%9F%B9%E7%94%9F%E8%AA%8D%E8%8E%8A%E9%9B%85%E5%A9%B7%E5%B7%B2%E8%AA%95%E5%A5%B3-%E6%BE%84%E6%B8%85%E8%BD%9F%E7%B6%B2%E6%B0%91%E6%83%A1%E6%AF%92%E8%A8%80%E8%AB%96-%E5%B0%8D%E6%9C%AA%E6%BB%BF%E6%9C%88bb%E8%AC%9B%E5%91%A2%E5%95%B2",
     "timestamp": "2026-07-18T14:58:01.432Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "禾仙夏訪華？佛得角駐華大使：獲多省邀請，正全力促成中佛友誼賽",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260701/1149092342767030272041532.jpeg/_VYBEmtfxRomgyz6J5bInybHOObyIvtfoIFT7qCBU-4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60371309/%E7%A6%BE%E4%BB%99%E5%A4%8F%E8%A8%AA%E8%8F%AF-%E4%BD%9B%E5%BE%97%E8%A7%92%E9%A7%90%E8%8F%AF%E5%A4%A7%E4%BD%BF-%E7%8D%B2%E5%A4%9A%E7%9C%81%E9%82%80%E8%AB%8B-%E6%AD%A3%E5%85%A8%E5%8A%9B%E4%BF%83%E6%88%90%E4%B8%AD%E4%BD%9B%E5%8F%8B%E8%AA%BC%E8%B3%BD",
-    "timestamp": "2026-07-18T14:35:47.001Z",
     "strategy": ".content-card__main"
   }
 ];
