@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-19T17:41:23.104Z
+// Last updated: 2026-07-19T18:11:26.934Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "世界盃2026決賽持續更新｜西班牙對阿根廷正選公布　耶馬美斯領銜",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260720/1155683507582799872497561.jpeg/3yxP3tndWF7L9zsOZxsOLnkctxRO7wOmSyjkf0so5H8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60371530/%E4%B8%96%E7%95%8C%E7%9B%832026%E6%B1%BA%E8%B3%BD%E6%8C%81%E7%BA%8C%E6%9B%B4%E6%96%B0-%E8%A5%BF%E7%8F%AD%E7%89%99%E5%B0%8D%E9%98%BF%E6%A0%B9%E5%BB%B7%E6%AD%A3%E9%81%B8%E5%85%AC%E5%B8%83-%E8%80%B6%E9%A6%AC%E7%BE%8E%E6%96%AF%E9%A0%98%E9%8A%9C",
+    "timestamp": "2026-07-19T18:11:26.934Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "筲箕灣停水｜跨部門動員逾130人協調　水務署：爭取6點前恢復食水",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260718/1155198510543409152092586.jpeg/fxz1J1QJ9TAIQiQQSJpGOia2zU46dDj6ar3_1Gq9_9Q?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60371124/%E9%8D%BE%E6%BD%94%E6%80%A1%E7%8D%B2%E8%97%9D%E8%A8%93%E7%8F%AD%E5%90%8C%E5%AD%B8%E8%A3%9C%E7%A5%9D%E7%94%9F%E6%97%A5-%E8%B5%B0%E5%87%BA%E5%96%AA%E5%A4%AB%E4%B9%8B%E7%97%9B%E8%BD%89%E6%88%B0%E5%85%A7%E5%9C%B0%E7%9B%B4%E6%92%AD%E7%A9%8D%E6%A5%B5%E5%BE%A9%E5%87%BA",
     "timestamp": "2026-07-19T00:50:28.468Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "三星、海力士賺太多錢　特朗普政府眼紅：「超額利潤」須分給美國",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260714/1153668908020928512230416.jpeg/wDKUHpoUL7gkzHumxbkX8o8LMcm2_3ZRah9pRGofaUQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60371337/%E4%B8%89%E6%98%9F-%E6%B5%B7%E5%8A%9B%E5%A3%AB%E8%B3%BA%E5%A4%AA%E5%A4%9A%E9%8C%A2-%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%E7%9C%BC%E7%B4%85-%E8%B6%85%E9%A1%8D%E5%88%A9%E6%BD%A4-%E9%A0%88%E5%88%86%E7%B5%A6%E7%BE%8E%E5%9C%8B",
-    "timestamp": "2026-07-18T23:55:47.165Z",
     "strategy": ".content-card__main"
   }
 ];
