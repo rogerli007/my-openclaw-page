@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-19T07:28:19.741Z
+// Last updated: 2026-07-19T08:23:15.774Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "世界盃2026季軍戰窩心一幕　英格蘭隊友推訓練門將領獎背藏辛酸",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260719/1155525929884192768548170.jpeg/N4fF3Jjli0AbRqqGUl4QJlvw9DLXmRDoV9dmWFfXZlg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60371425/%E4%B8%96%E7%95%8C%E7%9B%832026%E5%AD%A3%E8%BB%8D%E6%88%B0%E7%AA%A9%E5%BF%83%E4%B8%80%E5%B9%95-%E8%8B%B1%E6%A0%BC%E8%98%AD%E9%9A%8A%E5%8F%8B%E6%8E%A8%E8%A8%93%E7%B7%B4%E9%96%80%E5%B0%87%E9%A0%98%E7%8D%8E%E8%83%8C%E8%97%8F%E8%BE%9B%E9%85%B8",
+    "timestamp": "2026-07-19T08:23:15.774Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "鄧小艾憶新馬師曾遇劫即舉槍　聞賊人醫病母即掏錢救急：話當幫人",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260315/1109789975248900096793201.jpeg/CbjfVOUOlTwGsqeOPO_vzuJuLSpMokeEHCiWMRwoljE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60371325/%E4%BC%8A%E6%9C%97%E6%9C%80%E9%AB%98%E9%A0%98%E8%A2%96-%E7%BE%8E%E5%9C%8B%E4%B8%80%E5%86%8D%E9%81%95%E8%83%8C%E5%8D%94%E8%AD%B0%E6%89%BF%E8%AB%BE-%E8%AD%89%E6%98%8E%E7%89%B9%E6%9C%97%E6%99%AE%E7%9A%84%E7%B0%BD%E5%90%8D%E6%AF%AB%E7%84%A1%E5%83%B9%E5%80%BC",
     "timestamp": "2026-07-18T17:28:14.142Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "屯門屯子圍村屋遭爆竊　33歲男損失2隻勞力士名錶　共值$26萬",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260719/1155310496849596416170634.jpeg/dsqOqZGtEGVg-GmjSgISPQXcjRD3FUEsQL_ZJHq_2SQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60371324/%E5%B1%AF%E9%96%80%E5%B1%AF%E5%AD%90%E5%9C%8D%E6%9D%91%E5%B1%8B%E9%81%AD%E7%88%86%E7%AB%8A-33%E6%AD%B2%E7%94%B7%E6%90%8D%E5%A4%B12%E9%9A%BB%E5%8B%9E%E5%8A%9B%E5%A3%AB%E5%90%8D%E9%8C%B6-%E5%85%B1%E5%80%BC-26%E8%90%AC",
-    "timestamp": "2026-07-18T16:54:27.072Z",
     "strategy": ".content-card__main"
   }
 ];
