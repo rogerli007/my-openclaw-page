@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-19T01:43:13.323Z
+// Last updated: 2026-07-19T02:45:58.219Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "2026世界人工智能大會｜中國AI的開放邏輯",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260718/1155106201109794816294807.jpeg/22V0_Cl38jtAcJHpdvPrw70dvILZqQ8esFI-drBSPnY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E4%B8%AD%E5%9C%8B%E8%A7%80%E5%AF%9F/60371359/2026%E4%B8%96%E7%95%8C%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%A4%A7%E6%9C%83-%E4%B8%AD%E5%9C%8Bai%E7%9A%84%E9%96%8B%E6%94%BE%E9%82%8F%E8%BC%AF",
+    "timestamp": "2026-07-19T02:45:58.219Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "陳欣健讚汪明荃不怒而威　笑言唔驚佢︰我哋冇拍過接吻戲又冇伸脷",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260718/1155289187755233280094781.jpeg/VjLb3tSHx0Rdzr6dQHcz49fblxwlI3XJO1w6CjtcOgo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60371314/%E9%8D%BE%E9%8E%AE%E6%BF%A4%E7%82%BA%E4%BE%9B%E9%8D%BE%E6%87%BF%E8%8B%B1%E5%9C%8B%E8%AE%80%E5%A4%A7%E5%AD%B8%E6%97%A5%E5%94%B1%E5%A4%9C%E5%94%B121%E5%B9%B4-%E5%85%A8%E5%AE%B6%E9%A3%9B%E5%80%AB%E6%95%A6%E5%87%BA%E5%B8%AD%E7%95%A2%E6%A5%AD%E7%A6%AE",
     "timestamp": "2026-07-18T15:28:19.835Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "鍾培生認莊雅婷已誕女　澄清轟網民惡毒言論：對未滿月BB講呢啲？",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260718/1155272059371130880045392.jpeg/dGe2GL_bB-ewgueJ9QidSmQLcQMJuN2i5gZrguYGa4I?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60371305/%E9%8D%BE%E5%9F%B9%E7%94%9F%E8%AA%8D%E8%8E%8A%E9%9B%85%E5%A9%B7%E5%B7%B2%E8%AA%95%E5%A5%B3-%E6%BE%84%E6%B8%85%E8%BD%9F%E7%B6%B2%E6%B0%91%E6%83%A1%E6%AF%92%E8%A8%80%E8%AB%96-%E5%B0%8D%E6%9C%AA%E6%BB%BF%E6%9C%88bb%E8%AC%9B%E5%91%A2%E5%95%B2",
-    "timestamp": "2026-07-18T14:58:01.432Z",
     "strategy": ".content-card__main"
   }
 ];
