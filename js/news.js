@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-19T06:25:03.302Z
+// Last updated: 2026-07-19T07:28:19.741Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "鄧小艾憶新馬師曾遇劫即舉槍　聞賊人醫病母即掏錢救急：話當幫人",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260719/1155530390832680960518067.jpeg/aCGBWoCtpxJLyYZJTEPYMK46f3bNdFlp0Uqza9FKs2s?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60371430/%E9%84%A7%E5%B0%8F%E8%89%BE%E6%86%B6%E6%96%B0%E9%A6%AC%E5%B8%AB%E6%9B%BE%E9%81%87%E5%8A%AB%E5%8D%B3%E8%88%89%E6%A7%8D-%E8%81%9E%E8%B3%8A%E4%BA%BA%E9%86%AB%E7%97%85%E6%AF%8D%E5%8D%B3%E6%8E%8F%E9%8C%A2%E6%95%91%E6%80%A5-%E8%A9%B1%E7%95%B6%E5%B9%AB%E4%BA%BA",
+    "timestamp": "2026-07-19T07:28:19.741Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "筲箕灣停水｜街坊等3小時未見水車決跨區午膳　飯店員工人肉運水",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260719/1155310496849596416170634.jpeg/dsqOqZGtEGVg-GmjSgISPQXcjRD3FUEsQL_ZJHq_2SQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60371324/%E5%B1%AF%E9%96%80%E5%B1%AF%E5%AD%90%E5%9C%8D%E6%9D%91%E5%B1%8B%E9%81%AD%E7%88%86%E7%AB%8A-33%E6%AD%B2%E7%94%B7%E6%90%8D%E5%A4%B12%E9%9A%BB%E5%8B%9E%E5%8A%9B%E5%A3%AB%E5%90%8D%E9%8C%B6-%E5%85%B1%E5%80%BC-26%E8%90%AC",
     "timestamp": "2026-07-18T16:54:27.072Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "世界盃2026免費直播｜ViuTV賽程時間｜7.19法國對英格蘭",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260611/1141845280300208128965183.jpeg/XjYqBao7YKjNLMjZMvFiQ3HuxknUgegtJFbW7iRW1u4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60355406/%E4%B8%96%E7%95%8C%E7%9B%832026%E5%85%8D%E8%B2%BB%E7%9B%B4%E6%92%AD-viutv%E9%A6%99%E6%B8%AF%E5%AD%A3%E8%BB%8D%E6%88%B0-%E6%B1%BA%E8%B3%BD%E8%B3%BD%E7%A8%8B%E6%99%82%E9%96%93%E8%A1%A8-%E6%AF%8F%E6%97%A5%E6%9B%B4%E6%96%B0",
-    "timestamp": "2026-07-18T16:26:43.643Z",
     "strategy": ".content-card__main"
   }
 ];
