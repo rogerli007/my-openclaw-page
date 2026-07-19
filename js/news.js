@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-19T15:12:40.821Z
+// Last updated: 2026-07-19T15:39:42.332Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "中聲4｜車婉婉驚喜現場撐場　監製親證節目本屆後暫別觀眾",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260719/1155627090419126272147805.jpeg/Ik9XAXDQQRWMOROKM3Skh7vX9CvR8A4EveNBTofjQU4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60371505/%E4%B8%AD%E8%81%B24-%E8%BB%8A%E5%A9%89%E5%A9%89%E9%A9%9A%E5%96%9C%E7%8F%BE%E5%A0%B4%E6%92%90%E5%A0%B4-%E7%9B%A3%E8%A3%BD%E8%A6%AA%E8%AD%89%E7%AF%80%E7%9B%AE%E6%9C%AC%E5%B1%86%E5%BE%8C%E6%9A%AB%E5%88%A5%E8%A7%80%E7%9C%BE",
+    "timestamp": "2026-07-19T15:39:42.332Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "38年錯位人生！家屬驗DNA驚揭美2名男嬰遭掉包　兩家怒告索償",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260714/1153821409160466432709586.jpeg/P0Z_eAzia4T714elPuxQsLtt8NBYoy2a2hkWjtoZFo4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60371331/%E4%BB%A5%E8%89%B2%E5%88%97%E9%83%A8%E9%95%B7-%E6%93%AC%E5%9C%A8%E5%8A%A0%E6%B2%99%E5%8F%8A%E7%B4%84%E6%97%A6%E6%B2%B3%E8%A5%BF%E5%B2%B8%E6%93%B4%E5%BB%BA%E5%AE%9A%E5%B1%85%E9%BB%9E",
     "timestamp": "2026-07-18T22:54:23.094Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "世界盃｜被問特朗普質疑英格蘭戰術　杜慈反問：你拿他來做證？",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260719/1155391637136871424069243.jpeg/nQ6AON9dkUM-zkdFvQEbL6hqUxNI0zdhzNVcxczVXMU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60371334/%E4%B8%96%E7%95%8C%E7%9B%83-%E8%A2%AB%E5%95%8F%E7%89%B9%E6%9C%97%E6%99%AE%E8%B3%AA%E7%96%91%E8%8B%B1%E6%A0%BC%E8%98%AD%E6%88%B0%E8%A1%93-%E6%9D%9C%E6%85%88%E5%8F%8D%E5%95%8F-%E4%BD%A0%E6%8B%BF%E4%BB%96%E4%BE%86%E5%81%9A%E8%AD%89",
-    "timestamp": "2026-07-18T22:24:34.059Z",
     "strategy": ".content-card__main"
   }
 ];
