@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-19T10:03:25.177Z
+// Last updated: 2026-07-19T10:41:58.939Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "曾被稱｢不學習就像他｣　31歲保安8戰清華獲錄取　終極志向在哈佛",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260719/1155552822712864768501376.png/e3lZINMdw3ihnN_6HuJKoGAdun0477aJuerTcbnq03E?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60371445/%E6%9B%BE%E8%A2%AB%E7%A8%B1-%E4%B8%8D%E5%AD%B8%E7%BF%92%E5%B0%B1%E5%83%8F%E4%BB%96-31%E6%AD%B2%E4%BF%9D%E5%AE%898%E6%88%B0%E6%B8%85%E8%8F%AF%E7%8D%B2%E9%8C%84%E5%8F%96-%E7%B5%82%E6%A5%B5%E5%BF%97%E5%90%91%E5%9C%A8%E5%93%88%E4%BD%9B",
+    "timestamp": "2026-07-19T10:41:58.939Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "觀塘「聯廈聯管」服務中心開幕　顏汶羽：一個半月已接觸13幢大廈",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260719/1155337647690878976849765.jpeg/qwGWhn4m8mrW9O_vXmrym_t7OYdOoSXrANrCbTrawm0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60371328/%E8%A5%BF%E7%87%9F%E7%9B%A42%E7%9A%84%E5%A3%AB%E6%92%9E-%E5%B0%8F%E9%9C%B2%E5%AF%B6-%E7%BF%BB%E5%81%B42%E4%BA%BA%E8%A2%AB%E5%9B%B0%E5%8F%B8%E6%A9%9F%E5%8F%97%E5%82%B7-%E5%B1%8B%E8%8B%91%E5%B7%B4%E5%A3%AB%E8%A2%AB%E6%B3%A2%E5%8F%8A",
     "timestamp": "2026-07-18T18:54:04.127Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "大家樂MMA｜長髮男大戰胖漢　互掟托盤膠碗　職員夾中間勸阻獲讚",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260717/1154892367707246592439652.png/AqCx1f-M3oQ0MB6I4KtxLPkN00JK1C-c30ABXd9AAV0",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60371120/%E5%A4%A7%E5%AE%B6%E6%A8%82mma-%E9%95%B7%E9%AB%AE%E7%94%B7%E5%A4%A7%E6%88%B0%E8%83%96%E6%BC%A2-%E4%BA%92%E6%8E%9F%E6%89%98%E7%9B%A4%E8%86%A0%E7%A2%97-%E8%81%B7%E5%93%A1%E5%A4%BE%E4%B8%AD%E9%96%93%E5%8B%B8%E9%98%BB%E7%8D%B2%E8%AE%9A",
-    "timestamp": "2026-07-18T18:27:37.297Z",
     "strategy": ".content-card__main"
   }
 ];
