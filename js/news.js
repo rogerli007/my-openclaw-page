@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-19T14:36:15.088Z
+// Last updated: 2026-07-19T15:12:40.821Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "38年錯位人生！家屬驗DNA驚揭美2名男嬰遭掉包　兩家怒告索償",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260719/1155552821181943808084315.png/35j4q8Rqukt34wQh_o1XK9DLiycAtvjfBq-FEwavhRM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60371101/38%E5%B9%B4%E9%8C%AF%E4%BD%8D%E4%BA%BA%E7%94%9F-%E5%AE%B6%E5%B1%AC%E9%A9%97dna%E9%A9%9A%E6%8F%AD%E7%BE%8E2%E5%90%8D%E7%94%B7%E5%AC%B0%E9%81%AD%E6%8E%89%E5%8C%85-%E5%85%A9%E5%AE%B6%E6%80%92%E5%91%8A%E7%B4%A2%E5%84%9F",
+    "timestamp": "2026-07-19T15:12:40.821Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "誰在暗戀你？4張圖選1張最有Feel的　揭露你最易被哪種人偷偷愛上",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260719/1155391637136871424069243.jpeg/nQ6AON9dkUM-zkdFvQEbL6hqUxNI0zdhzNVcxczVXMU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60371334/%E4%B8%96%E7%95%8C%E7%9B%83-%E8%A2%AB%E5%95%8F%E7%89%B9%E6%9C%97%E6%99%AE%E8%B3%AA%E7%96%91%E8%8B%B1%E6%A0%BC%E8%98%AD%E6%88%B0%E8%A1%93-%E6%9D%9C%E6%85%88%E5%8F%8D%E5%95%8F-%E4%BD%A0%E6%8B%BF%E4%BB%96%E4%BE%86%E5%81%9A%E8%AD%89",
     "timestamp": "2026-07-18T22:24:34.059Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "世界盃2026︱季軍戰英格蘭4球領先　賴斯入球兼助攻沙卡梅開二度",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260719/1155382153479983104140359.jpeg/BZdv6NlXgMa3NTxCepM1qFA7qKXpj_m1BINAMwSDQDM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60371333/%E4%B8%96%E7%95%8C%E7%9B%832026-%E5%AD%A3%E8%BB%8D%E6%88%B0%E8%8B%B1%E6%A0%BC%E8%98%AD4%E7%90%83%E9%A0%98%E5%85%88-%E8%B3%B4%E6%96%AF%E5%85%A5%E7%90%83%E5%85%BC%E5%8A%A9%E6%94%BB%E6%B2%99%E5%8D%A1%E6%A2%85%E9%96%8B%E4%BA%8C%E5%BA%A6",
-    "timestamp": "2026-07-18T21:53:44.319Z",
     "strategy": ".content-card__main"
   }
 ];
