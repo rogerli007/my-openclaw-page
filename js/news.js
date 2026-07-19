@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-19T18:42:11.455Z
+// Last updated: 2026-07-19T19:45:18.461Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "普京晤崔善姬　感謝朝鮮支持對烏克蘭特別軍事行動",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260720/1155712396279418880569137.jpeg/lWkW3vGUPZnsKmILkY_PwwZ9j9W1X8TJjbmUsY25lLE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60371538/%E6%99%AE%E4%BA%AC%E6%99%A4%E5%B4%94%E5%96%84%E5%A7%AC-%E6%84%9F%E8%AC%9D%E6%9C%9D%E9%AE%AE%E6%94%AF%E6%8C%81%E5%B0%8D%E7%83%8F%E5%85%8B%E8%98%AD%E7%89%B9%E5%88%A5%E8%BB%8D%E4%BA%8B%E8%A1%8C%E5%8B%95",
+    "timestamp": "2026-07-19T19:45:18.461Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "世界盃2026決賽持續更新｜西班牙對阿根廷正選公布　耶馬美斯領銜",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260718/1155106201109794816294807.jpeg/22V0_Cl38jtAcJHpdvPrw70dvILZqQ8esFI-drBSPnY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E4%B8%AD%E5%9C%8B%E8%A7%80%E5%AF%9F/60371359/2026%E4%B8%96%E7%95%8C%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%A4%A7%E6%9C%83-%E4%B8%AD%E5%9C%8Bai%E7%9A%84%E9%96%8B%E6%94%BE%E9%82%8F%E8%BC%AF",
     "timestamp": "2026-07-19T02:45:58.219Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "陳欣健讚汪明荃不怒而威　笑言唔驚佢︰我哋冇拍過接吻戲又冇伸脷",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260719/1155340553852817408307914.jpeg/MQ55YdSfkXU29T3-b78YXEr7cxezsxetWsP0MFrD9DA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60371326/%E9%99%B3%E6%AC%A3%E5%81%A5%E8%AE%9A%E6%B1%AA%E6%98%8E%E8%8D%83%E4%B8%8D%E6%80%92%E8%80%8C%E5%A8%81-%E7%AC%91%E8%A8%80%E5%94%94%E9%A9%9A%E4%BD%A2-%E6%88%91%E5%93%8B%E5%86%87%E6%8B%8D%E9%81%8E%E6%8E%A5%E5%90%BB%E6%88%B2%E5%8F%88%E5%86%87%E4%BC%B8%E8%84%B7",
-    "timestamp": "2026-07-19T01:43:13.323Z",
     "strategy": ".content-card__main"
   }
 ];
