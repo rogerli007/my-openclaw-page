@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-19T10:41:58.939Z
+// Last updated: 2026-07-19T11:42:40.730Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "鄧兆尊否認已立電子遺囑　稱報道為標題黨：信唔信就睇智慧",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260719/1155579881380122624047916.jpeg/vWMCEpJnv9BWtykLAspgoqtRBUPii0Gf6WhtadNobWk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60371482/%E9%84%A7%E5%85%86%E5%B0%8A%E5%90%A6%E8%AA%8D%E5%B7%B2%E7%AB%8B%E9%9B%BB%E5%AD%90%E9%81%BA%E5%9B%91-%E7%A8%B1%E5%A0%B1%E9%81%93%E7%82%BA%E6%A8%99%E9%A1%8C%E9%BB%A8-%E4%BF%A1%E5%94%94%E4%BF%A1%E5%B0%B1%E7%9D%87%E6%99%BA%E6%85%A7",
+    "timestamp": "2026-07-19T11:42:40.730Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "曾被稱｢不學習就像他｣　31歲保安8戰清華獲錄取　終極志向在哈佛",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260719/1155351655235981312793541.png/M9dhFJzjkg8bPgS3s3wqqbIcfaZ-yNETZHuWLmR7li4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60371329/%E4%BB%81%E5%B7%9D%E9%85%B7%E6%BE%8E%E7%89%A9%E6%B5%81%E4%B8%AD%E5%BF%83%E5%A4%A7%E7%81%AB-%E7%87%92%E9%80%BE17%E5%B0%8F%E6%99%82%E6%9C%AA%E5%8F%97%E6%8E%A7-%E5%85%A8%E5%9C%8B%E6%B6%88%E9%98%B2%E5%8B%95%E5%93%A1%E4%BB%A4%E7%99%BC%E5%B8%83",
     "timestamp": "2026-07-18T19:31:43.746Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "西營盤2的士撞　「小露寶」翻側2人被困司機受傷　屋苑巴士被波及",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260719/1155337647690878976849765.jpeg/qwGWhn4m8mrW9O_vXmrym_t7OYdOoSXrANrCbTrawm0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60371328/%E8%A5%BF%E7%87%9F%E7%9B%A42%E7%9A%84%E5%A3%AB%E6%92%9E-%E5%B0%8F%E9%9C%B2%E5%AF%B6-%E7%BF%BB%E5%81%B42%E4%BA%BA%E8%A2%AB%E5%9B%B0%E5%8F%B8%E6%A9%9F%E5%8F%97%E5%82%B7-%E5%B1%8B%E8%8B%91%E5%B7%B4%E5%A3%AB%E8%A2%AB%E6%B3%A2%E5%8F%8A",
-    "timestamp": "2026-07-18T18:54:04.127Z",
     "strategy": ".content-card__main"
   }
 ];
