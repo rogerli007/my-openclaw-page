@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-18T23:55:47.165Z
+// Last updated: 2026-07-19T00:50:28.468Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "鍾潔怡獲藝訓班同學補祝生日　走出喪夫之痛轉戰內地直播積極復出",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260718/1155198510543409152092586.jpeg/fxz1J1QJ9TAIQiQQSJpGOia2zU46dDj6ar3_1Gq9_9Q?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60371124/%E9%8D%BE%E6%BD%94%E6%80%A1%E7%8D%B2%E8%97%9D%E8%A8%93%E7%8F%AD%E5%90%8C%E5%AD%B8%E8%A3%9C%E7%A5%9D%E7%94%9F%E6%97%A5-%E8%B5%B0%E5%87%BA%E5%96%AA%E5%A4%AB%E4%B9%8B%E7%97%9B%E8%BD%89%E6%88%B0%E5%85%A7%E5%9C%B0%E7%9B%B4%E6%92%AD%E7%A9%8D%E6%A5%B5%E5%BE%A9%E5%87%BA",
+    "timestamp": "2026-07-19T00:50:28.468Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "三星、海力士賺太多錢　特朗普政府眼紅：「超額利潤」須分給美國",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260701/1149092342767030272041532.jpeg/_VYBEmtfxRomgyz6J5bInybHOObyIvtfoIFT7qCBU-4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60371309/%E7%A6%BE%E4%BB%99%E5%A4%8F%E8%A8%AA%E8%8F%AF-%E4%BD%9B%E5%BE%97%E8%A7%92%E9%A7%90%E8%8F%AF%E5%A4%A7%E4%BD%BF-%E7%8D%B2%E5%A4%9A%E7%9C%81%E9%82%80%E8%AB%8B-%E6%AD%A3%E5%85%A8%E5%8A%9B%E4%BF%83%E6%88%90%E4%B8%AD%E4%BD%9B%E5%8F%8B%E8%AA%BC%E8%B3%BD",
     "timestamp": "2026-07-18T14:35:47.001Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "韓國首爾及周邊暴雨引發水浸　近150戶被淹　當局派逾9000人應災",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260718/1155265634888585216580463.png/7XNaWJX0e4LdvHgeihAiTzekFyLxQcey_YfVcP2H1XA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60371304/%E9%9F%93%E5%9C%8B%E9%A6%96%E7%88%BE%E5%8F%8A%E5%91%A8%E9%82%8A%E6%9A%B4%E9%9B%A8%E5%BC%95%E7%99%BC%E6%B0%B4%E6%B5%B8-%E8%BF%91150%E6%88%B6%E8%A2%AB%E6%B7%B9-%E7%95%B6%E5%B1%80%E6%B4%BE%E9%80%BE9000%E4%BA%BA%E6%87%89%E7%81%BD",
-    "timestamp": "2026-07-18T13:54:30.181Z",
     "strategy": ".content-card__main"
   }
 ];
