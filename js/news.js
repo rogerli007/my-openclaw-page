@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-19T17:12:53.237Z
+// Last updated: 2026-07-19T17:41:23.104Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "筲箕灣停水｜跨部門動員逾130人協調　水務署：爭取6點前恢復食水",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260720/1155687453768552448071863.jpeg/t6AFjmrmtlxQeD951wUtavG2n9rRLeqLmv_wvpr_8L4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60371532/%E7%AD%B2%E7%AE%95%E7%81%A3%E5%81%9C%E6%B0%B4-%E8%B7%A8%E9%83%A8%E9%96%80%E5%8B%95%E5%93%A1%E9%80%BE130%E4%BA%BA%E5%8D%94%E8%AA%BF-%E6%B0%B4%E5%8B%99%E7%BD%B2-%E7%88%AD%E5%8F%966%E9%BB%9E%E5%89%8D%E6%81%A2%E5%BE%A9%E9%A3%9F%E6%B0%B4",
+    "timestamp": "2026-07-19T17:41:23.104Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "世界盃2026賽程時間表｜決賽西班牙對阿根廷+104場賽果一覽",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260714/1153668908020928512230416.jpeg/wDKUHpoUL7gkzHumxbkX8o8LMcm2_3ZRah9pRGofaUQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60371337/%E4%B8%89%E6%98%9F-%E6%B5%B7%E5%8A%9B%E5%A3%AB%E8%B3%BA%E5%A4%AA%E5%A4%9A%E9%8C%A2-%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%E7%9C%BC%E7%B4%85-%E8%B6%85%E9%A1%8D%E5%88%A9%E6%BD%A4-%E9%A0%88%E5%88%86%E7%B5%A6%E7%BE%8E%E5%9C%8B",
     "timestamp": "2026-07-18T23:55:47.165Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "有片！30歲男為情跳河　71歲神勇婆婆躍深水救人　事後深藏功與名",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260718/1155244688366637056593864.jpeg/3w9vXV0yaoSMhxhcFd6QLzcW_rs8msIxJFX2aSRV9mk",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60370709/%E6%9C%89%E7%89%87-30%E6%AD%B2%E7%94%B7%E7%82%BA%E6%83%85%E8%B7%B3%E6%B2%B3-71%E6%AD%B2%E7%A5%9E%E5%8B%87%E5%A9%86%E5%A9%86%E8%BA%8D%E6%B7%B1%E6%B0%B4%E6%95%91%E4%BA%BA-%E4%BA%8B%E5%BE%8C%E6%B7%B1%E8%97%8F%E5%8A%9F%E8%88%87%E5%90%8D",
-    "timestamp": "2026-07-18T23:26:20.692Z",
     "strategy": ".content-card__main"
   }
 ];
