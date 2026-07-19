@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-19T19:45:18.461Z
+// Last updated: 2026-07-19T21:38:08.644Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "最新天氣｜天文台提示：未來兩三小時本港部份地區雨勢較大",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260618/1144263887345422336215809.jpeg/pqT4MZ-81bs6qejxdG9xeqoDSM9BAke3pDmD5IE5g-Q?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60371528/%E6%9C%80%E6%96%B0%E5%A4%A9%E6%B0%A3-%E5%A4%A9%E6%96%87%E5%8F%B0%E6%8F%90%E7%A4%BA-%E6%9C%AA%E4%BE%86%E5%85%A9%E4%B8%89%E5%B0%8F%E6%99%82%E6%9C%AC%E6%B8%AF%E9%83%A8%E4%BB%BD%E5%9C%B0%E5%8D%80%E9%9B%A8%E5%8B%A2%E8%BC%83%E5%A4%A7",
+    "timestamp": "2026-07-19T21:38:08.644Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "普京晤崔善姬　感謝朝鮮支持對烏克蘭特別軍事行動",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260719/1155503541045956608593840.jpeg/1P1Fn8Leq-L-SyZmHMhMnogjottlyYSZzY-Occ2PjnE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60371400/77%E6%AD%B2%E8%80%81%E7%BF%81%E9%8D%BE%E6%B0%B8%E4%BD%B3%E8%A1%8C%E5%B1%B1%E5%A4%B1%E8%B9%A42%E6%97%A5-%E4%BB%8A%E6%97%A5%E7%B5%82%E5%B0%8B%E5%9B%9E-%E6%93%A6%E5%82%B7%E6%B8%85%E9%86%92%E9%80%81%E9%99%A2",
     "timestamp": "2026-07-19T05:29:49.331Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "2026世界人工智能大會｜中國AI的開放邏輯",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260718/1155106201109794816294807.jpeg/22V0_Cl38jtAcJHpdvPrw70dvILZqQ8esFI-drBSPnY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E4%B8%AD%E5%9C%8B%E8%A7%80%E5%AF%9F/60371359/2026%E4%B8%96%E7%95%8C%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%A4%A7%E6%9C%83-%E4%B8%AD%E5%9C%8Bai%E7%9A%84%E9%96%8B%E6%94%BE%E9%82%8F%E8%BC%AF",
-    "timestamp": "2026-07-19T02:45:58.219Z",
     "strategy": ".content-card__main"
   }
 ];
