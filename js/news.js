@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-19T08:23:15.774Z
+// Last updated: 2026-07-19T09:23:46.238Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "疑自製工具偷郵遞支票　塗改資料存傀儡戶口　涉款77萬警拘38歲男",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/4942046/org/b936e5d9692ca94b4a14c828f6c78878.jpg/AK1UF4H7his-BJD11hwBdSlICfPnXu3Wax1OhWsdToU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60371458/%E7%96%91%E8%87%AA%E8%A3%BD%E5%B7%A5%E5%85%B7%E5%81%B7%E9%83%B5%E9%81%9E%E6%94%AF%E7%A5%A8-%E5%A1%97%E6%94%B9%E8%B3%87%E6%96%99%E5%AD%98%E5%82%80%E5%84%A1%E6%88%B6%E5%8F%A3-%E6%B6%89%E6%AC%BE77%E8%90%AC%E8%AD%A6%E6%8B%9838%E6%AD%B2%E7%94%B7",
+    "timestamp": "2026-07-19T09:23:46.238Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "世界盃2026季軍戰窩心一幕　英格蘭隊友推訓練門將領獎背藏辛酸",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260315/1109789975248900096793201.jpeg/CbjfVOUOlTwGsqeOPO_vzuJuLSpMokeEHCiWMRwoljE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60371325/%E4%BC%8A%E6%9C%97%E6%9C%80%E9%AB%98%E9%A0%98%E8%A2%96-%E7%BE%8E%E5%9C%8B%E4%B8%80%E5%86%8D%E9%81%95%E8%83%8C%E5%8D%94%E8%AD%B0%E6%89%BF%E8%AB%BE-%E8%AD%89%E6%98%8E%E7%89%B9%E6%9C%97%E6%99%AE%E7%9A%84%E7%B0%BD%E5%90%8D%E6%AF%AB%E7%84%A1%E5%83%B9%E5%80%BC",
     "timestamp": "2026-07-18T17:54:32.249Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "伊朗最高領袖：美國一再違背協議承諾　證明特朗普的簽名毫無價值",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260315/1109789975248900096793201.jpeg/CbjfVOUOlTwGsqeOPO_vzuJuLSpMokeEHCiWMRwoljE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60371325/%E4%BC%8A%E6%9C%97%E6%9C%80%E9%AB%98%E9%A0%98%E8%A2%96-%E7%BE%8E%E5%9C%8B%E4%B8%80%E5%86%8D%E9%81%95%E8%83%8C%E5%8D%94%E8%AD%B0%E6%89%BF%E8%AB%BE-%E8%AD%89%E6%98%8E%E7%89%B9%E6%9C%97%E6%99%AE%E7%9A%84%E7%B0%BD%E5%90%8D%E6%AF%AB%E7%84%A1%E5%83%B9%E5%80%BC",
-    "timestamp": "2026-07-18T17:28:14.142Z",
     "strategy": ".content-card__main"
   }
 ];
