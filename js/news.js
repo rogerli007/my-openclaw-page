@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-19T13:55:22.321Z
+// Last updated: 2026-07-19T14:36:15.088Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "誰在暗戀你？4張圖選1張最有Feel的　揭露你最易被哪種人偷偷愛上",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260713/1153335667116216320643501.jpeg/ogvUheWldidaotQHrLg_oY1PZHodFTThdHo2sHR6NrA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60298257/%E8%AA%B0%E5%9C%A8%E6%9A%97%E6%88%80%E4%BD%A0-4%E5%BC%B5%E5%9C%96%E9%81%B81%E5%BC%B5%E6%9C%80%E6%9C%89feel%E7%9A%84-%E6%8F%AD%E9%9C%B2%E4%BD%A0%E6%9C%80%E6%98%93%E8%A2%AB%E5%93%AA%E7%A8%AE%E4%BA%BA%E5%81%B7%E5%81%B7%E6%84%9B%E4%B8%8A",
+    "timestamp": "2026-07-19T14:36:15.088Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "世界盃｜當種族主義撕開裂痕　為何拉美人希望阿根廷在決賽失利",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260719/1155382153479983104140359.jpeg/BZdv6NlXgMa3NTxCepM1qFA7qKXpj_m1BINAMwSDQDM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60371333/%E4%B8%96%E7%95%8C%E7%9B%832026-%E5%AD%A3%E8%BB%8D%E6%88%B0%E8%8B%B1%E6%A0%BC%E8%98%AD4%E7%90%83%E9%A0%98%E5%85%88-%E8%B3%B4%E6%96%AF%E5%85%A5%E7%90%83%E5%85%BC%E5%8A%A9%E6%94%BB%E6%B2%99%E5%8D%A1%E6%A2%85%E9%96%8B%E4%BA%8C%E5%BA%A6",
     "timestamp": "2026-07-18T21:53:44.319Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "世界盃季軍戰｜400人聚集商場觀賽　3男生分2派支持愛隊",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260719/1155378268128415744245081.jpeg/tSN1K19xnUrn17Z1XMzgY7nTxEKSy_Ak93UAwM11AMA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60371315/%E4%B8%96%E7%95%8C%E7%9B%83%E5%AD%A3%E8%BB%8D%E6%88%B0-400%E4%BA%BA%E8%81%9A%E9%9B%86%E5%95%86%E5%A0%B4%E8%A7%80%E8%B3%BD-3%E7%94%B7%E7%94%9F%E5%88%862%E6%B4%BE%E6%94%AF%E6%8C%81%E6%84%9B%E9%9A%8A",
-    "timestamp": "2026-07-18T21:24:37.338Z",
     "strategy": ".content-card__main"
   }
 ];
