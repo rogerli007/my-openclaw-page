@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-19T09:23:46.238Z
+// Last updated: 2026-07-19T10:03:25.177Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "觀塘「聯廈聯管」服務中心開幕　顏汶羽：一個半月已接觸13幢大廈",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260719/1155571570605821952472810.jpeg/-Xt94hqCs9gRrPOuM7kCyqYFvOniQ26yOXUeNDl1HjQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60371471/%E8%A7%80%E5%A1%98-%E8%81%AF%E5%BB%88%E8%81%AF%E7%AE%A1-%E6%9C%8D%E5%8B%99%E4%B8%AD%E5%BF%83%E9%96%8B%E5%B9%95-%E9%A1%8F%E6%B1%B6%E7%BE%BD-%E4%B8%80%E5%80%8B%E5%8D%8A%E6%9C%88%E5%B7%B2%E6%8E%A5%E8%A7%B813%E5%B9%A2%E5%A4%A7%E5%BB%88",
+    "timestamp": "2026-07-19T10:03:25.177Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "疑自製工具偷郵遞支票　塗改資料存傀儡戶口　涉款77萬警拘38歲男",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260717/1154892367707246592439652.png/AqCx1f-M3oQ0MB6I4KtxLPkN00JK1C-c30ABXd9AAV0",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60371120/%E5%A4%A7%E5%AE%B6%E6%A8%82mma-%E9%95%B7%E9%AB%AE%E7%94%B7%E5%A4%A7%E6%88%B0%E8%83%96%E6%BC%A2-%E4%BA%92%E6%8E%9F%E6%89%98%E7%9B%A4%E8%86%A0%E7%A2%97-%E8%81%B7%E5%93%A1%E5%A4%BE%E4%B8%AD%E9%96%93%E5%8B%B8%E9%98%BB%E7%8D%B2%E8%AE%9A",
     "timestamp": "2026-07-18T18:27:37.297Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "伊朗最高領袖：美國一再違背協議承諾　證明特朗普的簽名毫無價值",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260315/1109789975248900096793201.jpeg/CbjfVOUOlTwGsqeOPO_vzuJuLSpMokeEHCiWMRwoljE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60371325/%E4%BC%8A%E6%9C%97%E6%9C%80%E9%AB%98%E9%A0%98%E8%A2%96-%E7%BE%8E%E5%9C%8B%E4%B8%80%E5%86%8D%E9%81%95%E8%83%8C%E5%8D%94%E8%AD%B0%E6%89%BF%E8%AB%BE-%E8%AD%89%E6%98%8E%E7%89%B9%E6%9C%97%E6%99%AE%E7%9A%84%E7%B0%BD%E5%90%8D%E6%AF%AB%E7%84%A1%E5%83%B9%E5%80%BC",
-    "timestamp": "2026-07-18T17:54:32.249Z",
     "strategy": ".content-card__main"
   }
 ];
