@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-20T08:24:15.330Z
+// Last updated: 2026-07-20T09:42:50.603Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "玩具迷小心！網民全屋公仔Figure惹出禍　疑甲醛超標導致頭暈送醫",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260720/1155874946350583808984370.png/TCH99LaXad8JVeBhojl3pxk5LW_kH2TlqugyD6roMg8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60371670/%E7%8E%A9%E5%85%B7%E8%BF%B7%E5%B0%8F%E5%BF%83-%E7%B6%B2%E6%B0%91%E5%85%A8%E5%B1%8B%E5%85%AC%E4%BB%94figure%E6%83%B9%E5%87%BA%E7%A6%8D-%E7%96%91%E7%94%B2%E9%86%9B%E8%B6%85%E6%A8%99%E5%B0%8E%E8%87%B4%E9%A0%AD%E6%9A%88%E9%80%81%E9%86%AB",
+    "timestamp": "2026-07-20T09:42:50.603Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "謝賢逝世享年89歲　曾被捕獲坐輪椅撐拐杖多次傳中風",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260611/1141845280300208128965183.jpeg/XjYqBao7YKjNLMjZMvFiQ3HuxknUgegtJFbW7iRW1u4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60355406/%E4%B8%96%E7%95%8C%E7%9B%832026%E5%85%8D%E8%B2%BB%E7%9B%B4%E6%92%AD-%E9%A6%99%E6%B8%AFviutv%E6%B1%BA%E8%B3%BD%E8%A5%BF%E7%8F%AD%E7%89%99%E5%B0%8D%E9%98%BF%E6%A0%B9%E5%BB%B7%E8%B3%BD%E7%A8%8B%E6%99%82%E9%96%93%E8%A1%A8",
     "timestamp": "2026-07-19T12:39:09.388Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "鄧兆尊否認已立電子遺囑　稱報道為標題黨：信唔信就睇智慧",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260719/1155579881380122624047916.jpeg/vWMCEpJnv9BWtykLAspgoqtRBUPii0Gf6WhtadNobWk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60371482/%E9%84%A7%E5%85%86%E5%B0%8A%E5%90%A6%E8%AA%8D%E5%B7%B2%E7%AB%8B%E9%9B%BB%E5%AD%90%E9%81%BA%E5%9B%91-%E7%A8%B1%E5%A0%B1%E9%81%93%E7%82%BA%E6%A8%99%E9%A1%8C%E9%BB%A8-%E4%BF%A1%E5%94%94%E4%BF%A1%E5%B0%B1%E7%9D%87%E6%99%BA%E6%85%A7",
-    "timestamp": "2026-07-19T11:42:40.730Z",
     "strategy": ".content-card__main"
   }
 ];
