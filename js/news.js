@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-20T19:21:52.818Z
+// Last updated: 2026-07-20T20:09:18.247Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "珍惜生命｜大嶼山15歲男童墮樓　當場證不治",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260720/1155796927988633600754832.jpeg/GD9QmrvBLJECKzWD4uJfn8SRdxA7s4II8Otr0PDra9A?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60371945/%E7%8F%8D%E6%83%9C%E7%94%9F%E5%91%BD-%E5%A4%A7%E5%B6%BC%E5%B1%B115%E6%AD%B2%E7%94%B7%E7%AB%A5%E5%A2%AE%E6%A8%93-%E7%95%B6%E5%A0%B4%E8%AD%89%E4%B8%8D%E6%B2%BB",
+    "timestamp": "2026-07-20T20:09:18.247Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "謝賢離世｜傳謝振軒與謝振南可分90%遺產　謝霆鋒及謝婷婷僅得10%",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260720/1155712396279418880569137.jpeg/lWkW3vGUPZnsKmILkY_PwwZ9j9W1X8TJjbmUsY25lLE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60371538/%E6%99%AE%E4%BA%AC%E6%99%A4%E5%B4%94%E5%96%84%E5%A7%AC-%E6%84%9F%E8%AC%9D%E6%9C%9D%E9%AE%AE%E6%94%AF%E6%8C%81%E5%B0%8D%E7%83%8F%E5%85%8B%E8%98%AD%E7%89%B9%E5%88%A5%E8%BB%8D%E4%BA%8B%E8%A1%8C%E5%8B%95",
     "timestamp": "2026-07-19T19:45:18.461Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "世界盃2026決賽持續更新｜西班牙對阿根廷正選公布　耶馬美斯領銜",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260720/1155683507582799872497561.jpeg/3yxP3tndWF7L9zsOZxsOLnkctxRO7wOmSyjkf0so5H8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60371530/%E4%B8%96%E7%95%8C%E7%9B%832026%E6%B1%BA%E8%B3%BD%E6%8C%81%E7%BA%8C%E6%9B%B4%E6%96%B0-%E8%A5%BF%E7%8F%AD%E7%89%99%E5%B0%8D%E9%98%BF%E6%A0%B9%E5%BB%B7%E6%AD%A3%E9%81%B8%E5%85%AC%E5%B8%83-%E8%80%B6%E9%A6%AC%E7%BE%8E%E6%96%AF%E9%A0%98%E9%8A%9C",
-    "timestamp": "2026-07-19T18:42:11.455Z",
     "strategy": ".content-card__main"
   }
 ];
