@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-20T05:58:17.962Z
+// Last updated: 2026-07-20T08:24:15.330Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "謝賢逝世享年89歲　曾被捕獲坐輪椅撐拐杖多次傳中風",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260720/1155903710430236672803214.jpeg/V_3sNyGNx4z-OTmhew4VRrzTGgKsByLxeQl6VnkJelY",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60371780/%E8%AC%9D%E8%B3%A2%E9%80%9D%E4%B8%96%E4%BA%AB%E5%B9%B489%E6%AD%B2-%E6%9B%BE%E8%A2%AB%E6%8D%95%E7%8D%B2%E5%9D%90%E8%BC%AA%E6%A4%85%E6%92%90%E6%8B%90%E6%9D%96%E5%A4%9A%E6%AC%A1%E5%82%B3%E4%B8%AD%E9%A2%A8",
+    "timestamp": "2026-07-20T08:24:15.330Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "世界盃｜安素費南迪斯領紅累阿根廷落敗　英媒指報應　網民：活該",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260719/1155579881380122624047916.jpeg/vWMCEpJnv9BWtykLAspgoqtRBUPii0Gf6WhtadNobWk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60371482/%E9%84%A7%E5%85%86%E5%B0%8A%E5%90%A6%E8%AA%8D%E5%B7%B2%E7%AB%8B%E9%9B%BB%E5%AD%90%E9%81%BA%E5%9B%91-%E7%A8%B1%E5%A0%B1%E9%81%93%E7%82%BA%E6%A8%99%E9%A1%8C%E9%BB%A8-%E4%BF%A1%E5%94%94%E4%BF%A1%E5%B0%B1%E7%9D%87%E6%99%BA%E6%85%A7",
     "timestamp": "2026-07-19T11:42:40.730Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "曾被稱｢不學習就像他｣　31歲保安8戰清華獲錄取　終極志向在哈佛",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260719/1155552822712864768501376.png/e3lZINMdw3ihnN_6HuJKoGAdun0477aJuerTcbnq03E?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60371445/%E6%9B%BE%E8%A2%AB%E7%A8%B1-%E4%B8%8D%E5%AD%B8%E7%BF%92%E5%B0%B1%E5%83%8F%E4%BB%96-31%E6%AD%B2%E4%BF%9D%E5%AE%898%E6%88%B0%E6%B8%85%E8%8F%AF%E7%8D%B2%E9%8C%84%E5%8F%96-%E7%B5%82%E6%A5%B5%E5%BF%97%E5%90%91%E5%9C%A8%E5%93%88%E4%BD%9B",
-    "timestamp": "2026-07-19T10:41:58.939Z",
     "strategy": ".content-card__main"
   }
 ];
