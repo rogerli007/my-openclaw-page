@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-20T13:30:02.317Z
+// Last updated: 2026-07-20T14:23:01.038Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "林俊傑偕女友七七世界盃放閃　女方戴28萬頸鍊搭平價牛仔褲引討論",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260720/1155870519367569408530894.png/pzxS2ioxZY5PK04r-OpE3IkSe25J63VA6YD3j-mA948?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60371691/%E6%9E%97%E4%BF%8A%E5%82%91%E5%81%95%E5%A5%B3%E5%8F%8B%E4%B8%83%E4%B8%83%E4%B8%96%E7%95%8C%E7%9B%83%E6%94%BE%E9%96%83-%E5%A5%B3%E6%96%B9%E6%88%B428%E8%90%AC%E9%A0%B8%E9%8D%8A%E6%90%AD%E5%B9%B3%E5%83%B9%E7%89%9B%E4%BB%94%E8%A4%B2%E5%BC%95%E8%A8%8E%E8%AB%96",
+    "timestamp": "2026-07-20T14:23:01.038Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "NBA｜鷹隊失去耐心交易里薩謝至獨行俠　達拉斯迎來雙狀元組合",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260719/1155627090419126272147805.jpeg/Ik9XAXDQQRWMOROKM3Skh7vX9CvR8A4EveNBTofjQU4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60371505/%E4%B8%AD%E8%81%B24-%E8%BB%8A%E5%A9%89%E5%A9%89%E9%A9%9A%E5%96%9C%E7%8F%BE%E5%A0%B4%E6%92%90%E5%A0%B4-%E7%9B%A3%E8%A3%BD%E8%A6%AA%E8%AD%89%E7%AF%80%E7%9B%AE%E6%9C%AC%E5%B1%86%E5%BE%8C%E6%9A%AB%E5%88%A5%E8%A7%80%E7%9C%BE",
     "timestamp": "2026-07-19T15:39:42.332Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "38年錯位人生！家屬驗DNA驚揭美2名男嬰遭掉包　兩家怒告索償",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260719/1155552821181943808084315.png/35j4q8Rqukt34wQh_o1XK9DLiycAtvjfBq-FEwavhRM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60371101/38%E5%B9%B4%E9%8C%AF%E4%BD%8D%E4%BA%BA%E7%94%9F-%E5%AE%B6%E5%B1%AC%E9%A9%97dna%E9%A9%9A%E6%8F%AD%E7%BE%8E2%E5%90%8D%E7%94%B7%E5%AC%B0%E9%81%AD%E6%8E%89%E5%8C%85-%E5%85%A9%E5%AE%B6%E6%80%92%E5%91%8A%E7%B4%A2%E5%84%9F",
-    "timestamp": "2026-07-19T15:12:40.821Z",
     "strategy": ".content-card__main"
   }
 ];
