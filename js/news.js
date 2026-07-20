@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-20T14:23:01.038Z
+// Last updated: 2026-07-20T16:10:21.215Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "何猷君奚夢瑤現身世界盃決賽現場甜蜜曬愛　零保鏢跟身勁曬超靚位",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260720/1155975594807136256340271.jpeg/PTfqYLOd5qPVQ3pKbB2F04z5cY52Y090ljYhsJY2IbA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60371809/%E4%BD%95%E7%8C%B7%E5%90%9B%E5%A5%9A%E5%A4%A2%E7%91%A4%E7%8F%BE%E8%BA%AB%E4%B8%96%E7%95%8C%E7%9B%83%E6%B1%BA%E8%B3%BD%E7%8F%BE%E5%A0%B4%E7%94%9C%E8%9C%9C%E6%9B%AC%E6%84%9B-%E9%9B%B6%E4%BF%9D%E9%8F%A2%E8%B7%9F%E8%BA%AB%E5%8B%81%E6%9B%AC%E8%B6%85%E9%9D%9A%E4%BD%8D",
+    "timestamp": "2026-07-20T16:10:21.215Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "林俊傑偕女友七七世界盃放閃　女方戴28萬頸鍊搭平價牛仔褲引討論",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260603/1138883767016886272374059.jpeg/BS6AIN7iAre_V9Tfr-4Pun-qQoF4GoD48maTUvJmk1I?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60337698/%E4%B8%96%E7%95%8C%E7%9B%832026%E8%B3%BD%E7%A8%8B%E6%99%82%E9%96%93%E8%A1%A8-%E6%B1%BA%E8%B3%BD%E8%A5%BF%E7%8F%AD%E7%89%99%E5%B0%8D%E9%98%BF%E6%A0%B9%E5%BB%B7-104%E5%A0%B4%E8%B3%BD%E6%9E%9C%E4%B8%80%E8%A6%BD",
     "timestamp": "2026-07-19T17:12:53.237Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "中聲4｜車婉婉驚喜現場撐場　監製親證節目本屆後暫別觀眾",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260719/1155627090419126272147805.jpeg/Ik9XAXDQQRWMOROKM3Skh7vX9CvR8A4EveNBTofjQU4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60371505/%E4%B8%AD%E8%81%B24-%E8%BB%8A%E5%A9%89%E5%A9%89%E9%A9%9A%E5%96%9C%E7%8F%BE%E5%A0%B4%E6%92%90%E5%A0%B4-%E7%9B%A3%E8%A3%BD%E8%A6%AA%E8%AD%89%E7%AF%80%E7%9B%AE%E6%9C%AC%E5%B1%86%E5%BE%8C%E6%9A%AB%E5%88%A5%E8%A7%80%E7%9C%BE",
-    "timestamp": "2026-07-19T15:39:42.332Z",
     "strategy": ".content-card__main"
   }
 ];
