@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-20T17:51:07.106Z
+// Last updated: 2026-07-20T18:47:23.300Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "警落馬洲洲頭村搗毒品倉　拘28歲內地男檢值270萬毒品",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260721/1156063249607692288250368.jpeg/PiOpiPWJhQmkEd7BAHsKISYZm-pXJmC-RJRJb0SUSW8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60371943/%E8%AD%A6%E8%90%BD%E9%A6%AC%E6%B4%B2%E6%B4%B2%E9%A0%AD%E6%9D%91%E6%90%97%E6%AF%92%E5%93%81%E5%80%89-%E6%8B%9828%E6%AD%B2%E5%85%A7%E5%9C%B0%E7%94%B7%E6%AA%A2%E5%80%BC270%E8%90%AC%E6%AF%92%E5%93%81",
+    "timestamp": "2026-07-20T18:47:23.300Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "筲箕灣停水．有片｜工程人員肉身冒「洪流」維修　網民：辛苦晒",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260720/1155683507582799872497561.jpeg/3yxP3tndWF7L9zsOZxsOLnkctxRO7wOmSyjkf0so5H8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60371530/%E4%B8%96%E7%95%8C%E7%9B%832026%E6%B1%BA%E8%B3%BD%E6%8C%81%E7%BA%8C%E6%9B%B4%E6%96%B0-%E8%A5%BF%E7%8F%AD%E7%89%99%E5%B0%8D%E9%98%BF%E6%A0%B9%E5%BB%B7%E6%AD%A3%E9%81%B8%E5%85%AC%E5%B8%83-%E8%80%B6%E9%A6%AC%E7%BE%8E%E6%96%AF%E9%A0%98%E9%8A%9C",
     "timestamp": "2026-07-19T18:11:26.934Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "筲箕灣停水｜跨部門動員逾130人協調　水務署：爭取6點前恢復食水",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260720/1155687453768552448071863.jpeg/t6AFjmrmtlxQeD951wUtavG2n9rRLeqLmv_wvpr_8L4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60371532/%E7%AD%B2%E7%AE%95%E7%81%A3%E5%81%9C%E6%B0%B4-%E8%B7%A8%E9%83%A8%E9%96%80%E5%8B%95%E5%93%A1%E9%80%BE130%E4%BA%BA%E5%8D%94%E8%AA%BF-%E6%B0%B4%E5%8B%99%E7%BD%B2-%E7%88%AD%E5%8F%966%E9%BB%9E%E5%89%8D%E6%81%A2%E5%BE%A9%E9%A3%9F%E6%B0%B4",
-    "timestamp": "2026-07-19T17:41:23.104Z",
     "strategy": ".content-card__main"
   }
 ];
