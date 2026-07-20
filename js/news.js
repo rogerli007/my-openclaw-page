@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-19T23:10:29.103Z
+// Last updated: 2026-07-20T02:16:02.708Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "世界盃決賽｜羅淑佩睇完「紅牛」歎「沙牛」：緊張不算精彩的決賽",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260720/1155816667545079808407312.jpeg/3U2iKpPunXP-iwxP5otdAKDedaEaRtZ7OnMvEjpzLxI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60371591/%E4%B8%96%E7%95%8C%E7%9B%83%E6%B1%BA%E8%B3%BD-%E7%BE%85%E6%B7%91%E4%BD%A9%E7%9D%87%E5%AE%8C-%E7%B4%85%E7%89%9B-%E6%AD%8E-%E6%B2%99%E7%89%9B-%E7%B7%8A%E5%BC%B5%E4%B8%8D%E7%AE%97%E7%B2%BE%E5%BD%A9%E7%9A%84%E6%B1%BA%E8%B3%BD",
+    "timestamp": "2026-07-20T02:16:02.708Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "八鄉兩印度漢疑醉酒　揮玻璃樽互襲　兩人雙雙送院同被捕",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/4942046/org/b936e5d9692ca94b4a14c828f6c78878.jpg/AK1UF4H7his-BJD11hwBdSlICfPnXu3Wax1OhWsdToU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60371458/%E7%96%91%E8%87%AA%E8%A3%BD%E5%B7%A5%E5%85%B7%E5%81%B7%E9%83%B5%E9%81%9E%E6%94%AF%E7%A5%A8-%E5%A1%97%E6%94%B9%E8%B3%87%E6%96%99%E5%AD%98%E5%82%80%E5%84%A1%E6%88%B6%E5%8F%A3-%E6%B6%89%E6%AC%BE77%E8%90%AC%E8%AD%A6%E6%8B%9838%E6%AD%B2%E7%94%B7",
     "timestamp": "2026-07-19T09:23:46.238Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "世界盃2026季軍戰窩心一幕　英格蘭隊友推訓練門將領獎背藏辛酸",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260719/1155525929884192768548170.jpeg/N4fF3Jjli0AbRqqGUl4QJlvw9DLXmRDoV9dmWFfXZlg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60371425/%E4%B8%96%E7%95%8C%E7%9B%832026%E5%AD%A3%E8%BB%8D%E6%88%B0%E7%AA%A9%E5%BF%83%E4%B8%80%E5%B9%95-%E8%8B%B1%E6%A0%BC%E8%98%AD%E9%9A%8A%E5%8F%8B%E6%8E%A8%E8%A8%93%E7%B7%B4%E9%96%80%E5%B0%87%E9%A0%98%E7%8D%8E%E8%83%8C%E8%97%8F%E8%BE%9B%E9%85%B8",
-    "timestamp": "2026-07-19T08:23:15.774Z",
     "strategy": ".content-card__main"
   }
 ];
