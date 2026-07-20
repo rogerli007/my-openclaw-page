@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-20T10:49:18.466Z
+// Last updated: 2026-07-20T11:48:29.592Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "Bra多久換一次才健康？盤點7大內衣老化徵兆　避免胸部下垂變形",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260617/1143952702498148352946123.jpeg/TrHyaVhb1SADvEyu4ViwFUBsfUWgLTZtVW5WblVuVm4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A9%BF%E6%90%AD%E7%AD%86%E8%A8%98/60361278/bra%E5%A4%9A%E4%B9%85%E6%8F%9B%E4%B8%80%E6%AC%A1%E6%89%8D%E5%81%A5%E5%BA%B7-%E7%9B%A4%E9%BB%9E7%E5%A4%A7%E5%85%A7%E8%A1%A3%E8%80%81%E5%8C%96%E5%BE%B5%E5%85%86-%E9%81%BF%E5%85%8D%E8%83%B8%E9%83%A8%E4%B8%8B%E5%9E%82%E8%AE%8A%E5%BD%A2",
+    "timestamp": "2026-07-20T11:48:29.592Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "「健康快車」推免費白內障跨境手術　助200基層患者北上治療一眼",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260719/1155600719261208576513087.jpeg/O_CvSWaPSHxU3cJzzLhVgH6GAiGA5djjbKSFe2ykhXs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60371477/%E4%B8%96%E7%95%8C%E7%9B%83-%E7%95%B6%E7%A8%AE%E6%97%8F%E4%B8%BB%E7%BE%A9%E6%92%95%E9%96%8B%E8%A3%82%E7%97%95-%E7%82%BA%E4%BD%95%E6%8B%89%E7%BE%8E%E4%BA%BA%E5%B8%8C%E6%9C%9B%E9%98%BF%E6%A0%B9%E5%BB%B7%E5%9C%A8%E6%B1%BA%E8%B3%BD%E5%A4%B1%E5%88%A9",
     "timestamp": "2026-07-19T13:55:22.321Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "內地版海力士長鑫科技中籤號出爐　共約770.22萬個",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260615/1143248513585385472345921.jpeg/Shd27oh-raXzfp61E4T5-Kvjl4pNtIjLfIpM6nyKTOo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60371499/%E5%85%A7%E5%9C%B0%E7%89%88%E6%B5%B7%E5%8A%9B%E5%A3%AB%E9%95%B7%E9%91%AB%E7%A7%91%E6%8A%80%E4%B8%AD%E7%B1%A4%E8%99%9F%E5%87%BA%E7%88%90-%E5%85%B1%E7%B4%84770-22%E8%90%AC%E5%80%8B",
-    "timestamp": "2026-07-19T13:15:44.192Z",
     "strategy": ".content-card__main"
   }
 ];
