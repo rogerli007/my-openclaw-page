@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-20T23:29:40.133Z
+// Last updated: 2026-07-20T23:54:50.696Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美聯邦法官發臨時令　叫停派拉蒙收購華納兄弟",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20251209/1075081596173946880719548.jpeg/y1e8BSPsdiQh4peKQoMUF-4qAl_HFom2wAf8s8AH_LM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60371949/%E7%BE%8E%E8%81%AF%E9%82%A6%E6%B3%95%E5%AE%98%E7%99%BC%E8%87%A8%E6%99%82%E4%BB%A4-%E5%8F%AB%E5%81%9C%E6%B4%BE%E6%8B%89%E8%92%99%E6%94%B6%E8%B3%BC%E8%8F%AF%E7%B4%8D%E5%85%84%E5%BC%9F",
+    "timestamp": "2026-07-20T23:54:50.696Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "俄稱烏軍無人機襲莫斯科州釀10傷　華使館：包括3名中國公民",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260720/1155872992362762240572168.jpeg/xNVWokQQGwqHhPKrfApvbgTy38mUtBKsf5bQUn-W0FI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60371692/%E4%B8%96%E7%95%8C%E7%9B%83-%E5%AE%89%E7%B4%A0%E8%B2%BB%E5%8D%97%E8%BF%AA%E6%96%AF%E9%A0%98%E7%B4%85%E7%B4%AF%E9%98%BF%E6%A0%B9%E5%BB%B7%E8%90%BD%E6%95%97-%E8%8B%B1%E5%AA%92%E6%8C%87%E5%A0%B1%E6%87%89-%E7%B6%B2%E6%B0%91-%E6%B4%BB%E8%A9%B2",
     "timestamp": "2026-07-20T05:58:17.962Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普：美國將「狠打」伊朗以祭陣亡美軍",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260720/1155849365214990336374809.jpeg/BaeXHFwjMnFv2v2xsisZqHJV8MSNEv44_aRow_2kaMM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60371660/%E7%89%B9%E6%9C%97%E6%99%AE-%E7%BE%8E%E5%9C%8B%E5%B0%87-%E7%8B%A0%E6%89%93-%E4%BC%8A%E6%9C%97%E4%BB%A5%E7%A5%AD%E9%99%A3%E4%BA%A1%E7%BE%8E%E8%BB%8D",
-    "timestamp": "2026-07-20T04:33:45.495Z",
     "strategy": ".content-card__main"
   }
 ];
