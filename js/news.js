@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-20T21:20:08.988Z
+// Last updated: 2026-07-20T21:57:48.670Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "伊朗本月空襲致美軍近百人傷　特朗普暗示將強硬報復",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260709/1151931678365585408381760.jpeg/lq6mLKHjrmNuJLkQC3OptPudtU5tQjtwtygburcoG7o?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60371946/%E4%BC%8A%E6%9C%97%E6%9C%AC%E6%9C%88%E7%A9%BA%E8%A5%B2%E8%87%B4%E7%BE%8E%E8%BB%8D%E8%BF%91%E7%99%BE%E4%BA%BA%E5%82%B7-%E7%89%B9%E6%9C%97%E6%99%AE%E6%9A%97%E7%A4%BA%E5%B0%87%E5%BC%B7%E7%A1%AC%E5%A0%B1%E5%BE%A9",
+    "timestamp": "2026-07-20T21:57:48.670Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "伊朗稱打擊美軍駐林和科威特設施　美軍連續第10晚發動空襲",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260719/1155585547800940544362875.jpeg/IM1_uAvIdKYve31Qo90pl9znrBvQEAO_Sxlc0ksZXNI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60371413/%E9%84%BA%E6%BD%94%E6%A5%B9%E8%88%87%E5%AF%8C%E4%BA%8C%E4%BB%A3%E7%94%B7%E5%8F%8B%E6%8B%8D%E6%8B%96%E4%B9%85-%E6%8F%B8%E9%A3%9B%E6%A9%9F%E9%A8%B7%E4%B8%8D%E6%8B%8D%E6%88%B2%E5%AF%8C%E8%B2%B4%E7%94%9F%E6%B4%BB",
     "timestamp": "2026-07-19T22:38:38.665Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "TVB第一期訓練班成員74歲精神飽滿　做「隱世華佗」開抖音入內地",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260719/1155568814851624960380491.jpeg/ysgOsotBwYz0IKySQeRX6tDGi70RP1f1qrhu86q4bvM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60371442/%E9%BB%83%E5%85%81%E8%B2%A1%E7%AC%AC%E4%B8%80%E6%9C%9F%E8%A8%93%E7%B7%B4%E7%8F%AD%E6%88%90%E5%93%A1%E9%96%8B%E6%8A%96%E9%9F%B3-74%E6%AD%B2%E7%B2%BE%E7%A5%9E%E9%A3%BD%E6%BB%BF%E5%90%8C%E5%9C%88%E4%B8%AD%E4%BA%BA%E9%A3%9F%E9%A3%AF",
-    "timestamp": "2026-07-19T22:10:09.065Z",
     "strategy": ".content-card__main"
   }
 ];
