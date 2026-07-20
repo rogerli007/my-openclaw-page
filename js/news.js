@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-20T04:33:45.495Z
+// Last updated: 2026-07-20T05:58:17.962Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "世界盃｜安素費南迪斯領紅累阿根廷落敗　英媒指報應　網民：活該",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260720/1155872992362762240572168.jpeg/xNVWokQQGwqHhPKrfApvbgTy38mUtBKsf5bQUn-W0FI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60371692/%E4%B8%96%E7%95%8C%E7%9B%83-%E5%AE%89%E7%B4%A0%E8%B2%BB%E5%8D%97%E8%BF%AA%E6%96%AF%E9%A0%98%E7%B4%85%E7%B4%AF%E9%98%BF%E6%A0%B9%E5%BB%B7%E8%90%BD%E6%95%97-%E8%8B%B1%E5%AA%92%E6%8C%87%E5%A0%B1%E6%87%89-%E7%B6%B2%E6%B0%91-%E6%B4%BB%E8%A9%B2",
+    "timestamp": "2026-07-20T05:58:17.962Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "特朗普：美國將「狠打」伊朗以祭陣亡美軍",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260719/1155552822712864768501376.png/e3lZINMdw3ihnN_6HuJKoGAdun0477aJuerTcbnq03E?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60371445/%E6%9B%BE%E8%A2%AB%E7%A8%B1-%E4%B8%8D%E5%AD%B8%E7%BF%92%E5%B0%B1%E5%83%8F%E4%BB%96-31%E6%AD%B2%E4%BF%9D%E5%AE%898%E6%88%B0%E6%B8%85%E8%8F%AF%E7%8D%B2%E9%8C%84%E5%8F%96-%E7%B5%82%E6%A5%B5%E5%BF%97%E5%90%91%E5%9C%A8%E5%93%88%E4%BD%9B",
     "timestamp": "2026-07-19T10:41:58.939Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "觀塘「聯廈聯管」服務中心開幕　顏汶羽：一個半月已接觸13幢大廈",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260719/1155571570605821952472810.jpeg/-Xt94hqCs9gRrPOuM7kCyqYFvOniQ26yOXUeNDl1HjQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60371471/%E8%A7%80%E5%A1%98-%E8%81%AF%E5%BB%88%E8%81%AF%E7%AE%A1-%E6%9C%8D%E5%8B%99%E4%B8%AD%E5%BF%83%E9%96%8B%E5%B9%95-%E9%A1%8F%E6%B1%B6%E7%BE%BD-%E4%B8%80%E5%80%8B%E5%8D%8A%E6%9C%88%E5%B7%B2%E6%8E%A5%E8%A7%B813%E5%B9%A2%E5%A4%A7%E5%BB%88",
-    "timestamp": "2026-07-19T10:03:25.177Z",
     "strategy": ".content-card__main"
   }
 ];
