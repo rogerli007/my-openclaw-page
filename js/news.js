@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-20T18:47:23.300Z
+// Last updated: 2026-07-20T19:21:52.818Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "謝賢離世｜傳謝振軒與謝振南可分90%遺產　謝霆鋒及謝婷婷僅得10%",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260721/1156042500608102400520798.jpeg/nj6EzPOFlD7AwH9Ru_WiMWKrqNHG66ZH0VWoUdFVqFE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60371938/%E8%AC%9D%E8%B3%A2%E9%9B%A2%E4%B8%96-%E5%82%B3%E8%AC%9D%E6%8C%AF%E8%BB%92%E8%88%87%E8%AC%9D%E6%8C%AF%E5%8D%97%E5%8F%AF%E5%88%8690-%E9%81%BA%E7%94%A2-%E8%AC%9D%E9%9C%86%E9%8B%92%E5%8F%8A%E8%AC%9D%E5%A9%B7%E5%A9%B7%E5%83%85%E5%BE%9710",
+    "timestamp": "2026-07-20T19:21:52.818Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "警落馬洲洲頭村搗毒品倉　拘28歲內地男檢值270萬毒品",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260720/1155683507582799872497561.jpeg/3yxP3tndWF7L9zsOZxsOLnkctxRO7wOmSyjkf0so5H8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60371530/%E4%B8%96%E7%95%8C%E7%9B%832026%E6%B1%BA%E8%B3%BD%E6%8C%81%E7%BA%8C%E6%9B%B4%E6%96%B0-%E8%A5%BF%E7%8F%AD%E7%89%99%E5%B0%8D%E9%98%BF%E6%A0%B9%E5%BB%B7%E6%AD%A3%E9%81%B8%E5%85%AC%E5%B8%83-%E8%80%B6%E9%A6%AC%E7%BE%8E%E6%96%AF%E9%A0%98%E9%8A%9C",
     "timestamp": "2026-07-19T18:42:11.455Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "世界盃2026決賽持續更新｜西班牙對阿根廷正選公布　耶馬美斯領銜",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260720/1155683507582799872497561.jpeg/3yxP3tndWF7L9zsOZxsOLnkctxRO7wOmSyjkf0so5H8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60371530/%E4%B8%96%E7%95%8C%E7%9B%832026%E6%B1%BA%E8%B3%BD%E6%8C%81%E7%BA%8C%E6%9B%B4%E6%96%B0-%E8%A5%BF%E7%8F%AD%E7%89%99%E5%B0%8D%E9%98%BF%E6%A0%B9%E5%BB%B7%E6%AD%A3%E9%81%B8%E5%85%AC%E5%B8%83-%E8%80%B6%E9%A6%AC%E7%BE%8E%E6%96%AF%E9%A0%98%E9%8A%9C",
-    "timestamp": "2026-07-19T18:11:26.934Z",
     "strategy": ".content-card__main"
   }
 ];
