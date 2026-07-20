@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-20T22:54:13.259Z
+// Last updated: 2026-07-20T23:29:40.133Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "俄稱烏軍無人機襲莫斯科州釀10傷　華使館：包括3名中國公民",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260721/1156072938210856960758406.jpeg/_od0jLhYQthDk1KLS2T8vqWAJ1UEV4eVVObJ-1Tmyfs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60371944/%E4%BF%84%E7%A8%B1%E7%83%8F%E8%BB%8D%E7%84%A1%E4%BA%BA%E6%A9%9F%E8%A5%B2%E8%8E%AB%E6%96%AF%E7%A7%91%E5%B7%9E%E9%87%8010%E5%82%B7-%E8%8F%AF%E4%BD%BF%E9%A4%A8-%E5%8C%85%E6%8B%AC3%E5%90%8D%E4%B8%AD%E5%9C%8B%E5%85%AC%E6%B0%91",
+    "timestamp": "2026-07-20T23:29:40.133Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "翠屏北邨單位疑短路起火　消防到場救熄　女住戶手燒傷送院",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260720/1155849365214990336374809.jpeg/BaeXHFwjMnFv2v2xsisZqHJV8MSNEv44_aRow_2kaMM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60371660/%E7%89%B9%E6%9C%97%E6%99%AE-%E7%BE%8E%E5%9C%8B%E5%B0%87-%E7%8B%A0%E6%89%93-%E4%BC%8A%E6%9C%97%E4%BB%A5%E7%A5%AD%E9%99%A3%E4%BA%A1%E7%BE%8E%E8%BB%8D",
     "timestamp": "2026-07-20T04:33:45.495Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "世界盃決賽｜羅淑佩睇完「紅牛」歎「沙牛」：緊張不算精彩的決賽",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260720/1155816667545079808407312.jpeg/3U2iKpPunXP-iwxP5otdAKDedaEaRtZ7OnMvEjpzLxI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60371591/%E4%B8%96%E7%95%8C%E7%9B%83%E6%B1%BA%E8%B3%BD-%E7%BE%85%E6%B7%91%E4%BD%A9%E7%9D%87%E5%AE%8C-%E7%B4%85%E7%89%9B-%E6%AD%8E-%E6%B2%99%E7%89%9B-%E7%B7%8A%E5%BC%B5%E4%B8%8D%E7%AE%97%E7%B2%BE%E5%BD%A9%E7%9A%84%E6%B1%BA%E8%B3%BD",
-    "timestamp": "2026-07-20T02:16:02.708Z",
     "strategy": ".content-card__main"
   }
 ];
