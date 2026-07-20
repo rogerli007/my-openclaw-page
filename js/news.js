@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-20T12:35:30.575Z
+// Last updated: 2026-07-20T13:30:02.317Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "NBA｜鷹隊失去耐心交易里薩謝至獨行俠　達拉斯迎來雙狀元組合",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260720/1155890297146707968962403.png/6zTmZ0oXANTlK9G0yadNsYTrwE8-PTVAmaXm8Zml5vE?v=w1920r16_9",
+    "url": "https://www.hk01.com/Jumper/60371707/nba-%E9%B7%B9%E9%9A%8A%E5%A4%B1%E5%8E%BB%E8%80%90%E5%BF%83%E4%BA%A4%E6%98%93%E9%87%8C%E8%96%A9%E8%AC%9D%E8%87%B3%E7%8D%A8%E8%A1%8C%E4%BF%A0-%E9%81%94%E6%8B%89%E6%96%AF%E8%BF%8E%E4%BE%86%E9%9B%99%E7%8B%80%E5%85%83%E7%B5%84%E5%90%88",
+    "timestamp": "2026-07-20T13:30:02.317Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "謝賢離世｜汪明荃聞死訊表不捨　讚好人：佢一生貢獻畀電影電視",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260719/1155552821181943808084315.png/35j4q8Rqukt34wQh_o1XK9DLiycAtvjfBq-FEwavhRM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60371101/38%E5%B9%B4%E9%8C%AF%E4%BD%8D%E4%BA%BA%E7%94%9F-%E5%AE%B6%E5%B1%AC%E9%A9%97dna%E9%A9%9A%E6%8F%AD%E7%BE%8E2%E5%90%8D%E7%94%B7%E5%AC%B0%E9%81%AD%E6%8E%89%E5%8C%85-%E5%85%A9%E5%AE%B6%E6%80%92%E5%91%8A%E7%B4%A2%E5%84%9F",
     "timestamp": "2026-07-19T15:12:40.821Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "誰在暗戀你？4張圖選1張最有Feel的　揭露你最易被哪種人偷偷愛上",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260713/1153335667116216320643501.jpeg/ogvUheWldidaotQHrLg_oY1PZHodFTThdHo2sHR6NrA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60298257/%E8%AA%B0%E5%9C%A8%E6%9A%97%E6%88%80%E4%BD%A0-4%E5%BC%B5%E5%9C%96%E9%81%B81%E5%BC%B5%E6%9C%80%E6%9C%89feel%E7%9A%84-%E6%8F%AD%E9%9C%B2%E4%BD%A0%E6%9C%80%E6%98%93%E8%A2%AB%E5%93%AA%E7%A8%AE%E4%BA%BA%E5%81%B7%E5%81%B7%E6%84%9B%E4%B8%8A",
-    "timestamp": "2026-07-19T14:36:15.088Z",
     "strategy": ".content-card__main"
   }
 ];
