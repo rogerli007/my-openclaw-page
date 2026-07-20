@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-20T09:42:50.603Z
+// Last updated: 2026-07-20T10:49:18.466Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "「健康快車」推免費白內障跨境手術　助200基層患者北上治療一眼",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260720/1155936180898893824904781.jpeg/75Jx5elEN51QWymG1mOAXEXXhkC-rSlhDnoVoCt6FaA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60371853/%E5%81%A5%E5%BA%B7%E5%BF%AB%E8%BB%8A-%E6%8E%A8%E5%85%8D%E8%B2%BB%E7%99%BD%E5%85%A7%E9%9A%9C%E8%B7%A8%E5%A2%83%E6%89%8B%E8%A1%93-%E5%8A%A9200%E5%9F%BA%E5%B1%A4%E6%82%A3%E8%80%85%E5%8C%97%E4%B8%8A%E6%B2%BB%E7%99%82%E4%B8%80%E7%9C%BC",
+    "timestamp": "2026-07-20T10:49:18.466Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "玩具迷小心！網民全屋公仔Figure惹出禍　疑甲醛超標導致頭暈送醫",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260615/1143248513585385472345921.jpeg/Shd27oh-raXzfp61E4T5-Kvjl4pNtIjLfIpM6nyKTOo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60371499/%E5%85%A7%E5%9C%B0%E7%89%88%E6%B5%B7%E5%8A%9B%E5%A3%AB%E9%95%B7%E9%91%AB%E7%A7%91%E6%8A%80%E4%B8%AD%E7%B1%A4%E8%99%9F%E5%87%BA%E7%88%90-%E5%85%B1%E7%B4%84770-22%E8%90%AC%E5%80%8B",
     "timestamp": "2026-07-19T13:15:44.192Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "世界盃2026免費直播｜ViuTV賽程時間｜7.20西班牙對阿根廷",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260611/1141845280300208128965183.jpeg/XjYqBao7YKjNLMjZMvFiQ3HuxknUgegtJFbW7iRW1u4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60355406/%E4%B8%96%E7%95%8C%E7%9B%832026%E5%85%8D%E8%B2%BB%E7%9B%B4%E6%92%AD-%E9%A6%99%E6%B8%AFviutv%E6%B1%BA%E8%B3%BD%E8%A5%BF%E7%8F%AD%E7%89%99%E5%B0%8D%E9%98%BF%E6%A0%B9%E5%BB%B7%E8%B3%BD%E7%A8%8B%E6%99%82%E9%96%93%E8%A1%A8",
-    "timestamp": "2026-07-19T12:39:09.388Z",
     "strategy": ".content-card__main"
   }
 ];
