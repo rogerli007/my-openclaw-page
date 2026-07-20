@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-20T02:16:02.708Z
+// Last updated: 2026-07-20T04:33:45.495Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "特朗普：美國將「狠打」伊朗以祭陣亡美軍",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260720/1155849365214990336374809.jpeg/BaeXHFwjMnFv2v2xsisZqHJV8MSNEv44_aRow_2kaMM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60371660/%E7%89%B9%E6%9C%97%E6%99%AE-%E7%BE%8E%E5%9C%8B%E5%B0%87-%E7%8B%A0%E6%89%93-%E4%BC%8A%E6%9C%97%E4%BB%A5%E7%A5%AD%E9%99%A3%E4%BA%A1%E7%BE%8E%E8%BB%8D",
+    "timestamp": "2026-07-20T04:33:45.495Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "世界盃決賽｜羅淑佩睇完「紅牛」歎「沙牛」：緊張不算精彩的決賽",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260719/1155571570605821952472810.jpeg/-Xt94hqCs9gRrPOuM7kCyqYFvOniQ26yOXUeNDl1HjQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60371471/%E8%A7%80%E5%A1%98-%E8%81%AF%E5%BB%88%E8%81%AF%E7%AE%A1-%E6%9C%8D%E5%8B%99%E4%B8%AD%E5%BF%83%E9%96%8B%E5%B9%95-%E9%A1%8F%E6%B1%B6%E7%BE%BD-%E4%B8%80%E5%80%8B%E5%8D%8A%E6%9C%88%E5%B7%B2%E6%8E%A5%E8%A7%B813%E5%B9%A2%E5%A4%A7%E5%BB%88",
     "timestamp": "2026-07-19T10:03:25.177Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "疑自製工具偷郵遞支票　塗改資料存傀儡戶口　涉款77萬警拘38歲男",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/4942046/org/b936e5d9692ca94b4a14c828f6c78878.jpg/AK1UF4H7his-BJD11hwBdSlICfPnXu3Wax1OhWsdToU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60371458/%E7%96%91%E8%87%AA%E8%A3%BD%E5%B7%A5%E5%85%B7%E5%81%B7%E9%83%B5%E9%81%9E%E6%94%AF%E7%A5%A8-%E5%A1%97%E6%94%B9%E8%B3%87%E6%96%99%E5%AD%98%E5%82%80%E5%84%A1%E6%88%B6%E5%8F%A3-%E6%B6%89%E6%AC%BE77%E8%90%AC%E8%AD%A6%E6%8B%9838%E6%AD%B2%E7%94%B7",
-    "timestamp": "2026-07-19T09:23:46.238Z",
     "strategy": ".content-card__main"
   }
 ];
