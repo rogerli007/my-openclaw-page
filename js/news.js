@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-20T16:10:21.215Z
+// Last updated: 2026-07-20T17:51:07.106Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "筲箕灣停水．有片｜工程人員肉身冒「洪流」維修　網民：辛苦晒",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260721/1156042990242762752749203.png/eIkCzrByzB8t1qPrhYuxtsJGiVHrN0Qa03hasNN4WrA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60371935/%E7%AD%B2%E7%AE%95%E7%81%A3%E5%81%9C%E6%B0%B4-%E6%9C%89%E7%89%87-%E5%B7%A5%E7%A8%8B%E4%BA%BA%E5%93%A1%E8%82%89%E8%BA%AB%E5%86%92-%E6%B4%AA%E6%B5%81-%E7%B6%AD%E4%BF%AE-%E7%B6%B2%E6%B0%91-%E8%BE%9B%E8%8B%A6%E6%99%92",
+    "timestamp": "2026-07-20T17:51:07.106Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "何猷君奚夢瑤現身世界盃決賽現場甜蜜曬愛　零保鏢跟身勁曬超靚位",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260720/1155687453768552448071863.jpeg/t6AFjmrmtlxQeD951wUtavG2n9rRLeqLmv_wvpr_8L4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60371532/%E7%AD%B2%E7%AE%95%E7%81%A3%E5%81%9C%E6%B0%B4-%E8%B7%A8%E9%83%A8%E9%96%80%E5%8B%95%E5%93%A1%E9%80%BE130%E4%BA%BA%E5%8D%94%E8%AA%BF-%E6%B0%B4%E5%8B%99%E7%BD%B2-%E7%88%AD%E5%8F%966%E9%BB%9E%E5%89%8D%E6%81%A2%E5%BE%A9%E9%A3%9F%E6%B0%B4",
     "timestamp": "2026-07-19T17:41:23.104Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "世界盃2026賽程時間表｜決賽西班牙對阿根廷+104場賽果一覽",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260603/1138883767016886272374059.jpeg/BS6AIN7iAre_V9Tfr-4Pun-qQoF4GoD48maTUvJmk1I?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60337698/%E4%B8%96%E7%95%8C%E7%9B%832026%E8%B3%BD%E7%A8%8B%E6%99%82%E9%96%93%E8%A1%A8-%E6%B1%BA%E8%B3%BD%E8%A5%BF%E7%8F%AD%E7%89%99%E5%B0%8D%E9%98%BF%E6%A0%B9%E5%BB%B7-104%E5%A0%B4%E8%B3%BD%E6%9E%9C%E4%B8%80%E8%A6%BD",
-    "timestamp": "2026-07-19T17:12:53.237Z",
     "strategy": ".content-card__main"
   }
 ];
