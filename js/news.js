@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-21T01:23:21.927Z
+// Last updated: 2026-07-21T02:23:58.487Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "內地餐飲來港撐市！6月商舖租務成交按月彈升近16%　創近兩年新高",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260720/1155909561270407168810567.jpeg/RCA3s2wSvtPtFfso4s59xou36mQbxwYirb2Yua29mLk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60371755/%E5%85%A7%E5%9C%B0%E9%A4%90%E9%A3%B2%E4%BE%86%E6%B8%AF%E6%92%90%E5%B8%82-6%E6%9C%88%E5%95%86%E8%88%96%E7%A7%9F%E5%8B%99%E6%88%90%E4%BA%A4%E6%8C%89%E6%9C%88%E5%BD%88%E5%8D%87%E8%BF%9116-%E5%89%B5%E8%BF%91%E5%85%A9%E5%B9%B4%E6%96%B0%E9%AB%98",
+    "timestamp": "2026-07-21T02:23:58.487Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "深井屯門公路城巴撞欄　多人受傷　出九龍交通受阻",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260720/1155936180898893824904781.jpeg/75Jx5elEN51QWymG1mOAXEXXhkC-rSlhDnoVoCt6FaA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60371853/%E5%81%A5%E5%BA%B7%E5%BF%AB%E8%BB%8A-%E6%8E%A8%E5%85%8D%E8%B2%BB%E7%99%BD%E5%85%A7%E9%9A%9C%E8%B7%A8%E5%A2%83%E6%89%8B%E8%A1%93-%E5%8A%A9200%E5%9F%BA%E5%B1%A4%E6%82%A3%E8%80%85%E5%8C%97%E4%B8%8A%E6%B2%BB%E7%99%82%E4%B8%80%E7%9C%BC",
     "timestamp": "2026-07-20T10:49:18.466Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "玩具迷小心！網民全屋公仔Figure惹出禍　疑甲醛超標導致頭暈送醫",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260720/1155874946350583808984370.png/TCH99LaXad8JVeBhojl3pxk5LW_kH2TlqugyD6roMg8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60371670/%E7%8E%A9%E5%85%B7%E8%BF%B7%E5%B0%8F%E5%BF%83-%E7%B6%B2%E6%B0%91%E5%85%A8%E5%B1%8B%E5%85%AC%E4%BB%94figure%E6%83%B9%E5%87%BA%E7%A6%8D-%E7%96%91%E7%94%B2%E9%86%9B%E8%B6%85%E6%A8%99%E5%B0%8E%E8%87%B4%E9%A0%AD%E6%9A%88%E9%80%81%E9%86%AB",
-    "timestamp": "2026-07-20T09:42:50.603Z",
     "strategy": ".content-card__main"
   }
 ];
