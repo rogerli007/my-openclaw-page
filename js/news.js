@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-21T12:21:28.755Z
+// Last updated: 2026-07-21T12:53:36.576Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "娃哈哈爭產案　長女宗馥莉再提新理據求准上訴　再被駁回兼付訟費",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20211209/545611392636424192372618.png/u8h1Bs00MJFolRTdWMWZchd316MOsl_gGnNpqBpzaag?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60372298/%E5%A8%83%E5%93%88%E5%93%88%E7%88%AD%E7%94%A2%E6%A1%88-%E9%95%B7%E5%A5%B3%E5%AE%97%E9%A6%A5%E8%8E%89%E5%86%8D%E6%8F%90%E6%96%B0%E7%90%86%E6%93%9A%E6%B1%82%E5%87%86%E4%B8%8A%E8%A8%B4-%E5%86%8D%E8%A2%AB%E9%A7%81%E5%9B%9E%E5%85%BC%E4%BB%98%E8%A8%9F%E8%B2%BB",
+    "timestamp": "2026-07-21T12:53:36.576Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "非份之罪丨羅冠蘭身份疑係Big Boss？　吳偉豪演渣男網民讚爆演技",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260721/1156042500608102400520798.jpeg/nj6EzPOFlD7AwH9Ru_WiMWKrqNHG66ZH0VWoUdFVqFE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60371938/%E8%AC%9D%E8%B3%A2%E9%9B%A2%E4%B8%96-%E5%82%B3%E8%AC%9D%E6%8C%AF%E8%BB%92%E8%88%87%E8%AC%9D%E6%8C%AF%E5%8D%97%E5%8F%AF%E5%88%8690-%E9%81%BA%E7%94%A2-%E8%AC%9D%E9%9C%86%E9%8B%92%E5%8F%8A%E8%AC%9D%E5%A9%B7%E5%A9%B7%E5%83%85%E5%BE%9710",
     "timestamp": "2026-07-20T19:21:52.818Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "警落馬洲洲頭村搗毒品倉　拘28歲內地男檢值270萬毒品",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260721/1156063249607692288250368.jpeg/PiOpiPWJhQmkEd7BAHsKISYZm-pXJmC-RJRJb0SUSW8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60371943/%E8%AD%A6%E8%90%BD%E9%A6%AC%E6%B4%B2%E6%B4%B2%E9%A0%AD%E6%9D%91%E6%90%97%E6%AF%92%E5%93%81%E5%80%89-%E6%8B%9828%E6%AD%B2%E5%85%A7%E5%9C%B0%E7%94%B7%E6%AA%A2%E5%80%BC270%E8%90%AC%E6%AF%92%E5%93%81",
-    "timestamp": "2026-07-20T18:47:23.300Z",
     "strategy": ".content-card__main"
   }
 ];
