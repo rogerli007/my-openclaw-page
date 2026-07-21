@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-21T07:14:27.030Z
+// Last updated: 2026-07-21T09:07:21.953Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "G-Dragon化身白馬王子佩戴Buccellati珠寶 華麗亮相UNESCO開幕禮",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260721/1156223787272769536341589.png/1sPIbnU4ikEL6g3lioLSrCStLe3ahxw6gVaD5YFWg-U?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E4%B8%80%E7%89%A9/60372064/g-dragon%E5%8C%96%E8%BA%AB%E7%99%BD%E9%A6%AC%E7%8E%8B%E5%AD%90%E4%BD%A9%E6%88%B4buccellati%E7%8F%A0%E5%AF%B6-%E8%8F%AF%E9%BA%97%E4%BA%AE%E7%9B%B8unesco%E9%96%8B%E5%B9%95%E7%A6%AE",
+    "timestamp": "2026-07-21T09:07:21.953Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "野狗骨頭結局劇情線上看｜最新更新時間+演員關係圖+簡介",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260720/1155975594807136256340271.jpeg/PTfqYLOd5qPVQ3pKbB2F04z5cY52Y090ljYhsJY2IbA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60371809/%E4%BD%95%E7%8C%B7%E5%90%9B%E5%A5%9A%E5%A4%A2%E7%91%A4%E7%8F%BE%E8%BA%AB%E4%B8%96%E7%95%8C%E7%9B%83%E6%B1%BA%E8%B3%BD%E7%8F%BE%E5%A0%B4%E7%94%9C%E8%9C%9C%E6%9B%AC%E6%84%9B-%E9%9B%B6%E4%BF%9D%E9%8F%A2%E8%B7%9F%E8%BA%AB%E5%8B%81%E6%9B%AC%E8%B6%85%E9%9D%9A%E4%BD%8D",
     "timestamp": "2026-07-20T16:10:21.215Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "林俊傑偕女友七七世界盃放閃　女方戴28萬頸鍊搭平價牛仔褲引討論",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260720/1155870519367569408530894.png/pzxS2ioxZY5PK04r-OpE3IkSe25J63VA6YD3j-mA948?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60371691/%E6%9E%97%E4%BF%8A%E5%82%91%E5%81%95%E5%A5%B3%E5%8F%8B%E4%B8%83%E4%B8%83%E4%B8%96%E7%95%8C%E7%9B%83%E6%94%BE%E9%96%83-%E5%A5%B3%E6%96%B9%E6%88%B428%E8%90%AC%E9%A0%B8%E9%8D%8A%E6%90%AD%E5%B9%B3%E5%83%B9%E7%89%9B%E4%BB%94%E8%A4%B2%E5%BC%95%E8%A8%8E%E8%AB%96",
-    "timestamp": "2026-07-20T14:23:01.038Z",
     "strategy": ".content-card__main"
   }
 ];
