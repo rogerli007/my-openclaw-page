@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-21T06:06:58.927Z
+// Last updated: 2026-07-21T07:14:27.030Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "野狗骨頭結局劇情線上看｜最新更新時間+演員關係圖+簡介",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260702/1149366516639076352260947.jpeg/_mVRymuMYY45Aj5WcUWPa8h7nHz4UIXtF-rxkBfq8ZA?v=w1920",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60365960/%E9%87%8E%E7%8B%97%E9%AA%A8%E9%A0%AD%E7%B5%90%E5%B1%80%E5%8A%87%E6%83%85%E7%B7%9A%E4%B8%8A%E7%9C%8B-%E6%9C%80%E6%96%B0%E6%9B%B4%E6%96%B0%E6%99%82%E9%96%93-%E6%BC%94%E5%93%A1%E9%97%9C%E4%BF%82%E5%9C%96-%E7%B0%A1%E4%BB%8B",
+    "timestamp": "2026-07-21T07:14:27.030Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "春日之地劇情｜最新追劇日曆/更新時間+演員角色簡介",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260720/1155870519367569408530894.png/pzxS2ioxZY5PK04r-OpE3IkSe25J63VA6YD3j-mA948?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60371691/%E6%9E%97%E4%BF%8A%E5%82%91%E5%81%95%E5%A5%B3%E5%8F%8B%E4%B8%83%E4%B8%83%E4%B8%96%E7%95%8C%E7%9B%83%E6%94%BE%E9%96%83-%E5%A5%B3%E6%96%B9%E6%88%B428%E8%90%AC%E9%A0%B8%E9%8D%8A%E6%90%AD%E5%B9%B3%E5%83%B9%E7%89%9B%E4%BB%94%E8%A4%B2%E5%BC%95%E8%A8%8E%E8%AB%96",
     "timestamp": "2026-07-20T14:23:01.038Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "NBA｜鷹隊失去耐心交易里薩謝至獨行俠　達拉斯迎來雙狀元組合",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260720/1155890297146707968962403.png/6zTmZ0oXANTlK9G0yadNsYTrwE8-PTVAmaXm8Zml5vE?v=w1920r16_9",
-    "url": "https://www.hk01.com/Jumper/60371707/nba-%E9%B7%B9%E9%9A%8A%E5%A4%B1%E5%8E%BB%E8%80%90%E5%BF%83%E4%BA%A4%E6%98%93%E9%87%8C%E8%96%A9%E8%AC%9D%E8%87%B3%E7%8D%A8%E8%A1%8C%E4%BF%A0-%E9%81%94%E6%8B%89%E6%96%AF%E8%BF%8E%E4%BE%86%E9%9B%99%E7%8B%80%E5%85%83%E7%B5%84%E5%90%88",
-    "timestamp": "2026-07-20T13:30:02.317Z",
     "strategy": ".content-card__main"
   }
 ];
