@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-21T17:38:57.620Z
+// Last updated: 2026-07-21T18:16:52.831Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "落馬洲支線管制站　海關檢250隻非法進口活雀拘2女　估計市值$5萬",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260722/1156418125768429568432087.jpeg/qW1951QHdKfITuRvsB9busZvJUHtf2f1QzfX80M31_M?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60372331/%E8%90%BD%E9%A6%AC%E6%B4%B2%E6%94%AF%E7%B7%9A%E7%AE%A1%E5%88%B6%E7%AB%99-%E6%B5%B7%E9%97%9C%E6%AA%A2250%E9%9A%BB%E9%9D%9E%E6%B3%95%E9%80%B2%E5%8F%A3%E6%B4%BB%E9%9B%80%E6%8B%982%E5%A5%B3-%E4%BC%B0%E8%A8%88%E5%B8%82%E5%80%BC-5%E8%90%AC",
+    "timestamp": "2026-07-21T18:16:52.831Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "特朗普預告將襲伊朗核設施：很快會猛烈打擊「十字鎬山」",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260721/1156072938210856960758406.jpeg/_od0jLhYQthDk1KLS2T8vqWAJ1UEV4eVVObJ-1Tmyfs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60371944/%E4%BF%84%E7%A8%B1%E7%83%8F%E8%BB%8D%E7%84%A1%E4%BA%BA%E6%A9%9F%E8%A5%B2%E8%8E%AB%E6%96%AF%E7%A7%91%E5%B7%9E%E9%87%8010%E5%82%B7-%E8%8F%AF%E4%BD%BF%E9%A4%A8-%E5%8C%85%E6%8B%AC3%E5%90%8D%E4%B8%AD%E5%9C%8B%E5%85%AC%E6%B0%91",
     "timestamp": "2026-07-20T23:29:40.133Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "翠屏北邨單位疑短路起火　消防到場救熄　女住戶手燒傷送院",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260721/1156126713785094144712458.jpeg/RhhWmpCpUhddWQdSMoRq7OI76HCvTlj9jaI_242iP9s?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60371950/%E7%BF%A0%E5%B1%8F%E5%8C%97%E9%82%A8%E5%96%AE%E4%BD%8D%E7%96%91%E7%9F%AD%E8%B7%AF%E8%B5%B7%E7%81%AB-%E6%B6%88%E9%98%B2%E5%88%B0%E5%A0%B4%E6%95%91%E7%86%84-%E5%A5%B3%E4%BD%8F%E6%88%B6%E6%89%8B%E7%87%92%E5%82%B7%E9%80%81%E9%99%A2",
-    "timestamp": "2026-07-20T22:54:13.259Z",
     "strategy": ".content-card__main"
   }
 ];
