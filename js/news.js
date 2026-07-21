@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-21T19:38:21.320Z
+// Last updated: 2026-07-21T20:49:37.961Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "英國前閣員韋黛琴遇害案　檢方：曾遭疑犯以鐵鎚連續重擊頭部21下",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260722/1156443111489015808728941.jpeg/NS7wpxCF2Us7qDzNrUeMHTanZBQtxVM9HRiXyB0Yl8g?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60372341/%E8%8B%B1%E5%9C%8B%E5%89%8D%E9%96%A3%E5%93%A1%E9%9F%8B%E9%BB%9B%E7%90%B4%E9%81%87%E5%AE%B3%E6%A1%88-%E6%AA%A2%E6%96%B9-%E6%9B%BE%E9%81%AD%E7%96%91%E7%8A%AF%E4%BB%A5%E9%90%B5%E9%8E%9A%E9%80%A3%E7%BA%8C%E9%87%8D%E6%93%8A%E9%A0%AD%E9%83%A821%E4%B8%8B",
+    "timestamp": "2026-07-21T20:49:37.961Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "王毅晤東盟秘書長談南海問題　稱菲律賓軍警部份勢力蓄意挑釁",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260721/1156155804013826048681497.jpeg/Tsjd-sGcJTN0Fg9mq9EkPjO68z71RMm5vp1l976dZfc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60371960/%E7%8F%8D%E6%83%9C%E7%94%9F%E5%91%BD-%E8%8D%83%E7%81%A3%E5%B7%9D%E9%BE%8D%E5%9C%B3%E4%B8%8B%E6%9D%9127%E6%AD%B2%E7%94%B7%E6%88%BF%E4%B8%AD%E7%87%92%E7%82%AD-%E7%88%B6%E8%A6%AA%E7%99%BC%E7%8F%BE-%E6%83%9C%E5%B7%B2%E5%91%8A%E4%B8%8D%E6%B2%BB",
     "timestamp": "2026-07-21T00:48:53.747Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美聯邦法官發臨時令　叫停派拉蒙收購華納兄弟",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20251209/1075081596173946880719548.jpeg/y1e8BSPsdiQh4peKQoMUF-4qAl_HFom2wAf8s8AH_LM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60371949/%E7%BE%8E%E8%81%AF%E9%82%A6%E6%B3%95%E5%AE%98%E7%99%BC%E8%87%A8%E6%99%82%E4%BB%A4-%E5%8F%AB%E5%81%9C%E6%B4%BE%E6%8B%89%E8%92%99%E6%94%B6%E8%B3%BC%E8%8F%AF%E7%B4%8D%E5%85%84%E5%BC%9F",
-    "timestamp": "2026-07-20T23:54:50.696Z",
     "strategy": ".content-card__main"
   }
 ];
