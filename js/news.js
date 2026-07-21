@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-21T21:20:46.507Z
+// Last updated: 2026-07-21T22:26:19.062Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "武打巨星自爆8歲遭同學侮辱亡父　持球拍衝入教員室按倒痛毆報復",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260721/1156362443924967424759140.jpeg/_bTN7RqFQy5PlXhwHxNSvbmQtqjUaTTbBKmqqgSpqqo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60372180/%E6%9D%8E%E9%80%A3%E6%9D%B0%E8%87%AA%E7%88%868%E6%AD%B2%E9%81%AD%E5%90%8C%E5%AD%B8%E4%BE%AE%E8%BE%B1%E4%BA%A1%E7%88%B6-%E6%8C%81%E7%90%83%E6%8B%8D%E8%A1%9D%E5%85%A5%E6%95%99%E5%93%A1%E5%AE%A4%E6%8C%89%E5%80%92%E7%97%9B%E6%AF%86%E5%A0%B1%E5%BE%A9",
+    "timestamp": "2026-07-21T22:26:19.062Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "巴菲特理財理論　槓桿陷阱危機四伏！｜汪敦敬",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260720/1155909561270407168810567.jpeg/RCA3s2wSvtPtFfso4s59xou36mQbxwYirb2Yua29mLk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60371755/%E5%85%A7%E5%9C%B0%E9%A4%90%E9%A3%B2%E4%BE%86%E6%B8%AF%E6%92%90%E5%B8%82-6%E6%9C%88%E5%95%86%E8%88%96%E7%A7%9F%E5%8B%99%E6%88%90%E4%BA%A4%E6%8C%89%E6%9C%88%E5%BD%88%E5%8D%87%E8%BF%9116-%E5%89%B5%E8%BF%91%E5%85%A9%E5%B9%B4%E6%96%B0%E9%AB%98",
     "timestamp": "2026-07-21T02:23:58.487Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "深井屯門公路城巴撞欄　多人受傷　出九龍交通受阻",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260721/1156165424736374784931482.jpeg/DM8TttEtUtJMXW-5sStZnwaVEqgRiK5kiq36Doqt-g4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60371964/%E6%B7%B1%E4%BA%95%E5%B1%AF%E9%96%80%E5%85%AC%E8%B7%AF%E5%9F%8E%E5%B7%B4%E6%92%9E%E6%AC%84-%E5%A4%9A%E4%BA%BA%E5%8F%97%E5%82%B7-%E5%87%BA%E4%B9%9D%E9%BE%8D%E4%BA%A4%E9%80%9A%E5%8F%97%E9%98%BB",
-    "timestamp": "2026-07-21T01:23:21.927Z",
     "strategy": ".content-card__main"
   }
 ];
