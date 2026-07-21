@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-21T13:40:28.331Z
+// Last updated: 2026-07-21T14:33:51.806Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "鄧小巧新歌《無時無刻》 飛峇里自導自演MV　同海豚共泳驚喜圓夢",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260721/1156265106623959040307462.jpeg/FBFeznGMKCPzuLUM5I9X_YwRISvcwmFfFHyZlhR8mZY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60372147/%E9%84%A7%E5%B0%8F%E5%B7%A7%E6%96%B0%E6%AD%8C-%E7%84%A1%E6%99%82%E7%84%A1%E5%88%BB-%E9%A3%9B%E5%B3%87%E9%87%8C%E8%87%AA%E5%B0%8E%E8%87%AA%E6%BC%94mv-%E5%90%8C%E6%B5%B7%E8%B1%9A%E5%85%B1%E6%B3%B3%E9%A9%9A%E5%96%9C%E5%9C%93%E5%A4%A2",
+    "timestamp": "2026-07-21T14:33:51.806Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "生病寧用年假不請病假　 打工仔苦笑揭殘酷現實　網狠批：好浪費",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20230918/780555067106267136648931.jpeg/rFRgI---1LBcIpZUWshNyYgGdbkLUYhJ8eBZX_HgWV8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60371934/%E4%BC%8A%E6%9C%97%E7%A8%B1%E6%89%93%E6%93%8A%E7%BE%8E%E8%BB%8D%E9%A7%90%E6%9E%97%E5%92%8C%E7%A7%91%E5%A8%81%E7%89%B9%E8%A8%AD%E6%96%BD-%E7%BE%8E%E8%BB%8D%E9%80%A3%E7%BA%8C%E7%AC%AC10%E6%99%9A%E7%99%BC%E5%8B%95%E7%A9%BA%E8%A5%B2",
     "timestamp": "2026-07-20T20:49:12.350Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "珍惜生命｜大嶼山15歲男童墮樓　當場證不治",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260720/1155796927988633600754832.jpeg/GD9QmrvBLJECKzWD4uJfn8SRdxA7s4II8Otr0PDra9A?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60371945/%E7%8F%8D%E6%83%9C%E7%94%9F%E5%91%BD-%E5%A4%A7%E5%B6%BC%E5%B1%B115%E6%AD%B2%E7%94%B7%E7%AB%A5%E5%A2%AE%E6%A8%93-%E7%95%B6%E5%A0%B4%E8%AD%89%E4%B8%8D%E6%B2%BB",
-    "timestamp": "2026-07-20T20:09:18.247Z",
     "strategy": ".content-card__main"
   }
 ];
