@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-21T22:26:19.062Z
+// Last updated: 2026-07-21T23:27:29.338Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "峇里島恐怖情殺　新加坡男勒斃印尼女友　數十公仔藏屍伴新歡過夜",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260721/1156314750158639104853726.png/rc7lN1RbhjhaCzx7CO6LeNZj1CbbsNCuH7fkwR-35ME?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E8%A9%B1%E9%A1%8C/60371992/%E5%B3%87%E9%87%8C%E5%B3%B6%E6%81%90%E6%80%96%E6%83%85%E6%AE%BA-%E6%96%B0%E5%8A%A0%E5%9D%A1%E7%94%B7%E5%8B%92%E6%96%83%E5%8D%B0%E5%B0%BC%E5%A5%B3%E5%8F%8B-%E6%95%B8%E5%8D%81%E5%85%AC%E4%BB%94%E8%97%8F%E5%B1%8D%E4%BC%B4%E6%96%B0%E6%AD%A1%E9%81%8E%E5%A4%9C",
+    "timestamp": "2026-07-21T23:27:29.338Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "武打巨星自爆8歲遭同學侮辱亡父　持球拍衝入教員室按倒痛毆報復",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260721/1156197084970356736984072.jpeg/3eRgjs7jAMkupGURn0Hhi07zrjcP_GS3ufpzPLn6czw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60372032/%E6%AD%90%E7%9B%9F%E9%87%8D%E7%BD%B0%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B45-5%E5%84%84%E6%AD%90%E5%85%83-%E7%82%BAdsa%E7%AB%8B%E6%B3%95%E4%BB%A5%E4%BE%86%E7%A0%B4%E7%B4%80%E9%8C%84%E7%BD%B0%E5%96%AE",
     "timestamp": "2026-07-21T03:46:40.689Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "內地餐飲來港撐市！6月商舖租務成交按月彈升近16%　創近兩年新高",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260720/1155909561270407168810567.jpeg/RCA3s2wSvtPtFfso4s59xou36mQbxwYirb2Yua29mLk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60371755/%E5%85%A7%E5%9C%B0%E9%A4%90%E9%A3%B2%E4%BE%86%E6%B8%AF%E6%92%90%E5%B8%82-6%E6%9C%88%E5%95%86%E8%88%96%E7%A7%9F%E5%8B%99%E6%88%90%E4%BA%A4%E6%8C%89%E6%9C%88%E5%BD%88%E5%8D%87%E8%BF%9116-%E5%89%B5%E8%BF%91%E5%85%A9%E5%B9%B4%E6%96%B0%E9%AB%98",
-    "timestamp": "2026-07-21T02:23:58.487Z",
     "strategy": ".content-card__main"
   }
 ];
