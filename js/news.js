@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-21T20:49:37.961Z
+// Last updated: 2026-07-21T21:20:46.507Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "巴菲特理財理論　槓桿陷阱危機四伏！｜汪敦敬",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260721/1156343538871439360601537.jpeg/6iToFAJI7pI94KGPVTR1ruM7xcOvJScZfmb9c35m_XM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60372257/%E5%B7%B4%E8%8F%B2%E7%89%B9%E7%90%86%E8%B2%A1%E7%90%86%E8%AB%96-%E6%A7%93%E6%A1%BF%E9%99%B7%E9%98%B1%E5%8D%B1%E6%A9%9F%E5%9B%9B%E4%BC%8F-%E6%B1%AA%E6%95%A6%E6%95%AC",
+    "timestamp": "2026-07-21T21:20:46.507Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "英國前閣員韋黛琴遇害案　檢方：曾遭疑犯以鐵鎚連續重擊頭部21下",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260721/1156165424736374784931482.jpeg/DM8TttEtUtJMXW-5sStZnwaVEqgRiK5kiq36Doqt-g4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60371964/%E6%B7%B1%E4%BA%95%E5%B1%AF%E9%96%80%E5%85%AC%E8%B7%AF%E5%9F%8E%E5%B7%B4%E6%92%9E%E6%AC%84-%E5%A4%9A%E4%BA%BA%E5%8F%97%E5%82%B7-%E5%87%BA%E4%B9%9D%E9%BE%8D%E4%BA%A4%E9%80%9A%E5%8F%97%E9%98%BB",
     "timestamp": "2026-07-21T01:23:21.927Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "珍惜生命｜荃灣川龍圳下村27歲男房中燒炭　父親發現　惜已告不治",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260721/1156155804013826048681497.jpeg/Tsjd-sGcJTN0Fg9mq9EkPjO68z71RMm5vp1l976dZfc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60371960/%E7%8F%8D%E6%83%9C%E7%94%9F%E5%91%BD-%E8%8D%83%E7%81%A3%E5%B7%9D%E9%BE%8D%E5%9C%B3%E4%B8%8B%E6%9D%9127%E6%AD%B2%E7%94%B7%E6%88%BF%E4%B8%AD%E7%87%92%E7%82%AD-%E7%88%B6%E8%A6%AA%E7%99%BC%E7%8F%BE-%E6%83%9C%E5%B7%B2%E5%91%8A%E4%B8%8D%E6%B2%BB",
-    "timestamp": "2026-07-21T00:48:53.747Z",
     "strategy": ".content-card__main"
   }
 ];
