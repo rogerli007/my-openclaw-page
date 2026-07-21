@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-21T16:07:37.440Z
+// Last updated: 2026-07-21T16:50:46.548Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "大灣區航空聯乘經典港漫推廣品牌　委任老夫子、大番薯為宣傳大使",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260722/1156396890275713024216357.jpeg/TNQMqWIFlCqs5FEArxiQujlQiIQmLLX8wk4VqMJOFag?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60372322/%E5%A4%A7%E7%81%A3%E5%8D%80%E8%88%AA%E7%A9%BA%E8%81%AF%E4%B9%98%E7%B6%93%E5%85%B8%E6%B8%AF%E6%BC%AB%E6%8E%A8%E5%BB%A3%E5%93%81%E7%89%8C-%E5%A7%94%E4%BB%BB%E8%80%81%E5%A4%AB%E5%AD%90-%E5%A4%A7%E7%95%AA%E8%96%AF%E7%82%BA%E5%AE%A3%E5%82%B3%E5%A4%A7%E4%BD%BF",
+    "timestamp": "2026-07-21T16:50:46.548Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "袁文傑簽書會反應熱烈卻竟被老婆騎劫　網民驚嘆49歲張潔蓮冇老過",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260721/1156117459464491008068574.jpeg/8gMp6hQ2yEQyDbYCAr3osfFhqwm_ZYGsTGpm-kxqZvo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60371936/%E5%A4%A9%E6%B0%A3-%E4%BB%8A%E6%97%A5%E6%9C%89%E5%B9%BE%E9%99%A3%E9%A9%9F%E9%9B%A8%E6%9C%80%E9%AB%9831%E5%BA%A6-%E6%97%A5%E9%96%93%E9%83%A8%E4%BB%BD%E5%9C%B0%E5%8D%80%E9%9B%A8%E5%8B%A2%E8%BC%83%E5%A4%A7%E6%9C%89%E7%8B%82%E9%A2%A8%E9%9B%B7%E6%9A%B4",
     "timestamp": "2026-07-20T22:28:40.413Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "伊朗本月空襲致美軍近百人傷　特朗普暗示將強硬報復",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260709/1151931678365585408381760.jpeg/lq6mLKHjrmNuJLkQC3OptPudtU5tQjtwtygburcoG7o?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60371946/%E4%BC%8A%E6%9C%97%E6%9C%AC%E6%9C%88%E7%A9%BA%E8%A5%B2%E8%87%B4%E7%BE%8E%E8%BB%8D%E8%BF%91%E7%99%BE%E4%BA%BA%E5%82%B7-%E7%89%B9%E6%9C%97%E6%99%AE%E6%9A%97%E7%A4%BA%E5%B0%87%E5%BC%B7%E7%A1%AC%E5%A0%B1%E5%BE%A9",
-    "timestamp": "2026-07-20T21:57:48.670Z",
     "strategy": ".content-card__main"
   }
 ];
