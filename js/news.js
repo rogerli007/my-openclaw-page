@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-21T11:02:39.232Z
+// Last updated: 2026-07-21T12:21:28.755Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "非份之罪丨羅冠蘭身份疑係Big Boss？　吳偉豪演渣男網民讚爆演技",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260721/1156277786604736512510367.jpeg/hQosPo7ain-raUlR3WagNoU0BivHJCAxcOFB4XDhQeE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60372193/%E9%9D%9E%E4%BB%BD%E4%B9%8B%E7%BD%AA-%E7%BE%85%E5%86%A0%E8%98%AD%E8%BA%AB%E4%BB%BD%E7%96%91%E4%BF%82big-boss-%E5%90%B3%E5%81%89%E8%B1%AA%E6%BC%94%E6%B8%A3%E7%94%B7%E7%B6%B2%E6%B0%91%E8%AE%9A%E7%88%86%E6%BC%94%E6%8A%80",
+    "timestamp": "2026-07-21T12:21:28.755Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "廣西洪災│29歲男放棄旅行去救災　徒步6小時運物資後心臟衰竭離世",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260721/1156063249607692288250368.jpeg/PiOpiPWJhQmkEd7BAHsKISYZm-pXJmC-RJRJb0SUSW8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60371943/%E8%AD%A6%E8%90%BD%E9%A6%AC%E6%B4%B2%E6%B4%B2%E9%A0%AD%E6%9D%91%E6%90%97%E6%AF%92%E5%93%81%E5%80%89-%E6%8B%9828%E6%AD%B2%E5%85%A7%E5%9C%B0%E7%94%B7%E6%AA%A2%E5%80%BC270%E8%90%AC%E6%AF%92%E5%93%81",
     "timestamp": "2026-07-20T18:47:23.300Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "筲箕灣停水．有片｜工程人員肉身冒「洪流」維修　網民：辛苦晒",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260721/1156042990242762752749203.png/eIkCzrByzB8t1qPrhYuxtsJGiVHrN0Qa03hasNN4WrA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60371935/%E7%AD%B2%E7%AE%95%E7%81%A3%E5%81%9C%E6%B0%B4-%E6%9C%89%E7%89%87-%E5%B7%A5%E7%A8%8B%E4%BA%BA%E5%93%A1%E8%82%89%E8%BA%AB%E5%86%92-%E6%B4%AA%E6%B5%81-%E7%B6%AD%E4%BF%AE-%E7%B6%B2%E6%B0%91-%E8%BE%9B%E8%8B%A6%E6%99%92",
-    "timestamp": "2026-07-20T17:51:07.106Z",
     "strategy": ".content-card__main"
   }
 ];
