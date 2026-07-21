@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-21T09:07:21.953Z
+// Last updated: 2026-07-21T11:02:39.232Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "廣西洪災│29歲男放棄旅行去救災　徒步6小時運物資後心臟衰竭離世",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260721/1156301091378302976683412.jpeg/PInHu7CX_6yNWGFOlNNE3Aboil5MYoXjnKJvnZyib50?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60372227/%E5%BB%A3%E8%A5%BF%E6%B4%AA%E7%81%BD-29%E6%AD%B2%E7%94%B7%E6%94%BE%E6%A3%84%E6%97%85%E8%A1%8C%E5%8E%BB%E6%95%91%E7%81%BD-%E5%BE%92%E6%AD%A56%E5%B0%8F%E6%99%82%E9%81%8B%E7%89%A9%E8%B3%87%E5%BE%8C%E5%BF%83%E8%87%9F%E8%A1%B0%E7%AB%AD%E9%9B%A2%E4%B8%96",
+    "timestamp": "2026-07-21T11:02:39.232Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "G-Dragon化身白馬王子佩戴Buccellati珠寶 華麗亮相UNESCO開幕禮",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260721/1156042990242762752749203.png/eIkCzrByzB8t1qPrhYuxtsJGiVHrN0Qa03hasNN4WrA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60371935/%E7%AD%B2%E7%AE%95%E7%81%A3%E5%81%9C%E6%B0%B4-%E6%9C%89%E7%89%87-%E5%B7%A5%E7%A8%8B%E4%BA%BA%E5%93%A1%E8%82%89%E8%BA%AB%E5%86%92-%E6%B4%AA%E6%B5%81-%E7%B6%AD%E4%BF%AE-%E7%B6%B2%E6%B0%91-%E8%BE%9B%E8%8B%A6%E6%99%92",
     "timestamp": "2026-07-20T17:51:07.106Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "何猷君奚夢瑤現身世界盃決賽現場甜蜜曬愛　零保鏢跟身勁曬超靚位",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260720/1155975594807136256340271.jpeg/PTfqYLOd5qPVQ3pKbB2F04z5cY52Y090ljYhsJY2IbA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60371809/%E4%BD%95%E7%8C%B7%E5%90%9B%E5%A5%9A%E5%A4%A2%E7%91%A4%E7%8F%BE%E8%BA%AB%E4%B8%96%E7%95%8C%E7%9B%83%E6%B1%BA%E8%B3%BD%E7%8F%BE%E5%A0%B4%E7%94%9C%E8%9C%9C%E6%9B%AC%E6%84%9B-%E9%9B%B6%E4%BF%9D%E9%8F%A2%E8%B7%9F%E8%BA%AB%E5%8B%81%E6%9B%AC%E8%B6%85%E9%9D%9A%E4%BD%8D",
-    "timestamp": "2026-07-20T16:10:21.215Z",
     "strategy": ".content-card__main"
   }
 ];
