@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-21T00:48:53.747Z
+// Last updated: 2026-07-21T01:23:21.927Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "深井屯門公路城巴撞欄　多人受傷　出九龍交通受阻",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260721/1156165424736374784931482.jpeg/DM8TttEtUtJMXW-5sStZnwaVEqgRiK5kiq36Doqt-g4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60371964/%E6%B7%B1%E4%BA%95%E5%B1%AF%E9%96%80%E5%85%AC%E8%B7%AF%E5%9F%8E%E5%B7%B4%E6%92%9E%E6%AC%84-%E5%A4%9A%E4%BA%BA%E5%8F%97%E5%82%B7-%E5%87%BA%E4%B9%9D%E9%BE%8D%E4%BA%A4%E9%80%9A%E5%8F%97%E9%98%BB",
+    "timestamp": "2026-07-21T01:23:21.927Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "珍惜生命｜荃灣川龍圳下村27歲男房中燒炭　父親發現　惜已告不治",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260720/1155874946350583808984370.png/TCH99LaXad8JVeBhojl3pxk5LW_kH2TlqugyD6roMg8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60371670/%E7%8E%A9%E5%85%B7%E8%BF%B7%E5%B0%8F%E5%BF%83-%E7%B6%B2%E6%B0%91%E5%85%A8%E5%B1%8B%E5%85%AC%E4%BB%94figure%E6%83%B9%E5%87%BA%E7%A6%8D-%E7%96%91%E7%94%B2%E9%86%9B%E8%B6%85%E6%A8%99%E5%B0%8E%E8%87%B4%E9%A0%AD%E6%9A%88%E9%80%81%E9%86%AB",
     "timestamp": "2026-07-20T09:42:50.603Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "謝賢逝世享年89歲　曾被捕獲坐輪椅撐拐杖多次傳中風",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260720/1155903710430236672803214.jpeg/V_3sNyGNx4z-OTmhew4VRrzTGgKsByLxeQl6VnkJelY",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60371780/%E8%AC%9D%E8%B3%A2%E9%80%9D%E4%B8%96%E4%BA%AB%E5%B9%B489%E6%AD%B2-%E6%9B%BE%E8%A2%AB%E6%8D%95%E7%8D%B2%E5%9D%90%E8%BC%AA%E6%A4%85%E6%92%90%E6%8B%90%E6%9D%96%E5%A4%9A%E6%AC%A1%E5%82%B3%E4%B8%AD%E9%A2%A8",
-    "timestamp": "2026-07-20T08:24:15.330Z",
     "strategy": ".content-card__main"
   }
 ];
