@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-21T15:22:35.619Z
+// Last updated: 2026-07-21T16:07:37.440Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "袁文傑簽書會反應熱烈卻竟被老婆騎劫　網民驚嘆49歲張潔蓮冇老過",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260721/1156288829829681152759182.jpeg/UbGxq5zWEU4v94IiUJrBcMDu-SZJadfqrZWPJ62Vjyc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60372220/%E8%A2%81%E6%96%87%E5%82%91%E7%B0%BD%E6%9B%B8%E6%9C%83%E5%8F%8D%E6%87%89%E7%86%B1%E7%83%88%E5%8D%BB%E7%AB%9F%E8%A2%AB%E8%80%81%E5%A9%86%E9%A8%8E%E5%8A%AB-%E7%B6%B2%E6%B0%91%E9%A9%9A%E5%98%8649%E6%AD%B2%E5%BC%B5%E6%BD%94%E8%93%AE%E5%86%87%E8%80%81%E9%81%8E",
+    "timestamp": "2026-07-21T16:07:37.440Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "環球小姐｜15強有今屆港姐轉戰環姐　韓其格及陳雨薇走向國際舞台",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260709/1151931678365585408381760.jpeg/lq6mLKHjrmNuJLkQC3OptPudtU5tQjtwtygburcoG7o?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60371946/%E4%BC%8A%E6%9C%97%E6%9C%AC%E6%9C%88%E7%A9%BA%E8%A5%B2%E8%87%B4%E7%BE%8E%E8%BB%8D%E8%BF%91%E7%99%BE%E4%BA%BA%E5%82%B7-%E7%89%B9%E6%9C%97%E6%99%AE%E6%9A%97%E7%A4%BA%E5%B0%87%E5%BC%B7%E7%A1%AC%E5%A0%B1%E5%BE%A9",
     "timestamp": "2026-07-20T21:57:48.670Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "伊朗稱打擊美軍駐林和科威特設施　美軍連續第10晚發動空襲",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20230918/780555067106267136648931.jpeg/rFRgI---1LBcIpZUWshNyYgGdbkLUYhJ8eBZX_HgWV8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60371934/%E4%BC%8A%E6%9C%97%E7%A8%B1%E6%89%93%E6%93%8A%E7%BE%8E%E8%BB%8D%E9%A7%90%E6%9E%97%E5%92%8C%E7%A7%91%E5%A8%81%E7%89%B9%E8%A8%AD%E6%96%BD-%E7%BE%8E%E8%BB%8D%E9%80%A3%E7%BA%8C%E7%AC%AC10%E6%99%9A%E7%99%BC%E5%8B%95%E7%A9%BA%E8%A5%B2",
-    "timestamp": "2026-07-20T21:20:08.988Z",
     "strategy": ".content-card__main"
   }
 ];
