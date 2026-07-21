@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-21T16:50:46.548Z
+// Last updated: 2026-07-21T17:38:57.620Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "特朗普預告將襲伊朗核設施：很快會猛烈打擊「十字鎬山」",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260722/1156406277413277696351946.jpeg/YzcD9hQ-4zZjeAnXXv5Wgr0KeaBbT9yGsOU8qLDlPKg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60372326/%E7%89%B9%E6%9C%97%E6%99%AE%E9%A0%90%E5%91%8A%E5%B0%87%E8%A5%B2%E4%BC%8A%E6%9C%97%E6%A0%B8%E8%A8%AD%E6%96%BD-%E5%BE%88%E5%BF%AB%E6%9C%83%E7%8C%9B%E7%83%88%E6%89%93%E6%93%8A-%E5%8D%81%E5%AD%97%E9%8E%AC%E5%B1%B1",
+    "timestamp": "2026-07-21T17:38:57.620Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "大灣區航空聯乘經典港漫推廣品牌　委任老夫子、大番薯為宣傳大使",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260721/1156126713785094144712458.jpeg/RhhWmpCpUhddWQdSMoRq7OI76HCvTlj9jaI_242iP9s?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60371950/%E7%BF%A0%E5%B1%8F%E5%8C%97%E9%82%A8%E5%96%AE%E4%BD%8D%E7%96%91%E7%9F%AD%E8%B7%AF%E8%B5%B7%E7%81%AB-%E6%B6%88%E9%98%B2%E5%88%B0%E5%A0%B4%E6%95%91%E7%86%84-%E5%A5%B3%E4%BD%8F%E6%88%B6%E6%89%8B%E7%87%92%E5%82%B7%E9%80%81%E9%99%A2",
     "timestamp": "2026-07-20T22:54:13.259Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "天氣｜今日有幾陣驟雨最高31度　日間部份地區雨勢較大有狂風雷暴",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260721/1156117459464491008068574.jpeg/8gMp6hQ2yEQyDbYCAr3osfFhqwm_ZYGsTGpm-kxqZvo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60371936/%E5%A4%A9%E6%B0%A3-%E4%BB%8A%E6%97%A5%E6%9C%89%E5%B9%BE%E9%99%A3%E9%A9%9F%E9%9B%A8%E6%9C%80%E9%AB%9831%E5%BA%A6-%E6%97%A5%E9%96%93%E9%83%A8%E4%BB%BD%E5%9C%B0%E5%8D%80%E9%9B%A8%E5%8B%A2%E8%BC%83%E5%A4%A7%E6%9C%89%E7%8B%82%E9%A2%A8%E9%9B%B7%E6%9A%B4",
-    "timestamp": "2026-07-20T22:28:40.413Z",
     "strategy": ".content-card__main"
   }
 ];
