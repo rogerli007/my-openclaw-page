@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-21T12:53:36.576Z
+// Last updated: 2026-07-21T13:40:28.331Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "生病寧用年假不請病假　 打工仔苦笑揭殘酷現實　網狠批：好浪費",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260721/1156284386082033664765214.png/CNzOraB7BrQNclXmrMl6bQDDYKHChlWvkovv9ZKL7_U?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60372223/%E7%94%9F%E7%97%85%E5%AF%A7%E7%94%A8%E5%B9%B4%E5%81%87%E4%B8%8D%E8%AB%8B%E7%97%85%E5%81%87-%E6%89%93%E5%B7%A5%E4%BB%94%E8%8B%A6%E7%AC%91%E6%8F%AD%E6%AE%98%E9%85%B7%E7%8F%BE%E5%AF%A6-%E7%B6%B2%E7%8B%A0%E6%89%B9-%E5%A5%BD%E6%B5%AA%E8%B2%BB",
+    "timestamp": "2026-07-21T13:40:28.331Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "娃哈哈爭產案　長女宗馥莉再提新理據求准上訴　再被駁回兼付訟費",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260720/1155796927988633600754832.jpeg/GD9QmrvBLJECKzWD4uJfn8SRdxA7s4II8Otr0PDra9A?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60371945/%E7%8F%8D%E6%83%9C%E7%94%9F%E5%91%BD-%E5%A4%A7%E5%B6%BC%E5%B1%B115%E6%AD%B2%E7%94%B7%E7%AB%A5%E5%A2%AE%E6%A8%93-%E7%95%B6%E5%A0%B4%E8%AD%89%E4%B8%8D%E6%B2%BB",
     "timestamp": "2026-07-20T20:09:18.247Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "謝賢離世｜傳謝振軒與謝振南可分90%遺產　謝霆鋒及謝婷婷僅得10%",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260721/1156042500608102400520798.jpeg/nj6EzPOFlD7AwH9Ru_WiMWKrqNHG66ZH0VWoUdFVqFE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60371938/%E8%AC%9D%E8%B3%A2%E9%9B%A2%E4%B8%96-%E5%82%B3%E8%AC%9D%E6%8C%AF%E8%BB%92%E8%88%87%E8%AC%9D%E6%8C%AF%E5%8D%97%E5%8F%AF%E5%88%8690-%E9%81%BA%E7%94%A2-%E8%AC%9D%E9%9C%86%E9%8B%92%E5%8F%8A%E8%AC%9D%E5%A9%B7%E5%A9%B7%E5%83%85%E5%BE%9710",
-    "timestamp": "2026-07-20T19:21:52.818Z",
     "strategy": ".content-card__main"
   }
 ];
