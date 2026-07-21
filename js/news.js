@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-20T23:54:50.696Z
+// Last updated: 2026-07-21T00:48:53.747Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "珍惜生命｜荃灣川龍圳下村27歲男房中燒炭　父親發現　惜已告不治",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260721/1156155804013826048681497.jpeg/Tsjd-sGcJTN0Fg9mq9EkPjO68z71RMm5vp1l976dZfc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60371960/%E7%8F%8D%E6%83%9C%E7%94%9F%E5%91%BD-%E8%8D%83%E7%81%A3%E5%B7%9D%E9%BE%8D%E5%9C%B3%E4%B8%8B%E6%9D%9127%E6%AD%B2%E7%94%B7%E6%88%BF%E4%B8%AD%E7%87%92%E7%82%AD-%E7%88%B6%E8%A6%AA%E7%99%BC%E7%8F%BE-%E6%83%9C%E5%B7%B2%E5%91%8A%E4%B8%8D%E6%B2%BB",
+    "timestamp": "2026-07-21T00:48:53.747Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美聯邦法官發臨時令　叫停派拉蒙收購華納兄弟",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260720/1155903710430236672803214.jpeg/V_3sNyGNx4z-OTmhew4VRrzTGgKsByLxeQl6VnkJelY",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60371780/%E8%AC%9D%E8%B3%A2%E9%80%9D%E4%B8%96%E4%BA%AB%E5%B9%B489%E6%AD%B2-%E6%9B%BE%E8%A2%AB%E6%8D%95%E7%8D%B2%E5%9D%90%E8%BC%AA%E6%A4%85%E6%92%90%E6%8B%90%E6%9D%96%E5%A4%9A%E6%AC%A1%E5%82%B3%E4%B8%AD%E9%A2%A8",
     "timestamp": "2026-07-20T08:24:15.330Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "世界盃｜安素費南迪斯領紅累阿根廷落敗　英媒指報應　網民：活該",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260720/1155872992362762240572168.jpeg/xNVWokQQGwqHhPKrfApvbgTy38mUtBKsf5bQUn-W0FI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60371692/%E4%B8%96%E7%95%8C%E7%9B%83-%E5%AE%89%E7%B4%A0%E8%B2%BB%E5%8D%97%E8%BF%AA%E6%96%AF%E9%A0%98%E7%B4%85%E7%B4%AF%E9%98%BF%E6%A0%B9%E5%BB%B7%E8%90%BD%E6%95%97-%E8%8B%B1%E5%AA%92%E6%8C%87%E5%A0%B1%E6%87%89-%E7%B6%B2%E6%B0%91-%E6%B4%BB%E8%A9%B2",
-    "timestamp": "2026-07-20T05:58:17.962Z",
     "strategy": ".content-card__main"
   }
 ];
