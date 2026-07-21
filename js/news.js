@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-21T04:56:12.540Z
+// Last updated: 2026-07-21T06:06:58.927Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "春日之地劇情｜最新追劇日曆/更新時間+演員角色簡介",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260721/1156177908121735168270541.jpeg/ypQBZN7DfMq7yDAQWrWao0gts5CUjmofP705Gj-9ORo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60371981/%E6%98%A5%E6%97%A5%E4%B9%8B%E5%9C%B0%E5%8A%87%E6%83%85-%E6%9C%80%E6%96%B0%E8%BF%BD%E5%8A%87%E6%97%A5%E6%9B%86-%E6%9B%B4%E6%96%B0%E6%99%82%E9%96%93-%E6%BC%94%E5%93%A1%E8%A7%92%E8%89%B2%E7%B0%A1%E4%BB%8B",
+    "timestamp": "2026-07-21T06:06:58.927Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "打風｜轉為東登？　天文台改料周日吹西至西南風　周末有狂風雷暴",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260720/1155890297146707968962403.png/6zTmZ0oXANTlK9G0yadNsYTrwE8-PTVAmaXm8Zml5vE?v=w1920r16_9",
     "url": "https://www.hk01.com/Jumper/60371707/nba-%E9%B7%B9%E9%9A%8A%E5%A4%B1%E5%8E%BB%E8%80%90%E5%BF%83%E4%BA%A4%E6%98%93%E9%87%8C%E8%96%A9%E8%AC%9D%E8%87%B3%E7%8D%A8%E8%A1%8C%E4%BF%A0-%E9%81%94%E6%8B%89%E6%96%AF%E8%BF%8E%E4%BE%86%E9%9B%99%E7%8B%80%E5%85%83%E7%B5%84%E5%90%88",
     "timestamp": "2026-07-20T13:30:02.317Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "謝賢離世｜汪明荃聞死訊表不捨　讚好人：佢一生貢獻畀電影電視",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260720/1155967390157115392320975.jpeg/Y_js-ThE2wvvUWJ8oJGqXA6VfbvLcePGQrj_okK4_6I?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60371892/%E8%AC%9D%E8%B3%A2%E9%9B%A2%E4%B8%96-%E6%B1%AA%E6%98%8E%E8%8D%83%E8%81%9E%E6%AD%BB%E8%A8%8A%E8%A1%A8%E4%B8%8D%E6%8D%A8-%E8%AE%9A%E5%A5%BD%E4%BA%BA-%E4%BD%A2%E4%B8%80%E7%94%9F%E8%B2%A2%E7%8D%BB%E7%95%80%E9%9B%BB%E5%BD%B1%E9%9B%BB%E8%A6%96",
-    "timestamp": "2026-07-20T12:35:30.575Z",
     "strategy": ".content-card__main"
   }
 ];
