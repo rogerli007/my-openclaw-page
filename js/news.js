@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-21T18:16:52.831Z
+// Last updated: 2026-07-21T19:38:21.320Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "王毅晤東盟秘書長談南海問題　稱菲律賓軍警部份勢力蓄意挑釁",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260722/1156437522620878848573296.jpeg/drKQMNPO1LLgQRqKWiXMz46DeOOGyr3dvdiPQr3Yj0I?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60372338/%E7%8E%8B%E6%AF%85%E6%99%A4%E6%9D%B1%E7%9B%9F%E7%A7%98%E6%9B%B8%E9%95%B7%E8%AB%87%E5%8D%97%E6%B5%B7%E5%95%8F%E9%A1%8C-%E7%A8%B1%E8%8F%B2%E5%BE%8B%E8%B3%93%E8%BB%8D%E8%AD%A6%E9%83%A8%E4%BB%BD%E5%8B%A2%E5%8A%9B%E8%93%84%E6%84%8F%E6%8C%91%E9%87%81",
+    "timestamp": "2026-07-21T19:38:21.320Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "落馬洲支線管制站　海關檢250隻非法進口活雀拘2女　估計市值$5萬",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20251209/1075081596173946880719548.jpeg/y1e8BSPsdiQh4peKQoMUF-4qAl_HFom2wAf8s8AH_LM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60371949/%E7%BE%8E%E8%81%AF%E9%82%A6%E6%B3%95%E5%AE%98%E7%99%BC%E8%87%A8%E6%99%82%E4%BB%A4-%E5%8F%AB%E5%81%9C%E6%B4%BE%E6%8B%89%E8%92%99%E6%94%B6%E8%B3%BC%E8%8F%AF%E7%B4%8D%E5%85%84%E5%BC%9F",
     "timestamp": "2026-07-20T23:54:50.696Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "俄稱烏軍無人機襲莫斯科州釀10傷　華使館：包括3名中國公民",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260721/1156072938210856960758406.jpeg/_od0jLhYQthDk1KLS2T8vqWAJ1UEV4eVVObJ-1Tmyfs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60371944/%E4%BF%84%E7%A8%B1%E7%83%8F%E8%BB%8D%E7%84%A1%E4%BA%BA%E6%A9%9F%E8%A5%B2%E8%8E%AB%E6%96%AF%E7%A7%91%E5%B7%9E%E9%87%8010%E5%82%B7-%E8%8F%AF%E4%BD%BF%E9%A4%A8-%E5%8C%85%E6%8B%AC3%E5%90%8D%E4%B8%AD%E5%9C%8B%E5%85%AC%E6%B0%91",
-    "timestamp": "2026-07-20T23:29:40.133Z",
     "strategy": ".content-card__main"
   }
 ];
