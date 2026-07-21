@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-21T02:23:58.487Z
+// Last updated: 2026-07-21T03:46:40.689Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "歐盟重罰阿里巴巴5.5億歐元　為DSA立法以來破紀錄罰單",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260721/1156197084970356736984072.jpeg/3eRgjs7jAMkupGURn0Hhi07zrjcP_GS3ufpzPLn6czw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60372032/%E6%AD%90%E7%9B%9F%E9%87%8D%E7%BD%B0%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B45-5%E5%84%84%E6%AD%90%E5%85%83-%E7%82%BAdsa%E7%AB%8B%E6%B3%95%E4%BB%A5%E4%BE%86%E7%A0%B4%E7%B4%80%E9%8C%84%E7%BD%B0%E5%96%AE",
+    "timestamp": "2026-07-21T03:46:40.689Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "內地餐飲來港撐市！6月商舖租務成交按月彈升近16%　創近兩年新高",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260617/1143952702498148352946123.jpeg/TrHyaVhb1SADvEyu4ViwFUBsfUWgLTZtVW5WblVuVm4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A9%BF%E6%90%AD%E7%AD%86%E8%A8%98/60361278/bra%E5%A4%9A%E4%B9%85%E6%8F%9B%E4%B8%80%E6%AC%A1%E6%89%8D%E5%81%A5%E5%BA%B7-%E7%9B%A4%E9%BB%9E7%E5%A4%A7%E5%85%A7%E8%A1%A3%E8%80%81%E5%8C%96%E5%BE%B5%E5%85%86-%E9%81%BF%E5%85%8D%E8%83%B8%E9%83%A8%E4%B8%8B%E5%9E%82%E8%AE%8A%E5%BD%A2",
     "timestamp": "2026-07-20T11:48:29.592Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "「健康快車」推免費白內障跨境手術　助200基層患者北上治療一眼",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260720/1155936180898893824904781.jpeg/75Jx5elEN51QWymG1mOAXEXXhkC-rSlhDnoVoCt6FaA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60371853/%E5%81%A5%E5%BA%B7%E5%BF%AB%E8%BB%8A-%E6%8E%A8%E5%85%8D%E8%B2%BB%E7%99%BD%E5%85%A7%E9%9A%9C%E8%B7%A8%E5%A2%83%E6%89%8B%E8%A1%93-%E5%8A%A9200%E5%9F%BA%E5%B1%A4%E6%82%A3%E8%80%85%E5%8C%97%E4%B8%8A%E6%B2%BB%E7%99%82%E4%B8%80%E7%9C%BC",
-    "timestamp": "2026-07-20T10:49:18.466Z",
     "strategy": ".content-card__main"
   }
 ];
