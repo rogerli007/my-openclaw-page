@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-21T23:27:29.338Z
+// Last updated: 2026-07-21T23:54:21.025Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "財經視野｜走進全球股市風暴點　韓股去槓桿已基本完成",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260720/1156022067376689152478512.jpeg/YQQtWf0s-IZd_3bvE56gWv3sPsI4ROMp_dyyrP3csqw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60372348/%E8%B2%A1%E7%B6%93%E8%A6%96%E9%87%8E-%E8%B5%B0%E9%80%B2%E5%85%A8%E7%90%83%E8%82%A1%E5%B8%82%E9%A2%A8%E6%9A%B4%E9%BB%9E-%E9%9F%93%E8%82%A1%E5%8E%BB%E6%A7%93%E6%A1%BF%E5%B7%B2%E5%9F%BA%E6%9C%AC%E5%AE%8C%E6%88%90",
+    "timestamp": "2026-07-21T23:54:21.025Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "峇里島恐怖情殺　新加坡男勒斃印尼女友　數十公仔藏屍伴新歡過夜",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260721/1156206431314120704370298.jpeg/-xLKYwxnrUzwThncBpnItbcI9GutQQGNn0XvQp9F70I?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60372046/%E6%89%93%E9%A2%A8-%E8%BD%89%E7%82%BA%E6%9D%B1%E7%99%BB-%E5%A4%A9%E6%96%87%E5%8F%B0%E6%94%B9%E6%96%99%E5%91%A8%E6%97%A5%E5%90%B9%E8%A5%BF%E8%87%B3%E8%A5%BF%E5%8D%97%E9%A2%A8-%E5%91%A8%E6%9C%AB%E6%9C%89%E7%8B%82%E9%A2%A8%E9%9B%B7%E6%9A%B4",
     "timestamp": "2026-07-21T04:56:12.540Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "歐盟重罰阿里巴巴5.5億歐元　為DSA立法以來破紀錄罰單",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260721/1156197084970356736984072.jpeg/3eRgjs7jAMkupGURn0Hhi07zrjcP_GS3ufpzPLn6czw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60372032/%E6%AD%90%E7%9B%9F%E9%87%8D%E7%BD%B0%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B45-5%E5%84%84%E6%AD%90%E5%85%83-%E7%82%BAdsa%E7%AB%8B%E6%B3%95%E4%BB%A5%E4%BE%86%E7%A0%B4%E7%B4%80%E9%8C%84%E7%BD%B0%E5%96%AE",
-    "timestamp": "2026-07-21T03:46:40.689Z",
     "strategy": ".content-card__main"
   }
 ];
