@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-22T18:14:27.057Z
+// Last updated: 2026-07-22T18:45:16.760Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "羅浮宮阿波羅長廊重新開放　不再展出珠寶",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260723/1156781891496448000143750.jpeg/YqU_9ea3mMZbvBwXuSxOeify9wvcw7OQea3p-3mt6fs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60372719/%E7%BE%85%E6%B5%AE%E5%AE%AE%E9%98%BF%E6%B3%A2%E7%BE%85%E9%95%B7%E5%BB%8A%E9%87%8D%E6%96%B0%E9%96%8B%E6%94%BE-%E4%B8%8D%E5%86%8D%E5%B1%95%E5%87%BA%E7%8F%A0%E5%AF%B6",
+    "timestamp": "2026-07-22T18:45:16.760Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "喬治王子13歲生日　慶生照彰成熟一面　9月升中讀父親母校｜有片",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260720/1156022067376689152478512.jpeg/YQQtWf0s-IZd_3bvE56gWv3sPsI4ROMp_dyyrP3csqw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60372348/%E8%B2%A1%E7%B6%93%E8%A6%96%E9%87%8E-%E8%B5%B0%E9%80%B2%E5%85%A8%E7%90%83%E8%82%A1%E5%B8%82%E9%A2%A8%E6%9A%B4%E9%BB%9E-%E9%9F%93%E8%82%A1%E5%8E%BB%E6%A7%93%E6%A1%BF%E5%B7%B2%E5%9F%BA%E6%9C%AC%E5%AE%8C%E6%88%90",
     "timestamp": "2026-07-21T23:54:21.025Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "峇里島恐怖情殺　新加坡男勒斃印尼女友　數十公仔藏屍伴新歡過夜",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260721/1156314750158639104853726.png/rc7lN1RbhjhaCzx7CO6LeNZj1CbbsNCuH7fkwR-35ME?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E8%A9%B1%E9%A1%8C/60371992/%E5%B3%87%E9%87%8C%E5%B3%B6%E6%81%90%E6%80%96%E6%83%85%E6%AE%BA-%E6%96%B0%E5%8A%A0%E5%9D%A1%E7%94%B7%E5%8B%92%E6%96%83%E5%8D%B0%E5%B0%BC%E5%A5%B3%E5%8F%8B-%E6%95%B8%E5%8D%81%E5%85%AC%E4%BB%94%E8%97%8F%E5%B1%8D%E4%BC%B4%E6%96%B0%E6%AD%A1%E9%81%8E%E5%A4%9C",
-    "timestamp": "2026-07-21T23:27:29.338Z",
     "strategy": ".content-card__main"
   }
 ];
