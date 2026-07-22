@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-22T23:29:09.392Z
+// Last updated: 2026-07-22T23:56:25.768Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "打風｜天文台路徑圖：熱帶低氣壓將成颱風　周日凌晨登陸汕頭一帶",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260723/1156867366626267136635872.jpeg/NPQ29enHqB0SDO90ZdDgPqbqw01W-_dHk4TVHpOE1R4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60372732/%E6%89%93%E9%A2%A8-%E5%A4%A9%E6%96%87%E5%8F%B0%E8%B7%AF%E5%BE%91%E5%9C%96-%E7%86%B1%E5%B8%B6%E4%BD%8E%E6%B0%A3%E5%A3%93%E5%B0%87%E6%88%90%E9%A2%B1%E9%A2%A8-%E5%91%A8%E6%97%A5%E5%87%8C%E6%99%A8%E7%99%BB%E9%99%B8%E6%B1%95%E9%A0%AD%E4%B8%80%E5%B8%B6",
+    "timestamp": "2026-07-22T23:56:25.768Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "IKEA不雅片瘋傳│男女躺床上激戰　1舉動更衰震撼全網：不害臊嗎？",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260721/1156220474024267776415829.jpeg/d_nFVWYtrJUsTLrgLNToFxIDTuLhBHzAWQ57qFkOe6g?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60371975/%E9%BA%A5%E7%95%B6%E5%8B%9E%E9%A3%9F%E5%AE%A2%E6%B5%81%E6%84%9F%E5%BF%AB%E6%B8%AC%E5%91%88%E9%99%BD%E6%80%A7-%E6%AA%A2%E6%B8%AC%E6%A3%92%E9%9A%A8%E6%89%8B%E6%A3%84%E7%BD%AE%E9%A4%90%E7%9B%A4-%E9%81%AD%E6%96%A5%E6%92%AD%E6%AF%92-%E8%87%AA%E7%A7%81",
     "timestamp": "2026-07-22T10:10:07.904Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美國對伊戰爭燒掉逾2900億元　防長促追加撥款　議員怒批領導失敗",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260722/1156618998113112064532980.jpeg/eifAb2aZitvhXINOFrJt7037gn-ZDC4hfXZ7xH12e8Q?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60372559/%E7%BE%8E%E5%9C%8B%E5%B0%8D%E4%BC%8A%E6%88%B0%E7%88%AD%E7%87%92%E6%8E%89%E9%80%BE2900%E5%84%84%E5%85%83-%E9%98%B2%E9%95%B7%E4%BF%83%E8%BF%BD%E5%8A%A0%E6%92%A5%E6%AC%BE-%E8%AD%B0%E5%93%A1%E6%80%92%E6%89%B9%E9%A0%98%E5%B0%8E%E5%A4%B1%E6%95%97",
-    "timestamp": "2026-07-22T08:04:39.900Z",
     "strategy": ".content-card__main"
   }
 ];
