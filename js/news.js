@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-22T03:47:06.260Z
+// Last updated: 2026-07-22T04:56:19.382Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "英女誣告被強姦勒索銀行家逾100萬　官斥邪惡殘酷　判囚6年",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260722/1156573205331447808583120.jpeg/wnQKLklWt6a0jegtaYnzhtQ-F_ewCpcWSbklnEm5JZw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60372465/%E8%8B%B1%E5%A5%B3%E8%AA%A3%E5%91%8A%E8%A2%AB%E5%BC%B7%E5%A7%A6%E5%8B%92%E7%B4%A2%E9%8A%80%E8%A1%8C%E5%AE%B6%E9%80%BE100%E8%90%AC-%E5%AE%98%E6%96%A5%E9%82%AA%E6%83%A1%E6%AE%98%E9%85%B7-%E5%88%A4%E5%9B%9A6%E5%B9%B4",
+    "timestamp": "2026-07-22T04:56:19.382Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "金鐘遠東金融中心高層1.08億沽　半年短炒貴兩成　內地客帳賺兩成",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260721/1156277786604736512510367.jpeg/hQosPo7ain-raUlR3WagNoU0BivHJCAxcOFB4XDhQeE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60372193/%E9%9D%9E%E4%BB%BD%E4%B9%8B%E7%BD%AA-%E7%BE%85%E5%86%A0%E8%98%AD%E8%BA%AB%E4%BB%BD%E7%96%91%E4%BF%82big-boss-%E5%90%B3%E5%81%89%E8%B1%AA%E6%BC%94%E6%B8%A3%E7%94%B7%E7%B6%B2%E6%B0%91%E8%AE%9A%E7%88%86%E6%BC%94%E6%8A%80",
     "timestamp": "2026-07-21T12:21:28.755Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "廣西洪災│29歲男放棄旅行去救災　徒步6小時運物資後心臟衰竭離世",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260721/1156301091378302976683412.jpeg/PInHu7CX_6yNWGFOlNNE3Aboil5MYoXjnKJvnZyib50?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60372227/%E5%BB%A3%E8%A5%BF%E6%B4%AA%E7%81%BD-29%E6%AD%B2%E7%94%B7%E6%94%BE%E6%A3%84%E6%97%85%E8%A1%8C%E5%8E%BB%E6%95%91%E7%81%BD-%E5%BE%92%E6%AD%A56%E5%B0%8F%E6%99%82%E9%81%8B%E7%89%A9%E8%B3%87%E5%BE%8C%E5%BF%83%E8%87%9F%E8%A1%B0%E7%AB%AD%E9%9B%A2%E4%B8%96",
-    "timestamp": "2026-07-21T11:02:39.232Z",
     "strategy": ".content-card__main"
   }
 ];
