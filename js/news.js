@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-22T22:30:10.078Z
+// Last updated: 2026-07-22T23:29:09.392Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "IKEA不雅片瘋傳│男女躺床上激戰　1舉動更衰震撼全網：不害臊嗎？",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260722/1156630860712120320927053.jpeg/end8DSIsfL34lhj2ZEW_b9XC3YaYvr6dAA3IfwANyH8",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60371781/ikea%E4%B8%8D%E9%9B%85%E7%89%87%E7%98%8B%E5%82%B3-%E7%94%B7%E5%A5%B3%E8%BA%BA%E5%BA%8A%E4%B8%8A%E6%BF%80%E6%88%B0-1%E8%88%89%E5%8B%95%E6%9B%B4%E8%A1%B0%E9%9C%87%E6%92%BC%E5%85%A8%E7%B6%B2-%E4%B8%8D%E5%AE%B3%E8%87%8A%E5%97%8E",
+    "timestamp": "2026-07-22T23:29:09.392Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "性格視帝拖嫩妻放閃爆肌回春獲讚　曾遭老婆爆「第一次」表現冷淡",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260722/1156618998113112064532980.jpeg/eifAb2aZitvhXINOFrJt7037gn-ZDC4hfXZ7xH12e8Q?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60372559/%E7%BE%8E%E5%9C%8B%E5%B0%8D%E4%BC%8A%E6%88%B0%E7%88%AD%E7%87%92%E6%8E%89%E9%80%BE2900%E5%84%84%E5%85%83-%E9%98%B2%E9%95%B7%E4%BF%83%E8%BF%BD%E5%8A%A0%E6%92%A5%E6%AC%BE-%E8%AD%B0%E5%93%A1%E6%80%92%E6%89%B9%E9%A0%98%E5%B0%8E%E5%A4%B1%E6%95%97",
     "timestamp": "2026-07-22T08:04:39.900Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "英女誣告被強姦勒索銀行家逾100萬　官斥邪惡殘酷　判囚6年",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260722/1156573205331447808583120.jpeg/wnQKLklWt6a0jegtaYnzhtQ-F_ewCpcWSbklnEm5JZw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60372465/%E8%8B%B1%E5%A5%B3%E8%AA%A3%E5%91%8A%E8%A2%AB%E5%BC%B7%E5%A7%A6%E5%8B%92%E7%B4%A2%E9%8A%80%E8%A1%8C%E5%AE%B6%E9%80%BE100%E8%90%AC-%E5%AE%98%E6%96%A5%E9%82%AA%E6%83%A1%E6%AE%98%E9%85%B7-%E5%88%A4%E5%9B%9A6%E5%B9%B4",
-    "timestamp": "2026-07-22T04:56:19.382Z",
     "strategy": ".content-card__main"
   }
 ];
