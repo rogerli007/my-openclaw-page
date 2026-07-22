@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-22T14:49:07.184Z
+// Last updated: 2026-07-22T15:27:36.269Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "Samsung Z Fold 8系列登場｜屏幕新比例極薄摺機融合頂尖AI效能",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260722/1156657525173522432197358.jpeg/d5cOuOKZP2ZKBPrAMvc1IRMYfNtqwmI8ZyJar2ciWq8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60372044/samsung-z-fold-8%E7%B3%BB%E5%88%97%E7%99%BB%E5%A0%B4-%E5%B1%8F%E5%B9%95%E6%96%B0%E6%AF%94%E4%BE%8B%E6%A5%B5%E8%96%84%E6%91%BA%E6%A9%9F%E8%9E%8D%E5%90%88%E9%A0%82%E5%B0%96ai%E6%95%88%E8%83%BD",
+    "timestamp": "2026-07-22T15:27:36.269Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "珍惜生命｜沙田乙明邨中年男住戶家中上吊　當場死亡",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260722/1156437522620878848573296.jpeg/drKQMNPO1LLgQRqKWiXMz46DeOOGyr3dvdiPQr3Yj0I?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60372338/%E7%8E%8B%E6%AF%85%E6%99%A4%E6%9D%B1%E7%9B%9F%E7%A7%98%E6%9B%B8%E9%95%B7%E8%AB%87%E5%8D%97%E6%B5%B7%E5%95%8F%E9%A1%8C-%E7%A8%B1%E8%8F%B2%E5%BE%8B%E8%B3%93%E8%BB%8D%E8%AD%A6%E9%83%A8%E4%BB%BD%E5%8B%A2%E5%8A%9B%E8%93%84%E6%84%8F%E6%8C%91%E9%87%81",
     "timestamp": "2026-07-21T19:38:21.320Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "落馬洲支線管制站　海關檢250隻非法進口活雀拘2女　估計市值$5萬",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260722/1156418125768429568432087.jpeg/qW1951QHdKfITuRvsB9busZvJUHtf2f1QzfX80M31_M?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60372331/%E8%90%BD%E9%A6%AC%E6%B4%B2%E6%94%AF%E7%B7%9A%E7%AE%A1%E5%88%B6%E7%AB%99-%E6%B5%B7%E9%97%9C%E6%AA%A2250%E9%9A%BB%E9%9D%9E%E6%B3%95%E9%80%B2%E5%8F%A3%E6%B4%BB%E9%9B%80%E6%8B%982%E5%A5%B3-%E4%BC%B0%E8%A8%88%E5%B8%82%E5%80%BC-5%E8%90%AC",
-    "timestamp": "2026-07-21T18:16:52.831Z",
     "strategy": ".content-card__main"
   }
 ];
