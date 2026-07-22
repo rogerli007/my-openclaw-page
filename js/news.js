@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-22T16:52:10.784Z
+// Last updated: 2026-07-22T17:37:03.554Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "劍擊世錦賽｜博茨瓦納重劍第一人　逐奧運夢困難重重仍砥礪前行",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260722/1156722948745203712307465.jpeg/02VhjP_MPd6newMW4SncnrCXQ6yhssKtfjLO4H4yzuA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60372546/%E5%8A%8D%E6%93%8A%E4%B8%96%E9%8C%A6%E8%B3%BD-%E5%8D%9A%E8%8C%A8%E7%93%A6%E7%B4%8D%E9%87%8D%E5%8A%8D%E7%AC%AC%E4%B8%80%E4%BA%BA-%E9%80%90%E5%A5%A7%E9%81%8B%E5%A4%A2%E5%9B%B0%E9%9B%A3%E9%87%8D%E9%87%8D%E4%BB%8D%E7%A0%A5%E7%A4%AA%E5%89%8D%E8%A1%8C",
+    "timestamp": "2026-07-22T17:37:03.554Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "蚊患｜馬鞍山誘蚊指數達22.7%　大埔西4場所被發清除積水通知書",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260721/1156362443924967424759140.jpeg/_bTN7RqFQy5PlXhwHxNSvbmQtqjUaTTbBKmqqgSpqqo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60372180/%E6%9D%8E%E9%80%A3%E6%9D%B0%E8%87%AA%E7%88%868%E6%AD%B2%E9%81%AD%E5%90%8C%E5%AD%B8%E4%BE%AE%E8%BE%B1%E4%BA%A1%E7%88%B6-%E6%8C%81%E7%90%83%E6%8B%8D%E8%A1%9D%E5%85%A5%E6%95%99%E5%93%A1%E5%AE%A4%E6%8C%89%E5%80%92%E7%97%9B%E6%AF%86%E5%A0%B1%E5%BE%A9",
     "timestamp": "2026-07-21T22:26:19.062Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "巴菲特理財理論　槓桿陷阱危機四伏！｜汪敦敬",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260721/1156343538871439360601537.jpeg/6iToFAJI7pI94KGPVTR1ruM7xcOvJScZfmb9c35m_XM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60372257/%E5%B7%B4%E8%8F%B2%E7%89%B9%E7%90%86%E8%B2%A1%E7%90%86%E8%AB%96-%E6%A7%93%E6%A1%BF%E9%99%B7%E9%98%B1%E5%8D%B1%E6%A9%9F%E5%9B%9B%E4%BC%8F-%E6%B1%AA%E6%95%A6%E6%95%AC",
-    "timestamp": "2026-07-21T21:20:46.507Z",
     "strategy": ".content-card__main"
   }
 ];
