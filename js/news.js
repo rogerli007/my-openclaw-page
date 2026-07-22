@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-22T10:10:07.904Z
+// Last updated: 2026-07-22T11:02:02.313Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "ACGHK動漫節2026｜12大必去購物打卡攤位推薦｜門票獨家優惠減$7",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260720/1155904356122365952692307.jpeg/D6Om_358VFOm2VuJGHDmRXLICprbGdaLCFEvGwhRLxs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60371681/acghk%E5%8B%95%E6%BC%AB%E7%AF%802026-12%E5%A4%A7%E5%BF%85%E5%8E%BB%E6%89%93%E5%8D%A1%E8%B3%BC%E7%89%A9%E6%94%A4%E4%BD%8D%E6%8E%A8%E8%96%A6-%E9%96%80%E7%A5%A8%E7%8D%A8%E5%AE%B6%E5%84%AA%E6%83%A0%E6%B8%9B-7",
+    "timestamp": "2026-07-22T11:02:02.313Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "麥當勞食客流感快測呈陽性！檢測棒隨手棄置餐盤　遭斥播毒：自私",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260721/1156265106623959040307462.jpeg/FBFeznGMKCPzuLUM5I9X_YwRISvcwmFfFHyZlhR8mZY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60372147/%E9%84%A7%E5%B0%8F%E5%B7%A7%E6%96%B0%E6%AD%8C-%E7%84%A1%E6%99%82%E7%84%A1%E5%88%BB-%E9%A3%9B%E5%B3%87%E9%87%8C%E8%87%AA%E5%B0%8E%E8%87%AA%E6%BC%94mv-%E5%90%8C%E6%B5%B7%E8%B1%9A%E5%85%B1%E6%B3%B3%E9%A9%9A%E5%96%9C%E5%9C%93%E5%A4%A2",
     "timestamp": "2026-07-21T14:33:51.806Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "生病寧用年假不請病假　 打工仔苦笑揭殘酷現實　網狠批：好浪費",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260721/1156284386082033664765214.png/CNzOraB7BrQNclXmrMl6bQDDYKHChlWvkovv9ZKL7_U?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60372223/%E7%94%9F%E7%97%85%E5%AF%A7%E7%94%A8%E5%B9%B4%E5%81%87%E4%B8%8D%E8%AB%8B%E7%97%85%E5%81%87-%E6%89%93%E5%B7%A5%E4%BB%94%E8%8B%A6%E7%AC%91%E6%8F%AD%E6%AE%98%E9%85%B7%E7%8F%BE%E5%AF%A6-%E7%B6%B2%E7%8B%A0%E6%89%B9-%E5%A5%BD%E6%B5%AA%E8%B2%BB",
-    "timestamp": "2026-07-21T13:40:28.331Z",
     "strategy": ".content-card__main"
   }
 ];
