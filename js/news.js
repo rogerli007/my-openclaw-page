@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-22T21:32:41.059Z
+// Last updated: 2026-07-22T22:30:10.078Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "性格視帝拖嫩妻放閃爆肌回春獲讚　曾遭老婆爆「第一次」表現冷淡",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260722/1156637743711784960184053.jpeg/lY5mqWYcf5ekpXDlBe0mjxPEUE-OuYcjB-SsuAfkrLg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60372472/%E9%84%AD%E5%98%89%E7%A9%8E%E6%8B%96%E9%99%B3%E5%87%B1%E7%90%B3%E6%94%BE%E9%96%83%E7%88%86%E8%82%8C%E5%9B%9E%E6%98%A5%E7%8D%B2%E8%AE%9A-%E6%9B%BE%E9%81%AD%E8%80%81%E5%A9%86%E7%88%86-%E7%AC%AC%E4%B8%80%E6%AC%A1-%E8%A1%A8%E7%8F%BE%E5%86%B7%E6%B7%A1",
+    "timestamp": "2026-07-22T22:30:10.078Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "4名中東殉職美軍遺體移送回國　特朗普到場迎接向靈柩敬禮｜有片",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260722/1156573205331447808583120.jpeg/wnQKLklWt6a0jegtaYnzhtQ-F_ewCpcWSbklnEm5JZw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60372465/%E8%8B%B1%E5%A5%B3%E8%AA%A3%E5%91%8A%E8%A2%AB%E5%BC%B7%E5%A7%A6%E5%8B%92%E7%B4%A2%E9%8A%80%E8%A1%8C%E5%AE%B6%E9%80%BE100%E8%90%AC-%E5%AE%98%E6%96%A5%E9%82%AA%E6%83%A1%E6%AE%98%E9%85%B7-%E5%88%A4%E5%9B%9A6%E5%B9%B4",
     "timestamp": "2026-07-22T04:56:19.382Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "金鐘遠東金融中心高層1.08億沽　半年短炒貴兩成　內地客帳賺兩成",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250523/1002653001531396096645978.jpeg/E89f14qXsDujDV136Tcqu-512-KO5ChlZ4UqxWeFKsU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60372394/%E9%87%91%E9%90%98%E9%81%A0%E6%9D%B1%E9%87%91%E8%9E%8D%E4%B8%AD%E5%BF%83%E9%AB%98%E5%B1%A41-08%E5%84%84%E6%B2%BD-%E5%8D%8A%E5%B9%B4%E7%9F%AD%E7%82%92%E8%B2%B4%E5%85%A9%E6%88%90-%E5%85%A7%E5%9C%B0%E5%AE%A2%E5%B8%B3%E8%B3%BA%E5%85%A9%E6%88%90",
-    "timestamp": "2026-07-22T03:47:06.260Z",
     "strategy": ".content-card__main"
   }
 ];
