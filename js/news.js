@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-22T00:47:21.431Z
+// Last updated: 2026-07-22T01:21:33.760Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "特朗普據報最快本週以強迫勞動為由　對60國家祭301關稅",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260720/1155849365214990336374809.jpeg/BaeXHFwjMnFv2v2xsisZqHJV8MSNEv44_aRow_2kaMM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60372361/%E7%89%B9%E6%9C%97%E6%99%AE%E6%93%9A%E5%A0%B1%E6%9C%80%E5%BF%AB%E6%9C%AC%E9%80%B1%E4%BB%A5%E5%BC%B7%E8%BF%AB%E5%8B%9E%E5%8B%95%E7%82%BA%E7%94%B1-%E5%B0%8D60%E5%9C%8B%E5%AE%B6%E7%A5%AD301%E9%97%9C%E7%A8%85",
+    "timestamp": "2026-07-22T01:21:33.760Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "領展沽悉尼100 Market Street 50%股權　作價約2.26億澳元",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260702/1149366516639076352260947.jpeg/_mVRymuMYY45Aj5WcUWPa8h7nHz4UIXtF-rxkBfq8ZA?v=w1920",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60365960/%E9%87%8E%E7%8B%97%E9%AA%A8%E9%A0%AD%E7%B5%90%E5%B1%80%E5%8A%87%E6%83%85%E7%B7%9A%E4%B8%8A%E7%9C%8B-%E6%9C%80%E6%96%B0%E6%9B%B4%E6%96%B0%E6%99%82%E9%96%93-%E6%BC%94%E5%93%A1%E9%97%9C%E4%BF%82%E5%9C%96-%E7%B0%A1%E4%BB%8B",
     "timestamp": "2026-07-21T07:14:27.030Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "春日之地劇情｜最新追劇日曆/更新時間+演員角色簡介",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260721/1156177908121735168270541.jpeg/ypQBZN7DfMq7yDAQWrWao0gts5CUjmofP705Gj-9ORo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60371981/%E6%98%A5%E6%97%A5%E4%B9%8B%E5%9C%B0%E5%8A%87%E6%83%85-%E6%9C%80%E6%96%B0%E8%BF%BD%E5%8A%87%E6%97%A5%E6%9B%86-%E6%9B%B4%E6%96%B0%E6%99%82%E9%96%93-%E6%BC%94%E5%93%A1%E8%A7%92%E8%89%B2%E7%B0%A1%E4%BB%8B",
-    "timestamp": "2026-07-21T06:06:58.927Z",
     "strategy": ".content-card__main"
   }
 ];
