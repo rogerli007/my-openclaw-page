@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-22T11:45:11.514Z
+// Last updated: 2026-07-22T12:20:22.449Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "非份之罪｜羅冠蘭爆教科書級演技　胡敏芝懸崖邊挑戰極限玩飛索",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260722/1156626590193422336241097.jpeg/MsnyybLh_sJ6sJUDj07DCwgeuxkwPG3CrZRVSq2UVUo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60372563/%E9%9D%9E%E4%BB%BD%E4%B9%8B%E7%BD%AA-%E7%BE%85%E5%86%A0%E8%98%AD%E7%88%86%E6%95%99%E7%A7%91%E6%9B%B8%E7%B4%9A%E6%BC%94%E6%8A%80-%E8%83%A1%E6%95%8F%E8%8A%9D%E6%87%B8%E5%B4%96%E9%82%8A%E6%8C%91%E6%88%B0%E6%A5%B5%E9%99%90%E7%8E%A9%E9%A3%9B%E7%B4%A2",
+    "timestamp": "2026-07-22T12:20:22.449Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "深水埗的士撞女途人被索償　證人同意示威者瘋癲　且暴力襲擊司機",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260721/1156288829829681152759182.jpeg/UbGxq5zWEU4v94IiUJrBcMDu-SZJadfqrZWPJ62Vjyc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60372220/%E8%A2%81%E6%96%87%E5%82%91%E7%B0%BD%E6%9B%B8%E6%9C%83%E5%8F%8D%E6%87%89%E7%86%B1%E7%83%88%E5%8D%BB%E7%AB%9F%E8%A2%AB%E8%80%81%E5%A9%86%E9%A8%8E%E5%8A%AB-%E7%B6%B2%E6%B0%91%E9%A9%9A%E5%98%8649%E6%AD%B2%E5%BC%B5%E6%BD%94%E8%93%AE%E5%86%87%E8%80%81%E9%81%8E",
     "timestamp": "2026-07-21T16:07:37.440Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "環球小姐｜15強有今屆港姐轉戰環姐　韓其格及陳雨薇走向國際舞台",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260721/1156372848550350848605923.jpeg/9tkakAKraTPxcwavjiPuNo5PX8Pp8Fwxc57Bj3OewY8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60372316/%E7%92%B0%E7%90%83%E5%B0%8F%E5%A7%90-15%E5%BC%B7%E6%9C%89%E4%BB%8A%E5%B1%86%E6%B8%AF%E5%A7%90%E8%BD%89%E6%88%B0%E7%92%B0%E5%A7%90-%E9%9F%93%E5%85%B6%E6%A0%BC%E5%8F%8A%E9%99%B3%E9%9B%A8%E8%96%87%E8%B5%B0%E5%90%91%E5%9C%8B%E9%9A%9B%E8%88%9E%E5%8F%B0",
-    "timestamp": "2026-07-21T15:22:35.619Z",
     "strategy": ".content-card__main"
   }
 ];
