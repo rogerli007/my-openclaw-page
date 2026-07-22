@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-22T14:00:20.358Z
+// Last updated: 2026-07-22T14:49:07.184Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "珍惜生命｜沙田乙明邨中年男住戶家中上吊　當場死亡",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250908/1041773068743086080760593.png/j5PCuhPwa0teGpPvbAnLA_wCrXcBUrDWdvfeOHb33jg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60372707/%E7%8F%8D%E6%83%9C%E7%94%9F%E5%91%BD-%E6%B2%99%E7%94%B0%E4%B9%99%E6%98%8E%E9%82%A8%E4%B8%AD%E5%B9%B4%E7%94%B7%E4%BD%8F%E6%88%B6%E5%AE%B6%E4%B8%AD%E4%B8%8A%E5%90%8A-%E7%95%B6%E5%A0%B4%E6%AD%BB%E4%BA%A1",
+    "timestamp": "2026-07-22T14:49:07.184Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "謝展寰訪青海到祁連山・崗什卡雪峰　借鏡生態產業經驗助港轉型",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260722/1156418125768429568432087.jpeg/qW1951QHdKfITuRvsB9busZvJUHtf2f1QzfX80M31_M?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60372331/%E8%90%BD%E9%A6%AC%E6%B4%B2%E6%94%AF%E7%B7%9A%E7%AE%A1%E5%88%B6%E7%AB%99-%E6%B5%B7%E9%97%9C%E6%AA%A2250%E9%9A%BB%E9%9D%9E%E6%B3%95%E9%80%B2%E5%8F%A3%E6%B4%BB%E9%9B%80%E6%8B%982%E5%A5%B3-%E4%BC%B0%E8%A8%88%E5%B8%82%E5%80%BC-5%E8%90%AC",
     "timestamp": "2026-07-21T18:16:52.831Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普預告將襲伊朗核設施：很快會猛烈打擊「十字鎬山」",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260722/1156406277413277696351946.jpeg/YzcD9hQ-4zZjeAnXXv5Wgr0KeaBbT9yGsOU8qLDlPKg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60372326/%E7%89%B9%E6%9C%97%E6%99%AE%E9%A0%90%E5%91%8A%E5%B0%87%E8%A5%B2%E4%BC%8A%E6%9C%97%E6%A0%B8%E8%A8%AD%E6%96%BD-%E5%BE%88%E5%BF%AB%E6%9C%83%E7%8C%9B%E7%83%88%E6%89%93%E6%93%8A-%E5%8D%81%E5%AD%97%E9%8E%AC%E5%B1%B1",
-    "timestamp": "2026-07-21T17:38:57.620Z",
     "strategy": ".content-card__main"
   }
 ];
