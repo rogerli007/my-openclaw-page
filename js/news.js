@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-22T13:07:03.603Z
+// Last updated: 2026-07-22T14:00:20.358Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "謝展寰訪青海到祁連山・崗什卡雪峰　借鏡生態產業經驗助港轉型",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260722/1156698659786592256802943.jpeg/NwSfYs_4QoUGxNbWn8hmMFhfibU0IPEu_cgoKv3IKCo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60372687/%E8%AC%9D%E5%B1%95%E5%AF%B0%E8%A8%AA%E9%9D%92%E6%B5%B7%E5%88%B0%E7%A5%81%E9%80%A3%E5%B1%B1-%E5%B4%97%E4%BB%80%E5%8D%A1%E9%9B%AA%E5%B3%B0-%E5%80%9F%E9%8F%A1%E7%94%9F%E6%85%8B%E7%94%A2%E6%A5%AD%E7%B6%93%E9%A9%97%E5%8A%A9%E6%B8%AF%E8%BD%89%E5%9E%8B",
+    "timestamp": "2026-07-22T14:00:20.358Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "台灣行政院宣布8月舉行首次「斷網演習」　台北台中網絡受限",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260722/1156406277413277696351946.jpeg/YzcD9hQ-4zZjeAnXXv5Wgr0KeaBbT9yGsOU8qLDlPKg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60372326/%E7%89%B9%E6%9C%97%E6%99%AE%E9%A0%90%E5%91%8A%E5%B0%87%E8%A5%B2%E4%BC%8A%E6%9C%97%E6%A0%B8%E8%A8%AD%E6%96%BD-%E5%BE%88%E5%BF%AB%E6%9C%83%E7%8C%9B%E7%83%88%E6%89%93%E6%93%8A-%E5%8D%81%E5%AD%97%E9%8E%AC%E5%B1%B1",
     "timestamp": "2026-07-21T17:38:57.620Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "大灣區航空聯乘經典港漫推廣品牌　委任老夫子、大番薯為宣傳大使",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260722/1156396890275713024216357.jpeg/TNQMqWIFlCqs5FEArxiQujlQiIQmLLX8wk4VqMJOFag?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60372322/%E5%A4%A7%E7%81%A3%E5%8D%80%E8%88%AA%E7%A9%BA%E8%81%AF%E4%B9%98%E7%B6%93%E5%85%B8%E6%B8%AF%E6%BC%AB%E6%8E%A8%E5%BB%A3%E5%93%81%E7%89%8C-%E5%A7%94%E4%BB%BB%E8%80%81%E5%A4%AB%E5%AD%90-%E5%A4%A7%E7%95%AA%E8%96%AF%E7%82%BA%E5%AE%A3%E5%82%B3%E5%A4%A7%E4%BD%BF",
-    "timestamp": "2026-07-21T16:50:46.548Z",
     "strategy": ".content-card__main"
   }
 ];
