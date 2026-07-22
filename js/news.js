@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-22T15:27:36.269Z
+// Last updated: 2026-07-22T16:07:07.527Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "奧德賽｜路蘭追求極致真實感打造10米木馬　5300套戲服全人手製作",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260722/1156656228814819328012573.jpeg/n_TgjVYrYkrVsyiFef4nUpIeVp_CqLmQSGQ7mkhkO5o?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60372521/%E5%A5%A7%E5%BE%B7%E8%B3%BD-%E8%B7%AF%E8%98%AD%E8%BF%BD%E6%B1%82%E6%A5%B5%E8%87%B4%E7%9C%9F%E5%AF%A6%E6%84%9F%E6%89%93%E9%80%A010%E7%B1%B3%E6%9C%A8%E9%A6%AC-5300%E5%A5%97%E6%88%B2%E6%9C%8D%E5%85%A8%E4%BA%BA%E6%89%8B%E8%A3%BD%E4%BD%9C",
+    "timestamp": "2026-07-22T16:07:07.527Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "Samsung Z Fold 8系列登場｜屏幕新比例極薄摺機融合頂尖AI效能",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260722/1156443111489015808728941.jpeg/NS7wpxCF2Us7qDzNrUeMHTanZBQtxVM9HRiXyB0Yl8g?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60372341/%E8%8B%B1%E5%9C%8B%E5%89%8D%E9%96%A3%E5%93%A1%E9%9F%8B%E9%BB%9B%E7%90%B4%E9%81%87%E5%AE%B3%E6%A1%88-%E6%AA%A2%E6%96%B9-%E6%9B%BE%E9%81%AD%E7%96%91%E7%8A%AF%E4%BB%A5%E9%90%B5%E9%8E%9A%E9%80%A3%E7%BA%8C%E9%87%8D%E6%93%8A%E9%A0%AD%E9%83%A821%E4%B8%8B",
     "timestamp": "2026-07-21T20:49:37.961Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "王毅晤東盟秘書長談南海問題　稱菲律賓軍警部份勢力蓄意挑釁",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260722/1156437522620878848573296.jpeg/drKQMNPO1LLgQRqKWiXMz46DeOOGyr3dvdiPQr3Yj0I?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60372338/%E7%8E%8B%E6%AF%85%E6%99%A4%E6%9D%B1%E7%9B%9F%E7%A7%98%E6%9B%B8%E9%95%B7%E8%AB%87%E5%8D%97%E6%B5%B7%E5%95%8F%E9%A1%8C-%E7%A8%B1%E8%8F%B2%E5%BE%8B%E8%B3%93%E8%BB%8D%E8%AD%A6%E9%83%A8%E4%BB%BD%E5%8B%A2%E5%8A%9B%E8%93%84%E6%84%8F%E6%8C%91%E9%87%81",
-    "timestamp": "2026-07-21T19:38:21.320Z",
     "strategy": ".content-card__main"
   }
 ];
