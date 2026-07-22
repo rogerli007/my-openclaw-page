@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-22T17:37:03.554Z
+// Last updated: 2026-07-22T18:14:27.057Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "喬治王子13歲生日　慶生照彰成熟一面　9月升中讀父親母校｜有片",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260723/1156777237622558720872410.jpeg/EJDDkGkiD91dMjQZB5qZy6kxxlil8gaFGRG2KBkRtig?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60372718/%E5%96%AC%E6%B2%BB%E7%8E%8B%E5%AD%9013%E6%AD%B2%E7%94%9F%E6%97%A5-%E6%85%B6%E7%94%9F%E7%85%A7%E5%BD%B0%E6%88%90%E7%86%9F%E4%B8%80%E9%9D%A2-9%E6%9C%88%E5%8D%87%E4%B8%AD%E8%AE%80%E7%88%B6%E8%A6%AA%E6%AF%8D%E6%A0%A1-%E6%9C%89%E7%89%87",
+    "timestamp": "2026-07-22T18:14:27.057Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "劍擊世錦賽｜博茨瓦納重劍第一人　逐奧運夢困難重重仍砥礪前行",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260721/1156314750158639104853726.png/rc7lN1RbhjhaCzx7CO6LeNZj1CbbsNCuH7fkwR-35ME?v=w1920r16_9",
     "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E8%A9%B1%E9%A1%8C/60371992/%E5%B3%87%E9%87%8C%E5%B3%B6%E6%81%90%E6%80%96%E6%83%85%E6%AE%BA-%E6%96%B0%E5%8A%A0%E5%9D%A1%E7%94%B7%E5%8B%92%E6%96%83%E5%8D%B0%E5%B0%BC%E5%A5%B3%E5%8F%8B-%E6%95%B8%E5%8D%81%E5%85%AC%E4%BB%94%E8%97%8F%E5%B1%8D%E4%BC%B4%E6%96%B0%E6%AD%A1%E9%81%8E%E5%A4%9C",
     "timestamp": "2026-07-21T23:27:29.338Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "武打巨星自爆8歲遭同學侮辱亡父　持球拍衝入教員室按倒痛毆報復",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260721/1156362443924967424759140.jpeg/_bTN7RqFQy5PlXhwHxNSvbmQtqjUaTTbBKmqqgSpqqo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60372180/%E6%9D%8E%E9%80%A3%E6%9D%B0%E8%87%AA%E7%88%868%E6%AD%B2%E9%81%AD%E5%90%8C%E5%AD%B8%E4%BE%AE%E8%BE%B1%E4%BA%A1%E7%88%B6-%E6%8C%81%E7%90%83%E6%8B%8D%E8%A1%9D%E5%85%A5%E6%95%99%E5%93%A1%E5%AE%A4%E6%8C%89%E5%80%92%E7%97%9B%E6%AF%86%E5%A0%B1%E5%BE%A9",
-    "timestamp": "2026-07-21T22:26:19.062Z",
     "strategy": ".content-card__main"
   }
 ];
