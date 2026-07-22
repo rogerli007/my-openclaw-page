@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-21T23:54:21.025Z
+// Last updated: 2026-07-22T00:47:21.431Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "領展沽悉尼100 Market Street 50%股權　作價約2.26億澳元",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260722/1156511937060671488149875.png/6Ss1PW5SZIIWMMYI7xvFFoIgMrpOlWpvUosqs1KLKrM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60372352/%E9%A0%98%E5%B1%95%E6%B2%BD%E6%82%89%E5%B0%BC100-market-street-50-%E8%82%A1%E6%AC%8A-%E4%BD%9C%E5%83%B9%E7%B4%842-26%E5%84%84%E6%BE%B3%E5%85%83",
+    "timestamp": "2026-07-22T00:47:21.431Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "財經視野｜走進全球股市風暴點　韓股去槓桿已基本完成",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260721/1156177908121735168270541.jpeg/ypQBZN7DfMq7yDAQWrWao0gts5CUjmofP705Gj-9ORo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60371981/%E6%98%A5%E6%97%A5%E4%B9%8B%E5%9C%B0%E5%8A%87%E6%83%85-%E6%9C%80%E6%96%B0%E8%BF%BD%E5%8A%87%E6%97%A5%E6%9B%86-%E6%9B%B4%E6%96%B0%E6%99%82%E9%96%93-%E6%BC%94%E5%93%A1%E8%A7%92%E8%89%B2%E7%B0%A1%E4%BB%8B",
     "timestamp": "2026-07-21T06:06:58.927Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "打風｜轉為東登？　天文台改料周日吹西至西南風　周末有狂風雷暴",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260721/1156206431314120704370298.jpeg/-xLKYwxnrUzwThncBpnItbcI9GutQQGNn0XvQp9F70I?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60372046/%E6%89%93%E9%A2%A8-%E8%BD%89%E7%82%BA%E6%9D%B1%E7%99%BB-%E5%A4%A9%E6%96%87%E5%8F%B0%E6%94%B9%E6%96%99%E5%91%A8%E6%97%A5%E5%90%B9%E8%A5%BF%E8%87%B3%E8%A5%BF%E5%8D%97%E9%A2%A8-%E5%91%A8%E6%9C%AB%E6%9C%89%E7%8B%82%E9%A2%A8%E9%9B%B7%E6%9A%B4",
-    "timestamp": "2026-07-21T04:56:12.540Z",
     "strategy": ".content-card__main"
   }
 ];
