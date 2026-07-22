@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-22T08:04:39.900Z
+// Last updated: 2026-07-22T10:10:07.904Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "麥當勞食客流感快測呈陽性！檢測棒隨手棄置餐盤　遭斥播毒：自私",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260721/1156220474024267776415829.jpeg/d_nFVWYtrJUsTLrgLNToFxIDTuLhBHzAWQ57qFkOe6g?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60371975/%E9%BA%A5%E7%95%B6%E5%8B%9E%E9%A3%9F%E5%AE%A2%E6%B5%81%E6%84%9F%E5%BF%AB%E6%B8%AC%E5%91%88%E9%99%BD%E6%80%A7-%E6%AA%A2%E6%B8%AC%E6%A3%92%E9%9A%A8%E6%89%8B%E6%A3%84%E7%BD%AE%E9%A4%90%E7%9B%A4-%E9%81%AD%E6%96%A5%E6%92%AD%E6%AF%92-%E8%87%AA%E7%A7%81",
+    "timestamp": "2026-07-22T10:10:07.904Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美國對伊戰爭燒掉逾2900億元　防長促追加撥款　議員怒批領導失敗",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260721/1156284386082033664765214.png/CNzOraB7BrQNclXmrMl6bQDDYKHChlWvkovv9ZKL7_U?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60372223/%E7%94%9F%E7%97%85%E5%AF%A7%E7%94%A8%E5%B9%B4%E5%81%87%E4%B8%8D%E8%AB%8B%E7%97%85%E5%81%87-%E6%89%93%E5%B7%A5%E4%BB%94%E8%8B%A6%E7%AC%91%E6%8F%AD%E6%AE%98%E9%85%B7%E7%8F%BE%E5%AF%A6-%E7%B6%B2%E7%8B%A0%E6%89%B9-%E5%A5%BD%E6%B5%AA%E8%B2%BB",
     "timestamp": "2026-07-21T13:40:28.331Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "娃哈哈爭產案　長女宗馥莉再提新理據求准上訴　再被駁回兼付訟費",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20211209/545611392636424192372618.png/u8h1Bs00MJFolRTdWMWZchd316MOsl_gGnNpqBpzaag?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60372298/%E5%A8%83%E5%93%88%E5%93%88%E7%88%AD%E7%94%A2%E6%A1%88-%E9%95%B7%E5%A5%B3%E5%AE%97%E9%A6%A5%E8%8E%89%E5%86%8D%E6%8F%90%E6%96%B0%E7%90%86%E6%93%9A%E6%B1%82%E5%87%86%E4%B8%8A%E8%A8%B4-%E5%86%8D%E8%A2%AB%E9%A7%81%E5%9B%9E%E5%85%BC%E4%BB%98%E8%A8%9F%E8%B2%BB",
-    "timestamp": "2026-07-21T12:53:36.576Z",
     "strategy": ".content-card__main"
   }
 ];
