@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-22T12:20:22.449Z
+// Last updated: 2026-07-22T13:07:03.603Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "台灣行政院宣布8月舉行首次「斷網演習」　台北台中網絡受限",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260617/1143976934649106432068125.jpeg/9J-IgAA2S8JhraZ6mTwMcpdq3dfB7fgXlY2iVJWNolQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8F%B0%E7%81%A3%E6%96%B0%E8%81%9E/60372688/%E5%8F%B0%E7%81%A3%E8%A1%8C%E6%94%BF%E9%99%A2%E5%AE%A3%E5%B8%838%E6%9C%88%E8%88%89%E8%A1%8C%E9%A6%96%E6%AC%A1-%E6%96%B7%E7%B6%B2%E6%BC%94%E7%BF%92-%E5%8F%B0%E5%8C%97%E5%8F%B0%E4%B8%AD%E7%B6%B2%E7%B5%A1%E5%8F%97%E9%99%90",
+    "timestamp": "2026-07-22T13:07:03.603Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "非份之罪｜羅冠蘭爆教科書級演技　胡敏芝懸崖邊挑戰極限玩飛索",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260722/1156396890275713024216357.jpeg/TNQMqWIFlCqs5FEArxiQujlQiIQmLLX8wk4VqMJOFag?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60372322/%E5%A4%A7%E7%81%A3%E5%8D%80%E8%88%AA%E7%A9%BA%E8%81%AF%E4%B9%98%E7%B6%93%E5%85%B8%E6%B8%AF%E6%BC%AB%E6%8E%A8%E5%BB%A3%E5%93%81%E7%89%8C-%E5%A7%94%E4%BB%BB%E8%80%81%E5%A4%AB%E5%AD%90-%E5%A4%A7%E7%95%AA%E8%96%AF%E7%82%BA%E5%AE%A3%E5%82%B3%E5%A4%A7%E4%BD%BF",
     "timestamp": "2026-07-21T16:50:46.548Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "袁文傑簽書會反應熱烈卻竟被老婆騎劫　網民驚嘆49歲張潔蓮冇老過",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260721/1156288829829681152759182.jpeg/UbGxq5zWEU4v94IiUJrBcMDu-SZJadfqrZWPJ62Vjyc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60372220/%E8%A2%81%E6%96%87%E5%82%91%E7%B0%BD%E6%9B%B8%E6%9C%83%E5%8F%8D%E6%87%89%E7%86%B1%E7%83%88%E5%8D%BB%E7%AB%9F%E8%A2%AB%E8%80%81%E5%A9%86%E9%A8%8E%E5%8A%AB-%E7%B6%B2%E6%B0%91%E9%A9%9A%E5%98%8649%E6%AD%B2%E5%BC%B5%E6%BD%94%E8%93%AE%E5%86%87%E8%80%81%E9%81%8E",
-    "timestamp": "2026-07-21T16:07:37.440Z",
     "strategy": ".content-card__main"
   }
 ];
