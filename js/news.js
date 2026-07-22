@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-22T18:45:16.760Z
+// Last updated: 2026-07-22T19:53:19.809Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "白宮官員：月之暗面竊取Anthropic技術及違規使用英偉達AI晶片",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260512/1130914931919556608105429.jpeg/kVsDPMXatzKoU3fXPiRCUnDXtBfCbghPcnBLKXJwSyk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60372721/%E7%99%BD%E5%AE%AE%E5%AE%98%E5%93%A1-%E6%9C%88%E4%B9%8B%E6%9A%97%E9%9D%A2%E7%AB%8A%E5%8F%96anthropic%E6%8A%80%E8%A1%93%E5%8F%8A%E9%81%95%E8%A6%8F%E4%BD%BF%E7%94%A8%E8%8B%B1%E5%81%89%E9%81%94ai%E6%99%B6%E7%89%87",
+    "timestamp": "2026-07-22T19:53:19.809Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "羅浮宮阿波羅長廊重新開放　不再展出珠寶",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260722/1156511937060671488149875.png/6Ss1PW5SZIIWMMYI7xvFFoIgMrpOlWpvUosqs1KLKrM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60372352/%E9%A0%98%E5%B1%95%E6%B2%BD%E6%82%89%E5%B0%BC100-market-street-50-%E8%82%A1%E6%AC%8A-%E4%BD%9C%E5%83%B9%E7%B4%842-26%E5%84%84%E6%BE%B3%E5%85%83",
     "timestamp": "2026-07-22T00:47:21.431Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "財經視野｜走進全球股市風暴點　韓股去槓桿已基本完成",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260720/1156022067376689152478512.jpeg/YQQtWf0s-IZd_3bvE56gWv3sPsI4ROMp_dyyrP3csqw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60372348/%E8%B2%A1%E7%B6%93%E8%A6%96%E9%87%8E-%E8%B5%B0%E9%80%B2%E5%85%A8%E7%90%83%E8%82%A1%E5%B8%82%E9%A2%A8%E6%9A%B4%E9%BB%9E-%E9%9F%93%E8%82%A1%E5%8E%BB%E6%A7%93%E6%A1%BF%E5%B7%B2%E5%9F%BA%E6%9C%AC%E5%AE%8C%E6%88%90",
-    "timestamp": "2026-07-21T23:54:21.025Z",
     "strategy": ".content-card__main"
   }
 ];
