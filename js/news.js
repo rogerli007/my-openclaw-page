@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-22T16:07:07.527Z
+// Last updated: 2026-07-22T16:52:10.784Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "蚊患｜馬鞍山誘蚊指數達22.7%　大埔西4場所被發清除積水通知書",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260723/1156760175131365376157029.jpeg/4YfosMVRuZj2fNR5CBN0Xn0cxCq3QLjOSnOsRkpzrEY?v=w1920r16_9",
+    "url": "https://www.hk01.com/18%E5%8D%80%E6%96%B0%E8%81%9E/60372715/%E8%9A%8A%E6%82%A3-%E9%A6%AC%E9%9E%8D%E5%B1%B1%E8%AA%98%E8%9A%8A%E6%8C%87%E6%95%B8%E9%81%9422-7-%E5%A4%A7%E5%9F%94%E8%A5%BF4%E5%A0%B4%E6%89%80%E8%A2%AB%E7%99%BC%E6%B8%85%E9%99%A4%E7%A9%8D%E6%B0%B4%E9%80%9A%E7%9F%A5%E6%9B%B8",
+    "timestamp": "2026-07-22T16:52:10.784Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "奧德賽｜路蘭追求極致真實感打造10米木馬　5300套戲服全人手製作",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260721/1156343538871439360601537.jpeg/6iToFAJI7pI94KGPVTR1ruM7xcOvJScZfmb9c35m_XM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60372257/%E5%B7%B4%E8%8F%B2%E7%89%B9%E7%90%86%E8%B2%A1%E7%90%86%E8%AB%96-%E6%A7%93%E6%A1%BF%E9%99%B7%E9%98%B1%E5%8D%B1%E6%A9%9F%E5%9B%9B%E4%BC%8F-%E6%B1%AA%E6%95%A6%E6%95%AC",
     "timestamp": "2026-07-21T21:20:46.507Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "英國前閣員韋黛琴遇害案　檢方：曾遭疑犯以鐵鎚連續重擊頭部21下",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260722/1156443111489015808728941.jpeg/NS7wpxCF2Us7qDzNrUeMHTanZBQtxVM9HRiXyB0Yl8g?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60372341/%E8%8B%B1%E5%9C%8B%E5%89%8D%E9%96%A3%E5%93%A1%E9%9F%8B%E9%BB%9B%E7%90%B4%E9%81%87%E5%AE%B3%E6%A1%88-%E6%AA%A2%E6%96%B9-%E6%9B%BE%E9%81%AD%E7%96%91%E7%8A%AF%E4%BB%A5%E9%90%B5%E9%8E%9A%E9%80%A3%E7%BA%8C%E9%87%8D%E6%93%8A%E9%A0%AD%E9%83%A821%E4%B8%8B",
-    "timestamp": "2026-07-21T20:49:37.961Z",
     "strategy": ".content-card__main"
   }
 ];
