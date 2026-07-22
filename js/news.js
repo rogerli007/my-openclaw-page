@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-22T02:26:27.942Z
+// Last updated: 2026-07-22T03:47:06.260Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "金鐘遠東金融中心高層1.08億沽　半年短炒貴兩成　內地客帳賺兩成",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250523/1002653001531396096645978.jpeg/E89f14qXsDujDV136Tcqu-512-KO5ChlZ4UqxWeFKsU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60372394/%E9%87%91%E9%90%98%E9%81%A0%E6%9D%B1%E9%87%91%E8%9E%8D%E4%B8%AD%E5%BF%83%E9%AB%98%E5%B1%A41-08%E5%84%84%E6%B2%BD-%E5%8D%8A%E5%B9%B4%E7%9F%AD%E7%82%92%E8%B2%B4%E5%85%A9%E6%88%90-%E5%85%A7%E5%9C%B0%E5%AE%A2%E5%B8%B3%E8%B3%BA%E5%85%A9%E6%88%90",
+    "timestamp": "2026-07-22T03:47:06.260Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "穗深城際鐵路全線貫通　廣深機場實現軌道直連最快100分鐘直達",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260721/1156301091378302976683412.jpeg/PInHu7CX_6yNWGFOlNNE3Aboil5MYoXjnKJvnZyib50?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60372227/%E5%BB%A3%E8%A5%BF%E6%B4%AA%E7%81%BD-29%E6%AD%B2%E7%94%B7%E6%94%BE%E6%A3%84%E6%97%85%E8%A1%8C%E5%8E%BB%E6%95%91%E7%81%BD-%E5%BE%92%E6%AD%A56%E5%B0%8F%E6%99%82%E9%81%8B%E7%89%A9%E8%B3%87%E5%BE%8C%E5%BF%83%E8%87%9F%E8%A1%B0%E7%AB%AD%E9%9B%A2%E4%B8%96",
     "timestamp": "2026-07-21T11:02:39.232Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "G-Dragon化身白馬王子佩戴Buccellati珠寶 華麗亮相UNESCO開幕禮",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260721/1156223787272769536341589.png/1sPIbnU4ikEL6g3lioLSrCStLe3ahxw6gVaD5YFWg-U?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E4%B8%80%E7%89%A9/60372064/g-dragon%E5%8C%96%E8%BA%AB%E7%99%BD%E9%A6%AC%E7%8E%8B%E5%AD%90%E4%BD%A9%E6%88%B4buccellati%E7%8F%A0%E5%AF%B6-%E8%8F%AF%E9%BA%97%E4%BA%AE%E7%9B%B8unesco%E9%96%8B%E5%B9%95%E7%A6%AE",
-    "timestamp": "2026-07-21T09:07:21.953Z",
     "strategy": ".content-card__main"
   }
 ];
