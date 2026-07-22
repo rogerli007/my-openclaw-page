@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-22T20:59:13.901Z
+// Last updated: 2026-07-22T21:32:41.059Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "4名中東殉職美軍遺體移送回國　特朗普到場迎接向靈柩敬禮｜有片",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260723/1156817962527625216940182.jpeg/NB5ini0PSXmJAO1YwTcCmiyZzLR_wCny4WFckeFhXJE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60372725/4%E5%90%8D%E4%B8%AD%E6%9D%B1%E6%AE%89%E8%81%B7%E7%BE%8E%E8%BB%8D%E9%81%BA%E9%AB%94%E7%A7%BB%E9%80%81%E5%9B%9E%E5%9C%8B-%E7%89%B9%E6%9C%97%E6%99%AE%E5%88%B0%E5%A0%B4%E8%BF%8E%E6%8E%A5%E5%90%91%E9%9D%88%E6%9F%A9%E6%95%AC%E7%A6%AE-%E6%9C%89%E7%89%87",
+    "timestamp": "2026-07-22T21:32:41.059Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "4名中東殉職美軍遺體移送回國　特朗普到場迎接向靈柩敬禮｜有片",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250523/1002653001531396096645978.jpeg/E89f14qXsDujDV136Tcqu-512-KO5ChlZ4UqxWeFKsU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60372394/%E9%87%91%E9%90%98%E9%81%A0%E6%9D%B1%E9%87%91%E8%9E%8D%E4%B8%AD%E5%BF%83%E9%AB%98%E5%B1%A41-08%E5%84%84%E6%B2%BD-%E5%8D%8A%E5%B9%B4%E7%9F%AD%E7%82%92%E8%B2%B4%E5%85%A9%E6%88%90-%E5%85%A7%E5%9C%B0%E5%AE%A2%E5%B8%B3%E8%B3%BA%E5%85%A9%E6%88%90",
     "timestamp": "2026-07-22T03:47:06.260Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "穗深城際鐵路全線貫通　廣深機場實現軌道直連最快100分鐘直達",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260722/1156543006954754048071425.jpeg/-l-Ukna_qTW_41TwhMQk8gDTRIj2iwwJ7lfMKO5XzCg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8C%97%E4%B8%8A%E5%BB%A3%E6%9D%B1/60372379/%E7%A9%97%E6%B7%B1%E5%9F%8E%E9%9A%9B%E9%90%B5%E8%B7%AF%E5%85%A8%E7%B7%9A%E8%B2%AB%E9%80%9A-%E5%BB%A3%E6%B7%B1%E6%A9%9F%E5%A0%B4%E5%AF%A6%E7%8F%BE%E8%BB%8C%E9%81%93%E7%9B%B4%E9%80%A3%E6%9C%80%E5%BF%AB100%E5%88%86%E9%90%98%E7%9B%B4%E9%81%94",
-    "timestamp": "2026-07-22T02:26:27.942Z",
     "strategy": ".content-card__main"
   }
 ];
