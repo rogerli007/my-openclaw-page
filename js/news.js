@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-22T01:21:33.760Z
+// Last updated: 2026-07-22T02:26:27.942Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "穗深城際鐵路全線貫通　廣深機場實現軌道直連最快100分鐘直達",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260722/1156543006954754048071425.jpeg/-l-Ukna_qTW_41TwhMQk8gDTRIj2iwwJ7lfMKO5XzCg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8C%97%E4%B8%8A%E5%BB%A3%E6%9D%B1/60372379/%E7%A9%97%E6%B7%B1%E5%9F%8E%E9%9A%9B%E9%90%B5%E8%B7%AF%E5%85%A8%E7%B7%9A%E8%B2%AB%E9%80%9A-%E5%BB%A3%E6%B7%B1%E6%A9%9F%E5%A0%B4%E5%AF%A6%E7%8F%BE%E8%BB%8C%E9%81%93%E7%9B%B4%E9%80%A3%E6%9C%80%E5%BF%AB100%E5%88%86%E9%90%98%E7%9B%B4%E9%81%94",
+    "timestamp": "2026-07-22T02:26:27.942Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "特朗普據報最快本週以強迫勞動為由　對60國家祭301關稅",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260721/1156223787272769536341589.png/1sPIbnU4ikEL6g3lioLSrCStLe3ahxw6gVaD5YFWg-U?v=w1920r16_9",
     "url": "https://www.hk01.com/%E4%B8%80%E7%89%A9/60372064/g-dragon%E5%8C%96%E8%BA%AB%E7%99%BD%E9%A6%AC%E7%8E%8B%E5%AD%90%E4%BD%A9%E6%88%B4buccellati%E7%8F%A0%E5%AF%B6-%E8%8F%AF%E9%BA%97%E4%BA%AE%E7%9B%B8unesco%E9%96%8B%E5%B9%95%E7%A6%AE",
     "timestamp": "2026-07-21T09:07:21.953Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "野狗骨頭結局劇情線上看｜最新更新時間+演員關係圖+簡介",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260702/1149366516639076352260947.jpeg/_mVRymuMYY45Aj5WcUWPa8h7nHz4UIXtF-rxkBfq8ZA?v=w1920",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60365960/%E9%87%8E%E7%8B%97%E9%AA%A8%E9%A0%AD%E7%B5%90%E5%B1%80%E5%8A%87%E6%83%85%E7%B7%9A%E4%B8%8A%E7%9C%8B-%E6%9C%80%E6%96%B0%E6%9B%B4%E6%96%B0%E6%99%82%E9%96%93-%E6%BC%94%E5%93%A1%E9%97%9C%E4%BF%82%E5%9C%96-%E7%B0%A1%E4%BB%8B",
-    "timestamp": "2026-07-21T07:14:27.030Z",
     "strategy": ".content-card__main"
   }
 ];
