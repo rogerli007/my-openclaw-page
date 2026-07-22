@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-22T04:56:19.382Z
+// Last updated: 2026-07-22T08:04:39.900Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美國對伊戰爭燒掉逾2900億元　防長促追加撥款　議員怒批領導失敗",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260722/1156618998113112064532980.jpeg/eifAb2aZitvhXINOFrJt7037gn-ZDC4hfXZ7xH12e8Q?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60372559/%E7%BE%8E%E5%9C%8B%E5%B0%8D%E4%BC%8A%E6%88%B0%E7%88%AD%E7%87%92%E6%8E%89%E9%80%BE2900%E5%84%84%E5%85%83-%E9%98%B2%E9%95%B7%E4%BF%83%E8%BF%BD%E5%8A%A0%E6%92%A5%E6%AC%BE-%E8%AD%B0%E5%93%A1%E6%80%92%E6%89%B9%E9%A0%98%E5%B0%8E%E5%A4%B1%E6%95%97",
+    "timestamp": "2026-07-22T08:04:39.900Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "英女誣告被強姦勒索銀行家逾100萬　官斥邪惡殘酷　判囚6年",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20211209/545611392636424192372618.png/u8h1Bs00MJFolRTdWMWZchd316MOsl_gGnNpqBpzaag?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60372298/%E5%A8%83%E5%93%88%E5%93%88%E7%88%AD%E7%94%A2%E6%A1%88-%E9%95%B7%E5%A5%B3%E5%AE%97%E9%A6%A5%E8%8E%89%E5%86%8D%E6%8F%90%E6%96%B0%E7%90%86%E6%93%9A%E6%B1%82%E5%87%86%E4%B8%8A%E8%A8%B4-%E5%86%8D%E8%A2%AB%E9%A7%81%E5%9B%9E%E5%85%BC%E4%BB%98%E8%A8%9F%E8%B2%BB",
     "timestamp": "2026-07-21T12:53:36.576Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "非份之罪丨羅冠蘭身份疑係Big Boss？　吳偉豪演渣男網民讚爆演技",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260721/1156277786604736512510367.jpeg/hQosPo7ain-raUlR3WagNoU0BivHJCAxcOFB4XDhQeE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60372193/%E9%9D%9E%E4%BB%BD%E4%B9%8B%E7%BD%AA-%E7%BE%85%E5%86%A0%E8%98%AD%E8%BA%AB%E4%BB%BD%E7%96%91%E4%BF%82big-boss-%E5%90%B3%E5%81%89%E8%B1%AA%E6%BC%94%E6%B8%A3%E7%94%B7%E7%B6%B2%E6%B0%91%E8%AE%9A%E7%88%86%E6%BC%94%E6%8A%80",
-    "timestamp": "2026-07-21T12:21:28.755Z",
     "strategy": ".content-card__main"
   }
 ];
