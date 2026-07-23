@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-23T11:08:00.277Z
+// Last updated: 2026-07-23T12:20:06.050Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "麗英推催淚新歌唱盡生離死別　張國強入行50年獻MV初體驗演父女",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260723/1156969975404040192102836.jpeg/YzlaPduLik3fs6OLqPpIfz1JO2A3FTwgK53UpCud1KQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60372890/%E9%BA%97%E8%8B%B1%E6%8E%A8%E5%82%AC%E6%B7%9A%E6%96%B0%E6%AD%8C%E5%94%B1%E7%9B%A1%E7%94%9F%E9%9B%A2%E6%AD%BB%E5%88%A5-%E5%BC%B5%E5%9C%8B%E5%BC%B7%E5%85%A5%E8%A1%8C50%E5%B9%B4%E7%8D%BBmv%E5%88%9D%E9%AB%94%E9%A9%97%E6%BC%94%E7%88%B6%E5%A5%B3",
+    "timestamp": "2026-07-23T12:20:06.050Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "中年好聲音4丨10強夥前輩演繹經典金曲　周志康激情合唱關楚耀",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260723/1156760175131365376157029.jpeg/4YfosMVRuZj2fNR5CBN0Xn0cxCq3QLjOSnOsRkpzrEY?v=w1920r16_9",
     "url": "https://www.hk01.com/18%E5%8D%80%E6%96%B0%E8%81%9E/60372715/%E8%9A%8A%E6%82%A3-%E9%A6%AC%E9%9E%8D%E5%B1%B1%E8%AA%98%E8%9A%8A%E6%8C%87%E6%95%B8%E9%81%9422-7-%E5%A4%A7%E5%9F%94%E8%A5%BF4%E5%A0%B4%E6%89%80%E8%A2%AB%E7%99%BC%E6%B8%85%E9%99%A4%E7%A9%8D%E6%B0%B4%E9%80%9A%E7%9F%A5%E6%9B%B8",
     "timestamp": "2026-07-22T16:52:10.784Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "奧德賽｜路蘭追求極致真實感打造10米木馬　5300套戲服全人手製作",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260722/1156656228814819328012573.jpeg/n_TgjVYrYkrVsyiFef4nUpIeVp_CqLmQSGQ7mkhkO5o?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60372521/%E5%A5%A7%E5%BE%B7%E8%B3%BD-%E8%B7%AF%E8%98%AD%E8%BF%BD%E6%B1%82%E6%A5%B5%E8%87%B4%E7%9C%9F%E5%AF%A6%E6%84%9F%E6%89%93%E9%80%A010%E7%B1%B3%E6%9C%A8%E9%A6%AC-5300%E5%A5%97%E6%88%B2%E6%9C%8D%E5%85%A8%E4%BA%BA%E6%89%8B%E8%A3%BD%E4%BD%9C",
-    "timestamp": "2026-07-22T16:07:07.527Z",
     "strategy": ".content-card__main"
   }
 ];
