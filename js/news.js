@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-23T14:00:16.583Z
+// Last updated: 2026-07-23T15:47:16.724Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "英媒：日本投資美國核能項目陷僵局　核災責任歸屬難釐清",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20240425/860097814221295616928504.jpeg/xhKzKTjEnmCmYatdfdf-fBXHnkEgVt254I8qH-CPKh8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60373063/%E8%8B%B1%E5%AA%92-%E6%97%A5%E6%9C%AC%E6%8A%95%E8%B3%87%E7%BE%8E%E5%9C%8B%E6%A0%B8%E8%83%BD%E9%A0%85%E7%9B%AE%E9%99%B7%E5%83%B5%E5%B1%80-%E6%A0%B8%E7%81%BD%E8%B2%AC%E4%BB%BB%E6%AD%B8%E5%B1%AC%E9%9B%A3%E9%87%90%E6%B8%85",
+    "timestamp": "2026-07-23T15:47:16.724Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "劍擊世錦賽｜港隊男重兩將闖正賽　吳浩天奮鬥有回報何瑋桁齊過關",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260723/1156781891496448000143750.jpeg/YqU_9ea3mMZbvBwXuSxOeify9wvcw7OQea3p-3mt6fs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60372719/%E7%BE%85%E6%B5%AE%E5%AE%AE%E9%98%BF%E6%B3%A2%E7%BE%85%E9%95%B7%E5%BB%8A%E9%87%8D%E6%96%B0%E9%96%8B%E6%94%BE-%E4%B8%8D%E5%86%8D%E5%B1%95%E5%87%BA%E7%8F%A0%E5%AF%B6",
     "timestamp": "2026-07-22T18:45:16.760Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "喬治王子13歲生日　慶生照彰成熟一面　9月升中讀父親母校｜有片",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260723/1156777237622558720872410.jpeg/EJDDkGkiD91dMjQZB5qZy6kxxlil8gaFGRG2KBkRtig?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60372718/%E5%96%AC%E6%B2%BB%E7%8E%8B%E5%AD%9013%E6%AD%B2%E7%94%9F%E6%97%A5-%E6%85%B6%E7%94%9F%E7%85%A7%E5%BD%B0%E6%88%90%E7%86%9F%E4%B8%80%E9%9D%A2-9%E6%9C%88%E5%8D%87%E4%B8%AD%E8%AE%80%E7%88%B6%E8%A6%AA%E6%AF%8D%E6%A0%A1-%E6%9C%89%E7%89%87",
-    "timestamp": "2026-07-22T18:14:27.057Z",
     "strategy": ".content-card__main"
   }
 ];
