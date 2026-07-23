@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-23T09:14:28.951Z
+// Last updated: 2026-07-23T10:08:50.913Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "剴剴案︱台1歲童遭虐死引公憤　保母終審判囚終身、保母妹囚18年",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250501/994552880818032640801523.jpeg/C0Dl9hf_NLMoNlMsg4XdwOe_EY-FCqTfA7vGPAO7xjw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8F%B0%E7%81%A3%E6%96%B0%E8%81%9E/60372971/%E5%89%B4%E5%89%B4%E6%A1%88-%E5%8F%B01%E6%AD%B2%E7%AB%A5%E9%81%AD%E8%99%90%E6%AD%BB%E5%BC%95%E5%85%AC%E6%86%A4-%E4%BF%9D%E6%AF%8D%E7%B5%82%E5%AF%A9%E5%88%A4%E5%9B%9A%E7%B5%82%E8%BA%AB-%E4%BF%9D%E6%AF%8D%E5%A6%B9%E5%9B%9A18%E5%B9%B4",
+    "timestamp": "2026-07-23T10:08:50.913Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "打風│天文台調整紅霞登陸位置更接近香港　是否掛更高風球看3因素",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260722/1156657525173522432197358.jpeg/d5cOuOKZP2ZKBPrAMvc1IRMYfNtqwmI8ZyJar2ciWq8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60372044/samsung-z-fold-8%E7%B3%BB%E5%88%97%E7%99%BB%E5%A0%B4-%E5%B1%8F%E5%B9%95%E6%96%B0%E6%AF%94%E4%BE%8B%E6%A5%B5%E8%96%84%E6%91%BA%E6%A9%9F%E8%9E%8D%E5%90%88%E9%A0%82%E5%B0%96ai%E6%95%88%E8%83%BD",
     "timestamp": "2026-07-22T15:27:36.269Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "珍惜生命｜沙田乙明邨中年男住戶家中上吊　當場死亡",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250908/1041773068743086080760593.png/j5PCuhPwa0teGpPvbAnLA_wCrXcBUrDWdvfeOHb33jg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60372707/%E7%8F%8D%E6%83%9C%E7%94%9F%E5%91%BD-%E6%B2%99%E7%94%B0%E4%B9%99%E6%98%8E%E9%82%A8%E4%B8%AD%E5%B9%B4%E7%94%B7%E4%BD%8F%E6%88%B6%E5%AE%B6%E4%B8%AD%E4%B8%8A%E5%90%8A-%E7%95%B6%E5%A0%B4%E6%AD%BB%E4%BA%A1",
-    "timestamp": "2026-07-22T14:49:07.184Z",
     "strategy": ".content-card__main"
   }
 ];
