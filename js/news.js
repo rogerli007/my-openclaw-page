@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-23T21:35:16.935Z
+// Last updated: 2026-07-23T21:57:22.178Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "紅磡劏房外41歲男遇襲　同鄉揮刀錘施襲逃走　傷者頭手受傷送院",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260724/1157192171166633984524607.jpeg/KQ5UJq7qs6r8K5mRcFLxubGfpsFFWpP9AbTH5wG0x-c?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60373094/%E7%B4%85%E7%A3%A1%E5%8A%8F%E6%88%BF%E5%A4%9641%E6%AD%B2%E7%94%B7%E9%81%87%E8%A5%B2-%E5%90%8C%E9%84%89%E6%8F%AE%E5%88%80%E9%8C%98%E6%96%BD%E8%A5%B2%E9%80%83%E8%B5%B0-%E5%82%B7%E8%80%85%E9%A0%AD%E6%89%8B%E5%8F%97%E5%82%B7%E9%80%81%E9%99%A2",
+    "timestamp": "2026-07-23T21:57:22.178Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "英國撤離駐伊朗外交人員　伊媒：配合美國的心理戰",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20241017/923388318434201600269370.jpeg/h2uXmhoM-zgtbc4n5qQhU68mCsW--mY56oxezuqMXs4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60372741/%E7%B4%8D%E6%96%AF%E9%81%94%E5%85%8B%E6%B8%85%E7%90%86-%E5%BE%AE%E4%BF%A1%E5%A5%B3-%E8%82%A1-%E8%8B%A5%E9%80%A3%E7%BA%8C30%E6%97%A5%E5%B8%82%E5%80%BC%E4%BD%8E%E6%96%BC500%E8%90%AC%E7%BE%8E%E5%85%83%E9%A0%88%E9%80%80%E5%B8%82",
     "timestamp": "2026-07-23T01:25:16.703Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "東張西望｜9旬翁被送飯阿姐謀層樓　激動否認有路：我最憎人鹹濕",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260722/1156739766197161984372459.jpeg/xh76FDv17_ZPDj6sTEzKBHyolPXaGiZK-0bShPtG0oQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60372709/%E6%9D%B1%E5%BC%B5%E8%A5%BF%E6%9C%9B-9%E6%97%AC%E7%BF%81%E8%A2%AB%E9%80%81%E9%A3%AF%E9%98%BF%E5%A7%90%E8%AC%80%E5%B1%A4%E6%A8%93-%E6%BF%80%E5%8B%95%E5%90%A6%E8%AA%8D%E6%9C%89%E8%B7%AF-%E6%88%91%E6%9C%80%E6%86%8E%E4%BA%BA%E9%B9%B9%E6%BF%95",
-    "timestamp": "2026-07-23T00:49:58.734Z",
     "strategy": ".content-card__main"
   }
 ];
