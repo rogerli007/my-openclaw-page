@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-23T20:58:14.831Z
+// Last updated: 2026-07-23T21:35:16.935Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "英國撤離駐伊朗外交人員　伊媒：配合美國的心理戰",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260724/1157171426826915840253086.jpeg/8kp7nK9numCAqXcjsLxzNaSrZVZ3X5UC-8hLd_vIS3c?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60373083/%E8%8B%B1%E5%9C%8B%E6%92%A4%E9%9B%A2%E9%A7%90%E4%BC%8A%E6%9C%97%E5%A4%96%E4%BA%A4%E4%BA%BA%E5%93%A1-%E4%BC%8A%E5%AA%92-%E9%85%8D%E5%90%88%E7%BE%8E%E5%9C%8B%E7%9A%84%E5%BF%83%E7%90%86%E6%88%B0",
+    "timestamp": "2026-07-23T21:35:16.935Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "布油飆7%重上100美元關　紐約期油高收6.17%",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260722/1156739766197161984372459.jpeg/xh76FDv17_ZPDj6sTEzKBHyolPXaGiZK-0bShPtG0oQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60372709/%E6%9D%B1%E5%BC%B5%E8%A5%BF%E6%9C%9B-9%E6%97%AC%E7%BF%81%E8%A2%AB%E9%80%81%E9%A3%AF%E9%98%BF%E5%A7%90%E8%AC%80%E5%B1%A4%E6%A8%93-%E6%BF%80%E5%8B%95%E5%90%A6%E8%AA%8D%E6%9C%89%E8%B7%AF-%E6%88%91%E6%9C%80%E6%86%8E%E4%BA%BA%E9%B9%B9%E6%BF%95",
     "timestamp": "2026-07-23T00:49:58.734Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "打風｜天文台路徑圖：熱帶低氣壓將成颱風　周日凌晨登陸汕頭一帶",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260723/1156867366626267136635872.jpeg/NPQ29enHqB0SDO90ZdDgPqbqw01W-_dHk4TVHpOE1R4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60372732/%E6%89%93%E9%A2%A8-%E5%A4%A9%E6%96%87%E5%8F%B0%E8%B7%AF%E5%BE%91%E5%9C%96-%E7%86%B1%E5%B8%B6%E4%BD%8E%E6%B0%A3%E5%A3%93%E5%B0%87%E6%88%90%E9%A2%B1%E9%A2%A8-%E5%91%A8%E6%97%A5%E5%87%8C%E6%99%A8%E7%99%BB%E9%99%B8%E6%B1%95%E9%A0%AD%E4%B8%80%E5%B8%B6",
-    "timestamp": "2026-07-22T23:56:25.768Z",
     "strategy": ".content-card__main"
   }
 ];
