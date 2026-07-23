@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-23T21:57:22.178Z
+// Last updated: 2026-07-23T22:29:18.780Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "北上就醫指南│住院+門診保障　一份醫保無縫覆蓋兩地醫療需要",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260715/1154050015610540032415972.jpeg/WdYltS94OCMgwR72P2uRbM38Z4RKEfQH7a2_su2tv7I?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A0%94%E6%95%B8%E6%89%80/60363778/%E5%8C%97%E4%B8%8A%E5%B0%B1%E9%86%AB%E6%8C%87%E5%8D%97-%E4%BD%8F%E9%99%A2-%E9%96%80%E8%A8%BA%E4%BF%9D%E9%9A%9C-%E4%B8%80%E4%BB%BD%E9%86%AB%E4%BF%9D%E7%84%A1%E7%B8%AB%E8%A6%86%E8%93%8B%E5%85%A9%E5%9C%B0%E9%86%AB%E7%99%82%E9%9C%80%E8%A6%81",
+    "timestamp": "2026-07-23T22:29:18.780Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "紅磡劏房外41歲男遇襲　同鄉揮刀錘施襲逃走　傷者頭手受傷送院",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260723/1156946661000351744617425.jpeg/g9e2-FC9H1Z6vzh-3Vb9YHGjvp_R3_SiF8YRwBfGEcA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60372846/%E6%9C%B1%E7%B6%AD%E5%BE%B7%E5%96%AA%E7%A6%AE-fb%E7%89%88%E4%B8%BB%E5%86%80%E8%A8%98%E4%BD%8F%E6%9C%B1%E7%BF%81%E7%AC%91%E8%81%B2%E8%88%87%E8%B2%A2%E7%8D%BB-%E7%95%B6%E4%BD%A2%E5%8E%BB%E4%B8%80%E5%80%8B%E6%9C%AA%E7%9F%A5%E6%97%85%E7%A8%8B",
     "timestamp": "2026-07-23T05:00:43.491Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "納斯達克清理「微信女」股　若連續30日市值低於500萬美元須退市",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20241017/923388318434201600269370.jpeg/h2uXmhoM-zgtbc4n5qQhU68mCsW--mY56oxezuqMXs4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60372741/%E7%B4%8D%E6%96%AF%E9%81%94%E5%85%8B%E6%B8%85%E7%90%86-%E5%BE%AE%E4%BF%A1%E5%A5%B3-%E8%82%A1-%E8%8B%A5%E9%80%A3%E7%BA%8C30%E6%97%A5%E5%B8%82%E5%80%BC%E4%BD%8E%E6%96%BC500%E8%90%AC%E7%BE%8E%E5%85%83%E9%A0%88%E9%80%80%E5%B8%82",
-    "timestamp": "2026-07-23T01:25:16.703Z",
     "strategy": ".content-card__main"
   }
 ];
