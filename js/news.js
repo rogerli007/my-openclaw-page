@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-23T08:07:12.509Z
+// Last updated: 2026-07-23T09:14:28.951Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "打風│天文台調整紅霞登陸位置更接近香港　是否掛更高風球看3因素",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260723/1157009288456048640926514.jpeg/_igfHeJowVIfWxBh1cSE0p0BJKvzs8d3Osf2hTrH9oU",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60372967/%E6%89%93%E9%A2%A8-%E5%A4%A9%E6%96%87%E5%8F%B0%E8%AA%BF%E6%95%B4%E7%B4%85%E9%9C%9E%E7%99%BB%E9%99%B8%E4%BD%8D%E7%BD%AE%E6%9B%B4%E6%8E%A5%E8%BF%91%E9%A6%99%E6%B8%AF-%E6%98%AF%E5%90%A6%E6%8E%9B%E6%9B%B4%E9%AB%98%E9%A2%A8%E7%90%83%E7%9C%8B3%E5%9B%A0%E7%B4%A0",
+    "timestamp": "2026-07-23T09:14:28.951Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "研究證凍豆腐富含抗性蛋白質　降膽固醇改善脂肪肝與一般豆腐不同",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250908/1041773068743086080760593.png/j5PCuhPwa0teGpPvbAnLA_wCrXcBUrDWdvfeOHb33jg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60372707/%E7%8F%8D%E6%83%9C%E7%94%9F%E5%91%BD-%E6%B2%99%E7%94%B0%E4%B9%99%E6%98%8E%E9%82%A8%E4%B8%AD%E5%B9%B4%E7%94%B7%E4%BD%8F%E6%88%B6%E5%AE%B6%E4%B8%AD%E4%B8%8A%E5%90%8A-%E7%95%B6%E5%A0%B4%E6%AD%BB%E4%BA%A1",
     "timestamp": "2026-07-22T14:49:07.184Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "謝展寰訪青海到祁連山・崗什卡雪峰　借鏡生態產業經驗助港轉型",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260722/1156698659786592256802943.jpeg/NwSfYs_4QoUGxNbWn8hmMFhfibU0IPEu_cgoKv3IKCo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60372687/%E8%AC%9D%E5%B1%95%E5%AF%B0%E8%A8%AA%E9%9D%92%E6%B5%B7%E5%88%B0%E7%A5%81%E9%80%A3%E5%B1%B1-%E5%B4%97%E4%BB%80%E5%8D%A1%E9%9B%AA%E5%B3%B0-%E5%80%9F%E9%8F%A1%E7%94%9F%E6%85%8B%E7%94%A2%E6%A5%AD%E7%B6%93%E9%A9%97%E5%8A%A9%E6%B8%AF%E8%BD%89%E5%9E%8B",
-    "timestamp": "2026-07-22T14:00:20.358Z",
     "strategy": ".content-card__main"
   }
 ];
