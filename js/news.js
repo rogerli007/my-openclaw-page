@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-23T16:21:10.525Z
+// Last updated: 2026-07-23T17:05:19.792Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "證券行前員工涉盜$1900萬公款　38歲男助洗黑錢達$390萬囚36個月",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260724/1157121777546039296048352.jpeg/wkjGIDtnYBXK61VV57vPUIeRaCO3JARu4btXC9u7Vws?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60373070/%E8%AD%89%E5%88%B8%E8%A1%8C%E5%89%8D%E5%93%A1%E5%B7%A5%E6%B6%89%E7%9B%9C-1900%E8%90%AC%E5%85%AC%E6%AC%BE-38%E6%AD%B2%E7%94%B7%E5%8A%A9%E6%B4%97%E9%BB%91%E9%8C%A2%E9%81%94-390%E8%90%AC%E5%9B%9A36%E5%80%8B%E6%9C%88",
+    "timestamp": "2026-07-23T17:05:19.792Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "特朗普稱正考慮重啟大規模攻擊伊朗　美眾議院再通過決議要求終戰",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260723/1156809918519447552139287.jpeg/nxtfOa3fO6w76xLQwkIOtpdCXPhrLnbtGJCy2xiQsts?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60372724/%E5%88%A9%E7%89%A9%E6%B5%A6%E8%88%87%E8%AD%A6%E6%96%B9%E5%90%88%E4%BD%9C%E6%89%93%E6%93%8A%E9%BB%83%E7%89%9B%E9%BB%A8-%E9%80%BE400%E4%BA%BA%E8%A2%AB%E7%B5%82%E8%BA%AB%E7%A6%81%E6%AD%A2%E5%85%A5%E5%A0%B4%E8%A7%80%E8%B3%BD",
     "timestamp": "2026-07-22T20:38:56.509Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "白宮官員：月之暗面竊取Anthropic技術及違規使用英偉達AI晶片",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260512/1130914931919556608105429.jpeg/kVsDPMXatzKoU3fXPiRCUnDXtBfCbghPcnBLKXJwSyk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60372721/%E7%99%BD%E5%AE%AE%E5%AE%98%E5%93%A1-%E6%9C%88%E4%B9%8B%E6%9A%97%E9%9D%A2%E7%AB%8A%E5%8F%96anthropic%E6%8A%80%E8%A1%93%E5%8F%8A%E9%81%95%E8%A6%8F%E4%BD%BF%E7%94%A8%E8%8B%B1%E5%81%89%E9%81%94ai%E6%99%B6%E7%89%87",
-    "timestamp": "2026-07-22T19:53:19.809Z",
     "strategy": ".content-card__main"
   }
 ];
