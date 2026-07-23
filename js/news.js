@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-23T00:49:58.734Z
+// Last updated: 2026-07-23T01:25:16.703Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "納斯達克清理「微信女」股　若連續30日市值低於500萬美元須退市",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20241017/923388318434201600269370.jpeg/h2uXmhoM-zgtbc4n5qQhU68mCsW--mY56oxezuqMXs4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60372741/%E7%B4%8D%E6%96%AF%E9%81%94%E5%85%8B%E6%B8%85%E7%90%86-%E5%BE%AE%E4%BF%A1%E5%A5%B3-%E8%82%A1-%E8%8B%A5%E9%80%A3%E7%BA%8C30%E6%97%A5%E5%B8%82%E5%80%BC%E4%BD%8E%E6%96%BC500%E8%90%AC%E7%BE%8E%E5%85%83%E9%A0%88%E9%80%80%E5%B8%82",
+    "timestamp": "2026-07-23T01:25:16.703Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "東張西望｜9旬翁被送飯阿姐謀層樓　激動否認有路：我最憎人鹹濕",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/4699259/org/377383dd6b57168f4aa7bfda74303ed1.jpg/cHB9Ca9f_aKgbIqsbiV6J2OV4m4R0q6YYxpyEmMachI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60372679/%E6%B7%B1%E6%B0%B4%E5%9F%97%E7%9A%84%E5%A3%AB%E6%92%9E%E5%A5%B3%E9%80%94%E4%BA%BA%E8%A2%AB%E7%B4%A2%E5%84%9F-%E8%AD%89%E4%BA%BA%E5%90%8C%E6%84%8F%E7%A4%BA%E5%A8%81%E8%80%85%E7%98%8B%E7%99%B2-%E4%B8%94%E6%9A%B4%E5%8A%9B%E8%A5%B2%E6%93%8A%E5%8F%B8%E6%A9%9F",
     "timestamp": "2026-07-22T11:45:11.514Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "ACGHK動漫節2026｜12大必去購物打卡攤位推薦｜門票獨家優惠減$7",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260720/1155904356122365952692307.jpeg/D6Om_358VFOm2VuJGHDmRXLICprbGdaLCFEvGwhRLxs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60371681/acghk%E5%8B%95%E6%BC%AB%E7%AF%802026-12%E5%A4%A7%E5%BF%85%E5%8E%BB%E6%89%93%E5%8D%A1%E8%B3%BC%E7%89%A9%E6%94%A4%E4%BD%8D%E6%8E%A8%E8%96%A6-%E9%96%80%E7%A5%A8%E7%8D%A8%E5%AE%B6%E5%84%AA%E6%83%A0%E6%B8%9B-7",
-    "timestamp": "2026-07-22T11:02:02.313Z",
     "strategy": ".content-card__main"
   }
 ];
