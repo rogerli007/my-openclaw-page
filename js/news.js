@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-23T17:05:19.792Z
+// Last updated: 2026-07-23T17:51:55.510Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美沙簽核協議　特朗普事後「加料」：前提是須與以色列關係正常化",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260713/1153466384278097920743095.jpeg/ZGJ4zs78RbEwwVaRva39hcjB_aqpBN1FWHBg-VhwYPk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60373072/%E7%BE%8E%E6%B2%99%E7%B0%BD%E6%A0%B8%E5%8D%94%E8%AD%B0-%E7%89%B9%E6%9C%97%E6%99%AE%E4%BA%8B%E5%BE%8C-%E5%8A%A0%E6%96%99-%E5%89%8D%E6%8F%90%E6%98%AF%E9%A0%88%E8%88%87%E4%BB%A5%E8%89%B2%E5%88%97%E9%97%9C%E4%BF%82%E6%AD%A3%E5%B8%B8%E5%8C%96",
+    "timestamp": "2026-07-23T17:51:55.510Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "證券行前員工涉盜$1900萬公款　38歲男助洗黑錢達$390萬囚36個月",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260723/1156817962527625216940182.jpeg/NB5ini0PSXmJAO1YwTcCmiyZzLR_wCny4WFckeFhXJE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60372725/4%E5%90%8D%E4%B8%AD%E6%9D%B1%E6%AE%89%E8%81%B7%E7%BE%8E%E8%BB%8D%E9%81%BA%E9%AB%94%E7%A7%BB%E9%80%81%E5%9B%9E%E5%9C%8B-%E7%89%B9%E6%9C%97%E6%99%AE%E5%88%B0%E5%A0%B4%E8%BF%8E%E6%8E%A5%E5%90%91%E9%9D%88%E6%9F%A9%E6%95%AC%E7%A6%AE-%E6%9C%89%E7%89%87",
     "timestamp": "2026-07-22T20:59:13.901Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "利物浦與警方合作打擊黃牛黨　逾400人被終身禁止入場觀賽",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260723/1156809918519447552139287.jpeg/nxtfOa3fO6w76xLQwkIOtpdCXPhrLnbtGJCy2xiQsts?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60372724/%E5%88%A9%E7%89%A9%E6%B5%A6%E8%88%87%E8%AD%A6%E6%96%B9%E5%90%88%E4%BD%9C%E6%89%93%E6%93%8A%E9%BB%83%E7%89%9B%E9%BB%A8-%E9%80%BE400%E4%BA%BA%E8%A2%AB%E7%B5%82%E8%BA%AB%E7%A6%81%E6%AD%A2%E5%85%A5%E5%A0%B4%E8%A7%80%E8%B3%BD",
-    "timestamp": "2026-07-22T20:38:56.509Z",
     "strategy": ".content-card__main"
   }
 ];
