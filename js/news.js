@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-22T23:56:25.768Z
+// Last updated: 2026-07-23T00:49:58.734Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "東張西望｜9旬翁被送飯阿姐謀層樓　激動否認有路：我最憎人鹹濕",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260722/1156739766197161984372459.jpeg/xh76FDv17_ZPDj6sTEzKBHyolPXaGiZK-0bShPtG0oQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60372709/%E6%9D%B1%E5%BC%B5%E8%A5%BF%E6%9C%9B-9%E6%97%AC%E7%BF%81%E8%A2%AB%E9%80%81%E9%A3%AF%E9%98%BF%E5%A7%90%E8%AC%80%E5%B1%A4%E6%A8%93-%E6%BF%80%E5%8B%95%E5%90%A6%E8%AA%8D%E6%9C%89%E8%B7%AF-%E6%88%91%E6%9C%80%E6%86%8E%E4%BA%BA%E9%B9%B9%E6%BF%95",
+    "timestamp": "2026-07-23T00:49:58.734Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "打風｜天文台路徑圖：熱帶低氣壓將成颱風　周日凌晨登陸汕頭一帶",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260720/1155904356122365952692307.jpeg/D6Om_358VFOm2VuJGHDmRXLICprbGdaLCFEvGwhRLxs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60371681/acghk%E5%8B%95%E6%BC%AB%E7%AF%802026-12%E5%A4%A7%E5%BF%85%E5%8E%BB%E6%89%93%E5%8D%A1%E8%B3%BC%E7%89%A9%E6%94%A4%E4%BD%8D%E6%8E%A8%E8%96%A6-%E9%96%80%E7%A5%A8%E7%8D%A8%E5%AE%B6%E5%84%AA%E6%83%A0%E6%B8%9B-7",
     "timestamp": "2026-07-22T11:02:02.313Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "麥當勞食客流感快測呈陽性！檢測棒隨手棄置餐盤　遭斥播毒：自私",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260721/1156220474024267776415829.jpeg/d_nFVWYtrJUsTLrgLNToFxIDTuLhBHzAWQ57qFkOe6g?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60371975/%E9%BA%A5%E7%95%B6%E5%8B%9E%E9%A3%9F%E5%AE%A2%E6%B5%81%E6%84%9F%E5%BF%AB%E6%B8%AC%E5%91%88%E9%99%BD%E6%80%A7-%E6%AA%A2%E6%B8%AC%E6%A3%92%E9%9A%A8%E6%89%8B%E6%A3%84%E7%BD%AE%E9%A4%90%E7%9B%A4-%E9%81%AD%E6%96%A5%E6%92%AD%E6%AF%92-%E8%87%AA%E7%A7%81",
-    "timestamp": "2026-07-22T10:10:07.904Z",
     "strategy": ".content-card__main"
   }
 ];
