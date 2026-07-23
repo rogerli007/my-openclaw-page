@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-23T01:25:16.703Z
+// Last updated: 2026-07-23T05:00:43.491Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "朱維德喪禮｜FB版主冀記住朱翁笑聲與貢獻：當佢去一個未知旅程",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260723/1156946661000351744617425.jpeg/g9e2-FC9H1Z6vzh-3Vb9YHGjvp_R3_SiF8YRwBfGEcA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60372846/%E6%9C%B1%E7%B6%AD%E5%BE%B7%E5%96%AA%E7%A6%AE-fb%E7%89%88%E4%B8%BB%E5%86%80%E8%A8%98%E4%BD%8F%E6%9C%B1%E7%BF%81%E7%AC%91%E8%81%B2%E8%88%87%E8%B2%A2%E7%8D%BB-%E7%95%B6%E4%BD%A2%E5%8E%BB%E4%B8%80%E5%80%8B%E6%9C%AA%E7%9F%A5%E6%97%85%E7%A8%8B",
+    "timestamp": "2026-07-23T05:00:43.491Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "納斯達克清理「微信女」股　若連續30日市值低於500萬美元須退市",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260722/1156626590193422336241097.jpeg/MsnyybLh_sJ6sJUDj07DCwgeuxkwPG3CrZRVSq2UVUo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60372563/%E9%9D%9E%E4%BB%BD%E4%B9%8B%E7%BD%AA-%E7%BE%85%E5%86%A0%E8%98%AD%E7%88%86%E6%95%99%E7%A7%91%E6%9B%B8%E7%B4%9A%E6%BC%94%E6%8A%80-%E8%83%A1%E6%95%8F%E8%8A%9D%E6%87%B8%E5%B4%96%E9%82%8A%E6%8C%91%E6%88%B0%E6%A5%B5%E9%99%90%E7%8E%A9%E9%A3%9B%E7%B4%A2",
     "timestamp": "2026-07-22T12:20:22.449Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "深水埗的士撞女途人被索償　證人同意示威者瘋癲　且暴力襲擊司機",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/4699259/org/377383dd6b57168f4aa7bfda74303ed1.jpg/cHB9Ca9f_aKgbIqsbiV6J2OV4m4R0q6YYxpyEmMachI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60372679/%E6%B7%B1%E6%B0%B4%E5%9F%97%E7%9A%84%E5%A3%AB%E6%92%9E%E5%A5%B3%E9%80%94%E4%BA%BA%E8%A2%AB%E7%B4%A2%E5%84%9F-%E8%AD%89%E4%BA%BA%E5%90%8C%E6%84%8F%E7%A4%BA%E5%A8%81%E8%80%85%E7%98%8B%E7%99%B2-%E4%B8%94%E6%9A%B4%E5%8A%9B%E8%A5%B2%E6%93%8A%E5%8F%B8%E6%A9%9F",
-    "timestamp": "2026-07-22T11:45:11.514Z",
     "strategy": ".content-card__main"
   }
 ];
