@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-23T10:08:50.913Z
+// Last updated: 2026-07-23T11:08:00.277Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "中年好聲音4丨10強夥前輩演繹經典金曲　周志康激情合唱關楚耀",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260723/1156928931052392448842397.jpeg/ct0tCIVHLHy0L7er2Kz4bzQVKIB2_r2QpsuRlKbLkZQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60372799/%E4%B8%AD%E5%B9%B4%E5%A5%BD%E8%81%B2%E9%9F%B34-10%E5%BC%B7%E5%A4%A5%E5%89%8D%E8%BC%A9%E6%BC%94%E7%B9%B9%E7%B6%93%E5%85%B8%E9%87%91%E6%9B%B2-%E5%91%A8%E5%BF%97%E5%BA%B7%E6%BF%80%E6%83%85%E5%90%88%E5%94%B1%E9%97%9C%E6%A5%9A%E8%80%80",
+    "timestamp": "2026-07-23T11:08:00.277Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "剴剴案︱台1歲童遭虐死引公憤　保母終審判囚終身、保母妹囚18年",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260722/1156656228814819328012573.jpeg/n_TgjVYrYkrVsyiFef4nUpIeVp_CqLmQSGQ7mkhkO5o?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60372521/%E5%A5%A7%E5%BE%B7%E8%B3%BD-%E8%B7%AF%E8%98%AD%E8%BF%BD%E6%B1%82%E6%A5%B5%E8%87%B4%E7%9C%9F%E5%AF%A6%E6%84%9F%E6%89%93%E9%80%A010%E7%B1%B3%E6%9C%A8%E9%A6%AC-5300%E5%A5%97%E6%88%B2%E6%9C%8D%E5%85%A8%E4%BA%BA%E6%89%8B%E8%A3%BD%E4%BD%9C",
     "timestamp": "2026-07-22T16:07:07.527Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "Samsung Z Fold 8系列登場｜屏幕新比例極薄摺機融合頂尖AI效能",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260722/1156657525173522432197358.jpeg/d5cOuOKZP2ZKBPrAMvc1IRMYfNtqwmI8ZyJar2ciWq8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60372044/samsung-z-fold-8%E7%B3%BB%E5%88%97%E7%99%BB%E5%A0%B4-%E5%B1%8F%E5%B9%95%E6%96%B0%E6%AF%94%E4%BE%8B%E6%A5%B5%E8%96%84%E6%91%BA%E6%A9%9F%E8%9E%8D%E5%90%88%E9%A0%82%E5%B0%96ai%E6%95%88%E8%83%BD",
-    "timestamp": "2026-07-22T15:27:36.269Z",
     "strategy": ".content-card__main"
   }
 ];
