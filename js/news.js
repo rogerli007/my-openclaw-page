@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-23T13:07:15.794Z
+// Last updated: 2026-07-23T14:00:16.583Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "劍擊世錦賽｜港隊男重兩將闖正賽　吳浩天奮鬥有回報何瑋桁齊過關",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260723/1157071470648627200913284.jpeg/kjiu4UNGooJMNgmjq642tW7Z91vNO0JlUMsvz1DLL88?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60372911/%E5%8A%8D%E6%93%8A%E4%B8%96%E9%8C%A6%E8%B3%BD-%E6%B8%AF%E9%9A%8A%E7%94%B7%E9%87%8D%E5%85%A9%E5%B0%87%E9%97%96%E6%AD%A3%E8%B3%BD-%E5%90%B3%E6%B5%A9%E5%A4%A9%E5%A5%AE%E9%AC%A5%E6%9C%89%E5%9B%9E%E5%A0%B1%E4%BD%95%E7%91%8B%E6%A1%81%E9%BD%8A%E9%81%8E%E9%97%9C",
+    "timestamp": "2026-07-23T14:00:16.583Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "泰國寺廟翻新驚揭地底密室　佛像下挖出紅木棺　神秘女屍身份曝光",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260723/1156777237622558720872410.jpeg/EJDDkGkiD91dMjQZB5qZy6kxxlil8gaFGRG2KBkRtig?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60372718/%E5%96%AC%E6%B2%BB%E7%8E%8B%E5%AD%9013%E6%AD%B2%E7%94%9F%E6%97%A5-%E6%85%B6%E7%94%9F%E7%85%A7%E5%BD%B0%E6%88%90%E7%86%9F%E4%B8%80%E9%9D%A2-9%E6%9C%88%E5%8D%87%E4%B8%AD%E8%AE%80%E7%88%B6%E8%A6%AA%E6%AF%8D%E6%A0%A1-%E6%9C%89%E7%89%87",
     "timestamp": "2026-07-22T18:14:27.057Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "劍擊世錦賽｜博茨瓦納重劍第一人　逐奧運夢困難重重仍砥礪前行",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260722/1156722948745203712307465.jpeg/02VhjP_MPd6newMW4SncnrCXQ6yhssKtfjLO4H4yzuA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60372546/%E5%8A%8D%E6%93%8A%E4%B8%96%E9%8C%A6%E8%B3%BD-%E5%8D%9A%E8%8C%A8%E7%93%A6%E7%B4%8D%E9%87%8D%E5%8A%8D%E7%AC%AC%E4%B8%80%E4%BA%BA-%E9%80%90%E5%A5%A7%E9%81%8B%E5%A4%A2%E5%9B%B0%E9%9B%A3%E9%87%8D%E9%87%8D%E4%BB%8D%E7%A0%A5%E7%A4%AA%E5%89%8D%E8%A1%8C",
-    "timestamp": "2026-07-22T17:37:03.554Z",
     "strategy": ".content-card__main"
   }
 ];
