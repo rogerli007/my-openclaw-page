@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-23T17:51:55.510Z
+// Last updated: 2026-07-23T18:37:03.507Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "伊朗警告向美軍借出基地或受襲　英國：武裝部隊做好準備捍衛安全",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260305/1106086321375416320367925.jpeg/c7s5-5-fp_Y22WAyYxU_GToAjcD6_P63Tymxkk8psZI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60373077/%E4%BC%8A%E6%9C%97%E8%AD%A6%E5%91%8A%E5%90%91%E7%BE%8E%E8%BB%8D%E5%80%9F%E5%87%BA%E5%9F%BA%E5%9C%B0%E6%88%96%E5%8F%97%E8%A5%B2-%E8%8B%B1%E5%9C%8B-%E6%AD%A6%E8%A3%9D%E9%83%A8%E9%9A%8A%E5%81%9A%E5%A5%BD%E6%BA%96%E5%82%99%E6%8D%8D%E8%A1%9B%E5%AE%89%E5%85%A8",
+    "timestamp": "2026-07-23T18:37:03.507Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美沙簽核協議　特朗普事後「加料」：前提是須與以色列關係正常化",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260723/1156817962527625216940182.jpeg/NB5ini0PSXmJAO1YwTcCmiyZzLR_wCny4WFckeFhXJE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60372725/4%E5%90%8D%E4%B8%AD%E6%9D%B1%E6%AE%89%E8%81%B7%E7%BE%8E%E8%BB%8D%E9%81%BA%E9%AB%94%E7%A7%BB%E9%80%81%E5%9B%9E%E5%9C%8B-%E7%89%B9%E6%9C%97%E6%99%AE%E5%88%B0%E5%A0%B4%E8%BF%8E%E6%8E%A5%E5%90%91%E9%9D%88%E6%9F%A9%E6%95%AC%E7%A6%AE-%E6%9C%89%E7%89%87",
     "timestamp": "2026-07-22T21:32:41.059Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "4名中東殉職美軍遺體移送回國　特朗普到場迎接向靈柩敬禮｜有片",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260723/1156817962527625216940182.jpeg/NB5ini0PSXmJAO1YwTcCmiyZzLR_wCny4WFckeFhXJE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60372725/4%E5%90%8D%E4%B8%AD%E6%9D%B1%E6%AE%89%E8%81%B7%E7%BE%8E%E8%BB%8D%E9%81%BA%E9%AB%94%E7%A7%BB%E9%80%81%E5%9B%9E%E5%9C%8B-%E7%89%B9%E6%9C%97%E6%99%AE%E5%88%B0%E5%A0%B4%E8%BF%8E%E6%8E%A5%E5%90%91%E9%9D%88%E6%9F%A9%E6%95%AC%E7%A6%AE-%E6%9C%89%E7%89%87",
-    "timestamp": "2026-07-22T20:59:13.901Z",
     "strategy": ".content-card__main"
   }
 ];
