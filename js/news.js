@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-23T15:47:16.724Z
+// Last updated: 2026-07-23T16:21:10.525Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "特朗普稱正考慮重啟大規模攻擊伊朗　美眾議院再通過決議要求終戰",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250417/989406414021595136526730.jpeg/SF-FuWuHg9qbWHx77eQOKNFX4po-mhi94eoH7uHqB-4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60373064/%E7%89%B9%E6%9C%97%E6%99%AE%E7%A8%B1%E6%AD%A3%E8%80%83%E6%85%AE%E9%87%8D%E5%95%9F%E5%A4%A7%E8%A6%8F%E6%A8%A1%E6%94%BB%E6%93%8A%E4%BC%8A%E6%9C%97-%E7%BE%8E%E7%9C%BE%E8%AD%B0%E9%99%A2%E5%86%8D%E9%80%9A%E9%81%8E%E6%B1%BA%E8%AD%B0%E8%A6%81%E6%B1%82%E7%B5%82%E6%88%B0",
+    "timestamp": "2026-07-23T16:21:10.525Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "英媒：日本投資美國核能項目陷僵局　核災責任歸屬難釐清",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260512/1130914931919556608105429.jpeg/kVsDPMXatzKoU3fXPiRCUnDXtBfCbghPcnBLKXJwSyk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60372721/%E7%99%BD%E5%AE%AE%E5%AE%98%E5%93%A1-%E6%9C%88%E4%B9%8B%E6%9A%97%E9%9D%A2%E7%AB%8A%E5%8F%96anthropic%E6%8A%80%E8%A1%93%E5%8F%8A%E9%81%95%E8%A6%8F%E4%BD%BF%E7%94%A8%E8%8B%B1%E5%81%89%E9%81%94ai%E6%99%B6%E7%89%87",
     "timestamp": "2026-07-22T19:53:19.809Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "羅浮宮阿波羅長廊重新開放　不再展出珠寶",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260723/1156781891496448000143750.jpeg/YqU_9ea3mMZbvBwXuSxOeify9wvcw7OQea3p-3mt6fs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60372719/%E7%BE%85%E6%B5%AE%E5%AE%AE%E9%98%BF%E6%B3%A2%E7%BE%85%E9%95%B7%E5%BB%8A%E9%87%8D%E6%96%B0%E9%96%8B%E6%94%BE-%E4%B8%8D%E5%86%8D%E5%B1%95%E5%87%BA%E7%8F%A0%E5%AF%B6",
-    "timestamp": "2026-07-22T18:45:16.760Z",
     "strategy": ".content-card__main"
   }
 ];
