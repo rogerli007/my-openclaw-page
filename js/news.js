@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-23T22:29:18.780Z
+// Last updated: 2026-07-23T23:27:32.279Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "卡尼：倘無法就美國新關稅達協議　加拿大將不惜一切捍衛利益",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260724/1157218691184594944407561.jpeg/zBQyFkJPC8VaMnWDf_u747C8vvAUxvcQTJ-El0yfhJc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60373098/%E5%8D%A1%E5%B0%BC-%E5%80%98%E7%84%A1%E6%B3%95%E5%B0%B1%E7%BE%8E%E5%9C%8B%E6%96%B0%E9%97%9C%E7%A8%85%E9%81%94%E5%8D%94%E8%AD%B0-%E5%8A%A0%E6%8B%BF%E5%A4%A7%E5%B0%87%E4%B8%8D%E6%83%9C%E4%B8%80%E5%88%87%E6%8D%8D%E8%A1%9B%E5%88%A9%E7%9B%8A",
+    "timestamp": "2026-07-23T23:27:32.279Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "北上就醫指南│住院+門診保障　一份醫保無縫覆蓋兩地醫療需要",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260723/1156952603746111488397624.jpeg/hHwk6hE21dbNSHjhcT_UYRvq-yRpieHNkjPfcZIz33E?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60372864/%E9%AD%AF%E6%AF%94%E5%A5%A7-%E5%8F%8D%E5%B0%8D%E5%8C%97%E4%BA%AC%E6%B4%BE%E6%B5%B7%E8%AD%A6%E8%88%B9%E5%89%8D%E5%BE%80%E5%8F%B0%E6%B5%B7-%E6%9C%89%E9%81%95%E9%9B%99%E6%96%B9%E6%88%B0%E7%95%A5%E7%A9%A9%E5%AE%9A%E5%85%B1%E8%AD%98",
     "timestamp": "2026-07-23T06:08:36.512Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "朱維德喪禮｜FB版主冀記住朱翁笑聲與貢獻：當佢去一個未知旅程",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260723/1156946661000351744617425.jpeg/g9e2-FC9H1Z6vzh-3Vb9YHGjvp_R3_SiF8YRwBfGEcA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60372846/%E6%9C%B1%E7%B6%AD%E5%BE%B7%E5%96%AA%E7%A6%AE-fb%E7%89%88%E4%B8%BB%E5%86%80%E8%A8%98%E4%BD%8F%E6%9C%B1%E7%BF%81%E7%AC%91%E8%81%B2%E8%88%87%E8%B2%A2%E7%8D%BB-%E7%95%B6%E4%BD%A2%E5%8E%BB%E4%B8%80%E5%80%8B%E6%9C%AA%E7%9F%A5%E6%97%85%E7%A8%8B",
-    "timestamp": "2026-07-23T05:00:43.491Z",
     "strategy": ".content-card__main"
   }
 ];
