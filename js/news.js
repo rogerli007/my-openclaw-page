@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-23T19:52:06.957Z
+// Last updated: 2026-07-23T20:32:48.535Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "布油飆7%重上100美元關　紐約期油高收6.17%",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20241004/918719466295005184417092.jpeg/72rRTdU3_HN-MTQNG4w9xlFUehCBhqbIbaL7-G2i-_g?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60373089/%E5%B8%83%E6%B2%B9%E9%A3%867-%E9%87%8D%E4%B8%8A100%E7%BE%8E%E5%85%83%E9%97%9C-%E7%B4%90%E7%B4%84%E6%9C%9F%E6%B2%B9%E9%AB%98%E6%94%B66-17",
+    "timestamp": "2026-07-23T20:32:48.535Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "特朗普稱習近平將於9月24日訪美：將與對方討論人工智能議題",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260722/1156630860712120320927053.jpeg/end8DSIsfL34lhj2ZEW_b9XC3YaYvr6dAA3IfwANyH8",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60371781/ikea%E4%B8%8D%E9%9B%85%E7%89%87%E7%98%8B%E5%82%B3-%E7%94%B7%E5%A5%B3%E8%BA%BA%E5%BA%8A%E4%B8%8A%E6%BF%80%E6%88%B0-1%E8%88%89%E5%8B%95%E6%9B%B4%E8%A1%B0%E9%9C%87%E6%92%BC%E5%85%A8%E7%B6%B2-%E4%B8%8D%E5%AE%B3%E8%87%8A%E5%97%8E",
     "timestamp": "2026-07-22T23:29:09.392Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "性格視帝拖嫩妻放閃爆肌回春獲讚　曾遭老婆爆「第一次」表現冷淡",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260722/1156637743711784960184053.jpeg/lY5mqWYcf5ekpXDlBe0mjxPEUE-OuYcjB-SsuAfkrLg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60372472/%E9%84%AD%E5%98%89%E7%A9%8E%E6%8B%96%E9%99%B3%E5%87%B1%E7%90%B3%E6%94%BE%E9%96%83%E7%88%86%E8%82%8C%E5%9B%9E%E6%98%A5%E7%8D%B2%E8%AE%9A-%E6%9B%BE%E9%81%AD%E8%80%81%E5%A9%86%E7%88%86-%E7%AC%AC%E4%B8%80%E6%AC%A1-%E8%A1%A8%E7%8F%BE%E5%86%B7%E6%B7%A1",
-    "timestamp": "2026-07-22T22:30:10.078Z",
     "strategy": ".content-card__main"
   }
 ];
