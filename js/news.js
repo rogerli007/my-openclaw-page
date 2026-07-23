@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-23T06:08:36.512Z
+// Last updated: 2026-07-23T08:07:12.509Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "研究證凍豆腐富含抗性蛋白質　降膽固醇改善脂肪肝與一般豆腐不同",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260706/1150805212772962304946031.jpeg/ueodzehX0uPLevqHGt-Gs7NSEFqPjDSR8Qsdr_ELHa8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60367032/%E7%A0%94%E7%A9%B6%E8%AD%89%E5%87%8D%E8%B1%86%E8%85%90%E5%AF%8C%E5%90%AB%E6%8A%97%E6%80%A7%E8%9B%8B%E7%99%BD%E8%B3%AA-%E9%99%8D%E8%86%BD%E5%9B%BA%E9%86%87%E6%94%B9%E5%96%84%E8%84%82%E8%82%AA%E8%82%9D%E8%88%87%E4%B8%80%E8%88%AC%E8%B1%86%E8%85%90%E4%B8%8D%E5%90%8C",
+    "timestamp": "2026-07-23T08:07:12.509Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "魯比奧：反對北京派海警船前往台海　有違雙方戰略穩定共識",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260722/1156698659786592256802943.jpeg/NwSfYs_4QoUGxNbWn8hmMFhfibU0IPEu_cgoKv3IKCo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60372687/%E8%AC%9D%E5%B1%95%E5%AF%B0%E8%A8%AA%E9%9D%92%E6%B5%B7%E5%88%B0%E7%A5%81%E9%80%A3%E5%B1%B1-%E5%B4%97%E4%BB%80%E5%8D%A1%E9%9B%AA%E5%B3%B0-%E5%80%9F%E9%8F%A1%E7%94%9F%E6%85%8B%E7%94%A2%E6%A5%AD%E7%B6%93%E9%A9%97%E5%8A%A9%E6%B8%AF%E8%BD%89%E5%9E%8B",
     "timestamp": "2026-07-22T14:00:20.358Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "台灣行政院宣布8月舉行首次「斷網演習」　台北台中網絡受限",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260617/1143976934649106432068125.jpeg/9J-IgAA2S8JhraZ6mTwMcpdq3dfB7fgXlY2iVJWNolQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8F%B0%E7%81%A3%E6%96%B0%E8%81%9E/60372688/%E5%8F%B0%E7%81%A3%E8%A1%8C%E6%94%BF%E9%99%A2%E5%AE%A3%E5%B8%838%E6%9C%88%E8%88%89%E8%A1%8C%E9%A6%96%E6%AC%A1-%E6%96%B7%E7%B6%B2%E6%BC%94%E7%BF%92-%E5%8F%B0%E5%8C%97%E5%8F%B0%E4%B8%AD%E7%B6%B2%E7%B5%A1%E5%8F%97%E9%99%90",
-    "timestamp": "2026-07-22T13:07:03.603Z",
     "strategy": ".content-card__main"
   }
 ];
