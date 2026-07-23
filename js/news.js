@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-23T05:00:43.491Z
+// Last updated: 2026-07-23T06:08:36.512Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "魯比奧：反對北京派海警船前往台海　有違雙方戰略穩定共識",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260723/1156952603746111488397624.jpeg/hHwk6hE21dbNSHjhcT_UYRvq-yRpieHNkjPfcZIz33E?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60372864/%E9%AD%AF%E6%AF%94%E5%A5%A7-%E5%8F%8D%E5%B0%8D%E5%8C%97%E4%BA%AC%E6%B4%BE%E6%B5%B7%E8%AD%A6%E8%88%B9%E5%89%8D%E5%BE%80%E5%8F%B0%E6%B5%B7-%E6%9C%89%E9%81%95%E9%9B%99%E6%96%B9%E6%88%B0%E7%95%A5%E7%A9%A9%E5%AE%9A%E5%85%B1%E8%AD%98",
+    "timestamp": "2026-07-23T06:08:36.512Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "朱維德喪禮｜FB版主冀記住朱翁笑聲與貢獻：當佢去一個未知旅程",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260617/1143976934649106432068125.jpeg/9J-IgAA2S8JhraZ6mTwMcpdq3dfB7fgXlY2iVJWNolQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8F%B0%E7%81%A3%E6%96%B0%E8%81%9E/60372688/%E5%8F%B0%E7%81%A3%E8%A1%8C%E6%94%BF%E9%99%A2%E5%AE%A3%E5%B8%838%E6%9C%88%E8%88%89%E8%A1%8C%E9%A6%96%E6%AC%A1-%E6%96%B7%E7%B6%B2%E6%BC%94%E7%BF%92-%E5%8F%B0%E5%8C%97%E5%8F%B0%E4%B8%AD%E7%B6%B2%E7%B5%A1%E5%8F%97%E9%99%90",
     "timestamp": "2026-07-22T13:07:03.603Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "非份之罪｜羅冠蘭爆教科書級演技　胡敏芝懸崖邊挑戰極限玩飛索",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260722/1156626590193422336241097.jpeg/MsnyybLh_sJ6sJUDj07DCwgeuxkwPG3CrZRVSq2UVUo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60372563/%E9%9D%9E%E4%BB%BD%E4%B9%8B%E7%BD%AA-%E7%BE%85%E5%86%A0%E8%98%AD%E7%88%86%E6%95%99%E7%A7%91%E6%9B%B8%E7%B4%9A%E6%BC%94%E6%8A%80-%E8%83%A1%E6%95%8F%E8%8A%9D%E6%87%B8%E5%B4%96%E9%82%8A%E6%8C%91%E6%88%B0%E6%A5%B5%E9%99%90%E7%8E%A9%E9%A3%9B%E7%B4%A2",
-    "timestamp": "2026-07-22T12:20:22.449Z",
     "strategy": ".content-card__main"
   }
 ];
