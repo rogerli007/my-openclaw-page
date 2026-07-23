@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-23T12:20:06.050Z
+// Last updated: 2026-07-23T13:07:15.794Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "泰國寺廟翻新驚揭地底密室　佛像下挖出紅木棺　神秘女屍身份曝光",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260722/1156665747385094144182043.png/VW-FTKdRrkP0hDg1Vk0xqO-xGGTJ6C482vxcf9r8XH8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60372225/%E6%B3%B0%E5%9C%8B%E5%AF%BA%E5%BB%9F%E7%BF%BB%E6%96%B0%E9%A9%9A%E6%8F%AD%E5%9C%B0%E5%BA%95%E5%AF%86%E5%AE%A4-%E4%BD%9B%E5%83%8F%E4%B8%8B%E6%8C%96%E5%87%BA%E7%B4%85%E6%9C%A8%E6%A3%BA-%E7%A5%9E%E7%A7%98%E5%A5%B3%E5%B1%8D%E8%BA%AB%E4%BB%BD%E6%9B%9D%E5%85%89",
+    "timestamp": "2026-07-23T13:07:15.794Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "麗英推催淚新歌唱盡生離死別　張國強入行50年獻MV初體驗演父女",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260722/1156722948745203712307465.jpeg/02VhjP_MPd6newMW4SncnrCXQ6yhssKtfjLO4H4yzuA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60372546/%E5%8A%8D%E6%93%8A%E4%B8%96%E9%8C%A6%E8%B3%BD-%E5%8D%9A%E8%8C%A8%E7%93%A6%E7%B4%8D%E9%87%8D%E5%8A%8D%E7%AC%AC%E4%B8%80%E4%BA%BA-%E9%80%90%E5%A5%A7%E9%81%8B%E5%A4%A2%E5%9B%B0%E9%9B%A3%E9%87%8D%E9%87%8D%E4%BB%8D%E7%A0%A5%E7%A4%AA%E5%89%8D%E8%A1%8C",
     "timestamp": "2026-07-22T17:37:03.554Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "蚊患｜馬鞍山誘蚊指數達22.7%　大埔西4場所被發清除積水通知書",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260723/1156760175131365376157029.jpeg/4YfosMVRuZj2fNR5CBN0Xn0cxCq3QLjOSnOsRkpzrEY?v=w1920r16_9",
-    "url": "https://www.hk01.com/18%E5%8D%80%E6%96%B0%E8%81%9E/60372715/%E8%9A%8A%E6%82%A3-%E9%A6%AC%E9%9E%8D%E5%B1%B1%E8%AA%98%E8%9A%8A%E6%8C%87%E6%95%B8%E9%81%9422-7-%E5%A4%A7%E5%9F%94%E8%A5%BF4%E5%A0%B4%E6%89%80%E8%A2%AB%E7%99%BC%E6%B8%85%E9%99%A4%E7%A9%8D%E6%B0%B4%E9%80%9A%E7%9F%A5%E6%9B%B8",
-    "timestamp": "2026-07-22T16:52:10.784Z",
     "strategy": ".content-card__main"
   }
 ];
