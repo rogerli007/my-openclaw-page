@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-24T01:21:24.836Z
+// Last updated: 2026-07-24T02:24:22.405Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "港人日本自駕遊意外　保聯教路　倘遇意外採取六措施",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/2774428/org/b73cd9922c3f56d5b4cb017b85821000.jpg/eF69C_LrJ2J-EZmxih8t3iKpT7eFLCC8w9ed1MPXndQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60373141/%E6%B8%AF%E4%BA%BA%E6%97%A5%E6%9C%AC%E8%87%AA%E9%A7%95%E9%81%8A%E6%84%8F%E5%A4%96-%E4%BF%9D%E8%81%AF%E6%95%99%E8%B7%AF-%E5%80%98%E9%81%87%E6%84%8F%E5%A4%96%E6%8E%A1%E5%8F%96%E5%85%AD%E6%8E%AA%E6%96%BD",
+    "timestamp": "2026-07-24T02:24:22.405Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "滙豐續售非核心資產　售新加坡壽險及健康險業務　作價21億美元",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250501/994552880818032640801523.jpeg/C0Dl9hf_NLMoNlMsg4XdwOe_EY-FCqTfA7vGPAO7xjw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8F%B0%E7%81%A3%E6%96%B0%E8%81%9E/60372971/%E5%89%B4%E5%89%B4%E6%A1%88-%E5%8F%B01%E6%AD%B2%E7%AB%A5%E9%81%AD%E8%99%90%E6%AD%BB%E5%BC%95%E5%85%AC%E6%86%A4-%E4%BF%9D%E6%AF%8D%E7%B5%82%E5%AF%A9%E5%88%A4%E5%9B%9A%E7%B5%82%E8%BA%AB-%E4%BF%9D%E6%AF%8D%E5%A6%B9%E5%9B%9A18%E5%B9%B4",
     "timestamp": "2026-07-23T10:08:50.913Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "打風│天文台調整紅霞登陸位置更接近香港　是否掛更高風球看3因素",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260723/1157009288456048640926514.jpeg/_igfHeJowVIfWxBh1cSE0p0BJKvzs8d3Osf2hTrH9oU",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60372967/%E6%89%93%E9%A2%A8-%E5%A4%A9%E6%96%87%E5%8F%B0%E8%AA%BF%E6%95%B4%E7%B4%85%E9%9C%9E%E7%99%BB%E9%99%B8%E4%BD%8D%E7%BD%AE%E6%9B%B4%E6%8E%A5%E8%BF%91%E9%A6%99%E6%B8%AF-%E6%98%AF%E5%90%A6%E6%8E%9B%E6%9B%B4%E9%AB%98%E9%A2%A8%E7%90%83%E7%9C%8B3%E5%9B%A0%E7%B4%A0",
-    "timestamp": "2026-07-23T09:14:28.951Z",
     "strategy": ".content-card__main"
   }
 ];
