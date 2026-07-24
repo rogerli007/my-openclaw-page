@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-23T23:27:32.279Z
+// Last updated: 2026-07-24T00:47:13.239Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "動漫節2026 ACGHK會展直擊｜門票獨家優惠｜高達陀螺15大必去攤位",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260723/1157110920128761856049378.jpeg/yB0hpoL3ZeG83iCAiLbF8VC6APOfAnMePhEh-D4RIfg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%81%8A%E6%88%B2%E5%8B%95%E6%BC%AB/60372676/%E5%8B%95%E6%BC%AB%E7%AF%802026-acghk%E6%9C%83%E5%B1%95%E7%9B%B4%E6%93%8A-%E9%96%80%E7%A5%A8%E7%8D%A8%E5%AE%B6%E5%84%AA%E6%83%A0-%E9%AB%98%E9%81%94%E9%99%80%E8%9E%BA15%E5%A4%A7%E5%BF%85%E5%8E%BB%E6%94%A4%E4%BD%8D",
+    "timestamp": "2026-07-24T00:47:13.239Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "卡尼：倘無法就美國新關稅達協議　加拿大將不惜一切捍衛利益",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260706/1150805212772962304946031.jpeg/ueodzehX0uPLevqHGt-Gs7NSEFqPjDSR8Qsdr_ELHa8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60367032/%E7%A0%94%E7%A9%B6%E8%AD%89%E5%87%8D%E8%B1%86%E8%85%90%E5%AF%8C%E5%90%AB%E6%8A%97%E6%80%A7%E8%9B%8B%E7%99%BD%E8%B3%AA-%E9%99%8D%E8%86%BD%E5%9B%BA%E9%86%87%E6%94%B9%E5%96%84%E8%84%82%E8%82%AA%E8%82%9D%E8%88%87%E4%B8%80%E8%88%AC%E8%B1%86%E8%85%90%E4%B8%8D%E5%90%8C",
     "timestamp": "2026-07-23T08:07:12.509Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "魯比奧：反對北京派海警船前往台海　有違雙方戰略穩定共識",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260723/1156952603746111488397624.jpeg/hHwk6hE21dbNSHjhcT_UYRvq-yRpieHNkjPfcZIz33E?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60372864/%E9%AD%AF%E6%AF%94%E5%A5%A7-%E5%8F%8D%E5%B0%8D%E5%8C%97%E4%BA%AC%E6%B4%BE%E6%B5%B7%E8%AD%A6%E8%88%B9%E5%89%8D%E5%BE%80%E5%8F%B0%E6%B5%B7-%E6%9C%89%E9%81%95%E9%9B%99%E6%96%B9%E6%88%B0%E7%95%A5%E7%A9%A9%E5%AE%9A%E5%85%B1%E8%AD%98",
-    "timestamp": "2026-07-23T06:08:36.512Z",
     "strategy": ".content-card__main"
   }
 ];
