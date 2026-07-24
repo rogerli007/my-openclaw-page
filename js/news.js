@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-24T09:04:47.127Z
+// Last updated: 2026-07-24T09:59:22.310Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "韓國SK會長崔泰源世紀離婚案　股價暴升如何計價成關鍵｜新聞背後",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260723/1157015718814814208316084.jpeg/nUASAryN_5gEACqAxi6kLk4wngqHYA6YcyPL23Mjy9s?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60373338/%E9%9F%93%E5%9C%8Bsk%E6%9C%83%E9%95%B7%E5%B4%94%E6%B3%B0%E6%BA%90%E4%B8%96%E7%B4%80%E9%9B%A2%E5%A9%9A%E6%A1%88-%E8%82%A1%E5%83%B9%E6%9A%B4%E5%8D%87%E5%A6%82%E4%BD%95%E8%A8%88%E5%83%B9%E6%88%90%E9%97%9C%E9%8D%B5-%E6%96%B0%E8%81%9E%E8%83%8C%E5%BE%8C",
+    "timestamp": "2026-07-24T09:59:22.310Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "紅霞｜天文台料周日吹8級風　打風可否開冷氣？中電：1情況勿開",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260724/1157121777546039296048352.jpeg/wkjGIDtnYBXK61VV57vPUIeRaCO3JARu4btXC9u7Vws?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60373070/%E8%AD%89%E5%88%B8%E8%A1%8C%E5%89%8D%E5%93%A1%E5%B7%A5%E6%B6%89%E7%9B%9C-1900%E8%90%AC%E5%85%AC%E6%AC%BE-38%E6%AD%B2%E7%94%B7%E5%8A%A9%E6%B4%97%E9%BB%91%E9%8C%A2%E9%81%94-390%E8%90%AC%E5%9B%9A36%E5%80%8B%E6%9C%88",
     "timestamp": "2026-07-23T17:05:19.792Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普稱正考慮重啟大規模攻擊伊朗　美眾議院再通過決議要求終戰",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250417/989406414021595136526730.jpeg/SF-FuWuHg9qbWHx77eQOKNFX4po-mhi94eoH7uHqB-4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60373064/%E7%89%B9%E6%9C%97%E6%99%AE%E7%A8%B1%E6%AD%A3%E8%80%83%E6%85%AE%E9%87%8D%E5%95%9F%E5%A4%A7%E8%A6%8F%E6%A8%A1%E6%94%BB%E6%93%8A%E4%BC%8A%E6%9C%97-%E7%BE%8E%E7%9C%BE%E8%AD%B0%E9%99%A2%E5%86%8D%E9%80%9A%E9%81%8E%E6%B1%BA%E8%AD%B0%E8%A6%81%E6%B1%82%E7%B5%82%E6%88%B0",
-    "timestamp": "2026-07-23T16:21:10.525Z",
     "strategy": ".content-card__main"
   }
 ];
