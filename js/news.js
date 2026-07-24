@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-24T04:57:15.881Z
+// Last updated: 2026-07-24T06:05:18.124Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "退休父皮帶抽打過度活躍症女兒　官稱難教非動武理由囚4月准緩刑",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20231027/794648688134721536605218.jpeg/Da8iw2eJecP2Io_MzJQQBqTcMgKeyHfGk3Q-MZN0PjE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60373234/%E9%80%80%E4%BC%91%E7%88%B6%E7%9A%AE%E5%B8%B6%E6%8A%BD%E6%89%93%E9%81%8E%E5%BA%A6%E6%B4%BB%E8%BA%8D%E7%97%87%E5%A5%B3%E5%85%92-%E5%AE%98%E7%A8%B1%E9%9B%A3%E6%95%99%E9%9D%9E%E5%8B%95%E6%AD%A6%E7%90%86%E7%94%B1%E5%9B%9A4%E6%9C%88%E5%87%86%E7%B7%A9%E5%88%91",
+    "timestamp": "2026-07-24T06:05:18.124Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "八達通優惠12大｜惠康減$15+美心月餅買1送1+一田88折+一粥麵減$6",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260722/1156665747385094144182043.png/VW-FTKdRrkP0hDg1Vk0xqO-xGGTJ6C482vxcf9r8XH8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60372225/%E6%B3%B0%E5%9C%8B%E5%AF%BA%E5%BB%9F%E7%BF%BB%E6%96%B0%E9%A9%9A%E6%8F%AD%E5%9C%B0%E5%BA%95%E5%AF%86%E5%AE%A4-%E4%BD%9B%E5%83%8F%E4%B8%8B%E6%8C%96%E5%87%BA%E7%B4%85%E6%9C%A8%E6%A3%BA-%E7%A5%9E%E7%A7%98%E5%A5%B3%E5%B1%8D%E8%BA%AB%E4%BB%BD%E6%9B%9D%E5%85%89",
     "timestamp": "2026-07-23T13:07:15.794Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "麗英推催淚新歌唱盡生離死別　張國強入行50年獻MV初體驗演父女",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260723/1156969975404040192102836.jpeg/YzlaPduLik3fs6OLqPpIfz1JO2A3FTwgK53UpCud1KQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60372890/%E9%BA%97%E8%8B%B1%E6%8E%A8%E5%82%AC%E6%B7%9A%E6%96%B0%E6%AD%8C%E5%94%B1%E7%9B%A1%E7%94%9F%E9%9B%A2%E6%AD%BB%E5%88%A5-%E5%BC%B5%E5%9C%8B%E5%BC%B7%E5%85%A5%E8%A1%8C50%E5%B9%B4%E7%8D%BBmv%E5%88%9D%E9%AB%94%E9%A9%97%E6%BC%94%E7%88%B6%E5%A5%B3",
-    "timestamp": "2026-07-23T12:20:06.050Z",
     "strategy": ".content-card__main"
   }
 ];
