@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-24T14:27:01.637Z
+// Last updated: 2026-07-24T15:50:49.171Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "港鐵車廂MMA｜2男疑推撞口角動手　叉頸出拳纏鬥　乘客觀戰",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260724/1157469368762765312815034.jpeg/VEhV_srOUPieQsWQldxT4XigkulwQ-nwQUnZnUFJ2Z0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60373457/%E6%B8%AF%E9%90%B5%E8%BB%8A%E5%BB%82mma-2%E7%94%B7%E7%96%91%E6%8E%A8%E6%92%9E%E5%8F%A3%E8%A7%92%E5%8B%95%E6%89%8B-%E5%8F%89%E9%A0%B8%E5%87%BA%E6%8B%B3%E7%BA%8F%E9%AC%A5-%E4%B9%98%E5%AE%A2%E8%A7%80%E6%88%B0",
+    "timestamp": "2026-07-24T15:50:49.171Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "大圍世界花園梯間垃圾箱起火　消防認為火警起因有可疑　暫列縱火",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260724/1157171426826915840253086.jpeg/8kp7nK9numCAqXcjsLxzNaSrZVZ3X5UC-8hLd_vIS3c?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60373083/%E8%8B%B1%E5%9C%8B%E6%92%A4%E9%9B%A2%E9%A7%90%E4%BC%8A%E6%9C%97%E5%A4%96%E4%BA%A4%E4%BA%BA%E5%93%A1-%E4%BC%8A%E5%AA%92-%E9%85%8D%E5%90%88%E7%BE%8E%E5%9C%8B%E7%9A%84%E5%BF%83%E7%90%86%E6%88%B0",
     "timestamp": "2026-07-23T21:35:16.935Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "布油飆7%重上100美元關　紐約期油高收6.17%",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20241004/918719466295005184417092.jpeg/72rRTdU3_HN-MTQNG4w9xlFUehCBhqbIbaL7-G2i-_g?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60373089/%E5%B8%83%E6%B2%B9%E9%A3%867-%E9%87%8D%E4%B8%8A100%E7%BE%8E%E5%85%83%E9%97%9C-%E7%B4%90%E7%B4%84%E6%9C%9F%E6%B2%B9%E9%AB%98%E6%94%B66-17",
-    "timestamp": "2026-07-23T20:58:14.831Z",
     "strategy": ".content-card__main"
   }
 ];
