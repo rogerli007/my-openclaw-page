@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-24T20:38:26.068Z
+// Last updated: 2026-07-24T21:14:41.592Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "英偉達等25科企聯署撐開放AI模型　黃仁勳啟用社交媒體X轉載信件",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260725/1157550636523327488764583.jpeg/kOxJwxCfR_cGh3xAcicY8aRgVg0AdaB9RdoQNEXaEDQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60373475/%E8%8B%B1%E5%81%89%E9%81%94%E7%AD%8925%E7%A7%91%E4%BC%81%E8%81%AF%E7%BD%B2%E6%92%90%E9%96%8B%E6%94%BEai%E6%A8%A1%E5%9E%8B-%E9%BB%83%E4%BB%81%E5%8B%B3%E5%95%9F%E7%94%A8%E7%A4%BE%E4%BA%A4%E5%AA%92%E9%AB%94x%E8%BD%89%E8%BC%89%E4%BF%A1%E4%BB%B6",
+    "timestamp": "2026-07-24T21:14:41.592Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "珍惜生命︱長沙灣女子危站停車場高處　逾2小時後被勸服送院檢查",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/2774428/org/b73cd9922c3f56d5b4cb017b85821000.jpg/eF69C_LrJ2J-EZmxih8t3iKpT7eFLCC8w9ed1MPXndQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60373141/%E6%B8%AF%E4%BA%BA%E6%97%A5%E6%9C%AC%E8%87%AA%E9%A7%95%E9%81%8A%E6%84%8F%E5%A4%96-%E4%BF%9D%E8%81%AF%E6%95%99%E8%B7%AF-%E5%80%98%E9%81%87%E6%84%8F%E5%A4%96%E6%8E%A1%E5%8F%96%E5%85%AD%E6%8E%AA%E6%96%BD",
     "timestamp": "2026-07-24T02:24:22.405Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "滙豐續售非核心資產　售新加坡壽險及健康險業務　作價21億美元",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260724/1157251506190159872271083.jpeg/f8lBv9NwQFvTogVozqb9cya016JrdzYwJU3yOiVN8jo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60373111/%E6%BB%99%E8%B1%90%E7%BA%8C%E5%94%AE%E9%9D%9E%E6%A0%B8%E5%BF%83%E8%B3%87%E7%94%A2-%E5%94%AE%E6%96%B0%E5%8A%A0%E5%9D%A1%E5%A3%BD%E9%9A%AA%E5%8F%8A%E5%81%A5%E5%BA%B7%E9%9A%AA%E6%A5%AD%E5%8B%99-%E4%BD%9C%E5%83%B921%E5%84%84%E7%BE%8E%E5%85%83",
-    "timestamp": "2026-07-24T01:21:24.836Z",
     "strategy": ".content-card__main"
   }
 ];
