@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-24T11:28:56.211Z
+// Last updated: 2026-07-24T12:06:45.842Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "台海有戰事｜兩岸「和統」須有三大前提",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260410/1119276998263443456837509.jpeg/20DT270dHGY8Q6ljFEjPECon-AcB22RBgkKS-YJCkvk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E4%B8%AD%E5%9C%8B%E8%A7%80%E5%AF%9F/60373256/%E5%8F%B0%E6%B5%B7%E6%9C%89%E6%88%B0%E4%BA%8B-%E5%85%A9%E5%B2%B8-%E5%92%8C%E7%B5%B1-%E9%A0%88%E6%9C%89%E4%B8%89%E5%A4%A7%E5%89%8D%E6%8F%90",
+    "timestamp": "2026-07-24T12:06:45.842Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "指屋宇署拆僭建物時鑿洞致被爆竊　公司稱失財物600萬　入稟索償",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260516/1132165198929465344845610.jpeg/VfPLSGm5PsEEckNfhC2ueQjO_tDmAp3I-LeuAfi3rgE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60373078/%E7%89%B9%E6%9C%97%E6%99%AE%E7%A8%B1%E7%BF%92%E8%BF%91%E5%B9%B3%E5%B0%87%E6%96%BC9%E6%9C%8824%E6%97%A5%E8%A8%AA%E7%BE%8E-%E5%B0%87%E8%88%87%E5%B0%8D%E6%96%B9%E8%A8%8E%E8%AB%96%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E8%AD%B0%E9%A1%8C",
     "timestamp": "2026-07-23T19:52:06.957Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "伊朗警告向美軍借出基地或受襲　英國：武裝部隊做好準備捍衛安全",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260305/1106086321375416320367925.jpeg/c7s5-5-fp_Y22WAyYxU_GToAjcD6_P63Tymxkk8psZI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60373077/%E4%BC%8A%E6%9C%97%E8%AD%A6%E5%91%8A%E5%90%91%E7%BE%8E%E8%BB%8D%E5%80%9F%E5%87%BA%E5%9F%BA%E5%9C%B0%E6%88%96%E5%8F%97%E8%A5%B2-%E8%8B%B1%E5%9C%8B-%E6%AD%A6%E8%A3%9D%E9%83%A8%E9%9A%8A%E5%81%9A%E5%A5%BD%E6%BA%96%E5%82%99%E6%8D%8D%E8%A1%9B%E5%AE%89%E5%85%A8",
-    "timestamp": "2026-07-23T18:37:03.507Z",
     "strategy": ".content-card__main"
   }
 ];
