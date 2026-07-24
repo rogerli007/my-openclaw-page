@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-24T03:46:53.745Z
+// Last updated: 2026-07-24T04:57:15.881Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "八達通優惠12大｜惠康減$15+美心月餅買1送1+一田88折+一粥麵減$6",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260714/1153666017050759168860241.jpeg/2vS4PhTmvbSafn71sVKr5zjVwGVjhHWUmQYGi5kGBos?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%A3%9F%E7%8E%A9%E8%B2%B7/60373170/%E5%85%AB%E9%81%94%E9%80%9A%E5%84%AA%E6%83%A012%E5%A4%A7-%E6%83%A0%E5%BA%B7%E6%B8%9B-15-%E7%BE%8E%E5%BF%83%E6%9C%88%E9%A4%85%E8%B2%B71%E9%80%811-%E4%B8%80%E7%94%B088%E6%8A%98-%E4%B8%80%E7%B2%A5%E9%BA%B5%E6%B8%9B-6",
+    "timestamp": "2026-07-24T04:57:15.881Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "謝賢離世｜謝霆鋒喪父後首度現身　一身黑衣遵遺訓如期赴青島開唱",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260723/1156969975404040192102836.jpeg/YzlaPduLik3fs6OLqPpIfz1JO2A3FTwgK53UpCud1KQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60372890/%E9%BA%97%E8%8B%B1%E6%8E%A8%E5%82%AC%E6%B7%9A%E6%96%B0%E6%AD%8C%E5%94%B1%E7%9B%A1%E7%94%9F%E9%9B%A2%E6%AD%BB%E5%88%A5-%E5%BC%B5%E5%9C%8B%E5%BC%B7%E5%85%A5%E8%A1%8C50%E5%B9%B4%E7%8D%BBmv%E5%88%9D%E9%AB%94%E9%A9%97%E6%BC%94%E7%88%B6%E5%A5%B3",
     "timestamp": "2026-07-23T12:20:06.050Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "中年好聲音4丨10強夥前輩演繹經典金曲　周志康激情合唱關楚耀",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260723/1156928931052392448842397.jpeg/ct0tCIVHLHy0L7er2Kz4bzQVKIB2_r2QpsuRlKbLkZQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60372799/%E4%B8%AD%E5%B9%B4%E5%A5%BD%E8%81%B2%E9%9F%B34-10%E5%BC%B7%E5%A4%A5%E5%89%8D%E8%BC%A9%E6%BC%94%E7%B9%B9%E7%B6%93%E5%85%B8%E9%87%91%E6%9B%B2-%E5%91%A8%E5%BF%97%E5%BA%B7%E6%BF%80%E6%83%85%E5%90%88%E5%94%B1%E9%97%9C%E6%A5%9A%E8%80%80",
-    "timestamp": "2026-07-23T11:08:00.277Z",
     "strategy": ".content-card__main"
   }
 ];
