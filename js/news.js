@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-24T19:54:04.648Z
+// Last updated: 2026-07-24T20:38:26.068Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "珍惜生命︱長沙灣女子危站停車場高處　逾2小時後被勸服送院檢查",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260725/1157538833512796160315872.jpeg/6mjgAOr5qRighigCeOLrfnLXwd8CB2dDnop_naSKf50?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60373472/%E7%8F%8D%E6%83%9C%E7%94%9F%E5%91%BD-%E9%95%B7%E6%B2%99%E7%81%A3%E5%A5%B3%E5%AD%90%E5%8D%B1%E7%AB%99%E5%81%9C%E8%BB%8A%E5%A0%B4%E9%AB%98%E8%99%95-%E9%80%BE2%E5%B0%8F%E6%99%82%E5%BE%8C%E8%A2%AB%E5%8B%B8%E6%9C%8D%E9%80%81%E9%99%A2%E6%AA%A2%E6%9F%A5",
+    "timestamp": "2026-07-24T20:38:26.068Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "深水埗玩具店售陀螺爆衝突　阿叔起飛腳猛踢　青年疑還擊｜有片",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260724/1157251506190159872271083.jpeg/f8lBv9NwQFvTogVozqb9cya016JrdzYwJU3yOiVN8jo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60373111/%E6%BB%99%E8%B1%90%E7%BA%8C%E5%94%AE%E9%9D%9E%E6%A0%B8%E5%BF%83%E8%B3%87%E7%94%A2-%E5%94%AE%E6%96%B0%E5%8A%A0%E5%9D%A1%E5%A3%BD%E9%9A%AA%E5%8F%8A%E5%81%A5%E5%BA%B7%E9%9A%AA%E6%A5%AD%E5%8B%99-%E4%BD%9C%E5%83%B921%E5%84%84%E7%BE%8E%E5%85%83",
     "timestamp": "2026-07-24T01:21:24.836Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "動漫節2026 ACGHK會展直擊｜門票獨家優惠｜高達陀螺15大必去攤位",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260723/1157110920128761856049378.jpeg/yB0hpoL3ZeG83iCAiLbF8VC6APOfAnMePhEh-D4RIfg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%81%8A%E6%88%B2%E5%8B%95%E6%BC%AB/60372676/%E5%8B%95%E6%BC%AB%E7%AF%802026-acghk%E6%9C%83%E5%B1%95%E7%9B%B4%E6%93%8A-%E9%96%80%E7%A5%A8%E7%8D%A8%E5%AE%B6%E5%84%AA%E6%83%A0-%E9%AB%98%E9%81%94%E9%99%80%E8%9E%BA15%E5%A4%A7%E5%BF%85%E5%8E%BB%E6%94%A4%E4%BD%8D",
-    "timestamp": "2026-07-24T00:47:13.239Z",
     "strategy": ".content-card__main"
   }
 ];
