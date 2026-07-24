@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-24T18:44:59.481Z
+// Last updated: 2026-07-24T19:22:36.823Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "白宮記者晚宴4月遭遇槍擊後今復辦　特朗普將再出席發表講話",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260426/1125151171720253440807513.jpeg/nQyUhA1ojZmXQGWO8TZPkQOoRMJETL8H8b9w5vG_cOY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60373468/%E7%99%BD%E5%AE%AE%E8%A8%98%E8%80%85%E6%99%9A%E5%AE%B44%E6%9C%88%E9%81%AD%E9%81%87%E6%A7%8D%E6%93%8A%E5%BE%8C%E4%BB%8A%E5%BE%A9%E8%BE%A6-%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%87%E5%86%8D%E5%87%BA%E5%B8%AD%E7%99%BC%E8%A1%A8%E8%AC%9B%E8%A9%B1",
+    "timestamp": "2026-07-24T19:22:36.823Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "白宮記者晚宴4月遭遇槍擊後今復辦　特朗普將再出席發表講話",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260724/1157218691184594944407561.jpeg/zBQyFkJPC8VaMnWDf_u747C8vvAUxvcQTJ-El0yfhJc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60373098/%E5%8D%A1%E5%B0%BC-%E5%80%98%E7%84%A1%E6%B3%95%E5%B0%B1%E7%BE%8E%E5%9C%8B%E6%96%B0%E9%97%9C%E7%A8%85%E9%81%94%E5%8D%94%E8%AD%B0-%E5%8A%A0%E6%8B%BF%E5%A4%A7%E5%B0%87%E4%B8%8D%E6%83%9C%E4%B8%80%E5%88%87%E6%8D%8D%E8%A1%9B%E5%88%A9%E7%9B%8A",
     "timestamp": "2026-07-23T23:27:32.279Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "北上就醫指南│住院+門診保障　一份醫保無縫覆蓋兩地醫療需要",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260715/1154050015610540032415972.jpeg/WdYltS94OCMgwR72P2uRbM38Z4RKEfQH7a2_su2tv7I?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A0%94%E6%95%B8%E6%89%80/60363778/%E5%8C%97%E4%B8%8A%E5%B0%B1%E9%86%AB%E6%8C%87%E5%8D%97-%E4%BD%8F%E9%99%A2-%E9%96%80%E8%A8%BA%E4%BF%9D%E9%9A%9C-%E4%B8%80%E4%BB%BD%E9%86%AB%E4%BF%9D%E7%84%A1%E7%B8%AB%E8%A6%86%E8%93%8B%E5%85%A9%E5%9C%B0%E9%86%AB%E7%99%82%E9%9C%80%E8%A6%81",
-    "timestamp": "2026-07-23T22:29:18.780Z",
     "strategy": ".content-card__main"
   }
 ];
