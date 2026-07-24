@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-24T12:51:26.207Z
+// Last updated: 2026-07-24T14:27:01.637Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "大圍世界花園梯間垃圾箱起火　消防認為火警起因有可疑　暫列縱火",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260114/1088123567440138240738421.jpeg/TAbuUmFMoj-0iGAaxYvagViSPo-lzjwxy0alastGpWo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60373450/%E5%A4%A7%E5%9C%8D%E4%B8%96%E7%95%8C%E8%8A%B1%E5%9C%92%E6%A2%AF%E9%96%93%E5%9E%83%E5%9C%BE%E7%AE%B1%E8%B5%B7%E7%81%AB-%E6%B6%88%E9%98%B2%E8%AA%8D%E7%82%BA%E7%81%AB%E8%AD%A6%E8%B5%B7%E5%9B%A0%E6%9C%89%E5%8F%AF%E7%96%91-%E6%9A%AB%E5%88%97%E7%B8%B1%E7%81%AB",
+    "timestamp": "2026-07-24T14:27:01.637Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "謝賢離世｜譚俊彥憶四哥皮褸鐵騎型爆登場　陳煒讚瀟灑敬業樂業",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20241004/918719466295005184417092.jpeg/72rRTdU3_HN-MTQNG4w9xlFUehCBhqbIbaL7-G2i-_g?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60373089/%E5%B8%83%E6%B2%B9%E9%A3%867-%E9%87%8D%E4%B8%8A100%E7%BE%8E%E5%85%83%E9%97%9C-%E7%B4%90%E7%B4%84%E6%9C%9F%E6%B2%B9%E9%AB%98%E6%94%B66-17",
     "timestamp": "2026-07-23T20:58:14.831Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "布油飆7%重上100美元關　紐約期油高收6.17%",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20241004/918719466295005184417092.jpeg/72rRTdU3_HN-MTQNG4w9xlFUehCBhqbIbaL7-G2i-_g?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60373089/%E5%B8%83%E6%B2%B9%E9%A3%867-%E9%87%8D%E4%B8%8A100%E7%BE%8E%E5%85%83%E9%97%9C-%E7%B4%90%E7%B4%84%E6%9C%9F%E6%B2%B9%E9%AB%98%E6%94%B66-17",
-    "timestamp": "2026-07-23T20:32:48.535Z",
     "strategy": ".content-card__main"
   }
 ];
