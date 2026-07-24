@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-24T02:24:22.405Z
+// Last updated: 2026-07-24T03:46:53.745Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "謝賢離世｜謝霆鋒喪父後首度現身　一身黑衣遵遺訓如期赴青島開唱",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260724/1157272390439276544523706.png/Jg3c25ie6SIRkZLl2KEzFTIVBvkJhTSC0bra0dG62tE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60373164/%E8%AC%9D%E8%B3%A2%E9%9B%A2%E4%B8%96-%E8%AC%9D%E9%9C%86%E9%8B%92%E5%96%AA%E7%88%B6%E5%BE%8C%E9%A6%96%E5%BA%A6%E7%8F%BE%E8%BA%AB-%E4%B8%80%E8%BA%AB%E9%BB%91%E8%A1%A3%E9%81%B5%E9%81%BA%E8%A8%93%E5%A6%82%E6%9C%9F%E8%B5%B4%E9%9D%92%E5%B3%B6%E9%96%8B%E5%94%B1",
+    "timestamp": "2026-07-24T03:46:53.745Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "港人日本自駕遊意外　保聯教路　倘遇意外採取六措施",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260723/1156928931052392448842397.jpeg/ct0tCIVHLHy0L7er2Kz4bzQVKIB2_r2QpsuRlKbLkZQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60372799/%E4%B8%AD%E5%B9%B4%E5%A5%BD%E8%81%B2%E9%9F%B34-10%E5%BC%B7%E5%A4%A5%E5%89%8D%E8%BC%A9%E6%BC%94%E7%B9%B9%E7%B6%93%E5%85%B8%E9%87%91%E6%9B%B2-%E5%91%A8%E5%BF%97%E5%BA%B7%E6%BF%80%E6%83%85%E5%90%88%E5%94%B1%E9%97%9C%E6%A5%9A%E8%80%80",
     "timestamp": "2026-07-23T11:08:00.277Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "剴剴案︱台1歲童遭虐死引公憤　保母終審判囚終身、保母妹囚18年",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250501/994552880818032640801523.jpeg/C0Dl9hf_NLMoNlMsg4XdwOe_EY-FCqTfA7vGPAO7xjw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8F%B0%E7%81%A3%E6%96%B0%E8%81%9E/60372971/%E5%89%B4%E5%89%B4%E6%A1%88-%E5%8F%B01%E6%AD%B2%E7%AB%A5%E9%81%AD%E8%99%90%E6%AD%BB%E5%BC%95%E5%85%AC%E6%86%A4-%E4%BF%9D%E6%AF%8D%E7%B5%82%E5%AF%A9%E5%88%A4%E5%9B%9A%E7%B5%82%E8%BA%AB-%E4%BF%9D%E6%AF%8D%E5%A6%B9%E5%9B%9A18%E5%B9%B4",
-    "timestamp": "2026-07-23T10:08:50.913Z",
     "strategy": ".content-card__main"
   }
 ];
