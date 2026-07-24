@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-24T00:47:13.239Z
+// Last updated: 2026-07-24T01:21:24.836Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "滙豐續售非核心資產　售新加坡壽險及健康險業務　作價21億美元",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260724/1157251506190159872271083.jpeg/f8lBv9NwQFvTogVozqb9cya016JrdzYwJU3yOiVN8jo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60373111/%E6%BB%99%E8%B1%90%E7%BA%8C%E5%94%AE%E9%9D%9E%E6%A0%B8%E5%BF%83%E8%B3%87%E7%94%A2-%E5%94%AE%E6%96%B0%E5%8A%A0%E5%9D%A1%E5%A3%BD%E9%9A%AA%E5%8F%8A%E5%81%A5%E5%BA%B7%E9%9A%AA%E6%A5%AD%E5%8B%99-%E4%BD%9C%E5%83%B921%E5%84%84%E7%BE%8E%E5%85%83",
+    "timestamp": "2026-07-24T01:21:24.836Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "動漫節2026 ACGHK會展直擊｜門票獨家優惠｜高達陀螺15大必去攤位",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260723/1157009288456048640926514.jpeg/_igfHeJowVIfWxBh1cSE0p0BJKvzs8d3Osf2hTrH9oU",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60372967/%E6%89%93%E9%A2%A8-%E5%A4%A9%E6%96%87%E5%8F%B0%E8%AA%BF%E6%95%B4%E7%B4%85%E9%9C%9E%E7%99%BB%E9%99%B8%E4%BD%8D%E7%BD%AE%E6%9B%B4%E6%8E%A5%E8%BF%91%E9%A6%99%E6%B8%AF-%E6%98%AF%E5%90%A6%E6%8E%9B%E6%9B%B4%E9%AB%98%E9%A2%A8%E7%90%83%E7%9C%8B3%E5%9B%A0%E7%B4%A0",
     "timestamp": "2026-07-23T09:14:28.951Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "研究證凍豆腐富含抗性蛋白質　降膽固醇改善脂肪肝與一般豆腐不同",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260706/1150805212772962304946031.jpeg/ueodzehX0uPLevqHGt-Gs7NSEFqPjDSR8Qsdr_ELHa8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60367032/%E7%A0%94%E7%A9%B6%E8%AD%89%E5%87%8D%E8%B1%86%E8%85%90%E5%AF%8C%E5%90%AB%E6%8A%97%E6%80%A7%E8%9B%8B%E7%99%BD%E8%B3%AA-%E9%99%8D%E8%86%BD%E5%9B%BA%E9%86%87%E6%94%B9%E5%96%84%E8%84%82%E8%82%AA%E8%82%9D%E8%88%87%E4%B8%80%E8%88%AC%E8%B1%86%E8%85%90%E4%B8%8D%E5%90%8C",
-    "timestamp": "2026-07-23T08:07:12.509Z",
     "strategy": ".content-card__main"
   }
 ];
