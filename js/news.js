@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-24T22:42:10.775Z
+// Last updated: 2026-07-24T23:41:47.787Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "特朗普：伊朗在談判中變得更「認真」　但美方準備好隨時升級行動",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260725/1157584634519752704678420.jpeg/QDAC04zFxIWa4n1v2king_7YGJJwECvCkILZ0ZCC2dE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60373478/%E7%89%B9%E6%9C%97%E6%99%AE-%E4%BC%8A%E6%9C%97%E5%9C%A8%E8%AB%87%E5%88%A4%E4%B8%AD%E8%AE%8A%E5%BE%97%E6%9B%B4-%E8%AA%8D%E7%9C%9F-%E4%BD%86%E7%BE%8E%E6%96%B9%E6%BA%96%E5%82%99%E5%A5%BD%E9%9A%A8%E6%99%82%E5%8D%87%E7%B4%9A%E8%A1%8C%E5%8B%95",
+    "timestamp": "2026-07-24T23:41:47.787Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "特朗普不滿Google遭重罰　揚言將對歐盟展開301調查並加徵關稅",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260724/1157339444487917568153960.jpeg/JvoU-7sqW6_kWLsGrEWzlcVBdXBNojaMlO6X15Tul9c?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60373254/%E5%B1%AF%E9%96%80%E5%8D%97%E5%BB%B6%E7%B6%AB-%E5%B1%AF%E9%96%80%E5%8D%97%E7%AB%99%E5%9C%B0%E5%9F%BA%E5%B7%A5%E7%A8%8B%E5%AE%8C%E6%88%90-%E5%BB%B6%E7%B6%AB2030%E5%B9%B4%E5%89%8D%E7%AB%A3%E5%B7%A5-%E9%80%9A%E8%BB%8A%E5%BE%85%E5%AE%9A",
     "timestamp": "2026-07-24T07:14:31.298Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "退休父皮帶抽打過度活躍症女兒　官稱難教非動武理由囚4月准緩刑",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20231027/794648688134721536605218.jpeg/Da8iw2eJecP2Io_MzJQQBqTcMgKeyHfGk3Q-MZN0PjE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60373234/%E9%80%80%E4%BC%91%E7%88%B6%E7%9A%AE%E5%B8%B6%E6%8A%BD%E6%89%93%E9%81%8E%E5%BA%A6%E6%B4%BB%E8%BA%8D%E7%97%87%E5%A5%B3%E5%85%92-%E5%AE%98%E7%A8%B1%E9%9B%A3%E6%95%99%E9%9D%9E%E5%8B%95%E6%AD%A6%E7%90%86%E7%94%B1%E5%9B%9A4%E6%9C%88%E5%87%86%E7%B7%A9%E5%88%91",
-    "timestamp": "2026-07-24T06:05:18.124Z",
     "strategy": ".content-card__main"
   }
 ];
