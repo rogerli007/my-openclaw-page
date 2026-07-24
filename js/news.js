@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-24T09:59:22.310Z
+// Last updated: 2026-07-24T10:48:53.879Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "運輸署：為配合道路工程　龍翔道東行近大磡道今晚至翌晨分段封閉",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260724/1157381933450137600014263.jpeg/lg0Q_AuFEwUBDjYqm1gSnaWP6d-U-L5W-Y2rQvmNq0I?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60373376/%E9%81%8B%E8%BC%B8%E7%BD%B2-%E7%82%BA%E9%85%8D%E5%90%88%E9%81%93%E8%B7%AF%E5%B7%A5%E7%A8%8B-%E9%BE%8D%E7%BF%94%E9%81%93%E6%9D%B1%E8%A1%8C%E8%BF%91%E5%A4%A7%E7%A3%A1%E9%81%93%E4%BB%8A%E6%99%9A%E8%87%B3%E7%BF%8C%E6%99%A8%E5%88%86%E6%AE%B5%E5%B0%81%E9%96%89",
+    "timestamp": "2026-07-24T10:48:53.879Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "韓國SK會長崔泰源世紀離婚案　股價暴升如何計價成關鍵｜新聞背後",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260713/1153466384278097920743095.jpeg/ZGJ4zs78RbEwwVaRva39hcjB_aqpBN1FWHBg-VhwYPk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60373072/%E7%BE%8E%E6%B2%99%E7%B0%BD%E6%A0%B8%E5%8D%94%E8%AD%B0-%E7%89%B9%E6%9C%97%E6%99%AE%E4%BA%8B%E5%BE%8C-%E5%8A%A0%E6%96%99-%E5%89%8D%E6%8F%90%E6%98%AF%E9%A0%88%E8%88%87%E4%BB%A5%E8%89%B2%E5%88%97%E9%97%9C%E4%BF%82%E6%AD%A3%E5%B8%B8%E5%8C%96",
     "timestamp": "2026-07-23T17:51:55.510Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "證券行前員工涉盜$1900萬公款　38歲男助洗黑錢達$390萬囚36個月",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260724/1157121777546039296048352.jpeg/wkjGIDtnYBXK61VV57vPUIeRaCO3JARu4btXC9u7Vws?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60373070/%E8%AD%89%E5%88%B8%E8%A1%8C%E5%89%8D%E5%93%A1%E5%B7%A5%E6%B6%89%E7%9B%9C-1900%E8%90%AC%E5%85%AC%E6%AC%BE-38%E6%AD%B2%E7%94%B7%E5%8A%A9%E6%B4%97%E9%BB%91%E9%8C%A2%E9%81%94-390%E8%90%AC%E5%9B%9A36%E5%80%8B%E6%9C%88",
-    "timestamp": "2026-07-23T17:05:19.792Z",
     "strategy": ".content-card__main"
   }
 ];
