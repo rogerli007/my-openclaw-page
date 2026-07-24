@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-24T10:48:53.879Z
+// Last updated: 2026-07-24T11:28:56.211Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "指屋宇署拆僭建物時鑿洞致被爆竊　公司稱失財物600萬　入稟索償",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20241206/941771259883032576470613.jpeg/tzPopjVmgYy-NIAoN547_XT-ev2PhPuAF2mGGjJphho?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60373414/%E6%8C%87%E5%B1%8B%E5%AE%87%E7%BD%B2%E6%8B%86%E5%83%AD%E5%BB%BA%E7%89%A9%E6%99%82%E9%91%BF%E6%B4%9E%E8%87%B4%E8%A2%AB%E7%88%86%E7%AB%8A-%E5%85%AC%E5%8F%B8%E7%A8%B1%E5%A4%B1%E8%B2%A1%E7%89%A9600%E8%90%AC-%E5%85%A5%E7%A8%9F%E7%B4%A2%E5%84%9F",
+    "timestamp": "2026-07-24T11:28:56.211Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "運輸署：為配合道路工程　龍翔道東行近大磡道今晚至翌晨分段封閉",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260305/1106086321375416320367925.jpeg/c7s5-5-fp_Y22WAyYxU_GToAjcD6_P63Tymxkk8psZI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60373077/%E4%BC%8A%E6%9C%97%E8%AD%A6%E5%91%8A%E5%90%91%E7%BE%8E%E8%BB%8D%E5%80%9F%E5%87%BA%E5%9F%BA%E5%9C%B0%E6%88%96%E5%8F%97%E8%A5%B2-%E8%8B%B1%E5%9C%8B-%E6%AD%A6%E8%A3%9D%E9%83%A8%E9%9A%8A%E5%81%9A%E5%A5%BD%E6%BA%96%E5%82%99%E6%8D%8D%E8%A1%9B%E5%AE%89%E5%85%A8",
     "timestamp": "2026-07-23T18:37:03.507Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美沙簽核協議　特朗普事後「加料」：前提是須與以色列關係正常化",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260713/1153466384278097920743095.jpeg/ZGJ4zs78RbEwwVaRva39hcjB_aqpBN1FWHBg-VhwYPk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60373072/%E7%BE%8E%E6%B2%99%E7%B0%BD%E6%A0%B8%E5%8D%94%E8%AD%B0-%E7%89%B9%E6%9C%97%E6%99%AE%E4%BA%8B%E5%BE%8C-%E5%8A%A0%E6%96%99-%E5%89%8D%E6%8F%90%E6%98%AF%E9%A0%88%E8%88%87%E4%BB%A5%E8%89%B2%E5%88%97%E9%97%9C%E4%BF%82%E6%AD%A3%E5%B8%B8%E5%8C%96",
-    "timestamp": "2026-07-23T17:51:55.510Z",
     "strategy": ".content-card__main"
   }
 ];
