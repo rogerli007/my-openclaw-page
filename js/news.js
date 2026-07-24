@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-24T08:05:16.669Z
+// Last updated: 2026-07-24T09:04:47.127Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "紅霞｜天文台料周日吹8級風　打風可否開冷氣？中電：1情況勿開",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250922/1046866611983618048645731.jpeg/NGybFRDXLuMcgmvxBnERFPEX8X2sRliy3A2f1dwNn9U?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%A3%9F%E7%8E%A9%E8%B2%B7/60373147/%E7%B4%85%E9%9C%9E-%E5%A4%A9%E6%96%87%E5%8F%B0%E6%96%99%E5%91%A8%E6%97%A5%E5%90%B98%E7%B4%9A%E9%A2%A8-%E6%89%93%E9%A2%A8%E5%8F%AF%E5%90%A6%E9%96%8B%E5%86%B7%E6%B0%A3-%E4%B8%AD%E9%9B%BB-1%E6%83%85%E6%B3%81%E5%8B%BF%E9%96%8B",
+    "timestamp": "2026-07-24T09:04:47.127Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "長壽｜研究證4類植物性食物抗老助防癌　進食6原則水果換顏色吃",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250417/989406414021595136526730.jpeg/SF-FuWuHg9qbWHx77eQOKNFX4po-mhi94eoH7uHqB-4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60373064/%E7%89%B9%E6%9C%97%E6%99%AE%E7%A8%B1%E6%AD%A3%E8%80%83%E6%85%AE%E9%87%8D%E5%95%9F%E5%A4%A7%E8%A6%8F%E6%A8%A1%E6%94%BB%E6%93%8A%E4%BC%8A%E6%9C%97-%E7%BE%8E%E7%9C%BE%E8%AD%B0%E9%99%A2%E5%86%8D%E9%80%9A%E9%81%8E%E6%B1%BA%E8%AD%B0%E8%A6%81%E6%B1%82%E7%B5%82%E6%88%B0",
     "timestamp": "2026-07-23T16:21:10.525Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "英媒：日本投資美國核能項目陷僵局　核災責任歸屬難釐清",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20240425/860097814221295616928504.jpeg/xhKzKTjEnmCmYatdfdf-fBXHnkEgVt254I8qH-CPKh8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60373063/%E8%8B%B1%E5%AA%92-%E6%97%A5%E6%9C%AC%E6%8A%95%E8%B3%87%E7%BE%8E%E5%9C%8B%E6%A0%B8%E8%83%BD%E9%A0%85%E7%9B%AE%E9%99%B7%E5%83%B5%E5%B1%80-%E6%A0%B8%E7%81%BD%E8%B2%AC%E4%BB%BB%E6%AD%B8%E5%B1%AC%E9%9B%A3%E9%87%90%E6%B8%85",
-    "timestamp": "2026-07-23T15:47:16.724Z",
     "strategy": ".content-card__main"
   }
 ];
