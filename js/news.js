@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-24T12:06:45.842Z
+// Last updated: 2026-07-24T12:51:26.207Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "謝賢離世｜譚俊彥憶四哥皮褸鐵騎型爆登場　陳煒讚瀟灑敬業樂業",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260724/1157415975897796608608372.jpeg/oWGfn74uzUYHyA7_j6b1T_-JwJZUsGRENPIy7A7yMuw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60373424/%E8%AC%9D%E8%B3%A2%E9%9B%A2%E4%B8%96-%E8%AD%9A%E4%BF%8A%E5%BD%A5%E6%86%B6%E5%9B%9B%E5%93%A5%E7%9A%AE%E8%A4%B8%E9%90%B5%E9%A8%8E%E5%9E%8B%E7%88%86%E7%99%BB%E5%A0%B4-%E9%99%B3%E7%85%92%E8%AE%9A%E7%80%9F%E7%81%91%E6%95%AC%E6%A5%AD%E6%A8%82%E6%A5%AD",
+    "timestamp": "2026-07-24T12:51:26.207Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "台海有戰事｜兩岸「和統」須有三大前提",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20241004/918719466295005184417092.jpeg/72rRTdU3_HN-MTQNG4w9xlFUehCBhqbIbaL7-G2i-_g?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60373089/%E5%B8%83%E6%B2%B9%E9%A3%867-%E9%87%8D%E4%B8%8A100%E7%BE%8E%E5%85%83%E9%97%9C-%E7%B4%90%E7%B4%84%E6%9C%9F%E6%B2%B9%E9%AB%98%E6%94%B66-17",
     "timestamp": "2026-07-23T20:32:48.535Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普稱習近平將於9月24日訪美：將與對方討論人工智能議題",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260516/1132165198929465344845610.jpeg/VfPLSGm5PsEEckNfhC2ueQjO_tDmAp3I-LeuAfi3rgE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60373078/%E7%89%B9%E6%9C%97%E6%99%AE%E7%A8%B1%E7%BF%92%E8%BF%91%E5%B9%B3%E5%B0%87%E6%96%BC9%E6%9C%8824%E6%97%A5%E8%A8%AA%E7%BE%8E-%E5%B0%87%E8%88%87%E5%B0%8D%E6%96%B9%E8%A8%8E%E8%AB%96%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E8%AD%B0%E9%A1%8C",
-    "timestamp": "2026-07-23T19:52:06.957Z",
     "strategy": ".content-card__main"
   }
 ];
