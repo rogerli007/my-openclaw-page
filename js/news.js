@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-24T15:50:49.171Z
+// Last updated: 2026-07-24T17:19:33.295Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "風球紅霞消息｜一號風球至少維持至中午　天文台考慮下午改發3號",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260724/1157430589675016192943876.jpeg/ieQdnzEP9LQQCjPpzxHv6DJc-TxPk9RdtY5VwrWOVcI",
+    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60373069/%E7%B4%85%E9%9C%9E%E9%A2%B1%E9%A2%A8%E8%B7%AF%E5%BE%91-%E9%A6%99%E6%B8%AF%E5%A4%A9%E6%96%87%E5%8F%B0%E6%89%93%E9%A2%A8%E6%9C%80%E6%96%B0%E6%B6%88%E6%81%AF-7-24%E6%99%9A8-40%E6%8E%9B%E4%B8%80%E8%99%9F%E9%A2%A8%E7%90%83",
+    "timestamp": "2026-07-24T17:19:33.295Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "港鐵車廂MMA｜2男疑推撞口角動手　叉頸出拳纏鬥　乘客觀戰",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260724/1157192171166633984524607.jpeg/KQ5UJq7qs6r8K5mRcFLxubGfpsFFWpP9AbTH5wG0x-c?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60373094/%E7%B4%85%E7%A3%A1%E5%8A%8F%E6%88%BF%E5%A4%9641%E6%AD%B2%E7%94%B7%E9%81%87%E8%A5%B2-%E5%90%8C%E9%84%89%E6%8F%AE%E5%88%80%E9%8C%98%E6%96%BD%E8%A5%B2%E9%80%83%E8%B5%B0-%E5%82%B7%E8%80%85%E9%A0%AD%E6%89%8B%E5%8F%97%E5%82%B7%E9%80%81%E9%99%A2",
     "timestamp": "2026-07-23T21:57:22.178Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "英國撤離駐伊朗外交人員　伊媒：配合美國的心理戰",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260724/1157171426826915840253086.jpeg/8kp7nK9numCAqXcjsLxzNaSrZVZ3X5UC-8hLd_vIS3c?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60373083/%E8%8B%B1%E5%9C%8B%E6%92%A4%E9%9B%A2%E9%A7%90%E4%BC%8A%E6%9C%97%E5%A4%96%E4%BA%A4%E4%BA%BA%E5%93%A1-%E4%BC%8A%E5%AA%92-%E9%85%8D%E5%90%88%E7%BE%8E%E5%9C%8B%E7%9A%84%E5%BF%83%E7%90%86%E6%88%B0",
-    "timestamp": "2026-07-23T21:35:16.935Z",
     "strategy": ".content-card__main"
   }
 ];
