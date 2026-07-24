@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-24T07:14:31.298Z
+// Last updated: 2026-07-24T08:05:16.669Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "長壽｜研究證4類植物性食物抗老助防癌　進食6原則水果換顏色吃",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260724/1157336466536271872015847.png/afvaXvKSBDUtiTZOTx6Ug5U1hAmC1D4rz5E87c-RPO0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60355403/%E9%95%B7%E5%A3%BD-%E7%A0%94%E7%A9%B6%E8%AD%894%E9%A1%9E%E6%A4%8D%E7%89%A9%E6%80%A7%E9%A3%9F%E7%89%A9%E6%8A%97%E8%80%81%E5%8A%A9%E9%98%B2%E7%99%8C-%E9%80%B2%E9%A3%9F6%E5%8E%9F%E5%89%87%E6%B0%B4%E6%9E%9C%E6%8F%9B%E9%A1%8F%E8%89%B2%E5%90%83",
+    "timestamp": "2026-07-24T08:05:16.669Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "屯門南延綫｜屯門南站地基工程完成　延綫2030年前竣工　通車待定",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20240425/860097814221295616928504.jpeg/xhKzKTjEnmCmYatdfdf-fBXHnkEgVt254I8qH-CPKh8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60373063/%E8%8B%B1%E5%AA%92-%E6%97%A5%E6%9C%AC%E6%8A%95%E8%B3%87%E7%BE%8E%E5%9C%8B%E6%A0%B8%E8%83%BD%E9%A0%85%E7%9B%AE%E9%99%B7%E5%83%B5%E5%B1%80-%E6%A0%B8%E7%81%BD%E8%B2%AC%E4%BB%BB%E6%AD%B8%E5%B1%AC%E9%9B%A3%E9%87%90%E6%B8%85",
     "timestamp": "2026-07-23T15:47:16.724Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "劍擊世錦賽｜港隊男重兩將闖正賽　吳浩天奮鬥有回報何瑋桁齊過關",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260723/1157071470648627200913284.jpeg/kjiu4UNGooJMNgmjq642tW7Z91vNO0JlUMsvz1DLL88?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60372911/%E5%8A%8D%E6%93%8A%E4%B8%96%E9%8C%A6%E8%B3%BD-%E6%B8%AF%E9%9A%8A%E7%94%B7%E9%87%8D%E5%85%A9%E5%B0%87%E9%97%96%E6%AD%A3%E8%B3%BD-%E5%90%B3%E6%B5%A9%E5%A4%A9%E5%A5%AE%E9%AC%A5%E6%9C%89%E5%9B%9E%E5%A0%B1%E4%BD%95%E7%91%8B%E6%A1%81%E9%BD%8A%E9%81%8E%E9%97%9C",
-    "timestamp": "2026-07-23T14:00:16.583Z",
     "strategy": ".content-card__main"
   }
 ];
