@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-24T22:14:07.501Z
+// Last updated: 2026-07-24T22:42:10.775Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "特朗普不滿Google遭重罰　揚言將對歐盟展開301調查並加徵關稅",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260725/1157573229758386176340157.jpeg/CE20VzXQumPBokGqLCapsYMyaLhJLgApgZKCDYGSgg0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60373477/%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8D%E6%BB%BFgoogle%E9%81%AD%E9%87%8D%E7%BD%B0-%E6%8F%9A%E8%A8%80%E5%B0%87%E5%B0%8D%E6%AD%90%E7%9B%9F%E5%B1%95%E9%96%8B301%E8%AA%BF%E6%9F%A5%E4%B8%A6%E5%8A%A0%E5%BE%B5%E9%97%9C%E7%A8%85",
+    "timestamp": "2026-07-24T22:42:10.775Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "警何文田截可疑電單車　檢K仔和可卡因　鐵騎士接受調查",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20231027/794648688134721536605218.jpeg/Da8iw2eJecP2Io_MzJQQBqTcMgKeyHfGk3Q-MZN0PjE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60373234/%E9%80%80%E4%BC%91%E7%88%B6%E7%9A%AE%E5%B8%B6%E6%8A%BD%E6%89%93%E9%81%8E%E5%BA%A6%E6%B4%BB%E8%BA%8D%E7%97%87%E5%A5%B3%E5%85%92-%E5%AE%98%E7%A8%B1%E9%9B%A3%E6%95%99%E9%9D%9E%E5%8B%95%E6%AD%A6%E7%90%86%E7%94%B1%E5%9B%9A4%E6%9C%88%E5%87%86%E7%B7%A9%E5%88%91",
     "timestamp": "2026-07-24T06:05:18.124Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "八達通優惠12大｜惠康減$15+美心月餅買1送1+一田88折+一粥麵減$6",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260714/1153666017050759168860241.jpeg/2vS4PhTmvbSafn71sVKr5zjVwGVjhHWUmQYGi5kGBos?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%A3%9F%E7%8E%A9%E8%B2%B7/60373170/%E5%85%AB%E9%81%94%E9%80%9A%E5%84%AA%E6%83%A012%E5%A4%A7-%E6%83%A0%E5%BA%B7%E6%B8%9B-15-%E7%BE%8E%E5%BF%83%E6%9C%88%E9%A4%85%E8%B2%B71%E9%80%811-%E4%B8%80%E7%94%B088%E6%8A%98-%E4%B8%80%E7%B2%A5%E9%BA%B5%E6%B8%9B-6",
-    "timestamp": "2026-07-24T04:57:15.881Z",
     "strategy": ".content-card__main"
   }
 ];
