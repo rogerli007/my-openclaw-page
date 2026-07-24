@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-24T06:05:18.124Z
+// Last updated: 2026-07-24T07:14:31.298Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "屯門南延綫｜屯門南站地基工程完成　延綫2030年前竣工　通車待定",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260724/1157339444487917568153960.jpeg/JvoU-7sqW6_kWLsGrEWzlcVBdXBNojaMlO6X15Tul9c?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60373254/%E5%B1%AF%E9%96%80%E5%8D%97%E5%BB%B6%E7%B6%AB-%E5%B1%AF%E9%96%80%E5%8D%97%E7%AB%99%E5%9C%B0%E5%9F%BA%E5%B7%A5%E7%A8%8B%E5%AE%8C%E6%88%90-%E5%BB%B6%E7%B6%AB2030%E5%B9%B4%E5%89%8D%E7%AB%A3%E5%B7%A5-%E9%80%9A%E8%BB%8A%E5%BE%85%E5%AE%9A",
+    "timestamp": "2026-07-24T07:14:31.298Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "退休父皮帶抽打過度活躍症女兒　官稱難教非動武理由囚4月准緩刑",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260723/1157071470648627200913284.jpeg/kjiu4UNGooJMNgmjq642tW7Z91vNO0JlUMsvz1DLL88?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60372911/%E5%8A%8D%E6%93%8A%E4%B8%96%E9%8C%A6%E8%B3%BD-%E6%B8%AF%E9%9A%8A%E7%94%B7%E9%87%8D%E5%85%A9%E5%B0%87%E9%97%96%E6%AD%A3%E8%B3%BD-%E5%90%B3%E6%B5%A9%E5%A4%A9%E5%A5%AE%E9%AC%A5%E6%9C%89%E5%9B%9E%E5%A0%B1%E4%BD%95%E7%91%8B%E6%A1%81%E9%BD%8A%E9%81%8E%E9%97%9C",
     "timestamp": "2026-07-23T14:00:16.583Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "泰國寺廟翻新驚揭地底密室　佛像下挖出紅木棺　神秘女屍身份曝光",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260722/1156665747385094144182043.png/VW-FTKdRrkP0hDg1Vk0xqO-xGGTJ6C482vxcf9r8XH8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60372225/%E6%B3%B0%E5%9C%8B%E5%AF%BA%E5%BB%9F%E7%BF%BB%E6%96%B0%E9%A9%9A%E6%8F%AD%E5%9C%B0%E5%BA%95%E5%AF%86%E5%AE%A4-%E4%BD%9B%E5%83%8F%E4%B8%8B%E6%8C%96%E5%87%BA%E7%B4%85%E6%9C%A8%E6%A3%BA-%E7%A5%9E%E7%A7%98%E5%A5%B3%E5%B1%8D%E8%BA%AB%E4%BB%BD%E6%9B%9D%E5%85%89",
-    "timestamp": "2026-07-23T13:07:15.794Z",
     "strategy": ".content-card__main"
   }
 ];
