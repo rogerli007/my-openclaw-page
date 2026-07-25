@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-25T07:07:46.360Z
+// Last updated: 2026-07-25T08:01:26.761Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "特朗普關稅陰霾下　美加大橋慶祝開幕　加拿大未邀美方出席儀式",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260725/1157712359066701824261780.jpeg/bx36OTsuuSLtURYloUcTHbaEHRa0JHYBz86HZc_Oh2U?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60373552/%E7%89%B9%E6%9C%97%E6%99%AE%E9%97%9C%E7%A8%85%E9%99%B0%E9%9C%BE%E4%B8%8B-%E7%BE%8E%E5%8A%A0%E5%A4%A7%E6%A9%8B%E6%85%B6%E7%A5%9D%E9%96%8B%E5%B9%95-%E5%8A%A0%E6%8B%BF%E5%A4%A7%E6%9C%AA%E9%82%80%E7%BE%8E%E6%96%B9%E5%87%BA%E5%B8%AD%E5%84%80%E5%BC%8F",
+    "timestamp": "2026-07-25T08:01:26.761Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "西班牙野火影響多市　NASA深空通訊站遭波及　職員急撤離",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260114/1088123567440138240738421.jpeg/TAbuUmFMoj-0iGAaxYvagViSPo-lzjwxy0alastGpWo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60373450/%E5%A4%A7%E5%9C%8D%E4%B8%96%E7%95%8C%E8%8A%B1%E5%9C%92%E6%A2%AF%E9%96%93%E5%9E%83%E5%9C%BE%E7%AE%B1%E8%B5%B7%E7%81%AB-%E6%B6%88%E9%98%B2%E8%AA%8D%E7%82%BA%E7%81%AB%E8%AD%A6%E8%B5%B7%E5%9B%A0%E6%9C%89%E5%8F%AF%E7%96%91-%E6%9A%AB%E5%88%97%E7%B8%B1%E7%81%AB",
     "timestamp": "2026-07-24T14:27:01.637Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "謝賢離世｜譚俊彥憶四哥皮褸鐵騎型爆登場　陳煒讚瀟灑敬業樂業",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260724/1157415975897796608608372.jpeg/oWGfn74uzUYHyA7_j6b1T_-JwJZUsGRENPIy7A7yMuw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60373424/%E8%AC%9D%E8%B3%A2%E9%9B%A2%E4%B8%96-%E8%AD%9A%E4%BF%8A%E5%BD%A5%E6%86%B6%E5%9B%9B%E5%93%A5%E7%9A%AE%E8%A4%B8%E9%90%B5%E9%A8%8E%E5%9E%8B%E7%88%86%E7%99%BB%E5%A0%B4-%E9%99%B3%E7%85%92%E8%AE%9A%E7%80%9F%E7%81%91%E6%95%AC%E6%A5%AD%E6%A8%82%E6%A5%AD",
-    "timestamp": "2026-07-24T12:51:26.207Z",
     "strategy": ".content-card__main"
   }
 ];
