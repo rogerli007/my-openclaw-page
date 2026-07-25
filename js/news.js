@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-25T14:56:43.756Z
+// Last updated: 2026-07-25T15:57:48.129Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "颱風紅霞｜各大口岸交通消息　部份跨境客運巴士、列車服務調整",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260725/1157821251348074496045962.jpeg/NGGoucJrvtf4c7A_lKyC6YlMBGIhEKJgYbGU-2GxlPs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60373658/%E9%A2%B1%E9%A2%A8%E7%B4%85%E9%9C%9E-%E5%90%84%E5%A4%A7%E5%8F%A3%E5%B2%B8%E4%BA%A4%E9%80%9A%E6%B6%88%E6%81%AF-%E9%83%A8%E4%BB%BD%E8%B7%A8%E5%A2%83%E5%AE%A2%E9%81%8B%E5%B7%B4%E5%A3%AB-%E5%88%97%E8%BB%8A%E6%9C%8D%E5%8B%99%E8%AA%BF%E6%95%B4",
+    "timestamp": "2026-07-25T15:57:48.129Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "颱風紅霞8號風球｜近岸增強未見趨北　天文台預告掛9號周日吹暴風",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260725/1157573229758386176340157.jpeg/CE20VzXQumPBokGqLCapsYMyaLhJLgApgZKCDYGSgg0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60373477/%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8D%E6%BB%BFgoogle%E9%81%AD%E9%87%8D%E7%BD%B0-%E6%8F%9A%E8%A8%80%E5%B0%87%E5%B0%8D%E6%AD%90%E7%9B%9F%E5%B1%95%E9%96%8B301%E8%AA%BF%E6%9F%A5%E4%B8%A6%E5%8A%A0%E5%BE%B5%E9%97%9C%E7%A8%85",
     "timestamp": "2026-07-24T22:42:10.775Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "警何文田截可疑電單車　檢K仔和可卡因　鐵騎士接受調查",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260725/1157565621517422592236714.jpeg/Xy2utJbh9QbRWow-RzO7tSYlvg6dcnEDktBrTqjQa04?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60373476/%E8%AD%A6%E4%BD%95%E6%96%87%E7%94%B0%E6%88%AA%E5%8F%AF%E7%96%91%E9%9B%BB%E5%96%AE%E8%BB%8A-%E6%AA%A2k%E4%BB%94%E5%92%8C%E5%8F%AF%E5%8D%A1%E5%9B%A0-%E9%90%B5%E9%A8%8E%E5%A3%AB%E6%8E%A5%E5%8F%97%E8%AA%BF%E6%9F%A5",
-    "timestamp": "2026-07-24T22:14:07.501Z",
     "strategy": ".content-card__main"
   }
 ];
