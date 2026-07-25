@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-25T08:52:37.907Z
+// Last updated: 2026-07-25T10:21:27.570Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "張敬軒澳門騷無預警唱新歌　含淚剖白愛貓與恩師離世之痛",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260725/1157732766087909376486715.jpeg/vnwGmg6WPz1c7_ljO9cjs0psj4FJgbw11jjvANY47wA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60373576/%E5%BC%B5%E6%95%AC%E8%BB%92%E6%BE%B3%E9%96%80%E9%A8%B7%E7%84%A1%E9%A0%90%E8%AD%A6%E5%94%B1%E6%96%B0%E6%AD%8C-%E5%90%AB%E6%B7%9A%E5%89%96%E7%99%BD%E6%84%9B%E8%B2%93%E8%88%87%E6%81%A9%E5%B8%AB%E9%9B%A2%E4%B8%96%E4%B9%8B%E7%97%9B",
+    "timestamp": "2026-07-25T10:21:27.570Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "颱風紅霞｜長沙灣道大廈竹棚大面積崩塌　壓相鄰大廈",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260724/1157430589675016192943876.jpeg/ieQdnzEP9LQQCjPpzxHv6DJc-TxPk9RdtY5VwrWOVcI",
     "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60373069/%E7%B4%85%E9%9C%9E%E9%A2%B1%E9%A2%A8%E8%B7%AF%E5%BE%91-%E9%A6%99%E6%B8%AF%E5%A4%A9%E6%96%87%E5%8F%B0%E6%89%93%E9%A2%A8%E6%9C%80%E6%96%B0%E6%B6%88%E6%81%AF-7-24%E6%99%9A8-40%E6%8E%9B%E4%B8%80%E8%99%9F%E9%A2%A8%E7%90%83",
     "timestamp": "2026-07-24T17:19:33.295Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "港鐵車廂MMA｜2男疑推撞口角動手　叉頸出拳纏鬥　乘客觀戰",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260724/1157469368762765312815034.jpeg/VEhV_srOUPieQsWQldxT4XigkulwQ-nwQUnZnUFJ2Z0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60373457/%E6%B8%AF%E9%90%B5%E8%BB%8A%E5%BB%82mma-2%E7%94%B7%E7%96%91%E6%8E%A8%E6%92%9E%E5%8F%A3%E8%A7%92%E5%8B%95%E6%89%8B-%E5%8F%89%E9%A0%B8%E5%87%BA%E6%8B%B3%E7%BA%8F%E9%AC%A5-%E4%B9%98%E5%AE%A2%E8%A7%80%E6%88%B0",
-    "timestamp": "2026-07-24T15:50:49.171Z",
     "strategy": ".content-card__main"
   }
 ];
