@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-25T22:53:49.815Z
+// Last updated: 2026-07-25T23:55:15.388Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "颱風紅霞｜尖沙咀捲白頭浪　送貨工狼狽撿麵包　珠海遊客冒雨追風",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260726/1157950240976801792258637.jpeg/DUrg5_XnlCm8WC7akyNDI3MglC-f1vaqkVQPcpFUD3I",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60373676/%E9%A2%B1%E9%A2%A8%E7%B4%85%E9%9C%9E-%E5%B0%96%E6%B2%99%E5%92%80%E6%8D%B2%E7%99%BD%E9%A0%AD%E6%B5%AA-%E9%80%81%E8%B2%A8%E5%B7%A5%E7%8B%BC%E7%8B%BD%E6%92%BF%E9%BA%B5%E5%8C%85-%E7%8F%A0%E6%B5%B7%E9%81%8A%E5%AE%A2%E5%86%92%E9%9B%A8%E8%BF%BD%E9%A2%A8",
+    "timestamp": "2026-07-25T23:55:15.388Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "紅霞風球．交通消息｜港鐵：較長露天路段需較長時間恢復全綫服務",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260725/1157769835518627840517963.png/UiJ0i5nu2Drh6h1-kGUHcOe_RFPbtOry6JnQC-iZ0As?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60373611/%E5%9C%9F%E7%93%9C%E7%81%A3%E6%A5%AD%E4%B8%BB%E7%99%BB%E9%96%80%E6%94%B6%E6%A8%93%E6%8F%AD%E4%B8%80%E8%B2%93%E6%AE%9E%E5%91%BD-%E6%84%9B%E5%8D%94%E6%AA%A2%E5%80%96%E5%AD%98%E8%B2%93%E9%9A%BB-%E8%AD%A6%E5%88%97%E8%99%90%E7%95%9C%E8%BF%BD%E6%9F%A5",
     "timestamp": "2026-07-25T12:01:04.816Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "颱風紅霞｜筲箕灣小學5米高大樹倒塌　壓中七人車",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260725/1157755499362390016453296.jpeg/4X14v1SWMA-eJ_c7N-9Bmjb2ruSRTKW5qOZAH6jmQB8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60373600/%E9%A2%B1%E9%A2%A8%E7%B4%85%E9%9C%9E-%E7%AD%B2%E7%AE%95%E7%81%A3%E5%B0%8F%E5%AD%B85%E7%B1%B3%E9%AB%98%E5%A4%A7%E6%A8%B9%E5%80%92%E5%A1%8C-%E5%A3%93%E4%B8%AD%E4%B8%83%E4%BA%BA%E8%BB%8A",
-    "timestamp": "2026-07-25T11:00:20.199Z",
     "strategy": ".content-card__main"
   }
 ];
