@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-25T02:45:34.505Z
+// Last updated: 2026-07-25T03:57:09.245Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "颱風紅霞｜惠州、深汕啟動「五停」　深圳全市颱風預警升級為藍色",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260725/1157626512871002112015647.jpeg/0k6QeXO3DdSKJQOh_TYoB5XovTz6Ew9MlXK7IpVyuyI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60373493/%E9%A2%B1%E9%A2%A8%E7%B4%85%E9%9C%9E-%E6%83%A0%E5%B7%9E-%E6%B7%B1%E6%B1%95%E5%95%9F%E5%8B%95-%E4%BA%94%E5%81%9C-%E6%B7%B1%E5%9C%B3%E5%85%A8%E5%B8%82%E9%A2%B1%E9%A2%A8%E9%A0%90%E8%AD%A6%E5%8D%87%E7%B4%9A%E7%82%BA%E8%97%8D%E8%89%B2",
+    "timestamp": "2026-07-25T03:57:09.245Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "林盛斌18歲大女林霏兒性感大解放　自信低胸裝大派福利震撼眼球",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260724/1157381933450137600014263.jpeg/lg0Q_AuFEwUBDjYqm1gSnaWP6d-U-L5W-Y2rQvmNq0I?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60373376/%E9%81%8B%E8%BC%B8%E7%BD%B2-%E7%82%BA%E9%85%8D%E5%90%88%E9%81%93%E8%B7%AF%E5%B7%A5%E7%A8%8B-%E9%BE%8D%E7%BF%94%E9%81%93%E6%9D%B1%E8%A1%8C%E8%BF%91%E5%A4%A7%E7%A3%A1%E9%81%93%E4%BB%8A%E6%99%9A%E8%87%B3%E7%BF%8C%E6%99%A8%E5%88%86%E6%AE%B5%E5%B0%81%E9%96%89",
     "timestamp": "2026-07-24T10:48:53.879Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "韓國SK會長崔泰源世紀離婚案　股價暴升如何計價成關鍵｜新聞背後",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260723/1157015718814814208316084.jpeg/nUASAryN_5gEACqAxi6kLk4wngqHYA6YcyPL23Mjy9s?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60373338/%E9%9F%93%E5%9C%8Bsk%E6%9C%83%E9%95%B7%E5%B4%94%E6%B3%B0%E6%BA%90%E4%B8%96%E7%B4%80%E9%9B%A2%E5%A9%9A%E6%A1%88-%E8%82%A1%E5%83%B9%E6%9A%B4%E5%8D%87%E5%A6%82%E4%BD%95%E8%A8%88%E5%83%B9%E6%88%90%E9%97%9C%E9%8D%B5-%E6%96%B0%E8%81%9E%E8%83%8C%E5%BE%8C",
-    "timestamp": "2026-07-24T09:59:22.310Z",
     "strategy": ".content-card__main"
   }
 ];
