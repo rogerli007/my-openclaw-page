@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-25T13:39:25.566Z
+// Last updated: 2026-07-25T14:22:42.790Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "珍惜生命｜天水圍天澤邨女子燒炭　丈夫揭發惜送院不治",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260725/1157810048185929728097145.jpeg/6MHmTI7nfae_SGiaDAMrykeRctlsy2vqKGQxryhkMa8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60373642/%E7%8F%8D%E6%83%9C%E7%94%9F%E5%91%BD-%E5%A4%A9%E6%B0%B4%E5%9C%8D%E5%A4%A9%E6%BE%A4%E9%82%A8%E5%A5%B3%E5%AD%90%E7%87%92%E7%82%AD-%E4%B8%88%E5%A4%AB%E6%8F%AD%E7%99%BC%E6%83%9C%E9%80%81%E9%99%A2%E4%B8%8D%E6%B2%BB",
+    "timestamp": "2026-07-25T14:22:42.790Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "國民黨反毒油遊行稱現場逾20萬人　鄭麗文帶領民眾喊：賴清德下台",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260725/1157550636523327488764583.jpeg/kOxJwxCfR_cGh3xAcicY8aRgVg0AdaB9RdoQNEXaEDQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60373475/%E8%8B%B1%E5%81%89%E9%81%94%E7%AD%8925%E7%A7%91%E4%BC%81%E8%81%AF%E7%BD%B2%E6%92%90%E9%96%8B%E6%94%BEai%E6%A8%A1%E5%9E%8B-%E9%BB%83%E4%BB%81%E5%8B%B3%E5%95%9F%E7%94%A8%E7%A4%BE%E4%BA%A4%E5%AA%92%E9%AB%94x%E8%BD%89%E8%BC%89%E4%BF%A1%E4%BB%B6",
     "timestamp": "2026-07-24T21:44:06.696Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "英偉達等25科企聯署撐開放AI模型　黃仁勳啟用社交媒體X轉載信件",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260725/1157550636523327488764583.jpeg/kOxJwxCfR_cGh3xAcicY8aRgVg0AdaB9RdoQNEXaEDQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60373475/%E8%8B%B1%E5%81%89%E9%81%94%E7%AD%8925%E7%A7%91%E4%BC%81%E8%81%AF%E7%BD%B2%E6%92%90%E9%96%8B%E6%94%BEai%E6%A8%A1%E5%9E%8B-%E9%BB%83%E4%BB%81%E5%8B%B3%E5%95%9F%E7%94%A8%E7%A4%BE%E4%BA%A4%E5%AA%92%E9%AB%94x%E8%BD%89%E8%BC%89%E4%BF%A1%E4%BB%B6",
-    "timestamp": "2026-07-24T21:14:41.592Z",
     "strategy": ".content-card__main"
   }
 ];
