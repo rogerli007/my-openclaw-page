@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-25T00:58:54.830Z
+// Last updated: 2026-07-25T02:45:34.505Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "林盛斌18歲大女林霏兒性感大解放　自信低胸裝大派福利震撼眼球",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260724/1157456978373513216912604.jpeg/tbubEqijzKUx1uArFEU1HuChCvhnVd5oPM4qKDzOKig?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60373452/%E6%9E%97%E7%9B%9B%E6%96%8C18%E6%AD%B2%E5%A4%A7%E5%A5%B3%E6%9E%97%E9%9C%8F%E5%85%92%E6%80%A7%E6%84%9F%E5%A4%A7%E8%A7%A3%E6%94%BE-%E8%87%AA%E4%BF%A1%E4%BD%8E%E8%83%B8%E8%A3%9D%E5%A4%A7%E6%B4%BE%E7%A6%8F%E5%88%A9%E9%9C%87%E6%92%BC%E7%9C%BC%E7%90%83",
+    "timestamp": "2026-07-25T02:45:34.505Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "中美AI競賽｜Anthropic發布Claude Opus 5模型　Sell更低成本",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260723/1157015718814814208316084.jpeg/nUASAryN_5gEACqAxi6kLk4wngqHYA6YcyPL23Mjy9s?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60373338/%E9%9F%93%E5%9C%8Bsk%E6%9C%83%E9%95%B7%E5%B4%94%E6%B3%B0%E6%BA%90%E4%B8%96%E7%B4%80%E9%9B%A2%E5%A9%9A%E6%A1%88-%E8%82%A1%E5%83%B9%E6%9A%B4%E5%8D%87%E5%A6%82%E4%BD%95%E8%A8%88%E5%83%B9%E6%88%90%E9%97%9C%E9%8D%B5-%E6%96%B0%E8%81%9E%E8%83%8C%E5%BE%8C",
     "timestamp": "2026-07-24T09:59:22.310Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "紅霞｜天文台料周日吹8級風　打風可否開冷氣？中電：1情況勿開",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250922/1046866611983618048645731.jpeg/NGybFRDXLuMcgmvxBnERFPEX8X2sRliy3A2f1dwNn9U?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%A3%9F%E7%8E%A9%E8%B2%B7/60373147/%E7%B4%85%E9%9C%9E-%E5%A4%A9%E6%96%87%E5%8F%B0%E6%96%99%E5%91%A8%E6%97%A5%E5%90%B98%E7%B4%9A%E9%A2%A8-%E6%89%93%E9%A2%A8%E5%8F%AF%E5%90%A6%E9%96%8B%E5%86%B7%E6%B0%A3-%E4%B8%AD%E9%9B%BB-1%E6%83%85%E6%B3%81%E5%8B%BF%E9%96%8B",
-    "timestamp": "2026-07-24T09:04:47.127Z",
     "strategy": ".content-card__main"
   }
 ];
