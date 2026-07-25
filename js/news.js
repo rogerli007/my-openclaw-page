@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-25T05:12:28.129Z
+// Last updated: 2026-07-25T06:10:06.569Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "西貢傲瀧蝕完再蝕！頂層一房連天台戶716萬沽　上手3年唔見半球",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20231201/807223174323245056265179.jpeg/3OIoc7-TC6WuCjm9WQMKafPtP24LCghXG3BtKRtwbSk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60373386/%E8%A5%BF%E8%B2%A2%E5%82%B2%E7%80%A7%E8%9D%95%E5%AE%8C%E5%86%8D%E8%9D%95-%E9%A0%82%E5%B1%A4%E4%B8%80%E6%88%BF%E9%80%A3%E5%A4%A9%E5%8F%B0%E6%88%B6716%E8%90%AC%E6%B2%BD-%E4%B8%8A%E6%89%8B3%E5%B9%B4%E5%94%94%E8%A6%8B%E5%8D%8A%E7%90%83",
+    "timestamp": "2026-07-25T06:10:06.569Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "女生搭巴士「連鞋帶腳」踩座位！疑事主致歉認行為不當：令人反感",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260410/1119276998263443456837509.jpeg/20DT270dHGY8Q6ljFEjPECon-AcB22RBgkKS-YJCkvk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E4%B8%AD%E5%9C%8B%E8%A7%80%E5%AF%9F/60373256/%E5%8F%B0%E6%B5%B7%E6%9C%89%E6%88%B0%E4%BA%8B-%E5%85%A9%E5%B2%B8-%E5%92%8C%E7%B5%B1-%E9%A0%88%E6%9C%89%E4%B8%89%E5%A4%A7%E5%89%8D%E6%8F%90",
     "timestamp": "2026-07-24T12:06:45.842Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "指屋宇署拆僭建物時鑿洞致被爆竊　公司稱失財物600萬　入稟索償",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20241206/941771259883032576470613.jpeg/tzPopjVmgYy-NIAoN547_XT-ev2PhPuAF2mGGjJphho?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60373414/%E6%8C%87%E5%B1%8B%E5%AE%87%E7%BD%B2%E6%8B%86%E5%83%AD%E5%BB%BA%E7%89%A9%E6%99%82%E9%91%BF%E6%B4%9E%E8%87%B4%E8%A2%AB%E7%88%86%E7%AB%8A-%E5%85%AC%E5%8F%B8%E7%A8%B1%E5%A4%B1%E8%B2%A1%E7%89%A9600%E8%90%AC-%E5%85%A5%E7%A8%9F%E7%B4%A2%E5%84%9F",
-    "timestamp": "2026-07-24T11:28:56.211Z",
     "strategy": ".content-card__main"
   }
 ];
