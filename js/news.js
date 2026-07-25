@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-25T12:33:10.318Z
+// Last updated: 2026-07-25T13:04:10.955Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "日本高溫創紀錄　首見連續5日破40℃",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250805/1029418799838793728645823.jpeg/L1MxAzm80ytuNS1swftXQh_fN_xegdA2Xwo0OF8KNDg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60373601/%E6%97%A5%E6%9C%AC%E9%AB%98%E6%BA%AB%E5%89%B5%E7%B4%80%E9%8C%84-%E9%A6%96%E8%A6%8B%E9%80%A3%E7%BA%8C5%E6%97%A5%E7%A0%B440",
+    "timestamp": "2026-07-25T13:04:10.955Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "直擊港版《金秘書為何那樣》拍攝現場　Anson Lo輕攬Ivy So纖腰",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260725/1157538833512796160315872.jpeg/6mjgAOr5qRighigCeOLrfnLXwd8CB2dDnop_naSKf50?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60373472/%E7%8F%8D%E6%83%9C%E7%94%9F%E5%91%BD-%E9%95%B7%E6%B2%99%E7%81%A3%E5%A5%B3%E5%AD%90%E5%8D%B1%E7%AB%99%E5%81%9C%E8%BB%8A%E5%A0%B4%E9%AB%98%E8%99%95-%E9%80%BE2%E5%B0%8F%E6%99%82%E5%BE%8C%E8%A2%AB%E5%8B%B8%E6%9C%8D%E9%80%81%E9%99%A2%E6%AA%A2%E6%9F%A5",
     "timestamp": "2026-07-24T20:38:26.068Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "深水埗玩具店售陀螺爆衝突　阿叔起飛腳猛踢　青年疑還擊｜有片",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260725/1157523567399669760289065.jpeg/zM_ENG5y0VvhZxtZEqKtsKTbpYcNi8ROQGcGEUBnBhE",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60373470/%E6%B7%B1%E6%B0%B4%E5%9F%97%E7%8E%A9%E5%85%B7%E5%BA%97%E5%94%AE%E9%99%80%E8%9E%BA%E7%88%86%E8%A1%9D%E7%AA%81-%E9%98%BF%E5%8F%94%E8%B5%B7%E9%A3%9B%E8%85%B3%E7%8C%9B%E8%B8%A2-%E9%9D%92%E5%B9%B4%E7%96%91%E9%82%84%E6%93%8A-%E6%9C%89%E7%89%87",
-    "timestamp": "2026-07-24T19:54:04.648Z",
     "strategy": ".content-card__main"
   }
 ];
