@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-25T13:04:10.955Z
+// Last updated: 2026-07-25T13:39:25.566Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "國民黨反毒油遊行稱現場逾20萬人　鄭麗文帶領民眾喊：賴清德下台",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260725/1157795281358557184319257.png/pV_XtUN-aMXyb7_f-NpSSc-9it-4ngTQFJ4wsBSeMLA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8F%B0%E7%81%A3%E6%96%B0%E8%81%9E/60373631/%E5%9C%8B%E6%B0%91%E9%BB%A8%E5%8F%8D%E6%AF%92%E6%B2%B9%E9%81%8A%E8%A1%8C%E7%A8%B1%E7%8F%BE%E5%A0%B4%E9%80%BE20%E8%90%AC%E4%BA%BA-%E9%84%AD%E9%BA%97%E6%96%87%E5%B8%B6%E9%A0%98%E6%B0%91%E7%9C%BE%E5%96%8A-%E8%B3%B4%E6%B8%85%E5%BE%B7%E4%B8%8B%E5%8F%B0",
+    "timestamp": "2026-07-25T13:39:25.566Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "日本高溫創紀錄　首見連續5日破40℃",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260725/1157550636523327488764583.jpeg/kOxJwxCfR_cGh3xAcicY8aRgVg0AdaB9RdoQNEXaEDQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60373475/%E8%8B%B1%E5%81%89%E9%81%94%E7%AD%8925%E7%A7%91%E4%BC%81%E8%81%AF%E7%BD%B2%E6%92%90%E9%96%8B%E6%94%BEai%E6%A8%A1%E5%9E%8B-%E9%BB%83%E4%BB%81%E5%8B%B3%E5%95%9F%E7%94%A8%E7%A4%BE%E4%BA%A4%E5%AA%92%E9%AB%94x%E8%BD%89%E8%BC%89%E4%BF%A1%E4%BB%B6",
     "timestamp": "2026-07-24T21:14:41.592Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "珍惜生命︱長沙灣女子危站停車場高處　逾2小時後被勸服送院檢查",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260725/1157538833512796160315872.jpeg/6mjgAOr5qRighigCeOLrfnLXwd8CB2dDnop_naSKf50?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60373472/%E7%8F%8D%E6%83%9C%E7%94%9F%E5%91%BD-%E9%95%B7%E6%B2%99%E7%81%A3%E5%A5%B3%E5%AD%90%E5%8D%B1%E7%AB%99%E5%81%9C%E8%BB%8A%E5%A0%B4%E9%AB%98%E8%99%95-%E9%80%BE2%E5%B0%8F%E6%99%82%E5%BE%8C%E8%A2%AB%E5%8B%B8%E6%9C%8D%E9%80%81%E9%99%A2%E6%AA%A2%E6%9F%A5",
-    "timestamp": "2026-07-24T20:38:26.068Z",
     "strategy": ".content-card__main"
   }
 ];
