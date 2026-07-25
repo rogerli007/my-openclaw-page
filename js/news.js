@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-25T22:25:43.719Z
+// Last updated: 2026-07-25T22:53:49.815Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "紅霞風球．交通消息｜港鐵：較長露天路段需較長時間恢復全綫服務",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260725/1157679103512416256589234.jpeg/AjYp4RpgDcs5ZKpuMGE6m_KZIjIX6pE7XVAlWV1QJVk",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60373524/%E9%A2%B1%E9%A2%A8%E7%B4%85%E9%9C%9E%E4%BA%A4%E9%80%9A%E6%9C%80%E6%96%B0%E6%B6%88%E6%81%AF-%E9%A3%9B%E6%A9%9F%E8%88%AA%E7%8F%AD%E5%B7%B4%E5%A3%AB%E6%B8%AF%E9%90%B5%E6%B8%A1%E8%BC%AA%E5%AE%89%E6%8E%92",
+    "timestamp": "2026-07-25T22:53:49.815Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "颱風紅霞．公共服務｜入境處生死及婚姻登記處現暫停服務",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260725/1157755499362390016453296.jpeg/4X14v1SWMA-eJ_c7N-9Bmjb2ruSRTKW5qOZAH6jmQB8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60373600/%E9%A2%B1%E9%A2%A8%E7%B4%85%E9%9C%9E-%E7%AD%B2%E7%AE%95%E7%81%A3%E5%B0%8F%E5%AD%B85%E7%B1%B3%E9%AB%98%E5%A4%A7%E6%A8%B9%E5%80%92%E5%A1%8C-%E5%A3%93%E4%B8%AD%E4%B8%83%E4%BA%BA%E8%BB%8A",
     "timestamp": "2026-07-25T11:00:20.199Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "張敬軒澳門騷無預警唱新歌　含淚剖白愛貓與恩師離世之痛",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260725/1157732766087909376486715.jpeg/vnwGmg6WPz1c7_ljO9cjs0psj4FJgbw11jjvANY47wA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60373576/%E5%BC%B5%E6%95%AC%E8%BB%92%E6%BE%B3%E9%96%80%E9%A8%B7%E7%84%A1%E9%A0%90%E8%AD%A6%E5%94%B1%E6%96%B0%E6%AD%8C-%E5%90%AB%E6%B7%9A%E5%89%96%E7%99%BD%E6%84%9B%E8%B2%93%E8%88%87%E6%81%A9%E5%B8%AB%E9%9B%A2%E4%B8%96%E4%B9%8B%E7%97%9B",
-    "timestamp": "2026-07-25T10:21:27.570Z",
     "strategy": ".content-card__main"
   }
 ];
