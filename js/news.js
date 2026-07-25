@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-25T10:21:27.570Z
+// Last updated: 2026-07-25T11:00:20.199Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "颱風紅霞｜筲箕灣小學5米高大樹倒塌　壓中七人車",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260725/1157755499362390016453296.jpeg/4X14v1SWMA-eJ_c7N-9Bmjb2ruSRTKW5qOZAH6jmQB8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60373600/%E9%A2%B1%E9%A2%A8%E7%B4%85%E9%9C%9E-%E7%AD%B2%E7%AE%95%E7%81%A3%E5%B0%8F%E5%AD%B85%E7%B1%B3%E9%AB%98%E5%A4%A7%E6%A8%B9%E5%80%92%E5%A1%8C-%E5%A3%93%E4%B8%AD%E4%B8%83%E4%BA%BA%E8%BB%8A",
+    "timestamp": "2026-07-25T11:00:20.199Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "張敬軒澳門騷無預警唱新歌　含淚剖白愛貓與恩師離世之痛",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260426/1125151171720253440807513.jpeg/nQyUhA1ojZmXQGWO8TZPkQOoRMJETL8H8b9w5vG_cOY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60373468/%E7%99%BD%E5%AE%AE%E8%A8%98%E8%80%85%E6%99%9A%E5%AE%B44%E6%9C%88%E9%81%AD%E9%81%87%E6%A7%8D%E6%93%8A%E5%BE%8C%E4%BB%8A%E5%BE%A9%E8%BE%A6-%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%87%E5%86%8D%E5%87%BA%E5%B8%AD%E7%99%BC%E8%A1%A8%E8%AC%9B%E8%A9%B1",
     "timestamp": "2026-07-24T18:44:59.481Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "風球紅霞消息｜一號風球至少維持至中午　天文台考慮下午改發3號",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260724/1157430589675016192943876.jpeg/ieQdnzEP9LQQCjPpzxHv6DJc-TxPk9RdtY5VwrWOVcI",
-    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60373069/%E7%B4%85%E9%9C%9E%E9%A2%B1%E9%A2%A8%E8%B7%AF%E5%BE%91-%E9%A6%99%E6%B8%AF%E5%A4%A9%E6%96%87%E5%8F%B0%E6%89%93%E9%A2%A8%E6%9C%80%E6%96%B0%E6%B6%88%E6%81%AF-7-24%E6%99%9A8-40%E6%8E%9B%E4%B8%80%E8%99%9F%E9%A2%A8%E7%90%83",
-    "timestamp": "2026-07-24T17:19:33.295Z",
     "strategy": ".content-card__main"
   }
 ];
