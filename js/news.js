@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-25T16:27:29.648Z
+// Last updated: 2026-07-25T16:59:55.739Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "颱風紅霞8號風球｜近岸增強變強颱風級　天文台將掛9號周日吹暴風",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260725/1157830144241438720457301.jpeg/TFeHnf05mAaAJcLaRvBsjrn5OeNKpW4MbpDIFW6QyBU",
+    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60373651/%E9%A2%B1%E9%A2%A8%E7%B4%85%E9%9C%9E8%E8%99%9F%E9%A2%A8%E7%90%83-%E8%BF%91%E5%B2%B8%E5%A2%9E%E5%BC%B7%E8%AE%8A%E5%BC%B7%E9%A2%B1%E9%A2%A8%E7%B4%9A-%E5%A4%A9%E6%96%87%E5%8F%B0%E5%B0%87%E6%8E%9B9%E8%99%9F%E5%91%A8%E6%97%A5%E5%90%B9%E6%9A%B4%E9%A2%A8",
+    "timestamp": "2026-07-25T16:59:55.739Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "布林肯：中國在多個領域有優勢　美國單打獨鬥難取勝",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260724/1157396038483447808038761.jpeg/GtZo2y96vHo8bpUPtiE32Q99WiwfhX3p5sm9BObJvQQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60373364/%E4%B8%8A%E5%8D%87%E6%97%97%E5%BD%A2-%E9%81%8B%E7%94%A8%E4%B8%80%E6%96%87%E7%9C%8B%E6%B8%85-%E8%AC%B9%E6%85%8E%E8%80%85%E9%80%B2%E5%8F%96%E8%80%85%E5%90%8C%E6%A8%A3%E5%90%88%E7%94%A8-%E8%81%B6%E6%8C%AF%E9%82%A6",
     "timestamp": "2026-07-25T00:14:33.650Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普：伊朗在談判中變得更「認真」　但美方準備好隨時升級行動",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260725/1157584634519752704678420.jpeg/QDAC04zFxIWa4n1v2king_7YGJJwECvCkILZ0ZCC2dE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60373478/%E7%89%B9%E6%9C%97%E6%99%AE-%E4%BC%8A%E6%9C%97%E5%9C%A8%E8%AB%87%E5%88%A4%E4%B8%AD%E8%AE%8A%E5%BE%97%E6%9B%B4-%E8%AA%8D%E7%9C%9F-%E4%BD%86%E7%BE%8E%E6%96%B9%E6%BA%96%E5%82%99%E5%A5%BD%E9%9A%A8%E6%99%82%E5%8D%87%E7%B4%9A%E8%A1%8C%E5%8B%95",
-    "timestamp": "2026-07-24T23:41:47.787Z",
     "strategy": ".content-card__main"
   }
 ];
