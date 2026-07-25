@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-25T17:54:53.428Z
+// Last updated: 2026-07-25T18:29:09.722Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "強颱風紅霞．直播｜天文台改發9號風球　視乎風力變化評估發10號",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260726/1157866950009819136612359.jpeg/JHZWZ6kqMimf2URAfZxQOiOHLf-bhatIG9YmmBvWJpg",
+    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60373069/%E7%B4%85%E9%9C%9E%E9%A2%B1%E9%A2%A8%E8%B7%AF%E5%BE%91-%E9%A6%99%E6%B8%AF%E5%A4%A9%E6%96%87%E5%8F%B0%E6%89%93%E9%A2%A8%E6%9C%80%E6%96%B0%E6%B6%88%E6%81%AF-%E8%80%83%E6%85%AE%E4%BB%8A%E6%99%9A%E6%94%B9%E7%99%BC8%E8%99%9F",
+    "timestamp": "2026-07-25T18:29:09.722Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "紅霞颱風｜9號風球至少掛至0700動漫節開唔開？惡劣天氣安排一覽",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260725/1157626512871002112015647.jpeg/0k6QeXO3DdSKJQOh_TYoB5XovTz6Ew9MlXK7IpVyuyI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60373493/%E9%A2%B1%E9%A2%A8%E7%B4%85%E9%9C%9E-%E6%83%A0%E5%B7%9E-%E6%B7%B1%E6%B1%95%E5%95%9F%E5%8B%95-%E4%BA%94%E5%81%9C-%E6%B7%B1%E5%9C%B3%E5%85%A8%E5%B8%82%E9%A2%B1%E9%A2%A8%E9%A0%90%E8%AD%A6%E5%8D%87%E7%B4%9A%E7%82%BA%E8%97%8D%E8%89%B2",
     "timestamp": "2026-07-25T03:57:09.245Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "林盛斌18歲大女林霏兒性感大解放　自信低胸裝大派福利震撼眼球",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260724/1157456978373513216912604.jpeg/tbubEqijzKUx1uArFEU1HuChCvhnVd5oPM4qKDzOKig?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60373452/%E6%9E%97%E7%9B%9B%E6%96%8C18%E6%AD%B2%E5%A4%A7%E5%A5%B3%E6%9E%97%E9%9C%8F%E5%85%92%E6%80%A7%E6%84%9F%E5%A4%A7%E8%A7%A3%E6%94%BE-%E8%87%AA%E4%BF%A1%E4%BD%8E%E8%83%B8%E8%A3%9D%E5%A4%A7%E6%B4%BE%E7%A6%8F%E5%88%A9%E9%9C%87%E6%92%BC%E7%9C%BC%E7%90%83",
-    "timestamp": "2026-07-25T02:45:34.505Z",
     "strategy": ".content-card__main"
   }
 ];
