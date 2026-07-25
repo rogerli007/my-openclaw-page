@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-25T03:57:09.245Z
+// Last updated: 2026-07-25T05:12:28.129Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "女生搭巴士「連鞋帶腳」踩座位！疑事主致歉認行為不當：令人反感",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260724/1157314971088982016290475.jpeg/raMJ8HPKlC3J1bu0T10gTrf0It6whhp1E2zVkxNs1ZM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60372992/%E5%A5%B3%E7%94%9F%E6%90%AD%E5%B7%B4%E5%A3%AB-%E9%80%A3%E9%9E%8B%E5%B8%B6%E8%85%B3-%E8%B8%A9%E5%BA%A7%E4%BD%8D-%E7%96%91%E4%BA%8B%E4%B8%BB%E8%87%B4%E6%AD%89%E8%AA%8D%E8%A1%8C%E7%82%BA%E4%B8%8D%E7%95%B6-%E4%BB%A4%E4%BA%BA%E5%8F%8D%E6%84%9F",
+    "timestamp": "2026-07-25T05:12:28.129Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "颱風紅霞｜惠州、深汕啟動「五停」　深圳全市颱風預警升級為藍色",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20241206/941771259883032576470613.jpeg/tzPopjVmgYy-NIAoN547_XT-ev2PhPuAF2mGGjJphho?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60373414/%E6%8C%87%E5%B1%8B%E5%AE%87%E7%BD%B2%E6%8B%86%E5%83%AD%E5%BB%BA%E7%89%A9%E6%99%82%E9%91%BF%E6%B4%9E%E8%87%B4%E8%A2%AB%E7%88%86%E7%AB%8A-%E5%85%AC%E5%8F%B8%E7%A8%B1%E5%A4%B1%E8%B2%A1%E7%89%A9600%E8%90%AC-%E5%85%A5%E7%A8%9F%E7%B4%A2%E5%84%9F",
     "timestamp": "2026-07-24T11:28:56.211Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "運輸署：為配合道路工程　龍翔道東行近大磡道今晚至翌晨分段封閉",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260724/1157381933450137600014263.jpeg/lg0Q_AuFEwUBDjYqm1gSnaWP6d-U-L5W-Y2rQvmNq0I?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60373376/%E9%81%8B%E8%BC%B8%E7%BD%B2-%E7%82%BA%E9%85%8D%E5%90%88%E9%81%93%E8%B7%AF%E5%B7%A5%E7%A8%8B-%E9%BE%8D%E7%BF%94%E9%81%93%E6%9D%B1%E8%A1%8C%E8%BF%91%E5%A4%A7%E7%A3%A1%E9%81%93%E4%BB%8A%E6%99%9A%E8%87%B3%E7%BF%8C%E6%99%A8%E5%88%86%E6%AE%B5%E5%B0%81%E9%96%89",
-    "timestamp": "2026-07-24T10:48:53.879Z",
     "strategy": ".content-card__main"
   }
 ];
