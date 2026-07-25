@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-25T12:01:04.816Z
+// Last updated: 2026-07-25T12:33:10.318Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "直擊港版《金秘書為何那樣》拍攝現場　Anson Lo輕攬Ivy So纖腰",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260725/1157736277752156160539048.jpeg/b6RCoelED1iOTuXLly7O1eDRxEqCt_L-vzWFfL81hXw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60373581/%E7%9B%B4%E6%93%8A%E6%B8%AF%E7%89%88-%E9%87%91%E7%A7%98%E6%9B%B8%E7%82%BA%E4%BD%95%E9%82%A3%E6%A8%A3-%E6%8B%8D%E6%94%9D%E7%8F%BE%E5%A0%B4-anson-lo%E8%BC%95%E6%94%ACivy-so%E7%BA%96%E8%85%B0",
+    "timestamp": "2026-07-25T12:33:10.318Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "土瓜灣業主登門收樓揭一貓殞命　愛協檢倖存貓隻　警列虐畜追查",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260725/1157523567399669760289065.jpeg/zM_ENG5y0VvhZxtZEqKtsKTbpYcNi8ROQGcGEUBnBhE",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60373470/%E6%B7%B1%E6%B0%B4%E5%9F%97%E7%8E%A9%E5%85%B7%E5%BA%97%E5%94%AE%E9%99%80%E8%9E%BA%E7%88%86%E8%A1%9D%E7%AA%81-%E9%98%BF%E5%8F%94%E8%B5%B7%E9%A3%9B%E8%85%B3%E7%8C%9B%E8%B8%A2-%E9%9D%92%E5%B9%B4%E7%96%91%E9%82%84%E6%93%8A-%E6%9C%89%E7%89%87",
     "timestamp": "2026-07-24T19:54:04.648Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "白宮記者晚宴4月遭遇槍擊後今復辦　特朗普將再出席發表講話",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260426/1125151171720253440807513.jpeg/nQyUhA1ojZmXQGWO8TZPkQOoRMJETL8H8b9w5vG_cOY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60373468/%E7%99%BD%E5%AE%AE%E8%A8%98%E8%80%85%E6%99%9A%E5%AE%B44%E6%9C%88%E9%81%AD%E9%81%87%E6%A7%8D%E6%93%8A%E5%BE%8C%E4%BB%8A%E5%BE%A9%E8%BE%A6-%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%87%E5%86%8D%E5%87%BA%E5%B8%AD%E7%99%BC%E8%A1%A8%E8%AC%9B%E8%A9%B1",
-    "timestamp": "2026-07-24T19:22:36.823Z",
     "strategy": ".content-card__main"
   }
 ];
