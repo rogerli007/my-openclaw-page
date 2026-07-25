@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-25T15:57:48.129Z
+// Last updated: 2026-07-25T16:27:29.648Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "布林肯：中國在多個領域有優勢　美國單打獨鬥難取勝",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20241215/944801828225159168570961.jpeg/GocVP_m4_rsiVlj1Xhxm9XtkZMDlpa-aDQH3EQ0B9xE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60373662/%E5%B8%83%E6%9E%97%E8%82%AF-%E4%B8%AD%E5%9C%8B%E5%9C%A8%E5%A4%9A%E5%80%8B%E9%A0%98%E5%9F%9F%E6%9C%89%E5%84%AA%E5%8B%A2-%E7%BE%8E%E5%9C%8B%E5%96%AE%E6%89%93%E7%8D%A8%E9%AC%A5%E9%9B%A3%E5%8F%96%E5%8B%9D",
+    "timestamp": "2026-07-25T16:27:29.648Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "颱風紅霞｜各大口岸交通消息　部份跨境客運巴士、列車服務調整",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260725/1157584634519752704678420.jpeg/QDAC04zFxIWa4n1v2king_7YGJJwECvCkILZ0ZCC2dE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60373478/%E7%89%B9%E6%9C%97%E6%99%AE-%E4%BC%8A%E6%9C%97%E5%9C%A8%E8%AB%87%E5%88%A4%E4%B8%AD%E8%AE%8A%E5%BE%97%E6%9B%B4-%E8%AA%8D%E7%9C%9F-%E4%BD%86%E7%BE%8E%E6%96%B9%E6%BA%96%E5%82%99%E5%A5%BD%E9%9A%A8%E6%99%82%E5%8D%87%E7%B4%9A%E8%A1%8C%E5%8B%95",
     "timestamp": "2026-07-24T23:41:47.787Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普不滿Google遭重罰　揚言將對歐盟展開301調查並加徵關稅",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260725/1157573229758386176340157.jpeg/CE20VzXQumPBokGqLCapsYMyaLhJLgApgZKCDYGSgg0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60373477/%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8D%E6%BB%BFgoogle%E9%81%AD%E9%87%8D%E7%BD%B0-%E6%8F%9A%E8%A8%80%E5%B0%87%E5%B0%8D%E6%AD%90%E7%9B%9F%E5%B1%95%E9%96%8B301%E8%AA%BF%E6%9F%A5%E4%B8%A6%E5%8A%A0%E5%BE%B5%E9%97%9C%E7%A8%85",
-    "timestamp": "2026-07-24T22:42:10.775Z",
     "strategy": ".content-card__main"
   }
 ];
