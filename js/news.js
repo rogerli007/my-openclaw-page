@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-25T16:59:55.739Z
+// Last updated: 2026-07-25T17:28:45.911Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "珍惜生命｜牛池灣彩雲邨25歲男子墮樓　當場身亡",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260726/1157858452689653760268051.jpeg/3P2hkAVgM9cFosghR2gmQVZw1gp-YxcvMBQDuQoUA7k?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60373665/%E7%8F%8D%E6%83%9C%E7%94%9F%E5%91%BD-%E7%89%9B%E6%B1%A0%E7%81%A3%E5%BD%A9%E9%9B%B2%E9%82%A825%E6%AD%B2%E7%94%B7%E5%AD%90%E5%A2%AE%E6%A8%93-%E7%95%B6%E5%A0%B4%E8%BA%AB%E4%BA%A1",
+    "timestamp": "2026-07-25T17:28:45.911Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "颱風紅霞8號風球｜近岸增強變強颱風級　天文台將掛9號周日吹暴風",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260512/1130914931919556608105429.jpeg/kVsDPMXatzKoU3fXPiRCUnDXtBfCbghPcnBLKXJwSyk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60373485/%E4%B8%AD%E7%BE%8Eai%E7%AB%B6%E8%B3%BD-anthropic%E7%99%BC%E5%B8%83claude-opus-5%E6%A8%A1%E5%9E%8B-sell%E6%9B%B4%E4%BD%8E%E6%88%90%E6%9C%AC",
     "timestamp": "2026-07-25T00:58:54.830Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "「上升旗形」運用一文看清　謹慎者進取者同樣合用｜聶振邦",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260724/1157396038483447808038761.jpeg/GtZo2y96vHo8bpUPtiE32Q99WiwfhX3p5sm9BObJvQQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60373364/%E4%B8%8A%E5%8D%87%E6%97%97%E5%BD%A2-%E9%81%8B%E7%94%A8%E4%B8%80%E6%96%87%E7%9C%8B%E6%B8%85-%E8%AC%B9%E6%85%8E%E8%80%85%E9%80%B2%E5%8F%96%E8%80%85%E5%90%8C%E6%A8%A3%E5%90%88%E7%94%A8-%E8%81%B6%E6%8C%AF%E9%82%A6",
-    "timestamp": "2026-07-25T00:14:33.650Z",
     "strategy": ".content-card__main"
   }
 ];
