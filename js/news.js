@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-25T06:10:06.569Z
+// Last updated: 2026-07-25T07:07:46.360Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "西班牙野火影響多市　NASA深空通訊站遭波及　職員急撤離",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260725/1157700945375662080840371.jpeg/XUIj3ZBp3ye1jpy4wjX9WtMo87vMOdBL_KVDrvylQ64?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60373550/%E8%A5%BF%E7%8F%AD%E7%89%99%E9%87%8E%E7%81%AB%E5%BD%B1%E9%9F%BF%E5%A4%9A%E5%B8%82-nasa%E6%B7%B1%E7%A9%BA%E9%80%9A%E8%A8%8A%E7%AB%99%E9%81%AD%E6%B3%A2%E5%8F%8A-%E8%81%B7%E5%93%A1%E6%80%A5%E6%92%A4%E9%9B%A2",
+    "timestamp": "2026-07-25T07:07:46.360Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "西貢傲瀧蝕完再蝕！頂層一房連天台戶716萬沽　上手3年唔見半球",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260724/1157415975897796608608372.jpeg/oWGfn74uzUYHyA7_j6b1T_-JwJZUsGRENPIy7A7yMuw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60373424/%E8%AC%9D%E8%B3%A2%E9%9B%A2%E4%B8%96-%E8%AD%9A%E4%BF%8A%E5%BD%A5%E6%86%B6%E5%9B%9B%E5%93%A5%E7%9A%AE%E8%A4%B8%E9%90%B5%E9%A8%8E%E5%9E%8B%E7%88%86%E7%99%BB%E5%A0%B4-%E9%99%B3%E7%85%92%E8%AE%9A%E7%80%9F%E7%81%91%E6%95%AC%E6%A5%AD%E6%A8%82%E6%A5%AD",
     "timestamp": "2026-07-24T12:51:26.207Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "台海有戰事｜兩岸「和統」須有三大前提",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260410/1119276998263443456837509.jpeg/20DT270dHGY8Q6ljFEjPECon-AcB22RBgkKS-YJCkvk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E4%B8%AD%E5%9C%8B%E8%A7%80%E5%AF%9F/60373256/%E5%8F%B0%E6%B5%B7%E6%9C%89%E6%88%B0%E4%BA%8B-%E5%85%A9%E5%B2%B8-%E5%92%8C%E7%B5%B1-%E9%A0%88%E6%9C%89%E4%B8%89%E5%A4%A7%E5%89%8D%E6%8F%90",
-    "timestamp": "2026-07-24T12:06:45.842Z",
     "strategy": ".content-card__main"
   }
 ];
