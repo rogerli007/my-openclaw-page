@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-24T23:41:47.787Z
+// Last updated: 2026-07-25T00:14:33.650Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "「上升旗形」運用一文看清　謹慎者進取者同樣合用｜聶振邦",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260724/1157396038483447808038761.jpeg/GtZo2y96vHo8bpUPtiE32Q99WiwfhX3p5sm9BObJvQQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60373364/%E4%B8%8A%E5%8D%87%E6%97%97%E5%BD%A2-%E9%81%8B%E7%94%A8%E4%B8%80%E6%96%87%E7%9C%8B%E6%B8%85-%E8%AC%B9%E6%85%8E%E8%80%85%E9%80%B2%E5%8F%96%E8%80%85%E5%90%8C%E6%A8%A3%E5%90%88%E7%94%A8-%E8%81%B6%E6%8C%AF%E9%82%A6",
+    "timestamp": "2026-07-25T00:14:33.650Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "特朗普：伊朗在談判中變得更「認真」　但美方準備好隨時升級行動",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260724/1157336466536271872015847.png/afvaXvKSBDUtiTZOTx6Ug5U1hAmC1D4rz5E87c-RPO0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60355403/%E9%95%B7%E5%A3%BD-%E7%A0%94%E7%A9%B6%E8%AD%894%E9%A1%9E%E6%A4%8D%E7%89%A9%E6%80%A7%E9%A3%9F%E7%89%A9%E6%8A%97%E8%80%81%E5%8A%A9%E9%98%B2%E7%99%8C-%E9%80%B2%E9%A3%9F6%E5%8E%9F%E5%89%87%E6%B0%B4%E6%9E%9C%E6%8F%9B%E9%A1%8F%E8%89%B2%E5%90%83",
     "timestamp": "2026-07-24T08:05:16.669Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "屯門南延綫｜屯門南站地基工程完成　延綫2030年前竣工　通車待定",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260724/1157339444487917568153960.jpeg/JvoU-7sqW6_kWLsGrEWzlcVBdXBNojaMlO6X15Tul9c?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60373254/%E5%B1%AF%E9%96%80%E5%8D%97%E5%BB%B6%E7%B6%AB-%E5%B1%AF%E9%96%80%E5%8D%97%E7%AB%99%E5%9C%B0%E5%9F%BA%E5%B7%A5%E7%A8%8B%E5%AE%8C%E6%88%90-%E5%BB%B6%E7%B6%AB2030%E5%B9%B4%E5%89%8D%E7%AB%A3%E5%B7%A5-%E9%80%9A%E8%BB%8A%E5%BE%85%E5%AE%9A",
-    "timestamp": "2026-07-24T07:14:31.298Z",
     "strategy": ".content-card__main"
   }
 ];
