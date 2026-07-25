@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-25T08:01:26.761Z
+// Last updated: 2026-07-25T08:52:37.907Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "颱風紅霞｜長沙灣道大廈竹棚大面積崩塌　壓相鄰大廈",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260725/1157726435645853696458102.png/mdTGK2-W_X8IyMb3lGux46Gz_OgAMCkmYr3szmK97M4?v=w1920",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60373572/%E9%A2%B1%E9%A2%A8%E7%B4%85%E9%9C%9E-%E9%95%B7%E6%B2%99%E7%81%A3%E9%81%93%E5%A4%A7%E5%BB%88%E7%AB%B9%E6%A3%9A%E5%A4%A7%E9%9D%A2%E7%A9%8D%E5%B4%A9%E5%A1%8C-%E5%A3%93%E7%9B%B8%E9%84%B0%E5%A4%A7%E5%BB%88",
+    "timestamp": "2026-07-25T08:52:37.907Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "特朗普關稅陰霾下　美加大橋慶祝開幕　加拿大未邀美方出席儀式",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260724/1157469368762765312815034.jpeg/VEhV_srOUPieQsWQldxT4XigkulwQ-nwQUnZnUFJ2Z0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60373457/%E6%B8%AF%E9%90%B5%E8%BB%8A%E5%BB%82mma-2%E7%94%B7%E7%96%91%E6%8E%A8%E6%92%9E%E5%8F%A3%E8%A7%92%E5%8B%95%E6%89%8B-%E5%8F%89%E9%A0%B8%E5%87%BA%E6%8B%B3%E7%BA%8F%E9%AC%A5-%E4%B9%98%E5%AE%A2%E8%A7%80%E6%88%B0",
     "timestamp": "2026-07-24T15:50:49.171Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "大圍世界花園梯間垃圾箱起火　消防認為火警起因有可疑　暫列縱火",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260114/1088123567440138240738421.jpeg/TAbuUmFMoj-0iGAaxYvagViSPo-lzjwxy0alastGpWo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60373450/%E5%A4%A7%E5%9C%8D%E4%B8%96%E7%95%8C%E8%8A%B1%E5%9C%92%E6%A2%AF%E9%96%93%E5%9E%83%E5%9C%BE%E7%AE%B1%E8%B5%B7%E7%81%AB-%E6%B6%88%E9%98%B2%E8%AA%8D%E7%82%BA%E7%81%AB%E8%AD%A6%E8%B5%B7%E5%9B%A0%E6%9C%89%E5%8F%AF%E7%96%91-%E6%9A%AB%E5%88%97%E7%B8%B1%E7%81%AB",
-    "timestamp": "2026-07-24T14:27:01.637Z",
     "strategy": ".content-card__main"
   }
 ];
