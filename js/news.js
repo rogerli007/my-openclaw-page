@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-25T18:54:46.354Z
+// Last updated: 2026-07-25T19:34:36.584Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "西歐山火蔓延逾25萬人撤離　西班牙首頒緊急狀態　法軍出動救災",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260726/1157880678935695360541928.jpeg/8OvchGt4ebcmpHKqwluMZyjYLIJyURnCB_99MQf_fTE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60373668/%E8%A5%BF%E6%AD%90%E5%B1%B1%E7%81%AB%E8%94%93%E5%BB%B6%E9%80%BE25%E8%90%AC%E4%BA%BA%E6%92%A4%E9%9B%A2-%E8%A5%BF%E7%8F%AD%E7%89%99%E9%A6%96%E9%A0%92%E7%B7%8A%E6%80%A5%E7%8B%80%E6%85%8B-%E6%B3%95%E8%BB%8D%E5%87%BA%E5%8B%95%E6%95%91%E7%81%BD",
+    "timestamp": "2026-07-25T19:34:36.584Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "尖沙咀樓上吧醉男被圍毆　昏迷送院搶救　警追緝群煞",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20231201/807223174323245056265179.jpeg/3OIoc7-TC6WuCjm9WQMKafPtP24LCghXG3BtKRtwbSk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60373386/%E8%A5%BF%E8%B2%A2%E5%82%B2%E7%80%A7%E8%9D%95%E5%AE%8C%E5%86%8D%E8%9D%95-%E9%A0%82%E5%B1%A4%E4%B8%80%E6%88%BF%E9%80%A3%E5%A4%A9%E5%8F%B0%E6%88%B6716%E8%90%AC%E6%B2%BD-%E4%B8%8A%E6%89%8B3%E5%B9%B4%E5%94%94%E8%A6%8B%E5%8D%8A%E7%90%83",
     "timestamp": "2026-07-25T06:10:06.569Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "女生搭巴士「連鞋帶腳」踩座位！疑事主致歉認行為不當：令人反感",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260724/1157314971088982016290475.jpeg/raMJ8HPKlC3J1bu0T10gTrf0It6whhp1E2zVkxNs1ZM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60372992/%E5%A5%B3%E7%94%9F%E6%90%AD%E5%B7%B4%E5%A3%AB-%E9%80%A3%E9%9E%8B%E5%B8%B6%E8%85%B3-%E8%B8%A9%E5%BA%A7%E4%BD%8D-%E7%96%91%E4%BA%8B%E4%B8%BB%E8%87%B4%E6%AD%89%E8%AA%8D%E8%A1%8C%E7%82%BA%E4%B8%8D%E7%95%B6-%E4%BB%A4%E4%BA%BA%E5%8F%8D%E6%84%9F",
-    "timestamp": "2026-07-25T05:12:28.129Z",
     "strategy": ".content-card__main"
   }
 ];
