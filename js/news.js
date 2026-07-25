@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-25T21:25:35.516Z
+// Last updated: 2026-07-25T22:25:43.719Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "颱風紅霞．公共服務｜入境處生死及婚姻登記處現暫停服務",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260726/1157925293030117376279608.jpeg/NoDl4Zc-0i_uTsPWRgdCwyeO3tpbVhJkNL-5PTS_uT0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60373583/%E9%A2%B1%E9%A2%A8%E7%B4%85%E9%9C%9E-%E5%85%AC%E5%85%B1%E6%9C%8D%E5%8B%99-%E5%85%A5%E5%A2%83%E8%99%95%E7%94%9F%E6%AD%BB%E5%8F%8A%E5%A9%9A%E5%A7%BB%E7%99%BB%E8%A8%98%E8%99%95%E7%8F%BE%E6%9A%AB%E5%81%9C%E6%9C%8D%E5%8B%99",
+    "timestamp": "2026-07-25T22:25:43.719Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "德國警方：柏林有汽車衝撞人群　至少數人受傷　附近同志遊行取消",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260725/1157732766087909376486715.jpeg/vnwGmg6WPz1c7_ljO9cjs0psj4FJgbw11jjvANY47wA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60373576/%E5%BC%B5%E6%95%AC%E8%BB%92%E6%BE%B3%E9%96%80%E9%A8%B7%E7%84%A1%E9%A0%90%E8%AD%A6%E5%94%B1%E6%96%B0%E6%AD%8C-%E5%90%AB%E6%B7%9A%E5%89%96%E7%99%BD%E6%84%9B%E8%B2%93%E8%88%87%E6%81%A9%E5%B8%AB%E9%9B%A2%E4%B8%96%E4%B9%8B%E7%97%9B",
     "timestamp": "2026-07-25T10:21:27.570Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "颱風紅霞｜長沙灣道大廈竹棚大面積崩塌　壓相鄰大廈",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260725/1157726435645853696458102.png/mdTGK2-W_X8IyMb3lGux46Gz_OgAMCkmYr3szmK97M4?v=w1920",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60373572/%E9%A2%B1%E9%A2%A8%E7%B4%85%E9%9C%9E-%E9%95%B7%E6%B2%99%E7%81%A3%E9%81%93%E5%A4%A7%E5%BB%88%E7%AB%B9%E6%A3%9A%E5%A4%A7%E9%9D%A2%E7%A9%8D%E5%B4%A9%E5%A1%8C-%E5%A3%93%E7%9B%B8%E9%84%B0%E5%A4%A7%E5%BB%88",
-    "timestamp": "2026-07-25T08:52:37.907Z",
     "strategy": ".content-card__main"
   }
 ];
