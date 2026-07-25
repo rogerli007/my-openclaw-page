@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-25T14:22:42.790Z
+// Last updated: 2026-07-25T14:56:43.756Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "颱風紅霞8號風球｜近岸增強未見趨北　天文台預告掛9號周日吹暴風",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260725/1157697163170418688153294.jpeg/sPgXh_VcKdUWdfUH-lujLU7lMV_djRfoPAB_TTwAf00",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60373651/%E9%A2%B1%E9%A2%A8%E7%B4%85%E9%9C%9E8%E8%99%9F%E9%A2%A8%E7%90%83-%E8%BF%91%E5%B2%B8%E5%A2%9E%E5%BC%B7%E6%9C%AA%E8%A6%8B%E8%B6%A8%E5%8C%97-%E5%A4%A9%E6%96%87%E5%8F%B0%E9%A0%90%E5%91%8A%E6%8E%9B9%E8%99%9F%E5%91%A8%E6%97%A5%E5%90%B9%E6%9A%B4%E9%A2%A8",
+    "timestamp": "2026-07-25T14:56:43.756Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "珍惜生命｜天水圍天澤邨女子燒炭　丈夫揭發惜送院不治",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260725/1157565621517422592236714.jpeg/Xy2utJbh9QbRWow-RzO7tSYlvg6dcnEDktBrTqjQa04?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60373476/%E8%AD%A6%E4%BD%95%E6%96%87%E7%94%B0%E6%88%AA%E5%8F%AF%E7%96%91%E9%9B%BB%E5%96%AE%E8%BB%8A-%E6%AA%A2k%E4%BB%94%E5%92%8C%E5%8F%AF%E5%8D%A1%E5%9B%A0-%E9%90%B5%E9%A8%8E%E5%A3%AB%E6%8E%A5%E5%8F%97%E8%AA%BF%E6%9F%A5",
     "timestamp": "2026-07-24T22:14:07.501Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "英偉達等25科企聯署撐開放AI模型　黃仁勳啟用社交媒體X轉載信件",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260725/1157550636523327488764583.jpeg/kOxJwxCfR_cGh3xAcicY8aRgVg0AdaB9RdoQNEXaEDQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60373475/%E8%8B%B1%E5%81%89%E9%81%94%E7%AD%8925%E7%A7%91%E4%BC%81%E8%81%AF%E7%BD%B2%E6%92%90%E9%96%8B%E6%94%BEai%E6%A8%A1%E5%9E%8B-%E9%BB%83%E4%BB%81%E5%8B%B3%E5%95%9F%E7%94%A8%E7%A4%BE%E4%BA%A4%E5%AA%92%E9%AB%94x%E8%BD%89%E8%BC%89%E4%BF%A1%E4%BB%B6",
-    "timestamp": "2026-07-24T21:44:06.696Z",
     "strategy": ".content-card__main"
   }
 ];
