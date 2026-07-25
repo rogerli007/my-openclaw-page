@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-25T17:28:45.911Z
+// Last updated: 2026-07-25T17:54:53.428Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "紅霞颱風｜9號風球至少掛至0700動漫節開唔開？惡劣天氣安排一覽",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260723/1157067857063186432405829.jpeg/fmS9S8GBXJV_CX9ePFcbNme65KFBMGxhGkYRbj9GEW4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60373666/%E7%B4%85%E9%9C%9E%E9%A2%B1%E9%A2%A8-9%E8%99%9F%E9%A2%A8%E7%90%83%E8%87%B3%E5%B0%91%E6%8E%9B%E8%87%B30700%E5%8B%95%E6%BC%AB%E7%AF%80%E9%96%8B%E5%94%94%E9%96%8B-%E6%83%A1%E5%8A%A3%E5%A4%A9%E6%B0%A3%E5%AE%89%E6%8E%92%E4%B8%80%E8%A6%BD",
+    "timestamp": "2026-07-25T17:54:53.428Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "珍惜生命｜牛池灣彩雲邨25歲男子墮樓　當場身亡",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260724/1157456978373513216912604.jpeg/tbubEqijzKUx1uArFEU1HuChCvhnVd5oPM4qKDzOKig?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60373452/%E6%9E%97%E7%9B%9B%E6%96%8C18%E6%AD%B2%E5%A4%A7%E5%A5%B3%E6%9E%97%E9%9C%8F%E5%85%92%E6%80%A7%E6%84%9F%E5%A4%A7%E8%A7%A3%E6%94%BE-%E8%87%AA%E4%BF%A1%E4%BD%8E%E8%83%B8%E8%A3%9D%E5%A4%A7%E6%B4%BE%E7%A6%8F%E5%88%A9%E9%9C%87%E6%92%BC%E7%9C%BC%E7%90%83",
     "timestamp": "2026-07-25T02:45:34.505Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "中美AI競賽｜Anthropic發布Claude Opus 5模型　Sell更低成本",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260512/1130914931919556608105429.jpeg/kVsDPMXatzKoU3fXPiRCUnDXtBfCbghPcnBLKXJwSyk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60373485/%E4%B8%AD%E7%BE%8Eai%E7%AB%B6%E8%B3%BD-anthropic%E7%99%BC%E5%B8%83claude-opus-5%E6%A8%A1%E5%9E%8B-sell%E6%9B%B4%E4%BD%8E%E6%88%90%E6%9C%AC",
-    "timestamp": "2026-07-25T00:58:54.830Z",
     "strategy": ".content-card__main"
   }
 ];
