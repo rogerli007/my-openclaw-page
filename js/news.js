@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-25T18:29:09.722Z
+// Last updated: 2026-07-25T18:54:46.354Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "尖沙咀樓上吧醉男被圍毆　昏迷送院搶救　警追緝群煞",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260726/1157875690960326656296548.jpeg/txoePF6BxW6dGoF3Uihzz9IzYI_xqyM4WU_99WNP_fU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60373667/%E5%B0%96%E6%B2%99%E5%92%80%E6%A8%93%E4%B8%8A%E5%90%A7%E9%86%89%E7%94%B7%E8%A2%AB%E5%9C%8D%E6%AF%86-%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2%E6%90%B6%E6%95%91-%E8%AD%A6%E8%BF%BD%E7%B7%9D%E7%BE%A4%E7%85%9E",
+    "timestamp": "2026-07-25T18:54:46.354Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "強颱風紅霞．直播｜天文台改發9號風球　視乎風力變化評估發10號",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260724/1157314971088982016290475.jpeg/raMJ8HPKlC3J1bu0T10gTrf0It6whhp1E2zVkxNs1ZM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60372992/%E5%A5%B3%E7%94%9F%E6%90%AD%E5%B7%B4%E5%A3%AB-%E9%80%A3%E9%9E%8B%E5%B8%B6%E8%85%B3-%E8%B8%A9%E5%BA%A7%E4%BD%8D-%E7%96%91%E4%BA%8B%E4%B8%BB%E8%87%B4%E6%AD%89%E8%AA%8D%E8%A1%8C%E7%82%BA%E4%B8%8D%E7%95%B6-%E4%BB%A4%E4%BA%BA%E5%8F%8D%E6%84%9F",
     "timestamp": "2026-07-25T05:12:28.129Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "颱風紅霞｜惠州、深汕啟動「五停」　深圳全市颱風預警升級為藍色",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260725/1157626512871002112015647.jpeg/0k6QeXO3DdSKJQOh_TYoB5XovTz6Ew9MlXK7IpVyuyI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60373493/%E9%A2%B1%E9%A2%A8%E7%B4%85%E9%9C%9E-%E6%83%A0%E5%B7%9E-%E6%B7%B1%E6%B1%95%E5%95%9F%E5%8B%95-%E4%BA%94%E5%81%9C-%E6%B7%B1%E5%9C%B3%E5%85%A8%E5%B8%82%E9%A2%B1%E9%A2%A8%E9%A0%90%E8%AD%A6%E5%8D%87%E7%B4%9A%E7%82%BA%E8%97%8D%E8%89%B2",
-    "timestamp": "2026-07-25T03:57:09.245Z",
     "strategy": ".content-card__main"
   }
 ];
