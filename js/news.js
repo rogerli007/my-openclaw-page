@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-25T20:31:16.759Z
+// Last updated: 2026-07-25T21:25:35.516Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "德國警方：柏林有汽車衝撞人群　至少數人受傷　附近同志遊行取消",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260726/1157917413635788800017645.jpeg/zHGAulPwjdLRYMVNLXsfw_-4jDarinmb-O_2cPjv9nA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60373674/%E5%BE%B7%E5%9C%8B%E8%AD%A6%E6%96%B9-%E6%9F%8F%E6%9E%97%E6%9C%89%E6%B1%BD%E8%BB%8A%E8%A1%9D%E6%92%9E%E4%BA%BA%E7%BE%A4-%E8%87%B3%E5%B0%91%E6%95%B8%E4%BA%BA%E5%8F%97%E5%82%B7-%E9%99%84%E8%BF%91%E5%90%8C%E5%BF%97%E9%81%8A%E8%A1%8C%E5%8F%96%E6%B6%88",
+    "timestamp": "2026-07-25T21:25:35.516Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "紅霞．交通消息｜9號風球生效　港鐵早上露天路段列車服務暫停",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260725/1157726435645853696458102.png/mdTGK2-W_X8IyMb3lGux46Gz_OgAMCkmYr3szmK97M4?v=w1920",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60373572/%E9%A2%B1%E9%A2%A8%E7%B4%85%E9%9C%9E-%E9%95%B7%E6%B2%99%E7%81%A3%E9%81%93%E5%A4%A7%E5%BB%88%E7%AB%B9%E6%A3%9A%E5%A4%A7%E9%9D%A2%E7%A9%8D%E5%B4%A9%E5%A1%8C-%E5%A3%93%E7%9B%B8%E9%84%B0%E5%A4%A7%E5%BB%88",
     "timestamp": "2026-07-25T08:52:37.907Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普關稅陰霾下　美加大橋慶祝開幕　加拿大未邀美方出席儀式",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260725/1157712359066701824261780.jpeg/bx36OTsuuSLtURYloUcTHbaEHRa0JHYBz86HZc_Oh2U?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60373552/%E7%89%B9%E6%9C%97%E6%99%AE%E9%97%9C%E7%A8%85%E9%99%B0%E9%9C%BE%E4%B8%8B-%E7%BE%8E%E5%8A%A0%E5%A4%A7%E6%A9%8B%E6%85%B6%E7%A5%9D%E9%96%8B%E5%B9%95-%E5%8A%A0%E6%8B%BF%E5%A4%A7%E6%9C%AA%E9%82%80%E7%BE%8E%E6%96%B9%E5%87%BA%E5%B8%AD%E5%84%80%E5%BC%8F",
-    "timestamp": "2026-07-25T08:01:26.761Z",
     "strategy": ".content-card__main"
   }
 ];
