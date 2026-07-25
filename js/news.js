@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-25T00:14:33.650Z
+// Last updated: 2026-07-25T00:58:54.830Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "中美AI競賽｜Anthropic發布Claude Opus 5模型　Sell更低成本",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260512/1130914931919556608105429.jpeg/kVsDPMXatzKoU3fXPiRCUnDXtBfCbghPcnBLKXJwSyk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60373485/%E4%B8%AD%E7%BE%8Eai%E7%AB%B6%E8%B3%BD-anthropic%E7%99%BC%E5%B8%83claude-opus-5%E6%A8%A1%E5%9E%8B-sell%E6%9B%B4%E4%BD%8E%E6%88%90%E6%9C%AC",
+    "timestamp": "2026-07-25T00:58:54.830Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "「上升旗形」運用一文看清　謹慎者進取者同樣合用｜聶振邦",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250922/1046866611983618048645731.jpeg/NGybFRDXLuMcgmvxBnERFPEX8X2sRliy3A2f1dwNn9U?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%A3%9F%E7%8E%A9%E8%B2%B7/60373147/%E7%B4%85%E9%9C%9E-%E5%A4%A9%E6%96%87%E5%8F%B0%E6%96%99%E5%91%A8%E6%97%A5%E5%90%B98%E7%B4%9A%E9%A2%A8-%E6%89%93%E9%A2%A8%E5%8F%AF%E5%90%A6%E9%96%8B%E5%86%B7%E6%B0%A3-%E4%B8%AD%E9%9B%BB-1%E6%83%85%E6%B3%81%E5%8B%BF%E9%96%8B",
     "timestamp": "2026-07-24T09:04:47.127Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "長壽｜研究證4類植物性食物抗老助防癌　進食6原則水果換顏色吃",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260724/1157336466536271872015847.png/afvaXvKSBDUtiTZOTx6Ug5U1hAmC1D4rz5E87c-RPO0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60355403/%E9%95%B7%E5%A3%BD-%E7%A0%94%E7%A9%B6%E8%AD%894%E9%A1%9E%E6%A4%8D%E7%89%A9%E6%80%A7%E9%A3%9F%E7%89%A9%E6%8A%97%E8%80%81%E5%8A%A9%E9%98%B2%E7%99%8C-%E9%80%B2%E9%A3%9F6%E5%8E%9F%E5%89%87%E6%B0%B4%E6%9E%9C%E6%8F%9B%E9%A1%8F%E8%89%B2%E5%90%83",
-    "timestamp": "2026-07-24T08:05:16.669Z",
     "strategy": ".content-card__main"
   }
 ];
