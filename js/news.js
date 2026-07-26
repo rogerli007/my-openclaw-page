@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-26T13:17:01.871Z
+// Last updated: 2026-07-26T13:57:55.051Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "有片｜4男的士站混戰粗口橫飛　黑衫男推撞挑釁反被連毆10拳",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260726/1158136588505452544173269.jpeg/cMpvTu0Usc7CbBhYadVW6lJAJFHNetHFteJLf7XiS38",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60373824/%E6%9C%89%E7%89%87-4%E7%94%B7%E7%9A%84%E5%A3%AB%E7%AB%99%E6%B7%B7%E6%88%B0%E7%B2%97%E5%8F%A3%E6%A9%AB%E9%A3%9B-%E9%BB%91%E8%A1%AB%E7%94%B7%E6%8E%A8%E6%92%9E%E6%8C%91%E9%87%81%E5%8F%8D%E8%A2%AB%E9%80%A3%E6%AF%8610%E6%8B%B3",
+    "timestamp": "2026-07-26T13:57:55.051Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "蔡思貝獲周星馳認證最似李小龍女演員　不忿《功夫女足》被偷票房",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260726/1157880678935695360541928.jpeg/8OvchGt4ebcmpHKqwluMZyjYLIJyURnCB_99MQf_fTE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60373668/%E8%A5%BF%E6%AD%90%E5%B1%B1%E7%81%AB%E8%94%93%E5%BB%B6%E9%80%BE25%E8%90%AC%E4%BA%BA%E6%92%A4%E9%9B%A2-%E8%A5%BF%E7%8F%AD%E7%89%99%E9%A6%96%E9%A0%92%E7%B7%8A%E6%80%A5%E7%8B%80%E6%85%8B-%E6%B3%95%E8%BB%8D%E5%87%BA%E5%8B%95%E6%95%91%E7%81%BD",
     "timestamp": "2026-07-25T19:34:36.584Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "尖沙咀樓上吧醉男被圍毆　昏迷送院搶救　警追緝群煞",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260726/1157875690960326656296548.jpeg/txoePF6BxW6dGoF3Uihzz9IzYI_xqyM4WU_99WNP_fU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60373667/%E5%B0%96%E6%B2%99%E5%92%80%E6%A8%93%E4%B8%8A%E5%90%A7%E9%86%89%E7%94%B7%E8%A2%AB%E5%9C%8D%E6%AF%86-%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2%E6%90%B6%E6%95%91-%E8%AD%A6%E8%BF%BD%E7%B7%9D%E7%BE%A4%E7%85%9E",
-    "timestamp": "2026-07-25T18:54:46.354Z",
     "strategy": ".content-card__main"
   }
 ];
