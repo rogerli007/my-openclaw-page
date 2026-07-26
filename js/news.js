@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-26T10:56:50.251Z
+// Last updated: 2026-07-26T11:35:27.576Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "颱風紅霞．有片│油麻地避風塘貨船擱淺入水　水警救出3名遇險船員",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260726/1158119178700328960236794.jpeg/QjJBYp6GTAdX7Oxr4BIUuefmbAZlW_-0UV6hQVFeoUE",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60373814/%E9%A2%B1%E9%A2%A8%E7%B4%85%E9%9C%9E-%E6%9C%89%E7%89%87-%E6%B2%B9%E9%BA%BB%E5%9C%B0%E9%81%BF%E9%A2%A8%E5%A1%98%E8%B2%A8%E8%88%B9%E6%93%B1%E6%B7%BA%E5%85%A5%E6%B0%B4-%E6%B0%B4%E8%AD%A6%E6%95%91%E5%87%BA3%E5%90%8D%E9%81%87%E9%9A%AA%E8%88%B9%E5%93%A1",
+    "timestamp": "2026-07-26T11:35:27.576Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "颱風紅霞成大殺手　大埔超級城外老榕樹倒下　居民「夾縫」中穿過",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260726/1157858452689653760268051.jpeg/3P2hkAVgM9cFosghR2gmQVZw1gp-YxcvMBQDuQoUA7k?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60373665/%E7%8F%8D%E6%83%9C%E7%94%9F%E5%91%BD-%E7%89%9B%E6%B1%A0%E7%81%A3%E5%BD%A9%E9%9B%B2%E9%82%A825%E6%AD%B2%E7%94%B7%E5%AD%90%E5%A2%AE%E6%A8%93-%E7%95%B6%E5%A0%B4%E8%BA%AB%E4%BA%A1",
     "timestamp": "2026-07-25T17:28:45.911Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "颱風紅霞8號風球｜近岸增強變強颱風級　天文台將掛9號周日吹暴風",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260725/1157830144241438720457301.jpeg/TFeHnf05mAaAJcLaRvBsjrn5OeNKpW4MbpDIFW6QyBU",
-    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60373651/%E9%A2%B1%E9%A2%A8%E7%B4%85%E9%9C%9E8%E8%99%9F%E9%A2%A8%E7%90%83-%E8%BF%91%E5%B2%B8%E5%A2%9E%E5%BC%B7%E8%AE%8A%E5%BC%B7%E9%A2%B1%E9%A2%A8%E7%B4%9A-%E5%A4%A9%E6%96%87%E5%8F%B0%E5%B0%87%E6%8E%9B9%E8%99%9F%E5%91%A8%E6%97%A5%E5%90%B9%E6%9A%B4%E9%A2%A8",
-    "timestamp": "2026-07-25T16:59:55.739Z",
     "strategy": ".content-card__main"
   }
 ];
