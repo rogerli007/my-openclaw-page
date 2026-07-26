@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-26T13:57:55.051Z
+// Last updated: 2026-07-26T15:14:30.001Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "伊朗傳媒：1艘油輪在霍爾木茲海峽偏離指定航線　觸水雷爆炸",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260413/1120337672703840256301784.jpeg/f-3lwV4XXe6SxUqOwKULlNmSQEe7-uBC8mw8BfJsPAU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60373848/%E4%BC%8A%E6%9C%97%E5%82%B3%E5%AA%92-1%E8%89%98%E6%B2%B9%E8%BC%AA%E5%9C%A8%E9%9C%8D%E7%88%BE%E6%9C%A8%E8%8C%B2%E6%B5%B7%E5%B3%BD%E5%81%8F%E9%9B%A2%E6%8C%87%E5%AE%9A%E8%88%AA%E7%B7%9A-%E8%A7%B8%E6%B0%B4%E9%9B%B7%E7%88%86%E7%82%B8",
+    "timestamp": "2026-07-26T15:14:30.001Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "有片｜4男的士站混戰粗口橫飛　黑衫男推撞挑釁反被連毆10拳",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260726/1157894303553425408053847.jpeg/lzEp3o9D0InC6GhhxFqOaLHr7ArbWsyIIiUtnhglLZ4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60373671/%E7%B4%85%E9%9C%9E%E9%A2%B1%E9%A2%A8-9%E8%99%9F%E9%A2%A8%E7%90%83%E4%B8%8B%E6%B8%85%E6%B0%B4%E7%81%A3%E9%81%93%E6%9C%89%E6%A8%B9%E5%A1%8C%E4%B8%8B-%E6%A9%AB%E4%BA%982%E6%A2%9D%E8%A1%8C%E8%BB%8A%E7%B7%9A-%E6%B6%88%E9%98%B2%E9%8B%B8%E8%B5%B0",
     "timestamp": "2026-07-25T20:04:36.284Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "西歐山火蔓延逾25萬人撤離　西班牙首頒緊急狀態　法軍出動救災",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260726/1157880678935695360541928.jpeg/8OvchGt4ebcmpHKqwluMZyjYLIJyURnCB_99MQf_fTE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60373668/%E8%A5%BF%E6%AD%90%E5%B1%B1%E7%81%AB%E8%94%93%E5%BB%B6%E9%80%BE25%E8%90%AC%E4%BA%BA%E6%92%A4%E9%9B%A2-%E8%A5%BF%E7%8F%AD%E7%89%99%E9%A6%96%E9%A0%92%E7%B7%8A%E6%80%A5%E7%8B%80%E6%85%8B-%E6%B3%95%E8%BB%8D%E5%87%BA%E5%8B%95%E6%95%91%E7%81%BD",
-    "timestamp": "2026-07-25T19:34:36.584Z",
     "strategy": ".content-card__main"
   }
 ];
