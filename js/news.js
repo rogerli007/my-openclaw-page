@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-26T02:46:23.147Z
+// Last updated: 2026-07-26T04:06:23.383Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "小狗等食被整蠱！遭誘騙出屋外隨即閂門　網：完美示範人心涼薄",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260519/1133370138431590400905761.jpeg/c6sHir2k4M388pg7n9CXF-HY3vN5PI4Deprx4Hqa8eA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%AF%B5%E7%89%A9/60351257/%E5%B0%8F%E7%8B%97%E7%AD%89%E9%A3%9F%E8%A2%AB%E6%95%B4%E8%A0%B1-%E9%81%AD%E8%AA%98%E9%A8%99%E5%87%BA%E5%B1%8B%E5%A4%96%E9%9A%A8%E5%8D%B3%E9%96%82%E9%96%80-%E7%B6%B2-%E5%AE%8C%E7%BE%8E%E7%A4%BA%E7%AF%84%E4%BA%BA%E5%BF%83%E6%B6%BC%E8%96%84",
+    "timestamp": "2026-07-26T04:06:23.383Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "黃日華親口否認復出　傳經濟出現問題霸氣反擊：我仲有錢唔使擔心",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260725/1157810048185929728097145.jpeg/6MHmTI7nfae_SGiaDAMrykeRctlsy2vqKGQxryhkMa8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60373642/%E7%8F%8D%E6%83%9C%E7%94%9F%E5%91%BD-%E5%A4%A9%E6%B0%B4%E5%9C%8D%E5%A4%A9%E6%BE%A4%E9%82%A8%E5%A5%B3%E5%AD%90%E7%87%92%E7%82%AD-%E4%B8%88%E5%A4%AB%E6%8F%AD%E7%99%BC%E6%83%9C%E9%80%81%E9%99%A2%E4%B8%8D%E6%B2%BB",
     "timestamp": "2026-07-25T14:22:42.790Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "國民黨反毒油遊行稱現場逾20萬人　鄭麗文帶領民眾喊：賴清德下台",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260725/1157795281358557184319257.png/pV_XtUN-aMXyb7_f-NpSSc-9it-4ngTQFJ4wsBSeMLA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8F%B0%E7%81%A3%E6%96%B0%E8%81%9E/60373631/%E5%9C%8B%E6%B0%91%E9%BB%A8%E5%8F%8D%E6%AF%92%E6%B2%B9%E9%81%8A%E8%A1%8C%E7%A8%B1%E7%8F%BE%E5%A0%B4%E9%80%BE20%E8%90%AC%E4%BA%BA-%E9%84%AD%E9%BA%97%E6%96%87%E5%B8%B6%E9%A0%98%E6%B0%91%E7%9C%BE%E5%96%8A-%E8%B3%B4%E6%B8%85%E5%BE%B7%E4%B8%8B%E5%8F%B0",
-    "timestamp": "2026-07-25T13:39:25.566Z",
     "strategy": ".content-card__main"
   }
 ];
