@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-26T18:42:49.131Z
+// Last updated: 2026-07-26T19:15:46.425Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "沙田單位疑遭爆竊　失值$50萬金鑽首飾　警刑事調查隊跟進",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20210609/479415066022645760014958.jpeg/FdtYJYEecyPHata_qhd9RCRMyGBTmruUCv_UxQr_1MU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60373860/%E6%B2%99%E7%94%B0%E5%96%AE%E4%BD%8D%E7%96%91%E9%81%AD%E7%88%86%E7%AB%8A-%E5%A4%B1%E5%80%BC-50%E8%90%AC%E9%87%91%E9%91%BD%E9%A6%96%E9%A3%BE-%E8%AD%A6%E5%88%91%E4%BA%8B%E8%AA%BF%E6%9F%A5%E9%9A%8A%E8%B7%9F%E9%80%B2",
+    "timestamp": "2026-07-26T19:15:46.425Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "沙田單位疑遭爆竊　失值$50萬金鑽首飾　警刑事調查隊跟進",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260726/1157950240976801792258637.jpeg/DUrg5_XnlCm8WC7akyNDI3MglC-f1vaqkVQPcpFUD3I",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60373676/%E9%A2%B1%E9%A2%A8%E7%B4%85%E9%9C%9E-%E5%B0%96%E6%B2%99%E5%92%80%E6%8D%B2%E7%99%BD%E9%A0%AD%E6%B5%AA-%E9%80%81%E8%B2%A8%E5%B7%A5%E7%8B%BC%E7%8B%BD%E6%92%BF%E9%BA%B5%E5%8C%85-%E7%8F%A0%E6%B5%B7%E9%81%8A%E5%AE%A2%E5%86%92%E9%9B%A8%E8%BF%BD%E9%A2%A8",
     "timestamp": "2026-07-25T23:55:15.388Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "紅霞風球．交通消息｜港鐵：較長露天路段需較長時間恢復全綫服務",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260725/1157679103512416256589234.jpeg/AjYp4RpgDcs5ZKpuMGE6m_KZIjIX6pE7XVAlWV1QJVk",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60373524/%E9%A2%B1%E9%A2%A8%E7%B4%85%E9%9C%9E%E4%BA%A4%E9%80%9A%E6%9C%80%E6%96%B0%E6%B6%88%E6%81%AF-%E9%A3%9B%E6%A9%9F%E8%88%AA%E7%8F%AD%E5%B7%B4%E5%A3%AB%E6%B8%AF%E9%90%B5%E6%B8%A1%E8%BC%AA%E5%AE%89%E6%8E%92",
-    "timestamp": "2026-07-25T22:53:49.815Z",
     "strategy": ".content-card__main"
   }
 ];
