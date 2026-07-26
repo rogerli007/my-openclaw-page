@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-26T04:06:23.383Z
+// Last updated: 2026-07-26T05:31:10.994Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "動漫節2026 ACGHK｜首日CosParadise ＋ CP同人區Cosplay攤位直擊",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260725/1157507518172237824763158.jpeg/xbu9sKfNBmvJtfmA-72I-O2yGfcgVhlckMeICpDHiAo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%81%8A%E6%88%B2%E5%8B%95%E6%BC%AB/60373462/%E5%8B%95%E6%BC%AB%E7%AF%802026-acghk-%E9%A6%96%E6%97%A5cosparadise-cp%E5%90%8C%E4%BA%BA%E5%8D%80cosplay%E6%94%A4%E4%BD%8D%E7%9B%B4%E6%93%8A",
+    "timestamp": "2026-07-26T05:31:10.994Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "小狗等食被整蠱！遭誘騙出屋外隨即閂門　網：完美示範人心涼薄",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260725/1157697163170418688153294.jpeg/sPgXh_VcKdUWdfUH-lujLU7lMV_djRfoPAB_TTwAf00",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60373651/%E9%A2%B1%E9%A2%A8%E7%B4%85%E9%9C%9E8%E8%99%9F%E9%A2%A8%E7%90%83-%E8%BF%91%E5%B2%B8%E5%A2%9E%E5%BC%B7%E6%9C%AA%E8%A6%8B%E8%B6%A8%E5%8C%97-%E5%A4%A9%E6%96%87%E5%8F%B0%E9%A0%90%E5%91%8A%E6%8E%9B9%E8%99%9F%E5%91%A8%E6%97%A5%E5%90%B9%E6%9A%B4%E9%A2%A8",
     "timestamp": "2026-07-25T14:56:43.756Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "珍惜生命｜天水圍天澤邨女子燒炭　丈夫揭發惜送院不治",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260725/1157810048185929728097145.jpeg/6MHmTI7nfae_SGiaDAMrykeRctlsy2vqKGQxryhkMa8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60373642/%E7%8F%8D%E6%83%9C%E7%94%9F%E5%91%BD-%E5%A4%A9%E6%B0%B4%E5%9C%8D%E5%A4%A9%E6%BE%A4%E9%82%A8%E5%A5%B3%E5%AD%90%E7%87%92%E7%82%AD-%E4%B8%88%E5%A4%AB%E6%8F%AD%E7%99%BC%E6%83%9C%E9%80%81%E9%99%A2%E4%B8%8D%E6%B2%BB",
-    "timestamp": "2026-07-25T14:22:42.790Z",
     "strategy": ".content-card__main"
   }
 ];
