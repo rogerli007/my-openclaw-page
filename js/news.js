@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-26T19:46:51.146Z
+// Last updated: 2026-07-26T20:17:30.634Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "內塔尼亞胡：此行訪美為了解特朗普對伊朗問題想法",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260727/1158247434971779072108752.jpeg/j5yGgGT2QcpYR0w3GlDbHWGZ4wgfoSgwFM9KRBTPSkQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60373862/%E5%85%A7%E5%A1%94%E5%B0%BC%E4%BA%9E%E8%83%A1-%E6%AD%A4%E8%A1%8C%E8%A8%AA%E7%BE%8E%E7%82%BA%E4%BA%86%E8%A7%A3%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%8D%E4%BC%8A%E6%9C%97%E5%95%8F%E9%A1%8C%E6%83%B3%E6%B3%95",
+    "timestamp": "2026-07-26T20:17:30.634Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "內塔尼亞胡：此行訪美為了解特朗普對伊朗問題想法",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260726/1157979178159575040396510.jpeg/Tnh9ryHjqpd72LZMwTCW1I1Dw0TNE5VL7H2FB-x9hQc",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60373683/%E7%B4%85%E9%9C%9E8%E8%99%9F%E9%A2%A8%E7%90%83-%E6%89%93%E5%B7%A5%E4%BB%94%E9%80%BC%E7%88%86%E6%B8%AF%E9%90%B5%E7%AD%89%E8%BF%94%E5%B7%A5%E7%98%8B%E5%82%B3-%E7%B6%B2%E6%B0%91-%E6%84%9F%E8%AC%9D%E8%8B%B1%E9%9B%84%E9%BB%98%E9%BB%98%E4%BB%98%E5%87%BA",
     "timestamp": "2026-07-26T01:43:08.659Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "哈薩克總統向普京直言：應結束俄烏戰爭",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260726/1157968264869974016420856.jpeg/kwQpY-5tOMw1TLWszX-iVxjBKjOAtSWovVU38L1VN_A?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60373679/%E5%93%88%E8%96%A9%E5%85%8B%E7%B8%BD%E7%B5%B1%E5%90%91%E6%99%AE%E4%BA%AC%E7%9B%B4%E8%A8%80-%E6%87%89%E7%B5%90%E6%9D%9F%E4%BF%84%E7%83%8F%E6%88%B0%E7%88%AD",
-    "timestamp": "2026-07-26T00:54:03.466Z",
     "strategy": ".content-card__main"
   }
 ];
