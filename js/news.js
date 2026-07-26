@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-26T16:38:32.821Z
+// Last updated: 2026-07-26T17:14:07.280Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "颱風紅霞｜中電：新界部份客戶供電一度受影響　料已全數恢復",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260727/1158207234304380928142796.jpeg/K78mLQ-LBdt7fOoaiAuuCwP79FhW0lg2Od-C-jnfgvo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60373858/%E9%A2%B1%E9%A2%A8%E7%B4%85%E9%9C%9E-%E4%B8%AD%E9%9B%BB-%E6%96%B0%E7%95%8C%E9%83%A8%E4%BB%BD%E5%AE%A2%E6%88%B6%E4%BE%9B%E9%9B%BB%E4%B8%80%E5%BA%A6%E5%8F%97%E5%BD%B1%E9%9F%BF-%E6%96%99%E5%B7%B2%E5%85%A8%E6%95%B8%E6%81%A2%E5%BE%A9",
+    "timestamp": "2026-07-26T17:14:07.280Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "颱風紅霞｜中電：新界部份客戶供電一度受影響　料已全數恢復",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260726/1157925293030117376279608.jpeg/NoDl4Zc-0i_uTsPWRgdCwyeO3tpbVhJkNL-5PTS_uT0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60373583/%E9%A2%B1%E9%A2%A8%E7%B4%85%E9%9C%9E-%E5%85%AC%E5%85%B1%E6%9C%8D%E5%8B%99-%E5%85%A5%E5%A2%83%E8%99%95%E7%94%9F%E6%AD%BB%E5%8F%8A%E5%A9%9A%E5%A7%BB%E7%99%BB%E8%A8%98%E8%99%95%E7%8F%BE%E6%9A%AB%E5%81%9C%E6%9C%8D%E5%8B%99",
     "timestamp": "2026-07-25T22:25:43.719Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "德國警方：柏林有汽車衝撞人群　至少數人受傷　附近同志遊行取消",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260726/1157917413635788800017645.jpeg/zHGAulPwjdLRYMVNLXsfw_-4jDarinmb-O_2cPjv9nA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60373674/%E5%BE%B7%E5%9C%8B%E8%AD%A6%E6%96%B9-%E6%9F%8F%E6%9E%97%E6%9C%89%E6%B1%BD%E8%BB%8A%E8%A1%9D%E6%92%9E%E4%BA%BA%E7%BE%A4-%E8%87%B3%E5%B0%91%E6%95%B8%E4%BA%BA%E5%8F%97%E5%82%B7-%E9%99%84%E8%BF%91%E5%90%8C%E5%BF%97%E9%81%8A%E8%A1%8C%E5%8F%96%E6%B6%88",
-    "timestamp": "2026-07-25T21:25:35.516Z",
     "strategy": ".content-card__main"
   }
 ];
