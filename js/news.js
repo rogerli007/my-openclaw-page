@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-26T06:33:06.845Z
+// Last updated: 2026-07-26T09:22:42.049Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "大S保護孩子10年不露臉　張蘭突曬「孫子正面照」　網怒轟博關注",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260726/1158091635066671104106745.png/_qRVaCiMjy2cpe7FWkoXTn9KjE2sG4EJtS67CrUuuwo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60373792/%E5%A4%A7s%E4%BF%9D%E8%AD%B7%E5%AD%A9%E5%AD%9010%E5%B9%B4%E4%B8%8D%E9%9C%B2%E8%87%89-%E5%BC%B5%E8%98%AD%E7%AA%81%E6%9B%AC-%E5%AD%AB%E5%AD%90%E6%AD%A3%E9%9D%A2%E7%85%A7-%E7%B6%B2%E6%80%92%E8%BD%9F%E5%8D%9A%E9%97%9C%E6%B3%A8",
+    "timestamp": "2026-07-26T09:22:42.049Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "周一上班注意　颱風紅霞走、廣闊低壓槽來　天文台料初時雨勢頗大",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20241215/944801828225159168570961.jpeg/GocVP_m4_rsiVlj1Xhxm9XtkZMDlpa-aDQH3EQ0B9xE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60373662/%E5%B8%83%E6%9E%97%E8%82%AF-%E4%B8%AD%E5%9C%8B%E5%9C%A8%E5%A4%9A%E5%80%8B%E9%A0%98%E5%9F%9F%E6%9C%89%E5%84%AA%E5%8B%A2-%E7%BE%8E%E5%9C%8B%E5%96%AE%E6%89%93%E7%8D%A8%E9%AC%A5%E9%9B%A3%E5%8F%96%E5%8B%9D",
     "timestamp": "2026-07-25T16:27:29.648Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "颱風紅霞｜各大口岸交通消息　部份跨境客運巴士、列車服務調整",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260725/1157821251348074496045962.jpeg/NGGoucJrvtf4c7A_lKyC6YlMBGIhEKJgYbGU-2GxlPs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60373658/%E9%A2%B1%E9%A2%A8%E7%B4%85%E9%9C%9E-%E5%90%84%E5%A4%A7%E5%8F%A3%E5%B2%B8%E4%BA%A4%E9%80%9A%E6%B6%88%E6%81%AF-%E9%83%A8%E4%BB%BD%E8%B7%A8%E5%A2%83%E5%AE%A2%E9%81%8B%E5%B7%B4%E5%A3%AB-%E5%88%97%E8%BB%8A%E6%9C%8D%E5%8B%99%E8%AA%BF%E6%95%B4",
-    "timestamp": "2026-07-25T15:57:48.129Z",
     "strategy": ".content-card__main"
   }
 ];
