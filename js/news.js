@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-25T23:55:15.388Z
+// Last updated: 2026-07-26T00:54:03.466Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "哈薩克總統向普京直言：應結束俄烏戰爭",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260726/1157968264869974016420856.jpeg/kwQpY-5tOMw1TLWszX-iVxjBKjOAtSWovVU38L1VN_A?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60373679/%E5%93%88%E8%96%A9%E5%85%8B%E7%B8%BD%E7%B5%B1%E5%90%91%E6%99%AE%E4%BA%AC%E7%9B%B4%E8%A8%80-%E6%87%89%E7%B5%90%E6%9D%9F%E4%BF%84%E7%83%8F%E6%88%B0%E7%88%AD",
+    "timestamp": "2026-07-26T00:54:03.466Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "颱風紅霞｜尖沙咀捲白頭浪　送貨工狼狽撿麵包　珠海遊客冒雨追風",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260725/1157736277752156160539048.jpeg/b6RCoelED1iOTuXLly7O1eDRxEqCt_L-vzWFfL81hXw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60373581/%E7%9B%B4%E6%93%8A%E6%B8%AF%E7%89%88-%E9%87%91%E7%A7%98%E6%9B%B8%E7%82%BA%E4%BD%95%E9%82%A3%E6%A8%A3-%E6%8B%8D%E6%94%9D%E7%8F%BE%E5%A0%B4-anson-lo%E8%BC%95%E6%94%ACivy-so%E7%BA%96%E8%85%B0",
     "timestamp": "2026-07-25T12:33:10.318Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "土瓜灣業主登門收樓揭一貓殞命　愛協檢倖存貓隻　警列虐畜追查",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260725/1157769835518627840517963.png/UiJ0i5nu2Drh6h1-kGUHcOe_RFPbtOry6JnQC-iZ0As?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60373611/%E5%9C%9F%E7%93%9C%E7%81%A3%E6%A5%AD%E4%B8%BB%E7%99%BB%E9%96%80%E6%94%B6%E6%A8%93%E6%8F%AD%E4%B8%80%E8%B2%93%E6%AE%9E%E5%91%BD-%E6%84%9B%E5%8D%94%E6%AA%A2%E5%80%96%E5%AD%98%E8%B2%93%E9%9A%BB-%E8%AD%A6%E5%88%97%E8%99%90%E7%95%9C%E8%BF%BD%E6%9F%A5",
-    "timestamp": "2026-07-25T12:01:04.816Z",
     "strategy": ".content-card__main"
   }
 ];
