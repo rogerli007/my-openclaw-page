@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-26T11:35:27.576Z
+// Last updated: 2026-07-26T12:14:09.372Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "劍擊世錦賽｜薛雅齊平生涯最佳闖次圈　鬥歐洲冠軍連贏6劍也徒勞",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260726/1158125163061972992831925.jpeg/fRURF-444JntYkSXe1l8TRemybj58jP1aQVuf2kFbn8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60373812/%E5%8A%8D%E6%93%8A%E4%B8%96%E9%8C%A6%E8%B3%BD-%E8%96%9B%E9%9B%85%E9%BD%8A%E5%B9%B3%E7%94%9F%E6%B6%AF%E6%9C%80%E4%BD%B3%E9%97%96%E6%AC%A1%E5%9C%88-%E9%AC%A5%E6%AD%90%E6%B4%B2%E5%86%A0%E8%BB%8D%E9%80%A3%E8%B4%8F6%E5%8A%8D%E4%B9%9F%E5%BE%92%E5%8B%9E",
+    "timestamp": "2026-07-26T12:14:09.372Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "颱風紅霞．有片│油麻地避風塘貨船擱淺入水　水警救出3名遇險船員",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260723/1157067857063186432405829.jpeg/fmS9S8GBXJV_CX9ePFcbNme65KFBMGxhGkYRbj9GEW4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60373666/%E7%B4%85%E9%9C%9E%E9%A2%B1%E9%A2%A8-9%E8%99%9F%E9%A2%A8%E7%90%83%E8%87%B3%E5%B0%91%E6%8E%9B%E8%87%B30700%E5%8B%95%E6%BC%AB%E7%AF%80%E9%96%8B%E5%94%94%E9%96%8B-%E6%83%A1%E5%8A%A3%E5%A4%A9%E6%B0%A3%E5%AE%89%E6%8E%92%E4%B8%80%E8%A6%BD",
     "timestamp": "2026-07-25T17:54:53.428Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "珍惜生命｜牛池灣彩雲邨25歲男子墮樓　當場身亡",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260726/1157858452689653760268051.jpeg/3P2hkAVgM9cFosghR2gmQVZw1gp-YxcvMBQDuQoUA7k?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60373665/%E7%8F%8D%E6%83%9C%E7%94%9F%E5%91%BD-%E7%89%9B%E6%B1%A0%E7%81%A3%E5%BD%A9%E9%9B%B2%E9%82%A825%E6%AD%B2%E7%94%B7%E5%AD%90%E5%A2%AE%E6%A8%93-%E7%95%B6%E5%A0%B4%E8%BA%AB%E4%BA%A1",
-    "timestamp": "2026-07-25T17:28:45.911Z",
     "strategy": ".content-card__main"
   }
 ];
