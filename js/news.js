@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-26T01:43:08.659Z
+// Last updated: 2026-07-26T02:46:23.147Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "黃日華親口否認復出　傳經濟出現問題霸氣反擊：我仲有錢唔使擔心",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260725/1157803458447806464038524.jpeg/KtmBo0LrJ-CWyfvkM2LttogbwM3RZTaip4pkz6eKZM8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60373602/%E9%BB%83%E6%97%A5%E8%8F%AF%E8%A6%AA%E5%8F%A3%E5%90%A6%E8%AA%8D%E5%BE%A9%E5%87%BA-%E5%82%B3%E7%B6%93%E6%BF%9F%E5%87%BA%E7%8F%BE%E5%95%8F%E9%A1%8C%E9%9C%B8%E6%B0%A3%E5%8F%8D%E6%93%8A-%E6%88%91%E4%BB%B2%E6%9C%89%E9%8C%A2%E5%94%94%E4%BD%BF%E6%93%94%E5%BF%83",
+    "timestamp": "2026-07-26T02:46:23.147Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "紅霞8號風球│打工仔逼爆港鐵等返工瘋傳！網民：感謝英雄默默付出",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260725/1157795281358557184319257.png/pV_XtUN-aMXyb7_f-NpSSc-9it-4ngTQFJ4wsBSeMLA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8F%B0%E7%81%A3%E6%96%B0%E8%81%9E/60373631/%E5%9C%8B%E6%B0%91%E9%BB%A8%E5%8F%8D%E6%AF%92%E6%B2%B9%E9%81%8A%E8%A1%8C%E7%A8%B1%E7%8F%BE%E5%A0%B4%E9%80%BE20%E8%90%AC%E4%BA%BA-%E9%84%AD%E9%BA%97%E6%96%87%E5%B8%B6%E9%A0%98%E6%B0%91%E7%9C%BE%E5%96%8A-%E8%B3%B4%E6%B8%85%E5%BE%B7%E4%B8%8B%E5%8F%B0",
     "timestamp": "2026-07-25T13:39:25.566Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "日本高溫創紀錄　首見連續5日破40℃",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250805/1029418799838793728645823.jpeg/L1MxAzm80ytuNS1swftXQh_fN_xegdA2Xwo0OF8KNDg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60373601/%E6%97%A5%E6%9C%AC%E9%AB%98%E6%BA%AB%E5%89%B5%E7%B4%80%E9%8C%84-%E9%A6%96%E8%A6%8B%E9%80%A3%E7%BA%8C5%E6%97%A5%E7%A0%B440",
-    "timestamp": "2026-07-25T13:04:10.955Z",
     "strategy": ".content-card__main"
   }
 ];
