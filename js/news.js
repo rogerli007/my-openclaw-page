@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-26T20:40:48.409Z
+// Last updated: 2026-07-26T21:12:12.040Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "車cam｜龍翔道司機落橋驚見逆行對頭車　網民：可能跣胎打白鴿轉",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260727/1158272301523800064458673.png/lU71FTU5U4ttl1WZr5JLzozpQGrGJr9rXdZTdl3WU3Y?v=w1920",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60373864/%E8%BB%8Acam-%E9%BE%8D%E7%BF%94%E9%81%93%E5%8F%B8%E6%A9%9F%E8%90%BD%E6%A9%8B%E9%A9%9A%E8%A6%8B%E9%80%86%E8%A1%8C%E5%B0%8D%E9%A0%AD%E8%BB%8A-%E7%B6%B2%E6%B0%91-%E5%8F%AF%E8%83%BD%E8%B7%A3%E8%83%8E%E6%89%93%E7%99%BD%E9%B4%BF%E8%BD%89",
+    "timestamp": "2026-07-26T21:12:12.040Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "內塔尼亞胡：此行訪美為了解特朗普對伊朗問題想法",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260519/1133370138431590400905761.jpeg/c6sHir2k4M388pg7n9CXF-HY3vN5PI4Deprx4Hqa8eA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%AF%B5%E7%89%A9/60351257/%E5%B0%8F%E7%8B%97%E7%AD%89%E9%A3%9F%E8%A2%AB%E6%95%B4%E8%A0%B1-%E9%81%AD%E8%AA%98%E9%A8%99%E5%87%BA%E5%B1%8B%E5%A4%96%E9%9A%A8%E5%8D%B3%E9%96%82%E9%96%80-%E7%B6%B2-%E5%AE%8C%E7%BE%8E%E7%A4%BA%E7%AF%84%E4%BA%BA%E5%BF%83%E6%B6%BC%E8%96%84",
     "timestamp": "2026-07-26T04:06:23.383Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "黃日華親口否認復出　傳經濟出現問題霸氣反擊：我仲有錢唔使擔心",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260725/1157803458447806464038524.jpeg/KtmBo0LrJ-CWyfvkM2LttogbwM3RZTaip4pkz6eKZM8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60373602/%E9%BB%83%E6%97%A5%E8%8F%AF%E8%A6%AA%E5%8F%A3%E5%90%A6%E8%AA%8D%E5%BE%A9%E5%87%BA-%E5%82%B3%E7%B6%93%E6%BF%9F%E5%87%BA%E7%8F%BE%E5%95%8F%E9%A1%8C%E9%9C%B8%E6%B0%A3%E5%8F%8D%E6%93%8A-%E6%88%91%E4%BB%B2%E6%9C%89%E9%8C%A2%E5%94%94%E4%BD%BF%E6%93%94%E5%BF%83",
-    "timestamp": "2026-07-26T02:46:23.147Z",
     "strategy": ".content-card__main"
   }
 ];
