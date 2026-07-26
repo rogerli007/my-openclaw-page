@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-26T21:12:12.040Z
+// Last updated: 2026-07-26T23:13:26.184Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "一代舞王驚爆入院　雙臂抽血引馮素波關心：康復後請你食飯",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260725/1157765464709926912382506.png/Peu5N8JcVnvLz3gnF9Y2F_bYd1wG6t3nr7wKCa-8Cgk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60373579/%E4%B8%80%E4%BB%A3%E8%88%9E%E7%8E%8B%E6%9D%8E%E9%B4%BB%E6%9D%B0%E9%A9%9A%E7%88%86%E5%85%A5%E9%99%A2-%E9%9B%99%E8%87%82%E6%8A%BD%E8%A1%80%E5%BC%95%E9%A6%AE%E7%B4%A0%E6%B3%A2%E9%97%9C%E5%BF%83-%E5%BA%B7%E5%BE%A9%E5%BE%8C%E8%AB%8B%E4%BD%A0%E9%A3%9F%E9%A3%AF",
+    "timestamp": "2026-07-26T23:13:26.184Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "車cam｜龍翔道司機落橋驚見逆行對頭車　網民：可能跣胎打白鴿轉",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260725/1157507518172237824763158.jpeg/xbu9sKfNBmvJtfmA-72I-O2yGfcgVhlckMeICpDHiAo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%81%8A%E6%88%B2%E5%8B%95%E6%BC%AB/60373462/%E5%8B%95%E6%BC%AB%E7%AF%802026-acghk-%E9%A6%96%E6%97%A5cosparadise-cp%E5%90%8C%E4%BA%BA%E5%8D%80cosplay%E6%94%A4%E4%BD%8D%E7%9B%B4%E6%93%8A",
     "timestamp": "2026-07-26T05:31:10.994Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "小狗等食被整蠱！遭誘騙出屋外隨即閂門　網：完美示範人心涼薄",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260519/1133370138431590400905761.jpeg/c6sHir2k4M388pg7n9CXF-HY3vN5PI4Deprx4Hqa8eA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%AF%B5%E7%89%A9/60351257/%E5%B0%8F%E7%8B%97%E7%AD%89%E9%A3%9F%E8%A2%AB%E6%95%B4%E8%A0%B1-%E9%81%AD%E8%AA%98%E9%A8%99%E5%87%BA%E5%B1%8B%E5%A4%96%E9%9A%A8%E5%8D%B3%E9%96%82%E9%96%80-%E7%B6%B2-%E5%AE%8C%E7%BE%8E%E7%A4%BA%E7%AF%84%E4%BA%BA%E5%BF%83%E6%B6%BC%E8%96%84",
-    "timestamp": "2026-07-26T04:06:23.383Z",
     "strategy": ".content-card__main"
   }
 ];
