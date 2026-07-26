@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-26T15:14:30.001Z
+// Last updated: 2026-07-26T15:44:48.155Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "沙特媒體：伊朗稱未退出談判　願在日內瓦等地與美復談",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260615/1143161900725440512523609.jpeg/lZzVu6StkemyZ4DsZOdIlVYTJg0qP-cKZVjSo2VY0qM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60373853/%E6%B2%99%E7%89%B9%E5%AA%92%E9%AB%94-%E4%BC%8A%E6%9C%97%E7%A8%B1%E6%9C%AA%E9%80%80%E5%87%BA%E8%AB%87%E5%88%A4-%E9%A1%98%E5%9C%A8%E6%97%A5%E5%85%A7%E7%93%A6%E7%AD%89%E5%9C%B0%E8%88%87%E7%BE%8E%E5%BE%A9%E8%AB%87",
+    "timestamp": "2026-07-26T15:44:48.155Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "伊朗傳媒：1艘油輪在霍爾木茲海峽偏離指定航線　觸水雷爆炸",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260725/1157679103512416256589234.jpeg/AjYp4RpgDcs5ZKpuMGE6m_KZIjIX6pE7XVAlWV1QJVk",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60373524/%E9%A2%B1%E9%A2%A8%E7%B4%85%E9%9C%9E%E4%BA%A4%E9%80%9A%E6%9C%80%E6%96%B0%E6%B6%88%E6%81%AF-%E9%A3%9B%E6%A9%9F%E8%88%AA%E7%8F%AD%E5%B7%B4%E5%A3%AB%E6%B8%AF%E9%90%B5%E6%B8%A1%E8%BC%AA%E5%AE%89%E6%8E%92",
     "timestamp": "2026-07-25T20:31:16.759Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "紅霞颱風｜9號風球下清水灣道有樹塌下　橫亘2條行車線　消防鋸走",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260726/1157894303553425408053847.jpeg/lzEp3o9D0InC6GhhxFqOaLHr7ArbWsyIIiUtnhglLZ4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60373671/%E7%B4%85%E9%9C%9E%E9%A2%B1%E9%A2%A8-9%E8%99%9F%E9%A2%A8%E7%90%83%E4%B8%8B%E6%B8%85%E6%B0%B4%E7%81%A3%E9%81%93%E6%9C%89%E6%A8%B9%E5%A1%8C%E4%B8%8B-%E6%A9%AB%E4%BA%982%E6%A2%9D%E8%A1%8C%E8%BB%8A%E7%B7%9A-%E6%B6%88%E9%98%B2%E9%8B%B8%E8%B5%B0",
-    "timestamp": "2026-07-25T20:04:36.284Z",
     "strategy": ".content-card__main"
   }
 ];
