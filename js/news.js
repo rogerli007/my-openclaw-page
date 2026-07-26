@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-26T12:44:16.400Z
+// Last updated: 2026-07-26T13:17:01.871Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "蔡思貝獲周星馳認證最似李小龍女演員　不忿《功夫女足》被偷票房",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260726/1158143814783733760352840.jpeg/gcI7uEByXqxeRrWfgAIBikXm8TXoA7UGKTOtzikzrc4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60373831/%E8%94%A1%E6%80%9D%E8%B2%9D%E7%8D%B2%E5%91%A8%E6%98%9F%E9%A6%B3%E8%AA%8D%E8%AD%89%E6%9C%80%E4%BC%BC%E6%9D%8E%E5%B0%8F%E9%BE%8D%E5%A5%B3%E6%BC%94%E5%93%A1-%E4%B8%8D%E5%BF%BF-%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3-%E8%A2%AB%E5%81%B7%E7%A5%A8%E6%88%BF",
+    "timestamp": "2026-07-26T13:17:01.871Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "法國西南部山火持續離波爾多僅15公里　逾22萬人已撤離｜有片",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260726/1157875690960326656296548.jpeg/txoePF6BxW6dGoF3Uihzz9IzYI_xqyM4WU_99WNP_fU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60373667/%E5%B0%96%E6%B2%99%E5%92%80%E6%A8%93%E4%B8%8A%E5%90%A7%E9%86%89%E7%94%B7%E8%A2%AB%E5%9C%8D%E6%AF%86-%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2%E6%90%B6%E6%95%91-%E8%AD%A6%E8%BF%BD%E7%B7%9D%E7%BE%A4%E7%85%9E",
     "timestamp": "2026-07-25T18:54:46.354Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "強颱風紅霞．直播｜天文台改發9號風球　視乎風力變化評估發10號",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260726/1157866950009819136612359.jpeg/JHZWZ6kqMimf2URAfZxQOiOHLf-bhatIG9YmmBvWJpg",
-    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60373069/%E7%B4%85%E9%9C%9E%E9%A2%B1%E9%A2%A8%E8%B7%AF%E5%BE%91-%E9%A6%99%E6%B8%AF%E5%A4%A9%E6%96%87%E5%8F%B0%E6%89%93%E9%A2%A8%E6%9C%80%E6%96%B0%E6%B6%88%E6%81%AF-%E8%80%83%E6%85%AE%E4%BB%8A%E6%99%9A%E6%94%B9%E7%99%BC8%E8%99%9F",
-    "timestamp": "2026-07-25T18:29:09.722Z",
     "strategy": ".content-card__main"
   }
 ];
