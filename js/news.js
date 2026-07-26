@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-26T20:17:30.634Z
+// Last updated: 2026-07-26T20:40:48.409Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "內塔尼亞胡：此行訪美為了解特朗普對伊朗問題想法",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260727/1158247434971779072108752.jpeg/j5yGgGT2QcpYR0w3GlDbHWGZ4wgfoSgwFM9KRBTPSkQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60373862/%E5%85%A7%E5%A1%94%E5%B0%BC%E4%BA%9E%E8%83%A1-%E6%AD%A4%E8%A1%8C%E8%A8%AA%E7%BE%8E%E7%82%BA%E4%BA%86%E8%A7%A3%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%8D%E4%BC%8A%E6%9C%97%E5%95%8F%E9%A1%8C%E6%83%B3%E6%B3%95",
+    "timestamp": "2026-07-26T20:40:48.409Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "內塔尼亞胡：此行訪美為了解特朗普對伊朗問題想法",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260725/1157803458447806464038524.jpeg/KtmBo0LrJ-CWyfvkM2LttogbwM3RZTaip4pkz6eKZM8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60373602/%E9%BB%83%E6%97%A5%E8%8F%AF%E8%A6%AA%E5%8F%A3%E5%90%A6%E8%AA%8D%E5%BE%A9%E5%87%BA-%E5%82%B3%E7%B6%93%E6%BF%9F%E5%87%BA%E7%8F%BE%E5%95%8F%E9%A1%8C%E9%9C%B8%E6%B0%A3%E5%8F%8D%E6%93%8A-%E6%88%91%E4%BB%B2%E6%9C%89%E9%8C%A2%E5%94%94%E4%BD%BF%E6%93%94%E5%BF%83",
     "timestamp": "2026-07-26T02:46:23.147Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "紅霞8號風球│打工仔逼爆港鐵等返工瘋傳！網民：感謝英雄默默付出",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260726/1157979178159575040396510.jpeg/Tnh9ryHjqpd72LZMwTCW1I1Dw0TNE5VL7H2FB-x9hQc",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60373683/%E7%B4%85%E9%9C%9E8%E8%99%9F%E9%A2%A8%E7%90%83-%E6%89%93%E5%B7%A5%E4%BB%94%E9%80%BC%E7%88%86%E6%B8%AF%E9%90%B5%E7%AD%89%E8%BF%94%E5%B7%A5%E7%98%8B%E5%82%B3-%E7%B6%B2%E6%B0%91-%E6%84%9F%E8%AC%9D%E8%8B%B1%E9%9B%84%E9%BB%98%E9%BB%98%E4%BB%98%E5%87%BA",
-    "timestamp": "2026-07-26T01:43:08.659Z",
     "strategy": ".content-card__main"
   }
 ];
