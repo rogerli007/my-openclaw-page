@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-26T05:31:10.994Z
+// Last updated: 2026-07-26T06:33:06.845Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "周一上班注意　颱風紅霞走、廣闊低壓槽來　天文台料初時雨勢頗大",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260726/1158036925865529344839476.jpeg/buduq69TZVGqkyaz29HH37SsaiJPlaG5nlhxa55YcWs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60373730/%E5%91%A8%E4%B8%80%E4%B8%8A%E7%8F%AD%E6%B3%A8%E6%84%8F-%E9%A2%B1%E9%A2%A8%E7%B4%85%E9%9C%9E%E8%B5%B0-%E5%BB%A3%E9%97%8A%E4%BD%8E%E5%A3%93%E6%A7%BD%E4%BE%86-%E5%A4%A9%E6%96%87%E5%8F%B0%E6%96%99%E5%88%9D%E6%99%82%E9%9B%A8%E5%8B%A2%E9%A0%97%E5%A4%A7",
+    "timestamp": "2026-07-26T06:33:06.845Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "動漫節2026 ACGHK｜首日CosParadise ＋ CP同人區Cosplay攤位直擊",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260725/1157821251348074496045962.jpeg/NGGoucJrvtf4c7A_lKyC6YlMBGIhEKJgYbGU-2GxlPs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60373658/%E9%A2%B1%E9%A2%A8%E7%B4%85%E9%9C%9E-%E5%90%84%E5%A4%A7%E5%8F%A3%E5%B2%B8%E4%BA%A4%E9%80%9A%E6%B6%88%E6%81%AF-%E9%83%A8%E4%BB%BD%E8%B7%A8%E5%A2%83%E5%AE%A2%E9%81%8B%E5%B7%B4%E5%A3%AB-%E5%88%97%E8%BB%8A%E6%9C%8D%E5%8B%99%E8%AA%BF%E6%95%B4",
     "timestamp": "2026-07-25T15:57:48.129Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "颱風紅霞8號風球｜近岸增強未見趨北　天文台預告掛9號周日吹暴風",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260725/1157697163170418688153294.jpeg/sPgXh_VcKdUWdfUH-lujLU7lMV_djRfoPAB_TTwAf00",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60373651/%E9%A2%B1%E9%A2%A8%E7%B4%85%E9%9C%9E8%E8%99%9F%E9%A2%A8%E7%90%83-%E8%BF%91%E5%B2%B8%E5%A2%9E%E5%BC%B7%E6%9C%AA%E8%A6%8B%E8%B6%A8%E5%8C%97-%E5%A4%A9%E6%96%87%E5%8F%B0%E9%A0%90%E5%91%8A%E6%8E%9B9%E8%99%9F%E5%91%A8%E6%97%A5%E5%90%B9%E6%9A%B4%E9%A2%A8",
-    "timestamp": "2026-07-25T14:56:43.756Z",
     "strategy": ".content-card__main"
   }
 ];
