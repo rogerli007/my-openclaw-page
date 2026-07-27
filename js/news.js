@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-27T06:55:31.284Z
+// Last updated: 2026-07-27T08:18:26.994Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "東野圭吾離世丨推理小說教父享年68歲　著作銷量破億橫掃影視界",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260727/1158442668821319680562301.jpeg/tqI3_me8TPNI-HgUufcZSAjyOjUfYWPTKVFA6ClRQOg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60374095/%E6%9D%B1%E9%87%8E%E5%9C%AD%E5%90%BE%E9%9B%A2%E4%B8%96-%E6%8E%A8%E7%90%86%E5%B0%8F%E8%AA%AA%E6%95%99%E7%88%B6%E4%BA%AB%E5%B9%B468%E6%AD%B2-%E8%91%97%E4%BD%9C%E9%8A%B7%E9%87%8F%E7%A0%B4%E5%84%84%E6%A9%AB%E6%8E%83%E5%BD%B1%E8%A6%96%E7%95%8C",
+    "timestamp": "2026-07-27T08:18:26.994Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "長鑫科技上市暴升近5倍　全球DRAM市佔第四成中國半導體突圍希望",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260726/1158125163061972992831925.jpeg/fRURF-444JntYkSXe1l8TRemybj58jP1aQVuf2kFbn8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60373812/%E5%8A%8D%E6%93%8A%E4%B8%96%E9%8C%A6%E8%B3%BD-%E8%96%9B%E9%9B%85%E9%BD%8A%E5%B9%B3%E7%94%9F%E6%B6%AF%E6%9C%80%E4%BD%B3%E9%97%96%E6%AC%A1%E5%9C%88-%E9%AC%A5%E6%AD%90%E6%B4%B2%E5%86%A0%E8%BB%8D%E9%80%A3%E8%B4%8F6%E5%8A%8D%E4%B9%9F%E5%BE%92%E5%8B%9E",
     "timestamp": "2026-07-26T12:14:09.372Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "颱風紅霞．有片│油麻地避風塘貨船擱淺入水　水警救出3名遇險船員",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260726/1158119178700328960236794.jpeg/QjJBYp6GTAdX7Oxr4BIUuefmbAZlW_-0UV6hQVFeoUE",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60373814/%E9%A2%B1%E9%A2%A8%E7%B4%85%E9%9C%9E-%E6%9C%89%E7%89%87-%E6%B2%B9%E9%BA%BB%E5%9C%B0%E9%81%BF%E9%A2%A8%E5%A1%98%E8%B2%A8%E8%88%B9%E6%93%B1%E6%B7%BA%E5%85%A5%E6%B0%B4-%E6%B0%B4%E8%AD%A6%E6%95%91%E5%87%BA3%E5%90%8D%E9%81%87%E9%9A%AA%E8%88%B9%E5%93%A1",
-    "timestamp": "2026-07-26T11:35:27.576Z",
     "strategy": ".content-card__main"
   }
 ];
