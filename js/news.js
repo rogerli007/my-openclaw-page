@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-27T17:56:08.059Z
+// Last updated: 2026-07-27T18:42:37.811Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "東張西望｜老人被困漆黑洗衣房長期求救無門：監犯一樣，唔畀我食",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260728/1158573080151330816247163.jpeg/QNjINVBQrEJNEvWmeueTqocms5aD2lhmslNXorJTV6I?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60374239/%E6%9D%B1%E5%BC%B5%E8%A5%BF%E6%9C%9B-%E8%80%81%E4%BA%BA%E8%A2%AB%E5%9B%B0%E6%BC%86%E9%BB%91%E6%B4%97%E8%A1%A3%E6%88%BF%E9%95%B7%E6%9C%9F%E6%B1%82%E6%95%91%E7%84%A1%E9%96%80-%E7%9B%A3%E7%8A%AF%E4%B8%80%E6%A8%A3-%E5%94%94%E7%95%80%E6%88%91%E9%A3%9F",
+    "timestamp": "2026-07-27T18:42:37.811Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "警荃灣反私煙　揭一酒店2房間用作儲存倉　拘2男檢約25萬支私煙",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260615/1143161900725440512523609.jpeg/lZzVu6StkemyZ4DsZOdIlVYTJg0qP-cKZVjSo2VY0qM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60373853/%E6%B2%99%E7%89%B9%E5%AA%92%E9%AB%94-%E4%BC%8A%E6%9C%97%E7%A8%B1%E6%9C%AA%E9%80%80%E5%87%BA%E8%AB%87%E5%88%A4-%E9%A1%98%E5%9C%A8%E6%97%A5%E5%85%A7%E7%93%A6%E7%AD%89%E5%9C%B0%E8%88%87%E7%BE%8E%E5%BE%A9%E8%AB%87",
     "timestamp": "2026-07-26T15:44:48.155Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "伊朗傳媒：1艘油輪在霍爾木茲海峽偏離指定航線　觸水雷爆炸",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260413/1120337672703840256301784.jpeg/f-3lwV4XXe6SxUqOwKULlNmSQEe7-uBC8mw8BfJsPAU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60373848/%E4%BC%8A%E6%9C%97%E5%82%B3%E5%AA%92-1%E8%89%98%E6%B2%B9%E8%BC%AA%E5%9C%A8%E9%9C%8D%E7%88%BE%E6%9C%A8%E8%8C%B2%E6%B5%B7%E5%B3%BD%E5%81%8F%E9%9B%A2%E6%8C%87%E5%AE%9A%E8%88%AA%E7%B7%9A-%E8%A7%B8%E6%B0%B4%E9%9B%B7%E7%88%86%E7%82%B8",
-    "timestamp": "2026-07-26T15:14:30.001Z",
     "strategy": ".content-card__main"
   }
 ];
