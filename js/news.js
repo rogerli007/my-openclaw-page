@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-26T23:13:26.184Z
+// Last updated: 2026-07-27T02:52:02.773Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "周末新盤彈完再彈！錄233伙　芊御次輪再沽清、海瑅灣兩日沽105伙",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260629/1148263433179762688873946.jpeg/8KtKLb8EyhVYPZvmvvfkQmRqjTiwrRiw7Pnscuz57HI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60373910/%E5%91%A8%E6%9C%AB%E6%96%B0%E7%9B%A4%E5%BD%88%E5%AE%8C%E5%86%8D%E5%BD%88-%E9%8C%84233%E4%BC%99-%E8%8A%8A%E5%BE%A1%E6%AC%A1%E8%BC%AA%E5%86%8D%E6%B2%BD%E6%B8%85-%E6%B5%B7%E7%91%85%E7%81%A3%E5%85%A9%E6%97%A5%E6%B2%BD105%E4%BC%99",
+    "timestamp": "2026-07-27T02:52:02.773Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "一代舞王驚爆入院　雙臂抽血引馮素波關心：康復後請你食飯",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260726/1158036925865529344839476.jpeg/buduq69TZVGqkyaz29HH37SsaiJPlaG5nlhxa55YcWs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60373730/%E5%91%A8%E4%B8%80%E4%B8%8A%E7%8F%AD%E6%B3%A8%E6%84%8F-%E9%A2%B1%E9%A2%A8%E7%B4%85%E9%9C%9E%E8%B5%B0-%E5%BB%A3%E9%97%8A%E4%BD%8E%E5%A3%93%E6%A7%BD%E4%BE%86-%E5%A4%A9%E6%96%87%E5%8F%B0%E6%96%99%E5%88%9D%E6%99%82%E9%9B%A8%E5%8B%A2%E9%A0%97%E5%A4%A7",
     "timestamp": "2026-07-26T06:33:06.845Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "動漫節2026 ACGHK｜首日CosParadise ＋ CP同人區Cosplay攤位直擊",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260725/1157507518172237824763158.jpeg/xbu9sKfNBmvJtfmA-72I-O2yGfcgVhlckMeICpDHiAo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%81%8A%E6%88%B2%E5%8B%95%E6%BC%AB/60373462/%E5%8B%95%E6%BC%AB%E7%AF%802026-acghk-%E9%A6%96%E6%97%A5cosparadise-cp%E5%90%8C%E4%BA%BA%E5%8D%80cosplay%E6%94%A4%E4%BD%8D%E7%9B%B4%E6%93%8A",
-    "timestamp": "2026-07-26T05:31:10.994Z",
     "strategy": ".content-card__main"
   }
 ];
