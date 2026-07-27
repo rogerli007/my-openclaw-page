@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-27T20:39:36.219Z
+// Last updated: 2026-07-27T23:42:51.356Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "西雅圖槍擊案3死4傷　警方料涉3疑犯　其中一名15歲少年被捕",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260728/1158676409934155776695310.jpeg/vHuIxlQJgla5oz95YQ7U5-YTfZhWDhj5Cvrzvgr6874?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60374251/%E8%A5%BF%E9%9B%85%E5%9C%96%E6%A7%8D%E6%93%8A%E6%A1%883%E6%AD%BB4%E5%82%B7-%E8%AD%A6%E6%96%B9%E6%96%99%E6%B6%893%E7%96%91%E7%8A%AF-%E5%85%B6%E4%B8%AD%E4%B8%80%E5%90%8D15%E6%AD%B2%E5%B0%91%E5%B9%B4%E8%A2%AB%E6%8D%95",
+    "timestamp": "2026-07-27T23:42:51.356Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美國駐多倫多領事館外遭槍擊　今年第二宗",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20210609/479415066022645760014958.jpeg/FdtYJYEecyPHata_qhd9RCRMyGBTmruUCv_UxQr_1MU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60373860/%E6%B2%99%E7%94%B0%E5%96%AE%E4%BD%8D%E7%96%91%E9%81%AD%E7%88%86%E7%AB%8A-%E5%A4%B1%E5%80%BC-50%E8%90%AC%E9%87%91%E9%91%BD%E9%A6%96%E9%A3%BE-%E8%AD%A6%E5%88%91%E4%BA%8B%E8%AA%BF%E6%9F%A5%E9%9A%8A%E8%B7%9F%E9%80%B2",
     "timestamp": "2026-07-26T18:42:49.131Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "颱風紅霞｜中電：新界部份客戶供電一度受影響　料已全數恢復",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260727/1158207234304380928142796.jpeg/K78mLQ-LBdt7fOoaiAuuCwP79FhW0lg2Od-C-jnfgvo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60373858/%E9%A2%B1%E9%A2%A8%E7%B4%85%E9%9C%9E-%E4%B8%AD%E9%9B%BB-%E6%96%B0%E7%95%8C%E9%83%A8%E4%BB%BD%E5%AE%A2%E6%88%B6%E4%BE%9B%E9%9B%BB%E4%B8%80%E5%BA%A6%E5%8F%97%E5%BD%B1%E9%9F%BF-%E6%96%99%E5%B7%B2%E5%85%A8%E6%95%B8%E6%81%A2%E5%BE%A9",
-    "timestamp": "2026-07-26T17:14:07.280Z",
     "strategy": ".content-card__main"
   }
 ];
