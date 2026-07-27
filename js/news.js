@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-27T08:18:26.994Z
+// Last updated: 2026-07-27T10:59:48.368Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "觀塘協和街巴士電單車相撞　鐵騎士倒地受傷　巴士兩乘客亦需送院",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260727/1158483653395746816087125.jpeg/bz3akTVrv-5D9l5yIZwqlzuKh7gLtFZx1LgTktS4E5I?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60374187/%E8%A7%80%E5%A1%98%E5%8D%94%E5%92%8C%E8%A1%97%E5%B7%B4%E5%A3%AB%E9%9B%BB%E5%96%AE%E8%BB%8A%E7%9B%B8%E6%92%9E-%E9%90%B5%E9%A8%8E%E5%A3%AB%E5%80%92%E5%9C%B0%E5%8F%97%E5%82%B7-%E5%B7%B4%E5%A3%AB%E5%85%A9%E4%B9%98%E5%AE%A2%E4%BA%A6%E9%9C%80%E9%80%81%E9%99%A2",
+    "timestamp": "2026-07-27T10:59:48.368Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "東野圭吾離世丨推理小說教父享年68歲　著作銷量破億橫掃影視界",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260726/1158141094777589760962745.jpeg/HLNapo3IqY4B3cnzRrW-2BUKAZwKxIMuAFh4jwBYeI8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60373832/%E6%B3%95%E5%9C%8B%E8%A5%BF%E5%8D%97%E9%83%A8%E5%B1%B1%E7%81%AB%E6%8C%81%E7%BA%8C%E9%9B%A2%E6%B3%A2%E7%88%BE%E5%A4%9A%E5%83%8515%E5%85%AC%E9%87%8C-%E9%80%BE22%E8%90%AC%E4%BA%BA%E5%B7%B2%E6%92%A4%E9%9B%A2-%E6%9C%89%E7%89%87",
     "timestamp": "2026-07-26T12:44:16.400Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "劍擊世錦賽｜薛雅齊平生涯最佳闖次圈　鬥歐洲冠軍連贏6劍也徒勞",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260726/1158125163061972992831925.jpeg/fRURF-444JntYkSXe1l8TRemybj58jP1aQVuf2kFbn8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60373812/%E5%8A%8D%E6%93%8A%E4%B8%96%E9%8C%A6%E8%B3%BD-%E8%96%9B%E9%9B%85%E9%BD%8A%E5%B9%B3%E7%94%9F%E6%B6%AF%E6%9C%80%E4%BD%B3%E9%97%96%E6%AC%A1%E5%9C%88-%E9%AC%A5%E6%AD%90%E6%B4%B2%E5%86%A0%E8%BB%8D%E9%80%A3%E8%B4%8F6%E5%8A%8D%E4%B9%9F%E5%BE%92%E5%8B%9E",
-    "timestamp": "2026-07-26T12:14:09.372Z",
     "strategy": ".content-card__main"
   }
 ];
