@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-27T10:59:48.368Z
+// Last updated: 2026-07-27T14:24:17.621Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "羅啟豪小劇場翻唱13首經典致敬林敏怡　預告8月西九開迷你音樂會",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260727/1158473681467346944214709.jpeg/al6FVYhjbHKVrd2XTP2DmVuO5nBdWI3AaNIb6mjSG-o?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60374166/%E7%BE%85%E5%95%9F%E8%B1%AA%E5%B0%8F%E5%8A%87%E5%A0%B4%E7%BF%BB%E5%94%B113%E9%A6%96%E7%B6%93%E5%85%B8%E8%87%B4%E6%95%AC%E6%9E%97%E6%95%8F%E6%80%A1-%E9%A0%90%E5%91%8A8%E6%9C%88%E8%A5%BF%E4%B9%9D%E9%96%8B%E8%BF%B7%E4%BD%A0%E9%9F%B3%E6%A8%82%E6%9C%83",
+    "timestamp": "2026-07-27T14:24:17.621Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "觀塘協和街巴士電單車相撞　鐵騎士倒地受傷　巴士兩乘客亦需送院",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260726/1158143814783733760352840.jpeg/gcI7uEByXqxeRrWfgAIBikXm8TXoA7UGKTOtzikzrc4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60373831/%E8%94%A1%E6%80%9D%E8%B2%9D%E7%8D%B2%E5%91%A8%E6%98%9F%E9%A6%B3%E8%AA%8D%E8%AD%89%E6%9C%80%E4%BC%BC%E6%9D%8E%E5%B0%8F%E9%BE%8D%E5%A5%B3%E6%BC%94%E5%93%A1-%E4%B8%8D%E5%BF%BF-%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3-%E8%A2%AB%E5%81%B7%E7%A5%A8%E6%88%BF",
     "timestamp": "2026-07-26T13:17:01.871Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "法國西南部山火持續離波爾多僅15公里　逾22萬人已撤離｜有片",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260726/1158141094777589760962745.jpeg/HLNapo3IqY4B3cnzRrW-2BUKAZwKxIMuAFh4jwBYeI8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60373832/%E6%B3%95%E5%9C%8B%E8%A5%BF%E5%8D%97%E9%83%A8%E5%B1%B1%E7%81%AB%E6%8C%81%E7%BA%8C%E9%9B%A2%E6%B3%A2%E7%88%BE%E5%A4%9A%E5%83%8515%E5%85%AC%E9%87%8C-%E9%80%BE22%E8%90%AC%E4%BA%BA%E5%B7%B2%E6%92%A4%E9%9B%A2-%E6%9C%89%E7%89%87",
-    "timestamp": "2026-07-26T12:44:16.400Z",
     "strategy": ".content-card__main"
   }
 ];
