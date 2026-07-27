@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-27T14:24:17.621Z
+// Last updated: 2026-07-27T17:15:08.282Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "蚊患｜紅磡土瓜灣誘蚊器指數達24.1%　九龍城北區3宗蚊子滋生檢控",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260728/1158573067161571328061475.jpeg/k5ibn06lJbubnaA3QLvjVqPBghRZ_ieRyvHKQMrxykA?v=w1920r16_9",
+    "url": "https://www.hk01.com/18%E5%8D%80%E6%96%B0%E8%81%9E/60374238/%E8%9A%8A%E6%82%A3-%E7%B4%85%E7%A3%A1%E5%9C%9F%E7%93%9C%E7%81%A3%E8%AA%98%E8%9A%8A%E5%99%A8%E6%8C%87%E6%95%B8%E9%81%9424-1-%E4%B9%9D%E9%BE%8D%E5%9F%8E%E5%8C%97%E5%8D%803%E5%AE%97%E8%9A%8A%E5%AD%90%E6%BB%8B%E7%94%9F%E6%AA%A2%E6%8E%A7",
+    "timestamp": "2026-07-27T17:15:08.282Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "羅啟豪小劇場翻唱13首經典致敬林敏怡　預告8月西九開迷你音樂會",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260726/1158136588505452544173269.jpeg/cMpvTu0Usc7CbBhYadVW6lJAJFHNetHFteJLf7XiS38",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60373824/%E6%9C%89%E7%89%87-4%E7%94%B7%E7%9A%84%E5%A3%AB%E7%AB%99%E6%B7%B7%E6%88%B0%E7%B2%97%E5%8F%A3%E6%A9%AB%E9%A3%9B-%E9%BB%91%E8%A1%AB%E7%94%B7%E6%8E%A8%E6%92%9E%E6%8C%91%E9%87%81%E5%8F%8D%E8%A2%AB%E9%80%A3%E6%AF%8610%E6%8B%B3",
     "timestamp": "2026-07-26T13:57:55.051Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "蔡思貝獲周星馳認證最似李小龍女演員　不忿《功夫女足》被偷票房",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260726/1158143814783733760352840.jpeg/gcI7uEByXqxeRrWfgAIBikXm8TXoA7UGKTOtzikzrc4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60373831/%E8%94%A1%E6%80%9D%E8%B2%9D%E7%8D%B2%E5%91%A8%E6%98%9F%E9%A6%B3%E8%AA%8D%E8%AD%89%E6%9C%80%E4%BC%BC%E6%9D%8E%E5%B0%8F%E9%BE%8D%E5%A5%B3%E6%BC%94%E5%93%A1-%E4%B8%8D%E5%BF%BF-%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3-%E8%A2%AB%E5%81%B7%E7%A5%A8%E6%88%BF",
-    "timestamp": "2026-07-26T13:17:01.871Z",
     "strategy": ".content-card__main"
   }
 ];
