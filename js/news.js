@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-27T05:36:24.142Z
+// Last updated: 2026-07-27T06:55:31.284Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "長鑫科技上市暴升近5倍　全球DRAM市佔第四成中國半導體突圍希望",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260727/1158421320845758464814725.jpeg/JLAVN1ricECvkOh4PNyKN4Zorzwd4S1Me3iwJXt4sCU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60374020/%E9%95%B7%E9%91%AB%E7%A7%91%E6%8A%80%E4%B8%8A%E5%B8%82%E6%9A%B4%E5%8D%87%E8%BF%915%E5%80%8D-%E5%85%A8%E7%90%83dram%E5%B8%82%E4%BD%94%E7%AC%AC%E5%9B%9B%E6%88%90%E4%B8%AD%E5%9C%8B%E5%8D%8A%E5%B0%8E%E9%AB%94%E7%AA%81%E5%9C%8D%E5%B8%8C%E6%9C%9B",
+    "timestamp": "2026-07-27T06:55:31.284Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "極氪車主自駕赴歐遭鎖車30小時　官方：防盜機制，新推出跨境功能",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260726/1158119178700328960236794.jpeg/QjJBYp6GTAdX7Oxr4BIUuefmbAZlW_-0UV6hQVFeoUE",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60373814/%E9%A2%B1%E9%A2%A8%E7%B4%85%E9%9C%9E-%E6%9C%89%E7%89%87-%E6%B2%B9%E9%BA%BB%E5%9C%B0%E9%81%BF%E9%A2%A8%E5%A1%98%E8%B2%A8%E8%88%B9%E6%93%B1%E6%B7%BA%E5%85%A5%E6%B0%B4-%E6%B0%B4%E8%AD%A6%E6%95%91%E5%87%BA3%E5%90%8D%E9%81%87%E9%9A%AA%E8%88%B9%E5%93%A1",
     "timestamp": "2026-07-26T11:35:27.576Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "颱風紅霞成大殺手　大埔超級城外老榕樹倒下　居民「夾縫」中穿過",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260726/1158101397309231104031976.jpeg/B5BqeBpPSJUUrFu8Q-twdTnlql4x6nR2NojEijaIxIo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60373800/%E9%A2%B1%E9%A2%A8%E7%B4%85%E9%9C%9E%E6%88%90%E5%A4%A7%E6%AE%BA%E6%89%8B-%E5%A4%A7%E5%9F%94%E8%B6%85%E7%B4%9A%E5%9F%8E%E5%A4%96%E8%80%81%E6%A6%95%E6%A8%B9%E5%80%92%E4%B8%8B-%E5%B1%85%E6%B0%91-%E5%A4%BE%E7%B8%AB-%E4%B8%AD%E7%A9%BF%E9%81%8E",
-    "timestamp": "2026-07-26T10:56:50.251Z",
     "strategy": ".content-card__main"
   }
 ];
