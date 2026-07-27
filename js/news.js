@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-27T18:42:37.811Z
+// Last updated: 2026-07-27T19:57:27.843Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美國駐多倫多領事館外遭槍擊　今年第二宗",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260728/1158613201533800448468105.jpeg/rEUw33SdFXb_QC-yBV0o8DsSBPfqkJ4-9tZyI_bWciM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60374248/%E7%BE%8E%E5%9C%8B%E9%A7%90%E5%A4%9A%E5%80%AB%E5%A4%9A%E9%A0%98%E4%BA%8B%E9%A4%A8%E5%A4%96%E9%81%AD%E6%A7%8D%E6%93%8A-%E4%BB%8A%E5%B9%B4%E7%AC%AC%E4%BA%8C%E5%AE%97",
+    "timestamp": "2026-07-27T19:57:27.843Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "東張西望｜老人被困漆黑洗衣房長期求救無門：監犯一樣，唔畀我食",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260727/1158207234304380928142796.jpeg/K78mLQ-LBdt7fOoaiAuuCwP79FhW0lg2Od-C-jnfgvo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60373858/%E9%A2%B1%E9%A2%A8%E7%B4%85%E9%9C%9E-%E4%B8%AD%E9%9B%BB-%E6%96%B0%E7%95%8C%E9%83%A8%E4%BB%BD%E5%AE%A2%E6%88%B6%E4%BE%9B%E9%9B%BB%E4%B8%80%E5%BA%A6%E5%8F%97%E5%BD%B1%E9%9F%BF-%E6%96%99%E5%B7%B2%E5%85%A8%E6%95%B8%E6%81%A2%E5%BE%A9",
     "timestamp": "2026-07-26T16:38:32.821Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "沙特媒體：伊朗稱未退出談判　願在日內瓦等地與美復談",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260615/1143161900725440512523609.jpeg/lZzVu6StkemyZ4DsZOdIlVYTJg0qP-cKZVjSo2VY0qM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60373853/%E6%B2%99%E7%89%B9%E5%AA%92%E9%AB%94-%E4%BC%8A%E6%9C%97%E7%A8%B1%E6%9C%AA%E9%80%80%E5%87%BA%E8%AB%87%E5%88%A4-%E9%A1%98%E5%9C%A8%E6%97%A5%E5%85%A7%E7%93%A6%E7%AD%89%E5%9C%B0%E8%88%87%E7%BE%8E%E5%BE%A9%E8%AB%87",
-    "timestamp": "2026-07-26T15:44:48.155Z",
     "strategy": ".content-card__main"
   }
 ];
