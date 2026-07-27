@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-27T02:52:02.773Z
+// Last updated: 2026-07-27T04:12:21.461Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "巴西女足狂踢倒地球員頭部拳打勸交者　網民轟：根本是謀殺｜有片",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260727/1158364938746466304468712.png/0A4EUkzpkwWO3pkQXZt9sW_GMTEmQpEREsFa8xLBWvM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60373916/%E5%B7%B4%E8%A5%BF%E5%A5%B3%E8%B6%B3%E7%8B%82%E8%B8%A2%E5%80%92%E5%9C%B0%E7%90%83%E5%93%A1%E9%A0%AD%E9%83%A8%E6%8B%B3%E6%89%93%E5%8B%B8%E4%BA%A4%E8%80%85-%E7%B6%B2%E6%B0%91%E8%BD%9F-%E6%A0%B9%E6%9C%AC%E6%98%AF%E8%AC%80%E6%AE%BA-%E6%9C%89%E7%89%87",
+    "timestamp": "2026-07-27T04:12:21.461Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "周末新盤彈完再彈！錄233伙　芊御次輪再沽清、海瑅灣兩日沽105伙",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260726/1158091635066671104106745.png/_qRVaCiMjy2cpe7FWkoXTn9KjE2sG4EJtS67CrUuuwo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60373792/%E5%A4%A7s%E4%BF%9D%E8%AD%B7%E5%AD%A9%E5%AD%9010%E5%B9%B4%E4%B8%8D%E9%9C%B2%E8%87%89-%E5%BC%B5%E8%98%AD%E7%AA%81%E6%9B%AC-%E5%AD%AB%E5%AD%90%E6%AD%A3%E9%9D%A2%E7%85%A7-%E7%B6%B2%E6%80%92%E8%BD%9F%E5%8D%9A%E9%97%9C%E6%B3%A8",
     "timestamp": "2026-07-26T09:22:42.049Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "周一上班注意　颱風紅霞走、廣闊低壓槽來　天文台料初時雨勢頗大",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260726/1158036925865529344839476.jpeg/buduq69TZVGqkyaz29HH37SsaiJPlaG5nlhxa55YcWs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60373730/%E5%91%A8%E4%B8%80%E4%B8%8A%E7%8F%AD%E6%B3%A8%E6%84%8F-%E9%A2%B1%E9%A2%A8%E7%B4%85%E9%9C%9E%E8%B5%B0-%E5%BB%A3%E9%97%8A%E4%BD%8E%E5%A3%93%E6%A7%BD%E4%BE%86-%E5%A4%A9%E6%96%87%E5%8F%B0%E6%96%99%E5%88%9D%E6%99%82%E9%9B%A8%E5%8B%A2%E9%A0%97%E5%A4%A7",
-    "timestamp": "2026-07-26T06:33:06.845Z",
     "strategy": ".content-card__main"
   }
 ];
