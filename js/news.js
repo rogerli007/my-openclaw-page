@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-27T04:12:21.461Z
+// Last updated: 2026-07-27T05:36:24.142Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "極氪車主自駕赴歐遭鎖車30小時　官方：防盜機制，新推出跨境功能",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260727/1158389665246482432809156.jpeg/XJ5whuj6NhjEf17oa-13Q8AjLsViAXxVhWg8yYVoPMk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60373970/%E6%A5%B5%E6%B0%AA%E8%BB%8A%E4%B8%BB%E8%87%AA%E9%A7%95%E8%B5%B4%E6%AD%90%E9%81%AD%E9%8E%96%E8%BB%8A30%E5%B0%8F%E6%99%82-%E5%AE%98%E6%96%B9-%E9%98%B2%E7%9B%9C%E6%A9%9F%E5%88%B6-%E6%96%B0%E6%8E%A8%E5%87%BA%E8%B7%A8%E5%A2%83%E5%8A%9F%E8%83%BD",
+    "timestamp": "2026-07-27T05:36:24.142Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "巴西女足狂踢倒地球員頭部拳打勸交者　網民轟：根本是謀殺｜有片",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260726/1158101397309231104031976.jpeg/B5BqeBpPSJUUrFu8Q-twdTnlql4x6nR2NojEijaIxIo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60373800/%E9%A2%B1%E9%A2%A8%E7%B4%85%E9%9C%9E%E6%88%90%E5%A4%A7%E6%AE%BA%E6%89%8B-%E5%A4%A7%E5%9F%94%E8%B6%85%E7%B4%9A%E5%9F%8E%E5%A4%96%E8%80%81%E6%A6%95%E6%A8%B9%E5%80%92%E4%B8%8B-%E5%B1%85%E6%B0%91-%E5%A4%BE%E7%B8%AB-%E4%B8%AD%E7%A9%BF%E9%81%8E",
     "timestamp": "2026-07-26T10:56:50.251Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "大S保護孩子10年不露臉　張蘭突曬「孫子正面照」　網怒轟博關注",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260726/1158091635066671104106745.png/_qRVaCiMjy2cpe7FWkoXTn9KjE2sG4EJtS67CrUuuwo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60373792/%E5%A4%A7s%E4%BF%9D%E8%AD%B7%E5%AD%A9%E5%AD%9010%E5%B9%B4%E4%B8%8D%E9%9C%B2%E8%87%89-%E5%BC%B5%E8%98%AD%E7%AA%81%E6%9B%AC-%E5%AD%AB%E5%AD%90%E6%AD%A3%E9%9D%A2%E7%85%A7-%E7%B6%B2%E6%80%92%E8%BD%9F%E5%8D%9A%E9%97%9C%E6%B3%A8",
-    "timestamp": "2026-07-26T09:22:42.049Z",
     "strategy": ".content-card__main"
   }
 ];
