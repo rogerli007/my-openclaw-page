@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-28T22:31:12.662Z
+// Last updated: 2026-07-28T23:54:49.863Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "立法會議員．陳紹雄｜打通最後一哩路：前瞻規劃皇崗口岸周邊交通",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260709/1151885704502972416104728.jpeg/vnM-PuqXCFSGAqHjtfwNA7uLASxCuy4qRjqpVWM6qVU?v=w1920r16_9",
+    "url": "https://www.hk01.com/01%E8%AB%96%E5%A3%87/60374501/%E7%AB%8B%E6%B3%95%E6%9C%83%E8%AD%B0%E5%93%A1-%E9%99%B3%E7%B4%B9%E9%9B%84-%E6%89%93%E9%80%9A%E6%9C%80%E5%BE%8C%E4%B8%80%E5%93%A9%E8%B7%AF-%E5%89%8D%E7%9E%BB%E8%A6%8F%E5%8A%83%E7%9A%87%E5%B4%97%E5%8F%A3%E5%B2%B8%E5%91%A8%E9%82%8A%E4%BA%A4%E9%80%9A",
+    "timestamp": "2026-07-28T23:54:49.863Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "Chiikawa人魚島晴空塔展直擊｜主題Cafe預約攻略！打卡+購物貼士",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260728/1158759569053192192125978.jpeg/q5IXZx6pZsFRw86LFZCyzjKNWfm0fL4kaDeg52g3oOc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60374395/%E9%95%B7%E9%91%AB%E7%A7%91%E6%8A%80-%E7%A2%A7%E6%A1%82%E5%9C%92%E8%B3%A3%E5%9C%A8%E9%BB%8E%E6%98%8E%E5%89%8D-%E7%97%9B%E5%A4%B1491%E5%84%84-%E5%85%A7%E5%AA%92-%E7%82%BA%E9%82%84%E5%82%B52%E5%B9%B4%E5%89%8D%E6%B8%85%E5%80%89",
     "timestamp": "2026-07-28T05:12:24.918Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "CHANEL貨倉被竊　兩男涉偷待銷毀貨品價值達1900萬　串謀盜竊罪成",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260714/1153781656067248128947013.jpeg/fdJoceTawRedDKfghrWWaH6jsLv-gwi-XyNYPnojWD4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60374068/chanel%E8%B2%A8%E5%80%89%E8%A2%AB%E7%AB%8A-%E5%85%A9%E7%94%B7%E6%B6%89%E5%81%B7%E5%BE%85%E9%8A%B7%E6%AF%80%E8%B2%A8%E5%93%81%E5%83%B9%E5%80%BC%E9%81%941900%E8%90%AC-%E4%B8%B2%E8%AC%80%E7%9B%9C%E7%AB%8A%E7%BD%AA%E6%88%90",
-    "timestamp": "2026-07-28T03:55:54.383Z",
     "strategy": ".content-card__main"
   }
 ];
