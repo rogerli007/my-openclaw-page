@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-27T23:42:51.356Z
+// Last updated: 2026-07-28T00:12:49.000Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "中年好聲音4｜尹景順奪MVP獲激讚　吳亦偉疑遭水軍攻擊洗版式喪插",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260728/1158600274604986368427895.jpeg/HXDOPZB2b9j8vVC_pw7kgLEuDCjUUpUI-ZwV7_mcFe8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60374018/%E4%B8%AD%E5%B9%B4%E5%A5%BD%E8%81%B2%E9%9F%B34-%E5%B0%B9%E6%99%AF%E9%A0%86%E5%A5%AAmvp%E7%8D%B2%E6%BF%80%E8%AE%9A-%E5%90%B3%E4%BA%A6%E5%81%89%E7%96%91%E9%81%AD%E6%B0%B4%E8%BB%8D%E6%94%BB%E6%93%8A%E6%B4%97%E7%89%88%E5%BC%8F%E5%96%AA%E6%8F%92",
+    "timestamp": "2026-07-28T00:12:49.000Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "西雅圖槍擊案3死4傷　警方料涉3疑犯　其中一名15歲少年被捕",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20210609/479415066022645760014958.jpeg/FdtYJYEecyPHata_qhd9RCRMyGBTmruUCv_UxQr_1MU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60373860/%E6%B2%99%E7%94%B0%E5%96%AE%E4%BD%8D%E7%96%91%E9%81%AD%E7%88%86%E7%AB%8A-%E5%A4%B1%E5%80%BC-50%E8%90%AC%E9%87%91%E9%91%BD%E9%A6%96%E9%A3%BE-%E8%AD%A6%E5%88%91%E4%BA%8B%E8%AA%BF%E6%9F%A5%E9%9A%8A%E8%B7%9F%E9%80%B2",
     "timestamp": "2026-07-26T19:15:46.425Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "沙田單位疑遭爆竊　失值$50萬金鑽首飾　警刑事調查隊跟進",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20210609/479415066022645760014958.jpeg/FdtYJYEecyPHata_qhd9RCRMyGBTmruUCv_UxQr_1MU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60373860/%E6%B2%99%E7%94%B0%E5%96%AE%E4%BD%8D%E7%96%91%E9%81%AD%E7%88%86%E7%AB%8A-%E5%A4%B1%E5%80%BC-50%E8%90%AC%E9%87%91%E9%91%BD%E9%A6%96%E9%A3%BE-%E8%AD%A6%E5%88%91%E4%BA%8B%E8%AA%BF%E6%9F%A5%E9%9A%8A%E8%B7%9F%E9%80%B2",
-    "timestamp": "2026-07-26T18:42:49.131Z",
     "strategy": ".content-card__main"
   }
 ];
