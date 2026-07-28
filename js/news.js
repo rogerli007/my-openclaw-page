@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-28T22:01:14.045Z
+// Last updated: 2026-07-28T22:31:12.662Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "Chiikawa人魚島晴空塔展直擊｜主題Cafe預約攻略！打卡+購物貼士",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260728/1158826750621257728432890.png/FDiYfpCohlpnG71kRrorusX8CulG3cknXkAZAV5AGQE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%81%8A%E6%88%B2%E5%8B%95%E6%BC%AB/60374507/chiikawa%E4%BA%BA%E9%AD%9A%E5%B3%B6%E6%99%B4%E7%A9%BA%E5%A1%94%E5%B1%95%E7%9B%B4%E6%93%8A-%E4%B8%BB%E9%A1%8Ccafe%E9%A0%90%E7%B4%84%E6%94%BB%E7%95%A5-%E6%89%93%E5%8D%A1-%E8%B3%BC%E7%89%A9%E8%B2%BC%E5%A3%AB",
+    "timestamp": "2026-07-28T22:31:12.662Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "路透：中國與胡塞武裝直接對話　要求確保中方油輪安全通過紅海",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260714/1153781656067248128947013.jpeg/fdJoceTawRedDKfghrWWaH6jsLv-gwi-XyNYPnojWD4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60374068/chanel%E8%B2%A8%E5%80%89%E8%A2%AB%E7%AB%8A-%E5%85%A9%E7%94%B7%E6%B6%89%E5%81%B7%E5%BE%85%E9%8A%B7%E6%AF%80%E8%B2%A8%E5%93%81%E5%83%B9%E5%80%BC%E9%81%941900%E8%90%AC-%E4%B8%B2%E8%AC%80%E7%9B%9C%E7%AB%8A%E7%BD%AA%E6%88%90",
     "timestamp": "2026-07-28T03:55:54.383Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "港大校長張翔2028年卸任　陳學鋒指遴選需兩年　料聘請過程困難",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250911/1042839463518015488413608.jpeg/lTqRBRLBSLDkAZkSR9IzMj6ZY2JMTYHllvYdAJb2HQA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60374305/%E6%B8%AF%E5%A4%A7%E6%A0%A1%E9%95%B7%E5%BC%B5%E7%BF%942028%E5%B9%B4%E5%8D%B8%E4%BB%BB-%E9%99%B3%E5%AD%B8%E9%8B%92%E6%8C%87%E9%81%B4%E9%81%B8%E9%9C%80%E5%85%A9%E5%B9%B4-%E6%96%99%E8%81%98%E8%AB%8B%E9%81%8E%E7%A8%8B%E5%9B%B0%E9%9B%A3",
-    "timestamp": "2026-07-28T02:45:41.415Z",
     "strategy": ".content-card__main"
   }
 ];
