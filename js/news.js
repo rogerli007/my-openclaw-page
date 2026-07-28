@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-28T03:55:54.383Z
+// Last updated: 2026-07-28T05:12:24.918Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "長鑫科技｜碧桂園賣在黎明前｢痛失491億｣　內媒：為還債2年前清倉",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260728/1158759569053192192125978.jpeg/q5IXZx6pZsFRw86LFZCyzjKNWfm0fL4kaDeg52g3oOc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60374395/%E9%95%B7%E9%91%AB%E7%A7%91%E6%8A%80-%E7%A2%A7%E6%A1%82%E5%9C%92%E8%B3%A3%E5%9C%A8%E9%BB%8E%E6%98%8E%E5%89%8D-%E7%97%9B%E5%A4%B1491%E5%84%84-%E5%85%A7%E5%AA%92-%E7%82%BA%E9%82%84%E5%82%B52%E5%B9%B4%E5%89%8D%E6%B8%85%E5%80%89",
+    "timestamp": "2026-07-28T05:12:24.918Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "CHANEL貨倉被竊　兩男涉偷待銷毀貨品價值達1900萬　串謀盜竊罪成",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260727/1158247434971779072108752.jpeg/j5yGgGT2QcpYR0w3GlDbHWGZ4wgfoSgwFM9KRBTPSkQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60373862/%E5%85%A7%E5%A1%94%E5%B0%BC%E4%BA%9E%E8%83%A1-%E6%AD%A4%E8%A1%8C%E8%A8%AA%E7%BE%8E%E7%82%BA%E4%BA%86%E8%A7%A3%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%8D%E4%BC%8A%E6%9C%97%E5%95%8F%E9%A1%8C%E6%83%B3%E6%B3%95",
     "timestamp": "2026-07-26T20:40:48.409Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "內塔尼亞胡：此行訪美為了解特朗普對伊朗問題想法",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260727/1158247434971779072108752.jpeg/j5yGgGT2QcpYR0w3GlDbHWGZ4wgfoSgwFM9KRBTPSkQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60373862/%E5%85%A7%E5%A1%94%E5%B0%BC%E4%BA%9E%E8%83%A1-%E6%AD%A4%E8%A1%8C%E8%A8%AA%E7%BE%8E%E7%82%BA%E4%BA%86%E8%A7%A3%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%8D%E4%BC%8A%E6%9C%97%E5%95%8F%E9%A1%8C%E6%83%B3%E6%B3%95",
-    "timestamp": "2026-07-26T20:17:30.634Z",
     "strategy": ".content-card__main"
   }
 ];
