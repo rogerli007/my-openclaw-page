@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-28T02:45:41.415Z
+// Last updated: 2026-07-28T03:55:54.383Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "CHANEL貨倉被竊　兩男涉偷待銷毀貨品價值達1900萬　串謀盜竊罪成",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260714/1153781656067248128947013.jpeg/fdJoceTawRedDKfghrWWaH6jsLv-gwi-XyNYPnojWD4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60374068/chanel%E8%B2%A8%E5%80%89%E8%A2%AB%E7%AB%8A-%E5%85%A9%E7%94%B7%E6%B6%89%E5%81%B7%E5%BE%85%E9%8A%B7%E6%AF%80%E8%B2%A8%E5%93%81%E5%83%B9%E5%80%BC%E9%81%941900%E8%90%AC-%E4%B8%B2%E8%AC%80%E7%9B%9C%E7%AB%8A%E7%BD%AA%E6%88%90",
+    "timestamp": "2026-07-28T03:55:54.383Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "港大校長張翔2028年卸任　陳學鋒指遴選需兩年　料聘請過程困難",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260727/1158247434971779072108752.jpeg/j5yGgGT2QcpYR0w3GlDbHWGZ4wgfoSgwFM9KRBTPSkQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60373862/%E5%85%A7%E5%A1%94%E5%B0%BC%E4%BA%9E%E8%83%A1-%E6%AD%A4%E8%A1%8C%E8%A8%AA%E7%BE%8E%E7%82%BA%E4%BA%86%E8%A7%A3%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%8D%E4%BC%8A%E6%9C%97%E5%95%8F%E9%A1%8C%E6%83%B3%E6%B3%95",
     "timestamp": "2026-07-26T20:17:30.634Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "內塔尼亞胡：此行訪美為了解特朗普對伊朗問題想法",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260727/1158247434971779072108752.jpeg/j5yGgGT2QcpYR0w3GlDbHWGZ4wgfoSgwFM9KRBTPSkQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60373862/%E5%85%A7%E5%A1%94%E5%B0%BC%E4%BA%9E%E8%83%A1-%E6%AD%A4%E8%A1%8C%E8%A8%AA%E7%BE%8E%E7%82%BA%E4%BA%86%E8%A7%A3%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%8D%E4%BC%8A%E6%9C%97%E5%95%8F%E9%A1%8C%E6%83%B3%E6%B3%95",
-    "timestamp": "2026-07-26T19:46:51.146Z",
     "strategy": ".content-card__main"
   }
 ];
