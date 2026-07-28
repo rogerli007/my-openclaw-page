@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-28T10:15:46.582Z
+// Last updated: 2026-07-28T11:07:42.861Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "輕鐵天榮站男子持利器徘徊月台　網民走避：瞄住佢把刀真係起雞皮",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260728/1158842733645795328867324.jpeg/t8mnb4puGswbyBSSX1ZihTdnUCjqmbd_sHG-o7BxvqM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60374606/%E8%BC%95%E9%90%B5%E5%A4%A9%E6%A6%AE%E7%AB%99%E7%94%B7%E5%AD%90%E6%8C%81%E5%88%A9%E5%99%A8%E5%BE%98%E5%BE%8A%E6%9C%88%E5%8F%B0-%E7%B6%B2%E6%B0%91%E8%B5%B0%E9%81%BF-%E7%9E%84%E4%BD%8F%E4%BD%A2%E6%8A%8A%E5%88%80%E7%9C%9F%E4%BF%82%E8%B5%B7%E9%9B%9E%E7%9A%AE",
+    "timestamp": "2026-07-28T11:07:42.861Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "山東街76號住宅部分　長租6年作學生宿舍　月初全幢放售估值2.6億",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260727/1158389665246482432809156.jpeg/XJ5whuj6NhjEf17oa-13Q8AjLsViAXxVhWg8yYVoPMk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60373970/%E6%A5%B5%E6%B0%AA%E8%BB%8A%E4%B8%BB%E8%87%AA%E9%A7%95%E8%B5%B4%E6%AD%90%E9%81%AD%E9%8E%96%E8%BB%8A30%E5%B0%8F%E6%99%82-%E5%AE%98%E6%96%B9-%E9%98%B2%E7%9B%9C%E6%A9%9F%E5%88%B6-%E6%96%B0%E6%8E%A8%E5%87%BA%E8%B7%A8%E5%A2%83%E5%8A%9F%E8%83%BD",
     "timestamp": "2026-07-27T05:36:24.142Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "巴西女足狂踢倒地球員頭部拳打勸交者　網民轟：根本是謀殺｜有片",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260727/1158364938746466304468712.png/0A4EUkzpkwWO3pkQXZt9sW_GMTEmQpEREsFa8xLBWvM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60373916/%E5%B7%B4%E8%A5%BF%E5%A5%B3%E8%B6%B3%E7%8B%82%E8%B8%A2%E5%80%92%E5%9C%B0%E7%90%83%E5%93%A1%E9%A0%AD%E9%83%A8%E6%8B%B3%E6%89%93%E5%8B%B8%E4%BA%A4%E8%80%85-%E7%B6%B2%E6%B0%91%E8%BD%9F-%E6%A0%B9%E6%9C%AC%E6%98%AF%E8%AC%80%E6%AE%BA-%E6%9C%89%E7%89%87",
-    "timestamp": "2026-07-27T04:12:21.461Z",
     "strategy": ".content-card__main"
   }
 ];
