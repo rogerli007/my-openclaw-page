@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-28T11:07:42.861Z
+// Last updated: 2026-07-28T12:00:53.863Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "海地總統選舉再推遲至擬12月起舉行　路透社：10年來首次舉辦",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20240303/840991972935077888039612.jpeg/QZrrTLcj_CLnxUgJQgTWQGNnXFivhH8jMeScmzHknJs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60374608/%E6%B5%B7%E5%9C%B0%E7%B8%BD%E7%B5%B1%E9%81%B8%E8%88%89%E5%86%8D%E6%8E%A8%E9%81%B2%E8%87%B3%E6%93%AC12%E6%9C%88%E8%B5%B7%E8%88%89%E8%A1%8C-%E8%B7%AF%E9%80%8F%E7%A4%BE-10%E5%B9%B4%E4%BE%86%E9%A6%96%E6%AC%A1%E8%88%89%E8%BE%A6",
+    "timestamp": "2026-07-28T12:00:53.863Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "輕鐵天榮站男子持利器徘徊月台　網民走避：瞄住佢把刀真係起雞皮",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260727/1158421320845758464814725.jpeg/JLAVN1ricECvkOh4PNyKN4Zorzwd4S1Me3iwJXt4sCU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60374020/%E9%95%B7%E9%91%AB%E7%A7%91%E6%8A%80%E4%B8%8A%E5%B8%82%E6%9A%B4%E5%8D%87%E8%BF%915%E5%80%8D-%E5%85%A8%E7%90%83dram%E5%B8%82%E4%BD%94%E7%AC%AC%E5%9B%9B%E6%88%90%E4%B8%AD%E5%9C%8B%E5%8D%8A%E5%B0%8E%E9%AB%94%E7%AA%81%E5%9C%8D%E5%B8%8C%E6%9C%9B",
     "timestamp": "2026-07-27T06:55:31.284Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "極氪車主自駕赴歐遭鎖車30小時　官方：防盜機制，新推出跨境功能",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260727/1158389665246482432809156.jpeg/XJ5whuj6NhjEf17oa-13Q8AjLsViAXxVhWg8yYVoPMk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60373970/%E6%A5%B5%E6%B0%AA%E8%BB%8A%E4%B8%BB%E8%87%AA%E9%A7%95%E8%B5%B4%E6%AD%90%E9%81%AD%E9%8E%96%E8%BB%8A30%E5%B0%8F%E6%99%82-%E5%AE%98%E6%96%B9-%E9%98%B2%E7%9B%9C%E6%A9%9F%E5%88%B6-%E6%96%B0%E6%8E%A8%E5%87%BA%E8%B7%A8%E5%A2%83%E5%8A%9F%E8%83%BD",
-    "timestamp": "2026-07-27T05:36:24.142Z",
     "strategy": ".content-card__main"
   }
 ];
