@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-28T21:34:22.776Z
+// Last updated: 2026-07-28T22:01:14.045Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "路透：中國與胡塞武裝直接對話　要求確保中方油輪安全通過紅海",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260729/1158994308775284736829014.jpeg/oi_q8g12GeKc5TW69V1RBzPmSYeclZFEcPjvgnD474I?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60374680/%E8%B7%AF%E9%80%8F-%E4%B8%AD%E5%9C%8B%E8%88%87%E8%83%A1%E5%A1%9E%E6%AD%A6%E8%A3%9D%E7%9B%B4%E6%8E%A5%E5%B0%8D%E8%A9%B1-%E8%A6%81%E6%B1%82%E7%A2%BA%E4%BF%9D%E4%B8%AD%E6%96%B9%E6%B2%B9%E8%BC%AA%E5%AE%89%E5%85%A8%E9%80%9A%E9%81%8E%E7%B4%85%E6%B5%B7",
+    "timestamp": "2026-07-28T22:01:14.045Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "路透：中國與胡塞武裝直接對話　要求確保中方油輪安全通過紅海",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250911/1042839463518015488413608.jpeg/lTqRBRLBSLDkAZkSR9IzMj6ZY2JMTYHllvYdAJb2HQA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60374305/%E6%B8%AF%E5%A4%A7%E6%A0%A1%E9%95%B7%E5%BC%B5%E7%BF%942028%E5%B9%B4%E5%8D%B8%E4%BB%BB-%E9%99%B3%E5%AD%B8%E9%8B%92%E6%8C%87%E9%81%B4%E9%81%B8%E9%9C%80%E5%85%A9%E5%B9%B4-%E6%96%99%E8%81%98%E8%AB%8B%E9%81%8E%E7%A8%8B%E5%9B%B0%E9%9B%A3",
     "timestamp": "2026-07-28T02:45:41.415Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "中年好聲音4｜尹景順奪MVP獲激讚　吳亦偉疑遭水軍攻擊洗版式喪插",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260728/1158600274604986368427895.jpeg/HXDOPZB2b9j8vVC_pw7kgLEuDCjUUpUI-ZwV7_mcFe8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60374018/%E4%B8%AD%E5%B9%B4%E5%A5%BD%E8%81%B2%E9%9F%B34-%E5%B0%B9%E6%99%AF%E9%A0%86%E5%A5%AAmvp%E7%8D%B2%E6%BF%80%E8%AE%9A-%E5%90%B3%E4%BA%A6%E5%81%89%E7%96%91%E9%81%AD%E6%B0%B4%E8%BB%8D%E6%94%BB%E6%93%8A%E6%B4%97%E7%89%88%E5%BC%8F%E5%96%AA%E6%8F%92",
-    "timestamp": "2026-07-28T00:12:49.000Z",
     "strategy": ".content-card__main"
   }
 ];
