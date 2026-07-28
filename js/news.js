@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-28T12:00:53.863Z
+// Last updated: 2026-07-28T13:41:46.338Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "熊本地震｜日本警方確認1死　因心臟驟停送醫女子不治身亡",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260728/1158864026747277312518947.jpeg/m9HkyhUw47ovMO-9X4zr-k9jiw-4tUx5nUR4H51EeB8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60374643/%E7%86%8A%E6%9C%AC%E5%9C%B0%E9%9C%87-%E6%97%A5%E6%9C%AC%E8%AD%A6%E6%96%B9%E7%A2%BA%E8%AA%8D1%E6%AD%BB-%E5%9B%A0%E5%BF%83%E8%87%9F%E9%A9%9F%E5%81%9C%E9%80%81%E9%86%AB%E5%A5%B3%E5%AD%90%E4%B8%8D%E6%B2%BB%E8%BA%AB%E4%BA%A1",
+    "timestamp": "2026-07-28T13:41:46.338Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "海地總統選舉再推遲至擬12月起舉行　路透社：10年來首次舉辦",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260727/1158442668821319680562301.jpeg/tqI3_me8TPNI-HgUufcZSAjyOjUfYWPTKVFA6ClRQOg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60374095/%E6%9D%B1%E9%87%8E%E5%9C%AD%E5%90%BE%E9%9B%A2%E4%B8%96-%E6%8E%A8%E7%90%86%E5%B0%8F%E8%AA%AA%E6%95%99%E7%88%B6%E4%BA%AB%E5%B9%B468%E6%AD%B2-%E8%91%97%E4%BD%9C%E9%8A%B7%E9%87%8F%E7%A0%B4%E5%84%84%E6%A9%AB%E6%8E%83%E5%BD%B1%E8%A6%96%E7%95%8C",
     "timestamp": "2026-07-27T08:18:26.994Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "長鑫科技上市暴升近5倍　全球DRAM市佔第四成中國半導體突圍希望",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260727/1158421320845758464814725.jpeg/JLAVN1ricECvkOh4PNyKN4Zorzwd4S1Me3iwJXt4sCU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60374020/%E9%95%B7%E9%91%AB%E7%A7%91%E6%8A%80%E4%B8%8A%E5%B8%82%E6%9A%B4%E5%8D%87%E8%BF%915%E5%80%8D-%E5%85%A8%E7%90%83dram%E5%B8%82%E4%BD%94%E7%AC%AC%E5%9B%9B%E6%88%90%E4%B8%AD%E5%9C%8B%E5%8D%8A%E5%B0%8E%E9%AB%94%E7%AA%81%E5%9C%8D%E5%B8%8C%E6%9C%9B",
-    "timestamp": "2026-07-27T06:55:31.284Z",
     "strategy": ".content-card__main"
   }
 ];
