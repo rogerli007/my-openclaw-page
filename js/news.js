@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-28T00:12:49.000Z
+// Last updated: 2026-07-28T02:45:41.415Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "港大校長張翔2028年卸任　陳學鋒指遴選需兩年　料聘請過程困難",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250911/1042839463518015488413608.jpeg/lTqRBRLBSLDkAZkSR9IzMj6ZY2JMTYHllvYdAJb2HQA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60374305/%E6%B8%AF%E5%A4%A7%E6%A0%A1%E9%95%B7%E5%BC%B5%E7%BF%942028%E5%B9%B4%E5%8D%B8%E4%BB%BB-%E9%99%B3%E5%AD%B8%E9%8B%92%E6%8C%87%E9%81%B4%E9%81%B8%E9%9C%80%E5%85%A9%E5%B9%B4-%E6%96%99%E8%81%98%E8%AB%8B%E9%81%8E%E7%A8%8B%E5%9B%B0%E9%9B%A3",
+    "timestamp": "2026-07-28T02:45:41.415Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "中年好聲音4｜尹景順奪MVP獲激讚　吳亦偉疑遭水軍攻擊洗版式喪插",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260727/1158247434971779072108752.jpeg/j5yGgGT2QcpYR0w3GlDbHWGZ4wgfoSgwFM9KRBTPSkQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60373862/%E5%85%A7%E5%A1%94%E5%B0%BC%E4%BA%9E%E8%83%A1-%E6%AD%A4%E8%A1%8C%E8%A8%AA%E7%BE%8E%E7%82%BA%E4%BA%86%E8%A7%A3%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%8D%E4%BC%8A%E6%9C%97%E5%95%8F%E9%A1%8C%E6%83%B3%E6%B3%95",
     "timestamp": "2026-07-26T19:46:51.146Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "沙田單位疑遭爆竊　失值$50萬金鑽首飾　警刑事調查隊跟進",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20210609/479415066022645760014958.jpeg/FdtYJYEecyPHata_qhd9RCRMyGBTmruUCv_UxQr_1MU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60373860/%E6%B2%99%E7%94%B0%E5%96%AE%E4%BD%8D%E7%96%91%E9%81%AD%E7%88%86%E7%AB%8A-%E5%A4%B1%E5%80%BC-50%E8%90%AC%E9%87%91%E9%91%BD%E9%A6%96%E9%A3%BE-%E8%AD%A6%E5%88%91%E4%BA%8B%E8%AA%BF%E6%9F%A5%E9%9A%8A%E8%B7%9F%E9%80%B2",
-    "timestamp": "2026-07-26T19:15:46.425Z",
     "strategy": ".content-card__main"
   }
 ];
