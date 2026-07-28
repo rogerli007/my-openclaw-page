@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-28T17:06:13.386Z
+// Last updated: 2026-07-28T17:50:47.670Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "海關機場偵破3宗跨境販毒案　共檢$1300萬毒品　3男女旅客被捕",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260729/1158948102866997248478192.jpeg/Rpu-RL-4yk1lJZ2DI9q7QYXNfVXu502yKK7AtiiuwLY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60374667/%E6%B5%B7%E9%97%9C%E6%A9%9F%E5%A0%B4%E5%81%B5%E7%A0%B43%E5%AE%97%E8%B7%A8%E5%A2%83%E8%B2%A9%E6%AF%92%E6%A1%88-%E5%85%B1%E6%AA%A2-1300%E8%90%AC%E6%AF%92%E5%93%81-3%E7%94%B7%E5%A5%B3%E6%97%85%E5%AE%A2%E8%A2%AB%E6%8D%95",
+    "timestamp": "2026-07-28T17:50:47.670Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "柏林汽車撞人事件　檢方：疑犯施襲當日拍片宣誓效忠極端組織ISIS",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260728/1158573067161571328061475.jpeg/k5ibn06lJbubnaA3QLvjVqPBghRZ_ieRyvHKQMrxykA?v=w1920r16_9",
     "url": "https://www.hk01.com/18%E5%8D%80%E6%96%B0%E8%81%9E/60374238/%E8%9A%8A%E6%82%A3-%E7%B4%85%E7%A3%A1%E5%9C%9F%E7%93%9C%E7%81%A3%E8%AA%98%E8%9A%8A%E5%99%A8%E6%8C%87%E6%95%B8%E9%81%9424-1-%E4%B9%9D%E9%BE%8D%E5%9F%8E%E5%8C%97%E5%8D%803%E5%AE%97%E8%9A%8A%E5%AD%90%E6%BB%8B%E7%94%9F%E6%AA%A2%E6%8E%A7",
     "timestamp": "2026-07-27T17:15:08.282Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "羅啟豪小劇場翻唱13首經典致敬林敏怡　預告8月西九開迷你音樂會",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260727/1158473681467346944214709.jpeg/al6FVYhjbHKVrd2XTP2DmVuO5nBdWI3AaNIb6mjSG-o?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60374166/%E7%BE%85%E5%95%9F%E8%B1%AA%E5%B0%8F%E5%8A%87%E5%A0%B4%E7%BF%BB%E5%94%B113%E9%A6%96%E7%B6%93%E5%85%B8%E8%87%B4%E6%95%AC%E6%9E%97%E6%95%8F%E6%80%A1-%E9%A0%90%E5%91%8A8%E6%9C%88%E8%A5%BF%E4%B9%9D%E9%96%8B%E8%BF%B7%E4%BD%A0%E9%9F%B3%E6%A8%82%E6%9C%83",
-    "timestamp": "2026-07-27T14:24:17.621Z",
     "strategy": ".content-card__main"
   }
 ];
