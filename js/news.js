@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-28T08:09:49.984Z
+// Last updated: 2026-07-28T09:17:22.378Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "熊本縣7.1級地震　熊本城圍牆倒塌　超市貨物墜下一片狼籍｜有片",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260728/1158820431902281728860921.jpeg/6zGxLQava6-aoClfeqMsn4V-gyhSwbhGbCTikWwk4pE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60374528/%E7%86%8A%E6%9C%AC%E7%B8%A37-1%E7%B4%9A%E5%9C%B0%E9%9C%87-%E7%86%8A%E6%9C%AC%E5%9F%8E%E5%9C%8D%E7%89%86%E5%80%92%E5%A1%8C-%E8%B6%85%E5%B8%82%E8%B2%A8%E7%89%A9%E5%A2%9C%E4%B8%8B%E4%B8%80%E7%89%87%E7%8B%BC%E7%B1%8D-%E6%9C%89%E7%89%87",
+    "timestamp": "2026-07-28T09:17:22.378Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "5男涉工廈非法操練　控方需就要否分案索指示　案10.8再提訊",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260629/1148263433179762688873946.jpeg/8KtKLb8EyhVYPZvmvvfkQmRqjTiwrRiw7Pnscuz57HI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60373910/%E5%91%A8%E6%9C%AB%E6%96%B0%E7%9B%A4%E5%BD%88%E5%AE%8C%E5%86%8D%E5%BD%88-%E9%8C%84233%E4%BC%99-%E8%8A%8A%E5%BE%A1%E6%AC%A1%E8%BC%AA%E5%86%8D%E6%B2%BD%E6%B8%85-%E6%B5%B7%E7%91%85%E7%81%A3%E5%85%A9%E6%97%A5%E6%B2%BD105%E4%BC%99",
     "timestamp": "2026-07-27T02:52:02.773Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "一代舞王驚爆入院　雙臂抽血引馮素波關心：康復後請你食飯",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260725/1157765464709926912382506.png/Peu5N8JcVnvLz3gnF9Y2F_bYd1wG6t3nr7wKCa-8Cgk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60373579/%E4%B8%80%E4%BB%A3%E8%88%9E%E7%8E%8B%E6%9D%8E%E9%B4%BB%E6%9D%B0%E9%A9%9A%E7%88%86%E5%85%A5%E9%99%A2-%E9%9B%99%E8%87%82%E6%8A%BD%E8%A1%80%E5%BC%95%E9%A6%AE%E7%B4%A0%E6%B3%A2%E9%97%9C%E5%BF%83-%E5%BA%B7%E5%BE%A9%E5%BE%8C%E8%AB%8B%E4%BD%A0%E9%A3%9F%E9%A3%AF",
-    "timestamp": "2026-07-26T23:13:26.184Z",
     "strategy": ".content-card__main"
   }
 ];
