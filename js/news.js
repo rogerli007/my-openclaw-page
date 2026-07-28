@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-28T14:38:41.563Z
+// Last updated: 2026-07-28T17:06:13.386Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "柏林汽車撞人事件　檢方：疑犯施襲當日拍片宣誓效忠極端組織ISIS",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260729/1158933933312708608386249.jpeg/jKF1G82ooTbGohdVm4jYBoUkBsNanDlWYN--zmDfvs4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60374663/%E6%9F%8F%E6%9E%97%E6%B1%BD%E8%BB%8A%E6%92%9E%E4%BA%BA%E4%BA%8B%E4%BB%B6-%E6%AA%A2%E6%96%B9-%E7%96%91%E7%8A%AF%E6%96%BD%E8%A5%B2%E7%95%B6%E6%97%A5%E6%8B%8D%E7%89%87%E5%AE%A3%E8%AA%93%E6%95%88%E5%BF%A0%E6%A5%B5%E7%AB%AF%E7%B5%84%E7%B9%94isis",
+    "timestamp": "2026-07-28T17:06:13.386Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "黃錦輝醉駕｜今午到馬鞍山警署報到　警方：8月下旬需再報到",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260727/1158473681467346944214709.jpeg/al6FVYhjbHKVrd2XTP2DmVuO5nBdWI3AaNIb6mjSG-o?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60374166/%E7%BE%85%E5%95%9F%E8%B1%AA%E5%B0%8F%E5%8A%87%E5%A0%B4%E7%BF%BB%E5%94%B113%E9%A6%96%E7%B6%93%E5%85%B8%E8%87%B4%E6%95%AC%E6%9E%97%E6%95%8F%E6%80%A1-%E9%A0%90%E5%91%8A8%E6%9C%88%E8%A5%BF%E4%B9%9D%E9%96%8B%E8%BF%B7%E4%BD%A0%E9%9F%B3%E6%A8%82%E6%9C%83",
     "timestamp": "2026-07-27T14:24:17.621Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "觀塘協和街巴士電單車相撞　鐵騎士倒地受傷　巴士兩乘客亦需送院",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260727/1158483653395746816087125.jpeg/bz3akTVrv-5D9l5yIZwqlzuKh7gLtFZx1LgTktS4E5I?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60374187/%E8%A7%80%E5%A1%98%E5%8D%94%E5%92%8C%E8%A1%97%E5%B7%B4%E5%A3%AB%E9%9B%BB%E5%96%AE%E8%BB%8A%E7%9B%B8%E6%92%9E-%E9%90%B5%E9%A8%8E%E5%A3%AB%E5%80%92%E5%9C%B0%E5%8F%97%E5%82%B7-%E5%B7%B4%E5%A3%AB%E5%85%A9%E4%B9%98%E5%AE%A2%E4%BA%A6%E9%9C%80%E9%80%81%E9%99%A2",
-    "timestamp": "2026-07-27T10:59:48.368Z",
     "strategy": ".content-card__main"
   }
 ];
