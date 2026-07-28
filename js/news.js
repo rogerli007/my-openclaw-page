@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-28T09:17:22.378Z
+// Last updated: 2026-07-28T10:15:46.582Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "山東街76號住宅部分　長租6年作學生宿舍　月初全幢放售估值2.6億",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260728/1158836351697686528203195.jpeg/58wYvkfonNW5lTA0dxq-B3nNvvBq8SHRlNcLypTXC8o?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60374585/%E5%B1%B1%E6%9D%B1%E8%A1%9776%E8%99%9F%E4%BD%8F%E5%AE%85%E9%83%A8%E5%88%86-%E9%95%B7%E7%A7%9F6%E5%B9%B4%E4%BD%9C%E5%AD%B8%E7%94%9F%E5%AE%BF%E8%88%8D-%E6%9C%88%E5%88%9D%E5%85%A8%E5%B9%A2%E6%94%BE%E5%94%AE%E4%BC%B0%E5%80%BC2-6%E5%84%84",
+    "timestamp": "2026-07-28T10:15:46.582Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "熊本縣7.1級地震　熊本城圍牆倒塌　超市貨物墜下一片狼籍｜有片",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260727/1158364938746466304468712.png/0A4EUkzpkwWO3pkQXZt9sW_GMTEmQpEREsFa8xLBWvM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60373916/%E5%B7%B4%E8%A5%BF%E5%A5%B3%E8%B6%B3%E7%8B%82%E8%B8%A2%E5%80%92%E5%9C%B0%E7%90%83%E5%93%A1%E9%A0%AD%E9%83%A8%E6%8B%B3%E6%89%93%E5%8B%B8%E4%BA%A4%E8%80%85-%E7%B6%B2%E6%B0%91%E8%BD%9F-%E6%A0%B9%E6%9C%AC%E6%98%AF%E8%AC%80%E6%AE%BA-%E6%9C%89%E7%89%87",
     "timestamp": "2026-07-27T04:12:21.461Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "周末新盤彈完再彈！錄233伙　芊御次輪再沽清、海瑅灣兩日沽105伙",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260629/1148263433179762688873946.jpeg/8KtKLb8EyhVYPZvmvvfkQmRqjTiwrRiw7Pnscuz57HI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60373910/%E5%91%A8%E6%9C%AB%E6%96%B0%E7%9B%A4%E5%BD%88%E5%AE%8C%E5%86%8D%E5%BD%88-%E9%8C%84233%E4%BC%99-%E8%8A%8A%E5%BE%A1%E6%AC%A1%E8%BC%AA%E5%86%8D%E6%B2%BD%E6%B8%85-%E6%B5%B7%E7%91%85%E7%81%A3%E5%85%A9%E6%97%A5%E6%B2%BD105%E4%BC%99",
-    "timestamp": "2026-07-27T02:52:02.773Z",
     "strategy": ".content-card__main"
   }
 ];
