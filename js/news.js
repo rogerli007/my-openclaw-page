@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-28T18:39:13.547Z
+// Last updated: 2026-07-28T19:17:23.970Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "內塔尼亞胡稱與特朗普會晤極佳　以官員：未談及伊朗十字鎬山問題",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260729/1158968433543483392376250.jpeg/dKzo_gEaDdpsFhWwHwqtDGauD7hLTXKMi4yzrYuMs60?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60374673/%E5%85%A7%E5%A1%94%E5%B0%BC%E4%BA%9E%E8%83%A1%E7%A8%B1%E8%88%87%E7%89%B9%E6%9C%97%E6%99%AE%E6%9C%83%E6%99%A4%E6%A5%B5%E4%BD%B3-%E4%BB%A5%E5%AE%98%E5%93%A1-%E6%9C%AA%E8%AB%87%E5%8F%8A%E4%BC%8A%E6%9C%97%E5%8D%81%E5%AD%97%E9%8E%AC%E5%B1%B1%E5%95%8F%E9%A1%8C",
+    "timestamp": "2026-07-28T19:17:23.970Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美參議員格雷厄姆葬禮今起舉行　特朗普及烏克蘭、以色列領袖出席",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260728/1158573080151330816247163.jpeg/QNjINVBQrEJNEvWmeueTqocms5aD2lhmslNXorJTV6I?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60374239/%E6%9D%B1%E5%BC%B5%E8%A5%BF%E6%9C%9B-%E8%80%81%E4%BA%BA%E8%A2%AB%E5%9B%B0%E6%BC%86%E9%BB%91%E6%B4%97%E8%A1%A3%E6%88%BF%E9%95%B7%E6%9C%9F%E6%B1%82%E6%95%91%E7%84%A1%E9%96%80-%E7%9B%A3%E7%8A%AF%E4%B8%80%E6%A8%A3-%E5%94%94%E7%95%80%E6%88%91%E9%A3%9F",
     "timestamp": "2026-07-27T18:42:37.811Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "警荃灣反私煙　揭一酒店2房間用作儲存倉　拘2男檢約25萬支私煙",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260728/1158587904772018176958162.jpeg/6d2enqTsLzI5aaTegA08Cnro-GhX4PVS3mMBn95jAZ8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60374243/%E8%AD%A6%E8%8D%83%E7%81%A3%E5%8F%8D%E7%A7%81%E7%85%99-%E6%8F%AD%E4%B8%80%E9%85%92%E5%BA%972%E6%88%BF%E9%96%93%E7%94%A8%E4%BD%9C%E5%84%B2%E5%AD%98%E5%80%89-%E6%8B%982%E7%94%B7%E6%AA%A2%E7%B4%8425%E8%90%AC%E6%94%AF%E7%A7%81%E7%85%99",
-    "timestamp": "2026-07-27T17:56:08.059Z",
     "strategy": ".content-card__main"
   }
 ];
