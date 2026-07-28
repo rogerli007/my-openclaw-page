@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-28T17:50:47.670Z
+// Last updated: 2026-07-28T18:39:13.547Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美參議員格雷厄姆葬禮今起舉行　特朗普及烏克蘭、以色列領袖出席",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260729/1158953322284060672082519.jpeg/S2BGTM1HKUSEl2CgqAXeVQQI7zfY6xsxLgQbGC4EGxg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60374672/%E7%BE%8E%E5%8F%83%E8%AD%B0%E5%93%A1%E6%A0%BC%E9%9B%B7%E5%8E%84%E5%A7%86%E8%91%AC%E7%A6%AE%E4%BB%8A%E8%B5%B7%E8%88%89%E8%A1%8C-%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%8A%E7%83%8F%E5%85%8B%E8%98%AD-%E4%BB%A5%E8%89%B2%E5%88%97%E9%A0%98%E8%A2%96%E5%87%BA%E5%B8%AD",
+    "timestamp": "2026-07-28T18:39:13.547Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "海關機場偵破3宗跨境販毒案　共檢$1300萬毒品　3男女旅客被捕",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260728/1158587904772018176958162.jpeg/6d2enqTsLzI5aaTegA08Cnro-GhX4PVS3mMBn95jAZ8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60374243/%E8%AD%A6%E8%8D%83%E7%81%A3%E5%8F%8D%E7%A7%81%E7%85%99-%E6%8F%AD%E4%B8%80%E9%85%92%E5%BA%972%E6%88%BF%E9%96%93%E7%94%A8%E4%BD%9C%E5%84%B2%E5%AD%98%E5%80%89-%E6%8B%982%E7%94%B7%E6%AA%A2%E7%B4%8425%E8%90%AC%E6%94%AF%E7%A7%81%E7%85%99",
     "timestamp": "2026-07-27T17:56:08.059Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "蚊患｜紅磡土瓜灣誘蚊器指數達24.1%　九龍城北區3宗蚊子滋生檢控",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260728/1158573067161571328061475.jpeg/k5ibn06lJbubnaA3QLvjVqPBghRZ_ieRyvHKQMrxykA?v=w1920r16_9",
-    "url": "https://www.hk01.com/18%E5%8D%80%E6%96%B0%E8%81%9E/60374238/%E8%9A%8A%E6%82%A3-%E7%B4%85%E7%A3%A1%E5%9C%9F%E7%93%9C%E7%81%A3%E8%AA%98%E8%9A%8A%E5%99%A8%E6%8C%87%E6%95%B8%E9%81%9424-1-%E4%B9%9D%E9%BE%8D%E5%9F%8E%E5%8C%97%E5%8D%803%E5%AE%97%E8%9A%8A%E5%AD%90%E6%BB%8B%E7%94%9F%E6%AA%A2%E6%8E%A7",
-    "timestamp": "2026-07-27T17:15:08.282Z",
     "strategy": ".content-card__main"
   }
 ];
