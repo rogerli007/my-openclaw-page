@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-29T22:39:57.709Z
+// Last updated: 2026-07-29T23:18:11.234Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美國4車相撞1死1傷　46歲華裔男司機輾過鐵騎士後逃逸　被控重罪",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260729/1159179727588560896206748.png/Fxt5mZvpAi5QKeael1EglO1VNJRnAIlnpHpr66R6a-s?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60374414/%E7%BE%8E%E5%9C%8B4%E8%BB%8A%E7%9B%B8%E6%92%9E1%E6%AD%BB1%E5%82%B7-46%E6%AD%B2%E8%8F%AF%E8%A3%94%E7%94%B7%E5%8F%B8%E6%A9%9F%E8%BC%BE%E9%81%8E%E9%90%B5%E9%A8%8E%E5%A3%AB%E5%BE%8C%E9%80%83%E9%80%B8-%E8%A2%AB%E6%8E%A7%E9%87%8D%E7%BD%AA",
+    "timestamp": "2026-07-29T23:18:11.234Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "愛回家｜樊亦敏自爆敲監製門爭取角色　終成常駐靈魂人物爆紅奪獎",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260729/1159095129236049920782106.png/UksErP4gPcO__ELgWG8ec4pV4kUAQngjdctZV3XLWVc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%A3%9F%E7%8E%A9%E8%B2%B7/60374476/%E7%A9%8D%E9%87%91%E6%98%93%E6%87%B6%E4%BA%BA%E5%8C%85-7%E6%9C%88%E5%BA%95%E9%A0%88%E6%99%BA%E6%96%B9%E4%BE%BF%E9%9B%99%E9%87%8D%E8%AA%8D%E8%AD%89-%E6%8F%90%E5%8F%96%E5%BC%B7%E7%A9%8D%E9%87%91%E6%AD%A5%E9%A9%9F-%E8%A8%BB%E5%86%8A%E6%96%B9%E6%B3%95",
     "timestamp": "2026-07-29T04:56:01.157Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "樓價連升13個月！6月私樓樓價指數漲0.31%　今年累升7.88%",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/2241502/org/a7348799a102ea57caf92b8af15fe0dc.jpg/02Yvb8h93bYCqopR_UZ6-lFhTT22ZPiKzmWNlM5ljZQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60374725/%E6%A8%93%E5%83%B9%E9%80%A3%E5%8D%8713%E5%80%8B%E6%9C%88-6%E6%9C%88%E7%A7%81%E6%A8%93%E6%A8%93%E5%83%B9%E6%8C%87%E6%95%B8%E6%BC%B20-31-%E4%BB%8A%E5%B9%B4%E7%B4%AF%E5%8D%877-88",
-    "timestamp": "2026-07-29T02:24:29.148Z",
     "strategy": ".content-card__main"
   }
 ];
