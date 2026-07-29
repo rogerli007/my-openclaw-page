@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-29T06:07:12.436Z
+// Last updated: 2026-07-29T07:17:24.500Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "國際足協擬設子公司專辦世界盃　意向投資者包括庫什納家族捱批",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260425/1124753472151883776947685.jpeg/OU_UZAH_h3_7aIobzTR1zWSpLKbbPC5xkv80KZL_NCk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60374867/%E5%9C%8B%E9%9A%9B%E8%B6%B3%E5%8D%94%E6%93%AC%E8%A8%AD%E5%AD%90%E5%85%AC%E5%8F%B8%E5%B0%88%E8%BE%A6%E4%B8%96%E7%95%8C%E7%9B%83-%E6%84%8F%E5%90%91%E6%8A%95%E8%B3%87%E8%80%85%E5%8C%85%E6%8B%AC%E5%BA%AB%E4%BB%80%E7%B4%8D%E5%AE%B6%E6%97%8F%E6%8D%B1%E6%89%B9",
+    "timestamp": "2026-07-29T07:17:24.500Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "醫委會｜角膜糜爛醫療投訴何解隔15年今天始開庭？一文看清時間線",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260728/1158842733645795328867324.jpeg/t8mnb4puGswbyBSSX1ZihTdnUCjqmbd_sHG-o7BxvqM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60374606/%E8%BC%95%E9%90%B5%E5%A4%A9%E6%A6%AE%E7%AB%99%E7%94%B7%E5%AD%90%E6%8C%81%E5%88%A9%E5%99%A8%E5%BE%98%E5%BE%8A%E6%9C%88%E5%8F%B0-%E7%B6%B2%E6%B0%91%E8%B5%B0%E9%81%BF-%E7%9E%84%E4%BD%8F%E4%BD%A2%E6%8A%8A%E5%88%80%E7%9C%9F%E4%BF%82%E8%B5%B7%E9%9B%9E%E7%9A%AE",
     "timestamp": "2026-07-28T11:07:42.861Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "山東街76號住宅部分　長租6年作學生宿舍　月初全幢放售估值2.6億",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260728/1158836351697686528203195.jpeg/58wYvkfonNW5lTA0dxq-B3nNvvBq8SHRlNcLypTXC8o?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60374585/%E5%B1%B1%E6%9D%B1%E8%A1%9776%E8%99%9F%E4%BD%8F%E5%AE%85%E9%83%A8%E5%88%86-%E9%95%B7%E7%A7%9F6%E5%B9%B4%E4%BD%9C%E5%AD%B8%E7%94%9F%E5%AE%BF%E8%88%8D-%E6%9C%88%E5%88%9D%E5%85%A8%E5%B9%A2%E6%94%BE%E5%94%AE%E4%BC%B0%E5%80%BC2-6%E5%84%84",
-    "timestamp": "2026-07-28T10:15:46.582Z",
     "strategy": ".content-card__main"
   }
 ];
