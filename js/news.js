@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-29T01:20:59.311Z
+// Last updated: 2026-07-29T02:24:29.148Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "樓價連升13個月！6月私樓樓價指數漲0.31%　今年累升7.88%",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/2241502/org/a7348799a102ea57caf92b8af15fe0dc.jpg/02Yvb8h93bYCqopR_UZ6-lFhTT22ZPiKzmWNlM5ljZQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60374725/%E6%A8%93%E5%83%B9%E9%80%A3%E5%8D%8713%E5%80%8B%E6%9C%88-6%E6%9C%88%E7%A7%81%E6%A8%93%E6%A8%93%E5%83%B9%E6%8C%87%E6%95%B8%E6%BC%B20-31-%E4%BB%8A%E5%B9%B4%E7%B4%AF%E5%8D%877-88",
+    "timestamp": "2026-07-29T02:24:29.148Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "田園書屋預告租約期滿後結業　旺角經營50年　本月中國安處曾搜查",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20240926/915939017978155008125498.jpeg/wUgopBtxZi97_WBR6vAtNjJ5kysrSgK5bGUd70llHe8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60374505/5%E7%94%B7%E6%B6%89%E5%B7%A5%E5%BB%88%E9%9D%9E%E6%B3%95%E6%93%8D%E7%B7%B4-%E6%8E%A7%E6%96%B9%E9%9C%80%E5%B0%B1%E8%A6%81%E5%90%A6%E5%88%86%E6%A1%88%E7%B4%A2%E6%8C%87%E7%A4%BA-%E6%A1%8810-8%E5%86%8D%E6%8F%90%E8%A8%8A",
     "timestamp": "2026-07-28T08:09:49.984Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "何伯離世｜何伯近況臨終前心理報告可窺探：孤獨且有社會孤立感",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260603/1138883471389757440013752.jpeg/N0CF9V5Gwi-PmRGFZ0X7VLhT7f1D1lnO7_qxxu_6scY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60374418/%E4%BD%95%E4%BC%AF%E9%9B%A2%E4%B8%96-%E4%BD%95%E4%BC%AF%E8%BF%91%E6%B3%81%E8%87%A8%E7%B5%82%E5%89%8D%E5%BF%83%E7%90%86%E5%A0%B1%E5%91%8A%E5%8F%AF%E7%AA%BA%E6%8E%A2-%E5%AD%A4%E7%8D%A8%E4%B8%94%E6%9C%89%E7%A4%BE%E6%9C%83%E5%AD%A4%E7%AB%8B%E6%84%9F",
-    "timestamp": "2026-07-28T06:16:37.152Z",
     "strategy": ".content-card__main"
   }
 ];
