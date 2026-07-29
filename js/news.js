@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-29T15:31:25.653Z
+// Last updated: 2026-07-29T16:08:50.269Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "私院疑掀價格戰　港安：屬短期波動　高端醫療需要增　長遠感樂觀",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260729/1159216884671844352837510.jpeg/GFix7pUv9-p_jzOvtFQxVex2UpbPU6zZ2lpOs9paTrM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60374500/%E7%A7%81%E9%99%A2%E7%96%91%E6%8E%80%E5%83%B9%E6%A0%BC%E6%88%B0-%E6%B8%AF%E5%AE%89-%E5%B1%AC%E7%9F%AD%E6%9C%9F%E6%B3%A2%E5%8B%95-%E9%AB%98%E7%AB%AF%E9%86%AB%E7%99%82%E9%9C%80%E8%A6%81%E5%A2%9E-%E9%95%B7%E9%81%A0%E6%84%9F%E6%A8%82%E8%A7%80",
+    "timestamp": "2026-07-29T16:08:50.269Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "小米8月夏日購物優惠低至5折｜米家空氣淨化器6 Plus極速淨化房間",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260729/1158977990546165760932856.jpeg/dEJAR2eMShO9c_mrLrV6AqsSU3-EXl-fBUN40D9DeNA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60374674/%E6%97%BA%E8%A7%92%E5%BB%BA%E8%88%88%E5%A4%A7%E5%BB%88%E7%94%B7%E5%AD%90%E9%A0%B8%E9%83%A8%E9%81%AD%E5%88%BA%E5%82%B7%E6%B5%81%E8%A1%80-%E6%B8%85%E9%86%92%E9%80%81%E9%99%A2%E6%B2%BB%E7%90%86-%E8%AD%A6%E6%8C%81%E7%9B%BE%E5%B0%81%E9%8E%96%E8%AA%BF%E6%9F%A5",
     "timestamp": "2026-07-28T19:56:34.781Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "內塔尼亞胡稱與特朗普會晤極佳　以官員：未談及伊朗十字鎬山問題",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260729/1158968433543483392376250.jpeg/dKzo_gEaDdpsFhWwHwqtDGauD7hLTXKMi4yzrYuMs60?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60374673/%E5%85%A7%E5%A1%94%E5%B0%BC%E4%BA%9E%E8%83%A1%E7%A8%B1%E8%88%87%E7%89%B9%E6%9C%97%E6%99%AE%E6%9C%83%E6%99%A4%E6%A5%B5%E4%BD%B3-%E4%BB%A5%E5%AE%98%E5%93%A1-%E6%9C%AA%E8%AB%87%E5%8F%8A%E4%BC%8A%E6%9C%97%E5%8D%81%E5%AD%97%E9%8E%AC%E5%B1%B1%E5%95%8F%E9%A1%8C",
-    "timestamp": "2026-07-28T19:17:23.970Z",
     "strategy": ".content-card__main"
   }
 ];
