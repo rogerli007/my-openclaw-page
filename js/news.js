@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-29T08:13:14.621Z
+// Last updated: 2026-07-29T10:18:49.812Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "BIGBANG演唱會2026新加坡｜門票優先/公售攻略＋購票連結＋座位表",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260729/1159180835304247296710658.jpeg/j4FhfxtcJ9-mZ8xz3_olVn4A8YsJ3VGj1C8KG9QvChs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60374942/bigbang%E6%BC%94%E5%94%B1%E6%9C%832026%E6%96%B0%E5%8A%A0%E5%9D%A1-%E9%96%80%E7%A5%A8%E5%84%AA%E5%85%88-%E5%85%AC%E5%94%AE%E6%94%BB%E7%95%A5-%E8%B3%BC%E7%A5%A8%E9%80%A3%E7%B5%90-%E5%BA%A7%E4%BD%8D%E8%A1%A8",
+    "timestamp": "2026-07-29T10:18:49.812Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "劍擊世錦賽｜港隊男花世界排名創新高　單季躍升6位至世界第二",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260728/1158864026747277312518947.jpeg/m9HkyhUw47ovMO-9X4zr-k9jiw-4tUx5nUR4H51EeB8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60374643/%E7%86%8A%E6%9C%AC%E5%9C%B0%E9%9C%87-%E6%97%A5%E6%9C%AC%E8%AD%A6%E6%96%B9%E7%A2%BA%E8%AA%8D1%E6%AD%BB-%E5%9B%A0%E5%BF%83%E8%87%9F%E9%A9%9F%E5%81%9C%E9%80%81%E9%86%AB%E5%A5%B3%E5%AD%90%E4%B8%8D%E6%B2%BB%E8%BA%AB%E4%BA%A1",
     "timestamp": "2026-07-28T13:41:46.338Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "海地總統選舉再推遲至擬12月起舉行　路透社：10年來首次舉辦",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20240303/840991972935077888039612.jpeg/QZrrTLcj_CLnxUgJQgTWQGNnXFivhH8jMeScmzHknJs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60374608/%E6%B5%B7%E5%9C%B0%E7%B8%BD%E7%B5%B1%E9%81%B8%E8%88%89%E5%86%8D%E6%8E%A8%E9%81%B2%E8%87%B3%E6%93%AC12%E6%9C%88%E8%B5%B7%E8%88%89%E8%A1%8C-%E8%B7%AF%E9%80%8F%E7%A4%BE-10%E5%B9%B4%E4%BE%86%E9%A6%96%E6%AC%A1%E8%88%89%E8%BE%A6",
-    "timestamp": "2026-07-28T12:00:53.863Z",
     "strategy": ".content-card__main"
   }
 ];
