@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-29T21:38:58.054Z
+// Last updated: 2026-07-29T22:12:20.813Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "正視克隆氏症的隱形成本　力求醫療與社會雙贏",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260723/1156878887997673472082749.jpeg/DIT2HDahtgm4fuu44uzVG2u__8A0liqCvXvThb1704U?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/60372019/%E6%AD%A3%E8%A6%96%E5%85%8B%E9%9A%86%E6%B0%8F%E7%97%87%E7%9A%84%E9%9A%B1%E5%BD%A2%E6%88%90%E6%9C%AC-%E5%8A%9B%E6%B1%82%E9%86%AB%E7%99%82%E8%88%87%E7%A4%BE%E6%9C%83%E9%9B%99%E8%B4%8F",
+    "timestamp": "2026-07-29T22:12:20.813Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "23歲仔付76萬訂買車　旺角公司拖延交車拒退訂　負責人涉欺詐被捕",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260729/1159058990194233344093276.jpeg/eyKcPJgpH32faX0iIQwvphZO28HsdVHXEz01AjU9NQI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60374691/%E7%94%B0%E5%9C%92%E6%9B%B8%E5%B1%8B%E9%A0%90%E5%91%8A%E7%A7%9F%E7%B4%84%E6%9C%9F%E6%BB%BF%E5%BE%8C%E7%B5%90%E6%A5%AD-%E6%97%BA%E8%A7%92%E7%B6%93%E7%87%9F50%E5%B9%B4-%E6%9C%AC%E6%9C%88%E4%B8%AD%E5%9C%8B%E5%AE%89%E8%99%95%E6%9B%BE%E6%90%9C%E6%9F%A5",
     "timestamp": "2026-07-29T01:20:59.311Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "立法會議員．陳紹雄｜打通最後一哩路：前瞻規劃皇崗口岸周邊交通",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260709/1151885704502972416104728.jpeg/vnM-PuqXCFSGAqHjtfwNA7uLASxCuy4qRjqpVWM6qVU?v=w1920r16_9",
-    "url": "https://www.hk01.com/01%E8%AB%96%E5%A3%87/60374501/%E7%AB%8B%E6%B3%95%E6%9C%83%E8%AD%B0%E5%93%A1-%E9%99%B3%E7%B4%B9%E9%9B%84-%E6%89%93%E9%80%9A%E6%9C%80%E5%BE%8C%E4%B8%80%E5%93%A9%E8%B7%AF-%E5%89%8D%E7%9E%BB%E8%A6%8F%E5%8A%83%E7%9A%87%E5%B4%97%E5%8F%A3%E5%B2%B8%E5%91%A8%E9%82%8A%E4%BA%A4%E9%80%9A",
-    "timestamp": "2026-07-28T23:54:49.863Z",
     "strategy": ".content-card__main"
   }
 ];
