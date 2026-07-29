@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-29T02:24:29.148Z
+// Last updated: 2026-07-29T04:56:01.157Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "積金易懶人包｜7月底須智方便雙重認證！提取強積金步驟+註冊方法",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260729/1159095129236049920782106.png/UksErP4gPcO__ELgWG8ec4pV4kUAQngjdctZV3XLWVc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%A3%9F%E7%8E%A9%E8%B2%B7/60374476/%E7%A9%8D%E9%87%91%E6%98%93%E6%87%B6%E4%BA%BA%E5%8C%85-7%E6%9C%88%E5%BA%95%E9%A0%88%E6%99%BA%E6%96%B9%E4%BE%BF%E9%9B%99%E9%87%8D%E8%AA%8D%E8%AD%89-%E6%8F%90%E5%8F%96%E5%BC%B7%E7%A9%8D%E9%87%91%E6%AD%A5%E9%A9%9F-%E8%A8%BB%E5%86%8A%E6%96%B9%E6%B3%95",
+    "timestamp": "2026-07-29T04:56:01.157Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "樓價連升13個月！6月私樓樓價指數漲0.31%　今年累升7.88%",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260728/1158820431902281728860921.jpeg/6zGxLQava6-aoClfeqMsn4V-gyhSwbhGbCTikWwk4pE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60374528/%E7%86%8A%E6%9C%AC%E7%B8%A37-1%E7%B4%9A%E5%9C%B0%E9%9C%87-%E7%86%8A%E6%9C%AC%E5%9F%8E%E5%9C%8D%E7%89%86%E5%80%92%E5%A1%8C-%E8%B6%85%E5%B8%82%E8%B2%A8%E7%89%A9%E5%A2%9C%E4%B8%8B%E4%B8%80%E7%89%87%E7%8B%BC%E7%B1%8D-%E6%9C%89%E7%89%87",
     "timestamp": "2026-07-28T09:17:22.378Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "5男涉工廈非法操練　控方需就要否分案索指示　案10.8再提訊",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20240926/915939017978155008125498.jpeg/wUgopBtxZi97_WBR6vAtNjJ5kysrSgK5bGUd70llHe8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60374505/5%E7%94%B7%E6%B6%89%E5%B7%A5%E5%BB%88%E9%9D%9E%E6%B3%95%E6%93%8D%E7%B7%B4-%E6%8E%A7%E6%96%B9%E9%9C%80%E5%B0%B1%E8%A6%81%E5%90%A6%E5%88%86%E6%A1%88%E7%B4%A2%E6%8C%87%E7%A4%BA-%E6%A1%8810-8%E5%86%8D%E6%8F%90%E8%A8%8A",
-    "timestamp": "2026-07-28T08:09:49.984Z",
     "strategy": ".content-card__main"
   }
 ];
