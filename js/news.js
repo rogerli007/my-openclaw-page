@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-29T07:17:24.500Z
+// Last updated: 2026-07-29T08:13:14.621Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "劍擊世錦賽｜港隊男花世界排名創新高　單季躍升6位至世界第二",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260729/1159168047353696256086953.jpeg/gtZ5HTF1pGwe1NAntdKCk3lHtxIc9kXGz5F9sM-RfbA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60374811/%E5%8A%8D%E6%93%8A%E4%B8%96%E9%8C%A6%E8%B3%BD-%E6%B8%AF%E9%9A%8A%E7%94%B7%E8%8A%B1%E4%B8%96%E7%95%8C%E6%8E%92%E5%90%8D%E5%89%B5%E6%96%B0%E9%AB%98-%E5%96%AE%E5%AD%A3%E8%BA%8D%E5%8D%876%E4%BD%8D%E8%87%B3%E4%B8%96%E7%95%8C%E7%AC%AC%E4%BA%8C",
+    "timestamp": "2026-07-29T08:13:14.621Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "國際足協擬設子公司專辦世界盃　意向投資者包括庫什納家族捱批",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20240303/840991972935077888039612.jpeg/QZrrTLcj_CLnxUgJQgTWQGNnXFivhH8jMeScmzHknJs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60374608/%E6%B5%B7%E5%9C%B0%E7%B8%BD%E7%B5%B1%E9%81%B8%E8%88%89%E5%86%8D%E6%8E%A8%E9%81%B2%E8%87%B3%E6%93%AC12%E6%9C%88%E8%B5%B7%E8%88%89%E8%A1%8C-%E8%B7%AF%E9%80%8F%E7%A4%BE-10%E5%B9%B4%E4%BE%86%E9%A6%96%E6%AC%A1%E8%88%89%E8%BE%A6",
     "timestamp": "2026-07-28T12:00:53.863Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "輕鐵天榮站男子持利器徘徊月台　網民走避：瞄住佢把刀真係起雞皮",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260728/1158842733645795328867324.jpeg/t8mnb4puGswbyBSSX1ZihTdnUCjqmbd_sHG-o7BxvqM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60374606/%E8%BC%95%E9%90%B5%E5%A4%A9%E6%A6%AE%E7%AB%99%E7%94%B7%E5%AD%90%E6%8C%81%E5%88%A9%E5%99%A8%E5%BE%98%E5%BE%8A%E6%9C%88%E5%8F%B0-%E7%B6%B2%E6%B0%91%E8%B5%B0%E9%81%BF-%E7%9E%84%E4%BD%8F%E4%BD%A2%E6%8A%8A%E5%88%80%E7%9C%9F%E4%BF%82%E8%B5%B7%E9%9B%9E%E7%9A%AE",
-    "timestamp": "2026-07-28T11:07:42.861Z",
     "strategy": ".content-card__main"
   }
 ];
