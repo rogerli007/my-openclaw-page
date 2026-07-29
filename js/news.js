@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-29T23:18:11.234Z
+// Last updated: 2026-07-29T23:41:46.306Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "《八仙》狙擊星爺10日大收8億　《功夫女足》預測票房由30億回落",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260729/1159238070868905984310762.jpeg/wSnDD0_kmi9W357h1c_6Sqnrzhu8mcUNqbh7Kam4eyk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60374983/%E5%85%AB%E4%BB%99-%E7%8B%99%E6%93%8A%E6%98%9F%E7%88%BA10%E6%97%A5%E5%A4%A7%E6%94%B68%E5%84%84-%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3-%E9%A0%90%E6%B8%AC%E7%A5%A8%E6%88%BF%E7%94%B130%E5%84%84%E5%9B%9E%E8%90%BD",
+    "timestamp": "2026-07-29T23:41:46.306Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美國4車相撞1死1傷　46歲華裔男司機輾過鐵騎士後逃逸　被控重罪",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260205/1096161557584285696517203.jpeg/RjKHRXXjqRfP1bkbUx26CxySxytAqdi_C4ZfcguGX3I?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60374810/%E9%86%AB%E5%A7%94%E6%9C%83-%E8%A7%92%E8%86%9C%E7%B3%9C%E7%88%9B%E9%86%AB%E7%99%82%E6%8A%95%E8%A8%B4%E4%BD%95%E8%A7%A3%E9%9A%9415%E5%B9%B4%E4%BB%8A%E5%A4%A9%E5%A7%8B%E9%96%8B%E5%BA%AD-%E4%B8%80%E6%96%87%E7%9C%8B%E6%B8%85%E6%99%82%E9%96%93%E7%B7%9A",
     "timestamp": "2026-07-29T06:07:12.436Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "積金易懶人包｜7月底須智方便雙重認證！提取強積金步驟+註冊方法",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260729/1159095129236049920782106.png/UksErP4gPcO__ELgWG8ec4pV4kUAQngjdctZV3XLWVc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%A3%9F%E7%8E%A9%E8%B2%B7/60374476/%E7%A9%8D%E9%87%91%E6%98%93%E6%87%B6%E4%BA%BA%E5%8C%85-7%E6%9C%88%E5%BA%95%E9%A0%88%E6%99%BA%E6%96%B9%E4%BE%BF%E9%9B%99%E9%87%8D%E8%AA%8D%E8%AD%89-%E6%8F%90%E5%8F%96%E5%BC%B7%E7%A9%8D%E9%87%91%E6%AD%A5%E9%A9%9F-%E8%A8%BB%E5%86%8A%E6%96%B9%E6%B3%95",
-    "timestamp": "2026-07-29T04:56:01.157Z",
     "strategy": ".content-card__main"
   }
 ];
