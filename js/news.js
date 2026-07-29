@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-29T13:43:00.183Z
+// Last updated: 2026-07-29T14:37:01.914Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "周末朋友約你　你會出去嗎？7條問題助你找出「自身最大不足」",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260721/1156195209462157312462173.jpeg/1Qwoqpqh5kgEexJod2rhwOAqj7icRnwVL60tvS-tLb0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60298101/%E5%91%A8%E6%9C%AB%E6%9C%8B%E5%8F%8B%E7%B4%84%E4%BD%A0-%E4%BD%A0%E6%9C%83%E5%87%BA%E5%8E%BB%E5%97%8E-7%E6%A2%9D%E5%95%8F%E9%A1%8C%E5%8A%A9%E4%BD%A0%E6%89%BE%E5%87%BA-%E8%87%AA%E8%BA%AB%E6%9C%80%E5%A4%A7%E4%B8%8D%E8%B6%B3",
+    "timestamp": "2026-07-29T14:37:01.914Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "何超雲與鬍鬚男新歡頭貼頭高調放閃　台灣豪宅大亨男友背景猛料",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260729/1158953322284060672082519.jpeg/S2BGTM1HKUSEl2CgqAXeVQQI7zfY6xsxLgQbGC4EGxg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60374672/%E7%BE%8E%E5%8F%83%E8%AD%B0%E5%93%A1%E6%A0%BC%E9%9B%B7%E5%8E%84%E5%A7%86%E8%91%AC%E7%A6%AE%E4%BB%8A%E8%B5%B7%E8%88%89%E8%A1%8C-%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%8A%E7%83%8F%E5%85%8B%E8%98%AD-%E4%BB%A5%E8%89%B2%E5%88%97%E9%A0%98%E8%A2%96%E5%87%BA%E5%B8%AD",
     "timestamp": "2026-07-28T18:39:13.547Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "海關機場偵破3宗跨境販毒案　共檢$1300萬毒品　3男女旅客被捕",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260729/1158948102866997248478192.jpeg/Rpu-RL-4yk1lJZ2DI9q7QYXNfVXu502yKK7AtiiuwLY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60374667/%E6%B5%B7%E9%97%9C%E6%A9%9F%E5%A0%B4%E5%81%B5%E7%A0%B43%E5%AE%97%E8%B7%A8%E5%A2%83%E8%B2%A9%E6%AF%92%E6%A1%88-%E5%85%B1%E6%AA%A2-1300%E8%90%AC%E6%AF%92%E5%93%81-3%E7%94%B7%E5%A5%B3%E6%97%85%E5%AE%A2%E8%A2%AB%E6%8D%95",
-    "timestamp": "2026-07-28T17:50:47.670Z",
     "strategy": ".content-card__main"
   }
 ];
