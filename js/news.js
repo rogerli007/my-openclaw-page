@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-29T16:08:50.269Z
+// Last updated: 2026-07-29T16:48:03.438Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "珍惜生命｜北角58歲男子住所燒炭　妻子揭發惜太遲",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260729/1159266380407640064185947.jpeg/lLT-Cl27hibMzK36TNeG6QXcP9k4JDAqQRfUcUEX1HE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60375038/%E7%8F%8D%E6%83%9C%E7%94%9F%E5%91%BD-%E5%8C%97%E8%A7%9258%E6%AD%B2%E7%94%B7%E5%AD%90%E4%BD%8F%E6%89%80%E7%87%92%E7%82%AD-%E5%A6%BB%E5%AD%90%E6%8F%AD%E7%99%BC%E6%83%9C%E5%A4%AA%E9%81%B2",
+    "timestamp": "2026-07-29T16:48:03.438Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "私院疑掀價格戰　港安：屬短期波動　高端醫療需要增　長遠感樂觀",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260729/1158989108643631104237485.jpeg/fVCRybYVhBX2v10PxAfbL50kwhRDSTnBSLJvEkiybxI",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60374678/%E6%B8%AF%E9%90%B5%E6%9C%88%E5%8F%B0mma-%E8%92%99%E5%8F%A4%E5%A4%A7%E6%BC%A2-%E6%89%8B%E8%88%9E%E8%B6%B3%E8%B9%88%E5%8F%AB%E5%9B%82-%E5%8D%97%E4%BA%9E%E7%94%B7%E6%8D%B1%E6%92%9E%E7%AE%8D%E9%A0%B8%E6%8B%B3%E6%89%93",
     "timestamp": "2026-07-28T20:36:14.522Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "旺角建興大廈男子頸部遭刺傷流血　清醒送院治理　警持盾封鎖調查",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260729/1158977990546165760932856.jpeg/dEJAR2eMShO9c_mrLrV6AqsSU3-EXl-fBUN40D9DeNA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60374674/%E6%97%BA%E8%A7%92%E5%BB%BA%E8%88%88%E5%A4%A7%E5%BB%88%E7%94%B7%E5%AD%90%E9%A0%B8%E9%83%A8%E9%81%AD%E5%88%BA%E5%82%B7%E6%B5%81%E8%A1%80-%E6%B8%85%E9%86%92%E9%80%81%E9%99%A2%E6%B2%BB%E7%90%86-%E8%AD%A6%E6%8C%81%E7%9B%BE%E5%B0%81%E9%8E%96%E8%AA%BF%E6%9F%A5",
-    "timestamp": "2026-07-28T19:56:34.781Z",
     "strategy": ".content-card__main"
   }
 ];
