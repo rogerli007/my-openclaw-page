@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-29T10:18:49.812Z
+// Last updated: 2026-07-29T11:13:29.952Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "韓股大時代｜SK海力士再被唱淡　神準韓證券發功　劈目標價2成",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260714/1153668908020928512230416.jpeg/wDKUHpoUL7gkzHumxbkX8o8LMcm2_3ZRah9pRGofaUQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60374994/%E9%9F%93%E8%82%A1%E5%A4%A7%E6%99%82%E4%BB%A3-sk%E6%B5%B7%E5%8A%9B%E5%A3%AB%E5%86%8D%E8%A2%AB%E5%94%B1%E6%B7%A1-%E7%A5%9E%E6%BA%96%E9%9F%93%E8%AD%89%E5%88%B8%E7%99%BC%E5%8A%9F-%E5%8A%88%E7%9B%AE%E6%A8%99%E5%83%B92%E6%88%90",
+    "timestamp": "2026-07-29T11:13:29.952Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "BIGBANG演唱會2026新加坡｜門票優先/公售攻略＋購票連結＋座位表",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260701/1148985552058454016042975.jpeg/13NaauyCzhFpzUvquFUu0VBC4JNW_CthSnm2rEp5tqw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60374644/%E9%BB%83%E9%8C%A6%E8%BC%9D%E9%86%89%E9%A7%95-%E4%BB%8A%E5%8D%88%E5%88%B0%E9%A6%AC%E9%9E%8D%E5%B1%B1%E8%AD%A6%E7%BD%B2%E5%A0%B1%E5%88%B0-%E8%AD%A6%E6%96%B9-8%E6%9C%88%E4%B8%8B%E6%97%AC%E9%9C%80%E5%86%8D%E5%A0%B1%E5%88%B0",
     "timestamp": "2026-07-28T14:38:41.563Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "熊本地震｜日本警方確認1死　因心臟驟停送醫女子不治身亡",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260728/1158864026747277312518947.jpeg/m9HkyhUw47ovMO-9X4zr-k9jiw-4tUx5nUR4H51EeB8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60374643/%E7%86%8A%E6%9C%AC%E5%9C%B0%E9%9C%87-%E6%97%A5%E6%9C%AC%E8%AD%A6%E6%96%B9%E7%A2%BA%E8%AA%8D1%E6%AD%BB-%E5%9B%A0%E5%BF%83%E8%87%9F%E9%A9%9F%E5%81%9C%E9%80%81%E9%86%AB%E5%A5%B3%E5%AD%90%E4%B8%8D%E6%B2%BB%E8%BA%AB%E4%BA%A1",
-    "timestamp": "2026-07-28T13:41:46.338Z",
     "strategy": ".content-card__main"
   }
 ];
