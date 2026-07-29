@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-29T16:48:03.438Z
+// Last updated: 2026-07-29T17:52:12.594Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "Driscoll’s：根據食安中心風險評估　產品可正常食用無不良影響",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260730/1159310518893154304514093.png/4gNL40ROJApYGDJvDF58TJibmNLUEyogpyweNKcsHjQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60375049/driscoll-s-%E6%A0%B9%E6%93%9A%E9%A3%9F%E5%AE%89%E4%B8%AD%E5%BF%83%E9%A2%A8%E9%9A%AA%E8%A9%95%E4%BC%B0-%E7%94%A2%E5%93%81%E5%8F%AF%E6%AD%A3%E5%B8%B8%E9%A3%9F%E7%94%A8%E7%84%A1%E4%B8%8D%E8%89%AF%E5%BD%B1%E9%9F%BF",
+    "timestamp": "2026-07-29T17:52:12.594Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "珍惜生命｜北角58歲男子住所燒炭　妻子揭發惜太遲",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260729/1158994308775284736829014.jpeg/oi_q8g12GeKc5TW69V1RBzPmSYeclZFEcPjvgnD474I?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60374680/%E8%B7%AF%E9%80%8F-%E4%B8%AD%E5%9C%8B%E8%88%87%E8%83%A1%E5%A1%9E%E6%AD%A6%E8%A3%9D%E7%9B%B4%E6%8E%A5%E5%B0%8D%E8%A9%B1-%E8%A6%81%E6%B1%82%E7%A2%BA%E4%BF%9D%E4%B8%AD%E6%96%B9%E6%B2%B9%E8%BC%AA%E5%AE%89%E5%85%A8%E9%80%9A%E9%81%8E%E7%B4%85%E6%B5%B7",
     "timestamp": "2026-07-28T21:02:35.413Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "港鐵月台MMA｜「蒙古大漢」手舞足蹈叫囂　南亞男捱撞箍頸拳打",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260729/1158989108643631104237485.jpeg/fVCRybYVhBX2v10PxAfbL50kwhRDSTnBSLJvEkiybxI",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60374678/%E6%B8%AF%E9%90%B5%E6%9C%88%E5%8F%B0mma-%E8%92%99%E5%8F%A4%E5%A4%A7%E6%BC%A2-%E6%89%8B%E8%88%9E%E8%B6%B3%E8%B9%88%E5%8F%AB%E5%9B%82-%E5%8D%97%E4%BA%9E%E7%94%B7%E6%8D%B1%E6%92%9E%E7%AE%8D%E9%A0%B8%E6%8B%B3%E6%89%93",
-    "timestamp": "2026-07-28T20:36:14.522Z",
     "strategy": ".content-card__main"
   }
 ];
