@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-29T12:01:18.423Z
+// Last updated: 2026-07-29T13:43:00.183Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "何超雲與鬍鬚男新歡頭貼頭高調放閃　台灣豪宅大亨男友背景猛料",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260729/1159168608463491072496183.jpeg/LSU5ltQlCvHIIMgyyxj0MCsdBxyvGLAbiJlnPoiZZz4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60374822/%E4%BD%95%E8%B6%85%E9%9B%B2%E8%88%87%E9%AC%8D%E9%AC%9A%E7%94%B7%E6%96%B0%E6%AD%A1%E9%A0%AD%E8%B2%BC%E9%A0%AD%E9%AB%98%E8%AA%BF%E6%94%BE%E9%96%83-%E5%8F%B0%E7%81%A3%E8%B1%AA%E5%AE%85%E5%A4%A7%E4%BA%A8%E7%94%B7%E5%8F%8B%E8%83%8C%E6%99%AF%E7%8C%9B%E6%96%99",
+    "timestamp": "2026-07-29T13:43:00.183Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "路透：中國防空導彈數週內運抵伊朗　中方斥毫無根據",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260729/1158948102866997248478192.jpeg/Rpu-RL-4yk1lJZ2DI9q7QYXNfVXu502yKK7AtiiuwLY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60374667/%E6%B5%B7%E9%97%9C%E6%A9%9F%E5%A0%B4%E5%81%B5%E7%A0%B43%E5%AE%97%E8%B7%A8%E5%A2%83%E8%B2%A9%E6%AF%92%E6%A1%88-%E5%85%B1%E6%AA%A2-1300%E8%90%AC%E6%AF%92%E5%93%81-3%E7%94%B7%E5%A5%B3%E6%97%85%E5%AE%A2%E8%A2%AB%E6%8D%95",
     "timestamp": "2026-07-28T17:50:47.670Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "柏林汽車撞人事件　檢方：疑犯施襲當日拍片宣誓效忠極端組織ISIS",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260729/1158933933312708608386249.jpeg/jKF1G82ooTbGohdVm4jYBoUkBsNanDlWYN--zmDfvs4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60374663/%E6%9F%8F%E6%9E%97%E6%B1%BD%E8%BB%8A%E6%92%9E%E4%BA%BA%E4%BA%8B%E4%BB%B6-%E6%AA%A2%E6%96%B9-%E7%96%91%E7%8A%AF%E6%96%BD%E8%A5%B2%E7%95%B6%E6%97%A5%E6%8B%8D%E7%89%87%E5%AE%A3%E8%AA%93%E6%95%88%E5%BF%A0%E6%A5%B5%E7%AB%AF%E7%B5%84%E7%B9%94isis",
-    "timestamp": "2026-07-28T17:06:13.386Z",
     "strategy": ".content-card__main"
   }
 ];
