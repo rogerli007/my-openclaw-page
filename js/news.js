@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-29T11:13:29.952Z
+// Last updated: 2026-07-29T12:01:18.423Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "路透：中國防空導彈數週內運抵伊朗　中方斥毫無根據",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260729/1159183733186629632803915.jpeg/mlSCR7IsjrIWuvtU63ZspmGJ4jSA3nrCOyczZTsnM2U?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60374940/%E8%B7%AF%E9%80%8F-%E4%B8%AD%E5%9C%8B%E9%98%B2%E7%A9%BA%E5%B0%8E%E5%BD%88%E6%95%B8%E9%80%B1%E5%85%A7%E9%81%8B%E6%8A%B5%E4%BC%8A%E6%9C%97-%E4%B8%AD%E6%96%B9%E6%96%A5%E6%AF%AB%E7%84%A1%E6%A0%B9%E6%93%9A",
+    "timestamp": "2026-07-29T12:01:18.423Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "韓股大時代｜SK海力士再被唱淡　神準韓證券發功　劈目標價2成",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260729/1158933933312708608386249.jpeg/jKF1G82ooTbGohdVm4jYBoUkBsNanDlWYN--zmDfvs4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60374663/%E6%9F%8F%E6%9E%97%E6%B1%BD%E8%BB%8A%E6%92%9E%E4%BA%BA%E4%BA%8B%E4%BB%B6-%E6%AA%A2%E6%96%B9-%E7%96%91%E7%8A%AF%E6%96%BD%E8%A5%B2%E7%95%B6%E6%97%A5%E6%8B%8D%E7%89%87%E5%AE%A3%E8%AA%93%E6%95%88%E5%BF%A0%E6%A5%B5%E7%AB%AF%E7%B5%84%E7%B9%94isis",
     "timestamp": "2026-07-28T17:06:13.386Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "黃錦輝醉駕｜今午到馬鞍山警署報到　警方：8月下旬需再報到",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260701/1148985552058454016042975.jpeg/13NaauyCzhFpzUvquFUu0VBC4JNW_CthSnm2rEp5tqw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60374644/%E9%BB%83%E9%8C%A6%E8%BC%9D%E9%86%89%E9%A7%95-%E4%BB%8A%E5%8D%88%E5%88%B0%E9%A6%AC%E9%9E%8D%E5%B1%B1%E8%AD%A6%E7%BD%B2%E5%A0%B1%E5%88%B0-%E8%AD%A6%E6%96%B9-8%E6%9C%88%E4%B8%8B%E6%97%AC%E9%9C%80%E5%86%8D%E5%A0%B1%E5%88%B0",
-    "timestamp": "2026-07-28T14:38:41.563Z",
     "strategy": ".content-card__main"
   }
 ];
