@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-29T18:29:50.408Z
+// Last updated: 2026-07-29T18:55:14.662Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "熊本地震｜東京銀座熊本專賣店湧現人龍　民眾消費、捐錢金援災區",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260730/1159322347111452672486297.jpeg/Z7YXVPhiturZpMUxUl7XWjSexObp-mtd8w8rffMPK30?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60375052/%E7%86%8A%E6%9C%AC%E5%9C%B0%E9%9C%87-%E6%9D%B1%E4%BA%AC%E9%8A%80%E5%BA%A7%E7%86%8A%E6%9C%AC%E5%B0%88%E8%B3%A3%E5%BA%97%E6%B9%A7%E7%8F%BE%E4%BA%BA%E9%BE%8D-%E6%B0%91%E7%9C%BE%E6%B6%88%E8%B2%BB-%E6%8D%90%E9%8C%A2%E9%87%91%E6%8F%B4%E7%81%BD%E5%8D%80",
+    "timestamp": "2026-07-29T18:55:14.662Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "熊本地震｜東京銀座熊本專賣店湧現人龍　民眾消費、捐錢金援災區",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260729/1158994308775284736829014.jpeg/oi_q8g12GeKc5TW69V1RBzPmSYeclZFEcPjvgnD474I?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60374680/%E8%B7%AF%E9%80%8F-%E4%B8%AD%E5%9C%8B%E8%88%87%E8%83%A1%E5%A1%9E%E6%AD%A6%E8%A3%9D%E7%9B%B4%E6%8E%A5%E5%B0%8D%E8%A9%B1-%E8%A6%81%E6%B1%82%E7%A2%BA%E4%BF%9D%E4%B8%AD%E6%96%B9%E6%B2%B9%E8%BC%AA%E5%AE%89%E5%85%A8%E9%80%9A%E9%81%8E%E7%B4%85%E6%B5%B7",
     "timestamp": "2026-07-28T22:01:14.045Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "路透：中國與胡塞武裝直接對話　要求確保中方油輪安全通過紅海",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260729/1158994308775284736829014.jpeg/oi_q8g12GeKc5TW69V1RBzPmSYeclZFEcPjvgnD474I?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60374680/%E8%B7%AF%E9%80%8F-%E4%B8%AD%E5%9C%8B%E8%88%87%E8%83%A1%E5%A1%9E%E6%AD%A6%E8%A3%9D%E7%9B%B4%E6%8E%A5%E5%B0%8D%E8%A9%B1-%E8%A6%81%E6%B1%82%E7%A2%BA%E4%BF%9D%E4%B8%AD%E6%96%B9%E6%B2%B9%E8%BC%AA%E5%AE%89%E5%85%A8%E9%80%9A%E9%81%8E%E7%B4%85%E6%B5%B7",
-    "timestamp": "2026-07-28T21:34:22.776Z",
     "strategy": ".content-card__main"
   }
 ];
