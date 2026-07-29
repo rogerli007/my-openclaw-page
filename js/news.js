@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-29T14:37:01.914Z
+// Last updated: 2026-07-29T15:31:25.653Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "小米8月夏日購物優惠低至5折｜米家空氣淨化器6 Plus極速淨化房間",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260729/1159273836999348224841735.png/WPUJctaCebkZ1nxjbuTOJsg-aTagfa567uwst-7sLLc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60375018/%E5%B0%8F%E7%B1%B38%E6%9C%88%E5%A4%8F%E6%97%A5%E8%B3%BC%E7%89%A9%E5%84%AA%E6%83%A0%E4%BD%8E%E8%87%B35%E6%8A%98-%E7%B1%B3%E5%AE%B6%E7%A9%BA%E6%B0%A3%E6%B7%A8%E5%8C%96%E5%99%A86-plus%E6%A5%B5%E9%80%9F%E6%B7%A8%E5%8C%96%E6%88%BF%E9%96%93",
+    "timestamp": "2026-07-29T15:31:25.653Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "周末朋友約你　你會出去嗎？7條問題助你找出「自身最大不足」",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260729/1158968433543483392376250.jpeg/dKzo_gEaDdpsFhWwHwqtDGauD7hLTXKMi4yzrYuMs60?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60374673/%E5%85%A7%E5%A1%94%E5%B0%BC%E4%BA%9E%E8%83%A1%E7%A8%B1%E8%88%87%E7%89%B9%E6%9C%97%E6%99%AE%E6%9C%83%E6%99%A4%E6%A5%B5%E4%BD%B3-%E4%BB%A5%E5%AE%98%E5%93%A1-%E6%9C%AA%E8%AB%87%E5%8F%8A%E4%BC%8A%E6%9C%97%E5%8D%81%E5%AD%97%E9%8E%AC%E5%B1%B1%E5%95%8F%E9%A1%8C",
     "timestamp": "2026-07-28T19:17:23.970Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美參議員格雷厄姆葬禮今起舉行　特朗普及烏克蘭、以色列領袖出席",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260729/1158953322284060672082519.jpeg/S2BGTM1HKUSEl2CgqAXeVQQI7zfY6xsxLgQbGC4EGxg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60374672/%E7%BE%8E%E5%8F%83%E8%AD%B0%E5%93%A1%E6%A0%BC%E9%9B%B7%E5%8E%84%E5%A7%86%E8%91%AC%E7%A6%AE%E4%BB%8A%E8%B5%B7%E8%88%89%E8%A1%8C-%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%8A%E7%83%8F%E5%85%8B%E8%98%AD-%E4%BB%A5%E8%89%B2%E5%88%97%E9%A0%98%E8%A2%96%E5%87%BA%E5%B8%AD",
-    "timestamp": "2026-07-28T18:39:13.547Z",
     "strategy": ".content-card__main"
   }
 ];
