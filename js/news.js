@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-29T22:12:20.813Z
+// Last updated: 2026-07-29T22:39:57.709Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "愛回家｜樊亦敏自爆敲監製門爭取角色　終成常駐靈魂人物爆紅奪獎",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260729/1159201266534977536324150.jpeg/vVTvBZlIsiDUqCFGFe4wqwRZYSJeJdyj1_eEV9f3hFc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60374814/%E6%84%9B%E5%9B%9E%E5%AE%B6-%E6%A8%8A%E4%BA%A6%E6%95%8F%E8%87%AA%E7%88%86%E6%95%B2%E7%9B%A3%E8%A3%BD%E9%96%80%E7%88%AD%E5%8F%96%E8%A7%92%E8%89%B2-%E7%B5%82%E6%88%90%E5%B8%B8%E9%A7%90%E9%9D%88%E9%AD%82%E4%BA%BA%E7%89%A9%E7%88%86%E7%B4%85%E5%A5%AA%E7%8D%8E",
+    "timestamp": "2026-07-29T22:39:57.709Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "正視克隆氏症的隱形成本　力求醫療與社會雙贏",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/2241502/org/a7348799a102ea57caf92b8af15fe0dc.jpg/02Yvb8h93bYCqopR_UZ6-lFhTT22ZPiKzmWNlM5ljZQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60374725/%E6%A8%93%E5%83%B9%E9%80%A3%E5%8D%8713%E5%80%8B%E6%9C%88-6%E6%9C%88%E7%A7%81%E6%A8%93%E6%A8%93%E5%83%B9%E6%8C%87%E6%95%B8%E6%BC%B20-31-%E4%BB%8A%E5%B9%B4%E7%B4%AF%E5%8D%877-88",
     "timestamp": "2026-07-29T02:24:29.148Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "田園書屋預告租約期滿後結業　旺角經營50年　本月中國安處曾搜查",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260729/1159058990194233344093276.jpeg/eyKcPJgpH32faX0iIQwvphZO28HsdVHXEz01AjU9NQI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60374691/%E7%94%B0%E5%9C%92%E6%9B%B8%E5%B1%8B%E9%A0%90%E5%91%8A%E7%A7%9F%E7%B4%84%E6%9C%9F%E6%BB%BF%E5%BE%8C%E7%B5%90%E6%A5%AD-%E6%97%BA%E8%A7%92%E7%B6%93%E7%87%9F50%E5%B9%B4-%E6%9C%AC%E6%9C%88%E4%B8%AD%E5%9C%8B%E5%AE%89%E8%99%95%E6%9B%BE%E6%90%9C%E6%9F%A5",
-    "timestamp": "2026-07-29T01:20:59.311Z",
     "strategy": ".content-card__main"
   }
 ];
