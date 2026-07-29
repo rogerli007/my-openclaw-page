@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-28T23:54:49.863Z
+// Last updated: 2026-07-29T01:20:59.311Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "田園書屋預告租約期滿後結業　旺角經營50年　本月中國安處曾搜查",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260729/1159058990194233344093276.jpeg/eyKcPJgpH32faX0iIQwvphZO28HsdVHXEz01AjU9NQI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60374691/%E7%94%B0%E5%9C%92%E6%9B%B8%E5%B1%8B%E9%A0%90%E5%91%8A%E7%A7%9F%E7%B4%84%E6%9C%9F%E6%BB%BF%E5%BE%8C%E7%B5%90%E6%A5%AD-%E6%97%BA%E8%A7%92%E7%B6%93%E7%87%9F50%E5%B9%B4-%E6%9C%AC%E6%9C%88%E4%B8%AD%E5%9C%8B%E5%AE%89%E8%99%95%E6%9B%BE%E6%90%9C%E6%9F%A5",
+    "timestamp": "2026-07-29T01:20:59.311Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "立法會議員．陳紹雄｜打通最後一哩路：前瞻規劃皇崗口岸周邊交通",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260603/1138883471389757440013752.jpeg/N0CF9V5Gwi-PmRGFZ0X7VLhT7f1D1lnO7_qxxu_6scY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60374418/%E4%BD%95%E4%BC%AF%E9%9B%A2%E4%B8%96-%E4%BD%95%E4%BC%AF%E8%BF%91%E6%B3%81%E8%87%A8%E7%B5%82%E5%89%8D%E5%BF%83%E7%90%86%E5%A0%B1%E5%91%8A%E5%8F%AF%E7%AA%BA%E6%8E%A2-%E5%AD%A4%E7%8D%A8%E4%B8%94%E6%9C%89%E7%A4%BE%E6%9C%83%E5%AD%A4%E7%AB%8B%E6%84%9F",
     "timestamp": "2026-07-28T06:16:37.152Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "長鑫科技｜碧桂園賣在黎明前｢痛失491億｣　內媒：為還債2年前清倉",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260728/1158759569053192192125978.jpeg/q5IXZx6pZsFRw86LFZCyzjKNWfm0fL4kaDeg52g3oOc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60374395/%E9%95%B7%E9%91%AB%E7%A7%91%E6%8A%80-%E7%A2%A7%E6%A1%82%E5%9C%92%E8%B3%A3%E5%9C%A8%E9%BB%8E%E6%98%8E%E5%89%8D-%E7%97%9B%E5%A4%B1491%E5%84%84-%E5%85%A7%E5%AA%92-%E7%82%BA%E9%82%84%E5%82%B52%E5%B9%B4%E5%89%8D%E6%B8%85%E5%80%89",
-    "timestamp": "2026-07-28T05:12:24.918Z",
     "strategy": ".content-card__main"
   }
 ];
