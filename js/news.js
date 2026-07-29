@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-29T21:14:44.549Z
+// Last updated: 2026-07-29T21:38:58.054Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "23歲仔付76萬訂買車　旺角公司拖延交車拒退訂　負責人涉欺詐被捕",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250711/1020264355083587584473850.jpeg/wFz4QceI_fJD_21gOpy9U8YD8UddbzHrJZUMfiWVDH4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60375062/23%E6%AD%B2%E4%BB%94%E4%BB%9876%E8%90%AC%E8%A8%82%E8%B2%B7%E8%BB%8A-%E6%97%BA%E8%A7%92%E5%85%AC%E5%8F%B8%E6%8B%96%E5%BB%B6%E4%BA%A4%E8%BB%8A%E6%8B%92%E9%80%80%E8%A8%82-%E8%B2%A0%E8%B2%AC%E4%BA%BA%E6%B6%89%E6%AC%BA%E8%A9%90%E8%A2%AB%E6%8D%95",
+    "timestamp": "2026-07-29T21:38:58.054Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "《一奏傾情》56歲歌手Glen Hansard車禍亡　曾憑電影單曲奪奧斯卡",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260709/1151885704502972416104728.jpeg/vnM-PuqXCFSGAqHjtfwNA7uLASxCuy4qRjqpVWM6qVU?v=w1920r16_9",
     "url": "https://www.hk01.com/01%E8%AB%96%E5%A3%87/60374501/%E7%AB%8B%E6%B3%95%E6%9C%83%E8%AD%B0%E5%93%A1-%E9%99%B3%E7%B4%B9%E9%9B%84-%E6%89%93%E9%80%9A%E6%9C%80%E5%BE%8C%E4%B8%80%E5%93%A9%E8%B7%AF-%E5%89%8D%E7%9E%BB%E8%A6%8F%E5%8A%83%E7%9A%87%E5%B4%97%E5%8F%A3%E5%B2%B8%E5%91%A8%E9%82%8A%E4%BA%A4%E9%80%9A",
     "timestamp": "2026-07-28T23:54:49.863Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "Chiikawa人魚島晴空塔展直擊｜主題Cafe預約攻略！打卡+購物貼士",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260728/1158826750621257728432890.png/FDiYfpCohlpnG71kRrorusX8CulG3cknXkAZAV5AGQE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%81%8A%E6%88%B2%E5%8B%95%E6%BC%AB/60374507/chiikawa%E4%BA%BA%E9%AD%9A%E5%B3%B6%E6%99%B4%E7%A9%BA%E5%A1%94%E5%B1%95%E7%9B%B4%E6%93%8A-%E4%B8%BB%E9%A1%8Ccafe%E9%A0%90%E7%B4%84%E6%94%BB%E7%95%A5-%E6%89%93%E5%8D%A1-%E8%B3%BC%E7%89%A9%E8%B2%BC%E5%A3%AB",
-    "timestamp": "2026-07-28T22:31:12.662Z",
     "strategy": ".content-card__main"
   }
 ];
