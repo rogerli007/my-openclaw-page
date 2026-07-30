@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-30T18:40:02.967Z
+// Last updated: 2026-07-30T19:55:55.717Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "陳卓賢演唱會｜客戶忘記畀飛觀眾致大量吉位　索性叫山頂觀眾坐前",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260731/1159698203281461248308471.jpeg/8jv0kC52SrmdqwXtZP3P4YiJI2-VvY88X9rxCV_a8Qk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60375414/%E9%99%B3%E5%8D%93%E8%B3%A2%E6%BC%94%E5%94%B1%E6%9C%83-%E5%AE%A2%E6%88%B6%E5%BF%98%E8%A8%98%E7%95%80%E9%A3%9B%E8%A7%80%E7%9C%BE%E8%87%B4%E5%A4%A7%E9%87%8F%E5%90%89%E4%BD%8D-%E7%B4%A2%E6%80%A7%E5%8F%AB%E5%B1%B1%E9%A0%82%E8%A7%80%E7%9C%BE%E5%9D%90%E5%89%8D",
+    "timestamp": "2026-07-30T19:55:55.717Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "俄羅斯大規模空襲烏克蘭　波蘭總理圖斯克：疑有俄方導彈落入波蘭",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260618/1144097831523454976972143.jpeg/cn3aEoXAvNIIOwO7XsAIe6hEnu6g9bvYfHxugnx8boI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60375066/%E7%BE%8E%E8%81%AF%E5%84%B2%E7%B6%AD%E6%8C%81%E5%88%A9%E7%8E%87%E4%B8%8D%E8%AE%8A-%E6%83%9F%E4%B8%89%E5%BC%B5%E5%8F%8D%E5%B0%8D%E7%A5%A8%E9%BD%8A%E7%8F%BE-%E5%85%A7%E9%83%A8%E5%8A%A0%E6%81%AF%E5%A3%93%E5%8A%9B%E5%8D%87%E6%B8%A9",
     "timestamp": "2026-07-30T00:54:04.441Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "日本地價連漲5年！銀座一文具店土地僅「明信片大小」要價3.8萬",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260717/1154833984056725504629410.jpeg/IEqTdTUZ5XYlvwTBLCVHfyFW1_o44pvP5vBTUebwU1E?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E4%B8%96%E7%95%8C%E5%B0%88%E9%A1%8C/60371010/%E6%97%A5%E6%9C%AC%E5%9C%B0%E5%83%B9%E9%80%A3%E6%BC%B25%E5%B9%B4-%E9%8A%80%E5%BA%A7%E4%B8%80%E6%96%87%E5%85%B7%E5%BA%97%E5%9C%9F%E5%9C%B0%E5%83%85-%E6%98%8E%E4%BF%A1%E7%89%87%E5%A4%A7%E5%B0%8F-%E8%A6%81%E5%83%B93-8%E8%90%AC",
-    "timestamp": "2026-07-30T00:11:27.013Z",
     "strategy": ".content-card__main"
   }
 ];
