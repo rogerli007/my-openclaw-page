@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-30T13:09:07.045Z
+// Last updated: 2026-07-30T14:00:30.138Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "颱風紅霞｜太平嶺核電站錄0級偏差事件　輸電線路跳閘無漏輻射物",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260730/1159614800892792832164702.jpeg/foRzHjX6JAaltifVX_S5L3fGe6C8FxMvjL-jqYy_o6k?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60375377/%E9%A2%B1%E9%A2%A8%E7%B4%85%E9%9C%9E-%E5%A4%AA%E5%B9%B3%E5%B6%BA%E6%A0%B8%E9%9B%BB%E7%AB%99%E9%8C%840%E7%B4%9A%E5%81%8F%E5%B7%AE%E4%BA%8B%E4%BB%B6-%E8%BC%B8%E9%9B%BB%E7%B7%9A%E8%B7%AF%E8%B7%B3%E9%96%98%E7%84%A1%E6%BC%8F%E8%BC%BB%E5%B0%84%E7%89%A9",
+    "timestamp": "2026-07-30T14:00:30.138Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "私校名冊｜僅涵58%私校　教育局：有17間申請學校未達上榜要求",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260730/1159357935202078720506872.jpeg/bQo6ZgGFSKJnxNjx4XcAWsvWm7vJyReM1nHPf9Zxz38?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60375055/%E4%B8%80%E5%A5%8F%E5%82%BE%E6%83%85-56%E6%AD%B2%E6%AD%8C%E6%89%8Bglen-hansard%E8%BB%8A%E7%A6%8D%E4%BA%A1-%E6%9B%BE%E6%86%91%E9%9B%BB%E5%BD%B1%E5%96%AE%E6%9B%B2%E5%A5%AA%E5%A5%A7%E6%96%AF%E5%8D%A1",
     "timestamp": "2026-07-29T21:14:44.549Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "熊本地震｜東京銀座熊本專賣店湧現人龍　民眾消費、捐錢金援災區",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260730/1159322347111452672486297.jpeg/Z7YXVPhiturZpMUxUl7XWjSexObp-mtd8w8rffMPK30?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60375052/%E7%86%8A%E6%9C%AC%E5%9C%B0%E9%9C%87-%E6%9D%B1%E4%BA%AC%E9%8A%80%E5%BA%A7%E7%86%8A%E6%9C%AC%E5%B0%88%E8%B3%A3%E5%BA%97%E6%B9%A7%E7%8F%BE%E4%BA%BA%E9%BE%8D-%E6%B0%91%E7%9C%BE%E6%B6%88%E8%B2%BB-%E6%8D%90%E9%8C%A2%E9%87%91%E6%8F%B4%E7%81%BD%E5%8D%80",
-    "timestamp": "2026-07-29T18:55:14.662Z",
     "strategy": ".content-card__main"
   }
 ];
