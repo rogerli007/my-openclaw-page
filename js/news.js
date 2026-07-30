@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-30T14:00:30.138Z
+// Last updated: 2026-07-30T14:55:12.399Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "國產創維純電動的士8月中首批50架投入服務　車內有AI聊天機械人",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260730/1159614913430163456653947.jpeg/gYaCxVvT2j1hK4TgYCErfA9BY3wbO7nU4HRVL-B0VS8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60375385/%E5%9C%8B%E7%94%A2%E5%89%B5%E7%B6%AD%E7%B4%94%E9%9B%BB%E5%8B%95%E7%9A%84%E5%A3%AB8%E6%9C%88%E4%B8%AD%E9%A6%96%E6%89%B950%E6%9E%B6%E6%8A%95%E5%85%A5%E6%9C%8D%E5%8B%99-%E8%BB%8A%E5%85%A7%E6%9C%89ai%E8%81%8A%E5%A4%A9%E6%A9%9F%E6%A2%B0%E4%BA%BA",
+    "timestamp": "2026-07-30T14:55:12.399Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "颱風紅霞｜太平嶺核電站錄0級偏差事件　輸電線路跳閘無漏輻射物",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250711/1020264355083587584473850.jpeg/wFz4QceI_fJD_21gOpy9U8YD8UddbzHrJZUMfiWVDH4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60375062/23%E6%AD%B2%E4%BB%94%E4%BB%9876%E8%90%AC%E8%A8%82%E8%B2%B7%E8%BB%8A-%E6%97%BA%E8%A7%92%E5%85%AC%E5%8F%B8%E6%8B%96%E5%BB%B6%E4%BA%A4%E8%BB%8A%E6%8B%92%E9%80%80%E8%A8%82-%E8%B2%A0%E8%B2%AC%E4%BA%BA%E6%B6%89%E6%AC%BA%E8%A9%90%E8%A2%AB%E6%8D%95",
     "timestamp": "2026-07-29T21:38:58.054Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "《一奏傾情》56歲歌手Glen Hansard車禍亡　曾憑電影單曲奪奧斯卡",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260730/1159357935202078720506872.jpeg/bQo6ZgGFSKJnxNjx4XcAWsvWm7vJyReM1nHPf9Zxz38?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60375055/%E4%B8%80%E5%A5%8F%E5%82%BE%E6%83%85-56%E6%AD%B2%E6%AD%8C%E6%89%8Bglen-hansard%E8%BB%8A%E7%A6%8D%E4%BA%A1-%E6%9B%BE%E6%86%91%E9%9B%BB%E5%BD%B1%E5%96%AE%E6%9B%B2%E5%A5%AA%E5%A5%A7%E6%96%AF%E5%8D%A1",
-    "timestamp": "2026-07-29T21:14:44.549Z",
     "strategy": ".content-card__main"
   }
 ];
