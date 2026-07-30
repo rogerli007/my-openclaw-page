@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-30T12:22:20.621Z
+// Last updated: 2026-07-30T13:09:07.045Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "私校名冊｜僅涵58%私校　教育局：有17間申請學校未達上榜要求",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20211029/530749317188030464986204.jpeg/MYYBRTPhbvuC-YBqPycwItYLNCrDO4R5QqrAF0KqwBc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60375350/%E7%A7%81%E6%A0%A1%E5%90%8D%E5%86%8A-%E5%83%85%E6%B6%B558-%E7%A7%81%E6%A0%A1-%E6%95%99%E8%82%B2%E5%B1%80-%E6%9C%8917%E9%96%93%E7%94%B3%E8%AB%8B%E5%AD%B8%E6%A0%A1%E6%9C%AA%E9%81%94%E4%B8%8A%E6%A6%9C%E8%A6%81%E6%B1%82",
+    "timestamp": "2026-07-30T13:09:07.045Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "Nancy新歌拒與前度做朋友　與Jeffrey魏浚笙合作成高顏值MV",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260730/1159322347111452672486297.jpeg/Z7YXVPhiturZpMUxUl7XWjSexObp-mtd8w8rffMPK30?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60375052/%E7%86%8A%E6%9C%AC%E5%9C%B0%E9%9C%87-%E6%9D%B1%E4%BA%AC%E9%8A%80%E5%BA%A7%E7%86%8A%E6%9C%AC%E5%B0%88%E8%B3%A3%E5%BA%97%E6%B9%A7%E7%8F%BE%E4%BA%BA%E9%BE%8D-%E6%B0%91%E7%9C%BE%E6%B6%88%E8%B2%BB-%E6%8D%90%E9%8C%A2%E9%87%91%E6%8F%B4%E7%81%BD%E5%8D%80",
     "timestamp": "2026-07-29T18:55:14.662Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "熊本地震｜東京銀座熊本專賣店湧現人龍　民眾消費、捐錢金援災區",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260730/1159322347111452672486297.jpeg/Z7YXVPhiturZpMUxUl7XWjSexObp-mtd8w8rffMPK30?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60375052/%E7%86%8A%E6%9C%AC%E5%9C%B0%E9%9C%87-%E6%9D%B1%E4%BA%AC%E9%8A%80%E5%BA%A7%E7%86%8A%E6%9C%AC%E5%B0%88%E8%B3%A3%E5%BA%97%E6%B9%A7%E7%8F%BE%E4%BA%BA%E9%BE%8D-%E6%B0%91%E7%9C%BE%E6%B6%88%E8%B2%BB-%E6%8D%90%E9%8C%A2%E9%87%91%E6%8F%B4%E7%81%BD%E5%8D%80",
-    "timestamp": "2026-07-29T18:29:50.408Z",
     "strategy": ".content-card__main"
   }
 ];
