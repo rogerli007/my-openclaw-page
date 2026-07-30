@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-30T05:11:39.990Z
+// Last updated: 2026-07-30T06:16:23.544Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "菲爾茲獎得主王虹卡地亞同款項鏈售罄　鄧煜「二次元」收藏成佳話",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260730/1159498348164550656376019.jpeg/y1DDH4UkUvZjgv7aojpA0nVVSwxzFgBYcgSpUHIEqVA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60375195/%E8%8F%B2%E7%88%BE%E8%8C%B2%E7%8D%8E%E5%BE%97%E4%B8%BB%E7%8E%8B%E8%99%B9%E5%8D%A1%E5%9C%B0%E4%BA%9E%E5%90%8C%E6%AC%BE%E9%A0%85%E9%8F%88%E5%94%AE%E7%BD%84-%E9%84%A7%E7%85%9C-%E4%BA%8C%E6%AC%A1%E5%85%83-%E6%94%B6%E8%97%8F%E6%88%90%E4%BD%B3%E8%A9%B1",
+    "timestamp": "2026-07-30T06:16:23.544Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "順德莫氏雞煲熱度退潮　食客稱爆紅後改用飼料雞 　帶貨銷量挫95%",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260721/1156195209462157312462173.jpeg/1Qwoqpqh5kgEexJod2rhwOAqj7icRnwVL60tvS-tLb0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60298101/%E5%91%A8%E6%9C%AB%E6%9C%8B%E5%8F%8B%E7%B4%84%E4%BD%A0-%E4%BD%A0%E6%9C%83%E5%87%BA%E5%8E%BB%E5%97%8E-7%E6%A2%9D%E5%95%8F%E9%A1%8C%E5%8A%A9%E4%BD%A0%E6%89%BE%E5%87%BA-%E8%87%AA%E8%BA%AB%E6%9C%80%E5%A4%A7%E4%B8%8D%E8%B6%B3",
     "timestamp": "2026-07-29T14:37:01.914Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "何超雲與鬍鬚男新歡頭貼頭高調放閃　台灣豪宅大亨男友背景猛料",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260729/1159168608463491072496183.jpeg/LSU5ltQlCvHIIMgyyxj0MCsdBxyvGLAbiJlnPoiZZz4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60374822/%E4%BD%95%E8%B6%85%E9%9B%B2%E8%88%87%E9%AC%8D%E9%AC%9A%E7%94%B7%E6%96%B0%E6%AD%A1%E9%A0%AD%E8%B2%BC%E9%A0%AD%E9%AB%98%E8%AA%BF%E6%94%BE%E9%96%83-%E5%8F%B0%E7%81%A3%E8%B1%AA%E5%AE%85%E5%A4%A7%E4%BA%A8%E7%94%B7%E5%8F%8B%E8%83%8C%E6%99%AF%E7%8C%9B%E6%96%99",
-    "timestamp": "2026-07-29T13:43:00.183Z",
     "strategy": ".content-card__main"
   }
 ];
