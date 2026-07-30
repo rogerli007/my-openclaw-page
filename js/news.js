@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-30T11:01:57.708Z
+// Last updated: 2026-07-30T11:50:44.110Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "非份之罪線上看21-25結局劇情｜恐怖情人兇手係阮浩棕定劉佩玥？",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260724/1157373696793382912426519.png/EZvqARn9pCwWI2Z7byjIWj9PJfZcEI-MCO8u-gjvLvo",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60373362/%E9%9D%9E%E4%BB%BD%E4%B9%8B%E7%BD%AA%E7%B7%9A%E4%B8%8A%E7%9C%8B21-25%E7%B5%90%E5%B1%80%E5%8A%87%E6%83%85-%E6%81%90%E6%80%96%E6%83%85%E4%BA%BA%E5%85%87%E6%89%8B%E4%BF%82%E9%98%AE%E6%B5%A9%E6%A3%95%E5%AE%9A%E5%8A%89%E4%BD%A9%E7%8E%A5",
+    "timestamp": "2026-07-30T11:50:44.110Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "屯門爆水管｜水務署完成搶修　供水傍晚6時陸續恢復　初時或混濁",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260730/1159310518893154304514093.png/4gNL40ROJApYGDJvDF58TJibmNLUEyogpyweNKcsHjQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60375049/driscoll-s-%E6%A0%B9%E6%93%9A%E9%A3%9F%E5%AE%89%E4%B8%AD%E5%BF%83%E9%A2%A8%E9%9A%AA%E8%A9%95%E4%BC%B0-%E7%94%A2%E5%93%81%E5%8F%AF%E6%AD%A3%E5%B8%B8%E9%A3%9F%E7%94%A8%E7%84%A1%E4%B8%8D%E8%89%AF%E5%BD%B1%E9%9F%BF",
     "timestamp": "2026-07-29T17:52:12.594Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "珍惜生命｜北角58歲男子住所燒炭　妻子揭發惜太遲",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260729/1159266380407640064185947.jpeg/lLT-Cl27hibMzK36TNeG6QXcP9k4JDAqQRfUcUEX1HE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60375038/%E7%8F%8D%E6%83%9C%E7%94%9F%E5%91%BD-%E5%8C%97%E8%A7%9258%E6%AD%B2%E7%94%B7%E5%AD%90%E4%BD%8F%E6%89%80%E7%87%92%E7%82%AD-%E5%A6%BB%E5%AD%90%E6%8F%AD%E7%99%BC%E6%83%9C%E5%A4%AA%E9%81%B2",
-    "timestamp": "2026-07-29T16:48:03.438Z",
     "strategy": ".content-card__main"
   }
 ];
