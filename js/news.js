@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-30T06:16:23.544Z
+// Last updated: 2026-07-30T08:03:56.068Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "羅淑佩訪浸大參觀教研設施　了解大學創意藝術與體育領域發展",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260730/1159522342985011200348061.jpeg/9Iz3RvfWFnz6qvS-PAQ3m7CckVKTscAer4DDmq-Aw5o?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%95%99%E8%82%B2%E7%99%BC%E5%B1%95/60375244/%E7%BE%85%E6%B7%91%E4%BD%A9%E8%A8%AA%E6%B5%B8%E5%A4%A7%E5%8F%83%E8%A7%80%E6%95%99%E7%A0%94%E8%A8%AD%E6%96%BD-%E4%BA%86%E8%A7%A3%E5%A4%A7%E5%AD%B8%E5%89%B5%E6%84%8F%E8%97%9D%E8%A1%93%E8%88%87%E9%AB%94%E8%82%B2%E9%A0%98%E5%9F%9F%E7%99%BC%E5%B1%95",
+    "timestamp": "2026-07-30T08:03:56.068Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "菲爾茲獎得主王虹卡地亞同款項鏈售罄　鄧煜「二次元」收藏成佳話",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260729/1159273836999348224841735.png/WPUJctaCebkZ1nxjbuTOJsg-aTagfa567uwst-7sLLc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60375018/%E5%B0%8F%E7%B1%B38%E6%9C%88%E5%A4%8F%E6%97%A5%E8%B3%BC%E7%89%A9%E5%84%AA%E6%83%A0%E4%BD%8E%E8%87%B35%E6%8A%98-%E7%B1%B3%E5%AE%B6%E7%A9%BA%E6%B0%A3%E6%B7%A8%E5%8C%96%E5%99%A86-plus%E6%A5%B5%E9%80%9F%E6%B7%A8%E5%8C%96%E6%88%BF%E9%96%93",
     "timestamp": "2026-07-29T15:31:25.653Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "周末朋友約你　你會出去嗎？7條問題助你找出「自身最大不足」",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260721/1156195209462157312462173.jpeg/1Qwoqpqh5kgEexJod2rhwOAqj7icRnwVL60tvS-tLb0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60298101/%E5%91%A8%E6%9C%AB%E6%9C%8B%E5%8F%8B%E7%B4%84%E4%BD%A0-%E4%BD%A0%E6%9C%83%E5%87%BA%E5%8E%BB%E5%97%8E-7%E6%A2%9D%E5%95%8F%E9%A1%8C%E5%8A%A9%E4%BD%A0%E6%89%BE%E5%87%BA-%E8%87%AA%E8%BA%AB%E6%9C%80%E5%A4%A7%E4%B8%8D%E8%B6%B3",
-    "timestamp": "2026-07-29T14:37:01.914Z",
     "strategy": ".content-card__main"
   }
 ];
