@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-30T21:45:55.841Z
+// Last updated: 2026-07-30T22:16:17.894Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "沙特等14國組海上防禦聯盟　以確保紅海等航道航行安全",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260717/1154584540228882432293614.jpeg/fMBL8Q0PE-KhiKxb7rQoB9QXwNNxwrIvHFbWjxxW1o8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60375422/%E6%B2%99%E7%89%B9%E7%AD%8914%E5%9C%8B%E7%B5%84%E6%B5%B7%E4%B8%8A%E9%98%B2%E7%A6%A6%E8%81%AF%E7%9B%9F-%E4%BB%A5%E7%A2%BA%E4%BF%9D%E7%B4%85%E6%B5%B7%E7%AD%89%E8%88%AA%E9%81%93%E8%88%AA%E8%A1%8C%E5%AE%89%E5%85%A8",
+    "timestamp": "2026-07-30T22:16:17.894Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "新田無人留宿貨倉三級大火　消防開喉射水撲救",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260730/1159429818253578240014967.jpeg/gU4e3iy73GdtZ8ijFbG3GgBIYAfViuytuvSxZ7r0sWc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60375080/%E9%9F%93%E8%82%A1%E5%A4%A7%E6%99%82%E4%BB%A3-%E6%B8%AF%E6%A7%93%E6%A1%BF%E7%94%A2%E5%93%81%E6%B5%B7%E5%8A%9B%E5%A3%AB2%E5%80%8D%E7%80%8913-%E9%9F%93%E6%94%BF%E5%BA%9C%E7%A9%A9%E8%82%A1%E5%B8%82%E6%8E%AA%E6%96%BD%E6%9C%AA%E6%94%B6%E6%95%88",
     "timestamp": "2026-07-30T03:51:41.559Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美沙聯合打擊伊拉克親伊朗武裝致20死　回應沙特石油設施遭襲",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260730/1159367155347623936286304.jpeg/xLzIwn76Us5wS1Cc72eHROzSPE5MxvlePg_eyD4P3sg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60375081/%E7%BE%8E%E6%B2%99%E8%81%AF%E5%90%88%E6%89%93%E6%93%8A%E4%BC%8A%E6%8B%89%E5%85%8B%E8%A6%AA%E4%BC%8A%E6%9C%97%E6%AD%A6%E8%A3%9D%E8%87%B420%E6%AD%BB-%E5%9B%9E%E6%87%89%E6%B2%99%E7%89%B9%E7%9F%B3%E6%B2%B9%E8%A8%AD%E6%96%BD%E9%81%AD%E8%A5%B2",
-    "timestamp": "2026-07-30T02:44:53.166Z",
     "strategy": ".content-card__main"
   }
 ];
