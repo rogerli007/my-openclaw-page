@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-30T14:55:12.399Z
+// Last updated: 2026-07-30T15:45:57.447Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "日圓兌美元一度急升逾3%　兌美元升穿158　疑政府出手干預",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20240425/860095060044156928721354.jpeg/uXeYimEb7BnORNY5Z7FJo6Ber3xI6PMOGA0OzRgNDs0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60375397/%E6%97%A5%E5%9C%93%E5%85%8C%E7%BE%8E%E5%85%83%E4%B8%80%E5%BA%A6%E6%80%A5%E5%8D%87%E9%80%BE3-%E5%85%8C%E7%BE%8E%E5%85%83%E5%8D%87%E7%A9%BF158-%E7%96%91%E6%94%BF%E5%BA%9C%E5%87%BA%E6%89%8B%E5%B9%B2%E9%A0%90",
+    "timestamp": "2026-07-30T15:45:57.447Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "國產創維純電動的士8月中首批50架投入服務　車內有AI聊天機械人",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260723/1156878887997673472082749.jpeg/DIT2HDahtgm4fuu44uzVG2u__8A0liqCvXvThb1704U?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/60372019/%E6%AD%A3%E8%A6%96%E5%85%8B%E9%9A%86%E6%B0%8F%E7%97%87%E7%9A%84%E9%9A%B1%E5%BD%A2%E6%88%90%E6%9C%AC-%E5%8A%9B%E6%B1%82%E9%86%AB%E7%99%82%E8%88%87%E7%A4%BE%E6%9C%83%E9%9B%99%E8%B4%8F",
     "timestamp": "2026-07-29T22:12:20.813Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "23歲仔付76萬訂買車　旺角公司拖延交車拒退訂　負責人涉欺詐被捕",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250711/1020264355083587584473850.jpeg/wFz4QceI_fJD_21gOpy9U8YD8UddbzHrJZUMfiWVDH4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60375062/23%E6%AD%B2%E4%BB%94%E4%BB%9876%E8%90%AC%E8%A8%82%E8%B2%B7%E8%BB%8A-%E6%97%BA%E8%A7%92%E5%85%AC%E5%8F%B8%E6%8B%96%E5%BB%B6%E4%BA%A4%E8%BB%8A%E6%8B%92%E9%80%80%E8%A8%82-%E8%B2%A0%E8%B2%AC%E4%BA%BA%E6%B6%89%E6%AC%BA%E8%A9%90%E8%A2%AB%E6%8D%95",
-    "timestamp": "2026-07-29T21:38:58.054Z",
     "strategy": ".content-card__main"
   }
 ];
