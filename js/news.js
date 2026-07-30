@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-30T17:58:16.986Z
+// Last updated: 2026-07-30T18:40:02.967Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "俄羅斯大規模空襲烏克蘭　波蘭總理圖斯克：疑有俄方導彈落入波蘭",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260731/1159686182477500416063548.jpeg/YT8ap6OIT4Auofje8geZuQU-4JcwxT6fVUj3l1VI95c?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60375410/%E4%BF%84%E7%BE%85%E6%96%AF%E5%A4%A7%E8%A6%8F%E6%A8%A1%E7%A9%BA%E8%A5%B2%E7%83%8F%E5%85%8B%E8%98%AD-%E6%B3%A2%E8%98%AD%E7%B8%BD%E7%90%86%E5%9C%96%E6%96%AF%E5%85%8B-%E7%96%91%E6%9C%89%E4%BF%84%E6%96%B9%E5%B0%8E%E5%BD%88%E8%90%BD%E5%85%A5%E6%B3%A2%E8%98%AD",
+    "timestamp": "2026-07-30T18:40:02.967Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "伊朗稱摧毀美軍3架F-35戰機　美方否認：沒有飛機被摧毀或受損",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260717/1154833984056725504629410.jpeg/IEqTdTUZ5XYlvwTBLCVHfyFW1_o44pvP5vBTUebwU1E?v=w1920r16_9",
     "url": "https://www.hk01.com/%E4%B8%96%E7%95%8C%E5%B0%88%E9%A1%8C/60371010/%E6%97%A5%E6%9C%AC%E5%9C%B0%E5%83%B9%E9%80%A3%E6%BC%B25%E5%B9%B4-%E9%8A%80%E5%BA%A7%E4%B8%80%E6%96%87%E5%85%B7%E5%BA%97%E5%9C%9F%E5%9C%B0%E5%83%85-%E6%98%8E%E4%BF%A1%E7%89%87%E5%A4%A7%E5%B0%8F-%E8%A6%81%E5%83%B93-8%E8%90%AC",
     "timestamp": "2026-07-30T00:11:27.013Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "《八仙》狙擊星爺10日大收8億　《功夫女足》預測票房由30億回落",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260729/1159238070868905984310762.jpeg/wSnDD0_kmi9W357h1c_6Sqnrzhu8mcUNqbh7Kam4eyk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60374983/%E5%85%AB%E4%BB%99-%E7%8B%99%E6%93%8A%E6%98%9F%E7%88%BA10%E6%97%A5%E5%A4%A7%E6%94%B68%E5%84%84-%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3-%E9%A0%90%E6%B8%AC%E7%A5%A8%E6%88%BF%E7%94%B130%E5%84%84%E5%9B%9E%E8%90%BD",
-    "timestamp": "2026-07-29T23:41:46.306Z",
     "strategy": ".content-card__main"
   }
 ];
