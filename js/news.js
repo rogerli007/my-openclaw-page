@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-30T22:16:17.894Z
+// Last updated: 2026-07-30T22:44:27.630Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "前東張女神與老公慶祝相愛15周年　不介意出身嫁青衣公屋男",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260730/1159610996281577472954703.jpeg/mBW-ZCVXilHx7vJl1oibJfgfaORXZkgvZXgbm2V4G5s?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60375249/%E5%88%A9%E7%A9%8E%E6%80%A1%E8%88%87%E8%80%81%E5%85%AC%E6%85%B6%E7%A5%9D%E7%9B%B8%E6%84%9B15%E5%91%A8%E5%B9%B4-%E4%B8%8D%E4%BB%8B%E6%84%8F%E5%87%BA%E8%BA%AB%E5%AB%81%E9%9D%92%E8%A1%A3%E5%85%AC%E5%B1%8B%E7%94%B7",
+    "timestamp": "2026-07-30T22:44:27.630Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "沙特等14國組海上防禦聯盟　以確保紅海等航道航行安全",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260730/1159472479681384448197023.jpeg/fIPxyVssbLCFtiWZdpiOasqzt6cnbEtpUEEA5lBBAOY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60375144/%E9%A0%86%E5%BE%B7%E8%8E%AB%E6%B0%8F%E9%9B%9E%E7%85%B2%E7%86%B1%E5%BA%A6%E9%80%80%E6%BD%AE-%E9%A3%9F%E5%AE%A2%E7%A8%B1%E7%88%86%E7%B4%85%E5%BE%8C%E6%94%B9%E7%94%A8%E9%A3%BC%E6%96%99%E9%9B%9E-%E5%B8%B6%E8%B2%A8%E9%8A%B7%E9%87%8F%E6%8C%AB95",
     "timestamp": "2026-07-30T05:11:39.990Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "韓股大時代｜港槓桿產品海力士2倍瀉13%　韓政府穩股市措施未收效",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260730/1159429818253578240014967.jpeg/gU4e3iy73GdtZ8ijFbG3GgBIYAfViuytuvSxZ7r0sWc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60375080/%E9%9F%93%E8%82%A1%E5%A4%A7%E6%99%82%E4%BB%A3-%E6%B8%AF%E6%A7%93%E6%A1%BF%E7%94%A2%E5%93%81%E6%B5%B7%E5%8A%9B%E5%A3%AB2%E5%80%8D%E7%80%8913-%E9%9F%93%E6%94%BF%E5%BA%9C%E7%A9%A9%E8%82%A1%E5%B8%82%E6%8E%AA%E6%96%BD%E6%9C%AA%E6%94%B6%E6%95%88",
-    "timestamp": "2026-07-30T03:51:41.559Z",
     "strategy": ".content-card__main"
   }
 ];
