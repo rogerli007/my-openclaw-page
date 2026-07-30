@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-30T22:44:27.630Z
+// Last updated: 2026-07-30T23:19:46.425Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "一家八口滅門！美國媽媽帶2中國養女赴華尋根　回美8天全家8人死",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260731/1159669363314266112378069.png/-2XkJzdMyBe8poCRKsfN9whWANlWH8CIgoVH6YKFR-k?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60374842/%E4%B8%80%E5%AE%B6%E5%85%AB%E5%8F%A3%E6%BB%85%E9%96%80-%E7%BE%8E%E5%9C%8B%E5%AA%BD%E5%AA%BD%E5%B8%B62%E4%B8%AD%E5%9C%8B%E9%A4%8A%E5%A5%B3%E8%B5%B4%E8%8F%AF%E5%B0%8B%E6%A0%B9-%E5%9B%9E%E7%BE%8E8%E5%A4%A9%E5%85%A8%E5%AE%B68%E4%BA%BA%E6%AD%BB",
+    "timestamp": "2026-07-30T23:19:46.425Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "前東張女神與老公慶祝相愛15周年　不介意出身嫁青衣公屋男",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260730/1159498348164550656376019.jpeg/y1DDH4UkUvZjgv7aojpA0nVVSwxzFgBYcgSpUHIEqVA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60375195/%E8%8F%B2%E7%88%BE%E8%8C%B2%E7%8D%8E%E5%BE%97%E4%B8%BB%E7%8E%8B%E8%99%B9%E5%8D%A1%E5%9C%B0%E4%BA%9E%E5%90%8C%E6%AC%BE%E9%A0%85%E9%8F%88%E5%94%AE%E7%BD%84-%E9%84%A7%E7%85%9C-%E4%BA%8C%E6%AC%A1%E5%85%83-%E6%94%B6%E8%97%8F%E6%88%90%E4%BD%B3%E8%A9%B1",
     "timestamp": "2026-07-30T06:16:23.544Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "順德莫氏雞煲熱度退潮　食客稱爆紅後改用飼料雞 　帶貨銷量挫95%",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260730/1159472479681384448197023.jpeg/fIPxyVssbLCFtiWZdpiOasqzt6cnbEtpUEEA5lBBAOY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60375144/%E9%A0%86%E5%BE%B7%E8%8E%AB%E6%B0%8F%E9%9B%9E%E7%85%B2%E7%86%B1%E5%BA%A6%E9%80%80%E6%BD%AE-%E9%A3%9F%E5%AE%A2%E7%A8%B1%E7%88%86%E7%B4%85%E5%BE%8C%E6%94%B9%E7%94%A8%E9%A3%BC%E6%96%99%E9%9B%9E-%E5%B8%B6%E8%B2%A8%E9%8A%B7%E9%87%8F%E6%8C%AB95",
-    "timestamp": "2026-07-30T05:11:39.990Z",
     "strategy": ".content-card__main"
   }
 ];
