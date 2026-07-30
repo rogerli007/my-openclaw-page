@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-30T00:11:27.013Z
+// Last updated: 2026-07-30T00:54:04.441Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美聯儲維持利率不變　惟三張反對票齊現　內部加息壓力升温",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260618/1144097831523454976972143.jpeg/cn3aEoXAvNIIOwO7XsAIe6hEnu6g9bvYfHxugnx8boI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60375066/%E7%BE%8E%E8%81%AF%E5%84%B2%E7%B6%AD%E6%8C%81%E5%88%A9%E7%8E%87%E4%B8%8D%E8%AE%8A-%E6%83%9F%E4%B8%89%E5%BC%B5%E5%8F%8D%E5%B0%8D%E7%A5%A8%E9%BD%8A%E7%8F%BE-%E5%85%A7%E9%83%A8%E5%8A%A0%E6%81%AF%E5%A3%93%E5%8A%9B%E5%8D%87%E6%B8%A9",
+    "timestamp": "2026-07-30T00:54:04.441Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "日本地價連漲5年！銀座一文具店土地僅「明信片大小」要價3.8萬",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260729/1159168047353696256086953.jpeg/gtZ5HTF1pGwe1NAntdKCk3lHtxIc9kXGz5F9sM-RfbA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60374811/%E5%8A%8D%E6%93%8A%E4%B8%96%E9%8C%A6%E8%B3%BD-%E6%B8%AF%E9%9A%8A%E7%94%B7%E8%8A%B1%E4%B8%96%E7%95%8C%E6%8E%92%E5%90%8D%E5%89%B5%E6%96%B0%E9%AB%98-%E5%96%AE%E5%AD%A3%E8%BA%8D%E5%8D%876%E4%BD%8D%E8%87%B3%E4%B8%96%E7%95%8C%E7%AC%AC%E4%BA%8C",
     "timestamp": "2026-07-29T08:13:14.621Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "國際足協擬設子公司專辦世界盃　意向投資者包括庫什納家族捱批",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260425/1124753472151883776947685.jpeg/OU_UZAH_h3_7aIobzTR1zWSpLKbbPC5xkv80KZL_NCk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60374867/%E5%9C%8B%E9%9A%9B%E8%B6%B3%E5%8D%94%E6%93%AC%E8%A8%AD%E5%AD%90%E5%85%AC%E5%8F%B8%E5%B0%88%E8%BE%A6%E4%B8%96%E7%95%8C%E7%9B%83-%E6%84%8F%E5%90%91%E6%8A%95%E8%B3%87%E8%80%85%E5%8C%85%E6%8B%AC%E5%BA%AB%E4%BB%80%E7%B4%8D%E5%AE%B6%E6%97%8F%E6%8D%B1%E6%89%B9",
-    "timestamp": "2026-07-29T07:17:24.500Z",
     "strategy": ".content-card__main"
   }
 ];
