@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-30T02:44:53.166Z
+// Last updated: 2026-07-30T03:51:41.559Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "韓股大時代｜港槓桿產品海力士2倍瀉13%　韓政府穩股市措施未收效",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260730/1159429818253578240014967.jpeg/gU4e3iy73GdtZ8ijFbG3GgBIYAfViuytuvSxZ7r0sWc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60375080/%E9%9F%93%E8%82%A1%E5%A4%A7%E6%99%82%E4%BB%A3-%E6%B8%AF%E6%A7%93%E6%A1%BF%E7%94%A2%E5%93%81%E6%B5%B7%E5%8A%9B%E5%A3%AB2%E5%80%8D%E7%80%8913-%E9%9F%93%E6%94%BF%E5%BA%9C%E7%A9%A9%E8%82%A1%E5%B8%82%E6%8E%AA%E6%96%BD%E6%9C%AA%E6%94%B6%E6%95%88",
+    "timestamp": "2026-07-30T03:51:41.559Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美沙聯合打擊伊拉克親伊朗武裝致20死　回應沙特石油設施遭襲",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260729/1159183733186629632803915.jpeg/mlSCR7IsjrIWuvtU63ZspmGJ4jSA3nrCOyczZTsnM2U?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60374940/%E8%B7%AF%E9%80%8F-%E4%B8%AD%E5%9C%8B%E9%98%B2%E7%A9%BA%E5%B0%8E%E5%BD%88%E6%95%B8%E9%80%B1%E5%85%A7%E9%81%8B%E6%8A%B5%E4%BC%8A%E6%9C%97-%E4%B8%AD%E6%96%B9%E6%96%A5%E6%AF%AB%E7%84%A1%E6%A0%B9%E6%93%9A",
     "timestamp": "2026-07-29T12:01:18.423Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "韓股大時代｜SK海力士再被唱淡　神準韓證券發功　劈目標價2成",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260714/1153668908020928512230416.jpeg/wDKUHpoUL7gkzHumxbkX8o8LMcm2_3ZRah9pRGofaUQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60374994/%E9%9F%93%E8%82%A1%E5%A4%A7%E6%99%82%E4%BB%A3-sk%E6%B5%B7%E5%8A%9B%E5%A3%AB%E5%86%8D%E8%A2%AB%E5%94%B1%E6%B7%A1-%E7%A5%9E%E6%BA%96%E9%9F%93%E8%AD%89%E5%88%B8%E7%99%BC%E5%8A%9F-%E5%8A%88%E7%9B%AE%E6%A8%99%E5%83%B92%E6%88%90",
-    "timestamp": "2026-07-29T11:13:29.952Z",
     "strategy": ".content-card__main"
   }
 ];
