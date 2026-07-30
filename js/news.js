@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-30T08:03:56.068Z
+// Last updated: 2026-07-30T10:08:05.730Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "宏福苑聽證會｜宏業何建業、侯華建書面回應　否認圍標、偷工減料",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20251222/1079907638440890368537869.jpeg/QVou9hhkr4cJm1jk8OOCIMWA_Wkbu7Ha1U_50NVP-dA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60375277/%E5%AE%8F%E7%A6%8F%E8%8B%91%E8%81%BD%E8%AD%89%E6%9C%83-%E5%AE%8F%E6%A5%AD%E4%BD%95%E5%BB%BA%E6%A5%AD-%E4%BE%AF%E8%8F%AF%E5%BB%BA%E6%9B%B8%E9%9D%A2%E5%9B%9E%E6%87%89-%E5%90%A6%E8%AA%8D%E5%9C%8D%E6%A8%99-%E5%81%B7%E5%B7%A5%E6%B8%9B%E6%96%99",
+    "timestamp": "2026-07-30T10:08:05.730Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "羅淑佩訪浸大參觀教研設施　了解大學創意藝術與體育領域發展",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260729/1159216884671844352837510.jpeg/GFix7pUv9-p_jzOvtFQxVex2UpbPU6zZ2lpOs9paTrM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60374500/%E7%A7%81%E9%99%A2%E7%96%91%E6%8E%80%E5%83%B9%E6%A0%BC%E6%88%B0-%E6%B8%AF%E5%AE%89-%E5%B1%AC%E7%9F%AD%E6%9C%9F%E6%B3%A2%E5%8B%95-%E9%AB%98%E7%AB%AF%E9%86%AB%E7%99%82%E9%9C%80%E8%A6%81%E5%A2%9E-%E9%95%B7%E9%81%A0%E6%84%9F%E6%A8%82%E8%A7%80",
     "timestamp": "2026-07-29T16:08:50.269Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "小米8月夏日購物優惠低至5折｜米家空氣淨化器6 Plus極速淨化房間",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260729/1159273836999348224841735.png/WPUJctaCebkZ1nxjbuTOJsg-aTagfa567uwst-7sLLc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60375018/%E5%B0%8F%E7%B1%B38%E6%9C%88%E5%A4%8F%E6%97%A5%E8%B3%BC%E7%89%A9%E5%84%AA%E6%83%A0%E4%BD%8E%E8%87%B35%E6%8A%98-%E7%B1%B3%E5%AE%B6%E7%A9%BA%E6%B0%A3%E6%B7%A8%E5%8C%96%E5%99%A86-plus%E6%A5%B5%E9%80%9F%E6%B7%A8%E5%8C%96%E6%88%BF%E9%96%93",
-    "timestamp": "2026-07-29T15:31:25.653Z",
     "strategy": ".content-card__main"
   }
 ];
