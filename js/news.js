@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-30T23:19:46.425Z
+// Last updated: 2026-07-30T23:41:08.366Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "復仇的人｜點名讚鄧濤Marf演出　指搭港鐵被偷拍舉V想令路人開心",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260731/1159715452369244160584972.jpeg/7PfF16mPFCkdb7NvLtR0z61s_4wBeoT8VS1hOFUtYTg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60375416/%E5%BE%A9%E4%BB%87%E7%9A%84%E4%BA%BA-%E9%BB%9E%E5%90%8D%E8%AE%9A%E9%84%A7%E6%BF%A4marf%E6%BC%94%E5%87%BA-%E6%8C%87%E6%90%AD%E6%B8%AF%E9%90%B5%E8%A2%AB%E5%81%B7%E6%8B%8D%E8%88%89v%E6%83%B3%E4%BB%A4%E8%B7%AF%E4%BA%BA%E9%96%8B%E5%BF%83",
+    "timestamp": "2026-07-30T23:41:08.366Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "一家八口滅門！美國媽媽帶2中國養女赴華尋根　回美8天全家8人死",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260730/1159522342985011200348061.jpeg/9Iz3RvfWFnz6qvS-PAQ3m7CckVKTscAer4DDmq-Aw5o?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%95%99%E8%82%B2%E7%99%BC%E5%B1%95/60375244/%E7%BE%85%E6%B7%91%E4%BD%A9%E8%A8%AA%E6%B5%B8%E5%A4%A7%E5%8F%83%E8%A7%80%E6%95%99%E7%A0%94%E8%A8%AD%E6%96%BD-%E4%BA%86%E8%A7%A3%E5%A4%A7%E5%AD%B8%E5%89%B5%E6%84%8F%E8%97%9D%E8%A1%93%E8%88%87%E9%AB%94%E8%82%B2%E9%A0%98%E5%9F%9F%E7%99%BC%E5%B1%95",
     "timestamp": "2026-07-30T08:03:56.068Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "菲爾茲獎得主王虹卡地亞同款項鏈售罄　鄧煜「二次元」收藏成佳話",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260730/1159498348164550656376019.jpeg/y1DDH4UkUvZjgv7aojpA0nVVSwxzFgBYcgSpUHIEqVA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60375195/%E8%8F%B2%E7%88%BE%E8%8C%B2%E7%8D%8E%E5%BE%97%E4%B8%BB%E7%8E%8B%E8%99%B9%E5%8D%A1%E5%9C%B0%E4%BA%9E%E5%90%8C%E6%AC%BE%E9%A0%85%E9%8F%88%E5%94%AE%E7%BD%84-%E9%84%A7%E7%85%9C-%E4%BA%8C%E6%AC%A1%E5%85%83-%E6%94%B6%E8%97%8F%E6%88%90%E4%BD%B3%E8%A9%B1",
-    "timestamp": "2026-07-30T06:16:23.544Z",
     "strategy": ".content-card__main"
   }
 ];
