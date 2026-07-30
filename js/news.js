@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-30T11:50:44.110Z
+// Last updated: 2026-07-30T12:22:20.621Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "Nancy新歌拒與前度做朋友　與Jeffrey魏浚笙合作成高顏值MV",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260730/1159551445935067136941726.jpeg/q4a_lxp9zXRKlCt1_SgWSGI3_EhqJq0bAFq_vwBav78?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60375293/nancy%E6%96%B0%E6%AD%8C%E6%8B%92%E8%88%87%E5%89%8D%E5%BA%A6%E5%81%9A%E6%9C%8B%E5%8F%8B-%E8%88%87jeffrey%E9%AD%8F%E6%B5%9A%E7%AC%99%E5%90%88%E4%BD%9C%E6%88%90%E9%AB%98%E9%A1%8F%E5%80%BCmv",
+    "timestamp": "2026-07-30T12:22:20.621Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "非份之罪線上看21-25結局劇情｜恐怖情人兇手係阮浩棕定劉佩玥？",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260730/1159322347111452672486297.jpeg/Z7YXVPhiturZpMUxUl7XWjSexObp-mtd8w8rffMPK30?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60375052/%E7%86%8A%E6%9C%AC%E5%9C%B0%E9%9C%87-%E6%9D%B1%E4%BA%AC%E9%8A%80%E5%BA%A7%E7%86%8A%E6%9C%AC%E5%B0%88%E8%B3%A3%E5%BA%97%E6%B9%A7%E7%8F%BE%E4%BA%BA%E9%BE%8D-%E6%B0%91%E7%9C%BE%E6%B6%88%E8%B2%BB-%E6%8D%90%E9%8C%A2%E9%87%91%E6%8F%B4%E7%81%BD%E5%8D%80",
     "timestamp": "2026-07-29T18:29:50.408Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "Driscoll’s：根據食安中心風險評估　產品可正常食用無不良影響",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260730/1159310518893154304514093.png/4gNL40ROJApYGDJvDF58TJibmNLUEyogpyweNKcsHjQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60375049/driscoll-s-%E6%A0%B9%E6%93%9A%E9%A3%9F%E5%AE%89%E4%B8%AD%E5%BF%83%E9%A2%A8%E9%9A%AA%E8%A9%95%E4%BC%B0-%E7%94%A2%E5%93%81%E5%8F%AF%E6%AD%A3%E5%B8%B8%E9%A3%9F%E7%94%A8%E7%84%A1%E4%B8%8D%E8%89%AF%E5%BD%B1%E9%9F%BF",
-    "timestamp": "2026-07-29T17:52:12.594Z",
     "strategy": ".content-card__main"
   }
 ];
