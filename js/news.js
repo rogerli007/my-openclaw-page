@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-30T03:51:41.559Z
+// Last updated: 2026-07-30T05:11:39.990Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "順德莫氏雞煲熱度退潮　食客稱爆紅後改用飼料雞 　帶貨銷量挫95%",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260730/1159472479681384448197023.jpeg/fIPxyVssbLCFtiWZdpiOasqzt6cnbEtpUEEA5lBBAOY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60375144/%E9%A0%86%E5%BE%B7%E8%8E%AB%E6%B0%8F%E9%9B%9E%E7%85%B2%E7%86%B1%E5%BA%A6%E9%80%80%E6%BD%AE-%E9%A3%9F%E5%AE%A2%E7%A8%B1%E7%88%86%E7%B4%85%E5%BE%8C%E6%94%B9%E7%94%A8%E9%A3%BC%E6%96%99%E9%9B%9E-%E5%B8%B6%E8%B2%A8%E9%8A%B7%E9%87%8F%E6%8C%AB95",
+    "timestamp": "2026-07-30T05:11:39.990Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "韓股大時代｜港槓桿產品海力士2倍瀉13%　韓政府穩股市措施未收效",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260729/1159168608463491072496183.jpeg/LSU5ltQlCvHIIMgyyxj0MCsdBxyvGLAbiJlnPoiZZz4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60374822/%E4%BD%95%E8%B6%85%E9%9B%B2%E8%88%87%E9%AC%8D%E9%AC%9A%E7%94%B7%E6%96%B0%E6%AD%A1%E9%A0%AD%E8%B2%BC%E9%A0%AD%E9%AB%98%E8%AA%BF%E6%94%BE%E9%96%83-%E5%8F%B0%E7%81%A3%E8%B1%AA%E5%AE%85%E5%A4%A7%E4%BA%A8%E7%94%B7%E5%8F%8B%E8%83%8C%E6%99%AF%E7%8C%9B%E6%96%99",
     "timestamp": "2026-07-29T13:43:00.183Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "路透：中國防空導彈數週內運抵伊朗　中方斥毫無根據",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260729/1159183733186629632803915.jpeg/mlSCR7IsjrIWuvtU63ZspmGJ4jSA3nrCOyczZTsnM2U?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60374940/%E8%B7%AF%E9%80%8F-%E4%B8%AD%E5%9C%8B%E9%98%B2%E7%A9%BA%E5%B0%8E%E5%BD%88%E6%95%B8%E9%80%B1%E5%85%A7%E9%81%8B%E6%8A%B5%E4%BC%8A%E6%9C%97-%E4%B8%AD%E6%96%B9%E6%96%A5%E6%AF%AB%E7%84%A1%E6%A0%B9%E6%93%9A",
-    "timestamp": "2026-07-29T12:01:18.423Z",
     "strategy": ".content-card__main"
   }
 ];
