@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-30T10:08:05.730Z
+// Last updated: 2026-07-30T11:01:57.708Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "屯門爆水管｜水務署完成搶修　供水傍晚6時陸續恢復　初時或混濁",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260730/1159571635120902144352164.jpeg/idSZ10KyBNEc1Sb86B9pUwfZ5gwU_U_srvSaDa70mg0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60375339/%E5%B1%AF%E9%96%80%E7%88%86%E6%B0%B4%E7%AE%A1-%E6%B0%B4%E5%8B%99%E7%BD%B2%E5%AE%8C%E6%88%90%E6%90%B6%E4%BF%AE-%E4%BE%9B%E6%B0%B4%E5%82%8D%E6%99%9A6%E6%99%82%E9%99%B8%E7%BA%8C%E6%81%A2%E5%BE%A9-%E5%88%9D%E6%99%82%E6%88%96%E6%B7%B7%E6%BF%81",
+    "timestamp": "2026-07-30T11:01:57.708Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "宏福苑聽證會｜宏業何建業、侯華建書面回應　否認圍標、偷工減料",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260729/1159266380407640064185947.jpeg/lLT-Cl27hibMzK36TNeG6QXcP9k4JDAqQRfUcUEX1HE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60375038/%E7%8F%8D%E6%83%9C%E7%94%9F%E5%91%BD-%E5%8C%97%E8%A7%9258%E6%AD%B2%E7%94%B7%E5%AD%90%E4%BD%8F%E6%89%80%E7%87%92%E7%82%AD-%E5%A6%BB%E5%AD%90%E6%8F%AD%E7%99%BC%E6%83%9C%E5%A4%AA%E9%81%B2",
     "timestamp": "2026-07-29T16:48:03.438Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "私院疑掀價格戰　港安：屬短期波動　高端醫療需要增　長遠感樂觀",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260729/1159216884671844352837510.jpeg/GFix7pUv9-p_jzOvtFQxVex2UpbPU6zZ2lpOs9paTrM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60374500/%E7%A7%81%E9%99%A2%E7%96%91%E6%8E%80%E5%83%B9%E6%A0%BC%E6%88%B0-%E6%B8%AF%E5%AE%89-%E5%B1%AC%E7%9F%AD%E6%9C%9F%E6%B3%A2%E5%8B%95-%E9%AB%98%E7%AB%AF%E9%86%AB%E7%99%82%E9%9C%80%E8%A6%81%E5%A2%9E-%E9%95%B7%E9%81%A0%E6%84%9F%E6%A8%82%E8%A7%80",
-    "timestamp": "2026-07-29T16:08:50.269Z",
     "strategy": ".content-card__main"
   }
 ];
