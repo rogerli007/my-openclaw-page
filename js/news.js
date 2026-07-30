@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-30T00:54:04.441Z
+// Last updated: 2026-07-30T01:43:09.120Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "韓股大時代｜韓政府出招　限散戶參與槓桿ETF　海力士2倍再跌5%",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260730/1159429818253578240014967.jpeg/gU4e3iy73GdtZ8ijFbG3GgBIYAfViuytuvSxZ7r0sWc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60375080/%E9%9F%93%E8%82%A1%E5%A4%A7%E6%99%82%E4%BB%A3-%E9%9F%93%E6%94%BF%E5%BA%9C%E5%87%BA%E6%8B%9B-%E9%99%90%E6%95%A3%E6%88%B6%E5%8F%83%E8%88%87%E6%A7%93%E6%A1%BFetf-%E6%B5%B7%E5%8A%9B%E5%A3%AB2%E5%80%8D%E5%86%8D%E8%B7%8C5",
+    "timestamp": "2026-07-30T01:43:09.120Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美聯儲維持利率不變　惟三張反對票齊現　內部加息壓力升温",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260729/1159180835304247296710658.jpeg/j4FhfxtcJ9-mZ8xz3_olVn4A8YsJ3VGj1C8KG9QvChs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60374942/bigbang%E6%BC%94%E5%94%B1%E6%9C%832026%E6%96%B0%E5%8A%A0%E5%9D%A1-%E9%96%80%E7%A5%A8%E5%84%AA%E5%85%88-%E5%85%AC%E5%94%AE%E6%94%BB%E7%95%A5-%E8%B3%BC%E7%A5%A8%E9%80%A3%E7%B5%90-%E5%BA%A7%E4%BD%8D%E8%A1%A8",
     "timestamp": "2026-07-29T10:18:49.812Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "劍擊世錦賽｜港隊男花世界排名創新高　單季躍升6位至世界第二",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260729/1159168047353696256086953.jpeg/gtZ5HTF1pGwe1NAntdKCk3lHtxIc9kXGz5F9sM-RfbA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60374811/%E5%8A%8D%E6%93%8A%E4%B8%96%E9%8C%A6%E8%B3%BD-%E6%B8%AF%E9%9A%8A%E7%94%B7%E8%8A%B1%E4%B8%96%E7%95%8C%E6%8E%92%E5%90%8D%E5%89%B5%E6%96%B0%E9%AB%98-%E5%96%AE%E5%AD%A3%E8%BA%8D%E5%8D%876%E4%BD%8D%E8%87%B3%E4%B8%96%E7%95%8C%E7%AC%AC%E4%BA%8C",
-    "timestamp": "2026-07-29T08:13:14.621Z",
     "strategy": ".content-card__main"
   }
 ];
