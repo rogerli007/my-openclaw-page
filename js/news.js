@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-30T17:07:14.472Z
+// Last updated: 2026-07-30T17:58:16.986Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "伊朗稱摧毀美軍3架F-35戰機　美方否認：沒有飛機被摧毀或受損",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260731/1159675005055799296279604.jpeg/ccCfDIxxAkdpQCHo6MJEX2kUAvNUUrdOjPVgT4z1YE8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60375407/%E4%BC%8A%E6%9C%97%E7%A8%B1%E6%91%A7%E6%AF%80%E7%BE%8E%E8%BB%8D3%E6%9E%B6f-35%E6%88%B0%E6%A9%9F-%E7%BE%8E%E6%96%B9%E5%90%A6%E8%AA%8D-%E6%B2%92%E6%9C%89%E9%A3%9B%E6%A9%9F%E8%A2%AB%E6%91%A7%E6%AF%80%E6%88%96%E5%8F%97%E6%90%8D",
+    "timestamp": "2026-07-30T17:58:16.986Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "熊本地震｜AEONmall爆炸新片曝　巨響震耳欲聾　碎片擊電線竄火光",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260729/1159238070868905984310762.jpeg/wSnDD0_kmi9W357h1c_6Sqnrzhu8mcUNqbh7Kam4eyk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60374983/%E5%85%AB%E4%BB%99-%E7%8B%99%E6%93%8A%E6%98%9F%E7%88%BA10%E6%97%A5%E5%A4%A7%E6%94%B68%E5%84%84-%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3-%E9%A0%90%E6%B8%AC%E7%A5%A8%E6%88%BF%E7%94%B130%E5%84%84%E5%9B%9E%E8%90%BD",
     "timestamp": "2026-07-29T23:41:46.306Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美國4車相撞1死1傷　46歲華裔男司機輾過鐵騎士後逃逸　被控重罪",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260729/1159179727588560896206748.png/Fxt5mZvpAi5QKeael1EglO1VNJRnAIlnpHpr66R6a-s?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60374414/%E7%BE%8E%E5%9C%8B4%E8%BB%8A%E7%9B%B8%E6%92%9E1%E6%AD%BB1%E5%82%B7-46%E6%AD%B2%E8%8F%AF%E8%A3%94%E7%94%B7%E5%8F%B8%E6%A9%9F%E8%BC%BE%E9%81%8E%E9%90%B5%E9%A8%8E%E5%A3%AB%E5%BE%8C%E9%80%83%E9%80%B8-%E8%A2%AB%E6%8E%A7%E9%87%8D%E7%BD%AA",
-    "timestamp": "2026-07-29T23:18:11.234Z",
     "strategy": ".content-card__main"
   }
 ];
