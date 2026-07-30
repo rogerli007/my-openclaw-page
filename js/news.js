@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-30T15:45:57.447Z
+// Last updated: 2026-07-30T16:26:34.799Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "蚊患｜長沙灣誘蚊器指數達30.9%　深水埗7場所被發清除積水通知書",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260731/1159652362588000256280759.jpeg/-SHakSOgTouT2XJrJcGw2uffbu0RPmPjgw_UUYMP1FE?v=w1920r16_9",
+    "url": "https://www.hk01.com/18%E5%8D%80%E6%96%B0%E8%81%9E/60375401/%E8%9A%8A%E6%82%A3-%E9%95%B7%E6%B2%99%E7%81%A3%E8%AA%98%E8%9A%8A%E5%99%A8%E6%8C%87%E6%95%B8%E9%81%9430-9-%E6%B7%B1%E6%B0%B4%E5%9F%977%E5%A0%B4%E6%89%80%E8%A2%AB%E7%99%BC%E6%B8%85%E9%99%A4%E7%A9%8D%E6%B0%B4%E9%80%9A%E7%9F%A5%E6%9B%B8",
+    "timestamp": "2026-07-30T16:26:34.799Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "日圓兌美元一度急升逾3%　兌美元升穿158　疑政府出手干預",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260729/1159201266534977536324150.jpeg/vVTvBZlIsiDUqCFGFe4wqwRZYSJeJdyj1_eEV9f3hFc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60374814/%E6%84%9B%E5%9B%9E%E5%AE%B6-%E6%A8%8A%E4%BA%A6%E6%95%8F%E8%87%AA%E7%88%86%E6%95%B2%E7%9B%A3%E8%A3%BD%E9%96%80%E7%88%AD%E5%8F%96%E8%A7%92%E8%89%B2-%E7%B5%82%E6%88%90%E5%B8%B8%E9%A7%90%E9%9D%88%E9%AD%82%E4%BA%BA%E7%89%A9%E7%88%86%E7%B4%85%E5%A5%AA%E7%8D%8E",
     "timestamp": "2026-07-29T22:39:57.709Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "正視克隆氏症的隱形成本　力求醫療與社會雙贏",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260723/1156878887997673472082749.jpeg/DIT2HDahtgm4fuu44uzVG2u__8A0liqCvXvThb1704U?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/60372019/%E6%AD%A3%E8%A6%96%E5%85%8B%E9%9A%86%E6%B0%8F%E7%97%87%E7%9A%84%E9%9A%B1%E5%BD%A2%E6%88%90%E6%9C%AC-%E5%8A%9B%E6%B1%82%E9%86%AB%E7%99%82%E8%88%87%E7%A4%BE%E6%9C%83%E9%9B%99%E8%B4%8F",
-    "timestamp": "2026-07-29T22:12:20.813Z",
     "strategy": ".content-card__main"
   }
 ];
