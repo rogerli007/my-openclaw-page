@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-30T01:43:09.120Z
+// Last updated: 2026-07-30T02:44:53.166Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美沙聯合打擊伊拉克親伊朗武裝致20死　回應沙特石油設施遭襲",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260730/1159367155347623936286304.jpeg/xLzIwn76Us5wS1Cc72eHROzSPE5MxvlePg_eyD4P3sg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60375081/%E7%BE%8E%E6%B2%99%E8%81%AF%E5%90%88%E6%89%93%E6%93%8A%E4%BC%8A%E6%8B%89%E5%85%8B%E8%A6%AA%E4%BC%8A%E6%9C%97%E6%AD%A6%E8%A3%9D%E8%87%B420%E6%AD%BB-%E5%9B%9E%E6%87%89%E6%B2%99%E7%89%B9%E7%9F%B3%E6%B2%B9%E8%A8%AD%E6%96%BD%E9%81%AD%E8%A5%B2",
+    "timestamp": "2026-07-30T02:44:53.166Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "韓股大時代｜韓政府出招　限散戶參與槓桿ETF　海力士2倍再跌5%",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260714/1153668908020928512230416.jpeg/wDKUHpoUL7gkzHumxbkX8o8LMcm2_3ZRah9pRGofaUQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60374994/%E9%9F%93%E8%82%A1%E5%A4%A7%E6%99%82%E4%BB%A3-sk%E6%B5%B7%E5%8A%9B%E5%A3%AB%E5%86%8D%E8%A2%AB%E5%94%B1%E6%B7%A1-%E7%A5%9E%E6%BA%96%E9%9F%93%E8%AD%89%E5%88%B8%E7%99%BC%E5%8A%9F-%E5%8A%88%E7%9B%AE%E6%A8%99%E5%83%B92%E6%88%90",
     "timestamp": "2026-07-29T11:13:29.952Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "BIGBANG演唱會2026新加坡｜門票優先/公售攻略＋購票連結＋座位表",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260729/1159180835304247296710658.jpeg/j4FhfxtcJ9-mZ8xz3_olVn4A8YsJ3VGj1C8KG9QvChs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60374942/bigbang%E6%BC%94%E5%94%B1%E6%9C%832026%E6%96%B0%E5%8A%A0%E5%9D%A1-%E9%96%80%E7%A5%A8%E5%84%AA%E5%85%88-%E5%85%AC%E5%94%AE%E6%94%BB%E7%95%A5-%E8%B3%BC%E7%A5%A8%E9%80%A3%E7%B5%90-%E5%BA%A7%E4%BD%8D%E8%A1%A8",
-    "timestamp": "2026-07-29T10:18:49.812Z",
     "strategy": ".content-card__main"
   }
 ];
