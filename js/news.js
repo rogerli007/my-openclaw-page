@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-31T01:00:49.794Z
+// Last updated: 2026-07-31T04:03:51.507Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "有片｜食環署北角拉小販　老翁被扯跌　網民：唔洗咁樣撳伯伯啊？",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260731/1159826788541534208213894.jpeg/QHVG29jXXUcJNLW2bUQfgaBLVGbnZbkESp36REqd-kQ",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60375477/%E6%9C%89%E7%89%87-%E9%A3%9F%E7%92%B0%E7%BD%B2%E5%8C%97%E8%A7%92%E6%8B%89%E5%B0%8F%E8%B2%A9-%E8%80%81%E7%BF%81%E8%A2%AB%E6%89%AF%E8%B7%8C-%E7%B6%B2%E6%B0%91-%E5%94%94%E6%B4%97%E5%92%81%E6%A8%A3%E6%92%B3%E4%BC%AF%E4%BC%AF%E5%95%8A",
+    "timestamp": "2026-07-31T04:03:51.507Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "也門胡塞武裝據報從伊拉克襲擊沙特阿拉伯　證伊朗與盟友聯繫加深",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260724/1157373696793382912426519.png/EZvqARn9pCwWI2Z7byjIWj9PJfZcEI-MCO8u-gjvLvo",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60373362/%E9%9D%9E%E4%BB%BD%E4%B9%8B%E7%BD%AA%E7%B7%9A%E4%B8%8A%E7%9C%8B21-25%E7%B5%90%E5%B1%80%E5%8A%87%E6%83%85-%E6%81%90%E6%80%96%E6%83%85%E4%BA%BA%E5%85%87%E6%89%8B%E4%BF%82%E9%98%AE%E6%B5%A9%E6%A3%95%E5%AE%9A%E5%8A%89%E4%BD%A9%E7%8E%A5",
     "timestamp": "2026-07-30T11:50:44.110Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "屯門爆水管｜水務署完成搶修　供水傍晚6時陸續恢復　初時或混濁",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260730/1159571635120902144352164.jpeg/idSZ10KyBNEc1Sb86B9pUwfZ5gwU_U_srvSaDa70mg0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60375339/%E5%B1%AF%E9%96%80%E7%88%86%E6%B0%B4%E7%AE%A1-%E6%B0%B4%E5%8B%99%E7%BD%B2%E5%AE%8C%E6%88%90%E6%90%B6%E4%BF%AE-%E4%BE%9B%E6%B0%B4%E5%82%8D%E6%99%9A6%E6%99%82%E9%99%B8%E7%BA%8C%E6%81%A2%E5%BE%A9-%E5%88%9D%E6%99%82%E6%88%96%E6%B7%B7%E6%BF%81",
-    "timestamp": "2026-07-30T11:01:57.708Z",
     "strategy": ".content-card__main"
   }
 ];
