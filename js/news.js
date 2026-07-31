@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-31T21:18:07.308Z
+// Last updated: 2026-07-31T22:16:35.515Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "特朗普改口：未同意讓烏克蘭生產愛國者導彈",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250806/1029572943509721088853920.jpeg/oBYvQfjA6GG-2OPrLX0GK_4LmW5YTbAda9O2z2vTts8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60375765/%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%B9%E5%8F%A3-%E6%9C%AA%E5%90%8C%E6%84%8F%E8%AE%93%E7%83%8F%E5%85%8B%E8%98%AD%E7%94%9F%E7%94%A2%E6%84%9B%E5%9C%8B%E8%80%85%E5%B0%8E%E5%BD%88",
+    "timestamp": "2026-07-31T22:16:35.515Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美海軍陸戰隊F-35B戰機加州墜毀　機師彈射逃生現場冒濃煙｜有片",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260730/1159610996281577472954703.jpeg/mBW-ZCVXilHx7vJl1oibJfgfaORXZkgvZXgbm2V4G5s?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60375249/%E5%88%A9%E7%A9%8E%E6%80%A1%E8%88%87%E8%80%81%E5%85%AC%E6%85%B6%E7%A5%9D%E7%9B%B8%E6%84%9B15%E5%91%A8%E5%B9%B4-%E4%B8%8D%E4%BB%8B%E6%84%8F%E5%87%BA%E8%BA%AB%E5%AB%81%E9%9D%92%E8%A1%A3%E5%85%AC%E5%B1%8B%E7%94%B7",
     "timestamp": "2026-07-30T22:44:27.630Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "沙特等14國組海上防禦聯盟　以確保紅海等航道航行安全",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260717/1154584540228882432293614.jpeg/fMBL8Q0PE-KhiKxb7rQoB9QXwNNxwrIvHFbWjxxW1o8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60375422/%E6%B2%99%E7%89%B9%E7%AD%8914%E5%9C%8B%E7%B5%84%E6%B5%B7%E4%B8%8A%E9%98%B2%E7%A6%A6%E8%81%AF%E7%9B%9F-%E4%BB%A5%E7%A2%BA%E4%BF%9D%E7%B4%85%E6%B5%B7%E7%AD%89%E8%88%AA%E9%81%93%E8%88%AA%E8%A1%8C%E5%AE%89%E5%85%A8",
-    "timestamp": "2026-07-30T22:16:17.894Z",
     "strategy": ".content-card__main"
   }
 ];
