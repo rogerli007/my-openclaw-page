@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-31T00:14:10.345Z
+// Last updated: 2026-07-31T01:00:49.794Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "也門胡塞武裝據報從伊拉克襲擊沙特阿拉伯　證伊朗與盟友聯繫加深",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260731/1159781407791255552815974.png/WlRuW6YmNEbEI45DN1AreOPh78lnVNDyHMwZURzMGVE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60375436/%E4%B9%9F%E9%96%80%E8%83%A1%E5%A1%9E%E6%AD%A6%E8%A3%9D%E6%93%9A%E5%A0%B1%E5%BE%9E%E4%BC%8A%E6%8B%89%E5%85%8B%E8%A5%B2%E6%93%8A%E6%B2%99%E7%89%B9%E9%98%BF%E6%8B%89%E4%BC%AF-%E8%AD%89%E4%BC%8A%E6%9C%97%E8%88%87%E7%9B%9F%E5%8F%8B%E8%81%AF%E7%B9%AB%E5%8A%A0%E6%B7%B1",
+    "timestamp": "2026-07-31T01:00:49.794Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "全球6大貓咪景點推薦丨台灣/日本/意大利等包含在內　治愈指數Max",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260730/1159571635120902144352164.jpeg/idSZ10KyBNEc1Sb86B9pUwfZ5gwU_U_srvSaDa70mg0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60375339/%E5%B1%AF%E9%96%80%E7%88%86%E6%B0%B4%E7%AE%A1-%E6%B0%B4%E5%8B%99%E7%BD%B2%E5%AE%8C%E6%88%90%E6%90%B6%E4%BF%AE-%E4%BE%9B%E6%B0%B4%E5%82%8D%E6%99%9A6%E6%99%82%E9%99%B8%E7%BA%8C%E6%81%A2%E5%BE%A9-%E5%88%9D%E6%99%82%E6%88%96%E6%B7%B7%E6%BF%81",
     "timestamp": "2026-07-30T11:01:57.708Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "宏福苑聽證會｜宏業何建業、侯華建書面回應　否認圍標、偷工減料",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20251222/1079907638440890368537869.jpeg/QVou9hhkr4cJm1jk8OOCIMWA_Wkbu7Ha1U_50NVP-dA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60375277/%E5%AE%8F%E7%A6%8F%E8%8B%91%E8%81%BD%E8%AD%89%E6%9C%83-%E5%AE%8F%E6%A5%AD%E4%BD%95%E5%BB%BA%E6%A5%AD-%E4%BE%AF%E8%8F%AF%E5%BB%BA%E6%9B%B8%E9%9D%A2%E5%9B%9E%E6%87%89-%E5%90%A6%E8%AA%8D%E5%9C%8D%E6%A8%99-%E5%81%B7%E5%B7%A5%E6%B8%9B%E6%96%99",
-    "timestamp": "2026-07-30T10:08:05.730Z",
     "strategy": ".content-card__main"
   }
 ];
