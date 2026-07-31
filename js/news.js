@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-31T04:03:51.507Z
+// Last updated: 2026-07-31T05:21:43.427Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "深圳寶安機場直達廣州白雲機場最快96分鐘　穗深城際全線貫通",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260731/1159838943294787584658970.png/lYFlZ_xP0jYCvAPQds_hlYPKryaF4UW-4cCgbuHAoG4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60375528/%E6%B7%B1%E5%9C%B3%E5%AF%B6%E5%AE%89%E6%A9%9F%E5%A0%B4%E7%9B%B4%E9%81%94%E5%BB%A3%E5%B7%9E%E7%99%BD%E9%9B%B2%E6%A9%9F%E5%A0%B4%E6%9C%80%E5%BF%AB96%E5%88%86%E9%90%98-%E7%A9%97%E6%B7%B1%E5%9F%8E%E9%9A%9B%E5%85%A8%E7%B7%9A%E8%B2%AB%E9%80%9A",
+    "timestamp": "2026-07-31T05:21:43.427Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "有片｜食環署北角拉小販　老翁被扯跌　網民：唔洗咁樣撳伯伯啊？",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260730/1159551445935067136941726.jpeg/q4a_lxp9zXRKlCt1_SgWSGI3_EhqJq0bAFq_vwBav78?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60375293/nancy%E6%96%B0%E6%AD%8C%E6%8B%92%E8%88%87%E5%89%8D%E5%BA%A6%E5%81%9A%E6%9C%8B%E5%8F%8B-%E8%88%87jeffrey%E9%AD%8F%E6%B5%9A%E7%AC%99%E5%90%88%E4%BD%9C%E6%88%90%E9%AB%98%E9%A1%8F%E5%80%BCmv",
     "timestamp": "2026-07-30T12:22:20.621Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "非份之罪線上看21-25結局劇情｜恐怖情人兇手係阮浩棕定劉佩玥？",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260724/1157373696793382912426519.png/EZvqARn9pCwWI2Z7byjIWj9PJfZcEI-MCO8u-gjvLvo",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60373362/%E9%9D%9E%E4%BB%BD%E4%B9%8B%E7%BD%AA%E7%B7%9A%E4%B8%8A%E7%9C%8B21-25%E7%B5%90%E5%B1%80%E5%8A%87%E6%83%85-%E6%81%90%E6%80%96%E6%83%85%E4%BA%BA%E5%85%87%E6%89%8B%E4%BF%82%E9%98%AE%E6%B5%A9%E6%A3%95%E5%AE%9A%E5%8A%89%E4%BD%A9%E7%8E%A5",
-    "timestamp": "2026-07-30T11:50:44.110Z",
     "strategy": ".content-card__main"
   }
 ];
