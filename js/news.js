@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-31T05:21:43.427Z
+// Last updated: 2026-07-31T07:47:35.083Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "iPhone 18 Pro與iPhone Ultra規格對比：買摺機反而無長焦鏡頭？",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260731/1159827635849662464625794.jpeg/lR1GLkMbM7OeeOEGI8Bl5ipvAUOABJF4wida-cInWvk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60375485/iphone-18-pro%E8%88%87iphone-ultra%E8%A6%8F%E6%A0%BC%E5%B0%8D%E6%AF%94-%E8%B2%B7%E6%91%BA%E6%A9%9F%E5%8F%8D%E8%80%8C%E7%84%A1%E9%95%B7%E7%84%A6%E9%8F%A1%E9%A0%AD",
+    "timestamp": "2026-07-31T07:47:35.083Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "深圳寶安機場直達廣州白雲機場最快96分鐘　穗深城際全線貫通",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20211029/530749317188030464986204.jpeg/MYYBRTPhbvuC-YBqPycwItYLNCrDO4R5QqrAF0KqwBc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60375350/%E7%A7%81%E6%A0%A1%E5%90%8D%E5%86%8A-%E5%83%85%E6%B6%B558-%E7%A7%81%E6%A0%A1-%E6%95%99%E8%82%B2%E5%B1%80-%E6%9C%8917%E9%96%93%E7%94%B3%E8%AB%8B%E5%AD%B8%E6%A0%A1%E6%9C%AA%E9%81%94%E4%B8%8A%E6%A6%9C%E8%A6%81%E6%B1%82",
     "timestamp": "2026-07-30T13:09:07.045Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "Nancy新歌拒與前度做朋友　與Jeffrey魏浚笙合作成高顏值MV",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260730/1159551445935067136941726.jpeg/q4a_lxp9zXRKlCt1_SgWSGI3_EhqJq0bAFq_vwBav78?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60375293/nancy%E6%96%B0%E6%AD%8C%E6%8B%92%E8%88%87%E5%89%8D%E5%BA%A6%E5%81%9A%E6%9C%8B%E5%8F%8B-%E8%88%87jeffrey%E9%AD%8F%E6%B5%9A%E7%AC%99%E5%90%88%E4%BD%9C%E6%88%90%E9%AB%98%E9%A1%8F%E5%80%BCmv",
-    "timestamp": "2026-07-30T12:22:20.621Z",
     "strategy": ".content-card__main"
   }
 ];
