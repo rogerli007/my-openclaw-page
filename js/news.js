@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-31T15:23:10.161Z
+// Last updated: 2026-07-31T16:15:46.305Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "買防水手機先知被坑？試水紙變色即要幾千元維修！揭5個防水真相",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260731/1159887266563231744910352.jpeg/89d89szgyPRuzmyRZBJigL4woEAGnpHyJ5fbVyeX21c?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60375573/%E6%89%8B%E6%A9%9F%E9%98%B2%E6%B0%B4%E8%BF%B7%E6%80%9D-ip68%E8%90%BD%E6%B0%B4%E5%A3%9E%E6%A9%9F%E5%8E%9F%E5%BB%A0%E7%AB%9F%E4%B8%8D%E4%BF%9D-%E6%8B%86%E8%A7%A35%E5%A4%A7%E9%9A%B1%E8%97%8F%E7%9C%9F%E7%9B%B8",
+    "timestamp": "2026-07-31T16:15:46.305Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "海關機場偵破跨境販毒案　檢$80萬大麻花　2男旅客被捕",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260731/1159664867800780800839250.png/dSSyMT0nA01f8PN6TTHQXtU39uleyeYbh4FpCYeBaQk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60375405/%E7%86%8A%E6%9C%AC%E5%9C%B0%E9%9C%87-aeonmall%E7%88%86%E7%82%B8%E6%96%B0%E7%89%87%E6%9B%9D-%E5%B7%A8%E9%9F%BF%E9%9C%87%E8%80%B3%E6%AC%B2%E8%81%BE-%E7%A2%8E%E7%89%87%E6%93%8A%E9%9B%BB%E7%B7%9A%E7%AB%84%E7%81%AB%E5%85%89",
     "timestamp": "2026-07-30T17:07:14.472Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "蚊患｜長沙灣誘蚊器指數達30.9%　深水埗7場所被發清除積水通知書",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260731/1159652362588000256280759.jpeg/-SHakSOgTouT2XJrJcGw2uffbu0RPmPjgw_UUYMP1FE?v=w1920r16_9",
-    "url": "https://www.hk01.com/18%E5%8D%80%E6%96%B0%E8%81%9E/60375401/%E8%9A%8A%E6%82%A3-%E9%95%B7%E6%B2%99%E7%81%A3%E8%AA%98%E8%9A%8A%E5%99%A8%E6%8C%87%E6%95%B8%E9%81%9430-9-%E6%B7%B1%E6%B0%B4%E5%9F%977%E5%A0%B4%E6%89%80%E8%A2%AB%E7%99%BC%E6%B8%85%E9%99%A4%E7%A9%8D%E6%B0%B4%E9%80%9A%E7%9F%A5%E6%9B%B8",
-    "timestamp": "2026-07-30T16:26:34.799Z",
     "strategy": ".content-card__main"
   }
 ];
