@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-31T16:15:46.305Z
+// Last updated: 2026-07-31T16:57:35.244Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "休達非法移民危機增至57死　意大利暫停與西班牙神根自由通行協議",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260801/1160022214980931584921065.jpeg/xckbBuzJeeFboHPvY1rIs3zQiRI9OnNzwL1ZCsC9WQo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60375758/%E4%BC%91%E9%81%94%E9%9D%9E%E6%B3%95%E7%A7%BB%E6%B0%91%E5%8D%B1%E6%A9%9F%E5%A2%9E%E8%87%B357%E6%AD%BB-%E6%84%8F%E5%A4%A7%E5%88%A9%E6%9A%AB%E5%81%9C%E8%88%87%E8%A5%BF%E7%8F%AD%E7%89%99%E7%A5%9E%E6%A0%B9%E8%87%AA%E7%94%B1%E9%80%9A%E8%A1%8C%E5%8D%94%E8%AD%B0",
+    "timestamp": "2026-07-31T16:57:35.244Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "買防水手機先知被坑？試水紙變色即要幾千元維修！揭5個防水真相",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260731/1159675005055799296279604.jpeg/ccCfDIxxAkdpQCHo6MJEX2kUAvNUUrdOjPVgT4z1YE8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60375407/%E4%BC%8A%E6%9C%97%E7%A8%B1%E6%91%A7%E6%AF%80%E7%BE%8E%E8%BB%8D3%E6%9E%B6f-35%E6%88%B0%E6%A9%9F-%E7%BE%8E%E6%96%B9%E5%90%A6%E8%AA%8D-%E6%B2%92%E6%9C%89%E9%A3%9B%E6%A9%9F%E8%A2%AB%E6%91%A7%E6%AF%80%E6%88%96%E5%8F%97%E6%90%8D",
     "timestamp": "2026-07-30T17:58:16.986Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "熊本地震｜AEONmall爆炸新片曝　巨響震耳欲聾　碎片擊電線竄火光",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260731/1159664867800780800839250.png/dSSyMT0nA01f8PN6TTHQXtU39uleyeYbh4FpCYeBaQk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60375405/%E7%86%8A%E6%9C%AC%E5%9C%B0%E9%9C%87-aeonmall%E7%88%86%E7%82%B8%E6%96%B0%E7%89%87%E6%9B%9D-%E5%B7%A8%E9%9F%BF%E9%9C%87%E8%80%B3%E6%AC%B2%E8%81%BE-%E7%A2%8E%E7%89%87%E6%93%8A%E9%9B%BB%E7%B7%9A%E7%AB%84%E7%81%AB%E5%85%89",
-    "timestamp": "2026-07-30T17:07:14.472Z",
     "strategy": ".content-card__main"
   }
 ];
