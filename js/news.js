@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-31T14:23:05.760Z
+// Last updated: 2026-07-31T15:23:10.161Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "海關機場偵破跨境販毒案　檢$80萬大麻花　2男旅客被捕",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260731/1160000471583166464230468.jpeg/vyfFsjT5ARaFU0JbL7C8gOXZ6hjU2va5RcNoMkXDaDI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60375753/%E6%B5%B7%E9%97%9C%E6%A9%9F%E5%A0%B4%E5%81%B5%E7%A0%B4%E8%B7%A8%E5%A2%83%E8%B2%A9%E6%AF%92%E6%A1%88-%E6%AA%A2-80%E8%90%AC%E5%A4%A7%E9%BA%BB%E8%8A%B1-2%E7%94%B7%E6%97%85%E5%AE%A2%E8%A2%AB%E6%8D%95",
+    "timestamp": "2026-07-31T15:23:10.161Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "東張西望｜張偉文嚴重壓瘡遭疏忽照顧　方俊帶隊上門對質院方報警",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260731/1159652362588000256280759.jpeg/-SHakSOgTouT2XJrJcGw2uffbu0RPmPjgw_UUYMP1FE?v=w1920r16_9",
     "url": "https://www.hk01.com/18%E5%8D%80%E6%96%B0%E8%81%9E/60375401/%E8%9A%8A%E6%82%A3-%E9%95%B7%E6%B2%99%E7%81%A3%E8%AA%98%E8%9A%8A%E5%99%A8%E6%8C%87%E6%95%B8%E9%81%9430-9-%E6%B7%B1%E6%B0%B4%E5%9F%977%E5%A0%B4%E6%89%80%E8%A2%AB%E7%99%BC%E6%B8%85%E9%99%A4%E7%A9%8D%E6%B0%B4%E9%80%9A%E7%9F%A5%E6%9B%B8",
     "timestamp": "2026-07-30T16:26:34.799Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "日圓兌美元一度急升逾3%　兌美元升穿158　疑政府出手干預",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20240425/860095060044156928721354.jpeg/uXeYimEb7BnORNY5Z7FJo6Ber3xI6PMOGA0OzRgNDs0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60375397/%E6%97%A5%E5%9C%93%E5%85%8C%E7%BE%8E%E5%85%83%E4%B8%80%E5%BA%A6%E6%80%A5%E5%8D%87%E9%80%BE3-%E5%85%8C%E7%BE%8E%E5%85%83%E5%8D%87%E7%A9%BF158-%E7%96%91%E6%94%BF%E5%BA%9C%E5%87%BA%E6%89%8B%E5%B9%B2%E9%A0%90",
-    "timestamp": "2026-07-30T15:45:57.447Z",
     "strategy": ".content-card__main"
   }
 ];
