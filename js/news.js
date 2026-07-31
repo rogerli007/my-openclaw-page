@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-31T11:50:10.444Z
+// Last updated: 2026-07-31T12:51:14.150Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "教師「用公仔練鎖喉」家中伏擊姦殺博士姨仔　性侵前當面接妻視像",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260731/1159892643258306560895764.png/Pdv6nL6oOFz9QzSekM7hGQFhq8kFYTGEGkufXhpLn14?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60375499/%E6%95%99%E5%B8%AB-%E7%94%A8%E5%85%AC%E4%BB%94%E7%B7%B4%E9%8E%96%E5%96%89-%E5%AE%B6%E4%B8%AD%E4%BC%8F%E6%93%8A%E5%A7%A6%E6%AE%BA%E5%8D%9A%E5%A3%AB%E5%A7%A8%E4%BB%94-%E6%80%A7%E4%BE%B5%E5%89%8D%E7%95%B6%E9%9D%A2%E6%8E%A5%E5%A6%BB%E8%A6%96%E5%83%8F",
+    "timestamp": "2026-07-31T12:51:14.150Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "新皇崗口岸港方口岸區啟用 　鄧炳強：將作逾百場測試助早日開通",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260730/1159614913430163456653947.jpeg/gYaCxVvT2j1hK4TgYCErfA9BY3wbO7nU4HRVL-B0VS8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60375385/%E5%9C%8B%E7%94%A2%E5%89%B5%E7%B6%AD%E7%B4%94%E9%9B%BB%E5%8B%95%E7%9A%84%E5%A3%AB8%E6%9C%88%E4%B8%AD%E9%A6%96%E6%89%B950%E6%9E%B6%E6%8A%95%E5%85%A5%E6%9C%8D%E5%8B%99-%E8%BB%8A%E5%85%A7%E6%9C%89ai%E8%81%8A%E5%A4%A9%E6%A9%9F%E6%A2%B0%E4%BA%BA",
     "timestamp": "2026-07-30T14:55:12.399Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "颱風紅霞｜太平嶺核電站錄0級偏差事件　輸電線路跳閘無漏輻射物",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260730/1159614800892792832164702.jpeg/foRzHjX6JAaltifVX_S5L3fGe6C8FxMvjL-jqYy_o6k?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60375377/%E9%A2%B1%E9%A2%A8%E7%B4%85%E9%9C%9E-%E5%A4%AA%E5%B9%B3%E5%B6%BA%E6%A0%B8%E9%9B%BB%E7%AB%99%E9%8C%840%E7%B4%9A%E5%81%8F%E5%B7%AE%E4%BA%8B%E4%BB%B6-%E8%BC%B8%E9%9B%BB%E7%B7%9A%E8%B7%AF%E8%B7%B3%E9%96%98%E7%84%A1%E6%BC%8F%E8%BC%BB%E5%B0%84%E7%89%A9",
-    "timestamp": "2026-07-30T14:00:30.138Z",
     "strategy": ".content-card__main"
   }
 ];
