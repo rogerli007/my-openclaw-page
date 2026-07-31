@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-31T18:52:57.603Z
+// Last updated: 2026-07-31T19:39:02.183Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "日球星三笘薰駕車衝紅燈撞傷踩單車婦　檢方不起訴：2人均闖紅燈",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250209/965144443051053056738129.jpeg/52cNdFc0ubqa7Qr7z6oS5CNctN4EZ_DqGzGrkBsxq5A?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60375761/%E6%97%A5%E7%90%83%E6%98%9F%E4%B8%89%E7%AC%98%E8%96%B0%E9%A7%95%E8%BB%8A%E8%A1%9D%E7%B4%85%E7%87%88%E6%92%9E%E5%82%B7%E8%B8%A9%E5%96%AE%E8%BB%8A%E5%A9%A6-%E6%AA%A2%E6%96%B9%E4%B8%8D%E8%B5%B7%E8%A8%B4-2%E4%BA%BA%E5%9D%87%E9%97%96%E7%B4%85%E7%87%88",
+    "timestamp": "2026-07-31T19:39:02.183Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "荃灣店舖變賣淫場所　警檢證物包括避孕套和潤滑劑　共拘5男女",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260731/1159698203281461248308471.jpeg/8jv0kC52SrmdqwXtZP3P4YiJI2-VvY88X9rxCV_a8Qk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60375414/%E9%99%B3%E5%8D%93%E8%B3%A2%E6%BC%94%E5%94%B1%E6%9C%83-%E5%AE%A2%E6%88%B6%E5%BF%98%E8%A8%98%E7%95%80%E9%A3%9B%E8%A7%80%E7%9C%BE%E8%87%B4%E5%A4%A7%E9%87%8F%E5%90%89%E4%BD%8D-%E7%B4%A2%E6%80%A7%E5%8F%AB%E5%B1%B1%E9%A0%82%E8%A7%80%E7%9C%BE%E5%9D%90%E5%89%8D",
     "timestamp": "2026-07-30T20:35:01.372Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "陳卓賢演唱會｜客戶忘記畀飛觀眾致大量吉位　索性叫山頂觀眾坐前",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260731/1159698203281461248308471.jpeg/8jv0kC52SrmdqwXtZP3P4YiJI2-VvY88X9rxCV_a8Qk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60375414/%E9%99%B3%E5%8D%93%E8%B3%A2%E6%BC%94%E5%94%B1%E6%9C%83-%E5%AE%A2%E6%88%B6%E5%BF%98%E8%A8%98%E7%95%80%E9%A3%9B%E8%A7%80%E7%9C%BE%E8%87%B4%E5%A4%A7%E9%87%8F%E5%90%89%E4%BD%8D-%E7%B4%A2%E6%80%A7%E5%8F%AB%E5%B1%B1%E9%A0%82%E8%A7%80%E7%9C%BE%E5%9D%90%E5%89%8D",
-    "timestamp": "2026-07-30T19:55:55.717Z",
     "strategy": ".content-card__main"
   }
 ];
