@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-31T16:57:35.244Z
+// Last updated: 2026-07-31T18:17:51.740Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "特朗普：以色列對哈馬斯解除武裝協議感滿意　美國與以方達成諒解",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260801/1160040769239650304685934.jpeg/-0E9Onfzb-mjX6g1F_oP9lzEgHTBIc6BhtOtc4bTrXM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60375759/%E7%89%B9%E6%9C%97%E6%99%AE-%E4%BB%A5%E8%89%B2%E5%88%97%E5%B0%8D%E5%93%88%E9%A6%AC%E6%96%AF%E8%A7%A3%E9%99%A4%E6%AD%A6%E8%A3%9D%E5%8D%94%E8%AD%B0%E6%84%9F%E6%BB%BF%E6%84%8F-%E7%BE%8E%E5%9C%8B%E8%88%87%E4%BB%A5%E6%96%B9%E9%81%94%E6%88%90%E8%AB%92%E8%A7%A3",
+    "timestamp": "2026-07-31T18:17:51.740Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "休達非法移民危機增至57死　意大利暫停與西班牙神根自由通行協議",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260731/1159686182477500416063548.jpeg/YT8ap6OIT4Auofje8geZuQU-4JcwxT6fVUj3l1VI95c?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60375410/%E4%BF%84%E7%BE%85%E6%96%AF%E5%A4%A7%E8%A6%8F%E6%A8%A1%E7%A9%BA%E8%A5%B2%E7%83%8F%E5%85%8B%E8%98%AD-%E6%B3%A2%E8%98%AD%E7%B8%BD%E7%90%86%E5%9C%96%E6%96%AF%E5%85%8B-%E7%96%91%E6%9C%89%E4%BF%84%E6%96%B9%E5%B0%8E%E5%BD%88%E8%90%BD%E5%85%A5%E6%B3%A2%E8%98%AD",
     "timestamp": "2026-07-30T18:40:02.967Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "伊朗稱摧毀美軍3架F-35戰機　美方否認：沒有飛機被摧毀或受損",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260731/1159675005055799296279604.jpeg/ccCfDIxxAkdpQCHo6MJEX2kUAvNUUrdOjPVgT4z1YE8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60375407/%E4%BC%8A%E6%9C%97%E7%A8%B1%E6%91%A7%E6%AF%80%E7%BE%8E%E8%BB%8D3%E6%9E%B6f-35%E6%88%B0%E6%A9%9F-%E7%BE%8E%E6%96%B9%E5%90%A6%E8%AA%8D-%E6%B2%92%E6%9C%89%E9%A3%9B%E6%A9%9F%E8%A2%AB%E6%91%A7%E6%AF%80%E6%88%96%E5%8F%97%E6%90%8D",
-    "timestamp": "2026-07-30T17:58:16.986Z",
     "strategy": ".content-card__main"
   }
 ];
