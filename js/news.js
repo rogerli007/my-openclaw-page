@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-31T20:17:49.727Z
+// Last updated: 2026-07-31T21:18:07.308Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美海軍陸戰隊F-35B戰機加州墜毀　機師彈射逃生現場冒濃煙｜有片",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260801/1160074622427729920059826.png/QlOApggE5BYtv77_hUkeS0ujSnUaAERdJ06a8idOmvI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60375764/%E7%BE%8E%E6%B5%B7%E8%BB%8D%E9%99%B8%E6%88%B0%E9%9A%8Af-35b%E6%88%B0%E6%A9%9F%E5%8A%A0%E5%B7%9E%E5%A2%9C%E6%AF%80-%E6%A9%9F%E5%B8%AB%E5%BD%88%E5%B0%84%E9%80%83%E7%94%9F%E7%8F%BE%E5%A0%B4%E5%86%92%E6%BF%83%E7%85%99-%E6%9C%89%E7%89%87",
+    "timestamp": "2026-07-31T21:18:07.308Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美國再將43家中國企業列禁進口實體清單　指涉及強迫維吾爾族勞動",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260717/1154584540228882432293614.jpeg/fMBL8Q0PE-KhiKxb7rQoB9QXwNNxwrIvHFbWjxxW1o8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60375422/%E6%B2%99%E7%89%B9%E7%AD%8914%E5%9C%8B%E7%B5%84%E6%B5%B7%E4%B8%8A%E9%98%B2%E7%A6%A6%E8%81%AF%E7%9B%9F-%E4%BB%A5%E7%A2%BA%E4%BF%9D%E7%B4%85%E6%B5%B7%E7%AD%89%E8%88%AA%E9%81%93%E8%88%AA%E8%A1%8C%E5%AE%89%E5%85%A8",
     "timestamp": "2026-07-30T22:16:17.894Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "新田無人留宿貨倉三級大火　消防開喉射水撲救",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260731/1159735307382296576064217.jpeg/8-RK9Fj8kP027PDIbfmf9jP4Wi7KPDADy0bBuMtGwbg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60375421/%E6%96%B0%E7%94%B0%E7%84%A1%E4%BA%BA%E7%95%99%E5%AE%BF%E8%B2%A8%E5%80%89%E4%B8%89%E7%B4%9A%E5%A4%A7%E7%81%AB-%E6%B6%88%E9%98%B2%E9%96%8B%E5%96%89%E5%B0%84%E6%B0%B4%E6%92%B2%E6%95%91",
-    "timestamp": "2026-07-30T21:45:55.841Z",
     "strategy": ".content-card__main"
   }
 ];
