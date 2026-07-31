@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-31T12:51:14.150Z
+// Last updated: 2026-07-31T14:23:05.760Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "東張西望｜張偉文嚴重壓瘡遭疏忽照顧　方俊帶隊上門對質院方報警",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260731/1159970767375437824479362.jpeg/QRpGCHVXTmiSWPsJZnA_gXKRCQ_Lq25S6HGbvuhxm74?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60375739/%E6%9D%B1%E5%BC%B5%E8%A5%BF%E6%9C%9B-%E5%BC%B5%E5%81%89%E6%96%87%E5%9A%B4%E9%87%8D%E5%A3%93%E7%98%A1%E9%81%AD%E7%96%8F%E5%BF%BD%E7%85%A7%E9%A1%A7-%E6%96%B9%E4%BF%8A%E5%B8%B6%E9%9A%8A%E4%B8%8A%E9%96%80%E5%B0%8D%E8%B3%AA%E9%99%A2%E6%96%B9%E5%A0%B1%E8%AD%A6",
+    "timestamp": "2026-07-31T14:23:05.760Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "教師「用公仔練鎖喉」家中伏擊姦殺博士姨仔　性侵前當面接妻視像",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20240425/860095060044156928721354.jpeg/uXeYimEb7BnORNY5Z7FJo6Ber3xI6PMOGA0OzRgNDs0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60375397/%E6%97%A5%E5%9C%93%E5%85%8C%E7%BE%8E%E5%85%83%E4%B8%80%E5%BA%A6%E6%80%A5%E5%8D%87%E9%80%BE3-%E5%85%8C%E7%BE%8E%E5%85%83%E5%8D%87%E7%A9%BF158-%E7%96%91%E6%94%BF%E5%BA%9C%E5%87%BA%E6%89%8B%E5%B9%B2%E9%A0%90",
     "timestamp": "2026-07-30T15:45:57.447Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "國產創維純電動的士8月中首批50架投入服務　車內有AI聊天機械人",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260730/1159614913430163456653947.jpeg/gYaCxVvT2j1hK4TgYCErfA9BY3wbO7nU4HRVL-B0VS8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60375385/%E5%9C%8B%E7%94%A2%E5%89%B5%E7%B6%AD%E7%B4%94%E9%9B%BB%E5%8B%95%E7%9A%84%E5%A3%AB8%E6%9C%88%E4%B8%AD%E9%A6%96%E6%89%B950%E6%9E%B6%E6%8A%95%E5%85%A5%E6%9C%8D%E5%8B%99-%E8%BB%8A%E5%85%A7%E6%9C%89ai%E8%81%8A%E5%A4%A9%E6%A9%9F%E6%A2%B0%E4%BA%BA",
-    "timestamp": "2026-07-30T14:55:12.399Z",
     "strategy": ".content-card__main"
   }
 ];
