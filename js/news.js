@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-07-31T22:43:27.696Z
+// Last updated: 2026-08-01T00:12:49.337Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "油麻地的士男乘客「走數」　兼搶司機$400逃去　警列偷竊追緝",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260801/1160133162408349696286473.jpeg/u0UMh26S8bpcST7_fLasBh650xHQwHzSCb9Jywm_Scs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60375774/%E6%B2%B9%E9%BA%BB%E5%9C%B0%E7%9A%84%E5%A3%AB%E7%94%B7%E4%B9%98%E5%AE%A2-%E8%B5%B0%E6%95%B8-%E5%85%BC%E6%90%B6%E5%8F%B8%E6%A9%9F-400%E9%80%83%E5%8E%BB-%E8%AD%A6%E5%88%97%E5%81%B7%E7%AB%8A%E8%BF%BD%E7%B7%9D",
+    "timestamp": "2026-08-01T00:12:49.337Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "秀茂坪安泰邨女子暈倒　丈夫報案　昏迷送院",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260731/1159715452369244160584972.jpeg/7PfF16mPFCkdb7NvLtR0z61s_4wBeoT8VS1hOFUtYTg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60375416/%E5%BE%A9%E4%BB%87%E7%9A%84%E4%BA%BA-%E9%BB%9E%E5%90%8D%E8%AE%9A%E9%84%A7%E6%BF%A4marf%E6%BC%94%E5%87%BA-%E6%8C%87%E6%90%AD%E6%B8%AF%E9%90%B5%E8%A2%AB%E5%81%B7%E6%8B%8D%E8%88%89v%E6%83%B3%E4%BB%A4%E8%B7%AF%E4%BA%BA%E9%96%8B%E5%BF%83",
     "timestamp": "2026-07-30T23:41:08.366Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "一家八口滅門！美國媽媽帶2中國養女赴華尋根　回美8天全家8人死",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260731/1159669363314266112378069.png/-2XkJzdMyBe8poCRKsfN9whWANlWH8CIgoVH6YKFR-k?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60374842/%E4%B8%80%E5%AE%B6%E5%85%AB%E5%8F%A3%E6%BB%85%E9%96%80-%E7%BE%8E%E5%9C%8B%E5%AA%BD%E5%AA%BD%E5%B8%B62%E4%B8%AD%E5%9C%8B%E9%A4%8A%E5%A5%B3%E8%B5%B4%E8%8F%AF%E5%B0%8B%E6%A0%B9-%E5%9B%9E%E7%BE%8E8%E5%A4%A9%E5%85%A8%E5%AE%B68%E4%BA%BA%E6%AD%BB",
-    "timestamp": "2026-07-30T23:19:46.425Z",
     "strategy": ".content-card__main"
   }
 ];
