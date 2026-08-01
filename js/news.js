@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-01T20:15:51.691Z
+// Last updated: 2026-08-01T20:38:55.081Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "屯門公路私家車撞壆　司機報稱閃避黑影　無受傷拒送院",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260802/1160437222021795840924150.jpeg/tzYYF8GfD0hvMRdB6Ju-ZBB8l-hnSdKW5jF8a-YxfGs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60375944/%E5%B1%AF%E9%96%80%E5%85%AC%E8%B7%AF%E7%A7%81%E5%AE%B6%E8%BB%8A%E6%92%9E%E5%A3%86-%E5%8F%B8%E6%A9%9F%E5%A0%B1%E7%A8%B1%E9%96%83%E9%81%BF%E9%BB%91%E5%BD%B1-%E7%84%A1%E5%8F%97%E5%82%B7%E6%8B%92%E9%80%81%E9%99%A2",
+    "timestamp": "2026-08-01T20:38:55.081Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "華郵：美軍歐洲司令部警告　轄下驅逐艦數量短缺　難以保護以色列",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260801/1160220426249441280402687.jpeg/sZqAmFTYOKJkbcRmMO7hGAD3NhJfJV99dlkGmHZZBpg?v=w1920r16_9",
     "url": "https://www.hk01.com/01%E8%AB%96%E5%A3%87/60372865/%E9%BB%83%E5%AE%87%E7%BF%94-%E8%B6%B3%E7%90%83%E6%94%BF%E6%B2%BB%E7%B6%93%E6%BF%9F%E5%AD%B8%E4%B9%8B%E4%BA%8C-%E6%B2%99%E7%89%B9%E9%98%BF%E6%8B%89%E4%BC%AF%E7%9A%84%E8%B6%B3%E7%90%83%E9%9B%84%E5%BF%83",
     "timestamp": "2026-08-01T06:18:56.889Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "大埔屋苑管理處出通告！寫明樓層提醒嚴禁養狗　鄰居：隻狗成日吠",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260801/1160068939842064384598614.png/8j1tZn02NuXOCpI0uHeLKHxAM56ZZDgdXg1EC14NRAs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60375747/%E5%A4%A7%E5%9F%94%E5%B1%8B%E8%8B%91%E7%AE%A1%E7%90%86%E8%99%95%E5%87%BA%E9%80%9A%E5%91%8A-%E5%AF%AB%E6%98%8E%E6%A8%93%E5%B1%A4%E6%8F%90%E9%86%92%E5%9A%B4%E7%A6%81%E9%A4%8A%E7%8B%97-%E9%84%B0%E5%B1%85-%E9%9A%BB%E7%8B%97%E6%88%90%E6%97%A5%E5%90%A0",
-    "timestamp": "2026-08-01T05:16:55.098Z",
     "strategy": ".content-card__main"
   }
 ];
