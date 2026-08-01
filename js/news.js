@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-01T14:38:16.906Z
+// Last updated: 2026-08-01T15:43:17.018Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "六合彩8.4頭獎1300萬｜6個最旺號碼+2招增中獎機會",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260228/1104535693322883072415983.jpeg/1NgvBJeLfN8BfkpelLOdIcaZsoAbm1Sigi7rgIIu64A?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60375930/%E5%85%AD%E5%90%88%E5%BD%A98-4%E9%A0%AD%E7%8D%8E1300%E8%90%AC-6%E5%80%8B%E6%9C%80%E6%97%BA%E8%99%9F%E7%A2%BC-2%E6%8B%9B%E5%A2%9E%E4%B8%AD%E7%8D%8E%E6%A9%9F%E6%9C%83",
+    "timestamp": "2026-08-01T15:43:17.018Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "張寶兒半億愛巢大改造　巨型客廳變身室內遊樂場供寶貝仔放電",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20240702/884919709575680000083196.jpeg/pyv0wm98UwqG-JGXbkVrqYfyAGs3i-SS736OdO9-jnQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60375763/%E7%BE%8E%E5%9C%8B%E5%86%8D%E5%B0%8743%E5%AE%B6%E4%B8%AD%E5%9C%8B%E4%BC%81%E6%A5%AD%E5%88%97%E7%A6%81%E9%80%B2%E5%8F%A3%E5%AF%A6%E9%AB%94%E6%B8%85%E5%96%AE-%E6%8C%87%E6%B6%89%E5%8F%8A%E5%BC%B7%E8%BF%AB%E7%B6%AD%E5%90%BE%E7%88%BE%E6%97%8F%E5%8B%9E%E5%8B%95",
     "timestamp": "2026-07-31T20:17:49.727Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "日球星三笘薰駕車衝紅燈撞傷踩單車婦　檢方不起訴：2人均闖紅燈",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250209/965144443051053056738129.jpeg/52cNdFc0ubqa7Qr7z6oS5CNctN4EZ_DqGzGrkBsxq5A?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60375761/%E6%97%A5%E7%90%83%E6%98%9F%E4%B8%89%E7%AC%98%E8%96%B0%E9%A7%95%E8%BB%8A%E8%A1%9D%E7%B4%85%E7%87%88%E6%92%9E%E5%82%B7%E8%B8%A9%E5%96%AE%E8%BB%8A%E5%A9%A6-%E6%AA%A2%E6%96%B9%E4%B8%8D%E8%B5%B7%E8%A8%B4-2%E4%BA%BA%E5%9D%87%E9%97%96%E7%B4%85%E7%87%88",
-    "timestamp": "2026-07-31T19:39:02.183Z",
     "strategy": ".content-card__main"
   }
 ];
