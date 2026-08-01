@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-01T22:45:30.596Z
+// Last updated: 2026-08-01T23:11:41.071Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "雙颱颱｜準鯨魚現身有路徑圖　「藤原效應」遭超強颱風白海豚吞噬",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260802/1160458680198500352720431.jpeg/xX9uJN9Xg2d21xKfqm-MrycB-GyoY9oQwMf5J8DH-Sc",
+    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60375947/%E9%9B%99%E9%A2%B1%E9%A2%B1-%E6%BA%96%E9%AF%A8%E9%AD%9A%E7%8F%BE%E8%BA%AB%E6%9C%89%E8%B7%AF%E5%BE%91%E5%9C%96-%E8%97%A4%E5%8E%9F%E6%95%88%E6%87%89-%E9%81%AD%E8%B6%85%E5%BC%B7%E9%A2%B1%E9%A2%A8%E7%99%BD%E6%B5%B7%E8%B1%9A%E5%90%9E%E5%99%AC",
+    "timestamp": "2026-08-01T23:11:41.071Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "歐盟宣布8月4日召部長級緊急會議　討論西班牙休達非法移民危機",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260708/1151641043603820544031865.jpeg/9HiOCSL7sp1J6GZz3UJhK81KUcaS4Ud2m7o8iZu6PIk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60375855/%E7%BE%8E%E5%AA%92-%E7%BE%8E%E5%9C%8B%E9%80%80%E5%87%BA%E6%8F%B4%E5%8A%A9%E7%83%8F%E5%85%8B%E8%98%AD%E5%B0%8F%E7%B5%84%E9%A0%98%E5%B0%8E%E6%AC%8A-%E5%86%80%E5%8C%97%E7%B4%84%E7%9B%9F%E5%8F%8B%E5%A2%9E%E5%8A%A0%E8%B2%AC%E4%BB%BB",
     "timestamp": "2026-08-01T11:06:31.784Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美疑拒供導彈　傳借星鏈遭馬斯克餵閉門羹　澤連斯基請特朗普去勸",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260730/1159446240455299072930475.png/OdCNVQXq207dGpXmnfexODEtgxSR5VaaJEQNQSREDUE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60375879/%E7%BE%8E%E7%96%91%E6%8B%92%E4%BE%9B%E5%B0%8E%E5%BD%88-%E5%82%B3%E5%80%9F%E6%98%9F%E9%8F%88%E9%81%AD%E9%A6%AC%E6%96%AF%E5%85%8B%E9%A4%B5%E9%96%89%E9%96%80%E7%BE%B9-%E6%BE%A4%E9%80%A3%E6%96%AF%E5%9F%BA%E8%AB%8B%E7%89%B9%E6%9C%97%E6%99%AE%E5%8E%BB%E5%8B%B8",
-    "timestamp": "2026-08-01T10:26:41.637Z",
     "strategy": ".content-card__main"
   }
 ];
