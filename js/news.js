@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-01T08:04:03.289Z
+// Last updated: 2026-08-01T09:47:03.831Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "警破4假冒官員騙案　25歲內地「女特務」涉呃近$300萬被捕",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260801/1160265297534390272086721.jpeg/v7DoJ2K-xUIZ7uZ0cYQoiHMz0_teXjUSE63x2jat8do?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60375858/%E8%AD%A6%E7%A0%B44%E5%81%87%E5%86%92%E5%AE%98%E5%93%A1%E9%A8%99%E6%A1%88-25%E6%AD%B2%E5%85%A7%E5%9C%B0-%E5%A5%B3%E7%89%B9%E5%8B%99-%E6%B6%89%E5%91%83%E8%BF%91-300%E8%90%AC%E8%A2%AB%E6%8D%95",
+    "timestamp": "2026-08-01T09:47:03.831Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "地方選區選民連續5年下跌　21至25歲跌幅最多　新登記選民增78%",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260731/1159970767375437824479362.jpeg/QRpGCHVXTmiSWPsJZnA_gXKRCQ_Lq25S6HGbvuhxm74?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60375739/%E6%9D%B1%E5%BC%B5%E8%A5%BF%E6%9C%9B-%E5%BC%B5%E5%81%89%E6%96%87%E5%9A%B4%E9%87%8D%E5%A3%93%E7%98%A1%E9%81%AD%E7%96%8F%E5%BF%BD%E7%85%A7%E9%A1%A7-%E6%96%B9%E4%BF%8A%E5%B8%B6%E9%9A%8A%E4%B8%8A%E9%96%80%E5%B0%8D%E8%B3%AA%E9%99%A2%E6%96%B9%E5%A0%B1%E8%AD%A6",
     "timestamp": "2026-07-31T14:23:05.760Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "教師「用公仔練鎖喉」家中伏擊姦殺博士姨仔　性侵前當面接妻視像",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260731/1159892643258306560895764.png/Pdv6nL6oOFz9QzSekM7hGQFhq8kFYTGEGkufXhpLn14?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60375499/%E6%95%99%E5%B8%AB-%E7%94%A8%E5%85%AC%E4%BB%94%E7%B7%B4%E9%8E%96%E5%96%89-%E5%AE%B6%E4%B8%AD%E4%BC%8F%E6%93%8A%E5%A7%A6%E6%AE%BA%E5%8D%9A%E5%A3%AB%E5%A7%A8%E4%BB%94-%E6%80%A7%E4%BE%B5%E5%89%8D%E7%95%B6%E9%9D%A2%E6%8E%A5%E5%A6%BB%E8%A6%96%E5%83%8F",
-    "timestamp": "2026-07-31T12:51:14.150Z",
     "strategy": ".content-card__main"
   }
 ];
