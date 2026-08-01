@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-01T05:16:55.098Z
+// Last updated: 2026-08-01T06:18:56.889Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "黃宇翔｜足球政治經濟學之二：沙特阿拉伯的足球雄心",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260801/1160220426249441280402687.jpeg/sZqAmFTYOKJkbcRmMO7hGAD3NhJfJV99dlkGmHZZBpg?v=w1920r16_9",
+    "url": "https://www.hk01.com/01%E8%AB%96%E5%A3%87/60372865/%E9%BB%83%E5%AE%87%E7%BF%94-%E8%B6%B3%E7%90%83%E6%94%BF%E6%B2%BB%E7%B6%93%E6%BF%9F%E5%AD%B8%E4%B9%8B%E4%BA%8C-%E6%B2%99%E7%89%B9%E9%98%BF%E6%8B%89%E4%BC%AF%E7%9A%84%E8%B6%B3%E7%90%83%E9%9B%84%E5%BF%83",
+    "timestamp": "2026-08-01T06:18:56.889Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "大埔屋苑管理處出通告！寫明樓層提醒嚴禁養狗　鄰居：隻狗成日吠",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260731/1159827635849662464625794.jpeg/lR1GLkMbM7OeeOEGI8Bl5ipvAUOABJF4wida-cInWvk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60375485/iphone-18-pro%E8%88%87iphone-ultra%E8%A6%8F%E6%A0%BC%E5%B0%8D%E6%AF%94-%E8%B2%B7%E6%91%BA%E6%A9%9F%E5%8F%8D%E8%80%8C%E7%84%A1%E9%95%B7%E7%84%A6%E9%8F%A1%E9%A0%AD",
     "timestamp": "2026-07-31T07:47:35.083Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "深圳寶安機場直達廣州白雲機場最快96分鐘　穗深城際全線貫通",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260731/1159838943294787584658970.png/lYFlZ_xP0jYCvAPQds_hlYPKryaF4UW-4cCgbuHAoG4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60375528/%E6%B7%B1%E5%9C%B3%E5%AF%B6%E5%AE%89%E6%A9%9F%E5%A0%B4%E7%9B%B4%E9%81%94%E5%BB%A3%E5%B7%9E%E7%99%BD%E9%9B%B2%E6%A9%9F%E5%A0%B4%E6%9C%80%E5%BF%AB96%E5%88%86%E9%90%98-%E7%A9%97%E6%B7%B1%E5%9F%8E%E9%9A%9B%E5%85%A8%E7%B7%9A%E8%B2%AB%E9%80%9A",
-    "timestamp": "2026-07-31T05:21:43.427Z",
     "strategy": ".content-card__main"
   }
 ];
