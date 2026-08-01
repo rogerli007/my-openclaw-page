@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-01T20:38:55.081Z
+// Last updated: 2026-08-01T21:11:06.309Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "最新天氣｜天文台： 未來一兩小時香港廣泛地區可能受大雨影響",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260731/1159844603822608384643150.jpeg/v6jqX5BH1NYbO_yRauBJG6QP-Pp06F6ayRWSMskVkjI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60375441/%E6%9C%80%E6%96%B0%E5%A4%A9%E6%B0%A3-%E5%A4%A9%E6%96%87%E5%8F%B0-%E6%9C%AA%E4%BE%86%E4%B8%80%E5%85%A9%E5%B0%8F%E6%99%82%E9%A6%99%E6%B8%AF%E5%BB%A3%E6%B3%9B%E5%9C%B0%E5%8D%80%E5%8F%AF%E8%83%BD%E5%8F%97%E5%A4%A7%E9%9B%A8%E5%BD%B1%E9%9F%BF",
+    "timestamp": "2026-08-01T21:11:06.309Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "屯門公路私家車撞壆　司機報稱閃避黑影　無受傷拒送院",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260731/1159882646814199808218630.png/0aCcA6bzANuSOJFDshrMQT-uph6jGtxQkdS5UpHUuVI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%97%85%E9%81%8A/60374973/%E6%83%A0%E5%B7%9E%E6%97%85%E9%81%8A%E7%9C%8B%E6%B5%B7%E6%87%B6%E4%BA%BA%E5%8C%85-%E9%9B%99%E6%9C%88%E7%81%A3%E5%90%83%E6%B5%B7%E9%AE%AE-%E6%B5%B7%E9%BE%9C%E7%81%A3%E7%9C%8B%E6%B5%B7%E9%BE%9C-%E7%8D%85%E5%AD%90%E5%B3%B6%E4%BA%BA%E5%B0%91%E6%99%AF%E7%BE%8E",
     "timestamp": "2026-08-01T07:18:09.884Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "黃宇翔｜足球政治經濟學之二：沙特阿拉伯的足球雄心",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260801/1160220426249441280402687.jpeg/sZqAmFTYOKJkbcRmMO7hGAD3NhJfJV99dlkGmHZZBpg?v=w1920r16_9",
-    "url": "https://www.hk01.com/01%E8%AB%96%E5%A3%87/60372865/%E9%BB%83%E5%AE%87%E7%BF%94-%E8%B6%B3%E7%90%83%E6%94%BF%E6%B2%BB%E7%B6%93%E6%BF%9F%E5%AD%B8%E4%B9%8B%E4%BA%8C-%E6%B2%99%E7%89%B9%E9%98%BF%E6%8B%89%E4%BC%AF%E7%9A%84%E8%B6%B3%E7%90%83%E9%9B%84%E5%BF%83",
-    "timestamp": "2026-08-01T06:18:56.889Z",
     "strategy": ".content-card__main"
   }
 ];
