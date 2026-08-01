@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-01T06:18:56.889Z
+// Last updated: 2026-08-01T07:18:09.884Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "惠州旅遊看海懶人包｜雙月灣吃海鮮/海龜灣看海龜/獅子島人少景美",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260731/1159882646814199808218630.png/0aCcA6bzANuSOJFDshrMQT-uph6jGtxQkdS5UpHUuVI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%97%85%E9%81%8A/60374973/%E6%83%A0%E5%B7%9E%E6%97%85%E9%81%8A%E7%9C%8B%E6%B5%B7%E6%87%B6%E4%BA%BA%E5%8C%85-%E9%9B%99%E6%9C%88%E7%81%A3%E5%90%83%E6%B5%B7%E9%AE%AE-%E6%B5%B7%E9%BE%9C%E7%81%A3%E7%9C%8B%E6%B5%B7%E9%BE%9C-%E7%8D%85%E5%AD%90%E5%B3%B6%E4%BA%BA%E5%B0%91%E6%99%AF%E7%BE%8E",
+    "timestamp": "2026-08-01T07:18:09.884Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "黃宇翔｜足球政治經濟學之二：沙特阿拉伯的足球雄心",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260327/1114344381768404992457108.png/Tr1aXpIu1RTRTZhwVVqS25Czlm8fkBzHdPsb_nT7G_4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60375673/%E6%96%B0%E7%9A%87%E5%B4%97%E5%8F%A3%E5%B2%B8%E6%B8%AF%E6%96%B9%E5%8F%A3%E5%B2%B8%E5%8D%80%E5%95%9F%E7%94%A8-%E9%84%A7%E7%82%B3%E5%BC%B7-%E5%B0%87%E4%BD%9C%E9%80%BE%E7%99%BE%E5%A0%B4%E6%B8%AC%E8%A9%A6%E5%8A%A9%E6%97%A9%E6%97%A5%E9%96%8B%E9%80%9A",
     "timestamp": "2026-07-31T11:50:10.444Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "iPhone 18 Pro與iPhone Ultra規格對比：買摺機反而無長焦鏡頭？",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260731/1159827635849662464625794.jpeg/lR1GLkMbM7OeeOEGI8Bl5ipvAUOABJF4wida-cInWvk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60375485/iphone-18-pro%E8%88%87iphone-ultra%E8%A6%8F%E6%A0%BC%E5%B0%8D%E6%AF%94-%E8%B2%B7%E6%91%BA%E6%A9%9F%E5%8F%8D%E8%80%8C%E7%84%A1%E9%95%B7%E7%84%A6%E9%8F%A1%E9%A0%AD",
-    "timestamp": "2026-07-31T07:47:35.083Z",
     "strategy": ".content-card__main"
   }
 ];
