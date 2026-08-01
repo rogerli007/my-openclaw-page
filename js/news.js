@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-01T10:26:41.637Z
+// Last updated: 2026-08-01T11:06:31.784Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美媒：美國退出援助烏克蘭小組領導權　冀北約盟友增加責任",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260708/1151641043603820544031865.jpeg/9HiOCSL7sp1J6GZz3UJhK81KUcaS4Ud2m7o8iZu6PIk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60375855/%E7%BE%8E%E5%AA%92-%E7%BE%8E%E5%9C%8B%E9%80%80%E5%87%BA%E6%8F%B4%E5%8A%A9%E7%83%8F%E5%85%8B%E8%98%AD%E5%B0%8F%E7%B5%84%E9%A0%98%E5%B0%8E%E6%AC%8A-%E5%86%80%E5%8C%97%E7%B4%84%E7%9B%9F%E5%8F%8B%E5%A2%9E%E5%8A%A0%E8%B2%AC%E4%BB%BB",
+    "timestamp": "2026-08-01T11:06:31.784Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美疑拒供導彈　傳借星鏈遭馬斯克餵閉門羹　澤連斯基請特朗普去勸",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260731/1159887266563231744910352.jpeg/89d89szgyPRuzmyRZBJigL4woEAGnpHyJ5fbVyeX21c?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60375573/%E6%89%8B%E6%A9%9F%E9%98%B2%E6%B0%B4%E8%BF%B7%E6%80%9D-ip68%E8%90%BD%E6%B0%B4%E5%A3%9E%E6%A9%9F%E5%8E%9F%E5%BB%A0%E7%AB%9F%E4%B8%8D%E4%BF%9D-%E6%8B%86%E8%A7%A35%E5%A4%A7%E9%9A%B1%E8%97%8F%E7%9C%9F%E7%9B%B8",
     "timestamp": "2026-07-31T16:15:46.305Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "海關機場偵破跨境販毒案　檢$80萬大麻花　2男旅客被捕",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260731/1160000471583166464230468.jpeg/vyfFsjT5ARaFU0JbL7C8gOXZ6hjU2va5RcNoMkXDaDI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60375753/%E6%B5%B7%E9%97%9C%E6%A9%9F%E5%A0%B4%E5%81%B5%E7%A0%B4%E8%B7%A8%E5%A2%83%E8%B2%A9%E6%AF%92%E6%A1%88-%E6%AA%A2-80%E8%90%AC%E5%A4%A7%E9%BA%BB%E8%8A%B1-2%E7%94%B7%E6%97%85%E5%AE%A2%E8%A2%AB%E6%8D%95",
-    "timestamp": "2026-07-31T15:23:10.161Z",
     "strategy": ".content-card__main"
   }
 ];
