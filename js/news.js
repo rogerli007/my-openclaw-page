@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-01T13:16:07.171Z
+// Last updated: 2026-08-01T14:38:16.906Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "張寶兒半億愛巢大改造　巨型客廳變身室內遊樂場供寶貝仔放電",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260801/1160331969993641984391704.jpeg/RlfMJqUApgwPIEbxIQ_puh_SFIeTtzfjgkO5CIJDuQg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60375906/%E5%BC%B5%E5%AF%B6%E5%85%92%E5%8D%8A%E5%84%84%E6%84%9B%E5%B7%A2%E5%A4%A7%E6%94%B9%E9%80%A0-%E5%B7%A8%E5%9E%8B%E5%AE%A2%E5%BB%B3%E8%AE%8A%E8%BA%AB%E5%AE%A4%E5%85%A7%E9%81%8A%E6%A8%82%E5%A0%B4%E4%BE%9B%E5%AF%B6%E8%B2%9D%E4%BB%94%E6%94%BE%E9%9B%BB",
+    "timestamp": "2026-08-01T14:38:16.906Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "登山家Nirmal Purja率團攀全球第12高峰遇雪崩　公司證實10人罹難",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250209/965144443051053056738129.jpeg/52cNdFc0ubqa7Qr7z6oS5CNctN4EZ_DqGzGrkBsxq5A?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60375761/%E6%97%A5%E7%90%83%E6%98%9F%E4%B8%89%E7%AC%98%E8%96%B0%E9%A7%95%E8%BB%8A%E8%A1%9D%E7%B4%85%E7%87%88%E6%92%9E%E5%82%B7%E8%B8%A9%E5%96%AE%E8%BB%8A%E5%A9%A6-%E6%AA%A2%E6%96%B9%E4%B8%8D%E8%B5%B7%E8%A8%B4-2%E4%BA%BA%E5%9D%87%E9%97%96%E7%B4%85%E7%87%88",
     "timestamp": "2026-07-31T19:39:02.183Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "荃灣店舖變賣淫場所　警檢證物包括避孕套和潤滑劑　共拘5男女",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260801/1160049645724897280613457.jpeg/0EH10wIKJDRyaqkRSU1q_cRWNd3lPtl6ykc4I8pHOCM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60375760/%E8%8D%83%E7%81%A3%E5%BA%97%E8%88%96%E8%AE%8A%E8%B3%A3%E6%B7%AB%E5%A0%B4%E6%89%80-%E8%AD%A6%E6%AA%A2%E8%AD%89%E7%89%A9%E5%8C%85%E6%8B%AC%E9%81%BF%E5%AD%95%E5%A5%97%E5%92%8C%E6%BD%A4%E6%BB%91%E5%8A%91-%E5%85%B1%E6%8B%985%E7%94%B7%E5%A5%B3",
-    "timestamp": "2026-07-31T18:52:57.603Z",
     "strategy": ".content-card__main"
   }
 ];
