@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-01T22:11:20.236Z
+// Last updated: 2026-08-01T22:45:30.596Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "歐盟宣布8月4日召部長級緊急會議　討論西班牙休達非法移民危機",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260802/1160465201644965888870136.jpeg/iQlQ3CoyStAsl7_t9HhVbweXvAe4SUK8Lcy6nC3Mupw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60375946/%E6%AD%90%E7%9B%9F%E5%AE%A3%E5%B8%838%E6%9C%884%E6%97%A5%E5%8F%AC%E9%83%A8%E9%95%B7%E7%B4%9A%E7%B7%8A%E6%80%A5%E6%9C%83%E8%AD%B0-%E8%A8%8E%E8%AB%96%E8%A5%BF%E7%8F%AD%E7%89%99%E4%BC%91%E9%81%94%E9%9D%9E%E6%B3%95%E7%A7%BB%E6%B0%91%E5%8D%B1%E6%A9%9F",
+    "timestamp": "2026-08-01T22:45:30.596Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "歐盟宣布8月4日召部長級緊急會議　討論西班牙休達非法移民危機",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260730/1159446240455299072930475.png/OdCNVQXq207dGpXmnfexODEtgxSR5VaaJEQNQSREDUE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60375879/%E7%BE%8E%E7%96%91%E6%8B%92%E4%BE%9B%E5%B0%8E%E5%BD%88-%E5%82%B3%E5%80%9F%E6%98%9F%E9%8F%88%E9%81%AD%E9%A6%AC%E6%96%AF%E5%85%8B%E9%A4%B5%E9%96%89%E9%96%80%E7%BE%B9-%E6%BE%A4%E9%80%A3%E6%96%AF%E5%9F%BA%E8%AB%8B%E7%89%B9%E6%9C%97%E6%99%AE%E5%8E%BB%E5%8B%B8",
     "timestamp": "2026-08-01T10:26:41.637Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "警破4假冒官員騙案　25歲內地「女特務」涉呃近$300萬被捕",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260801/1160265297534390272086721.jpeg/v7DoJ2K-xUIZ7uZ0cYQoiHMz0_teXjUSE63x2jat8do?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60375858/%E8%AD%A6%E7%A0%B44%E5%81%87%E5%86%92%E5%AE%98%E5%93%A1%E9%A8%99%E6%A1%88-25%E6%AD%B2%E5%85%A7%E5%9C%B0-%E5%A5%B3%E7%89%B9%E5%8B%99-%E6%B6%89%E5%91%83%E8%BF%91-300%E8%90%AC%E8%A2%AB%E6%8D%95",
-    "timestamp": "2026-08-01T09:47:03.831Z",
     "strategy": ".content-card__main"
   }
 ];
