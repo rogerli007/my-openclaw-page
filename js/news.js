@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-01T04:04:40.957Z
+// Last updated: 2026-08-01T05:16:55.098Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "大埔屋苑管理處出通告！寫明樓層提醒嚴禁養狗　鄰居：隻狗成日吠",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260801/1160068939842064384598614.png/8j1tZn02NuXOCpI0uHeLKHxAM56ZZDgdXg1EC14NRAs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60375747/%E5%A4%A7%E5%9F%94%E5%B1%8B%E8%8B%91%E7%AE%A1%E7%90%86%E8%99%95%E5%87%BA%E9%80%9A%E5%91%8A-%E5%AF%AB%E6%98%8E%E6%A8%93%E5%B1%A4%E6%8F%90%E9%86%92%E5%9A%B4%E7%A6%81%E9%A4%8A%E7%8B%97-%E9%84%B0%E5%B1%85-%E9%9A%BB%E7%8B%97%E6%88%90%E6%97%A5%E5%90%A0",
+    "timestamp": "2026-08-01T05:16:55.098Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "胡家惠歷兩度離婚創傷　曾患躁鬱症情緒崩潰反鎖自己女兒寫信陪伴",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260731/1159838943294787584658970.png/lYFlZ_xP0jYCvAPQds_hlYPKryaF4UW-4cCgbuHAoG4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60375528/%E6%B7%B1%E5%9C%B3%E5%AF%B6%E5%AE%89%E6%A9%9F%E5%A0%B4%E7%9B%B4%E9%81%94%E5%BB%A3%E5%B7%9E%E7%99%BD%E9%9B%B2%E6%A9%9F%E5%A0%B4%E6%9C%80%E5%BF%AB96%E5%88%86%E9%90%98-%E7%A9%97%E6%B7%B1%E5%9F%8E%E9%9A%9B%E5%85%A8%E7%B7%9A%E8%B2%AB%E9%80%9A",
     "timestamp": "2026-07-31T05:21:43.427Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "有片｜食環署北角拉小販　老翁被扯跌　網民：唔洗咁樣撳伯伯啊？",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260731/1159826788541534208213894.jpeg/QHVG29jXXUcJNLW2bUQfgaBLVGbnZbkESp36REqd-kQ",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60375477/%E6%9C%89%E7%89%87-%E9%A3%9F%E7%92%B0%E7%BD%B2%E5%8C%97%E8%A7%92%E6%8B%89%E5%B0%8F%E8%B2%A9-%E8%80%81%E7%BF%81%E8%A2%AB%E6%89%AF%E8%B7%8C-%E7%B6%B2%E6%B0%91-%E5%94%94%E6%B4%97%E5%92%81%E6%A8%A3%E6%92%B3%E4%BC%AF%E4%BC%AF%E5%95%8A",
-    "timestamp": "2026-07-31T04:03:51.507Z",
     "strategy": ".content-card__main"
   }
 ];
