@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-01T17:13:30.819Z
+// Last updated: 2026-08-01T17:42:11.572Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美軍據報即將再襲伊朗　華府示警衝突或升級　籲美國公民離開中東",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260802/1160390776438394880690275.jpeg/A0v55dIPDSivlvLg5nt1HxewqvDRA1oXVtMYjFbTGIw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60375940/%E7%BE%8E%E8%BB%8D%E6%93%9A%E5%A0%B1%E5%8D%B3%E5%B0%87%E5%86%8D%E8%A5%B2%E4%BC%8A%E6%9C%97-%E8%8F%AF%E5%BA%9C%E7%A4%BA%E8%AD%A6%E8%A1%9D%E7%AA%81%E6%88%96%E5%8D%87%E7%B4%9A-%E7%B1%B2%E7%BE%8E%E5%9C%8B%E5%85%AC%E6%B0%91%E9%9B%A2%E9%96%8B%E4%B8%AD%E6%9D%B1",
+    "timestamp": "2026-08-01T17:42:11.572Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "曼城對國際米蘭｜馬列斯卡首戰無緣響勝鼓　側擊具威脅感滿意",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260801/1160109863674580992753018.jpeg/2KxAh8k977FxCC5Z10osTgxW0KQe3W5oeYiqJ0OIqic?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60375766/%E7%A7%80%E8%8C%82%E5%9D%AA%E5%AE%89%E6%B3%B0%E9%82%A8%E5%A5%B3%E5%AD%90%E6%9A%88%E5%80%92-%E4%B8%88%E5%A4%AB%E5%A0%B1%E6%A1%88-%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2",
     "timestamp": "2026-07-31T22:43:27.696Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普改口：未同意讓烏克蘭生產愛國者導彈",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250806/1029572943509721088853920.jpeg/oBYvQfjA6GG-2OPrLX0GK_4LmW5YTbAda9O2z2vTts8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60375765/%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%B9%E5%8F%A3-%E6%9C%AA%E5%90%8C%E6%84%8F%E8%AE%93%E7%83%8F%E5%85%8B%E8%98%AD%E7%94%9F%E7%94%A2%E6%84%9B%E5%9C%8B%E8%80%85%E5%B0%8E%E5%BD%88",
-    "timestamp": "2026-07-31T22:16:35.515Z",
     "strategy": ".content-card__main"
   }
 ];
