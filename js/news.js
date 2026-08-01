@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-01T01:01:33.473Z
+// Last updated: 2026-08-01T01:47:25.685Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "車牌拍賣｜自訂車牌「YUT G0R」今拍賣底價5千元　運輸署一度拒批",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260801/1160155410309582848284067.jpeg/2Tw69IqTpDiSHw7EW95ENriB5NuJYyopL5keTi-ZHk4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60375751/%E8%BB%8A%E7%89%8C%E6%8B%8D%E8%B3%A3-%E8%87%AA%E8%A8%82%E8%BB%8A%E7%89%8C-yut-g0r-%E4%BB%8A%E6%8B%8D%E8%B3%A3%E5%BA%95%E5%83%B95%E5%8D%83%E5%85%83-%E9%81%8B%E8%BC%B8%E7%BD%B2%E4%B8%80%E5%BA%A6%E6%8B%92%E6%89%B9",
+    "timestamp": "2026-08-01T01:47:25.685Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "炒樓行唔通！葉秀亮勸地產商放手　畀下一代學高科技｜財策相對論",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260731/1159781407791255552815974.png/WlRuW6YmNEbEI45DN1AreOPh78lnVNDyHMwZURzMGVE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60375436/%E4%B9%9F%E9%96%80%E8%83%A1%E5%A1%9E%E6%AD%A6%E8%A3%9D%E6%93%9A%E5%A0%B1%E5%BE%9E%E4%BC%8A%E6%8B%89%E5%85%8B%E8%A5%B2%E6%93%8A%E6%B2%99%E7%89%B9%E9%98%BF%E6%8B%89%E4%BC%AF-%E8%AD%89%E4%BC%8A%E6%9C%97%E8%88%87%E7%9B%9F%E5%8F%8B%E8%81%AF%E7%B9%AB%E5%8A%A0%E6%B7%B1",
     "timestamp": "2026-07-31T01:00:49.794Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "全球6大貓咪景點推薦丨台灣/日本/意大利等包含在內　治愈指數Max",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260730/1159557818148196352902374.png/19y38rS1uEevM7xZB7RcSq9hIQ4OAQgmwNbvjsDW744?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%AF%B5%E7%89%A9/60348779/%E5%85%A8%E7%90%836%E5%A4%A7%E8%B2%93%E5%92%AA%E6%99%AF%E9%BB%9E%E6%8E%A8%E8%96%A6-%E5%8F%B0%E7%81%A3-%E6%97%A5%E6%9C%AC-%E6%84%8F%E5%A4%A7%E5%88%A9%E7%AD%89%E5%8C%85%E5%90%AB%E5%9C%A8%E5%85%A7-%E6%B2%BB%E6%84%88%E6%8C%87%E6%95%B8max",
-    "timestamp": "2026-07-31T00:14:10.345Z",
     "strategy": ".content-card__main"
   }
 ];
