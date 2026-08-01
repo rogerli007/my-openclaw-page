@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-01T01:47:25.685Z
+// Last updated: 2026-08-01T04:04:40.957Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "胡家惠歷兩度離婚創傷　曾患躁鬱症情緒崩潰反鎖自己女兒寫信陪伴",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260731/1159877554434215936512480.jpeg/qEMLk62xySu40UNrJfxuBOk7L1rA3yCXQQePjkEHj44?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60375585/%E8%83%A1%E5%AE%B6%E6%83%A0%E6%AD%B7%E5%85%A9%E5%BA%A6%E9%9B%A2%E5%A9%9A%E5%89%B5%E5%82%B7-%E6%9B%BE%E6%82%A3%E8%BA%81%E9%AC%B1%E7%97%87%E6%83%85%E7%B7%92%E5%B4%A9%E6%BD%B0%E5%8F%8D%E9%8E%96%E8%87%AA%E5%B7%B1%E5%A5%B3%E5%85%92%E5%AF%AB%E4%BF%A1%E9%99%AA%E4%BC%B4",
+    "timestamp": "2026-08-01T04:04:40.957Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "車牌拍賣｜自訂車牌「YUT G0R」今拍賣底價5千元　運輸署一度拒批",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260731/1159826788541534208213894.jpeg/QHVG29jXXUcJNLW2bUQfgaBLVGbnZbkESp36REqd-kQ",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60375477/%E6%9C%89%E7%89%87-%E9%A3%9F%E7%92%B0%E7%BD%B2%E5%8C%97%E8%A7%92%E6%8B%89%E5%B0%8F%E8%B2%A9-%E8%80%81%E7%BF%81%E8%A2%AB%E6%89%AF%E8%B7%8C-%E7%B6%B2%E6%B0%91-%E5%94%94%E6%B4%97%E5%92%81%E6%A8%A3%E6%92%B3%E4%BC%AF%E4%BC%AF%E5%95%8A",
     "timestamp": "2026-07-31T04:03:51.507Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "也門胡塞武裝據報從伊拉克襲擊沙特阿拉伯　證伊朗與盟友聯繫加深",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260731/1159781407791255552815974.png/WlRuW6YmNEbEI45DN1AreOPh78lnVNDyHMwZURzMGVE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60375436/%E4%B9%9F%E9%96%80%E8%83%A1%E5%A1%9E%E6%AD%A6%E8%A3%9D%E6%93%9A%E5%A0%B1%E5%BE%9E%E4%BC%8A%E6%8B%89%E5%85%8B%E8%A5%B2%E6%93%8A%E6%B2%99%E7%89%B9%E9%98%BF%E6%8B%89%E4%BC%AF-%E8%AD%89%E4%BC%8A%E6%9C%97%E8%88%87%E7%9B%9F%E5%8F%8B%E8%81%AF%E7%B9%AB%E5%8A%A0%E6%B7%B1",
-    "timestamp": "2026-07-31T01:00:49.794Z",
     "strategy": ".content-card__main"
   }
 ];
