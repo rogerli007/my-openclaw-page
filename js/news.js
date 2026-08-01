@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-01T11:45:49.417Z
+// Last updated: 2026-08-01T12:13:16.455Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "SpaceX火箭殘骸將撞月球　威力如同三噸TNT　專家憂太空垃圾威脅",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260613/1142589138768236544129457.jpeg/9KJSvlwifme-wVeJv8Vz7R5QqVvOtLb8MVLWozFS1qM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60375860/spacex%E7%81%AB%E7%AE%AD%E6%AE%98%E9%AA%B8%E5%B0%87%E6%92%9E%E6%9C%88%E7%90%83-%E5%A8%81%E5%8A%9B%E5%A6%82%E5%90%8C%E4%B8%89%E5%99%B8tnt-%E5%B0%88%E5%AE%B6%E6%86%82%E5%A4%AA%E7%A9%BA%E5%9E%83%E5%9C%BE%E5%A8%81%E8%84%85",
+    "timestamp": "2026-08-01T12:13:16.455Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "華富邨清拆在即　58年「銀都冰室」悄然結業　馳名絲襪奶茶成絕響",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260801/1160040769239650304685934.jpeg/-0E9Onfzb-mjX6g1F_oP9lzEgHTBIc6BhtOtc4bTrXM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60375759/%E7%89%B9%E6%9C%97%E6%99%AE-%E4%BB%A5%E8%89%B2%E5%88%97%E5%B0%8D%E5%93%88%E9%A6%AC%E6%96%AF%E8%A7%A3%E9%99%A4%E6%AD%A6%E8%A3%9D%E5%8D%94%E8%AD%B0%E6%84%9F%E6%BB%BF%E6%84%8F-%E7%BE%8E%E5%9C%8B%E8%88%87%E4%BB%A5%E6%96%B9%E9%81%94%E6%88%90%E8%AB%92%E8%A7%A3",
     "timestamp": "2026-07-31T18:17:51.740Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "休達非法移民危機增至57死　意大利暫停與西班牙神根自由通行協議",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260801/1160022214980931584921065.jpeg/xckbBuzJeeFboHPvY1rIs3zQiRI9OnNzwL1ZCsC9WQo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60375758/%E4%BC%91%E9%81%94%E9%9D%9E%E6%B3%95%E7%A7%BB%E6%B0%91%E5%8D%B1%E6%A9%9F%E5%A2%9E%E8%87%B357%E6%AD%BB-%E6%84%8F%E5%A4%A7%E5%88%A9%E6%9A%AB%E5%81%9C%E8%88%87%E8%A5%BF%E7%8F%AD%E7%89%99%E7%A5%9E%E6%A0%B9%E8%87%AA%E7%94%B1%E9%80%9A%E8%A1%8C%E5%8D%94%E8%AD%B0",
-    "timestamp": "2026-07-31T16:57:35.244Z",
     "strategy": ".content-card__main"
   }
 ];
