@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-01T12:13:16.455Z
+// Last updated: 2026-08-01T13:16:07.171Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "登山家Nirmal Purja率團攀全球第12高峰遇雪崩　公司證實10人罹難",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260801/1160329403972980736267580.jpeg/cXTY2mKC97OGSLNY_73JdAEP7bjv3dEnpdSeuKXUnrg",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60375907/%E7%99%BB%E5%B1%B1%E5%AE%B6nirmal-purja%E7%8E%87%E5%9C%98%E6%94%80%E5%85%A8%E7%90%83%E7%AC%AC12%E9%AB%98%E5%B3%B0%E9%81%87%E9%9B%AA%E5%B4%A9-%E5%85%AC%E5%8F%B8%E8%AD%89%E5%AF%A610%E4%BA%BA%E7%BD%B9%E9%9B%A3",
+    "timestamp": "2026-08-01T13:16:07.171Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "SpaceX火箭殘骸將撞月球　威力如同三噸TNT　專家憂太空垃圾威脅",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260801/1160049645724897280613457.jpeg/0EH10wIKJDRyaqkRSU1q_cRWNd3lPtl6ykc4I8pHOCM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60375760/%E8%8D%83%E7%81%A3%E5%BA%97%E8%88%96%E8%AE%8A%E8%B3%A3%E6%B7%AB%E5%A0%B4%E6%89%80-%E8%AD%A6%E6%AA%A2%E8%AD%89%E7%89%A9%E5%8C%85%E6%8B%AC%E9%81%BF%E5%AD%95%E5%A5%97%E5%92%8C%E6%BD%A4%E6%BB%91%E5%8A%91-%E5%85%B1%E6%8B%985%E7%94%B7%E5%A5%B3",
     "timestamp": "2026-07-31T18:52:57.603Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普：以色列對哈馬斯解除武裝協議感滿意　美國與以方達成諒解",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260801/1160040769239650304685934.jpeg/-0E9Onfzb-mjX6g1F_oP9lzEgHTBIc6BhtOtc4bTrXM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60375759/%E7%89%B9%E6%9C%97%E6%99%AE-%E4%BB%A5%E8%89%B2%E5%88%97%E5%B0%8D%E5%93%88%E9%A6%AC%E6%96%AF%E8%A7%A3%E9%99%A4%E6%AD%A6%E8%A3%9D%E5%8D%94%E8%AD%B0%E6%84%9F%E6%BB%BF%E6%84%8F-%E7%BE%8E%E5%9C%8B%E8%88%87%E4%BB%A5%E6%96%B9%E9%81%94%E6%88%90%E8%AB%92%E8%A7%A3",
-    "timestamp": "2026-07-31T18:17:51.740Z",
     "strategy": ".content-card__main"
   }
 ];
