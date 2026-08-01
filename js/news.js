@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-01T18:40:01.102Z
+// Last updated: 2026-08-01T19:15:08.255Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "陳卓賢尾場演唱會再回應「空櫈」事件：冇講過係客戶嘅錯",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260802/1160399977160118272205746.jpeg/uiqSt260NVFSO9xrUxhYtJpnmX7J38DUHHb0uRx29Lk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60375941/%E9%99%B3%E5%8D%93%E8%B3%A2%E5%B0%BE%E5%A0%B4%E6%BC%94%E5%94%B1%E6%9C%83%E5%86%8D%E5%9B%9E%E6%87%89-%E7%A9%BA%E6%AB%88-%E4%BA%8B%E4%BB%B6-%E5%86%87%E8%AC%9B%E9%81%8E%E4%BF%82%E5%AE%A2%E6%88%B6%E5%98%85%E9%8C%AF",
+    "timestamp": "2026-08-01T19:15:08.255Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "馬斯克身家一個月縮水逾6000億美元　回落到SpaceX上市前水平",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260801/1160155410309582848284067.jpeg/2Tw69IqTpDiSHw7EW95ENriB5NuJYyopL5keTi-ZHk4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60375751/%E8%BB%8A%E7%89%8C%E6%8B%8D%E8%B3%A3-%E8%87%AA%E8%A8%82%E8%BB%8A%E7%89%8C-yut-g0r-%E4%BB%8A%E6%8B%8D%E8%B3%A3%E5%BA%95%E5%83%B95%E5%8D%83%E5%85%83-%E9%81%8B%E8%BC%B8%E7%BD%B2%E4%B8%80%E5%BA%A6%E6%8B%92%E6%89%B9",
     "timestamp": "2026-08-01T01:47:25.685Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "炒樓行唔通！葉秀亮勸地產商放手　畀下一代學高科技｜財策相對論",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260727/1158410489265393664692107.jpeg/7Qzgzt3ia1V9MhTjiYUzetA69M2Ni5NWyX6Zhcl-mYU",
-    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60372057/%E7%82%92%E6%A8%93%E8%A1%8C%E5%94%94%E9%80%9A-%E8%91%89%E7%A7%80%E4%BA%AE%E5%8B%B8%E5%9C%B0%E7%94%A2%E5%95%86%E6%94%BE%E6%89%8B-%E7%95%80%E4%B8%8B%E4%B8%80%E4%BB%A3%E5%AD%B8%E9%AB%98%E7%A7%91%E6%8A%80-%E8%B2%A1%E7%AD%96%E7%9B%B8%E5%B0%8D%E8%AB%96",
-    "timestamp": "2026-08-01T01:01:33.473Z",
     "strategy": ".content-card__main"
   }
 ];
