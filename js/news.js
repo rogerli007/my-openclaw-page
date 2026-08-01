@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-01T23:11:41.071Z
+// Last updated: 2026-08-01T23:40:33.195Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "最新天氣｜天文台發出黃色暴雨警告信號　料今有驟雨及狂風雷暴",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260731/1159845206942945280817934.jpeg/rQKZ3AjCdcPoguYfxxklZn3iejP7MJzQkUGSVJFBklQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60375441/%E6%9C%80%E6%96%B0%E5%A4%A9%E6%B0%A3-%E5%A4%A9%E6%96%87%E5%8F%B0%E7%99%BC%E5%87%BA%E9%BB%83%E8%89%B2%E6%9A%B4%E9%9B%A8%E8%AD%A6%E5%91%8A%E4%BF%A1%E8%99%9F-%E6%96%99%E4%BB%8A%E6%9C%89%E9%A9%9F%E9%9B%A8%E5%8F%8A%E7%8B%82%E9%A2%A8%E9%9B%B7%E6%9A%B4",
+    "timestamp": "2026-08-01T23:40:33.195Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "雙颱颱｜準鯨魚現身有路徑圖　「藤原效應」遭超強颱風白海豚吞噬",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260801/1160298941477031936802541.jpeg/mGucCitN2b7o4JLoPG1Blf27xkFe-30ROlnAFzpZwBc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60375876/%E8%8F%AF%E5%AF%8C%E9%82%A8%E6%B8%85%E6%8B%86%E5%9C%A8%E5%8D%B3-58%E5%B9%B4-%E9%8A%80%E9%83%BD%E5%86%B0%E5%AE%A4-%E6%82%84%E7%84%B6%E7%B5%90%E6%A5%AD-%E9%A6%B3%E5%90%8D%E7%B5%B2%E8%A5%AA%E5%A5%B6%E8%8C%B6%E6%88%90%E7%B5%95%E9%9F%BF",
     "timestamp": "2026-08-01T11:45:49.417Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美媒：美國退出援助烏克蘭小組領導權　冀北約盟友增加責任",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260708/1151641043603820544031865.jpeg/9HiOCSL7sp1J6GZz3UJhK81KUcaS4Ud2m7o8iZu6PIk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60375855/%E7%BE%8E%E5%AA%92-%E7%BE%8E%E5%9C%8B%E9%80%80%E5%87%BA%E6%8F%B4%E5%8A%A9%E7%83%8F%E5%85%8B%E8%98%AD%E5%B0%8F%E7%B5%84%E9%A0%98%E5%B0%8E%E6%AC%8A-%E5%86%80%E5%8C%97%E7%B4%84%E7%9B%9F%E5%8F%8B%E5%A2%9E%E5%8A%A0%E8%B2%AC%E4%BB%BB",
-    "timestamp": "2026-08-01T11:06:31.784Z",
     "strategy": ".content-card__main"
   }
 ];
