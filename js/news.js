@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-01T18:11:45.635Z
+// Last updated: 2026-08-01T18:40:01.102Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "馬斯克身家一個月縮水逾6000億美元　回落到SpaceX上市前水平",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260802/1160405371882311680784901.jpeg/JLGQwD7TKMVOJYMZHeSkMSGXkJ5fWx4rqGTfvKhk37w?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60375942/%E9%A6%AC%E6%96%AF%E5%85%8B%E8%BA%AB%E5%AE%B6%E4%B8%80%E5%80%8B%E6%9C%88%E7%B8%AE%E6%B0%B4%E9%80%BE6000%E5%84%84%E7%BE%8E%E5%85%83-%E5%9B%9E%E8%90%BD%E5%88%B0spacex%E4%B8%8A%E5%B8%82%E5%89%8D%E6%B0%B4%E5%B9%B3",
+    "timestamp": "2026-08-01T18:40:01.102Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "馬斯克身家一個月縮水逾6000億美元　回落到SpaceX上市前水平",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260727/1158410489265393664692107.jpeg/7Qzgzt3ia1V9MhTjiYUzetA69M2Ni5NWyX6Zhcl-mYU",
     "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60372057/%E7%82%92%E6%A8%93%E8%A1%8C%E5%94%94%E9%80%9A-%E8%91%89%E7%A7%80%E4%BA%AE%E5%8B%B8%E5%9C%B0%E7%94%A2%E5%95%86%E6%94%BE%E6%89%8B-%E7%95%80%E4%B8%8B%E4%B8%80%E4%BB%A3%E5%AD%B8%E9%AB%98%E7%A7%91%E6%8A%80-%E8%B2%A1%E7%AD%96%E7%9B%B8%E5%B0%8D%E8%AB%96",
     "timestamp": "2026-08-01T01:01:33.473Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "油麻地的士男乘客「走數」　兼搶司機$400逃去　警列偷竊追緝",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260801/1160133162408349696286473.jpeg/u0UMh26S8bpcST7_fLasBh650xHQwHzSCb9Jywm_Scs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60375774/%E6%B2%B9%E9%BA%BB%E5%9C%B0%E7%9A%84%E5%A3%AB%E7%94%B7%E4%B9%98%E5%AE%A2-%E8%B5%B0%E6%95%B8-%E5%85%BC%E6%90%B6%E5%8F%B8%E6%A9%9F-400%E9%80%83%E5%8E%BB-%E8%AD%A6%E5%88%97%E5%81%B7%E7%AB%8A%E8%BF%BD%E7%B7%9D",
-    "timestamp": "2026-08-01T00:12:49.337Z",
     "strategy": ".content-card__main"
   }
 ];
