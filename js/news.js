@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-01T07:18:09.884Z
+// Last updated: 2026-08-01T08:04:03.289Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "地方選區選民連續5年下跌　21至25歲跌幅最多　新登記選民增78%",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20251008/1052646056048857088362705.jpeg/LlYZ7A__BO8_d3Nkl91UZdxA341Fe-4kUarBJ1GqwSc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60375826/%E5%9C%B0%E6%96%B9%E9%81%B8%E5%8D%80%E9%81%B8%E6%B0%91%E9%80%A3%E7%BA%8C5%E5%B9%B4%E4%B8%8B%E8%B7%8C-21%E8%87%B325%E6%AD%B2%E8%B7%8C%E5%B9%85%E6%9C%80%E5%A4%9A-%E6%96%B0%E7%99%BB%E8%A8%98%E9%81%B8%E6%B0%91%E5%A2%9E78",
+    "timestamp": "2026-08-01T08:04:03.289Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "惠州旅遊看海懶人包｜雙月灣吃海鮮/海龜灣看海龜/獅子島人少景美",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260731/1159892643258306560895764.png/Pdv6nL6oOFz9QzSekM7hGQFhq8kFYTGEGkufXhpLn14?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60375499/%E6%95%99%E5%B8%AB-%E7%94%A8%E5%85%AC%E4%BB%94%E7%B7%B4%E9%8E%96%E5%96%89-%E5%AE%B6%E4%B8%AD%E4%BC%8F%E6%93%8A%E5%A7%A6%E6%AE%BA%E5%8D%9A%E5%A3%AB%E5%A7%A8%E4%BB%94-%E6%80%A7%E4%BE%B5%E5%89%8D%E7%95%B6%E9%9D%A2%E6%8E%A5%E5%A6%BB%E8%A6%96%E5%83%8F",
     "timestamp": "2026-07-31T12:51:14.150Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "新皇崗口岸港方口岸區啟用 　鄧炳強：將作逾百場測試助早日開通",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260327/1114344381768404992457108.png/Tr1aXpIu1RTRTZhwVVqS25Czlm8fkBzHdPsb_nT7G_4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60375673/%E6%96%B0%E7%9A%87%E5%B4%97%E5%8F%A3%E5%B2%B8%E6%B8%AF%E6%96%B9%E5%8F%A3%E5%B2%B8%E5%8D%80%E5%95%9F%E7%94%A8-%E9%84%A7%E7%82%B3%E5%BC%B7-%E5%B0%87%E4%BD%9C%E9%80%BE%E7%99%BE%E5%A0%B4%E6%B8%AC%E8%A9%A6%E5%8A%A9%E6%97%A9%E6%97%A5%E9%96%8B%E9%80%9A",
-    "timestamp": "2026-07-31T11:50:10.444Z",
     "strategy": ".content-card__main"
   }
 ];
