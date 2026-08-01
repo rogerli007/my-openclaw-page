@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-01T16:13:02.215Z
+// Last updated: 2026-08-01T17:13:30.819Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "曼城對國際米蘭｜馬列斯卡首戰無緣響勝鼓　側擊具威脅感滿意",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260801/1160373036201807872603925.jpeg/m5FSdfyjGUf0czV9g4TPr6FMP1x-mcGPhSzOXoUszl4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60375931/%E6%9B%BC%E5%9F%8E%E5%B0%8D%E5%9C%8B%E9%9A%9B%E7%B1%B3%E8%98%AD-%E9%A6%AC%E5%88%97%E6%96%AF%E5%8D%A1%E9%A6%96%E6%88%B0%E7%84%A1%E7%B7%A3%E9%9F%BF%E5%8B%9D%E9%BC%93-%E5%81%B4%E6%93%8A%E5%85%B7%E5%A8%81%E8%84%85%E6%84%9F%E6%BB%BF%E6%84%8F",
+    "timestamp": "2026-08-01T17:13:30.819Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "新皇崗口岸｜議員直擊無香港電話訊號　未來研用同一張證件出入境",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250806/1029572943509721088853920.jpeg/oBYvQfjA6GG-2OPrLX0GK_4LmW5YTbAda9O2z2vTts8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60375765/%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%B9%E5%8F%A3-%E6%9C%AA%E5%90%8C%E6%84%8F%E8%AE%93%E7%83%8F%E5%85%8B%E8%98%AD%E7%94%9F%E7%94%A2%E6%84%9B%E5%9C%8B%E8%80%85%E5%B0%8E%E5%BD%88",
     "timestamp": "2026-07-31T22:16:35.515Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美海軍陸戰隊F-35B戰機加州墜毀　機師彈射逃生現場冒濃煙｜有片",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260801/1160074622427729920059826.png/QlOApggE5BYtv77_hUkeS0ujSnUaAERdJ06a8idOmvI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60375764/%E7%BE%8E%E6%B5%B7%E8%BB%8D%E9%99%B8%E6%88%B0%E9%9A%8Af-35b%E6%88%B0%E6%A9%9F%E5%8A%A0%E5%B7%9E%E5%A2%9C%E6%AF%80-%E6%A9%9F%E5%B8%AB%E5%BD%88%E5%B0%84%E9%80%83%E7%94%9F%E7%8F%BE%E5%A0%B4%E5%86%92%E6%BF%83%E7%85%99-%E6%9C%89%E7%89%87",
-    "timestamp": "2026-07-31T21:18:07.308Z",
     "strategy": ".content-card__main"
   }
 ];
