@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-01T09:47:03.831Z
+// Last updated: 2026-08-01T10:26:41.637Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美疑拒供導彈　傳借星鏈遭馬斯克餵閉門羹　澤連斯基請特朗普去勸",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260730/1159446240455299072930475.png/OdCNVQXq207dGpXmnfexODEtgxSR5VaaJEQNQSREDUE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60375879/%E7%BE%8E%E7%96%91%E6%8B%92%E4%BE%9B%E5%B0%8E%E5%BD%88-%E5%82%B3%E5%80%9F%E6%98%9F%E9%8F%88%E9%81%AD%E9%A6%AC%E6%96%AF%E5%85%8B%E9%A4%B5%E9%96%89%E9%96%80%E7%BE%B9-%E6%BE%A4%E9%80%A3%E6%96%AF%E5%9F%BA%E8%AB%8B%E7%89%B9%E6%9C%97%E6%99%AE%E5%8E%BB%E5%8B%B8",
+    "timestamp": "2026-08-01T10:26:41.637Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "警破4假冒官員騙案　25歲內地「女特務」涉呃近$300萬被捕",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260731/1160000471583166464230468.jpeg/vyfFsjT5ARaFU0JbL7C8gOXZ6hjU2va5RcNoMkXDaDI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60375753/%E6%B5%B7%E9%97%9C%E6%A9%9F%E5%A0%B4%E5%81%B5%E7%A0%B4%E8%B7%A8%E5%A2%83%E8%B2%A9%E6%AF%92%E6%A1%88-%E6%AA%A2-80%E8%90%AC%E5%A4%A7%E9%BA%BB%E8%8A%B1-2%E7%94%B7%E6%97%85%E5%AE%A2%E8%A2%AB%E6%8D%95",
     "timestamp": "2026-07-31T15:23:10.161Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "東張西望｜張偉文嚴重壓瘡遭疏忽照顧　方俊帶隊上門對質院方報警",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260731/1159970767375437824479362.jpeg/QRpGCHVXTmiSWPsJZnA_gXKRCQ_Lq25S6HGbvuhxm74?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60375739/%E6%9D%B1%E5%BC%B5%E8%A5%BF%E6%9C%9B-%E5%BC%B5%E5%81%89%E6%96%87%E5%9A%B4%E9%87%8D%E5%A3%93%E7%98%A1%E9%81%AD%E7%96%8F%E5%BF%BD%E7%85%A7%E9%A1%A7-%E6%96%B9%E4%BF%8A%E5%B8%B6%E9%9A%8A%E4%B8%8A%E9%96%80%E5%B0%8D%E8%B3%AA%E9%99%A2%E6%96%B9%E5%A0%B1%E8%AD%A6",
-    "timestamp": "2026-07-31T14:23:05.760Z",
     "strategy": ".content-card__main"
   }
 ];
