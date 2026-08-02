@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-02T21:53:56.774Z
+// Last updated: 2026-08-02T22:26:50.302Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "天氣｜今日間中有驟雨及雷暴　初時雨勢有時頗大　部分地區或水浸",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260803/1160831699781947392863190.jpeg/O4O2x3-CEwNETwk1X83jPN0eNO-h1qEyjYR_Ro2Ef0Y?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60376123/%E5%A4%A9%E6%B0%A3-%E4%BB%8A%E6%97%A5%E9%96%93%E4%B8%AD%E6%9C%89%E9%A9%9F%E9%9B%A8%E5%8F%8A%E9%9B%B7%E6%9A%B4-%E5%88%9D%E6%99%82%E9%9B%A8%E5%8B%A2%E6%9C%89%E6%99%82%E9%A0%97%E5%A4%A7-%E9%83%A8%E5%88%86%E5%9C%B0%E5%8D%80%E6%88%96%E6%B0%B4%E6%B5%B8",
+    "timestamp": "2026-08-02T22:26:50.302Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "哈馬斯：以軍續襲加沙顯示無意達協議　以色列：質疑繳械承諾",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260802/1160426217778712576681395.jpeg/siwBS5Nww_EVGHEibhwsDlwlKgxKZYd3xy9ayscvWso",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60375905/%E5%85%83%E6%9C%97%E7%A7%81%E5%AE%B6%E8%BB%8A%E9%9B%A8%E4%B8%AD%E5%89%B7%E4%B8%8A%E8%A1%8C%E4%BA%BA%E8%B7%AF-%E6%B3%8A%E6%83%A0%E5%BA%B7%E9%96%80%E5%8F%A3%E9%81%BF%E9%9B%A8%E6%93%BA%E8%B2%A8-%E7%B6%B2%E6%B0%91-%E9%9B%A8%E6%9C%89%E6%AF%92",
     "timestamp": "2026-08-02T11:34:26.813Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "回流港人狠批加拿大！大讚香港生活精采安全　感嘆：終於似返個人",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260802/1160406152610058240924076.png/rbkjTfLYBE7hTf-lVgijU5YqiILCujWS9Ns1kPTbNZA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60375912/%E5%9B%9E%E6%B5%81%E6%B8%AF%E4%BA%BA%E7%8B%A0%E6%89%B9%E5%8A%A0%E6%8B%BF%E5%A4%A7-%E5%A4%A7%E8%AE%9A%E9%A6%99%E6%B8%AF%E7%94%9F%E6%B4%BB%E7%B2%BE%E9%87%87%E5%AE%89%E5%85%A8-%E6%84%9F%E5%98%86-%E7%B5%82%E6%96%BC%E4%BC%BC%E8%BF%94%E5%80%8B%E4%BA%BA",
-    "timestamp": "2026-08-02T10:14:28.754Z",
     "strategy": ".content-card__main"
   }
 ];
