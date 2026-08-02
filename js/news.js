@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-02T15:31:10.593Z
+// Last updated: 2026-08-02T15:56:38.845Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "天文台料熱帶低氣壓登陸呂宋後被扯回菲以東海域　台灣預測入南海",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260802/1160712679057264640685490.jpeg/5DJBXGl-cEP59bujKn3UO9Aq7ge36Q-L_VV94f1VfeE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60376115/%E5%A4%A9%E6%96%87%E5%8F%B0%E6%96%99%E7%86%B1%E5%B8%B6%E4%BD%8E%E6%B0%A3%E5%A3%93%E7%99%BB%E9%99%B8%E5%91%82%E5%AE%8B%E5%BE%8C%E8%A2%AB%E6%89%AF%E5%9B%9E%E8%8F%B2%E4%BB%A5%E6%9D%B1%E6%B5%B7%E5%9F%9F-%E5%8F%B0%E7%81%A3%E9%A0%90%E6%B8%AC%E5%85%A5%E5%8D%97%E6%B5%B7",
+    "timestamp": "2026-08-02T15:56:38.845Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "將軍澳45歲男家中暈倒　朋友揭發惜太遲",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260802/1160458680198500352720431.jpeg/xX9uJN9Xg2d21xKfqm-MrycB-GyoY9oQwMf5J8DH-Sc",
     "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60375947/%E9%9B%99%E9%A2%B1%E9%A2%B1-%E6%BA%96%E9%AF%A8%E9%AD%9A%E7%8F%BE%E8%BA%AB%E6%9C%89%E8%B7%AF%E5%BE%91%E5%9C%96-%E8%97%A4%E5%8E%9F%E6%95%88%E6%87%89-%E9%81%AD%E8%B6%85%E5%BC%B7%E9%A2%B1%E9%A2%A8%E7%99%BD%E6%B5%B7%E8%B1%9A%E5%90%9E%E5%99%AC",
     "timestamp": "2026-08-01T23:11:41.071Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "歐盟宣布8月4日召部長級緊急會議　討論西班牙休達非法移民危機",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260802/1160465201644965888870136.jpeg/iQlQ3CoyStAsl7_t9HhVbweXvAe4SUK8Lcy6nC3Mupw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60375946/%E6%AD%90%E7%9B%9F%E5%AE%A3%E5%B8%838%E6%9C%884%E6%97%A5%E5%8F%AC%E9%83%A8%E9%95%B7%E7%B4%9A%E7%B7%8A%E6%80%A5%E6%9C%83%E8%AD%B0-%E8%A8%8E%E8%AB%96%E8%A5%BF%E7%8F%AD%E7%89%99%E4%BC%91%E9%81%94%E9%9D%9E%E6%B3%95%E7%A7%BB%E6%B0%91%E5%8D%B1%E6%A9%9F",
-    "timestamp": "2026-08-01T22:45:30.596Z",
     "strategy": ".content-card__main"
   }
 ];
