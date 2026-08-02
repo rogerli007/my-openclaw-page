@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-02T13:01:54.288Z
+// Last updated: 2026-08-02T13:39:45.448Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "愛回家丨周嘉洛林凱恩世紀之吻後假結婚　同床對視放閃甜爆網民",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260802/1160596110901776384137698.jpeg/141RjjaQ-PtJcfDK7zZKwW9tlixpnvVt6AbDMugGwzI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60376015/%E6%84%9B%E5%9B%9E%E5%AE%B6-%E5%91%A8%E5%98%89%E6%B4%9B%E6%9E%97%E5%87%B1%E6%81%A9%E4%B8%96%E7%B4%80%E4%B9%8B%E5%90%BB%E5%BE%8C%E5%81%87%E7%B5%90%E5%A9%9A-%E5%90%8C%E5%BA%8A%E5%B0%8D%E8%A6%96%E6%94%BE%E9%96%83%E7%94%9C%E7%88%86%E7%B6%B2%E6%B0%91",
+    "timestamp": "2026-08-02T13:39:45.448Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "葵涌打磚坪街爆水管　水務署完成搶修　寶星中心晚上8時恢復供水",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260731/1159844603822608384643150.jpeg/v6jqX5BH1NYbO_yRauBJG6QP-Pp06F6ayRWSMskVkjI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60375441/%E6%9C%80%E6%96%B0%E5%A4%A9%E6%B0%A3-%E5%A4%A9%E6%96%87%E5%8F%B0-%E6%9C%AA%E4%BE%86%E4%B8%80%E5%85%A9%E5%B0%8F%E6%99%82%E9%A6%99%E6%B8%AF%E5%BB%A3%E6%B3%9B%E5%9C%B0%E5%8D%80%E5%8F%AF%E8%83%BD%E5%8F%97%E5%A4%A7%E9%9B%A8%E5%BD%B1%E9%9F%BF",
     "timestamp": "2026-08-01T21:11:06.309Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "屯門公路私家車撞壆　司機報稱閃避黑影　無受傷拒送院",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260802/1160437222021795840924150.jpeg/tzYYF8GfD0hvMRdB6Ju-ZBB8l-hnSdKW5jF8a-YxfGs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60375944/%E5%B1%AF%E9%96%80%E5%85%AC%E8%B7%AF%E7%A7%81%E5%AE%B6%E8%BB%8A%E6%92%9E%E5%A3%86-%E5%8F%B8%E6%A9%9F%E5%A0%B1%E7%A8%B1%E9%96%83%E9%81%BF%E9%BB%91%E5%BD%B1-%E7%84%A1%E5%8F%97%E5%82%B7%E6%8B%92%E9%80%81%E9%99%A2",
-    "timestamp": "2026-08-01T20:38:55.081Z",
     "strategy": ".content-card__main"
   }
 ];
