@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-02T06:27:12.697Z
+// Last updated: 2026-08-02T08:23:16.678Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "周一上班注意　天文台料初時雨勢有時頗大　周五立秋起酷熱3日",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260802/1160603981399986176358974.jpeg/1wu2MOcUB2HjNmv3QrSWXem2iZ_BOrqzvwEY7L8BGOw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60376029/%E5%91%A8%E4%B8%80%E4%B8%8A%E7%8F%AD%E6%B3%A8%E6%84%8F-%E5%A4%A9%E6%96%87%E5%8F%B0%E6%96%99%E5%88%9D%E6%99%82%E9%9B%A8%E5%8B%A2%E6%9C%89%E6%99%82%E9%A0%97%E5%A4%A7-%E5%91%A8%E4%BA%94%E7%AB%8B%E7%A7%8B%E8%B5%B7%E9%85%B7%E7%86%B13%E6%97%A5",
+    "timestamp": "2026-08-02T08:23:16.678Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "大陸伺機接管台灣？魯比奧：反對脅迫改變現狀　中美衝突將是災難",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260802/1160390776438394880690275.jpeg/A0v55dIPDSivlvLg5nt1HxewqvDRA1oXVtMYjFbTGIw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60375940/%E7%BE%8E%E8%BB%8D%E6%93%9A%E5%A0%B1%E5%8D%B3%E5%B0%87%E5%86%8D%E8%A5%B2%E4%BC%8A%E6%9C%97-%E8%8F%AF%E5%BA%9C%E7%A4%BA%E8%AD%A6%E8%A1%9D%E7%AA%81%E6%88%96%E5%8D%87%E7%B4%9A-%E7%B1%B2%E7%BE%8E%E5%9C%8B%E5%85%AC%E6%B0%91%E9%9B%A2%E9%96%8B%E4%B8%AD%E6%9D%B1",
     "timestamp": "2026-08-01T17:42:11.572Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "曼城對國際米蘭｜馬列斯卡首戰無緣響勝鼓　側擊具威脅感滿意",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260801/1160373036201807872603925.jpeg/m5FSdfyjGUf0czV9g4TPr6FMP1x-mcGPhSzOXoUszl4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60375931/%E6%9B%BC%E5%9F%8E%E5%B0%8D%E5%9C%8B%E9%9A%9B%E7%B1%B3%E8%98%AD-%E9%A6%AC%E5%88%97%E6%96%AF%E5%8D%A1%E9%A6%96%E6%88%B0%E7%84%A1%E7%B7%A3%E9%9F%BF%E5%8B%9D%E9%BC%93-%E5%81%B4%E6%93%8A%E5%85%B7%E5%A8%81%E8%84%85%E6%84%9F%E6%BB%BF%E6%84%8F",
-    "timestamp": "2026-08-01T17:13:30.819Z",
     "strategy": ".content-card__main"
   }
 ];
