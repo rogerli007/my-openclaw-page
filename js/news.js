@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-02T13:39:45.448Z
+// Last updated: 2026-08-02T14:21:03.164Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "大美督三項鐵人賽遇溺｜死者富賽事經驗　學者：或心臟出事",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260802/1160550294577221632485719.jpeg/YYahBG8YC9-PiY2HsmXES2CrjXfBKdQFviteYJsrXmA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60376099/%E5%A4%A7%E7%BE%8E%E7%9D%A3%E4%B8%89%E9%A0%85%E9%90%B5%E4%BA%BA%E8%B3%BD%E9%81%87%E6%BA%BA-%E6%AD%BB%E8%80%85%E5%AF%8C%E8%B3%BD%E4%BA%8B%E7%B6%93%E9%A9%97-%E5%AD%B8%E8%80%85-%E6%88%96%E5%BF%83%E8%87%9F%E5%87%BA%E4%BA%8B",
+    "timestamp": "2026-08-02T14:21:03.164Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "愛回家丨周嘉洛林凱恩世紀之吻後假結婚　同床對視放閃甜爆網民",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260731/1159845206942945280817934.jpeg/rQKZ3AjCdcPoguYfxxklZn3iejP7MJzQkUGSVJFBklQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60375441/%E6%9C%80%E6%96%B0%E5%A4%A9%E6%B0%A3-%E5%A4%A9%E6%96%87%E5%8F%B0-%E6%9C%AA%E4%BE%86%E4%B8%80%E5%85%A9%E5%B0%8F%E6%99%82%E9%A6%99%E6%B8%AF%E5%BB%A3%E6%B3%9B%E5%9C%B0%E5%8D%80%E5%8F%AF%E8%83%BD%E5%8F%97%E5%A4%A7%E9%9B%A8%E5%BD%B1%E9%9F%BF",
     "timestamp": "2026-08-01T21:41:34.490Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "最新天氣｜天文台： 未來一兩小時香港廣泛地區可能受大雨影響",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260731/1159844603822608384643150.jpeg/v6jqX5BH1NYbO_yRauBJG6QP-Pp06F6ayRWSMskVkjI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60375441/%E6%9C%80%E6%96%B0%E5%A4%A9%E6%B0%A3-%E5%A4%A9%E6%96%87%E5%8F%B0-%E6%9C%AA%E4%BE%86%E4%B8%80%E5%85%A9%E5%B0%8F%E6%99%82%E9%A6%99%E6%B8%AF%E5%BB%A3%E6%B3%9B%E5%9C%B0%E5%8D%80%E5%8F%AF%E8%83%BD%E5%8F%97%E5%A4%A7%E9%9B%A8%E5%BD%B1%E9%9F%BF",
-    "timestamp": "2026-08-01T21:11:06.309Z",
     "strategy": ".content-card__main"
   }
 ];
