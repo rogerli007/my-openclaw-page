@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-02T01:02:19.009Z
+// Last updated: 2026-08-02T01:45:52.192Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "施南生追思會｜前夫徐克一早到場打點　閨蜜俞琤神情凝重",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260802/1160518254951665664318965.jpeg/TfLB5_cS4x5sT0xfMj-Am2vXcM92T2NGr7fKMq-3yjI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60375955/%E6%96%BD%E5%8D%97%E7%94%9F%E8%BF%BD%E6%80%9D%E6%9C%83-%E5%89%8D%E5%A4%AB%E5%BE%90%E5%85%8B%E4%B8%80%E6%97%A9%E5%88%B0%E5%A0%B4%E6%89%93%E9%BB%9E-%E9%96%A8%E8%9C%9C%E4%BF%9E%E7%90%A4%E7%A5%9E%E6%83%85%E5%87%9D%E9%87%8D",
+    "timestamp": "2026-08-02T01:45:52.192Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "法國波爾多附近山火持續逾一週　內政部長：火勢受控",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260801/1160331969993641984391704.jpeg/RlfMJqUApgwPIEbxIQ_puh_SFIeTtzfjgkO5CIJDuQg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60375906/%E5%BC%B5%E5%AF%B6%E5%85%92%E5%8D%8A%E5%84%84%E6%84%9B%E5%B7%A2%E5%A4%A7%E6%94%B9%E9%80%A0-%E5%B7%A8%E5%9E%8B%E5%AE%A2%E5%BB%B3%E8%AE%8A%E8%BA%AB%E5%AE%A4%E5%85%A7%E9%81%8A%E6%A8%82%E5%A0%B4%E4%BE%9B%E5%AF%B6%E8%B2%9D%E4%BB%94%E6%94%BE%E9%9B%BB",
     "timestamp": "2026-08-01T14:38:16.906Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "登山家Nirmal Purja率團攀全球第12高峰遇雪崩　公司證實10人罹難",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260801/1160329403972980736267580.jpeg/cXTY2mKC97OGSLNY_73JdAEP7bjv3dEnpdSeuKXUnrg",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60375907/%E7%99%BB%E5%B1%B1%E5%AE%B6nirmal-purja%E7%8E%87%E5%9C%98%E6%94%80%E5%85%A8%E7%90%83%E7%AC%AC12%E9%AB%98%E5%B3%B0%E9%81%87%E9%9B%AA%E5%B4%A9-%E5%85%AC%E5%8F%B8%E8%AD%89%E5%AF%A610%E4%BA%BA%E7%BD%B9%E9%9B%A3",
-    "timestamp": "2026-08-01T13:16:07.171Z",
     "strategy": ".content-card__main"
   }
 ];
