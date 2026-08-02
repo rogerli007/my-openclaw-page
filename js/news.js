@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-02T10:14:28.754Z
+// Last updated: 2026-08-02T11:34:26.813Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "元朗私家車雨中剷上行人路！泊惠康門口避雨擺貨　網民：雨有毒？",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260802/1160426217778712576681395.jpeg/siwBS5Nww_EVGHEibhwsDlwlKgxKZYd3xy9ayscvWso",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60375905/%E5%85%83%E6%9C%97%E7%A7%81%E5%AE%B6%E8%BB%8A%E9%9B%A8%E4%B8%AD%E5%89%B7%E4%B8%8A%E8%A1%8C%E4%BA%BA%E8%B7%AF-%E6%B3%8A%E6%83%A0%E5%BA%B7%E9%96%80%E5%8F%A3%E9%81%BF%E9%9B%A8%E6%93%BA%E8%B2%A8-%E7%B6%B2%E6%B0%91-%E9%9B%A8%E6%9C%89%E6%AF%92",
+    "timestamp": "2026-08-02T11:34:26.813Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "回流港人狠批加拿大！大讚香港生活精采安全　感嘆：終於似返個人",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260802/1160399977160118272205746.jpeg/uiqSt260NVFSO9xrUxhYtJpnmX7J38DUHHb0uRx29Lk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60375941/%E9%99%B3%E5%8D%93%E8%B3%A2%E5%B0%BE%E5%A0%B4%E6%BC%94%E5%94%B1%E6%9C%83%E5%86%8D%E5%9B%9E%E6%87%89-%E7%A9%BA%E6%AB%88-%E4%BA%8B%E4%BB%B6-%E5%86%87%E8%AC%9B%E9%81%8E%E4%BF%82%E5%AE%A2%E6%88%B6%E5%98%85%E9%8C%AF",
     "timestamp": "2026-08-01T19:15:08.255Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "馬斯克身家一個月縮水逾6000億美元　回落到SpaceX上市前水平",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260802/1160405371882311680784901.jpeg/JLGQwD7TKMVOJYMZHeSkMSGXkJ5fWx4rqGTfvKhk37w?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60375942/%E9%A6%AC%E6%96%AF%E5%85%8B%E8%BA%AB%E5%AE%B6%E4%B8%80%E5%80%8B%E6%9C%88%E7%B8%AE%E6%B0%B4%E9%80%BE6000%E5%84%84%E7%BE%8E%E5%85%83-%E5%9B%9E%E8%90%BD%E5%88%B0spacex%E4%B8%8A%E5%B8%82%E5%89%8D%E6%B0%B4%E5%B9%B3",
-    "timestamp": "2026-08-01T18:40:01.102Z",
     "strategy": ".content-card__main"
   }
 ];
