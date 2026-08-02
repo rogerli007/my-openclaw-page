@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-02T22:54:48.505Z
+// Last updated: 2026-08-02T23:27:02.902Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "維港攝影檔｜手機難媲美相機、打燈　旅客滿意：應交給專業的人做",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260719/1155607905576161280793082.jpeg/Dd0RnzoM9K2B8sUywnc4MWMWY8j3_DmV0jcW4dI3FuE",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60371490/%E7%B6%AD%E6%B8%AF%E6%94%9D%E5%BD%B1%E6%AA%94-%E6%89%8B%E6%A9%9F%E9%9B%A3%E5%AA%B2%E7%BE%8E%E7%9B%B8%E6%A9%9F-%E6%89%93%E7%87%88-%E6%97%85%E5%AE%A2%E6%BB%BF%E6%84%8F-%E6%87%89%E4%BA%A4%E7%B5%A6%E5%B0%88%E6%A5%AD%E7%9A%84%E4%BA%BA%E5%81%9A",
+    "timestamp": "2026-08-02T23:27:02.902Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "特朗普：美伊8.3展開新一輪談判",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260802/1160632536313892864963721.jpeg/lini55LiQh-FD-u99d1yncznqgzVHqacI60koyOtJKM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60376057/jlo%E9%81%AD%E9%A6%96%E4%BB%BB%E4%B8%88%E5%A4%AB%E7%88%86%E6%9B%BE%E5%A9%9A%E5%85%A7%E5%81%B7%E9%A3%9Fdiddy-%E5%9D%90%E5%A4%A7%E8%85%BF%E7%85%A7%E6%88%90%E9%90%B5%E8%AD%89-%E8%A6%AA%E5%90%90%E5%B0%8D%E8%B3%AA%E7%B4%B0%E7%AF%80",
     "timestamp": "2026-08-02T12:34:30.526Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "天才女友劇情｜最新追劇日曆/更新時間+演員角色簡介",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260730/1159527287608053760461752.jpeg/WBdrr45EW5g5rtbmRfORhm6Do7Ffez5gb3QTiG90E4g?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60375256/%E5%A4%A9%E6%89%8D%E5%A5%B3%E5%8F%8B%E5%8A%87%E6%83%85-%E6%9C%80%E6%96%B0%E8%BF%BD%E5%8A%87%E6%97%A5%E6%9B%86-%E6%9B%B4%E6%96%B0%E6%99%82%E9%96%93-%E6%BC%94%E5%93%A1%E8%A7%92%E8%89%B2%E7%B0%A1%E4%BB%8B",
-    "timestamp": "2026-08-02T12:00:31.210Z",
     "strategy": ".content-card__main"
   }
 ];
