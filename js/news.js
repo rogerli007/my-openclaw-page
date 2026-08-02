@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-02T17:54:56.849Z
+// Last updated: 2026-08-02T18:55:23.248Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "伊朗：與阿曼商霍爾木茲海峽航運機制　談判接近完成",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260325/1113544700700135424375198.jpeg/0OYgVxi1QwZEuCl5NFFBgxGpqb4G-stJQ6-hqkOvoao?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60376126/%E4%BC%8A%E6%9C%97-%E8%88%87%E9%98%BF%E6%9B%BC%E5%95%86%E9%9C%8D%E7%88%BE%E6%9C%A8%E8%8C%B2%E6%B5%B7%E5%B3%BD%E8%88%AA%E9%81%8B%E6%A9%9F%E5%88%B6-%E8%AB%87%E5%88%A4%E6%8E%A5%E8%BF%91%E5%AE%8C%E6%88%90",
+    "timestamp": "2026-08-02T18:55:23.248Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "巴基斯坦自殺式炸彈襲擊　至少14死26人傷",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260507/1129103527294013440950162.jpeg/ZFNN_P-GASv0AwaiI4eiBdw59vVvDnloEpI8NxKSPDc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60375954/%E5%A4%8F%E5%AD%A3%E9%AB%98%E6%BA%AB%E5%8A%A0ai%E7%AE%97%E5%8A%9B%E7%88%86%E7%99%BC%E5%B8%B6%E5%8B%95%E7%94%A8%E9%9B%BB%E6%96%B0%E9%AB%98-%E4%B8%AD%E5%9C%8B%E7%85%A4%E9%9B%BB%E7%99%BC%E9%9B%BB%E4%BD%94%E6%AF%94%E9%A6%96%E8%B7%8C%E7%A0%B450",
     "timestamp": "2026-08-02T02:46:59.346Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "施南生追思會｜前夫徐克一早到場打點　閨蜜俞琤神情凝重",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260802/1160518254951665664318965.jpeg/TfLB5_cS4x5sT0xfMj-Am2vXcM92T2NGr7fKMq-3yjI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60375955/%E6%96%BD%E5%8D%97%E7%94%9F%E8%BF%BD%E6%80%9D%E6%9C%83-%E5%89%8D%E5%A4%AB%E5%BE%90%E5%85%8B%E4%B8%80%E6%97%A9%E5%88%B0%E5%A0%B4%E6%89%93%E9%BB%9E-%E9%96%A8%E8%9C%9C%E4%BF%9E%E7%90%A4%E7%A5%9E%E6%83%85%E5%87%9D%E9%87%8D",
-    "timestamp": "2026-08-02T01:45:52.192Z",
     "strategy": ".content-card__main"
   }
 ];
