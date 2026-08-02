@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-02T16:55:17.694Z
+// Last updated: 2026-08-02T17:28:53.475Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "酒樓改用預製點心　10年經驗點心師傅恐失業　曝薪金要求：好徬徨",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260801/1160265172011454464980341.png/EB5MG1ijeyzdAHUbiKd0S7l1CWfHATlFn9xcqJ_cXKg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60375806/%E9%85%92%E6%A8%93%E6%94%B9%E7%94%A8%E9%A0%90%E8%A3%BD%E9%BB%9E%E5%BF%83-10%E5%B9%B4%E7%B6%93%E9%A9%97%E9%BB%9E%E5%BF%83%E5%B8%AB%E5%82%85%E6%81%90%E5%A4%B1%E6%A5%AD-%E6%9B%9D%E8%96%AA%E9%87%91%E8%A6%81%E6%B1%82-%E5%A5%BD%E5%BE%AC%E5%BE%A8",
+    "timestamp": "2026-08-02T17:28:53.475Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "酒樓改用預製點心　10年經驗點心師傅恐失業　曝薪金要求：好徬徨",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260728/1158804844077649920367098.jpeg/u9MgRSajn7CsFrw9J9JtWPiNH-SqlaD_GpnHNhqZxzY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60375950/%E6%B3%95%E5%9C%8B%E6%B3%A2%E7%88%BE%E5%A4%9A%E9%99%84%E8%BF%91%E5%B1%B1%E7%81%AB%E6%8C%81%E7%BA%8C%E9%80%BE%E4%B8%80%E9%80%B1-%E5%85%A7%E6%94%BF%E9%83%A8%E9%95%B7-%E7%81%AB%E5%8B%A2%E5%8F%97%E6%8E%A7",
     "timestamp": "2026-08-02T01:02:19.009Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "紅磡海底隧道外客貨車翻側　撞毀鐵欄　司機一度被困",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260802/1160492370546921472368709.jpeg/riX5CXlaRvnZ1-s_LtaQNqncxmmnVdIyjxBODI8QTgw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60375949/%E7%B4%85%E7%A3%A1%E6%B5%B7%E5%BA%95%E9%9A%A7%E9%81%93%E5%A4%96%E5%AE%A2%E8%B2%A8%E8%BB%8A%E7%BF%BB%E5%81%B4-%E6%92%9E%E6%AF%80%E9%90%B5%E6%AC%84-%E5%8F%B8%E6%A9%9F%E4%B8%80%E5%BA%A6%E8%A2%AB%E5%9B%B0",
-    "timestamp": "2026-08-02T00:11:15.088Z",
     "strategy": ".content-card__main"
   }
 ];
