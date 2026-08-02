@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-02T20:03:20.715Z
+// Last updated: 2026-08-02T20:54:13.200Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "荃灣單位遭爆竊　損失逾10萬財物　警刑事調查隊跟進",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250808/1030504544536104960368415.jpeg/mRdm2tmHaV9V-4ntdIUtgCuf8tG0pjAU0rwrVNK8K1Q?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60376130/%E8%8D%83%E7%81%A3%E5%96%AE%E4%BD%8D%E9%81%AD%E7%88%86%E7%AB%8A-%E6%90%8D%E5%A4%B1%E9%80%BE10%E8%90%AC%E8%B2%A1%E7%89%A9-%E8%AD%A6%E5%88%91%E4%BA%8B%E8%AA%BF%E6%9F%A5%E9%9A%8A%E8%B7%9F%E9%80%B2",
+    "timestamp": "2026-08-02T20:54:13.200Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "荃灣單位遭爆竊　損失逾10萬財物　警刑事調查隊跟進",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260802/1160603981399986176358974.jpeg/1wu2MOcUB2HjNmv3QrSWXem2iZ_BOrqzvwEY7L8BGOw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60376029/%E5%91%A8%E4%B8%80%E4%B8%8A%E7%8F%AD%E6%B3%A8%E6%84%8F-%E5%A4%A9%E6%96%87%E5%8F%B0%E6%96%99%E5%88%9D%E6%99%82%E9%9B%A8%E5%8B%A2%E6%9C%89%E6%99%82%E9%A0%97%E5%A4%A7-%E5%91%A8%E4%BA%94%E7%AB%8B%E7%A7%8B%E8%B5%B7%E9%85%B7%E7%86%B13%E6%97%A5",
     "timestamp": "2026-08-02T08:23:16.678Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "大陸伺機接管台灣？魯比奧：反對脅迫改變現狀　中美衝突將是災難",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20220807/632868878027853824870462.jpeg/1kkOyen4ZQTSXfxoueiUf9dl9nc1iPlAJPPxZCTz8WQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8F%B0%E7%81%A3%E6%96%B0%E8%81%9E/60376009/%E5%A4%A7%E9%99%B8%E4%BC%BA%E6%A9%9F%E6%8E%A5%E7%AE%A1%E5%8F%B0%E7%81%A3-%E9%AD%AF%E6%AF%94%E5%A5%A7-%E5%8F%8D%E5%B0%8D%E8%84%85%E8%BF%AB%E6%94%B9%E8%AE%8A%E7%8F%BE%E7%8B%80-%E4%B8%AD%E7%BE%8E%E8%A1%9D%E7%AA%81%E5%B0%87%E6%98%AF%E7%81%BD%E9%9B%A3",
-    "timestamp": "2026-08-02T06:27:12.697Z",
     "strategy": ".content-card__main"
   }
 ];
