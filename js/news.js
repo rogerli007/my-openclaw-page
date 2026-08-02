@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-02T15:56:38.845Z
+// Last updated: 2026-08-02T16:28:33.214Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "大灣區武狀元大賽逾800人次參加　港代表多個項目獲佳績",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260802/1160735818478784512821630.jpeg/0mhodkPyHFErr3PbyURa-MrcVYTmAr88efeU6nn3lOo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60376119/%E5%A4%A7%E7%81%A3%E5%8D%80%E6%AD%A6%E7%8B%80%E5%85%83%E5%A4%A7%E8%B3%BD%E9%80%BE800%E4%BA%BA%E6%AC%A1%E5%8F%83%E5%8A%A0-%E6%B8%AF%E4%BB%A3%E8%A1%A8%E5%A4%9A%E5%80%8B%E9%A0%85%E7%9B%AE%E7%8D%B2%E4%BD%B3%E7%B8%BE",
+    "timestamp": "2026-08-02T16:28:33.214Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "天文台料熱帶低氣壓登陸呂宋後被扯回菲以東海域　台灣預測入南海",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260731/1159845206942945280817934.jpeg/rQKZ3AjCdcPoguYfxxklZn3iejP7MJzQkUGSVJFBklQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60375441/%E6%9C%80%E6%96%B0%E5%A4%A9%E6%B0%A3-%E5%A4%A9%E6%96%87%E5%8F%B0%E7%99%BC%E5%87%BA%E9%BB%83%E8%89%B2%E6%9A%B4%E9%9B%A8%E8%AD%A6%E5%91%8A%E4%BF%A1%E8%99%9F-%E6%96%99%E4%BB%8A%E6%9C%89%E9%A9%9F%E9%9B%A8%E5%8F%8A%E7%8B%82%E9%A2%A8%E9%9B%B7%E6%9A%B4",
     "timestamp": "2026-08-01T23:40:33.195Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "雙颱颱｜準鯨魚現身有路徑圖　「藤原效應」遭超強颱風白海豚吞噬",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260802/1160458680198500352720431.jpeg/xX9uJN9Xg2d21xKfqm-MrycB-GyoY9oQwMf5J8DH-Sc",
-    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60375947/%E9%9B%99%E9%A2%B1%E9%A2%B1-%E6%BA%96%E9%AF%A8%E9%AD%9A%E7%8F%BE%E8%BA%AB%E6%9C%89%E8%B7%AF%E5%BE%91%E5%9C%96-%E8%97%A4%E5%8E%9F%E6%95%88%E6%87%89-%E9%81%AD%E8%B6%85%E5%BC%B7%E9%A2%B1%E9%A2%A8%E7%99%BD%E6%B5%B7%E8%B1%9A%E5%90%9E%E5%99%AC",
-    "timestamp": "2026-08-01T23:11:41.071Z",
     "strategy": ".content-card__main"
   }
 ];
