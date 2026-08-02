@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-02T01:45:52.192Z
+// Last updated: 2026-08-02T02:46:59.346Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "夏季高溫加AI算力爆發帶動用電新高　中國煤電發電佔比首跌破50%",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260507/1129103527294013440950162.jpeg/ZFNN_P-GASv0AwaiI4eiBdw59vVvDnloEpI8NxKSPDc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60375954/%E5%A4%8F%E5%AD%A3%E9%AB%98%E6%BA%AB%E5%8A%A0ai%E7%AE%97%E5%8A%9B%E7%88%86%E7%99%BC%E5%B8%B6%E5%8B%95%E7%94%A8%E9%9B%BB%E6%96%B0%E9%AB%98-%E4%B8%AD%E5%9C%8B%E7%85%A4%E9%9B%BB%E7%99%BC%E9%9B%BB%E4%BD%94%E6%AF%94%E9%A6%96%E8%B7%8C%E7%A0%B450",
+    "timestamp": "2026-08-02T02:46:59.346Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "施南生追思會｜前夫徐克一早到場打點　閨蜜俞琤神情凝重",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260228/1104535693322883072415983.jpeg/1NgvBJeLfN8BfkpelLOdIcaZsoAbm1Sigi7rgIIu64A?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60375930/%E5%85%AD%E5%90%88%E5%BD%A98-4%E9%A0%AD%E7%8D%8E1300%E8%90%AC-6%E5%80%8B%E6%9C%80%E6%97%BA%E8%99%9F%E7%A2%BC-2%E6%8B%9B%E5%A2%9E%E4%B8%AD%E7%8D%8E%E6%A9%9F%E6%9C%83",
     "timestamp": "2026-08-01T15:43:17.018Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "張寶兒半億愛巢大改造　巨型客廳變身室內遊樂場供寶貝仔放電",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260801/1160331969993641984391704.jpeg/RlfMJqUApgwPIEbxIQ_puh_SFIeTtzfjgkO5CIJDuQg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60375906/%E5%BC%B5%E5%AF%B6%E5%85%92%E5%8D%8A%E5%84%84%E6%84%9B%E5%B7%A2%E5%A4%A7%E6%94%B9%E9%80%A0-%E5%B7%A8%E5%9E%8B%E5%AE%A2%E5%BB%B3%E8%AE%8A%E8%BA%AB%E5%AE%A4%E5%85%A7%E9%81%8A%E6%A8%82%E5%A0%B4%E4%BE%9B%E5%AF%B6%E8%B2%9D%E4%BB%94%E6%94%BE%E9%9B%BB",
-    "timestamp": "2026-08-01T14:38:16.906Z",
     "strategy": ".content-card__main"
   }
 ];
