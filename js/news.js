@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-02T22:26:50.302Z
+// Last updated: 2026-08-02T22:54:48.505Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "特朗普：美伊8.3展開新一輪談判",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260707/1150988319685873664693801.jpeg/MC-pP3mogONUtcBm5uBpQYJz1d7i7xUbz67hs8-u4bM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60376134/%E7%89%B9%E6%9C%97%E6%99%AE-%E7%BE%8E%E4%BC%8A8-3%E5%B1%95%E9%96%8B%E6%96%B0%E4%B8%80%E8%BC%AA%E8%AB%87%E5%88%A4",
+    "timestamp": "2026-08-02T22:54:48.505Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "天氣｜今日間中有驟雨及雷暴　初時雨勢有時頗大　部分地區或水浸",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260730/1159527287608053760461752.jpeg/WBdrr45EW5g5rtbmRfORhm6Do7Ffez5gb3QTiG90E4g?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60375256/%E5%A4%A9%E6%89%8D%E5%A5%B3%E5%8F%8B%E5%8A%87%E6%83%85-%E6%9C%80%E6%96%B0%E8%BF%BD%E5%8A%87%E6%97%A5%E6%9B%86-%E6%9B%B4%E6%96%B0%E6%99%82%E9%96%93-%E6%BC%94%E5%93%A1%E8%A7%92%E8%89%B2%E7%B0%A1%E4%BB%8B",
     "timestamp": "2026-08-02T12:00:31.210Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "元朗私家車雨中剷上行人路！泊惠康門口避雨擺貨　網民：雨有毒？",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260802/1160426217778712576681395.jpeg/siwBS5Nww_EVGHEibhwsDlwlKgxKZYd3xy9ayscvWso",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60375905/%E5%85%83%E6%9C%97%E7%A7%81%E5%AE%B6%E8%BB%8A%E9%9B%A8%E4%B8%AD%E5%89%B7%E4%B8%8A%E8%A1%8C%E4%BA%BA%E8%B7%AF-%E6%B3%8A%E6%83%A0%E5%BA%B7%E9%96%80%E5%8F%A3%E9%81%BF%E9%9B%A8%E6%93%BA%E8%B2%A8-%E7%B6%B2%E6%B0%91-%E9%9B%A8%E6%9C%89%E6%AF%92",
-    "timestamp": "2026-08-02T11:34:26.813Z",
     "strategy": ".content-card__main"
   }
 ];
