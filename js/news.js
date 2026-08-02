@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-01T23:40:33.195Z
+// Last updated: 2026-08-02T00:11:15.088Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "紅磡海底隧道外客貨車翻側　撞毀鐵欄　司機一度被困",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260802/1160492370546921472368709.jpeg/riX5CXlaRvnZ1-s_LtaQNqncxmmnVdIyjxBODI8QTgw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60375949/%E7%B4%85%E7%A3%A1%E6%B5%B7%E5%BA%95%E9%9A%A7%E9%81%93%E5%A4%96%E5%AE%A2%E8%B2%A8%E8%BB%8A%E7%BF%BB%E5%81%B4-%E6%92%9E%E6%AF%80%E9%90%B5%E6%AC%84-%E5%8F%B8%E6%A9%9F%E4%B8%80%E5%BA%A6%E8%A2%AB%E5%9B%B0",
+    "timestamp": "2026-08-02T00:11:15.088Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "最新天氣｜天文台發出黃色暴雨警告信號　料今有驟雨及狂風雷暴",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260613/1142589138768236544129457.jpeg/9KJSvlwifme-wVeJv8Vz7R5QqVvOtLb8MVLWozFS1qM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60375860/spacex%E7%81%AB%E7%AE%AD%E6%AE%98%E9%AA%B8%E5%B0%87%E6%92%9E%E6%9C%88%E7%90%83-%E5%A8%81%E5%8A%9B%E5%A6%82%E5%90%8C%E4%B8%89%E5%99%B8tnt-%E5%B0%88%E5%AE%B6%E6%86%82%E5%A4%AA%E7%A9%BA%E5%9E%83%E5%9C%BE%E5%A8%81%E8%84%85",
     "timestamp": "2026-08-01T12:13:16.455Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "華富邨清拆在即　58年「銀都冰室」悄然結業　馳名絲襪奶茶成絕響",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260801/1160298941477031936802541.jpeg/mGucCitN2b7o4JLoPG1Blf27xkFe-30ROlnAFzpZwBc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60375876/%E8%8F%AF%E5%AF%8C%E9%82%A8%E6%B8%85%E6%8B%86%E5%9C%A8%E5%8D%B3-58%E5%B9%B4-%E9%8A%80%E9%83%BD%E5%86%B0%E5%AE%A4-%E6%82%84%E7%84%B6%E7%B5%90%E6%A5%AD-%E9%A6%B3%E5%90%8D%E7%B5%B2%E8%A5%AA%E5%A5%B6%E8%8C%B6%E6%88%90%E7%B5%95%E9%9F%BF",
-    "timestamp": "2026-08-01T11:45:49.417Z",
     "strategy": ".content-card__main"
   }
 ];
