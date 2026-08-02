@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-02T14:21:03.164Z
+// Last updated: 2026-08-02T14:59:54.033Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "貓迷博覽會｜3日入場人次達22萬　有展商指參展首日已回本",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260802/1160709856907235328015784.jpeg/geCmAVGI8yhV5wz0Gvo4it7TYQemlhY-oxKlu6MSpbs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60376105/%E8%B2%93%E8%BF%B7%E5%8D%9A%E8%A6%BD%E6%9C%83-3%E6%97%A5%E5%85%A5%E5%A0%B4%E4%BA%BA%E6%AC%A1%E9%81%9422%E8%90%AC-%E6%9C%89%E5%B1%95%E5%95%86%E6%8C%87%E5%8F%83%E5%B1%95%E9%A6%96%E6%97%A5%E5%B7%B2%E5%9B%9E%E6%9C%AC",
+    "timestamp": "2026-08-02T14:59:54.033Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "大美督三項鐵人賽遇溺｜死者富賽事經驗　學者：或心臟出事",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260802/1160465201644965888870136.jpeg/iQlQ3CoyStAsl7_t9HhVbweXvAe4SUK8Lcy6nC3Mupw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60375946/%E6%AD%90%E7%9B%9F%E5%AE%A3%E5%B8%838%E6%9C%884%E6%97%A5%E5%8F%AC%E9%83%A8%E9%95%B7%E7%B4%9A%E7%B7%8A%E6%80%A5%E6%9C%83%E8%AD%B0-%E8%A8%8E%E8%AB%96%E8%A5%BF%E7%8F%AD%E7%89%99%E4%BC%91%E9%81%94%E9%9D%9E%E6%B3%95%E7%A7%BB%E6%B0%91%E5%8D%B1%E6%A9%9F",
     "timestamp": "2026-08-01T22:11:20.236Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "最新天氣｜天文台： 未來一兩小時香港廣泛地區可能受大雨影響",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260731/1159845206942945280817934.jpeg/rQKZ3AjCdcPoguYfxxklZn3iejP7MJzQkUGSVJFBklQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60375441/%E6%9C%80%E6%96%B0%E5%A4%A9%E6%B0%A3-%E5%A4%A9%E6%96%87%E5%8F%B0-%E6%9C%AA%E4%BE%86%E4%B8%80%E5%85%A9%E5%B0%8F%E6%99%82%E9%A6%99%E6%B8%AF%E5%BB%A3%E6%B3%9B%E5%9C%B0%E5%8D%80%E5%8F%AF%E8%83%BD%E5%8F%97%E5%A4%A7%E9%9B%A8%E5%BD%B1%E9%9F%BF",
-    "timestamp": "2026-08-01T21:41:34.490Z",
     "strategy": ".content-card__main"
   }
 ];
