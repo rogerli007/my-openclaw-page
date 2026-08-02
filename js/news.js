@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-02T04:07:34.838Z
+// Last updated: 2026-08-02T06:27:12.697Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "大陸伺機接管台灣？魯比奧：反對脅迫改變現狀　中美衝突將是災難",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20220807/632868878027853824870462.jpeg/1kkOyen4ZQTSXfxoueiUf9dl9nc1iPlAJPPxZCTz8WQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8F%B0%E7%81%A3%E6%96%B0%E8%81%9E/60376009/%E5%A4%A7%E9%99%B8%E4%BC%BA%E6%A9%9F%E6%8E%A5%E7%AE%A1%E5%8F%B0%E7%81%A3-%E9%AD%AF%E6%AF%94%E5%A5%A7-%E5%8F%8D%E5%B0%8D%E8%84%85%E8%BF%AB%E6%94%B9%E8%AE%8A%E7%8F%BE%E7%8B%80-%E4%B8%AD%E7%BE%8E%E8%A1%9D%E7%AA%81%E5%B0%87%E6%98%AF%E7%81%BD%E9%9B%A3",
+    "timestamp": "2026-08-02T06:27:12.697Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "荃灣男女邊摸胸邊過馬路片瘋傳！女反應心酸　網民：很不尊重女友",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260801/1160373036201807872603925.jpeg/m5FSdfyjGUf0czV9g4TPr6FMP1x-mcGPhSzOXoUszl4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60375931/%E6%9B%BC%E5%9F%8E%E5%B0%8D%E5%9C%8B%E9%9A%9B%E7%B1%B3%E8%98%AD-%E9%A6%AC%E5%88%97%E6%96%AF%E5%8D%A1%E9%A6%96%E6%88%B0%E7%84%A1%E7%B7%A3%E9%9F%BF%E5%8B%9D%E9%BC%93-%E5%81%B4%E6%93%8A%E5%85%B7%E5%A8%81%E8%84%85%E6%84%9F%E6%BB%BF%E6%84%8F",
     "timestamp": "2026-08-01T17:13:30.819Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "新皇崗口岸｜議員直擊無香港電話訊號　未來研用同一張證件出入境",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260801/1160227516980400128948302.jpeg/f6MpspuFNgNS04wIX1OZorrx3R_m_oMFGPmrlz35q5c?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60375932/%E6%96%B0%E7%9A%87%E5%B4%97%E5%8F%A3%E5%B2%B8-%E8%AD%B0%E5%93%A1%E7%9B%B4%E6%93%8A%E7%84%A1%E9%A6%99%E6%B8%AF%E9%9B%BB%E8%A9%B1%E8%A8%8A%E8%99%9F-%E6%9C%AA%E4%BE%86%E7%A0%94%E7%94%A8%E5%90%8C%E4%B8%80%E5%BC%B5%E8%AD%89%E4%BB%B6%E5%87%BA%E5%85%A5%E5%A2%83",
-    "timestamp": "2026-08-01T16:13:02.215Z",
     "strategy": ".content-card__main"
   }
 ];
