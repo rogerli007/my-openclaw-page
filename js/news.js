@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-02T17:28:53.475Z
+// Last updated: 2026-08-02T17:54:56.849Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "巴基斯坦自殺式炸彈襲擊　至少14死26人傷",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260803/1160758278578245632834715.png/qqsp1E2r-8IojRihO79VVwpYTkTtWY-yNgcm7zYHJu8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60376121/%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E8%87%AA%E6%AE%BA%E5%BC%8F%E7%82%B8%E5%BD%88%E8%A5%B2%E6%93%8A-%E8%87%B3%E5%B0%9114%E6%AD%BB26%E4%BA%BA%E5%82%B7",
+    "timestamp": "2026-08-02T17:54:56.849Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "酒樓改用預製點心　10年經驗點心師傅恐失業　曝薪金要求：好徬徨",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260802/1160518254951665664318965.jpeg/TfLB5_cS4x5sT0xfMj-Am2vXcM92T2NGr7fKMq-3yjI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60375955/%E6%96%BD%E5%8D%97%E7%94%9F%E8%BF%BD%E6%80%9D%E6%9C%83-%E5%89%8D%E5%A4%AB%E5%BE%90%E5%85%8B%E4%B8%80%E6%97%A9%E5%88%B0%E5%A0%B4%E6%89%93%E9%BB%9E-%E9%96%A8%E8%9C%9C%E4%BF%9E%E7%90%A4%E7%A5%9E%E6%83%85%E5%87%9D%E9%87%8D",
     "timestamp": "2026-08-02T01:45:52.192Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "法國波爾多附近山火持續逾一週　內政部長：火勢受控",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260728/1158804844077649920367098.jpeg/u9MgRSajn7CsFrw9J9JtWPiNH-SqlaD_GpnHNhqZxzY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60375950/%E6%B3%95%E5%9C%8B%E6%B3%A2%E7%88%BE%E5%A4%9A%E9%99%84%E8%BF%91%E5%B1%B1%E7%81%AB%E6%8C%81%E7%BA%8C%E9%80%BE%E4%B8%80%E9%80%B1-%E5%85%A7%E6%94%BF%E9%83%A8%E9%95%B7-%E7%81%AB%E5%8B%A2%E5%8F%97%E6%8E%A7",
-    "timestamp": "2026-08-02T01:02:19.009Z",
     "strategy": ".content-card__main"
   }
 ];
