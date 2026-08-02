@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-02T21:25:11.850Z
+// Last updated: 2026-08-02T21:53:56.774Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "哈馬斯：以軍續襲加沙顯示無意達協議　以色列：質疑繳械承諾",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260803/1160806113784893440306182.jpeg/Y_iHdSBi45Ix5Qb9TNWl3oT8IxK1x0bDht8VfYbfFX0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60376133/%E5%93%88%E9%A6%AC%E6%96%AF-%E4%BB%A5%E8%BB%8D%E7%BA%8C%E8%A5%B2%E5%8A%A0%E6%B2%99%E9%A1%AF%E7%A4%BA%E7%84%A1%E6%84%8F%E9%81%94%E5%8D%94%E8%AD%B0-%E4%BB%A5%E8%89%B2%E5%88%97-%E8%B3%AA%E7%96%91%E7%B9%B3%E6%A2%B0%E6%89%BF%E8%AB%BE",
+    "timestamp": "2026-08-02T21:53:56.774Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "哈馬斯：以軍續襲加沙顯示無意達協議　以色列：質疑繳械承諾",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260802/1160406152610058240924076.png/rbkjTfLYBE7hTf-lVgijU5YqiILCujWS9Ns1kPTbNZA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60375912/%E5%9B%9E%E6%B5%81%E6%B8%AF%E4%BA%BA%E7%8B%A0%E6%89%B9%E5%8A%A0%E6%8B%BF%E5%A4%A7-%E5%A4%A7%E8%AE%9A%E9%A6%99%E6%B8%AF%E7%94%9F%E6%B4%BB%E7%B2%BE%E9%87%87%E5%AE%89%E5%85%A8-%E6%84%9F%E5%98%86-%E7%B5%82%E6%96%BC%E4%BC%BC%E8%BF%94%E5%80%8B%E4%BA%BA",
     "timestamp": "2026-08-02T10:14:28.754Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "施政報告諮詢會｜校園欺凌參考公安介入？李家超：盡量唔好咁高壓",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260802/1160633738388836352205974.jpeg/I2-qaHIR3yl9vKbUkvU4UkgqITOQZH_rJGgWfiRoFn4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60376052/%E6%96%BD%E6%94%BF%E5%A0%B1%E5%91%8A%E8%AB%AE%E8%A9%A2%E6%9C%83-%E6%A0%A1%E5%9C%92%E6%AC%BA%E5%87%8C%E5%8F%83%E8%80%83%E5%85%AC%E5%AE%89%E4%BB%8B%E5%85%A5-%E6%9D%8E%E5%AE%B6%E8%B6%85-%E7%9B%A1%E9%87%8F%E5%94%94%E5%A5%BD%E5%92%81%E9%AB%98%E5%A3%93",
-    "timestamp": "2026-08-02T09:20:52.820Z",
     "strategy": ".content-card__main"
   }
 ];
