@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-02T09:20:52.820Z
+// Last updated: 2026-08-02T10:14:28.754Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "回流港人狠批加拿大！大讚香港生活精采安全　感嘆：終於似返個人",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260802/1160406152610058240924076.png/rbkjTfLYBE7hTf-lVgijU5YqiILCujWS9Ns1kPTbNZA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60375912/%E5%9B%9E%E6%B5%81%E6%B8%AF%E4%BA%BA%E7%8B%A0%E6%89%B9%E5%8A%A0%E6%8B%BF%E5%A4%A7-%E5%A4%A7%E8%AE%9A%E9%A6%99%E6%B8%AF%E7%94%9F%E6%B4%BB%E7%B2%BE%E9%87%87%E5%AE%89%E5%85%A8-%E6%84%9F%E5%98%86-%E7%B5%82%E6%96%BC%E4%BC%BC%E8%BF%94%E5%80%8B%E4%BA%BA",
+    "timestamp": "2026-08-02T10:14:28.754Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "施政報告諮詢會｜校園欺凌參考公安介入？李家超：盡量唔好咁高壓",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260802/1160405371882311680784901.jpeg/JLGQwD7TKMVOJYMZHeSkMSGXkJ5fWx4rqGTfvKhk37w?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60375942/%E9%A6%AC%E6%96%AF%E5%85%8B%E8%BA%AB%E5%AE%B6%E4%B8%80%E5%80%8B%E6%9C%88%E7%B8%AE%E6%B0%B4%E9%80%BE6000%E5%84%84%E7%BE%8E%E5%85%83-%E5%9B%9E%E8%90%BD%E5%88%B0spacex%E4%B8%8A%E5%B8%82%E5%89%8D%E6%B0%B4%E5%B9%B3",
     "timestamp": "2026-08-01T18:40:01.102Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "馬斯克身家一個月縮水逾6000億美元　回落到SpaceX上市前水平",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260802/1160405371882311680784901.jpeg/JLGQwD7TKMVOJYMZHeSkMSGXkJ5fWx4rqGTfvKhk37w?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60375942/%E9%A6%AC%E6%96%AF%E5%85%8B%E8%BA%AB%E5%AE%B6%E4%B8%80%E5%80%8B%E6%9C%88%E7%B8%AE%E6%B0%B4%E9%80%BE6000%E5%84%84%E7%BE%8E%E5%85%83-%E5%9B%9E%E8%90%BD%E5%88%B0spacex%E4%B8%8A%E5%B8%82%E5%89%8D%E6%B0%B4%E5%B9%B3",
-    "timestamp": "2026-08-01T18:11:45.635Z",
     "strategy": ".content-card__main"
   }
 ];
