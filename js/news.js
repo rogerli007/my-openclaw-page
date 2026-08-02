@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-02T02:46:59.346Z
+// Last updated: 2026-08-02T04:07:34.838Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "荃灣男女邊摸胸邊過馬路片瘋傳！女反應心酸　網民：很不尊重女友",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260507/1129127588623552512132975.jpeg/SHxB0IM9kfGPAvHrYWPuOpK2sBSkte2eA_qlBAP6pQQ",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60347631/%E8%8D%83%E7%81%A3%E7%94%B7%E5%A5%B3%E9%82%8A%E6%91%B8%E8%83%B8%E9%82%8A%E9%81%8E%E9%A6%AC%E8%B7%AF%E5%BD%B1%E7%89%87%E7%98%8B%E5%82%B3-%E5%A5%B3%E6%96%B9%E5%8F%8D%E6%87%89%E6%83%B9%E9%97%9C%E6%B3%A8-%E5%BE%88%E4%B8%8D%E5%B0%8A%E9%87%8D%E5%A5%B3%E5%8F%8B",
+    "timestamp": "2026-08-02T04:07:34.838Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "夏季高溫加AI算力爆發帶動用電新高　中國煤電發電佔比首跌破50%",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260801/1160227516980400128948302.jpeg/f6MpspuFNgNS04wIX1OZorrx3R_m_oMFGPmrlz35q5c?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60375932/%E6%96%B0%E7%9A%87%E5%B4%97%E5%8F%A3%E5%B2%B8-%E8%AD%B0%E5%93%A1%E7%9B%B4%E6%93%8A%E7%84%A1%E9%A6%99%E6%B8%AF%E9%9B%BB%E8%A9%B1%E8%A8%8A%E8%99%9F-%E6%9C%AA%E4%BE%86%E7%A0%94%E7%94%A8%E5%90%8C%E4%B8%80%E5%BC%B5%E8%AD%89%E4%BB%B6%E5%87%BA%E5%85%A5%E5%A2%83",
     "timestamp": "2026-08-01T16:13:02.215Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "六合彩8.4頭獎1300萬｜6個最旺號碼+2招增中獎機會",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260228/1104535693322883072415983.jpeg/1NgvBJeLfN8BfkpelLOdIcaZsoAbm1Sigi7rgIIu64A?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60375930/%E5%85%AD%E5%90%88%E5%BD%A98-4%E9%A0%AD%E7%8D%8E1300%E8%90%AC-6%E5%80%8B%E6%9C%80%E6%97%BA%E8%99%9F%E7%A2%BC-2%E6%8B%9B%E5%A2%9E%E4%B8%AD%E7%8D%8E%E6%A9%9F%E6%9C%83",
-    "timestamp": "2026-08-01T15:43:17.018Z",
     "strategy": ".content-card__main"
   }
 ];
