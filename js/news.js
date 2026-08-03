@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-03T08:00:45.078Z
+// Last updated: 2026-08-03T09:21:59.668Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "血友病治療現突破   病患男生從絕望走向新生",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260803/1160935019733061632472016.png/MoWrsWPtsw4luF8Kp5EHu5kjMq4FUj0CjJSCnIyUgpw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/60376221/%E8%A1%80%E5%8F%8B%E7%97%85%E6%B2%BB%E7%99%82%E7%8F%BE%E7%AA%81%E7%A0%B4-%E7%97%85%E6%82%A3%E7%94%B7%E7%94%9F%E5%BE%9E%E7%B5%95%E6%9C%9B%E8%B5%B0%E5%90%91%E6%96%B0%E7%94%9F",
+    "timestamp": "2026-08-03T09:21:59.668Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "2026年8月iPhone回收價｜41款舊機先達跌勢回穩 附官方Trade-in價",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260730/1159548192031772672326184.jpeg/AMhlhkWv3-C_B3KT5T_TrXMWZG6BhD1ewph0M8KYdDM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60376116/%E5%B0%87%E8%BB%8D%E6%BE%B345%E6%AD%B2%E7%94%B7%E5%AE%B6%E4%B8%AD%E6%9A%88%E5%80%92-%E6%9C%8B%E5%8F%8B%E6%8F%AD%E7%99%BC%E6%83%9C%E5%A4%AA%E9%81%B2",
     "timestamp": "2026-08-02T15:31:10.593Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "貓迷博覽會｜3日入場人次達22萬　有展商指參展首日已回本",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260802/1160709856907235328015784.jpeg/geCmAVGI8yhV5wz0Gvo4it7TYQemlhY-oxKlu6MSpbs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60376105/%E8%B2%93%E8%BF%B7%E5%8D%9A%E8%A6%BD%E6%9C%83-3%E6%97%A5%E5%85%A5%E5%A0%B4%E4%BA%BA%E6%AC%A1%E9%81%9422%E8%90%AC-%E6%9C%89%E5%B1%95%E5%95%86%E6%8C%87%E5%8F%83%E5%B1%95%E9%A6%96%E6%97%A5%E5%B7%B2%E5%9B%9E%E6%9C%AC",
-    "timestamp": "2026-08-02T14:59:54.033Z",
     "strategy": ".content-card__main"
   }
 ];
