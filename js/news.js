@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-03T16:28:24.764Z
+// Last updated: 2026-08-03T18:15:35.435Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "日本熊本縣錄得逾40度高溫　震後仍約4.5萬戶停水",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260804/1161125998410862592153768.jpeg/murWfTS7rjNeUHLN_ryq0dcVKoOxRnoaAPZ18QD2dfE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60376479/%E6%97%A5%E6%9C%AC%E7%86%8A%E6%9C%AC%E7%B8%A3%E9%8C%84%E5%BE%97%E9%80%BE40%E5%BA%A6%E9%AB%98%E6%BA%AB-%E9%9C%87%E5%BE%8C%E4%BB%8D%E7%B4%844-5%E8%90%AC%E6%88%B6%E5%81%9C%E6%B0%B4",
+    "timestamp": "2026-08-03T18:15:35.435Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "特朗普斥伊朗領導層虛偽至極　私下要求談判但公然否認",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260803/1160758278578245632834715.png/qqsp1E2r-8IojRihO79VVwpYTkTtWY-yNgcm7zYHJu8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60376121/%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E8%87%AA%E6%AE%BA%E5%BC%8F%E7%82%B8%E5%BD%88%E8%A5%B2%E6%93%8A-%E8%87%B3%E5%B0%9114%E6%AD%BB26%E4%BA%BA%E5%82%B7",
     "timestamp": "2026-08-02T17:54:56.849Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "酒樓改用預製點心　10年經驗點心師傅恐失業　曝薪金要求：好徬徨",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260801/1160265172011454464980341.png/EB5MG1ijeyzdAHUbiKd0S7l1CWfHATlFn9xcqJ_cXKg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60375806/%E9%85%92%E6%A8%93%E6%94%B9%E7%94%A8%E9%A0%90%E8%A3%BD%E9%BB%9E%E5%BF%83-10%E5%B9%B4%E7%B6%93%E9%A9%97%E9%BB%9E%E5%BF%83%E5%B8%AB%E5%82%85%E6%81%90%E5%A4%B1%E6%A5%AD-%E6%9B%9D%E8%96%AA%E9%87%91%E8%A6%81%E6%B1%82-%E5%A5%BD%E5%BE%AC%E5%BE%A8",
-    "timestamp": "2026-08-02T17:28:53.475Z",
     "strategy": ".content-card__main"
   }
 ];
