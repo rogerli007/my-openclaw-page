@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-03T14:26:59.825Z
+// Last updated: 2026-08-03T15:33:44.207Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美股｜Amazon早段曾漲逾半成　市值首度突破3萬億美元",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20240627/882817592920641536140896.jpeg/bj4FS8sHts_LqPIhek2gfmV8Y87bzZRjJtfY0SbX2NE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60376470/%E7%BE%8E%E8%82%A1-amazon%E6%97%A9%E6%AE%B5%E6%9B%BE%E6%BC%B2%E9%80%BE%E5%8D%8A%E6%88%90-%E5%B8%82%E5%80%BC%E9%A6%96%E5%BA%A6%E7%AA%81%E7%A0%B43%E8%90%AC%E5%84%84%E7%BE%8E%E5%85%83",
+    "timestamp": "2026-08-03T15:33:44.207Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "尖沙咀血案｜12人落網半數獲准保釋　勝和左口被控謀殺　周二提堂",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260801/1160265172011454464980341.png/EB5MG1ijeyzdAHUbiKd0S7l1CWfHATlFn9xcqJ_cXKg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60375806/%E9%85%92%E6%A8%93%E6%94%B9%E7%94%A8%E9%A0%90%E8%A3%BD%E9%BB%9E%E5%BF%83-10%E5%B9%B4%E7%B6%93%E9%A9%97%E9%BB%9E%E5%BF%83%E5%B8%AB%E5%82%85%E6%81%90%E5%A4%B1%E6%A5%AD-%E6%9B%9D%E8%96%AA%E9%87%91%E8%A6%81%E6%B1%82-%E5%A5%BD%E5%BE%AC%E5%BE%A8",
     "timestamp": "2026-08-02T16:55:17.694Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "大灣區武狀元大賽逾800人次參加　港代表多個項目獲佳績",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260802/1160735818478784512821630.jpeg/0mhodkPyHFErr3PbyURa-MrcVYTmAr88efeU6nn3lOo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60376119/%E5%A4%A7%E7%81%A3%E5%8D%80%E6%AD%A6%E7%8B%80%E5%85%83%E5%A4%A7%E8%B3%BD%E9%80%BE800%E4%BA%BA%E6%AC%A1%E5%8F%83%E5%8A%A0-%E6%B8%AF%E4%BB%A3%E8%A1%A8%E5%A4%9A%E5%80%8B%E9%A0%85%E7%9B%AE%E7%8D%B2%E4%BD%B3%E7%B8%BE",
-    "timestamp": "2026-08-02T16:28:33.214Z",
     "strategy": ".content-card__main"
   }
 ];
