@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-03T09:21:59.668Z
+// Last updated: 2026-08-03T12:10:49.474Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "蜘蛛俠英雄重生｜Jon Bernthal湯賀蘭互挺10年　兄弟情感動影迷",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260803/1161011454611034112216047.jpeg/fyIfNz_QiH-Sl1kDyQFTSd6G2_1z2qhGSgWbGkoFmxo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60376413/%E8%9C%98%E8%9B%9B%E4%BF%A0%E8%8B%B1%E9%9B%84%E9%87%8D%E7%94%9F-jon-bernthal%E6%B9%AF%E8%B3%80%E8%98%AD%E4%BA%92%E6%8C%BA10%E5%B9%B4-%E5%85%84%E5%BC%9F%E6%83%85%E6%84%9F%E5%8B%95%E5%BD%B1%E8%BF%B7",
+    "timestamp": "2026-08-03T12:10:49.474Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "血友病治療現突破   病患男生從絕望走向新生",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260802/1160712679057264640685490.jpeg/5DJBXGl-cEP59bujKn3UO9Aq7ge36Q-L_VV94f1VfeE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60376115/%E5%A4%A9%E6%96%87%E5%8F%B0%E6%96%99%E7%86%B1%E5%B8%B6%E4%BD%8E%E6%B0%A3%E5%A3%93%E7%99%BB%E9%99%B8%E5%91%82%E5%AE%8B%E5%BE%8C%E8%A2%AB%E6%89%AF%E5%9B%9E%E8%8F%B2%E4%BB%A5%E6%9D%B1%E6%B5%B7%E5%9F%9F-%E5%8F%B0%E7%81%A3%E9%A0%90%E6%B8%AC%E5%85%A5%E5%8D%97%E6%B5%B7",
     "timestamp": "2026-08-02T15:56:38.845Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "將軍澳45歲男家中暈倒　朋友揭發惜太遲",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260730/1159548192031772672326184.jpeg/AMhlhkWv3-C_B3KT5T_TrXMWZG6BhD1ewph0M8KYdDM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60376116/%E5%B0%87%E8%BB%8D%E6%BE%B345%E6%AD%B2%E7%94%B7%E5%AE%B6%E4%B8%AD%E6%9A%88%E5%80%92-%E6%9C%8B%E5%8F%8B%E6%8F%AD%E7%99%BC%E6%83%9C%E5%A4%AA%E9%81%B2",
-    "timestamp": "2026-08-02T15:31:10.593Z",
     "strategy": ".content-card__main"
   }
 ];
