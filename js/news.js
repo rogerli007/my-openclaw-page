@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-03T22:34:12.851Z
+// Last updated: 2026-08-03T23:58:20.630Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美國25州入稟控特朗普政府　向60經濟體加徵301關稅涉違法",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250927/1048397208510009344123406.jpeg/f6X4t6TTyzFee-lx_TzubWcxO6XYMTeNkew0WJHsNFg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60376498/%E7%BE%8E%E5%9C%8B25%E5%B7%9E%E5%85%A5%E7%A8%9F%E6%8E%A7%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C-%E5%90%9160%E7%B6%93%E6%BF%9F%E9%AB%94%E5%8A%A0%E5%BE%B5301%E9%97%9C%E7%A8%85%E6%B6%89%E9%81%95%E6%B3%95",
+    "timestamp": "2026-08-03T23:58:20.630Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "視后淚崩自責為事業忽略亡母　留遺憾成離巢導火線：想修正自己",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260803/1160806113784893440306182.jpeg/Y_iHdSBi45Ix5Qb9TNWl3oT8IxK1x0bDht8VfYbfFX0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60376133/%E5%93%88%E9%A6%AC%E6%96%AF-%E4%BB%A5%E8%BB%8D%E7%BA%8C%E8%A5%B2%E5%8A%A0%E6%B2%99%E9%A1%AF%E7%A4%BA%E7%84%A1%E6%84%8F%E9%81%94%E5%8D%94%E8%AD%B0-%E4%BB%A5%E8%89%B2%E5%88%97-%E8%B3%AA%E7%96%91%E7%B9%B3%E6%A2%B0%E6%89%BF%E8%AB%BE",
     "timestamp": "2026-08-02T21:25:11.850Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "荃灣單位遭爆竊　損失逾10萬財物　警刑事調查隊跟進",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250808/1030504544536104960368415.jpeg/mRdm2tmHaV9V-4ntdIUtgCuf8tG0pjAU0rwrVNK8K1Q?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60376130/%E8%8D%83%E7%81%A3%E5%96%AE%E4%BD%8D%E9%81%AD%E7%88%86%E7%AB%8A-%E6%90%8D%E5%A4%B1%E9%80%BE10%E8%90%AC%E8%B2%A1%E7%89%A9-%E8%AD%A6%E5%88%91%E4%BA%8B%E8%AA%BF%E6%9F%A5%E9%9A%8A%E8%B7%9F%E9%80%B2",
-    "timestamp": "2026-08-02T20:54:13.200Z",
     "strategy": ".content-card__main"
   }
 ];
