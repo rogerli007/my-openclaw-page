@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-03T18:15:35.435Z
+// Last updated: 2026-08-03T19:39:08.554Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "上水嘉福邨33歲男子家中暈倒　胞妹發現惜太遲",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260803/1160872710838947840512064.jpeg/HWJ9VSicuirqSAkY7vrvylvNf2sGDjsLWaE-q1mhPqs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60376482/%E4%B8%8A%E6%B0%B4%E5%98%89%E7%A6%8F%E9%82%A833%E6%AD%B2%E7%94%B7%E5%AD%90%E5%AE%B6%E4%B8%AD%E6%9A%88%E5%80%92-%E8%83%9E%E5%A6%B9%E7%99%BC%E7%8F%BE%E6%83%9C%E5%A4%AA%E9%81%B2",
+    "timestamp": "2026-08-03T19:39:08.554Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "日本熊本縣錄得逾40度高溫　震後仍約4.5萬戶停水",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260325/1113544700700135424375198.jpeg/0OYgVxi1QwZEuCl5NFFBgxGpqb4G-stJQ6-hqkOvoao?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60376126/%E4%BC%8A%E6%9C%97-%E8%88%87%E9%98%BF%E6%9B%BC%E5%95%86%E9%9C%8D%E7%88%BE%E6%9C%A8%E8%8C%B2%E6%B5%B7%E5%B3%BD%E8%88%AA%E9%81%8B%E6%A9%9F%E5%88%B6-%E8%AB%87%E5%88%A4%E6%8E%A5%E8%BF%91%E5%AE%8C%E6%88%90",
     "timestamp": "2026-08-02T18:55:23.248Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "巴基斯坦自殺式炸彈襲擊　至少14死26人傷",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260803/1160758278578245632834715.png/qqsp1E2r-8IojRihO79VVwpYTkTtWY-yNgcm7zYHJu8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60376121/%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E8%87%AA%E6%AE%BA%E5%BC%8F%E7%82%B8%E5%BD%88%E8%A5%B2%E6%93%8A-%E8%87%B3%E5%B0%9114%E6%AD%BB26%E4%BA%BA%E5%82%B7",
-    "timestamp": "2026-08-02T17:54:56.849Z",
     "strategy": ".content-card__main"
   }
 ];
