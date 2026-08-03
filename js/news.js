@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-03T12:10:49.474Z
+// Last updated: 2026-08-03T14:26:59.825Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "尖沙咀血案｜12人落網半數獲准保釋　勝和左口被控謀殺　周二提堂",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260802/1160637751859613696675321.jpeg/MYXqg8dkR3tQXV0b1eav2jSS2uOpw6G-rW1kJq1tZCY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60376445/%E5%B0%96%E6%B2%99%E5%92%80%E8%A1%80%E6%A1%88-12%E4%BA%BA%E8%90%BD%E7%B6%B2%E5%8D%8A%E6%95%B8%E7%8D%B2%E5%87%86%E4%BF%9D%E9%87%8B-%E5%8B%9D%E5%92%8C%E5%B7%A6%E5%8F%A3%E8%A2%AB%E6%8E%A7%E8%AC%80%E6%AE%BA-%E5%91%A8%E4%BA%8C%E6%8F%90%E5%A0%82",
+    "timestamp": "2026-08-03T14:26:59.825Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "蜘蛛俠英雄重生｜Jon Bernthal湯賀蘭互挺10年　兄弟情感動影迷",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260802/1160735818478784512821630.jpeg/0mhodkPyHFErr3PbyURa-MrcVYTmAr88efeU6nn3lOo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60376119/%E5%A4%A7%E7%81%A3%E5%8D%80%E6%AD%A6%E7%8B%80%E5%85%83%E5%A4%A7%E8%B3%BD%E9%80%BE800%E4%BA%BA%E6%AC%A1%E5%8F%83%E5%8A%A0-%E6%B8%AF%E4%BB%A3%E8%A1%A8%E5%A4%9A%E5%80%8B%E9%A0%85%E7%9B%AE%E7%8D%B2%E4%BD%B3%E7%B8%BE",
     "timestamp": "2026-08-02T16:28:33.214Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "天文台料熱帶低氣壓登陸呂宋後被扯回菲以東海域　台灣預測入南海",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260802/1160712679057264640685490.jpeg/5DJBXGl-cEP59bujKn3UO9Aq7ge36Q-L_VV94f1VfeE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60376115/%E5%A4%A9%E6%96%87%E5%8F%B0%E6%96%99%E7%86%B1%E5%B8%B6%E4%BD%8E%E6%B0%A3%E5%A3%93%E7%99%BB%E9%99%B8%E5%91%82%E5%AE%8B%E5%BE%8C%E8%A2%AB%E6%89%AF%E5%9B%9E%E8%8F%B2%E4%BB%A5%E6%9D%B1%E6%B5%B7%E5%9F%9F-%E5%8F%B0%E7%81%A3%E9%A0%90%E6%B8%AC%E5%85%A5%E5%8D%97%E6%B5%B7",
-    "timestamp": "2026-08-02T15:56:38.845Z",
     "strategy": ".content-card__main"
   }
 ];
