@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-02T23:54:59.307Z
+// Last updated: 2026-08-03T02:45:47.704Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "歐洲山火｜希臘兩架消防直升機相撞釀2死　總理：深切哀悼｜有片",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260803/1160893396395495424517024.png/6o5NMWIwB8wpQ82Jew2gDS8d5_SyQLgnV9fMJFfXzCQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60376168/%E6%AD%90%E6%B4%B2%E5%B1%B1%E7%81%AB-%E5%B8%8C%E8%87%98%E5%85%A9%E6%9E%B6%E6%B6%88%E9%98%B2%E7%9B%B4%E5%8D%87%E6%A9%9F%E7%9B%B8%E6%92%9E%E9%87%802%E6%AD%BB-%E7%B8%BD%E7%90%86-%E6%B7%B1%E5%88%87%E5%93%80%E6%82%BC-%E6%9C%89%E7%89%87",
+    "timestamp": "2026-08-03T02:45:47.704Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "伊朗戰爭海灣入場・三｜呼叫巴基斯坦幫忙　為何科威特也抓狂？",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260802/1160596110901776384137698.jpeg/141RjjaQ-PtJcfDK7zZKwW9tlixpnvVt6AbDMugGwzI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60376015/%E6%84%9B%E5%9B%9E%E5%AE%B6-%E5%91%A8%E5%98%89%E6%B4%9B%E6%9E%97%E5%87%B1%E6%81%A9%E4%B8%96%E7%B4%80%E4%B9%8B%E5%90%BB%E5%BE%8C%E5%81%87%E7%B5%90%E5%A9%9A-%E5%90%8C%E5%BA%8A%E5%B0%8D%E8%A6%96%E6%94%BE%E9%96%83%E7%94%9C%E7%88%86%E7%B6%B2%E6%B0%91",
     "timestamp": "2026-08-02T13:39:45.448Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "葵涌打磚坪街爆水管　水務署完成搶修　寶星中心晚上8時恢復供水",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260802/1160571456032083968639210.jpeg/DbO7q4fgVIEE5q93mA8S9bMNabOT7w4GvbsEI727BCM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60376003/%E8%91%B5%E6%B6%8C%E6%89%93%E7%A3%9A%E5%9D%AA%E8%A1%97%E7%88%86%E6%B0%B4%E7%AE%A1-%E6%B0%B4%E5%8B%99%E7%BD%B2%E5%AE%8C%E6%88%90%E6%90%B6%E4%BF%AE-%E5%AF%B6%E6%98%9F%E4%B8%AD%E5%BF%83%E6%99%9A%E4%B8%8A8%E6%99%82%E6%81%A2%E5%BE%A9%E4%BE%9B%E6%B0%B4",
-    "timestamp": "2026-08-02T13:01:54.288Z",
     "strategy": ".content-card__main"
   }
 ];
