@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-03T15:33:44.207Z
+// Last updated: 2026-08-03T16:28:24.764Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "特朗普斥伊朗領導層虛偽至極　私下要求談判但公然否認",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260722/1156406277413277696351946.jpeg/YzcD9hQ-4zZjeAnXXv5Wgr0KeaBbT9yGsOU8qLDlPKg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60376473/%E7%89%B9%E6%9C%97%E6%99%AE%E6%96%A5%E4%BC%8A%E6%9C%97%E9%A0%98%E5%B0%8E%E5%B1%A4%E8%99%9B%E5%81%BD%E8%87%B3%E6%A5%B5-%E7%A7%81%E4%B8%8B%E8%A6%81%E6%B1%82%E8%AB%87%E5%88%A4%E4%BD%86%E5%85%AC%E7%84%B6%E5%90%A6%E8%AA%8D",
+    "timestamp": "2026-08-03T16:28:24.764Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美股｜Amazon早段曾漲逾半成　市值首度突破3萬億美元",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260801/1160265172011454464980341.png/EB5MG1ijeyzdAHUbiKd0S7l1CWfHATlFn9xcqJ_cXKg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60375806/%E9%85%92%E6%A8%93%E6%94%B9%E7%94%A8%E9%A0%90%E8%A3%BD%E9%BB%9E%E5%BF%83-10%E5%B9%B4%E7%B6%93%E9%A9%97%E9%BB%9E%E5%BF%83%E5%B8%AB%E5%82%85%E6%81%90%E5%A4%B1%E6%A5%AD-%E6%9B%9D%E8%96%AA%E9%87%91%E8%A6%81%E6%B1%82-%E5%A5%BD%E5%BE%AC%E5%BE%A8",
     "timestamp": "2026-08-02T17:28:53.475Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "酒樓改用預製點心　10年經驗點心師傅恐失業　曝薪金要求：好徬徨",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260801/1160265172011454464980341.png/EB5MG1ijeyzdAHUbiKd0S7l1CWfHATlFn9xcqJ_cXKg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60375806/%E9%85%92%E6%A8%93%E6%94%B9%E7%94%A8%E9%A0%90%E8%A3%BD%E9%BB%9E%E5%BF%83-10%E5%B9%B4%E7%B6%93%E9%A9%97%E9%BB%9E%E5%BF%83%E5%B8%AB%E5%82%85%E6%81%90%E5%A4%B1%E6%A5%AD-%E6%9B%9D%E8%96%AA%E9%87%91%E8%A6%81%E6%B1%82-%E5%A5%BD%E5%BE%AC%E5%BE%A8",
-    "timestamp": "2026-08-02T16:55:17.694Z",
     "strategy": ".content-card__main"
   }
 ];
