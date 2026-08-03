@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-03T20:22:11.964Z
+// Last updated: 2026-08-03T22:00:09.416Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美國環孢子蟲病疫情擴大　密歇根州兩人死亡成首例",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250209/965073739597221888759621.jpeg/C1t3o0_WThvTBVdcK6wOASZGlT25byhlhRv0tIUb9LQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60376493/%E7%BE%8E%E5%9C%8B%E7%92%B0%E5%AD%A2%E5%AD%90%E8%9F%B2%E7%97%85%E7%96%AB%E6%83%85%E6%93%B4%E5%A4%A7-%E5%AF%86%E6%AD%87%E6%A0%B9%E5%B7%9E%E5%85%A9%E4%BA%BA%E6%AD%BB%E4%BA%A1%E6%88%90%E9%A6%96%E4%BE%8B",
+    "timestamp": "2026-08-03T22:00:09.416Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "屯門青山公路爆水管　青山灣段部份行車線全線封閉　預計週三重開",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250808/1030504544536104960368415.jpeg/mRdm2tmHaV9V-4ntdIUtgCuf8tG0pjAU0rwrVNK8K1Q?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60376130/%E8%8D%83%E7%81%A3%E5%96%AE%E4%BD%8D%E9%81%AD%E7%88%86%E7%AB%8A-%E6%90%8D%E5%A4%B1%E9%80%BE10%E8%90%AC%E8%B2%A1%E7%89%A9-%E8%AD%A6%E5%88%91%E4%BA%8B%E8%AA%BF%E6%9F%A5%E9%9A%8A%E8%B7%9F%E9%80%B2",
     "timestamp": "2026-08-02T20:03:20.715Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "荃灣單位遭爆竊　損失逾10萬財物　警刑事調查隊跟進",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250808/1030504544536104960368415.jpeg/mRdm2tmHaV9V-4ntdIUtgCuf8tG0pjAU0rwrVNK8K1Q?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60376130/%E8%8D%83%E7%81%A3%E5%96%AE%E4%BD%8D%E9%81%AD%E7%88%86%E7%AB%8A-%E6%90%8D%E5%A4%B1%E9%80%BE10%E8%90%AC%E8%B2%A1%E7%89%A9-%E8%AD%A6%E5%88%91%E4%BA%8B%E8%AA%BF%E6%9F%A5%E9%9A%8A%E8%B7%9F%E9%80%B2",
-    "timestamp": "2026-08-02T19:33:26.943Z",
     "strategy": ".content-card__main"
   }
 ];
