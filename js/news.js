@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-03T02:45:47.704Z
+// Last updated: 2026-08-03T06:45:14.883Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "網球｜黃澤林世界排名首度晉身男單百大　再創香港網壇歷史新一頁",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260803/1160954944430280704389760.jpeg/cTQi6b0AXfMolADJknibQz04WiznccXuXmEPBl5hDwY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60376265/%E7%B6%B2%E7%90%83-%E9%BB%83%E6%BE%A4%E6%9E%97%E4%B8%96%E7%95%8C%E6%8E%92%E5%90%8D%E9%A6%96%E5%BA%A6%E6%99%89%E8%BA%AB%E7%94%B7%E5%96%AE%E7%99%BE%E5%A4%A7-%E5%86%8D%E5%89%B5%E9%A6%99%E6%B8%AF%E7%B6%B2%E5%A3%87%E6%AD%B7%E5%8F%B2%E6%96%B0%E4%B8%80%E9%A0%81",
+    "timestamp": "2026-08-03T06:45:14.883Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "歐洲山火｜希臘兩架消防直升機相撞釀2死　總理：深切哀悼｜有片",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260802/1160550294577221632485719.jpeg/YYahBG8YC9-PiY2HsmXES2CrjXfBKdQFviteYJsrXmA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60376099/%E5%A4%A7%E7%BE%8E%E7%9D%A3%E4%B8%89%E9%A0%85%E9%90%B5%E4%BA%BA%E8%B3%BD%E9%81%87%E6%BA%BA-%E6%AD%BB%E8%80%85%E5%AF%8C%E8%B3%BD%E4%BA%8B%E7%B6%93%E9%A9%97-%E5%AD%B8%E8%80%85-%E6%88%96%E5%BF%83%E8%87%9F%E5%87%BA%E4%BA%8B",
     "timestamp": "2026-08-02T14:21:03.164Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "愛回家丨周嘉洛林凱恩世紀之吻後假結婚　同床對視放閃甜爆網民",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260802/1160596110901776384137698.jpeg/141RjjaQ-PtJcfDK7zZKwW9tlixpnvVt6AbDMugGwzI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60376015/%E6%84%9B%E5%9B%9E%E5%AE%B6-%E5%91%A8%E5%98%89%E6%B4%9B%E6%9E%97%E5%87%B1%E6%81%A9%E4%B8%96%E7%B4%80%E4%B9%8B%E5%90%BB%E5%BE%8C%E5%81%87%E7%B5%90%E5%A9%9A-%E5%90%8C%E5%BA%8A%E5%B0%8D%E8%A6%96%E6%94%BE%E9%96%83%E7%94%9C%E7%88%86%E7%B6%B2%E6%B0%91",
-    "timestamp": "2026-08-02T13:39:45.448Z",
     "strategy": ".content-card__main"
   }
 ];
