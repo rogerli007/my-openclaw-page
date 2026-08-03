@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-03T06:45:14.883Z
+// Last updated: 2026-08-03T08:00:45.078Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "2026年8月iPhone回收價｜41款舊機先達跌勢回穩 附官方Trade-in價",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260803/1160977086958014464374826.png/RAL7rjqy1j4Pk9Nf0sK02jZ0P8OihLf2sf0gCrH9IAo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60275394/iphone%E5%9B%9E%E6%94%B6%E5%83%B92026%E5%B9%B47%E6%9C%88%E6%9B%B4%E6%96%B0-41%E6%AC%BE%E4%BA%8C%E6%89%8B%E8%88%8A%E6%A9%9Ftrade-in%E5%83%B9%E5%85%88%E9%81%94%E5%83%B9%E6%95%B4%E7%90%86",
+    "timestamp": "2026-08-03T08:00:45.078Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "網球｜黃澤林世界排名首度晉身男單百大　再創香港網壇歷史新一頁",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260802/1160709856907235328015784.jpeg/geCmAVGI8yhV5wz0Gvo4it7TYQemlhY-oxKlu6MSpbs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60376105/%E8%B2%93%E8%BF%B7%E5%8D%9A%E8%A6%BD%E6%9C%83-3%E6%97%A5%E5%85%A5%E5%A0%B4%E4%BA%BA%E6%AC%A1%E9%81%9422%E8%90%AC-%E6%9C%89%E5%B1%95%E5%95%86%E6%8C%87%E5%8F%83%E5%B1%95%E9%A6%96%E6%97%A5%E5%B7%B2%E5%9B%9E%E6%9C%AC",
     "timestamp": "2026-08-02T14:59:54.033Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "大美督三項鐵人賽遇溺｜死者富賽事經驗　學者：或心臟出事",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260802/1160550294577221632485719.jpeg/YYahBG8YC9-PiY2HsmXES2CrjXfBKdQFviteYJsrXmA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60376099/%E5%A4%A7%E7%BE%8E%E7%9D%A3%E4%B8%89%E9%A0%85%E9%90%B5%E4%BA%BA%E8%B3%BD%E9%81%87%E6%BA%BA-%E6%AD%BB%E8%80%85%E5%AF%8C%E8%B3%BD%E4%BA%8B%E7%B6%93%E9%A9%97-%E5%AD%B8%E8%80%85-%E6%88%96%E5%BF%83%E8%87%9F%E5%87%BA%E4%BA%8B",
-    "timestamp": "2026-08-02T14:21:03.164Z",
     "strategy": ".content-card__main"
   }
 ];
