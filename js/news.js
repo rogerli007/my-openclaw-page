@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-04T15:38:37.273Z
+// Last updated: 2026-08-04T17:13:07.545Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "日韓熱浪｜韓國高溫已致19人死亡　總統李在明列國家災難",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260725/1157631018966978560508342.jpeg/buMoR_ypOszwHEW7JIpBITXsT2jFwGSMDssMBQ7LDAU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60376858/%E6%97%A5%E9%9F%93%E7%86%B1%E6%B5%AA-%E9%9F%93%E5%9C%8B%E9%AB%98%E6%BA%AB%E5%B7%B2%E8%87%B419%E4%BA%BA%E6%AD%BB%E4%BA%A1-%E7%B8%BD%E7%B5%B1%E6%9D%8E%E5%9C%A8%E6%98%8E%E5%88%97%E5%9C%8B%E5%AE%B6%E7%81%BD%E9%9B%A3",
+    "timestamp": "2026-08-04T17:13:07.545Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "為養家演大尺度戲還被逼陪酒！韓劇新星金世仁隱退13年轉做外賣員",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260803/1161011454611034112216047.jpeg/fyIfNz_QiH-Sl1kDyQFTSd6G2_1z2qhGSgWbGkoFmxo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60376413/%E8%9C%98%E8%9B%9B%E4%BF%A0%E8%8B%B1%E9%9B%84%E9%87%8D%E7%94%9F-jon-bernthal%E6%B9%AF%E8%B3%80%E8%98%AD%E4%BA%92%E6%8C%BA10%E5%B9%B4-%E5%85%84%E5%BC%9F%E6%83%85%E6%84%9F%E5%8B%95%E5%BD%B1%E8%BF%B7",
     "timestamp": "2026-08-03T12:10:49.474Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "血友病治療現突破   病患男生從絕望走向新生",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260803/1160935019733061632472016.png/MoWrsWPtsw4luF8Kp5EHu5kjMq4FUj0CjJSCnIyUgpw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/60376221/%E8%A1%80%E5%8F%8B%E7%97%85%E6%B2%BB%E7%99%82%E7%8F%BE%E7%AA%81%E7%A0%B4-%E7%97%85%E6%82%A3%E7%94%B7%E7%94%9F%E5%BE%9E%E7%B5%95%E6%9C%9B%E8%B5%B0%E5%90%91%E6%96%B0%E7%94%9F",
-    "timestamp": "2026-08-03T09:21:59.668Z",
     "strategy": ".content-card__main"
   }
 ];
