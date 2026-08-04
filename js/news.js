@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-04T23:15:57.411Z
+// Last updated: 2026-08-04T23:42:10.578Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "方信雄談海峽危機・二｜除了伊朗美國爭奪航道　港口也是關鍵？",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260513/1131205335982280704167405.jpeg/CAaxuCgUgGwITNLWJEjnqkkTG0vrQS02PwpPrj8KT64?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%9C%8B%E9%9A%9B%E5%88%86%E6%9E%90/60376863/%E6%96%B9%E4%BF%A1%E9%9B%84%E8%AB%87%E6%B5%B7%E5%B3%BD%E5%8D%B1%E6%A9%9F-%E4%BA%8C-%E9%99%A4%E4%BA%86%E4%BC%8A%E6%9C%97%E7%BE%8E%E5%9C%8B%E7%88%AD%E5%A5%AA%E8%88%AA%E9%81%93-%E6%B8%AF%E5%8F%A3%E4%B9%9F%E6%98%AF%E9%97%9C%E9%8D%B5",
+    "timestamp": "2026-08-04T23:42:10.578Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "澳洲華人一家3口命喪火海　祖母目擊至親被困　圖衝入火場終被阻",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250209/965073739597221888759621.jpeg/C1t3o0_WThvTBVdcK6wOASZGlT25byhlhRv0tIUb9LQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60376493/%E7%BE%8E%E5%9C%8B%E7%92%B0%E5%AD%A2%E5%AD%90%E8%9F%B2%E7%97%85%E7%96%AB%E6%83%85%E6%93%B4%E5%A4%A7-%E5%AF%86%E6%AD%87%E6%A0%B9%E5%B7%9E%E5%85%A9%E4%BA%BA%E6%AD%BB%E4%BA%A1%E6%88%90%E9%A6%96%E4%BE%8B",
     "timestamp": "2026-08-03T22:00:09.416Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "屯門青山公路爆水管　青山灣段部份行車線全線封閉　預計週三重開",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260804/1161154894791446528830156.png/klipXGofdm0HAVVDked8loeaK7JcoS-YY_-qk2P_qpM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60376487/%E5%B1%AF%E9%96%80%E9%9D%92%E5%B1%B1%E5%85%AC%E8%B7%AF%E7%88%86%E6%B0%B4%E7%AE%A1-%E9%9D%92%E5%B1%B1%E7%81%A3%E6%AE%B5%E9%83%A8%E4%BB%BD%E8%A1%8C%E8%BB%8A%E7%B7%9A%E5%85%A8%E7%B7%9A%E5%B0%81%E9%96%89-%E9%A0%90%E8%A8%88%E9%80%B1%E4%B8%89%E9%87%8D%E9%96%8B",
-    "timestamp": "2026-08-03T20:22:11.964Z",
     "strategy": ".content-card__main"
   }
 ];
