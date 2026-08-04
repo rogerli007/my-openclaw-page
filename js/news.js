@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-04T09:19:28.797Z
+// Last updated: 2026-08-04T13:42:08.653Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "中國罵人的藝術：曾被視為「極道德」行為　有10大鐵律精練如兵法",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260803/1160897506167492608285734.jpeg/8-qb8cn2FAFsA_ts76p0_8crVpaf4mvPZTbnyGU258g?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60376163/%E4%B8%AD%E5%9C%8B%E7%BD%B5%E4%BA%BA%E7%9A%84%E8%97%9D%E8%A1%93-%E6%9B%BE%E8%A2%AB%E8%A6%96%E7%82%BA-%E6%A5%B5%E9%81%93%E5%BE%B7-%E8%A1%8C%E7%82%BA-%E6%9C%8910%E5%A4%A7%E9%90%B5%E5%BE%8B%E7%B2%BE%E7%B7%B4%E5%A6%82%E5%85%B5%E6%B3%95",
+    "timestamp": "2026-08-04T13:42:08.653Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "颱風白海豚｜8.6至8.8香港快運往返沖繩石垣航班取消　8.5加開1班",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260803/1160977086958014464374826.png/RAL7rjqy1j4Pk9Nf0sK02jZ0P8OihLf2sf0gCrH9IAo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60275394/iphone%E5%9B%9E%E6%94%B6%E5%83%B92026%E5%B9%B47%E6%9C%88%E6%9B%B4%E6%96%B0-41%E6%AC%BE%E4%BA%8C%E6%89%8B%E8%88%8A%E6%A9%9Ftrade-in%E5%83%B9%E5%85%88%E9%81%94%E5%83%B9%E6%95%B4%E7%90%86",
     "timestamp": "2026-08-03T08:00:45.078Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "網球｜黃澤林世界排名首度晉身男單百大　再創香港網壇歷史新一頁",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260803/1160954944430280704389760.jpeg/cTQi6b0AXfMolADJknibQz04WiznccXuXmEPBl5hDwY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60376265/%E7%B6%B2%E7%90%83-%E9%BB%83%E6%BE%A4%E6%9E%97%E4%B8%96%E7%95%8C%E6%8E%92%E5%90%8D%E9%A6%96%E5%BA%A6%E6%99%89%E8%BA%AB%E7%94%B7%E5%96%AE%E7%99%BE%E5%A4%A7-%E5%86%8D%E5%89%B5%E9%A6%99%E6%B8%AF%E7%B6%B2%E5%A3%87%E6%AD%B7%E5%8F%B2%E6%96%B0%E4%B8%80%E9%A0%81",
-    "timestamp": "2026-08-03T06:45:14.883Z",
     "strategy": ".content-card__main"
   }
 ];
