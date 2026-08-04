@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-04T13:42:08.653Z
+// Last updated: 2026-08-04T15:38:37.273Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "為養家演大尺度戲還被逼陪酒！韓劇新星金世仁隱退13年轉做外賣員",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260804/1161325205314867200237508.png/BtVmd5PZQNIPpbPO5PJTQJYydO_OmwS5F4P0KReD9Ck?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60376645/%E7%82%BA%E9%A4%8A%E5%AE%B6%E6%BC%94%E5%A4%A7%E5%B0%BA%E5%BA%A6%E6%88%B2%E9%82%84%E8%A2%AB%E9%80%BC%E9%99%AA%E9%85%92-%E9%9F%93%E5%8A%87%E6%96%B0%E6%98%9F%E9%87%91%E4%B8%96%E4%BB%81%E9%9A%B1%E9%80%8013%E5%B9%B4%E8%BD%89%E5%81%9A%E5%A4%96%E8%B3%A3%E5%93%A1",
+    "timestamp": "2026-08-04T15:38:37.273Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "中國罵人的藝術：曾被視為「極道德」行為　有10大鐵律精練如兵法",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260803/1160935019733061632472016.png/MoWrsWPtsw4luF8Kp5EHu5kjMq4FUj0CjJSCnIyUgpw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/60376221/%E8%A1%80%E5%8F%8B%E7%97%85%E6%B2%BB%E7%99%82%E7%8F%BE%E7%AA%81%E7%A0%B4-%E7%97%85%E6%82%A3%E7%94%B7%E7%94%9F%E5%BE%9E%E7%B5%95%E6%9C%9B%E8%B5%B0%E5%90%91%E6%96%B0%E7%94%9F",
     "timestamp": "2026-08-03T09:21:59.668Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "2026年8月iPhone回收價｜41款舊機先達跌勢回穩 附官方Trade-in價",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260803/1160977086958014464374826.png/RAL7rjqy1j4Pk9Nf0sK02jZ0P8OihLf2sf0gCrH9IAo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60275394/iphone%E5%9B%9E%E6%94%B6%E5%83%B92026%E5%B9%B47%E6%9C%88%E6%9B%B4%E6%96%B0-41%E6%AC%BE%E4%BA%8C%E6%89%8B%E8%88%8A%E6%A9%9Ftrade-in%E5%83%B9%E5%85%88%E9%81%94%E5%83%B9%E6%95%B4%E7%90%86",
-    "timestamp": "2026-08-03T08:00:45.078Z",
     "strategy": ".content-card__main"
   }
 ];
