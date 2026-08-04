@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-04T17:59:04.569Z
+// Last updated: 2026-08-04T18:41:07.039Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "西貢男子浮潛捉蟹失蹤影　同伴擔心安危報案　救援人員到場證誤會",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260805/1161498452648005632271935.jpeg/MCii4qU0TO3iVrpj6Kzsx0G-f7mprhdUySv1XfMr9V0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60376862/%E8%A5%BF%E8%B2%A2%E7%94%B7%E5%AD%90%E6%B5%AE%E6%BD%9B%E6%8D%89%E8%9F%B9%E5%A4%B1%E8%B9%A4%E5%BD%B1-%E5%90%8C%E4%BC%B4%E6%93%94%E5%BF%83%E5%AE%89%E5%8D%B1%E5%A0%B1%E6%A1%88-%E6%95%91%E6%8F%B4%E4%BA%BA%E5%93%A1%E5%88%B0%E5%A0%B4%E8%AD%89%E8%AA%A4%E6%9C%83",
+    "timestamp": "2026-08-04T18:41:07.039Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "慶祝大熊貓生日　主題電車及巴士萌爆全城　銅鑼灣開期間限定店",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20240627/882817592920641536140896.jpeg/bj4FS8sHts_LqPIhek2gfmV8Y87bzZRjJtfY0SbX2NE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60376470/%E7%BE%8E%E8%82%A1-amazon%E6%97%A9%E6%AE%B5%E6%9B%BE%E6%BC%B2%E9%80%BE%E5%8D%8A%E6%88%90-%E5%B8%82%E5%80%BC%E9%A6%96%E5%BA%A6%E7%AA%81%E7%A0%B43%E8%90%AC%E5%84%84%E7%BE%8E%E5%85%83",
     "timestamp": "2026-08-03T15:33:44.207Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "尖沙咀血案｜12人落網半數獲准保釋　勝和左口被控謀殺　周二提堂",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260802/1160637751859613696675321.jpeg/MYXqg8dkR3tQXV0b1eav2jSS2uOpw6G-rW1kJq1tZCY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60376445/%E5%B0%96%E6%B2%99%E5%92%80%E8%A1%80%E6%A1%88-12%E4%BA%BA%E8%90%BD%E7%B6%B2%E5%8D%8A%E6%95%B8%E7%8D%B2%E5%87%86%E4%BF%9D%E9%87%8B-%E5%8B%9D%E5%92%8C%E5%B7%A6%E5%8F%A3%E8%A2%AB%E6%8E%A7%E8%AC%80%E6%AE%BA-%E5%91%A8%E4%BA%8C%E6%8F%90%E5%A0%82",
-    "timestamp": "2026-08-03T14:26:59.825Z",
     "strategy": ".content-card__main"
   }
 ];
