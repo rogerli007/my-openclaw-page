@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-04T21:48:41.724Z
+// Last updated: 2026-08-04T22:46:48.992Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "馬灣珀麗灣天花批盪剝落　直墮行人通道　網民：幸好冇人經過",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260805/1161559741520941056902173.jpeg/hegBei9SrDORSxmAGNcKT_uUARmri7yfGVJTLBlSUyw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60376886/%E9%A6%AC%E7%81%A3%E7%8F%80%E9%BA%97%E7%81%A3%E5%A4%A9%E8%8A%B1%E6%89%B9%E7%9B%AA%E5%89%9D%E8%90%BD-%E7%9B%B4%E5%A2%AE%E8%A1%8C%E4%BA%BA%E9%80%9A%E9%81%93-%E7%B6%B2%E6%B0%91-%E5%B9%B8%E5%A5%BD%E5%86%87%E4%BA%BA%E7%B6%93%E9%81%8E",
+    "timestamp": "2026-08-04T22:46:48.992Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "內塔尼亞胡：在哈馬斯完全解除武裝前　以軍不會撤出加沙",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260803/1160872710838947840512064.jpeg/HWJ9VSicuirqSAkY7vrvylvNf2sGDjsLWaE-q1mhPqs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60376482/%E4%B8%8A%E6%B0%B4%E5%98%89%E7%A6%8F%E9%82%A833%E6%AD%B2%E7%94%B7%E5%AD%90%E5%AE%B6%E4%B8%AD%E6%9A%88%E5%80%92-%E8%83%9E%E5%A6%B9%E7%99%BC%E7%8F%BE%E6%83%9C%E5%A4%AA%E9%81%B2",
     "timestamp": "2026-08-03T19:39:08.554Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "日本熊本縣錄得逾40度高溫　震後仍約4.5萬戶停水",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260804/1161125998410862592153768.jpeg/murWfTS7rjNeUHLN_ryq0dcVKoOxRnoaAPZ18QD2dfE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60376479/%E6%97%A5%E6%9C%AC%E7%86%8A%E6%9C%AC%E7%B8%A3%E9%8C%84%E5%BE%97%E9%80%BE40%E5%BA%A6%E9%AB%98%E6%BA%AB-%E9%9C%87%E5%BE%8C%E4%BB%8D%E7%B4%844-5%E8%90%AC%E6%88%B6%E5%81%9C%E6%B0%B4",
-    "timestamp": "2026-08-03T18:15:35.435Z",
     "strategy": ".content-card__main"
   }
 ];
