@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-04T17:13:07.545Z
+// Last updated: 2026-08-04T17:59:04.569Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "慶祝大熊貓生日　主題電車及巴士萌爆全城　銅鑼灣開期間限定店",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260805/1161484694622441472843079.jpeg/qFqGKsOqvKnxtavgWnsBHsrDpju7mWPcElmhIBJZoSA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60376861/%E6%85%B6%E7%A5%9D%E5%A4%A7%E7%86%8A%E8%B2%93%E7%94%9F%E6%97%A5-%E4%B8%BB%E9%A1%8C%E9%9B%BB%E8%BB%8A%E5%8F%8A%E5%B7%B4%E5%A3%AB%E8%90%8C%E7%88%86%E5%85%A8%E5%9F%8E-%E9%8A%85%E9%91%BC%E7%81%A3%E9%96%8B%E6%9C%9F%E9%96%93%E9%99%90%E5%AE%9A%E5%BA%97",
+    "timestamp": "2026-08-04T17:59:04.569Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "日韓熱浪｜韓國高溫已致19人死亡　總統李在明列國家災難",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260802/1160637751859613696675321.jpeg/MYXqg8dkR3tQXV0b1eav2jSS2uOpw6G-rW1kJq1tZCY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60376445/%E5%B0%96%E6%B2%99%E5%92%80%E8%A1%80%E6%A1%88-12%E4%BA%BA%E8%90%BD%E7%B6%B2%E5%8D%8A%E6%95%B8%E7%8D%B2%E5%87%86%E4%BF%9D%E9%87%8B-%E5%8B%9D%E5%92%8C%E5%B7%A6%E5%8F%A3%E8%A2%AB%E6%8E%A7%E8%AC%80%E6%AE%BA-%E5%91%A8%E4%BA%8C%E6%8F%90%E5%A0%82",
     "timestamp": "2026-08-03T14:26:59.825Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "蜘蛛俠英雄重生｜Jon Bernthal湯賀蘭互挺10年　兄弟情感動影迷",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260803/1161011454611034112216047.jpeg/fyIfNz_QiH-Sl1kDyQFTSd6G2_1z2qhGSgWbGkoFmxo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60376413/%E8%9C%98%E8%9B%9B%E4%BF%A0%E8%8B%B1%E9%9B%84%E9%87%8D%E7%94%9F-jon-bernthal%E6%B9%AF%E8%B3%80%E8%98%AD%E4%BA%92%E6%8C%BA10%E5%B9%B4-%E5%85%84%E5%BC%9F%E6%83%85%E6%84%9F%E5%8B%95%E5%BD%B1%E8%BF%B7",
-    "timestamp": "2026-08-03T12:10:49.474Z",
     "strategy": ".content-card__main"
   }
 ];
