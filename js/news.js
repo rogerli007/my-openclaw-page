@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-04T02:24:12.792Z
+// Last updated: 2026-08-04T03:44:12.070Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "納米樓悲歌！馬鞍山薈朗開放式「蝕讓價」求售　5年終輸過百萬",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250602/1006192689693069312175609.jpeg/4o5VmtINHInuS-7wGS1eajaM_QA5Vud1aVovJ2laLyc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60375691/%E9%A6%AC%E9%9E%8D%E5%B1%B1%E8%96%88%E6%9C%97%E9%96%8B%E6%94%BE%E5%BC%8F300%E8%90%AC%E5%85%83%E6%B2%BD%E6%B1%82%E5%94%AE-%E4%B8%8A%E6%89%8B5%E5%B9%B4%E7%B5%82%E8%BC%B8%E9%81%8E%E7%99%BE%E8%90%AC%E9%9B%A2%E5%A0%B4",
+    "timestamp": "2026-08-04T03:44:12.070Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "屯門青山公路爆水管︱食水供應陸續恢復正常　爭取凌晨重開行車線",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260719/1155607905576161280793082.jpeg/Dd0RnzoM9K2B8sUywnc4MWMWY8j3_DmV0jcW4dI3FuE",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60371490/%E7%B6%AD%E6%B8%AF%E6%94%9D%E5%BD%B1%E6%AA%94-%E6%89%8B%E6%A9%9F%E9%9B%A3%E5%AA%B2%E7%BE%8E%E7%9B%B8%E6%A9%9F-%E6%89%93%E7%87%88-%E6%97%85%E5%AE%A2%E6%BB%BF%E6%84%8F-%E6%87%89%E4%BA%A4%E7%B5%A6%E5%B0%88%E6%A5%AD%E7%9A%84%E4%BA%BA%E5%81%9A",
     "timestamp": "2026-08-02T23:27:02.902Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普：美伊8.3展開新一輪談判",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260707/1150988319685873664693801.jpeg/MC-pP3mogONUtcBm5uBpQYJz1d7i7xUbz67hs8-u4bM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60376134/%E7%89%B9%E6%9C%97%E6%99%AE-%E7%BE%8E%E4%BC%8A8-3%E5%B1%95%E9%96%8B%E6%96%B0%E4%B8%80%E8%BC%AA%E8%AB%87%E5%88%A4",
-    "timestamp": "2026-08-02T22:54:48.505Z",
     "strategy": ".content-card__main"
   }
 ];
