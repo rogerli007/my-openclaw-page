@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-04T00:50:12.616Z
+// Last updated: 2026-08-04T01:24:53.589Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "滙豐季績預測｜投行料獅王上季稅前多賺53%　關注重啟回購消息",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260804/1161238110093185024138572.jpeg/OTlwKFbGEWfRUIsEqElOOidU6_9FyqhisYDylLGA8pQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60376508/%E6%BB%99%E8%B1%90%E5%AD%A3%E7%B8%BE%E9%A0%90%E6%B8%AC-%E6%8A%95%E8%A1%8C%E6%96%99%E7%8D%85%E7%8E%8B%E4%B8%8A%E5%AD%A3%E7%A8%85%E5%89%8D%E5%A4%9A%E8%B3%BA53-%E9%97%9C%E6%B3%A8%E9%87%8D%E5%95%9F%E5%9B%9E%E8%B3%BC%E6%B6%88%E6%81%AF",
+    "timestamp": "2026-08-04T01:24:53.589Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "亞馬遜市值首突破3萬億美元　貝索斯擬沽40.7億美元持股套現",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260803/1160831699781947392863190.jpeg/O4O2x3-CEwNETwk1X83jPN0eNO-h1qEyjYR_Ro2Ef0Y?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60376123/%E5%A4%A9%E6%B0%A3-%E4%BB%8A%E6%97%A5%E9%96%93%E4%B8%AD%E6%9C%89%E9%A9%9F%E9%9B%A8%E5%8F%8A%E9%9B%B7%E6%9A%B4-%E5%88%9D%E6%99%82%E9%9B%A8%E5%8B%A2%E6%9C%89%E6%99%82%E9%A0%97%E5%A4%A7-%E9%83%A8%E5%88%86%E5%9C%B0%E5%8D%80%E6%88%96%E6%B0%B4%E6%B5%B8",
     "timestamp": "2026-08-02T22:26:50.302Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "哈馬斯：以軍續襲加沙顯示無意達協議　以色列：質疑繳械承諾",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260803/1160806113784893440306182.jpeg/Y_iHdSBi45Ix5Qb9TNWl3oT8IxK1x0bDht8VfYbfFX0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60376133/%E5%93%88%E9%A6%AC%E6%96%AF-%E4%BB%A5%E8%BB%8D%E7%BA%8C%E8%A5%B2%E5%8A%A0%E6%B2%99%E9%A1%AF%E7%A4%BA%E7%84%A1%E6%84%8F%E9%81%94%E5%8D%94%E8%AD%B0-%E4%BB%A5%E8%89%B2%E5%88%97-%E8%B3%AA%E7%96%91%E7%B9%B3%E6%A2%B0%E6%89%BF%E8%AB%BE",
-    "timestamp": "2026-08-02T21:53:56.774Z",
     "strategy": ".content-card__main"
   }
 ];
