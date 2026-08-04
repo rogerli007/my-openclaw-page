@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-04T18:41:07.039Z
+// Last updated: 2026-08-04T19:58:38.315Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "跨部門荃灣掃黃　13女被捕",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260805/1161518471687704576142850.jpeg/heQMlWutReVsHD_YOz7Ui3xdsJZZeQemsFbdL7BW3S8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60376874/%E8%B7%A8%E9%83%A8%E9%96%80%E8%8D%83%E7%81%A3%E6%8E%83%E9%BB%83-13%E5%A5%B3%E8%A2%AB%E6%8D%95",
+    "timestamp": "2026-08-04T19:58:38.315Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "西貢男子浮潛捉蟹失蹤影　同伴擔心安危報案　救援人員到場證誤會",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260722/1156406277413277696351946.jpeg/YzcD9hQ-4zZjeAnXXv5Wgr0KeaBbT9yGsOU8qLDlPKg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60376473/%E7%89%B9%E6%9C%97%E6%99%AE%E6%96%A5%E4%BC%8A%E6%9C%97%E9%A0%98%E5%B0%8E%E5%B1%A4%E8%99%9B%E5%81%BD%E8%87%B3%E6%A5%B5-%E7%A7%81%E4%B8%8B%E8%A6%81%E6%B1%82%E8%AB%87%E5%88%A4%E4%BD%86%E5%85%AC%E7%84%B6%E5%90%A6%E8%AA%8D",
     "timestamp": "2026-08-03T16:28:24.764Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美股｜Amazon早段曾漲逾半成　市值首度突破3萬億美元",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20240627/882817592920641536140896.jpeg/bj4FS8sHts_LqPIhek2gfmV8Y87bzZRjJtfY0SbX2NE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60376470/%E7%BE%8E%E8%82%A1-amazon%E6%97%A9%E6%AE%B5%E6%9B%BE%E6%BC%B2%E9%80%BE%E5%8D%8A%E6%88%90-%E5%B8%82%E5%80%BC%E9%A6%96%E5%BA%A6%E7%AA%81%E7%A0%B43%E8%90%AC%E5%84%84%E7%BE%8E%E5%85%83",
-    "timestamp": "2026-08-03T15:33:44.207Z",
     "strategy": ".content-card__main"
   }
 ];
