@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-04T03:44:12.070Z
+// Last updated: 2026-08-04T07:15:53.178Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "大埔食品廠工業意外　女工遭包裝機器切斷一節手指",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250726/1025773786311430144172349.jpeg/PRJwksiMmDU6mtTYqC1a0jq7z25CLG_fRG_biURv24k?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60376690/%E5%A4%A7%E5%9F%94%E9%A3%9F%E5%93%81%E5%BB%A0%E5%B7%A5%E6%A5%AD%E6%84%8F%E5%A4%96-%E5%A5%B3%E5%B7%A5%E9%81%AD%E5%8C%85%E8%A3%9D%E6%A9%9F%E5%99%A8%E5%88%87%E6%96%B7%E4%B8%80%E7%AF%80%E6%89%8B%E6%8C%87",
+    "timestamp": "2026-08-04T07:15:53.178Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "納米樓悲歌！馬鞍山薈朗開放式「蝕讓價」求售　5年終輸過百萬",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260604/1139070571925999616914850.jpeg/nNT0ZF2Wxbzj2rpzZXIY-KiOj707q6tRFn3OUBZ9zlA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%9C%8B%E9%9A%9B%E5%88%86%E6%9E%90/60376128/%E4%BC%8A%E6%9C%97%E6%88%B0%E7%88%AD%E6%B5%B7%E7%81%A3%E5%85%A5%E5%A0%B4-%E4%B8%89-%E5%91%BC%E5%8F%AB%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E5%B9%AB%E5%BF%99-%E7%82%BA%E4%BD%95%E7%A7%91%E5%A8%81%E7%89%B9%E4%B9%9F%E6%8A%93%E7%8B%82",
     "timestamp": "2026-08-02T23:54:59.307Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "維港攝影檔｜手機難媲美相機、打燈　旅客滿意：應交給專業的人做",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260719/1155607905576161280793082.jpeg/Dd0RnzoM9K2B8sUywnc4MWMWY8j3_DmV0jcW4dI3FuE",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60371490/%E7%B6%AD%E6%B8%AF%E6%94%9D%E5%BD%B1%E6%AA%94-%E6%89%8B%E6%A9%9F%E9%9B%A3%E5%AA%B2%E7%BE%8E%E7%9B%B8%E6%A9%9F-%E6%89%93%E7%87%88-%E6%97%85%E5%AE%A2%E6%BB%BF%E6%84%8F-%E6%87%89%E4%BA%A4%E7%B5%A6%E5%B0%88%E6%A5%AD%E7%9A%84%E4%BA%BA%E5%81%9A",
-    "timestamp": "2026-08-02T23:27:02.902Z",
     "strategy": ".content-card__main"
   }
 ];
