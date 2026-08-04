@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-04T22:46:48.992Z
+// Last updated: 2026-08-04T23:15:57.411Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "澳洲華人一家3口命喪火海　祖母目擊至親被困　圖衝入火場終被阻",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260803/1160984056804937728501726.png/PolLQdKgiI6TceSfHt3YrQOdp8zJc3rO3j8Kad4_Cmk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E8%A9%B1%E9%A1%8C/60376037/%E6%BE%B3%E6%B4%B2%E8%8F%AF%E4%BA%BA%E4%B8%80%E5%AE%B63%E5%8F%A3%E5%91%BD%E5%96%AA%E7%81%AB%E6%B5%B7-%E7%A5%96%E6%AF%8D%E7%9B%AE%E6%93%8A%E8%87%B3%E8%A6%AA%E8%A2%AB%E5%9B%B0-%E5%9C%96%E8%A1%9D%E5%85%A5%E7%81%AB%E5%A0%B4%E7%B5%82%E8%A2%AB%E9%98%BB",
+    "timestamp": "2026-08-04T23:15:57.411Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "馬灣珀麗灣天花批盪剝落　直墮行人通道　網民：幸好冇人經過",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260804/1161154894791446528830156.png/klipXGofdm0HAVVDked8loeaK7JcoS-YY_-qk2P_qpM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60376487/%E5%B1%AF%E9%96%80%E9%9D%92%E5%B1%B1%E5%85%AC%E8%B7%AF%E7%88%86%E6%B0%B4%E7%AE%A1-%E9%9D%92%E5%B1%B1%E7%81%A3%E6%AE%B5%E9%83%A8%E4%BB%BD%E8%A1%8C%E8%BB%8A%E7%B7%9A%E5%85%A8%E7%B7%9A%E5%B0%81%E9%96%89-%E9%A0%90%E8%A8%88%E9%80%B1%E4%B8%89%E9%87%8D%E9%96%8B",
     "timestamp": "2026-08-03T20:22:11.964Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "上水嘉福邨33歲男子家中暈倒　胞妹發現惜太遲",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260803/1160872710838947840512064.jpeg/HWJ9VSicuirqSAkY7vrvylvNf2sGDjsLWaE-q1mhPqs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60376482/%E4%B8%8A%E6%B0%B4%E5%98%89%E7%A6%8F%E9%82%A833%E6%AD%B2%E7%94%B7%E5%AD%90%E5%AE%B6%E4%B8%AD%E6%9A%88%E5%80%92-%E8%83%9E%E5%A6%B9%E7%99%BC%E7%8F%BE%E6%83%9C%E5%A4%AA%E9%81%B2",
-    "timestamp": "2026-08-03T19:39:08.554Z",
     "strategy": ".content-card__main"
   }
 ];
