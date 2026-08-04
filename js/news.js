@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-04T08:11:05.144Z
+// Last updated: 2026-08-04T09:19:28.797Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "颱風白海豚｜8.6至8.8香港快運往返沖繩石垣航班取消　8.5加開1班",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250426/992684458329247744603842.jpeg/ta581_uCIOjuLp3GjyLJbCwTMsCySiHD2oEBUdqBAVE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60376759/%E9%A2%B1%E9%A2%A8%E7%99%BD%E6%B5%B7%E8%B1%9A-8-6%E8%87%B38-8%E9%A6%99%E6%B8%AF%E5%BF%AB%E9%81%8B%E5%BE%80%E8%BF%94%E6%B2%96%E7%B9%A9%E7%9F%B3%E5%9E%A3%E8%88%AA%E7%8F%AD%E5%8F%96%E6%B6%88-8-5%E5%8A%A0%E9%96%8B1%E7%8F%AD",
+    "timestamp": "2026-08-04T09:19:28.797Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "9成人蔬果沒吃夠！增癌症心血管病風險　台國健署教3蔬2果原則",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260803/1160954944430280704389760.jpeg/cTQi6b0AXfMolADJknibQz04WiznccXuXmEPBl5hDwY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60376265/%E7%B6%B2%E7%90%83-%E9%BB%83%E6%BE%A4%E6%9E%97%E4%B8%96%E7%95%8C%E6%8E%92%E5%90%8D%E9%A6%96%E5%BA%A6%E6%99%89%E8%BA%AB%E7%94%B7%E5%96%AE%E7%99%BE%E5%A4%A7-%E5%86%8D%E5%89%B5%E9%A6%99%E6%B8%AF%E7%B6%B2%E5%A3%87%E6%AD%B7%E5%8F%B2%E6%96%B0%E4%B8%80%E9%A0%81",
     "timestamp": "2026-08-03T06:45:14.883Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "歐洲山火｜希臘兩架消防直升機相撞釀2死　總理：深切哀悼｜有片",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260803/1160893396395495424517024.png/6o5NMWIwB8wpQ82Jew2gDS8d5_SyQLgnV9fMJFfXzCQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60376168/%E6%AD%90%E6%B4%B2%E5%B1%B1%E7%81%AB-%E5%B8%8C%E8%87%98%E5%85%A9%E6%9E%B6%E6%B6%88%E9%98%B2%E7%9B%B4%E5%8D%87%E6%A9%9F%E7%9B%B8%E6%92%9E%E9%87%802%E6%AD%BB-%E7%B8%BD%E7%90%86-%E6%B7%B1%E5%88%87%E5%93%80%E6%82%BC-%E6%9C%89%E7%89%87",
-    "timestamp": "2026-08-03T02:45:47.704Z",
     "strategy": ".content-card__main"
   }
 ];
