@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-04T07:15:53.178Z
+// Last updated: 2026-08-04T08:11:05.144Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "9成人蔬果沒吃夠！增癌症心血管病風險　台國健署教3蔬2果原則",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20251210/1075480887988064256402836.jpeg/BZOdELSHhCL7BQ1kgXCrQrVJgMc5NGI0wIzDesCMw3o?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60365797/9%E6%88%90%E4%BA%BA%E8%94%AC%E6%9E%9C%E6%B2%92%E5%90%83%E5%A4%A0-%E5%A2%9E%E7%99%8C%E7%97%87%E5%BF%83%E8%A1%80%E7%AE%A1%E7%97%85%E9%A2%A8%E9%9A%AA-%E5%8F%B0%E5%9C%8B%E5%81%A5%E7%BD%B2%E6%95%993%E8%94%AC2%E6%9E%9C%E5%8E%9F%E5%89%87",
+    "timestamp": "2026-08-04T08:11:05.144Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "大埔食品廠工業意外　女工遭包裝機器切斷一節手指",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260803/1160893396395495424517024.png/6o5NMWIwB8wpQ82Jew2gDS8d5_SyQLgnV9fMJFfXzCQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60376168/%E6%AD%90%E6%B4%B2%E5%B1%B1%E7%81%AB-%E5%B8%8C%E8%87%98%E5%85%A9%E6%9E%B6%E6%B6%88%E9%98%B2%E7%9B%B4%E5%8D%87%E6%A9%9F%E7%9B%B8%E6%92%9E%E9%87%802%E6%AD%BB-%E7%B8%BD%E7%90%86-%E6%B7%B1%E5%88%87%E5%93%80%E6%82%BC-%E6%9C%89%E7%89%87",
     "timestamp": "2026-08-03T02:45:47.704Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "伊朗戰爭海灣入場・三｜呼叫巴基斯坦幫忙　為何科威特也抓狂？",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260604/1139070571925999616914850.jpeg/nNT0ZF2Wxbzj2rpzZXIY-KiOj707q6tRFn3OUBZ9zlA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%9C%8B%E9%9A%9B%E5%88%86%E6%9E%90/60376128/%E4%BC%8A%E6%9C%97%E6%88%B0%E7%88%AD%E6%B5%B7%E7%81%A3%E5%85%A5%E5%A0%B4-%E4%B8%89-%E5%91%BC%E5%8F%AB%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E5%B9%AB%E5%BF%99-%E7%82%BA%E4%BD%95%E7%A7%91%E5%A8%81%E7%89%B9%E4%B9%9F%E6%8A%93%E7%8B%82",
-    "timestamp": "2026-08-02T23:54:59.307Z",
     "strategy": ".content-card__main"
   }
 ];
