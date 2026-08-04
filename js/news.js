@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-04T19:58:38.315Z
+// Last updated: 2026-08-04T21:48:41.724Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "內塔尼亞胡：在哈馬斯完全解除武裝前　以軍不會撤出加沙",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260706/1150771438534266880836074.jpeg/pANvCNERFnhsbrQS5OFdxNxXMwIpg1ZOpcToc6XE6HM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60376881/%E5%85%A7%E5%A1%94%E5%B0%BC%E4%BA%9E%E8%83%A1-%E5%9C%A8%E5%93%88%E9%A6%AC%E6%96%AF%E5%AE%8C%E5%85%A8%E8%A7%A3%E9%99%A4%E6%AD%A6%E8%A3%9D%E5%89%8D-%E4%BB%A5%E8%BB%8D%E4%B8%8D%E6%9C%83%E6%92%A4%E5%87%BA%E5%8A%A0%E6%B2%99",
+    "timestamp": "2026-08-04T21:48:41.724Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "跨部門荃灣掃黃　13女被捕",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260804/1161125998410862592153768.jpeg/murWfTS7rjNeUHLN_ryq0dcVKoOxRnoaAPZ18QD2dfE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60376479/%E6%97%A5%E6%9C%AC%E7%86%8A%E6%9C%AC%E7%B8%A3%E9%8C%84%E5%BE%97%E9%80%BE40%E5%BA%A6%E9%AB%98%E6%BA%AB-%E9%9C%87%E5%BE%8C%E4%BB%8D%E7%B4%844-5%E8%90%AC%E6%88%B6%E5%81%9C%E6%B0%B4",
     "timestamp": "2026-08-03T18:15:35.435Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普斥伊朗領導層虛偽至極　私下要求談判但公然否認",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260722/1156406277413277696351946.jpeg/YzcD9hQ-4zZjeAnXXv5Wgr0KeaBbT9yGsOU8qLDlPKg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60376473/%E7%89%B9%E6%9C%97%E6%99%AE%E6%96%A5%E4%BC%8A%E6%9C%97%E9%A0%98%E5%B0%8E%E5%B1%A4%E8%99%9B%E5%81%BD%E8%87%B3%E6%A5%B5-%E7%A7%81%E4%B8%8B%E8%A6%81%E6%B1%82%E8%AB%87%E5%88%A4%E4%BD%86%E5%85%AC%E7%84%B6%E5%90%A6%E8%AA%8D",
-    "timestamp": "2026-08-03T16:28:24.764Z",
     "strategy": ".content-card__main"
   }
 ];
