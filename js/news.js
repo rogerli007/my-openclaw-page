@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-05T12:00:51.872Z
+// Last updated: 2026-08-05T12:49:19.835Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "内地人境外保險收益徵税據報已啟動！　保誠倫敦股價急瀉逾8%",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260805/1161771968484085760321547.jpeg/2e4GrtJXXO8PRX7bVSFoBx2ZZLpzXygtcI8VW3CPFVs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60377217/%E5%86%85%E5%9C%B0%E4%BA%BA%E5%A2%83%E5%A4%96%E4%BF%9D%E9%9A%AA%E6%94%B6%E7%9B%8A%E5%BE%B5%E7%A8%8E%E6%93%9A%E5%A0%B1%E5%B7%B2%E5%95%9F%E5%8B%95-%E4%BF%9D%E8%AA%A0%E5%80%AB%E6%95%A6%E8%82%A1%E5%83%B9%E6%80%A5%E7%80%89%E9%80%BE8",
+    "timestamp": "2026-08-05T12:49:19.835Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "肥媽自爆在楊明婚宴「飲high咗」親授生仔秘方：食鹿筋至少6件",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260803/1160897506167492608285734.jpeg/8-qb8cn2FAFsA_ts76p0_8crVpaf4mvPZTbnyGU258g?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60376163/%E4%B8%AD%E5%9C%8B%E7%BD%B5%E4%BA%BA%E7%9A%84%E8%97%9D%E8%A1%93-%E6%9B%BE%E8%A2%AB%E8%A6%96%E7%82%BA-%E6%A5%B5%E9%81%93%E5%BE%B7-%E8%A1%8C%E7%82%BA-%E6%9C%8910%E5%A4%A7%E9%90%B5%E5%BE%8B%E7%B2%BE%E7%B7%B4%E5%A6%82%E5%85%B5%E6%B3%95",
     "timestamp": "2026-08-04T13:42:08.653Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "颱風白海豚｜8.6至8.8香港快運往返沖繩石垣航班取消　8.5加開1班",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250426/992684458329247744603842.jpeg/ta581_uCIOjuLp3GjyLJbCwTMsCySiHD2oEBUdqBAVE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60376759/%E9%A2%B1%E9%A2%A8%E7%99%BD%E6%B5%B7%E8%B1%9A-8-6%E8%87%B38-8%E9%A6%99%E6%B8%AF%E5%BF%AB%E9%81%8B%E5%BE%80%E8%BF%94%E6%B2%96%E7%B9%A9%E7%9F%B3%E5%9E%A3%E8%88%AA%E7%8F%AD%E5%8F%96%E6%B6%88-8-5%E5%8A%A0%E9%96%8B1%E7%8F%AD",
-    "timestamp": "2026-08-04T09:19:28.797Z",
     "strategy": ".content-card__main"
   }
 ];
