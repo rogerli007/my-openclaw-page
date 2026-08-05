@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-05T03:53:29.449Z
+// Last updated: 2026-08-05T06:13:21.803Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "地盤禁煙｜勞工處試用紅外線無人機助查熱源　研結合AI偵違例吸煙",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260805/1161668296399917056425381.jpeg/N43veztYRtPcX16A_oY8kUwou5PZZzziMgiCeBcIgng?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60377024/%E5%9C%B0%E7%9B%A4%E7%A6%81%E7%85%99-%E5%8B%9E%E5%B7%A5%E8%99%95%E8%A9%A6%E7%94%A8%E7%B4%85%E5%A4%96%E7%B7%9A%E7%84%A1%E4%BA%BA%E6%A9%9F%E5%8A%A9%E6%9F%A5%E7%86%B1%E6%BA%90-%E7%A0%94%E7%B5%90%E5%90%88ai%E5%81%B5%E9%81%95%E4%BE%8B%E5%90%B8%E7%85%99",
+    "timestamp": "2026-08-05T06:13:21.803Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "「蜘蛛俠替身」竟是河南人　大戰手合會全靠他　演員親揭幕後秘辛",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250602/1006192689693069312175609.jpeg/4o5VmtINHInuS-7wGS1eajaM_QA5Vud1aVovJ2laLyc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60375691/%E9%A6%AC%E9%9E%8D%E5%B1%B1%E8%96%88%E6%9C%97%E9%96%8B%E6%94%BE%E5%BC%8F300%E8%90%AC%E5%85%83%E6%B2%BD%E6%B1%82%E5%94%AE-%E4%B8%8A%E6%89%8B5%E5%B9%B4%E7%B5%82%E8%BC%B8%E9%81%8E%E7%99%BE%E8%90%AC%E9%9B%A2%E5%A0%B4",
     "timestamp": "2026-08-04T03:44:12.070Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "屯門青山公路爆水管︱食水供應陸續恢復正常　爭取凌晨重開行車線",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260804/1161254799727923200638952.jpeg/YILzWJI_0wEuOlS0ab3ktA2D16N1OwdnXszjEV7M4xE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60376519/%E5%B1%AF%E9%96%80%E9%9D%92%E5%B1%B1%E5%85%AC%E8%B7%AF%E7%88%86%E6%B0%B4%E7%AE%A1-%E9%A3%9F%E6%B0%B4%E4%BE%9B%E6%87%89%E9%99%B8%E7%BA%8C%E6%81%A2%E5%BE%A9%E6%AD%A3%E5%B8%B8-%E7%88%AD%E5%8F%96%E5%87%8C%E6%99%A8%E9%87%8D%E9%96%8B%E8%A1%8C%E8%BB%8A%E7%B7%9A",
-    "timestamp": "2026-08-04T02:24:12.792Z",
     "strategy": ".content-card__main"
   }
 ];
