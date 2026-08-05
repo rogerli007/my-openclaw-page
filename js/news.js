@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-05T18:56:55.673Z
+// Last updated: 2026-08-05T19:38:07.535Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "魯比奧華盛頓會見文立彬　議伊朗、俄烏戰事及歐洲安全",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260806/1161876062091612160687145.jpeg/QRiofXerYRuwkr9thqXg0g1_M2N523HkIUYoqyFGKKs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60377275/%E9%AD%AF%E6%AF%94%E5%A5%A7%E8%8F%AF%E7%9B%9B%E9%A0%93%E6%9C%83%E8%A6%8B%E6%96%87%E7%AB%8B%E5%BD%AC-%E8%AD%B0%E4%BC%8A%E6%9C%97-%E4%BF%84%E7%83%8F%E6%88%B0%E4%BA%8B%E5%8F%8A%E6%AD%90%E6%B4%B2%E5%AE%89%E5%85%A8",
+    "timestamp": "2026-08-05T19:38:07.535Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "歐洲最大貨運樞紐發現爆炸品無人機　德國展開反恐調查",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260803/1160984056804937728501726.png/PolLQdKgiI6TceSfHt3YrQOdp8zJc3rO3j8Kad4_Cmk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E8%A9%B1%E9%A1%8C/60376037/%E6%BE%B3%E6%B4%B2%E8%8F%AF%E4%BA%BA%E4%B8%80%E5%AE%B63%E5%8F%A3%E5%91%BD%E5%96%AA%E7%81%AB%E6%B5%B7-%E7%A5%96%E6%AF%8D%E7%9B%AE%E6%93%8A%E8%87%B3%E8%A6%AA%E8%A2%AB%E5%9B%B0-%E5%9C%96%E8%A1%9D%E5%85%A5%E7%81%AB%E5%A0%B4%E7%B5%82%E8%A2%AB%E9%98%BB",
     "timestamp": "2026-08-04T23:15:57.411Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "馬灣珀麗灣天花批盪剝落　直墮行人通道　網民：幸好冇人經過",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260805/1161559741520941056902173.jpeg/hegBei9SrDORSxmAGNcKT_uUARmri7yfGVJTLBlSUyw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60376886/%E9%A6%AC%E7%81%A3%E7%8F%80%E9%BA%97%E7%81%A3%E5%A4%A9%E8%8A%B1%E6%89%B9%E7%9B%AA%E5%89%9D%E8%90%BD-%E7%9B%B4%E5%A2%AE%E8%A1%8C%E4%BA%BA%E9%80%9A%E9%81%93-%E7%B6%B2%E6%B0%91-%E5%B9%B8%E5%A5%BD%E5%86%87%E4%BA%BA%E7%B6%93%E9%81%8E",
-    "timestamp": "2026-08-04T22:46:48.992Z",
     "strategy": ".content-card__main"
   }
 ];
