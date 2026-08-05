@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-05T22:33:15.376Z
+// Last updated: 2026-08-05T22:58:49.060Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "演講過程中提詞器故障　加拿大總理卡尼借機嘲諷特朗普",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260529/1136854508278648832683419.jpeg/kC9y1b6kNN_N0LBAvtd_XCSp7DVvjo1jd3JN2XdyTdk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60377284/%E6%BC%94%E8%AC%9B%E9%81%8E%E7%A8%8B%E4%B8%AD%E6%8F%90%E8%A9%9E%E5%99%A8%E6%95%85%E9%9A%9C-%E5%8A%A0%E6%8B%BF%E5%A4%A7%E7%B8%BD%E7%90%86%E5%8D%A1%E5%B0%BC%E5%80%9F%E6%A9%9F%E5%98%B2%E8%AB%B7%E7%89%B9%E6%9C%97%E6%99%AE",
+    "timestamp": "2026-08-05T22:58:49.060Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "酷熱天氣｜今日市區氣溫最高約33度　未來數日局部地區或有驟雨",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20251026/1059001125321052160802695.jpeg/CbTE_cQ3F8nJgDogD8l_SqXK4KZl3qkCLttNaC7bTWg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60376893/%E7%89%B9%E6%9C%97%E6%99%AE%E8%88%87%E5%8D%A1%E5%A1%94%E7%88%BE%E5%9C%8B%E7%8E%8B%E9%80%9A%E8%A9%B1-%E9%9C%8D%E7%88%BE%E6%9C%A8%E8%8C%B2%E6%B5%B7%E5%B3%BD%E9%81%94%E6%88%90%E5%8D%94%E8%AD%B0%E6%88%96%E5%87%BA%E7%8F%BE%E6%9B%99%E5%85%89",
     "timestamp": "2026-08-05T00:53:39.641Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "小貓被困江心生命垂危　官方特批無人機救援　暖心一幕獲無數點讚",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260721/1156250566305779712493158.jpeg/j5CQZaLfSj0RIIpZwssLPsYd3b47L_b9y5Fg28uRYNs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%AF%B5%E7%89%A9/60372108/%E5%B0%8F%E8%B2%93%E8%A2%AB%E5%9B%B0%E6%B1%9F%E5%BF%83%E7%94%9F%E5%91%BD%E5%9E%82%E5%8D%B1-%E5%AE%98%E6%96%B9%E7%89%B9%E6%89%B9%E7%84%A1%E4%BA%BA%E6%A9%9F%E6%95%91%E6%8F%B4-%E6%9A%96%E5%BF%83%E4%B8%80%E5%B9%95%E7%8D%B2%E7%84%A1%E6%95%B8%E9%BB%9E%E8%AE%9A",
-    "timestamp": "2026-08-05T00:14:19.924Z",
     "strategy": ".content-card__main"
   }
 ];
