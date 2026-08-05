@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-05T16:14:59.229Z
+// Last updated: 2026-08-05T16:54:46.538Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "黎彼得離世｜《唐伯虎》演華府老師　跟周星馳背詩踩界唔過電檢",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260806/1161824947660656640849063.jpeg/jbjWMmaKQ4zv0y93RQ8H3tQsfJm9ZIphCrYE-wq2BPs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60377253/%E9%BB%8E%E5%BD%BC%E5%BE%97%E9%9B%A2%E4%B8%96-%E5%94%90%E4%BC%AF%E8%99%8E-%E6%BC%94%E8%8F%AF%E5%BA%9C%E8%80%81%E5%B8%AB-%E8%B7%9F%E5%91%A8%E6%98%9F%E9%A6%B3%E8%83%8C%E8%A9%A9%E8%B8%A9%E7%95%8C%E5%94%94%E9%81%8E%E9%9B%BB%E6%AA%A2",
+    "timestamp": "2026-08-05T16:54:46.538Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "港鐵MMA．有片｜2男當眾纏鬥扯髮勾頸　和事佬勸架：唔好打",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260805/1161498452648005632271935.jpeg/MCii4qU0TO3iVrpj6Kzsx0G-f7mprhdUySv1XfMr9V0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60376862/%E8%A5%BF%E8%B2%A2%E7%94%B7%E5%AD%90%E6%B5%AE%E6%BD%9B%E6%8D%89%E8%9F%B9%E5%A4%B1%E8%B9%A4%E5%BD%B1-%E5%90%8C%E4%BC%B4%E6%93%94%E5%BF%83%E5%AE%89%E5%8D%B1%E5%A0%B1%E6%A1%88-%E6%95%91%E6%8F%B4%E4%BA%BA%E5%93%A1%E5%88%B0%E5%A0%B4%E8%AD%89%E8%AA%A4%E6%9C%83",
     "timestamp": "2026-08-04T18:41:07.039Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "慶祝大熊貓生日　主題電車及巴士萌爆全城　銅鑼灣開期間限定店",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260805/1161484694622441472843079.jpeg/qFqGKsOqvKnxtavgWnsBHsrDpju7mWPcElmhIBJZoSA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60376861/%E6%85%B6%E7%A5%9D%E5%A4%A7%E7%86%8A%E8%B2%93%E7%94%9F%E6%97%A5-%E4%B8%BB%E9%A1%8C%E9%9B%BB%E8%BB%8A%E5%8F%8A%E5%B7%B4%E5%A3%AB%E8%90%8C%E7%88%86%E5%85%A8%E5%9F%8E-%E9%8A%85%E9%91%BC%E7%81%A3%E9%96%8B%E6%9C%9F%E9%96%93%E9%99%90%E5%AE%9A%E5%BA%97",
-    "timestamp": "2026-08-04T17:59:04.569Z",
     "strategy": ".content-card__main"
   }
 ];
