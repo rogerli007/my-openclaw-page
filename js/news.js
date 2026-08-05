@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-05T15:22:17.478Z
+// Last updated: 2026-08-05T16:14:59.229Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "港鐵MMA．有片｜2男當眾纏鬥扯髮勾頸　和事佬勸架：唔好打",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260805/1161820839721570304293617.jpeg/fWnJsa9ayX2ably7bChJZ3nMhUv6FBuJjj8aBY4_GgU",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60377256/%E6%B8%AF%E9%90%B5mma-%E6%9C%89%E7%89%87-2%E7%94%B7%E7%95%B6%E7%9C%BE%E7%BA%8F%E9%AC%A5%E6%89%AF%E9%AB%AE%E5%8B%BE%E9%A0%B8-%E5%92%8C%E4%BA%8B%E4%BD%AC%E5%8B%B8%E6%9E%B6-%E5%94%94%E5%A5%BD%E6%89%93",
+    "timestamp": "2026-08-05T16:14:59.229Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "黎彼得離世｜與許冠傑傳決裂多年　直認係唔夾：道不同不相為謀",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260805/1161484694622441472843079.jpeg/qFqGKsOqvKnxtavgWnsBHsrDpju7mWPcElmhIBJZoSA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60376861/%E6%85%B6%E7%A5%9D%E5%A4%A7%E7%86%8A%E8%B2%93%E7%94%9F%E6%97%A5-%E4%B8%BB%E9%A1%8C%E9%9B%BB%E8%BB%8A%E5%8F%8A%E5%B7%B4%E5%A3%AB%E8%90%8C%E7%88%86%E5%85%A8%E5%9F%8E-%E9%8A%85%E9%91%BC%E7%81%A3%E9%96%8B%E6%9C%9F%E9%96%93%E9%99%90%E5%AE%9A%E5%BA%97",
     "timestamp": "2026-08-04T17:59:04.569Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "日韓熱浪｜韓國高溫已致19人死亡　總統李在明列國家災難",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260725/1157631018966978560508342.jpeg/buMoR_ypOszwHEW7JIpBITXsT2jFwGSMDssMBQ7LDAU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60376858/%E6%97%A5%E9%9F%93%E7%86%B1%E6%B5%AA-%E9%9F%93%E5%9C%8B%E9%AB%98%E6%BA%AB%E5%B7%B2%E8%87%B419%E4%BA%BA%E6%AD%BB%E4%BA%A1-%E7%B8%BD%E7%B5%B1%E6%9D%8E%E5%9C%A8%E6%98%8E%E5%88%97%E5%9C%8B%E5%AE%B6%E7%81%BD%E9%9B%A3",
-    "timestamp": "2026-08-04T17:13:07.545Z",
     "strategy": ".content-card__main"
   }
 ];
