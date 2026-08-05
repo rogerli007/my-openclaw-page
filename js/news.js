@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-05T02:45:09.272Z
+// Last updated: 2026-08-05T03:53:29.449Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "「蜘蛛俠替身」竟是河南人　大戰手合會全靠他　演員親揭幕後秘辛",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260805/1161624436206473216190534.png/T1Obm9b7vArXhu9yIYpWd7GNIpq28-NwssP9d7LD_Xc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60376936/%E8%9C%98%E8%9B%9B%E4%BF%A0%E6%9B%BF%E8%BA%AB-%E7%AB%9F%E6%98%AF%E6%B2%B3%E5%8D%97%E4%BA%BA-%E5%A4%A7%E6%88%B0%E6%89%8B%E5%90%88%E6%9C%83%E5%85%A8%E9%9D%A0%E4%BB%96-%E6%BC%94%E5%93%A1%E8%A6%AA%E6%8F%AD%E5%B9%95%E5%BE%8C%E7%A7%98%E8%BE%9B",
+    "timestamp": "2026-08-05T03:53:29.449Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "科大舉辦蘇士澍《漢字頌》書法展　35幅墨寶首度在港亮相勉勵師生",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260804/1161254799727923200638952.jpeg/YILzWJI_0wEuOlS0ab3ktA2D16N1OwdnXszjEV7M4xE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60376519/%E5%B1%AF%E9%96%80%E9%9D%92%E5%B1%B1%E5%85%AC%E8%B7%AF%E7%88%86%E6%B0%B4%E7%AE%A1-%E9%A3%9F%E6%B0%B4%E4%BE%9B%E6%87%89%E9%99%B8%E7%BA%8C%E6%81%A2%E5%BE%A9%E6%AD%A3%E5%B8%B8-%E7%88%AD%E5%8F%96%E5%87%8C%E6%99%A8%E9%87%8D%E9%96%8B%E8%A1%8C%E8%BB%8A%E7%B7%9A",
     "timestamp": "2026-08-04T02:24:12.792Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "滙豐季績預測｜投行料獅王上季稅前多賺53%　關注重啟回購消息",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260804/1161238110093185024138572.jpeg/OTlwKFbGEWfRUIsEqElOOidU6_9FyqhisYDylLGA8pQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60376508/%E6%BB%99%E8%B1%90%E5%AD%A3%E7%B8%BE%E9%A0%90%E6%B8%AC-%E6%8A%95%E8%A1%8C%E6%96%99%E7%8D%85%E7%8E%8B%E4%B8%8A%E5%AD%A3%E7%A8%85%E5%89%8D%E5%A4%9A%E8%B3%BA53-%E9%97%9C%E6%B3%A8%E9%87%8D%E5%95%9F%E5%9B%9E%E8%B3%BC%E6%B6%88%E6%81%AF",
-    "timestamp": "2026-08-04T01:24:53.589Z",
     "strategy": ".content-card__main"
   }
 ];
