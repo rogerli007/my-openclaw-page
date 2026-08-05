@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-05T14:22:27.688Z
+// Last updated: 2026-08-05T15:22:17.478Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "黎彼得離世｜與許冠傑傳決裂多年　直認係唔夾：道不同不相為謀",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260805/1161813773619564544921387.jpeg/PvBggSckLT315VaORZSZsUaU404n7O6onKlBxpypQcY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60377251/%E9%BB%8E%E5%BD%BC%E5%BE%97%E9%9B%A2%E4%B8%96-%E8%88%87%E8%A8%B1%E5%86%A0%E5%82%91%E5%82%B3%E6%B1%BA%E8%A3%82%E5%A4%9A%E5%B9%B4-%E7%9B%B4%E8%AA%8D%E4%BF%82%E5%94%94%E5%A4%BE-%E9%81%93%E4%B8%8D%E5%90%8C%E4%B8%8D%E7%9B%B8%E7%82%BA%E8%AC%80",
+    "timestamp": "2026-08-05T15:22:17.478Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "姚焯菲疑藐爆鍾柔美　認私下交好常互串互藐：呢個係我哋相處模式",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260725/1157631018966978560508342.jpeg/buMoR_ypOszwHEW7JIpBITXsT2jFwGSMDssMBQ7LDAU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60376858/%E6%97%A5%E9%9F%93%E7%86%B1%E6%B5%AA-%E9%9F%93%E5%9C%8B%E9%AB%98%E6%BA%AB%E5%B7%B2%E8%87%B419%E4%BA%BA%E6%AD%BB%E4%BA%A1-%E7%B8%BD%E7%B5%B1%E6%9D%8E%E5%9C%A8%E6%98%8E%E5%88%97%E5%9C%8B%E5%AE%B6%E7%81%BD%E9%9B%A3",
     "timestamp": "2026-08-04T17:13:07.545Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "為養家演大尺度戲還被逼陪酒！韓劇新星金世仁隱退13年轉做外賣員",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260804/1161325205314867200237508.png/BtVmd5PZQNIPpbPO5PJTQJYydO_OmwS5F4P0KReD9Ck?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60376645/%E7%82%BA%E9%A4%8A%E5%AE%B6%E6%BC%94%E5%A4%A7%E5%B0%BA%E5%BA%A6%E6%88%B2%E9%82%84%E8%A2%AB%E9%80%BC%E9%99%AA%E9%85%92-%E9%9F%93%E5%8A%87%E6%96%B0%E6%98%9F%E9%87%91%E4%B8%96%E4%BB%81%E9%9A%B1%E9%80%8013%E5%B9%B4%E8%BD%89%E5%81%9A%E5%A4%96%E8%B3%A3%E5%93%A1",
-    "timestamp": "2026-08-04T15:38:37.273Z",
     "strategy": ".content-card__main"
   }
 ];
