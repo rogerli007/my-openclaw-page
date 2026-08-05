@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-05T10:17:30.001Z
+// Last updated: 2026-08-05T12:00:51.872Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "肥媽自爆在楊明婚宴「飲high咗」親授生仔秘方：食鹿筋至少6件",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260805/1161715334231625728842375.jpeg/XBKllFWCANIj38tKnMyjsPo2IYHFkT_0u8iZKLvImSg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60377132/%E8%82%A5%E5%AA%BD%E8%87%AA%E7%88%86%E5%9C%A8%E6%A5%8A%E6%98%8E%E5%A9%9A%E5%AE%B4-%E9%A3%B2high%E5%92%97-%E8%A6%AA%E6%8E%88%E7%94%9F%E4%BB%94%E7%A7%98%E6%96%B9-%E9%A3%9F%E9%B9%BF%E7%AD%8B%E8%87%B3%E5%B0%916%E4%BB%B6",
+    "timestamp": "2026-08-05T12:00:51.872Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "好人好事｜阿叔上巴士遺環保袋　港男代保管獲請客　網民讚：雙贏",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250426/992684458329247744603842.jpeg/ta581_uCIOjuLp3GjyLJbCwTMsCySiHD2oEBUdqBAVE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60376759/%E9%A2%B1%E9%A2%A8%E7%99%BD%E6%B5%B7%E8%B1%9A-8-6%E8%87%B38-8%E9%A6%99%E6%B8%AF%E5%BF%AB%E9%81%8B%E5%BE%80%E8%BF%94%E6%B2%96%E7%B9%A9%E7%9F%B3%E5%9E%A3%E8%88%AA%E7%8F%AD%E5%8F%96%E6%B6%88-8-5%E5%8A%A0%E9%96%8B1%E7%8F%AD",
     "timestamp": "2026-08-04T09:19:28.797Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "9成人蔬果沒吃夠！增癌症心血管病風險　台國健署教3蔬2果原則",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20251210/1075480887988064256402836.jpeg/BZOdELSHhCL7BQ1kgXCrQrVJgMc5NGI0wIzDesCMw3o?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60365797/9%E6%88%90%E4%BA%BA%E8%94%AC%E6%9E%9C%E6%B2%92%E5%90%83%E5%A4%A0-%E5%A2%9E%E7%99%8C%E7%97%87%E5%BF%83%E8%A1%80%E7%AE%A1%E7%97%85%E9%A2%A8%E9%9A%AA-%E5%8F%B0%E5%9C%8B%E5%81%A5%E7%BD%B2%E6%95%993%E8%94%AC2%E6%9E%9C%E5%8E%9F%E5%89%87",
-    "timestamp": "2026-08-04T08:11:05.144Z",
     "strategy": ".content-card__main"
   }
 ];
