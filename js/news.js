@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-05T07:12:39.896Z
+// Last updated: 2026-08-05T10:17:30.001Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "好人好事｜阿叔上巴士遺環保袋　港男代保管獲請客　網民讚：雙贏",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260804/1161453846224965632843652.png/VwB3ye_vyKlhyjzfMIhp1tMF2ZM_gSPdNmthDTZrYQ0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60376838/%E5%A5%BD%E4%BA%BA%E5%A5%BD%E4%BA%8B-%E9%98%BF%E5%8F%94%E4%B8%8A%E5%B7%B4%E5%A3%AB%E9%81%BA%E7%92%B0%E4%BF%9D%E8%A2%8B-%E6%B8%AF%E7%94%B7%E4%BB%A3%E4%BF%9D%E7%AE%A1%E7%8D%B2%E8%AB%8B%E5%AE%A2-%E7%B6%B2%E6%B0%91%E8%AE%9A-%E9%9B%99%E8%B4%8F",
+    "timestamp": "2026-08-05T10:17:30.001Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "旅遊心得｜搭飛機不會選座位？空服員曝2位最差　最佳位置落機快",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20251210/1075480887988064256402836.jpeg/BZOdELSHhCL7BQ1kgXCrQrVJgMc5NGI0wIzDesCMw3o?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60365797/9%E6%88%90%E4%BA%BA%E8%94%AC%E6%9E%9C%E6%B2%92%E5%90%83%E5%A4%A0-%E5%A2%9E%E7%99%8C%E7%97%87%E5%BF%83%E8%A1%80%E7%AE%A1%E7%97%85%E9%A2%A8%E9%9A%AA-%E5%8F%B0%E5%9C%8B%E5%81%A5%E7%BD%B2%E6%95%993%E8%94%AC2%E6%9E%9C%E5%8E%9F%E5%89%87",
     "timestamp": "2026-08-04T08:11:05.144Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "大埔食品廠工業意外　女工遭包裝機器切斷一節手指",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250726/1025773786311430144172349.jpeg/PRJwksiMmDU6mtTYqC1a0jq7z25CLG_fRG_biURv24k?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60376690/%E5%A4%A7%E5%9F%94%E9%A3%9F%E5%93%81%E5%BB%A0%E5%B7%A5%E6%A5%AD%E6%84%8F%E5%A4%96-%E5%A5%B3%E5%B7%A5%E9%81%AD%E5%8C%85%E8%A3%9D%E6%A9%9F%E5%99%A8%E5%88%87%E6%96%B7%E4%B8%80%E7%AF%80%E6%89%8B%E6%8C%87",
-    "timestamp": "2026-08-04T07:15:53.178Z",
     "strategy": ".content-card__main"
   }
 ];
