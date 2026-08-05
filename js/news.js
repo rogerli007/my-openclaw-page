@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-05T12:49:19.835Z
+// Last updated: 2026-08-05T14:22:27.688Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "姚焯菲疑藐爆鍾柔美　認私下交好常互串互藐：呢個係我哋相處模式",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260805/1161708856053600256145639.jpeg/ByAsPpCaJSbIcrRSVK8Wugb-gz2wpTtum2yX_5tsl_8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60377096/%E5%A7%9A%E7%84%AF%E8%8F%B2%E7%96%91%E8%97%90%E7%88%86%E9%8D%BE%E6%9F%94%E7%BE%8E-%E8%AA%8D%E7%A7%81%E4%B8%8B%E4%BA%A4%E5%A5%BD%E5%B8%B8%E4%BA%92%E4%B8%B2%E4%BA%92%E8%97%90-%E5%91%A2%E5%80%8B%E4%BF%82%E6%88%91%E5%93%8B%E7%9B%B8%E8%99%95%E6%A8%A1%E5%BC%8F",
+    "timestamp": "2026-08-05T14:22:27.688Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "内地人境外保險收益徵税據報已啟動！　保誠倫敦股價急瀉逾8%",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260804/1161325205314867200237508.png/BtVmd5PZQNIPpbPO5PJTQJYydO_OmwS5F4P0KReD9Ck?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60376645/%E7%82%BA%E9%A4%8A%E5%AE%B6%E6%BC%94%E5%A4%A7%E5%B0%BA%E5%BA%A6%E6%88%B2%E9%82%84%E8%A2%AB%E9%80%BC%E9%99%AA%E9%85%92-%E9%9F%93%E5%8A%87%E6%96%B0%E6%98%9F%E9%87%91%E4%B8%96%E4%BB%81%E9%9A%B1%E9%80%8013%E5%B9%B4%E8%BD%89%E5%81%9A%E5%A4%96%E8%B3%A3%E5%93%A1",
     "timestamp": "2026-08-04T15:38:37.273Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "中國罵人的藝術：曾被視為「極道德」行為　有10大鐵律精練如兵法",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260803/1160897506167492608285734.jpeg/8-qb8cn2FAFsA_ts76p0_8crVpaf4mvPZTbnyGU258g?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60376163/%E4%B8%AD%E5%9C%8B%E7%BD%B5%E4%BA%BA%E7%9A%84%E8%97%9D%E8%A1%93-%E6%9B%BE%E8%A2%AB%E8%A6%96%E7%82%BA-%E6%A5%B5%E9%81%93%E5%BE%B7-%E8%A1%8C%E7%82%BA-%E6%9C%8910%E5%A4%A7%E9%90%B5%E5%BE%8B%E7%B2%BE%E7%B7%B4%E5%A6%82%E5%85%B5%E6%B3%95",
-    "timestamp": "2026-08-04T13:42:08.653Z",
     "strategy": ".content-card__main"
   }
 ];
