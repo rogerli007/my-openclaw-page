@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-05T22:58:49.060Z
+// Last updated: 2026-08-05T23:28:52.944Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "路透：朝鮮導彈部隊部署俄羅斯　基輔稱或配120枚彈道導彈襲烏",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260128/1093071450526584832249671.jpeg/UqagrJyupMpYaWZp32Axf_5n7JIBR9lG936oZfd-qGU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60377286/%E8%B7%AF%E9%80%8F-%E6%9C%9D%E9%AE%AE%E5%B0%8E%E5%BD%88%E9%83%A8%E9%9A%8A%E9%83%A8%E7%BD%B2%E4%BF%84%E7%BE%85%E6%96%AF-%E5%9F%BA%E8%BC%94%E7%A8%B1%E6%88%96%E9%85%8D120%E6%9E%9A%E5%BD%88%E9%81%93%E5%B0%8E%E5%BD%88%E8%A5%B2%E7%83%8F",
+    "timestamp": "2026-08-05T23:28:52.944Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "演講過程中提詞器故障　加拿大總理卡尼借機嘲諷特朗普",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260804/1161347721831911424897130.png/KK1v969VWPd1q3uDiChQfGUrE2FaSTg_JFPcnCRT3Jw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60376570/%E6%AF%9B%E9%AA%A8%E6%82%9A%E7%84%B6%E7%9A%84%E6%88%80%E6%84%9B-%E9%82%95%E8%81%96%E7%A5%90%E6%98%AF%E8%AA%B0-%E5%90%8D%E5%AD%97%E6%80%8E%E9%BA%BC%E8%AE%80-%E5%85%A8%E7%B6%B2%E7%82%BA%E4%BB%96%E5%A4%B1%E6%88%80%E5%BF%83%E7%96%BC",
     "timestamp": "2026-08-05T01:43:40.949Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普與卡塔爾國王通話　霍爾木茲海峽達成協議或出現曙光",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20251026/1059001125321052160802695.jpeg/CbTE_cQ3F8nJgDogD8l_SqXK4KZl3qkCLttNaC7bTWg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60376893/%E7%89%B9%E6%9C%97%E6%99%AE%E8%88%87%E5%8D%A1%E5%A1%94%E7%88%BE%E5%9C%8B%E7%8E%8B%E9%80%9A%E8%A9%B1-%E9%9C%8D%E7%88%BE%E6%9C%A8%E8%8C%B2%E6%B5%B7%E5%B3%BD%E9%81%94%E6%88%90%E5%8D%94%E8%AD%B0%E6%88%96%E5%87%BA%E7%8F%BE%E6%9B%99%E5%85%89",
-    "timestamp": "2026-08-05T00:53:39.641Z",
     "strategy": ".content-card__main"
   }
 ];
