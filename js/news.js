@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-05T06:13:21.803Z
+// Last updated: 2026-08-05T07:12:39.896Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "旅遊心得｜搭飛機不會選座位？空服員曝2位最差　最佳位置落機快",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260722/1156622721367412736426389.jpeg/8MjzMgBzJTnwN42h2lsrteDXnHxy_5BJ4yhAceMoQHE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%97%85%E9%81%8A/60372562/%E6%97%85%E9%81%8A%E5%BF%83%E5%BE%97-%E6%90%AD%E9%A3%9B%E6%A9%9F%E4%B8%8D%E6%9C%83%E9%81%B8%E5%BA%A7%E4%BD%8D-%E7%A9%BA%E6%9C%8D%E5%93%A1%E6%9B%9D2%E4%BD%8D%E6%9C%80%E5%B7%AE-%E6%9C%80%E4%BD%B3%E4%BD%8D%E7%BD%AE%E8%90%BD%E6%A9%9F%E5%BF%AB",
+    "timestamp": "2026-08-05T07:12:39.896Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "地盤禁煙｜勞工處試用紅外線無人機助查熱源　研結合AI偵違例吸煙",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250726/1025773786311430144172349.jpeg/PRJwksiMmDU6mtTYqC1a0jq7z25CLG_fRG_biURv24k?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60376690/%E5%A4%A7%E5%9F%94%E9%A3%9F%E5%93%81%E5%BB%A0%E5%B7%A5%E6%A5%AD%E6%84%8F%E5%A4%96-%E5%A5%B3%E5%B7%A5%E9%81%AD%E5%8C%85%E8%A3%9D%E6%A9%9F%E5%99%A8%E5%88%87%E6%96%B7%E4%B8%80%E7%AF%80%E6%89%8B%E6%8C%87",
     "timestamp": "2026-08-04T07:15:53.178Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "納米樓悲歌！馬鞍山薈朗開放式「蝕讓價」求售　5年終輸過百萬",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250602/1006192689693069312175609.jpeg/4o5VmtINHInuS-7wGS1eajaM_QA5Vud1aVovJ2laLyc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60375691/%E9%A6%AC%E9%9E%8D%E5%B1%B1%E8%96%88%E6%9C%97%E9%96%8B%E6%94%BE%E5%BC%8F300%E8%90%AC%E5%85%83%E6%B2%BD%E6%B1%82%E5%94%AE-%E4%B8%8A%E6%89%8B5%E5%B9%B4%E7%B5%82%E8%BC%B8%E9%81%8E%E7%99%BE%E8%90%AC%E9%9B%A2%E5%A0%B4",
-    "timestamp": "2026-08-04T03:44:12.070Z",
     "strategy": ".content-card__main"
   }
 ];
