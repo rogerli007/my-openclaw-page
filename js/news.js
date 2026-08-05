@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-05T23:28:52.944Z
+// Last updated: 2026-08-05T23:54:27.134Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "港人夫婦澳門搭的士拾遺不報　偷相機及電池　再入境時遭截獲",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260806/1161939536469561344546903.jpeg/qTX-nmo33Wj8mYEiolrefVx11PrzUKCCOO3HSzjtx0s?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60377287/%E6%B8%AF%E4%BA%BA%E5%A4%AB%E5%A9%A6%E6%BE%B3%E9%96%80%E6%90%AD%E7%9A%84%E5%A3%AB%E6%8B%BE%E9%81%BA%E4%B8%8D%E5%A0%B1-%E5%81%B7%E7%9B%B8%E6%A9%9F%E5%8F%8A%E9%9B%BB%E6%B1%A0-%E5%86%8D%E5%85%A5%E5%A2%83%E6%99%82%E9%81%AD%E6%88%AA%E7%8D%B2",
+    "timestamp": "2026-08-05T23:54:27.134Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "路透：朝鮮導彈部隊部署俄羅斯　基輔稱或配120枚彈道導彈襲烏",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260804/1161270677416710144378059.jpeg/4Ylo42xaemuziW3yrUifQ7eJ1t4TrTidlCkAL5QpAC8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%B0%88%E4%B8%8A%E6%95%99%E8%82%B2/60376565/%E7%A7%91%E5%A4%A7%E8%88%89%E8%BE%A6%E8%98%87%E5%A3%AB%E6%BE%8D-%E6%BC%A2%E5%AD%97%E9%A0%8C-%E6%9B%B8%E6%B3%95%E5%B1%95-35%E5%B9%85%E5%A2%A8%E5%AF%B6%E9%A6%96%E5%BA%A6%E5%9C%A8%E6%B8%AF%E4%BA%AE%E7%9B%B8%E5%8B%89%E5%8B%B5%E5%B8%AB%E7%94%9F",
     "timestamp": "2026-08-05T02:45:09.272Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "《毛骨悚然的戀愛》邕聖祐是誰？名字怎麼讀？全網為他失戀心疼！",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260804/1161347721831911424897130.png/KK1v969VWPd1q3uDiChQfGUrE2FaSTg_JFPcnCRT3Jw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60376570/%E6%AF%9B%E9%AA%A8%E6%82%9A%E7%84%B6%E7%9A%84%E6%88%80%E6%84%9B-%E9%82%95%E8%81%96%E7%A5%90%E6%98%AF%E8%AA%B0-%E5%90%8D%E5%AD%97%E6%80%8E%E9%BA%BC%E8%AE%80-%E5%85%A8%E7%B6%B2%E7%82%BA%E4%BB%96%E5%A4%B1%E6%88%80%E5%BF%83%E7%96%BC",
-    "timestamp": "2026-08-05T01:43:40.949Z",
     "strategy": ".content-card__main"
   }
 ];
