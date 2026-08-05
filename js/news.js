@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-04T23:42:10.578Z
+// Last updated: 2026-08-05T00:14:19.924Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "小貓被困江心生命垂危　官方特批無人機救援　暖心一幕獲無數點讚",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260721/1156250566305779712493158.jpeg/j5CQZaLfSj0RIIpZwssLPsYd3b47L_b9y5Fg28uRYNs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%AF%B5%E7%89%A9/60372108/%E5%B0%8F%E8%B2%93%E8%A2%AB%E5%9B%B0%E6%B1%9F%E5%BF%83%E7%94%9F%E5%91%BD%E5%9E%82%E5%8D%B1-%E5%AE%98%E6%96%B9%E7%89%B9%E6%89%B9%E7%84%A1%E4%BA%BA%E6%A9%9F%E6%95%91%E6%8F%B4-%E6%9A%96%E5%BF%83%E4%B8%80%E5%B9%95%E7%8D%B2%E7%84%A1%E6%95%B8%E9%BB%9E%E8%AE%9A",
+    "timestamp": "2026-08-05T00:14:19.924Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "方信雄談海峽危機・二｜除了伊朗美國爭奪航道　港口也是關鍵？",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260803/1161092422344642560279364.jpeg/_VUREXITobttm93tFqeCC2jEcv5TB5rfeS2Z8HktmfA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60376437/%E5%94%90%E8%A9%A9%E8%A9%A0%E6%B7%9A%E5%B4%A9%E8%87%AA%E8%B2%AC%E7%82%BA%E4%BA%8B%E6%A5%AD%E5%BF%BD%E7%95%A5%E4%BA%A1%E6%AF%8D-%E7%95%99%E9%81%BA%E6%86%BE%E6%88%90%E9%9B%A2%E5%B7%A2%E5%B0%8E%E7%81%AB%E7%B7%9A-%E6%83%B3%E4%BF%AE%E6%AD%A3%E8%87%AA%E5%B7%B1",
     "timestamp": "2026-08-03T22:34:12.851Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美國環孢子蟲病疫情擴大　密歇根州兩人死亡成首例",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250209/965073739597221888759621.jpeg/C1t3o0_WThvTBVdcK6wOASZGlT25byhlhRv0tIUb9LQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60376493/%E7%BE%8E%E5%9C%8B%E7%92%B0%E5%AD%A2%E5%AD%90%E8%9F%B2%E7%97%85%E7%96%AB%E6%83%85%E6%93%B4%E5%A4%A7-%E5%AF%86%E6%AD%87%E6%A0%B9%E5%B7%9E%E5%85%A9%E4%BA%BA%E6%AD%BB%E4%BA%A1%E6%88%90%E9%A6%96%E4%BE%8B",
-    "timestamp": "2026-08-03T22:00:09.416Z",
     "strategy": ".content-card__main"
   }
 ];
