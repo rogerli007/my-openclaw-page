@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-05T00:14:19.924Z
+// Last updated: 2026-08-05T00:53:39.641Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "特朗普與卡塔爾國王通話　霍爾木茲海峽達成協議或出現曙光",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20251026/1059001125321052160802695.jpeg/CbTE_cQ3F8nJgDogD8l_SqXK4KZl3qkCLttNaC7bTWg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60376893/%E7%89%B9%E6%9C%97%E6%99%AE%E8%88%87%E5%8D%A1%E5%A1%94%E7%88%BE%E5%9C%8B%E7%8E%8B%E9%80%9A%E8%A9%B1-%E9%9C%8D%E7%88%BE%E6%9C%A8%E8%8C%B2%E6%B5%B7%E5%B3%BD%E9%81%94%E6%88%90%E5%8D%94%E8%AD%B0%E6%88%96%E5%87%BA%E7%8F%BE%E6%9B%99%E5%85%89",
+    "timestamp": "2026-08-05T00:53:39.641Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "小貓被困江心生命垂危　官方特批無人機救援　暖心一幕獲無數點讚",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250927/1048397208510009344123406.jpeg/f6X4t6TTyzFee-lx_TzubWcxO6XYMTeNkew0WJHsNFg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60376498/%E7%BE%8E%E5%9C%8B25%E5%B7%9E%E5%85%A5%E7%A8%9F%E6%8E%A7%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C-%E5%90%9160%E7%B6%93%E6%BF%9F%E9%AB%94%E5%8A%A0%E5%BE%B5301%E9%97%9C%E7%A8%85%E6%B6%89%E9%81%95%E6%B3%95",
     "timestamp": "2026-08-03T23:58:20.630Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "視后淚崩自責為事業忽略亡母　留遺憾成離巢導火線：想修正自己",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260803/1161092422344642560279364.jpeg/_VUREXITobttm93tFqeCC2jEcv5TB5rfeS2Z8HktmfA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60376437/%E5%94%90%E8%A9%A9%E8%A9%A0%E6%B7%9A%E5%B4%A9%E8%87%AA%E8%B2%AC%E7%82%BA%E4%BA%8B%E6%A5%AD%E5%BF%BD%E7%95%A5%E4%BA%A1%E6%AF%8D-%E7%95%99%E9%81%BA%E6%86%BE%E6%88%90%E9%9B%A2%E5%B7%A2%E5%B0%8E%E7%81%AB%E7%B7%9A-%E6%83%B3%E4%BF%AE%E6%AD%A3%E8%87%AA%E5%B7%B1",
-    "timestamp": "2026-08-03T22:34:12.851Z",
     "strategy": ".content-card__main"
   }
 ];
