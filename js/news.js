@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-05T19:38:07.535Z
+// Last updated: 2026-08-05T20:55:37.527Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "魯比奧華盛頓會見文立彬　議伊朗、俄烏戰事及歐洲安全",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260806/1161876062091612160687145.jpeg/QRiofXerYRuwkr9thqXg0g1_M2N523HkIUYoqyFGKKs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60377275/%E9%AD%AF%E6%AF%94%E5%A5%A7%E8%8F%AF%E7%9B%9B%E9%A0%93%E6%9C%83%E8%A6%8B%E6%96%87%E7%AB%8B%E5%BD%AC-%E8%AD%B0%E4%BC%8A%E6%9C%97-%E4%BF%84%E7%83%8F%E6%88%B0%E4%BA%8B%E5%8F%8A%E6%AD%90%E6%B4%B2%E5%AE%89%E5%85%A8",
+    "timestamp": "2026-08-05T20:55:37.527Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "魯比奧華盛頓會見文立彬　議伊朗、俄烏戰事及歐洲安全",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260513/1131205335982280704167405.jpeg/CAaxuCgUgGwITNLWJEjnqkkTG0vrQS02PwpPrj8KT64?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%9C%8B%E9%9A%9B%E5%88%86%E6%9E%90/60376863/%E6%96%B9%E4%BF%A1%E9%9B%84%E8%AB%87%E6%B5%B7%E5%B3%BD%E5%8D%B1%E6%A9%9F-%E4%BA%8C-%E9%99%A4%E4%BA%86%E4%BC%8A%E6%9C%97%E7%BE%8E%E5%9C%8B%E7%88%AD%E5%A5%AA%E8%88%AA%E9%81%93-%E6%B8%AF%E5%8F%A3%E4%B9%9F%E6%98%AF%E9%97%9C%E9%8D%B5",
     "timestamp": "2026-08-04T23:42:10.578Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "澳洲華人一家3口命喪火海　祖母目擊至親被困　圖衝入火場終被阻",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260803/1160984056804937728501726.png/PolLQdKgiI6TceSfHt3YrQOdp8zJc3rO3j8Kad4_Cmk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E8%A9%B1%E9%A1%8C/60376037/%E6%BE%B3%E6%B4%B2%E8%8F%AF%E4%BA%BA%E4%B8%80%E5%AE%B63%E5%8F%A3%E5%91%BD%E5%96%AA%E7%81%AB%E6%B5%B7-%E7%A5%96%E6%AF%8D%E7%9B%AE%E6%93%8A%E8%87%B3%E8%A6%AA%E8%A2%AB%E5%9B%B0-%E5%9C%96%E8%A1%9D%E5%85%A5%E7%81%AB%E5%A0%B4%E7%B5%82%E8%A2%AB%E9%98%BB",
-    "timestamp": "2026-08-04T23:15:57.411Z",
     "strategy": ".content-card__main"
   }
 ];
