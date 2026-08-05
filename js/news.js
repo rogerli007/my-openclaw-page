@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-05T00:53:39.641Z
+// Last updated: 2026-08-05T01:43:40.949Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "《毛骨悚然的戀愛》邕聖祐是誰？名字怎麼讀？全網為他失戀心疼！",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260804/1161347721831911424897130.png/KK1v969VWPd1q3uDiChQfGUrE2FaSTg_JFPcnCRT3Jw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60376570/%E6%AF%9B%E9%AA%A8%E6%82%9A%E7%84%B6%E7%9A%84%E6%88%80%E6%84%9B-%E9%82%95%E8%81%96%E7%A5%90%E6%98%AF%E8%AA%B0-%E5%90%8D%E5%AD%97%E6%80%8E%E9%BA%BC%E8%AE%80-%E5%85%A8%E7%B6%B2%E7%82%BA%E4%BB%96%E5%A4%B1%E6%88%80%E5%BF%83%E7%96%BC",
+    "timestamp": "2026-08-05T01:43:40.949Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "特朗普與卡塔爾國王通話　霍爾木茲海峽達成協議或出現曙光",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250629/1016094356064440320273651.jpeg/fRKFBToUw0VQLO9Io9_g3kVY4ua6Gcf3_Lfpzfy36c0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60376501/%E4%BA%9E%E9%A6%AC%E9%81%9C%E5%B8%82%E5%80%BC%E9%A6%96%E7%AA%81%E7%A0%B43%E8%90%AC%E5%84%84%E7%BE%8E%E5%85%83-%E8%B2%9D%E7%B4%A2%E6%96%AF%E6%93%AC%E6%B2%BD40-7%E5%84%84%E7%BE%8E%E5%85%83%E6%8C%81%E8%82%A1%E5%A5%97%E7%8F%BE",
     "timestamp": "2026-08-04T00:50:12.616Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美國25州入稟控特朗普政府　向60經濟體加徵301關稅涉違法",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250927/1048397208510009344123406.jpeg/f6X4t6TTyzFee-lx_TzubWcxO6XYMTeNkew0WJHsNFg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60376498/%E7%BE%8E%E5%9C%8B25%E5%B7%9E%E5%85%A5%E7%A8%9F%E6%8E%A7%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C-%E5%90%9160%E7%B6%93%E6%BF%9F%E9%AB%94%E5%8A%A0%E5%BE%B5301%E9%97%9C%E7%A8%85%E6%B6%89%E9%81%95%E6%B3%95",
-    "timestamp": "2026-08-03T23:58:20.630Z",
     "strategy": ".content-card__main"
   }
 ];
