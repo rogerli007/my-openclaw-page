@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-05T01:43:40.949Z
+// Last updated: 2026-08-05T02:45:09.272Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "科大舉辦蘇士澍《漢字頌》書法展　35幅墨寶首度在港亮相勉勵師生",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260804/1161270677416710144378059.jpeg/4Ylo42xaemuziW3yrUifQ7eJ1t4TrTidlCkAL5QpAC8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%B0%88%E4%B8%8A%E6%95%99%E8%82%B2/60376565/%E7%A7%91%E5%A4%A7%E8%88%89%E8%BE%A6%E8%98%87%E5%A3%AB%E6%BE%8D-%E6%BC%A2%E5%AD%97%E9%A0%8C-%E6%9B%B8%E6%B3%95%E5%B1%95-35%E5%B9%85%E5%A2%A8%E5%AF%B6%E9%A6%96%E5%BA%A6%E5%9C%A8%E6%B8%AF%E4%BA%AE%E7%9B%B8%E5%8B%89%E5%8B%B5%E5%B8%AB%E7%94%9F",
+    "timestamp": "2026-08-05T02:45:09.272Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "《毛骨悚然的戀愛》邕聖祐是誰？名字怎麼讀？全網為他失戀心疼！",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260804/1161238110093185024138572.jpeg/OTlwKFbGEWfRUIsEqElOOidU6_9FyqhisYDylLGA8pQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60376508/%E6%BB%99%E8%B1%90%E5%AD%A3%E7%B8%BE%E9%A0%90%E6%B8%AC-%E6%8A%95%E8%A1%8C%E6%96%99%E7%8D%85%E7%8E%8B%E4%B8%8A%E5%AD%A3%E7%A8%85%E5%89%8D%E5%A4%9A%E8%B3%BA53-%E9%97%9C%E6%B3%A8%E9%87%8D%E5%95%9F%E5%9B%9E%E8%B3%BC%E6%B6%88%E6%81%AF",
     "timestamp": "2026-08-04T01:24:53.589Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "亞馬遜市值首突破3萬億美元　貝索斯擬沽40.7億美元持股套現",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250629/1016094356064440320273651.jpeg/fRKFBToUw0VQLO9Io9_g3kVY4ua6Gcf3_Lfpzfy36c0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60376501/%E4%BA%9E%E9%A6%AC%E9%81%9C%E5%B8%82%E5%80%BC%E9%A6%96%E7%AA%81%E7%A0%B43%E8%90%AC%E5%84%84%E7%BE%8E%E5%85%83-%E8%B2%9D%E7%B4%A2%E6%96%AF%E6%93%AC%E6%B2%BD40-7%E5%84%84%E7%BE%8E%E5%85%83%E6%8C%81%E8%82%A1%E5%A5%97%E7%8F%BE",
-    "timestamp": "2026-08-04T00:50:12.616Z",
     "strategy": ".content-card__main"
   }
 ];
