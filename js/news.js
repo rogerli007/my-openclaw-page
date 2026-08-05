@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-05T18:17:58.359Z
+// Last updated: 2026-08-05T18:56:55.673Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "歐洲最大貨運樞紐發現爆炸品無人機　德國展開反恐調查",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260806/1161853687195242496327941.png/H5aRRDoFlR6mZpYhSrdrWN1ywaPDnkP7CtuKrgrbiq4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60377270/%E6%AD%90%E6%B4%B2%E6%9C%80%E5%A4%A7%E8%B2%A8%E9%81%8B%E6%A8%9E%E7%B4%90%E7%99%BC%E7%8F%BE%E7%88%86%E7%82%B8%E5%93%81%E7%84%A1%E4%BA%BA%E6%A9%9F-%E5%BE%B7%E5%9C%8B%E5%B1%95%E9%96%8B%E5%8F%8D%E6%81%90%E8%AA%BF%E6%9F%A5",
+    "timestamp": "2026-08-05T18:56:55.673Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "歐洲最大貨運樞紐發現爆炸品無人機　德國展開反恐調查",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260805/1161559741520941056902173.jpeg/hegBei9SrDORSxmAGNcKT_uUARmri7yfGVJTLBlSUyw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60376886/%E9%A6%AC%E7%81%A3%E7%8F%80%E9%BA%97%E7%81%A3%E5%A4%A9%E8%8A%B1%E6%89%B9%E7%9B%AA%E5%89%9D%E8%90%BD-%E7%9B%B4%E5%A2%AE%E8%A1%8C%E4%BA%BA%E9%80%9A%E9%81%93-%E7%B6%B2%E6%B0%91-%E5%B9%B8%E5%A5%BD%E5%86%87%E4%BA%BA%E7%B6%93%E9%81%8E",
     "timestamp": "2026-08-04T22:46:48.992Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "內塔尼亞胡：在哈馬斯完全解除武裝前　以軍不會撤出加沙",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260706/1150771438534266880836074.jpeg/pANvCNERFnhsbrQS5OFdxNxXMwIpg1ZOpcToc6XE6HM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60376881/%E5%85%A7%E5%A1%94%E5%B0%BC%E4%BA%9E%E8%83%A1-%E5%9C%A8%E5%93%88%E9%A6%AC%E6%96%AF%E5%AE%8C%E5%85%A8%E8%A7%A3%E9%99%A4%E6%AD%A6%E8%A3%9D%E5%89%8D-%E4%BB%A5%E8%BB%8D%E4%B8%8D%E6%9C%83%E6%92%A4%E5%87%BA%E5%8A%A0%E6%B2%99",
-    "timestamp": "2026-08-04T21:48:41.724Z",
     "strategy": ".content-card__main"
   }
 ];
