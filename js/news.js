@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-05T16:54:46.538Z
+// Last updated: 2026-08-05T17:38:43.947Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "黎彼得離世｜許家傑指Peter哥表面玩世不恭：非常照顧人嘅前輩",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260806/1161837914586353664436870.jpeg/VkawyiZticw9bjvaJtVoa5Rrq9grvsp_T0Zd5k9GXeY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60377267/%E9%BB%8E%E5%BD%BC%E5%BE%97%E9%9B%A2%E4%B8%96-%E8%A8%B1%E5%AE%B6%E5%82%91%E6%8C%87peter%E5%93%A5%E8%A1%A8%E9%9D%A2%E7%8E%A9%E4%B8%96%E4%B8%8D%E6%81%AD-%E9%9D%9E%E5%B8%B8%E7%85%A7%E9%A1%A7%E4%BA%BA%E5%98%85%E5%89%8D%E8%BC%A9",
+    "timestamp": "2026-08-05T17:38:43.947Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "黎彼得離世｜《唐伯虎》演華府老師　跟周星馳背詩踩界唔過電檢",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260805/1161518471687704576142850.jpeg/heQMlWutReVsHD_YOz7Ui3xdsJZZeQemsFbdL7BW3S8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60376874/%E8%B7%A8%E9%83%A8%E9%96%80%E8%8D%83%E7%81%A3%E6%8E%83%E9%BB%83-13%E5%A5%B3%E8%A2%AB%E6%8D%95",
     "timestamp": "2026-08-04T19:58:38.315Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "西貢男子浮潛捉蟹失蹤影　同伴擔心安危報案　救援人員到場證誤會",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260805/1161498452648005632271935.jpeg/MCii4qU0TO3iVrpj6Kzsx0G-f7mprhdUySv1XfMr9V0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60376862/%E8%A5%BF%E8%B2%A2%E7%94%B7%E5%AD%90%E6%B5%AE%E6%BD%9B%E6%8D%89%E8%9F%B9%E5%A4%B1%E8%B9%A4%E5%BD%B1-%E5%90%8C%E4%BC%B4%E6%93%94%E5%BF%83%E5%AE%89%E5%8D%B1%E5%A0%B1%E6%A1%88-%E6%95%91%E6%8F%B4%E4%BA%BA%E5%93%A1%E5%88%B0%E5%A0%B4%E8%AD%89%E8%AA%A4%E6%9C%83",
-    "timestamp": "2026-08-04T18:41:07.039Z",
     "strategy": ".content-card__main"
   }
 ];
