@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-06T14:56:03.728Z
+// Last updated: 2026-08-06T23:48:46.310Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "來稿｜京港互動新機遇——打造中華文化藝術出海新範式",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260806/1162017016207380480708964.png/_zdG0QBtbwymPpoRoEmpSOE1cuA-oBjWAbqgaAG6oGg?v=w1920r16_9",
+    "url": "https://www.hk01.com/01%E8%AB%96%E5%A3%87/60377405/%E4%BE%86%E7%A8%BF-%E4%BA%AC%E6%B8%AF%E4%BA%92%E5%8B%95%E6%96%B0%E6%A9%9F%E9%81%87-%E6%89%93%E9%80%A0%E4%B8%AD%E8%8F%AF%E6%96%87%E5%8C%96%E8%97%9D%E8%A1%93%E5%87%BA%E6%B5%B7%E6%96%B0%E7%AF%84%E5%BC%8F",
+    "timestamp": "2026-08-06T23:48:46.310Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "假救生員｜跑馬地豪宅雲暉大廈疑有救生員用虛假證件　食環署報警",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260806/1161876062091612160687145.jpeg/QRiofXerYRuwkr9thqXg0g1_M2N523HkIUYoqyFGKKs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60377275/%E9%AD%AF%E6%AF%94%E5%A5%A7%E8%8F%AF%E7%9B%9B%E9%A0%93%E6%9C%83%E8%A6%8B%E6%96%87%E7%AB%8B%E5%BD%AC-%E8%AD%B0%E4%BC%8A%E6%9C%97-%E4%BF%84%E7%83%8F%E6%88%B0%E4%BA%8B%E5%8F%8A%E6%AD%90%E6%B4%B2%E5%AE%89%E5%85%A8",
     "timestamp": "2026-08-05T20:55:37.527Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "魯比奧華盛頓會見文立彬　議伊朗、俄烏戰事及歐洲安全",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260806/1161876062091612160687145.jpeg/QRiofXerYRuwkr9thqXg0g1_M2N523HkIUYoqyFGKKs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60377275/%E9%AD%AF%E6%AF%94%E5%A5%A7%E8%8F%AF%E7%9B%9B%E9%A0%93%E6%9C%83%E8%A6%8B%E6%96%87%E7%AB%8B%E5%BD%AC-%E8%AD%B0%E4%BC%8A%E6%9C%97-%E4%BF%84%E7%83%8F%E6%88%B0%E4%BA%8B%E5%8F%8A%E6%AD%90%E6%B4%B2%E5%AE%89%E5%85%A8",
-    "timestamp": "2026-08-05T19:38:07.535Z",
     "strategy": ".content-card__main"
   }
 ];
