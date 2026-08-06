@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-06T05:46:57.032Z
+// Last updated: 2026-08-06T06:45:00.321Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "黎彼得離世｜「契仔」黃宗澤痛別悼念　曾患難見真情義氣出手術費",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20220220/572146022046765056739504.jpeg/efR1G2W7vTsPNS79gCFfKspyQzTy8O-I4-r8B8Xq_Ac?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60377460/%E9%BB%8E%E5%BD%BC%E5%BE%97%E9%9B%A2%E4%B8%96-%E5%A5%91%E4%BB%94-%E9%BB%83%E5%AE%97%E6%BE%A4%E7%97%9B%E5%88%A5%E6%82%BC%E5%BF%B5-%E6%9B%BE%E6%82%A3%E9%9B%A3%E8%A6%8B%E7%9C%9F%E6%83%85%E7%BE%A9%E6%B0%A3%E5%87%BA%E6%89%8B%E8%A1%93%E8%B2%BB",
+    "timestamp": "2026-08-06T06:45:00.321Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "商人胡楚南非禮女職員囚2周　曾捐2千萬人民幣有貢獻　指刑罰太重",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260805/1161708856053600256145639.jpeg/ByAsPpCaJSbIcrRSVK8Wugb-gz2wpTtum2yX_5tsl_8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60377096/%E5%A7%9A%E7%84%AF%E8%8F%B2%E7%96%91%E8%97%90%E7%88%86%E9%8D%BE%E6%9F%94%E7%BE%8E-%E8%AA%8D%E7%A7%81%E4%B8%8B%E4%BA%A4%E5%A5%BD%E5%B8%B8%E4%BA%92%E4%B8%B2%E4%BA%92%E8%97%90-%E5%91%A2%E5%80%8B%E4%BF%82%E6%88%91%E5%93%8B%E7%9B%B8%E8%99%95%E6%A8%A1%E5%BC%8F",
     "timestamp": "2026-08-05T14:22:27.688Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "内地人境外保險收益徵税據報已啟動！　保誠倫敦股價急瀉逾8%",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260805/1161771968484085760321547.jpeg/2e4GrtJXXO8PRX7bVSFoBx2ZZLpzXygtcI8VW3CPFVs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60377217/%E5%86%85%E5%9C%B0%E4%BA%BA%E5%A2%83%E5%A4%96%E4%BF%9D%E9%9A%AA%E6%94%B6%E7%9B%8A%E5%BE%B5%E7%A8%8E%E6%93%9A%E5%A0%B1%E5%B7%B2%E5%95%9F%E5%8B%95-%E4%BF%9D%E8%AA%A0%E5%80%AB%E6%95%A6%E8%82%A1%E5%83%B9%E6%80%A5%E7%80%89%E9%80%BE8",
-    "timestamp": "2026-08-05T12:49:19.835Z",
     "strategy": ".content-card__main"
   }
 ];
