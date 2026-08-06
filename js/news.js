@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-06T01:18:02.041Z
+// Last updated: 2026-08-06T02:05:39.720Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "廣島原爆81週年　高市早苗稱將堅持無核三原則",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260806/1161970623958749184943268.jpeg/j5qqQGzpA7c_AwOFIcpNbvyjVRufB9Cr-f5TUvn-U1I?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60377299/%E5%BB%A3%E5%B3%B6%E5%8E%9F%E7%88%8681%E9%80%B1%E5%B9%B4-%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E7%A8%B1%E5%B0%87%E5%A0%85%E6%8C%81%E7%84%A1%E6%A0%B8%E4%B8%89%E5%8E%9F%E5%89%87",
+    "timestamp": "2026-08-06T02:05:39.720Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "女子打瘦身針嚴重腹痛！醫生檢查超震驚　證實引發這併發症",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260722/1156622721367412736426389.jpeg/8MjzMgBzJTnwN42h2lsrteDXnHxy_5BJ4yhAceMoQHE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%97%85%E9%81%8A/60372562/%E6%97%85%E9%81%8A%E5%BF%83%E5%BE%97-%E6%90%AD%E9%A3%9B%E6%A9%9F%E4%B8%8D%E6%9C%83%E9%81%B8%E5%BA%A7%E4%BD%8D-%E7%A9%BA%E6%9C%8D%E5%93%A1%E6%9B%9D2%E4%BD%8D%E6%9C%80%E5%B7%AE-%E6%9C%80%E4%BD%B3%E4%BD%8D%E7%BD%AE%E8%90%BD%E6%A9%9F%E5%BF%AB",
     "timestamp": "2026-08-05T07:12:39.896Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "地盤禁煙｜勞工處試用紅外線無人機助查熱源　研結合AI偵違例吸煙",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260805/1161668296399917056425381.jpeg/N43veztYRtPcX16A_oY8kUwou5PZZzziMgiCeBcIgng?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60377024/%E5%9C%B0%E7%9B%A4%E7%A6%81%E7%85%99-%E5%8B%9E%E5%B7%A5%E8%99%95%E8%A9%A6%E7%94%A8%E7%B4%85%E5%A4%96%E7%B7%9A%E7%84%A1%E4%BA%BA%E6%A9%9F%E5%8A%A9%E6%9F%A5%E7%86%B1%E6%BA%90-%E7%A0%94%E7%B5%90%E5%90%88ai%E5%81%B5%E9%81%95%E4%BE%8B%E5%90%B8%E7%85%99",
-    "timestamp": "2026-08-05T06:13:21.803Z",
     "strategy": ".content-card__main"
   }
 ];
