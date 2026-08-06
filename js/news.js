@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-06T08:45:08.757Z
+// Last updated: 2026-08-06T09:47:02.651Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "黎彼得離世｜兒子黎樹德開記招鍾志光反駁不實傳聞：冇經濟問題",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260806/1162090742219280384305216.jpeg/xQ2iaumRSkDTF12OT5fhMravqnkdTK2kTIG8CkyBvAo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60377573/%E9%BB%8E%E5%BD%BC%E5%BE%97%E9%9B%A2%E4%B8%96-%E5%85%92%E5%AD%90%E9%BB%8E%E6%A8%B9%E5%BE%B7%E9%96%8B%E8%A8%98%E6%8B%9B%E9%8D%BE%E5%BF%97%E5%85%89%E5%8F%8D%E9%A7%81%E4%B8%8D%E5%AF%A6%E5%82%B3%E8%81%9E-%E5%86%87%E7%B6%93%E6%BF%9F%E5%95%8F%E9%A1%8C",
+    "timestamp": "2026-08-06T09:47:02.651Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "韓國產業部長：中國半導體產業發展速度驚人　須加快步伐否失主導",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260806/1161824947660656640849063.jpeg/jbjWMmaKQ4zv0y93RQ8H3tQsfJm9ZIphCrYE-wq2BPs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60377253/%E9%BB%8E%E5%BD%BC%E5%BE%97%E9%9B%A2%E4%B8%96-%E5%94%90%E4%BC%AF%E8%99%8E-%E6%BC%94%E8%8F%AF%E5%BA%9C%E8%80%81%E5%B8%AB-%E8%B7%9F%E5%91%A8%E6%98%9F%E9%A6%B3%E8%83%8C%E8%A9%A9%E8%B8%A9%E7%95%8C%E5%94%94%E9%81%8E%E9%9B%BB%E6%AA%A2",
     "timestamp": "2026-08-05T16:54:46.538Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "港鐵MMA．有片｜2男當眾纏鬥扯髮勾頸　和事佬勸架：唔好打",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260805/1161820839721570304293617.jpeg/fWnJsa9ayX2ably7bChJZ3nMhUv6FBuJjj8aBY4_GgU",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60377256/%E6%B8%AF%E9%90%B5mma-%E6%9C%89%E7%89%87-2%E7%94%B7%E7%95%B6%E7%9C%BE%E7%BA%8F%E9%AC%A5%E6%89%AF%E9%AB%AE%E5%8B%BE%E9%A0%B8-%E5%92%8C%E4%BA%8B%E4%BD%AC%E5%8B%B8%E6%9E%B6-%E5%94%94%E5%A5%BD%E6%89%93",
-    "timestamp": "2026-08-05T16:14:59.229Z",
     "strategy": ".content-card__main"
   }
 ];
