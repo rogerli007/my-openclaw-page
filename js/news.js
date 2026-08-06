@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-06T06:45:00.321Z
+// Last updated: 2026-08-06T07:45:17.382Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "FIFA主席恩芬天奴道歉但拒下台　秘書長對內對外兩版本證腹背受敵",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260806/1162028309156990976768541.jpeg/_2pXwEjBiWx5bv8nUD-6x79GhsTMeyRSPEdoYjxHaGI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60377449/fifa%E4%B8%BB%E5%B8%AD%E6%81%A9%E8%8A%AC%E5%A4%A9%E5%A5%B4%E9%81%93%E6%AD%89%E4%BD%86%E6%8B%92%E4%B8%8B%E5%8F%B0-%E7%A7%98%E6%9B%B8%E9%95%B7%E5%B0%8D%E5%85%A7%E5%B0%8D%E5%A4%96%E5%85%A9%E7%89%88%E6%9C%AC%E8%AD%89%E8%85%B9%E8%83%8C%E5%8F%97%E6%95%B5",
+    "timestamp": "2026-08-06T07:45:17.382Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "黎彼得離世｜「契仔」黃宗澤痛別悼念　曾患難見真情義氣出手術費",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260805/1161813773619564544921387.jpeg/PvBggSckLT315VaORZSZsUaU404n7O6onKlBxpypQcY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60377251/%E9%BB%8E%E5%BD%BC%E5%BE%97%E9%9B%A2%E4%B8%96-%E8%88%87%E8%A8%B1%E5%86%A0%E5%82%91%E5%82%B3%E6%B1%BA%E8%A3%82%E5%A4%9A%E5%B9%B4-%E7%9B%B4%E8%AA%8D%E4%BF%82%E5%94%94%E5%A4%BE-%E9%81%93%E4%B8%8D%E5%90%8C%E4%B8%8D%E7%9B%B8%E7%82%BA%E8%AC%80",
     "timestamp": "2026-08-05T15:22:17.478Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "姚焯菲疑藐爆鍾柔美　認私下交好常互串互藐：呢個係我哋相處模式",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260805/1161708856053600256145639.jpeg/ByAsPpCaJSbIcrRSVK8Wugb-gz2wpTtum2yX_5tsl_8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60377096/%E5%A7%9A%E7%84%AF%E8%8F%B2%E7%96%91%E8%97%90%E7%88%86%E9%8D%BE%E6%9F%94%E7%BE%8E-%E8%AA%8D%E7%A7%81%E4%B8%8B%E4%BA%A4%E5%A5%BD%E5%B8%B8%E4%BA%92%E4%B8%B2%E4%BA%92%E8%97%90-%E5%91%A2%E5%80%8B%E4%BF%82%E6%88%91%E5%93%8B%E7%9B%B8%E8%99%95%E6%A8%A1%E5%BC%8F",
-    "timestamp": "2026-08-05T14:22:27.688Z",
     "strategy": ".content-card__main"
   }
 ];
