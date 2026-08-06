@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-06T09:47:02.651Z
+// Last updated: 2026-08-06T12:30:14.309Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "高市早苗明言「不便預判」無核三原則變數　廣島遺屬不滿",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260806/1162130837085360128706928.jpeg/1xDUEmdOx_QPSM8Pee2cJV6Y0v_L8APGZi6G_mYuhv4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60377632/%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E6%98%8E%E8%A8%80-%E4%B8%8D%E4%BE%BF%E9%A0%90%E5%88%A4-%E7%84%A1%E6%A0%B8%E4%B8%89%E5%8E%9F%E5%89%87%E8%AE%8A%E6%95%B8-%E5%BB%A3%E5%B3%B6%E9%81%BA%E5%B1%AC%E4%B8%8D%E6%BB%BF",
+    "timestamp": "2026-08-06T12:30:14.309Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "黎彼得離世｜兒子黎樹德開記招鍾志光反駁不實傳聞：冇經濟問題",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260806/1161837914586353664436870.jpeg/VkawyiZticw9bjvaJtVoa5Rrq9grvsp_T0Zd5k9GXeY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60377267/%E9%BB%8E%E5%BD%BC%E5%BE%97%E9%9B%A2%E4%B8%96-%E8%A8%B1%E5%AE%B6%E5%82%91%E6%8C%87peter%E5%93%A5%E8%A1%A8%E9%9D%A2%E7%8E%A9%E4%B8%96%E4%B8%8D%E6%81%AD-%E9%9D%9E%E5%B8%B8%E7%85%A7%E9%A1%A7%E4%BA%BA%E5%98%85%E5%89%8D%E8%BC%A9",
     "timestamp": "2026-08-05T17:38:43.947Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "黎彼得離世｜《唐伯虎》演華府老師　跟周星馳背詩踩界唔過電檢",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260806/1161824947660656640849063.jpeg/jbjWMmaKQ4zv0y93RQ8H3tQsfJm9ZIphCrYE-wq2BPs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60377253/%E9%BB%8E%E5%BD%BC%E5%BE%97%E9%9B%A2%E4%B8%96-%E5%94%90%E4%BC%AF%E8%99%8E-%E6%BC%94%E8%8F%AF%E5%BA%9C%E8%80%81%E5%B8%AB-%E8%B7%9F%E5%91%A8%E6%98%9F%E9%A6%B3%E8%83%8C%E8%A9%A9%E8%B8%A9%E7%95%8C%E5%94%94%E9%81%8E%E9%9B%BB%E6%AA%A2",
-    "timestamp": "2026-08-05T16:54:46.538Z",
     "strategy": ".content-card__main"
   }
 ];
