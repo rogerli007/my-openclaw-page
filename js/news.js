@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-06T07:45:17.382Z
+// Last updated: 2026-08-06T08:45:08.757Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "韓國產業部長：中國半導體產業發展速度驚人　須加快步伐否失主導",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20220816/636206039556952064594781.jpeg/0Exgfo10PrMFum3ISCQqdfddk2afY41SyLXz6ci18-k?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60377510/%E9%9F%93%E5%9C%8B%E7%94%A2%E6%A5%AD%E9%83%A8%E9%95%B7-%E4%B8%AD%E5%9C%8B%E5%8D%8A%E5%B0%8E%E9%AB%94%E7%94%A2%E6%A5%AD%E7%99%BC%E5%B1%95%E9%80%9F%E5%BA%A6%E9%A9%9A%E4%BA%BA-%E9%A0%88%E5%8A%A0%E5%BF%AB%E6%AD%A5%E4%BC%90%E5%90%A6%E5%A4%B1%E4%B8%BB%E5%B0%8E",
+    "timestamp": "2026-08-06T08:45:08.757Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "FIFA主席恩芬天奴道歉但拒下台　秘書長對內對外兩版本證腹背受敵",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260805/1161820839721570304293617.jpeg/fWnJsa9ayX2ably7bChJZ3nMhUv6FBuJjj8aBY4_GgU",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60377256/%E6%B8%AF%E9%90%B5mma-%E6%9C%89%E7%89%87-2%E7%94%B7%E7%95%B6%E7%9C%BE%E7%BA%8F%E9%AC%A5%E6%89%AF%E9%AB%AE%E5%8B%BE%E9%A0%B8-%E5%92%8C%E4%BA%8B%E4%BD%AC%E5%8B%B8%E6%9E%B6-%E5%94%94%E5%A5%BD%E6%89%93",
     "timestamp": "2026-08-05T16:14:59.229Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "黎彼得離世｜與許冠傑傳決裂多年　直認係唔夾：道不同不相為謀",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260805/1161813773619564544921387.jpeg/PvBggSckLT315VaORZSZsUaU404n7O6onKlBxpypQcY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60377251/%E9%BB%8E%E5%BD%BC%E5%BE%97%E9%9B%A2%E4%B8%96-%E8%88%87%E8%A8%B1%E5%86%A0%E5%82%91%E5%82%B3%E6%B1%BA%E8%A3%82%E5%A4%9A%E5%B9%B4-%E7%9B%B4%E8%AA%8D%E4%BF%82%E5%94%94%E5%A4%BE-%E9%81%93%E4%B8%8D%E5%90%8C%E4%B8%8D%E7%9B%B8%E7%82%BA%E8%AC%80",
-    "timestamp": "2026-08-05T15:22:17.478Z",
     "strategy": ".content-card__main"
   }
 ];
