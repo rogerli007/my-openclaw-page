@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-06T03:28:58.468Z
+// Last updated: 2026-08-06T04:45:42.791Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "香港電腦節2026｜85折優惠門票開售！派300萬現金／舊機換錢攻略",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260730/1159517668269625344056834.jpeg/VFTsqhkndkN-1qdeJE2Rq6w9QyEuNLU6yXil6cl4pek?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60375196/%E9%A6%99%E6%B8%AF%E9%9B%BB%E8%85%A6%E7%AF%802026%E9%96%80%E7%A5%A885%E6%8A%98%E5%84%AA%E6%83%A0-300%E8%90%AC%E7%8F%BE%E9%87%91%E5%88%B8-%E8%88%8A%E6%A9%9F%E6%8F%9B%E9%8C%A2-8%E5%A4%A7%E8%91%97%E6%95%B8%E6%94%BB%E7%95%A5",
+    "timestamp": "2026-08-06T04:45:42.791Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "前港姐葉翠翠執平貨！1225萬買柏蔚山兩房　上手8年帳蝕近六球",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260805/1161715334231625728842375.jpeg/XBKllFWCANIj38tKnMyjsPo2IYHFkT_0u8iZKLvImSg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60377132/%E8%82%A5%E5%AA%BD%E8%87%AA%E7%88%86%E5%9C%A8%E6%A5%8A%E6%98%8E%E5%A9%9A%E5%AE%B4-%E9%A3%B2high%E5%92%97-%E8%A6%AA%E6%8E%88%E7%94%9F%E4%BB%94%E7%A7%98%E6%96%B9-%E9%A3%9F%E9%B9%BF%E7%AD%8B%E8%87%B3%E5%B0%916%E4%BB%B6",
     "timestamp": "2026-08-05T12:00:51.872Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "好人好事｜阿叔上巴士遺環保袋　港男代保管獲請客　網民讚：雙贏",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260804/1161453846224965632843652.png/VwB3ye_vyKlhyjzfMIhp1tMF2ZM_gSPdNmthDTZrYQ0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60376838/%E5%A5%BD%E4%BA%BA%E5%A5%BD%E4%BA%8B-%E9%98%BF%E5%8F%94%E4%B8%8A%E5%B7%B4%E5%A3%AB%E9%81%BA%E7%92%B0%E4%BF%9D%E8%A2%8B-%E6%B8%AF%E7%94%B7%E4%BB%A3%E4%BF%9D%E7%AE%A1%E7%8D%B2%E8%AB%8B%E5%AE%A2-%E7%B6%B2%E6%B0%91%E8%AE%9A-%E9%9B%99%E8%B4%8F",
-    "timestamp": "2026-08-05T10:17:30.001Z",
     "strategy": ".content-card__main"
   }
 ];
