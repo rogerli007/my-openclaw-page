@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-06T00:43:24.557Z
+// Last updated: 2026-08-06T01:18:02.041Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "女子打瘦身針嚴重腹痛！醫生檢查超震驚　證實引發這併發症",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260205/1095947276750163968076482.png/Wi9q_7PPTxDD1UCUAEIJlnk2-X-ljeoYsc4QE7HOEBM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60319353/%E5%A5%B3%E5%AD%90%E6%89%93%E7%98%A6%E8%BA%AB%E9%87%9D%E5%9A%B4%E9%87%8D%E8%85%B9%E7%97%9B-%E9%86%AB%E7%94%9F%E6%AA%A2%E6%9F%A5%E8%B6%85%E9%9C%87%E9%A9%9A-%E8%AD%89%E5%AF%A6%E5%BC%95%E7%99%BC%E9%80%99%E4%BD%B5%E7%99%BC%E7%97%87",
+    "timestamp": "2026-08-06T01:18:02.041Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "「AI股神」爆倉後旋即重返投資舞台　豪擲4億美元撐一家私營公司",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260805/1161668296399917056425381.jpeg/N43veztYRtPcX16A_oY8kUwou5PZZzziMgiCeBcIgng?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60377024/%E5%9C%B0%E7%9B%A4%E7%A6%81%E7%85%99-%E5%8B%9E%E5%B7%A5%E8%99%95%E8%A9%A6%E7%94%A8%E7%B4%85%E5%A4%96%E7%B7%9A%E7%84%A1%E4%BA%BA%E6%A9%9F%E5%8A%A9%E6%9F%A5%E7%86%B1%E6%BA%90-%E7%A0%94%E7%B5%90%E5%90%88ai%E5%81%B5%E9%81%95%E4%BE%8B%E5%90%B8%E7%85%99",
     "timestamp": "2026-08-05T06:13:21.803Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "「蜘蛛俠替身」竟是河南人　大戰手合會全靠他　演員親揭幕後秘辛",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260805/1161624436206473216190534.png/T1Obm9b7vArXhu9yIYpWd7GNIpq28-NwssP9d7LD_Xc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60376936/%E8%9C%98%E8%9B%9B%E4%BF%A0%E6%9B%BF%E8%BA%AB-%E7%AB%9F%E6%98%AF%E6%B2%B3%E5%8D%97%E4%BA%BA-%E5%A4%A7%E6%88%B0%E6%89%8B%E5%90%88%E6%9C%83%E5%85%A8%E9%9D%A0%E4%BB%96-%E6%BC%94%E5%93%A1%E8%A6%AA%E6%8F%AD%E5%B9%95%E5%BE%8C%E7%A7%98%E8%BE%9B",
-    "timestamp": "2026-08-05T03:53:29.449Z",
     "strategy": ".content-card__main"
   }
 ];
