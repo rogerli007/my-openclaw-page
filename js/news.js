@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-06T13:13:55.359Z
+// Last updated: 2026-08-06T14:01:03.472Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "梅迪歷停賽615天香港首復出　烏克蘭翼鋒在車路士前途未卜︱足球",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260806/1162095656391675904031295.jpeg/DMtgizZBOovmoyzkQJGgCzj8vQirzFrNaa5vDlOubw4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60377595/%E6%A2%85%E8%BF%AA%E6%AD%B7%E5%81%9C%E8%B3%BD615%E5%A4%A9%E9%A6%99%E6%B8%AF%E9%A6%96%E5%BE%A9%E5%87%BA-%E7%83%8F%E5%85%8B%E8%98%AD%E7%BF%BC%E9%8B%92%E5%9C%A8%E8%BB%8A%E8%B7%AF%E5%A3%AB%E5%89%8D%E9%80%94%E6%9C%AA%E5%8D%9C-%E8%B6%B3%E7%90%83",
+    "timestamp": "2026-08-06T14:01:03.472Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "網店阿拉斯加銀鱈魚扒樣本水銀含量超標60%　過量攝取會損害視力",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260806/1161853687195242496327941.png/H5aRRDoFlR6mZpYhSrdrWN1ywaPDnkP7CtuKrgrbiq4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60377270/%E6%AD%90%E6%B4%B2%E6%9C%80%E5%A4%A7%E8%B2%A8%E9%81%8B%E6%A8%9E%E7%B4%90%E7%99%BC%E7%8F%BE%E7%88%86%E7%82%B8%E5%93%81%E7%84%A1%E4%BA%BA%E6%A9%9F-%E5%BE%B7%E5%9C%8B%E5%B1%95%E9%96%8B%E5%8F%8D%E6%81%90%E8%AA%BF%E6%9F%A5",
     "timestamp": "2026-08-05T18:56:55.673Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "歐洲最大貨運樞紐發現爆炸品無人機　德國展開反恐調查",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260806/1161853687195242496327941.png/H5aRRDoFlR6mZpYhSrdrWN1ywaPDnkP7CtuKrgrbiq4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60377270/%E6%AD%90%E6%B4%B2%E6%9C%80%E5%A4%A7%E8%B2%A8%E9%81%8B%E6%A8%9E%E7%B4%90%E7%99%BC%E7%8F%BE%E7%88%86%E7%82%B8%E5%93%81%E7%84%A1%E4%BA%BA%E6%A9%9F-%E5%BE%B7%E5%9C%8B%E5%B1%95%E9%96%8B%E5%8F%8D%E6%81%90%E8%AA%BF%E6%9F%A5",
-    "timestamp": "2026-08-05T18:17:58.359Z",
     "strategy": ".content-card__main"
   }
 ];
