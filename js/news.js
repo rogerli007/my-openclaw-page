@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-06T12:30:14.309Z
+// Last updated: 2026-08-06T13:13:55.359Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "網店阿拉斯加銀鱈魚扒樣本水銀含量超標60%　過量攝取會損害視力",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20230707/753985830665588736392041.png/O959XCgS-PR5q1_ItK8Pn7aPMPEtRpMyTEr9M0xK_TM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60377620/%E7%B6%B2%E5%BA%97%E9%98%BF%E6%8B%89%E6%96%AF%E5%8A%A0%E9%8A%80%E9%B1%88%E9%AD%9A%E6%89%92%E6%A8%A3%E6%9C%AC%E6%B0%B4%E9%8A%80%E5%90%AB%E9%87%8F%E8%B6%85%E6%A8%9960-%E9%81%8E%E9%87%8F%E6%94%9D%E5%8F%96%E6%9C%83%E6%90%8D%E5%AE%B3%E8%A6%96%E5%8A%9B",
+    "timestamp": "2026-08-06T13:13:55.359Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "高市早苗明言「不便預判」無核三原則變數　廣島遺屬不滿",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260806/1161853687195242496327941.png/H5aRRDoFlR6mZpYhSrdrWN1ywaPDnkP7CtuKrgrbiq4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60377270/%E6%AD%90%E6%B4%B2%E6%9C%80%E5%A4%A7%E8%B2%A8%E9%81%8B%E6%A8%9E%E7%B4%90%E7%99%BC%E7%8F%BE%E7%88%86%E7%82%B8%E5%93%81%E7%84%A1%E4%BA%BA%E6%A9%9F-%E5%BE%B7%E5%9C%8B%E5%B1%95%E9%96%8B%E5%8F%8D%E6%81%90%E8%AA%BF%E6%9F%A5",
     "timestamp": "2026-08-05T18:17:58.359Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "黎彼得離世｜許家傑指Peter哥表面玩世不恭：非常照顧人嘅前輩",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260806/1161837914586353664436870.jpeg/VkawyiZticw9bjvaJtVoa5Rrq9grvsp_T0Zd5k9GXeY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60377267/%E9%BB%8E%E5%BD%BC%E5%BE%97%E9%9B%A2%E4%B8%96-%E8%A8%B1%E5%AE%B6%E5%82%91%E6%8C%87peter%E5%93%A5%E8%A1%A8%E9%9D%A2%E7%8E%A9%E4%B8%96%E4%B8%8D%E6%81%AD-%E9%9D%9E%E5%B8%B8%E7%85%A7%E9%A1%A7%E4%BA%BA%E5%98%85%E5%89%8D%E8%BC%A9",
-    "timestamp": "2026-08-05T17:38:43.947Z",
     "strategy": ".content-card__main"
   }
 ];
