@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-07T17:10:51.868Z
+// Last updated: 2026-08-07T17:37:28.933Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "將軍澳康城商場扶手電梯驚現糞便！女保安急掩鼻　網民震驚猜內情",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260808/1162568576079499264314260.jpeg/jt8kYwwVjlFA7e1PLP9tGiqOZwYbA6kOyLji3si44t4",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60377229/%E5%B0%87%E8%BB%8D%E6%BE%B3%E5%BA%B7%E5%9F%8E%E5%95%86%E5%A0%B4%E6%89%B6%E6%89%8B%E9%9B%BB%E6%A2%AF%E9%A9%9A%E7%8F%BE%E7%B3%9E%E4%BE%BF-%E5%A5%B3%E4%BF%9D%E5%AE%89%E6%80%A5%E6%8E%A9%E9%BC%BB-%E7%B6%B2%E6%B0%91%E9%9C%87%E9%A9%9A%E7%8C%9C%E5%85%A7%E6%83%85",
+    "timestamp": "2026-08-07T17:37:28.933Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "秘魯和墨西哥宣布　兩國已同意恢復外交關係",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260807/1162350840594305024915024.png/q_vpGQVvXEpYaksqdhYIKht__a2IDK2Thh2JAoYdiQI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60377742/%E5%AE%8F%E7%A6%8F%E8%8B%91%E5%B0%88%E5%AE%B6%E5%A0%B1%E5%91%8A%E7%9B%B8%E7%89%87%E6%8F%AD%E4%BD%95%E5%81%89%E8%B1%AA%E9%BB%83%E9%87%91%E6%88%B0%E8%A1%A3%E5%9A%B4%E9%87%8D%E7%81%AB%E6%90%8D-%E6%88%96%E6%9B%BE%E9%95%B7%E6%99%82%E9%96%93%E8%A7%B8%E9%AB%98%E6%BA%AB",
     "timestamp": "2026-08-07T04:14:54.282Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "「萊特維健」董事長阮仕雲入市！4920萬買明翹匯高層複式戶自住",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20240205/831244187365150720230615.jpeg/NnTh3rydbnlkb2ZDR55xB6sRcMEv6tIFlEcBdZRHAXU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60377713/%E8%90%8A%E7%89%B9%E7%B6%AD%E5%81%A5-%E8%91%A3%E4%BA%8B%E9%95%B7%E9%98%AE%E4%BB%95%E9%9B%B2%E5%85%A5%E5%B8%82-4920%E8%90%AC%E8%B2%B7%E6%98%8E%E7%BF%B9%E5%8C%AF%E9%AB%98%E5%B1%A4%E8%A4%87%E5%BC%8F%E6%88%B6%E8%87%AA%E4%BD%8F",
-    "timestamp": "2026-08-07T03:12:44.243Z",
     "strategy": ".content-card__main"
   }
 ];
