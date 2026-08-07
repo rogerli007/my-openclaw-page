@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-07T14:41:10.829Z
+// Last updated: 2026-08-07T15:12:59.411Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "中國平價預製房海外爆紅　美夫婦入住9個月揭5大隱憂　入手需注意",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260807/1162483174270308352637285.png/H50n4dk00-EebeUzTS08TaIwaNPDd2xi-g4dIfoOHSE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60373273/%E4%B8%AD%E5%9C%8B%E5%B9%B3%E5%83%B9%E9%A0%90%E8%A3%BD%E6%88%BF%E6%B5%B7%E5%A4%96%E7%88%86%E7%B4%85-%E7%BE%8E%E5%A4%AB%E5%A9%A6%E5%85%A5%E4%BD%8F9%E5%80%8B%E6%9C%88%E6%8F%AD5%E5%A4%A7%E9%9A%B1%E6%86%82-%E5%85%A5%E6%89%8B%E9%9C%80%E6%B3%A8%E6%84%8F",
+    "timestamp": "2026-08-07T15:12:59.411Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "日本防衛省據報擬申請8.9萬億日圓預算　創歷史新高",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260806/1162095656391675904031295.jpeg/DMtgizZBOovmoyzkQJGgCzj8vQirzFrNaa5vDlOubw4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60377595/%E6%A2%85%E8%BF%AA%E6%AD%B7%E5%81%9C%E8%B3%BD615%E5%A4%A9%E9%A6%99%E6%B8%AF%E9%A6%96%E5%BE%A9%E5%87%BA-%E7%83%8F%E5%85%8B%E8%98%AD%E7%BF%BC%E9%8B%92%E5%9C%A8%E8%BB%8A%E8%B7%AF%E5%A3%AB%E5%89%8D%E9%80%94%E6%9C%AA%E5%8D%9C-%E8%B6%B3%E7%90%83",
     "timestamp": "2026-08-06T14:01:03.472Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "網店阿拉斯加銀鱈魚扒樣本水銀含量超標60%　過量攝取會損害視力",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20230707/753985830665588736392041.png/O959XCgS-PR5q1_ItK8Pn7aPMPEtRpMyTEr9M0xK_TM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60377620/%E7%B6%B2%E5%BA%97%E9%98%BF%E6%8B%89%E6%96%AF%E5%8A%A0%E9%8A%80%E9%B1%88%E9%AD%9A%E6%89%92%E6%A8%A3%E6%9C%AC%E6%B0%B4%E9%8A%80%E5%90%AB%E9%87%8F%E8%B6%85%E6%A8%9960-%E9%81%8E%E9%87%8F%E6%94%9D%E5%8F%96%E6%9C%83%E6%90%8D%E5%AE%B3%E8%A6%96%E5%8A%9B",
-    "timestamp": "2026-08-06T13:13:55.359Z",
     "strategy": ".content-card__main"
   }
 ];
