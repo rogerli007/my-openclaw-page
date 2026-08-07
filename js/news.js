@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-07T16:10:12.939Z
+// Last updated: 2026-08-07T16:39:23.752Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "秘魯和墨西哥宣布　兩國已同意恢復外交關係",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20251104/1062283995166806016438761.jpeg/7sWCsfi50SyXfXOJnesyqkRdje7RgPx-BJAdpASQHaQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60378004/%E7%A7%98%E9%AD%AF%E5%92%8C%E5%A2%A8%E8%A5%BF%E5%93%A5%E5%AE%A3%E5%B8%83-%E5%85%A9%E5%9C%8B%E5%B7%B2%E5%90%8C%E6%84%8F%E6%81%A2%E5%BE%A9%E5%A4%96%E4%BA%A4%E9%97%9C%E4%BF%82",
+    "timestamp": "2026-08-07T16:39:23.752Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "古代沒監視器身份證　青樓女子為何不逃跑？被抓回與否下場同樣慘",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260806/1162093104694562816294857.jpeg/RKEwQrbeb6dBriMHN1KdhagIE0fhkio8gg9bnIIPW5w?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60377590/%E4%B8%8D%E6%83%B3%E5%B9%B9%E4%BA%86-%E7%96%91%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%B8%E6%95%B8%E9%99%A2%E9%99%A2%E9%95%B7%E8%BE%AD%E8%81%B7%E4%BF%A1%E7%B6%B2%E7%B5%A1%E7%98%8B%E5%82%B3-%E6%A0%A1%E6%96%B9%E8%AD%89%E5%AF%A6%E5%8D%B8%E4%BB%BB",
     "timestamp": "2026-08-07T01:07:20.005Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "來稿｜京港互動新機遇——打造中華文化藝術出海新範式",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260806/1162017016207380480708964.png/_zdG0QBtbwymPpoRoEmpSOE1cuA-oBjWAbqgaAG6oGg?v=w1920r16_9",
-    "url": "https://www.hk01.com/01%E8%AB%96%E5%A3%87/60377405/%E4%BE%86%E7%A8%BF-%E4%BA%AC%E6%B8%AF%E4%BA%92%E5%8B%95%E6%96%B0%E6%A9%9F%E9%81%87-%E6%89%93%E9%80%A0%E4%B8%AD%E8%8F%AF%E6%96%87%E5%8C%96%E8%97%9D%E8%A1%93%E5%87%BA%E6%B5%B7%E6%96%B0%E7%AF%84%E5%BC%8F",
-    "timestamp": "2026-08-06T23:48:46.310Z",
     "strategy": ".content-card__main"
   }
 ];
