@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-07T10:54:06.387Z
+// Last updated: 2026-08-07T11:24:06.536Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "將軍澳疑毒狗｜放狗者聞訊紛避走　有狗主痛斥兇徒：應該要拉佢",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260807/1162477867490086912658947.jpeg/epWOsMi0xIG-2d5HsWbu59e-3VGCKJqbgWzAm4FswJs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60377942/%E5%B0%87%E8%BB%8D%E6%BE%B3%E7%96%91%E6%AF%92%E7%8B%97-%E6%94%BE%E7%8B%97%E8%80%85%E8%81%9E%E8%A8%8A%E7%B4%9B%E9%81%BF%E8%B5%B0-%E6%9C%89%E7%8B%97%E4%B8%BB%E7%97%9B%E6%96%A5%E5%85%87%E5%BE%92-%E6%87%89%E8%A9%B2%E8%A6%81%E6%8B%89%E4%BD%A2",
+    "timestamp": "2026-08-07T11:24:06.536Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "名古屋亞運會2026棒球｜香港運動員名單+賽程賽果+歷屆成績",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260806/1162028309156990976768541.jpeg/_2pXwEjBiWx5bv8nUD-6x79GhsTMeyRSPEdoYjxHaGI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60377449/fifa%E4%B8%BB%E5%B8%AD%E6%81%A9%E8%8A%AC%E5%A4%A9%E5%A5%B4%E9%81%93%E6%AD%89%E4%BD%86%E6%8B%92%E4%B8%8B%E5%8F%B0-%E7%A7%98%E6%9B%B8%E9%95%B7%E5%B0%8D%E5%85%A7%E5%B0%8D%E5%A4%96%E5%85%A9%E7%89%88%E6%9C%AC%E8%AD%89%E8%85%B9%E8%83%8C%E5%8F%97%E6%95%B5",
     "timestamp": "2026-08-06T07:45:17.382Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "黎彼得離世｜「契仔」黃宗澤痛別悼念　曾患難見真情義氣出手術費",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20220220/572146022046765056739504.jpeg/efR1G2W7vTsPNS79gCFfKspyQzTy8O-I4-r8B8Xq_Ac?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60377460/%E9%BB%8E%E5%BD%BC%E5%BE%97%E9%9B%A2%E4%B8%96-%E5%A5%91%E4%BB%94-%E9%BB%83%E5%AE%97%E6%BE%A4%E7%97%9B%E5%88%A5%E6%82%BC%E5%BF%B5-%E6%9B%BE%E6%82%A3%E9%9B%A3%E8%A6%8B%E7%9C%9F%E6%83%85%E7%BE%A9%E6%B0%A3%E5%87%BA%E6%89%8B%E8%A1%93%E8%B2%BB",
-    "timestamp": "2026-08-06T06:45:00.321Z",
     "strategy": ".content-card__main"
   }
 ];
