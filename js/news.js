@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-07T21:51:11.262Z
+// Last updated: 2026-08-07T22:18:59.007Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "特朗普政府斥資百億發展關鍵礦產　強化國防供應鏈減少對華依賴",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260808/1162638247591940096052948.jpeg/4UtVrijH59BkF9RnMIX0q5ZIj3X2-OcCQB55F0AeeRc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60378017/%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%E6%96%A5%E8%B3%87%E7%99%BE%E5%84%84%E7%99%BC%E5%B1%95%E9%97%9C%E9%8D%B5%E7%A4%A6%E7%94%A2-%E5%BC%B7%E5%8C%96%E5%9C%8B%E9%98%B2%E4%BE%9B%E6%87%89%E9%8F%88%E6%B8%9B%E5%B0%91%E5%B0%8D%E8%8F%AF%E4%BE%9D%E8%B3%B4",
+    "timestamp": "2026-08-07T22:18:59.007Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "西班牙對意大利實施入境管制　兩國就休達移民潮交惡",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260807/1162449572589473792134926.jpeg/Vd-n1HFglAL5jkaOIgzk4Eto9mpuMtpCLmIlvy5iJb8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%A3%9F%E7%8E%A9%E8%B2%B7/60377897/%E9%BA%A5%E7%95%B6%E5%8B%9E%E5%84%AA%E6%83%A0-%E4%B8%8B%E5%8D%88%E8%8C%B6-10%E6%AD%8Emcgriddles%E6%88%96%E8%B1%AC%E6%9F%B3%E6%BC%A2%E5%A0%A1-mccaf%C3%A9%E5%8C%85%E9%A4%90%E6%B8%9B-5",
     "timestamp": "2026-08-07T09:54:41.849Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "英國護老機構爆虐待醜聞　老婦慘遭餵狗糧　員工記錄造假謊稱羊肉",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260807/1162435865515921408074561.jpeg/YyxO3ySdzaqGccW-W0QMMQGplpWdIgnw_FbYGfxW2Bk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60377852/%E8%8B%B1%E5%9C%8B%E8%AD%B7%E8%80%81%E6%A9%9F%E6%A7%8B%E7%88%86%E8%99%90%E5%BE%85%E9%86%9C%E8%81%9E-%E8%80%81%E5%A9%A6%E6%85%98%E9%81%AD%E9%A4%B5%E7%8B%97%E7%B3%A7-%E5%93%A1%E5%B7%A5%E8%A8%98%E9%8C%84%E9%80%A0%E5%81%87%E8%AC%8A%E7%A8%B1%E7%BE%8A%E8%82%89",
-    "timestamp": "2026-08-07T08:58:28.270Z",
     "strategy": ".content-card__main"
   }
 ];
