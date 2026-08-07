@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-07T22:18:59.007Z
+// Last updated: 2026-08-07T23:07:24.935Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "資金汜濫溢出市場　商業地產成交𣈱旺　鞏固之後能否U型反彈？",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260313/1109191810887979008610879.jpeg/KLw5oyxzxUnZvl488-Zu5ISXuuqe3NlLw3qD6sN6g-o?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60378001/%E8%B3%87%E9%87%91%E6%B1%9C%E6%BF%AB%E6%BA%A2%E5%87%BA%E5%B8%82%E5%A0%B4-%E5%95%86%E6%A5%AD%E5%9C%B0%E7%94%A2%E6%88%90%E4%BA%A4%F0%A3%88%B1%E6%97%BA-%E9%9E%8F%E5%9B%BA%E4%B9%8B%E5%BE%8C%E8%83%BD%E5%90%A6u%E5%9E%8B%E5%8F%8D%E5%BD%88",
+    "timestamp": "2026-08-07T23:07:24.935Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "特朗普政府斥資百億發展關鍵礦產　強化國防供應鏈減少對華依賴",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260807/1162468848461418496276401.jpeg/i3yyq23VqPDiyGsOk_KU_3locbmudfBrAlB4OwJQeDs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60377925/%E5%90%8D%E5%8F%A4%E5%B1%8B%E4%BA%9E%E9%81%8B%E6%9C%832026%E6%A3%92%E7%90%83-%E9%A6%99%E6%B8%AF%E9%81%8B%E5%8B%95%E5%93%A1%E5%90%8D%E5%96%AE-%E8%B3%BD%E7%A8%8B%E8%B3%BD%E6%9E%9C-%E6%AD%B7%E5%B1%86%E6%88%90%E7%B8%BE",
     "timestamp": "2026-08-07T10:54:06.387Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "麥當勞優惠｜下午茶+$10歎McGriddles或豬柳漢堡　McCafé包餐減$5",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260807/1162449572589473792134926.jpeg/Vd-n1HFglAL5jkaOIgzk4Eto9mpuMtpCLmIlvy5iJb8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%A3%9F%E7%8E%A9%E8%B2%B7/60377897/%E9%BA%A5%E7%95%B6%E5%8B%9E%E5%84%AA%E6%83%A0-%E4%B8%8B%E5%8D%88%E8%8C%B6-10%E6%AD%8Emcgriddles%E6%88%96%E8%B1%AC%E6%9F%B3%E6%BC%A2%E5%A0%A1-mccaf%C3%A9%E5%8C%85%E9%A4%90%E6%B8%9B-5",
-    "timestamp": "2026-08-07T09:54:41.849Z",
     "strategy": ".content-card__main"
   }
 ];
