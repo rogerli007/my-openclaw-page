@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-06T23:48:46.310Z
+// Last updated: 2026-08-07T01:07:20.005Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "｢不想幹了！｣　疑南京大學數院院長辭職信網絡瘋傳　校方證實卸任",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260806/1162093104694562816294857.jpeg/RKEwQrbeb6dBriMHN1KdhagIE0fhkio8gg9bnIIPW5w?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60377590/%E4%B8%8D%E6%83%B3%E5%B9%B9%E4%BA%86-%E7%96%91%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%B8%E6%95%B8%E9%99%A2%E9%99%A2%E9%95%B7%E8%BE%AD%E8%81%B7%E4%BF%A1%E7%B6%B2%E7%B5%A1%E7%98%8B%E5%82%B3-%E6%A0%A1%E6%96%B9%E8%AD%89%E5%AF%A6%E5%8D%B8%E4%BB%BB",
+    "timestamp": "2026-08-07T01:07:20.005Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "來稿｜京港互動新機遇——打造中華文化藝術出海新範式",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260806/1161919788201545728416502.jpeg/o1XlGC1xu2E9MSBBBLDej4WrjvHYqQCNEPXnnir1554?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60377283/%E9%85%B7%E7%86%B1%E5%A4%A9%E6%B0%A3-%E4%BB%8A%E6%97%A5%E5%B8%82%E5%8D%80%E6%B0%A3%E6%BA%AB%E6%9C%80%E9%AB%98%E7%B4%8433%E5%BA%A6-%E6%9C%AA%E4%BE%86%E6%95%B8%E6%97%A5%E5%B1%80%E9%83%A8%E5%9C%B0%E5%8D%80%E6%88%96%E6%9C%89%E9%A9%9F%E9%9B%A8",
     "timestamp": "2026-08-05T22:33:15.376Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "魯比奧華盛頓會見文立彬　議伊朗、俄烏戰事及歐洲安全",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260806/1161876062091612160687145.jpeg/QRiofXerYRuwkr9thqXg0g1_M2N523HkIUYoqyFGKKs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60377275/%E9%AD%AF%E6%AF%94%E5%A5%A7%E8%8F%AF%E7%9B%9B%E9%A0%93%E6%9C%83%E8%A6%8B%E6%96%87%E7%AB%8B%E5%BD%AC-%E8%AD%B0%E4%BC%8A%E6%9C%97-%E4%BF%84%E7%83%8F%E6%88%B0%E4%BA%8B%E5%8F%8A%E6%AD%90%E6%B4%B2%E5%AE%89%E5%85%A8",
-    "timestamp": "2026-08-05T20:55:37.527Z",
     "strategy": ".content-card__main"
   }
 ];
