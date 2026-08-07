@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-07T12:53:53.417Z
+// Last updated: 2026-08-07T14:15:50.921Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美國女主播鏡頭前打瞌睡斷正　觀眾唔怪責反力撐：她太辛苦｜有片",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260807/1162515791761903616163049.jpeg/P8fqBD4gOtXEutyyE1cnJlBKvdHRq4Us2_Tmktv05pI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%92%B0%E7%90%83%E8%B6%A3%E8%81%9E/60377979/%E7%BE%8E%E5%9C%8B%E5%A5%B3%E4%B8%BB%E6%92%AD%E9%8F%A1%E9%A0%AD%E5%89%8D%E6%89%93%E7%9E%8C%E7%9D%A1%E6%96%B7%E6%AD%A3-%E8%A7%80%E7%9C%BE%E5%94%94%E6%80%AA%E8%B2%AC%E5%8F%8D%E5%8A%9B%E6%92%90-%E5%A5%B9%E5%A4%AA%E8%BE%9B%E8%8B%A6-%E6%9C%89%E7%89%87",
+    "timestamp": "2026-08-07T14:15:50.921Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "名古屋亞運會2026壘球｜香港運動員名單+賽程賽果+歷屆成績",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260806/1162130837085360128706928.jpeg/1xDUEmdOx_QPSM8Pee2cJV6Y0v_L8APGZi6G_mYuhv4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60377632/%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E6%98%8E%E8%A8%80-%E4%B8%8D%E4%BE%BF%E9%A0%90%E5%88%A4-%E7%84%A1%E6%A0%B8%E4%B8%89%E5%8E%9F%E5%89%87%E8%AE%8A%E6%95%B8-%E5%BB%A3%E5%B3%B6%E9%81%BA%E5%B1%AC%E4%B8%8D%E6%BB%BF",
     "timestamp": "2026-08-06T12:30:14.309Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "黎彼得離世｜兒子黎樹德開記招鍾志光反駁不實傳聞：冇經濟問題",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260806/1162090742219280384305216.jpeg/xQ2iaumRSkDTF12OT5fhMravqnkdTK2kTIG8CkyBvAo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60377573/%E9%BB%8E%E5%BD%BC%E5%BE%97%E9%9B%A2%E4%B8%96-%E5%85%92%E5%AD%90%E9%BB%8E%E6%A8%B9%E5%BE%B7%E9%96%8B%E8%A8%98%E6%8B%9B%E9%8D%BE%E5%BF%97%E5%85%89%E5%8F%8D%E9%A7%81%E4%B8%8D%E5%AF%A6%E5%82%B3%E8%81%9E-%E5%86%87%E7%B6%93%E6%BF%9F%E5%95%8F%E9%A1%8C",
-    "timestamp": "2026-08-06T09:47:02.651Z",
     "strategy": ".content-card__main"
   }
 ];
