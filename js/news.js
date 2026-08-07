@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-07T05:38:59.705Z
+// Last updated: 2026-08-07T06:14:42.267Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "將軍澳寵物公園疑現毒餌　史賓格犬散步後抽筋肚瀉亡　警了解事件",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260807/1162382071776153600962473.jpeg/fH_hEWNFdgt8-L7XET3BzrnH6gbuCf1ystjOirLYzoo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60377765/%E5%B0%87%E8%BB%8D%E6%BE%B3%E5%AF%B5%E7%89%A9%E5%85%AC%E5%9C%92%E7%96%91%E7%8F%BE%E6%AF%92%E9%A4%8C-%E5%8F%B2%E8%B3%93%E6%A0%BC%E7%8A%AC%E6%95%A3%E6%AD%A5%E5%BE%8C%E6%8A%BD%E7%AD%8B%E8%82%9A%E7%80%89%E4%BA%A1-%E8%AD%A6%E4%BA%86%E8%A7%A3%E4%BA%8B%E4%BB%B6",
+    "timestamp": "2026-08-07T06:14:42.267Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "住宅現炒風！大埔中心兩房500萬沽　炒家兩個月炒貴「半球」",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260806/1161952679031738368953702.jpeg/U9wLJYGQUaVJIzteLy4aZHwbdLqnawBNb9f_z2_X_88?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60377291/ai%E8%82%A1%E7%A5%9E-%E7%88%86%E5%80%89%E5%BE%8C%E6%97%8B%E5%8D%B3%E9%87%8D%E8%BF%94%E6%8A%95%E8%B3%87%E8%88%9E%E5%8F%B0-%E8%B1%AA%E6%93%B24%E5%84%84%E7%BE%8E%E5%85%83%E6%92%90%E4%B8%80%E5%AE%B6%E7%A7%81%E7%87%9F%E5%85%AC%E5%8F%B8",
     "timestamp": "2026-08-06T00:43:24.557Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "港人夫婦澳門搭的士拾遺不報　偷相機及電池　再入境時遭截獲",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260806/1161939536469561344546903.jpeg/qTX-nmo33Wj8mYEiolrefVx11PrzUKCCOO3HSzjtx0s?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60377287/%E6%B8%AF%E4%BA%BA%E5%A4%AB%E5%A9%A6%E6%BE%B3%E9%96%80%E6%90%AD%E7%9A%84%E5%A3%AB%E6%8B%BE%E9%81%BA%E4%B8%8D%E5%A0%B1-%E5%81%B7%E7%9B%B8%E6%A9%9F%E5%8F%8A%E9%9B%BB%E6%B1%A0-%E5%86%8D%E5%85%A5%E5%A2%83%E6%99%82%E9%81%AD%E6%88%AA%E7%8D%B2",
-    "timestamp": "2026-08-05T23:54:27.134Z",
     "strategy": ".content-card__main"
   }
 ];
