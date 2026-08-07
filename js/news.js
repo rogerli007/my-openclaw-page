@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-07T08:58:28.270Z
+// Last updated: 2026-08-07T09:54:41.849Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "麥當勞優惠｜下午茶+$10歎McGriddles或豬柳漢堡　McCafé包餐減$5",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260807/1162449572589473792134926.jpeg/Vd-n1HFglAL5jkaOIgzk4Eto9mpuMtpCLmIlvy5iJb8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%A3%9F%E7%8E%A9%E8%B2%B7/60377897/%E9%BA%A5%E7%95%B6%E5%8B%9E%E5%84%AA%E6%83%A0-%E4%B8%8B%E5%8D%88%E8%8C%B6-10%E6%AD%8Emcgriddles%E6%88%96%E8%B1%AC%E6%9F%B3%E6%BC%A2%E5%A0%A1-mccaf%C3%A9%E5%8C%85%E9%A4%90%E6%B8%9B-5",
+    "timestamp": "2026-08-07T09:54:41.849Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "英國護老機構爆虐待醜聞　老婦慘遭餵狗糧　員工記錄造假謊稱羊肉",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260806/1162030003081318400460952.jpeg/WUxxh4eQDepa9UHCVT7FEFKiSyAdKuO3AVnhnSRZ4Z0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60377432/%E5%95%86%E4%BA%BA%E8%83%A1%E6%A5%9A%E5%8D%97%E9%9D%9E%E7%A6%AE%E5%A5%B3%E8%81%B7%E5%93%A1%E5%9B%9A2%E5%91%A8-%E6%9B%BE%E6%8D%902%E5%8D%83%E8%90%AC%E4%BA%BA%E6%B0%91%E5%B9%A3%E6%9C%89%E8%B2%A2%E7%8D%BB-%E6%8C%87%E5%88%91%E7%BD%B0%E5%A4%AA%E9%87%8D",
     "timestamp": "2026-08-06T05:46:57.032Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "香港電腦節2026｜85折優惠門票開售！派300萬現金／舊機換錢攻略",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260730/1159517668269625344056834.jpeg/VFTsqhkndkN-1qdeJE2Rq6w9QyEuNLU6yXil6cl4pek?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60375196/%E9%A6%99%E6%B8%AF%E9%9B%BB%E8%85%A6%E7%AF%802026%E9%96%80%E7%A5%A885%E6%8A%98%E5%84%AA%E6%83%A0-300%E8%90%AC%E7%8F%BE%E9%87%91%E5%88%B8-%E8%88%8A%E6%A9%9F%E6%8F%9B%E9%8C%A2-8%E5%A4%A7%E8%91%97%E6%95%B8%E6%94%BB%E7%95%A5",
-    "timestamp": "2026-08-06T04:45:42.791Z",
     "strategy": ".content-card__main"
   }
 ];
