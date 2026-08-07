@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-07T03:12:44.243Z
+// Last updated: 2026-08-07T04:14:54.282Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "宏福苑專家報告相片揭何偉豪黃金戰衣嚴重火損　或曾長時間觸高溫",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260807/1162350840594305024915024.png/q_vpGQVvXEpYaksqdhYIKht__a2IDK2Thh2JAoYdiQI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60377742/%E5%AE%8F%E7%A6%8F%E8%8B%91%E5%B0%88%E5%AE%B6%E5%A0%B1%E5%91%8A%E7%9B%B8%E7%89%87%E6%8F%AD%E4%BD%95%E5%81%89%E8%B1%AA%E9%BB%83%E9%87%91%E6%88%B0%E8%A1%A3%E5%9A%B4%E9%87%8D%E7%81%AB%E6%90%8D-%E6%88%96%E6%9B%BE%E9%95%B7%E6%99%82%E9%96%93%E8%A7%B8%E9%AB%98%E6%BA%AB",
+    "timestamp": "2026-08-07T04:14:54.282Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "「萊特維健」董事長阮仕雲入市！4920萬買明翹匯高層複式戶自住",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260128/1093071450526584832249671.jpeg/UqagrJyupMpYaWZp32Axf_5n7JIBR9lG936oZfd-qGU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60377286/%E8%B7%AF%E9%80%8F-%E6%9C%9D%E9%AE%AE%E5%B0%8E%E5%BD%88%E9%83%A8%E9%9A%8A%E9%83%A8%E7%BD%B2%E4%BF%84%E7%BE%85%E6%96%AF-%E5%9F%BA%E8%BC%94%E7%A8%B1%E6%88%96%E9%85%8D120%E6%9E%9A%E5%BD%88%E9%81%93%E5%B0%8E%E5%BD%88%E8%A5%B2%E7%83%8F",
     "timestamp": "2026-08-05T23:28:52.944Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "演講過程中提詞器故障　加拿大總理卡尼借機嘲諷特朗普",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260529/1136854508278648832683419.jpeg/kC9y1b6kNN_N0LBAvtd_XCSp7DVvjo1jd3JN2XdyTdk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60377284/%E6%BC%94%E8%AC%9B%E9%81%8E%E7%A8%8B%E4%B8%AD%E6%8F%90%E8%A9%9E%E5%99%A8%E6%95%85%E9%9A%9C-%E5%8A%A0%E6%8B%BF%E5%A4%A7%E7%B8%BD%E7%90%86%E5%8D%A1%E5%B0%BC%E5%80%9F%E6%A9%9F%E5%98%B2%E8%AB%B7%E7%89%B9%E6%9C%97%E6%99%AE",
-    "timestamp": "2026-08-05T22:58:49.060Z",
     "strategy": ".content-card__main"
   }
 ];
