@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-07T19:42:56.875Z
+// Last updated: 2026-08-07T20:55:02.881Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "西班牙對意大利實施入境管制　兩國就休達移民潮交惡",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260807/1162358385081847808591836.jpeg/YqnmvFkP5NjbVRSZ3raw_1lnCzJrt_ygXh_M1l4fzNY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60378014/%E8%A5%BF%E7%8F%AD%E7%89%99%E5%B0%8D%E6%84%8F%E5%A4%A7%E5%88%A9%E5%AF%A6%E6%96%BD%E5%85%A5%E5%A2%83%E7%AE%A1%E5%88%B6-%E5%85%A9%E5%9C%8B%E5%B0%B1%E4%BC%91%E9%81%94%E7%A7%BB%E6%B0%91%E6%BD%AE%E4%BA%A4%E6%83%A1",
+    "timestamp": "2026-08-07T20:55:02.881Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "天水圍公屋單位天降多件玩具　目擊者拍片：唔知咩事係咁抌｜有片",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260807/1162415220962889728768324.jpeg/jOHt0ciIvHBCvzFEGHDyNtYBZj-qhxxxKsWoMyrFqDM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60377834/%E5%8F%A1%E7%92%9Fi%E6%93%AC%E4%B8%8B%E5%91%A8%E9%96%8B%E5%83%B9-%E6%9C%83%E6%89%8017%E8%90%AC%E5%91%8E-%E8%8F%AF%E6%BD%A4%E5%93%A1%E5%B7%A5-%E6%BE%90%E7%92%9F%E8%B2%B7%E5%AE%B6%E5%B0%87%E7%8D%B2%E8%B2%B7%E6%A8%93%E6%8A%98%E6%89%A3",
     "timestamp": "2026-08-07T07:17:48.061Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "海港城母企九置增派息比率「息誘」　股價再飆6%兼獲花旗唱好",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250828/1037815031758196736623954.jpeg/dJzZIvj_jF94EVu5xaTEH9z6Z1ySMDJ0xFAJ58RQCec?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60377819/%E6%B5%B7%E6%B8%AF%E5%9F%8E%E6%AF%8D%E4%BC%81%E4%B9%9D%E7%BD%AE%E5%A2%9E%E6%B4%BE%E6%81%AF%E6%AF%94%E7%8E%87-%E6%81%AF%E8%AA%98-%E8%82%A1%E5%83%B9%E5%86%8D%E9%A3%866-%E5%85%BC%E7%8D%B2%E8%8A%B1%E6%97%97%E5%94%B1%E5%A5%BD",
-    "timestamp": "2026-08-07T06:46:34.174Z",
     "strategy": ".content-card__main"
   }
 ];
