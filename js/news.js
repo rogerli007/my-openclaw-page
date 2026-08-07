@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-07T07:17:48.061Z
+// Last updated: 2026-08-07T08:32:52.014Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "張敬軒演唱會2026美國洛杉磯｜門票公售攻略＋購票連結＋座位表",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260806/1161993735953715200695812.jpeg/pyJ9MlcsjK8xa_02TssIF7K0SaSmDA-d1dCyKtXQsio?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60377833/%E5%BC%B5%E6%95%AC%E8%BB%92%E6%BC%94%E5%94%B1%E6%9C%832026%E7%BE%8E%E5%9C%8B%E6%B4%9B%E6%9D%89%E7%A3%AF-%E9%96%80%E7%A5%A8%E5%85%AC%E5%94%AE%E6%94%BB%E7%95%A5-%E8%B3%BC%E7%A5%A8%E9%80%A3%E7%B5%90-%E5%BA%A7%E4%BD%8D%E8%A1%A8",
+    "timestamp": "2026-08-07T08:32:52.014Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "叡璟I擬下周開價、會所17萬呎　華潤員工、澐璟買家將獲買樓折扣",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20200415/327167553401131008.jpeg/yX1tiZhHH63Z2eIi_J76rwvQBDQ0d9figDAsgoAwLII?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60377339/%E5%89%8D%E6%B8%AF%E5%A7%90%E8%91%89%E7%BF%A0%E7%BF%A0%E5%9F%B7%E5%B9%B3%E8%B2%A8-1225%E8%90%AC%E8%B2%B7%E6%9F%8F%E8%94%9A%E5%B1%B1%E5%85%A9%E6%88%BF-%E4%B8%8A%E6%89%8B8%E5%B9%B4%E5%B8%B3%E8%9D%95%E8%BF%91%E5%85%AD%E7%90%83",
     "timestamp": "2026-08-06T03:28:58.468Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "廣島原爆81週年　高市早苗稱將堅持無核三原則",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260806/1161970623958749184943268.jpeg/j5qqQGzpA7c_AwOFIcpNbvyjVRufB9Cr-f5TUvn-U1I?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60377299/%E5%BB%A3%E5%B3%B6%E5%8E%9F%E7%88%8681%E9%80%B1%E5%B9%B4-%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E7%A8%B1%E5%B0%87%E5%A0%85%E6%8C%81%E7%84%A1%E6%A0%B8%E4%B8%89%E5%8E%9F%E5%89%87",
-    "timestamp": "2026-08-06T02:05:39.720Z",
     "strategy": ".content-card__main"
   }
 ];
