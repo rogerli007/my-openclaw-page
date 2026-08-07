@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-07T15:38:52.933Z
+// Last updated: 2026-08-07T16:10:12.939Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "古代沒監視器身份證　青樓女子為何不逃跑？被抓回與否下場同樣慘",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260805/1161712424852656128836270.jpeg/Bz1At9JGpdSQZEpPx3muUZOe3TKlAkWUQALTlEAC05Q?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60369801/%E5%8F%A4%E4%BB%A3%E6%B2%92%E7%9B%A3%E8%A6%96%E5%99%A8%E8%BA%AB%E4%BB%BD%E8%AD%89-%E9%9D%92%E6%A8%93%E5%A5%B3%E5%AD%90%E7%82%BA%E4%BD%95%E4%B8%8D%E9%80%83%E8%B7%91-%E8%A2%AB%E6%8A%93%E5%9B%9E%E8%88%87%E5%90%A6%E4%B8%8B%E5%A0%B4%E5%90%8C%E6%A8%A3%E6%85%98",
+    "timestamp": "2026-08-07T16:10:12.939Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "古代沒監視器身份證　青樓女子為何不逃跑？被抓回與否下場同樣慘",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260806/1162017016207380480708964.png/_zdG0QBtbwymPpoRoEmpSOE1cuA-oBjWAbqgaAG6oGg?v=w1920r16_9",
     "url": "https://www.hk01.com/01%E8%AB%96%E5%A3%87/60377405/%E4%BE%86%E7%A8%BF-%E4%BA%AC%E6%B8%AF%E4%BA%92%E5%8B%95%E6%96%B0%E6%A9%9F%E9%81%87-%E6%89%93%E9%80%A0%E4%B8%AD%E8%8F%AF%E6%96%87%E5%8C%96%E8%97%9D%E8%A1%93%E5%87%BA%E6%B5%B7%E6%96%B0%E7%AF%84%E5%BC%8F",
     "timestamp": "2026-08-06T23:48:46.310Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "假救生員｜跑馬地豪宅雲暉大廈疑有救生員用虛假證件　食環署報警",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260806/1162166877011578880650728.jpeg/7_hGOJq_1KTfsrvfEQ9SRXIsHsw-GMs4gnGeroJxnq4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60377652/%E5%81%87%E6%95%91%E7%94%9F%E5%93%A1-%E8%B7%91%E9%A6%AC%E5%9C%B0%E8%B1%AA%E5%AE%85%E9%9B%B2%E6%9A%89%E5%A4%A7%E5%BB%88%E7%96%91%E6%9C%89%E6%95%91%E7%94%9F%E5%93%A1%E7%94%A8%E8%99%9B%E5%81%87%E8%AD%89%E4%BB%B6-%E9%A3%9F%E7%92%B0%E7%BD%B2%E5%A0%B1%E8%AD%A6",
-    "timestamp": "2026-08-06T14:56:03.728Z",
     "strategy": ".content-card__main"
   }
 ];
