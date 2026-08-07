@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-07T06:14:42.267Z
+// Last updated: 2026-08-07T06:46:34.174Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "海港城母企九置增派息比率「息誘」　股價再飆6%兼獲花旗唱好",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250828/1037815031758196736623954.jpeg/dJzZIvj_jF94EVu5xaTEH9z6Z1ySMDJ0xFAJ58RQCec?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60377819/%E6%B5%B7%E6%B8%AF%E5%9F%8E%E6%AF%8D%E4%BC%81%E4%B9%9D%E7%BD%AE%E5%A2%9E%E6%B4%BE%E6%81%AF%E6%AF%94%E7%8E%87-%E6%81%AF%E8%AA%98-%E8%82%A1%E5%83%B9%E5%86%8D%E9%A3%866-%E5%85%BC%E7%8D%B2%E8%8A%B1%E6%97%97%E5%94%B1%E5%A5%BD",
+    "timestamp": "2026-08-07T06:46:34.174Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "將軍澳寵物公園疑現毒餌　史賓格犬散步後抽筋肚瀉亡　警了解事件",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260205/1095947276750163968076482.png/Wi9q_7PPTxDD1UCUAEIJlnk2-X-ljeoYsc4QE7HOEBM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60319353/%E5%A5%B3%E5%AD%90%E6%89%93%E7%98%A6%E8%BA%AB%E9%87%9D%E5%9A%B4%E9%87%8D%E8%85%B9%E7%97%9B-%E9%86%AB%E7%94%9F%E6%AA%A2%E6%9F%A5%E8%B6%85%E9%9C%87%E9%A9%9A-%E8%AD%89%E5%AF%A6%E5%BC%95%E7%99%BC%E9%80%99%E4%BD%B5%E7%99%BC%E7%97%87",
     "timestamp": "2026-08-06T01:18:02.041Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "「AI股神」爆倉後旋即重返投資舞台　豪擲4億美元撐一家私營公司",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260806/1161952679031738368953702.jpeg/U9wLJYGQUaVJIzteLy4aZHwbdLqnawBNb9f_z2_X_88?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60377291/ai%E8%82%A1%E7%A5%9E-%E7%88%86%E5%80%89%E5%BE%8C%E6%97%8B%E5%8D%B3%E9%87%8D%E8%BF%94%E6%8A%95%E8%B3%87%E8%88%9E%E5%8F%B0-%E8%B1%AA%E6%93%B24%E5%84%84%E7%BE%8E%E5%85%83%E6%92%90%E4%B8%80%E5%AE%B6%E7%A7%81%E7%87%9F%E5%85%AC%E5%8F%B8",
-    "timestamp": "2026-08-06T00:43:24.557Z",
     "strategy": ".content-card__main"
   }
 ];
