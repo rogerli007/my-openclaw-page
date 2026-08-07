@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-07T19:12:31.324Z
+// Last updated: 2026-08-07T19:42:56.875Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "天水圍公屋單位天降多件玩具　目擊者拍片：唔知咩事係咁抌｜有片",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260808/1162592799216898048107426.jpeg/HszMYHyltoul9VQ9X6zWCmKWvZzU3sFseP9pW3j_aVs",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60378011/%E5%A4%A9%E6%B0%B4%E5%9C%8D%E5%85%AC%E5%B1%8B%E5%96%AE%E4%BD%8D%E5%A4%A9%E9%99%8D%E5%A4%9A%E4%BB%B6%E7%8E%A9%E5%85%B7-%E7%9B%AE%E6%93%8A%E8%80%85%E6%8B%8D%E7%89%87-%E5%94%94%E7%9F%A5%E5%92%A9%E4%BA%8B%E4%BF%82%E5%92%81%E6%8A%8C-%E6%9C%89%E7%89%87",
+    "timestamp": "2026-08-07T19:42:56.875Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "天水圍公屋單位天降多件玩具　目擊者拍片：唔知咩事係咁抌｜有片",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250828/1037815031758196736623954.jpeg/dJzZIvj_jF94EVu5xaTEH9z6Z1ySMDJ0xFAJ58RQCec?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60377819/%E6%B5%B7%E6%B8%AF%E5%9F%8E%E6%AF%8D%E4%BC%81%E4%B9%9D%E7%BD%AE%E5%A2%9E%E6%B4%BE%E6%81%AF%E6%AF%94%E7%8E%87-%E6%81%AF%E8%AA%98-%E8%82%A1%E5%83%B9%E5%86%8D%E9%A3%866-%E5%85%BC%E7%8D%B2%E8%8A%B1%E6%97%97%E5%94%B1%E5%A5%BD",
     "timestamp": "2026-08-07T06:46:34.174Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "將軍澳寵物公園疑現毒餌　史賓格犬散步後抽筋肚瀉亡　警了解事件",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260807/1162382071776153600962473.jpeg/fH_hEWNFdgt8-L7XET3BzrnH6gbuCf1ystjOirLYzoo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60377765/%E5%B0%87%E8%BB%8D%E6%BE%B3%E5%AF%B5%E7%89%A9%E5%85%AC%E5%9C%92%E7%96%91%E7%8F%BE%E6%AF%92%E9%A4%8C-%E5%8F%B2%E8%B3%93%E6%A0%BC%E7%8A%AC%E6%95%A3%E6%AD%A5%E5%BE%8C%E6%8A%BD%E7%AD%8B%E8%82%9A%E7%80%89%E4%BA%A1-%E8%AD%A6%E4%BA%86%E8%A7%A3%E4%BA%8B%E4%BB%B6",
-    "timestamp": "2026-08-07T06:14:42.267Z",
     "strategy": ".content-card__main"
   }
 ];
