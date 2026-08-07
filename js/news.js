@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-07T06:46:34.174Z
+// Last updated: 2026-08-07T07:17:48.061Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "叡璟I擬下周開價、會所17萬呎　華潤員工、澐璟買家將獲買樓折扣",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260807/1162415220962889728768324.jpeg/jOHt0ciIvHBCvzFEGHDyNtYBZj-qhxxxKsWoMyrFqDM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60377834/%E5%8F%A1%E7%92%9Fi%E6%93%AC%E4%B8%8B%E5%91%A8%E9%96%8B%E5%83%B9-%E6%9C%83%E6%89%8017%E8%90%AC%E5%91%8E-%E8%8F%AF%E6%BD%A4%E5%93%A1%E5%B7%A5-%E6%BE%90%E7%92%9F%E8%B2%B7%E5%AE%B6%E5%B0%87%E7%8D%B2%E8%B2%B7%E6%A8%93%E6%8A%98%E6%89%A3",
+    "timestamp": "2026-08-07T07:17:48.061Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "海港城母企九置增派息比率「息誘」　股價再飆6%兼獲花旗唱好",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260806/1161970623958749184943268.jpeg/j5qqQGzpA7c_AwOFIcpNbvyjVRufB9Cr-f5TUvn-U1I?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60377299/%E5%BB%A3%E5%B3%B6%E5%8E%9F%E7%88%8681%E9%80%B1%E5%B9%B4-%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E7%A8%B1%E5%B0%87%E5%A0%85%E6%8C%81%E7%84%A1%E6%A0%B8%E4%B8%89%E5%8E%9F%E5%89%87",
     "timestamp": "2026-08-06T02:05:39.720Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "女子打瘦身針嚴重腹痛！醫生檢查超震驚　證實引發這併發症",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260205/1095947276750163968076482.png/Wi9q_7PPTxDD1UCUAEIJlnk2-X-ljeoYsc4QE7HOEBM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60319353/%E5%A5%B3%E5%AD%90%E6%89%93%E7%98%A6%E8%BA%AB%E9%87%9D%E5%9A%B4%E9%87%8D%E8%85%B9%E7%97%9B-%E9%86%AB%E7%94%9F%E6%AA%A2%E6%9F%A5%E8%B6%85%E9%9C%87%E9%A9%9A-%E8%AD%89%E5%AF%A6%E5%BC%95%E7%99%BC%E9%80%99%E4%BD%B5%E7%99%BC%E7%97%87",
-    "timestamp": "2026-08-06T01:18:02.041Z",
     "strategy": ".content-card__main"
   }
 ];
