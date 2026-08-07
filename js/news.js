@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-07T20:55:02.881Z
+// Last updated: 2026-08-07T21:21:29.063Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "西班牙對意大利實施入境管制　兩國就休達移民潮交惡",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260807/1162358385081847808591836.jpeg/YqnmvFkP5NjbVRSZ3raw_1lnCzJrt_ygXh_M1l4fzNY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60378014/%E8%A5%BF%E7%8F%AD%E7%89%99%E5%B0%8D%E6%84%8F%E5%A4%A7%E5%88%A9%E5%AF%A6%E6%96%BD%E5%85%A5%E5%A2%83%E7%AE%A1%E5%88%B6-%E5%85%A9%E5%9C%8B%E5%B0%B1%E4%BC%91%E9%81%94%E7%A7%BB%E6%B0%91%E6%BD%AE%E4%BA%A4%E6%83%A1",
+    "timestamp": "2026-08-07T21:21:29.063Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "西班牙對意大利實施入境管制　兩國就休達移民潮交惡",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260806/1161993735953715200695812.jpeg/pyJ9MlcsjK8xa_02TssIF7K0SaSmDA-d1dCyKtXQsio?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60377833/%E5%BC%B5%E6%95%AC%E8%BB%92%E6%BC%94%E5%94%B1%E6%9C%832026%E7%BE%8E%E5%9C%8B%E6%B4%9B%E6%9D%89%E7%A3%AF-%E9%96%80%E7%A5%A8%E5%85%AC%E5%94%AE%E6%94%BB%E7%95%A5-%E8%B3%BC%E7%A5%A8%E9%80%A3%E7%B5%90-%E5%BA%A7%E4%BD%8D%E8%A1%A8",
     "timestamp": "2026-08-07T08:32:52.014Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "叡璟I擬下周開價、會所17萬呎　華潤員工、澐璟買家將獲買樓折扣",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260807/1162415220962889728768324.jpeg/jOHt0ciIvHBCvzFEGHDyNtYBZj-qhxxxKsWoMyrFqDM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60377834/%E5%8F%A1%E7%92%9Fi%E6%93%AC%E4%B8%8B%E5%91%A8%E9%96%8B%E5%83%B9-%E6%9C%83%E6%89%8017%E8%90%AC%E5%91%8E-%E8%8F%AF%E6%BD%A4%E5%93%A1%E5%B7%A5-%E6%BE%90%E7%92%9F%E8%B2%B7%E5%AE%B6%E5%B0%87%E7%8D%B2%E8%B2%B7%E6%A8%93%E6%8A%98%E6%89%A3",
-    "timestamp": "2026-08-07T07:17:48.061Z",
     "strategy": ".content-card__main"
   }
 ];
