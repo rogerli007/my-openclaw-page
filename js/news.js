@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-07T01:07:20.005Z
+// Last updated: 2026-08-07T03:12:44.243Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "「萊特維健」董事長阮仕雲入市！4920萬買明翹匯高層複式戶自住",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20240205/831244187365150720230615.jpeg/NnTh3rydbnlkb2ZDR55xB6sRcMEv6tIFlEcBdZRHAXU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60377713/%E8%90%8A%E7%89%B9%E7%B6%AD%E5%81%A5-%E8%91%A3%E4%BA%8B%E9%95%B7%E9%98%AE%E4%BB%95%E9%9B%B2%E5%85%A5%E5%B8%82-4920%E8%90%AC%E8%B2%B7%E6%98%8E%E7%BF%B9%E5%8C%AF%E9%AB%98%E5%B1%A4%E8%A4%87%E5%BC%8F%E6%88%B6%E8%87%AA%E4%BD%8F",
+    "timestamp": "2026-08-07T03:12:44.243Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "｢不想幹了！｣　疑南京大學數院院長辭職信網絡瘋傳　校方證實卸任",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260529/1136854508278648832683419.jpeg/kC9y1b6kNN_N0LBAvtd_XCSp7DVvjo1jd3JN2XdyTdk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60377284/%E6%BC%94%E8%AC%9B%E9%81%8E%E7%A8%8B%E4%B8%AD%E6%8F%90%E8%A9%9E%E5%99%A8%E6%95%85%E9%9A%9C-%E5%8A%A0%E6%8B%BF%E5%A4%A7%E7%B8%BD%E7%90%86%E5%8D%A1%E5%B0%BC%E5%80%9F%E6%A9%9F%E5%98%B2%E8%AB%B7%E7%89%B9%E6%9C%97%E6%99%AE",
     "timestamp": "2026-08-05T22:58:49.060Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "酷熱天氣｜今日市區氣溫最高約33度　未來數日局部地區或有驟雨",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260806/1161919788201545728416502.jpeg/o1XlGC1xu2E9MSBBBLDej4WrjvHYqQCNEPXnnir1554?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60377283/%E9%85%B7%E7%86%B1%E5%A4%A9%E6%B0%A3-%E4%BB%8A%E6%97%A5%E5%B8%82%E5%8D%80%E6%B0%A3%E6%BA%AB%E6%9C%80%E9%AB%98%E7%B4%8433%E5%BA%A6-%E6%9C%AA%E4%BE%86%E6%95%B8%E6%97%A5%E5%B1%80%E9%83%A8%E5%9C%B0%E5%8D%80%E6%88%96%E6%9C%89%E9%A9%9F%E9%9B%A8",
-    "timestamp": "2026-08-05T22:33:15.376Z",
     "strategy": ".content-card__main"
   }
 ];
