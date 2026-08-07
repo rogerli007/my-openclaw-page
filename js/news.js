@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-07T09:54:41.849Z
+// Last updated: 2026-08-07T10:54:06.387Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "名古屋亞運會2026棒球｜香港運動員名單+賽程賽果+歷屆成績",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260807/1162468848461418496276401.jpeg/i3yyq23VqPDiyGsOk_KU_3locbmudfBrAlB4OwJQeDs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60377925/%E5%90%8D%E5%8F%A4%E5%B1%8B%E4%BA%9E%E9%81%8B%E6%9C%832026%E6%A3%92%E7%90%83-%E9%A6%99%E6%B8%AF%E9%81%8B%E5%8B%95%E5%93%A1%E5%90%8D%E5%96%AE-%E8%B3%BD%E7%A8%8B%E8%B3%BD%E6%9E%9C-%E6%AD%B7%E5%B1%86%E6%88%90%E7%B8%BE",
+    "timestamp": "2026-08-07T10:54:06.387Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "麥當勞優惠｜下午茶+$10歎McGriddles或豬柳漢堡　McCafé包餐減$5",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20220220/572146022046765056739504.jpeg/efR1G2W7vTsPNS79gCFfKspyQzTy8O-I4-r8B8Xq_Ac?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60377460/%E9%BB%8E%E5%BD%BC%E5%BE%97%E9%9B%A2%E4%B8%96-%E5%A5%91%E4%BB%94-%E9%BB%83%E5%AE%97%E6%BE%A4%E7%97%9B%E5%88%A5%E6%82%BC%E5%BF%B5-%E6%9B%BE%E6%82%A3%E9%9B%A3%E8%A6%8B%E7%9C%9F%E6%83%85%E7%BE%A9%E6%B0%A3%E5%87%BA%E6%89%8B%E8%A1%93%E8%B2%BB",
     "timestamp": "2026-08-06T06:45:00.321Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "商人胡楚南非禮女職員囚2周　曾捐2千萬人民幣有貢獻　指刑罰太重",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260806/1162030003081318400460952.jpeg/WUxxh4eQDepa9UHCVT7FEFKiSyAdKuO3AVnhnSRZ4Z0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60377432/%E5%95%86%E4%BA%BA%E8%83%A1%E6%A5%9A%E5%8D%97%E9%9D%9E%E7%A6%AE%E5%A5%B3%E8%81%B7%E5%93%A1%E5%9B%9A2%E5%91%A8-%E6%9B%BE%E6%8D%902%E5%8D%83%E8%90%AC%E4%BA%BA%E6%B0%91%E5%B9%A3%E6%9C%89%E8%B2%A2%E7%8D%BB-%E6%8C%87%E5%88%91%E7%BD%B0%E5%A4%AA%E9%87%8D",
-    "timestamp": "2026-08-06T05:46:57.032Z",
     "strategy": ".content-card__main"
   }
 ];
