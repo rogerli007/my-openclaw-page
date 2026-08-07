@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-07T11:24:06.536Z
+// Last updated: 2026-08-07T11:54:22.471Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "拜仁對阿士東維拉｜紐亞金玟哉正選上陣　甘美治迪亞斯先列後備",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260807/1162484683150200832478031.jpeg/_jR8kkZ9Q4RDksIMP0CtDCkUB0TUvGHwie4NE4nuDRM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60377952/%E6%8B%9C%E4%BB%81%E5%B0%8D%E9%98%BF%E5%A3%AB%E6%9D%B1%E7%B6%AD%E6%8B%89-%E7%B4%90%E4%BA%9E%E9%87%91%E7%8E%9F%E5%93%89%E6%AD%A3%E9%81%B8%E4%B8%8A%E9%99%A3-%E7%94%98%E7%BE%8E%E6%B2%BB%E8%BF%AA%E4%BA%9E%E6%96%AF%E5%85%88%E5%88%97%E5%BE%8C%E5%82%99",
+    "timestamp": "2026-08-07T11:54:22.471Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "將軍澳疑毒狗｜放狗者聞訊紛避走　有狗主痛斥兇徒：應該要拉佢",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20220816/636206039556952064594781.jpeg/0Exgfo10PrMFum3ISCQqdfddk2afY41SyLXz6ci18-k?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60377510/%E9%9F%93%E5%9C%8B%E7%94%A2%E6%A5%AD%E9%83%A8%E9%95%B7-%E4%B8%AD%E5%9C%8B%E5%8D%8A%E5%B0%8E%E9%AB%94%E7%94%A2%E6%A5%AD%E7%99%BC%E5%B1%95%E9%80%9F%E5%BA%A6%E9%A9%9A%E4%BA%BA-%E9%A0%88%E5%8A%A0%E5%BF%AB%E6%AD%A5%E4%BC%90%E5%90%A6%E5%A4%B1%E4%B8%BB%E5%B0%8E",
     "timestamp": "2026-08-06T08:45:08.757Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "FIFA主席恩芬天奴道歉但拒下台　秘書長對內對外兩版本證腹背受敵",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260806/1162028309156990976768541.jpeg/_2pXwEjBiWx5bv8nUD-6x79GhsTMeyRSPEdoYjxHaGI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60377449/fifa%E4%B8%BB%E5%B8%AD%E6%81%A9%E8%8A%AC%E5%A4%A9%E5%A5%B4%E9%81%93%E6%AD%89%E4%BD%86%E6%8B%92%E4%B8%8B%E5%8F%B0-%E7%A7%98%E6%9B%B8%E9%95%B7%E5%B0%8D%E5%85%A7%E5%B0%8D%E5%A4%96%E5%85%A9%E7%89%88%E6%9C%AC%E8%AD%89%E8%85%B9%E8%83%8C%E5%8F%97%E6%95%B5",
-    "timestamp": "2026-08-06T07:45:17.382Z",
     "strategy": ".content-card__main"
   }
 ];
