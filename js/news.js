@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-07T04:14:54.282Z
+// Last updated: 2026-08-07T05:38:59.705Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "住宅現炒風！大埔中心兩房500萬沽　炒家兩個月炒貴「半球」",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20221101/664189018778374144794365.jpeg/XTc6D8umQ5WaQDD7sv9plIVUcFdodd8uLDWFqiw1hao?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60377791/%E4%BD%8F%E5%AE%85%E7%8F%BE%E7%82%92%E9%A2%A8-%E5%A4%A7%E5%9F%94%E4%B8%AD%E5%BF%83%E5%85%A9%E6%88%BF500%E8%90%AC%E6%B2%BD-%E7%82%92%E5%AE%B6%E5%85%A9%E5%80%8B%E6%9C%88%E7%82%92%E8%B2%B4-%E5%8D%8A%E7%90%83",
+    "timestamp": "2026-08-07T05:38:59.705Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "宏福苑專家報告相片揭何偉豪黃金戰衣嚴重火損　或曾長時間觸高溫",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260806/1161939536469561344546903.jpeg/qTX-nmo33Wj8mYEiolrefVx11PrzUKCCOO3HSzjtx0s?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60377287/%E6%B8%AF%E4%BA%BA%E5%A4%AB%E5%A9%A6%E6%BE%B3%E9%96%80%E6%90%AD%E7%9A%84%E5%A3%AB%E6%8B%BE%E9%81%BA%E4%B8%8D%E5%A0%B1-%E5%81%B7%E7%9B%B8%E6%A9%9F%E5%8F%8A%E9%9B%BB%E6%B1%A0-%E5%86%8D%E5%85%A5%E5%A2%83%E6%99%82%E9%81%AD%E6%88%AA%E7%8D%B2",
     "timestamp": "2026-08-05T23:54:27.134Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "路透：朝鮮導彈部隊部署俄羅斯　基輔稱或配120枚彈道導彈襲烏",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260128/1093071450526584832249671.jpeg/UqagrJyupMpYaWZp32Axf_5n7JIBR9lG936oZfd-qGU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60377286/%E8%B7%AF%E9%80%8F-%E6%9C%9D%E9%AE%AE%E5%B0%8E%E5%BD%88%E9%83%A8%E9%9A%8A%E9%83%A8%E7%BD%B2%E4%BF%84%E7%BE%85%E6%96%AF-%E5%9F%BA%E8%BC%94%E7%A8%B1%E6%88%96%E9%85%8D120%E6%9E%9A%E5%BD%88%E9%81%93%E5%B0%8E%E5%BD%88%E8%A5%B2%E7%83%8F",
-    "timestamp": "2026-08-05T23:28:52.944Z",
     "strategy": ".content-card__main"
   }
 ];
