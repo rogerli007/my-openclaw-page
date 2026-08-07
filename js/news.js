@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-07T16:39:23.752Z
+// Last updated: 2026-08-07T17:10:51.868Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "秘魯和墨西哥宣布　兩國已同意恢復外交關係",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20251104/1062283995166806016438761.jpeg/7sWCsfi50SyXfXOJnesyqkRdje7RgPx-BJAdpASQHaQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60378004/%E7%A7%98%E9%AD%AF%E5%92%8C%E5%A2%A8%E8%A5%BF%E5%93%A5%E5%AE%A3%E5%B8%83-%E5%85%A9%E5%9C%8B%E5%B7%B2%E5%90%8C%E6%84%8F%E6%81%A2%E5%BE%A9%E5%A4%96%E4%BA%A4%E9%97%9C%E4%BF%82",
+    "timestamp": "2026-08-07T17:10:51.868Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "秘魯和墨西哥宣布　兩國已同意恢復外交關係",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20240205/831244187365150720230615.jpeg/NnTh3rydbnlkb2ZDR55xB6sRcMEv6tIFlEcBdZRHAXU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60377713/%E8%90%8A%E7%89%B9%E7%B6%AD%E5%81%A5-%E8%91%A3%E4%BA%8B%E9%95%B7%E9%98%AE%E4%BB%95%E9%9B%B2%E5%85%A5%E5%B8%82-4920%E8%90%AC%E8%B2%B7%E6%98%8E%E7%BF%B9%E5%8C%AF%E9%AB%98%E5%B1%A4%E8%A4%87%E5%BC%8F%E6%88%B6%E8%87%AA%E4%BD%8F",
     "timestamp": "2026-08-07T03:12:44.243Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "｢不想幹了！｣　疑南京大學數院院長辭職信網絡瘋傳　校方證實卸任",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260806/1162093104694562816294857.jpeg/RKEwQrbeb6dBriMHN1KdhagIE0fhkio8gg9bnIIPW5w?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60377590/%E4%B8%8D%E6%83%B3%E5%B9%B9%E4%BA%86-%E7%96%91%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%B8%E6%95%B8%E9%99%A2%E9%99%A2%E9%95%B7%E8%BE%AD%E8%81%B7%E4%BF%A1%E7%B6%B2%E7%B5%A1%E7%98%8B%E5%82%B3-%E6%A0%A1%E6%96%B9%E8%AD%89%E5%AF%A6%E5%8D%B8%E4%BB%BB",
-    "timestamp": "2026-08-07T01:07:20.005Z",
     "strategy": ".content-card__main"
   }
 ];
