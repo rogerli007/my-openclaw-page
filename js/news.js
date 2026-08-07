@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-07T17:37:28.933Z
+// Last updated: 2026-08-07T18:36:19.538Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "天水圍私家車「自炒」撞欄　司機昏迷被困　消防到場救人",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260808/1162584480125292544270396.jpeg/zS3l2RwOgAsIfdWMVHq6xPBtGlUUALKiLO6iqizuoqo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60378009/%E5%A4%A9%E6%B0%B4%E5%9C%8D%E7%A7%81%E5%AE%B6%E8%BB%8A-%E8%87%AA%E7%82%92-%E6%92%9E%E6%AC%84-%E5%8F%B8%E6%A9%9F%E6%98%8F%E8%BF%B7%E8%A2%AB%E5%9B%B0-%E6%B6%88%E9%98%B2%E5%88%B0%E5%A0%B4%E6%95%91%E4%BA%BA",
+    "timestamp": "2026-08-07T18:36:19.538Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "將軍澳康城商場扶手電梯驚現糞便！女保安急掩鼻　網民震驚猜內情",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20221101/664189018778374144794365.jpeg/XTc6D8umQ5WaQDD7sv9plIVUcFdodd8uLDWFqiw1hao?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60377791/%E4%BD%8F%E5%AE%85%E7%8F%BE%E7%82%92%E9%A2%A8-%E5%A4%A7%E5%9F%94%E4%B8%AD%E5%BF%83%E5%85%A9%E6%88%BF500%E8%90%AC%E6%B2%BD-%E7%82%92%E5%AE%B6%E5%85%A9%E5%80%8B%E6%9C%88%E7%82%92%E8%B2%B4-%E5%8D%8A%E7%90%83",
     "timestamp": "2026-08-07T05:38:59.705Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "宏福苑專家報告相片揭何偉豪黃金戰衣嚴重火損　或曾長時間觸高溫",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260807/1162350840594305024915024.png/q_vpGQVvXEpYaksqdhYIKht__a2IDK2Thh2JAoYdiQI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60377742/%E5%AE%8F%E7%A6%8F%E8%8B%91%E5%B0%88%E5%AE%B6%E5%A0%B1%E5%91%8A%E7%9B%B8%E7%89%87%E6%8F%AD%E4%BD%95%E5%81%89%E8%B1%AA%E9%BB%83%E9%87%91%E6%88%B0%E8%A1%A3%E5%9A%B4%E9%87%8D%E7%81%AB%E6%90%8D-%E6%88%96%E6%9B%BE%E9%95%B7%E6%99%82%E9%96%93%E8%A7%B8%E9%AB%98%E6%BA%AB",
-    "timestamp": "2026-08-07T04:14:54.282Z",
     "strategy": ".content-card__main"
   }
 ];
