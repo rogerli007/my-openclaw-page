@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-07T18:36:19.538Z
+// Last updated: 2026-08-07T19:12:31.324Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "天水圍公屋單位天降多件玩具　目擊者拍片：唔知咩事係咁抌｜有片",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260808/1162592799216898048107426.jpeg/HszMYHyltoul9VQ9X6zWCmKWvZzU3sFseP9pW3j_aVs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60378011/%E5%A4%A9%E6%B0%B4%E5%9C%8D%E5%85%AC%E5%B1%8B%E5%96%AE%E4%BD%8D%E5%A4%A9%E9%99%8D%E5%A4%9A%E4%BB%B6%E7%8E%A9%E5%85%B7-%E7%9B%AE%E6%93%8A%E8%80%85%E6%8B%8D%E7%89%87-%E5%94%94%E7%9F%A5%E5%92%A9%E4%BA%8B%E4%BF%82%E5%92%81%E6%8A%8C-%E6%9C%89%E7%89%87",
+    "timestamp": "2026-08-07T19:12:31.324Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "天水圍私家車「自炒」撞欄　司機昏迷被困　消防到場救人",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260807/1162382071776153600962473.jpeg/fH_hEWNFdgt8-L7XET3BzrnH6gbuCf1ystjOirLYzoo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60377765/%E5%B0%87%E8%BB%8D%E6%BE%B3%E5%AF%B5%E7%89%A9%E5%85%AC%E5%9C%92%E7%96%91%E7%8F%BE%E6%AF%92%E9%A4%8C-%E5%8F%B2%E8%B3%93%E6%A0%BC%E7%8A%AC%E6%95%A3%E6%AD%A5%E5%BE%8C%E6%8A%BD%E7%AD%8B%E8%82%9A%E7%80%89%E4%BA%A1-%E8%AD%A6%E4%BA%86%E8%A7%A3%E4%BA%8B%E4%BB%B6",
     "timestamp": "2026-08-07T06:14:42.267Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "住宅現炒風！大埔中心兩房500萬沽　炒家兩個月炒貴「半球」",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20221101/664189018778374144794365.jpeg/XTc6D8umQ5WaQDD7sv9plIVUcFdodd8uLDWFqiw1hao?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60377791/%E4%BD%8F%E5%AE%85%E7%8F%BE%E7%82%92%E9%A2%A8-%E5%A4%A7%E5%9F%94%E4%B8%AD%E5%BF%83%E5%85%A9%E6%88%BF500%E8%90%AC%E6%B2%BD-%E7%82%92%E5%AE%B6%E5%85%A9%E5%80%8B%E6%9C%88%E7%82%92%E8%B2%B4-%E5%8D%8A%E7%90%83",
-    "timestamp": "2026-08-07T05:38:59.705Z",
     "strategy": ".content-card__main"
   }
 ];
