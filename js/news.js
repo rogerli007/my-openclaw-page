@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-07T08:32:52.014Z
+// Last updated: 2026-08-07T08:58:28.270Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "英國護老機構爆虐待醜聞　老婦慘遭餵狗糧　員工記錄造假謊稱羊肉",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260807/1162435865515921408074561.jpeg/YyxO3ySdzaqGccW-W0QMMQGplpWdIgnw_FbYGfxW2Bk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60377852/%E8%8B%B1%E5%9C%8B%E8%AD%B7%E8%80%81%E6%A9%9F%E6%A7%8B%E7%88%86%E8%99%90%E5%BE%85%E9%86%9C%E8%81%9E-%E8%80%81%E5%A9%A6%E6%85%98%E9%81%AD%E9%A4%B5%E7%8B%97%E7%B3%A7-%E5%93%A1%E5%B7%A5%E8%A8%98%E9%8C%84%E9%80%A0%E5%81%87%E8%AC%8A%E7%A8%B1%E7%BE%8A%E8%82%89",
+    "timestamp": "2026-08-07T08:58:28.270Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "張敬軒演唱會2026美國洛杉磯｜門票公售攻略＋購票連結＋座位表",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260730/1159517668269625344056834.jpeg/VFTsqhkndkN-1qdeJE2Rq6w9QyEuNLU6yXil6cl4pek?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60375196/%E9%A6%99%E6%B8%AF%E9%9B%BB%E8%85%A6%E7%AF%802026%E9%96%80%E7%A5%A885%E6%8A%98%E5%84%AA%E6%83%A0-300%E8%90%AC%E7%8F%BE%E9%87%91%E5%88%B8-%E8%88%8A%E6%A9%9F%E6%8F%9B%E9%8C%A2-8%E5%A4%A7%E8%91%97%E6%95%B8%E6%94%BB%E7%95%A5",
     "timestamp": "2026-08-06T04:45:42.791Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "前港姐葉翠翠執平貨！1225萬買柏蔚山兩房　上手8年帳蝕近六球",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20200415/327167553401131008.jpeg/yX1tiZhHH63Z2eIi_J76rwvQBDQ0d9figDAsgoAwLII?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60377339/%E5%89%8D%E6%B8%AF%E5%A7%90%E8%91%89%E7%BF%A0%E7%BF%A0%E5%9F%B7%E5%B9%B3%E8%B2%A8-1225%E8%90%AC%E8%B2%B7%E6%9F%8F%E8%94%9A%E5%B1%B1%E5%85%A9%E6%88%BF-%E4%B8%8A%E6%89%8B8%E5%B9%B4%E5%B8%B3%E8%9D%95%E8%BF%91%E5%85%AD%E7%90%83",
-    "timestamp": "2026-08-06T03:28:58.468Z",
     "strategy": ".content-card__main"
   }
 ];
