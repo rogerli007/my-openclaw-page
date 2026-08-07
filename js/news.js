@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-07T11:54:22.471Z
+// Last updated: 2026-08-07T12:53:53.417Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "名古屋亞運會2026壘球｜香港運動員名單+賽程賽果+歷屆成績",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260807/1162499118073909248836457.jpeg/GX2Ghlu6SraFUKZEmW_PK8Ei1xBqD9nvLb3w6S298Ok?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60374902/%E5%90%8D%E5%8F%A4%E5%B1%8B%E4%BA%9E%E9%81%8B%E6%9C%832026%E5%A3%98%E7%90%83-%E9%A6%99%E6%B8%AF%E9%81%8B%E5%8B%95%E5%93%A1%E5%90%8D%E5%96%AE-%E8%B3%BD%E7%A8%8B%E8%B3%BD%E6%9E%9C-%E6%AD%B7%E5%B1%86%E6%88%90%E7%B8%BE",
+    "timestamp": "2026-08-07T12:53:53.417Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "拜仁對阿士東維拉｜紐亞金玟哉正選上陣　甘美治迪亞斯先列後備",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260806/1162090742219280384305216.jpeg/xQ2iaumRSkDTF12OT5fhMravqnkdTK2kTIG8CkyBvAo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60377573/%E9%BB%8E%E5%BD%BC%E5%BE%97%E9%9B%A2%E4%B8%96-%E5%85%92%E5%AD%90%E9%BB%8E%E6%A8%B9%E5%BE%B7%E9%96%8B%E8%A8%98%E6%8B%9B%E9%8D%BE%E5%BF%97%E5%85%89%E5%8F%8D%E9%A7%81%E4%B8%8D%E5%AF%A6%E5%82%B3%E8%81%9E-%E5%86%87%E7%B6%93%E6%BF%9F%E5%95%8F%E9%A1%8C",
     "timestamp": "2026-08-06T09:47:02.651Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "韓國產業部長：中國半導體產業發展速度驚人　須加快步伐否失主導",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20220816/636206039556952064594781.jpeg/0Exgfo10PrMFum3ISCQqdfddk2afY41SyLXz6ci18-k?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60377510/%E9%9F%93%E5%9C%8B%E7%94%A2%E6%A5%AD%E9%83%A8%E9%95%B7-%E4%B8%AD%E5%9C%8B%E5%8D%8A%E5%B0%8E%E9%AB%94%E7%94%A2%E6%A5%AD%E7%99%BC%E5%B1%95%E9%80%9F%E5%BA%A6%E9%A9%9A%E4%BA%BA-%E9%A0%88%E5%8A%A0%E5%BF%AB%E6%AD%A5%E4%BC%90%E5%90%A6%E5%A4%B1%E4%B8%BB%E5%B0%8E",
-    "timestamp": "2026-08-06T08:45:08.757Z",
     "strategy": ".content-card__main"
   }
 ];
