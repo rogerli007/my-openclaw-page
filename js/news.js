@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-07T23:07:24.935Z
+// Last updated: 2026-08-07T23:23:12.332Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "熱帶低氣壓北部灣生成闖港600公里　天文台料一情況才發一號風球",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260808/1162655364982771712120546.jpeg/ph6a0HfQcxhhLBGOcKgOwimunn2l5t1DWjdXbVo3V20?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60378022/%E7%86%B1%E5%B8%B6%E4%BD%8E%E6%B0%A3%E5%A3%93%E5%8C%97%E9%83%A8%E7%81%A3%E7%94%9F%E6%88%90%E9%97%96%E6%B8%AF600%E5%85%AC%E9%87%8C-%E5%A4%A9%E6%96%87%E5%8F%B0%E6%96%99%E4%B8%80%E6%83%85%E6%B3%81%E6%89%8D%E7%99%BC%E4%B8%80%E8%99%9F%E9%A2%A8%E7%90%83",
+    "timestamp": "2026-08-07T23:23:12.332Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "資金汜濫溢出市場　商業地產成交𣈱旺　鞏固之後能否U型反彈？",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260807/1162477867490086912658947.jpeg/epWOsMi0xIG-2d5HsWbu59e-3VGCKJqbgWzAm4FswJs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60377942/%E5%B0%87%E8%BB%8D%E6%BE%B3%E7%96%91%E6%AF%92%E7%8B%97-%E6%94%BE%E7%8B%97%E8%80%85%E8%81%9E%E8%A8%8A%E7%B4%9B%E9%81%BF%E8%B5%B0-%E6%9C%89%E7%8B%97%E4%B8%BB%E7%97%9B%E6%96%A5%E5%85%87%E5%BE%92-%E6%87%89%E8%A9%B2%E8%A6%81%E6%8B%89%E4%BD%A2",
     "timestamp": "2026-08-07T11:24:06.536Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "名古屋亞運會2026棒球｜香港運動員名單+賽程賽果+歷屆成績",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260807/1162468848461418496276401.jpeg/i3yyq23VqPDiyGsOk_KU_3locbmudfBrAlB4OwJQeDs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60377925/%E5%90%8D%E5%8F%A4%E5%B1%8B%E4%BA%9E%E9%81%8B%E6%9C%832026%E6%A3%92%E7%90%83-%E9%A6%99%E6%B8%AF%E9%81%8B%E5%8B%95%E5%93%A1%E5%90%8D%E5%96%AE-%E8%B3%BD%E7%A8%8B%E8%B3%BD%E6%9E%9C-%E6%AD%B7%E5%B1%86%E6%88%90%E7%B8%BE",
-    "timestamp": "2026-08-07T10:54:06.387Z",
     "strategy": ".content-card__main"
   }
 ];
