@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-07T23:23:12.332Z
+// Last updated: 2026-08-08T03:50:04.858Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "夏季降溫穿搭｜日本女生推4款必買白色單品　開襟衫顯瘦還能防曬",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260727/1158479470475087872740193.png/hQ9Qd5X4pf1tHhPwjUWvkIPP4hjifzzwOu1NzjrtTc4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A9%BF%E6%90%AD%E7%AD%86%E8%A8%98/60374174/%E5%A4%8F%E5%AD%A3%E9%99%8D%E6%BA%AB%E7%A9%BF%E6%90%AD-%E6%97%A5%E6%9C%AC%E5%A5%B3%E7%94%9F%E6%8E%A84%E6%AC%BE%E5%BF%85%E8%B2%B7%E7%99%BD%E8%89%B2%E5%96%AE%E5%93%81-%E9%96%8B%E8%A5%9F%E8%A1%AB%E9%A1%AF%E7%98%A6%E9%82%84%E8%83%BD%E9%98%B2%E6%9B%AC",
+    "timestamp": "2026-08-08T03:50:04.858Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "熱帶低氣壓北部灣生成闖港600公里　天文台料一情況才發一號風球",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260807/1162484683150200832478031.jpeg/_jR8kkZ9Q4RDksIMP0CtDCkUB0TUvGHwie4NE4nuDRM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60377952/%E6%8B%9C%E4%BB%81%E5%B0%8D%E9%98%BF%E5%A3%AB%E6%9D%B1%E7%B6%AD%E6%8B%89-%E7%B4%90%E4%BA%9E%E9%87%91%E7%8E%9F%E5%93%89%E6%AD%A3%E9%81%B8%E4%B8%8A%E9%99%A3-%E7%94%98%E7%BE%8E%E6%B2%BB%E8%BF%AA%E4%BA%9E%E6%96%AF%E5%85%88%E5%88%97%E5%BE%8C%E5%82%99",
     "timestamp": "2026-08-07T11:54:22.471Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "將軍澳疑毒狗｜放狗者聞訊紛避走　有狗主痛斥兇徒：應該要拉佢",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260807/1162477867490086912658947.jpeg/epWOsMi0xIG-2d5HsWbu59e-3VGCKJqbgWzAm4FswJs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60377942/%E5%B0%87%E8%BB%8D%E6%BE%B3%E7%96%91%E6%AF%92%E7%8B%97-%E6%94%BE%E7%8B%97%E8%80%85%E8%81%9E%E8%A8%8A%E7%B4%9B%E9%81%BF%E8%B5%B0-%E6%9C%89%E7%8B%97%E4%B8%BB%E7%97%9B%E6%96%A5%E5%85%87%E5%BE%92-%E6%87%89%E8%A9%B2%E8%A6%81%E6%8B%89%E4%BD%A2",
-    "timestamp": "2026-08-07T11:24:06.536Z",
     "strategy": ".content-card__main"
   }
 ];
