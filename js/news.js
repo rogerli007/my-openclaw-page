@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-08T05:23:27.531Z
+// Last updated: 2026-08-08T05:51:33.436Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "林錦公路兩私家車相撞釀1傷　車頭同撞凹　鍾屋村對開路段受阻",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260808/1162752468283559936348965.jpeg/aa2-vmzzzRVLXepLc2cbxZ_5gUcneMvJKJwsEyicLBM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60378061/%E6%9E%97%E9%8C%A6%E5%85%AC%E8%B7%AF%E5%85%A9%E7%A7%81%E5%AE%B6%E8%BB%8A%E7%9B%B8%E6%92%9E%E9%87%801%E5%82%B7-%E8%BB%8A%E9%A0%AD%E5%90%8C%E6%92%9E%E5%87%B9-%E9%8D%BE%E5%B1%8B%E6%9D%91%E5%B0%8D%E9%96%8B%E8%B7%AF%E6%AE%B5%E5%8F%97%E9%98%BB",
+    "timestamp": "2026-08-08T05:51:33.436Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "港鐵出現撞人族！小紅書女遭踩腳兼超重背囊猛撞　乘客認出：慣犯",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20251117/1067189151515807744059624.jpeg/O2aVrNQBk7mkWveRTNCPtVnYBtsqCBLnK1IK2StSCtk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60377995/%E6%97%A5%E6%9C%AC%E9%98%B2%E8%A1%9B%E7%9C%81%E6%93%9A%E5%A0%B1%E6%93%AC%E7%94%B3%E8%AB%8B8-9%E8%90%AC%E5%84%84%E6%97%A5%E5%9C%93%E9%A0%90%E7%AE%97-%E5%89%B5%E6%AD%B7%E5%8F%B2%E6%96%B0%E9%AB%98",
     "timestamp": "2026-08-07T14:41:10.829Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美國女主播鏡頭前打瞌睡斷正　觀眾唔怪責反力撐：她太辛苦｜有片",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260807/1162515791761903616163049.jpeg/P8fqBD4gOtXEutyyE1cnJlBKvdHRq4Us2_Tmktv05pI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%92%B0%E7%90%83%E8%B6%A3%E8%81%9E/60377979/%E7%BE%8E%E5%9C%8B%E5%A5%B3%E4%B8%BB%E6%92%AD%E9%8F%A1%E9%A0%AD%E5%89%8D%E6%89%93%E7%9E%8C%E7%9D%A1%E6%96%B7%E6%AD%A3-%E8%A7%80%E7%9C%BE%E5%94%94%E6%80%AA%E8%B2%AC%E5%8F%8D%E5%8A%9B%E6%92%90-%E5%A5%B9%E5%A4%AA%E8%BE%9B%E8%8B%A6-%E6%9C%89%E7%89%87",
-    "timestamp": "2026-08-07T14:15:50.921Z",
     "strategy": ".content-card__main"
   }
 ];
