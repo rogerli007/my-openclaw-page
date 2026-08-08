@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-08T12:37:29.635Z
+// Last updated: 2026-08-08T14:04:48.147Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "深水埗珠仔街4店同臨結業　網購衝擊加租金壓力　DIY手作聖地褪色",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260808/1162863684028993536685431.jpeg/s4gi5ULvGzv1_n0lzzY9-L9Y3Ow1-NZqMKq5xBWqucQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60378142/%E6%B7%B1%E6%B0%B4%E5%9F%97%E7%8F%A0%E4%BB%94%E8%A1%974%E5%BA%97%E5%90%8C%E8%87%A8%E7%B5%90%E6%A5%AD-%E7%B6%B2%E8%B3%BC%E8%A1%9D%E6%93%8A%E5%8A%A0%E7%A7%9F%E9%87%91%E5%A3%93%E5%8A%9B-diy%E6%89%8B%E4%BD%9C%E8%81%96%E5%9C%B0%E8%A4%AA%E8%89%B2",
+    "timestamp": "2026-08-08T14:04:48.147Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "愛回家大結局｜Terry李偉健台上感觸爆喊　唯一倖存過渡至新劇",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260727/1158479470475087872740193.png/hQ9Qd5X4pf1tHhPwjUWvkIPP4hjifzzwOu1NzjrtTc4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A9%BF%E6%90%AD%E7%AD%86%E8%A8%98/60374174/%E5%A4%8F%E5%AD%A3%E9%99%8D%E6%BA%AB%E7%A9%BF%E6%90%AD-%E6%97%A5%E6%9C%AC%E5%A5%B3%E7%94%9F%E6%8E%A84%E6%AC%BE%E5%BF%85%E8%B2%B7%E7%99%BD%E8%89%B2%E5%96%AE%E5%93%81-%E9%96%8B%E8%A5%9F%E8%A1%AB%E9%A1%AF%E7%98%A6%E9%82%84%E8%83%BD%E9%98%B2%E6%9B%AC",
     "timestamp": "2026-08-08T03:50:04.858Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "熱帶低氣壓北部灣生成闖港600公里　天文台料一情況才發一號風球",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260808/1162655364982771712120546.jpeg/ph6a0HfQcxhhLBGOcKgOwimunn2l5t1DWjdXbVo3V20?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60378022/%E7%86%B1%E5%B8%B6%E4%BD%8E%E6%B0%A3%E5%A3%93%E5%8C%97%E9%83%A8%E7%81%A3%E7%94%9F%E6%88%90%E9%97%96%E6%B8%AF600%E5%85%AC%E9%87%8C-%E5%A4%A9%E6%96%87%E5%8F%B0%E6%96%99%E4%B8%80%E6%83%85%E6%B3%81%E6%89%8D%E7%99%BC%E4%B8%80%E8%99%9F%E9%A2%A8%E7%90%83",
-    "timestamp": "2026-08-07T23:23:12.332Z",
     "strategy": ".content-card__main"
   }
 ];
