@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-08T17:49:40.650Z
+// Last updated: 2026-08-08T18:18:58.148Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "一直升機在巴西里約熱內盧墜毀　造成至少4人死亡｜有片",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260809/1162928846534610944359276.png/DEaz_9sNMd3xXOJupEo4aLpVALghvvLg9gSkj_YEpI8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60378164/%E4%B8%80%E7%9B%B4%E5%8D%87%E6%A9%9F%E5%9C%A8%E5%B7%B4%E8%A5%BF%E9%87%8C%E7%B4%84%E7%86%B1%E5%85%A7%E7%9B%A7%E5%A2%9C%E6%AF%80-%E9%80%A0%E6%88%90%E8%87%B3%E5%B0%914%E4%BA%BA%E6%AD%BB%E4%BA%A1-%E6%9C%89%E7%89%87",
+    "timestamp": "2026-08-08T18:18:58.148Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "一直升機在巴西里約墜毀　造成至少4人死亡｜有片",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260808/1162804011741483008716598.png/AuDuCk6ZTGVnQ8qJCxDnYJFp-ZnrNGtzcXjrZ3F462c?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60378097/%E5%AE%BF%E9%9C%A7%E5%A4%AA%E5%B9%B3%E6%B4%8B%E8%88%AA%E7%A9%BA%E5%AE%A2%E6%A9%9F%E7%96%91%E8%B2%A8%E8%89%99%E9%96%80%E6%9C%89%E5%95%8F%E9%A1%8C-%E8%B5%B7%E9%A3%9B%E5%BE%8C%E6%8A%98%E8%BF%94%E9%A6%99%E6%B8%AF%E6%A9%9F%E5%A0%B4",
     "timestamp": "2026-08-08T09:21:44.230Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "中國上半年註銷7632家新能源車企業　官方：產能過剩企業有序退出",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20251201/1072162369436127232643289.png/tPO6XRZuV50zeGtIDjg6IOvSI9gYAFlPcvGFBHLxhQQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60378092/%E4%B8%AD%E5%9C%8B%E4%B8%8A%E5%8D%8A%E5%B9%B4%E8%A8%BB%E9%8A%B77632%E5%AE%B6%E6%96%B0%E8%83%BD%E6%BA%90%E8%BB%8A%E4%BC%81%E6%A5%AD-%E5%AE%98%E6%96%B9-%E7%94%A2%E8%83%BD%E9%81%8E%E5%89%A9%E4%BC%81%E6%A5%AD%E6%9C%89%E5%BA%8F%E9%80%80%E5%87%BA",
-    "timestamp": "2026-08-08T08:51:56.100Z",
     "strategy": ".content-card__main"
   }
 ];
