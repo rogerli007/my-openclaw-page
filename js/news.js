@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-08T05:51:33.436Z
+// Last updated: 2026-08-08T06:24:13.576Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "宇樹科技去年人形機械人出貨量超5500台居全球第一　銷量保持領先",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260808/1162764188947320832495673.jpeg/ffVhJf3y1Fzn3Bct4y9HkUIrG96PNkS1Tka-ck5GvnI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60378068/%E5%AE%87%E6%A8%B9%E7%A7%91%E6%8A%80%E5%8E%BB%E5%B9%B4%E4%BA%BA%E5%BD%A2%E6%A9%9F%E6%A2%B0%E4%BA%BA%E5%87%BA%E8%B2%A8%E9%87%8F%E8%B6%855500%E5%8F%B0%E5%B1%85%E5%85%A8%E7%90%83%E7%AC%AC%E4%B8%80-%E9%8A%B7%E9%87%8F%E4%BF%9D%E6%8C%81%E9%A0%98%E5%85%88",
+    "timestamp": "2026-08-08T06:24:13.576Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "林錦公路兩私家車相撞釀1傷　車頭同撞凹　鍾屋村對開路段受阻",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260807/1162483174270308352637285.png/H50n4dk00-EebeUzTS08TaIwaNPDd2xi-g4dIfoOHSE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60373273/%E4%B8%AD%E5%9C%8B%E5%B9%B3%E5%83%B9%E9%A0%90%E8%A3%BD%E6%88%BF%E6%B5%B7%E5%A4%96%E7%88%86%E7%B4%85-%E7%BE%8E%E5%A4%AB%E5%A9%A6%E5%85%A5%E4%BD%8F9%E5%80%8B%E6%9C%88%E6%8F%AD5%E5%A4%A7%E9%9A%B1%E6%86%82-%E5%85%A5%E6%89%8B%E9%9C%80%E6%B3%A8%E6%84%8F",
     "timestamp": "2026-08-07T15:12:59.411Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "日本防衛省據報擬申請8.9萬億日圓預算　創歷史新高",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20251117/1067189151515807744059624.jpeg/O2aVrNQBk7mkWveRTNCPtVnYBtsqCBLnK1IK2StSCtk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60377995/%E6%97%A5%E6%9C%AC%E9%98%B2%E8%A1%9B%E7%9C%81%E6%93%9A%E5%A0%B1%E6%93%AC%E7%94%B3%E8%AB%8B8-9%E8%90%AC%E5%84%84%E6%97%A5%E5%9C%93%E9%A0%90%E7%AE%97-%E5%89%B5%E6%AD%B7%E5%8F%B2%E6%96%B0%E9%AB%98",
-    "timestamp": "2026-08-07T14:41:10.829Z",
     "strategy": ".content-card__main"
   }
 ];
