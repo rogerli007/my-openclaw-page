@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-08T17:15:53.587Z
+// Last updated: 2026-08-08T17:49:40.650Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "一直升機在巴西里約墜毀　造成至少4人死亡｜有片",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260809/1162928846534610944359276.png/DEaz_9sNMd3xXOJupEo4aLpVALghvvLg9gSkj_YEpI8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60378164/%E4%B8%80%E7%9B%B4%E5%8D%87%E6%A9%9F%E5%9C%A8%E5%B7%B4%E8%A5%BF%E9%87%8C%E7%B4%84%E5%A2%9C%E6%AF%80-%E9%80%A0%E6%88%90%E8%87%B3%E5%B0%914%E4%BA%BA%E6%AD%BB%E4%BA%A1-%E6%9C%89%E7%89%87",
+    "timestamp": "2026-08-08T17:49:40.650Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "功夫女足丨蔡思貝避談淋Cream事件 讚同屆港姐陳凱琳：超能幹媽媽",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20251201/1072162369436127232643289.png/tPO6XRZuV50zeGtIDjg6IOvSI9gYAFlPcvGFBHLxhQQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60378092/%E4%B8%AD%E5%9C%8B%E4%B8%8A%E5%8D%8A%E5%B9%B4%E8%A8%BB%E9%8A%B77632%E5%AE%B6%E6%96%B0%E8%83%BD%E6%BA%90%E8%BB%8A%E4%BC%81%E6%A5%AD-%E5%AE%98%E6%96%B9-%E7%94%A2%E8%83%BD%E9%81%8E%E5%89%A9%E4%BC%81%E6%A5%AD%E6%9C%89%E5%BA%8F%E9%80%80%E5%87%BA",
     "timestamp": "2026-08-08T08:51:56.100Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "菲律賓街頭現5具反華棺材　菲外交部譴責　中國使館促立即徹查",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20251116/1066847755114123264982360.jpeg/6ALGyJywBRGe_5LqVXEAu5hJ6jPMUqLsTfbguE324Lg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60378085/%E8%8F%B2%E5%BE%8B%E8%B3%93%E8%A1%97%E9%A0%AD%E7%8F%BE5%E5%85%B7%E5%8F%8D%E8%8F%AF%E6%A3%BA%E6%9D%90-%E8%8F%B2%E5%A4%96%E4%BA%A4%E9%83%A8%E8%AD%B4%E8%B2%AC-%E4%B8%AD%E5%9C%8B%E4%BD%BF%E9%A4%A8%E4%BF%83%E7%AB%8B%E5%8D%B3%E5%BE%B9%E6%9F%A5",
-    "timestamp": "2026-08-08T08:20:54.537Z",
     "strategy": ".content-card__main"
   }
 ];
