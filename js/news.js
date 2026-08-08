@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-08T06:53:14.466Z
+// Last updated: 2026-08-08T07:28:30.839Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "黃大仙上邨血案︱樓層走廊滴滴鮮血　同層女街坊聞慘叫聲：好擔心",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260808/1162738695397183488209384.jpeg/apFkH6C0wezuT0RWBlN_EM4_WdilN6433TUsE901LBM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60378077/%E9%BB%83%E5%A4%A7%E4%BB%99%E4%B8%8A%E9%82%A8%E8%A1%80%E6%A1%88-%E6%A8%93%E5%B1%A4%E8%B5%B0%E5%BB%8A%E6%BB%B4%E6%BB%B4%E9%AE%AE%E8%A1%80-%E5%90%8C%E5%B1%A4%E5%A5%B3%E8%A1%97%E5%9D%8A%E8%81%9E%E6%85%98%E5%8F%AB%E8%81%B2-%E5%A5%BD%E6%93%94%E5%BF%83",
+    "timestamp": "2026-08-08T07:28:30.839Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "23歲博士生罹胃癌晚期痛哭：拼了這麼多年，為什麼是這個結果？",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260805/1161712424852656128836270.jpeg/Bz1At9JGpdSQZEpPx3muUZOe3TKlAkWUQALTlEAC05Q?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60369801/%E5%8F%A4%E4%BB%A3%E6%B2%92%E7%9B%A3%E8%A6%96%E5%99%A8%E8%BA%AB%E4%BB%BD%E8%AD%89-%E9%9D%92%E6%A8%93%E5%A5%B3%E5%AD%90%E7%82%BA%E4%BD%95%E4%B8%8D%E9%80%83%E8%B7%91-%E8%A2%AB%E6%8A%93%E5%9B%9E%E8%88%87%E5%90%A6%E4%B8%8B%E5%A0%B4%E5%90%8C%E6%A8%A3%E6%85%98",
     "timestamp": "2026-08-07T16:10:12.939Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "古代沒監視器身份證　青樓女子為何不逃跑？被抓回與否下場同樣慘",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260805/1161712424852656128836270.jpeg/Bz1At9JGpdSQZEpPx3muUZOe3TKlAkWUQALTlEAC05Q?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60369801/%E5%8F%A4%E4%BB%A3%E6%B2%92%E7%9B%A3%E8%A6%96%E5%99%A8%E8%BA%AB%E4%BB%BD%E8%AD%89-%E9%9D%92%E6%A8%93%E5%A5%B3%E5%AD%90%E7%82%BA%E4%BD%95%E4%B8%8D%E9%80%83%E8%B7%91-%E8%A2%AB%E6%8A%93%E5%9B%9E%E8%88%87%E5%90%A6%E4%B8%8B%E5%A0%B4%E5%90%8C%E6%A8%A3%E6%85%98",
-    "timestamp": "2026-08-07T15:38:52.933Z",
     "strategy": ".content-card__main"
   }
 ];
