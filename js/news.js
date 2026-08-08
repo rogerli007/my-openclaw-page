@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-08T14:04:48.147Z
+// Last updated: 2026-08-08T14:22:38.865Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "六合彩8.11頭獎800萬｜6個最旺號碼+2招增中獎機會",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260721/1156357061726965760306859.jpeg/hXUCkXVuBX1VPoE-h4FsXMkHmUZCvoy1-C7Ac_guwHM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60378153/%E5%85%AD%E5%90%88%E5%BD%A98-11%E9%A0%AD%E7%8D%8E800%E8%90%AC-6%E5%80%8B%E6%9C%80%E6%97%BA%E8%99%9F%E7%A2%BC-2%E6%8B%9B%E5%A2%9E%E4%B8%AD%E7%8D%8E%E6%A9%9F%E6%9C%83",
+    "timestamp": "2026-08-08T14:22:38.865Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "深水埗珠仔街4店同臨結業　網購衝擊加租金壓力　DIY手作聖地褪色",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260807/1162521678777946112406527.jpeg/DNasHpWNc75YnQxz_K8wNGb5ruPQUnX6sOvgTrDr4E4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60377988/%E4%BD%B3%E8%A6%96%E4%B9%8B%E5%8F%8B-%E7%9B%B8%E8%AD%98%E5%8D%8A%E4%B8%96%E7%B4%80%E6%BF%80%E7%BD%95%E9%87%8D%E8%81%9A-%E9%AB%98%E9%9B%84%E9%8A%80%E9%AB%AE%E6%90%B6%E9%8F%A1%E7%B1%B3%E9%9B%AA%E4%BB%99%E6%B0%A3%E5%87%8D%E9%BD%A1",
     "timestamp": "2026-08-08T04:34:23.779Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "夏季降溫穿搭｜日本女生推4款必買白色單品　開襟衫顯瘦還能防曬",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260727/1158479470475087872740193.png/hQ9Qd5X4pf1tHhPwjUWvkIPP4hjifzzwOu1NzjrtTc4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A9%BF%E6%90%AD%E7%AD%86%E8%A8%98/60374174/%E5%A4%8F%E5%AD%A3%E9%99%8D%E6%BA%AB%E7%A9%BF%E6%90%AD-%E6%97%A5%E6%9C%AC%E5%A5%B3%E7%94%9F%E6%8E%A84%E6%AC%BE%E5%BF%85%E8%B2%B7%E7%99%BD%E8%89%B2%E5%96%AE%E5%93%81-%E9%96%8B%E8%A5%9F%E8%A1%AB%E9%A1%AF%E7%98%A6%E9%82%84%E8%83%BD%E9%98%B2%E6%9B%AC",
-    "timestamp": "2026-08-08T03:50:04.858Z",
     "strategy": ".content-card__main"
   }
 ];
