@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-08T10:16:29.559Z
+// Last updated: 2026-08-08T10:52:30.137Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "CHIIKAWA空降港鐵大圍站　即日起至8.23小八兔兔等三大角色空中見",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260808/1162816512961024000395084.jpeg/uS4hZ3OrLD5bqR0LLiEiPwGfzm5qrYo4_nyJNP58iTQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60378113/chiikawa%E7%A9%BA%E9%99%8D%E6%B8%AF%E9%90%B5%E5%A4%A7%E5%9C%8D%E7%AB%99-%E5%8D%B3%E6%97%A5%E8%B5%B7%E8%87%B38-23%E5%B0%8F%E5%85%AB%E5%85%94%E5%85%94%E7%AD%89%E4%B8%89%E5%A4%A7%E8%A7%92%E8%89%B2%E7%A9%BA%E4%B8%AD%E8%A6%8B",
+    "timestamp": "2026-08-08T10:52:30.137Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "韓國足總就為外籍球證提供「性招待」指控致歉",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260807/1162358385081847808591836.jpeg/YqnmvFkP5NjbVRSZ3raw_1lnCzJrt_ygXh_M1l4fzNY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60378014/%E8%A5%BF%E7%8F%AD%E7%89%99%E5%B0%8D%E6%84%8F%E5%A4%A7%E5%88%A9%E5%AF%A6%E6%96%BD%E5%85%A5%E5%A2%83%E7%AE%A1%E5%88%B6-%E5%85%A9%E5%9C%8B%E5%B0%B1%E4%BC%91%E9%81%94%E7%A7%BB%E6%B0%91%E6%BD%AE%E4%BA%A4%E6%83%A1",
     "timestamp": "2026-08-07T20:55:02.881Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "天水圍公屋單位天降多件玩具　目擊者拍片：唔知咩事係咁抌｜有片",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260808/1162592799216898048107426.jpeg/HszMYHyltoul9VQ9X6zWCmKWvZzU3sFseP9pW3j_aVs",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60378011/%E5%A4%A9%E6%B0%B4%E5%9C%8D%E5%85%AC%E5%B1%8B%E5%96%AE%E4%BD%8D%E5%A4%A9%E9%99%8D%E5%A4%9A%E4%BB%B6%E7%8E%A9%E5%85%B7-%E7%9B%AE%E6%93%8A%E8%80%85%E6%8B%8D%E7%89%87-%E5%94%94%E7%9F%A5%E5%92%A9%E4%BA%8B%E4%BF%82%E5%92%81%E6%8A%8C-%E6%9C%89%E7%89%87",
-    "timestamp": "2026-08-07T19:42:56.875Z",
     "strategy": ".content-card__main"
   }
 ];
