@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-08T10:52:30.137Z
+// Last updated: 2026-08-08T11:14:59.906Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "中國援古巴5000套家用太陽能設備　首批物資交付　古巴：感謝中方",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260808/1162836625625976832847561.jpeg/M5807sDi57l8TwCVqOdTJusIaQFuLJzrI01-PCNNfjw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60378126/%E4%B8%AD%E5%9C%8B%E6%8F%B4%E5%8F%A4%E5%B7%B45000%E5%A5%97%E5%AE%B6%E7%94%A8%E5%A4%AA%E9%99%BD%E8%83%BD%E8%A8%AD%E5%82%99-%E9%A6%96%E6%89%B9%E7%89%A9%E8%B3%87%E4%BA%A4%E4%BB%98-%E5%8F%A4%E5%B7%B4-%E6%84%9F%E8%AC%9D%E4%B8%AD%E6%96%B9",
+    "timestamp": "2026-08-08T11:14:59.906Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "CHIIKAWA空降港鐵大圍站　即日起至8.23小八兔兔等三大角色空中見",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260807/1162358385081847808591836.jpeg/YqnmvFkP5NjbVRSZ3raw_1lnCzJrt_ygXh_M1l4fzNY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60378014/%E8%A5%BF%E7%8F%AD%E7%89%99%E5%B0%8D%E6%84%8F%E5%A4%A7%E5%88%A9%E5%AF%A6%E6%96%BD%E5%85%A5%E5%A2%83%E7%AE%A1%E5%88%B6-%E5%85%A9%E5%9C%8B%E5%B0%B1%E4%BC%91%E9%81%94%E7%A7%BB%E6%B0%91%E6%BD%AE%E4%BA%A4%E6%83%A1",
     "timestamp": "2026-08-07T21:21:29.063Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "西班牙對意大利實施入境管制　兩國就休達移民潮交惡",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260807/1162358385081847808591836.jpeg/YqnmvFkP5NjbVRSZ3raw_1lnCzJrt_ygXh_M1l4fzNY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60378014/%E8%A5%BF%E7%8F%AD%E7%89%99%E5%B0%8D%E6%84%8F%E5%A4%A7%E5%88%A9%E5%AF%A6%E6%96%BD%E5%85%A5%E5%A2%83%E7%AE%A1%E5%88%B6-%E5%85%A9%E5%9C%8B%E5%B0%B1%E4%BC%91%E9%81%94%E7%A7%BB%E6%B0%91%E6%BD%AE%E4%BA%A4%E6%83%A1",
-    "timestamp": "2026-08-07T20:55:02.881Z",
     "strategy": ".content-card__main"
   }
 ];
