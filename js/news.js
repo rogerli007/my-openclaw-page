@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-08T03:50:04.858Z
+// Last updated: 2026-08-08T04:34:23.779Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "「佳視之友」相識半世紀激罕重聚　高雄銀髮搶鏡米雪仙氣凍齡",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260807/1162521678777946112406527.jpeg/DNasHpWNc75YnQxz_K8wNGb5ruPQUnX6sOvgTrDr4E4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60377988/%E4%BD%B3%E8%A6%96%E4%B9%8B%E5%8F%8B-%E7%9B%B8%E8%AD%98%E5%8D%8A%E4%B8%96%E7%B4%80%E6%BF%80%E7%BD%95%E9%87%8D%E8%81%9A-%E9%AB%98%E9%9B%84%E9%8A%80%E9%AB%AE%E6%90%B6%E9%8F%A1%E7%B1%B3%E9%9B%AA%E4%BB%99%E6%B0%A3%E5%87%8D%E9%BD%A1",
+    "timestamp": "2026-08-08T04:34:23.779Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "夏季降溫穿搭｜日本女生推4款必買白色單品　開襟衫顯瘦還能防曬",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260807/1162499118073909248836457.jpeg/GX2Ghlu6SraFUKZEmW_PK8Ei1xBqD9nvLb3w6S298Ok?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60374902/%E5%90%8D%E5%8F%A4%E5%B1%8B%E4%BA%9E%E9%81%8B%E6%9C%832026%E5%A3%98%E7%90%83-%E9%A6%99%E6%B8%AF%E9%81%8B%E5%8B%95%E5%93%A1%E5%90%8D%E5%96%AE-%E8%B3%BD%E7%A8%8B%E8%B3%BD%E6%9E%9C-%E6%AD%B7%E5%B1%86%E6%88%90%E7%B8%BE",
     "timestamp": "2026-08-07T12:53:53.417Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "拜仁對阿士東維拉｜紐亞金玟哉正選上陣　甘美治迪亞斯先列後備",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260807/1162484683150200832478031.jpeg/_jR8kkZ9Q4RDksIMP0CtDCkUB0TUvGHwie4NE4nuDRM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60377952/%E6%8B%9C%E4%BB%81%E5%B0%8D%E9%98%BF%E5%A3%AB%E6%9D%B1%E7%B6%AD%E6%8B%89-%E7%B4%90%E4%BA%9E%E9%87%91%E7%8E%9F%E5%93%89%E6%AD%A3%E9%81%B8%E4%B8%8A%E9%99%A3-%E7%94%98%E7%BE%8E%E6%B2%BB%E8%BF%AA%E4%BA%9E%E6%96%AF%E5%85%88%E5%88%97%E5%BE%8C%E5%82%99",
-    "timestamp": "2026-08-07T11:54:22.471Z",
     "strategy": ".content-card__main"
   }
 ];
