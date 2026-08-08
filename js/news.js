@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-08T09:51:26.760Z
+// Last updated: 2026-08-08T10:16:29.559Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "韓國足總就為外籍球證提供「性招待」指控致歉",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260807/1162409654832074752860914.jpeg/hGY9d_LpRS9dXg3JMJ85uYlY1qFO-JXLk4LLi5OCy4s?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60378112/%E9%9F%93%E5%9C%8B%E8%B6%B3%E7%B8%BD%E5%B0%B1%E7%82%BA%E5%A4%96%E7%B1%8D%E7%90%83%E8%AD%89%E6%8F%90%E4%BE%9B-%E6%80%A7%E6%8B%9B%E5%BE%85-%E6%8C%87%E6%8E%A7%E8%87%B4%E6%AD%89",
+    "timestamp": "2026-08-08T10:16:29.559Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "中美角力｜特朗普力推30億美元關鍵礦產投資　謀降對華供應鏈依賴",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260808/1162592799216898048107426.jpeg/HszMYHyltoul9VQ9X6zWCmKWvZzU3sFseP9pW3j_aVs",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60378011/%E5%A4%A9%E6%B0%B4%E5%9C%8D%E5%85%AC%E5%B1%8B%E5%96%AE%E4%BD%8D%E5%A4%A9%E9%99%8D%E5%A4%9A%E4%BB%B6%E7%8E%A9%E5%85%B7-%E7%9B%AE%E6%93%8A%E8%80%85%E6%8B%8D%E7%89%87-%E5%94%94%E7%9F%A5%E5%92%A9%E4%BA%8B%E4%BF%82%E5%92%81%E6%8A%8C-%E6%9C%89%E7%89%87",
     "timestamp": "2026-08-07T19:42:56.875Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "天水圍公屋單位天降多件玩具　目擊者拍片：唔知咩事係咁抌｜有片",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260808/1162592799216898048107426.jpeg/HszMYHyltoul9VQ9X6zWCmKWvZzU3sFseP9pW3j_aVs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60378011/%E5%A4%A9%E6%B0%B4%E5%9C%8D%E5%85%AC%E5%B1%8B%E5%96%AE%E4%BD%8D%E5%A4%A9%E9%99%8D%E5%A4%9A%E4%BB%B6%E7%8E%A9%E5%85%B7-%E7%9B%AE%E6%93%8A%E8%80%85%E6%8B%8D%E7%89%87-%E5%94%94%E7%9F%A5%E5%92%A9%E4%BA%8B%E4%BF%82%E5%92%81%E6%8A%8C-%E6%9C%89%E7%89%87",
-    "timestamp": "2026-08-07T19:12:31.324Z",
     "strategy": ".content-card__main"
   }
 ];
