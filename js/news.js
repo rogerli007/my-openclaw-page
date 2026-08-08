@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-08T23:34:27.786Z
+// Last updated: 2026-08-08T23:51:22.174Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "恐怖工業意外●有片│男工人被卡切紙機　雙手遭整齊切斷　痛苦掙扎",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260806/1162111967725359104405869.jpeg/hwFe_ePUB1WC5bJEWjaX5pofIKqimnXgBOWeRgTlnkY",
+    "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E8%A9%B1%E9%A1%8C/60377606/%E6%81%90%E6%80%96%E5%B7%A5%E6%A5%AD%E6%84%8F%E5%A4%96-%E6%9C%89%E7%89%87-%E7%94%B7%E5%B7%A5%E4%BA%BA%E8%A2%AB%E5%8D%A1%E5%88%87%E7%B4%99%E6%A9%9F-%E9%9B%99%E6%89%8B%E9%81%AD%E6%95%B4%E9%BD%8A%E5%88%87%E6%96%B7-%E7%97%9B%E8%8B%A6%E6%8E%99%E6%89%8E",
+    "timestamp": "2026-08-08T23:51:22.174Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "恐怖工業意外●有片│男工人被卡切紙機　雙手遭整齊切斷　痛苦掙扎",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260808/1162907201237422080758031.jpeg/byjpwVOXj0gK6F_gaBZ5jRSCH8CqFB8Vq4_el6uP3pc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60378160/%E9%85%B7%E7%86%B1%E5%A4%A9%E6%B0%A3%E4%B8%8B%E8%A5%BF%E8%B2%A2%E5%BB%88%E9%96%80%E7%81%A3%E9%80%BC%E7%88%86%E4%BA%BA%E6%BD%AE-%E5%85%A7%E5%9C%B0%E6%97%85%E5%AE%A2%E9%9C%87%E9%A9%9A-%E8%AA%B0%E4%BE%86%E8%AA%B0%E6%98%AF%E5%B0%8F%E8%A0%A2%E8%9B%8B",
     "timestamp": "2026-08-08T16:14:49.114Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "韓國男團EMOTI:M現身中環街市　廣東話唱《長相廝守》大派心心",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260808/1162864746454585344735921.jpeg/6OjN4k0Epj_ia1L-vKQZQBiJyFk9RaWAuwXjPbsF4z0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60378143/%E9%9F%93%E5%9C%8B%E7%94%B7%E5%9C%98emoti-m%E7%8F%BE%E8%BA%AB%E4%B8%AD%E7%92%B0%E8%A1%97%E5%B8%82-%E5%BB%A3%E6%9D%B1%E8%A9%B1%E5%94%B1-%E9%95%B7%E7%9B%B8%E5%BB%9D%E5%AE%88-%E5%A4%A7%E6%B4%BE%E5%BF%83%E5%BF%83",
-    "timestamp": "2026-08-08T15:35:29.565Z",
     "strategy": ".content-card__main"
   }
 ];
