@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-08T21:30:47.400Z
+// Last updated: 2026-08-08T22:02:43.491Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "加拿大卑詩省葡萄酒區山火失控　數千人接獲疏散令",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260809/1162991514603753472576934.jpeg/7n_ZzCePUjJG8OLgGku11AOtIkVQZFcuaet-F2nrfhc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60378169/%E5%8A%A0%E6%8B%BF%E5%A4%A7%E5%8D%91%E8%A9%A9%E7%9C%81%E8%91%A1%E8%90%84%E9%85%92%E5%8D%80%E5%B1%B1%E7%81%AB%E5%A4%B1%E6%8E%A7-%E6%95%B8%E5%8D%83%E4%BA%BA%E6%8E%A5%E7%8D%B2%E7%96%8F%E6%95%A3%E4%BB%A4",
+    "timestamp": "2026-08-08T22:02:43.491Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "穆傑塔巴病危傳聞再起　伊朗官方發片闢謠真偽存疑",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260808/1162863684028993536685431.jpeg/s4gi5ULvGzv1_n0lzzY9-L9Y3Ow1-NZqMKq5xBWqucQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60378142/%E6%B7%B1%E6%B0%B4%E5%9F%97%E7%8F%A0%E4%BB%94%E8%A1%974%E5%BA%97%E5%90%8C%E8%87%A8%E7%B5%90%E6%A5%AD-%E7%B6%B2%E8%B3%BC%E8%A1%9D%E6%93%8A%E5%8A%A0%E7%A7%9F%E9%87%91%E5%A3%93%E5%8A%9B-diy%E6%89%8B%E4%BD%9C%E8%81%96%E5%9C%B0%E8%A4%AA%E8%89%B2",
     "timestamp": "2026-08-08T14:04:48.147Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "愛回家大結局｜Terry李偉健台上感觸爆喊　唯一倖存過渡至新劇",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260808/1162835858315808768642397.jpeg/HczFlP5YzSeZ1rb99PHjSC-SAYFutjJ28rUqkMe1KpA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60378127/%E6%84%9B%E5%9B%9E%E5%AE%B6%E5%A4%A7%E7%B5%90%E5%B1%80-terry%E6%9D%8E%E5%81%89%E5%81%A5%E5%8F%B0%E4%B8%8A%E6%84%9F%E8%A7%B8%E7%88%86%E5%96%8A-%E5%94%AF%E4%B8%80%E5%80%96%E5%AD%98%E9%81%8E%E6%B8%A1%E8%87%B3%E6%96%B0%E5%8A%87",
-    "timestamp": "2026-08-08T12:37:29.635Z",
     "strategy": ".content-card__main"
   }
 ];
