@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-08T15:35:29.565Z
+// Last updated: 2026-08-08T16:14:49.114Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "酷熱天氣下西貢廈門灣逼爆人潮　內地旅客震驚︰誰來誰是小蠢蛋！",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260808/1162907201237422080758031.jpeg/byjpwVOXj0gK6F_gaBZ5jRSCH8CqFB8Vq4_el6uP3pc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60378160/%E9%85%B7%E7%86%B1%E5%A4%A9%E6%B0%A3%E4%B8%8B%E8%A5%BF%E8%B2%A2%E5%BB%88%E9%96%80%E7%81%A3%E9%80%BC%E7%88%86%E4%BA%BA%E6%BD%AE-%E5%85%A7%E5%9C%B0%E6%97%85%E5%AE%A2%E9%9C%87%E9%A9%9A-%E8%AA%B0%E4%BE%86%E8%AA%B0%E6%98%AF%E5%B0%8F%E8%A0%A2%E8%9B%8B",
+    "timestamp": "2026-08-08T16:14:49.114Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "韓國男團EMOTI:M現身中環街市　廣東話唱《長相廝守》大派心心",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260808/1162762001965912064723049.png/LkJ3nY4ELCGvZmxe1RS135ap__OrqDcBcfwNrHH8Daw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60378060/23%E6%AD%B2%E5%8D%9A%E5%A3%AB%E7%94%9F%E7%BD%B9%E8%83%83%E7%99%8C%E6%99%9A%E6%9C%9F%E7%97%9B%E5%93%AD-%E6%8B%BC%E4%BA%86%E9%80%99%E9%BA%BC%E5%A4%9A%E5%B9%B4-%E7%82%BA%E4%BB%80%E9%BA%BC%E6%98%AF%E9%80%99%E5%80%8B%E7%B5%90%E6%9E%9C",
     "timestamp": "2026-08-08T06:53:14.466Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "宇樹科技去年人形機械人出貨量超5500台居全球第一　銷量保持領先",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260808/1162764188947320832495673.jpeg/ffVhJf3y1Fzn3Bct4y9HkUIrG96PNkS1Tka-ck5GvnI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60378068/%E5%AE%87%E6%A8%B9%E7%A7%91%E6%8A%80%E5%8E%BB%E5%B9%B4%E4%BA%BA%E5%BD%A2%E6%A9%9F%E6%A2%B0%E4%BA%BA%E5%87%BA%E8%B2%A8%E9%87%8F%E8%B6%855500%E5%8F%B0%E5%B1%85%E5%85%A8%E7%90%83%E7%AC%AC%E4%B8%80-%E9%8A%B7%E9%87%8F%E4%BF%9D%E6%8C%81%E9%A0%98%E5%85%88",
-    "timestamp": "2026-08-08T06:24:13.576Z",
     "strategy": ".content-card__main"
   }
 ];
