@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-08T19:48:04.311Z
+// Last updated: 2026-08-08T20:01:28.632Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "日本岩手縣近海發生5.6級地震　北海道至福島縣廣泛地區有感",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260625/1146923429274849280107438.png/O9JcyUGVnRQ3iuKbfCrTRUekbgGhTs276-iTBevokwU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60378167/%E6%97%A5%E6%9C%AC%E5%B2%A9%E6%89%8B%E7%B8%A3%E8%BF%91%E6%B5%B7%E7%99%BC%E7%94%9F5-6%E7%B4%9A%E5%9C%B0%E9%9C%87-%E5%8C%97%E6%B5%B7%E9%81%93%E8%87%B3%E7%A6%8F%E5%B3%B6%E7%B8%A3%E5%BB%A3%E6%B3%9B%E5%9C%B0%E5%8D%80%E6%9C%89%E6%84%9F",
+    "timestamp": "2026-08-08T20:01:28.632Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "秘魯一廂型車與貨車相撞　造成9死6傷",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260808/1162836625625976832847561.jpeg/M5807sDi57l8TwCVqOdTJusIaQFuLJzrI01-PCNNfjw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60378126/%E4%B8%AD%E5%9C%8B%E6%8F%B4%E5%8F%A4%E5%B7%B45000%E5%A5%97%E5%AE%B6%E7%94%A8%E5%A4%AA%E9%99%BD%E8%83%BD%E8%A8%AD%E5%82%99-%E9%A6%96%E6%89%B9%E7%89%A9%E8%B3%87%E4%BA%A4%E4%BB%98-%E5%8F%A4%E5%B7%B4-%E6%84%9F%E8%AC%9D%E4%B8%AD%E6%96%B9",
     "timestamp": "2026-08-08T11:14:59.906Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "CHIIKAWA空降港鐵大圍站　即日起至8.23小八兔兔等三大角色空中見",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260808/1162816512961024000395084.jpeg/uS4hZ3OrLD5bqR0LLiEiPwGfzm5qrYo4_nyJNP58iTQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60378113/chiikawa%E7%A9%BA%E9%99%8D%E6%B8%AF%E9%90%B5%E5%A4%A7%E5%9C%8D%E7%AB%99-%E5%8D%B3%E6%97%A5%E8%B5%B7%E8%87%B38-23%E5%B0%8F%E5%85%AB%E5%85%94%E5%85%94%E7%AD%89%E4%B8%89%E5%A4%A7%E8%A7%92%E8%89%B2%E7%A9%BA%E4%B8%AD%E8%A6%8B",
-    "timestamp": "2026-08-08T10:52:30.137Z",
     "strategy": ".content-card__main"
   }
 ];
