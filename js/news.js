@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-08T19:31:26.726Z
+// Last updated: 2026-08-08T19:48:04.311Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "秘魯一廂型車與貨車相撞　造成9死6傷",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260809/1162963007400054784948621.png/RLOSbVNUdrQjnNOQaevJ4eRPACN9GFHLFC1vwhQtb8I?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60378166/%E7%A7%98%E9%AD%AF%E4%B8%80%E5%BB%82%E5%9E%8B%E8%BB%8A%E8%88%87%E8%B2%A8%E8%BB%8A%E7%9B%B8%E6%92%9E-%E9%80%A0%E6%88%909%E6%AD%BB6%E5%82%B7",
+    "timestamp": "2026-08-08T19:48:04.311Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "墨爾本童黨打人　60歲亞超職員阻盜竊遭圍毆命危　12歲男被拒保釋",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260808/1162816512961024000395084.jpeg/uS4hZ3OrLD5bqR0LLiEiPwGfzm5qrYo4_nyJNP58iTQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60378113/chiikawa%E7%A9%BA%E9%99%8D%E6%B8%AF%E9%90%B5%E5%A4%A7%E5%9C%8D%E7%AB%99-%E5%8D%B3%E6%97%A5%E8%B5%B7%E8%87%B38-23%E5%B0%8F%E5%85%AB%E5%85%94%E5%85%94%E7%AD%89%E4%B8%89%E5%A4%A7%E8%A7%92%E8%89%B2%E7%A9%BA%E4%B8%AD%E8%A6%8B",
     "timestamp": "2026-08-08T10:52:30.137Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "韓國足總就為外籍球證提供「性招待」指控致歉",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260807/1162409654832074752860914.jpeg/hGY9d_LpRS9dXg3JMJ85uYlY1qFO-JXLk4LLi5OCy4s?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60378112/%E9%9F%93%E5%9C%8B%E8%B6%B3%E7%B8%BD%E5%B0%B1%E7%82%BA%E5%A4%96%E7%B1%8D%E7%90%83%E8%AD%89%E6%8F%90%E4%BE%9B-%E6%80%A7%E6%8B%9B%E5%BE%85-%E6%8C%87%E6%8E%A7%E8%87%B4%E6%AD%89",
-    "timestamp": "2026-08-08T10:16:29.559Z",
     "strategy": ".content-card__main"
   }
 ];
