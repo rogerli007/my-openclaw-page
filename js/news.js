@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-08T08:20:54.537Z
+// Last updated: 2026-08-08T08:51:56.100Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "中國上半年註銷7632家新能源車企業　官方：產能過剩企業有序退出",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20251201/1072162369436127232643289.png/tPO6XRZuV50zeGtIDjg6IOvSI9gYAFlPcvGFBHLxhQQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60378092/%E4%B8%AD%E5%9C%8B%E4%B8%8A%E5%8D%8A%E5%B9%B4%E8%A8%BB%E9%8A%B77632%E5%AE%B6%E6%96%B0%E8%83%BD%E6%BA%90%E8%BB%8A%E4%BC%81%E6%A5%AD-%E5%AE%98%E6%96%B9-%E7%94%A2%E8%83%BD%E9%81%8E%E5%89%A9%E4%BC%81%E6%A5%AD%E6%9C%89%E5%BA%8F%E9%80%80%E5%87%BA",
+    "timestamp": "2026-08-08T08:51:56.100Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "菲律賓街頭現5具反華棺材　菲外交部譴責　中國使館促立即徹查",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260808/1162568576079499264314260.jpeg/jt8kYwwVjlFA7e1PLP9tGiqOZwYbA6kOyLji3si44t4",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60377229/%E5%B0%87%E8%BB%8D%E6%BE%B3%E5%BA%B7%E5%9F%8E%E5%95%86%E5%A0%B4%E6%89%B6%E6%89%8B%E9%9B%BB%E6%A2%AF%E9%A9%9A%E7%8F%BE%E7%B3%9E%E4%BE%BF-%E5%A5%B3%E4%BF%9D%E5%AE%89%E6%80%A5%E6%8E%A9%E9%BC%BB-%E7%B6%B2%E6%B0%91%E9%9C%87%E9%A9%9A%E7%8C%9C%E5%85%A7%E6%83%85",
     "timestamp": "2026-08-07T17:37:28.933Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "秘魯和墨西哥宣布　兩國已同意恢復外交關係",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20251104/1062283995166806016438761.jpeg/7sWCsfi50SyXfXOJnesyqkRdje7RgPx-BJAdpASQHaQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60378004/%E7%A7%98%E9%AD%AF%E5%92%8C%E5%A2%A8%E8%A5%BF%E5%93%A5%E5%AE%A3%E5%B8%83-%E5%85%A9%E5%9C%8B%E5%B7%B2%E5%90%8C%E6%84%8F%E6%81%A2%E5%BE%A9%E5%A4%96%E4%BA%A4%E9%97%9C%E4%BF%82",
-    "timestamp": "2026-08-07T17:10:51.868Z",
     "strategy": ".content-card__main"
   }
 ];
