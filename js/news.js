@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-08T21:05:33.835Z
+// Last updated: 2026-08-08T21:30:47.400Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "穆傑塔巴病危傳聞再起　伊朗官方發片闢謠真偽存疑",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260808/1162842583966158848361974.jpeg/EXvn2uVqsaPkXmlk_EPiFhxbfgINeM0YxyI_aMciP2g?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60378128/%E7%A9%86%E5%82%91%E5%A1%94%E5%B7%B4%E7%97%85%E5%8D%B1%E5%82%B3%E8%81%9E%E5%86%8D%E8%B5%B7-%E4%BC%8A%E6%9C%97%E5%AE%98%E6%96%B9%E7%99%BC%E7%89%87%E9%97%A2%E8%AC%A0%E7%9C%9F%E5%81%BD%E5%AD%98%E7%96%91",
+    "timestamp": "2026-08-08T21:30:47.400Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "日本岩手縣近海發生5.6級地震　北海道至福島縣廣泛地區有感",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260808/1162835858315808768642397.jpeg/HczFlP5YzSeZ1rb99PHjSC-SAYFutjJ28rUqkMe1KpA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60378127/%E6%84%9B%E5%9B%9E%E5%AE%B6%E5%A4%A7%E7%B5%90%E5%B1%80-terry%E6%9D%8E%E5%81%89%E5%81%A5%E5%8F%B0%E4%B8%8A%E6%84%9F%E8%A7%B8%E7%88%86%E5%96%8A-%E5%94%AF%E4%B8%80%E5%80%96%E5%AD%98%E9%81%8E%E6%B8%A1%E8%87%B3%E6%96%B0%E5%8A%87",
     "timestamp": "2026-08-08T12:37:29.635Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "永和豆漿創始人林炳生70歲病逝　台灣起步推廣至20餘國家地區",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260808/1162852645963042816374596.jpeg/JQ01CgDYlHqfwHajzyl2Yk7i4hTKxB80iltmg4pbZoM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60378131/%E6%B0%B8%E5%92%8C%E8%B1%86%E6%BC%BF%E5%89%B5%E5%A7%8B%E4%BA%BA%E6%9E%97%E7%82%B3%E7%94%9F70%E6%AD%B2%E7%97%85%E9%80%9D-%E5%8F%B0%E7%81%A3%E8%B5%B7%E6%AD%A5%E6%8E%A8%E5%BB%A3%E8%87%B320%E9%A4%98%E5%9C%8B%E5%AE%B6%E5%9C%B0%E5%8D%80",
-    "timestamp": "2026-08-08T12:19:02.839Z",
     "strategy": ".content-card__main"
   }
 ];
