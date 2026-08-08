@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-08T07:28:30.839Z
+// Last updated: 2026-08-08T07:53:52.374Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "天賦海灣3房獲外區家庭客4.5萬承租　租金回報2.6厘",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260808/1162783837562867712376198.jpeg/cwMPYAb71e5Oe_j988mOEzCm3JhEGgD6FAA-1hQAPtY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60378083/%E5%A4%A9%E8%B3%A6%E6%B5%B7%E7%81%A33%E6%88%BF%E7%8D%B2%E5%A4%96%E5%8D%80%E5%AE%B6%E5%BA%AD%E5%AE%A24-5%E8%90%AC%E6%89%BF%E7%A7%9F-%E7%A7%9F%E9%87%91%E5%9B%9E%E5%A0%B12-6%E5%8E%98",
+    "timestamp": "2026-08-08T07:53:52.374Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "黃大仙上邨血案︱樓層走廊滴滴鮮血　同層女街坊聞慘叫聲：好擔心",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20251104/1062283995166806016438761.jpeg/7sWCsfi50SyXfXOJnesyqkRdje7RgPx-BJAdpASQHaQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60378004/%E7%A7%98%E9%AD%AF%E5%92%8C%E5%A2%A8%E8%A5%BF%E5%93%A5%E5%AE%A3%E5%B8%83-%E5%85%A9%E5%9C%8B%E5%B7%B2%E5%90%8C%E6%84%8F%E6%81%A2%E5%BE%A9%E5%A4%96%E4%BA%A4%E9%97%9C%E4%BF%82",
     "timestamp": "2026-08-07T16:39:23.752Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "古代沒監視器身份證　青樓女子為何不逃跑？被抓回與否下場同樣慘",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260805/1161712424852656128836270.jpeg/Bz1At9JGpdSQZEpPx3muUZOe3TKlAkWUQALTlEAC05Q?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60369801/%E5%8F%A4%E4%BB%A3%E6%B2%92%E7%9B%A3%E8%A6%96%E5%99%A8%E8%BA%AB%E4%BB%BD%E8%AD%89-%E9%9D%92%E6%A8%93%E5%A5%B3%E5%AD%90%E7%82%BA%E4%BD%95%E4%B8%8D%E9%80%83%E8%B7%91-%E8%A2%AB%E6%8A%93%E5%9B%9E%E8%88%87%E5%90%A6%E4%B8%8B%E5%A0%B4%E5%90%8C%E6%A8%A3%E6%85%98",
-    "timestamp": "2026-08-07T16:10:12.939Z",
     "strategy": ".content-card__main"
   }
 ];
