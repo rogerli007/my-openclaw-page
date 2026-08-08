@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-08T12:01:49.084Z
+// Last updated: 2026-08-08T12:19:02.839Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "永和豆漿創始人林炳生70歲病逝　台灣起步推廣至20餘國家地區",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260808/1162852645963042816374596.jpeg/JQ01CgDYlHqfwHajzyl2Yk7i4hTKxB80iltmg4pbZoM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60378131/%E6%B0%B8%E5%92%8C%E8%B1%86%E6%BC%BF%E5%89%B5%E5%A7%8B%E4%BA%BA%E6%9E%97%E7%82%B3%E7%94%9F70%E6%AD%B2%E7%97%85%E9%80%9D-%E5%8F%B0%E7%81%A3%E8%B5%B7%E6%AD%A5%E6%8E%A8%E5%BB%A3%E8%87%B320%E9%A4%98%E5%9C%8B%E5%AE%B6%E5%9C%B0%E5%8D%80",
+    "timestamp": "2026-08-08T12:19:02.839Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "黃大仙上邨血案｜傷者單位准養伴侶犬　房署：多次突擊巡查無噪音",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260313/1109191810887979008610879.jpeg/KLw5oyxzxUnZvl488-Zu5ISXuuqe3NlLw3qD6sN6g-o?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60378001/%E8%B3%87%E9%87%91%E6%B1%9C%E6%BF%AB%E6%BA%A2%E5%87%BA%E5%B8%82%E5%A0%B4-%E5%95%86%E6%A5%AD%E5%9C%B0%E7%94%A2%E6%88%90%E4%BA%A4%F0%A3%88%B1%E6%97%BA-%E9%9E%8F%E5%9B%BA%E4%B9%8B%E5%BE%8C%E8%83%BD%E5%90%A6u%E5%9E%8B%E5%8F%8D%E5%BD%88",
     "timestamp": "2026-08-07T23:07:24.935Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普政府斥資百億發展關鍵礦產　強化國防供應鏈減少對華依賴",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260808/1162638247591940096052948.jpeg/4UtVrijH59BkF9RnMIX0q5ZIj3X2-OcCQB55F0AeeRc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60378017/%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%E6%96%A5%E8%B3%87%E7%99%BE%E5%84%84%E7%99%BC%E5%B1%95%E9%97%9C%E9%8D%B5%E7%A4%A6%E7%94%A2-%E5%BC%B7%E5%8C%96%E5%9C%8B%E9%98%B2%E4%BE%9B%E6%87%89%E9%8F%88%E6%B8%9B%E5%B0%91%E5%B0%8D%E8%8F%AF%E4%BE%9D%E8%B3%B4",
-    "timestamp": "2026-08-07T22:18:59.007Z",
     "strategy": ".content-card__main"
   }
 ];
