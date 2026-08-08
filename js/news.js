@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-08T07:53:52.374Z
+// Last updated: 2026-08-08T08:20:54.537Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "菲律賓街頭現5具反華棺材　菲外交部譴責　中國使館促立即徹查",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20251116/1066847755114123264982360.jpeg/6ALGyJywBRGe_5LqVXEAu5hJ6jPMUqLsTfbguE324Lg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60378085/%E8%8F%B2%E5%BE%8B%E8%B3%93%E8%A1%97%E9%A0%AD%E7%8F%BE5%E5%85%B7%E5%8F%8D%E8%8F%AF%E6%A3%BA%E6%9D%90-%E8%8F%B2%E5%A4%96%E4%BA%A4%E9%83%A8%E8%AD%B4%E8%B2%AC-%E4%B8%AD%E5%9C%8B%E4%BD%BF%E9%A4%A8%E4%BF%83%E7%AB%8B%E5%8D%B3%E5%BE%B9%E6%9F%A5",
+    "timestamp": "2026-08-08T08:20:54.537Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "天賦海灣3房獲外區家庭客4.5萬承租　租金回報2.6厘",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20251104/1062283995166806016438761.jpeg/7sWCsfi50SyXfXOJnesyqkRdje7RgPx-BJAdpASQHaQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60378004/%E7%A7%98%E9%AD%AF%E5%92%8C%E5%A2%A8%E8%A5%BF%E5%93%A5%E5%AE%A3%E5%B8%83-%E5%85%A9%E5%9C%8B%E5%B7%B2%E5%90%8C%E6%84%8F%E6%81%A2%E5%BE%A9%E5%A4%96%E4%BA%A4%E9%97%9C%E4%BF%82",
     "timestamp": "2026-08-07T17:10:51.868Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "秘魯和墨西哥宣布　兩國已同意恢復外交關係",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20251104/1062283995166806016438761.jpeg/7sWCsfi50SyXfXOJnesyqkRdje7RgPx-BJAdpASQHaQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60378004/%E7%A7%98%E9%AD%AF%E5%92%8C%E5%A2%A8%E8%A5%BF%E5%93%A5%E5%AE%A3%E5%B8%83-%E5%85%A9%E5%9C%8B%E5%B7%B2%E5%90%8C%E6%84%8F%E6%81%A2%E5%BE%A9%E5%A4%96%E4%BA%A4%E9%97%9C%E4%BF%82",
-    "timestamp": "2026-08-07T16:39:23.752Z",
     "strategy": ".content-card__main"
   }
 ];
