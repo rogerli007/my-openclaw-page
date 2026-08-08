@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-08T16:51:17.534Z
+// Last updated: 2026-08-08T17:15:53.587Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "功夫女足丨蔡思貝避談淋Cream事件 讚同屆港姐陳凱琳：超能幹媽媽",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260809/1162928097796820992124583.png/MzrgJKu2-6eu5joJJfVx2zlm7yYKbCIQ4SjskeEo7JE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60378162/%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3-%E8%94%A1%E6%80%9D%E8%B2%9D%E9%81%BF%E8%AB%87%E6%B7%8Bcream%E4%BA%8B%E4%BB%B6-%E8%AE%9A%E5%90%8C%E5%B1%86%E6%B8%AF%E5%A7%90%E9%99%B3%E5%87%B1%E7%90%B3-%E8%B6%85%E8%83%BD%E5%B9%B9%E5%AA%BD%E5%AA%BD",
+    "timestamp": "2026-08-08T17:15:53.587Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "日本2027國防預算曝光　或達10萬億創歷史新高",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20251116/1066847755114123264982360.jpeg/6ALGyJywBRGe_5LqVXEAu5hJ6jPMUqLsTfbguE324Lg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60378085/%E8%8F%B2%E5%BE%8B%E8%B3%93%E8%A1%97%E9%A0%AD%E7%8F%BE5%E5%85%B7%E5%8F%8D%E8%8F%AF%E6%A3%BA%E6%9D%90-%E8%8F%B2%E5%A4%96%E4%BA%A4%E9%83%A8%E8%AD%B4%E8%B2%AC-%E4%B8%AD%E5%9C%8B%E4%BD%BF%E9%A4%A8%E4%BF%83%E7%AB%8B%E5%8D%B3%E5%BE%B9%E6%9F%A5",
     "timestamp": "2026-08-08T08:20:54.537Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "天賦海灣3房獲外區家庭客4.5萬承租　租金回報2.6厘",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260808/1162783837562867712376198.jpeg/cwMPYAb71e5Oe_j988mOEzCm3JhEGgD6FAA-1hQAPtY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60378083/%E5%A4%A9%E8%B3%A6%E6%B5%B7%E7%81%A33%E6%88%BF%E7%8D%B2%E5%A4%96%E5%8D%80%E5%AE%B6%E5%BA%AD%E5%AE%A24-5%E8%90%AC%E6%89%BF%E7%A7%9F-%E7%A7%9F%E9%87%91%E5%9B%9E%E5%A0%B12-6%E5%8E%98",
-    "timestamp": "2026-08-08T07:53:52.374Z",
     "strategy": ".content-card__main"
   }
 ];
