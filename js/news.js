@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-08T20:31:15.509Z
+// Last updated: 2026-08-08T21:05:33.835Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "日本岩手縣近海發生5.6級地震　北海道至福島縣廣泛地區有感",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260625/1146923429274849280107438.png/O9JcyUGVnRQ3iuKbfCrTRUekbgGhTs276-iTBevokwU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60378167/%E6%97%A5%E6%9C%AC%E5%B2%A9%E6%89%8B%E7%B8%A3%E8%BF%91%E6%B5%B7%E7%99%BC%E7%94%9F5-6%E7%B4%9A%E5%9C%B0%E9%9C%87-%E5%8C%97%E6%B5%B7%E9%81%93%E8%87%B3%E7%A6%8F%E5%B3%B6%E7%B8%A3%E5%BB%A3%E6%B3%9B%E5%9C%B0%E5%8D%80%E6%9C%89%E6%84%9F",
+    "timestamp": "2026-08-08T21:05:33.835Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "日本岩手縣近海發生5.6級地震　北海道至福島縣廣泛地區有感",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260808/1162852645963042816374596.jpeg/JQ01CgDYlHqfwHajzyl2Yk7i4hTKxB80iltmg4pbZoM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60378131/%E6%B0%B8%E5%92%8C%E8%B1%86%E6%BC%BF%E5%89%B5%E5%A7%8B%E4%BA%BA%E6%9E%97%E7%82%B3%E7%94%9F70%E6%AD%B2%E7%97%85%E9%80%9D-%E5%8F%B0%E7%81%A3%E8%B5%B7%E6%AD%A5%E6%8E%A8%E5%BB%A3%E8%87%B320%E9%A4%98%E5%9C%8B%E5%AE%B6%E5%9C%B0%E5%8D%80",
     "timestamp": "2026-08-08T12:19:02.839Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "黃大仙上邨血案｜傷者單位准養伴侶犬　房署：多次突擊巡查無噪音",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260808/1162842094591545344359416.jpeg/SvXROgoz-Q2jsKT30d85uF3pAtgtfj-zAusNegLrDXo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60378129/%E9%BB%83%E5%A4%A7%E4%BB%99%E4%B8%8A%E9%82%A8%E8%A1%80%E6%A1%88-%E5%82%B7%E8%80%85%E5%96%AE%E4%BD%8D%E5%87%86%E9%A4%8A%E4%BC%B4%E4%BE%B6%E7%8A%AC-%E6%88%BF%E7%BD%B2-%E5%A4%9A%E6%AC%A1%E7%AA%81%E6%93%8A%E5%B7%A1%E6%9F%A5%E7%84%A1%E5%99%AA%E9%9F%B3",
-    "timestamp": "2026-08-08T12:01:49.084Z",
     "strategy": ".content-card__main"
   }
 ];
