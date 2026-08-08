@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-08T14:22:38.865Z
+// Last updated: 2026-08-08T15:05:58.209Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "澳變態華裔兒科醫　涉偷拍性侵18童被控72罪　違保釋條款當庭還柙",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260808/1162835856998797312685079.png/G3Z6OgPTk3SacFMAxETwWZ8Bt1AreZVxdwCBhXcAgYU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60377702/%E6%BE%B3%E8%AE%8A%E6%85%8B%E8%8F%AF%E8%A3%94%E5%85%92%E7%A7%91%E9%86%AB-%E6%B6%89%E5%81%B7%E6%8B%8D%E6%80%A7%E4%BE%B518%E7%AB%A5%E8%A2%AB%E6%8E%A772%E7%BD%AA-%E9%81%95%E4%BF%9D%E9%87%8B%E6%A2%9D%E6%AC%BE%E7%95%B6%E5%BA%AD%E9%82%84%E6%9F%99",
+    "timestamp": "2026-08-08T15:05:58.209Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "六合彩8.11頭獎800萬｜6個最旺號碼+2招增中獎機會",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260808/1162719873378291712982756.png/ipjS9NcC1rLT3d_52T0Nh2JSwIHm7ZtU1yELttchC7Y?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60377965/%E6%B8%AF%E9%90%B5%E5%87%BA%E7%8F%BE%E6%92%9E%E4%BA%BA%E6%97%8F-%E5%B0%8F%E7%B4%85%E6%9B%B8%E5%A5%B3%E9%81%AD%E8%B8%A9%E8%85%B3%E5%85%BC%E8%B6%85%E9%87%8D%E8%83%8C%E5%9B%8A%E7%8C%9B%E6%92%9E-%E4%B9%98%E5%AE%A2%E8%AA%8D%E5%87%BA-%E6%85%A3%E7%8A%AF",
     "timestamp": "2026-08-08T05:23:27.531Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "「佳視之友」相識半世紀激罕重聚　高雄銀髮搶鏡米雪仙氣凍齡",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260807/1162521678777946112406527.jpeg/DNasHpWNc75YnQxz_K8wNGb5ruPQUnX6sOvgTrDr4E4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60377988/%E4%BD%B3%E8%A6%96%E4%B9%8B%E5%8F%8B-%E7%9B%B8%E8%AD%98%E5%8D%8A%E4%B8%96%E7%B4%80%E6%BF%80%E7%BD%95%E9%87%8D%E8%81%9A-%E9%AB%98%E9%9B%84%E9%8A%80%E9%AB%AE%E6%90%B6%E9%8F%A1%E7%B1%B3%E9%9B%AA%E4%BB%99%E6%B0%A3%E5%87%8D%E9%BD%A1",
-    "timestamp": "2026-08-08T04:34:23.779Z",
     "strategy": ".content-card__main"
   }
 ];
