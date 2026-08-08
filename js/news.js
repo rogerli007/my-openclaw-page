@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-08T15:05:58.209Z
+// Last updated: 2026-08-08T15:19:00.451Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "韓國男團EMOTI:M現身中環街市　廣東話唱《長相廝守》大派心心",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260808/1162864746454585344735921.jpeg/6OjN4k0Epj_ia1L-vKQZQBiJyFk9RaWAuwXjPbsF4z0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60378143/%E9%9F%93%E5%9C%8B%E7%94%B7%E5%9C%98emoti-m%E7%8F%BE%E8%BA%AB%E4%B8%AD%E7%92%B0%E8%A1%97%E5%B8%82-%E5%BB%A3%E6%9D%B1%E8%A9%B1%E5%94%B1-%E9%95%B7%E7%9B%B8%E5%BB%9D%E5%AE%88-%E5%A4%A7%E6%B4%BE%E5%BF%83%E5%BF%83",
+    "timestamp": "2026-08-08T15:19:00.451Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "澳變態華裔兒科醫　涉偷拍性侵18童被控72罪　違保釋條款當庭還柙",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260808/1162752468283559936348965.jpeg/aa2-vmzzzRVLXepLc2cbxZ_5gUcneMvJKJwsEyicLBM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60378061/%E6%9E%97%E9%8C%A6%E5%85%AC%E8%B7%AF%E5%85%A9%E7%A7%81%E5%AE%B6%E8%BB%8A%E7%9B%B8%E6%92%9E%E9%87%801%E5%82%B7-%E8%BB%8A%E9%A0%AD%E5%90%8C%E6%92%9E%E5%87%B9-%E9%8D%BE%E5%B1%8B%E6%9D%91%E5%B0%8D%E9%96%8B%E8%B7%AF%E6%AE%B5%E5%8F%97%E9%98%BB",
     "timestamp": "2026-08-08T05:51:33.436Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "港鐵出現撞人族！小紅書女遭踩腳兼超重背囊猛撞　乘客認出：慣犯",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260808/1162719873378291712982756.png/ipjS9NcC1rLT3d_52T0Nh2JSwIHm7ZtU1yELttchC7Y?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60377965/%E6%B8%AF%E9%90%B5%E5%87%BA%E7%8F%BE%E6%92%9E%E4%BA%BA%E6%97%8F-%E5%B0%8F%E7%B4%85%E6%9B%B8%E5%A5%B3%E9%81%AD%E8%B8%A9%E8%85%B3%E5%85%BC%E8%B6%85%E9%87%8D%E8%83%8C%E5%9B%8A%E7%8C%9B%E6%92%9E-%E4%B9%98%E5%AE%A2%E8%AA%8D%E5%87%BA-%E6%85%A3%E7%8A%AF",
-    "timestamp": "2026-08-08T05:23:27.531Z",
     "strategy": ".content-card__main"
   }
 ];
