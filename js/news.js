@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-08T18:36:56.517Z
+// Last updated: 2026-08-08T19:31:26.726Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "墨爾本童黨打人　60歲亞超職員阻盜竊遭圍毆命危　12歲男被拒保釋",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260804/1161396605270626304384716.png/6U5zdZ_hzrvGthM1LKn9o_98ve2xjyNrp8yXLafMly0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60376553/%E5%A2%A8%E7%88%BE%E6%9C%AC%E7%AB%A5%E9%BB%A8%E6%89%93%E4%BA%BA-60%E6%AD%B2%E4%BA%9E%E8%B6%85%E8%81%B7%E5%93%A1%E9%98%BB%E7%9B%9C%E7%AB%8A%E9%81%AD%E5%9C%8D%E6%AF%86%E5%91%BD%E5%8D%B1-12%E6%AD%B2%E7%94%B7%E8%A2%AB%E6%8B%92%E4%BF%9D%E9%87%8B",
+    "timestamp": "2026-08-08T19:31:26.726Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "一直升機在巴西里約熱內盧墜毀　造成至少4人死亡｜有片",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260807/1162409654832074752860914.jpeg/hGY9d_LpRS9dXg3JMJ85uYlY1qFO-JXLk4LLi5OCy4s?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60378112/%E9%9F%93%E5%9C%8B%E8%B6%B3%E7%B8%BD%E5%B0%B1%E7%82%BA%E5%A4%96%E7%B1%8D%E7%90%83%E8%AD%89%E6%8F%90%E4%BE%9B-%E6%80%A7%E6%8B%9B%E5%BE%85-%E6%8C%87%E6%8E%A7%E8%87%B4%E6%AD%89",
     "timestamp": "2026-08-08T10:16:29.559Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "中美角力｜特朗普力推30億美元關鍵礦產投資　謀降對華供應鏈依賴",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260806/1161994304869109760719845.jpeg/nXUdG71M8diLFZHzrudVZJZGb6Dgn0_oVgYmA1YGJgM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60378114/%E4%B8%AD%E7%BE%8E%E8%A7%92%E5%8A%9B-%E7%89%B9%E6%9C%97%E6%99%AE%E5%8A%9B%E6%8E%A830%E5%84%84%E7%BE%8E%E5%85%83%E9%97%9C%E9%8D%B5%E7%A4%A6%E7%94%A2%E6%8A%95%E8%B3%87-%E8%AC%80%E9%99%8D%E5%B0%8D%E8%8F%AF%E4%BE%9B%E6%87%89%E9%8F%88%E4%BE%9D%E8%B3%B4",
-    "timestamp": "2026-08-08T09:51:26.760Z",
     "strategy": ".content-card__main"
   }
 ];
