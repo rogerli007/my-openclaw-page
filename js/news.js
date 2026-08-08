@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-08T16:31:42.654Z
+// Last updated: 2026-08-08T16:51:17.534Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "日本2027國防預算曝光　或達10萬億創歷史新高",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260806/1161969927549095936438596.jpeg/9iQQNt4jS37V1npw3i2MbMJSq6rTGD61ZSyjtGUso7Q?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60378161/%E6%97%A5%E6%9C%AC2027%E5%9C%8B%E9%98%B2%E9%A0%90%E7%AE%97%E6%9B%9D%E5%85%89-%E6%88%96%E9%81%9410%E8%90%AC%E5%84%84%E5%89%B5%E6%AD%B7%E5%8F%B2%E6%96%B0%E9%AB%98",
+    "timestamp": "2026-08-08T16:51:17.534Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "日本2027國防預算曝光　或達10萬億創歷史新高",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260808/1162783837562867712376198.jpeg/cwMPYAb71e5Oe_j988mOEzCm3JhEGgD6FAA-1hQAPtY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60378083/%E5%A4%A9%E8%B3%A6%E6%B5%B7%E7%81%A33%E6%88%BF%E7%8D%B2%E5%A4%96%E5%8D%80%E5%AE%B6%E5%BA%AD%E5%AE%A24-5%E8%90%AC%E6%89%BF%E7%A7%9F-%E7%A7%9F%E9%87%91%E5%9B%9E%E5%A0%B12-6%E5%8E%98",
     "timestamp": "2026-08-08T07:53:52.374Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "黃大仙上邨血案︱樓層走廊滴滴鮮血　同層女街坊聞慘叫聲：好擔心",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260808/1162738695397183488209384.jpeg/apFkH6C0wezuT0RWBlN_EM4_WdilN6433TUsE901LBM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60378077/%E9%BB%83%E5%A4%A7%E4%BB%99%E4%B8%8A%E9%82%A8%E8%A1%80%E6%A1%88-%E6%A8%93%E5%B1%A4%E8%B5%B0%E5%BB%8A%E6%BB%B4%E6%BB%B4%E9%AE%AE%E8%A1%80-%E5%90%8C%E5%B1%A4%E5%A5%B3%E8%A1%97%E5%9D%8A%E8%81%9E%E6%85%98%E5%8F%AB%E8%81%B2-%E5%A5%BD%E6%93%94%E5%BF%83",
-    "timestamp": "2026-08-08T07:28:30.839Z",
     "strategy": ".content-card__main"
   }
 ];
