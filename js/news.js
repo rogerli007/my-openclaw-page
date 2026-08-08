@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-08T22:02:43.491Z
+// Last updated: 2026-08-08T22:16:04.116Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "白海豚下沉氣流到港　市區最高氣溫約36度　持續極端酷熱",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260809/1163001947490357248284315.jpeg/eIv8QCKQ_lD67ftljVf2VK-XElxEOeY9-3Hpg9Fx6YM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60378171/%E7%99%BD%E6%B5%B7%E8%B1%9A%E4%B8%8B%E6%B2%89%E6%B0%A3%E6%B5%81%E5%88%B0%E6%B8%AF-%E5%B8%82%E5%8D%80%E6%9C%80%E9%AB%98%E6%B0%A3%E6%BA%AB%E7%B4%8436%E5%BA%A6-%E6%8C%81%E7%BA%8C%E6%A5%B5%E7%AB%AF%E9%85%B7%E7%86%B1",
+    "timestamp": "2026-08-08T22:16:04.116Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "加拿大卑詩省葡萄酒區山火失控　數千人接獲疏散令",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260721/1156357061726965760306859.jpeg/hXUCkXVuBX1VPoE-h4FsXMkHmUZCvoy1-C7Ac_guwHM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60378153/%E5%85%AD%E5%90%88%E5%BD%A98-11%E9%A0%AD%E7%8D%8E800%E8%90%AC-6%E5%80%8B%E6%9C%80%E6%97%BA%E8%99%9F%E7%A2%BC-2%E6%8B%9B%E5%A2%9E%E4%B8%AD%E7%8D%8E%E6%A9%9F%E6%9C%83",
     "timestamp": "2026-08-08T14:22:38.865Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "深水埗珠仔街4店同臨結業　網購衝擊加租金壓力　DIY手作聖地褪色",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260808/1162863684028993536685431.jpeg/s4gi5ULvGzv1_n0lzzY9-L9Y3Ow1-NZqMKq5xBWqucQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60378142/%E6%B7%B1%E6%B0%B4%E5%9F%97%E7%8F%A0%E4%BB%94%E8%A1%974%E5%BA%97%E5%90%8C%E8%87%A8%E7%B5%90%E6%A5%AD-%E7%B6%B2%E8%B3%BC%E8%A1%9D%E6%93%8A%E5%8A%A0%E7%A7%9F%E9%87%91%E5%A3%93%E5%8A%9B-diy%E6%89%8B%E4%BD%9C%E8%81%96%E5%9C%B0%E8%A4%AA%E8%89%B2",
-    "timestamp": "2026-08-08T14:04:48.147Z",
     "strategy": ".content-card__main"
   }
 ];
