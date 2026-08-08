@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-08T06:24:13.576Z
+// Last updated: 2026-08-08T06:53:14.466Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "23歲博士生罹胃癌晚期痛哭：拼了這麼多年，為什麼是這個結果？",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260808/1162762001965912064723049.png/LkJ3nY4ELCGvZmxe1RS135ap__OrqDcBcfwNrHH8Daw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60378060/23%E6%AD%B2%E5%8D%9A%E5%A3%AB%E7%94%9F%E7%BD%B9%E8%83%83%E7%99%8C%E6%99%9A%E6%9C%9F%E7%97%9B%E5%93%AD-%E6%8B%BC%E4%BA%86%E9%80%99%E9%BA%BC%E5%A4%9A%E5%B9%B4-%E7%82%BA%E4%BB%80%E9%BA%BC%E6%98%AF%E9%80%99%E5%80%8B%E7%B5%90%E6%9E%9C",
+    "timestamp": "2026-08-08T06:53:14.466Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "宇樹科技去年人形機械人出貨量超5500台居全球第一　銷量保持領先",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260805/1161712424852656128836270.jpeg/Bz1At9JGpdSQZEpPx3muUZOe3TKlAkWUQALTlEAC05Q?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60369801/%E5%8F%A4%E4%BB%A3%E6%B2%92%E7%9B%A3%E8%A6%96%E5%99%A8%E8%BA%AB%E4%BB%BD%E8%AD%89-%E9%9D%92%E6%A8%93%E5%A5%B3%E5%AD%90%E7%82%BA%E4%BD%95%E4%B8%8D%E9%80%83%E8%B7%91-%E8%A2%AB%E6%8A%93%E5%9B%9E%E8%88%87%E5%90%A6%E4%B8%8B%E5%A0%B4%E5%90%8C%E6%A8%A3%E6%85%98",
     "timestamp": "2026-08-07T15:38:52.933Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "中國平價預製房海外爆紅　美夫婦入住9個月揭5大隱憂　入手需注意",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260807/1162483174270308352637285.png/H50n4dk00-EebeUzTS08TaIwaNPDd2xi-g4dIfoOHSE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60373273/%E4%B8%AD%E5%9C%8B%E5%B9%B3%E5%83%B9%E9%A0%90%E8%A3%BD%E6%88%BF%E6%B5%B7%E5%A4%96%E7%88%86%E7%B4%85-%E7%BE%8E%E5%A4%AB%E5%A9%A6%E5%85%A5%E4%BD%8F9%E5%80%8B%E6%9C%88%E6%8F%AD5%E5%A4%A7%E9%9A%B1%E6%86%82-%E5%85%A5%E6%89%8B%E9%9C%80%E6%B3%A8%E6%84%8F",
-    "timestamp": "2026-08-07T15:12:59.411Z",
     "strategy": ".content-card__main"
   }
 ];
