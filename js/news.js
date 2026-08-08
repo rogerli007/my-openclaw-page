@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-08T22:16:04.116Z
+// Last updated: 2026-08-08T22:32:03.748Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "白海豚下沉氣流到港　市區最高氣溫約36度　持續極端酷熱",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260809/1163001947490357248284315.jpeg/eIv8QCKQ_lD67ftljVf2VK-XElxEOeY9-3Hpg9Fx6YM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60378171/%E7%99%BD%E6%B5%B7%E8%B1%9A%E4%B8%8B%E6%B2%89%E6%B0%A3%E6%B5%81%E5%88%B0%E6%B8%AF-%E5%B8%82%E5%8D%80%E6%9C%80%E9%AB%98%E6%B0%A3%E6%BA%AB%E7%B4%8436%E5%BA%A6-%E6%8C%81%E7%BA%8C%E6%A5%B5%E7%AB%AF%E9%85%B7%E7%86%B1",
+    "timestamp": "2026-08-08T22:32:03.748Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "白海豚下沉氣流到港　市區最高氣溫約36度　持續極端酷熱",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260808/1162835856998797312685079.png/G3Z6OgPTk3SacFMAxETwWZ8Bt1AreZVxdwCBhXcAgYU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60377702/%E6%BE%B3%E8%AE%8A%E6%85%8B%E8%8F%AF%E8%A3%94%E5%85%92%E7%A7%91%E9%86%AB-%E6%B6%89%E5%81%B7%E6%8B%8D%E6%80%A7%E4%BE%B518%E7%AB%A5%E8%A2%AB%E6%8E%A772%E7%BD%AA-%E9%81%95%E4%BF%9D%E9%87%8B%E6%A2%9D%E6%AC%BE%E7%95%B6%E5%BA%AD%E9%82%84%E6%9F%99",
     "timestamp": "2026-08-08T15:05:58.209Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "六合彩8.11頭獎800萬｜6個最旺號碼+2招增中獎機會",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260721/1156357061726965760306859.jpeg/hXUCkXVuBX1VPoE-h4FsXMkHmUZCvoy1-C7Ac_guwHM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60378153/%E5%85%AD%E5%90%88%E5%BD%A98-11%E9%A0%AD%E7%8D%8E800%E8%90%AC-6%E5%80%8B%E6%9C%80%E6%97%BA%E8%99%9F%E7%A2%BC-2%E6%8B%9B%E5%A2%9E%E4%B8%AD%E7%8D%8E%E6%A9%9F%E6%9C%83",
-    "timestamp": "2026-08-08T14:22:38.865Z",
     "strategy": ".content-card__main"
   }
 ];
