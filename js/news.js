@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-08T11:46:36.153Z
+// Last updated: 2026-08-08T12:01:49.084Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "黃大仙上邨血案｜傷者單位准養伴侶犬　房署：多次突擊巡查無噪音",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260808/1162842094591545344359416.jpeg/SvXROgoz-Q2jsKT30d85uF3pAtgtfj-zAusNegLrDXo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60378129/%E9%BB%83%E5%A4%A7%E4%BB%99%E4%B8%8A%E9%82%A8%E8%A1%80%E6%A1%88-%E5%82%B7%E8%80%85%E5%96%AE%E4%BD%8D%E5%87%86%E9%A4%8A%E4%BC%B4%E4%BE%B6%E7%8A%AC-%E6%88%BF%E7%BD%B2-%E5%A4%9A%E6%AC%A1%E7%AA%81%E6%93%8A%E5%B7%A1%E6%9F%A5%E7%84%A1%E5%99%AA%E9%9F%B3",
+    "timestamp": "2026-08-08T12:01:49.084Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "黃大仙上邨血案｜傷者單位准養伴侶犬　房署：多次突擊巡查無噪音",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260808/1162638247591940096052948.jpeg/4UtVrijH59BkF9RnMIX0q5ZIj3X2-OcCQB55F0AeeRc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60378017/%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%E6%96%A5%E8%B3%87%E7%99%BE%E5%84%84%E7%99%BC%E5%B1%95%E9%97%9C%E9%8D%B5%E7%A4%A6%E7%94%A2-%E5%BC%B7%E5%8C%96%E5%9C%8B%E9%98%B2%E4%BE%9B%E6%87%89%E9%8F%88%E6%B8%9B%E5%B0%91%E5%B0%8D%E8%8F%AF%E4%BE%9D%E8%B3%B4",
     "timestamp": "2026-08-07T22:18:59.007Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "西班牙對意大利實施入境管制　兩國就休達移民潮交惡",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260807/1162358385081847808591836.jpeg/YqnmvFkP5NjbVRSZ3raw_1lnCzJrt_ygXh_M1l4fzNY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60378014/%E8%A5%BF%E7%8F%AD%E7%89%99%E5%B0%8D%E6%84%8F%E5%A4%A7%E5%88%A9%E5%AF%A6%E6%96%BD%E5%85%A5%E5%A2%83%E7%AE%A1%E5%88%B6-%E5%85%A9%E5%9C%8B%E5%B0%B1%E4%BC%91%E9%81%94%E7%A7%BB%E6%B0%91%E6%BD%AE%E4%BA%A4%E6%83%A1",
-    "timestamp": "2026-08-07T21:51:11.262Z",
     "strategy": ".content-card__main"
   }
 ];
