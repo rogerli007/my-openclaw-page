@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-08T08:51:56.100Z
+// Last updated: 2026-08-08T09:21:44.230Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "宿霧太平洋航空客機疑貨艙門有問題　起飛後折返香港機場",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260808/1162804011741483008716598.png/AuDuCk6ZTGVnQ8qJCxDnYJFp-ZnrNGtzcXjrZ3F462c?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60378097/%E5%AE%BF%E9%9C%A7%E5%A4%AA%E5%B9%B3%E6%B4%8B%E8%88%AA%E7%A9%BA%E5%AE%A2%E6%A9%9F%E7%96%91%E8%B2%A8%E8%89%99%E9%96%80%E6%9C%89%E5%95%8F%E9%A1%8C-%E8%B5%B7%E9%A3%9B%E5%BE%8C%E6%8A%98%E8%BF%94%E9%A6%99%E6%B8%AF%E6%A9%9F%E5%A0%B4",
+    "timestamp": "2026-08-08T09:21:44.230Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "中國上半年註銷7632家新能源車企業　官方：產能過剩企業有序退出",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260808/1162584480125292544270396.jpeg/zS3l2RwOgAsIfdWMVHq6xPBtGlUUALKiLO6iqizuoqo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60378009/%E5%A4%A9%E6%B0%B4%E5%9C%8D%E7%A7%81%E5%AE%B6%E8%BB%8A-%E8%87%AA%E7%82%92-%E6%92%9E%E6%AC%84-%E5%8F%B8%E6%A9%9F%E6%98%8F%E8%BF%B7%E8%A2%AB%E5%9B%B0-%E6%B6%88%E9%98%B2%E5%88%B0%E5%A0%B4%E6%95%91%E4%BA%BA",
     "timestamp": "2026-08-07T18:36:19.538Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "將軍澳康城商場扶手電梯驚現糞便！女保安急掩鼻　網民震驚猜內情",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260808/1162568576079499264314260.jpeg/jt8kYwwVjlFA7e1PLP9tGiqOZwYbA6kOyLji3si44t4",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60377229/%E5%B0%87%E8%BB%8D%E6%BE%B3%E5%BA%B7%E5%9F%8E%E5%95%86%E5%A0%B4%E6%89%B6%E6%89%8B%E9%9B%BB%E6%A2%AF%E9%A9%9A%E7%8F%BE%E7%B3%9E%E4%BE%BF-%E5%A5%B3%E4%BF%9D%E5%AE%89%E6%80%A5%E6%8E%A9%E9%BC%BB-%E7%B6%B2%E6%B0%91%E9%9C%87%E9%A9%9A%E7%8C%9C%E5%85%A7%E6%83%85",
-    "timestamp": "2026-08-07T17:37:28.933Z",
     "strategy": ".content-card__main"
   }
 ];
