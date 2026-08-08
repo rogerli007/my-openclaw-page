@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-08T16:14:49.114Z
+// Last updated: 2026-08-08T16:31:42.654Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "日本2027國防預算曝光　或達10萬億創歷史新高",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260806/1161969927549095936438596.jpeg/9iQQNt4jS37V1npw3i2MbMJSq6rTGD61ZSyjtGUso7Q?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60378161/%E6%97%A5%E6%9C%AC2027%E5%9C%8B%E9%98%B2%E9%A0%90%E7%AE%97%E6%9B%9D%E5%85%89-%E6%88%96%E9%81%9410%E8%90%AC%E5%84%84%E5%89%B5%E6%AD%B7%E5%8F%B2%E6%96%B0%E9%AB%98",
+    "timestamp": "2026-08-08T16:31:42.654Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "酷熱天氣下西貢廈門灣逼爆人潮　內地旅客震驚︰誰來誰是小蠢蛋！",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260808/1162738695397183488209384.jpeg/apFkH6C0wezuT0RWBlN_EM4_WdilN6433TUsE901LBM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60378077/%E9%BB%83%E5%A4%A7%E4%BB%99%E4%B8%8A%E9%82%A8%E8%A1%80%E6%A1%88-%E6%A8%93%E5%B1%A4%E8%B5%B0%E5%BB%8A%E6%BB%B4%E6%BB%B4%E9%AE%AE%E8%A1%80-%E5%90%8C%E5%B1%A4%E5%A5%B3%E8%A1%97%E5%9D%8A%E8%81%9E%E6%85%98%E5%8F%AB%E8%81%B2-%E5%A5%BD%E6%93%94%E5%BF%83",
     "timestamp": "2026-08-08T07:28:30.839Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "23歲博士生罹胃癌晚期痛哭：拼了這麼多年，為什麼是這個結果？",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260808/1162762001965912064723049.png/LkJ3nY4ELCGvZmxe1RS135ap__OrqDcBcfwNrHH8Daw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60378060/23%E6%AD%B2%E5%8D%9A%E5%A3%AB%E7%94%9F%E7%BD%B9%E8%83%83%E7%99%8C%E6%99%9A%E6%9C%9F%E7%97%9B%E5%93%AD-%E6%8B%BC%E4%BA%86%E9%80%99%E9%BA%BC%E5%A4%9A%E5%B9%B4-%E7%82%BA%E4%BB%80%E9%BA%BC%E6%98%AF%E9%80%99%E5%80%8B%E7%B5%90%E6%9E%9C",
-    "timestamp": "2026-08-08T06:53:14.466Z",
     "strategy": ".content-card__main"
   }
 ];
