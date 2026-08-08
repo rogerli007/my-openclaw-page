@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-08T12:19:02.839Z
+// Last updated: 2026-08-08T12:37:29.635Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "愛回家大結局｜Terry李偉健台上感觸爆喊　唯一倖存過渡至新劇",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260808/1162835858315808768642397.jpeg/HczFlP5YzSeZ1rb99PHjSC-SAYFutjJ28rUqkMe1KpA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60378127/%E6%84%9B%E5%9B%9E%E5%AE%B6%E5%A4%A7%E7%B5%90%E5%B1%80-terry%E6%9D%8E%E5%81%89%E5%81%A5%E5%8F%B0%E4%B8%8A%E6%84%9F%E8%A7%B8%E7%88%86%E5%96%8A-%E5%94%AF%E4%B8%80%E5%80%96%E5%AD%98%E9%81%8E%E6%B8%A1%E8%87%B3%E6%96%B0%E5%8A%87",
+    "timestamp": "2026-08-08T12:37:29.635Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "永和豆漿創始人林炳生70歲病逝　台灣起步推廣至20餘國家地區",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260808/1162655364982771712120546.jpeg/ph6a0HfQcxhhLBGOcKgOwimunn2l5t1DWjdXbVo3V20?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60378022/%E7%86%B1%E5%B8%B6%E4%BD%8E%E6%B0%A3%E5%A3%93%E5%8C%97%E9%83%A8%E7%81%A3%E7%94%9F%E6%88%90%E9%97%96%E6%B8%AF600%E5%85%AC%E9%87%8C-%E5%A4%A9%E6%96%87%E5%8F%B0%E6%96%99%E4%B8%80%E6%83%85%E6%B3%81%E6%89%8D%E7%99%BC%E4%B8%80%E8%99%9F%E9%A2%A8%E7%90%83",
     "timestamp": "2026-08-07T23:23:12.332Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "資金汜濫溢出市場　商業地產成交𣈱旺　鞏固之後能否U型反彈？",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260313/1109191810887979008610879.jpeg/KLw5oyxzxUnZvl488-Zu5ISXuuqe3NlLw3qD6sN6g-o?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60378001/%E8%B3%87%E9%87%91%E6%B1%9C%E6%BF%AB%E6%BA%A2%E5%87%BA%E5%B8%82%E5%A0%B4-%E5%95%86%E6%A5%AD%E5%9C%B0%E7%94%A2%E6%88%90%E4%BA%A4%F0%A3%88%B1%E6%97%BA-%E9%9E%8F%E5%9B%BA%E4%B9%8B%E5%BE%8C%E8%83%BD%E5%90%A6u%E5%9E%8B%E5%8F%8D%E5%BD%88",
-    "timestamp": "2026-08-07T23:07:24.935Z",
     "strategy": ".content-card__main"
   }
 ];
