@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-08T04:34:23.779Z
+// Last updated: 2026-08-08T05:23:27.531Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "港鐵出現撞人族！小紅書女遭踩腳兼超重背囊猛撞　乘客認出：慣犯",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260808/1162719873378291712982756.png/ipjS9NcC1rLT3d_52T0Nh2JSwIHm7ZtU1yELttchC7Y?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60377965/%E6%B8%AF%E9%90%B5%E5%87%BA%E7%8F%BE%E6%92%9E%E4%BA%BA%E6%97%8F-%E5%B0%8F%E7%B4%85%E6%9B%B8%E5%A5%B3%E9%81%AD%E8%B8%A9%E8%85%B3%E5%85%BC%E8%B6%85%E9%87%8D%E8%83%8C%E5%9B%8A%E7%8C%9B%E6%92%9E-%E4%B9%98%E5%AE%A2%E8%AA%8D%E5%87%BA-%E6%85%A3%E7%8A%AF",
+    "timestamp": "2026-08-08T05:23:27.531Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "「佳視之友」相識半世紀激罕重聚　高雄銀髮搶鏡米雪仙氣凍齡",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260807/1162515791761903616163049.jpeg/P8fqBD4gOtXEutyyE1cnJlBKvdHRq4Us2_Tmktv05pI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%92%B0%E7%90%83%E8%B6%A3%E8%81%9E/60377979/%E7%BE%8E%E5%9C%8B%E5%A5%B3%E4%B8%BB%E6%92%AD%E9%8F%A1%E9%A0%AD%E5%89%8D%E6%89%93%E7%9E%8C%E7%9D%A1%E6%96%B7%E6%AD%A3-%E8%A7%80%E7%9C%BE%E5%94%94%E6%80%AA%E8%B2%AC%E5%8F%8D%E5%8A%9B%E6%92%90-%E5%A5%B9%E5%A4%AA%E8%BE%9B%E8%8B%A6-%E6%9C%89%E7%89%87",
     "timestamp": "2026-08-07T14:15:50.921Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "名古屋亞運會2026壘球｜香港運動員名單+賽程賽果+歷屆成績",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260807/1162499118073909248836457.jpeg/GX2Ghlu6SraFUKZEmW_PK8Ei1xBqD9nvLb3w6S298Ok?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60374902/%E5%90%8D%E5%8F%A4%E5%B1%8B%E4%BA%9E%E9%81%8B%E6%9C%832026%E5%A3%98%E7%90%83-%E9%A6%99%E6%B8%AF%E9%81%8B%E5%8B%95%E5%93%A1%E5%90%8D%E5%96%AE-%E8%B3%BD%E7%A8%8B%E8%B3%BD%E6%9E%9C-%E6%AD%B7%E5%B1%86%E6%88%90%E7%B8%BE",
-    "timestamp": "2026-08-07T12:53:53.417Z",
     "strategy": ".content-card__main"
   }
 ];
