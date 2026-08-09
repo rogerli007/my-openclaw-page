@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-09T17:54:16.234Z
+// Last updated: 2026-08-09T18:16:05.872Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "韓國足總性招待球證醜聞　重燃2002世界盃是否收買球證熱論",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260809/1163256107695607808129064.jpeg/76vNihjjnK6lyRdgGbxw8iv-Vuc1WAjZ0d8oc9HfKHM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60378326/%E9%9F%93%E5%9C%8B%E8%B6%B3%E7%B8%BD%E6%80%A7%E6%8B%9B%E5%BE%85%E7%90%83%E8%AD%89%E9%86%9C%E8%81%9E-%E9%87%8D%E7%87%832002%E4%B8%96%E7%95%8C%E7%9B%83%E6%98%AF%E5%90%A6%E6%94%B6%E8%B2%B7%E7%90%83%E8%AD%89%E7%86%B1%E8%AB%96",
+    "timestamp": "2026-08-09T18:16:05.872Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "韓國足總性招待球證醜聞　重燃2002世界盃是否收買球證熱論",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260727/1158419948586930176910364.jpeg/VHJ2nG4FiY_vsE3gPWGODwG-oCLZI7cCMukRgTLpEYE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60378259/2026%E4%B8%8A%E5%8D%8A%E5%B9%B4%E5%85%A7%E5%9C%B0%E6%89%8B%E6%A9%9F%E9%8A%B7%E9%87%8Ftop-30-iphone-17%E5%8C%85%E6%94%AC%E5%89%8D3-%E8%8F%AF%E7%82%BA%E4%B8%8A%E6%A6%9C%E6%9C%80%E5%A4%9A",
     "timestamp": "2026-08-09T08:21:41.759Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "一聲「邊境開放」令西班牙失守　揭穿歐盟移民治理失靈與團結假象",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260808/1162756009593147392250968.jpeg/4O3L_NIeM96rhTHVNREl49a1uJjcOQZ4449xXeOPcV0?v=w1920",
-    "url": "https://www.hk01.com/%E4%B8%96%E7%95%8C%E5%B0%88%E9%A1%8C/60377609/%E4%B8%80%E8%81%B2-%E9%82%8A%E5%A2%83%E9%96%8B%E6%94%BE-%E4%BB%A4%E8%A5%BF%E7%8F%AD%E7%89%99%E5%A4%B1%E5%AE%88-%E6%8F%AD%E7%A9%BF%E6%AD%90%E7%9B%9F%E7%A7%BB%E6%B0%91%E6%B2%BB%E7%90%86%E5%A4%B1%E9%9D%88%E8%88%87%E5%9C%98%E7%B5%90%E5%81%87%E8%B1%A1",
-    "timestamp": "2026-08-09T07:53:59.166Z",
     "strategy": ".content-card__main"
   }
 ];
