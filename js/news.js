@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-09T21:08:17.671Z
+// Last updated: 2026-08-09T21:18:03.773Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "有片｜元朗眼利司機見流浪貓即停車　女伴救貓心切　徒手捉離馬路",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260810/1163336405917634560236089.jpeg/6HPBpppm4kUM-SI9zvlUk4Gwh8yXpNaNQ13L4kNdy-I?v=w1920",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60378344/%E6%9C%89%E7%89%87-%E5%85%83%E6%9C%97%E7%9C%BC%E5%88%A9%E5%8F%B8%E6%A9%9F%E8%A6%8B%E6%B5%81%E6%B5%AA%E8%B2%93%E5%8D%B3%E5%81%9C%E8%BB%8A-%E5%A5%B3%E4%BC%B4%E6%95%91%E8%B2%93%E5%BF%83%E5%88%87-%E5%BE%92%E6%89%8B%E6%8D%89%E9%9B%A2%E9%A6%AC%E8%B7%AF",
+    "timestamp": "2026-08-09T21:18:03.773Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "有片｜元朗眼利司機見流浪貓即停車　女伴救貓心切　徒手捉離馬路",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260809/1163151955669815296581276.jpeg/6YWGUyOUe95ri4xMYN42Gg2bhD4LJc4n0dbgp9HW4Kc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60378249/%E5%89%8D%E6%B8%AF%E5%A7%90%E5%90%91%E6%B5%B7%E5%B5%90%E6%95%99%E9%9B%B6%E6%B6%88%E8%B2%BB%E9%81%8A%E6%B8%AF%E6%83%B9%E8%B2%A0%E8%A9%95-%E7%96%91%E6%80%A5%E8%AE%8A%E8%87%89%E7%8B%82%E6%8E%A8%E5%B9%B3%E8%B2%B7%E5%90%8D%E7%89%8C%E6%95%91%E5%BD%A2%E8%B1%A1",
     "timestamp": "2026-08-09T14:32:14.150Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "陳展鵬瀡滑梯自拍扮鬼臉展現風趣一面　網民指驚爆撞樣陳凱琳細佬",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260809/1163229262019301376415327.jpeg/uP7P3G0ilS3CrQYMxRHTi4GUj9PlIdEHrW2mIq1tpiI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60378279/%E9%99%B3%E5%B1%95%E9%B5%AC%E7%80%A1%E6%BB%91%E6%A2%AF%E8%87%AA%E6%8B%8D%E6%89%AE%E9%AC%BC%E8%87%89%E5%B1%95%E7%8F%BE%E9%A2%A8%E8%B6%A3%E4%B8%80%E9%9D%A2-%E7%B6%B2%E6%B0%91%E6%8C%87%E9%A9%9A%E7%88%86%E6%92%9E%E6%A8%A3%E9%99%B3%E5%87%B1%E7%90%B3%E7%B4%B0%E4%BD%AC",
-    "timestamp": "2026-08-09T14:06:03.885Z",
     "strategy": ".content-card__main"
   }
 ];
