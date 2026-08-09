@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-09T14:52:43.656Z
+// Last updated: 2026-08-09T15:15:34.687Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "球場MMA有片｜摩士公園球證畀牌後　雙方球員打波變打交拳來腳往",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260809/1163054167099445248932604.jpeg/vwVPP12n8Os483FYK7Dfp1iGzkrpooPGQzWLTkM1i04",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60378177/%E7%90%83%E5%A0%B4mma%E6%9C%89%E7%89%87-%E6%91%A9%E5%A3%AB%E5%85%AC%E5%9C%92%E7%90%83%E8%AD%89%E7%95%80%E7%89%8C%E5%BE%8C-%E9%9B%99%E6%96%B9%E7%90%83%E5%93%A1%E6%89%93%E6%B3%A2%E8%AE%8A%E6%89%93%E4%BA%A4%E6%8B%B3%E4%BE%86%E8%85%B3%E5%BE%80",
+    "timestamp": "2026-08-09T15:15:34.687Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "歌手TELLER自揭滿意身型預告想出寫真　爆好友范卓賢作歌小習慣",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260809/1163078632898301952891463.jpeg/fypNspVMGxI4xFf9fs1m22o77YWKSJTVXy89DF8vPQw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60378201/%E6%9E%97%E5%BE%B7%E4%BF%A1%E6%84%9B%E5%A6%BB%E8%AA%95%E7%AC%AC%E4%BA%8C%E8%83%8E%E5%A5%B3%E5%85%92-%E6%BA%AB%E6%9F%94%E6%8A%B1b%E5%A5%B3%E5%AE%A3%E5%B8%83-i-m-a-super-girl-dad",
     "timestamp": "2026-08-09T03:24:48.626Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "紐時：美國愛國者導彈庫存少於1700枚　或需超過2年時間補充",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260809/1163062308948152320012536.jpeg/Fnm09nyv3H0xyp8LLNs8e0KPDLYBLS-HkPsDYpD7A2I?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60378189/%E7%B4%90%E6%99%82-%E7%BE%8E%E5%9C%8B%E6%84%9B%E5%9C%8B%E8%80%85%E5%B0%8E%E5%BD%88%E5%BA%AB%E5%AD%98%E5%B0%91%E6%96%BC1700%E6%9E%9A-%E6%88%96%E9%9C%80%E8%B6%85%E9%81%8E2%E5%B9%B4%E6%99%82%E9%96%93%E8%A3%9C%E5%85%85",
-    "timestamp": "2026-08-09T02:36:32.597Z",
     "strategy": ".content-card__main"
   }
 ];
