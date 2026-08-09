@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-09T15:32:21.067Z
+// Last updated: 2026-08-09T15:50:30.051Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "中年好聲音4｜周國豐唔怕死串肥媽踩冧台被拍枱反擊：肥係冇罪",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260809/1163267617968885760908167.jpeg/1OSpcdNLMGWU3Co7lAzJl4rK9PNVr85qMueguTLnoLk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60378328/%E4%B8%AD%E5%B9%B4%E5%A5%BD%E8%81%B2%E9%9F%B34-%E5%91%A8%E5%9C%8B%E8%B1%90%E5%94%94%E6%80%95%E6%AD%BB%E4%B8%B2%E8%82%A5%E5%AA%BD%E8%B8%A9%E5%86%A7%E5%8F%B0%E8%A2%AB%E6%8B%8D%E6%9E%B1%E5%8F%8D%E6%93%8A-%E8%82%A5%E4%BF%82%E5%86%87%E7%BD%AA",
+    "timestamp": "2026-08-09T15:50:30.051Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "周一上班注意　天文台料仍極端酷熱　下午市區36度、新界3區38度",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260809/1163093421510889472837264.jpeg/KbQ4IRa5255fDSxMQYwOchJLJuAb4V40bL6C0Wy-gtE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60378210/20%E6%AD%B2%E4%B8%AD%E5%9C%8B%E9%81%8A%E8%89%87%E5%AF%8C%E4%BA%8C%E4%BB%A3%E6%B3%B0%E5%9C%8B%E9%81%AD%E6%83%85%E6%AE%BA-%E7%96%91%E7%8A%AF%E8%87%AA%E9%A6%96-%E5%9C%A8%E5%A5%B3%E5%8F%8B%E6%B5%B4%E5%AE%A4%E6%92%9E%E8%A6%8B%E5%B0%8D%E6%96%B9",
     "timestamp": "2026-08-09T04:46:42.477Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "來稿｜《加沙女孩的聲音》的拷問——我們還能為愛留下什麼？",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260806/1162022041398808576078312.png/IPkLISCWRRgZ9VIxAssnU3NVUhwClWBBshCGCrIQhgo?v=w1920r16_9",
-    "url": "https://www.hk01.com/01%E8%AB%96%E5%A3%87/60377408/%E4%BE%86%E7%A8%BF-%E5%8A%A0%E6%B2%99%E5%A5%B3%E5%AD%A9%E7%9A%84%E8%81%B2%E9%9F%B3-%E7%9A%84%E6%8B%B7%E5%95%8F-%E6%88%91%E5%80%91%E9%82%84%E8%83%BD%E7%82%BA%E6%84%9B%E7%95%99%E4%B8%8B%E4%BB%80%E9%BA%BC",
-    "timestamp": "2026-08-09T04:05:50.784Z",
     "strategy": ".content-card__main"
   }
 ];
