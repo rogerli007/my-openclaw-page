@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-09T11:49:57.698Z
+// Last updated: 2026-08-09T12:02:52.021Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "你命定的另一半會是誰？選1個嚮往婚禮類型看你更適合哪種伴侶",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260724/1157292477351202816481756.jpeg/k65-89ZR50cEtMWVelBvy0M8bIUFZm3XG3G8NxtxvDc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%AB%87%E6%83%85%E8%AA%AA%E6%80%A7/60373176/%E4%BD%A0%E5%91%BD%E5%AE%9A%E7%9A%84%E5%8F%A6%E4%B8%80%E5%8D%8A%E6%9C%83%E6%98%AF%E8%AA%B0-%E9%81%B81%E5%80%8B%E5%9A%AE%E5%BE%80%E5%A9%9A%E7%A6%AE%E9%A1%9E%E5%9E%8B%E7%9C%8B%E4%BD%A0%E6%9B%B4%E9%81%A9%E5%90%88%E5%93%AA%E7%A8%AE%E4%BC%B4%E4%BE%B6",
+    "timestamp": "2026-08-09T12:02:52.021Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "你命定的另一半會是誰？選1個嚮往婚禮類型看你更適合哪種伴侶",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260806/1162111967725359104405869.jpeg/hwFe_ePUB1WC5bJEWjaX5pofIKqimnXgBOWeRgTlnkY",
     "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E8%A9%B1%E9%A1%8C/60377606/%E6%81%90%E6%80%96%E5%B7%A5%E6%A5%AD%E6%84%8F%E5%A4%96-%E6%9C%89%E7%89%87-%E7%94%B7%E5%B7%A5%E4%BA%BA%E8%A2%AB%E5%8D%A1%E5%88%87%E7%B4%99%E6%A9%9F-%E9%9B%99%E6%89%8B%E9%81%AD%E6%95%B4%E9%BD%8A%E5%88%87%E6%96%B7-%E7%97%9B%E8%8B%A6%E6%8E%99%E6%89%8E",
     "timestamp": "2026-08-08T23:34:27.786Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "恐怖工業意外●有片│男工人被卡切紙機　雙手遭整齊切斷　痛苦掙扎",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260806/1162111967725359104405869.jpeg/hwFe_ePUB1WC5bJEWjaX5pofIKqimnXgBOWeRgTlnkY",
-    "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E8%A9%B1%E9%A1%8C/60377606/%E6%81%90%E6%80%96%E5%B7%A5%E6%A5%AD%E6%84%8F%E5%A4%96-%E6%9C%89%E7%89%87-%E7%94%B7%E5%B7%A5%E4%BA%BA%E8%A2%AB%E5%8D%A1%E5%88%87%E7%B4%99%E6%A9%9F-%E9%9B%99%E6%89%8B%E9%81%AD%E6%95%B4%E9%BD%8A%E5%88%87%E6%96%B7-%E7%97%9B%E8%8B%A6%E6%8E%99%E6%89%8E",
-    "timestamp": "2026-08-08T23:18:00.268Z",
     "strategy": ".content-card__main"
   }
 ];
