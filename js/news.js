@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-09T15:50:30.051Z
+// Last updated: 2026-08-09T16:32:15.536Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "愛回家大結局｜周嘉洛細心扶劉丹上台　貼心禮讓同僚獲網民大讚",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260809/1163195611718094848154029.jpeg/eMO_Ug2l_OH0h29i8AACVUwdpJ7kHV5y3H80_Nx_NPw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60378263/%E6%84%9B%E5%9B%9E%E5%AE%B6%E5%A4%A7%E7%B5%90%E5%B1%80-%E5%91%A8%E5%98%89%E6%B4%9B%E7%B4%B0%E5%BF%83%E6%89%B6%E5%8A%89%E4%B8%B9%E4%B8%8A%E5%8F%B0-%E8%B2%BC%E5%BF%83%E7%A6%AE%E8%AE%93%E5%90%8C%E5%83%9A%E7%8D%B2%E7%B6%B2%E6%B0%91%E5%A4%A7%E8%AE%9A",
+    "timestamp": "2026-08-09T16:32:15.536Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "中年好聲音4｜周國豐唔怕死串肥媽踩冧台被拍枱反擊：肥係冇罪",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260809/1163109466099421184324078.jpeg/9-mBKmY0ZvwJ3cjc9KFP1ULQ-zYxBckuJiiDMSYogzE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60378222/%E8%B3%BD%E9%A6%AC%E6%9C%83%E9%A6%96%E6%AC%A1%E6%B4%BE-%E9%A6%99%E6%B8%AF%E9%9A%8A-%E5%87%BA%E6%88%B0%E9%A8%8E%E5%B8%AB%E8%B3%BD%E8%AD%98%E5%83%B9%E7%9B%83-%E5%83%85%E8%B2%A0-%E8%8B%B1%E6%84%9B%E9%9A%8A-%E5%A5%AA%E4%BA%9E%E8%BB%8D",
     "timestamp": "2026-08-09T05:21:32.391Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "20歲中國遊艇富二代泰國遭情殺　疑犯自首：在女友浴室撞見對方",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260809/1163093421510889472837264.jpeg/KbQ4IRa5255fDSxMQYwOchJLJuAb4V40bL6C0Wy-gtE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60378210/20%E6%AD%B2%E4%B8%AD%E5%9C%8B%E9%81%8A%E8%89%87%E5%AF%8C%E4%BA%8C%E4%BB%A3%E6%B3%B0%E5%9C%8B%E9%81%AD%E6%83%85%E6%AE%BA-%E7%96%91%E7%8A%AF%E8%87%AA%E9%A6%96-%E5%9C%A8%E5%A5%B3%E5%8F%8B%E6%B5%B4%E5%AE%A4%E6%92%9E%E8%A6%8B%E5%B0%8D%E6%96%B9",
-    "timestamp": "2026-08-09T04:46:42.477Z",
     "strategy": ".content-card__main"
   }
 ];
