@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-09T22:15:40.339Z
+// Last updated: 2026-08-09T22:32:43.641Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "極端酷熱｜天文台：今明部份地區達37度或以上　籲做足防暑措施",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260810/1163368263418122240518097.jpeg/xWw0uE62L6H4DXVmmIEELPxb9IbQTTthDxMg-A8TIPg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60378333/%E6%A5%B5%E7%AB%AF%E9%85%B7%E7%86%B1-%E5%A4%A9%E6%96%87%E5%8F%B0-%E4%BB%8A%E6%98%8E%E9%83%A8%E4%BB%BD%E5%9C%B0%E5%8D%80%E9%81%9437%E5%BA%A6%E6%88%96%E4%BB%A5%E4%B8%8A-%E7%B1%B2%E5%81%9A%E8%B6%B3%E9%98%B2%E6%9A%91%E6%8E%AA%E6%96%BD",
+    "timestamp": "2026-08-09T22:32:43.641Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "特朗普身處高球場期間　F16戰機攔截違規闖入空域飛機",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260809/1163054167099445248932604.jpeg/vwVPP12n8Os483FYK7Dfp1iGzkrpooPGQzWLTkM1i04",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60378177/%E7%90%83%E5%A0%B4mma%E6%9C%89%E7%89%87-%E6%91%A9%E5%A3%AB%E5%85%AC%E5%9C%92%E7%90%83%E8%AD%89%E7%95%80%E7%89%8C%E5%BE%8C-%E9%9B%99%E6%96%B9%E7%90%83%E5%93%A1%E6%89%93%E6%B3%A2%E8%AE%8A%E6%89%93%E4%BA%A4%E6%8B%B3%E4%BE%86%E8%85%B3%E5%BE%80",
     "timestamp": "2026-08-09T15:15:34.687Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "歌手TELLER自揭滿意身型預告想出寫真　爆好友范卓賢作歌小習慣",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260809/1163220906730852352781423.jpeg/bFPvTHydJdGkznO18kSmpt6GYJ4bMbU2z9g5oM_YOaA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60378302/%E6%AD%8C%E6%89%8Bteller%E8%87%AA%E6%8F%AD%E6%BB%BF%E6%84%8F%E8%BA%AB%E5%9E%8B%E9%A0%90%E5%91%8A%E6%83%B3%E5%87%BA%E5%AF%AB%E7%9C%9F-%E7%88%86%E5%A5%BD%E5%8F%8B%E8%8C%83%E5%8D%93%E8%B3%A2%E4%BD%9C%E6%AD%8C%E5%B0%8F%E7%BF%92%E6%85%A3",
-    "timestamp": "2026-08-09T14:52:43.656Z",
     "strategy": ".content-card__main"
   }
 ];
