@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-09T14:32:14.150Z
+// Last updated: 2026-08-09T14:52:43.656Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "歌手TELLER自揭滿意身型預告想出寫真　爆好友范卓賢作歌小習慣",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260809/1163220906730852352781423.jpeg/bFPvTHydJdGkznO18kSmpt6GYJ4bMbU2z9g5oM_YOaA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60378302/%E6%AD%8C%E6%89%8Bteller%E8%87%AA%E6%8F%AD%E6%BB%BF%E6%84%8F%E8%BA%AB%E5%9E%8B%E9%A0%90%E5%91%8A%E6%83%B3%E5%87%BA%E5%AF%AB%E7%9C%9F-%E7%88%86%E5%A5%BD%E5%8F%8B%E8%8C%83%E5%8D%93%E8%B3%A2%E4%BD%9C%E6%AD%8C%E5%B0%8F%E7%BF%92%E6%85%A3",
+    "timestamp": "2026-08-09T14:52:43.656Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "前港姐向海嵐教零消費遊港惹負評　疑急變臉狂推平買名牌救形象？",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260809/1163062308948152320012536.jpeg/Fnm09nyv3H0xyp8LLNs8e0KPDLYBLS-HkPsDYpD7A2I?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60378189/%E7%B4%90%E6%99%82-%E7%BE%8E%E5%9C%8B%E6%84%9B%E5%9C%8B%E8%80%85%E5%B0%8E%E5%BD%88%E5%BA%AB%E5%AD%98%E5%B0%91%E6%96%BC1700%E6%9E%9A-%E6%88%96%E9%9C%80%E8%B6%85%E9%81%8E2%E5%B9%B4%E6%99%82%E9%96%93%E8%A3%9C%E5%85%85",
     "timestamp": "2026-08-09T02:36:32.597Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "荃灣福來邨男子墮樓壓中樹椏卸力　改方向跌落垃圾房頂　清醒送院",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260809/1163049980722679808297683.jpeg/dR96iNS7ldV6KG5gwP3dFR11ASoskkvxy9VhCO7VYQg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60378178/%E8%8D%83%E7%81%A3%E7%A6%8F%E4%BE%86%E9%82%A8%E7%94%B7%E5%AD%90%E5%A2%AE%E6%A8%93%E5%A3%93%E4%B8%AD%E6%A8%B9%E6%A4%8F%E5%8D%B8%E5%8A%9B-%E6%94%B9%E6%96%B9%E5%90%91%E8%B7%8C%E8%90%BD%E5%9E%83%E5%9C%BE%E6%88%BF%E9%A0%82-%E6%B8%85%E9%86%92%E9%80%81%E9%99%A2",
-    "timestamp": "2026-08-09T01:38:34.073Z",
     "strategy": ".content-card__main"
   }
 ];
