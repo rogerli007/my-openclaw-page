@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-09T20:04:08.704Z
+// Last updated: 2026-08-09T20:18:03.473Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "NBA名人堂傳奇教練Don Nelson離世　終年89歲",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260810/1163334427384745984291874.jpeg/rPG0kZEbyXIFMbZXmdmxWEIDuT_ASiEmS-1cwEvtXMA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60378343/nba%E5%90%8D%E4%BA%BA%E5%A0%82%E5%82%B3%E5%A5%87%E6%95%99%E7%B7%B4don-nelson%E9%9B%A2%E4%B8%96-%E7%B5%82%E5%B9%B489%E6%AD%B2",
+    "timestamp": "2026-08-09T20:18:03.473Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "伊朗議會委員會通過霍爾木茲海峽安全綱要",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260809/1163197360654782464072368.jpeg/aG8fvA8mSekI8-g0jTJxDSRrtPqJpChBS6EyckuhMnI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60378297/%E4%B8%AD%E5%B9%B44-%E5%90%B3%E5%A5%95%E5%81%89%E8%A2%AB%E6%8C%87%E7%8D%B2%E8%A9%95%E5%88%A4%E5%81%8F%E5%B9%AB-%E5%91%A8%E5%BF%97%E5%BA%B7-%E5%B8%8C%E6%9C%9B%E5%A4%A7%E5%AE%B6%E5%94%94%E5%A5%BD%E5%A4%AA%E8%8B%9B%E5%88%BB",
     "timestamp": "2026-08-09T12:19:38.084Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "你命定的另一半會是誰？選1個嚮往婚禮類型看你更適合哪種伴侶",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260724/1157292477351202816481756.jpeg/k65-89ZR50cEtMWVelBvy0M8bIUFZm3XG3G8NxtxvDc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%AB%87%E6%83%85%E8%AA%AA%E6%80%A7/60373176/%E4%BD%A0%E5%91%BD%E5%AE%9A%E7%9A%84%E5%8F%A6%E4%B8%80%E5%8D%8A%E6%9C%83%E6%98%AF%E8%AA%B0-%E9%81%B81%E5%80%8B%E5%9A%AE%E5%BE%80%E5%A9%9A%E7%A6%AE%E9%A1%9E%E5%9E%8B%E7%9C%8B%E4%BD%A0%E6%9B%B4%E9%81%A9%E5%90%88%E5%93%AA%E7%A8%AE%E4%BC%B4%E4%BE%B6",
-    "timestamp": "2026-08-09T12:02:52.021Z",
     "strategy": ".content-card__main"
   }
 ];
