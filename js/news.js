@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-09T04:05:50.784Z
+// Last updated: 2026-08-09T04:46:42.477Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "20歲中國遊艇富二代泰國遭情殺　疑犯自首：在女友浴室撞見對方",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260809/1163093421510889472837264.jpeg/KbQ4IRa5255fDSxMQYwOchJLJuAb4V40bL6C0Wy-gtE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60378210/20%E6%AD%B2%E4%B8%AD%E5%9C%8B%E9%81%8A%E8%89%87%E5%AF%8C%E4%BA%8C%E4%BB%A3%E6%B3%B0%E5%9C%8B%E9%81%AD%E6%83%85%E6%AE%BA-%E7%96%91%E7%8A%AF%E8%87%AA%E9%A6%96-%E5%9C%A8%E5%A5%B3%E5%8F%8B%E6%B5%B4%E5%AE%A4%E6%92%9E%E8%A6%8B%E5%B0%8D%E6%96%B9",
+    "timestamp": "2026-08-09T04:46:42.477Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "來稿｜《加沙女孩的聲音》的拷問——我們還能為愛留下什麼？",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260804/1161396605270626304384716.png/6U5zdZ_hzrvGthM1LKn9o_98ve2xjyNrp8yXLafMly0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60376553/%E5%A2%A8%E7%88%BE%E6%9C%AC%E7%AB%A5%E9%BB%A8%E6%89%93%E4%BA%BA-60%E6%AD%B2%E4%BA%9E%E8%B6%85%E8%81%B7%E5%93%A1%E9%98%BB%E7%9B%9C%E7%AB%8A%E9%81%AD%E5%9C%8D%E6%AF%86%E5%91%BD%E5%8D%B1-12%E6%AD%B2%E7%94%B7%E8%A2%AB%E6%8B%92%E4%BF%9D%E9%87%8B",
     "timestamp": "2026-08-08T19:31:26.726Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "一直升機在巴西里約熱內盧墜毀　造成至少4人死亡｜有片",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260809/1162928846534610944359276.png/DEaz_9sNMd3xXOJupEo4aLpVALghvvLg9gSkj_YEpI8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60378164/%E4%B8%80%E7%9B%B4%E5%8D%87%E6%A9%9F%E5%9C%A8%E5%B7%B4%E8%A5%BF%E9%87%8C%E7%B4%84%E7%86%B1%E5%85%A7%E7%9B%A7%E5%A2%9C%E6%AF%80-%E9%80%A0%E6%88%90%E8%87%B3%E5%B0%914%E4%BA%BA%E6%AD%BB%E4%BA%A1-%E6%9C%89%E7%89%87",
-    "timestamp": "2026-08-08T18:36:56.517Z",
     "strategy": ".content-card__main"
   }
 ];
