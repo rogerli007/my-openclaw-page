@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-09T15:15:34.687Z
+// Last updated: 2026-08-09T15:32:21.067Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "周一上班注意　天文台料仍極端酷熱　下午市區36度、新界3區38度",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260809/1163187016720977920498053.jpeg/52_VIKu-IRcIfly0dmQ7yQ9vOjgV2yP5X9iCrF_Ygqw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60378327/%E5%91%A8%E4%B8%80%E4%B8%8A%E7%8F%AD%E6%B3%A8%E6%84%8F-%E5%A4%A9%E6%96%87%E5%8F%B0%E6%96%99%E4%BB%8D%E6%A5%B5%E7%AB%AF%E9%85%B7%E7%86%B1-%E4%B8%8B%E5%8D%88%E5%B8%82%E5%8D%8036%E5%BA%A6-%E6%96%B0%E7%95%8C3%E5%8D%8038%E5%BA%A6",
+    "timestamp": "2026-08-09T15:32:21.067Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "球場MMA有片｜摩士公園球證畀牌後　雙方球員打波變打交拳來腳往",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260806/1162022041398808576078312.png/IPkLISCWRRgZ9VIxAssnU3NVUhwClWBBshCGCrIQhgo?v=w1920r16_9",
     "url": "https://www.hk01.com/01%E8%AB%96%E5%A3%87/60377408/%E4%BE%86%E7%A8%BF-%E5%8A%A0%E6%B2%99%E5%A5%B3%E5%AD%A9%E7%9A%84%E8%81%B2%E9%9F%B3-%E7%9A%84%E6%8B%B7%E5%95%8F-%E6%88%91%E5%80%91%E9%82%84%E8%83%BD%E7%82%BA%E6%84%9B%E7%95%99%E4%B8%8B%E4%BB%80%E9%BA%BC",
     "timestamp": "2026-08-09T04:05:50.784Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "林德信愛妻誕第二胎女兒　溫柔抱B女宣布：I’m a super girl dad!",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260809/1163078632898301952891463.jpeg/fypNspVMGxI4xFf9fs1m22o77YWKSJTVXy89DF8vPQw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60378201/%E6%9E%97%E5%BE%B7%E4%BF%A1%E6%84%9B%E5%A6%BB%E8%AA%95%E7%AC%AC%E4%BA%8C%E8%83%8E%E5%A5%B3%E5%85%92-%E6%BA%AB%E6%9F%94%E6%8A%B1b%E5%A5%B3%E5%AE%A3%E5%B8%83-i-m-a-super-girl-dad",
-    "timestamp": "2026-08-09T03:24:48.626Z",
     "strategy": ".content-card__main"
   }
 ];
