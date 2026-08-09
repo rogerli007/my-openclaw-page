@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-09T07:53:59.166Z
+// Last updated: 2026-08-09T08:21:41.759Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "2026上半年內地手機銷量TOP 30：iPhone 17包攬前3　華為上榜最多",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260727/1158419948586930176910364.jpeg/VHJ2nG4FiY_vsE3gPWGODwG-oCLZI7cCMukRgTLpEYE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60378259/2026%E4%B8%8A%E5%8D%8A%E5%B9%B4%E5%85%A7%E5%9C%B0%E6%89%8B%E6%A9%9F%E9%8A%B7%E9%87%8Ftop-30-iphone-17%E5%8C%85%E6%94%AC%E5%89%8D3-%E8%8F%AF%E7%82%BA%E4%B8%8A%E6%A6%9C%E6%9C%80%E5%A4%9A",
+    "timestamp": "2026-08-09T08:21:41.759Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "一聲「邊境開放」令西班牙失守　揭穿歐盟移民治理失靈與團結假象",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260808/1162842583966158848361974.jpeg/EXvn2uVqsaPkXmlk_EPiFhxbfgINeM0YxyI_aMciP2g?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60378128/%E7%A9%86%E5%82%91%E5%A1%94%E5%B7%B4%E7%97%85%E5%8D%B1%E5%82%B3%E8%81%9E%E5%86%8D%E8%B5%B7-%E4%BC%8A%E6%9C%97%E5%AE%98%E6%96%B9%E7%99%BC%E7%89%87%E9%97%A2%E8%AC%A0%E7%9C%9F%E5%81%BD%E5%AD%98%E7%96%91",
     "timestamp": "2026-08-08T21:30:47.400Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "日本岩手縣近海發生5.6級地震　北海道至福島縣廣泛地區有感",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260625/1146923429274849280107438.png/O9JcyUGVnRQ3iuKbfCrTRUekbgGhTs276-iTBevokwU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60378167/%E6%97%A5%E6%9C%AC%E5%B2%A9%E6%89%8B%E7%B8%A3%E8%BF%91%E6%B5%B7%E7%99%BC%E7%94%9F5-6%E7%B4%9A%E5%9C%B0%E9%9C%87-%E5%8C%97%E6%B5%B7%E9%81%93%E8%87%B3%E7%A6%8F%E5%B3%B6%E7%B8%A3%E5%BB%A3%E6%B3%9B%E5%9C%B0%E5%8D%80%E6%9C%89%E6%84%9F",
-    "timestamp": "2026-08-08T21:05:33.835Z",
     "strategy": ".content-card__main"
   }
 ];
