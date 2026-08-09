@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-09T22:32:43.641Z
+// Last updated: 2026-08-09T23:31:01.471Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "老虎殺人！泰國近30年首宗　巡邏員遭猛虎叼走　伏屍200米外溪澗",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260809/1163203233993199616260897.png/Holn0e_1zlEn_YGIfdv5v-PWNJ0jeXKbIlCgCiJQoAo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E8%A9%B1%E9%A1%8C/60378229/%E8%80%81%E8%99%8E%E6%AE%BA%E4%BA%BA-%E6%B3%B0%E5%9C%8B%E8%BF%9130%E5%B9%B4%E9%A6%96%E5%AE%97-%E5%B7%A1%E9%82%8F%E5%93%A1%E9%81%AD%E7%8C%9B%E8%99%8E%E5%8F%BC%E8%B5%B0-%E4%BC%8F%E5%B1%8D200%E7%B1%B3%E5%A4%96%E6%BA%AA%E6%BE%97",
+    "timestamp": "2026-08-09T23:31:01.471Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "極端酷熱｜天文台：今明部份地區達37度或以上　籲做足防暑措施",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260809/1163187016720977920498053.jpeg/52_VIKu-IRcIfly0dmQ7yQ9vOjgV2yP5X9iCrF_Ygqw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60378327/%E5%91%A8%E4%B8%80%E4%B8%8A%E7%8F%AD%E6%B3%A8%E6%84%8F-%E5%A4%A9%E6%96%87%E5%8F%B0%E6%96%99%E4%BB%8D%E6%A5%B5%E7%AB%AF%E9%85%B7%E7%86%B1-%E4%B8%8B%E5%8D%88%E5%B8%82%E5%8D%8036%E5%BA%A6-%E6%96%B0%E7%95%8C3%E5%8D%8038%E5%BA%A6",
     "timestamp": "2026-08-09T15:32:21.067Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "球場MMA有片｜摩士公園球證畀牌後　雙方球員打波變打交拳來腳往",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260809/1163054167099445248932604.jpeg/vwVPP12n8Os483FYK7Dfp1iGzkrpooPGQzWLTkM1i04",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60378177/%E7%90%83%E5%A0%B4mma%E6%9C%89%E7%89%87-%E6%91%A9%E5%A3%AB%E5%85%AC%E5%9C%92%E7%90%83%E8%AD%89%E7%95%80%E7%89%8C%E5%BE%8C-%E9%9B%99%E6%96%B9%E7%90%83%E5%93%A1%E6%89%93%E6%B3%A2%E8%AE%8A%E6%89%93%E4%BA%A4%E6%8B%B3%E4%BE%86%E8%85%B3%E5%BE%80",
-    "timestamp": "2026-08-09T15:15:34.687Z",
     "strategy": ".content-card__main"
   }
 ];
