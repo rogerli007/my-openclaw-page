@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-09T10:17:26.360Z
+// Last updated: 2026-08-09T11:49:57.698Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "你命定的另一半會是誰？選1個嚮往婚禮類型看你更適合哪種伴侶",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260724/1157292477351202816481756.jpeg/k65-89ZR50cEtMWVelBvy0M8bIUFZm3XG3G8NxtxvDc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%AB%87%E6%83%85%E8%AA%AA%E6%80%A7/60373176/%E4%BD%A0%E5%91%BD%E5%AE%9A%E7%9A%84%E5%8F%A6%E4%B8%80%E5%8D%8A%E6%9C%83%E6%98%AF%E8%AA%B0-%E9%81%B81%E5%80%8B%E5%9A%AE%E5%BE%80%E5%A9%9A%E7%A6%AE%E9%A1%9E%E5%9E%8B%E7%9C%8B%E4%BD%A0%E6%9B%B4%E9%81%A9%E5%90%88%E5%93%AA%E7%A8%AE%E4%BC%B4%E4%BE%B6",
+    "timestamp": "2026-08-09T11:49:57.698Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "上水破紀錄39.8度　梁榮武拆解成火爐原因：三面環山積聚大量熱力",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260806/1162111967725359104405869.jpeg/hwFe_ePUB1WC5bJEWjaX5pofIKqimnXgBOWeRgTlnkY",
     "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E8%A9%B1%E9%A1%8C/60377606/%E6%81%90%E6%80%96%E5%B7%A5%E6%A5%AD%E6%84%8F%E5%A4%96-%E6%9C%89%E7%89%87-%E7%94%B7%E5%B7%A5%E4%BA%BA%E8%A2%AB%E5%8D%A1%E5%88%87%E7%B4%99%E6%A9%9F-%E9%9B%99%E6%89%8B%E9%81%AD%E6%95%B4%E9%BD%8A%E5%88%87%E6%96%B7-%E7%97%9B%E8%8B%A6%E6%8E%99%E6%89%8E",
     "timestamp": "2026-08-08T23:18:00.268Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "白海豚下沉氣流到港　市區最高氣溫約36度　持續極端酷熱",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260809/1163001947490357248284315.jpeg/eIv8QCKQ_lD67ftljVf2VK-XElxEOeY9-3Hpg9Fx6YM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60378171/%E7%99%BD%E6%B5%B7%E8%B1%9A%E4%B8%8B%E6%B2%89%E6%B0%A3%E6%B5%81%E5%88%B0%E6%B8%AF-%E5%B8%82%E5%8D%80%E6%9C%80%E9%AB%98%E6%B0%A3%E6%BA%AB%E7%B4%8436%E5%BA%A6-%E6%8C%81%E7%BA%8C%E6%A5%B5%E7%AB%AF%E9%85%B7%E7%86%B1",
-    "timestamp": "2026-08-08T22:32:03.748Z",
     "strategy": ".content-card__main"
   }
 ];
