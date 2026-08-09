@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-09T13:13:02.888Z
+// Last updated: 2026-08-09T14:06:03.885Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "陳展鵬瀡滑梯自拍扮鬼臉展現風趣一面　網民指驚爆撞樣陳凱琳細佬",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260809/1163229262019301376415327.jpeg/uP7P3G0ilS3CrQYMxRHTi4GUj9PlIdEHrW2mIq1tpiI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60378279/%E9%99%B3%E5%B1%95%E9%B5%AC%E7%80%A1%E6%BB%91%E6%A2%AF%E8%87%AA%E6%8B%8D%E6%89%AE%E9%AC%BC%E8%87%89%E5%B1%95%E7%8F%BE%E9%A2%A8%E8%B6%A3%E4%B8%80%E9%9D%A2-%E7%B6%B2%E6%B0%91%E6%8C%87%E9%A9%9A%E7%88%86%E6%92%9E%E6%A8%A3%E9%99%B3%E5%87%B1%E7%90%B3%E7%B4%B0%E4%BD%AC",
+    "timestamp": "2026-08-09T14:06:03.885Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "離奇車禍！男騎士遭電單車金屬斷管插屁股動不了　網民：感覺幻痛",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260809/1163041004450746368864093.jpeg/lDncJKMNfxO2oL0foYaP57DPheVRcsn0FAZpwxQGacM",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60378176/%E8%BB%8Acam-%E9%BB%83%E5%A4%A7%E4%BB%99-%E5%B0%8F%E9%9C%B2%E5%AF%B3-%E7%9A%84%E5%A3%AB%E5%89%B7%E7%9F%B3%E5%A3%86%E5%BD%88%E8%B5%B7-%E9%A3%9B%E7%94%A9%E8%BB%8A%E8%BD%86-%E7%89%87%E4%B8%BB-%E7%99%A1x%E7%B7%9A",
     "timestamp": "2026-08-09T00:55:56.688Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "珍惜生命｜跑馬地比華利山七旬韓籍女子墮樓　當場不治",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260408/1118473661225897984134920.jpeg/6m29-hwibgWWAE5VB-wCkjCJ2_0FGF25L6vEZC-rxGQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60378174/%E7%8F%8D%E6%83%9C%E7%94%9F%E5%91%BD-%E8%B7%91%E9%A6%AC%E5%9C%B0%E6%AF%94%E8%8F%AF%E5%88%A9%E5%B1%B1%E4%B8%83%E6%97%AC%E9%9F%93%E7%B1%8D%E5%A5%B3%E5%AD%90%E5%A2%AE%E6%A8%93-%E7%95%B6%E5%A0%B4%E4%B8%8D%E6%B2%BB",
-    "timestamp": "2026-08-09T00:30:34.571Z",
     "strategy": ".content-card__main"
   }
 ];
