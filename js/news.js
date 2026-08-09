@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-09T09:57:10.094Z
+// Last updated: 2026-08-09T10:17:26.360Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "上水破紀錄39.8度　梁榮武拆解成火爐原因：三面環山積聚大量熱力",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260809/1163181683491475456703459.jpeg/FrjBaDFi6ZQ1gdR9cn6UHOr6ysCMQsOHRNl1WkTZdVo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60378267/%E4%B8%8A%E6%B0%B4%E7%A0%B4%E7%B4%80%E9%8C%8439-8%E5%BA%A6-%E6%A2%81%E6%A6%AE%E6%AD%A6%E6%8B%86%E8%A7%A3%E6%88%90%E7%81%AB%E7%88%90%E5%8E%9F%E5%9B%A0-%E4%B8%89%E9%9D%A2%E7%92%B0%E5%B1%B1%E7%A9%8D%E8%81%9A%E5%A4%A7%E9%87%8F%E7%86%B1%E5%8A%9B",
+    "timestamp": "2026-08-09T10:17:26.360Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "白海豚登陸前風雨襲滬　多地水浸嚴重｢變海｣　雨水倒灌商鋪｜有片",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260809/1163001947490357248284315.jpeg/eIv8QCKQ_lD67ftljVf2VK-XElxEOeY9-3Hpg9Fx6YM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60378171/%E7%99%BD%E6%B5%B7%E8%B1%9A%E4%B8%8B%E6%B2%89%E6%B0%A3%E6%B5%81%E5%88%B0%E6%B8%AF-%E5%B8%82%E5%8D%80%E6%9C%80%E9%AB%98%E6%B0%A3%E6%BA%AB%E7%B4%8436%E5%BA%A6-%E6%8C%81%E7%BA%8C%E6%A5%B5%E7%AB%AF%E9%85%B7%E7%86%B1",
     "timestamp": "2026-08-08T22:32:03.748Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "白海豚下沉氣流到港　市區最高氣溫約36度　持續極端酷熱",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260809/1163001947490357248284315.jpeg/eIv8QCKQ_lD67ftljVf2VK-XElxEOeY9-3Hpg9Fx6YM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60378171/%E7%99%BD%E6%B5%B7%E8%B1%9A%E4%B8%8B%E6%B2%89%E6%B0%A3%E6%B5%81%E5%88%B0%E6%B8%AF-%E5%B8%82%E5%8D%80%E6%9C%80%E9%AB%98%E6%B0%A3%E6%BA%AB%E7%B4%8436%E5%BA%A6-%E6%8C%81%E7%BA%8C%E6%A5%B5%E7%AB%AF%E9%85%B7%E7%86%B1",
-    "timestamp": "2026-08-08T22:16:04.116Z",
     "strategy": ".content-card__main"
   }
 ];
