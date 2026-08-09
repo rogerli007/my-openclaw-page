@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-09T04:46:42.477Z
+// Last updated: 2026-08-09T05:21:32.391Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "賽馬會首次派「香港隊」出戰騎師賽識價盃　僅負「英愛隊」奪亞軍",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260809/1163109466099421184324078.jpeg/9-mBKmY0ZvwJ3cjc9KFP1ULQ-zYxBckuJiiDMSYogzE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60378222/%E8%B3%BD%E9%A6%AC%E6%9C%83%E9%A6%96%E6%AC%A1%E6%B4%BE-%E9%A6%99%E6%B8%AF%E9%9A%8A-%E5%87%BA%E6%88%B0%E9%A8%8E%E5%B8%AB%E8%B3%BD%E8%AD%98%E5%83%B9%E7%9B%83-%E5%83%85%E8%B2%A0-%E8%8B%B1%E6%84%9B%E9%9A%8A-%E5%A5%AA%E4%BA%9E%E8%BB%8D",
+    "timestamp": "2026-08-09T05:21:32.391Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "20歲中國遊艇富二代泰國遭情殺　疑犯自首：在女友浴室撞見對方",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260809/1162963007400054784948621.png/RLOSbVNUdrQjnNOQaevJ4eRPACN9GFHLFC1vwhQtb8I?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60378166/%E7%A7%98%E9%AD%AF%E4%B8%80%E5%BB%82%E5%9E%8B%E8%BB%8A%E8%88%87%E8%B2%A8%E8%BB%8A%E7%9B%B8%E6%92%9E-%E9%80%A0%E6%88%909%E6%AD%BB6%E5%82%B7",
     "timestamp": "2026-08-08T19:48:04.311Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "墨爾本童黨打人　60歲亞超職員阻盜竊遭圍毆命危　12歲男被拒保釋",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260804/1161396605270626304384716.png/6U5zdZ_hzrvGthM1LKn9o_98ve2xjyNrp8yXLafMly0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60376553/%E5%A2%A8%E7%88%BE%E6%9C%AC%E7%AB%A5%E9%BB%A8%E6%89%93%E4%BA%BA-60%E6%AD%B2%E4%BA%9E%E8%B6%85%E8%81%B7%E5%93%A1%E9%98%BB%E7%9B%9C%E7%AB%8A%E9%81%AD%E5%9C%8D%E6%AF%86%E5%91%BD%E5%8D%B1-12%E6%AD%B2%E7%94%B7%E8%A2%AB%E6%8B%92%E4%BF%9D%E9%87%8B",
-    "timestamp": "2026-08-08T19:31:26.726Z",
     "strategy": ".content-card__main"
   }
 ];
