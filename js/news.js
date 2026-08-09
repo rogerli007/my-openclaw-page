@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-09T01:38:34.073Z
+// Last updated: 2026-08-09T02:36:32.597Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "紐時：美國愛國者導彈庫存少於1700枚　或需超過2年時間補充",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260809/1163062308948152320012536.jpeg/Fnm09nyv3H0xyp8LLNs8e0KPDLYBLS-HkPsDYpD7A2I?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60378189/%E7%B4%90%E6%99%82-%E7%BE%8E%E5%9C%8B%E6%84%9B%E5%9C%8B%E8%80%85%E5%B0%8E%E5%BD%88%E5%BA%AB%E5%AD%98%E5%B0%91%E6%96%BC1700%E6%9E%9A-%E6%88%96%E9%9C%80%E8%B6%85%E9%81%8E2%E5%B9%B4%E6%99%82%E9%96%93%E8%A3%9C%E5%85%85",
+    "timestamp": "2026-08-09T02:36:32.597Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "荃灣福來邨男子墮樓壓中樹椏卸力　改方向跌落垃圾房頂　清醒送院",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260809/1162928846534610944359276.png/DEaz_9sNMd3xXOJupEo4aLpVALghvvLg9gSkj_YEpI8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60378164/%E4%B8%80%E7%9B%B4%E5%8D%87%E6%A9%9F%E5%9C%A8%E5%B7%B4%E8%A5%BF%E9%87%8C%E7%B4%84%E5%A2%9C%E6%AF%80-%E9%80%A0%E6%88%90%E8%87%B3%E5%B0%914%E4%BA%BA%E6%AD%BB%E4%BA%A1-%E6%9C%89%E7%89%87",
     "timestamp": "2026-08-08T17:49:40.650Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "功夫女足丨蔡思貝避談淋Cream事件 讚同屆港姐陳凱琳：超能幹媽媽",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260809/1162928097796820992124583.png/MzrgJKu2-6eu5joJJfVx2zlm7yYKbCIQ4SjskeEo7JE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60378162/%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3-%E8%94%A1%E6%80%9D%E8%B2%9D%E9%81%BF%E8%AB%87%E6%B7%8Bcream%E4%BA%8B%E4%BB%B6-%E8%AE%9A%E5%90%8C%E5%B1%86%E6%B8%AF%E5%A7%90%E9%99%B3%E5%87%B1%E7%90%B3-%E8%B6%85%E8%83%BD%E5%B9%B9%E5%AA%BD%E5%AA%BD",
-    "timestamp": "2026-08-08T17:15:53.587Z",
     "strategy": ".content-card__main"
   }
 ];
