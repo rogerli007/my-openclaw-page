@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-09T08:21:41.759Z
+// Last updated: 2026-08-09T08:53:03.097Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "BLACKPINK出道10周年全員直播道歉　Jisoo保姆車落淚Lisa發文力撐",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260809/1163124144317927424824901.png/gHnW_PMJ3FvRsCMsa18o-vKaZciU8JPYrhKVWK4SlVg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60378238/blackpink%E5%87%BA%E9%81%9310%E5%91%A8%E5%B9%B4%E5%85%A8%E5%93%A1%E7%9B%B4%E6%92%AD%E9%81%93%E6%AD%89-jisoo%E4%BF%9D%E5%A7%86%E8%BB%8A%E8%90%BD%E6%B7%9Alisa%E7%99%BC%E6%96%87%E5%8A%9B%E6%92%90",
+    "timestamp": "2026-08-09T08:53:03.097Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "2026上半年內地手機銷量TOP 30：iPhone 17包攬前3　華為上榜最多",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260809/1162991514603753472576934.jpeg/7n_ZzCePUjJG8OLgGku11AOtIkVQZFcuaet-F2nrfhc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60378169/%E5%8A%A0%E6%8B%BF%E5%A4%A7%E5%8D%91%E8%A9%A9%E7%9C%81%E8%91%A1%E8%90%84%E9%85%92%E5%8D%80%E5%B1%B1%E7%81%AB%E5%A4%B1%E6%8E%A7-%E6%95%B8%E5%8D%83%E4%BA%BA%E6%8E%A5%E7%8D%B2%E7%96%8F%E6%95%A3%E4%BB%A4",
     "timestamp": "2026-08-08T22:02:43.491Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "穆傑塔巴病危傳聞再起　伊朗官方發片闢謠真偽存疑",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260808/1162842583966158848361974.jpeg/EXvn2uVqsaPkXmlk_EPiFhxbfgINeM0YxyI_aMciP2g?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60378128/%E7%A9%86%E5%82%91%E5%A1%94%E5%B7%B4%E7%97%85%E5%8D%B1%E5%82%B3%E8%81%9E%E5%86%8D%E8%B5%B7-%E4%BC%8A%E6%9C%97%E5%AE%98%E6%96%B9%E7%99%BC%E7%89%87%E9%97%A2%E8%AC%A0%E7%9C%9F%E5%81%BD%E5%AD%98%E7%96%91",
-    "timestamp": "2026-08-08T21:30:47.400Z",
     "strategy": ".content-card__main"
   }
 ];
