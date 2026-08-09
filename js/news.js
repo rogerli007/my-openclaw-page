@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-09T05:39:34.655Z
+// Last updated: 2026-08-09T06:34:49.194Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "全球車企銷量排行｜中國獨佔三家　比亞迪回升第六　本田跌出前十",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260716/1154436251219136512341862.jpeg/bWSmJ-XD6yq1V8YhfUdYy4U3fizsEhEojCfJfYwnyX0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60378204/%E5%85%A8%E7%90%83%E8%BB%8A%E4%BC%81%E9%8A%B7%E9%87%8F%E6%8E%92%E8%A1%8C-%E4%B8%AD%E5%9C%8B%E7%8D%A8%E4%BD%94%E4%B8%89%E5%AE%B6-%E6%AF%94%E4%BA%9E%E8%BF%AA%E5%9B%9E%E5%8D%87%E7%AC%AC%E5%85%AD-%E6%9C%AC%E7%94%B0%E8%B7%8C%E5%87%BA%E5%89%8D%E5%8D%81",
+    "timestamp": "2026-08-09T06:34:49.194Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "新皇崗口岸｜爭取十一前通關？李家超：愈早愈好　要確保安全順暢",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260625/1146923429274849280107438.png/O9JcyUGVnRQ3iuKbfCrTRUekbgGhTs276-iTBevokwU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60378167/%E6%97%A5%E6%9C%AC%E5%B2%A9%E6%89%8B%E7%B8%A3%E8%BF%91%E6%B5%B7%E7%99%BC%E7%94%9F5-6%E7%B4%9A%E5%9C%B0%E9%9C%87-%E5%8C%97%E6%B5%B7%E9%81%93%E8%87%B3%E7%A6%8F%E5%B3%B6%E7%B8%A3%E5%BB%A3%E6%B3%9B%E5%9C%B0%E5%8D%80%E6%9C%89%E6%84%9F",
     "timestamp": "2026-08-08T20:15:04.814Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "日本岩手縣近海發生5.6級地震　北海道至福島縣廣泛地區有感",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260625/1146923429274849280107438.png/O9JcyUGVnRQ3iuKbfCrTRUekbgGhTs276-iTBevokwU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60378167/%E6%97%A5%E6%9C%AC%E5%B2%A9%E6%89%8B%E7%B8%A3%E8%BF%91%E6%B5%B7%E7%99%BC%E7%94%9F5-6%E7%B4%9A%E5%9C%B0%E9%9C%87-%E5%8C%97%E6%B5%B7%E9%81%93%E8%87%B3%E7%A6%8F%E5%B3%B6%E7%B8%A3%E5%BB%A3%E6%B3%9B%E5%9C%B0%E5%8D%80%E6%9C%89%E6%84%9F",
-    "timestamp": "2026-08-08T20:01:28.632Z",
     "strategy": ".content-card__main"
   }
 ];
