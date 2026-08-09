@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-09T12:02:52.021Z
+// Last updated: 2026-08-09T12:19:38.084Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "中年4｜吳奕偉被指獲評判偏幫　　周志康︰希望大家唔好太苛刻",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260809/1163197360654782464072368.jpeg/aG8fvA8mSekI8-g0jTJxDSRrtPqJpChBS6EyckuhMnI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60378297/%E4%B8%AD%E5%B9%B44-%E5%90%B3%E5%A5%95%E5%81%89%E8%A2%AB%E6%8C%87%E7%8D%B2%E8%A9%95%E5%88%A4%E5%81%8F%E5%B9%AB-%E5%91%A8%E5%BF%97%E5%BA%B7-%E5%B8%8C%E6%9C%9B%E5%A4%A7%E5%AE%B6%E5%94%94%E5%A5%BD%E5%A4%AA%E8%8B%9B%E5%88%BB",
+    "timestamp": "2026-08-09T12:19:38.084Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "你命定的另一半會是誰？選1個嚮往婚禮類型看你更適合哪種伴侶",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260806/1162111967725359104405869.jpeg/hwFe_ePUB1WC5bJEWjaX5pofIKqimnXgBOWeRgTlnkY",
     "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E8%A9%B1%E9%A1%8C/60377606/%E6%81%90%E6%80%96%E5%B7%A5%E6%A5%AD%E6%84%8F%E5%A4%96-%E6%9C%89%E7%89%87-%E7%94%B7%E5%B7%A5%E4%BA%BA%E8%A2%AB%E5%8D%A1%E5%88%87%E7%B4%99%E6%A9%9F-%E9%9B%99%E6%89%8B%E9%81%AD%E6%95%B4%E9%BD%8A%E5%88%87%E6%96%B7-%E7%97%9B%E8%8B%A6%E6%8E%99%E6%89%8E",
     "timestamp": "2026-08-08T23:51:22.174Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "恐怖工業意外●有片│男工人被卡切紙機　雙手遭整齊切斷　痛苦掙扎",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260806/1162111967725359104405869.jpeg/hwFe_ePUB1WC5bJEWjaX5pofIKqimnXgBOWeRgTlnkY",
-    "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E8%A9%B1%E9%A1%8C/60377606/%E6%81%90%E6%80%96%E5%B7%A5%E6%A5%AD%E6%84%8F%E5%A4%96-%E6%9C%89%E7%89%87-%E7%94%B7%E5%B7%A5%E4%BA%BA%E8%A2%AB%E5%8D%A1%E5%88%87%E7%B4%99%E6%A9%9F-%E9%9B%99%E6%89%8B%E9%81%AD%E6%95%B4%E9%BD%8A%E5%88%87%E6%96%B7-%E7%97%9B%E8%8B%A6%E6%8E%99%E6%89%8E",
-    "timestamp": "2026-08-08T23:34:27.786Z",
     "strategy": ".content-card__main"
   }
 ];
