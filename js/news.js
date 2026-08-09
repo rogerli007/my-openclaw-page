@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-09T08:53:03.097Z
+// Last updated: 2026-08-09T09:57:10.094Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "白海豚登陸前風雨襲滬　多地水浸嚴重｢變海｣　雨水倒灌商鋪｜有片",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260809/1163177861247406080924135.png/CPr7KMcJXW2c0yP6Iap8MEDChOowjKWn9c1JTvXNSU4?v=w1920",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60378283/%E7%99%BD%E6%B5%B7%E8%B1%9A%E7%99%BB%E9%99%B8%E5%89%8D%E9%A2%A8%E9%9B%A8%E8%A5%B2%E6%BB%AC-%E5%A4%9A%E5%9C%B0%E6%B0%B4%E6%B5%B8%E5%9A%B4%E9%87%8D-%E8%AE%8A%E6%B5%B7-%E9%9B%A8%E6%B0%B4%E5%80%92%E7%81%8C%E5%95%86%E9%8B%AA-%E6%9C%89%E7%89%87",
+    "timestamp": "2026-08-09T09:57:10.094Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "BLACKPINK出道10周年全員直播道歉　Jisoo保姆車落淚Lisa發文力撐",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260809/1163001947490357248284315.jpeg/eIv8QCKQ_lD67ftljVf2VK-XElxEOeY9-3Hpg9Fx6YM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60378171/%E7%99%BD%E6%B5%B7%E8%B1%9A%E4%B8%8B%E6%B2%89%E6%B0%A3%E6%B5%81%E5%88%B0%E6%B8%AF-%E5%B8%82%E5%8D%80%E6%9C%80%E9%AB%98%E6%B0%A3%E6%BA%AB%E7%B4%8436%E5%BA%A6-%E6%8C%81%E7%BA%8C%E6%A5%B5%E7%AB%AF%E9%85%B7%E7%86%B1",
     "timestamp": "2026-08-08T22:16:04.116Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "加拿大卑詩省葡萄酒區山火失控　數千人接獲疏散令",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260809/1162991514603753472576934.jpeg/7n_ZzCePUjJG8OLgGku11AOtIkVQZFcuaet-F2nrfhc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60378169/%E5%8A%A0%E6%8B%BF%E5%A4%A7%E5%8D%91%E8%A9%A9%E7%9C%81%E8%91%A1%E8%90%84%E9%85%92%E5%8D%80%E5%B1%B1%E7%81%AB%E5%A4%B1%E6%8E%A7-%E6%95%B8%E5%8D%83%E4%BA%BA%E6%8E%A5%E7%8D%B2%E7%96%8F%E6%95%A3%E4%BB%A4",
-    "timestamp": "2026-08-08T22:02:43.491Z",
     "strategy": ".content-card__main"
   }
 ];
