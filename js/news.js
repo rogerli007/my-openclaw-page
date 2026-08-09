@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-09T20:18:03.473Z
+// Last updated: 2026-08-09T20:35:36.265Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "有片｜元朗眼利司機見流浪貓即停車　女伴救貓心切　徒手捉離馬路",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260810/1163336405917634560236089.jpeg/6HPBpppm4kUM-SI9zvlUk4Gwh8yXpNaNQ13L4kNdy-I?v=w1920",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60378344/%E6%9C%89%E7%89%87-%E5%85%83%E6%9C%97%E7%9C%BC%E5%88%A9%E5%8F%B8%E6%A9%9F%E8%A6%8B%E6%B5%81%E6%B5%AA%E8%B2%93%E5%8D%B3%E5%81%9C%E8%BB%8A-%E5%A5%B3%E4%BC%B4%E6%95%91%E8%B2%93%E5%BF%83%E5%88%87-%E5%BE%92%E6%89%8B%E6%8D%89%E9%9B%A2%E9%A6%AC%E8%B7%AF",
+    "timestamp": "2026-08-09T20:35:36.265Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "NBA名人堂傳奇教練Don Nelson離世　終年89歲",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260808/1162819004755087360310624.png/jjaf1lneDFSyFVlh2aCiACqZUvwyOV4IbyhDIW8oQyE",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60378070/%E9%9B%A2%E5%A5%87%E8%BB%8A%E7%A6%8D-%E7%94%B7%E9%A8%8E%E5%A3%AB%E9%81%AD%E9%9B%BB%E5%96%AE%E8%BB%8A%E9%87%91%E5%B1%AC%E6%96%B7%E7%AE%A1%E6%8F%92%E5%B1%81%E8%82%A1%E5%8B%95%E4%B8%8D%E4%BA%86-%E7%B6%B2%E6%B0%91-%E6%84%9F%E8%A6%BA%E5%B9%BB%E7%97%9B",
     "timestamp": "2026-08-09T13:13:02.888Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "中年4｜吳奕偉被指獲評判偏幫　　周志康︰希望大家唔好太苛刻",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260809/1163197360654782464072368.jpeg/aG8fvA8mSekI8-g0jTJxDSRrtPqJpChBS6EyckuhMnI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60378297/%E4%B8%AD%E5%B9%B44-%E5%90%B3%E5%A5%95%E5%81%89%E8%A2%AB%E6%8C%87%E7%8D%B2%E8%A9%95%E5%88%A4%E5%81%8F%E5%B9%AB-%E5%91%A8%E5%BF%97%E5%BA%B7-%E5%B8%8C%E6%9C%9B%E5%A4%A7%E5%AE%B6%E5%94%94%E5%A5%BD%E5%A4%AA%E8%8B%9B%E5%88%BB",
-    "timestamp": "2026-08-09T12:19:38.084Z",
     "strategy": ".content-card__main"
   }
 ];
