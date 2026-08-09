@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-09T07:00:12.642Z
+// Last updated: 2026-08-09T07:53:59.166Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "一聲「邊境開放」令西班牙失守　揭穿歐盟移民治理失靈與團結假象",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260808/1162756009593147392250968.jpeg/4O3L_NIeM96rhTHVNREl49a1uJjcOQZ4449xXeOPcV0?v=w1920",
+    "url": "https://www.hk01.com/%E4%B8%96%E7%95%8C%E5%B0%88%E9%A1%8C/60377609/%E4%B8%80%E8%81%B2-%E9%82%8A%E5%A2%83%E9%96%8B%E6%94%BE-%E4%BB%A4%E8%A5%BF%E7%8F%AD%E7%89%99%E5%A4%B1%E5%AE%88-%E6%8F%AD%E7%A9%BF%E6%AD%90%E7%9B%9F%E7%A7%BB%E6%B0%91%E6%B2%BB%E7%90%86%E5%A4%B1%E9%9D%88%E8%88%87%E5%9C%98%E7%B5%90%E5%81%87%E8%B1%A1",
+    "timestamp": "2026-08-09T07:53:59.166Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "澳洲悉尼機場兩客機險相撞　捷星航空飛機急煞掣1機組人員受傷",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260625/1146923429274849280107438.png/O9JcyUGVnRQ3iuKbfCrTRUekbgGhTs276-iTBevokwU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60378167/%E6%97%A5%E6%9C%AC%E5%B2%A9%E6%89%8B%E7%B8%A3%E8%BF%91%E6%B5%B7%E7%99%BC%E7%94%9F5-6%E7%B4%9A%E5%9C%B0%E9%9C%87-%E5%8C%97%E6%B5%B7%E9%81%93%E8%87%B3%E7%A6%8F%E5%B3%B6%E7%B8%A3%E5%BB%A3%E6%B3%9B%E5%9C%B0%E5%8D%80%E6%9C%89%E6%84%9F",
     "timestamp": "2026-08-08T21:05:33.835Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "日本岩手縣近海發生5.6級地震　北海道至福島縣廣泛地區有感",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260625/1146923429274849280107438.png/O9JcyUGVnRQ3iuKbfCrTRUekbgGhTs276-iTBevokwU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60378167/%E6%97%A5%E6%9C%AC%E5%B2%A9%E6%89%8B%E7%B8%A3%E8%BF%91%E6%B5%B7%E7%99%BC%E7%94%9F5-6%E7%B4%9A%E5%9C%B0%E9%9C%87-%E5%8C%97%E6%B5%B7%E9%81%93%E8%87%B3%E7%A6%8F%E5%B3%B6%E7%B8%A3%E5%BB%A3%E6%B3%9B%E5%9C%B0%E5%8D%80%E6%9C%89%E6%84%9F",
-    "timestamp": "2026-08-08T20:31:15.509Z",
     "strategy": ".content-card__main"
   }
 ];
