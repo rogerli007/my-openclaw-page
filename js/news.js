@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-09T23:31:01.471Z
+// Last updated: 2026-08-09T23:48:50.922Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "特朗普稱低調應對伊朗問題　暗示加大經濟施壓而非軍事打擊",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260810/1163363882144632832912354.jpeg/PVDI1BeTJkmQYk44FzzLibAwwP3ebXxex3MtzcdzLc0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60378339/%E7%89%B9%E6%9C%97%E6%99%AE%E7%A8%B1%E4%BD%8E%E8%AA%BF%E6%87%89%E5%B0%8D%E4%BC%8A%E6%9C%97%E5%95%8F%E9%A1%8C-%E6%9A%97%E7%A4%BA%E5%8A%A0%E5%A4%A7%E7%B6%93%E6%BF%9F%E6%96%BD%E5%A3%93%E8%80%8C%E9%9D%9E%E8%BB%8D%E4%BA%8B%E6%89%93%E6%93%8A",
+    "timestamp": "2026-08-09T23:48:50.922Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "老虎殺人！泰國近30年首宗　巡邏員遭猛虎叼走　伏屍200米外溪澗",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260809/1163267617968885760908167.jpeg/1OSpcdNLMGWU3Co7lAzJl4rK9PNVr85qMueguTLnoLk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60378328/%E4%B8%AD%E5%B9%B4%E5%A5%BD%E8%81%B2%E9%9F%B34-%E5%91%A8%E5%9C%8B%E8%B1%90%E5%94%94%E6%80%95%E6%AD%BB%E4%B8%B2%E8%82%A5%E5%AA%BD%E8%B8%A9%E5%86%A7%E5%8F%B0%E8%A2%AB%E6%8B%8D%E6%9E%B1%E5%8F%8D%E6%93%8A-%E8%82%A5%E4%BF%82%E5%86%87%E7%BD%AA",
     "timestamp": "2026-08-09T15:50:30.051Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "周一上班注意　天文台料仍極端酷熱　下午市區36度、新界3區38度",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260809/1163187016720977920498053.jpeg/52_VIKu-IRcIfly0dmQ7yQ9vOjgV2yP5X9iCrF_Ygqw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60378327/%E5%91%A8%E4%B8%80%E4%B8%8A%E7%8F%AD%E6%B3%A8%E6%84%8F-%E5%A4%A9%E6%96%87%E5%8F%B0%E6%96%99%E4%BB%8D%E6%A5%B5%E7%AB%AF%E9%85%B7%E7%86%B1-%E4%B8%8B%E5%8D%88%E5%B8%82%E5%8D%8036%E5%BA%A6-%E6%96%B0%E7%95%8C3%E5%8D%8038%E5%BA%A6",
-    "timestamp": "2026-08-09T15:32:21.067Z",
     "strategy": ".content-card__main"
   }
 ];
