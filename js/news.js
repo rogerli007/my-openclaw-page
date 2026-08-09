@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-09T02:36:32.597Z
+// Last updated: 2026-08-09T03:24:48.626Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "林德信愛妻誕第二胎女兒　溫柔抱B女宣布：I’m a super girl dad!",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260809/1163078632898301952891463.jpeg/fypNspVMGxI4xFf9fs1m22o77YWKSJTVXy89DF8vPQw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60378201/%E6%9E%97%E5%BE%B7%E4%BF%A1%E6%84%9B%E5%A6%BB%E8%AA%95%E7%AC%AC%E4%BA%8C%E8%83%8E%E5%A5%B3%E5%85%92-%E6%BA%AB%E6%9F%94%E6%8A%B1b%E5%A5%B3%E5%AE%A3%E5%B8%83-i-m-a-super-girl-dad",
+    "timestamp": "2026-08-09T03:24:48.626Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "紐時：美國愛國者導彈庫存少於1700枚　或需超過2年時間補充",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260809/1162928846534610944359276.png/DEaz_9sNMd3xXOJupEo4aLpVALghvvLg9gSkj_YEpI8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60378164/%E4%B8%80%E7%9B%B4%E5%8D%87%E6%A9%9F%E5%9C%A8%E5%B7%B4%E8%A5%BF%E9%87%8C%E7%B4%84%E7%86%B1%E5%85%A7%E7%9B%A7%E5%A2%9C%E6%AF%80-%E9%80%A0%E6%88%90%E8%87%B3%E5%B0%914%E4%BA%BA%E6%AD%BB%E4%BA%A1-%E6%9C%89%E7%89%87",
     "timestamp": "2026-08-08T18:18:58.148Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "一直升機在巴西里約墜毀　造成至少4人死亡｜有片",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260809/1162928846534610944359276.png/DEaz_9sNMd3xXOJupEo4aLpVALghvvLg9gSkj_YEpI8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60378164/%E4%B8%80%E7%9B%B4%E5%8D%87%E6%A9%9F%E5%9C%A8%E5%B7%B4%E8%A5%BF%E9%87%8C%E7%B4%84%E5%A2%9C%E6%AF%80-%E9%80%A0%E6%88%90%E8%87%B3%E5%B0%914%E4%BA%BA%E6%AD%BB%E4%BA%A1-%E6%9C%89%E7%89%87",
-    "timestamp": "2026-08-08T17:49:40.650Z",
     "strategy": ".content-card__main"
   }
 ];
