@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-09T14:06:03.885Z
+// Last updated: 2026-08-09T14:32:14.150Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "前港姐向海嵐教零消費遊港惹負評　疑急變臉狂推平買名牌救形象？",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260809/1163151955669815296581276.jpeg/6YWGUyOUe95ri4xMYN42Gg2bhD4LJc4n0dbgp9HW4Kc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60378249/%E5%89%8D%E6%B8%AF%E5%A7%90%E5%90%91%E6%B5%B7%E5%B5%90%E6%95%99%E9%9B%B6%E6%B6%88%E8%B2%BB%E9%81%8A%E6%B8%AF%E6%83%B9%E8%B2%A0%E8%A9%95-%E7%96%91%E6%80%A5%E8%AE%8A%E8%87%89%E7%8B%82%E6%8E%A8%E5%B9%B3%E8%B2%B7%E5%90%8D%E7%89%8C%E6%95%91%E5%BD%A2%E8%B1%A1",
+    "timestamp": "2026-08-09T14:32:14.150Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "陳展鵬瀡滑梯自拍扮鬼臉展現風趣一面　網民指驚爆撞樣陳凱琳細佬",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260809/1163049980722679808297683.jpeg/dR96iNS7ldV6KG5gwP3dFR11ASoskkvxy9VhCO7VYQg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60378178/%E8%8D%83%E7%81%A3%E7%A6%8F%E4%BE%86%E9%82%A8%E7%94%B7%E5%AD%90%E5%A2%AE%E6%A8%93%E5%A3%93%E4%B8%AD%E6%A8%B9%E6%A4%8F%E5%8D%B8%E5%8A%9B-%E6%94%B9%E6%96%B9%E5%90%91%E8%B7%8C%E8%90%BD%E5%9E%83%E5%9C%BE%E6%88%BF%E9%A0%82-%E6%B8%85%E9%86%92%E9%80%81%E9%99%A2",
     "timestamp": "2026-08-09T01:38:34.073Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "車Cam｜黃大仙「小露寳」的士剷石壆彈起　飛甩車轆　片主：癡X線",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260809/1163041004450746368864093.jpeg/lDncJKMNfxO2oL0foYaP57DPheVRcsn0FAZpwxQGacM",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60378176/%E8%BB%8Acam-%E9%BB%83%E5%A4%A7%E4%BB%99-%E5%B0%8F%E9%9C%B2%E5%AF%B3-%E7%9A%84%E5%A3%AB%E5%89%B7%E7%9F%B3%E5%A3%86%E5%BD%88%E8%B5%B7-%E9%A3%9B%E7%94%A9%E8%BB%8A%E8%BD%86-%E7%89%87%E4%B8%BB-%E7%99%A1x%E7%B7%9A",
-    "timestamp": "2026-08-09T00:55:56.688Z",
     "strategy": ".content-card__main"
   }
 ];
