@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-09T12:19:38.084Z
+// Last updated: 2026-08-09T13:13:02.888Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "離奇車禍！男騎士遭電單車金屬斷管插屁股動不了　網民：感覺幻痛",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260808/1162819004755087360310624.png/jjaf1lneDFSyFVlh2aCiACqZUvwyOV4IbyhDIW8oQyE",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60378070/%E9%9B%A2%E5%A5%87%E8%BB%8A%E7%A6%8D-%E7%94%B7%E9%A8%8E%E5%A3%AB%E9%81%AD%E9%9B%BB%E5%96%AE%E8%BB%8A%E9%87%91%E5%B1%AC%E6%96%B7%E7%AE%A1%E6%8F%92%E5%B1%81%E8%82%A1%E5%8B%95%E4%B8%8D%E4%BA%86-%E7%B6%B2%E6%B0%91-%E6%84%9F%E8%A6%BA%E5%B9%BB%E7%97%9B",
+    "timestamp": "2026-08-09T13:13:02.888Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "中年4｜吳奕偉被指獲評判偏幫　　周志康︰希望大家唔好太苛刻",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260408/1118473661225897984134920.jpeg/6m29-hwibgWWAE5VB-wCkjCJ2_0FGF25L6vEZC-rxGQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60378174/%E7%8F%8D%E6%83%9C%E7%94%9F%E5%91%BD-%E8%B7%91%E9%A6%AC%E5%9C%B0%E6%AF%94%E8%8F%AF%E5%88%A9%E5%B1%B1%E4%B8%83%E6%97%AC%E9%9F%93%E7%B1%8D%E5%A5%B3%E5%AD%90%E5%A2%AE%E6%A8%93-%E7%95%B6%E5%A0%B4%E4%B8%8D%E6%B2%BB",
     "timestamp": "2026-08-09T00:30:34.571Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "恐怖工業意外●有片│男工人被卡切紙機　雙手遭整齊切斷　痛苦掙扎",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260806/1162111967725359104405869.jpeg/hwFe_ePUB1WC5bJEWjaX5pofIKqimnXgBOWeRgTlnkY",
-    "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E8%A9%B1%E9%A1%8C/60377606/%E6%81%90%E6%80%96%E5%B7%A5%E6%A5%AD%E6%84%8F%E5%A4%96-%E6%9C%89%E7%89%87-%E7%94%B7%E5%B7%A5%E4%BA%BA%E8%A2%AB%E5%8D%A1%E5%88%87%E7%B4%99%E6%A9%9F-%E9%9B%99%E6%89%8B%E9%81%AD%E6%95%B4%E9%BD%8A%E5%88%87%E6%96%B7-%E7%97%9B%E8%8B%A6%E6%8E%99%E6%89%8E",
-    "timestamp": "2026-08-08T23:51:22.174Z",
     "strategy": ".content-card__main"
   }
 ];
