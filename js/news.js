@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-09T16:32:15.536Z
+// Last updated: 2026-08-09T16:52:28.361Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "工作暑熱警告零紅色　林超英：勞工處錯用參數　指標太高淪陳列品",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260809/1163141487039877120086497.jpeg/VcfcSbVZ0ABxRZYdqKofBE66XOP8HONopn-3KIx_tyg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60378331/%E5%B7%A5%E4%BD%9C%E6%9A%91%E7%86%B1%E8%AD%A6%E5%91%8A%E9%9B%B6%E7%B4%85%E8%89%B2-%E6%9E%97%E8%B6%85%E8%8B%B1-%E5%8B%9E%E5%B7%A5%E8%99%95%E9%8C%AF%E7%94%A8%E5%8F%83%E6%95%B8-%E6%8C%87%E6%A8%99%E5%A4%AA%E9%AB%98%E6%B7%AA%E9%99%B3%E5%88%97%E5%93%81",
+    "timestamp": "2026-08-09T16:52:28.361Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "愛回家大結局｜周嘉洛細心扶劉丹上台　貼心禮讓同僚獲網民大讚",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260809/1163113157154050048952017.jpeg/xdmOZVi-Jgx6TRv9uVebZZIbwg-qRS-bZ-hCkELoQpA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60378227/%E6%96%B0%E7%9A%87%E5%B4%97%E5%8F%A3%E5%B2%B8-%E7%88%AD%E5%8F%96%E5%8D%81%E4%B8%80%E5%89%8D%E9%80%9A%E9%97%9C-%E6%9D%8E%E5%AE%B6%E8%B6%85-%E6%84%88%E6%97%A9%E6%84%88%E5%A5%BD-%E8%A6%81%E7%A2%BA%E4%BF%9D%E5%AE%89%E5%85%A8%E9%A0%86%E6%9A%A2",
     "timestamp": "2026-08-09T05:39:34.655Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "賽馬會首次派「香港隊」出戰騎師賽識價盃　僅負「英愛隊」奪亞軍",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260809/1163109466099421184324078.jpeg/9-mBKmY0ZvwJ3cjc9KFP1ULQ-zYxBckuJiiDMSYogzE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60378222/%E8%B3%BD%E9%A6%AC%E6%9C%83%E9%A6%96%E6%AC%A1%E6%B4%BE-%E9%A6%99%E6%B8%AF%E9%9A%8A-%E5%87%BA%E6%88%B0%E9%A8%8E%E5%B8%AB%E8%B3%BD%E8%AD%98%E5%83%B9%E7%9B%83-%E5%83%85%E8%B2%A0-%E8%8B%B1%E6%84%9B%E9%9A%8A-%E5%A5%AA%E4%BA%9E%E8%BB%8D",
-    "timestamp": "2026-08-09T05:21:32.391Z",
     "strategy": ".content-card__main"
   }
 ];
