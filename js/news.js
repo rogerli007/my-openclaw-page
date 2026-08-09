@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-09T05:21:32.391Z
+// Last updated: 2026-08-09T05:39:34.655Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "新皇崗口岸｜爭取十一前通關？李家超：愈早愈好　要確保安全順暢",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260809/1163113157154050048952017.jpeg/xdmOZVi-Jgx6TRv9uVebZZIbwg-qRS-bZ-hCkELoQpA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60378227/%E6%96%B0%E7%9A%87%E5%B4%97%E5%8F%A3%E5%B2%B8-%E7%88%AD%E5%8F%96%E5%8D%81%E4%B8%80%E5%89%8D%E9%80%9A%E9%97%9C-%E6%9D%8E%E5%AE%B6%E8%B6%85-%E6%84%88%E6%97%A9%E6%84%88%E5%A5%BD-%E8%A6%81%E7%A2%BA%E4%BF%9D%E5%AE%89%E5%85%A8%E9%A0%86%E6%9A%A2",
+    "timestamp": "2026-08-09T05:39:34.655Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "賽馬會首次派「香港隊」出戰騎師賽識價盃　僅負「英愛隊」奪亞軍",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260625/1146923429274849280107438.png/O9JcyUGVnRQ3iuKbfCrTRUekbgGhTs276-iTBevokwU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60378167/%E6%97%A5%E6%9C%AC%E5%B2%A9%E6%89%8B%E7%B8%A3%E8%BF%91%E6%B5%B7%E7%99%BC%E7%94%9F5-6%E7%B4%9A%E5%9C%B0%E9%9C%87-%E5%8C%97%E6%B5%B7%E9%81%93%E8%87%B3%E7%A6%8F%E5%B3%B6%E7%B8%A3%E5%BB%A3%E6%B3%9B%E5%9C%B0%E5%8D%80%E6%9C%89%E6%84%9F",
     "timestamp": "2026-08-08T20:01:28.632Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "秘魯一廂型車與貨車相撞　造成9死6傷",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260809/1162963007400054784948621.png/RLOSbVNUdrQjnNOQaevJ4eRPACN9GFHLFC1vwhQtb8I?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60378166/%E7%A7%98%E9%AD%AF%E4%B8%80%E5%BB%82%E5%9E%8B%E8%BB%8A%E8%88%87%E8%B2%A8%E8%BB%8A%E7%9B%B8%E6%92%9E-%E9%80%A0%E6%88%909%E6%AD%BB6%E5%82%B7",
-    "timestamp": "2026-08-08T19:48:04.311Z",
     "strategy": ".content-card__main"
   }
 ];
