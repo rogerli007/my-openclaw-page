@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-09T21:18:03.773Z
+// Last updated: 2026-08-09T22:15:40.339Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "特朗普身處高球場期間　F16戰機攔截違規闖入空域飛機",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260810/1163363754524545024930615.jpeg/vTUXFjtKu09PYDGt_RetJ50it37hc5WaZmBXCmZgVwo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60378345/%E7%89%B9%E6%9C%97%E6%99%AE%E8%BA%AB%E8%99%95%E9%AB%98%E7%90%83%E5%A0%B4%E6%9C%9F%E9%96%93-f16%E6%88%B0%E6%A9%9F%E6%94%94%E6%88%AA%E9%81%95%E8%A6%8F%E9%97%96%E5%85%A5%E7%A9%BA%E5%9F%9F%E9%A3%9B%E6%A9%9F",
+    "timestamp": "2026-08-09T22:15:40.339Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "有片｜元朗眼利司機見流浪貓即停車　女伴救貓心切　徒手捉離馬路",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260809/1163220906730852352781423.jpeg/bFPvTHydJdGkznO18kSmpt6GYJ4bMbU2z9g5oM_YOaA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60378302/%E6%AD%8C%E6%89%8Bteller%E8%87%AA%E6%8F%AD%E6%BB%BF%E6%84%8F%E8%BA%AB%E5%9E%8B%E9%A0%90%E5%91%8A%E6%83%B3%E5%87%BA%E5%AF%AB%E7%9C%9F-%E7%88%86%E5%A5%BD%E5%8F%8B%E8%8C%83%E5%8D%93%E8%B3%A2%E4%BD%9C%E6%AD%8C%E5%B0%8F%E7%BF%92%E6%85%A3",
     "timestamp": "2026-08-09T14:52:43.656Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "前港姐向海嵐教零消費遊港惹負評　疑急變臉狂推平買名牌救形象？",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260809/1163151955669815296581276.jpeg/6YWGUyOUe95ri4xMYN42Gg2bhD4LJc4n0dbgp9HW4Kc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60378249/%E5%89%8D%E6%B8%AF%E5%A7%90%E5%90%91%E6%B5%B7%E5%B5%90%E6%95%99%E9%9B%B6%E6%B6%88%E8%B2%BB%E9%81%8A%E6%B8%AF%E6%83%B9%E8%B2%A0%E8%A9%95-%E7%96%91%E6%80%A5%E8%AE%8A%E8%87%89%E7%8B%82%E6%8E%A8%E5%B9%B3%E8%B2%B7%E5%90%8D%E7%89%8C%E6%95%91%E5%BD%A2%E8%B1%A1",
-    "timestamp": "2026-08-09T14:32:14.150Z",
     "strategy": ".content-card__main"
   }
 ];
