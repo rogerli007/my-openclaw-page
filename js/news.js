@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-08T23:51:22.174Z
+// Last updated: 2026-08-09T00:30:34.571Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "珍惜生命｜跑馬地比華利山七旬韓籍女子墮樓　當場不治",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260408/1118473661225897984134920.jpeg/6m29-hwibgWWAE5VB-wCkjCJ2_0FGF25L6vEZC-rxGQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60378174/%E7%8F%8D%E6%83%9C%E7%94%9F%E5%91%BD-%E8%B7%91%E9%A6%AC%E5%9C%B0%E6%AF%94%E8%8F%AF%E5%88%A9%E5%B1%B1%E4%B8%83%E6%97%AC%E9%9F%93%E7%B1%8D%E5%A5%B3%E5%AD%90%E5%A2%AE%E6%A8%93-%E7%95%B6%E5%A0%B4%E4%B8%8D%E6%B2%BB",
+    "timestamp": "2026-08-09T00:30:34.571Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "恐怖工業意外●有片│男工人被卡切紙機　雙手遭整齊切斷　痛苦掙扎",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260806/1161969927549095936438596.jpeg/9iQQNt4jS37V1npw3i2MbMJSq6rTGD61ZSyjtGUso7Q?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60378161/%E6%97%A5%E6%9C%AC2027%E5%9C%8B%E9%98%B2%E9%A0%90%E7%AE%97%E6%9B%9D%E5%85%89-%E6%88%96%E9%81%9410%E8%90%AC%E5%84%84%E5%89%B5%E6%AD%B7%E5%8F%B2%E6%96%B0%E9%AB%98",
     "timestamp": "2026-08-08T16:31:42.654Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "酷熱天氣下西貢廈門灣逼爆人潮　內地旅客震驚︰誰來誰是小蠢蛋！",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260808/1162907201237422080758031.jpeg/byjpwVOXj0gK6F_gaBZ5jRSCH8CqFB8Vq4_el6uP3pc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60378160/%E9%85%B7%E7%86%B1%E5%A4%A9%E6%B0%A3%E4%B8%8B%E8%A5%BF%E8%B2%A2%E5%BB%88%E9%96%80%E7%81%A3%E9%80%BC%E7%88%86%E4%BA%BA%E6%BD%AE-%E5%85%A7%E5%9C%B0%E6%97%85%E5%AE%A2%E9%9C%87%E9%A9%9A-%E8%AA%B0%E4%BE%86%E8%AA%B0%E6%98%AF%E5%B0%8F%E8%A0%A2%E8%9B%8B",
-    "timestamp": "2026-08-08T16:14:49.114Z",
     "strategy": ".content-card__main"
   }
 ];
