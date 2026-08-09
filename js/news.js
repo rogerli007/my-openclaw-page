@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-09T00:30:34.571Z
+// Last updated: 2026-08-09T00:55:56.688Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "車Cam｜黃大仙「小露寳」的士剷石壆彈起　飛甩車轆　片主：癡X線",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260809/1163041004450746368864093.jpeg/lDncJKMNfxO2oL0foYaP57DPheVRcsn0FAZpwxQGacM",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60378176/%E8%BB%8Acam-%E9%BB%83%E5%A4%A7%E4%BB%99-%E5%B0%8F%E9%9C%B2%E5%AF%B3-%E7%9A%84%E5%A3%AB%E5%89%B7%E7%9F%B3%E5%A3%86%E5%BD%88%E8%B5%B7-%E9%A3%9B%E7%94%A9%E8%BB%8A%E8%BD%86-%E7%89%87%E4%B8%BB-%E7%99%A1x%E7%B7%9A",
+    "timestamp": "2026-08-09T00:55:56.688Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "珍惜生命｜跑馬地比華利山七旬韓籍女子墮樓　當場不治",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260806/1161969927549095936438596.jpeg/9iQQNt4jS37V1npw3i2MbMJSq6rTGD61ZSyjtGUso7Q?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60378161/%E6%97%A5%E6%9C%AC2027%E5%9C%8B%E9%98%B2%E9%A0%90%E7%AE%97%E6%9B%9D%E5%85%89-%E6%88%96%E9%81%9410%E8%90%AC%E5%84%84%E5%89%B5%E6%AD%B7%E5%8F%B2%E6%96%B0%E9%AB%98",
     "timestamp": "2026-08-08T16:51:17.534Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "日本2027國防預算曝光　或達10萬億創歷史新高",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260806/1161969927549095936438596.jpeg/9iQQNt4jS37V1npw3i2MbMJSq6rTGD61ZSyjtGUso7Q?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60378161/%E6%97%A5%E6%9C%AC2027%E5%9C%8B%E9%98%B2%E9%A0%90%E7%AE%97%E6%9B%9D%E5%85%89-%E6%88%96%E9%81%9410%E8%90%AC%E5%84%84%E5%89%B5%E6%AD%B7%E5%8F%B2%E6%96%B0%E9%AB%98",
-    "timestamp": "2026-08-08T16:31:42.654Z",
     "strategy": ".content-card__main"
   }
 ];
