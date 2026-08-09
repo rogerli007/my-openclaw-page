@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-09T17:16:41.368Z
+// Last updated: 2026-08-09T17:36:24.661Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "韓國足總性招待球證醜聞　重燃2002世界盃是否收買球證熱論",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260809/1163256107695607808129064.jpeg/76vNihjjnK6lyRdgGbxw8iv-Vuc1WAjZ0d8oc9HfKHM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60378326/%E9%9F%93%E5%9C%8B%E8%B6%B3%E7%B8%BD%E6%80%A7%E6%8B%9B%E5%BE%85%E7%90%83%E8%AD%89%E9%86%9C%E8%81%9E-%E9%87%8D%E7%87%832002%E4%B8%96%E7%95%8C%E7%9B%83%E6%98%AF%E5%90%A6%E6%94%B6%E8%B2%B7%E7%90%83%E8%AD%89%E7%86%B1%E8%AB%96",
+    "timestamp": "2026-08-09T17:36:24.661Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "工作暑熱警告零紅色　林超英：勞工處錯用參數　指標太高淪陳列品",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260809/1163129868976656384240169.png/d3rTuyaNA-lHI_93DHwLwYPR0t71_r8ElDx-x5Q8fsc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60378232/%E6%BE%B3%E6%B4%B2%E6%82%89%E5%B0%BC%E6%A9%9F%E5%A0%B4%E5%85%A9%E5%AE%A2%E6%A9%9F%E9%9A%AA%E7%9B%B8%E6%92%9E-%E6%8D%B7%E6%98%9F%E8%88%AA%E7%A9%BA%E9%A3%9B%E6%A9%9F%E6%80%A5%E7%85%9E%E6%8E%A31%E6%A9%9F%E7%B5%84%E4%BA%BA%E5%93%A1%E5%8F%97%E5%82%B7",
     "timestamp": "2026-08-09T07:00:12.642Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "全球車企銷量排行｜中國獨佔三家　比亞迪回升第六　本田跌出前十",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260716/1154436251219136512341862.jpeg/bWSmJ-XD6yq1V8YhfUdYy4U3fizsEhEojCfJfYwnyX0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60378204/%E5%85%A8%E7%90%83%E8%BB%8A%E4%BC%81%E9%8A%B7%E9%87%8F%E6%8E%92%E8%A1%8C-%E4%B8%AD%E5%9C%8B%E7%8D%A8%E4%BD%94%E4%B8%89%E5%AE%B6-%E6%AF%94%E4%BA%9E%E8%BF%AA%E5%9B%9E%E5%8D%87%E7%AC%AC%E5%85%AD-%E6%9C%AC%E7%94%B0%E8%B7%8C%E5%87%BA%E5%89%8D%E5%8D%81",
-    "timestamp": "2026-08-09T06:34:49.194Z",
     "strategy": ".content-card__main"
   }
 ];
