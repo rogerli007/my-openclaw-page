@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-10T18:55:00.270Z
+// Last updated: 2026-08-10T19:30:20.540Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "外媒：貝索斯等富豪組財團　擬收購利物浦1/3股權　協議即將達成",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260811/1163681109523828736428197.jpeg/E_skO2v_BWLIQu475WmxqF_MsrcJ2yJLwSGY88EhmPM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60378706/%E5%A4%96%E5%AA%92-%E8%B2%9D%E7%B4%A2%E6%96%AF%E7%AD%89%E5%AF%8C%E8%B1%AA%E7%B5%84%E8%B2%A1%E5%9C%98-%E6%93%AC%E6%94%B6%E8%B3%BC%E5%88%A9%E7%89%A9%E6%B5%A61-3%E8%82%A1%E6%AC%8A-%E5%8D%94%E8%AD%B0%E5%8D%B3%E5%B0%87%E9%81%94%E6%88%90",
+    "timestamp": "2026-08-10T19:30:20.540Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "哥倫比亞西部7.4級地震　多地有建築物倒塌　至少82人死亡",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260810/1163491441394061312781059.png/Q-_-sDbpRxydOLRETniXbnJZubYC2ULIkJXR8pCV0fI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60378467/%E8%A5%BF%E5%8C%97%E5%A4%AA%E5%B9%B3%E6%B4%8B%E5%9B%9B%E6%97%8B%E5%85%B1%E8%88%9E-%E7%99%BD%E6%B5%B7%E8%B1%9A%E7%B7%A0%E7%89%B9%E5%A4%A7%E6%9A%B4%E9%9B%A8-%E5%A4%A9%E6%96%87%E5%8F%B0%E6%96%99%E7%87%A6%E9%B4%BB%E9%80%BC%E6%97%A5%E6%9C%AC%E9%97%9C%E6%9D%B1",
     "timestamp": "2026-08-10T06:41:09.414Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "碧瑤灣斬人｜警到被捕人住所調查　發現有貓隻頭受傷　交愛協治理",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260810/1163453835792879616509423.jpeg/Ot5WjN4-eOqG08NTQi6apfN4vdZi_EQRh9D-JIfQ_iQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60378390/%E7%A2%A7%E7%91%A4%E7%81%A3%E6%96%AC%E4%BA%BA-%E8%AD%A6%E5%88%B0%E8%A2%AB%E6%8D%95%E4%BA%BA%E4%BD%8F%E6%89%80%E8%AA%BF%E6%9F%A5-%E7%99%BC%E7%8F%BE%E6%9C%89%E8%B2%93%E9%9A%BB%E9%A0%AD%E5%8F%97%E5%82%B7-%E4%BA%A4%E6%84%9B%E5%8D%94%E6%B2%BB%E7%90%86",
-    "timestamp": "2026-08-10T04:22:57.832Z",
     "strategy": ".content-card__main"
   }
 ];
