@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-10T20:52:03.004Z
+// Last updated: 2026-08-10T21:23:49.316Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "特朗普反要求伊朗賠償　稱將納入未來談判",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260811/1163711830166605824241309.jpeg/W8CiNusm_bxe5mRtK6KFFaguAGT3bTkc41Ilx-NSJcc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60378709/%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%8D%E8%A6%81%E6%B1%82%E4%BC%8A%E6%9C%97%E8%B3%A0%E5%84%9F-%E7%A8%B1%E5%B0%87%E7%B4%8D%E5%85%A5%E6%9C%AA%E4%BE%86%E8%AB%87%E5%88%A4",
+    "timestamp": "2026-08-10T21:23:49.316Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "油麻地瑪莎拉蒂爆呔停路邊　司機遭調查棄車逃走　警員車上檢毒品",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260810/1163560005392273408762930.jpeg/ByjfXILxpJIq7ogQTughXokKXrUcIRAH8r7BhfK-wYU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60378637/%E7%B0%A1%E6%A8%B8%E6%88%BF-%E4%BD%95%E6%B0%B8%E8%B3%A2-%E6%96%998%E8%90%AC%E5%88%86%E9%96%93%E5%96%AE%E4%BD%8D%E5%8F%AA%E9%9C%80%E5%B0%8F%E8%A6%8F%E6%A8%A1%E6%94%B9%E5%8B%95-%E9%80%BE%E5%9B%9B%E6%88%90%E5%B7%B2%E7%94%B3%E8%AB%8B",
     "timestamp": "2026-08-10T11:17:02.022Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "白海豚襲華東　上海水浸成澤國　迪士尼人偶颱風天照常出街｜有片",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260810/1163543548834877440251364.png/nj4QkhZbv9SdaKfWH6RFqgkTj7WEQuXCOj_obDo_6Gw?v=w1920",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60378588/%E7%99%BD%E6%B5%B7%E8%B1%9A%E8%A5%B2%E8%8F%AF%E6%9D%B1-%E4%B8%8A%E6%B5%B7%E6%B0%B4%E6%B5%B8%E6%88%90%E6%BE%A4%E5%9C%8B-%E8%BF%AA%E5%A3%AB%E5%B0%BC%E4%BA%BA%E5%81%B6%E9%A2%B1%E9%A2%A8%E5%A4%A9%E7%85%A7%E5%B8%B8%E5%87%BA%E8%A1%97-%E6%9C%89%E7%89%87",
-    "timestamp": "2026-08-10T10:36:08.357Z",
     "strategy": ".content-card__main"
   }
 ];
