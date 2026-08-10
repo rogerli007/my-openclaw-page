@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-10T10:36:08.357Z
+// Last updated: 2026-08-10T11:17:02.022Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "簡樸房｜何永賢：料8萬分間單位只需小規模改動　逾四成已申請",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260810/1163560005392273408762930.jpeg/ByjfXILxpJIq7ogQTughXokKXrUcIRAH8r7BhfK-wYU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60378637/%E7%B0%A1%E6%A8%B8%E6%88%BF-%E4%BD%95%E6%B0%B8%E8%B3%A2-%E6%96%998%E8%90%AC%E5%88%86%E9%96%93%E5%96%AE%E4%BD%8D%E5%8F%AA%E9%9C%80%E5%B0%8F%E8%A6%8F%E6%A8%A1%E6%94%B9%E5%8B%95-%E9%80%BE%E5%9B%9B%E6%88%90%E5%B7%B2%E7%94%B3%E8%AB%8B",
+    "timestamp": "2026-08-10T11:17:02.022Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "白海豚襲華東　上海水浸成澤國　迪士尼人偶颱風天照常出街｜有片",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260810/1163334427384745984291874.jpeg/rPG0kZEbyXIFMbZXmdmxWEIDuT_ASiEmS-1cwEvtXMA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60378343/nba%E5%90%8D%E4%BA%BA%E5%A0%82%E5%82%B3%E5%A5%87%E6%95%99%E7%B7%B4don-nelson%E9%9B%A2%E4%B8%96-%E7%B5%82%E5%B9%B489%E6%AD%B2",
     "timestamp": "2026-08-09T20:18:03.473Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "伊朗議會委員會通過霍爾木茲海峽安全綱要",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260701/1149138545823191040072135.jpeg/RbVxSPTxqVk9CMVEhacyzFkflxfaCCijQCvz90Ar8_c?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60378341/%E4%BC%8A%E6%9C%97%E8%AD%B0%E6%9C%83%E5%A7%94%E5%93%A1%E6%9C%83%E9%80%9A%E9%81%8E%E9%9C%8D%E7%88%BE%E6%9C%A8%E8%8C%B2%E6%B5%B7%E5%B3%BD%E5%AE%89%E5%85%A8%E7%B6%B1%E8%A6%81",
-    "timestamp": "2026-08-09T20:04:08.704Z",
     "strategy": ".content-card__main"
   }
 ];
