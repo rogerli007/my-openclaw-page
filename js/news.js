@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-10T08:43:49.793Z
+// Last updated: 2026-08-10T09:16:13.853Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "記憶體、SSD=黃金 | AI熱潮下的受害者：DIY神話破滅！玩家哀歎!",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260810/1163505326918471680980134.jpeg/veBrM23MQvk8svoIABonJzMPQhU-mZyzuQ-UULkPlFA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60378498/2026%E7%B5%84%E8%A3%9D%E9%9B%BB%E8%85%A6%E5%83%B9%E6%A0%BC%E9%A3%86%E5%8D%87-%E8%A8%98%E6%86%B6%E9%AB%94%E6%9A%B4%E6%BC%B26%E5%80%8D-%E6%95%A3%E4%BB%B6%E8%B2%B4%E9%81%8E%E6%95%B4%E6%A9%9Fdiy%E7%A5%9E%E8%A9%B1%E7%A0%B4%E6%BB%85",
+    "timestamp": "2026-08-10T09:16:13.853Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "日本東北新幹線現「怪客」　鴿子坐「霸王車」遭趕走｜有片",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260701/1149138545823191040072135.jpeg/RbVxSPTxqVk9CMVEhacyzFkflxfaCCijQCvz90Ar8_c?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60378341/%E4%BC%8A%E6%9C%97%E8%AD%B0%E6%9C%83%E5%A7%94%E5%93%A1%E6%9C%83%E9%80%9A%E9%81%8E%E9%9C%8D%E7%88%BE%E6%9C%A8%E8%8C%B2%E6%B5%B7%E5%B3%BD%E5%AE%89%E5%85%A8%E7%B6%B1%E8%A6%81",
     "timestamp": "2026-08-09T19:48:31.779Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "韓國足總性招待球證醜聞　重燃2002世界盃是否收買球證熱論",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260809/1163256107695607808129064.jpeg/76vNihjjnK6lyRdgGbxw8iv-Vuc1WAjZ0d8oc9HfKHM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60378326/%E9%9F%93%E5%9C%8B%E8%B6%B3%E7%B8%BD%E6%80%A7%E6%8B%9B%E5%BE%85%E7%90%83%E8%AD%89%E9%86%9C%E8%81%9E-%E9%87%8D%E7%87%832002%E4%B8%96%E7%95%8C%E7%9B%83%E6%98%AF%E5%90%A6%E6%94%B6%E8%B2%B7%E7%90%83%E8%AD%89%E7%86%B1%E8%AB%96",
-    "timestamp": "2026-08-09T19:19:42.529Z",
     "strategy": ".content-card__main"
   }
 ];
