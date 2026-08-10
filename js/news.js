@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-10T20:20:37.025Z
+// Last updated: 2026-08-10T20:52:03.004Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "油麻地瑪莎拉蒂爆呔停路邊　司機遭調查棄車逃走　警員車上檢毒品",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260811/1163691304954105856612430.jpeg/TpUTFeUEs1Z7u0txk-rN1cfZXFdbV6fM45onJ-OaJyc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60378708/%E6%B2%B9%E9%BA%BB%E5%9C%B0%E7%91%AA%E8%8E%8E%E6%8B%89%E8%92%82%E7%88%86%E5%91%94%E5%81%9C%E8%B7%AF%E9%82%8A-%E5%8F%B8%E6%A9%9F%E9%81%AD%E8%AA%BF%E6%9F%A5%E6%A3%84%E8%BB%8A%E9%80%83%E8%B5%B0-%E8%AD%A6%E5%93%A1%E8%BB%8A%E4%B8%8A%E6%AA%A2%E6%AF%92%E5%93%81",
+    "timestamp": "2026-08-10T20:52:03.004Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "油麻地瑪莎拉蒂爆呔停路邊　司機遭調查棄車逃走　警員車上檢毒品",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260810/1163543548834877440251364.png/nj4QkhZbv9SdaKfWH6RFqgkTj7WEQuXCOj_obDo_6Gw?v=w1920",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60378588/%E7%99%BD%E6%B5%B7%E8%B1%9A%E8%A5%B2%E8%8F%AF%E6%9D%B1-%E4%B8%8A%E6%B5%B7%E6%B0%B4%E6%B5%B8%E6%88%90%E6%BE%A4%E5%9C%8B-%E8%BF%AA%E5%A3%AB%E5%B0%BC%E4%BA%BA%E5%81%B6%E9%A2%B1%E9%A2%A8%E5%A4%A9%E7%85%A7%E5%B8%B8%E5%87%BA%E8%A1%97-%E6%9C%89%E7%89%87",
     "timestamp": "2026-08-10T10:36:08.357Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "記憶體、SSD=黃金 | AI熱潮下的受害者：DIY神話破滅！玩家哀歎!",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260810/1163505326918471680980134.jpeg/veBrM23MQvk8svoIABonJzMPQhU-mZyzuQ-UULkPlFA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60378498/2026%E7%B5%84%E8%A3%9D%E9%9B%BB%E8%85%A6%E5%83%B9%E6%A0%BC%E9%A3%86%E5%8D%87-%E8%A8%98%E6%86%B6%E9%AB%94%E6%9A%B4%E6%BC%B26%E5%80%8D-%E6%95%A3%E4%BB%B6%E8%B2%B4%E9%81%8E%E6%95%B4%E6%A9%9Fdiy%E7%A5%9E%E8%A9%B1%E7%A0%B4%E6%BB%85",
-    "timestamp": "2026-08-10T09:16:13.853Z",
     "strategy": ".content-card__main"
   }
 ];
