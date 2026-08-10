@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-10T18:25:36.843Z
+// Last updated: 2026-08-10T18:55:00.270Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "哥倫比亞西部7.4級地震　多地有建築物倒塌　至少82人死亡",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260811/1163672824934567936359720.jpeg/RRmUMS6lHVmY57l4PwtHIK_VS9qN03Nw48fVoePH1aE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60378699/%E5%93%A5%E5%80%AB%E6%AF%94%E4%BA%9E%E8%A5%BF%E9%83%A87-4%E7%B4%9A%E5%9C%B0%E9%9C%87-%E5%A4%9A%E5%9C%B0%E6%9C%89%E5%BB%BA%E7%AF%89%E7%89%A9%E5%80%92%E5%A1%8C-%E8%87%B3%E5%B0%9182%E4%BA%BA%E6%AD%BB%E4%BA%A1",
+    "timestamp": "2026-08-10T18:55:00.270Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "全國生態日｜多項活動及優惠　濕地公園免費開放　綠在區區雙倍分",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260810/1163453835792879616509423.jpeg/Ot5WjN4-eOqG08NTQi6apfN4vdZi_EQRh9D-JIfQ_iQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60378390/%E7%A2%A7%E7%91%A4%E7%81%A3%E6%96%AC%E4%BA%BA-%E8%AD%A6%E5%88%B0%E8%A2%AB%E6%8D%95%E4%BA%BA%E4%BD%8F%E6%89%80%E8%AA%BF%E6%9F%A5-%E7%99%BC%E7%8F%BE%E6%9C%89%E8%B2%93%E9%9A%BB%E9%A0%AD%E5%8F%97%E5%82%B7-%E4%BA%A4%E6%84%9B%E5%8D%94%E6%B2%BB%E7%90%86",
     "timestamp": "2026-08-10T04:22:57.832Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "LTTT × ASICS再度攜手 以搶眼配色推出聯名鞋款/帽/長褲/毛巾系列",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260806/1162039428273672192389150.jpeg/M5Ugpt3qdq8Owl2SNW7utCZnwT3RFY_5e3JD2XtyQ9k?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E4%B8%80%E7%89%A9/60377178/lttt-asics%E5%86%8D%E5%BA%A6%E6%94%9C%E6%89%8B-%E4%BB%A5%E6%90%B6%E7%9C%BC%E9%85%8D%E8%89%B2%E6%8E%A8%E5%87%BA%E8%81%AF%E5%90%8D%E9%9E%8B%E6%AC%BE-%E5%B8%BD-%E9%95%B7%E8%A4%B2-%E6%AF%9B%E5%B7%BE%E7%B3%BB%E5%88%97",
-    "timestamp": "2026-08-10T03:43:16.711Z",
     "strategy": ".content-card__main"
   }
 ];
