@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-10T14:33:54.749Z
+// Last updated: 2026-08-10T15:29:28.892Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美股｜道指早段偏軟　油價最新約升3%",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20230711/755576772082274304278540.jpeg/ypuM9dZizWRsjNQzGHwP_OpBc-rbZN5qMdiVBDHYlQQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60378686/%E7%BE%8E%E8%82%A1-%E9%81%93%E6%8C%87%E6%97%A9%E6%AE%B5%E5%81%8F%E8%BB%9F-%E6%B2%B9%E5%83%B9%E6%9C%80%E6%96%B0%E7%B4%84%E5%8D%873",
+    "timestamp": "2026-08-10T15:29:28.892Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "警荃灣店舖檢4400隻鹹碟值$9萬　66歲男涉管有及發布淫褻物品被捕",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260810/1163363882144632832912354.jpeg/PVDI1BeTJkmQYk44FzzLibAwwP3ebXxex3MtzcdzLc0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60378339/%E7%89%B9%E6%9C%97%E6%99%AE%E7%A8%B1%E4%BD%8E%E8%AA%BF%E6%87%89%E5%B0%8D%E4%BC%8A%E6%9C%97%E5%95%8F%E9%A1%8C-%E6%9A%97%E7%A4%BA%E5%8A%A0%E5%A4%A7%E7%B6%93%E6%BF%9F%E6%96%BD%E5%A3%93%E8%80%8C%E9%9D%9E%E8%BB%8D%E4%BA%8B%E6%89%93%E6%93%8A",
     "timestamp": "2026-08-09T23:48:50.922Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "老虎殺人！泰國近30年首宗　巡邏員遭猛虎叼走　伏屍200米外溪澗",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260809/1163203233993199616260897.png/Holn0e_1zlEn_YGIfdv5v-PWNJ0jeXKbIlCgCiJQoAo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E8%A9%B1%E9%A1%8C/60378229/%E8%80%81%E8%99%8E%E6%AE%BA%E4%BA%BA-%E6%B3%B0%E5%9C%8B%E8%BF%9130%E5%B9%B4%E9%A6%96%E5%AE%97-%E5%B7%A1%E9%82%8F%E5%93%A1%E9%81%AD%E7%8C%9B%E8%99%8E%E5%8F%BC%E8%B5%B0-%E4%BC%8F%E5%B1%8D200%E7%B1%B3%E5%A4%96%E6%BA%AA%E6%BE%97",
-    "timestamp": "2026-08-09T23:31:01.471Z",
     "strategy": ".content-card__main"
   }
 ];
