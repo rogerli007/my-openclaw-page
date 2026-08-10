@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-10T17:53:17.822Z
+// Last updated: 2026-08-10T18:25:36.843Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "全國生態日｜多項活動及優惠　濕地公園免費開放　綠在區區雙倍分",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20230815/768164082846011392714620.jpeg/3PYFqmWnOPFhgkOY6rjJ34CD3sqtsnh2aKI8n2iiPJ8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60378697/%E5%85%A8%E5%9C%8B%E7%94%9F%E6%85%8B%E6%97%A5-%E5%A4%9A%E9%A0%85%E6%B4%BB%E5%8B%95%E5%8F%8A%E5%84%AA%E6%83%A0-%E6%BF%95%E5%9C%B0%E5%85%AC%E5%9C%92%E5%85%8D%E8%B2%BB%E9%96%8B%E6%94%BE-%E7%B6%A0%E5%9C%A8%E5%8D%80%E5%8D%80%E9%9B%99%E5%80%8D%E5%88%86",
+    "timestamp": "2026-08-10T18:25:36.843Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "吳若希做《三代同糖》女主角不擔心被指「搶飯碗」：時代會變遷",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260806/1162039428273672192389150.jpeg/M5Ugpt3qdq8Owl2SNW7utCZnwT3RFY_5e3JD2XtyQ9k?v=w1920r16_9",
     "url": "https://www.hk01.com/%E4%B8%80%E7%89%A9/60377178/lttt-asics%E5%86%8D%E5%BA%A6%E6%94%9C%E6%89%8B-%E4%BB%A5%E6%90%B6%E7%9C%BC%E9%85%8D%E8%89%B2%E6%8E%A8%E5%87%BA%E8%81%AF%E5%90%8D%E9%9E%8B%E6%AC%BE-%E5%B8%BD-%E9%95%B7%E8%A4%B2-%E6%AF%9B%E5%B7%BE%E7%B3%BB%E5%88%97",
     "timestamp": "2026-08-10T03:43:16.711Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "碧瑤灣斬人．有片｜赤膊男持刀攻擊　多人走避　保安跌倒蹬腿防衛",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260810/1163435922880991232512380.png/SzlxCB-duyiVPPaUvaPKLhSFSf9Hd9WfesHo7HrB6Ow",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60378383/%E7%A2%A7%E7%91%A4%E7%81%A3%E6%96%AC%E4%BA%BA-%E6%9C%89%E7%89%87-%E8%B5%A4%E8%86%8A%E7%94%B7%E6%8C%81%E5%88%80%E6%94%BB%E6%93%8A-%E5%A4%9A%E4%BA%BA%E8%B5%B0%E9%81%BF-%E4%BF%9D%E5%AE%89%E8%B7%8C%E5%80%92%E8%B9%AC%E8%85%BF%E9%98%B2%E8%A1%9B",
-    "timestamp": "2026-08-10T03:01:10.398Z",
     "strategy": ".content-card__main"
   }
 ];
