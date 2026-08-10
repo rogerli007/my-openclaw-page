@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-10T22:20:02.304Z
+// Last updated: 2026-08-10T22:53:53.123Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "《富貴逼人》「招弟」關珮琳近照　任跨國公司HR高層撐本地舞台劇",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260810/1163563160041426944418309.jpeg/wZpkvNrz0xbDMFKZF0MkCxP15h9npDA6v_stzr_7Lc4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60378633/%E5%AF%8C%E8%B2%B4%E9%80%BC%E4%BA%BA-%E6%8B%9B%E5%BC%9F-%E9%97%9C%E7%8F%AE%E7%90%B3%E8%BF%91%E7%85%A7-%E4%BB%BB%E8%B7%A8%E5%9C%8B%E5%85%AC%E5%8F%B8hr%E9%AB%98%E5%B1%A4%E6%92%90%E6%9C%AC%E5%9C%B0%E8%88%9E%E5%8F%B0%E5%8A%87",
+    "timestamp": "2026-08-10T22:53:53.123Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "極端酷熱｜今日部份地區料37度或以上　未來兩日仍達34度",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260810/1163537718941061120849102.jpeg/sPPAWNMab22YYtnuQj0x-bKWs2vDrrEXFIafyRSGn8k?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60378598/%E6%B7%B1%E5%9C%B3%E5%A5%B3%E6%90%AC%E5%B1%8B%E9%81%AD%E5%9D%90%E5%9C%B0%E8%B5%B7%E5%83%B9-%E5%A0%B1%E5%83%B9570%E5%85%83-%E5%88%B0%E6%A8%93%E4%B8%8B%E8%AE%8A5060%E5%85%83%E6%89%8D%E8%82%AF%E6%90%AC%E4%B8%8A%E6%A8%93",
     "timestamp": "2026-08-10T12:37:23.338Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "赤柱馬坑邨貓B困去水渠　警員消防趴地尋找　終被食物引出獲救",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260810/1163571910945017856471235.jpeg/Q9xRJP2jY5o68BvPTTwyaO_IEM3JDz8Vhsz2cobM9nI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60378644/%E8%B5%A4%E6%9F%B1%E9%A6%AC%E5%9D%91%E9%82%A8%E8%B2%93b%E5%9B%B0%E5%8E%BB%E6%B0%B4%E6%B8%A0-%E8%AD%A6%E5%93%A1%E6%B6%88%E9%98%B2%E8%B6%B4%E5%9C%B0%E5%B0%8B%E6%89%BE-%E7%B5%82%E8%A2%AB%E9%A3%9F%E7%89%A9%E5%BC%95%E5%87%BA%E7%8D%B2%E6%95%91",
-    "timestamp": "2026-08-10T12:05:59.387Z",
     "strategy": ".content-card__main"
   }
 ];
