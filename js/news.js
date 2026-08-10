@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-10T13:15:40.390Z
+// Last updated: 2026-08-10T13:51:10.930Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "謝賢低調上位遺照戴招牌黑超　骨灰安放寶福山與張國榮肥姐為鄰",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260810/1163600243904745472831625.png/vrILXxG8k4r6uTcvdDLckCurS0LwoPcfv2YvB79mLwc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60378671/%E8%AC%9D%E8%B3%A2%E4%BD%8E%E8%AA%BF%E4%B8%8A%E4%BD%8D%E9%81%BA%E7%85%A7%E6%88%B4%E6%8B%9B%E7%89%8C%E9%BB%91%E8%B6%85-%E9%AA%A8%E7%81%B0%E5%AE%89%E6%94%BE%E5%AF%B6%E7%A6%8F%E5%B1%B1%E8%88%87%E5%BC%B5%E5%9C%8B%E6%A6%AE%E8%82%A5%E5%A7%90%E7%82%BA%E9%84%B0",
+    "timestamp": "2026-08-10T13:51:10.930Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "TVB謀食AI大茶飯　夥拍基金拓相關算力服務　選址將軍澳工業邨",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260810/1163368263418122240518097.jpeg/xWw0uE62L6H4DXVmmIEELPxb9IbQTTthDxMg-A8TIPg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60378333/%E6%A5%B5%E7%AB%AF%E9%85%B7%E7%86%B1-%E5%A4%A9%E6%96%87%E5%8F%B0-%E4%BB%8A%E6%98%8E%E9%83%A8%E4%BB%BD%E5%9C%B0%E5%8D%80%E9%81%9437%E5%BA%A6%E6%88%96%E4%BB%A5%E4%B8%8A-%E7%B1%B2%E5%81%9A%E8%B6%B3%E9%98%B2%E6%9A%91%E6%8E%AA%E6%96%BD",
     "timestamp": "2026-08-09T22:32:43.641Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普身處高球場期間　F16戰機攔截違規闖入空域飛機",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260810/1163363754524545024930615.jpeg/vTUXFjtKu09PYDGt_RetJ50it37hc5WaZmBXCmZgVwo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60378345/%E7%89%B9%E6%9C%97%E6%99%AE%E8%BA%AB%E8%99%95%E9%AB%98%E7%90%83%E5%A0%B4%E6%9C%9F%E9%96%93-f16%E6%88%B0%E6%A9%9F%E6%94%94%E6%88%AA%E9%81%95%E8%A6%8F%E9%97%96%E5%85%A5%E7%A9%BA%E5%9F%9F%E9%A3%9B%E6%A9%9F",
-    "timestamp": "2026-08-09T22:15:40.339Z",
     "strategy": ".content-card__main"
   }
 ];
