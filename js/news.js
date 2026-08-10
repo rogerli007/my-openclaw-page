@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-10T21:52:23.252Z
+// Last updated: 2026-08-10T22:20:02.304Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "極端酷熱｜今日部份地區料37度或以上　未來兩日仍達34度",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260811/1163728998253989888635974.jpeg/HMz2flpD4JWo9OtMuSoLUVbUPS0SQK_e-HUC1Ph1AtQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60378691/%E6%A5%B5%E7%AB%AF%E9%85%B7%E7%86%B1-%E4%BB%8A%E6%97%A5%E9%83%A8%E4%BB%BD%E5%9C%B0%E5%8D%80%E6%96%9937%E5%BA%A6%E6%88%96%E4%BB%A5%E4%B8%8A-%E6%9C%AA%E4%BE%86%E5%85%A9%E6%97%A5%E4%BB%8D%E9%81%9434%E5%BA%A6",
+    "timestamp": "2026-08-10T22:20:02.304Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美國務院稱去年初以來　已吊銷逾17.5萬份外國人簽證",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260810/1163571910945017856471235.jpeg/Q9xRJP2jY5o68BvPTTwyaO_IEM3JDz8Vhsz2cobM9nI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60378644/%E8%B5%A4%E6%9F%B1%E9%A6%AC%E5%9D%91%E9%82%A8%E8%B2%93b%E5%9B%B0%E5%8E%BB%E6%B0%B4%E6%B8%A0-%E8%AD%A6%E5%93%A1%E6%B6%88%E9%98%B2%E8%B6%B4%E5%9C%B0%E5%B0%8B%E6%89%BE-%E7%B5%82%E8%A2%AB%E9%A3%9F%E7%89%A9%E5%BC%95%E5%87%BA%E7%8D%B2%E6%95%91",
     "timestamp": "2026-08-10T12:05:59.387Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "泰國少年槍擊案兇手父親首度發聲：對所有遇難者家屬深表歉意",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260808/1162884886428651520839467.jpeg/G2o_AZSIYnIr_V9zFytAH6cTVUhRI__xsdtmq7HbZqs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60378602/%E6%B3%B0%E5%9C%8B%E5%B0%91%E5%B9%B4%E6%A7%8D%E6%93%8A%E6%A1%88%E5%85%87%E6%89%8B%E7%88%B6%E8%A6%AA%E9%A6%96%E5%BA%A6%E7%99%BC%E8%81%B2-%E5%B0%8D%E6%89%80%E6%9C%89%E9%81%87%E9%9B%A3%E8%80%85%E5%AE%B6%E5%B1%AC%E6%B7%B1%E8%A1%A8%E6%AD%89%E6%84%8F",
-    "timestamp": "2026-08-10T11:37:43.508Z",
     "strategy": ".content-card__main"
   }
 ];
