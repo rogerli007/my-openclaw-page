@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-10T13:51:10.930Z
+// Last updated: 2026-08-10T14:33:54.749Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "警荃灣店舖檢4400隻鹹碟值$9萬　66歲男涉管有及發布淫褻物品被捕",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260810/1163611522040074240765291.jpeg/YZq49LmKzwTACCopZw_VpvgFLGuQawFZay2AZmstgGY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60378680/%E8%AD%A6%E8%8D%83%E7%81%A3%E5%BA%97%E8%88%96%E6%AA%A24400%E9%9A%BB%E9%B9%B9%E7%A2%9F%E5%80%BC-9%E8%90%AC-66%E6%AD%B2%E7%94%B7%E6%B6%89%E7%AE%A1%E6%9C%89%E5%8F%8A%E7%99%BC%E5%B8%83%E6%B7%AB%E8%A4%BB%E7%89%A9%E5%93%81%E8%A2%AB%E6%8D%95",
+    "timestamp": "2026-08-10T14:33:54.749Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "謝賢低調上位遺照戴招牌黑超　骨灰安放寶福山與張國榮肥姐為鄰",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260809/1163203233993199616260897.png/Holn0e_1zlEn_YGIfdv5v-PWNJ0jeXKbIlCgCiJQoAo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E8%A9%B1%E9%A1%8C/60378229/%E8%80%81%E8%99%8E%E6%AE%BA%E4%BA%BA-%E6%B3%B0%E5%9C%8B%E8%BF%9130%E5%B9%B4%E9%A6%96%E5%AE%97-%E5%B7%A1%E9%82%8F%E5%93%A1%E9%81%AD%E7%8C%9B%E8%99%8E%E5%8F%BC%E8%B5%B0-%E4%BC%8F%E5%B1%8D200%E7%B1%B3%E5%A4%96%E6%BA%AA%E6%BE%97",
     "timestamp": "2026-08-09T23:31:01.471Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "極端酷熱｜天文台：今明部份地區達37度或以上　籲做足防暑措施",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260810/1163368263418122240518097.jpeg/xWw0uE62L6H4DXVmmIEELPxb9IbQTTthDxMg-A8TIPg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60378333/%E6%A5%B5%E7%AB%AF%E9%85%B7%E7%86%B1-%E5%A4%A9%E6%96%87%E5%8F%B0-%E4%BB%8A%E6%98%8E%E9%83%A8%E4%BB%BD%E5%9C%B0%E5%8D%80%E9%81%9437%E5%BA%A6%E6%88%96%E4%BB%A5%E4%B8%8A-%E7%B1%B2%E5%81%9A%E8%B6%B3%E9%98%B2%E6%9A%91%E6%8E%AA%E6%96%BD",
-    "timestamp": "2026-08-09T22:32:43.641Z",
     "strategy": ".content-card__main"
   }
 ];
