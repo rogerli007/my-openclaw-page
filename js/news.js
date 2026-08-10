@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-10T21:23:49.316Z
+// Last updated: 2026-08-10T21:52:23.252Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美國務院稱去年初以來　已吊銷逾17.5萬份外國人簽證",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260811/1163718944993841152176258.jpeg/vinf0SEbws6PFbMeyFQ_QhrK455CVL1oZ1dW8mdXVvI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60378711/%E7%BE%8E%E5%9C%8B%E5%8B%99%E9%99%A2%E7%A8%B1%E5%8E%BB%E5%B9%B4%E5%88%9D%E4%BB%A5%E4%BE%86-%E5%B7%B2%E5%90%8A%E9%8A%B7%E9%80%BE17-5%E8%90%AC%E4%BB%BD%E5%A4%96%E5%9C%8B%E4%BA%BA%E7%B0%BD%E8%AD%89",
+    "timestamp": "2026-08-10T21:52:23.252Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "特朗普反要求伊朗賠償　稱將納入未來談判",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260808/1162884886428651520839467.jpeg/G2o_AZSIYnIr_V9zFytAH6cTVUhRI__xsdtmq7HbZqs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60378602/%E6%B3%B0%E5%9C%8B%E5%B0%91%E5%B9%B4%E6%A7%8D%E6%93%8A%E6%A1%88%E5%85%87%E6%89%8B%E7%88%B6%E8%A6%AA%E9%A6%96%E5%BA%A6%E7%99%BC%E8%81%B2-%E5%B0%8D%E6%89%80%E6%9C%89%E9%81%87%E9%9B%A3%E8%80%85%E5%AE%B6%E5%B1%AC%E6%B7%B1%E8%A1%A8%E6%AD%89%E6%84%8F",
     "timestamp": "2026-08-10T11:37:43.508Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "簡樸房｜何永賢：料8萬分間單位只需小規模改動　逾四成已申請",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260810/1163560005392273408762930.jpeg/ByjfXILxpJIq7ogQTughXokKXrUcIRAH8r7BhfK-wYU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60378637/%E7%B0%A1%E6%A8%B8%E6%88%BF-%E4%BD%95%E6%B0%B8%E8%B3%A2-%E6%96%998%E8%90%AC%E5%88%86%E9%96%93%E5%96%AE%E4%BD%8D%E5%8F%AA%E9%9C%80%E5%B0%8F%E8%A6%8F%E6%A8%A1%E6%94%B9%E5%8B%95-%E9%80%BE%E5%9B%9B%E6%88%90%E5%B7%B2%E7%94%B3%E8%AB%8B",
-    "timestamp": "2026-08-10T11:17:02.022Z",
     "strategy": ".content-card__main"
   }
 ];
