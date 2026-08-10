@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-10T22:53:53.123Z
+// Last updated: 2026-08-10T23:18:59.350Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "醫療事故│小腸末端錯接胃部　術後3周才發現　英國醫生遭永久除名",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260810/1163508522764210176128037.png/3hSb0H_ZAJhMD60wUYD6-LTfO9KNLLwqhICTN4SAkzc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60377505/%E9%86%AB%E7%99%82%E4%BA%8B%E6%95%85-%E5%B0%8F%E8%85%B8%E6%9C%AB%E7%AB%AF%E9%8C%AF%E6%8E%A5%E8%83%83%E9%83%A8-%E8%A1%93%E5%BE%8C3%E5%91%A8%E6%89%8D%E7%99%BC%E7%8F%BE-%E8%8B%B1%E5%9C%8B%E9%86%AB%E7%94%9F%E9%81%AD%E6%B0%B8%E4%B9%85%E9%99%A4%E5%90%8D",
+    "timestamp": "2026-08-10T23:18:59.350Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "《富貴逼人》「招弟」關珮琳近照　任跨國公司HR高層撐本地舞台劇",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20231206/809145810993287168870953.jpeg/H2wuserPnbdhRaygQZRfK1MVEJgV0JeSh7-nIoe_pyI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60378663/tvb%E8%AC%80%E9%A3%9Fai%E5%A4%A7%E8%8C%B6%E9%A3%AF-%E5%A4%A5%E6%8B%8D%E5%9F%BA%E9%87%91%E6%8B%93%E7%9B%B8%E9%97%9C%E7%AE%97%E5%8A%9B%E6%9C%8D%E5%8B%99-%E9%81%B8%E5%9D%80%E5%B0%87%E8%BB%8D%E6%BE%B3%E5%B7%A5%E6%A5%AD%E9%82%A8",
     "timestamp": "2026-08-10T13:15:40.390Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "深圳女搬屋遭坐地起價　報價570元　到樓下變5060元才肯搬上樓",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260810/1163537718941061120849102.jpeg/sPPAWNMab22YYtnuQj0x-bKWs2vDrrEXFIafyRSGn8k?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60378598/%E6%B7%B1%E5%9C%B3%E5%A5%B3%E6%90%AC%E5%B1%8B%E9%81%AD%E5%9D%90%E5%9C%B0%E8%B5%B7%E5%83%B9-%E5%A0%B1%E5%83%B9570%E5%85%83-%E5%88%B0%E6%A8%93%E4%B8%8B%E8%AE%8A5060%E5%85%83%E6%89%8D%E8%82%AF%E6%90%AC%E4%B8%8A%E6%A8%93",
-    "timestamp": "2026-08-10T12:37:23.338Z",
     "strategy": ".content-card__main"
   }
 ];
