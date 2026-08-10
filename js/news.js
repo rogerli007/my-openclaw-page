@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-10T12:05:59.387Z
+// Last updated: 2026-08-10T12:37:23.338Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "深圳女搬屋遭坐地起價　報價570元　到樓下變5060元才肯搬上樓",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260810/1163537718941061120849102.jpeg/sPPAWNMab22YYtnuQj0x-bKWs2vDrrEXFIafyRSGn8k?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60378598/%E6%B7%B1%E5%9C%B3%E5%A5%B3%E6%90%AC%E5%B1%8B%E9%81%AD%E5%9D%90%E5%9C%B0%E8%B5%B7%E5%83%B9-%E5%A0%B1%E5%83%B9570%E5%85%83-%E5%88%B0%E6%A8%93%E4%B8%8B%E8%AE%8A5060%E5%85%83%E6%89%8D%E8%82%AF%E6%90%AC%E4%B8%8A%E6%A8%93",
+    "timestamp": "2026-08-10T12:37:23.338Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "赤柱馬坑邨貓B困去水渠　警員消防趴地尋找　終被食物引出獲救",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260810/1163336405917634560236089.jpeg/6HPBpppm4kUM-SI9zvlUk4Gwh8yXpNaNQ13L4kNdy-I?v=w1920",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60378344/%E6%9C%89%E7%89%87-%E5%85%83%E6%9C%97%E7%9C%BC%E5%88%A9%E5%8F%B8%E6%A9%9F%E8%A6%8B%E6%B5%81%E6%B5%AA%E8%B2%93%E5%8D%B3%E5%81%9C%E8%BB%8A-%E5%A5%B3%E4%BC%B4%E6%95%91%E8%B2%93%E5%BF%83%E5%88%87-%E5%BE%92%E6%89%8B%E6%8D%89%E9%9B%A2%E9%A6%AC%E8%B7%AF",
     "timestamp": "2026-08-09T21:18:03.773Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "有片｜元朗眼利司機見流浪貓即停車　女伴救貓心切　徒手捉離馬路",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260810/1163336405917634560236089.jpeg/6HPBpppm4kUM-SI9zvlUk4Gwh8yXpNaNQ13L4kNdy-I?v=w1920",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60378344/%E6%9C%89%E7%89%87-%E5%85%83%E6%9C%97%E7%9C%BC%E5%88%A9%E5%8F%B8%E6%A9%9F%E8%A6%8B%E6%B5%81%E6%B5%AA%E8%B2%93%E5%8D%B3%E5%81%9C%E8%BB%8A-%E5%A5%B3%E4%BC%B4%E6%95%91%E8%B2%93%E5%BF%83%E5%88%87-%E5%BE%92%E6%89%8B%E6%8D%89%E9%9B%A2%E9%A6%AC%E8%B7%AF",
-    "timestamp": "2026-08-09T21:08:17.671Z",
     "strategy": ".content-card__main"
   }
 ];
