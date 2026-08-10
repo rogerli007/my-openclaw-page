@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-10T17:25:01.599Z
+// Last updated: 2026-08-10T17:53:17.822Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "吳若希做《三代同糖》女主角不擔心被指「搶飯碗」：時代會變遷",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260810/1163611108930490368095264.jpeg/i5Sl9uHhHnO_vCtv2-WKTVRfY_yc0X9hd1apP01WqT8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60378681/%E5%90%B3%E8%8B%A5%E5%B8%8C%E5%81%9A-%E4%B8%89%E4%BB%A3%E5%90%8C%E7%B3%96-%E5%A5%B3%E4%B8%BB%E8%A7%92%E4%B8%8D%E6%93%94%E5%BF%83%E8%A2%AB%E6%8C%87-%E6%90%B6%E9%A3%AF%E7%A2%97-%E6%99%82%E4%BB%A3%E6%9C%83%E8%AE%8A%E9%81%B7",
+    "timestamp": "2026-08-10T17:53:17.822Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "吳若希做《三代同糖》女主角不擔心被指「搶飯碗」：時代會變遷",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260810/1163435922880991232512380.png/SzlxCB-duyiVPPaUvaPKLhSFSf9Hd9WfesHo7HrB6Ow",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60378383/%E7%A2%A7%E7%91%A4%E7%81%A3%E6%96%AC%E4%BA%BA-%E6%9C%89%E7%89%87-%E8%B5%A4%E8%86%8A%E7%94%B7%E6%8C%81%E5%88%80%E6%94%BB%E6%93%8A-%E5%A4%9A%E4%BA%BA%E8%B5%B0%E9%81%BF-%E4%BF%9D%E5%AE%89%E8%B7%8C%E5%80%92%E8%B9%AC%E8%85%BF%E9%98%B2%E8%A1%9B",
     "timestamp": "2026-08-10T03:01:10.398Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "A股上市首日飆4倍、「中國版英偉達」　摩爾線程擬來港掛牌｜新股",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260520/1133726748203028480126730.jpeg/9zkSIYTEiV-FSsgi3qpHUO3zDRdB_ZDyqs5uDqrObg4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60378364/a%E8%82%A1%E4%B8%8A%E5%B8%82%E9%A6%96%E6%97%A5%E9%A3%864%E5%80%8D-%E4%B8%AD%E5%9C%8B%E7%89%88%E8%8B%B1%E5%81%89%E9%81%94-%E6%91%A9%E7%88%BE%E7%B7%9A%E7%A8%8B%E6%93%AC%E4%BE%86%E6%B8%AF%E6%8E%9B%E7%89%8C-%E6%96%B0%E8%82%A1",
-    "timestamp": "2026-08-10T02:03:49.228Z",
     "strategy": ".content-card__main"
   }
 ];
