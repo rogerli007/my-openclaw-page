@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-10T04:22:57.832Z
+// Last updated: 2026-08-10T06:41:09.414Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "西北太平洋四旋共舞　白海豚締特大暴雨　天文台料燦鴻逼日本關東",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260810/1163491441394061312781059.png/Q-_-sDbpRxydOLRETniXbnJZubYC2ULIkJXR8pCV0fI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60378467/%E8%A5%BF%E5%8C%97%E5%A4%AA%E5%B9%B3%E6%B4%8B%E5%9B%9B%E6%97%8B%E5%85%B1%E8%88%9E-%E7%99%BD%E6%B5%B7%E8%B1%9A%E7%B7%A0%E7%89%B9%E5%A4%A7%E6%9A%B4%E9%9B%A8-%E5%A4%A9%E6%96%87%E5%8F%B0%E6%96%99%E7%87%A6%E9%B4%BB%E9%80%BC%E6%97%A5%E6%9C%AC%E9%97%9C%E6%9D%B1",
+    "timestamp": "2026-08-10T06:41:09.414Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "碧瑤灣斬人｜警到被捕人住所調查　發現有貓隻頭受傷　交愛協治理",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260809/1163256107695607808129064.jpeg/76vNihjjnK6lyRdgGbxw8iv-Vuc1WAjZ0d8oc9HfKHM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60378326/%E9%9F%93%E5%9C%8B%E8%B6%B3%E7%B8%BD%E6%80%A7%E6%8B%9B%E5%BE%85%E7%90%83%E8%AD%89%E9%86%9C%E8%81%9E-%E9%87%8D%E7%87%832002%E4%B8%96%E7%95%8C%E7%9B%83%E6%98%AF%E5%90%A6%E6%94%B6%E8%B2%B7%E7%90%83%E8%AD%89%E7%86%B1%E8%AB%96",
     "timestamp": "2026-08-09T18:56:40.729Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "韓國足總性招待球證醜聞　重燃2002世界盃是否收買球證熱論",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260809/1163256107695607808129064.jpeg/76vNihjjnK6lyRdgGbxw8iv-Vuc1WAjZ0d8oc9HfKHM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60378326/%E9%9F%93%E5%9C%8B%E8%B6%B3%E7%B8%BD%E6%80%A7%E6%8B%9B%E5%BE%85%E7%90%83%E8%AD%89%E9%86%9C%E8%81%9E-%E9%87%8D%E7%87%832002%E4%B8%96%E7%95%8C%E7%9B%83%E6%98%AF%E5%90%A6%E6%94%B6%E8%B2%B7%E7%90%83%E8%AD%89%E7%86%B1%E8%AB%96",
-    "timestamp": "2026-08-09T18:33:58.970Z",
     "strategy": ".content-card__main"
   }
 ];
