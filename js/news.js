@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-10T03:43:16.711Z
+// Last updated: 2026-08-10T04:22:57.832Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "碧瑤灣斬人｜警到被捕人住所調查　發現有貓隻頭受傷　交愛協治理",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260810/1163453835792879616509423.jpeg/Ot5WjN4-eOqG08NTQi6apfN4vdZi_EQRh9D-JIfQ_iQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60378390/%E7%A2%A7%E7%91%A4%E7%81%A3%E6%96%AC%E4%BA%BA-%E8%AD%A6%E5%88%B0%E8%A2%AB%E6%8D%95%E4%BA%BA%E4%BD%8F%E6%89%80%E8%AA%BF%E6%9F%A5-%E7%99%BC%E7%8F%BE%E6%9C%89%E8%B2%93%E9%9A%BB%E9%A0%AD%E5%8F%97%E5%82%B7-%E4%BA%A4%E6%84%9B%E5%8D%94%E6%B2%BB%E7%90%86",
+    "timestamp": "2026-08-10T04:22:57.832Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "LTTT × ASICS再度攜手 以搶眼配色推出聯名鞋款/帽/長褲/毛巾系列",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260809/1163256107695607808129064.jpeg/76vNihjjnK6lyRdgGbxw8iv-Vuc1WAjZ0d8oc9HfKHM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60378326/%E9%9F%93%E5%9C%8B%E8%B6%B3%E7%B8%BD%E6%80%A7%E6%8B%9B%E5%BE%85%E7%90%83%E8%AD%89%E9%86%9C%E8%81%9E-%E9%87%8D%E7%87%832002%E4%B8%96%E7%95%8C%E7%9B%83%E6%98%AF%E5%90%A6%E6%94%B6%E8%B2%B7%E7%90%83%E8%AD%89%E7%86%B1%E8%AB%96",
     "timestamp": "2026-08-09T18:33:58.970Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "韓國足總性招待球證醜聞　重燃2002世界盃是否收買球證熱論",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260809/1163256107695607808129064.jpeg/76vNihjjnK6lyRdgGbxw8iv-Vuc1WAjZ0d8oc9HfKHM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60378326/%E9%9F%93%E5%9C%8B%E8%B6%B3%E7%B8%BD%E6%80%A7%E6%8B%9B%E5%BE%85%E7%90%83%E8%AD%89%E9%86%9C%E8%81%9E-%E9%87%8D%E7%87%832002%E4%B8%96%E7%95%8C%E7%9B%83%E6%98%AF%E5%90%A6%E6%94%B6%E8%B2%B7%E7%90%83%E8%AD%89%E7%86%B1%E8%AB%96",
-    "timestamp": "2026-08-09T18:16:05.872Z",
     "strategy": ".content-card__main"
   }
 ];
