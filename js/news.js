@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-10T00:07:34.786Z
+// Last updated: 2026-08-10T00:37:10.548Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "孕婦9樓墮下不治！30分鐘後剖腹女嬰奇蹟存活　親屬照顧健康成長",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260810/1163298162429923328695084.png/sxbJIE7koATZyiS24O9zneoDMMv87rpWqyWKFqslihY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60378274/%E5%AD%95%E5%A9%A69%E6%A8%93%E5%A2%AE%E4%B8%8B%E4%B8%8D%E6%B2%BB-30%E5%88%86%E9%90%98%E5%BE%8C%E5%89%96%E8%85%B9%E5%A5%B3%E5%AC%B0%E5%A5%87%E8%B9%9F%E5%AD%98%E6%B4%BB-%E8%A6%AA%E5%B1%AC%E7%85%A7%E9%A1%A7%E5%81%A5%E5%BA%B7%E6%88%90%E9%95%B7",
+    "timestamp": "2026-08-10T00:37:10.548Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "黃子華與影帝餐廳食飯被偶遇　估唔到咁fd網民猜測即將開新戲？",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260809/1163141487039877120086497.jpeg/VcfcSbVZ0ABxRZYdqKofBE66XOP8HONopn-3KIx_tyg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60378331/%E5%B7%A5%E4%BD%9C%E6%9A%91%E7%86%B1%E8%AD%A6%E5%91%8A%E9%9B%B6%E7%B4%85%E8%89%B2-%E6%9E%97%E8%B6%85%E8%8B%B1-%E5%8B%9E%E5%B7%A5%E8%99%95%E9%8C%AF%E7%94%A8%E5%8F%83%E6%95%B8-%E6%8C%87%E6%A8%99%E5%A4%AA%E9%AB%98%E6%B7%AA%E9%99%B3%E5%88%97%E5%93%81",
     "timestamp": "2026-08-09T16:52:28.361Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "愛回家大結局｜周嘉洛細心扶劉丹上台　貼心禮讓同僚獲網民大讚",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260809/1163195611718094848154029.jpeg/eMO_Ug2l_OH0h29i8AACVUwdpJ7kHV5y3H80_Nx_NPw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60378263/%E6%84%9B%E5%9B%9E%E5%AE%B6%E5%A4%A7%E7%B5%90%E5%B1%80-%E5%91%A8%E5%98%89%E6%B4%9B%E7%B4%B0%E5%BF%83%E6%89%B6%E5%8A%89%E4%B8%B9%E4%B8%8A%E5%8F%B0-%E8%B2%BC%E5%BF%83%E7%A6%AE%E8%AE%93%E5%90%8C%E5%83%9A%E7%8D%B2%E7%B6%B2%E6%B0%91%E5%A4%A7%E8%AE%9A",
-    "timestamp": "2026-08-09T16:32:15.536Z",
     "strategy": ".content-card__main"
   }
 ];
