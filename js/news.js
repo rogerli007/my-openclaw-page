@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-10T19:30:20.540Z
+// Last updated: 2026-08-10T19:55:07.981Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "油麻地瑪莎拉蒂爆呔停路邊　司機遭調查棄車逃走　警員車上檢毒品",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260811/1163691304954105856612430.jpeg/TpUTFeUEs1Z7u0txk-rN1cfZXFdbV6fM45onJ-OaJyc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60378708/%E6%B2%B9%E9%BA%BB%E5%9C%B0%E7%91%AA%E8%8E%8E%E6%8B%89%E8%92%82%E7%88%86%E5%91%94%E5%81%9C%E8%B7%AF%E9%82%8A-%E5%8F%B8%E6%A9%9F%E9%81%AD%E8%AA%BF%E6%9F%A5%E6%A3%84%E8%BB%8A%E9%80%83%E8%B5%B0-%E8%AD%A6%E5%93%A1%E8%BB%8A%E4%B8%8A%E6%AA%A2%E6%AF%92%E5%93%81",
+    "timestamp": "2026-08-10T19:55:07.981Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "外媒：貝索斯等富豪組財團　擬收購利物浦1/3股權　協議即將達成",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260810/1163522577147629568298137.jpeg/mKhpszC2fhHd6c_lgB0AMaE-oUbCJQyE7uHouO7h6Lg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%92%B0%E7%90%83%E8%B6%A3%E8%81%9E/60378554/%E6%97%A5%E6%9C%AC%E6%9D%B1%E5%8C%97%E6%96%B0%E5%B9%B9%E7%B7%9A%E7%8F%BE-%E6%80%AA%E5%AE%A2-%E9%B4%BF%E5%AD%90%E5%9D%90-%E9%9C%B8%E7%8E%8B%E8%BB%8A-%E9%81%AD%E8%B6%95%E8%B5%B0-%E6%9C%89%E7%89%87",
     "timestamp": "2026-08-10T08:43:49.793Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "西北太平洋四旋共舞　白海豚締特大暴雨　天文台料燦鴻逼日本關東",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260810/1163491441394061312781059.png/Q-_-sDbpRxydOLRETniXbnJZubYC2ULIkJXR8pCV0fI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60378467/%E8%A5%BF%E5%8C%97%E5%A4%AA%E5%B9%B3%E6%B4%8B%E5%9B%9B%E6%97%8B%E5%85%B1%E8%88%9E-%E7%99%BD%E6%B5%B7%E8%B1%9A%E7%B7%A0%E7%89%B9%E5%A4%A7%E6%9A%B4%E9%9B%A8-%E5%A4%A9%E6%96%87%E5%8F%B0%E6%96%99%E7%87%A6%E9%B4%BB%E9%80%BC%E6%97%A5%E6%9C%AC%E9%97%9C%E6%9D%B1",
-    "timestamp": "2026-08-10T06:41:09.414Z",
     "strategy": ".content-card__main"
   }
 ];
