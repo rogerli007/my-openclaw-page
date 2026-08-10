@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-10T03:01:10.398Z
+// Last updated: 2026-08-10T03:43:16.711Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "LTTT × ASICS再度攜手 以搶眼配色推出聯名鞋款/帽/長褲/毛巾系列",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260806/1162039428273672192389150.jpeg/M5Ugpt3qdq8Owl2SNW7utCZnwT3RFY_5e3JD2XtyQ9k?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E4%B8%80%E7%89%A9/60377178/lttt-asics%E5%86%8D%E5%BA%A6%E6%94%9C%E6%89%8B-%E4%BB%A5%E6%90%B6%E7%9C%BC%E9%85%8D%E8%89%B2%E6%8E%A8%E5%87%BA%E8%81%AF%E5%90%8D%E9%9E%8B%E6%AC%BE-%E5%B8%BD-%E9%95%B7%E8%A4%B2-%E6%AF%9B%E5%B7%BE%E7%B3%BB%E5%88%97",
+    "timestamp": "2026-08-10T03:43:16.711Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "碧瑤灣斬人．有片｜赤膊男持刀攻擊　多人走避　保安跌倒蹬腿防衛",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260809/1163256107695607808129064.jpeg/76vNihjjnK6lyRdgGbxw8iv-Vuc1WAjZ0d8oc9HfKHM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60378326/%E9%9F%93%E5%9C%8B%E8%B6%B3%E7%B8%BD%E6%80%A7%E6%8B%9B%E5%BE%85%E7%90%83%E8%AD%89%E9%86%9C%E8%81%9E-%E9%87%8D%E7%87%832002%E4%B8%96%E7%95%8C%E7%9B%83%E6%98%AF%E5%90%A6%E6%94%B6%E8%B2%B7%E7%90%83%E8%AD%89%E7%86%B1%E8%AB%96",
     "timestamp": "2026-08-09T18:16:05.872Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "韓國足總性招待球證醜聞　重燃2002世界盃是否收買球證熱論",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260809/1163256107695607808129064.jpeg/76vNihjjnK6lyRdgGbxw8iv-Vuc1WAjZ0d8oc9HfKHM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60378326/%E9%9F%93%E5%9C%8B%E8%B6%B3%E7%B8%BD%E6%80%A7%E6%8B%9B%E5%BE%85%E7%90%83%E8%AD%89%E9%86%9C%E8%81%9E-%E9%87%8D%E7%87%832002%E4%B8%96%E7%95%8C%E7%9B%83%E6%98%AF%E5%90%A6%E6%94%B6%E8%B2%B7%E7%90%83%E8%AD%89%E7%86%B1%E8%AB%96",
-    "timestamp": "2026-08-09T17:54:16.234Z",
     "strategy": ".content-card__main"
   }
 ];
