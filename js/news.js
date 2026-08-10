@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-10T16:54:44.038Z
+// Last updated: 2026-08-10T17:25:01.599Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "吳若希做《三代同糖》女主角不擔心被指「搶飯碗」：時代會變遷",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260810/1163611108930490368095264.jpeg/i5Sl9uHhHnO_vCtv2-WKTVRfY_yc0X9hd1apP01WqT8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60378681/%E5%90%B3%E8%8B%A5%E5%B8%8C%E5%81%9A-%E4%B8%89%E4%BB%A3%E5%90%8C%E7%B3%96-%E5%A5%B3%E4%B8%BB%E8%A7%92%E4%B8%8D%E6%93%94%E5%BF%83%E8%A2%AB%E6%8C%87-%E6%90%B6%E9%A3%AF%E7%A2%97-%E6%99%82%E4%BB%A3%E6%9C%83%E8%AE%8A%E9%81%B7",
+    "timestamp": "2026-08-10T17:25:01.599Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "吳若希做《三代同糖》女主角不擔心被指「搶飯碗」：時代會變遷",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260520/1133726748203028480126730.jpeg/9zkSIYTEiV-FSsgi3qpHUO3zDRdB_ZDyqs5uDqrObg4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60378364/a%E8%82%A1%E4%B8%8A%E5%B8%82%E9%A6%96%E6%97%A5%E9%A3%864%E5%80%8D-%E4%B8%AD%E5%9C%8B%E7%89%88%E8%8B%B1%E5%81%89%E9%81%94-%E6%91%A9%E7%88%BE%E7%B7%9A%E7%A8%8B%E6%93%AC%E4%BE%86%E6%B8%AF%E6%8E%9B%E7%89%8C-%E6%96%B0%E8%82%A1",
     "timestamp": "2026-08-10T02:03:49.228Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "酷熱天氣警告生效天文台料今明極端酷熱　本周後期部份地區有雷暴",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260805/1161554175167827968305294.jpeg/WTkLpKDggodlV2c90czHPmCNNPUWG44Rpd7LZaXey2U?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60378354/%E9%85%B7%E7%86%B1%E5%A4%A9%E6%B0%A3%E8%AD%A6%E5%91%8A%E7%94%9F%E6%95%88%E5%A4%A9%E6%96%87%E5%8F%B0%E6%96%99%E4%BB%8A%E6%98%8E%E6%A5%B5%E7%AB%AF%E9%85%B7%E7%86%B1-%E6%9C%AC%E5%91%A8%E5%BE%8C%E6%9C%9F%E9%83%A8%E4%BB%BD%E5%9C%B0%E5%8D%80%E6%9C%89%E9%9B%B7%E6%9A%B4",
-    "timestamp": "2026-08-10T01:16:33.983Z",
     "strategy": ".content-card__main"
   }
 ];
