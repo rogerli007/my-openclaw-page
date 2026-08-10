@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-10T09:16:13.853Z
+// Last updated: 2026-08-10T10:36:08.357Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "白海豚襲華東　上海水浸成澤國　迪士尼人偶颱風天照常出街｜有片",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260810/1163543548834877440251364.png/nj4QkhZbv9SdaKfWH6RFqgkTj7WEQuXCOj_obDo_6Gw?v=w1920",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60378588/%E7%99%BD%E6%B5%B7%E8%B1%9A%E8%A5%B2%E8%8F%AF%E6%9D%B1-%E4%B8%8A%E6%B5%B7%E6%B0%B4%E6%B5%B8%E6%88%90%E6%BE%A4%E5%9C%8B-%E8%BF%AA%E5%A3%AB%E5%B0%BC%E4%BA%BA%E5%81%B6%E9%A2%B1%E9%A2%A8%E5%A4%A9%E7%85%A7%E5%B8%B8%E5%87%BA%E8%A1%97-%E6%9C%89%E7%89%87",
+    "timestamp": "2026-08-10T10:36:08.357Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "記憶體、SSD=黃金 | AI熱潮下的受害者：DIY神話破滅！玩家哀歎!",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260701/1149138545823191040072135.jpeg/RbVxSPTxqVk9CMVEhacyzFkflxfaCCijQCvz90Ar8_c?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60378341/%E4%BC%8A%E6%9C%97%E8%AD%B0%E6%9C%83%E5%A7%94%E5%93%A1%E6%9C%83%E9%80%9A%E9%81%8E%E9%9C%8D%E7%88%BE%E6%9C%A8%E8%8C%B2%E6%B5%B7%E5%B3%BD%E5%AE%89%E5%85%A8%E7%B6%B1%E8%A6%81",
     "timestamp": "2026-08-09T20:04:08.704Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "伊朗議會委員會通過霍爾木茲海峽安全綱要",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260701/1149138545823191040072135.jpeg/RbVxSPTxqVk9CMVEhacyzFkflxfaCCijQCvz90Ar8_c?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60378341/%E4%BC%8A%E6%9C%97%E8%AD%B0%E6%9C%83%E5%A7%94%E5%93%A1%E6%9C%83%E9%80%9A%E9%81%8E%E9%9C%8D%E7%88%BE%E6%9C%A8%E8%8C%B2%E6%B5%B7%E5%B3%BD%E5%AE%89%E5%85%A8%E7%B6%B1%E8%A6%81",
-    "timestamp": "2026-08-09T19:48:31.779Z",
     "strategy": ".content-card__main"
   }
 ];
