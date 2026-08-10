@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-10T15:54:51.230Z
+// Last updated: 2026-08-10T16:24:47.363Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "陳錦鴻初聞愛兒輕度智障　苦思數小時決心引退：唔想佢成社會負累",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260810/1163609097958854656023649.jpeg/WPEEyG2sLT8rjGK-UWYQWVBJldNJLf_jjgwmdo4MJnY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60378649/%E9%99%B3%E9%8C%A6%E9%B4%BB%E5%88%9D%E8%81%9E%E6%84%9B%E5%85%92%E8%BC%95%E5%BA%A6%E6%99%BA%E9%9A%9C-%E8%8B%A6%E6%80%9D%E6%95%B8%E5%B0%8F%E6%99%82%E6%B1%BA%E5%BF%83%E5%BC%95%E9%80%80-%E5%94%94%E6%83%B3%E4%BD%A2%E6%88%90%E7%A4%BE%E6%9C%83%E8%B2%A0%E7%B4%AF",
+    "timestamp": "2026-08-10T16:24:47.363Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "東張西望｜姊妹花深圳做拉皮手術失敗　臉部留恐怖疤痕",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260810/1163298162429923328695084.png/sxbJIE7koATZyiS24O9zneoDMMv87rpWqyWKFqslihY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60378274/%E5%AD%95%E5%A9%A69%E6%A8%93%E5%A2%AE%E4%B8%8B%E4%B8%8D%E6%B2%BB-30%E5%88%86%E9%90%98%E5%BE%8C%E5%89%96%E8%85%B9%E5%A5%B3%E5%AC%B0%E5%A5%87%E8%B9%9F%E5%AD%98%E6%B4%BB-%E8%A6%AA%E5%B1%AC%E7%85%A7%E9%A1%A7%E5%81%A5%E5%BA%B7%E6%88%90%E9%95%B7",
     "timestamp": "2026-08-10T00:37:10.548Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "黃子華與影帝餐廳食飯被偶遇　估唔到咁fd網民猜測即將開新戲？",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260809/1163246562952876032954782.jpeg/rFbvfCcVRUX00KxUBPgfKHhNi_IymfDuBjHQygYx0Mo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60378309/%E9%BB%83%E5%AD%90%E8%8F%AF%E4%BB%BB%E9%81%94%E8%8F%AF%E9%A4%90%E5%BB%B3%E9%A3%9F%E9%A3%AF%E8%A2%AB%E5%81%B6%E9%81%87-%E4%BC%B0%E5%94%94%E5%88%B0%E5%92%81fd%E7%B6%B2%E6%B0%91%E7%8C%9C%E6%B8%AC%E5%8D%B3%E5%B0%87%E9%96%8B%E6%96%B0%E6%88%B2",
-    "timestamp": "2026-08-10T00:07:34.786Z",
     "strategy": ".content-card__main"
   }
 ];
