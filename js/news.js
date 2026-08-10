@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-10T02:03:49.228Z
+// Last updated: 2026-08-10T03:01:10.398Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "碧瑤灣斬人．有片｜赤膊男持刀攻擊　多人走避　保安跌倒蹬腿防衛",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260810/1163435922880991232512380.png/SzlxCB-duyiVPPaUvaPKLhSFSf9Hd9WfesHo7HrB6Ow",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60378383/%E7%A2%A7%E7%91%A4%E7%81%A3%E6%96%AC%E4%BA%BA-%E6%9C%89%E7%89%87-%E8%B5%A4%E8%86%8A%E7%94%B7%E6%8C%81%E5%88%80%E6%94%BB%E6%93%8A-%E5%A4%9A%E4%BA%BA%E8%B5%B0%E9%81%BF-%E4%BF%9D%E5%AE%89%E8%B7%8C%E5%80%92%E8%B9%AC%E8%85%BF%E9%98%B2%E8%A1%9B",
+    "timestamp": "2026-08-10T03:01:10.398Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "A股上市首日飆4倍、「中國版英偉達」　摩爾線程擬來港掛牌｜新股",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260809/1163256107695607808129064.jpeg/76vNihjjnK6lyRdgGbxw8iv-Vuc1WAjZ0d8oc9HfKHM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60378326/%E9%9F%93%E5%9C%8B%E8%B6%B3%E7%B8%BD%E6%80%A7%E6%8B%9B%E5%BE%85%E7%90%83%E8%AD%89%E9%86%9C%E8%81%9E-%E9%87%8D%E7%87%832002%E4%B8%96%E7%95%8C%E7%9B%83%E6%98%AF%E5%90%A6%E6%94%B6%E8%B2%B7%E7%90%83%E8%AD%89%E7%86%B1%E8%AB%96",
     "timestamp": "2026-08-09T17:54:16.234Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "韓國足總性招待球證醜聞　重燃2002世界盃是否收買球證熱論",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260809/1163256107695607808129064.jpeg/76vNihjjnK6lyRdgGbxw8iv-Vuc1WAjZ0d8oc9HfKHM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60378326/%E9%9F%93%E5%9C%8B%E8%B6%B3%E7%B8%BD%E6%80%A7%E6%8B%9B%E5%BE%85%E7%90%83%E8%AD%89%E9%86%9C%E8%81%9E-%E9%87%8D%E7%87%832002%E4%B8%96%E7%95%8C%E7%9B%83%E6%98%AF%E5%90%A6%E6%94%B6%E8%B2%B7%E7%90%83%E8%AD%89%E7%86%B1%E8%AB%96",
-    "timestamp": "2026-08-09T17:36:24.661Z",
     "strategy": ".content-card__main"
   }
 ];
