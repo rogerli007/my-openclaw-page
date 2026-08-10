@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-10T06:41:09.414Z
+// Last updated: 2026-08-10T08:43:49.793Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "日本東北新幹線現「怪客」　鴿子坐「霸王車」遭趕走｜有片",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260810/1163522577147629568298137.jpeg/mKhpszC2fhHd6c_lgB0AMaE-oUbCJQyE7uHouO7h6Lg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%92%B0%E7%90%83%E8%B6%A3%E8%81%9E/60378554/%E6%97%A5%E6%9C%AC%E6%9D%B1%E5%8C%97%E6%96%B0%E5%B9%B9%E7%B7%9A%E7%8F%BE-%E6%80%AA%E5%AE%A2-%E9%B4%BF%E5%AD%90%E5%9D%90-%E9%9C%B8%E7%8E%8B%E8%BB%8A-%E9%81%AD%E8%B6%95%E8%B5%B0-%E6%9C%89%E7%89%87",
+    "timestamp": "2026-08-10T08:43:49.793Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "西北太平洋四旋共舞　白海豚締特大暴雨　天文台料燦鴻逼日本關東",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260809/1163256107695607808129064.jpeg/76vNihjjnK6lyRdgGbxw8iv-Vuc1WAjZ0d8oc9HfKHM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60378326/%E9%9F%93%E5%9C%8B%E8%B6%B3%E7%B8%BD%E6%80%A7%E6%8B%9B%E5%BE%85%E7%90%83%E8%AD%89%E9%86%9C%E8%81%9E-%E9%87%8D%E7%87%832002%E4%B8%96%E7%95%8C%E7%9B%83%E6%98%AF%E5%90%A6%E6%94%B6%E8%B2%B7%E7%90%83%E8%AD%89%E7%86%B1%E8%AB%96",
     "timestamp": "2026-08-09T19:19:42.529Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "韓國足總性招待球證醜聞　重燃2002世界盃是否收買球證熱論",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260809/1163256107695607808129064.jpeg/76vNihjjnK6lyRdgGbxw8iv-Vuc1WAjZ0d8oc9HfKHM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60378326/%E9%9F%93%E5%9C%8B%E8%B6%B3%E7%B8%BD%E6%80%A7%E6%8B%9B%E5%BE%85%E7%90%83%E8%AD%89%E9%86%9C%E8%81%9E-%E9%87%8D%E7%87%832002%E4%B8%96%E7%95%8C%E7%9B%83%E6%98%AF%E5%90%A6%E6%94%B6%E8%B2%B7%E7%90%83%E8%AD%89%E7%86%B1%E8%AB%96",
-    "timestamp": "2026-08-09T18:56:40.729Z",
     "strategy": ".content-card__main"
   }
 ];
