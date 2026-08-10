@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-10T15:29:28.892Z
+// Last updated: 2026-08-10T15:54:51.230Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "東張西望｜姊妹花深圳做拉皮手術失敗　臉部留恐怖疤痕",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260810/1163612155732299776861047.jpeg/GKRKdfZETi2yvZIIUydpVw3yMwJqhkG-VyUReFclEXg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60378682/%E6%9D%B1%E5%BC%B5%E8%A5%BF%E6%9C%9B-%E5%A7%8A%E5%A6%B9%E8%8A%B1%E6%B7%B1%E5%9C%B3%E5%81%9A%E6%8B%89%E7%9A%AE%E6%89%8B%E8%A1%93%E5%A4%B1%E6%95%97-%E8%87%89%E9%83%A8%E7%95%99%E6%81%90%E6%80%96%E7%96%A4%E7%97%95",
+    "timestamp": "2026-08-10T15:54:51.230Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美股｜道指早段偏軟　油價最新約升3%",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260809/1163246562952876032954782.jpeg/rFbvfCcVRUX00KxUBPgfKHhNi_IymfDuBjHQygYx0Mo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60378309/%E9%BB%83%E5%AD%90%E8%8F%AF%E4%BB%BB%E9%81%94%E8%8F%AF%E9%A4%90%E5%BB%B3%E9%A3%9F%E9%A3%AF%E8%A2%AB%E5%81%B6%E9%81%87-%E4%BC%B0%E5%94%94%E5%88%B0%E5%92%81fd%E7%B6%B2%E6%B0%91%E7%8C%9C%E6%B8%AC%E5%8D%B3%E5%B0%87%E9%96%8B%E6%96%B0%E6%88%B2",
     "timestamp": "2026-08-10T00:07:34.786Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普稱低調應對伊朗問題　暗示加大經濟施壓而非軍事打擊",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260810/1163363882144632832912354.jpeg/PVDI1BeTJkmQYk44FzzLibAwwP3ebXxex3MtzcdzLc0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60378339/%E7%89%B9%E6%9C%97%E6%99%AE%E7%A8%B1%E4%BD%8E%E8%AA%BF%E6%87%89%E5%B0%8D%E4%BC%8A%E6%9C%97%E5%95%8F%E9%A1%8C-%E6%9A%97%E7%A4%BA%E5%8A%A0%E5%A4%A7%E7%B6%93%E6%BF%9F%E6%96%BD%E5%A3%93%E8%80%8C%E9%9D%9E%E8%BB%8D%E4%BA%8B%E6%89%93%E6%93%8A",
-    "timestamp": "2026-08-09T23:48:50.922Z",
     "strategy": ".content-card__main"
   }
 ];
