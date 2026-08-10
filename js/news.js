@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-10T23:18:59.350Z
+// Last updated: 2026-08-10T23:36:19.889Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "醫療事故│小腸末端錯接胃部　術後3周才發現　英國醫生遭永久除名",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260810/1163508522764210176128037.png/3hSb0H_ZAJhMD60wUYD6-LTfO9KNLLwqhICTN4SAkzc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60377505/%E9%86%AB%E7%99%82%E4%BA%8B%E6%95%85-%E5%B0%8F%E8%85%B8%E6%9C%AB%E7%AB%AF%E9%8C%AF%E6%8E%A5%E8%83%83%E9%83%A8-%E8%A1%93%E5%BE%8C3%E5%91%A8%E6%89%8D%E7%99%BC%E7%8F%BE-%E8%8B%B1%E5%9C%8B%E9%86%AB%E7%94%9F%E9%81%AD%E6%B0%B8%E4%B9%85%E9%99%A4%E5%90%8D",
+    "timestamp": "2026-08-10T23:36:19.889Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "醫療事故│小腸末端錯接胃部　術後3周才發現　英國醫生遭永久除名",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260810/1163600243904745472831625.png/vrILXxG8k4r6uTcvdDLckCurS0LwoPcfv2YvB79mLwc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60378671/%E8%AC%9D%E8%B3%A2%E4%BD%8E%E8%AA%BF%E4%B8%8A%E4%BD%8D%E9%81%BA%E7%85%A7%E6%88%B4%E6%8B%9B%E7%89%8C%E9%BB%91%E8%B6%85-%E9%AA%A8%E7%81%B0%E5%AE%89%E6%94%BE%E5%AF%B6%E7%A6%8F%E5%B1%B1%E8%88%87%E5%BC%B5%E5%9C%8B%E6%A6%AE%E8%82%A5%E5%A7%90%E7%82%BA%E9%84%B0",
     "timestamp": "2026-08-10T13:51:10.930Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "TVB謀食AI大茶飯　夥拍基金拓相關算力服務　選址將軍澳工業邨",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20231206/809145810993287168870953.jpeg/H2wuserPnbdhRaygQZRfK1MVEJgV0JeSh7-nIoe_pyI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60378663/tvb%E8%AC%80%E9%A3%9Fai%E5%A4%A7%E8%8C%B6%E9%A3%AF-%E5%A4%A5%E6%8B%8D%E5%9F%BA%E9%87%91%E6%8B%93%E7%9B%B8%E9%97%9C%E7%AE%97%E5%8A%9B%E6%9C%8D%E5%8B%99-%E9%81%B8%E5%9D%80%E5%B0%87%E8%BB%8D%E6%BE%B3%E5%B7%A5%E6%A5%AD%E9%82%A8",
-    "timestamp": "2026-08-10T13:15:40.390Z",
     "strategy": ".content-card__main"
   }
 ];
