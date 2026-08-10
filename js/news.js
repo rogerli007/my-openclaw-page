@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-10T00:37:10.548Z
+// Last updated: 2026-08-10T01:16:33.983Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "酷熱天氣警告生效天文台料今明極端酷熱　本周後期部份地區有雷暴",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260805/1161554175167827968305294.jpeg/WTkLpKDggodlV2c90czHPmCNNPUWG44Rpd7LZaXey2U?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60378354/%E9%85%B7%E7%86%B1%E5%A4%A9%E6%B0%A3%E8%AD%A6%E5%91%8A%E7%94%9F%E6%95%88%E5%A4%A9%E6%96%87%E5%8F%B0%E6%96%99%E4%BB%8A%E6%98%8E%E6%A5%B5%E7%AB%AF%E9%85%B7%E7%86%B1-%E6%9C%AC%E5%91%A8%E5%BE%8C%E6%9C%9F%E9%83%A8%E4%BB%BD%E5%9C%B0%E5%8D%80%E6%9C%89%E9%9B%B7%E6%9A%B4",
+    "timestamp": "2026-08-10T01:16:33.983Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "孕婦9樓墮下不治！30分鐘後剖腹女嬰奇蹟存活　親屬照顧健康成長",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260809/1163141487039877120086497.jpeg/VcfcSbVZ0ABxRZYdqKofBE66XOP8HONopn-3KIx_tyg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60378331/%E5%B7%A5%E4%BD%9C%E6%9A%91%E7%86%B1%E8%AD%A6%E5%91%8A%E9%9B%B6%E7%B4%85%E8%89%B2-%E6%9E%97%E8%B6%85%E8%8B%B1-%E5%8B%9E%E5%B7%A5%E8%99%95%E9%8C%AF%E7%94%A8%E5%8F%83%E6%95%B8-%E6%8C%87%E6%A8%99%E5%A4%AA%E9%AB%98%E6%B7%AA%E9%99%B3%E5%88%97%E5%93%81",
     "timestamp": "2026-08-09T17:16:41.368Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "工作暑熱警告零紅色　林超英：勞工處錯用參數　指標太高淪陳列品",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260809/1163141487039877120086497.jpeg/VcfcSbVZ0ABxRZYdqKofBE66XOP8HONopn-3KIx_tyg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60378331/%E5%B7%A5%E4%BD%9C%E6%9A%91%E7%86%B1%E8%AD%A6%E5%91%8A%E9%9B%B6%E7%B4%85%E8%89%B2-%E6%9E%97%E8%B6%85%E8%8B%B1-%E5%8B%9E%E5%B7%A5%E8%99%95%E9%8C%AF%E7%94%A8%E5%8F%83%E6%95%B8-%E6%8C%87%E6%A8%99%E5%A4%AA%E9%AB%98%E6%B7%AA%E9%99%B3%E5%88%97%E5%93%81",
-    "timestamp": "2026-08-09T16:52:28.361Z",
     "strategy": ".content-card__main"
   }
 ];
