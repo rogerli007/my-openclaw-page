@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-11T04:51:26.348Z
+// Last updated: 2026-08-11T05:19:15.415Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "元朗潮州菜館$29七彩炒米粉！僅米粉配蘿蔔絲　網民嘲：食齋啱晒",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260808/1162841709286002688802379.png/pzc3sV4eyBSMAeAuYDywyzSchC67ZgiSHdb8cB3W_HA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60378105/%E5%85%83%E6%9C%97%E6%BD%AE%E5%B7%9E%E8%8F%9C%E9%A4%A8-29%E4%B8%83%E5%BD%A9%E7%82%92%E7%B1%B3%E7%B2%89-%E5%83%85%E7%B1%B3%E7%B2%89%E9%85%8D%E8%98%BF%E8%94%94%E7%B5%B2-%E7%B6%B2%E6%B0%91%E5%98%B2-%E9%A3%9F%E9%BD%8B%E5%95%B1%E6%99%92",
+    "timestamp": "2026-08-11T05:19:15.415Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "《無間道》女星炒股賠光20年積蓄又失業　爆有人伸援手網猜趙露思",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260810/1163611108930490368095264.jpeg/i5Sl9uHhHnO_vCtv2-WKTVRfY_yc0X9hd1apP01WqT8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60378681/%E5%90%B3%E8%8B%A5%E5%B8%8C%E5%81%9A-%E4%B8%89%E4%BB%A3%E5%90%8C%E7%B3%96-%E5%A5%B3%E4%B8%BB%E8%A7%92%E4%B8%8D%E6%93%94%E5%BF%83%E8%A2%AB%E6%8C%87-%E6%90%B6%E9%A3%AF%E7%A2%97-%E6%99%82%E4%BB%A3%E6%9C%83%E8%AE%8A%E9%81%B7",
     "timestamp": "2026-08-10T16:54:44.038Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "陳錦鴻初聞愛兒輕度智障　苦思數小時決心引退：唔想佢成社會負累",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260810/1163609097958854656023649.jpeg/WPEEyG2sLT8rjGK-UWYQWVBJldNJLf_jjgwmdo4MJnY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60378649/%E9%99%B3%E9%8C%A6%E9%B4%BB%E5%88%9D%E8%81%9E%E6%84%9B%E5%85%92%E8%BC%95%E5%BA%A6%E6%99%BA%E9%9A%9C-%E8%8B%A6%E6%80%9D%E6%95%B8%E5%B0%8F%E6%99%82%E6%B1%BA%E5%BF%83%E5%BC%95%E9%80%80-%E5%94%94%E6%83%B3%E4%BD%A2%E6%88%90%E7%A4%BE%E6%9C%83%E8%B2%A0%E7%B4%AF",
-    "timestamp": "2026-08-10T16:24:47.363Z",
     "strategy": ".content-card__main"
   }
 ];
