@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-11T21:52:34.619Z
+// Last updated: 2026-08-11T22:22:33.489Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "韓聯參：朝鮮向東部海域發射彈道導彈",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20231010/788396987723550720106823.jpeg/THDbBOkIwyVFDLz7Lcn7EXvhs9-jqPanUqI3S1KiN0s?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60379100/%E9%9F%93%E8%81%AF%E5%8F%83-%E6%9C%9D%E9%AE%AE%E5%90%91%E6%9D%B1%E9%83%A8%E6%B5%B7%E5%9F%9F%E7%99%BC%E5%B0%84%E5%BD%88%E9%81%93%E5%B0%8E%E5%BD%88",
+    "timestamp": "2026-08-11T22:22:33.489Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "羅馬尼亞黑海氣田發現漂流俄無人機　多國聯合清除水雷",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260811/1163904510926524416412358.png/9hez_4BUbpueFI15bfuK1ZWW2yMrkZaW_Ue3oP1Ht6A?v=w1920",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60378982/%E6%9C%89%E7%89%87-%E5%A4%A7%E8%A7%92%E5%92%80tesla%E8%BF%B4%E6%97%8B%E8%99%95%E5%81%9C%E4%BD%8E-%E4%BF%9D%E5%AE%89%E5%85%AC%E5%8F%B8%E8%B2%A8%E8%BB%8A%E5%BD%B1%E7%B7%9A%E5%BC%B7%E8%A1%8C%E6%93%A0%E5%85%A5%E8%87%B4%E7%9B%B8%E6%92%9E",
     "timestamp": "2026-08-11T10:37:45.159Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "有片│屯門大興邨老鼠極猖狂　施「縮骨功」跑入機房　附房署回應",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260809/1163182070554431488350746.jpeg/bDjZRAaTR7Q4BK5RHjTqBFU1yibzE86duw9bQrsPW0I",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60376841/%E6%9C%89%E7%89%87-%E5%B1%AF%E9%96%80%E5%A4%A7%E8%88%88%E9%82%A8%E8%80%81%E9%BC%A0%E6%A5%B5%E7%8C%96%E7%8B%82-%E6%96%BD-%E7%B8%AE%E9%AA%A8%E5%8A%9F-%E8%B7%91%E5%85%A5%E6%A9%9F%E6%88%BF-%E9%99%84%E6%88%BF%E7%BD%B2%E5%9B%9E%E6%87%89",
-    "timestamp": "2026-08-11T10:11:53.517Z",
     "strategy": ".content-card__main"
   }
 ];
