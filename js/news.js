@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-11T11:36:50.091Z
+// Last updated: 2026-08-11T12:40:29.128Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "貴州男迫女友同跳河卻獨自逃生　家屬尋女17年方知早已溺亡",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260811/1163916517025255424908627.jpeg/HieDbbkUrhCPC7vMngbRnDU6_uayEsoVkSA-_pEgPv4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60378995/%E8%B2%B4%E5%B7%9E%E7%94%B7%E8%BF%AB%E5%A5%B3%E5%8F%8B%E5%90%8C%E8%B7%B3%E6%B2%B3%E5%8D%BB%E7%8D%A8%E8%87%AA%E9%80%83%E7%94%9F-%E5%AE%B6%E5%B1%AC%E5%B0%8B%E5%A5%B317%E5%B9%B4%E6%96%B9%E7%9F%A5%E6%97%A9%E5%B7%B2%E6%BA%BA%E4%BA%A1",
+    "timestamp": "2026-08-11T12:40:29.128Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "一周星星｜周星馳激罕接受專訪　被劉嘉玲逼問「點解唔再做幕前」",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260811/1163718944993841152176258.jpeg/vinf0SEbws6PFbMeyFQ_QhrK455CVL1oZ1dW8mdXVvI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60378711/%E7%BE%8E%E5%9C%8B%E5%8B%99%E9%99%A2%E7%A8%B1%E5%8E%BB%E5%B9%B4%E5%88%9D%E4%BB%A5%E4%BE%86-%E5%B7%B2%E5%90%8A%E9%8A%B7%E9%80%BE17-5%E8%90%AC%E4%BB%BD%E5%A4%96%E5%9C%8B%E4%BA%BA%E7%B0%BD%E8%AD%89",
     "timestamp": "2026-08-10T21:52:23.252Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普反要求伊朗賠償　稱將納入未來談判",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260811/1163711830166605824241309.jpeg/W8CiNusm_bxe5mRtK6KFFaguAGT3bTkc41Ilx-NSJcc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60378709/%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%8D%E8%A6%81%E6%B1%82%E4%BC%8A%E6%9C%97%E8%B3%A0%E5%84%9F-%E7%A8%B1%E5%B0%87%E7%B4%8D%E5%85%A5%E6%9C%AA%E4%BE%86%E8%AB%87%E5%88%A4",
-    "timestamp": "2026-08-10T21:23:49.316Z",
     "strategy": ".content-card__main"
   }
 ];
