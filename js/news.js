@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-11T00:34:50.268Z
+// Last updated: 2026-08-11T02:35:07.024Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "白海豚風雨襲黃山致索道停運　遊客大打蛇餅苦等數小時落山｜有片",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260811/1163790102674018304192056.png/6qKKSriChiXTnzduxNrusQe1xrBKNWwAhrMdWoazHVo?v=w1920",
+    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60378756/%E7%99%BD%E6%B5%B7%E8%B1%9A%E9%A2%A8%E9%9B%A8%E8%A5%B2%E9%BB%83%E5%B1%B1%E8%87%B4%E7%B4%A2%E9%81%93%E5%81%9C%E9%81%8B-%E9%81%8A%E5%AE%A2%E5%A4%A7%E6%89%93%E8%9B%87%E9%A4%85%E8%8B%A6%E7%AD%89%E6%95%B8%E5%B0%8F%E6%99%82%E8%90%BD%E5%B1%B1-%E6%9C%89%E7%89%87",
+    "timestamp": "2026-08-11T02:35:07.024Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "警大嶼山打擊電動可移動工具　拘兩男扣兩車",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20230711/755576772082274304278540.jpeg/ypuM9dZizWRsjNQzGHwP_OpBc-rbZN5qMdiVBDHYlQQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60378686/%E7%BE%8E%E8%82%A1-%E9%81%93%E6%8C%87%E6%97%A9%E6%AE%B5%E5%81%8F%E8%BB%9F-%E6%B2%B9%E5%83%B9%E6%9C%80%E6%96%B0%E7%B4%84%E5%8D%873",
     "timestamp": "2026-08-10T15:29:28.892Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "警荃灣店舖檢4400隻鹹碟值$9萬　66歲男涉管有及發布淫褻物品被捕",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260810/1163611522040074240765291.jpeg/YZq49LmKzwTACCopZw_VpvgFLGuQawFZay2AZmstgGY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60378680/%E8%AD%A6%E8%8D%83%E7%81%A3%E5%BA%97%E8%88%96%E6%AA%A24400%E9%9A%BB%E9%B9%B9%E7%A2%9F%E5%80%BC-9%E8%90%AC-66%E6%AD%B2%E7%94%B7%E6%B6%89%E7%AE%A1%E6%9C%89%E5%8F%8A%E7%99%BC%E5%B8%83%E6%B7%AB%E8%A4%BB%E7%89%A9%E5%93%81%E8%A2%AB%E6%8D%95",
-    "timestamp": "2026-08-10T14:33:54.749Z",
     "strategy": ".content-card__main"
   }
 ];
