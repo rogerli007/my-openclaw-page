@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-11T02:35:07.024Z
+// Last updated: 2026-08-11T03:26:47.975Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "《香港01》北大滙豐創新創業大賽香港分站賽　中小學組初賽路演",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260807/1162427911735611392176308.jpeg/YEnSJ8-48VAOr4_NTSKqaIUut8WPiDa23x_T5d8f0-U?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E4%B8%AD%E5%B0%8F%E5%AD%B8%E6%A0%A1%E5%9C%92/60376930/%E9%A6%99%E6%B8%AF01-%E5%8C%97%E5%A4%A7%E6%BB%99%E8%B1%90%E5%89%B5%E6%96%B0%E5%89%B5%E6%A5%AD%E5%A4%A7%E8%B3%BD%E9%A6%99%E6%B8%AF%E5%88%86%E7%AB%99%E8%B3%BD-%E4%B8%AD%E5%B0%8F%E5%AD%B8%E7%B5%84%E5%88%9D%E8%B3%BD%E8%B7%AF%E6%BC%94",
+    "timestamp": "2026-08-11T03:26:47.975Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "白海豚風雨襲黃山致索道停運　遊客大打蛇餅苦等數小時落山｜有片",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260810/1163612155732299776861047.jpeg/GKRKdfZETi2yvZIIUydpVw3yMwJqhkG-VyUReFclEXg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60378682/%E6%9D%B1%E5%BC%B5%E8%A5%BF%E6%9C%9B-%E5%A7%8A%E5%A6%B9%E8%8A%B1%E6%B7%B1%E5%9C%B3%E5%81%9A%E6%8B%89%E7%9A%AE%E6%89%8B%E8%A1%93%E5%A4%B1%E6%95%97-%E8%87%89%E9%83%A8%E7%95%99%E6%81%90%E6%80%96%E7%96%A4%E7%97%95",
     "timestamp": "2026-08-10T15:54:51.230Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美股｜道指早段偏軟　油價最新約升3%",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20230711/755576772082274304278540.jpeg/ypuM9dZizWRsjNQzGHwP_OpBc-rbZN5qMdiVBDHYlQQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60378686/%E7%BE%8E%E8%82%A1-%E9%81%93%E6%8C%87%E6%97%A9%E6%AE%B5%E5%81%8F%E8%BB%9F-%E6%B2%B9%E5%83%B9%E6%9C%80%E6%96%B0%E7%B4%84%E5%8D%873",
-    "timestamp": "2026-08-10T15:29:28.892Z",
     "strategy": ".content-card__main"
   }
 ];
