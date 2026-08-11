@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-11T03:26:47.975Z
+// Last updated: 2026-08-11T04:51:26.348Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "《無間道》女星炒股賠光20年積蓄又失業　爆有人伸援手網猜趙露思",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260811/1163821091047608320643850.png/qZ_dF-qYjKx71wJXDrb4MxaEL6V0gU5KwI3vX8CN718?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60378797/%E7%84%A1%E9%96%93%E9%81%93-%E6%9C%B1%E9%8A%B3%E7%82%92%E8%82%A1%E8%B3%A0%E5%85%8920%E5%B9%B4%E7%A9%8D%E8%93%84%E5%8F%88%E5%A4%B1%E6%A5%AD-%E7%88%86%E6%9C%89%E4%BA%BA%E4%BC%B8%E6%8F%B4%E6%89%8B%E7%B6%B2%E7%8C%9C%E8%B6%99%E9%9C%B2%E6%80%9D",
+    "timestamp": "2026-08-11T04:51:26.348Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "《香港01》北大滙豐創新創業大賽香港分站賽　中小學組初賽路演",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260810/1163609097958854656023649.jpeg/WPEEyG2sLT8rjGK-UWYQWVBJldNJLf_jjgwmdo4MJnY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60378649/%E9%99%B3%E9%8C%A6%E9%B4%BB%E5%88%9D%E8%81%9E%E6%84%9B%E5%85%92%E8%BC%95%E5%BA%A6%E6%99%BA%E9%9A%9C-%E8%8B%A6%E6%80%9D%E6%95%B8%E5%B0%8F%E6%99%82%E6%B1%BA%E5%BF%83%E5%BC%95%E9%80%80-%E5%94%94%E6%83%B3%E4%BD%A2%E6%88%90%E7%A4%BE%E6%9C%83%E8%B2%A0%E7%B4%AF",
     "timestamp": "2026-08-10T16:24:47.363Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "東張西望｜姊妹花深圳做拉皮手術失敗　臉部留恐怖疤痕",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260810/1163612155732299776861047.jpeg/GKRKdfZETi2yvZIIUydpVw3yMwJqhkG-VyUReFclEXg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60378682/%E6%9D%B1%E5%BC%B5%E8%A5%BF%E6%9C%9B-%E5%A7%8A%E5%A6%B9%E8%8A%B1%E6%B7%B1%E5%9C%B3%E5%81%9A%E6%8B%89%E7%9A%AE%E6%89%8B%E8%A1%93%E5%A4%B1%E6%95%97-%E8%87%89%E9%83%A8%E7%95%99%E6%81%90%E6%80%96%E7%96%A4%E7%97%95",
-    "timestamp": "2026-08-10T15:54:51.230Z",
     "strategy": ".content-card__main"
   }
 ];
