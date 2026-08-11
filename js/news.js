@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-11T12:40:29.128Z
+// Last updated: 2026-08-11T13:00:41.241Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "特朗普簽令縮減兒童接種疫苗項目　港衞生署：更改計劃須科學為本",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/2304099/org/c279221789c16b41d92b2cda31bac0e0.jpg/iA8tj2AJ13ou4wIjtBVZWm8c7rGvpAh95SVEQuUlREI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60379030/%E7%89%B9%E6%9C%97%E6%99%AE%E7%B0%BD%E4%BB%A4%E7%B8%AE%E6%B8%9B%E5%85%92%E7%AB%A5%E6%8E%A5%E7%A8%AE%E7%96%AB%E8%8B%97%E9%A0%85%E7%9B%AE-%E6%B8%AF%E8%A1%9E%E7%94%9F%E7%BD%B2-%E6%9B%B4%E6%94%B9%E8%A8%88%E5%8A%83%E9%A0%88%E7%A7%91%E5%AD%B8%E7%82%BA%E6%9C%AC",
+    "timestamp": "2026-08-11T13:00:41.241Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "貴州男迫女友同跳河卻獨自逃生　家屬尋女17年方知早已溺亡",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260811/1163728998253989888635974.jpeg/HMz2flpD4JWo9OtMuSoLUVbUPS0SQK_e-HUC1Ph1AtQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60378691/%E6%A5%B5%E7%AB%AF%E9%85%B7%E7%86%B1-%E4%BB%8A%E6%97%A5%E9%83%A8%E4%BB%BD%E5%9C%B0%E5%8D%80%E6%96%9937%E5%BA%A6%E6%88%96%E4%BB%A5%E4%B8%8A-%E6%9C%AA%E4%BE%86%E5%85%A9%E6%97%A5%E4%BB%8D%E9%81%9434%E5%BA%A6",
     "timestamp": "2026-08-10T22:20:02.304Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美國務院稱去年初以來　已吊銷逾17.5萬份外國人簽證",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260811/1163718944993841152176258.jpeg/vinf0SEbws6PFbMeyFQ_QhrK455CVL1oZ1dW8mdXVvI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60378711/%E7%BE%8E%E5%9C%8B%E5%8B%99%E9%99%A2%E7%A8%B1%E5%8E%BB%E5%B9%B4%E5%88%9D%E4%BB%A5%E4%BE%86-%E5%B7%B2%E5%90%8A%E9%8A%B7%E9%80%BE17-5%E8%90%AC%E4%BB%BD%E5%A4%96%E5%9C%8B%E4%BA%BA%E7%B0%BD%E8%AD%89",
-    "timestamp": "2026-08-10T21:52:23.252Z",
     "strategy": ".content-card__main"
   }
 ];
