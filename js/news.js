@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-11T10:37:45.159Z
+// Last updated: 2026-08-11T11:08:07.530Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "助理教師涉未向校方披露受查　辯稱廉署曾警告不可披露　欺詐罪成",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260115/1088456747309338624104253.jpeg/yG8UqmJLHw-CyiBN-gCyd4YFyTaZgoFtkX8SmLR_Epg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60379021/%E5%8A%A9%E7%90%86%E6%95%99%E5%B8%AB%E6%B6%89%E6%9C%AA%E5%90%91%E6%A0%A1%E6%96%B9%E6%8A%AB%E9%9C%B2%E5%8F%97%E6%9F%A5-%E8%BE%AF%E7%A8%B1%E5%BB%89%E7%BD%B2%E6%9B%BE%E8%AD%A6%E5%91%8A%E4%B8%8D%E5%8F%AF%E6%8A%AB%E9%9C%B2-%E6%AC%BA%E8%A9%90%E7%BD%AA%E6%88%90",
+    "timestamp": "2026-08-11T11:08:07.530Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "有片｜大角咀Tesla迴旋處停低　保安公司貨車影線強行擠入致相撞",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260811/1163691304954105856612430.jpeg/TpUTFeUEs1Z7u0txk-rN1cfZXFdbV6fM45onJ-OaJyc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60378708/%E6%B2%B9%E9%BA%BB%E5%9C%B0%E7%91%AA%E8%8E%8E%E6%8B%89%E8%92%82%E7%88%86%E5%91%94%E5%81%9C%E8%B7%AF%E9%82%8A-%E5%8F%B8%E6%A9%9F%E9%81%AD%E8%AA%BF%E6%9F%A5%E6%A3%84%E8%BB%8A%E9%80%83%E8%B5%B0-%E8%AD%A6%E5%93%A1%E8%BB%8A%E4%B8%8A%E6%AA%A2%E6%AF%92%E5%93%81",
     "timestamp": "2026-08-10T20:52:03.004Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "油麻地瑪莎拉蒂爆呔停路邊　司機遭調查棄車逃走　警員車上檢毒品",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260811/1163691304954105856612430.jpeg/TpUTFeUEs1Z7u0txk-rN1cfZXFdbV6fM45onJ-OaJyc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60378708/%E6%B2%B9%E9%BA%BB%E5%9C%B0%E7%91%AA%E8%8E%8E%E6%8B%89%E8%92%82%E7%88%86%E5%91%94%E5%81%9C%E8%B7%AF%E9%82%8A-%E5%8F%B8%E6%A9%9F%E9%81%AD%E8%AA%BF%E6%9F%A5%E6%A3%84%E8%BB%8A%E9%80%83%E8%B5%B0-%E8%AD%A6%E5%93%A1%E8%BB%8A%E4%B8%8A%E6%AA%A2%E6%AF%92%E5%93%81",
-    "timestamp": "2026-08-10T20:20:37.025Z",
     "strategy": ".content-card__main"
   }
 ];
