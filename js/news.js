@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-11T20:57:30.978Z
+// Last updated: 2026-08-11T21:52:34.619Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "羅馬尼亞黑海氣田發現漂流俄無人機　多國聯合清除水雷",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260812/1164080587577757696718902.png/fpZQ4c53dU7zNopRjFV-sfGU__T79f7HCk03DwpNNw8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60379097/%E7%BE%85%E9%A6%AC%E5%B0%BC%E4%BA%9E%E9%BB%91%E6%B5%B7%E6%B0%A3%E7%94%B0%E7%99%BC%E7%8F%BE%E6%BC%82%E6%B5%81%E4%BF%84%E7%84%A1%E4%BA%BA%E6%A9%9F-%E5%A4%9A%E5%9C%8B%E8%81%AF%E5%90%88%E6%B8%85%E9%99%A4%E6%B0%B4%E9%9B%B7",
+    "timestamp": "2026-08-11T21:52:34.619Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "俄襲扎波羅熱鋼鐵廠釀7死　基輔指莫斯科動用朝鮮導彈",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260809/1163182070554431488350746.jpeg/bDjZRAaTR7Q4BK5RHjTqBFU1yibzE86duw9bQrsPW0I",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60376841/%E6%9C%89%E7%89%87-%E5%B1%AF%E9%96%80%E5%A4%A7%E8%88%88%E9%82%A8%E8%80%81%E9%BC%A0%E6%A5%B5%E7%8C%96%E7%8B%82-%E6%96%BD-%E7%B8%AE%E9%AA%A8%E5%8A%9F-%E8%B7%91%E5%85%A5%E6%A9%9F%E6%88%BF-%E9%99%84%E6%88%BF%E7%BD%B2%E5%9B%9E%E6%87%89",
     "timestamp": "2026-08-11T10:11:53.517Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "哥倫比亞地震瞬間：機場下「天花雨」遊客赤腳逃生　廣場沙塵滾滾",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260811/1163897747943067648480971.jpeg/85lT6fNbZ9WcVuO8u4IpFYhphG_misJjMFeNXjBXjV4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60378964/%E5%93%A5%E5%80%AB%E6%AF%94%E4%BA%9E%E5%9C%B0%E9%9C%87%E7%9E%AC%E9%96%93-%E6%A9%9F%E5%A0%B4%E4%B8%8B-%E5%A4%A9%E8%8A%B1%E9%9B%A8-%E9%81%8A%E5%AE%A2%E8%B5%A4%E8%85%B3%E9%80%83%E7%94%9F-%E5%BB%A3%E5%A0%B4%E6%B2%99%E5%A1%B5%E6%BB%BE%E6%BB%BE",
-    "timestamp": "2026-08-11T09:40:46.417Z",
     "strategy": ".content-card__main"
   }
 ];
