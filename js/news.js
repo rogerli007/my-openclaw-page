@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-11T10:11:53.517Z
+// Last updated: 2026-08-11T10:37:45.159Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "有片｜大角咀Tesla迴旋處停低　保安公司貨車影線強行擠入致相撞",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260811/1163904510926524416412358.png/9hez_4BUbpueFI15bfuK1ZWW2yMrkZaW_Ue3oP1Ht6A?v=w1920",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60378982/%E6%9C%89%E7%89%87-%E5%A4%A7%E8%A7%92%E5%92%80tesla%E8%BF%B4%E6%97%8B%E8%99%95%E5%81%9C%E4%BD%8E-%E4%BF%9D%E5%AE%89%E5%85%AC%E5%8F%B8%E8%B2%A8%E8%BB%8A%E5%BD%B1%E7%B7%9A%E5%BC%B7%E8%A1%8C%E6%93%A0%E5%85%A5%E8%87%B4%E7%9B%B8%E6%92%9E",
+    "timestamp": "2026-08-11T10:37:45.159Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "有片│屯門大興邨老鼠極猖狂　施「縮骨功」跑入機房　附房署回應",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260811/1163691304954105856612430.jpeg/TpUTFeUEs1Z7u0txk-rN1cfZXFdbV6fM45onJ-OaJyc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60378708/%E6%B2%B9%E9%BA%BB%E5%9C%B0%E7%91%AA%E8%8E%8E%E6%8B%89%E8%92%82%E7%88%86%E5%91%94%E5%81%9C%E8%B7%AF%E9%82%8A-%E5%8F%B8%E6%A9%9F%E9%81%AD%E8%AA%BF%E6%9F%A5%E6%A3%84%E8%BB%8A%E9%80%83%E8%B5%B0-%E8%AD%A6%E5%93%A1%E8%BB%8A%E4%B8%8A%E6%AA%A2%E6%AF%92%E5%93%81",
     "timestamp": "2026-08-10T20:20:37.025Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "油麻地瑪莎拉蒂爆呔停路邊　司機遭調查棄車逃走　警員車上檢毒品",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260811/1163691304954105856612430.jpeg/TpUTFeUEs1Z7u0txk-rN1cfZXFdbV6fM45onJ-OaJyc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60378708/%E6%B2%B9%E9%BA%BB%E5%9C%B0%E7%91%AA%E8%8E%8E%E6%8B%89%E8%92%82%E7%88%86%E5%91%94%E5%81%9C%E8%B7%AF%E9%82%8A-%E5%8F%B8%E6%A9%9F%E9%81%AD%E8%AA%BF%E6%9F%A5%E6%A3%84%E8%BB%8A%E9%80%83%E8%B5%B0-%E8%AD%A6%E5%93%A1%E8%BB%8A%E4%B8%8A%E6%AA%A2%E6%AF%92%E5%93%81",
-    "timestamp": "2026-08-10T19:55:07.981Z",
     "strategy": ".content-card__main"
   }
 ];
