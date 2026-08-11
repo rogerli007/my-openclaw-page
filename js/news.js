@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-11T18:39:10.082Z
+// Last updated: 2026-08-11T19:15:34.558Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "泰國暫停發放購槍許可證　將修訂《槍支法》加強管制",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260812/1164036566889271296925017.jpeg/j7e7wk-591iXWFUUvQnNZs9fmgeWtO46aNOJz2jTic8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60379087/%E6%B3%B0%E5%9C%8B%E6%9A%AB%E5%81%9C%E7%99%BC%E6%94%BE%E8%B3%BC%E6%A7%8D%E8%A8%B1%E5%8F%AF%E8%AD%89-%E5%B0%87%E4%BF%AE%E8%A8%82-%E6%A7%8D%E6%94%AF%E6%B3%95-%E5%8A%A0%E5%BC%B7%E7%AE%A1%E5%88%B6",
+    "timestamp": "2026-08-11T19:15:34.558Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "哥倫比亞7.4級強震逾250人死　救援隊挖掘瓦礫尋生還者",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260811/1163862576119943168473986.jpeg/me23uDBU7d_alvuuGgaywjPxU2mhRJ5zOZEtaDmRLWg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60378877/%E6%B1%9F%E6%BE%A4%E6%B0%91%E8%AA%95%E8%BE%B0100%E5%91%A8%E5%B9%B4%E5%B0%87%E8%87%B3-%E5%A4%AE%E8%A6%96%E5%91%A8%E4%BA%8C%E9%A6%96%E6%92%AD-%E6%B1%9F%E6%BE%A4%E6%B0%91-%E6%96%87%E7%8D%BB%E7%B4%80%E9%8C%84%E7%89%87",
     "timestamp": "2026-08-11T07:14:58.922Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "集英社MANGA MILLION免費睇漫畫！海賊王/鬼滅/咒術400部神作任睇",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260811/1163841223518064640970134.png/tzlPzspRLsI4n_J6fwv_2qJtuW_uws6PNdj0BDXY9AQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%81%8A%E6%88%B2%E5%8B%95%E6%BC%AB/60378839/%E9%9B%86%E8%8B%B1%E7%A4%BEmanga-million%E5%85%8D%E8%B2%BB%E7%9D%87%E6%BC%AB%E7%95%AB-%E6%B5%B7%E8%B3%8A%E7%8E%8B-%E9%AC%BC%E6%BB%85-%E5%92%92%E8%A1%93400%E9%83%A8%E7%A5%9E%E4%BD%9C%E4%BB%BB%E7%9D%87",
-    "timestamp": "2026-08-11T05:45:00.673Z",
     "strategy": ".content-card__main"
   }
 ];
