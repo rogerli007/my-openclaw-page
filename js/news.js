@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-11T09:40:46.417Z
+// Last updated: 2026-08-11T10:11:53.517Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "有片│屯門大興邨老鼠極猖狂　施「縮骨功」跑入機房　附房署回應",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260809/1163182070554431488350746.jpeg/bDjZRAaTR7Q4BK5RHjTqBFU1yibzE86duw9bQrsPW0I",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60376841/%E6%9C%89%E7%89%87-%E5%B1%AF%E9%96%80%E5%A4%A7%E8%88%88%E9%82%A8%E8%80%81%E9%BC%A0%E6%A5%B5%E7%8C%96%E7%8B%82-%E6%96%BD-%E7%B8%AE%E9%AA%A8%E5%8A%9F-%E8%B7%91%E5%85%A5%E6%A9%9F%E6%88%BF-%E9%99%84%E6%88%BF%E7%BD%B2%E5%9B%9E%E6%87%89",
+    "timestamp": "2026-08-11T10:11:53.517Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "哥倫比亞地震瞬間：機場下「天花雨」遊客赤腳逃生　廣場沙塵滾滾",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260811/1163691304954105856612430.jpeg/TpUTFeUEs1Z7u0txk-rN1cfZXFdbV6fM45onJ-OaJyc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60378708/%E6%B2%B9%E9%BA%BB%E5%9C%B0%E7%91%AA%E8%8E%8E%E6%8B%89%E8%92%82%E7%88%86%E5%91%94%E5%81%9C%E8%B7%AF%E9%82%8A-%E5%8F%B8%E6%A9%9F%E9%81%AD%E8%AA%BF%E6%9F%A5%E6%A3%84%E8%BB%8A%E9%80%83%E8%B5%B0-%E8%AD%A6%E5%93%A1%E8%BB%8A%E4%B8%8A%E6%AA%A2%E6%AF%92%E5%93%81",
     "timestamp": "2026-08-10T19:55:07.981Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "外媒：貝索斯等富豪組財團　擬收購利物浦1/3股權　協議即將達成",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260811/1163681109523828736428197.jpeg/E_skO2v_BWLIQu475WmxqF_MsrcJ2yJLwSGY88EhmPM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60378706/%E5%A4%96%E5%AA%92-%E8%B2%9D%E7%B4%A2%E6%96%AF%E7%AD%89%E5%AF%8C%E8%B1%AA%E7%B5%84%E8%B2%A1%E5%9C%98-%E6%93%AC%E6%94%B6%E8%B3%BC%E5%88%A9%E7%89%A9%E6%B5%A61-3%E8%82%A1%E6%AC%8A-%E5%8D%94%E8%AD%B0%E5%8D%B3%E5%B0%87%E9%81%94%E6%88%90",
-    "timestamp": "2026-08-10T19:30:20.540Z",
     "strategy": ".content-card__main"
   }
 ];
