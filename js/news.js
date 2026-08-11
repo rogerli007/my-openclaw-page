@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-11T17:12:23.658Z
+// Last updated: 2026-08-11T17:39:54.680Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "旺角單位遇竊　28歲男損失$29萬財物　包括勞力士名錶和VCA手鍊",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260812/1164013767428673536106739.jpeg/oQ_33Hul4hLCBGfmBOtq_BZxFR06vHJQEuZa_SjmWv0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60379079/%E6%97%BA%E8%A7%92%E5%96%AE%E4%BD%8D%E9%81%87%E7%AB%8A-28%E6%AD%B2%E7%94%B7%E6%90%8D%E5%A4%B1-29%E8%90%AC%E8%B2%A1%E7%89%A9-%E5%8C%85%E6%8B%AC%E5%8B%9E%E5%8A%9B%E5%A3%AB%E5%90%8D%E9%8C%B6%E5%92%8Cvca%E6%89%8B%E9%8D%8A",
+    "timestamp": "2026-08-11T17:39:54.680Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "水邊圍邨停電｜憶述浴室突然漆黑一片　女居民沖涼驚叫：咩事",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260811/1163821091047608320643850.png/qZ_dF-qYjKx71wJXDrb4MxaEL6V0gU5KwI3vX8CN718?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60378797/%E7%84%A1%E9%96%93%E9%81%93-%E6%9C%B1%E9%8A%B3%E7%82%92%E8%82%A1%E8%B3%A0%E5%85%8920%E5%B9%B4%E7%A9%8D%E8%93%84%E5%8F%88%E5%A4%B1%E6%A5%AD-%E7%88%86%E6%9C%89%E4%BA%BA%E4%BC%B8%E6%8F%B4%E6%89%8B%E7%B6%B2%E7%8C%9C%E8%B6%99%E9%9C%B2%E6%80%9D",
     "timestamp": "2026-08-11T04:51:26.348Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "《香港01》北大滙豐創新創業大賽香港分站賽　中小學組初賽路演",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260807/1162427911735611392176308.jpeg/YEnSJ8-48VAOr4_NTSKqaIUut8WPiDa23x_T5d8f0-U?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E4%B8%AD%E5%B0%8F%E5%AD%B8%E6%A0%A1%E5%9C%92/60376930/%E9%A6%99%E6%B8%AF01-%E5%8C%97%E5%A4%A7%E6%BB%99%E8%B1%90%E5%89%B5%E6%96%B0%E5%89%B5%E6%A5%AD%E5%A4%A7%E8%B3%BD%E9%A6%99%E6%B8%AF%E5%88%86%E7%AB%99%E8%B3%BD-%E4%B8%AD%E5%B0%8F%E5%AD%B8%E7%B5%84%E5%88%9D%E8%B3%BD%E8%B7%AF%E6%BC%94",
-    "timestamp": "2026-08-11T03:26:47.975Z",
     "strategy": ".content-card__main"
   }
 ];
