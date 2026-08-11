@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-11T17:39:54.680Z
+// Last updated: 2026-08-11T18:10:10.771Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "哥倫比亞7.4級強震逾250人死　救援隊挖掘瓦礫尋生還者",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260812/1164023756234952704678503.jpeg/CqQEMosbIbU-R8z0fI9Gr43j07n5VYzWy0evuctHr7k?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60379083/%E5%93%A5%E5%80%AB%E6%AF%94%E4%BA%9E7-4%E7%B4%9A%E5%BC%B7%E9%9C%87%E9%80%BE250%E4%BA%BA%E6%AD%BB-%E6%95%91%E6%8F%B4%E9%9A%8A%E6%8C%96%E6%8E%98%E7%93%A6%E7%A4%AB%E5%B0%8B%E7%94%9F%E9%82%84%E8%80%85",
+    "timestamp": "2026-08-11T18:10:10.771Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "旺角單位遇竊　28歲男損失$29萬財物　包括勞力士名錶和VCA手鍊",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260808/1162841709286002688802379.png/pzc3sV4eyBSMAeAuYDywyzSchC67ZgiSHdb8cB3W_HA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60378105/%E5%85%83%E6%9C%97%E6%BD%AE%E5%B7%9E%E8%8F%9C%E9%A4%A8-29%E4%B8%83%E5%BD%A9%E7%82%92%E7%B1%B3%E7%B2%89-%E5%83%85%E7%B1%B3%E7%B2%89%E9%85%8D%E8%98%BF%E8%94%94%E7%B5%B2-%E7%B6%B2%E6%B0%91%E5%98%B2-%E9%A3%9F%E9%BD%8B%E5%95%B1%E6%99%92",
     "timestamp": "2026-08-11T05:19:15.415Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "《無間道》女星炒股賠光20年積蓄又失業　爆有人伸援手網猜趙露思",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260811/1163821091047608320643850.png/qZ_dF-qYjKx71wJXDrb4MxaEL6V0gU5KwI3vX8CN718?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60378797/%E7%84%A1%E9%96%93%E9%81%93-%E6%9C%B1%E9%8A%B3%E7%82%92%E8%82%A1%E8%B3%A0%E5%85%8920%E5%B9%B4%E7%A9%8D%E8%93%84%E5%8F%88%E5%A4%B1%E6%A5%AD-%E7%88%86%E6%9C%89%E4%BA%BA%E4%BC%B8%E6%8F%B4%E6%89%8B%E7%B6%B2%E7%8C%9C%E8%B6%99%E9%9C%B2%E6%80%9D",
-    "timestamp": "2026-08-11T04:51:26.348Z",
     "strategy": ".content-card__main"
   }
 ];
