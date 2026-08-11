@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-11T15:39:55.301Z
+// Last updated: 2026-08-11T16:12:17.282Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "警荃灣打擊街頭賣淫檢大量避孕套　52歲女被捕　案件本月提堂",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260811/1163997728653447168802139.jpeg/iDH4DX2mfpwZ4_K8Mr1OWuCnWLB5-qTfuMuEsrjLhLI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60379072/%E8%AD%A6%E8%8D%83%E7%81%A3%E6%89%93%E6%93%8A%E8%A1%97%E9%A0%AD%E8%B3%A3%E6%B7%AB%E6%AA%A2%E5%A4%A7%E9%87%8F%E9%81%BF%E5%AD%95%E5%A5%97-52%E6%AD%B2%E5%A5%B3%E8%A2%AB%E6%8D%95-%E6%A1%88%E4%BB%B6%E6%9C%AC%E6%9C%88%E6%8F%90%E5%A0%82",
+    "timestamp": "2026-08-11T16:12:17.282Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "哥倫比亞7.4級大地震增至224死　習近平致慰問電",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260811/1163761384043843584940671.jpeg/6ZchWqgz6b-ZXMleanrKzMgFMRd4LBCS9ikS7PYpEuw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60378722/%E8%AD%A6%E5%A4%A7%E5%B6%BC%E5%B1%B1%E6%89%93%E6%93%8A%E9%9B%BB%E5%8B%95%E5%8F%AF%E7%A7%BB%E5%8B%95%E5%B7%A5%E5%85%B7-%E6%8B%98%E5%85%A9%E7%94%B7%E6%89%A3%E5%85%A9%E8%BB%8A",
     "timestamp": "2026-08-11T00:34:50.268Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "醫療事故│小腸末端錯接胃部　術後3周才發現　英國醫生遭永久除名",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260810/1163508522764210176128037.png/3hSb0H_ZAJhMD60wUYD6-LTfO9KNLLwqhICTN4SAkzc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60377505/%E9%86%AB%E7%99%82%E4%BA%8B%E6%95%85-%E5%B0%8F%E8%85%B8%E6%9C%AB%E7%AB%AF%E9%8C%AF%E6%8E%A5%E8%83%83%E9%83%A8-%E8%A1%93%E5%BE%8C3%E5%91%A8%E6%89%8D%E7%99%BC%E7%8F%BE-%E8%8B%B1%E5%9C%8B%E9%86%AB%E7%94%9F%E9%81%AD%E6%B0%B8%E4%B9%85%E9%99%A4%E5%90%8D",
-    "timestamp": "2026-08-10T23:36:19.889Z",
     "strategy": ".content-card__main"
   }
 ];
