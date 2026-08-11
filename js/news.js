@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-11T14:44:14.674Z
+// Last updated: 2026-08-11T15:13:06.061Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美股｜美伊協議露曙光　道指早段曾升近250點",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250529/1004894676605472768376024.jpeg/iqzPKOj7JcSNx3oGiU4TGDGAQwgoE4OSf6dts3-nbbM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60379063/%E7%BE%8E%E8%82%A1-%E7%BE%8E%E4%BC%8A%E5%8D%94%E8%AD%B0%E9%9C%B2%E6%9B%99%E5%85%89-%E9%81%93%E6%8C%87%E6%97%A9%E6%AE%B5%E6%9B%BE%E5%8D%87%E8%BF%91250%E9%BB%9E",
+    "timestamp": "2026-08-11T15:13:06.061Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "印度航空客機急墜91米釀17傷　印媒：機長驗毒對大麻呈陽性反應",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260810/1163508522764210176128037.png/3hSb0H_ZAJhMD60wUYD6-LTfO9KNLLwqhICTN4SAkzc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60377505/%E9%86%AB%E7%99%82%E4%BA%8B%E6%95%85-%E5%B0%8F%E8%85%B8%E6%9C%AB%E7%AB%AF%E9%8C%AF%E6%8E%A5%E8%83%83%E9%83%A8-%E8%A1%93%E5%BE%8C3%E5%91%A8%E6%89%8D%E7%99%BC%E7%8F%BE-%E8%8B%B1%E5%9C%8B%E9%86%AB%E7%94%9F%E9%81%AD%E6%B0%B8%E4%B9%85%E9%99%A4%E5%90%8D",
     "timestamp": "2026-08-10T23:18:59.350Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "《富貴逼人》「招弟」關珮琳近照　任跨國公司HR高層撐本地舞台劇",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260810/1163563160041426944418309.jpeg/wZpkvNrz0xbDMFKZF0MkCxP15h9npDA6v_stzr_7Lc4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60378633/%E5%AF%8C%E8%B2%B4%E9%80%BC%E4%BA%BA-%E6%8B%9B%E5%BC%9F-%E9%97%9C%E7%8F%AE%E7%90%B3%E8%BF%91%E7%85%A7-%E4%BB%BB%E8%B7%A8%E5%9C%8B%E5%85%AC%E5%8F%B8hr%E9%AB%98%E5%B1%A4%E6%92%90%E6%9C%AC%E5%9C%B0%E8%88%9E%E5%8F%B0%E5%8A%87",
-    "timestamp": "2026-08-10T22:53:53.123Z",
     "strategy": ".content-card__main"
   }
 ];
