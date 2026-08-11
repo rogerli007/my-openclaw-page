@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-10T23:36:19.889Z
+// Last updated: 2026-08-11T00:34:50.268Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "警大嶼山打擊電動可移動工具　拘兩男扣兩車",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260811/1163761384043843584940671.jpeg/6ZchWqgz6b-ZXMleanrKzMgFMRd4LBCS9ikS7PYpEuw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60378722/%E8%AD%A6%E5%A4%A7%E5%B6%BC%E5%B1%B1%E6%89%93%E6%93%8A%E9%9B%BB%E5%8B%95%E5%8F%AF%E7%A7%BB%E5%8B%95%E5%B7%A5%E5%85%B7-%E6%8B%98%E5%85%A9%E7%94%B7%E6%89%A3%E5%85%A9%E8%BB%8A",
+    "timestamp": "2026-08-11T00:34:50.268Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "醫療事故│小腸末端錯接胃部　術後3周才發現　英國醫生遭永久除名",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260810/1163611522040074240765291.jpeg/YZq49LmKzwTACCopZw_VpvgFLGuQawFZay2AZmstgGY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60378680/%E8%AD%A6%E8%8D%83%E7%81%A3%E5%BA%97%E8%88%96%E6%AA%A24400%E9%9A%BB%E9%B9%B9%E7%A2%9F%E5%80%BC-9%E8%90%AC-66%E6%AD%B2%E7%94%B7%E6%B6%89%E7%AE%A1%E6%9C%89%E5%8F%8A%E7%99%BC%E5%B8%83%E6%B7%AB%E8%A4%BB%E7%89%A9%E5%93%81%E8%A2%AB%E6%8D%95",
     "timestamp": "2026-08-10T14:33:54.749Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "謝賢低調上位遺照戴招牌黑超　骨灰安放寶福山與張國榮肥姐為鄰",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260810/1163600243904745472831625.png/vrILXxG8k4r6uTcvdDLckCurS0LwoPcfv2YvB79mLwc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60378671/%E8%AC%9D%E8%B3%A2%E4%BD%8E%E8%AA%BF%E4%B8%8A%E4%BD%8D%E9%81%BA%E7%85%A7%E6%88%B4%E6%8B%9B%E7%89%8C%E9%BB%91%E8%B6%85-%E9%AA%A8%E7%81%B0%E5%AE%89%E6%94%BE%E5%AF%B6%E7%A6%8F%E5%B1%B1%E8%88%87%E5%BC%B5%E5%9C%8B%E6%A6%AE%E8%82%A5%E5%A7%90%E7%82%BA%E9%84%B0",
-    "timestamp": "2026-08-10T13:51:10.930Z",
     "strategy": ".content-card__main"
   }
 ];
