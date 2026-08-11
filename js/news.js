@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-11T22:22:33.489Z
+// Last updated: 2026-08-11T22:51:53.250Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "玉女歌手三子全史丹福大學畢業　帶孫女遊名校書店培養第三代學霸",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260811/1163923337835974656428367.jpeg/rqpVkwxYkN2w9dj71zP5sRd44RyBVjOnCzo9tgs6PbY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60378952/%E9%99%B3%E7%BE%8E%E9%BD%A1%E4%B8%89%E5%AD%90%E5%85%A8%E5%8F%B2%E4%B8%B9%E7%A6%8F%E5%A4%A7%E5%AD%B8%E7%95%A2%E6%A5%AD-%E5%B8%B6%E5%AD%AB%E5%A5%B3%E9%81%8A%E5%90%8D%E6%A0%A1%E6%9B%B8%E5%BA%97%E5%9F%B9%E9%A4%8A%E7%AC%AC%E4%B8%89%E4%BB%A3%E5%AD%B8%E9%9C%B8",
+    "timestamp": "2026-08-11T22:51:53.250Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "韓聯參：朝鮮向東部海域發射彈道導彈",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260115/1088456747309338624104253.jpeg/yG8UqmJLHw-CyiBN-gCyd4YFyTaZgoFtkX8SmLR_Epg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60379021/%E5%8A%A9%E7%90%86%E6%95%99%E5%B8%AB%E6%B6%89%E6%9C%AA%E5%90%91%E6%A0%A1%E6%96%B9%E6%8A%AB%E9%9C%B2%E5%8F%97%E6%9F%A5-%E8%BE%AF%E7%A8%B1%E5%BB%89%E7%BD%B2%E6%9B%BE%E8%AD%A6%E5%91%8A%E4%B8%8D%E5%8F%AF%E6%8A%AB%E9%9C%B2-%E6%AC%BA%E8%A9%90%E7%BD%AA%E6%88%90",
     "timestamp": "2026-08-11T11:08:07.530Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "有片｜大角咀Tesla迴旋處停低　保安公司貨車影線強行擠入致相撞",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260811/1163904510926524416412358.png/9hez_4BUbpueFI15bfuK1ZWW2yMrkZaW_Ue3oP1Ht6A?v=w1920",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60378982/%E6%9C%89%E7%89%87-%E5%A4%A7%E8%A7%92%E5%92%80tesla%E8%BF%B4%E6%97%8B%E8%99%95%E5%81%9C%E4%BD%8E-%E4%BF%9D%E5%AE%89%E5%85%AC%E5%8F%B8%E8%B2%A8%E8%BB%8A%E5%BD%B1%E7%B7%9A%E5%BC%B7%E8%A1%8C%E6%93%A0%E5%85%A5%E8%87%B4%E7%9B%B8%E6%92%9E",
-    "timestamp": "2026-08-11T10:37:45.159Z",
     "strategy": ".content-card__main"
   }
 ];
