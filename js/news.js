@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-11T15:13:06.061Z
+// Last updated: 2026-08-11T15:39:55.301Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "哥倫比亞7.4級大地震增至224死　習近平致慰問電",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260811/1163967768240852992258093.jpeg/7xGwM2bz3Yxth_CvLQa2nTDB4x6BsTw9FB-DJRQfgyU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60379051/%E5%93%A5%E5%80%AB%E6%AF%94%E4%BA%9E7-4%E7%B4%9A%E5%A4%A7%E5%9C%B0%E9%9C%87%E5%A2%9E%E8%87%B3224%E6%AD%BB-%E7%BF%92%E8%BF%91%E5%B9%B3%E8%87%B4%E6%85%B0%E5%95%8F%E9%9B%BB",
+    "timestamp": "2026-08-11T15:39:55.301Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美股｜美伊協議露曙光　道指早段曾升近250點",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260810/1163508522764210176128037.png/3hSb0H_ZAJhMD60wUYD6-LTfO9KNLLwqhICTN4SAkzc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60377505/%E9%86%AB%E7%99%82%E4%BA%8B%E6%95%85-%E5%B0%8F%E8%85%B8%E6%9C%AB%E7%AB%AF%E9%8C%AF%E6%8E%A5%E8%83%83%E9%83%A8-%E8%A1%93%E5%BE%8C3%E5%91%A8%E6%89%8D%E7%99%BC%E7%8F%BE-%E8%8B%B1%E5%9C%8B%E9%86%AB%E7%94%9F%E9%81%AD%E6%B0%B8%E4%B9%85%E9%99%A4%E5%90%8D",
     "timestamp": "2026-08-10T23:36:19.889Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "醫療事故│小腸末端錯接胃部　術後3周才發現　英國醫生遭永久除名",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260810/1163508522764210176128037.png/3hSb0H_ZAJhMD60wUYD6-LTfO9KNLLwqhICTN4SAkzc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60377505/%E9%86%AB%E7%99%82%E4%BA%8B%E6%95%85-%E5%B0%8F%E8%85%B8%E6%9C%AB%E7%AB%AF%E9%8C%AF%E6%8E%A5%E8%83%83%E9%83%A8-%E8%A1%93%E5%BE%8C3%E5%91%A8%E6%89%8D%E7%99%BC%E7%8F%BE-%E8%8B%B1%E5%9C%8B%E9%86%AB%E7%94%9F%E9%81%AD%E6%B0%B8%E4%B9%85%E9%99%A4%E5%90%8D",
-    "timestamp": "2026-08-10T23:18:59.350Z",
     "strategy": ".content-card__main"
   }
 ];
