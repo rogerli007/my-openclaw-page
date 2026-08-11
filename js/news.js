@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-11T07:47:29.799Z
+// Last updated: 2026-08-11T08:41:36.689Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "財經視野｜貝森特誓言不惜一切救日圓　惟美方彈藥惹質疑",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260804/1161297775586054144324951.jpeg/gVTUqw6W72aI_edoWHtKJO_E__t3DSAlKF1CayhdQms?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60378904/%E8%B2%A1%E7%B6%93%E8%A6%96%E9%87%8E-%E8%B2%9D%E6%A3%AE%E7%89%B9%E8%AA%93%E8%A8%80%E4%B8%8D%E6%83%9C%E4%B8%80%E5%88%87%E6%95%91%E6%97%A5%E5%9C%93-%E6%83%9F%E7%BE%8E%E6%96%B9%E5%BD%88%E8%97%A5%E6%83%B9%E8%B3%AA%E7%96%91",
+    "timestamp": "2026-08-11T08:41:36.689Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "隱形眼鏡｜夏天戴con四大注意點！眼科醫生提醒避免細菌感染傷眼",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260811/1163672824934567936359720.jpeg/RRmUMS6lHVmY57l4PwtHIK_VS9qN03Nw48fVoePH1aE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60378699/%E5%93%A5%E5%80%AB%E6%AF%94%E4%BA%9E%E8%A5%BF%E9%83%A87-4%E7%B4%9A%E5%9C%B0%E9%9C%87-%E5%A4%9A%E5%9C%B0%E6%9C%89%E5%BB%BA%E7%AF%89%E7%89%A9%E5%80%92%E5%A1%8C-%E8%87%B3%E5%B0%9182%E4%BA%BA%E6%AD%BB%E4%BA%A1",
     "timestamp": "2026-08-10T18:55:00.270Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "全國生態日｜多項活動及優惠　濕地公園免費開放　綠在區區雙倍分",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20230815/768164082846011392714620.jpeg/3PYFqmWnOPFhgkOY6rjJ34CD3sqtsnh2aKI8n2iiPJ8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60378697/%E5%85%A8%E5%9C%8B%E7%94%9F%E6%85%8B%E6%97%A5-%E5%A4%9A%E9%A0%85%E6%B4%BB%E5%8B%95%E5%8F%8A%E5%84%AA%E6%83%A0-%E6%BF%95%E5%9C%B0%E5%85%AC%E5%9C%92%E5%85%8D%E8%B2%BB%E9%96%8B%E6%94%BE-%E7%B6%A0%E5%9C%A8%E5%8D%80%E5%8D%80%E9%9B%99%E5%80%8D%E5%88%86",
-    "timestamp": "2026-08-10T18:25:36.843Z",
     "strategy": ".content-card__main"
   }
 ];
