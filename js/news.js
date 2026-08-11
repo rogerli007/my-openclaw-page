@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-11T19:15:34.558Z
+// Last updated: 2026-08-11T19:46:42.012Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "泰國暫停發放購槍許可證　將修訂《槍支法》加強管制",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260812/1164036566889271296925017.jpeg/j7e7wk-591iXWFUUvQnNZs9fmgeWtO46aNOJz2jTic8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60379087/%E6%B3%B0%E5%9C%8B%E6%9A%AB%E5%81%9C%E7%99%BC%E6%94%BE%E8%B3%BC%E6%A7%8D%E8%A8%B1%E5%8F%AF%E8%AD%89-%E5%B0%87%E4%BF%AE%E8%A8%82-%E6%A7%8D%E6%94%AF%E6%B3%95-%E5%8A%A0%E5%BC%B7%E7%AE%A1%E5%88%B6",
+    "timestamp": "2026-08-11T19:46:42.012Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "泰國暫停發放購槍許可證　將修訂《槍支法》加強管制",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260811/1163846649420713984935617.jpeg/pHncH1RP1tgcGxTbDd8etzVhozIYmA034SBEj-EgRI8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/60378519/%E9%9A%B1%E5%BD%A2%E7%9C%BC%E9%8F%A1-%E5%A4%8F%E5%A4%A9%E6%88%B4con%E5%9B%9B%E5%A4%A7%E6%B3%A8%E6%84%8F%E9%BB%9E-%E7%9C%BC%E7%A7%91%E9%86%AB%E7%94%9F%E6%8F%90%E9%86%92%E9%81%BF%E5%85%8D%E7%B4%B0%E8%8F%8C%E6%84%9F%E6%9F%93%E5%82%B7%E7%9C%BC",
     "timestamp": "2026-08-11T07:47:29.799Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "江澤民誕辰100周年將至　央視周二首播《江澤民》文獻紀錄片",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260811/1163862576119943168473986.jpeg/me23uDBU7d_alvuuGgaywjPxU2mhRJ5zOZEtaDmRLWg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60378877/%E6%B1%9F%E6%BE%A4%E6%B0%91%E8%AA%95%E8%BE%B0100%E5%91%A8%E5%B9%B4%E5%B0%87%E8%87%B3-%E5%A4%AE%E8%A6%96%E5%91%A8%E4%BA%8C%E9%A6%96%E6%92%AD-%E6%B1%9F%E6%BE%A4%E6%B0%91-%E6%96%87%E7%8D%BB%E7%B4%80%E9%8C%84%E7%89%87",
-    "timestamp": "2026-08-11T07:14:58.922Z",
     "strategy": ".content-card__main"
   }
 ];
