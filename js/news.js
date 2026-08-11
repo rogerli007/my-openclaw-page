@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-11T08:41:36.689Z
+// Last updated: 2026-08-11T09:40:46.417Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "哥倫比亞地震瞬間：機場下「天花雨」遊客赤腳逃生　廣場沙塵滾滾",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260811/1163897747943067648480971.jpeg/85lT6fNbZ9WcVuO8u4IpFYhphG_misJjMFeNXjBXjV4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60378964/%E5%93%A5%E5%80%AB%E6%AF%94%E4%BA%9E%E5%9C%B0%E9%9C%87%E7%9E%AC%E9%96%93-%E6%A9%9F%E5%A0%B4%E4%B8%8B-%E5%A4%A9%E8%8A%B1%E9%9B%A8-%E9%81%8A%E5%AE%A2%E8%B5%A4%E8%85%B3%E9%80%83%E7%94%9F-%E5%BB%A3%E5%A0%B4%E6%B2%99%E5%A1%B5%E6%BB%BE%E6%BB%BE",
+    "timestamp": "2026-08-11T09:40:46.417Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "財經視野｜貝森特誓言不惜一切救日圓　惟美方彈藥惹質疑",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260811/1163681109523828736428197.jpeg/E_skO2v_BWLIQu475WmxqF_MsrcJ2yJLwSGY88EhmPM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60378706/%E5%A4%96%E5%AA%92-%E8%B2%9D%E7%B4%A2%E6%96%AF%E7%AD%89%E5%AF%8C%E8%B1%AA%E7%B5%84%E8%B2%A1%E5%9C%98-%E6%93%AC%E6%94%B6%E8%B3%BC%E5%88%A9%E7%89%A9%E6%B5%A61-3%E8%82%A1%E6%AC%8A-%E5%8D%94%E8%AD%B0%E5%8D%B3%E5%B0%87%E9%81%94%E6%88%90",
     "timestamp": "2026-08-10T19:30:20.540Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "哥倫比亞西部7.4級地震　多地有建築物倒塌　至少82人死亡",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260811/1163672824934567936359720.jpeg/RRmUMS6lHVmY57l4PwtHIK_VS9qN03Nw48fVoePH1aE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60378699/%E5%93%A5%E5%80%AB%E6%AF%94%E4%BA%9E%E8%A5%BF%E9%83%A87-4%E7%B4%9A%E5%9C%B0%E9%9C%87-%E5%A4%9A%E5%9C%B0%E6%9C%89%E5%BB%BA%E7%AF%89%E7%89%A9%E5%80%92%E5%A1%8C-%E8%87%B3%E5%B0%9182%E4%BA%BA%E6%AD%BB%E4%BA%A1",
-    "timestamp": "2026-08-10T18:55:00.270Z",
     "strategy": ".content-card__main"
   }
 ];
