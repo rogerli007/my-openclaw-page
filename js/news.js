@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-11T05:45:00.673Z
+// Last updated: 2026-08-11T07:14:58.922Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "江澤民誕辰100周年將至　央視周二首播《江澤民》文獻紀錄片",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260811/1163862576119943168473986.jpeg/me23uDBU7d_alvuuGgaywjPxU2mhRJ5zOZEtaDmRLWg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60378877/%E6%B1%9F%E6%BE%A4%E6%B0%91%E8%AA%95%E8%BE%B0100%E5%91%A8%E5%B9%B4%E5%B0%87%E8%87%B3-%E5%A4%AE%E8%A6%96%E5%91%A8%E4%BA%8C%E9%A6%96%E6%92%AD-%E6%B1%9F%E6%BE%A4%E6%B0%91-%E6%96%87%E7%8D%BB%E7%B4%80%E9%8C%84%E7%89%87",
+    "timestamp": "2026-08-11T07:14:58.922Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "集英社MANGA MILLION免費睇漫畫！海賊王/鬼滅/咒術400部神作任睇",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260810/1163611108930490368095264.jpeg/i5Sl9uHhHnO_vCtv2-WKTVRfY_yc0X9hd1apP01WqT8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60378681/%E5%90%B3%E8%8B%A5%E5%B8%8C%E5%81%9A-%E4%B8%89%E4%BB%A3%E5%90%8C%E7%B3%96-%E5%A5%B3%E4%B8%BB%E8%A7%92%E4%B8%8D%E6%93%94%E5%BF%83%E8%A2%AB%E6%8C%87-%E6%90%B6%E9%A3%AF%E7%A2%97-%E6%99%82%E4%BB%A3%E6%9C%83%E8%AE%8A%E9%81%B7",
     "timestamp": "2026-08-10T17:53:17.822Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "吳若希做《三代同糖》女主角不擔心被指「搶飯碗」：時代會變遷",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260810/1163611108930490368095264.jpeg/i5Sl9uHhHnO_vCtv2-WKTVRfY_yc0X9hd1apP01WqT8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60378681/%E5%90%B3%E8%8B%A5%E5%B8%8C%E5%81%9A-%E4%B8%89%E4%BB%A3%E5%90%8C%E7%B3%96-%E5%A5%B3%E4%B8%BB%E8%A7%92%E4%B8%8D%E6%93%94%E5%BF%83%E8%A2%AB%E6%8C%87-%E6%90%B6%E9%A3%AF%E7%A2%97-%E6%99%82%E4%BB%A3%E6%9C%83%E8%AE%8A%E9%81%B7",
-    "timestamp": "2026-08-10T17:25:01.599Z",
     "strategy": ".content-card__main"
   }
 ];
