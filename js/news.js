@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-11T19:46:42.012Z
+// Last updated: 2026-08-11T20:33:52.624Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "俄襲扎波羅熱鋼鐵廠釀7死　基輔指莫斯科動用朝鮮導彈",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260812/1164060833261555712163509.jpeg/Xk3hyLyE9g-dG06CQLApMFQmPrkX_sOqXBKed1wSnnc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60379090/%E4%BF%84%E8%A5%B2%E6%89%8E%E6%B3%A2%E7%BE%85%E7%86%B1%E9%8B%BC%E9%90%B5%E5%BB%A0%E9%87%807%E6%AD%BB-%E5%9F%BA%E8%BC%94%E6%8C%87%E8%8E%AB%E6%96%AF%E7%A7%91%E5%8B%95%E7%94%A8%E6%9C%9D%E9%AE%AE%E5%B0%8E%E5%BD%88",
+    "timestamp": "2026-08-11T20:33:52.624Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "泰國暫停發放購槍許可證　將修訂《槍支法》加強管制",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260804/1161297775586054144324951.jpeg/gVTUqw6W72aI_edoWHtKJO_E__t3DSAlKF1CayhdQms?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60378904/%E8%B2%A1%E7%B6%93%E8%A6%96%E9%87%8E-%E8%B2%9D%E6%A3%AE%E7%89%B9%E8%AA%93%E8%A8%80%E4%B8%8D%E6%83%9C%E4%B8%80%E5%88%87%E6%95%91%E6%97%A5%E5%9C%93-%E6%83%9F%E7%BE%8E%E6%96%B9%E5%BD%88%E8%97%A5%E6%83%B9%E8%B3%AA%E7%96%91",
     "timestamp": "2026-08-11T08:41:36.689Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "隱形眼鏡｜夏天戴con四大注意點！眼科醫生提醒避免細菌感染傷眼",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260811/1163846649420713984935617.jpeg/pHncH1RP1tgcGxTbDd8etzVhozIYmA034SBEj-EgRI8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/60378519/%E9%9A%B1%E5%BD%A2%E7%9C%BC%E9%8F%A1-%E5%A4%8F%E5%A4%A9%E6%88%B4con%E5%9B%9B%E5%A4%A7%E6%B3%A8%E6%84%8F%E9%BB%9E-%E7%9C%BC%E7%A7%91%E9%86%AB%E7%94%9F%E6%8F%90%E9%86%92%E9%81%BF%E5%85%8D%E7%B4%B0%E8%8F%8C%E6%84%9F%E6%9F%93%E5%82%B7%E7%9C%BC",
-    "timestamp": "2026-08-11T07:47:29.799Z",
     "strategy": ".content-card__main"
   }
 ];
