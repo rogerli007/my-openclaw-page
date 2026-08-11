@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-11T16:12:17.282Z
+// Last updated: 2026-08-11T16:38:55.888Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "胡塞武裝攻擊紅海貨船　釀4死5傷",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260717/1154584540228882432293614.jpeg/fMBL8Q0PE-KhiKxb7rQoB9QXwNNxwrIvHFbWjxxW1o8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60379073/%E8%83%A1%E5%A1%9E%E6%AD%A6%E8%A3%9D%E6%94%BB%E6%93%8A%E7%B4%85%E6%B5%B7%E8%B2%A8%E8%88%B9-%E9%87%804%E6%AD%BB5%E5%82%B7",
+    "timestamp": "2026-08-11T16:38:55.888Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "警荃灣打擊街頭賣淫檢大量避孕套　52歲女被捕　案件本月提堂",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260811/1163790102674018304192056.png/6qKKSriChiXTnzduxNrusQe1xrBKNWwAhrMdWoazHVo?v=w1920",
     "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60378756/%E7%99%BD%E6%B5%B7%E8%B1%9A%E9%A2%A8%E9%9B%A8%E8%A5%B2%E9%BB%83%E5%B1%B1%E8%87%B4%E7%B4%A2%E9%81%93%E5%81%9C%E9%81%8B-%E9%81%8A%E5%AE%A2%E5%A4%A7%E6%89%93%E8%9B%87%E9%A4%85%E8%8B%A6%E7%AD%89%E6%95%B8%E5%B0%8F%E6%99%82%E8%90%BD%E5%B1%B1-%E6%9C%89%E7%89%87",
     "timestamp": "2026-08-11T02:35:07.024Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "警大嶼山打擊電動可移動工具　拘兩男扣兩車",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260811/1163761384043843584940671.jpeg/6ZchWqgz6b-ZXMleanrKzMgFMRd4LBCS9ikS7PYpEuw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60378722/%E8%AD%A6%E5%A4%A7%E5%B6%BC%E5%B1%B1%E6%89%93%E6%93%8A%E9%9B%BB%E5%8B%95%E5%8F%AF%E7%A7%BB%E5%8B%95%E5%B7%A5%E5%85%B7-%E6%8B%98%E5%85%A9%E7%94%B7%E6%89%A3%E5%85%A9%E8%BB%8A",
-    "timestamp": "2026-08-11T00:34:50.268Z",
     "strategy": ".content-card__main"
   }
 ];
