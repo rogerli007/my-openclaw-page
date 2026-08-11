@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-11T16:38:55.888Z
+// Last updated: 2026-08-11T17:12:23.658Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "水邊圍邨停電｜憶述浴室突然漆黑一片　女居民沖涼驚叫：咩事",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260812/1164011347277516800469852.jpeg/ZntmkJ6fc3xNq11yQGB5SN9T2m6ItfVbWn9MzGB_TMw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60379074/%E6%B0%B4%E9%82%8A%E5%9C%8D%E9%82%A8%E5%81%9C%E9%9B%BB-%E6%86%B6%E8%BF%B0%E6%B5%B4%E5%AE%A4%E7%AA%81%E7%84%B6%E6%BC%86%E9%BB%91%E4%B8%80%E7%89%87-%E5%A5%B3%E5%B1%85%E6%B0%91%E6%B2%96%E6%B6%BC%E9%A9%9A%E5%8F%AB-%E5%92%A9%E4%BA%8B",
+    "timestamp": "2026-08-11T17:12:23.658Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "胡塞武裝攻擊紅海貨船　釀4死5傷",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260807/1162427911735611392176308.jpeg/YEnSJ8-48VAOr4_NTSKqaIUut8WPiDa23x_T5d8f0-U?v=w1920r16_9",
     "url": "https://www.hk01.com/%E4%B8%AD%E5%B0%8F%E5%AD%B8%E6%A0%A1%E5%9C%92/60376930/%E9%A6%99%E6%B8%AF01-%E5%8C%97%E5%A4%A7%E6%BB%99%E8%B1%90%E5%89%B5%E6%96%B0%E5%89%B5%E6%A5%AD%E5%A4%A7%E8%B3%BD%E9%A6%99%E6%B8%AF%E5%88%86%E7%AB%99%E8%B3%BD-%E4%B8%AD%E5%B0%8F%E5%AD%B8%E7%B5%84%E5%88%9D%E8%B3%BD%E8%B7%AF%E6%BC%94",
     "timestamp": "2026-08-11T03:26:47.975Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "白海豚風雨襲黃山致索道停運　遊客大打蛇餅苦等數小時落山｜有片",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260811/1163790102674018304192056.png/6qKKSriChiXTnzduxNrusQe1xrBKNWwAhrMdWoazHVo?v=w1920",
-    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60378756/%E7%99%BD%E6%B5%B7%E8%B1%9A%E9%A2%A8%E9%9B%A8%E8%A5%B2%E9%BB%83%E5%B1%B1%E8%87%B4%E7%B4%A2%E9%81%93%E5%81%9C%E9%81%8B-%E9%81%8A%E5%AE%A2%E5%A4%A7%E6%89%93%E8%9B%87%E9%A4%85%E8%8B%A6%E7%AD%89%E6%95%B8%E5%B0%8F%E6%99%82%E8%90%BD%E5%B1%B1-%E6%9C%89%E7%89%87",
-    "timestamp": "2026-08-11T02:35:07.024Z",
     "strategy": ".content-card__main"
   }
 ];
