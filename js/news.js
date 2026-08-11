@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-11T07:14:58.922Z
+// Last updated: 2026-08-11T07:47:29.799Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "隱形眼鏡｜夏天戴con四大注意點！眼科醫生提醒避免細菌感染傷眼",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260811/1163846649420713984935617.jpeg/pHncH1RP1tgcGxTbDd8etzVhozIYmA034SBEj-EgRI8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/60378519/%E9%9A%B1%E5%BD%A2%E7%9C%BC%E9%8F%A1-%E5%A4%8F%E5%A4%A9%E6%88%B4con%E5%9B%9B%E5%A4%A7%E6%B3%A8%E6%84%8F%E9%BB%9E-%E7%9C%BC%E7%A7%91%E9%86%AB%E7%94%9F%E6%8F%90%E9%86%92%E9%81%BF%E5%85%8D%E7%B4%B0%E8%8F%8C%E6%84%9F%E6%9F%93%E5%82%B7%E7%9C%BC",
+    "timestamp": "2026-08-11T07:47:29.799Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "江澤民誕辰100周年將至　央視周二首播《江澤民》文獻紀錄片",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20230815/768164082846011392714620.jpeg/3PYFqmWnOPFhgkOY6rjJ34CD3sqtsnh2aKI8n2iiPJ8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60378697/%E5%85%A8%E5%9C%8B%E7%94%9F%E6%85%8B%E6%97%A5-%E5%A4%9A%E9%A0%85%E6%B4%BB%E5%8B%95%E5%8F%8A%E5%84%AA%E6%83%A0-%E6%BF%95%E5%9C%B0%E5%85%AC%E5%9C%92%E5%85%8D%E8%B2%BB%E9%96%8B%E6%94%BE-%E7%B6%A0%E5%9C%A8%E5%8D%80%E5%8D%80%E9%9B%99%E5%80%8D%E5%88%86",
     "timestamp": "2026-08-10T18:25:36.843Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "吳若希做《三代同糖》女主角不擔心被指「搶飯碗」：時代會變遷",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260810/1163611108930490368095264.jpeg/i5Sl9uHhHnO_vCtv2-WKTVRfY_yc0X9hd1apP01WqT8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60378681/%E5%90%B3%E8%8B%A5%E5%B8%8C%E5%81%9A-%E4%B8%89%E4%BB%A3%E5%90%8C%E7%B3%96-%E5%A5%B3%E4%B8%BB%E8%A7%92%E4%B8%8D%E6%93%94%E5%BF%83%E8%A2%AB%E6%8C%87-%E6%90%B6%E9%A3%AF%E7%A2%97-%E6%99%82%E4%BB%A3%E6%9C%83%E8%AE%8A%E9%81%B7",
-    "timestamp": "2026-08-10T17:53:17.822Z",
     "strategy": ".content-card__main"
   }
 ];
