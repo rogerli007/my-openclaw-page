@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-11T13:00:41.241Z
+// Last updated: 2026-08-11T14:44:14.674Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "印度航空客機急墜91米釀17傷　印媒：機長驗毒對大麻呈陽性反應",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250312/976514689297027072756014.jpeg/xlC5zEb2KzYUVA66zhEAXzw9rI-tUhEyFE6HtRROh7U?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60379056/%E5%8D%B0%E5%BA%A6%E8%88%AA%E7%A9%BA%E5%AE%A2%E6%A9%9F%E6%80%A5%E5%A2%9C91%E7%B1%B3%E9%87%8017%E5%82%B7-%E5%8D%B0%E5%AA%92-%E6%A9%9F%E9%95%B7%E9%A9%97%E6%AF%92%E5%B0%8D%E5%A4%A7%E9%BA%BB%E5%91%88%E9%99%BD%E6%80%A7%E5%8F%8D%E6%87%89",
+    "timestamp": "2026-08-11T14:44:14.674Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "特朗普簽令縮減兒童接種疫苗項目　港衞生署：更改計劃須科學為本",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260810/1163563160041426944418309.jpeg/wZpkvNrz0xbDMFKZF0MkCxP15h9npDA6v_stzr_7Lc4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60378633/%E5%AF%8C%E8%B2%B4%E9%80%BC%E4%BA%BA-%E6%8B%9B%E5%BC%9F-%E9%97%9C%E7%8F%AE%E7%90%B3%E8%BF%91%E7%85%A7-%E4%BB%BB%E8%B7%A8%E5%9C%8B%E5%85%AC%E5%8F%B8hr%E9%AB%98%E5%B1%A4%E6%92%90%E6%9C%AC%E5%9C%B0%E8%88%9E%E5%8F%B0%E5%8A%87",
     "timestamp": "2026-08-10T22:53:53.123Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "極端酷熱｜今日部份地區料37度或以上　未來兩日仍達34度",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260811/1163728998253989888635974.jpeg/HMz2flpD4JWo9OtMuSoLUVbUPS0SQK_e-HUC1Ph1AtQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60378691/%E6%A5%B5%E7%AB%AF%E9%85%B7%E7%86%B1-%E4%BB%8A%E6%97%A5%E9%83%A8%E4%BB%BD%E5%9C%B0%E5%8D%80%E6%96%9937%E5%BA%A6%E6%88%96%E4%BB%A5%E4%B8%8A-%E6%9C%AA%E4%BE%86%E5%85%A9%E6%97%A5%E4%BB%8D%E9%81%9434%E5%BA%A6",
-    "timestamp": "2026-08-10T22:20:02.304Z",
     "strategy": ".content-card__main"
   }
 ];
