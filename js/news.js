@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-11T22:51:53.250Z
+// Last updated: 2026-08-11T23:51:54.069Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "聯邦法官禁郵政限制郵寄投票　特朗普行政令再遭挫敗",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260812/1164111102838050816683714.png/a8At_VAcKDNZ90rUkQQRtDXVaJLA_tK-ZGzb7WRs2-0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60379103/%E8%81%AF%E9%82%A6%E6%B3%95%E5%AE%98%E7%A6%81%E9%83%B5%E6%94%BF%E9%99%90%E5%88%B6%E9%83%B5%E5%AF%84%E6%8A%95%E7%A5%A8-%E7%89%B9%E6%9C%97%E6%99%AE%E8%A1%8C%E6%94%BF%E4%BB%A4%E5%86%8D%E9%81%AD%E6%8C%AB%E6%95%97",
+    "timestamp": "2026-08-11T23:51:54.069Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "玉女歌手三子全史丹福大學畢業　帶孫女遊名校書店培養第三代學霸",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260811/1163873956311076864532691.jpeg/JFt2oHcljm6A4_3AToeVqXMqTrLzbIqmKWD-YSlg_mE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60378907/%E4%B8%80%E5%91%A8%E6%98%9F%E6%98%9F-%E5%91%A8%E6%98%9F%E9%A6%B3%E6%BF%80%E7%BD%95%E6%8E%A5%E5%8F%97%E5%B0%88%E8%A8%AA-%E8%A2%AB%E5%8A%89%E5%98%89%E7%8E%B2%E9%80%BC%E5%95%8F-%E9%BB%9E%E8%A7%A3%E5%94%94%E5%86%8D%E5%81%9A%E5%B9%95%E5%89%8D",
     "timestamp": "2026-08-11T11:36:50.091Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "助理教師涉未向校方披露受查　辯稱廉署曾警告不可披露　欺詐罪成",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260115/1088456747309338624104253.jpeg/yG8UqmJLHw-CyiBN-gCyd4YFyTaZgoFtkX8SmLR_Epg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60379021/%E5%8A%A9%E7%90%86%E6%95%99%E5%B8%AB%E6%B6%89%E6%9C%AA%E5%90%91%E6%A0%A1%E6%96%B9%E6%8A%AB%E9%9C%B2%E5%8F%97%E6%9F%A5-%E8%BE%AF%E7%A8%B1%E5%BB%89%E7%BD%B2%E6%9B%BE%E8%AD%A6%E5%91%8A%E4%B8%8D%E5%8F%AF%E6%8A%AB%E9%9C%B2-%E6%AC%BA%E8%A9%90%E7%BD%AA%E6%88%90",
-    "timestamp": "2026-08-11T11:08:07.530Z",
     "strategy": ".content-card__main"
   }
 ];
