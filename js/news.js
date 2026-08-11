@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-11T20:33:52.624Z
+// Last updated: 2026-08-11T20:57:30.978Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "俄襲扎波羅熱鋼鐵廠釀7死　基輔指莫斯科動用朝鮮導彈",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260812/1164060833261555712163509.jpeg/Xk3hyLyE9g-dG06CQLApMFQmPrkX_sOqXBKed1wSnnc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60379090/%E4%BF%84%E8%A5%B2%E6%89%8E%E6%B3%A2%E7%BE%85%E7%86%B1%E9%8B%BC%E9%90%B5%E5%BB%A0%E9%87%807%E6%AD%BB-%E5%9F%BA%E8%BC%94%E6%8C%87%E8%8E%AB%E6%96%AF%E7%A7%91%E5%8B%95%E7%94%A8%E6%9C%9D%E9%AE%AE%E5%B0%8E%E5%BD%88",
+    "timestamp": "2026-08-11T20:57:30.978Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "俄襲扎波羅熱鋼鐵廠釀7死　基輔指莫斯科動用朝鮮導彈",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260811/1163897747943067648480971.jpeg/85lT6fNbZ9WcVuO8u4IpFYhphG_misJjMFeNXjBXjV4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60378964/%E5%93%A5%E5%80%AB%E6%AF%94%E4%BA%9E%E5%9C%B0%E9%9C%87%E7%9E%AC%E9%96%93-%E6%A9%9F%E5%A0%B4%E4%B8%8B-%E5%A4%A9%E8%8A%B1%E9%9B%A8-%E9%81%8A%E5%AE%A2%E8%B5%A4%E8%85%B3%E9%80%83%E7%94%9F-%E5%BB%A3%E5%A0%B4%E6%B2%99%E5%A1%B5%E6%BB%BE%E6%BB%BE",
     "timestamp": "2026-08-11T09:40:46.417Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "財經視野｜貝森特誓言不惜一切救日圓　惟美方彈藥惹質疑",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260804/1161297775586054144324951.jpeg/gVTUqw6W72aI_edoWHtKJO_E__t3DSAlKF1CayhdQms?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60378904/%E8%B2%A1%E7%B6%93%E8%A6%96%E9%87%8E-%E8%B2%9D%E6%A3%AE%E7%89%B9%E8%AA%93%E8%A8%80%E4%B8%8D%E6%83%9C%E4%B8%80%E5%88%87%E6%95%91%E6%97%A5%E5%9C%93-%E6%83%9F%E7%BE%8E%E6%96%B9%E5%BD%88%E8%97%A5%E6%83%B9%E8%B3%AA%E7%96%91",
-    "timestamp": "2026-08-11T08:41:36.689Z",
     "strategy": ".content-card__main"
   }
 ];
