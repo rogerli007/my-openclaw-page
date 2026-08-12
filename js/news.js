@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-12T18:09:18.944Z
+// Last updated: 2026-08-12T18:39:08.456Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "埃特納火山噴發致機場關閉　意大利旺季旅遊受阻",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260813/1164384114971774976235798.jpeg/wbglvXhG455eqTFUXVpfK_lZskJBtl726iKcauoinGo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60379463/%E5%9F%83%E7%89%B9%E7%B4%8D%E7%81%AB%E5%B1%B1%E5%99%B4%E7%99%BC%E8%87%B4%E6%A9%9F%E5%A0%B4%E9%97%9C%E9%96%89-%E6%84%8F%E5%A4%A7%E5%88%A9%E6%97%BA%E5%AD%A3%E6%97%85%E9%81%8A%E5%8F%97%E9%98%BB",
+    "timestamp": "2026-08-12T18:39:08.456Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "打風？天文台料下周可能形成低壓區　下周四及五風力增有狂風雷暴",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260812/1164175083430744064620837.jpeg/akNqtIFV2WB9Pb7Enh7wPPZil6lvfA1l851KIPOdSiA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8F%B0%E7%81%A3%E6%96%B0%E8%81%9E/60379176/%E9%84%AD%E9%BA%97%E6%96%87%E6%8E%A5%E5%8F%97-%E6%99%82%E4%BB%A3-%E5%B0%88%E8%A8%AA-%E5%85%A9%E5%B2%B8%E9%87%8D%E5%A4%A7%E6%94%B9%E8%AE%8A%E9%A0%88%E5%B0%8A%E9%87%8D%E5%8F%B0%E7%81%A3%E4%BA%BA%E7%9A%84%E5%88%A9%E7%9B%8A%E5%92%8C%E6%84%8F%E9%A1%98",
     "timestamp": "2026-08-12T03:54:22.458Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "SK海力士遇「伯樂」　摩通力撐目標價275萬韓元　三大催化劑將至",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260718/1155299726103416832459071.jpeg/RkftsuDl2LEdczokzKb8V7z8S8M2pnnz7U4eNe1OHjU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60379096/sk%E6%B5%B7%E5%8A%9B%E5%A3%AB%E9%81%87-%E4%BC%AF%E6%A8%82-%E6%91%A9%E9%80%9A%E5%8A%9B%E6%92%90%E7%9B%AE%E6%A8%99%E5%83%B9275%E8%90%AC%E9%9F%93%E5%85%83-%E4%B8%89%E5%A4%A7%E5%82%AC%E5%8C%96%E5%8A%91%E5%B0%87%E8%87%B3",
-    "timestamp": "2026-08-12T03:04:00.414Z",
     "strategy": ".content-card__main"
   }
 ];
