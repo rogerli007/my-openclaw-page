@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-12T14:45:13.091Z
+// Last updated: 2026-08-12T17:16:21.409Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "警聯運輸署九龍城打擊「學神」違規　發11張罰款通知書和18張傳票",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260813/1164374958600622080107389.jpeg/KzEqfpERtZBlpCsspbmvcb5pstIHlL91D1G33A9Rt9w?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60379461/%E8%AD%A6%E8%81%AF%E9%81%8B%E8%BC%B8%E7%BD%B2%E4%B9%9D%E9%BE%8D%E5%9F%8E%E6%89%93%E6%93%8A-%E5%AD%B8%E7%A5%9E-%E9%81%95%E8%A6%8F-%E7%99%BC11%E5%BC%B5%E7%BD%B0%E6%AC%BE%E9%80%9A%E7%9F%A5%E6%9B%B8%E5%92%8C18%E5%BC%B5%E5%82%B3%E7%A5%A8",
+    "timestamp": "2026-08-12T17:16:21.409Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "瑤瑤黃喬歆赴韓國拍泳裝照大放性感　胸前挖空戰袍吸睛展傲人上圍",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260812/1164136004483813376982657.jpeg/cKgyt4w98lGuWjR1nxf24DJDCiGxU9Bly_Yw8Mv2MPA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60379106/%E8%A5%BF%E8%B2%A2%E5%B8%83%E8%A2%8B%E6%BE%B3%E7%81%AB%E8%AD%A6-%E4%B8%80%E4%BA%BA%E5%8F%97%E5%82%B7-%E6%B6%88%E9%98%B2%E6%B0%B4%E9%99%B8%E5%85%A9%E8%B7%AF%E6%95%91%E6%8F%B4",
     "timestamp": "2026-08-12T01:16:48.873Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "電腦節｜四大巨頭解密AI實戰｜Samsung工作坊速開外掛",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260811/1163804569763844096284197.png/v6wphmqLqnXN39ZIgP-PEfu_WWC5t-ghAYxIZAGMSGQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60378790/%E9%9B%BB%E8%85%A6%E7%AF%80-%E5%9B%9B%E5%A4%A7%E5%B7%A8%E9%A0%AD%E8%A7%A3%E5%AF%86ai%E5%AF%A6%E6%88%B0-samsung%E5%B7%A5%E4%BD%9C%E5%9D%8A%E9%80%9F%E9%96%8B%E5%A4%96%E6%8E%9B",
-    "timestamp": "2026-08-12T00:36:02.905Z",
     "strategy": ".content-card__main"
   }
 ];
