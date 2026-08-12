@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-12T04:41:56.271Z
+// Last updated: 2026-08-12T05:25:37.690Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "蜘蛛俠英雄重生｜Sadie Sink莎蒂辛克護膚秘訣 必備防曬免敏感",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260812/1164189764987916288251893.jpeg/nhIUaTbbZu7aqdtVwEKxMZLUJNANneomZHljKmR5Yyo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%86%AB%E7%BE%8EEasy/60379181/%E8%9C%98%E8%9B%9B%E4%BF%A0%E8%8B%B1%E9%9B%84%E9%87%8D%E7%94%9F-sadie-sink%E8%8E%8E%E8%92%82%E8%BE%9B%E5%85%8B%E8%AD%B7%E8%86%9A%E7%A7%98%E8%A8%A3-%E5%BF%85%E5%82%99%E9%98%B2%E6%9B%AC%E5%85%8D%E6%95%8F%E6%84%9F",
+    "timestamp": "2026-08-12T05:25:37.690Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美軍開火攔截掛巴拿馬國旗貨輪　稱其無視警告硬闖封鎖線",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260717/1154584540228882432293614.jpeg/fMBL8Q0PE-KhiKxb7rQoB9QXwNNxwrIvHFbWjxxW1o8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60379073/%E8%83%A1%E5%A1%9E%E6%AD%A6%E8%A3%9D%E6%94%BB%E6%93%8A%E7%B4%85%E6%B5%B7%E8%B2%A8%E8%88%B9-%E9%87%804%E6%AD%BB5%E5%82%B7",
     "timestamp": "2026-08-11T16:38:55.888Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "警荃灣打擊街頭賣淫檢大量避孕套　52歲女被捕　案件本月提堂",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260811/1163997728653447168802139.jpeg/iDH4DX2mfpwZ4_K8Mr1OWuCnWLB5-qTfuMuEsrjLhLI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60379072/%E8%AD%A6%E8%8D%83%E7%81%A3%E6%89%93%E6%93%8A%E8%A1%97%E9%A0%AD%E8%B3%A3%E6%B7%AB%E6%AA%A2%E5%A4%A7%E9%87%8F%E9%81%BF%E5%AD%95%E5%A5%97-52%E6%AD%B2%E5%A5%B3%E8%A2%AB%E6%8D%95-%E6%A1%88%E4%BB%B6%E6%9C%AC%E6%9C%88%E6%8F%90%E5%A0%82",
-    "timestamp": "2026-08-11T16:12:17.282Z",
     "strategy": ".content-card__main"
   }
 ];
