@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-12T21:52:18.753Z
+// Last updated: 2026-08-12T22:22:19.731Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "酷熱天氣｜今日市區最高氣溫料34度　大致多雲有一兩陣驟雨",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260813/1164454168530784256345298.jpeg/vh55umh15pe-yeZLgqov4yzEZf2bUPOK6UDOKtNAzio?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60379477/%E9%85%B7%E7%86%B1%E5%A4%A9%E6%B0%A3-%E4%BB%8A%E6%97%A5%E5%B8%82%E5%8D%80%E6%9C%80%E9%AB%98%E6%B0%A3%E6%BA%AB%E6%96%9934%E5%BA%A6-%E5%A4%A7%E8%87%B4%E5%A4%9A%E9%9B%B2%E6%9C%89%E4%B8%80%E5%85%A9%E9%99%A3%E9%A9%9F%E9%9B%A8",
+    "timestamp": "2026-08-12T22:22:19.731Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "AI投入急升　騰訊季度自由現金流轉負138億　劉熾平派定心丸",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260812/1164179968867962880275401.jpeg/krnQEucv8hyyb9VEOSLzYb-8t4Ccr9IeVrWGH1a1hh8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60379192/%E5%A4%A9%E5%90%8E%E7%94%84%E5%A6%AE%E6%B7%A1%E5%87%BA%E5%B9%95%E5%89%8D%E6%AD%B8%E9%9A%B1%E8%90%AC%E5%9D%AA%E8%8E%8A%E5%9C%92-%E5%8C%85%E5%88%B0%E5%86%9A%E9%A7%95%E9%A7%9B%E9%99%A4%E8%8D%89%E6%A9%9F%E8%88%87%E5%A5%B3%E5%85%92%E7%9B%B8%E4%BE%9D%E7%82%BA%E5%91%BD",
     "timestamp": "2026-08-12T09:20:16.427Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美媒分析指特朗普或陷當年卡特困境　伊朗戰事恐拖垮中期選舉",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260812/1164231352686481408074365.jpeg/OaGxKRh0NjEgDu3AJfZ9jIhFIFBXkTHASubblErm25Q?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60379279/%E7%BE%8E%E5%AA%92%E5%88%86%E6%9E%90%E6%8C%87%E7%89%B9%E6%9C%97%E6%99%AE%E6%88%96%E9%99%B7%E7%95%B6%E5%B9%B4%E5%8D%A1%E7%89%B9%E5%9B%B0%E5%A2%83-%E4%BC%8A%E6%9C%97%E6%88%B0%E4%BA%8B%E6%81%90%E6%8B%96%E5%9E%AE%E4%B8%AD%E6%9C%9F%E9%81%B8%E8%88%89",
-    "timestamp": "2026-08-12T08:16:09.002Z",
     "strategy": ".content-card__main"
   }
 ];
