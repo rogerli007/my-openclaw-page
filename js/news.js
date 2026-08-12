@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-12T00:36:02.905Z
+// Last updated: 2026-08-12T01:16:48.873Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "西貢布袋澳火警　一人受傷　消防水陸兩路救援",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260812/1164136004483813376982657.jpeg/cKgyt4w98lGuWjR1nxf24DJDCiGxU9Bly_Yw8Mv2MPA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60379106/%E8%A5%BF%E8%B2%A2%E5%B8%83%E8%A2%8B%E6%BE%B3%E7%81%AB%E8%AD%A6-%E4%B8%80%E4%BA%BA%E5%8F%97%E5%82%B7-%E6%B6%88%E9%98%B2%E6%B0%B4%E9%99%B8%E5%85%A9%E8%B7%AF%E6%95%91%E6%8F%B4",
+    "timestamp": "2026-08-12T01:16:48.873Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "電腦節｜四大巨頭解密AI實戰｜Samsung工作坊速開外掛",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/2304099/org/c279221789c16b41d92b2cda31bac0e0.jpg/iA8tj2AJ13ou4wIjtBVZWm8c7rGvpAh95SVEQuUlREI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60379030/%E7%89%B9%E6%9C%97%E6%99%AE%E7%B0%BD%E4%BB%A4%E7%B8%AE%E6%B8%9B%E5%85%92%E7%AB%A5%E6%8E%A5%E7%A8%AE%E7%96%AB%E8%8B%97%E9%A0%85%E7%9B%AE-%E6%B8%AF%E8%A1%9E%E7%94%9F%E7%BD%B2-%E6%9B%B4%E6%94%B9%E8%A8%88%E5%8A%83%E9%A0%88%E7%A7%91%E5%AD%B8%E7%82%BA%E6%9C%AC",
     "timestamp": "2026-08-11T13:00:41.241Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "貴州男迫女友同跳河卻獨自逃生　家屬尋女17年方知早已溺亡",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260811/1163916517025255424908627.jpeg/HieDbbkUrhCPC7vMngbRnDU6_uayEsoVkSA-_pEgPv4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60378995/%E8%B2%B4%E5%B7%9E%E7%94%B7%E8%BF%AB%E5%A5%B3%E5%8F%8B%E5%90%8C%E8%B7%B3%E6%B2%B3%E5%8D%BB%E7%8D%A8%E8%87%AA%E9%80%83%E7%94%9F-%E5%AE%B6%E5%B1%AC%E5%B0%8B%E5%A5%B317%E5%B9%B4%E6%96%B9%E7%9F%A5%E6%97%A9%E5%B7%B2%E6%BA%BA%E4%BA%A1",
-    "timestamp": "2026-08-11T12:40:29.128Z",
     "strategy": ".content-card__main"
   }
 ];
