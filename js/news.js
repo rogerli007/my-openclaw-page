@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-12T06:06:07.250Z
+// Last updated: 2026-08-12T06:50:09.529Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "中美為什麼不打起來，伊朗總統為什麼提出這個問題？",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260618/1144168665374003200087195.jpeg/pcFjp6eiPBJVqSDlk6LUQnH2PPKz1OnT-5UQA_uVEAM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%9C%8B%E9%9A%9B%E5%88%86%E6%9E%90/60379247/%E4%B8%AD%E7%BE%8E%E7%82%BA%E4%BB%80%E9%BA%BC%E4%B8%8D%E6%89%93%E8%B5%B7%E4%BE%86-%E4%BC%8A%E6%9C%97%E7%B8%BD%E7%B5%B1%E7%82%BA%E4%BB%80%E9%BA%BC%E6%8F%90%E5%87%BA%E9%80%99%E5%80%8B%E5%95%8F%E9%A1%8C",
+    "timestamp": "2026-08-12T06:50:09.529Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "SK海力士一度升7%！淡馬錫據報首次進軍韓股　重注押兩大晶片巨頭",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260812/1164013767428673536106739.jpeg/oQ_33Hul4hLCBGfmBOtq_BZxFR06vHJQEuZa_SjmWv0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60379079/%E6%97%BA%E8%A7%92%E5%96%AE%E4%BD%8D%E9%81%87%E7%AB%8A-28%E6%AD%B2%E7%94%B7%E6%90%8D%E5%A4%B1-29%E8%90%AC%E8%B2%A1%E7%89%A9-%E5%8C%85%E6%8B%AC%E5%8B%9E%E5%8A%9B%E5%A3%AB%E5%90%8D%E9%8C%B6%E5%92%8Cvca%E6%89%8B%E9%8D%8A",
     "timestamp": "2026-08-11T17:39:54.680Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "水邊圍邨停電｜憶述浴室突然漆黑一片　女居民沖涼驚叫：咩事",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260812/1164011347277516800469852.jpeg/ZntmkJ6fc3xNq11yQGB5SN9T2m6ItfVbWn9MzGB_TMw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60379074/%E6%B0%B4%E9%82%8A%E5%9C%8D%E9%82%A8%E5%81%9C%E9%9B%BB-%E6%86%B6%E8%BF%B0%E6%B5%B4%E5%AE%A4%E7%AA%81%E7%84%B6%E6%BC%86%E9%BB%91%E4%B8%80%E7%89%87-%E5%A5%B3%E5%B1%85%E6%B0%91%E6%B2%96%E6%B6%BC%E9%A9%9A%E5%8F%AB-%E5%92%A9%E4%BA%8B",
-    "timestamp": "2026-08-11T17:12:23.658Z",
     "strategy": ".content-card__main"
   }
 ];
