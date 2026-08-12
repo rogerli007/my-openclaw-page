@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-12T19:14:03.834Z
+// Last updated: 2026-08-12T19:44:05.463Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "新皇崗口岸開通｜海關關長陳子達到場巡視　確保各項工作落實到位",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260813/1164412621227560960570216.jpeg/JqiLWzoBcVBhOCvfQewlUss2YLQboOiFnjxXPZ48Vz0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60379467/%E6%96%B0%E7%9A%87%E5%B4%97%E5%8F%A3%E5%B2%B8%E9%96%8B%E9%80%9A-%E6%B5%B7%E9%97%9C%E9%97%9C%E9%95%B7%E9%99%B3%E5%AD%90%E9%81%94%E5%88%B0%E5%A0%B4%E5%B7%A1%E8%A6%96-%E7%A2%BA%E4%BF%9D%E5%90%84%E9%A0%85%E5%B7%A5%E4%BD%9C%E8%90%BD%E5%AF%A6%E5%88%B0%E4%BD%8D",
+    "timestamp": "2026-08-12T19:44:05.463Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "埃特納火山噴發致機場關閉　意大利旺季旅遊受阻",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260812/1164189764987916288251893.jpeg/nhIUaTbbZu7aqdtVwEKxMZLUJNANneomZHljKmR5Yyo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%86%AB%E7%BE%8EEasy/60379181/%E8%9C%98%E8%9B%9B%E4%BF%A0%E8%8B%B1%E9%9B%84%E9%87%8D%E7%94%9F-sadie-sink%E8%8E%8E%E8%92%82%E8%BE%9B%E5%85%8B%E8%AD%B7%E8%86%9A%E7%A7%98%E8%A8%A3-%E5%BF%85%E5%82%99%E9%98%B2%E6%9B%AC%E5%85%8D%E6%95%8F%E6%84%9F",
     "timestamp": "2026-08-12T05:25:37.690Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美軍開火攔截掛巴拿馬國旗貨輪　稱其無視警告硬闖封鎖線",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260812/1164179068761935872874391.jpeg/Mf1f4gL1sT_Y0AMD4s_RJX33swMXpIGyxqmWN8apljc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60379194/%E7%BE%8E%E8%BB%8D%E9%96%8B%E7%81%AB%E6%94%94%E6%88%AA%E6%8E%9B%E5%B7%B4%E6%8B%BF%E9%A6%AC%E5%9C%8B%E6%97%97%E8%B2%A8%E8%BC%AA-%E7%A8%B1%E5%85%B6%E7%84%A1%E8%A6%96%E8%AD%A6%E5%91%8A%E7%A1%AC%E9%97%96%E5%B0%81%E9%8E%96%E7%B7%9A",
-    "timestamp": "2026-08-12T04:41:56.271Z",
     "strategy": ".content-card__main"
   }
 ];
