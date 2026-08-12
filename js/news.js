@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-12T12:26:55.218Z
+// Last updated: 2026-08-12T12:54:03.070Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "日本「終戰日」將至　高市早苗據報擬不參拜靖國神社",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260811/1163858820657582080639827.jpeg/yzDvy_704livGF6eXLB9P-7CSJLQc8dd7s6_0-7Ov9M?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60379425/%E6%97%A5%E6%9C%AC-%E7%B5%82%E6%88%B0%E6%97%A5-%E5%B0%87%E8%87%B3-%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E6%93%9A%E5%A0%B1%E6%93%AC%E4%B8%8D%E5%8F%83%E6%8B%9C%E9%9D%96%E5%9C%8B%E7%A5%9E%E7%A4%BE",
+    "timestamp": "2026-08-12T12:54:03.070Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "Baby Shark兒歌MV主演長大成人　將以藝名Baby Shark Boy韓國出道",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20231010/788396987723550720106823.jpeg/THDbBOkIwyVFDLz7Lcn7EXvhs9-jqPanUqI3S1KiN0s?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60379100/%E9%9F%93%E8%81%AF%E5%8F%83-%E6%9C%9D%E9%AE%AE%E5%90%91%E6%9D%B1%E9%83%A8%E6%B5%B7%E5%9F%9F%E7%99%BC%E5%B0%84%E5%BD%88%E9%81%93%E5%B0%8E%E5%BD%88",
     "timestamp": "2026-08-11T22:22:33.489Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "羅馬尼亞黑海氣田發現漂流俄無人機　多國聯合清除水雷",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260812/1164080587577757696718902.png/fpZQ4c53dU7zNopRjFV-sfGU__T79f7HCk03DwpNNw8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60379097/%E7%BE%85%E9%A6%AC%E5%B0%BC%E4%BA%9E%E9%BB%91%E6%B5%B7%E6%B0%A3%E7%94%B0%E7%99%BC%E7%8F%BE%E6%BC%82%E6%B5%81%E4%BF%84%E7%84%A1%E4%BA%BA%E6%A9%9F-%E5%A4%9A%E5%9C%8B%E8%81%AF%E5%90%88%E6%B8%85%E9%99%A4%E6%B0%B4%E9%9B%B7",
-    "timestamp": "2026-08-11T21:52:34.619Z",
     "strategy": ".content-card__main"
   }
 ];
