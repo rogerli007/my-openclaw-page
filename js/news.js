@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-12T11:23:46.354Z
+// Last updated: 2026-08-12T11:53:08.617Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "朱鎔基逝世｜新聞聯播第三條播出完整訃告　時長約11分半",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260812/1164288023773319168970453.png/PmSBs2X3tzw7RJcZEIG6_bizDNxd8V6e4NxdIeDcXSE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60379408/%E6%9C%B1%E9%8E%94%E5%9F%BA%E9%80%9D%E4%B8%96-%E6%96%B0%E8%81%9E%E8%81%AF%E6%92%AD%E7%AC%AC%E4%B8%89%E6%A2%9D%E6%92%AD%E5%87%BA%E5%AE%8C%E6%95%B4%E8%A8%83%E5%91%8A-%E6%99%82%E9%95%B7%E7%B4%8411%E5%88%86%E5%8D%8A",
+    "timestamp": "2026-08-12T11:53:08.617Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "陳詠桐聯手施匡翹開騷大騷靚聲熱舞　保錡驚喜踩場自爆相識經過",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260812/1164060833261555712163509.jpeg/Xk3hyLyE9g-dG06CQLApMFQmPrkX_sOqXBKed1wSnnc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60379090/%E4%BF%84%E8%A5%B2%E6%89%8E%E6%B3%A2%E7%BE%85%E7%86%B1%E9%8B%BC%E9%90%B5%E5%BB%A0%E9%87%807%E6%AD%BB-%E5%9F%BA%E8%BC%94%E6%8C%87%E8%8E%AB%E6%96%AF%E7%A7%91%E5%8B%95%E7%94%A8%E6%9C%9D%E9%AE%AE%E5%B0%8E%E5%BD%88",
     "timestamp": "2026-08-11T20:57:30.978Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "俄襲扎波羅熱鋼鐵廠釀7死　基輔指莫斯科動用朝鮮導彈",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260812/1164060833261555712163509.jpeg/Xk3hyLyE9g-dG06CQLApMFQmPrkX_sOqXBKed1wSnnc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60379090/%E4%BF%84%E8%A5%B2%E6%89%8E%E6%B3%A2%E7%BE%85%E7%86%B1%E9%8B%BC%E9%90%B5%E5%BB%A0%E9%87%807%E6%AD%BB-%E5%9F%BA%E8%BC%94%E6%8C%87%E8%8E%AB%E6%96%AF%E7%A7%91%E5%8B%95%E7%94%A8%E6%9C%9D%E9%AE%AE%E5%B0%8E%E5%BD%88",
-    "timestamp": "2026-08-11T20:33:52.624Z",
     "strategy": ".content-card__main"
   }
 ];
