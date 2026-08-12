@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-12T17:16:21.409Z
+// Last updated: 2026-08-12T17:40:29.899Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "巴勒斯坦總統訪問土耳其　埃爾多安會面後稱支持巴人建國",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260813/1164378612577603584328695.jpeg/7I4niAWhwQD3nphpbHQDKaM04XQderOQgD9A_oA_QP4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60379462/%E5%B7%B4%E5%8B%92%E6%96%AF%E5%9D%A6%E7%B8%BD%E7%B5%B1%E8%A8%AA%E5%95%8F%E5%9C%9F%E8%80%B3%E5%85%B6-%E5%9F%83%E7%88%BE%E5%A4%9A%E5%AE%89%E6%9C%83%E9%9D%A2%E5%BE%8C%E7%A8%B1%E6%94%AF%E6%8C%81%E5%B7%B4%E4%BA%BA%E5%BB%BA%E5%9C%8B",
+    "timestamp": "2026-08-12T17:40:29.899Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "警聯運輸署九龍城打擊「學神」違規　發11張罰款通知書和18張傳票",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260805/1161726643329306624130459.jpeg/DOvE8TXXSMTMAprH3IxxqNchssmnLFdfdfkY4XX5GOE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/60374038/%E9%95%B7%E5%A3%BD-%E7%A0%94%E7%A9%B6-%E6%AF%8F%E6%97%A57%E5%88%86%E9%90%98%E6%94%B9%E5%96%843%E7%BF%92%E6%85%A3%E5%A4%9A%E6%B4%BB10%E5%B9%B4-%E9%80%B2%E9%9A%8E%E7%89%88%E5%A2%9E4%E5%B9%B4%E7%84%A1%E7%97%85%E5%A3%BD%E5%91%BD",
     "timestamp": "2026-08-12T02:02:46.473Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "西貢布袋澳火警　一人受傷　消防水陸兩路救援",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260812/1164136004483813376982657.jpeg/cKgyt4w98lGuWjR1nxf24DJDCiGxU9Bly_Yw8Mv2MPA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60379106/%E8%A5%BF%E8%B2%A2%E5%B8%83%E8%A2%8B%E6%BE%B3%E7%81%AB%E8%AD%A6-%E4%B8%80%E4%BA%BA%E5%8F%97%E5%82%B7-%E6%B6%88%E9%98%B2%E6%B0%B4%E9%99%B8%E5%85%A9%E8%B7%AF%E6%95%91%E6%8F%B4",
-    "timestamp": "2026-08-12T01:16:48.873Z",
     "strategy": ".content-card__main"
   }
 ];
