@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-12T17:40:29.899Z
+// Last updated: 2026-08-12T18:09:18.944Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "打風？天文台料下周可能形成低壓區　下周四及五風力增有狂風雷暴",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260813/1164362755055030272783042.png/7QABw7FdIKWcVS0nDdBSIJJZnaRtC0PbiXePsIl3j7A?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60379458/%E6%89%93%E9%A2%A8-%E5%A4%A9%E6%96%87%E5%8F%B0%E6%96%99%E4%B8%8B%E5%91%A8%E5%8F%AF%E8%83%BD%E5%BD%A2%E6%88%90%E4%BD%8E%E5%A3%93%E5%8D%80-%E4%B8%8B%E5%91%A8%E5%9B%9B%E5%8F%8A%E4%BA%94%E9%A2%A8%E5%8A%9B%E5%A2%9E%E6%9C%89%E7%8B%82%E9%A2%A8%E9%9B%B7%E6%9A%B4",
+    "timestamp": "2026-08-12T18:09:18.944Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "巴勒斯坦總統訪問土耳其　埃爾多安會面後稱支持巴人建國",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260718/1155299726103416832459071.jpeg/RkftsuDl2LEdczokzKb8V7z8S8M2pnnz7U4eNe1OHjU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60379096/sk%E6%B5%B7%E5%8A%9B%E5%A3%AB%E9%81%87-%E4%BC%AF%E6%A8%82-%E6%91%A9%E9%80%9A%E5%8A%9B%E6%92%90%E7%9B%AE%E6%A8%99%E5%83%B9275%E8%90%AC%E9%9F%93%E5%85%83-%E4%B8%89%E5%A4%A7%E5%82%AC%E5%8C%96%E5%8A%91%E5%B0%87%E8%87%B3",
     "timestamp": "2026-08-12T03:04:00.414Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "長壽｜研究：每日7分鐘改善3習慣多活10年　進階版增4年無病壽命",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260805/1161726643329306624130459.jpeg/DOvE8TXXSMTMAprH3IxxqNchssmnLFdfdfkY4XX5GOE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/60374038/%E9%95%B7%E5%A3%BD-%E7%A0%94%E7%A9%B6-%E6%AF%8F%E6%97%A57%E5%88%86%E9%90%98%E6%94%B9%E5%96%843%E7%BF%92%E6%85%A3%E5%A4%9A%E6%B4%BB10%E5%B9%B4-%E9%80%B2%E9%9A%8E%E7%89%88%E5%A2%9E4%E5%B9%B4%E7%84%A1%E7%97%85%E5%A3%BD%E5%91%BD",
-    "timestamp": "2026-08-12T02:02:46.473Z",
     "strategy": ".content-card__main"
   }
 ];
