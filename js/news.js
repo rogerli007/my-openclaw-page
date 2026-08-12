@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-12T02:02:46.473Z
+// Last updated: 2026-08-12T03:04:00.414Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "SK海力士遇「伯樂」　摩通力撐目標價275萬韓元　三大催化劑將至",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260718/1155299726103416832459071.jpeg/RkftsuDl2LEdczokzKb8V7z8S8M2pnnz7U4eNe1OHjU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60379096/sk%E6%B5%B7%E5%8A%9B%E5%A3%AB%E9%81%87-%E4%BC%AF%E6%A8%82-%E6%91%A9%E9%80%9A%E5%8A%9B%E6%92%90%E7%9B%AE%E6%A8%99%E5%83%B9275%E8%90%AC%E9%9F%93%E5%85%83-%E4%B8%89%E5%A4%A7%E5%82%AC%E5%8C%96%E5%8A%91%E5%B0%87%E8%87%B3",
+    "timestamp": "2026-08-12T03:04:00.414Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "長壽｜研究：每日7分鐘改善3習慣多活10年　進階版增4年無病壽命",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250529/1004894676605472768376024.jpeg/iqzPKOj7JcSNx3oGiU4TGDGAQwgoE4OSf6dts3-nbbM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60379063/%E7%BE%8E%E8%82%A1-%E7%BE%8E%E4%BC%8A%E5%8D%94%E8%AD%B0%E9%9C%B2%E6%9B%99%E5%85%89-%E9%81%93%E6%8C%87%E6%97%A9%E6%AE%B5%E6%9B%BE%E5%8D%87%E8%BF%91250%E9%BB%9E",
     "timestamp": "2026-08-11T15:13:06.061Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "印度航空客機急墜91米釀17傷　印媒：機長驗毒對大麻呈陽性反應",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250312/976514689297027072756014.jpeg/xlC5zEb2KzYUVA66zhEAXzw9rI-tUhEyFE6HtRROh7U?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60379056/%E5%8D%B0%E5%BA%A6%E8%88%AA%E7%A9%BA%E5%AE%A2%E6%A9%9F%E6%80%A5%E5%A2%9C91%E7%B1%B3%E9%87%8017%E5%82%B7-%E5%8D%B0%E5%AA%92-%E6%A9%9F%E9%95%B7%E9%A9%97%E6%AF%92%E5%B0%8D%E5%A4%A7%E9%BA%BB%E5%91%88%E9%99%BD%E6%80%A7%E5%8F%8D%E6%87%89",
-    "timestamp": "2026-08-11T14:44:14.674Z",
     "strategy": ".content-card__main"
   }
 ];
