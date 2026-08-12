@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-12T18:39:08.456Z
+// Last updated: 2026-08-12T19:14:03.834Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "埃特納火山噴發致機場關閉　意大利旺季旅遊受阻",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260813/1164384114971774976235798.jpeg/wbglvXhG455eqTFUXVpfK_lZskJBtl726iKcauoinGo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60379463/%E5%9F%83%E7%89%B9%E7%B4%8D%E7%81%AB%E5%B1%B1%E5%99%B4%E7%99%BC%E8%87%B4%E6%A9%9F%E5%A0%B4%E9%97%9C%E9%96%89-%E6%84%8F%E5%A4%A7%E5%88%A9%E6%97%BA%E5%AD%A3%E6%97%85%E9%81%8A%E5%8F%97%E9%98%BB",
+    "timestamp": "2026-08-12T19:14:03.834Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "埃特納火山噴發致機場關閉　意大利旺季旅遊受阻",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260812/1164179068761935872874391.jpeg/Mf1f4gL1sT_Y0AMD4s_RJX33swMXpIGyxqmWN8apljc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60379194/%E7%BE%8E%E8%BB%8D%E9%96%8B%E7%81%AB%E6%94%94%E6%88%AA%E6%8E%9B%E5%B7%B4%E6%8B%BF%E9%A6%AC%E5%9C%8B%E6%97%97%E8%B2%A8%E8%BC%AA-%E7%A8%B1%E5%85%B6%E7%84%A1%E8%A6%96%E8%AD%A6%E5%91%8A%E7%A1%AC%E9%97%96%E5%B0%81%E9%8E%96%E7%B7%9A",
     "timestamp": "2026-08-12T04:41:56.271Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "鄭麗文接受《時代》專訪：兩岸重大改變須尊重台灣人的利益和意願",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260812/1164175083430744064620837.jpeg/akNqtIFV2WB9Pb7Enh7wPPZil6lvfA1l851KIPOdSiA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8F%B0%E7%81%A3%E6%96%B0%E8%81%9E/60379176/%E9%84%AD%E9%BA%97%E6%96%87%E6%8E%A5%E5%8F%97-%E6%99%82%E4%BB%A3-%E5%B0%88%E8%A8%AA-%E5%85%A9%E5%B2%B8%E9%87%8D%E5%A4%A7%E6%94%B9%E8%AE%8A%E9%A0%88%E5%B0%8A%E9%87%8D%E5%8F%B0%E7%81%A3%E4%BA%BA%E7%9A%84%E5%88%A9%E7%9B%8A%E5%92%8C%E6%84%8F%E9%A1%98",
-    "timestamp": "2026-08-12T03:54:22.458Z",
     "strategy": ".content-card__main"
   }
 ];
