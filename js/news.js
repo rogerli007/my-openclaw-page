@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-12T09:20:16.427Z
+// Last updated: 2026-08-12T10:30:05.250Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "5人網購球賽演唱會等電子門票　獲無效二維碼　警拘2人涉$1.6萬",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260812/1164269319429820416750236.jpeg/F4JR70N-ORppXOpoDCp41ztdvnjIGvUihzw8nYc8PJ0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60379352/5%E4%BA%BA%E7%B6%B2%E8%B3%BC%E7%90%83%E8%B3%BD%E6%BC%94%E5%94%B1%E6%9C%83%E7%AD%89%E9%9B%BB%E5%AD%90%E9%96%80%E7%A5%A8-%E7%8D%B2%E7%84%A1%E6%95%88%E4%BA%8C%E7%B6%AD%E7%A2%BC-%E8%AD%A6%E6%8B%982%E4%BA%BA%E6%B6%89-1-6%E8%90%AC",
+    "timestamp": "2026-08-12T10:30:05.250Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "天后甄妮淡出幕前與女兒相依為命　歸隱萬坪莊園包到冚駕駛除草機",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260812/1164036566889271296925017.jpeg/j7e7wk-591iXWFUUvQnNZs9fmgeWtO46aNOJz2jTic8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60379087/%E6%B3%B0%E5%9C%8B%E6%9A%AB%E5%81%9C%E7%99%BC%E6%94%BE%E8%B3%BC%E6%A7%8D%E8%A8%B1%E5%8F%AF%E8%AD%89-%E5%B0%87%E4%BF%AE%E8%A8%82-%E6%A7%8D%E6%94%AF%E6%B3%95-%E5%8A%A0%E5%BC%B7%E7%AE%A1%E5%88%B6",
     "timestamp": "2026-08-11T19:15:34.558Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "哥倫比亞7.4級強震逾250人死　救援隊挖掘瓦礫尋生還者",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260812/1164023756234952704678503.jpeg/CqQEMosbIbU-R8z0fI9Gr43j07n5VYzWy0evuctHr7k?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60379083/%E5%93%A5%E5%80%AB%E6%AF%94%E4%BA%9E7-4%E7%B4%9A%E5%BC%B7%E9%9C%87%E9%80%BE250%E4%BA%BA%E6%AD%BB-%E6%95%91%E6%8F%B4%E9%9A%8A%E6%8C%96%E6%8E%98%E7%93%A6%E7%A4%AB%E5%B0%8B%E7%94%9F%E9%82%84%E8%80%85",
-    "timestamp": "2026-08-11T18:39:10.082Z",
     "strategy": ".content-card__main"
   }
 ];
