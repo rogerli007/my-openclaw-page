@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-12T05:25:37.690Z
+// Last updated: 2026-08-12T06:06:07.250Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "SK海力士一度升7%！淡馬錫據報首次進軍韓股　重注押兩大晶片巨頭",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/3296681/org/dce2a99d06c3ac423d19ba7e0e5c6a7f.jpg/ticvb9Fxe6Hcs_Z0D7Eu3aNiG7zOGeLxyRZmF8kWZhc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60379231/sk%E6%B5%B7%E5%8A%9B%E5%A3%AB%E4%B8%80%E5%BA%A6%E5%8D%877-%E6%B7%A1%E9%A6%AC%E9%8C%AB%E6%93%9A%E5%A0%B1%E9%A6%96%E6%AC%A1%E9%80%B2%E8%BB%8D%E9%9F%93%E8%82%A1-%E9%87%8D%E6%B3%A8%E6%8A%BC%E5%85%A9%E5%A4%A7%E6%99%B6%E7%89%87%E5%B7%A8%E9%A0%AD",
+    "timestamp": "2026-08-12T06:06:07.250Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "蜘蛛俠英雄重生｜Sadie Sink莎蒂辛克護膚秘訣 必備防曬免敏感",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260812/1164011347277516800469852.jpeg/ZntmkJ6fc3xNq11yQGB5SN9T2m6ItfVbWn9MzGB_TMw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60379074/%E6%B0%B4%E9%82%8A%E5%9C%8D%E9%82%A8%E5%81%9C%E9%9B%BB-%E6%86%B6%E8%BF%B0%E6%B5%B4%E5%AE%A4%E7%AA%81%E7%84%B6%E6%BC%86%E9%BB%91%E4%B8%80%E7%89%87-%E5%A5%B3%E5%B1%85%E6%B0%91%E6%B2%96%E6%B6%BC%E9%A9%9A%E5%8F%AB-%E5%92%A9%E4%BA%8B",
     "timestamp": "2026-08-11T17:12:23.658Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "胡塞武裝攻擊紅海貨船　釀4死5傷",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260717/1154584540228882432293614.jpeg/fMBL8Q0PE-KhiKxb7rQoB9QXwNNxwrIvHFbWjxxW1o8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60379073/%E8%83%A1%E5%A1%9E%E6%AD%A6%E8%A3%9D%E6%94%BB%E6%93%8A%E7%B4%85%E6%B5%B7%E8%B2%A8%E8%88%B9-%E9%87%804%E6%AD%BB5%E5%82%B7",
-    "timestamp": "2026-08-11T16:38:55.888Z",
     "strategy": ".content-card__main"
   }
 ];
