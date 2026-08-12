@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-12T13:37:21.073Z
+// Last updated: 2026-08-12T14:17:07.064Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "朱鎔基逝世｜記招金句連篇　回應港媒｢瞪眼｣說法：從不嚇唬老百姓",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260812/1164306094089048064850261.jpeg/25bs1GeUebWZFgGPzlyfwjmDjW50UZtkdMghW3TIIVs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60379423/%E6%9C%B1%E9%8E%94%E5%9F%BA%E9%80%9D%E4%B8%96-%E8%A8%98%E6%8B%9B%E9%87%91%E5%8F%A5%E9%80%A3%E7%AF%87-%E5%9B%9E%E6%87%89%E6%B8%AF%E5%AA%92-%E7%9E%AA%E7%9C%BC-%E8%AA%AA%E6%B3%95-%E5%BE%9E%E4%B8%8D%E5%9A%87%E5%94%AC%E8%80%81%E7%99%BE%E5%A7%93",
+    "timestamp": "2026-08-12T14:17:07.064Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "40歲朱智賢曬火辣比堅尼騷蜜桃臀　疑走出分手陰霾盛大解放展自信",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260812/1164111102838050816683714.png/a8At_VAcKDNZ90rUkQQRtDXVaJLA_tK-ZGzb7WRs2-0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60379103/%E8%81%AF%E9%82%A6%E6%B3%95%E5%AE%98%E7%A6%81%E9%83%B5%E6%94%BF%E9%99%90%E5%88%B6%E9%83%B5%E5%AF%84%E6%8A%95%E7%A5%A8-%E7%89%B9%E6%9C%97%E6%99%AE%E8%A1%8C%E6%94%BF%E4%BB%A4%E5%86%8D%E9%81%AD%E6%8C%AB%E6%95%97",
     "timestamp": "2026-08-11T23:51:54.069Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "玉女歌手三子全史丹福大學畢業　帶孫女遊名校書店培養第三代學霸",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260811/1163923337835974656428367.jpeg/rqpVkwxYkN2w9dj71zP5sRd44RyBVjOnCzo9tgs6PbY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60378952/%E9%99%B3%E7%BE%8E%E9%BD%A1%E4%B8%89%E5%AD%90%E5%85%A8%E5%8F%B2%E4%B8%B9%E7%A6%8F%E5%A4%A7%E5%AD%B8%E7%95%A2%E6%A5%AD-%E5%B8%B6%E5%AD%AB%E5%A5%B3%E9%81%8A%E5%90%8D%E6%A0%A1%E6%9B%B8%E5%BA%97%E5%9F%B9%E9%A4%8A%E7%AC%AC%E4%B8%89%E4%BB%A3%E5%AD%B8%E9%9C%B8",
-    "timestamp": "2026-08-11T22:51:53.250Z",
     "strategy": ".content-card__main"
   }
 ];
