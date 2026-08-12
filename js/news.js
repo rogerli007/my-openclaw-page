@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-12T22:51:55.481Z
+// Last updated: 2026-08-12T23:22:03.786Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "加拿大童黨欺凌　16歲女遭騎壓狂毆暈倒　旁人只顧拍片起哄無施援",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260811/1163928527871938560963721.png/B_dPDyr-H-mpNu9YXlamFqbhBGz7hWWXz4tVoM-LVaA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E8%A9%B1%E9%A1%8C/60377739/%E5%8A%A0%E6%8B%BF%E5%A4%A7%E7%AB%A5%E9%BB%A8%E6%AC%BA%E5%87%8C-16%E6%AD%B2%E5%A5%B3%E9%81%AD%E9%A8%8E%E5%A3%93%E7%8B%82%E6%AF%86%E6%9A%88%E5%80%92-%E6%97%81%E4%BA%BA%E5%8F%AA%E9%A1%A7%E6%8B%8D%E7%89%87%E8%B5%B7%E5%93%84%E7%84%A1%E6%96%BD%E6%8F%B4",
+    "timestamp": "2026-08-12T23:22:03.786Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "《古惑仔》兩位真正大佬重聚食飯　兩位加埋150歲依然霸氣十足",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260213/1099062012236795904813590.jpeg/Ik0IyVFXF7Aftr2YWvOfpjsN8Iy2qvfE9Z5QAs-eUAI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60379379/%E5%A4%A7%E7%B6%AD%E4%BF%AE-%E6%A5%AD%E4%B8%BB%E8%A6%AA%E8%87%AA%E6%8A%95%E7%A5%A8%E9%96%80%E6%AA%BB%E6%93%AC%E8%A8%AD%E4%B8%89%E7%B4%9A%E5%88%B6-%E6%9C%83%E8%AD%B0%E6%B3%95%E5%AE%9A%E4%BA%BA%E6%95%B8%E5%A2%9E%E8%87%B3%E6%9C%80%E5%A4%9A20",
     "timestamp": "2026-08-12T10:55:18.760Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "5人網購球賽演唱會等電子門票　獲無效二維碼　警拘2人涉$1.6萬",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260812/1164269319429820416750236.jpeg/F4JR70N-ORppXOpoDCp41ztdvnjIGvUihzw8nYc8PJ0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60379352/5%E4%BA%BA%E7%B6%B2%E8%B3%BC%E7%90%83%E8%B3%BD%E6%BC%94%E5%94%B1%E6%9C%83%E7%AD%89%E9%9B%BB%E5%AD%90%E9%96%80%E7%A5%A8-%E7%8D%B2%E7%84%A1%E6%95%88%E4%BA%8C%E7%B6%AD%E7%A2%BC-%E8%AD%A6%E6%8B%982%E4%BA%BA%E6%B6%89-1-6%E8%90%AC",
-    "timestamp": "2026-08-12T10:30:05.250Z",
     "strategy": ".content-card__main"
   }
 ];
