@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-12T22:22:19.731Z
+// Last updated: 2026-08-12T22:51:55.481Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "《古惑仔》兩位真正大佬重聚食飯　兩位加埋150歲依然霸氣十足",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260812/1164292261328982016409167.jpeg/duso0CttEg5G1u8VRs2Uz-TfttwH2l_h8GqOmPBqjpg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60379208/%E5%8F%A4%E6%83%91%E4%BB%94-%E5%90%B3%E5%BF%97%E9%9B%84%E9%99%B3%E6%83%A0%E6%95%8F%E9%87%8D%E8%81%9A%E9%A3%9F%E9%A3%AF-%E5%85%A9%E4%BD%8D%E5%8A%A0%E5%9F%8B150%E6%AD%B2%E4%BE%9D%E7%84%B6%E9%9C%B8%E6%B0%A3%E5%8D%81%E8%B6%B3",
+    "timestamp": "2026-08-12T22:51:55.481Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "酷熱天氣｜今日市區最高氣溫料34度　大致多雲有一兩陣驟雨",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260812/1164269319429820416750236.jpeg/F4JR70N-ORppXOpoDCp41ztdvnjIGvUihzw8nYc8PJ0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60379352/5%E4%BA%BA%E7%B6%B2%E8%B3%BC%E7%90%83%E8%B3%BD%E6%BC%94%E5%94%B1%E6%9C%83%E7%AD%89%E9%9B%BB%E5%AD%90%E9%96%80%E7%A5%A8-%E7%8D%B2%E7%84%A1%E6%95%88%E4%BA%8C%E7%B6%AD%E7%A2%BC-%E8%AD%A6%E6%8B%982%E4%BA%BA%E6%B6%89-1-6%E8%90%AC",
     "timestamp": "2026-08-12T10:30:05.250Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "天后甄妮淡出幕前與女兒相依為命　歸隱萬坪莊園包到冚駕駛除草機",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260812/1164179968867962880275401.jpeg/krnQEucv8hyyb9VEOSLzYb-8t4Ccr9IeVrWGH1a1hh8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60379192/%E5%A4%A9%E5%90%8E%E7%94%84%E5%A6%AE%E6%B7%A1%E5%87%BA%E5%B9%95%E5%89%8D%E6%AD%B8%E9%9A%B1%E8%90%AC%E5%9D%AA%E8%8E%8A%E5%9C%92-%E5%8C%85%E5%88%B0%E5%86%9A%E9%A7%95%E9%A7%9B%E9%99%A4%E8%8D%89%E6%A9%9F%E8%88%87%E5%A5%B3%E5%85%92%E7%9B%B8%E4%BE%9D%E7%82%BA%E5%91%BD",
-    "timestamp": "2026-08-12T09:20:16.427Z",
     "strategy": ".content-card__main"
   }
 ];
