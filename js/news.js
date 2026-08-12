@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-11T23:51:54.069Z
+// Last updated: 2026-08-12T00:36:02.905Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "電腦節｜四大巨頭解密AI實戰｜Samsung工作坊速開外掛",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260811/1163804569763844096284197.png/v6wphmqLqnXN39ZIgP-PEfu_WWC5t-ghAYxIZAGMSGQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60378790/%E9%9B%BB%E8%85%A6%E7%AF%80-%E5%9B%9B%E5%A4%A7%E5%B7%A8%E9%A0%AD%E8%A7%A3%E5%AF%86ai%E5%AF%A6%E6%88%B0-samsung%E5%B7%A5%E4%BD%9C%E5%9D%8A%E9%80%9F%E9%96%8B%E5%A4%96%E6%8E%9B",
+    "timestamp": "2026-08-12T00:36:02.905Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "聯邦法官禁郵政限制郵寄投票　特朗普行政令再遭挫敗",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260811/1163916517025255424908627.jpeg/HieDbbkUrhCPC7vMngbRnDU6_uayEsoVkSA-_pEgPv4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60378995/%E8%B2%B4%E5%B7%9E%E7%94%B7%E8%BF%AB%E5%A5%B3%E5%8F%8B%E5%90%8C%E8%B7%B3%E6%B2%B3%E5%8D%BB%E7%8D%A8%E8%87%AA%E9%80%83%E7%94%9F-%E5%AE%B6%E5%B1%AC%E5%B0%8B%E5%A5%B317%E5%B9%B4%E6%96%B9%E7%9F%A5%E6%97%A9%E5%B7%B2%E6%BA%BA%E4%BA%A1",
     "timestamp": "2026-08-11T12:40:29.128Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "一周星星｜周星馳激罕接受專訪　被劉嘉玲逼問「點解唔再做幕前」",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260811/1163873956311076864532691.jpeg/JFt2oHcljm6A4_3AToeVqXMqTrLzbIqmKWD-YSlg_mE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60378907/%E4%B8%80%E5%91%A8%E6%98%9F%E6%98%9F-%E5%91%A8%E6%98%9F%E9%A6%B3%E6%BF%80%E7%BD%95%E6%8E%A5%E5%8F%97%E5%B0%88%E8%A8%AA-%E8%A2%AB%E5%8A%89%E5%98%89%E7%8E%B2%E9%80%BC%E5%95%8F-%E9%BB%9E%E8%A7%A3%E5%94%94%E5%86%8D%E5%81%9A%E5%B9%95%E5%89%8D",
-    "timestamp": "2026-08-11T11:36:50.091Z",
     "strategy": ".content-card__main"
   }
 ];
