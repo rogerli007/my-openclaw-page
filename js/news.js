@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-12T01:16:48.873Z
+// Last updated: 2026-08-12T02:02:46.473Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "長壽｜研究：每日7分鐘改善3習慣多活10年　進階版增4年無病壽命",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260805/1161726643329306624130459.jpeg/DOvE8TXXSMTMAprH3IxxqNchssmnLFdfdfkY4XX5GOE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/60374038/%E9%95%B7%E5%A3%BD-%E7%A0%94%E7%A9%B6-%E6%AF%8F%E6%97%A57%E5%88%86%E9%90%98%E6%94%B9%E5%96%843%E7%BF%92%E6%85%A3%E5%A4%9A%E6%B4%BB10%E5%B9%B4-%E9%80%B2%E9%9A%8E%E7%89%88%E5%A2%9E4%E5%B9%B4%E7%84%A1%E7%97%85%E5%A3%BD%E5%91%BD",
+    "timestamp": "2026-08-12T02:02:46.473Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "西貢布袋澳火警　一人受傷　消防水陸兩路救援",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250312/976514689297027072756014.jpeg/xlC5zEb2KzYUVA66zhEAXzw9rI-tUhEyFE6HtRROh7U?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60379056/%E5%8D%B0%E5%BA%A6%E8%88%AA%E7%A9%BA%E5%AE%A2%E6%A9%9F%E6%80%A5%E5%A2%9C91%E7%B1%B3%E9%87%8017%E5%82%B7-%E5%8D%B0%E5%AA%92-%E6%A9%9F%E9%95%B7%E9%A9%97%E6%AF%92%E5%B0%8D%E5%A4%A7%E9%BA%BB%E5%91%88%E9%99%BD%E6%80%A7%E5%8F%8D%E6%87%89",
     "timestamp": "2026-08-11T14:44:14.674Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普簽令縮減兒童接種疫苗項目　港衞生署：更改計劃須科學為本",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/2304099/org/c279221789c16b41d92b2cda31bac0e0.jpg/iA8tj2AJ13ou4wIjtBVZWm8c7rGvpAh95SVEQuUlREI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60379030/%E7%89%B9%E6%9C%97%E6%99%AE%E7%B0%BD%E4%BB%A4%E7%B8%AE%E6%B8%9B%E5%85%92%E7%AB%A5%E6%8E%A5%E7%A8%AE%E7%96%AB%E8%8B%97%E9%A0%85%E7%9B%AE-%E6%B8%AF%E8%A1%9E%E7%94%9F%E7%BD%B2-%E6%9B%B4%E6%94%B9%E8%A8%88%E5%8A%83%E9%A0%88%E7%A7%91%E5%AD%B8%E7%82%BA%E6%9C%AC",
-    "timestamp": "2026-08-11T13:00:41.241Z",
     "strategy": ".content-card__main"
   }
 ];
