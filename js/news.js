@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-12T12:54:03.070Z
+// Last updated: 2026-08-12T13:37:21.073Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "40歲朱智賢曬火辣比堅尼騷蜜桃臀　疑走出分手陰霾盛大解放展自信",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260812/1164179281224404992687215.jpeg/wL7y864Q5ytwj95ime-mlWp1KtEYc9887Z-aH-2fmh8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E5%A8%9B%E6%A8%82/60379191/40%E6%AD%B2%E6%9C%B1%E6%99%BA%E8%B3%A2%E6%9B%AC%E7%81%AB%E8%BE%A3%E6%AF%94%E5%A0%85%E5%B0%BC%E9%A8%B7%E8%9C%9C%E6%A1%83%E8%87%80-%E7%96%91%E8%B5%B0%E5%87%BA%E5%88%86%E6%89%8B%E9%99%B0%E9%9C%BE%E7%9B%9B%E5%A4%A7%E8%A7%A3%E6%94%BE%E5%B1%95%E8%87%AA%E4%BF%A1",
+    "timestamp": "2026-08-12T13:37:21.073Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "日本「終戰日」將至　高市早苗據報擬不參拜靖國神社",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260811/1163923337835974656428367.jpeg/rqpVkwxYkN2w9dj71zP5sRd44RyBVjOnCzo9tgs6PbY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60378952/%E9%99%B3%E7%BE%8E%E9%BD%A1%E4%B8%89%E5%AD%90%E5%85%A8%E5%8F%B2%E4%B8%B9%E7%A6%8F%E5%A4%A7%E5%AD%B8%E7%95%A2%E6%A5%AD-%E5%B8%B6%E5%AD%AB%E5%A5%B3%E9%81%8A%E5%90%8D%E6%A0%A1%E6%9B%B8%E5%BA%97%E5%9F%B9%E9%A4%8A%E7%AC%AC%E4%B8%89%E4%BB%A3%E5%AD%B8%E9%9C%B8",
     "timestamp": "2026-08-11T22:51:53.250Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "韓聯參：朝鮮向東部海域發射彈道導彈",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20231010/788396987723550720106823.jpeg/THDbBOkIwyVFDLz7Lcn7EXvhs9-jqPanUqI3S1KiN0s?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60379100/%E9%9F%93%E8%81%AF%E5%8F%83-%E6%9C%9D%E9%AE%AE%E5%90%91%E6%9D%B1%E9%83%A8%E6%B5%B7%E5%9F%9F%E7%99%BC%E5%B0%84%E5%BD%88%E9%81%93%E5%B0%8E%E5%BD%88",
-    "timestamp": "2026-08-11T22:22:33.489Z",
     "strategy": ".content-card__main"
   }
 ];
