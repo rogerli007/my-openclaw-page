@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-12T11:53:08.617Z
+// Last updated: 2026-08-12T12:26:55.218Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "Baby Shark兒歌MV主演長大成人　將以藝名Baby Shark Boy韓國出道",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260812/1164256494984630272647508.jpeg/pQAEu8ocej7VMCk3q44hDZHOSzs-mK2aaLK3V2iyt1c",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60379332/baby-shark%E5%85%92%E6%AD%8Cmv%E4%B8%BB%E6%BC%94%E9%95%B7%E5%A4%A7%E6%88%90%E4%BA%BA-%E5%B0%87%E4%BB%A5%E8%97%9D%E5%90%8Dbaby-shark-boy%E9%9F%93%E5%9C%8B%E5%87%BA%E9%81%93",
+    "timestamp": "2026-08-12T12:26:55.218Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "朱鎔基逝世｜新聞聯播第三條播出完整訃告　時長約11分半",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260812/1164080587577757696718902.png/fpZQ4c53dU7zNopRjFV-sfGU__T79f7HCk03DwpNNw8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60379097/%E7%BE%85%E9%A6%AC%E5%B0%BC%E4%BA%9E%E9%BB%91%E6%B5%B7%E6%B0%A3%E7%94%B0%E7%99%BC%E7%8F%BE%E6%BC%82%E6%B5%81%E4%BF%84%E7%84%A1%E4%BA%BA%E6%A9%9F-%E5%A4%9A%E5%9C%8B%E8%81%AF%E5%90%88%E6%B8%85%E9%99%A4%E6%B0%B4%E9%9B%B7",
     "timestamp": "2026-08-11T21:52:34.619Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "俄襲扎波羅熱鋼鐵廠釀7死　基輔指莫斯科動用朝鮮導彈",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260812/1164060833261555712163509.jpeg/Xk3hyLyE9g-dG06CQLApMFQmPrkX_sOqXBKed1wSnnc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60379090/%E4%BF%84%E8%A5%B2%E6%89%8E%E6%B3%A2%E7%BE%85%E7%86%B1%E9%8B%BC%E9%90%B5%E5%BB%A0%E9%87%807%E6%AD%BB-%E5%9F%BA%E8%BC%94%E6%8C%87%E8%8E%AB%E6%96%AF%E7%A7%91%E5%8B%95%E7%94%A8%E6%9C%9D%E9%AE%AE%E5%B0%8E%E5%BD%88",
-    "timestamp": "2026-08-11T20:57:30.978Z",
     "strategy": ".content-card__main"
   }
 ];
