@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-12T03:04:00.414Z
+// Last updated: 2026-08-12T03:54:22.458Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "鄭麗文接受《時代》專訪：兩岸重大改變須尊重台灣人的利益和意願",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260812/1164175083430744064620837.jpeg/akNqtIFV2WB9Pb7Enh7wPPZil6lvfA1l851KIPOdSiA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8F%B0%E7%81%A3%E6%96%B0%E8%81%9E/60379176/%E9%84%AD%E9%BA%97%E6%96%87%E6%8E%A5%E5%8F%97-%E6%99%82%E4%BB%A3-%E5%B0%88%E8%A8%AA-%E5%85%A9%E5%B2%B8%E9%87%8D%E5%A4%A7%E6%94%B9%E8%AE%8A%E9%A0%88%E5%B0%8A%E9%87%8D%E5%8F%B0%E7%81%A3%E4%BA%BA%E7%9A%84%E5%88%A9%E7%9B%8A%E5%92%8C%E6%84%8F%E9%A1%98",
+    "timestamp": "2026-08-12T03:54:22.458Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "SK海力士遇「伯樂」　摩通力撐目標價275萬韓元　三大催化劑將至",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260811/1163967768240852992258093.jpeg/7xGwM2bz3Yxth_CvLQa2nTDB4x6BsTw9FB-DJRQfgyU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60379051/%E5%93%A5%E5%80%AB%E6%AF%94%E4%BA%9E7-4%E7%B4%9A%E5%A4%A7%E5%9C%B0%E9%9C%87%E5%A2%9E%E8%87%B3224%E6%AD%BB-%E7%BF%92%E8%BF%91%E5%B9%B3%E8%87%B4%E6%85%B0%E5%95%8F%E9%9B%BB",
     "timestamp": "2026-08-11T15:39:55.301Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美股｜美伊協議露曙光　道指早段曾升近250點",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250529/1004894676605472768376024.jpeg/iqzPKOj7JcSNx3oGiU4TGDGAQwgoE4OSf6dts3-nbbM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60379063/%E7%BE%8E%E8%82%A1-%E7%BE%8E%E4%BC%8A%E5%8D%94%E8%AD%B0%E9%9C%B2%E6%9B%99%E5%85%89-%E9%81%93%E6%8C%87%E6%97%A9%E6%AE%B5%E6%9B%BE%E5%8D%87%E8%BF%91250%E9%BB%9E",
-    "timestamp": "2026-08-11T15:13:06.061Z",
     "strategy": ".content-card__main"
   }
 ];
