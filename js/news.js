@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-12T14:17:07.064Z
+// Last updated: 2026-08-12T14:45:13.091Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "瑤瑤黃喬歆赴韓國拍泳裝照大放性感　胸前挖空戰袍吸睛展傲人上圍",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260812/1164151186564059136147395.png/wJ4pFF3uj_m16c9OVW66lISLfw7gFgQIji4uWI4uLlg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E5%A8%9B%E6%A8%82/60378953/%E7%91%A4%E7%91%A4%E9%BB%83%E5%96%AC%E6%AD%86%E8%B5%B4%E9%9F%93%E5%9C%8B%E6%8B%8D%E6%B3%B3%E8%A3%9D%E7%85%A7%E5%A4%A7%E6%94%BE%E6%80%A7%E6%84%9F-%E8%83%B8%E5%89%8D%E6%8C%96%E7%A9%BA%E6%88%B0%E8%A2%8D%E5%90%B8%E7%9D%9B%E5%B1%95%E5%82%B2%E4%BA%BA%E4%B8%8A%E5%9C%8D",
+    "timestamp": "2026-08-12T14:45:13.091Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "朱鎔基逝世｜記招金句連篇　回應港媒｢瞪眼｣說法：從不嚇唬老百姓",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260811/1163804569763844096284197.png/v6wphmqLqnXN39ZIgP-PEfu_WWC5t-ghAYxIZAGMSGQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60378790/%E9%9B%BB%E8%85%A6%E7%AF%80-%E5%9B%9B%E5%A4%A7%E5%B7%A8%E9%A0%AD%E8%A7%A3%E5%AF%86ai%E5%AF%A6%E6%88%B0-samsung%E5%B7%A5%E4%BD%9C%E5%9D%8A%E9%80%9F%E9%96%8B%E5%A4%96%E6%8E%9B",
     "timestamp": "2026-08-12T00:36:02.905Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "聯邦法官禁郵政限制郵寄投票　特朗普行政令再遭挫敗",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260812/1164111102838050816683714.png/a8At_VAcKDNZ90rUkQQRtDXVaJLA_tK-ZGzb7WRs2-0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60379103/%E8%81%AF%E9%82%A6%E6%B3%95%E5%AE%98%E7%A6%81%E9%83%B5%E6%94%BF%E9%99%90%E5%88%B6%E9%83%B5%E5%AF%84%E6%8A%95%E7%A5%A8-%E7%89%B9%E6%9C%97%E6%99%AE%E8%A1%8C%E6%94%BF%E4%BB%A4%E5%86%8D%E9%81%AD%E6%8C%AB%E6%95%97",
-    "timestamp": "2026-08-11T23:51:54.069Z",
     "strategy": ".content-card__main"
   }
 ];
