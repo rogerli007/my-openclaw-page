@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-12T20:32:32.414Z
+// Last updated: 2026-08-12T21:52:18.753Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "AI投入急升　騰訊季度自由現金流轉負138億　劉熾平派定心丸",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20230830/773601930277556224461390.jpeg/w0POTUWYzX_5j0PUDQB_aos0jN-hFifL7KxtEeysbRE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60379471/ai%E6%8A%95%E5%85%A5%E6%80%A5%E5%8D%87-%E9%A8%B0%E8%A8%8A%E5%AD%A3%E5%BA%A6%E8%87%AA%E7%94%B1%E7%8F%BE%E9%87%91%E6%B5%81%E8%BD%89%E8%B2%A0138%E5%84%84-%E5%8A%89%E7%86%BE%E5%B9%B3%E6%B4%BE%E5%AE%9A%E5%BF%83%E4%B8%B8",
+    "timestamp": "2026-08-12T21:52:18.753Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "新皇崗口岸開通｜海關關長陳子達到場巡視　確保各項工作落實到位",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260812/1164231352686481408074365.jpeg/OaGxKRh0NjEgDu3AJfZ9jIhFIFBXkTHASubblErm25Q?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60379279/%E7%BE%8E%E5%AA%92%E5%88%86%E6%9E%90%E6%8C%87%E7%89%B9%E6%9C%97%E6%99%AE%E6%88%96%E9%99%B7%E7%95%B6%E5%B9%B4%E5%8D%A1%E7%89%B9%E5%9B%B0%E5%A2%83-%E4%BC%8A%E6%9C%97%E6%88%B0%E4%BA%8B%E6%81%90%E6%8B%96%E5%9E%AE%E4%B8%AD%E6%9C%9F%E9%81%B8%E8%88%89",
     "timestamp": "2026-08-12T08:16:09.002Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "中美為什麼不打起來，伊朗總統為什麼提出這個問題？",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260618/1144168665374003200087195.jpeg/pcFjp6eiPBJVqSDlk6LUQnH2PPKz1OnT-5UQA_uVEAM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%9C%8B%E9%9A%9B%E5%88%86%E6%9E%90/60379247/%E4%B8%AD%E7%BE%8E%E7%82%BA%E4%BB%80%E9%BA%BC%E4%B8%8D%E6%89%93%E8%B5%B7%E4%BE%86-%E4%BC%8A%E6%9C%97%E7%B8%BD%E7%B5%B1%E7%82%BA%E4%BB%80%E9%BA%BC%E6%8F%90%E5%87%BA%E9%80%99%E5%80%8B%E5%95%8F%E9%A1%8C",
-    "timestamp": "2026-08-12T06:50:09.529Z",
     "strategy": ".content-card__main"
   }
 ];
