@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-12T19:44:05.463Z
+// Last updated: 2026-08-12T20:08:24.700Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "新皇崗口岸開通｜海關關長陳子達到場巡視　確保各項工作落實到位",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260813/1164412621227560960570216.jpeg/JqiLWzoBcVBhOCvfQewlUss2YLQboOiFnjxXPZ48Vz0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60379467/%E6%96%B0%E7%9A%87%E5%B4%97%E5%8F%A3%E5%B2%B8%E9%96%8B%E9%80%9A-%E6%B5%B7%E9%97%9C%E9%97%9C%E9%95%B7%E9%99%B3%E5%AD%90%E9%81%94%E5%88%B0%E5%A0%B4%E5%B7%A1%E8%A6%96-%E7%A2%BA%E4%BF%9D%E5%90%84%E9%A0%85%E5%B7%A5%E4%BD%9C%E8%90%BD%E5%AF%A6%E5%88%B0%E4%BD%8D",
+    "timestamp": "2026-08-12T20:08:24.700Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "新皇崗口岸開通｜海關關長陳子達到場巡視　確保各項工作落實到位",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/3296681/org/dce2a99d06c3ac423d19ba7e0e5c6a7f.jpg/ticvb9Fxe6Hcs_Z0D7Eu3aNiG7zOGeLxyRZmF8kWZhc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60379231/sk%E6%B5%B7%E5%8A%9B%E5%A3%AB%E4%B8%80%E5%BA%A6%E5%8D%877-%E6%B7%A1%E9%A6%AC%E9%8C%AB%E6%93%9A%E5%A0%B1%E9%A6%96%E6%AC%A1%E9%80%B2%E8%BB%8D%E9%9F%93%E8%82%A1-%E9%87%8D%E6%B3%A8%E6%8A%BC%E5%85%A9%E5%A4%A7%E6%99%B6%E7%89%87%E5%B7%A8%E9%A0%AD",
     "timestamp": "2026-08-12T06:06:07.250Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "蜘蛛俠英雄重生｜Sadie Sink莎蒂辛克護膚秘訣 必備防曬免敏感",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260812/1164189764987916288251893.jpeg/nhIUaTbbZu7aqdtVwEKxMZLUJNANneomZHljKmR5Yyo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%86%AB%E7%BE%8EEasy/60379181/%E8%9C%98%E8%9B%9B%E4%BF%A0%E8%8B%B1%E9%9B%84%E9%87%8D%E7%94%9F-sadie-sink%E8%8E%8E%E8%92%82%E8%BE%9B%E5%85%8B%E8%AD%B7%E8%86%9A%E7%A7%98%E8%A8%A3-%E5%BF%85%E5%82%99%E9%98%B2%E6%9B%AC%E5%85%8D%E6%95%8F%E6%84%9F",
-    "timestamp": "2026-08-12T05:25:37.690Z",
     "strategy": ".content-card__main"
   }
 ];
