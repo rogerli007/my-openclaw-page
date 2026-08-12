@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-12T03:54:22.458Z
+// Last updated: 2026-08-12T04:41:56.271Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美軍開火攔截掛巴拿馬國旗貨輪　稱其無視警告硬闖封鎖線",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260812/1164179068761935872874391.jpeg/Mf1f4gL1sT_Y0AMD4s_RJX33swMXpIGyxqmWN8apljc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60379194/%E7%BE%8E%E8%BB%8D%E9%96%8B%E7%81%AB%E6%94%94%E6%88%AA%E6%8E%9B%E5%B7%B4%E6%8B%BF%E9%A6%AC%E5%9C%8B%E6%97%97%E8%B2%A8%E8%BC%AA-%E7%A8%B1%E5%85%B6%E7%84%A1%E8%A6%96%E8%AD%A6%E5%91%8A%E7%A1%AC%E9%97%96%E5%B0%81%E9%8E%96%E7%B7%9A",
+    "timestamp": "2026-08-12T04:41:56.271Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "鄭麗文接受《時代》專訪：兩岸重大改變須尊重台灣人的利益和意願",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260811/1163997728653447168802139.jpeg/iDH4DX2mfpwZ4_K8Mr1OWuCnWLB5-qTfuMuEsrjLhLI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60379072/%E8%AD%A6%E8%8D%83%E7%81%A3%E6%89%93%E6%93%8A%E8%A1%97%E9%A0%AD%E8%B3%A3%E6%B7%AB%E6%AA%A2%E5%A4%A7%E9%87%8F%E9%81%BF%E5%AD%95%E5%A5%97-52%E6%AD%B2%E5%A5%B3%E8%A2%AB%E6%8D%95-%E6%A1%88%E4%BB%B6%E6%9C%AC%E6%9C%88%E6%8F%90%E5%A0%82",
     "timestamp": "2026-08-11T16:12:17.282Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "哥倫比亞7.4級大地震增至224死　習近平致慰問電",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260811/1163967768240852992258093.jpeg/7xGwM2bz3Yxth_CvLQa2nTDB4x6BsTw9FB-DJRQfgyU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60379051/%E5%93%A5%E5%80%AB%E6%AF%94%E4%BA%9E7-4%E7%B4%9A%E5%A4%A7%E5%9C%B0%E9%9C%87%E5%A2%9E%E8%87%B3224%E6%AD%BB-%E7%BF%92%E8%BF%91%E5%B9%B3%E8%87%B4%E6%85%B0%E5%95%8F%E9%9B%BB",
-    "timestamp": "2026-08-11T15:39:55.301Z",
     "strategy": ".content-card__main"
   }
 ];
