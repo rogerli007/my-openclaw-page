@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-13T03:05:33.697Z
+// Last updated: 2026-08-13T04:02:11.904Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "豪擲14億擴版圖！　新秀麗一度升7%　收購BÉIS 85%股權",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/1503312/org/c7561ee3ff42db7b2cc6cd7640d236c0.jpg/sywlCZ-JHp5Xt8RrPQTjHFw7zLovvxR8xaddgMWnXYA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60379568/%E8%B1%AA%E6%93%B214%E5%84%84%E6%93%B4%E7%89%88%E5%9C%96-%E6%96%B0%E7%A7%80%E9%BA%97%E4%B8%80%E5%BA%A6%E5%8D%877-%E6%94%B6%E8%B3%BCb%C3%A9is-85-%E8%82%A1%E6%AC%8A",
+    "timestamp": "2026-08-13T04:02:11.904Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "來稿｜流動圖書館不只是補位服務　而是城市「閱讀公平」的試金石",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260812/1164179281224404992687215.jpeg/wL7y864Q5ytwj95ime-mlWp1KtEYc9887Z-aH-2fmh8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E5%A8%9B%E6%A8%82/60379191/40%E6%AD%B2%E6%9C%B1%E6%99%BA%E8%B3%A2%E6%9B%AC%E7%81%AB%E8%BE%A3%E6%AF%94%E5%A0%85%E5%B0%BC%E9%A8%B7%E8%9C%9C%E6%A1%83%E8%87%80-%E7%96%91%E8%B5%B0%E5%87%BA%E5%88%86%E6%89%8B%E9%99%B0%E9%9C%BE%E7%9B%9B%E5%A4%A7%E8%A7%A3%E6%94%BE%E5%B1%95%E8%87%AA%E4%BF%A1",
     "timestamp": "2026-08-12T13:37:21.073Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "日本「終戰日」將至　高市早苗據報擬不參拜靖國神社",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260811/1163858820657582080639827.jpeg/yzDvy_704livGF6eXLB9P-7CSJLQc8dd7s6_0-7Ov9M?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60379425/%E6%97%A5%E6%9C%AC-%E7%B5%82%E6%88%B0%E6%97%A5-%E5%B0%87%E8%87%B3-%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E6%93%9A%E5%A0%B1%E6%93%AC%E4%B8%8D%E5%8F%83%E6%8B%9C%E9%9D%96%E5%9C%8B%E7%A5%9E%E7%A4%BE",
-    "timestamp": "2026-08-12T12:54:03.070Z",
     "strategy": ".content-card__main"
   }
 ];
