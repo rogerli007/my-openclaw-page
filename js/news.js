@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-13T13:36:56.492Z
+// Last updated: 2026-08-13T14:18:42.983Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "橫渠四句中的朱鎔基　中國政治家的好榜樣",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20181018/15398449815bc82b755b57f.jpg/VTNdCjCV-aLAJnRQL5_aC3M50Mbmty6Yz6r8r8-q_K8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E4%B8%AD%E5%9C%8B%E8%A7%80%E5%AF%9F/60379826/%E6%A9%AB%E6%B8%A0%E5%9B%9B%E5%8F%A5%E4%B8%AD%E7%9A%84%E6%9C%B1%E9%8E%94%E5%9F%BA-%E4%B8%AD%E5%9C%8B%E6%94%BF%E6%B2%BB%E5%AE%B6%E7%9A%84%E6%A6%9C%E6%A8%A3",
+    "timestamp": "2026-08-13T14:18:42.983Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "台灣首輛「張雪機車」遭查扣引網民不滿　車主發聲：這是個人財產",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260812/1164292261328982016409167.jpeg/duso0CttEg5G1u8VRs2Uz-TfttwH2l_h8GqOmPBqjpg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60379208/%E5%8F%A4%E6%83%91%E4%BB%94-%E5%90%B3%E5%BF%97%E9%9B%84%E9%99%B3%E6%83%A0%E6%95%8F%E9%87%8D%E8%81%9A%E9%A3%9F%E9%A3%AF-%E5%85%A9%E4%BD%8D%E5%8A%A0%E5%9F%8B150%E6%AD%B2%E4%BE%9D%E7%84%B6%E9%9C%B8%E6%B0%A3%E5%8D%81%E8%B6%B3",
     "timestamp": "2026-08-12T22:51:55.481Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "酷熱天氣｜今日市區最高氣溫料34度　大致多雲有一兩陣驟雨",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260813/1164454168530784256345298.jpeg/vh55umh15pe-yeZLgqov4yzEZf2bUPOK6UDOKtNAzio?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60379477/%E9%85%B7%E7%86%B1%E5%A4%A9%E6%B0%A3-%E4%BB%8A%E6%97%A5%E5%B8%82%E5%8D%80%E6%9C%80%E9%AB%98%E6%B0%A3%E6%BA%AB%E6%96%9934%E5%BA%A6-%E5%A4%A7%E8%87%B4%E5%A4%9A%E9%9B%B2%E6%9C%89%E4%B8%80%E5%85%A9%E9%99%A3%E9%A9%9F%E9%9B%A8",
-    "timestamp": "2026-08-12T22:22:19.731Z",
     "strategy": ".content-card__main"
   }
 ];
