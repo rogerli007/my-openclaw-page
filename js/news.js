@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-13T14:18:42.983Z
+// Last updated: 2026-08-13T14:45:17.320Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "日本千葉縣暴雨成災　積水湧入巴士車廂　網民：坐車如坐船｜有片",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260813/1164700893417836544407923.jpeg/Mbz-gJDulZbp_LkwCSCzPgtTQCdatgCOrIwTm6yME5s?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60379835/%E6%97%A5%E6%9C%AC%E5%8D%83%E8%91%89%E7%B8%A3%E6%9A%B4%E9%9B%A8%E6%88%90%E7%81%BD-%E7%A9%8D%E6%B0%B4%E6%B9%A7%E5%85%A5%E5%B7%B4%E5%A3%AB%E8%BB%8A%E5%BB%82-%E7%B6%B2%E6%B0%91-%E5%9D%90%E8%BB%8A%E5%A6%82%E5%9D%90%E8%88%B9-%E6%9C%89%E7%89%87",
+    "timestamp": "2026-08-13T14:45:17.320Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "橫渠四句中的朱鎔基　中國政治家的好榜樣",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260811/1163928527871938560963721.png/B_dPDyr-H-mpNu9YXlamFqbhBGz7hWWXz4tVoM-LVaA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E8%A9%B1%E9%A1%8C/60377739/%E5%8A%A0%E6%8B%BF%E5%A4%A7%E7%AB%A5%E9%BB%A8%E6%AC%BA%E5%87%8C-16%E6%AD%B2%E5%A5%B3%E9%81%AD%E9%A8%8E%E5%A3%93%E7%8B%82%E6%AF%86%E6%9A%88%E5%80%92-%E6%97%81%E4%BA%BA%E5%8F%AA%E9%A1%A7%E6%8B%8D%E7%89%87%E8%B5%B7%E5%93%84%E7%84%A1%E6%96%BD%E6%8F%B4",
     "timestamp": "2026-08-12T23:22:03.786Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "《古惑仔》兩位真正大佬重聚食飯　兩位加埋150歲依然霸氣十足",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260812/1164292261328982016409167.jpeg/duso0CttEg5G1u8VRs2Uz-TfttwH2l_h8GqOmPBqjpg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60379208/%E5%8F%A4%E6%83%91%E4%BB%94-%E5%90%B3%E5%BF%97%E9%9B%84%E9%99%B3%E6%83%A0%E6%95%8F%E9%87%8D%E8%81%9A%E9%A3%9F%E9%A3%AF-%E5%85%A9%E4%BD%8D%E5%8A%A0%E5%9F%8B150%E6%AD%B2%E4%BE%9D%E7%84%B6%E9%9C%B8%E6%B0%A3%E5%8D%81%E8%B6%B3",
-    "timestamp": "2026-08-12T22:51:55.481Z",
     "strategy": ".content-card__main"
   }
 ];
