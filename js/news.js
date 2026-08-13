@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-13T04:02:11.904Z
+// Last updated: 2026-08-13T05:26:33.763Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "iPhone Ultra 大屏有對手！Pixel 11 Pro Fold 行2nm核心搶先登場",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260813/1164562881069453312872156.png/0aOPjrtgbKMWkvIp6uiWi8N1tvZ0aDKEizreC4s63gs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60379582/iphone-ultra-vs-pixel-11-pro-fold%E9%BB%9E%E7%87%83%E6%91%BA%E5%B1%8F%E6%89%8B%E6%A9%9F%E7%86%B1-%E7%9B%A4%E9%BB%9E6%E5%A4%A7%E6%91%BA%E6%A9%9F",
+    "timestamp": "2026-08-13T05:26:33.763Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "豪擲14億擴版圖！　新秀麗一度升7%　收購BÉIS 85%股權",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260812/1164306094089048064850261.jpeg/25bs1GeUebWZFgGPzlyfwjmDjW50UZtkdMghW3TIIVs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60379423/%E6%9C%B1%E9%8E%94%E5%9F%BA%E9%80%9D%E4%B8%96-%E8%A8%98%E6%8B%9B%E9%87%91%E5%8F%A5%E9%80%A3%E7%AF%87-%E5%9B%9E%E6%87%89%E6%B8%AF%E5%AA%92-%E7%9E%AA%E7%9C%BC-%E8%AA%AA%E6%B3%95-%E5%BE%9E%E4%B8%8D%E5%9A%87%E5%94%AC%E8%80%81%E7%99%BE%E5%A7%93",
     "timestamp": "2026-08-12T14:17:07.064Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "40歲朱智賢曬火辣比堅尼騷蜜桃臀　疑走出分手陰霾盛大解放展自信",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260812/1164179281224404992687215.jpeg/wL7y864Q5ytwj95ime-mlWp1KtEYc9887Z-aH-2fmh8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E5%A8%9B%E6%A8%82/60379191/40%E6%AD%B2%E6%9C%B1%E6%99%BA%E8%B3%A2%E6%9B%AC%E7%81%AB%E8%BE%A3%E6%AF%94%E5%A0%85%E5%B0%BC%E9%A8%B7%E8%9C%9C%E6%A1%83%E8%87%80-%E7%96%91%E8%B5%B0%E5%87%BA%E5%88%86%E6%89%8B%E9%99%B0%E9%9C%BE%E7%9B%9B%E5%A4%A7%E8%A7%A3%E6%94%BE%E5%B1%95%E8%87%AA%E4%BF%A1",
-    "timestamp": "2026-08-12T13:37:21.073Z",
     "strategy": ".content-card__main"
   }
 ];
