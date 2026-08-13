@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-13T21:52:32.397Z
+// Last updated: 2026-08-13T22:52:05.790Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美國對部分無人機徵100%關稅　減外國供應依賴",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260703/1149679467141271552014257.jpeg/otctR-3vJp6hnCUsqdXoR1Qa5cjvi62-gbKYL4GymC8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60379867/%E7%BE%8E%E5%9C%8B%E5%B0%8D%E9%83%A8%E5%88%86%E7%84%A1%E4%BA%BA%E6%A9%9F%E5%BE%B5100-%E9%97%9C%E7%A8%85-%E6%B8%9B%E5%A4%96%E5%9C%8B%E4%BE%9B%E6%87%89%E4%BE%9D%E8%B3%B4",
+    "timestamp": "2026-08-13T22:52:05.790Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美法官駁回特朗普訴訟　裁定哈佛未違反猶法",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260813/1164628076806541312784605.jpeg/nhA3IZa0tvJfPDXFOq6HuSKEz9_WcUOnJb5t8SW-bfE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60379774/%E6%B5%B7%E9%97%9C%E7%B2%89%E5%B6%BA%E5%B7%A5%E5%BB%88%E7%A0%B4%E7%A7%81%E7%85%99%E5%8C%85%E8%A3%9D%E5%84%B2%E5%AD%98%E5%80%89-%E6%AA%A2200%E8%90%AC%E6%94%AF%E7%A7%81%E7%85%99%E6%8B%98%E5%85%A9%E5%85%A7%E5%9C%B0%E6%BC%A2",
     "timestamp": "2026-08-13T10:00:21.216Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "福建福安市有船廠着火爆炸　致1名消防員失聯10人受傷",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260813/1164623673873666048748625.jpeg/CHulikB1Es_QDD0q5JLWimnUbfv6jG1JrnSBM650gTM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60379757/%E7%A6%8F%E5%BB%BA%E7%A6%8F%E5%AE%89%E5%B8%82%E6%9C%89%E8%88%B9%E5%BB%A0%E7%9D%80%E7%81%AB%E7%88%86%E7%82%B8-%E8%87%B41%E5%90%8D%E6%B6%88%E9%98%B2%E5%93%A1%E5%A4%B1%E8%81%AF10%E4%BA%BA%E5%8F%97%E5%82%B7",
-    "timestamp": "2026-08-13T09:34:03.673Z",
     "strategy": ".content-card__main"
   }
 ];
