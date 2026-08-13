@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-13T11:52:20.717Z
+// Last updated: 2026-08-13T12:26:43.173Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "BTS V右耳聽力僅30%當兵期間一度惡化 　與柾國健身遭20狂粉包圍",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260813/1164586590425583616814506.jpeg/1HkIWbZwF2_ujABaHjk5bMaz2dgkfsodLTCbwC0wm8A?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60379651/bts-v%E5%8F%B3%E8%80%B3%E8%81%BD%E5%8A%9B%E5%83%8530-%E7%95%B6%E5%85%B5%E6%9C%9F%E9%96%93%E4%B8%80%E5%BA%A6%E6%83%A1%E5%8C%96-%E8%88%87%E6%9F%BE%E5%9C%8B%E5%81%A5%E8%BA%AB%E9%81%AD20%E7%8B%82%E7%B2%89%E5%8C%85%E5%9C%8D",
+    "timestamp": "2026-08-13T12:26:43.173Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "港鐵：將投標競逐啟德智慧綠色運輸項目　上半年非以股代息好時機",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20230830/773601930277556224461390.jpeg/w0POTUWYzX_5j0PUDQB_aos0jN-hFifL7KxtEeysbRE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60379471/ai%E6%8A%95%E5%85%A5%E6%80%A5%E5%8D%87-%E9%A8%B0%E8%A8%8A%E5%AD%A3%E5%BA%A6%E8%87%AA%E7%94%B1%E7%8F%BE%E9%87%91%E6%B5%81%E8%BD%89%E8%B2%A0138%E5%84%84-%E5%8A%89%E7%86%BE%E5%B9%B3%E6%B4%BE%E5%AE%9A%E5%BF%83%E4%B8%B8",
     "timestamp": "2026-08-12T21:52:18.753Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "新皇崗口岸開通｜海關關長陳子達到場巡視　確保各項工作落實到位",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260813/1164412621227560960570216.jpeg/JqiLWzoBcVBhOCvfQewlUss2YLQboOiFnjxXPZ48Vz0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60379467/%E6%96%B0%E7%9A%87%E5%B4%97%E5%8F%A3%E5%B2%B8%E9%96%8B%E9%80%9A-%E6%B5%B7%E9%97%9C%E9%97%9C%E9%95%B7%E9%99%B3%E5%AD%90%E9%81%94%E5%88%B0%E5%A0%B4%E5%B7%A1%E8%A6%96-%E7%A2%BA%E4%BF%9D%E5%90%84%E9%A0%85%E5%B7%A5%E4%BD%9C%E8%90%BD%E5%AF%A6%E5%88%B0%E4%BD%8D",
-    "timestamp": "2026-08-12T20:32:32.414Z",
     "strategy": ".content-card__main"
   }
 ];
