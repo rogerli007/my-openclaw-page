@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-13T15:40:01.379Z
+// Last updated: 2026-08-13T16:38:16.437Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "荃灣麗城花園兩大廈一度停電　多人下樓抖涼　女居民呻：屋企太熱",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260814/1164729722718916608653042.jpeg/2B-d-F0sXE4d2y5VcrxYmx0b7Tn1Zf5p3RPpVucT6VY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60379847/%E8%8D%83%E7%81%A3%E9%BA%97%E5%9F%8E%E8%8A%B1%E5%9C%92%E5%85%A9%E5%A4%A7%E5%BB%88%E4%B8%80%E5%BA%A6%E5%81%9C%E9%9B%BB-%E5%A4%9A%E4%BA%BA%E4%B8%8B%E6%A8%93%E6%8A%96%E6%B6%BC-%E5%A5%B3%E5%B1%85%E6%B0%91%E5%91%BB-%E5%B1%8B%E4%BC%81%E5%A4%AA%E7%86%B1",
+    "timestamp": "2026-08-13T16:38:16.437Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "AV籃球女神辻井穗乃果重傷不忘夢想　自組女籃親任教練首戰即奪冠",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260807/1162345083069009920261930.jpeg/MVwq7W_OYH0uMVZFz_Cgcz0LX-1olHzJYhxLA2IcSwM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60379494/%E7%89%B9%E6%9C%97%E6%99%AE%E8%81%B2%E7%BE%8E%E7%BA%8C%E6%8E%A7%E5%88%B6%E9%9C%8D%E7%88%BE%E6%9C%A8%E8%8C%B2%E6%B5%B7%E5%B3%BD-%E4%BC%8A%E6%9C%97%E7%84%A1%E8%83%BD%E7%82%BA%E5%8A%9B-%E4%BC%8A%E6%96%B9%E9%87%8D%E7%94%B3%E4%BB%8D%E9%97%9C%E9%96%89",
     "timestamp": "2026-08-13T02:03:34.033Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美國男收遲來26年明信片！已故雙親生前寄出　感動：是天堂的禮物",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260812/1164255350472314880260853.png/LJz88_dJ6h35NxnNM74ADi7xPT36BZzKPeriez3q4ns?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60378619/%E7%BE%8E%E5%9C%8B%E7%94%B7%E6%94%B6%E9%81%B2%E4%BE%8626%E5%B9%B4%E6%98%8E%E4%BF%A1%E7%89%87-%E5%B7%B2%E6%95%85%E9%9B%99%E8%A6%AA%E7%94%9F%E5%89%8D%E5%AF%84%E5%87%BA-%E6%84%9F%E5%8B%95-%E6%98%AF%E5%A4%A9%E5%A0%82%E7%9A%84%E7%A6%AE%E7%89%A9",
-    "timestamp": "2026-08-13T01:16:57.153Z",
     "strategy": ".content-card__main"
   }
 ];
