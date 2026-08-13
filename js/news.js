@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-13T07:39:09.629Z
+// Last updated: 2026-08-13T09:34:03.673Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "福建福安市有船廠着火爆炸　致1名消防員失聯10人受傷",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260813/1164623673873666048748625.jpeg/CHulikB1Es_QDD0q5JLWimnUbfv6jG1JrnSBM650gTM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60379757/%E7%A6%8F%E5%BB%BA%E7%A6%8F%E5%AE%89%E5%B8%82%E6%9C%89%E8%88%B9%E5%BB%A0%E7%9D%80%E7%81%AB%E7%88%86%E7%82%B8-%E8%87%B41%E5%90%8D%E6%B6%88%E9%98%B2%E5%93%A1%E5%A4%B1%E8%81%AF10%E4%BA%BA%E5%8F%97%E5%82%B7",
+    "timestamp": "2026-08-13T09:34:03.673Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "【得獎名單】《 毛孩消費趨勢及願景調查》願景分享結果出爐！",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260813/1164362755055030272783042.png/7QABw7FdIKWcVS0nDdBSIJJZnaRtC0PbiXePsIl3j7A?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60379458/%E6%89%93%E9%A2%A8-%E5%A4%A9%E6%96%87%E5%8F%B0%E6%96%99%E4%B8%8B%E5%91%A8%E5%8F%AF%E8%83%BD%E5%BD%A2%E6%88%90%E4%BD%8E%E5%A3%93%E5%8D%80-%E4%B8%8B%E5%91%A8%E5%9B%9B%E5%8F%8A%E4%BA%94%E9%A2%A8%E5%8A%9B%E5%A2%9E%E6%9C%89%E7%8B%82%E9%A2%A8%E9%9B%B7%E6%9A%B4",
     "timestamp": "2026-08-12T18:09:18.944Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "巴勒斯坦總統訪問土耳其　埃爾多安會面後稱支持巴人建國",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260813/1164378612577603584328695.jpeg/7I4niAWhwQD3nphpbHQDKaM04XQderOQgD9A_oA_QP4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60379462/%E5%B7%B4%E5%8B%92%E6%96%AF%E5%9D%A6%E7%B8%BD%E7%B5%B1%E8%A8%AA%E5%95%8F%E5%9C%9F%E8%80%B3%E5%85%B6-%E5%9F%83%E7%88%BE%E5%A4%9A%E5%AE%89%E6%9C%83%E9%9D%A2%E5%BE%8C%E7%A8%B1%E6%94%AF%E6%8C%81%E5%B7%B4%E4%BA%BA%E5%BB%BA%E5%9C%8B",
-    "timestamp": "2026-08-12T17:40:29.899Z",
     "strategy": ".content-card__main"
   }
 ];
