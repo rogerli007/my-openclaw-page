@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-13T16:38:16.437Z
+// Last updated: 2026-08-13T17:40:32.233Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "跨部門油尖打擊非法勞工及掃黃　33男女被捕　年紀最小18歲",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260814/1164745906197630976681493.jpeg/vzABaBHgQAS9bjWwgMW5WbVpehjzhLh11iW8ZtYlvGY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60379851/%E8%B7%A8%E9%83%A8%E9%96%80%E6%B2%B9%E5%B0%96%E6%89%93%E6%93%8A%E9%9D%9E%E6%B3%95%E5%8B%9E%E5%B7%A5%E5%8F%8A%E6%8E%83%E9%BB%83-33%E7%94%B7%E5%A5%B3%E8%A2%AB%E6%8D%95-%E5%B9%B4%E7%B4%80%E6%9C%80%E5%B0%8F18%E6%AD%B2",
+    "timestamp": "2026-08-13T17:40:32.233Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "荃灣麗城花園兩大廈一度停電　多人下樓抖涼　女居民呻：屋企太熱",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/2596872/org/761a36dd910098ec777f74c7aa49ba22.jpg/B-dwH5F5gym_m7OOMEqJmd3UdwctMQ3tykebTcpHm00?v=w1920r16_9",
     "url": "https://www.hk01.com/01%E8%AB%96%E5%A3%87/60378389/%E4%BE%86%E7%A8%BF-%E6%B5%81%E5%8B%95%E5%9C%96%E6%9B%B8%E9%A4%A8%E4%B8%8D%E5%8F%AA%E6%98%AF%E8%A3%9C%E4%BD%8D%E6%9C%8D%E5%8B%99-%E8%80%8C%E6%98%AF%E5%9F%8E%E5%B8%82-%E9%96%B1%E8%AE%80%E5%85%AC%E5%B9%B3-%E7%9A%84%E8%A9%A6%E9%87%91%E7%9F%B3",
     "timestamp": "2026-08-13T03:05:33.697Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普聲美續控制霍爾木茲海峽：伊朗無能為力　伊方重申仍關閉",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260807/1162345083069009920261930.jpeg/MVwq7W_OYH0uMVZFz_Cgcz0LX-1olHzJYhxLA2IcSwM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60379494/%E7%89%B9%E6%9C%97%E6%99%AE%E8%81%B2%E7%BE%8E%E7%BA%8C%E6%8E%A7%E5%88%B6%E9%9C%8D%E7%88%BE%E6%9C%A8%E8%8C%B2%E6%B5%B7%E5%B3%BD-%E4%BC%8A%E6%9C%97%E7%84%A1%E8%83%BD%E7%82%BA%E5%8A%9B-%E4%BC%8A%E6%96%B9%E9%87%8D%E7%94%B3%E4%BB%8D%E9%97%9C%E9%96%89",
-    "timestamp": "2026-08-13T02:03:34.033Z",
     "strategy": ".content-card__main"
   }
 ];
