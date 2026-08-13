@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-13T05:26:33.763Z
+// Last updated: 2026-08-13T06:05:10.036Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "天后銀幕街地盤100毫米食水管爆裂　水務署搶修及安排水車供水",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260813/1164566655381016576103675.png/RZy3gJBOn_4FS96Zj8UcWqrPrFwrQ3YgVyn_JFcp_yQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60379625/%E5%A4%A9%E5%90%8E%E9%8A%80%E5%B9%95%E8%A1%97%E5%9C%B0%E7%9B%A4100%E6%AF%AB%E7%B1%B3%E9%A3%9F%E6%B0%B4%E7%AE%A1%E7%88%86%E8%A3%82-%E6%B0%B4%E5%8B%99%E7%BD%B2%E6%90%B6%E4%BF%AE%E5%8F%8A%E5%AE%89%E6%8E%92%E6%B0%B4%E8%BB%8A%E4%BE%9B%E6%B0%B4",
+    "timestamp": "2026-08-13T06:05:10.036Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "iPhone Ultra 大屏有對手！Pixel 11 Pro Fold 行2nm核心搶先登場",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260812/1164151186564059136147395.png/wJ4pFF3uj_m16c9OVW66lISLfw7gFgQIji4uWI4uLlg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E5%A8%9B%E6%A8%82/60378953/%E7%91%A4%E7%91%A4%E9%BB%83%E5%96%AC%E6%AD%86%E8%B5%B4%E9%9F%93%E5%9C%8B%E6%8B%8D%E6%B3%B3%E8%A3%9D%E7%85%A7%E5%A4%A7%E6%94%BE%E6%80%A7%E6%84%9F-%E8%83%B8%E5%89%8D%E6%8C%96%E7%A9%BA%E6%88%B0%E8%A2%8D%E5%90%B8%E7%9D%9B%E5%B1%95%E5%82%B2%E4%BA%BA%E4%B8%8A%E5%9C%8D",
     "timestamp": "2026-08-12T14:45:13.091Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "朱鎔基逝世｜記招金句連篇　回應港媒｢瞪眼｣說法：從不嚇唬老百姓",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260812/1164306094089048064850261.jpeg/25bs1GeUebWZFgGPzlyfwjmDjW50UZtkdMghW3TIIVs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60379423/%E6%9C%B1%E9%8E%94%E5%9F%BA%E9%80%9D%E4%B8%96-%E8%A8%98%E6%8B%9B%E9%87%91%E5%8F%A5%E9%80%A3%E7%AF%87-%E5%9B%9E%E6%87%89%E6%B8%AF%E5%AA%92-%E7%9E%AA%E7%9C%BC-%E8%AA%AA%E6%B3%95-%E5%BE%9E%E4%B8%8D%E5%9A%87%E5%94%AC%E8%80%81%E7%99%BE%E5%A7%93",
-    "timestamp": "2026-08-12T14:17:07.064Z",
     "strategy": ".content-card__main"
   }
 ];
