@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-13T12:26:43.173Z
+// Last updated: 2026-08-13T13:36:56.492Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "台灣首輛「張雪機車」遭查扣引網民不滿　車主發聲：這是個人財產",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260813/1164679075772502016170456.jpeg/AkjtHL12v-0uVSZs4RL-nFhOs6VDy6xo3UX3bN1F92w?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8F%B0%E7%81%A3%E6%96%B0%E8%81%9E/60379819/%E5%8F%B0%E7%81%A3%E9%A6%96%E8%BC%9B-%E5%BC%B5%E9%9B%AA%E6%A9%9F%E8%BB%8A-%E9%81%AD%E6%9F%A5%E6%89%A3%E5%BC%95%E7%B6%B2%E6%B0%91%E4%B8%8D%E6%BB%BF-%E8%BB%8A%E4%B8%BB%E7%99%BC%E8%81%B2-%E9%80%99%E6%98%AF%E5%80%8B%E4%BA%BA%E8%B2%A1%E7%94%A2",
+    "timestamp": "2026-08-13T13:36:56.492Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "BTS V右耳聽力僅30%當兵期間一度惡化 　與柾國健身遭20狂粉包圍",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260813/1164454168530784256345298.jpeg/vh55umh15pe-yeZLgqov4yzEZf2bUPOK6UDOKtNAzio?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60379477/%E9%85%B7%E7%86%B1%E5%A4%A9%E6%B0%A3-%E4%BB%8A%E6%97%A5%E5%B8%82%E5%8D%80%E6%9C%80%E9%AB%98%E6%B0%A3%E6%BA%AB%E6%96%9934%E5%BA%A6-%E5%A4%A7%E8%87%B4%E5%A4%9A%E9%9B%B2%E6%9C%89%E4%B8%80%E5%85%A9%E9%99%A3%E9%A9%9F%E9%9B%A8",
     "timestamp": "2026-08-12T22:22:19.731Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "AI投入急升　騰訊季度自由現金流轉負138億　劉熾平派定心丸",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20230830/773601930277556224461390.jpeg/w0POTUWYzX_5j0PUDQB_aos0jN-hFifL7KxtEeysbRE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60379471/ai%E6%8A%95%E5%85%A5%E6%80%A5%E5%8D%87-%E9%A8%B0%E8%A8%8A%E5%AD%A3%E5%BA%A6%E8%87%AA%E7%94%B1%E7%8F%BE%E9%87%91%E6%B5%81%E8%BD%89%E8%B2%A0138%E5%84%84-%E5%8A%89%E7%86%BE%E5%B9%B3%E6%B4%BE%E5%AE%9A%E5%BF%83%E4%B8%B8",
-    "timestamp": "2026-08-12T21:52:18.753Z",
     "strategy": ".content-card__main"
   }
 ];
