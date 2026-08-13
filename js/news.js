@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-13T14:45:17.320Z
+// Last updated: 2026-08-13T15:12:07.747Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "酒店被指收「車上住宿費」捱轟！CCTV揭大反轉：惡客佔地做局勒索",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260812/1164272499899240448910327.png/G0kFXmfqOJl50KpPtWLJaA0zd2ootZ0QVEi3AFRItwA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60379186/%E9%85%92%E5%BA%97%E8%A2%AB%E6%8C%87%E6%94%B6-%E8%BB%8A%E4%B8%8A%E4%BD%8F%E5%AE%BF%E8%B2%BB-%E6%8D%B1%E8%BD%9F-cctv%E6%8F%AD%E5%A4%A7%E5%8F%8D%E8%BD%89-%E6%83%A1%E5%AE%A2%E4%BD%94%E5%9C%B0%E5%81%9A%E5%B1%80%E5%8B%92%E7%B4%A2",
+    "timestamp": "2026-08-13T15:12:07.747Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "日本千葉縣暴雨成災　積水湧入巴士車廂　網民：坐車如坐船｜有片",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260812/1164251241727922176259684.jpeg/7NKjJktZrDKmPqomRgZnLKcx0bF1QedK4mJfeuJiX3o",
     "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/60379300/%E8%82%8C%E9%85%B8-%E8%91%97%E5%90%8D%E5%81%A5%E8%BA%AB%E6%95%99%E7%B7%B4%E6%8C%87%E5%A5%B3%E6%80%A7%E8%88%87%E9%95%B7%E8%80%85%E6%AF%94%E5%81%A5%E8%BA%AB%E6%97%8F%E6%9B%B4%E9%9C%80%E5%90%83-%E6%B8%9B%E7%96%B2%E5%8B%9E%E5%BB%B6%E7%B7%A9%E8%80%81%E5%8C%96",
     "timestamp": "2026-08-13T00:36:26.722Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "加拿大童黨欺凌　16歲女遭騎壓狂毆暈倒　旁人只顧拍片起哄無施援",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260811/1163928527871938560963721.png/B_dPDyr-H-mpNu9YXlamFqbhBGz7hWWXz4tVoM-LVaA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E8%A9%B1%E9%A1%8C/60377739/%E5%8A%A0%E6%8B%BF%E5%A4%A7%E7%AB%A5%E9%BB%A8%E6%AC%BA%E5%87%8C-16%E6%AD%B2%E5%A5%B3%E9%81%AD%E9%A8%8E%E5%A3%93%E7%8B%82%E6%AF%86%E6%9A%88%E5%80%92-%E6%97%81%E4%BA%BA%E5%8F%AA%E9%A1%A7%E6%8B%8D%E7%89%87%E8%B5%B7%E5%93%84%E7%84%A1%E6%96%BD%E6%8F%B4",
-    "timestamp": "2026-08-12T23:22:03.786Z",
     "strategy": ".content-card__main"
   }
 ];
