@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-13T19:14:21.569Z
+// Last updated: 2026-08-13T20:36:31.595Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美法官駁回特朗普訴訟　裁定哈佛未違反猶法",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20251217/1077856565580533760372690.jpeg/gr79nDCOQkOF0ulH6Zi4hb1RzOzdA_hUJGjisSRo4rE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60379860/%E7%BE%8E%E6%B3%95%E5%AE%98%E9%A7%81%E5%9B%9E%E7%89%B9%E6%9C%97%E6%99%AE%E8%A8%B4%E8%A8%9F-%E8%A3%81%E5%AE%9A%E5%93%88%E4%BD%9B%E6%9C%AA%E9%81%95%E5%8F%8D%E7%8C%B6%E6%B3%95",
+    "timestamp": "2026-08-13T20:36:31.595Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "乒乓WTT瑞典大滿貫｜杜凱琹吳詠琳挫世一　破王曼昱/蒯曼兩年不敗",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260813/1164580458667708416852164.jpeg/qrgJLTyX5BBPfyG1vvhm4ozkZrwk4tUlIy-nZSMvp2U?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60379655/%E6%96%B0%E5%9C%B0%E5%85%83%E6%9C%97yoho-mall%E4%B8%8A%E5%8D%8A%E5%B9%B4%E5%BC%95%E5%85%A575%E5%80%8B%E5%85%A8%E6%96%B0%E5%93%81%E7%89%8C-%E5%8D%83%E6%B5%B7%E6%B0%B4%E7%94%A2%E7%AC%AC%E5%9B%9B%E5%AD%A3%E9%96%8B%E6%A5%AD",
     "timestamp": "2026-08-13T06:51:36.553Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "天后銀幕街地盤100毫米食水管爆裂　水務署搶修及安排水車供水",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260813/1164566655381016576103675.png/RZy3gJBOn_4FS96Zj8UcWqrPrFwrQ3YgVyn_JFcp_yQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60379625/%E5%A4%A9%E5%90%8E%E9%8A%80%E5%B9%95%E8%A1%97%E5%9C%B0%E7%9B%A4100%E6%AF%AB%E7%B1%B3%E9%A3%9F%E6%B0%B4%E7%AE%A1%E7%88%86%E8%A3%82-%E6%B0%B4%E5%8B%99%E7%BD%B2%E6%90%B6%E4%BF%AE%E5%8F%8A%E5%AE%89%E6%8E%92%E6%B0%B4%E8%BB%8A%E4%BE%9B%E6%B0%B4",
-    "timestamp": "2026-08-13T06:05:10.036Z",
     "strategy": ".content-card__main"
   }
 ];
