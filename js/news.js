@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-13T10:31:06.554Z
+// Last updated: 2026-08-13T10:56:50.619Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "長和中期純利268億飆30倍　負債比率新低　李澤鉅指嚴格控管成本",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260813/1164624440319807488928145.jpeg/kaJvXKnfP3hXppzenXVxPXON0rMMaStX94hYtPeIWLQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60379730/%E9%95%B7%E5%92%8C%E4%B8%AD%E6%9C%9F%E7%B4%94%E5%88%A9%E7%8B%82%E9%A3%8630%E5%80%8D%E8%87%B3268%E5%84%84-%E6%B4%BE%E4%B8%AD%E6%9C%9F%E6%81%AF0-7455%E5%85%83",
+    "timestamp": "2026-08-13T10:56:50.619Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "旅發局夥粵澳機構到馬來西亞宣傳大灣區　與亞航等合推旅遊優惠",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260813/1164412621227560960570216.jpeg/JqiLWzoBcVBhOCvfQewlUss2YLQboOiFnjxXPZ48Vz0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60379467/%E6%96%B0%E7%9A%87%E5%B4%97%E5%8F%A3%E5%B2%B8%E9%96%8B%E9%80%9A-%E6%B5%B7%E9%97%9C%E9%97%9C%E9%95%B7%E9%99%B3%E5%AD%90%E9%81%94%E5%88%B0%E5%A0%B4%E5%B7%A1%E8%A6%96-%E7%A2%BA%E4%BF%9D%E5%90%84%E9%A0%85%E5%B7%A5%E4%BD%9C%E8%90%BD%E5%AF%A6%E5%88%B0%E4%BD%8D",
     "timestamp": "2026-08-12T19:44:05.463Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "埃特納火山噴發致機場關閉　意大利旺季旅遊受阻",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260813/1164384114971774976235798.jpeg/wbglvXhG455eqTFUXVpfK_lZskJBtl726iKcauoinGo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60379463/%E5%9F%83%E7%89%B9%E7%B4%8D%E7%81%AB%E5%B1%B1%E5%99%B4%E7%99%BC%E8%87%B4%E6%A9%9F%E5%A0%B4%E9%97%9C%E9%96%89-%E6%84%8F%E5%A4%A7%E5%88%A9%E6%97%BA%E5%AD%A3%E6%97%85%E9%81%8A%E5%8F%97%E9%98%BB",
-    "timestamp": "2026-08-12T19:14:03.834Z",
     "strategy": ".content-card__main"
   }
 ];
