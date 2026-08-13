@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-13T06:51:36.553Z
+// Last updated: 2026-08-13T07:39:09.629Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "【得獎名單】《 毛孩消費趨勢及願景調查》願景分享結果出爐！",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260813/1164592794778472448481057.jpeg/MR9f_nC0K9i7mUYopcgXS2re3k4n401pJeUDWSXlA1k?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%AF%B5%E7%89%A9/60379695/%E5%BE%97%E7%8D%8E%E5%90%8D%E5%96%AE-%E6%AF%9B%E5%AD%A9%E6%B6%88%E8%B2%BB%E8%B6%A8%E5%8B%A2%E5%8F%8A%E9%A1%98%E6%99%AF%E8%AA%BF%E6%9F%A5-%E9%A1%98%E6%99%AF%E5%88%86%E4%BA%AB%E7%B5%90%E6%9E%9C%E5%87%BA%E7%88%90",
+    "timestamp": "2026-08-13T07:39:09.629Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "新地元朗YOHO MALL上半年引入75個全新品牌　千海水產第四季開業",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260813/1164378612577603584328695.jpeg/7I4niAWhwQD3nphpbHQDKaM04XQderOQgD9A_oA_QP4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60379462/%E5%B7%B4%E5%8B%92%E6%96%AF%E5%9D%A6%E7%B8%BD%E7%B5%B1%E8%A8%AA%E5%95%8F%E5%9C%9F%E8%80%B3%E5%85%B6-%E5%9F%83%E7%88%BE%E5%A4%9A%E5%AE%89%E6%9C%83%E9%9D%A2%E5%BE%8C%E7%A8%B1%E6%94%AF%E6%8C%81%E5%B7%B4%E4%BA%BA%E5%BB%BA%E5%9C%8B",
     "timestamp": "2026-08-12T17:40:29.899Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "警聯運輸署九龍城打擊「學神」違規　發11張罰款通知書和18張傳票",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260813/1164374958600622080107389.jpeg/KzEqfpERtZBlpCsspbmvcb5pstIHlL91D1G33A9Rt9w?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60379461/%E8%AD%A6%E8%81%AF%E9%81%8B%E8%BC%B8%E7%BD%B2%E4%B9%9D%E9%BE%8D%E5%9F%8E%E6%89%93%E6%93%8A-%E5%AD%B8%E7%A5%9E-%E9%81%95%E8%A6%8F-%E7%99%BC11%E5%BC%B5%E7%BD%B0%E6%AC%BE%E9%80%9A%E7%9F%A5%E6%9B%B8%E5%92%8C18%E5%BC%B5%E5%82%B3%E7%A5%A8",
-    "timestamp": "2026-08-12T17:16:21.409Z",
     "strategy": ".content-card__main"
   }
 ];
