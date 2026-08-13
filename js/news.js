@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-13T21:23:44.459Z
+// Last updated: 2026-08-13T21:52:32.397Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美法官駁回特朗普訴訟　裁定哈佛未違反猶法",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20251217/1077856565580533760372690.jpeg/gr79nDCOQkOF0ulH6Zi4hb1RzOzdA_hUJGjisSRo4rE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60379860/%E7%BE%8E%E6%B3%95%E5%AE%98%E9%A7%81%E5%9B%9E%E7%89%B9%E6%9C%97%E6%99%AE%E8%A8%B4%E8%A8%9F-%E8%A3%81%E5%AE%9A%E5%93%88%E4%BD%9B%E6%9C%AA%E9%81%95%E5%8F%8D%E7%8C%B6%E6%B3%95",
+    "timestamp": "2026-08-13T21:52:32.397Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美法官駁回特朗普訴訟　裁定哈佛未違反猶法",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260813/1164623673873666048748625.jpeg/CHulikB1Es_QDD0q5JLWimnUbfv6jG1JrnSBM650gTM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60379757/%E7%A6%8F%E5%BB%BA%E7%A6%8F%E5%AE%89%E5%B8%82%E6%9C%89%E8%88%B9%E5%BB%A0%E7%9D%80%E7%81%AB%E7%88%86%E7%82%B8-%E8%87%B41%E5%90%8D%E6%B6%88%E9%98%B2%E5%93%A1%E5%A4%B1%E8%81%AF10%E4%BA%BA%E5%8F%97%E5%82%B7",
     "timestamp": "2026-08-13T09:34:03.673Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "【得獎名單】《 毛孩消費趨勢及願景調查》願景分享結果出爐！",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260813/1164592794778472448481057.jpeg/MR9f_nC0K9i7mUYopcgXS2re3k4n401pJeUDWSXlA1k?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%AF%B5%E7%89%A9/60379695/%E5%BE%97%E7%8D%8E%E5%90%8D%E5%96%AE-%E6%AF%9B%E5%AD%A9%E6%B6%88%E8%B2%BB%E8%B6%A8%E5%8B%A2%E5%8F%8A%E9%A1%98%E6%99%AF%E8%AA%BF%E6%9F%A5-%E9%A1%98%E6%99%AF%E5%88%86%E4%BA%AB%E7%B5%90%E6%9E%9C%E5%87%BA%E7%88%90",
-    "timestamp": "2026-08-13T07:39:09.629Z",
     "strategy": ".content-card__main"
   }
 ];
