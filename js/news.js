@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-13T18:09:35.107Z
+// Last updated: 2026-08-13T18:39:42.315Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "「超人」Henry Cavill驚喜現身中環拍戲　劇組搭建懷舊霓虹燈街景",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260814/1164752870692622336489251.jpeg/la7oajpAkRW0WCjqVfueSAeNf9zKAPFqcKDxcnCg8XI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60379854/%E8%B6%85%E4%BA%BA-henry-cavill%E9%A9%9A%E5%96%9C%E7%8F%BE%E8%BA%AB%E4%B8%AD%E7%92%B0%E6%8B%8D%E6%88%B2-%E5%8A%87%E7%B5%84%E6%90%AD%E5%BB%BA%E6%87%B7%E8%88%8A%E9%9C%93%E8%99%B9%E7%87%88%E8%A1%97%E6%99%AF",
+    "timestamp": "2026-08-13T18:39:42.315Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "「超人」Henry Cavill驚喜現身中環拍戲　劇組搭建懷舊霓虹燈街景",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260813/1164562881069453312872156.png/0aOPjrtgbKMWkvIp6uiWi8N1tvZ0aDKEizreC4s63gs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60379582/iphone-ultra-vs-pixel-11-pro-fold%E9%BB%9E%E7%87%83%E6%91%BA%E5%B1%8F%E6%89%8B%E6%A9%9F%E7%86%B1-%E7%9B%A4%E9%BB%9E6%E5%A4%A7%E6%91%BA%E6%A9%9F",
     "timestamp": "2026-08-13T05:26:33.763Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "豪擲14億擴版圖！　新秀麗一度升7%　收購BÉIS 85%股權",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/1503312/org/c7561ee3ff42db7b2cc6cd7640d236c0.jpg/sywlCZ-JHp5Xt8RrPQTjHFw7zLovvxR8xaddgMWnXYA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60379568/%E8%B1%AA%E6%93%B214%E5%84%84%E6%93%B4%E7%89%88%E5%9C%96-%E6%96%B0%E7%A7%80%E9%BA%97%E4%B8%80%E5%BA%A6%E5%8D%877-%E6%94%B6%E8%B3%BCb%C3%A9is-85-%E8%82%A1%E6%AC%8A",
-    "timestamp": "2026-08-13T04:02:11.904Z",
     "strategy": ".content-card__main"
   }
 ];
