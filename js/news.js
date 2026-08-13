@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-13T10:00:21.216Z
+// Last updated: 2026-08-13T10:31:06.554Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "旅發局夥粵澳機構到馬來西亞宣傳大灣區　與亞航等合推旅遊優惠",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260813/1164638111267819520109834.jpeg/-rd5c6dEIu5kr-mDJkg8CIlTLfa3WZclUVYDK1FWAys?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60379782/%E6%97%85%E7%99%BC%E5%B1%80%E5%A4%A5%E7%B2%B5%E6%BE%B3%E6%A9%9F%E6%A7%8B%E5%88%B0%E9%A6%AC%E4%BE%86%E8%A5%BF%E4%BA%9E%E5%AE%A3%E5%82%B3%E5%A4%A7%E7%81%A3%E5%8D%80-%E8%88%87%E4%BA%9E%E8%88%AA%E7%AD%89%E5%90%88%E6%8E%A8%E6%97%85%E9%81%8A%E5%84%AA%E6%83%A0",
+    "timestamp": "2026-08-13T10:31:06.554Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "海關粉嶺工廈破私煙包裝儲存倉　檢200萬支私煙拘兩內地漢",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260813/1164384114971774976235798.jpeg/wbglvXhG455eqTFUXVpfK_lZskJBtl726iKcauoinGo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60379463/%E5%9F%83%E7%89%B9%E7%B4%8D%E7%81%AB%E5%B1%B1%E5%99%B4%E7%99%BC%E8%87%B4%E6%A9%9F%E5%A0%B4%E9%97%9C%E9%96%89-%E6%84%8F%E5%A4%A7%E5%88%A9%E6%97%BA%E5%AD%A3%E6%97%85%E9%81%8A%E5%8F%97%E9%98%BB",
     "timestamp": "2026-08-12T19:14:03.834Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "埃特納火山噴發致機場關閉　意大利旺季旅遊受阻",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260813/1164384114971774976235798.jpeg/wbglvXhG455eqTFUXVpfK_lZskJBtl726iKcauoinGo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60379463/%E5%9F%83%E7%89%B9%E7%B4%8D%E7%81%AB%E5%B1%B1%E5%99%B4%E7%99%BC%E8%87%B4%E6%A9%9F%E5%A0%B4%E9%97%9C%E9%96%89-%E6%84%8F%E5%A4%A7%E5%88%A9%E6%97%BA%E5%AD%A3%E6%97%85%E9%81%8A%E5%8F%97%E9%98%BB",
-    "timestamp": "2026-08-12T18:39:08.456Z",
     "strategy": ".content-card__main"
   }
 ];
