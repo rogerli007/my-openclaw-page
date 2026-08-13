@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-13T15:12:07.747Z
+// Last updated: 2026-08-13T15:40:01.379Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "AV籃球女神辻井穗乃果重傷不忘夢想　自組女籃親任教練首戰即奪冠",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260813/1164587368632553472650478.png/uFEkzEttsU6R54WVbAb1RB3j_bGKKRam61avP-tWrz8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E5%A8%9B%E6%A8%82/60379677/av%E7%B1%83%E7%90%83%E5%A5%B3%E7%A5%9E%E8%BE%BB%E4%BA%95%E7%A9%97%E4%B9%83%E6%9E%9C%E9%87%8D%E5%82%B7%E4%B8%8D%E5%BF%98%E5%A4%A2%E6%83%B3-%E8%87%AA%E7%B5%84%E5%A5%B3%E7%B1%83%E8%A6%AA%E4%BB%BB%E6%95%99%E7%B7%B4%E9%A6%96%E6%88%B0%E5%8D%B3%E5%A5%AA%E5%86%A0",
+    "timestamp": "2026-08-13T15:40:01.379Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "酒店被指收「車上住宿費」捱轟！CCTV揭大反轉：惡客佔地做局勒索",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260812/1164255350472314880260853.png/LJz88_dJ6h35NxnNM74ADi7xPT36BZzKPeriez3q4ns?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60378619/%E7%BE%8E%E5%9C%8B%E7%94%B7%E6%94%B6%E9%81%B2%E4%BE%8626%E5%B9%B4%E6%98%8E%E4%BF%A1%E7%89%87-%E5%B7%B2%E6%95%85%E9%9B%99%E8%A6%AA%E7%94%9F%E5%89%8D%E5%AF%84%E5%87%BA-%E6%84%9F%E5%8B%95-%E6%98%AF%E5%A4%A9%E5%A0%82%E7%9A%84%E7%A6%AE%E7%89%A9",
     "timestamp": "2026-08-13T01:16:57.153Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "肌酸｜著名健身教練指女性與長者比健身族更需吃 減疲勞延緩老化",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260812/1164251241727922176259684.jpeg/7NKjJktZrDKmPqomRgZnLKcx0bF1QedK4mJfeuJiX3o",
-    "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/60379300/%E8%82%8C%E9%85%B8-%E8%91%97%E5%90%8D%E5%81%A5%E8%BA%AB%E6%95%99%E7%B7%B4%E6%8C%87%E5%A5%B3%E6%80%A7%E8%88%87%E9%95%B7%E8%80%85%E6%AF%94%E5%81%A5%E8%BA%AB%E6%97%8F%E6%9B%B4%E9%9C%80%E5%90%83-%E6%B8%9B%E7%96%B2%E5%8B%9E%E5%BB%B6%E7%B7%A9%E8%80%81%E5%8C%96",
-    "timestamp": "2026-08-13T00:36:26.722Z",
     "strategy": ".content-card__main"
   }
 ];
