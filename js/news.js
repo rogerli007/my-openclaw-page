@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-13T00:36:26.722Z
+// Last updated: 2026-08-13T01:16:57.153Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美國男收遲來26年明信片！已故雙親生前寄出　感動：是天堂的禮物",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260812/1164255350472314880260853.png/LJz88_dJ6h35NxnNM74ADi7xPT36BZzKPeriez3q4ns?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60378619/%E7%BE%8E%E5%9C%8B%E7%94%B7%E6%94%B6%E9%81%B2%E4%BE%8626%E5%B9%B4%E6%98%8E%E4%BF%A1%E7%89%87-%E5%B7%B2%E6%95%85%E9%9B%99%E8%A6%AA%E7%94%9F%E5%89%8D%E5%AF%84%E5%87%BA-%E6%84%9F%E5%8B%95-%E6%98%AF%E5%A4%A9%E5%A0%82%E7%9A%84%E7%A6%AE%E7%89%A9",
+    "timestamp": "2026-08-13T01:16:57.153Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "肌酸｜著名健身教練指女性與長者比健身族更需吃 減疲勞延緩老化",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260812/1164288023773319168970453.png/PmSBs2X3tzw7RJcZEIG6_bizDNxd8V6e4NxdIeDcXSE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60379408/%E6%9C%B1%E9%8E%94%E5%9F%BA%E9%80%9D%E4%B8%96-%E6%96%B0%E8%81%9E%E8%81%AF%E6%92%AD%E7%AC%AC%E4%B8%89%E6%A2%9D%E6%92%AD%E5%87%BA%E5%AE%8C%E6%95%B4%E8%A8%83%E5%91%8A-%E6%99%82%E9%95%B7%E7%B4%8411%E5%88%86%E5%8D%8A",
     "timestamp": "2026-08-12T11:53:08.617Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "陳詠桐聯手施匡翹開騷大騷靚聲熱舞　保錡驚喜踩場自爆相識經過",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260812/1164232791018180608941503.jpeg/Mr3bj76Eml4TBDrhSvND1-LbB3Ttocj3vFRSb7xUUm8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60379260/%E9%99%B3%E8%A9%A0%E6%A1%90%E8%81%AF%E6%89%8B%E6%96%BD%E5%8C%A1%E7%BF%B9%E9%96%8B%E9%A8%B7%E5%A4%A7%E9%A8%B7%E9%9D%9A%E8%81%B2%E7%86%B1%E8%88%9E-%E4%BF%9D%E9%8C%A1%E9%A9%9A%E5%96%9C%E8%B8%A9%E5%A0%B4%E8%87%AA%E7%88%86%E7%9B%B8%E8%AD%98%E7%B6%93%E9%81%8E",
-    "timestamp": "2026-08-12T11:23:46.354Z",
     "strategy": ".content-card__main"
   }
 ];
