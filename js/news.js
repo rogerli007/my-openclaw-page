@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-13T11:24:29.931Z
+// Last updated: 2026-08-13T11:52:20.717Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "港鐵：將投標競逐啟德智慧綠色運輸項目　上半年非以股代息好時機",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260813/1164639971630387200698320.jpeg/X1RPCwzt6T4KWfvwvxkpd2NqaQ6K6N2OHQrnHh0K5x4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60379792/%E6%B8%AF%E9%90%B5-%E5%B0%87%E6%8A%95%E6%A8%99%E7%AB%B6%E9%80%90%E5%95%9F%E5%BE%B7%E6%99%BA%E6%85%A7%E7%B6%A0%E8%89%B2%E9%81%8B%E8%BC%B8%E9%A0%85%E7%9B%AE-%E4%B8%8A%E5%8D%8A%E5%B9%B4%E9%9D%9E%E4%BB%A5%E8%82%A1%E4%BB%A3%E6%81%AF%E5%A5%BD%E6%99%82%E6%A9%9F",
+    "timestamp": "2026-08-13T11:52:20.717Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "內媒揭工廠回收樂事薯片殘渣！製腸仔肉丸恐傷肝腎！火鍋油都重用",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260813/1164412621227560960570216.jpeg/JqiLWzoBcVBhOCvfQewlUss2YLQboOiFnjxXPZ48Vz0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60379467/%E6%96%B0%E7%9A%87%E5%B4%97%E5%8F%A3%E5%B2%B8%E9%96%8B%E9%80%9A-%E6%B5%B7%E9%97%9C%E9%97%9C%E9%95%B7%E9%99%B3%E5%AD%90%E9%81%94%E5%88%B0%E5%A0%B4%E5%B7%A1%E8%A6%96-%E7%A2%BA%E4%BF%9D%E5%90%84%E9%A0%85%E5%B7%A5%E4%BD%9C%E8%90%BD%E5%AF%A6%E5%88%B0%E4%BD%8D",
     "timestamp": "2026-08-12T20:32:32.414Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "新皇崗口岸開通｜海關關長陳子達到場巡視　確保各項工作落實到位",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260813/1164412621227560960570216.jpeg/JqiLWzoBcVBhOCvfQewlUss2YLQboOiFnjxXPZ48Vz0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60379467/%E6%96%B0%E7%9A%87%E5%B4%97%E5%8F%A3%E5%B2%B8%E9%96%8B%E9%80%9A-%E6%B5%B7%E9%97%9C%E9%97%9C%E9%95%B7%E9%99%B3%E5%AD%90%E9%81%94%E5%88%B0%E5%A0%B4%E5%B7%A1%E8%A6%96-%E7%A2%BA%E4%BF%9D%E5%90%84%E9%A0%85%E5%B7%A5%E4%BD%9C%E8%90%BD%E5%AF%A6%E5%88%B0%E4%BD%8D",
-    "timestamp": "2026-08-12T20:08:24.700Z",
     "strategy": ".content-card__main"
   }
 ];
