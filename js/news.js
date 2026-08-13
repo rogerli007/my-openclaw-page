@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-13T02:03:34.033Z
+// Last updated: 2026-08-13T03:05:33.697Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "來稿｜流動圖書館不只是補位服務　而是城市「閱讀公平」的試金石",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/2596872/org/761a36dd910098ec777f74c7aa49ba22.jpg/B-dwH5F5gym_m7OOMEqJmd3UdwctMQ3tykebTcpHm00?v=w1920r16_9",
+    "url": "https://www.hk01.com/01%E8%AB%96%E5%A3%87/60378389/%E4%BE%86%E7%A8%BF-%E6%B5%81%E5%8B%95%E5%9C%96%E6%9B%B8%E9%A4%A8%E4%B8%8D%E5%8F%AA%E6%98%AF%E8%A3%9C%E4%BD%8D%E6%9C%8D%E5%8B%99-%E8%80%8C%E6%98%AF%E5%9F%8E%E5%B8%82-%E9%96%B1%E8%AE%80%E5%85%AC%E5%B9%B3-%E7%9A%84%E8%A9%A6%E9%87%91%E7%9F%B3",
+    "timestamp": "2026-08-13T03:05:33.697Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "特朗普聲美續控制霍爾木茲海峽：伊朗無能為力　伊方重申仍關閉",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260811/1163858820657582080639827.jpeg/yzDvy_704livGF6eXLB9P-7CSJLQc8dd7s6_0-7Ov9M?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60379425/%E6%97%A5%E6%9C%AC-%E7%B5%82%E6%88%B0%E6%97%A5-%E5%B0%87%E8%87%B3-%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E6%93%9A%E5%A0%B1%E6%93%AC%E4%B8%8D%E5%8F%83%E6%8B%9C%E9%9D%96%E5%9C%8B%E7%A5%9E%E7%A4%BE",
     "timestamp": "2026-08-12T12:54:03.070Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "Baby Shark兒歌MV主演長大成人　將以藝名Baby Shark Boy韓國出道",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260812/1164256494984630272647508.jpeg/pQAEu8ocej7VMCk3q44hDZHOSzs-mK2aaLK3V2iyt1c",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60379332/baby-shark%E5%85%92%E6%AD%8Cmv%E4%B8%BB%E6%BC%94%E9%95%B7%E5%A4%A7%E6%88%90%E4%BA%BA-%E5%B0%87%E4%BB%A5%E8%97%9D%E5%90%8Dbaby-shark-boy%E9%9F%93%E5%9C%8B%E5%87%BA%E9%81%93",
-    "timestamp": "2026-08-12T12:26:55.218Z",
     "strategy": ".content-card__main"
   }
 ];
