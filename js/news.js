@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-13T06:05:10.036Z
+// Last updated: 2026-08-13T06:51:36.553Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "新地元朗YOHO MALL上半年引入75個全新品牌　千海水產第四季開業",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260813/1164580458667708416852164.jpeg/qrgJLTyX5BBPfyG1vvhm4ozkZrwk4tUlIy-nZSMvp2U?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60379655/%E6%96%B0%E5%9C%B0%E5%85%83%E6%9C%97yoho-mall%E4%B8%8A%E5%8D%8A%E5%B9%B4%E5%BC%95%E5%85%A575%E5%80%8B%E5%85%A8%E6%96%B0%E5%93%81%E7%89%8C-%E5%8D%83%E6%B5%B7%E6%B0%B4%E7%94%A2%E7%AC%AC%E5%9B%9B%E5%AD%A3%E9%96%8B%E6%A5%AD",
+    "timestamp": "2026-08-13T06:51:36.553Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "天后銀幕街地盤100毫米食水管爆裂　水務署搶修及安排水車供水",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260813/1164374958600622080107389.jpeg/KzEqfpERtZBlpCsspbmvcb5pstIHlL91D1G33A9Rt9w?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60379461/%E8%AD%A6%E8%81%AF%E9%81%8B%E8%BC%B8%E7%BD%B2%E4%B9%9D%E9%BE%8D%E5%9F%8E%E6%89%93%E6%93%8A-%E5%AD%B8%E7%A5%9E-%E9%81%95%E8%A6%8F-%E7%99%BC11%E5%BC%B5%E7%BD%B0%E6%AC%BE%E9%80%9A%E7%9F%A5%E6%9B%B8%E5%92%8C18%E5%BC%B5%E5%82%B3%E7%A5%A8",
     "timestamp": "2026-08-12T17:16:21.409Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "瑤瑤黃喬歆赴韓國拍泳裝照大放性感　胸前挖空戰袍吸睛展傲人上圍",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260812/1164151186564059136147395.png/wJ4pFF3uj_m16c9OVW66lISLfw7gFgQIji4uWI4uLlg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E5%A8%9B%E6%A8%82/60378953/%E7%91%A4%E7%91%A4%E9%BB%83%E5%96%AC%E6%AD%86%E8%B5%B4%E9%9F%93%E5%9C%8B%E6%8B%8D%E6%B3%B3%E8%A3%9D%E7%85%A7%E5%A4%A7%E6%94%BE%E6%80%A7%E6%84%9F-%E8%83%B8%E5%89%8D%E6%8C%96%E7%A9%BA%E6%88%B0%E8%A2%8D%E5%90%B8%E7%9D%9B%E5%B1%95%E5%82%B2%E4%BA%BA%E4%B8%8A%E5%9C%8D",
-    "timestamp": "2026-08-12T14:45:13.091Z",
     "strategy": ".content-card__main"
   }
 ];
