@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-13T17:40:32.233Z
+// Last updated: 2026-08-13T18:09:35.107Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "「超人」Henry Cavill驚喜現身中環拍戲　劇組搭建懷舊霓虹燈街景",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260814/1164752870692622336489251.jpeg/la7oajpAkRW0WCjqVfueSAeNf9zKAPFqcKDxcnCg8XI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60379854/%E8%B6%85%E4%BA%BA-henry-cavill%E9%A9%9A%E5%96%9C%E7%8F%BE%E8%BA%AB%E4%B8%AD%E7%92%B0%E6%8B%8D%E6%88%B2-%E5%8A%87%E7%B5%84%E6%90%AD%E5%BB%BA%E6%87%B7%E8%88%8A%E9%9C%93%E8%99%B9%E7%87%88%E8%A1%97%E6%99%AF",
+    "timestamp": "2026-08-13T18:09:35.107Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "跨部門油尖打擊非法勞工及掃黃　33男女被捕　年紀最小18歲",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/1503312/org/c7561ee3ff42db7b2cc6cd7640d236c0.jpg/sywlCZ-JHp5Xt8RrPQTjHFw7zLovvxR8xaddgMWnXYA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60379568/%E8%B1%AA%E6%93%B214%E5%84%84%E6%93%B4%E7%89%88%E5%9C%96-%E6%96%B0%E7%A7%80%E9%BA%97%E4%B8%80%E5%BA%A6%E5%8D%877-%E6%94%B6%E8%B3%BCb%C3%A9is-85-%E8%82%A1%E6%AC%8A",
     "timestamp": "2026-08-13T04:02:11.904Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "來稿｜流動圖書館不只是補位服務　而是城市「閱讀公平」的試金石",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/2596872/org/761a36dd910098ec777f74c7aa49ba22.jpg/B-dwH5F5gym_m7OOMEqJmd3UdwctMQ3tykebTcpHm00?v=w1920r16_9",
-    "url": "https://www.hk01.com/01%E8%AB%96%E5%A3%87/60378389/%E4%BE%86%E7%A8%BF-%E6%B5%81%E5%8B%95%E5%9C%96%E6%9B%B8%E9%A4%A8%E4%B8%8D%E5%8F%AA%E6%98%AF%E8%A3%9C%E4%BD%8D%E6%9C%8D%E5%8B%99-%E8%80%8C%E6%98%AF%E5%9F%8E%E5%B8%82-%E9%96%B1%E8%AE%80%E5%85%AC%E5%B9%B3-%E7%9A%84%E8%A9%A6%E9%87%91%E7%9F%B3",
-    "timestamp": "2026-08-13T03:05:33.697Z",
     "strategy": ".content-card__main"
   }
 ];
