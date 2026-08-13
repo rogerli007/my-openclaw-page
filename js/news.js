@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-12T23:22:03.786Z
+// Last updated: 2026-08-13T00:36:26.722Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "肌酸｜著名健身教練指女性與長者比健身族更需吃 減疲勞延緩老化",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260812/1164251241727922176259684.jpeg/7NKjJktZrDKmPqomRgZnLKcx0bF1QedK4mJfeuJiX3o",
+    "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/60379300/%E8%82%8C%E9%85%B8-%E8%91%97%E5%90%8D%E5%81%A5%E8%BA%AB%E6%95%99%E7%B7%B4%E6%8C%87%E5%A5%B3%E6%80%A7%E8%88%87%E9%95%B7%E8%80%85%E6%AF%94%E5%81%A5%E8%BA%AB%E6%97%8F%E6%9B%B4%E9%9C%80%E5%90%83-%E6%B8%9B%E7%96%B2%E5%8B%9E%E5%BB%B6%E7%B7%A9%E8%80%81%E5%8C%96",
+    "timestamp": "2026-08-13T00:36:26.722Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "加拿大童黨欺凌　16歲女遭騎壓狂毆暈倒　旁人只顧拍片起哄無施援",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260812/1164232791018180608941503.jpeg/Mr3bj76Eml4TBDrhSvND1-LbB3Ttocj3vFRSb7xUUm8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60379260/%E9%99%B3%E8%A9%A0%E6%A1%90%E8%81%AF%E6%89%8B%E6%96%BD%E5%8C%A1%E7%BF%B9%E9%96%8B%E9%A8%B7%E5%A4%A7%E9%A8%B7%E9%9D%9A%E8%81%B2%E7%86%B1%E8%88%9E-%E4%BF%9D%E9%8C%A1%E9%A9%9A%E5%96%9C%E8%B8%A9%E5%A0%B4%E8%87%AA%E7%88%86%E7%9B%B8%E8%AD%98%E7%B6%93%E9%81%8E",
     "timestamp": "2026-08-12T11:23:46.354Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "大維修｜業主親自投票門檻擬設三級制　會議法定人數增至最多20%",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260213/1099062012236795904813590.jpeg/Ik0IyVFXF7Aftr2YWvOfpjsN8Iy2qvfE9Z5QAs-eUAI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60379379/%E5%A4%A7%E7%B6%AD%E4%BF%AE-%E6%A5%AD%E4%B8%BB%E8%A6%AA%E8%87%AA%E6%8A%95%E7%A5%A8%E9%96%80%E6%AA%BB%E6%93%AC%E8%A8%AD%E4%B8%89%E7%B4%9A%E5%88%B6-%E6%9C%83%E8%AD%B0%E6%B3%95%E5%AE%9A%E4%BA%BA%E6%95%B8%E5%A2%9E%E8%87%B3%E6%9C%80%E5%A4%9A20",
-    "timestamp": "2026-08-12T10:55:18.760Z",
     "strategy": ".content-card__main"
   }
 ];
