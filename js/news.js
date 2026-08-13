@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-13T18:39:42.315Z
+// Last updated: 2026-08-13T19:14:21.569Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "乒乓WTT瑞典大滿貫｜杜凱琹吳詠琳挫世一　破王曼昱/蒯曼兩年不敗",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260814/1164767963933315072730926.jpeg/4fkleTol6rg9Vnur3FqRNB17I6auK6cua-hyKGvocig?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60379857/%E4%B9%92%E4%B9%93wtt%E7%91%9E%E5%85%B8%E5%A4%A7%E6%BB%BF%E8%B2%AB-%E6%9D%9C%E5%87%B1%E7%90%B9%E5%90%B3%E8%A9%A0%E7%90%B3%E6%8C%AB%E4%B8%96%E4%B8%80-%E7%A0%B4%E7%8E%8B%E6%9B%BC%E6%98%B1-%E8%92%AF%E6%9B%BC%E5%85%A9%E5%B9%B4%E4%B8%8D%E6%95%97",
+    "timestamp": "2026-08-13T19:14:21.569Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "「超人」Henry Cavill驚喜現身中環拍戲　劇組搭建懷舊霓虹燈街景",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260813/1164566655381016576103675.png/RZy3gJBOn_4FS96Zj8UcWqrPrFwrQ3YgVyn_JFcp_yQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60379625/%E5%A4%A9%E5%90%8E%E9%8A%80%E5%B9%95%E8%A1%97%E5%9C%B0%E7%9B%A4100%E6%AF%AB%E7%B1%B3%E9%A3%9F%E6%B0%B4%E7%AE%A1%E7%88%86%E8%A3%82-%E6%B0%B4%E5%8B%99%E7%BD%B2%E6%90%B6%E4%BF%AE%E5%8F%8A%E5%AE%89%E6%8E%92%E6%B0%B4%E8%BB%8A%E4%BE%9B%E6%B0%B4",
     "timestamp": "2026-08-13T06:05:10.036Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "iPhone Ultra 大屏有對手！Pixel 11 Pro Fold 行2nm核心搶先登場",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260813/1164562881069453312872156.png/0aOPjrtgbKMWkvIp6uiWi8N1tvZ0aDKEizreC4s63gs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60379582/iphone-ultra-vs-pixel-11-pro-fold%E9%BB%9E%E7%87%83%E6%91%BA%E5%B1%8F%E6%89%8B%E6%A9%9F%E7%86%B1-%E7%9B%A4%E9%BB%9E6%E5%A4%A7%E6%91%BA%E6%A9%9F",
-    "timestamp": "2026-08-13T05:26:33.763Z",
     "strategy": ".content-card__main"
   }
 ];
