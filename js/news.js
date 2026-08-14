@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-14T08:16:03.812Z
+// Last updated: 2026-08-14T09:17:41.429Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "歐盟成員國屢扣押俄羅斯船隻　俄外長：將扣押相關國家船隻反制",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250529/1004556130413711360870436.jpeg/H0HwdurMP5RUqKsVHzySL2GMhd7iPi9NsbxosbG8aLE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60380042/%E6%AD%90%E7%9B%9F%E6%88%90%E5%93%A1%E5%9C%8B%E5%B1%A2%E6%89%A3%E6%8A%BC%E4%BF%84%E7%BE%85%E6%96%AF%E8%88%B9%E9%9A%BB-%E4%BF%84%E5%A4%96%E9%95%B7-%E5%B0%87%E6%89%A3%E6%8A%BC%E7%9B%B8%E9%97%9C%E5%9C%8B%E5%AE%B6%E8%88%B9%E9%9A%BB%E5%8F%8D%E5%88%B6",
+    "timestamp": "2026-08-14T09:17:41.429Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "啟德綠色集運系統正午截標　一文解構雲巴、智軌兩大潛在技術方案",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260814/1164752870692622336489251.jpeg/la7oajpAkRW0WCjqVfueSAeNf9zKAPFqcKDxcnCg8XI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60379854/%E8%B6%85%E4%BA%BA-henry-cavill%E9%A9%9A%E5%96%9C%E7%8F%BE%E8%BA%AB%E4%B8%AD%E7%92%B0%E6%8B%8D%E6%88%B2-%E5%8A%87%E7%B5%84%E6%90%AD%E5%BB%BA%E6%87%B7%E8%88%8A%E9%9C%93%E8%99%B9%E7%87%88%E8%A1%97%E6%99%AF",
     "timestamp": "2026-08-13T18:09:35.107Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "跨部門油尖打擊非法勞工及掃黃　33男女被捕　年紀最小18歲",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260814/1164745906197630976681493.jpeg/vzABaBHgQAS9bjWwgMW5WbVpehjzhLh11iW8ZtYlvGY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60379851/%E8%B7%A8%E9%83%A8%E9%96%80%E6%B2%B9%E5%B0%96%E6%89%93%E6%93%8A%E9%9D%9E%E6%B3%95%E5%8B%9E%E5%B7%A5%E5%8F%8A%E6%8E%83%E9%BB%83-33%E7%94%B7%E5%A5%B3%E8%A2%AB%E6%8D%95-%E5%B9%B4%E7%B4%80%E6%9C%80%E5%B0%8F18%E6%AD%B2",
-    "timestamp": "2026-08-13T17:40:32.233Z",
     "strategy": ".content-card__main"
   }
 ];
