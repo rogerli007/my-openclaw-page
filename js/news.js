@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-14T07:38:35.441Z
+// Last updated: 2026-08-14T08:16:03.812Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "啟德綠色集運系統正午截標　一文解構雲巴、智軌兩大潛在技術方案",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260331/1115640264229130240638507.jpeg/ELh10-OR2-i4LS3qCD_4KYe7psv9uUB0thKjFbYSoxU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60379959/%E5%95%9F%E5%BE%B7%E7%B6%A0%E8%89%B2%E9%9B%86%E9%81%8B%E7%B3%BB%E7%B5%B1%E6%AD%A3%E5%8D%88%E6%88%AA%E6%A8%99-%E4%B8%80%E6%96%87%E8%A7%A3%E6%A7%8B%E9%9B%B2%E5%B7%B4-%E6%99%BA%E8%BB%8C%E5%85%A9%E5%A4%A7%E6%BD%9B%E5%9C%A8%E6%8A%80%E8%A1%93%E6%96%B9%E6%A1%88",
+    "timestamp": "2026-08-14T08:16:03.812Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "浙江長興極端暴雨引發泥石流民房倒塌　致1死3失聯",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260814/1164745906197630976681493.jpeg/vzABaBHgQAS9bjWwgMW5WbVpehjzhLh11iW8ZtYlvGY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60379851/%E8%B7%A8%E9%83%A8%E9%96%80%E6%B2%B9%E5%B0%96%E6%89%93%E6%93%8A%E9%9D%9E%E6%B3%95%E5%8B%9E%E5%B7%A5%E5%8F%8A%E6%8E%83%E9%BB%83-33%E7%94%B7%E5%A5%B3%E8%A2%AB%E6%8D%95-%E5%B9%B4%E7%B4%80%E6%9C%80%E5%B0%8F18%E6%AD%B2",
     "timestamp": "2026-08-13T17:40:32.233Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "荃灣麗城花園兩大廈一度停電　多人下樓抖涼　女居民呻：屋企太熱",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260814/1164729722718916608653042.jpeg/2B-d-F0sXE4d2y5VcrxYmx0b7Tn1Zf5p3RPpVucT6VY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60379847/%E8%8D%83%E7%81%A3%E9%BA%97%E5%9F%8E%E8%8A%B1%E5%9C%92%E5%85%A9%E5%A4%A7%E5%BB%88%E4%B8%80%E5%BA%A6%E5%81%9C%E9%9B%BB-%E5%A4%9A%E4%BA%BA%E4%B8%8B%E6%A8%93%E6%8A%96%E6%B6%BC-%E5%A5%B3%E5%B1%85%E6%B0%91%E5%91%BB-%E5%B1%8B%E4%BC%81%E5%A4%AA%E7%86%B1",
-    "timestamp": "2026-08-13T16:38:16.437Z",
     "strategy": ".content-card__main"
   }
 ];
