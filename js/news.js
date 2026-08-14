@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-14T12:54:05.364Z
+// Last updated: 2026-08-14T13:36:17.890Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "胡杏兒談老公李乘德巧遇舊愛黃宗澤抱抱引熱議：好正常嘅一個問候",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260814/1165043247387512832583214.jpeg/kNbsEtsFgw4ji1z9bFhcIwLLPTVId5A75HMtxdFzLcU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60380154/%E8%83%A1%E6%9D%8F%E5%85%92%E8%AB%87%E8%80%81%E5%85%AC%E6%9D%8E%E4%B9%98%E5%BE%B7%E5%B7%A7%E9%81%87%E8%88%8A%E6%84%9B%E9%BB%83%E5%AE%97%E6%BE%A4%E6%8A%B1%E6%8A%B1%E5%BC%95%E7%86%B1%E8%AD%B0-%E5%A5%BD%E6%AD%A3%E5%B8%B8%E5%98%85%E4%B8%80%E5%80%8B%E5%95%8F%E5%80%99",
+    "timestamp": "2026-08-14T13:36:17.890Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美食博覽｜馬時亨現場力撐　訪大埔振興牛丸自言是「忠粉」",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260813/1164667919750139904729018.png/cvpEVlV10lXt2xnia7QHDMsEiLLQnaVT7ZLeuO2S3rg",
     "url": "https://www.hk01.com/%E5%9C%8B%E9%9A%9B%E5%88%86%E6%9E%90/60379560/%E9%81%9C%E5%B0%BC%E6%B4%BE-%E4%B8%AD%E6%9D%B1%E5%8C%97%E7%B4%84-%E6%88%90%E7%AB%8B-%E4%B8%AD%E6%9D%B1%E5%B0%87%E6%88%90%E4%B8%89%E5%88%86%E5%A4%A9%E4%B8%8B-jack-talk-%E5%8E%BB%E7%89%87",
     "timestamp": "2026-08-13T23:51:45.612Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "京東ADR急挫逾7% 　懶理次季經調整利潤飆兩成",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260814/1164832441853022208934701.jpeg/z_uz-1bXx34Orxqc9jLFNSL8v7dXQUITwCdeqcAnXqk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60379868/%E4%BA%AC%E6%9D%B1adr%E6%80%A5%E6%8C%AB%E9%80%BE7-%E6%87%B6%E7%90%86%E6%AC%A1%E5%AD%A3%E7%B6%93%E8%AA%BF%E6%95%B4%E5%88%A9%E6%BD%A4%E9%A3%86%E5%85%A9%E6%88%90",
-    "timestamp": "2026-08-13T23:22:16.425Z",
     "strategy": ".content-card__main"
   }
 ];
