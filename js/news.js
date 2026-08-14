@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-14T22:58:22.878Z
+// Last updated: 2026-08-14T23:11:41.618Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "性罪行改革｜哪種推定？如何欺騙？「性自主權」待體現",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260814/1165019663680147456961324.jpeg/6nlssdn4T186Ths7wBaAL7iplzUMBlHdVwzKVlcMylY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60378896/%E6%80%A7%E7%BD%AA%E8%A1%8C%E6%94%B9%E9%9D%A9-%E5%93%AA%E7%A8%AE%E6%8E%A8%E5%AE%9A-%E5%A6%82%E4%BD%95%E6%AC%BA%E9%A8%99-%E6%80%A7%E8%87%AA%E4%B8%BB%E6%AC%8A-%E5%BE%85%E9%AB%94%E7%8F%BE",
+    "timestamp": "2026-08-14T23:11:41.618Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "地中海地震中心：印尼沿海發生6.2級地震",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260814/1165038251459743744031476.jpeg/Ng3x3au7WtdXqyZUJIW2PerADlDWXgNG_ZdDvv2XQ74?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60380113/%E6%BE%B3%E6%B4%B2%E6%82%89%E5%B0%BC%E6%A9%9F%E5%A0%B42%E5%91%A8%E5%85%A73%E5%AE%97%E9%A3%9B%E6%A9%9F%E9%9A%AA%E7%A2%B0%E6%92%9E%E4%BA%8B%E6%95%85-%E7%95%B6%E5%B1%80%E5%85%A8%E9%9D%A2%E8%AA%BF%E6%9F%A5",
     "timestamp": "2026-08-14T14:16:22.858Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "胡杏兒談老公李乘德巧遇舊愛黃宗澤抱抱引熱議：好正常嘅一個問候",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260814/1165043247387512832583214.jpeg/kNbsEtsFgw4ji1z9bFhcIwLLPTVId5A75HMtxdFzLcU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60380154/%E8%83%A1%E6%9D%8F%E5%85%92%E8%AB%87%E8%80%81%E5%85%AC%E6%9D%8E%E4%B9%98%E5%BE%B7%E5%B7%A7%E9%81%87%E8%88%8A%E6%84%9B%E9%BB%83%E5%AE%97%E6%BE%A4%E6%8A%B1%E6%8A%B1%E5%BC%95%E7%86%B1%E8%AD%B0-%E5%A5%BD%E6%AD%A3%E5%B8%B8%E5%98%85%E4%B8%80%E5%80%8B%E5%95%8F%E5%80%99",
-    "timestamp": "2026-08-14T13:36:17.890Z",
     "strategy": ".content-card__main"
   }
 ];
