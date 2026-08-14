@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-14T02:03:34.528Z
+// Last updated: 2026-08-14T04:01:26.082Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "千葉暴雨．東京航班消息｜香港往返成田機場至今早10時28航班延誤",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260814/1164901151221485568041298.jpeg/VS5vkDTB945qt4F0ptjpDHXBrkX7ldyHhg-hY4YPoWM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60379933/%E5%8D%83%E8%91%89%E6%9A%B4%E9%9B%A8-%E6%9D%B1%E4%BA%AC%E8%88%AA%E7%8F%AD%E6%B6%88%E6%81%AF-%E9%A6%99%E6%B8%AF%E5%BE%80%E8%BF%94%E6%88%90%E7%94%B0%E6%A9%9F%E5%A0%B4%E8%87%B3%E4%BB%8A%E6%97%A910%E6%99%8228%E8%88%AA%E7%8F%AD%E5%BB%B6%E8%AA%A4",
+    "timestamp": "2026-08-14T04:01:26.082Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "香港LPF註冊數突破2000個　按年大增63%　鞏固財管中心地位",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260813/1164679075772502016170456.jpeg/AkjtHL12v-0uVSZs4RL-nFhOs6VDy6xo3UX3bN1F92w?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8F%B0%E7%81%A3%E6%96%B0%E8%81%9E/60379819/%E5%8F%B0%E7%81%A3%E9%A6%96%E8%BC%9B-%E5%BC%B5%E9%9B%AA%E6%A9%9F%E8%BB%8A-%E9%81%AD%E6%9F%A5%E6%89%A3%E5%BC%95%E7%B6%B2%E6%B0%91%E4%B8%8D%E6%BB%BF-%E8%BB%8A%E4%B8%BB%E7%99%BC%E8%81%B2-%E9%80%99%E6%98%AF%E5%80%8B%E4%BA%BA%E8%B2%A1%E7%94%A2",
     "timestamp": "2026-08-13T13:36:56.492Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "BTS V右耳聽力僅30%當兵期間一度惡化 　與柾國健身遭20狂粉包圍",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260813/1164586590425583616814506.jpeg/1HkIWbZwF2_ujABaHjk5bMaz2dgkfsodLTCbwC0wm8A?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60379651/bts-v%E5%8F%B3%E8%80%B3%E8%81%BD%E5%8A%9B%E5%83%8530-%E7%95%B6%E5%85%B5%E6%9C%9F%E9%96%93%E4%B8%80%E5%BA%A6%E6%83%A1%E5%8C%96-%E8%88%87%E6%9F%BE%E5%9C%8B%E5%81%A5%E8%BA%AB%E9%81%AD20%E7%8B%82%E7%B2%89%E5%8C%85%E5%9C%8D",
-    "timestamp": "2026-08-13T12:26:43.173Z",
     "strategy": ".content-card__main"
   }
 ];
