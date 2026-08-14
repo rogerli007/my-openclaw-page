@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-14T18:37:56.140Z
+// Last updated: 2026-08-14T19:12:14.320Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "瑪麗醫院新大樓28部𨋢壞24部　3大問題曝光　建築署追究承建商",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260812/1164184941592973312860431.jpeg/yItFGqnWu7eIC1SQAo7GvXszGKcm8le01gyPkfMMj5E?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60379310/%E7%91%AA%E9%BA%97%E9%86%AB%E9%99%A2%E6%96%B0%E5%A4%A7%E6%A8%9328%E9%83%A8%F0%A8%8B%A2%E5%A3%9E24%E9%83%A8-3%E5%A4%A7%E5%95%8F%E9%A1%8C%E6%9B%9D%E5%85%89-%E5%BB%BA%E7%AF%89%E7%BD%B2%E8%BF%BD%E7%A9%B6%E6%89%BF%E5%BB%BA%E5%95%86",
+    "timestamp": "2026-08-14T19:12:14.320Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "瑪麗醫院新大樓28部𨋢壞24部　3大問題曝光　建築署追究承建商",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260114/1088122675324260352059418.jpeg/4CYxngRhkbH3mX6mtMBmRGbkpinabthiUvlyCVL5cgk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60379990/%E4%BF%A1%E5%AE%B8%E8%B3%87%E6%9C%AC%E5%82%B3%E6%8E%A5%E8%BF%91%E6%94%B6%E8%B3%BC%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%E9%81%8A%E6%88%B2%E5%93%81%E7%89%8C%E9%9D%88%E7%8A%80%E4%BA%92%E5%A8%9B-%E4%BC%B0%E5%80%BC%E6%96%99117%E5%84%84%E6%B8%AF%E5%85%83",
     "timestamp": "2026-08-14T06:50:15.169Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普秘密換乘專機：以他人作「餌」＋資訊不透明掀信任危機？",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260523/1134817939078254592406798.jpeg/9so-vXtuWx61t0dQRQWA_9Fe8MzhLT9D81I5N_NSOTc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E4%B8%96%E7%95%8C%E5%B0%88%E9%A1%8C/60379896/%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%98%E5%AF%86%E6%8F%9B%E4%B9%98%E5%B0%88%E6%A9%9F-%E4%BB%A5%E4%BB%96%E4%BA%BA%E4%BD%9C-%E9%A4%8C-%E8%B3%87%E8%A8%8A%E4%B8%8D%E9%80%8F%E6%98%8E%E6%8E%80%E4%BF%A1%E4%BB%BB%E5%8D%B1%E6%A9%9F",
-    "timestamp": "2026-08-14T06:05:08.242Z",
     "strategy": ".content-card__main"
   }
 ];
