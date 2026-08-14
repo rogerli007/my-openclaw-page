@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-14T22:45:14.437Z
+// Last updated: 2026-08-14T22:58:22.878Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "地中海地震中心：印尼沿海發生6.2級地震",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260815/1165183957818413056301752.png/It3X21RaH4s_bGeMHkXkYViUhrHNwQ37lBG7OJQRuzg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60380196/%E5%9C%B0%E4%B8%AD%E6%B5%B7%E5%9C%B0%E9%9C%87%E4%B8%AD%E5%BF%83-%E5%8D%B0%E5%B0%BC%E6%B2%BF%E6%B5%B7%E7%99%BC%E7%94%9F6-2%E7%B4%9A%E5%9C%B0%E9%9C%87",
+    "timestamp": "2026-08-14T22:58:22.878Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "地中海地震中心：印尼沿海發生6.2級地震",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260814/1165043247387512832583214.jpeg/kNbsEtsFgw4ji1z9bFhcIwLLPTVId5A75HMtxdFzLcU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60380154/%E8%83%A1%E6%9D%8F%E5%85%92%E8%AB%87%E8%80%81%E5%85%AC%E6%9D%8E%E4%B9%98%E5%BE%B7%E5%B7%A7%E9%81%87%E8%88%8A%E6%84%9B%E9%BB%83%E5%AE%97%E6%BE%A4%E6%8A%B1%E6%8A%B1%E5%BC%95%E7%86%B1%E8%AD%B0-%E5%A5%BD%E6%AD%A3%E5%B8%B8%E5%98%85%E4%B8%80%E5%80%8B%E5%95%8F%E5%80%99",
     "timestamp": "2026-08-14T13:36:17.890Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美食博覽｜馬時亨現場力撐　訪大埔振興牛丸自言是「忠粉」",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260814/1165034463290200064496038.jpeg/KoXkRW3yMsvT7S0_nMXRmxIw1GGasJWLK02dwCtNncA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60380144/%E7%BE%8E%E9%A3%9F%E5%8D%9A%E8%A6%BD-%E9%A6%AC%E6%99%82%E4%BA%A8%E7%8F%BE%E5%A0%B4%E5%8A%9B%E6%92%90-%E8%A8%AA%E5%A4%A7%E5%9F%94%E6%8C%AF%E8%88%88%E7%89%9B%E4%B8%B8%E8%87%AA%E8%A8%80%E6%98%AF-%E5%BF%A0%E7%B2%89",
-    "timestamp": "2026-08-14T12:54:05.364Z",
     "strategy": ".content-card__main"
   }
 ];
