@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-14T12:31:07.734Z
+// Last updated: 2026-08-14T12:54:05.364Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美食博覽｜馬時亨現場力撐　訪大埔振興牛丸自言是「忠粉」",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260814/1165034463290200064496038.jpeg/KoXkRW3yMsvT7S0_nMXRmxIw1GGasJWLK02dwCtNncA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60380144/%E7%BE%8E%E9%A3%9F%E5%8D%9A%E8%A6%BD-%E9%A6%AC%E6%99%82%E4%BA%A8%E7%8F%BE%E5%A0%B4%E5%8A%9B%E6%92%90-%E8%A8%AA%E5%A4%A7%E5%9F%94%E6%8C%AF%E8%88%88%E7%89%9B%E4%B8%B8%E8%87%AA%E8%A8%80%E6%98%AF-%E5%BF%A0%E7%B2%89",
+    "timestamp": "2026-08-14T12:54:05.364Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "台灣麥當勞蝦堡驗出抗生素超標！5類食物常用禁藥1種恐致心律失常",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260814/1164832441853022208934701.jpeg/z_uz-1bXx34Orxqc9jLFNSL8v7dXQUITwCdeqcAnXqk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60379868/%E4%BA%AC%E6%9D%B1adr%E6%80%A5%E6%8C%AB%E9%80%BE7-%E6%87%B6%E7%90%86%E6%AC%A1%E5%AD%A3%E7%B6%93%E8%AA%BF%E6%95%B4%E5%88%A9%E6%BD%A4%E9%A3%86%E5%85%A9%E6%88%90",
     "timestamp": "2026-08-13T23:22:16.425Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美國對部分無人機徵100%關稅　減外國供應依賴",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260703/1149679467141271552014257.jpeg/otctR-3vJp6hnCUsqdXoR1Qa5cjvi62-gbKYL4GymC8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60379867/%E7%BE%8E%E5%9C%8B%E5%B0%8D%E9%83%A8%E5%88%86%E7%84%A1%E4%BA%BA%E6%A9%9F%E5%BE%B5100-%E9%97%9C%E7%A8%85-%E6%B8%9B%E5%A4%96%E5%9C%8B%E4%BE%9B%E6%87%89%E4%BE%9D%E8%B3%B4",
-    "timestamp": "2026-08-13T22:52:05.790Z",
     "strategy": ".content-card__main"
   }
 ];
