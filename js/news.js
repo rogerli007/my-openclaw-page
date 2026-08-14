@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-14T21:30:36.886Z
+// Last updated: 2026-08-14T21:45:53.794Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美國女子涉破壞二戰紀念碑　控兩項重罪最高可判囚10年",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260815/1165158672242839552948503.png/8Tx9uF5nVcBzyHH1OX4Ub9_7CMKw78UQEUIi_xFCIv8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60380188/%E7%BE%8E%E5%9C%8B%E5%A5%B3%E5%AD%90%E6%B6%89%E7%A0%B4%E5%A3%9E%E4%BA%8C%E6%88%B0%E7%B4%80%E5%BF%B5%E7%A2%91-%E6%8E%A7%E5%85%A9%E9%A0%85%E9%87%8D%E7%BD%AA%E6%9C%80%E9%AB%98%E5%8F%AF%E5%88%A4%E5%9B%9A10%E5%B9%B4",
+    "timestamp": "2026-08-14T21:45:53.794Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美國女子涉破壞二戰紀念碑　控兩項重罪最高可判囚10年",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260814/1164985813566885888796150.png/iBR_s945EjAwGRiueln88tpWJxWej38pIfQLJiH0CyY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%92%B0%E7%90%83%E8%B6%A3%E8%81%9E/60380066/%E6%97%A5%E6%9C%AC%E7%A7%8B%E7%94%B0%E7%B8%A3%E6%93%AC%E5%BB%BAai%E6%95%B8%E6%93%9A%E4%B8%AD%E5%BF%83-%E8%B2%A0%E8%B2%AC%E5%AE%98%E5%93%A1-%E7%88%86%E6%88%BFlook-%E7%B6%B2%E4%B8%8A%E5%87%BA%E5%B8%AD%E9%81%AD%E5%81%9C%E8%81%B7",
     "timestamp": "2026-08-14T10:40:53.539Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "國泰客機上月羅馬尼亞領空曾失聯　報告指機組人員調錯無線電頻率",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260708/1151548571246399488430268.jpeg/dnlCu3WhiTYecB6qZ5qvftUl6FbXDkTpqOoM4qjqDOI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60380095/%E5%9C%8B%E6%B3%B0%E5%AE%A2%E6%A9%9F%E4%B8%8A%E6%9C%88%E7%BE%85%E9%A6%AC%E5%B0%BC%E4%BA%9E%E9%A0%98%E7%A9%BA%E6%9B%BE%E5%A4%B1%E8%81%AF-%E5%A0%B1%E5%91%8A%E6%8C%87%E6%A9%9F%E7%B5%84%E4%BA%BA%E5%93%A1%E8%AA%BF%E9%8C%AF%E7%84%A1%E7%B7%9A%E9%9B%BB%E9%A0%BB%E7%8E%87",
-    "timestamp": "2026-08-14T10:13:56.811Z",
     "strategy": ".content-card__main"
   }
 ];
