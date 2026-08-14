@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-14T11:35:54.811Z
+// Last updated: 2026-08-14T12:31:07.734Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "台灣麥當勞蝦堡驗出抗生素超標！5類食物常用禁藥1種恐致心律失常",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260814/1165029774280626176782346.jpeg/9D5UHTr3xOdfOtS7ff4UKEh1nWJqhBKtMEfbDzBH2w8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60380003/%E5%8F%B0%E7%81%A3%E9%BA%A5%E7%95%B6%E5%8B%9E%E8%9D%A6%E5%A0%A1%E9%A9%97%E5%87%BA%E6%8A%97%E7%94%9F%E7%B4%A0%E8%B6%85%E6%A8%99-5%E9%A1%9E%E9%A3%9F%E7%89%A9%E5%B8%B8%E7%94%A8%E7%A6%81%E8%97%A51%E7%A8%AE%E6%81%90%E8%87%B4%E5%BF%83%E5%BE%8B%E5%A4%B1%E5%B8%B8",
+    "timestamp": "2026-08-14T12:31:07.734Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "從人生低谷到衝浪天后　鈕臻琳：海浪教我堅持　讓我成為更好的人",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260703/1149679467141271552014257.jpeg/otctR-3vJp6hnCUsqdXoR1Qa5cjvi62-gbKYL4GymC8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60379867/%E7%BE%8E%E5%9C%8B%E5%B0%8D%E9%83%A8%E5%88%86%E7%84%A1%E4%BA%BA%E6%A9%9F%E5%BE%B5100-%E9%97%9C%E7%A8%85-%E6%B8%9B%E5%A4%96%E5%9C%8B%E4%BE%9B%E6%87%89%E4%BE%9D%E8%B3%B4",
     "timestamp": "2026-08-13T22:52:05.790Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美法官駁回特朗普訴訟　裁定哈佛未違反猶法",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20251217/1077856565580533760372690.jpeg/gr79nDCOQkOF0ulH6Zi4hb1RzOzdA_hUJGjisSRo4rE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60379860/%E7%BE%8E%E6%B3%95%E5%AE%98%E9%A7%81%E5%9B%9E%E7%89%B9%E6%9C%97%E6%99%AE%E8%A8%B4%E8%A8%9F-%E8%A3%81%E5%AE%9A%E5%93%88%E4%BD%9B%E6%9C%AA%E9%81%95%E5%8F%8D%E7%8C%B6%E6%B3%95",
-    "timestamp": "2026-08-13T21:52:32.397Z",
     "strategy": ".content-card__main"
   }
 ];
