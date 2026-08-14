@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-14T21:02:25.680Z
+// Last updated: 2026-08-14T21:15:16.123Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美國女子涉破壞二戰紀念碑　控兩項重罪最高可判囚10年",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260815/1165158672242839552948503.png/8Tx9uF5nVcBzyHH1OX4Ub9_7CMKw78UQEUIi_xFCIv8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60380188/%E7%BE%8E%E5%9C%8B%E5%A5%B3%E5%AD%90%E6%B6%89%E7%A0%B4%E5%A3%9E%E4%BA%8C%E6%88%B0%E7%B4%80%E5%BF%B5%E7%A2%91-%E6%8E%A7%E5%85%A9%E9%A0%85%E9%87%8D%E7%BD%AA%E6%9C%80%E9%AB%98%E5%8F%AF%E5%88%A4%E5%9B%9A10%E5%B9%B4",
+    "timestamp": "2026-08-14T21:15:16.123Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美國女子涉破壞二戰紀念碑　控兩項重罪最高可判囚10年",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260814/1164986659624718336628934.jpeg/-xGxOAnxUTMOH-iHZmQmvONo_oL-Hg2bbXTHUkh0x1I?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60380076/%E8%A1%8C%E6%94%BF%E9%95%B7%E5%AE%98%E8%A1%A8%E6%8F%9A%E6%A6%9C-%E6%8B%86%E6%88%B0%E6%99%82%E7%82%B8%E5%BD%88%E5%92%8C%E7%B0%A1%E7%B4%84%E5%85%AC%E5%B1%8B%E5%85%A9%E8%B7%A8%E9%83%A8%E9%96%80%E5%9C%98%E9%9A%8A%E7%8D%B2%E7%8D%8E",
     "timestamp": "2026-08-14T09:44:42.773Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "歐盟成員國屢扣押俄羅斯船隻　俄外長：將扣押相關國家船隻反制",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250529/1004556130413711360870436.jpeg/H0HwdurMP5RUqKsVHzySL2GMhd7iPi9NsbxosbG8aLE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60380042/%E6%AD%90%E7%9B%9F%E6%88%90%E5%93%A1%E5%9C%8B%E5%B1%A2%E6%89%A3%E6%8A%BC%E4%BF%84%E7%BE%85%E6%96%AF%E8%88%B9%E9%9A%BB-%E4%BF%84%E5%A4%96%E9%95%B7-%E5%B0%87%E6%89%A3%E6%8A%BC%E7%9B%B8%E9%97%9C%E5%9C%8B%E5%AE%B6%E8%88%B9%E9%9A%BB%E5%8F%8D%E5%88%B6",
-    "timestamp": "2026-08-14T09:17:41.429Z",
     "strategy": ".content-card__main"
   }
 ];
