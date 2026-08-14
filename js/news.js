@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-14T09:17:41.429Z
+// Last updated: 2026-08-14T09:44:42.773Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "行政長官表揚榜｜拆戰時炸彈和簡約公屋兩跨部門團隊獲獎",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260814/1164986659624718336628934.jpeg/-xGxOAnxUTMOH-iHZmQmvONo_oL-Hg2bbXTHUkh0x1I?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60380076/%E8%A1%8C%E6%94%BF%E9%95%B7%E5%AE%98%E8%A1%A8%E6%8F%9A%E6%A6%9C-%E6%8B%86%E6%88%B0%E6%99%82%E7%82%B8%E5%BD%88%E5%92%8C%E7%B0%A1%E7%B4%84%E5%85%AC%E5%B1%8B%E5%85%A9%E8%B7%A8%E9%83%A8%E9%96%80%E5%9C%98%E9%9A%8A%E7%8D%B2%E7%8D%8E",
+    "timestamp": "2026-08-14T09:44:42.773Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "歐盟成員國屢扣押俄羅斯船隻　俄外長：將扣押相關國家船隻反制",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260814/1164752870692622336489251.jpeg/la7oajpAkRW0WCjqVfueSAeNf9zKAPFqcKDxcnCg8XI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60379854/%E8%B6%85%E4%BA%BA-henry-cavill%E9%A9%9A%E5%96%9C%E7%8F%BE%E8%BA%AB%E4%B8%AD%E7%92%B0%E6%8B%8D%E6%88%B2-%E5%8A%87%E7%B5%84%E6%90%AD%E5%BB%BA%E6%87%B7%E8%88%8A%E9%9C%93%E8%99%B9%E7%87%88%E8%A1%97%E6%99%AF",
     "timestamp": "2026-08-13T18:39:42.315Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "「超人」Henry Cavill驚喜現身中環拍戲　劇組搭建懷舊霓虹燈街景",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260814/1164752870692622336489251.jpeg/la7oajpAkRW0WCjqVfueSAeNf9zKAPFqcKDxcnCg8XI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60379854/%E8%B6%85%E4%BA%BA-henry-cavill%E9%A9%9A%E5%96%9C%E7%8F%BE%E8%BA%AB%E4%B8%AD%E7%92%B0%E6%8B%8D%E6%88%B2-%E5%8A%87%E7%B5%84%E6%90%AD%E5%BB%BA%E6%87%B7%E8%88%8A%E9%9C%93%E8%99%B9%E7%87%88%E8%A1%97%E6%99%AF",
-    "timestamp": "2026-08-13T18:09:35.107Z",
     "strategy": ".content-card__main"
   }
 ];
