@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-14T06:05:08.242Z
+// Last updated: 2026-08-14T06:50:15.169Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "信宸資本傳接近收購阿里巴巴遊戲品牌靈犀互娛　估值料117億港元",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260114/1088122675324260352059418.jpeg/4CYxngRhkbH3mX6mtMBmRGbkpinabthiUvlyCVL5cgk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60379990/%E4%BF%A1%E5%AE%B8%E8%B3%87%E6%9C%AC%E5%82%B3%E6%8E%A5%E8%BF%91%E6%94%B6%E8%B3%BC%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%E9%81%8A%E6%88%B2%E5%93%81%E7%89%8C%E9%9D%88%E7%8A%80%E4%BA%92%E5%A8%9B-%E4%BC%B0%E5%80%BC%E6%96%99117%E5%84%84%E6%B8%AF%E5%85%83",
+    "timestamp": "2026-08-14T06:50:15.169Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "特朗普秘密換乘專機：以他人作「餌」＋資訊不透明掀信任危機？",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260813/1164587368632553472650478.png/uFEkzEttsU6R54WVbAb1RB3j_bGKKRam61avP-tWrz8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E5%A8%9B%E6%A8%82/60379677/av%E7%B1%83%E7%90%83%E5%A5%B3%E7%A5%9E%E8%BE%BB%E4%BA%95%E7%A9%97%E4%B9%83%E6%9E%9C%E9%87%8D%E5%82%B7%E4%B8%8D%E5%BF%98%E5%A4%A2%E6%83%B3-%E8%87%AA%E7%B5%84%E5%A5%B3%E7%B1%83%E8%A6%AA%E4%BB%BB%E6%95%99%E7%B7%B4%E9%A6%96%E6%88%B0%E5%8D%B3%E5%A5%AA%E5%86%A0",
     "timestamp": "2026-08-13T15:40:01.379Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "酒店被指收「車上住宿費」捱轟！CCTV揭大反轉：惡客佔地做局勒索",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260812/1164272499899240448910327.png/G0kFXmfqOJl50KpPtWLJaA0zd2ootZ0QVEi3AFRItwA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60379186/%E9%85%92%E5%BA%97%E8%A2%AB%E6%8C%87%E6%94%B6-%E8%BB%8A%E4%B8%8A%E4%BD%8F%E5%AE%BF%E8%B2%BB-%E6%8D%B1%E8%BD%9F-cctv%E6%8F%AD%E5%A4%A7%E5%8F%8D%E8%BD%89-%E6%83%A1%E5%AE%A2%E4%BD%94%E5%9C%B0%E5%81%9A%E5%B1%80%E5%8B%92%E7%B4%A2",
-    "timestamp": "2026-08-13T15:12:07.747Z",
     "strategy": ".content-card__main"
   }
 ];
