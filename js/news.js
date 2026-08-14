@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-14T09:44:42.773Z
+// Last updated: 2026-08-14T10:13:56.811Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "國泰客機上月羅馬尼亞領空曾失聯　報告指機組人員調錯無線電頻率",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260708/1151548571246399488430268.jpeg/dnlCu3WhiTYecB6qZ5qvftUl6FbXDkTpqOoM4qjqDOI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60380095/%E5%9C%8B%E6%B3%B0%E5%AE%A2%E6%A9%9F%E4%B8%8A%E6%9C%88%E7%BE%85%E9%A6%AC%E5%B0%BC%E4%BA%9E%E9%A0%98%E7%A9%BA%E6%9B%BE%E5%A4%B1%E8%81%AF-%E5%A0%B1%E5%91%8A%E6%8C%87%E6%A9%9F%E7%B5%84%E4%BA%BA%E5%93%A1%E8%AA%BF%E9%8C%AF%E7%84%A1%E7%B7%9A%E9%9B%BB%E9%A0%BB%E7%8E%87",
+    "timestamp": "2026-08-14T10:13:56.811Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "行政長官表揚榜｜拆戰時炸彈和簡約公屋兩跨部門團隊獲獎",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260814/1164767963933315072730926.jpeg/4fkleTol6rg9Vnur3FqRNB17I6auK6cua-hyKGvocig?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60379857/%E4%B9%92%E4%B9%93wtt%E7%91%9E%E5%85%B8%E5%A4%A7%E6%BB%BF%E8%B2%AB-%E6%9D%9C%E5%87%B1%E7%90%B9%E5%90%B3%E8%A9%A0%E7%90%B3%E6%8C%AB%E4%B8%96%E4%B8%80-%E7%A0%B4%E7%8E%8B%E6%9B%BC%E6%98%B1-%E8%92%AF%E6%9B%BC%E5%85%A9%E5%B9%B4%E4%B8%8D%E6%95%97",
     "timestamp": "2026-08-13T19:14:21.569Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "「超人」Henry Cavill驚喜現身中環拍戲　劇組搭建懷舊霓虹燈街景",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260814/1164752870692622336489251.jpeg/la7oajpAkRW0WCjqVfueSAeNf9zKAPFqcKDxcnCg8XI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60379854/%E8%B6%85%E4%BA%BA-henry-cavill%E9%A9%9A%E5%96%9C%E7%8F%BE%E8%BA%AB%E4%B8%AD%E7%92%B0%E6%8B%8D%E6%88%B2-%E5%8A%87%E7%B5%84%E6%90%AD%E5%BB%BA%E6%87%B7%E8%88%8A%E9%9C%93%E8%99%B9%E7%87%88%E8%A1%97%E6%99%AF",
-    "timestamp": "2026-08-13T18:39:42.315Z",
     "strategy": ".content-card__main"
   }
 ];
