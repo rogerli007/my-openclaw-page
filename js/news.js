@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-14T01:17:04.068Z
+// Last updated: 2026-08-14T02:03:34.528Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "香港LPF註冊數突破2000個　按年大增63%　鞏固財管中心地位",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260814/1164869943208972288109765.png/MaZr103yK3bwqeg3x8lRztt3f6Av9wZlAV_ZawFf2Ws?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60379879/%E9%A6%99%E6%B8%AFlpf%E8%A8%BB%E5%86%8A%E6%95%B8%E7%AA%81%E7%A0%B42000%E5%80%8B-%E6%8C%89%E5%B9%B4%E5%A4%A7%E5%A2%9E63-%E9%9E%8F%E5%9B%BA%E8%B2%A1%E7%AE%A1%E4%B8%AD%E5%BF%83%E5%9C%B0%E4%BD%8D",
+    "timestamp": "2026-08-14T02:03:34.528Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "加國華裔婆婆賣麻糍1句「好食」暖爆網民　海外鄉味難越監管高墻",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260813/1164586590425583616814506.jpeg/1HkIWbZwF2_ujABaHjk5bMaz2dgkfsodLTCbwC0wm8A?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60379651/bts-v%E5%8F%B3%E8%80%B3%E8%81%BD%E5%8A%9B%E5%83%8530-%E7%95%B6%E5%85%B5%E6%9C%9F%E9%96%93%E4%B8%80%E5%BA%A6%E6%83%A1%E5%8C%96-%E8%88%87%E6%9F%BE%E5%9C%8B%E5%81%A5%E8%BA%AB%E9%81%AD20%E7%8B%82%E7%B2%89%E5%8C%85%E5%9C%8D",
     "timestamp": "2026-08-13T12:26:43.173Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "港鐵：將投標競逐啟德智慧綠色運輸項目　上半年非以股代息好時機",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260813/1164639971630387200698320.jpeg/X1RPCwzt6T4KWfvwvxkpd2NqaQ6K6N2OHQrnHh0K5x4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60379792/%E6%B8%AF%E9%90%B5-%E5%B0%87%E6%8A%95%E6%A8%99%E7%AB%B6%E9%80%90%E5%95%9F%E5%BE%B7%E6%99%BA%E6%85%A7%E7%B6%A0%E8%89%B2%E9%81%8B%E8%BC%B8%E9%A0%85%E7%9B%AE-%E4%B8%8A%E5%8D%8A%E5%B9%B4%E9%9D%9E%E4%BB%A5%E8%82%A1%E4%BB%A3%E6%81%AF%E5%A5%BD%E6%99%82%E6%A9%9F",
-    "timestamp": "2026-08-13T11:52:20.717Z",
     "strategy": ".content-card__main"
   }
 ];
