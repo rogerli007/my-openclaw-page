@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-14T10:13:56.811Z
+// Last updated: 2026-08-14T10:40:53.539Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "日本秋田縣擬建AI數據中心　負責官員「爆房look」網上出席遭停職",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260814/1164985813566885888796150.png/iBR_s945EjAwGRiueln88tpWJxWej38pIfQLJiH0CyY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%92%B0%E7%90%83%E8%B6%A3%E8%81%9E/60380066/%E6%97%A5%E6%9C%AC%E7%A7%8B%E7%94%B0%E7%B8%A3%E6%93%AC%E5%BB%BAai%E6%95%B8%E6%93%9A%E4%B8%AD%E5%BF%83-%E8%B2%A0%E8%B2%AC%E5%AE%98%E5%93%A1-%E7%88%86%E6%88%BFlook-%E7%B6%B2%E4%B8%8A%E5%87%BA%E5%B8%AD%E9%81%AD%E5%81%9C%E8%81%B7",
+    "timestamp": "2026-08-14T10:40:53.539Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "國泰客機上月羅馬尼亞領空曾失聯　報告指機組人員調錯無線電頻率",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20251217/1077856565580533760372690.jpeg/gr79nDCOQkOF0ulH6Zi4hb1RzOzdA_hUJGjisSRo4rE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60379860/%E7%BE%8E%E6%B3%95%E5%AE%98%E9%A7%81%E5%9B%9E%E7%89%B9%E6%9C%97%E6%99%AE%E8%A8%B4%E8%A8%9F-%E8%A3%81%E5%AE%9A%E5%93%88%E4%BD%9B%E6%9C%AA%E9%81%95%E5%8F%8D%E7%8C%B6%E6%B3%95",
     "timestamp": "2026-08-13T20:36:31.595Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "乒乓WTT瑞典大滿貫｜杜凱琹吳詠琳挫世一　破王曼昱/蒯曼兩年不敗",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260814/1164767963933315072730926.jpeg/4fkleTol6rg9Vnur3FqRNB17I6auK6cua-hyKGvocig?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60379857/%E4%B9%92%E4%B9%93wtt%E7%91%9E%E5%85%B8%E5%A4%A7%E6%BB%BF%E8%B2%AB-%E6%9D%9C%E5%87%B1%E7%90%B9%E5%90%B3%E8%A9%A0%E7%90%B3%E6%8C%AB%E4%B8%96%E4%B8%80-%E7%A0%B4%E7%8E%8B%E6%9B%BC%E6%98%B1-%E8%92%AF%E6%9B%BC%E5%85%A9%E5%B9%B4%E4%B8%8D%E6%95%97",
-    "timestamp": "2026-08-13T19:14:21.569Z",
     "strategy": ".content-card__main"
   }
 ];
