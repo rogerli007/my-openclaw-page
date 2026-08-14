@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-14T06:50:15.169Z
+// Last updated: 2026-08-14T07:38:35.441Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "浙江長興極端暴雨引發泥石流民房倒塌　致1死3失聯",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260814/1164957606016454656765490.jpeg/BXM4M2zlqI_B-xtnIeWuG1OCb0lx4I-ivuqGtr7qhrY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60380015/%E6%B5%99%E6%B1%9F%E9%95%B7%E8%88%88%E6%A5%B5%E7%AB%AF%E6%9A%B4%E9%9B%A8%E5%BC%95%E7%99%BC%E6%B3%A5%E7%9F%B3%E6%B5%81%E6%B0%91%E6%88%BF%E5%80%92%E5%A1%8C-%E8%87%B41%E6%AD%BB3%E5%A4%B1%E8%81%AF",
+    "timestamp": "2026-08-14T07:38:35.441Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "信宸資本傳接近收購阿里巴巴遊戲品牌靈犀互娛　估值料117億港元",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260814/1164729722718916608653042.jpeg/2B-d-F0sXE4d2y5VcrxYmx0b7Tn1Zf5p3RPpVucT6VY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60379847/%E8%8D%83%E7%81%A3%E9%BA%97%E5%9F%8E%E8%8A%B1%E5%9C%92%E5%85%A9%E5%A4%A7%E5%BB%88%E4%B8%80%E5%BA%A6%E5%81%9C%E9%9B%BB-%E5%A4%9A%E4%BA%BA%E4%B8%8B%E6%A8%93%E6%8A%96%E6%B6%BC-%E5%A5%B3%E5%B1%85%E6%B0%91%E5%91%BB-%E5%B1%8B%E4%BC%81%E5%A4%AA%E7%86%B1",
     "timestamp": "2026-08-13T16:38:16.437Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "AV籃球女神辻井穗乃果重傷不忘夢想　自組女籃親任教練首戰即奪冠",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260813/1164587368632553472650478.png/uFEkzEttsU6R54WVbAb1RB3j_bGKKRam61avP-tWrz8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E5%A8%9B%E6%A8%82/60379677/av%E7%B1%83%E7%90%83%E5%A5%B3%E7%A5%9E%E8%BE%BB%E4%BA%95%E7%A9%97%E4%B9%83%E6%9E%9C%E9%87%8D%E5%82%B7%E4%B8%8D%E5%BF%98%E5%A4%A2%E6%83%B3-%E8%87%AA%E7%B5%84%E5%A5%B3%E7%B1%83%E8%A6%AA%E4%BB%BB%E6%95%99%E7%B7%B4%E9%A6%96%E6%88%B0%E5%8D%B3%E5%A5%AA%E5%86%A0",
-    "timestamp": "2026-08-13T15:40:01.379Z",
     "strategy": ".content-card__main"
   }
 ];
