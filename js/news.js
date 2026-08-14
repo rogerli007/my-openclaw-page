@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-13T23:51:45.612Z
+// Last updated: 2026-08-14T00:36:53.745Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "灣仔皇后大道東平治私家車疑煞車系統故障　　轉彎撞欄杆路牌",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260814/1164847470031671296157432.jpeg/py4ULBo4CmDiujDD64VQf4AjuW1R7nizE6yLNzmsizc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60379870/%E7%81%A3%E4%BB%94%E7%9A%87%E5%90%8E%E5%A4%A7%E9%81%93%E6%9D%B1%E5%B9%B3%E6%B2%BB%E7%A7%81%E5%AE%B6%E8%BB%8A%E7%96%91%E7%85%9E%E8%BB%8A%E7%B3%BB%E7%B5%B1%E6%95%85%E9%9A%9C-%E8%BD%89%E5%BD%8E%E6%92%9E%E6%AC%84%E6%9D%86%E8%B7%AF%E7%89%8C",
+    "timestamp": "2026-08-14T00:36:53.745Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "遜尼派「中東北約」成立　中東將成三分天下？｜Jack Talk・去片",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260813/1164651763559567360724063.png/2y_7rT-2_vaDZ_WTr1TgtLqZQNAb7FEtDgdPtQ4HT7U?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60379301/%E5%85%A7%E5%AA%92%E6%8F%AD%E5%B7%A5%E5%BB%A0%E5%9B%9E%E6%94%B6%E6%A8%82%E4%BA%8B%E8%96%AF%E7%89%87%E6%AE%98%E6%B8%A3-%E8%A3%BD%E8%85%B8%E4%BB%94%E8%82%89%E4%B8%B8%E6%81%90%E5%82%B7%E8%82%9D%E8%85%8E-%E7%81%AB%E9%8D%8B%E6%B2%B9%E9%83%BD%E9%87%8D%E7%94%A8",
     "timestamp": "2026-08-13T11:24:29.931Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "長和中期純利268億飆30倍　負債比率新低　李澤鉅指嚴格控管成本",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260813/1164624440319807488928145.jpeg/kaJvXKnfP3hXppzenXVxPXON0rMMaStX94hYtPeIWLQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60379730/%E9%95%B7%E5%92%8C%E4%B8%AD%E6%9C%9F%E7%B4%94%E5%88%A9%E7%8B%82%E9%A3%8630%E5%80%8D%E8%87%B3268%E5%84%84-%E6%B4%BE%E4%B8%AD%E6%9C%9F%E6%81%AF0-7455%E5%85%83",
-    "timestamp": "2026-08-13T10:56:50.619Z",
     "strategy": ".content-card__main"
   }
 ];
