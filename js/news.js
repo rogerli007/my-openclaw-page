@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-14T16:37:57.751Z
+// Last updated: 2026-08-14T17:10:51.023Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "法國最高法院叫停青少年社媒禁令　稱其侵犯言論自由",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260804/1161323002856476672259417.jpeg/F9rHn6wwJ0SlbWegw9fYBD826HkDHvJvATL5pgEy-aY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60380182/%E6%B3%95%E5%9C%8B%E6%9C%80%E9%AB%98%E6%B3%95%E9%99%A2%E5%8F%AB%E5%81%9C%E9%9D%92%E5%B0%91%E5%B9%B4%E7%A4%BE%E5%AA%92%E7%A6%81%E4%BB%A4-%E7%A8%B1%E5%85%B6%E4%BE%B5%E7%8A%AF%E8%A8%80%E8%AB%96%E8%87%AA%E7%94%B1",
+    "timestamp": "2026-08-14T17:10:51.023Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "最新天氣｜天文台：未來數小時本港部分地區雨勢較大及有狂風雷暴",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260813/1164717964906205184952716.jpeg/kzgLQb67EPDc6LRIwNruh1l5RKqos0KeBo3GkwaNxpM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60379845/%E5%B8%AB%E5%A5%B6%E6%AE%BA%E6%89%8B-%E8%88%87-%E9%AE%91%E5%9C%8B%E5%B9%B3-%E8%A1%97%E9%82%8A%E5%B8%B6%E8%B2%A8%E5%8B%81%E9%A1%AF%E8%80%81-%E5%86%87%E4%BA%BA%E8%AA%8D%E5%BE%97-%E6%88%91%E4%BB%A5%E7%82%BA%E7%B6%B2%E7%B4%85",
     "timestamp": "2026-08-14T04:43:34.264Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "千葉暴雨．東京航班消息｜香港往返成田機場至今早10時28航班延誤",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260814/1164901151221485568041298.jpeg/VS5vkDTB945qt4F0ptjpDHXBrkX7ldyHhg-hY4YPoWM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60379933/%E5%8D%83%E8%91%89%E6%9A%B4%E9%9B%A8-%E6%9D%B1%E4%BA%AC%E8%88%AA%E7%8F%AD%E6%B6%88%E6%81%AF-%E9%A6%99%E6%B8%AF%E5%BE%80%E8%BF%94%E6%88%90%E7%94%B0%E6%A9%9F%E5%A0%B4%E8%87%B3%E4%BB%8A%E6%97%A910%E6%99%8228%E8%88%AA%E7%8F%AD%E5%BB%B6%E8%AA%A4",
-    "timestamp": "2026-08-14T04:01:26.082Z",
     "strategy": ".content-card__main"
   }
 ];
