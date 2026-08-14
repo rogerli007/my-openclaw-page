@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-14T19:12:14.320Z
+// Last updated: 2026-08-14T19:39:26.660Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "日本親子好去處2026｜26+親子景點 主題樂園/博物館/快閃店/餐廳",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260715/1154038187966861312953274.jpeg/uMaGf2-5cdOcCN5ZszeTT1XEO8wkOYXQ3J5mkNyeZpA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%A6%AA%E5%AD%90/60370007/%E6%97%A5%E6%9C%AC%E8%A6%AA%E5%AD%90%E5%A5%BD%E5%8E%BB%E8%99%952026-26-%E8%A6%AA%E5%AD%90%E6%99%AF%E9%BB%9E-%E4%B8%BB%E9%A1%8C%E6%A8%82%E5%9C%92-%E5%8D%9A%E7%89%A9%E9%A4%A8-%E5%BF%AB%E9%96%83%E5%BA%97-%E9%A4%90%E5%BB%B3",
+    "timestamp": "2026-08-14T19:39:26.660Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "瑪麗醫院新大樓28部𨋢壞24部　3大問題曝光　建築署追究承建商",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260814/1164957606016454656765490.jpeg/BXM4M2zlqI_B-xtnIeWuG1OCb0lx4I-ivuqGtr7qhrY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60380015/%E6%B5%99%E6%B1%9F%E9%95%B7%E8%88%88%E6%A5%B5%E7%AB%AF%E6%9A%B4%E9%9B%A8%E5%BC%95%E7%99%BC%E6%B3%A5%E7%9F%B3%E6%B5%81%E6%B0%91%E6%88%BF%E5%80%92%E5%A1%8C-%E8%87%B41%E6%AD%BB3%E5%A4%B1%E8%81%AF",
     "timestamp": "2026-08-14T07:38:35.441Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "信宸資本傳接近收購阿里巴巴遊戲品牌靈犀互娛　估值料117億港元",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260114/1088122675324260352059418.jpeg/4CYxngRhkbH3mX6mtMBmRGbkpinabthiUvlyCVL5cgk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60379990/%E4%BF%A1%E5%AE%B8%E8%B3%87%E6%9C%AC%E5%82%B3%E6%8E%A5%E8%BF%91%E6%94%B6%E8%B3%BC%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%E9%81%8A%E6%88%B2%E5%93%81%E7%89%8C%E9%9D%88%E7%8A%80%E4%BA%92%E5%A8%9B-%E4%BC%B0%E5%80%BC%E6%96%99117%E5%84%84%E6%B8%AF%E5%85%83",
-    "timestamp": "2026-08-14T06:50:15.169Z",
     "strategy": ".content-card__main"
   }
 ];
