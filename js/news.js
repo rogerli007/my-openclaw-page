@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-14T04:01:26.082Z
+// Last updated: 2026-08-14T04:43:34.264Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "「師奶殺手」與「鮑國平」街邊帶貨勁顯老　冇人認得：我以為網紅",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260813/1164717964906205184952716.jpeg/kzgLQb67EPDc6LRIwNruh1l5RKqos0KeBo3GkwaNxpM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60379845/%E5%B8%AB%E5%A5%B6%E6%AE%BA%E6%89%8B-%E8%88%87-%E9%AE%91%E5%9C%8B%E5%B9%B3-%E8%A1%97%E9%82%8A%E5%B8%B6%E8%B2%A8%E5%8B%81%E9%A1%AF%E8%80%81-%E5%86%87%E4%BA%BA%E8%AA%8D%E5%BE%97-%E6%88%91%E4%BB%A5%E7%82%BA%E7%B6%B2%E7%B4%85",
+    "timestamp": "2026-08-14T04:43:34.264Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "千葉暴雨．東京航班消息｜香港往返成田機場至今早10時28航班延誤",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20181018/15398449815bc82b755b57f.jpg/VTNdCjCV-aLAJnRQL5_aC3M50Mbmty6Yz6r8r8-q_K8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E4%B8%AD%E5%9C%8B%E8%A7%80%E5%AF%9F/60379826/%E6%A9%AB%E6%B8%A0%E5%9B%9B%E5%8F%A5%E4%B8%AD%E7%9A%84%E6%9C%B1%E9%8E%94%E5%9F%BA-%E4%B8%AD%E5%9C%8B%E6%94%BF%E6%B2%BB%E5%AE%B6%E7%9A%84%E6%A6%9C%E6%A8%A3",
     "timestamp": "2026-08-13T14:18:42.983Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "台灣首輛「張雪機車」遭查扣引網民不滿　車主發聲：這是個人財產",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260813/1164679075772502016170456.jpeg/AkjtHL12v-0uVSZs4RL-nFhOs6VDy6xo3UX3bN1F92w?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8F%B0%E7%81%A3%E6%96%B0%E8%81%9E/60379819/%E5%8F%B0%E7%81%A3%E9%A6%96%E8%BC%9B-%E5%BC%B5%E9%9B%AA%E6%A9%9F%E8%BB%8A-%E9%81%AD%E6%9F%A5%E6%89%A3%E5%BC%95%E7%B6%B2%E6%B0%91%E4%B8%8D%E6%BB%BF-%E8%BB%8A%E4%B8%BB%E7%99%BC%E8%81%B2-%E9%80%99%E6%98%AF%E5%80%8B%E4%BA%BA%E8%B2%A1%E7%94%A2",
-    "timestamp": "2026-08-13T13:36:56.492Z",
     "strategy": ".content-card__main"
   }
 ];
