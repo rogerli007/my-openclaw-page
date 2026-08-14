@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-14T14:41:26.996Z
+// Last updated: 2026-08-14T16:08:34.419Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "英國24小時發生第二起列車出軌　專家稱熱浪疑為肇因之一",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260815/1165086771935973376105328.png/1R6M0149sveQJiddulvoHclHFeiGG8arupz72bqc-9k?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60380178/%E8%8B%B1%E5%9C%8B24%E5%B0%8F%E6%99%82%E7%99%BC%E7%94%9F%E7%AC%AC%E4%BA%8C%E8%B5%B7%E5%88%97%E8%BB%8A%E5%87%BA%E8%BB%8C-%E5%B0%88%E5%AE%B6%E7%A8%B1%E7%86%B1%E6%B5%AA%E7%96%91%E7%82%BA%E8%82%87%E5%9B%A0%E4%B9%8B%E4%B8%80",
+    "timestamp": "2026-08-14T16:08:34.419Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "東張西望丨禾輋邨「污糟男」邊行商場邊瀨屎　曾涉打清潔工獲釋放",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260814/1164869943208972288109765.png/MaZr103yK3bwqeg3x8lRztt3f6Av9wZlAV_ZawFf2Ws?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60379879/%E9%A6%99%E6%B8%AFlpf%E8%A8%BB%E5%86%8A%E6%95%B8%E7%AA%81%E7%A0%B42000%E5%80%8B-%E6%8C%89%E5%B9%B4%E5%A4%A7%E5%A2%9E63-%E9%9E%8F%E5%9B%BA%E8%B2%A1%E7%AE%A1%E4%B8%AD%E5%BF%83%E5%9C%B0%E4%BD%8D",
     "timestamp": "2026-08-14T02:03:34.528Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "加國華裔婆婆賣麻糍1句「好食」暖爆網民　海外鄉味難越監管高墻",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260812/1164225171389681664764839.png/dcSpK1Yy0_JNXRfvhoFVJpql-y8gyjxFgAYetIAGHrQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60378760/%E5%8A%A0%E5%9C%8B%E8%8F%AF%E8%A3%94%E5%A9%86%E5%A9%86%E8%B3%A3%E9%BA%BB%E7%B3%8D1%E5%8F%A5-%E5%A5%BD%E9%A3%9F-%E6%9A%96%E7%88%86%E7%B6%B2%E6%B0%91-%E6%B5%B7%E5%A4%96%E9%84%89%E5%91%B3%E9%9B%A3%E8%B6%8A%E7%9B%A3%E7%AE%A1%E9%AB%98%E5%A2%BB",
-    "timestamp": "2026-08-14T01:17:04.068Z",
     "strategy": ".content-card__main"
   }
 ];
