@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-14T23:11:41.618Z
+// Last updated: 2026-08-14T23:44:23.648Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "天津劫殺懸案時隔29年告破　殘留DNA助破案　最後1名逃犯韓國落網",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260813/1164629538362101760034689.png/AqkrYh5muK0lBnLTYwUwW7V7tNqPlvBTi3Ea1YtxGtU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60378947/%E5%A4%A9%E6%B4%A5%E5%8A%AB%E6%AE%BA%E6%87%B8%E6%A1%88%E6%99%82%E9%9A%9429%E5%B9%B4%E5%91%8A%E7%A0%B4-%E6%AE%98%E7%95%99dna%E5%8A%A9%E7%A0%B4%E6%A1%88-%E6%9C%80%E5%BE%8C1%E5%90%8D%E9%80%83%E7%8A%AF%E9%9F%93%E5%9C%8B%E8%90%BD%E7%B6%B2",
+    "timestamp": "2026-08-14T23:44:23.648Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "性罪行改革｜哪種推定？如何欺騙？「性自主權」待體現",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260814/1165035784172998656217695.png/W4EkTKz26bRvJTMdP5LrYv0FFzf8gJnNc_O5onPzuaI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60380140/%E6%9D%B1%E5%BC%B5%E8%A5%BF%E6%9C%9B-%E7%A6%BE%E8%BC%8B%E9%82%A8-%E6%B1%A1%E7%B3%9F%E7%94%B7-%E9%82%8A%E8%A1%8C%E5%95%86%E5%A0%B4%E9%82%8A%E7%80%A8%E5%B1%8E-%E6%9B%BE%E6%B6%89%E6%89%93%E6%B8%85%E6%BD%94%E5%B7%A5%E7%8D%B2%E9%87%8B%E6%94%BE",
     "timestamp": "2026-08-14T14:41:26.996Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "澳洲悉尼機場2周內3宗飛機險碰撞事故　當局全面調查",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260814/1165038251459743744031476.jpeg/Ng3x3au7WtdXqyZUJIW2PerADlDWXgNG_ZdDvv2XQ74?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60380113/%E6%BE%B3%E6%B4%B2%E6%82%89%E5%B0%BC%E6%A9%9F%E5%A0%B42%E5%91%A8%E5%85%A73%E5%AE%97%E9%A3%9B%E6%A9%9F%E9%9A%AA%E7%A2%B0%E6%92%9E%E4%BA%8B%E6%95%85-%E7%95%B6%E5%B1%80%E5%85%A8%E9%9D%A2%E8%AA%BF%E6%9F%A5",
-    "timestamp": "2026-08-14T14:16:22.858Z",
     "strategy": ".content-card__main"
   }
 ];
