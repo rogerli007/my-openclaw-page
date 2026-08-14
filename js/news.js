@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-14T04:43:34.264Z
+// Last updated: 2026-08-14T05:23:47.840Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "旺角東天橋再現「相親角」！市民斥違法反遭指罵　網民轟：報食環",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260814/1164893389695488000792561.png/sSQaxpQDIk2g0UZCyuX5qFzNE6YDHJGl9XWIi_V1iIs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60379839/%E6%97%BA%E8%A7%92%E6%9D%B1%E5%A4%A9%E6%A9%8B%E5%86%8D%E7%8F%BE-%E7%9B%B8%E8%A6%AA%E8%A7%92-%E5%B8%82%E6%B0%91%E6%96%A5%E9%81%95%E6%B3%95%E5%8F%8D%E9%81%AD%E6%8C%87%E7%BD%B5-%E7%B6%B2%E6%B0%91%E8%BD%9F-%E5%A0%B1%E9%A3%9F%E7%92%B0",
+    "timestamp": "2026-08-14T05:23:47.840Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "「師奶殺手」與「鮑國平」街邊帶貨勁顯老　冇人認得：我以為網紅",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260813/1164700893417836544407923.jpeg/Mbz-gJDulZbp_LkwCSCzPgtTQCdatgCOrIwTm6yME5s?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60379835/%E6%97%A5%E6%9C%AC%E5%8D%83%E8%91%89%E7%B8%A3%E6%9A%B4%E9%9B%A8%E6%88%90%E7%81%BD-%E7%A9%8D%E6%B0%B4%E6%B9%A7%E5%85%A5%E5%B7%B4%E5%A3%AB%E8%BB%8A%E5%BB%82-%E7%B6%B2%E6%B0%91-%E5%9D%90%E8%BB%8A%E5%A6%82%E5%9D%90%E8%88%B9-%E6%9C%89%E7%89%87",
     "timestamp": "2026-08-13T14:45:17.320Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "橫渠四句中的朱鎔基　中國政治家的好榜樣",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20181018/15398449815bc82b755b57f.jpg/VTNdCjCV-aLAJnRQL5_aC3M50Mbmty6Yz6r8r8-q_K8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E4%B8%AD%E5%9C%8B%E8%A7%80%E5%AF%9F/60379826/%E6%A9%AB%E6%B8%A0%E5%9B%9B%E5%8F%A5%E4%B8%AD%E7%9A%84%E6%9C%B1%E9%8E%94%E5%9F%BA-%E4%B8%AD%E5%9C%8B%E6%94%BF%E6%B2%BB%E5%AE%B6%E7%9A%84%E6%A6%9C%E6%A8%A3",
-    "timestamp": "2026-08-13T14:18:42.983Z",
     "strategy": ".content-card__main"
   }
 ];
