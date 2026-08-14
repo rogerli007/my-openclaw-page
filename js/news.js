@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-14T22:11:40.575Z
+// Last updated: 2026-08-14T22:29:41.938Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "英國山火數量已破2025紀錄　野火致房屋被毀數百人撤離",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260815/1165181344225955840541769.jpeg/ZcNBslY7Lev09c8giHDCmSmE4zb_kE1ilXeB2JV3gdg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60380195/%E8%8B%B1%E5%9C%8B%E5%B1%B1%E7%81%AB%E6%95%B8%E9%87%8F%E5%B7%B2%E7%A0%B42025%E7%B4%80%E9%8C%84-%E9%87%8E%E7%81%AB%E8%87%B4%E6%88%BF%E5%B1%8B%E8%A2%AB%E6%AF%80%E6%95%B8%E7%99%BE%E4%BA%BA%E6%92%A4%E9%9B%A2",
+    "timestamp": "2026-08-14T22:29:41.938Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美國女子涉破壞二戰紀念碑　控兩項重罪最高可判囚10年",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260814/1165029774280626176782346.jpeg/9D5UHTr3xOdfOtS7ff4UKEh1nWJqhBKtMEfbDzBH2w8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60380003/%E5%8F%B0%E7%81%A3%E9%BA%A5%E7%95%B6%E5%8B%9E%E8%9D%A6%E5%A0%A1%E9%A9%97%E5%87%BA%E6%8A%97%E7%94%9F%E7%B4%A0%E8%B6%85%E6%A8%99-5%E9%A1%9E%E9%A3%9F%E7%89%A9%E5%B8%B8%E7%94%A8%E7%A6%81%E8%97%A51%E7%A8%AE%E6%81%90%E8%87%B4%E5%BF%83%E5%BE%8B%E5%A4%B1%E5%B8%B8",
     "timestamp": "2026-08-14T12:31:07.734Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "從人生低谷到衝浪天后　鈕臻琳：海浪教我堅持　讓我成為更好的人",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260805/1161694538507489280403971.jpeg/ap8CGvFydvkvPxCMmunbl9hiXc8cNn3G32vsi99r7Is?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%9F%A5%E6%80%A7%E5%A5%B3%E7%94%9F/60370563/%E5%BE%9E%E4%BA%BA%E7%94%9F%E4%BD%8E%E8%B0%B7%E5%88%B0%E8%A1%9D%E6%B5%AA%E5%A4%A9%E5%90%8E-%E9%88%95%E8%87%BB%E7%90%B3-%E6%B5%B7%E6%B5%AA%E6%95%99%E6%88%91%E5%A0%85%E6%8C%81-%E8%AE%93%E6%88%91%E6%88%90%E7%82%BA%E6%9B%B4%E5%A5%BD%E7%9A%84%E4%BA%BA",
-    "timestamp": "2026-08-14T11:35:54.811Z",
     "strategy": ".content-card__main"
   }
 ];
