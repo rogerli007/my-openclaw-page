@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-14T13:36:17.890Z
+// Last updated: 2026-08-14T14:16:22.858Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "澳洲悉尼機場2周內3宗飛機險碰撞事故　當局全面調查",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260814/1165038251459743744031476.jpeg/Ng3x3au7WtdXqyZUJIW2PerADlDWXgNG_ZdDvv2XQ74?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60380113/%E6%BE%B3%E6%B4%B2%E6%82%89%E5%B0%BC%E6%A9%9F%E5%A0%B42%E5%91%A8%E5%85%A73%E5%AE%97%E9%A3%9B%E6%A9%9F%E9%9A%AA%E7%A2%B0%E6%92%9E%E4%BA%8B%E6%95%85-%E7%95%B6%E5%B1%80%E5%85%A8%E9%9D%A2%E8%AA%BF%E6%9F%A5",
+    "timestamp": "2026-08-14T14:16:22.858Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "胡杏兒談老公李乘德巧遇舊愛黃宗澤抱抱引熱議：好正常嘅一個問候",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260814/1164847470031671296157432.jpeg/py4ULBo4CmDiujDD64VQf4AjuW1R7nizE6yLNzmsizc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60379870/%E7%81%A3%E4%BB%94%E7%9A%87%E5%90%8E%E5%A4%A7%E9%81%93%E6%9D%B1%E5%B9%B3%E6%B2%BB%E7%A7%81%E5%AE%B6%E8%BB%8A%E7%96%91%E7%85%9E%E8%BB%8A%E7%B3%BB%E7%B5%B1%E6%95%85%E9%9A%9C-%E8%BD%89%E5%BD%8E%E6%92%9E%E6%AC%84%E6%9D%86%E8%B7%AF%E7%89%8C",
     "timestamp": "2026-08-14T00:36:53.745Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "遜尼派「中東北約」成立　中東將成三分天下？｜Jack Talk・去片",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260813/1164667919750139904729018.png/cvpEVlV10lXt2xnia7QHDMsEiLLQnaVT7ZLeuO2S3rg",
-    "url": "https://www.hk01.com/%E5%9C%8B%E9%9A%9B%E5%88%86%E6%9E%90/60379560/%E9%81%9C%E5%B0%BC%E6%B4%BE-%E4%B8%AD%E6%9D%B1%E5%8C%97%E7%B4%84-%E6%88%90%E7%AB%8B-%E4%B8%AD%E6%9D%B1%E5%B0%87%E6%88%90%E4%B8%89%E5%88%86%E5%A4%A9%E4%B8%8B-jack-talk-%E5%8E%BB%E7%89%87",
-    "timestamp": "2026-08-13T23:51:45.612Z",
     "strategy": ".content-card__main"
   }
 ];
