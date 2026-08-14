@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-14T00:36:53.745Z
+// Last updated: 2026-08-14T01:17:04.068Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "加國華裔婆婆賣麻糍1句「好食」暖爆網民　海外鄉味難越監管高墻",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260812/1164225171389681664764839.png/dcSpK1Yy0_JNXRfvhoFVJpql-y8gyjxFgAYetIAGHrQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60378760/%E5%8A%A0%E5%9C%8B%E8%8F%AF%E8%A3%94%E5%A9%86%E5%A9%86%E8%B3%A3%E9%BA%BB%E7%B3%8D1%E5%8F%A5-%E5%A5%BD%E9%A3%9F-%E6%9A%96%E7%88%86%E7%B6%B2%E6%B0%91-%E6%B5%B7%E5%A4%96%E9%84%89%E5%91%B3%E9%9B%A3%E8%B6%8A%E7%9B%A3%E7%AE%A1%E9%AB%98%E5%A2%BB",
+    "timestamp": "2026-08-14T01:17:04.068Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "灣仔皇后大道東平治私家車疑煞車系統故障　　轉彎撞欄杆路牌",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260813/1164639971630387200698320.jpeg/X1RPCwzt6T4KWfvwvxkpd2NqaQ6K6N2OHQrnHh0K5x4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60379792/%E6%B8%AF%E9%90%B5-%E5%B0%87%E6%8A%95%E6%A8%99%E7%AB%B6%E9%80%90%E5%95%9F%E5%BE%B7%E6%99%BA%E6%85%A7%E7%B6%A0%E8%89%B2%E9%81%8B%E8%BC%B8%E9%A0%85%E7%9B%AE-%E4%B8%8A%E5%8D%8A%E5%B9%B4%E9%9D%9E%E4%BB%A5%E8%82%A1%E4%BB%A3%E6%81%AF%E5%A5%BD%E6%99%82%E6%A9%9F",
     "timestamp": "2026-08-13T11:52:20.717Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "內媒揭工廠回收樂事薯片殘渣！製腸仔肉丸恐傷肝腎！火鍋油都重用",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260813/1164651763559567360724063.png/2y_7rT-2_vaDZ_WTr1TgtLqZQNAb7FEtDgdPtQ4HT7U?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60379301/%E5%85%A7%E5%AA%92%E6%8F%AD%E5%B7%A5%E5%BB%A0%E5%9B%9E%E6%94%B6%E6%A8%82%E4%BA%8B%E8%96%AF%E7%89%87%E6%AE%98%E6%B8%A3-%E8%A3%BD%E8%85%B8%E4%BB%94%E8%82%89%E4%B8%B8%E6%81%90%E5%82%B7%E8%82%9D%E8%85%8E-%E7%81%AB%E9%8D%8B%E6%B2%B9%E9%83%BD%E9%87%8D%E7%94%A8",
-    "timestamp": "2026-08-13T11:24:29.931Z",
     "strategy": ".content-card__main"
   }
 ];
