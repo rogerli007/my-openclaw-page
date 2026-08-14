@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-14T11:10:42.995Z
+// Last updated: 2026-08-14T11:35:54.811Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "從人生低谷到衝浪天后　鈕臻琳：海浪教我堅持　讓我成為更好的人",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260805/1161694538507489280403971.jpeg/ap8CGvFydvkvPxCMmunbl9hiXc8cNn3G32vsi99r7Is?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%9F%A5%E6%80%A7%E5%A5%B3%E7%94%9F/60370563/%E5%BE%9E%E4%BA%BA%E7%94%9F%E4%BD%8E%E8%B0%B7%E5%88%B0%E8%A1%9D%E6%B5%AA%E5%A4%A9%E5%90%8E-%E9%88%95%E8%87%BB%E7%90%B3-%E6%B5%B7%E6%B5%AA%E6%95%99%E6%88%91%E5%A0%85%E6%8C%81-%E8%AE%93%E6%88%91%E6%88%90%E7%82%BA%E6%9B%B4%E5%A5%BD%E7%9A%84%E4%BA%BA",
+    "timestamp": "2026-08-14T11:35:54.811Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "啟德集運系統｜九巴母企載通國際夥新地入標　擬引入中國中車智軌",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20251217/1077856565580533760372690.jpeg/gr79nDCOQkOF0ulH6Zi4hb1RzOzdA_hUJGjisSRo4rE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60379860/%E7%BE%8E%E6%B3%95%E5%AE%98%E9%A7%81%E5%9B%9E%E7%89%B9%E6%9C%97%E6%99%AE%E8%A8%B4%E8%A8%9F-%E8%A3%81%E5%AE%9A%E5%93%88%E4%BD%9B%E6%9C%AA%E9%81%95%E5%8F%8D%E7%8C%B6%E6%B3%95",
     "timestamp": "2026-08-13T21:52:32.397Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美法官駁回特朗普訴訟　裁定哈佛未違反猶法",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20251217/1077856565580533760372690.jpeg/gr79nDCOQkOF0ulH6Zi4hb1RzOzdA_hUJGjisSRo4rE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60379860/%E7%BE%8E%E6%B3%95%E5%AE%98%E9%A7%81%E5%9B%9E%E7%89%B9%E6%9C%97%E6%99%AE%E8%A8%B4%E8%A8%9F-%E8%A3%81%E5%AE%9A%E5%93%88%E4%BD%9B%E6%9C%AA%E9%81%95%E5%8F%8D%E7%8C%B6%E6%B3%95",
-    "timestamp": "2026-08-13T21:23:44.459Z",
     "strategy": ".content-card__main"
   }
 ];
