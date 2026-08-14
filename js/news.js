@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-14T17:40:38.253Z
+// Last updated: 2026-08-14T18:37:56.140Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "瑪麗醫院新大樓28部𨋢壞24部　3大問題曝光　建築署追究承建商",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260812/1164184941592973312860431.jpeg/yItFGqnWu7eIC1SQAo7GvXszGKcm8le01gyPkfMMj5E?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60379310/%E7%91%AA%E9%BA%97%E9%86%AB%E9%99%A2%E6%96%B0%E5%A4%A7%E6%A8%9328%E9%83%A8%F0%A8%8B%A2%E5%A3%9E24%E9%83%A8-3%E5%A4%A7%E5%95%8F%E9%A1%8C%E6%9B%9D%E5%85%89-%E5%BB%BA%E7%AF%89%E7%BD%B2%E8%BF%BD%E7%A9%B6%E6%89%BF%E5%BB%BA%E5%95%86",
+    "timestamp": "2026-08-14T18:37:56.140Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "瑪麗醫院新大樓28部𨋢壞24部　3大問題曝光　建築署追究承建商",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260523/1134817939078254592406798.jpeg/9so-vXtuWx61t0dQRQWA_9Fe8MzhLT9D81I5N_NSOTc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E4%B8%96%E7%95%8C%E5%B0%88%E9%A1%8C/60379896/%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%98%E5%AF%86%E6%8F%9B%E4%B9%98%E5%B0%88%E6%A9%9F-%E4%BB%A5%E4%BB%96%E4%BA%BA%E4%BD%9C-%E9%A4%8C-%E8%B3%87%E8%A8%8A%E4%B8%8D%E9%80%8F%E6%98%8E%E6%8E%80%E4%BF%A1%E4%BB%BB%E5%8D%B1%E6%A9%9F",
     "timestamp": "2026-08-14T06:05:08.242Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "旺角東天橋再現「相親角」！市民斥違法反遭指罵　網民轟：報食環",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260814/1164893389695488000792561.png/sSQaxpQDIk2g0UZCyuX5qFzNE6YDHJGl9XWIi_V1iIs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60379839/%E6%97%BA%E8%A7%92%E6%9D%B1%E5%A4%A9%E6%A9%8B%E5%86%8D%E7%8F%BE-%E7%9B%B8%E8%A6%AA%E8%A7%92-%E5%B8%82%E6%B0%91%E6%96%A5%E9%81%95%E6%B3%95%E5%8F%8D%E9%81%AD%E6%8C%87%E7%BD%B5-%E7%B6%B2%E6%B0%91%E8%BD%9F-%E5%A0%B1%E9%A3%9F%E7%92%B0",
-    "timestamp": "2026-08-14T05:23:47.840Z",
     "strategy": ".content-card__main"
   }
 ];
