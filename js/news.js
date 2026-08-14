@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-14T05:23:47.840Z
+// Last updated: 2026-08-14T06:05:08.242Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "特朗普秘密換乘專機：以他人作「餌」＋資訊不透明掀信任危機？",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260523/1134817939078254592406798.jpeg/9so-vXtuWx61t0dQRQWA_9Fe8MzhLT9D81I5N_NSOTc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E4%B8%96%E7%95%8C%E5%B0%88%E9%A1%8C/60379896/%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%98%E5%AF%86%E6%8F%9B%E4%B9%98%E5%B0%88%E6%A9%9F-%E4%BB%A5%E4%BB%96%E4%BA%BA%E4%BD%9C-%E9%A4%8C-%E8%B3%87%E8%A8%8A%E4%B8%8D%E9%80%8F%E6%98%8E%E6%8E%80%E4%BF%A1%E4%BB%BB%E5%8D%B1%E6%A9%9F",
+    "timestamp": "2026-08-14T06:05:08.242Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "旺角東天橋再現「相親角」！市民斥違法反遭指罵　網民轟：報食環",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260812/1164272499899240448910327.png/G0kFXmfqOJl50KpPtWLJaA0zd2ootZ0QVEi3AFRItwA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60379186/%E9%85%92%E5%BA%97%E8%A2%AB%E6%8C%87%E6%94%B6-%E8%BB%8A%E4%B8%8A%E4%BD%8F%E5%AE%BF%E8%B2%BB-%E6%8D%B1%E8%BD%9F-cctv%E6%8F%AD%E5%A4%A7%E5%8F%8D%E8%BD%89-%E6%83%A1%E5%AE%A2%E4%BD%94%E5%9C%B0%E5%81%9A%E5%B1%80%E5%8B%92%E7%B4%A2",
     "timestamp": "2026-08-13T15:12:07.747Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "日本千葉縣暴雨成災　積水湧入巴士車廂　網民：坐車如坐船｜有片",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260813/1164700893417836544407923.jpeg/Mbz-gJDulZbp_LkwCSCzPgtTQCdatgCOrIwTm6yME5s?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60379835/%E6%97%A5%E6%9C%AC%E5%8D%83%E8%91%89%E7%B8%A3%E6%9A%B4%E9%9B%A8%E6%88%90%E7%81%BD-%E7%A9%8D%E6%B0%B4%E6%B9%A7%E5%85%A5%E5%B7%B4%E5%A3%AB%E8%BB%8A%E5%BB%82-%E7%B6%B2%E6%B0%91-%E5%9D%90%E8%BB%8A%E5%A6%82%E5%9D%90%E8%88%B9-%E6%9C%89%E7%89%87",
-    "timestamp": "2026-08-13T14:45:17.320Z",
     "strategy": ".content-card__main"
   }
 ];
