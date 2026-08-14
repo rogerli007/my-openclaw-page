@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-14T10:40:53.539Z
+// Last updated: 2026-08-14T11:10:42.995Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "啟德集運系統｜九巴母企載通國際夥新地入標　擬引入中國中車智軌",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260812/1164353560167583744130589.jpeg/5IjSE9ll03iDxzRHlvchSFGM0BQa2ycQoF6LG4Veixs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60380121/%E5%95%9F%E5%BE%B7%E9%9B%86%E9%81%8B%E7%B3%BB%E7%B5%B1-%E4%B9%9D%E5%B7%B4%E6%AF%8D%E4%BC%81%E8%BC%89%E9%80%9A%E5%9C%8B%E9%9A%9B%E5%A4%A5%E6%96%B0%E5%9C%B0%E5%85%A5%E6%A8%99-%E6%93%AC%E5%BC%95%E5%85%A5%E4%B8%AD%E5%9C%8B%E4%B8%AD%E8%BB%8A%E6%99%BA%E8%BB%8C",
+    "timestamp": "2026-08-14T11:10:42.995Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "日本秋田縣擬建AI數據中心　負責官員「爆房look」網上出席遭停職",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20251217/1077856565580533760372690.jpeg/gr79nDCOQkOF0ulH6Zi4hb1RzOzdA_hUJGjisSRo4rE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60379860/%E7%BE%8E%E6%B3%95%E5%AE%98%E9%A7%81%E5%9B%9E%E7%89%B9%E6%9C%97%E6%99%AE%E8%A8%B4%E8%A8%9F-%E8%A3%81%E5%AE%9A%E5%93%88%E4%BD%9B%E6%9C%AA%E9%81%95%E5%8F%8D%E7%8C%B6%E6%B3%95",
     "timestamp": "2026-08-13T21:23:44.459Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美法官駁回特朗普訴訟　裁定哈佛未違反猶法",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20251217/1077856565580533760372690.jpeg/gr79nDCOQkOF0ulH6Zi4hb1RzOzdA_hUJGjisSRo4rE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60379860/%E7%BE%8E%E6%B3%95%E5%AE%98%E9%A7%81%E5%9B%9E%E7%89%B9%E6%9C%97%E6%99%AE%E8%A8%B4%E8%A8%9F-%E8%A3%81%E5%AE%9A%E5%93%88%E4%BD%9B%E6%9C%AA%E9%81%95%E5%8F%8D%E7%8C%B6%E6%B3%95",
-    "timestamp": "2026-08-13T20:36:31.595Z",
     "strategy": ".content-card__main"
   }
 ];
