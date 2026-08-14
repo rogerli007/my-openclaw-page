@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-14T16:08:34.419Z
+// Last updated: 2026-08-14T16:37:57.751Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "最新天氣｜天文台：未來數小時本港部分地區雨勢較大及有狂風雷暴",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260814/1165080682364407808318724.jpeg/1OanQ0GTtd6Up9wYr4a-2bGjiV-cZ3dG0bb1i9G29Ys?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60379869/%E6%9C%80%E6%96%B0%E5%A4%A9%E6%B0%A3-%E5%A4%A9%E6%96%87%E5%8F%B0-%E6%9C%AA%E4%BE%86%E6%95%B8%E5%B0%8F%E6%99%82%E6%9C%AC%E6%B8%AF%E9%83%A8%E5%88%86%E5%9C%B0%E5%8D%80%E9%9B%A8%E5%8B%A2%E8%BC%83%E5%A4%A7%E5%8F%8A%E6%9C%89%E7%8B%82%E9%A2%A8%E9%9B%B7%E6%9A%B4",
+    "timestamp": "2026-08-14T16:37:57.751Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "英國24小時發生第二起列車出軌　專家稱熱浪疑為肇因之一",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260814/1164901151221485568041298.jpeg/VS5vkDTB945qt4F0ptjpDHXBrkX7ldyHhg-hY4YPoWM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60379933/%E5%8D%83%E8%91%89%E6%9A%B4%E9%9B%A8-%E6%9D%B1%E4%BA%AC%E8%88%AA%E7%8F%AD%E6%B6%88%E6%81%AF-%E9%A6%99%E6%B8%AF%E5%BE%80%E8%BF%94%E6%88%90%E7%94%B0%E6%A9%9F%E5%A0%B4%E8%87%B3%E4%BB%8A%E6%97%A910%E6%99%8228%E8%88%AA%E7%8F%AD%E5%BB%B6%E8%AA%A4",
     "timestamp": "2026-08-14T04:01:26.082Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "香港LPF註冊數突破2000個　按年大增63%　鞏固財管中心地位",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260814/1164869943208972288109765.png/MaZr103yK3bwqeg3x8lRztt3f6Av9wZlAV_ZawFf2Ws?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60379879/%E9%A6%99%E6%B8%AFlpf%E8%A8%BB%E5%86%8A%E6%95%B8%E7%AA%81%E7%A0%B42000%E5%80%8B-%E6%8C%89%E5%B9%B4%E5%A4%A7%E5%A2%9E63-%E9%9E%8F%E5%9B%BA%E8%B2%A1%E7%AE%A1%E4%B8%AD%E5%BF%83%E5%9C%B0%E4%BD%8D",
-    "timestamp": "2026-08-14T02:03:34.528Z",
     "strategy": ".content-card__main"
   }
 ];
