@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-14T14:16:22.858Z
+// Last updated: 2026-08-14T14:41:26.996Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "東張西望丨禾輋邨「污糟男」邊行商場邊瀨屎　曾涉打清潔工獲釋放",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260814/1165035784172998656217695.png/W4EkTKz26bRvJTMdP5LrYv0FFzf8gJnNc_O5onPzuaI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60380140/%E6%9D%B1%E5%BC%B5%E8%A5%BF%E6%9C%9B-%E7%A6%BE%E8%BC%8B%E9%82%A8-%E6%B1%A1%E7%B3%9F%E7%94%B7-%E9%82%8A%E8%A1%8C%E5%95%86%E5%A0%B4%E9%82%8A%E7%80%A8%E5%B1%8E-%E6%9B%BE%E6%B6%89%E6%89%93%E6%B8%85%E6%BD%94%E5%B7%A5%E7%8D%B2%E9%87%8B%E6%94%BE",
+    "timestamp": "2026-08-14T14:41:26.996Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "澳洲悉尼機場2周內3宗飛機險碰撞事故　當局全面調查",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260812/1164225171389681664764839.png/dcSpK1Yy0_JNXRfvhoFVJpql-y8gyjxFgAYetIAGHrQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60378760/%E5%8A%A0%E5%9C%8B%E8%8F%AF%E8%A3%94%E5%A9%86%E5%A9%86%E8%B3%A3%E9%BA%BB%E7%B3%8D1%E5%8F%A5-%E5%A5%BD%E9%A3%9F-%E6%9A%96%E7%88%86%E7%B6%B2%E6%B0%91-%E6%B5%B7%E5%A4%96%E9%84%89%E5%91%B3%E9%9B%A3%E8%B6%8A%E7%9B%A3%E7%AE%A1%E9%AB%98%E5%A2%BB",
     "timestamp": "2026-08-14T01:17:04.068Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "灣仔皇后大道東平治私家車疑煞車系統故障　　轉彎撞欄杆路牌",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260814/1164847470031671296157432.jpeg/py4ULBo4CmDiujDD64VQf4AjuW1R7nizE6yLNzmsizc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60379870/%E7%81%A3%E4%BB%94%E7%9A%87%E5%90%8E%E5%A4%A7%E9%81%93%E6%9D%B1%E5%B9%B3%E6%B2%BB%E7%A7%81%E5%AE%B6%E8%BB%8A%E7%96%91%E7%85%9E%E8%BB%8A%E7%B3%BB%E7%B5%B1%E6%95%85%E9%9A%9C-%E8%BD%89%E5%BD%8E%E6%92%9E%E6%AC%84%E6%9D%86%E8%B7%AF%E7%89%8C",
-    "timestamp": "2026-08-14T00:36:53.745Z",
     "strategy": ".content-card__main"
   }
 ];
