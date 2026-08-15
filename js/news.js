@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-15T19:29:49.837Z
+// Last updated: 2026-08-15T19:43:29.472Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "悉尼邦迪恐襲後出招　澳洲推槍械回購　每支補償最高5萬",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260506/1128720680053903360271634.jpeg/viULTC_Kpj19lnPF-Tld0-yC4hHI_-sClJMzx5STM8c?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60380370/%E6%82%89%E5%B0%BC%E9%82%A6%E8%BF%AA%E6%81%90%E8%A5%B2%E5%BE%8C%E5%87%BA%E6%8B%9B-%E6%BE%B3%E6%B4%B2%E6%8E%A8%E6%A7%8D%E6%A2%B0%E5%9B%9E%E8%B3%BC-%E6%AF%8F%E6%94%AF%E8%A3%9C%E5%84%9F%E6%9C%80%E9%AB%985%E8%90%AC",
+    "timestamp": "2026-08-15T19:43:29.472Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "悉尼邦迪恐襲後出招　澳洲推槍械回購　每支補償最高5萬",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260815/1165423888423718912401623.jpeg/k1WFd2rzqWbrOw26WWtpzGJUDb2iSs-H1Lin3-24p98?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60380350/%E5%A4%8F%E9%9B%A8%E8%AB%87%E5%A9%9A%E5%A7%BB%E9%9B%A3%E9%A1%8C-%E9%99%B3%E6%AC%A3%E5%A6%8D%E5%8F%8D%E5%95%8F-%E5%A5%B3%E4%BB%94%E5%87%BA%E8%BB%8C-%E7%94%B7%E4%BA%BA%E5%A5%BD%E9%9B%A3%E5%8E%9F%E8%AB%92%E4%BF%82%E5%92%AA%E5%91%80",
     "timestamp": "2026-08-15T14:45:05.179Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "韓國光復81周年講話　李在明提議啟動朝鮮半島終戰對話",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260815/1165329495100493824601893.jpeg/lExJbruJnwSQyruE621NYu-YRmlJZN-Z8dp7s_Hae7M?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60380349/%E9%9F%93%E5%9C%8B%E5%85%89%E5%BE%A981%E5%91%A8%E5%B9%B4%E8%AC%9B%E8%A9%B1-%E6%9D%8E%E5%9C%A8%E6%98%8E%E6%8F%90%E8%AD%B0%E5%95%9F%E5%8B%95%E6%9C%9D%E9%AE%AE%E5%8D%8A%E5%B3%B6%E7%B5%82%E6%88%B0%E5%B0%8D%E8%A9%B1",
-    "timestamp": "2026-08-15T14:29:31.915Z",
     "strategy": ".content-card__main"
   }
 ];
