@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-15T08:31:12.078Z
+// Last updated: 2026-08-15T08:48:08.457Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "港產BL劇《煙灰》觀影會大熱爆滿　3大180cm男主現身近距離互動",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260814/1165064961857163264497065.jpeg/Fg2bJUY-fGqkxyfYTlw1mjGlQCA5_n-Bxnu03cZ7tN0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60380175/%E6%B8%AF%E7%94%A2bl%E5%8A%87-%E7%85%99%E7%81%B0-%E8%A7%80%E5%BD%B1%E6%9C%83%E5%A4%A7%E7%86%B1%E7%88%86%E6%BB%BF-3%E5%A4%A7180cm%E7%94%B7%E4%B8%BB%E7%8F%BE%E8%BA%AB%E8%BF%91%E8%B7%9D%E9%9B%A2%E4%BA%92%E5%8B%95",
+    "timestamp": "2026-08-15T08:48:08.457Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "大熊貓加加得得兩歲生日　羅淑佩指或最後一次與媽媽盈盈同框慶祝",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260815/1165211463606865920816704.png/0j9lzFbNg7mpLktY1b43QcLT6tx4-oPN57dPnee3T50?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60380201/%E4%B9%92%E4%B9%93wtt%E7%91%9E%E5%85%B8%E5%A4%A7%E6%BB%BF%E8%B2%AB-%E9%BB%83%E9%8E%AE%E5%BB%B7%E9%99%B3%E9%A1%A5%E6%A8%BA%E7%88%AD%E8%A1%9B%E5%86%95%E5%B7%AE%E4%B8%80%E6%AD%A5-%E5%81%95%E5%A5%B3%E9%9B%99%E9%9B%99%E7%B7%9A%E7%88%AD%E5%86%A0",
     "timestamp": "2026-08-15T00:23:44.453Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "天津劫殺懸案時隔29年告破　殘留DNA助破案　最後1名逃犯韓國落網",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260813/1164629538362101760034689.png/AqkrYh5muK0lBnLTYwUwW7V7tNqPlvBTi3Ea1YtxGtU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60378947/%E5%A4%A9%E6%B4%A5%E5%8A%AB%E6%AE%BA%E6%87%B8%E6%A1%88%E6%99%82%E9%9A%9429%E5%B9%B4%E5%91%8A%E7%A0%B4-%E6%AE%98%E7%95%99dna%E5%8A%A9%E7%A0%B4%E6%A1%88-%E6%9C%80%E5%BE%8C1%E5%90%8D%E9%80%83%E7%8A%AF%E9%9F%93%E5%9C%8B%E8%90%BD%E7%B6%B2",
-    "timestamp": "2026-08-14T23:57:42.066Z",
     "strategy": ".content-card__main"
   }
 ];
