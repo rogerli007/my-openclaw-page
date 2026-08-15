@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-15T13:19:29.499Z
+// Last updated: 2026-08-15T13:40:22.393Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "新蒲崗的士剷路壆　車頭撼消防栓變形　女乘客頭部淌血送院",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260815/1165412701933932544496078.jpeg/xkPs0SQl_vdK04wVJYKDL8Y3MO_oHaePjYxobI2MaGw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60380342/%E6%96%B0%E8%92%B2%E5%B4%97%E7%9A%84%E5%A3%AB%E5%89%B7%E8%B7%AF%E5%A3%86-%E8%BB%8A%E9%A0%AD%E6%92%BC%E6%B6%88%E9%98%B2%E6%A0%93%E8%AE%8A%E5%BD%A2-%E5%A5%B3%E4%B9%98%E5%AE%A2%E9%A0%AD%E9%83%A8%E6%B7%8C%E8%A1%80%E9%80%81%E9%99%A2",
+    "timestamp": "2026-08-15T13:40:22.393Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "78歲汪明荃坦承記性變差已計劃退休　點評四哥謝賢最食得住她",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260423/1123924512732090368178524.jpeg/zbpWMLQstvaNYVPtHuJs3yU2dtEpzWdMNn1QYTZ9UGE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60380271/%E7%BE%8E%E5%9C%8B%E5%95%86%E5%8B%99%E9%83%A8%E9%95%B7-%E8%8F%AF%E5%BA%9C%E4%B8%8D%E8%B4%8A%E6%88%90%E8%98%8B%E6%9E%9C%E8%B3%BC%E8%B2%B7%E4%B8%AD%E5%9C%8B%E8%A8%98%E6%86%B6%E9%AB%94%E6%99%B6%E7%89%87",
     "timestamp": "2026-08-15T07:18:19.818Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "有人疑穿女警制服跳舞拍抖音片　警方正了解：如違規必嚴正處理",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260815/1165300455341821952905678.png/OfNiVP_d7a0z1CxZbQhPOtRb6TD5SzmUNkv9QDZL_UA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60380250/%E6%9C%89%E4%BA%BA%E7%96%91%E7%A9%BF%E5%A5%B3%E8%AD%A6%E5%88%B6%E6%9C%8D%E8%B7%B3%E8%88%9E%E6%8B%8D%E6%8A%96%E9%9F%B3%E7%89%87-%E8%AD%A6%E6%96%B9%E6%AD%A3%E4%BA%86%E8%A7%A3-%E5%A6%82%E9%81%95%E8%A6%8F%E5%BF%85%E5%9A%B4%E6%AD%A3%E8%99%95%E7%90%86",
-    "timestamp": "2026-08-15T06:34:33.131Z",
     "strategy": ".content-card__main"
   }
 ];
