@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-15T05:45:19.089Z
+// Last updated: 2026-08-15T05:58:23.431Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "印尼7.7級地震　至少20死",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260815/1165292864624660480178056.jpeg/LFBw3gnjCjVZUG8fg12mbh1dl9nZSFRRgiS0ToIktE4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60380254/%E5%8D%B0%E5%B0%BC7-7%E7%B4%9A%E5%9C%B0%E9%9C%87-%E8%87%B3%E5%B0%9120%E6%AD%BB",
+    "timestamp": "2026-08-15T05:58:23.431Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "游嘉欣樣貌愈見精緻惹質疑「整咗咩位」　高EQ親回直認曾接受醫美",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260815/1165158672242839552948503.png/8Tx9uF5nVcBzyHH1OX4Ub9_7CMKw78UQEUIi_xFCIv8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60380188/%E7%BE%8E%E5%9C%8B%E5%A5%B3%E5%AD%90%E6%B6%89%E7%A0%B4%E5%A3%9E%E4%BA%8C%E6%88%B0%E7%B4%80%E5%BF%B5%E7%A2%91-%E6%8E%A7%E5%85%A9%E9%A0%85%E9%87%8D%E7%BD%AA%E6%9C%80%E9%AB%98%E5%8F%AF%E5%88%A4%E5%9B%9A10%E5%B9%B4",
     "timestamp": "2026-08-14T22:11:40.575Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美國女子涉破壞二戰紀念碑　控兩項重罪最高可判囚10年",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260815/1165158672242839552948503.png/8Tx9uF5nVcBzyHH1OX4Ub9_7CMKw78UQEUIi_xFCIv8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60380188/%E7%BE%8E%E5%9C%8B%E5%A5%B3%E5%AD%90%E6%B6%89%E7%A0%B4%E5%A3%9E%E4%BA%8C%E6%88%B0%E7%B4%80%E5%BF%B5%E7%A2%91-%E6%8E%A7%E5%85%A9%E9%A0%85%E9%87%8D%E7%BD%AA%E6%9C%80%E9%AB%98%E5%8F%AF%E5%88%A4%E5%9B%9A10%E5%B9%B4",
-    "timestamp": "2026-08-14T21:58:01.185Z",
     "strategy": ".content-card__main"
   }
 ];
