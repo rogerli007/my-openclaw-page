@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-15T12:13:10.339Z
+// Last updated: 2026-08-15T12:31:07.427Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "紀念江澤民同志誕辰100周年大會　習近平將出席並發表重要講話",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260815/1165390977205014528324709.jpeg/ixWq8KpEa5nNghk4Bj_XoNuHD5jNX1URa8sbamvLG2o?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60380330/%E7%B4%80%E5%BF%B5%E6%B1%9F%E6%BE%A4%E6%B0%91%E5%90%8C%E5%BF%97%E8%AA%95%E8%BE%B0100%E5%91%A8%E5%B9%B4%E5%A4%A7%E6%9C%83-%E7%BF%92%E8%BF%91%E5%B9%B3%E5%B0%87%E5%87%BA%E5%B8%AD%E4%B8%A6%E7%99%BC%E8%A1%A8%E9%87%8D%E8%A6%81%E8%AC%9B%E8%A9%B1",
+    "timestamp": "2026-08-15T12:31:07.427Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "普京致電金正恩賀朝鮮祖國解放81周年　稱兩國正合作確保地區安全",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260815/1165292864624660480178056.jpeg/LFBw3gnjCjVZUG8fg12mbh1dl9nZSFRRgiS0ToIktE4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60380254/%E5%8D%B0%E5%B0%BC7-7%E7%B4%9A%E5%9C%B0%E9%9C%87-%E8%87%B3%E5%B0%9120%E6%AD%BB",
     "timestamp": "2026-08-15T05:58:23.431Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "游嘉欣樣貌愈見精緻惹質疑「整咗咩位」　高EQ親回直認曾接受醫美",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260814/1164964239933181952503491.jpeg/WTZsSFokacn1NpZk_O7aEtD85FbVlZnlvCH_VLwh_1Q?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60380029/%E6%B8%B8%E5%98%89%E6%AC%A3%E6%A8%A3%E8%B2%8C%E6%84%88%E8%A6%8B%E7%B2%BE%E7%B7%BB%E6%83%B9%E8%B3%AA%E7%96%91-%E6%95%B4%E5%92%97%E5%92%A9%E4%BD%8D-%E9%AB%98eq%E8%A6%AA%E5%9B%9E%E7%9B%B4%E8%AA%8D%E6%9B%BE%E6%8E%A5%E5%8F%97%E9%86%AB%E7%BE%8E",
-    "timestamp": "2026-08-15T05:45:19.089Z",
     "strategy": ".content-card__main"
   }
 ];
