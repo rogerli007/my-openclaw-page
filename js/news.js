@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-15T15:56:25.338Z
+// Last updated: 2026-08-15T16:11:07.347Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "綠葉王成功上車買樓送媽媽　新居遠眺獅子山：死慳死底才掹到車邊",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260815/1165434502302928896631475.jpeg/otrQsxi8ebIJeSbbLXhH0QtsfQSZQeiCXvS3fl70t34?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60380353/%E6%88%B4%E8%80%80%E6%98%8E%E6%88%90%E5%8A%9F%E4%B8%8A%E8%BB%8A%E8%B2%B7%E6%A8%93%E9%80%81%E5%AA%BD%E5%AA%BD-%E6%96%B0%E5%B1%85%E9%81%A0%E7%9C%BA%E7%8D%85%E5%AD%90%E5%B1%B1-%E6%AD%BB%E6%85%B3%E6%AD%BB%E5%BA%95%E6%89%8D%E6%8E%B9%E5%88%B0%E8%BB%8A%E9%82%8A",
+    "timestamp": "2026-08-15T16:11:07.347Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "尼納特首度訪港啟德會球迷　以爆炸頭示人　投入活動三打三獻技",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260813/1164633410832961536028914.jpeg/4bGreD1-PDw5ABAG8hMNE4piAHCjzi0AT4aBA0-GgQM",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60379602/%E6%9C%89%E7%89%87-%E9%98%BF%E5%8F%94%E5%A4%AA%E5%AD%90%E5%B7%B4%E5%A3%AB%E7%AB%99%E5%89%8D%E5%9D%91%E6%B8%A0%E5%B0%8F%E4%BE%BF-%E7%B6%B2%E6%B0%91%E6%96%A5%E7%BC%BA%E5%BE%B7-%E5%B1%99%E5%AE%8C%E4%BB%B2%E8%A6%81%E6%8F%A9%E8%90%BD%E7%AB%99%E7%89%8C",
     "timestamp": "2026-08-15T10:12:06.580Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "南京大屠殺再添鐵證！日軍私人親筆信承認「殺了一萬多敗殘兵」",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260815/1165350311464800256536789.jpeg/ZfvFZI4TJ5iRc3XOll3KVj8IjEH0wzWSY1X0TGNV9Ew?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60380303/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%B1%A0%E6%AE%BA%E5%86%8D%E6%B7%BB%E9%90%B5%E8%AD%89-%E6%97%A5%E8%BB%8D%E7%A7%81%E4%BA%BA%E8%A6%AA%E7%AD%86%E4%BF%A1%E6%89%BF%E8%AA%8D-%E6%AE%BA%E4%BA%86%E4%B8%80%E8%90%AC%E5%A4%9A%E6%95%97%E6%AE%98%E5%85%B5",
-    "timestamp": "2026-08-15T09:58:31.846Z",
     "strategy": ".content-card__main"
   }
 ];
