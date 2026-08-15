@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-15T14:45:05.179Z
+// Last updated: 2026-08-15T14:57:19.546Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "東張西望｜外傭疑加尿沐浴露　朱文慧試聞用力索秒變臉：有陣餲味",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260815/1165399583392534528147985.png/609oJ3iZAta2uKNIQaKDMBz3jrLVeNAIcO5FLnDuRS4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60380331/%E6%9D%B1%E5%BC%B5%E8%A5%BF%E6%9C%9B-%E5%A4%96%E5%82%AD%E7%96%91%E5%8A%A0%E5%B0%BF%E6%B2%90%E6%B5%B4%E9%9C%B2-%E6%9C%B1%E6%96%87%E6%85%A7%E8%A9%A6%E8%81%9E%E7%94%A8%E5%8A%9B%E7%B4%A2%E7%A7%92%E8%AE%8A%E8%87%89-%E6%9C%89%E9%99%A3%E9%A4%B2%E5%91%B3",
+    "timestamp": "2026-08-15T14:57:19.546Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "夏雨談婚姻難題　陳欣妍反問：女仔出軌，男人好難原諒係咪呀？",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260814/1165064961857163264497065.jpeg/Fg2bJUY-fGqkxyfYTlw1mjGlQCA5_n-Bxnu03cZ7tN0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60380175/%E6%B8%AF%E7%94%A2bl%E5%8A%87-%E7%85%99%E7%81%B0-%E8%A7%80%E5%BD%B1%E6%9C%83%E5%A4%A7%E7%86%B1%E7%88%86%E6%BB%BF-3%E5%A4%A7180cm%E7%94%B7%E4%B8%BB%E7%8F%BE%E8%BA%AB%E8%BF%91%E8%B7%9D%E9%9B%A2%E4%BA%92%E5%8B%95",
     "timestamp": "2026-08-15T08:48:08.457Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "大熊貓加加得得兩歲生日　羅淑佩指或最後一次與媽媽盈盈同框慶祝",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260815/1165318283709124608623908.jpeg/lPC0A3Ey2UnMoMy9RmwwORPch_N5wqpkoCW_OYolvzk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60380273/%E5%A4%A7%E7%86%8A%E8%B2%93%E5%8A%A0%E5%8A%A0%E5%BE%97%E5%BE%97%E5%85%A9%E6%AD%B2%E7%94%9F%E6%97%A5-%E7%BE%85%E6%B7%91%E4%BD%A9%E6%8C%87%E6%88%96%E6%9C%80%E5%BE%8C%E4%B8%80%E6%AC%A1%E8%88%87%E5%AA%BD%E5%AA%BD%E7%9B%88%E7%9B%88%E5%90%8C%E6%A1%86%E6%85%B6%E7%A5%9D",
-    "timestamp": "2026-08-15T08:31:12.078Z",
     "strategy": ".content-card__main"
   }
 ];
