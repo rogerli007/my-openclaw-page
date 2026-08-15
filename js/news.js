@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-15T03:56:09.012Z
+// Last updated: 2026-08-15T04:16:30.291Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "有片│俄國地盤中國工人討薪被捕　逾千同胞包圍警車唱國歌逼放人",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260815/1165264563537448960427689.jpeg/zZ3FdKD2eDw58Ahl3cf4JfohNO0WDZzbrNaDIazWgyE?v=w1920",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60380240/%E6%9C%89%E7%89%87-%E4%BF%84%E5%9C%8B%E5%9C%B0%E7%9B%A4%E4%B8%AD%E5%9C%8B%E5%B7%A5%E4%BA%BA%E8%A8%8E%E8%96%AA%E8%A2%AB%E6%8D%95-%E9%80%BE%E5%8D%83%E5%90%8C%E8%83%9E%E5%8C%85%E5%9C%8D%E8%AD%A6%E8%BB%8A%E5%94%B1%E5%9C%8B%E6%AD%8C%E9%80%BC%E6%94%BE%E4%BA%BA",
+    "timestamp": "2026-08-15T04:16:30.291Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "印尼發生7.7級地震　大量建築倒塌　數名登船旅客被拋落水｜有片",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260815/1165158672242839552948503.png/8Tx9uF5nVcBzyHH1OX4Ub9_7CMKw78UQEUIi_xFCIv8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60380188/%E7%BE%8E%E5%9C%8B%E5%A5%B3%E5%AD%90%E6%B6%89%E7%A0%B4%E5%A3%9E%E4%BA%8C%E6%88%B0%E7%B4%80%E5%BF%B5%E7%A2%91-%E6%8E%A7%E5%85%A9%E9%A0%85%E9%87%8D%E7%BD%AA%E6%9C%80%E9%AB%98%E5%8F%AF%E5%88%A4%E5%9B%9A10%E5%B9%B4",
     "timestamp": "2026-08-14T21:02:25.680Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "赫格塞思：美國可能對伊朗實施永久封鎖 加大經濟施壓",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260722/1156618998113112064532980.jpeg/eifAb2aZitvhXINOFrJt7037gn-ZDC4hfXZ7xH12e8Q?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60380186/%E8%B5%AB%E6%A0%BC%E5%A1%9E%E6%80%9D-%E7%BE%8E%E5%9C%8B%E5%8F%AF%E8%83%BD%E5%B0%8D%E4%BC%8A%E6%9C%97%E5%AF%A6%E6%96%BD%E6%B0%B8%E4%B9%85%E5%B0%81%E9%8E%96-%E5%8A%A0%E5%A4%A7%E7%B6%93%E6%BF%9F%E6%96%BD%E5%A3%93",
-    "timestamp": "2026-08-14T20:46:57.145Z",
     "strategy": ".content-card__main"
   }
 ];
