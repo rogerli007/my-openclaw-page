@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-15T20:45:20.290Z
+// Last updated: 2026-08-15T21:00:56.635Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美軍F-18墜毀山區　飛行員超淡定：嘿，我只是墜機了｜有片",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260816/1165513437900443648207564.png/AXdFQiiygGu337Yg6rCQisSmZZalGn1M7lG1vO5Rtbw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60380372/%E7%BE%8E%E8%BB%8Df-18%E5%A2%9C%E6%AF%80%E5%B1%B1%E5%8D%80-%E9%A3%9B%E8%A1%8C%E5%93%A1%E8%B6%85%E6%B7%A1%E5%AE%9A-%E5%98%BF-%E6%88%91%E5%8F%AA%E6%98%AF%E5%A2%9C%E6%A9%9F%E4%BA%86-%E6%9C%89%E7%89%87",
+    "timestamp": "2026-08-15T21:00:56.635Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美軍F-18墜毀山區　飛行員超淡定：嘿，我只是墜機了｜有片",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260815/1165436548087287808389614.jpeg/8zLnGdaN_Z4GZqk4t9u4QZ-GaMO5G97sePQCiHj0Aog?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60380354/%E5%8D%97%E9%82%8A%E5%9C%8D%E6%9D%91%E5%B1%8B%E5%96%AE%E4%BD%8D%E6%B7%AA%E6%AF%92%E5%93%81%E5%80%89-%E8%AD%A6%E6%AA%A2-550%E8%90%AC%E6%AF%92%E5%93%81%E6%8B%98%E4%B8%80%E5%B0%8D%E5%A4%AB%E5%A6%BB-%E6%A1%88%E4%BB%B6%E6%8F%90%E5%A0%82",
     "timestamp": "2026-08-15T15:29:31.034Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "末世行者｜列尼史葛轉戰後末日世代　疫症後四處神秘荒涼感同身受",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260815/1165338705561391104804375.jpeg/vRl9wGvdMaO3fNLJxRwYPQDlcPBkFgFEJzfLBSc3ywU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60380294/%E6%9C%AB%E4%B8%96%E8%A1%8C%E8%80%85-%E5%88%97%E5%B0%BC%E5%8F%B2%E8%91%9B%E8%BD%89%E6%88%B0%E5%BE%8C%E6%9C%AB%E6%97%A5%E4%B8%96%E4%BB%A3-%E7%96%AB%E7%97%87%E5%BE%8C%E5%9B%9B%E8%99%95%E7%A5%9E%E7%A7%98%E8%8D%92%E6%B6%BC%E6%84%9F%E5%90%8C%E8%BA%AB%E5%8F%97",
-    "timestamp": "2026-08-15T15:11:00.380Z",
     "strategy": ".content-card__main"
   }
 ];
