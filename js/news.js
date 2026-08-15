@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-15T18:48:54.219Z
+// Last updated: 2026-08-15T19:03:03.510Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "啟德花園停車場私家車行車不穩　熱心途人報案　42歲醉男司機被捕",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260816/1165490843734249472073291.jpeg/TpnsUBN8BXUOa4wO85u4KZgGV5ut9Sk62PveMOL73jA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60380365/%E5%95%9F%E5%BE%B7%E8%8A%B1%E5%9C%92%E5%81%9C%E8%BB%8A%E5%A0%B4%E7%A7%81%E5%AE%B6%E8%BB%8A%E8%A1%8C%E8%BB%8A%E4%B8%8D%E7%A9%A9-%E7%86%B1%E5%BF%83%E9%80%94%E4%BA%BA%E5%A0%B1%E6%A1%88-42%E6%AD%B2%E9%86%89%E7%94%B7%E5%8F%B8%E6%A9%9F%E8%A2%AB%E6%8D%95",
+    "timestamp": "2026-08-15T19:03:03.510Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "有片│港女等九巴公審被阿伯「視姦」10分鐘　奇招KO惹議：做得好",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260815/1165412701933932544496078.jpeg/xkPs0SQl_vdK04wVJYKDL8Y3MO_oHaePjYxobI2MaGw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60380342/%E6%96%B0%E8%92%B2%E5%B4%97%E7%9A%84%E5%A3%AB%E5%89%B7%E8%B7%AF%E5%A3%86-%E8%BB%8A%E9%A0%AD%E6%92%BC%E6%B6%88%E9%98%B2%E6%A0%93%E8%AE%8A%E5%BD%A2-%E5%A5%B3%E4%B9%98%E5%AE%A2%E9%A0%AD%E9%83%A8%E6%B7%8C%E8%A1%80%E9%80%81%E9%99%A2",
     "timestamp": "2026-08-15T13:40:22.393Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "78歲汪明荃坦承記性變差已計劃退休　點評四哥謝賢最食得住她",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260815/1165390365876817920132958.jpeg/bJRJYHv0aq3pzd29KRwVEhDCewGFtnp9mhAD6poQA-o?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60380326/78%E6%AD%B2%E6%B1%AA%E6%98%8E%E8%8D%83%E5%9D%A6%E6%89%BF%E8%A8%98%E6%80%A7%E8%AE%8A%E5%B7%AE%E5%B7%B2%E8%A8%88%E5%8A%83%E9%80%80%E4%BC%91-%E9%BB%9E%E8%A9%95%E5%9B%9B%E5%93%A5%E8%AC%9D%E8%B3%A2%E6%9C%80%E9%A3%9F%E5%BE%97%E4%BD%8F%E5%A5%B9",
-    "timestamp": "2026-08-15T13:19:29.499Z",
     "strategy": ".content-card__main"
   }
 ];
