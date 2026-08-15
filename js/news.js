@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-15T12:31:07.427Z
+// Last updated: 2026-08-15T12:53:08.985Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "愛回家｜不和風波疑再升級　張景淳以「狼人殺」暗指職場霸凌",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260815/1165376128949424128612754.jpeg/IHk5emzk_v7dt0M8e9lKxDmLBLfGLITMh76_eYe-v3k?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60380325/%E6%84%9B%E5%9B%9E%E5%AE%B6-%E4%B8%8D%E5%92%8C%E9%A2%A8%E6%B3%A2%E7%96%91%E5%86%8D%E5%8D%87%E7%B4%9A-%E5%BC%B5%E6%99%AF%E6%B7%B3%E4%BB%A5-%E7%8B%BC%E4%BA%BA%E6%AE%BA-%E6%9A%97%E6%8C%87%E8%81%B7%E5%A0%B4%E9%9C%B8%E5%87%8C",
+    "timestamp": "2026-08-15T12:53:08.985Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "紀念江澤民同志誕辰100周年大會　習近平將出席並發表重要講話",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260727/1158450016507924480875109.jpeg/hlPe9yKQgizMwWpj4W7jTCMCEWsdjc1x6um-s-rpvrM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60380243/%E6%AD%90%E6%B4%B2%E7%86%B1%E6%B5%AA-%E6%B3%95%E5%9C%8B%E8%BF%91500%E4%BA%BA%E6%B6%89%E5%AB%8C%E7%B8%B1%E7%81%AB%E8%A2%AB%E6%8D%95-%E5%85%B6%E4%B8%AD183%E4%BA%BA%E6%9C%AA%E6%88%90%E5%B9%B4",
     "timestamp": "2026-08-15T06:15:19.387Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "印尼7.7級地震　至少20死",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260815/1165292864624660480178056.jpeg/LFBw3gnjCjVZUG8fg12mbh1dl9nZSFRRgiS0ToIktE4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60380254/%E5%8D%B0%E5%B0%BC7-7%E7%B4%9A%E5%9C%B0%E9%9C%87-%E8%87%B3%E5%B0%9120%E6%AD%BB",
-    "timestamp": "2026-08-15T05:58:23.431Z",
     "strategy": ".content-card__main"
   }
 ];
