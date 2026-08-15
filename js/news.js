@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-15T06:15:19.387Z
+// Last updated: 2026-08-15T06:34:33.131Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "有人疑穿女警制服跳舞拍抖音片　警方正了解：如違規必嚴正處理",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260815/1165300455341821952905678.png/OfNiVP_d7a0z1CxZbQhPOtRb6TD5SzmUNkv9QDZL_UA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60380250/%E6%9C%89%E4%BA%BA%E7%96%91%E7%A9%BF%E5%A5%B3%E8%AD%A6%E5%88%B6%E6%9C%8D%E8%B7%B3%E8%88%9E%E6%8B%8D%E6%8A%96%E9%9F%B3%E7%89%87-%E8%AD%A6%E6%96%B9%E6%AD%A3%E4%BA%86%E8%A7%A3-%E5%A6%82%E9%81%95%E8%A6%8F%E5%BF%85%E5%9A%B4%E6%AD%A3%E8%99%95%E7%90%86",
+    "timestamp": "2026-08-15T06:34:33.131Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "歐洲熱浪｜法國近500人涉嫌縱火被捕　其中183人未成年",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260815/1165183957818413056301752.png/It3X21RaH4s_bGeMHkXkYViUhrHNwQ37lBG7OJQRuzg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60380196/%E5%9C%B0%E4%B8%AD%E6%B5%B7%E5%9C%B0%E9%9C%87%E4%B8%AD%E5%BF%83-%E5%8D%B0%E5%B0%BC%E6%B2%BF%E6%B5%B7%E7%99%BC%E7%94%9F6-2%E7%B4%9A%E5%9C%B0%E9%9C%87",
     "timestamp": "2026-08-14T22:45:14.437Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "英國山火數量已破2025紀錄　野火致房屋被毀數百人撤離",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260815/1165181344225955840541769.jpeg/ZcNBslY7Lev09c8giHDCmSmE4zb_kE1ilXeB2JV3gdg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60380195/%E8%8B%B1%E5%9C%8B%E5%B1%B1%E7%81%AB%E6%95%B8%E9%87%8F%E5%B7%B2%E7%A0%B42025%E7%B4%80%E9%8C%84-%E9%87%8E%E7%81%AB%E8%87%B4%E6%88%BF%E5%B1%8B%E8%A2%AB%E6%AF%80%E6%95%B8%E7%99%BE%E4%BA%BA%E6%92%A4%E9%9B%A2",
-    "timestamp": "2026-08-14T22:29:41.938Z",
     "strategy": ".content-card__main"
   }
 ];
