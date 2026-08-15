@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-15T11:42:51.662Z
+// Last updated: 2026-08-15T11:56:47.838Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "披荊斬棘｜余文樂唔再浮腫黑黑實實狀態大勇　體脂僅15.7%超Fit",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260815/1165325119090855936368457.jpeg/ky4ClV9kM0zuftZ8exswSoxEk8M9Rzdo2h9w4dofcOE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60380282/%E6%8A%AB%E8%8D%8A%E6%96%AC%E6%A3%98-%E4%BD%99%E6%96%87%E6%A8%82%E5%94%94%E5%86%8D%E6%B5%AE%E8%85%AB%E9%BB%91%E9%BB%91%E5%AF%A6%E5%AF%A6%E7%8B%80%E6%85%8B%E5%A4%A7%E5%8B%87-%E9%AB%94%E8%84%82%E5%83%8515-7-%E8%B6%85fit",
+    "timestamp": "2026-08-15T11:56:47.838Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "披荊斬棘｜余文樂唔再浮腫黑黑實實狀態大勇　體脂僅15.7%超Fit",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260815/1165284996391374848976823.jpeg/k_DcSMvpaP6G-tjZyOlC4yc2hxVafw6lniivLZ4ory0",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60380249/%E6%B2%99%E7%94%B0%E7%8D%85%E5%AD%90%E5%B1%B1%E9%9A%A7%E9%81%93%E5%85%AC%E8%B7%AF10%E8%BB%8A%E7%9B%B8%E6%92%9E-4%E4%BA%BA%E5%8F%97%E5%82%B7-%E5%87%BA%E4%B9%9D%E9%BE%8D%E4%BA%A4%E9%80%9A%E6%93%A0%E5%A1%9E",
     "timestamp": "2026-08-15T05:29:39.675Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "中美AI競賽｜蘋果採購中國晶片夢碎！　美商務部長明言華府不贊成",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260815/1165283201870991360124958.png/-svwFYYLBB4AE_b9S1mJmlAPhumqvwQWST1kVUk9ZFU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60380248/%E4%B8%AD%E7%BE%8Eai%E7%AB%B6%E8%B3%BD-%E8%98%8B%E6%9E%9C%E6%8E%A1%E8%B3%BC%E4%B8%AD%E5%9C%8B%E6%99%B6%E7%89%87%E5%A4%A2%E7%A2%8E-%E7%BE%8E%E5%95%86%E5%8B%99%E9%83%A8%E9%95%B7%E6%98%8E%E8%A8%80%E8%8F%AF%E5%BA%9C%E4%B8%8D%E8%B4%8A%E6%88%90",
-    "timestamp": "2026-08-15T05:13:25.017Z",
     "strategy": ".content-card__main"
   }
 ];
