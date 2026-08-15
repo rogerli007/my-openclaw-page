@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-15T07:34:43.296Z
+// Last updated: 2026-08-15T08:13:15.588Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "天文台料未來九日雨　明日市區最高33度　下周一部份地區狂風雷暴",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260815/1165324481057525760739562.jpeg/dR5XWUr0e5F6oXIzObD0e1NBzgS543z1fxWDiloVg4o?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60380265/%E5%A4%A9%E6%96%87%E5%8F%B0%E6%96%99%E6%9C%AA%E4%BE%86%E4%B9%9D%E6%97%A5%E9%9B%A8-%E6%98%8E%E6%97%A5%E5%B8%82%E5%8D%80%E6%9C%80%E9%AB%9833%E5%BA%A6-%E4%B8%8B%E5%91%A8%E4%B8%80%E9%83%A8%E4%BB%BD%E5%9C%B0%E5%8D%80%E7%8B%82%E9%A2%A8%E9%9B%B7%E6%9A%B4",
+    "timestamp": "2026-08-15T08:13:15.588Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "日媒：高市早苗從日本武道館遙拜靖國神社　「二拜二拍手一拜」",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260813/1164629538362101760034689.png/AqkrYh5muK0lBnLTYwUwW7V7tNqPlvBTi3Ea1YtxGtU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60378947/%E5%A4%A9%E6%B4%A5%E5%8A%AB%E6%AE%BA%E6%87%B8%E6%A1%88%E6%99%82%E9%9A%9429%E5%B9%B4%E5%91%8A%E7%A0%B4-%E6%AE%98%E7%95%99dna%E5%8A%A9%E7%A0%B4%E6%A1%88-%E6%9C%80%E5%BE%8C1%E5%90%8D%E9%80%83%E7%8A%AF%E9%9F%93%E5%9C%8B%E8%90%BD%E7%B6%B2",
     "timestamp": "2026-08-14T23:44:23.648Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "性罪行改革｜哪種推定？如何欺騙？「性自主權」待體現",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260814/1165019663680147456961324.jpeg/6nlssdn4T186Ths7wBaAL7iplzUMBlHdVwzKVlcMylY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60378896/%E6%80%A7%E7%BD%AA%E8%A1%8C%E6%94%B9%E9%9D%A9-%E5%93%AA%E7%A8%AE%E6%8E%A8%E5%AE%9A-%E5%A6%82%E4%BD%95%E6%AC%BA%E9%A8%99-%E6%80%A7%E8%87%AA%E4%B8%BB%E6%AC%8A-%E5%BE%85%E9%AB%94%E7%8F%BE",
-    "timestamp": "2026-08-14T23:11:41.618Z",
     "strategy": ".content-card__main"
   }
 ];
