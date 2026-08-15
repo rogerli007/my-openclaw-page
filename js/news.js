@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-15T09:45:59.874Z
+// Last updated: 2026-08-15T09:58:31.846Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "南京大屠殺再添鐵證！日軍私人親筆信承認「殺了一萬多敗殘兵」",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260815/1165350311464800256536789.jpeg/ZfvFZI4TJ5iRc3XOll3KVj8IjEH0wzWSY1X0TGNV9Ew?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60380303/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%B1%A0%E6%AE%BA%E5%86%8D%E6%B7%BB%E9%90%B5%E8%AD%89-%E6%97%A5%E8%BB%8D%E7%A7%81%E4%BA%BA%E8%A6%AA%E7%AD%86%E4%BF%A1%E6%89%BF%E8%AA%8D-%E6%AE%BA%E4%BA%86%E4%B8%80%E8%90%AC%E5%A4%9A%E6%95%97%E6%AE%98%E5%85%B5",
+    "timestamp": "2026-08-15T09:58:31.846Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "拳王鄒市明忍無可忍發文護妻闢謠　駁斥利益輸送和換老公不實傳聞",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260815/1165242450902519808218453.jpeg/BdGDKq-xN7oOapbFtgi7bvlQDtxlG3aswpNaQcKTWkE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60380226/%E7%89%B9%E6%9C%97%E6%99%AE%E5%A8%81%E8%84%85%E5%B0%87%E6%8A%8A%E9%9C%8D%E7%88%BE%E6%9C%A8%E8%8C%B2%E6%B5%B7%E5%B3%BD%E5%8A%83%E7%82%BA%E7%BE%8E%E5%9C%8B%E9%A0%98%E5%9C%9F-%E4%BC%8A%E6%9C%97%E5%89%AF%E5%A4%96%E9%95%B7-%E6%94%BE%E6%A3%84%E5%B9%BB%E6%83%B3",
     "timestamp": "2026-08-15T02:41:37.507Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "手機擺床頭充電突爆炸引火災！消防揭熱失控原因　附6大安全禁忌",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260813/1164593814912897024742910.jpeg/nexxw0rBSrOGzWiWlJMSf10DgceJtxHacgiPPnIIjz4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%AF%A6%E7%94%A8%E6%95%99%E5%AD%B8/60370562/%E6%89%8B%E6%A9%9F%E6%93%BA%E5%BA%8A%E9%A0%AD%E5%85%85%E9%9B%BB%E7%AA%81%E7%88%86%E7%82%B8%E5%BC%95%E7%81%AB%E7%81%BD-%E6%B6%88%E9%98%B2%E6%8F%AD%E7%86%B1%E5%A4%B1%E6%8E%A7%E5%8E%9F%E5%9B%A0-%E9%99%846%E5%A4%A7%E5%AE%89%E5%85%A8%E7%A6%81%E5%BF%8C",
-    "timestamp": "2026-08-15T02:16:30.836Z",
     "strategy": ".content-card__main"
   }
 ];
