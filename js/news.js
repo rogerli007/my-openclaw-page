@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-15T12:53:08.985Z
+// Last updated: 2026-08-15T13:19:29.499Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "78歲汪明荃坦承記性變差已計劃退休　點評四哥謝賢最食得住她",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260815/1165390365876817920132958.jpeg/bJRJYHv0aq3pzd29KRwVEhDCewGFtnp9mhAD6poQA-o?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60380326/78%E6%AD%B2%E6%B1%AA%E6%98%8E%E8%8D%83%E5%9D%A6%E6%89%BF%E8%A8%98%E6%80%A7%E8%AE%8A%E5%B7%AE%E5%B7%B2%E8%A8%88%E5%8A%83%E9%80%80%E4%BC%91-%E9%BB%9E%E8%A9%95%E5%9B%9B%E5%93%A5%E8%AC%9D%E8%B3%A2%E6%9C%80%E9%A3%9F%E5%BE%97%E4%BD%8F%E5%A5%B9",
+    "timestamp": "2026-08-15T13:19:29.499Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "愛回家｜不和風波疑再升級　張景淳以「狼人殺」暗指職場霸凌",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260815/1165300455341821952905678.png/OfNiVP_d7a0z1CxZbQhPOtRb6TD5SzmUNkv9QDZL_UA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60380250/%E6%9C%89%E4%BA%BA%E7%96%91%E7%A9%BF%E5%A5%B3%E8%AD%A6%E5%88%B6%E6%9C%8D%E8%B7%B3%E8%88%9E%E6%8B%8D%E6%8A%96%E9%9F%B3%E7%89%87-%E8%AD%A6%E6%96%B9%E6%AD%A3%E4%BA%86%E8%A7%A3-%E5%A6%82%E9%81%95%E8%A6%8F%E5%BF%85%E5%9A%B4%E6%AD%A3%E8%99%95%E7%90%86",
     "timestamp": "2026-08-15T06:34:33.131Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "歐洲熱浪｜法國近500人涉嫌縱火被捕　其中183人未成年",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260727/1158450016507924480875109.jpeg/hlPe9yKQgizMwWpj4W7jTCMCEWsdjc1x6um-s-rpvrM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60380243/%E6%AD%90%E6%B4%B2%E7%86%B1%E6%B5%AA-%E6%B3%95%E5%9C%8B%E8%BF%91500%E4%BA%BA%E6%B6%89%E5%AB%8C%E7%B8%B1%E7%81%AB%E8%A2%AB%E6%8D%95-%E5%85%B6%E4%B8%AD183%E4%BA%BA%E6%9C%AA%E6%88%90%E5%B9%B4",
-    "timestamp": "2026-08-15T06:15:19.387Z",
     "strategy": ".content-card__main"
   }
 ];
