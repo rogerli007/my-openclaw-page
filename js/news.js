@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-15T15:11:00.380Z
+// Last updated: 2026-08-15T15:29:31.034Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "南邊圍村屋單位淪毒品倉　警檢$550萬毒品拘一對夫妻　案件提堂",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260815/1165436548087287808389614.jpeg/8zLnGdaN_Z4GZqk4t9u4QZ-GaMO5G97sePQCiHj0Aog?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60380354/%E5%8D%97%E9%82%8A%E5%9C%8D%E6%9D%91%E5%B1%8B%E5%96%AE%E4%BD%8D%E6%B7%AA%E6%AF%92%E5%93%81%E5%80%89-%E8%AD%A6%E6%AA%A2-550%E8%90%AC%E6%AF%92%E5%93%81%E6%8B%98%E4%B8%80%E5%B0%8D%E5%A4%AB%E5%A6%BB-%E6%A1%88%E4%BB%B6%E6%8F%90%E5%A0%82",
+    "timestamp": "2026-08-15T15:29:31.034Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "末世行者｜列尼史葛轉戰後末日世代　疫症後四處神秘荒涼感同身受",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260815/1165342014137438208612749.png/P-EXRLDnS0wXRTx5pJt1b_NnRshtZEXlfhAPu34QD7s?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60380295/%E5%BC%B5%E8%87%B4%E6%81%92%E5%B1%8B%E4%BC%81%E8%A2%AB%E6%88%AA%E9%9B%BB%E5%86%8D%E6%AC%A0%E7%A7%9F-%E9%9B%AF%E9%9B%AF%E7%88%86%E4%B8%80%E5%AE%B6%E5%85%AD%E5%8F%A3%E8%A2%AB%E9%80%BC%E9%81%B7-move-house",
     "timestamp": "2026-08-15T09:30:52.881Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "北都大學城｜蔡若蓮：9月推洪水橋用地　供有意進駐專上院校申請",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260527/1136311523375845376256874.png/qLiewAy_y-Q3X-LgX600sEOdFbKWN3_0oCAFjKAgBYw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60380291/%E5%8C%97%E9%83%BD%E5%A4%A7%E5%AD%B8%E5%9F%8E-%E8%94%A1%E8%8B%A5%E8%93%AE-9%E6%9C%88%E6%8E%A8%E6%B4%AA%E6%B0%B4%E6%A9%8B%E7%94%A8%E5%9C%B0-%E4%BE%9B%E6%9C%89%E6%84%8F%E9%80%B2%E9%A7%90%E5%B0%88%E4%B8%8A%E9%99%A2%E6%A0%A1%E7%94%B3%E8%AB%8B",
-    "timestamp": "2026-08-15T09:15:38.217Z",
     "strategy": ".content-card__main"
   }
 ];
