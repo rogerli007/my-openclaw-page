@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-15T08:13:15.588Z
+// Last updated: 2026-08-15T08:31:12.078Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "大熊貓加加得得兩歲生日　羅淑佩指或最後一次與媽媽盈盈同框慶祝",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260815/1165318283709124608623908.jpeg/lPC0A3Ey2UnMoMy9RmwwORPch_N5wqpkoCW_OYolvzk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60380273/%E5%A4%A7%E7%86%8A%E8%B2%93%E5%8A%A0%E5%8A%A0%E5%BE%97%E5%BE%97%E5%85%A9%E6%AD%B2%E7%94%9F%E6%97%A5-%E7%BE%85%E6%B7%91%E4%BD%A9%E6%8C%87%E6%88%96%E6%9C%80%E5%BE%8C%E4%B8%80%E6%AC%A1%E8%88%87%E5%AA%BD%E5%AA%BD%E7%9B%88%E7%9B%88%E5%90%8C%E6%A1%86%E6%85%B6%E7%A5%9D",
+    "timestamp": "2026-08-15T08:31:12.078Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "天文台料未來九日雨　明日市區最高33度　下周一部份地區狂風雷暴",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260813/1164629538362101760034689.png/AqkrYh5muK0lBnLTYwUwW7V7tNqPlvBTi3Ea1YtxGtU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60378947/%E5%A4%A9%E6%B4%A5%E5%8A%AB%E6%AE%BA%E6%87%B8%E6%A1%88%E6%99%82%E9%9A%9429%E5%B9%B4%E5%91%8A%E7%A0%B4-%E6%AE%98%E7%95%99dna%E5%8A%A9%E7%A0%B4%E6%A1%88-%E6%9C%80%E5%BE%8C1%E5%90%8D%E9%80%83%E7%8A%AF%E9%9F%93%E5%9C%8B%E8%90%BD%E7%B6%B2",
     "timestamp": "2026-08-14T23:57:42.066Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "天津劫殺懸案時隔29年告破　殘留DNA助破案　最後1名逃犯韓國落網",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260813/1164629538362101760034689.png/AqkrYh5muK0lBnLTYwUwW7V7tNqPlvBTi3Ea1YtxGtU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60378947/%E5%A4%A9%E6%B4%A5%E5%8A%AB%E6%AE%BA%E6%87%B8%E6%A1%88%E6%99%82%E9%9A%9429%E5%B9%B4%E5%91%8A%E7%A0%B4-%E6%AE%98%E7%95%99dna%E5%8A%A9%E7%A0%B4%E6%A1%88-%E6%9C%80%E5%BE%8C1%E5%90%8D%E9%80%83%E7%8A%AF%E9%9F%93%E5%9C%8B%E8%90%BD%E7%B6%B2",
-    "timestamp": "2026-08-14T23:44:23.648Z",
     "strategy": ".content-card__main"
   }
 ];
