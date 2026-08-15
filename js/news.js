@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-15T21:42:59.809Z
+// Last updated: 2026-08-15T21:56:30.070Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "法國多地林火狂燒　馬克龍騎水上摩托車照片掀爭議",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260816/1165528769360826368987163.png/89_Ay8fZo5EEMtbcXGAUDqwZgANvygxyOT8_eTk_P3k?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60380376/%E6%B3%95%E5%9C%8B%E5%A4%9A%E5%9C%B0%E6%9E%97%E7%81%AB%E7%8B%82%E7%87%92-%E9%A6%AC%E5%85%8B%E9%BE%8D%E9%A8%8E%E6%B0%B4%E4%B8%8A%E6%91%A9%E6%89%98%E8%BB%8A%E7%85%A7%E7%89%87%E6%8E%80%E7%88%AD%E8%AD%B0",
+    "timestamp": "2026-08-15T21:56:30.070Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "慎入！陰囊長滿痘痘　年輕男硬擠流血怕性病　醫生證實異位皮脂腺",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260815/1165434502302928896631475.jpeg/otrQsxi8ebIJeSbbLXhH0QtsfQSZQeiCXvS3fl70t34?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60380353/%E6%88%B4%E8%80%80%E6%98%8E%E6%88%90%E5%8A%9F%E4%B8%8A%E8%BB%8A%E8%B2%B7%E6%A8%93%E9%80%81%E5%AA%BD%E5%AA%BD-%E6%96%B0%E5%B1%85%E9%81%A0%E7%9C%BA%E7%8D%85%E5%AD%90%E5%B1%B1-%E6%AD%BB%E6%85%B3%E6%AD%BB%E5%BA%95%E6%89%8D%E6%8E%B9%E5%88%B0%E8%BB%8A%E9%82%8A",
     "timestamp": "2026-08-15T16:11:07.347Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "尼納特首度訪港啟德會球迷　以爆炸頭示人　投入活動三打三獻技",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260815/1165439669039534080602519.jpeg/SjgpbAG7v7uTQL8y_u8j_JjljdfsPdZIRAh6bkQIem4?v=w1920r16_9",
-    "url": "https://www.hk01.com/Jumper/60380356/%E5%B0%BC%E7%B4%8D%E7%89%B9%E9%A6%96%E5%BA%A6%E8%A8%AA%E6%B8%AF%E5%95%9F%E5%BE%B7%E6%9C%83%E7%90%83%E8%BF%B7-%E4%BB%A5%E7%88%86%E7%82%B8%E9%A0%AD%E7%A4%BA%E4%BA%BA-%E6%8A%95%E5%85%A5%E6%B4%BB%E5%8B%95%E4%B8%89%E6%89%93%E4%B8%89%E7%8D%BB%E6%8A%80",
-    "timestamp": "2026-08-15T15:56:25.338Z",
     "strategy": ".content-card__main"
   }
 ];
