@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-15T09:58:31.846Z
+// Last updated: 2026-08-15T10:12:06.580Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "有片｜阿叔太子巴士站前坑渠小便　網民斥缺德：屙完仲要揩落站牌",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260813/1164633410832961536028914.jpeg/4bGreD1-PDw5ABAG8hMNE4piAHCjzi0AT4aBA0-GgQM",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60379602/%E6%9C%89%E7%89%87-%E9%98%BF%E5%8F%94%E5%A4%AA%E5%AD%90%E5%B7%B4%E5%A3%AB%E7%AB%99%E5%89%8D%E5%9D%91%E6%B8%A0%E5%B0%8F%E4%BE%BF-%E7%B6%B2%E6%B0%91%E6%96%A5%E7%BC%BA%E5%BE%B7-%E5%B1%99%E5%AE%8C%E4%BB%B2%E8%A6%81%E6%8F%A9%E8%90%BD%E7%AB%99%E7%89%8C",
+    "timestamp": "2026-08-15T10:12:06.580Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "南京大屠殺再添鐵證！日軍私人親筆信承認「殺了一萬多敗殘兵」",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260813/1164545926577000448761943.jpeg/byZBconh3PidIZLXfTEaJCMywV5RbWm7T8-GyU_Phsk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60379497/%E5%B7%B4%E5%A3%AB%E4%B8%AD%E5%B9%B4%E5%A9%A6%E8%B2%B7%E9%A4%B8%E8%BB%8A%E6%94%BE%E5%BA%A7%E4%BD%8D-%E6%B8%AF%E7%94%B7%E4%B8%8D%E6%BB%BF%E5%85%AC%E5%AF%A9-%E5%80%8B%E8%BD%86%E5%92%81%E6%B1%A1%E7%B3%9F-%E7%B6%B2%E6%B0%91%E6%96%A5%E8%87%AA%E7%A7%81",
     "timestamp": "2026-08-15T03:08:19.282Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普威脅將把霍爾木茲海峽劃為美國領土　伊朗副外長：放棄幻想",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260815/1165242450902519808218453.jpeg/BdGDKq-xN7oOapbFtgi7bvlQDtxlG3aswpNaQcKTWkE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60380226/%E7%89%B9%E6%9C%97%E6%99%AE%E5%A8%81%E8%84%85%E5%B0%87%E6%8A%8A%E9%9C%8D%E7%88%BE%E6%9C%A8%E8%8C%B2%E6%B5%B7%E5%B3%BD%E5%8A%83%E7%82%BA%E7%BE%8E%E5%9C%8B%E9%A0%98%E5%9C%9F-%E4%BC%8A%E6%9C%97%E5%89%AF%E5%A4%96%E9%95%B7-%E6%94%BE%E6%A3%84%E5%B9%BB%E6%83%B3",
-    "timestamp": "2026-08-15T02:41:37.507Z",
     "strategy": ".content-card__main"
   }
 ];
