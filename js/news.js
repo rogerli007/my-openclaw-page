@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-15T13:58:18.118Z
+// Last updated: 2026-08-15T14:29:31.915Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "韓國光復81周年講話　李在明提議啟動朝鮮半島終戰對話",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260815/1165329495100493824601893.jpeg/lExJbruJnwSQyruE621NYu-YRmlJZN-Z8dp7s_Hae7M?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60380349/%E9%9F%93%E5%9C%8B%E5%85%89%E5%BE%A981%E5%91%A8%E5%B9%B4%E8%AC%9B%E8%A9%B1-%E6%9D%8E%E5%9C%A8%E6%98%8E%E6%8F%90%E8%AD%B0%E5%95%9F%E5%8B%95%E6%9C%9D%E9%AE%AE%E5%8D%8A%E5%B3%B6%E7%B5%82%E6%88%B0%E5%B0%8D%E8%A9%B1",
+    "timestamp": "2026-08-15T14:29:31.915Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "六合彩8.18頭獎2400萬｜6個最旺號碼+2招增中獎機會",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260815/1165324481057525760739562.jpeg/dR5XWUr0e5F6oXIzObD0e1NBzgS543z1fxWDiloVg4o?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60380265/%E5%A4%A9%E6%96%87%E5%8F%B0%E6%96%99%E6%9C%AA%E4%BE%86%E4%B9%9D%E6%97%A5%E9%9B%A8-%E6%98%8E%E6%97%A5%E5%B8%82%E5%8D%80%E6%9C%80%E9%AB%9833%E5%BA%A6-%E4%B8%8B%E5%91%A8%E4%B8%80%E9%83%A8%E4%BB%BD%E5%9C%B0%E5%8D%80%E7%8B%82%E9%A2%A8%E9%9B%B7%E6%9A%B4",
     "timestamp": "2026-08-15T08:13:15.588Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "日媒：高市早苗從日本武道館遙拜靖國神社　「二拜二拍手一拜」",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260815/1165308044247044096761053.jpeg/6zkdpvtWNmf-ZDkh2HdkK2anI6YYJbi6EcEwFBHBMBQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60380274/%E6%97%A5%E5%AA%92-%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%BE%9E%E6%97%A5%E6%9C%AC%E6%AD%A6%E9%81%93%E9%A4%A8%E9%81%99%E6%8B%9C%E9%9D%96%E5%9C%8B%E7%A5%9E%E7%A4%BE-%E4%BA%8C%E6%8B%9C%E4%BA%8C%E6%8B%8D%E6%89%8B%E4%B8%80%E6%8B%9C",
-    "timestamp": "2026-08-15T07:34:43.296Z",
     "strategy": ".content-card__main"
   }
 ];
