@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-15T02:41:37.507Z
+// Last updated: 2026-08-15T03:08:19.282Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "巴士中年婦買餸車放座位！港男不滿公審：個轆咁污糟　網民斥自私",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260813/1164545926577000448761943.jpeg/byZBconh3PidIZLXfTEaJCMywV5RbWm7T8-GyU_Phsk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60379497/%E5%B7%B4%E5%A3%AB%E4%B8%AD%E5%B9%B4%E5%A9%A6%E8%B2%B7%E9%A4%B8%E8%BB%8A%E6%94%BE%E5%BA%A7%E4%BD%8D-%E6%B8%AF%E7%94%B7%E4%B8%8D%E6%BB%BF%E5%85%AC%E5%AF%A9-%E5%80%8B%E8%BD%86%E5%92%81%E6%B1%A1%E7%B3%9F-%E7%B6%B2%E6%B0%91%E6%96%A5%E8%87%AA%E7%A7%81",
+    "timestamp": "2026-08-15T03:08:19.282Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "特朗普威脅將把霍爾木茲海峽劃為美國領土　伊朗副外長：放棄幻想",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260715/1154038187966861312953274.jpeg/uMaGf2-5cdOcCN5ZszeTT1XEO8wkOYXQ3J5mkNyeZpA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%A6%AA%E5%AD%90/60370007/%E6%97%A5%E6%9C%AC%E8%A6%AA%E5%AD%90%E5%A5%BD%E5%8E%BB%E8%99%952026-26-%E8%A6%AA%E5%AD%90%E6%99%AF%E9%BB%9E-%E4%B8%BB%E9%A1%8C%E6%A8%82%E5%9C%92-%E5%8D%9A%E7%89%A9%E9%A4%A8-%E5%BF%AB%E9%96%83%E5%BA%97-%E9%A4%90%E5%BB%B3",
     "timestamp": "2026-08-14T19:39:26.660Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "瑪麗醫院新大樓28部𨋢壞24部　3大問題曝光　建築署追究承建商",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260812/1164184941592973312860431.jpeg/yItFGqnWu7eIC1SQAo7GvXszGKcm8le01gyPkfMMj5E?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60379310/%E7%91%AA%E9%BA%97%E9%86%AB%E9%99%A2%E6%96%B0%E5%A4%A7%E6%A8%9328%E9%83%A8%F0%A8%8B%A2%E5%A3%9E24%E9%83%A8-3%E5%A4%A7%E5%95%8F%E9%A1%8C%E6%9B%9D%E5%85%89-%E5%BB%BA%E7%AF%89%E7%BD%B2%E8%BF%BD%E7%A9%B6%E6%89%BF%E5%BB%BA%E5%95%86",
-    "timestamp": "2026-08-14T19:12:14.320Z",
     "strategy": ".content-card__main"
   }
 ];
