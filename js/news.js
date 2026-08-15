@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-15T13:40:22.393Z
+// Last updated: 2026-08-15T13:58:18.118Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "六合彩8.18頭獎2400萬｜6個最旺號碼+2招增中獎機會",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260623/1146208537215504384402783.jpeg/ya87yVdv6m4us-Sh8IgfrD5dIWlhhpDOY7CC2mOwgto?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60380345/%E5%85%AD%E5%90%88%E5%BD%A98-18%E9%A0%AD%E7%8D%8E2400%E8%90%AC-6%E5%80%8B%E6%9C%80%E6%97%BA%E8%99%9F%E7%A2%BC-2%E6%8B%9B%E5%A2%9E%E4%B8%AD%E7%8D%8E%E6%A9%9F%E6%9C%83",
+    "timestamp": "2026-08-15T13:58:18.118Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "新蒲崗的士剷路壆　車頭撼消防栓變形　女乘客頭部淌血送院",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260815/1165308044247044096761053.jpeg/6zkdpvtWNmf-ZDkh2HdkK2anI6YYJbi6EcEwFBHBMBQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60380274/%E6%97%A5%E5%AA%92-%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%BE%9E%E6%97%A5%E6%9C%AC%E6%AD%A6%E9%81%93%E9%A4%A8%E9%81%99%E6%8B%9C%E9%9D%96%E5%9C%8B%E7%A5%9E%E7%A4%BE-%E4%BA%8C%E6%8B%9C%E4%BA%8C%E6%8B%8D%E6%89%8B%E4%B8%80%E6%8B%9C",
     "timestamp": "2026-08-15T07:34:43.296Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美國商務部長：華府不贊成蘋果購買中國記憶體晶片",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260423/1123924512732090368178524.jpeg/zbpWMLQstvaNYVPtHuJs3yU2dtEpzWdMNn1QYTZ9UGE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60380271/%E7%BE%8E%E5%9C%8B%E5%95%86%E5%8B%99%E9%83%A8%E9%95%B7-%E8%8F%AF%E5%BA%9C%E4%B8%8D%E8%B4%8A%E6%88%90%E8%98%8B%E6%9E%9C%E8%B3%BC%E8%B2%B7%E4%B8%AD%E5%9C%8B%E8%A8%98%E6%86%B6%E9%AB%94%E6%99%B6%E7%89%87",
-    "timestamp": "2026-08-15T07:18:19.818Z",
     "strategy": ".content-card__main"
   }
 ];
