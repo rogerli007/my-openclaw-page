@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-15T00:23:44.453Z
+// Last updated: 2026-08-15T00:54:16.287Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "《愛回家》被指新不如舊　潘靜文理解觀眾要適應：有評語即係有睇",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260814/1165063936060428288034915.jpeg/NQxYdtfXuQGSbAMOx8mcdbGY4NtxONkBR5vlTkeb5U4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60379837/%E6%84%9B%E5%9B%9E%E5%AE%B6-%E8%A2%AB%E6%8C%87%E6%96%B0%E4%B8%8D%E5%A6%82%E8%88%8A-%E6%BD%98%E9%9D%9C%E6%96%87%E7%90%86%E8%A7%A3%E8%A7%80%E7%9C%BE%E8%A6%81%E9%81%A9%E6%87%89-%E6%9C%89%E8%A9%95%E8%AA%9E%E5%8D%B3%E4%BF%82%E6%9C%89%E7%9D%87",
+    "timestamp": "2026-08-15T00:54:16.287Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "乒乓WTT瑞典大滿貫｜黃鎮廷陳顥樺爭衛冕差一步　偕女雙雙線爭冠",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260804/1161323002856476672259417.jpeg/F9rHn6wwJ0SlbWegw9fYBD826HkDHvJvATL5pgEy-aY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60380182/%E6%B3%95%E5%9C%8B%E6%9C%80%E9%AB%98%E6%B3%95%E9%99%A2%E5%8F%AB%E5%81%9C%E9%9D%92%E5%B0%91%E5%B9%B4%E7%A4%BE%E5%AA%92%E7%A6%81%E4%BB%A4-%E7%A8%B1%E5%85%B6%E4%BE%B5%E7%8A%AF%E8%A8%80%E8%AB%96%E8%87%AA%E7%94%B1",
     "timestamp": "2026-08-14T17:10:51.023Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "最新天氣｜天文台：未來數小時本港部分地區雨勢較大及有狂風雷暴",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260814/1165080682364407808318724.jpeg/1OanQ0GTtd6Up9wYr4a-2bGjiV-cZ3dG0bb1i9G29Ys?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60379869/%E6%9C%80%E6%96%B0%E5%A4%A9%E6%B0%A3-%E5%A4%A9%E6%96%87%E5%8F%B0-%E6%9C%AA%E4%BE%86%E6%95%B8%E5%B0%8F%E6%99%82%E6%9C%AC%E6%B8%AF%E9%83%A8%E5%88%86%E5%9C%B0%E5%8D%80%E9%9B%A8%E5%8B%A2%E8%BC%83%E5%A4%A7%E5%8F%8A%E6%9C%89%E7%8B%82%E9%A2%A8%E9%9B%B7%E6%9A%B4",
-    "timestamp": "2026-08-14T16:37:57.751Z",
     "strategy": ".content-card__main"
   }
 ];
