@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-15T17:56:30.866Z
+// Last updated: 2026-08-15T18:13:23.204Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "有片│港女等九巴公審被阿伯「視姦」10分鐘　奇招KO惹議：做得好",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260812/1164238625861275648719602.jpeg/pVw7q7jJbw4Q7Imx_2tsGBKJ7tT5jJ3Uw9B6w8PQesM",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60378426/%E6%9C%89%E7%89%87-%E6%B8%AF%E5%A5%B3%E7%AD%89%E4%B9%9D%E5%B7%B4%E5%85%AC%E5%AF%A9%E8%A2%AB%E9%98%BF%E4%BC%AF-%E8%A6%96%E5%A7%A6-10%E5%88%86%E9%90%98-%E5%A5%87%E6%8B%9Bko%E6%83%B9%E8%AD%B0-%E5%81%9A%E5%BE%97%E5%A5%BD",
+    "timestamp": "2026-08-15T18:13:23.204Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "韓國西江大學18萬個人信息洩漏　前總統朴槿惠都中招",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260815/1165390977205014528324709.jpeg/ixWq8KpEa5nNghk4Bj_XoNuHD5jNX1URa8sbamvLG2o?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60380330/%E7%B4%80%E5%BF%B5%E6%B1%9F%E6%BE%A4%E6%B0%91%E5%90%8C%E5%BF%97%E8%AA%95%E8%BE%B0100%E5%91%A8%E5%B9%B4%E5%A4%A7%E6%9C%83-%E7%BF%92%E8%BF%91%E5%B9%B3%E5%B0%87%E5%87%BA%E5%B8%AD%E4%B8%A6%E7%99%BC%E8%A1%A8%E9%87%8D%E8%A6%81%E8%AC%9B%E8%A9%B1",
     "timestamp": "2026-08-15T12:31:07.427Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "普京致電金正恩賀朝鮮祖國解放81周年　稱兩國正合作確保地區安全",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250904/1040215797684768768395870.jpeg/fyUIBoWfxxcsCdaW0dl-6RIEL3OGDC9k2hE1qtoRNao?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60380310/%E6%99%AE%E4%BA%AC%E8%87%B4%E9%9B%BB%E9%87%91%E6%AD%A3%E6%81%A9%E8%B3%80%E6%9C%9D%E9%AE%AE%E7%A5%96%E5%9C%8B%E8%A7%A3%E6%94%BE81%E5%91%A8%E5%B9%B4-%E7%A8%B1%E5%85%A9%E5%9C%8B%E6%AD%A3%E5%90%88%E4%BD%9C%E7%A2%BA%E4%BF%9D%E5%9C%B0%E5%8D%80%E5%AE%89%E5%85%A8",
-    "timestamp": "2026-08-15T12:13:10.339Z",
     "strategy": ".content-card__main"
   }
 ];
