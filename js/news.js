@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-15T17:11:57.135Z
+// Last updated: 2026-08-15T17:29:09.937Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "韓國西江大學18萬個人信息洩漏　前總統朴槿惠都中招",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20230525/738396491143450624713482.jpeg/KUGQFjVXPfyhzqaG53x3EFJDTptuEBPDVRNkQVUTZEE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60380367/%E9%9F%93%E5%9C%8B%E8%A5%BF%E6%B1%9F%E5%A4%A7%E5%AD%B818%E8%90%AC%E5%80%8B%E4%BA%BA%E4%BF%A1%E6%81%AF%E6%B4%A9%E6%BC%8F-%E5%89%8D%E7%B8%BD%E7%B5%B1%E6%9C%B4%E6%A7%BF%E6%83%A0%E9%83%BD%E4%B8%AD%E6%8B%9B",
+    "timestamp": "2026-08-15T17:29:09.937Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "古洞PARK SILICON二期周日價單開賣82伙　累收逾2500票、超購30倍",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260815/1165325119090855936368457.jpeg/ky4ClV9kM0zuftZ8exswSoxEk8M9Rzdo2h9w4dofcOE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60380282/%E6%8A%AB%E8%8D%8A%E6%96%AC%E6%A3%98-%E4%BD%99%E6%96%87%E6%A8%82%E5%94%94%E5%86%8D%E6%B5%AE%E8%85%AB%E9%BB%91%E9%BB%91%E5%AF%A6%E5%AF%A6%E7%8B%80%E6%85%8B%E5%A4%A7%E5%8B%87-%E9%AB%94%E8%84%82%E5%83%8515-7-%E8%B6%85fit",
     "timestamp": "2026-08-15T11:42:51.662Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "可卡因走私｜阿根廷女吞101小膠袋闖羽田被捕　市價2400萬日圓",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260804/1161423310282690560607518.jpeg/eA0m0L9w7jphP8S3XyAz69ufZTaJuBkfV5FxwFeRccA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60380317/%E5%8F%AF%E5%8D%A1%E5%9B%A0%E8%B5%B0%E7%A7%81-%E9%98%BF%E6%A0%B9%E5%BB%B7%E5%A5%B3%E5%90%9E101%E5%B0%8F%E8%86%A0%E8%A2%8B%E9%97%96%E7%BE%BD%E7%94%B0%E8%A2%AB%E6%8D%95-%E5%B8%82%E5%83%B92400%E8%90%AC%E6%97%A5%E5%9C%93",
-    "timestamp": "2026-08-15T11:29:11.302Z",
     "strategy": ".content-card__main"
   }
 ];
