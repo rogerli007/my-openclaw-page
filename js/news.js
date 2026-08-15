@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-15T02:16:30.836Z
+// Last updated: 2026-08-15T02:41:37.507Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "特朗普威脅將把霍爾木茲海峽劃為美國領土　伊朗副外長：放棄幻想",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260815/1165242450902519808218453.jpeg/BdGDKq-xN7oOapbFtgi7bvlQDtxlG3aswpNaQcKTWkE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60380226/%E7%89%B9%E6%9C%97%E6%99%AE%E5%A8%81%E8%84%85%E5%B0%87%E6%8A%8A%E9%9C%8D%E7%88%BE%E6%9C%A8%E8%8C%B2%E6%B5%B7%E5%B3%BD%E5%8A%83%E7%82%BA%E7%BE%8E%E5%9C%8B%E9%A0%98%E5%9C%9F-%E4%BC%8A%E6%9C%97%E5%89%AF%E5%A4%96%E9%95%B7-%E6%94%BE%E6%A3%84%E5%B9%BB%E6%83%B3",
+    "timestamp": "2026-08-15T02:41:37.507Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "手機擺床頭充電突爆炸引火災！消防揭熱失控原因　附6大安全禁忌",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260812/1164184941592973312860431.jpeg/yItFGqnWu7eIC1SQAo7GvXszGKcm8le01gyPkfMMj5E?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60379310/%E7%91%AA%E9%BA%97%E9%86%AB%E9%99%A2%E6%96%B0%E5%A4%A7%E6%A8%9328%E9%83%A8%F0%A8%8B%A2%E5%A3%9E24%E9%83%A8-3%E5%A4%A7%E5%95%8F%E9%A1%8C%E6%9B%9D%E5%85%89-%E5%BB%BA%E7%AF%89%E7%BD%B2%E8%BF%BD%E7%A9%B6%E6%89%BF%E5%BB%BA%E5%95%86",
     "timestamp": "2026-08-14T19:12:14.320Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "瑪麗醫院新大樓28部𨋢壞24部　3大問題曝光　建築署追究承建商",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260812/1164184941592973312860431.jpeg/yItFGqnWu7eIC1SQAo7GvXszGKcm8le01gyPkfMMj5E?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60379310/%E7%91%AA%E9%BA%97%E9%86%AB%E9%99%A2%E6%96%B0%E5%A4%A7%E6%A8%9328%E9%83%A8%F0%A8%8B%A2%E5%A3%9E24%E9%83%A8-3%E5%A4%A7%E5%95%8F%E9%A1%8C%E6%9B%9D%E5%85%89-%E5%BB%BA%E7%AF%89%E7%BD%B2%E8%BF%BD%E7%A9%B6%E6%89%BF%E5%BB%BA%E5%95%86",
-    "timestamp": "2026-08-14T18:37:56.140Z",
     "strategy": ".content-card__main"
   }
 ];
