@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-15T19:03:03.510Z
+// Last updated: 2026-08-15T19:15:18.308Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "悉尼邦迪恐襲後出招　澳洲推槍械回購　每支補償最高5萬",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260506/1128720680053903360271634.jpeg/viULTC_Kpj19lnPF-Tld0-yC4hHI_-sClJMzx5STM8c?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60380370/%E6%82%89%E5%B0%BC%E9%82%A6%E8%BF%AA%E6%81%90%E8%A5%B2%E5%BE%8C%E5%87%BA%E6%8B%9B-%E6%BE%B3%E6%B4%B2%E6%8E%A8%E6%A7%8D%E6%A2%B0%E5%9B%9E%E8%B3%BC-%E6%AF%8F%E6%94%AF%E8%A3%9C%E5%84%9F%E6%9C%80%E9%AB%985%E8%90%AC",
+    "timestamp": "2026-08-15T19:15:18.308Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "啟德花園停車場私家車行車不穩　熱心途人報案　42歲醉男司機被捕",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260623/1146208537215504384402783.jpeg/ya87yVdv6m4us-Sh8IgfrD5dIWlhhpDOY7CC2mOwgto?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60380345/%E5%85%AD%E5%90%88%E5%BD%A98-18%E9%A0%AD%E7%8D%8E2400%E8%90%AC-6%E5%80%8B%E6%9C%80%E6%97%BA%E8%99%9F%E7%A2%BC-2%E6%8B%9B%E5%A2%9E%E4%B8%AD%E7%8D%8E%E6%A9%9F%E6%9C%83",
     "timestamp": "2026-08-15T13:58:18.118Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "新蒲崗的士剷路壆　車頭撼消防栓變形　女乘客頭部淌血送院",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260815/1165412701933932544496078.jpeg/xkPs0SQl_vdK04wVJYKDL8Y3MO_oHaePjYxobI2MaGw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60380342/%E6%96%B0%E8%92%B2%E5%B4%97%E7%9A%84%E5%A3%AB%E5%89%B7%E8%B7%AF%E5%A3%86-%E8%BB%8A%E9%A0%AD%E6%92%BC%E6%B6%88%E9%98%B2%E6%A0%93%E8%AE%8A%E5%BD%A2-%E5%A5%B3%E4%B9%98%E5%AE%A2%E9%A0%AD%E9%83%A8%E6%B7%8C%E8%A1%80%E9%80%81%E9%99%A2",
-    "timestamp": "2026-08-15T13:40:22.393Z",
     "strategy": ".content-card__main"
   }
 ];
