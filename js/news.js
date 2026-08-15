@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-15T16:45:36.666Z
+// Last updated: 2026-08-15T17:11:57.135Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "古洞PARK SILICON二期周日價單開賣82伙　累收逾2500票、超購30倍",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260813/1164614429304688640729864.jpeg/xMOop5n-Qy_7pyyOKhIzdMqVw8U0zAzOr4JwlK-CcJQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60380368/%E5%8F%A4%E6%B4%9Epark-silicon%E4%BA%8C%E6%9C%9F%E5%91%A8%E6%97%A5%E5%83%B9%E5%96%AE%E9%96%8B%E8%B3%A382%E4%BC%99-%E7%B4%AF%E6%94%B6%E9%80%BE2500%E7%A5%A8-%E8%B6%85%E8%B3%BC30%E5%80%8D",
+    "timestamp": "2026-08-15T17:11:57.135Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "乒乓WTT瑞典大滿貫｜黃鎮廷陳顥樺無緣衛冕　決賽負法國眼鏡兄弟",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260804/1161423310282690560607518.jpeg/eA0m0L9w7jphP8S3XyAz69ufZTaJuBkfV5FxwFeRccA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60380317/%E5%8F%AF%E5%8D%A1%E5%9B%A0%E8%B5%B0%E7%A7%81-%E9%98%BF%E6%A0%B9%E5%BB%B7%E5%A5%B3%E5%90%9E101%E5%B0%8F%E8%86%A0%E8%A2%8B%E9%97%96%E7%BE%BD%E7%94%B0%E8%A2%AB%E6%8D%95-%E5%B8%82%E5%83%B92400%E8%90%AC%E6%97%A5%E5%9C%93",
     "timestamp": "2026-08-15T11:29:11.302Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "紐約男殺害前女友後分屍　與屍塊同住一個月始揭發　被判無期徒刑",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260815/1165342758047584256712438.jpeg/WLNYMURhsJpG2wKUOoBHG9OmWPRaFLbugglL_-gJS_8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60380293/%E7%B4%90%E7%B4%84%E7%94%B7%E6%AE%BA%E5%AE%B3%E5%89%8D%E5%A5%B3%E5%8F%8B%E5%BE%8C%E5%88%86%E5%B1%8D-%E8%88%87%E5%B1%8D%E5%A1%8A%E5%90%8C%E4%BD%8F%E4%B8%80%E5%80%8B%E6%9C%88%E5%A7%8B%E6%8F%AD%E7%99%BC-%E8%A2%AB%E5%88%A4%E7%84%A1%E6%9C%9F%E5%BE%92%E5%88%91",
-    "timestamp": "2026-08-15T11:10:55.009Z",
     "strategy": ".content-card__main"
   }
 ];
