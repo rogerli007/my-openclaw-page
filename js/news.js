@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-15T11:56:47.838Z
+// Last updated: 2026-08-15T12:13:10.339Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "普京致電金正恩賀朝鮮祖國解放81周年　稱兩國正合作確保地區安全",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250904/1040215797684768768395870.jpeg/fyUIBoWfxxcsCdaW0dl-6RIEL3OGDC9k2hE1qtoRNao?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60380310/%E6%99%AE%E4%BA%AC%E8%87%B4%E9%9B%BB%E9%87%91%E6%AD%A3%E6%81%A9%E8%B3%80%E6%9C%9D%E9%AE%AE%E7%A5%96%E5%9C%8B%E8%A7%A3%E6%94%BE81%E5%91%A8%E5%B9%B4-%E7%A8%B1%E5%85%A9%E5%9C%8B%E6%AD%A3%E5%90%88%E4%BD%9C%E7%A2%BA%E4%BF%9D%E5%9C%B0%E5%8D%80%E5%AE%89%E5%85%A8",
+    "timestamp": "2026-08-15T12:13:10.339Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "披荊斬棘｜余文樂唔再浮腫黑黑實實狀態大勇　體脂僅15.7%超Fit",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260814/1164964239933181952503491.jpeg/WTZsSFokacn1NpZk_O7aEtD85FbVlZnlvCH_VLwh_1Q?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60380029/%E6%B8%B8%E5%98%89%E6%AC%A3%E6%A8%A3%E8%B2%8C%E6%84%88%E8%A6%8B%E7%B2%BE%E7%B7%BB%E6%83%B9%E8%B3%AA%E7%96%91-%E6%95%B4%E5%92%97%E5%92%A9%E4%BD%8D-%E9%AB%98eq%E8%A6%AA%E5%9B%9E%E7%9B%B4%E8%AA%8D%E6%9B%BE%E6%8E%A5%E5%8F%97%E9%86%AB%E7%BE%8E",
     "timestamp": "2026-08-15T05:45:19.089Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "沙田獅子山隧道公路10車相撞　4人受傷　出九龍交通擠塞",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260815/1165284996391374848976823.jpeg/k_DcSMvpaP6G-tjZyOlC4yc2hxVafw6lniivLZ4ory0",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60380249/%E6%B2%99%E7%94%B0%E7%8D%85%E5%AD%90%E5%B1%B1%E9%9A%A7%E9%81%93%E5%85%AC%E8%B7%AF10%E8%BB%8A%E7%9B%B8%E6%92%9E-4%E4%BA%BA%E5%8F%97%E5%82%B7-%E5%87%BA%E4%B9%9D%E9%BE%8D%E4%BA%A4%E9%80%9A%E6%93%A0%E5%A1%9E",
-    "timestamp": "2026-08-15T05:29:39.675Z",
     "strategy": ".content-card__main"
   }
 ];
