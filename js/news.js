@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-15T21:00:56.635Z
+// Last updated: 2026-08-15T21:29:57.923Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "慎入！陰囊長滿痘痘　年輕男硬擠流血怕性病　醫生證實異位皮脂腺",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260813/1164650585404739584748036.png/RBsGtBAsLiDiJ_CAL3LNtdqUst6nd0lyCdWNdAnVjXQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60379439/%E6%85%8E%E5%85%A5-%E9%99%B0%E5%9B%8A%E9%95%B7%E6%BB%BF%E7%97%98%E7%97%98-%E5%B9%B4%E8%BC%95%E7%94%B7%E7%A1%AC%E6%93%A0%E6%B5%81%E8%A1%80%E6%80%95%E6%80%A7%E7%97%85-%E9%86%AB%E7%94%9F%E8%AD%89%E5%AF%A6%E7%95%B0%E4%BD%8D%E7%9A%AE%E8%84%82%E8%85%BA",
+    "timestamp": "2026-08-15T21:29:57.923Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美軍F-18墜毀山區　飛行員超淡定：嘿，我只是墜機了｜有片",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260811/1163711830166605824241309.jpeg/W8CiNusm_bxe5mRtK6KFFaguAGT3bTkc41Ilx-NSJcc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60380352/%E7%BE%8E%E5%9C%8B%E5%B0%8D%E5%8A%A0%E6%8B%BF%E5%A4%A7%E6%96%B0%E9%97%9C%E7%A8%85%E5%B0%87%E7%94%9F%E6%95%88-%E5%85%A9%E5%9C%8B%E6%93%9A%E5%A0%B1%E7%84%A1%E9%81%94%E6%88%90%E5%8D%94%E8%AD%B0%E8%BF%B9%E8%B1%A1-%E5%88%86%E6%AD%A7%E4%BB%8D%E5%B7%A8%E5%A4%A7",
     "timestamp": "2026-08-15T15:42:44.874Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "南邊圍村屋單位淪毒品倉　警檢$550萬毒品拘一對夫妻　案件提堂",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260815/1165436548087287808389614.jpeg/8zLnGdaN_Z4GZqk4t9u4QZ-GaMO5G97sePQCiHj0Aog?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60380354/%E5%8D%97%E9%82%8A%E5%9C%8D%E6%9D%91%E5%B1%8B%E5%96%AE%E4%BD%8D%E6%B7%AA%E6%AF%92%E5%93%81%E5%80%89-%E8%AD%A6%E6%AA%A2-550%E8%90%AC%E6%AF%92%E5%93%81%E6%8B%98%E4%B8%80%E5%B0%8D%E5%A4%AB%E5%A6%BB-%E6%A1%88%E4%BB%B6%E6%8F%90%E5%A0%82",
-    "timestamp": "2026-08-15T15:29:31.034Z",
     "strategy": ".content-card__main"
   }
 ];
