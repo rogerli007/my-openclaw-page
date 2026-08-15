@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-15T04:16:30.291Z
+// Last updated: 2026-08-15T04:32:51.782Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "洪水橋現代物流圈｜首批用地邀意向書　陳美寶料最快2027年底推出",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260815/1165264288143642624054638.jpeg/PibMGnjYs33o3Y7xElYSgi8jua08Q8kGbaU9ZW2lPWU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60380238/%E6%B4%AA%E6%B0%B4%E6%A9%8B%E7%8F%BE%E4%BB%A3%E7%89%A9%E6%B5%81%E5%9C%88-%E9%A6%96%E6%89%B9%E7%94%A8%E5%9C%B0%E9%82%80%E6%84%8F%E5%90%91%E6%9B%B8-%E9%99%B3%E7%BE%8E%E5%AF%B6%E6%96%99%E6%9C%80%E5%BF%AB2027%E5%B9%B4%E5%BA%95%E6%8E%A8%E5%87%BA",
+    "timestamp": "2026-08-15T04:32:51.782Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "有片│俄國地盤中國工人討薪被捕　逾千同胞包圍警車唱國歌逼放人",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260815/1165158672242839552948503.png/8Tx9uF5nVcBzyHH1OX4Ub9_7CMKw78UQEUIi_xFCIv8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60380188/%E7%BE%8E%E5%9C%8B%E5%A5%B3%E5%AD%90%E6%B6%89%E7%A0%B4%E5%A3%9E%E4%BA%8C%E6%88%B0%E7%B4%80%E5%BF%B5%E7%A2%91-%E6%8E%A7%E5%85%A9%E9%A0%85%E9%87%8D%E7%BD%AA%E6%9C%80%E9%AB%98%E5%8F%AF%E5%88%A4%E5%9B%9A10%E5%B9%B4",
     "timestamp": "2026-08-14T21:15:16.123Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美國女子涉破壞二戰紀念碑　控兩項重罪最高可判囚10年",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260815/1165158672242839552948503.png/8Tx9uF5nVcBzyHH1OX4Ub9_7CMKw78UQEUIi_xFCIv8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60380188/%E7%BE%8E%E5%9C%8B%E5%A5%B3%E5%AD%90%E6%B6%89%E7%A0%B4%E5%A3%9E%E4%BA%8C%E6%88%B0%E7%B4%80%E5%BF%B5%E7%A2%91-%E6%8E%A7%E5%85%A9%E9%A0%85%E9%87%8D%E7%BD%AA%E6%9C%80%E9%AB%98%E5%8F%AF%E5%88%A4%E5%9B%9A10%E5%B9%B4",
-    "timestamp": "2026-08-14T21:02:25.680Z",
     "strategy": ".content-card__main"
   }
 ];
