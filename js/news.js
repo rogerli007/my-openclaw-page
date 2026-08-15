@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-15T01:37:59.270Z
+// Last updated: 2026-08-15T02:16:30.836Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "手機擺床頭充電突爆炸引火災！消防揭熱失控原因　附6大安全禁忌",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260813/1164593814912897024742910.jpeg/nexxw0rBSrOGzWiWlJMSf10DgceJtxHacgiPPnIIjz4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%AF%A6%E7%94%A8%E6%95%99%E5%AD%B8/60370562/%E6%89%8B%E6%A9%9F%E6%93%BA%E5%BA%8A%E9%A0%AD%E5%85%85%E9%9B%BB%E7%AA%81%E7%88%86%E7%82%B8%E5%BC%95%E7%81%AB%E7%81%BD-%E6%B6%88%E9%98%B2%E6%8F%AD%E7%86%B1%E5%A4%B1%E6%8E%A7%E5%8E%9F%E5%9B%A0-%E9%99%846%E5%A4%A7%E5%AE%89%E5%85%A8%E7%A6%81%E5%BF%8C",
+    "timestamp": "2026-08-15T02:16:30.836Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "趙露思復工卡關？原定8月進組　傳因拒簽「附加協議」遭劇組退貨",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260812/1164184941592973312860431.jpeg/yItFGqnWu7eIC1SQAo7GvXszGKcm8le01gyPkfMMj5E?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60379310/%E7%91%AA%E9%BA%97%E9%86%AB%E9%99%A2%E6%96%B0%E5%A4%A7%E6%A8%9328%E9%83%A8%F0%A8%8B%A2%E5%A3%9E24%E9%83%A8-3%E5%A4%A7%E5%95%8F%E9%A1%8C%E6%9B%9D%E5%85%89-%E5%BB%BA%E7%AF%89%E7%BD%B2%E8%BF%BD%E7%A9%B6%E6%89%BF%E5%BB%BA%E5%95%86",
     "timestamp": "2026-08-14T18:37:56.140Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "瑪麗醫院新大樓28部𨋢壞24部　3大問題曝光　建築署追究承建商",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260812/1164184941592973312860431.jpeg/yItFGqnWu7eIC1SQAo7GvXszGKcm8le01gyPkfMMj5E?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60379310/%E7%91%AA%E9%BA%97%E9%86%AB%E9%99%A2%E6%96%B0%E5%A4%A7%E6%A8%9328%E9%83%A8%F0%A8%8B%A2%E5%A3%9E24%E9%83%A8-3%E5%A4%A7%E5%95%8F%E9%A1%8C%E6%9B%9D%E5%85%89-%E5%BB%BA%E7%AF%89%E7%BD%B2%E8%BF%BD%E7%A9%B6%E6%89%BF%E5%BB%BA%E5%95%86",
-    "timestamp": "2026-08-14T17:40:38.253Z",
     "strategy": ".content-card__main"
   }
 ];
