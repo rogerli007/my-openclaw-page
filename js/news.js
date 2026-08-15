@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-15T03:08:19.282Z
+// Last updated: 2026-08-15T03:56:09.012Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "印尼發生7.7級地震　大量建築倒塌　數名登船旅客被拋落水｜有片",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260815/1165258549837041664963184.png/XrVXl2BsfKG88z94CyS0iIOVqtHDF4y87cKT9O3Ck_Q?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60380234/%E5%8D%B0%E5%B0%BC%E7%99%BC%E7%94%9F7-7%E7%B4%9A%E5%9C%B0%E9%9C%87-%E5%A4%A7%E9%87%8F%E5%BB%BA%E7%AF%89%E5%80%92%E5%A1%8C-%E6%95%B8%E5%90%8D%E7%99%BB%E8%88%B9%E6%97%85%E5%AE%A2%E8%A2%AB%E6%8B%8B%E8%90%BD%E6%B0%B4-%E6%9C%89%E7%89%87",
+    "timestamp": "2026-08-15T03:56:09.012Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "巴士中年婦買餸車放座位！港男不滿公審：個轆咁污糟　網民斥自私",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260722/1156618998113112064532980.jpeg/eifAb2aZitvhXINOFrJt7037gn-ZDC4hfXZ7xH12e8Q?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60380186/%E8%B5%AB%E6%A0%BC%E5%A1%9E%E6%80%9D-%E7%BE%8E%E5%9C%8B%E5%8F%AF%E8%83%BD%E5%B0%8D%E4%BC%8A%E6%9C%97%E5%AF%A6%E6%96%BD%E6%B0%B8%E4%B9%85%E5%B0%81%E9%8E%96-%E5%8A%A0%E5%A4%A7%E7%B6%93%E6%BF%9F%E6%96%BD%E5%A3%93",
     "timestamp": "2026-08-14T20:46:57.145Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "日本親子好去處2026｜26+親子景點 主題樂園/博物館/快閃店/餐廳",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260715/1154038187966861312953274.jpeg/uMaGf2-5cdOcCN5ZszeTT1XEO8wkOYXQ3J5mkNyeZpA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%A6%AA%E5%AD%90/60370007/%E6%97%A5%E6%9C%AC%E8%A6%AA%E5%AD%90%E5%A5%BD%E5%8E%BB%E8%99%952026-26-%E8%A6%AA%E5%AD%90%E6%99%AF%E9%BB%9E-%E4%B8%BB%E9%A1%8C%E6%A8%82%E5%9C%92-%E5%8D%9A%E7%89%A9%E9%A4%A8-%E5%BF%AB%E9%96%83%E5%BA%97-%E9%A4%90%E5%BB%B3",
-    "timestamp": "2026-08-14T19:39:26.660Z",
     "strategy": ".content-card__main"
   }
 ];
