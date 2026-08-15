@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-15T05:58:23.431Z
+// Last updated: 2026-08-15T06:15:19.387Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "歐洲熱浪｜法國近500人涉嫌縱火被捕　其中183人未成年",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260727/1158450016507924480875109.jpeg/hlPe9yKQgizMwWpj4W7jTCMCEWsdjc1x6um-s-rpvrM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60380243/%E6%AD%90%E6%B4%B2%E7%86%B1%E6%B5%AA-%E6%B3%95%E5%9C%8B%E8%BF%91500%E4%BA%BA%E6%B6%89%E5%AB%8C%E7%B8%B1%E7%81%AB%E8%A2%AB%E6%8D%95-%E5%85%B6%E4%B8%AD183%E4%BA%BA%E6%9C%AA%E6%88%90%E5%B9%B4",
+    "timestamp": "2026-08-15T06:15:19.387Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "印尼7.7級地震　至少20死",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260815/1165181344225955840541769.jpeg/ZcNBslY7Lev09c8giHDCmSmE4zb_kE1ilXeB2JV3gdg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60380195/%E8%8B%B1%E5%9C%8B%E5%B1%B1%E7%81%AB%E6%95%B8%E9%87%8F%E5%B7%B2%E7%A0%B42025%E7%B4%80%E9%8C%84-%E9%87%8E%E7%81%AB%E8%87%B4%E6%88%BF%E5%B1%8B%E8%A2%AB%E6%AF%80%E6%95%B8%E7%99%BE%E4%BA%BA%E6%92%A4%E9%9B%A2",
     "timestamp": "2026-08-14T22:29:41.938Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美國女子涉破壞二戰紀念碑　控兩項重罪最高可判囚10年",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260815/1165158672242839552948503.png/8Tx9uF5nVcBzyHH1OX4Ub9_7CMKw78UQEUIi_xFCIv8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60380188/%E7%BE%8E%E5%9C%8B%E5%A5%B3%E5%AD%90%E6%B6%89%E7%A0%B4%E5%A3%9E%E4%BA%8C%E6%88%B0%E7%B4%80%E5%BF%B5%E7%A2%91-%E6%8E%A7%E5%85%A9%E9%A0%85%E9%87%8D%E7%BD%AA%E6%9C%80%E9%AB%98%E5%8F%AF%E5%88%A4%E5%9B%9A10%E5%B9%B4",
-    "timestamp": "2026-08-14T22:11:40.575Z",
     "strategy": ".content-card__main"
   }
 ];
