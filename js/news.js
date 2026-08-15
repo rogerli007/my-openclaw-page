@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-15T07:18:19.818Z
+// Last updated: 2026-08-15T07:34:43.296Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "日媒：高市早苗從日本武道館遙拜靖國神社　「二拜二拍手一拜」",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260815/1165308044247044096761053.jpeg/6zkdpvtWNmf-ZDkh2HdkK2anI6YYJbi6EcEwFBHBMBQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60380274/%E6%97%A5%E5%AA%92-%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%BE%9E%E6%97%A5%E6%9C%AC%E6%AD%A6%E9%81%93%E9%A4%A8%E9%81%99%E6%8B%9C%E9%9D%96%E5%9C%8B%E7%A5%9E%E7%A4%BE-%E4%BA%8C%E6%8B%9C%E4%BA%8C%E6%8B%8D%E6%89%8B%E4%B8%80%E6%8B%9C",
+    "timestamp": "2026-08-15T07:34:43.296Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美國商務部長：華府不贊成蘋果購買中國記憶體晶片",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260814/1165019663680147456961324.jpeg/6nlssdn4T186Ths7wBaAL7iplzUMBlHdVwzKVlcMylY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60378896/%E6%80%A7%E7%BD%AA%E8%A1%8C%E6%94%B9%E9%9D%A9-%E5%93%AA%E7%A8%AE%E6%8E%A8%E5%AE%9A-%E5%A6%82%E4%BD%95%E6%AC%BA%E9%A8%99-%E6%80%A7%E8%87%AA%E4%B8%BB%E6%AC%8A-%E5%BE%85%E9%AB%94%E7%8F%BE",
     "timestamp": "2026-08-14T23:11:41.618Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "地中海地震中心：印尼沿海發生6.2級地震",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260815/1165183957818413056301752.png/It3X21RaH4s_bGeMHkXkYViUhrHNwQ37lBG7OJQRuzg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60380196/%E5%9C%B0%E4%B8%AD%E6%B5%B7%E5%9C%B0%E9%9C%87%E4%B8%AD%E5%BF%83-%E5%8D%B0%E5%B0%BC%E6%B2%BF%E6%B5%B7%E7%99%BC%E7%94%9F6-2%E7%B4%9A%E5%9C%B0%E9%9C%87",
-    "timestamp": "2026-08-14T22:58:22.878Z",
     "strategy": ".content-card__main"
   }
 ];
