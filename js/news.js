@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-15T22:57:03.399Z
+// Last updated: 2026-08-15T23:15:15.087Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "地鐵女「狂摑男友8巴掌」影片瘋傳！男友神舉動獲激讚：好男人！",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260813/1164657294630195200327916.jpeg/P4N3d5eedIsRT8izD53Q2E4KXNHXa-G3WUNS5VlDUuU",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60379802/%E5%9C%B0%E9%90%B5%E5%A5%B3-%E7%8B%82%E6%91%91%E7%94%B7%E5%8F%8B8%E5%B7%B4%E6%8E%8C-%E5%BD%B1%E7%89%87%E7%98%8B%E5%82%B3-%E7%94%B7%E5%8F%8B%E7%A5%9E%E8%88%89%E5%8B%95%E7%8D%B2%E6%BF%80%E8%AE%9A-%E5%A5%BD%E7%94%B7%E4%BA%BA",
+    "timestamp": "2026-08-15T23:15:15.087Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "將軍澳七人車撞壆衝前50米翻側　3人一度被困受傷獲救　1人送院",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20230525/738396491143450624713482.jpeg/KUGQFjVXPfyhzqaG53x3EFJDTptuEBPDVRNkQVUTZEE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60380367/%E9%9F%93%E5%9C%8B%E8%A5%BF%E6%B1%9F%E5%A4%A7%E5%AD%B818%E8%90%AC%E5%80%8B%E4%BA%BA%E4%BF%A1%E6%81%AF%E6%B4%A9%E6%BC%8F-%E5%89%8D%E7%B8%BD%E7%B5%B1%E6%9C%B4%E6%A7%BF%E6%83%A0%E9%83%BD%E4%B8%AD%E6%8B%9B",
     "timestamp": "2026-08-15T17:29:09.937Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "古洞PARK SILICON二期周日價單開賣82伙　累收逾2500票、超購30倍",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260813/1164614429304688640729864.jpeg/xMOop5n-Qy_7pyyOKhIzdMqVw8U0zAzOr4JwlK-CcJQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60380368/%E5%8F%A4%E6%B4%9Epark-silicon%E4%BA%8C%E6%9C%9F%E5%91%A8%E6%97%A5%E5%83%B9%E5%96%AE%E9%96%8B%E8%B3%A382%E4%BC%99-%E7%B4%AF%E6%94%B6%E9%80%BE2500%E7%A5%A8-%E8%B6%85%E8%B3%BC30%E5%80%8D",
-    "timestamp": "2026-08-15T17:11:57.135Z",
     "strategy": ".content-card__main"
   }
 ];
