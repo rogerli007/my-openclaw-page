@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-15T14:29:31.915Z
+// Last updated: 2026-08-15T14:45:05.179Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "夏雨談婚姻難題　陳欣妍反問：女仔出軌，男人好難原諒係咪呀？",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260815/1165423888423718912401623.jpeg/k1WFd2rzqWbrOw26WWtpzGJUDb2iSs-H1Lin3-24p98?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60380350/%E5%A4%8F%E9%9B%A8%E8%AB%87%E5%A9%9A%E5%A7%BB%E9%9B%A3%E9%A1%8C-%E9%99%B3%E6%AC%A3%E5%A6%8D%E5%8F%8D%E5%95%8F-%E5%A5%B3%E4%BB%94%E5%87%BA%E8%BB%8C-%E7%94%B7%E4%BA%BA%E5%A5%BD%E9%9B%A3%E5%8E%9F%E8%AB%92%E4%BF%82%E5%92%AA%E5%91%80",
+    "timestamp": "2026-08-15T14:45:05.179Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "韓國光復81周年講話　李在明提議啟動朝鮮半島終戰對話",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260815/1165318283709124608623908.jpeg/lPC0A3Ey2UnMoMy9RmwwORPch_N5wqpkoCW_OYolvzk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60380273/%E5%A4%A7%E7%86%8A%E8%B2%93%E5%8A%A0%E5%8A%A0%E5%BE%97%E5%BE%97%E5%85%A9%E6%AD%B2%E7%94%9F%E6%97%A5-%E7%BE%85%E6%B7%91%E4%BD%A9%E6%8C%87%E6%88%96%E6%9C%80%E5%BE%8C%E4%B8%80%E6%AC%A1%E8%88%87%E5%AA%BD%E5%AA%BD%E7%9B%88%E7%9B%88%E5%90%8C%E6%A1%86%E6%85%B6%E7%A5%9D",
     "timestamp": "2026-08-15T08:31:12.078Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "天文台料未來九日雨　明日市區最高33度　下周一部份地區狂風雷暴",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260815/1165324481057525760739562.jpeg/dR5XWUr0e5F6oXIzObD0e1NBzgS543z1fxWDiloVg4o?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60380265/%E5%A4%A9%E6%96%87%E5%8F%B0%E6%96%99%E6%9C%AA%E4%BE%86%E4%B9%9D%E6%97%A5%E9%9B%A8-%E6%98%8E%E6%97%A5%E5%B8%82%E5%8D%80%E6%9C%80%E9%AB%9833%E5%BA%A6-%E4%B8%8B%E5%91%A8%E4%B8%80%E9%83%A8%E4%BB%BD%E5%9C%B0%E5%8D%80%E7%8B%82%E9%A2%A8%E9%9B%B7%E6%9A%B4",
-    "timestamp": "2026-08-15T08:13:15.588Z",
     "strategy": ".content-card__main"
   }
 ];
