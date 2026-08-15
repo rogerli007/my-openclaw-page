@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-15T16:11:07.347Z
+// Last updated: 2026-08-15T16:29:43.180Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "Mastercard全球性故障包括香港用戶無法刷卡　專家料系統升級異常",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/2388412/org/a72f8606bf787624c7ec9b744b28bca5.JPG/eVMTh6MqqKc3opLMyQy_Os88yPD7RS1aTCWNwkwljcI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60380359/mastercard%E5%85%A8%E7%90%83%E6%80%A7%E6%95%85%E9%9A%9C%E5%8C%85%E6%8B%AC%E9%A6%99%E6%B8%AF%E7%94%A8%E6%88%B6%E7%84%A1%E6%B3%95%E5%88%B7%E5%8D%A1-%E5%B0%88%E5%AE%B6%E6%96%99%E7%B3%BB%E7%B5%B1%E5%8D%87%E7%B4%9A%E7%95%B0%E5%B8%B8",
+    "timestamp": "2026-08-15T16:29:43.180Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "綠葉王成功上車買樓送媽媽　新居遠眺獅子山：死慳死底才掹到車邊",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260815/1165354274536820736415083.jpeg/8pOA5CM-baiKz_9BZFFCnrGdBfe-mHJsbPJylmzycpY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60380302/%E8%BF%AA%E5%A3%AB%E5%B0%BCd23%E5%A4%A7%E6%9B%AC%E5%86%B7-%E5%84%AA%E7%8D%B8%E5%A4%A7%E9%83%BD%E6%9C%833-%E5%95%9F%E5%8B%95-%E9%BB%83%E5%AD%90%E8%8F%AF%E5%AE%B9%E7%A5%96%E5%85%92%E6%9C%89%E6%9C%9B%E5%9B%9E%E6%AD%B8%E7%8D%BB%E8%81%B2",
     "timestamp": "2026-08-15T11:02:43.363Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "有片｜阿叔太子巴士站前坑渠小便　網民斥缺德：屙完仲要揩落站牌",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260813/1164633410832961536028914.jpeg/4bGreD1-PDw5ABAG8hMNE4piAHCjzi0AT4aBA0-GgQM",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60379602/%E6%9C%89%E7%89%87-%E9%98%BF%E5%8F%94%E5%A4%AA%E5%AD%90%E5%B7%B4%E5%A3%AB%E7%AB%99%E5%89%8D%E5%9D%91%E6%B8%A0%E5%B0%8F%E4%BE%BF-%E7%B6%B2%E6%B0%91%E6%96%A5%E7%BC%BA%E5%BE%B7-%E5%B1%99%E5%AE%8C%E4%BB%B2%E8%A6%81%E6%8F%A9%E8%90%BD%E7%AB%99%E7%89%8C",
-    "timestamp": "2026-08-15T10:12:06.580Z",
     "strategy": ".content-card__main"
   }
 ];
