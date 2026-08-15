@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-15T15:42:44.874Z
+// Last updated: 2026-08-15T15:56:25.338Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "尼納特首度訪港啟德會球迷　以爆炸頭示人　投入活動三打三獻技",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260815/1165439669039534080602519.jpeg/SjgpbAG7v7uTQL8y_u8j_JjljdfsPdZIRAh6bkQIem4?v=w1920r16_9",
+    "url": "https://www.hk01.com/Jumper/60380356/%E5%B0%BC%E7%B4%8D%E7%89%B9%E9%A6%96%E5%BA%A6%E8%A8%AA%E6%B8%AF%E5%95%9F%E5%BE%B7%E6%9C%83%E7%90%83%E8%BF%B7-%E4%BB%A5%E7%88%86%E7%82%B8%E9%A0%AD%E7%A4%BA%E4%BA%BA-%E6%8A%95%E5%85%A5%E6%B4%BB%E5%8B%95%E4%B8%89%E6%89%93%E4%B8%89%E7%8D%BB%E6%8A%80",
+    "timestamp": "2026-08-15T15:56:25.338Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美國對加拿大新關稅將生效　兩國據報無達成協議迹象　分歧仍巨大",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260815/1165350311464800256536789.jpeg/ZfvFZI4TJ5iRc3XOll3KVj8IjEH0wzWSY1X0TGNV9Ew?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60380303/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%B1%A0%E6%AE%BA%E5%86%8D%E6%B7%BB%E9%90%B5%E8%AD%89-%E6%97%A5%E8%BB%8D%E7%A7%81%E4%BA%BA%E8%A6%AA%E7%AD%86%E4%BF%A1%E6%89%BF%E8%AA%8D-%E6%AE%BA%E4%BA%86%E4%B8%80%E8%90%AC%E5%A4%9A%E6%95%97%E6%AE%98%E5%85%B5",
     "timestamp": "2026-08-15T09:58:31.846Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "拳王鄒市明忍無可忍發文護妻闢謠　駁斥利益輸送和換老公不實傳聞",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260814/1164894703280197632807124.jpeg/PGWPvzzFFZda1ET3Rs-ZhYpvaN-Et0VovYPNMr2DzTI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60379915/%E6%8B%B3%E7%8E%8B%E9%84%92%E5%B8%82%E6%98%8E%E5%BF%8D%E7%84%A1%E5%8F%AF%E5%BF%8D%E7%99%BC%E6%96%87%E8%AD%B7%E5%A6%BB%E9%97%A2%E8%AC%A0-%E9%A7%81%E6%96%A5%E5%88%A9%E7%9B%8A%E8%BC%B8%E9%80%81%E5%92%8C%E6%8F%9B%E8%80%81%E5%85%AC%E4%B8%8D%E5%AF%A6%E5%82%B3%E8%81%9E",
-    "timestamp": "2026-08-15T09:45:59.874Z",
     "strategy": ".content-card__main"
   }
 ];
