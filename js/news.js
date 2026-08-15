@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-15T10:12:06.580Z
+// Last updated: 2026-08-15T11:02:43.363Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "迪士尼D23大曬冷《優獸大都會3》啟動　黃子華容祖兒有望回歸獻聲",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260815/1165354274536820736415083.jpeg/8pOA5CM-baiKz_9BZFFCnrGdBfe-mHJsbPJylmzycpY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60380302/%E8%BF%AA%E5%A3%AB%E5%B0%BCd23%E5%A4%A7%E6%9B%AC%E5%86%B7-%E5%84%AA%E7%8D%B8%E5%A4%A7%E9%83%BD%E6%9C%833-%E5%95%9F%E5%8B%95-%E9%BB%83%E5%AD%90%E8%8F%AF%E5%AE%B9%E7%A5%96%E5%85%92%E6%9C%89%E6%9C%9B%E5%9B%9E%E6%AD%B8%E7%8D%BB%E8%81%B2",
+    "timestamp": "2026-08-15T11:02:43.363Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "有片｜阿叔太子巴士站前坑渠小便　網民斥缺德：屙完仲要揩落站牌",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260815/1165258549837041664963184.png/XrVXl2BsfKG88z94CyS0iIOVqtHDF4y87cKT9O3Ck_Q?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60380234/%E5%8D%B0%E5%B0%BC%E7%99%BC%E7%94%9F7-7%E7%B4%9A%E5%9C%B0%E9%9C%87-%E5%A4%A7%E9%87%8F%E5%BB%BA%E7%AF%89%E5%80%92%E5%A1%8C-%E6%95%B8%E5%90%8D%E7%99%BB%E8%88%B9%E6%97%85%E5%AE%A2%E8%A2%AB%E6%8B%8B%E8%90%BD%E6%B0%B4-%E6%9C%89%E7%89%87",
     "timestamp": "2026-08-15T03:56:09.012Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "巴士中年婦買餸車放座位！港男不滿公審：個轆咁污糟　網民斥自私",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260813/1164545926577000448761943.jpeg/byZBconh3PidIZLXfTEaJCMywV5RbWm7T8-GyU_Phsk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60379497/%E5%B7%B4%E5%A3%AB%E4%B8%AD%E5%B9%B4%E5%A9%A6%E8%B2%B7%E9%A4%B8%E8%BB%8A%E6%94%BE%E5%BA%A7%E4%BD%8D-%E6%B8%AF%E7%94%B7%E4%B8%8D%E6%BB%BF%E5%85%AC%E5%AF%A9-%E5%80%8B%E8%BD%86%E5%92%81%E6%B1%A1%E7%B3%9F-%E7%B6%B2%E6%B0%91%E6%96%A5%E8%87%AA%E7%A7%81",
-    "timestamp": "2026-08-15T03:08:19.282Z",
     "strategy": ".content-card__main"
   }
 ];
