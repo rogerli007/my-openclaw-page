@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-15T09:15:38.217Z
+// Last updated: 2026-08-15T09:30:52.881Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "張致恒屋企被截電再欠租？　雯雯爆一家六口被逼遷：Move house",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260815/1165342014137438208612749.png/P-EXRLDnS0wXRTx5pJt1b_NnRshtZEXlfhAPu34QD7s?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60380295/%E5%BC%B5%E8%87%B4%E6%81%92%E5%B1%8B%E4%BC%81%E8%A2%AB%E6%88%AA%E9%9B%BB%E5%86%8D%E6%AC%A0%E7%A7%9F-%E9%9B%AF%E9%9B%AF%E7%88%86%E4%B8%80%E5%AE%B6%E5%85%AD%E5%8F%A3%E8%A2%AB%E9%80%BC%E9%81%B7-move-house",
+    "timestamp": "2026-08-15T09:30:52.881Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "北都大學城｜蔡若蓮：9月推洪水橋用地　供有意進駐專上院校申請",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260814/1165003150654967808328507.png/3GpSODmhON0nE9rqF-CZVtjqNlhM0rLVSPLi50jy4uc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60380114/%E8%B6%99%E9%9C%B2%E6%80%9D%E5%BE%A9%E5%B7%A5%E5%8D%A1%E9%97%9C-%E5%8E%9F%E5%AE%9A8%E6%9C%88%E9%80%B2%E7%B5%84-%E5%82%B3%E5%9B%A0%E6%8B%92%E7%B0%BD-%E9%99%84%E5%8A%A0%E5%8D%94%E8%AD%B0-%E9%81%AD%E5%8A%87%E7%B5%84%E9%80%80%E8%B2%A8",
     "timestamp": "2026-08-15T01:37:59.270Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "《愛回家》被指新不如舊　潘靜文理解觀眾要適應：有評語即係有睇",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260814/1165063936060428288034915.jpeg/NQxYdtfXuQGSbAMOx8mcdbGY4NtxONkBR5vlTkeb5U4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60379837/%E6%84%9B%E5%9B%9E%E5%AE%B6-%E8%A2%AB%E6%8C%87%E6%96%B0%E4%B8%8D%E5%A6%82%E8%88%8A-%E6%BD%98%E9%9D%9C%E6%96%87%E7%90%86%E8%A7%A3%E8%A7%80%E7%9C%BE%E8%A6%81%E9%81%A9%E6%87%89-%E6%9C%89%E8%A9%95%E8%AA%9E%E5%8D%B3%E4%BF%82%E6%9C%89%E7%9D%87",
-    "timestamp": "2026-08-15T00:54:16.287Z",
     "strategy": ".content-card__main"
   }
 ];
