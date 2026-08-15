@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-15T16:29:43.180Z
+// Last updated: 2026-08-15T16:45:36.666Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "乒乓WTT瑞典大滿貫｜黃鎮廷陳顥樺無緣衛冕　決賽負法國眼鏡兄弟",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260816/1165458358308704256308629.jpeg/N6bGXnmELdOozQlhBDj1DNSxo51_41amaSo2mWkqNpk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60380361/%E4%B9%92%E4%B9%93wtt%E7%91%9E%E5%85%B8%E5%A4%A7%E6%BB%BF%E8%B2%AB-%E9%BB%83%E9%8E%AE%E5%BB%B7%E9%99%B3%E9%A1%A5%E6%A8%BA%E7%84%A1%E7%B7%A3%E8%A1%9B%E5%86%95-%E6%B1%BA%E8%B3%BD%E8%B2%A0%E6%B3%95%E5%9C%8B%E7%9C%BC%E9%8F%A1%E5%85%84%E5%BC%9F",
+    "timestamp": "2026-08-15T16:45:36.666Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "Mastercard全球性故障包括香港用戶無法刷卡　專家料系統升級異常",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260815/1165342758047584256712438.jpeg/WLNYMURhsJpG2wKUOoBHG9OmWPRaFLbugglL_-gJS_8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60380293/%E7%B4%90%E7%B4%84%E7%94%B7%E6%AE%BA%E5%AE%B3%E5%89%8D%E5%A5%B3%E5%8F%8B%E5%BE%8C%E5%88%86%E5%B1%8D-%E8%88%87%E5%B1%8D%E5%A1%8A%E5%90%8C%E4%BD%8F%E4%B8%80%E5%80%8B%E6%9C%88%E5%A7%8B%E6%8F%AD%E7%99%BC-%E8%A2%AB%E5%88%A4%E7%84%A1%E6%9C%9F%E5%BE%92%E5%88%91",
     "timestamp": "2026-08-15T11:10:55.009Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "迪士尼D23大曬冷《優獸大都會3》啟動　黃子華容祖兒有望回歸獻聲",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260815/1165354274536820736415083.jpeg/8pOA5CM-baiKz_9BZFFCnrGdBfe-mHJsbPJylmzycpY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60380302/%E8%BF%AA%E5%A3%AB%E5%B0%BCd23%E5%A4%A7%E6%9B%AC%E5%86%B7-%E5%84%AA%E7%8D%B8%E5%A4%A7%E9%83%BD%E6%9C%833-%E5%95%9F%E5%8B%95-%E9%BB%83%E5%AD%90%E8%8F%AF%E5%AE%B9%E7%A5%96%E5%85%92%E6%9C%89%E6%9C%9B%E5%9B%9E%E6%AD%B8%E7%8D%BB%E8%81%B2",
-    "timestamp": "2026-08-15T11:02:43.363Z",
     "strategy": ".content-card__main"
   }
 ];
