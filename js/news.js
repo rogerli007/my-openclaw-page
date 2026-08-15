@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-15T22:44:17.139Z
+// Last updated: 2026-08-15T22:57:03.399Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "將軍澳七人車撞壆衝前50米翻側　3人一度被困受傷獲救　1人送院",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260816/1165546614077526016863209.jpeg/b8Vc5k49LBBQ5gh6g5jcrbZV6gXU0BWRWHJbqmJyW6o?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60380378/%E5%B0%87%E8%BB%8D%E6%BE%B3%E4%B8%83%E4%BA%BA%E8%BB%8A%E6%92%9E%E5%A3%86%E8%A1%9D%E5%89%8D50%E7%B1%B3%E7%BF%BB%E5%81%B4-3%E4%BA%BA%E4%B8%80%E5%BA%A6%E8%A2%AB%E5%9B%B0%E5%8F%97%E5%82%B7%E7%8D%B2%E6%95%91-1%E4%BA%BA%E9%80%81%E9%99%A2",
+    "timestamp": "2026-08-15T22:57:03.399Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "厄瓜多爾總統諾沃亞抵京　展開為期8日首次國事訪問",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260813/1164614429304688640729864.jpeg/xMOop5n-Qy_7pyyOKhIzdMqVw8U0zAzOr4JwlK-CcJQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60380368/%E5%8F%A4%E6%B4%9Epark-silicon%E4%BA%8C%E6%9C%9F%E5%91%A8%E6%97%A5%E5%83%B9%E5%96%AE%E9%96%8B%E8%B3%A382%E4%BC%99-%E7%B4%AF%E6%94%B6%E9%80%BE2500%E7%A5%A8-%E8%B6%85%E8%B3%BC30%E5%80%8D",
     "timestamp": "2026-08-15T17:11:57.135Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "乒乓WTT瑞典大滿貫｜黃鎮廷陳顥樺無緣衛冕　決賽負法國眼鏡兄弟",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260816/1165458358308704256308629.jpeg/N6bGXnmELdOozQlhBDj1DNSxo51_41amaSo2mWkqNpk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60380361/%E4%B9%92%E4%B9%93wtt%E7%91%9E%E5%85%B8%E5%A4%A7%E6%BB%BF%E8%B2%AB-%E9%BB%83%E9%8E%AE%E5%BB%B7%E9%99%B3%E9%A1%A5%E6%A8%BA%E7%84%A1%E7%B7%A3%E8%A1%9B%E5%86%95-%E6%B1%BA%E8%B3%BD%E8%B2%A0%E6%B3%95%E5%9C%8B%E7%9C%BC%E9%8F%A1%E5%85%84%E5%BC%9F",
-    "timestamp": "2026-08-15T16:45:36.666Z",
     "strategy": ".content-card__main"
   }
 ];
