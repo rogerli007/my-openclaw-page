@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-15T06:34:33.131Z
+// Last updated: 2026-08-15T07:18:19.818Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美國商務部長：華府不贊成蘋果購買中國記憶體晶片",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260423/1123924512732090368178524.jpeg/zbpWMLQstvaNYVPtHuJs3yU2dtEpzWdMNn1QYTZ9UGE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60380271/%E7%BE%8E%E5%9C%8B%E5%95%86%E5%8B%99%E9%83%A8%E9%95%B7-%E8%8F%AF%E5%BA%9C%E4%B8%8D%E8%B4%8A%E6%88%90%E8%98%8B%E6%9E%9C%E8%B3%BC%E8%B2%B7%E4%B8%AD%E5%9C%8B%E8%A8%98%E6%86%B6%E9%AB%94%E6%99%B6%E7%89%87",
+    "timestamp": "2026-08-15T07:18:19.818Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "有人疑穿女警制服跳舞拍抖音片　警方正了解：如違規必嚴正處理",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260815/1165183957818413056301752.png/It3X21RaH4s_bGeMHkXkYViUhrHNwQ37lBG7OJQRuzg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60380196/%E5%9C%B0%E4%B8%AD%E6%B5%B7%E5%9C%B0%E9%9C%87%E4%B8%AD%E5%BF%83-%E5%8D%B0%E5%B0%BC%E6%B2%BF%E6%B5%B7%E7%99%BC%E7%94%9F6-2%E7%B4%9A%E5%9C%B0%E9%9C%87",
     "timestamp": "2026-08-14T22:58:22.878Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "地中海地震中心：印尼沿海發生6.2級地震",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260815/1165183957818413056301752.png/It3X21RaH4s_bGeMHkXkYViUhrHNwQ37lBG7OJQRuzg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60380196/%E5%9C%B0%E4%B8%AD%E6%B5%B7%E5%9C%B0%E9%9C%87%E4%B8%AD%E5%BF%83-%E5%8D%B0%E5%B0%BC%E6%B2%BF%E6%B5%B7%E7%99%BC%E7%94%9F6-2%E7%B4%9A%E5%9C%B0%E9%9C%87",
-    "timestamp": "2026-08-14T22:45:14.437Z",
     "strategy": ".content-card__main"
   }
 ];
