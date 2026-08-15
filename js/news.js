@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-15T08:48:08.457Z
+// Last updated: 2026-08-15T09:15:38.217Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "北都大學城｜蔡若蓮：9月推洪水橋用地　供有意進駐專上院校申請",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260527/1136311523375845376256874.png/qLiewAy_y-Q3X-LgX600sEOdFbKWN3_0oCAFjKAgBYw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60380291/%E5%8C%97%E9%83%BD%E5%A4%A7%E5%AD%B8%E5%9F%8E-%E8%94%A1%E8%8B%A5%E8%93%AE-9%E6%9C%88%E6%8E%A8%E6%B4%AA%E6%B0%B4%E6%A9%8B%E7%94%A8%E5%9C%B0-%E4%BE%9B%E6%9C%89%E6%84%8F%E9%80%B2%E9%A7%90%E5%B0%88%E4%B8%8A%E9%99%A2%E6%A0%A1%E7%94%B3%E8%AB%8B",
+    "timestamp": "2026-08-15T09:15:38.217Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "港產BL劇《煙灰》觀影會大熱爆滿　3大180cm男主現身近距離互動",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260814/1165063936060428288034915.jpeg/NQxYdtfXuQGSbAMOx8mcdbGY4NtxONkBR5vlTkeb5U4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60379837/%E6%84%9B%E5%9B%9E%E5%AE%B6-%E8%A2%AB%E6%8C%87%E6%96%B0%E4%B8%8D%E5%A6%82%E8%88%8A-%E6%BD%98%E9%9D%9C%E6%96%87%E7%90%86%E8%A7%A3%E8%A7%80%E7%9C%BE%E8%A6%81%E9%81%A9%E6%87%89-%E6%9C%89%E8%A9%95%E8%AA%9E%E5%8D%B3%E4%BF%82%E6%9C%89%E7%9D%87",
     "timestamp": "2026-08-15T00:54:16.287Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "乒乓WTT瑞典大滿貫｜黃鎮廷陳顥樺爭衛冕差一步　偕女雙雙線爭冠",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260815/1165211463606865920816704.png/0j9lzFbNg7mpLktY1b43QcLT6tx4-oPN57dPnee3T50?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60380201/%E4%B9%92%E4%B9%93wtt%E7%91%9E%E5%85%B8%E5%A4%A7%E6%BB%BF%E8%B2%AB-%E9%BB%83%E9%8E%AE%E5%BB%B7%E9%99%B3%E9%A1%A5%E6%A8%BA%E7%88%AD%E8%A1%9B%E5%86%95%E5%B7%AE%E4%B8%80%E6%AD%A5-%E5%81%95%E5%A5%B3%E9%9B%99%E9%9B%99%E7%B7%9A%E7%88%AD%E5%86%A0",
-    "timestamp": "2026-08-15T00:23:44.453Z",
     "strategy": ".content-card__main"
   }
 ];
