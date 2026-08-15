@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-15T22:10:46.501Z
+// Last updated: 2026-08-15T22:44:17.139Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "厄瓜多爾總統諾沃亞抵京　展開為期8日首次國事訪問",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260816/1165541074987388928483791.jpeg/fONHbDwBChSJPc2VNkPSpDRNVPsOZEytX-ACTl_gAk4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60380377/%E5%8E%84%E7%93%9C%E5%A4%9A%E7%88%BE%E7%B8%BD%E7%B5%B1%E8%AB%BE%E6%B2%83%E4%BA%9E%E6%8A%B5%E4%BA%AC-%E5%B1%95%E9%96%8B%E7%82%BA%E6%9C%9F8%E6%97%A5%E9%A6%96%E6%AC%A1%E5%9C%8B%E4%BA%8B%E8%A8%AA%E5%95%8F",
+    "timestamp": "2026-08-15T22:44:17.139Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "天氣｜預料日間短暫有陽光及酷熱　有幾陣驟雨　局部地區有雷暴",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260816/1165458358308704256308629.jpeg/N6bGXnmELdOozQlhBDj1DNSxo51_41amaSo2mWkqNpk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60380361/%E4%B9%92%E4%B9%93wtt%E7%91%9E%E5%85%B8%E5%A4%A7%E6%BB%BF%E8%B2%AB-%E9%BB%83%E9%8E%AE%E5%BB%B7%E9%99%B3%E9%A1%A5%E6%A8%BA%E7%84%A1%E7%B7%A3%E8%A1%9B%E5%86%95-%E6%B1%BA%E8%B3%BD%E8%B2%A0%E6%B3%95%E5%9C%8B%E7%9C%BC%E9%8F%A1%E5%85%84%E5%BC%9F",
     "timestamp": "2026-08-15T16:45:36.666Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "Mastercard全球性故障包括香港用戶無法刷卡　專家料系統升級異常",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/2388412/org/a72f8606bf787624c7ec9b744b28bca5.JPG/eVMTh6MqqKc3opLMyQy_Os88yPD7RS1aTCWNwkwljcI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60380359/mastercard%E5%85%A8%E7%90%83%E6%80%A7%E6%95%85%E9%9A%9C%E5%8C%85%E6%8B%AC%E9%A6%99%E6%B8%AF%E7%94%A8%E6%88%B6%E7%84%A1%E6%B3%95%E5%88%B7%E5%8D%A1-%E5%B0%88%E5%AE%B6%E6%96%99%E7%B3%BB%E7%B5%B1%E5%8D%87%E7%B4%9A%E7%95%B0%E5%B8%B8",
-    "timestamp": "2026-08-15T16:29:43.180Z",
     "strategy": ".content-card__main"
   }
 ];
