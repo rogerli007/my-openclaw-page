@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-15T14:57:19.546Z
+// Last updated: 2026-08-15T15:11:00.380Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "末世行者｜列尼史葛轉戰後末日世代　疫症後四處神秘荒涼感同身受",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260815/1165338705561391104804375.jpeg/vRl9wGvdMaO3fNLJxRwYPQDlcPBkFgFEJzfLBSc3ywU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60380294/%E6%9C%AB%E4%B8%96%E8%A1%8C%E8%80%85-%E5%88%97%E5%B0%BC%E5%8F%B2%E8%91%9B%E8%BD%89%E6%88%B0%E5%BE%8C%E6%9C%AB%E6%97%A5%E4%B8%96%E4%BB%A3-%E7%96%AB%E7%97%87%E5%BE%8C%E5%9B%9B%E8%99%95%E7%A5%9E%E7%A7%98%E8%8D%92%E6%B6%BC%E6%84%9F%E5%90%8C%E8%BA%AB%E5%8F%97",
+    "timestamp": "2026-08-15T15:11:00.380Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "東張西望｜外傭疑加尿沐浴露　朱文慧試聞用力索秒變臉：有陣餲味",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260527/1136311523375845376256874.png/qLiewAy_y-Q3X-LgX600sEOdFbKWN3_0oCAFjKAgBYw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60380291/%E5%8C%97%E9%83%BD%E5%A4%A7%E5%AD%B8%E5%9F%8E-%E8%94%A1%E8%8B%A5%E8%93%AE-9%E6%9C%88%E6%8E%A8%E6%B4%AA%E6%B0%B4%E6%A9%8B%E7%94%A8%E5%9C%B0-%E4%BE%9B%E6%9C%89%E6%84%8F%E9%80%B2%E9%A7%90%E5%B0%88%E4%B8%8A%E9%99%A2%E6%A0%A1%E7%94%B3%E8%AB%8B",
     "timestamp": "2026-08-15T09:15:38.217Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "港產BL劇《煙灰》觀影會大熱爆滿　3大180cm男主現身近距離互動",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260814/1165064961857163264497065.jpeg/Fg2bJUY-fGqkxyfYTlw1mjGlQCA5_n-Bxnu03cZ7tN0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60380175/%E6%B8%AF%E7%94%A2bl%E5%8A%87-%E7%85%99%E7%81%B0-%E8%A7%80%E5%BD%B1%E6%9C%83%E5%A4%A7%E7%86%B1%E7%88%86%E6%BB%BF-3%E5%A4%A7180cm%E7%94%B7%E4%B8%BB%E7%8F%BE%E8%BA%AB%E8%BF%91%E8%B7%9D%E9%9B%A2%E4%BA%92%E5%8B%95",
-    "timestamp": "2026-08-15T08:48:08.457Z",
     "strategy": ".content-card__main"
   }
 ];
