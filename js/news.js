@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-15T11:02:43.363Z
+// Last updated: 2026-08-15T11:10:55.009Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "紐約男殺害前女友後分屍　與屍塊同住一個月始揭發　被判無期徒刑",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260815/1165342758047584256712438.jpeg/WLNYMURhsJpG2wKUOoBHG9OmWPRaFLbugglL_-gJS_8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60380293/%E7%B4%90%E7%B4%84%E7%94%B7%E6%AE%BA%E5%AE%B3%E5%89%8D%E5%A5%B3%E5%8F%8B%E5%BE%8C%E5%88%86%E5%B1%8D-%E8%88%87%E5%B1%8D%E5%A1%8A%E5%90%8C%E4%BD%8F%E4%B8%80%E5%80%8B%E6%9C%88%E5%A7%8B%E6%8F%AD%E7%99%BC-%E8%A2%AB%E5%88%A4%E7%84%A1%E6%9C%9F%E5%BE%92%E5%88%91",
+    "timestamp": "2026-08-15T11:10:55.009Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "迪士尼D23大曬冷《優獸大都會3》啟動　黃子華容祖兒有望回歸獻聲",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260815/1165264563537448960427689.jpeg/zZ3FdKD2eDw58Ahl3cf4JfohNO0WDZzbrNaDIazWgyE?v=w1920",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60380240/%E6%9C%89%E7%89%87-%E4%BF%84%E5%9C%8B%E5%9C%B0%E7%9B%A4%E4%B8%AD%E5%9C%8B%E5%B7%A5%E4%BA%BA%E8%A8%8E%E8%96%AA%E8%A2%AB%E6%8D%95-%E9%80%BE%E5%8D%83%E5%90%8C%E8%83%9E%E5%8C%85%E5%9C%8D%E8%AD%A6%E8%BB%8A%E5%94%B1%E5%9C%8B%E6%AD%8C%E9%80%BC%E6%94%BE%E4%BA%BA",
     "timestamp": "2026-08-15T04:16:30.291Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "印尼發生7.7級地震　大量建築倒塌　數名登船旅客被拋落水｜有片",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260815/1165258549837041664963184.png/XrVXl2BsfKG88z94CyS0iIOVqtHDF4y87cKT9O3Ck_Q?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60380234/%E5%8D%B0%E5%B0%BC%E7%99%BC%E7%94%9F7-7%E7%B4%9A%E5%9C%B0%E9%9C%87-%E5%A4%A7%E9%87%8F%E5%BB%BA%E7%AF%89%E5%80%92%E5%A1%8C-%E6%95%B8%E5%90%8D%E7%99%BB%E8%88%B9%E6%97%85%E5%AE%A2%E8%A2%AB%E6%8B%8B%E8%90%BD%E6%B0%B4-%E6%9C%89%E7%89%87",
-    "timestamp": "2026-08-15T03:56:09.012Z",
     "strategy": ".content-card__main"
   }
 ];
