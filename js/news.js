@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-14T23:57:42.066Z
+// Last updated: 2026-08-15T00:23:44.453Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "乒乓WTT瑞典大滿貫｜黃鎮廷陳顥樺爭衛冕差一步　偕女雙雙線爭冠",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260815/1165211463606865920816704.png/0j9lzFbNg7mpLktY1b43QcLT6tx4-oPN57dPnee3T50?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60380201/%E4%B9%92%E4%B9%93wtt%E7%91%9E%E5%85%B8%E5%A4%A7%E6%BB%BF%E8%B2%AB-%E9%BB%83%E9%8E%AE%E5%BB%B7%E9%99%B3%E9%A1%A5%E6%A8%BA%E7%88%AD%E8%A1%9B%E5%86%95%E5%B7%AE%E4%B8%80%E6%AD%A5-%E5%81%95%E5%A5%B3%E9%9B%99%E9%9B%99%E7%B7%9A%E7%88%AD%E5%86%A0",
+    "timestamp": "2026-08-15T00:23:44.453Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "天津劫殺懸案時隔29年告破　殘留DNA助破案　最後1名逃犯韓國落網",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260814/1165080682364407808318724.jpeg/1OanQ0GTtd6Up9wYr4a-2bGjiV-cZ3dG0bb1i9G29Ys?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60379869/%E6%9C%80%E6%96%B0%E5%A4%A9%E6%B0%A3-%E5%A4%A9%E6%96%87%E5%8F%B0-%E6%9C%AA%E4%BE%86%E6%95%B8%E5%B0%8F%E6%99%82%E6%9C%AC%E6%B8%AF%E9%83%A8%E5%88%86%E5%9C%B0%E5%8D%80%E9%9B%A8%E5%8B%A2%E8%BC%83%E5%A4%A7%E5%8F%8A%E6%9C%89%E7%8B%82%E9%A2%A8%E9%9B%B7%E6%9A%B4",
     "timestamp": "2026-08-14T16:37:57.751Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "英國24小時發生第二起列車出軌　專家稱熱浪疑為肇因之一",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260815/1165086771935973376105328.png/1R6M0149sveQJiddulvoHclHFeiGG8arupz72bqc-9k?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60380178/%E8%8B%B1%E5%9C%8B24%E5%B0%8F%E6%99%82%E7%99%BC%E7%94%9F%E7%AC%AC%E4%BA%8C%E8%B5%B7%E5%88%97%E8%BB%8A%E5%87%BA%E8%BB%8C-%E5%B0%88%E5%AE%B6%E7%A8%B1%E7%86%B1%E6%B5%AA%E7%96%91%E7%82%BA%E8%82%87%E5%9B%A0%E4%B9%8B%E4%B8%80",
-    "timestamp": "2026-08-14T16:08:34.419Z",
     "strategy": ".content-card__main"
   }
 ];
