@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-15T09:30:52.881Z
+// Last updated: 2026-08-15T09:45:59.874Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "拳王鄒市明忍無可忍發文護妻闢謠　駁斥利益輸送和換老公不實傳聞",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260814/1164894703280197632807124.jpeg/PGWPvzzFFZda1ET3Rs-ZhYpvaN-Et0VovYPNMr2DzTI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60379915/%E6%8B%B3%E7%8E%8B%E9%84%92%E5%B8%82%E6%98%8E%E5%BF%8D%E7%84%A1%E5%8F%AF%E5%BF%8D%E7%99%BC%E6%96%87%E8%AD%B7%E5%A6%BB%E9%97%A2%E8%AC%A0-%E9%A7%81%E6%96%A5%E5%88%A9%E7%9B%8A%E8%BC%B8%E9%80%81%E5%92%8C%E6%8F%9B%E8%80%81%E5%85%AC%E4%B8%8D%E5%AF%A6%E5%82%B3%E8%81%9E",
+    "timestamp": "2026-08-15T09:45:59.874Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "張致恒屋企被截電再欠租？　雯雯爆一家六口被逼遷：Move house",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260813/1164593814912897024742910.jpeg/nexxw0rBSrOGzWiWlJMSf10DgceJtxHacgiPPnIIjz4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%AF%A6%E7%94%A8%E6%95%99%E5%AD%B8/60370562/%E6%89%8B%E6%A9%9F%E6%93%BA%E5%BA%8A%E9%A0%AD%E5%85%85%E9%9B%BB%E7%AA%81%E7%88%86%E7%82%B8%E5%BC%95%E7%81%AB%E7%81%BD-%E6%B6%88%E9%98%B2%E6%8F%AD%E7%86%B1%E5%A4%B1%E6%8E%A7%E5%8E%9F%E5%9B%A0-%E9%99%846%E5%A4%A7%E5%AE%89%E5%85%A8%E7%A6%81%E5%BF%8C",
     "timestamp": "2026-08-15T02:16:30.836Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "趙露思復工卡關？原定8月進組　傳因拒簽「附加協議」遭劇組退貨",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260814/1165003150654967808328507.png/3GpSODmhON0nE9rqF-CZVtjqNlhM0rLVSPLi50jy4uc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60380114/%E8%B6%99%E9%9C%B2%E6%80%9D%E5%BE%A9%E5%B7%A5%E5%8D%A1%E9%97%9C-%E5%8E%9F%E5%AE%9A8%E6%9C%88%E9%80%B2%E7%B5%84-%E5%82%B3%E5%9B%A0%E6%8B%92%E7%B0%BD-%E9%99%84%E5%8A%A0%E5%8D%94%E8%AD%B0-%E9%81%AD%E5%8A%87%E7%B5%84%E9%80%80%E8%B2%A8",
-    "timestamp": "2026-08-15T01:37:59.270Z",
     "strategy": ".content-card__main"
   }
 ];
