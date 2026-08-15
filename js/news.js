@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-15T18:30:33.086Z
+// Last updated: 2026-08-15T18:48:54.219Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "有片│港女等九巴公審被阿伯「視姦」10分鐘　奇招KO惹議：做得好",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260812/1164238625861275648719602.jpeg/pVw7q7jJbw4Q7Imx_2tsGBKJ7tT5jJ3Uw9B6w8PQesM",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60378426/%E6%9C%89%E7%89%87-%E6%B8%AF%E5%A5%B3%E7%AD%89%E4%B9%9D%E5%B7%B4%E5%85%AC%E5%AF%A9%E8%A2%AB%E9%98%BF%E4%BC%AF-%E8%A6%96%E5%A7%A6-10%E5%88%86%E9%90%98-%E5%A5%87%E6%8B%9Bko%E6%83%B9%E8%AD%B0-%E5%81%9A%E5%BE%97%E5%A5%BD",
+    "timestamp": "2026-08-15T18:48:54.219Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "有片│港女等九巴公審被阿伯「視姦」10分鐘　奇招KO惹議：做得好",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260815/1165390365876817920132958.jpeg/bJRJYHv0aq3pzd29KRwVEhDCewGFtnp9mhAD6poQA-o?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60380326/78%E6%AD%B2%E6%B1%AA%E6%98%8E%E8%8D%83%E5%9D%A6%E6%89%BF%E8%A8%98%E6%80%A7%E8%AE%8A%E5%B7%AE%E5%B7%B2%E8%A8%88%E5%8A%83%E9%80%80%E4%BC%91-%E9%BB%9E%E8%A9%95%E5%9B%9B%E5%93%A5%E8%AC%9D%E8%B3%A2%E6%9C%80%E9%A3%9F%E5%BE%97%E4%BD%8F%E5%A5%B9",
     "timestamp": "2026-08-15T13:19:29.499Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "愛回家｜不和風波疑再升級　張景淳以「狼人殺」暗指職場霸凌",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260815/1165376128949424128612754.jpeg/IHk5emzk_v7dt0M8e9lKxDmLBLfGLITMh76_eYe-v3k?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60380325/%E6%84%9B%E5%9B%9E%E5%AE%B6-%E4%B8%8D%E5%92%8C%E9%A2%A8%E6%B3%A2%E7%96%91%E5%86%8D%E5%8D%87%E7%B4%9A-%E5%BC%B5%E6%99%AF%E6%B7%B3%E4%BB%A5-%E7%8B%BC%E4%BA%BA%E6%AE%BA-%E6%9A%97%E6%8C%87%E8%81%B7%E5%A0%B4%E9%9C%B8%E5%87%8C",
-    "timestamp": "2026-08-15T12:53:08.985Z",
     "strategy": ".content-card__main"
   }
 ];
