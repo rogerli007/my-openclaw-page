@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-15T11:10:55.009Z
+// Last updated: 2026-08-15T11:29:11.302Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "可卡因走私｜阿根廷女吞101小膠袋闖羽田被捕　市價2400萬日圓",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260804/1161423310282690560607518.jpeg/eA0m0L9w7jphP8S3XyAz69ufZTaJuBkfV5FxwFeRccA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60380317/%E5%8F%AF%E5%8D%A1%E5%9B%A0%E8%B5%B0%E7%A7%81-%E9%98%BF%E6%A0%B9%E5%BB%B7%E5%A5%B3%E5%90%9E101%E5%B0%8F%E8%86%A0%E8%A2%8B%E9%97%96%E7%BE%BD%E7%94%B0%E8%A2%AB%E6%8D%95-%E5%B8%82%E5%83%B92400%E8%90%AC%E6%97%A5%E5%9C%93",
+    "timestamp": "2026-08-15T11:29:11.302Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "紐約男殺害前女友後分屍　與屍塊同住一個月始揭發　被判無期徒刑",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260815/1165264288143642624054638.jpeg/PibMGnjYs33o3Y7xElYSgi8jua08Q8kGbaU9ZW2lPWU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60380238/%E6%B4%AA%E6%B0%B4%E6%A9%8B%E7%8F%BE%E4%BB%A3%E7%89%A9%E6%B5%81%E5%9C%88-%E9%A6%96%E6%89%B9%E7%94%A8%E5%9C%B0%E9%82%80%E6%84%8F%E5%90%91%E6%9B%B8-%E9%99%B3%E7%BE%8E%E5%AF%B6%E6%96%99%E6%9C%80%E5%BF%AB2027%E5%B9%B4%E5%BA%95%E6%8E%A8%E5%87%BA",
     "timestamp": "2026-08-15T04:32:51.782Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "有片│俄國地盤中國工人討薪被捕　逾千同胞包圍警車唱國歌逼放人",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260815/1165264563537448960427689.jpeg/zZ3FdKD2eDw58Ahl3cf4JfohNO0WDZzbrNaDIazWgyE?v=w1920",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60380240/%E6%9C%89%E7%89%87-%E4%BF%84%E5%9C%8B%E5%9C%B0%E7%9B%A4%E4%B8%AD%E5%9C%8B%E5%B7%A5%E4%BA%BA%E8%A8%8E%E8%96%AA%E8%A2%AB%E6%8D%95-%E9%80%BE%E5%8D%83%E5%90%8C%E8%83%9E%E5%8C%85%E5%9C%8D%E8%AD%A6%E8%BB%8A%E5%94%B1%E5%9C%8B%E6%AD%8C%E9%80%BC%E6%94%BE%E4%BA%BA",
-    "timestamp": "2026-08-15T04:16:30.291Z",
     "strategy": ".content-card__main"
   }
 ];
