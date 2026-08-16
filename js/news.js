@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-16T08:00:28.843Z
+// Last updated: 2026-08-16T08:16:40.241Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "古洞PARK SILICON開賣  同區退休客580萬買一房  贈兒子日後收租",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260816/1165691841471844352092735.jpeg/vebQRdlLrP9frjJxUSHI72gt3GEBBERIKzPgMysz4DM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60380468/%E5%8F%A4%E6%B4%9Epark-silicon%E9%96%8B%E8%B3%A3-%E5%90%8C%E5%8D%80%E9%80%80%E4%BC%91%E5%AE%A2580%E8%90%AC%E8%B2%B7%E4%B8%80%E6%88%BF-%E8%B4%88%E5%85%92%E5%AD%90%E6%97%A5%E5%BE%8C%E6%94%B6%E7%A7%9F",
+    "timestamp": "2026-08-16T08:16:40.241Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "摩洛哥有中國留學生遇襲情況穩定　疑犯已被捕",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260813/1164657294630195200327916.jpeg/P4N3d5eedIsRT8izD53Q2E4KXNHXa-G3WUNS5VlDUuU",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60379802/%E5%9C%B0%E9%90%B5%E5%A5%B3-%E7%8B%82%E6%91%91%E7%94%B7%E5%8F%8B8%E5%B7%B4%E6%8E%8C-%E5%BD%B1%E7%89%87%E7%98%8B%E5%82%B3-%E7%94%B7%E5%8F%8B%E7%A5%9E%E8%88%89%E5%8B%95%E7%8D%B2%E6%BF%80%E8%AE%9A-%E5%A5%BD%E7%94%B7%E4%BA%BA",
     "timestamp": "2026-08-15T23:15:15.087Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "將軍澳七人車撞壆衝前50米翻側　3人一度被困受傷獲救　1人送院",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260816/1165546614077526016863209.jpeg/b8Vc5k49LBBQ5gh6g5jcrbZV6gXU0BWRWHJbqmJyW6o?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60380378/%E5%B0%87%E8%BB%8D%E6%BE%B3%E4%B8%83%E4%BA%BA%E8%BB%8A%E6%92%9E%E5%A3%86%E8%A1%9D%E5%89%8D50%E7%B1%B3%E7%BF%BB%E5%81%B4-3%E4%BA%BA%E4%B8%80%E5%BA%A6%E8%A2%AB%E5%9B%B0%E5%8F%97%E5%82%B7%E7%8D%B2%E6%95%91-1%E4%BA%BA%E9%80%81%E9%99%A2",
-    "timestamp": "2026-08-15T22:57:03.399Z",
     "strategy": ".content-card__main"
   }
 ];
