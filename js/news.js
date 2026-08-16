@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-16T13:19:40.858Z
+// Last updated: 2026-08-16T13:36:29.742Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "鬼月若有「陰陽眼」能看到什麼？網揭4地點鬼常出沒：別冒犯就好",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20240725/893168018291429376194078.jpeg/lzfYLCArZq6R5bT6kuPYAXo_wnTwMs-ny2mOZstpjmY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60380412/%E9%AC%BC%E6%9C%88%E8%8B%A5%E6%9C%89-%E9%99%B0%E9%99%BD%E7%9C%BC-%E8%83%BD%E7%9C%8B%E5%88%B0%E4%BB%80%E9%BA%BC-%E7%B6%B2%E6%8F%AD4%E5%9C%B0%E9%BB%9E%E9%AC%BC%E5%B8%B8%E5%87%BA%E6%B2%92-%E5%88%A5%E5%86%92%E7%8A%AF%E5%B0%B1%E5%A5%BD",
+    "timestamp": "2026-08-16T13:36:29.742Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "韓國時隔16年重啟追討親日派資產　調查委員會料年底起運作",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260816/1165684673469222912892037.jpeg/Zg4KsRjm9vwi2T9HeN-g9Huf3LQ2BuqWVifUy1Yn1Ms?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60380454/%E8%8F%AF%E6%BD%A4%E5%8F%A1%E7%92%9Fi%E6%94%B6%E9%80%BE1-3%E8%90%AC%E7%A5%A8-%E8%B6%85%E9%A1%8D126%E5%80%8D-%E5%8A%A0%E6%8E%A8%E6%96%B0%E5%83%B9%E5%96%AE78%E4%BC%99",
     "timestamp": "2026-08-16T07:48:21.594Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "酒店禁忌｜別敲門說「打擾了」　專家教正確避邪5招：睡覺開小燈",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260814/1164894203675676672439861.png/smVIMulCPjJZeCot9zeBXePwyqO_ctDPIDJbWSAyW1k?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%97%85%E9%81%8A/60379770/%E9%85%92%E5%BA%97%E7%A6%81%E5%BF%8C-%E5%88%A5%E6%95%B2%E9%96%80%E8%AA%AA-%E6%89%93%E6%93%BE%E4%BA%86-%E5%B0%88%E5%AE%B6%E6%95%99%E6%AD%A3%E7%A2%BA%E9%81%BF%E9%82%AA5%E6%8B%9B-%E7%9D%A1%E8%A6%BA%E9%96%8B%E5%B0%8F%E7%87%88",
-    "timestamp": "2026-08-16T07:06:35.697Z",
     "strategy": ".content-card__main"
   }
 ];
