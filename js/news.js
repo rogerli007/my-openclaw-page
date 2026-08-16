@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-16T06:18:04.571Z
+// Last updated: 2026-08-16T06:35:59.987Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美航母林肯號被指環境惡劣有士兵想跳海　中央司令部司令前往視察",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260816/1165665574034870272927056.jpeg/-rSP4HTlwLBV2RqUNoG1kW3uNfaFIOrg-xsJG_sbCRs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60380437/%E7%BE%8E%E8%88%AA%E6%AF%8D%E6%9E%97%E8%82%AF%E8%99%9F%E8%A2%AB%E6%8C%87%E7%92%B0%E5%A2%83%E6%83%A1%E5%8A%A3%E6%9C%89%E5%A3%AB%E5%85%B5%E6%83%B3%E8%B7%B3%E6%B5%B7-%E4%B8%AD%E5%A4%AE%E5%8F%B8%E4%BB%A4%E9%83%A8%E5%8F%B8%E4%BB%A4%E5%89%8D%E5%BE%80%E8%A6%96%E5%AF%9F",
+    "timestamp": "2026-08-16T06:35:59.987Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "朱鎔基逝世｜遺體18日火化　多地將下半旗誌哀包括香港",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260816/1165528769360826368987163.png/89_Ay8fZo5EEMtbcXGAUDqwZgANvygxyOT8_eTk_P3k?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60380376/%E6%B3%95%E5%9C%8B%E5%A4%9A%E5%9C%B0%E6%9E%97%E7%81%AB%E7%8B%82%E7%87%92-%E9%A6%AC%E5%85%8B%E9%BE%8D%E9%A8%8E%E6%B0%B4%E4%B8%8A%E6%91%A9%E6%89%98%E8%BB%8A%E7%85%A7%E7%89%87%E6%8E%80%E7%88%AD%E8%AD%B0",
     "timestamp": "2026-08-15T21:56:30.070Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "慎入！陰囊長滿痘痘　年輕男硬擠流血怕性病　醫生證實異位皮脂腺",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260813/1164650585404739584748036.png/RBsGtBAsLiDiJ_CAL3LNtdqUst6nd0lyCdWNdAnVjXQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60379439/%E6%85%8E%E5%85%A5-%E9%99%B0%E5%9B%8A%E9%95%B7%E6%BB%BF%E7%97%98%E7%97%98-%E5%B9%B4%E8%BC%95%E7%94%B7%E7%A1%AC%E6%93%A0%E6%B5%81%E8%A1%80%E6%80%95%E6%80%A7%E7%97%85-%E9%86%AB%E7%94%9F%E8%AD%89%E5%AF%A6%E7%95%B0%E4%BD%8D%E7%9A%AE%E8%84%82%E8%85%BA",
-    "timestamp": "2026-08-15T21:42:59.809Z",
     "strategy": ".content-card__main"
   }
 ];
