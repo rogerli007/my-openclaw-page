@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-16T08:48:55.687Z
+// Last updated: 2026-08-16T09:06:05.896Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "軟科世界大學排名｜本港2院校躋身百強　港大排62位　城大排第95",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20220615/613766779960823808753406.jpeg/nxmG_V6ZN4baJJ6MMeMnNJe7_zIQ4ye2oaw4qqGsOKo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%B0%88%E4%B8%8A%E6%95%99%E8%82%B2/60380451/%E8%BB%9F%E7%A7%91%E4%B8%96%E7%95%8C%E5%A4%A7%E5%AD%B8%E6%8E%92%E5%90%8D-%E6%9C%AC%E6%B8%AF2%E9%99%A2%E6%A0%A1%E8%BA%8B%E8%BA%AB%E7%99%BE%E5%BC%B7-%E6%B8%AF%E5%A4%A7%E6%8E%9262%E4%BD%8D-%E5%9F%8E%E5%A4%A7%E6%8E%92%E7%AC%AC95",
+    "timestamp": "2026-08-16T09:06:05.896Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "T.O.P選香港作見面會首站有原因　20句廣東話狂冧fans：香港世一",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260617/1143853507527315456962780.jpeg/LysTgPtd6WiDWZM6qkmluZHgFN4iugPkWUnat1lJ2rc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60380380/%E8%8B%B1%E5%81%89%E9%81%94%E6%8A%AB%E9%9C%B2spacex%E6%8C%81%E5%80%89-210%E5%84%84%E7%BE%8E%E5%85%83%E6%8A%BC%E6%B3%A8%E9%A6%AC%E6%96%AF%E5%85%8B%E7%81%AB%E7%AE%AD",
     "timestamp": "2026-08-16T00:24:17.920Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "日本千葉豪雨死者增至9人　1200車棄置路上　水淹住宅逾千棟",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260816/1165562277835837440721304.png/CCEqDNvBzX3gBYEGfbF0LWbIjyjn8aVwAw9UuwMPVLs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60380379/%E6%97%A5%E6%9C%AC%E5%8D%83%E8%91%89%E8%B1%AA%E9%9B%A8%E6%AD%BB%E8%80%85%E5%A2%9E%E8%87%B39%E4%BA%BA-1200%E8%BB%8A%E6%A3%84%E7%BD%AE%E8%B7%AF%E4%B8%8A-%E6%B0%B4%E6%B7%B9%E4%BD%8F%E5%AE%85%E9%80%BE%E5%8D%83%E6%A3%9F",
-    "timestamp": "2026-08-15T23:56:31.837Z",
     "strategy": ".content-card__main"
   }
 ];
