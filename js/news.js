@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-16T19:42:22.148Z
+// Last updated: 2026-08-16T19:55:14.760Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "埃及總統晤特朗普女婿談加沙局勢　多國聯合譴責以色列",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260817/1165838620834140160748960.jpeg/w57qwYp2VStg1c5zM1eJj064Gui4iTt6g4pQx4OKUMc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60380549/%E5%9F%83%E5%8F%8A%E7%B8%BD%E7%B5%B1%E6%99%A4%E7%89%B9%E6%9C%97%E6%99%AE%E5%A5%B3%E5%A9%BF%E8%AB%87%E5%8A%A0%E6%B2%99%E5%B1%80%E5%8B%A2-%E5%A4%9A%E5%9C%8B%E8%81%AF%E5%90%88%E8%AD%B4%E8%B2%AC%E4%BB%A5%E8%89%B2%E5%88%97",
+    "timestamp": "2026-08-16T19:55:14.760Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "九龍城小狗突衝出馬路　好心鐵騎路中央救狗　網民轟主人無繫繩",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260816/1165678825225326592947360.png/CnJ5hoo2NNkgrERa5m8ug_m8Pc77Pen2bLHsiGyx7Ig?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60380449/%E7%9F%AD%E5%8A%87%E5%A5%B3%E6%BC%94%E5%93%A1%E6%8B%8D%E8%BB%8A%E7%A6%8D%E6%88%B2%E7%AB%9F%E9%81%AD-%E7%9C%9F%E6%92%9E-%E7%84%A1%E9%98%B2%E8%AD%B7%E6%8E%AA%E6%96%BD%E9%A0%AD%E9%83%A8%E9%87%8D%E6%91%94%E6%8F%AD%E9%A9%9A%E4%BA%BA%E5%82%B7%E5%8B%A2",
     "timestamp": "2026-08-16T14:45:12.460Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "告別大熊貓逾半年　東京上野動物園拆卸東園展館　民眾不捨道別",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260816/1165785775195820032589167.png/Jh01GHkRdOJClRuyBCblHtmONigRPFASuC3Ur7gt1K8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60380536/%E5%91%8A%E5%88%A5%E5%A4%A7%E7%86%8A%E8%B2%93%E9%80%BE%E5%8D%8A%E5%B9%B4-%E6%9D%B1%E4%BA%AC%E4%B8%8A%E9%87%8E%E5%8B%95%E7%89%A9%E5%9C%92%E6%8B%86%E5%8D%B8%E6%9D%B1%E5%9C%92%E5%B1%95%E9%A4%A8-%E6%B0%91%E7%9C%BE%E4%B8%8D%E6%8D%A8%E9%81%93%E5%88%A5",
-    "timestamp": "2026-08-16T14:29:29.462Z",
     "strategy": ".content-card__main"
   }
 ];
