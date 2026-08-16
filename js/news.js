@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-16T00:24:17.920Z
+// Last updated: 2026-08-16T00:55:06.489Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "貝森特：美國進一步經濟打擊伊朗　美媒猜測五大可能措施",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260722/1156545008921219072045261.jpeg/CwGPuVTgDXpAUp1PZpqwZ3Fd2gZEChZuOJaPITiWjyE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60380383/%E8%B2%9D%E6%A3%AE%E7%89%B9-%E7%BE%8E%E5%9C%8B%E9%80%B2%E4%B8%80%E6%AD%A5%E7%B6%93%E6%BF%9F%E6%89%93%E6%93%8A%E4%BC%8A%E6%9C%97-%E7%BE%8E%E5%AA%92%E7%8C%9C%E6%B8%AC%E4%BA%94%E5%A4%A7%E5%8F%AF%E8%83%BD%E6%8E%AA%E6%96%BD",
+    "timestamp": "2026-08-16T00:55:06.489Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "英偉達披露SpaceX持倉：210億美元押注馬斯克火箭",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260812/1164238625861275648719602.jpeg/pVw7q7jJbw4Q7Imx_2tsGBKJ7tT5jJ3Uw9B6w8PQesM",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60378426/%E6%9C%89%E7%89%87-%E6%B8%AF%E5%A5%B3%E7%AD%89%E4%B9%9D%E5%B7%B4%E5%85%AC%E5%AF%A9%E8%A2%AB%E9%98%BF%E4%BC%AF-%E8%A6%96%E5%A7%A6-10%E5%88%86%E9%90%98-%E5%A5%87%E6%8B%9Bko%E6%83%B9%E8%AD%B0-%E5%81%9A%E5%BE%97%E5%A5%BD",
     "timestamp": "2026-08-15T18:30:33.086Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "有片│港女等九巴公審被阿伯「視姦」10分鐘　奇招KO惹議：做得好",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260812/1164238625861275648719602.jpeg/pVw7q7jJbw4Q7Imx_2tsGBKJ7tT5jJ3Uw9B6w8PQesM",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60378426/%E6%9C%89%E7%89%87-%E6%B8%AF%E5%A5%B3%E7%AD%89%E4%B9%9D%E5%B7%B4%E5%85%AC%E5%AF%A9%E8%A2%AB%E9%98%BF%E4%BC%AF-%E8%A6%96%E5%A7%A6-10%E5%88%86%E9%90%98-%E5%A5%87%E6%8B%9Bko%E6%83%B9%E8%AD%B0-%E5%81%9A%E5%BE%97%E5%A5%BD",
-    "timestamp": "2026-08-15T18:13:23.204Z",
     "strategy": ".content-card__main"
   }
 ];
