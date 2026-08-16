@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-16T06:01:05.278Z
+// Last updated: 2026-08-16T06:18:04.571Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "朱鎔基逝世｜遺體18日火化　多地將下半旗誌哀包括香港",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260816/1165661209089806336354821.jpeg/_JsRqwiYkKLExSeqIJDZ-ZTJfQkdjUMD0ReUudEXlLk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60380432/%E6%9C%B1%E9%8E%94%E5%9F%BA%E9%80%9D%E4%B8%96-%E9%81%BA%E9%AB%9418%E6%97%A5%E7%81%AB%E5%8C%96-%E5%A4%9A%E5%9C%B0%E5%B0%87%E4%B8%8B%E5%8D%8A%E6%97%97%E8%AA%8C%E5%93%80%E5%8C%85%E6%8B%AC%E9%A6%99%E6%B8%AF",
+    "timestamp": "2026-08-16T06:18:04.571Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "神舟廿三號在軌逾80天　黎家盈與隊友抽血助研究太空人生理變化",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260813/1164650585404739584748036.png/RBsGtBAsLiDiJ_CAL3LNtdqUst6nd0lyCdWNdAnVjXQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60379439/%E6%85%8E%E5%85%A5-%E9%99%B0%E5%9B%8A%E9%95%B7%E6%BB%BF%E7%97%98%E7%97%98-%E5%B9%B4%E8%BC%95%E7%94%B7%E7%A1%AC%E6%93%A0%E6%B5%81%E8%A1%80%E6%80%95%E6%80%A7%E7%97%85-%E9%86%AB%E7%94%9F%E8%AD%89%E5%AF%A6%E7%95%B0%E4%BD%8D%E7%9A%AE%E8%84%82%E8%85%BA",
     "timestamp": "2026-08-15T21:42:59.809Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "慎入！陰囊長滿痘痘　年輕男硬擠流血怕性病　醫生證實異位皮脂腺",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260813/1164650585404739584748036.png/RBsGtBAsLiDiJ_CAL3LNtdqUst6nd0lyCdWNdAnVjXQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60379439/%E6%85%8E%E5%85%A5-%E9%99%B0%E5%9B%8A%E9%95%B7%E6%BB%BF%E7%97%98%E7%97%98-%E5%B9%B4%E8%BC%95%E7%94%B7%E7%A1%AC%E6%93%A0%E6%B5%81%E8%A1%80%E6%80%95%E6%80%A7%E7%97%85-%E9%86%AB%E7%94%9F%E8%AD%89%E5%AF%A6%E7%95%B0%E4%BD%8D%E7%9A%AE%E8%84%82%E8%85%BA",
-    "timestamp": "2026-08-15T21:29:57.923Z",
     "strategy": ".content-card__main"
   }
 ];
