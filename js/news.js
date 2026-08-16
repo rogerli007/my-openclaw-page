@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-16T17:11:53.526Z
+// Last updated: 2026-08-16T17:29:28.931Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "伊朗軍方：懸賞3萬美元捉拿或擊斃美兵　美國禁入霍爾木茲等海峽",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260131/1094404590142492672321804.jpeg/F6CG28t8p6JclDA5ghIKhb0mHNymLoqYq4DzbquA824?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60380542/%E4%BC%8A%E6%9C%97%E8%BB%8D%E6%96%B9-%E6%87%B8%E8%B3%9E3%E8%90%AC%E7%BE%8E%E5%85%83%E6%8D%89%E6%8B%BF%E6%88%96%E6%93%8A%E6%96%83%E7%BE%8E%E5%85%B5-%E7%BE%8E%E5%9C%8B%E7%A6%81%E5%85%A5%E9%9C%8D%E7%88%BE%E6%9C%A8%E8%8C%B2%E7%AD%89%E6%B5%B7%E5%B3%BD",
+    "timestamp": "2026-08-16T17:29:28.931Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "伊朗軍方：懸賞3萬美元捉拿或擊斃美兵　美國禁入霍爾木茲等海峽",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260815/1165215906792476672265938.png/1zQOhvHTzIQH-RMZEVkZs6Ql28wlueBUxOwEMcTsBDE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60379793/%E8%A1%A3%E9%A3%9F%E4%BD%8F%E8%A1%8C%E6%A8%A3%E6%A8%A3%E9%BD%8A-%E9%80%A3%E7%99%BB%E4%BB%94%E7%B6%9C%E5%90%886%E9%BB%9E%E8%AE%9A%E4%BD%8F%E5%B1%AF%E9%96%80%E5%A5%BD%E5%B9%B8%E7%A6%8F-%E7%9C%9F%E4%BF%82%E5%94%94%E4%BD%BF%E9%BB%9E%E5%A4%96%E6%B1%82",
     "timestamp": "2026-08-16T11:11:23.973Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "羅淑佩：孫中山誕辰160周年紀念　康文署將辦展覽及教育推廣活動",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260816/1165725181671378944075362.jpeg/Gp21pMwxD_D_SaK0qqgjTCftqTPH6AI-DAWvSSkFr0k?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60380499/%E7%BE%85%E6%B7%91%E4%BD%A9-%E5%AD%AB%E4%B8%AD%E5%B1%B1%E8%AA%95%E8%BE%B0160%E5%91%A8%E5%B9%B4%E7%B4%80%E5%BF%B5-%E5%BA%B7%E6%96%87%E7%BD%B2%E5%B0%87%E8%BE%A6%E5%B1%95%E8%A6%BD%E5%8F%8A%E6%95%99%E8%82%B2%E6%8E%A8%E5%BB%A3%E6%B4%BB%E5%8B%95",
-    "timestamp": "2026-08-16T10:59:10.233Z",
     "strategy": ".content-card__main"
   }
 ];
