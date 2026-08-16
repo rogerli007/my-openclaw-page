@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-16T13:36:29.742Z
+// Last updated: 2026-08-16T13:59:15.011Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "灣仔兩私家車相撞　女乘客一周後亡　肇事休班警隔近半年被控危駕",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250326/981560923678314496267318.jpeg/ZdGy8Oj0_qxqCZja-1mnGDBFHe58kWaDXwaCol8GgqI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60380529/%E7%81%A3%E4%BB%94%E5%85%A9%E7%A7%81%E5%AE%B6%E8%BB%8A%E7%9B%B8%E6%92%9E-%E5%A5%B3%E4%B9%98%E5%AE%A2%E4%B8%80%E5%91%A8%E5%BE%8C%E4%BA%A1-%E8%82%87%E4%BA%8B%E4%BC%91%E7%8F%AD%E8%AD%A6%E9%9A%94%E8%BF%91%E5%8D%8A%E5%B9%B4%E8%A2%AB%E6%8E%A7%E5%8D%B1%E9%A7%95",
+    "timestamp": "2026-08-16T13:59:15.011Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "鬼月若有「陰陽眼」能看到什麼？網揭4地點鬼常出沒：別冒犯就好",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260816/1165687325338898432463785.jpeg/A8iknBxT7kG6lzYFZF4swBus8UKwsXK-WZ9DC1mfQws?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60380464/%E6%91%A9%E6%B4%9B%E5%93%A5%E6%9C%89%E4%B8%AD%E5%9C%8B%E7%95%99%E5%AD%B8%E7%94%9F%E9%81%87%E8%A5%B2%E6%83%85%E6%B3%81%E7%A9%A9%E5%AE%9A-%E7%96%91%E7%8A%AF%E5%B7%B2%E8%A2%AB%E6%8D%95",
     "timestamp": "2026-08-16T08:00:28.843Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "華潤叡璟I收逾1.3萬票、超額126倍　加推新價單78伙",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260816/1165684673469222912892037.jpeg/Zg4KsRjm9vwi2T9HeN-g9Huf3LQ2BuqWVifUy1Yn1Ms?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60380454/%E8%8F%AF%E6%BD%A4%E5%8F%A1%E7%92%9Fi%E6%94%B6%E9%80%BE1-3%E8%90%AC%E7%A5%A8-%E8%B6%85%E9%A1%8D126%E5%80%8D-%E5%8A%A0%E6%8E%A8%E6%96%B0%E5%83%B9%E5%96%AE78%E4%BC%99",
-    "timestamp": "2026-08-16T07:48:21.594Z",
     "strategy": ".content-card__main"
   }
 ];
