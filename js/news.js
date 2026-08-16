@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-16T20:29:39.280Z
+// Last updated: 2026-08-16T20:57:04.328Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "埃及總統晤特朗普女婿談加沙局勢　多國聯合譴責以色列",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260817/1165838620834140160748960.jpeg/w57qwYp2VStg1c5zM1eJj064Gui4iTt6g4pQx4OKUMc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60380549/%E5%9F%83%E5%8F%8A%E7%B8%BD%E7%B5%B1%E6%99%A4%E7%89%B9%E6%9C%97%E6%99%AE%E5%A5%B3%E5%A9%BF%E8%AB%87%E5%8A%A0%E6%B2%99%E5%B1%80%E5%8B%A2-%E5%A4%9A%E5%9C%8B%E8%81%AF%E5%90%88%E8%AD%B4%E8%B2%AC%E4%BB%A5%E8%89%B2%E5%88%97",
+    "timestamp": "2026-08-16T20:57:04.328Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "埃及總統晤特朗普女婿談加沙局勢　多國聯合譴責以色列",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260816/1165650957162254336905241.jpeg/Sq9WkczcO0Xy8VQblT_uBu8xYRuiq0dqub1hirm9YYo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E5%A8%9B%E6%A8%82/60380405/54%E6%AD%B2%E6%B1%9F%E5%B8%8C%E6%96%87%E6%96%B7%E9%A3%9F36%E5%B0%8F%E6%99%82%E5%B1%95%E7%81%AB%E8%BE%A3%E8%BA%AB%E6%9D%90-%E9%BB%91%E8%89%B2bra-top%E6%9B%AC%E8%B1%90%E6%BB%BF%E4%B8%8A%E5%9C%8D%E6%B0%B4%E8%9B%87%E8%85%B0",
     "timestamp": "2026-08-16T15:17:09.048Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "東張西望｜「軟飯男」甜言蜜語冧少女　沉船後帶去傳銷公司開單",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260816/1165772216038592512865392.jpeg/Zfy7O3mWkorrj_Ekd-MeCaoQfSh2ZuB3TUG8801BvPM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60380530/%E6%9D%B1%E5%BC%B5%E8%A5%BF%E6%9C%9B-%E8%BB%9F%E9%A3%AF%E7%94%B7-%E7%94%9C%E8%A8%80%E8%9C%9C%E8%AA%9E%E5%86%A7%E5%B0%91%E5%A5%B3-%E6%B2%89%E8%88%B9%E5%BE%8C%E5%B8%B6%E5%8E%BB%E5%82%B3%E9%8A%B7%E5%85%AC%E5%8F%B8%E9%96%8B%E5%96%AE",
-    "timestamp": "2026-08-16T14:57:21.871Z",
     "strategy": ".content-card__main"
   }
 ];
