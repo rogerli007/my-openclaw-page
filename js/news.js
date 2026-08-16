@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-16T17:59:09.588Z
+// Last updated: 2026-08-16T18:11:33.587Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "伊朗軍方：懸賞3萬美元捉拿或擊斃美兵　美國禁入霍爾木茲等海峽",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260131/1094404590142492672321804.jpeg/F6CG28t8p6JclDA5ghIKhb0mHNymLoqYq4DzbquA824?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60380542/%E4%BC%8A%E6%9C%97%E8%BB%8D%E6%96%B9-%E6%87%B8%E8%B3%9E3%E8%90%AC%E7%BE%8E%E5%85%83%E6%8D%89%E6%8B%BF%E6%88%96%E6%93%8A%E6%96%83%E7%BE%8E%E5%85%B5-%E7%BE%8E%E5%9C%8B%E7%A6%81%E5%85%A5%E9%9C%8D%E7%88%BE%E6%9C%A8%E8%8C%B2%E7%AD%89%E6%B5%B7%E5%B3%BD",
+    "timestamp": "2026-08-16T18:11:33.587Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "伊朗軍方：懸賞3萬美元捉拿或擊斃美兵　美國禁入霍爾木茲等海峽",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260816/1165656301250809856803624.png/r-NQjAVQH7BGvhzsY0qSfMYFk0P6NX9J09HnptPR56Y?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60380429/%E8%AD%9A%E9%81%93%E5%BE%B7-%E9%99%B3%E6%A6%AE%E5%B3%BB%E4%B8%80%E5%AE%B6%E4%B8%89%E5%8F%A3%E5%85%A8%E5%B1%AC8%E6%9C%88%E5%A3%BD%E6%98%9F-%E6%9E%97%E5%87%B1%E6%81%A9-%E8%A6%AA%E6%83%85%E7%9C%9F%E6%91%AF%E7%84%A1%E6%AF%94",
     "timestamp": "2026-08-16T12:12:51.397Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "畢彼特自爆拒看色情片原因　批「世界盃球星假摔演技爛」點名尼馬",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260816/1165664150420983808796243.png/5F3XNzI5veH76LnQjuaphNIVZ3rnq-VoYloMMWJaDDE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60380433/%E7%95%A2%E5%BD%BC%E7%89%B9%E8%87%AA%E7%88%86%E6%8B%92%E7%9C%8B%E8%89%B2%E6%83%85%E7%89%87%E5%8E%9F%E5%9B%A0-%E6%89%B9-%E4%B8%96%E7%95%8C%E7%9B%83%E7%90%83%E6%98%9F%E5%81%87%E6%91%94%E6%BC%94%E6%8A%80%E7%88%9B-%E9%BB%9E%E5%90%8D%E5%B0%BC%E9%A6%AC",
-    "timestamp": "2026-08-16T11:43:15.569Z",
     "strategy": ".content-card__main"
   }
 ];
