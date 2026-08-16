@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-16T03:37:15.941Z
+// Last updated: 2026-08-16T04:32:00.633Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "特朗普上載與金正恩「黑面」合照　重申雙方關係良好",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/cis/5dbd383523ab170deb413c8f.jpg/hLVq_2A-XnzVGEuDOnA80d4GnkQ3ono_wwcdtMMHHbQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60380416/%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8A%E8%BC%89%E8%88%87%E9%87%91%E6%AD%A3%E6%81%A9-%E9%BB%91%E9%9D%A2-%E5%90%88%E7%85%A7-%E9%87%8D%E7%94%B3%E9%9B%99%E6%96%B9%E9%97%9C%E4%BF%82%E8%89%AF%E5%A5%BD",
+    "timestamp": "2026-08-16T04:32:00.633Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "愛回家之三代同糖｜怪手出現疑再有AI穿崩位　吳若希澄清：綠幕嚟",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260506/1128720680053903360271634.jpeg/viULTC_Kpj19lnPF-Tld0-yC4hHI_-sClJMzx5STM8c?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60380370/%E6%82%89%E5%B0%BC%E9%82%A6%E8%BF%AA%E6%81%90%E8%A5%B2%E5%BE%8C%E5%87%BA%E6%8B%9B-%E6%BE%B3%E6%B4%B2%E6%8E%A8%E6%A7%8D%E6%A2%B0%E5%9B%9E%E8%B3%BC-%E6%AF%8F%E6%94%AF%E8%A3%9C%E5%84%9F%E6%9C%80%E9%AB%985%E8%90%AC",
     "timestamp": "2026-08-15T19:29:49.837Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "悉尼邦迪恐襲後出招　澳洲推槍械回購　每支補償最高5萬",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260506/1128720680053903360271634.jpeg/viULTC_Kpj19lnPF-Tld0-yC4hHI_-sClJMzx5STM8c?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60380370/%E6%82%89%E5%B0%BC%E9%82%A6%E8%BF%AA%E6%81%90%E8%A5%B2%E5%BE%8C%E5%87%BA%E6%8B%9B-%E6%BE%B3%E6%B4%B2%E6%8E%A8%E6%A7%8D%E6%A2%B0%E5%9B%9E%E8%B3%BC-%E6%AF%8F%E6%94%AF%E8%A3%9C%E5%84%9F%E6%9C%80%E9%AB%985%E8%90%AC",
-    "timestamp": "2026-08-15T19:15:18.308Z",
     "strategy": ".content-card__main"
   }
 ];
