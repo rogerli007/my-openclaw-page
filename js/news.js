@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-16T11:43:15.569Z
+// Last updated: 2026-08-16T12:12:51.397Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "「譚道德」陳榮峻一家三口全屬8月壽星　林凱恩：親情真摯無比",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260816/1165656301250809856803624.png/r-NQjAVQH7BGvhzsY0qSfMYFk0P6NX9J09HnptPR56Y?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60380429/%E8%AD%9A%E9%81%93%E5%BE%B7-%E9%99%B3%E6%A6%AE%E5%B3%BB%E4%B8%80%E5%AE%B6%E4%B8%89%E5%8F%A3%E5%85%A8%E5%B1%AC8%E6%9C%88%E5%A3%BD%E6%98%9F-%E6%9E%97%E5%87%B1%E6%81%A9-%E8%A6%AA%E6%83%85%E7%9C%9F%E6%91%AF%E7%84%A1%E6%AF%94",
+    "timestamp": "2026-08-16T12:12:51.397Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "畢彼特自爆拒看色情片原因　批「世界盃球星假摔演技爛」點名尼馬",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260816/1165661209089806336354821.jpeg/_JsRqwiYkKLExSeqIJDZ-ZTJfQkdjUMD0ReUudEXlLk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60380432/%E6%9C%B1%E9%8E%94%E5%9F%BA%E9%80%9D%E4%B8%96-%E9%81%BA%E9%AB%9418%E6%97%A5%E7%81%AB%E5%8C%96-%E5%A4%9A%E5%9C%B0%E5%B0%87%E4%B8%8B%E5%8D%8A%E6%97%97%E8%AA%8C%E5%93%80%E5%8C%85%E6%8B%AC%E9%A6%99%E6%B8%AF",
     "timestamp": "2026-08-16T06:18:04.571Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "神舟廿三號在軌逾80天　黎家盈與隊友抽血助研究太空人生理變化",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260816/1165651358817718272374180.png/pAmm6nTBfrx9nZQ5pNGyu-ttB0JHeO3v2hukDNobpAw",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60380425/%E7%A5%9E%E8%88%9F%E5%BB%BF%E4%B8%89%E8%99%9F%E5%9C%A8%E8%BB%8C%E9%80%BE80%E5%A4%A9-%E9%BB%8E%E5%AE%B6%E7%9B%88%E8%88%87%E9%9A%8A%E5%8F%8B%E6%8A%BD%E8%A1%80%E5%8A%A9%E7%A0%94%E7%A9%B6%E5%A4%AA%E7%A9%BA%E4%BA%BA%E7%94%9F%E7%90%86%E8%AE%8A%E5%8C%96",
-    "timestamp": "2026-08-16T06:01:05.278Z",
     "strategy": ".content-card__main"
   }
 ];
