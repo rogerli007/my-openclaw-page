@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-16T12:12:51.397Z
+// Last updated: 2026-08-16T12:54:01.930Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "傳銷頭目出獄化身「國學大師」開辦書院　涉暴力體罰學員被刑拘",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260816/1165761100566761472845012.jpeg/QuQ-M3K6KAmwcoWqzdt7iur5EdAzAMWTcoP1lnKD9ZY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60380521/%E5%82%B3%E9%8A%B7%E9%A0%AD%E7%9B%AE%E5%87%BA%E7%8D%84%E5%8C%96%E8%BA%AB-%E5%9C%8B%E5%AD%B8%E5%A4%A7%E5%B8%AB-%E9%96%8B%E8%BE%A6%E6%9B%B8%E9%99%A2-%E6%B6%89%E6%9A%B4%E5%8A%9B%E9%AB%94%E7%BD%B0%E5%AD%B8%E5%93%A1%E8%A2%AB%E5%88%91%E6%8B%98",
+    "timestamp": "2026-08-16T12:54:01.930Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "「譚道德」陳榮峻一家三口全屬8月壽星　林凱恩：親情真摯無比",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260816/1165665574034870272927056.jpeg/-rSP4HTlwLBV2RqUNoG1kW3uNfaFIOrg-xsJG_sbCRs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60380437/%E7%BE%8E%E8%88%AA%E6%AF%8D%E6%9E%97%E8%82%AF%E8%99%9F%E8%A2%AB%E6%8C%87%E7%92%B0%E5%A2%83%E6%83%A1%E5%8A%A3%E6%9C%89%E5%A3%AB%E5%85%B5%E6%83%B3%E8%B7%B3%E6%B5%B7-%E4%B8%AD%E5%A4%AE%E5%8F%B8%E4%BB%A4%E9%83%A8%E5%8F%B8%E4%BB%A4%E5%89%8D%E5%BE%80%E8%A6%96%E5%AF%9F",
     "timestamp": "2026-08-16T06:35:59.987Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "朱鎔基逝世｜遺體18日火化　多地將下半旗誌哀包括香港",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260816/1165661209089806336354821.jpeg/_JsRqwiYkKLExSeqIJDZ-ZTJfQkdjUMD0ReUudEXlLk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60380432/%E6%9C%B1%E9%8E%94%E5%9F%BA%E9%80%9D%E4%B8%96-%E9%81%BA%E9%AB%9418%E6%97%A5%E7%81%AB%E5%8C%96-%E5%A4%9A%E5%9C%B0%E5%B0%87%E4%B8%8B%E5%8D%8A%E6%97%97%E8%AA%8C%E5%93%80%E5%8C%85%E6%8B%AC%E9%A6%99%E6%B8%AF",
-    "timestamp": "2026-08-16T06:18:04.571Z",
     "strategy": ".content-card__main"
   }
 ];
