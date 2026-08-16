@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-15T23:56:31.837Z
+// Last updated: 2026-08-16T00:24:17.920Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "英偉達披露SpaceX持倉：210億美元押注馬斯克火箭",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260617/1143853507527315456962780.jpeg/LysTgPtd6WiDWZM6qkmluZHgFN4iugPkWUnat1lJ2rc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60380380/%E8%8B%B1%E5%81%89%E9%81%94%E6%8A%AB%E9%9C%B2spacex%E6%8C%81%E5%80%89-210%E5%84%84%E7%BE%8E%E5%85%83%E6%8A%BC%E6%B3%A8%E9%A6%AC%E6%96%AF%E5%85%8B%E7%81%AB%E7%AE%AD",
+    "timestamp": "2026-08-16T00:24:17.920Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "日本千葉豪雨死者增至9人　1200車棄置路上　水淹住宅逾千棟",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260812/1164238625861275648719602.jpeg/pVw7q7jJbw4Q7Imx_2tsGBKJ7tT5jJ3Uw9B6w8PQesM",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60378426/%E6%9C%89%E7%89%87-%E6%B8%AF%E5%A5%B3%E7%AD%89%E4%B9%9D%E5%B7%B4%E5%85%AC%E5%AF%A9%E8%A2%AB%E9%98%BF%E4%BC%AF-%E8%A6%96%E5%A7%A6-10%E5%88%86%E9%90%98-%E5%A5%87%E6%8B%9Bko%E6%83%B9%E8%AD%B0-%E5%81%9A%E5%BE%97%E5%A5%BD",
     "timestamp": "2026-08-15T18:13:23.204Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "韓國西江大學18萬個人信息洩漏　前總統朴槿惠都中招",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20230525/738396491143450624713482.jpeg/KUGQFjVXPfyhzqaG53x3EFJDTptuEBPDVRNkQVUTZEE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60380367/%E9%9F%93%E5%9C%8B%E8%A5%BF%E6%B1%9F%E5%A4%A7%E5%AD%B818%E8%90%AC%E5%80%8B%E4%BA%BA%E4%BF%A1%E6%81%AF%E6%B4%A9%E6%BC%8F-%E5%89%8D%E7%B8%BD%E7%B5%B1%E6%9C%B4%E6%A7%BF%E6%83%A0%E9%83%BD%E4%B8%AD%E6%8B%9B",
-    "timestamp": "2026-08-15T17:56:30.866Z",
     "strategy": ".content-card__main"
   }
 ];
