@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-16T09:59:58.666Z
+// Last updated: 2026-08-16T10:12:16.087Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "浸大疑遭勒索軟件入侵　校方指有關網頁內容已移除　未接任何索求",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20210717/493168981545324544384570.jpeg/6eNO4tIFtR6XX2uqXQGbV2LnBOW8ySTsE9lTEBPZUxA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60380491/%E6%B5%B8%E5%A4%A7%E7%96%91%E9%81%AD%E5%8B%92%E7%B4%A2%E8%BB%9F%E4%BB%B6%E5%85%A5%E4%BE%B5-%E6%A0%A1%E6%96%B9%E6%8C%87%E6%9C%89%E9%97%9C%E7%B6%B2%E9%A0%81%E5%85%A7%E5%AE%B9%E5%B7%B2%E7%A7%BB%E9%99%A4-%E6%9C%AA%E6%8E%A5%E4%BB%BB%E4%BD%95%E7%B4%A2%E6%B1%82",
+    "timestamp": "2026-08-16T10:12:16.087Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "車cam｜深圳兩地牌Tesla險撞過路電單車　目擊者呼：嘩！衝紅燈喎",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260816/1165610293917650944325048.jpeg/ruuONDl4GSI8TYOeKUUqA7A-U8SRY9OagokDy4KJA8s?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60380397/%E6%84%9B%E5%9B%9E%E5%AE%B6%E4%B9%8B%E4%B8%89%E4%BB%A3%E5%90%8C%E7%B3%96-%E6%80%AA%E6%89%8B%E5%87%BA%E7%8F%BE%E7%96%91%E5%86%8D%E6%9C%89ai%E7%A9%BF%E5%B4%A9%E4%BD%8D-%E5%90%B3%E8%8B%A5%E5%B8%8C%E6%BE%84%E6%B8%85-%E7%B6%A0%E5%B9%95%E5%9A%9F",
     "timestamp": "2026-08-16T03:37:15.941Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "日本4閣員參拜靖國神社　中國防部：褻瀆正義挑戰戰後國際秩序",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260816/1165604920594796544750631.jpeg/1itUwWbMTYj6ClpBlZA0UnTysGG_GGL7YjsFK2I7BSs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60380394/%E6%97%A5%E6%9C%AC4%E9%96%A3%E5%93%A1%E5%8F%83%E6%8B%9C%E9%9D%96%E5%9C%8B%E7%A5%9E%E7%A4%BE-%E4%B8%AD%E5%9C%8B%E9%98%B2%E9%83%A8-%E8%A4%BB%E7%80%86%E6%AD%A3%E7%BE%A9%E6%8C%91%E6%88%B0%E6%88%B0%E5%BE%8C%E5%9C%8B%E9%9A%9B%E7%A7%A9%E5%BA%8F",
-    "timestamp": "2026-08-16T02:48:22.250Z",
     "strategy": ".content-card__main"
   }
 ];
