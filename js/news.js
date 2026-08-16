@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-16T11:29:25.948Z
+// Last updated: 2026-08-16T11:43:15.569Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "畢彼特自爆拒看色情片原因　批「世界盃球星假摔演技爛」點名尼馬",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260816/1165664150420983808796243.png/5F3XNzI5veH76LnQjuaphNIVZ3rnq-VoYloMMWJaDDE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60380433/%E7%95%A2%E5%BD%BC%E7%89%B9%E8%87%AA%E7%88%86%E6%8B%92%E7%9C%8B%E8%89%B2%E6%83%85%E7%89%87%E5%8E%9F%E5%9B%A0-%E6%89%B9-%E4%B8%96%E7%95%8C%E7%9B%83%E7%90%83%E6%98%9F%E5%81%87%E6%91%94%E6%BC%94%E6%8A%80%E7%88%9B-%E9%BB%9E%E5%90%8D%E5%B0%BC%E9%A6%AC",
+    "timestamp": "2026-08-16T11:43:15.569Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "衣食住行樣樣齊！連登仔綜合6點讚住屯門好幸福：真係唔使點外求",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260816/1165651358817718272374180.png/pAmm6nTBfrx9nZQ5pNGyu-ttB0JHeO3v2hukDNobpAw",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60380425/%E7%A5%9E%E8%88%9F%E5%BB%BF%E4%B8%89%E8%99%9F%E5%9C%A8%E8%BB%8C%E9%80%BE80%E5%A4%A9-%E9%BB%8E%E5%AE%B6%E7%9B%88%E8%88%87%E9%9A%8A%E5%8F%8B%E6%8A%BD%E8%A1%80%E5%8A%A9%E7%A0%94%E7%A9%B6%E5%A4%AA%E7%A9%BA%E4%BA%BA%E7%94%9F%E7%90%86%E8%AE%8A%E5%8C%96",
     "timestamp": "2026-08-16T06:01:05.278Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "日落下的彩虹｜葛綽瑤自爆臨場險向范麒智掟鉸剪：掟過去就大鑊",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260815/1165444153664868352627815.jpeg/quiwgde7v1jw-nYyoOeE_9qvepJGwaZ-gY6jnLiOo5w?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60380357/%E6%97%A5%E8%90%BD%E4%B8%8B%E7%9A%84%E5%BD%A9%E8%99%B9-%E8%91%9B%E7%B6%BD%E7%91%A4%E8%87%AA%E7%88%86%E8%87%A8%E5%A0%B4%E9%9A%AA%E5%90%91%E8%8C%83%E9%BA%92%E6%99%BA%E6%8E%9F%E9%89%B8%E5%89%AA-%E6%8E%9F%E9%81%8E%E5%8E%BB%E5%B0%B1%E5%A4%A7%E9%91%8A",
-    "timestamp": "2026-08-16T05:46:39.542Z",
     "strategy": ".content-card__main"
   }
 ];
