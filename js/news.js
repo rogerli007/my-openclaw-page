@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-16T18:11:33.587Z
+// Last updated: 2026-08-16T18:30:14.000Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "特朗普女婿埃及晤哈馬斯領袖哈亞　促落實加沙和平計劃",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20241018/924048999554486272120539.png/qOERZm-z_uffhejmhl-V5oLiOhbAzV-uqJOifKiTonw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60380551/%E7%89%B9%E6%9C%97%E6%99%AE%E5%A5%B3%E5%A9%BF%E5%9F%83%E5%8F%8A%E6%99%A4%E5%93%88%E9%A6%AC%E6%96%AF%E9%A0%98%E8%A2%96%E5%93%88%E4%BA%9E-%E4%BF%83%E8%90%BD%E5%AF%A6%E5%8A%A0%E6%B2%99%E5%92%8C%E5%B9%B3%E8%A8%88%E5%8A%83",
+    "timestamp": "2026-08-16T18:30:14.000Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "伊朗軍方：懸賞3萬美元捉拿或擊斃美兵　美國禁入霍爾木茲等海峽",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260816/1165761100566761472845012.jpeg/QuQ-M3K6KAmwcoWqzdt7iur5EdAzAMWTcoP1lnKD9ZY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60380521/%E5%82%B3%E9%8A%B7%E9%A0%AD%E7%9B%AE%E5%87%BA%E7%8D%84%E5%8C%96%E8%BA%AB-%E5%9C%8B%E5%AD%B8%E5%A4%A7%E5%B8%AB-%E9%96%8B%E8%BE%A6%E6%9B%B8%E9%99%A2-%E6%B6%89%E6%9A%B4%E5%8A%9B%E9%AB%94%E7%BD%B0%E5%AD%B8%E5%93%A1%E8%A2%AB%E5%88%91%E6%8B%98",
     "timestamp": "2026-08-16T12:54:01.930Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "「譚道德」陳榮峻一家三口全屬8月壽星　林凱恩：親情真摯無比",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260816/1165656301250809856803624.png/r-NQjAVQH7BGvhzsY0qSfMYFk0P6NX9J09HnptPR56Y?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60380429/%E8%AD%9A%E9%81%93%E5%BE%B7-%E9%99%B3%E6%A6%AE%E5%B3%BB%E4%B8%80%E5%AE%B6%E4%B8%89%E5%8F%A3%E5%85%A8%E5%B1%AC8%E6%9C%88%E5%A3%BD%E6%98%9F-%E6%9E%97%E5%87%B1%E6%81%A9-%E8%A6%AA%E6%83%85%E7%9C%9F%E6%91%AF%E7%84%A1%E6%AF%94",
-    "timestamp": "2026-08-16T12:12:51.397Z",
     "strategy": ".content-card__main"
   }
 ];
