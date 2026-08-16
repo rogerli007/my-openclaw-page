@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-16T02:48:22.250Z
+// Last updated: 2026-08-16T03:37:15.941Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "愛回家之三代同糖｜怪手出現疑再有AI穿崩位　吳若希澄清：綠幕嚟",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260816/1165610293917650944325048.jpeg/ruuONDl4GSI8TYOeKUUqA7A-U8SRY9OagokDy4KJA8s?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60380397/%E6%84%9B%E5%9B%9E%E5%AE%B6%E4%B9%8B%E4%B8%89%E4%BB%A3%E5%90%8C%E7%B3%96-%E6%80%AA%E6%89%8B%E5%87%BA%E7%8F%BE%E7%96%91%E5%86%8D%E6%9C%89ai%E7%A9%BF%E5%B4%A9%E4%BD%8D-%E5%90%B3%E8%8B%A5%E5%B8%8C%E6%BE%84%E6%B8%85-%E7%B6%A0%E5%B9%95%E5%9A%9F",
+    "timestamp": "2026-08-16T03:37:15.941Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "日本4閣員參拜靖國神社　中國防部：褻瀆正義挑戰戰後國際秩序",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260506/1128720680053903360271634.jpeg/viULTC_Kpj19lnPF-Tld0-yC4hHI_-sClJMzx5STM8c?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60380370/%E6%82%89%E5%B0%BC%E9%82%A6%E8%BF%AA%E6%81%90%E8%A5%B2%E5%BE%8C%E5%87%BA%E6%8B%9B-%E6%BE%B3%E6%B4%B2%E6%8E%A8%E6%A7%8D%E6%A2%B0%E5%9B%9E%E8%B3%BC-%E6%AF%8F%E6%94%AF%E8%A3%9C%E5%84%9F%E6%9C%80%E9%AB%985%E8%90%AC",
     "timestamp": "2026-08-15T19:15:18.308Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "啟德花園停車場私家車行車不穩　熱心途人報案　42歲醉男司機被捕",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260816/1165490843734249472073291.jpeg/TpnsUBN8BXUOa4wO85u4KZgGV5ut9Sk62PveMOL73jA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60380365/%E5%95%9F%E5%BE%B7%E8%8A%B1%E5%9C%92%E5%81%9C%E8%BB%8A%E5%A0%B4%E7%A7%81%E5%AE%B6%E8%BB%8A%E8%A1%8C%E8%BB%8A%E4%B8%8D%E7%A9%A9-%E7%86%B1%E5%BF%83%E9%80%94%E4%BA%BA%E5%A0%B1%E6%A1%88-42%E6%AD%B2%E9%86%89%E7%94%B7%E5%8F%B8%E6%A9%9F%E8%A2%AB%E6%8D%95",
-    "timestamp": "2026-08-15T19:03:03.510Z",
     "strategy": ".content-card__main"
   }
 ];
