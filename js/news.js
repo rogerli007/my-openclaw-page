@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-16T08:31:14.349Z
+// Last updated: 2026-08-16T08:48:55.687Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "T.O.P選香港作見面會首站有原因　20句廣東話狂冧fans：香港世一",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260816/1165691190591361024614928.jpeg/3WbcEdTaMdB9sZNhb7KGt9ap2kvt9d4bD_N5lQ_zeZU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60380469/t-o-p%E9%81%B8%E9%A6%99%E6%B8%AF%E4%BD%9C%E8%A6%8B%E9%9D%A2%E6%9C%83%E9%A6%96%E7%AB%99%E6%9C%89%E5%8E%9F%E5%9B%A0-20%E5%8F%A5%E5%BB%A3%E6%9D%B1%E8%A9%B1%E7%8B%82%E5%86%A7fans-%E9%A6%99%E6%B8%AF%E4%B8%96%E4%B8%80",
+    "timestamp": "2026-08-16T08:48:55.687Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "熊本阿蘇火山警戒升級　2台人遺體仍困火山口　當局恐放棄回收",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260816/1165562277835837440721304.png/CCEqDNvBzX3gBYEGfbF0LWbIjyjn8aVwAw9UuwMPVLs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60380379/%E6%97%A5%E6%9C%AC%E5%8D%83%E8%91%89%E8%B1%AA%E9%9B%A8%E6%AD%BB%E8%80%85%E5%A2%9E%E8%87%B39%E4%BA%BA-1200%E8%BB%8A%E6%A3%84%E7%BD%AE%E8%B7%AF%E4%B8%8A-%E6%B0%B4%E6%B7%B9%E4%BD%8F%E5%AE%85%E9%80%BE%E5%8D%83%E6%A3%9F",
     "timestamp": "2026-08-15T23:56:31.837Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "地鐵女「狂摑男友8巴掌」影片瘋傳！男友神舉動獲激讚：好男人！",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260813/1164657294630195200327916.jpeg/P4N3d5eedIsRT8izD53Q2E4KXNHXa-G3WUNS5VlDUuU",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60379802/%E5%9C%B0%E9%90%B5%E5%A5%B3-%E7%8B%82%E6%91%91%E7%94%B7%E5%8F%8B8%E5%B7%B4%E6%8E%8C-%E5%BD%B1%E7%89%87%E7%98%8B%E5%82%B3-%E7%94%B7%E5%8F%8B%E7%A5%9E%E8%88%89%E5%8B%95%E7%8D%B2%E6%BF%80%E8%AE%9A-%E5%A5%BD%E7%94%B7%E4%BA%BA",
-    "timestamp": "2026-08-15T23:29:38.086Z",
     "strategy": ".content-card__main"
   }
 ];
