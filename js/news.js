@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-16T11:11:23.973Z
+// Last updated: 2026-08-16T11:29:25.948Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "衣食住行樣樣齊！連登仔綜合6點讚住屯門好幸福：真係唔使點外求",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260815/1165215906792476672265938.png/1zQOhvHTzIQH-RMZEVkZs6Ql28wlueBUxOwEMcTsBDE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60379793/%E8%A1%A3%E9%A3%9F%E4%BD%8F%E8%A1%8C%E6%A8%A3%E6%A8%A3%E9%BD%8A-%E9%80%A3%E7%99%BB%E4%BB%94%E7%B6%9C%E5%90%886%E9%BB%9E%E8%AE%9A%E4%BD%8F%E5%B1%AF%E9%96%80%E5%A5%BD%E5%B9%B8%E7%A6%8F-%E7%9C%9F%E4%BF%82%E5%94%94%E4%BD%BF%E9%BB%9E%E5%A4%96%E6%B1%82",
+    "timestamp": "2026-08-16T11:29:25.948Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "衣食住行樣樣齊！連登仔綜合6點讚住屯門好幸福：真係唔使點外求",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260815/1165444153664868352627815.jpeg/quiwgde7v1jw-nYyoOeE_9qvepJGwaZ-gY6jnLiOo5w?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60380357/%E6%97%A5%E8%90%BD%E4%B8%8B%E7%9A%84%E5%BD%A9%E8%99%B9-%E8%91%9B%E7%B6%BD%E7%91%A4%E8%87%AA%E7%88%86%E8%87%A8%E5%A0%B4%E9%9A%AA%E5%90%91%E8%8C%83%E9%BA%92%E6%99%BA%E6%8E%9F%E9%89%B8%E5%89%AA-%E6%8E%9F%E9%81%8E%E5%8E%BB%E5%B0%B1%E5%A4%A7%E9%91%8A",
     "timestamp": "2026-08-16T05:46:39.542Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "搶人才｜桌球手為避稅成港人？　郭俊峯不同意：中東有國家0稅率",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260812/1164174150588436480271536.png/4eKtbXBpcdkT3s51nwyae5FvRs2SNh3iBt-d8AbfnfA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60380422/%E6%90%B6%E4%BA%BA%E6%89%8D-%E6%A1%8C%E7%90%83%E6%89%8B%E7%82%BA%E9%81%BF%E7%A8%85%E6%88%90%E6%B8%AF%E4%BA%BA-%E9%83%AD%E4%BF%8A%E5%B3%AF%E4%B8%8D%E5%90%8C%E6%84%8F-%E4%B8%AD%E6%9D%B1%E6%9C%89%E5%9C%8B%E5%AE%B60%E7%A8%85%E7%8E%87",
-    "timestamp": "2026-08-16T05:31:03.803Z",
     "strategy": ".content-card__main"
   }
 ];
