@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-16T04:32:00.633Z
+// Last updated: 2026-08-16T04:52:23.272Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "古洞首個新盤　PARK SILICON第二期首輪開賣82伙　準買家陸續到場",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260816/1165641577507328000835264.jpeg/Wt1N2cGcb2QuCJaN2TiEww5KXc8BDQl3D037rg9N-64?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60380364/%E5%8F%A4%E6%B4%9E%E9%A6%96%E5%80%8B%E6%96%B0%E7%9B%A4-park-silicon%E7%AC%AC%E4%BA%8C%E6%9C%9F%E9%A6%96%E8%BC%AA%E9%96%8B%E8%B3%A382%E4%BC%99-%E6%BA%96%E8%B2%B7%E5%AE%B6%E9%99%B8%E7%BA%8C%E5%88%B0%E5%A0%B4",
+    "timestamp": "2026-08-16T04:52:23.272Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "特朗普上載與金正恩「黑面」合照　重申雙方關係良好",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260506/1128720680053903360271634.jpeg/viULTC_Kpj19lnPF-Tld0-yC4hHI_-sClJMzx5STM8c?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60380370/%E6%82%89%E5%B0%BC%E9%82%A6%E8%BF%AA%E6%81%90%E8%A5%B2%E5%BE%8C%E5%87%BA%E6%8B%9B-%E6%BE%B3%E6%B4%B2%E6%8E%A8%E6%A7%8D%E6%A2%B0%E5%9B%9E%E8%B3%BC-%E6%AF%8F%E6%94%AF%E8%A3%9C%E5%84%9F%E6%9C%80%E9%AB%985%E8%90%AC",
     "timestamp": "2026-08-15T19:43:29.472Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "悉尼邦迪恐襲後出招　澳洲推槍械回購　每支補償最高5萬",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260506/1128720680053903360271634.jpeg/viULTC_Kpj19lnPF-Tld0-yC4hHI_-sClJMzx5STM8c?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60380370/%E6%82%89%E5%B0%BC%E9%82%A6%E8%BF%AA%E6%81%90%E8%A5%B2%E5%BE%8C%E5%87%BA%E6%8B%9B-%E6%BE%B3%E6%B4%B2%E6%8E%A8%E6%A7%8D%E6%A2%B0%E5%9B%9E%E8%B3%BC-%E6%AF%8F%E6%94%AF%E8%A3%9C%E5%84%9F%E6%9C%80%E9%AB%985%E8%90%AC",
-    "timestamp": "2026-08-15T19:29:49.837Z",
     "strategy": ".content-card__main"
   }
 ];
