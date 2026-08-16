@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-16T07:06:35.697Z
+// Last updated: 2026-08-16T07:48:21.594Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "華潤叡璟I收逾1.3萬票、超額126倍　加推新價單78伙",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260816/1165684673469222912892037.jpeg/Zg4KsRjm9vwi2T9HeN-g9Huf3LQ2BuqWVifUy1Yn1Ms?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60380454/%E8%8F%AF%E6%BD%A4%E5%8F%A1%E7%92%9Fi%E6%94%B6%E9%80%BE1-3%E8%90%AC%E7%A5%A8-%E8%B6%85%E9%A1%8D126%E5%80%8D-%E5%8A%A0%E6%8E%A8%E6%96%B0%E5%83%B9%E5%96%AE78%E4%BC%99",
+    "timestamp": "2026-08-16T07:48:21.594Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "酒店禁忌｜別敲門說「打擾了」　專家教正確避邪5招：睡覺開小燈",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260816/1165541074987388928483791.jpeg/fONHbDwBChSJPc2VNkPSpDRNVPsOZEytX-ACTl_gAk4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60380377/%E5%8E%84%E7%93%9C%E5%A4%9A%E7%88%BE%E7%B8%BD%E7%B5%B1%E8%AB%BE%E6%B2%83%E4%BA%9E%E6%8A%B5%E4%BA%AC-%E5%B1%95%E9%96%8B%E7%82%BA%E6%9C%9F8%E6%97%A5%E9%A6%96%E6%AC%A1%E5%9C%8B%E4%BA%8B%E8%A8%AA%E5%95%8F",
     "timestamp": "2026-08-15T22:44:17.139Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "天氣｜預料日間短暫有陽光及酷熱　有幾陣驟雨　局部地區有雷暴",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260816/1165539914498969600964725.jpeg/LFdLmPUDdZCl7lIOG8wKovdx4BkNxHwt7Ut3ONdLdzg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60380375/%E5%A4%A9%E6%B0%A3-%E9%A0%90%E6%96%99%E6%97%A5%E9%96%93%E7%9F%AD%E6%9A%AB%E6%9C%89%E9%99%BD%E5%85%89%E5%8F%8A%E9%85%B7%E7%86%B1-%E6%9C%89%E5%B9%BE%E9%99%A3%E9%A9%9F%E9%9B%A8-%E5%B1%80%E9%83%A8%E5%9C%B0%E5%8D%80%E6%9C%89%E9%9B%B7%E6%9A%B4",
-    "timestamp": "2026-08-15T22:10:46.501Z",
     "strategy": ".content-card__main"
   }
 ];
