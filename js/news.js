@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-16T05:31:03.803Z
+// Last updated: 2026-08-16T05:46:39.542Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "日落下的彩虹｜葛綽瑤自爆臨場險向范麒智掟鉸剪：掟過去就大鑊",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260815/1165444153664868352627815.jpeg/quiwgde7v1jw-nYyoOeE_9qvepJGwaZ-gY6jnLiOo5w?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60380357/%E6%97%A5%E8%90%BD%E4%B8%8B%E7%9A%84%E5%BD%A9%E8%99%B9-%E8%91%9B%E7%B6%BD%E7%91%A4%E8%87%AA%E7%88%86%E8%87%A8%E5%A0%B4%E9%9A%AA%E5%90%91%E8%8C%83%E9%BA%92%E6%99%BA%E6%8E%9F%E9%89%B8%E5%89%AA-%E6%8E%9F%E9%81%8E%E5%8E%BB%E5%B0%B1%E5%A4%A7%E9%91%8A",
+    "timestamp": "2026-08-16T05:46:39.542Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "搶人才｜桌球手為避稅成港人？　郭俊峯不同意：中東有國家0稅率",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260816/1165513437900443648207564.png/AXdFQiiygGu337Yg6rCQisSmZZalGn1M7lG1vO5Rtbw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60380372/%E7%BE%8E%E8%BB%8Df-18%E5%A2%9C%E6%AF%80%E5%B1%B1%E5%8D%80-%E9%A3%9B%E8%A1%8C%E5%93%A1%E8%B6%85%E6%B7%A1%E5%AE%9A-%E5%98%BF-%E6%88%91%E5%8F%AA%E6%98%AF%E5%A2%9C%E6%A9%9F%E4%BA%86-%E6%9C%89%E7%89%87",
     "timestamp": "2026-08-15T21:00:56.635Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美軍F-18墜毀山區　飛行員超淡定：嘿，我只是墜機了｜有片",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260816/1165513437900443648207564.png/AXdFQiiygGu337Yg6rCQisSmZZalGn1M7lG1vO5Rtbw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60380372/%E7%BE%8E%E8%BB%8Df-18%E5%A2%9C%E6%AF%80%E5%B1%B1%E5%8D%80-%E9%A3%9B%E8%A1%8C%E5%93%A1%E8%B6%85%E6%B7%A1%E5%AE%9A-%E5%98%BF-%E6%88%91%E5%8F%AA%E6%98%AF%E5%A2%9C%E6%A9%9F%E4%BA%86-%E6%9C%89%E7%89%87",
-    "timestamp": "2026-08-15T20:45:20.290Z",
     "strategy": ".content-card__main"
   }
 ];
