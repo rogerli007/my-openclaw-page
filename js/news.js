@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-16T21:11:31.638Z
+// Last updated: 2026-08-16T22:10:11.024Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美軍：林肯號上心理問題個案　為11艘現役航母中最少",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260817/1165890082062733312190382.jpeg/2hDUzo9ri71VtBn5CODSNS7yu_5DckBMXH-6vFx_urw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60380556/%E7%BE%8E%E8%BB%8D-%E6%9E%97%E8%82%AF%E8%99%9F%E4%B8%8A%E5%BF%83%E7%90%86%E5%95%8F%E9%A1%8C%E5%80%8B%E6%A1%88-%E7%82%BA11%E8%89%98%E7%8F%BE%E5%BD%B9%E8%88%AA%E6%AF%8D%E4%B8%AD%E6%9C%80%E5%B0%91",
+    "timestamp": "2026-08-16T22:10:11.024Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "希臘薩拉米斯島山火　至少2死9人傷",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260816/1165738633953546240241396.jpeg/Ri9C_7al1svBwJrXWlPsoA-cqCbNG4hF7CQhhewkIYU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60380489/%E5%A4%8F%E9%9B%A8%E7%88%86%E7%A7%A6%E7%85%8C%E6%97%A9%E5%89%8D%E5%85%A5%E9%99%A2%E7%8F%BE%E5%B7%B2%E5%87%BA%E9%99%A2-%E6%8F%AD%E8%80%81%E5%8F%8B%E9%9B%99%E8%85%BF%E6%B0%B4%E8%85%AB%E6%82%A3%E7%B3%96%E5%B0%BF%E7%97%85%E4%BB%8D%E6%8B%92%E7%B5%95%E6%88%92%E5%8F%A3",
     "timestamp": "2026-08-16T16:11:16.767Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "一周星星｜劉嘉玲驚爆想睇星爺合體梁朝偉　周星馳霸氣回應引哄動",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260816/1165693945695440896062489.jpeg/F0fdL7ZrNavP6KNO7UxPHtYYffzco1brA4jGHwOIxh8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60380463/%E4%B8%80%E5%91%A8%E6%98%9F%E6%98%9F-%E5%8A%89%E5%98%89%E7%8E%B2%E9%A9%9A%E7%88%86%E6%83%B3%E7%9D%87%E6%98%9F%E7%88%BA%E5%90%88%E9%AB%94%E6%A2%81%E6%9C%9D%E5%81%89-%E5%91%A8%E6%98%9F%E9%A6%B3%E9%9C%B8%E6%B0%A3%E5%9B%9E%E6%87%89%E5%BC%95%E5%93%84%E5%8B%95",
-    "timestamp": "2026-08-16T15:56:27.699Z",
     "strategy": ".content-card__main"
   }
 ];
