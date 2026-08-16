@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-16T23:10:39.831Z
+// Last updated: 2026-08-16T23:29:31.872Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "中國醫師節｜一天到3院做5宗手術　羅順文醫生：血管手術須快及準",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260816/1165741299966414848891046.jpeg/hYyk1Fp08X3HUDFmiu8KlICI0q1uCtYJu3reZbt63mU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60380136/%E4%B8%AD%E5%9C%8B%E9%86%AB%E5%B8%AB%E7%AF%80-%E4%B8%80%E5%A4%A9%E5%88%B03%E9%99%A2%E5%81%9A5%E5%AE%97%E6%89%8B%E8%A1%93-%E7%BE%85%E9%A0%86%E6%96%87%E9%86%AB%E7%94%9F-%E8%A1%80%E7%AE%A1%E6%89%8B%E8%A1%93%E9%A0%88%E5%BF%AB%E5%8F%8A%E6%BA%96",
+    "timestamp": "2026-08-16T23:29:31.872Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "中國醫師節｜一天到3院做5宗手術　羅順文醫生：血管手術須快及準",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260131/1094404590142492672321804.jpeg/F6CG28t8p6JclDA5ghIKhb0mHNymLoqYq4DzbquA824?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60380542/%E4%BC%8A%E6%9C%97%E8%BB%8D%E6%96%B9-%E6%87%B8%E8%B3%9E3%E8%90%AC%E7%BE%8E%E5%85%83%E6%8D%89%E6%8B%BF%E6%88%96%E6%93%8A%E6%96%83%E7%BE%8E%E5%85%B5-%E7%BE%8E%E5%9C%8B%E7%A6%81%E5%85%A5%E9%9C%8D%E7%88%BE%E6%9C%A8%E8%8C%B2%E7%AD%89%E6%B5%B7%E5%B3%BD",
     "timestamp": "2026-08-16T17:00:01.381Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "楊千嬅歎廣州地道美食尋童年回憶　現身快閃展粉絲合照有求必應",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260816/1165673287259262976260754.jpeg/vzAS6_4PYC7FZznX7dtvHGDTSiDIP37BqbN8hamzfIU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60380434/%E6%A5%8A%E5%8D%83%E5%AC%85%E6%AD%8E%E5%BB%A3%E5%B7%9E%E5%9C%B0%E9%81%93%E7%BE%8E%E9%A3%9F%E5%B0%8B%E7%AB%A5%E5%B9%B4%E5%9B%9E%E6%86%B6-%E7%8F%BE%E8%BA%AB%E5%BF%AB%E9%96%83%E5%B1%95%E7%B2%89%E7%B5%B2%E5%90%88%E7%85%A7%E6%9C%89%E6%B1%82%E5%BF%85%E6%87%89",
-    "timestamp": "2026-08-16T16:46:02.304Z",
     "strategy": ".content-card__main"
   }
 ];
