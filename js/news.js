@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-16T14:29:29.462Z
+// Last updated: 2026-08-16T14:45:12.460Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "短劇女演員拍車禍戲竟遭「真撞」　無防護措施頭部重摔揭驚人傷勢",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260816/1165678825225326592947360.png/CnJ5hoo2NNkgrERa5m8ug_m8Pc77Pen2bLHsiGyx7Ig?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60380449/%E7%9F%AD%E5%8A%87%E5%A5%B3%E6%BC%94%E5%93%A1%E6%8B%8D%E8%BB%8A%E7%A6%8D%E6%88%B2%E7%AB%9F%E9%81%AD-%E7%9C%9F%E6%92%9E-%E7%84%A1%E9%98%B2%E8%AD%B7%E6%8E%AA%E6%96%BD%E9%A0%AD%E9%83%A8%E9%87%8D%E6%91%94%E6%8F%AD%E9%A9%9A%E4%BA%BA%E5%82%B7%E5%8B%A2",
+    "timestamp": "2026-08-16T14:45:12.460Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "告別大熊貓逾半年　東京上野動物園拆卸東園展館　民眾不捨道別",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260816/1165691190591361024614928.jpeg/3WbcEdTaMdB9sZNhb7KGt9ap2kvt9d4bD_N5lQ_zeZU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60380469/t-o-p%E9%81%B8%E9%A6%99%E6%B8%AF%E4%BD%9C%E8%A6%8B%E9%9D%A2%E6%9C%83%E9%A6%96%E7%AB%99%E6%9C%89%E5%8E%9F%E5%9B%A0-20%E5%8F%A5%E5%BB%A3%E6%9D%B1%E8%A9%B1%E7%8B%82%E5%86%A7fans-%E9%A6%99%E6%B8%AF%E4%B8%96%E4%B8%80",
     "timestamp": "2026-08-16T08:48:55.687Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "熊本阿蘇火山警戒升級　2台人遺體仍困火山口　當局恐放棄回收",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260120/1090278335986012160469302.png/lygGN2H3k9mJbsRzelj55TMqc94zMkc2aYMbw2mDG8M?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60380441/%E7%86%8A%E6%9C%AC%E9%98%BF%E8%98%87%E7%81%AB%E5%B1%B1%E8%AD%A6%E6%88%92%E5%8D%87%E7%B4%9A-2%E5%8F%B0%E4%BA%BA%E9%81%BA%E9%AB%94%E4%BB%8D%E5%9B%B0%E7%81%AB%E5%B1%B1%E5%8F%A3-%E7%95%B6%E5%B1%80%E6%81%90%E6%94%BE%E6%A3%84%E5%9B%9E%E6%94%B6",
-    "timestamp": "2026-08-16T08:31:14.349Z",
     "strategy": ".content-card__main"
   }
 ];
