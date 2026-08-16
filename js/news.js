@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-16T04:52:23.272Z
+// Last updated: 2026-08-16T05:14:56.178Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "施政報告｜智庫倡3億設規劃及政策研究職系　補充特首政策組功能",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260224/1103037962054012928961380.jpeg/EUtdaEtQtWvO-_rG_2ZRqC-ozPqsgYkN0IZyN9CGcjc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60380421/%E6%96%BD%E6%94%BF%E5%A0%B1%E5%91%8A-%E6%99%BA%E5%BA%AB%E5%80%A13%E5%84%84%E8%A8%AD%E8%A6%8F%E5%8A%83%E5%8F%8A%E6%94%BF%E7%AD%96%E7%A0%94%E7%A9%B6%E8%81%B7%E7%B3%BB-%E8%A3%9C%E5%85%85%E7%89%B9%E9%A6%96%E6%94%BF%E7%AD%96%E7%B5%84%E5%8A%9F%E8%83%BD",
+    "timestamp": "2026-08-16T05:14:56.178Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "古洞首個新盤　PARK SILICON第二期首輪開賣82伙　準買家陸續到場",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260506/1128720680053903360271634.jpeg/viULTC_Kpj19lnPF-Tld0-yC4hHI_-sClJMzx5STM8c?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60380370/%E6%82%89%E5%B0%BC%E9%82%A6%E8%BF%AA%E6%81%90%E8%A5%B2%E5%BE%8C%E5%87%BA%E6%8B%9B-%E6%BE%B3%E6%B4%B2%E6%8E%A8%E6%A7%8D%E6%A2%B0%E5%9B%9E%E8%B3%BC-%E6%AF%8F%E6%94%AF%E8%A3%9C%E5%84%9F%E6%9C%80%E9%AB%985%E8%90%AC",
     "timestamp": "2026-08-15T20:10:11.388Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "悉尼邦迪恐襲後出招　澳洲推槍械回購　每支補償最高5萬",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260506/1128720680053903360271634.jpeg/viULTC_Kpj19lnPF-Tld0-yC4hHI_-sClJMzx5STM8c?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60380370/%E6%82%89%E5%B0%BC%E9%82%A6%E8%BF%AA%E6%81%90%E8%A5%B2%E5%BE%8C%E5%87%BA%E6%8B%9B-%E6%BE%B3%E6%B4%B2%E6%8E%A8%E6%A7%8D%E6%A2%B0%E5%9B%9E%E8%B3%BC-%E6%AF%8F%E6%94%AF%E8%A3%9C%E5%84%9F%E6%9C%80%E9%AB%985%E8%90%AC",
-    "timestamp": "2026-08-15T19:43:29.472Z",
     "strategy": ".content-card__main"
   }
 ];
