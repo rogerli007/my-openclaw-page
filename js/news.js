@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-16T15:56:27.699Z
+// Last updated: 2026-08-16T16:11:16.767Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "夏雨爆秦煌早前入院現已出院　揭老友雙腿水腫患糖尿病仍拒絕戒口",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260816/1165738633953546240241396.jpeg/Ri9C_7al1svBwJrXWlPsoA-cqCbNG4hF7CQhhewkIYU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60380489/%E5%A4%8F%E9%9B%A8%E7%88%86%E7%A7%A6%E7%85%8C%E6%97%A9%E5%89%8D%E5%85%A5%E9%99%A2%E7%8F%BE%E5%B7%B2%E5%87%BA%E9%99%A2-%E6%8F%AD%E8%80%81%E5%8F%8B%E9%9B%99%E8%85%BF%E6%B0%B4%E8%85%AB%E6%82%A3%E7%B3%96%E5%B0%BF%E7%97%85%E4%BB%8D%E6%8B%92%E7%B5%95%E6%88%92%E5%8F%A3",
+    "timestamp": "2026-08-16T16:11:16.767Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "一周星星｜劉嘉玲驚爆想睇星爺合體梁朝偉　周星馳霸氣回應引哄動",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260816/1165716410987450368376840.jpeg/Xdzoxn_OIZB3VCMnBHPB3eKEZ7zLh4fkSBogDUgaIA0",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60380488/%E8%BB%8Acam-%E6%B7%B1%E5%9C%B3%E5%85%A9%E5%9C%B0%E7%89%8Ctesla%E9%9A%AA%E6%92%9E%E9%81%8E%E8%B7%AF%E9%9B%BB%E5%96%AE%E8%BB%8A-%E7%9B%AE%E6%93%8A%E8%80%85%E5%91%BC-%E5%98%A9-%E8%A1%9D%E7%B4%85%E7%87%88%E5%96%8E",
     "timestamp": "2026-08-16T09:59:58.666Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "林盛斌18歲大女疑繼承父親衣缽　林霏兒曬演藝學生證預告繼續性感",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260816/1165704789355401216405961.png/txhRGxT_lP_OPTkJf1hVPG52A7QpFKMG2K7LMtiuyzI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60380480/%E6%9E%97%E7%9B%9B%E6%96%8C18%E6%AD%B2%E5%A4%A7%E5%A5%B3%E7%96%91%E7%B9%BC%E6%89%BF%E7%88%B6%E8%A6%AA%E8%A1%A3%E7%BC%BD-%E6%9E%97%E9%9C%8F%E5%85%92%E6%9B%AC%E6%BC%94%E8%97%9D%E5%AD%B8%E7%94%9F%E8%AD%89%E9%A0%90%E5%91%8A%E7%B9%BC%E7%BA%8C%E6%80%A7%E6%84%9F",
-    "timestamp": "2026-08-16T09:32:42.814Z",
     "strategy": ".content-card__main"
   }
 ];
