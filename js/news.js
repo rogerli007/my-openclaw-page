@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-16T13:59:15.011Z
+// Last updated: 2026-08-16T14:12:08.284Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "因拒潛規則遭換角　女星RUU下海拍片吐心聲：唯一不用陪睡的工作",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260816/1165614185904607232130427.png/24u-oBpmpYbeB2EgSjw8uL5ewLmLVsJ5Y0YxFGNGMRQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E5%A8%9B%E6%A8%82/60380399/%E5%9B%A0%E6%8B%92%E6%BD%9B%E8%A6%8F%E5%89%87%E9%81%AD%E6%8F%9B%E8%A7%92-%E5%A5%B3%E6%98%9Fruu%E4%B8%8B%E6%B5%B7%E6%8B%8D%E7%89%87%E5%90%90%E5%BF%83%E8%81%B2-%E5%94%AF%E4%B8%80%E4%B8%8D%E7%94%A8%E9%99%AA%E7%9D%A1%E7%9A%84%E5%B7%A5%E4%BD%9C",
+    "timestamp": "2026-08-16T14:12:08.284Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "灣仔兩私家車相撞　女乘客一周後亡　肇事休班警隔近半年被控危駕",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260816/1165691841471844352092735.jpeg/vebQRdlLrP9frjJxUSHI72gt3GEBBERIKzPgMysz4DM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60380468/%E5%8F%A4%E6%B4%9Epark-silicon%E9%96%8B%E8%B3%A3-%E5%90%8C%E5%8D%80%E9%80%80%E4%BC%91%E5%AE%A2580%E8%90%AC%E8%B2%B7%E4%B8%80%E6%88%BF-%E8%B4%88%E5%85%92%E5%AD%90%E6%97%A5%E5%BE%8C%E6%94%B6%E7%A7%9F",
     "timestamp": "2026-08-16T08:16:40.241Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "摩洛哥有中國留學生遇襲情況穩定　疑犯已被捕",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260816/1165687325338898432463785.jpeg/A8iknBxT7kG6lzYFZF4swBus8UKwsXK-WZ9DC1mfQws?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60380464/%E6%91%A9%E6%B4%9B%E5%93%A5%E6%9C%89%E4%B8%AD%E5%9C%8B%E7%95%99%E5%AD%B8%E7%94%9F%E9%81%87%E8%A5%B2%E6%83%85%E6%B3%81%E7%A9%A9%E5%AE%9A-%E7%96%91%E7%8A%AF%E5%B7%B2%E8%A2%AB%E6%8D%95",
-    "timestamp": "2026-08-16T08:00:28.843Z",
     "strategy": ".content-card__main"
   }
 ];
