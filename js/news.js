@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-16T23:41:58.146Z
+// Last updated: 2026-08-16T23:56:28.750Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "谷愛凌被爆秘撻LV三公子　滑雪女王火速KO緋聞：總是最後一個知道",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260816/1165786636693278720350628.jpeg/r9QOP3zpEONqfdPyqEttZdODJrChj4mZkgwX15IMF9c?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60380532/%E8%B0%B7%E6%84%9B%E5%87%8C%E8%A2%AB%E7%88%86%E7%A7%98%E6%92%BBlv%E4%B8%89%E5%85%AC%E5%AD%90-%E6%BB%91%E9%9B%AA%E5%A5%B3%E7%8E%8B%E7%81%AB%E9%80%9Fko%E7%B7%8B%E8%81%9E-%E7%B8%BD%E6%98%AF%E6%9C%80%E5%BE%8C%E4%B8%80%E5%80%8B%E7%9F%A5%E9%81%93",
+    "timestamp": "2026-08-16T23:56:28.750Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "谷愛凌被爆秘撻LV三公子　滑雪女王火速KO緋聞：總是最後一個知道",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260131/1094404590142492672321804.jpeg/F6CG28t8p6JclDA5ghIKhb0mHNymLoqYq4DzbquA824?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60380542/%E4%BC%8A%E6%9C%97%E8%BB%8D%E6%96%B9-%E6%87%B8%E8%B3%9E3%E8%90%AC%E7%BE%8E%E5%85%83%E6%8D%89%E6%8B%BF%E6%88%96%E6%93%8A%E6%96%83%E7%BE%8E%E5%85%B5-%E7%BE%8E%E5%9C%8B%E7%A6%81%E5%85%A5%E9%9C%8D%E7%88%BE%E6%9C%A8%E8%8C%B2%E7%AD%89%E6%B5%B7%E5%B3%BD",
     "timestamp": "2026-08-16T17:29:28.931Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "伊朗軍方：懸賞3萬美元捉拿或擊斃美兵　美國禁入霍爾木茲等海峽",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260131/1094404590142492672321804.jpeg/F6CG28t8p6JclDA5ghIKhb0mHNymLoqYq4DzbquA824?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60380542/%E4%BC%8A%E6%9C%97%E8%BB%8D%E6%96%B9-%E6%87%B8%E8%B3%9E3%E8%90%AC%E7%BE%8E%E5%85%83%E6%8D%89%E6%8B%BF%E6%88%96%E6%93%8A%E6%96%83%E7%BE%8E%E5%85%B5-%E7%BE%8E%E5%9C%8B%E7%A6%81%E5%85%A5%E9%9C%8D%E7%88%BE%E6%9C%A8%E8%8C%B2%E7%AD%89%E6%B5%B7%E5%B3%BD",
-    "timestamp": "2026-08-16T17:11:53.526Z",
     "strategy": ".content-card__main"
   }
 ];
