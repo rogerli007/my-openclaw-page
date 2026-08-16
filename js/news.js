@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-16T15:17:09.048Z
+// Last updated: 2026-08-16T15:56:27.699Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "一周星星｜劉嘉玲驚爆想睇星爺合體梁朝偉　周星馳霸氣回應引哄動",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260816/1165693945695440896062489.jpeg/F0fdL7ZrNavP6KNO7UxPHtYYffzco1brA4jGHwOIxh8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60380463/%E4%B8%80%E5%91%A8%E6%98%9F%E6%98%9F-%E5%8A%89%E5%98%89%E7%8E%B2%E9%A9%9A%E7%88%86%E6%83%B3%E7%9D%87%E6%98%9F%E7%88%BA%E5%90%88%E9%AB%94%E6%A2%81%E6%9C%9D%E5%81%89-%E5%91%A8%E6%98%9F%E9%A6%B3%E9%9C%B8%E6%B0%A3%E5%9B%9E%E6%87%89%E5%BC%95%E5%93%84%E5%8B%95",
+    "timestamp": "2026-08-16T15:56:27.699Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "54歲江希文斷食36小時展火辣身材　黑色Bra Top曬豐滿上圍水蛇腰",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260816/1165704789355401216405961.png/txhRGxT_lP_OPTkJf1hVPG52A7QpFKMG2K7LMtiuyzI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60380480/%E6%9E%97%E7%9B%9B%E6%96%8C18%E6%AD%B2%E5%A4%A7%E5%A5%B3%E7%96%91%E7%B9%BC%E6%89%BF%E7%88%B6%E8%A6%AA%E8%A1%A3%E7%BC%BD-%E6%9E%97%E9%9C%8F%E5%85%92%E6%9B%AC%E6%BC%94%E8%97%9D%E5%AD%B8%E7%94%9F%E8%AD%89%E9%A0%90%E5%91%8A%E7%B9%BC%E7%BA%8C%E6%80%A7%E6%84%9F",
     "timestamp": "2026-08-16T09:32:42.814Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "香港飛盤總會新疆參賽　盼回歸30周年邀澳門內地代表來港比賽",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260816/1165707319548317696052379.jpeg/7xJ7HAnPxz8S_k5kg-oEmSpMlZIz8jG2MdkexTHZHsU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60380481/%E9%A6%99%E6%B8%AF%E9%A3%9B%E7%9B%A4%E7%B8%BD%E6%9C%83%E6%96%B0%E7%96%86%E5%8F%83%E8%B3%BD-%E7%9B%BC%E5%9B%9E%E6%AD%B830%E5%91%A8%E5%B9%B4%E9%82%80%E6%BE%B3%E9%96%80%E5%85%A7%E5%9C%B0%E4%BB%A3%E8%A1%A8%E4%BE%86%E6%B8%AF%E6%AF%94%E8%B3%BD",
-    "timestamp": "2026-08-16T09:16:52.432Z",
     "strategy": ".content-card__main"
   }
 ];
