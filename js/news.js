@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-16T07:48:21.594Z
+// Last updated: 2026-08-16T08:00:28.843Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "摩洛哥有中國留學生遇襲情況穩定　疑犯已被捕",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260816/1165687325338898432463785.jpeg/A8iknBxT7kG6lzYFZF4swBus8UKwsXK-WZ9DC1mfQws?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60380464/%E6%91%A9%E6%B4%9B%E5%93%A5%E6%9C%89%E4%B8%AD%E5%9C%8B%E7%95%99%E5%AD%B8%E7%94%9F%E9%81%87%E8%A5%B2%E6%83%85%E6%B3%81%E7%A9%A9%E5%AE%9A-%E7%96%91%E7%8A%AF%E5%B7%B2%E8%A2%AB%E6%8D%95",
+    "timestamp": "2026-08-16T08:00:28.843Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "華潤叡璟I收逾1.3萬票、超額126倍　加推新價單78伙",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260816/1165546614077526016863209.jpeg/b8Vc5k49LBBQ5gh6g5jcrbZV6gXU0BWRWHJbqmJyW6o?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60380378/%E5%B0%87%E8%BB%8D%E6%BE%B3%E4%B8%83%E4%BA%BA%E8%BB%8A%E6%92%9E%E5%A3%86%E8%A1%9D%E5%89%8D50%E7%B1%B3%E7%BF%BB%E5%81%B4-3%E4%BA%BA%E4%B8%80%E5%BA%A6%E8%A2%AB%E5%9B%B0%E5%8F%97%E5%82%B7%E7%8D%B2%E6%95%91-1%E4%BA%BA%E9%80%81%E9%99%A2",
     "timestamp": "2026-08-15T22:57:03.399Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "厄瓜多爾總統諾沃亞抵京　展開為期8日首次國事訪問",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260816/1165541074987388928483791.jpeg/fONHbDwBChSJPc2VNkPSpDRNVPsOZEytX-ACTl_gAk4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60380377/%E5%8E%84%E7%93%9C%E5%A4%9A%E7%88%BE%E7%B8%BD%E7%B5%B1%E8%AB%BE%E6%B2%83%E4%BA%9E%E6%8A%B5%E4%BA%AC-%E5%B1%95%E9%96%8B%E7%82%BA%E6%9C%9F8%E6%97%A5%E9%A6%96%E6%AC%A1%E5%9C%8B%E4%BA%8B%E8%A8%AA%E5%95%8F",
-    "timestamp": "2026-08-15T22:44:17.139Z",
     "strategy": ".content-card__main"
   }
 ];
