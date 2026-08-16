@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-16T16:11:16.767Z
+// Last updated: 2026-08-16T16:30:24.492Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "楊千嬅歎廣州地道美食尋童年回憶　現身快閃展粉絲合照有求必應",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260816/1165673287259262976260754.jpeg/vzAS6_4PYC7FZznX7dtvHGDTSiDIP37BqbN8hamzfIU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60380434/%E6%A5%8A%E5%8D%83%E5%AC%85%E6%AD%8E%E5%BB%A3%E5%B7%9E%E5%9C%B0%E9%81%93%E7%BE%8E%E9%A3%9F%E5%B0%8B%E7%AB%A5%E5%B9%B4%E5%9B%9E%E6%86%B6-%E7%8F%BE%E8%BA%AB%E5%BF%AB%E9%96%83%E5%B1%95%E7%B2%89%E7%B5%B2%E5%90%88%E7%85%A7%E6%9C%89%E6%B1%82%E5%BF%85%E6%87%89",
+    "timestamp": "2026-08-16T16:30:24.492Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "夏雨爆秦煌早前入院現已出院　揭老友雙腿水腫患糖尿病仍拒絕戒口",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20210717/493168981545324544384570.jpeg/6eNO4tIFtR6XX2uqXQGbV2LnBOW8ySTsE9lTEBPZUxA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60380491/%E6%B5%B8%E5%A4%A7%E7%96%91%E9%81%AD%E5%8B%92%E7%B4%A2%E8%BB%9F%E4%BB%B6%E5%85%A5%E4%BE%B5-%E6%A0%A1%E6%96%B9%E6%8C%87%E6%9C%89%E9%97%9C%E7%B6%B2%E9%A0%81%E5%85%A7%E5%AE%B9%E5%B7%B2%E7%A7%BB%E9%99%A4-%E6%9C%AA%E6%8E%A5%E4%BB%BB%E4%BD%95%E7%B4%A2%E6%B1%82",
     "timestamp": "2026-08-16T10:12:16.087Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "車cam｜深圳兩地牌Tesla險撞過路電單車　目擊者呼：嘩！衝紅燈喎",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260816/1165716410987450368376840.jpeg/Xdzoxn_OIZB3VCMnBHPB3eKEZ7zLh4fkSBogDUgaIA0",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60380488/%E8%BB%8Acam-%E6%B7%B1%E5%9C%B3%E5%85%A9%E5%9C%B0%E7%89%8Ctesla%E9%9A%AA%E6%92%9E%E9%81%8E%E8%B7%AF%E9%9B%BB%E5%96%AE%E8%BB%8A-%E7%9B%AE%E6%93%8A%E8%80%85%E5%91%BC-%E5%98%A9-%E8%A1%9D%E7%B4%85%E7%87%88%E5%96%8E",
-    "timestamp": "2026-08-16T09:59:58.666Z",
     "strategy": ".content-card__main"
   }
 ];
