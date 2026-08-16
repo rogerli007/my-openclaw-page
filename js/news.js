@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-16T18:30:14.000Z
+// Last updated: 2026-08-16T18:48:13.185Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "特朗普女婿埃及晤哈馬斯領袖哈亞　促落實加沙和平計劃",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20241018/924048999554486272120539.png/qOERZm-z_uffhejmhl-V5oLiOhbAzV-uqJOifKiTonw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60380551/%E7%89%B9%E6%9C%97%E6%99%AE%E5%A5%B3%E5%A9%BF%E5%9F%83%E5%8F%8A%E6%99%A4%E5%93%88%E9%A6%AC%E6%96%AF%E9%A0%98%E8%A2%96%E5%93%88%E4%BA%9E-%E4%BF%83%E8%90%BD%E5%AF%A6%E5%8A%A0%E6%B2%99%E5%92%8C%E5%B9%B3%E8%A8%88%E5%8A%83",
+    "timestamp": "2026-08-16T18:48:13.185Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "特朗普女婿埃及晤哈馬斯領袖哈亞　促落實加沙和平計劃",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20230316/713064917732691968315029.jpeg/8ucUbK_jjMkWib0wXkph3Sfblk5xNyQ8L6OcFy-jnBc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60380510/%E9%9F%93%E5%9C%8B%E6%99%82%E9%9A%9416%E5%B9%B4%E9%87%8D%E5%95%9F%E8%BF%BD%E8%A8%8E%E8%A6%AA%E6%97%A5%E6%B4%BE%E8%B3%87%E7%94%A2-%E8%AA%BF%E6%9F%A5%E5%A7%94%E5%93%A1%E6%9C%83%E6%96%99%E5%B9%B4%E5%BA%95%E8%B5%B7%E9%81%8B%E4%BD%9C",
     "timestamp": "2026-08-16T13:19:40.858Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "傳銷頭目出獄化身「國學大師」開辦書院　涉暴力體罰學員被刑拘",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260816/1165761100566761472845012.jpeg/QuQ-M3K6KAmwcoWqzdt7iur5EdAzAMWTcoP1lnKD9ZY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60380521/%E5%82%B3%E9%8A%B7%E9%A0%AD%E7%9B%AE%E5%87%BA%E7%8D%84%E5%8C%96%E8%BA%AB-%E5%9C%8B%E5%AD%B8%E5%A4%A7%E5%B8%AB-%E9%96%8B%E8%BE%A6%E6%9B%B8%E9%99%A2-%E6%B6%89%E6%9A%B4%E5%8A%9B%E9%AB%94%E7%BD%B0%E5%AD%B8%E5%93%A1%E8%A2%AB%E5%88%91%E6%8B%98",
-    "timestamp": "2026-08-16T12:54:01.930Z",
     "strategy": ".content-card__main"
   }
 ];
