@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-16T06:35:59.987Z
+// Last updated: 2026-08-16T07:06:35.697Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "酒店禁忌｜別敲門說「打擾了」　專家教正確避邪5招：睡覺開小燈",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260814/1164894203675676672439861.png/smVIMulCPjJZeCot9zeBXePwyqO_ctDPIDJbWSAyW1k?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%97%85%E9%81%8A/60379770/%E9%85%92%E5%BA%97%E7%A6%81%E5%BF%8C-%E5%88%A5%E6%95%B2%E9%96%80%E8%AA%AA-%E6%89%93%E6%93%BE%E4%BA%86-%E5%B0%88%E5%AE%B6%E6%95%99%E6%AD%A3%E7%A2%BA%E9%81%BF%E9%82%AA5%E6%8B%9B-%E7%9D%A1%E8%A6%BA%E9%96%8B%E5%B0%8F%E7%87%88",
+    "timestamp": "2026-08-16T07:06:35.697Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美航母林肯號被指環境惡劣有士兵想跳海　中央司令部司令前往視察",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260816/1165539914498969600964725.jpeg/LFdLmPUDdZCl7lIOG8wKovdx4BkNxHwt7Ut3ONdLdzg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60380375/%E5%A4%A9%E6%B0%A3-%E9%A0%90%E6%96%99%E6%97%A5%E9%96%93%E7%9F%AD%E6%9A%AB%E6%9C%89%E9%99%BD%E5%85%89%E5%8F%8A%E9%85%B7%E7%86%B1-%E6%9C%89%E5%B9%BE%E9%99%A3%E9%A9%9F%E9%9B%A8-%E5%B1%80%E9%83%A8%E5%9C%B0%E5%8D%80%E6%9C%89%E9%9B%B7%E6%9A%B4",
     "timestamp": "2026-08-15T22:10:46.501Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "法國多地林火狂燒　馬克龍騎水上摩托車照片掀爭議",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260816/1165528769360826368987163.png/89_Ay8fZo5EEMtbcXGAUDqwZgANvygxyOT8_eTk_P3k?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60380376/%E6%B3%95%E5%9C%8B%E5%A4%9A%E5%9C%B0%E6%9E%97%E7%81%AB%E7%8B%82%E7%87%92-%E9%A6%AC%E5%85%8B%E9%BE%8D%E9%A8%8E%E6%B0%B4%E4%B8%8A%E6%91%A9%E6%89%98%E8%BB%8A%E7%85%A7%E7%89%87%E6%8E%80%E7%88%AD%E8%AD%B0",
-    "timestamp": "2026-08-15T21:56:30.070Z",
     "strategy": ".content-card__main"
   }
 ];
