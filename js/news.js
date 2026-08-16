@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-16T18:48:13.185Z
+// Last updated: 2026-08-16T19:02:52.436Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "九龍城小狗突衝出馬路　好心鐵騎路中央救狗　網民轟主人無繫繩",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260817/1165849276652195840653927.png/L1FWj7onIRpbYdikyHEbTkWh5PJ4Awbvg7FgnIOxYJw",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60380553/%E4%B9%9D%E9%BE%8D%E5%9F%8E%E5%B0%8F%E7%8B%97%E7%AA%81%E8%A1%9D%E5%87%BA%E9%A6%AC%E8%B7%AF-%E5%A5%BD%E5%BF%83%E9%90%B5%E9%A8%8E%E8%B7%AF%E4%B8%AD%E5%A4%AE%E6%95%91%E7%8B%97-%E7%B6%B2%E6%B0%91%E8%BD%9F%E4%B8%BB%E4%BA%BA%E7%84%A1%E7%B9%AB%E7%B9%A9",
+    "timestamp": "2026-08-16T19:02:52.436Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "特朗普女婿埃及晤哈馬斯領袖哈亞　促落實加沙和平計劃",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20240725/893168018291429376194078.jpeg/lzfYLCArZq6R5bT6kuPYAXo_wnTwMs-ny2mOZstpjmY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60380412/%E9%AC%BC%E6%9C%88%E8%8B%A5%E6%9C%89-%E9%99%B0%E9%99%BD%E7%9C%BC-%E8%83%BD%E7%9C%8B%E5%88%B0%E4%BB%80%E9%BA%BC-%E7%B6%B2%E6%8F%AD4%E5%9C%B0%E9%BB%9E%E9%AC%BC%E5%B8%B8%E5%87%BA%E6%B2%92-%E5%88%A5%E5%86%92%E7%8A%AF%E5%B0%B1%E5%A5%BD",
     "timestamp": "2026-08-16T13:36:29.742Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "韓國時隔16年重啟追討親日派資產　調查委員會料年底起運作",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20230316/713064917732691968315029.jpeg/8ucUbK_jjMkWib0wXkph3Sfblk5xNyQ8L6OcFy-jnBc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60380510/%E9%9F%93%E5%9C%8B%E6%99%82%E9%9A%9416%E5%B9%B4%E9%87%8D%E5%95%9F%E8%BF%BD%E8%A8%8E%E8%A6%AA%E6%97%A5%E6%B4%BE%E8%B3%87%E7%94%A2-%E8%AA%BF%E6%9F%A5%E5%A7%94%E5%93%A1%E6%9C%83%E6%96%99%E5%B9%B4%E5%BA%95%E8%B5%B7%E9%81%8B%E4%BD%9C",
-    "timestamp": "2026-08-16T13:19:40.858Z",
     "strategy": ".content-card__main"
   }
 ];
