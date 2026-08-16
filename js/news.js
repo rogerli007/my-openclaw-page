@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-16T22:10:11.024Z
+// Last updated: 2026-08-16T22:56:32.802Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "特朗普稱與金正恩關係良好　已指示大幅削減美韓聯合軍演規模",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260817/1165907941061038080495327.jpeg/3DTVvGYinvo17k9VIpcP8EUhVwnpGTcEH0DKQR9AykE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60380558/%E7%89%B9%E6%9C%97%E6%99%AE%E7%A8%B1%E8%88%87%E9%87%91%E6%AD%A3%E6%81%A9%E9%97%9C%E4%BF%82%E8%89%AF%E5%A5%BD-%E5%B7%B2%E6%8C%87%E7%A4%BA%E5%A4%A7%E5%B9%85%E5%89%8A%E6%B8%9B%E7%BE%8E%E9%9F%93%E8%81%AF%E5%90%88%E8%BB%8D%E6%BC%94%E8%A6%8F%E6%A8%A1",
+    "timestamp": "2026-08-16T22:56:32.802Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美軍：林肯號上心理問題個案　為11艘現役航母中最少",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260816/1165673287259262976260754.jpeg/vzAS6_4PYC7FZznX7dtvHGDTSiDIP37BqbN8hamzfIU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60380434/%E6%A5%8A%E5%8D%83%E5%AC%85%E6%AD%8E%E5%BB%A3%E5%B7%9E%E5%9C%B0%E9%81%93%E7%BE%8E%E9%A3%9F%E5%B0%8B%E7%AB%A5%E5%B9%B4%E5%9B%9E%E6%86%B6-%E7%8F%BE%E8%BA%AB%E5%BF%AB%E9%96%83%E5%B1%95%E7%B2%89%E7%B5%B2%E5%90%88%E7%85%A7%E6%9C%89%E6%B1%82%E5%BF%85%E6%87%89",
     "timestamp": "2026-08-16T16:30:24.492Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "夏雨爆秦煌早前入院現已出院　揭老友雙腿水腫患糖尿病仍拒絕戒口",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260816/1165738633953546240241396.jpeg/Ri9C_7al1svBwJrXWlPsoA-cqCbNG4hF7CQhhewkIYU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60380489/%E5%A4%8F%E9%9B%A8%E7%88%86%E7%A7%A6%E7%85%8C%E6%97%A9%E5%89%8D%E5%85%A5%E9%99%A2%E7%8F%BE%E5%B7%B2%E5%87%BA%E9%99%A2-%E6%8F%AD%E8%80%81%E5%8F%8B%E9%9B%99%E8%85%BF%E6%B0%B4%E8%85%AB%E6%82%A3%E7%B3%96%E5%B0%BF%E7%97%85%E4%BB%8D%E6%8B%92%E7%B5%95%E6%88%92%E5%8F%A3",
-    "timestamp": "2026-08-16T16:11:16.767Z",
     "strategy": ".content-card__main"
   }
 ];
