@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-16T16:30:24.492Z
+// Last updated: 2026-08-16T16:46:02.304Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "楊千嬅歎廣州地道美食尋童年回憶　現身快閃展粉絲合照有求必應",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260816/1165673287259262976260754.jpeg/vzAS6_4PYC7FZznX7dtvHGDTSiDIP37BqbN8hamzfIU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60380434/%E6%A5%8A%E5%8D%83%E5%AC%85%E6%AD%8E%E5%BB%A3%E5%B7%9E%E5%9C%B0%E9%81%93%E7%BE%8E%E9%A3%9F%E5%B0%8B%E7%AB%A5%E5%B9%B4%E5%9B%9E%E6%86%B6-%E7%8F%BE%E8%BA%AB%E5%BF%AB%E9%96%83%E5%B1%95%E7%B2%89%E7%B5%B2%E5%90%88%E7%85%A7%E6%9C%89%E6%B1%82%E5%BF%85%E6%87%89",
+    "timestamp": "2026-08-16T16:46:02.304Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "楊千嬅歎廣州地道美食尋童年回憶　現身快閃展粉絲合照有求必應",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260816/1165694630797250560712549.jpeg/1C7s5gLZ07hZpkyY1kYFtXfsto2M6tQML7CJBwqwiQc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60380465/opatra-london%E7%BE%8E%E5%AE%B9%E5%BA%97%E6%B2%99%E7%94%B0%E5%B1%AF%E9%96%80%E5%88%86%E5%BA%97%E7%AA%81%E5%81%9C%E6%A5%AD-%E5%A9%A6%E4%BA%BA%E6%97%A9%E5%89%8D%E5%93%AD%E8%A8%B4%E4%B8%8D%E8%89%AF%E9%8A%B7%E5%94%AE",
     "timestamp": "2026-08-16T10:29:47.383Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "浸大疑遭勒索軟件入侵　校方指有關網頁內容已移除　未接任何索求",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20210717/493168981545324544384570.jpeg/6eNO4tIFtR6XX2uqXQGbV2LnBOW8ySTsE9lTEBPZUxA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60380491/%E6%B5%B8%E5%A4%A7%E7%96%91%E9%81%AD%E5%8B%92%E7%B4%A2%E8%BB%9F%E4%BB%B6%E5%85%A5%E4%BE%B5-%E6%A0%A1%E6%96%B9%E6%8C%87%E6%9C%89%E9%97%9C%E7%B6%B2%E9%A0%81%E5%85%A7%E5%AE%B9%E5%B7%B2%E7%A7%BB%E9%99%A4-%E6%9C%AA%E6%8E%A5%E4%BB%BB%E4%BD%95%E7%B4%A2%E6%B1%82",
-    "timestamp": "2026-08-16T10:12:16.087Z",
     "strategy": ".content-card__main"
   }
 ];
