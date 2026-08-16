@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-16T10:44:36.529Z
+// Last updated: 2026-08-16T10:59:10.233Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "羅淑佩：孫中山誕辰160周年紀念　康文署將辦展覽及教育推廣活動",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260816/1165725181671378944075362.jpeg/Gp21pMwxD_D_SaK0qqgjTCftqTPH6AI-DAWvSSkFr0k?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60380499/%E7%BE%85%E6%B7%91%E4%BD%A9-%E5%AD%AB%E4%B8%AD%E5%B1%B1%E8%AA%95%E8%BE%B0160%E5%91%A8%E5%B9%B4%E7%B4%80%E5%BF%B5-%E5%BA%B7%E6%96%87%E7%BD%B2%E5%B0%87%E8%BE%A6%E5%B1%95%E8%A6%BD%E5%8F%8A%E6%95%99%E8%82%B2%E6%8E%A8%E5%BB%A3%E6%B4%BB%E5%8B%95",
+    "timestamp": "2026-08-16T10:59:10.233Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "羅淑佩：孫中山誕辰160周年紀念　康文署將辦展覽及教育推廣活動",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260224/1103037962054012928961380.jpeg/EUtdaEtQtWvO-_rG_2ZRqC-ozPqsgYkN0IZyN9CGcjc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60380421/%E6%96%BD%E6%94%BF%E5%A0%B1%E5%91%8A-%E6%99%BA%E5%BA%AB%E5%80%A13%E5%84%84%E8%A8%AD%E8%A6%8F%E5%8A%83%E5%8F%8A%E6%94%BF%E7%AD%96%E7%A0%94%E7%A9%B6%E8%81%B7%E7%B3%BB-%E8%A3%9C%E5%85%85%E7%89%B9%E9%A6%96%E6%94%BF%E7%AD%96%E7%B5%84%E5%8A%9F%E8%83%BD",
     "timestamp": "2026-08-16T05:14:56.178Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "古洞首個新盤　PARK SILICON第二期首輪開賣82伙　準買家陸續到場",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260816/1165641577507328000835264.jpeg/Wt1N2cGcb2QuCJaN2TiEww5KXc8BDQl3D037rg9N-64?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60380364/%E5%8F%A4%E6%B4%9E%E9%A6%96%E5%80%8B%E6%96%B0%E7%9B%A4-park-silicon%E7%AC%AC%E4%BA%8C%E6%9C%9F%E9%A6%96%E8%BC%AA%E9%96%8B%E8%B3%A382%E4%BC%99-%E6%BA%96%E8%B2%B7%E5%AE%B6%E9%99%B8%E7%BA%8C%E5%88%B0%E5%A0%B4",
-    "timestamp": "2026-08-16T04:52:23.272Z",
     "strategy": ".content-card__main"
   }
 ];
