@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-16T09:06:05.896Z
+// Last updated: 2026-08-16T09:16:52.432Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "香港飛盤總會新疆參賽　盼回歸30周年邀澳門內地代表來港比賽",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260816/1165707319548317696052379.jpeg/7xJ7HAnPxz8S_k5kg-oEmSpMlZIz8jG2MdkexTHZHsU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60380481/%E9%A6%99%E6%B8%AF%E9%A3%9B%E7%9B%A4%E7%B8%BD%E6%9C%83%E6%96%B0%E7%96%86%E5%8F%83%E8%B3%BD-%E7%9B%BC%E5%9B%9E%E6%AD%B830%E5%91%A8%E5%B9%B4%E9%82%80%E6%BE%B3%E9%96%80%E5%85%A7%E5%9C%B0%E4%BB%A3%E8%A1%A8%E4%BE%86%E6%B8%AF%E6%AF%94%E8%B3%BD",
+    "timestamp": "2026-08-16T09:16:52.432Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "軟科世界大學排名｜本港2院校躋身百強　港大排62位　城大排第95",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260722/1156545008921219072045261.jpeg/CwGPuVTgDXpAUp1PZpqwZ3Fd2gZEChZuOJaPITiWjyE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60380383/%E8%B2%9D%E6%A3%AE%E7%89%B9-%E7%BE%8E%E5%9C%8B%E9%80%B2%E4%B8%80%E6%AD%A5%E7%B6%93%E6%BF%9F%E6%89%93%E6%93%8A%E4%BC%8A%E6%9C%97-%E7%BE%8E%E5%AA%92%E7%8C%9C%E6%B8%AC%E4%BA%94%E5%A4%A7%E5%8F%AF%E8%83%BD%E6%8E%AA%E6%96%BD",
     "timestamp": "2026-08-16T00:55:06.489Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "英偉達披露SpaceX持倉：210億美元押注馬斯克火箭",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260617/1143853507527315456962780.jpeg/LysTgPtd6WiDWZM6qkmluZHgFN4iugPkWUnat1lJ2rc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60380380/%E8%8B%B1%E5%81%89%E9%81%94%E6%8A%AB%E9%9C%B2spacex%E6%8C%81%E5%80%89-210%E5%84%84%E7%BE%8E%E5%85%83%E6%8A%BC%E6%B3%A8%E9%A6%AC%E6%96%AF%E5%85%8B%E7%81%AB%E7%AE%AD",
-    "timestamp": "2026-08-16T00:24:17.920Z",
     "strategy": ".content-card__main"
   }
 ];
