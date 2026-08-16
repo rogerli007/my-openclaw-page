@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-16T19:02:52.436Z
+// Last updated: 2026-08-16T19:14:45.940Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "九龍城小狗突衝出馬路　好心鐵騎路中央救狗　網民轟主人無繫繩",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260817/1165849276652195840653927.png/L1FWj7onIRpbYdikyHEbTkWh5PJ4Awbvg7FgnIOxYJw",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60380553/%E4%B9%9D%E9%BE%8D%E5%9F%8E%E5%B0%8F%E7%8B%97%E7%AA%81%E8%A1%9D%E5%87%BA%E9%A6%AC%E8%B7%AF-%E5%A5%BD%E5%BF%83%E9%90%B5%E9%A8%8E%E8%B7%AF%E4%B8%AD%E5%A4%AE%E6%95%91%E7%8B%97-%E7%B6%B2%E6%B0%91%E8%BD%9F%E4%B8%BB%E4%BA%BA%E7%84%A1%E7%B9%AB%E7%B9%A9",
+    "timestamp": "2026-08-16T19:14:45.940Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "九龍城小狗突衝出馬路　好心鐵騎路中央救狗　網民轟主人無繫繩",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250326/981560923678314496267318.jpeg/ZdGy8Oj0_qxqCZja-1mnGDBFHe58kWaDXwaCol8GgqI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60380529/%E7%81%A3%E4%BB%94%E5%85%A9%E7%A7%81%E5%AE%B6%E8%BB%8A%E7%9B%B8%E6%92%9E-%E5%A5%B3%E4%B9%98%E5%AE%A2%E4%B8%80%E5%91%A8%E5%BE%8C%E4%BA%A1-%E8%82%87%E4%BA%8B%E4%BC%91%E7%8F%AD%E8%AD%A6%E9%9A%94%E8%BF%91%E5%8D%8A%E5%B9%B4%E8%A2%AB%E6%8E%A7%E5%8D%B1%E9%A7%95",
     "timestamp": "2026-08-16T13:59:15.011Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "鬼月若有「陰陽眼」能看到什麼？網揭4地點鬼常出沒：別冒犯就好",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20240725/893168018291429376194078.jpeg/lzfYLCArZq6R5bT6kuPYAXo_wnTwMs-ny2mOZstpjmY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60380412/%E9%AC%BC%E6%9C%88%E8%8B%A5%E6%9C%89-%E9%99%B0%E9%99%BD%E7%9C%BC-%E8%83%BD%E7%9C%8B%E5%88%B0%E4%BB%80%E9%BA%BC-%E7%B6%B2%E6%8F%AD4%E5%9C%B0%E9%BB%9E%E9%AC%BC%E5%B8%B8%E5%87%BA%E6%B2%92-%E5%88%A5%E5%86%92%E7%8A%AF%E5%B0%B1%E5%A5%BD",
-    "timestamp": "2026-08-16T13:36:29.742Z",
     "strategy": ".content-card__main"
   }
 ];
