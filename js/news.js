@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-16T05:14:56.178Z
+// Last updated: 2026-08-16T05:31:03.803Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "搶人才｜桌球手為避稅成港人？　郭俊峯不同意：中東有國家0稅率",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260812/1164174150588436480271536.png/4eKtbXBpcdkT3s51nwyae5FvRs2SNh3iBt-d8AbfnfA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60380422/%E6%90%B6%E4%BA%BA%E6%89%8D-%E6%A1%8C%E7%90%83%E6%89%8B%E7%82%BA%E9%81%BF%E7%A8%85%E6%88%90%E6%B8%AF%E4%BA%BA-%E9%83%AD%E4%BF%8A%E5%B3%AF%E4%B8%8D%E5%90%8C%E6%84%8F-%E4%B8%AD%E6%9D%B1%E6%9C%89%E5%9C%8B%E5%AE%B60%E7%A8%85%E7%8E%87",
+    "timestamp": "2026-08-16T05:31:03.803Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "施政報告｜智庫倡3億設規劃及政策研究職系　補充特首政策組功能",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260816/1165513437900443648207564.png/AXdFQiiygGu337Yg6rCQisSmZZalGn1M7lG1vO5Rtbw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60380372/%E7%BE%8E%E8%BB%8Df-18%E5%A2%9C%E6%AF%80%E5%B1%B1%E5%8D%80-%E9%A3%9B%E8%A1%8C%E5%93%A1%E8%B6%85%E6%B7%A1%E5%AE%9A-%E5%98%BF-%E6%88%91%E5%8F%AA%E6%98%AF%E5%A2%9C%E6%A9%9F%E4%BA%86-%E6%9C%89%E7%89%87",
     "timestamp": "2026-08-15T20:45:20.290Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "悉尼邦迪恐襲後出招　澳洲推槍械回購　每支補償最高5萬",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260506/1128720680053903360271634.jpeg/viULTC_Kpj19lnPF-Tld0-yC4hHI_-sClJMzx5STM8c?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60380370/%E6%82%89%E5%B0%BC%E9%82%A6%E8%BF%AA%E6%81%90%E8%A5%B2%E5%BE%8C%E5%87%BA%E6%8B%9B-%E6%BE%B3%E6%B4%B2%E6%8E%A8%E6%A7%8D%E6%A2%B0%E5%9B%9E%E8%B3%BC-%E6%AF%8F%E6%94%AF%E8%A3%9C%E5%84%9F%E6%9C%80%E9%AB%985%E8%90%AC",
-    "timestamp": "2026-08-15T20:10:11.388Z",
     "strategy": ".content-card__main"
   }
 ];
