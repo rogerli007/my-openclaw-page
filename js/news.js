@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-16T09:16:52.432Z
+// Last updated: 2026-08-16T09:32:42.814Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "林盛斌18歲大女疑繼承父親衣缽　林霏兒曬演藝學生證預告繼續性感",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260816/1165704789355401216405961.png/txhRGxT_lP_OPTkJf1hVPG52A7QpFKMG2K7LMtiuyzI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60380480/%E6%9E%97%E7%9B%9B%E6%96%8C18%E6%AD%B2%E5%A4%A7%E5%A5%B3%E7%96%91%E7%B9%BC%E6%89%BF%E7%88%B6%E8%A6%AA%E8%A1%A3%E7%BC%BD-%E6%9E%97%E9%9C%8F%E5%85%92%E6%9B%AC%E6%BC%94%E8%97%9D%E5%AD%B8%E7%94%9F%E8%AD%89%E9%A0%90%E5%91%8A%E7%B9%BC%E7%BA%8C%E6%80%A7%E6%84%9F",
+    "timestamp": "2026-08-16T09:32:42.814Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "香港飛盤總會新疆參賽　盼回歸30周年邀澳門內地代表來港比賽",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260813/1164615610143870976876920.jpeg/4TRuzvIVodzg1HCjq9as0hojH_UV0qTUJYRuhCWEboQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60379658/%E7%84%A1%E4%BA%BA%E6%A9%9F%E6%99%82%E4%BB%A3%E7%82%BA%E4%BD%95%E4%BB%8D%E9%9C%80%E9%87%8D%E6%AD%A6%E7%9B%B4%E5%8D%87%E6%A9%9F%E7%9B%B4-21-%E5%85%A8%E5%9F%9F%E8%BF%91%E6%88%B0%E8%88%87%E8%AD%B7%E8%88%AA%E5%8A%9B%E9%9B%A3%E8%A2%AB%E5%8F%96%E4%BB%A3",
     "timestamp": "2026-08-16T01:37:46.637Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "貝森特：美國進一步經濟打擊伊朗　美媒猜測五大可能措施",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260722/1156545008921219072045261.jpeg/CwGPuVTgDXpAUp1PZpqwZ3Fd2gZEChZuOJaPITiWjyE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60380383/%E8%B2%9D%E6%A3%AE%E7%89%B9-%E7%BE%8E%E5%9C%8B%E9%80%B2%E4%B8%80%E6%AD%A5%E7%B6%93%E6%BF%9F%E6%89%93%E6%93%8A%E4%BC%8A%E6%9C%97-%E7%BE%8E%E5%AA%92%E7%8C%9C%E6%B8%AC%E4%BA%94%E5%A4%A7%E5%8F%AF%E8%83%BD%E6%8E%AA%E6%96%BD",
-    "timestamp": "2026-08-16T00:55:06.489Z",
     "strategy": ".content-card__main"
   }
 ];
