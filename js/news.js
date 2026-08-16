@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-16T20:57:04.328Z
+// Last updated: 2026-08-16T21:11:31.638Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "希臘薩拉米斯島山火　至少2死9人傷",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260817/1165850463728570368746985.jpeg/ynQfaPBfj8MBBacVwmFK7NlMkWBwNg_yZKfpvWSn6b0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60380554/%E5%B8%8C%E8%87%98%E8%96%A9%E6%8B%89%E7%B1%B3%E6%96%AF%E5%B3%B6%E5%B1%B1%E7%81%AB-%E8%87%B3%E5%B0%912%E6%AD%BB9%E4%BA%BA%E5%82%B7",
+    "timestamp": "2026-08-16T21:11:31.638Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "埃及總統晤特朗普女婿談加沙局勢　多國聯合譴責以色列",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260816/1165693945695440896062489.jpeg/F0fdL7ZrNavP6KNO7UxPHtYYffzco1brA4jGHwOIxh8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60380463/%E4%B8%80%E5%91%A8%E6%98%9F%E6%98%9F-%E5%8A%89%E5%98%89%E7%8E%B2%E9%A9%9A%E7%88%86%E6%83%B3%E7%9D%87%E6%98%9F%E7%88%BA%E5%90%88%E9%AB%94%E6%A2%81%E6%9C%9D%E5%81%89-%E5%91%A8%E6%98%9F%E9%A6%B3%E9%9C%B8%E6%B0%A3%E5%9B%9E%E6%87%89%E5%BC%95%E5%93%84%E5%8B%95",
     "timestamp": "2026-08-16T15:56:27.699Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "54歲江希文斷食36小時展火辣身材　黑色Bra Top曬豐滿上圍水蛇腰",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260816/1165650957162254336905241.jpeg/Sq9WkczcO0Xy8VQblT_uBu8xYRuiq0dqub1hirm9YYo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E5%A8%9B%E6%A8%82/60380405/54%E6%AD%B2%E6%B1%9F%E5%B8%8C%E6%96%87%E6%96%B7%E9%A3%9F36%E5%B0%8F%E6%99%82%E5%B1%95%E7%81%AB%E8%BE%A3%E8%BA%AB%E6%9D%90-%E9%BB%91%E8%89%B2bra-top%E6%9B%AC%E8%B1%90%E6%BB%BF%E4%B8%8A%E5%9C%8D%E6%B0%B4%E8%9B%87%E8%85%B0",
-    "timestamp": "2026-08-16T15:17:09.048Z",
     "strategy": ".content-card__main"
   }
 ];
