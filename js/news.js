@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-16T14:57:21.871Z
+// Last updated: 2026-08-16T15:17:09.048Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "54歲江希文斷食36小時展火辣身材　黑色Bra Top曬豐滿上圍水蛇腰",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260816/1165650957162254336905241.jpeg/Sq9WkczcO0Xy8VQblT_uBu8xYRuiq0dqub1hirm9YYo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E5%A8%9B%E6%A8%82/60380405/54%E6%AD%B2%E6%B1%9F%E5%B8%8C%E6%96%87%E6%96%B7%E9%A3%9F36%E5%B0%8F%E6%99%82%E5%B1%95%E7%81%AB%E8%BE%A3%E8%BA%AB%E6%9D%90-%E9%BB%91%E8%89%B2bra-top%E6%9B%AC%E8%B1%90%E6%BB%BF%E4%B8%8A%E5%9C%8D%E6%B0%B4%E8%9B%87%E8%85%B0",
+    "timestamp": "2026-08-16T15:17:09.048Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "東張西望｜「軟飯男」甜言蜜語冧少女　沉船後帶去傳銷公司開單",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260816/1165707319548317696052379.jpeg/7xJ7HAnPxz8S_k5kg-oEmSpMlZIz8jG2MdkexTHZHsU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60380481/%E9%A6%99%E6%B8%AF%E9%A3%9B%E7%9B%A4%E7%B8%BD%E6%9C%83%E6%96%B0%E7%96%86%E5%8F%83%E8%B3%BD-%E7%9B%BC%E5%9B%9E%E6%AD%B830%E5%91%A8%E5%B9%B4%E9%82%80%E6%BE%B3%E9%96%80%E5%85%A7%E5%9C%B0%E4%BB%A3%E8%A1%A8%E4%BE%86%E6%B8%AF%E6%AF%94%E8%B3%BD",
     "timestamp": "2026-08-16T09:16:52.432Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "軟科世界大學排名｜本港2院校躋身百強　港大排62位　城大排第95",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20220615/613766779960823808753406.jpeg/nxmG_V6ZN4baJJ6MMeMnNJe7_zIQ4ye2oaw4qqGsOKo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%B0%88%E4%B8%8A%E6%95%99%E8%82%B2/60380451/%E8%BB%9F%E7%A7%91%E4%B8%96%E7%95%8C%E5%A4%A7%E5%AD%B8%E6%8E%92%E5%90%8D-%E6%9C%AC%E6%B8%AF2%E9%99%A2%E6%A0%A1%E8%BA%8B%E8%BA%AB%E7%99%BE%E5%BC%B7-%E6%B8%AF%E5%A4%A7%E6%8E%9262%E4%BD%8D-%E5%9F%8E%E5%A4%A7%E6%8E%92%E7%AC%AC95",
-    "timestamp": "2026-08-16T09:06:05.896Z",
     "strategy": ".content-card__main"
   }
 ];
