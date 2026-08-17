@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-17T22:45:52.080Z
+// Last updated: 2026-08-17T23:12:34.791Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "海景值千金！內地專才擲3480萬住西半山　貴過估價兼呎價破3年高",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20251203/1072916185193910272801927.jpeg/xLNsBrG0IHWzwJxUAMrLd9x5J7yQRlPmpe5MY4DuTGM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60380766/%E6%B5%B7%E6%99%AF%E5%80%BC%E5%8D%83%E9%87%91-%E5%85%A7%E5%9C%B0%E5%B0%88%E6%89%8D%E6%93%B23480%E8%90%AC%E4%BD%8F%E8%A5%BF%E5%8D%8A%E5%B1%B1-%E8%B2%B4%E9%81%8E%E4%BC%B0%E5%83%B9%E5%85%BC%E5%91%8E%E5%83%B9%E7%A0%B43%E5%B9%B4%E9%AB%98",
+    "timestamp": "2026-08-17T23:12:34.791Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美媒：習近平料9.23晚抵美　翌日晤特朗普　不會出席聯合國大會",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260817/1166164877710987264293706.jpeg/utO8mAdZWzNkiaVfQAW8AwHmU_CgSL69YNmh02DZodM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60380911/%E8%AC%9D%E5%B1%95%E5%AF%B0%E8%A8%AA%E5%95%8F%E4%B8%8A%E6%B5%B7%E6%99%A4%E5%9C%8B%E7%B6%B2%E9%A0%98%E5%B0%8E-%E8%80%83%E5%AF%9F%E9%9B%BB%E7%B6%B2%E7%9B%A3%E7%AE%A1%E6%96%B9%E9%9D%A2%E7%99%BC%E5%B1%95",
     "timestamp": "2026-08-17T15:45:06.675Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "元朗狗咬狗｜大狗疑上月同地點乘涼被漁護接走　毛守：八九成係佢",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260817/1166164363493511168245190.jpeg/5TudBXrLf4pi_bF5yLgkpVpBQDg_4dtLCEgJOwhICTs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60380906/%E5%85%83%E6%9C%97%E7%8B%97%E5%92%AC%E7%8B%97-%E5%A4%A7%E7%8B%97%E7%96%91%E4%B8%8A%E6%9C%88%E5%90%8C%E5%9C%B0%E9%BB%9E%E4%B9%98%E6%B6%BC%E8%A2%AB%E6%BC%81%E8%AD%B7%E6%8E%A5%E8%B5%B0-%E6%AF%9B%E5%AE%88-%E5%85%AB%E4%B9%9D%E6%88%90%E4%BF%82%E4%BD%A2",
-    "timestamp": "2026-08-17T15:30:22.963Z",
     "strategy": ".content-card__main"
   }
 ];
