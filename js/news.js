@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-17T09:52:21.731Z
+// Last updated: 2026-08-17T10:17:16.761Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "AlipayHK旅行賺到盡攻略！全球Call車減$88+回贈+消費券慳逾$1000",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260814/1165029146850496512542867.jpeg/XFyYVjlAjXtqZiId6BQWwiAbQfSij7Xsow8RKKMPESg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%97%85%E9%81%8A/60379018/alipayhk%E6%97%85%E8%A1%8C%E8%B3%BA%E5%88%B0%E7%9B%A1%E6%94%BB%E7%95%A5-%E5%85%A8%E7%90%83call%E8%BB%8A%E6%B8%9B-88-%E5%9B%9E%E8%B4%88-%E6%B6%88%E8%B2%BB%E5%88%B8%E6%85%B3%E9%80%BE-1000",
+    "timestamp": "2026-08-17T10:17:16.761Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "亞運會｜港隊壁球單打金牌獎金30萬元　壁總高層自掏腰包贊助",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260817/1165850463728570368746985.jpeg/ynQfaPBfj8MBBacVwmFK7NlMkWBwNg_yZKfpvWSn6b0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60380554/%E5%B8%8C%E8%87%98%E8%96%A9%E6%8B%89%E7%B1%B3%E6%96%AF%E5%B3%B6%E5%B1%B1%E7%81%AB-%E8%87%B3%E5%B0%912%E6%AD%BB9%E4%BA%BA%E5%82%B7",
     "timestamp": "2026-08-16T21:11:31.638Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "埃及總統晤特朗普女婿談加沙局勢　多國聯合譴責以色列",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260817/1165838620834140160748960.jpeg/w57qwYp2VStg1c5zM1eJj064Gui4iTt6g4pQx4OKUMc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60380549/%E5%9F%83%E5%8F%8A%E7%B8%BD%E7%B5%B1%E6%99%A4%E7%89%B9%E6%9C%97%E6%99%AE%E5%A5%B3%E5%A9%BF%E8%AB%87%E5%8A%A0%E6%B2%99%E5%B1%80%E5%8B%A2-%E5%A4%9A%E5%9C%8B%E8%81%AF%E5%90%88%E8%AD%B4%E8%B2%AC%E4%BB%A5%E8%89%B2%E5%88%97",
-    "timestamp": "2026-08-16T20:57:04.328Z",
     "strategy": ".content-card__main"
   }
 ];
