@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-17T15:57:50.943Z
+// Last updated: 2026-08-17T16:12:22.923Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "內地男旅客曼谷抵港　海關揭手提行李藏值85萬大麻花　當場被捕",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260817/1166170466134528000029481.jpeg/O19myUxPJus6G5iXSC_BkwHU-wl8vC9FDCiqsgwoqrI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60380914/%E5%85%A7%E5%9C%B0%E7%94%B7%E6%97%85%E5%AE%A2%E6%9B%BC%E8%B0%B7%E6%8A%B5%E6%B8%AF-%E6%B5%B7%E9%97%9C%E6%8F%AD%E6%89%8B%E6%8F%90%E8%A1%8C%E6%9D%8E%E8%97%8F%E5%80%BC85%E8%90%AC%E5%A4%A7%E9%BA%BB%E8%8A%B1-%E7%95%B6%E5%A0%B4%E8%A2%AB%E6%8D%95",
+    "timestamp": "2026-08-17T16:12:22.923Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "周二上班注意　天文台料初時部分地區驟雨較多　料2低壓區共舞",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260817/1166075186164797440791265.jpeg/8m902h8Nxw3HnAx9GPFPMRcPCN-7S9SQ0_C4FdPwuBU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60380826/%E4%BA%9E%E9%81%8B%E6%9C%83-%E6%B8%AF%E9%9A%8A%E5%A3%81%E7%90%83%E5%96%AE%E6%89%93%E9%87%91%E7%89%8C%E7%8D%8E%E9%87%9130%E8%90%AC%E5%85%83-%E5%A3%81%E7%B8%BD%E9%AB%98%E5%B1%A4%E8%87%AA%E6%8E%8F%E8%85%B0%E5%8C%85%E8%B4%8A%E5%8A%A9",
     "timestamp": "2026-08-17T09:52:21.731Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "荃錦公路貨車疑失控自炒撞欄　司機腳傷一度被困　交通一度受阻",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260817/1166060537017012224295841.jpeg/h045YMv_U6un4X45zhZzAdAHU3gyswSSw8u5lMPLuZQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60380793/%E8%8D%83%E9%8C%A6%E5%85%AC%E8%B7%AF%E8%B2%A8%E8%BB%8A%E7%96%91%E5%A4%B1%E6%8E%A7%E8%87%AA%E7%82%92%E6%92%9E%E6%AC%84-%E5%8F%B8%E6%A9%9F%E8%85%B3%E5%82%B7%E4%B8%80%E5%BA%A6%E8%A2%AB%E5%9B%B0-%E4%BA%A4%E9%80%9A%E4%B8%80%E5%BA%A6%E5%8F%97%E9%98%BB",
-    "timestamp": "2026-08-17T08:51:53.138Z",
     "strategy": ".content-card__main"
   }
 ];
