@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-17T08:51:53.138Z
+// Last updated: 2026-08-17T09:52:21.731Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "亞運會｜港隊壁球單打金牌獎金30萬元　壁總高層自掏腰包贊助",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260817/1166075186164797440791265.jpeg/8m902h8Nxw3HnAx9GPFPMRcPCN-7S9SQ0_C4FdPwuBU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60380826/%E4%BA%9E%E9%81%8B%E6%9C%83-%E6%B8%AF%E9%9A%8A%E5%A3%81%E7%90%83%E5%96%AE%E6%89%93%E9%87%91%E7%89%8C%E7%8D%8E%E9%87%9130%E8%90%AC%E5%85%83-%E5%A3%81%E7%B8%BD%E9%AB%98%E5%B1%A4%E8%87%AA%E6%8E%8F%E8%85%B0%E5%8C%85%E8%B4%8A%E5%8A%A9",
+    "timestamp": "2026-08-17T09:52:21.731Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "荃錦公路貨車疑失控自炒撞欄　司機腳傷一度被困　交通一度受阻",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260817/1165838620834140160748960.jpeg/w57qwYp2VStg1c5zM1eJj064Gui4iTt6g4pQx4OKUMc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60380549/%E5%9F%83%E5%8F%8A%E7%B8%BD%E7%B5%B1%E6%99%A4%E7%89%B9%E6%9C%97%E6%99%AE%E5%A5%B3%E5%A9%BF%E8%AB%87%E5%8A%A0%E6%B2%99%E5%B1%80%E5%8B%A2-%E5%A4%9A%E5%9C%8B%E8%81%AF%E5%90%88%E8%AD%B4%E8%B2%AC%E4%BB%A5%E8%89%B2%E5%88%97",
     "timestamp": "2026-08-16T20:57:04.328Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "埃及總統晤特朗普女婿談加沙局勢　多國聯合譴責以色列",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260817/1165838620834140160748960.jpeg/w57qwYp2VStg1c5zM1eJj064Gui4iTt6g4pQx4OKUMc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60380549/%E5%9F%83%E5%8F%8A%E7%B8%BD%E7%B5%B1%E6%99%A4%E7%89%B9%E6%9C%97%E6%99%AE%E5%A5%B3%E5%A9%BF%E8%AB%87%E5%8A%A0%E6%B2%99%E5%B1%80%E5%8B%A2-%E5%A4%9A%E5%9C%8B%E8%81%AF%E5%90%88%E8%AD%B4%E8%B2%AC%E4%BB%A5%E8%89%B2%E5%88%97",
-    "timestamp": "2026-08-16T20:29:39.280Z",
     "strategy": ".content-card__main"
   }
 ];
