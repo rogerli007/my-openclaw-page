@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-17T15:45:06.675Z
+// Last updated: 2026-08-17T15:57:50.943Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "周二上班注意　天文台料初時部分地區驟雨較多　料2低壓區共舞",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260817/1166168035891875840295306.jpeg/U23UzKWYjRtu8cbzsmTSpXC2exy6xn5ONxIOizcSDos?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60380910/%E5%91%A8%E4%BA%8C%E4%B8%8A%E7%8F%AD%E6%B3%A8%E6%84%8F-%E5%A4%A9%E6%96%87%E5%8F%B0%E6%96%99%E5%88%9D%E6%99%82%E9%83%A8%E5%88%86%E5%9C%B0%E5%8D%80%E9%A9%9F%E9%9B%A8%E8%BC%83%E5%A4%9A-%E6%96%992%E4%BD%8E%E5%A3%93%E5%8D%80%E5%85%B1%E8%88%9E",
+    "timestamp": "2026-08-17T15:57:50.943Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "謝展寰訪問上海晤國網領導　考察電網監管方面發展",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260817/1166060537017012224295841.jpeg/h045YMv_U6un4X45zhZzAdAHU3gyswSSw8u5lMPLuZQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60380793/%E8%8D%83%E9%8C%A6%E5%85%AC%E8%B7%AF%E8%B2%A8%E8%BB%8A%E7%96%91%E5%A4%B1%E6%8E%A7%E8%87%AA%E7%82%92%E6%92%9E%E6%AC%84-%E5%8F%B8%E6%A9%9F%E8%85%B3%E5%82%B7%E4%B8%80%E5%BA%A6%E8%A2%AB%E5%9B%B0-%E4%BA%A4%E9%80%9A%E4%B8%80%E5%BA%A6%E5%8F%97%E9%98%BB",
     "timestamp": "2026-08-17T08:51:53.138Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "公路單車疑違例闖呈祥道　目擊者：呢位選手蕩失路｜有片",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260817/1166049184206295040452691.jpeg/isrq7vE-05N7gGtel29fvwMMlEFjydao31goXd9YKF0",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60380777/%E5%85%AC%E8%B7%AF%E5%96%AE%E8%BB%8A%E7%96%91%E9%81%95%E4%BE%8B%E9%97%96%E5%91%88%E7%A5%A5%E9%81%93-%E7%9B%AE%E6%93%8A%E8%80%85-%E5%91%A2%E4%BD%8D%E9%81%B8%E6%89%8B%E8%95%A9%E5%A4%B1%E8%B7%AF-%E6%9C%89%E7%89%87",
-    "timestamp": "2026-08-17T08:22:01.469Z",
     "strategy": ".content-card__main"
   }
 ];
