@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-17T21:57:53.768Z
+// Last updated: 2026-08-17T22:12:11.708Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "殿堂級天后曾與名嘴秘婚坐擁3億　淡出後近照罕曝光包到冚激貴氣",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260817/1166055174368661504341270.jpeg/8wlbdbdF20tAw71KZ1H_tUM1gENTn9AUM2f9AjNn_QI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60380754/%E5%BE%90%E5%B0%8F%E9%B3%B3%E6%9B%BE%E8%88%87%E5%90%8D%E5%98%B4%E7%A7%98%E5%A9%9A%E5%9D%90%E6%93%813%E5%84%84-%E6%B7%A1%E5%87%BA%E5%BE%8C%E8%BF%91%E7%85%A7%E7%BD%95%E6%9B%9D%E5%85%89%E5%8C%85%E5%88%B0%E5%86%9A%E6%BF%80%E8%B2%B4%E6%B0%A3",
+    "timestamp": "2026-08-17T22:12:11.708Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "特朗普：不尋求延長美伊諒解備忘錄　警告阿曼勿礙事否則轟炸",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260512/1130864745901985792892314.png/ocP0E4-r3lyK6xQhcZt83H39-ynjJPB23iZiO94mYjs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60380908/%E5%AE%87%E6%A8%B9%E7%A7%91%E6%8A%80%E5%91%A8%E4%B8%89%E7%A7%91%E5%89%B5%E6%9D%BF%E4%B8%8A%E5%B8%82-%E4%B8%AD%E7%B1%A4%E7%8E%87%E4%BD%8E%E8%87%B30-018-%E9%A6%96%E6%8E%9B%E6%88%96%E8%B3%BA%E9%80%BE20%E8%90%AC%E4%BA%BA%E5%B9%A3",
     "timestamp": "2026-08-17T15:00:36.852Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "元朗狗咬狗｜律師：大狗狗主不涉刑事罪　受害狗主可民事索償",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260817/1166121359940521984235497.jpeg/jEhb7hadSqEHU9eKmoJA0jdmbwZHllvaVzuTclc7k3I",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60380892/%E5%85%83%E6%9C%97%E7%8B%97%E5%92%AC%E7%8B%97-%E5%BE%8B%E5%B8%AB-%E5%A4%A7%E7%8B%97%E7%8B%97%E4%B8%BB%E4%B8%8D%E6%B6%89%E5%88%91%E4%BA%8B%E7%BD%AA-%E5%8F%97%E5%AE%B3%E7%8B%97%E4%B8%BB%E5%8F%AF%E6%B0%91%E4%BA%8B%E7%B4%A2%E5%84%9F",
-    "timestamp": "2026-08-17T14:47:03.611Z",
     "strategy": ".content-card__main"
   }
 ];
