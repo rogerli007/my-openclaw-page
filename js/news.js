@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-17T10:17:16.761Z
+// Last updated: 2026-08-17T10:57:43.982Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "韓國執政黨黨首選舉　前國務總理金民錫當選",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260324/1113116372805619712863105.jpeg/JKJDw-k1DuKQzqriqR-b9O5i6l9PBI7u-X8O5vl_DuY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60380858/%E9%9F%93%E5%9C%8B%E5%9F%B7%E6%94%BF%E9%BB%A8%E9%BB%A8%E9%A6%96%E9%81%B8%E8%88%89-%E5%89%8D%E5%9C%8B%E5%8B%99%E7%B8%BD%E7%90%86%E9%87%91%E6%B0%91%E9%8C%AB%E7%95%B6%E9%81%B8",
+    "timestamp": "2026-08-17T10:57:43.982Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "AlipayHK旅行賺到盡攻略！全球Call車減$88+回贈+消費券慳逾$1000",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260817/1165890082062733312190382.jpeg/2hDUzo9ri71VtBn5CODSNS7yu_5DckBMXH-6vFx_urw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60380556/%E7%BE%8E%E8%BB%8D-%E6%9E%97%E8%82%AF%E8%99%9F%E4%B8%8A%E5%BF%83%E7%90%86%E5%95%8F%E9%A1%8C%E5%80%8B%E6%A1%88-%E7%82%BA11%E8%89%98%E7%8F%BE%E5%BD%B9%E8%88%AA%E6%AF%8D%E4%B8%AD%E6%9C%80%E5%B0%91",
     "timestamp": "2026-08-16T22:10:11.024Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "希臘薩拉米斯島山火　至少2死9人傷",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260817/1165850463728570368746985.jpeg/ynQfaPBfj8MBBacVwmFK7NlMkWBwNg_yZKfpvWSn6b0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60380554/%E5%B8%8C%E8%87%98%E8%96%A9%E6%8B%89%E7%B1%B3%E6%96%AF%E5%B3%B6%E5%B1%B1%E7%81%AB-%E8%87%B3%E5%B0%912%E6%AD%BB9%E4%BA%BA%E5%82%B7",
-    "timestamp": "2026-08-16T21:11:31.638Z",
     "strategy": ".content-card__main"
   }
 ];
