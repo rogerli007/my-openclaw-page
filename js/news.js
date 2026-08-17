@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-17T04:32:50.251Z
+// Last updated: 2026-08-17T04:55:26.616Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "的士司機吸「K仔」後仍開工　車輛左搖右擺被截獲　囚4月停牌5年",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20230331/718444188038860800485706.jpeg/7rH9hfcXqATL6uJvhHWV7T8qQm-tyV4jmkurvKxLq7w?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60380681/%E7%9A%84%E5%A3%AB%E5%8F%B8%E6%A9%9F%E5%90%B8-k%E4%BB%94-%E5%BE%8C%E4%BB%8D%E9%96%8B%E5%B7%A5-%E8%BB%8A%E8%BC%9B%E5%B7%A6%E6%90%96%E5%8F%B3%E6%93%BA%E8%A2%AB%E6%88%AA%E7%8D%B2-%E5%9B%9A4%E6%9C%88%E5%81%9C%E7%89%8C5%E5%B9%B4",
+    "timestamp": "2026-08-17T04:55:26.616Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "日本女大胃王打破岩手縣百年老店紀錄　狂吞755碗蕎麥麵｜有片",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260817/1165849276652195840653927.png/L1FWj7onIRpbYdikyHEbTkWh5PJ4Awbvg7FgnIOxYJw",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60380553/%E4%B9%9D%E9%BE%8D%E5%9F%8E%E5%B0%8F%E7%8B%97%E7%AA%81%E8%A1%9D%E5%87%BA%E9%A6%AC%E8%B7%AF-%E5%A5%BD%E5%BF%83%E9%90%B5%E9%A8%8E%E8%B7%AF%E4%B8%AD%E5%A4%AE%E6%95%91%E7%8B%97-%E7%B6%B2%E6%B0%91%E8%BD%9F%E4%B8%BB%E4%BA%BA%E7%84%A1%E7%B9%AB%E7%B9%A9",
     "timestamp": "2026-08-16T19:14:45.940Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "九龍城小狗突衝出馬路　好心鐵騎路中央救狗　網民轟主人無繫繩",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260817/1165849276652195840653927.png/L1FWj7onIRpbYdikyHEbTkWh5PJ4Awbvg7FgnIOxYJw",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60380553/%E4%B9%9D%E9%BE%8D%E5%9F%8E%E5%B0%8F%E7%8B%97%E7%AA%81%E8%A1%9D%E5%87%BA%E9%A6%AC%E8%B7%AF-%E5%A5%BD%E5%BF%83%E9%90%B5%E9%A8%8E%E8%B7%AF%E4%B8%AD%E5%A4%AE%E6%95%91%E7%8B%97-%E7%B6%B2%E6%B0%91%E8%BD%9F%E4%B8%BB%E4%BA%BA%E7%84%A1%E7%B9%AB%E7%B9%A9",
-    "timestamp": "2026-08-16T19:02:52.436Z",
     "strategy": ".content-card__main"
   }
 ];
