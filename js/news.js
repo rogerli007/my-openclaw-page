@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-17T14:14:46.716Z
+// Last updated: 2026-08-17T14:30:06.629Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "屯門濾水廠對開綠VAN私家車相撞　初步11人傷",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260817/1166148769360646144207134.jpeg/oj0prkR1U200yisulQHKhS3xP4Itd8mnTseAz07HgM8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60380903/%E5%B1%AF%E9%96%80%E6%BF%BE%E6%B0%B4%E5%BB%A0%E5%B0%8D%E9%96%8B%E7%B6%A0van%E7%A7%81%E5%AE%B6%E8%BB%8A%E7%9B%B8%E6%92%9E-%E5%88%9D%E6%AD%A511%E4%BA%BA%E5%82%B7",
+    "timestamp": "2026-08-17T14:30:06.629Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "中東戰火致大型車企機油庫存告急　福士豐田急尋替代供應來源",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260817/1165991737533927424856139.jpeg/uKbo1uhMas5mXW9GLViOxLfoIkI7scPlfpDG4X6QxuE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%A6%AA%E5%AD%90/60380190/%E9%A6%99%E6%B8%AF%E6%B5%81%E6%84%9F%E6%8C%81%E7%BA%8C%E5%8D%87%E6%BA%AB%E5%85%92%E7%AB%A5%E5%85%A5%E9%99%A2%E7%8E%87%E6%9C%80%E9%AB%989%E5%AE%97%E9%87%8D%E7%97%87-%E5%B0%88%E5%AE%B6%E6%96%99%E9%96%8B%E5%AD%B8%E5%BE%8C%E5%A2%9E%E5%82%B3%E6%92%AD%E9%A2%A8%E9%9A%AA",
     "timestamp": "2026-08-17T04:07:06.886Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "HydraFacial vs Aqua Peel vs Emfusion邊間好？清潔Facial點揀？",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260813/1164626717831073792865127.jpeg/m_9R-efJj0cFhRrnTdpQ-n4MLLIS40cxGzyjJRs8oyU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%86%AB%E7%BE%8EEasy/60379750/hydrafacial-vs-aqua-peel-vs-emfusion%E9%82%8A%E9%96%93%E5%A5%BD-%E6%B8%85%E6%BD%94facial%E9%BB%9E%E6%8F%80",
-    "timestamp": "2026-08-17T03:16:21.176Z",
     "strategy": ".content-card__main"
   }
 ];
