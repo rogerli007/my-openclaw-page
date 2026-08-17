@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-17T12:55:23.111Z
+// Last updated: 2026-08-17T13:23:50.325Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "乒乓球｜吳詠琳感恩有師姐扶持　黃鎮廷杜凱琹亞運前戰單打賽",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260817/1166131185697427456897314.jpeg/zb-3QpwmNCED9eiUL_TGeIj8pvrTQWUaEj9MpxI_TKc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60380885/%E4%B9%92%E4%B9%93%E7%90%83-%E5%90%B3%E8%A9%A0%E7%90%B3%E6%84%9F%E6%81%A9%E6%9C%89%E5%B8%AB%E5%A7%90%E6%89%B6%E6%8C%81-%E9%BB%83%E9%8E%AE%E5%BB%B7%E6%9D%9C%E5%87%B1%E7%90%B9%E4%BA%9E%E9%81%8B%E5%89%8D%E6%88%B0%E5%96%AE%E6%89%93%E8%B3%BD",
+    "timestamp": "2026-08-17T13:23:50.325Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "元朗狗咬狗｜體重逾20公斤屬大型狗隻　公眾地方必須繫狗繩牽引",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260817/1165953048468525056630425.jpeg/Wf3KsUGl-BcwKT2y_WBEX7K6RqPwSnYG2tO5t9rTubc?v=w1920",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60380574/%E6%95%B8%E7%99%BE%E5%81%B7%E6%B8%A1%E8%80%85%E4%BC%91%E9%81%94%E9%9B%86%E6%9C%83-%E4%B8%8D%E9%A1%98%E8%BF%94%E5%9B%9E%E6%91%A9%E6%B4%9B%E5%93%A5%E5%B0%8B%E6%B1%82%E7%8D%B2%E8%A5%BF%E7%8F%AD%E7%89%99%E5%BA%87%E8%AD%B7",
     "timestamp": "2026-08-17T01:38:03.263Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普：中東三國簽署國防協議意義重大",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260812/1164253605381804032126958.jpeg/YYIGgcDm4K8uKJbpcmX2Z6jKjKBnJfiWsPcoJbD3KCU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60380565/%E7%89%B9%E6%9C%97%E6%99%AE-%E4%B8%AD%E6%9D%B1%E4%B8%89%E5%9C%8B%E7%B0%BD%E7%BD%B2%E5%9C%8B%E9%98%B2%E5%8D%94%E8%AD%B0%E6%84%8F%E7%BE%A9%E9%87%8D%E5%A4%A7",
-    "timestamp": "2026-08-17T00:54:08.163Z",
     "strategy": ".content-card__main"
   }
 ];
