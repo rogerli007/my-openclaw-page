@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-17T19:05:11.130Z
+// Last updated: 2026-08-17T19:30:17.727Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "庫許納晤內塔尼亞胡4小時　消息稱就加沙下階段安排達共識",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260818/1166205905583214592564810.jpeg/608CC6ysjYXG2mf-M1sSJMIkMZGNfdootpn94raZ_eI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60380921/%E5%BA%AB%E8%A8%B1%E7%B4%8D%E6%99%A4%E5%85%A7%E5%A1%94%E5%B0%BC%E4%BA%9E%E8%83%A14%E5%B0%8F%E6%99%82-%E6%B6%88%E6%81%AF%E7%A8%B1%E5%B0%B1%E5%8A%A0%E6%B2%99%E4%B8%8B%E9%9A%8E%E6%AE%B5%E5%AE%89%E6%8E%92%E9%81%94%E5%85%B1%E8%AD%98",
+    "timestamp": "2026-08-17T19:30:17.727Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "庫許納晤內塔尼亞胡4小時　消息稱就加沙下階段安排達共識",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260817/1166110375825903616829630.jpeg/Pi9Un2LNL8P9MANG0bysmSIJHhcUhIjIQoYKB0KGCgc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60380873/%E6%B8%AF%E5%A4%A7%E6%B0%91%E4%B8%BB%E7%89%86%E6%94%B9%E8%A3%9D%E9%9B%BB%E5%AD%90%E5%B1%8F%E5%B9%95-%E6%A0%A1%E6%96%B9-%E7%A4%BE%E7%BE%A4%E5%8F%AF%E7%B9%BC%E7%BA%8C%E6%A0%B9%E6%93%9A%E6%8C%87%E5%BC%95%E7%99%BC%E8%A1%A8%E8%B3%87%E8%A8%8A",
     "timestamp": "2026-08-17T12:32:46.978Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "田啟文捧入行47年首個男配獎興奮打卡　曾因長相被阻入行反成動力",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260817/1166094097287483392197843.jpeg/vVqhIh4G-R2T2TrglrStZKPVaMyEZTcllUO9QpVDvUI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60380840/%E7%94%B0%E5%95%9F%E6%96%87%E6%8D%A7%E5%85%A5%E8%A1%8C47%E5%B9%B4%E9%A6%96%E5%80%8B%E7%94%B7%E9%85%8D%E7%8D%8E%E8%88%88%E5%A5%AE%E6%89%93%E5%8D%A1-%E6%9B%BE%E5%9B%A0%E9%95%B7%E7%9B%B8%E8%A2%AB%E9%98%BB%E5%85%A5%E8%A1%8C%E5%8F%8D%E6%88%90%E5%8B%95%E5%8A%9B",
-    "timestamp": "2026-08-17T11:57:48.133Z",
     "strategy": ".content-card__main"
   }
 ];
