@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-17T15:30:22.963Z
+// Last updated: 2026-08-17T15:45:06.675Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "謝展寰訪問上海晤國網領導　考察電網監管方面發展",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260817/1166164877710987264293706.jpeg/utO8mAdZWzNkiaVfQAW8AwHmU_CgSL69YNmh02DZodM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60380911/%E8%AC%9D%E5%B1%95%E5%AF%B0%E8%A8%AA%E5%95%8F%E4%B8%8A%E6%B5%B7%E6%99%A4%E5%9C%8B%E7%B6%B2%E9%A0%98%E5%B0%8E-%E8%80%83%E5%AF%9F%E9%9B%BB%E7%B6%B2%E7%9B%A3%E7%AE%A1%E6%96%B9%E9%9D%A2%E7%99%BC%E5%B1%95",
+    "timestamp": "2026-08-17T15:45:06.675Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "元朗狗咬狗｜大狗疑上月同地點乘涼被漁護接走　毛守：八九成係佢",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260817/1166049184206295040452691.jpeg/isrq7vE-05N7gGtel29fvwMMlEFjydao31goXd9YKF0",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60380777/%E5%85%AC%E8%B7%AF%E5%96%AE%E8%BB%8A%E7%96%91%E9%81%95%E4%BE%8B%E9%97%96%E5%91%88%E7%A5%A5%E9%81%93-%E7%9B%AE%E6%93%8A%E8%80%85-%E5%91%A2%E4%BD%8D%E9%81%B8%E6%89%8B%E8%95%A9%E5%A4%B1%E8%B7%AF-%E6%9C%89%E7%89%87",
     "timestamp": "2026-08-17T08:22:01.469Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "葵涌女清潔工疑斜坡跌倒暈倒　其後回復清醒送院",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260817/1166033535593615360583190.jpeg/Yb3zgeTuRnobWh3ys5BR4jnKRF6dwZzVInw7tSJ8O7U?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60380734/%E8%91%B5%E6%B6%8C%E5%A5%B3%E6%B8%85%E6%BD%94%E5%B7%A5%E7%96%91%E6%96%9C%E5%9D%A1%E8%B7%8C%E5%80%92%E6%9A%88%E5%80%92-%E5%85%B6%E5%BE%8C%E5%9B%9E%E5%BE%A9%E6%B8%85%E9%86%92%E9%80%81%E9%99%A2",
-    "timestamp": "2026-08-17T06:56:26.945Z",
     "strategy": ".content-card__main"
   }
 ];
