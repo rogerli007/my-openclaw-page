@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-17T11:13:17.829Z
+// Last updated: 2026-08-17T11:29:54.257Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "上市公司高層涉騙公司6017萬買名錶　前CEO罪成　前CFO脫罪",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260807/1162379236934422528932608.jpeg/lNh-cQIYzL9qyNc_qs6nJJReca40GLwn4on_IceJ_yE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60380865/%E4%B8%8A%E5%B8%82%E5%85%AC%E5%8F%B8%E9%AB%98%E5%B1%A4%E6%B6%89%E9%A8%99%E5%85%AC%E5%8F%B86017%E8%90%AC%E8%B2%B7%E5%90%8D%E9%8C%B6-%E5%89%8Dceo%E7%BD%AA%E6%88%90-%E5%89%8Dcfo%E8%84%AB%E7%BD%AA",
+    "timestamp": "2026-08-17T11:29:54.257Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "私家車龍翔道涉撞電單車夫婦　女事主吐血失意識亡　司機否認危駕",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260816/1165741299966414848891046.jpeg/hYyk1Fp08X3HUDFmiu8KlICI0q1uCtYJu3reZbt63mU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60380136/%E4%B8%AD%E5%9C%8B%E9%86%AB%E5%B8%AB%E7%AF%80-%E4%B8%80%E5%A4%A9%E5%88%B03%E9%99%A2%E5%81%9A5%E5%AE%97%E6%89%8B%E8%A1%93-%E7%BE%85%E9%A0%86%E6%96%87%E9%86%AB%E7%94%9F-%E8%A1%80%E7%AE%A1%E6%89%8B%E8%A1%93%E9%A0%88%E5%BF%AB%E5%8F%8A%E6%BA%96",
     "timestamp": "2026-08-16T23:10:39.831Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普稱與金正恩關係良好　已指示大幅削減美韓聯合軍演規模",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260817/1165907941061038080495327.jpeg/3DTVvGYinvo17k9VIpcP8EUhVwnpGTcEH0DKQR9AykE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60380558/%E7%89%B9%E6%9C%97%E6%99%AE%E7%A8%B1%E8%88%87%E9%87%91%E6%AD%A3%E6%81%A9%E9%97%9C%E4%BF%82%E8%89%AF%E5%A5%BD-%E5%B7%B2%E6%8C%87%E7%A4%BA%E5%A4%A7%E5%B9%85%E5%89%8A%E6%B8%9B%E7%BE%8E%E9%9F%93%E8%81%AF%E5%90%88%E8%BB%8D%E6%BC%94%E8%A6%8F%E6%A8%A1",
-    "timestamp": "2026-08-16T22:56:32.802Z",
     "strategy": ".content-card__main"
   }
 ];
