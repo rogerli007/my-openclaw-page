@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-17T13:23:50.325Z
+// Last updated: 2026-08-17T13:50:35.931Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "高負債、高槓桿、高周轉：美國AI熱潮背後是史上最大雙重泡沫？",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260711/1152561168783511552620471.jpeg/1YmybTr082aOuHO8_F87hYunOH8xIlSRlDQG1JQ0BtQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%9C%8B%E9%9A%9B%E5%88%86%E6%9E%90/60380887/%E9%AB%98%E8%B2%A0%E5%82%B5-%E9%AB%98%E6%A7%93%E6%A1%BF-%E9%AB%98%E5%91%A8%E8%BD%89-%E7%BE%8E%E5%9C%8Bai%E7%86%B1%E6%BD%AE%E8%83%8C%E5%BE%8C%E6%98%AF%E5%8F%B2%E4%B8%8A%E6%9C%80%E5%A4%A7%E9%9B%99%E9%87%8D%E6%B3%A1%E6%B2%AB",
+    "timestamp": "2026-08-17T13:50:35.931Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "乒乓球｜吳詠琳感恩有師姐扶持　黃鎮廷杜凱琹亞運前戰單打賽",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260814/1164981613595987968147529.png/TyBzNhJAouvDeNElFdGJfJLfHcHMnuhE2sObZ9rDm2c?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60380039/%E9%A2%A8%E6%89%87%E5%A4%96%E5%A5%97-%E7%A9%BA%E8%AA%BF%E6%9C%8D%E5%8F%AF%E5%90%A6%E7%99%BB%E4%B8%8A%E9%A3%9B%E6%A9%9F-%E9%9A%A8%E8%BA%AB%E9%9B%BB%E6%B1%A0%E5%AE%89%E6%AA%A2-%E5%AE%B9%E9%87%8F%E9%99%90%E5%88%B6%E7%A6%81%E5%BF%8C%E6%94%BB%E7%95%A5",
     "timestamp": "2026-08-17T02:16:55.875Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "數百偷渡者休達集會　不願返回摩洛哥尋求獲西班牙庇護",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260817/1165953048468525056630425.jpeg/Wf3KsUGl-BcwKT2y_WBEX7K6RqPwSnYG2tO5t9rTubc?v=w1920",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60380574/%E6%95%B8%E7%99%BE%E5%81%B7%E6%B8%A1%E8%80%85%E4%BC%91%E9%81%94%E9%9B%86%E6%9C%83-%E4%B8%8D%E9%A1%98%E8%BF%94%E5%9B%9E%E6%91%A9%E6%B4%9B%E5%93%A5%E5%B0%8B%E6%B1%82%E7%8D%B2%E8%A5%BF%E7%8F%AD%E7%89%99%E5%BA%87%E8%AD%B7",
-    "timestamp": "2026-08-17T01:38:03.263Z",
     "strategy": ".content-card__main"
   }
 ];
