@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-17T04:07:06.886Z
+// Last updated: 2026-08-17T04:32:50.251Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "日本女大胃王打破岩手縣百年老店紀錄　狂吞755碗蕎麥麵｜有片",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260817/1165991145872822272031298.jpeg/gcbRJXTrEI1Cce8VdEI8Kx662jHOS3fTMd0EsTHdBLE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%92%B0%E7%90%83%E8%B6%A3%E8%81%9E/60380648/%E6%97%A5%E6%9C%AC%E5%A5%B3%E5%A4%A7%E8%83%83%E7%8E%8B%E6%89%93%E7%A0%B4%E5%B2%A9%E6%89%8B%E7%B8%A3%E7%99%BE%E5%B9%B4%E8%80%81%E5%BA%97%E7%B4%80%E9%8C%84-%E7%8B%82%E5%90%9E755%E7%A2%97%E8%95%8E%E9%BA%A5%E9%BA%B5-%E6%9C%89%E7%89%87",
+    "timestamp": "2026-08-17T04:32:50.251Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "香港流感持續升溫兒童入院率最高9宗重症 專家料開學後增傳播風險",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260817/1165849276652195840653927.png/L1FWj7onIRpbYdikyHEbTkWh5PJ4Awbvg7FgnIOxYJw",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60380553/%E4%B9%9D%E9%BE%8D%E5%9F%8E%E5%B0%8F%E7%8B%97%E7%AA%81%E8%A1%9D%E5%87%BA%E9%A6%AC%E8%B7%AF-%E5%A5%BD%E5%BF%83%E9%90%B5%E9%A8%8E%E8%B7%AF%E4%B8%AD%E5%A4%AE%E6%95%91%E7%8B%97-%E7%B6%B2%E6%B0%91%E8%BD%9F%E4%B8%BB%E4%BA%BA%E7%84%A1%E7%B9%AB%E7%B9%A9",
     "timestamp": "2026-08-16T19:02:52.436Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普女婿埃及晤哈馬斯領袖哈亞　促落實加沙和平計劃",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20241018/924048999554486272120539.png/qOERZm-z_uffhejmhl-V5oLiOhbAzV-uqJOifKiTonw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60380551/%E7%89%B9%E6%9C%97%E6%99%AE%E5%A5%B3%E5%A9%BF%E5%9F%83%E5%8F%8A%E6%99%A4%E5%93%88%E9%A6%AC%E6%96%AF%E9%A0%98%E8%A2%96%E5%93%88%E4%BA%9E-%E4%BF%83%E8%90%BD%E5%AF%A6%E5%8A%A0%E6%B2%99%E5%92%8C%E5%B9%B3%E8%A8%88%E5%8A%83",
-    "timestamp": "2026-08-16T18:48:13.185Z",
     "strategy": ".content-card__main"
   }
 ];
