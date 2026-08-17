@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-17T14:47:03.611Z
+// Last updated: 2026-08-17T15:00:36.852Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "宇樹科技周三科創板上市　中籤率低至0.018%　首掛或賺逾20萬人幣",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260512/1130864745901985792892314.png/ocP0E4-r3lyK6xQhcZt83H39-ynjJPB23iZiO94mYjs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60380908/%E5%AE%87%E6%A8%B9%E7%A7%91%E6%8A%80%E5%91%A8%E4%B8%89%E7%A7%91%E5%89%B5%E6%9D%BF%E4%B8%8A%E5%B8%82-%E4%B8%AD%E7%B1%A4%E7%8E%87%E4%BD%8E%E8%87%B30-018-%E9%A6%96%E6%8E%9B%E6%88%96%E8%B3%BA%E9%80%BE20%E8%90%AC%E4%BA%BA%E5%B9%A3",
+    "timestamp": "2026-08-17T15:00:36.852Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "元朗狗咬狗｜律師：大狗狗主不涉刑事罪　受害狗主可民事索償",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20230331/718444188038860800485706.jpeg/7rH9hfcXqATL6uJvhHWV7T8qQm-tyV4jmkurvKxLq7w?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60380681/%E7%9A%84%E5%A3%AB%E5%8F%B8%E6%A9%9F%E5%90%B8-k%E4%BB%94-%E5%BE%8C%E4%BB%8D%E9%96%8B%E5%B7%A5-%E8%BB%8A%E8%BC%9B%E5%B7%A6%E6%90%96%E5%8F%B3%E6%93%BA%E8%A2%AB%E6%88%AA%E7%8D%B2-%E5%9B%9A4%E6%9C%88%E5%81%9C%E7%89%8C5%E5%B9%B4",
     "timestamp": "2026-08-17T04:55:26.616Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "日本女大胃王打破岩手縣百年老店紀錄　狂吞755碗蕎麥麵｜有片",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260817/1165991145872822272031298.jpeg/gcbRJXTrEI1Cce8VdEI8Kx662jHOS3fTMd0EsTHdBLE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%92%B0%E7%90%83%E8%B6%A3%E8%81%9E/60380648/%E6%97%A5%E6%9C%AC%E5%A5%B3%E5%A4%A7%E8%83%83%E7%8E%8B%E6%89%93%E7%A0%B4%E5%B2%A9%E6%89%8B%E7%B8%A3%E7%99%BE%E5%B9%B4%E8%80%81%E5%BA%97%E7%B4%80%E9%8C%84-%E7%8B%82%E5%90%9E755%E7%A2%97%E8%95%8E%E9%BA%A5%E9%BA%B5-%E6%9C%89%E7%89%87",
-    "timestamp": "2026-08-17T04:32:50.251Z",
     "strategy": ".content-card__main"
   }
 ];
