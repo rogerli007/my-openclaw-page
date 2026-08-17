@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-17T20:46:22.721Z
+// Last updated: 2026-08-17T21:01:01.085Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "九龍城2車相撞　電單車乘客一度半昏迷　警拘私家車司機危險駕駛",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260818/1166231334574624768572839.jpeg/YpX__PsKaPjhXNQ7zq0xf3fTW1dcQ2k5b15iu0VeYrs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60380929/%E4%B9%9D%E9%BE%8D%E5%9F%8E2%E8%BB%8A%E7%9B%B8%E6%92%9E-%E9%9B%BB%E5%96%AE%E8%BB%8A%E4%B9%98%E5%AE%A2%E4%B8%80%E5%BA%A6%E5%8D%8A%E6%98%8F%E8%BF%B7-%E8%AD%A6%E6%8B%98%E7%A7%81%E5%AE%B6%E8%BB%8A%E5%8F%B8%E6%A9%9F%E5%8D%B1%E9%9A%AA%E9%A7%95%E9%A7%9B",
+    "timestamp": "2026-08-17T21:01:01.085Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "九龍城電單車私家車相撞釀2傷　電單車乘客一度昏迷送院",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260711/1152561168783511552620471.jpeg/1YmybTr082aOuHO8_F87hYunOH8xIlSRlDQG1JQ0BtQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%9C%8B%E9%9A%9B%E5%88%86%E6%9E%90/60380887/%E9%AB%98%E8%B2%A0%E5%82%B5-%E9%AB%98%E6%A7%93%E6%A1%BF-%E9%AB%98%E5%91%A8%E8%BD%89-%E7%BE%8E%E5%9C%8Bai%E7%86%B1%E6%BD%AE%E8%83%8C%E5%BE%8C%E6%98%AF%E5%8F%B2%E4%B8%8A%E6%9C%80%E5%A4%A7%E9%9B%99%E9%87%8D%E6%B3%A1%E6%B2%AB",
     "timestamp": "2026-08-17T13:50:35.931Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "乒乓球｜吳詠琳感恩有師姐扶持　黃鎮廷杜凱琹亞運前戰單打賽",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260817/1166131185697427456897314.jpeg/zb-3QpwmNCED9eiUL_TGeIj8pvrTQWUaEj9MpxI_TKc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60380885/%E4%B9%92%E4%B9%93%E7%90%83-%E5%90%B3%E8%A9%A0%E7%90%B3%E6%84%9F%E6%81%A9%E6%9C%89%E5%B8%AB%E5%A7%90%E6%89%B6%E6%8C%81-%E9%BB%83%E9%8E%AE%E5%BB%B7%E6%9D%9C%E5%87%B1%E7%90%B9%E4%BA%9E%E9%81%8B%E5%89%8D%E6%88%B0%E5%96%AE%E6%89%93%E8%B3%BD",
-    "timestamp": "2026-08-17T13:23:50.325Z",
     "strategy": ".content-card__main"
   }
 ];
