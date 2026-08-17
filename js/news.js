@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-17T11:29:54.257Z
+// Last updated: 2026-08-17T11:45:15.855Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "醫生彭亨利被控默許診所作「5萬位男士重拾自信」等誇張陳述成立",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260205/1096161557584285696517203.jpeg/RjKHRXXjqRfP1bkbUx26CxySxytAqdi_C4ZfcguGX3I?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60380801/%E9%86%AB%E7%94%9F%E5%BD%AD%E4%BA%A8%E5%88%A9%E8%A2%AB%E6%8E%A7%E9%BB%98%E8%A8%B1%E8%A8%BA%E6%89%80%E4%BD%9C-5%E8%90%AC%E4%BD%8D%E7%94%B7%E5%A3%AB%E9%87%8D%E6%8B%BE%E8%87%AA%E4%BF%A1-%E7%AD%89%E8%AA%87%E5%BC%B5%E9%99%B3%E8%BF%B0%E6%88%90%E7%AB%8B",
+    "timestamp": "2026-08-17T11:45:15.855Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "上市公司高層涉騙公司6017萬買名錶　前CEO罪成　前CFO脫罪",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260816/1165741299966414848891046.jpeg/hYyk1Fp08X3HUDFmiu8KlICI0q1uCtYJu3reZbt63mU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60380136/%E4%B8%AD%E5%9C%8B%E9%86%AB%E5%B8%AB%E7%AF%80-%E4%B8%80%E5%A4%A9%E5%88%B03%E9%99%A2%E5%81%9A5%E5%AE%97%E6%89%8B%E8%A1%93-%E7%BE%85%E9%A0%86%E6%96%87%E9%86%AB%E7%94%9F-%E8%A1%80%E7%AE%A1%E6%89%8B%E8%A1%93%E9%A0%88%E5%BF%AB%E5%8F%8A%E6%BA%96",
     "timestamp": "2026-08-16T23:29:31.872Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "中國醫師節｜一天到3院做5宗手術　羅順文醫生：血管手術須快及準",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260816/1165741299966414848891046.jpeg/hYyk1Fp08X3HUDFmiu8KlICI0q1uCtYJu3reZbt63mU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60380136/%E4%B8%AD%E5%9C%8B%E9%86%AB%E5%B8%AB%E7%AF%80-%E4%B8%80%E5%A4%A9%E5%88%B03%E9%99%A2%E5%81%9A5%E5%AE%97%E6%89%8B%E8%A1%93-%E7%BE%85%E9%A0%86%E6%96%87%E9%86%AB%E7%94%9F-%E8%A1%80%E7%AE%A1%E6%89%8B%E8%A1%93%E9%A0%88%E5%BF%AB%E5%8F%8A%E6%BA%96",
-    "timestamp": "2026-08-16T23:10:39.831Z",
     "strategy": ".content-card__main"
   }
 ];
