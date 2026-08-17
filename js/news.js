@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-17T15:00:36.852Z
+// Last updated: 2026-08-17T15:15:49.462Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "元朗狗咬狗｜大狗疑上月同地點乘涼被漁護接走　毛守：八九成係佢",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260817/1166153889276235776180423.jpeg/jpDOurUGjopdeV28ZVOkyxzJW_G4qv8YbD9yuWw_crk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60380906/%E5%85%83%E6%9C%97%E7%8B%97%E5%92%AC%E7%8B%97-%E5%A4%A7%E7%8B%97%E7%96%91%E4%B8%8A%E6%9C%88%E5%90%8C%E5%9C%B0%E9%BB%9E%E4%B9%98%E6%B6%BC%E8%A2%AB%E6%BC%81%E8%AD%B7%E6%8E%A5%E8%B5%B0-%E6%AF%9B%E5%AE%88-%E5%85%AB%E4%B9%9D%E6%88%90%E4%BF%82%E4%BD%A2",
+    "timestamp": "2026-08-17T15:15:49.462Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "宇樹科技周三科創板上市　中籤率低至0.018%　首掛或賺逾20萬人幣",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260816/1165715168135483392428361.jpeg/3UOULkEPPMMphe2YOtdgeUF-MTBJGvVXOm5tjTpubY0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60380458/%E7%89%9B%E4%BE%86%E9%9B%BB%E5%BD%B1--%E7%88%9B%E5%88%B0%E6%A5%B5%E8%87%B4-%E7%8B%82%E5%90%B8%E7%B6%B2%E6%B0%91%E4%BA%8C%E5%89%B5%E6%89%93%E5%8D%A1-%E7%A5%A8%E6%88%BF%E7%A0%B41100%E8%90%AC%E9%81%AD%E6%80%A5%E4%B8%8B%E6%9E%B6",
     "timestamp": "2026-08-17T05:51:54.497Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "的士司機吸「K仔」後仍開工　車輛左搖右擺被截獲　囚4月停牌5年",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20230331/718444188038860800485706.jpeg/7rH9hfcXqATL6uJvhHWV7T8qQm-tyV4jmkurvKxLq7w?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60380681/%E7%9A%84%E5%A3%AB%E5%8F%B8%E6%A9%9F%E5%90%B8-k%E4%BB%94-%E5%BE%8C%E4%BB%8D%E9%96%8B%E5%B7%A5-%E8%BB%8A%E8%BC%9B%E5%B7%A6%E6%90%96%E5%8F%B3%E6%93%BA%E8%A2%AB%E6%88%AA%E7%8D%B2-%E5%9B%9A4%E6%9C%88%E5%81%9C%E7%89%8C5%E5%B9%B4",
-    "timestamp": "2026-08-17T04:55:26.616Z",
     "strategy": ".content-card__main"
   }
 ];
