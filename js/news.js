@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-17T21:01:01.085Z
+// Last updated: 2026-08-17T21:14:00.218Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "網傳食環人員後巷吸煙　食環署確認為小販管理隊：已展開紀律調查",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260818/1166235803127386112247836.png/XxmFuS_a1igK1TLN7or4u4v9-xspxd7X3kcNf95HDX8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60380930/%E7%B6%B2%E5%82%B3%E9%A3%9F%E7%92%B0%E4%BA%BA%E5%93%A1%E5%BE%8C%E5%B7%B7%E5%90%B8%E7%85%99-%E9%A3%9F%E7%92%B0%E7%BD%B2%E7%A2%BA%E8%AA%8D%E7%82%BA%E5%B0%8F%E8%B2%A9%E7%AE%A1%E7%90%86%E9%9A%8A-%E5%B7%B2%E5%B1%95%E9%96%8B%E7%B4%80%E5%BE%8B%E8%AA%BF%E6%9F%A5",
+    "timestamp": "2026-08-17T21:14:00.218Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "九龍城2車相撞　電單車乘客一度半昏迷　警拘私家車司機危險駕駛",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260212/1098671244519149568530874.jpeg/5x55U71oYBkziSammrDdEubg9_gIO3pqaVOcS2lTnEs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60380884/%E4%B8%AD%E6%9D%B1%E6%88%B0%E7%81%AB%E8%87%B4%E5%A4%A7%E5%9E%8B%E8%BB%8A%E4%BC%81%E6%A9%9F%E6%B2%B9%E5%BA%AB%E5%AD%98%E5%91%8A%E6%80%A5-%E7%A6%8F%E5%A3%AB%E8%B1%90%E7%94%B0%E6%80%A5%E5%B0%8B%E6%9B%BF%E4%BB%A3%E4%BE%9B%E6%87%89%E4%BE%86%E6%BA%90",
     "timestamp": "2026-08-17T14:14:46.716Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "高負債、高槓桿、高周轉：美國AI熱潮背後是史上最大雙重泡沫？",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260711/1152561168783511552620471.jpeg/1YmybTr082aOuHO8_F87hYunOH8xIlSRlDQG1JQ0BtQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%9C%8B%E9%9A%9B%E5%88%86%E6%9E%90/60380887/%E9%AB%98%E8%B2%A0%E5%82%B5-%E9%AB%98%E6%A7%93%E6%A1%BF-%E9%AB%98%E5%91%A8%E8%BD%89-%E7%BE%8E%E5%9C%8Bai%E7%86%B1%E6%BD%AE%E8%83%8C%E5%BE%8C%E6%98%AF%E5%8F%B2%E4%B8%8A%E6%9C%80%E5%A4%A7%E9%9B%99%E9%87%8D%E6%B3%A1%E6%B2%AB",
-    "timestamp": "2026-08-17T13:50:35.931Z",
     "strategy": ".content-card__main"
   }
 ];
