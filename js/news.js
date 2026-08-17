@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-17T02:16:55.875Z
+// Last updated: 2026-08-17T03:16:21.176Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "HydraFacial vs Aqua Peel vs Emfusion邊間好？清潔Facial點揀？",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260813/1164626717831073792865127.jpeg/m_9R-efJj0cFhRrnTdpQ-n4MLLIS40cxGzyjJRs8oyU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%86%AB%E7%BE%8EEasy/60379750/hydrafacial-vs-aqua-peel-vs-emfusion%E9%82%8A%E9%96%93%E5%A5%BD-%E6%B8%85%E6%BD%94facial%E9%BB%9E%E6%8F%80",
+    "timestamp": "2026-08-17T03:16:21.176Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "風扇外套/空調服可否登上飛機？隨身電池安檢、容量限制禁忌攻略",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20241018/924048999554486272120539.png/qOERZm-z_uffhejmhl-V5oLiOhbAzV-uqJOifKiTonw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60380551/%E7%89%B9%E6%9C%97%E6%99%AE%E5%A5%B3%E5%A9%BF%E5%9F%83%E5%8F%8A%E6%99%A4%E5%93%88%E9%A6%AC%E6%96%AF%E9%A0%98%E8%A2%96%E5%93%88%E4%BA%9E-%E4%BF%83%E8%90%BD%E5%AF%A6%E5%8A%A0%E6%B2%99%E5%92%8C%E5%B9%B3%E8%A8%88%E5%8A%83",
     "timestamp": "2026-08-16T18:30:14.000Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "伊朗軍方：懸賞3萬美元捉拿或擊斃美兵　美國禁入霍爾木茲等海峽",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260131/1094404590142492672321804.jpeg/F6CG28t8p6JclDA5ghIKhb0mHNymLoqYq4DzbquA824?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60380542/%E4%BC%8A%E6%9C%97%E8%BB%8D%E6%96%B9-%E6%87%B8%E8%B3%9E3%E8%90%AC%E7%BE%8E%E5%85%83%E6%8D%89%E6%8B%BF%E6%88%96%E6%93%8A%E6%96%83%E7%BE%8E%E5%85%B5-%E7%BE%8E%E5%9C%8B%E7%A6%81%E5%85%A5%E9%9C%8D%E7%88%BE%E6%9C%A8%E8%8C%B2%E7%AD%89%E6%B5%B7%E5%B3%BD",
-    "timestamp": "2026-08-16T18:11:33.587Z",
     "strategy": ".content-card__main"
   }
 ];
