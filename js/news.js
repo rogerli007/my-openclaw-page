@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-17T14:30:06.629Z
+// Last updated: 2026-08-17T14:47:03.611Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "元朗狗咬狗｜律師：大狗狗主不涉刑事罪　受害狗主可民事索償",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260817/1166121359940521984235497.jpeg/jEhb7hadSqEHU9eKmoJA0jdmbwZHllvaVzuTclc7k3I",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60380892/%E5%85%83%E6%9C%97%E7%8B%97%E5%92%AC%E7%8B%97-%E5%BE%8B%E5%B8%AB-%E5%A4%A7%E7%8B%97%E7%8B%97%E4%B8%BB%E4%B8%8D%E6%B6%89%E5%88%91%E4%BA%8B%E7%BD%AA-%E5%8F%97%E5%AE%B3%E7%8B%97%E4%B8%BB%E5%8F%AF%E6%B0%91%E4%BA%8B%E7%B4%A2%E5%84%9F",
+    "timestamp": "2026-08-17T14:47:03.611Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "屯門濾水廠對開綠VAN私家車相撞　初步11人傷",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260817/1165991145872822272031298.jpeg/gcbRJXTrEI1Cce8VdEI8Kx662jHOS3fTMd0EsTHdBLE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%92%B0%E7%90%83%E8%B6%A3%E8%81%9E/60380648/%E6%97%A5%E6%9C%AC%E5%A5%B3%E5%A4%A7%E8%83%83%E7%8E%8B%E6%89%93%E7%A0%B4%E5%B2%A9%E6%89%8B%E7%B8%A3%E7%99%BE%E5%B9%B4%E8%80%81%E5%BA%97%E7%B4%80%E9%8C%84-%E7%8B%82%E5%90%9E755%E7%A2%97%E8%95%8E%E9%BA%A5%E9%BA%B5-%E6%9C%89%E7%89%87",
     "timestamp": "2026-08-17T04:32:50.251Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "香港流感持續升溫兒童入院率最高9宗重症 專家料開學後增傳播風險",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260817/1165991737533927424856139.jpeg/uKbo1uhMas5mXW9GLViOxLfoIkI7scPlfpDG4X6QxuE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%A6%AA%E5%AD%90/60380190/%E9%A6%99%E6%B8%AF%E6%B5%81%E6%84%9F%E6%8C%81%E7%BA%8C%E5%8D%87%E6%BA%AB%E5%85%92%E7%AB%A5%E5%85%A5%E9%99%A2%E7%8E%87%E6%9C%80%E9%AB%989%E5%AE%97%E9%87%8D%E7%97%87-%E5%B0%88%E5%AE%B6%E6%96%99%E9%96%8B%E5%AD%B8%E5%BE%8C%E5%A2%9E%E5%82%B3%E6%92%AD%E9%A2%A8%E9%9A%AA",
-    "timestamp": "2026-08-17T04:07:06.886Z",
     "strategy": ".content-card__main"
   }
 ];
