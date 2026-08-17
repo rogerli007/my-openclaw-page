@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-17T23:29:46.192Z
+// Last updated: 2026-08-17T23:57:02.204Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "大新金融︰內地7月主要經濟數據均轉弱　並遜於市場預期",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20240301/840215418411945984063459.jpeg/5MeNuENVST7Id7pFcG1A9xLvpc_nF8wz6rV8XOq1fFw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60380938/%E5%A4%A7%E6%96%B0%E9%87%91%E8%9E%8D-%E5%85%A7%E5%9C%B07%E6%9C%88%E4%B8%BB%E8%A6%81%E7%B6%93%E6%BF%9F%E6%95%B8%E6%93%9A%E5%9D%87%E8%BD%89%E5%BC%B1-%E4%B8%A6%E9%81%9C%E6%96%BC%E5%B8%82%E5%A0%B4%E9%A0%90%E6%9C%9F",
+    "timestamp": "2026-08-17T23:57:02.204Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "年齡大記憶力必定衰退？ 研究：生酮飲食或有助於改善腦退化！",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260817/1166170466134528000029481.jpeg/O19myUxPJus6G5iXSC_BkwHU-wl8vC9FDCiqsgwoqrI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60380914/%E5%85%A7%E5%9C%B0%E7%94%B7%E6%97%85%E5%AE%A2%E6%9B%BC%E8%B0%B7%E6%8A%B5%E6%B8%AF-%E6%B5%B7%E9%97%9C%E6%8F%AD%E6%89%8B%E6%8F%90%E8%A1%8C%E6%9D%8E%E8%97%8F%E5%80%BC85%E8%90%AC%E5%A4%A7%E9%BA%BB%E8%8A%B1-%E7%95%B6%E5%A0%B4%E8%A2%AB%E6%8D%95",
     "timestamp": "2026-08-17T16:12:22.923Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "周二上班注意　天文台料初時部分地區驟雨較多　料2低壓區共舞",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260817/1166168035891875840295306.jpeg/U23UzKWYjRtu8cbzsmTSpXC2exy6xn5ONxIOizcSDos?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60380910/%E5%91%A8%E4%BA%8C%E4%B8%8A%E7%8F%AD%E6%B3%A8%E6%84%8F-%E5%A4%A9%E6%96%87%E5%8F%B0%E6%96%99%E5%88%9D%E6%99%82%E9%83%A8%E5%88%86%E5%9C%B0%E5%8D%80%E9%A9%9F%E9%9B%A8%E8%BC%83%E5%A4%9A-%E6%96%992%E4%BD%8E%E5%A3%93%E5%8D%80%E5%85%B1%E8%88%9E",
-    "timestamp": "2026-08-17T15:57:50.943Z",
     "strategy": ".content-card__main"
   }
 ];
