@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-17T22:29:41.040Z
+// Last updated: 2026-08-17T22:45:52.080Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美媒：習近平料9.23晚抵美　翌日晤特朗普　不會出席聯合國大會",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260517/1132472465189113856301627.jpeg/w_4ZaigA0vof2Qwt3XYNNnHTqqRnlZrJ0lQbQdJUG0E?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60380933/%E7%BE%8E%E5%AA%92-%E7%BF%92%E8%BF%91%E5%B9%B3%E6%96%999-23%E6%99%9A%E6%8A%B5%E7%BE%8E-%E7%BF%8C%E6%97%A5%E6%99%A4%E7%89%B9%E6%9C%97%E6%99%AE-%E4%B8%8D%E6%9C%83%E5%87%BA%E5%B8%AD%E8%81%AF%E5%90%88%E5%9C%8B%E5%A4%A7%E6%9C%83",
+    "timestamp": "2026-08-17T22:45:52.080Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "殿堂級天后曾與名嘴秘婚坐擁3億　淡出後近照罕曝光包到冚激貴氣",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260817/1166164363493511168245190.jpeg/5TudBXrLf4pi_bF5yLgkpVpBQDg_4dtLCEgJOwhICTs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60380906/%E5%85%83%E6%9C%97%E7%8B%97%E5%92%AC%E7%8B%97-%E5%A4%A7%E7%8B%97%E7%96%91%E4%B8%8A%E6%9C%88%E5%90%8C%E5%9C%B0%E9%BB%9E%E4%B9%98%E6%B6%BC%E8%A2%AB%E6%BC%81%E8%AD%B7%E6%8E%A5%E8%B5%B0-%E6%AF%9B%E5%AE%88-%E5%85%AB%E4%B9%9D%E6%88%90%E4%BF%82%E4%BD%A2",
     "timestamp": "2026-08-17T15:30:22.963Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "元朗狗咬狗｜大狗疑上月同地點乘涼被漁護接走　毛守：八九成係佢",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260817/1166153889276235776180423.jpeg/jpDOurUGjopdeV28ZVOkyxzJW_G4qv8YbD9yuWw_crk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60380906/%E5%85%83%E6%9C%97%E7%8B%97%E5%92%AC%E7%8B%97-%E5%A4%A7%E7%8B%97%E7%96%91%E4%B8%8A%E6%9C%88%E5%90%8C%E5%9C%B0%E9%BB%9E%E4%B9%98%E6%B6%BC%E8%A2%AB%E6%BC%81%E8%AD%B7%E6%8E%A5%E8%B5%B0-%E6%AF%9B%E5%AE%88-%E5%85%AB%E4%B9%9D%E6%88%90%E4%BF%82%E4%BD%A2",
-    "timestamp": "2026-08-17T15:15:49.462Z",
     "strategy": ".content-card__main"
   }
 ];
