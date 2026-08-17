@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-17T12:32:46.978Z
+// Last updated: 2026-08-17T12:55:23.111Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "元朗狗咬狗｜體重逾20公斤屬大型狗隻　公眾地方必須繫狗繩牽引",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260817/1166121359940521984235497.jpeg/jEhb7hadSqEHU9eKmoJA0jdmbwZHllvaVzuTclc7k3I",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60380875/%E5%85%83%E6%9C%97%E7%8B%97%E5%92%AC%E7%8B%97-%E9%AB%94%E9%87%8D%E9%80%BE20%E5%85%AC%E6%96%A4%E5%B1%AC%E5%A4%A7%E5%9E%8B%E7%8B%97%E9%9A%BB-%E5%85%AC%E7%9C%BE%E5%9C%B0%E6%96%B9%E5%BF%85%E9%A0%88%E7%B9%AB%E7%8B%97%E7%B9%A9%E7%89%BD%E5%BC%95",
+    "timestamp": "2026-08-17T12:55:23.111Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "港大民主牆改裝電子屏幕　校方：社群可繼續根據指引發表資訊",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260812/1164253605381804032126958.jpeg/YYIGgcDm4K8uKJbpcmX2Z6jKjKBnJfiWsPcoJbD3KCU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60380565/%E7%89%B9%E6%9C%97%E6%99%AE-%E4%B8%AD%E6%9D%B1%E4%B8%89%E5%9C%8B%E7%B0%BD%E7%BD%B2%E5%9C%8B%E9%98%B2%E5%8D%94%E8%AD%B0%E6%84%8F%E7%BE%A9%E9%87%8D%E5%A4%A7",
     "timestamp": "2026-08-17T00:54:08.163Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "谷愛凌被爆秘撻LV三公子　滑雪女王火速KO緋聞：總是最後一個知道",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260816/1165786636693278720350628.jpeg/r9QOP3zpEONqfdPyqEttZdODJrChj4mZkgwX15IMF9c?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60380532/%E8%B0%B7%E6%84%9B%E5%87%8C%E8%A2%AB%E7%88%86%E7%A7%98%E6%92%BBlv%E4%B8%89%E5%85%AC%E5%AD%90-%E6%BB%91%E9%9B%AA%E5%A5%B3%E7%8E%8B%E7%81%AB%E9%80%9Fko%E7%B7%8B%E8%81%9E-%E7%B8%BD%E6%98%AF%E6%9C%80%E5%BE%8C%E4%B8%80%E5%80%8B%E7%9F%A5%E9%81%93",
-    "timestamp": "2026-08-16T23:56:28.750Z",
     "strategy": ".content-card__main"
   }
 ];
