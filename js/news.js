@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-17T11:45:15.855Z
+// Last updated: 2026-08-17T11:57:48.133Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "田啟文捧入行47年首個男配獎興奮打卡　曾因長相被阻入行反成動力",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260817/1166094097287483392197843.jpeg/vVqhIh4G-R2T2TrglrStZKPVaMyEZTcllUO9QpVDvUI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60380840/%E7%94%B0%E5%95%9F%E6%96%87%E6%8D%A7%E5%85%A5%E8%A1%8C47%E5%B9%B4%E9%A6%96%E5%80%8B%E7%94%B7%E9%85%8D%E7%8D%8E%E8%88%88%E5%A5%AE%E6%89%93%E5%8D%A1-%E6%9B%BE%E5%9B%A0%E9%95%B7%E7%9B%B8%E8%A2%AB%E9%98%BB%E5%85%A5%E8%A1%8C%E5%8F%8D%E6%88%90%E5%8B%95%E5%8A%9B",
+    "timestamp": "2026-08-17T11:57:48.133Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "醫生彭亨利被控默許診所作「5萬位男士重拾自信」等誇張陳述成立",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260816/1165786636693278720350628.jpeg/r9QOP3zpEONqfdPyqEttZdODJrChj4mZkgwX15IMF9c?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60380532/%E8%B0%B7%E6%84%9B%E5%87%8C%E8%A2%AB%E7%88%86%E7%A7%98%E6%92%BBlv%E4%B8%89%E5%85%AC%E5%AD%90-%E6%BB%91%E9%9B%AA%E5%A5%B3%E7%8E%8B%E7%81%AB%E9%80%9Fko%E7%B7%8B%E8%81%9E-%E7%B8%BD%E6%98%AF%E6%9C%80%E5%BE%8C%E4%B8%80%E5%80%8B%E7%9F%A5%E9%81%93",
     "timestamp": "2026-08-16T23:41:58.146Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "中國醫師節｜一天到3院做5宗手術　羅順文醫生：血管手術須快及準",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260816/1165741299966414848891046.jpeg/hYyk1Fp08X3HUDFmiu8KlICI0q1uCtYJu3reZbt63mU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60380136/%E4%B8%AD%E5%9C%8B%E9%86%AB%E5%B8%AB%E7%AF%80-%E4%B8%80%E5%A4%A9%E5%88%B03%E9%99%A2%E5%81%9A5%E5%AE%97%E6%89%8B%E8%A1%93-%E7%BE%85%E9%A0%86%E6%96%87%E9%86%AB%E7%94%9F-%E8%A1%80%E7%AE%A1%E6%89%8B%E8%A1%93%E9%A0%88%E5%BF%AB%E5%8F%8A%E6%BA%96",
-    "timestamp": "2026-08-16T23:29:31.872Z",
     "strategy": ".content-card__main"
   }
 ];
