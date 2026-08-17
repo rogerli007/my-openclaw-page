@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-17T21:14:00.218Z
+// Last updated: 2026-08-17T21:45:14.326Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "特朗普：不尋求延長美伊諒解備忘錄　警告阿曼勿礙事否則轟炸",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260818/1166254922337882112025873.jpeg/gjQwM8FfEJsFAfrh5mKGStYR-8EsFrPcpCZTaaQmU2k?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60380932/%E7%89%B9%E6%9C%97%E6%99%AE-%E4%B8%8D%E5%B0%8B%E6%B1%82%E5%BB%B6%E9%95%B7%E7%BE%8E%E4%BC%8A%E8%AB%92%E8%A7%A3%E5%82%99%E5%BF%98%E9%8C%84-%E8%AD%A6%E5%91%8A%E9%98%BF%E6%9B%BC%E5%8B%BF%E7%A4%99%E4%BA%8B%E5%90%A6%E5%89%87%E8%BD%9F%E7%82%B8",
+    "timestamp": "2026-08-17T21:45:14.326Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "網傳食環人員後巷吸煙　食環署確認為小販管理隊：已展開紀律調查",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260817/1166148769360646144207134.jpeg/oj0prkR1U200yisulQHKhS3xP4Itd8mnTseAz07HgM8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60380903/%E5%B1%AF%E9%96%80%E6%BF%BE%E6%B0%B4%E5%BB%A0%E5%B0%8D%E9%96%8B%E7%B6%A0van%E7%A7%81%E5%AE%B6%E8%BB%8A%E7%9B%B8%E6%92%9E-%E5%88%9D%E6%AD%A511%E4%BA%BA%E5%82%B7",
     "timestamp": "2026-08-17T14:30:06.629Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "中東戰火致大型車企機油庫存告急　福士豐田急尋替代供應來源",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260212/1098671244519149568530874.jpeg/5x55U71oYBkziSammrDdEubg9_gIO3pqaVOcS2lTnEs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60380884/%E4%B8%AD%E6%9D%B1%E6%88%B0%E7%81%AB%E8%87%B4%E5%A4%A7%E5%9E%8B%E8%BB%8A%E4%BC%81%E6%A9%9F%E6%B2%B9%E5%BA%AB%E5%AD%98%E5%91%8A%E6%80%A5-%E7%A6%8F%E5%A3%AB%E8%B1%90%E7%94%B0%E6%80%A5%E5%B0%8B%E6%9B%BF%E4%BB%A3%E4%BE%9B%E6%87%89%E4%BE%86%E6%BA%90",
-    "timestamp": "2026-08-17T14:14:46.716Z",
     "strategy": ".content-card__main"
   }
 ];
