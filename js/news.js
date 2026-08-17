@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-17T16:12:22.923Z
+// Last updated: 2026-08-17T17:06:04.273Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "中電源動助VTC院校裝2000塊太陽能板　每年發電將相當400家庭用量",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260818/1166180744650035200974301.jpeg/jqsbw3utUyphtTzRef-wDNiclLiDONRl78dPgO_HT4A?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60380918/%E4%B8%AD%E9%9B%BB%E6%BA%90%E5%8B%95%E5%8A%A9vtc%E9%99%A2%E6%A0%A1%E8%A3%9D2000%E5%A1%8A%E5%A4%AA%E9%99%BD%E8%83%BD%E6%9D%BF-%E6%AF%8F%E5%B9%B4%E7%99%BC%E9%9B%BB%E5%B0%87%E7%9B%B8%E7%95%B6400%E5%AE%B6%E5%BA%AD%E7%94%A8%E9%87%8F",
+    "timestamp": "2026-08-17T17:06:04.273Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "內地男旅客曼谷抵港　海關揭手提行李藏值85萬大麻花　當場被捕",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260814/1165029146850496512542867.jpeg/XFyYVjlAjXtqZiId6BQWwiAbQfSij7Xsow8RKKMPESg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%97%85%E9%81%8A/60379018/alipayhk%E6%97%85%E8%A1%8C%E8%B3%BA%E5%88%B0%E7%9B%A1%E6%94%BB%E7%95%A5-%E5%85%A8%E7%90%83call%E8%BB%8A%E6%B8%9B-88-%E5%9B%9E%E8%B4%88-%E6%B6%88%E8%B2%BB%E5%88%B8%E6%85%B3%E9%80%BE-1000",
     "timestamp": "2026-08-17T10:17:16.761Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "亞運會｜港隊壁球單打金牌獎金30萬元　壁總高層自掏腰包贊助",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260817/1166075186164797440791265.jpeg/8m902h8Nxw3HnAx9GPFPMRcPCN-7S9SQ0_C4FdPwuBU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60380826/%E4%BA%9E%E9%81%8B%E6%9C%83-%E6%B8%AF%E9%9A%8A%E5%A3%81%E7%90%83%E5%96%AE%E6%89%93%E9%87%91%E7%89%8C%E7%8D%8E%E9%87%9130%E8%90%AC%E5%85%83-%E5%A3%81%E7%B8%BD%E9%AB%98%E5%B1%A4%E8%87%AA%E6%8E%8F%E8%85%B0%E5%8C%85%E8%B4%8A%E5%8A%A9",
-    "timestamp": "2026-08-17T09:52:21.731Z",
     "strategy": ".content-card__main"
   }
 ];
