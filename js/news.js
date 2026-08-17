@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-17T17:32:21.320Z
+// Last updated: 2026-08-17T17:48:53.487Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "最新天氣消息｜天文台周二有驟雨狂風雷暴　初時部分地區驟雨較多",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260818/1166191360957485056294670.jpeg/SPtZ1DBGmzSg1oR3giYfukdzJEiOpxY5E9wVBRPcFQU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60380665/%E6%9C%80%E6%96%B0%E5%A4%A9%E6%B0%A3%E6%B6%88%E6%81%AF-%E5%A4%A9%E6%96%87%E5%8F%B0%E5%91%A8%E4%BA%8C%E6%9C%89%E9%A9%9F%E9%9B%A8%E7%8B%82%E9%A2%A8%E9%9B%B7%E6%9A%B4-%E5%88%9D%E6%99%82%E9%83%A8%E5%88%86%E5%9C%B0%E5%8D%80%E9%A9%9F%E9%9B%A8%E8%BC%83%E5%A4%9A",
+    "timestamp": "2026-08-17T17:48:53.487Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "最新天氣消息｜天文台周二有驟雨狂風雷暴　初時部分地區驟雨較多",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260807/1162379236934422528932608.jpeg/lNh-cQIYzL9qyNc_qs6nJJReca40GLwn4on_IceJ_yE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60380865/%E4%B8%8A%E5%B8%82%E5%85%AC%E5%8F%B8%E9%AB%98%E5%B1%A4%E6%B6%89%E9%A8%99%E5%85%AC%E5%8F%B86017%E8%90%AC%E8%B2%B7%E5%90%8D%E9%8C%B6-%E5%89%8Dceo%E7%BD%AA%E6%88%90-%E5%89%8Dcfo%E8%84%AB%E7%BD%AA",
     "timestamp": "2026-08-17T11:29:54.257Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "私家車龍翔道涉撞電單車夫婦　女事主吐血失意識亡　司機否認危駕",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20240710/887640421453402112389476.jpeg/VujIPdFv5ijwyIVZEN8i-cGMtcgMyBIxHgv09h4L9PY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60380861/%E7%A7%81%E5%AE%B6%E8%BB%8A%E9%BE%8D%E7%BF%94%E9%81%93%E6%B6%89%E6%92%9E%E9%9B%BB%E5%96%AE%E8%BB%8A%E5%A4%AB%E5%A9%A6-%E5%A5%B3%E4%BA%8B%E4%B8%BB%E5%90%90%E8%A1%80%E5%A4%B1%E6%84%8F%E8%AD%98%E4%BA%A1-%E5%8F%B8%E6%A9%9F%E5%90%A6%E8%AA%8D%E5%8D%B1%E9%A7%95",
-    "timestamp": "2026-08-17T11:13:17.829Z",
     "strategy": ".content-card__main"
   }
 ];
