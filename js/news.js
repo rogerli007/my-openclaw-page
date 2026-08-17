@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-17T23:12:34.791Z
+// Last updated: 2026-08-17T23:29:46.192Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "年齡大記憶力必定衰退？ 研究：生酮飲食或有助於改善腦退化！",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20240625/882308663866298368534602.jpeg/BmRdjCaFM_3QYA8NacOna7Et7HuapX5SURNBsVETQbE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/1032072/%E5%B9%B4%E9%BD%A1%E5%A4%A7%E8%A8%98%E6%86%B6%E5%8A%9B%E5%BF%85%E5%AE%9A%E8%A1%B0%E9%80%80-%E7%A0%94%E7%A9%B6-%E7%94%9F%E9%85%AE%E9%A3%B2%E9%A3%9F%E6%88%96%E6%9C%89%E5%8A%A9%E6%96%BC%E6%94%B9%E5%96%84%E8%85%A6%E9%80%80%E5%8C%96",
+    "timestamp": "2026-08-17T23:29:46.192Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "海景值千金！內地專才擲3480萬住西半山　貴過估價兼呎價破3年高",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260817/1166168035891875840295306.jpeg/U23UzKWYjRtu8cbzsmTSpXC2exy6xn5ONxIOizcSDos?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60380910/%E5%91%A8%E4%BA%8C%E4%B8%8A%E7%8F%AD%E6%B3%A8%E6%84%8F-%E5%A4%A9%E6%96%87%E5%8F%B0%E6%96%99%E5%88%9D%E6%99%82%E9%83%A8%E5%88%86%E5%9C%B0%E5%8D%80%E9%A9%9F%E9%9B%A8%E8%BC%83%E5%A4%9A-%E6%96%992%E4%BD%8E%E5%A3%93%E5%8D%80%E5%85%B1%E8%88%9E",
     "timestamp": "2026-08-17T15:57:50.943Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "謝展寰訪問上海晤國網領導　考察電網監管方面發展",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260817/1166164877710987264293706.jpeg/utO8mAdZWzNkiaVfQAW8AwHmU_CgSL69YNmh02DZodM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60380911/%E8%AC%9D%E5%B1%95%E5%AF%B0%E8%A8%AA%E5%95%8F%E4%B8%8A%E6%B5%B7%E6%99%A4%E5%9C%8B%E7%B6%B2%E9%A0%98%E5%B0%8E-%E8%80%83%E5%AF%9F%E9%9B%BB%E7%B6%B2%E7%9B%A3%E7%AE%A1%E6%96%B9%E9%9D%A2%E7%99%BC%E5%B1%95",
-    "timestamp": "2026-08-17T15:45:06.675Z",
     "strategy": ".content-card__main"
   }
 ];
