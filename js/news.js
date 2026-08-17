@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-17T20:04:08.072Z
+// Last updated: 2026-08-17T20:46:22.721Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "九龍城電單車私家車相撞釀2傷　電單車乘客一度昏迷送院",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260818/1166231334574624768572839.jpeg/YpX__PsKaPjhXNQ7zq0xf3fTW1dcQ2k5b15iu0VeYrs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60380929/%E4%B9%9D%E9%BE%8D%E5%9F%8E%E9%9B%BB%E5%96%AE%E8%BB%8A%E7%A7%81%E5%AE%B6%E8%BB%8A%E7%9B%B8%E6%92%9E%E9%87%802%E5%82%B7-%E9%9B%BB%E5%96%AE%E8%BB%8A%E4%B9%98%E5%AE%A2%E4%B8%80%E5%BA%A6%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2",
+    "timestamp": "2026-08-17T20:46:22.721Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "九龍城電單車私家車相撞釀2傷　電單車乘客一度昏迷送院",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260817/1166131185697427456897314.jpeg/zb-3QpwmNCED9eiUL_TGeIj8pvrTQWUaEj9MpxI_TKc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60380885/%E4%B9%92%E4%B9%93%E7%90%83-%E5%90%B3%E8%A9%A0%E7%90%B3%E6%84%9F%E6%81%A9%E6%9C%89%E5%B8%AB%E5%A7%90%E6%89%B6%E6%8C%81-%E9%BB%83%E9%8E%AE%E5%BB%B7%E6%9D%9C%E5%87%B1%E7%90%B9%E4%BA%9E%E9%81%8B%E5%89%8D%E6%88%B0%E5%96%AE%E6%89%93%E8%B3%BD",
     "timestamp": "2026-08-17T13:23:50.325Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "元朗狗咬狗｜體重逾20公斤屬大型狗隻　公眾地方必須繫狗繩牽引",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260817/1166121359940521984235497.jpeg/jEhb7hadSqEHU9eKmoJA0jdmbwZHllvaVzuTclc7k3I",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60380875/%E5%85%83%E6%9C%97%E7%8B%97%E5%92%AC%E7%8B%97-%E9%AB%94%E9%87%8D%E9%80%BE20%E5%85%AC%E6%96%A4%E5%B1%AC%E5%A4%A7%E5%9E%8B%E7%8B%97%E9%9A%BB-%E5%85%AC%E7%9C%BE%E5%9C%B0%E6%96%B9%E5%BF%85%E9%A0%88%E7%B9%AB%E7%8B%97%E7%B9%A9%E7%89%BD%E5%BC%95",
-    "timestamp": "2026-08-17T12:55:23.111Z",
     "strategy": ".content-card__main"
   }
 ];
