@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-17T21:45:14.326Z
+// Last updated: 2026-08-17T21:57:53.768Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "特朗普：不尋求延長美伊諒解備忘錄　警告阿曼勿礙事否則轟炸",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260818/1166254922337882112025873.jpeg/gjQwM8FfEJsFAfrh5mKGStYR-8EsFrPcpCZTaaQmU2k?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60380932/%E7%89%B9%E6%9C%97%E6%99%AE-%E4%B8%8D%E5%B0%8B%E6%B1%82%E5%BB%B6%E9%95%B7%E7%BE%8E%E4%BC%8A%E8%AB%92%E8%A7%A3%E5%82%99%E5%BF%98%E9%8C%84-%E8%AD%A6%E5%91%8A%E9%98%BF%E6%9B%BC%E5%8B%BF%E7%A4%99%E4%BA%8B%E5%90%A6%E5%89%87%E8%BD%9F%E7%82%B8",
+    "timestamp": "2026-08-17T21:57:53.768Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "特朗普：不尋求延長美伊諒解備忘錄　警告阿曼勿礙事否則轟炸",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260817/1166121359940521984235497.jpeg/jEhb7hadSqEHU9eKmoJA0jdmbwZHllvaVzuTclc7k3I",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60380892/%E5%85%83%E6%9C%97%E7%8B%97%E5%92%AC%E7%8B%97-%E5%BE%8B%E5%B8%AB-%E5%A4%A7%E7%8B%97%E7%8B%97%E4%B8%BB%E4%B8%8D%E6%B6%89%E5%88%91%E4%BA%8B%E7%BD%AA-%E5%8F%97%E5%AE%B3%E7%8B%97%E4%B8%BB%E5%8F%AF%E6%B0%91%E4%BA%8B%E7%B4%A2%E5%84%9F",
     "timestamp": "2026-08-17T14:47:03.611Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "屯門濾水廠對開綠VAN私家車相撞　初步11人傷",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260817/1166148769360646144207134.jpeg/oj0prkR1U200yisulQHKhS3xP4Itd8mnTseAz07HgM8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60380903/%E5%B1%AF%E9%96%80%E6%BF%BE%E6%B0%B4%E5%BB%A0%E5%B0%8D%E9%96%8B%E7%B6%A0van%E7%A7%81%E5%AE%B6%E8%BB%8A%E7%9B%B8%E6%92%9E-%E5%88%9D%E6%AD%A511%E4%BA%BA%E5%82%B7",
-    "timestamp": "2026-08-17T14:30:06.629Z",
     "strategy": ".content-card__main"
   }
 ];
