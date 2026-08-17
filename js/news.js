@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-17T06:56:26.945Z
+// Last updated: 2026-08-17T08:22:01.469Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "公路單車疑違例闖呈祥道　目擊者：呢位選手蕩失路｜有片",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260817/1166049184206295040452691.jpeg/isrq7vE-05N7gGtel29fvwMMlEFjydao31goXd9YKF0",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60380777/%E5%85%AC%E8%B7%AF%E5%96%AE%E8%BB%8A%E7%96%91%E9%81%95%E4%BE%8B%E9%97%96%E5%91%88%E7%A5%A5%E9%81%93-%E7%9B%AE%E6%93%8A%E8%80%85-%E5%91%A2%E4%BD%8D%E9%81%B8%E6%89%8B%E8%95%A9%E5%A4%B1%E8%B7%AF-%E6%9C%89%E7%89%87",
+    "timestamp": "2026-08-17T08:22:01.469Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "葵涌女清潔工疑斜坡跌倒暈倒　其後回復清醒送院",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260817/1165838620834140160748960.jpeg/w57qwYp2VStg1c5zM1eJj064Gui4iTt6g4pQx4OKUMc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60380549/%E5%9F%83%E5%8F%8A%E7%B8%BD%E7%B5%B1%E6%99%A4%E7%89%B9%E6%9C%97%E6%99%AE%E5%A5%B3%E5%A9%BF%E8%AB%87%E5%8A%A0%E6%B2%99%E5%B1%80%E5%8B%A2-%E5%A4%9A%E5%9C%8B%E8%81%AF%E5%90%88%E8%AD%B4%E8%B2%AC%E4%BB%A5%E8%89%B2%E5%88%97",
     "timestamp": "2026-08-16T19:55:14.760Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "九龍城小狗突衝出馬路　好心鐵騎路中央救狗　網民轟主人無繫繩",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260817/1165849276652195840653927.png/L1FWj7onIRpbYdikyHEbTkWh5PJ4Awbvg7FgnIOxYJw",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60380553/%E4%B9%9D%E9%BE%8D%E5%9F%8E%E5%B0%8F%E7%8B%97%E7%AA%81%E8%A1%9D%E5%87%BA%E9%A6%AC%E8%B7%AF-%E5%A5%BD%E5%BF%83%E9%90%B5%E9%A8%8E%E8%B7%AF%E4%B8%AD%E5%A4%AE%E6%95%91%E7%8B%97-%E7%B6%B2%E6%B0%91%E8%BD%9F%E4%B8%BB%E4%BA%BA%E7%84%A1%E7%B9%AB%E7%B9%A9",
-    "timestamp": "2026-08-16T19:42:22.148Z",
     "strategy": ".content-card__main"
   }
 ];
