@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-17T19:30:17.727Z
+// Last updated: 2026-08-17T20:04:08.072Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "九龍城電單車私家車相撞釀2傷　電單車乘客一度昏迷送院",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260818/1166231334574624768572839.jpeg/YpX__PsKaPjhXNQ7zq0xf3fTW1dcQ2k5b15iu0VeYrs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60380929/%E4%B9%9D%E9%BE%8D%E5%9F%8E%E9%9B%BB%E5%96%AE%E8%BB%8A%E7%A7%81%E5%AE%B6%E8%BB%8A%E7%9B%B8%E6%92%9E%E9%87%802%E5%82%B7-%E9%9B%BB%E5%96%AE%E8%BB%8A%E4%B9%98%E5%AE%A2%E4%B8%80%E5%BA%A6%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2",
+    "timestamp": "2026-08-17T20:04:08.072Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "庫許納晤內塔尼亞胡4小時　消息稱就加沙下階段安排達共識",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260817/1166121359940521984235497.jpeg/jEhb7hadSqEHU9eKmoJA0jdmbwZHllvaVzuTclc7k3I",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60380875/%E5%85%83%E6%9C%97%E7%8B%97%E5%92%AC%E7%8B%97-%E9%AB%94%E9%87%8D%E9%80%BE20%E5%85%AC%E6%96%A4%E5%B1%AC%E5%A4%A7%E5%9E%8B%E7%8B%97%E9%9A%BB-%E5%85%AC%E7%9C%BE%E5%9C%B0%E6%96%B9%E5%BF%85%E9%A0%88%E7%B9%AB%E7%8B%97%E7%B9%A9%E7%89%BD%E5%BC%95",
     "timestamp": "2026-08-17T12:55:23.111Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "港大民主牆改裝電子屏幕　校方：社群可繼續根據指引發表資訊",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260817/1166110375825903616829630.jpeg/Pi9Un2LNL8P9MANG0bysmSIJHhcUhIjIQoYKB0KGCgc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60380873/%E6%B8%AF%E5%A4%A7%E6%B0%91%E4%B8%BB%E7%89%86%E6%94%B9%E8%A3%9D%E9%9B%BB%E5%AD%90%E5%B1%8F%E5%B9%95-%E6%A0%A1%E6%96%B9-%E7%A4%BE%E7%BE%A4%E5%8F%AF%E7%B9%BC%E7%BA%8C%E6%A0%B9%E6%93%9A%E6%8C%87%E5%BC%95%E7%99%BC%E8%A1%A8%E8%B3%87%E8%A8%8A",
-    "timestamp": "2026-08-17T12:32:46.978Z",
     "strategy": ".content-card__main"
   }
 ];
