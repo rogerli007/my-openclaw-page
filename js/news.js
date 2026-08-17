@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-16T23:56:28.750Z
+// Last updated: 2026-08-17T00:54:08.163Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "特朗普：中東三國簽署國防協議意義重大",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260812/1164253605381804032126958.jpeg/YYIGgcDm4K8uKJbpcmX2Z6jKjKBnJfiWsPcoJbD3KCU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60380565/%E7%89%B9%E6%9C%97%E6%99%AE-%E4%B8%AD%E6%9D%B1%E4%B8%89%E5%9C%8B%E7%B0%BD%E7%BD%B2%E5%9C%8B%E9%98%B2%E5%8D%94%E8%AD%B0%E6%84%8F%E7%BE%A9%E9%87%8D%E5%A4%A7",
+    "timestamp": "2026-08-17T00:54:08.163Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "谷愛凌被爆秘撻LV三公子　滑雪女王火速KO緋聞：總是最後一個知道",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260131/1094404590142492672321804.jpeg/F6CG28t8p6JclDA5ghIKhb0mHNymLoqYq4DzbquA824?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60380542/%E4%BC%8A%E6%9C%97%E8%BB%8D%E6%96%B9-%E6%87%B8%E8%B3%9E3%E8%90%AC%E7%BE%8E%E5%85%83%E6%8D%89%E6%8B%BF%E6%88%96%E6%93%8A%E6%96%83%E7%BE%8E%E5%85%B5-%E7%BE%8E%E5%9C%8B%E7%A6%81%E5%85%A5%E9%9C%8D%E7%88%BE%E6%9C%A8%E8%8C%B2%E7%AD%89%E6%B5%B7%E5%B3%BD",
     "timestamp": "2026-08-16T17:42:56.173Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "伊朗軍方：懸賞3萬美元捉拿或擊斃美兵　美國禁入霍爾木茲等海峽",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260131/1094404590142492672321804.jpeg/F6CG28t8p6JclDA5ghIKhb0mHNymLoqYq4DzbquA824?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60380542/%E4%BC%8A%E6%9C%97%E8%BB%8D%E6%96%B9-%E6%87%B8%E8%B3%9E3%E8%90%AC%E7%BE%8E%E5%85%83%E6%8D%89%E6%8B%BF%E6%88%96%E6%93%8A%E6%96%83%E7%BE%8E%E5%85%B5-%E7%BE%8E%E5%9C%8B%E7%A6%81%E5%85%A5%E9%9C%8D%E7%88%BE%E6%9C%A8%E8%8C%B2%E7%AD%89%E6%B5%B7%E5%B3%BD",
-    "timestamp": "2026-08-16T17:29:28.931Z",
     "strategy": ".content-card__main"
   }
 ];
