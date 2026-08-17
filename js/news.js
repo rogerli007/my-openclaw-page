@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-17T03:16:21.176Z
+// Last updated: 2026-08-17T04:07:06.886Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "香港流感持續升溫兒童入院率最高9宗重症 專家料開學後增傳播風險",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260817/1165991737533927424856139.jpeg/uKbo1uhMas5mXW9GLViOxLfoIkI7scPlfpDG4X6QxuE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%A6%AA%E5%AD%90/60380190/%E9%A6%99%E6%B8%AF%E6%B5%81%E6%84%9F%E6%8C%81%E7%BA%8C%E5%8D%87%E6%BA%AB%E5%85%92%E7%AB%A5%E5%85%A5%E9%99%A2%E7%8E%87%E6%9C%80%E9%AB%989%E5%AE%97%E9%87%8D%E7%97%87-%E5%B0%88%E5%AE%B6%E6%96%99%E9%96%8B%E5%AD%B8%E5%BE%8C%E5%A2%9E%E5%82%B3%E6%92%AD%E9%A2%A8%E9%9A%AA",
+    "timestamp": "2026-08-17T04:07:06.886Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "HydraFacial vs Aqua Peel vs Emfusion邊間好？清潔Facial點揀？",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20241018/924048999554486272120539.png/qOERZm-z_uffhejmhl-V5oLiOhbAzV-uqJOifKiTonw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60380551/%E7%89%B9%E6%9C%97%E6%99%AE%E5%A5%B3%E5%A9%BF%E5%9F%83%E5%8F%8A%E6%99%A4%E5%93%88%E9%A6%AC%E6%96%AF%E9%A0%98%E8%A2%96%E5%93%88%E4%BA%9E-%E4%BF%83%E8%90%BD%E5%AF%A6%E5%8A%A0%E6%B2%99%E5%92%8C%E5%B9%B3%E8%A8%88%E5%8A%83",
     "timestamp": "2026-08-16T18:48:13.185Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普女婿埃及晤哈馬斯領袖哈亞　促落實加沙和平計劃",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20241018/924048999554486272120539.png/qOERZm-z_uffhejmhl-V5oLiOhbAzV-uqJOifKiTonw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60380551/%E7%89%B9%E6%9C%97%E6%99%AE%E5%A5%B3%E5%A9%BF%E5%9F%83%E5%8F%8A%E6%99%A4%E5%93%88%E9%A6%AC%E6%96%AF%E9%A0%98%E8%A2%96%E5%93%88%E4%BA%9E-%E4%BF%83%E8%90%BD%E5%AF%A6%E5%8A%A0%E6%B2%99%E5%92%8C%E5%B9%B3%E8%A8%88%E5%8A%83",
-    "timestamp": "2026-08-16T18:30:14.000Z",
     "strategy": ".content-card__main"
   }
 ];
