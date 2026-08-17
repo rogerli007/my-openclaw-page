@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-17T05:51:54.497Z
+// Last updated: 2026-08-17T06:56:26.945Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "葵涌女清潔工疑斜坡跌倒暈倒　其後回復清醒送院",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260817/1166033535593615360583190.jpeg/Yb3zgeTuRnobWh3ys5BR4jnKRF6dwZzVInw7tSJ8O7U?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60380734/%E8%91%B5%E6%B6%8C%E5%A5%B3%E6%B8%85%E6%BD%94%E5%B7%A5%E7%96%91%E6%96%9C%E5%9D%A1%E8%B7%8C%E5%80%92%E6%9A%88%E5%80%92-%E5%85%B6%E5%BE%8C%E5%9B%9E%E5%BE%A9%E6%B8%85%E9%86%92%E9%80%81%E9%99%A2",
+    "timestamp": "2026-08-17T06:56:26.945Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "牛來電影丨「爛到極致」狂吸網民二創打卡　票房破1100萬遭急下架",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260817/1165849276652195840653927.png/L1FWj7onIRpbYdikyHEbTkWh5PJ4Awbvg7FgnIOxYJw",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60380553/%E4%B9%9D%E9%BE%8D%E5%9F%8E%E5%B0%8F%E7%8B%97%E7%AA%81%E8%A1%9D%E5%87%BA%E9%A6%AC%E8%B7%AF-%E5%A5%BD%E5%BF%83%E9%90%B5%E9%A8%8E%E8%B7%AF%E4%B8%AD%E5%A4%AE%E6%95%91%E7%8B%97-%E7%B6%B2%E6%B0%91%E8%BD%9F%E4%B8%BB%E4%BA%BA%E7%84%A1%E7%B9%AB%E7%B9%A9",
     "timestamp": "2026-08-16T19:42:22.148Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "九龍城小狗突衝出馬路　好心鐵騎路中央救狗　網民轟主人無繫繩",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260817/1165849276652195840653927.png/L1FWj7onIRpbYdikyHEbTkWh5PJ4Awbvg7FgnIOxYJw",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60380553/%E4%B9%9D%E9%BE%8D%E5%9F%8E%E5%B0%8F%E7%8B%97%E7%AA%81%E8%A1%9D%E5%87%BA%E9%A6%AC%E8%B7%AF-%E5%A5%BD%E5%BF%83%E9%90%B5%E9%A8%8E%E8%B7%AF%E4%B8%AD%E5%A4%AE%E6%95%91%E7%8B%97-%E7%B6%B2%E6%B0%91%E8%BD%9F%E4%B8%BB%E4%BA%BA%E7%84%A1%E7%B9%AB%E7%B9%A9",
-    "timestamp": "2026-08-16T19:28:55.741Z",
     "strategy": ".content-card__main"
   }
 ];
