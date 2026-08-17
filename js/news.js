@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-17T17:06:04.273Z
+// Last updated: 2026-08-17T17:16:40.962Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "夾耳式耳機4大熱門實測！從無感佩戴到頂級聲學 耳邊飾物選購指南",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260818/1166185775415431168259870.jpeg/K8Uqr4E9a7bpidhyx5GxmjyjVKKYY5FoB4-9pQePvaU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60380917/cmf-clip-pro-cleer-bridge-%E5%85%A9%E5%A4%A78%E6%9C%88%E6%9C%80%E6%96%B0%E5%A4%BE%E8%80%B3%E5%BC%8F%E8%97%8D%E7%89%99%E8%80%B3%E6%A9%9F%E9%96%8B%E7%AE%B1%E8%A9%A6",
+    "timestamp": "2026-08-17T17:16:40.962Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "中電源動助VTC院校裝2000塊太陽能板　每年發電將相當400家庭用量",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260324/1113116372805619712863105.jpeg/JKJDw-k1DuKQzqriqR-b9O5i6l9PBI7u-X8O5vl_DuY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60380858/%E9%9F%93%E5%9C%8B%E5%9F%B7%E6%94%BF%E9%BB%A8%E9%BB%A8%E9%A6%96%E9%81%B8%E8%88%89-%E5%89%8D%E5%9C%8B%E5%8B%99%E7%B8%BD%E7%90%86%E9%87%91%E6%B0%91%E9%8C%AB%E7%95%B6%E9%81%B8",
     "timestamp": "2026-08-17T10:57:43.982Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "AlipayHK旅行賺到盡攻略！全球Call車減$88+回贈+消費券慳逾$1000",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260814/1165029146850496512542867.jpeg/XFyYVjlAjXtqZiId6BQWwiAbQfSij7Xsow8RKKMPESg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%97%85%E9%81%8A/60379018/alipayhk%E6%97%85%E8%A1%8C%E8%B3%BA%E5%88%B0%E7%9B%A1%E6%94%BB%E7%95%A5-%E5%85%A8%E7%90%83call%E8%BB%8A%E6%B8%9B-88-%E5%9B%9E%E8%B4%88-%E6%B6%88%E8%B2%BB%E5%88%B8%E6%85%B3%E9%80%BE-1000",
-    "timestamp": "2026-08-17T10:17:16.761Z",
     "strategy": ".content-card__main"
   }
 ];
