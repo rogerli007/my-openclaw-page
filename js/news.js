@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-17T04:55:26.616Z
+// Last updated: 2026-08-17T05:51:54.497Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "牛來電影丨「爛到極致」狂吸網民二創打卡　票房破1100萬遭急下架",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260816/1165715168135483392428361.jpeg/3UOULkEPPMMphe2YOtdgeUF-MTBJGvVXOm5tjTpubY0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60380458/%E7%89%9B%E4%BE%86%E9%9B%BB%E5%BD%B1--%E7%88%9B%E5%88%B0%E6%A5%B5%E8%87%B4-%E7%8B%82%E5%90%B8%E7%B6%B2%E6%B0%91%E4%BA%8C%E5%89%B5%E6%89%93%E5%8D%A1-%E7%A5%A8%E6%88%BF%E7%A0%B41100%E8%90%AC%E9%81%AD%E6%80%A5%E4%B8%8B%E6%9E%B6",
+    "timestamp": "2026-08-17T05:51:54.497Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "的士司機吸「K仔」後仍開工　車輛左搖右擺被截獲　囚4月停牌5年",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260817/1165849276652195840653927.png/L1FWj7onIRpbYdikyHEbTkWh5PJ4Awbvg7FgnIOxYJw",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60380553/%E4%B9%9D%E9%BE%8D%E5%9F%8E%E5%B0%8F%E7%8B%97%E7%AA%81%E8%A1%9D%E5%87%BA%E9%A6%AC%E8%B7%AF-%E5%A5%BD%E5%BF%83%E9%90%B5%E9%A8%8E%E8%B7%AF%E4%B8%AD%E5%A4%AE%E6%95%91%E7%8B%97-%E7%B6%B2%E6%B0%91%E8%BD%9F%E4%B8%BB%E4%BA%BA%E7%84%A1%E7%B9%AB%E7%B9%A9",
     "timestamp": "2026-08-16T19:28:55.741Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "九龍城小狗突衝出馬路　好心鐵騎路中央救狗　網民轟主人無繫繩",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260817/1165849276652195840653927.png/L1FWj7onIRpbYdikyHEbTkWh5PJ4Awbvg7FgnIOxYJw",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60380553/%E4%B9%9D%E9%BE%8D%E5%9F%8E%E5%B0%8F%E7%8B%97%E7%AA%81%E8%A1%9D%E5%87%BA%E9%A6%AC%E8%B7%AF-%E5%A5%BD%E5%BF%83%E9%90%B5%E9%A8%8E%E8%B7%AF%E4%B8%AD%E5%A4%AE%E6%95%91%E7%8B%97-%E7%B6%B2%E6%B0%91%E8%BD%9F%E4%B8%BB%E4%BA%BA%E7%84%A1%E7%B9%AB%E7%B9%A9",
-    "timestamp": "2026-08-16T19:14:45.940Z",
     "strategy": ".content-card__main"
   }
 ];
