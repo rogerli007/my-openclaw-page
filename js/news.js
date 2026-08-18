@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-18T16:32:15.044Z
+// Last updated: 2026-08-18T16:50:01.883Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "阿富汗喀布爾教育中心爆炸　至少42名兒童受傷",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260819/1166544602417598464016398.png/ZJyWNyyortnWBjoBBX0hpg-ldpJZOEk64cjrMuHI6zI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60381326/%E9%98%BF%E5%AF%8C%E6%B1%97%E5%96%80%E5%B8%83%E7%88%BE%E6%95%99%E8%82%B2%E4%B8%AD%E5%BF%83%E7%88%86%E7%82%B8-%E8%87%B3%E5%B0%9142%E5%90%8D%E5%85%92%E7%AB%A5%E5%8F%97%E5%82%B7",
+    "timestamp": "2026-08-18T16:50:01.883Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "這款水果竟是腎臟殺手！健康人士連吃4顆或致腎衰竭　最嚴重喪命",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20200528/342761881766858752.jpeg/e8y1gZ0sV5BQLpPpPJUNMZ_AfVyv7hgMap9HpWqfR6U",
     "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60381202/%E6%8F%9A%E5%B7%9E%E7%82%92%E9%A3%AF%E9%A3%9F%E8%AD%9C-%E5%81%9A%E6%B3%95%E7%B0%A1%E6%98%9320%E5%88%86%E9%90%98%E5%AE%8C%E6%88%90-%E8%9D%A6%E4%BB%81%E5%8F%89%E7%87%92%E9%85%8D%E7%B2%92%E7%B2%92%E5%88%86%E6%98%8E%E9%A3%AF%E5%BA%95",
     "timestamp": "2026-08-18T09:17:21.917Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "中聯通中期少賺近35%　收升微升不足1%　算力收入達419億人幣",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20210421/461595264210178048480956.jpeg/p8nlQoFkexla2gtKa23nzS71YSNOu_Wv5ouAJuaLgCY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60381200/%E4%B8%AD%E8%81%AF%E9%80%9A%E4%B8%AD%E6%9C%9F%E5%B0%91%E8%B3%BA%E8%BF%9135-%E6%94%B6%E5%8D%87%E5%BE%AE%E5%8D%87%E4%B8%8D%E8%B6%B31-%E7%AE%97%E5%8A%9B%E6%94%B6%E5%85%A5%E9%81%94419%E5%84%84%E4%BA%BA%E5%B9%A3",
-    "timestamp": "2026-08-18T08:59:13.810Z",
     "strategy": ".content-card__main"
   }
 ];
