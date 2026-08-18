@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-18T11:02:40.133Z
+// Last updated: 2026-08-18T11:15:43.998Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "煤氣料全年利潤能錄得高單位數增長　對價格調整保持謹慎態度",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260818/1166456743320883200934216.png/3Wvw2XONoosbaGpCPwch5d4VRGmYfoj0KNiU6ijYlOo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60381267/%E7%85%A4%E6%B0%A3%E6%96%99%E5%85%A8%E5%B9%B4%E5%88%A9%E6%BD%A4%E8%83%BD%E9%8C%84%E5%BE%97%E9%AB%98%E5%96%AE%E4%BD%8D%E6%95%B8%E5%A2%9E%E9%95%B7-%E5%B0%8D%E5%83%B9%E6%A0%BC%E8%AA%BF%E6%95%B4%E4%BF%9D%E6%8C%81%E8%AC%B9%E6%85%8E%E6%85%8B%E5%BA%A6",
+    "timestamp": "2026-08-18T11:15:43.998Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "本地研發「EX M」醬汁獲JW萬豪採用　獲選為全電烹飪大賽必用材料",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260806/1162074065188425728839460.jpeg/gDi8ciszxiv6YZbEaJ3mEuVIB8Z3qMWAjg-Gpo4PhqY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60377504/oppo-reno16%E6%89%8B%E6%A9%9F%E8%A9%95%E6%B8%AC-%E7%8D%A8%E5%89%B5%E8%A3%B8%E7%9C%BC3d%E8%83%8C%E6%9D%BF%E8%B6%85%E9%A9%9A%E8%89%B7-6700mah%E5%A4%A7%E9%9B%BB%E7%BA%8C%E8%88%AA%E5%BC%B7",
     "timestamp": "2026-08-18T02:16:22.196Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "廚師發辦｜電影大談交友軟體緣分　盧鎮業自爆中學玩ICQ識澳門女",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260817/1166139002395299840028796.jpeg/Iv7_m_BPXRXwKp3s9gNoPrInKKV96w6JLSiERhcohEY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60380895/%E5%BB%9A%E5%B8%AB%E7%99%BC%E8%BE%A6-%E9%9B%BB%E5%BD%B1%E5%A4%A7%E8%AB%87%E4%BA%A4%E5%8F%8B%E8%BB%9F%E9%AB%94%E7%B7%A3%E5%88%86-%E7%9B%A7%E9%8E%AE%E6%A5%AD%E8%87%AA%E7%88%86%E4%B8%AD%E5%AD%B8%E7%8E%A9icq%E8%AD%98%E6%BE%B3%E9%96%80%E5%A5%B3",
-    "timestamp": "2026-08-18T00:57:03.233Z",
     "strategy": ".content-card__main"
   }
 ];
