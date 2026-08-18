@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-18T20:45:05.878Z
+// Last updated: 2026-08-18T20:58:09.039Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "庫什納與以色列哈馬斯會談結束　特朗普加沙和平計劃停滯不前",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260818/1166393292028383232157904.png/RqZ6DcaHMwYrfibGQ_jAVrbsZMoEEiO0BbMhnwWzIZ8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60381345/%E5%BA%AB%E4%BB%80%E7%B4%8D%E8%88%87%E4%BB%A5%E8%89%B2%E5%88%97%E5%93%88%E9%A6%AC%E6%96%AF%E6%9C%83%E8%AB%87%E7%B5%90%E6%9D%9F-%E7%89%B9%E6%9C%97%E6%99%AE%E5%8A%A0%E6%B2%99%E5%92%8C%E5%B9%B3%E8%A8%88%E5%8A%83%E5%81%9C%E6%BB%AF%E4%B8%8D%E5%89%8D",
+    "timestamp": "2026-08-18T20:58:09.039Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "韓媒：美韓年度聯合軍演時間減半　後半段反擊作戰訓練取消",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260108/1085959711871733760732649.jpeg/f_Y2-9aM9N24DecAkEGBFjhEX9PxfuQ4EKPI-xCjyPs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60381306/%E7%83%8F%E5%85%8B%E8%98%AD%E7%94%A8%E8%8B%B1%E8%A3%BD%E7%84%A1%E4%BA%BA%E6%A9%9F%E8%A5%B2%E6%93%8A-%E4%BF%84%E7%BE%85%E6%96%AF%E8%AD%A6%E5%91%8A%E8%8B%B1%E5%9C%8B%E8%A6%81-%E4%BB%98%E5%87%BA%E4%BB%A3%E5%83%B9",
     "timestamp": "2026-08-18T13:51:46.470Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "六合彩結果｜今期8.18頭獎2400萬即時攪珠｜中獎號碼+派彩獎金",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260806/1162087277900337152218754.png/aDSWdXWhOmWC1NfKczj_tfHQX3yog8jaMcfvwTHH78E?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60380347/%E5%85%AD%E5%90%88%E5%BD%A9%E7%B5%90%E6%9E%9C-%E4%BB%8A%E6%9C%9F8-18%E9%A0%AD%E7%8D%8E2400%E8%90%AC%E5%8D%B3%E6%99%82%E6%94%AA%E7%8F%A0-%E4%B8%AD%E7%8D%8E%E8%99%9F%E7%A2%BC-%E6%B4%BE%E5%BD%A9%E7%8D%8E%E9%87%91",
-    "timestamp": "2026-08-18T13:24:42.538Z",
     "strategy": ".content-card__main"
   }
 ];
