@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-18T08:59:13.810Z
+// Last updated: 2026-08-18T09:17:21.917Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "揚州炒飯食譜｜做法簡易20分鐘完成、蝦仁叉燒配粒粒分明飯底",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20200528/342761881766858752.jpeg/e8y1gZ0sV5BQLpPpPJUNMZ_AfVyv7hgMap9HpWqfR6U",
+    "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60381202/%E6%8F%9A%E5%B7%9E%E7%82%92%E9%A3%AF%E9%A3%9F%E8%AD%9C-%E5%81%9A%E6%B3%95%E7%B0%A1%E6%98%9320%E5%88%86%E9%90%98%E5%AE%8C%E6%88%90-%E8%9D%A6%E4%BB%81%E5%8F%89%E7%87%92%E9%85%8D%E7%B2%92%E7%B2%92%E5%88%86%E6%98%8E%E9%A3%AF%E5%BA%95",
+    "timestamp": "2026-08-18T09:17:21.917Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "中聯通中期少賺近35%　收升微升不足1%　算力收入達419億人幣",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20251203/1072916185193910272801927.jpeg/xLNsBrG0IHWzwJxUAMrLd9x5J7yQRlPmpe5MY4DuTGM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60380766/%E6%B5%B7%E6%99%AF%E5%80%BC%E5%8D%83%E9%87%91-%E5%85%A7%E5%9C%B0%E5%B0%88%E6%89%8D%E6%93%B23480%E8%90%AC%E4%BD%8F%E8%A5%BF%E5%8D%8A%E5%B1%B1-%E8%B2%B4%E9%81%8E%E4%BC%B0%E5%83%B9%E5%85%BC%E5%91%8E%E5%83%B9%E7%A0%B43%E5%B9%B4%E9%AB%98",
     "timestamp": "2026-08-17T23:12:34.791Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美媒：習近平料9.23晚抵美　翌日晤特朗普　不會出席聯合國大會",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260517/1132472465189113856301627.jpeg/w_4ZaigA0vof2Qwt3XYNNnHTqqRnlZrJ0lQbQdJUG0E?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60380933/%E7%BE%8E%E5%AA%92-%E7%BF%92%E8%BF%91%E5%B9%B3%E6%96%999-23%E6%99%9A%E6%8A%B5%E7%BE%8E-%E7%BF%8C%E6%97%A5%E6%99%A4%E7%89%B9%E6%9C%97%E6%99%AE-%E4%B8%8D%E6%9C%83%E5%87%BA%E5%B8%AD%E8%81%AF%E5%90%88%E5%9C%8B%E5%A4%A7%E6%9C%83",
-    "timestamp": "2026-08-17T22:45:52.080Z",
     "strategy": ".content-card__main"
   }
 ];
