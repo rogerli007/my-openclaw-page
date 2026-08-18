@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-18T04:51:13.416Z
+// Last updated: 2026-08-18T05:32:10.899Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "浪花男女｜星爺愛Wakesurf但難拍電影　舊戰友率先成事︰值得一試",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260818/1166365733131653120647821.jpeg/2llCoeotd286vSYghnTjvUA4rC7LpkPuSM2l2kjNpdo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60381026/%E6%B5%AA%E8%8A%B1%E7%94%B7%E5%A5%B3-%E6%98%9F%E7%88%BA%E6%84%9Bwakesurf%E4%BD%86%E9%9B%A3%E6%8B%8D%E9%9B%BB%E5%BD%B1-%E8%88%8A%E6%88%B0%E5%8F%8B%E7%8E%87%E5%85%88%E6%88%90%E4%BA%8B-%E5%80%BC%E5%BE%97%E4%B8%80%E8%A9%A6",
+    "timestamp": "2026-08-18T05:32:10.899Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "范徐麗泰、梁愛詩北上消費　血拚「山姆超市」買麵包｜政壇諸事町",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260818/1166231334574624768572839.jpeg/YpX__PsKaPjhXNQ7zq0xf3fTW1dcQ2k5b15iu0VeYrs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60380929/%E4%B9%9D%E9%BE%8D%E5%9F%8E%E9%9B%BB%E5%96%AE%E8%BB%8A%E7%A7%81%E5%AE%B6%E8%BB%8A%E7%9B%B8%E6%92%9E%E9%87%802%E5%82%B7-%E9%9B%BB%E5%96%AE%E8%BB%8A%E4%B9%98%E5%AE%A2%E4%B8%80%E5%BA%A6%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2",
     "timestamp": "2026-08-17T20:46:22.721Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "九龍城電單車私家車相撞釀2傷　電單車乘客一度昏迷送院",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260818/1166231334574624768572839.jpeg/YpX__PsKaPjhXNQ7zq0xf3fTW1dcQ2k5b15iu0VeYrs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60380929/%E4%B9%9D%E9%BE%8D%E5%9F%8E%E9%9B%BB%E5%96%AE%E8%BB%8A%E7%A7%81%E5%AE%B6%E8%BB%8A%E7%9B%B8%E6%92%9E%E9%87%802%E5%82%B7-%E9%9B%BB%E5%96%AE%E8%BB%8A%E4%B9%98%E5%AE%A2%E4%B8%80%E5%BA%A6%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2",
-    "timestamp": "2026-08-17T20:04:08.072Z",
     "strategy": ".content-card__main"
   }
 ];
