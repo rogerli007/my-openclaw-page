@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-18T13:51:46.470Z
+// Last updated: 2026-08-18T14:36:06.370Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "有片｜黃大仙橫頭磡邨女途人遭蛇咬腳送院　蛇王到場徒手擒青竹蛇",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260818/1166511512257302528460572.jpeg/lQXzJw2kAwHw7M2VWqYBzb78XeX5yTv06s-vUOrPr1A",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60381303/%E6%9C%89%E7%89%87-%E9%BB%83%E5%A4%A7%E4%BB%99%E6%A9%AB%E9%A0%AD%E7%A3%A1%E9%82%A8%E5%A5%B3%E9%80%94%E4%BA%BA%E9%81%AD%E8%9B%87%E5%92%AC%E8%85%B3%E9%80%81%E9%99%A2-%E8%9B%87%E7%8E%8B%E5%88%B0%E5%A0%B4%E5%BE%92%E6%89%8B%E6%93%92%E9%9D%92%E7%AB%B9%E8%9B%87",
+    "timestamp": "2026-08-18T14:36:06.370Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "烏克蘭用英製無人機襲擊　俄羅斯警告英國要「付出代價」",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260818/1166377217622544384906234.png/dcDjli-yt_DeHB7JB0ZW4pl1NIobOx9DCNqvZAjar2Q?v=w1920r16_9",
     "url": "https://www.hk01.com/18%E5%8D%80%E6%96%B0%E8%81%9E/60381072/9%E9%96%93%E9%95%B7%E8%80%85%E5%81%A5%E5%BA%B7%E4%B8%AD%E5%BF%8310-5%E8%B5%B7%E6%95%B4%E5%90%88%E8%87%B3%E5%9C%B0%E5%8D%80%E7%B6%B2-%E6%B6%89%E6%85%A2%E7%97%85%E8%A9%95%E4%BC%B0%E7%AD%89-%E6%9C%8D%E5%8B%99%E9%BB%9E%E5%B0%87%E5%A2%9E",
     "timestamp": "2026-08-18T06:02:44.878Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "心連心換莊管浩鳴料交棒譚贛蘭　孫玉菡：誰任主席都是政府好拍檔",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260818/1166380248770547712021659.jpeg/9ice0eNMG_Q-19rEhZM8sSTWu03QF9oEBu-kgQbvpIE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60381063/%E5%BF%83%E9%80%A3%E5%BF%83%E6%8F%9B%E8%8E%8A%E7%AE%A1%E6%B5%A9%E9%B3%B4%E6%96%99%E4%BA%A4%E6%A3%92%E8%AD%9A%E8%B4%9B%E8%98%AD-%E5%AD%AB%E7%8E%89%E8%8F%A1-%E8%AA%B0%E4%BB%BB%E4%B8%BB%E5%B8%AD%E9%83%BD%E6%98%AF%E6%94%BF%E5%BA%9C%E5%A5%BD%E6%8B%8D%E6%AA%94",
-    "timestamp": "2026-08-18T05:49:23.067Z",
     "strategy": ".content-card__main"
   }
 ];
