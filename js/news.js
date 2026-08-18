@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-18T18:15:18.111Z
+// Last updated: 2026-08-18T19:17:55.519Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "跨部門大埔及上水掃黃　9女被捕",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260819/1166567927873277952104928.jpeg/bJPT-rW5Xe1iYXuw243D2ftxz6qSW9EqkU-GOJFPhjg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60381338/%E8%B7%A8%E9%83%A8%E9%96%80%E5%A4%A7%E5%9F%94%E5%8F%8A%E4%B8%8A%E6%B0%B4%E6%8E%83%E9%BB%83-9%E5%A5%B3%E8%A2%AB%E6%8D%95",
+    "timestamp": "2026-08-18T19:17:55.519Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "跨部門大埔及上水掃黃　9女被捕",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260818/1166464181612843008972345.jpeg/YxxYiGQEWK5Um08SBCWOabwXU2eU2znzll6XvJZel7w?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60381284/ios-26-6-1%E7%B7%8A%E6%80%A5%E6%9B%B4%E6%96%B0-apple%E4%BF%AE%E8%A3%9Ciphone-29%E5%80%8B%E5%AE%89%E5%85%A8%E6%BC%8F%E6%B4%9E%E5%8D%B3%E5%8D%87%E7%B4%9A%E5%85%8D%E8%A2%AB%E9%A7%AD",
     "timestamp": "2026-08-18T11:30:56.947Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "煤氣料全年利潤能錄得高單位數增長　對價格調整保持謹慎態度",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260818/1166456743320883200934216.png/3Wvw2XONoosbaGpCPwch5d4VRGmYfoj0KNiU6ijYlOo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60381267/%E7%85%A4%E6%B0%A3%E6%96%99%E5%85%A8%E5%B9%B4%E5%88%A9%E6%BD%A4%E8%83%BD%E9%8C%84%E5%BE%97%E9%AB%98%E5%96%AE%E4%BD%8D%E6%95%B8%E5%A2%9E%E9%95%B7-%E5%B0%8D%E5%83%B9%E6%A0%BC%E8%AA%BF%E6%95%B4%E4%BF%9D%E6%8C%81%E8%AC%B9%E6%85%8E%E6%85%8B%E5%BA%A6",
-    "timestamp": "2026-08-18T11:15:43.998Z",
     "strategy": ".content-card__main"
   }
 ];
