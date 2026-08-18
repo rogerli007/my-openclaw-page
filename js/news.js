@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-18T16:14:40.843Z
+// Last updated: 2026-08-18T16:32:15.044Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "這款水果竟是腎臟殺手！健康人士連吃4顆或致腎衰竭　最嚴重喪命",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250520/1001365471489953792498601.jpeg/a4Ly18VLcHakMeW8bhms4WBL0_9fL27OqdRAqanUQKk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60239946/%E9%80%99%E6%AC%BE%E6%B0%B4%E6%9E%9C%E7%AB%9F%E6%98%AF%E8%85%8E%E8%87%9F%E6%AE%BA%E6%89%8B-%E5%81%A5%E5%BA%B7%E4%BA%BA%E5%A3%AB%E9%80%A3%E5%90%834%E9%A1%86%E6%88%96%E8%87%B4%E8%85%8E%E8%A1%B0%E7%AB%AD-%E6%9C%80%E5%9A%B4%E9%87%8D%E5%96%AA%E5%91%BD",
+    "timestamp": "2026-08-18T16:32:15.044Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "47歲黃婉君穿比堅尼逆天凍齡身材火辣　兩子繼承優良基因高大帥氣",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20210421/461595264210178048480956.jpeg/p8nlQoFkexla2gtKa23nzS71YSNOu_Wv5ouAJuaLgCY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60381200/%E4%B8%AD%E8%81%AF%E9%80%9A%E4%B8%AD%E6%9C%9F%E5%B0%91%E8%B3%BA%E8%BF%9135-%E6%94%B6%E5%8D%87%E5%BE%AE%E5%8D%87%E4%B8%8D%E8%B6%B31-%E7%AE%97%E5%8A%9B%E6%94%B6%E5%85%A5%E9%81%94419%E5%84%84%E4%BA%BA%E5%B9%A3",
     "timestamp": "2026-08-18T08:59:13.810Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "名古屋亞運會2026乒乓球｜中國隊名單+賽程賽果+焦點球手一覽",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260818/1166420273910517760372586.jpeg/-diPMnRBIqcbrPaPPNpufVNgIx-P6GmjKhrBFyoawRc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60381126/%E5%90%8D%E5%8F%A4%E5%B1%8B%E4%BA%9E%E9%81%8B%E6%9C%832026%E4%B9%92%E4%B9%93%E7%90%83-%E4%B8%AD%E5%9C%8B%E9%9A%8A%E5%90%8D%E5%96%AE-%E8%B3%BD%E7%A8%8B%E8%B3%BD%E6%9E%9C-%E7%84%A6%E9%BB%9E%E7%90%83%E6%89%8B%E4%B8%80%E8%A6%BD",
-    "timestamp": "2026-08-18T08:34:52.765Z",
     "strategy": ".content-card__main"
   }
 ];
