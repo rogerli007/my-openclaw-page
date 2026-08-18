@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-18T23:43:56.192Z
+// Last updated: 2026-08-18T23:59:45.895Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "元朗狗咬狗｜狗主鄙於守法　到底是誰之責？",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260819/1166647833743331328374021.jpeg/TuB7hqoNIJLmZqTl2llMfVe6bUh-IxPko_dHxqP3R8Y?v=w1920r16_9",
+    "url": "https://www.hk01.com/01%E8%A7%80%E9%BB%9E/60381301/%E5%85%83%E6%9C%97%E7%8B%97%E5%92%AC%E7%8B%97-%E7%8B%97%E4%B8%BB%E9%84%99%E6%96%BC%E5%AE%88%E6%B3%95-%E5%88%B0%E5%BA%95%E6%98%AF%E8%AA%B0%E4%B9%8B%E8%B2%AC",
+    "timestamp": "2026-08-18T23:59:45.895Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "元朗狗咬狗｜狗主鄙於守法　到底是誰之責？",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260818/1166191360957485056294670.jpeg/SPtZ1DBGmzSg1oR3giYfukdzJEiOpxY5E9wVBRPcFQU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60380665/%E6%9C%80%E6%96%B0%E5%A4%A9%E6%B0%A3-%E5%A4%A9%E6%96%87%E5%8F%B0%E7%99%BC%E5%87%BA%E5%BC%B7%E7%83%88%E5%AD%A3%E5%80%99%E9%A2%A8%E4%BF%A1%E8%99%9F-%E9%A0%90%E6%96%99%E9%99%A3%E9%A2%A8%E9%A2%A8%E5%8A%9B%E9%96%93%E4%B8%AD%E9%81%948%E7%B4%9A",
     "timestamp": "2026-08-18T17:04:43.379Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "阿富汗喀布爾教育中心爆炸　至少42名兒童受傷",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260819/1166544602417598464016398.png/ZJyWNyyortnWBjoBBX0hpg-ldpJZOEk64cjrMuHI6zI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60381326/%E9%98%BF%E5%AF%8C%E6%B1%97%E5%96%80%E5%B8%83%E7%88%BE%E6%95%99%E8%82%B2%E4%B8%AD%E5%BF%83%E7%88%86%E7%82%B8-%E8%87%B3%E5%B0%9142%E5%90%8D%E5%85%92%E7%AB%A5%E5%8F%97%E5%82%B7",
-    "timestamp": "2026-08-18T16:50:01.883Z",
     "strategy": ".content-card__main"
   }
 ];
