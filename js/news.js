@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-18T11:59:42.014Z
+// Last updated: 2026-08-18T12:16:23.171Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "屯門簡約公屋高空擲物｜建築署：承建商禁涉事工人開工　已報警",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260818/1166475234547601408421085.jpeg/_7lTqVISAoLHZM8bFv4naQ14uzqqQTUoYf5QF2H-UBc",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60381291/%E5%B1%AF%E9%96%80%E7%B0%A1%E7%B4%84%E5%85%AC%E5%B1%8B%E9%AB%98%E7%A9%BA%E6%93%B2%E7%89%A9-%E5%BB%BA%E7%AF%89%E7%BD%B2-%E6%89%BF%E5%BB%BA%E5%95%86%E7%A6%81%E6%B6%89%E4%BA%8B%E5%B7%A5%E4%BA%BA%E9%96%8B%E5%B7%A5-%E5%B7%B2%E5%A0%B1%E8%AD%A6",
+    "timestamp": "2026-08-18T12:16:23.171Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "元朗狗隻咬死悲劇震驚全港　性感女神林映暉感同身受心痛痛失愛寵",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260818/1166325398141669376872453.jpeg/l-tL113AGVJW8k8HN5yvo-fC8LyLzj3CxAJNAcQCTQE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60380960/%E8%B6%85%E5%B8%82%E9%81%AD%E9%A0%91%E7%AB%A5%E6%90%97%E4%BA%82-%E6%95%B8%E5%8D%81%E7%A8%AE%E9%9B%9C%E7%B3%A7%E6%B7%B7%E6%91%BB%E7%84%A1%E6%B3%95%E5%88%86%E6%8F%80-%E8%B2%A0%E8%B2%AC%E4%BA%BA-%E5%8F%AF%E8%83%BD%E5%88%86%E7%B5%A6%E5%93%A1%E5%B7%A5",
     "timestamp": "2026-08-18T04:05:53.276Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "新皇崗口岸｜周六演練招募私家車參與　李耀培：毋須中港牌可報名",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260813/1164648560390574080695278.jpeg/qn3RrcxV2TlbkEASW8fsj6c0UF9Q4IBDfld29H5XdvQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60380996/%E6%96%B0%E7%9A%87%E5%B4%97%E5%8F%A3%E5%B2%B8-%E5%91%A8%E5%85%AD%E6%BC%94%E7%B7%B4%E6%8B%9B%E5%8B%9F%E7%A7%81%E5%AE%B6%E8%BB%8A%E5%8F%83%E8%88%87-%E6%9D%8E%E8%80%80%E5%9F%B9-%E6%AF%8B%E9%A0%88%E4%B8%AD%E6%B8%AF%E7%89%8C%E5%8F%AF%E5%A0%B1%E5%90%8D",
-    "timestamp": "2026-08-18T03:35:01.191Z",
     "strategy": ".content-card__main"
   }
 ];
