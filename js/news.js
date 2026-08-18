@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-18T19:59:42.584Z
+// Last updated: 2026-08-18T20:29:40.549Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "韓媒：美韓年度聯合軍演時間減半　後半段反擊作戰訓練取消",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20251125/1069932162070876160938076.jpeg/06u_ujN6kMpCnIQpF3QDg7SrLaYjagXXg6ra_4Oq2v8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60381340/%E9%9F%93%E5%AA%92-%E7%BE%8E%E9%9F%93%E5%B9%B4%E5%BA%A6%E8%81%AF%E5%90%88%E8%BB%8D%E6%BC%94%E6%99%82%E9%96%93%E6%B8%9B%E5%8D%8A-%E5%BE%8C%E5%8D%8A%E6%AE%B5%E5%8F%8D%E6%93%8A%E4%BD%9C%E6%88%B0%E8%A8%93%E7%B7%B4%E5%8F%96%E6%B6%88",
+    "timestamp": "2026-08-18T20:29:40.549Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "韓媒：美韓年度聯合軍演時間減半　後半段反擊作戰訓練取消",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20241202/940331018513158144673948.jpeg/6yFU8-4uPQiV3r1fGAKaaVVySX9XTAFel-rKkJfqypA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60381295/%E6%B5%81%E6%84%9F-16%E6%AD%B2%E9%95%B7%E6%9C%9F%E7%97%85%E5%B0%91%E5%A5%B3%E6%9F%93%E7%94%B2%E6%B5%81%E4%BD%B5%E7%99%BC%E5%9A%B4%E9%87%8D%E8%82%BA%E7%82%8E%E5%8F%8A%E6%95%97%E8%A1%80%E6%80%A7%E4%BC%91%E5%85%8B-%E6%83%85%E6%B3%81%E5%8D%B1%E6%AE%86",
     "timestamp": "2026-08-18T12:57:20.740Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "章子怡健身房「素顏雙膝跪地」被直擊　47歲零修圖真實狀態超驚人",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260818/1166394880436473856583421.png/GnpyBe9SFw305yXaJE9F7Y9yH3mFr_aPTnOBD05zgQ8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60381122/%E7%AB%A0%E5%AD%90%E6%80%A1%E5%81%A5%E8%BA%AB%E6%88%BF-%E7%B4%A0%E9%A1%8F%E9%9B%99%E8%86%9D%E8%B7%AA%E5%9C%B0-%E8%A2%AB%E7%9B%B4%E6%93%8A-47%E6%AD%B2%E9%9B%B6%E4%BF%AE%E5%9C%96%E7%9C%9F%E5%AF%A6%E7%8B%80%E6%85%8B%E8%B6%85%E9%A9%9A%E4%BA%BA",
-    "timestamp": "2026-08-18T12:33:35.429Z",
     "strategy": ".content-card__main"
   }
 ];
