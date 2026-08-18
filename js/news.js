@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-18T10:30:39.504Z
+// Last updated: 2026-08-18T11:02:40.133Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "本地研發「EX M」醬汁獲JW萬豪採用　獲選為全電烹飪大賽必用材料",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260818/1166369607024381952670421.jpeg/l6wLzTvz9LO96p9QDq1DmfRoQyXQH_cS7IOoIeyDqCE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A5%BD%E7%94%9F%E6%B4%BB/60381056/%E6%9C%AC%E5%9C%B0%E7%A0%94%E7%99%BC-ex-m-%E9%86%AC%E6%B1%81%E7%8D%B2jw%E8%90%AC%E8%B1%AA%E6%8E%A1%E7%94%A8-%E7%8D%B2%E9%81%B8%E7%82%BA%E5%85%A8%E9%9B%BB%E7%83%B9%E9%A3%AA%E5%A4%A7%E8%B3%BD%E5%BF%85%E7%94%A8%E6%9D%90%E6%96%99",
+    "timestamp": "2026-08-18T11:02:40.133Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "朱鎔基逝世｜新華社萬字長文回顧朱鎔基一生　並發布12張生平照片",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260817/1166139002395299840028796.jpeg/Iv7_m_BPXRXwKp3s9gNoPrInKKV96w6JLSiERhcohEY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60380895/%E5%BB%9A%E5%B8%AB%E7%99%BC%E8%BE%A6-%E9%9B%BB%E5%BD%B1%E5%A4%A7%E8%AB%87%E4%BA%A4%E5%8F%8B%E8%BB%9F%E9%AB%94%E7%B7%A3%E5%88%86-%E7%9B%A7%E9%8E%AE%E6%A5%AD%E8%87%AA%E7%88%86%E4%B8%AD%E5%AD%B8%E7%8E%A9icq%E8%AD%98%E6%BE%B3%E9%96%80%E5%A5%B3",
     "timestamp": "2026-08-18T00:57:03.233Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "筆下心澄｜養兒長憂",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/301650/org/98da3e5957faa7354f326316858f98b6.jpg/HV8_roVswVK0RBtV1-lQExa_hZZj8lckjy0kkY8tJJE?v=w1920r16_9",
-    "url": "https://www.hk01.com/01%E8%AB%96%E5%A3%87/60380692/%E7%AD%86%E4%B8%8B%E5%BF%83%E6%BE%84-%E9%A4%8A%E5%85%92%E9%95%B7%E6%86%82",
-    "timestamp": "2026-08-18T00:23:19.425Z",
     "strategy": ".content-card__main"
   }
 ];
