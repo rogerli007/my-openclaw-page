@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-18T22:45:51.710Z
+// Last updated: 2026-08-18T22:58:54.365Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "六料港姐冠軍狂捱夜直播靠內地人氣養家　48歲賣金狀態驚人：像30",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260818/1166499291657670656134986.jpeg/I9xWxQwPTEY1q3hgK7viQjxs1YNvIpW74ZN8ueGTfLk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60381114/%E6%A5%8A%E6%80%9D%E7%90%A6%E6%9C%AA%E5%A9%9A%E7%94%9F%E5%A5%B3%E7%8B%82%E6%8D%B1%E5%A4%9C%E7%9B%B4%E6%92%AD%E9%A4%8A%E5%AE%B6-48%E6%AD%B2%E8%B3%A3%E9%87%91%E7%8B%80%E6%85%8B%E5%87%8D%E9%BD%A1-%E5%83%8F30%E5%87%BA%E9%A0%AD",
+    "timestamp": "2026-08-18T22:58:54.365Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "六料港姐冠軍狂捱夜直播靠內地人氣養家　48歲賣金狀態驚人：像30",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250520/1001365471489953792498601.jpeg/a4Ly18VLcHakMeW8bhms4WBL0_9fL27OqdRAqanUQKk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60239946/%E9%80%99%E6%AC%BE%E6%B0%B4%E6%9E%9C%E7%AB%9F%E6%98%AF%E8%85%8E%E8%87%9F%E6%AE%BA%E6%89%8B-%E5%81%A5%E5%BA%B7%E4%BA%BA%E5%A3%AB%E9%80%A3%E5%90%834%E9%A1%86%E6%88%96%E8%87%B4%E8%85%8E%E8%A1%B0%E7%AB%AD-%E6%9C%80%E5%9A%B4%E9%87%8D%E5%96%AA%E5%91%BD",
     "timestamp": "2026-08-18T16:32:15.044Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "47歲黃婉君穿比堅尼逆天凍齡身材火辣　兩子繼承優良基因高大帥氣",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260818/1166418501804494848324951.jpeg/7KuMv5ZDeasjr1uDJ1vdpd1LiUscQb_SuWvNkblrzZE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60381091/47%E6%AD%B2%E9%BB%83%E5%A9%89%E5%90%9B%E7%A9%BF%E6%AF%94%E5%A0%85%E5%B0%BC%E9%80%86%E5%A4%A9%E5%87%8D%E9%BD%A1%E8%BA%AB%E6%9D%90%E7%81%AB%E8%BE%A3-%E5%85%A9%E5%AD%90%E7%B9%BC%E6%89%BF%E5%84%AA%E8%89%AF%E5%9F%BA%E5%9B%A0%E9%AB%98%E5%A4%A7%E5%B8%A5%E6%B0%A3",
-    "timestamp": "2026-08-18T16:14:40.843Z",
     "strategy": ".content-card__main"
   }
 ];
