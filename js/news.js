@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-18T04:31:43.072Z
+// Last updated: 2026-08-18T04:51:13.416Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "范徐麗泰、梁愛詩北上消費　血拚「山姆超市」買麵包｜政壇諸事町",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260818/1166363428642623488176325.jpeg/s2RyYh8QJeTghVojYFpCbF5cDTfv4Dm97ILZV-yC2Vc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60381003/%E8%8C%83%E5%BE%90%E9%BA%97%E6%B3%B0-%E6%A2%81%E6%84%9B%E8%A9%A9%E5%8C%97%E4%B8%8A%E6%B6%88%E8%B2%BB-%E8%A1%80%E6%8B%9A-%E5%B1%B1%E5%A7%86%E8%B6%85%E5%B8%82-%E8%B2%B7%E9%BA%B5%E5%8C%85-%E6%94%BF%E5%A3%87%E8%AB%B8%E4%BA%8B%E7%94%BA",
+    "timestamp": "2026-08-18T04:51:13.416Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "宏福苑｜獨委會獲特首同意　延至10月底前交報告　稱需時分析資料",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260818/1166231334574624768572839.jpeg/YpX__PsKaPjhXNQ7zq0xf3fTW1dcQ2k5b15iu0VeYrs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60380929/%E4%B9%9D%E9%BE%8D%E5%9F%8E%E9%9B%BB%E5%96%AE%E8%BB%8A%E7%A7%81%E5%AE%B6%E8%BB%8A%E7%9B%B8%E6%92%9E%E9%87%802%E5%82%B7-%E9%9B%BB%E5%96%AE%E8%BB%8A%E4%B9%98%E5%AE%A2%E4%B8%80%E5%BA%A6%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2",
     "timestamp": "2026-08-17T20:04:08.072Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "庫許納晤內塔尼亞胡4小時　消息稱就加沙下階段安排達共識",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260818/1166205905583214592564810.jpeg/608CC6ysjYXG2mf-M1sSJMIkMZGNfdootpn94raZ_eI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60380921/%E5%BA%AB%E8%A8%B1%E7%B4%8D%E6%99%A4%E5%85%A7%E5%A1%94%E5%B0%BC%E4%BA%9E%E8%83%A14%E5%B0%8F%E6%99%82-%E6%B6%88%E6%81%AF%E7%A8%B1%E5%B0%B1%E5%8A%A0%E6%B2%99%E4%B8%8B%E9%9A%8E%E6%AE%B5%E5%AE%89%E6%8E%92%E9%81%94%E5%85%B1%E8%AD%98",
-    "timestamp": "2026-08-17T19:30:17.727Z",
     "strategy": ".content-card__main"
   }
 ];
