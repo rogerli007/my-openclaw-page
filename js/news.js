@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-18T17:18:09.529Z
+// Last updated: 2026-08-18T17:34:28.380Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "油尖旺團體送防煙面罩及拖把　逾5000戶基層家庭受惠",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260819/1166551156017598464275310.jpeg/R6idkNf_oqy_OE1UqmxFRbn2LDqIE9Lnz-fRes_n0Xo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60381331/%E6%B2%B9%E5%B0%96%E6%97%BA%E5%9C%98%E9%AB%94%E9%80%81%E9%98%B2%E7%85%99%E9%9D%A2%E7%BD%A9%E5%8F%8A%E6%8B%96%E6%8A%8A-%E9%80%BE5000%E6%88%B6%E5%9F%BA%E5%B1%A4%E5%AE%B6%E5%BA%AD%E5%8F%97%E6%83%A0",
+    "timestamp": "2026-08-18T17:34:28.380Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "油尖旺團體送防煙面罩及拖把　逾5000戶基層家庭受惠",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260818/1166442203657539584784612.jpeg/uyxkR7BF2SMY6EOSSPpHL0l_obxAdc9a0-ks_dPpLP0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60381247/%E6%9C%B1%E9%8E%94%E5%9F%BA%E9%80%9D%E4%B8%96-%E6%96%B0%E8%8F%AF%E7%A4%BE%E8%90%AC%E5%AD%97%E9%95%B7%E6%96%87%E5%9B%9E%E9%A1%A7%E6%9C%B1%E9%8E%94%E5%9F%BA%E4%B8%80%E7%94%9F-%E4%B8%A6%E7%99%BC%E5%B8%8312%E5%BC%B5%E7%94%9F%E5%B9%B3%E7%85%A7%E7%89%87",
     "timestamp": "2026-08-18T10:30:39.504Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "本港年中人口751.8萬人　按年增1.9萬　人才外勞抵銷人口自然減少",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260701/1149046950633410560965328.jpeg/V7nSWYuzB5Fv7INcNv-S9rALJTVGjko1Q-3nTEPt50w?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60381227/%E6%9C%AC%E6%B8%AF%E5%B9%B4%E4%B8%AD%E4%BA%BA%E5%8F%A3751-8%E8%90%AC%E4%BA%BA-%E6%8C%89%E5%B9%B4%E5%A2%9E1-9%E8%90%AC-%E4%BA%BA%E6%89%8D%E5%A4%96%E5%8B%9E%E6%8A%B5%E9%8A%B7%E4%BA%BA%E5%8F%A3%E8%87%AA%E7%84%B6%E6%B8%9B%E5%B0%91",
-    "timestamp": "2026-08-18T09:54:20.838Z",
     "strategy": ".content-card__main"
   }
 ];
