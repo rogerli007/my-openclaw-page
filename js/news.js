@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-18T09:17:21.917Z
+// Last updated: 2026-08-18T09:33:58.797Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "乒乓球WTT最新世界排名王曼昱首破萬分大關　法國球手男單升次席",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260818/1166414921299136512274108.jpeg/LGp7oO7Lj9IBVhGkXNCvJYFbqD4GyQ8U3EeqStxHqko?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60381158/%E4%B9%92%E4%B9%93%E7%90%83wtt%E6%9C%80%E6%96%B0%E4%B8%96%E7%95%8C%E6%8E%92%E5%90%8D%E7%8E%8B%E6%9B%BC%E6%98%B1%E9%A6%96%E7%A0%B4%E8%90%AC%E5%88%86%E5%A4%A7%E9%97%9C-%E6%B3%95%E5%9C%8B%E7%90%83%E6%89%8B%E7%94%B7%E5%96%AE%E5%8D%87%E6%AC%A1%E5%B8%AD",
+    "timestamp": "2026-08-18T09:33:58.797Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "揚州炒飯食譜｜做法簡易20分鐘完成、蝦仁叉燒配粒粒分明飯底",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20240625/882308663866298368534602.jpeg/BmRdjCaFM_3QYA8NacOna7Et7HuapX5SURNBsVETQbE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/1032072/%E5%B9%B4%E9%BD%A1%E5%A4%A7%E8%A8%98%E6%86%B6%E5%8A%9B%E5%BF%85%E5%AE%9A%E8%A1%B0%E9%80%80-%E7%A0%94%E7%A9%B6-%E7%94%9F%E9%85%AE%E9%A3%B2%E9%A3%9F%E6%88%96%E6%9C%89%E5%8A%A9%E6%96%BC%E6%94%B9%E5%96%84%E8%85%A6%E9%80%80%E5%8C%96",
     "timestamp": "2026-08-17T23:29:46.192Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "海景值千金！內地專才擲3480萬住西半山　貴過估價兼呎價破3年高",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20251203/1072916185193910272801927.jpeg/xLNsBrG0IHWzwJxUAMrLd9x5J7yQRlPmpe5MY4DuTGM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60380766/%E6%B5%B7%E6%99%AF%E5%80%BC%E5%8D%83%E9%87%91-%E5%85%A7%E5%9C%B0%E5%B0%88%E6%89%8D%E6%93%B23480%E8%90%AC%E4%BD%8F%E8%A5%BF%E5%8D%8A%E5%B1%B1-%E8%B2%B4%E9%81%8E%E4%BC%B0%E5%83%B9%E5%85%BC%E5%91%8E%E5%83%B9%E7%A0%B43%E5%B9%B4%E9%AB%98",
-    "timestamp": "2026-08-17T23:12:34.791Z",
     "strategy": ".content-card__main"
   }
 ];
