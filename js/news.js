@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-18T21:57:05.046Z
+// Last updated: 2026-08-18T22:11:47.318Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "英國沙門氏菌疫情至少1死　或涉外國進口雞蛋",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20241214/944618747103023104047216.jpeg/n3uNm99j5NjB6rKRyITaL8tqZ7jz55QUcpDDmHKQw5g?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60381346/%E8%8B%B1%E5%9C%8B%E6%B2%99%E9%96%80%E6%B0%8F%E8%8F%8C%E7%96%AB%E6%83%85%E8%87%B3%E5%B0%911%E6%AD%BB-%E6%88%96%E6%B6%89%E5%A4%96%E5%9C%8B%E9%80%B2%E5%8F%A3%E9%9B%9E%E8%9B%8B",
+    "timestamp": "2026-08-18T22:11:47.318Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "英國沙門氏菌疫情至少1死　或涉外國進口雞蛋",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260813/1164530429194145792532604.jpeg/4MOtXSoPBdpSvqhBa5VyGqXKfz_cHCapxwOJFscDiRY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60381321/%E5%9C%9F%E7%93%9C%E7%81%A3%E7%BE%8E%E5%96%84%E5%90%8C%E9%81%93%E4%B8%83%E6%97%AC%E7%BF%81%E6%8D%B1%E5%BE%A9%E5%BA%B7%E5%B0%8F%E5%B7%B4%E6%92%9E-%E7%95%99%E9%86%AB5%E6%97%A5%E5%82%B7%E9%87%8D%E4%B8%8D%E6%B2%BB",
     "timestamp": "2026-08-18T15:17:59.555Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "楊國福麻辣燙日本開新店出現冒名羽生結弦花籃　遭打假後公司致歉",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260818/1166514418125639680481537.png/VPCl6ErPzgTWsKFkPZe6m-sHeV3m8-Tcdl2RYnZdkWI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60381317/%E6%A5%8A%E5%9C%8B%E7%A6%8F%E9%BA%BB%E8%BE%A3%E7%87%99%E6%97%A5%E6%9C%AC%E9%96%8B%E6%96%B0%E5%BA%97%E5%87%BA%E7%8F%BE%E5%86%92%E5%90%8D%E7%BE%BD%E7%94%9F%E7%B5%90%E5%BC%A6%E8%8A%B1%E7%B1%83-%E9%81%AD%E6%89%93%E5%81%87%E5%BE%8C%E5%85%AC%E5%8F%B8%E8%87%B4%E6%AD%89",
-    "timestamp": "2026-08-18T15:02:13.109Z",
     "strategy": ".content-card__main"
   }
 ];
