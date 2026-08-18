@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-18T15:02:13.109Z
+// Last updated: 2026-08-18T15:17:59.555Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "土瓜灣美善同道七旬翁捱復康小巴撞 　留醫5日傷重不治",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260813/1164530429194145792532604.jpeg/4MOtXSoPBdpSvqhBa5VyGqXKfz_cHCapxwOJFscDiRY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60381321/%E5%9C%9F%E7%93%9C%E7%81%A3%E7%BE%8E%E5%96%84%E5%90%8C%E9%81%93%E4%B8%83%E6%97%AC%E7%BF%81%E6%8D%B1%E5%BE%A9%E5%BA%B7%E5%B0%8F%E5%B7%B4%E6%92%9E-%E7%95%99%E9%86%AB5%E6%97%A5%E5%82%B7%E9%87%8D%E4%B8%8D%E6%B2%BB",
+    "timestamp": "2026-08-18T15:17:59.555Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "楊國福麻辣燙日本開新店出現冒名羽生結弦花籃　遭打假後公司致歉",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260818/1166394418735878144904836.jpeg/kdtHhjPWNScNHEhFtGY9WdrTJnHNcP9STIAecUyAHnE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60381103/%E5%BE%9E%E7%AB%B9%E7%AD%8F%E9%9A%8A%E9%95%B7%E5%88%B0%E8%AD%A6%E9%9A%8A%E5%B0%8F%E9%9A%8A%E6%8C%87%E6%8F%AE%E5%AE%98-%E7%A6%81%E6%AF%92%E9%A0%98%E8%A2%96%E5%AD%B8%E9%99%A2%E9%A6%96%E5%B1%86%E5%A5%B3%E5%AD%B8%E5%93%A1%E5%B1%95%E9%A0%98%E8%A2%96%E6%9C%AC%E8%89%B2",
     "timestamp": "2026-08-18T06:52:18.742Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "茶葉蛋食譜｜茶葉蛋色香味濃做法有秘訣！滷過久影響蛋白質吸收？",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/1110000/org/46baa419ccccde3bd7fc04e9268d2881.jpg/moT9BeKVpmeKnXZd1Of2cjhxaDK4Uh8e0nO1OtJztTo?v=w1920",
-    "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60381102/%E8%8C%B6%E8%91%89%E8%9B%8B%E9%A3%9F%E8%AD%9C-%E8%8C%B6%E8%91%89%E8%9B%8B%E8%89%B2%E9%A6%99%E5%91%B3%E6%BF%83%E5%81%9A%E6%B3%95%E6%9C%89%E7%A7%98%E8%A8%A3-%E6%BB%B7%E9%81%8E%E4%B9%85%E5%BD%B1%E9%9F%BF%E8%9B%8B%E7%99%BD%E8%B3%AA%E5%90%B8%E6%94%B6",
-    "timestamp": "2026-08-18T06:20:22.760Z",
     "strategy": ".content-card__main"
   }
 ];
