@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-18T22:11:47.318Z
+// Last updated: 2026-08-18T22:30:37.578Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "前TVB靚仔小生獲ICF國際教練認證　淡出幕前積極增值擁多項證書",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260818/1166499138683015168179462.jpeg/eNkjBWNBxMewQOgRbLuICuIemL-PwS3knQMEJ50DBCc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60381094/%E9%99%B3%E9%8D%B5%E9%8B%92%E7%8D%B2icf%E5%9C%8B%E9%9A%9B%E6%95%99%E7%B7%B4%E8%AA%8D%E8%AD%89-%E6%B7%A1%E5%87%BA%E5%B9%95%E5%89%8D%E7%A9%8D%E6%A5%B5%E5%A2%9E%E5%80%BC%E6%93%81%E5%A4%9A%E9%A0%85%E8%AD%89%E6%9B%B8",
+    "timestamp": "2026-08-18T22:30:37.578Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "英國沙門氏菌疫情至少1死　或涉外國進口雞蛋",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260818/1166522449525739520123079.jpeg/VgucCa1UbBLRsCoSJinLX6iNS_r9WhDD5qsXGearFxk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60381313/l-atelier-blini-ktipiti%E8%8A%9D%E5%A3%AB%E9%86%AC%E6%88%96%E5%90%AB%E6%9D%8E%E6%96%AF%E7%89%B9%E8%8F%8C-city-super%E5%9B%9E%E6%94%B6",
     "timestamp": "2026-08-18T15:34:50.509Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "土瓜灣美善同道七旬翁捱復康小巴撞 　留醫5日傷重不治",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260813/1164530429194145792532604.jpeg/4MOtXSoPBdpSvqhBa5VyGqXKfz_cHCapxwOJFscDiRY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60381321/%E5%9C%9F%E7%93%9C%E7%81%A3%E7%BE%8E%E5%96%84%E5%90%8C%E9%81%93%E4%B8%83%E6%97%AC%E7%BF%81%E6%8D%B1%E5%BE%A9%E5%BA%B7%E5%B0%8F%E5%B7%B4%E6%92%9E-%E7%95%99%E9%86%AB5%E6%97%A5%E5%82%B7%E9%87%8D%E4%B8%8D%E6%B2%BB",
-    "timestamp": "2026-08-18T15:17:59.555Z",
     "strategy": ".content-card__main"
   }
 ];
