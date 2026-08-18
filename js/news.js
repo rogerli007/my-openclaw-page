@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-18T15:17:59.555Z
+// Last updated: 2026-08-18T15:34:50.509Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "L'atelier Blini Ktipiti芝士醬或含李斯特菌　City Super回收",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260818/1166522449525739520123079.jpeg/VgucCa1UbBLRsCoSJinLX6iNS_r9WhDD5qsXGearFxk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60381313/l-atelier-blini-ktipiti%E8%8A%9D%E5%A3%AB%E9%86%AC%E6%88%96%E5%90%AB%E6%9D%8E%E6%96%AF%E7%89%B9%E8%8F%8C-city-super%E5%9B%9E%E6%94%B6",
+    "timestamp": "2026-08-18T15:34:50.509Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "土瓜灣美善同道七旬翁捱復康小巴撞 　留醫5日傷重不治",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260817/1165999662499368960738451.png/ZOWXfoKCb1_P66fp3jnZTt4ZCz5q4-MKV0ZM31dGTN8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60379299/%E8%8A%B1%E9%96%8B%E9%8C%A6%E7%B9%A1-12%E5%A4%A7%E7%8B%A0%E4%BA%BA%E7%9B%A4%E9%BB%9E-%E6%85%88%E7%A5%A5%E5%AB%B2%E5%AB%B2%E6%AF%92%E6%AE%BA%E5%AD%AB%E5%A5%B3-%E5%AE%85%E9%AC%A5%E6%AC%8A%E8%AC%80%E8%AA%B0%E6%9C%80%E7%B5%95",
     "timestamp": "2026-08-18T07:24:25.116Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "從竹筏隊長到警隊小隊指揮官　禁毒領袖學院首屆女學員展領袖本色",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260818/1166394418735878144904836.jpeg/kdtHhjPWNScNHEhFtGY9WdrTJnHNcP9STIAecUyAHnE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60381103/%E5%BE%9E%E7%AB%B9%E7%AD%8F%E9%9A%8A%E9%95%B7%E5%88%B0%E8%AD%A6%E9%9A%8A%E5%B0%8F%E9%9A%8A%E6%8C%87%E6%8F%AE%E5%AE%98-%E7%A6%81%E6%AF%92%E9%A0%98%E8%A2%96%E5%AD%B8%E9%99%A2%E9%A6%96%E5%B1%86%E5%A5%B3%E5%AD%B8%E5%93%A1%E5%B1%95%E9%A0%98%E8%A2%96%E6%9C%AC%E8%89%B2",
-    "timestamp": "2026-08-18T06:52:18.742Z",
     "strategy": ".content-card__main"
   }
 ];
