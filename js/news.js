@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-18T19:17:55.519Z
+// Last updated: 2026-08-18T19:34:06.645Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "韓媒：美韓年度聯合軍演時間減半　後半段反擊作戰訓練取消",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20251125/1069932162070876160938076.jpeg/06u_ujN6kMpCnIQpF3QDg7SrLaYjagXXg6ra_4Oq2v8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60381340/%E9%9F%93%E5%AA%92-%E7%BE%8E%E9%9F%93%E5%B9%B4%E5%BA%A6%E8%81%AF%E5%90%88%E8%BB%8D%E6%BC%94%E6%99%82%E9%96%93%E6%B8%9B%E5%8D%8A-%E5%BE%8C%E5%8D%8A%E6%AE%B5%E5%8F%8D%E6%93%8A%E4%BD%9C%E6%88%B0%E8%A8%93%E7%B7%B4%E5%8F%96%E6%B6%88",
+    "timestamp": "2026-08-18T19:34:06.645Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "跨部門大埔及上水掃黃　9女被捕",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260818/1166455470689357824235807.jpeg/BHXg_Y6Vh6bmIXDsWaFew9QpkSKCJbDAdBIfVU4SH1U?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60381273/%E5%85%83%E6%9C%97%E7%8B%97%E9%9A%BB%E5%92%AC%E6%AD%BB%E6%82%B2%E5%8A%87%E9%9C%87%E9%A9%9A%E5%85%A8%E6%B8%AF-%E6%80%A7%E6%84%9F%E5%A5%B3%E7%A5%9E%E6%9E%97%E6%98%A0%E6%9A%89%E6%84%9F%E5%90%8C%E8%BA%AB%E5%8F%97%E5%BF%83%E7%97%9B%E7%97%9B%E5%A4%B1%E6%84%9B%E5%AF%B5",
     "timestamp": "2026-08-18T11:59:42.014Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "iOS 26.6.1緊急更新｜Apple修補iPhone 29個安全漏洞即升級免被駭",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260818/1166464181612843008972345.jpeg/YxxYiGQEWK5Um08SBCWOabwXU2eU2znzll6XvJZel7w?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60381284/ios-26-6-1%E7%B7%8A%E6%80%A5%E6%9B%B4%E6%96%B0-apple%E4%BF%AE%E8%A3%9Ciphone-29%E5%80%8B%E5%AE%89%E5%85%A8%E6%BC%8F%E6%B4%9E%E5%8D%B3%E5%8D%87%E7%B4%9A%E5%85%8D%E8%A2%AB%E9%A7%AD",
-    "timestamp": "2026-08-18T11:30:56.947Z",
     "strategy": ".content-card__main"
   }
 ];
