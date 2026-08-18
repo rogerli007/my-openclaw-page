@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-18T11:30:56.947Z
+// Last updated: 2026-08-18T11:59:42.014Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "元朗狗隻咬死悲劇震驚全港　性感女神林映暉感同身受心痛痛失愛寵",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260818/1166455470689357824235807.jpeg/BHXg_Y6Vh6bmIXDsWaFew9QpkSKCJbDAdBIfVU4SH1U?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60381273/%E5%85%83%E6%9C%97%E7%8B%97%E9%9A%BB%E5%92%AC%E6%AD%BB%E6%82%B2%E5%8A%87%E9%9C%87%E9%A9%9A%E5%85%A8%E6%B8%AF-%E6%80%A7%E6%84%9F%E5%A5%B3%E7%A5%9E%E6%9E%97%E6%98%A0%E6%9A%89%E6%84%9F%E5%90%8C%E8%BA%AB%E5%8F%97%E5%BF%83%E7%97%9B%E7%97%9B%E5%A4%B1%E6%84%9B%E5%AF%B5",
+    "timestamp": "2026-08-18T11:59:42.014Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "iOS 26.6.1緊急更新｜Apple修補iPhone 29個安全漏洞即升級免被駭",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260813/1164648560390574080695278.jpeg/qn3RrcxV2TlbkEASW8fsj6c0UF9Q4IBDfld29H5XdvQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60380996/%E6%96%B0%E7%9A%87%E5%B4%97%E5%8F%A3%E5%B2%B8-%E5%91%A8%E5%85%AD%E6%BC%94%E7%B7%B4%E6%8B%9B%E5%8B%9F%E7%A7%81%E5%AE%B6%E8%BB%8A%E5%8F%83%E8%88%87-%E6%9D%8E%E8%80%80%E5%9F%B9-%E6%AF%8B%E9%A0%88%E4%B8%AD%E6%B8%AF%E7%89%8C%E5%8F%AF%E5%A0%B1%E5%90%8D",
     "timestamp": "2026-08-18T03:35:01.191Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "尖沙咀借錢食飯黨？女子敲車窗逐個問　司機：我仲窮　網民：慣犯",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260817/1166005746291183616842597.png/94Rx3J4YUybrJ6LDwu08XqIse1esBJJ_2PYMb9j2DG8",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60380572/%E5%B0%96%E6%B2%99%E5%92%80%E5%80%9F%E9%8C%A2%E9%A3%9F%E9%A3%AF%E9%BB%A8-%E5%A5%B3%E5%AD%90%E6%95%B2%E8%BB%8A%E7%AA%97%E9%80%90%E5%80%8B%E5%95%8F-%E5%8F%B8%E6%A9%9F-%E6%88%91%E4%BB%B2%E7%AA%AE-%E7%B6%B2%E6%B0%91-%E6%85%A3%E7%8A%AF",
-    "timestamp": "2026-08-18T03:10:01.193Z",
     "strategy": ".content-card__main"
   }
 ];
