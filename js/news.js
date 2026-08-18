@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-18T07:24:25.116Z
+// Last updated: 2026-08-18T08:34:52.765Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "名古屋亞運會2026乒乓球｜中國隊名單+賽程賽果+焦點球手一覽",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260818/1166420273910517760372586.jpeg/-diPMnRBIqcbrPaPPNpufVNgIx-P6GmjKhrBFyoawRc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60381126/%E5%90%8D%E5%8F%A4%E5%B1%8B%E4%BA%9E%E9%81%8B%E6%9C%832026%E4%B9%92%E4%B9%93%E7%90%83-%E4%B8%AD%E5%9C%8B%E9%9A%8A%E5%90%8D%E5%96%AE-%E8%B3%BD%E7%A8%8B%E8%B3%BD%E6%9E%9C-%E7%84%A6%E9%BB%9E%E7%90%83%E6%89%8B%E4%B8%80%E8%A6%BD",
+    "timestamp": "2026-08-18T08:34:52.765Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "《花開錦繡》12大狠人盤點　慈祥嫲嫲毒殺孫女　宅鬥權謀誰最絕？",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260817/1166055174368661504341270.jpeg/8wlbdbdF20tAw71KZ1H_tUM1gENTn9AUM2f9AjNn_QI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60380754/%E5%BE%90%E5%B0%8F%E9%B3%B3%E6%9B%BE%E8%88%87%E5%90%8D%E5%98%B4%E7%A7%98%E5%A9%9A%E5%9D%90%E6%93%813%E5%84%84-%E6%B7%A1%E5%87%BA%E5%BE%8C%E8%BF%91%E7%85%A7%E7%BD%95%E6%9B%9D%E5%85%89%E5%8C%85%E5%88%B0%E5%86%9A%E6%BF%80%E8%B2%B4%E6%B0%A3",
     "timestamp": "2026-08-17T22:29:41.040Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "殿堂級天后曾與名嘴秘婚坐擁3億　淡出後近照罕曝光包到冚激貴氣",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260817/1166055174368661504341270.jpeg/8wlbdbdF20tAw71KZ1H_tUM1gENTn9AUM2f9AjNn_QI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60380754/%E5%BE%90%E5%B0%8F%E9%B3%B3%E6%9B%BE%E8%88%87%E5%90%8D%E5%98%B4%E7%A7%98%E5%A9%9A%E5%9D%90%E6%93%813%E5%84%84-%E6%B7%A1%E5%87%BA%E5%BE%8C%E8%BF%91%E7%85%A7%E7%BD%95%E6%9B%9D%E5%85%89%E5%8C%85%E5%88%B0%E5%86%9A%E6%BF%80%E8%B2%B4%E6%B0%A3",
-    "timestamp": "2026-08-17T22:12:11.708Z",
     "strategy": ".content-card__main"
   }
 ];
