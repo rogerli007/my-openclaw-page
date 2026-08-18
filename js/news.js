@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-18T04:05:53.276Z
+// Last updated: 2026-08-18T04:31:43.072Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "宏福苑｜獨委會獲特首同意　延至10月底前交報告　稱需時分析資料",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260805/1161492647781601280896205.jpeg/ZqbotSVTTv16RtOa1YaKKWNimi3mQ91A5pAtTsOQLU4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60381041/%E5%AE%8F%E7%A6%8F%E8%8B%91-%E7%8D%A8%E5%A7%94%E6%9C%83%E7%8D%B2%E7%89%B9%E9%A6%96%E5%90%8C%E6%84%8F-%E5%BB%B6%E8%87%B310%E6%9C%88%E5%BA%95%E5%89%8D%E4%BA%A4%E5%A0%B1%E5%91%8A-%E7%A8%B1%E9%9C%80%E6%99%82%E5%88%86%E6%9E%90%E8%B3%87%E6%96%99",
+    "timestamp": "2026-08-18T04:31:43.072Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "超市遭頑童搗亂　數十種雜糧混摻無法分揀　負責人：可能分給員工",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260818/1166205905583214592564810.jpeg/608CC6ysjYXG2mf-M1sSJMIkMZGNfdootpn94raZ_eI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60380921/%E5%BA%AB%E8%A8%B1%E7%B4%8D%E6%99%A4%E5%85%A7%E5%A1%94%E5%B0%BC%E4%BA%9E%E8%83%A14%E5%B0%8F%E6%99%82-%E6%B6%88%E6%81%AF%E7%A8%B1%E5%B0%B1%E5%8A%A0%E6%B2%99%E4%B8%8B%E9%9A%8E%E6%AE%B5%E5%AE%89%E6%8E%92%E9%81%94%E5%85%B1%E8%AD%98",
     "timestamp": "2026-08-17T19:30:17.727Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "庫許納晤內塔尼亞胡4小時　消息稱就加沙下階段安排達共識",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260818/1166205905583214592564810.jpeg/608CC6ysjYXG2mf-M1sSJMIkMZGNfdootpn94raZ_eI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60380921/%E5%BA%AB%E8%A8%B1%E7%B4%8D%E6%99%A4%E5%85%A7%E5%A1%94%E5%B0%BC%E4%BA%9E%E8%83%A14%E5%B0%8F%E6%99%82-%E6%B6%88%E6%81%AF%E7%A8%B1%E5%B0%B1%E5%8A%A0%E6%B2%99%E4%B8%8B%E9%9A%8E%E6%AE%B5%E5%AE%89%E6%8E%92%E9%81%94%E5%85%B1%E8%AD%98",
-    "timestamp": "2026-08-17T19:05:11.130Z",
     "strategy": ".content-card__main"
   }
 ];
