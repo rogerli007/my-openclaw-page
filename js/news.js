@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-18T12:33:35.429Z
+// Last updated: 2026-08-18T12:57:20.740Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "流感｜16歲長期病少女染甲流併發嚴重肺炎及敗血性休克　情況危殆",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20241202/940331018513158144673948.jpeg/6yFU8-4uPQiV3r1fGAKaaVVySX9XTAFel-rKkJfqypA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60381295/%E6%B5%81%E6%84%9F-16%E6%AD%B2%E9%95%B7%E6%9C%9F%E7%97%85%E5%B0%91%E5%A5%B3%E6%9F%93%E7%94%B2%E6%B5%81%E4%BD%B5%E7%99%BC%E5%9A%B4%E9%87%8D%E8%82%BA%E7%82%8E%E5%8F%8A%E6%95%97%E8%A1%80%E6%80%A7%E4%BC%91%E5%85%8B-%E6%83%85%E6%B3%81%E5%8D%B1%E6%AE%86",
+    "timestamp": "2026-08-18T12:57:20.740Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "章子怡健身房「素顏雙膝跪地」被直擊　47歲零修圖真實狀態超驚人",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260818/1166363428642623488176325.jpeg/s2RyYh8QJeTghVojYFpCbF5cDTfv4Dm97ILZV-yC2Vc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60381003/%E8%8C%83%E5%BE%90%E9%BA%97%E6%B3%B0-%E6%A2%81%E6%84%9B%E8%A9%A9%E5%8C%97%E4%B8%8A%E6%B6%88%E8%B2%BB-%E8%A1%80%E6%8B%9A-%E5%B1%B1%E5%A7%86%E8%B6%85%E5%B8%82-%E8%B2%B7%E9%BA%B5%E5%8C%85-%E6%94%BF%E5%A3%87%E8%AB%B8%E4%BA%8B%E7%94%BA",
     "timestamp": "2026-08-18T04:51:13.416Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "宏福苑｜獨委會獲特首同意　延至10月底前交報告　稱需時分析資料",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260805/1161492647781601280896205.jpeg/ZqbotSVTTv16RtOa1YaKKWNimi3mQ91A5pAtTsOQLU4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60381041/%E5%AE%8F%E7%A6%8F%E8%8B%91-%E7%8D%A8%E5%A7%94%E6%9C%83%E7%8D%B2%E7%89%B9%E9%A6%96%E5%90%8C%E6%84%8F-%E5%BB%B6%E8%87%B310%E6%9C%88%E5%BA%95%E5%89%8D%E4%BA%A4%E5%A0%B1%E5%91%8A-%E7%A8%B1%E9%9C%80%E6%99%82%E5%88%86%E6%9E%90%E8%B3%87%E6%96%99",
-    "timestamp": "2026-08-18T04:31:43.072Z",
     "strategy": ".content-card__main"
   }
 ];
