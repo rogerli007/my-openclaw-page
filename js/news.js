@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-18T12:16:23.171Z
+// Last updated: 2026-08-18T12:33:35.429Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "章子怡健身房「素顏雙膝跪地」被直擊　47歲零修圖真實狀態超驚人",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260818/1166394880436473856583421.png/GnpyBe9SFw305yXaJE9F7Y9yH3mFr_aPTnOBD05zgQ8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60381122/%E7%AB%A0%E5%AD%90%E6%80%A1%E5%81%A5%E8%BA%AB%E6%88%BF-%E7%B4%A0%E9%A1%8F%E9%9B%99%E8%86%9D%E8%B7%AA%E5%9C%B0-%E8%A2%AB%E7%9B%B4%E6%93%8A-47%E6%AD%B2%E9%9B%B6%E4%BF%AE%E5%9C%96%E7%9C%9F%E5%AF%A6%E7%8B%80%E6%85%8B%E8%B6%85%E9%A9%9A%E4%BA%BA",
+    "timestamp": "2026-08-18T12:33:35.429Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "屯門簡約公屋高空擲物｜建築署：承建商禁涉事工人開工　已報警",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260805/1161492647781601280896205.jpeg/ZqbotSVTTv16RtOa1YaKKWNimi3mQ91A5pAtTsOQLU4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60381041/%E5%AE%8F%E7%A6%8F%E8%8B%91-%E7%8D%A8%E5%A7%94%E6%9C%83%E7%8D%B2%E7%89%B9%E9%A6%96%E5%90%8C%E6%84%8F-%E5%BB%B6%E8%87%B310%E6%9C%88%E5%BA%95%E5%89%8D%E4%BA%A4%E5%A0%B1%E5%91%8A-%E7%A8%B1%E9%9C%80%E6%99%82%E5%88%86%E6%9E%90%E8%B3%87%E6%96%99",
     "timestamp": "2026-08-18T04:31:43.072Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "超市遭頑童搗亂　數十種雜糧混摻無法分揀　負責人：可能分給員工",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260818/1166325398141669376872453.jpeg/l-tL113AGVJW8k8HN5yvo-fC8LyLzj3CxAJNAcQCTQE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60380960/%E8%B6%85%E5%B8%82%E9%81%AD%E9%A0%91%E7%AB%A5%E6%90%97%E4%BA%82-%E6%95%B8%E5%8D%81%E7%A8%AE%E9%9B%9C%E7%B3%A7%E6%B7%B7%E6%91%BB%E7%84%A1%E6%B3%95%E5%88%86%E6%8F%80-%E8%B2%A0%E8%B2%AC%E4%BA%BA-%E5%8F%AF%E8%83%BD%E5%88%86%E7%B5%A6%E5%93%A1%E5%B7%A5",
-    "timestamp": "2026-08-18T04:05:53.276Z",
     "strategy": ".content-card__main"
   }
 ];
