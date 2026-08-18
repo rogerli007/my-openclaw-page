@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-18T02:16:22.196Z
+// Last updated: 2026-08-18T03:10:01.193Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "尖沙咀借錢食飯黨？女子敲車窗逐個問　司機：我仲窮　網民：慣犯",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260817/1166005746291183616842597.png/94Rx3J4YUybrJ6LDwu08XqIse1esBJJ_2PYMb9j2DG8",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60380572/%E5%B0%96%E6%B2%99%E5%92%80%E5%80%9F%E9%8C%A2%E9%A3%9F%E9%A3%AF%E9%BB%A8-%E5%A5%B3%E5%AD%90%E6%95%B2%E8%BB%8A%E7%AA%97%E9%80%90%E5%80%8B%E5%95%8F-%E5%8F%B8%E6%A9%9F-%E6%88%91%E4%BB%B2%E7%AA%AE-%E7%B6%B2%E6%B0%91-%E6%85%A3%E7%8A%AF",
+    "timestamp": "2026-08-18T03:10:01.193Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "OPPO Reno16手機評測　獨創裸眼3D背板超驚艷　6700mAh大電續航強",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260818/1166191360957485056294670.jpeg/SPtZ1DBGmzSg1oR3giYfukdzJEiOpxY5E9wVBRPcFQU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60380665/%E6%9C%80%E6%96%B0%E5%A4%A9%E6%B0%A3%E6%B6%88%E6%81%AF-%E5%A4%A9%E6%96%87%E5%8F%B0%E5%91%A8%E4%BA%8C%E6%9C%89%E9%A9%9F%E9%9B%A8%E7%8B%82%E9%A2%A8%E9%9B%B7%E6%9A%B4-%E5%88%9D%E6%99%82%E9%83%A8%E5%88%86%E5%9C%B0%E5%8D%80%E9%A9%9F%E9%9B%A8%E8%BC%83%E5%A4%9A",
     "timestamp": "2026-08-17T17:48:53.487Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "最新天氣消息｜天文台周二有驟雨狂風雷暴　初時部分地區驟雨較多",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260818/1166191360957485056294670.jpeg/SPtZ1DBGmzSg1oR3giYfukdzJEiOpxY5E9wVBRPcFQU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60380665/%E6%9C%80%E6%96%B0%E5%A4%A9%E6%B0%A3%E6%B6%88%E6%81%AF-%E5%A4%A9%E6%96%87%E5%8F%B0%E5%91%A8%E4%BA%8C%E6%9C%89%E9%A9%9F%E9%9B%A8%E7%8B%82%E9%A2%A8%E9%9B%B7%E6%9A%B4-%E5%88%9D%E6%99%82%E9%83%A8%E5%88%86%E5%9C%B0%E5%8D%80%E9%A9%9F%E9%9B%A8%E8%BC%83%E5%A4%9A",
-    "timestamp": "2026-08-17T17:32:21.320Z",
     "strategy": ".content-card__main"
   }
 ];
