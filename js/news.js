@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-18T03:35:01.191Z
+// Last updated: 2026-08-18T04:05:53.276Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "超市遭頑童搗亂　數十種雜糧混摻無法分揀　負責人：可能分給員工",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260818/1166325398141669376872453.jpeg/l-tL113AGVJW8k8HN5yvo-fC8LyLzj3CxAJNAcQCTQE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60380960/%E8%B6%85%E5%B8%82%E9%81%AD%E9%A0%91%E7%AB%A5%E6%90%97%E4%BA%82-%E6%95%B8%E5%8D%81%E7%A8%AE%E9%9B%9C%E7%B3%A7%E6%B7%B7%E6%91%BB%E7%84%A1%E6%B3%95%E5%88%86%E6%8F%80-%E8%B2%A0%E8%B2%AC%E4%BA%BA-%E5%8F%AF%E8%83%BD%E5%88%86%E7%B5%A6%E5%93%A1%E5%B7%A5",
+    "timestamp": "2026-08-18T04:05:53.276Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "新皇崗口岸｜周六演練招募私家車參與　李耀培：毋須中港牌可報名",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260818/1166205905583214592564810.jpeg/608CC6ysjYXG2mf-M1sSJMIkMZGNfdootpn94raZ_eI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60380921/%E5%BA%AB%E8%A8%B1%E7%B4%8D%E6%99%A4%E5%85%A7%E5%A1%94%E5%B0%BC%E4%BA%9E%E8%83%A14%E5%B0%8F%E6%99%82-%E6%B6%88%E6%81%AF%E7%A8%B1%E5%B0%B1%E5%8A%A0%E6%B2%99%E4%B8%8B%E9%9A%8E%E6%AE%B5%E5%AE%89%E6%8E%92%E9%81%94%E5%85%B1%E8%AD%98",
     "timestamp": "2026-08-17T19:05:11.130Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "庫許納晤內塔尼亞胡4小時　消息稱就加沙下階段安排達共識",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260818/1166205905583214592564810.jpeg/608CC6ysjYXG2mf-M1sSJMIkMZGNfdootpn94raZ_eI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60380921/%E5%BA%AB%E8%A8%B1%E7%B4%8D%E6%99%A4%E5%85%A7%E5%A1%94%E5%B0%BC%E4%BA%9E%E8%83%A14%E5%B0%8F%E6%99%82-%E6%B6%88%E6%81%AF%E7%A8%B1%E5%B0%B1%E5%8A%A0%E6%B2%99%E4%B8%8B%E9%9A%8E%E6%AE%B5%E5%AE%89%E6%8E%92%E9%81%94%E5%85%B1%E8%AD%98",
-    "timestamp": "2026-08-17T18:36:39.326Z",
     "strategy": ".content-card__main"
   }
 ];
