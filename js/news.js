@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-18T00:57:03.233Z
+// Last updated: 2026-08-18T02:16:22.196Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "OPPO Reno16手機評測　獨創裸眼3D背板超驚艷　6700mAh大電續航強",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260806/1162074065188425728839460.jpeg/gDi8ciszxiv6YZbEaJ3mEuVIB8Z3qMWAjg-Gpo4PhqY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60377504/oppo-reno16%E6%89%8B%E6%A9%9F%E8%A9%95%E6%B8%AC-%E7%8D%A8%E5%89%B5%E8%A3%B8%E7%9C%BC3d%E8%83%8C%E6%9D%BF%E8%B6%85%E9%A9%9A%E8%89%B7-6700mah%E5%A4%A7%E9%9B%BB%E7%BA%8C%E8%88%AA%E5%BC%B7",
+    "timestamp": "2026-08-18T02:16:22.196Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "廚師發辦｜電影大談交友軟體緣分　盧鎮業自爆中學玩ICQ識澳門女",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260818/1166191360957485056294670.jpeg/SPtZ1DBGmzSg1oR3giYfukdzJEiOpxY5E9wVBRPcFQU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60380665/%E6%9C%80%E6%96%B0%E5%A4%A9%E6%B0%A3%E6%B6%88%E6%81%AF-%E5%A4%A9%E6%96%87%E5%8F%B0%E5%91%A8%E4%BA%8C%E6%9C%89%E9%A9%9F%E9%9B%A8%E7%8B%82%E9%A2%A8%E9%9B%B7%E6%9A%B4-%E5%88%9D%E6%99%82%E9%83%A8%E5%88%86%E5%9C%B0%E5%8D%80%E9%A9%9F%E9%9B%A8%E8%BC%83%E5%A4%9A",
     "timestamp": "2026-08-17T17:32:21.320Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "夾耳式耳機4大熱門實測！從無感佩戴到頂級聲學 耳邊飾物選購指南",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260818/1166185775415431168259870.jpeg/K8Uqr4E9a7bpidhyx5GxmjyjVKKYY5FoB4-9pQePvaU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60380917/cmf-clip-pro-cleer-bridge-%E5%85%A9%E5%A4%A78%E6%9C%88%E6%9C%80%E6%96%B0%E5%A4%BE%E8%80%B3%E5%BC%8F%E8%97%8D%E7%89%99%E8%80%B3%E6%A9%9F%E9%96%8B%E7%AE%B1%E8%A9%A6",
-    "timestamp": "2026-08-17T17:16:40.962Z",
     "strategy": ".content-card__main"
   }
 ];
