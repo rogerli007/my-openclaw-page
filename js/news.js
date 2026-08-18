@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-18T16:50:01.883Z
+// Last updated: 2026-08-18T17:04:43.379Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "最新天氣｜天文台發出強烈季候風信號　預料陣風風力間中達8級",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260818/1166191360957485056294670.jpeg/SPtZ1DBGmzSg1oR3giYfukdzJEiOpxY5E9wVBRPcFQU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60380665/%E6%9C%80%E6%96%B0%E5%A4%A9%E6%B0%A3-%E5%A4%A9%E6%96%87%E5%8F%B0%E7%99%BC%E5%87%BA%E5%BC%B7%E7%83%88%E5%AD%A3%E5%80%99%E9%A2%A8%E4%BF%A1%E8%99%9F-%E9%A0%90%E6%96%99%E9%99%A3%E9%A2%A8%E9%A2%A8%E5%8A%9B%E9%96%93%E4%B8%AD%E9%81%948%E7%B4%9A",
+    "timestamp": "2026-08-18T17:04:43.379Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "阿富汗喀布爾教育中心爆炸　至少42名兒童受傷",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260818/1166414921299136512274108.jpeg/LGp7oO7Lj9IBVhGkXNCvJYFbqD4GyQ8U3EeqStxHqko?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60381158/%E4%B9%92%E4%B9%93%E7%90%83wtt%E6%9C%80%E6%96%B0%E4%B8%96%E7%95%8C%E6%8E%92%E5%90%8D%E7%8E%8B%E6%9B%BC%E6%98%B1%E9%A6%96%E7%A0%B4%E8%90%AC%E5%88%86%E5%A4%A7%E9%97%9C-%E6%B3%95%E5%9C%8B%E7%90%83%E6%89%8B%E7%94%B7%E5%96%AE%E5%8D%87%E6%AC%A1%E5%B8%AD",
     "timestamp": "2026-08-18T09:33:58.797Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "揚州炒飯食譜｜做法簡易20分鐘完成、蝦仁叉燒配粒粒分明飯底",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20200528/342761881766858752.jpeg/e8y1gZ0sV5BQLpPpPJUNMZ_AfVyv7hgMap9HpWqfR6U",
-    "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60381202/%E6%8F%9A%E5%B7%9E%E7%82%92%E9%A3%AF%E9%A3%9F%E8%AD%9C-%E5%81%9A%E6%B3%95%E7%B0%A1%E6%98%9320%E5%88%86%E9%90%98%E5%AE%8C%E6%88%90-%E8%9D%A6%E4%BB%81%E5%8F%89%E7%87%92%E9%85%8D%E7%B2%92%E7%B2%92%E5%88%86%E6%98%8E%E9%A3%AF%E5%BA%95",
-    "timestamp": "2026-08-18T09:17:21.917Z",
     "strategy": ".content-card__main"
   }
 ];
