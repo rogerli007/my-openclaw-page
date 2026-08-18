@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-18T17:50:25.371Z
+// Last updated: 2026-08-18T18:15:18.111Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "跨部門大埔及上水掃黃　9女被捕",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260819/1166567927873277952104928.jpeg/bJPT-rW5Xe1iYXuw243D2ftxz6qSW9EqkU-GOJFPhjg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60381338/%E8%B7%A8%E9%83%A8%E9%96%80%E5%A4%A7%E5%9F%94%E5%8F%8A%E4%B8%8A%E6%B0%B4%E6%8E%83%E9%BB%83-9%E5%A5%B3%E8%A2%AB%E6%8D%95",
+    "timestamp": "2026-08-18T18:15:18.111Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "中電全電智能煮食廚藝賽　引入AI評審推動智慧餐飲發展",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260818/1166456743320883200934216.png/3Wvw2XONoosbaGpCPwch5d4VRGmYfoj0KNiU6ijYlOo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60381267/%E7%85%A4%E6%B0%A3%E6%96%99%E5%85%A8%E5%B9%B4%E5%88%A9%E6%BD%A4%E8%83%BD%E9%8C%84%E5%BE%97%E9%AB%98%E5%96%AE%E4%BD%8D%E6%95%B8%E5%A2%9E%E9%95%B7-%E5%B0%8D%E5%83%B9%E6%A0%BC%E8%AA%BF%E6%95%B4%E4%BF%9D%E6%8C%81%E8%AC%B9%E6%85%8E%E6%85%8B%E5%BA%A6",
     "timestamp": "2026-08-18T11:15:43.998Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "本地研發「EX M」醬汁獲JW萬豪採用　獲選為全電烹飪大賽必用材料",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260818/1166369607024381952670421.jpeg/l6wLzTvz9LO96p9QDq1DmfRoQyXQH_cS7IOoIeyDqCE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A5%BD%E7%94%9F%E6%B4%BB/60381056/%E6%9C%AC%E5%9C%B0%E7%A0%94%E7%99%BC-ex-m-%E9%86%AC%E6%B1%81%E7%8D%B2jw%E8%90%AC%E8%B1%AA%E6%8E%A1%E7%94%A8-%E7%8D%B2%E9%81%B8%E7%82%BA%E5%85%A8%E9%9B%BB%E7%83%B9%E9%A3%AA%E5%A4%A7%E8%B3%BD%E5%BF%85%E7%94%A8%E6%9D%90%E6%96%99",
-    "timestamp": "2026-08-18T11:02:40.133Z",
     "strategy": ".content-card__main"
   }
 ];
