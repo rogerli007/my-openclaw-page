@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-18T09:54:20.838Z
+// Last updated: 2026-08-18T10:30:39.504Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "朱鎔基逝世｜新華社萬字長文回顧朱鎔基一生　並發布12張生平照片",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260818/1166442203657539584784612.jpeg/uyxkR7BF2SMY6EOSSPpHL0l_obxAdc9a0-ks_dPpLP0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60381247/%E6%9C%B1%E9%8E%94%E5%9F%BA%E9%80%9D%E4%B8%96-%E6%96%B0%E8%8F%AF%E7%A4%BE%E8%90%AC%E5%AD%97%E9%95%B7%E6%96%87%E5%9B%9E%E9%A1%A7%E6%9C%B1%E9%8E%94%E5%9F%BA%E4%B8%80%E7%94%9F-%E4%B8%A6%E7%99%BC%E5%B8%8312%E5%BC%B5%E7%94%9F%E5%B9%B3%E7%85%A7%E7%89%87",
+    "timestamp": "2026-08-18T10:30:39.504Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "本港年中人口751.8萬人　按年增1.9萬　人才外勞抵銷人口自然減少",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/301650/org/98da3e5957faa7354f326316858f98b6.jpg/HV8_roVswVK0RBtV1-lQExa_hZZj8lckjy0kkY8tJJE?v=w1920r16_9",
     "url": "https://www.hk01.com/01%E8%AB%96%E5%A3%87/60380692/%E7%AD%86%E4%B8%8B%E5%BF%83%E6%BE%84-%E9%A4%8A%E5%85%92%E9%95%B7%E6%86%82",
     "timestamp": "2026-08-18T00:23:19.425Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "大新金融︰內地7月主要經濟數據均轉弱　並遜於市場預期",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20240301/840215418411945984063459.jpeg/5MeNuENVST7Id7pFcG1A9xLvpc_nF8wz6rV8XOq1fFw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60380938/%E5%A4%A7%E6%96%B0%E9%87%91%E8%9E%8D-%E5%85%A7%E5%9C%B07%E6%9C%88%E4%B8%BB%E8%A6%81%E7%B6%93%E6%BF%9F%E6%95%B8%E6%93%9A%E5%9D%87%E8%BD%89%E5%BC%B1-%E4%B8%A6%E9%81%9C%E6%96%BC%E5%B8%82%E5%A0%B4%E9%A0%90%E6%9C%9F",
-    "timestamp": "2026-08-17T23:57:02.204Z",
     "strategy": ".content-card__main"
   }
 ];
