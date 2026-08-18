@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-18T05:49:23.067Z
+// Last updated: 2026-08-18T06:02:44.878Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "9間長者健康中心10.5起整合至地區網　涉慢病評估等　服務點將增",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260818/1166377217622544384906234.png/dcDjli-yt_DeHB7JB0ZW4pl1NIobOx9DCNqvZAjar2Q?v=w1920r16_9",
+    "url": "https://www.hk01.com/18%E5%8D%80%E6%96%B0%E8%81%9E/60381072/9%E9%96%93%E9%95%B7%E8%80%85%E5%81%A5%E5%BA%B7%E4%B8%AD%E5%BF%8310-5%E8%B5%B7%E6%95%B4%E5%90%88%E8%87%B3%E5%9C%B0%E5%8D%80%E7%B6%B2-%E6%B6%89%E6%85%A2%E7%97%85%E8%A9%95%E4%BC%B0%E7%AD%89-%E6%9C%8D%E5%8B%99%E9%BB%9E%E5%B0%87%E5%A2%9E",
+    "timestamp": "2026-08-18T06:02:44.878Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "心連心換莊管浩鳴料交棒譚贛蘭　孫玉菡：誰任主席都是政府好拍檔",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260818/1166235803127386112247836.png/XxmFuS_a1igK1TLN7or4u4v9-xspxd7X3kcNf95HDX8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60380930/%E7%B6%B2%E5%82%B3%E9%A3%9F%E7%92%B0%E4%BA%BA%E5%93%A1%E5%BE%8C%E5%B7%B7%E5%90%B8%E7%85%99-%E9%A3%9F%E7%92%B0%E7%BD%B2%E7%A2%BA%E8%AA%8D%E7%82%BA%E5%B0%8F%E8%B2%A9%E7%AE%A1%E7%90%86%E9%9A%8A-%E5%B7%B2%E5%B1%95%E9%96%8B%E7%B4%80%E5%BE%8B%E8%AA%BF%E6%9F%A5",
     "timestamp": "2026-08-17T21:14:00.218Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "九龍城2車相撞　電單車乘客一度半昏迷　警拘私家車司機危險駕駛",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260818/1166231334574624768572839.jpeg/YpX__PsKaPjhXNQ7zq0xf3fTW1dcQ2k5b15iu0VeYrs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60380929/%E4%B9%9D%E9%BE%8D%E5%9F%8E2%E8%BB%8A%E7%9B%B8%E6%92%9E-%E9%9B%BB%E5%96%AE%E8%BB%8A%E4%B9%98%E5%AE%A2%E4%B8%80%E5%BA%A6%E5%8D%8A%E6%98%8F%E8%BF%B7-%E8%AD%A6%E6%8B%98%E7%A7%81%E5%AE%B6%E8%BB%8A%E5%8F%B8%E6%A9%9F%E5%8D%B1%E9%9A%AA%E9%A7%95%E9%A7%9B",
-    "timestamp": "2026-08-17T21:01:01.085Z",
     "strategy": ".content-card__main"
   }
 ];
