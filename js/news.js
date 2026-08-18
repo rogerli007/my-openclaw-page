@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-18T11:15:43.998Z
+// Last updated: 2026-08-18T11:30:56.947Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "iOS 26.6.1緊急更新｜Apple修補iPhone 29個安全漏洞即升級免被駭",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260818/1166464181612843008972345.jpeg/YxxYiGQEWK5Um08SBCWOabwXU2eU2znzll6XvJZel7w?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60381284/ios-26-6-1%E7%B7%8A%E6%80%A5%E6%9B%B4%E6%96%B0-apple%E4%BF%AE%E8%A3%9Ciphone-29%E5%80%8B%E5%AE%89%E5%85%A8%E6%BC%8F%E6%B4%9E%E5%8D%B3%E5%8D%87%E7%B4%9A%E5%85%8D%E8%A2%AB%E9%A7%AD",
+    "timestamp": "2026-08-18T11:30:56.947Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "煤氣料全年利潤能錄得高單位數增長　對價格調整保持謹慎態度",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260817/1166005746291183616842597.png/94Rx3J4YUybrJ6LDwu08XqIse1esBJJ_2PYMb9j2DG8",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60380572/%E5%B0%96%E6%B2%99%E5%92%80%E5%80%9F%E9%8C%A2%E9%A3%9F%E9%A3%AF%E9%BB%A8-%E5%A5%B3%E5%AD%90%E6%95%B2%E8%BB%8A%E7%AA%97%E9%80%90%E5%80%8B%E5%95%8F-%E5%8F%B8%E6%A9%9F-%E6%88%91%E4%BB%B2%E7%AA%AE-%E7%B6%B2%E6%B0%91-%E6%85%A3%E7%8A%AF",
     "timestamp": "2026-08-18T03:10:01.193Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "OPPO Reno16手機評測　獨創裸眼3D背板超驚艷　6700mAh大電續航強",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260806/1162074065188425728839460.jpeg/gDi8ciszxiv6YZbEaJ3mEuVIB8Z3qMWAjg-Gpo4PhqY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60377504/oppo-reno16%E6%89%8B%E6%A9%9F%E8%A9%95%E6%B8%AC-%E7%8D%A8%E5%89%B5%E8%A3%B8%E7%9C%BC3d%E8%83%8C%E6%9D%BF%E8%B6%85%E9%A9%9A%E8%89%B7-6700mah%E5%A4%A7%E9%9B%BB%E7%BA%8C%E8%88%AA%E5%BC%B7",
-    "timestamp": "2026-08-18T02:16:22.196Z",
     "strategy": ".content-card__main"
   }
 ];
