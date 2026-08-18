@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-18T05:32:10.899Z
+// Last updated: 2026-08-18T05:49:23.067Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "心連心換莊管浩鳴料交棒譚贛蘭　孫玉菡：誰任主席都是政府好拍檔",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260818/1166380248770547712021659.jpeg/9ice0eNMG_Q-19rEhZM8sSTWu03QF9oEBu-kgQbvpIE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60381063/%E5%BF%83%E9%80%A3%E5%BF%83%E6%8F%9B%E8%8E%8A%E7%AE%A1%E6%B5%A9%E9%B3%B4%E6%96%99%E4%BA%A4%E6%A3%92%E8%AD%9A%E8%B4%9B%E8%98%AD-%E5%AD%AB%E7%8E%89%E8%8F%A1-%E8%AA%B0%E4%BB%BB%E4%B8%BB%E5%B8%AD%E9%83%BD%E6%98%AF%E6%94%BF%E5%BA%9C%E5%A5%BD%E6%8B%8D%E6%AA%94",
+    "timestamp": "2026-08-18T05:49:23.067Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "浪花男女｜星爺愛Wakesurf但難拍電影　舊戰友率先成事︰值得一試",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260818/1166231334574624768572839.jpeg/YpX__PsKaPjhXNQ7zq0xf3fTW1dcQ2k5b15iu0VeYrs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60380929/%E4%B9%9D%E9%BE%8D%E5%9F%8E2%E8%BB%8A%E7%9B%B8%E6%92%9E-%E9%9B%BB%E5%96%AE%E8%BB%8A%E4%B9%98%E5%AE%A2%E4%B8%80%E5%BA%A6%E5%8D%8A%E6%98%8F%E8%BF%B7-%E8%AD%A6%E6%8B%98%E7%A7%81%E5%AE%B6%E8%BB%8A%E5%8F%B8%E6%A9%9F%E5%8D%B1%E9%9A%AA%E9%A7%95%E9%A7%9B",
     "timestamp": "2026-08-17T21:01:01.085Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "九龍城電單車私家車相撞釀2傷　電單車乘客一度昏迷送院",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260818/1166231334574624768572839.jpeg/YpX__PsKaPjhXNQ7zq0xf3fTW1dcQ2k5b15iu0VeYrs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60380929/%E4%B9%9D%E9%BE%8D%E5%9F%8E%E9%9B%BB%E5%96%AE%E8%BB%8A%E7%A7%81%E5%AE%B6%E8%BB%8A%E7%9B%B8%E6%92%9E%E9%87%802%E5%82%B7-%E9%9B%BB%E5%96%AE%E8%BB%8A%E4%B9%98%E5%AE%A2%E4%B8%80%E5%BA%A6%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2",
-    "timestamp": "2026-08-17T20:46:22.721Z",
     "strategy": ".content-card__main"
   }
 ];
