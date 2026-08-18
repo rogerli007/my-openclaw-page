@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-18T06:02:44.878Z
+// Last updated: 2026-08-18T06:20:22.760Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "茶葉蛋食譜｜茶葉蛋色香味濃做法有秘訣！滷過久影響蛋白質吸收？",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/1110000/org/46baa419ccccde3bd7fc04e9268d2881.jpg/moT9BeKVpmeKnXZd1Of2cjhxaDK4Uh8e0nO1OtJztTo?v=w1920",
+    "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60381102/%E8%8C%B6%E8%91%89%E8%9B%8B%E9%A3%9F%E8%AD%9C-%E8%8C%B6%E8%91%89%E8%9B%8B%E8%89%B2%E9%A6%99%E5%91%B3%E6%BF%83%E5%81%9A%E6%B3%95%E6%9C%89%E7%A7%98%E8%A8%A3-%E6%BB%B7%E9%81%8E%E4%B9%85%E5%BD%B1%E9%9F%BF%E8%9B%8B%E7%99%BD%E8%B3%AA%E5%90%B8%E6%94%B6",
+    "timestamp": "2026-08-18T06:20:22.760Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "9間長者健康中心10.5起整合至地區網　涉慢病評估等　服務點將增",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260818/1166254922337882112025873.jpeg/gjQwM8FfEJsFAfrh5mKGStYR-8EsFrPcpCZTaaQmU2k?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60380932/%E7%89%B9%E6%9C%97%E6%99%AE-%E4%B8%8D%E5%B0%8B%E6%B1%82%E5%BB%B6%E9%95%B7%E7%BE%8E%E4%BC%8A%E8%AB%92%E8%A7%A3%E5%82%99%E5%BF%98%E9%8C%84-%E8%AD%A6%E5%91%8A%E9%98%BF%E6%9B%BC%E5%8B%BF%E7%A4%99%E4%BA%8B%E5%90%A6%E5%89%87%E8%BD%9F%E7%82%B8",
     "timestamp": "2026-08-17T21:45:14.326Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "網傳食環人員後巷吸煙　食環署確認為小販管理隊：已展開紀律調查",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260818/1166235803127386112247836.png/XxmFuS_a1igK1TLN7or4u4v9-xspxd7X3kcNf95HDX8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60380930/%E7%B6%B2%E5%82%B3%E9%A3%9F%E7%92%B0%E4%BA%BA%E5%93%A1%E5%BE%8C%E5%B7%B7%E5%90%B8%E7%85%99-%E9%A3%9F%E7%92%B0%E7%BD%B2%E7%A2%BA%E8%AA%8D%E7%82%BA%E5%B0%8F%E8%B2%A9%E7%AE%A1%E7%90%86%E9%9A%8A-%E5%B7%B2%E5%B1%95%E9%96%8B%E7%B4%80%E5%BE%8B%E8%AA%BF%E6%9F%A5",
-    "timestamp": "2026-08-17T21:14:00.218Z",
     "strategy": ".content-card__main"
   }
 ];
