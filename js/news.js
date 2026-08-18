@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-17T23:57:02.204Z
+// Last updated: 2026-08-18T00:23:19.425Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "筆下心澄｜養兒長憂",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/301650/org/98da3e5957faa7354f326316858f98b6.jpg/HV8_roVswVK0RBtV1-lQExa_hZZj8lckjy0kkY8tJJE?v=w1920r16_9",
+    "url": "https://www.hk01.com/01%E8%AB%96%E5%A3%87/60380692/%E7%AD%86%E4%B8%8B%E5%BF%83%E6%BE%84-%E9%A4%8A%E5%85%92%E9%95%B7%E6%86%82",
+    "timestamp": "2026-08-18T00:23:19.425Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "大新金融︰內地7月主要經濟數據均轉弱　並遜於市場預期",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260818/1166180744650035200974301.jpeg/jqsbw3utUyphtTzRef-wDNiclLiDONRl78dPgO_HT4A?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60380918/%E4%B8%AD%E9%9B%BB%E6%BA%90%E5%8B%95%E5%8A%A9vtc%E9%99%A2%E6%A0%A1%E8%A3%9D2000%E5%A1%8A%E5%A4%AA%E9%99%BD%E8%83%BD%E6%9D%BF-%E6%AF%8F%E5%B9%B4%E7%99%BC%E9%9B%BB%E5%B0%87%E7%9B%B8%E7%95%B6400%E5%AE%B6%E5%BA%AD%E7%94%A8%E9%87%8F",
     "timestamp": "2026-08-17T17:06:04.273Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "內地男旅客曼谷抵港　海關揭手提行李藏值85萬大麻花　當場被捕",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260817/1166170466134528000029481.jpeg/O19myUxPJus6G5iXSC_BkwHU-wl8vC9FDCiqsgwoqrI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60380914/%E5%85%A7%E5%9C%B0%E7%94%B7%E6%97%85%E5%AE%A2%E6%9B%BC%E8%B0%B7%E6%8A%B5%E6%B8%AF-%E6%B5%B7%E9%97%9C%E6%8F%AD%E6%89%8B%E6%8F%90%E8%A1%8C%E6%9D%8E%E8%97%8F%E5%80%BC85%E8%90%AC%E5%A4%A7%E9%BA%BB%E8%8A%B1-%E7%95%B6%E5%A0%B4%E8%A2%AB%E6%8D%95",
-    "timestamp": "2026-08-17T16:12:22.923Z",
     "strategy": ".content-card__main"
   }
 ];
