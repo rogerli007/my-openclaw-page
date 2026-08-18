@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-18T12:57:20.740Z
+// Last updated: 2026-08-18T13:24:42.538Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "六合彩結果｜今期8.18頭獎2400萬即時攪珠｜中獎號碼+派彩獎金",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260806/1162087277900337152218754.png/aDSWdXWhOmWC1NfKczj_tfHQX3yog8jaMcfvwTHH78E?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60380347/%E5%85%AD%E5%90%88%E5%BD%A9%E7%B5%90%E6%9E%9C-%E4%BB%8A%E6%9C%9F8-18%E9%A0%AD%E7%8D%8E2400%E8%90%AC%E5%8D%B3%E6%99%82%E6%94%AA%E7%8F%A0-%E4%B8%AD%E7%8D%8E%E8%99%9F%E7%A2%BC-%E6%B4%BE%E5%BD%A9%E7%8D%8E%E9%87%91",
+    "timestamp": "2026-08-18T13:24:42.538Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "流感｜16歲長期病少女染甲流併發嚴重肺炎及敗血性休克　情況危殆",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260818/1166365733131653120647821.jpeg/2llCoeotd286vSYghnTjvUA4rC7LpkPuSM2l2kjNpdo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60381026/%E6%B5%AA%E8%8A%B1%E7%94%B7%E5%A5%B3-%E6%98%9F%E7%88%BA%E6%84%9Bwakesurf%E4%BD%86%E9%9B%A3%E6%8B%8D%E9%9B%BB%E5%BD%B1-%E8%88%8A%E6%88%B0%E5%8F%8B%E7%8E%87%E5%85%88%E6%88%90%E4%BA%8B-%E5%80%BC%E5%BE%97%E4%B8%80%E8%A9%A6",
     "timestamp": "2026-08-18T05:32:10.899Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "范徐麗泰、梁愛詩北上消費　血拚「山姆超市」買麵包｜政壇諸事町",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260818/1166363428642623488176325.jpeg/s2RyYh8QJeTghVojYFpCbF5cDTfv4Dm97ILZV-yC2Vc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60381003/%E8%8C%83%E5%BE%90%E9%BA%97%E6%B3%B0-%E6%A2%81%E6%84%9B%E8%A9%A9%E5%8C%97%E4%B8%8A%E6%B6%88%E8%B2%BB-%E8%A1%80%E6%8B%9A-%E5%B1%B1%E5%A7%86%E8%B6%85%E5%B8%82-%E8%B2%B7%E9%BA%B5%E5%8C%85-%E6%94%BF%E5%A3%87%E8%AB%B8%E4%BA%8B%E7%94%BA",
-    "timestamp": "2026-08-18T04:51:13.416Z",
     "strategy": ".content-card__main"
   }
 ];
