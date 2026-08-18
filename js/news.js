@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-18T22:30:37.578Z
+// Last updated: 2026-08-18T22:45:51.710Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "六料港姐冠軍狂捱夜直播靠內地人氣養家　48歲賣金狀態驚人：像30",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260818/1166499291657670656134986.jpeg/I9xWxQwPTEY1q3hgK7viQjxs1YNvIpW74ZN8ueGTfLk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60381114/%E6%A5%8A%E6%80%9D%E7%90%A6%E6%9C%AA%E5%A9%9A%E7%94%9F%E5%A5%B3%E7%8B%82%E6%8D%B1%E5%A4%9C%E7%9B%B4%E6%92%AD%E9%A4%8A%E5%AE%B6-48%E6%AD%B2%E8%B3%A3%E9%87%91%E7%8B%80%E6%85%8B%E5%87%8D%E9%BD%A1-%E5%83%8F30%E5%87%BA%E9%A0%AD",
+    "timestamp": "2026-08-18T22:45:51.710Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "前TVB靚仔小生獲ICF國際教練認證　淡出幕前積極增值擁多項證書",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260818/1166418501804494848324951.jpeg/7KuMv5ZDeasjr1uDJ1vdpd1LiUscQb_SuWvNkblrzZE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60381091/47%E6%AD%B2%E9%BB%83%E5%A9%89%E5%90%9B%E7%A9%BF%E6%AF%94%E5%A0%85%E5%B0%BC%E9%80%86%E5%A4%A9%E5%87%8D%E9%BD%A1%E8%BA%AB%E6%9D%90%E7%81%AB%E8%BE%A3-%E5%85%A9%E5%AD%90%E7%B9%BC%E6%89%BF%E5%84%AA%E8%89%AF%E5%9F%BA%E5%9B%A0%E9%AB%98%E5%A4%A7%E5%B8%A5%E6%B0%A3",
     "timestamp": "2026-08-18T16:14:40.843Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "L'atelier Blini Ktipiti芝士醬或含李斯特菌　City Super回收",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260818/1166522449525739520123079.jpeg/VgucCa1UbBLRsCoSJinLX6iNS_r9WhDD5qsXGearFxk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60381313/l-atelier-blini-ktipiti%E8%8A%9D%E5%A3%AB%E9%86%AC%E6%88%96%E5%90%AB%E6%9D%8E%E6%96%AF%E7%89%B9%E8%8F%8C-city-super%E5%9B%9E%E6%94%B6",
-    "timestamp": "2026-08-18T15:34:50.509Z",
     "strategy": ".content-card__main"
   }
 ];
