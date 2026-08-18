@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-18T09:33:58.797Z
+// Last updated: 2026-08-18T09:54:20.838Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "本港年中人口751.8萬人　按年增1.9萬　人才外勞抵銷人口自然減少",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260701/1149046950633410560965328.jpeg/V7nSWYuzB5Fv7INcNv-S9rALJTVGjko1Q-3nTEPt50w?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60381227/%E6%9C%AC%E6%B8%AF%E5%B9%B4%E4%B8%AD%E4%BA%BA%E5%8F%A3751-8%E8%90%AC%E4%BA%BA-%E6%8C%89%E5%B9%B4%E5%A2%9E1-9%E8%90%AC-%E4%BA%BA%E6%89%8D%E5%A4%96%E5%8B%9E%E6%8A%B5%E9%8A%B7%E4%BA%BA%E5%8F%A3%E8%87%AA%E7%84%B6%E6%B8%9B%E5%B0%91",
+    "timestamp": "2026-08-18T09:54:20.838Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "乒乓球WTT最新世界排名王曼昱首破萬分大關　法國球手男單升次席",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20240301/840215418411945984063459.jpeg/5MeNuENVST7Id7pFcG1A9xLvpc_nF8wz6rV8XOq1fFw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60380938/%E5%A4%A7%E6%96%B0%E9%87%91%E8%9E%8D-%E5%85%A7%E5%9C%B07%E6%9C%88%E4%B8%BB%E8%A6%81%E7%B6%93%E6%BF%9F%E6%95%B8%E6%93%9A%E5%9D%87%E8%BD%89%E5%BC%B1-%E4%B8%A6%E9%81%9C%E6%96%BC%E5%B8%82%E5%A0%B4%E9%A0%90%E6%9C%9F",
     "timestamp": "2026-08-17T23:57:02.204Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "年齡大記憶力必定衰退？ 研究：生酮飲食或有助於改善腦退化！",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20240625/882308663866298368534602.jpeg/BmRdjCaFM_3QYA8NacOna7Et7HuapX5SURNBsVETQbE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/1032072/%E5%B9%B4%E9%BD%A1%E5%A4%A7%E8%A8%98%E6%86%B6%E5%8A%9B%E5%BF%85%E5%AE%9A%E8%A1%B0%E9%80%80-%E7%A0%94%E7%A9%B6-%E7%94%9F%E9%85%AE%E9%A3%B2%E9%A3%9F%E6%88%96%E6%9C%89%E5%8A%A9%E6%96%BC%E6%94%B9%E5%96%84%E8%85%A6%E9%80%80%E5%8C%96",
-    "timestamp": "2026-08-17T23:29:46.192Z",
     "strategy": ".content-card__main"
   }
 ];
