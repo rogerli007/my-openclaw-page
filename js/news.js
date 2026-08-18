@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-18T19:34:06.645Z
+// Last updated: 2026-08-18T19:48:33.772Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "韓媒：美韓年度聯合軍演時間減半　後半段反擊作戰訓練取消",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20251125/1069932162070876160938076.jpeg/06u_ujN6kMpCnIQpF3QDg7SrLaYjagXXg6ra_4Oq2v8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60381340/%E9%9F%93%E5%AA%92-%E7%BE%8E%E9%9F%93%E5%B9%B4%E5%BA%A6%E8%81%AF%E5%90%88%E8%BB%8D%E6%BC%94%E6%99%82%E9%96%93%E6%B8%9B%E5%8D%8A-%E5%BE%8C%E5%8D%8A%E6%AE%B5%E5%8F%8D%E6%93%8A%E4%BD%9C%E6%88%B0%E8%A8%93%E7%B7%B4%E5%8F%96%E6%B6%88",
+    "timestamp": "2026-08-18T19:48:33.772Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "韓媒：美韓年度聯合軍演時間減半　後半段反擊作戰訓練取消",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260818/1166475234547601408421085.jpeg/_7lTqVISAoLHZM8bFv4naQ14uzqqQTUoYf5QF2H-UBc",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60381291/%E5%B1%AF%E9%96%80%E7%B0%A1%E7%B4%84%E5%85%AC%E5%B1%8B%E9%AB%98%E7%A9%BA%E6%93%B2%E7%89%A9-%E5%BB%BA%E7%AF%89%E7%BD%B2-%E6%89%BF%E5%BB%BA%E5%95%86%E7%A6%81%E6%B6%89%E4%BA%8B%E5%B7%A5%E4%BA%BA%E9%96%8B%E5%B7%A5-%E5%B7%B2%E5%A0%B1%E8%AD%A6",
     "timestamp": "2026-08-18T12:16:23.171Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "元朗狗隻咬死悲劇震驚全港　性感女神林映暉感同身受心痛痛失愛寵",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260818/1166455470689357824235807.jpeg/BHXg_Y6Vh6bmIXDsWaFew9QpkSKCJbDAdBIfVU4SH1U?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60381273/%E5%85%83%E6%9C%97%E7%8B%97%E9%9A%BB%E5%92%AC%E6%AD%BB%E6%82%B2%E5%8A%87%E9%9C%87%E9%A9%9A%E5%85%A8%E6%B8%AF-%E6%80%A7%E6%84%9F%E5%A5%B3%E7%A5%9E%E6%9E%97%E6%98%A0%E6%9A%89%E6%84%9F%E5%90%8C%E8%BA%AB%E5%8F%97%E5%BF%83%E7%97%9B%E7%97%9B%E5%A4%B1%E6%84%9B%E5%AF%B5",
-    "timestamp": "2026-08-18T11:59:42.014Z",
     "strategy": ".content-card__main"
   }
 ];
