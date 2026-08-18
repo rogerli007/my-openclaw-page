@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-18T22:58:54.365Z
+// Last updated: 2026-08-18T23:43:56.192Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "元朗狗咬狗｜狗主鄙於守法　到底是誰之責？",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260819/1166647833743331328374021.jpeg/TuB7hqoNIJLmZqTl2llMfVe6bUh-IxPko_dHxqP3R8Y?v=w1920r16_9",
+    "url": "https://www.hk01.com/01%E8%A7%80%E9%BB%9E/60381301/%E5%85%83%E6%9C%97%E7%8B%97%E5%92%AC%E7%8B%97-%E7%8B%97%E4%B8%BB%E9%84%99%E6%96%BC%E5%AE%88%E6%B3%95-%E5%88%B0%E5%BA%95%E6%98%AF%E8%AA%B0%E4%B9%8B%E8%B2%AC",
+    "timestamp": "2026-08-18T23:43:56.192Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "六料港姐冠軍狂捱夜直播靠內地人氣養家　48歲賣金狀態驚人：像30",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260819/1166544602417598464016398.png/ZJyWNyyortnWBjoBBX0hpg-ldpJZOEk64cjrMuHI6zI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60381326/%E9%98%BF%E5%AF%8C%E6%B1%97%E5%96%80%E5%B8%83%E7%88%BE%E6%95%99%E8%82%B2%E4%B8%AD%E5%BF%83%E7%88%86%E7%82%B8-%E8%87%B3%E5%B0%9142%E5%90%8D%E5%85%92%E7%AB%A5%E5%8F%97%E5%82%B7",
     "timestamp": "2026-08-18T16:50:01.883Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "這款水果竟是腎臟殺手！健康人士連吃4顆或致腎衰竭　最嚴重喪命",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250520/1001365471489953792498601.jpeg/a4Ly18VLcHakMeW8bhms4WBL0_9fL27OqdRAqanUQKk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60239946/%E9%80%99%E6%AC%BE%E6%B0%B4%E6%9E%9C%E7%AB%9F%E6%98%AF%E8%85%8E%E8%87%9F%E6%AE%BA%E6%89%8B-%E5%81%A5%E5%BA%B7%E4%BA%BA%E5%A3%AB%E9%80%A3%E5%90%834%E9%A1%86%E6%88%96%E8%87%B4%E8%85%8E%E8%A1%B0%E7%AB%AD-%E6%9C%80%E5%9A%B4%E9%87%8D%E5%96%AA%E5%91%BD",
-    "timestamp": "2026-08-18T16:32:15.044Z",
     "strategy": ".content-card__main"
   }
 ];
