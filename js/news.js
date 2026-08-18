@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-18T21:46:18.619Z
+// Last updated: 2026-08-18T21:57:05.046Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "英國沙門氏菌疫情至少1死　或涉外國進口雞蛋",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20241214/944618747103023104047216.jpeg/n3uNm99j5NjB6rKRyITaL8tqZ7jz55QUcpDDmHKQw5g?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60381346/%E8%8B%B1%E5%9C%8B%E6%B2%99%E9%96%80%E6%B0%8F%E8%8F%8C%E7%96%AB%E6%83%85%E8%87%B3%E5%B0%911%E6%AD%BB-%E6%88%96%E6%B6%89%E5%A4%96%E5%9C%8B%E9%80%B2%E5%8F%A3%E9%9B%9E%E8%9B%8B",
+    "timestamp": "2026-08-18T21:57:05.046Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "英國沙門氏菌疫情至少1死　或涉外國進口雞蛋",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260818/1166514418125639680481537.png/VPCl6ErPzgTWsKFkPZe6m-sHeV3m8-Tcdl2RYnZdkWI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60381317/%E6%A5%8A%E5%9C%8B%E7%A6%8F%E9%BA%BB%E8%BE%A3%E7%87%99%E6%97%A5%E6%9C%AC%E9%96%8B%E6%96%B0%E5%BA%97%E5%87%BA%E7%8F%BE%E5%86%92%E5%90%8D%E7%BE%BD%E7%94%9F%E7%B5%90%E5%BC%A6%E8%8A%B1%E7%B1%83-%E9%81%AD%E6%89%93%E5%81%87%E5%BE%8C%E5%85%AC%E5%8F%B8%E8%87%B4%E6%AD%89",
     "timestamp": "2026-08-18T15:02:13.109Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "有片｜黃大仙橫頭磡邨女途人遭蛇咬腳送院　蛇王到場徒手擒青竹蛇",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260818/1166511512257302528460572.jpeg/lQXzJw2kAwHw7M2VWqYBzb78XeX5yTv06s-vUOrPr1A",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60381303/%E6%9C%89%E7%89%87-%E9%BB%83%E5%A4%A7%E4%BB%99%E6%A9%AB%E9%A0%AD%E7%A3%A1%E9%82%A8%E5%A5%B3%E9%80%94%E4%BA%BA%E9%81%AD%E8%9B%87%E5%92%AC%E8%85%B3%E9%80%81%E9%99%A2-%E8%9B%87%E7%8E%8B%E5%88%B0%E5%A0%B4%E5%BE%92%E6%89%8B%E6%93%92%E9%9D%92%E7%AB%B9%E8%9B%87",
-    "timestamp": "2026-08-18T14:36:06.370Z",
     "strategy": ".content-card__main"
   }
 ];
