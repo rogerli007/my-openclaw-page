@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-18T13:24:42.538Z
+// Last updated: 2026-08-18T13:51:46.470Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "烏克蘭用英製無人機襲擊　俄羅斯警告英國要「付出代價」",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260108/1085959711871733760732649.jpeg/f_Y2-9aM9N24DecAkEGBFjhEX9PxfuQ4EKPI-xCjyPs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60381306/%E7%83%8F%E5%85%8B%E8%98%AD%E7%94%A8%E8%8B%B1%E8%A3%BD%E7%84%A1%E4%BA%BA%E6%A9%9F%E8%A5%B2%E6%93%8A-%E4%BF%84%E7%BE%85%E6%96%AF%E8%AD%A6%E5%91%8A%E8%8B%B1%E5%9C%8B%E8%A6%81-%E4%BB%98%E5%87%BA%E4%BB%A3%E5%83%B9",
+    "timestamp": "2026-08-18T13:51:46.470Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "六合彩結果｜今期8.18頭獎2400萬即時攪珠｜中獎號碼+派彩獎金",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260818/1166380248770547712021659.jpeg/9ice0eNMG_Q-19rEhZM8sSTWu03QF9oEBu-kgQbvpIE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60381063/%E5%BF%83%E9%80%A3%E5%BF%83%E6%8F%9B%E8%8E%8A%E7%AE%A1%E6%B5%A9%E9%B3%B4%E6%96%99%E4%BA%A4%E6%A3%92%E8%AD%9A%E8%B4%9B%E8%98%AD-%E5%AD%AB%E7%8E%89%E8%8F%A1-%E8%AA%B0%E4%BB%BB%E4%B8%BB%E5%B8%AD%E9%83%BD%E6%98%AF%E6%94%BF%E5%BA%9C%E5%A5%BD%E6%8B%8D%E6%AA%94",
     "timestamp": "2026-08-18T05:49:23.067Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "浪花男女｜星爺愛Wakesurf但難拍電影　舊戰友率先成事︰值得一試",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260818/1166365733131653120647821.jpeg/2llCoeotd286vSYghnTjvUA4rC7LpkPuSM2l2kjNpdo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60381026/%E6%B5%AA%E8%8A%B1%E7%94%B7%E5%A5%B3-%E6%98%9F%E7%88%BA%E6%84%9Bwakesurf%E4%BD%86%E9%9B%A3%E6%8B%8D%E9%9B%BB%E5%BD%B1-%E8%88%8A%E6%88%B0%E5%8F%8B%E7%8E%87%E5%85%88%E6%88%90%E4%BA%8B-%E5%80%BC%E5%BE%97%E4%B8%80%E8%A9%A6",
-    "timestamp": "2026-08-18T05:32:10.899Z",
     "strategy": ".content-card__main"
   }
 ];
