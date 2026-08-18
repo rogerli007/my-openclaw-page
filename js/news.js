@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-18T17:04:43.379Z
+// Last updated: 2026-08-18T17:18:09.529Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "油尖旺團體送防煙面罩及拖把　逾5000戶基層家庭受惠",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260819/1166551156017598464275310.jpeg/R6idkNf_oqy_OE1UqmxFRbn2LDqIE9Lnz-fRes_n0Xo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60381331/%E6%B2%B9%E5%B0%96%E6%97%BA%E5%9C%98%E9%AB%94%E9%80%81%E9%98%B2%E7%85%99%E9%9D%A2%E7%BD%A9%E5%8F%8A%E6%8B%96%E6%8A%8A-%E9%80%BE5000%E6%88%B6%E5%9F%BA%E5%B1%A4%E5%AE%B6%E5%BA%AD%E5%8F%97%E6%83%A0",
+    "timestamp": "2026-08-18T17:18:09.529Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "最新天氣｜天文台發出強烈季候風信號　預料陣風風力間中達8級",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260701/1149046950633410560965328.jpeg/V7nSWYuzB5Fv7INcNv-S9rALJTVGjko1Q-3nTEPt50w?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60381227/%E6%9C%AC%E6%B8%AF%E5%B9%B4%E4%B8%AD%E4%BA%BA%E5%8F%A3751-8%E8%90%AC%E4%BA%BA-%E6%8C%89%E5%B9%B4%E5%A2%9E1-9%E8%90%AC-%E4%BA%BA%E6%89%8D%E5%A4%96%E5%8B%9E%E6%8A%B5%E9%8A%B7%E4%BA%BA%E5%8F%A3%E8%87%AA%E7%84%B6%E6%B8%9B%E5%B0%91",
     "timestamp": "2026-08-18T09:54:20.838Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "乒乓球WTT最新世界排名王曼昱首破萬分大關　法國球手男單升次席",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260818/1166414921299136512274108.jpeg/LGp7oO7Lj9IBVhGkXNCvJYFbqD4GyQ8U3EeqStxHqko?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60381158/%E4%B9%92%E4%B9%93%E7%90%83wtt%E6%9C%80%E6%96%B0%E4%B8%96%E7%95%8C%E6%8E%92%E5%90%8D%E7%8E%8B%E6%9B%BC%E6%98%B1%E9%A6%96%E7%A0%B4%E8%90%AC%E5%88%86%E5%A4%A7%E9%97%9C-%E6%B3%95%E5%9C%8B%E7%90%83%E6%89%8B%E7%94%B7%E5%96%AE%E5%8D%87%E6%AC%A1%E5%B8%AD",
-    "timestamp": "2026-08-18T09:33:58.797Z",
     "strategy": ".content-card__main"
   }
 ];
