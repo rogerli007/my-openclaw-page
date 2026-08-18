@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-18T15:34:50.509Z
+// Last updated: 2026-08-18T16:14:40.843Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "47歲黃婉君穿比堅尼逆天凍齡身材火辣　兩子繼承優良基因高大帥氣",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260818/1166418501804494848324951.jpeg/7KuMv5ZDeasjr1uDJ1vdpd1LiUscQb_SuWvNkblrzZE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60381091/47%E6%AD%B2%E9%BB%83%E5%A9%89%E5%90%9B%E7%A9%BF%E6%AF%94%E5%A0%85%E5%B0%BC%E9%80%86%E5%A4%A9%E5%87%8D%E9%BD%A1%E8%BA%AB%E6%9D%90%E7%81%AB%E8%BE%A3-%E5%85%A9%E5%AD%90%E7%B9%BC%E6%89%BF%E5%84%AA%E8%89%AF%E5%9F%BA%E5%9B%A0%E9%AB%98%E5%A4%A7%E5%B8%A5%E6%B0%A3",
+    "timestamp": "2026-08-18T16:14:40.843Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "L'atelier Blini Ktipiti芝士醬或含李斯特菌　City Super回收",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260818/1166420273910517760372586.jpeg/-diPMnRBIqcbrPaPPNpufVNgIx-P6GmjKhrBFyoawRc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60381126/%E5%90%8D%E5%8F%A4%E5%B1%8B%E4%BA%9E%E9%81%8B%E6%9C%832026%E4%B9%92%E4%B9%93%E7%90%83-%E4%B8%AD%E5%9C%8B%E9%9A%8A%E5%90%8D%E5%96%AE-%E8%B3%BD%E7%A8%8B%E8%B3%BD%E6%9E%9C-%E7%84%A6%E9%BB%9E%E7%90%83%E6%89%8B%E4%B8%80%E8%A6%BD",
     "timestamp": "2026-08-18T08:34:52.765Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "《花開錦繡》12大狠人盤點　慈祥嫲嫲毒殺孫女　宅鬥權謀誰最絕？",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260817/1165999662499368960738451.png/ZOWXfoKCb1_P66fp3jnZTt4ZCz5q4-MKV0ZM31dGTN8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60379299/%E8%8A%B1%E9%96%8B%E9%8C%A6%E7%B9%A1-12%E5%A4%A7%E7%8B%A0%E4%BA%BA%E7%9B%A4%E9%BB%9E-%E6%85%88%E7%A5%A5%E5%AB%B2%E5%AB%B2%E6%AF%92%E6%AE%BA%E5%AD%AB%E5%A5%B3-%E5%AE%85%E9%AC%A5%E6%AC%8A%E8%AC%80%E8%AA%B0%E6%9C%80%E7%B5%95",
-    "timestamp": "2026-08-18T07:24:25.116Z",
     "strategy": ".content-card__main"
   }
 ];
