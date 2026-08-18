@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-18T06:20:22.760Z
+// Last updated: 2026-08-18T06:52:18.742Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "從竹筏隊長到警隊小隊指揮官　禁毒領袖學院首屆女學員展領袖本色",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260818/1166394418735878144904836.jpeg/kdtHhjPWNScNHEhFtGY9WdrTJnHNcP9STIAecUyAHnE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60381103/%E5%BE%9E%E7%AB%B9%E7%AD%8F%E9%9A%8A%E9%95%B7%E5%88%B0%E8%AD%A6%E9%9A%8A%E5%B0%8F%E9%9A%8A%E6%8C%87%E6%8F%AE%E5%AE%98-%E7%A6%81%E6%AF%92%E9%A0%98%E8%A2%96%E5%AD%B8%E9%99%A2%E9%A6%96%E5%B1%86%E5%A5%B3%E5%AD%B8%E5%93%A1%E5%B1%95%E9%A0%98%E8%A2%96%E6%9C%AC%E8%89%B2",
+    "timestamp": "2026-08-18T06:52:18.742Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "茶葉蛋食譜｜茶葉蛋色香味濃做法有秘訣！滷過久影響蛋白質吸收？",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260818/1166254922337882112025873.jpeg/gjQwM8FfEJsFAfrh5mKGStYR-8EsFrPcpCZTaaQmU2k?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60380932/%E7%89%B9%E6%9C%97%E6%99%AE-%E4%B8%8D%E5%B0%8B%E6%B1%82%E5%BB%B6%E9%95%B7%E7%BE%8E%E4%BC%8A%E8%AB%92%E8%A7%A3%E5%82%99%E5%BF%98%E9%8C%84-%E8%AD%A6%E5%91%8A%E9%98%BF%E6%9B%BC%E5%8B%BF%E7%A4%99%E4%BA%8B%E5%90%A6%E5%89%87%E8%BD%9F%E7%82%B8",
     "timestamp": "2026-08-17T21:57:53.768Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普：不尋求延長美伊諒解備忘錄　警告阿曼勿礙事否則轟炸",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260818/1166254922337882112025873.jpeg/gjQwM8FfEJsFAfrh5mKGStYR-8EsFrPcpCZTaaQmU2k?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60380932/%E7%89%B9%E6%9C%97%E6%99%AE-%E4%B8%8D%E5%B0%8B%E6%B1%82%E5%BB%B6%E9%95%B7%E7%BE%8E%E4%BC%8A%E8%AB%92%E8%A7%A3%E5%82%99%E5%BF%98%E9%8C%84-%E8%AD%A6%E5%91%8A%E9%98%BF%E6%9B%BC%E5%8B%BF%E7%A4%99%E4%BA%8B%E5%90%A6%E5%89%87%E8%BD%9F%E7%82%B8",
-    "timestamp": "2026-08-17T21:45:14.326Z",
     "strategy": ".content-card__main"
   }
 ];
