@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-18T17:34:28.380Z
+// Last updated: 2026-08-18T17:50:25.371Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "中電全電智能煮食廚藝賽　引入AI評審推動智慧餐飲發展",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260819/1166556874372681728423091.jpeg/ZnotqKA0S2d9ucofzmZqCMIb94W4QTCT8V6JtvFeibY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60381332/%E4%B8%AD%E9%9B%BB%E5%85%A8%E9%9B%BB%E6%99%BA%E8%83%BD%E7%85%AE%E9%A3%9F%E5%BB%9A%E8%97%9D%E8%B3%BD-%E5%BC%95%E5%85%A5ai%E8%A9%95%E5%AF%A9%E6%8E%A8%E5%8B%95%E6%99%BA%E6%85%A7%E9%A4%90%E9%A3%B2%E7%99%BC%E5%B1%95",
+    "timestamp": "2026-08-18T17:50:25.371Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "油尖旺團體送防煙面罩及拖把　逾5000戶基層家庭受惠",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260818/1166369607024381952670421.jpeg/l6wLzTvz9LO96p9QDq1DmfRoQyXQH_cS7IOoIeyDqCE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A5%BD%E7%94%9F%E6%B4%BB/60381056/%E6%9C%AC%E5%9C%B0%E7%A0%94%E7%99%BC-ex-m-%E9%86%AC%E6%B1%81%E7%8D%B2jw%E8%90%AC%E8%B1%AA%E6%8E%A1%E7%94%A8-%E7%8D%B2%E9%81%B8%E7%82%BA%E5%85%A8%E9%9B%BB%E7%83%B9%E9%A3%AA%E5%A4%A7%E8%B3%BD%E5%BF%85%E7%94%A8%E6%9D%90%E6%96%99",
     "timestamp": "2026-08-18T11:02:40.133Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "朱鎔基逝世｜新華社萬字長文回顧朱鎔基一生　並發布12張生平照片",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260818/1166442203657539584784612.jpeg/uyxkR7BF2SMY6EOSSPpHL0l_obxAdc9a0-ks_dPpLP0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60381247/%E6%9C%B1%E9%8E%94%E5%9F%BA%E9%80%9D%E4%B8%96-%E6%96%B0%E8%8F%AF%E7%A4%BE%E8%90%AC%E5%AD%97%E9%95%B7%E6%96%87%E5%9B%9E%E9%A1%A7%E6%9C%B1%E9%8E%94%E5%9F%BA%E4%B8%80%E7%94%9F-%E4%B8%A6%E7%99%BC%E5%B8%8312%E5%BC%B5%E7%94%9F%E5%B9%B3%E7%85%A7%E7%89%87",
-    "timestamp": "2026-08-18T10:30:39.504Z",
     "strategy": ".content-card__main"
   }
 ];
