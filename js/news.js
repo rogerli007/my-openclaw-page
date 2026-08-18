@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-18T20:29:40.549Z
+// Last updated: 2026-08-18T20:45:05.878Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "韓媒：美韓年度聯合軍演時間減半　後半段反擊作戰訓練取消",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20251125/1069932162070876160938076.jpeg/06u_ujN6kMpCnIQpF3QDg7SrLaYjagXXg6ra_4Oq2v8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60381340/%E9%9F%93%E5%AA%92-%E7%BE%8E%E9%9F%93%E5%B9%B4%E5%BA%A6%E8%81%AF%E5%90%88%E8%BB%8D%E6%BC%94%E6%99%82%E9%96%93%E6%B8%9B%E5%8D%8A-%E5%BE%8C%E5%8D%8A%E6%AE%B5%E5%8F%8D%E6%93%8A%E4%BD%9C%E6%88%B0%E8%A8%93%E7%B7%B4%E5%8F%96%E6%B6%88",
+    "timestamp": "2026-08-18T20:45:05.878Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "韓媒：美韓年度聯合軍演時間減半　後半段反擊作戰訓練取消",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260806/1162087277900337152218754.png/aDSWdXWhOmWC1NfKczj_tfHQX3yog8jaMcfvwTHH78E?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60380347/%E5%85%AD%E5%90%88%E5%BD%A9%E7%B5%90%E6%9E%9C-%E4%BB%8A%E6%9C%9F8-18%E9%A0%AD%E7%8D%8E2400%E8%90%AC%E5%8D%B3%E6%99%82%E6%94%AA%E7%8F%A0-%E4%B8%AD%E7%8D%8E%E8%99%9F%E7%A2%BC-%E6%B4%BE%E5%BD%A9%E7%8D%8E%E9%87%91",
     "timestamp": "2026-08-18T13:24:42.538Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "流感｜16歲長期病少女染甲流併發嚴重肺炎及敗血性休克　情況危殆",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20241202/940331018513158144673948.jpeg/6yFU8-4uPQiV3r1fGAKaaVVySX9XTAFel-rKkJfqypA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60381295/%E6%B5%81%E6%84%9F-16%E6%AD%B2%E9%95%B7%E6%9C%9F%E7%97%85%E5%B0%91%E5%A5%B3%E6%9F%93%E7%94%B2%E6%B5%81%E4%BD%B5%E7%99%BC%E5%9A%B4%E9%87%8D%E8%82%BA%E7%82%8E%E5%8F%8A%E6%95%97%E8%A1%80%E6%80%A7%E4%BC%91%E5%85%8B-%E6%83%85%E6%B3%81%E5%8D%B1%E6%AE%86",
-    "timestamp": "2026-08-18T12:57:20.740Z",
     "strategy": ".content-card__main"
   }
 ];
