@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-19T22:58:14.378Z
+// Last updated: 2026-08-19T23:12:46.491Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "越南Fun Coffee騙局｜港警：截至8月19日接286報案　損失$1.18億",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260730/1159585377648906240641802.png/bjxZgDjpuE5x_g__gqoyjpkR_OOMe8SxT6kDiE-pA4g?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60381765/%E8%B6%8A%E5%8D%97fun-coffee%E9%A8%99%E5%B1%80-%E6%B8%AF%E8%AD%A6-%E6%88%AA%E8%87%B38%E6%9C%8819%E6%97%A5%E6%8E%A5286%E5%A0%B1%E6%A1%88-%E6%90%8D%E5%A4%B1-1-18%E5%84%84",
+    "timestamp": "2026-08-19T23:12:46.491Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "肯尼亞直升機墜毀7人身亡　死者包括厄瓜多爾情報首長與NBC記者",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260820/1166899687534366720648509.jpeg/OhLeGWCtBLZA8s5xIm5lf-7LbmP_4yZiacsyu2nLMrs",
     "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60381740/%E8%B1%89%E6%B2%B9%E9%9B%9E%E9%A3%9F%E8%AD%9C-%E5%81%9A%E6%B3%95%E7%B0%A1%E6%98%93%E7%9A%AE%E7%88%BD%E8%82%89%E5%AB%A9%E6%B1%81%E6%92%88%E9%A3%AF%E4%B8%80%E6%B5%81-%E5%89%AA%E9%9B%9E%E6%93%BA%E7%9B%A4%E9%9B%B6%E9%9B%A3%E5%BA%A6",
     "timestamp": "2026-08-19T16:13:52.503Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "張家輝阮經天合作《周處除三害》導演新作　吉隆坡拍戲火藥味十足",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260819/1166784878730022912476182.png/RfvE8PpO2oMo3qLbExNnRMP96tOIQOUge8OM1HvDjNQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60381579/%E5%BC%B5%E5%AE%B6%E8%BC%9D%E9%98%AE%E7%B6%93%E5%A4%A9%E5%90%88%E4%BD%9C-%E5%91%A8%E8%99%95%E9%99%A4%E4%B8%89%E5%AE%B3-%E5%B0%8E%E6%BC%94%E6%96%B0%E4%BD%9C-%E5%90%89%E9%9A%86%E5%9D%A1%E6%8B%8D%E6%88%B2%E7%81%AB%E8%97%A5%E5%91%B3%E5%8D%81%E8%B6%B3",
-    "timestamp": "2026-08-19T15:35:33.908Z",
     "strategy": ".content-card__main"
   }
 ];
