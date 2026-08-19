@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-19T17:47:50.645Z
+// Last updated: 2026-08-19T17:59:22.454Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "歐洲熱浪｜法國今夏已經歷52天熱浪　創近80年紀錄",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260712/1152910410307866624032986.jpeg/5cIxtx1z7tbITLJOnTkQBa_gqxRy7XS2811-3PNdftw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60381745/%E6%AD%90%E6%B4%B2%E7%86%B1%E6%B5%AA-%E6%B3%95%E5%9C%8B%E4%BB%8A%E5%A4%8F%E5%B7%B2%E7%B6%93%E6%AD%B752%E5%A4%A9%E7%86%B1%E6%B5%AA-%E5%89%B5%E8%BF%9180%E5%B9%B4%E7%B4%80%E9%8C%84",
+    "timestamp": "2026-08-19T17:59:22.454Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "歐洲熱浪｜法國今夏已經歷52天熱浪　創近80年紀錄",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260818/1166454050057621504246581.jpeg/yw_gmzOxGNu3WV_f1pWFyvApOP1C8TQl8xQMXdYUDF0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60381695/opatra-london%E6%B6%89%E9%81%95%E5%95%86%E5%93%81%E8%AA%AA%E6%98%8E%E6%A2%9D%E4%BE%8B-%E6%B5%B7%E9%97%9C%E6%8B%98%E5%85%A9%E4%BA%BA-%E4%BB%8A%E6%99%9A%E4%BA%A4%E4%BB%A3%E6%A1%88%E6%83%85",
     "timestamp": "2026-08-19T11:13:03.113Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普「富豪治國」惹議　美國報告：現政府至少57名億萬富翁官員",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260626/1147202584008724480810325.jpeg/VFKixAQN0b_u-znohJqbG4C3WkyqKp3mSAP8cEgD_HA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60381672/%E7%89%B9%E6%9C%97%E6%99%AE-%E5%AF%8C%E8%B1%AA%E6%B2%BB%E5%9C%8B-%E6%83%B9%E8%AD%B0-%E7%BE%8E%E5%9C%8B%E5%A0%B1%E5%91%8A-%E7%8F%BE%E6%94%BF%E5%BA%9C%E8%87%B3%E5%B0%9157%E5%90%8D%E5%84%84%E8%90%AC%E5%AF%8C%E7%BF%81%E5%AE%98%E5%93%A1",
-    "timestamp": "2026-08-19T10:34:40.764Z",
     "strategy": ".content-card__main"
   }
 ];
