@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-19T16:13:52.503Z
+// Last updated: 2026-08-19T16:30:48.061Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "咖喱雞食譜｜做法簡易零失敗、香濃惹味雞肉嫩滑有秘訣",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260820/1166902447323484160870294.png/oHfBwuMrb0RHArN123ApUs2RQOv4237HGsvu0hrL7tI",
+    "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60381741/%E5%92%96%E5%96%B1%E9%9B%9E%E9%A3%9F%E8%AD%9C-%E5%81%9A%E6%B3%95%E7%B0%A1%E6%98%93%E9%9B%B6%E5%A4%B1%E6%95%97-%E9%A6%99%E6%BF%83%E6%83%B9%E5%91%B3%E9%9B%9E%E8%82%89%E5%AB%A9%E6%BB%91%E6%9C%89%E7%A7%98%E8%A8%A3",
+    "timestamp": "2026-08-19T16:30:48.061Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "豉油雞食譜｜做法簡易皮爽肉嫩汁撈飯一流、剪雞擺盤零難度",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260819/1166792657062596608208913.jpeg/xPt9l3dEE5MSR862vtFLULcQq7Np37ImIwrCnCMKwpw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60372374/%E7%83%9A%E8%9B%8B%E6%80%8E%E5%90%83%E6%9C%80%E7%BE%8E%E5%91%B3-threads%E7%88%86%E7%B4%85%E7%B4%AB%E8%8F%9C%E5%8C%85%E6%B0%B4%E7%85%AE%E8%9B%8B-%E5%85%8D%E8%85%A5%E5%91%B31%E6%AC%BE%E7%B4%AB%E8%8F%9C%E6%89%8D%E5%A5%BD%E5%90%83",
     "timestamp": "2026-08-19T09:04:31.088Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "內地樓市進入「存量時代」　今年1-7月開發投資大跌19.2%",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20210913/514028769418153984519024.jpeg/J8J6w3uJGPo3RqIoiHe7-qwDA9XPJ4jsxIWzysSFs8o?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60381602/%E5%85%A7%E5%9C%B0%E6%A8%93%E5%B8%82%E9%80%B2%E5%85%A5-%E5%AD%98%E9%87%8F%E6%99%82%E4%BB%A3-%E4%BB%8A%E5%B9%B41-7%E6%9C%88%E9%96%8B%E7%99%BC%E6%8A%95%E8%B3%87%E5%A4%A7%E8%B7%8C19-2",
-    "timestamp": "2026-08-19T08:36:15.527Z",
     "strategy": ".content-card__main"
   }
 ];
