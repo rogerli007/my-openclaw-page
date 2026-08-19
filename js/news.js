@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-19T07:33:01.144Z
+// Last updated: 2026-08-19T08:23:02.222Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "觀塘翠屏道撞斃過路婦　小巴司機認不小心駕駛　判社服令200小時",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250921/1046515019237298176375496.jpeg/NgVY845VF7h1CwnWDEDpjiZFs1i8bManF7txIQG7cSE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60381605/%E8%A7%80%E5%A1%98%E7%BF%A0%E5%B1%8F%E9%81%93%E6%92%9E%E6%96%83%E9%81%8E%E8%B7%AF%E5%A9%A6-%E5%B0%8F%E5%B7%B4%E5%8F%B8%E6%A9%9F%E8%AA%8D%E4%B8%8D%E5%B0%8F%E5%BF%83%E9%A7%95%E9%A7%9B-%E5%88%A4%E7%A4%BE%E6%9C%8D%E4%BB%A4200%E5%B0%8F%E6%99%82",
+    "timestamp": "2026-08-19T08:23:02.222Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "米高積遜女兒Paris自爆曾吸毒導致鼻腔穿窿　15歲嘗試自殺不遂",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20241214/944618747103023104047216.jpeg/n3uNm99j5NjB6rKRyITaL8tqZ7jz55QUcpDDmHKQw5g?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60381346/%E8%8B%B1%E5%9C%8B%E6%B2%99%E9%96%80%E6%B0%8F%E8%8F%8C%E7%96%AB%E6%83%85%E8%87%B3%E5%B0%911%E6%AD%BB-%E6%88%96%E6%B6%89%E5%A4%96%E5%9C%8B%E9%80%B2%E5%8F%A3%E9%9B%9E%E8%9B%8B",
     "timestamp": "2026-08-18T21:46:18.619Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "庫什納與以色列哈馬斯會談結束　特朗普加沙和平計劃停滯不前",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260818/1166393292028383232157904.png/RqZ6DcaHMwYrfibGQ_jAVrbsZMoEEiO0BbMhnwWzIZ8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60381345/%E5%BA%AB%E4%BB%80%E7%B4%8D%E8%88%87%E4%BB%A5%E8%89%B2%E5%88%97%E5%93%88%E9%A6%AC%E6%96%AF%E6%9C%83%E8%AB%87%E7%B5%90%E6%9D%9F-%E7%89%B9%E6%9C%97%E6%99%AE%E5%8A%A0%E6%B2%99%E5%92%8C%E5%B9%B3%E8%A8%88%E5%8A%83%E5%81%9C%E6%BB%AF%E4%B8%8D%E5%89%8D",
-    "timestamp": "2026-08-18T20:58:09.039Z",
     "strategy": ".content-card__main"
   }
 ];
