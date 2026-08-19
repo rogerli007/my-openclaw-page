@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-19T12:15:47.446Z
+// Last updated: 2026-08-19T12:33:44.650Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "寵物秒變二五仔？逃犯躲閣樓　遭遺棄拉布拉多帶警上門緝拿主人",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260819/1166843526495866880237589.png/6qQQYmtGBng6qemVpmmBTmwmw3jyINoCWuFjzVrhY80?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60381709/%E5%AF%B5%E7%89%A9%E7%A7%92%E8%AE%8A%E4%BA%8C%E4%BA%94%E4%BB%94-%E9%80%83%E7%8A%AF%E8%BA%B2%E9%96%A3%E6%A8%93-%E9%81%AD%E9%81%BA%E6%A3%84%E6%8B%89%E5%B8%83%E6%8B%89%E5%A4%9A%E5%B8%B6%E8%AD%A6%E4%B8%8A%E9%96%80%E7%B7%9D%E6%8B%BF%E4%B8%BB%E4%BA%BA",
+    "timestamp": "2026-08-19T12:33:44.650Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "馬來西亞首相安華受訪強調台灣是中國一部份　北京表示讚賞",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260818/1166382025192509440025461.jpeg/-dvTwbHzBkgR4bY2fsFoFJDr8u3N5pKt7Ml4gOzJeIA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60381477/%E7%BE%8E%E5%AA%92-%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8B%E4%BB%A4%E5%9C%98%E9%9A%8A%E5%81%9C%E6%AD%A2%E5%B0%8D%E4%BC%8A%E6%9C%97%E8%AB%87%E5%88%A4-%E6%94%B9%E7%94%A8%E9%95%B7%E6%9C%9F%E9%81%8F%E5%88%B6%E6%88%B0%E7%95%A5%E6%8B%96%E5%9E%AE%E5%B0%8D%E6%96%B9",
     "timestamp": "2026-08-19T04:52:13.230Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "愛美AIMI演唱會2026香港｜門票攻略＋購票連結＋座位表",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260819/1166711915653632000967802.jpeg/R6G5rEjiiUE20b-ToWLVGZ2VElO1lTFECDDnkwgw55M?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60381432/%E6%84%9B%E7%BE%8Eaimi%E6%BC%94%E5%94%B1%E6%9C%832026%E9%A6%99%E6%B8%AF-%E9%96%80%E7%A5%A8%E6%94%BB%E7%95%A5-%E8%B3%BC%E7%A5%A8%E9%80%A3%E7%B5%90-%E5%BA%A7%E4%BD%8D%E8%A1%A8",
-    "timestamp": "2026-08-19T04:05:50.193Z",
     "strategy": ".content-card__main"
   }
 ];
