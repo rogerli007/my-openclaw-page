@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-19T22:45:18.087Z
+// Last updated: 2026-08-19T22:58:14.378Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "肯尼亞直升機墜毀7人身亡　死者包括厄瓜多爾情報首長與NBC記者",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260820/1166991598458769408021674.jpeg/71b1a9Q3iZXQibtApaCBX2i4DwEh4cPQtg0x6bYNMek?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60381764/%E8%82%AF%E5%B0%BC%E4%BA%9E%E7%9B%B4%E5%8D%87%E6%A9%9F%E5%A2%9C%E6%AF%807%E4%BA%BA%E8%BA%AB%E4%BA%A1-%E6%AD%BB%E8%80%85%E5%8C%85%E6%8B%AC%E5%8E%84%E7%93%9C%E5%A4%9A%E7%88%BE%E6%83%85%E5%A0%B1%E9%A6%96%E9%95%B7%E8%88%87nbc%E8%A8%98%E8%80%85",
+    "timestamp": "2026-08-19T22:58:14.378Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "肯尼亞直升機墜毀7人身亡　死者包括厄瓜多爾情報首長與NBC記者",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260819/1166784878730022912476182.png/RfvE8PpO2oMo3qLbExNnRMP96tOIQOUge8OM1HvDjNQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60381579/%E5%BC%B5%E5%AE%B6%E8%BC%9D%E9%98%AE%E7%B6%93%E5%A4%A9%E5%90%88%E4%BD%9C-%E5%91%A8%E8%99%95%E9%99%A4%E4%B8%89%E5%AE%B3-%E5%B0%8E%E6%BC%94%E6%96%B0%E4%BD%9C-%E5%90%89%E9%9A%86%E5%9D%A1%E6%8B%8D%E6%88%B2%E7%81%AB%E8%97%A5%E5%91%B3%E5%8D%81%E8%B6%B3",
     "timestamp": "2026-08-19T15:35:33.908Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美國財政部突出手！長債回購規模翻倍　債息急回、金價彈升",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/3222718/org/86ca790b9678f13fcc586f507e0cbdab.jpg/U9Mp9W5oVy6hFY-hS2sRxgjvhLJrw1esjPVAuoz1QLo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60381735/%E7%BE%8E%E5%9C%8B%E8%B2%A1%E6%94%BF%E9%83%A8%E7%AA%81%E5%87%BA%E6%89%8B-%E9%95%B7%E5%82%B5%E5%9B%9E%E8%B3%BC%E8%A6%8F%E6%A8%A1%E7%BF%BB%E5%80%8D-%E5%82%B5%E6%81%AF%E6%80%A5%E5%9B%9E-%E9%87%91%E5%83%B9%E5%BD%88%E5%8D%87",
-    "timestamp": "2026-08-19T15:18:00.014Z",
     "strategy": ".content-card__main"
   }
 ];
