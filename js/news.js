@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-19T11:13:03.113Z
+// Last updated: 2026-08-19T11:34:25.561Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "秦始皇在位37年為何從沒立皇后？母親趙姬的行為影響他對女人看法",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260806/1162018147855765504831506.jpeg/M_T2gXpxnEd0gKuYYfkbv-3f8nS_4yYI6c_Ta-nP02s?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60293605/%E7%A7%A6%E5%A7%8B%E7%9A%87%E5%9C%A8%E4%BD%8D37%E5%B9%B4%E7%82%BA%E4%BD%95%E5%BE%9E%E6%B2%92%E7%AB%8B%E7%9A%87%E5%90%8E-%E6%AF%8D%E8%A6%AA%E8%B6%99%E5%A7%AC%E7%9A%84%E8%A1%8C%E7%82%BA%E5%BD%B1%E9%9F%BF%E4%BB%96%E5%B0%8D%E5%A5%B3%E4%BA%BA%E7%9C%8B%E6%B3%95",
+    "timestamp": "2026-08-19T11:34:25.561Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "OPATRA London涉違商品說明條例　海關拘兩人　今晚交代案情",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260818/1166438896607694848348209.png/NXHRplU8MRxF0lRhxMAIyQio9KjObld80tcDFNLXAxQ",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60380472/ai%E7%9F%AD%E7%89%87-%E5%8F%8D%E6%AD%A3%E4%B9%9F%E6%B2%92%E6%99%82%E9%96%93%E6%B4%BB-%E6%8F%AD%E6%AE%98%E9%85%B7%E7%8F%BE%E5%AF%A6-%E5%9C%B0%E7%90%83%E4%BA%BA51%E5%B9%B4%E5%91%BD%E5%83%8521%E5%A4%A9%E5%B1%AC%E8%87%AA%E5%B7%B1",
     "timestamp": "2026-08-19T01:38:16.303Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "元朗狗咬狗｜狗主鄙於守法　到底是誰之責？",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260819/1166647833743331328374021.jpeg/TuB7hqoNIJLmZqTl2llMfVe6bUh-IxPko_dHxqP3R8Y?v=w1920r16_9",
-    "url": "https://www.hk01.com/01%E8%A7%80%E9%BB%9E/60381301/%E5%85%83%E6%9C%97%E7%8B%97%E5%92%AC%E7%8B%97-%E7%8B%97%E4%B8%BB%E9%84%99%E6%96%BC%E5%AE%88%E6%B3%95-%E5%88%B0%E5%BA%95%E6%98%AF%E8%AA%B0%E4%B9%8B%E8%B2%AC",
-    "timestamp": "2026-08-18T23:59:45.895Z",
     "strategy": ".content-card__main"
   }
 ];
