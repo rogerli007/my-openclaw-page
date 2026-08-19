@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-18T23:59:45.895Z
+// Last updated: 2026-08-19T01:38:16.303Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "AI短片《反正也沒時間活》揭殘酷現實　地球人51年命僅21天屬自己",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260818/1166438896607694848348209.png/NXHRplU8MRxF0lRhxMAIyQio9KjObld80tcDFNLXAxQ",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60380472/ai%E7%9F%AD%E7%89%87-%E5%8F%8D%E6%AD%A3%E4%B9%9F%E6%B2%92%E6%99%82%E9%96%93%E6%B4%BB-%E6%8F%AD%E6%AE%98%E9%85%B7%E7%8F%BE%E5%AF%A6-%E5%9C%B0%E7%90%83%E4%BA%BA51%E5%B9%B4%E5%91%BD%E5%83%8521%E5%A4%A9%E5%B1%AC%E8%87%AA%E5%B7%B1",
+    "timestamp": "2026-08-19T01:38:16.303Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "元朗狗咬狗｜狗主鄙於守法　到底是誰之責？",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260819/1166551156017598464275310.jpeg/R6idkNf_oqy_OE1UqmxFRbn2LDqIE9Lnz-fRes_n0Xo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60381331/%E6%B2%B9%E5%B0%96%E6%97%BA%E5%9C%98%E9%AB%94%E9%80%81%E9%98%B2%E7%85%99%E9%9D%A2%E7%BD%A9%E5%8F%8A%E6%8B%96%E6%8A%8A-%E9%80%BE5000%E6%88%B6%E5%9F%BA%E5%B1%A4%E5%AE%B6%E5%BA%AD%E5%8F%97%E6%83%A0",
     "timestamp": "2026-08-18T17:18:09.529Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "最新天氣｜天文台發出強烈季候風信號　預料陣風風力間中達8級",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260818/1166191360957485056294670.jpeg/SPtZ1DBGmzSg1oR3giYfukdzJEiOpxY5E9wVBRPcFQU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60380665/%E6%9C%80%E6%96%B0%E5%A4%A9%E6%B0%A3-%E5%A4%A9%E6%96%87%E5%8F%B0%E7%99%BC%E5%87%BA%E5%BC%B7%E7%83%88%E5%AD%A3%E5%80%99%E9%A2%A8%E4%BF%A1%E8%99%9F-%E9%A0%90%E6%96%99%E9%99%A3%E9%A2%A8%E9%A2%A8%E5%8A%9B%E9%96%93%E4%B8%AD%E9%81%948%E7%B4%9A",
-    "timestamp": "2026-08-18T17:04:43.379Z",
     "strategy": ".content-card__main"
   }
 ];
