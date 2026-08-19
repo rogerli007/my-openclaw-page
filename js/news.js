@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-19T20:30:24.930Z
+// Last updated: 2026-08-19T21:58:36.413Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美國債務突破40萬億美元　特朗普拜登任內合增近20萬億",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260818/1166382025192509440025461.jpeg/-dvTwbHzBkgR4bY2fsFoFJDr8u3N5pKt7Ml4gOzJeIA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60381760/%E7%BE%8E%E5%9C%8B%E5%82%B5%E5%8B%99%E7%AA%81%E7%A0%B440%E8%90%AC%E5%84%84%E7%BE%8E%E5%85%83-%E7%89%B9%E6%9C%97%E6%99%AE%E6%8B%9C%E7%99%BB%E4%BB%BB%E5%85%A7%E5%90%88%E5%A2%9E%E8%BF%9120%E8%90%AC%E5%84%84",
+    "timestamp": "2026-08-19T21:58:36.413Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "粉嶺黑排仔村36歲男遇襲　5男賊持鐵通圍毆　盜走$30萬勞力士名錶",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260819/1166801842340892672103245.jpeg/X7oJHaRHe7oTLaVZ6GW_d-jzVB2aEs6m55KkRueSpEY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60381627/%E8%B6%99%E5%AD%B8%E8%80%8C%E5%88%86%E4%BA%AB%E7%96%91%E9%81%87-%E8%AD%B7%E8%86%9A%E9%BB%91%E5%BA%97-%E7%94%A9%E8%BA%AB%E7%B6%93%E6%AD%B7-%E9%81%AD%E7%B6%B2%E6%B0%91%E8%AA%A4%E6%9C%83%E5%B9%AB%E5%AE%A3%E5%82%B3%E5%A7%94%E5%B1%88%E5%88%AA%E5%B8%96",
     "timestamp": "2026-08-19T14:18:44.132Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "郵政改合約制｜過試用期不獲轉長期聘用　員工批評事前無協商",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260818/1166382909712502784984256.jpeg/lQt6sShaHV4Zs7KULUDVV7BlLfBF4oOfJIX8tySF_Lc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60381701/%E9%83%B5%E6%94%BF%E6%94%B9%E5%90%88%E7%B4%84%E5%88%B6-%E9%81%8E%E8%A9%A6%E7%94%A8%E6%9C%9F%E4%B8%8D%E7%8D%B2%E8%BD%89%E9%95%B7%E6%9C%9F%E8%81%98%E7%94%A8-%E5%93%A1%E5%B7%A5%E6%89%B9%E8%A9%95%E4%BA%8B%E5%89%8D%E7%84%A1%E5%8D%94%E5%95%86",
-    "timestamp": "2026-08-19T13:51:59.807Z",
     "strategy": ".content-card__main"
   }
 ];
