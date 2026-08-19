@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-19T17:59:22.454Z
+// Last updated: 2026-08-19T18:14:48.762Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "旺角海賊王遊戲卡店接受訂貨疑走數　44人損失$147萬　3人被捕",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260820/1166928665791959040706298.jpeg/YtZmTH5xQoTMr97VBDFlL7VzO4lZ60adP_eJRD_3iUQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60381749/%E6%97%BA%E8%A7%92%E6%B5%B7%E8%B3%8A%E7%8E%8B%E9%81%8A%E6%88%B2%E5%8D%A1%E5%BA%97%E6%8E%A5%E5%8F%97%E8%A8%82%E8%B2%A8%E7%96%91%E8%B5%B0%E6%95%B8-44%E4%BA%BA%E6%90%8D%E5%A4%B1-147%E8%90%AC-3%E4%BA%BA%E8%A2%AB%E6%8D%95",
+    "timestamp": "2026-08-19T18:14:48.762Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "歐洲熱浪｜法國今夏已經歷52天熱浪　創近80年紀錄",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260806/1162018147855765504831506.jpeg/M_T2gXpxnEd0gKuYYfkbv-3f8nS_4yYI6c_Ta-nP02s?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60293605/%E7%A7%A6%E5%A7%8B%E7%9A%87%E5%9C%A8%E4%BD%8D37%E5%B9%B4%E7%82%BA%E4%BD%95%E5%BE%9E%E6%B2%92%E7%AB%8B%E7%9A%87%E5%90%8E-%E6%AF%8D%E8%A6%AA%E8%B6%99%E5%A7%AC%E7%9A%84%E8%A1%8C%E7%82%BA%E5%BD%B1%E9%9F%BF%E4%BB%96%E5%B0%8D%E5%A5%B3%E4%BA%BA%E7%9C%8B%E6%B3%95",
     "timestamp": "2026-08-19T11:34:25.561Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "OPATRA London涉違商品說明條例　海關拘兩人　今晚交代案情",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260818/1166454050057621504246581.jpeg/yw_gmzOxGNu3WV_f1pWFyvApOP1C8TQl8xQMXdYUDF0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60381695/opatra-london%E6%B6%89%E9%81%95%E5%95%86%E5%93%81%E8%AA%AA%E6%98%8E%E6%A2%9D%E4%BE%8B-%E6%B5%B7%E9%97%9C%E6%8B%98%E5%85%A9%E4%BA%BA-%E4%BB%8A%E6%99%9A%E4%BA%A4%E4%BB%A3%E6%A1%88%E6%83%85",
-    "timestamp": "2026-08-19T11:13:03.113Z",
     "strategy": ".content-card__main"
   }
 ];
