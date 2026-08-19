@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-19T23:43:45.506Z
+// Last updated: 2026-08-19T23:59:29.337Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "大馬17歲女嚮導遭中國男騙回家　6小時性侵5次　踩外牆冷氣機逃走",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260819/1166786395801391104306491.png/r6gGBCnFz_klvSPqhGakNdVN04sMVrsW3Cnr5dwp6-U?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60380953/%E5%A4%A7%E9%A6%AC17%E6%AD%B2%E5%A5%B3%E5%9A%AE%E5%B0%8E%E9%81%AD%E4%B8%AD%E5%9C%8B%E7%94%B7%E9%A8%99%E5%9B%9E%E5%AE%B6-6%E5%B0%8F%E6%99%82%E6%80%A7%E4%BE%B55%E6%AC%A1-%E8%B8%A9%E5%A4%96%E7%89%86%E5%86%B7%E6%B0%A3%E6%A9%9F%E9%80%83%E8%B5%B0",
+    "timestamp": "2026-08-19T23:59:29.337Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "大馬17歲女嚮導遭中國男騙回家　6小時性侵5次　踩外牆冷氣機逃走",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20230823/770993489759440896569027.jpeg/isN-GRHi6Pnqmg48VH6dEAP8uslI7VI-5zrZx-c62cc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60381327/%E6%BA%8F%E5%BF%83%E8%9B%8B%E9%A3%9F%E8%AD%9C%E5%81%9A%E6%B3%95-%E4%B8%8D%E5%A4%B1%E6%95%978%E7%A7%98%E8%A8%A3%E5%86%B7%E6%88%96%E7%86%B1%E6%B0%B4%E4%B8%8B%E9%8D%8B%E7%85%AE-%E9%86%AC%E6%B1%81%E5%8A%A01%E9%A3%B2%E5%93%81%E6%9B%B4%E7%94%98%E7%94%9C",
     "timestamp": "2026-08-19T17:02:52.400Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "咖喱雞食譜｜做法簡易零失敗、香濃惹味雞肉嫩滑有秘訣",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260820/1166902447323484160870294.png/oHfBwuMrb0RHArN123ApUs2RQOv4237HGsvu0hrL7tI",
-    "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60381741/%E5%92%96%E5%96%B1%E9%9B%9E%E9%A3%9F%E8%AD%9C-%E5%81%9A%E6%B3%95%E7%B0%A1%E6%98%93%E9%9B%B6%E5%A4%B1%E6%95%97-%E9%A6%99%E6%BF%83%E6%83%B9%E5%91%B3%E9%9B%9E%E8%82%89%E5%AB%A9%E6%BB%91%E6%9C%89%E7%A7%98%E8%A8%A3",
-    "timestamp": "2026-08-19T16:48:29.488Z",
     "strategy": ".content-card__main"
   }
 ];
