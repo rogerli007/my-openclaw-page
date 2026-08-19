@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-19T03:36:01.661Z
+// Last updated: 2026-08-19T04:05:50.193Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "愛美AIMI演唱會2026香港｜門票攻略＋購票連結＋座位表",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260819/1166711915653632000967802.jpeg/R6G5rEjiiUE20b-ToWLVGZ2VElO1lTFECDDnkwgw55M?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60381432/%E6%84%9B%E7%BE%8Eaimi%E6%BC%94%E5%94%B1%E6%9C%832026%E9%A6%99%E6%B8%AF-%E9%96%80%E7%A5%A8%E6%94%BB%E7%95%A5-%E8%B3%BC%E7%A5%A8%E9%80%A3%E7%B5%90-%E5%BA%A7%E4%BD%8D%E8%A1%A8",
+    "timestamp": "2026-08-19T04:05:50.193Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "全港第三細新盤！何文田單幢納米盤泓璟涉91伙　最細僅130呎",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260819/1166567927873277952104928.jpeg/bJPT-rW5Xe1iYXuw243D2ftxz6qSW9EqkU-GOJFPhjg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60381338/%E8%B7%A8%E9%83%A8%E9%96%80%E5%A4%A7%E5%9F%94%E5%8F%8A%E4%B8%8A%E6%B0%B4%E6%8E%83%E9%BB%83-9%E5%A5%B3%E8%A2%AB%E6%8D%95",
     "timestamp": "2026-08-18T18:15:18.111Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "中電全電智能煮食廚藝賽　引入AI評審推動智慧餐飲發展",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260819/1166556874372681728423091.jpeg/ZnotqKA0S2d9ucofzmZqCMIb94W4QTCT8V6JtvFeibY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60381332/%E4%B8%AD%E9%9B%BB%E5%85%A8%E9%9B%BB%E6%99%BA%E8%83%BD%E7%85%AE%E9%A3%9F%E5%BB%9A%E8%97%9D%E8%B3%BD-%E5%BC%95%E5%85%A5ai%E8%A9%95%E5%AF%A9%E6%8E%A8%E5%8B%95%E6%99%BA%E6%85%A7%E9%A4%90%E9%A3%B2%E7%99%BC%E5%B1%95",
-    "timestamp": "2026-08-18T17:50:25.371Z",
     "strategy": ".content-card__main"
   }
 ];
