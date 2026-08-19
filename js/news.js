@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-19T13:51:59.807Z
+// Last updated: 2026-08-19T14:18:44.132Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "趙學而分享疑遇「護膚黑店」甩身經歷　遭網民誤會幫宣傳委屈刪帖",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260819/1166801842340892672103245.jpeg/X7oJHaRHe7oTLaVZ6GW_d-jzVB2aEs6m55KkRueSpEY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60381627/%E8%B6%99%E5%AD%B8%E8%80%8C%E5%88%86%E4%BA%AB%E7%96%91%E9%81%87-%E8%AD%B7%E8%86%9A%E9%BB%91%E5%BA%97-%E7%94%A9%E8%BA%AB%E7%B6%93%E6%AD%B7-%E9%81%AD%E7%B6%B2%E6%B0%91%E8%AA%A4%E6%9C%83%E5%B9%AB%E5%AE%A3%E5%82%B3%E5%A7%94%E5%B1%88%E5%88%AA%E5%B8%96",
+    "timestamp": "2026-08-19T14:18:44.132Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "郵政改合約制｜過試用期不獲轉長期聘用　員工批評事前無協商",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260819/1166749471577477120930567.jpeg/XQd_NrPEuYAvnTO3Mh_A8lfbgn8Mtrjf51MDRedTA0U?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60381496/%E9%9B%B2%E5%8D%97%E5%A4%A7%E5%AA%BD%E5%BC%B7%E6%8A%93%E9%BB%91%E5%A4%A9%E9%B5%9D%E9%A0%B8%E6%93%BA%E6%8B%8D-%E5%A4%A9%E9%B5%9D%E6%8E%99%E6%89%8E%E6%85%98%E5%8F%AB-%E8%B7%AF%E4%BA%BA%E6%80%92%E6%96%A5-%E5%A5%BD%E6%AE%98%E5%BF%8D",
     "timestamp": "2026-08-19T06:35:46.572Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "OPATRA London同營運海港城LUX BOUTIQUE　曾遭入稟追租79萬",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260816/1165696058387468288063851.jpeg/ffGqlFo_Ln5G7K0612I2MzBbHUW8vBkGX9L47V_S-O0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60381500/opatra-london%E5%90%8C%E7%87%9F%E9%81%8B%E6%B5%B7%E6%B8%AF%E5%9F%8Elux-boutique-%E6%9B%BE%E9%81%AD%E5%85%A5%E7%A8%9F%E8%BF%BD%E7%A7%9F79%E8%90%AC",
-    "timestamp": "2026-08-19T05:50:01.204Z",
     "strategy": ".content-card__main"
   }
 ];
