@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-19T10:34:40.764Z
+// Last updated: 2026-08-19T11:13:03.113Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "OPATRA London涉違商品說明條例　海關拘兩人　今晚交代案情",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260818/1166454050057621504246581.jpeg/yw_gmzOxGNu3WV_f1pWFyvApOP1C8TQl8xQMXdYUDF0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60381695/opatra-london%E6%B6%89%E9%81%95%E5%95%86%E5%93%81%E8%AA%AA%E6%98%8E%E6%A2%9D%E4%BE%8B-%E6%B5%B7%E9%97%9C%E6%8B%98%E5%85%A9%E4%BA%BA-%E4%BB%8A%E6%99%9A%E4%BA%A4%E4%BB%A3%E6%A1%88%E6%83%85",
+    "timestamp": "2026-08-19T11:13:03.113Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "特朗普「富豪治國」惹議　美國報告：現政府至少57名億萬富翁官員",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260819/1166647833743331328374021.jpeg/TuB7hqoNIJLmZqTl2llMfVe6bUh-IxPko_dHxqP3R8Y?v=w1920r16_9",
     "url": "https://www.hk01.com/01%E8%A7%80%E9%BB%9E/60381301/%E5%85%83%E6%9C%97%E7%8B%97%E5%92%AC%E7%8B%97-%E7%8B%97%E4%B8%BB%E9%84%99%E6%96%BC%E5%AE%88%E6%B3%95-%E5%88%B0%E5%BA%95%E6%98%AF%E8%AA%B0%E4%B9%8B%E8%B2%AC",
     "timestamp": "2026-08-18T23:59:45.895Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "元朗狗咬狗｜狗主鄙於守法　到底是誰之責？",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260819/1166647833743331328374021.jpeg/TuB7hqoNIJLmZqTl2llMfVe6bUh-IxPko_dHxqP3R8Y?v=w1920r16_9",
-    "url": "https://www.hk01.com/01%E8%A7%80%E9%BB%9E/60381301/%E5%85%83%E6%9C%97%E7%8B%97%E5%92%AC%E7%8B%97-%E7%8B%97%E4%B8%BB%E9%84%99%E6%96%BC%E5%AE%88%E6%B3%95-%E5%88%B0%E5%BA%95%E6%98%AF%E8%AA%B0%E4%B9%8B%E8%B2%AC",
-    "timestamp": "2026-08-18T23:43:56.192Z",
     "strategy": ".content-card__main"
   }
 ];
