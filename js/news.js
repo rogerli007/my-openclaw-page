@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-19T19:15:14.743Z
+// Last updated: 2026-08-19T19:45:11.454Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "粉嶺黑排仔村36歲男遇襲　5男賊持鐵通圍毆　盜走$30萬勞力士名錶",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260820/1166945934563610624180967.jpeg/CamMecEwUXykMc0nOTBjMXuVsBUxYLaxW0J2UWFCdlE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60381755/%E7%B2%89%E5%B6%BA%E9%BB%91%E6%8E%92%E4%BB%94%E6%9D%9136%E6%AD%B2%E7%94%B7%E9%81%87%E8%A5%B2-5%E7%94%B7%E8%B3%8A%E6%8C%81%E9%90%B5%E9%80%9A%E5%9C%8D%E6%AF%86-%E7%9B%9C%E8%B5%B0-30%E8%90%AC%E5%8B%9E%E5%8A%9B%E5%A3%AB%E5%90%8D%E9%8C%B6",
+    "timestamp": "2026-08-19T19:45:11.454Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "警旺角搗破地下竹館　檢6張麻雀桌和$1.8萬　11人被捕",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260819/1166843526495866880237589.png/6qQQYmtGBng6qemVpmmBTmwmw3jyINoCWuFjzVrhY80?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60381709/%E5%AF%B5%E7%89%A9%E7%A7%92%E8%AE%8A%E4%BA%8C%E4%BA%94%E4%BB%94-%E9%80%83%E7%8A%AF%E8%BA%B2%E9%96%A3%E6%A8%93-%E9%81%AD%E9%81%BA%E6%A3%84%E6%8B%89%E5%B8%83%E6%8B%89%E5%A4%9A%E5%B8%B6%E8%AD%A6%E4%B8%8A%E9%96%80%E7%B7%9D%E6%8B%BF%E4%B8%BB%E4%BA%BA",
     "timestamp": "2026-08-19T12:33:44.650Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "馬來西亞首相安華受訪強調台灣是中國一部份　北京表示讚賞",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260105/1084888779841343488126590.jpeg/1sVx0rUAkUZlFPWrTn4E3xHvg1FaxnlTitITzYrSE80?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60381700/%E9%A6%AC%E4%BE%86%E8%A5%BF%E4%BA%9E%E9%A6%96%E7%9B%B8%E5%AE%89%E8%8F%AF%E5%8F%97%E8%A8%AA%E5%BC%B7%E8%AA%BF%E5%8F%B0%E7%81%A3%E6%98%AF%E4%B8%AD%E5%9C%8B%E4%B8%80%E9%83%A8%E4%BB%BD-%E5%8C%97%E4%BA%AC%E8%A1%A8%E7%A4%BA%E8%AE%9A%E8%B3%9E",
-    "timestamp": "2026-08-19T12:15:47.446Z",
     "strategy": ".content-card__main"
   }
 ];
