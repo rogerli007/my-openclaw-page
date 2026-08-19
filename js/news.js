@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-19T22:29:47.403Z
+// Last updated: 2026-08-19T22:45:18.087Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "肯尼亞直升機墜毀7人身亡　死者包括厄瓜多爾情報首長與NBC記者",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260820/1166991598458769408021674.jpeg/71b1a9Q3iZXQibtApaCBX2i4DwEh4cPQtg0x6bYNMek?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60381764/%E8%82%AF%E5%B0%BC%E4%BA%9E%E7%9B%B4%E5%8D%87%E6%A9%9F%E5%A2%9C%E6%AF%807%E4%BA%BA%E8%BA%AB%E4%BA%A1-%E6%AD%BB%E8%80%85%E5%8C%85%E6%8B%AC%E5%8E%84%E7%93%9C%E5%A4%9A%E7%88%BE%E6%83%85%E5%A0%B1%E9%A6%96%E9%95%B7%E8%88%87nbc%E8%A8%98%E8%80%85",
+    "timestamp": "2026-08-19T22:45:18.087Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "葵涌貨車「自炒」掃欄　司機無受傷一度被困車內　報稱避黑貓肇禍",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/3222718/org/86ca790b9678f13fcc586f507e0cbdab.jpg/U9Mp9W5oVy6hFY-hS2sRxgjvhLJrw1esjPVAuoz1QLo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60381735/%E7%BE%8E%E5%9C%8B%E8%B2%A1%E6%94%BF%E9%83%A8%E7%AA%81%E5%87%BA%E6%89%8B-%E9%95%B7%E5%82%B5%E5%9B%9E%E8%B3%BC%E8%A6%8F%E6%A8%A1%E7%BF%BB%E5%80%8D-%E5%82%B5%E6%81%AF%E6%80%A5%E5%9B%9E-%E9%87%91%E5%83%B9%E5%BD%88%E5%8D%87",
     "timestamp": "2026-08-19T15:18:00.014Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "網球｜澳洲「壞孩子」基域奧斯可卡因檢測呈陽性　道歉承認犯大錯",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260819/1166871684737667072786325.jpeg/cr38yBEp4t6LuAno39auZrUCLiW8j1oH7aRvHu2kbx4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60381724/%E7%B6%B2%E7%90%83-%E6%BE%B3%E6%B4%B2-%E5%A3%9E%E5%AD%A9%E5%AD%90-%E5%9F%BA%E5%9F%9F%E5%A5%A7%E6%96%AF%E5%8F%AF%E5%8D%A1%E5%9B%A0%E6%AA%A2%E6%B8%AC%E5%91%88%E9%99%BD%E6%80%A7-%E9%81%93%E6%AD%89%E6%89%BF%E8%AA%8D%E7%8A%AF%E5%A4%A7%E9%8C%AF",
-    "timestamp": "2026-08-19T14:36:17.609Z",
     "strategy": ".content-card__main"
   }
 ];
