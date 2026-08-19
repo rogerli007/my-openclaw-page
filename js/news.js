@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-19T23:12:46.491Z
+// Last updated: 2026-08-19T23:33:01.502Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "大馬17歲女嚮導遭中國男騙回家　6小時性侵5次　踩外牆冷氣機逃走",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260819/1166786395801391104306491.png/r6gGBCnFz_klvSPqhGakNdVN04sMVrsW3Cnr5dwp6-U?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60380953/%E5%A4%A7%E9%A6%AC17%E6%AD%B2%E5%A5%B3%E5%9A%AE%E5%B0%8E%E9%81%AD%E4%B8%AD%E5%9C%8B%E7%94%B7%E9%A8%99%E5%9B%9E%E5%AE%B6-6%E5%B0%8F%E6%99%82%E6%80%A7%E4%BE%B55%E6%AC%A1-%E8%B8%A9%E5%A4%96%E7%89%86%E5%86%B7%E6%B0%A3%E6%A9%9F%E9%80%83%E8%B5%B0",
+    "timestamp": "2026-08-19T23:33:01.502Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "越南Fun Coffee騙局｜港警：截至8月19日接286報案　損失$1.18億",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260820/1166902447323484160870294.png/oHfBwuMrb0RHArN123ApUs2RQOv4237HGsvu0hrL7tI",
     "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60381741/%E5%92%96%E5%96%B1%E9%9B%9E%E9%A3%9F%E8%AD%9C-%E5%81%9A%E6%B3%95%E7%B0%A1%E6%98%93%E9%9B%B6%E5%A4%B1%E6%95%97-%E9%A6%99%E6%BF%83%E6%83%B9%E5%91%B3%E9%9B%9E%E8%82%89%E5%AB%A9%E6%BB%91%E6%9C%89%E7%A7%98%E8%A8%A3",
     "timestamp": "2026-08-19T16:30:48.061Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "豉油雞食譜｜做法簡易皮爽肉嫩汁撈飯一流、剪雞擺盤零難度",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260820/1166899687534366720648509.jpeg/OhLeGWCtBLZA8s5xIm5lf-7LbmP_4yZiacsyu2nLMrs",
-    "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60381740/%E8%B1%89%E6%B2%B9%E9%9B%9E%E9%A3%9F%E8%AD%9C-%E5%81%9A%E6%B3%95%E7%B0%A1%E6%98%93%E7%9A%AE%E7%88%BD%E8%82%89%E5%AB%A9%E6%B1%81%E6%92%88%E9%A3%AF%E4%B8%80%E6%B5%81-%E5%89%AA%E9%9B%9E%E6%93%BA%E7%9B%A4%E9%9B%B6%E9%9B%A3%E5%BA%A6",
-    "timestamp": "2026-08-19T16:13:52.503Z",
     "strategy": ".content-card__main"
   }
 ];
