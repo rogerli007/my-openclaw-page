@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-19T05:32:33.389Z
+// Last updated: 2026-08-19T05:50:01.204Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "OPATRA London同營運海港城LUX BOUTIQUE　曾遭入稟追租79萬",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260816/1165696058387468288063851.jpeg/ffGqlFo_Ln5G7K0612I2MzBbHUW8vBkGX9L47V_S-O0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60381500/opatra-london%E5%90%8C%E7%87%9F%E9%81%8B%E6%B5%B7%E6%B8%AF%E5%9F%8Elux-boutique-%E6%9B%BE%E9%81%AD%E5%85%A5%E7%A8%9F%E8%BF%BD%E7%A7%9F79%E8%90%AC",
+    "timestamp": "2026-08-19T05:50:01.204Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "MSI Prestige14 Flip AI+梵高特別版電腦節限量發售！2合1 AI筆電",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20251125/1069932162070876160938076.jpeg/06u_ujN6kMpCnIQpF3QDg7SrLaYjagXXg6ra_4Oq2v8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60381340/%E9%9F%93%E5%AA%92-%E7%BE%8E%E9%9F%93%E5%B9%B4%E5%BA%A6%E8%81%AF%E5%90%88%E8%BB%8D%E6%BC%94%E6%99%82%E9%96%93%E6%B8%9B%E5%8D%8A-%E5%BE%8C%E5%8D%8A%E6%AE%B5%E5%8F%8D%E6%93%8A%E4%BD%9C%E6%88%B0%E8%A8%93%E7%B7%B4%E5%8F%96%E6%B6%88",
     "timestamp": "2026-08-18T19:59:42.584Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "韓媒：美韓年度聯合軍演時間減半　後半段反擊作戰訓練取消",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20251125/1069932162070876160938076.jpeg/06u_ujN6kMpCnIQpF3QDg7SrLaYjagXXg6ra_4Oq2v8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60381340/%E9%9F%93%E5%AA%92-%E7%BE%8E%E9%9F%93%E5%B9%B4%E5%BA%A6%E8%81%AF%E5%90%88%E8%BB%8D%E6%BC%94%E6%99%82%E9%96%93%E6%B8%9B%E5%8D%8A-%E5%BE%8C%E5%8D%8A%E6%AE%B5%E5%8F%8D%E6%93%8A%E4%BD%9C%E6%88%B0%E8%A8%93%E7%B7%B4%E5%8F%96%E6%B6%88",
-    "timestamp": "2026-08-18T19:48:33.772Z",
     "strategy": ".content-card__main"
   }
 ];
