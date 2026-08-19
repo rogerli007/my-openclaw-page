@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-19T16:48:29.488Z
+// Last updated: 2026-08-19T17:02:52.400Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "溏心蛋食譜做法｜不失敗8秘訣冷或熱水下鍋煮？醬汁加1飲品更甘甜",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20230823/770993489759440896569027.jpeg/isN-GRHi6Pnqmg48VH6dEAP8uslI7VI-5zrZx-c62cc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60381327/%E6%BA%8F%E5%BF%83%E8%9B%8B%E9%A3%9F%E8%AD%9C%E5%81%9A%E6%B3%95-%E4%B8%8D%E5%A4%B1%E6%95%978%E7%A7%98%E8%A8%A3%E5%86%B7%E6%88%96%E7%86%B1%E6%B0%B4%E4%B8%8B%E9%8D%8B%E7%85%AE-%E9%86%AC%E6%B1%81%E5%8A%A01%E9%A3%B2%E5%93%81%E6%9B%B4%E7%94%98%E7%94%9C",
+    "timestamp": "2026-08-19T17:02:52.400Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "咖喱雞食譜｜做法簡易零失敗、香濃惹味雞肉嫩滑有秘訣",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260819/1166803942256939008604738.jpeg/sacGZtnpYizvhs7M-0ga4mLBU8sS60_KrBHjFKwR4xQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60381661/%E5%8D%A1%E5%A1%94%E7%88%BE%E8%88%AA%E7%A9%BA%E8%B2%A8%E9%81%8B%E5%8D%80%E5%9F%9F%E8%BE%A6%E4%BA%8B%E8%99%95%E8%90%BD%E6%88%B6%E9%A6%99%E6%B8%AF-%E8%88%87%E6%A9%9F%E7%AE%A1%E5%B1%80%E7%B0%BD%E5%90%88%E4%BD%9C%E5%82%99%E5%BF%98%E9%8C%84",
     "timestamp": "2026-08-19T10:04:39.056Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "8月愛情韓劇│《好 離婚吧》揭婚姻假面　李珉廷金知碩不敵7年之癢",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260819/1166788980658671616243980.jpeg/5XSXSy7OkWq-HG30mHMVwI5sxbGGomgtrsJBNa7CQTU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60381615/8%E6%9C%88%E6%84%9B%E6%83%85%E9%9F%93%E5%8A%87-%E5%A5%BD-%E9%9B%A2%E5%A9%9A%E5%90%A7-%E6%8F%AD%E5%A9%9A%E5%A7%BB%E5%81%87%E9%9D%A2-%E6%9D%8E%E7%8F%89%E5%BB%B7%E9%87%91%E7%9F%A5%E7%A2%A9%E4%B8%8D%E6%95%B57%E5%B9%B4%E4%B9%8B%E7%99%A2",
-    "timestamp": "2026-08-19T09:49:45.730Z",
     "strategy": ".content-card__main"
   }
 ];
