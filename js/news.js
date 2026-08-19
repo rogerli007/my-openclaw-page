@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-19T16:30:48.061Z
+// Last updated: 2026-08-19T16:48:29.488Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "咖喱雞食譜｜做法簡易零失敗、香濃惹味雞肉嫩滑有秘訣",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260820/1166902447323484160870294.png/oHfBwuMrb0RHArN123ApUs2RQOv4237HGsvu0hrL7tI",
+    "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60381741/%E5%92%96%E5%96%B1%E9%9B%9E%E9%A3%9F%E8%AD%9C-%E5%81%9A%E6%B3%95%E7%B0%A1%E6%98%93%E9%9B%B6%E5%A4%B1%E6%95%97-%E9%A6%99%E6%BF%83%E6%83%B9%E5%91%B3%E9%9B%9E%E8%82%89%E5%AB%A9%E6%BB%91%E6%9C%89%E7%A7%98%E8%A8%A3",
+    "timestamp": "2026-08-19T16:48:29.488Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "咖喱雞食譜｜做法簡易零失敗、香濃惹味雞肉嫩滑有秘訣",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260819/1166788980658671616243980.jpeg/5XSXSy7OkWq-HG30mHMVwI5sxbGGomgtrsJBNa7CQTU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60381615/8%E6%9C%88%E6%84%9B%E6%83%85%E9%9F%93%E5%8A%87-%E5%A5%BD-%E9%9B%A2%E5%A9%9A%E5%90%A7-%E6%8F%AD%E5%A9%9A%E5%A7%BB%E5%81%87%E9%9D%A2-%E6%9D%8E%E7%8F%89%E5%BB%B7%E9%87%91%E7%9F%A5%E7%A2%A9%E4%B8%8D%E6%95%B57%E5%B9%B4%E4%B9%8B%E7%99%A2",
     "timestamp": "2026-08-19T09:49:45.730Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "烚蛋怎吃最美味？Threads爆紅紫菜包水煮蛋！免腥味1款紫菜才好吃",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260819/1166792657062596608208913.jpeg/xPt9l3dEE5MSR862vtFLULcQq7Np37ImIwrCnCMKwpw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60372374/%E7%83%9A%E8%9B%8B%E6%80%8E%E5%90%83%E6%9C%80%E7%BE%8E%E5%91%B3-threads%E7%88%86%E7%B4%85%E7%B4%AB%E8%8F%9C%E5%8C%85%E6%B0%B4%E7%85%AE%E8%9B%8B-%E5%85%8D%E8%85%A5%E5%91%B31%E6%AC%BE%E7%B4%AB%E8%8F%9C%E6%89%8D%E5%A5%BD%E5%90%83",
-    "timestamp": "2026-08-19T09:04:31.088Z",
     "strategy": ".content-card__main"
   }
 ];
