@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-19T14:18:44.132Z
+// Last updated: 2026-08-19T14:36:17.609Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "網球｜澳洲「壞孩子」基域奧斯可卡因檢測呈陽性　道歉承認犯大錯",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260819/1166871684737667072786325.jpeg/cr38yBEp4t6LuAno39auZrUCLiW8j1oH7aRvHu2kbx4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60381724/%E7%B6%B2%E7%90%83-%E6%BE%B3%E6%B4%B2-%E5%A3%9E%E5%AD%A9%E5%AD%90-%E5%9F%BA%E5%9F%9F%E5%A5%A7%E6%96%AF%E5%8F%AF%E5%8D%A1%E5%9B%A0%E6%AA%A2%E6%B8%AC%E5%91%88%E9%99%BD%E6%80%A7-%E9%81%93%E6%AD%89%E6%89%BF%E8%AA%8D%E7%8A%AF%E5%A4%A7%E9%8C%AF",
+    "timestamp": "2026-08-19T14:36:17.609Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "趙學而分享疑遇「護膚黑店」甩身經歷　遭網民誤會幫宣傳委屈刪帖",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260819/1166754809877893120203178.png/uMj_Y-u9Zjoegf2NUbmUoP0deXGEoUe0Xl4A4F5eAOA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%97%85%E9%81%8A/60378324/%E6%B7%B1%E5%9C%B3%E6%89%93%E5%8D%A1-%E4%B8%80%E9%A3%AF%E5%B0%81%E7%A5%9E-%E5%90%8C%E6%AC%BE%E7%BE%8E%E9%A3%9F-%E5%BF%85%E8%A9%A68%E9%81%93%E6%8B%9B%E7%89%8C%E8%8F%9C-%E9%AD%9A%E9%AE%AE%E4%BA%BA-%E6%8B%BF%E6%89%8B%E8%8F%9C",
     "timestamp": "2026-08-19T07:08:19.360Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "雲南大媽強抓黑天鵝頸擺拍　天鵝掙扎慘叫　路人怒斥：好殘忍",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260819/1166749471577477120930567.jpeg/XQd_NrPEuYAvnTO3Mh_A8lfbgn8Mtrjf51MDRedTA0U?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60381496/%E9%9B%B2%E5%8D%97%E5%A4%A7%E5%AA%BD%E5%BC%B7%E6%8A%93%E9%BB%91%E5%A4%A9%E9%B5%9D%E9%A0%B8%E6%93%BA%E6%8B%8D-%E5%A4%A9%E9%B5%9D%E6%8E%99%E6%89%8E%E6%85%98%E5%8F%AB-%E8%B7%AF%E4%BA%BA%E6%80%92%E6%96%A5-%E5%A5%BD%E6%AE%98%E5%BF%8D",
-    "timestamp": "2026-08-19T06:35:46.572Z",
     "strategy": ".content-card__main"
   }
 ];
