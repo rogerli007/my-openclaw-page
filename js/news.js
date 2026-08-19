@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-19T04:05:50.193Z
+// Last updated: 2026-08-19T04:52:13.230Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美媒：特朗普下令團隊停止對伊朗談判　改用長期遏制戰略拖垮對方",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260818/1166382025192509440025461.jpeg/-dvTwbHzBkgR4bY2fsFoFJDr8u3N5pKt7Ml4gOzJeIA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60381477/%E7%BE%8E%E5%AA%92-%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8B%E4%BB%A4%E5%9C%98%E9%9A%8A%E5%81%9C%E6%AD%A2%E5%B0%8D%E4%BC%8A%E6%9C%97%E8%AB%87%E5%88%A4-%E6%94%B9%E7%94%A8%E9%95%B7%E6%9C%9F%E9%81%8F%E5%88%B6%E6%88%B0%E7%95%A5%E6%8B%96%E5%9E%AE%E5%B0%8D%E6%96%B9",
+    "timestamp": "2026-08-19T04:52:13.230Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "愛美AIMI演唱會2026香港｜門票攻略＋購票連結＋座位表",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260819/1166567927873277952104928.jpeg/bJPT-rW5Xe1iYXuw243D2ftxz6qSW9EqkU-GOJFPhjg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60381338/%E8%B7%A8%E9%83%A8%E9%96%80%E5%A4%A7%E5%9F%94%E5%8F%8A%E4%B8%8A%E6%B0%B4%E6%8E%83%E9%BB%83-9%E5%A5%B3%E8%A2%AB%E6%8D%95",
     "timestamp": "2026-08-18T19:17:55.519Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "跨部門大埔及上水掃黃　9女被捕",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260819/1166567927873277952104928.jpeg/bJPT-rW5Xe1iYXuw243D2ftxz6qSW9EqkU-GOJFPhjg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60381338/%E8%B7%A8%E9%83%A8%E9%96%80%E5%A4%A7%E5%9F%94%E5%8F%8A%E4%B8%8A%E6%B0%B4%E6%8E%83%E9%BB%83-9%E5%A5%B3%E8%A2%AB%E6%8D%95",
-    "timestamp": "2026-08-18T18:15:18.111Z",
     "strategy": ".content-card__main"
   }
 ];
