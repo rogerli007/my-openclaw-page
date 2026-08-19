@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-19T18:14:48.762Z
+// Last updated: 2026-08-19T18:31:05.908Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "尖沙咀56歲女司機遇路障「吹爆波」　涉醉駕被捕",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260820/1166930969383407616240351.jpeg/afkWBisL5WJMngbXXEqqYnE0EAXKR-yRyFbfwPJW38A?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60381751/%E5%B0%96%E6%B2%99%E5%92%8056%E6%AD%B2%E5%A5%B3%E5%8F%B8%E6%A9%9F%E9%81%87%E8%B7%AF%E9%9A%9C-%E5%90%B9%E7%88%86%E6%B3%A2-%E6%B6%89%E9%86%89%E9%A7%95%E8%A2%AB%E6%8D%95",
+    "timestamp": "2026-08-19T18:31:05.908Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "旺角海賊王遊戲卡店接受訂貨疑走數　44人損失$147萬　3人被捕",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260716/1154481317539221504302879.jpeg/Ghsgau8cPkpzkn_-74xAxm2-tymm9JoBS8CiSEvAokg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%BE%8E%E5%AE%B9%E6%89%8B%E5%B8%B3/60370637/%E5%A4%8F%E5%A4%A9%E6%9A%97%E7%98%A1%E8%82%8C%E8%AD%B7%E8%86%9A%E6%8C%87%E5%8D%97-%E5%BF%85%E5%AD%B84%E5%A4%A7%E6%8E%A7%E6%B2%B9%E6%8A%97%E7%97%98%E5%8E%9F%E5%89%87-%E9%99%844%E6%AC%BE%E4%BF%9D%E9%A4%8A%E5%A5%BD%E7%89%A9%E6%8E%A8%E4%BB%8B",
     "timestamp": "2026-08-19T11:45:40.394Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "秦始皇在位37年為何從沒立皇后？母親趙姬的行為影響他對女人看法",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260806/1162018147855765504831506.jpeg/M_T2gXpxnEd0gKuYYfkbv-3f8nS_4yYI6c_Ta-nP02s?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60293605/%E7%A7%A6%E5%A7%8B%E7%9A%87%E5%9C%A8%E4%BD%8D37%E5%B9%B4%E7%82%BA%E4%BD%95%E5%BE%9E%E6%B2%92%E7%AB%8B%E7%9A%87%E5%90%8E-%E6%AF%8D%E8%A6%AA%E8%B6%99%E5%A7%AC%E7%9A%84%E8%A1%8C%E7%82%BA%E5%BD%B1%E9%9F%BF%E4%BB%96%E5%B0%8D%E5%A5%B3%E4%BA%BA%E7%9C%8B%E6%B3%95",
-    "timestamp": "2026-08-19T11:34:25.561Z",
     "strategy": ".content-card__main"
   }
 ];
