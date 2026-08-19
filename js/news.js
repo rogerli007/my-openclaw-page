@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-19T05:16:29.311Z
+// Last updated: 2026-08-19T05:32:33.389Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "MSI Prestige14 Flip AI+梵高特別版電腦節限量發售！2合1 AI筆電",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260819/1166737788125581312421796.jpeg/I8nJslvQXvcyxhGZPEayJSoGOeSqIdtCD6upcg-rqXI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60381501/msi-prestige14-flip-ai-%E6%A2%B5%E9%AB%98%E7%89%B9%E5%88%A5%E7%89%88%E9%9B%BB%E8%85%A6%E7%AF%80%E9%99%90%E9%87%8F%E7%99%BC%E5%94%AE-2%E5%90%881-ai%E7%AD%86%E9%9B%BB",
+    "timestamp": "2026-08-19T05:32:33.389Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "2026世界機器人大會北京開幕　廣東34家企業參展",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20251125/1069932162070876160938076.jpeg/06u_ujN6kMpCnIQpF3QDg7SrLaYjagXXg6ra_4Oq2v8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60381340/%E9%9F%93%E5%AA%92-%E7%BE%8E%E9%9F%93%E5%B9%B4%E5%BA%A6%E8%81%AF%E5%90%88%E8%BB%8D%E6%BC%94%E6%99%82%E9%96%93%E6%B8%9B%E5%8D%8A-%E5%BE%8C%E5%8D%8A%E6%AE%B5%E5%8F%8D%E6%93%8A%E4%BD%9C%E6%88%B0%E8%A8%93%E7%B7%B4%E5%8F%96%E6%B6%88",
     "timestamp": "2026-08-18T19:48:33.772Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "韓媒：美韓年度聯合軍演時間減半　後半段反擊作戰訓練取消",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20251125/1069932162070876160938076.jpeg/06u_ujN6kMpCnIQpF3QDg7SrLaYjagXXg6ra_4Oq2v8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60381340/%E9%9F%93%E5%AA%92-%E7%BE%8E%E9%9F%93%E5%B9%B4%E5%BA%A6%E8%81%AF%E5%90%88%E8%BB%8D%E6%BC%94%E6%99%82%E9%96%93%E6%B8%9B%E5%8D%8A-%E5%BE%8C%E5%8D%8A%E6%AE%B5%E5%8F%8D%E6%93%8A%E4%BD%9C%E6%88%B0%E8%A8%93%E7%B7%B4%E5%8F%96%E6%B6%88",
-    "timestamp": "2026-08-18T19:34:06.645Z",
     "strategy": ".content-card__main"
   }
 ];
