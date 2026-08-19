@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-19T08:23:02.222Z
+// Last updated: 2026-08-19T08:36:15.527Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "內地樓市進入「存量時代」　今年1-7月開發投資大跌19.2%",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20210913/514028769418153984519024.jpeg/J8J6w3uJGPo3RqIoiHe7-qwDA9XPJ4jsxIWzysSFs8o?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60381602/%E5%85%A7%E5%9C%B0%E6%A8%93%E5%B8%82%E9%80%B2%E5%85%A5-%E5%AD%98%E9%87%8F%E6%99%82%E4%BB%A3-%E4%BB%8A%E5%B9%B41-7%E6%9C%88%E9%96%8B%E7%99%BC%E6%8A%95%E8%B3%87%E5%A4%A7%E8%B7%8C19-2",
+    "timestamp": "2026-08-19T08:36:15.527Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "觀塘翠屏道撞斃過路婦　小巴司機認不小心駕駛　判社服令200小時",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20241214/944618747103023104047216.jpeg/n3uNm99j5NjB6rKRyITaL8tqZ7jz55QUcpDDmHKQw5g?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60381346/%E8%8B%B1%E5%9C%8B%E6%B2%99%E9%96%80%E6%B0%8F%E8%8F%8C%E7%96%AB%E6%83%85%E8%87%B3%E5%B0%911%E6%AD%BB-%E6%88%96%E6%B6%89%E5%A4%96%E5%9C%8B%E9%80%B2%E5%8F%A3%E9%9B%9E%E8%9B%8B",
     "timestamp": "2026-08-18T21:57:05.046Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "英國沙門氏菌疫情至少1死　或涉外國進口雞蛋",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20241214/944618747103023104047216.jpeg/n3uNm99j5NjB6rKRyITaL8tqZ7jz55QUcpDDmHKQw5g?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60381346/%E8%8B%B1%E5%9C%8B%E6%B2%99%E9%96%80%E6%B0%8F%E8%8F%8C%E7%96%AB%E6%83%85%E8%87%B3%E5%B0%911%E6%AD%BB-%E6%88%96%E6%B6%89%E5%A4%96%E5%9C%8B%E9%80%B2%E5%8F%A3%E9%9B%9E%E8%9B%8B",
-    "timestamp": "2026-08-18T21:46:18.619Z",
     "strategy": ".content-card__main"
   }
 ];
