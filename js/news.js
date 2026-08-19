@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-19T08:36:15.527Z
+// Last updated: 2026-08-19T09:04:31.088Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "烚蛋怎吃最美味？Threads爆紅紫菜包水煮蛋！免腥味1款紫菜才好吃",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260819/1166792657062596608208913.jpeg/xPt9l3dEE5MSR862vtFLULcQq7Np37ImIwrCnCMKwpw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60372374/%E7%83%9A%E8%9B%8B%E6%80%8E%E5%90%83%E6%9C%80%E7%BE%8E%E5%91%B3-threads%E7%88%86%E7%B4%85%E7%B4%AB%E8%8F%9C%E5%8C%85%E6%B0%B4%E7%85%AE%E8%9B%8B-%E5%85%8D%E8%85%A5%E5%91%B31%E6%AC%BE%E7%B4%AB%E8%8F%9C%E6%89%8D%E5%A5%BD%E5%90%83",
+    "timestamp": "2026-08-19T09:04:31.088Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "內地樓市進入「存量時代」　今年1-7月開發投資大跌19.2%",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20241214/944618747103023104047216.jpeg/n3uNm99j5NjB6rKRyITaL8tqZ7jz55QUcpDDmHKQw5g?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60381346/%E8%8B%B1%E5%9C%8B%E6%B2%99%E9%96%80%E6%B0%8F%E8%8F%8C%E7%96%AB%E6%83%85%E8%87%B3%E5%B0%911%E6%AD%BB-%E6%88%96%E6%B6%89%E5%A4%96%E5%9C%8B%E9%80%B2%E5%8F%A3%E9%9B%9E%E8%9B%8B",
     "timestamp": "2026-08-18T22:11:47.318Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "英國沙門氏菌疫情至少1死　或涉外國進口雞蛋",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20241214/944618747103023104047216.jpeg/n3uNm99j5NjB6rKRyITaL8tqZ7jz55QUcpDDmHKQw5g?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60381346/%E8%8B%B1%E5%9C%8B%E6%B2%99%E9%96%80%E6%B0%8F%E8%8F%8C%E7%96%AB%E6%83%85%E8%87%B3%E5%B0%911%E6%AD%BB-%E6%88%96%E6%B6%89%E5%A4%96%E5%9C%8B%E9%80%B2%E5%8F%A3%E9%9B%9E%E8%9B%8B",
-    "timestamp": "2026-08-18T21:57:05.046Z",
     "strategy": ".content-card__main"
   }
 ];
