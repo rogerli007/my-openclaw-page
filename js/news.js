@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-19T15:35:33.908Z
+// Last updated: 2026-08-19T16:13:52.503Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "豉油雞食譜｜做法簡易皮爽肉嫩汁撈飯一流、剪雞擺盤零難度",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260820/1166899687534366720648509.jpeg/OhLeGWCtBLZA8s5xIm5lf-7LbmP_4yZiacsyu2nLMrs",
+    "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60381740/%E8%B1%89%E6%B2%B9%E9%9B%9E%E9%A3%9F%E8%AD%9C-%E5%81%9A%E6%B3%95%E7%B0%A1%E6%98%93%E7%9A%AE%E7%88%BD%E8%82%89%E5%AB%A9%E6%B1%81%E6%92%88%E9%A3%AF%E4%B8%80%E6%B5%81-%E5%89%AA%E9%9B%9E%E6%93%BA%E7%9B%A4%E9%9B%B6%E9%9B%A3%E5%BA%A6",
+    "timestamp": "2026-08-19T16:13:52.503Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "張家輝阮經天合作《周處除三害》導演新作　吉隆坡拍戲火藥味十足",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20210913/514028769418153984519024.jpeg/J8J6w3uJGPo3RqIoiHe7-qwDA9XPJ4jsxIWzysSFs8o?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60381602/%E5%85%A7%E5%9C%B0%E6%A8%93%E5%B8%82%E9%80%B2%E5%85%A5-%E5%AD%98%E9%87%8F%E6%99%82%E4%BB%A3-%E4%BB%8A%E5%B9%B41-7%E6%9C%88%E9%96%8B%E7%99%BC%E6%8A%95%E8%B3%87%E5%A4%A7%E8%B7%8C19-2",
     "timestamp": "2026-08-19T08:36:15.527Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "觀塘翠屏道撞斃過路婦　小巴司機認不小心駕駛　判社服令200小時",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250921/1046515019237298176375496.jpeg/NgVY845VF7h1CwnWDEDpjiZFs1i8bManF7txIQG7cSE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60381605/%E8%A7%80%E5%A1%98%E7%BF%A0%E5%B1%8F%E9%81%93%E6%92%9E%E6%96%83%E9%81%8E%E8%B7%AF%E5%A9%A6-%E5%B0%8F%E5%B7%B4%E5%8F%B8%E6%A9%9F%E8%AA%8D%E4%B8%8D%E5%B0%8F%E5%BF%83%E9%A7%95%E9%A7%9B-%E5%88%A4%E7%A4%BE%E6%9C%8D%E4%BB%A4200%E5%B0%8F%E6%99%82",
-    "timestamp": "2026-08-19T08:23:02.222Z",
     "strategy": ".content-card__main"
   }
 ];
