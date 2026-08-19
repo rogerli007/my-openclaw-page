@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-19T12:57:14.289Z
+// Last updated: 2026-08-19T13:25:17.967Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "貪色惹禍！日男誤認長髮男為美女搭訕　飲下藥香檳昏迷被盜錢財",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260818/1166452767040999424986503.png/4vv9803LVzDjwJ_3dnpJW1uJaMbYBbkiLFLvPixS7z4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60380069/%E8%B2%AA%E8%89%B2%E6%83%B9%E7%A6%8D-%E6%97%A5%E7%94%B7%E8%AA%A4%E8%AA%8D%E9%95%B7%E9%AB%AE%E7%94%B7%E7%82%BA%E7%BE%8E%E5%A5%B3%E6%90%AD%E8%A8%95-%E9%A3%B2%E4%B8%8B%E8%97%A5%E9%A6%99%E6%AA%B3%E6%98%8F%E8%BF%B7%E8%A2%AB%E7%9B%9C%E9%8C%A2%E8%B2%A1",
+    "timestamp": "2026-08-19T13:25:17.967Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "羽毛球世錦賽︱洪魁駿呂俊瑋力拚印尼種子組合　港隊男雙一度追平",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260819/1166737788125581312421796.jpeg/I8nJslvQXvcyxhGZPEayJSoGOeSqIdtCD6upcg-rqXI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60381501/msi-prestige14-flip-ai-%E6%A2%B5%E9%AB%98%E7%89%B9%E5%88%A5%E7%89%88%E9%9B%BB%E8%85%A6%E7%AF%80%E9%99%90%E9%87%8F%E7%99%BC%E5%94%AE-2%E5%90%881-ai%E7%AD%86%E9%9B%BB",
     "timestamp": "2026-08-19T05:32:33.389Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "2026世界機器人大會北京開幕　廣東34家企業參展",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260819/1166726875339296768439187.png/lDVrqn-PqR9fRa23ZjgJW3VR_CODXpLTj8zduY_M3bk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60381481/2026%E4%B8%96%E7%95%8C%E6%A9%9F%E5%99%A8%E4%BA%BA%E5%A4%A7%E6%9C%83%E5%8C%97%E4%BA%AC%E9%96%8B%E5%B9%95-%E5%BB%A3%E6%9D%B134%E5%AE%B6%E4%BC%81%E6%A5%AD%E5%8F%83%E5%B1%95",
-    "timestamp": "2026-08-19T05:16:29.311Z",
     "strategy": ".content-card__main"
   }
 ];
