@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-19T09:04:31.088Z
+// Last updated: 2026-08-19T09:49:45.730Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "8月愛情韓劇│《好 離婚吧》揭婚姻假面　李珉廷金知碩不敵7年之癢",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260819/1166788980658671616243980.jpeg/5XSXSy7OkWq-HG30mHMVwI5sxbGGomgtrsJBNa7CQTU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60381615/8%E6%9C%88%E6%84%9B%E6%83%85%E9%9F%93%E5%8A%87-%E5%A5%BD-%E9%9B%A2%E5%A9%9A%E5%90%A7-%E6%8F%AD%E5%A9%9A%E5%A7%BB%E5%81%87%E9%9D%A2-%E6%9D%8E%E7%8F%89%E5%BB%B7%E9%87%91%E7%9F%A5%E7%A2%A9%E4%B8%8D%E6%95%B57%E5%B9%B4%E4%B9%8B%E7%99%A2",
+    "timestamp": "2026-08-19T09:49:45.730Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "烚蛋怎吃最美味？Threads爆紅紫菜包水煮蛋！免腥味1款紫菜才好吃",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260818/1166499138683015168179462.jpeg/eNkjBWNBxMewQOgRbLuICuIemL-PwS3knQMEJ50DBCc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60381094/%E9%99%B3%E9%8D%B5%E9%8B%92%E7%8D%B2icf%E5%9C%8B%E9%9A%9B%E6%95%99%E7%B7%B4%E8%AA%8D%E8%AD%89-%E6%B7%A1%E5%87%BA%E5%B9%95%E5%89%8D%E7%A9%8D%E6%A5%B5%E5%A2%9E%E5%80%BC%E6%93%81%E5%A4%9A%E9%A0%85%E8%AD%89%E6%9B%B8",
     "timestamp": "2026-08-18T22:30:37.578Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "英國沙門氏菌疫情至少1死　或涉外國進口雞蛋",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20241214/944618747103023104047216.jpeg/n3uNm99j5NjB6rKRyITaL8tqZ7jz55QUcpDDmHKQw5g?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60381346/%E8%8B%B1%E5%9C%8B%E6%B2%99%E9%96%80%E6%B0%8F%E8%8F%8C%E7%96%AB%E6%83%85%E8%87%B3%E5%B0%911%E6%AD%BB-%E6%88%96%E6%B6%89%E5%A4%96%E5%9C%8B%E9%80%B2%E5%8F%A3%E9%9B%9E%E8%9B%8B",
-    "timestamp": "2026-08-18T22:11:47.318Z",
     "strategy": ".content-card__main"
   }
 ];
