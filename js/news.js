@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-19T18:52:14.242Z
+// Last updated: 2026-08-19T19:15:14.743Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "警旺角搗破地下竹館　檢6張麻雀桌和$1.8萬　11人被捕",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260820/1166935304498581504865047.jpeg/3qov_DbsZouWspmdvqYnaSvnGJOY1HZHSI4q8EiOKvA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60381753/%E8%AD%A6%E6%97%BA%E8%A7%92%E6%90%97%E7%A0%B4%E5%9C%B0%E4%B8%8B%E7%AB%B9%E9%A4%A8-%E6%AA%A26%E5%BC%B5%E9%BA%BB%E9%9B%80%E6%A1%8C%E5%92%8C-1-8%E8%90%AC-11%E4%BA%BA%E8%A2%AB%E6%8D%95",
+    "timestamp": "2026-08-19T19:15:14.743Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "警旺角搗破地下竹館　檢6張麻雀桌和$1.8萬　11人被捕",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260105/1084888779841343488126590.jpeg/1sVx0rUAkUZlFPWrTn4E3xHvg1FaxnlTitITzYrSE80?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60381700/%E9%A6%AC%E4%BE%86%E8%A5%BF%E4%BA%9E%E9%A6%96%E7%9B%B8%E5%AE%89%E8%8F%AF%E5%8F%97%E8%A8%AA%E5%BC%B7%E8%AA%BF%E5%8F%B0%E7%81%A3%E6%98%AF%E4%B8%AD%E5%9C%8B%E4%B8%80%E9%83%A8%E4%BB%BD-%E5%8C%97%E4%BA%AC%E8%A1%A8%E7%A4%BA%E8%AE%9A%E8%B3%9E",
     "timestamp": "2026-08-19T12:15:47.446Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "鄧銘心月薪七萬元議助突離職　親解要善用資源負責任｜政壇諸事町",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260520/1133864556662099968059467.png/lY89EiYq5oPzBA2PlwL5q3UKYpYL8c44trRHF7a0Rxc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60381626/%E9%84%A7%E9%8A%98%E5%BF%83%E6%9C%88%E8%96%AA%E4%B8%83%E8%90%AC%E5%85%83%E8%AD%B0%E5%8A%A9%E7%AA%81%E9%9B%A2%E8%81%B7-%E8%A6%AA%E8%A7%A3%E8%A6%81%E5%96%84%E7%94%A8%E8%B3%87%E6%BA%90%E8%B2%A0%E8%B2%AC%E4%BB%BB-%E6%94%BF%E5%A3%87%E8%AB%B8%E4%BA%8B%E7%94%BA",
-    "timestamp": "2026-08-19T11:58:07.121Z",
     "strategy": ".content-card__main"
   }
 ];
