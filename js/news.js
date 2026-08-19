@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-19T10:18:07.263Z
+// Last updated: 2026-08-19T10:34:40.764Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "特朗普「富豪治國」惹議　美國報告：現政府至少57名億萬富翁官員",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260626/1147202584008724480810325.jpeg/VFKixAQN0b_u-znohJqbG4C3WkyqKp3mSAP8cEgD_HA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60381672/%E7%89%B9%E6%9C%97%E6%99%AE-%E5%AF%8C%E8%B1%AA%E6%B2%BB%E5%9C%8B-%E6%83%B9%E8%AD%B0-%E7%BE%8E%E5%9C%8B%E5%A0%B1%E5%91%8A-%E7%8F%BE%E6%94%BF%E5%BA%9C%E8%87%B3%E5%B0%9157%E5%90%8D%E5%84%84%E8%90%AC%E5%AF%8C%E7%BF%81%E5%AE%98%E5%93%A1",
+    "timestamp": "2026-08-19T10:34:40.764Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "新皇崗口岸免費好去處6大｜科技博物館/水圍/太空遊樂場/蘇州園林",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260819/1166647833743331328374021.jpeg/TuB7hqoNIJLmZqTl2llMfVe6bUh-IxPko_dHxqP3R8Y?v=w1920r16_9",
     "url": "https://www.hk01.com/01%E8%A7%80%E9%BB%9E/60381301/%E5%85%83%E6%9C%97%E7%8B%97%E5%92%AC%E7%8B%97-%E7%8B%97%E4%B8%BB%E9%84%99%E6%96%BC%E5%AE%88%E6%B3%95-%E5%88%B0%E5%BA%95%E6%98%AF%E8%AA%B0%E4%B9%8B%E8%B2%AC",
     "timestamp": "2026-08-18T23:43:56.192Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "六料港姐冠軍狂捱夜直播靠內地人氣養家　48歲賣金狀態驚人：像30",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260818/1166499291657670656134986.jpeg/I9xWxQwPTEY1q3hgK7viQjxs1YNvIpW74ZN8ueGTfLk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60381114/%E6%A5%8A%E6%80%9D%E7%90%A6%E6%9C%AA%E5%A9%9A%E7%94%9F%E5%A5%B3%E7%8B%82%E6%8D%B1%E5%A4%9C%E7%9B%B4%E6%92%AD%E9%A4%8A%E5%AE%B6-48%E6%AD%B2%E8%B3%A3%E9%87%91%E7%8B%80%E6%85%8B%E5%87%8D%E9%BD%A1-%E5%83%8F30%E5%87%BA%E9%A0%AD",
-    "timestamp": "2026-08-18T22:58:54.365Z",
     "strategy": ".content-card__main"
   }
 ];
