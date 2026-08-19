@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-19T07:08:19.360Z
+// Last updated: 2026-08-19T07:33:01.144Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "米高積遜女兒Paris自爆曾吸毒導致鼻腔穿窿　15歲嘗試自殺不遂",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260819/1166726568391741440285963.jpeg/1QtTQn0cOY2MRYvFhQkzEYdAHPJ_jBryr_7AGa_-wBk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60381137/%E7%B1%B3%E9%AB%98%E7%A9%8D%E9%81%9C%E5%A5%B3%E5%85%92paris%E8%87%AA%E7%88%86%E6%9B%BE%E5%90%B8%E6%AF%92%E5%B0%8E%E8%87%B4%E9%BC%BB%E8%85%94%E7%A9%BF%E7%AA%BF-15%E6%AD%B2%E5%98%97%E8%A9%A6%E8%87%AA%E6%AE%BA%E4%B8%8D%E9%81%82",
+    "timestamp": "2026-08-19T07:33:01.144Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "深圳打卡《一飯封神》同款美食！必試8道招牌菜+「魚鮮人」拿手菜",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260818/1166393292028383232157904.png/RqZ6DcaHMwYrfibGQ_jAVrbsZMoEEiO0BbMhnwWzIZ8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60381345/%E5%BA%AB%E4%BB%80%E7%B4%8D%E8%88%87%E4%BB%A5%E8%89%B2%E5%88%97%E5%93%88%E9%A6%AC%E6%96%AF%E6%9C%83%E8%AB%87%E7%B5%90%E6%9D%9F-%E7%89%B9%E6%9C%97%E6%99%AE%E5%8A%A0%E6%B2%99%E5%92%8C%E5%B9%B3%E8%A8%88%E5%8A%83%E5%81%9C%E6%BB%AF%E4%B8%8D%E5%89%8D",
     "timestamp": "2026-08-18T20:58:09.039Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "韓媒：美韓年度聯合軍演時間減半　後半段反擊作戰訓練取消",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20251125/1069932162070876160938076.jpeg/06u_ujN6kMpCnIQpF3QDg7SrLaYjagXXg6ra_4Oq2v8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60381340/%E9%9F%93%E5%AA%92-%E7%BE%8E%E9%9F%93%E5%B9%B4%E5%BA%A6%E8%81%AF%E5%90%88%E8%BB%8D%E6%BC%94%E6%99%82%E9%96%93%E6%B8%9B%E5%8D%8A-%E5%BE%8C%E5%8D%8A%E6%AE%B5%E5%8F%8D%E6%93%8A%E4%BD%9C%E6%88%B0%E8%A8%93%E7%B7%B4%E5%8F%96%E6%B6%88",
-    "timestamp": "2026-08-18T20:45:05.878Z",
     "strategy": ".content-card__main"
   }
 ];
