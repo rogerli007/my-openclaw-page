@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-19T04:52:13.230Z
+// Last updated: 2026-08-19T05:16:29.311Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "2026世界機器人大會北京開幕　廣東34家企業參展",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260819/1166726875339296768439187.png/lDVrqn-PqR9fRa23ZjgJW3VR_CODXpLTj8zduY_M3bk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60381481/2026%E4%B8%96%E7%95%8C%E6%A9%9F%E5%99%A8%E4%BA%BA%E5%A4%A7%E6%9C%83%E5%8C%97%E4%BA%AC%E9%96%8B%E5%B9%95-%E5%BB%A3%E6%9D%B134%E5%AE%B6%E4%BC%81%E6%A5%AD%E5%8F%83%E5%B1%95",
+    "timestamp": "2026-08-19T05:16:29.311Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美媒：特朗普下令團隊停止對伊朗談判　改用長期遏制戰略拖垮對方",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20251125/1069932162070876160938076.jpeg/06u_ujN6kMpCnIQpF3QDg7SrLaYjagXXg6ra_4Oq2v8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60381340/%E9%9F%93%E5%AA%92-%E7%BE%8E%E9%9F%93%E5%B9%B4%E5%BA%A6%E8%81%AF%E5%90%88%E8%BB%8D%E6%BC%94%E6%99%82%E9%96%93%E6%B8%9B%E5%8D%8A-%E5%BE%8C%E5%8D%8A%E6%AE%B5%E5%8F%8D%E6%93%8A%E4%BD%9C%E6%88%B0%E8%A8%93%E7%B7%B4%E5%8F%96%E6%B6%88",
     "timestamp": "2026-08-18T19:34:06.645Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "跨部門大埔及上水掃黃　9女被捕",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260819/1166567927873277952104928.jpeg/bJPT-rW5Xe1iYXuw243D2ftxz6qSW9EqkU-GOJFPhjg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60381338/%E8%B7%A8%E9%83%A8%E9%96%80%E5%A4%A7%E5%9F%94%E5%8F%8A%E4%B8%8A%E6%B0%B4%E6%8E%83%E9%BB%83-9%E5%A5%B3%E8%A2%AB%E6%8D%95",
-    "timestamp": "2026-08-18T19:17:55.519Z",
     "strategy": ".content-card__main"
   }
 ];
