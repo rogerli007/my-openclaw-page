@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-19T13:25:17.967Z
+// Last updated: 2026-08-19T13:51:59.807Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "郵政改合約制｜過試用期不獲轉長期聘用　員工批評事前無協商",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260818/1166382909712502784984256.jpeg/lQt6sShaHV4Zs7KULUDVV7BlLfBF4oOfJIX8tySF_Lc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60381701/%E9%83%B5%E6%94%BF%E6%94%B9%E5%90%88%E7%B4%84%E5%88%B6-%E9%81%8E%E8%A9%A6%E7%94%A8%E6%9C%9F%E4%B8%8D%E7%8D%B2%E8%BD%89%E9%95%B7%E6%9C%9F%E8%81%98%E7%94%A8-%E5%93%A1%E5%B7%A5%E6%89%B9%E8%A9%95%E4%BA%8B%E5%89%8D%E7%84%A1%E5%8D%94%E5%95%86",
+    "timestamp": "2026-08-19T13:51:59.807Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "貪色惹禍！日男誤認長髮男為美女搭訕　飲下藥香檳昏迷被盜錢財",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260816/1165696058387468288063851.jpeg/ffGqlFo_Ln5G7K0612I2MzBbHUW8vBkGX9L47V_S-O0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60381500/opatra-london%E5%90%8C%E7%87%9F%E9%81%8B%E6%B5%B7%E6%B8%AF%E5%9F%8Elux-boutique-%E6%9B%BE%E9%81%AD%E5%85%A5%E7%A8%9F%E8%BF%BD%E7%A7%9F79%E8%90%AC",
     "timestamp": "2026-08-19T05:50:01.204Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "MSI Prestige14 Flip AI+梵高特別版電腦節限量發售！2合1 AI筆電",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260819/1166737788125581312421796.jpeg/I8nJslvQXvcyxhGZPEayJSoGOeSqIdtCD6upcg-rqXI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60381501/msi-prestige14-flip-ai-%E6%A2%B5%E9%AB%98%E7%89%B9%E5%88%A5%E7%89%88%E9%9B%BB%E8%85%A6%E7%AF%80%E9%99%90%E9%87%8F%E7%99%BC%E5%94%AE-2%E5%90%881-ai%E7%AD%86%E9%9B%BB",
-    "timestamp": "2026-08-19T05:32:33.389Z",
     "strategy": ".content-card__main"
   }
 ];
