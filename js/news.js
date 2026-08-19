@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-19T06:35:46.572Z
+// Last updated: 2026-08-19T07:08:19.360Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "深圳打卡《一飯封神》同款美食！必試8道招牌菜+「魚鮮人」拿手菜",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260819/1166754809877893120203178.png/uMj_Y-u9Zjoegf2NUbmUoP0deXGEoUe0Xl4A4F5eAOA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%97%85%E9%81%8A/60378324/%E6%B7%B1%E5%9C%B3%E6%89%93%E5%8D%A1-%E4%B8%80%E9%A3%AF%E5%B0%81%E7%A5%9E-%E5%90%8C%E6%AC%BE%E7%BE%8E%E9%A3%9F-%E5%BF%85%E8%A9%A68%E9%81%93%E6%8B%9B%E7%89%8C%E8%8F%9C-%E9%AD%9A%E9%AE%AE%E4%BA%BA-%E6%8B%BF%E6%89%8B%E8%8F%9C",
+    "timestamp": "2026-08-19T07:08:19.360Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "雲南大媽強抓黑天鵝頸擺拍　天鵝掙扎慘叫　路人怒斥：好殘忍",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20251125/1069932162070876160938076.jpeg/06u_ujN6kMpCnIQpF3QDg7SrLaYjagXXg6ra_4Oq2v8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60381340/%E9%9F%93%E5%AA%92-%E7%BE%8E%E9%9F%93%E5%B9%B4%E5%BA%A6%E8%81%AF%E5%90%88%E8%BB%8D%E6%BC%94%E6%99%82%E9%96%93%E6%B8%9B%E5%8D%8A-%E5%BE%8C%E5%8D%8A%E6%AE%B5%E5%8F%8D%E6%93%8A%E4%BD%9C%E6%88%B0%E8%A8%93%E7%B7%B4%E5%8F%96%E6%B6%88",
     "timestamp": "2026-08-18T20:45:05.878Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "韓媒：美韓年度聯合軍演時間減半　後半段反擊作戰訓練取消",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20251125/1069932162070876160938076.jpeg/06u_ujN6kMpCnIQpF3QDg7SrLaYjagXXg6ra_4Oq2v8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60381340/%E9%9F%93%E5%AA%92-%E7%BE%8E%E9%9F%93%E5%B9%B4%E5%BA%A6%E8%81%AF%E5%90%88%E8%BB%8D%E6%BC%94%E6%99%82%E9%96%93%E6%B8%9B%E5%8D%8A-%E5%BE%8C%E5%8D%8A%E6%AE%B5%E5%8F%8D%E6%93%8A%E4%BD%9C%E6%88%B0%E8%A8%93%E7%B7%B4%E5%8F%96%E6%B6%88",
-    "timestamp": "2026-08-18T20:29:40.549Z",
     "strategy": ".content-card__main"
   }
 ];
