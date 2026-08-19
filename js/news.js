@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-19T21:58:36.413Z
+// Last updated: 2026-08-19T22:29:47.403Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "葵涌貨車「自炒」掃欄　司機無受傷一度被困車內　報稱避黑貓肇禍",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260820/1166989090311114752186024.jpeg/hkdKEdzt7bY9_07pSpG2EZzWN4IJVs5qs27TULNu01A?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60381763/%E8%91%B5%E6%B6%8C%E8%B2%A8%E8%BB%8A-%E8%87%AA%E7%82%92-%E6%8E%83%E6%AC%84-%E5%8F%B8%E6%A9%9F%E7%84%A1%E5%8F%97%E5%82%B7%E4%B8%80%E5%BA%A6%E8%A2%AB%E5%9B%B0%E8%BB%8A%E5%85%A7-%E5%A0%B1%E7%A8%B1%E9%81%BF%E9%BB%91%E8%B2%93%E8%82%87%E7%A6%8D",
+    "timestamp": "2026-08-19T22:29:47.403Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美國債務突破40萬億美元　特朗普拜登任內合增近20萬億",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260819/1166871684737667072786325.jpeg/cr38yBEp4t6LuAno39auZrUCLiW8j1oH7aRvHu2kbx4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60381724/%E7%B6%B2%E7%90%83-%E6%BE%B3%E6%B4%B2-%E5%A3%9E%E5%AD%A9%E5%AD%90-%E5%9F%BA%E5%9F%9F%E5%A5%A7%E6%96%AF%E5%8F%AF%E5%8D%A1%E5%9B%A0%E6%AA%A2%E6%B8%AC%E5%91%88%E9%99%BD%E6%80%A7-%E9%81%93%E6%AD%89%E6%89%BF%E8%AA%8D%E7%8A%AF%E5%A4%A7%E9%8C%AF",
     "timestamp": "2026-08-19T14:36:17.609Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "趙學而分享疑遇「護膚黑店」甩身經歷　遭網民誤會幫宣傳委屈刪帖",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260819/1166801842340892672103245.jpeg/X7oJHaRHe7oTLaVZ6GW_d-jzVB2aEs6m55KkRueSpEY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60381627/%E8%B6%99%E5%AD%B8%E8%80%8C%E5%88%86%E4%BA%AB%E7%96%91%E9%81%87-%E8%AD%B7%E8%86%9A%E9%BB%91%E5%BA%97-%E7%94%A9%E8%BA%AB%E7%B6%93%E6%AD%B7-%E9%81%AD%E7%B6%B2%E6%B0%91%E8%AA%A4%E6%9C%83%E5%B9%AB%E5%AE%A3%E5%82%B3%E5%A7%94%E5%B1%88%E5%88%AA%E5%B8%96",
-    "timestamp": "2026-08-19T14:18:44.132Z",
     "strategy": ".content-card__main"
   }
 ];
