@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-19T15:18:00.014Z
+// Last updated: 2026-08-19T15:35:33.908Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "張家輝阮經天合作《周處除三害》導演新作　吉隆坡拍戲火藥味十足",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260819/1166784878730022912476182.png/RfvE8PpO2oMo3qLbExNnRMP96tOIQOUge8OM1HvDjNQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60381579/%E5%BC%B5%E5%AE%B6%E8%BC%9D%E9%98%AE%E7%B6%93%E5%A4%A9%E5%90%88%E4%BD%9C-%E5%91%A8%E8%99%95%E9%99%A4%E4%B8%89%E5%AE%B3-%E5%B0%8E%E6%BC%94%E6%96%B0%E4%BD%9C-%E5%90%89%E9%9A%86%E5%9D%A1%E6%8B%8D%E6%88%B2%E7%81%AB%E8%97%A5%E5%91%B3%E5%8D%81%E8%B6%B3",
+    "timestamp": "2026-08-19T15:35:33.908Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美國財政部突出手！長債回購規模翻倍　債息急回、金價彈升",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250921/1046515019237298176375496.jpeg/NgVY845VF7h1CwnWDEDpjiZFs1i8bManF7txIQG7cSE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60381605/%E8%A7%80%E5%A1%98%E7%BF%A0%E5%B1%8F%E9%81%93%E6%92%9E%E6%96%83%E9%81%8E%E8%B7%AF%E5%A9%A6-%E5%B0%8F%E5%B7%B4%E5%8F%B8%E6%A9%9F%E8%AA%8D%E4%B8%8D%E5%B0%8F%E5%BF%83%E9%A7%95%E9%A7%9B-%E5%88%A4%E7%A4%BE%E6%9C%8D%E4%BB%A4200%E5%B0%8F%E6%99%82",
     "timestamp": "2026-08-19T08:23:02.222Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "米高積遜女兒Paris自爆曾吸毒導致鼻腔穿窿　15歲嘗試自殺不遂",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260819/1166726568391741440285963.jpeg/1QtTQn0cOY2MRYvFhQkzEYdAHPJ_jBryr_7AGa_-wBk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60381137/%E7%B1%B3%E9%AB%98%E7%A9%8D%E9%81%9C%E5%A5%B3%E5%85%92paris%E8%87%AA%E7%88%86%E6%9B%BE%E5%90%B8%E6%AF%92%E5%B0%8E%E8%87%B4%E9%BC%BB%E8%85%94%E7%A9%BF%E7%AA%BF-15%E6%AD%B2%E5%98%97%E8%A9%A6%E8%87%AA%E6%AE%BA%E4%B8%8D%E9%81%82",
-    "timestamp": "2026-08-19T07:33:01.144Z",
     "strategy": ".content-card__main"
   }
 ];
