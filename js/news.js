@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-19T01:38:16.303Z
+// Last updated: 2026-08-19T02:17:05.836Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "朱雀三號遙二火箭成功發射　中國首次實現火箭陸地回收｜有片",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260819/1166686488633544704413067.jpeg/OURdAT9tOgvt-Q7zGkJMAVLIaD0A__X8ndVQi53VUIs",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60381366/%E6%9C%B1%E9%9B%80%E4%B8%89%E8%99%9F%E9%81%99%E4%BA%8C%E7%81%AB%E7%AE%AD%E6%88%90%E5%8A%9F%E7%99%BC%E5%B0%84-%E4%B8%AD%E5%9C%8B%E9%A6%96%E6%AC%A1%E5%AF%A6%E7%8F%BE%E7%81%AB%E7%AE%AD%E9%99%B8%E5%9C%B0%E5%9B%9E%E6%94%B6-%E6%9C%89%E7%89%87",
+    "timestamp": "2026-08-19T02:17:05.836Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "AI短片《反正也沒時間活》揭殘酷現實　地球人51年命僅21天屬自己",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260819/1166551156017598464275310.jpeg/R6idkNf_oqy_OE1UqmxFRbn2LDqIE9Lnz-fRes_n0Xo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60381331/%E6%B2%B9%E5%B0%96%E6%97%BA%E5%9C%98%E9%AB%94%E9%80%81%E9%98%B2%E7%85%99%E9%9D%A2%E7%BD%A9%E5%8F%8A%E6%8B%96%E6%8A%8A-%E9%80%BE5000%E6%88%B6%E5%9F%BA%E5%B1%A4%E5%AE%B6%E5%BA%AD%E5%8F%97%E6%83%A0",
     "timestamp": "2026-08-18T17:34:28.380Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "油尖旺團體送防煙面罩及拖把　逾5000戶基層家庭受惠",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260819/1166551156017598464275310.jpeg/R6idkNf_oqy_OE1UqmxFRbn2LDqIE9Lnz-fRes_n0Xo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60381331/%E6%B2%B9%E5%B0%96%E6%97%BA%E5%9C%98%E9%AB%94%E9%80%81%E9%98%B2%E7%85%99%E9%9D%A2%E7%BD%A9%E5%8F%8A%E6%8B%96%E6%8A%8A-%E9%80%BE5000%E6%88%B6%E5%9F%BA%E5%B1%A4%E5%AE%B6%E5%BA%AD%E5%8F%97%E6%83%A0",
-    "timestamp": "2026-08-18T17:18:09.529Z",
     "strategy": ".content-card__main"
   }
 ];
