@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-19T10:04:39.056Z
+// Last updated: 2026-08-19T10:18:07.263Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "新皇崗口岸免費好去處6大｜科技博物館/水圍/太空遊樂場/蘇州園林",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260819/1166808167946915840704286.png/D4cZQIEY7oFS8OzLIyCyJk1abFuc-cdYJKZkTySmZE8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%97%85%E9%81%8A/60381635/%E6%96%B0%E7%9A%87%E5%B4%97%E5%8F%A3%E5%B2%B8%E5%85%8D%E8%B2%BB%E5%A5%BD%E5%8E%BB%E8%99%956%E5%A4%A7-%E7%A7%91%E6%8A%80%E5%8D%9A%E7%89%A9%E9%A4%A8-%E6%B0%B4%E5%9C%8D-%E5%A4%AA%E7%A9%BA%E9%81%8A%E6%A8%82%E5%A0%B4-%E8%98%87%E5%B7%9E%E5%9C%92%E6%9E%97",
+    "timestamp": "2026-08-19T10:18:07.263Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "卡塔爾航空貨運區域辦事處落戶香港　與機管局簽合作備忘錄",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260818/1166499291657670656134986.jpeg/I9xWxQwPTEY1q3hgK7viQjxs1YNvIpW74ZN8ueGTfLk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60381114/%E6%A5%8A%E6%80%9D%E7%90%A6%E6%9C%AA%E5%A9%9A%E7%94%9F%E5%A5%B3%E7%8B%82%E6%8D%B1%E5%A4%9C%E7%9B%B4%E6%92%AD%E9%A4%8A%E5%AE%B6-48%E6%AD%B2%E8%B3%A3%E9%87%91%E7%8B%80%E6%85%8B%E5%87%8D%E9%BD%A1-%E5%83%8F30%E5%87%BA%E9%A0%AD",
     "timestamp": "2026-08-18T22:58:54.365Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "六料港姐冠軍狂捱夜直播靠內地人氣養家　48歲賣金狀態驚人：像30",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260818/1166499291657670656134986.jpeg/I9xWxQwPTEY1q3hgK7viQjxs1YNvIpW74ZN8ueGTfLk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60381114/%E6%A5%8A%E6%80%9D%E7%90%A6%E6%9C%AA%E5%A9%9A%E7%94%9F%E5%A5%B3%E7%8B%82%E6%8D%B1%E5%A4%9C%E7%9B%B4%E6%92%AD%E9%A4%8A%E5%AE%B6-48%E6%AD%B2%E8%B3%A3%E9%87%91%E7%8B%80%E6%85%8B%E5%87%8D%E9%BD%A1-%E5%83%8F30%E5%87%BA%E9%A0%AD",
-    "timestamp": "2026-08-18T22:45:51.710Z",
     "strategy": ".content-card__main"
   }
 ];
