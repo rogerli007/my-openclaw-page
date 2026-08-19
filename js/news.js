@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-19T12:33:44.650Z
+// Last updated: 2026-08-19T12:57:14.289Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "羽毛球世錦賽︱洪魁駿呂俊瑋力拚印尼種子組合　港隊男雙一度追平",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260819/1166841827899215872392587.jpeg/nG1wx1-yJmIr1Yn36_EsFBB4Trlca47vLM2EuCzNhLg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60381710/%E7%BE%BD%E6%AF%9B%E7%90%83%E4%B8%96%E9%8C%A6%E8%B3%BD-%E6%B4%AA%E9%AD%81%E9%A7%BF%E5%91%82%E4%BF%8A%E7%91%8B%E5%8A%9B%E6%8B%9A%E5%8D%B0%E5%B0%BC%E7%A8%AE%E5%AD%90%E7%B5%84%E5%90%88-%E6%B8%AF%E9%9A%8A%E7%94%B7%E9%9B%99%E4%B8%80%E5%BA%A6%E8%BF%BD%E5%B9%B3",
+    "timestamp": "2026-08-19T12:57:14.289Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "寵物秒變二五仔？逃犯躲閣樓　遭遺棄拉布拉多帶警上門緝拿主人",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260819/1166726875339296768439187.png/lDVrqn-PqR9fRa23ZjgJW3VR_CODXpLTj8zduY_M3bk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60381481/2026%E4%B8%96%E7%95%8C%E6%A9%9F%E5%99%A8%E4%BA%BA%E5%A4%A7%E6%9C%83%E5%8C%97%E4%BA%AC%E9%96%8B%E5%B9%95-%E5%BB%A3%E6%9D%B134%E5%AE%B6%E4%BC%81%E6%A5%AD%E5%8F%83%E5%B1%95",
     "timestamp": "2026-08-19T05:16:29.311Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美媒：特朗普下令團隊停止對伊朗談判　改用長期遏制戰略拖垮對方",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260818/1166382025192509440025461.jpeg/-dvTwbHzBkgR4bY2fsFoFJDr8u3N5pKt7Ml4gOzJeIA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60381477/%E7%BE%8E%E5%AA%92-%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8B%E4%BB%A4%E5%9C%98%E9%9A%8A%E5%81%9C%E6%AD%A2%E5%B0%8D%E4%BC%8A%E6%9C%97%E8%AB%87%E5%88%A4-%E6%94%B9%E7%94%A8%E9%95%B7%E6%9C%9F%E9%81%8F%E5%88%B6%E6%88%B0%E7%95%A5%E6%8B%96%E5%9E%AE%E5%B0%8D%E6%96%B9",
-    "timestamp": "2026-08-19T04:52:13.230Z",
     "strategy": ".content-card__main"
   }
 ];
