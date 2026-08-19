@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-19T11:58:07.121Z
+// Last updated: 2026-08-19T12:15:47.446Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "馬來西亞首相安華受訪強調台灣是中國一部份　北京表示讚賞",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260105/1084888779841343488126590.jpeg/1sVx0rUAkUZlFPWrTn4E3xHvg1FaxnlTitITzYrSE80?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60381700/%E9%A6%AC%E4%BE%86%E8%A5%BF%E4%BA%9E%E9%A6%96%E7%9B%B8%E5%AE%89%E8%8F%AF%E5%8F%97%E8%A8%AA%E5%BC%B7%E8%AA%BF%E5%8F%B0%E7%81%A3%E6%98%AF%E4%B8%AD%E5%9C%8B%E4%B8%80%E9%83%A8%E4%BB%BD-%E5%8C%97%E4%BA%AC%E8%A1%A8%E7%A4%BA%E8%AE%9A%E8%B3%9E",
+    "timestamp": "2026-08-19T12:15:47.446Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "鄧銘心月薪七萬元議助突離職　親解要善用資源負責任｜政壇諸事町",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260819/1166711915653632000967802.jpeg/R6G5rEjiiUE20b-ToWLVGZ2VElO1lTFECDDnkwgw55M?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60381432/%E6%84%9B%E7%BE%8Eaimi%E6%BC%94%E5%94%B1%E6%9C%832026%E9%A6%99%E6%B8%AF-%E9%96%80%E7%A5%A8%E6%94%BB%E7%95%A5-%E8%B3%BC%E7%A5%A8%E9%80%A3%E7%B5%90-%E5%BA%A7%E4%BD%8D%E8%A1%A8",
     "timestamp": "2026-08-19T04:05:50.193Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "全港第三細新盤！何文田單幢納米盤泓璟涉91伙　最細僅130呎",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260819/1166707436510253056581476.png/j5ZXYWgWhEUIWtDqfLxD-uoJUsquxiHfQxxpQUMcaUE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60381398/%E5%85%A8%E6%B8%AF%E7%AC%AC%E4%B8%89%E7%B4%B0%E6%96%B0%E7%9B%A4-%E4%BD%95%E6%96%87%E7%94%B0%E5%96%AE%E5%B9%A2%E7%B4%8D%E7%B1%B3%E7%9B%A4%E6%B3%93%E7%92%9F%E6%B6%8991%E4%BC%99-%E6%9C%80%E7%B4%B0%E5%83%85130%E5%91%8E",
-    "timestamp": "2026-08-19T03:36:01.661Z",
     "strategy": ".content-card__main"
   }
 ];
