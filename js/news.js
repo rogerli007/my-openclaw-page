@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-19T09:49:45.730Z
+// Last updated: 2026-08-19T10:04:39.056Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "卡塔爾航空貨運區域辦事處落戶香港　與機管局簽合作備忘錄",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260819/1166803942256939008604738.jpeg/sacGZtnpYizvhs7M-0ga4mLBU8sS60_KrBHjFKwR4xQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60381661/%E5%8D%A1%E5%A1%94%E7%88%BE%E8%88%AA%E7%A9%BA%E8%B2%A8%E9%81%8B%E5%8D%80%E5%9F%9F%E8%BE%A6%E4%BA%8B%E8%99%95%E8%90%BD%E6%88%B6%E9%A6%99%E6%B8%AF-%E8%88%87%E6%A9%9F%E7%AE%A1%E5%B1%80%E7%B0%BD%E5%90%88%E4%BD%9C%E5%82%99%E5%BF%98%E9%8C%84",
+    "timestamp": "2026-08-19T10:04:39.056Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "8月愛情韓劇│《好 離婚吧》揭婚姻假面　李珉廷金知碩不敵7年之癢",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260818/1166499291657670656134986.jpeg/I9xWxQwPTEY1q3hgK7viQjxs1YNvIpW74ZN8ueGTfLk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60381114/%E6%A5%8A%E6%80%9D%E7%90%A6%E6%9C%AA%E5%A9%9A%E7%94%9F%E5%A5%B3%E7%8B%82%E6%8D%B1%E5%A4%9C%E7%9B%B4%E6%92%AD%E9%A4%8A%E5%AE%B6-48%E6%AD%B2%E8%B3%A3%E9%87%91%E7%8B%80%E6%85%8B%E5%87%8D%E9%BD%A1-%E5%83%8F30%E5%87%BA%E9%A0%AD",
     "timestamp": "2026-08-18T22:45:51.710Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "前TVB靚仔小生獲ICF國際教練認證　淡出幕前積極增值擁多項證書",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260818/1166499138683015168179462.jpeg/eNkjBWNBxMewQOgRbLuICuIemL-PwS3knQMEJ50DBCc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60381094/%E9%99%B3%E9%8D%B5%E9%8B%92%E7%8D%B2icf%E5%9C%8B%E9%9A%9B%E6%95%99%E7%B7%B4%E8%AA%8D%E8%AD%89-%E6%B7%A1%E5%87%BA%E5%B9%95%E5%89%8D%E7%A9%8D%E6%A5%B5%E5%A2%9E%E5%80%BC%E6%93%81%E5%A4%9A%E9%A0%85%E8%AD%89%E6%9B%B8",
-    "timestamp": "2026-08-18T22:30:37.578Z",
     "strategy": ".content-card__main"
   }
 ];
