@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-19T11:34:25.561Z
+// Last updated: 2026-08-19T11:45:40.394Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "夏天暗瘡肌護膚指南：必學4大控油抗痘原則　附4款保養好物推介",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260716/1154481317539221504302879.jpeg/Ghsgau8cPkpzkn_-74xAxm2-tymm9JoBS8CiSEvAokg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%BE%8E%E5%AE%B9%E6%89%8B%E5%B8%B3/60370637/%E5%A4%8F%E5%A4%A9%E6%9A%97%E7%98%A1%E8%82%8C%E8%AD%B7%E8%86%9A%E6%8C%87%E5%8D%97-%E5%BF%85%E5%AD%B84%E5%A4%A7%E6%8E%A7%E6%B2%B9%E6%8A%97%E7%97%98%E5%8E%9F%E5%89%87-%E9%99%844%E6%AC%BE%E4%BF%9D%E9%A4%8A%E5%A5%BD%E7%89%A9%E6%8E%A8%E4%BB%8B",
+    "timestamp": "2026-08-19T11:45:40.394Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "秦始皇在位37年為何從沒立皇后？母親趙姬的行為影響他對女人看法",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260819/1166686488633544704413067.jpeg/OURdAT9tOgvt-Q7zGkJMAVLIaD0A__X8ndVQi53VUIs",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60381366/%E6%9C%B1%E9%9B%80%E4%B8%89%E8%99%9F%E9%81%99%E4%BA%8C%E7%81%AB%E7%AE%AD%E6%88%90%E5%8A%9F%E7%99%BC%E5%B0%84-%E4%B8%AD%E5%9C%8B%E9%A6%96%E6%AC%A1%E5%AF%A6%E7%8F%BE%E7%81%AB%E7%AE%AD%E9%99%B8%E5%9C%B0%E5%9B%9E%E6%94%B6-%E6%9C%89%E7%89%87",
     "timestamp": "2026-08-19T02:17:05.836Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "AI短片《反正也沒時間活》揭殘酷現實　地球人51年命僅21天屬自己",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260818/1166438896607694848348209.png/NXHRplU8MRxF0lRhxMAIyQio9KjObld80tcDFNLXAxQ",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60380472/ai%E7%9F%AD%E7%89%87-%E5%8F%8D%E6%AD%A3%E4%B9%9F%E6%B2%92%E6%99%82%E9%96%93%E6%B4%BB-%E6%8F%AD%E6%AE%98%E9%85%B7%E7%8F%BE%E5%AF%A6-%E5%9C%B0%E7%90%83%E4%BA%BA51%E5%B9%B4%E5%91%BD%E5%83%8521%E5%A4%A9%E5%B1%AC%E8%87%AA%E5%B7%B1",
-    "timestamp": "2026-08-19T01:38:16.303Z",
     "strategy": ".content-card__main"
   }
 ];
