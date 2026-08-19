@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-19T14:36:17.609Z
+// Last updated: 2026-08-19T15:18:00.014Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美國財政部突出手！長債回購規模翻倍　債息急回、金價彈升",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/3222718/org/86ca790b9678f13fcc586f507e0cbdab.jpg/U9Mp9W5oVy6hFY-hS2sRxgjvhLJrw1esjPVAuoz1QLo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60381735/%E7%BE%8E%E5%9C%8B%E8%B2%A1%E6%94%BF%E9%83%A8%E7%AA%81%E5%87%BA%E6%89%8B-%E9%95%B7%E5%82%B5%E5%9B%9E%E8%B3%BC%E8%A6%8F%E6%A8%A1%E7%BF%BB%E5%80%8D-%E5%82%B5%E6%81%AF%E6%80%A5%E5%9B%9E-%E9%87%91%E5%83%B9%E5%BD%88%E5%8D%87",
+    "timestamp": "2026-08-19T15:18:00.014Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "網球｜澳洲「壞孩子」基域奧斯可卡因檢測呈陽性　道歉承認犯大錯",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260819/1166726568391741440285963.jpeg/1QtTQn0cOY2MRYvFhQkzEYdAHPJ_jBryr_7AGa_-wBk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60381137/%E7%B1%B3%E9%AB%98%E7%A9%8D%E9%81%9C%E5%A5%B3%E5%85%92paris%E8%87%AA%E7%88%86%E6%9B%BE%E5%90%B8%E6%AF%92%E5%B0%8E%E8%87%B4%E9%BC%BB%E8%85%94%E7%A9%BF%E7%AA%BF-15%E6%AD%B2%E5%98%97%E8%A9%A6%E8%87%AA%E6%AE%BA%E4%B8%8D%E9%81%82",
     "timestamp": "2026-08-19T07:33:01.144Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "深圳打卡《一飯封神》同款美食！必試8道招牌菜+「魚鮮人」拿手菜",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260819/1166754809877893120203178.png/uMj_Y-u9Zjoegf2NUbmUoP0deXGEoUe0Xl4A4F5eAOA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%97%85%E9%81%8A/60378324/%E6%B7%B1%E5%9C%B3%E6%89%93%E5%8D%A1-%E4%B8%80%E9%A3%AF%E5%B0%81%E7%A5%9E-%E5%90%8C%E6%AC%BE%E7%BE%8E%E9%A3%9F-%E5%BF%85%E8%A9%A68%E9%81%93%E6%8B%9B%E7%89%8C%E8%8F%9C-%E9%AD%9A%E9%AE%AE%E4%BA%BA-%E6%8B%BF%E6%89%8B%E8%8F%9C",
-    "timestamp": "2026-08-19T07:08:19.360Z",
     "strategy": ".content-card__main"
   }
 ];
