@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-19T18:31:05.908Z
+// Last updated: 2026-08-19T18:52:14.242Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "警旺角搗破地下竹館　檢6張麻雀桌和$1.8萬　11人被捕",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260820/1166935304498581504865047.jpeg/3qov_DbsZouWspmdvqYnaSvnGJOY1HZHSI4q8EiOKvA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60381753/%E8%AD%A6%E6%97%BA%E8%A7%92%E6%90%97%E7%A0%B4%E5%9C%B0%E4%B8%8B%E7%AB%B9%E9%A4%A8-%E6%AA%A26%E5%BC%B5%E9%BA%BB%E9%9B%80%E6%A1%8C%E5%92%8C-1-8%E8%90%AC-11%E4%BA%BA%E8%A2%AB%E6%8D%95",
+    "timestamp": "2026-08-19T18:52:14.242Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "尖沙咀56歲女司機遇路障「吹爆波」　涉醉駕被捕",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260520/1133864556662099968059467.png/lY89EiYq5oPzBA2PlwL5q3UKYpYL8c44trRHF7a0Rxc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60381626/%E9%84%A7%E9%8A%98%E5%BF%83%E6%9C%88%E8%96%AA%E4%B8%83%E8%90%AC%E5%85%83%E8%AD%B0%E5%8A%A9%E7%AA%81%E9%9B%A2%E8%81%B7-%E8%A6%AA%E8%A7%A3%E8%A6%81%E5%96%84%E7%94%A8%E8%B3%87%E6%BA%90%E8%B2%A0%E8%B2%AC%E4%BB%BB-%E6%94%BF%E5%A3%87%E8%AB%B8%E4%BA%8B%E7%94%BA",
     "timestamp": "2026-08-19T11:58:07.121Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "夏天暗瘡肌護膚指南：必學4大控油抗痘原則　附4款保養好物推介",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260716/1154481317539221504302879.jpeg/Ghsgau8cPkpzkn_-74xAxm2-tymm9JoBS8CiSEvAokg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%BE%8E%E5%AE%B9%E6%89%8B%E5%B8%B3/60370637/%E5%A4%8F%E5%A4%A9%E6%9A%97%E7%98%A1%E8%82%8C%E8%AD%B7%E8%86%9A%E6%8C%87%E5%8D%97-%E5%BF%85%E5%AD%B84%E5%A4%A7%E6%8E%A7%E6%B2%B9%E6%8A%97%E7%97%98%E5%8E%9F%E5%89%87-%E9%99%844%E6%AC%BE%E4%BF%9D%E9%A4%8A%E5%A5%BD%E7%89%A9%E6%8E%A8%E4%BB%8B",
-    "timestamp": "2026-08-19T11:45:40.394Z",
     "strategy": ".content-card__main"
   }
 ];
