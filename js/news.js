@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-19T20:12:28.903Z
+// Last updated: 2026-08-19T20:30:24.930Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "粉嶺黑排仔村36歲男遇襲　5男賊持鐵通圍毆　盜走$30萬勞力士名錶",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260820/1166945934563610624180967.jpeg/CamMecEwUXykMc0nOTBjMXuVsBUxYLaxW0J2UWFCdlE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60381755/%E7%B2%89%E5%B6%BA%E9%BB%91%E6%8E%92%E4%BB%94%E6%9D%9136%E6%AD%B2%E7%94%B7%E9%81%87%E8%A5%B2-5%E7%94%B7%E8%B3%8A%E6%8C%81%E9%90%B5%E9%80%9A%E5%9C%8D%E6%AF%86-%E7%9B%9C%E8%B5%B0-30%E8%90%AC%E5%8B%9E%E5%8A%9B%E5%A3%AB%E5%90%8D%E9%8C%B6",
+    "timestamp": "2026-08-19T20:30:24.930Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "粉嶺黑排仔村36歲男遇襲　5男賊持鐵通圍毆　盜走$30萬勞力士名錶",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260818/1166382909712502784984256.jpeg/lQt6sShaHV4Zs7KULUDVV7BlLfBF4oOfJIX8tySF_Lc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60381701/%E9%83%B5%E6%94%BF%E6%94%B9%E5%90%88%E7%B4%84%E5%88%B6-%E9%81%8E%E8%A9%A6%E7%94%A8%E6%9C%9F%E4%B8%8D%E7%8D%B2%E8%BD%89%E9%95%B7%E6%9C%9F%E8%81%98%E7%94%A8-%E5%93%A1%E5%B7%A5%E6%89%B9%E8%A9%95%E4%BA%8B%E5%89%8D%E7%84%A1%E5%8D%94%E5%95%86",
     "timestamp": "2026-08-19T13:51:59.807Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "貪色惹禍！日男誤認長髮男為美女搭訕　飲下藥香檳昏迷被盜錢財",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260818/1166452767040999424986503.png/4vv9803LVzDjwJ_3dnpJW1uJaMbYBbkiLFLvPixS7z4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60380069/%E8%B2%AA%E8%89%B2%E6%83%B9%E7%A6%8D-%E6%97%A5%E7%94%B7%E8%AA%A4%E8%AA%8D%E9%95%B7%E9%AB%AE%E7%94%B7%E7%82%BA%E7%BE%8E%E5%A5%B3%E6%90%AD%E8%A8%95-%E9%A3%B2%E4%B8%8B%E8%97%A5%E9%A6%99%E6%AA%B3%E6%98%8F%E8%BF%B7%E8%A2%AB%E7%9B%9C%E9%8C%A2%E8%B2%A1",
-    "timestamp": "2026-08-19T13:25:17.967Z",
     "strategy": ".content-card__main"
   }
 ];
