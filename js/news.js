@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-20T04:05:50.304Z
+// Last updated: 2026-08-20T04:32:09.429Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "華人置業半年虧損收窄至2億　稱把握機會出售個別工廈單位",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20231110/799700228159967232153906.jpeg/hfHjkaEOUWC0MAG0ld7Xf5phno1EvS4q-xYT--EWE_s?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60381896/%E8%8F%AF%E4%BA%BA%E7%BD%AE%E6%A5%AD%E5%8D%8A%E5%B9%B4%E8%99%A7%E6%90%8D%E6%94%B6%E7%AA%84%E8%87%B32%E5%84%84-%E7%A8%B1%E6%8A%8A%E6%8F%A1%E6%A9%9F%E6%9C%83%E5%87%BA%E5%94%AE%E5%80%8B%E5%88%A5%E5%B7%A5%E5%BB%88%E5%96%AE%E4%BD%8D",
+    "timestamp": "2026-08-20T04:32:09.429Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "OPATRA London｜一文看一張6萬元單　如何一周內毀掉一個美容集團",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260820/1166935304498581504865047.jpeg/3qov_DbsZouWspmdvqYnaSvnGJOY1HZHSI4q8EiOKvA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60381753/%E8%AD%A6%E6%97%BA%E8%A7%92%E6%90%97%E7%A0%B4%E5%9C%B0%E4%B8%8B%E7%AB%B9%E9%A4%A8-%E6%AA%A26%E5%BC%B5%E9%BA%BB%E9%9B%80%E6%A1%8C%E5%92%8C-1-8%E8%90%AC-11%E4%BA%BA%E8%A2%AB%E6%8D%95",
     "timestamp": "2026-08-19T19:15:14.743Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "警旺角搗破地下竹館　檢6張麻雀桌和$1.8萬　11人被捕",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260820/1166935304498581504865047.jpeg/3qov_DbsZouWspmdvqYnaSvnGJOY1HZHSI4q8EiOKvA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60381753/%E8%AD%A6%E6%97%BA%E8%A7%92%E6%90%97%E7%A0%B4%E5%9C%B0%E4%B8%8B%E7%AB%B9%E9%A4%A8-%E6%AA%A26%E5%BC%B5%E9%BA%BB%E9%9B%80%E6%A1%8C%E5%92%8C-1-8%E8%90%AC-11%E4%BA%BA%E8%A2%AB%E6%8D%95",
-    "timestamp": "2026-08-19T18:52:14.242Z",
     "strategy": ".content-card__main"
   }
 ];
