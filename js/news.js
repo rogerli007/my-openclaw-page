@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-20T01:37:07.427Z
+// Last updated: 2026-08-20T02:17:28.439Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美聯儲會議紀要︰多名官員認為必要時可能需要加息",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260324/1113126671843594240861253.jpeg/TKzf9DaPwgSL1GfEfIKgJ5BVf2gGIsLqJEqKWyRKils?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60381773/%E7%BE%8E%E8%81%AF%E5%84%B2%E6%9C%83%E8%AD%B0%E7%B4%80%E8%A6%81-%E5%A4%9A%E5%90%8D%E5%AE%98%E5%93%A1%E8%AA%8D%E7%82%BA%E5%BF%85%E8%A6%81%E6%99%82%E5%8F%AF%E8%83%BD%E9%9C%80%E8%A6%81%E5%8A%A0%E6%81%AF",
+    "timestamp": "2026-08-20T02:17:28.439Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "安以軒老公陳榮煉洗錢案被判13年　帳戶仍存5千萬　妻想取用遭拒",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260712/1152910410307866624032986.jpeg/5cIxtx1z7tbITLJOnTkQBa_gqxRy7XS2811-3PNdftw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60381745/%E6%AD%90%E6%B4%B2%E7%86%B1%E6%B5%AA-%E6%B3%95%E5%9C%8B%E4%BB%8A%E5%A4%8F%E5%B7%B2%E7%B6%93%E6%AD%B752%E5%A4%A9%E7%86%B1%E6%B5%AA-%E5%89%B5%E8%BF%9180%E5%B9%B4%E7%B4%80%E9%8C%84",
     "timestamp": "2026-08-19T17:59:22.454Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "歐洲熱浪｜法國今夏已經歷52天熱浪　創近80年紀錄",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260712/1152910410307866624032986.jpeg/5cIxtx1z7tbITLJOnTkQBa_gqxRy7XS2811-3PNdftw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60381745/%E6%AD%90%E6%B4%B2%E7%86%B1%E6%B5%AA-%E6%B3%95%E5%9C%8B%E4%BB%8A%E5%A4%8F%E5%B7%B2%E7%B6%93%E6%AD%B752%E5%A4%A9%E7%86%B1%E6%B5%AA-%E5%89%B5%E8%BF%9180%E5%B9%B4%E7%B4%80%E9%8C%84",
-    "timestamp": "2026-08-19T17:47:50.645Z",
     "strategy": ".content-card__main"
   }
 ];
