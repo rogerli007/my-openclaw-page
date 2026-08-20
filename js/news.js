@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-19T23:59:29.337Z
+// Last updated: 2026-08-20T00:23:32.001Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "日女吸毒被家暴　產下死胎放雪櫃3年8月　貼「好愛你」便條讀繪本",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260819/1166793721279156224815967.png/22WYqYYf6ZPW0UtQ7P3QVUFT1KyXz381Q6Ti10Ok4tc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60380984/%E6%97%A5%E5%A5%B3%E5%90%B8%E6%AF%92%E8%A2%AB%E5%AE%B6%E6%9A%B4-%E7%94%A2%E4%B8%8B%E6%AD%BB%E8%83%8E%E6%94%BE%E9%9B%AA%E6%AB%833%E5%B9%B48%E6%9C%88-%E8%B2%BC-%E5%A5%BD%E6%84%9B%E4%BD%A0-%E4%BE%BF%E6%A2%9D%E8%AE%80%E7%B9%AA%E6%9C%AC",
+    "timestamp": "2026-08-20T00:23:32.001Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "大馬17歲女嚮導遭中國男騙回家　6小時性侵5次　踩外牆冷氣機逃走",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260712/1152910410307866624032986.jpeg/5cIxtx1z7tbITLJOnTkQBa_gqxRy7XS2811-3PNdftw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60381745/%E6%AD%90%E6%B4%B2%E7%86%B1%E6%B5%AA-%E6%B3%95%E5%9C%8B%E4%BB%8A%E5%A4%8F%E5%B7%B2%E7%B6%93%E6%AD%B752%E5%A4%A9%E7%86%B1%E6%B5%AA-%E5%89%B5%E8%BF%9180%E5%B9%B4%E7%B4%80%E9%8C%84",
     "timestamp": "2026-08-19T17:32:40.149Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "溏心蛋食譜做法｜不失敗8秘訣冷或熱水下鍋煮？醬汁加1飲品更甘甜",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20230823/770993489759440896569027.jpeg/isN-GRHi6Pnqmg48VH6dEAP8uslI7VI-5zrZx-c62cc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60381327/%E6%BA%8F%E5%BF%83%E8%9B%8B%E9%A3%9F%E8%AD%9C%E5%81%9A%E6%B3%95-%E4%B8%8D%E5%A4%B1%E6%95%978%E7%A7%98%E8%A8%A3%E5%86%B7%E6%88%96%E7%86%B1%E6%B0%B4%E4%B8%8B%E9%8D%8B%E7%85%AE-%E9%86%AC%E6%B1%81%E5%8A%A01%E9%A3%B2%E5%93%81%E6%9B%B4%E7%94%98%E7%94%9C",
-    "timestamp": "2026-08-19T17:02:52.400Z",
     "strategy": ".content-card__main"
   }
 ];
