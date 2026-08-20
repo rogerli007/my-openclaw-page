@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-20T10:34:41.784Z
+// Last updated: 2026-08-20T10:48:41.290Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "元朗狗咬狗．拉里最新安排｜漁護署：評估健康和性情　考量各方案",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260820/1167179597075189760712560.jpeg/K-Si4uRQqgy_9XfsgotGerbDhXTmqvy3PXsMnD17DJw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60382095/%E5%85%83%E6%9C%97%E7%8B%97%E5%92%AC%E7%8B%97-%E6%8B%89%E9%87%8C%E6%9C%80%E6%96%B0%E5%AE%89%E6%8E%92-%E6%BC%81%E8%AD%B7%E7%BD%B2-%E8%A9%95%E4%BC%B0%E5%81%A5%E5%BA%B7%E5%92%8C%E6%80%A7%E6%83%85-%E8%80%83%E9%87%8F%E5%90%84%E6%96%B9%E6%A1%88",
+    "timestamp": "2026-08-20T10:48:41.290Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "羽毛球世錦賽︱港隊女雙楊雅婷楊霈霖勇挫種子組合　首度晉身8強",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260819/1166793721279156224815967.png/22WYqYYf6ZPW0UtQ7P3QVUFT1KyXz381Q6Ti10Ok4tc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60380984/%E6%97%A5%E5%A5%B3%E5%90%B8%E6%AF%92%E8%A2%AB%E5%AE%B6%E6%9A%B4-%E7%94%A2%E4%B8%8B%E6%AD%BB%E8%83%8E%E6%94%BE%E9%9B%AA%E6%AB%833%E5%B9%B48%E6%9C%88-%E8%B2%BC-%E5%A5%BD%E6%84%9B%E4%BD%A0-%E4%BE%BF%E6%A2%9D%E8%AE%80%E7%B9%AA%E6%9C%AC",
     "timestamp": "2026-08-20T00:23:32.001Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "大馬17歲女嚮導遭中國男騙回家　6小時性侵5次　踩外牆冷氣機逃走",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260819/1166786395801391104306491.png/r6gGBCnFz_klvSPqhGakNdVN04sMVrsW3Cnr5dwp6-U?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60380953/%E5%A4%A7%E9%A6%AC17%E6%AD%B2%E5%A5%B3%E5%9A%AE%E5%B0%8E%E9%81%AD%E4%B8%AD%E5%9C%8B%E7%94%B7%E9%A8%99%E5%9B%9E%E5%AE%B6-6%E5%B0%8F%E6%99%82%E6%80%A7%E4%BE%B55%E6%AC%A1-%E8%B8%A9%E5%A4%96%E7%89%86%E5%86%B7%E6%B0%A3%E6%A9%9F%E9%80%83%E8%B5%B0",
-    "timestamp": "2026-08-19T23:59:29.337Z",
     "strategy": ".content-card__main"
   }
 ];
