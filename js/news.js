@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-20T18:04:05.767Z
+// Last updated: 2026-08-20T18:17:47.831Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "尼日利亞西北部翻船至少50死　遇難者多為兒童",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260821/1167289644635656192512476.jpeg/p0zTNbPyZhYY0vh-MUw2JhCYEG8tR91gphTaF6YU2hc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60382154/%E5%B0%BC%E6%97%A5%E5%88%A9%E4%BA%9E%E8%A5%BF%E5%8C%97%E9%83%A8%E7%BF%BB%E8%88%B9%E8%87%B3%E5%B0%9150%E6%AD%BB-%E9%81%87%E9%9B%A3%E8%80%85%E5%A4%9A%E7%82%BA%E5%85%92%E7%AB%A5",
+    "timestamp": "2026-08-20T18:17:47.831Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "芝麻糊食譜｜做法簡易加1物香滑濃稠、具養顏防脫髮功效好處",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20210128/431530812416987136869501.jpeg/4FRchVn4EsSAWA-4o0EzXgTZa_OvsViKiG1LMYhtSzE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%9C%8B%E9%9A%9B%E5%88%86%E6%9E%90/60382091/%E5%8D%8A%E4%B8%96%E7%B4%80%E6%9C%80%E8%84%86%E5%BC%B1-%E5%85%A8%E7%90%83%E9%87%91%E8%9E%8D%E9%AB%94%E7%B3%BB%E6%AD%A3%E8%A1%9D%E5%90%91%E5%8D%B1%E5%B1%80%E9%A0%82%E5%B3%B0",
     "timestamp": "2026-08-20T11:17:29.212Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "元朗狗咬狗．拉里最新安排｜漁護署：評估健康和性情　考量各方案",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260820/1167179597075189760712560.jpeg/K-Si4uRQqgy_9XfsgotGerbDhXTmqvy3PXsMnD17DJw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60382095/%E5%85%83%E6%9C%97%E7%8B%97%E5%92%AC%E7%8B%97-%E6%8B%89%E9%87%8C%E6%9C%80%E6%96%B0%E5%AE%89%E6%8E%92-%E6%BC%81%E8%AD%B7%E7%BD%B2-%E8%A9%95%E4%BC%B0%E5%81%A5%E5%BA%B7%E5%92%8C%E6%80%A7%E6%83%85-%E8%80%83%E9%87%8F%E5%90%84%E6%96%B9%E6%A1%88",
-    "timestamp": "2026-08-20T11:03:58.517Z",
     "strategy": ".content-card__main"
   }
 ];
