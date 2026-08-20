@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-20T16:01:25.711Z
+// Last updated: 2026-08-20T16:17:01.990Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "做AI短劇月虧上千元？算力賬單榨乾創作者！「一鍵躺賺」神話破滅",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260820/1167166044280721408310285.jpeg/li1nujI3vpkwwkOhy3B7-aNAVFQgiSEZS6K-ikuivoo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60382029/%E5%81%9Aai%E7%9F%AD%E5%8A%87%E6%9C%88%E8%99%A7%E4%B8%8A%E5%8D%83%E5%85%83-%E7%AE%97%E5%8A%9B%E8%B3%AC%E5%96%AE%E6%A6%A8%E4%B9%BE%E5%89%B5%E4%BD%9C%E8%80%85-%E4%B8%80%E9%8D%B5%E8%BA%BA%E8%B3%BA-%E7%A5%9E%E8%A9%B1%E7%A0%B4%E6%BB%85",
+    "timestamp": "2026-08-20T16:17:01.990Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "打鼓嶺狗殺人｜餵食後拒入籠　待領養30公斤唐狗咬斃狗酒店負責人",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260820/1167140057044226048931407.png/kfw6KmAJuhI370c0y9QcPErQoAk_8BRaRU4AIEVOACA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60382002/%E5%A5%B3%E5%8F%8B%E7%8B%82%E8%AE%9A%E8%80%81%E9%97%86%E9%9D%9A%E4%BB%94%E6%80%92%E7%95%992%E6%98%9F%E8%B2%A0%E8%A9%95-1%E5%B9%B4%E5%BE%8C%E7%94%B7%E5%AE%A2%E6%94%B9%E8%A9%95%E7%A5%9E%E5%8F%8D%E8%BD%89-%E6%88%91%E6%9C%83%E5%86%8D%E5%8E%BB",
     "timestamp": "2026-08-20T08:37:29.708Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "袁偉豪七夕曬全家福張寶兒腹部微隆惹猜測　網民狂問：追三胎？",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260820/1167108866337411072263945.jpeg/MJ_fBODsqEEfrH6JLH7k3DpJb2ElTmdohLShyYS0ock?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60381913/%E8%A2%81%E5%81%89%E8%B1%AA%E4%B8%83%E5%A4%95%E6%9B%AC%E5%85%A8%E5%AE%B6%E7%A6%8F%E5%BC%B5%E5%AF%B6%E5%85%92%E8%85%B9%E9%83%A8%E5%BE%AE%E9%9A%86%E6%83%B9%E7%8C%9C%E6%B8%AC-%E7%B6%B2%E6%B0%91%E7%8B%82%E5%95%8F-%E8%BF%BD%E4%B8%89%E8%83%8E",
-    "timestamp": "2026-08-20T07:33:38.613Z",
     "strategy": ".content-card__main"
   }
 ];
