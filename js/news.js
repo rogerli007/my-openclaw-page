@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-20T19:31:11.241Z
+// Last updated: 2026-08-20T19:48:29.874Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "哥倫比亞非法金礦發生山體滑坡　已致13人死亡",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260821/1167307431605178368620938.png/fRT7yuRteYXa4lRXNP7Cl5y7hi65mZkkB63JeQetyXk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60382158/%E5%93%A5%E5%80%AB%E6%AF%94%E4%BA%9E%E9%9D%9E%E6%B3%95%E9%87%91%E7%A4%A6%E7%99%BC%E7%94%9F%E5%B1%B1%E9%AB%94%E6%BB%91%E5%9D%A1-%E5%B7%B2%E8%87%B413%E4%BA%BA%E6%AD%BB%E4%BA%A1",
+    "timestamp": "2026-08-20T19:48:29.874Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "尼日利亞西北部翻船至少50死　遇難者多為兒童",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260820/1167199285696008192318570.jpeg/7SElYMT1S8xz89-atMmTA0PXctmpGHz246maUeOpmlE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/60381085/hayden-panettiere%E9%9B%A2%E4%B8%96-%E6%82%A3%E7%94%A2%E5%BE%8C%E6%8A%91%E9%AC%B1%E6%A3%84%E5%A5%B3%E6%92%AB%E9%A4%8A%E6%AC%8A-%E5%B0%8F%E5%BF%834%E5%A4%A7%E6%97%A9%E6%9C%9F%E8%AD%A6%E8%99%9F",
     "timestamp": "2026-08-20T12:02:00.457Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "天水圍屏廈路私家車泊露天停車場　中年漢被發現倒斃車內",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260713/1153350114497007616089632.jpeg/BKZa4HuDyWY-P4h5QCtV69P2KBcjgPb5zk_0a85P9Gs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60382101/%E5%A4%A9%E6%B0%B4%E5%9C%8D%E5%B1%8F%E5%BB%88%E8%B7%AF%E7%A7%81%E5%AE%B6%E8%BB%8A%E6%B3%8A%E9%9C%B2%E5%A4%A9%E5%81%9C%E8%BB%8A%E5%A0%B4-%E4%B8%AD%E5%B9%B4%E6%BC%A2%E8%A2%AB%E7%99%BC%E7%8F%BE%E5%80%92%E6%96%83%E8%BB%8A%E5%85%A7",
-    "timestamp": "2026-08-20T11:49:14.460Z",
     "strategy": ".content-card__main"
   }
 ];
