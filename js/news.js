@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-20T21:03:47.014Z
+// Last updated: 2026-08-20T21:18:16.222Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "旺角街頭39歲女疑遭非禮　73歲外籍男被捕　另涉未能出示身份證明",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260821/1167319170254114816852439.jpeg/PvrlRsXyzhj958BgXVjkWBMkDHBo2uOaxpsWCvybFgo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60382161/%E6%97%BA%E8%A7%92%E8%A1%97%E9%A0%AD39%E6%AD%B2%E5%A5%B3%E7%96%91%E9%81%AD%E9%9D%9E%E7%A6%AE-73%E6%AD%B2%E5%A4%96%E7%B1%8D%E7%94%B7%E8%A2%AB%E6%8D%95-%E5%8F%A6%E6%B6%89%E6%9C%AA%E8%83%BD%E5%87%BA%E7%A4%BA%E8%BA%AB%E4%BB%BD%E8%AD%89%E6%98%8E",
+    "timestamp": "2026-08-20T21:18:16.222Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "旺角街頭39歲女疑遭非禮　73歲外籍男被捕　另涉未能出示身份證明",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260209/1097666232108191744832159.jpeg/jw41opj-IGCPVqO76NzE8nJ8QcReJbbNNd5hwxDeYcM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60382104/%E5%9C%8B%E6%B3%B0%E5%93%88%E8%96%A9%E5%85%8B%E9%98%BF%E6%8B%89%E6%9C%A8%E5%9C%96%E7%9B%B4%E8%88%AA%E6%98%8E%E5%B9%B41-9%E5%95%9F%E8%88%AA-%E6%B0%B8%E5%AE%89%E6%97%85%E9%81%8A%E6%96%99%E5%9C%98%E8%B2%BB%E6%9C%80%E5%A4%9A%E5%9B%9E%E8%90%BD20",
     "timestamp": "2026-08-20T15:18:17.460Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "六合彩8.22頭獎1300萬｜6個最旺號碼+2招增中獎機會",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20251218/1078441818552537088382965.jpeg/bkBJ-VAd6-SFifYYU7Xm0p23irWF75kO9U1PlvVNT5Y?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60382138/%E5%85%AD%E5%90%88%E5%BD%A98-22%E9%A0%AD%E7%8D%8E1300%E8%90%AC-6%E5%80%8B%E6%9C%80%E6%97%BA%E8%99%9F%E7%A2%BC-2%E6%8B%9B%E5%A2%9E%E4%B8%AD%E7%8D%8E%E6%A9%9F%E6%9C%83",
-    "timestamp": "2026-08-20T14:31:41.523Z",
     "strategy": ".content-card__main"
   }
 ];
