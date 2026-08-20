@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-20T04:52:28.433Z
+// Last updated: 2026-08-20T05:17:21.720Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "英超特攻｜阿仙奴主場食硬升班馬　揭幕戰勢「大」勝",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260820/1167096795784810496483260.jpeg/nkgD90kO54DdpX5ISkCRIz-m9UFyhpUAFqMOiBajDog?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60381846/%E8%8B%B1%E8%B6%85%E7%89%B9%E6%94%BB-%E9%98%BF%E4%BB%99%E5%A5%B4%E4%B8%BB%E5%A0%B4%E9%A3%9F%E7%A1%AC%E5%8D%87%E7%8F%AD%E9%A6%AC-%E6%8F%AD%E5%B9%95%E6%88%B0%E5%8B%A2-%E5%A4%A7-%E5%8B%9D",
+    "timestamp": "2026-08-20T05:17:21.720Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "孫慧雪親述三十年偏頭痛之路 生二胎後曾痛到膊頭、背脊",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260820/1166945934563610624180967.jpeg/CamMecEwUXykMc0nOTBjMXuVsBUxYLaxW0J2UWFCdlE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60381755/%E7%B2%89%E5%B6%BA%E9%BB%91%E6%8E%92%E4%BB%94%E6%9D%9136%E6%AD%B2%E7%94%B7%E9%81%87%E8%A5%B2-5%E7%94%B7%E8%B3%8A%E6%8C%81%E9%90%B5%E9%80%9A%E5%9C%8D%E6%AF%86-%E7%9B%9C%E8%B5%B0-30%E8%90%AC%E5%8B%9E%E5%8A%9B%E5%A3%AB%E5%90%8D%E9%8C%B6",
     "timestamp": "2026-08-19T19:58:12.599Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "粉嶺黑排仔村36歲男遇襲　5男賊持鐵通圍毆　盜走$30萬勞力士名錶",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260820/1166945934563610624180967.jpeg/CamMecEwUXykMc0nOTBjMXuVsBUxYLaxW0J2UWFCdlE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60381755/%E7%B2%89%E5%B6%BA%E9%BB%91%E6%8E%92%E4%BB%94%E6%9D%9136%E6%AD%B2%E7%94%B7%E9%81%87%E8%A5%B2-5%E7%94%B7%E8%B3%8A%E6%8C%81%E9%90%B5%E9%80%9A%E5%9C%8D%E6%AF%86-%E7%9B%9C%E8%B5%B0-30%E8%90%AC%E5%8B%9E%E5%8A%9B%E5%A3%AB%E5%90%8D%E9%8C%B6",
-    "timestamp": "2026-08-19T19:45:11.454Z",
     "strategy": ".content-card__main"
   }
 ];
