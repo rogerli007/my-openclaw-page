@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-20T06:18:08.936Z
+// Last updated: 2026-08-20T06:36:38.752Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "料引進K9A2自行榴彈炮取代M777　美軍將採購韓國韓華防務MTC火炮",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260820/1167075679070588928364209.jpeg/W88lPhb3jvi3av7EKkzheJjklPgruNSormsonq5rKJ4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60381857/%E6%96%99%E5%BC%95%E9%80%B2k9a2%E8%87%AA%E8%A1%8C%E6%A6%B4%E5%BD%88%E7%82%AE%E5%8F%96%E4%BB%A3m777-%E7%BE%8E%E8%BB%8D%E5%B0%87%E6%8E%A1%E8%B3%BC%E9%9F%93%E5%9C%8B%E9%9F%93%E8%8F%AF%E9%98%B2%E5%8B%99mtc%E7%81%AB%E7%82%AE",
+    "timestamp": "2026-08-20T06:36:38.752Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "許家印被判處無期徒刑　中國房地產泡沫教訓深刻",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260818/1166382025192509440025461.jpeg/-dvTwbHzBkgR4bY2fsFoFJDr8u3N5pKt7Ml4gOzJeIA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60381760/%E7%BE%8E%E5%9C%8B%E5%82%B5%E5%8B%99%E7%AA%81%E7%A0%B440%E8%90%AC%E5%84%84%E7%BE%8E%E5%85%83-%E7%89%B9%E6%9C%97%E6%99%AE%E6%8B%9C%E7%99%BB%E4%BB%BB%E5%85%A7%E5%90%88%E5%A2%9E%E8%BF%9120%E8%90%AC%E5%84%84",
     "timestamp": "2026-08-19T21:58:36.413Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "粉嶺黑排仔村36歲男遇襲　5男賊持鐵通圍毆　盜走$30萬勞力士名錶",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260820/1166945934563610624180967.jpeg/CamMecEwUXykMc0nOTBjMXuVsBUxYLaxW0J2UWFCdlE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60381755/%E7%B2%89%E5%B6%BA%E9%BB%91%E6%8E%92%E4%BB%94%E6%9D%9136%E6%AD%B2%E7%94%B7%E9%81%87%E8%A5%B2-5%E7%94%B7%E8%B3%8A%E6%8C%81%E9%90%B5%E9%80%9A%E5%9C%8D%E6%AF%86-%E7%9B%9C%E8%B5%B0-30%E8%90%AC%E5%8B%9E%E5%8A%9B%E5%A3%AB%E5%90%8D%E9%8C%B6",
-    "timestamp": "2026-08-19T20:30:24.930Z",
     "strategy": ".content-card__main"
   }
 ];
