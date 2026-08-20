@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-20T05:50:32.015Z
+// Last updated: 2026-08-20T06:18:08.936Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "許家印被判處無期徒刑　中國房地產泡沫教訓深刻",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260820/1167112319348510720235468.jpeg/Y21laWLrB6HfGeomzdgB_0zjZ813b9U41il7mNYpe5g?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E4%B8%AD%E5%9C%8B%E8%A7%80%E5%AF%9F/60381931/%E8%A8%B1%E5%AE%B6%E5%8D%B0%E8%A2%AB%E5%88%A4%E8%99%95%E7%84%A1%E6%9C%9F%E5%BE%92%E5%88%91-%E4%B8%AD%E5%9C%8B%E6%88%BF%E5%9C%B0%E7%94%A2%E6%B3%A1%E6%B2%AB%E6%95%99%E8%A8%93%E6%B7%B1%E5%88%BB",
+    "timestamp": "2026-08-20T06:18:08.936Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "退休漢涉鐮刀襲狗　否認虐畜罪10.7開審　將爭議用鎌刀作自衛",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260820/1166945934563610624180967.jpeg/CamMecEwUXykMc0nOTBjMXuVsBUxYLaxW0J2UWFCdlE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60381755/%E7%B2%89%E5%B6%BA%E9%BB%91%E6%8E%92%E4%BB%94%E6%9D%9136%E6%AD%B2%E7%94%B7%E9%81%87%E8%A5%B2-5%E7%94%B7%E8%B3%8A%E6%8C%81%E9%90%B5%E9%80%9A%E5%9C%8D%E6%AF%86-%E7%9B%9C%E8%B5%B0-30%E8%90%AC%E5%8B%9E%E5%8A%9B%E5%A3%AB%E5%90%8D%E9%8C%B6",
     "timestamp": "2026-08-19T20:30:24.930Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "粉嶺黑排仔村36歲男遇襲　5男賊持鐵通圍毆　盜走$30萬勞力士名錶",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260820/1166945934563610624180967.jpeg/CamMecEwUXykMc0nOTBjMXuVsBUxYLaxW0J2UWFCdlE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60381755/%E7%B2%89%E5%B6%BA%E9%BB%91%E6%8E%92%E4%BB%94%E6%9D%9136%E6%AD%B2%E7%94%B7%E9%81%87%E8%A5%B2-5%E7%94%B7%E8%B3%8A%E6%8C%81%E9%90%B5%E9%80%9A%E5%9C%8D%E6%AF%86-%E7%9B%9C%E8%B5%B0-30%E8%90%AC%E5%8B%9E%E5%8A%9B%E5%A3%AB%E5%90%8D%E9%8C%B6",
-    "timestamp": "2026-08-19T20:12:28.903Z",
     "strategy": ".content-card__main"
   }
 ];
