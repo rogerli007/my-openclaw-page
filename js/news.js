@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-20T10:05:53.398Z
+// Last updated: 2026-08-20T10:34:41.784Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "羽毛球世錦賽︱港隊女雙楊雅婷楊霈霖勇挫種子組合　首度晉身8強",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260820/1167168948458754048609213.jpeg/Slgnt4s1uhwUgwT7mrcweIDJ-b3VQUv7VzfW5Fc31uQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60382080/%E7%BE%BD%E6%AF%9B%E7%90%83%E4%B8%96%E9%8C%A6%E8%B3%BD-%E6%B8%AF%E9%9A%8A%E5%A5%B3%E9%9B%99%E6%A5%8A%E9%9B%85%E5%A9%B7%E6%A5%8A%E9%9C%88%E9%9C%96%E5%8B%87%E6%8C%AB%E7%A8%AE%E5%AD%90%E7%B5%84%E5%90%88-%E9%A6%96%E5%BA%A6%E6%99%89%E8%BA%AB8%E5%BC%B7",
+    "timestamp": "2026-08-20T10:34:41.784Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "日本初中生選美2026｜13歲美少女摘冠！甜美外貌私下竟是劍道高手",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260819/1166786395801391104306491.png/r6gGBCnFz_klvSPqhGakNdVN04sMVrsW3Cnr5dwp6-U?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60380953/%E5%A4%A7%E9%A6%AC17%E6%AD%B2%E5%A5%B3%E5%9A%AE%E5%B0%8E%E9%81%AD%E4%B8%AD%E5%9C%8B%E7%94%B7%E9%A8%99%E5%9B%9E%E5%AE%B6-6%E5%B0%8F%E6%99%82%E6%80%A7%E4%BE%B55%E6%AC%A1-%E8%B8%A9%E5%A4%96%E7%89%86%E5%86%B7%E6%B0%A3%E6%A9%9F%E9%80%83%E8%B5%B0",
     "timestamp": "2026-08-19T23:59:29.337Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "大馬17歲女嚮導遭中國男騙回家　6小時性侵5次　踩外牆冷氣機逃走",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260819/1166786395801391104306491.png/r6gGBCnFz_klvSPqhGakNdVN04sMVrsW3Cnr5dwp6-U?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60380953/%E5%A4%A7%E9%A6%AC17%E6%AD%B2%E5%A5%B3%E5%9A%AE%E5%B0%8E%E9%81%AD%E4%B8%AD%E5%9C%8B%E7%94%B7%E9%A8%99%E5%9B%9E%E5%AE%B6-6%E5%B0%8F%E6%99%82%E6%80%A7%E4%BE%B55%E6%AC%A1-%E8%B8%A9%E5%A4%96%E7%89%86%E5%86%B7%E6%B0%A3%E6%A9%9F%E9%80%83%E8%B5%B0",
-    "timestamp": "2026-08-19T23:43:45.506Z",
     "strategy": ".content-card__main"
   }
 ];
