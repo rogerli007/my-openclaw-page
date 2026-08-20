@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-20T00:23:32.001Z
+// Last updated: 2026-08-20T01:37:07.427Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "安以軒老公陳榮煉洗錢案被判13年　帳戶仍存5千萬　妻想取用遭拒",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260819/1166789773889638400745263.jpeg/jqnntntp27u39ELHH0jXf3eI8YFhL1sqIHOp5yBzqec?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60381618/%E5%AE%89%E4%BB%A5%E8%BB%92%E8%80%81%E5%85%AC%E9%99%B3%E6%A6%AE%E7%85%89%E6%B4%97%E9%8C%A2%E6%A1%88%E8%A2%AB%E5%88%A413%E5%B9%B4-%E5%B8%B3%E6%88%B6%E4%BB%8D%E5%AD%985%E5%8D%83%E8%90%AC-%E5%A6%BB%E6%83%B3%E5%8F%96%E7%94%A8%E9%81%AD%E6%8B%92",
+    "timestamp": "2026-08-20T01:37:07.427Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "日女吸毒被家暴　產下死胎放雪櫃3年8月　貼「好愛你」便條讀繪本",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260712/1152910410307866624032986.jpeg/5cIxtx1z7tbITLJOnTkQBa_gqxRy7XS2811-3PNdftw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60381745/%E6%AD%90%E6%B4%B2%E7%86%B1%E6%B5%AA-%E6%B3%95%E5%9C%8B%E4%BB%8A%E5%A4%8F%E5%B7%B2%E7%B6%93%E6%AD%B752%E5%A4%A9%E7%86%B1%E6%B5%AA-%E5%89%B5%E8%BF%9180%E5%B9%B4%E7%B4%80%E9%8C%84",
     "timestamp": "2026-08-19T17:47:50.645Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "歐洲熱浪｜法國今夏已經歷52天熱浪　創近80年紀錄",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260712/1152910410307866624032986.jpeg/5cIxtx1z7tbITLJOnTkQBa_gqxRy7XS2811-3PNdftw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60381745/%E6%AD%90%E6%B4%B2%E7%86%B1%E6%B5%AA-%E6%B3%95%E5%9C%8B%E4%BB%8A%E5%A4%8F%E5%B7%B2%E7%B6%93%E6%AD%B752%E5%A4%A9%E7%86%B1%E6%B5%AA-%E5%89%B5%E8%BF%9180%E5%B9%B4%E7%B4%80%E9%8C%84",
-    "timestamp": "2026-08-19T17:32:40.149Z",
     "strategy": ".content-card__main"
   }
 ];
