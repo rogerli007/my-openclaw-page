@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-20T09:08:21.665Z
+// Last updated: 2026-08-20T09:49:28.219Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "阿里首財季經調整盈利跌38%　自由現金流負446億　ADR盤前急挫",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260114/1088122675324260352059418.jpeg/4CYxngRhkbH3mX6mtMBmRGbkpinabthiUvlyCVL5cgk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60381916/%E9%98%BF%E9%87%8C%E9%A6%96%E8%B2%A1%E5%AD%A3%E7%B6%93%E8%AA%BF%E6%95%B4%E7%9B%88%E5%88%A9%E8%B7%8C38-%E8%87%AA%E7%94%B1%E7%8F%BE%E9%87%91%E6%B5%81%E8%B2%A0446%E5%84%84-adr%E7%9B%A4%E5%89%8D%E6%80%A5%E6%8C%AB",
+    "timestamp": "2026-08-20T09:49:28.219Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "Channel C負責人涉欠薪　被告稱曾向區議員服務助被拒　案再押後",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260819/1166786395801391104306491.png/r6gGBCnFz_klvSPqhGakNdVN04sMVrsW3Cnr5dwp6-U?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60380953/%E5%A4%A7%E9%A6%AC17%E6%AD%B2%E5%A5%B3%E5%9A%AE%E5%B0%8E%E9%81%AD%E4%B8%AD%E5%9C%8B%E7%94%B7%E9%A8%99%E5%9B%9E%E5%AE%B6-6%E5%B0%8F%E6%99%82%E6%80%A7%E4%BE%B55%E6%AC%A1-%E8%B8%A9%E5%A4%96%E7%89%86%E5%86%B7%E6%B0%A3%E6%A9%9F%E9%80%83%E8%B5%B0",
     "timestamp": "2026-08-19T23:33:01.502Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "越南Fun Coffee騙局｜港警：截至8月19日接286報案　損失$1.18億",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260730/1159585377648906240641802.png/bjxZgDjpuE5x_g__gqoyjpkR_OOMe8SxT6kDiE-pA4g?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60381765/%E8%B6%8A%E5%8D%97fun-coffee%E9%A8%99%E5%B1%80-%E6%B8%AF%E8%AD%A6-%E6%88%AA%E8%87%B38%E6%9C%8819%E6%97%A5%E6%8E%A5286%E5%A0%B1%E6%A1%88-%E6%90%8D%E5%A4%B1-1-18%E5%84%84",
-    "timestamp": "2026-08-19T23:12:46.491Z",
     "strategy": ".content-card__main"
   }
 ];
