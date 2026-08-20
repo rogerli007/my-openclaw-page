@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-20T23:01:35.948Z
+// Last updated: 2026-08-20T23:16:07.218Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美國男砸穿墻壁闖鄰居屋　毆打並企圖性侵15歲少女　鄰居報警獲救",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260820/1167154203223658496690583.png/En5UAoDMUjJeBDE4_hkituxNdICntrgLGLujZhi7o2Y?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E8%A9%B1%E9%A1%8C/60381799/%E7%BE%8E%E5%9C%8B%E7%94%B7%E7%A0%B8%E7%A9%BF%E5%A2%BB%E5%A3%81%E9%97%96%E9%84%B0%E5%B1%85%E5%B1%8B-%E6%AF%86%E6%89%93%E4%B8%A6%E4%BC%81%E5%9C%96%E6%80%A7%E4%BE%B515%E6%AD%B2%E5%B0%91%E5%A5%B3-%E9%84%B0%E5%B1%85%E5%A0%B1%E8%AD%A6%E7%8D%B2%E6%95%91",
+    "timestamp": "2026-08-20T23:16:07.218Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "中國與瑞士宣布完成自貿協定升級談判　共創經貿合作新機遇",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260821/1167269547783229440169873.jpeg/hjVIIr26PSc43ASY7Fgrz4VYF_yyCAPDt_Hbkrfx25I?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60382148/%E6%9C%80%E6%96%B0%E5%A4%A9%E6%B0%A3%E6%B6%88%E6%81%AF-%E5%91%A8%E4%BA%94%E8%BF%94%E5%B7%A5%E6%B3%A8%E6%84%8F-%E5%A4%A9%E6%96%87%E5%8F%B0%E6%96%99%E5%88%9D%E6%99%82%E9%83%A8%E5%88%86%E5%9C%B0%E5%8D%80%E9%9B%A8%E5%8B%A2%E8%BC%83%E5%A4%A7",
     "timestamp": "2026-08-20T17:15:09.756Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "打鼓嶺狗殺人｜30公斤唐狗住狗舍10日待領養　餵食後拒入籠施襲",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260820/1167222531812233216472063.jpeg/hNtjxI00XbwTvnoUjgb89ESdZhIQblNtHhDNQggQzUI?v=w1920",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60382147/%E6%89%93%E9%BC%93%E5%B6%BA%E7%8B%97%E6%AE%BA%E4%BA%BA-30%E5%85%AC%E6%96%A4%E5%94%90%E7%8B%97%E4%BD%8F%E7%8B%97%E8%88%8D10%E6%97%A5%E5%BE%85%E9%A0%98%E9%A4%8A-%E9%A4%B5%E9%A3%9F%E5%BE%8C%E6%8B%92%E5%85%A5%E7%B1%A0%E6%96%BD%E8%A5%B2",
-    "timestamp": "2026-08-20T16:57:56.456Z",
     "strategy": ".content-card__main"
   }
 ];
