@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-20T07:33:38.613Z
+// Last updated: 2026-08-20T08:37:29.708Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "女友狂讚老闆靚仔怒留2星負評　1年後男客改評神反轉「我會再去」",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260820/1167140057044226048931407.png/kfw6KmAJuhI370c0y9QcPErQoAk_8BRaRU4AIEVOACA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60382002/%E5%A5%B3%E5%8F%8B%E7%8B%82%E8%AE%9A%E8%80%81%E9%97%86%E9%9D%9A%E4%BB%94%E6%80%92%E7%95%992%E6%98%9F%E8%B2%A0%E8%A9%95-1%E5%B9%B4%E5%BE%8C%E7%94%B7%E5%AE%A2%E6%94%B9%E8%A9%95%E7%A5%9E%E5%8F%8D%E8%BD%89-%E6%88%91%E6%9C%83%E5%86%8D%E5%8E%BB",
+    "timestamp": "2026-08-20T08:37:29.708Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "袁偉豪七夕曬全家福張寶兒腹部微隆惹猜測　網民狂問：追三胎？",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260820/1166991598458769408021674.jpeg/71b1a9Q3iZXQibtApaCBX2i4DwEh4cPQtg0x6bYNMek?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60381764/%E8%82%AF%E5%B0%BC%E4%BA%9E%E7%9B%B4%E5%8D%87%E6%A9%9F%E5%A2%9C%E6%AF%807%E4%BA%BA%E8%BA%AB%E4%BA%A1-%E6%AD%BB%E8%80%85%E5%8C%85%E6%8B%AC%E5%8E%84%E7%93%9C%E5%A4%9A%E7%88%BE%E6%83%85%E5%A0%B1%E9%A6%96%E9%95%B7%E8%88%87nbc%E8%A8%98%E8%80%85",
     "timestamp": "2026-08-19T22:58:14.378Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "肯尼亞直升機墜毀7人身亡　死者包括厄瓜多爾情報首長與NBC記者",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260820/1166991598458769408021674.jpeg/71b1a9Q3iZXQibtApaCBX2i4DwEh4cPQtg0x6bYNMek?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60381764/%E8%82%AF%E5%B0%BC%E4%BA%9E%E7%9B%B4%E5%8D%87%E6%A9%9F%E5%A2%9C%E6%AF%807%E4%BA%BA%E8%BA%AB%E4%BA%A1-%E6%AD%BB%E8%80%85%E5%8C%85%E6%8B%AC%E5%8E%84%E7%93%9C%E5%A4%9A%E7%88%BE%E6%83%85%E5%A0%B1%E9%A6%96%E9%95%B7%E8%88%87nbc%E8%A8%98%E8%80%85",
-    "timestamp": "2026-08-19T22:45:18.087Z",
     "strategy": ".content-card__main"
   }
 ];
