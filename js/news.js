@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-20T23:46:05.593Z
+// Last updated: 2026-08-20T23:58:43.461Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "為何特朗普又舉起「反共」旗幟？｜Jack Talk・去片",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260820/1167120779758800896753629.jpeg/Dngj7p8ZmFM3grgVYRG0vIPtYm25oz2ZRahfLUWoXy0",
+    "url": "https://www.hk01.com/%E5%9C%8B%E9%9A%9B%E5%88%86%E6%9E%90/60379561/%E7%82%BA%E4%BD%95%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%88%E8%88%89%E8%B5%B7-%E5%8F%8D%E5%85%B1-%E6%97%97%E5%B9%9F-jack-talk-%E5%8E%BB%E7%89%87",
+    "timestamp": "2026-08-20T23:58:43.461Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "為何特朗普又舉起「反共」旗幟？｜Jack Talk・去片",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20241122/936697654572748800568712.jpeg/lE7i0wPSHPWEDtXPRDp7JophP-_yxoIk21Bbi9tQW4s",
     "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60382151/%E8%8A%9D%E9%BA%BB%E7%B3%8A%E9%A3%9F%E8%AD%9C-%E5%81%9A%E6%B3%95%E7%B0%A1%E6%98%93%E5%8A%A01%E7%89%A9%E9%A6%99%E6%BB%91%E6%BF%83%E7%A8%A0-%E5%85%B7%E9%A4%8A%E9%A1%8F%E9%98%B2%E8%84%AB%E9%AB%AE%E5%8A%9F%E6%95%88%E5%A5%BD%E8%99%95",
     "timestamp": "2026-08-20T18:04:05.767Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "芝麻糊食譜｜做法簡易加1物香滑濃稠、具養顏防脫髮功效好處",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20241122/936697654572748800568712.jpeg/lE7i0wPSHPWEDtXPRDp7JophP-_yxoIk21Bbi9tQW4s",
-    "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60382151/%E8%8A%9D%E9%BA%BB%E7%B3%8A%E9%A3%9F%E8%AD%9C-%E5%81%9A%E6%B3%95%E7%B0%A1%E6%98%93%E5%8A%A01%E7%89%A9%E9%A6%99%E6%BB%91%E6%BF%83%E7%A8%A0-%E5%85%B7%E9%A4%8A%E9%A1%8F%E9%98%B2%E8%84%AB%E9%AB%AE%E5%8A%9F%E6%95%88%E5%A5%BD%E8%99%95",
-    "timestamp": "2026-08-20T17:47:42.382Z",
     "strategy": ".content-card__main"
   }
 ];
