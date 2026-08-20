@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-20T21:49:05.309Z
+// Last updated: 2026-08-20T22:02:10.968Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "歐洲熱浪｜德國今年逾1.4萬人熱死　創單年最高紀錄",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260821/1167333310704128000031286.jpeg/qkaqOCA8OsCnzT89S6CioiHQ2xx3oOCcB0kaXAdJGlw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60382164/%E6%AD%90%E6%B4%B2%E7%86%B1%E6%B5%AA-%E5%BE%B7%E5%9C%8B%E4%BB%8A%E5%B9%B4%E9%80%BE1-4%E8%90%AC%E4%BA%BA%E7%86%B1%E6%AD%BB-%E5%89%B5%E5%96%AE%E5%B9%B4%E6%9C%80%E9%AB%98%E7%B4%80%E9%8C%84",
+    "timestamp": "2026-08-20T22:02:10.968Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "旺角街頭39歲女疑遭非禮　73歲外籍男被捕　另涉未能出示身份證明",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260820/1167257717169983488907631.jpeg/0isrUDPdczMN8heC9_Lt5BNuUnXumcIkmMRq7ZjEau0",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60382113/%E6%89%93%E9%BC%93%E5%B6%BA%E7%8B%97%E6%AE%BA%E4%BA%BA-%E9%A4%B5%E9%A3%9F%E5%BE%8C%E6%8B%92%E5%85%A5%E7%B1%A0-%E5%BE%85%E9%A0%98%E9%A4%8A30%E5%85%AC%E6%96%A4%E5%94%90%E7%8B%97%E5%92%AC%E6%96%83%E7%8B%97%E9%85%92%E5%BA%97%E8%B2%A0%E8%B2%AC%E4%BA%BA",
     "timestamp": "2026-08-20T16:01:25.711Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "也門胡塞武裝無人機襲沙特　攻擊奈季蘭機場與沙特阿美設施",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20240219/836069781999456256479632.jpeg/1abiUI_6ARrCQ_XnbKZDhBOYSYhrJ9XvEZT_1xGU_9c?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60382137/%E4%B9%9F%E9%96%80%E8%83%A1%E5%A1%9E%E6%AD%A6%E8%A3%9D%E7%84%A1%E4%BA%BA%E6%A9%9F%E8%A5%B2%E6%B2%99%E7%89%B9-%E6%94%BB%E6%93%8A%E5%A5%88%E5%AD%A3%E8%98%AD%E6%A9%9F%E5%A0%B4%E8%88%87%E6%B2%99%E7%89%B9%E9%98%BF%E7%BE%8E%E8%A8%AD%E6%96%BD",
-    "timestamp": "2026-08-20T15:35:58.087Z",
     "strategy": ".content-card__main"
   }
 ];
