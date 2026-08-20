@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-20T16:57:56.456Z
+// Last updated: 2026-08-20T17:15:09.756Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "最新天氣消息｜周五返工注意　天文台料初時部分地區雨勢較大",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260821/1167269547783229440169873.jpeg/hjVIIr26PSc43ASY7Fgrz4VYF_yyCAPDt_Hbkrfx25I?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60382148/%E6%9C%80%E6%96%B0%E5%A4%A9%E6%B0%A3%E6%B6%88%E6%81%AF-%E5%91%A8%E4%BA%94%E8%BF%94%E5%B7%A5%E6%B3%A8%E6%84%8F-%E5%A4%A9%E6%96%87%E5%8F%B0%E6%96%99%E5%88%9D%E6%99%82%E9%83%A8%E5%88%86%E5%9C%B0%E5%8D%80%E9%9B%A8%E5%8B%A2%E8%BC%83%E5%A4%A7",
+    "timestamp": "2026-08-20T17:15:09.756Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "打鼓嶺狗殺人｜30公斤唐狗住狗舍10日待領養　餵食後拒入籠施襲",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260819/1166811496303693824617352.png/rJvRfFkB9CXAnM-TugTfBWpCqjRoN1K-ISLUBSEi1AU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%96%8B%E7%BD%90/60379154/%E6%97%A5%E6%9C%AC%E5%88%9D%E4%B8%AD%E7%94%9F%E9%81%B8%E7%BE%8E2026-13%E6%AD%B2%E7%BE%8E%E5%B0%91%E5%A5%B3%E6%91%98%E5%86%A0-%E7%94%9C%E7%BE%8E%E5%A4%96%E8%B2%8C%E7%A7%81%E4%B8%8B%E7%AB%9F%E6%98%AF%E5%8A%8D%E9%81%93%E9%AB%98%E6%89%8B",
     "timestamp": "2026-08-20T10:05:53.398Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "阿里首財季經調整盈利跌38%　自由現金流負446億　ADR盤前急挫",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260114/1088122675324260352059418.jpeg/4CYxngRhkbH3mX6mtMBmRGbkpinabthiUvlyCVL5cgk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60381916/%E9%98%BF%E9%87%8C%E9%A6%96%E8%B2%A1%E5%AD%A3%E7%B6%93%E8%AA%BF%E6%95%B4%E7%9B%88%E5%88%A9%E8%B7%8C38-%E8%87%AA%E7%94%B1%E7%8F%BE%E9%87%91%E6%B5%81%E8%B2%A0446%E5%84%84-adr%E7%9B%A4%E5%89%8D%E6%80%A5%E6%8C%AB",
-    "timestamp": "2026-08-20T09:49:28.219Z",
     "strategy": ".content-card__main"
   }
 ];
