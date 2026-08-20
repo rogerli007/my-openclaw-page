@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-20T07:08:44.157Z
+// Last updated: 2026-08-20T07:33:38.613Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "袁偉豪七夕曬全家福張寶兒腹部微隆惹猜測　網民狂問：追三胎？",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260820/1167108866337411072263945.jpeg/MJ_fBODsqEEfrH6JLH7k3DpJb2ElTmdohLShyYS0ock?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60381913/%E8%A2%81%E5%81%89%E8%B1%AA%E4%B8%83%E5%A4%95%E6%9B%AC%E5%85%A8%E5%AE%B6%E7%A6%8F%E5%BC%B5%E5%AF%B6%E5%85%92%E8%85%B9%E9%83%A8%E5%BE%AE%E9%9A%86%E6%83%B9%E7%8C%9C%E6%B8%AC-%E7%B6%B2%E6%B0%91%E7%8B%82%E5%95%8F-%E8%BF%BD%E4%B8%89%E8%83%8E",
+    "timestamp": "2026-08-20T07:33:38.613Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "海關屯門查3內地來港貨櫃　檢私煙及2.5萬件手機等冒牌貨值$850萬",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260820/1166991598458769408021674.jpeg/71b1a9Q3iZXQibtApaCBX2i4DwEh4cPQtg0x6bYNMek?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60381764/%E8%82%AF%E5%B0%BC%E4%BA%9E%E7%9B%B4%E5%8D%87%E6%A9%9F%E5%A2%9C%E6%AF%807%E4%BA%BA%E8%BA%AB%E4%BA%A1-%E6%AD%BB%E8%80%85%E5%8C%85%E6%8B%AC%E5%8E%84%E7%93%9C%E5%A4%9A%E7%88%BE%E6%83%85%E5%A0%B1%E9%A6%96%E9%95%B7%E8%88%87nbc%E8%A8%98%E8%80%85",
     "timestamp": "2026-08-19T22:45:18.087Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "葵涌貨車「自炒」掃欄　司機無受傷一度被困車內　報稱避黑貓肇禍",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260820/1166989090311114752186024.jpeg/hkdKEdzt7bY9_07pSpG2EZzWN4IJVs5qs27TULNu01A?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60381763/%E8%91%B5%E6%B6%8C%E8%B2%A8%E8%BB%8A-%E8%87%AA%E7%82%92-%E6%8E%83%E6%AC%84-%E5%8F%B8%E6%A9%9F%E7%84%A1%E5%8F%97%E5%82%B7%E4%B8%80%E5%BA%A6%E8%A2%AB%E5%9B%B0%E8%BB%8A%E5%85%A7-%E5%A0%B1%E7%A8%B1%E9%81%BF%E9%BB%91%E8%B2%93%E8%82%87%E7%A6%8D",
-    "timestamp": "2026-08-19T22:29:47.403Z",
     "strategy": ".content-card__main"
   }
 ];
