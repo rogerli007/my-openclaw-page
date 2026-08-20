@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-20T13:37:36.818Z
+// Last updated: 2026-08-20T14:05:52.601Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "黃淑儀談復出拍劇直言「想都不敢想」　一個條件令她甘願放棄事業",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260820/1167196906909077504124983.jpeg/hclWrf93lG_KlSnEyXocipIEoNq8Emjj2vQJ3tr0Cd4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60381938/%E9%BB%83%E6%B7%91%E5%84%80%E8%AB%87%E5%BE%A9%E5%87%BA%E6%8B%8D%E5%8A%87%E7%9B%B4%E8%A8%80-%E6%83%B3%E9%83%BD%E4%B8%8D%E6%95%A2%E6%83%B3-%E4%B8%80%E5%80%8B%E6%A2%9D%E4%BB%B6%E4%BB%A4%E5%A5%B9%E7%94%98%E9%A1%98%E6%94%BE%E6%A3%84%E4%BA%8B%E6%A5%AD",
+    "timestamp": "2026-08-20T14:05:52.601Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "涉用外縣牛肉冒充鹿兒島產騙145萬日圓　「水迫畜產」前董事被捕",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260820/1167073079558541312786105.jpeg/HeQvS4kmcaqWdH8ZVc3DFfEuAaB7cUkyQ7hMB2a4TAc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60381920/%E9%80%80%E4%BC%91%E6%BC%A2%E6%B6%89%E9%90%AE%E5%88%80%E8%A5%B2%E7%8B%97-%E5%90%A6%E8%AA%8D%E8%99%90%E7%95%9C%E7%BD%AA10-7%E9%96%8B%E5%AF%A9-%E5%B0%87%E7%88%AD%E8%AD%B0%E7%94%A8%E9%8E%8C%E5%88%80%E4%BD%9C%E8%87%AA%E8%A1%9B",
     "timestamp": "2026-08-20T05:50:32.015Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "英超特攻｜阿仙奴主場食硬升班馬　揭幕戰勢「大」勝",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260820/1167096795784810496483260.jpeg/nkgD90kO54DdpX5ISkCRIz-m9UFyhpUAFqMOiBajDog?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60381846/%E8%8B%B1%E8%B6%85%E7%89%B9%E6%94%BB-%E9%98%BF%E4%BB%99%E5%A5%B4%E4%B8%BB%E5%A0%B4%E9%A3%9F%E7%A1%AC%E5%8D%87%E7%8F%AD%E9%A6%AC-%E6%8F%AD%E5%B9%95%E6%88%B0%E5%8B%A2-%E5%A4%A7-%E5%8B%9D",
-    "timestamp": "2026-08-20T05:17:21.720Z",
     "strategy": ".content-card__main"
   }
 ];
