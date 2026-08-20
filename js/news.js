@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-20T02:45:20.527Z
+// Last updated: 2026-08-20T03:39:40.088Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "蘇起稱「兩岸危險時間就是這兩年」　點出台海三大緊繃",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20240119/825083358034792448359160.jpeg/pNM_y6Rf7YrtDqtB5QEjXspU3RP2qIRHPCBdEQYgXRE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8F%B0%E7%81%A3%E6%96%B0%E8%81%9E/60381850/%E8%98%87%E8%B5%B7%E7%A8%B1-%E5%85%A9%E5%B2%B8%E5%8D%B1%E9%9A%AA%E6%99%82%E9%96%93%E5%B0%B1%E6%98%AF%E9%80%99%E5%85%A9%E5%B9%B4-%E9%BB%9E%E5%87%BA%E5%8F%B0%E6%B5%B7%E4%B8%89%E5%A4%A7%E7%B7%8A%E7%B9%83",
+    "timestamp": "2026-08-20T03:39:40.088Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "大圍金禧花園泳池女子遇溺　昏迷送院搶救",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260820/1166930969383407616240351.jpeg/afkWBisL5WJMngbXXEqqYnE0EAXKR-yRyFbfwPJW38A?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60381751/%E5%B0%96%E6%B2%99%E5%92%8056%E6%AD%B2%E5%A5%B3%E5%8F%B8%E6%A9%9F%E9%81%87%E8%B7%AF%E9%9A%9C-%E5%90%B9%E7%88%86%E6%B3%A2-%E6%B6%89%E9%86%89%E9%A7%95%E8%A2%AB%E6%8D%95",
     "timestamp": "2026-08-19T18:31:05.908Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "旺角海賊王遊戲卡店接受訂貨疑走數　44人損失$147萬　3人被捕",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260820/1166928665791959040706298.jpeg/YtZmTH5xQoTMr97VBDFlL7VzO4lZ60adP_eJRD_3iUQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60381749/%E6%97%BA%E8%A7%92%E6%B5%B7%E8%B3%8A%E7%8E%8B%E9%81%8A%E6%88%B2%E5%8D%A1%E5%BA%97%E6%8E%A5%E5%8F%97%E8%A8%82%E8%B2%A8%E7%96%91%E8%B5%B0%E6%95%B8-44%E4%BA%BA%E6%90%8D%E5%A4%B1-147%E8%90%AC-3%E4%BA%BA%E8%A2%AB%E6%8D%95",
-    "timestamp": "2026-08-19T18:14:48.762Z",
     "strategy": ".content-card__main"
   }
 ];
