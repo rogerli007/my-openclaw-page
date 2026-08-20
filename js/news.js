@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-20T18:35:50.113Z
+// Last updated: 2026-08-20T19:31:11.241Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "尼日利亞西北部翻船至少50死　遇難者多為兒童",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260821/1167289644635656192512476.jpeg/p0zTNbPyZhYY0vh-MUw2JhCYEG8tR91gphTaF6YU2hc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60382154/%E5%B0%BC%E6%97%A5%E5%88%A9%E4%BA%9E%E8%A5%BF%E5%8C%97%E9%83%A8%E7%BF%BB%E8%88%B9%E8%87%B3%E5%B0%9150%E6%AD%BB-%E9%81%87%E9%9B%A3%E8%80%85%E5%A4%9A%E7%82%BA%E5%85%92%E7%AB%A5",
+    "timestamp": "2026-08-20T19:31:11.241Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "尼日利亞西北部翻船至少50死　遇難者多為兒童",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260713/1153350114497007616089632.jpeg/BKZa4HuDyWY-P4h5QCtV69P2KBcjgPb5zk_0a85P9Gs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60382101/%E5%A4%A9%E6%B0%B4%E5%9C%8D%E5%B1%8F%E5%BB%88%E8%B7%AF%E7%A7%81%E5%AE%B6%E8%BB%8A%E6%B3%8A%E9%9C%B2%E5%A4%A9%E5%81%9C%E8%BB%8A%E5%A0%B4-%E4%B8%AD%E5%B9%B4%E6%BC%A2%E8%A2%AB%E7%99%BC%E7%8F%BE%E5%80%92%E6%96%83%E8%BB%8A%E5%85%A7",
     "timestamp": "2026-08-20T11:49:14.460Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "市建局「花開印記」藝術計劃為花墟吸人流　店主：淡季及時雨",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260820/1167182504512196608475039.jpeg/luE-sSn4LIR3AP3pIdPLwak5ipJh25vmgG-ONoBvjjY?v=w1920r16_9",
-    "url": "https://www.hk01.com/18%E5%8D%80%E6%96%B0%E8%81%9E/60382093/%E5%B8%82%E5%BB%BA%E5%B1%80-%E8%8A%B1%E9%96%8B%E5%8D%B0%E8%A8%98-%E8%97%9D%E8%A1%93%E8%A8%88%E5%8A%83%E7%82%BA%E8%8A%B1%E5%A2%9F%E5%90%B8%E4%BA%BA%E6%B5%81-%E5%BA%97%E4%B8%BB-%E6%B7%A1%E5%AD%A3%E5%8F%8A%E6%99%82%E9%9B%A8",
-    "timestamp": "2026-08-20T11:33:36.667Z",
     "strategy": ".content-card__main"
   }
 ];
