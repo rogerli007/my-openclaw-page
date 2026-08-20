@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-20T11:49:14.460Z
+// Last updated: 2026-08-20T12:02:00.457Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "Hayden Panettiere離世│患產後抑鬱棄女撫養權　小心4大早期警號",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260820/1167199285696008192318570.jpeg/7SElYMT1S8xz89-atMmTA0PXctmpGHz246maUeOpmlE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/60381085/hayden-panettiere%E9%9B%A2%E4%B8%96-%E6%82%A3%E7%94%A2%E5%BE%8C%E6%8A%91%E9%AC%B1%E6%A3%84%E5%A5%B3%E6%92%AB%E9%A4%8A%E6%AC%8A-%E5%B0%8F%E5%BF%834%E5%A4%A7%E6%97%A9%E6%9C%9F%E8%AD%A6%E8%99%9F",
+    "timestamp": "2026-08-20T12:02:00.457Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "天水圍屏廈路私家車泊露天停車場　中年漢被發現倒斃車內",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260816/1165696061197783040370914.jpeg/zumKKHL-5EGSPgEASgqtYJ1KQmZaWqpN_uHH4_7hx-M?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60381713/opatra-london-%E4%B8%80%E6%96%87%E7%9C%8B%E4%B8%80%E5%BC%B56%E8%90%AC%E5%85%83%E5%96%AE-%E5%A6%82%E4%BD%95%E4%B8%80%E5%91%A8%E5%85%A7%E6%AF%80%E6%8E%89%E4%B8%80%E5%80%8B%E7%BE%8E%E5%AE%B9%E9%9B%86%E5%9C%98",
     "timestamp": "2026-08-20T04:05:50.304Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "蘇起稱「兩岸危險時間就是這兩年」　點出台海三大緊繃",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20240119/825083358034792448359160.jpeg/pNM_y6Rf7YrtDqtB5QEjXspU3RP2qIRHPCBdEQYgXRE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8F%B0%E7%81%A3%E6%96%B0%E8%81%9E/60381850/%E8%98%87%E8%B5%B7%E7%A8%B1-%E5%85%A9%E5%B2%B8%E5%8D%B1%E9%9A%AA%E6%99%82%E9%96%93%E5%B0%B1%E6%98%AF%E9%80%99%E5%85%A9%E5%B9%B4-%E9%BB%9E%E5%87%BA%E5%8F%B0%E6%B5%B7%E4%B8%89%E5%A4%A7%E7%B7%8A%E7%B9%83",
-    "timestamp": "2026-08-20T03:39:40.088Z",
     "strategy": ".content-card__main"
   }
 ];
