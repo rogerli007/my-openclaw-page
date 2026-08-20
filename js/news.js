@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-20T09:49:28.219Z
+// Last updated: 2026-08-20T10:05:53.398Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "日本初中生選美2026｜13歲美少女摘冠！甜美外貌私下竟是劍道高手",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260819/1166811496303693824617352.png/rJvRfFkB9CXAnM-TugTfBWpCqjRoN1K-ISLUBSEi1AU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%96%8B%E7%BD%90/60379154/%E6%97%A5%E6%9C%AC%E5%88%9D%E4%B8%AD%E7%94%9F%E9%81%B8%E7%BE%8E2026-13%E6%AD%B2%E7%BE%8E%E5%B0%91%E5%A5%B3%E6%91%98%E5%86%A0-%E7%94%9C%E7%BE%8E%E5%A4%96%E8%B2%8C%E7%A7%81%E4%B8%8B%E7%AB%9F%E6%98%AF%E5%8A%8D%E9%81%93%E9%AB%98%E6%89%8B",
+    "timestamp": "2026-08-20T10:05:53.398Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "阿里首財季經調整盈利跌38%　自由現金流負446億　ADR盤前急挫",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260819/1166786395801391104306491.png/r6gGBCnFz_klvSPqhGakNdVN04sMVrsW3Cnr5dwp6-U?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60380953/%E5%A4%A7%E9%A6%AC17%E6%AD%B2%E5%A5%B3%E5%9A%AE%E5%B0%8E%E9%81%AD%E4%B8%AD%E5%9C%8B%E7%94%B7%E9%A8%99%E5%9B%9E%E5%AE%B6-6%E5%B0%8F%E6%99%82%E6%80%A7%E4%BE%B55%E6%AC%A1-%E8%B8%A9%E5%A4%96%E7%89%86%E5%86%B7%E6%B0%A3%E6%A9%9F%E9%80%83%E8%B5%B0",
     "timestamp": "2026-08-19T23:43:45.506Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "大馬17歲女嚮導遭中國男騙回家　6小時性侵5次　踩外牆冷氣機逃走",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260819/1166786395801391104306491.png/r6gGBCnFz_klvSPqhGakNdVN04sMVrsW3Cnr5dwp6-U?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60380953/%E5%A4%A7%E9%A6%AC17%E6%AD%B2%E5%A5%B3%E5%9A%AE%E5%B0%8E%E9%81%AD%E4%B8%AD%E5%9C%8B%E7%94%B7%E9%A8%99%E5%9B%9E%E5%AE%B6-6%E5%B0%8F%E6%99%82%E6%80%A7%E4%BE%B55%E6%AC%A1-%E8%B8%A9%E5%A4%96%E7%89%86%E5%86%B7%E6%B0%A3%E6%A9%9F%E9%80%83%E8%B5%B0",
-    "timestamp": "2026-08-19T23:33:01.502Z",
     "strategy": ".content-card__main"
   }
 ];
