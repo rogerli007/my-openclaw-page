@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-20T11:17:29.212Z
+// Last updated: 2026-08-20T11:33:36.667Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "市建局「花開印記」藝術計劃為花墟吸人流　店主：淡季及時雨",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260820/1167182504512196608475039.jpeg/luE-sSn4LIR3AP3pIdPLwak5ipJh25vmgG-ONoBvjjY?v=w1920r16_9",
+    "url": "https://www.hk01.com/18%E5%8D%80%E6%96%B0%E8%81%9E/60382093/%E5%B8%82%E5%BB%BA%E5%B1%80-%E8%8A%B1%E9%96%8B%E5%8D%B0%E8%A8%98-%E8%97%9D%E8%A1%93%E8%A8%88%E5%8A%83%E7%82%BA%E8%8A%B1%E5%A2%9F%E5%90%B8%E4%BA%BA%E6%B5%81-%E5%BA%97%E4%B8%BB-%E6%B7%A1%E5%AD%A3%E5%8F%8A%E6%99%82%E9%9B%A8",
+    "timestamp": "2026-08-20T11:33:36.667Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "半世紀最脆弱：全球金融體系正衝向危局頂峰",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260820/1167057593563090944834261.jpeg/2r5jTo45aNF21EQJ83CbrFLC03dZqqBvM6-3lzOvt5c?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60381801/%E5%A4%A7%E5%9C%8D%E9%87%91%E7%A6%A7%E8%8A%B1%E5%9C%92%E6%B3%B3%E6%B1%A0%E5%A5%B3%E5%AD%90%E9%81%87%E6%BA%BA-%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2%E6%90%B6%E6%95%91",
     "timestamp": "2026-08-20T02:45:20.527Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美聯儲會議紀要︰多名官員認為必要時可能需要加息",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260324/1113126671843594240861253.jpeg/TKzf9DaPwgSL1GfEfIKgJ5BVf2gGIsLqJEqKWyRKils?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60381773/%E7%BE%8E%E8%81%AF%E5%84%B2%E6%9C%83%E8%AD%B0%E7%B4%80%E8%A6%81-%E5%A4%9A%E5%90%8D%E5%AE%98%E5%93%A1%E8%AA%8D%E7%82%BA%E5%BF%85%E8%A6%81%E6%99%82%E5%8F%AF%E8%83%BD%E9%9C%80%E8%A6%81%E5%8A%A0%E6%81%AF",
-    "timestamp": "2026-08-20T02:17:28.439Z",
     "strategy": ".content-card__main"
   }
 ];
