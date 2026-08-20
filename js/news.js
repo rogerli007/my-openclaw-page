@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-20T22:02:10.968Z
+// Last updated: 2026-08-20T22:30:29.994Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "前TVB小花今年宣布離巢　轉行做香薰治療師亮相HOY TV手法極專業",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260820/1167166702044057600471035.jpeg/zkFBogyg23oTWHbgTnSyW6qLa0ZArqQ5_7q4nP-6uJw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60381952/%E6%9D%8E%E5%90%9B%E5%A6%8D%E4%BB%8A%E5%B9%B4%E5%AE%A3%E5%B8%83%E9%9B%A2%E5%B7%A2-%E8%BD%89%E8%A1%8C%E5%81%9A%E9%A6%99%E8%96%B0%E6%B2%BB%E7%99%82%E5%B8%AB%E4%BA%AE%E7%9B%B8hoy-tv%E6%89%8B%E6%B3%95%E6%A5%B5%E5%B0%88%E6%A5%AD",
+    "timestamp": "2026-08-20T22:30:29.994Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "歐洲熱浪｜德國今年逾1.4萬人熱死　創單年最高紀錄",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260820/1167166044280721408310285.jpeg/li1nujI3vpkwwkOhy3B7-aNAVFQgiSEZS6K-ikuivoo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60382029/%E5%81%9Aai%E7%9F%AD%E5%8A%87%E6%9C%88%E8%99%A7%E4%B8%8A%E5%8D%83%E5%85%83-%E7%AE%97%E5%8A%9B%E8%B3%AC%E5%96%AE%E6%A6%A8%E4%B9%BE%E5%89%B5%E4%BD%9C%E8%80%85-%E4%B8%80%E9%8D%B5%E8%BA%BA%E8%B3%BA-%E7%A5%9E%E8%A9%B1%E7%A0%B4%E6%BB%85",
     "timestamp": "2026-08-20T16:17:01.990Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "打鼓嶺狗殺人｜餵食後拒入籠　待領養30公斤唐狗咬斃狗酒店負責人",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260820/1167257717169983488907631.jpeg/0isrUDPdczMN8heC9_Lt5BNuUnXumcIkmMRq7ZjEau0",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60382113/%E6%89%93%E9%BC%93%E5%B6%BA%E7%8B%97%E6%AE%BA%E4%BA%BA-%E9%A4%B5%E9%A3%9F%E5%BE%8C%E6%8B%92%E5%85%A5%E7%B1%A0-%E5%BE%85%E9%A0%98%E9%A4%8A30%E5%85%AC%E6%96%A4%E5%94%90%E7%8B%97%E5%92%AC%E6%96%83%E7%8B%97%E9%85%92%E5%BA%97%E8%B2%A0%E8%B2%AC%E4%BA%BA",
-    "timestamp": "2026-08-20T16:01:25.711Z",
     "strategy": ".content-card__main"
   }
 ];
