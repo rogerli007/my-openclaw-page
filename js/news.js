@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-20T15:35:58.087Z
+// Last updated: 2026-08-20T16:01:25.711Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "打鼓嶺狗殺人｜餵食後拒入籠　待領養30公斤唐狗咬斃狗酒店負責人",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260820/1167257717169983488907631.jpeg/0isrUDPdczMN8heC9_Lt5BNuUnXumcIkmMRq7ZjEau0",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60382113/%E6%89%93%E9%BC%93%E5%B6%BA%E7%8B%97%E6%AE%BA%E4%BA%BA-%E9%A4%B5%E9%A3%9F%E5%BE%8C%E6%8B%92%E5%85%A5%E7%B1%A0-%E5%BE%85%E9%A0%98%E9%A4%8A30%E5%85%AC%E6%96%A4%E5%94%90%E7%8B%97%E5%92%AC%E6%96%83%E7%8B%97%E9%85%92%E5%BA%97%E8%B2%A0%E8%B2%AC%E4%BA%BA",
+    "timestamp": "2026-08-20T16:01:25.711Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "也門胡塞武裝無人機襲沙特　攻擊奈季蘭機場與沙特阿美設施",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260820/1167108866337411072263945.jpeg/MJ_fBODsqEEfrH6JLH7k3DpJb2ElTmdohLShyYS0ock?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60381913/%E8%A2%81%E5%81%89%E8%B1%AA%E4%B8%83%E5%A4%95%E6%9B%AC%E5%85%A8%E5%AE%B6%E7%A6%8F%E5%BC%B5%E5%AF%B6%E5%85%92%E8%85%B9%E9%83%A8%E5%BE%AE%E9%9A%86%E6%83%B9%E7%8C%9C%E6%B8%AC-%E7%B6%B2%E6%B0%91%E7%8B%82%E5%95%8F-%E8%BF%BD%E4%B8%89%E8%83%8E",
     "timestamp": "2026-08-20T07:33:38.613Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "海關屯門查3內地來港貨櫃　檢私煙及2.5萬件手機等冒牌貨值$850萬",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260820/1167118931178033152589216.jpeg/rYMq-L1PA0jXpe1m-bDOEO14DWEZBnk1Fwnv7xcJ7-8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60381954/%E6%B5%B7%E9%97%9C%E5%B1%AF%E9%96%80%E6%9F%A53%E5%85%A7%E5%9C%B0%E4%BE%86%E6%B8%AF%E8%B2%A8%E6%AB%83-%E6%AA%A2%E7%A7%81%E7%85%99%E5%8F%8A2-5%E8%90%AC%E4%BB%B6%E6%89%8B%E6%A9%9F%E7%AD%89%E5%86%92%E7%89%8C%E8%B2%A8%E5%80%BC-850%E8%90%AC",
-    "timestamp": "2026-08-20T07:08:44.157Z",
     "strategy": ".content-card__main"
   }
 ];
