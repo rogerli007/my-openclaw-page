@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-20T19:48:29.874Z
+// Last updated: 2026-08-20T20:02:08.602Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "哥倫比亞非法金礦發生山體滑坡　已致13人死亡",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260821/1167307431605178368620938.png/fRT7yuRteYXa4lRXNP7Cl5y7hi65mZkkB63JeQetyXk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60382158/%E5%93%A5%E5%80%AB%E6%AF%94%E4%BA%9E%E9%9D%9E%E6%B3%95%E9%87%91%E7%A4%A6%E7%99%BC%E7%94%9F%E5%B1%B1%E9%AB%94%E6%BB%91%E5%9D%A1-%E5%B7%B2%E8%87%B413%E4%BA%BA%E6%AD%BB%E4%BA%A1",
+    "timestamp": "2026-08-20T20:02:08.602Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "哥倫比亞非法金礦發生山體滑坡　已致13人死亡",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260820/1167198764096557056850172.jpeg/yUS8laS4xBbTFe6vEVcvYaQSqlvLLdNAPHDMujxwzLo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60382110/%E6%88%91%E8%A6%81%E5%81%9A%E4%B8%BB%E6%92%AD-%E5%8A%89%E9%9D%92%E9%9B%B2%E4%BE%84%E4%BB%94%E5%8A%89%E5%87%B1%E6%B5%9A%E5%8F%83%E8%B3%BD-%E6%8B%92%E8%AB%8B%E4%BC%AF%E7%88%B6%E6%90%AD%E8%B7%AF%E5%85%A5%E8%A1%8C-%E8%A6%81%E9%9D%A0%E8%87%AA%E5%B7%B1",
     "timestamp": "2026-08-20T12:18:19.104Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "Hayden Panettiere離世│患產後抑鬱棄女撫養權　小心4大早期警號",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260820/1167199285696008192318570.jpeg/7SElYMT1S8xz89-atMmTA0PXctmpGHz246maUeOpmlE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/60381085/hayden-panettiere%E9%9B%A2%E4%B8%96-%E6%82%A3%E7%94%A2%E5%BE%8C%E6%8A%91%E9%AC%B1%E6%A3%84%E5%A5%B3%E6%92%AB%E9%A4%8A%E6%AC%8A-%E5%B0%8F%E5%BF%834%E5%A4%A7%E6%97%A9%E6%9C%9F%E8%AD%A6%E8%99%9F",
-    "timestamp": "2026-08-20T12:02:00.457Z",
     "strategy": ".content-card__main"
   }
 ];
