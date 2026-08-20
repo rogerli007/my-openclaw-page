@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-20T13:11:27.919Z
+// Last updated: 2026-08-20T13:37:36.818Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "涉用外縣牛肉冒充鹿兒島產騙145萬日圓　「水迫畜產」前董事被捕",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260820/1167220950760951808126430.png/cwCfVAoWNb9CRaprdqW_nH25DLQbqkb9MoXDfzKFw38?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60382123/%E6%B6%89%E7%94%A8%E5%A4%96%E7%B8%A3%E7%89%9B%E8%82%89%E5%86%92%E5%85%85%E9%B9%BF%E5%85%92%E5%B3%B6%E7%94%A2%E9%A8%99145%E8%90%AC%E6%97%A5%E5%9C%93-%E6%B0%B4%E8%BF%AB%E7%95%9C%E7%94%A2-%E5%89%8D%E8%91%A3%E4%BA%8B%E8%A2%AB%E6%8D%95",
+    "timestamp": "2026-08-20T13:37:36.818Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "渣甸山狗咬人｜女傷者猶有餘悸：隻狗衝上嚟　趴喺我背脊咬我一啖",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260820/1167096795784810496483260.jpeg/nkgD90kO54DdpX5ISkCRIz-m9UFyhpUAFqMOiBajDog?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60381846/%E8%8B%B1%E8%B6%85%E7%89%B9%E6%94%BB-%E9%98%BF%E4%BB%99%E5%A5%B4%E4%B8%BB%E5%A0%B4%E9%A3%9F%E7%A1%AC%E5%8D%87%E7%8F%AD%E9%A6%AC-%E6%8F%AD%E5%B9%95%E6%88%B0%E5%8B%A2-%E5%A4%A7-%E5%8B%9D",
     "timestamp": "2026-08-20T05:17:21.720Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "孫慧雪親述三十年偏頭痛之路 生二胎後曾痛到膊頭、背脊",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260820/1167089906816651264107236.jpeg/c0mCDR1ZfbTxCJADYb1C9y1oxAaQKIRofUVAvH1FQLw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/60381888/%E5%AD%AB%E6%85%A7%E9%9B%AA%E8%A6%AA%E8%BF%B0%E4%B8%89%E5%8D%81%E5%B9%B4%E5%81%8F%E9%A0%AD%E7%97%9B%E4%B9%8B%E8%B7%AF-%E7%94%9F%E4%BA%8C%E8%83%8E%E5%BE%8C%E6%9B%BE%E7%97%9B%E5%88%B0%E8%86%8A%E9%A0%AD-%E8%83%8C%E8%84%8A",
-    "timestamp": "2026-08-20T04:52:28.433Z",
     "strategy": ".content-card__main"
   }
 ];
