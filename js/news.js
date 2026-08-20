@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-20T06:36:38.752Z
+// Last updated: 2026-08-20T07:08:44.157Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "海關屯門查3內地來港貨櫃　檢私煙及2.5萬件手機等冒牌貨值$850萬",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260820/1167118931178033152589216.jpeg/rYMq-L1PA0jXpe1m-bDOEO14DWEZBnk1Fwnv7xcJ7-8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60381954/%E6%B5%B7%E9%97%9C%E5%B1%AF%E9%96%80%E6%9F%A53%E5%85%A7%E5%9C%B0%E4%BE%86%E6%B8%AF%E8%B2%A8%E6%AB%83-%E6%AA%A2%E7%A7%81%E7%85%99%E5%8F%8A2-5%E8%90%AC%E4%BB%B6%E6%89%8B%E6%A9%9F%E7%AD%89%E5%86%92%E7%89%8C%E8%B2%A8%E5%80%BC-850%E8%90%AC",
+    "timestamp": "2026-08-20T07:08:44.157Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "料引進K9A2自行榴彈炮取代M777　美軍將採購韓國韓華防務MTC火炮",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260820/1166989090311114752186024.jpeg/hkdKEdzt7bY9_07pSpG2EZzWN4IJVs5qs27TULNu01A?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60381763/%E8%91%B5%E6%B6%8C%E8%B2%A8%E8%BB%8A-%E8%87%AA%E7%82%92-%E6%8E%83%E6%AC%84-%E5%8F%B8%E6%A9%9F%E7%84%A1%E5%8F%97%E5%82%B7%E4%B8%80%E5%BA%A6%E8%A2%AB%E5%9B%B0%E8%BB%8A%E5%85%A7-%E5%A0%B1%E7%A8%B1%E9%81%BF%E9%BB%91%E8%B2%93%E8%82%87%E7%A6%8D",
     "timestamp": "2026-08-19T22:29:47.403Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美國債務突破40萬億美元　特朗普拜登任內合增近20萬億",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260818/1166382025192509440025461.jpeg/-dvTwbHzBkgR4bY2fsFoFJDr8u3N5pKt7Ml4gOzJeIA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60381760/%E7%BE%8E%E5%9C%8B%E5%82%B5%E5%8B%99%E7%AA%81%E7%A0%B440%E8%90%AC%E5%84%84%E7%BE%8E%E5%85%83-%E7%89%B9%E6%9C%97%E6%99%AE%E6%8B%9C%E7%99%BB%E4%BB%BB%E5%85%A7%E5%90%88%E5%A2%9E%E8%BF%9120%E8%90%AC%E5%84%84",
-    "timestamp": "2026-08-19T21:58:36.413Z",
     "strategy": ".content-card__main"
   }
 ];
