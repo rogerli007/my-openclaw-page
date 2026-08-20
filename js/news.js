@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-20T02:17:28.439Z
+// Last updated: 2026-08-20T02:45:20.527Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "大圍金禧花園泳池女子遇溺　昏迷送院搶救",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260820/1167057593563090944834261.jpeg/2r5jTo45aNF21EQJ83CbrFLC03dZqqBvM6-3lzOvt5c?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60381801/%E5%A4%A7%E5%9C%8D%E9%87%91%E7%A6%A7%E8%8A%B1%E5%9C%92%E6%B3%B3%E6%B1%A0%E5%A5%B3%E5%AD%90%E9%81%87%E6%BA%BA-%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2%E6%90%B6%E6%95%91",
+    "timestamp": "2026-08-20T02:45:20.527Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美聯儲會議紀要︰多名官員認為必要時可能需要加息",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260820/1166928665791959040706298.jpeg/YtZmTH5xQoTMr97VBDFlL7VzO4lZ60adP_eJRD_3iUQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60381749/%E6%97%BA%E8%A7%92%E6%B5%B7%E8%B3%8A%E7%8E%8B%E9%81%8A%E6%88%B2%E5%8D%A1%E5%BA%97%E6%8E%A5%E5%8F%97%E8%A8%82%E8%B2%A8%E7%96%91%E8%B5%B0%E6%95%B8-44%E4%BA%BA%E6%90%8D%E5%A4%B1-147%E8%90%AC-3%E4%BA%BA%E8%A2%AB%E6%8D%95",
     "timestamp": "2026-08-19T18:14:48.762Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "歐洲熱浪｜法國今夏已經歷52天熱浪　創近80年紀錄",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260712/1152910410307866624032986.jpeg/5cIxtx1z7tbITLJOnTkQBa_gqxRy7XS2811-3PNdftw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60381745/%E6%AD%90%E6%B4%B2%E7%86%B1%E6%B5%AA-%E6%B3%95%E5%9C%8B%E4%BB%8A%E5%A4%8F%E5%B7%B2%E7%B6%93%E6%AD%B752%E5%A4%A9%E7%86%B1%E6%B5%AA-%E5%89%B5%E8%BF%9180%E5%B9%B4%E7%B4%80%E9%8C%84",
-    "timestamp": "2026-08-19T17:59:22.454Z",
     "strategy": ".content-card__main"
   }
 ];
