@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-20T08:37:29.708Z
+// Last updated: 2026-08-20T09:08:21.665Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "Channel C負責人涉欠薪　被告稱曾向區議員服務助被拒　案再押後",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260820/1167152969087455232389647.jpeg/m_7nlk5gAzZJT-ZJsbHGyd5EMopwr-bIcmtU9FdrVPQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60382041/channel-c%E8%B2%A0%E8%B2%AC%E4%BA%BA%E6%B6%89%E6%AC%A0%E8%96%AA-%E8%A2%AB%E5%91%8A%E7%A8%B1%E6%9B%BE%E5%90%91%E5%8D%80%E8%AD%B0%E5%93%A1%E6%9C%8D%E5%8B%99%E5%8A%A9%E8%A2%AB%E6%8B%92-%E6%A1%88%E5%86%8D%E6%8A%BC%E5%BE%8C",
+    "timestamp": "2026-08-20T09:08:21.665Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "女友狂讚老闆靚仔怒留2星負評　1年後男客改評神反轉「我會再去」",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260730/1159585377648906240641802.png/bjxZgDjpuE5x_g__gqoyjpkR_OOMe8SxT6kDiE-pA4g?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60381765/%E8%B6%8A%E5%8D%97fun-coffee%E9%A8%99%E5%B1%80-%E6%B8%AF%E8%AD%A6-%E6%88%AA%E8%87%B38%E6%9C%8819%E6%97%A5%E6%8E%A5286%E5%A0%B1%E6%A1%88-%E6%90%8D%E5%A4%B1-1-18%E5%84%84",
     "timestamp": "2026-08-19T23:12:46.491Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "肯尼亞直升機墜毀7人身亡　死者包括厄瓜多爾情報首長與NBC記者",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260820/1166991598458769408021674.jpeg/71b1a9Q3iZXQibtApaCBX2i4DwEh4cPQtg0x6bYNMek?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60381764/%E8%82%AF%E5%B0%BC%E4%BA%9E%E7%9B%B4%E5%8D%87%E6%A9%9F%E5%A2%9C%E6%AF%807%E4%BA%BA%E8%BA%AB%E4%BA%A1-%E6%AD%BB%E8%80%85%E5%8C%85%E6%8B%AC%E5%8E%84%E7%93%9C%E5%A4%9A%E7%88%BE%E6%83%85%E5%A0%B1%E9%A6%96%E9%95%B7%E8%88%87nbc%E8%A8%98%E8%80%85",
-    "timestamp": "2026-08-19T22:58:14.378Z",
     "strategy": ".content-card__main"
   }
 ];
