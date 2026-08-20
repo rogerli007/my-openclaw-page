@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-20T03:39:40.088Z
+// Last updated: 2026-08-20T04:05:50.304Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "OPATRA London｜一文看一張6萬元單　如何一周內毀掉一個美容集團",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260816/1165696061197783040370914.jpeg/zumKKHL-5EGSPgEASgqtYJ1KQmZaWqpN_uHH4_7hx-M?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60381713/opatra-london-%E4%B8%80%E6%96%87%E7%9C%8B%E4%B8%80%E5%BC%B56%E8%90%AC%E5%85%83%E5%96%AE-%E5%A6%82%E4%BD%95%E4%B8%80%E5%91%A8%E5%85%A7%E6%AF%80%E6%8E%89%E4%B8%80%E5%80%8B%E7%BE%8E%E5%AE%B9%E9%9B%86%E5%9C%98",
+    "timestamp": "2026-08-20T04:05:50.304Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "蘇起稱「兩岸危險時間就是這兩年」　點出台海三大緊繃",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260820/1166935304498581504865047.jpeg/3qov_DbsZouWspmdvqYnaSvnGJOY1HZHSI4q8EiOKvA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60381753/%E8%AD%A6%E6%97%BA%E8%A7%92%E6%90%97%E7%A0%B4%E5%9C%B0%E4%B8%8B%E7%AB%B9%E9%A4%A8-%E6%AA%A26%E5%BC%B5%E9%BA%BB%E9%9B%80%E6%A1%8C%E5%92%8C-1-8%E8%90%AC-11%E4%BA%BA%E8%A2%AB%E6%8D%95",
     "timestamp": "2026-08-19T18:52:14.242Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "尖沙咀56歲女司機遇路障「吹爆波」　涉醉駕被捕",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260820/1166930969383407616240351.jpeg/afkWBisL5WJMngbXXEqqYnE0EAXKR-yRyFbfwPJW38A?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60381751/%E5%B0%96%E6%B2%99%E5%92%8056%E6%AD%B2%E5%A5%B3%E5%8F%B8%E6%A9%9F%E9%81%87%E8%B7%AF%E9%9A%9C-%E5%90%B9%E7%88%86%E6%B3%A2-%E6%B6%89%E9%86%89%E9%A7%95%E8%A2%AB%E6%8D%95",
-    "timestamp": "2026-08-19T18:31:05.908Z",
     "strategy": ".content-card__main"
   }
 ];
