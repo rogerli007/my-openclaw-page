@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-20T22:47:04.351Z
+// Last updated: 2026-08-20T23:01:35.948Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "中國與瑞士宣布完成自貿協定升級談判　共創經貿合作新機遇",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260821/1167358367228760064891543.jpeg/RRxsxzoZfMO-ijoArQ5skHmKfZvj-Q-fQ2yHDENshww?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60382170/%E4%B8%AD%E5%9C%8B%E8%88%87%E7%91%9E%E5%A3%AB%E5%AE%A3%E5%B8%83%E5%AE%8C%E6%88%90%E8%87%AA%E8%B2%BF%E5%8D%94%E5%AE%9A%E5%8D%87%E7%B4%9A%E8%AB%87%E5%88%A4-%E5%85%B1%E5%89%B5%E7%B6%93%E8%B2%BF%E5%90%88%E4%BD%9C%E6%96%B0%E6%A9%9F%E9%81%87",
+    "timestamp": "2026-08-20T23:01:35.948Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "中國與瑞士宣布完成自貿協定升級談判　共創經貿合作新機遇",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260820/1167222531812233216472063.jpeg/hNtjxI00XbwTvnoUjgb89ESdZhIQblNtHhDNQggQzUI?v=w1920",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60382147/%E6%89%93%E9%BC%93%E5%B6%BA%E7%8B%97%E6%AE%BA%E4%BA%BA-30%E5%85%AC%E6%96%A4%E5%94%90%E7%8B%97%E4%BD%8F%E7%8B%97%E8%88%8D10%E6%97%A5%E5%BE%85%E9%A0%98%E9%A4%8A-%E9%A4%B5%E9%A3%9F%E5%BE%8C%E6%8B%92%E5%85%A5%E7%B1%A0%E6%96%BD%E8%A5%B2",
     "timestamp": "2026-08-20T16:57:56.456Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "做AI短劇月虧上千元？算力賬單榨乾創作者！「一鍵躺賺」神話破滅",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260820/1167166044280721408310285.jpeg/li1nujI3vpkwwkOhy3B7-aNAVFQgiSEZS6K-ikuivoo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60382029/%E5%81%9Aai%E7%9F%AD%E5%8A%87%E6%9C%88%E8%99%A7%E4%B8%8A%E5%8D%83%E5%85%83-%E7%AE%97%E5%8A%9B%E8%B3%AC%E5%96%AE%E6%A6%A8%E4%B9%BE%E5%89%B5%E4%BD%9C%E8%80%85-%E4%B8%80%E9%8D%B5%E8%BA%BA%E8%B3%BA-%E7%A5%9E%E8%A9%B1%E7%A0%B4%E6%BB%85",
-    "timestamp": "2026-08-20T16:33:32.416Z",
     "strategy": ".content-card__main"
   }
 ];
