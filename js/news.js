@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-20T14:05:52.601Z
+// Last updated: 2026-08-20T14:31:41.523Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "六合彩8.22頭獎1300萬｜6個最旺號碼+2招增中獎機會",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20251218/1078441818552537088382965.jpeg/bkBJ-VAd6-SFifYYU7Xm0p23irWF75kO9U1PlvVNT5Y?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60382138/%E5%85%AD%E5%90%88%E5%BD%A98-22%E9%A0%AD%E7%8D%8E1300%E8%90%AC-6%E5%80%8B%E6%9C%80%E6%97%BA%E8%99%9F%E7%A2%BC-2%E6%8B%9B%E5%A2%9E%E4%B8%AD%E7%8D%8E%E6%A9%9F%E6%9C%83",
+    "timestamp": "2026-08-20T14:31:41.523Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "黃淑儀談復出拍劇直言「想都不敢想」　一個條件令她甘願放棄事業",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260820/1167112319348510720235468.jpeg/Y21laWLrB6HfGeomzdgB_0zjZ813b9U41il7mNYpe5g?v=w1920r16_9",
     "url": "https://www.hk01.com/%E4%B8%AD%E5%9C%8B%E8%A7%80%E5%AF%9F/60381931/%E8%A8%B1%E5%AE%B6%E5%8D%B0%E8%A2%AB%E5%88%A4%E8%99%95%E7%84%A1%E6%9C%9F%E5%BE%92%E5%88%91-%E4%B8%AD%E5%9C%8B%E6%88%BF%E5%9C%B0%E7%94%A2%E6%B3%A1%E6%B2%AB%E6%95%99%E8%A8%93%E6%B7%B1%E5%88%BB",
     "timestamp": "2026-08-20T06:18:08.936Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "退休漢涉鐮刀襲狗　否認虐畜罪10.7開審　將爭議用鎌刀作自衛",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260820/1167073079558541312786105.jpeg/HeQvS4kmcaqWdH8ZVc3DFfEuAaB7cUkyQ7hMB2a4TAc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60381920/%E9%80%80%E4%BC%91%E6%BC%A2%E6%B6%89%E9%90%AE%E5%88%80%E8%A5%B2%E7%8B%97-%E5%90%A6%E8%AA%8D%E8%99%90%E7%95%9C%E7%BD%AA10-7%E9%96%8B%E5%AF%A9-%E5%B0%87%E7%88%AD%E8%AD%B0%E7%94%A8%E9%8E%8C%E5%88%80%E4%BD%9C%E8%87%AA%E8%A1%9B",
-    "timestamp": "2026-08-20T05:50:32.015Z",
     "strategy": ".content-card__main"
   }
 ];
