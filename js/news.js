@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-20T15:18:17.460Z
+// Last updated: 2026-08-20T15:35:58.087Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "也門胡塞武裝無人機襲沙特　攻擊奈季蘭機場與沙特阿美設施",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20240219/836069781999456256479632.jpeg/1abiUI_6ARrCQ_XnbKZDhBOYSYhrJ9XvEZT_1xGU_9c?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60382137/%E4%B9%9F%E9%96%80%E8%83%A1%E5%A1%9E%E6%AD%A6%E8%A3%9D%E7%84%A1%E4%BA%BA%E6%A9%9F%E8%A5%B2%E6%B2%99%E7%89%B9-%E6%94%BB%E6%93%8A%E5%A5%88%E5%AD%A3%E8%98%AD%E6%A9%9F%E5%A0%B4%E8%88%87%E6%B2%99%E7%89%B9%E9%98%BF%E7%BE%8E%E8%A8%AD%E6%96%BD",
+    "timestamp": "2026-08-20T15:35:58.087Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "國泰哈薩克阿拉木圖直航明年1.9啟航　永安旅遊料團費最多回落20%",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260820/1167118931178033152589216.jpeg/rYMq-L1PA0jXpe1m-bDOEO14DWEZBnk1Fwnv7xcJ7-8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60381954/%E6%B5%B7%E9%97%9C%E5%B1%AF%E9%96%80%E6%9F%A53%E5%85%A7%E5%9C%B0%E4%BE%86%E6%B8%AF%E8%B2%A8%E6%AB%83-%E6%AA%A2%E7%A7%81%E7%85%99%E5%8F%8A2-5%E8%90%AC%E4%BB%B6%E6%89%8B%E6%A9%9F%E7%AD%89%E5%86%92%E7%89%8C%E8%B2%A8%E5%80%BC-850%E8%90%AC",
     "timestamp": "2026-08-20T07:08:44.157Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "料引進K9A2自行榴彈炮取代M777　美軍將採購韓國韓華防務MTC火炮",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260820/1167075679070588928364209.jpeg/W88lPhb3jvi3av7EKkzheJjklPgruNSormsonq5rKJ4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60381857/%E6%96%99%E5%BC%95%E9%80%B2k9a2%E8%87%AA%E8%A1%8C%E6%A6%B4%E5%BD%88%E7%82%AE%E5%8F%96%E4%BB%A3m777-%E7%BE%8E%E8%BB%8D%E5%B0%87%E6%8E%A1%E8%B3%BC%E9%9F%93%E5%9C%8B%E9%9F%93%E8%8F%AF%E9%98%B2%E5%8B%99mtc%E7%81%AB%E7%82%AE",
-    "timestamp": "2026-08-20T06:36:38.752Z",
     "strategy": ".content-card__main"
   }
 ];
