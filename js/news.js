@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-20T10:48:41.290Z
+// Last updated: 2026-08-20T11:03:58.517Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "元朗狗咬狗．拉里最新安排｜漁護署：評估健康和性情　考量各方案",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260820/1167179597075189760712560.jpeg/K-Si4uRQqgy_9XfsgotGerbDhXTmqvy3PXsMnD17DJw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60382095/%E5%85%83%E6%9C%97%E7%8B%97%E5%92%AC%E7%8B%97-%E6%8B%89%E9%87%8C%E6%9C%80%E6%96%B0%E5%AE%89%E6%8E%92-%E6%BC%81%E8%AD%B7%E7%BD%B2-%E8%A9%95%E4%BC%B0%E5%81%A5%E5%BA%B7%E5%92%8C%E6%80%A7%E6%83%85-%E8%80%83%E9%87%8F%E5%90%84%E6%96%B9%E6%A1%88",
+    "timestamp": "2026-08-20T11:03:58.517Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "元朗狗咬狗．拉里最新安排｜漁護署：評估健康和性情　考量各方案",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260819/1166789773889638400745263.jpeg/jqnntntp27u39ELHH0jXf3eI8YFhL1sqIHOp5yBzqec?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60381618/%E5%AE%89%E4%BB%A5%E8%BB%92%E8%80%81%E5%85%AC%E9%99%B3%E6%A6%AE%E7%85%89%E6%B4%97%E9%8C%A2%E6%A1%88%E8%A2%AB%E5%88%A413%E5%B9%B4-%E5%B8%B3%E6%88%B6%E4%BB%8D%E5%AD%985%E5%8D%83%E8%90%AC-%E5%A6%BB%E6%83%B3%E5%8F%96%E7%94%A8%E9%81%AD%E6%8B%92",
     "timestamp": "2026-08-20T01:37:07.427Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "日女吸毒被家暴　產下死胎放雪櫃3年8月　貼「好愛你」便條讀繪本",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260819/1166793721279156224815967.png/22WYqYYf6ZPW0UtQ7P3QVUFT1KyXz381Q6Ti10Ok4tc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60380984/%E6%97%A5%E5%A5%B3%E5%90%B8%E6%AF%92%E8%A2%AB%E5%AE%B6%E6%9A%B4-%E7%94%A2%E4%B8%8B%E6%AD%BB%E8%83%8E%E6%94%BE%E9%9B%AA%E6%AB%833%E5%B9%B48%E6%9C%88-%E8%B2%BC-%E5%A5%BD%E6%84%9B%E4%BD%A0-%E4%BE%BF%E6%A2%9D%E8%AE%80%E7%B9%AA%E6%9C%AC",
-    "timestamp": "2026-08-20T00:23:32.001Z",
     "strategy": ".content-card__main"
   }
 ];
