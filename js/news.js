@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-20T20:49:09.826Z
+// Last updated: 2026-08-20T21:03:47.014Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "旺角街頭39歲女疑遭非禮　73歲外籍男被捕　另涉未能出示身份證明",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260821/1167319170254114816852439.jpeg/PvrlRsXyzhj958BgXVjkWBMkDHBo2uOaxpsWCvybFgo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60382161/%E6%97%BA%E8%A7%92%E8%A1%97%E9%A0%AD39%E6%AD%B2%E5%A5%B3%E7%96%91%E9%81%AD%E9%9D%9E%E7%A6%AE-73%E6%AD%B2%E5%A4%96%E7%B1%8D%E7%94%B7%E8%A2%AB%E6%8D%95-%E5%8F%A6%E6%B6%89%E6%9C%AA%E8%83%BD%E5%87%BA%E7%A4%BA%E8%BA%AB%E4%BB%BD%E8%AD%89%E6%98%8E",
+    "timestamp": "2026-08-20T21:03:47.014Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "旺角街頭39歲女疑遭非禮　73歲外籍男被捕　另涉未能出示身份證明",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20251218/1078441818552537088382965.jpeg/bkBJ-VAd6-SFifYYU7Xm0p23irWF75kO9U1PlvVNT5Y?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60382138/%E5%85%AD%E5%90%88%E5%BD%A98-22%E9%A0%AD%E7%8D%8E1300%E8%90%AC-6%E5%80%8B%E6%9C%80%E6%97%BA%E8%99%9F%E7%A2%BC-2%E6%8B%9B%E5%A2%9E%E4%B8%AD%E7%8D%8E%E6%A9%9F%E6%9C%83",
     "timestamp": "2026-08-20T14:31:41.523Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "黃淑儀談復出拍劇直言「想都不敢想」　一個條件令她甘願放棄事業",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260820/1167196906909077504124983.jpeg/hclWrf93lG_KlSnEyXocipIEoNq8Emjj2vQJ3tr0Cd4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60381938/%E9%BB%83%E6%B7%91%E5%84%80%E8%AB%87%E5%BE%A9%E5%87%BA%E6%8B%8D%E5%8A%87%E7%9B%B4%E8%A8%80-%E6%83%B3%E9%83%BD%E4%B8%8D%E6%95%A2%E6%83%B3-%E4%B8%80%E5%80%8B%E6%A2%9D%E4%BB%B6%E4%BB%A4%E5%A5%B9%E7%94%98%E9%A1%98%E6%94%BE%E6%A3%84%E4%BA%8B%E6%A5%AD",
-    "timestamp": "2026-08-20T14:05:52.601Z",
     "strategy": ".content-card__main"
   }
 ];
