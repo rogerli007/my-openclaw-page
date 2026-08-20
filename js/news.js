@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-20T20:02:08.602Z
+// Last updated: 2026-08-20T20:21:00.455Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "旺角街頭39歲女疑遭非禮　73歲外籍男被捕　另涉未能出示身份證明",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260821/1167319170254114816852439.jpeg/PvrlRsXyzhj958BgXVjkWBMkDHBo2uOaxpsWCvybFgo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60382161/%E6%97%BA%E8%A7%92%E8%A1%97%E9%A0%AD39%E6%AD%B2%E5%A5%B3%E7%96%91%E9%81%AD%E9%9D%9E%E7%A6%AE-73%E6%AD%B2%E5%A4%96%E7%B1%8D%E7%94%B7%E8%A2%AB%E6%8D%95-%E5%8F%A6%E6%B6%89%E6%9C%AA%E8%83%BD%E5%87%BA%E7%A4%BA%E8%BA%AB%E4%BB%BD%E8%AD%89%E6%98%8E",
+    "timestamp": "2026-08-20T20:21:00.455Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "哥倫比亞非法金礦發生山體滑坡　已致13人死亡",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260820/1167209914897010688431769.jpeg/psxtop9xJQjn6FcSzxXpjO07VsmovIm75H2zoOR9s6A",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60382100/%E6%B8%A3%E7%94%B8%E5%B1%B1%E7%8B%97%E5%92%AC%E4%BA%BA-%E5%A5%B3%E5%82%B7%E8%80%85%E7%8C%B6%E6%9C%89%E9%A4%98%E6%82%B8-%E9%9A%BB%E7%8B%97%E8%A1%9D%E4%B8%8A%E5%9A%9F-%E8%B6%B4%E5%96%BA%E6%88%91%E8%83%8C%E8%84%8A%E5%92%AC%E6%88%91%E4%B8%80%E5%95%96",
     "timestamp": "2026-08-20T13:11:27.919Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "我要做主播｜劉青雲侄仔劉凱浚參賽　拒請伯父搭路入行：要靠自己",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260820/1167198764096557056850172.jpeg/yUS8laS4xBbTFe6vEVcvYaQSqlvLLdNAPHDMujxwzLo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60382110/%E6%88%91%E8%A6%81%E5%81%9A%E4%B8%BB%E6%92%AD-%E5%8A%89%E9%9D%92%E9%9B%B2%E4%BE%84%E4%BB%94%E5%8A%89%E5%87%B1%E6%B5%9A%E5%8F%83%E8%B3%BD-%E6%8B%92%E8%AB%8B%E4%BC%AF%E7%88%B6%E6%90%AD%E8%B7%AF%E5%85%A5%E8%A1%8C-%E8%A6%81%E9%9D%A0%E8%87%AA%E5%B7%B1",
-    "timestamp": "2026-08-20T12:18:19.104Z",
     "strategy": ".content-card__main"
   }
 ];
