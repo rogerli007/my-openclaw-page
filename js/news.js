@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-20T16:33:32.416Z
+// Last updated: 2026-08-20T16:57:56.456Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "打鼓嶺狗殺人｜30公斤唐狗住狗舍10日待領養　餵食後拒入籠施襲",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260820/1167222531812233216472063.jpeg/hNtjxI00XbwTvnoUjgb89ESdZhIQblNtHhDNQggQzUI?v=w1920",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60382147/%E6%89%93%E9%BC%93%E5%B6%BA%E7%8B%97%E6%AE%BA%E4%BA%BA-30%E5%85%AC%E6%96%A4%E5%94%90%E7%8B%97%E4%BD%8F%E7%8B%97%E8%88%8D10%E6%97%A5%E5%BE%85%E9%A0%98%E9%A4%8A-%E9%A4%B5%E9%A3%9F%E5%BE%8C%E6%8B%92%E5%85%A5%E7%B1%A0%E6%96%BD%E8%A5%B2",
+    "timestamp": "2026-08-20T16:57:56.456Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "做AI短劇月虧上千元？算力賬單榨乾創作者！「一鍵躺賺」神話破滅",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260114/1088122675324260352059418.jpeg/4CYxngRhkbH3mX6mtMBmRGbkpinabthiUvlyCVL5cgk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60381916/%E9%98%BF%E9%87%8C%E9%A6%96%E8%B2%A1%E5%AD%A3%E7%B6%93%E8%AA%BF%E6%95%B4%E7%9B%88%E5%88%A9%E8%B7%8C38-%E8%87%AA%E7%94%B1%E7%8F%BE%E9%87%91%E6%B5%81%E8%B2%A0446%E5%84%84-adr%E7%9B%A4%E5%89%8D%E6%80%A5%E6%8C%AB",
     "timestamp": "2026-08-20T09:49:28.219Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "Channel C負責人涉欠薪　被告稱曾向區議員服務助被拒　案再押後",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260820/1167152969087455232389647.jpeg/m_7nlk5gAzZJT-ZJsbHGyd5EMopwr-bIcmtU9FdrVPQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60382041/channel-c%E8%B2%A0%E8%B2%AC%E4%BA%BA%E6%B6%89%E6%AC%A0%E8%96%AA-%E8%A2%AB%E5%91%8A%E7%A8%B1%E6%9B%BE%E5%90%91%E5%8D%80%E8%AD%B0%E5%93%A1%E6%9C%8D%E5%8B%99%E5%8A%A9%E8%A2%AB%E6%8B%92-%E6%A1%88%E5%86%8D%E6%8A%BC%E5%BE%8C",
-    "timestamp": "2026-08-20T09:08:21.665Z",
     "strategy": ".content-card__main"
   }
 ];
