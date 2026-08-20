@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-20T17:47:42.382Z
+// Last updated: 2026-08-20T18:04:05.767Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "芝麻糊食譜｜做法簡易加1物香滑濃稠、具養顏防脫髮功效好處",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20241122/936697654572748800568712.jpeg/lE7i0wPSHPWEDtXPRDp7JophP-_yxoIk21Bbi9tQW4s",
+    "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60382151/%E8%8A%9D%E9%BA%BB%E7%B3%8A%E9%A3%9F%E8%AD%9C-%E5%81%9A%E6%B3%95%E7%B0%A1%E6%98%93%E5%8A%A01%E7%89%A9%E9%A6%99%E6%BB%91%E6%BF%83%E7%A8%A0-%E5%85%B7%E9%A4%8A%E9%A1%8F%E9%98%B2%E8%84%AB%E9%AB%AE%E5%8A%9F%E6%95%88%E5%A5%BD%E8%99%95",
+    "timestamp": "2026-08-20T18:04:05.767Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "芝麻糊食譜｜做法簡易加1物香滑濃稠、具養顏防脫髮功效好處",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260820/1167179597075189760712560.jpeg/K-Si4uRQqgy_9XfsgotGerbDhXTmqvy3PXsMnD17DJw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60382095/%E5%85%83%E6%9C%97%E7%8B%97%E5%92%AC%E7%8B%97-%E6%8B%89%E9%87%8C%E6%9C%80%E6%96%B0%E5%AE%89%E6%8E%92-%E6%BC%81%E8%AD%B7%E7%BD%B2-%E8%A9%95%E4%BC%B0%E5%81%A5%E5%BA%B7%E5%92%8C%E6%80%A7%E6%83%85-%E8%80%83%E9%87%8F%E5%90%84%E6%96%B9%E6%A1%88",
     "timestamp": "2026-08-20T11:03:58.517Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "元朗狗咬狗．拉里最新安排｜漁護署：評估健康和性情　考量各方案",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260820/1167179597075189760712560.jpeg/K-Si4uRQqgy_9XfsgotGerbDhXTmqvy3PXsMnD17DJw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60382095/%E5%85%83%E6%9C%97%E7%8B%97%E5%92%AC%E7%8B%97-%E6%8B%89%E9%87%8C%E6%9C%80%E6%96%B0%E5%AE%89%E6%8E%92-%E6%BC%81%E8%AD%B7%E7%BD%B2-%E8%A9%95%E4%BC%B0%E5%81%A5%E5%BA%B7%E5%92%8C%E6%80%A7%E6%83%85-%E8%80%83%E9%87%8F%E5%90%84%E6%96%B9%E6%A1%88",
-    "timestamp": "2026-08-20T10:48:41.290Z",
     "strategy": ".content-card__main"
   }
 ];
