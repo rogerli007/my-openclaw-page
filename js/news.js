@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-20T11:03:58.517Z
+// Last updated: 2026-08-20T11:17:29.212Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "半世紀最脆弱：全球金融體系正衝向危局頂峰",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20210128/431530812416987136869501.jpeg/4FRchVn4EsSAWA-4o0EzXgTZa_OvsViKiG1LMYhtSzE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%9C%8B%E9%9A%9B%E5%88%86%E6%9E%90/60382091/%E5%8D%8A%E4%B8%96%E7%B4%80%E6%9C%80%E8%84%86%E5%BC%B1-%E5%85%A8%E7%90%83%E9%87%91%E8%9E%8D%E9%AB%94%E7%B3%BB%E6%AD%A3%E8%A1%9D%E5%90%91%E5%8D%B1%E5%B1%80%E9%A0%82%E5%B3%B0",
+    "timestamp": "2026-08-20T11:17:29.212Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "元朗狗咬狗．拉里最新安排｜漁護署：評估健康和性情　考量各方案",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260324/1113126671843594240861253.jpeg/TKzf9DaPwgSL1GfEfIKgJ5BVf2gGIsLqJEqKWyRKils?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60381773/%E7%BE%8E%E8%81%AF%E5%84%B2%E6%9C%83%E8%AD%B0%E7%B4%80%E8%A6%81-%E5%A4%9A%E5%90%8D%E5%AE%98%E5%93%A1%E8%AA%8D%E7%82%BA%E5%BF%85%E8%A6%81%E6%99%82%E5%8F%AF%E8%83%BD%E9%9C%80%E8%A6%81%E5%8A%A0%E6%81%AF",
     "timestamp": "2026-08-20T02:17:28.439Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "安以軒老公陳榮煉洗錢案被判13年　帳戶仍存5千萬　妻想取用遭拒",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260819/1166789773889638400745263.jpeg/jqnntntp27u39ELHH0jXf3eI8YFhL1sqIHOp5yBzqec?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60381618/%E5%AE%89%E4%BB%A5%E8%BB%92%E8%80%81%E5%85%AC%E9%99%B3%E6%A6%AE%E7%85%89%E6%B4%97%E9%8C%A2%E6%A1%88%E8%A2%AB%E5%88%A413%E5%B9%B4-%E5%B8%B3%E6%88%B6%E4%BB%8D%E5%AD%985%E5%8D%83%E8%90%AC-%E5%A6%BB%E6%83%B3%E5%8F%96%E7%94%A8%E9%81%AD%E6%8B%92",
-    "timestamp": "2026-08-20T01:37:07.427Z",
     "strategy": ".content-card__main"
   }
 ];
