@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-20T14:31:41.523Z
+// Last updated: 2026-08-20T15:18:17.460Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "國泰哈薩克阿拉木圖直航明年1.9啟航　永安旅遊料團費最多回落20%",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260209/1097666232108191744832159.jpeg/jw41opj-IGCPVqO76NzE8nJ8QcReJbbNNd5hwxDeYcM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60382104/%E5%9C%8B%E6%B3%B0%E5%93%88%E8%96%A9%E5%85%8B%E9%98%BF%E6%8B%89%E6%9C%A8%E5%9C%96%E7%9B%B4%E8%88%AA%E6%98%8E%E5%B9%B41-9%E5%95%9F%E8%88%AA-%E6%B0%B8%E5%AE%89%E6%97%85%E9%81%8A%E6%96%99%E5%9C%98%E8%B2%BB%E6%9C%80%E5%A4%9A%E5%9B%9E%E8%90%BD20",
+    "timestamp": "2026-08-20T15:18:17.460Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "六合彩8.22頭獎1300萬｜6個最旺號碼+2招增中獎機會",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260820/1167075679070588928364209.jpeg/W88lPhb3jvi3av7EKkzheJjklPgruNSormsonq5rKJ4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60381857/%E6%96%99%E5%BC%95%E9%80%B2k9a2%E8%87%AA%E8%A1%8C%E6%A6%B4%E5%BD%88%E7%82%AE%E5%8F%96%E4%BB%A3m777-%E7%BE%8E%E8%BB%8D%E5%B0%87%E6%8E%A1%E8%B3%BC%E9%9F%93%E5%9C%8B%E9%9F%93%E8%8F%AF%E9%98%B2%E5%8B%99mtc%E7%81%AB%E7%82%AE",
     "timestamp": "2026-08-20T06:36:38.752Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "許家印被判處無期徒刑　中國房地產泡沫教訓深刻",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260820/1167112319348510720235468.jpeg/Y21laWLrB6HfGeomzdgB_0zjZ813b9U41il7mNYpe5g?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E4%B8%AD%E5%9C%8B%E8%A7%80%E5%AF%9F/60381931/%E8%A8%B1%E5%AE%B6%E5%8D%B0%E8%A2%AB%E5%88%A4%E8%99%95%E7%84%A1%E6%9C%9F%E5%BE%92%E5%88%91-%E4%B8%AD%E5%9C%8B%E6%88%BF%E5%9C%B0%E7%94%A2%E6%B3%A1%E6%B2%AB%E6%95%99%E8%A8%93%E6%B7%B1%E5%88%BB",
-    "timestamp": "2026-08-20T06:18:08.936Z",
     "strategy": ".content-card__main"
   }
 ];
