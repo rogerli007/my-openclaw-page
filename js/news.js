@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-20T11:33:36.667Z
+// Last updated: 2026-08-20T11:49:14.460Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "天水圍屏廈路私家車泊露天停車場　中年漢被發現倒斃車內",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260713/1153350114497007616089632.jpeg/BKZa4HuDyWY-P4h5QCtV69P2KBcjgPb5zk_0a85P9Gs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60382101/%E5%A4%A9%E6%B0%B4%E5%9C%8D%E5%B1%8F%E5%BB%88%E8%B7%AF%E7%A7%81%E5%AE%B6%E8%BB%8A%E6%B3%8A%E9%9C%B2%E5%A4%A9%E5%81%9C%E8%BB%8A%E5%A0%B4-%E4%B8%AD%E5%B9%B4%E6%BC%A2%E8%A2%AB%E7%99%BC%E7%8F%BE%E5%80%92%E6%96%83%E8%BB%8A%E5%85%A7",
+    "timestamp": "2026-08-20T11:49:14.460Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "市建局「花開印記」藝術計劃為花墟吸人流　店主：淡季及時雨",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20240119/825083358034792448359160.jpeg/pNM_y6Rf7YrtDqtB5QEjXspU3RP2qIRHPCBdEQYgXRE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8F%B0%E7%81%A3%E6%96%B0%E8%81%9E/60381850/%E8%98%87%E8%B5%B7%E7%A8%B1-%E5%85%A9%E5%B2%B8%E5%8D%B1%E9%9A%AA%E6%99%82%E9%96%93%E5%B0%B1%E6%98%AF%E9%80%99%E5%85%A9%E5%B9%B4-%E9%BB%9E%E5%87%BA%E5%8F%B0%E6%B5%B7%E4%B8%89%E5%A4%A7%E7%B7%8A%E7%B9%83",
     "timestamp": "2026-08-20T03:39:40.088Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "大圍金禧花園泳池女子遇溺　昏迷送院搶救",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260820/1167057593563090944834261.jpeg/2r5jTo45aNF21EQJ83CbrFLC03dZqqBvM6-3lzOvt5c?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60381801/%E5%A4%A7%E5%9C%8D%E9%87%91%E7%A6%A7%E8%8A%B1%E5%9C%92%E6%B3%B3%E6%B1%A0%E5%A5%B3%E5%AD%90%E9%81%87%E6%BA%BA-%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2%E6%90%B6%E6%95%91",
-    "timestamp": "2026-08-20T02:45:20.527Z",
     "strategy": ".content-card__main"
   }
 ];
