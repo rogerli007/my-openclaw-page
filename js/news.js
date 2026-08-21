@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-21T15:33:38.805Z
+// Last updated: 2026-08-21T15:51:40.193Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美國財長促中國配合孤立伊朗經濟　北京：反對非法單邊制裁",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260722/1156545432000663552539617.jpeg/3vmOMJQPkc3jMG6ilfjf_unjHMyWKlqcvD-S7rw_ku4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60382515/%E7%BE%8E%E5%9C%8B%E8%B2%A1%E9%95%B7%E4%BF%83%E4%B8%AD%E5%9C%8B%E9%85%8D%E5%90%88%E5%AD%A4%E7%AB%8B%E4%BC%8A%E6%9C%97%E7%B6%93%E6%BF%9F-%E5%8C%97%E4%BA%AC-%E5%8F%8D%E5%B0%8D%E9%9D%9E%E6%B3%95%E5%96%AE%E9%82%8A%E5%88%B6%E8%A3%81",
+    "timestamp": "2026-08-21T15:51:40.193Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "蘭桂坊一帶的士司機無展示證件　試圖招攬乘客上車　警拉人扣車",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260821/1167496938115829760054163.jpeg/GO7pHQklLkckgJEX6UmWYeFHOy1oqVv1gWutWoFrrVo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%81%8A%E6%88%B2%E5%8B%95%E6%BC%AB/60381656/%E5%A4%A9%E5%AE%98%E8%B3%9C%E7%A6%8F%E9%A6%99%E6%B8%AF%E5%B1%95%E6%97%BA%E8%A7%92%E7%9B%B4%E6%93%8A-9%E6%8A%98%E7%A9%8D%E5%88%86%E6%8F%9B%E8%B3%BC-70%E8%B5%B7-%E5%85%A5%E5%A0%B4%E9%80%81%E5%B1%8F%E9%A2%A8%E6%9B%B8%E7%B1%A4%E7%9B%B2%E7%9B%92",
     "timestamp": "2026-08-21T07:51:42.895Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "新會商會中學敲定新校長　消息：人選正被前學校調查專業失德",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260821/1167436934520246272920763.jpeg/_8olPshwpCsg96Hb5SXbvjgXLXTZ-px9dw8V43cPFeM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60382248/%E6%96%B0%E6%9C%83%E5%95%86%E6%9C%83%E4%B8%AD%E5%AD%B8%E6%95%B2%E5%AE%9A%E6%96%B0%E6%A0%A1%E9%95%B7-%E6%B6%88%E6%81%AF-%E4%BA%BA%E9%81%B8%E6%AD%A3%E8%A2%AB%E5%89%8D%E5%AD%B8%E6%A0%A1%E8%AA%BF%E6%9F%A5%E5%B0%88%E6%A5%AD%E5%A4%B1%E5%BE%B7",
-    "timestamp": "2026-08-21T07:24:52.476Z",
     "strategy": ".content-card__main"
   }
 ];
