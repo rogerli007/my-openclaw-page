@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-21T22:45:14.379Z
+// Last updated: 2026-08-21T22:58:26.092Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "警佐敦搗破毒窟兼武器庫　檢多走款毒品和武器　9男被捕",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260822/1167724695710076928659840.jpeg/oBTGPbREmy0RDbh4-qYueTCACf5h6VChXCYcs1wmHLM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60382539/%E8%AD%A6%E4%BD%90%E6%95%A6%E6%90%97%E7%A0%B4%E6%AF%92%E7%AA%9F%E5%85%BC%E6%AD%A6%E5%99%A8%E5%BA%AB-%E6%AA%A2%E5%A4%9A%E8%B5%B0%E6%AC%BE%E6%AF%92%E5%93%81%E5%92%8C%E6%AD%A6%E5%99%A8-9%E7%94%B7%E8%A2%AB%E6%8D%95",
+    "timestamp": "2026-08-21T22:58:26.092Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "天氣｜今日有幾陣驟雨　局部地區有狂風雷暴　最高氣溫32度",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260722/1156545432000663552539617.jpeg/3vmOMJQPkc3jMG6ilfjf_unjHMyWKlqcvD-S7rw_ku4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60382515/%E7%BE%8E%E5%9C%8B%E8%B2%A1%E9%95%B7%E4%BF%83%E4%B8%AD%E5%9C%8B%E9%85%8D%E5%90%88%E5%AD%A4%E7%AB%8B%E4%BC%8A%E6%9C%97%E7%B6%93%E6%BF%9F-%E5%8C%97%E4%BA%AC-%E5%8F%8D%E5%B0%8D%E9%9D%9E%E6%B3%95%E5%96%AE%E9%82%8A%E5%88%B6%E8%A3%81",
     "timestamp": "2026-08-21T15:51:40.193Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "蘭桂坊一帶的士司機無展示證件　試圖招攬乘客上車　警拉人扣車",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260821/1167611873625903104120765.jpeg/TSrIJuDcvy-h_Yglb9IHKAHxXTlukhd7FMUFAhTFBQI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60382521/%E8%98%AD%E6%A1%82%E5%9D%8A%E4%B8%80%E5%B8%B6%E7%9A%84%E5%A3%AB%E5%8F%B8%E6%A9%9F%E7%84%A1%E5%B1%95%E7%A4%BA%E8%AD%89%E4%BB%B6-%E8%A9%A6%E5%9C%96%E6%8B%9B%E6%94%AC%E4%B9%98%E5%AE%A2%E4%B8%8A%E8%BB%8A-%E8%AD%A6%E6%8B%89%E4%BA%BA%E6%89%A3%E8%BB%8A",
-    "timestamp": "2026-08-21T15:33:38.805Z",
     "strategy": ".content-card__main"
   }
 ];
