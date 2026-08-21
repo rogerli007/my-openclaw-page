@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-21T09:50:35.718Z
+// Last updated: 2026-08-21T10:15:23.120Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "超市優惠|百佳/惠康/佳宝/Aeon半價起！滿$100減$20+新奇士買1送1",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260821/1167531945677033472317948.jpeg/FIuQXopoYO7LHHFNq2C_Gbivn2SoMNm-mlDk45pQ5OM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60382310/%E8%B6%85%E5%B8%82%E5%84%AA%E6%83%A0-%E7%99%BE%E4%BD%B3-%E6%83%A0%E5%BA%B7-%E4%BD%B3%E5%AE%9D-aeon%E5%8D%8A%E5%83%B9%E8%B5%B7-%E6%BB%BF-100%E6%B8%9B-20-%E6%96%B0%E5%A5%87%E5%A3%AB%E8%B2%B71%E9%80%811",
+    "timestamp": "2026-08-21T10:15:23.120Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "大讚美國提前結束美韓軍演：李在明反將了特朗普一軍",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260820/1167120779758800896753629.jpeg/Dngj7p8ZmFM3grgVYRG0vIPtYm25oz2ZRahfLUWoXy0",
     "url": "https://www.hk01.com/%E5%9C%8B%E9%9A%9B%E5%88%86%E6%9E%90/60379561/%E7%82%BA%E4%BD%95%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%88%E8%88%89%E8%B5%B7-%E5%8F%8D%E5%85%B1-%E6%97%97%E5%B9%9F-jack-talk-%E5%8E%BB%E7%89%87",
     "timestamp": "2026-08-20T23:58:43.461Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "為何特朗普又舉起「反共」旗幟？｜Jack Talk・去片",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260820/1167120779758800896753629.jpeg/Dngj7p8ZmFM3grgVYRG0vIPtYm25oz2ZRahfLUWoXy0",
-    "url": "https://www.hk01.com/%E5%9C%8B%E9%9A%9B%E5%88%86%E6%9E%90/60379561/%E7%82%BA%E4%BD%95%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%88%E8%88%89%E8%B5%B7-%E5%8F%8D%E5%85%B1-%E6%97%97%E5%B9%9F-jack-talk-%E5%8E%BB%E7%89%87",
-    "timestamp": "2026-08-20T23:46:05.593Z",
     "strategy": ".content-card__main"
   }
 ];
