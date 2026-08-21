@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-21T22:12:04.530Z
+// Last updated: 2026-08-21T22:45:14.379Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "天氣｜今日有幾陣驟雨　局部地區有狂風雷暴　最高氣溫32度",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260822/1167713696789565440786192.jpeg/bk2lkSormBXJCEKjJfG8dSRLSO72KX82lUsFO5VLBTs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60382537/%E5%A4%A9%E6%B0%A3-%E4%BB%8A%E6%97%A5%E6%9C%89%E5%B9%BE%E9%99%A3%E9%A9%9F%E9%9B%A8-%E5%B1%80%E9%83%A8%E5%9C%B0%E5%8D%80%E6%9C%89%E7%8B%82%E9%A2%A8%E9%9B%B7%E6%9A%B4-%E6%9C%80%E9%AB%98%E6%B0%A3%E6%BA%AB32%E5%BA%A6",
+    "timestamp": "2026-08-21T22:45:14.379Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "天氣｜今日有幾陣驟雨　局部地區有狂風雷暴　最高氣溫32度",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260821/1167611873625903104120765.jpeg/TSrIJuDcvy-h_Yglb9IHKAHxXTlukhd7FMUFAhTFBQI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60382521/%E8%98%AD%E6%A1%82%E5%9D%8A%E4%B8%80%E5%B8%B6%E7%9A%84%E5%A3%AB%E5%8F%B8%E6%A9%9F%E7%84%A1%E5%B1%95%E7%A4%BA%E8%AD%89%E4%BB%B6-%E8%A9%A6%E5%9C%96%E6%8B%9B%E6%94%AC%E4%B9%98%E5%AE%A2%E4%B8%8A%E8%BB%8A-%E8%AD%A6%E6%8B%89%E4%BA%BA%E6%89%A3%E8%BB%8A",
     "timestamp": "2026-08-21T15:33:38.805Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "炒米粉做法｜乾爽彈牙5大貼士、1招令米粉帶有脆身口感",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20200528/342734564378152961.jpeg/h0TK1UrEsDWyR-wbxO_Ehikm_yzpeD8gU6DSOVOg0jk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60382519/%E7%82%92%E7%B1%B3%E7%B2%89%E8%B2%BC%E5%A3%AB-%E4%B9%BE%E7%88%BD%E5%BD%88%E7%89%995%E5%A4%A7%E8%B2%BC%E5%A3%AB-1%E6%8B%9B%E4%BB%A4%E7%B1%B3%E7%B2%89%E5%B8%B6%E6%9C%89%E8%84%86%E8%BA%AB%E5%8F%A3%E6%84%9F",
-    "timestamp": "2026-08-21T15:17:35.669Z",
     "strategy": ".content-card__main"
   }
 ];
