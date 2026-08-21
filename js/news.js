@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-21T11:48:09.709Z
+// Last updated: 2026-08-21T12:01:27.917Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "湯令山四度考車失敗做網約車代言　避談戀情但讚林熙彤︰風趣幽默",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260821/1167552983349596160328901.jpeg/PlUv9ff0HEVRi9sArG55PSwg42H2pHI5L_n4_C_5-Pw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60382460/%E6%B9%AF%E4%BB%A4%E5%B1%B1%E5%9B%9B%E5%BA%A6%E8%80%83%E8%BB%8A%E5%A4%B1%E6%95%97%E5%81%9A%E7%B6%B2%E7%B4%84%E8%BB%8A%E4%BB%A3%E8%A8%80-%E9%81%BF%E8%AB%87%E6%88%80%E6%83%85%E4%BD%86%E8%AE%9A%E6%9E%97%E7%86%99%E5%BD%A4-%E9%A2%A8%E8%B6%A3%E5%B9%BD%E9%BB%98",
+    "timestamp": "2026-08-21T12:01:27.917Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "鬼月｜農曆7月女生小心6大美容禁忌　半夜照鏡子、室外補妝都上榜",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260821/1167430917824712704457219.jpeg/Co6J4P0o7ZLy699h1rW668ReO7lBZoIVqsti2KrLYtg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60382180/%E6%89%93%E9%BC%93%E5%B6%BA%E7%8B%97%E6%AE%BA%E4%BA%BA-33%E6%AD%B2%E5%A5%B3%E8%B2%A0%E8%B2%AC%E4%BA%BA%E9%81%AD%E7%8B%97%E9%9A%BB%E8%A5%B2%E6%93%8A%E8%87%B4%E6%AD%BB-%E8%A6%AA%E5%8F%8B%E5%93%80%E7%97%9B%E8%AA%8D%E5%B1%8D",
     "timestamp": "2026-08-21T03:52:59.856Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "銀色債券｜申請日期+各銀行及證券行認購優惠+保底息4.25厘｜最新",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260807/1162396653630525440137642.jpeg/emFR_ygcAuzrd0OyXHlAXa_dzexgHKGC3HMQudxzELk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60377650/%E9%8A%80%E8%89%B2%E5%82%B5%E5%88%B82026%E6%87%B6%E4%BA%BA%E5%8C%85-%E7%94%B3%E8%AB%8B%E6%97%A5%E6%9C%9F-%E5%90%84%E5%A4%A7%E9%8A%80%E8%A1%8C%E8%AA%8D%E8%B3%BC%E5%84%AA%E6%83%A0-%E4%BF%9D%E5%BA%95%E6%81%AF4-25%E5%8E%98",
-    "timestamp": "2026-08-21T03:28:40.233Z",
     "strategy": ".content-card__main"
   }
 ];
