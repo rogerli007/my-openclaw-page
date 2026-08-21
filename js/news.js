@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-21T23:12:37.881Z
+// Last updated: 2026-08-21T23:29:45.488Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美國擬向聯合國繳清部分欠款　拖欠40億美元僅還7.25億",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260703/1149507564614979584274619.jpeg/Doj7DBZpZ8jum0W-9Yq0K8D-15L6NbcHuG5GvLhuRrw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60382541/%E7%BE%8E%E5%9C%8B%E6%93%AC%E5%90%91%E8%81%AF%E5%90%88%E5%9C%8B%E7%B9%B3%E6%B8%85%E9%83%A8%E5%88%86%E6%AC%A0%E6%AC%BE-%E6%8B%96%E6%AC%A040%E5%84%84%E7%BE%8E%E5%85%83%E5%83%85%E9%82%847-25%E5%84%84",
+    "timestamp": "2026-08-21T23:29:45.488Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "用家剛需慢慢撐起商業樓市　行業半官方機構入市具有甚麼意義？",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260821/1167598072767713280370418.jpeg/Mn1rwN2tHkSTHnWGCbk6XjyKGEg5O1n8DqCmRg6gpkY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60382381/%E5%90%8D%E5%AA%9B%E8%AC%9D%E7%8E%B2%E7%8E%B2%E4%B8%83%E5%A4%95%E8%B2%B7%E8%8A%B1%E6%B0%B9101%E6%AD%B2%E5%89%8D%E5%A5%B6%E5%A5%B6-%E6%B7%B1%E6%83%85%E5%91%8A%E7%99%BD%E6%84%9F%E5%8B%95%E7%B6%B2%E6%B0%91-%E8%B6%85%E8%B6%8A%E5%90%8D%E5%88%86",
     "timestamp": "2026-08-21T16:31:49.485Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "名媛謝玲玲七夕買花氹101歲前奶奶！深情告白感動網民：超越名分",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260821/1167598072767713280370418.jpeg/Mn1rwN2tHkSTHnWGCbk6XjyKGEg5O1n8DqCmRg6gpkY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60382381/%E5%90%8D%E5%AA%9B%E8%AC%9D%E7%8E%B2%E7%8E%B2%E4%B8%83%E5%A4%95%E8%B2%B7%E8%8A%B1%E6%B0%B9101%E6%AD%B2%E5%89%8D%E5%A5%B6%E5%A5%B6-%E6%B7%B1%E6%83%85%E5%91%8A%E7%99%BD%E6%84%9F%E5%8B%95%E7%B6%B2%E6%B0%91-%E8%B6%85%E8%B6%8A%E5%90%8D%E5%88%86",
-    "timestamp": "2026-08-21T16:14:52.023Z",
     "strategy": ".content-card__main"
   }
 ];
