@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-21T12:18:14.998Z
+// Last updated: 2026-08-21T12:36:16.052Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "「蜘蛛精」張慧儀挑戰昆蟲餐勁崩潰　自嘲食自己出古惑請鄰桌清盤",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260821/1167530121905573888594160.jpeg/urijqdaCP6WT4kO5gcSWFL5CzIzR0CvpusXxg7rF8YM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60382255/%E8%9C%98%E8%9B%9B%E7%B2%BE-%E5%BC%B5%E6%85%A7%E5%84%80%E6%8C%91%E6%88%B0%E6%98%86%E8%9F%B2%E9%A4%90%E5%8B%81%E5%B4%A9%E6%BD%B0-%E8%87%AA%E5%98%B2%E9%A3%9F%E8%87%AA%E5%B7%B1%E5%87%BA%E5%8F%A4%E6%83%91%E8%AB%8B%E9%84%B0%E6%A1%8C%E6%B8%85%E7%9B%A4",
+    "timestamp": "2026-08-21T12:36:16.052Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "肖戰現身為何萬人逼爆尖沙咀？「小飛俠」聚集　四大原因一文看清",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260716/1154486571949363200067483.jpeg/HPdjjiA4P8pmKtYeIwVVdEaQafe8gnrkZcDa_mXA2v4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60382268/%E7%BE%8E%E5%9C%8B%E9%98%BF%E6%8B%89%E6%96%AF%E5%8A%A0%E4%B8%80%E6%9E%B6%E8%BC%898%E4%BA%BA%E9%A3%9B%E6%A9%9F%E5%A2%9C%E6%AF%80-%E6%A9%9F%E4%B8%8A8%E4%BA%BA%E6%83%85%E6%B3%81%E6%9C%AA%E6%98%8E",
     "timestamp": "2026-08-21T04:51:25.921Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "打鼓嶺狗殺人｜議員倡引入禁養機制　改革法例明確狗主刑責",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260819/1166710153567801344378942.jpeg/iWdDn5A6yyvuxky1JOjnQh6jP9Lvdw8EXYYulV2GLpU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60382236/%E6%89%93%E9%BC%93%E5%B6%BA%E7%8B%97%E6%AE%BA%E4%BA%BA-%E8%AD%B0%E5%93%A1%E5%80%A1%E5%BC%95%E5%85%A5%E7%A6%81%E9%A4%8A%E6%A9%9F%E5%88%B6-%E6%94%B9%E9%9D%A9%E6%B3%95%E4%BE%8B%E6%98%8E%E7%A2%BA%E7%8B%97%E4%B8%BB%E5%88%91%E8%B2%AC",
-    "timestamp": "2026-08-21T04:21:47.412Z",
     "strategy": ".content-card__main"
   }
 ];
