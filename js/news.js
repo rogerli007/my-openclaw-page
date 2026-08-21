@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-21T20:57:57.972Z
+// Last updated: 2026-08-21T21:12:41.684Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "TikTok被控違反兒童隱私　砸31億與美國司法部達成和解",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/5306766/org/0faf77304571fa8358c26957727221e8.jpg/O2teJJ7S-8pzaTNJXEAf-YIOI3izuv2faVakLGlWpCw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60382536/tiktok%E8%A2%AB%E6%8E%A7%E9%81%95%E5%8F%8D%E5%85%92%E7%AB%A5%E9%9A%B1%E7%A7%81-%E7%A0%B831%E5%84%84%E8%88%87%E7%BE%8E%E5%9C%8B%E5%8F%B8%E6%B3%95%E9%83%A8%E9%81%94%E6%88%90%E5%92%8C%E8%A7%A3",
+    "timestamp": "2026-08-21T21:12:41.684Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "葵涌小童坐女司機大腿　「齊駕車」涉危駕　目擊者：可報警｜有片",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260821/1167530121905573888594160.jpeg/urijqdaCP6WT4kO5gcSWFL5CzIzR0CvpusXxg7rF8YM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60382255/%E8%9C%98%E8%9B%9B%E7%B2%BE-%E5%BC%B5%E6%85%A7%E5%84%80%E6%8C%91%E6%88%B0%E6%98%86%E8%9F%B2%E9%A4%90%E5%8B%81%E5%B4%A9%E6%BD%B0-%E8%87%AA%E5%98%B2%E9%A3%9F%E8%87%AA%E5%B7%B1%E5%87%BA%E5%8F%A4%E6%83%91%E8%AB%8B%E9%84%B0%E6%A1%8C%E6%B8%85%E7%9B%A4",
     "timestamp": "2026-08-21T12:36:16.052Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "肖戰現身為何萬人逼爆尖沙咀？「小飛俠」聚集　四大原因一文看清",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260821/1167500889791926272854970.png/1QONPl9N2Bj7mZYP0qc5w5SGsFELWNJyhdNZ04XTWdM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60382294/%E8%82%96%E6%88%B0%E7%8F%BE%E8%BA%AB%E7%82%BA%E4%BD%95%E8%90%AC%E4%BA%BA%E9%80%BC%E7%88%86%E5%B0%96%E6%B2%99%E5%92%80-%E5%B0%8F%E9%A3%9B%E4%BF%A0-%E8%81%9A%E9%9B%86-%E5%9B%9B%E5%A4%A7%E5%8E%9F%E5%9B%A0%E4%B8%80%E6%96%87%E7%9C%8B%E6%B8%85",
-    "timestamp": "2026-08-21T12:18:14.998Z",
     "strategy": ".content-card__main"
   }
 ];
