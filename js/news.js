@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-21T14:31:25.954Z
+// Last updated: 2026-08-21T14:52:48.881Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "王毅訪印尼主持全面戰略第1次會議　偕董軍出席2+2對話機制",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260821/1167599357566914560567801.jpeg/g2XmYo_l5e2FZ8e5kkbKqGX8d8OqPMfg9hblvvYW5b4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60382511/%E7%8E%8B%E6%AF%85%E8%A8%AA%E5%8D%B0%E5%B0%BC%E4%B8%BB%E6%8C%81%E5%85%A8%E9%9D%A2%E6%88%B0%E7%95%A5%E7%AC%AC1%E6%AC%A1%E6%9C%83%E8%AD%B0-%E5%81%95%E8%91%A3%E8%BB%8D%E5%87%BA%E5%B8%AD2-2%E5%B0%8D%E8%A9%B1%E6%A9%9F%E5%88%B6",
+    "timestamp": "2026-08-21T14:52:48.881Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "打鼓嶺狗咬死人｜同業發文悼念死者：為咗毛孩連自己食飯都唔記得",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260821/1167474207429234688675349.jpeg/R2cIUR8ScGvlU6iR4xd-5aRw16bRjy4DTZv3sE2b97A?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60382307/%E6%97%A5%E6%9C%AC%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E6%94%BF%E5%BA%9C%E9%A6%96%E5%9F%B7%E8%A1%8C%E6%AD%BB%E5%88%91-%E6%9F%8F%E9%9D%92%E5%93%A5%E5%BA%97%E7%B8%B1%E7%81%AB%E8%87%B45%E6%AD%BB10%E5%82%B7%E6%A1%88%E5%85%83%E5%85%87%E4%BC%8F%E6%B3%95",
     "timestamp": "2026-08-21T06:20:47.355Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "HUAWEI Pura X View亮相｜首款肥嘟嘟闊螢幕 7000mAh大電池",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260821/1167440285169356800468795.jpeg/QoXNUk4qR8fQ6NH7hrBy2LAhpvkdLnCCNjFi-DYxYvg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60382225/huawei-pura-x-view%E4%BA%AE%E7%9B%B8-%E9%A6%96%E6%AC%BE-%E8%82%A5%E5%98%9F%E5%98%9F-%E9%97%8A%E8%9E%A2%E5%B9%95-7000mah%E5%A4%A7%E9%9B%BB%E6%B1%A0",
-    "timestamp": "2026-08-21T06:01:07.602Z",
     "strategy": ".content-card__main"
   }
 ];
