@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-21T21:57:37.288Z
+// Last updated: 2026-08-21T22:12:04.530Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "天氣｜今日有幾陣驟雨　局部地區有狂風雷暴　最高氣溫32度",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260822/1167713696789565440786192.jpeg/bk2lkSormBXJCEKjJfG8dSRLSO72KX82lUsFO5VLBTs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60382537/%E5%A4%A9%E6%B0%A3-%E4%BB%8A%E6%97%A5%E6%9C%89%E5%B9%BE%E9%99%A3%E9%A9%9F%E9%9B%A8-%E5%B1%80%E9%83%A8%E5%9C%B0%E5%8D%80%E6%9C%89%E7%8B%82%E9%A2%A8%E9%9B%B7%E6%9A%B4-%E6%9C%80%E9%AB%98%E6%B0%A3%E6%BA%AB32%E5%BA%A6",
+    "timestamp": "2026-08-21T22:12:04.530Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "打風｜天文台料下周四逼近400公里　升級熱帶風暴為何未命名？",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20200528/342734564378152961.jpeg/h0TK1UrEsDWyR-wbxO_Ehikm_yzpeD8gU6DSOVOg0jk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60382519/%E7%82%92%E7%B1%B3%E7%B2%89%E8%B2%BC%E5%A3%AB-%E4%B9%BE%E7%88%BD%E5%BD%88%E7%89%995%E5%A4%A7%E8%B2%BC%E5%A3%AB-1%E6%8B%9B%E4%BB%A4%E7%B1%B3%E7%B2%89%E5%B8%B6%E6%9C%89%E8%84%86%E8%BA%AB%E5%8F%A3%E6%84%9F",
     "timestamp": "2026-08-21T15:17:35.669Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "王毅訪印尼主持全面戰略第1次會議　偕董軍出席2+2對話機制",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260821/1167599357566914560567801.jpeg/g2XmYo_l5e2FZ8e5kkbKqGX8d8OqPMfg9hblvvYW5b4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60382511/%E7%8E%8B%E6%AF%85%E8%A8%AA%E5%8D%B0%E5%B0%BC%E4%B8%BB%E6%8C%81%E5%85%A8%E9%9D%A2%E6%88%B0%E7%95%A5%E7%AC%AC1%E6%AC%A1%E6%9C%83%E8%AD%B0-%E5%81%95%E8%91%A3%E8%BB%8D%E5%87%BA%E5%B8%AD2-2%E5%B0%8D%E8%A9%B1%E6%A9%9F%E5%88%B6",
-    "timestamp": "2026-08-21T14:52:48.881Z",
     "strategy": ".content-card__main"
   }
 ];
