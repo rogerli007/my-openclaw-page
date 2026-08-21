@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-21T21:12:41.684Z
+// Last updated: 2026-08-21T21:29:46.669Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "打風｜天文台料下周四逼近400公里　升級熱帶風暴為何未命名？",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260822/1167675923634327552531804.jpeg/iYTt-b8bPh8i6tP2CFCOj_F2gruuWxGr0ZoYgNGaGIA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60382533/%E6%89%93%E9%A2%A8-%E5%A4%A9%E6%96%87%E5%8F%B0%E6%96%99%E4%B8%8B%E5%91%A8%E5%9B%9B%E9%80%BC%E8%BF%91400%E5%85%AC%E9%87%8C-%E5%8D%87%E7%B4%9A%E7%86%B1%E5%B8%B6%E9%A2%A8%E6%9A%B4%E7%82%BA%E4%BD%95%E6%9C%AA%E5%91%BD%E5%90%8D",
+    "timestamp": "2026-08-21T21:29:46.669Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "TikTok被控違反兒童隱私　砸31億與美國司法部達成和解",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260821/1167503741654405120083176.jpeg/MmgzcmuqzyYRl-YmuR_XHiYHUk42iYe9X5aZo1-WmaM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60382384/%E6%89%93%E9%BC%93%E5%B6%BA%E7%8B%97%E5%92%AC%E6%AD%BB%E4%BA%BA-%E5%8B%95%E4%BF%9D%E7%95%8C%E6%8C%87%E7%95%8C%E5%AE%9A%E6%B7%B7%E7%A8%AE%E7%8B%97%E7%9B%A3%E7%AE%A1%E6%A8%A1%E7%B3%8A-%E7%8D%B8%E9%86%AB%E7%9B%AE%E6%B8%AC%E4%BA%A6%E6%98%93%E5%81%8F%E5%B7%AE",
     "timestamp": "2026-08-21T13:37:14.947Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "「蜘蛛精」張慧儀挑戰昆蟲餐勁崩潰　自嘲食自己出古惑請鄰桌清盤",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260821/1167530121905573888594160.jpeg/urijqdaCP6WT4kO5gcSWFL5CzIzR0CvpusXxg7rF8YM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60382255/%E8%9C%98%E8%9B%9B%E7%B2%BE-%E5%BC%B5%E6%85%A7%E5%84%80%E6%8C%91%E6%88%B0%E6%98%86%E8%9F%B2%E9%A4%90%E5%8B%81%E5%B4%A9%E6%BD%B0-%E8%87%AA%E5%98%B2%E9%A3%9F%E8%87%AA%E5%B7%B1%E5%87%BA%E5%8F%A4%E6%83%91%E8%AB%8B%E9%84%B0%E6%A1%8C%E6%B8%85%E7%9B%A4",
-    "timestamp": "2026-08-21T12:36:16.052Z",
     "strategy": ".content-card__main"
   }
 ];
