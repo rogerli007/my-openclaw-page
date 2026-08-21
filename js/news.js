@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-21T17:47:38.460Z
+// Last updated: 2026-08-21T18:02:46.481Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "山東臨沂一平房院落爆炸　致1死2失聯｜有片",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260822/1167646095442972672951247.png/At7hb6JuibbksSqzJZC859lZ1qex2VH2ScEgp0nBIKc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60382531/%E5%B1%B1%E6%9D%B1%E8%87%A8%E6%B2%82%E4%B8%80%E5%B9%B3%E6%88%BF%E9%99%A2%E8%90%BD%E7%88%86%E7%82%B8-%E8%87%B41%E6%AD%BB2%E5%A4%B1%E8%81%AF-%E6%9C%89%E7%89%87",
+    "timestamp": "2026-08-21T18:02:46.481Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "山東臨沂一平房院落爆炸　致1死2失聯｜有片",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20240201/829781063986712576289560.jpeg/rFPGCI8QtjFSKgNZmSxFEfkDVY4CEQtWh8wfuJLMH7g?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60382462/%E6%81%92%E6%8C%87%E5%AD%A3%E6%AA%A2-%E8%8F%AF%E8%99%B9%E5%AE%8F%E5%8A%9B-%E6%BF%B0%E6%9F%B4%E5%8B%95%E5%8A%9B-%E6%9F%93%E8%97%8D-%E6%88%90%E4%BB%BD%E8%82%A1%E6%95%B8%E7%9B%AE%E5%8D%87%E8%87%B395%E9%9A%BB",
     "timestamp": "2026-08-21T10:31:10.098Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "超市優惠|百佳/惠康/佳宝/Aeon半價起！滿$100減$20+新奇士買1送1",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260821/1167531945677033472317948.jpeg/FIuQXopoYO7LHHFNq2C_Gbivn2SoMNm-mlDk45pQ5OM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60382310/%E8%B6%85%E5%B8%82%E5%84%AA%E6%83%A0-%E7%99%BE%E4%BD%B3-%E6%83%A0%E5%BA%B7-%E4%BD%B3%E5%AE%9D-aeon%E5%8D%8A%E5%83%B9%E8%B5%B7-%E6%BB%BF-100%E6%B8%9B-20-%E6%96%B0%E5%A5%87%E5%A3%AB%E8%B2%B71%E9%80%811",
-    "timestamp": "2026-08-21T10:15:23.120Z",
     "strategy": ".content-card__main"
   }
 ];
