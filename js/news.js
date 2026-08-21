@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-21T03:28:40.233Z
+// Last updated: 2026-08-21T03:52:59.856Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "打鼓嶺狗殺人｜33歲女負責人遭狗隻襲擊致死　親友哀痛認屍",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260821/1167430917824712704457219.jpeg/Co6J4P0o7ZLy699h1rW668ReO7lBZoIVqsti2KrLYtg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60382180/%E6%89%93%E9%BC%93%E5%B6%BA%E7%8B%97%E6%AE%BA%E4%BA%BA-33%E6%AD%B2%E5%A5%B3%E8%B2%A0%E8%B2%AC%E4%BA%BA%E9%81%AD%E7%8B%97%E9%9A%BB%E8%A5%B2%E6%93%8A%E8%87%B4%E6%AD%BB-%E8%A6%AA%E5%8F%8B%E5%93%80%E7%97%9B%E8%AA%8D%E5%B1%8D",
+    "timestamp": "2026-08-21T03:52:59.856Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "銀色債券｜申請日期+各銀行及證券行認購優惠+保底息4.25厘｜最新",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260821/1167319170254114816852439.jpeg/PvrlRsXyzhj958BgXVjkWBMkDHBo2uOaxpsWCvybFgo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60382161/%E6%97%BA%E8%A7%92%E8%A1%97%E9%A0%AD39%E6%AD%B2%E5%A5%B3%E7%96%91%E9%81%AD%E9%9D%9E%E7%A6%AE-73%E6%AD%B2%E5%A4%96%E7%B1%8D%E7%94%B7%E8%A2%AB%E6%8D%95-%E5%8F%A6%E6%B6%89%E6%9C%AA%E8%83%BD%E5%87%BA%E7%A4%BA%E8%BA%AB%E4%BB%BD%E8%AD%89%E6%98%8E",
     "timestamp": "2026-08-20T20:21:00.455Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "哥倫比亞非法金礦發生山體滑坡　已致13人死亡",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260821/1167307431605178368620938.png/fRT7yuRteYXa4lRXNP7Cl5y7hi65mZkkB63JeQetyXk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60382158/%E5%93%A5%E5%80%AB%E6%AF%94%E4%BA%9E%E9%9D%9E%E6%B3%95%E9%87%91%E7%A4%A6%E7%99%BC%E7%94%9F%E5%B1%B1%E9%AB%94%E6%BB%91%E5%9D%A1-%E5%B7%B2%E8%87%B413%E4%BA%BA%E6%AD%BB%E4%BA%A1",
-    "timestamp": "2026-08-20T20:02:08.602Z",
     "strategy": ".content-card__main"
   }
 ];
