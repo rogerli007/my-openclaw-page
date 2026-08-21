@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-21T10:31:10.098Z
+// Last updated: 2026-08-21T10:49:10.009Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "大金/樂聲/格力/三菱冷氣好用嗎?消委1.5匹分體機評測電費年差3成",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260819/1166724262581506048175069.jpeg/1c83LY5R58kt27VSX65eHRf36M0do9-ULRVXyS0VV8k?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60381418/%E6%B6%88%E5%A7%941-5%E5%8C%B9%E5%86%B7%E6%B0%A3%E6%A9%9F%E8%A9%95%E6%B8%AC-4890%E6%A0%BC%E5%8A%9B%E5%AA%B2%E7%BE%8E-2%E8%90%AC%E4%B8%89%E8%8F%B1-%E5%90%8C%E7%82%BA1%E7%B4%9A%E9%9B%BB%E8%B2%BB%E5%B7%AE33",
+    "timestamp": "2026-08-21T10:49:10.009Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "恒指季檢｜華虹宏力、濰柴動力「染藍」　成份股數目升至95隻",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260713/1153419756913561600684239.jpeg/rKDTRXqVMsIbTxQpckaaOc1sxT5HX1XrEdb1rxHW9a8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60382172/%E6%97%A5%E6%9C%AC%E9%97%9C%E8%A5%BF%E5%B7%A5%E5%95%86%E7%95%8C%E8%A8%AA%E8%8F%AF%E5%BB%B6%E6%9C%9F-%E4%B8%AD%E6%96%B9%E5%BF%99%E6%96%BCapec%E9%9B%A3%E4%BB%A5%E6%8E%A5%E5%BE%85",
     "timestamp": "2026-08-21T00:54:11.355Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "失聯15年閨密竟是親姊妹　遭棄重逢成密友　測DNA確認血脈相連",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260820/1167158135245246464510428.png/moiLzIwDC6UgGdw9JDQyK5u7-X4EFbE8JgSu8iYErvI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60381404/%E5%A4%B1%E8%81%AF15%E5%B9%B4%E9%96%A8%E5%AF%86%E7%AB%9F%E6%98%AF%E8%A6%AA%E5%A7%8A%E5%A6%B9-%E9%81%AD%E6%A3%84%E9%87%8D%E9%80%A2%E6%88%90%E5%AF%86%E5%8F%8B-%E6%B8%ACdna%E7%A2%BA%E8%AA%8D%E8%A1%80%E8%84%88%E7%9B%B8%E9%80%A3",
-    "timestamp": "2026-08-21T00:24:46.141Z",
     "strategy": ".content-card__main"
   }
 ];
