@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-21T12:01:27.917Z
+// Last updated: 2026-08-21T12:18:14.998Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "肖戰現身為何萬人逼爆尖沙咀？「小飛俠」聚集　四大原因一文看清",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260821/1167500889791926272854970.png/1QONPl9N2Bj7mZYP0qc5w5SGsFELWNJyhdNZ04XTWdM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60382294/%E8%82%96%E6%88%B0%E7%8F%BE%E8%BA%AB%E7%82%BA%E4%BD%95%E8%90%AC%E4%BA%BA%E9%80%BC%E7%88%86%E5%B0%96%E6%B2%99%E5%92%80-%E5%B0%8F%E9%A3%9B%E4%BF%A0-%E8%81%9A%E9%9B%86-%E5%9B%9B%E5%A4%A7%E5%8E%9F%E5%9B%A0%E4%B8%80%E6%96%87%E7%9C%8B%E6%B8%85",
+    "timestamp": "2026-08-21T12:18:14.998Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "湯令山四度考車失敗做網約車代言　避談戀情但讚林熙彤︰風趣幽默",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260819/1166710153567801344378942.jpeg/iWdDn5A6yyvuxky1JOjnQh6jP9Lvdw8EXYYulV2GLpU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60382236/%E6%89%93%E9%BC%93%E5%B6%BA%E7%8B%97%E6%AE%BA%E4%BA%BA-%E8%AD%B0%E5%93%A1%E5%80%A1%E5%BC%95%E5%85%A5%E7%A6%81%E9%A4%8A%E6%A9%9F%E5%88%B6-%E6%94%B9%E9%9D%A9%E6%B3%95%E4%BE%8B%E6%98%8E%E7%A2%BA%E7%8B%97%E4%B8%BB%E5%88%91%E8%B2%AC",
     "timestamp": "2026-08-21T04:21:47.412Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "打鼓嶺狗殺人｜33歲女負責人遭狗隻襲擊致死　親友哀痛認屍",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260821/1167430917824712704457219.jpeg/Co6J4P0o7ZLy699h1rW668ReO7lBZoIVqsti2KrLYtg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60382180/%E6%89%93%E9%BC%93%E5%B6%BA%E7%8B%97%E6%AE%BA%E4%BA%BA-33%E6%AD%B2%E5%A5%B3%E8%B2%A0%E8%B2%AC%E4%BA%BA%E9%81%AD%E7%8B%97%E9%9A%BB%E8%A5%B2%E6%93%8A%E8%87%B4%E6%AD%BB-%E8%A6%AA%E5%8F%8B%E5%93%80%E7%97%9B%E8%AA%8D%E5%B1%8D",
-    "timestamp": "2026-08-21T03:52:59.856Z",
     "strategy": ".content-card__main"
   }
 ];
