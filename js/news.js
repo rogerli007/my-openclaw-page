@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-21T08:51:45.226Z
+// Last updated: 2026-08-21T09:20:09.336Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "許家印判囚｜盤點香港私產　擁三山頂大屋兩遊艇三飛機值數十億",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260821/1167514019746025472023547.jpeg/SodvM7EaVkEMwPXotT-lE4eBRmdJw5s95UplUeVKZVE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60382386/%E8%A8%B1%E5%AE%B6%E5%8D%B0%E5%88%A4%E5%9B%9A-%E7%9B%A4%E9%BB%9E%E9%A6%99%E6%B8%AF%E7%A7%81%E7%94%A2-%E6%93%81%E4%B8%89%E5%B1%B1%E9%A0%82%E5%A4%A7%E5%B1%8B%E5%85%A9%E9%81%8A%E8%89%87%E4%B8%89%E9%A3%9B%E6%A9%9F%E5%80%BC%E6%95%B8%E5%8D%81%E5%84%84",
+    "timestamp": "2026-08-21T09:20:09.336Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "解放軍：菲律賓3架小型飛機非法闖黃岩島領空　南部戰區依法警告",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260820/1167154203223658496690583.png/En5UAoDMUjJeBDE4_hkituxNdICntrgLGLujZhi7o2Y?v=w1920r16_9",
     "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E8%A9%B1%E9%A1%8C/60381799/%E7%BE%8E%E5%9C%8B%E7%94%B7%E7%A0%B8%E7%A9%BF%E5%A2%BB%E5%A3%81%E9%97%96%E9%84%B0%E5%B1%85%E5%B1%8B-%E6%AF%86%E6%89%93%E4%B8%A6%E4%BC%81%E5%9C%96%E6%80%A7%E4%BE%B515%E6%AD%B2%E5%B0%91%E5%A5%B3-%E9%84%B0%E5%B1%85%E5%A0%B1%E8%AD%A6%E7%8D%B2%E6%95%91",
     "timestamp": "2026-08-20T23:30:35.749Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美國男砸穿墻壁闖鄰居屋　毆打並企圖性侵15歲少女　鄰居報警獲救",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260820/1167154203223658496690583.png/En5UAoDMUjJeBDE4_hkituxNdICntrgLGLujZhi7o2Y?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E8%A9%B1%E9%A1%8C/60381799/%E7%BE%8E%E5%9C%8B%E7%94%B7%E7%A0%B8%E7%A9%BF%E5%A2%BB%E5%A3%81%E9%97%96%E9%84%B0%E5%B1%85%E5%B1%8B-%E6%AF%86%E6%89%93%E4%B8%A6%E4%BC%81%E5%9C%96%E6%80%A7%E4%BE%B515%E6%AD%B2%E5%B0%91%E5%A5%B3-%E9%84%B0%E5%B1%85%E5%A0%B1%E8%AD%A6%E7%8D%B2%E6%95%91",
-    "timestamp": "2026-08-20T23:16:07.218Z",
     "strategy": ".content-card__main"
   }
 ];
