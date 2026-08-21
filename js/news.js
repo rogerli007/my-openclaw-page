@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-21T06:01:07.602Z
+// Last updated: 2026-08-21T06:20:47.355Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "日本高市早苗政府首執行死刑　柏青哥店縱火致5死10傷案元兇伏法",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260821/1167474207429234688675349.jpeg/R2cIUR8ScGvlU6iR4xd-5aRw16bRjy4DTZv3sE2b97A?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60382307/%E6%97%A5%E6%9C%AC%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E6%94%BF%E5%BA%9C%E9%A6%96%E5%9F%B7%E8%A1%8C%E6%AD%BB%E5%88%91-%E6%9F%8F%E9%9D%92%E5%93%A5%E5%BA%97%E7%B8%B1%E7%81%AB%E8%87%B45%E6%AD%BB10%E5%82%B7%E6%A1%88%E5%85%83%E5%85%87%E4%BC%8F%E6%B3%95",
+    "timestamp": "2026-08-21T06:20:47.355Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "HUAWEI Pura X View亮相｜首款肥嘟嘟闊螢幕 7000mAh大電池",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260821/1167319170254114816852439.jpeg/PvrlRsXyzhj958BgXVjkWBMkDHBo2uOaxpsWCvybFgo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60382161/%E6%97%BA%E8%A7%92%E8%A1%97%E9%A0%AD39%E6%AD%B2%E5%A5%B3%E7%96%91%E9%81%AD%E9%9D%9E%E7%A6%AE-73%E6%AD%B2%E5%A4%96%E7%B1%8D%E7%94%B7%E8%A2%AB%E6%8D%95-%E5%8F%A6%E6%B6%89%E6%9C%AA%E8%83%BD%E5%87%BA%E7%A4%BA%E8%BA%AB%E4%BB%BD%E8%AD%89%E6%98%8E",
     "timestamp": "2026-08-20T21:49:05.309Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "旺角街頭39歲女疑遭非禮　73歲外籍男被捕　另涉未能出示身份證明",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260821/1167319170254114816852439.jpeg/PvrlRsXyzhj958BgXVjkWBMkDHBo2uOaxpsWCvybFgo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60382161/%E6%97%BA%E8%A7%92%E8%A1%97%E9%A0%AD39%E6%AD%B2%E5%A5%B3%E7%96%91%E9%81%AD%E9%9D%9E%E7%A6%AE-73%E6%AD%B2%E5%A4%96%E7%B1%8D%E7%94%B7%E8%A2%AB%E6%8D%95-%E5%8F%A6%E6%B6%89%E6%9C%AA%E8%83%BD%E5%87%BA%E7%A4%BA%E8%BA%AB%E4%BB%BD%E8%AD%89%E6%98%8E",
-    "timestamp": "2026-08-20T21:18:16.222Z",
     "strategy": ".content-card__main"
   }
 ];
