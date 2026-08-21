@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-21T15:51:40.193Z
+// Last updated: 2026-08-21T16:14:52.023Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "名媛謝玲玲七夕買花氹101歲前奶奶！深情告白感動網民：超越名分",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260821/1167598072767713280370418.jpeg/Mn1rwN2tHkSTHnWGCbk6XjyKGEg5O1n8DqCmRg6gpkY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60382381/%E5%90%8D%E5%AA%9B%E8%AC%9D%E7%8E%B2%E7%8E%B2%E4%B8%83%E5%A4%95%E8%B2%B7%E8%8A%B1%E6%B0%B9101%E6%AD%B2%E5%89%8D%E5%A5%B6%E5%A5%B6-%E6%B7%B1%E6%83%85%E5%91%8A%E7%99%BD%E6%84%9F%E5%8B%95%E7%B6%B2%E6%B0%91-%E8%B6%85%E8%B6%8A%E5%90%8D%E5%88%86",
+    "timestamp": "2026-08-21T16:14:52.023Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美國財長促中國配合孤立伊朗經濟　北京：反對非法單邊制裁",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/5312279/org/94be7a1eb26ed2d0309f1a0b81410350.jpg/ZKO4e42o8OM6c5LxjHZNw1KFkyckNGe4htYLdobWC3Y?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60382367/%E7%B4%85%E7%A3%A1%E7%A7%81%E5%AE%B6%E8%BB%8A%E5%A4%B1%E6%8E%A7%E6%92%9E%E6%AC%84-%E8%AD%A6%E6%AA%A2%E4%BE%9D%E6%89%98%E5%92%AA%E9%85%AFk%E4%BB%94%E5%8F%8A%E5%8F%AF%E5%8D%A1%E5%9B%A0-%E6%8B%9833%E6%AD%B2%E7%94%B7%E5%8F%B8%E6%A9%9F",
     "timestamp": "2026-08-21T08:20:43.213Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "天官賜福香港展旺角直擊｜9折積分換購$70起｜入場送屏風書籤盲盒",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260821/1167496938115829760054163.jpeg/GO7pHQklLkckgJEX6UmWYeFHOy1oqVv1gWutWoFrrVo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%81%8A%E6%88%B2%E5%8B%95%E6%BC%AB/60381656/%E5%A4%A9%E5%AE%98%E8%B3%9C%E7%A6%8F%E9%A6%99%E6%B8%AF%E5%B1%95%E6%97%BA%E8%A7%92%E7%9B%B4%E6%93%8A-9%E6%8A%98%E7%A9%8D%E5%88%86%E6%8F%9B%E8%B3%BC-70%E8%B5%B7-%E5%85%A5%E5%A0%B4%E9%80%81%E5%B1%8F%E9%A2%A8%E6%9B%B8%E7%B1%A4%E7%9B%B2%E7%9B%92",
-    "timestamp": "2026-08-21T07:51:42.895Z",
     "strategy": ".content-card__main"
   }
 ];
