@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-21T00:54:11.355Z
+// Last updated: 2026-08-21T01:37:49.533Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "凝皓教育女導師涉泄學生私隱　凝皓稱正調查　會暫停相關導師課堂",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260820/1167146097836036096739182.jpeg/jrw5EnT6nHxFls004zMxkMxo0vhxh9pF1PTm-9T05vs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60382179/%E5%87%9D%E7%9A%93%E6%95%99%E8%82%B2%E5%A5%B3%E5%B0%8E%E5%B8%AB%E6%B6%89%E6%B3%84%E5%AD%B8%E7%94%9F%E7%A7%81%E9%9A%B1-%E5%87%9D%E7%9A%93%E7%A8%B1%E6%AD%A3%E8%AA%BF%E6%9F%A5-%E6%9C%83%E6%9A%AB%E5%81%9C%E7%9B%B8%E9%97%9C%E5%B0%8E%E5%B8%AB%E8%AA%B2%E5%A0%82",
+    "timestamp": "2026-08-21T01:37:49.533Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "日本關西工商界訪華延期　中方忙於APEC難以接待",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260821/1167289644635656192512476.jpeg/p0zTNbPyZhYY0vh-MUw2JhCYEG8tR91gphTaF6YU2hc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60382154/%E5%B0%BC%E6%97%A5%E5%88%A9%E4%BA%9E%E8%A5%BF%E5%8C%97%E9%83%A8%E7%BF%BB%E8%88%B9%E8%87%B3%E5%B0%9150%E6%AD%BB-%E9%81%87%E9%9B%A3%E8%80%85%E5%A4%9A%E7%82%BA%E5%85%92%E7%AB%A5",
     "timestamp": "2026-08-20T19:31:11.241Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "尼日利亞西北部翻船至少50死　遇難者多為兒童",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260821/1167289644635656192512476.jpeg/p0zTNbPyZhYY0vh-MUw2JhCYEG8tR91gphTaF6YU2hc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60382154/%E5%B0%BC%E6%97%A5%E5%88%A9%E4%BA%9E%E8%A5%BF%E5%8C%97%E9%83%A8%E7%BF%BB%E8%88%B9%E8%87%B3%E5%B0%9150%E6%AD%BB-%E9%81%87%E9%9B%A3%E8%80%85%E5%A4%9A%E7%82%BA%E5%85%92%E7%AB%A5",
-    "timestamp": "2026-08-20T18:35:50.113Z",
     "strategy": ".content-card__main"
   }
 ];
