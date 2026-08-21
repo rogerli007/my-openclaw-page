@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-21T04:51:25.921Z
+// Last updated: 2026-08-21T05:35:30.003Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "中年好聲音4｜三甲內定名單瘋傳　將率先返內地出騷TVB疑有份舉辦",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260821/1167331675105923072845136.jpeg/ULLFJBYoxKg8vpNghgwMXPMp95bW7BokyYOft8mDn7c?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60382163/%E4%B8%AD%E5%B9%B4%E5%A5%BD%E8%81%B2%E9%9F%B34-%E4%B8%89%E7%94%B2%E5%85%A7%E5%AE%9A%E5%90%8D%E5%96%AE%E7%98%8B%E5%82%B3-%E5%B0%87%E7%8E%87%E5%85%88%E8%BF%94%E5%85%A7%E5%9C%B0%E5%87%BA%E9%A8%B7tvb%E7%96%91%E6%9C%89%E4%BB%BD%E8%88%89%E8%BE%A6",
+    "timestamp": "2026-08-21T05:35:30.003Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美國阿拉斯加一架載8人飛機墜毀　機上8人情況未明",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260821/1167319170254114816852439.jpeg/PvrlRsXyzhj958BgXVjkWBMkDHBo2uOaxpsWCvybFgo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60382161/%E6%97%BA%E8%A7%92%E8%A1%97%E9%A0%AD39%E6%AD%B2%E5%A5%B3%E7%96%91%E9%81%AD%E9%9D%9E%E7%A6%AE-73%E6%AD%B2%E5%A4%96%E7%B1%8D%E7%94%B7%E8%A2%AB%E6%8D%95-%E5%8F%A6%E6%B6%89%E6%9C%AA%E8%83%BD%E5%87%BA%E7%A4%BA%E8%BA%AB%E4%BB%BD%E8%AD%89%E6%98%8E",
     "timestamp": "2026-08-20T21:03:47.014Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "旺角街頭39歲女疑遭非禮　73歲外籍男被捕　另涉未能出示身份證明",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260821/1167319170254114816852439.jpeg/PvrlRsXyzhj958BgXVjkWBMkDHBo2uOaxpsWCvybFgo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60382161/%E6%97%BA%E8%A7%92%E8%A1%97%E9%A0%AD39%E6%AD%B2%E5%A5%B3%E7%96%91%E9%81%AD%E9%9D%9E%E7%A6%AE-73%E6%AD%B2%E5%A4%96%E7%B1%8D%E7%94%B7%E8%A2%AB%E6%8D%95-%E5%8F%A6%E6%B6%89%E6%9C%AA%E8%83%BD%E5%87%BA%E7%A4%BA%E8%BA%AB%E4%BB%BD%E8%AD%89%E6%98%8E",
-    "timestamp": "2026-08-20T20:49:09.826Z",
     "strategy": ".content-card__main"
   }
 ];
