@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-21T11:33:02.324Z
+// Last updated: 2026-08-21T11:48:09.709Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "鬼月｜農曆7月女生小心6大美容禁忌　半夜照鏡子、室外補妝都上榜",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260817/1166035371675357184638907.jpeg/qOlq2Pf1KxtMrg7R4YMyT6LbaUmRRHBpNjUCeEM1Ang?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%9F%A5%E6%80%A7%E5%A5%B3%E7%94%9F/60380713/%E9%AC%BC%E6%9C%88-%E8%BE%B2%E6%9B%867%E6%9C%88%E5%A5%B3%E7%94%9F%E5%B0%8F%E5%BF%836%E5%A4%A7%E7%BE%8E%E5%AE%B9%E7%A6%81%E5%BF%8C-%E5%8D%8A%E5%A4%9C%E7%85%A7%E9%8F%A1%E5%AD%90-%E5%AE%A4%E5%A4%96%E8%A3%9C%E5%A6%9D%E9%83%BD%E4%B8%8A%E6%A6%9C",
+    "timestamp": "2026-08-21T11:48:09.709Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "鬼月｜農曆7月女生小心6大美容禁忌　半夜照鏡子、室外補妝都上榜",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260807/1162396653630525440137642.jpeg/emFR_ygcAuzrd0OyXHlAXa_dzexgHKGC3HMQudxzELk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60377650/%E9%8A%80%E8%89%B2%E5%82%B5%E5%88%B82026%E6%87%B6%E4%BA%BA%E5%8C%85-%E7%94%B3%E8%AB%8B%E6%97%A5%E6%9C%9F-%E5%90%84%E5%A4%A7%E9%8A%80%E8%A1%8C%E8%AA%8D%E8%B3%BC%E5%84%AA%E6%83%A0-%E4%BF%9D%E5%BA%95%E6%81%AF4-25%E5%8E%98",
     "timestamp": "2026-08-21T03:28:40.233Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美韓軍演罕見規模縮半取消反擊演習　8月21日提前結束",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250810/1031328828825276416379586.jpeg/tmhJ8ROunxyKnCk-LkpVkAn_IdBTWn0J-EvlrPhL5aw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60382196/%E7%BE%8E%E9%9F%93%E8%BB%8D%E6%BC%94%E7%BD%95%E8%A6%8B%E8%A6%8F%E6%A8%A1%E7%B8%AE%E5%8D%8A%E5%8F%96%E6%B6%88%E5%8F%8D%E6%93%8A%E6%BC%94%E7%BF%92-8%E6%9C%8821%E6%97%A5%E6%8F%90%E5%89%8D%E7%B5%90%E6%9D%9F",
-    "timestamp": "2026-08-21T02:50:17.370Z",
     "strategy": ".content-card__main"
   }
 ];
