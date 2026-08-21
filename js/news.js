@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-21T07:24:52.476Z
+// Last updated: 2026-08-21T07:51:42.895Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "天官賜福香港展旺角直擊｜9折積分換購$70起｜入場送屏風書籤盲盒",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260821/1167496938115829760054163.jpeg/GO7pHQklLkckgJEX6UmWYeFHOy1oqVv1gWutWoFrrVo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%81%8A%E6%88%B2%E5%8B%95%E6%BC%AB/60381656/%E5%A4%A9%E5%AE%98%E8%B3%9C%E7%A6%8F%E9%A6%99%E6%B8%AF%E5%B1%95%E6%97%BA%E8%A7%92%E7%9B%B4%E6%93%8A-9%E6%8A%98%E7%A9%8D%E5%88%86%E6%8F%9B%E8%B3%BC-70%E8%B5%B7-%E5%85%A5%E5%A0%B4%E9%80%81%E5%B1%8F%E9%A2%A8%E6%9B%B8%E7%B1%A4%E7%9B%B2%E7%9B%92",
+    "timestamp": "2026-08-21T07:51:42.895Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "新會商會中學敲定新校長　消息：人選正被前學校調查專業失德",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260821/1167358367228760064891543.jpeg/RRxsxzoZfMO-ijoArQ5skHmKfZvj-Q-fQ2yHDENshww?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60382170/%E4%B8%AD%E5%9C%8B%E8%88%87%E7%91%9E%E5%A3%AB%E5%AE%A3%E5%B8%83%E5%AE%8C%E6%88%90%E8%87%AA%E8%B2%BF%E5%8D%94%E5%AE%9A%E5%8D%87%E7%B4%9A%E8%AB%87%E5%88%A4-%E5%85%B1%E5%89%B5%E7%B6%93%E8%B2%BF%E5%90%88%E4%BD%9C%E6%96%B0%E6%A9%9F%E9%81%87",
     "timestamp": "2026-08-20T22:47:04.351Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "前TVB小花今年宣布離巢　轉行做香薰治療師亮相HOY TV手法極專業",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260820/1167166702044057600471035.jpeg/zkFBogyg23oTWHbgTnSyW6qLa0ZArqQ5_7q4nP-6uJw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60381952/%E6%9D%8E%E5%90%9B%E5%A6%8D%E4%BB%8A%E5%B9%B4%E5%AE%A3%E5%B8%83%E9%9B%A2%E5%B7%A2-%E8%BD%89%E8%A1%8C%E5%81%9A%E9%A6%99%E8%96%B0%E6%B2%BB%E7%99%82%E5%B8%AB%E4%BA%AE%E7%9B%B8hoy-tv%E6%89%8B%E6%B3%95%E6%A5%B5%E5%B0%88%E6%A5%AD",
-    "timestamp": "2026-08-20T22:30:29.994Z",
     "strategy": ".content-card__main"
   }
 ];
