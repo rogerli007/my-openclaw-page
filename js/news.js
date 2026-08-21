@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-21T00:24:46.141Z
+// Last updated: 2026-08-21T00:54:11.355Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "日本關西工商界訪華延期　中方忙於APEC難以接待",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260713/1153419756913561600684239.jpeg/rKDTRXqVMsIbTxQpckaaOc1sxT5HX1XrEdb1rxHW9a8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60382172/%E6%97%A5%E6%9C%AC%E9%97%9C%E8%A5%BF%E5%B7%A5%E5%95%86%E7%95%8C%E8%A8%AA%E8%8F%AF%E5%BB%B6%E6%9C%9F-%E4%B8%AD%E6%96%B9%E5%BF%99%E6%96%BCapec%E9%9B%A3%E4%BB%A5%E6%8E%A5%E5%BE%85",
+    "timestamp": "2026-08-21T00:54:11.355Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "失聯15年閨密竟是親姊妹　遭棄重逢成密友　測DNA確認血脈相連",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260821/1167289644635656192512476.jpeg/p0zTNbPyZhYY0vh-MUw2JhCYEG8tR91gphTaF6YU2hc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60382154/%E5%B0%BC%E6%97%A5%E5%88%A9%E4%BA%9E%E8%A5%BF%E5%8C%97%E9%83%A8%E7%BF%BB%E8%88%B9%E8%87%B3%E5%B0%9150%E6%AD%BB-%E9%81%87%E9%9B%A3%E8%80%85%E5%A4%9A%E7%82%BA%E5%85%92%E7%AB%A5",
     "timestamp": "2026-08-20T18:35:50.113Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "尼日利亞西北部翻船至少50死　遇難者多為兒童",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260821/1167289644635656192512476.jpeg/p0zTNbPyZhYY0vh-MUw2JhCYEG8tR91gphTaF6YU2hc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60382154/%E5%B0%BC%E6%97%A5%E5%88%A9%E4%BA%9E%E8%A5%BF%E5%8C%97%E9%83%A8%E7%BF%BB%E8%88%B9%E8%87%B3%E5%B0%9150%E6%AD%BB-%E9%81%87%E9%9B%A3%E8%80%85%E5%A4%9A%E7%82%BA%E5%85%92%E7%AB%A5",
-    "timestamp": "2026-08-20T18:17:47.831Z",
     "strategy": ".content-card__main"
   }
 ];
