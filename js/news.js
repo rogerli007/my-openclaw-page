@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-21T10:15:23.120Z
+// Last updated: 2026-08-21T10:31:10.098Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "恒指季檢｜華虹宏力、濰柴動力「染藍」　成份股數目升至95隻",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20240201/829781063986712576289560.jpeg/rFPGCI8QtjFSKgNZmSxFEfkDVY4CEQtWh8wfuJLMH7g?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60382462/%E6%81%92%E6%8C%87%E5%AD%A3%E6%AA%A2-%E8%8F%AF%E8%99%B9%E5%AE%8F%E5%8A%9B-%E6%BF%B0%E6%9F%B4%E5%8B%95%E5%8A%9B-%E6%9F%93%E8%97%8D-%E6%88%90%E4%BB%BD%E8%82%A1%E6%95%B8%E7%9B%AE%E5%8D%87%E8%87%B395%E9%9A%BB",
+    "timestamp": "2026-08-21T10:31:10.098Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "超市優惠|百佳/惠康/佳宝/Aeon半價起！滿$100減$20+新奇士買1送1",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260820/1167158135245246464510428.png/moiLzIwDC6UgGdw9JDQyK5u7-X4EFbE8JgSu8iYErvI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60381404/%E5%A4%B1%E8%81%AF15%E5%B9%B4%E9%96%A8%E5%AF%86%E7%AB%9F%E6%98%AF%E8%A6%AA%E5%A7%8A%E5%A6%B9-%E9%81%AD%E6%A3%84%E9%87%8D%E9%80%A2%E6%88%90%E5%AF%86%E5%8F%8B-%E6%B8%ACdna%E7%A2%BA%E8%AA%8D%E8%A1%80%E8%84%88%E7%9B%B8%E9%80%A3",
     "timestamp": "2026-08-21T00:24:46.141Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "為何特朗普又舉起「反共」旗幟？｜Jack Talk・去片",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260820/1167120779758800896753629.jpeg/Dngj7p8ZmFM3grgVYRG0vIPtYm25oz2ZRahfLUWoXy0",
-    "url": "https://www.hk01.com/%E5%9C%8B%E9%9A%9B%E5%88%86%E6%9E%90/60379561/%E7%82%BA%E4%BD%95%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%88%E8%88%89%E8%B5%B7-%E5%8F%8D%E5%85%B1-%E6%97%97%E5%B9%9F-jack-talk-%E5%8E%BB%E7%89%87",
-    "timestamp": "2026-08-20T23:58:43.461Z",
     "strategy": ".content-card__main"
   }
 ];
