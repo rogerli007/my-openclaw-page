@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-21T18:02:46.481Z
+// Last updated: 2026-08-21T18:35:25.036Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "山東臨沂一平房院落爆炸　致1死2失聯｜有片",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260822/1167646095442972672951247.png/At7hb6JuibbksSqzJZC859lZ1qex2VH2ScEgp0nBIKc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60382531/%E5%B1%B1%E6%9D%B1%E8%87%A8%E6%B2%82%E4%B8%80%E5%B9%B3%E6%88%BF%E9%99%A2%E8%90%BD%E7%88%86%E7%82%B8-%E8%87%B41%E6%AD%BB2%E5%A4%B1%E8%81%AF-%E6%9C%89%E7%89%87",
+    "timestamp": "2026-08-21T18:35:25.036Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "山東臨沂一平房院落爆炸　致1死2失聯｜有片",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260819/1166724262581506048175069.jpeg/1c83LY5R58kt27VSX65eHRf36M0do9-ULRVXyS0VV8k?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60381418/%E6%B6%88%E5%A7%941-5%E5%8C%B9%E5%86%B7%E6%B0%A3%E6%A9%9F%E8%A9%95%E6%B8%AC-4890%E6%A0%BC%E5%8A%9B%E5%AA%B2%E7%BE%8E-2%E8%90%AC%E4%B8%89%E8%8F%B1-%E5%90%8C%E7%82%BA1%E7%B4%9A%E9%9B%BB%E8%B2%BB%E5%B7%AE33",
     "timestamp": "2026-08-21T10:49:10.009Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "恒指季檢｜華虹宏力、濰柴動力「染藍」　成份股數目升至95隻",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20240201/829781063986712576289560.jpeg/rFPGCI8QtjFSKgNZmSxFEfkDVY4CEQtWh8wfuJLMH7g?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60382462/%E6%81%92%E6%8C%87%E5%AD%A3%E6%AA%A2-%E8%8F%AF%E8%99%B9%E5%AE%8F%E5%8A%9B-%E6%BF%B0%E6%9F%B4%E5%8B%95%E5%8A%9B-%E6%9F%93%E8%97%8D-%E6%88%90%E4%BB%BD%E8%82%A1%E6%95%B8%E7%9B%AE%E5%8D%87%E8%87%B395%E9%9A%BB",
-    "timestamp": "2026-08-21T10:31:10.098Z",
     "strategy": ".content-card__main"
   }
 ];
