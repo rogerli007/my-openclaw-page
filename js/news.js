@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-21T19:45:55.150Z
+// Last updated: 2026-08-21T19:56:44.355Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "葵涌小童坐女司機大腿　「齊駕車」涉危駕　目擊者：可報警｜有片",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260822/1167673836200529920203468.jpeg/x7EjDvnV_OJAhjNGaJAzAsn0HglIPGfAWjXiqVo14qk",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60382535/%E8%91%B5%E6%B6%8C%E5%B0%8F%E7%AB%A5%E5%9D%90%E5%A5%B3%E5%8F%B8%E6%A9%9F%E5%A4%A7%E8%85%BF-%E9%BD%8A%E9%A7%95%E8%BB%8A-%E6%B6%89%E5%8D%B1%E9%A7%95-%E7%9B%AE%E6%93%8A%E8%80%85-%E5%8F%AF%E5%A0%B1%E8%AD%A6-%E6%9C%89%E7%89%87",
+    "timestamp": "2026-08-21T19:56:44.355Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "葵涌小童坐女司機大腿　「齊駕車」涉危駕　目擊者：可報警｜有片",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260817/1166035371675357184638907.jpeg/qOlq2Pf1KxtMrg7R4YMyT6LbaUmRRHBpNjUCeEM1Ang?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%9F%A5%E6%80%A7%E5%A5%B3%E7%94%9F/60380713/%E9%AC%BC%E6%9C%88-%E8%BE%B2%E6%9B%867%E6%9C%88%E5%A5%B3%E7%94%9F%E5%B0%8F%E5%BF%836%E5%A4%A7%E7%BE%8E%E5%AE%B9%E7%A6%81%E5%BF%8C-%E5%8D%8A%E5%A4%9C%E7%85%A7%E9%8F%A1%E5%AD%90-%E5%AE%A4%E5%A4%96%E8%A3%9C%E5%A6%9D%E9%83%BD%E4%B8%8A%E6%A6%9C",
     "timestamp": "2026-08-21T11:33:02.324Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "主婦向鄰居冷氣槽扔糞　官稱不能容忍卑劣滋擾　給最後機會判緩刑",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260715/1154139019055992832463852.jpeg/1Ouscr_F3M44bqJOq4Ovmvb0oTEdeaDpzpmlpeuZpaU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60382478/%E4%B8%BB%E5%A9%A6%E5%90%91%E9%84%B0%E5%B1%85%E5%86%B7%E6%B0%A3%E6%A7%BD%E6%89%94%E7%B3%9E-%E5%AE%98%E7%A8%B1%E4%B8%8D%E8%83%BD%E5%AE%B9%E5%BF%8D%E5%8D%91%E5%8A%A3%E6%BB%8B%E6%93%BE-%E7%B5%A6%E6%9C%80%E5%BE%8C%E6%A9%9F%E6%9C%83%E5%88%A4%E7%B7%A9%E5%88%91",
-    "timestamp": "2026-08-21T11:17:07.602Z",
     "strategy": ".content-card__main"
   }
 ];
