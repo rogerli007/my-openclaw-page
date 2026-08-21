@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-21T09:20:09.336Z
+// Last updated: 2026-08-21T09:50:35.718Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "大讚美國提前結束美韓軍演：李在明反將了特朗普一軍",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250826/1036824810770403328473625.jpeg/tYNP67kx2cOwnL5bXN7uyEewMCBHk2yMjoXT1I6F09Q?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%9C%8B%E9%9A%9B%E5%88%86%E6%9E%90/60382420/%E5%A4%A7%E8%AE%9A%E7%BE%8E%E5%9C%8B%E6%8F%90%E5%89%8D%E7%B5%90%E6%9D%9F%E7%BE%8E%E9%9F%93%E8%BB%8D%E6%BC%94-%E6%9D%8E%E5%9C%A8%E6%98%8E%E5%8F%8D%E5%B0%87%E4%BA%86%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%80%E8%BB%8D",
+    "timestamp": "2026-08-21T09:50:35.718Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "許家印判囚｜盤點香港私產　擁三山頂大屋兩遊艇三飛機值數十億",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260820/1167120779758800896753629.jpeg/Dngj7p8ZmFM3grgVYRG0vIPtYm25oz2ZRahfLUWoXy0",
     "url": "https://www.hk01.com/%E5%9C%8B%E9%9A%9B%E5%88%86%E6%9E%90/60379561/%E7%82%BA%E4%BD%95%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%88%E8%88%89%E8%B5%B7-%E5%8F%8D%E5%85%B1-%E6%97%97%E5%B9%9F-jack-talk-%E5%8E%BB%E7%89%87",
     "timestamp": "2026-08-20T23:46:05.593Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美國男砸穿墻壁闖鄰居屋　毆打並企圖性侵15歲少女　鄰居報警獲救",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260820/1167154203223658496690583.png/En5UAoDMUjJeBDE4_hkituxNdICntrgLGLujZhi7o2Y?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E8%A9%B1%E9%A1%8C/60381799/%E7%BE%8E%E5%9C%8B%E7%94%B7%E7%A0%B8%E7%A9%BF%E5%A2%BB%E5%A3%81%E9%97%96%E9%84%B0%E5%B1%85%E5%B1%8B-%E6%AF%86%E6%89%93%E4%B8%A6%E4%BC%81%E5%9C%96%E6%80%A7%E4%BE%B515%E6%AD%B2%E5%B0%91%E5%A5%B3-%E9%84%B0%E5%B1%85%E5%A0%B1%E8%AD%A6%E7%8D%B2%E6%95%91",
-    "timestamp": "2026-08-20T23:30:35.749Z",
     "strategy": ".content-card__main"
   }
 ];
