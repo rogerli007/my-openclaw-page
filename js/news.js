@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-20T23:58:43.461Z
+// Last updated: 2026-08-21T00:24:46.141Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "失聯15年閨密竟是親姊妹　遭棄重逢成密友　測DNA確認血脈相連",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260820/1167158135245246464510428.png/moiLzIwDC6UgGdw9JDQyK5u7-X4EFbE8JgSu8iYErvI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60381404/%E5%A4%B1%E8%81%AF15%E5%B9%B4%E9%96%A8%E5%AF%86%E7%AB%9F%E6%98%AF%E8%A6%AA%E5%A7%8A%E5%A6%B9-%E9%81%AD%E6%A3%84%E9%87%8D%E9%80%A2%E6%88%90%E5%AF%86%E5%8F%8B-%E6%B8%ACdna%E7%A2%BA%E8%AA%8D%E8%A1%80%E8%84%88%E7%9B%B8%E9%80%A3",
+    "timestamp": "2026-08-21T00:24:46.141Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "為何特朗普又舉起「反共」旗幟？｜Jack Talk・去片",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260821/1167289644635656192512476.jpeg/p0zTNbPyZhYY0vh-MUw2JhCYEG8tR91gphTaF6YU2hc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60382154/%E5%B0%BC%E6%97%A5%E5%88%A9%E4%BA%9E%E8%A5%BF%E5%8C%97%E9%83%A8%E7%BF%BB%E8%88%B9%E8%87%B3%E5%B0%9150%E6%AD%BB-%E9%81%87%E9%9B%A3%E8%80%85%E5%A4%9A%E7%82%BA%E5%85%92%E7%AB%A5",
     "timestamp": "2026-08-20T18:17:47.831Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "芝麻糊食譜｜做法簡易加1物香滑濃稠、具養顏防脫髮功效好處",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20241122/936697654572748800568712.jpeg/lE7i0wPSHPWEDtXPRDp7JophP-_yxoIk21Bbi9tQW4s",
-    "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60382151/%E8%8A%9D%E9%BA%BB%E7%B3%8A%E9%A3%9F%E8%AD%9C-%E5%81%9A%E6%B3%95%E7%B0%A1%E6%98%93%E5%8A%A01%E7%89%A9%E9%A6%99%E6%BB%91%E6%BF%83%E7%A8%A0-%E5%85%B7%E9%A4%8A%E9%A1%8F%E9%98%B2%E8%84%AB%E9%AB%AE%E5%8A%9F%E6%95%88%E5%A5%BD%E8%99%95",
-    "timestamp": "2026-08-20T18:04:05.767Z",
     "strategy": ".content-card__main"
   }
 ];
