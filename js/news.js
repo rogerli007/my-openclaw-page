@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-21T01:37:49.533Z
+// Last updated: 2026-08-21T02:50:17.370Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美韓軍演罕見規模縮半取消反擊演習　8月21日提前結束",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250810/1031328828825276416379586.jpeg/tmhJ8ROunxyKnCk-LkpVkAn_IdBTWn0J-EvlrPhL5aw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60382196/%E7%BE%8E%E9%9F%93%E8%BB%8D%E6%BC%94%E7%BD%95%E8%A6%8B%E8%A6%8F%E6%A8%A1%E7%B8%AE%E5%8D%8A%E5%8F%96%E6%B6%88%E5%8F%8D%E6%93%8A%E6%BC%94%E7%BF%92-8%E6%9C%8821%E6%97%A5%E6%8F%90%E5%89%8D%E7%B5%90%E6%9D%9F",
+    "timestamp": "2026-08-21T02:50:17.370Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "凝皓教育女導師涉泄學生私隱　凝皓稱正調查　會暫停相關導師課堂",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260821/1167307431605178368620938.png/fRT7yuRteYXa4lRXNP7Cl5y7hi65mZkkB63JeQetyXk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60382158/%E5%93%A5%E5%80%AB%E6%AF%94%E4%BA%9E%E9%9D%9E%E6%B3%95%E9%87%91%E7%A4%A6%E7%99%BC%E7%94%9F%E5%B1%B1%E9%AB%94%E6%BB%91%E5%9D%A1-%E5%B7%B2%E8%87%B413%E4%BA%BA%E6%AD%BB%E4%BA%A1",
     "timestamp": "2026-08-20T19:48:29.874Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "尼日利亞西北部翻船至少50死　遇難者多為兒童",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260821/1167289644635656192512476.jpeg/p0zTNbPyZhYY0vh-MUw2JhCYEG8tR91gphTaF6YU2hc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60382154/%E5%B0%BC%E6%97%A5%E5%88%A9%E4%BA%9E%E8%A5%BF%E5%8C%97%E9%83%A8%E7%BF%BB%E8%88%B9%E8%87%B3%E5%B0%9150%E6%AD%BB-%E9%81%87%E9%9B%A3%E8%80%85%E5%A4%9A%E7%82%BA%E5%85%92%E7%AB%A5",
-    "timestamp": "2026-08-20T19:31:11.241Z",
     "strategy": ".content-card__main"
   }
 ];
