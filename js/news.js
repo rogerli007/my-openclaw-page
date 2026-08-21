@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-21T14:52:48.881Z
+// Last updated: 2026-08-21T15:17:35.669Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "炒米粉做法｜乾爽彈牙5大貼士、1招令米粉帶有脆身口感",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20200528/342734564378152961.jpeg/h0TK1UrEsDWyR-wbxO_Ehikm_yzpeD8gU6DSOVOg0jk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60382519/%E7%82%92%E7%B1%B3%E7%B2%89%E8%B2%BC%E5%A3%AB-%E4%B9%BE%E7%88%BD%E5%BD%88%E7%89%995%E5%A4%A7%E8%B2%BC%E5%A3%AB-1%E6%8B%9B%E4%BB%A4%E7%B1%B3%E7%B2%89%E5%B8%B6%E6%9C%89%E8%84%86%E8%BA%AB%E5%8F%A3%E6%84%9F",
+    "timestamp": "2026-08-21T15:17:35.669Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "王毅訪印尼主持全面戰略第1次會議　偕董軍出席2+2對話機制",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20240731/895237482868641792697148.jpeg/adffZ43LNwCSwlEjOqPoPdEnm1PZx9p0ugF1Q7oBdUM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60382339/%E4%B8%AD%E5%9C%8B%E6%93%AC%E6%8E%A8%E5%87%BA%E8%B2%A1%E6%94%BF%E9%87%91%E8%9E%8D%E5%8D%94%E5%90%8C%E6%96%B0%E6%94%BF%E7%AD%96-%E5%8C%85%E6%8B%AC%E6%8B%93%E5%AF%AC%E8%B2%B8%E6%AC%BE%E8%B2%BC%E6%81%AF%E7%AF%84%E5%9C%8D-%E4%B8%AD%E5%9C%8B%E7%B6%93%E6%BF%9F",
     "timestamp": "2026-08-21T06:52:47.969Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "日本高市早苗政府首執行死刑　柏青哥店縱火致5死10傷案元兇伏法",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260821/1167474207429234688675349.jpeg/R2cIUR8ScGvlU6iR4xd-5aRw16bRjy4DTZv3sE2b97A?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60382307/%E6%97%A5%E6%9C%AC%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E6%94%BF%E5%BA%9C%E9%A6%96%E5%9F%B7%E8%A1%8C%E6%AD%BB%E5%88%91-%E6%9F%8F%E9%9D%92%E5%93%A5%E5%BA%97%E7%B8%B1%E7%81%AB%E8%87%B45%E6%AD%BB10%E5%82%B7%E6%A1%88%E5%85%83%E5%85%87%E4%BC%8F%E6%B3%95",
-    "timestamp": "2026-08-21T06:20:47.355Z",
     "strategy": ".content-card__main"
   }
 ];
