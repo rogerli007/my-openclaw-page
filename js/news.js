@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-21T16:14:52.023Z
+// Last updated: 2026-08-21T16:31:49.485Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "名媛謝玲玲七夕買花氹101歲前奶奶！深情告白感動網民：超越名分",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260821/1167598072767713280370418.jpeg/Mn1rwN2tHkSTHnWGCbk6XjyKGEg5O1n8DqCmRg6gpkY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60382381/%E5%90%8D%E5%AA%9B%E8%AC%9D%E7%8E%B2%E7%8E%B2%E4%B8%83%E5%A4%95%E8%B2%B7%E8%8A%B1%E6%B0%B9101%E6%AD%B2%E5%89%8D%E5%A5%B6%E5%A5%B6-%E6%B7%B1%E6%83%85%E5%91%8A%E7%99%BD%E6%84%9F%E5%8B%95%E7%B6%B2%E6%B0%91-%E8%B6%85%E8%B6%8A%E5%90%8D%E5%88%86",
+    "timestamp": "2026-08-21T16:31:49.485Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "名媛謝玲玲七夕買花氹101歲前奶奶！深情告白感動網民：超越名分",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20251116/1066847755114123264982360.jpeg/6ALGyJywBRGe_5LqVXEAu5hJ6jPMUqLsTfbguE324Lg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60382394/%E8%A7%A3%E6%94%BE%E8%BB%8D-%E8%8F%B2%E5%BE%8B%E8%B3%933%E6%9E%B6%E5%B0%8F%E5%9E%8B%E9%A3%9B%E6%A9%9F%E9%9D%9E%E6%B3%95%E9%97%96%E9%BB%83%E5%B2%A9%E5%B3%B6%E9%A0%98%E7%A9%BA-%E5%8D%97%E9%83%A8%E6%88%B0%E5%8D%80%E4%BE%9D%E6%B3%95%E8%AD%A6%E5%91%8A",
     "timestamp": "2026-08-21T08:51:45.226Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "紅磡私家車失控撞欄　警檢依托咪酯K仔及可卡因　拘33歲男司機",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/5312279/org/94be7a1eb26ed2d0309f1a0b81410350.jpg/ZKO4e42o8OM6c5LxjHZNw1KFkyckNGe4htYLdobWC3Y?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60382367/%E7%B4%85%E7%A3%A1%E7%A7%81%E5%AE%B6%E8%BB%8A%E5%A4%B1%E6%8E%A7%E6%92%9E%E6%AC%84-%E8%AD%A6%E6%AA%A2%E4%BE%9D%E6%89%98%E5%92%AA%E9%85%AFk%E4%BB%94%E5%8F%8A%E5%8F%AF%E5%8D%A1%E5%9B%A0-%E6%8B%9833%E6%AD%B2%E7%94%B7%E5%8F%B8%E6%A9%9F",
-    "timestamp": "2026-08-21T08:20:43.213Z",
     "strategy": ".content-card__main"
   }
 ];
