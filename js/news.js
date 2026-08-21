@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-21T21:45:00.785Z
+// Last updated: 2026-08-21T21:57:37.288Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "打風｜天文台料下周四逼近400公里　升級熱帶風暴為何未命名？",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260822/1167675923634327552531804.jpeg/iYTt-b8bPh8i6tP2CFCOj_F2gruuWxGr0ZoYgNGaGIA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60382533/%E6%89%93%E9%A2%A8-%E5%A4%A9%E6%96%87%E5%8F%B0%E6%96%99%E4%B8%8B%E5%91%A8%E5%9B%9B%E9%80%BC%E8%BF%91400%E5%85%AC%E9%87%8C-%E5%8D%87%E7%B4%9A%E7%86%B1%E5%B8%B6%E9%A2%A8%E6%9A%B4%E7%82%BA%E4%BD%95%E6%9C%AA%E5%91%BD%E5%90%8D",
+    "timestamp": "2026-08-21T21:57:37.288Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "打風｜天文台料下周四逼近400公里　升級熱帶風暴為何未命名？",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260821/1167599357566914560567801.jpeg/g2XmYo_l5e2FZ8e5kkbKqGX8d8OqPMfg9hblvvYW5b4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60382511/%E7%8E%8B%E6%AF%85%E8%A8%AA%E5%8D%B0%E5%B0%BC%E4%B8%BB%E6%8C%81%E5%85%A8%E9%9D%A2%E6%88%B0%E7%95%A5%E7%AC%AC1%E6%AC%A1%E6%9C%83%E8%AD%B0-%E5%81%95%E8%91%A3%E8%BB%8D%E5%87%BA%E5%B8%AD2-2%E5%B0%8D%E8%A9%B1%E6%A9%9F%E5%88%B6",
     "timestamp": "2026-08-21T14:52:48.881Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "打鼓嶺狗咬死人｜同業發文悼念死者：為咗毛孩連自己食飯都唔記得",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260821/1167592136573456384172359.jpeg/6HWUAV5f3pwCS6mzUZbi5rz2MnCjl7LoNNNuOzTTbjs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60382510/%E6%89%93%E9%BC%93%E5%B6%BA%E7%8B%97%E5%92%AC%E6%AD%BB%E4%BA%BA-%E5%90%8C%E6%A5%AD%E7%99%BC%E6%96%87%E6%82%BC%E5%BF%B5%E6%AD%BB%E8%80%85-%E7%82%BA%E5%92%97%E6%AF%9B%E5%AD%A9%E9%80%A3%E8%87%AA%E5%B7%B1%E9%A3%9F%E9%A3%AF%E9%83%BD%E5%94%94%E8%A8%98%E5%BE%97",
-    "timestamp": "2026-08-21T14:31:25.954Z",
     "strategy": ".content-card__main"
   }
 ];
