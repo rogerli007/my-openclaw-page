@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-21T13:37:14.947Z
+// Last updated: 2026-08-21T14:31:25.954Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "打鼓嶺狗咬死人｜同業發文悼念死者：為咗毛孩連自己食飯都唔記得",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260821/1167592136573456384172359.jpeg/6HWUAV5f3pwCS6mzUZbi5rz2MnCjl7LoNNNuOzTTbjs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60382510/%E6%89%93%E9%BC%93%E5%B6%BA%E7%8B%97%E5%92%AC%E6%AD%BB%E4%BA%BA-%E5%90%8C%E6%A5%AD%E7%99%BC%E6%96%87%E6%82%BC%E5%BF%B5%E6%AD%BB%E8%80%85-%E7%82%BA%E5%92%97%E6%AF%9B%E5%AD%A9%E9%80%A3%E8%87%AA%E5%B7%B1%E9%A3%9F%E9%A3%AF%E9%83%BD%E5%94%94%E8%A8%98%E5%BE%97",
+    "timestamp": "2026-08-21T14:31:25.954Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "打鼓嶺狗咬死人｜動保界指界定混種狗監管模糊　獸醫目測亦易偏差",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260821/1167440285169356800468795.jpeg/QoXNUk4qR8fQ6NH7hrBy2LAhpvkdLnCCNjFi-DYxYvg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60382225/huawei-pura-x-view%E4%BA%AE%E7%9B%B8-%E9%A6%96%E6%AC%BE-%E8%82%A5%E5%98%9F%E5%98%9F-%E9%97%8A%E8%9E%A2%E5%B9%95-7000mah%E5%A4%A7%E9%9B%BB%E6%B1%A0",
     "timestamp": "2026-08-21T06:01:07.602Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "中年好聲音4｜三甲內定名單瘋傳　將率先返內地出騷TVB疑有份舉辦",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260821/1167331675105923072845136.jpeg/ULLFJBYoxKg8vpNghgwMXPMp95bW7BokyYOft8mDn7c?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60382163/%E4%B8%AD%E5%B9%B4%E5%A5%BD%E8%81%B2%E9%9F%B34-%E4%B8%89%E7%94%B2%E5%85%A7%E5%AE%9A%E5%90%8D%E5%96%AE%E7%98%8B%E5%82%B3-%E5%B0%87%E7%8E%87%E5%85%88%E8%BF%94%E5%85%A7%E5%9C%B0%E5%87%BA%E9%A8%B7tvb%E7%96%91%E6%9C%89%E4%BB%BD%E8%88%89%E8%BE%A6",
-    "timestamp": "2026-08-21T05:35:30.003Z",
     "strategy": ".content-card__main"
   }
 ];
