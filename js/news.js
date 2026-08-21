@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-21T10:49:10.009Z
+// Last updated: 2026-08-21T11:17:07.602Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "主婦向鄰居冷氣槽扔糞　官稱不能容忍卑劣滋擾　給最後機會判緩刑",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260715/1154139019055992832463852.jpeg/1Ouscr_F3M44bqJOq4Ovmvb0oTEdeaDpzpmlpeuZpaU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60382478/%E4%B8%BB%E5%A9%A6%E5%90%91%E9%84%B0%E5%B1%85%E5%86%B7%E6%B0%A3%E6%A7%BD%E6%89%94%E7%B3%9E-%E5%AE%98%E7%A8%B1%E4%B8%8D%E8%83%BD%E5%AE%B9%E5%BF%8D%E5%8D%91%E5%8A%A3%E6%BB%8B%E6%93%BE-%E7%B5%A6%E6%9C%80%E5%BE%8C%E6%A9%9F%E6%9C%83%E5%88%A4%E7%B7%A9%E5%88%91",
+    "timestamp": "2026-08-21T11:17:07.602Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "大金/樂聲/格力/三菱冷氣好用嗎?消委1.5匹分體機評測電費年差3成",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260820/1167146097836036096739182.jpeg/jrw5EnT6nHxFls004zMxkMxo0vhxh9pF1PTm-9T05vs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60382179/%E5%87%9D%E7%9A%93%E6%95%99%E8%82%B2%E5%A5%B3%E5%B0%8E%E5%B8%AB%E6%B6%89%E6%B3%84%E5%AD%B8%E7%94%9F%E7%A7%81%E9%9A%B1-%E5%87%9D%E7%9A%93%E7%A8%B1%E6%AD%A3%E8%AA%BF%E6%9F%A5-%E6%9C%83%E6%9A%AB%E5%81%9C%E7%9B%B8%E9%97%9C%E5%B0%8E%E5%B8%AB%E8%AA%B2%E5%A0%82",
     "timestamp": "2026-08-21T01:37:49.533Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "日本關西工商界訪華延期　中方忙於APEC難以接待",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260713/1153419756913561600684239.jpeg/rKDTRXqVMsIbTxQpckaaOc1sxT5HX1XrEdb1rxHW9a8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60382172/%E6%97%A5%E6%9C%AC%E9%97%9C%E8%A5%BF%E5%B7%A5%E5%95%86%E7%95%8C%E8%A8%AA%E8%8F%AF%E5%BB%B6%E6%9C%9F-%E4%B8%AD%E6%96%B9%E5%BF%99%E6%96%BCapec%E9%9B%A3%E4%BB%A5%E6%8E%A5%E5%BE%85",
-    "timestamp": "2026-08-21T00:54:11.355Z",
     "strategy": ".content-card__main"
   }
 ];
