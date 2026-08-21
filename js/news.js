@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-21T08:20:43.213Z
+// Last updated: 2026-08-21T08:51:45.226Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "解放軍：菲律賓3架小型飛機非法闖黃岩島領空　南部戰區依法警告",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20251116/1066847755114123264982360.jpeg/6ALGyJywBRGe_5LqVXEAu5hJ6jPMUqLsTfbguE324Lg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60382394/%E8%A7%A3%E6%94%BE%E8%BB%8D-%E8%8F%B2%E5%BE%8B%E8%B3%933%E6%9E%B6%E5%B0%8F%E5%9E%8B%E9%A3%9B%E6%A9%9F%E9%9D%9E%E6%B3%95%E9%97%96%E9%BB%83%E5%B2%A9%E5%B3%B6%E9%A0%98%E7%A9%BA-%E5%8D%97%E9%83%A8%E6%88%B0%E5%8D%80%E4%BE%9D%E6%B3%95%E8%AD%A6%E5%91%8A",
+    "timestamp": "2026-08-21T08:51:45.226Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "紅磡私家車失控撞欄　警檢依托咪酯K仔及可卡因　拘33歲男司機",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260820/1167154203223658496690583.png/En5UAoDMUjJeBDE4_hkituxNdICntrgLGLujZhi7o2Y?v=w1920r16_9",
     "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E8%A9%B1%E9%A1%8C/60381799/%E7%BE%8E%E5%9C%8B%E7%94%B7%E7%A0%B8%E7%A9%BF%E5%A2%BB%E5%A3%81%E9%97%96%E9%84%B0%E5%B1%85%E5%B1%8B-%E6%AF%86%E6%89%93%E4%B8%A6%E4%BC%81%E5%9C%96%E6%80%A7%E4%BE%B515%E6%AD%B2%E5%B0%91%E5%A5%B3-%E9%84%B0%E5%B1%85%E5%A0%B1%E8%AD%A6%E7%8D%B2%E6%95%91",
     "timestamp": "2026-08-20T23:16:07.218Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "中國與瑞士宣布完成自貿協定升級談判　共創經貿合作新機遇",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260821/1167358367228760064891543.jpeg/RRxsxzoZfMO-ijoArQ5skHmKfZvj-Q-fQ2yHDENshww?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60382170/%E4%B8%AD%E5%9C%8B%E8%88%87%E7%91%9E%E5%A3%AB%E5%AE%A3%E5%B8%83%E5%AE%8C%E6%88%90%E8%87%AA%E8%B2%BF%E5%8D%94%E5%AE%9A%E5%8D%87%E7%B4%9A%E8%AB%87%E5%88%A4-%E5%85%B1%E5%89%B5%E7%B6%93%E8%B2%BF%E5%90%88%E4%BD%9C%E6%96%B0%E6%A9%9F%E9%81%87",
-    "timestamp": "2026-08-20T23:01:35.948Z",
     "strategy": ".content-card__main"
   }
 ];
