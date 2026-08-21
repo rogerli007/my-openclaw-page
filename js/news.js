@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-21T06:20:47.355Z
+// Last updated: 2026-08-21T06:52:47.969Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "中國擬推出財政金融協同新政策　包括拓寬貸款貼息範圍｜中國經濟",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20240731/895237482868641792697148.jpeg/adffZ43LNwCSwlEjOqPoPdEnm1PZx9p0ugF1Q7oBdUM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60382339/%E4%B8%AD%E5%9C%8B%E6%93%AC%E6%8E%A8%E5%87%BA%E8%B2%A1%E6%94%BF%E9%87%91%E8%9E%8D%E5%8D%94%E5%90%8C%E6%96%B0%E6%94%BF%E7%AD%96-%E5%8C%85%E6%8B%AC%E6%8B%93%E5%AF%AC%E8%B2%B8%E6%AC%BE%E8%B2%BC%E6%81%AF%E7%AF%84%E5%9C%8D-%E4%B8%AD%E5%9C%8B%E7%B6%93%E6%BF%9F",
+    "timestamp": "2026-08-21T06:52:47.969Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "日本高市早苗政府首執行死刑　柏青哥店縱火致5死10傷案元兇伏法",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260821/1167333310704128000031286.jpeg/qkaqOCA8OsCnzT89S6CioiHQ2xx3oOCcB0kaXAdJGlw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60382164/%E6%AD%90%E6%B4%B2%E7%86%B1%E6%B5%AA-%E5%BE%B7%E5%9C%8B%E4%BB%8A%E5%B9%B4%E9%80%BE1-4%E8%90%AC%E4%BA%BA%E7%86%B1%E6%AD%BB-%E5%89%B5%E5%96%AE%E5%B9%B4%E6%9C%80%E9%AB%98%E7%B4%80%E9%8C%84",
     "timestamp": "2026-08-20T22:02:10.968Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "旺角街頭39歲女疑遭非禮　73歲外籍男被捕　另涉未能出示身份證明",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260821/1167319170254114816852439.jpeg/PvrlRsXyzhj958BgXVjkWBMkDHBo2uOaxpsWCvybFgo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60382161/%E6%97%BA%E8%A7%92%E8%A1%97%E9%A0%AD39%E6%AD%B2%E5%A5%B3%E7%96%91%E9%81%AD%E9%9D%9E%E7%A6%AE-73%E6%AD%B2%E5%A4%96%E7%B1%8D%E7%94%B7%E8%A2%AB%E6%8D%95-%E5%8F%A6%E6%B6%89%E6%9C%AA%E8%83%BD%E5%87%BA%E7%A4%BA%E8%BA%AB%E4%BB%BD%E8%AD%89%E6%98%8E",
-    "timestamp": "2026-08-20T21:49:05.309Z",
     "strategy": ".content-card__main"
   }
 ];
