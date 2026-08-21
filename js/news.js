@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-21T05:35:30.003Z
+// Last updated: 2026-08-21T06:01:07.602Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "HUAWEI Pura X View亮相｜首款肥嘟嘟闊螢幕 7000mAh大電池",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260821/1167440285169356800468795.jpeg/QoXNUk4qR8fQ6NH7hrBy2LAhpvkdLnCCNjFi-DYxYvg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60382225/huawei-pura-x-view%E4%BA%AE%E7%9B%B8-%E9%A6%96%E6%AC%BE-%E8%82%A5%E5%98%9F%E5%98%9F-%E9%97%8A%E8%9E%A2%E5%B9%95-7000mah%E5%A4%A7%E9%9B%BB%E6%B1%A0",
+    "timestamp": "2026-08-21T06:01:07.602Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "中年好聲音4｜三甲內定名單瘋傳　將率先返內地出騷TVB疑有份舉辦",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260821/1167319170254114816852439.jpeg/PvrlRsXyzhj958BgXVjkWBMkDHBo2uOaxpsWCvybFgo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60382161/%E6%97%BA%E8%A7%92%E8%A1%97%E9%A0%AD39%E6%AD%B2%E5%A5%B3%E7%96%91%E9%81%AD%E9%9D%9E%E7%A6%AE-73%E6%AD%B2%E5%A4%96%E7%B1%8D%E7%94%B7%E8%A2%AB%E6%8D%95-%E5%8F%A6%E6%B6%89%E6%9C%AA%E8%83%BD%E5%87%BA%E7%A4%BA%E8%BA%AB%E4%BB%BD%E8%AD%89%E6%98%8E",
     "timestamp": "2026-08-20T21:18:16.222Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "旺角街頭39歲女疑遭非禮　73歲外籍男被捕　另涉未能出示身份證明",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260821/1167319170254114816852439.jpeg/PvrlRsXyzhj958BgXVjkWBMkDHBo2uOaxpsWCvybFgo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60382161/%E6%97%BA%E8%A7%92%E8%A1%97%E9%A0%AD39%E6%AD%B2%E5%A5%B3%E7%96%91%E9%81%AD%E9%9D%9E%E7%A6%AE-73%E6%AD%B2%E5%A4%96%E7%B1%8D%E7%94%B7%E8%A2%AB%E6%8D%95-%E5%8F%A6%E6%B6%89%E6%9C%AA%E8%83%BD%E5%87%BA%E7%A4%BA%E8%BA%AB%E4%BB%BD%E8%AD%89%E6%98%8E",
-    "timestamp": "2026-08-20T21:03:47.014Z",
     "strategy": ".content-card__main"
   }
 ];
