@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-21T03:52:59.856Z
+// Last updated: 2026-08-21T04:21:47.412Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "打鼓嶺狗殺人｜議員倡引入禁養機制　改革法例明確狗主刑責",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260819/1166710153567801344378942.jpeg/iWdDn5A6yyvuxky1JOjnQh6jP9Lvdw8EXYYulV2GLpU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60382236/%E6%89%93%E9%BC%93%E5%B6%BA%E7%8B%97%E6%AE%BA%E4%BA%BA-%E8%AD%B0%E5%93%A1%E5%80%A1%E5%BC%95%E5%85%A5%E7%A6%81%E9%A4%8A%E6%A9%9F%E5%88%B6-%E6%94%B9%E9%9D%A9%E6%B3%95%E4%BE%8B%E6%98%8E%E7%A2%BA%E7%8B%97%E4%B8%BB%E5%88%91%E8%B2%AC",
+    "timestamp": "2026-08-21T04:21:47.412Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "打鼓嶺狗殺人｜33歲女負責人遭狗隻襲擊致死　親友哀痛認屍",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260821/1167319170254114816852439.jpeg/PvrlRsXyzhj958BgXVjkWBMkDHBo2uOaxpsWCvybFgo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60382161/%E6%97%BA%E8%A7%92%E8%A1%97%E9%A0%AD39%E6%AD%B2%E5%A5%B3%E7%96%91%E9%81%AD%E9%9D%9E%E7%A6%AE-73%E6%AD%B2%E5%A4%96%E7%B1%8D%E7%94%B7%E8%A2%AB%E6%8D%95-%E5%8F%A6%E6%B6%89%E6%9C%AA%E8%83%BD%E5%87%BA%E7%A4%BA%E8%BA%AB%E4%BB%BD%E8%AD%89%E6%98%8E",
     "timestamp": "2026-08-20T20:31:48.673Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "旺角街頭39歲女疑遭非禮　73歲外籍男被捕　另涉未能出示身份證明",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260821/1167319170254114816852439.jpeg/PvrlRsXyzhj958BgXVjkWBMkDHBo2uOaxpsWCvybFgo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60382161/%E6%97%BA%E8%A7%92%E8%A1%97%E9%A0%AD39%E6%AD%B2%E5%A5%B3%E7%96%91%E9%81%AD%E9%9D%9E%E7%A6%AE-73%E6%AD%B2%E5%A4%96%E7%B1%8D%E7%94%B7%E8%A2%AB%E6%8D%95-%E5%8F%A6%E6%B6%89%E6%9C%AA%E8%83%BD%E5%87%BA%E7%A4%BA%E8%BA%AB%E4%BB%BD%E8%AD%89%E6%98%8E",
-    "timestamp": "2026-08-20T20:21:00.455Z",
     "strategy": ".content-card__main"
   }
 ];
