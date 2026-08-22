@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-22T08:14:41.851Z
+// Last updated: 2026-08-22T08:30:58.109Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "深水埗汝州街南昌街交界塌棚架　一名男子被困　獲救清醒送院",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260822/1167870090809446400156309.jpeg/gQ82WE-YI3WZzYrXzXflJaz6xrDdOGEDuxmacZ4ZmnE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60382626/%E6%B7%B1%E6%B0%B4%E5%9F%97%E6%B1%9D%E5%B7%9E%E8%A1%97%E5%8D%97%E6%98%8C%E8%A1%97%E4%BA%A4%E7%95%8C%E5%A1%8C%E6%A3%9A%E6%9E%B6-%E4%B8%80%E5%90%8D%E7%94%B7%E5%AD%90%E8%A2%AB%E5%9B%B0-%E7%8D%B2%E6%95%91%E6%B8%85%E9%86%92%E9%80%81%E9%99%A2",
+    "timestamp": "2026-08-22T08:30:58.109Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "有片│孩子滯留地鐵車廂　廣州媽媽硬闖致月台幕門卡死無法開車",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260821/1167440362193555456241765.png/WBxBHklQxhqP7r27vS_Kj4Hd51y1usP3e1F6ZntRemY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60379705/%E8%96%85%E7%BE%8A%E6%AF%9B-%E8%AE%8A%E8%A9%90%E9%A8%99-%E5%85%A7%E5%9C%B0%E8%B6%85%E5%B8%82%E8%80%81%E9%97%86%E7%8B%82%E9%96%8B6000%E5%81%87%E5%B8%B3%E8%99%9F-%E9%A8%9910%E5%99%B8%E7%B3%A7%E6%B2%B9%E8%87%AA%E5%94%AE",
     "timestamp": "2026-08-22T00:24:10.469Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美國海軍擬以「特朗普」命名航母　取代二戰黑人英雄米勒",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260822/1167734427963363328837264.jpeg/HO9O4Q9grO40lMLhOKOsin18Q7m6DMrnqI0RaKiNEWg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60382542/%E7%BE%8E%E5%9C%8B%E6%B5%B7%E8%BB%8D%E6%93%AC%E4%BB%A5-%E7%89%B9%E6%9C%97%E6%99%AE-%E5%91%BD%E5%90%8D%E8%88%AA%E6%AF%8D-%E5%8F%96%E4%BB%A3%E4%BA%8C%E6%88%B0%E9%BB%91%E4%BA%BA%E8%8B%B1%E9%9B%84%E7%B1%B3%E5%8B%92",
-    "timestamp": "2026-08-21T23:57:08.645Z",
     "strategy": ".content-card__main"
   }
 ];
