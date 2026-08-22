@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-22T10:44:56.891Z
+// Last updated: 2026-08-22T10:57:40.150Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "你好，打劫｜劉德華撐場打氣　何啟華稱壓力大︰兩小時直落演出",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260822/1167889883105071104195247.jpeg/o02tg7d67Jo4hG9zwIzZahJXcSbVSraI-f3jpfn946U?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60382648/%E4%BD%A0%E5%A5%BD-%E6%89%93%E5%8A%AB-%E5%8A%89%E5%BE%B7%E8%8F%AF%E6%92%90%E5%A0%B4%E6%89%93%E6%B0%A3-%E4%BD%95%E5%95%9F%E8%8F%AF%E7%A8%B1%E5%A3%93%E5%8A%9B%E5%A4%A7-%E5%85%A9%E5%B0%8F%E6%99%82%E7%9B%B4%E8%90%BD%E6%BC%94%E5%87%BA",
+    "timestamp": "2026-08-22T10:57:40.150Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "麥當娜Katy Perry等明星效應吸美客　《奧德賽》熱潮帶動希臘旅遊",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20211226/551821712195457024430279.jpeg/TfBhDSrVKEEBYCAfEL-e-OF0M8O74xnd3HkLI9x5CyM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60382585/%E6%94%AF%E8%81%AF%E6%9C%83%E6%A1%88-%E6%94%BF%E5%BA%9C%E5%BC%B7%E7%83%88%E8%AD%B4%E8%B2%AC%E5%A4%96%E9%83%A8%E5%8B%A2%E5%8A%9B%E8%AA%A4%E5%B0%8E%E6%8A%B9%E9%BB%91-%E8%A2%AB%E5%91%8A%E9%9D%9E%E5%9B%A0%E6%94%BF%E6%B2%BB%E8%A7%80%E9%BB%9E%E5%8F%97%E5%AF%A9",
     "timestamp": "2026-08-22T04:36:44.164Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普考慮放寬牛肉進口美國關稅　惹共和黨人及牧場主不滿",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260818/1166254993578135552674138.jpeg/pN1cyxYwKOiHGe5XfatXr2PSMktiV5YC8ng_f_J4P38?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60382582/%E7%89%B9%E6%9C%97%E6%99%AE%E8%80%83%E6%85%AE%E6%94%BE%E5%AF%AC%E7%89%9B%E8%82%89%E9%80%B2%E5%8F%A3%E7%BE%8E%E5%9C%8B%E9%97%9C%E7%A8%85-%E6%83%B9%E5%85%B1%E5%92%8C%E9%BB%A8%E4%BA%BA%E5%8F%8A%E7%89%A7%E5%A0%B4%E4%B8%BB%E4%B8%8D%E6%BB%BF",
-    "timestamp": "2026-08-22T03:55:07.889Z",
     "strategy": ".content-card__main"
   }
 ];
