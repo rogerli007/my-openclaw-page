@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-22T11:43:16.203Z
+// Last updated: 2026-08-22T11:57:36.022Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "LOFT香港旺角MOKO開業首日人流不絕　有顧客專程來買「透明豉油」",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260822/1167872533274300416640239.jpeg/kz0m_23E68uTQGoFHioQ0juj1pSobnbEtYuY6pCLmOo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60382639/loft%E9%A6%99%E6%B8%AF%E6%97%BA%E8%A7%92moko%E9%96%8B%E6%A5%AD%E9%A6%96%E6%97%A5%E4%BA%BA%E6%B5%81%E4%B8%8D%E7%B5%95-%E6%9C%89%E9%A1%A7%E5%AE%A2%E5%B0%88%E7%A8%8B%E4%BE%86%E8%B2%B7-%E9%80%8F%E6%98%8E%E8%B1%89%E6%B2%B9",
+    "timestamp": "2026-08-22T11:57:36.022Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "日出康城海瑅灣系列連沽10伙　套現逾7550萬",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260818/1166413827890221056704856.jpeg/OvTqhF6aWVGNiwzuVrFIPamRU3viU_igd0_0MHdP9DA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60381168/%E7%91%9E%E5%B9%B8%E4%B8%83%E5%A4%95%E8%81%AF%E5%90%8D-%E7%B4%A0%E4%BA%BA%E6%83%85%E4%BE%B6-%E5%8B%95%E7%95%AB%E8%A2%AB%E6%8A%B5%E5%88%B6-%E7%B6%B2%E6%B0%91-%E6%8A%84%E8%A5%B2%E5%A4%9A%E9%83%A8%E7%B6%93%E5%85%B8%E6%97%A5%E6%BC%AB",
     "timestamp": "2026-08-22T05:47:19.981Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "一周230宗網購騙案失$800萬　有騙徒一人分演多角呃$3萬",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260822/1167820298939011072718345.jpeg/O-WHMr5AtP65hvO6wx75KfOljqdo3ZI2wBb_l8AW_5c?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60382596/%E4%B8%80%E5%91%A8230%E5%AE%97%E7%B6%B2%E8%B3%BC%E9%A8%99%E6%A1%88%E5%A4%B1-800%E8%90%AC-%E6%9C%89%E9%A8%99%E5%BE%92%E4%B8%80%E4%BA%BA%E5%88%86%E6%BC%94%E5%A4%9A%E8%A7%92%E5%91%83-3%E8%90%AC",
-    "timestamp": "2026-08-22T05:31:40.620Z",
     "strategy": ".content-card__main"
   }
 ];
