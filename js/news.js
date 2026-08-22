@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-22T14:29:37.761Z
+// Last updated: 2026-08-22T14:44:26.934Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "林盛斌18歲大女Faye沖繩畢業遊　首晒比堅尼惹火身材",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260821/1167555083706044416186357.png/_sccW6srcFCFHwSTgUGKgYGdMURGNq6tJa28ZCWtvGQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60382484/%E6%9E%97%E7%9B%9B%E6%96%8C18%E6%AD%B2%E5%A4%A7%E5%A5%B3faye%E6%B2%96%E7%B9%A9%E7%95%A2%E6%A5%AD%E9%81%8A-%E9%A6%96%E6%99%92%E6%AF%94%E5%A0%85%E5%B0%BC%E6%83%B9%E7%81%AB%E8%BA%AB%E6%9D%90",
+    "timestamp": "2026-08-22T14:44:26.934Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "深水埗塌棚．車CAM｜年輕途人掩頭衝出馬路　年長男跌倒淡定起身",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260822/1167876286752755712807962.jpeg/MHsHexRvmvg79QAtvrsim_zsJXCXISf3F1kXLhdZFy4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60382635/tima%E5%9C%8B%E9%9A%9B%E9%9F%B3%E6%A8%82%E5%A4%A7%E8%B3%9E-%E7%A6%81%E5%B8%B6%E7%99%BC%E5%85%89%E8%A3%9D%E7%BD%AE-%E8%9E%A2%E5%85%89%E6%A3%92-%E9%95%B7%E5%82%98-%E4%B8%80%E6%96%87%E7%9C%8B%E4%BA%A4%E9%80%9A%E5%AE%89%E6%8E%92",
     "timestamp": "2026-08-22T09:03:51.746Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "新皇崗口岸．有片｜一站式車檢全拆解　司機過關流程、抽查安排",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260822/1167851949148606464472891.jpeg/IXwAOTWIpIVAGOCfHqaseU0JixRx_wwLfL-6HFm_uhw",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60382619/%E6%96%B0%E7%9A%87%E5%B4%97%E5%8F%A3%E5%B2%B8-%E6%9C%89%E7%89%87-%E4%B8%80%E7%AB%99%E5%BC%8F%E8%BB%8A%E6%AA%A2%E5%85%A8%E6%8B%86%E8%A7%A3-%E5%8F%B8%E6%A9%9F%E9%81%8E%E9%97%9C%E6%B5%81%E7%A8%8B-%E6%8A%BD%E6%9F%A5%E5%AE%89%E6%8E%92",
-    "timestamp": "2026-08-22T08:49:20.936Z",
     "strategy": ".content-card__main"
   }
 ];
