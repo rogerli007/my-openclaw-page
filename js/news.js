@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-22T03:34:18.076Z
+// Last updated: 2026-08-22T03:55:07.889Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "特朗普考慮放寬牛肉進口美國關稅　惹共和黨人及牧場主不滿",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260818/1166254993578135552674138.jpeg/pN1cyxYwKOiHGe5XfatXr2PSMktiV5YC8ng_f_J4P38?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60382582/%E7%89%B9%E6%9C%97%E6%99%AE%E8%80%83%E6%85%AE%E6%94%BE%E5%AF%AC%E7%89%9B%E8%82%89%E9%80%B2%E5%8F%A3%E7%BE%8E%E5%9C%8B%E9%97%9C%E7%A8%85-%E6%83%B9%E5%85%B1%E5%92%8C%E9%BB%A8%E4%BA%BA%E5%8F%8A%E7%89%A7%E5%A0%B4%E4%B8%BB%E4%B8%8D%E6%BB%BF",
+    "timestamp": "2026-08-22T03:55:07.889Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "加媒：萬斯私下嘲諷卡尼　宣稱比特朗普強硬　實際談判頻頻讓步",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260822/1167686657839730688506341.png/zTyHScYIj367IyaWKxCiaa-NRwHnw6XC4HeBB-B3gQc",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60382535/%E8%91%B5%E6%B6%8C%E5%B0%8F%E7%AB%A5%E5%9D%90%E5%A5%B3%E5%8F%B8%E6%A9%9F%E5%A4%A7%E8%85%BF-%E9%BD%8A%E9%A7%95%E8%BB%8A-%E6%B6%89%E5%8D%B1%E9%A7%95-%E7%9B%AE%E6%93%8A%E8%80%85-%E5%8F%AF%E5%A0%B1%E8%AD%A6-%E6%9C%89%E7%89%87",
     "timestamp": "2026-08-21T20:45:13.251Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "葵涌小童坐女司機大腿　「齊駕車」涉危駕　目擊者：可報警｜有片",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260822/1167673836200529920203468.jpeg/x7EjDvnV_OJAhjNGaJAzAsn0HglIPGfAWjXiqVo14qk",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60382535/%E8%91%B5%E6%B6%8C%E5%B0%8F%E7%AB%A5%E5%9D%90%E5%A5%B3%E5%8F%B8%E6%A9%9F%E5%A4%A7%E8%85%BF-%E9%BD%8A%E9%A7%95%E8%BB%8A-%E6%B6%89%E5%8D%B1%E9%A7%95-%E7%9B%AE%E6%93%8A%E8%80%85-%E5%8F%AF%E5%A0%B1%E8%AD%A6-%E6%9C%89%E7%89%87",
-    "timestamp": "2026-08-21T20:12:40.574Z",
     "strategy": ".content-card__main"
   }
 ];
