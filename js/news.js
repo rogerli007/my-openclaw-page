@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-21T23:57:08.645Z
+// Last updated: 2026-08-22T00:24:10.469Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "「薅羊毛」變詐騙？內地超市老闆狂開6000假帳號　騙10噸糧油自售",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260821/1167440362193555456241765.png/WBxBHklQxhqP7r27vS_Kj4Hd51y1usP3e1F6ZntRemY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60379705/%E8%96%85%E7%BE%8A%E6%AF%9B-%E8%AE%8A%E8%A9%90%E9%A8%99-%E5%85%A7%E5%9C%B0%E8%B6%85%E5%B8%82%E8%80%81%E9%97%86%E7%8B%82%E9%96%8B6000%E5%81%87%E5%B8%B3%E8%99%9F-%E9%A8%9910%E5%99%B8%E7%B3%A7%E6%B2%B9%E8%87%AA%E5%94%AE",
+    "timestamp": "2026-08-22T00:24:10.469Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美國海軍擬以「特朗普」命名航母　取代二戰黑人英雄米勒",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260813/1164378612577603584328695.jpeg/7I4niAWhwQD3nphpbHQDKaM04XQderOQgD9A_oA_QP4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60382529/%E5%9C%9F%E8%80%B3%E5%85%B6%E7%94%B3%E7%B4%85%E9%80%9A%E4%BB%A4%E7%B7%9D%E6%8B%BF%E5%85%A7%E5%A1%94%E5%B0%BC%E4%BA%9E%E8%83%A1-%E4%BB%A5%E8%89%B2%E5%88%97-%E5%BE%92%E5%8B%9E%E7%84%A1%E5%8A%9F",
     "timestamp": "2026-08-21T17:31:28.445Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "北溪天然氣管道爆炸案大突破　烏克蘭潛水員克羅地亞落網",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260822/1167636108335386624938267.png/SJUDRQ5iBV4PBc-aaqyDvsLvyqWLDq-1fX94RX1_eEU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60382528/%E5%8C%97%E6%BA%AA%E5%A4%A9%E7%84%B6%E6%B0%A3%E7%AE%A1%E9%81%93%E7%88%86%E7%82%B8%E6%A1%88%E5%A4%A7%E7%AA%81%E7%A0%B4-%E7%83%8F%E5%85%8B%E8%98%AD%E6%BD%9B%E6%B0%B4%E5%93%A1%E5%85%8B%E7%BE%85%E5%9C%B0%E4%BA%9E%E8%90%BD%E7%B6%B2",
-    "timestamp": "2026-08-21T17:15:26.005Z",
     "strategy": ".content-card__main"
   }
 ];
