@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-22T11:11:37.263Z
+// Last updated: 2026-08-22T11:29:10.527Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "孔劉粉絲見面會2026澳門｜門票攻略＋購票連結＋座位表",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260822/1167879918579617792149735.jpeg/UflK1kOavWklqbEh5yh0-20pRJZZoRtcw_DsC8Pw7As?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60382641/%E5%AD%94%E5%8A%89%E7%B2%89%E7%B5%B2%E8%A6%8B%E9%9D%A2%E6%9C%832026%E6%BE%B3%E9%96%80-%E9%96%80%E7%A5%A8%E6%94%BB%E7%95%A5-%E8%B3%BC%E7%A5%A8%E9%80%A3%E7%B5%90-%E5%BA%A7%E4%BD%8D%E8%A1%A8",
+    "timestamp": "2026-08-22T11:29:10.527Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "九巴阿叔坐辦公椅泊輪椅區！扣好安全帶防碌走　網民嘲：真係輪椅",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260531/1137867280458321920038641.jpeg/3d4v8ovKRBnrVbuCM7fSJLDOh1LAd8yGPCldUyYpXVM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60382590/%E6%B0%91%E6%94%BF%E7%B8%BD%E7%BD%B2-%E6%A5%AD%E4%B8%BB%E5%A4%A7%E6%9C%83%E6%8E%88%E6%AC%8A%E7%A5%A8%E9%99%90%E5%88%B6%E6%9C%AA%E5%AE%9A-%E6%9C%83%E8%80%83%E6%85%AE%E6%98%AF%E5%90%A6%E9%81%8E%E6%96%BC%E5%9A%B4%E6%A0%BC",
     "timestamp": "2026-08-22T05:16:02.379Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "半山西摩道送貨男　貨車尾板上墮地　受傷送院",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260822/1167812896911003648941867.jpeg/5PK1cF3t1sp8Kvpu3RQ8LFPP9HMAChSilrpT6Za6U-k?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60382588/%E5%8D%8A%E5%B1%B1%E8%A5%BF%E6%91%A9%E9%81%93%E9%80%81%E8%B2%A8%E7%94%B7-%E8%B2%A8%E8%BB%8A%E5%B0%BE%E6%9D%BF%E4%B8%8A%E5%A2%AE%E5%9C%B0-%E5%8F%97%E5%82%B7%E9%80%81%E9%99%A2",
-    "timestamp": "2026-08-22T05:01:48.444Z",
     "strategy": ".content-card__main"
   }
 ];
