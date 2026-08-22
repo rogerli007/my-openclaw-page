@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-22T05:47:19.981Z
+// Last updated: 2026-08-22T06:01:47.167Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "上半年私宅落成7654伙　四年次高　私宅動工量2667伙創16年新低",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250311/976160959913529344620378.jpeg/u8cyUEUiICs7eThzxNzfA6muvzsDyMtoNb9j6jW_Y-o?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60382599/%E4%B8%8A%E5%8D%8A%E5%B9%B4%E7%A7%81%E5%AE%85%E8%90%BD%E6%88%907654%E4%BC%99-%E5%9B%9B%E5%B9%B4%E6%AC%A1%E9%AB%98-%E7%A7%81%E5%AE%85%E5%8B%95%E5%B7%A5%E9%87%8F2667%E4%BC%99%E5%89%B516%E5%B9%B4%E6%96%B0%E4%BD%8E",
+    "timestamp": "2026-08-22T06:01:47.167Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "瑞幸七夕聯名「素人情侶」動畫被抵制　網民：抄襲多部經典日漫",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260822/1167713696789565440786192.jpeg/bk2lkSormBXJCEKjJfG8dSRLSO72KX82lUsFO5VLBTs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60382537/%E5%A4%A9%E6%B0%A3-%E4%BB%8A%E6%97%A5%E6%9C%89%E5%B9%BE%E9%99%A3%E9%A9%9F%E9%9B%A8-%E5%B1%80%E9%83%A8%E5%9C%B0%E5%8D%80%E6%9C%89%E7%8B%82%E9%A2%A8%E9%9B%B7%E6%9A%B4-%E6%9C%80%E9%AB%98%E6%B0%A3%E6%BA%AB32%E5%BA%A6",
     "timestamp": "2026-08-21T22:12:04.530Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "打風｜天文台料下周四逼近400公里　升級熱帶風暴為何未命名？",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260822/1167675923634327552531804.jpeg/iYTt-b8bPh8i6tP2CFCOj_F2gruuWxGr0ZoYgNGaGIA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60382533/%E6%89%93%E9%A2%A8-%E5%A4%A9%E6%96%87%E5%8F%B0%E6%96%99%E4%B8%8B%E5%91%A8%E5%9B%9B%E9%80%BC%E8%BF%91400%E5%85%AC%E9%87%8C-%E5%8D%87%E7%B4%9A%E7%86%B1%E5%B8%B6%E9%A2%A8%E6%9A%B4%E7%82%BA%E4%BD%95%E6%9C%AA%E5%91%BD%E5%90%8D",
-    "timestamp": "2026-08-21T21:57:37.288Z",
     "strategy": ".content-card__main"
   }
 ];
