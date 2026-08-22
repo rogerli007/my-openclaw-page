@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-22T00:24:10.469Z
+// Last updated: 2026-08-22T00:54:09.935Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "瑞典高中持劍襲擊案　一死三傷　警方拘捕18歲男子",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260822/1167753529964630016196042.jpeg/Gjb0Kj8keuTKiT6GYCYuQt8Ga3qjYg9UFUgnshVIJ7I?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60382545/%E7%91%9E%E5%85%B8%E9%AB%98%E4%B8%AD%E6%8C%81%E5%8A%8D%E8%A5%B2%E6%93%8A%E6%A1%88-%E4%B8%80%E6%AD%BB%E4%B8%89%E5%82%B7-%E8%AD%A6%E6%96%B9%E6%8B%98%E6%8D%9518%E6%AD%B2%E7%94%B7%E5%AD%90",
+    "timestamp": "2026-08-22T00:54:09.935Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "「薅羊毛」變詐騙？內地超市老闆狂開6000假帳號　騙10噸糧油自售",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260822/1167646095442972672951247.png/At7hb6JuibbksSqzJZC859lZ1qex2VH2ScEgp0nBIKc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60382531/%E5%B1%B1%E6%9D%B1%E8%87%A8%E6%B2%82%E4%B8%80%E5%B9%B3%E6%88%BF%E9%99%A2%E8%90%BD%E7%88%86%E7%82%B8-%E8%87%B41%E6%AD%BB2%E5%A4%B1%E8%81%AF-%E6%9C%89%E7%89%87",
     "timestamp": "2026-08-21T17:47:38.460Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "土耳其申紅通令緝拿內塔尼亞胡　以色列：徒勞無功",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260813/1164378612577603584328695.jpeg/7I4niAWhwQD3nphpbHQDKaM04XQderOQgD9A_oA_QP4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60382529/%E5%9C%9F%E8%80%B3%E5%85%B6%E7%94%B3%E7%B4%85%E9%80%9A%E4%BB%A4%E7%B7%9D%E6%8B%BF%E5%85%A7%E5%A1%94%E5%B0%BC%E4%BA%9E%E8%83%A1-%E4%BB%A5%E8%89%B2%E5%88%97-%E5%BE%92%E5%8B%9E%E7%84%A1%E5%8A%9F",
-    "timestamp": "2026-08-21T17:31:28.445Z",
     "strategy": ".content-card__main"
   }
 ];
