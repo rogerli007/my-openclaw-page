@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-22T02:16:17.007Z
+// Last updated: 2026-08-22T02:43:17.332Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "河北涿州代孕案六人被捕　舉報者稱主腦已逃往新加坡：疑有人洩密",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260822/1167777257041694720640821.png/xT6jVR-FSbAMWXSU8oDkBr_UBLvGX5uNopQTt6KUE7c?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60382570/%E6%B2%B3%E5%8C%97%E6%B6%BF%E5%B7%9E%E4%BB%A3%E5%AD%95%E6%A1%88%E5%85%AD%E4%BA%BA%E8%A2%AB%E6%8D%95-%E8%88%89%E5%A0%B1%E8%80%85%E7%A8%B1%E4%B8%BB%E8%85%A6%E5%B7%B2%E9%80%83%E5%BE%80%E6%96%B0%E5%8A%A0%E5%9D%A1-%E7%96%91%E6%9C%89%E4%BA%BA%E6%B4%A9%E5%AF%86",
+    "timestamp": "2026-08-22T02:43:17.332Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "蔚觀全局｜使命感非無限犧牲理由：制度如何守住社工？",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260822/1167673836200529920203468.jpeg/x7EjDvnV_OJAhjNGaJAzAsn0HglIPGfAWjXiqVo14qk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60382535/%E8%91%B5%E6%B6%8C%E5%B0%8F%E7%AB%A5%E5%9D%90%E5%A5%B3%E5%8F%B8%E6%A9%9F%E5%A4%A7%E8%85%BF-%E9%BD%8A%E9%A7%95%E8%BB%8A-%E6%B6%89%E5%8D%B1%E9%A7%95-%E7%9B%AE%E6%93%8A%E8%80%85-%E5%8F%AF%E5%A0%B1%E8%AD%A6-%E6%9C%89%E7%89%87",
     "timestamp": "2026-08-21T19:45:55.150Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "山東臨沂一平房院落爆炸　致1死2失聯｜有片",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260822/1167646095442972672951247.png/At7hb6JuibbksSqzJZC859lZ1qex2VH2ScEgp0nBIKc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60382531/%E5%B1%B1%E6%9D%B1%E8%87%A8%E6%B2%82%E4%B8%80%E5%B9%B3%E6%88%BF%E9%99%A2%E8%90%BD%E7%88%86%E7%82%B8-%E8%87%B41%E6%AD%BB2%E5%A4%B1%E8%81%AF-%E6%9C%89%E7%89%87",
-    "timestamp": "2026-08-21T18:35:25.036Z",
     "strategy": ".content-card__main"
   }
 ];
