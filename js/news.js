@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-22T22:29:28.771Z
+// Last updated: 2026-08-22T22:44:16.029Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "天氣｜今日有幾陣驟雨　初時局部地區有雷暴　最高氣溫32度",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260823/1168081415300976640210758.jpeg/pjk97PU0bvJKKSUJend9WEtY7pS65dbWPVMtrwdTLa8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60382718/%E5%A4%A9%E6%B0%A3-%E4%BB%8A%E6%97%A5%E6%9C%89%E5%B9%BE%E9%99%A3%E9%A9%9F%E9%9B%A8-%E5%88%9D%E6%99%82%E5%B1%80%E9%83%A8%E5%9C%B0%E5%8D%80%E6%9C%89%E9%9B%B7%E6%9A%B4-%E6%9C%80%E9%AB%98%E6%B0%A3%E6%BA%AB32%E5%BA%A6",
+    "timestamp": "2026-08-22T22:44:16.029Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "天氣｜今日有幾陣驟雨　初時局部地區有雷暴　最高氣溫32度",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260822/1167939879108087808503647.jpeg/m80JRU_Fd92v3xTX86oe-JeAaxWBluhSd5b9xk2W_cY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60382681/%E4%B8%AD%E5%B9%B4%E5%A5%BD%E8%81%B2%E9%9F%B34-%E5%90%B3%E4%BA%A6%E5%81%89%E8%A6%AA%E5%9B%9E%E6%87%89%E8%A2%AB%E4%BC%8D%E4%BB%B2%E8%A1%A1%E5%AF%B8%E7%88%86%E5%94%B1%E6%AD%8C%E4%BC%BC%E6%B3%B0%E6%96%87%E5%85%BC%E6%9C%89%E9%9D%A0%E5%B1%B1%E5%82%B3%E8%81%9E",
     "timestamp": "2026-08-22T15:29:37.016Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "日本男公關陷阱！24歲女為供養男公關湊$2.9萬　轉戰街頭賣淫被捕",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260821/1167456593583804416084529.png/C5FrwauOHN4UiVZa9oarIY-nTQ-3XIimlGXB5pRlweY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E8%A9%B1%E9%A1%8C/60379517/%E6%97%A5%E6%9C%AC%E7%94%B7%E5%85%AC%E9%97%9C%E9%99%B7%E9%98%B1-24%E6%AD%B2%E5%A5%B3%E7%82%BA%E4%BE%9B%E9%A4%8A%E7%94%B7%E5%85%AC%E9%97%9C%E6%B9%8A-2-9%E8%90%AC-%E8%BD%89%E6%88%B0%E8%A1%97%E9%A0%AD%E8%B3%A3%E6%B7%AB%E8%A2%AB%E6%8D%95",
-    "timestamp": "2026-08-22T15:10:39.012Z",
     "strategy": ".content-card__main"
   }
 ];
