@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-22T19:45:12.089Z
+// Last updated: 2026-08-22T19:56:36.662Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "車Cam｜北大嶼山公路大塞車　車隊的士撞開2車疑開路　2人受傷",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260822/1167768879414382592831076.jpeg/zYF8D3ih_gDploAb6P0xMfGyg8x3EJrXdUHeE3VB3hM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60382712/%E8%BB%8Acam-%E5%8C%97%E5%A4%A7%E5%B6%BC%E5%B1%B1%E5%85%AC%E8%B7%AF%E5%A4%A7%E5%A1%9E%E8%BB%8A-%E8%BB%8A%E9%9A%8A%E7%9A%84%E5%A3%AB%E6%92%9E%E9%96%8B2%E8%BB%8A%E7%96%91%E9%96%8B%E8%B7%AF-2%E4%BA%BA%E5%8F%97%E5%82%B7",
+    "timestamp": "2026-08-22T19:56:36.662Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "車Cam｜北大嶼山公路大塞車　車隊的士撞開2車疑開路　2人受傷",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250623/1013859175341494272460952.jpeg/sE4CRXHPZRLnKhviXg8msMzdQb7wRJkQ9mrvzPZq78w?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60382674/%E4%BC%8A%E6%9C%97-%E5%9C%8B%E9%98%B2%E7%94%A2%E8%83%BD%E5%B7%B2%E7%BF%BB%E5%80%8D-%E8%83%BD-%E9%82%8A%E6%89%93%E9%82%8A%E9%80%A0",
     "timestamp": "2026-08-22T12:31:10.716Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "舊商場舖變毒品倉　村屋作製毒工場　警拘年輕男女檢$1,600萬貨",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260822/1167921893915758592514276.jpeg/MP2jvZctQPD89DEjB9qaxUWdYLW0LeYo9syyuMzMsrg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60382668/%E8%88%8A%E5%95%86%E5%A0%B4%E8%88%96%E8%AE%8A%E6%AF%92%E5%93%81%E5%80%89-%E6%9D%91%E5%B1%8B%E4%BD%9C%E8%A3%BD%E6%AF%92%E5%B7%A5%E5%A0%B4-%E8%AD%A6%E6%8B%98%E5%B9%B4%E8%BC%95%E7%94%B7%E5%A5%B3%E6%AA%A2-1-600%E8%90%AC%E8%B2%A8",
-    "timestamp": "2026-08-22T12:13:13.675Z",
     "strategy": ".content-card__main"
   }
 ];
