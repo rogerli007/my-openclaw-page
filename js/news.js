@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-22T09:34:21.368Z
+// Last updated: 2026-08-22T09:48:50.268Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "二戰結束81周年　高市早苗致詞未提反省　石破茂：真的可不提嗎",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20251010/1053396443710099456729014.jpeg/nF5mEjVA74jWDcJoQk2RBWHiWR43vLXIW0KDyltCg8o?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60382647/%E4%BA%8C%E6%88%B0%E7%B5%90%E6%9D%9F81%E5%91%A8%E5%B9%B4-%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E8%87%B4%E8%A9%9E%E6%9C%AA%E6%8F%90%E5%8F%8D%E7%9C%81-%E7%9F%B3%E7%A0%B4%E8%8C%82-%E7%9C%9F%E7%9A%84%E5%8F%AF%E4%B8%8D%E6%8F%90%E5%97%8E",
+    "timestamp": "2026-08-22T09:48:50.268Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "中年好聲音4｜尹景順被網民質疑是「內定三甲」 回應宣傳海報爭議",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260721/1156277358874071040071689.jpeg/CeVrISzQz146yt2Zt0EHVThpGovW1cDQKKtR-yirUfs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60382565/%E9%98%BF%E6%A0%B9%E5%BB%B7%E4%B8%96%E7%95%8C%E7%9B%83%E6%B1%BA%E8%B3%BD%E8%BC%B8%E6%B3%A2%E8%81%B7%E7%90%83%E5%93%A1%E5%8B%95%E7%B2%97-fifa%E9%87%8D%E5%88%A4%E6%9F%8F%E5%88%A9%E8%BF%AA%E6%96%AF%E5%81%9C%E8%B3%BD10%E5%A0%B4",
     "timestamp": "2026-08-22T03:09:30.861Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "河北涿州代孕案六人被捕　舉報者稱主腦已逃往新加坡：疑有人洩密",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260822/1167777257041694720640821.png/xT6jVR-FSbAMWXSU8oDkBr_UBLvGX5uNopQTt6KUE7c?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60382570/%E6%B2%B3%E5%8C%97%E6%B6%BF%E5%B7%9E%E4%BB%A3%E5%AD%95%E6%A1%88%E5%85%AD%E4%BA%BA%E8%A2%AB%E6%8D%95-%E8%88%89%E5%A0%B1%E8%80%85%E7%A8%B1%E4%B8%BB%E8%85%A6%E5%B7%B2%E9%80%83%E5%BE%80%E6%96%B0%E5%8A%A0%E5%9D%A1-%E7%96%91%E6%9C%89%E4%BA%BA%E6%B4%A9%E5%AF%86",
-    "timestamp": "2026-08-22T02:43:17.332Z",
     "strategy": ".content-card__main"
   }
 ];
