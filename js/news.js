@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-22T22:59:14.827Z
+// Last updated: 2026-08-22T23:29:22.939Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "狂徒夜襲泰國南部三府　縱火爆炸槍擊遍野　至少兩人受傷",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260823/1168092270956646400901543.png/C0rjGm-_yi_qfW5JnbYWZ9-MLS88bgvQJguTjyYLk48?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60382722/%E7%8B%82%E5%BE%92%E5%A4%9C%E8%A5%B2%E6%B3%B0%E5%9C%8B%E5%8D%97%E9%83%A8%E4%B8%89%E5%BA%9C-%E7%B8%B1%E7%81%AB%E7%88%86%E7%82%B8%E6%A7%8D%E6%93%8A%E9%81%8D%E9%87%8E-%E8%87%B3%E5%B0%91%E5%85%A9%E4%BA%BA%E5%8F%97%E5%82%B7",
+    "timestamp": "2026-08-22T23:29:22.939Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "天氣｜今日有幾陣驟雨　初時局部地區有雷暴　最高氣溫32度",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260823/1167989732009840640734098.jpeg/DiGnFwydE9vUd26sOKJPhmCZyHH9dYv6q2tOEp5rThI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60382704/%E5%8F%A4%E5%A4%A9%E6%A8%82%E6%BC%94%E5%94%B1%E6%9C%83-%E5%8A%89%E5%BE%B7%E8%8F%AF%E5%90%88%E5%94%B1-%E7%8D%A8%E8%87%AA%E5%8E%BB%E5%81%B7%E6%AD%A1-%E7%BE%A9%E6%B0%A3%E8%A8%B1%E8%AB%BE-%E4%BD%A0%E5%97%8C%E6%88%91%E5%B0%B1%E5%87%BA%E7%8F%BE",
     "timestamp": "2026-08-22T16:29:50.159Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "啦啦隊女神金佳垠專訪：赴台後人氣急升　在韓時曾辛苦到哭想放棄",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260818/1166402083952267264257689.jpeg/m1aBpTCLCSGxGiq9CTrsMfqvIthh-VgSOgWZQToFmUE",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60301504/%E5%95%A6%E5%95%A6%E9%9A%8A%E5%A5%B3%E7%A5%9E%E9%87%91%E4%BD%B3%E5%9E%A0%E5%B0%88%E8%A8%AA-%E8%B5%B4%E5%8F%B0%E5%BE%8C%E4%BA%BA%E6%B0%A3%E6%80%A5%E5%8D%87-%E5%9C%A8%E9%9F%93%E6%99%82%E6%9B%BE%E8%BE%9B%E8%8B%A6%E5%88%B0%E5%93%AD%E6%83%B3%E6%94%BE%E6%A3%84",
-    "timestamp": "2026-08-22T15:43:02.133Z",
     "strategy": ".content-card__main"
   }
 ];
