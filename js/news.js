@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-22T14:57:36.339Z
+// Last updated: 2026-08-22T15:10:39.012Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "日本男公關陷阱！24歲女為供養男公關湊$2.9萬　轉戰街頭賣淫被捕",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260821/1167456593583804416084529.png/C5FrwauOHN4UiVZa9oarIY-nTQ-3XIimlGXB5pRlweY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E8%A9%B1%E9%A1%8C/60379517/%E6%97%A5%E6%9C%AC%E7%94%B7%E5%85%AC%E9%97%9C%E9%99%B7%E9%98%B1-24%E6%AD%B2%E5%A5%B3%E7%82%BA%E4%BE%9B%E9%A4%8A%E7%94%B7%E5%85%AC%E9%97%9C%E6%B9%8A-2-9%E8%90%AC-%E8%BD%89%E6%88%B0%E8%A1%97%E9%A0%AD%E8%B3%A3%E6%B7%AB%E8%A2%AB%E6%8D%95",
+    "timestamp": "2026-08-22T15:10:39.012Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "機械人運動會‧有片│9.39秒快過保特　中國機械人打破人類百米紀錄",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260822/1167877089848725504083261.jpeg/vs_m-1oNoQDn0qzIQtImKFjcIJLeWXDK5t3FmNzdxZg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60382637/%E4%B8%AD%E5%B9%B4%E5%A5%BD%E8%81%B2%E9%9F%B34-%E5%B0%B9%E6%99%AF%E9%A0%86%E8%A2%AB%E7%B6%B2%E6%B0%91%E8%B3%AA%E7%96%91%E6%98%AF-%E5%85%A7%E5%AE%9A%E4%B8%89%E7%94%B2-%E5%9B%9E%E6%87%89%E5%AE%A3%E5%82%B3%E6%B5%B7%E5%A0%B1%E7%88%AD%E8%AD%B0",
     "timestamp": "2026-08-22T09:34:21.368Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "有片│廣東7歲女迷路　向警察畫｢抽象母親｣喊｢我是中國人｣超爆笑",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260822/1167876760654581760956473.jpeg/wfEceNO7kDQMxJhzhvmcvUsTkr4JkCi3O1KhVTtSoVU?v=w1920",
-    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60382640/%E6%9C%89%E7%89%87-%E5%BB%A3%E6%9D%B17%E6%AD%B2%E5%A5%B3%E8%BF%B7%E8%B7%AF-%E5%90%91%E8%AD%A6%E5%AF%9F%E7%95%AB-%E6%8A%BD%E8%B1%A1%E6%AF%8D%E8%A6%AA-%E5%96%8A-%E6%88%91%E6%98%AF%E4%B8%AD%E5%9C%8B%E4%BA%BA-%E8%B6%85%E7%88%86%E7%AC%91",
-    "timestamp": "2026-08-22T09:17:48.372Z",
     "strategy": ".content-card__main"
   }
 ];
