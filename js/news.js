@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-22T12:13:13.675Z
+// Last updated: 2026-08-22T12:31:10.716Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "伊朗：國防產能已翻倍　能「邊打邊造」",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250623/1013859175341494272460952.jpeg/sE4CRXHPZRLnKhviXg8msMzdQb7wRJkQ9mrvzPZq78w?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60382674/%E4%BC%8A%E6%9C%97-%E5%9C%8B%E9%98%B2%E7%94%A2%E8%83%BD%E5%B7%B2%E7%BF%BB%E5%80%8D-%E8%83%BD-%E9%82%8A%E6%89%93%E9%82%8A%E9%80%A0",
+    "timestamp": "2026-08-22T12:31:10.716Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "舊商場舖變毒品倉　村屋作製毒工場　警拘年輕男女檢$1,600萬貨",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260822/1167837959114723328359647.jpeg/_gynpyl2eHwe-_gFd_pwsIAYYOlHaCkylkcWqpZHFqo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60382603/%E7%BE%8E%E5%9C%8B%E6%89%B9%E5%87%86%E5%B0%8D%E9%9F%93%E5%9C%8B%E5%87%BA%E5%94%AE-%E9%9F%BF%E5%B0%BE%E8%9B%87-%E5%B0%8E%E5%BD%88-%E7%A2%BA%E4%BF%9D%E8%88%87%E9%9B%99%E6%96%B9%E5%8D%94%E5%90%8C%E4%BD%9C%E6%88%B0%E8%83%BD%E5%8A%9B",
     "timestamp": "2026-08-22T06:34:21.072Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "上半年私宅落成7654伙　四年次高　私宅動工量2667伙創16年新低",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250311/976160959913529344620378.jpeg/u8cyUEUiICs7eThzxNzfA6muvzsDyMtoNb9j6jW_Y-o?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60382599/%E4%B8%8A%E5%8D%8A%E5%B9%B4%E7%A7%81%E5%AE%85%E8%90%BD%E6%88%907654%E4%BC%99-%E5%9B%9B%E5%B9%B4%E6%AC%A1%E9%AB%98-%E7%A7%81%E5%AE%85%E5%8B%95%E5%B7%A5%E9%87%8F2667%E4%BC%99%E5%89%B516%E5%B9%B4%E6%96%B0%E4%BD%8E",
-    "timestamp": "2026-08-22T06:01:47.167Z",
     "strategy": ".content-card__main"
   }
 ];
