@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-22T12:54:04.757Z
+// Last updated: 2026-08-22T13:19:22.818Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "六合彩結果｜今期8.22頭獎1300萬即時攪珠｜中獎號碼+派彩獎金",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260806/1162087277900337152218754.png/aDSWdXWhOmWC1NfKczj_tfHQX3yog8jaMcfvwTHH78E?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60382139/%E5%85%AD%E5%90%88%E5%BD%A9%E7%B5%90%E6%9E%9C-%E4%BB%8A%E6%9C%9F8-22%E9%A0%AD%E7%8D%8E1300%E8%90%AC%E5%8D%B3%E6%99%82%E6%94%AA%E7%8F%A0-%E4%B8%AD%E7%8D%8E%E8%99%9F%E7%A2%BC-%E6%B4%BE%E5%BD%A9%E7%8D%8E%E9%87%91",
+    "timestamp": "2026-08-22T13:19:22.818Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "印度少年iPhone月供引爆父子爭執雙雙墮崖亡　母親目睹後隨之而去",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260819/1166710573526683648193205.jpeg/SAFEc77EWEAcwrUDl1Pqo5ldir6dmZPjGr_zaRq_82k?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60381431/%E5%9C%8B%E7%94%A2%E5%BD%A9%E8%99%B9yh-1000s%E7%84%A1%E4%BA%BA%E6%A9%9F%E7%AB%9F%E6%98%AF%E7%94%A8%E6%B1%BD%E8%BB%8A%E6%B7%B7%E5%8B%95%E8%A3%9D%E7%BD%AE-%E9%99%A4%E6%88%90%E6%9C%AC%E5%A4%A7%E6%B8%9B%E9%82%84%E6%9B%B4%E9%AB%98%E6%95%88",
     "timestamp": "2026-08-22T07:37:20.866Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "財經視野｜貝森特出口術壓長債息　倒不如認清「基本面」尋良方",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260722/1156545432000663552539617.jpeg/3vmOMJQPkc3jMG6ilfjf_unjHMyWKlqcvD-S7rw_ku4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60382609/%E8%B2%A1%E7%B6%93%E8%A6%96%E9%87%8E-%E8%B2%9D%E6%A3%AE%E7%89%B9%E5%87%BA%E5%8F%A3%E8%A1%93%E5%A3%93%E9%95%B7%E5%82%B5%E6%81%AF-%E5%80%92%E4%B8%8D%E5%A6%82%E8%AA%8D%E6%B8%85-%E5%9F%BA%E6%9C%AC%E9%9D%A2-%E5%B0%8B%E8%89%AF%E6%96%B9",
-    "timestamp": "2026-08-22T07:20:06.530Z",
     "strategy": ".content-card__main"
   }
 ];
