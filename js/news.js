@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-22T06:34:21.072Z
+// Last updated: 2026-08-22T07:20:06.530Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "財經視野｜貝森特出口術壓長債息　倒不如認清「基本面」尋良方",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260722/1156545432000663552539617.jpeg/3vmOMJQPkc3jMG6ilfjf_unjHMyWKlqcvD-S7rw_ku4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60382609/%E8%B2%A1%E7%B6%93%E8%A6%96%E9%87%8E-%E8%B2%9D%E6%A3%AE%E7%89%B9%E5%87%BA%E5%8F%A3%E8%A1%93%E5%A3%93%E9%95%B7%E5%82%B5%E6%81%AF-%E5%80%92%E4%B8%8D%E5%A6%82%E8%AA%8D%E6%B8%85-%E5%9F%BA%E6%9C%AC%E9%9D%A2-%E5%B0%8B%E8%89%AF%E6%96%B9",
+    "timestamp": "2026-08-22T07:20:06.530Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美國批准對韓國出售「響尾蛇」導彈　確保與雙方協同作戰能力",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260822/1167724695710076928659840.jpeg/oBTGPbREmy0RDbh4-qYueTCACf5h6VChXCYcs1wmHLM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60382539/%E8%AD%A6%E4%BD%90%E6%95%A6%E6%90%97%E7%A0%B4%E6%AF%92%E7%AA%9F%E5%85%BC%E6%AD%A6%E5%99%A8%E5%BA%AB-%E6%AA%A2%E5%A4%9A%E8%B5%B0%E6%AC%BE%E6%AF%92%E5%93%81%E5%92%8C%E6%AD%A6%E5%99%A8-9%E7%94%B7%E8%A2%AB%E6%8D%95",
     "timestamp": "2026-08-21T22:58:26.092Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "天氣｜今日有幾陣驟雨　局部地區有狂風雷暴　最高氣溫32度",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260822/1167713696789565440786192.jpeg/bk2lkSormBXJCEKjJfG8dSRLSO72KX82lUsFO5VLBTs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60382537/%E5%A4%A9%E6%B0%A3-%E4%BB%8A%E6%97%A5%E6%9C%89%E5%B9%BE%E9%99%A3%E9%A9%9F%E9%9B%A8-%E5%B1%80%E9%83%A8%E5%9C%B0%E5%8D%80%E6%9C%89%E7%8B%82%E9%A2%A8%E9%9B%B7%E6%9A%B4-%E6%9C%80%E9%AB%98%E6%B0%A3%E6%BA%AB32%E5%BA%A6",
-    "timestamp": "2026-08-21T22:45:14.379Z",
     "strategy": ".content-card__main"
   }
 ];
