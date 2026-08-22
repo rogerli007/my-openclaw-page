@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-22T07:37:20.866Z
+// Last updated: 2026-08-22T07:59:33.985Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "TIMA國際音樂大賞｜Aespa性感現身紅地氈　Karina谷胸最搶鏡",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260822/1167860723682906112873152.jpeg/jf_RgU1LTkPIn7HADpNWFo3n-oSfQXCd28-jW-LPo1s?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60382622/tima%E5%9C%8B%E9%9A%9B%E9%9F%B3%E6%A8%82%E5%A4%A7%E8%B3%9E-aespa%E6%80%A7%E6%84%9F%E7%8F%BE%E8%BA%AB%E7%B4%85%E5%9C%B0%E6%B0%88-karina%E8%B0%B7%E8%83%B8%E6%9C%80%E6%90%B6%E9%8F%A1",
+    "timestamp": "2026-08-22T07:59:33.985Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "國產彩虹YH-1000S無人機竟是用汽車混動裝置？除成本大減還更高效",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260703/1149507564614979584274619.jpeg/Doj7DBZpZ8jum0W-9Yq0K8D-15L6NbcHuG5GvLhuRrw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60382541/%E7%BE%8E%E5%9C%8B%E6%93%AC%E5%90%91%E8%81%AF%E5%90%88%E5%9C%8B%E7%B9%B3%E6%B8%85%E9%83%A8%E5%88%86%E6%AC%A0%E6%AC%BE-%E6%8B%96%E6%AC%A040%E5%84%84%E7%BE%8E%E5%85%83%E5%83%85%E9%82%847-25%E5%84%84",
     "timestamp": "2026-08-21T23:29:45.488Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "用家剛需慢慢撐起商業樓市　行業半官方機構入市具有甚麼意義？",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260821/1167571047197708288152680.jpeg/0KO5rGUHNTjqvWOECM_IacksSRJ_lYWffIscc3yLHHM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60382491/%E7%94%A8%E5%AE%B6%E5%89%9B%E9%9C%80%E6%85%A2%E6%85%A2%E6%92%90%E8%B5%B7%E5%95%86%E6%A5%AD%E6%A8%93%E5%B8%82-%E8%A1%8C%E6%A5%AD%E5%8D%8A%E5%AE%98%E6%96%B9%E6%A9%9F%E6%A7%8B%E5%85%A5%E5%B8%82%E5%85%B7%E6%9C%89%E7%94%9A%E9%BA%BC%E6%84%8F%E7%BE%A9",
-    "timestamp": "2026-08-21T23:12:37.881Z",
     "strategy": ".content-card__main"
   }
 ];
