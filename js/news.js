@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-22T05:16:02.379Z
+// Last updated: 2026-08-22T05:31:40.620Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "一周230宗網購騙案失$800萬　有騙徒一人分演多角呃$3萬",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260822/1167820298939011072718345.jpeg/O-WHMr5AtP65hvO6wx75KfOljqdo3ZI2wBb_l8AW_5c?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60382596/%E4%B8%80%E5%91%A8230%E5%AE%97%E7%B6%B2%E8%B3%BC%E9%A8%99%E6%A1%88%E5%A4%B1-800%E8%90%AC-%E6%9C%89%E9%A8%99%E5%BE%92%E4%B8%80%E4%BA%BA%E5%88%86%E6%BC%94%E5%A4%9A%E8%A7%92%E5%91%83-3%E8%90%AC",
+    "timestamp": "2026-08-22T05:31:40.620Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "民政總署：業主大會授權票限制未定　會考慮是否過於嚴格",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260822/1167675923634327552531804.jpeg/iYTt-b8bPh8i6tP2CFCOj_F2gruuWxGr0ZoYgNGaGIA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60382533/%E6%89%93%E9%A2%A8-%E5%A4%A9%E6%96%87%E5%8F%B0%E6%96%99%E4%B8%8B%E5%91%A8%E5%9B%9B%E9%80%BC%E8%BF%91400%E5%85%AC%E9%87%8C-%E5%8D%87%E7%B4%9A%E7%86%B1%E5%B8%B6%E9%A2%A8%E6%9A%B4%E7%82%BA%E4%BD%95%E6%9C%AA%E5%91%BD%E5%90%8D",
     "timestamp": "2026-08-21T21:45:00.785Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "打風｜天文台料下周四逼近400公里　升級熱帶風暴為何未命名？",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260822/1167675923634327552531804.jpeg/iYTt-b8bPh8i6tP2CFCOj_F2gruuWxGr0ZoYgNGaGIA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60382533/%E6%89%93%E9%A2%A8-%E5%A4%A9%E6%96%87%E5%8F%B0%E6%96%99%E4%B8%8B%E5%91%A8%E5%9B%9B%E9%80%BC%E8%BF%91400%E5%85%AC%E9%87%8C-%E5%8D%87%E7%B4%9A%E7%86%B1%E5%B8%B6%E9%A2%A8%E6%9A%B4%E7%82%BA%E4%BD%95%E6%9C%AA%E5%91%BD%E5%90%8D",
-    "timestamp": "2026-08-21T21:29:46.669Z",
     "strategy": ".content-card__main"
   }
 ];
