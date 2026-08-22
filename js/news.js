@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-22T21:43:30.188Z
+// Last updated: 2026-08-22T21:57:11.537Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "土耳其商船黑海遇襲　無人機連續襲擊致1死8傷｜有片",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260823/1168062328894132224479601.jpeg/Ls1kBwW1coZD4e0EE-1HNoE7B9boB6bbBpp29QaadvU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60382716/%E5%9C%9F%E8%80%B3%E5%85%B6%E5%95%86%E8%88%B9%E9%BB%91%E6%B5%B7%E9%81%87%E8%A5%B2-%E7%84%A1%E4%BA%BA%E6%A9%9F%E9%80%A3%E7%BA%8C%E8%A5%B2%E6%93%8A%E8%87%B41%E6%AD%BB8%E5%82%B7-%E6%9C%89%E7%89%87",
+    "timestamp": "2026-08-22T21:57:11.537Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "土耳其商船黑海遇襲　無人機連續襲擊致1死8傷｜有片",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260821/1167555083706044416186357.png/_sccW6srcFCFHwSTgUGKgYGdMURGNq6tJa28ZCWtvGQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60382484/%E6%9E%97%E7%9B%9B%E6%96%8C18%E6%AD%B2%E5%A4%A7%E5%A5%B3faye%E6%B2%96%E7%B9%A9%E7%95%A2%E6%A5%AD%E9%81%8A-%E9%A6%96%E6%99%92%E6%AF%94%E5%A0%85%E5%B0%BC%E6%83%B9%E7%81%AB%E8%BA%AB%E6%9D%90",
     "timestamp": "2026-08-22T14:44:26.934Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "深水埗塌棚．車CAM｜年輕途人掩頭衝出馬路　年長男跌倒淡定起身",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260822/1167953785536909312370241.jpeg/peSqM1IX6AyODJ1tm3DbbZu46Kt80C69ldRM75XUTO8",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60382693/%E6%B7%B1%E6%B0%B4%E5%9F%97%E5%A1%8C%E6%A3%9A-%E8%BB%8Acam-%E5%B9%B4%E8%BC%95%E9%80%94%E4%BA%BA%E6%8E%A9%E9%A0%AD%E8%A1%9D%E5%87%BA%E9%A6%AC%E8%B7%AF-%E5%B9%B4%E9%95%B7%E7%94%B7%E8%B7%8C%E5%80%92%E6%B7%A1%E5%AE%9A%E8%B5%B7%E8%BA%AB",
-    "timestamp": "2026-08-22T14:29:37.761Z",
     "strategy": ".content-card__main"
   }
 ];
