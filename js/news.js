@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-22T10:57:40.150Z
+// Last updated: 2026-08-22T11:11:37.263Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "九巴阿叔坐辦公椅泊輪椅區！扣好安全帶防碌走　網民嘲：真係輪椅",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260820/1167229448886423552957834.png/04J_osXSgysYl_3S9tlTopkBnUHkKAPLjRdcYY0XXGE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60382122/%E4%B9%9D%E5%B7%B4%E9%98%BF%E5%8F%94%E5%9D%90%E8%BE%A6%E5%85%AC%E6%A4%85%E6%B3%8A%E8%BC%AA%E6%A4%85%E5%8D%80-%E6%89%A3%E5%A5%BD%E5%AE%89%E5%85%A8%E5%B8%B6%E9%98%B2%E7%A2%8C%E8%B5%B0-%E7%B6%B2%E6%B0%91%E5%98%B2-%E7%9C%9F%E4%BF%82%E8%BC%AA%E6%A4%85",
+    "timestamp": "2026-08-22T11:11:37.263Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "你好，打劫｜劉德華撐場打氣　何啟華稱壓力大︰兩小時直落演出",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260822/1167812896911003648941867.jpeg/5PK1cF3t1sp8Kvpu3RQ8LFPP9HMAChSilrpT6Za6U-k?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60382588/%E5%8D%8A%E5%B1%B1%E8%A5%BF%E6%91%A9%E9%81%93%E9%80%81%E8%B2%A8%E7%94%B7-%E8%B2%A8%E8%BB%8A%E5%B0%BE%E6%9D%BF%E4%B8%8A%E5%A2%AE%E5%9C%B0-%E5%8F%97%E5%82%B7%E9%80%81%E9%99%A2",
     "timestamp": "2026-08-22T05:01:48.444Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "支聯會案｜政府強烈譴責外部勢力誤導抹黑　被告非因政治觀點受審",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20211226/551821712195457024430279.jpeg/TfBhDSrVKEEBYCAfEL-e-OF0M8O74xnd3HkLI9x5CyM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60382585/%E6%94%AF%E8%81%AF%E6%9C%83%E6%A1%88-%E6%94%BF%E5%BA%9C%E5%BC%B7%E7%83%88%E8%AD%B4%E8%B2%AC%E5%A4%96%E9%83%A8%E5%8B%A2%E5%8A%9B%E8%AA%A4%E5%B0%8E%E6%8A%B9%E9%BB%91-%E8%A2%AB%E5%91%8A%E9%9D%9E%E5%9B%A0%E6%94%BF%E6%B2%BB%E8%A7%80%E9%BB%9E%E5%8F%97%E5%AF%A9",
-    "timestamp": "2026-08-22T04:36:44.164Z",
     "strategy": ".content-card__main"
   }
 ];
