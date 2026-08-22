@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-22T08:49:20.936Z
+// Last updated: 2026-08-22T09:03:51.746Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "TIMA國際音樂大賞｜禁帶發光裝置、螢光棒、長傘　一文看交通安排",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260822/1167876286752755712807962.jpeg/MHsHexRvmvg79QAtvrsim_zsJXCXISf3F1kXLhdZFy4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60382635/tima%E5%9C%8B%E9%9A%9B%E9%9F%B3%E6%A8%82%E5%A4%A7%E8%B3%9E-%E7%A6%81%E5%B8%B6%E7%99%BC%E5%85%89%E8%A3%9D%E7%BD%AE-%E8%9E%A2%E5%85%89%E6%A3%92-%E9%95%B7%E5%82%98-%E4%B8%80%E6%96%87%E7%9C%8B%E4%BA%A4%E9%80%9A%E5%AE%89%E6%8E%92",
+    "timestamp": "2026-08-22T09:03:51.746Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "新皇崗口岸．有片｜一站式車檢全拆解　司機過關流程、抽查安排",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260821/1167415573638811648147689.jpeg/V3SN_kipqAKdCXsH3Ahe-uiUhtgqfZIvsum1VLLptVQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60382552/%E7%BE%8E%E5%82%B5%E4%BF%9D%E8%A1%9B%E6%88%B0-%E7%89%B9%E6%9C%97%E6%99%AE%E7%A8%B1%E5%B9%B2%E9%A0%90%E5%82%B5%E5%B8%82-%E6%98%AF%E8%B2%9D%E6%A3%AE%E7%89%B9%E8%87%AA%E5%B7%B1%E6%8B%BF%E7%9A%84%E4%B8%BB%E6%84%8F",
     "timestamp": "2026-08-22T01:37:28.520Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "瑞典高中持劍襲擊案　一死三傷　警方拘捕18歲男子",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260822/1167753529964630016196042.jpeg/Gjb0Kj8keuTKiT6GYCYuQt8Ga3qjYg9UFUgnshVIJ7I?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60382545/%E7%91%9E%E5%85%B8%E9%AB%98%E4%B8%AD%E6%8C%81%E5%8A%8D%E8%A5%B2%E6%93%8A%E6%A1%88-%E4%B8%80%E6%AD%BB%E4%B8%89%E5%82%B7-%E8%AD%A6%E6%96%B9%E6%8B%98%E6%8D%9518%E6%AD%B2%E7%94%B7%E5%AD%90",
-    "timestamp": "2026-08-22T00:54:09.935Z",
     "strategy": ".content-card__main"
   }
 ];
