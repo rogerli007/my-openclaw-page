@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-22T20:10:44.123Z
+// Last updated: 2026-08-22T20:29:35.047Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "廣華醫院約束帶和床墊燒毀　火警有可疑　25歲男病人涉縱火被捕",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260823/1168043283809570816502439.jpeg/0NvTxiU_Xbr9f-cEfnOSESpT7fbGeo7_1xf5J9cX-Sc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60382713/%E5%BB%A3%E8%8F%AF%E9%86%AB%E9%99%A2%E7%B4%84%E6%9D%9F%E5%B8%B6%E5%92%8C%E5%BA%8A%E5%A2%8A%E7%87%92%E6%AF%80-%E7%81%AB%E8%AD%A6%E6%9C%89%E5%8F%AF%E7%96%91-25%E6%AD%B2%E7%94%B7%E7%97%85%E4%BA%BA%E6%B6%89%E7%B8%B1%E7%81%AB%E8%A2%AB%E6%8D%95",
+    "timestamp": "2026-08-22T20:29:35.047Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "車Cam｜北大嶼山公路大塞車　車隊的士撞開2車疑開路　2人受傷",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260806/1162087277900337152218754.png/aDSWdXWhOmWC1NfKczj_tfHQX3yog8jaMcfvwTHH78E?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60382139/%E5%85%AD%E5%90%88%E5%BD%A9%E7%B5%90%E6%9E%9C-%E4%BB%8A%E6%9C%9F8-22%E9%A0%AD%E7%8D%8E1300%E8%90%AC%E5%8D%B3%E6%99%82%E6%94%AA%E7%8F%A0-%E4%B8%AD%E7%8D%8E%E8%99%9F%E7%A2%BC-%E6%B4%BE%E5%BD%A9%E7%8D%8E%E9%87%91",
     "timestamp": "2026-08-22T13:19:22.818Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "印度少年iPhone月供引爆父子爭執雙雙墮崖亡　母親目睹後隨之而去",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260727/1158419948586930176910364.jpeg/VHJ2nG4FiY_vsE3gPWGODwG-oCLZI7cCMukRgTLpEYE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60382677/%E5%8D%B0%E5%BA%A6%E5%B0%91%E5%B9%B4iphone%E6%9C%88%E4%BE%9B%E5%BC%95%E7%88%86%E7%88%B6%E5%AD%90%E7%88%AD%E5%9F%B7%E9%9B%99%E9%9B%99%E5%A2%AE%E5%B4%96%E4%BA%A1-%E6%AF%8D%E8%A6%AA%E7%9B%AE%E7%9D%B9%E5%BE%8C%E9%9A%A8%E4%B9%8B%E8%80%8C%E5%8E%BB",
-    "timestamp": "2026-08-22T12:54:04.757Z",
     "strategy": ".content-card__main"
   }
 ];
