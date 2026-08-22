@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-22T14:44:26.934Z
+// Last updated: 2026-08-22T14:57:36.339Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "機械人運動會‧有片│9.39秒快過保特　中國機械人打破人類百米紀錄",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260822/1167967743522115584714906.jpeg/p1NOcIQzoaorF0HNYldsvSmhIKVtm2fssaALfLGgC3w",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60382695/%E6%A9%9F%E6%A2%B0%E4%BA%BA%E9%81%8B%E5%8B%95%E6%9C%83-%E6%9C%89%E7%89%87-9-39%E7%A7%92%E5%BF%AB%E9%81%8E%E4%BF%9D%E7%89%B9-%E4%B8%AD%E5%9C%8B%E6%A9%9F%E6%A2%B0%E4%BA%BA%E6%89%93%E7%A0%B4%E4%BA%BA%E9%A1%9E%E7%99%BE%E7%B1%B3%E7%B4%80%E9%8C%84",
+    "timestamp": "2026-08-22T14:57:36.339Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "林盛斌18歲大女Faye沖繩畢業遊　首晒比堅尼惹火身材",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260822/1167876760654581760956473.jpeg/wfEceNO7kDQMxJhzhvmcvUsTkr4JkCi3O1KhVTtSoVU?v=w1920",
     "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60382640/%E6%9C%89%E7%89%87-%E5%BB%A3%E6%9D%B17%E6%AD%B2%E5%A5%B3%E8%BF%B7%E8%B7%AF-%E5%90%91%E8%AD%A6%E5%AF%9F%E7%95%AB-%E6%8A%BD%E8%B1%A1%E6%AF%8D%E8%A6%AA-%E5%96%8A-%E6%88%91%E6%98%AF%E4%B8%AD%E5%9C%8B%E4%BA%BA-%E8%B6%85%E7%88%86%E7%AC%91",
     "timestamp": "2026-08-22T09:17:48.372Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "TIMA國際音樂大賞｜禁帶發光裝置、螢光棒、長傘　一文看交通安排",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260822/1167876286752755712807962.jpeg/MHsHexRvmvg79QAtvrsim_zsJXCXISf3F1kXLhdZFy4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60382635/tima%E5%9C%8B%E9%9A%9B%E9%9F%B3%E6%A8%82%E5%A4%A7%E8%B3%9E-%E7%A6%81%E5%B8%B6%E7%99%BC%E5%85%89%E8%A3%9D%E7%BD%AE-%E8%9E%A2%E5%85%89%E6%A3%92-%E9%95%B7%E5%82%98-%E4%B8%80%E6%96%87%E7%9C%8B%E4%BA%A4%E9%80%9A%E5%AE%89%E6%8E%92",
-    "timestamp": "2026-08-22T09:03:51.746Z",
     "strategy": ".content-card__main"
   }
 ];
