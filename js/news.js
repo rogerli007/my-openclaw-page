@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-22T09:17:48.372Z
+// Last updated: 2026-08-22T09:34:21.368Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "中年好聲音4｜尹景順被網民質疑是「內定三甲」 回應宣傳海報爭議",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260822/1167877089848725504083261.jpeg/vs_m-1oNoQDn0qzIQtImKFjcIJLeWXDK5t3FmNzdxZg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60382637/%E4%B8%AD%E5%B9%B4%E5%A5%BD%E8%81%B2%E9%9F%B34-%E5%B0%B9%E6%99%AF%E9%A0%86%E8%A2%AB%E7%B6%B2%E6%B0%91%E8%B3%AA%E7%96%91%E6%98%AF-%E5%85%A7%E5%AE%9A%E4%B8%89%E7%94%B2-%E5%9B%9E%E6%87%89%E5%AE%A3%E5%82%B3%E6%B5%B7%E5%A0%B1%E7%88%AD%E8%AD%B0",
+    "timestamp": "2026-08-22T09:34:21.368Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "有片│廣東7歲女迷路　向警察畫｢抽象母親｣喊｢我是中國人｣超爆笑",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260822/1167777257041694720640821.png/xT6jVR-FSbAMWXSU8oDkBr_UBLvGX5uNopQTt6KUE7c?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60382570/%E6%B2%B3%E5%8C%97%E6%B6%BF%E5%B7%9E%E4%BB%A3%E5%AD%95%E6%A1%88%E5%85%AD%E4%BA%BA%E8%A2%AB%E6%8D%95-%E8%88%89%E5%A0%B1%E8%80%85%E7%A8%B1%E4%B8%BB%E8%85%A6%E5%B7%B2%E9%80%83%E5%BE%80%E6%96%B0%E5%8A%A0%E5%9D%A1-%E7%96%91%E6%9C%89%E4%BA%BA%E6%B4%A9%E5%AF%86",
     "timestamp": "2026-08-22T02:43:17.332Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "蔚觀全局｜使命感非無限犧牲理由：制度如何守住社工？",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260820/1167116941828034560528609.jpeg/mxvdYSRYyx5W98H3YQKTshiQwqAfzlV2Yo8M9WKPDPU?v=w1920r16_9",
-    "url": "https://www.hk01.com/01%E5%B0%88%E6%AC%84/60381892/%E8%94%9A%E8%A7%80%E5%85%A8%E5%B1%80-%E4%BD%BF%E5%91%BD%E6%84%9F%E9%9D%9E%E7%84%A1%E9%99%90%E7%8A%A7%E7%89%B2%E7%90%86%E7%94%B1-%E5%88%B6%E5%BA%A6%E5%A6%82%E4%BD%95%E5%AE%88%E4%BD%8F%E7%A4%BE%E5%B7%A5",
-    "timestamp": "2026-08-22T02:16:17.007Z",
     "strategy": ".content-card__main"
   }
 ];
