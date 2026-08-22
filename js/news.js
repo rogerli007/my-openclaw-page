@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-22T07:20:06.530Z
+// Last updated: 2026-08-22T07:37:20.866Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "國產彩虹YH-1000S無人機竟是用汽車混動裝置？除成本大減還更高效",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260819/1166710573526683648193205.jpeg/SAFEc77EWEAcwrUDl1Pqo5ldir6dmZPjGr_zaRq_82k?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60381431/%E5%9C%8B%E7%94%A2%E5%BD%A9%E8%99%B9yh-1000s%E7%84%A1%E4%BA%BA%E6%A9%9F%E7%AB%9F%E6%98%AF%E7%94%A8%E6%B1%BD%E8%BB%8A%E6%B7%B7%E5%8B%95%E8%A3%9D%E7%BD%AE-%E9%99%A4%E6%88%90%E6%9C%AC%E5%A4%A7%E6%B8%9B%E9%82%84%E6%9B%B4%E9%AB%98%E6%95%88",
+    "timestamp": "2026-08-22T07:37:20.866Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "財經視野｜貝森特出口術壓長債息　倒不如認清「基本面」尋良方",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260821/1167571047197708288152680.jpeg/0KO5rGUHNTjqvWOECM_IacksSRJ_lYWffIscc3yLHHM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60382491/%E7%94%A8%E5%AE%B6%E5%89%9B%E9%9C%80%E6%85%A2%E6%85%A2%E6%92%90%E8%B5%B7%E5%95%86%E6%A5%AD%E6%A8%93%E5%B8%82-%E8%A1%8C%E6%A5%AD%E5%8D%8A%E5%AE%98%E6%96%B9%E6%A9%9F%E6%A7%8B%E5%85%A5%E5%B8%82%E5%85%B7%E6%9C%89%E7%94%9A%E9%BA%BC%E6%84%8F%E7%BE%A9",
     "timestamp": "2026-08-21T23:12:37.881Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "警佐敦搗破毒窟兼武器庫　檢多走款毒品和武器　9男被捕",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260822/1167724695710076928659840.jpeg/oBTGPbREmy0RDbh4-qYueTCACf5h6VChXCYcs1wmHLM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60382539/%E8%AD%A6%E4%BD%90%E6%95%A6%E6%90%97%E7%A0%B4%E6%AF%92%E7%AA%9F%E5%85%BC%E6%AD%A6%E5%99%A8%E5%BA%AB-%E6%AA%A2%E5%A4%9A%E8%B5%B0%E6%AC%BE%E6%AF%92%E5%93%81%E5%92%8C%E6%AD%A6%E5%99%A8-9%E7%94%B7%E8%A2%AB%E6%8D%95",
-    "timestamp": "2026-08-21T22:58:26.092Z",
     "strategy": ".content-card__main"
   }
 ];
