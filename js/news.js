@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-22T09:48:50.268Z
+// Last updated: 2026-08-22T10:00:30.006Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "中年好聲音4｜鄭家聲遭網民疑未完賽先拿TVB入場券　回應內定風波",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260822/1167880056278618112436925.jpeg/_Cu65PIxut2JcV5J1tZ9nyUoMsisib0fu1dFIYFXRSE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60382642/%E4%B8%AD%E5%B9%B4%E5%A5%BD%E8%81%B2%E9%9F%B34-%E9%84%AD%E5%AE%B6%E8%81%B2%E9%81%AD%E7%B6%B2%E6%B0%91%E7%96%91%E6%9C%AA%E5%AE%8C%E8%B3%BD%E5%85%88%E6%8B%BFtvb%E5%85%A5%E5%A0%B4%E5%88%B8-%E5%9B%9E%E6%87%89%E5%85%A7%E5%AE%9A%E9%A2%A8%E6%B3%A2",
+    "timestamp": "2026-08-22T10:00:30.006Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "二戰結束81周年　高市早苗致詞未提反省　石破茂：真的可不提嗎",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260822/1167791396875145216385019.jpeg/1eG3G1mrhK9pW3LzPokcaP6rue2E27L8IwAvkiMAL5I?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60382581/%E5%8A%A0%E5%AA%92-%E8%90%AC%E6%96%AF%E7%A7%81%E4%B8%8B%E5%98%B2%E8%AB%B7%E5%8D%A1%E5%B0%BC-%E5%AE%A3%E7%A8%B1%E6%AF%94%E7%89%B9%E6%9C%97%E6%99%AE%E5%BC%B7%E7%A1%AC-%E5%AF%A6%E9%9A%9B%E8%AB%87%E5%88%A4%E9%A0%BB%E9%A0%BB%E8%AE%93%E6%AD%A5",
     "timestamp": "2026-08-22T03:34:18.076Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "阿根廷世界盃決賽輸波職球員動粗　FIFA重判柏利迪斯停賽10場",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260721/1156277358874071040071689.jpeg/CeVrISzQz146yt2Zt0EHVThpGovW1cDQKKtR-yirUfs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60382565/%E9%98%BF%E6%A0%B9%E5%BB%B7%E4%B8%96%E7%95%8C%E7%9B%83%E6%B1%BA%E8%B3%BD%E8%BC%B8%E6%B3%A2%E8%81%B7%E7%90%83%E5%93%A1%E5%8B%95%E7%B2%97-fifa%E9%87%8D%E5%88%A4%E6%9F%8F%E5%88%A9%E8%BF%AA%E6%96%AF%E5%81%9C%E8%B3%BD10%E5%A0%B4",
-    "timestamp": "2026-08-22T03:09:30.861Z",
     "strategy": ".content-card__main"
   }
 ];
