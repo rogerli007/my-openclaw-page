@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-22T08:30:58.109Z
+// Last updated: 2026-08-22T08:49:20.936Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "新皇崗口岸．有片｜一站式車檢全拆解　司機過關流程、抽查安排",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260822/1167851949148606464472891.jpeg/IXwAOTWIpIVAGOCfHqaseU0JixRx_wwLfL-6HFm_uhw",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60382619/%E6%96%B0%E7%9A%87%E5%B4%97%E5%8F%A3%E5%B2%B8-%E6%9C%89%E7%89%87-%E4%B8%80%E7%AB%99%E5%BC%8F%E8%BB%8A%E6%AA%A2%E5%85%A8%E6%8B%86%E8%A7%A3-%E5%8F%B8%E6%A9%9F%E9%81%8E%E9%97%9C%E6%B5%81%E7%A8%8B-%E6%8A%BD%E6%9F%A5%E5%AE%89%E6%8E%92",
+    "timestamp": "2026-08-22T08:49:20.936Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "深水埗汝州街南昌街交界塌棚架　一名男子被困　獲救清醒送院",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260822/1167753529964630016196042.jpeg/Gjb0Kj8keuTKiT6GYCYuQt8Ga3qjYg9UFUgnshVIJ7I?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60382545/%E7%91%9E%E5%85%B8%E9%AB%98%E4%B8%AD%E6%8C%81%E5%8A%8D%E8%A5%B2%E6%93%8A%E6%A1%88-%E4%B8%80%E6%AD%BB%E4%B8%89%E5%82%B7-%E8%AD%A6%E6%96%B9%E6%8B%98%E6%8D%9518%E6%AD%B2%E7%94%B7%E5%AD%90",
     "timestamp": "2026-08-22T00:54:09.935Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "「薅羊毛」變詐騙？內地超市老闆狂開6000假帳號　騙10噸糧油自售",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260821/1167440362193555456241765.png/WBxBHklQxhqP7r27vS_Kj4Hd51y1usP3e1F6ZntRemY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60379705/%E8%96%85%E7%BE%8A%E6%AF%9B-%E8%AE%8A%E8%A9%90%E9%A8%99-%E5%85%A7%E5%9C%B0%E8%B6%85%E5%B8%82%E8%80%81%E9%97%86%E7%8B%82%E9%96%8B6000%E5%81%87%E5%B8%B3%E8%99%9F-%E9%A8%9910%E5%99%B8%E7%B3%A7%E6%B2%B9%E8%87%AA%E5%94%AE",
-    "timestamp": "2026-08-22T00:24:10.469Z",
     "strategy": ".content-card__main"
   }
 ];
