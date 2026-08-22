@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-22T13:58:36.714Z
+// Last updated: 2026-08-22T14:11:56.274Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "六合彩8.25頭獎1900萬｜6個最旺號碼+2招增中獎機會",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260207/1096923557155311616420178.jpeg/UeMZ2YWWhOtx5to7_A7qrtBxsVlavcTBZh-tpmYfraY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60382691/%E5%85%AD%E5%90%88%E5%BD%A98-25%E9%A0%AD%E7%8D%8E1900%E8%90%AC-6%E5%80%8B%E6%9C%80%E6%97%BA%E8%99%9F%E7%A2%BC-2%E6%8B%9B%E5%A2%9E%E4%B8%AD%E7%8D%8E%E6%A9%9F%E6%9C%83",
+    "timestamp": "2026-08-22T14:11:56.274Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "六合彩8.25頭獎1900萬｜6個最旺號碼+2招增中獎機會",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260822/1167870090809446400156309.jpeg/gQ82WE-YI3WZzYrXzXflJaz6xrDdOGEDuxmacZ4ZmnE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60382626/%E6%B7%B1%E6%B0%B4%E5%9F%97%E6%B1%9D%E5%B7%9E%E8%A1%97%E5%8D%97%E6%98%8C%E8%A1%97%E4%BA%A4%E7%95%8C%E5%A1%8C%E6%A3%9A%E6%9E%B6-%E4%B8%80%E5%90%8D%E7%94%B7%E5%AD%90%E8%A2%AB%E5%9B%B0-%E7%8D%B2%E6%95%91%E6%B8%85%E9%86%92%E9%80%81%E9%99%A2",
     "timestamp": "2026-08-22T08:30:58.109Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "有片│孩子滯留地鐵車廂　廣州媽媽硬闖致月台幕門卡死無法開車",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260822/1167820411707068416425970.jpeg/4ezGqRjUPk34I5Rh4RAMnau1jT8-1eXwVlwK4lZcCuI",
-    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60382595/%E6%9C%89%E7%89%87-%E5%AD%A9%E5%AD%90%E6%BB%AF%E7%95%99%E5%9C%B0%E9%90%B5%E8%BB%8A%E5%BB%82-%E5%BB%A3%E5%B7%9E%E5%AA%BD%E5%AA%BD%E7%A1%AC%E9%97%96%E8%87%B4%E6%9C%88%E5%8F%B0%E5%B9%95%E9%96%80%E5%8D%A1%E6%AD%BB%E7%84%A1%E6%B3%95%E9%96%8B%E8%BB%8A",
-    "timestamp": "2026-08-22T08:14:41.851Z",
     "strategy": ".content-card__main"
   }
 ];
