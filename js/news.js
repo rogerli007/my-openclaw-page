@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-22T22:13:33.780Z
+// Last updated: 2026-08-22T22:29:28.771Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "天氣｜今日有幾陣驟雨　初時局部地區有雷暴　最高氣溫32度",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260823/1168081415300976640210758.jpeg/pjk97PU0bvJKKSUJend9WEtY7pS65dbWPVMtrwdTLa8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60382718/%E5%A4%A9%E6%B0%A3-%E4%BB%8A%E6%97%A5%E6%9C%89%E5%B9%BE%E9%99%A3%E9%A9%9F%E9%9B%A8-%E5%88%9D%E6%99%82%E5%B1%80%E9%83%A8%E5%9C%B0%E5%8D%80%E6%9C%89%E9%9B%B7%E6%9A%B4-%E6%9C%80%E9%AB%98%E6%B0%A3%E6%BA%AB32%E5%BA%A6",
+    "timestamp": "2026-08-22T22:29:28.771Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "紅磡住宅大廈私人供水系統故障　工程人員搶修　水務署設水車水箱",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260821/1167456593583804416084529.png/C5FrwauOHN4UiVZa9oarIY-nTQ-3XIimlGXB5pRlweY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E8%A9%B1%E9%A1%8C/60379517/%E6%97%A5%E6%9C%AC%E7%94%B7%E5%85%AC%E9%97%9C%E9%99%B7%E9%98%B1-24%E6%AD%B2%E5%A5%B3%E7%82%BA%E4%BE%9B%E9%A4%8A%E7%94%B7%E5%85%AC%E9%97%9C%E6%B9%8A-2-9%E8%90%AC-%E8%BD%89%E6%88%B0%E8%A1%97%E9%A0%AD%E8%B3%A3%E6%B7%AB%E8%A2%AB%E6%8D%95",
     "timestamp": "2026-08-22T15:10:39.012Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "機械人運動會‧有片│9.39秒快過保特　中國機械人打破人類百米紀錄",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260822/1167967743522115584714906.jpeg/p1NOcIQzoaorF0HNYldsvSmhIKVtm2fssaALfLGgC3w",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60382695/%E6%A9%9F%E6%A2%B0%E4%BA%BA%E9%81%8B%E5%8B%95%E6%9C%83-%E6%9C%89%E7%89%87-9-39%E7%A7%92%E5%BF%AB%E9%81%8E%E4%BF%9D%E7%89%B9-%E4%B8%AD%E5%9C%8B%E6%A9%9F%E6%A2%B0%E4%BA%BA%E6%89%93%E7%A0%B4%E4%BA%BA%E9%A1%9E%E7%99%BE%E7%B1%B3%E7%B4%80%E9%8C%84",
-    "timestamp": "2026-08-22T14:57:36.339Z",
     "strategy": ".content-card__main"
   }
 ];
