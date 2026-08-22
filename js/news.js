@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-22T23:43:02.296Z
+// Last updated: 2026-08-22T23:57:13.295Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "烏無人機襲俄線上零售倉庫釀10死　普京稱基輔「打開潘朵拉盒子」",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260813/1164676870969495552493267.jpeg/QstxIg-8LmZSsSJEeIsNt3a6LUrKJChfPCdAhzwnQIc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60382724/%E7%83%8F%E7%84%A1%E4%BA%BA%E6%A9%9F%E8%A5%B2%E4%BF%84%E7%B7%9A%E4%B8%8A%E9%9B%B6%E5%94%AE%E5%80%89%E5%BA%AB%E9%87%8010%E6%AD%BB-%E6%99%AE%E4%BA%AC%E7%A8%B1%E5%9F%BA%E8%BC%94-%E6%89%93%E9%96%8B%E6%BD%98%E6%9C%B5%E6%8B%89%E7%9B%92%E5%AD%90",
+    "timestamp": "2026-08-22T23:57:13.295Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "狂徒夜襲泰國南部三府　縱火爆炸槍擊遍野　至少兩人受傷",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260823/1167995798047166464092734.png/WdoboHeVlqh_WH1Owat8SuT69qaNj0lsJeJ-rSXifq0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60382705/%E6%AD%90%E6%B4%B2%E7%86%B1%E6%B5%AA%E8%87%B4%E5%A4%9A%E7%91%99%E6%B2%B3%E6%B0%B4%E4%BD%8D%E5%A4%A7%E8%B7%8C-%E7%BE%85%E9%A6%AC%E5%B0%BC%E4%BA%9E%E4%BF%AE%E5%BB%BA%E4%B8%81%E5%A3%A9%E7%9B%BC%E9%87%8D%E5%95%9F%E5%94%AF%E4%B8%80%E6%A0%B8%E9%9B%BB%E7%AB%99",
     "timestamp": "2026-08-22T18:11:25.965Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "25歲港男子英國住所離世　入境處接獲求助：已按家屬意願提供協助",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260823/1167993788895858688836129.jpeg/4dRb5u76Zxc2EIlJpB6u232dj5r3oKiJs3qkGrN6pBo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60382706/25%E6%AD%B2%E6%B8%AF%E7%94%B7%E5%AD%90%E8%8B%B1%E5%9C%8B%E4%BD%8F%E6%89%80%E9%9B%A2%E4%B8%96-%E5%85%A5%E5%A2%83%E8%99%95%E6%8E%A5%E7%8D%B2%E6%B1%82%E5%8A%A9-%E5%B7%B2%E6%8C%89%E5%AE%B6%E5%B1%AC%E6%84%8F%E9%A1%98%E6%8F%90%E4%BE%9B%E5%8D%94%E5%8A%A9",
-    "timestamp": "2026-08-22T16:45:57.939Z",
     "strategy": ".content-card__main"
   }
 ];
