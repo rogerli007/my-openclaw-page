@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-22T18:30:19.178Z
+// Last updated: 2026-08-22T19:04:46.537Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "北美貿易戰開打　美國加徵50%關稅　卡尼稱實行等值反制",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260706/1150833035134898176436975.jpeg/847-hg5QxzIpfT6AJWsOV0XhGp5tXISx_baHuf22h7k?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60382711/%E5%8C%97%E7%BE%8E%E8%B2%BF%E6%98%93%E6%88%B0%E9%96%8B%E6%89%93-%E7%BE%8E%E5%9C%8B%E5%8A%A0%E5%BE%B550-%E9%97%9C%E7%A8%85-%E5%8D%A1%E5%B0%BC%E7%A8%B1%E5%AF%A6%E8%A1%8C%E7%AD%89%E5%80%BC%E5%8F%8D%E5%88%B6",
+    "timestamp": "2026-08-22T19:04:46.537Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "日本茨城南部發生5.9級地震　東京有震感",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260330/1115330722383532032407851.jpeg/kElrYQ6CxvECidq3TURxnB4UdW9StQ7FXSe7IF0nuyA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60382667/%E6%97%A5%E5%87%BA%E5%BA%B7%E5%9F%8E%E6%B5%B7%E7%91%85%E7%81%A3%E7%B3%BB%E5%88%97%E9%80%A3%E6%B2%BD10%E4%BC%99-%E5%A5%97%E7%8F%BE%E9%80%BE7550%E8%90%AC",
     "timestamp": "2026-08-22T11:43:16.203Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "孔劉粉絲見面會2026澳門｜門票攻略＋購票連結＋座位表",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260822/1167879918579617792149735.jpeg/UflK1kOavWklqbEh5yh0-20pRJZZoRtcw_DsC8Pw7As?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60382641/%E5%AD%94%E5%8A%89%E7%B2%89%E7%B5%B2%E8%A6%8B%E9%9D%A2%E6%9C%832026%E6%BE%B3%E9%96%80-%E9%96%80%E7%A5%A8%E6%94%BB%E7%95%A5-%E8%B3%BC%E7%A5%A8%E9%80%A3%E7%B5%90-%E5%BA%A7%E4%BD%8D%E8%A1%A8",
-    "timestamp": "2026-08-22T11:29:10.527Z",
     "strategy": ".content-card__main"
   }
 ];
