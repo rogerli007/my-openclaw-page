@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-22T18:11:25.965Z
+// Last updated: 2026-08-22T18:30:19.178Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "日本茨城南部發生5.9級地震　東京有震感",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260823/1168015188922732544029687.jpeg/-ypr9jag6IijQJPbW1jYwXJlCUmX3MOlhx9ZsocfWbI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60382710/%E6%97%A5%E6%9C%AC%E8%8C%A8%E5%9F%8E%E5%8D%97%E9%83%A8%E7%99%BC%E7%94%9F5-9%E7%B4%9A%E5%9C%B0%E9%9C%87-%E6%9D%B1%E4%BA%AC%E6%9C%89%E9%9C%87%E6%84%9F",
+    "timestamp": "2026-08-22T18:30:19.178Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "歐洲熱浪致多瑙河水位大跌　羅馬尼亞修建丁壩盼重啟唯一核電站",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260822/1167879918579617792149735.jpeg/UflK1kOavWklqbEh5yh0-20pRJZZoRtcw_DsC8Pw7As?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60382641/%E5%AD%94%E5%8A%89%E7%B2%89%E7%B5%B2%E8%A6%8B%E9%9D%A2%E6%9C%832026%E6%BE%B3%E9%96%80-%E9%96%80%E7%A5%A8%E6%94%BB%E7%95%A5-%E8%B3%BC%E7%A5%A8%E9%80%A3%E7%B5%90-%E5%BA%A7%E4%BD%8D%E8%A1%A8",
     "timestamp": "2026-08-22T11:29:10.527Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "九巴阿叔坐辦公椅泊輪椅區！扣好安全帶防碌走　網民嘲：真係輪椅",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260820/1167229448886423552957834.png/04J_osXSgysYl_3S9tlTopkBnUHkKAPLjRdcYY0XXGE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60382122/%E4%B9%9D%E5%B7%B4%E9%98%BF%E5%8F%94%E5%9D%90%E8%BE%A6%E5%85%AC%E6%A4%85%E6%B3%8A%E8%BC%AA%E6%A4%85%E5%8D%80-%E6%89%A3%E5%A5%BD%E5%AE%89%E5%85%A8%E5%B8%B6%E9%98%B2%E7%A2%8C%E8%B5%B0-%E7%B6%B2%E6%B0%91%E5%98%B2-%E7%9C%9F%E4%BF%82%E8%BC%AA%E6%A4%85",
-    "timestamp": "2026-08-22T11:11:37.263Z",
     "strategy": ".content-card__main"
   }
 ];
