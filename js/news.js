@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-22T15:29:37.016Z
+// Last updated: 2026-08-22T15:43:02.133Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "啦啦隊女神金佳垠專訪：赴台後人氣急升　在韓時曾辛苦到哭想放棄",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260818/1166402083952267264257689.jpeg/m1aBpTCLCSGxGiq9CTrsMfqvIthh-VgSOgWZQToFmUE",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60301504/%E5%95%A6%E5%95%A6%E9%9A%8A%E5%A5%B3%E7%A5%9E%E9%87%91%E4%BD%B3%E5%9E%A0%E5%B0%88%E8%A8%AA-%E8%B5%B4%E5%8F%B0%E5%BE%8C%E4%BA%BA%E6%B0%A3%E6%80%A5%E5%8D%87-%E5%9C%A8%E9%9F%93%E6%99%82%E6%9B%BE%E8%BE%9B%E8%8B%A6%E5%88%B0%E5%93%AD%E6%83%B3%E6%94%BE%E6%A3%84",
+    "timestamp": "2026-08-22T15:43:02.133Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "中年好聲音4｜吳亦偉被伍仲衡寸爆唱歌似泰文　親回應有靠山傳聞",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260822/1167880056278618112436925.jpeg/_Cu65PIxut2JcV5J1tZ9nyUoMsisib0fu1dFIYFXRSE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60382642/%E4%B8%AD%E5%B9%B4%E5%A5%BD%E8%81%B2%E9%9F%B34-%E9%84%AD%E5%AE%B6%E8%81%B2%E9%81%AD%E7%B6%B2%E6%B0%91%E7%96%91%E6%9C%AA%E5%AE%8C%E8%B3%BD%E5%85%88%E6%8B%BFtvb%E5%85%A5%E5%A0%B4%E5%88%B8-%E5%9B%9E%E6%87%89%E5%85%A7%E5%AE%9A%E9%A2%A8%E6%B3%A2",
     "timestamp": "2026-08-22T10:00:30.006Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "二戰結束81周年　高市早苗致詞未提反省　石破茂：真的可不提嗎",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20251010/1053396443710099456729014.jpeg/nF5mEjVA74jWDcJoQk2RBWHiWR43vLXIW0KDyltCg8o?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60382647/%E4%BA%8C%E6%88%B0%E7%B5%90%E6%9D%9F81%E5%91%A8%E5%B9%B4-%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E8%87%B4%E8%A9%9E%E6%9C%AA%E6%8F%90%E5%8F%8D%E7%9C%81-%E7%9F%B3%E7%A0%B4%E8%8C%82-%E7%9C%9F%E7%9A%84%E5%8F%AF%E4%B8%8D%E6%8F%90%E5%97%8E",
-    "timestamp": "2026-08-22T09:48:50.268Z",
     "strategy": ".content-card__main"
   }
 ];
