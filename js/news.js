@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-22T13:19:22.818Z
+// Last updated: 2026-08-22T13:36:42.267Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "英國警車恐怖車禍　與可疑車輛追逐期間相撞　7死包括2警",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260822/1167945365484212224932081.jpeg/_iIwt8QPCKBBMfjsSaKNKZGmmJfVtDakbvri2W764tk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60382682/%E8%8B%B1%E5%9C%8B%E8%AD%A6%E8%BB%8A%E6%81%90%E6%80%96%E8%BB%8A%E7%A6%8D-%E8%88%87%E5%8F%AF%E7%96%91%E8%BB%8A%E8%BC%9B%E8%BF%BD%E9%80%90%E6%9C%9F%E9%96%93%E7%9B%B8%E6%92%9E-7%E6%AD%BB%E5%8C%85%E6%8B%AC2%E8%AD%A6",
+    "timestamp": "2026-08-22T13:36:42.267Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "六合彩結果｜今期8.22頭獎1300萬即時攪珠｜中獎號碼+派彩獎金",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260822/1167860723682906112873152.jpeg/jf_RgU1LTkPIn7HADpNWFo3n-oSfQXCd28-jW-LPo1s?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60382622/tima%E5%9C%8B%E9%9A%9B%E9%9F%B3%E6%A8%82%E5%A4%A7%E8%B3%9E-aespa%E6%80%A7%E6%84%9F%E7%8F%BE%E8%BA%AB%E7%B4%85%E5%9C%B0%E6%B0%88-karina%E8%B0%B7%E8%83%B8%E6%9C%80%E6%90%B6%E9%8F%A1",
     "timestamp": "2026-08-22T07:59:33.985Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "國產彩虹YH-1000S無人機竟是用汽車混動裝置？除成本大減還更高效",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260819/1166710573526683648193205.jpeg/SAFEc77EWEAcwrUDl1Pqo5ldir6dmZPjGr_zaRq_82k?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60381431/%E5%9C%8B%E7%94%A2%E5%BD%A9%E8%99%B9yh-1000s%E7%84%A1%E4%BA%BA%E6%A9%9F%E7%AB%9F%E6%98%AF%E7%94%A8%E6%B1%BD%E8%BB%8A%E6%B7%B7%E5%8B%95%E8%A3%9D%E7%BD%AE-%E9%99%A4%E6%88%90%E6%9C%AC%E5%A4%A7%E6%B8%9B%E9%82%84%E6%9B%B4%E9%AB%98%E6%95%88",
-    "timestamp": "2026-08-22T07:37:20.866Z",
     "strategy": ".content-card__main"
   }
 ];
